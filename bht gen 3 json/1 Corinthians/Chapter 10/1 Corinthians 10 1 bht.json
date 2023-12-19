@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:10:51",
+    "verseRef": "1 Corinthians 10:1",
+    "bestBHT": {
+        "bht": "The Jewish Church stands as the parent of the Christian Church and the believers as true descendants of Abraham. However, despite their privileges, most of the Israelites were castaways due to rebellion and unbelief. The cloud, symbolizing the Divine presence, protected and guided the Israelites. This serves as a warning for the Corinthians to exercise self-denying watchfulness, for even with their greater privileges, they could meet a similar fate through lust. Believers must navigate the trials and temptations, relying on the presence of the Lord, just as the Israelites passed through the sea with the cloud.",
+        "wordCount": 97,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.9043862747672842,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+        "commentatorTierSimilarities": [
+            42.43,
+            31.09,
+            26.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "our fathers...regarding the Christian church as a continuation of the Jewish, and the believer as the true descendant of Abraham.",
+            "ALL had these privileges, as all of you have their counterparts under the Gospel: but most of them failed from rebellion and unbelief.",
+            "were under the cloud...the pillar of cloud, the abode of the Divine presence went before them, and was to them a defence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye need to exercise self-denying watchfulness notwithstanding all your privileges, lest ye be castaways. For the Israelites with all their privileges were most of them castaways through want of it.",
+            "Our fathers\u2014The Jewish Church stands in the relation of parent to the Christian Church.",
+            "All of them had great privileges, yet most of them were castaways through lust. Beware you, having greater privileges, of sharing the same doom through a similar sin."
+        ],
+        "Albert Barnes": [
+            "I would not have you suppose that even a solemn consecration to God and the possession of distinguished tokens of divine favor are a security against the danger of sin, and even apostasy; since the example of the favored Jews shows that even in such circumstances there is danger.",
+            "The entire Jewish community which Moses led forth from Egypt had thus been devoted to him.",
+            "His object is to accumulate the evidences of the divine favor to them, and to show that they had as many securities against apostasy as the Corinthians had, on which they so much relied."
+        ],
+        "Marvin Vincent": [
+            "Moreover [\u03b4\u03b5] . But the correct reading is gar for, introducing an illustration of rejection by God, and thus connecting what follows with the close of the last chapter.\" ",
+            "All. Strongly emphasized in contrast with most of them (A. V., many) in ver. 5. All enjoyed the privileges, but few improved them. The word is repeated five times.",
+            "Under the cloud. The cloudy pillar which guided the Israelites. It is sometimes spoken of as covering the host."
+        ],
+        "John Calvin": [
+            "If God spared not them, neither will he spare you, for your condition is similar.",
+            "The advantage of our baptism, on the other hand, is spiritual.",
+            "He will perceive both in the spiritual substance and in the visible sign a most striking correspondence between the baptism of the Jews, and ours."
+        ],
+        "Philip Schaff": [
+            "For I would not, brethren, have you ignorant, how that our fathers.",
+            "If ye are Christ's, then are ye Abraham's seed, and heirs according to the promise.",
+            "were all under the cloud...and all passed through the sea."
+        ],
+        "Archibald T. Robertson": [
+            "Paul appeals to the experience of the Israelites in the wilderness in confirmation of his statement concerning himself in 1 Corinthians 9:26 and as a powerful warning to the Corinthians who may be tempted to flirt with the idolatrous practices of their neighbors.",
+            "All under the cloud (\u03c0\u03b1\u03bd\u03c4\u03b5\u03c2 \u03c5\u03c0\u03bf \u03c4\u03b7\u03bd \u03bd\u03b5\u03c6\u03b5\u03bb\u03b7\u03bd). They all marched under the pillar of cloud by day (Exodus 13:21; Exodus 14:19) which covered the host (Numbers 14:14; Psalms 95:39).",
+            "This mystic cloud was the symbol of the presence of the Lord with the people."
+        ],
+        "John Gill": [
+            "This cloud, which is sometimes represented as a pillar, was not an erect solid body, which was at some distance before the Israelites, and merely as a guide, but was all around them; it was before them, and behind them, and on each side, and was over them...",
+            "And to distant beholders in the daytime it looked like a pillar of cloud; and in the nighttime, the sun being down, it looked like a pillar of fire...",
+            "But be this as it will, it is certain that they all passed through it, and came safe to shore."
+        ],
+        "John Wesley": [
+            "That ye may not become reprobates, consider how highly favoured your fathers were...and nevertheless were rejected by him.\" ",
+            "They were all under the cloud - That eminent token of God's gracious presence, which screened them from the heat of the sun by day, and gave them light by night.",
+            "And all passed through the sea \u2014 God opening a way through the midst of the waters."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the connection between the Jewish and Christian churches, with believers now seen as true descendants of Abraham. The Israelites, like the Corinthians, had great privileges from God, but many of them were castaways due to rebellion and unbelief. The cloud, representing the Divine presence, went before them, providing protection and guidance. Paul uses this example to warn the Corinthians against falling into idolatrous practices and encourages them to exercise self-denying watchfulness. Just as the Israelites passed through the sea with the cloud, believers must navigate their own trials and temptations, relying on the presence of the Lord.",
+            "wordCount": 101,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.9078934832676206,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                41.32,
+                32.39,
+                26.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jewish Church stands as the parent of the Christian Church and the believers as true descendants of Abraham. However, despite their privileges, most of the Israelites were castaways due to rebellion and unbelief. The cloud, symbolizing the Divine presence, protected and guided the Israelites. This serves as a warning for the Corinthians to exercise self-denying watchfulness, for even with their greater privileges, they could meet a similar fate through lust. Believers must navigate the trials and temptations, relying on the presence of the Lord, just as the Israelites passed through the sea with the cloud.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.9043862747672842,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "commentatorTierSimilarities": [
+                42.43,
+                31.09,
+                26.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jewish Church, viewed as a predecessor to the Christian Church, had privileges that the Corinthians could relate to. Yet, despite these privileges, many of the Israelites were castaways because of rebellion and unbelief. The cloud, representing the presence of God, served as a defense and guidance for the Israelites. This serves as a cautionary tale for the Corinthians, reminding them to exercise self-denying watchfulness to avoid a similar fate. Believers must navigate their own challenges, relying on the presence of the Lord, just as the Israelites passed through the sea with the cloud.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8422554080772455,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                42.8,
+                29.57,
+                27.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jewish Church, as the forerunner of the Christian Church, had privileges that the Corinthians could relate to. However, most of the Israelites became castaways due to rebellion and unbelief. The cloud, symbolizing the Divine presence, provided them with defense and guidance. This serves as a warning to the Corinthians to exercise self-denying watchfulness, lest they meet the same fate through lust. Believers must navigate their own trials and temptations, relying on the presence of the Lord, just as the Israelites did when they passed through the sea with the cloud.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.8600520425047127,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                42.16,
+                29.39,
+                28.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jewish Church, seen as the precursor to the Christian Church, provides insight into the experience of the Corinthians. While enjoying privileges, most of the Israelites were castaways due to rebellion and unbelief. The cloud, representing the Divine presence, acted as a defense and guide for the Israelites. Paul warns the Corinthians to be watchful, as they face similar temptations. Believers, like the Israelites passing through the sea with the cloud, must rely on the Lord's presence to navigate their own challenges.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.856947056353858,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.09,
+            "commentatorTierSimilarities": [
+                42.64,
+                31.43,
+                25.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

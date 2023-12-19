@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:15:38",
+    "verseRef": "Luke 6:16",
+    "bestBHT": {
+        "bht": "Judas of James, also known as Jude the brother of James, is listed among the twelve apostles. He is distinguished from Judas Iscariot, the infamous traitor. The mention of pairs and couples in the formation of the apostles hints at the influence of Jewish fathers and doctors, including notable figures like Jose ben Joezer, Joseph ben Jochauan, Joshua ben Perachia, Nathan the Arbelite, Simeon ben Shetach, and Judah ben Tabai. This inclusion highlights the diverse composition of the chosen apostles.",
+        "wordCount": 80,
+        "quoteTokenProportion": 23.64,
+        "qualityScore": 1.8099415656191615,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+        "commentatorTierSimilarities": [
+            53.15,
+            0.0,
+            46.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16.] Judas of James\u2014usually, and I believe rightly, rendered Jude the brother of James: see Introduction to Jude. On the question who this James was, see on Matt, x. 3, and xiii, 55."
+        ],
+        "Marvin Vincent": [
+            "Judas. See on Thaddaeus, Mark 3:18. ",
+            "Judas Iscariot. See on Matthew 10:4."
+        ],
+        "Archibald T. Robertson": [
+            "Which was the traitor (\u03bf\u03c2 \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf \u03c0\u03c1\u03bf\u03b4\u03bf\u03c4\u03b7\u03c2). Who became traitor, more exactly, \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf, not \u03b7\u03bd. He gave no signs of treachery when chosen. "
+        ],
+        "John Gill": [
+            "These twelve are mentioned by pairs, or couples, and so they were sent out, two by two.",
+            "There seems to be an allusion to the pairs and couples of the Jewish fathers and doctors.",
+            "Jose ben Joezer, and Joseph ben Jochauan; Joshua ben Perachia, and Nathan the Arbelite; Simeon ben Shetach, and Judah ben Tabai; Shemain and Abtalion; the two sons of Bethira, whose names were Judah and Joshua; Hillell and Shammai."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas of James, also known as Jude the brother of James, is mentioned in Luke 6:16. He is distinguished from Judas Iscariot, the infamous traitor, who was not initially recognized as such when chosen. This verse completes the list of the twelve apostles, which is presented in pairs or couples. The mention of pairs and couples can be seen as an allusion to the Jewish fathers and doctors. This includes notable figures such as Jose ben Joezer and Joseph ben Jochauan, Joshua ben Perachia and Nathan the Arbelite, Simeon ben Shetach and Judah ben Tabai, and others. Ultimately, the inclusion of Judas of James highlights the diverse and unique composition of the chosen apostles.",
+            "wordCount": 113,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.802878778262182,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.29,
+            "commentatorTierSimilarities": [
+                43.69,
+                0.0,
+                56.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas of James or Jude the brother of James, who later became a traitor, is listed among the twelve apostles. While he showed no signs of treachery initially, his actions would prove otherwise. The mention of pairs and couples in the formation of the twelve apostles mirrors the Jewish fathers and doctors. Notable figures like Jose ben Joezer, Joseph ben Jochauan, Joshua ben Perachia, Nathan the Arbelite, Simeon ben Shetach, and Judah ben Tabai were known for their partnerships. This inclusion emphasizes the diverse composition of the chosen apostles.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.5649325720952225,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                44.38,
+                0.0,
+                55.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas of James, also known as Jude the brother of James, was one of the twelve apostles. He is distinguished from Judas Iscariot, the traitor who emerged later. Though initially not showing any signs of treachery, he would eventually betray Jesus. The mention of pairs and couples in the formation of the apostles may allude to the Jewish fathers and doctors, including figures like Jose ben Joezer, Joseph ben Jochauan, Joshua ben Perachia, Nathan the Arbelite, Simeon ben Shetach, and Judah ben Tabai. This highlights the diverse composition of the chosen apostles.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.7875481945905678,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.78,
+            "commentatorTierSimilarities": [
+                58.49,
+                0.0,
+                41.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Of the twelve apostles mentioned in Luke 6:16, Judas of James, also known as Jude the brother of James, stands out as the one who would eventually become a traitor. Unlike Judas Iscariot, who showed no signs of treachery initially, Judas of James emerged as the deceitful one. The mention of pairs and couples in the formation of the apostles may allude to the Jewish fathers and doctors, showcasing the diverse composition of those chosen by Jesus.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.135001475216784,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.33,
+            "commentatorTierSimilarities": [
+                59.42,
+                0.0,
+                40.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas of James, also known as Jude the brother of James, is listed among the twelve apostles. He is distinguished from Judas Iscariot, the infamous traitor. The mention of pairs and couples in the formation of the apostles hints at the influence of Jewish fathers and doctors, including notable figures like Jose ben Joezer, Joseph ben Jochauan, Joshua ben Perachia, Nathan the Arbelite, Simeon ben Shetach, and Judah ben Tabai. This inclusion highlights the diverse composition of the chosen apostles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.8099415656191615,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                53.15,
+                0.0,
+                46.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

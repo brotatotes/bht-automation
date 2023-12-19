@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:15:49",
+    "verseRef": "Jude 9",
+    "bestBHT": {
+        "bht": "During the dispute between Michael the archangel and the devil over Moses' body, Michael refrained from making a judgment of evil speaking against Satan and instead declared, The Lord rebuke thee. This incident is presented as a matter of fact rather than an argument. The narration distinguishes Christ from the archangel Michael, highlighting their separate identities. Josephus confirms the concealing of Moses' body by God. Michael's humility in leaving judgment to God demonstrates his remembrance of his own fall from grace.",
+        "wordCount": 82,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.9291627383115708,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.49,
+        "commentatorTierSimilarities": [
+            41.52,
+            27.42,
+            31.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But Michael the archangel...dared not...bring against him a judgment of evil speaking, but said, The Lord rebuke thee.",
+            "The only straightforward conclusion is, that St. Jude took the incident from primitive tradition, which tradition, slightly modified, is also given by the prophet Zechariah.",
+            "That the incident is related as matter of fact, and not as an 'argumentum ad hominem,' is evident by the very form of it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The only other passage in the New Testament where it occurs, is where Christ is distinguished from the archangel, with whose voice He shall descend to raise the dead; they therefore err who confound Christ with Michael.",
+            "Thus in each dispensation a sample and pledge of the future resurrection was given: Enoch in the patriarchal dispensation, Moses in the Levitical, Elijah in the prophetical.",
+            "Josephus states that God hid Moses\u2019 body, lest, if it had been exposed to view, it would have been made an idol of."
+        ],
+        "Albert Barnes": [
+            "Who can prove that [the tradition] is not? What evidence is there that it is not? How is it possible to demonstrate that it is not?",
+            "There is no need of supposing that the subject of the dispute was about burying the body of Moses; or that Michael sought to bury it, and the devil endeavored to prevent it.",
+            "No one can possibly demonstrate that it is not true."
+        ],
+        "Marvin Vincent": [
+            "Michael remembered the high estate from which he fell, and left his sentence to God.",
+            "The passages are vv. 9, 14, 15. This reference to Michael was said by Origen to be founded on a Jewish work called 'The Assumption of Moses.'",
+            "Angels are described in scripture as forming a society with different orders and dignities."
+        ],
+        "John Calvin": [
+            "Angels, far more excellent than men, dare not bring forward a railing judgment.",
+            "It is beyond controversy that Moses was buried by the Lord, that is, that his grave was concealed according to the known purpose of God.",
+            "Michael dared not to speak more severely against Satan (though a reprobate and condemned) than to deliver him to God to be restrained."
+        ],
+        "Philip Schaff": [
+            "They do against dignities what even the archangel would not do against Satan.\" ",
+            "The most probable explanation is that there was a Jewish tradition to which Jude appeals.",
+            "The solution that God revealed these facts to Jude is of course possible, but it is not likely."
+        ],
+        "Archibald T. Robertson": [
+            "Michael the archangel is mentioned also in Daniel 10:13; Daniel 10:21; Daniel 12:1; Revelation 12:7.\" (Commentary)",
+            "Clement of Alex. (Adumb. in Ep. Judae) says that Jude quoted here the Assumption of Moses, one of the apocryphal books.\" (Commentary)",
+            "Mayor thinks that the author of the Assumption of Moses took these words from Zechariah and put them in the mouth of the Archangel Michael.\" (Commentary)"
+        ],
+        "John Gill": [
+            "By whom is meant, not a created angel, but an eternal one, the Lord Jesus Christ.",
+            "He chose not to do it, he would not do it; in which sense the word 'durst', or 'dare', is used in Romans 5:7.",
+            "Then how great is the insolence of these men, that speak evil of civil and ecclesiastical rulers, without any just cause at all?"
+        ],
+        "John Wesley": [
+            "Yet Michael...It suffices, that these things were not only true, but acknowledged as such by them to whom he wrote.",
+            "Whether there be one archangel only, or more, it is not possible for us to determine.",
+            "Durst not bring even against him a railing accusation...so great was his modesty! The Lord rebuke thee - I leave thee to the Judge of all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Michael the archangel, when contending with the devil about the body of Moses, dared not bring a judgment of evil speaking against Satan but said, The Lord rebuke thee. This incident is not merely an argument against Satan but is presented as a matter of fact. It distinguishes Christ from Michael, making it clear that they are not the same. The act of concealing Moses' body is confirmed by Josephus. Michael's choice to leave the judgment to God reflects his remembrance of his own fall from high estate. These passages allude to Jewish works and highlight the hierarchical order of angels. The author of Jude appeals to tradition to emphasize that even the archangel Michael refrained from speaking against Satan.",
+            "wordCount": 121,
+            "quoteTokenProportion": 32.91,
+            "qualityScore": 2.041497386167519,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                36.83,
+                31.66,
+                31.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Michael the archangel contended with the devil about the body of Moses, he did not dare to bring a judgment of evil speaking against Satan. Instead, he humbly said, The Lord rebuke thee. This incident is not just an argument, but a factual event. Josephus confirms the act of God concealing Moses' body. It is evident that Michael remembered his fallen state and left the judgment to God. These passages allude to Jewish works and emphasize the hierarchical order of angels.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8873360961831214,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                39.04,
+                28.53,
+                32.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the dispute between Michael the archangel and the devil over Moses' body, Michael refrained from making a judgment of evil speaking against Satan and instead declared, The Lord rebuke thee. This incident is presented as a matter of fact rather than an argument. The narration distinguishes Christ from the archangel Michael, highlighting their separate identities. Josephus confirms the concealing of Moses' body by God. Michael's humility in leaving judgment to God demonstrates his remembrance of his own fall from grace.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9291627383115708,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.49,
+            "commentatorTierSimilarities": [
+                41.52,
+                27.42,
+                31.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Michael the archangel disputed with the devil over the body of Moses, he chose not to bring a judgment of evil speaking against Satan, but instead said, The Lord rebuke thee. This incident is not merely an argument against Satan, but a real event. The passage distinguishes between Christ and the archangel Michael, dispelling any confusion. Michael's decision to leave judgment to God demonstrates his humility and remembrance of his own fallen state. These references to Jewish tradition highlight the hierarchical order of angels and the respect due to their dignities.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 2.000013001118403,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                37.38,
+                30.07,
+                32.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Michael the archangel disputed with the devil over Moses' body, he refrained from making a judgment of evil speaking against Satan. Instead, he declared, The Lord rebuke thee. This incident is presented as a matter of fact, not a mere argument. By distinguishing Christ from the archangel Michael, the verse clarifies their separate identities. Josephus confirms the concealment of Moses' body by God. Michael's choice to entrust judgment to God reflects his humility and remembrance of his own fall from grace. These references to Jewish tradition highlight the hierarchical order of angels and the respect accorded to their dignities.",
+            "wordCount": 101,
+            "quoteTokenProportion": 28.17,
+            "qualityScore": 1.868653773798321,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.47,
+            "commentatorTierSimilarities": [
+                39.93,
+                27.01,
+                33.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

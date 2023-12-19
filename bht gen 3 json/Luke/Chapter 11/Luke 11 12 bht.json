@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:17:47",
+    "verseRef": "Luke 11:12",
+    "bestBHT": {
+        "bht": "A father wouldn't give his child a dangerous creature, so the scorpion mentioned must not refer to a literal one. Instead, it likely represents something harmful, such as the serpent-like land scorpion that is venomous and mischievous. This interpretation enriches our understanding of the message.",
+        "wordCount": 47,
+        "quoteTokenProportion": 45.24,
+        "qualityScore": 1.3192999183843306,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.21,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Of which there are three sorts; some are terrestrial, or land scorpions, scorpions of the earth, a kind of serpents, very venomous and mischievous...\" (36 words)",
+            "By it may be meant here, either the fish that is so called, since a fish is mentioned before; or rather, the land scorpion, which is of the serpent kind...\" (34 words)",
+            "but what father would do so to a child!\" (10 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A father wouldn't give his child a dangerous creature, so the scorpion mentioned in the Bible verse must not refer to a literal scorpion. Instead, it likely represents something harmful, such as the serpent-like land scorpion that is venomous and mischievous. This interpretation aligns with the context of the passage and helps us understand the verse more deeply.",
+            "wordCount": 60,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3791511307637319,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A father wouldn't give his child a dangerous creature, so the scorpion mentioned must not refer to a literal one. Instead, this must symbolize the malicious and venomous nature of the serpent-like land scorpion - a kind of serpent that is very harmful. This understanding enriches our perception of this message.",
+            "wordCount": 52,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.2714687884872553,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.62,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A father wouldn't give his child a dangerous creature, so the scorpion mentioned must not refer to a literal one. Instead, it likely represents something harmful, such as the serpent-like land scorpion that is venomous and mischievous. This interpretation helps us understand the verse more deeply.",
+            "wordCount": 48,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.3679369359920195,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.83,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A father wouldn't give his child a dangerous creature, so the scorpion mentioned must not refer to a literal one. Instead, it likely represents something harmful, such as the serpent-like land scorpion that is venomous and mischievous. This interpretation enriches our understanding of the message.",
+            "wordCount": 47,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.3192999183843306,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.21,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A father wouldn't give his child a dangerous creature, so the scorpion mentioned in the Bible verse must not refer to a literal scorpion. Instead, it likely represents something harmful, such as the serpent-like land scorpion that is venomous and mischievous. This interpretation aligns with the context of the Bible and deepens our understanding of the verse.",
+            "wordCount": 59,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.40827197503518,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.17,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

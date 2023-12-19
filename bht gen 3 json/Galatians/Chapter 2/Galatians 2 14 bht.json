@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:14:25",
+    "verseRef": "Galatians 2:14",
+    "bestBHT": {
+        "bht": "Paul confronts Peter for his hypocritical behavior in compelling Gentile converts to Judaize. Peter, who had previously lived like a Gentile, now succumbs to pressure and veers off the truthful path of the gospel. This indirect compulsion imposed on Gentile Christians through Peter's example is addressed by Paul, who persuades Peter and Barnabas to align their conduct with the true teachings of the gospel. This confrontation emphasizes the importance of reproving those who err, as it is a vital duty for the church.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 2.0286858694620538,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+        "commentatorTierSimilarities": [
+            36.98,
+            27.58,
+            35.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If thou, being a Jew, livest as a Gentile, and not as a Jew, how is it that thou art compelling the Gentiles to Judaize?",
+            "The high authority of Peter and Barnabas would make the Gentile converts view their course as necessary to all Christians.",
+            "There is no need to suppose that the persons who came from James actually compelled the Gentile converts to Judaize, as necessary to salvation, and Peter upheld them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "were not walking with straightforward steps.",
+            "the truth of the gospel\u2014which teaches that justification by legal works and observances is inconsistent with redemption by Christ.",
+            "What had been formerly obedience to the law, is now mere Judaism."
+        ],
+        "Albert Barnes": [
+            "The spirit of the world is crafty, cunning, and crooked. The gospel would correct all that wily policy, and would lead man in a path of entire honesty and truth.",
+            "(3) That it is a duty to reprove those who err. It is a painful duty, and one much neglected; still it is a duty often enjoined in the Scriptures, and one that is of the deepest importance to the church.",
+            "A good man is willing to be reproved when he has erred, and it is usually proof that there is much that is wrong when we become excited and irritable if another admonishes us of our faults."
+        ],
+        "Marvin Vincent": [
+            "Being a Jew. The verb means originally to begin; thence to come forth, be at hand, be in existence.",
+            "The most that can be said is that it often is found simply in the sense of to be.",
+            "Indirect compulsion exerted by Peter's example."
+        ],
+        "John Calvin": [
+            "But to bind the consciences of godly men by an obligation to keep the law, and to bury in silence the doctrine of liberty, was to purchase unity at an exorbitant price.",
+            "This example instructs us, that those who have sinned publicly must be publicly chastised, so far as concerns the Church.",
+            "The use of ceremonies was free for the purposes of edification, provided that believers were not deprived of their liberty, or laid under any restraint from which the gospel sets them free."
+        ],
+        "Philip Schaff": [
+            "Straight, uprightly, honestly. According to (the rule of) the truth.\" ",
+            "A public scandal could not be privately cured.\" ",
+            "The example of such an Apostle as Peter implied a sort of moral compulsion even for Gentile Christians."
+        ],
+        "Archibald T. Robertson": [
+            "They are not walking straight.\" ",
+            "Paul charges Peter with trying to compel the Gentiles to live all like Jews, to Judaize the Gentile Christians.",
+            "But Paul won Peter back and Barnabas also."
+        ],
+        "John Gill": [
+            "they halted, as the Jews of old did, between two opinions, being partly for God, and partly for Baal\" ",
+            "their Christian conduct was not according to the true, genuine, unmixed Gospel of Christ\" ",
+            "how he could, I say, make use of any means whatever to engage these to comply with Jewish rites and ceremonies"
+        ],
+        "John Wesley": [
+            "I said to Cephas before them all \u2014 See Paul single against Peter and all the Jews!",
+            "If thou being a Jew, yet livest, in thy ordinary conversation, after the manner of the gentiles - Not observing the ceremonial law, which thou knowest to be now abolished.",
+            "Why compellest thou the gentiles \u2014 By withdrawing thyself and all the ministers from them; either to judaize, to keep the ceremonial law, or to be excluded from church communion?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul confronts Peter in Galatians 2:14, accusing him of hypocrisy. Peter, who had once lived like a Gentile, had now succumbed to the pressure of the Jewish Christians and was compelling the Gentile converts to Judaize. Paul challenges Peter for not walking straightforwardly in line with the truth of the gospel, which teaches that salvation is not attained through the observance of the law. Although Peter's example imposed an indirect compulsion on the Gentile Christians, Paul was able to convince him and Barnabas to rectify their actions. This confrontation highlights the importance of reproving those who err, as it is a duty that is of deep significance to the church.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 2.0463965381329405,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+            "commentatorTierSimilarities": [
+                37.65,
+                25.59,
+                36.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul confronts Peter for his hypocritical behavior in compelling Gentile converts to Judaize. Peter, who had previously lived like a Gentile, now succumbs to pressure and veers off the truthful path of the gospel. This indirect compulsion imposed on Gentile Christians through Peter's example is addressed by Paul, who persuades Peter and Barnabas to align their conduct with the true teachings of the gospel. This confrontation emphasizes the importance of reproving those who err, as it is a vital duty for the church.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.0286858694620538,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                36.98,
+                27.58,
+                35.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul confronts Peter for his hypocrisy in Galatians 2:14. He accuses Peter of contradicting his own previous actions by compelling Gentile converts to Judaize. Paul highlights the importance of walking straightforwardly in line with the truth of the gospel, which teaches that salvation is not attained through the observance of the law. Although Peter's example indirectly imposed a moral compulsion on Gentile Christians, Paul was able to persuade Peter and Barnabas to rectify their actions. This confrontation demonstrates the significance of reproving those who err and aligning with the teachings of the gospel.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.0028289381062265,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                37.5,
+                26.19,
+                36.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul confronts Peter for his hypocritical behavior in compelling Gentile converts to Judaize. Peter, who had previously lived like a Gentile, now succumbs to pressure and veers off the truthful path of the gospel. This indirect compulsion imposed on Gentile Christians through Peter's example is addressed by Paul, who persuades Peter and Barnabas to align their conduct with the true teachings of the gospel. This confrontation emphasizes the importance of reproving those who err, as it is a vital duty for the church.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.0286858694620538,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                36.98,
+                27.58,
+                35.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul confronts Peter in Galatians 2:14, accusing him of hypocrisy. Peter, who had once lived like a Gentile, had now succumbed to the pressure of the Jewish Christians and was compelling the Gentile converts to Judaize. Paul challenges Peter for not walking straightforwardly in line with the truth of the gospel, which teaches that salvation is not attained through the observance of the law. Although Peter's example imposed an indirect compulsion on the Gentile Christians, Paul was able to convince him and Barnabas to rectify their actions. This confrontation underscores the importance of reproving those who err, as it is a duty of utmost significance to the church.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 2.049415387765747,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                37.61,
+                25.85,
+                36.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

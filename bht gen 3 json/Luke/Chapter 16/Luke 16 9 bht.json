@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:20:47",
+    "verseRef": "Luke 16:9",
+    "bestBHT": {
+        "bht": "Although we are children of the light and can do no furtive acts, we are instructed to use the mammon of unrighteousness to make friends and secure a heavenly habitation. By demonstrating acts of charity and mercy, we can turn the unjust mammon to our advantage. Money is not the key to heaven, but rather, it is the way we use it for God's kingdom. Let us be good stewards of our riches, making friends of them, so that we may receive everlasting habitations when we fail.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.091956977622789,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+        "commentatorTierSimilarities": [
+            32.88,
+            30.42,
+            36.7
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I say unto you. It seems to recognize a necessary difference in the two situations:\u2014 \u2018although you are children of the light and the day, and can do no such furtive acts, yet I say to YOU\u2019...\" (23 words)",
+            "We are to use this mammon of unrighteousness to make ourselves,\u2014not palaces, nor barns, nor estates, nor treasures,\u2014but friends...\" (21 words)",
+            "Deeds then of charity and mercy are to be our spiritual shrewdness, by which we may turn to our account the unjust mammon...\" (21 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Make . . . friends of\u2014Turn to your advantage; that is, as the steward did, 'by showing mercy to the poor.'\" ",
+            "ye may be received'... 'those ye have relieved may rise up as witnesses for you' at the great day. Then, like the steward, when turned out of one home shall ye secure another; but better than he, a heavenly for an earthly, an everlasting for a temporary habitation.\" ",
+            "Money is not here made the key to heaven, more than 'the deeds done in the body' in general, according to which, as a test of character\u2014but not by the merit of which\u2014men are to be judged."
+        ],
+        "Albert Barnes": [
+            "So, says our Saviour to the publicans and those who had property, so use your property as 'to secure' happiness and comfort beyond the time when you shall be removed from the present life.",
+            "This may be done by using our riches as we 'should do;' that is, by not suffering them to entangle us in cares and perplexities dangerous to the soul, engrossing the time, and stealing away the affections; by employing them in works of mercy and benevolence...",
+            "We cannot 'calculate' on its continuance. It may give us support or comfort now, but it may be soon removed, or we taken from 'it,' and we should, therefore, so use it as to derive benefit from it hereafter."
+        ],
+        "Marvin Vincent": [
+            "Of the mammon of unrighteousness...because it is the characteristic and representative object and delight and desire of the selfish and unrighteous world.",
+            "Their love of it being a root of all evil.",
+            "When it (the mammon) fails, they may receive...habitations."
+        ],
+        "John Calvin": [
+            "By acts of charity we obtain favor with God, who has promised, that to the merciful he will show himself merciful.",
+            "The Lord looks not to the persons, but to the work itself, so that our liberality, though it may happen to be exercised towards ungrateful men, will be of avail to us in the sight of God.",
+            "By giving this name to riches, he intends to render them an object of our suspicion, because for the most part they involve their possessors in unrighteousness."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus knows the evil power in money, but servants of God have to use it for the kingdom of God.",
+            "The mammon is sure to fail.",
+            "The wise way to lay up treasure in heaven is to use one's money for God here on earth."
+        ],
+        "John Gill": [
+            "Make to yourselves friends of the mammon of unrighteousness: by 'mammon' are designed riches, wealth, and substance.",
+            "...for worldly riches are very empty and fallacious; wherefore deceitfulness is ascribed to them; and they are called uncertain riches, which are not to be depended upon.",
+            "...it is the interest of rich men to make [the poor saints] their friends: that when ye fail... they may receive you into everlasting habitations."
+        ],
+        "John Wesley": [
+            "Be good stewards even of the lowest talents wherewith God hath intrusted you.",
+            "Make yourselves friends of this, by doing all possible good, particularly to the children of God.",
+            "That when ye fail, when your flesh and your heart faileth, when this earthly tabernacle is dissolved, those of them who have gone before may receive, may welcome you into the everlasting habitations."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Although we are children of the light and can do no furtive acts, we are instructed to use the mammon of unrighteousness to make friends and secure for ourselves a heavenly and everlasting habitation. Therefore, let our shrewdness be manifested through deeds of charity and mercy, by which we can turn the unjust mammon to our advantage. Let us remember that money is not the key to heaven, but rather, it is the way we use it for the kingdom of God that matters. May we be good stewards of the riches and substance entrusted to us, making friends of the mammon of unrighteousness, so that when our flesh and our heart fail, we may be welcomed into the everlasting habitations.",
+            "wordCount": 121,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 2.1899265306099327,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.16,
+            "commentatorTierSimilarities": [
+                31.28,
+                34.83,
+                33.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Although we are children of the light, we are told to use the mammon of unrighteousness to make friends and secure heavenly habitation. Let our spiritual shrewdness be manifested through acts of charity and mercy, turning the unjust mammon to our advantage. Money is not the key to heaven, but the way we use it for God's kingdom matters. As good stewards, let us make friends of riches, so when our time on earth ends, we may receive everlasting habitation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.0747385137214973,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.33,
+            "commentatorTierSimilarities": [
+                32.41,
+                32.56,
+                35.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As children of the light, we possess no capacity for furtive acts, yet we are urged to utilize the mammon of unrighteousness to establish friendships and acquire everlasting dwellings. Demonstrating spiritual shrewdness, we employ acts of charity and mercy to transform the unjust mammon in our favor. Money itself does not unlock heaven's gates, but rather, it is our use of it for God's purpose that holds significance. Let us therefore steward our riches, making friends of them, so that when faced with transience, we may find ourselves receiving heavenly abodes.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 2.0309581623682087,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                30.94,
+                33.09,
+                35.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Although we are children of the light and can do no furtive acts, we are instructed to use the mammon of unrighteousness to make friends and secure a heavenly habitation. By demonstrating acts of charity and mercy, we can turn the unjust mammon to our advantage. Money is not the key to heaven, but rather, it is the way we use it for God's kingdom. Let us be good stewards of our riches, making friends of them, so that we may receive everlasting habitations when we fail.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.091956977622789,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+            "commentatorTierSimilarities": [
+                32.88,
+                30.42,
+                36.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As children of the light, we should use the mammon of unrighteousness to make friends and secure everlasting habitation. Our spiritual shrewdness should be evident through acts of charity and mercy, turning the unjust mammon to our benefit. Money is not the key to heaven, but how we use it for God's kingdom is what counts. Let us be good stewards of our riches, making friends of them, so that when we fail, we will be welcomed into everlasting habitations.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.06259177665899,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.92,
+            "commentatorTierSimilarities": [
+                31.72,
+                32.75,
+                35.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

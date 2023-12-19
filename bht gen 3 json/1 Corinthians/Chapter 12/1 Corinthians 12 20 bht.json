@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 15:12:19",
+    "verseRef": "1 Corinthians 12:20",
+    "bestBHT": {
+        "bht": "In contrast to a supposition, it is revealed that the body of Christ is made up of many members that are mutually dependent on one another. The unity of the body is maintained through a diversity of members, each with a mutual connection, working together for its preservation. None of the members can be spared, as even the meanest contributes to the church's fulness. The church, as one complete body, consists of many members, all united together.",
+        "wordCount": 78,
+        "quoteTokenProportion": 52.94,
+        "qualityScore": 1.548823825168965,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.84,
+        "commentatorTierSimilarities": [
+            29.88,
+            0.0,
+            70.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "20.] brings out the fact in contrast to ver. 19, as ver. 18 in contrast to ver. 17."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. now\u2014as the case really is:",
+            "\tin contrast to the supposition ( :-; compare 1 Corinthians 12:18).",
+            "\t",
+            "many members\u2014mutually",
+            "\tdependent."
+        ],
+        "John Calvin": [
+            "The unity of the body is of such a nature as cannot be maintained but by a diversity of members...",
+            "...it is in such a way as to have a mutual connection with each other for the preservation of the one body.",
+            "Hence no body can retain its standing without a diversified symmetry of the members..."
+        ],
+        "Archibald T. Robertson": [
+            "Many members, but one body (\u03c0\u03bf\u03bb\u03bb\u03b1 \u03bc\u03b5\u03bb\u03b7, \u03b5\u03bd \u03b4\u03b5 \u03c3\u03c9\u03bc\u03b1). The argument in a nutshell, in one epigram. "
+        ],
+        "John Gill": [
+            "Yet but one body; all are united together, and make up one complete body.",
+            "There are many members in the body of Christ, the church; some are teachers, others are hearers; some give, and others receive; but all make up but one church.",
+            "Nor can anyone of them be spared; was anyone wanting, even the meanest, there would be a deficiency, and the church would not be the fulness of him that filleth all in all."
+        ],
+        "John Wesley": [
+            "But one body \u2014 And it is a necessary consequence of this unity, that the several members need one another."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 12:20, it is emphasized that the body of Christ is made up of many members that are mutually dependent on one another. The unity of the body can only be maintained through a diversity of members that have a mutual connection for the preservation of the one body. Without this diversified symmetry, the body would not be complete. Each member, regardless of their role or position, is essential and cannot be spared. The church, as one complete body, consists of many members who contribute in different ways. It is a necessary consequence of this unity that the several members need one another for the body to function properly.",
+            "wordCount": 109,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.4385126455842792,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.17,
+            "commentatorTierSimilarities": [
+                22.72,
+                0.0,
+                77.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In contrast to a supposition, 1 Corinthians 12:20 reveals that the body of Christ is made up of many members that are mutually dependent on one another. The unity of the body is maintained through a diversity of members, each with a mutual connection, working together for its preservation. None of the members can be spared, as even the meanest contributes to the church's fulness. The church, as one complete body, consists of many members, all united together.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 1.5328391212718868,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.31,
+            "commentatorTierSimilarities": [
+                31.09,
+                0.0,
+                68.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In contrast to a supposition, it is revealed that the body of Christ is made up of many members that are mutually dependent on one another. The unity of the body is maintained through a diversity of members, each with a mutual connection, working together for its preservation. None of the members can be spared, as even the meanest contributes to the church's fulness. The church, as one complete body, consists of many members, all united together.",
+            "wordCount": 78,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 1.548823825168965,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.84,
+            "commentatorTierSimilarities": [
+                29.88,
+                0.0,
+                70.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 1 Corinthians 12:20, the contrast between many members and one body is brought out. The unity of the body is maintained by the mutual dependence and connection of its diverse members. Each member is necessary and cannot be spared, as even the meanest contributes to the church's fullness. This verse emphasizes the importance of recognizing the value and contribution of every member of the church, as they are all united together in one complete body.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.440657307839148,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                28.68,
+                0.0,
+                71.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The unity of the body is of such a nature as cannot be maintained but by a diversity of members. All the members are united together and make up one complete body. Each member, no matter how small or insignificant, is necessary and contributes to the church's fullness. Without the mutual connection and dependence of the members, the body would be deficient. This emphasizes the importance of recognizing the value and contribution of every member of the church, as they are all united together in one complete body.",
+            "wordCount": 89,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 1.324437997834048,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.38,
+            "commentatorTierSimilarities": [
+                18.03,
+                0.0,
+                81.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

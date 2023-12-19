@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:17:56",
+    "verseRef": "Luke 10:28",
+    "bestBHT": {
+        "bht": "The answer was correct so far as the words went. Of course, if he kept the law perfectly always, he would inherit eternal life. True in all cases: any one who can and does love God and his neighbor thus, has already begun to live, has an earnest of eternal life. The parable which follows is but an explanation of how much is meant by 'this.' Like the Sermon on the Mount, it is an exposition of the law and a preparation for the gospel, but not the gospel itself.",
+        "wordCount": 90,
+        "quoteTokenProportion": 54.55,
+        "qualityScore": 1.761859176839142,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.92,
+        "commentatorTierSimilarities": [
+            25.33,
+            49.35,
+            25.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Right THIS do, and life is thine.\" ",
+            "Laying such emphasis on 'this' as to indicate, without expressing it, where the real difficulty to a sinner lay.\" ",
+            "Nonplussing the questioner himself."
+        ],
+        "John Calvin": [
+            "I have explained a little before, how this promise agrees with freely bestowed justification by faith; for the reason why God justifies us freely is, not that the Law does not point out perfect righteousness, but because we fail in keeping it.\" ",
+            "The reason why it is declared to be impossible for us to obtain life by it is, that it is weak through our flesh.\" ",
+            "These two statements are perfectly consistent with each other, that the Law teaches how men may obtain righteousness by works, and yet that no man is justified by works, because the fault lies not in the doctrine of the Law, but in men."
+        ],
+        "Philip Schaff": [
+            "This do and thou shalt live. True in all cases: any one who can and does love God and his neighbor thus, has already begun to live, has an earnest of eternal life.",
+            "The parable which follows is but an explanation of how much is meant by 'this.'",
+            "Like the Sermon on the Mount, it is an exposition of the law and a preparation for the gospel, but not the gospel itself."
+        ],
+        "Archibald T. Robertson": [
+            "The answer was correct so far as the words went.",
+            "There was only one trouble with the lawyer's answer. No one ever did or ever can 'do' what the law lays down towards God and man always.",
+            "Of course, if he kept the law perfectly always, he would inherit eternal life."
+        ],
+        "John Gill": [
+            "It is so written, and read; and this, as if he should say, is the sum and substance of the law, and what that requires men should do.\" ",
+            "According to the tenor of the law, eternal life was not to be had without a complete and perfect performance of the duties of love to God, and to the neighbour, contained in these words.\" ",
+            "He suggests, in order to convict him of the impossibility of obtaining life by the works of the law, since such a performance cannot be made by man."
+        ],
+        "John Wesley": [
+            "Thou hast answered right; this do, and thou shalt live \u2014 Here is no irony, but a deep and weighty truth.",
+            "He, and he alone, shall live for ever, who thus loves God and his neighbour in the present life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The answer was correct so far as the words went. Of course, if he kept the law perfectly always, he would inherit eternal life. True in all cases: any one who can and does love God and his neighbor thus, has already begun to live, has an earnest of eternal life. The parable which follows is but an explanation of how much is meant by 'this.' Like the Sermon on the Mount, it is an exposition of the law and a preparation for the gospel, but not the gospel itself. The reason why it is declared to be impossible for us to obtain life by it is, that it is weak through our flesh. According to the tenor of the law, eternal life was not to be had without a complete and perfect performance of the duties of love to God, and to the neighbour, contained in these words, but he suggests, in order to convict him of the impossibility of obtaining life by the works of the law, since such a performance cannot be made by man. He, and he alone, shall live for ever, who thus loves God and his neighbour in the present life.",
+            "wordCount": 197,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.7179400611275264,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.46,
+            "commentatorTierSimilarities": [
+                23.41,
+                41.9,
+                34.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The answer was correct so far as the words went. Of course, if he kept the law perfectly always, he would inherit eternal life. True in all cases: any one who can and does love God and his neighbor thus, has already begun to live, has an earnest of eternal life. The parable which follows is but an explanation of how much is meant by 'this.' Like the Sermon on the Mount, it is an exposition of the law and a preparation for the gospel, but not the gospel itself.",
+            "wordCount": 90,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.761859176839142,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.92,
+            "commentatorTierSimilarities": [
+                25.33,
+                49.35,
+                25.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The answer was correct if one could keep the law perfectly. But no one can. Eternal life is obtained through loving God and one's neighbor, and those who do so have already begun to experience true life. The parable that follows further explains the depth of this love. It is important to understand that the law shows us the righteousness required, but no person can be justified by their works. Ultimately, it is through love for God and others that one will truly live forever.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.3517575679543712,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.29,
+            "commentatorTierSimilarities": [
+                24.96,
+                40.02,
+                35.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The lawyer's answer was correct in theory, but the reality is that no one can perfectly keep the law and earn eternal life. The parable following this exchange reveals the depth of what it means to truly love God and one's neighbor. The law serves as a guide, but justification does not come through works alone. It is through genuine love for God and others that true life is found. This love is a central theme throughout the Bible, illustrating that it is through this love that we experience eternal life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.5470647905236112,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.78,
+            "commentatorTierSimilarities": [
+                21.42,
+                43.27,
+                35.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The answer was correct in acknowledging the significance of keeping the law for eternal life. However, it is impossible for humans to fulfill the requirements of the law completely. True life is attained through genuine love for God and one's neighbor, which is exemplified in the parable that follows. The law serves as a guideline, but it is weak due to human limitations. The law teaches how righteousness can be obtained, yet no one is justified by works alone. Eternal life is found in loving God and others sincerely in the present life.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.477683304598116,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.48,
+            "commentatorTierSimilarities": [
+                24.52,
+                37.06,
+                38.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

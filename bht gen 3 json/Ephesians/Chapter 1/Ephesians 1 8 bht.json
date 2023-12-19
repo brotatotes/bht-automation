@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:29:54",
+    "verseRef": "Ephesians 1:8",
+    "bestBHT": {
+        "bht": "God's manifold wisdom and prudence are revealed through the abundant grace poured out upon us. The Gospel carries all wisdom and prudence, countering the claims of worldly wisdom. This wisdom and prudence bestowed upon believers guides their conduct in accordance with God's will. Through the preaching of the Gospel, God's goodness pours forth, establishing its authority and imparting wisdom to those who believe. The Gospel's doctrines are filled with wisdom, leading to the salvation of sinners by the free grace of God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 2.3643344717714134,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.95,
+        "commentatorTierSimilarities": [
+            29.22,
+            33.26,
+            37.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was in God\u2019s manifold wisdom and prudence, manifested in all ways possible for us, that He poured out His grace upon us.\" ",
+            "This wisdom and prudence was especially exemplified in that which follows, the notification to us of His hidden will, &c.",
+            "In Col. i. 9, the reference is clearly different: see note there."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul attributes to the Gospel of God's grace 'all' possible 'wisdom and prudence,' in opposition to the boasts of wisdom and prudence which the unbelieving Jews and heathen philosophers and false apostles arrogated for their teachings.",
+            "Christ crucified, though esteemed 'foolishness' by the world, is 'the wisdom of God' (1 Corinthians 1:23).",
+            "Compare Ephesians 3:10, 'the manifold wisdom of God.'"
+        ],
+        "Albert Barnes": [
+            "This grace has not been stinted and confined, but has been liberal and abundant.",
+            "He has evinced great wisdom in the plan of salvation; wisdom in so saving people as to secure the honor of his own law.",
+            "God had evinced great 'intelligence' in the plan of salvation. There was ample proof of 'mind' and of 'thought.'"
+        ],
+        "Marvin Vincent": [
+            "Which He made to abound.\" ",
+            "The wisdom and prudence with which He abundantly endows His followers.\" ",
+            "All wisdom is, properly, every kind of wisdom."
+        ],
+        "John Calvin": [
+            "He now comes to the formal cause, the preaching of the gospel, by which the goodness of God overflows upon us.",
+            "The false apostles insinuated themselves, under the pretense of imparting views more elevated than the elementary instructions which Paul conveyed.",
+            "Paul, on the other hand, builds up the authority of the gospel, that believers may rest upon it with unshaken confidence."
+        ],
+        "Philip Schaff": [
+            "The grace itself was made to flow abundantly to us, in fact into us as the subjects of it.",
+            "Wisdom grasps God\u2019s doings, perceives and understands His counsels of grace; prudence is directed to what we have to do, looks at our problem and how to solve it; the former sees the relations ordered by God, the latter regulates our conduct accordingly.",
+            "But \u2018wisdom\u2019 is not purely theoretical, since it is the basis of the more practical \u2018prudence.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "According to the riches of his grace.\" ",
+            "A thoroughly Pauline phrase.",
+            "Genitive attracted again to case of antecedent \u03c7\u03b1\u03c1\u03b9\u03c4\u03bf\u03c2."
+        ],
+        "John Gill": [
+            "The doctrines it contains are full of wisdom, and are the means of communicating it to men, and of making them wise unto salvation.",
+            "The grace of God has much abounded, for the Gospel is a declaration of the free grace of God, in the salvation of sinners by Christ.",
+            "The grace of God is exceeding abundant with faith and love, in regeneration, sanctification, and conversion."
+        ],
+        "John Wesley": [
+            "In all wisdom - Manifested by God in the whole scheme of our salvation.",
+            "And prudence - Which be hath wrought in us, that we may know and do all his acceptable and perfect will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Ephesians 1:8, God's wisdom and prudence are displayed through the abundant grace poured out upon us. This wisdom goes against the claims of worldly wisdom, as the Gospel of God's grace holds all forms of wisdom and prudence. Through this abundance of grace, God endows His followers with the wisdom and prudence needed to navigate their lives. This wisdom is not just theoretical, but it also guides our practical conduct. The preaching of the Gospel serves as the means by which God's goodness overflows upon us, establishes the authority of the faith, and imparts wisdom to believers. The doctrines contained in the Gospel are full of wisdom and are the means by which individuals can be made wise unto salvation.",
+            "wordCount": 123,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 2.2938793638326374,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.61,
+            "commentatorTierSimilarities": [
+                28.48,
+                35.69,
+                35.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God pours out His abundant grace upon us, displaying His manifold wisdom and prudence. The Gospel of God's grace encompasses all forms of wisdom and prudence, contrasting with the claims of worldly wisdom. This wisdom not only encompasses theory but also guides our practical conduct. Through the preaching of the Gospel, God's goodness overflows upon us, establishing the authority of our faith and imparting wisdom. The Gospel's doctrines are rich in wisdom and lead us to salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.2752004835295763,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.99,
+            "commentatorTierSimilarities": [
+                29.6,
+                34.82,
+                35.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's wisdom and prudence shine forth in His abundant grace poured upon us. The Gospel holds all forms of wisdom and prudence, countering worldly claims. This grace flows abundantly, endowing believers with wisdom and prudence to navigate life. The preaching of the Gospel is the means through which God's goodness overflows and establishes authority. Its doctrines contain wisdom, guiding us to salvation through the free grace of God. Through regeneration, sanctification, and conversion, God's grace abounds, accompanied by faith and love.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.218114025309566,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.09,
+            "commentatorTierSimilarities": [
+                27.41,
+                33.83,
+                38.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's manifold wisdom and prudence are revealed through the abundant grace poured out upon us. The Gospel carries all wisdom and prudence, countering the claims of worldly wisdom. This wisdom and prudence bestowed upon believers guides their conduct in accordance with God's will. Through the preaching of the Gospel, God's goodness pours forth, establishing its authority and imparting wisdom to those who believe. The Gospel's doctrines are filled with wisdom, leading to the salvation of sinners by the free grace of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.3643344717714134,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.95,
+            "commentatorTierSimilarities": [
+                29.22,
+                33.26,
+                37.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God displays His wisdom and prudence by abundantly pouring out His grace upon us. The Gospel encompasses all forms of wisdom and prudence, surpassing worldly claims. God endows His followers with wisdom and prudence according to His grace. Through the preaching of the Gospel, God's goodness overflows upon believers, establishing its authority and imparting wisdom. The Gospel's doctrines contain rich wisdom, leading to the salvation of sinners through God's free grace. God's grace is abundant, accompanied by faith and love, bringing about regeneration, sanctification, and conversion.",
+            "wordCount": 90,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 2.3120375684643095,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.22,
+            "commentatorTierSimilarities": [
+                29.21,
+                32.61,
+                38.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

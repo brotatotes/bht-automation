@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:23:05",
+    "verseRef": "Luke 22:21",
+    "bestBHT": {
+        "bht": "At the Last Supper, Jesus openly addressed the presence of a betrayer among the disciples, effectively separating this individual from the rest. The revelation of Judas as the traitor was made all the more poignant by the fact that his hand was physically on the table during this declaration. Interestingly, Luke presents the institution of the Lord's Supper before exposing Judas, diverging from the order presented by Mark and Matthew. This distinction adds depth to the significance of Christ's words, further emphasizing the weight of Judas' forthcoming betrayal.",
+        "wordCount": 90,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.5605009453082226,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.23,
+        "commentatorTierSimilarities": [
+            36.69,
+            0.0,
+            63.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "21, 22. (See on :-, &amp;c.)."
+        ],
+        "Marvin Vincent": [
+            "Betrayeth: is now engaged in betraying.",
+            "He does not say with you: thus separating the traitor from the rest of the disciples.",
+            "Now he alone has to do with that wretch, as with an enemy."
+        ],
+        "Archibald T. Robertson": [
+            "The hand of Judas was resting on the table at the moment.",
+            "Luke narrates the institution of the Lord's Supper before the exposure of Judas as the traitor.",
+            "Mark and Matthew reverse this order."
+        ],
+        "John Gill": [
+            "By the 'hand' is meant, not figuratively the counsel, contrivance, and conspiracy of Judas to betray him, but literally the hand of Judas.",
+            "It is an aggravation of his sin, that one that sat with him at his table, ate bread with him, and dipped his morsel in the same dish, should be the betrayer of him.",
+            "The phrase, 'with me', is left out in the Syriac and Persic versions. From Luke's account it appears most clearly, that Judas was not only at the passover, but at the Lord's supper, since this was said when both were over."
+        ],
+        "John Wesley": [
+            "The hand of him that betrayeth me is with me on the table.\" ",
+            "It is evident Christ spake these words before he instituted the Lord's Supper.",
+            "Now this could not be dipped or given, but while the meat was on the table. But this was all removed before that bread and cup were brought."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the Last Supper, Jesus made a striking statement that one of the disciples sitting with him was engaged in the act of betraying him. This declaration emphasized the separation between the traitor and the rest of the disciples, highlighting the individual who was about to commit this treacherous act. Interestingly, Luke recounts the institution of the Lord's Supper prior to exposing Judas as the betrayer, while Mark and Matthew present this sequence in reverse. It is worth noting that the hand of Judas was resting on the table at the moment, which further accentuated the gravity of his impending betrayal. The phrase with me is omitted in some versions, leaving no doubt that Judas was not only present at the Passover but also at the Lord's Supper when Jesus made this profound statement. This indicates that Christ spoke these words before the institution of the Lord's Supper, which adds depth to the significance of the act.",
+            "wordCount": 160,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.4916290895940365,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.94,
+            "commentatorTierSimilarities": [
+                34.86,
+                0.0,
+                65.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the Last Supper, Jesus singled out one of the disciples as a betrayer, effectively separating him from the rest. This identifying statement underscored the imminent act of betrayal committed by this individual. Notably, Luke's order of events differed from that of Mark and Matthew, as he narrated the institution of the Lord's Supper before revealing Judas as the traitor. This sequence sheds light on the gravity of the situation, with Judas's hand visibly on the table during this revelation. The omission of the phrase with me in some versions confirms Judas's presence at both the Passover and the Lord's Supper, emphasizing the importance of Christ's statement before the institution of this sacred meal.",
+            "wordCount": 120,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 1.2819893690826232,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.97,
+            "commentatorTierSimilarities": [
+                33.8,
+                0.0,
+                66.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the Last Supper, Jesus openly addressed the presence of a betrayer among the disciples, effectively separating this individual from the rest. The revelation of Judas as the traitor was made all the more poignant by the fact that his hand was physically on the table during this declaration. Interestingly, Luke presents the institution of the Lord's Supper before exposing Judas, diverging from the order presented by Mark and Matthew. This distinction adds depth to the significance of Christ's words, further emphasizing the weight of Judas' forthcoming betrayal.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.5605009453082226,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.23,
+            "commentatorTierSimilarities": [
+                36.69,
+                0.0,
+                63.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the Last Supper, Jesus made a grave announcement, singling out a disciple engaged in betrayal and effectively separating him from the group. Judas, the intended betrayer, found himself addressed directly as an enemy. Interestingly, Luke chose to narrate the institution of the Lord's Supper before exposing Judas as the traitor, in contrast to the order presented by Mark and Matthew. This declaration was made with Judas's hand resting on the table, underscoring the weight of his impending treachery. Such a revelation deepens the significance of Christ's words and the unfolding events.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.4036974341796804,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+            "commentatorTierSimilarities": [
+                38.51,
+                0.0,
+                61.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the Last Supper, Jesus delivered a powerful statement, isolating the presence of a betrayer among His disciples. By identifying the traitor individually, He emphasized their separation from the rest. Notably, Luke's account presents the institution of the Lord's Supper before Judas was unveiled as the betrayer, while Mark and Matthew choose a different chronological order. This timing reveals the weight of Christ's words, further magnified by the presence of Judas's hand resting on the table. This sequence of events adds depth to the significance of the impending betrayal.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.2429619005360433,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.67,
+            "commentatorTierSimilarities": [
+                37.29,
+                0.0,
+                62.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

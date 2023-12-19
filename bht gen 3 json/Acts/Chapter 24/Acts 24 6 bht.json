@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:35:52",
+    "verseRef": "Acts 24:6",
+    "bestBHT": {
+        "bht": "Considerable difficulty arises from the omission of the words in brackets, as it is hard to imagine so little assigned to the speaker without them. The charge of attempting to profane the temple is entirely false, but it was used as a accusation against Paul. The unfair and untruthful gloss with which the advocate covers the transaction aligns with the false tone of his whole speech. The word profane comes from pro fanum, meaning in front of the sanctuary; that which is kept outside the fane because unholy.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.8021562226208916,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+        "commentatorTierSimilarities": [
+            35.73,
+            33.21,
+            31.06
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Considerable difficulty rests on the omission of the words here put in brackets.",
+            "It is hardly imaginable that so little should have been assigned to the speaker, as would be if these words were omitted.",
+            "The phenomena are common enough in the Acts, of unaccountable insertions; but in this place it is the omission which is unaccountable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. hath gone about\u2014attempted. ",
+            "\t",
+            "to profane the temple\u2014the",
+            "\tthird charge; and entirely false. ",
+            "\t",
+            "we . . . would have judged",
+            "\taccording to our law."
+        ],
+        "Albert Barnes": [
+            "Who also hath gone about - Who has endeavored.\" ",
+            "To profane the temple - This was a serious, but unfounded charge.",
+            "And would have judged - That is, would have condemned and punished."
+        ],
+        "Marvin Vincent": [
+            "The fundamental idea [of profane] is that of overstepping the threshold of sacred places.\" ",
+            "The word profane is the Latin pro fanum, in front of the sanctuary; that which is kept outside the fane because unholy.",
+            "The best texts omit all [the words] after these words as far as by examining."
+        ],
+        "John Calvin": [
+            "It was a light and almost a frivolous accusation to lay this to his charge before the Roman governor, who could have wished that the temple had been turned topsy-turvy.",
+            "Because nothing was more fit for procuring uproars than the polluting of the temple, he doth craftily accuse Paul thereof, as if he should say, that it was no thanks to him that Jerusalem was not on an uproar.",
+            "This is also not void of subtilty, in that Tertullus doth discredit the chief captain, because he dealt more courteously towards Paul than the priests would he should; and glancingly he bringeth him in suspicion, because he dare not openly accuse him."
+        ],
+        "Philip Schaff": [
+            "It is noticeable that here the error of the tumultuous Jews [...] is corrected.",
+            "This whole passage [...] must be expunged from our New Testament.",
+            "The unfair, untruthful gloss with which the advocate covers the transaction, well agrees with the general false tone of his whole speech."
+        ],
+        "Archibald T. Robertson": [
+            "Assayed to profane. A flat untruth, but the charge of the Asian Jews.",
+            "Verbum optum ad calumnian.\" (Bengel)",
+            "We seized. But it was the mob that attacked Paul and Lysias who rescued him."
+        ],
+        "John Gill": [
+            "By introducing a Greek into it;...and was a false and groundless one.",
+            "Whom we took; as they did in the temple, and dragged him out of it.",
+            "They brought no charge in form against him, nor did they examine his case, and inquire into the truth of things, or hear what he had to say, but fell upon him, and beat him; and if it had not been for the chief captain and his soldiers, would have destroyed him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Considerable difficulty rests on the omission of the words here put in brackets, as it is hardly imaginable that so little should have been assigned to the speaker if these words were omitted. The fundamental idea of profane is that of overstepping the threshold of sacred places, as the word profane is derived from pro fanum, meaning in front of the sanctuary; that which is kept outside the fane because unholy. The charge of attempting to profane the temple is entirely false, but it was used by the Asian Jews to bring an accusation against Paul. The unfair and untruthful gloss with which the advocate covers the transaction aligns with the false tone of his whole speech.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8322257006755538,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                35.9,
+                33.08,
+                31.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Considerable difficulty arises from the omission of the words in brackets, as it is hard to imagine so little assigned to the speaker without them. The charge of attempting to profane the temple is entirely false, but it was used as a accusation against Paul. The unfair and untruthful gloss with which the advocate covers the transaction aligns with the false tone of his whole speech. The word profane comes from pro fanum, meaning in front of the sanctuary; that which is kept outside the fane because unholy.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8021562226208916,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "commentatorTierSimilarities": [
+                35.73,
+                33.21,
+                31.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Considerable difficulty arises from the omission of the words in brackets, raising questions about the minimal assignment given to the speaker. The charge of attempting to profane the temple is entirely false; it was used as an accusation against Paul by the Asian Jews. The unfair and untruthful gloss in the advocate's speech aligns with its false tone. The term profane conveys the idea of overstepping the threshold of sacred places, originating from pro fanum, meaning in front of the sanctuary; that which is kept outside the fane because unholy.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.7215246135860955,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+            "commentatorTierSimilarities": [
+                36.06,
+                33.86,
+                30.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Considerable difficulty arises from the omission of the words in brackets, which seems implausible given the little assigned to the speaker. The charge of attempting to profane the temple was false, brought against Paul by the Asian Jews. The unfair gloss in the advocate's speech aligns with its overall false tone. The term profane signifies overstepping the threshold of sacred places, derived from pro fanum, meaning in front of the sanctuary; that which is kept outside the fane because unholy.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.724382437603991,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.68,
+            "commentatorTierSimilarities": [
+                37.28,
+                34.43,
+                28.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Considerable difficulty arises from the omission of the words in brackets, which seems implausible given the little assigned to the speaker. The charge of attempting to profane the temple was false, brought against Paul by the Asian Jews. The unfair gloss in the advocate's speech aligns with its overall false tone. The term profane signifies overstepping the threshold of sacred places, derived from pro fanum, meaning in front of the sanctuary; that which is kept outside the fane because unholy. This false accusation aimed to discredit the chief captain and undermine his dealings with Paul.",
+            "wordCount": 96,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 1.6987106231044393,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+            "commentatorTierSimilarities": [
+                33.12,
+                32.51,
+                34.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:27:16",
+    "verseRef": "Acts 7:10",
+    "bestBHT": {
+        "bht": "Joseph, by God's favor and wisdom, gained acceptance with Pharaoh, who consulted him and followed his suggestions. Pharaoh bestowed upon Joseph the title of governor over Egypt, making him a deputy under Pharaoh's rule. This position of honor was not achieved through human means but was a result of God's intervention. Joseph's wisdom extended beyond interpreting dreams to devising a new system of governance for Egypt. Through divine intervention, Joseph was delivered from afflictions and lifted to this esteemed position.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.6284348110950877,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+        "commentatorTierSimilarities": [
+            21.8,
+            37.21,
+            40.98
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "favour and wisdom...so that he was acceptable",
+            "Pharaoh consulted him, and followed his suggestion",
+            "he made him...a change of subject"
+        ],
+        "Albert Barnes": [
+            "The favor was the result of his wisdom.",
+            "His wisdom was particularly evinced in interpreting the dreams of Pharaoh.",
+            "All his house - All the family, or all the court and government of the nation."
+        ],
+        "Marvin Vincent": [
+            "Afflictions [\u03b8\u03bb\u03b9\u03c8\u03b5\u03c9\u03bd] See on Matthew 13:21."
+        ],
+        "John Calvin": [
+            "Wisdom doth not only signify the gift of prophecy in interpreting dreams, but prudence in giving counsel; for Moses putteth in both.",
+            "For what aptness and readiness soever is in men, it ought to be reckoned amongst the gifts of God, and that his special gifts.",
+            "Although Joseph be made chief ruler of Egypt by Pharaoh, yet is he lifted up to so great honor properly by the hand of God."
+        ],
+        "Philip Schaff": [
+            "And wisdom. This, of course, includes Joseph\u2019s interpretation of the royal dreams, but has more especial reference to his wisdom in striking out a new system of governing the land of Egypt, and of administering and developing the finances of that great kingdom.",
+            "Pharaoh. This is not a proper name, but was the common title of the ancient sovereigns of Egypt. It signifies in the ancient Egyptian, \u2018the king.\u2019 In after ages, in the Graeco-Macedonian period, the common title of the monarchs of the country was Ptolemy (which signifies in the Greek, \u2018warrior\u2019).",
+            "Governor over Egypt. Joseph fulfilled the functions of the Vizier or Prime Minister of Pharaoh. The power delegated to him by his master seems to have been almost without limit."
+        ],
+        "Archibald T. Robertson": [
+            "Delivered him out (\u03b5\u03be\u03b5\u03b9\u03bb\u03b1\u03c4\u03bf \u03b1\u03c5\u03c4\u03bf\u03bd \u03b5\u03ba)... to take out, snatch out.\" ",
+            "Pharaoh is not a name, but a title, the Egyptian per\u0083\u0083 meaning great house."
+        ],
+        "John Gill": [
+            "And delivered him out of all his afflictions,.... From the evil designs of his mistress, and from all the miseries of a prison.\" ",
+            "and gave him favour and wisdom in the sight of Pharaoh king of Egypt; so Justin in the place above cited says, that Joseph was very dear to the king; but not through his knowledge of magic arts, as he suggests, but on account of the wisdom which God gave him.",
+            "and he made him governor over Egypt: a deputy governor under him; for Pharaoh kept the throne, and in it was greater than Joseph, and had the other ensigns of royalty, and Joseph rode in the second chariot to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Joseph, through the favor and wisdom bestowed upon him by God, became highly esteemed and acceptable to Pharaoh. Pharaoh sought his counsel and followed his suggestions, ultimately appointing Joseph as governor over Egypt. This esteemed position was not achieved through human means, but by the hand of God. Joseph's wisdom extended beyond interpreting dreams to offering prudent counsel and establishing a new system of governance. He fulfilled the role of the Vizier or Prime Minister, with immense power delegated to him. Through divine intervention, Joseph was delivered from afflictions and elevated to this great honor as a result of God's special gifts and interventions in his life.",
+            "wordCount": 109,
+            "quoteTokenProportion": 30.67,
+            "qualityScore": 1.5500635142248718,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.88,
+            "commentatorTierSimilarities": [
+                16.71,
+                38.55,
+                44.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Joseph, by God's favor and wisdom, gained acceptance with Pharaoh, who consulted him and followed his suggestions. Pharaoh bestowed upon Joseph the title of governor over Egypt, making him a deputy under Pharaoh's rule. This position of honor was not achieved through human means but was a result of God's intervention. Joseph's wisdom extended beyond interpreting dreams to devising a new system of governance for Egypt. Through divine intervention, Joseph was delivered from afflictions and lifted to this esteemed position.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6284348110950877,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                21.8,
+                37.21,
+                40.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through God's favor and wisdom, Joseph gained acceptance with Pharaoh, who sought his counsel and followed his suggestions. As a result, Joseph was made governor over Egypt, a position of great honor and authority. This elevation was not achieved through human means but was a divine intervention. Joseph's wisdom extended beyond interpreting dreams to encompass his ability to provide prudent counsel and establish a new system of governance. He was delivered from afflictions and exalted by the hand of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5065564256730672,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.44,
+            "commentatorTierSimilarities": [
+                19.72,
+                36.93,
+                43.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Joseph's acceptance and appointment as governor over Egypt were a direct result of God's favor and wisdom. Pharaoh consulted Joseph and followed his suggestions, recognizing his unique abilities. This position of honor and authority was not attained through human means but was a divine intervention. Joseph's wisdom encompassed the interpretation of dreams and the ability to offer prudent counsel, establishing a new system of governance. Through divine intervention, Joseph was delivered from afflictions and elevated to this esteemed position.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.5229136210114915,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.98,
+            "commentatorTierSimilarities": [
+                21.64,
+                37.67,
+                40.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Joseph's acceptance and appointment as governor over Egypt can be attributed to God's favor and wisdom. Pharaoh sought Joseph's counsel and followed his suggestions, acknowledging his exceptional abilities. This esteemed position was not attained by human means but rather by divine intervention. Joseph's wisdom extended beyond dream interpretation to encompass offering wise counsel and implementing a new system of governance. Through God's intervention, Joseph was delivered from afflictions and elevated to this significant role.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.504249404598273,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                22.03,
+                35.35,
+                42.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

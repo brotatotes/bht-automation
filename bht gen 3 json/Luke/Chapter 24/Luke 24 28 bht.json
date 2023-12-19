@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:24:12",
+    "verseRef": "Luke 24:28",
+    "bestBHT": {
+        "bht": "As they were walking, Jesus made as though He would go further, but it was not an act of deceit or falsehood. He had every intention of continuing on, only halting when the disciples urged Him to stay. This was simply a display of Jesus' modesty, civility, and prudence, as He did not feel obligated to disclose all of His plans at that moment. The disciples were so engrossed in their conversation with Him that they did not find the way tedious or the time long.",
+        "wordCount": 86,
+        "quoteTokenProportion": 56.25,
+        "qualityScore": 1.8813237770256381,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+        "commentatorTierSimilarities": [
+            21.0,
+            35.45,
+            43.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "28-31. made as though,",
+            "\tc.\u2014(Compare Mark 6:48 Genesis 18:3;",
+            "\tGenesis 18:5; Genesis 32:24-26)."
+        ],
+        "Albert Barnes": [
+            "He did not 'say' he would go farther, but he kept on as if it was not his intention to stop...",
+            "...and doubtless he 'would' have gone on if they had not constrained him to tarry."
+        ],
+        "Marvin Vincent": [
+            "They went [\u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bd\u03c4\u03bf] . Imperfect, were going. So Rev.\" ",
+            "Made as though [\u03c0\u03c1\u03bf\u03c3\u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03c4\u03bf] . The verb means originally to add or attach to; hence to take to one's self what does not belong to him; and so, to pretend; though pretending as implying anything false, does not attach to this act of Jesus.",
+            "He was going on, and would have gone on but for their invitation. Only here in New Testament."
+        ],
+        "John Calvin": [
+            "Can insincerity apply to him who is the eternal truth of God? I answer, that the Son of God was under no obligation to make all his designs known.",
+            "Christ might without falsehood have pretended what is here mentioned, in the same manner that he gave himself out to be a stranger passing along the road; for there was the same reason for both.",
+            "By this feigning he did not deceive his disciples, but held them for a little in suspense, till the proper time should arrive for making himself known."
+        ],
+        "Philip Schaff": [
+            "He made as though, etc. It is not implied that He said He would go further, but was about to pass on.\" ",
+            "As a matter of decorum He must thus do until they should invite Him to stop.",
+            "This called forth their desire and request. It was still concealing to reveal more fully."
+        ],
+        "Archibald T. Robertson": [
+            "Made as though (\u03c0\u03c1\u03bf\u03c3\u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03c4\u03bf).\" ",
+            "First aorist active middle (Some MSS. have \u03c0\u03c1\u03bf\u03c3\u03b5\u03c0\u03bf\u03b9\u03b5\u03b9\u03c4\u03bf imperfect) indicative of \u03c0\u03c1\u03bf\u03c3\u03c0\u03bf\u03b9\u03b5\u03c9, old verb to conform oneself to, to pretend.\" ",
+            "Of course he would have gone on if the disciples had not urged him to stay."
+        ],
+        "John Gill": [
+            "Their conversation was so very agreeable, that the way did not seem tedious, nor the time long.",
+            "He would have gone some little way further, doubtless, had they not detained him.",
+            "The whole of it is nothing else but a piece of modesty, civility, and prudence; for guile was never found in his mouth."
+        ],
+        "John Wesley": [
+            "He made as though he would go farther \u2014 Walking forward, as if he was going on; and he would have done it, had they not pressed him to stay."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As they were walking, Jesus made as though He would go further, but it was not an act of deceit or falsehood. He had every intention of continuing on, only halting when the disciples urged Him to stay. This was simply a display of Jesus' modesty, civility, and prudence, as He did not feel obligated to disclose all of His plans at that moment. The disciples were so engrossed in their conversation with Him that they did not find the way tedious or the time long. So, Jesus would have gone some distance further, if not for their persistent invitation to remain with them.",
+            "wordCount": 104,
+            "quoteTokenProportion": 55.41,
+            "qualityScore": 1.8682832682116597,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.46,
+            "commentatorTierSimilarities": [
+                21.02,
+                36.37,
+                42.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As they were walking, Jesus made as though He would go further, but it was not an act of deceit or falsehood. He had every intention of continuing on, only halting when the disciples urged Him to stay. This was simply a display of Jesus' modesty, civility, and prudence, as He did not feel obligated to disclose all of His plans at that moment. The disciples were so engrossed in their conversation with Him that they did not find the way tedious or the time long.",
+            "wordCount": 86,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 1.8813237770256381,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+            "commentatorTierSimilarities": [
+                21.0,
+                35.45,
+                43.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During their walk, Jesus pretended to go farther, but this was not a deceitful act. He would have continued on if the disciples had not urged Him to stay. This display of modesty, civility, and prudence allowed the disciples to engage in meaningful conversation without feeling burdened by the journey. Jesus did not feel obligated to reveal all of His plans at that moment, and the disciples were captivated by His presence, making the time and distance seem inconsequential.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.7190563263468692,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.5,
+            "commentatorTierSimilarities": [
+                23.44,
+                34.68,
+                41.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During their walk, Jesus made as though he would go farther, but this was not an act of deceit or falsehood. He would have continued on if the disciples had not urged him to stay. This display of modesty, civility, and prudence allowed the disciples to engage in conversation without feeling burdened by the journey. Jesus did not feel obligated to reveal all of his plans at that moment, and the disciples were captivated by his presence, making the time and distance seem inconsequential.",
+            "wordCount": 84,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.7982033733660034,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+            "commentatorTierSimilarities": [
+                23.21,
+                34.78,
+                42.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During their walk, Jesus made as though he would go farther, but this was not an act of deceit. He would have continued on if the disciples had not urged him to stay. This display of modesty, civility, and prudence allowed the disciples to engage in conversation without feeling burdened. Jesus did not feel obligated to reveal all of his plans at that moment, and the disciples were captivated by his presence, making the time and distance seem inconsequential.",
+            "wordCount": 79,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.8160881001800013,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                23.23,
+                35.45,
+                41.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

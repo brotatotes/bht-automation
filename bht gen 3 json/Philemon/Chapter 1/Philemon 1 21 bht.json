@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:12:46",
+    "verseRef": "Philemon 21",
+    "bestBHT": {
+        "bht": "Paul's writing in his letter to Philemon underscores his apostolic authority and alludes to the possibility of Onesimus' manumission. Acknowledging Philemon's obedience, Paul expresses confidence that he will exceed expectations, just as he had done before. By beseeching rather than commanding, Paul appeals to Philemon's sense of Christian love and freely given service. This is a testament to Philemon's cheerful obedience to Christ and his willingness to go beyond the call of duty.",
+        "wordCount": 77,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.064815585878941,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.0,
+        "commentatorTierSimilarities": [
+            21.76,
+            30.18,
+            48.06
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "[Verse 21 serves] to put Philemon in mind of the apostolic authority with which he writes.",
+            "[Verse 21] hints delicately... at the manumission of Onesimus, which he has not yet requested."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Having confidence in thy obedience.",
+            "To my apostolic authority, if I were to 'enjoin' it ( :-), which I do not.",
+            "Preferring to beseech thee for it as a favor ( :-)."
+        ],
+        "Albert Barnes": [
+            "Having confidence in thy obedience - That you would comply with all my expressed desires.",
+            "I wrote unto thee - 'I have written to you;'\" to wit, in this Epistle.",
+            "Knowing that thou wilt also do more than I say - In all the respects which he had mentioned - in receiving Onesimus, and in his kind treatment of him."
+        ],
+        "Marvin Vincent": [
+            "More than I say [\u03c5\u03c0\u03b5\u03c1] . Beyond. Possibly hinting at manumission."
+        ],
+        "Philip Schaff": [
+            "Having confidence in thy obedience, I write unto thee. In the use of the word obedience, he once more implies that he had the right to command, though he does not use it.",
+            "Had he commanded, Philemon would have obeyed; what will he not do, when the apostle\u2019s language takes the form of a request?",
+            "Such is the service of love, specially of Christian love, which after the example of Christ gives itself freely to serve the beloved."
+        ],
+        "Archibald T. Robertson": [
+            "Compliance\" seems less harsh to us in the light of Philemon 1:9."
+        ],
+        "John Gill": [
+            "Having confidence in thy obedience,... he having been made willing in the day of his power to serve him, as well as to be saved by him...",
+            "the Spirit of Christ having wrought in him both to will and to do of his good pleasure...",
+            "the knowledge the apostle had of Philemon's cheerful obedience to Christ in all the parts of duty, encouraged him to write to him..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In verse 21, the apostle Paul emphasizes the authority with which he writes to Philemon, while delicately hinting at the possible manumission of Onesimus. He expresses his confidence in Philemon's obedience, not by commanding him, but by making a request as a favor. Paul knows that Philemon will go beyond what is asked of him, as evidenced by his previous acts of obedience. This reflects the nature of Christian love, which freely serves and goes above and beyond for the beloved.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.1677401302354977,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.42,
+            "commentatorTierSimilarities": [
+                25.73,
+                32.88,
+                41.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's writing in his letter to Philemon underscores his apostolic authority and alludes to the possibility of Onesimus' manumission. Acknowledging Philemon's obedience, Paul expresses confidence that he will exceed expectations, just as he had done before. By beseeching rather than commanding, Paul appeals to Philemon's sense of Christian love and freely given service. This is a testament to Philemon's cheerful obedience to Christ and his willingness to go beyond the call of duty.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.064815585878941,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.0,
+            "commentatorTierSimilarities": [
+                21.76,
+                30.18,
+                48.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's letter to Philemon not only showcases his apostolic authority but also subtly hints at the potential liberation of Onesimus. Through his reliance on Philemon's obedience and confidence that he will surpass expectations, Paul chooses to appeal rather than enforce. This gentle approach highlights the loving Christian service that both Philemon and Onesimus exemplify, as they willingly go above and beyond in their commitment to Christ.",
+            "wordCount": 68,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.9493191722178356,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.16,
+            "commentatorTierSimilarities": [
+                25.08,
+                30.43,
+                44.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his message to Philemon, Paul uses verse 21 to remind him of the apostolic authority with which he writes. He delicately hints at the possible liberation of Onesimus, while expressing his confidence in Philemon's obedience. Rather than impose his authority, Paul chooses to beseech Philemon and request it as a favor. This reflects the power of Christian love, which freely serves and goes beyond expectations. Philemon's previous acts of obedience give Paul assurance that he will exceed what is asked of him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.064454561819937,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.98,
+            "commentatorTierSimilarities": [
+                26.9,
+                30.9,
+                42.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his letter, Paul subtly suggests the potential liberation of Onesimus to Philemon, while emphasizing his apostolic authority. He confidently relies on Philemon's obedience, presenting his request as a favor rather than a command. This highlights the power of Christian love, as Philemon's willingness to go beyond what is asked is evident. Paul's knowledge of Philemon's cheerful obedience to Christ encourages him to reach out and make this appeal.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.031204802845218,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.88,
+            "commentatorTierSimilarities": [
+                23.89,
+                31.01,
+                45.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

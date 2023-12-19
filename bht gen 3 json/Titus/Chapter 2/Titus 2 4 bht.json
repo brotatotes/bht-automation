@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:09:05",
+    "verseRef": "Titus 2:4",
+    "bestBHT": {
+        "bht": "Young women are urged to be devoted to their husbands and loving towards their children, as this is the key to a harmonious and fulfilling family life. By exercising self-control and discipline, women can create a peaceful and orderly household. The importance of affection and proper regulation of desires is emphasized, as no wealth or material possessions can compensate for a lack of genuine love. The goal is not just to love one's own family, but also to instruct and guide younger women in cultivating these virtues.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.722422885159871,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.61,
+        "commentatorTierSimilarities": [
+            29.95,
+            30.68,
+            39.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "That they school (admonish in their duty)",
+            "\tthe young women to be lovers of their husbands,\" ",
+            "\t- ALFORD",
+            "the foundation of all domestic happiness",
+            "\t- Commentary",
+            "It was judicious that Titus, a",
+            "\tyoung man, should admonish the young women, not directly, but through",
+            "\tthe older women.",
+            "\t- Commentary"
+        ],
+        "Albert Barnes": [
+            "They should instruct them to have their desires and passions well regulated, or under proper control.",
+            "No wealth or splendor in a dwelling - no gorgeousness of equipage or apparel - no magnificence of entertainment or sweetness of music - and no forms of courtesy and politeness, can be a compensation for the want of affection.",
+            "Religion reproduces natural affection when sin has weakened or destroyed it, and it is the design of Christianity to recover and invigorate all the lost or weakened sensibilities of our nature."
+        ],
+        "Marvin Vincent": [
+            "The verb means to make sane or sober-minded; to recall a person to his senses; hence, to moderate, chasten, discipline.\" ",
+            "Lit. to be husband-lovers, children-lovers. Both adjectives N. T. o. o LXX Filandrov in Class. not in this sense, but loving men or masculine habits; lewd.\" ",
+            "Julius Bassus to Otacilia Polla my sweetest wife, who loved her husband and children and lived with me blamelessly for thirty years."
+        ],
+        "John Calvin": [
+            "That they may be more attentive to duty, he shows that it is not enough if their own life be decent, if they do not also train young women, by their instructions, to a decent and chaste life.",
+            "He wishes women to be restrained, by conjugal love and affection for their children, from giving themselves up to licentious attachments, he wishes them to rule their own house in a sober and orderly manner, forbids them to wander about in public places, bids them be chaste, and at the same time modest, so as to be subject to the dominion of their husbands.",
+            "The first is, as it were, their cardinal virtue; for it was well said by Socrates, (Ap. Stob. p. 488), 'female piety is love to her husband.'"
+        ],
+        "Philip Schaff": [
+            "To avoid reproach, Titus\u2019 exhortations to younger females are to pass through the elder woman.",
+            "When first the Gospel gave dignity to womanhood and spiritual equality with man, some loosening might be feared of the natural subordination of the sex in marriage, causing the new faith to be evil spoken of.",
+            "Discreet is the word rendered \u2018temperate\u2019 in Titus 2:2, and \u2018sober-minded\u2019 in Titus 2:6. Better to retain the same rendering throughout, where the term is so characteristic."
+        ],
+        "Archibald T. Robertson": [
+            "To love their husbands... fond of one's husband... not 'fond of men' (other men than their own).\" ",
+            "To love their children... This exhortation is still needed where some married women prefer poodle-dogs to children.\" ",
+            "The purpose... to make sane, to restore to one's senses, to discipline, only here in N.T."
+        ],
+        "John Gill": [
+            "To love their husbands; to help and assist them all they can; to seek their honour and interest; to endeavour to please them in all things; to secure peace, harmony, and union; to carry it affectionately to them, and sympathize with them in all afflictions and distresses.",
+            "To love their children; not with a fond, foolish, loose, and ungoverned affection; but so as to seek their real good, and not only their temporal, but spiritual and eternal welfare; to bring them up in the nurture and admonition of the Lord; and to use and keep proper discipline and government over them.",
+            "For otherwise, amidst all the fondness of natural affection, a parent may be said to hate a child."
+        ],
+        "John Wesley": [
+            "To love their husbands, their children \u2014 With a tender, temperate, holy, wise affection.",
+            "O how hard a lesson."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Husbands and children hold a significant place in the instruction given to young women in Titus 2:4. The commentary emphasizes the importance of women loving their husbands and children, as this is the foundation of domestic happiness. The goal is for women to be devoted to their husbands and to effectively raise their children. It is crucial for women to exercise self-control, to be temperate, and to discipline themselves in order to fulfill their role as wives and mothers. By doing so, they not only bring joy to their families but also exhibit the virtues of love and affection that are integral to the Christian faith.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.661838881328031,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.6,
+            "commentatorTierSimilarities": [
+                32.25,
+                25.48,
+                42.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Young women are urged to be devoted to their husbands and loving towards their children, as this is the key to a harmonious and fulfilling family life. By exercising self-control and discipline, women can create a peaceful and orderly household. The importance of affection and proper regulation of desires is emphasized, as no wealth or material possessions can compensate for a lack of genuine love. The goal is not just to love one's own family, but also to instruct and guide younger women in cultivating these virtues.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.722422885159871,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.61,
+            "commentatorTierSimilarities": [
+                29.95,
+                30.68,
+                39.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Young women are instructed to be lovers of their husbands and to love their children, as it serves as the foundation of domestic happiness. Women are urged to exercise self-control, discipline, and to govern their own homes in a modest and orderly manner. This exhortation emphasizes the importance of affection, genuine love, and the proper regulation of desires. By fulfilling these roles, women exemplify the virtues of love, devotion, and affection integral to the Christian faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.7116150314064766,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.25,
+            "commentatorTierSimilarities": [
+                28.12,
+                28.91,
+                42.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The key to a harmonious and fulfilling family life lies in young women loving their husbands and their children. It is emphasized that this love should be genuine and not just a fond or loose affection. Women are encouraged to exercise self-control and discipline, and to carry themselves with modesty and order. By fulfilling these responsibilities, women not only bring joy and peace to their families, but also demonstrate the virtues of love, devotion, and affection that are integral to the Christian faith.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6307340498394596,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                28.2,
+                28.27,
+                43.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Young women are urged to be devoted to their husbands and to love their children with a genuine and tempered affection. This instruction emphasizes the importance of self-control, discipline, and the proper regulation of desires. Women are encouraged to rule their own homes in a modest and orderly manner, seeking the good and welfare of their families. By fulfilling these responsibilities, women display the virtues of love, devotion, and affection that are essential to a harmonious and nurturing family life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.6594215693322227,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.52,
+            "commentatorTierSimilarities": [
+                28.34,
+                27.02,
+                44.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

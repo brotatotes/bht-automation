@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:25:48",
+    "verseRef": "Acts 3:12",
+    "bestBHT": {
+        "bht": "This remarkable work cannot be credited to ourselves, but must be attributed to God for the exaltation of Jesus. It is wrong for us to be in awe of human agency when miracles are only extraordinary in comparison to the limited powers of man. The apostles emphasized that the might and merit of the healing does not belong to them, but to Him whom they preached. We should not marvel at the abilities of men, but direct our attention to God, who is the true source of power and miracles.",
+        "wordCount": 90,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0213542657838683,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+        "commentatorTierSimilarities": [
+            36.09,
+            42.78,
+            21.13
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is no work of ours, but of God for the glorifying of Jesus.",
+            "Thus we see that our wonder is wrong, when it stops at human agency.",
+            "Power,\u2014such as magical craft, or any other supposed means of working miracles: godliness, meritorious efficacy with God, so as to have obtained this from Him on our own account."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Miracles are marvels only in relation to the limited powers of man.",
+            "Neither the might nor the merit of the cure are due to us, mere agents of Him whom we preach."
+        ],
+        "Albert Barnes": [
+            "The particular thing which he intended to reprove here was not that they wondered, for that was proper; but that they looked on himself and John as if they had been the authors of this healing.\" ",
+            "Why do ye fix the eyes with amazement on us, as though we could do this? Why not look at once to God?",
+            "Whatever success may attend the ministers of the gospel, or however much the world may be disposed to do them honor, they should disclaim all power in themselves, and ascribe it to the Lord Jesus Christ."
+        ],
+        "Marvin Vincent": [
+            "Israel was the sacred name for the Jews, as the nation of the theocracy, the people under God's covenant, and hence was for the Jew his especial badge and title of honor.",
+            "Nor was this all, but more gloriously still, their descent was herein traced up to him, not as he was Jacob, but as he was Israel, who, as a prince, had power with God and with men, and had prevailed\" (Trench, \"Synonyms\").",
+            "It is said that the modern Jews in the East still delight in this title."
+        ],
+        "John Calvin": [
+            "Therefore, this is to be amazed evilly, when as our minds do stay in men.",
+            "And we must note that he condemneth the respect of men; as if, saith he, we by our own power and virtue had done this.",
+            "For because men are inclined to nothing more than to fall from God unto the creatures, it is very expedient to prevent this vice in time."
+        ],
+        "Philip Schaff": [
+            "The wondering gaze of the throng in the temple-court seemed to ask, \u2018What mighty power is possessed by these men? What holy men must these be for God to have endowed them with these strange miraculous gifts?\u2019\" ",
+            "Men of Israel, do you think we have done this great thing? Do you attribute this to our wondrous skill, or do you look upon this strange power as bestowed on us, as a reward for our piety and goodness?"
+        ],
+        "Archibald T. Robertson": [
+            "Covenant name and so conciliatory, the stock of Israel.",
+            "The very verb used about Peter in verse Acts 3:4.",
+            "The alleged reason, not always the true one."
+        ],
+        "John Gill": [
+            "Why marvel ye at this?",
+            "They were not self-seeking and vain glorious men.",
+            "It was any natural power of theirs...they utterly reject, and place it to a right account in the next verse."
+        ],
+        "John Wesley": [
+            "Peter answered the people \u2014 Who were running together, and inquiring into the circumstances of the fact."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This miraculous healing should not be attributed to human agency but recognized as the work of God for the glorifying of Jesus. It is wrong for us to be amazed by the power of man when miracles are only marvels in relation to our limited abilities. The apostles made it clear that their success and power came from God alone, not from their own merit or skill. They disclaimed any credit for themselves and directed the people's gaze towards God. It is important to resist the temptation of placing our faith in human agents and instead recognize that it is through God's power and grace that we are able to witness extraordinary acts.",
+            "wordCount": 115,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.922493275922557,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                34.99,
+                42.95,
+                22.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This miraculous healing should not be attributed to human agency but recognized as the work of God for the glorifying of Jesus. It is wrong for us to be amazed by the power of man when miracles are only marvels in relation to our limited abilities. The apostles made it clear that their success and power came from God alone, not from their own merit or skill. They disclaimed any credit for themselves and directed the people's gaze towards God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.951086987573182,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+            "commentatorTierSimilarities": [
+                35.24,
+                43.34,
+                21.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This astonishing miracle should not lead us to attribute the power to man, but rather recognize it as the work of God for the glory of Jesus. Miracles are not within the abilities of man, but serve to surpass human limits. The apostles humbly disclaimed any merit or power, emphasizing that they were merely instruments of God. We must avoid the temptation of placing our faith in human agents and instead focus on the undeniable power and grace of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.8829606885096917,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                36.54,
+                45.26,
+                18.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This remarkable work cannot be credited to ourselves, but must be attributed to God for the exaltation of Jesus. It is wrong for us to be in awe of human agency when miracles are only extraordinary in comparison to the limited powers of man. The apostles emphasized that the might and merit of the healing does not belong to them, but to Him whom they preached. We should not marvel at the abilities of men, but direct our attention to God, who is the true source of power and miracles.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0213542657838683,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                36.09,
+                42.78,
+                21.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This marvelous work should not be mistaken as human achievement, but rather as the handiwork of God for the honor of Jesus. It is incorrect to be astounded by human agency, for miracles showcase the limitations of our own power. The apostles made it clear that the power and success did not come from themselves, but from God alone. They disclaimed any personal credit and redirected the attention of the people to the true source of power - God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.888832325509989,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                35.35,
+                43.7,
+                20.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

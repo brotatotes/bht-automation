@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:15:50",
+    "verseRef": "Luke 6:17",
+    "bestBHT": {
+        "bht": "After descending from the mountain, Jesus stood on a level place, potentially a flat ledge on the side of the mountain. While there may be discrepancies in the accounts, both Matthew and Luke cover the same general ground and end similarly. It is possible that Jesus repeated these weighty sayings on multiple occasions, as He stood in a plain or level place, healing the sick and delivering His teachings to a large crowd who held Him in high regard, even if they were not yet His disciples.",
+        "wordCount": 87,
+        "quoteTokenProportion": 47.76,
+        "qualityScore": 1.753489207811366,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+        "commentatorTierSimilarities": [
+            27.61,
+            38.14,
+            34.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Having descended from the mountain, He stood on a level place\u2014i. e. possibly, as has been suggested by some, on a flat ledge or shelf on the side of the mountain.",
+            "Whether St. Luke could thus have written with the Gospel of St. Matthew before him, I leave the reader to judge.",
+            "The identity of the two discourses."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "in the plain\u2014by some",
+            "\trendered 'on a level place,' that is, a piece of high",
+            "\ttableland",
+            "But as the sense given in our version is the more accurate,",
+            "this was spoken after the choice of the twelve; and as we know that our Lord delivered some of His weightiest sayings more than once, there is no difficulty in supposing this to be one of His more extended repetitions"
+        ],
+        "Albert Barnes": [
+            "There is no impropriety in supposing that, being pressed by multitudes, he retired into the mountain again, or to an eminence in the plain, or to the side of the mountain, where the people might be more conveniently arranged and seated to hear him.",
+            "He stood and received those who came to him, and healed their diseases.",
+            "Luke does 'not' say that he delivered the sermon 'on the plain,' but only that he 'healed the sick there.'"
+        ],
+        "Marvin Vincent": [
+            "In a plain or level place.\" ",
+            "There is a discrepancy in the two narratives.\" ",
+            "Judaea and Jerusalem."
+        ],
+        "Archibald T. Robertson": [
+            "The reports in Matthew and Luke begin alike, cover the same general ground and end alike. The report in Matthew is longer chiefly because in Chapter 5, he gives the argument showing the contrast between Christ's conception of righteousness and that of the Jewish rabbis.",
+            "Undoubtedly, Jesus repeated many of the crisp sayings here at other times as in Luke 12, but it is quite gratuitous to argue that Matthew and Luke have made up this sermon out of isolated sayings of Christ at various times.",
+            "Both Matthew and Luke give too much that is local of place and audience for that idea."
+        ],
+        "John Gill": [
+            "With the twelve apostles, from the top of the mountain, where he had been praying all night...",
+            "...in a lower part of the mountain, in a plain place on it; which was large, and capable of holding a great number of people...",
+            "...who were hearers of him, and attendants on him, and who had a great esteem for him, though they were not as yet of the number of his disciples..."
+        ],
+        "John Wesley": [
+            "On a plain \u2014 At the foot of the mountain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After descending from the mountain, Jesus stood in a level place, possibly on a flat ledge or shelf on the side of the mountain. This account may differ from Matthew's because Luke wrote his Gospel without Matthew's Gospel before him. There may be discrepancies in the two narratives, but they cover the same general ground and end with similar statements. While some argue that this sermon was a compilation of isolated sayings of Christ at various times, it is more likely that Jesus repeated these weighty sayings on multiple occasions. Ultimately, Jesus stood in a plain or level place, healing the sick and delivering His profound teachings to a large crowd who held Him in high regard, even if they were not yet His disciples.",
+            "wordCount": 127,
+            "quoteTokenProportion": 45.05,
+            "qualityScore": 1.653712527466674,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "commentatorTierSimilarities": [
+                31.76,
+                37.96,
+                30.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After descending from the mountain, Jesus stood on a level place, potentially a flat ledge on the side of the mountain. While there may be discrepancies in the accounts, both Matthew and Luke cover the same general ground and end similarly. It is possible that Jesus repeated these weighty sayings on multiple occasions, as He stood in a plain or level place, healing the sick and delivering His teachings to a large crowd who held Him in high regard, even if they were not yet His disciples.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.753489207811366,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+            "commentatorTierSimilarities": [
+                27.61,
+                38.14,
+                34.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Descending from the mountain, Jesus stood on a level place, potentially a flat ledge on the mountain's side. While there may be differences between the accounts, both Matthew and Luke cover the same general ground and end similarly. It is possible that Jesus repeated these weighty sayings on multiple occasions. Standing in a plain or level place, He healed the sick and delivered His teachings to a large crowd who held Him in high regard, even if they weren't yet His disciples.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.6578892867669577,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.47,
+            "commentatorTierSimilarities": [
+                28.08,
+                40.17,
+                31.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus descended from the mountain and stood on a level place, potentially a flat ledge or shelf on the side of the mountain. Although there may be disparities in the narratives, both Matthew and Luke cover the same ground and end similarly. It is believed that Jesus may have repeated these weighty sayings on different occasions. He stood in a plain or level place, healing the sick and sharing His teachings with a large crowd who esteemed Him highly, even if they weren't His disciples yet.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.7181836320332247,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                30.47,
+                39.84,
+                29.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After descending from the mountain, Jesus stood on a level place, possibly a flat ledge or shelf on the side of the mountain. While there may be differences in the accounts, both Matthew and Luke cover the same general ground and end similarly. Jesus may have repeated these weighty sayings on multiple occasions. He stood in a plain or level place, healing the sick and delivering His teachings to a large crowd who held Him in high regard, even if they were not yet His disciples.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.6466374681101588,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.09,
+            "commentatorTierSimilarities": [
+                27.71,
+                39.68,
+                32.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

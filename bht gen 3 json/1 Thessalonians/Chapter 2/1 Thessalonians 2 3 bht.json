@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:58:38",
+    "verseRef": "1 Thessalonians 2:3",
+    "bestBHT": {
+        "bht": "Paul's exhortation to the Thessalonians was characterized by a sincere and genuine approach, completely devoid of deceit or manipulation. Guided by the spirit of truth, his preaching aimed to bring peace amidst outward and inward sorrows. Paul vehemently opposed the use of improper means, rejecting guile and impure motives. In contrast to the popular religious practices that condoned deception and immorality, Paul's preaching stood as a testimony of honesty and integrity, ensuring that his message was free from any false teaching or impure desires.",
+        "wordCount": 86,
+        "quoteTokenProportion": 22.22,
+        "qualityScore": 2.112819379761235,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.59,
+        "commentatorTierSimilarities": [
+            32.41,
+            34.58,
+            33.01
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our exhortation to you, viz. our whole course of preaching.",
+            "Nor did we make use of deceit to win our way with our exhortation.",
+            "Not past, as in A.V.: compare 'even so we speak' below."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The ground of his 'boldness,' his freedom from all 'deceit, uncleanness, and guile.'\" ",
+            "The same Gospel which exhorts comforts.\" ",
+            "Its first lesson to each is that of peace in believing amidst outward and inward sorrows."
+        ],
+        "Albert Barnes": [
+            "The means which they used to induce them to become Christians were not such as to delude them.",
+            "The apostle appeals to what they knew to be the tendency of his doctrine as an evidence that it was true.",
+            "Guile, craft, cunning. imply deception, and can never be reconciled with that entire honesty which a minister of the gospel, and all other Christians, ought to possess."
+        ],
+        "Marvin Vincent": [
+            "Our exhortation did not proceed from any false teaching which we had ourselves received. We were guided by 'the spirit of truth'.\" ",
+            "Paul means that his exhortation did not proceed from greed for gain or lust for power.\" ",
+            "Guile has reference to improper means; plausible but insincere methods of winning converts; suppression of the truth; 'huckstering the word of God'; adulterating it for purposes of gain or popularity."
+        ],
+        "John Calvin": [
+            "He maintains that his doctrine was free from all deception and uncleanness.",
+            "They had not been deluded or imposed upon by fallacies when they embraced the kind of doctrine that had been delivered to them.",
+            "He had not come to them under the influence of any impure desire, but actuated solely by upright disposition."
+        ],
+        "Philip Schaff": [
+            "Delusion could not have stood the test.",
+            "Uncleanness seems here to mean any impure, sordid motives.",
+            "Paul\u2019s preaching was sincere...he had no ends to serve, for the attainment of which he needed to use deceit."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is keenly sensitive against charges against the correctness of his message and the purity of his life.",
+            "There was no necessary connection in the popular mind between religion and morals.",
+            "The ecstatic initiations in some of the popular religions were grossly sensual."
+        ],
+        "John Gill": [
+            "it consisted of nothing but truth, it was the word of truth, and the truth as it is in Jesus",
+            "nor did it proceed from any intention to deceive and impose on persons; it was no imposture",
+            "nor did the ministers of it connive at uncleanness in others, or practise it themselves, as did the false teachers; but bore their testimony against it, both by word and example"
+        ],
+        "John Wesley": [
+            "We preach not a lie, but the truth of God.",
+            "We preach not a lie, but the truth of God.",
+            "But with great plainness of speech."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the apostle Paul emphasizes the genuineness and sincerity of his preaching. He affirms that his exhortation was not based on any false teaching or deceit, but on the truth of the gospel. Paul was motivated by the spirit of truth, not by greed or lust for power. He was strongly opposed to using improper means, such as guile or deception, to win converts, and he made sure that his message was free from any impure, sordid motives. His preaching was characterized by honesty and integrity, standing in sharp contrast to the popular religious practices that were often associated with deception and immorality.",
+            "wordCount": 105,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.145028814850785,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.66,
+            "commentatorTierSimilarities": [
+                31.14,
+                34.26,
+                34.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's exhortation to the Thessalonians was marked by sincerity and truth. He adamantly denies the use of deceit or manipulation in his preaching, emphasizing that his message was guided by the spirit of truth and not driven by selfish motives. He strongly opposed improper means of conversion, rejecting guile and impure desires. Paul's preaching aimed to bring peace in the midst of sorrows, offering a message of genuine faith and a rejection of the immorality associated with popular religious practices.",
+            "wordCount": 82,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 2.047933561526378,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.43,
+            "commentatorTierSimilarities": [
+                32.23,
+                35.08,
+                32.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's exhortation to the Thessalonians was an authentic and truthful message that arose from a genuine desire for their well-being. He adamantly denies the use of deceit or manipulation, emphasizing the purity and sincerity of his preaching. His aim was to bring peace amidst both external and internal challenges, offering a transformative message of faith. Paul remained faithful to the truth and strongly opposed the corruption and immorality associated with popular religious practices of the time.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.937891920243917,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                33.87,
+                34.4,
+                31.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's exhortation to the Thessalonians was characterized by a sincere and genuine approach, completely devoid of deceit or manipulation. Guided by the spirit of truth, his preaching aimed to bring peace amidst outward and inward sorrows. Paul vehemently opposed the use of improper means, rejecting guile and impure motives. In contrast to the popular religious practices that condoned deception and immorality, Paul's preaching stood as a testimony of honesty and integrity, ensuring that his message was free from any false teaching or impure desires.",
+            "wordCount": 86,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 2.112819379761235,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.59,
+            "commentatorTierSimilarities": [
+                32.41,
+                34.58,
+                33.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's exhortation to the Thessalonians was characterized by a sincere and genuine approach. He adamantly denies any use of deceit or manipulation, emphasizing the purity and integrity of his preaching. Paul's aim was to bring peace amidst both external and internal challenges, offering a transformative message of faith. He rejected the corrupt and immoral practices associated with popular religions, ensuring that his teaching was free from false doctrine or impure motives.",
+            "wordCount": 73,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.9918294763763504,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.57,
+            "commentatorTierSimilarities": [
+                32.21,
+                35.6,
+                32.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

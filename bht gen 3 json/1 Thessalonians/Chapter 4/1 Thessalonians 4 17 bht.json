@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:01:14",
+    "verseRef": "1 Thessalonians 4:17",
+    "bestBHT": {
+        "bht": "Believers are encouraged to eagerly anticipate the coming of the Lord, passing on this expectation to future generations. The imagery of triumphal chariots emphasizes the majesty and power of Christ. The phrase no more parting signifies the end of separation and the joy of eternal communion with Christ. The believers, both those who have risen and those who are alive, will be swiftly and irresistibly caught up into the air. This rapture serves as a glorious climax to Paul's message of comfort, as being with Christ is the ultimate hope.",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.7678152053539788,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+        "commentatorTierSimilarities": [
+            29.62,
+            38.41,
+            31.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Again he says, 'we,' recommending thus the expression to Christians of all ages, each generation bequeathing to the succeeding one a continually increasing obligation to look for the coming of the Lord.\" ",
+            "The clouds are His and their triumphal chariot.\" ",
+            "No more parting, and no more going out."
+        ],
+        "Albert Barnes": [
+            "There may be a considerable interval between the resurrection of the pious and the time when the living shall be caught up to meet the Lord.\" ",
+            "The word here used implies that there will be the application of external force or power by which this will be done.\" ",
+            "It would seem from this, that the Lord Jesus, in his coming, would not descend to the earth, but would remain at a distance from it in the air."
+        ],
+        "Marvin Vincent": [
+            "Together with them [\u03b1\u03bc\u03b1 \u03c3\u03c5\u03bd \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2]. We that are alive shall simultaneously or one and all be caught up.",
+            "Shall be caught up [\u03b1\u03c1\u03c0\u03b1\u03b3\u03b7\u03c3\u03bf\u03bc\u03b5\u03b8\u03b1]. By a swift, resistless, divine energy.",
+            "In the air [\u03b5\u03b9\u03c2 \u03b1\u03b5\u03c1\u03b1]. Rend. into the air, and const. with shall be caught up."
+        ],
+        "John Calvin": [
+            "To those who have been once gathered to Christ he promises eternal life with him, by which statements the reveries of Origen and of the Chiliasts (588) are abundantly refuted.",
+            "For the life of believers, when they have once been gathered into one kingdom, will have no end any more than Christ\u2019s.",
+            "We must observe also what he says \u2014 we shall be, for he means that we profitably entertain a hope of eternal life, only when we hope that it has been expressly appointed for us."
+        ],
+        "Philip Schaff": [
+            "The bodily ascent will be a token of the new conditions into which the body has passed, and will serve to identify the glorified body of the believer with that of Christ.\" ",
+            "The general idea of a gathering to the Lord is conveyed, but a literal representation of all the details here mentioned would fail to furnish us with an accurate picture of what will actually take place.",
+            "It is this [being ever with the Lord] which fills the Christian\u2019s future and makes heaven for him."
+        ],
+        "Archibald T. Robertson": [
+            "The next step, not the identical time, but immediately afterwards.",
+            "This rapture of the saints (both risen and changed) is a glorious climax to Paul's argument of consolation.",
+            "To be with Christ is the chief hope of Paul's life."
+        ],
+        "John Gill": [
+            "shall be caught up; suddenly, in a moment, in the twinkling of an eye, and with force and power",
+            "these will be the chariots, in which they will be carried up to him",
+            "we shall ever be with the Lord"
+        ],
+        "John Wesley": [
+            "Together \u2014 In the same moment.",
+            "In the air \u2014 The wicked will remain beneath, while the righteous, being absolved, shall be assessors with their Lord in the judgment.",
+            "With the Lord \u2014 In heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers are encouraged to eagerly anticipate the coming of the Lord, passing on this expectation to future generations. The imagery of triumphal chariots emphasizes the majesty and power of Christ. The phrase no more parting signifies the end of separation and the joy of eternal communion with Christ. The believers, both those who have risen and those who are alive, will be swiftly and irresistibly caught up into the air, not necessarily at the same time but immediately afterwards. This rapture serves as a glorious climax to Paul's message of comfort, as being with Christ is his ultimate hope. It is important to understand that literal details mentioned in the verse may not accurately portray what will actually take place. Nonetheless, the assurance of being ever with the Lord is what fills the Christian's future and gives hope in the promise of eternal life.",
+            "wordCount": 146,
+            "quoteTokenProportion": 36.46,
+            "qualityScore": 1.7459360170023217,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.39,
+            "commentatorTierSimilarities": [
+                26.05,
+                41.48,
+                32.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are urged to pass down their expectation of the Lord's return to future generations. Christ's triumphal chariot represents His power, while no more parting expresses the joy of eternal communion. Both risen and living believers will be caught up quickly and irresistibly into the air, marking a climactic moment of comfort and hope. While the verse's details may not be literal, the assurance of being forever with Christ fills the Christian's future, providing a steadfast hope in the promise of eternal life.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7607642093400107,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.89,
+            "commentatorTierSimilarities": [
+                26.41,
+                38.01,
+                35.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are encouraged to eagerly anticipate the coming of the Lord, passing on this expectation to future generations. The imagery of triumphal chariots emphasizes the majesty and power of Christ. The phrase no more parting signifies the end of separation and the joy of eternal communion with Christ. The believers, both those who have risen and those who are alive, will be swiftly and irresistibly caught up into the air. This rapture serves as a glorious climax to Paul's message of comfort, as being with Christ is the ultimate hope.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7678152053539788,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                29.62,
+                38.41,
+                31.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers eagerly anticipate the Lord's coming and should pass down this hope to future generations. The imagery of triumphal chariots showcases Christ's power and the phrase no more parting speaks of the joy of eternal communion with Him. Both the risen and living believers will be swiftly caught up into the air, a moment of glorious comfort. This rapture signifies the ultimate hope of being with Christ. Though the verse's details may not be literal, the promise of eternal life brings hope and anticipation for believers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.827791777432985,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+            "commentatorTierSimilarities": [
+                27.35,
+                38.91,
+                33.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers have the responsibility to pass on to future generations the anticipation of Christ's return. The imagery of triumphal chariots illustrates His power, while the phrase no more parting emphasizes the joyous eternity believers will share with Him. The rapture experience will swiftly and irresistibly transport both resurrected and living believers into the air. This event serves as a glorious climax to Paul's comforting message, as the ultimate hope is to be eternally united with Christ. The exact details may differ from the literal representation, but the promise of everlasting life instills hope in believers.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.737667350150574,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+            "commentatorTierSimilarities": [
+                27.85,
+                39.52,
+                32.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

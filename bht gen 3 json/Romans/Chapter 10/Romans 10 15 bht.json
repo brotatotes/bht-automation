@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:07:59",
+    "verseRef": "Romans 10:15",
+    "bestBHT": {
+        "bht": "Romans 10:15 underscores the importance and dignity of preachers, whose feet are regarded as beautiful because of the message they convey. This Messianic prophecy from Isaiah signifies the universality of their preaching, leaving no excuse for those who do not heed it. The preachers' rapid and vigorous approach is emphasized, reflecting the urgency of their mission. The gospel is not received passively; it is actively brought by those who are sent, a reminder that there is no lawful preaching without a proper mission.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 2.1402530555905175,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.5,
+        "commentatorTierSimilarities": [
+            30.56,
+            39.9,
+            29.54
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How beautiful are the feet of them who bring glad tidings of peace, who bring glad tidings of good things!\" ",
+            "The Apostle is showing the necessity and dignity of the preachers of the word, which leads on to the universality of their preaching, leaving all who disobey it without excuse.",
+            "He alleges the words as a prophetic description of the preachers of whom he is writing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How beautiful are the feet of them that preach the gospel of peace.\" ",
+            "The whole chapter of Isaiah from which this is taken, and the three that follow, are so richly Messianic.\" ",
+            "The very feet of its preachers are called 'beautiful' for the sake of their message."
+        ],
+        "Albert Barnes": [
+            "The word 'how' does not refer to the manner of preaching, but to the fact that there would be no preachers at all unless they were sent forth.\" ",
+            "The point of the objection, therefore, was this: People could not believe unless the message was sent to them; yet God had not actually sent it to all people.\" ",
+            "The coming of those messengers who proclaim it is joyful to the world. It fills the bosom of the anxious sinner with peace; and they and their message will be regarded with deep interest, as sent by God, and producing joy in an agitated bosom, and peace to the world."
+        ],
+        "Marvin Vincent": [
+            "The radical idea of the word includes both blooming maturity and vigor. Appropriate here to the swift, vigorous feet.\" ",
+            "Feet. Emphasizing the rapid approach of the messenger.",
+            "Report [\u03b1\u03ba\u03bf\u03b7]. Lit., hearing. Similarly, Matthew 14:1; Mark 13:7."
+        ],
+        "John Calvin": [
+            "The gospel does not fall like rain from the clouds, but is brought by the hands of men wherever it is sent from above.",
+            "The Lord, when he gave hope of deliverance to his people, commended the advent of those who brought the glad tidings of peace, by a remarkable eulogy; by this very circumstance he has made it evident that the apostolic ministry was to be held in no less esteem, by which the message of eternal life is brought to us.",
+            "This passage is a striking instance that the Apostle quotes not from the Septuagint, when that version materially departs from the Hebrew, as is the case here. Though it appears to be a version of his own, he yet gives not the original literally, but accommodates it to his own purpose."
+        ],
+        "Philip Schaff": [
+            "Sent by Christ is implied, but the main thought is, sent, \u2018through the word of God\u2019 (Romans 10:17).",
+            "The prophecy is undoubtedly Messianic, and, hence, properly applied by the Apostle to the preachers of the gospel.",
+            "The necessity and dignity of the preachers of the gospel, as here set forth, form a solemn warning to all who attempt to preach without being sent."
+        ],
+        "Archibald T. Robertson": [
+            "How beautiful (H\u03c9\u03c2 \u03c9\u03c1\u03b1\u03b9\u03bf). A quotation from Isaiah 52:7 more like the Hebrew than the LXX..."
+        ],
+        "John Gill": [
+            "There is no proper, rightful, regular, and lawful preaching of the word without a mission.",
+            "The reason of this is, partly because of the agreeableness of their walk and conversation to the doctrine they preach.",
+            "And so this passage is pertinently alleged to prove, that mission is necessary to preaching."
+        ],
+        "John Wesley": [
+            "But how shall they preach, unless they be sent.",
+            "The feet \u2014 Their very footsteps; their coming.",
+            "Their coming is as glad tidings indeed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle in Romans 10:15 emphasizes the necessity and dignity of the preachers of the word, calling their feet beautiful for the sake of their message. The prophecy from Isaiah is Messianic, and the preachers of the gospel are seen as fulfilling this role. The swift and vigorous approach of these messengers is highlighted, and their arrival brings joy and peace to both the anxious sinner and the world. It is important to note that the message of the gospel is not passively received but is actively brought by the hands of those who are sent, representing God's own sending of them. Through this passage, the Apostle warns against attempting to preach without being properly sent.",
+            "wordCount": 116,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.2379803293232676,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.75,
+            "commentatorTierSimilarities": [
+                29.06,
+                44.34,
+                26.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle in Romans 10:15 highlights the significance and necessity of preachers, whose feet are described as beautiful due to the message they bring. This prophecy from Isaiah is known for its Messianic nature and is aptly applied to the preachers of the gospel. Their swift and vigorous approach is emphasized, bringing joy and peace to both individuals and the world. It is crucial to recognize that the gospel is not simply received but actively carried by those who are sent. This passage serves as a warning against preaching without proper authorization.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.0220998137595703,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.58,
+            "commentatorTierSimilarities": [
+                30.95,
+                41.44,
+                27.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Romans 10:15 underscores the importance and dignity of preachers, whose feet are regarded as beautiful because of the message they convey. This Messianic prophecy from Isaiah signifies the universality of their preaching, leaving no excuse for those who do not heed it. The preachers' rapid and vigorous approach is emphasized, reflecting the urgency of their mission. The gospel is not received passively; it is actively brought by those who are sent, a reminder that there is no lawful preaching without a proper mission.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1402530555905175,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.5,
+            "commentatorTierSimilarities": [
+                30.56,
+                39.9,
+                29.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Romans 10:15 highlights the necessity and dignity of preachers whose message brings glad tidings of peace and good things. The feet of these messengers are described as beautiful, symbolizing the swift and vigorous approach they bring. This prophecy from Isaiah is Messianic in nature, and the preachers of the gospel fulfill this role. Their arrival is seen as joyful and brings peace to both individuals and the world. It is important to recognize that the gospel is actively brought by those who are sent, emphasizing the significance of proper mission in preaching.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.0304746922808015,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.85,
+            "commentatorTierSimilarities": [
+                33.27,
+                38.55,
+                28.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Romans 10:15 emphasizes the necessity and dignity of preachers, whose feet are called beautiful for the sake of their message. The prophecy from Isaiah is Messianic, and the gospel they preach is a source of peace and good news. The preachers' swift and vigorous approach is highlighted, emphasizing the urgency of their mission. The passage warns against preaching without proper authorization, and it underscores the importance of being sent to bring the message of eternal life to others.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.205894643896792,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+            "commentatorTierSimilarities": [
+                33.47,
+                38.85,
+                27.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

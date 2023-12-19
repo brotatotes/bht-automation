@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:03:13",
+    "verseRef": "Romans 5:7",
+    "bestBHT": {
+        "bht": "The greatness of Christ's sacrificial love for the ungodly is highlighted by the rare occasions where someone would die for a just or good person. While it is possible for someone to die for a righteous individual, it requires even more courage and affection to lay down one's life for a noble and benevolent person. The distinction between the righteous and the good lies in their level of sympathy and kindness towards others. The death of Christ for the ungodly demonstrates the extraordinary extent of God's love, surpassing what can be found among humanity.",
+        "wordCount": 97,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.3273677355631426,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.73,
+        "commentatorTierSimilarities": [
+            28.67,
+            37.46,
+            33.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The greatness of this Love, of Christ's death on behalf of the impious, is brought out by shewing that there is none such among men, nay, that such a self-sacrifice... is hardly found to occur on behalf of the pious and just.",
+            "For hardly will any one die on behalf of a just man... o n behalf of a good man... perhaps one doth even dare to die.",
+            "The present tense implies habituality\u2014it may occur here and there to die."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For scarcely for a righteous man\u2014a man of simply unexceptionable character\u2014will one die.",
+            "Yet peradventure for a good man\u2014a man who, besides being unexceptionable, is distinguished for goodness, a benefactor to society\u2014some would even dare to die.",
+            "Scarce an instance occurs of self-sacrifice for one merely upright; though for one who makes himself a blessing to society there may be found an example of such noble surrender of life."
+        ],
+        "Albert Barnes": [
+            "It is an unusual occurrence, an event which is all that we can hope for from the highest human benevolence and the purest friendship, that one would be willing to die for a good man.",
+            "A man would scarcely lay down his own life to save that of a righteous man.",
+            "It is evident that the case of such a man would be much more likely to appeal to our feelings, than that of one who is merely a man of integrity."
+        ],
+        "Marvin Vincent": [
+            "The righteous man does what he ought, and gives to every one his due.",
+            "The good man 'does as much as ever he can, and proves his moral quality by promoting the wellbeing of him with whom he has to do.'",
+            "According to Paul, though one would hardly die for the merely upright or strictly just man who commands respect, he might possibly die for the noble, beneficent man, who calls out affection."
+        ],
+        "John Calvin": [
+            "Most rare, indeed, is such an example to be found among men, that one dies for a just man, though this may sometimes happen: but let this be granted, yet for an ungodly man none will be found willing to die: this is what Christ has done.\" ",
+            "Such an example of kindness, as Christ has exhibited towards us, does not exist among men.",
+            "The just, \u03b4\u1f77\u03ba\u03b1\u03b9\u03bf\u03c2, is the opposite of the 'ungodly,' \u1f00\u03c3\u1f73\u03b2\u03b7\u03c2; who, by not worshipping and honoring God, is guilty of injustice of the highest kind."
+        ],
+        "Philip Schaff": [
+            "The death of Christ for the ungodly shows the greatness of God's love.",
+            "Scarcely for a righteous man, still less for the 'ungodly,' will one die.",
+            "The presence of the article is variously explained: 'the good man' himself prompted by love, evokes our love, and for him some one would even dare to die."
+        ],
+        "Archibald T. Robertson": [
+            "Scarcely... As between \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c2, righteous, and \u03b1\u03b3\u03b1\u03b8\u03bf\u03c2, good, Lightfoot notes 'all the difference in the world' which he shows by quotations from Plato and Christian writers, a difference of sympathy mainly, the \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c2 man being 'absolutely without sympathy' while the \u03b1\u03b3\u03b1\u03b8\u03bf\u03c2 man 'is beneficent and kind.'",
+            "Would even dare... Even so in the case of the kindly sympathetic man courage is called for to make the supreme sacrifice.",
+            "Perhaps... Only here in N.T."
+        ],
+        "John Gill": [
+            "For scarcely for a righteous man will one die... yet peradventure for a good man some would even dare to die.\" ",
+            "Now for such a man perhaps there might be some found so daring and hardy, as to venture and lay down their lives.\" ",
+            "But who will die for the wicked and ungodly, the profligate and abandoned part of the people? Not one, but Christ died for the ungodly."
+        ],
+        "John Wesley": [
+            "A just man \u2014 One who gives to all what is strictly their due.",
+            "The good man - One who is eminently holy; full of love, of compassion, kindness, mildness, of every heavenly and amiable temper.",
+            "Perhaps-one-would-even-dare to die \u2014 Every word increases the strangeness of the thing, and declares even this to be something great and unusual."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The greatness of Christ's sacrificial love for the impious is demonstrated by the rarity of anyone dying for a just or good person. While a person may occasionally die for a righteous individual, it takes even more courage and affection to lay down one's life for a noble and benevolent person. The distinction between the righteous and the good lies in their level of sympathy and kindness towards others. The death of Christ for the ungodly showcases the magnitude of God's love, as it goes beyond what is expected or found among mankind.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2906638281177347,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.5,
+            "commentatorTierSimilarities": [
+                28.78,
+                37.48,
+                33.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The greatness of Christ's sacrificial love for the impious is demonstrated by the rarity of anyone dying for a just or good person. While a person may occasionally die for a righteous individual, it takes even more courage and affection to lay down one's life for a noble and beneficent person. The distinction between the righteous and the good lies in their level of sympathy and kindness towards others. The death of Christ for the ungodly showcases the magnitude of God's love, as it goes beyond what is expected or found among mankind.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.288155888266436,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.42,
+            "commentatorTierSimilarities": [
+                28.84,
+                37.54,
+                33.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The greatness of Christ's sacrificial love for the ungodly is highlighted by the rare occasions where someone would die for a just or good person. While it is possible for someone to die for a righteous individual, it requires even more courage and affection to lay down one's life for a noble and benevolent person. The distinction between the righteous and the good lies in their level of sympathy and kindness towards others. The death of Christ for the ungodly demonstrates the extraordinary extent of God's love, surpassing what can be found among humanity.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.3273677355631426,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.73,
+            "commentatorTierSimilarities": [
+                28.67,
+                37.46,
+                33.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The greatness of Christ's sacrificial love is displayed in the remarkable rarity of one dying for a just or good person. While it is possible for someone to die for a righteous individual, it requires even more courage and affection to lay down one's life for a noble and benevolent person. The distinction lies in the level of sympathy and kindness demonstrated. The death of Christ for the ungodly emphasizes the extraordinary magnitude of God's love, surpassing anything found among humanity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.1973393073326744,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.4,
+            "commentatorTierSimilarities": [
+                28.32,
+                38.74,
+                32.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The greatness of Christ's sacrificial love for the ungodly is demonstrated by the rarity of someone dying for a just or good person. While it is possible for someone to die for a righteous individual, it takes even more courage and affection to lay down their life for a noble and benevolent person. The distinction between the righteous and the good lies in their level of sympathy and kindness. The death of Christ for the ungodly showcases the magnitude of God's love, surpassing what is commonly found among mankind.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.3147209097577326,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.3,
+            "commentatorTierSimilarities": [
+                28.36,
+                37.9,
+                33.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

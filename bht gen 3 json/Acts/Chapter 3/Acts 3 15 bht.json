@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:25:33",
+    "verseRef": "Acts 3:15",
+    "bestBHT": {
+        "bht": "You demanded a murderer, but the Prince of life you killed. Peter draws a magnificent antithesis between asking for a murderer and killing the Author and Originator of life Himself. Jesus, the source of all life, was put to death by those who sought a murderer's release. However, God raised Him from the dead in sharp contrast to their deeds. As witnesses of His resurrection, we testify to His triumph over death.",
+        "wordCount": 73,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 1.805680937671783,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+        "commentatorTierSimilarities": [
+            37.19,
+            28.47,
+            34.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "15. killed the Prince of",
+            "\tlife\u2014Glorious paradox, but how piercing to the conscience of",
+            "\tthe auditors."
+        ],
+        "Albert Barnes": [
+            "The word rendered 'prince' denotes properly 'a military leader or commander.' Hence, in Hebrews 2:10, it is translated 'captain:' 'It became him ... to make the 'Captain of their salvation' perfect through sufferings.'",
+            "In Hebrews 12:2 it is properly rendered author, 'Looking unto Jesus, the author and finisher of our faith.' The word 'author,' or 'giver,' would express the meaning of the word here.",
+            "Jesus is here called the Prince of life in contrast with him whom the Jews demanded in his place, Barabbas. He was a murderer, one who had destroyed life, and yet they demanded that he whose character it was to destroy life should be released, and the Author of life be put to death."
+        ],
+        "Marvin Vincent": [
+            "Ye demanded a murderer, but the Prince of life ye killed.",
+            "The Greek brings out by the position of these words what Bengel calls 'the magnificent antithesis' between a murderer and the Prince of life.",
+            "Archgov, though sometimes rendered prince, means, primarily, beginning, and thence originator, author."
+        ],
+        "Philip Schaff": [
+            "Life here, in its highest sense, is intended eternal life.",
+            "The words may contain an allusion to the great miracle, which was the immediate cause of the enmity of the rulers to Jesus.",
+            "And of this we are witnesses, for we have seen Him risen."
+        ],
+        "Archibald T. Robertson": [
+            "Peter here draws between their asking for a murderer and killing the Prince (or Author) of life.",
+            "Peter pictures Jesus as the source of all life.",
+            "But God raised him from the dead in contrast to what they had done."
+        ],
+        "John Gill": [
+            "And killed the Prince of life... who not only is the living God, and has life in himself.",
+            "His death is laid to them because it was at their request, and through their instigation.",
+            "Whom God hath raised from the dead...so that they had not their whole will, and all their end."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You demanded a murderer, but the Prince of life you killed. Peter draws a magnificently piercing contrast between the audacious act of demanding a murderer's release and killing the Author and Originator of life Himself. Jesus, depicted as the source of all life, was put to death by those who asked for a murderer. Yet, God raised Him from the dead, a stark contrast to what they had done. As witnesses of His resurrection, we testify to the truth of His triumph over death.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.7931437301220248,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.96,
+            "commentatorTierSimilarities": [
+                37.57,
+                28.01,
+                34.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You demanded a murderer, but the Prince of life you killed. Peter draws a magnificent antithesis between asking for a murderer and killing the Author and Originator of life Himself. Jesus, the source of all life, was put to death by those who sought a murderer's release. However, God raised Him from the dead in sharp contrast to their deeds. As witnesses of His resurrection, we testify to His triumph over death.",
+            "wordCount": 73,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.805680937671783,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                37.19,
+                28.47,
+                34.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The auditors were confronted with a glorious paradox when it was proclaimed to them, You demanded a murderer, but the Prince of life you killed. Peter masterfully employed a magnificent antithesis by highlighting the stark contrast between asking for a murderer's release and killing the Author and Originator of life Himself. Jesus, depicted as the source and origin of all life, was unjustly put to death by those who sought a murderer. Nevertheless, God intervened and raised Him from the dead, undermining their actions. As witnesses of His resurrection, we confirm the truth of His triumph over death.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.748185716782241,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                34.56,
+                28.31,
+                37.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The auditors were confronted with a glorious paradox: You demanded a murderer, but the Prince of life you killed. The magnificent antithesis between seeking a murderer's release and killing the Author of life resonated deeply. Jesus, the source of all life, was unjustly put to death. Yet God intervened and raised Him from the dead, contrasting the auditors' actions. As witnesses of His resurrection, we affirm His triumph over death.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7311357169802328,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.9,
+            "commentatorTierSimilarities": [
+                34.0,
+                29.08,
+                36.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's proclamation to the auditors contained a piercing statement: You demanded a murderer, but the Prince of life you killed. The Greek positioning of these words highlighted the magnificent antithesis between a murderer and the Author of life. Jesus was portrayed as the beginning, the originator, and the source of all life. In contrast to the auditors' actions, God raised Him from the dead, testifying to His triumph over death. We, as witnesses, bear testimony to His resurrection and the ultimate defeat of their intentions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.6936757140015668,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.66,
+            "commentatorTierSimilarities": [
+                34.19,
+                32.58,
+                33.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

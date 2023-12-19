@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 14:18:32",
+    "verseRef": "Galatians 4:25",
+    "bestBHT": {
+        "bht": "Hagar, as a geographical proper name in Arabia, corresponds with the present Jerusalem, both being in slavery. Mount Sinai is well suited to represent the law's spirit of bondage, just as Jerusalem, under Roman rule, is in bondage to the law. The Arabians, descendants of Abraham and Hagar, exemplify this parallel. By drawing parallels between Hagar and Sarah, Ishmael and Isaac, the old covenant and the new covenant, and the earthly and heavenly Jerusalem, Paul emphasizes the contrast between temporal Jerusalem's bondage and the freedom of the gospel.",
+        "wordCount": 90,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 2.3156700904620537,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.34,
+        "commentatorTierSimilarities": [
+            39.34,
+            24.79,
+            35.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For the word Hagar is (imports) Mount Sinai, in Arabia.",
+            "Certainly we have Hagar as a geographical proper name in Arabia Petr\u00e6a.",
+            "And corresponds with the present Jerusalem, for she is in slavery with her children."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sinai, with its rugged rocks, far removed from the promised land, was well suited to represent the law which inspires with terror, and the spirit of bondage.",
+            "Jerusalem which now is, that is, the Jerusalem of the Jews, having only a present temporary existence, in contrast with the spiritual Jerusalem of the Gospel, which in germ, under the form of the promise, existed ages before, and shall be forever in ages to come.",
+            "As Hagar was in bondage to her mistress, so Jerusalem that now is, is in bondage to the law, and also to the Romans: her civil state thus being in accordance with her spiritual state."
+        ],
+        "Albert Barnes": [
+            "A great deal of perplexity has been felt in regard to this passage, and Bentley proposed to cancel it altogether as an interpolation. But there is no good authority for this.",
+            "The plainest and most obvious sense of a passage is generally the true sense; and the obvious sense here is, that Hagar was a fair representation of Mount Sinai, and of the Law given there.",
+            "There is no freedom; there are no great and liberal views; there is none of the liberty which the gospel imparts to men."
+        ],
+        "John Calvin": [
+            "Sinai is called Hagar, because it is a type or figure, as the Passover was Christ.",
+            "Mount Sinai is said to correspond to that which is now Jerusalem, in the same sense as Aristotle says that Rhetoric is the counterpart to Logic.",
+            "Though the two places may be widely distant from each other, they are perfectly alike in all their most important features."
+        ],
+        "Philip Schaff": [
+            "Hagar means 'Wanderer,' 'Fugitive,' and is connected with the Arabic 'Hegira.'",
+            "The law 'came in beside,' and had only an intermediate and transitory importance in the history of salvation.",
+            "The Jewish church which crucified the Lord and persecutes the Christian church, is in spiritual slavery, as Hagar was in literal slavery."
+        ],
+        "Archibald T. Robertson": [
+            "The Arabians are descendants of Abraham and Hagar (her name meaning wanderer or fugitive).\" ",
+            "Lightfoot refers to the Pythagorean parallels of opposing principles (\u03c3\u03c5\u03bd\u03c3\u03c4\u03bf\u03b9\u03c7\u03b9\u03b1) as shown here by Paul (Hagar and Sarah, Ishmael and Isaac, the old covenant and the new covenant, the earthly Jerusalem and the heavenly Jerusalem).\" ",
+            "That is true, and there is a correlative correspondence as the line is carried on."
+        ],
+        "John Gill": [
+            "It is clear, that Sinai was in Arabia, out of the land of promise, where the law was given, and seems to be mentioned by the apostle with this view, that it might be observed, and teach us that the inheritance is not of the law.",
+            "And answereth to Jerusalem which now is, and is in bondage with her children; that is, agrees with and resembles the inhabitants of Jerusalem, and of all the cities and towns in Judea; and she, being a bondwoman, represented that state of bondage the Jews were in, when the apostle wrote this.",
+            "They were also in bondage to the moral law, which required perfect obedience of them, but gave them no strength to perform; showed them their sin and misery, but not their remedy; demanded a complete righteousness, but did not point out where it was to be had; it spoke not one word of peace and comfort, but all the reverse; it admitted of no repentance; it accused of sin, pronounced guilty on account of it, cursed, condemned, and threatened with death for it, all which kept them in continual bondage."
+        ],
+        "John Wesley": [
+            "For this is mount Sinai in Arabia \u2014 That is, the type of mount Sinai. And answereth to - Resembles Jerusalem that now is, and is in bondage - Like Agar, both to the law and to the Romans."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hagar, as a geographical name in Arabia, represents Mount Sinai. This rugged and distant place symbolizes the law that brings terror and bondage. Similarly, the current physical Jerusalem, tied to the law and under Roman rule, is in slavery just like Hagar. The Arabians, descendants of Abraham and Hagar, continue this parallel. The apostle Paul draws a connection between opposing principles, such as Hagar and Sarah, Ishmael and Isaac, the old covenant and the new covenant, and the earthly Jerusalem and the heavenly Jerusalem. These correspondences highlight the stark contrast between the temporary existence of the physical Jerusalem and the eternal spiritual Jerusalem of the Gospel. In this way, the passage illustrates the difference between the bondage of the law and the freedom found in the gospel.",
+            "wordCount": 127,
+            "quoteTokenProportion": 21.92,
+            "qualityScore": 2.0778252436430638,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.43,
+            "commentatorTierSimilarities": [
+                37.21,
+                27.49,
+                35.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hagar, a name in Arabia, represents Mount Sinai, which symbolizes the law that inspires terror and bondage. The current physical Jerusalem, in bondage to the law and under Roman rule, mirrors Hagar's state. Arabians, descendants of Hagar, continue this parallel. Paul's mention of Hagar and Sarah, Ishmael and Isaac, the old and new covenants, and the earthly and heavenly Jerusalem highlights the stark contrast between temporal earthly Jerusalem and eternal spiritual Jerusalem, illustrating the difference between the law's bondage and the freedom of the gospel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 2.11589257131964,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.69,
+            "commentatorTierSimilarities": [
+                38.7,
+                25.49,
+                35.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Hagar, as a geographical proper name in Arabia, corresponds with the present Jerusalem, both being in slavery. Mount Sinai is well suited to represent the law's spirit of bondage, just as Jerusalem, under Roman rule, is in bondage to the law. The Arabians, descendants of Abraham and Hagar, exemplify this parallel. By drawing parallels between Hagar and Sarah, Ishmael and Isaac, the old covenant and the new covenant, and the earthly and heavenly Jerusalem, Paul emphasizes the contrast between temporal Jerusalem's bondage and the freedom of the gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.3156700904620537,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.34,
+            "commentatorTierSimilarities": [
+                39.34,
+                24.79,
+                35.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Hagar, the geographical name in Arabia reflecting Mount Sinai, depicts the law's terror and spirit of bondage. The current Jerusalem, enslaved to both the law and the Romans, resembles Hagar. By comparing Hagar to Sarah, Ishmael to Isaac, the old covenant to the new covenant, and the earthly Jerusalem to the heavenly Jerusalem, Paul highlights the contrast between the temporary existence of physical Jerusalem and the eternal spiritual Jerusalem of the Gospel. This starkly illustrates the difference between the law's enslavement and the freedom offered through faith in Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 20.37,
+            "qualityScore": 2.2287488743165325,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.45,
+            "commentatorTierSimilarities": [
+                35.24,
+                27.64,
+                37.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Hagar, the geographical name in Arabia, corresponds with the present Jerusalem, both in slavery. Mount Sinai, with its rugged rocks, represents the law's spirit of bondage. The Arabians, descendants of Abraham and Hagar, exemplify this parallel. Paul's comparison of Hagar and Sarah, Ishmael and Isaac, the old and new covenants, the earthly and heavenly Jerusalem, highlights the contrast between temporal Jerusalem's bondage and the freedom found in the spiritual Jerusalem of the Gospel. This draws attention to the difference between the law's terror and the liberation offered by faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 21.05,
+            "qualityScore": 2.1196559384001623,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.82,
+            "commentatorTierSimilarities": [
+                39.31,
+                26.34,
+                34.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

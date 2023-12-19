@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:23:00",
+    "verseRef": "Luke 22:24",
+    "bestBHT": {
+        "bht": "There are symptoms of a former strife that had reappeared among the disciples, potentially due to the assignment of paschal arrangements to two of the Twelve. The contention among them was about who would be considered the greatest, showing an eager contention and a desire for superiority. Even the disciples of Jesus, who were being prepared for his death, were influenced by the love of power. This dispute, possibly about their places at the table, happened before the Lord's Supper, highlighting the ongoing struggle to overcome worldly ambitions and the need for humility among Christ's followers.",
+        "wordCount": 98,
+        "quoteTokenProportion": 44.29,
+        "qualityScore": 1.602389997082144,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+        "commentatorTierSimilarities": [
+            28.13,
+            42.12,
+            29.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "some symptoms of the former strife which had reappeared",
+            "perhaps on seeing the whole paschal arrangements committed to two of the Twelve",
+            "the Twelve"
+        ],
+        "Albert Barnes": [
+            "The apostles, in common with the Jews generally, had supposed that the Messiah would come as a temporal prince, and in the manner of other princes of the earth.",
+            "That just as Jesus was contemplating his own death, and laboring to prepare them for it, they should strive and contend about office and rank, shows how deeply seated is the love of power.",
+            "How even the disciples of the meek and lowly Jesus are sometimes actuated by this most base and wicked feeling."
+        ],
+        "Marvin Vincent": [
+            "A strife [\u03c6\u03b9\u03bb\u03bf\u03bd\u03b5\u03b9\u03ba\u03b9\u03b1] . Properly, \"an eager contention.\" Only here in New Testament. ",
+            "Greatest. Strictly, greater."
+        ],
+        "Philip Schaff": [
+            "More than a discussion, a contention, a quarrel.",
+            "Hence the improbability of its occurring after the Lord's Supper.",
+            "Some suppose that it was occasioned by a dispute about their places at the table."
+        ],
+        "Archibald T. Robertson": [
+            "Contention (\u03c6\u03b9\u03bb\u03bf\u03bd\u03b5\u03b9\u03ba\u03b9\u03b1). An old word from \u03c6\u03b9\u03bb\u03bf\u03bd\u03b5\u03b9\u03ba\u03bf\u03c2, fond of strife, eagerness to contend. Only here in the N.T.",
+            "Greatest (\u03bc\u03b5\u03b9\u03b6\u03c9\u03bd). Common use of the comparative as superlative."
+        ],
+        "John Gill": [
+            "The strife was, which of them should be accounted the greatest; by Christ; or that should be so in his kingdom.\" ",
+            "Peter might urge his seniority, and what Christ had said to him, Matthew 16:18.",
+            "Satan was now busy about him; wherefore Christ calls him by name, and singles him out among the rest."
+        ],
+        "John Wesley": [
+            "There was also a contention among them.\" ",
+            "It is highly probable, this was the same dispute which is mentioned by St. Matthew and St. Mark.",
+            "Though it is related here, it happened some time before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, there are some symptoms of a former strife that had reappeared among the disciples, perhaps stemming from the assignment of paschal arrangements to two of the Twelve. The contention among them was about who would be considered the greatest, indicating an eager contention and a desire for superiority. It is interesting to see how even the disciples of Jesus, who were being prepared for his death, were influenced by the love of power. The dispute may have been about their places at the table, but it is important to note that this occurrence happened some time before the Lord's Supper. Overall, this incident reveals the ongoing struggle to overcome worldly ambitions and the need for humility among followers of Christ.",
+            "wordCount": 124,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.5276301913204755,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.14,
+            "commentatorTierSimilarities": [
+                26.61,
+                41.35,
+                32.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There are symptoms of a former strife that had reappeared among the disciples, potentially due to the assignment of paschal arrangements to two of the Twelve. The contention among them was about who would be considered the greatest, showing an eager contention and a desire for superiority. Even the disciples of Jesus, who were being prepared for his death, were influenced by the love of power. This dispute, possibly about their places at the table, happened before the Lord's Supper, highlighting the ongoing struggle to overcome worldly ambitions and the need for humility among Christ's followers.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.602389997082144,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+            "commentatorTierSimilarities": [
+                28.13,
+                42.12,
+                29.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The former strife reappeared among the disciples, leading to a contention about who would be considered the greatest. This reflects an eager contention and a desire for superiority among them. Despite being prepared for Jesus' death, even his disciples were influenced by the love of power. The dispute, possibly centering around their places at the table, occurred before the Lord's Supper. It serves as a reminder of the ongoing struggle to overcome worldly ambitions and the importance of humility among Christ's followers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.52280385391054,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.98,
+            "commentatorTierSimilarities": [
+                26.37,
+                44.03,
+                29.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' former strife resurfaced as a contention arose about who would be considered the greatest among them. This eagerness to contend and desire for superiority revealed the deep-seated love of power, even among Jesus' followers. The dispute, possibly involving their places at the table, occurred before the Lord's Supper. It serves as a reminder of the ongoing struggle to overcome worldly ambitions and highlights the crucial need for humility among those who follow Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.585311436267755,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.05,
+            "commentatorTierSimilarities": [
+                28.57,
+                42.12,
+                29.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples found themselves embroiled in a renewed contention, this time over the title of greatest among them. This contentious spirit and yearning for superiority demonstrated a love for strife. It is remarkable that even the followers of the gentle and humble Jesus could be swayed by such base and wicked feelings. The dispute, possibly sparked by a quarrel over their positions at the table, likely occurred before the Lord's Supper. This incident serves as a sobering reminder of the importance of humility and the need to eschew worldly ambitions.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.450534482124588,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.57,
+            "commentatorTierSimilarities": [
+                29.2,
+                44.19,
+                26.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

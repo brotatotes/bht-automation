@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:34:04",
+    "verseRef": "Acts 19:35",
+    "bestBHT": {
+        "bht": "The townclerk in Ephesus held the vital role of overseeing the temple and was referred to as a worshipper. Legends were circulated claiming that the temple's images had fallen from heaven, lending them a special sanctity. By invoking Ephesus' status as the sacristan of the goddess Artemis, the chief officer managed to calm the crowd. Unfortunately, amidst the chaos and superstition, the message of God was overshadowed and went largely unheard by the people.",
+        "wordCount": 75,
+        "quoteTokenProportion": 25.93,
+        "qualityScore": 2.0654722769994533,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+        "commentatorTierSimilarities": [
+            32.49,
+            36.94,
+            30.57
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The townclerk is the nearest English office corresponding to that here mentioned in the original.\" (Commentary)",
+            "The word here rendered worshipper probably means a virger, or adorner of the temple: here used as implying that Ephesus had the charge and keeping of the temple.\" (Commentary)",
+            "To give peculiar sanctity to various images, it was given out that they had fallen from heaven.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What man...knoweth not that the city of the Ephesians is a worshipper of the great goddess Diana?",
+            "Thirteen cities of Asia had an interest in the temple, but Ephesus was honored with the charge of it.",
+            "With this we may compare various legends concerning images and pictures in the Romish Church, such as the traditional likenesses of Christ, which were said to be 'not made with hands'."
+        ],
+        "Albert Barnes": [
+            "But he little knew the power of that religion which had been the innocent cause of all this tumult; nor that, at no very distant period, this despised religion would overturn not only the worship of Diana at Ephesus, but the splendid idolatry of the mighty Roman empire.",
+            "It was regarded as an office of honor and dignity to have charge of the temples of the gods, and to keep them in order.",
+            "It was for the interest of the priest to keep up this impression. Many cities pretended to have been favored in a similar manner with images or statues of the gods, sent directly from heaven."
+        ],
+        "Marvin Vincent": [
+            "Next to the commander, he was the most important personage in the Greek free cities.",
+            "This title, originally applied to the lowest menials of the temple, became a title of honor.",
+            "The city of Ephesus is the sacristan of the great goddess Artemis."
+        ],
+        "John Calvin": [
+            "Luke showeth in this place that the tumult was so appeased, that yet, notwithstanding, superstition prevailed with the mad people, and the truth of God was not heard.",
+            "For though the town-clerk had not been by him commanded to speak thus, yet it should have been treacherous dissimulation in a public witness and preacher of heavenly doctrine.",
+            "Could he have holden his peace, but he must needs by his silence have allowed his false excuse? And this had been to shake hands with idolatry."
+        ],
+        "Philip Schaff": [
+            "The Greek word rendered \u2018worshipper\u2019 is a remarkable one (\u03bd\u03b5\u03c9\u03ba\u03bf\u03c1\u03bf\u0301\u03bd). Its literal meaning is \u2018temple-sweeper\u2019 (Lat. aedituus).",
+            "It was as though he said, \u2018My fellow-citizens, why imperil your cherished privileges and affront Rome by an unseemly uproar about a question which after all no sensible man could ever entertain; for, does not all the civilised world know how loyal Ephesus is to her great protecting goddess?",
+            "Like many other venerated idols of the old Pagan world, the strange and hideous statue of the Ephesian Artemis was supposed to have fallen from the skies."
+        ],
+        "Archibald T. Robertson": [
+            "His name appeared on the coin at Ephesus issued in his year of office.",
+            "He evidently took the rostrum and his very presence as the city's chief officer had a quieting effect on the billowy turmoil and a semblance of order came.",
+            "Thus the recorder soothed the vanity (Rackham) of the crowd by appeal to the world-wide fame of Ephesus as sacristan of Artemis and of her heaven-fallen image."
+        ],
+        "John Gill": [
+            "But to be Neocorus, a sacrist to the goddess, was a favour granted to some cities, and accounted a great honour.",
+            "This image, Pliny says, it was doubted of what it was made; some said of the vine tree, others of ebony.",
+            "The old image of Diana of the Ephesians was made of olive."
+        ],
+        "John Wesley": [
+            "The register \u2014 Probably the chief governor of the public games.",
+            "The image which fell down from Jupiter \u2014 They believed that very image of Diana, which stood in her temple, fell down from Jupiter in heaven.",
+            "Perhaps he designed to insinuate, as if falling down from Jupiter, it was not made with hands, and so was not that sort of idols which Paul had said were no gods."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The townclerk, similar to an English office, played an important role in Ephesus. He was in charge of the temple and was considered a worshipper, responsible for adorning and maintaining it. Legends were spread that the temple's images had fallen from heaven, adding to their sanctity. The chief officer's presence had a calming effect on the crowd, as he appealed to Ephesus' reputation as the sacristan of the goddess Artemis. Despite the tumult and superstition, the true message of God was not heard among the people.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9330367770117536,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.61,
+            "commentatorTierSimilarities": [
+                32.73,
+                36.81,
+                30.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The townclerk, identified as a worshipper, held a significant position as the guardian of the temple in Ephesus. The temple's images were revered, believed to have fallen from heaven, adding to their sanctity. The chief officer's presence had a calming effect on the crowd, using Ephesus' reputation as the sacristan of the goddess Artemis to soothe vanity. However, amidst the turmoil and superstition, the true message of God was overshadowed and unheard by the people.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.049025653844108,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.47,
+            "commentatorTierSimilarities": [
+                31.31,
+                38.42,
+                30.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The townclerk, known as a worshipper, had the important task of overseeing the temple in Ephesus, similar to an English office. Legends were spread that the temple's images had fallen from heaven, adding to their sacredness. The chief officer's presence had a calming effect, as he appealed to Ephesus' reputation as the sacristan of the goddess Artemis. Despite the tumult and superstition, the true message of God remained unheard by the people.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.009484406255055,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "commentatorTierSimilarities": [
+                32.64,
+                37.71,
+                29.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The townclerk in Ephesus held the vital role of overseeing the temple and was referred to as a worshipper. Legends were circulated claiming that the temple's images had fallen from heaven, lending them a special sanctity. By invoking Ephesus' status as the sacristan of the goddess Artemis, the chief officer managed to calm the crowd. Unfortunately, amidst the chaos and superstition, the message of God was overshadowed and went largely unheard by the people.",
+            "wordCount": 75,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 2.0654722769994533,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+            "commentatorTierSimilarities": [
+                32.49,
+                36.94,
+                30.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The townclerk of Ephesus, being a worshipper and similar to an English office, had the responsibility of overseeing the temple and adorning it. The belief that the temple's images had fallen from heaven only added to their sacredness. By appealing to Ephesus' reputation as the sacristan of the goddess Artemis, the chief officer was able to bring calm to the crowd. Unfortunately, amidst the chaos and superstition, the true message of God remained unheard by the people.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.0226566269777324,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+            "commentatorTierSimilarities": [
+                32.11,
+                39.1,
+                28.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

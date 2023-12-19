@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:13:11",
+    "verseRef": "Galatians 1:11",
+    "bestBHT": {
+        "bht": "The Gospel preached by Paul is not influenced by human considerations, but rather revealed by God. It is not an outcome of human instruction, but a divine message that fulfills the deepest needs of humanity. This rare phrase, used exclusively by Paul, emphasizes the uniqueness and authority of the Gospel. It surpasses human understanding and cannot be attained or approved by man alone. The power to preach this Gospel does not come from man, but solely from God.",
+        "wordCount": 78,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.8997850596336507,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.51,
+        "commentatorTierSimilarities": [
+            33.1,
+            29.59,
+            37.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I made known to you as to the Gospel which was preached by me",
+            "It is not after man, that is, not of, by, or from man",
+            "It is not according to man; not influenced by mere human considerations"
+        ],
+        "Albert Barnes": [
+            "I make known to you; or, I declare to you; see 1 Corinthians 15:1.",
+            "He had not received his authority from man to preach the gospel.",
+            "He had received it directly from the Lord Jesus."
+        ],
+        "Marvin Vincent": [
+            "Certify, even in older English, is to assure or attest, which is too strong for gnwrizein to make known or declare.\" (Commentary)",
+            "This, which in the New Testament is the universal meaning of gnwrizein, and the prevailing sense in LXX, is extremely rare in Class., where the usual sense is to become acquainted with.\" (Commentary)",
+            "According to any human standard. The phrase only in Paul.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "This is the most powerful argument, the main hinge on which the question turns, that he has not received the gospel from men, but that it has been revealed to him by God.",
+            "[Paul] affirms that it is not according to man; that it savours of nothing human, or, that it was not of human contrivance; and in proof of this he afterwards adds, that he had not been instructed by any earthly teacher.",
+            "The idiom by which there is a transposition of \u1f45\u03c4\u03b9 is frequent, and may here, Schott thinks, have been made use of, in order to place a highly important topic in the most prominent point of view."
+        ],
+        "Philip Schaff": [
+            "The gospel in its origin and contents as received and taught by Paul is not human, but divine; yet intended for man, and satisfying the deepest wants of man\u2019s nature.",
+            "This verb introduces a deliberate and emphatic statement of opinion.",
+            "Paul still acknowledges the readers as brethren, hoping to win them back from their error."
+        ],
+        "Archibald T. Robertson": [
+            "the gospel which was gospelized by me.",
+            "Not after a human standard.",
+            "Paul alone in the N.T. uses this old and common idiom."
+        ],
+        "John Gill": [
+            "that the Gospel which was preached of me, is not after man.",
+            "nor was it after the mind of man, or agreeably to his carnal reason, it was disapproved of by him, and beyond his capacity to reach it.",
+            "nor is it in the power of one man to make another a minister of the Gospel, or to give him or himself success in the ministration of it, but the whole is of God."
+        ],
+        "John Wesley": [
+            "Not from man, not by man, not suited to the taste of man.",
+            "The gospel which was preached by me among you is not according to man.",
+            "He does not till now give them even this appellation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse declares that the Gospel preached by Paul is not of human origin or influenced by human standards, but rather revealed to him directly by God. This revelation is not a result of human instruction, but a divine message intended to satisfy the deepest needs of humanity. Paul emphasizes that this is not a commonly held view, as this idiom is rarely used elsewhere. He affirms that the Gospel he preaches is not according to man, and that it surpasses human understanding and capacities. The authority to preach this Gospel does not come from any man, but from God alone.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9097150671466323,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
+            "commentatorTierSimilarities": [
+                31.63,
+                30.47,
+                37.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Gospel preached by Paul is not influenced by human considerations, but rather revealed by God. It is not an outcome of human instruction, but a divine message that fulfills the deepest needs of humanity. This rare phrase, used exclusively by Paul, emphasizes the uniqueness and authority of the Gospel. It surpasses human understanding and cannot be attained or approved by man alone. The power to preach this Gospel does not come from man, but solely from God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.8997850596336507,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.51,
+            "commentatorTierSimilarities": [
+                33.1,
+                29.59,
+                37.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gospel that Paul made known to the readers is not according to man, unaffected by human standards or mere human considerations. It is not a product of human teaching or the mind of man. Rather, it is a divine revelation, surpassing human comprehension and capacities. The authority to preach this Gospel does not come from any man, but solely from God. This Gospel is distinct and unparalleled, unlike anything else in the world.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8908022429874303,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.21,
+            "commentatorTierSimilarities": [
+                34.2,
+                27.74,
+                38.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gospel preached by Paul is not after man or influenced by human standards; it is a divine revelation directly from God. It is not a result of human instruction, but rather a message that satisfies the deepest needs of humanity. This unique phrase used exclusively by Paul highlights the unparalleled nature and authority of this Gospel. It transcends human understanding and cannot be attained or approved by man alone. The power to preach this Gospel is not derived from man, but exclusively from God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.8905506121227837,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.2,
+            "commentatorTierSimilarities": [
+                33.54,
+                28.72,
+                37.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gospel preached by Paul is not after man or influenced by human considerations. It is a divine revelation, surpassing human understanding and independent of human teaching. This Gospel's authority does not come from man, but solely from God. Through this unique phrase used by Paul, he emphasizes the distinct and unparalleled nature of the Gospel. It is not in accordance with man, but a message that transcends the limitations of human reason and capacities.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8839826183465143,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                33.27,
+                29.66,
+                37.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

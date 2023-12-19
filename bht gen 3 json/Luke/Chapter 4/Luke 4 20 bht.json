@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:15:15",
+    "verseRef": "Luke 4:20",
+    "bestBHT": {
+        "bht": "As the minister, the synagogue-officer, handed Jesus the sacred book, He unrolled it and sat down, the customary position of a Jewish teacher. The eyes of all in the synagogue were fixed on Him, astounded at His claims. Jesus closed the book and returned it to the minister, emphasizing His authority. This act further captured the attention of the listeners, enhancing their willingness to listen to His words.",
+        "wordCount": 69,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.8858876174505081,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+        "commentatorTierSimilarities": [
+            28.12,
+            37.74,
+            34.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was the custom in the synagogues to stand while reading the law, sit down to explain it.",
+            "Our Lord on other occasions taught sitting.",
+            "The minister was the officer whose duty it was to keep the sacred books."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. the minister\u2014the chazan,",
+            "\tor synagogue-officer. ",
+            "\t",
+            "all eyes . . . fastened on",
+            "\tHim\u2014astounded at His putting in such claims."
+        ],
+        "Albert Barnes": [
+            "And he closed the book - That is, he rolled it up again.",
+            "And he gave it again to the minister - That is, to the one in the synagogue who had charge of the books.",
+            "And sat down - This was usual in speaking in their synagogues."
+        ],
+        "Marvin Vincent": [
+            "Minister is likely to be misunderstood as referring to the president of the congregation, who, as the teaching elder, would have addressed the people if Jesus had not done so. It means the attendant who had charge of the sacred rolls. He was a salaried officer, a kind of chapel - clerk.",
+            "Sat down. As about to teach; that being the habitual position of a Jewish teacher.",
+            "Were fastened [\u03b7\u03c3\u03b1\u03bd \u03b1\u03c4\u03b5\u03bd\u03b9\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2] . The participle and finite verb denoting continuous, steadfast attention. The verb, from teinw, to stretch, denotes fixed attention. Indeed, the word attention itself, etymologically considered, conveys the same idea."
+        ],
+        "John Calvin": [
+            "The eyes of all... God touched their hearts... with astonishment.",
+            "which made them more attentive... induced them to listen to Christ.",
+            "For they must have been... to treat Christ with contempt."
+        ],
+        "Philip Schaff": [
+            "And he closed the roll, or, 'rolling up the roll.'\" ",
+            "And sat down, to explain what He had read, that being the usual position of those making such expositions.",
+            "The man brought up among them was about to address them for the first time; the report from other places had preceded this visit; the passage read was remarkable, and doubtless there was something in the appearance of our Lord, especially under these circumstances, which would command unusual attention."
+        ],
+        "Archibald T. Robertson": [
+            "He closed the book (\u03c0\u03c4\u03c5\u03be\u03b1\u03c2 \u03c4\u03bf \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03bd). Rolled up the roll and gave it back to the attendant who had given it to him and who put it away again in its case.",
+            "Sat down (\u03b5\u03ba\u03b1\u03b8\u03b9\u03c3\u03b5\u03bd). Took his seat there as a sign that he was going to speak instead of going back to his former seat. This was the usual Jewish attitude for public speaking and teaching.",
+            "The eyes of all in the synagogue were gazing fixedly upon him. The verb \u03b1\u03c4\u03b5\u03bd\u03b9\u03b6\u03c9 occurs in Aristotle and the Septuagint. It is from the adjective \u03b1\u03c4\u03b5\u03bd\u03b7\u03c2 and that from \u03c4\u03b5\u03b9\u03bd\u03c9, to stretch, and copulative or intensive \u03b1, not \u03b1 privative."
+        ],
+        "John Gill": [
+            "And he closed the book,... and he gave it again to the minister.\" ",
+            "And sat down; as was the manner of the Jews, when they taught, or preached.",
+            "And the eyes of all them that were in the synagogue were fastened on him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the minister, the synagogue-officer, handed Jesus the sacred book, he unrolled it and found the passage he desired to read. Then Jesus sat down, assuming the customary position of a Jewish teacher about to speak. The eyes of all in the synagogue were fixed intently on Him, astounded by His boldness and the claims He was making. Jesus closed the book and returned it to the minister, who put it away in its case. This act of authority further captured the attention of the listeners, enhancing their willingness to listen to Christ's words.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9207555241753296,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                28.53,
+                37.31,
+                34.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the synagogue's minister handed Jesus the sacred book, He unrolled it and sat down, the customary position for a Jewish teacher. All eyes in the synagogue were fixed on Him, amazed by His audacious claims. Jesus then closed the book and returned it to the minister, symbolizing His authority. This action, along with the focused attention of the audience, further emphasized their willingness to listen to His teachings.",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.8743270583184408,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                28.97,
+                36.83,
+                34.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The minister in the synagogue presented Jesus with the sacred book, which He unrolled before sitting down, a customary posture for a Jewish teacher. The intense gaze of all those in the synagogue fixated on Jesus, astonished by His audacious claims. After closing the book, Jesus handed it back to the minister, signifying His authority. This act, along with the undivided attention of the audience, demonstrated their willingness to listen to His words.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.7949171478249397,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                28.8,
+                36.95,
+                34.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the minister handed Jesus the sacred book, He unrolled it and sat down, the customary position for a Jewish teacher. All eyes in the synagogue were fixed on Him, impressed by His boldness and the claims He was making. Jesus closed the book and returned it to the minister, signaling His authority. This act, along with the focused attention of the audience, heightened their willingness to listen to Christ's words.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.8736993464146925,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                28.28,
+                36.28,
+                35.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the minister, the synagogue-officer, handed Jesus the sacred book, He unrolled it and sat down, the customary position of a Jewish teacher. The eyes of all in the synagogue were fixed on Him, astounded at His claims. Jesus closed the book and returned it to the minister, emphasizing His authority. This act further captured the attention of the listeners, enhancing their willingness to listen to His words.",
+            "wordCount": 69,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.8858876174505081,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                28.12,
+                37.74,
+                34.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:34:21",
+    "verseRef": "Acts 20:23",
+    "bestBHT": {
+        "bht": "The Holy Spirit consistently forewarned Paul, through prophetic influences, that he would face bonds and afflictions in every city he visited. These premonitions, serving as a seasoning to Paul's spirit, were not merely coincidental occurrences, but a deliberate method of God's providence. By revealing these coming events, the Holy Spirit affirmed his authority as the author of the Word of God. This knowledge compelled Paul to faithfully obey God's commandments and embrace the hardships that awaited him, demonstrating his unwavering trust in God's promises.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.9314492093652864,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+        "commentatorTierSimilarities": [
+            27.45,
+            40.03,
+            32.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "23. the Holy Ghost witnesseth] Compare Rom. viii. 16."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Save that the Holy Ghost witnesseth in every city.\" ",
+            "Analogous premonitions of coming events are not unknown to the general method of God's providence.",
+            "They would tend to season the apostle's spirit."
+        ],
+        "Albert Barnes": [
+            "This was all that he knew, that bonds and afflictions were to be his portion.",
+            "It is probable that the meaning here is that the Holy Spirit had deeply impressed the mind of Paul by his direct influences, and by his experience in every city, that bonds and trials were to be his portion.",
+            "So uniform was this, so constant had been his experience in this way, that he regarded it as his certain portion to be thus afflicted."
+        ],
+        "John Calvin": [
+            "For by this means the word of God hath his [its] authority, when we confess that the Spirit of God is the author thereof, though the ministers be men.",
+            "Now, forasmuch as the same Spirit, which foretelleth Paul of bonds and tribulations, doth also hold him fast bound that he cannot refuse to submit himself unto him, by this we learn, that what dangers soever hang over our heads, we are not thereby acquitted, but that we must obey the commandments of God, and follow his calling.",
+            "In vain, therefore, do those men flatter themselves, who will do good so long as they be free from molestation, and may make discommodities, damages, and dangers of death, sufficient excuses."
+        ],
+        "Philip Schaff": [
+            "Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.",
+            "Like other miraculous powers, [the gift of prophecy] gradually seems to have passed away from the Church.",
+            "Such a sorrowful foreboding was probably written down in Corinth after one of those prophetic intimations here referred to: 'The Holy Ghost witnesseth in every city.'"
+        ],
+        "Archibald T. Robertson": [
+            "The \u03bf\u03c4 clause is really in the ablative case after \u03c0\u03bb\u03b7\u03bd, here a preposition as in Philippians 1:18, this idiom \u03c0\u03bb\u03b7\u03bd \u03bf\u03c4 occasionally in ancient Greek.",
+            "Singular here though plural in \u03ba\u03b1\u03c4' \u03bf\u03b9\u03ba\u03bf\u03c5\u03c2 (verse Acts 20:20).",
+            "Both together as in Philippians 1:17; 2 Corinthians 1:8. Literal bonds and actual pressures."
+        ],
+        "John Gill": [
+            "In the churches of those times there were prophets who foretold things to come, and by these the Holy Ghost testified to the apostle.",
+            "Whenever [affliction and persecution] came, he was not surprised at them, they were no other than what he looked for.",
+            "It is no inconsiderable proof of the proper deity of the Spirit of God, and is an instance of his affectionate regard to the apostle, to give him previous notice of these things."
+        ],
+        "John Wesley": [
+            "Save that \u2014 Only this I know in general.",
+            "The Holy Ghost witnesseth - By other persons.",
+            "Such was God's good pleasure to reveal these things to him, not immediately, but by the ministry of others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Throughout his journeys, the Holy Spirit consistently revealed to Paul that he would encounter bonds and afflictions in every city. These premonitions served to strengthen his spirit and prepare him for the challenges ahead. This divine witness in every city was a powerful testimony of the Holy Spirit's influence on Paul's life. With this knowledge, Paul understood that he must submit himself to God's commandments and follow His calling, regardless of the dangers that awaited him. The consistent foretelling of hardship by the Holy Spirit not only demonstrated the Spirit's affectionate regard for Paul but also affirmed the authority of the Word of God. Paul's obedience and perseverance in the face of afflictions were a testament to his unwavering faith in the promises of God.",
+            "wordCount": 130,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.761939475543449,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                25.87,
+                42.39,
+                31.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Holy Spirit consistently forewarned Paul, through prophetic influences, that he would face bonds and afflictions in every city he visited. These premonitions, serving as a seasoning to Paul's spirit, were not merely coincidental occurrences, but a deliberate method of God's providence. By revealing these coming events, the Holy Spirit affirmed his authority as the author of the Word of God. This knowledge compelled Paul to faithfully obey God's commandments and embrace the hardships that awaited him, demonstrating his unwavering trust in God's promises.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9314492093652864,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                27.45,
+                40.03,
+                32.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Holy Spirit's witness in every city informed Paul that he would face bonds and afflictions. These prophecies, given through prophetic influences, were not coincidental but deliberate acts of God's providence. The foreknowledge of the Holy Spirit served to prepare and strengthen Paul's spirit. By revealing these future hardships, the Holy Spirit affirmed his authority as the author of the Word of God. This understanding compelled Paul to faithfully obey God's commandments and embrace the challenges that awaited him, unwavering in his trust in God's promises.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8625174591532732,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                28.48,
+                39.51,
+                32.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the witness of the Holy Spirit in every city, Paul received the foreknowledge that bonds and afflictions would be his portion. These divine premonitions were not coincidental but purposefully orchestrated by God's providence. The forewarnings were meant to season Paul's spirit and prepare him for the challenges that lay ahead. This consistent witness of the Holy Spirit demonstrated His authority and affirmed the truth of God's Word. In response, Paul faithfully obeyed God's commands, regardless of the dangers he faced, exemplifying his unwavering faith in God's promises.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.7678780224949247,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                27.29,
+                40.78,
+                31.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Holy Spirit's witness in every city served to inform Paul that he would face bonds and afflictions. These prophetic forewarnings, a general source of knowledge for him, were not mere coincidences, but an intentional method of God's providence. The consistent premonitions were meant to prepare and strengthen Paul's spirit, demonstrating the Spirit's affectionate regard for him. By obeying God's commandments and embracing the hardships, Paul displayed his unshakeable trust in God's promises despite the imminent dangers that awaited him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7696207700029425,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "commentatorTierSimilarities": [
+                25.67,
+                41.44,
+                32.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

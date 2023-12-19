@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:31:09",
+    "verseRef": "Acts 13:50",
+    "bestBHT": {
+        "bht": "The devout and honorable women, who were influential proselytes, played a significant role in the opposition that Paul and Barnabas faced. These women, influenced by Jewish ecclesiastics, turned against the new preachers. With their sway over people of prominence, the Jews managed to convince the Roman officials that the apostles were disturbers of public peace. Consequently, Paul and Barnabas were compelled to leave the region. Throughout the history of the Church, the potency of female characters, both for and against the truth, has been evident.",
+        "wordCount": 85,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 1.8085595363998668,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+        "commentatorTierSimilarities": [
+            33.23,
+            34.62,
+            32.15
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Women had a strong religious influence both for and against Christianity.",
+            "These were proselytes of the gate, or at least inclined to Judaism.",
+            "But only a compulsory retirement for peace, and their own safety's sake."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The potent influence of the female character both for and against the truth is seen in every age of the Church's history.",
+            "An easier thing than to refute them.",
+            "The devout and honourable women\u2014female proselytes of distinction, jaundiced against the new preachers by those Jewish ecclesiastics to whom they had learned to look up."
+        ],
+        "Albert Barnes": [
+            "But the Jews stirred up - Excited opposition.",
+            "The aid of 'chief men' has often been called into oppose revivals of religion, and to put a period, if possible, to the spread of the gospel.",
+            "Out of their coasts - Out of the regions of their country; out of their province."
+        ],
+        "Marvin Vincent": [
+            "Honorable [\u03b5\u03c5\u03c3\u03c7\u03b7\u03bc\u03bf\u03bd\u03b1\u03c2]. Women of rank, or, as Rev., of honorable state.",
+            "Coasts [\u03bf\u03c1\u03b9\u03c9\u03bd]. Not a good rendering, because it implies merely a sea - coast; whereas the word is a general one for boundaries."
+        ],
+        "John Calvin": [
+            "A great multitude of men received Christ, but it was but the multitude and the offscourings of men. Against them were set the chief men of the city, who with their pomp did easily oppress the base and obscure multitude.",
+            "If wicked, ungodly, and mischievous men should have issued out of their taverns and dens; if companies of whores should break out of their brothel-house, it should be no reproach to the gospel; yea, rather the dignity thereof should thereby appear more plainly.",
+            "For it is certain that all that virtue and honesty which is in men is mere hypocrisy where they set themselves against. Christ; though it may be that those who are rashly carried against Christ for a time may afterwards repent."
+        ],
+        "Philip Schaff": [
+            "Strabo, quoted by Howson (St. Paul, chap. vi), makes special mention of the position of the female sex in the towns of Western Asia, and speaks in strong terms of the power which they possessed and exercised in controlling and modifying the religious opinions of the men.",
+            "Most probably the husbands and kinsmen of the devout and honourable women just referred to.",
+            "The persecution was probably a tumultuous outbreak, and the apostles for the sake of peace retired from the place."
+        ],
+        "Archibald T. Robertson": [
+            "The Jews were apparently not numerous in this city as they had only one synagogue, but they had influence with people of prominence.",
+            "The rabbis were shrewd enough to reach these men (not proselytes) through the women who were proselytes of distinction.",
+            "Probably the Jews succeeded in making the Roman officials look on Paul and Barnabas as disturbers of the public peace."
+        ],
+        "John Gill": [
+            "These seem not to be Jewish women; could they be thought to be such, they might easily be concluded to be of the sect of the Pharisees, which was the strictest and most devout sect among the Jews.",
+            "But these were Gentile women, proselyted to the Jewish religion, and were in their way very religious and devout, and were also 'honourable': the word used signifies, not only that they were of a comely form, of a decent habit, and of good manners, as it is by some interpreted; but that they were persons of figure and distinction, of good families.",
+            "Raised the mob, and set them upon them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The accounts in Acts reveal the powerful influence that women had both for and against Christianity. In the case of Acts 13:50, the devout and honorable women who were proselytes of distinction became jaundiced against the new preachers due to the influence of Jewish ecclesiastics. It is interesting to note that these women played a significant role in the opposition faced by Paul and Barnabas. The Jews, with their influence over people of prominence, successfully incited the Roman officials to view the apostles as disturbers of the public peace, leading to their forced departure from the region. The potency of female characters throughout the history of the Church is evident, as they could sway public opinion and fuel persecution or act as strong supporters of the truth.",
+            "wordCount": 126,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.891670313116663,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.24,
+            "commentatorTierSimilarities": [
+                33.4,
+                32.96,
+                33.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The presence of devout and honorable women, who were influential proselytes, played a pivotal role in the opposition faced by Paul and Barnabas. These women, influenced by Jewish ecclesiastics, became jaundiced against the new preachers. By leveraging their influence with people of prominence, the Jews successfully convinced the Roman officials that the apostles were disturbers of public peace. This led to the forced departure of Paul and Barnabas. Throughout history, women have held significant power, either supporting or opposing the truth, as seen in the accounts of the early Church.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.777636386705217,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.45,
+            "commentatorTierSimilarities": [
+                34.29,
+                33.05,
+                32.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The devout and honorable women, who were influential proselytes, played a significant role in the opposition that Paul and Barnabas faced. These women, influenced by Jewish ecclesiastics, turned against the new preachers. With their sway over people of prominence, the Jews managed to convince the Roman officials that the apostles were disturbers of public peace. Consequently, Paul and Barnabas were compelled to leave the region. Throughout the history of the Church, the potency of female characters, both for and against the truth, has been evident.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.8085595363998668,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                33.23,
+                34.62,
+                32.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The opposition faced by Paul and Barnabas was fueled by the influential proselytes, specifically the devout and honorable women who had been swayed against the new preachers by Jewish ecclesiastics. Utilizing their influence over people of prominence, the Jews successfully persuaded the Roman officials to view the apostles as disturbers of public peace. As a result, Paul and Barnabas were compelled to leave the region. This interaction exemplifies the significant role that women had, throughout the history of the Church, in either supporting or opposing the truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.8075127958473982,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.44,
+            "commentatorTierSimilarities": [
+                32.77,
+                35.35,
+                31.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The opposition faced by Paul and Barnabas in Acts 13:50 highlights the powerful influence of women, who were devout and honorable proselytes, being swayed against the new preachers by Jewish ecclesiastics. Leveraging their influence with people of prominence, the Jewish leaders successfully convinced the Roman officials of the apostles' disturbance of public peace. This compelled Paul and Barnabas to leave the region. Throughout the history of the Church, the impact of women on promoting or opposing the truth has remained evident.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.784937110335179,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                32.81,
+                35.72,
+                31.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

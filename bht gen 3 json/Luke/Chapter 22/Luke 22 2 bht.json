@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:22:38",
+    "verseRef": "Luke 22:2",
+    "bestBHT": {
+        "bht": "The religious leaders, contemporaneously with the approach of the feast, were seeking how they might put Him to death. Their plan had been determined beforehand, likely with the advice of Caiaphas, and they were afraid to go on with their plan to kill Him at the feast, fearing the potential uprising of Jesus' followers and the people's intervention. They were cautious in their execution, knowing that if they seized Him publicly, they would be met with resistance and possibly have their designs thwarted.",
+        "wordCount": 84,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.5282407305757009,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.16,
+        "commentatorTierSimilarities": [
+            39.86,
+            0.0,
+            60.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Sought. Imperfect, were seeking, contemporaneously with the approach of the feast. ",
+            "Kill [\u03b1\u03bd\u03b5\u03bb\u03c9\u03c3\u03b9\u03bd] . Lit., to take up and carry off, and so to make way with."
+        ],
+        "Archibald T. Robertson": [
+            "Sought...how they might put him to death\" - Luke 22:2. ",
+            "Note the accusative neuter singular article \u03c4\u03bf with the whole clause, 'as to the how, etc.'\" - Luke 22:2.",
+            "They were afraid to go on with their plan to kill him at the feast\" - Luke 22:2."
+        ],
+        "John Gill": [
+            "They had determined before, upon the advice of Caiaphas, to put him to death, and very likely had fixed what kind of death he should die.",
+            "They might conclude that he would have a large number of his friends come out of Galilee, where he had been for the most part teaching, and working miracles.",
+            "They were afraid, should they lay hold of him publicly, the people would rise and stone them; at least would rescue him out of their hands, and disappoint them of their designs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders, contemporaneously with the approach of the feast, were seeking how they might put Him to death. Their plan had been determined beforehand, likely with the advice of Caiaphas, but they were cautious in their execution. They feared the potential uprising of Jesus' followers and the people's intervention, knowing that if they seized Him publicly, they would be met with resistance. Ultimately, they were afraid of their designs being thwarted.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.3012973527181213,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.61,
+            "commentatorTierSimilarities": [
+                39.12,
+                0.0,
+                60.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders, contemporaneously with the approach of the feast, were seeking how they might put Him to death. Their plan had been determined beforehand, likely with the advice of Caiaphas, and they were afraid to go on with their plan to kill Him at the feast, fearing the potential uprising of Jesus' followers and the people's intervention. They were cautious in their execution, knowing that if they seized Him publicly, they would be met with resistance and possibly have their designs thwarted.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5282407305757009,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.16,
+            "commentatorTierSimilarities": [
+                39.86,
+                0.0,
+                60.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders sought how they might put Him to death, carrying off their sinister intentions with caution. They had already determined, likely with Caiaphas' counsel, the kind of death He should face, but were concerned about the public repercussions. Fearing an uprising or rescue mission from Jesus' followers, they hesitated to arrest Him openly, apprehensive that their plans might be thwarted. Their careful approach reflected their awareness of the potential consequences and the need to navigate the situation delicately.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.1447396153497877,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.41,
+            "commentatorTierSimilarities": [
+                35.15,
+                0.0,
+                64.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Contemporaneously with the approaching feast, the religious leaders sought how they might put Jesus to death, cautiously carrying off their wicked intentions. They had already determined, likely with Caiaphas' advice, the manner of His execution, but were hesitant due to the fear of a public backlash. Recognizing the possibility of Jesus' followers rising up or rescuing Him, they refrained from openly arresting Him, concerned that their scheme could be undermined. Their cautious approach underscored their awareness of the potential consequences and the need for careful navigation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.1215068657553384,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.63,
+            "commentatorTierSimilarities": [
+                38.94,
+                0.0,
+                61.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders were actively seeking to put Jesus to death as the feast approached, making calculated plans to carry out their sinister intentions. They had already determined, likely with the guidance of Caiaphas, the method by which Jesus should die. However, they were cautious in their actions, fearing a public uprising or Jesus' followers rescuing Him from their grasp. Their careful approach reflected their awareness of potential consequences and the need to navigate the situation with discretion to prevent their plans from being thwarted.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.1822834784981868,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.65,
+            "commentatorTierSimilarities": [
+                38.51,
+                0.0,
+                61.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

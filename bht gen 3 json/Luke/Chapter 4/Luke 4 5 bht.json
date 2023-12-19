@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:15:03",
+    "verseRef": "Luke 4:5",
+    "bestBHT": {
+        "bht": "The order of the temptations should be followed as presented in Matthew, with the mountain temptation being last. While Luke's account lacks a clear sequence, some believe the inversion was made for probability. The phrase in a moment of time is unique to Luke and signifies a mental feat of imagination, with the devil presenting a swift mental movie of all the kingdoms and their glory. It was a deceptive display meant to impress, but Jesus, as the creator and ruler, had no need for the devil's representation of the world's kingdoms.",
+        "wordCount": 95,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.6022494067720088,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+        "commentatorTierSimilarities": [
+            30.47,
+            28.73,
+            40.8
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There can be little doubt that the order in Matthew, in which this temptation is placed last, is to be adhered to in our expositions of the Temptation.",
+            "No definite notes of succession are given in our text, but they are by Matthew: see notes there.",
+            "Some suppose that the inversion has been made as suiting better the requirements of probability: it seeming; more natural that our Lord should be first taken to the mountain and then to Jerusalem, than the converse."
+        ],
+        "Marvin Vincent": [
+            "In a moment of time [\u03b5\u03bd \u03c3\u03c4\u03b9\u03b3\u03bc\u03b7 \u03c7\u03c1\u03bf\u03bd\u03bf\u03c5]. Peculiar to Luke. Stigmh is literally a mark made by a pointed instrument, a dot: hence a point of time.\" ",
+            "Stigmh is literally a mark made by a pointed instrument, a dot: hence a point of time.",
+            "Only here in New Testament. Comapre stigmata, brand - marks, Galatians 6:17."
+        ],
+        "Philip Schaff": [
+            "No definite mark of time, hence we think this temptation was the third (as in Matthew).",
+            "The words: 'into' a high mountain, are to be omitted.",
+            "A supernatural extension of vision is possibly implied."
+        ],
+        "Archibald T. Robertson": [
+            "This panorama of all the kingdoms of the world and the glory of them in a moment of time was mental, a great feat of the imagination (a mental satanic \"movie\" performance).",
+            "In a moment of time (\u03b5\u03bd \u03c3\u03c4\u03b9\u03b3\u03bc\u03b7 \u03c7\u03c1\u03bf\u03bd\u03bf\u03c5). Only in Luke and the word \u03c3\u03c4\u03b9\u03b3\u03bc\u03b7 nowhere else in the N.T. (from \u03c3\u03c4\u03b9\u03b6\u03c9, to prick, or puncture), a point or dot. Like our 'second' of time or tick of the clock.",
+            "This second temptation in Luke is the third in Matthew's order. Luke's order is geographical (wilderness, mountain, Jerusalem). Matthew's is climacteric (hunger, nervous dread, ambition). There is a climax in Luke's order also (sense, man, God). There is no way to tell the actual order."
+        ],
+        "John Gill": [
+            "The devil having taken him from the pinnacle of the temple, and carried him to some high mountain, as Lebanon, or Pisgah, or some other near Jerusalem, showed unto him all the kingdoms of the world not of the Roman empire only, though that consisted of many kingdoms, and is called the whole world, Luke 2:1 where the same word is used, as here; but of the whole universe, every kingdom that was under the heavens.",
+            "He represented to Christ, not in a map, since the glory of them could not be described in that way: for he showed him all the glory of them, as Matthew adds; and for this a mountain was no more a proper place than any other.",
+            "This was a mere phantasm, a deception of sight, with which he endeavoured to impose on Christ, but could not; nor did Christ, who is the maker of the world, and the governor among the nations, need any representation of the kingdoms of the world from him, Luke 2:1-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The order of the temptations in Matthew, where the mountain temptation is last, should be adhered to when interpreting Luke 4:5. However, Luke's account does not provide a clear sequence of events. Some suggest that the inversion was made for the sake of plausibility. The phrase in a moment of time is unique to Luke and implies a mental feat of the imagination, as if the devil presented a rapid mental movie of all the kingdoms of the world and their glory. This temptation challenged Jesus with an impressive display, but it was a mere deception that did not deceive Him. Jesus, as the creator and ruler of all, did not need the devil's representation of the world's kingdoms.",
+            "wordCount": 121,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.4409469427573236,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.25,
+            "commentatorTierSimilarities": [
+                29.74,
+                27.24,
+                43.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The order of the temptations should be followed as presented in Matthew's account, placing the mountain temptation as the last one. Luke's narrative does not provide a specific succession of events, but it is suggested that the inversion was made for the sake of probability. The phrase in a moment of time is unique to Luke and refers to a mental feat of imagination, where the devil presented a swift mental movie of all the kingdoms and their glory. This display was a deception that aimed to impress Jesus, but as the creator and ruler of all, He did not require the devil's presentation.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.5463780697072385,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                31.62,
+                26.34,
+                42.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The order of the temptations and the placement of the mountain temptation as the last one, as seen in Matthew's account, should be followed in our interpretation. Although Luke's text does not provide a clear sequence, it is believed that the inversion was made for the sake of probability. The phrase in a moment of time is unique to Luke and refers to a mental feat of imagination, where the devil presented a rapid mental movie of all the kingdoms and their glory. This deceptive display aimed to impress Jesus, but as the creator and ruler, He did not require the devil's representation of the world's kingdoms.",
+            "wordCount": 111,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.5968482789948881,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.44,
+            "commentatorTierSimilarities": [
+                31.58,
+                25.42,
+                43.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The order of the temptations should be followed as presented in Matthew, with the mountain temptation being last. While Luke's account lacks a clear sequence, some believe the inversion was made for probability. The phrase in a moment of time is unique to Luke and signifies a mental feat of imagination, with the devil presenting a swift mental movie of all the kingdoms and their glory. It was a deceptive display meant to impress, but Jesus, as the creator and ruler, had no need for the devil's representation of the world's kingdoms.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6022494067720088,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+            "commentatorTierSimilarities": [
+                30.47,
+                28.73,
+                40.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The order of the temptations, specifically placing the mountain temptation last, should follow Matthew's account for interpretation. Though Luke's text lacks a clear succession, many argue for the inversion based on probability. The phrase in a moment of time, exclusive to Luke, denotes a mental feat where the devil presented a rapid mental movie of all the kingdoms and their glory. This deceptive display sought to impress Jesus, yet as the creator and ruler, He did not require the devil's representation of the world's kingdoms.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.5592390037855088,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.19,
+            "commentatorTierSimilarities": [
+                31.69,
+                27.05,
+                41.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

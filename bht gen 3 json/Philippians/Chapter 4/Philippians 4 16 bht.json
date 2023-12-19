@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 13:55:53",
+    "verseRef": "Philippians 4:16",
+    "bestBHT": {
+        "bht": "Even in Thessalonica, before Paul even reached Corinth, the Philippians showed their unwavering support by sending supplies for his needs not just once, but even twice. It is clear that Paul's stay in Thessalonica was not without challenges, as he faced opposition and persecution. The congregation in Philippi, knowing the urgency of the situation, swiftly gathered resources to provide for Paul's immediate needs and continued to send supplies as they were collected. This generous support allowed Paul to focus on his mission and serve the Thessalonians, even working with his own hands to set an example for them.",
+        "wordCount": 100,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.6371037892829157,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.78,
+        "commentatorTierSimilarities": [
+            23.25,
+            41.59,
+            35.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye were the only ones, &c.,\u2014and ye began as early as when I was at Thessalonica.",
+            "The account of the expression being, that when the first arrived, they had sent once: when the second, not only once, but twice.",
+            "Ye sent both once and twice to my necessity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. even in Thessalonica\u2014\"even",
+            "\tas early as when I had got no further than Thessalonica, ye sent me",
+            "\tsupplies for my necessities more than once."
+        ],
+        "Albert Barnes": [
+            "Paul remained there long enough to establish a flourishing church.",
+            "He met, indeed, with much opposition and persecution there.",
+            "Hence, it was necessary that his wants should be supplied by others."
+        ],
+        "Marvin Vincent": [
+            "Even in Thessalonica [\u03ba\u03b1\u03b9] . Better also : in addition to the contribution received at Corinth."
+        ],
+        "Philip Schaff": [
+            "For even in Thessalonica ye sent once and again unto my need.",
+            "The hurried departure of the apostle from Philippi gave little time for arranging a provision for his further support and journeying.",
+            "We can therefore picture the congregation in Philippi gathering together what they could at once, and then sending, as they were collected, further supplies for the apostle\u2019s needs."
+        ],
+        "Archibald T. Robertson": [
+            "Both once and twice\" they did it \"even in Thessalonica\" and so before Paul went to Corinth.",
+            "\u03ba\u03b1 \u03b1\u03c0\u03b1\u03be \u03ba\u03b1 \u03b4\u03b9\u03c2\" - The same Greek idiom is seen in 1 Thessalonians 2:18.",
+            "See the same Greek idiom in 1 Thessalonians 2:18."
+        ],
+        "John Gill": [
+            "Ye sent once and again unto my necessity.",
+            "For his use and service, to support him while he was at that place, and relieve and assist him in his necessities.",
+            "And they seem many of them to have been idle and lazy, and therefore he wrought among them with his own hands to set them an example."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even in Thessalonica, before Paul even reached Corinth, the Philippians showed their unwavering support by sending supplies for his needs not just once, but even twice. It is clear that Paul's stay in Thessalonica was not without challenges, as he faced opposition and persecution. The congregation in Philippi, knowing the urgency of the situation, swiftly gathered resources to provide for Paul's immediate needs and continued to send supplies as they were collected. This generous support allowed Paul to focus on his mission and serve the Thessalonians, even working with his own hands to set an example for them.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6371037892829157,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.78,
+            "commentatorTierSimilarities": [
+                23.25,
+                41.59,
+                35.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even in Thessalonica, the Philippians showed their unwavering support, sending supplies for Paul's needs not just once, but twice. It is clear that Paul faced opposition and persecution there, making it necessary for others to provide for his wants. The congregation in Philippi quickly gathered resources to meet his immediate needs and continued to send provisions as they were collected. This generous support allowed Paul to focus on his mission, even working with his own hands to set an example for the Thessalonians.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6182889668276337,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.15,
+            "commentatorTierSimilarities": [
+                17.1,
+                46.03,
+                36.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even in Thessalonica, the Philippians demonstrated their support by sending supplies for my needs, not only once, but twice. It is evident that Paul faced opposition and persecution, making it crucial for others to meet his requirements. The congregation in Philippi promptly gathered resources to address his immediate needs and continued to provide assistance. This generous support enabled Paul to focus on his mission, setting an example by working with his own hands.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.543847091485158,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.68,
+            "commentatorTierSimilarities": [
+                17.21,
+                42.8,
+                39.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even in Thessalonica, before Paul reached Corinth, the Philippians demonstrated unwavering support by sending supplies for his needs, twice. Knowing the urgency of the situation, they swiftly gathered resources and continued to send provisions. This generous support allowed Paul to focus on his mission, serving the Thessalonians amidst opposition and persecution. He set an example by working with his own hands and relied on their assistance to meet his necessities.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.5184486286056973,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.83,
+            "commentatorTierSimilarities": [
+                14.31,
+                37.66,
+                48.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even in Thessalonica, the Philippians provided unwavering support by sending supplies for Paul's needs, not just once, but twice. This generous act allowed Paul to focus on his mission, even in the face of opposition and persecution. The congregation in Philippi swiftly gathered resources to address his immediate needs and continued to send provisions. Paul's example of working with his own hands served to inspire them, while they played a vital role in assisting him during his stay in Thessalonica.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.5858272198687606,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+            "commentatorTierSimilarities": [
+                20.39,
+                42.68,
+                36.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

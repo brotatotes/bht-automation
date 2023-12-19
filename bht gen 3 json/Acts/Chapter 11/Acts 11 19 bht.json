@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:30:01",
+    "verseRef": "Acts 11:19",
+    "bestBHT": {
+        "bht": "The disciples, scattered by the tribulation surrounding Stephen, went everywhere preaching the word. This dispersion led to the spread of the gospel in Phoenicia, Cyprus, and Antioch. Antioch, a significant city in early Christianity, rivaled Jerusalem in importance. What initially seemed like a calamity for the Church turned into an opportunity for the message of Christianity to reach new regions. Through the flight and scattering of the disciples, the Lord brought about the growth of the Church, even amidst persecution.",
+        "wordCount": 80,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.811118790226692,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+        "commentatorTierSimilarities": [
+            33.25,
+            31.15,
+            35.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Phenic\u00e9] properly, the strip of coast, about 120 miles long, extending from the river Eleutherus (near Aradus), to a little south of Tyre, and belonging at this time to the province of Syria.",
+            "Cyprus] Cyprus was intimately connected by commerce with Ph\u0153nice, and contained many Jews.",
+            "Antioch] A city in the history of Christianity only second in importance to Jerusalem."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "they which were scattered abroad... went everywhere preaching the word.\" ",
+            "An active commercial intercourse subsisted between Phenice and Cyprus.",
+            "It was almost an Oriental Rome, in which all the forms of the civilized life of the empire found some representative."
+        ],
+        "Albert Barnes": [
+            "From this point the history records the efforts made to convert the Gentiles.",
+            "This city was honored as a Roman colony, a metropolis, and an asylum.",
+            "They had the common prejudices of the Jews, that the offers of salvation were to be made only to Jews."
+        ],
+        "Marvin Vincent": [
+            "They which were scattered abroad [\u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c0\u03b1\u03c1\u03b5\u03bd\u03c4\u03b5\u03c2] . On the technical expression, the dispersion, see on 1 Peter 1:1. Not so used here."
+        ],
+        "John Calvin": [
+            "For it came to pass through their flight and scattering abroad, that the gospel was spread abroad in nations which were far off, which was included before within the walls of one city, as in a barn.",
+            "But the Lord brought to pass, that of many torn members did arise more bodies. For how came it to pass that there were Churches gathered at Rome and at Puteoli, save only because a few exiled men, and such as fled away, had brought the gospel thither with them?",
+            "Even at this day he will make to himself triumphs of the cross and persecution, that the Church may better grow together, though it be scattered abroad."
+        ],
+        "Philip Schaff": [
+            "The most obvious remark here is, that that which appeared an irreparable calamity to the Church, became the direct means of diffusing Christianity in new regions.",
+            "It is more important to note that the two occurrences were independent of one another, while they both converged to one great result.",
+            "The mere fact that St. Luke throws in this clause, shows his deep sense, and calls his readers to a deep sense, of the importance of what is coming."
+        ],
+        "Archibald T. Robertson": [
+            "They therefore that were scattered abroad...upon the tribulation that arose about Stephen...",
+            "Clearly these disciples did not know anything about the events in Caesarea and at first their flight preceded that time. But it was a wonderful episode, the eager and loyal preaching of the fleeing disciples.",
+            "Antioch ranked next to Rome and Alexandria in size, wealth, power, and vice. It was destined to supplant Jerusalem as the centre of Christian activity."
+        ],
+        "John Gill": [
+            "It was a maritime country, reaching from Orthosia (now called Tortosa) to Pelusium, or from Sidon to the borders of Egypt: it is the same with Old Canaan, and was so called, and had its name from Canaan.",
+            "Here many Jews dwelt, to whom the ministers of the word preached the Gospel only at first.",
+            "So little was the commission of Christ, to preach the Gospel to all nations, understood, though it was so plain; or so it was ordered in providence, that as it was to be first preached to them, so it should be only for a while, till the elect of God of that generation were brought in, and until the rest put it away from them, and so were left without excuse."
+        ],
+        "John Wesley": [
+            "They who had been dispersed.\" ",
+            "St. Luke here resumes the thread of his narration.\" ",
+            "As far as Phenicia to the north, Cyprus to the west, and Antioch to the east."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of how the disciples, scattered due to the tribulation that arose about Stephen, went everywhere preaching the word. This dispersion led to the spreading of the gospel in various regions, including Phoenicia, Cyprus, and Antioch. Antioch, being a city of great importance and influence, was destined to become a significant center of Christian activity, even surpassing Jerusalem. It is remarkable to see how what seemed like an irreparable calamity for the Church turned out to be a means by which Christianity was diffused among the Gentiles. Through the flight and scattering of the disciples, the Lord brought about triumphs of the cross and persecution, enabling the Church to grow and bear fruit, even in the midst of adversity.",
+            "wordCount": 121,
+            "quoteTokenProportion": 36.14,
+            "qualityScore": 1.8343318281248484,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                32.73,
+                32.49,
+                34.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, scattered amid the tribulation surrounding Stephen, went on to preach the word far and wide. This dispersion resulted in the spreading of the gospel throughout Phoenicia, Cyprus, and Antioch. Antioch, a city comparable in size and significance to Rome and Alexandria, would eventually become a prominent hub of Christian activity, surpassing even Jerusalem. Remarkably, what appeared to be a devastating setback for the Church turned out to be a divine strategy to bring about triumphs of the cross and the growth of the Church.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.7775170196891419,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.44,
+            "commentatorTierSimilarities": [
+                35.76,
+                30.55,
+                33.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, scattered by the tribulation surrounding Stephen, went everywhere preaching the word. This dispersion led to the spread of the gospel in Phoenicia, Cyprus, and Antioch. Antioch, a significant city in early Christianity, rivaled Jerusalem in importance. What initially seemed like a calamity for the Church turned into an opportunity for the message of Christianity to reach new regions. Through the flight and scattering of the disciples, the Lord brought about the growth of the Church, even amidst persecution.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.811118790226692,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+            "commentatorTierSimilarities": [
+                33.25,
+                31.15,
+                35.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, scattered due to the tribulation surrounding Stephen, went everywhere preaching the word. Their dispersion led to the spread of the gospel in Phoenicia, Cyprus, and Antioch. Antioch, a city of great importance and influence, became a significant center of Christian activity, surpassing Jerusalem. What initially appeared as a calamity for the Church became an opportunity for the message of Christianity to reach new regions. Through the flight and scattering of the disciples, the Lord brought about the growth of the Church, even amidst persecution",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.7901980651560208,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                33.17,
+                31.85,
+                34.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The scattered disciples, following the tribulation concerning Stephen, traveled far and wide to preach the word. Their dispersion resulted in the spread of the gospel in Phoenicia, Cyprus, and Antioch. Antioch, a city of immense significance, rivaled Jerusalem in its prominence in the early Christian movement. Though this scattering seemed like a calamity, it played a crucial role in the growth and expansion of the Church. Triumphs of the cross and the perseverance of the scattered disciples enabled the Church to flourish even amidst persecution.",
+            "wordCount": 85,
+            "quoteTokenProportion": 23.21,
+            "qualityScore": 1.7593424469586152,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.84,
+            "commentatorTierSimilarities": [
+                34.94,
+                30.42,
+                34.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

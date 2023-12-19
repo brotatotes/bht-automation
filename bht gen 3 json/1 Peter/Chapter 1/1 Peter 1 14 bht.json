@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:38:47",
+    "verseRef": "1 Peter 1:14",
+    "bestBHT": {
+        "bht": "As children of obedience, we are called to be holy, reflecting the nature of our Heavenly Father. This requires us to conform to the unchanging truth of God's Word, rather than conforming to the ever-changing fashions of the world. Our obedience distinguishes us as children of God, setting us apart from our former selves and those who continue in disobedience. By denying ungodliness and worldly lusts, we grow in knowledge and understanding of God, allowing His image to shine forth in our lives as we reflect His holiness.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 2.1268243725751983,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+        "commentatorTierSimilarities": [
+            35.35,
+            27.12,
+            37.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Children of disobedience are...those who belong to disobedience as a child to its mother, to whom disobedience is become a nature, a ruling disposition.",
+            "The depths of the sacred tongue were given us to descend into, not to bridge over.",
+            "After the pattern of that Holy One who called you, be ye yourselves also holy in all behavior."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Obedient children\u2014Greek, 'children of obedience': children to whom obedience is their characteristic and ruling nature, as a child is of the same nature as the mother and father.\" ",
+            "Having the obedience of faith and so of practice.",
+            "The 'form,' or conformation in the New Testament, is something deeper and more perfect and essential."
+        ],
+        "Albert Barnes": [
+            "Conduct yourselves as becomes the children of God, by obeying his commands; by submitting to His will; and by manifesting unwavering confidence in him as your Father at all times.",
+            "The Christian is to be as different from what he was himself before conversion as he is from his fellow-men.",
+            "Now they are to be governed by a different rule, and their own former standard of morals and of opinions is no longer their guide, but the will of God."
+        ],
+        "Marvin Vincent": [
+            "The Christian is represented as related to the motive principle of his life as a child to a parent.",
+            "As schma is the outward, changeable fashion, as contrasted with what is intrinsic, the word really carries a warning against conformity to something changeful, and therefore illusory.",
+            "the word really carries a warning against conformity to something changeful, and therefore illusory."
+        ],
+        "John Calvin": [
+            "For though obedience does not make us children, as the gift of adoption is gratuitous, yet it distinguishes children from aliens.",
+            "The sum of the whole law, and of all that God requires of us, is this, that his image should shine forth in us, so that we should not be degenerate children.",
+            "We hence learn that unbelief is the fountain of all evils. For he does not use the word ignorance, as we commonly do... Where the knowledge of God is not, there darkness, error, vanity, destitution of light and life, prevail."
+        ],
+        "Philip Schaff": [
+            "Hope is a sanctifying principle, promoting holiness, while it is itself also brightened and strengthened by it.",
+            "The term refers to the externals of an object, all that wherein an object appears, rather than to what is intrinsic. It carries with it, therefore, the idea of the changeable and illusory.",
+            "Ignorance is represented as the stage of their career when passion was their life, or rather as the element in which the passion was bred which gave the stamp to their life."
+        ],
+        "Archibald T. Robertson": [
+            "Children marked by obedience."
+        ],
+        "John Gill": [
+            "They ought to continue hoping for it; or with what follows, that since they were manifestly the children of God by faith in Christ Jesus, being begotten again to a lively hope, they ought to be followers of him, and imitate him in holiness and righteousness.\" ",
+            "To be conformed, or fashioned to the world, is to be fashioned to the lusts of it; and to be fashioned to the lusts of it is to indulge them, to make provision for them, to obey them, to live and walk in them; which should not be done by the children of God.",
+            "They were made light in the Lord, and had knowledge of all these things; and therefore, as their light increased, and the grace of God, bringing salvation, appeared unto them, and shone out on then, it became them to deny ungodliness and worldly lusts, and not to walk as they had done before, since they had not so learned Christ."
+        ],
+        "John Wesley": [
+            "Your desires \u2014 Which ye had while ye were ignorant of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As children of obedience, we are called to be holy in all aspects of our behavior, mirroring the character of our Heavenly Father. This holiness stems from our obedience to the will of God, which is our guiding principle. We are not to conform to the fickleness and superficiality of the world, but rather be transformed by the unchanging truth of God's Word. Our obedience distinguishes us as the children of God, marking us as different from our former selves and from those still living in disobedience. By denying ungodliness and worldly lusts, we grow in knowledge and understanding of God, shining forth His image in our lives.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.0901117756553846,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.84,
+            "commentatorTierSimilarities": [
+                34.49,
+                27.96,
+                37.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As children marked by obedience, we must strive to be holy in our conduct, reflecting the nature of our Heavenly Father. This requires us to conform to the unchanging truth of God's Word, rather than conforming to the ever-changing fashions of the world. Our obedience distinguishes us as children of God, setting us apart from our former selves and those who continue in disobedience. By denying ungodliness and worldly lusts, we grow in knowledge and understanding of God, allowing His image to shine forth in our lives.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.1066146712232436,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.39,
+            "commentatorTierSimilarities": [
+                35.41,
+                26.84,
+                37.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As children of obedience, we are called to be holy, reflecting the nature of our Heavenly Father. This requires us to conform to the unchanging truth of God's Word, rather than conforming to the ever-changing fashions of the world. Our obedience distinguishes us as children of God, setting us apart from our former selves and those who continue in disobedience. By denying ungodliness and worldly lusts, we grow in knowledge and understanding of God, allowing His image to shine forth in our lives as we reflect His holiness.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.1268243725751983,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+            "commentatorTierSimilarities": [
+                35.35,
+                27.12,
+                37.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As children of obedience, we are called to live in holiness, following the example of our Heavenly Father. This entails conforming to the unchanging truth of God's Word rather than the fleeting trends of the world. Our obedience distinguishes us as children of God, setting us apart from our former selves and those who persist in disobedience. By rejecting ungodliness and worldly desires, we grow in our knowledge of God and His ways, allowing His image to be reflected in our lives.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.079046203655631,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.47,
+            "commentatorTierSimilarities": [
+                34.49,
+                27.66,
+                37.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As children marked by obedience, we are called to holiness in all aspects of our behavior, resembling our Heavenly Father. This holiness derives from our obedience to God's will, serving as our guiding principle. We should not conform to the transitory and deceptive nature of worldly desires but stay grounded in the unchanging truth. Our obedience distinguishes us as God's children, setting us apart from our old selves and those who persist in disobedience. By forsaking ungodliness and worldly lusts, we grow in knowledge and reflect God's image in our lives.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.091734980674647,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+            "commentatorTierSimilarities": [
+                37.01,
+                27.08,
+                35.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

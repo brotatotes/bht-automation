@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:30:18",
+    "verseRef": "Acts 13:8",
+    "bestBHT": {
+        "bht": "The sorcerer Elymas, also known as the wise or the Magus, stood against Saul and Barnabas, refusing to lose his esteemed position as he twisted and perverted the truth. He feared that their powerful teachings would expose his deception and put an end to his influence over the proconsul. Elymas's persistent opposition serves as a striking example of how the love of power and popularity can drive individuals to vehemently oppose the transformative message of the gospel.",
+        "wordCount": 78,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.793038410891116,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.96,
+        "commentatorTierSimilarities": [
+            21.32,
+            43.4,
+            35.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8. Elymas] See above on ver. 6."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But Elymas\u2014or 'the wise.' for so is his name by interpretation\u2014the word is from the Arabic.",
+            "[Elymas] withstood them\u2014perceiving, probably, how eagerly the proconsul was drinking in the word, and fearing a dismissal.",
+            "(Compare :-)."
+        ],
+        "Albert Barnes": [
+            "Elymas is the interpretation, not of the name Bar-jesus, but of the word rendered 'the sorcerer.' It is an Arabic word, and means the same as Magus.",
+            "He was sensible that if the influence of Saul and Barnabas should be extended over the proconsul, that he would be seen to be an impostor, and his power be at an end.",
+            "The love of popularity and power, the desire of retaining some political influence, is often a strong reason why people oppose the gospel."
+        ],
+        "Marvin Vincent": [
+            "Elymas. An Arabic word, meaning the wise, and equivalent to Magus.\" ",
+            "Withstood. 'The position of soothsayer to a Roman proconsul, even though it could only last a year, was too distinguished and too lucrative to abandon without a struggle' (Farrar, 'Life and Work of Paul')."
+        ],
+        "John Calvin": [
+            "No marvel if the seducer seek to put away the light, whereby he saw his own darkness driven away.",
+            "We must wrestle with such lets; for as there be [not] always and everywhere magicians present, which procure us some business, Satan thrusteth in lets enough.",
+            "Finally, both the enticements of the world and the wicked affections of our flesh are as many charms, whereby Satan ceaseth not to overthrow the faith."
+        ],
+        "Philip Schaff": [
+            "Elymas is an Arabic word which means the 'wise,' the 'Magian,' or 'magician.'\" ",
+            "It was evidently self-interest which induced the vagrant Jew to depreciate the stranger missionaries in the eyes of the proconsul.",
+            "They, he saw, were in earnest; and he feared with reason, if his patron listened to them, his chances of further gain in Cyprus were gone."
+        ],
+        "Archibald T. Robertson": [
+            "He persisted in his opposition and was unwilling to lose his great prize.\" ",
+            "To turn or twist in two, to distort, to pervert.\" ",
+            "To stand against (face to face)."
+        ],
+        "John Gill": [
+            "Elymas\" is the interpretation of his name \"Bar-jesus\"; which as that signifies the son of salvation, or of healing[...]. This, or what is near to it, is embraced by a late learned man[...] the interpretation of which is, God's counsel, or the counsel of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sorcerer, Elymas, who is also known as the wise or the Magus, vehemently opposed Saul and Barnabas when they began spreading the gospel. He saw that the proconsul was captivated by their words and feared losing his own influence. Elymas refused to let go of his position and persistently distorted the truth, twisting it to suit his own self-interest. His actions demonstrate the lengths to which those motivated by power and popularity will go to oppose the message of the gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.744165670052286,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.34,
+            "commentatorTierSimilarities": [
+                22.2,
+                44.52,
+                33.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sorcerer Elymas, also known as the wise or the Magus, vehemently opposed Saul and Barnabas, fearing the loss of his political influence if the proconsul embraced their message. He twisted and distorted the truth in order to maintain control and prevent the spread of the gospel. Elymas's actions serve as a reminder that the pursuit of power and popularity can lead individuals to oppose the truth at any cost.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.7183649501370044,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                19.98,
+                42.52,
+                37.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sorcerer Elymas, also known as the wise or the Magus, stood against Saul and Barnabas, refusing to lose his esteemed position as he twisted and perverted the truth. He feared that their powerful teachings would expose his deception and put an end to his influence over the proconsul. Elymas's persistent opposition serves as a striking example of how the love of power and popularity can drive individuals to vehemently oppose the transformative message of the gospel.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.793038410891116,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.96,
+            "commentatorTierSimilarities": [
+                21.32,
+                43.4,
+                35.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sorcerer Elymas, or the wise as his name suggests, fiercely opposed Saul and Barnabas, unwilling to relinquish his influential position as the proconsul was captivated by their words. He persistently withstood them, using cunning measures to distort and pervert the truth. Elymas's desire to maintain his power and lucrative status led him to vigorously resist the message of the gospel. His actions highlight how the pursuit of popularity and self-interest can result in a vehement opposition to the transformative power of the Word.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.714867967325033,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+            "commentatorTierSimilarities": [
+                26.41,
+                42.78,
+                30.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sorcerer Elymas, whose name means the wise or the Magus, vehemently opposed Saul and Barnabas, unwilling to relinquish his position of influence with the proconsul. He distorted and perverted the truth, standing against them in a fierce struggle. Elymas's actions reveal the alluring power of self-interest, as he sought to maintain his lucrative and prestigious role. This serves as a cautionary reminder of how the pursuit of popularity and personal gain can lead one to vehemently oppose the transformative message of the gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.6631715579031898,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.64,
+            "commentatorTierSimilarities": [
+                23.45,
+                42.46,
+                34.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

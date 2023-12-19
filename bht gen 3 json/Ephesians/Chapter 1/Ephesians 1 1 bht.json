@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:29:17",
+    "verseRef": "Ephesians 1:1",
+    "bestBHT": {
+        "bht": "The book of Ephesians addresses the saints, referring to the members of Christ's visible church who fulfill the conditions of that membership. Their spiritual life is understood in terms of God's calling, sanctification, and their own faith. Paul's divine appointment as an apostle emphasizes the twofold aspect of salvation: God's grace sanctifies believers, while their faith lays hold of salvation. This epistle is not only for the ancient Christians of Ephesus but also for all who believe in Christ and are faithful to the cause of the Gospel.",
+        "wordCount": 92,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.3367283431764574,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.04,
+        "commentatorTierSimilarities": [
+            31.38,
+            38.84,
+            29.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The saints is used here in its widest sense, as designating the members of Christ\u2019s visible church, presumed to fulfil the conditions of that membership.",
+            "The saints and faithful denote their spiritual life from its two sides\u2014that of God who calls and sanctifies,\u2014that of themselves who believe.",
+            "By the specification, 'faithful in Christ Jesus,' 'saints' gets its only full and New Test. meaning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "called to the apostleship through that same 'will' which originated the Church",
+            "The sanctification by God is here put before man's faith.",
+            "The twofold aspect of salvation is thus presented, God's grace in the first instance sanctifying us, and our faith, by God's gift, laying hold of salvation."
+        ],
+        "Albert Barnes": [
+            "All who are 'faithful in Christ Jesus' may regard the Epistle as addressed by the Holy Spirit to them, and may feel that they are as much interested in the doctrines, promises, and duties set forth in this Epistle, as were the ancient Christians of Ephesus.",
+            "The Epistle contains great doctrines about the divine purposes and decrees in which they, as Christians, were particularly concerned; important 'mysteries'... of importance for them to understand, and which the apostle proceeds to communicate to them as such.",
+            "These doctrines may be addressed to the church with more prospect of securing a happy effect than to the world. In the church they will excite gratitude and produce the hope which results from assured promises and eternal purposes; in the minds of sinners they may arouse envy, and hatred, and opposition to God."
+        ],
+        "Marvin Vincent": [
+            "By the will of God. As frequently in the introductions of the epistles, to emphasize his divine appointment.\" ",
+            "The faithful. Not faithful in the sense of fidelity and perseverance, but believing.",
+            "It is to be included with the saints under the one article."
+        ],
+        "John Calvin": [
+            "He calls himself 'an apostle of Jesus Christ;' for all to whom has been given the ministry of reconciliation are his ambassadors.\" ",
+            "The word Apostle, indeed, carries something more; for it is not every minister of the gospel... that can be called an apostle.",
+            "No man, therefore, is a believer who is not also a saint; and, on the other hand, no man is a saint who is not a believer."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is named as the author and so he is.",
+            "By the will of God.",
+            "It is perfectly proper to call it the Epistle to the Ephesians if we understand the facts."
+        ],
+        "John Gill": [
+            "The persons residing there, to whom the epistle is written, are described by their character, as 'saints'; being separated by the grace of God the Father in eternal election; whose sins were expiated by the blood and sacrifice of Christ; and to whom he himself was made sanctification; and who were internally sanctified by the Spirit of God, and lived holy lives and conversations.",
+            "And to the faithful in Christ Jesus: who were in Christ, not only by electing grace, but were openly and manifestly in him, through converting grace; and abode in him as branches in the vine; continued constant, and persevered in faith and holiness; and were faithful to the cause and interest of Christ, and to his Gospel and ordinances; and were hearty and sincere in the profession of their faith in Christ, and love to him and his.",
+            "Or, as the Arabic version renders it, 'and to them that believe in Jesus Christ'; with all their hearts, to the saving of their souls; who look unto him, venture on him, rely upon him, and trust in him for life and salvation, and who shall certainly be saved; of such the church at Ephesus consisted, to whom this epistle was written."
+        ],
+        "John Wesley": [
+            "By the will of God \u2014 Not by any merit of my own.\" ",
+            "To the saints who are at Ephesus \u2014 And in all the adjacent places.",
+            "For this epistle is not directed to the Ephesians only, but likewise to all the other churches of Asia."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The book of Ephesians begins by addressing the saints, referring to the members of Christ's visible church who fulfill the conditions of that membership. The term saints signifies their spiritual life from both the perspective of God's calling and sanctification and their own faith. The designation of being faithful in Christ Jesus emphasizes their belief, and the phrase called to the apostleship highlights Paul's divine appointment to write this epistle. The goal is to present the twofold aspect of salvation, with God's grace sanctifying believers and their faith grasping hold of salvation. Ultimately, the epistle is not only for the ancient Christians of Ephesus but also for all who believe in Christ and are faithful to the cause and interest of the Gospel.",
+            "wordCount": 127,
+            "quoteTokenProportion": 29.49,
+            "qualityScore": 2.387668365412362,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.73,
+            "commentatorTierSimilarities": [
+                30.91,
+                39.83,
+                29.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The book of Ephesians begins by addressing the saints, designating them as the members of Christ's visible church who fulfill the conditions of that membership. Their spiritual life is seen from the perspectives of God's calling and sanctification, as well as their own faith. By emphasizing their belief and Paul's divine appointment, the epistle presents the twofold aspect of salvation: God's grace sanctifying believers and their faith grasping hold of salvation. This epistle is not only for the ancient Christians of Ephesus but also for all who believe and are faithful to the cause of the Gospel.",
+            "wordCount": 101,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3423068998178684,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.22,
+            "commentatorTierSimilarities": [
+                30.32,
+                40.99,
+                28.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The book of Ephesians begins by addressing the saints, the members of Christ's visible church who fulfill the conditions of that membership. Their spiritual life is seen from the perspectives of God's calling and sanctification, as well as their own faith. The specification of faithful in Christ Jesus emphasizes their belief, while Paul's divine appointment highlights the twofold aspect of salvation: God's grace sanctifies believers, and their faith lays hold of salvation. This epistle is not only for the ancient Christians of Ephesus but also for all who believe and are faithful to the cause of the Gospel.",
+            "wordCount": 102,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.3484600576029258,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.43,
+            "commentatorTierSimilarities": [
+                30.97,
+                40.27,
+                28.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The book of Ephesians begins by addressing the saints, the members of Christ's visible church who fulfill the conditions of that membership. Their spiritual life is seen from the perspectives of God's calling and sanctification, as well as their own faith. The specification of faithful in Christ Jesus emphasizes their belief, while Paul's divine appointment highlights the twofold aspect of salvation: God's grace sanctifies believers, and their faith lays hold of salvation. This epistle is not only for the ancient Christians of Ephesus, but also for all who believe and are faithful to the cause of the Gospel.",
+            "wordCount": 102,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.3484600576029258,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.43,
+            "commentatorTierSimilarities": [
+                30.97,
+                40.27,
+                28.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The book of Ephesians addresses the saints, referring to the members of Christ's visible church who fulfill the conditions of that membership. Their spiritual life is understood in terms of God's calling, sanctification, and their own faith. Paul's divine appointment as an apostle emphasizes the twofold aspect of salvation: God's grace sanctifies believers, while their faith lays hold of salvation. This epistle is not only for the ancient Christians of Ephesus but also for all who believe in Christ and are faithful to the cause of the Gospel.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3367283431764574,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.04,
+            "commentatorTierSimilarities": [
+                31.38,
+                38.84,
+                29.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

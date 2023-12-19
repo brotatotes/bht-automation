@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:16:18",
+    "verseRef": "Luke 7:34",
+    "bestBHT": {
+        "bht": "Jesus faced criticism for his association with sinners and for partaking in worldly activities. Despite being called a glutton and a winebibber, the wisdom of God is vindicated by those who truly understand His methods of calling sinners to repentance. Outward austerity does not necessarily equate to the highest perfection, as Jesus exemplified a divine sobriety while engaging in the customs of ordinary life. It is crucial to avoid mistaking Christ's actions for endorsement of sinful excess, as the truly wise recognize and approve of God's multifaceted approach to salvation.",
+        "wordCount": 92,
+        "quoteTokenProportion": 28.36,
+        "qualityScore": 1.2922620818700639,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.31,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "Those who think that the highest perfection consists in outward austerity of life...ought to attend to this passage.\" ",
+            "On this principle John would rank higher than the Son of God; but, on the contrary, we ought to maintain, that bodily exercise profiteth little, but godliness is profitable to all things.",
+            "Besides, while Christ accommodated himself to the usages of ordinary life, he maintained a sobriety truly divine, and did not encourage the excesses of others by his dissimulation or by his example."
+        ],
+        "John Gill": [
+            "The son of man is come eating and drinking....and carries it freely and courteously to all men.\" ",
+            "and ye say, behold a gluttonous man and a wine bibber; an epicurian, a drunkard, a mere sot, one that gives up himself to sensual pleasures.\" ",
+            "a friend of publicans and sinners; a good fellow, a boon companion, that sits with them, and encourages them in their revellings and drunkenness."
+        ],
+        "John Wesley": [
+            "But wisdom is justified by all her children.\" ",
+            "The children of wisdom are those who are truly wise unto salvation.\" ",
+            "The wisdom of God in all these dispensations, these various methods of calling sinners to repentance, is owned and heartily approved by all these."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks about how Jesus is perceived by others. Some may criticize Him for participating in worldly activities and associating with sinners, calling Him a glutton and a winebibber. However, the wisdom of God is ultimately justified by those who are truly wise unto salvation, as they acknowledge and approve of His various methods of calling sinners to repentance. It is important for us to understand that outward austerity does not necessarily equate to the highest perfection, as Christ's divine sobriety and accommodation to earthly customs should not be mistaken for encouragement of sinful excess.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.2379624359963308,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.51,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus faced criticism for his association with sinners and participation in worldly activities. Some accused him of being a glutton and a winebibber, but true wisdom lies in recognizing the methods he employed to call sinners to repentance. The perception that outward austerity is the epitome of perfection is challenged by Jesus' own example of divine sobriety and accommodation to earthly customs. It is important to differentiate between participating in the world and encouraging sinful excess, as the wisdom of God is ultimately justified by those who embrace salvation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.215322319413273,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.75,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus faced criticism for his association with sinners and for partaking in worldly activities. Despite being called a glutton and a winebibber, the wisdom of God is vindicated by those who truly understand His methods of calling sinners to repentance. Outward austerity does not necessarily equate to the highest perfection, as Jesus exemplified a divine sobriety while engaging in the customs of ordinary life. It is crucial to avoid mistaking Christ's actions for endorsement of sinful excess, as the truly wise recognize and approve of God's multifaceted approach to salvation.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.2922620818700639,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.31,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus faced criticism for his association with sinners and for participating in worldly activities. He was accused of being a glutton and a winebibber. However, the wisdom of God is justified by those who truly understand His methods of calling sinners to repentance. Outward austerity does not necessarily indicate the highest perfection, as Jesus exemplified divine sobriety while engaging in the customs of ordinary life. We should not mistake His actions for endorsing sinful excess. True wisdom recognizes and approves of God's various approaches to salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.046202414637556,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.13,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus faced criticism for his association with sinners and participation in worldly activities. Some accused Him of being a glutton and a winebibber, but the wisdom of God is ultimately justified by those who are truly wise unto salvation. Outward austerity does not equate to the highest perfection as Jesus showed divine sobriety while engaging in ordinary customs. It is important to distinguish between participating in the world and encouraging sinful excess. The wisdom of God is acknowledged and approved by those who embrace His various methods of calling sinners to repentance.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.2107449657451117,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.6,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

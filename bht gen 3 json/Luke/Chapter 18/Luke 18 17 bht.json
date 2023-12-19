@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:21:18",
+    "verseRef": "Luke 18:17",
+    "bestBHT": {
+        "bht": "Jesus uses the child as a model for those seeking entrance to the kingdom of God, highlighting the need for humility and a childlike mindset. He emphasizes that the child is not already in the kingdom, but rather depicts the qualities necessary to enter it. By understanding the child and opening the door to them, Jesus exemplifies the importance of innocence and purity in entering the kingdom. This lesson serves to teach his disciples about the significance of humility and to caution against pride and vanity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.128110714906644,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.1,
+        "commentatorTierSimilarities": [
+            55.87,
+            0.0,
+            44.13
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Jesus makes the child the model for those who seek entrance into the kingdom of God, not the adult the model for the child.",
+            "He does not say that the child is already in the kingdom without coming to him.",
+            "Jesus has made the child's world by understanding the child and opening the door for him."
+        ],
+        "John Gill": [
+            "Christ takes an occasion from hence to teach his disciples humility, and guard them against pride and vanity.",
+            "Whosoever shall not receive the kingdom of God...as a little child; without prejudice, pride, ambition, and vanity, with meekness, and humility.",
+            "A very unfit and improper person to be a professor of the Gospel; or to be admitted to Gospel ordinances: or be a member of a Gospel church; or be reckoned a subject of the Messiah's kingdom...shall never see it, and enjoy it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus teaches that in order to enter the kingdom of God, we must become like children - humble, meek, and without prejudice or vanity. He emphasizes that the child is the model for those seeking entrance, rather than the adult. By understanding the child and welcoming them, Jesus opens the door to a world of innocence and purity. This serves as a lesson to his disciples, urging them to cultivate humility and guard against pride and vanity, for only those who receive the kingdom with childlike qualities will truly enter into it.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.969642057243827,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                52.82,
+                0.0,
+                47.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus teaches that to enter the kingdom of God, we must emulate the qualities of a child - without prejudice, pride, ambition, and vanity, and with meekness and humility. By using the child as a model for those seeking entrance, Jesus emphasizes the importance of understanding and embracing their innocence and purity. This serves as a lesson in humility for his disciples, warning them against pride and vanity. Only those who receive the kingdom with childlike qualities can truly enter and enjoy its blessings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.7297051955502232,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                42.43,
+                0.0,
+                57.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus teaches that the key to entering the kingdom of God lies in emulating the child's qualities - humility, meekness, and an absence of prejudice or vanity. He emphasizes the importance of understanding and embracing the child, opening the door to a world of innocence and purity. His lesson serves as a reminder to his disciples to cultivate humility and guard against pride and vanity. Only those who receive the kingdom with the child's mindset can truly enter and experience its joys.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8087733525381386,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                46.62,
+                0.0,
+                53.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus uses the child as a model for those seeking entrance to the kingdom of God, highlighting the need for humility and a childlike mindset. He emphasizes that the child is not already in the kingdom, but rather depicts the qualities necessary to enter it. By understanding the child and opening the door to them, Jesus exemplifies the importance of innocence and purity in entering the kingdom. This lesson serves to teach his disciples about the significance of humility and to caution against pride and vanity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.128110714906644,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.1,
+            "commentatorTierSimilarities": [
+                55.87,
+                0.0,
+                44.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus teaches that in order to enter the kingdom of God, we must become like children - humble, meek, and without prejudice or vanity. He emphasizes that the child is the model for those seeking entrance, rather than the adult. By understanding the child and welcoming them, Jesus opens the door to a world of innocence and purity. This serves as a lesson to his disciples, urging them to cultivate humility and guard against pride and vanity, for only those who receive the kingdom with childlike qualities will truly enter.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.9675372011699706,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                52.81,
+                0.0,
+                47.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

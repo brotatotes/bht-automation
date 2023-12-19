@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:40:56",
+    "verseRef": "2 Peter 3:13",
+    "bestBHT": {
+        "bht": "According to His promise, we anticipate a future with new heavens and a new earth, where righteousness is the essence of all things. This upcoming reality will be a purified and fresh creation, untouched by the curse of sin. Only the righteous can look forward to this extraordinary future, as it is exclusively promised to them. The yearning for this new heavens and earth stems from the desire for a transformed existence, where righteousness finds its eternal abode.",
+        "wordCount": 78,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.2231997602626485,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.26,
+        "commentatorTierSimilarities": [
+            28.14,
+            40.28,
+            31.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But according to His promise we expect new heavens and a new earth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the flood was the baptism of the earth, eventuating in a renovated earth, partially delivered from 'the curse,' so the baptism with fire shall purify the earth so as to be the renovated abode of regenerated man, wholly freed from the curse.",
+            "The 'we' is not emphatical as in English Version.",
+            "Righteousness dwelleth in that coming world as its essential feature, all pollutions having been removed."
+        ],
+        "Albert Barnes": [
+            "If an inhabitant of the earth should dwell after death In any other of the worlds now existing, it would be to him a 'new' abode, and everything would appear new.",
+            "To the redeemed, it would be most interesting again to visit the spot where the great work of their redemption was accomplished; where the Son of God became incarnate and made atonement for sin; and where there would be so many interesting recollections and associations, even after the purification by fire, connected with the infancy of their existence, and their preparation for eternity.",
+            "The new heavens and earth will be 'holy.' They will be the home of righteousness forever."
+        ],
+        "Marvin Vincent": [
+            "We look for. The same verb as in ver. 12. It occurs three times in 12 - 14. ",
+            "New [\u03ba\u03b1\u03b9\u03bd\u03bf\u03c5\u03c2] . See on Matthew 26:29."
+        ],
+        "Philip Schaff": [
+            "But, according to his promise, we look for new heavens and a new earth.",
+            "The newness of the future heavens and earth is expressed by a term which denotes what is fresh as contrasted with what is exhausted, and deals with the condition rather than with the age of an object.",
+            "The \u2018righteousness\u2019 is to be understood in the broad, ethical sense of conformity with the Divine will; and this is to \u2018dwell\u2019 (cf. Ephesians 3:17), to have its home there, and not to be as on earth \u2018a wanderer and changeful guest\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "The reference is to Isaiah 65:17; Isaiah 66:22. See also Revelation 21:1.\" ",
+            "The new heavens and earth.\" ",
+            "Certainly 'righteousness' (\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03c5\u03bd\u03b7) is not at home in this present world either in individuals, families, or nations."
+        ],
+        "John Gill": [
+            "But these phrases are to be understood literally, as the heavens and the earth are in every passage in the context.\" ",
+            "New heavens and a new earth will appear, refined and purged from everything which the curse brought thereon for man's sin.\" ",
+            "None but righteous persons can look for these new heavens and earth, for to these only are they promised, and such only shall dwell in them."
+        ],
+        "John Wesley": [
+            "We look for new heavens and a new earth \u2014 Raised as it were out of the ashes of the old; we look for an entire new state of things.",
+            "Wherein dwelleth righteousness \u2014 Only righteous spirits.",
+            "How great a mystery!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "According to His promise, we expect new heavens and a new earth. This future world will be purified, free from the curse of sin, and righteousness will dwell in it as its essential feature. The term new signifies a condition of freshness and vitality, rather than just a change in age. This promise of a new creation is not a mere figurative expression, but a literal reality. Only those who are righteous can look forward to this new world, as it is a home reserved for them. What a great mystery and hope we have in the anticipation of this glorious future!",
+            "wordCount": 102,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.002108089204342,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                31.09,
+                38.36,
+                30.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "According to His promise, we expect new heavens and a new earth. This future world will be purified, free from the curse of sin, and righteousness will dwell in it as its essential feature. The term new signifies a condition of freshness and vitality, rather than just a change in age. Only those who are righteous can look forward to this new world, as it is a home reserved for them. What a great mystery and hope we have in the anticipation of this glorious future!",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.0471204714903477,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.41,
+            "commentatorTierSimilarities": [
+                30.7,
+                38.68,
+                30.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "According to His promise, we expect new heavens and a new earth, a purified world where righteousness dwells as its essential feature. This future reality will be a fresh and vibrant creation, free from the curse of sin. Only the righteous can anticipate this glorious future, as it is specifically promised to them. This longing for the new heavens and earth is rooted in the hope of a transformed existence and a deep desire for righteousness to find its true home.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.166959145973108,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+            "commentatorTierSimilarities": [
+                28.73,
+                39.52,
+                31.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "According to His promise, we expect new heavens and a new earth, a purified world where righteousness dwells as its essential feature. This future reality will be a fresh and vibrant creation, free from the curse of sin. Only the righteous can anticipate this glorious future, as it is specifically promised to them. This longing for the new heavens and earth is rooted in the hope of a transformed existence and a deep desire for righteousness to find its true home.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.166959145973108,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+            "commentatorTierSimilarities": [
+                28.73,
+                39.52,
+                31.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "According to His promise, we anticipate a future with new heavens and a new earth, where righteousness is the essence of all things. This upcoming reality will be a purified and fresh creation, untouched by the curse of sin. Only the righteous can look forward to this extraordinary future, as it is exclusively promised to them. The yearning for this new heavens and earth stems from the desire for a transformed existence, where righteousness finds its eternal abode.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.2231997602626485,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.26,
+            "commentatorTierSimilarities": [
+                28.14,
+                40.28,
+                31.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

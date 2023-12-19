@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 16:14:41",
+    "verseRef": "Luke 4:11",
+    "bestBHT": {
+        "bht": "The proper interpretation of the phrase in their hands as on their hands provides new insight into the devil's temptation of Jesus. This linguistic detail brings to light the nuanced manipulation employed by the devil and the unwavering response of Jesus. By recognizing this subtle distinction, we gain a deeper understanding of the profound encounter between Jesus and the devil, enhancing our appreciation for the strength and wisdom demonstrated by Jesus in the face of temptation.",
+        "wordCount": 77,
+        "quoteTokenProportion": 32.0,
+        "qualityScore": 0.8361487443883318,
+        "qualityScoreNormalizedComparedToV2BHTs": 19.15,
+        "commentatorTierSimilarities": [
+            61.06,
+            0.0,
+            38.94
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "In their hands [\u03b5\u03c0\u03b9 \u03c7\u03b5\u03b9\u03c1\u03c9\u03bd] . Rev., correctly, on. See on Matthew 4:6."
+        ],
+        "John Gill": [
+            ":-"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 4:11, when the devil tempts Jesus to throw Himself down from the pinnacle of the temple, the first-tier commentary points out that the phrase in their hands should actually be translated as on their hands. This highlights the importance of paying attention to the subtleties of language in biblical interpretation, as even a small change in preposition can significantly impact the meaning of a verse. By understanding this nuance, we gain a deeper understanding of the devil's attempt to deceive Jesus and the firmness of Jesus' response.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.0387287718292915,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.88,
+            "commentatorTierSimilarities": [
+                76.18,
+                0.0,
+                23.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the passage in question, it is noted that the correct translation is on their hands instead of in their hands. This small distinction is vital in understanding the subtle nuances and implications of the devil's temptation towards Jesus. By recognizing this linguistic detail, we can delve deeper into the significance of Jesus' firm response and gain a greater insight into the deceptive tactics employed by the devil. Attention to such linguistic subtleties enriches our understanding of this pivotal moment.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 0.7314795094773922,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.67,
+            "commentatorTierSimilarities": [
+                69.15,
+                0.0,
+                30.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The importance lies in recognizing that the phrase in their hands should actually be translated as on their hands. By understanding this linguistic detail, we gain a deeper understanding of the devil's attempt to deceive Jesus and the firmness of Jesus' response. This small but significant change in preposition shifts our comprehension of the devil's temptation, revealing the subtle manipulation at play. Paying heed to these linguistic subtleties enriches our understanding of the profound encounter between Jesus and the devil.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 0.7356007036053392,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.8,
+            "commentatorTierSimilarities": [
+                58.65,
+                0.0,
+                41.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The attentive reader will notice that the proper translation of the phrase in their hands is actually on their hands. This seemingly minor change illuminates a deeper understanding of the devil's temptation and Jesus' resolute response. By recognizing this linguistic nuance, we can appreciate the subtle manipulations employed by the devil and the unwavering resolve demonstrated by Jesus in the face of temptation. These small but significant details enhance our appreciation of the profound encounter captured in this verse.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 0.6513068477268734,
+            "qualityScoreNormalizedComparedToV2BHTs": 13.0,
+            "commentatorTierSimilarities": [
+                62.08,
+                0.0,
+                37.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The proper interpretation of the phrase in their hands as on their hands provides new insight into the devil's temptation of Jesus. This linguistic detail brings to light the nuanced manipulation employed by the devil and the unwavering response of Jesus. By recognizing this subtle distinction, we gain a deeper understanding of the profound encounter between Jesus and the devil, enhancing our appreciation for the strength and wisdom demonstrated by Jesus in the face of temptation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 0.8361487443883318,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.15,
+            "commentatorTierSimilarities": [
+                61.06,
+                0.0,
+                38.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

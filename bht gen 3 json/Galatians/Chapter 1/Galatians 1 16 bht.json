@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:14:10",
+    "verseRef": "Galatians 1:16",
+    "bestBHT": {
+        "bht": "The revelation of Jesus Christ to Paul was not merely an external event, but a profound inward experience of God's grace. This inner illumination empowered him to fulfill his calling as an apostle, preaching Christ to the Gentiles. Paul did not hesitate or seek human counsel, recognizing that his obedience to God's divine revelation was of utmost priority. The personal encounter with Christ transformed Paul's outlook and emboldened him to share the life-changing message of salvation with others.",
+        "wordCount": 82,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 2.1578510593451075,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.09,
+        "commentatorTierSimilarities": [
+            25.25,
+            37.64,
+            37.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the revelation shining through his soul",
+            "the context here requires that his own personal illumination should be the point brought out",
+            "with flesh and blood...used generally with the idea of weakness and frailty"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The revealing of His Son by me to the Gentiles was impossible, unless He had first revealed His Son in me.",
+            "The present in the Greek, which includes the idea 'that I may preach Him,' implying an office still continuing.",
+            "It denotes the sudden fitness of the apostle."
+        ],
+        "Albert Barnes": [
+            "The revelation here referred to was the miraculous manifestation which was made to Paul on his way to Damascus; compare 2 Corinthians 4:6. That revelation was in order to convince him that he was the Messiah; to acquaint him with his nature, rank, and claims; and to qualify him to be a preacher to the pagan.",
+            "He did not consult with anyone; he did not ask advice of anyone; he did not wait to be instructed by anyone. He was convinced by the vision in an overpowering manner that Jesus was the Messiah, and he yielded at once.",
+            "When the Lord Jesus calls us to follow him we should promptly and decidedly obey. We should not delay even to take counsel of earthly friends, or wait for human advice, or consult their wishes, but should at once resolve to follow the Lord Jesus."
+        ],
+        "Marvin Vincent": [
+            "In my spirit, according to the familiar N. T. idea of God revealing himself, living and working in man's inner personality.",
+            "As soon as God revealed his Son in me, I threw aside all human counsel.",
+            "Always in N. T. with a suggestion of human weakness or ignorance."
+        ],
+        "John Calvin": [
+            "Christ was revealed to Paul, not that he might alone enjoy, and silently retain in his own bosom the knowledge of Christ, but that he might preach among the Gentiles the Savior whom he had known.",
+            "To confer with flesh and blood, is to consult with flesh and blood. So far as the meaning of these words is concerned, his intention was absolutely to have nothing to do with any human counsels.",
+            "Relying on the authority of God alone, and asking nothing more, he proceeded to discharge the duty of preaching the gospel."
+        ],
+        "Philip Schaff": [
+            "Within me, in my inmost soul and consciousness. The external manifestation of the exalted Redeemer from heaven on the way to Damascus was accompanied by an inner illumination.",
+            "Immediately I conferred not with (or, made no communication to, held no counsel with) flesh and blood...When God calls we must obey at once without asking anybody\u2019s advice.",
+            "He usually addressed himself first to the Jews, but this was only the natural and divinely appointed bridge to the mission among the Gentiles. The converted Jews and proselytes of the gate who attended the synagogue worship formed the nucleus of his congregations."
+        ],
+        "Archibald T. Robertson": [
+            "By 'in me' (\u03b5\u03bd \u03b5\u03bc\u03bf) Paul can mean to lay emphasis on his inward experience of grace or he may refer objectively to the vision of Christ on the way to Damascus...\" ",
+            "Certainly Paul could not preach Christ among the Gentiles without the rich inward experience and in the objective vision he was called to that task.\" ",
+            "'I conferred not with flesh and blood' (\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b5\u03b8\u03b5\u03bc\u03b7\u03bd \u03c3\u03b1\u03c1\u03ba \u03ba\u03b1 \u03b1\u03b9\u03bc\u03b1\u03c4). Second aorist middle indicative of \u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c4\u03b9\u03b8\u03b7\u03bc, old verb, double compound (\u03c0\u03c1\u03bf\u03c3, \u03b1\u03bd\u03b1), to lay upon oneself in addition, to betake oneself to another, to confer with, dative case as here."
+        ],
+        "John Gill": [
+            "Christ was revealed to him in the glory of his person, the fulness of his grace, the necessity, suitableness, and completeness of his salvation; not objectively in the Gospel, or merely notionally, speculatively in the theory of things, but spiritually, experimentally, and savingly.\" ",
+            "Christ was the subject of his ministry; the things respecting his person, as that he was very God, the Son of God, God and man in one person the things respecting his office, as that he is the only Mediator between God and man, the prophet of the church, the high priest over the house of God, and King of saints.",
+            "Immediately, as soon as he was called by grace, and Christ was revealed in him, he set about it."
+        ],
+        "John Wesley": [
+            "To reveal his Son in me \u2014 By the powerful operation of his Spirit.\" ",
+            "That I might preach him to others \u2014 Which I should have been ill qualified to do, had I not first known him myself.",
+            "I did not confer with flesh and blood \u2014 Being fully satisfied of the divine will, and determined to obey."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Galatians 1:16, the apostle Paul emphasizes how the revelation of Jesus Christ had a profound impact on his life and ministry. This revelation did not come through human wisdom or consultation but through a personal illumination in his spirit. His encounter with Christ on the road to Damascus was transformative, leading him to immediately abandon his reliance on human understanding. Paul's calling to preach Christ to the Gentiles began with God's revelation of His Son in him, which equipped him to faithfully carry out his ministry with divine authority. This experience of God's revelation and grace empowered him to fulfill his mission and bring the message of salvation to others.",
+            "wordCount": 113,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 2.1111153772231033,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+            "commentatorTierSimilarities": [
+                25.9,
+                36.74,
+                37.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In receiving the revelation of Jesus Christ, Paul's own personal illumination played a crucial role in his understanding of the Gospel. This enlightening experience, distinct from consultation with flesh and blood, served as the foundation for his ministry among the Gentiles. Upon grasping the significance of Christ in his innermost being, Paul abandoned reliance on human wisdom and promptly devoted himself to preaching the Savior to others. His unwavering obedience to God's calling exemplifies the transformative power of divine revelation and the urgent necessity of proclaiming the Gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 2.0723201039311854,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.25,
+            "commentatorTierSimilarities": [
+                25.16,
+                35.42,
+                39.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The revelation of Jesus Christ to Paul was not merely an external event, but a profound inward experience of God's grace. This inner illumination empowered him to fulfill his calling as an apostle, preaching Christ to the Gentiles. Paul did not hesitate or seek human counsel, recognizing that his obedience to God's divine revelation was of utmost priority. The personal encounter with Christ transformed Paul's outlook and emboldened him to share the life-changing message of salvation with others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.1578510593451075,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.09,
+            "commentatorTierSimilarities": [
+                25.25,
+                37.64,
+                37.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul's ministry among the Gentiles was rooted in the revelation of Jesus Christ within his own spirit. This personal illumination far exceeded any human wisdom or influence. Paul did not seek advice or guidance from human sources; he immediately embraced his calling to preach the Savior to the Gentiles. The inner experience of God's revelation and grace empowered him to fulfill his mission and faithfully proclaim the transformative message of salvation to others.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0248427077602904,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+            "commentatorTierSimilarities": [
+                26.43,
+                37.59,
+                35.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The revelation of Jesus Christ in Paul's life had a profound impact, surpassing mere human wisdom. This personal encounter, devoid of consultation with flesh and blood, fueled his ministerial calling to the Gentiles. The powerful inner illumination from God not only transformed Paul's understanding but also resulted in immediate obedience, prompting him to faithfully preach the Savior to others. His conviction and reliance on divine revelation exemplify the importance of knowing Christ personally and carrying out the mission entrusted with divine authority.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 2.0093684087652117,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                24.91,
+                36.52,
+                38.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 16:23:04",
+    "verseRef": "Luke 22:60",
+    "bestBHT": {
+        "bht": "Peter's path of denial grew increasingly complex with each successive denial, tangling him further in his guilt and shame. The crowing of the rooster resounded in Peter's ears, serving as a haunting reminder of what he had done. As Peter's denials escalated, his words were filled with oaths, curses, and imprecations, emphasizing the depth of his betrayal. When the rooster crowed for the second time, it marked the climax of Peter's denial, a moment of revelation that exposed the magnitude of his unfaithfulness.",
+        "wordCount": 87,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.4900026643465714,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.89,
+        "commentatorTierSimilarities": [
+            59.9,
+            0.0,
+            40.1
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Each denial tangles Peter more and more.",
+            "Peter could hear the crowing all right."
+        ],
+        "John Gill": [
+            "And Peter said, man, I know not what thou sayest...and then began to curse and swear...\" ",
+            "...with his mouth full of oaths, curses, and imprecations...",
+            "...the cock crew; the second time..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the events unfolded, Peter found himself becoming entangled in his denials. With each denial, the knot of guilt tightened. The sound of the rooster's crow must have resonated loudly in Peter's ears, painfully reminding him of his denials. The weight of his words became undeniable as he found himself cursing and swearing. And then, just as the rooster crowed for the second time, Peter's denial reached its climax, bringing to light the depth of his betrayal.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.427305669368746,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.8,
+            "commentatorTierSimilarities": [
+                60.35,
+                0.0,
+                39.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's denials proved to be a tangled web that ensnared him further and further. The crowing of the rooster served as an auditory reminder of the guilt he carried with every denial. The weight of his words became inescapable as he resorted to cursing and swearing. In the midst of this, the second crowing of the rooster marked the culmination of Peter's betrayal, exposing the depths to which he had sunk.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.4020844544696567,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.96,
+            "commentatorTierSimilarities": [
+                57.99,
+                0.0,
+                42.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's mounting denials became an intricate tangle that he could not escape. The sound of the rooster's crow loomed over Peter, a stark reminder of his guilt and failure. As he uttered curses and swore, his words betrayed the deep anguish within him. And right at the moment of the second crow, Peter's denial reached its pinnacle, revealing the full extent of his betrayal.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.4420986545149546,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.29,
+            "commentatorTierSimilarities": [
+                57.15,
+                0.0,
+                42.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's path of denial grew increasingly complex with each successive denial, tangling him further in his guilt and shame. The crowing of the rooster resounded in Peter's ears, serving as a haunting reminder of what he had done. As Peter's denials escalated, his words were filled with oaths, curses, and imprecations, emphasizing the depth of his betrayal. When the rooster crowed for the second time, it marked the climax of Peter's denial, a moment of revelation that exposed the magnitude of his unfaithfulness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.4900026643465714,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.89,
+            "commentatorTierSimilarities": [
+                59.9,
+                0.0,
+                40.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's denials ensnared him further, forming an intricate web of guilt. The rooster's crow echoed loudly, serving as a reminder of his actions. Filled with curses and oaths, his words amplified the depth of his betrayal. As the rooster crowed a second time, Peter's denial reached its climax, exposing the extent of his unfaithfulness.",
+            "wordCount": 57,
+            "quoteTokenProportion": 26.19,
+            "qualityScore": 1.3881310928330672,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.5,
+            "commentatorTierSimilarities": [
+                54.88,
+                0.0,
+                45.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

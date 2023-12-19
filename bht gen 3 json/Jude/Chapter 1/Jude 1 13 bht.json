@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:15:46",
+    "verseRef": "Jude 13",
+    "bestBHT": {
+        "bht": "These professing Christians, by their own profession lights in the world, are instead drifting in strange errors of doctrine and practice. They resemble untamed waves, foaming with their own shame, and wandering stars that lack a regular orbit. Their teachings and actions are like roaring waves that produce only mire and dirt. These false teachers shine temporarily, but their light is fleeting and they are destined to sink into eternal darkness. Their pride and vain aspirations lead them further away from the truth, ensuring a most miserable and dark fate.",
+        "wordCount": 90,
+        "quoteTokenProportion": 31.43,
+        "qualityScore": 2.0321424688594814,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+        "commentatorTierSimilarities": [
+            24.95,
+            44.0,
+            31.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "wild waves of the sea, foaming up their own shames",
+            "wandering stars, for whom the blackness of darkness is reserved for ever",
+            "these professing Christians, by their profession lights in the world, instead of letting that light shine on more and more into the perfect day, are drifting about in strange errors of doctrine and practice till it will be utterly extinguished in eternal darkness"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Raging - wild.\" ",
+            "shames\" - plural in Greek, \"shames\" (compare :-). ",
+            "wandering stars - instead of moving on in a regular orbit, as lights to the world, bursting forth on the world like erratic comets, or rather, meteors of fire, with a strange glare, and then doomed to fall back again into the blackness of gloom."
+        ],
+        "Albert Barnes": [
+            "The waves are lashed into foam, and break and dash on the shore. They seem to produce nothing but foam, and to proclaim their own shame.",
+            "What they impart is as unsubstantial and valueless as the foam of the ocean waves, and the result is in fact a proclamation of their own shame.",
+            "The proper idea is that of stars that have no regular motions, or that do not move in fixed and regular orbits... No dependence can be placed on them."
+        ],
+        "Marvin Vincent": [
+            "Raging waves, by nature untamed.",
+            "Foaming out, implying quality rather than act.",
+            "Wandering stars, which shine a while and then pass into darkness."
+        ],
+        "John Calvin": [
+            "They brought forth nothing spiritual, their object being on the contrary to make men as stupid as brute animals.",
+            "Despising common language, they form for themselves an exotic idiom, I know not what.",
+            "With the more care and reverence ought the simplicity of Scripture to be studied, lest, by reasoning more refinedly than is right, we should not draw men to heaven, but on the contrary be involved in manifold labyrinths."
+        ],
+        "Philip Schaff": [
+            "They are at once rocks and waves, wild waves of the sea, which \u2018cannot rest,\u2019 and throw up only \u2018mire and dirt\u2019 (Isaiah 57:20).\" ",
+            "foaming out their own shame their lusts \u2018disgraceful.\u2019",
+            "wandering stars (comets or meteors, not planets), which neither light the world nor guide the mariner, but after blazing awhile drift into \u2018the blackness and darkness which is kept (\u2018in reserve\u2019) for them, and into which they sink and sink \u2018for ever.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Wild waves...like untamed animals of the forest or the sea.",
+            "Foaming out...the foaming waves as here.",
+            "Wandering stars...Babylon as the day-star who fell through pride."
+        ],
+        "John Gill": [
+            "False teachers are so called, for their swelling pride and vanity; which, as it is what prevails in human nature, is a governing vice in such persons.",
+            "Wandering stars, not comparable to the planets, which go their regular course, but to fiery exhalations, gliding and running stars; because they wander about from house to house, as well as from one nation to another.",
+            "To whom is reserved the blackness of darkness for ever; or the blackest darkness, even utter darkness; which phrase not only expresses the dreadful nature of their punishment, their most miserable and uncomfortable condition; but also the certainty of it, it is 'reserved' for them among the treasures of divine wrath and vengeance."
+        ],
+        "John Wesley": [
+            "Wandering stars...shine for a time, but have no light in themselves.\" ",
+            "Illustrates their desperate wickedness by comparisons drawn from the air, earth, sea, and heavens.",
+            "Cast into utter darkness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These professing Christians, by their profession lights in the world, instead of letting that light shine on more and more into the perfect day, are drifting about in strange errors of doctrine and practice till it will be utterly extinguished in eternal darkness. They are like raging waves, untamed and foaming with their own shame. They are wandering stars, bursting forth with a strange glare but without any regular motion or guidance. Instead of being lights that guide, they sink into the blackness and darkness that is reserved for them forever. Their actions and teachings bring forth nothing spiritual but only disgrace. They are like wild animals, producing mire and dirt.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9914958965307945,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+            "commentatorTierSimilarities": [
+                29.0,
+                39.96,
+                31.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These professing Christians, instead of shining as lights in the world and leading others towards spiritual growth, are driven by their own perverse desires, causing shame and dishonor. They resemble untamed, raging waves, relentlessly foaming and roaring. Like wandering stars, they lack stability and purpose, shining temporarily before plummeting into eternal darkness. Their teachings and actions are devoid of substance, like wild animals that produce nothing but filth and dirt. Their fate is sealed in the blackest darkness, reserved for them as a result of their pride and wickedness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.992390878903783,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                28.94,
+                39.27,
+                31.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These professing Christians, by their own profession lights in the world, are instead drifting in strange errors of doctrine and practice. They resemble untamed waves, foaming with their own shame, and wandering stars that lack a regular orbit. Their teachings and actions are like roaring waves that produce only mire and dirt. These false teachers shine temporarily, but their light is fleeting and they are destined to sink into eternal darkness. Their pride and vain aspirations lead them further away from the truth, ensuring a most miserable and dark fate.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 2.0321424688594814,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+            "commentatorTierSimilarities": [
+                24.95,
+                44.0,
+                31.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These professing Christians, who should be lights in the world, instead drift in strange errors of doctrine and practice, extinguishing their light in eternal darkness. They are like wild waves of the sea, foaming with their own shame, and wandering stars without a fixed orbit. Their teachings and actions are as worthless as foam, offering no substance. They resemble untamed animals, producing only mire and dirt. Their fate is the blackness of darkness, reserved for those who reject the truth and live in prideful vanity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 2.000007218607866,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                26.69,
+                42.26,
+                31.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These professing Christians, instead of shining as lights in the world, are like raging waves, untamed and foaming with their own shame. They are wandering stars, bursting forth with a strange glare but without any regular motion or guidance. Instead of being lights that guide, they sink into the blackness and darkness that is reserved for them forever. Their actions and teachings bring forth nothing spiritual but only disgraceful practices. They are like wild animals, producing mire and dirt.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.932359464089898,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                27.41,
+                40.25,
+                32.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

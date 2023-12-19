@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:22:02",
+    "verseRef": "Luke 20:15",
+    "bestBHT": {
+        "bht": "They cast him out of the vineyard, denying his role as the Messiah and rejecting his identity as a part of the Jewish nation. In doing so, they delivered him to the Gentiles and ultimately put him to death. He, who is the Prince of life, faced rejection and death at the hands of those who should have recognized and honored him.",
+        "wordCount": 62,
+        "quoteTokenProportion": 52.38,
+        "qualityScore": 0.9388348239561918,
+        "qualityScoreNormalizedComparedToV2BHTs": 22.56,
+        "commentatorTierSimilarities": [
+            20.82,
+            0.0,
+            79.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "15. cast him out of the",
+            "\tvineyard\u2014(Compare Hebrews 13:11-13;",
+            "\t1 Kings 21:13; John 19:17)."
+        ],
+        "John Gill": [
+            "Rejected him as the Messiah, even denied that he was of the Jewish nation.\" ",
+            "Delivered him to the Gentiles that were without, and were aliens from the commonwealth of Israel.",
+            "Put him to death, as follows: and killed him; the Prince of life, the Lord of glory, and heir of all things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They cast him out of the vineyard, denying his role as the Messiah and rejecting his identity as a part of the Jewish nation. In doing so, they delivered him to the Gentiles and ultimately put him to death. He, who is the Prince of life, the Lord of glory, and the heir of all things, faced rejection and death at the hands of those who should have recognized and honored him. (Luke 20:15; Hebrews 13:11-13; 1 Kings 21:13; John 19:17)",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.2566841516539504,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.13,
+            "commentatorTierSimilarities": [
+                37.39,
+                0.0,
+                62.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They cast him out of the vineyard, denying his role as the Messiah and rejecting his identity as a part of the Jewish nation. In doing so, they delivered him to the Gentiles and ultimately put him to death. He, who is the Prince of life, faced rejection and death at the hands of those who should have recognized and honored him.",
+            "wordCount": 62,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 0.9388348239561918,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.56,
+            "commentatorTierSimilarities": [
+                20.82,
+                0.0,
+                79.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "They cast him out of the vineyard, rejecting him as the Messiah and denying his Jewish heritage. They delivered him to the Gentiles, who were outsiders to the commonwealth of Israel, ultimately putting him to death. He, who was the Prince of life, the Lord of glory, and the heir of all things, was treated with such contempt and hostility. (57 words)",
+            "wordCount": 61,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 0.9656114400831133,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.45,
+            "commentatorTierSimilarities": [
+                27.61,
+                0.0,
+                72.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They cast him out of the vineyard, rejecting him as the Messiah, even denying that he was of the Jewish nation. They delivered him to the Gentiles that were without, and were aliens from the commonwealth of Israel, ultimately putting him to death, as follows: and killed him; the Prince of life, the Lord of glory, and heir of all things. (46 words)",
+            "wordCount": 62,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.0086322983248102,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.88,
+            "commentatorTierSimilarities": [
+                24.56,
+                0.0,
+                75.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They cast him out of the vineyard, rejecting him as the Messiah and denying his Jewish heritage. They delivered him to the Gentiles, who were outsiders to the commonwealth of Israel, ultimately putting him to death. He, who was the Prince of life, the Lord of glory, and heir of all things, was treated with contempt. (42 words)",
+            "wordCount": 57,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 0.9586719774990231,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.22,
+            "commentatorTierSimilarities": [
+                25.66,
+                0.0,
+                74.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

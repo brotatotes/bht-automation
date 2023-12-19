@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:34:18",
+    "verseRef": "Ephesians 5:12",
+    "bestBHT": {
+        "bht": "For the things done in secret by unbelievers, it is a disgrace even to mention them. Sin loves the dark and hides there, but we must sometimes speak out and turn on the light. The very act of speaking about these shameful deeds without reproving them is a shame. These abominations can create impure associations and pollute our minds. Acknowledging the baseness of these acts is the first step towards repentance. These sins, these works of darkness, cannot bear the light. It is a shame to speak of them, and even more shameful to commit them.",
+        "wordCount": 96,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 1.990090380334469,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+        "commentatorTierSimilarities": [
+            36.26,
+            27.55,
+            36.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For (the connexion seems to be, \u2018reprove them\u2014this they want, and this is more befitting you\u2014for to have the least part in them, even in speaking of them, is shameful') the things done in secret by them it is shameful even to speak of...\" ",
+            "(the connexion being\u2014 'I mention not, and you need not speak of, these deeds of darkness, much less have any fellowship with them\u2014your connexion with them must be only that which the act of reproof necessitates').",
+            "to have the least part in them, even in speaking of them, is shameful"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the things done in secret by them, it is a shame even to speak of.",
+            "The 'for' expresses this, Reprove them, for to speak of them without reproving them, is a shame.",
+            "Thus 'works of darkness' answers to 'things done in secret'."
+        ],
+        "Albert Barnes": [
+            "Their deeds cannot be described in the circles of the refined and the delicate; they cannot be told in the presence of mothers and sisters.",
+            "The very \u201cnaming\u201d of those abominations often produces improper associations in the mind; the description creates polluting images before the imagination.",
+            "There are some vices which, from the corruptions of the human heart, cannot be safely described... he mentioned the vice - and then he mentioned the wrath of God."
+        ],
+        "John Calvin": [
+            "To use a common proverb, 'Night has no shame.' What is the reason of this? Sunk in the darkness of ignorance, they neither see their own baseness, nor think that it is seen by God and by angels.",
+            "When unbelievers keep the doors of their houses shut, and withdraw from the view of men, it is a shame even to speak of the baseness and wickedness with which they rush into all manner of licentiousness.",
+            "Such shame, arising from an acknowledgment of baseness, is the first step to repentance."
+        ],
+        "Philip Schaff": [
+            "These it is a shame even to speak of.",
+            "The reproof was so necessary because some of the sins could not even be spoken of.",
+            "All the explanations which refer to heathen mysteries, or identify 'things done in secret' with 'works of darkness,' seem untenable."
+        ],
+        "Archibald T. Robertson": [
+            "Sin loves the dark.",
+            "One must sometimes speak out, turn on the light.",
+            "Even if to do so is disgraceful."
+        ],
+        "John Gill": [
+            "If it is a shame to speak of those sins which are done in secret, it is much more shameful to commit them.",
+            "Sins, works of darkness, will not bear the light; there is a consciousness in men of the evil of sin, unless past feeling, and therefore they do not care that others should know their crimes.",
+            "Especially when they are of such a scandalous nature, that it is a shame to mention the very names of them."
+        ],
+        "John Wesley": [
+            "In secret \u2014 As flying the light."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the things done in secret by unbelievers, it is a disgrace even to mention them. Sin hides in the darkness and loves to remain hidden, but sometimes we must speak out and expose it to the light. Even the very act of speaking about these shameful deeds without reproving them is a shame in itself. The description of these abominations can produce impure associations and create polluting images in our minds. It is crucial that we acknowledge the baseness of these acts and recognize the need for repentance. These sins, these works of darkness, cannot bear the light. It is a shame to even speak of them, let alone commit them.",
+            "wordCount": 112,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.939631463690805,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                35.3,
+                28.71,
+                36.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the things done in secret by unbelievers, it is a disgrace even to mention them. Sin loves the dark and hides there, but we must sometimes speak out, turning on the light. The very act of speaking about these shameful deeds without reproving them is a shame. It can create impure associations and pollute our minds. Acknowledging the baseness of these acts is the first step towards repentance. These sins, these works of darkness, cannot bear the light. It is a shame to even speak of them, let alone commit them.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.9534399947513148,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.29,
+            "commentatorTierSimilarities": [
+                36.44,
+                27.73,
+                35.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For the things done in secret by unbelievers, it is a disgrace even to mention them. Sin loves the dark, but we must sometimes speak out and turn on the light. Even the very act of speaking about these shameful deeds without reproving them is a shame. These abominations can create impure associations and polluting images in our minds. Acknowledging the baseness of these acts is the first step towards repentance. These sins, these works of darkness, cannot bear the light. It is a shame to speak of them, and even more shameful to commit them.",
+            "wordCount": 96,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.9851205057977657,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                36.08,
+                27.82,
+                36.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For the things done in secret by unbelievers, it is a disgrace even to mention them. Sin loves the dark and hides there, but we must sometimes speak out and expose it to the light. The very act of speaking about these shameful deeds without reproving them is a shame in itself. These abominations can create impure associations and pollute our minds. Acknowledging the baseness of these acts is the first step towards repentance. These sins, these works of darkness, cannot bear the light.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.977698540333041,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.1,
+            "commentatorTierSimilarities": [
+                35.25,
+                28.34,
+                36.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For the things done in secret by unbelievers, it is a disgrace even to mention them. Sin loves the dark and hides there, but we must sometimes speak out and turn on the light. The very act of speaking about these shameful deeds without reproving them is a shame. These abominations can create impure associations and pollute our minds. Acknowledging the baseness of these acts is the first step towards repentance. These sins, these works of darkness, cannot bear the light. It is a shame to speak of them, and even more shameful to commit them.",
+            "wordCount": 96,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.990090380334469,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+            "commentatorTierSimilarities": [
+                36.26,
+                27.55,
+                36.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

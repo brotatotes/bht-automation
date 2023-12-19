@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:11:29",
+    "verseRef": "1 Corinthians 10:30",
+    "bestBHT": {
+        "bht": "If I, by grace, partake of the food set before me, why should I expose myself to being evil spoken of? It seems inconsistent to say grace over food that I should not eat, as it may lead to slander or defamation. Instead, it is better to deny oneself in such a case and avoid risking one's character, the glory of God, and the honor of religion. We should make a good use of our blessings, preventing the weak from having occasion to revile us, and sincerely give thanks for our food.",
+        "wordCount": 93,
+        "quoteTokenProportion": 49.28,
+        "qualityScore": 1.9897405587247876,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+        "commentatorTierSimilarities": [
+            27.89,
+            32.48,
+            39.63
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "thankfully\" [ALFORD].",
+            "I . . . be partaker\u2014I partake of the food set before me.",
+            "give thanks\u2014which consecrates all the Christian's acts (Romans 14:6; 1 Timothy 4:3; 1 Timothy 4:4)."
+        ],
+        "Albert Barnes": [
+            "If I partake by grace; if by the grace and mercy of God, I have a right to partake of this; yet why should I so conduct as to expose myself to the reproaches and evil surmises of others?\" ",
+            "Why should I pursue such a course as to expose myself to blame or censure?",
+            "God has made ample provision elsewhere for my support, for which I may be thankful. I will not therefore expose myself to calumny and reproach, or be the occasion of injury to others by partaking of the food offered in sacrifice to idols."
+        ],
+        "Marvin Vincent": [
+            "By grace, with an unsullied conscience, so that I can sincerely give thanks for my food.\" ",
+            "Am I evil-spoken of, with the classical meaning of slandering or defaming."
+        ],
+        "John Calvin": [
+            "As it is owing to the kindness of God that all things are lawful for me, why should I act in such a manner, that it should be reckoned to my account as a vice?",
+            "We cannot, it is true, prevent the wicked from reviling us, nor even the weak from being sometimes displeased with us.",
+            "He would have us, then, make a good use of our benefits, that the weak may not have occasion of reviling from our inconsiderate use of liberty."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 10:30. If I by grace partake, why am I evil spoken of for that for which I give thanks? In short,",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Why incur the risk of being evil spoken of (\u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03bf\u03c5\u03bc\u03b1) for the sake of maintaining one's liberty?\" ",
+            "Is it worth it?\" ",
+            "Saying grace over food that one should not eat seems inconsistent."
+        ],
+        "John Gill": [
+            "For if I by grace be a partaker,.... Either of Christian liberty, through the grace of God; or of the creatures God has given men to eat of through his goodness, and which are enjoyed by the saints with thankfulness.\" ",
+            "Why am I evil spoken of for that for which I give thanks? That is, why should I expose myself to evil tongues, the blasphemies and reproaches of men, by eating things of this kind, under this circumstance, when there are so many creatures I can use without offence, and be thankful for?\" ",
+            "Wherefore upon the whole it is best to deny one's self in such a case, rather than risk one's character, the glory of God, and the honour of religion."
+        ],
+        "John Wesley": [
+            "If I by grace am a partaker \u2014 If I thankfully use the common blessings of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If I partake of the food set before me by grace, why should I expose myself to being evil spoken of? It seems inconsistent to say grace over food that I should not eat, as it may lead to slander or defamation. Instead, it is better to deny oneself in such a case and avoid risking one's character, the glory of God, and the honor of religion. We should make a good use of our blessings in a way that prevents the weak from having occasion to revile us and allows us to sincerely give thanks for our food.",
+            "wordCount": 100,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.9852299879588662,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                27.68,
+                32.27,
+                40.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If I, by grace, partake of the food set before me, why incur the risk of being evil spoken of for the sake of maintaining my liberty? It seems inconsistent to say grace over food that I should not eat and expose myself to slander or defamation. Instead, it is better to deny oneself in such a case and avoid risking one's character, the glory of God, and the honor of religion. We should make a good use of our blessings, preventing the weak from having occasion to revile us, and sincerely give thanks for our food.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.9854725145951984,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                28.04,
+                31.97,
+                40.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If I partake of the food set before me by grace, why should I expose myself to being evil spoken of? It seems inconsistent to say grace over food that I should not eat, as it may lead to slander or defamation. Instead, it is better to deny oneself in such a case and avoid risking one's character, the glory of God, and the honor of religion. We should make a good use of our blessings in a way that prevents the weak from having occasion to revile us and allows us to sincerely give thanks for our food.",
+            "wordCount": 100,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.9852299879588662,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                27.68,
+                32.27,
+                40.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If I, by grace, partake of the food set before me, why incur the risk of being evil spoken of for the sake of maintaining my liberty? It seems inconsistent to say grace over food that I should not eat and expose myself to slander or defamation. Instead, it is better to deny oneself in such a case and avoid risking one's character, the glory of God, and the honor of religion. We should make a good use of our blessings, preventing the weak from having occasion to revile us, and sincerely give thanks for our food.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.9854725145951984,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                28.04,
+                31.97,
+                40.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If I, by grace, partake of the food set before me, why should I expose myself to being evil spoken of? It seems inconsistent to say grace over food that I should not eat, as it may lead to slander or defamation. Instead, it is better to deny oneself in such a case and avoid risking one's character, the glory of God, and the honor of religion. We should make a good use of our blessings, preventing the weak from having occasion to revile us, and sincerely give thanks for our food.",
+            "wordCount": 93,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 1.9897405587247876,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                27.89,
+                32.48,
+                39.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

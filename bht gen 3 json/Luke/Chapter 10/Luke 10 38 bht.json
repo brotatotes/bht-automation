@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:18:03",
+    "verseRef": "Luke 10:38",
+    "bestBHT": {
+        "bht": "As Jesus embarked on his journey from Galilee, he arrived in Bethany where Martha, the older sister and head of the household, lovingly received him under her roof. Martha's hospitality and diligent preparations for his entertainment demonstrated her willingness to serve and honor their esteemed guest. This example teaches us the importance of not thinking more highly of ourselves than others, and reminds us of Christ's selfless devotion to doing good for others.",
+        "wordCount": 75,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.7380825999764635,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.13,
+        "commentatorTierSimilarities": [
+            39.45,
+            31.63,
+            28.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The whole of the events related in this section of the Gospel are allotted, as in the widest sense they belonged to the last journey of our Lord from Galilee.",
+            "Jesus, as we know that He afterwards did, so now probably, when at Jerusalem (at the feast of Dedication), abode at Bethany.",
+            "He 'loved'\u2014 (only used in this sense by John with regard to this family and to himself)\u2014Martha and Mary and Lazarus\u2014and this word implies surely hospitality and intercourse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The house belonged to her, and she appears throughout to be the older sister.",
+            "Bethany, which Luke so speaks of, having no farther occasion to notice it.",
+            "She appears throughout to be the older sister."
+        ],
+        "Albert Barnes": [
+            "Received him kindly and hospitably.",
+            "Martha was properly the mistress of the house.",
+            "She had the care of the household, this will also show why she was so diligently employed about domestic affairs."
+        ],
+        "Marvin Vincent": [
+            "Received him under her roof.",
+            "Martha is marked as the head of the household.",
+            "She received the guest, and was chiefly busy with the preparations for his entertainment."
+        ],
+        "John Calvin": [
+            "Christ, wherever he came, did not devote himself to his private concerns, or consult his own ease or comfort; but that the single object which he kept in view was, to do good to others.",
+            "We know that men were created for the express purpose of being employed in labor of various kinds, and that no sacrifice is more pleasing to God, than when every man applies diligently to his own calling, and endeavors to live in such a manner as to contribute to the general advantage.",
+            "This example warns us, that, in doing what is right, we must take care not to think more highly of ourselves than of others."
+        ],
+        "Philip Schaff": [
+            "During the great journey from Galilee to Jerusalem, spoken of in this part of the Gospel.",
+            "She was probably the elder sister, and hence the hostess.",
+            "In this first mention of her, as receiving our Lord, doubtless with great joy, we have an intimation of her character."
+        ],
+        "Archibald T. Robertson": [
+            "Received him into her house...to welcome as a guest.\" ",
+            "Martha is clearly the mistress of the home and is probably the elder sister.\" ",
+            "It is curious that in an old cemetery at Bethany the names of Martha, Eleazar, and Simon have been found."
+        ],
+        "John Gill": [
+            "Now it came to pass as they went...",
+            "...received him into her house; in a very kind and courteous manner...",
+            "...believed in him, as the true Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus continued on his journey from Galilee, he arrived in Bethany, where he was warmly received by Martha, the mistress of the house. Martha, being the older sister, lovingly welcomed Jesus and attended to the preparations for his entertainment. It is clear that Martha was the head of the household and took upon herself the responsibility of hosting their esteemed guest. This example reminds us that, in doing what is right, we must not think of ourselves more highly than others. Martha's actions exemplify the importance of hospitality and diligent service, as demonstrated by Christ himself, who selflessly devoted himself to the good of others.",
+            "wordCount": 107,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.7998117497536112,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                38.76,
+                34.91,
+                26.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus embarked on his journey from Galilee, he arrived in Bethany where Martha, the older sister and head of the household, lovingly received him under her roof. Martha's hospitality and diligent preparations for his entertainment demonstrated her willingness to serve and honor their esteemed guest. This example teaches us the importance of not thinking more highly of ourselves than others, and reminds us of Christ's selfless devotion to doing good for others.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7380825999764635,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.13,
+            "commentatorTierSimilarities": [
+                39.45,
+                31.63,
+                28.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus continued on his journey from Galilee, he arrived in Bethany where he was warmly received by Martha, the mistress of the house. Martha, being the older sister, lovingly welcomed Jesus and attended to the preparations for his entertainment. It is clear that Martha was the head of the household and took upon herself the responsibility of hosting their esteemed guest. This example reminds us that, in doing what is right, we must not think of ourselves more highly than others. Martha's actions exemplify the importance of hospitality and diligent service, as demonstrated by Christ himself, who selflessly devoted himself to the good of others.",
+            "wordCount": 107,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.7998117497536112,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                38.76,
+                34.91,
+                26.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus continued his journey from Galilee, he arrived in Bethany where Martha, the older sister and head of the household, warmly received him. Martha, fully aware of her responsibility, lovingly welcomed Jesus and diligently prepared to entertain him. This act of hospitality and service vividly demonstrates the importance of not elevating ourselves above others. It mirrors Christ's example of selflessness and reminds us that doing what is right means employing our unique gifts for the benefit of others.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6819521168216358,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                36.65,
+                33.18,
+                30.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus proceeded on his journey from Galilee, he eventually reached Bethany, where he was cordially received by Martha, the elder sister and head of the household. Martha's warm welcome and meticulous preparations for his stay serve as a reminder that in doing what is right, we should not consider ourselves more highly than others. Her demonstration of hospitality and earnest service mirrors Christ's selflessness, emphasizing the significance of employing our individual talents for the collective welfare of others.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.737796957616681,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+            "commentatorTierSimilarities": [
+                36.77,
+                31.98,
+                31.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

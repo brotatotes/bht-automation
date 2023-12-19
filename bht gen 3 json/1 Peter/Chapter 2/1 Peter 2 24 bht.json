@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:28",
+    "verseRef": "1 Peter 2:24",
+    "bestBHT": {
+        "bht": "Christ willingly bore our sins in His body on the tree, offering them up as an altar sacrifice. His purpose was to expiate the guilt of our sins and reconcile us to God. Through His sacrifice, we are called to die to our sins and live a righteous life. His bruised and beaten body serves as a powerful reminder of the consequences of sin and the transformative power of His sacrifice. By faith, we see in His wounds the effect of our sins and are reclaimed, experiencing the healing of our moral sickness and the restoration of righteousness.",
+        "wordCount": 98,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 2.3646674746758487,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.97,
+        "commentatorTierSimilarities": [
+            28.58,
+            32.59,
+            38.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He was not only negatively innocent, but suffered in the pursuance of the noblest purpose of love, and that love towards us.",
+            "Bore our sins in His [own] body on the tree, i.e. 'took them to the tree and offered them up on it as an altar.'",
+            "Having died to our sins, we should live unto righteousness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His voluntary undertaking of the work of redemption is implied.",
+            "In offering or presenting in sacrifice His body, Christ offered in it the guilt of our sins upon the cross, as upon the altar of God, that it might be expiated in Him, and so taken away from us.",
+            "That we should die to the sins whose collected guilt Christ carried away in His death, and so live to the righteousness, the gracious relation to God which He has brought in."
+        ],
+        "Albert Barnes": [
+            "He put himself in the place of sinners, and bore that which those sins deserved; that is, he endured in his own person that which, if it had been inflicted on the sinner himself, would have been a proper expression of the divine displeasure against sin, or would have been a proper punishment for sin.\" ",
+            "The sufferings of the Saviour were in all respects made as nearly like the sufferings of the most guilty, as the sufferings of a perfectly innocent being could be.",
+            "By faith we see the bruises inflicted on him, the black and blue spots made by beating; we remember that they were on account of our sins, and not for his; and the effect in reclaiming us is the same as if they had been inflicted on us."
+        ],
+        "Marvin Vincent": [
+            "Bare up to the cross, as to an altar, and offered himself thereon.\u201d",
+            "Peter uses the same peculiar term for the cross.",
+            "Having ceased to exist as regards them."
+        ],
+        "John Calvin": [
+            "Christ took on himself the curse due to our sins, that he might atone for them before God.\" ",
+            "Peter intended to set forth the same thing by the words of this verse, even that we are reconciled to God on this condition, because Christ made himself before his tribunal a surety and as one guilty for us, that he might suffer the punishment due to us.",
+            "The Scripture sometimes mentions both, that is, that the Lord tries us with troubles and adversities, that we might be conformed to the death of Christ, and also that the old man has been crucified in the death of Christ, that we might walk in newness of life."
+        ],
+        "Philip Schaff": [
+            "The vicariousness of His sufferings adds to His example a power and grandeur higher still than it receives from the qualities already instanced in it.",
+            "The statement... means more than bearing sin sympathetically, burdening one\u2019s heart with the sense of sin, or destroying the power of sin in us. It involves the two ideas of sacrifice and substitution.",
+            "The moral sickness of sin is translated into the health of righteousness by the pain of the Sinless."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus is the perfect sin offering.",
+            "Here St. Peter puts the Cross in the place of the altar.",
+            "Writing to slaves who may have received such stripes, Peter's word is effective."
+        ],
+        "John Gill": [
+            "What Christ bore were \"sins\", even all sorts of sin, original and actual, and every act of sin of his people; and all that is in sin, all that belongs to it, arises from it, and is the demerit of it, as both filth, guilt, and punishment; and a multitude of sins did he bear, even all the iniquities of all the elect; and a prodigious load and weight it was.",
+            "Christ voluntarily took them upon himself; he took them to himself, as one may take the debt of another, and make himself answerable for it; or as a man takes up a burden, and lays it on his shoulders; so Christ took up our sins, and 'carried' them 'up', as the word here used signifies, alluding to the priests carrying up the sacrifice to the altar, and referring to the lifting up of Christ upon the cross.",
+            "Sin is a disease, a natural and hereditary one, an epidemic distemper, that reaches to all men, and to all the powers and faculties of their souls, and members of their bodies; and which is nauseous and loathsome, and in itself mortal and incurable; nor can it be healed by any creature, or anything that a creature can do. Christ is the only physician, and his blood the balm and sovereign medicine; this cleanses from all sin; through it is the remission of sin, which is meant by healing."
+        ],
+        "John Wesley": [
+            "Who himself bore our sins... in his afflicted, torn, dying body on the tree.\" ",
+            "[We] being dead to sin... wholly delivered both from the guilt and power of it.",
+            "Might live to righteousness... The sins we had committed, and he bore, were manifold."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He bore our sins in His [own] body on the tree, i.e. 'took them to the tree and offered them up on it as an altar,' willingly offering His body as a sacrifice to expiate the guilt of our sins and reconcile us to God. By enduring the punishment that our sins deserved, Christ demonstrated the depths of His love for us and the noble purpose of His suffering. As a result, we are called to die to our sins and live a righteous life, no longer enslaved to the power and guilt of sin. Through His vicarious and sacrificial suffering, Christ became the perfect sin offering, bearing the weight of all our sins upon Himself. His bruised and beaten body serves as a powerful reminder of the consequences of sin and the transformative power of His sacrifice. By faith, we see in His wounds the effect of our sin and are reclaimed, experiencing the healing of our moral sickness and the restoration of righteousness.",
+            "wordCount": 166,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.449895823849574,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.8,
+            "commentatorTierSimilarities": [
+                26.35,
+                35.59,
+                38.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ willingly offered Himself as a sacrifice, bearing our sins in His body on the tree, as if presenting them on an altar. His purpose was to expiate the guilt of our sins and reconcile us to God. In doing so, He demonstrated both His love for us and the noble significance of His suffering. As a result, we are called to die to our sins and live a righteous life. By faith, we see in His wounds the effect of our sins and are transformed, experiencing the healing of our moral sickness and the restoration of righteousness.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.2569510925658696,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.38,
+            "commentatorTierSimilarities": [
+                28.5,
+                33.42,
+                38.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ willingly bore our sins in His body on the tree, offering them up as an altar sacrifice. His purpose was to expiate the guilt of our sins and reconcile us to God. Through His sacrifice, we are called to die to our sins and live a righteous life. His bruised and beaten body serves as a powerful reminder of the consequences of sin and the transformative power of His sacrifice. By faith, we see in His wounds the effect of our sins and are reclaimed, experiencing the healing of our moral sickness and the restoration of righteousness.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.3646674746758487,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.97,
+            "commentatorTierSimilarities": [
+                28.58,
+                32.59,
+                38.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ willingly offered up Himself as a sacrifice, bearing our sins on the tree, making them as an altar offering. His purpose was to expiate the guilt of our sins and reconcile us to God. As a result, we are called to die to our sins and live a righteous life. By faith, we see in His wounds the effect of our sins and are transformed, experiencing the healing of our moral sickness and the restoration of righteousness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.3209402947254416,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.51,
+            "commentatorTierSimilarities": [
+                28.56,
+                32.41,
+                39.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ willingly offered Himself as a sacrifice, bearing our sins in His [own] body on the tree. By doing so, He offered up our sins as an altar offering, expiating their guilt and reconciling us to God. As a result, we are called to die to our sins and live a righteous life. Through faith, we see in His wounds the impact of our sins and experience a transformation, as we are healed from the moral sickness of sin and restored to righteousness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.3540939295910555,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.61,
+            "commentatorTierSimilarities": [
+                28.75,
+                32.21,
+                39.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

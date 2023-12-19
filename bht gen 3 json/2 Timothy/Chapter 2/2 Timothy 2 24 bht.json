@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:31:04",
+    "verseRef": "2 Timothy 2:24",
+    "bestBHT": {
+        "bht": "The servant of the Lord must imitate his master in not striving contentiously, though uncompromising in earnestly contending for the faith. He is to be gentle so that he may not occasion any evils, and patient so that he may endure evils. The servant of the Lord must be apt to teach, showing solid teaching, ease in teaching, and patience and assiduity in it. This is the moral obligation of the servant of God, to be gentle and forbearing, putting up with evil, and not engaging in verbal quibbles.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 2.1470893477853714,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+        "commentatorTierSimilarities": [
+            36.05,
+            31.23,
+            32.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The servant of the Lord must imitate his master in not striving contentiously, though uncompromising in earnestly contending for the faith.\" ",
+            "He is to be gentle so that he may occasion no evils; patient so that he may endure evils.",
+            "Apt to teach\u2014implying not only solid teaching and ease in teaching, but patience and assiduity in it."
+        ],
+        "Albert Barnes": [
+            "The servant of Christ should be a man of peace. He should not struggle for mere victory, even when endeavoring to maintain truth; but should do this, in all cases, with a kind spirit, and a mild temper.",
+            "The Christian minister is to be meek and mild toward all, not disputatious and quarrelsome.",
+            "The servant of the Lord must be patient under evils and injuries."
+        ],
+        "Marvin Vincent": [
+            "The servant of the Lord. The teacher or other special worker in the church.",
+            "Must not. Moral obligation.",
+            "Gentle. Only here and 1 Thessalonians 2:7 (note)."
+        ],
+        "John Calvin": [
+            "The servant of God must stand aloof from contentions; but foolish questions are contentions; therefore whoever desires to be a 'servant of God,' and to be accounted such, ought to shun them.",
+            "To the same purpose is what immediately follows, that he be qualified for teaching. There will be no room for instruction if he has not moderation and some equability of temper.",
+            "The importunity of some men may sometimes produce either irritation or weariness; and for that reason he adds, 'bearing with them,' at the same time pointing out the reason why it is necessary; namely, because a godly teacher ought even to try whether it be possible for him to bring back to the right path obstinate and rebellious persons, which cannot be done without the exercise of gentleness."
+        ],
+        "Philip Schaff": [
+            "2 Timothy 2:24. Patient. The Greek is more expressive, \u2018 patient under, or putting up with, evil.\u2019",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Must not strive (\u03bf\u03c5 \u03b4\u03b5 \u03bc\u03b1\u03c7\u03b5\u03c3\u03b8\u03b1). Rather, 'it is not necessary for him to fight' (in such verbal quibbles).\" ",
+            "Gentle (\u03b7\u03c0\u03b9\u03bf\u03bd). Old word (from \u03b5\u03c0\u03bf\u03c2, speech), affable, mild, in N.T. only here (and 1 Thessalonians 2:7 in some MSS.; W. H. have \u03bd\u03b7\u03c0\u03b9\u03bf\u03c2).\" ",
+            "Forbearing (\u03b1\u03bd\u03b5\u03be\u03b9\u03ba\u03b1\u03ba\u03bf\u03bd). Late compound (from future of \u03b1\u03bd\u03b5\u03c7\u03c9, \u03b1\u03bd\u03b5\u03be\u03c9, and \u03ba\u03b1\u03ba\u03bf\u03bd, putting up with evil). Here only in N.T."
+        ],
+        "John Gill": [
+            "By 'the servant of the Lord' is not meant any believer in common, but a minister of the word\" ",
+            "but be gentle unto all men; not only to troubled minds, and wounded consciences, by supplying them with the precious promises and truths of the Gospel; and to backsliders, by restoring them in a spirit of meekness; but even to those who contradict the truth, and themselves, by mild and kind instructions.",
+            "Apt to teach, showing a willingness to instruct the ignorant and obstinate, and making use of abilities given for that purpose, notwithstanding all discouragements; for it follows, patient, or 'bearing evil'; not only the infirmities of weak brethren in the church, and the reproaches and persecutions of profane men in the world; but also the contradictions and oppositions of the adversaries of truth, so as not to be irritated and provoked, or to be discouraged, and desist from the defence of the Gospel."
+        ],
+        "John Wesley": [
+            "A servant of the Lord must not be eager or passionate.",
+            "But be apt to teach, chiefly by patience and unwearied assiduity.",
+            "Strive not, as do the vain wranglers spoken of, verse23."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The servant of the Lord must imitate his master in not striving contentiously, but rather be gentle, patient, and apt to teach. He should not engage in verbal quibbles, but maintain an affable and mild temperament. The servant of the Lord must bear with others, even those who contradict the truth, in order to bring them back to the right path. In doing so, they should be meek and mild, teaching with patience and unwearied assiduity, displaying a spirit of moderation and equability of temper. This is the character of a minister of the word, one who is willing to instruct and defend the Gospel, while shunning foolish and contentious questions.",
+            "wordCount": 111,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.992678913879206,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+            "commentatorTierSimilarities": [
+                29.31,
+                32.56,
+                38.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servant of the Lord must imitate his master in not striving contentiously, but rather be gentle, patient, and apt to teach. He should not engage in verbal quibbles, but maintain an affable and mild temperament. The servant of the Lord must bear with others, even those who contradict the truth, in order to bring them back to the right path. In doing so, they should be meek and mild, teaching with patience and unwearied assiduity.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.049956346372433,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                30.93,
+                32.27,
+                36.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servant of the Lord must imitate his master in not striving contentiously, though uncompromising in earnestly contending for the faith. He is to be gentle so that he may not occasion any evils, and patient so that he may endure evils. The servant of the Lord must be apt to teach, showing solid teaching, ease in teaching, and patience and assiduity in it. This is the moral obligation of the servant of God, to be gentle and forbearing, putting up with evil, and not engaging in verbal quibbles.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.1470893477853714,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                36.05,
+                31.23,
+                32.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The servant of the Lord must imitate his master in not striving contentiously, but rather be gentle, patient, and apt to teach. He should not engage in verbal quibbles, but maintain an affable and mild temperament. The servant of the Lord must bear with others, even those who contradict the truth, in order to bring them back to the right path. In doing so, they should be meek and mild, teaching with patience and unwearied assiduity.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.049956346372433,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                30.93,
+                32.27,
+                36.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servant of the Lord must imitate his master in not striving contentiously, though uncompromising in earnestly contending for the faith. He is to be gentle and patient, bearing with others, even those who contradict the truth, in order to bring them back to the right path. The servant of the Lord must be apt to teach, displaying solid teaching, ease, patience, and assiduity. This moral obligation requires a gentle and forbearing disposition, putting up with evil and avoiding verbal quibbles.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.0396571005564583,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.16,
+            "commentatorTierSimilarities": [
+                33.97,
+                30.94,
+                35.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

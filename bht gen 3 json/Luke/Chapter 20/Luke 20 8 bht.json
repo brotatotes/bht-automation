@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 16:21:59",
+    "verseRef": "Luke 20:8",
+    "bestBHT": {
+        "bht": "Jesus, in his wisdom, responds to the religious leaders who question his authority with a clever statement: Since they would not give him a direct answer to his question: neither tell I you by what authority I do these things. By refusing to provide a direct answer, Jesus challenges their stubbornness and demonstrates that his authority comes from God, not from mere human beings. His words speak volumes about the divine source of his power and the inability of those who oppose him to grasp the truth.",
+        "wordCount": 87,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 2.007522500170962,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Since they would not give him a direct answer to his question: neither tell I you by what authority I do these things.\" ",
+            "Nor was there any need of it; they might easily perceive by what he had said, from whence he professed to have received his authority, from God, and not men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in his wisdom, responds to the religious leaders who question his authority with a clever statement: Since they would not give him a direct answer to his question: neither tell I you by what authority I do these things. By refusing to provide a direct answer, Jesus challenges their stubbornness and demonstrates that his authority comes from God, not from mere human beings. His words speak volumes about the divine source of his power and the inability of those who oppose him to grasp the truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.007522500170962,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus tactfully responds to the religious leaders who question his authority, refusing to give them a direct answer: Neither tell I you by what authority I do these things. This refusal challenges their unwillingness to acknowledge the truth and emphasizes that Jesus derives his authority from God, not from human sources. His words highlight the divine origin of his power and reveal the inability of his opponents to comprehend the truth of his teachings.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.693619731854933,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In response to the religious leaders' inquiry about his authority, Jesus craftily avoids providing a straightforward response, stating, Neither tell I you by what authority I do these things. By doing so, he confronts their evasiveness and makes it clear that his authority originates from God, rather than from mere mortals. This statement beautifully asserts the divine source of Jesus' power, leaving his opponents unable to fully grasp the truth that he imparts through his teachings.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.752779300057529,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When faced with the religious leaders' interrogation regarding his authority, Jesus artfully sidesteps their question: Neither tell I you by what authority I do these things. This calculated response exposes their refusal to offer a direct answer, revealing that Jesus draws his authority not from human origins, but from God Himself. By emphasizing the divine source of his power, Jesus challenges the comprehension of his opponents, demonstrating their inability to fully grasp the truth he imparts through his teachings.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.7316067917717066,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.92,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in response to the religious leaders' inquiry about his authority, delivers a masterful reply: Neither tell I you by what authority I do these things. This refusal to provide a direct answer highlights their evasiveness and underscores that Jesus derives his authority exclusively from God, not from any human source. By emphasizing the divine origin of his power, Jesus leaves his opponents unable to fully comprehend the profound truth he imparts through his teachings.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.667946933549747,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

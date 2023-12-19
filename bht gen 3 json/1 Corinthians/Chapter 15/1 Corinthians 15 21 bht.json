@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:13:44",
+    "verseRef": "1 Corinthians 15:21",
+    "bestBHT": {
+        "bht": "By man, both death and life take hold. Christ, the firstfruits of those who sleep, brings life to humanity in the same way that Adam brought death. The fundamental truth of this declaration is that only a human can usher in effects that permeate the entire human race. Adam, the bringer of death, belonged to the same nature as those upon whom he brought it. Similarly, Christ, the giver of life, shares the same nature as the race of men to whom He imparts it, serving as the foundation for the hope of resurrection.",
+        "wordCount": 94,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.280832277697952,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.18,
+        "commentatorTierSimilarities": [
+            37.0,
+            29.62,
+            33.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "MAN the bringer-in both of death and life: explanation (not proof) of Christ being the 'firstfruits of them that sleep.'\" ",
+            "The verity lying at the root of this verse is, that by MAN ONLY can general effects pervading the whole human race be introduced."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The first-fruits are of the same nature as the rest of the harvest; so Christ, the bringer of life, is of the same nature as the race of men to whom He brings it.\" ",
+            "Christ, the bringer of life, is of the same nature as the race of men.",
+            " ",
+            "Adam, the bringer of death, was of the same nature as the men on whom he brought it."
+        ],
+        "Albert Barnes": [
+            "In consequence of the sin of Adam all people die, or are subjected to temporal death.",
+            "If man had not sinned, he would have remained immortal on the earth, or would have been translated to heaven, as Enoch and Elijah were, without seeing death.",
+            "The resurrection through Christ will be with the assurance that all who are raised up by him shall never die again."
+        ],
+        "John Calvin": [
+            "Christ in like manner, who is the antitype, did not rise for himself alone; for he came, that he might restore everything that had been ruined in Adam.",
+            "The cause of death is Adam, and we die in him: hence Christ, whose office is to restore to us what we lost in Adam, is the cause of life to us.",
+            "And as the former was the beginning of death, so the latter is of life."
+        ],
+        "Philip Schaff": [
+            "For since by man came death a grandly rhythmical expression of the grand truth.",
+            "The ruin and recovery of humanity spring alike from within itself."
+        ],
+        "Archibald T. Robertson": [
+            "By man also (\u03b4\u03b1 \u03b4\u03b9' \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5). That is Jesus, the God-man, the Second Adam (Romans 5:12). The hope of the resurrection of the dead rests in Christ. "
+        ],
+        "John Gill": [
+            "The first man, by sin, was the cause of death; of its coming into the world, and upon all men.",
+            "Christ is the meritorious and procuring cause of the resurrection of his people; he by dying has abolished death.",
+            "All the dead will be raised by his power, and at the hearing of his voice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By man, both death and life are brought: Christ, the firstfruits of those who sleep, brings life to humanity in the same way that Adam brought death. The truth at the heart of this verse is that only a man can introduce effects that impact the entire human race. Adam, the bringer of death, belonged to the same nature as the men upon whom he brought it. Likewise, Christ, the bringer of life, shares the same nature as the race of men to whom He brings it. The hope of resurrection lies in Christ, the God-man, the Second Adam, who restores everything that was lost in the sin of the first man.",
+            "wordCount": 113,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.4487150597231535,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.76,
+            "commentatorTierSimilarities": [
+                38.95,
+                28.11,
+                32.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through man, both death and life are introduced. Christ, the firstfruits of the sleeping, brings life to humanity just as Adam brought death. The core truth of this passage is that only a human being can have such a pervasive impact on the entire human race. Adam, the one who brought death, shared the same nature as those on whom he brought it. Similarly, Christ, the one who brings life, shares the same nature as the race of humans to whom he brings it. Christ, the God-man, is the hope for the resurrection of the dead, as he restores what was lost in the first man's sin.",
+            "wordCount": 109,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.211048796648235,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.86,
+            "commentatorTierSimilarities": [
+                36.09,
+                29.07,
+                34.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By man, both death and life take hold. Christ, the firstfruits of those who sleep, brings life to humanity in the same way that Adam brought death. The fundamental truth of this declaration is that only a human can usher in effects that permeate the entire human race. Adam, the bringer of death, belonged to the same nature as those upon whom he brought it. Similarly, Christ, the giver of life, shares the same nature as the race of men to whom He imparts it, serving as the foundation for the hope of resurrection.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.280832277697952,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.18,
+            "commentatorTierSimilarities": [
+                37.0,
+                29.62,
+                33.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through man, both death and life are introduced. Christ, the firstfruits of those who sleep, brings life to humanity just as Adam brought death. The essential truth conveyed in this verse is that only a human can generate effects that encompass the entire human race. Adam, the bringer of death, shared the same nature as those upon whom he brought it. Similarly, Christ, the bringer of life, possesses the same nature as the race of men to whom He brings it. Christ, the God-man, is the source of hope for the resurrection of the dead, as He restores what was lost in the sin of the first man.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.3205691707791916,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.5,
+            "commentatorTierSimilarities": [
+                36.96,
+                28.89,
+                34.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Death and life are both wrought by man: Jesus, the firstfruits of the sleeping, brings life to humankind just as Adam brought death. At its core, this verse reveals that only a human can introduce widespread effects to the entire human race. Adam, the agent of death, shared the same nature as those upon whom he inflicted it. Likewise, Christ, the bearer of life, shares the same nature as the race of men to whom He imparts it. Through His death, Christ becomes the cause of life, offering hope for the resurrection to all.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.3160529775602248,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.35,
+            "commentatorTierSimilarities": [
+                36.9,
+                29.08,
+                34.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

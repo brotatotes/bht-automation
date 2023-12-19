@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:30:45",
+    "verseRef": "Acts 13:32",
+    "bestBHT": {
+        "bht": "We, Paul and Barnabas, joyfully bring you the good tidings of the promise. Our mission extends beyond the Jewish people and we embrace the role of being messengers of Christ. This promise encompasses all that was prophesied in the Old Testament, including Christ's advent, sufferings, death, and resurrection. As the apostles and eyewitnesses carry out their mission to the Jews, we are spreading the same glad truths in distant lands. Through the Gospel, we enjoy the fulfillment of the promise made to the fathers, receiving peace, pardon, righteousness, life, and salvation.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.9500013583942883,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+        "commentatorTierSimilarities": [
+            28.41,
+            41.33,
+            30.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The we is emphatic.",
+            "Stier observes how entirely Paul sinks himself, his history and commission from Christ, in the great Object of his preaching.",
+            "He and Barnabas were not of the number of those who came up with Him from Galilee unto Jerusalem, nor was their mission to the Jewish people."
+        ],
+        "Albert Barnes": [
+            "We preach the gospel, the good news. To a Jew, nothing could be more grateful intelligence than that the Messiah had come; to a sinner convinced of his sins nothing can be more cheering than to hear of a Saviour.",
+            "The promise here refers to all that had been spoken in the Old Testament respecting the advent, sufferings, death, and resurrection of Christ."
+        ],
+        "John Calvin": [
+            "He doth now challenge to himself the office and honor of an apostle, that he may be heard as a lawful minister of God.",
+            "They cannot refuse that which he offereth them, but they shall break the covenant made with the fathers by God, so much as in them shall lie.",
+            "Christ, who is the substance of all good things and of eternal life, was only promised to them, but he is given to us; and they desired him, as being far off; we enjoy him, being present."
+        ],
+        "Philip Schaff": [
+            "We (Paul and Barnabas) are preaching to you in these distant lands the same glad truths.",
+            "Paul went on to say, while the apostles and eyewitnesses are at this moment carrying out their mission in the Holy Land to the Jews.",
+            "And thus, Paul went on to say, while the apostles and eyewitnesses are at this moment carrying out their mission in the Holy Land to the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "We bring you good tidings of the promise."
+        ],
+        "John Gill": [
+            "The whole of the Gospel, concerning the incarnation, obedience, sufferings, death, and resurrection of Christ, and the benefits arising from thence, as peace, pardon, righteousness, life, and salvation; all which are good news and glad tidings to sensible sinners.\" ",
+            "The promise which was made unto the fathers... chiefly regards the promise of his coming into the world to do the will of God.\" ",
+            "It chiefly regards the promise of his coming into the world to do the will of God, which promise was made to Abraham, Isaac, Jacob, and Judah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We, Paul and Barnabas, come to you with great joy, bringing the good news of the promise. We consider it a privilege to be chosen as messengers of Christ and to preach the gospel to all nations, not just to the Jews. This promise encompasses everything spoken of in the Old Testament concerning the coming, suffering, death, and resurrection of Christ. While the apostles and eyewitnesses carry out their mission to the Jews in the Holy Land, we are here in distant lands, proclaiming these same joyful truths of salvation. Through the Gospel, we receive the fulfillment of the promise made to the fathers, enjoying the presence of Christ and all the blessings that come from him. This is indeed good news, offering peace, pardon, righteousness, and eternal life to all who believe in him.",
+            "wordCount": 135,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8809051254867075,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+            "commentatorTierSimilarities": [
+                24.96,
+                42.73,
+                32.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We, Paul and Barnabas, eagerly proclaim the good news of the promise to you. Our mission is not solely to the Jews, but to all nations. This promise encompasses the fulfillment of everything spoken in the Old Testament about Christ's coming, suffering, death, and resurrection. While the apostles and eyewitnesses are ministering in the Holy Land, we are spreading these same joyful truths in distant lands. Through the Gospel, we receive the fulfillment of the promise made to the fathers, enjoying the presence of Christ and the blessings of peace, pardon, righteousness, and eternal life.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.7751554435699806,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                25.75,
+                44.02,
+                30.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We, Paul and Barnabas, joyfully bring you the good tidings of the promise. Our mission extends beyond the Jewish people and we embrace the role of being messengers of Christ. This promise encompasses all that was prophesied in the Old Testament, including Christ's advent, sufferings, death, and resurrection. As the apostles and eyewitnesses carry out their mission to the Jews, we are spreading the same glad truths in distant lands. Through the Gospel, we enjoy the fulfillment of the promise made to the fathers, receiving peace, pardon, righteousness, life, and salvation.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.9500013583942883,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                28.41,
+                41.33,
+                30.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We, Paul and Barnabas, eagerly bring you the good news of the promise. Our mission is not limited to the Jewish people, but extends to all nations. This promise encompasses everything spoken of in the Old Testament regarding Christ's coming, sufferings, death, and resurrection. While the apostles and eyewitnesses fulfill their mission in the Holy Land, we proclaim these same truths in distant lands. Through the Gospel, we receive the fulfillment of the promise made to the fathers, enjoying the presence of Christ and the blessings of peace, pardon, righteousness, life, and salvation.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.8678876730101606,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.45,
+            "commentatorTierSimilarities": [
+                27.92,
+                41.88,
+                30.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We, Paul and Barnabas, embrace the profound duty of proclaiming the good news of the promise. Our mission is not confined to the Jewish people but extends to all nations. This promise encompasses every aspect of Christ's coming, suffering, death, and resurrection that was foretold in the Old Testament. While the apostles and eyewitnesses fulfill their mission in the Holy Land, we joyfully spread these same glad tidings in distant lands. Through the Gospel, we partake in the fulfillment of the promise made to the fathers, experiencing the presence of Christ and the abundant blessings of peace, pardon, righteousness, life, and salvation.",
+            "wordCount": 103,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 1.8221425352043743,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.93,
+            "commentatorTierSimilarities": [
+                26.71,
+                42.71,
+                30.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

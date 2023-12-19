@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:14:04",
+    "verseRef": "Luke 1:79",
+    "bestBHT": {
+        "bht": "The song of Zacharias in Luke 1:79 eloquently expresses the hopes and gratitude of a devout Jew awaiting the nearness of salvation, influenced by the Holy Spirit. St. Luke records these inspired utterances, reflecting his character and habits. Zacharias employs the terms to guide and to shine upon to convey the transformative power of Christ, dispelling darkness and leading those in the shadow of death on the path of peace. This song reverently acknowledges God's great mercy, providing deliverance from sin and offering the hope of eternal life.",
+        "wordCount": 88,
+        "quoteTokenProportion": 21.88,
+        "qualityScore": 2.053043171916285,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.6,
+        "commentatorTierSimilarities": [
+            30.91,
+            34.21,
+            34.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Care must be taken on the one hand not to degrade the expressions of this song of praise into mere anticipations of temporal prosperity, nor, on the other, to find in it the minute doctrinal distinctions of the writings of St. Paul.",
+            "It is the expression of the aspirations and hopes of a pious Jew, waiting for the salvation of the Lord, finding that salvation brought near, and uttering his thankfulness in Old Testament language, with which he was familiar, and at the same time under prophetic influence of the Holy Spirit.",
+            "That such a song should be inconsistent with dogmatic truth is impossible: that it should unfold it minutely is in the highest degree improbable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That St. Luke, of all the Evangelists, should have obtained and recorded these inspired utterances of Zacharias and Mary\u2014is in accordance with his character and habits.\" ",
+            "That St. Luke, of all the Evangelists, should have obtained and recorded these inspired utterances of Zacharias and Mary\u2014is in accordance with his character and habits.\" ",
+            "That St. Luke, of all the Evangelists, should have obtained and recorded these inspired utterances of Zacharias and Mary\u2014is in accordance with his character and habits."
+        ],
+        "Albert Barnes": [
+            "So man wandered. So he became benighted. So he sat in the shadow of death. So he knew not which way to go until the Sun of righteousness arose, and then the light shone brightly on his way, and the road was open to the promised land of rest - to heaven.",
+            "This song of Zechariah is exceedingly beautiful. It expresses with elegance the great points of the plan of redemption, and the mercy of God in providing that plan.",
+            "That mercy is 'great.' It is worthy of praise - of our highest, loftiest songs of thanksgiving; for we were in the shadow of death - sinful, wretched, wandering - and the light arose, the gospel came, and people may rejoice in hope of eternal life."
+        ],
+        "Marvin Vincent": [
+            "To guide . . . is formed through the old French dresser, to arrange, from the Latin dirigere, to set in a straight line, draw up.",
+            "Hence the military term dress for arranging a line."
+        ],
+        "John Calvin": [
+            "These words show, that out of Christ there is no life-giving light in the world, but every thing is covered by the appalling darkness of death.",
+            "But how could it be said that the Israelites, on whose hearts the Lord always shone by faith, were sitting in the shadow of death? I reply, the godly, who lived under the law were surrounded on every side by the darkness of death, and beheld at a distance, in the coming of Christ, the light that cheered and preserved them from being overwhelmed by present death.",
+            "To guide our feet... the highest perfection of all excellence and happiness is to be found in Christ alone."
+        ],
+        "Philip Schaff": [
+            "To them that sit in darkness and the shadow of death.",
+            "in a darkness, in which death reigns, deprived of the light of spiritual life.",
+            "To guide our feet into the way of peace."
+        ],
+        "Archibald T. Robertson": [
+            "To shine upon (\u03b5\u03c0\u03b9\u03c6\u03b1\u03bd\u03b1). An old verb to give light, to shine upon, like the sun or stars.",
+            "The shadow of death (\u03c3\u03ba\u03b9\u03b1 \u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5). Darkness and shadow of death are combined as here.",
+            "The light will enable them in the dark to see how to walk in a straight path that leads to 'the way of peace.'"
+        ],
+        "John Gill": [
+            "To give light to them that sit in darkness... in the shadow of death.",
+            "Christ, the great light arose, and shone upon them; and communicated spiritual light, life, and heat unto them.",
+            "He came... to make peace for us, by the blood of his cross; and so... lead us into the true way of enjoying spiritual peace here, and eternal peace hereafter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The song of Zacharias in Luke 1:79, expressing his gratitude for the nearness of salvation, is not to be understood as a mere anticipation of worldly prosperity or as an exposition of intricate theological concepts. Rather, it represents the heartfelt aspirations and hopes of a devout Jew, familiar with the Old Testament language and influenced by the prophetic guidance of the Holy Spirit. The inclusion of these inspired utterances by St. Luke aligns with his character and habits. By using terms like to guide and to shine upon, Zacharias emphasizes the transformation brought about by the coming of Christ, illuminating the dark and straightening the path for those sitting in the shadow of death, leading them on the way of peace. Through the light of Christ, man's benightedness ends, darkness is dispelled, and the path to heaven and rest is illuminated. The greatness of God's mercy is highlighted, for it rescued us from sinful wandering and offered hope of eternal life.",
+            "wordCount": 162,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 1.9807229461815887,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                28.59,
+                35.11,
+                36.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The song of Zacharias in Luke 1:79 expresses the hopes and gratitude of a pious Jew awaiting salvation, influenced by the prophetic guidance of the Holy Spirit. St. Luke records these utterances, consistent with his character and habits. Zacharias uses terms like to guide and to shine upon to describe the transformative power of Christ, bringing light to those sitting in darkness and the shadow of death, leading them on the path of peace. God's great mercy is praised for delivering us from sin and offering hope of eternal life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 2.005975029835406,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+            "commentatorTierSimilarities": [
+                29.91,
+                33.54,
+                36.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The song of Zacharias in Luke 1:79 captures the deep longings of a devout Jew who eagerly awaits the salvation of the Lord. Inspired by the Holy Spirit, Zacharias uses Old Testament language to express his gratitude and hope. St. Luke's inclusion of these inspired utterances aligns with his character and practice. Zacharias emphasizes the transformative power of Christ, guiding those in darkness and shadow of death onto the pathway of peace. This song praises the great mercy of God, bringing light to our lives and offering the hope of eternal life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 23.44,
+            "qualityScore": 1.9707746242667796,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                29.44,
+                35.09,
+                35.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The song of Zacharias in Luke 1:79 reflects the aspirations and gratitude of a pious Jew, eagerly anticipating the salvation of the Lord. Inspired by the Holy Spirit, Zacharias uses familiar Old Testament language to convey his thankfulness. St. Luke's inclusion of these inspired utterances aligns with his character and habits. By speaking of being guided and enlightened, Zacharias emphasizes the transformative power of Christ who leads those in darkness and the shadow of death on a path toward peace. This song praises God's great mercy, offering hope and eternal life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 24.24,
+            "qualityScore": 1.917754026784762,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+            "commentatorTierSimilarities": [
+                32.52,
+                33.79,
+                33.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The song of Zacharias in Luke 1:79 eloquently expresses the hopes and gratitude of a devout Jew awaiting the nearness of salvation, influenced by the Holy Spirit. St. Luke records these inspired utterances, reflecting his character and habits. Zacharias employs the terms to guide and to shine upon to convey the transformative power of Christ, dispelling darkness and leading those in the shadow of death on the path of peace. This song reverently acknowledges God's great mercy, providing deliverance from sin and offering the hope of eternal life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 21.88,
+            "qualityScore": 2.053043171916285,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.6,
+            "commentatorTierSimilarities": [
+                30.91,
+                34.21,
+                34.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

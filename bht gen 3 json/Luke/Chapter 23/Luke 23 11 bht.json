@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:23:39",
+    "verseRef": "Luke 23:11",
+    "bestBHT": {
+        "bht": "Stung with disappointment, Herod, in an attempt to mock Jesus, adorned Him in a shining robe, be it purple or white, ridiculing His claim to be the King of the Jews. Ironically, in treating Jesus with such contempt, Herod unknowingly honored Him, similar to Pilate's acknowledgement on the cross. This act of clothing Jesus in splendid apparel served to further shame Him, subjecting Him to ridicule. However, God used Herod's pride and indifference to fulfill His divine purposes and display His glory.",
+        "wordCount": 84,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 2.087137029819628,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.74,
+        "commentatorTierSimilarities": [
+            24.36,
+            35.97,
+            39.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "his men of war are the body-guard in attendance upon Herod.",
+            "a gorgeous robe...either purple, as befitting a king,\u2014and why should this not be the very 'scarlet robe' afterwards used by Pilate\u2019s soldiers (Matt. xxvii. 28; 'purple robe,' John xix. 2)?",
+            "or white, as the word rendered 'bright' is understood by, some (but see note), Acts x. 30."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "stung with disappointment at His refusal to amuse him with miracles or answer any of his questions.",
+            "If this mean (as sometimes) of shining white, this being the royal color among the Jews, it may have been in derision of His claim to be 'King of the Jews.'",
+            "He in reality honored Him, as did Pilate with His true title blazoned on the cross."
+        ],
+        "Albert Barnes": [
+            "Treated him with contempt and ridicule.",
+            "The Roman princes wore 'purple' robes, and 'Pilate,' therefore, put such a robe on Jesus.",
+            "All this was unlawful and malicious, as there was not the least evidence of his guilt."
+        ],
+        "Marvin Vincent": [
+            "Gorgeous [\u03bb\u03b1\u03bc\u03c0\u03c1\u03b1\u03bd]. Lit., bright or brilliant.\" ",
+            "Wyc. and Tynd., white.",
+            "Apparel [\u03b5\u03b4\u03b8\u03b7\u03c4\u03b1]. The general term for raiment."
+        ],
+        "John Calvin": [
+            "And yet the pride of Herod, which shut the door on the grace of God, admits of no excuse.",
+            "Nor can it be doubted that God, in order to punish him for his former indifference, purposely hardened his heart by such a spectacle.",
+            "But by this contempt of Christ we have acquired new dignity, so that we are now held in estimation by God and by angels."
+        ],
+        "Philip Schaff": [
+            "Set him at nought, treated Him contemptuously, and mocked him, with words and actions alike.",
+            "And arraying him in gorgeous apparel. This garment was put on in mockery, and hence brilliant.",
+            "Sent him back to Pilate. This may have been designed to conciliate Pilate, but it is in keeping with the frivolous conduct of Herod throughout."
+        ],
+        "Archibald T. Robertson": [
+            "Set him at nought, to count as nothing, to treat with utter contempt, as zero.",
+            "Arraying him in gorgeous apparel, brilliant, shining as in James 2:2, so different from the modest dress of the Master.",
+            "This was part of the shame."
+        ],
+        "John Gill": [
+            "Made nothing of him; had him in no account; treated him as a silly, and contemptible creature.",
+            "Mocked him; as a king, and made sport and pastime with him.",
+            "Arrayed him in a gorgeous robe; in contempt of his being a king."
+        ],
+        "John Wesley": [
+            "Herod set him at nought \u2014 Probably judging him to be a fool, because he answered nothing.",
+            "In a splendid robe \u2014 In royal apparel; intimating that he feared nothing from this king."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Herod, stung with disappointment and seeking to ridicule Jesus, dressed Him in a brilliant, shining robe. This garment, whether purple or white, was meant to mock His claim as the King of the Jews. Interestingly, in this act of contempt, Herod unknowingly honored Jesus, just as Pilate did with His true title on the cross. The arraying of Jesus in this gorgeous apparel served as part of the shame He endured, making Him a spectacle for mockery and ridicule. Despite the pride and indifference of Herod, God used this as an opportunity to bring about His divine purposes and to demonstrate His own glory.",
+            "wordCount": 104,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 2.0965286528348184,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.05,
+            "commentatorTierSimilarities": [
+                25.23,
+                37.05,
+                37.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stung by disappointment, Herod sought to ridicule Jesus by dressing Him in a brilliant, shining robe. This mockery of His claim as the King of the Jews only served to inadvertently honor Him, just as Pilate did on the cross. Jesus endured this shame, becoming a spectacle for contempt and mockery. It is through this act of contempt that God's divine purposes were fulfilled, displaying His glory despite the pride and indifference of Herod.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.0750329512859755,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.34,
+            "commentatorTierSimilarities": [
+                23.41,
+                37.12,
+                39.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stung with disappointment, Herod, in an attempt to mock Jesus, adorned Him in a shining robe, be it purple or white, ridiculing His claim to be the King of the Jews. Ironically, in treating Jesus with such contempt, Herod unknowingly honored Him, similar to Pilate's acknowledgement on the cross. This act of clothing Jesus in splendid apparel served to further shame Him, subjecting Him to ridicule. However, God used Herod's pride and indifference to fulfill His divine purposes and display His glory.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.087137029819628,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.74,
+            "commentatorTierSimilarities": [
+                24.36,
+                35.97,
+                39.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stung with disappointment, Herod dressed Jesus in either a purple or white, shining robe, meant to belittle His claim to be the King of the Jews. Paradoxically, in treating Jesus with such contempt, Herod unknowingly bestowed honor upon Him, echoing Pilate's acknowledgement on the cross. This act of adorning Jesus in opulent attire added to His humiliation, subjecting Him to ridicule. Nevertheless, God used Herod's pride and indifference to fulfill His divine purposes and manifest His glory.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.050991393962711,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                24.92,
+                36.62,
+                38.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stung by disappointment, Herod cloaked Jesus in a brilliant, shining robe, whether it be purple or white, ridiculing His claim as the King of the Jews. Ironically, in this act of contempt, Herod unwittingly honored Him, similar to Pilate's display on the cross. The extravagant attire served to further shame Jesus, subjecting Him to mockery. Yet, God providentially used Herod's pride and indifference to accomplish His divine plans and reveal His glory in the midst of it all.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.057819079503491,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.76,
+            "commentatorTierSimilarities": [
+                25.13,
+                35.13,
+                39.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

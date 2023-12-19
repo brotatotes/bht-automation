@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:41:01",
+    "verseRef": "2 Peter 3:4",
+    "bestBHT": {
+        "bht": "Presumptuous skepticism and lawless lust set nature and its so-called laws above the God of revelation. The scoffers argue from the continuity of nature's phenomena, claiming that there can be no future interruption. They mockingly question the promise of Christ's coming, doubting its fulfillment despite the preaching of Peter, Jesus, and Paul. However, they fail to understand the hope of resurrection, which views death as a literal sleep followed by awakening. Jesus' parables urge readiness for His coming while cautioning against setting specific dates.",
+        "wordCount": 87,
+        "quoteTokenProportion": 32.86,
+        "qualityScore": 1.8368896535518626,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.42,
+        "commentatorTierSimilarities": [
+            37.76,
+            33.97,
+            28.27
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Presumptuous skepticism and lawless lust, setting nature and its so-called laws above the God of nature and revelation",
+            "Arguing from the past continuity of nature's phenomena that there can be no future interruption to them",
+            "The 'scoffers' here are not necessarily atheists, nor do they maintain that the world existed from eternity. They are willing to recognize a God, but not the God of revelation."
+        ],
+        "Albert Barnes": [
+            "Where is the promise of his coming? They evidently meant to imply that the promise had utterly failed; that there was not the slightest evidence that it would be accomplished; that they who had believed this were entirely deluded.",
+            "Those old men, said the seeing objector, have died like others; and, notwithstanding their confident predictions, things now move on as they did from the beginning.",
+            "The specious and plausible objection arising from this source, the apostle proposes to meet in the following verses."
+        ],
+        "Marvin Vincent": [
+            "From the beginning of the creation. Not a common phrase.",
+            "Fell asleep. A literal and correct translation of the word, which occurs frequently in the New Testament.",
+            "The difference between the pagan and the Christian usage lies in the fact that, in the latter, it was defined by the hope of the resurrection, and therefore was used literally of a sleep, which, though long, was to have an awakening."
+        ],
+        "John Calvin": [
+            "It was a dangerous scoff when they insinuated a doubt as to the last resurrection; for when that is taken away, there is no gospel any longer, the power of Christ is brought to nothing, the whole of religion is gone.",
+            "All religion is wholly subverted, except faith in the resurrection remains firm and immovable.",
+            "They set the regular course of nature, such as it seems to have been from the beginning, in opposition to the promise of God, as though these things were contrary, or did not harmonize together."
+        ],
+        "Philip Schaff": [
+            "The question, put with triumphant scorn by these mockers, repeats the cherished terms used by believers... the very form (\u2018His Coming,\u2019 not \u2018Christ\u2019s Coming,\u2019 or the \u2018Lord\u2019s Coming\u2019) in which they were accustomed to refer to Him who was so much the one object of their thoughts as to need no identification by name among them.",
+            "Their argument will be taken from the delay in the fulfilment of \u2018that blessed hope\u2019 (Titus 2:13) of the Christian brotherhood, and from the unbroken uniformity of things. The idea seems to be that, taking it for granted that some great disturbance in the system of the world will be necessarily involved in such an event as the Advent of Christ, and failing to see any signs of an interruption in the old order, they will deride the event itself.",
+            "The meaning is the same as if the sentence had taken this more regular form: \u2018In spite of this promise, your fathers to whom it was given have passed away, and all things still continue the same since then, as indeed they have continued from their first creation.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Peter, like Paul (1 Thessalonians 5:1; 2 Thessalonians 2:1), preached about the second coming (2 Peter 1:16; Acts 3:20), as Jesus himself did repeatedly (Matthew 24:34) and as the angels promised at the Ascension (Acts 1:11).",
+            "Both Jesus and Paul (2 Thessalonians 2:1) were misunderstood on the subject of the time and the parables of Jesus urged readiness and forbade setting dates for his coming.",
+            "Fell asleep (\u03b5\u03ba\u03bf\u03b9\u03bc\u03b7\u03b8\u03b7\u03c3\u03b1\u03bd). First aorist passive indicative of \u03ba\u03bf\u03b9\u03bc\u03b1\u03c9, old verb, to put sleep, classic euphemism for death (John 11:11) like our cemetery (sleeping-place)."
+        ],
+        "John Gill": [
+            "What is become of the promise of his coming? Where the accomplishment of it?",
+            "But where is the fulfilment of all this? He is not come, nor is there any sign or likelihood of it.",
+            "Reasoning from the settled order of things...to the future continuance of things, without any alteration; and consequently, that Christ would not come..."
+        ],
+        "John Wesley": [
+            "Saying, Where is the promise of his coming... We see no sign of any such thing.\" ",
+            "For ever since the fathers... Continue as they were from the beginning of the creation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Presumptuous skepticism and lawless lust, setting nature and its so-called laws above the God of nature and revelation, lead the scoffers to argue that there can be no interruption to the past continuity of nature's phenomena. Although they are willing to recognize a God, they refuse to accept the God of revelation. The scoffers mockingly question the promise of His coming, using the familiar terms believers commonly refer to Him. Their argument stems from the delay in the fulfillment of the Christian brotherhood's blessed hope and the unbroken uniformity of things. They deride the event of His advent, believing that if it were to occur, it would interrupt the old order of things. However, this objection fails to acknowledge the hope of the resurrection, which affirms a literal sleep followed by awakening. Despite the mockers' doubts, Peter, like Jesus and Paul, preached about the second coming and urged readiness without attempting to set dates.",
+            "wordCount": 157,
+            "quoteTokenProportion": 30.48,
+            "qualityScore": 1.8868908846048218,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                33.3,
+                38.61,
+                28.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Presumptuous scoffers question the promise of Christ's coming, doubting its fulfillment. They argue that past continuity in nature proves there will be no interruption in the future. These skeptics recognize a god, but not the God of revelation. Despite their doubts, Peter, like Jesus and Paul, preached about the second coming. They misunderstand the timing of this event, but Jesus' parables stress the importance of readiness and caution against setting dates. The objection of the scoffers fails to consider the hope of resurrection, which views death as a literal sleep with an awakening.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.771637650851141,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.25,
+            "commentatorTierSimilarities": [
+                35.3,
+                36.41,
+                28.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Presumptuous skepticism and lawless lust set nature and its so-called laws above the God of revelation. The scoffers argue from the continuity of nature's phenomena, claiming that there can be no future interruption. They mockingly question the promise of Christ's coming, doubting its fulfillment despite the preaching of Peter, Jesus, and Paul. However, they fail to understand the hope of resurrection, which views death as a literal sleep followed by awakening. Jesus' parables urge readiness for His coming while cautioning against setting specific dates.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.8368896535518626,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.42,
+            "commentatorTierSimilarities": [
+                37.76,
+                33.97,
+                28.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Presumptuous skeptics prioritize the laws of nature over the God of revelation, arguing that past continuity proves there will be no disruption in the future. They mockingly question the promise of Christ's coming, doubting its fulfillment. However, they fail to grasp the hope of resurrection, which views death as a literal sleep followed by awakening. Peter, Jesus, and Paul all preached about the second coming, emphasizing the need for readiness and warning against setting specific dates. Despite the scoffers' doubts, the promise remains steadfast.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.7522586632239308,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                32.62,
+                35.53,
+                31.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Presumptuous skeptics, driven by skepticism and desire, prioritize nature and its so-called laws over the God of revelation. They argue that past continuity in nature implies no future interruption. Mocking the promise of Christ's coming, they doubt its fulfillment. However, they fail to understand the hope of resurrection, which compares death to a literal sleep with an awakening. Peter, like Jesus and Paul, preached about the second coming while discouraging setting specific dates. The objection of the scoffers overlooks the assurance of the promised future.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.7228452046058629,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.63,
+            "commentatorTierSimilarities": [
+                34.02,
+                36.95,
+                29.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

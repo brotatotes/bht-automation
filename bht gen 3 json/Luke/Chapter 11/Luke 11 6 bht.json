@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:17:56",
+    "verseRef": "Luke 11:6",
+    "bestBHT": {
+        "bht": "In the East, it was customary to travel late at night for coolness. The number of three loaves is not specified, but the significance of the request is explored in allegorical interpretations. The phrase to set before him means to place something beside him. This parable illustrates intercessory prayer, with one of the loaves being for the person making the request. The hungry traveler represents the awakening of spiritual hunger. It is possible that the traveler has lost his way and is in need of refreshment after a long journey.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 1.3509186908374626,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.26,
+        "commentatorTierSimilarities": [
+            28.2,
+            46.48,
+            25.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the East it was and is the custom to travel late at night, for coolness sake.",
+            "Why three loaves does not appear.",
+            "I forbear to give the allegorical interpretations of the number, which abound: the significance of the thing asked for, see below on ver. 13."
+        ],
+        "Philip Schaff": [
+            "The request here is for another, hence the parable illustrates intercessory prayer; yet one of the loaves is for him who asks.",
+            "The hungry traveler coming at night to one who cannot satisfy him may represent the awakening of spiritual hunger in the soul.",
+            "Such an interpretation cannot be insisted upon."
+        ],
+        "Archibald T. Robertson": [
+            "To set before him (\u03bf \u03c0\u03b1\u03c1\u03b1\u03b8\u03b7\u03c3\u03c9 \u03b1\u03c5\u03c4\u03c9).",
+            "Which I shall place beside him . Future active of \u03c0\u03b1\u03c1\u03b1\u03c4\u03b9\u03b8\u03b7\u03bc. See Luke 9:16 for this same verb. "
+        ],
+        "John Gill": [
+            "For a friend of mine in his journey... and I have nothing to set before him.\" ",
+            "Having lost his way... being benighted... having rambled about for some time.",
+            "To refresh him with, after such a fatigue, before he goes to bed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the East, it was customary to travel late at night for coolness. The number of three loaves is not specified, but various allegorical interpretations exist. The phrase to set before him means to place something beside him. This parable illustrates intercessory prayer, with one of the loaves being for the person making the request. The hungry traveler represents the awakening of spiritual hunger. While this interpretation cannot be insisted upon, it is possible that the traveler has lost his way and is in need of refreshment after a long journey.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.34214138261378,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.97,
+            "commentatorTierSimilarities": [
+                27.03,
+                49.74,
+                23.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the East, it was customary to travel late at night for coolness. The number of three loaves is not specified, but various allegorical interpretations exist. This parable illustrates intercessory prayer, with one of the loaves being for the person making the request. The hungry traveler represents the awakening of spiritual hunger. While this interpretation cannot be insisted upon, it is possible that the traveler has lost his way and is in need of refreshment after a long journey.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.3314464931256194,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.61,
+            "commentatorTierSimilarities": [
+                25.09,
+                56.65,
+                18.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the East, it was customary to travel late at night for coolness. The number of three loaves is not specified, but the significance of the request is explored in allegorical interpretations. The phrase to set before him means to place something beside him. This parable illustrates intercessory prayer, with one of the loaves being for the person making the request. The hungry traveler represents the awakening of spiritual hunger. It is possible that the traveler has lost his way and is in need of refreshment after a long journey.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.3509186908374626,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.26,
+            "commentatorTierSimilarities": [
+                28.2,
+                46.48,
+                25.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the East, late-night travel was common for coolness. The number of three loaves isn't specified, but allegorical interpretations discuss the significance of the request. To set before him means to place something beside him. This parable illustrates intercessory prayer, with one loaf for the person asking. The hungry traveler symbolizes spiritual hunger. While not definitive, it could represent someone lost and fatigued, in need of refreshment.",
+            "wordCount": 69,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.2879763545591718,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.17,
+            "commentatorTierSimilarities": [
+                27.57,
+                44.47,
+                27.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Late-night travel in the East was customary for coolness. The specific count of three loaves isn't mentioned, but the allegorical interpretations explore its significance. To set before him means to place something beside him. This parable serves as an illustration of intercessory prayer, with one loaf designated for the requester. The hungry traveler embodies the awakening of spiritual hunger. Although not conclusive, it could symbolize someone lost, fatigued, and in need of refreshment.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.2653936464100206,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.42,
+            "commentatorTierSimilarities": [
+                29.31,
+                42.69,
+                27.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

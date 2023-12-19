@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:30:45",
+    "verseRef": "Acts 13:22",
+    "bestBHT": {
+        "bht": "It is said that the Lord removed King Saul and made David king because David was a man after God's own heart - a man who would not be rebellious and disobedient, but would do the will of God and keep his commandments. God had respect for the continual course of David's life, rather than every particular action. David's desire for a purer and better life, his devotion to God, and his remorse whenever he fell were noble characteristics. As king, David rigidly guarded the people from idolatry and kept them faithful to God.",
+        "wordCount": 96,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1444141727472297,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.64,
+        "commentatorTierSimilarities": [
+            19.67,
+            42.45,
+            37.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He removed him... by his death, for David was not made king till then.",
+            "The two passages... are interwoven together: both were spoken of David, and both by prophetic inspiration.",
+            "That such citations are left in their present shape in our text, forms a strong presumption that we have the speeches of St. Paul word for word as delivered by him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "22. I have found David, c.\u2014This",
+            "\tquotation is the substance of Psalms 89:20",
+            "Samuel 13:14; and perhaps also of 1 Samuel 13:14- :."
+        ],
+        "Albert Barnes": [
+            "He gave testimony - He bore witness.",
+            "A man after mine own heart - This means simply a man who would not be rebellious and disobedient as Saul was, but would do the will of God and keep his commandments.",
+            "The characteristic of David would be that he would obey the commands of God."
+        ],
+        "John Calvin": [
+            "By extolling him so highly, [God's] intent is to lift up the minds of the faithful unto Christ in his person.",
+            "God had respect rather unto the continual course of [David's] life, than unto every of his particular actions.",
+            "The common calling of all the faithful in Christ, the head, is here depicted out to us."
+        ],
+        "Philip Schaff": [
+            "It was not until Saul had perished that David became king, although he had been anointed during the lifetime of Saul.",
+            "In our estimate of the character of this king \u2018after God\u2019s own heart,\u2019 we must ever remember his nobility of aim and purpose, his unwearied labour for the welfare of the peoples committed to his charge, his devotion to God, his longing after a purer and better life, his bitter remorse whenever he fell.",
+            "One characteristic especially distinguished David\u2019s rule he rigidly guarded the people from idolatry and all the abominations which attended idol-worship, and kept them faithful to the adoration of the pure and holy God of their fathers."
+        ],
+        "Archibald T. Robertson": [
+            "To be (\u03b5\u03b9\u03c2). As or for, Greek idiom like the Hebrew le, common in the LXX.",
+            "Knowling thinks that this free and rather loose quotation of the substance argues for the genuineness of the report of Paul's sermon.",
+            "Note 'wills' (\u03b8\u03b5\u03bb\u03b7\u03bc\u03b1\u03c4\u03b1), plural, of God."
+        ],
+        "John Gill": [
+            "he raised up unto them David to be their king; who was of the tribe of Judah, and who was raised from a very mean condition, from keeping of sheep, to sit upon the throne of Israel.",
+            "a man after mine own heart; on whom the heart of God was set, and who had an interest in his heart's love, and to whom he was exceeding grateful and acceptable; God took great delight and pleasure in him.",
+            "which shall fulfil all my will; in governing the people, subduing their enemies, settling the order of divine worship and service, and preparing things for the building of the temple; and who also had a regard to all the commandments of God, and walked in them."
+        ],
+        "John Wesley": [
+            "Having removed him \u2014 Hence they might understand that the dispensations of God admit of various changes.",
+            "I have found David, a man after my own heart \u2014 This expression is to be taken in a limited sense. David was such at that time, but not at all times.",
+            "David was not a man after God's own heart, in other respects, wherein he performed his own will. In the matter of Uriah, for instance, he was as far from being a man after God's own heart as Saul himself was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is said that the Lord removed King Saul and made David king because David was a man after God's own heart - a man who would not be rebellious and disobedient, but would do the will of God and keep his commandments. God had respect for the continual course of David's life, rather than every particular action. David's desire for a purer and better life, his devotion to God, and his remorse whenever he fell were noble characteristics. As king, David rigidly guarded the people from idolatry and kept them faithful to God. Through these accounts, the faithful are reminded of their common calling in Christ.",
+            "wordCount": 109,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.032974856520039,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                20.27,
+                41.09,
+                38.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is said that the Lord removed King Saul and made David king because David was a man after God's own heart - a man who would not be rebellious and disobedient, but would do the will of God and keep his commandments. God had respect for the continual course of David's life, rather than every particular action. David's desire for a purer and better life, his devotion to God, and his remorse whenever he fell were noble characteristics. As king, David rigidly guarded the people from idolatry and kept them faithful to God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1444141727472297,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.64,
+            "commentatorTierSimilarities": [
+                19.67,
+                42.45,
+                37.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "David was chosen by God to be king because he was a man after God's own heart - someone who would faithfully follow God's will and commandments. God valued the overall direction of David's life more than individual actions. David's longing for a more righteous life, his devotion to God, and his remorse when he made mistakes were noteworthy traits. As king, David was committed to protecting his people from idolatry and ensuring their faithfulness to the true God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.0230373080156205,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+            "commentatorTierSimilarities": [
+                20.03,
+                40.95,
+                39.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God chose David as king because he was a man after God's own heart, obedient to God's commands. David's overall life direction was more significant to God than individual actions. His longing for righteousness, devotion to God, and remorse when he erred were commendable attributes. As king, David diligently protected the people from idolatry. The faithful are reminded of their common calling in Christ through David's story. The Lord's intent is to direct believers' minds to Christ and depict the calling of all believers in Him as the head.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.938946309379659,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                22.57,
+                38.56,
+                38.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God chose David as king because he was a man after God's own heart, obedient to His commands. David's life direction mattered more to God than individual actions. His longing for righteousness, devotion to God, and remorse were admirable. As king, David protected the people from idolatry and led them to worship the true God. Through David's story, the faithful are reminded of their common calling in Christ and encouraged to set their minds on Him as the ultimate example.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9219078929445554,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "commentatorTierSimilarities": [
+                20.95,
+                40.16,
+                38.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

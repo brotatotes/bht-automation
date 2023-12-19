@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:39",
+    "verseRef": "1 Peter 3:18",
+    "bestBHT": {
+        "bht": "Christ suffered once for our sins, passing away his sufferings and bringing us, the unjust, into heaven with him. Through his death, Christ transitioned from a fleshly mortal life to a spiritual resurrection life. As believers, we are called to share in his suffering and follow the same path from lowliness to glory. His example should inspire us to endure patiently, knowing that his spirit did not die but instead gained new powers of life.",
+        "wordCount": 75,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.250079324840873,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+        "commentatorTierSimilarities": [
+            33.07,
+            32.35,
+            34.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Christ suffered once: His sufferings are summed up and passed away: He shall suffer no more. And we are suffering 'once:' it shall be soon so thought of and looked back upon.\" ",
+            "He, the God-man Christ Jesus, body and soul, ceased to live in the flesh, began to live in the Spirit; ceased to live a fleshly mortal life, began to live a spiritual resurrection life.\" ",
+            "It is impossible, throughout this difficult and most important passage, to report all the various shades of difference of opinion which even the greater expositors have given us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is 'better' for us also once to suffer with Christ, than for ever without Christ.\" ",
+            "He brings us, 'the unjust,' justified together with Him into heaven.",
+            "The several steps of Christ's progress from lowliness to glory are trodden over again by His people in virtue of their oneness with Him."
+        ],
+        "Albert Barnes": [
+            "The expression, 'hath once suffered,' in the New Testament, means once for all; once, in the sense that it is not to occur again.\" ",
+            "The purposes of the atonement required that he should meet death in the usual form; that the great laws which operate everywhere else in regard to dissolution, should exist in his case.\" ",
+            "It remains, then, that the reference is to his own divine nature - a nature by which he was restored to life after he was crucified; to the Son of God, regarded as the Second Person of the Trinity."
+        ],
+        "Marvin Vincent": [
+            "Just for unjust.",
+            "Read in flesh, the material form assumed in his incarnation.",
+            "Spirit, on the other hand, is that side of his being according to which he belongs to a supernal sphere of being, and is therefore not merely a creature of earth, and is destined to an immortal existence."
+        ],
+        "John Calvin": [
+            "For Christ also [...] suffer for righteousness\u2019 sake.\" ",
+            "What a comfort it is to have our cause connected with God.\" ",
+            "The death of Christ had a blessed issue; for though he suffered [...] life obtained the victory."
+        ],
+        "Philip Schaff": [
+            "Christ's suffering or dying is represented to have taken place on account of sin, in the matter of sin, or in respect of sin; for the preposition used here has this general sense.",
+            "This verse, therefore, establishes a certain analogy between Christ and Christians, in so far as He was made subject to suffering not less than they, and was made so not for His own fault but for that of others.",
+            "The gain which [Christ's sufferings] secured, by which also they pre-eminently illustrate the good which suffering for righteousness' sake yields, and how preferable it is to suffer, if suffer we must, for well-doing rather than ill-doing, was the otherwise unattainable boon of a direct approach for sinners to God, a free intercourse with God."
+        ],
+        "Archibald T. Robertson": [
+            "The example of Christ should stir us to patient endurance.",
+            "This is what gives Christ's blood value. He has no sin himself. Some men today fail to perceive this point.",
+            "The spirit of Christ did not die when his flesh did, but 'was endued with new and greater powers of life' (Thayer)."
+        ],
+        "John Gill": [
+            "He suffered much by bearing the griefs, and carrying the sorrows of his people, whereby he became a man of sorrows, and acquainted with griefs, from his cradle to his cross.",
+            "He suffered in his soul, from the wrath of God, and curses of the law, which lay upon him; and in his body, by many buffetings, scourges, wounds, and death itself, even the death of the cross.",
+            "Now, as the enemies of Christ could do no more than put him to death in the flesh, so the enemies of his people can do no more than kill the body, and cannot reach the soul."
+        ],
+        "John Wesley": [
+            "For sins \u2014 Not his own, but ours.",
+            "The just for the unjust \u2014 The word signifies, not only them who have wronged their neighbours, but those who have transgressed any of the commands of God; as the preceding word, just, denotes a person who has fulfilled, not barely social duties, but all kind of righteousness.",
+            "That he might bring us to God \u2014 Now to his gracious favour, hereafter to his blissful presence, by the same steps of suffering and of glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ suffered once for our sins, his sufferings summed up and passed away, while we as believers are also called to suffer once with Christ. Through his death, Christ ceased to live in the flesh and began to live in the Spirit, exemplifying the journey from lowliness to glory that we too experience in our oneness with Him. His suffering was not for His own sake but for ours as the just for the unjust, allowing us to be justified and brought into heaven with Him. This verse establishes the analogy between Christ and Christians, emphasizing that His suffering was on account of sin and secured the unattainable boon of direct access to God for sinners.",
+            "wordCount": 116,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 2.414455950490847,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.62,
+            "commentatorTierSimilarities": [
+                30.41,
+                36.72,
+                32.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ suffered once for our sins, passing away his sufferings and bringing us, the unjust, into heaven with him. Through his death, Christ transitioned from a fleshly mortal life to a spiritual resurrection life. As believers, we are called to share in his suffering and follow the same path from lowliness to glory. His example should inspire us to endure patiently, knowing that his spirit did not die but instead gained new powers of life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.250079324840873,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                33.07,
+                32.35,
+                34.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ suffered once, bringing us, the unjust, into heaven with him. His death marked the transition from a fleshly mortal life to a spiritual resurrection life. As believers, we are called to share in his suffering and follow the same path from lowliness to glory. His example should inspire us to patiently endure, knowing that his spirit gained new powers of life. His suffering was not for his own sake but for ours as the just for the unjust. This allowed us to be justified and brought into direct access to God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.011687272529209,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                33.23,
+                31.04,
+                35.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ suffered once, bringing us, the unjust, into heaven with him. Through his death and resurrection, he transitioned from a fleshly mortal life to a spiritual resurrection life. In our oneness with him, we follow his example by enduring suffering and progressing from lowliness to glory. His spirit, far from perishing, was endowed with new and greater powers of life. His suffering was not for his own sake, but for ours\u2014allowing us to be justified and have direct access to God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.0978712352925344,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                34.33,
+                30.75,
+                34.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ suffered once, passing away his sufferings for the unjust and bringing us into heaven with him. He transitioned from a fleshly mortal life to a spiritual resurrection life, setting an example for us to patiently endure. His spirit was endowed with new and greater powers of life, emphasizing the value of his blood and his sinlessness. Through his suffering, he secured the otherwise unattainable boon of direct access to God for sinners, demonstrating the superiority of suffering for well-doing over ill-doing.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.1742693414801915,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.64,
+            "commentatorTierSimilarities": [
+                31.28,
+                33.46,
+                35.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

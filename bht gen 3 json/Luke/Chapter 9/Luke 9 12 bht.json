@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:17:03",
+    "verseRef": "Luke 9:12",
+    "bestBHT": {
+        "bht": "As the day began to wear away and the sun started to decline, Jesus Himself asked Philip and Andrew about how to address the needs of the hungry crowd. The three disciples provide their accounts, while John offers a slightly different perspective. The disciples were concerned about the lack of lodging and provisions in the desert place, prompting them to suggest that Jesus send the multitude away.",
+        "wordCount": 67,
+        "quoteTokenProportion": 32.65,
+        "qualityScore": 1.2227202469779648,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.0,
+        "commentatorTierSimilarities": [
+            43.44,
+            0.0,
+            56.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The enquiry proceeds from our Lord Himself.",
+            "Addressed to Philip, and answered by Philip and Andrew.",
+            "The Three agree in their account, and St. John differs from them."
+        ],
+        "Marvin Vincent": [
+            "And when the day began to wear away...to decline. Wyc., very literally, to bow down.\" ",
+            "Lodge...Primarily the verb means to break up or dissolve. Hence often in New Testament to destroy.\" ",
+            "Victuals...Only here in New Testament. Properly a stock of provisions. Thus Xenophon."
+        ],
+        "Archibald T. Robertson": [
+            "The sun was turning down towards setting.",
+            "The verb 'to dissolve, destroy, overthrow' then of travellers to break a journey, to lodge.",
+            "Victuals, only here in the N.T., though common in ancient Greek, especially for provisions for a journey (snack)."
+        ],
+        "John Gill": [
+            "When the day began to wear away... when the sun was declining... when the evening time was come.",
+            "Send the multitude away, that they may go into the towns and country round about.",
+            "For we are here in a desert place; which afforded no conveniency for lodging, nor any supply of food."
+        ],
+        "John Wesley": [
+            "Matthew 14:15; Mark 6:35; John 6:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the day began to wear away and the sun started to decline, Jesus Himself asked Philip and Andrew about how to address the needs of the hungry crowd. The three disciples provide their accounts, while John offers a slightly different perspective. The verb to lodge implies breaking up or dissolving, and victuals refers to a stock of provisions. With the sun turning down towards setting, it becomes clear that the disciples were concerned about the lack of lodging and food in the desert place. This situation prompted them to suggest that Jesus send the multitude away.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.1723826610616606,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.33,
+            "commentatorTierSimilarities": [
+                47.98,
+                0.0,
+                52.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the day began to wear away and the sun started to decline, Jesus Himself asked Philip and Andrew about how to address the needs of the hungry crowd. The three disciples provide their accounts, while John offers a slightly different perspective. The verb to lodge implies breaking up or dissolving, and victuals refers to a stock of provisions. With the sun turning down towards setting, it becomes clear that the disciples were concerned about the lack of lodging and food in the desert place.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.1984990168547665,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.19,
+            "commentatorTierSimilarities": [
+                52.25,
+                0.0,
+                47.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the day began to wear away and the sun started to decline, Jesus Himself asked Philip and Andrew about how to address the needs of the hungry crowd. The three disciples provide their accounts, while John offers a slightly different perspective. The disciples were concerned about the lack of lodging and provisions in the desert place, prompting them to suggest that Jesus send the multitude away.",
+            "wordCount": 67,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.2227202469779648,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.0,
+            "commentatorTierSimilarities": [
+                43.44,
+                0.0,
+                56.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the day began to wear away and the sun started to decline, Jesus Himself inquired into the situation, addressing Philip and Andrew, who provided their accounts. The verb to lodge implies breaking up or dissolving, while victuals refers to a stock of provisions. The disciples expressed their concern about the lack of lodging and adequate food in the desert place, prompting them to suggest that Jesus send the multitude away.",
+            "wordCount": 71,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.2194423111604842,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.89,
+            "commentatorTierSimilarities": [
+                55.77,
+                0.0,
+                44.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the day began to wear away and the sun started to decline, Jesus Himself enquired about the situation, addressing Philip and Andrew, who provided their accounts. The disciples expressed their concern about the lack of lodging and adequate food in the desert place, suggesting that Jesus send the multitude away. The verb to lodge implies breaking up or dissolving, while victuals refers to a stock of provisions. Their concerns about provisions were valid, given the desert location.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.127263474868458,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.83,
+            "commentatorTierSimilarities": [
+                53.56,
+                0.0,
+                46.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

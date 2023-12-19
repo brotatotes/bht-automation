@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:16:09",
+    "verseRef": "Luke 7:13",
+    "bestBHT": {
+        "bht": "In this profound moment, Jesus, referred to as 'Lord,' showcases His divine authority and compassion. Breaking from tradition, He takes the lead in the funeral procession, displaying His care and empathy for the grieving widow. His act of compassion stems from the noblest instincts of His being, as love and pity are frequently mentioned as motives for His miracles. With the gentle command, weep not, Jesus offers solace and reassurance, embodying His role as the Resurrection and the Life who can transform sorrow into joy.",
+        "wordCount": 85,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.5738249345687325,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+        "commentatorTierSimilarities": [
+            27.31,
+            39.15,
+            33.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "This sublime appellation is more usual with Luke and John than Matthew; Mark holds the mean\" [BENGEL].",
+            "What consolation to thousands of the bereaved has this single verse carried from age to age!"
+        ],
+        "Marvin Vincent": [
+            "Had it been in Judaea, the hired mourners and musicians would have preceded the bier; in Galilee they followed.\" ",
+            "First came the women; for, as an ancient Jewish commentary explains, woman, who brought death into our world, ought to lead the way in the funeral procession.",
+            "Had compassion [\u03b5\u03c3\u03c0\u03bb\u03b1\u03b3\u03c7\u03bd\u03b9\u03c3\u03b8\u03b7] . From splagcna, the nobler entrails, regarded as the seat of the affections."
+        ],
+        "Philip Schaff": [
+            "The title \u2018Lord\u2019 is peculiarly fitting here.",
+            "Weep not. The first sign of compassion; and a token of coming help.",
+            "Our Lord, by His death and resurrection, has become \u2018the Resurrection and the Life\u2019 in the highest sense, always affording to His people a ground for the command, \u2018weep not,\u2019 of which this miracle was only a sign."
+        ],
+        "Archibald T. Robertson": [
+            "The Lord of Life confronts death.",
+            "Often love and pity are mentioned as the motives for Christ's miracles.",
+            "Cease weeping."
+        ],
+        "John Gill": [
+            "And when the Lord saw her, he had compassion on her....\" ",
+            "Knowing her case, that she was a widow, and had lost her only son: and said unto her, weep not; signifying, that he would help her.",
+            "He did it without being asked to do it, as usual in other cases."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 7:13, we see the Lord Jesus Christ demonstrating His compassion and love in a profound way. Unlike other mourners who followed the procession, Jesus took the lead, showing His deep care and empathy for the grieving widow. His compassion was not simply a superficial feeling, but a heartfelt response that flowed from the very depths of His being. By addressing her with the title Lord, we recognize the divine authority and power that Jesus possessed. With His command to weep not, He reassures her that her sorrow will soon be turned into joy, for He is the Resurrection and the Life, offering hope and comfort even in the face of death.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.523724356324087,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.01,
+            "commentatorTierSimilarities": [
+                23.9,
+                40.0,
+                36.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus displays His divine authority and compassion by taking the lead in the funeral procession, showing care and empathy for the grieving widow. As the Lord of Life, He confronts death and offers solace to those who mourn. With the command, weep not, Jesus assures the widow that her sorrow will be turned into joy through His power as the Resurrection and the Life. His miraculous actions reflect His deep love and mercy for humanity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6441862156645544,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                27.37,
+                36.16,
+                36.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, Jesus, being addressed as 'Lord,' reveals His divine authority and compassion. Instead of following the customary order, Jesus takes the lead in the funeral procession, showing His care and empathy for the grieving widow. His act of compassion stems from the very depths of His being, as compassion is mentioned as the motive for His miracles. By commanding the widow to weep not, Jesus offers her hope and comfort, as He is the Resurrection and the Life, capable of turning sorrow into joy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6321114271330126,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.61,
+            "commentatorTierSimilarities": [
+                26.92,
+                36.97,
+                36.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this remarkable encounter, Jesus, addressed as 'Lord,' captures our attention with His divine authority and compassion. By choosing to lead the funeral procession, He reveals His deep care and empathy for the grieving widow. His remarkable act of compassion demonstrates that love and pity are often the motives behind His miracles. With the tender command, weep not, Jesus offers comfort and assurance, for He is the Resurrection and the Life who can transform sorrow into joy.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5337532874074533,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+            "commentatorTierSimilarities": [
+                25.94,
+                39.55,
+                34.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this profound moment, Jesus, referred to as 'Lord,' showcases His divine authority and compassion. Breaking from tradition, He takes the lead in the funeral procession, displaying His care and empathy for the grieving widow. His act of compassion stems from the noblest instincts of His being, as love and pity are frequently mentioned as motives for His miracles. With the gentle command, weep not, Jesus offers solace and reassurance, embodying His role as the Resurrection and the Life who can transform sorrow into joy.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.5738249345687325,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                27.31,
+                39.15,
+                33.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

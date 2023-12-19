@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:40:21",
+    "verseRef": "2 Peter 1:15",
+    "bestBHT": {
+        "bht": "The Apostle Peter, with the memory of the transfiguration in mind, desires that believers may on every occasion have it in your power after my decease... to exercise the memory of these things. This is not just about remembering, but about having these truths in earnest remembrance as precious and momentous. Peter wants them to be able to recall these teachings at all times, even after his departure, to arm themselves against forgetfulness. The term tabernacle serves as a confirming link between this Epistle and the transfiguration account.",
+        "wordCount": 88,
+        "quoteTokenProportion": 49.25,
+        "qualityScore": 1.7974972757228125,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+        "commentatorTierSimilarities": [
+            38.76,
+            33.2,
+            28.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Moreover I will endeavour that ye may on every occasion have it in your power after my decease... to exercise the memory of these things.\" ",
+            "It is at least remarkable that, with the recollection of the scene on the mount of transfiguration floating in his mind, the Apostle should use so close together the words which were there also associated...",
+            "The coincidence should not be forgotten in treating of the question of the genuineness of the Epistle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "endeavour\u2014'use my diligence': this is the field in which my diligence has scope.",
+            "Tabernacle\" is another term found here as well as there (Luke 9:31; Luke 9:33): an undesigned coincidence confirming Peter's authorship of this Epistle.",
+            "Not merely 'to remember,' as sometimes we do, things we care not about; but 'have them in (earnest) remembrance,' as momentous and precious truths."
+        ],
+        "Albert Barnes": [
+            "He meant not only to declare his sentiments orally, but to record them that they might be perused when he was dead.",
+            "A man on the borders of eternity is likely to have a very deep sense of the value of the Christian religion.",
+            "Every man\u2019s experience of the value of religion, and the results of his examination and observation, should be regarded as the property of the world, and should not be lost."
+        ],
+        "Marvin Vincent": [
+            "Lit., that you may have it. A similar use of have, in the sense of to be able, occurs",
+            "Exod. is a literal transcript of the word, and is the term used by Luke in his account of the transfiguration.",
+            "The coincidence should not be forgotten in treating of the question of the genuineness of the epistle."
+        ],
+        "Philip Schaff": [
+            "But I shall also give diligence (or, diligently provide) that at all times ye may be able after my decease to call up the memory of these things.",
+            "The word, too, properly speaking, means \u2018on each occasion,\u2019 or \u2018at all times as they rise.\u2019",
+            "Most probably, however, he is simply expressing his intention to continue to communicate with them, as he had already been doing, on the great truths of the Gospel as long as opportunity presented itself, and thus to arm them to the utmost against the peril of forgetfulness."
+        ],
+        "Archibald T. Robertson": [
+            "Peter may also have had an intimation by vision of his approaching death.",
+            "At every time (\u03b5\u03ba\u03b1\u03c3\u03c4\u03bf\u03c4\u03b5). As need arises.",
+            "That ye may be able (\u03b5\u03c7\u03b5\u03b9\u03bd \u03c5\u03bc\u03b1\u03c2). Literally, 'that ye may have it.'"
+        ],
+        "John Gill": [
+            "He signifies, that he should not only use all diligence to stir them up to, and put them in remembrance of the necessary duties of their calling while he was alive, but should make it his study to concert some measures, and take some steps.\" ",
+            "this world being, like Egypt, a place of wickedness, misery, and bondage; as heaven, like Canaan, a place and state of rest and happiness.",
+            "by this, and his former epistle, though being dead, he yet speaketh."
+        ],
+        "John Wesley": [
+            "That ye may be able \u2014 By having this epistle among you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle Peter, with the vivid memory of the transfiguration in mind, is earnestly striving to ensure that the believers may on every occasion have it in your power after my decease\u2026 to exercise the memory of these things. This desire to diligently provide for the remembrance of these important truths is evident in the use of the term tabernacle as a confirming link between this Epistle and the transfiguration account. Peter's intention is not simply for them to remember these teachings, but to have them in earnest remembrance as momentous and precious truths. He wants them to be able to call up the memory of these things at all times as the need arises, even after his departure from this world, so that they may be armed against the peril of forgetfulness.",
+            "wordCount": 134,
+            "quoteTokenProportion": 44.05,
+            "qualityScore": 1.8781233780337134,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                36.48,
+                37.85,
+                25.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle Peter, with the memory of the transfiguration in mind, desires that believers may on every occasion have it in your power after my decease... to exercise the memory of these things. This is not just about remembering, but about having these truths in earnest remembrance as precious and momentous. Peter wants them to be able to recall these teachings at all times, even after his departure, to arm themselves against forgetfulness. The term tabernacle serves as a confirming link between this Epistle and the transfiguration account.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.7974972757228125,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+            "commentatorTierSimilarities": [
+                38.76,
+                33.2,
+                28.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle Peter expresses his earnest endeavor to ensure that after his death, believers may have the ability to remember and exercise the profound truths he had imparted to them. He desires not just mere recollection, but to have these crucial teachings firmly etched in their minds as precious and significant. This desire to preserve the memory is highlighted by the use of the term tabernacle, connecting it with the transfiguration account. Peter seeks to equip them against forgetfulness, urging them to call upon these truths as the need arises.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.7135030010023498,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+            "commentatorTierSimilarities": [
+                35.15,
+                38.74,
+                26.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle Peter, with the vivid memory of the transfiguration in mind, is earnestly striving to ensure that believers may on every occasion have it in your power after my decease\u2026 to exercise the memory of these things. This desire to diligently provide for the remembrance of these important truths is evident in the use of the term tabernacle as a confirming link between this Epistle and the transfiguration account. Peter wants them to be able to call up the memory of these things at all times as the need arises, even after his departure from this world, so that they may be armed against the peril of forgetfulness.",
+            "wordCount": 109,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.9056324990386984,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                37.96,
+                35.43,
+                26.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle Peter, deeply influenced by the memory of the transfiguration, is passionately committed to ensuring that believers will remember and reflect on the important teachings he has shared. He desires that they have the ability to recall these truths even after his death, considering them as precious and significant. The use of the term tabernacle further connects this Epistle to the transfiguration account, offering evidence of Peter's authorship. Peter's aim is for believers to have continuous access to these teachings, equipped against the danger of forgetting them.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.736043021593299,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                35.03,
+                34.19,
+                30.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

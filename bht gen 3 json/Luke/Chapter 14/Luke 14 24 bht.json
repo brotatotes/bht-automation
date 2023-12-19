@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:20:04",
+    "verseRef": "Luke 14:24",
+    "bestBHT": {
+        "bht": "Our Lord clearly reveals that the parable presented is actually a proclamation of the Supper being His very own. When the final glorification comes, even those who rejected the invitation will desperately long for another chance to taste it, but they will be denied. It is important to note that this parable must not be confused with the parable in Proverbs 1:24-33. These words should not be understood as Jesus permanently shutting the door on the Jews who may turn to Him; rather, He is summing up His reasons as the Master of the feast. The supper in question is known as the eating dread in the kingdom of God, also called my supper given in honor of Jesus. Those who reject Him are ultimately refusing God's invitation.",
+        "wordCount": 128,
+        "quoteTokenProportion": 45.35,
+        "qualityScore": 1.7865312649887182,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+        "commentatorTierSimilarities": [
+            35.7,
+            40.41,
+            23.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Our Lord here appears to throw off the veil of the parable, and proclaim the Supper His own.\" ",
+            "When transferred and transformed into its final glorious form, and the refusers themselves would give all for another opportunity, He will not allow one of them to taste it.",
+            "This parable must not be confounded with that of Proverbs 1:24-33; The Marriage Supper."
+        ],
+        "Albert Barnes": [
+            "None of those men - This cannot be understood as meaning that no 'Jews' would be saved, but that none of those who had 'treated him, in that manner' - none who had so decidedly rejected the offer of the gospel - would be saved.",
+            "We may here see how dangerous it is 'once' to reject the gospel; how dangerous to grieve away the Holy Spirit.",
+            "How important, then, is it to embrace the gospel 'at once;' to accept the gracious invitation, and enter without delay the path that conducts to heaven!"
+        ],
+        "Philip Schaff": [
+            "The whole discourse gains greater vividness and point, if we regard the parable as closed in Luke 14:23, and our Lord as directly applying it here.",
+            "This is the eating Dread in the kingdom of God, to which you look forward; though it is God\u2019s feast, to which God has invited, it is \u2018my supper,\u2019 given in my honor, though I have come \u2018in the form of a servant\u2019 to invite you.",
+            "None of those men.... shall taste of my supper. As if He would say: This is the eating Dread in the kingdom of God, to which you look forward; though it is God\u2019s feast, to which God has invited, it is \u2018my supper,\u2019 given in my honor, though I have come \u2018in the form of a servant\u2019 to invite you; and none of you will enter, because in refusing me, you refuse to obey the second summons of God who has before invited you through His word."
+        ],
+        "Archibald T. Robertson": [
+            "We do not have to say that Jesus shuts the door now in the face of the Jews who may turn to him.",
+            "Here it is still the Master of the feast who is summing up his reasons for his conduct.",
+            "My supper (\u03bc\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03b9\u03c0\u03bd\u03bf\u03c5)."
+        ],
+        "John Gill": [
+            "For I say unto you,.... Most solemnly affirm it, and even swear to it, nothing is more certain, or will be found more true.",
+            "nor did, nor shall taste of my supper: nor had they so much as a superficial knowledge of the Gospel, of the truths, blessings, promises, and ordinances of it.",
+            "but as for the first disbelievers and rejecters of Christ among the Jews, they died in their sins, and perished eternally."
+        ],
+        "John Wesley": [
+            "For refers to Go out, Luke 14:23."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord reveals that the parable he just shared is actually a proclamation of the Supper being His own. When the final glorification arrives, even those who refused the invitation will desperately long for another opportunity to taste it, yet they will be denied. It is important to note that this parable should not be confused with the parable in Proverbs 1:24-33. We should not interpret this as Jesus permanently shutting the door on the Jews who may turn to Him. Instead, He is summing up His reasons for His conduct as the Master of the feast. The supper mentioned here is the eating dread in the kingdom of God, which is also known as my supper given in Jesus' honor. Those who reject Jesus are ultimately refusing God's invitation.",
+            "wordCount": 130,
+            "quoteTokenProportion": 45.88,
+            "qualityScore": 1.7490843698552871,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                38.43,
+                38.97,
+                22.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord clearly reveals that the parable presented is actually a proclamation of the Supper being His very own. When the final glorification comes, even those who rejected the invitation will desperately long for another chance to taste it, but they will be denied. It is important to note that this parable must not be confused with the parable in Proverbs 1:24-33. These words should not be understood as Jesus permanently shutting the door on the Jews who may turn to Him; rather, He is summing up His reasons as the Master of the feast. The supper in question is known as the eating dread in the kingdom of God, also called my supper given in honor of Jesus. Those who reject Him are ultimately refusing God's invitation.",
+            "wordCount": 128,
+            "quoteTokenProportion": 45.35,
+            "qualityScore": 1.7865312649887182,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                35.7,
+                40.41,
+                23.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord reveals that the parable is actually a proclamation of the Supper being His own. When the final glorification comes, even those who refused the invitation will desperately long for another opportunity to taste it, but they will be denied. It is crucial not to confuse this parable with the one in Proverbs 1:24-33. We must not interpret this as Jesus permanently shutting the door on the Jews who may turn to Him. Here, Jesus is summing up His reasons as the Master of the feast. The supper in question is the eating dread in the kingdom of God, also known as my supper given in honor of Jesus. Those who reject Him are essentially refusing God's invitation.",
+            "wordCount": 119,
+            "quoteTokenProportion": 46.84,
+            "qualityScore": 1.7645226088913788,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                38.01,
+                38.31,
+                23.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord proclaims that the parable presented is actually the Supper belonging to Him. In the final glorification, even those who turned away from the invitation will desperately desire another opportunity to taste it, but they will not be granted. It is important to distinguish this parable from the one in Proverbs 1:24-33. We must not interpret this as Jesus permanently closing the door on the Jews who may turn to Him. He is summarizing His reasons as the Master of the feast. The supper mentioned is the eating dread in the kingdom of God, also referred to as my supper given in honor of Jesus. Those who reject Him are effectively disregarding God's invitation.",
+            "wordCount": 115,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.7186833320603623,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+            "commentatorTierSimilarities": [
+                38.46,
+                37.94,
+                23.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord unequivocally declares that the parable is actually a proclamation of the Supper belonging to Him. In the ultimate glorification, even those who rejected the invitation will desperately yearn for another opportunity to taste it, but they will be refused. It is important to differentiate this parable from the one in Proverbs 1:24-33. The interpretation should not conclude that Jesus permanently closes the door on Jews who may turn to Him. Jesus is presenting His rationale as the Master of the feast. The supper in question is the dread-filled feast in the kingdom of God, also known as my supper in His honor. Those who reject the invitation effectively reject God's call.",
+            "wordCount": 114,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.6915653202559402,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.59,
+            "commentatorTierSimilarities": [
+                37.12,
+                39.45,
+                23.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

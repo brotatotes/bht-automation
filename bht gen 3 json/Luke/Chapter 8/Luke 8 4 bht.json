@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:16:23",
+    "verseRef": "Luke 8:4",
+    "bestBHT": {
+        "bht": "The desire of those impressed by Jesus' discourses and miracles led them to gather from every city, as they kept coming to Him while He spoke a parable, seated in a boat with the multitude on the shore. This marked the beginning of a series of parables, with Luke mentioning the crowds but not the location, while Mark and Matthew both indicate that Jesus was by the seaside. It was the gathering crowd that prompted Jesus to enter the boat and deliver His teachings.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.9420925110929526,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+        "commentatorTierSimilarities": [
+            32.1,
+            30.77,
+            37.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The present participle gathering, is overlooked by the A.V.",
+            "It was the desire of those who had been impressed by His discourses and miracles to be further taught, that brought them together to Him now.",
+            "He spoke this parable sitting in a boat, and the multitude on the shore."
+        ],
+        "Marvin Vincent": [
+            "Out of every city [\u03ba\u03b1\u03c4\u03b1 \u03c0\u03bf\u03bb\u03b9\u03bd] . City by city. ",
+            "Were come [\u03b5\u03c0\u03b9\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bc\u03b5\u03bd\u03c9\u03bd] . The present participle denoting something in progress. They kept coming. Rev., resorted."
+        ],
+        "Philip Schaff": [
+            "The E.V. gives the wrong impression that He waited until all came; it was the gathering crowd that led Him to enter a boat.\" ",
+            "Those of every city, attracted out of the various places where He had preached.\" ",
+            "The three Evangelists agree, but show entire independence."
+        ],
+        "Archibald T. Robertson": [
+            "This is the beginning of the first great group of parables.",
+            "Luke does not locate the place, but he mentions the great crowds on hand.",
+            "Both Mark and Matthew name the seaside as the place where Jesus was at the start of the series of parables."
+        ],
+        "John Gill": [
+            "To Jesus, as he was by the sea side, the sea of Galilee, or Tiberias.",
+            "To hear him preach, and see miracles.",
+            "He spake by a parable; the following things."
+        ],
+        "John Wesley": [
+            "Matthew 13:1; Mark 4:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The desire of those who had been impressed by Jesus' discourses and miracles brought them together to him, as they kept coming from every city. Jesus sat in a boat and spoke this parable to the multitude gathered on the shore. This parable marked the beginning of a series of parables, and although Luke does not specify the location, both Mark and Matthew mention that Jesus was by the seaside. It was the gathering crowd that led Jesus to enter a boat and speak to them in parables.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.926100477206158,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.38,
+            "commentatorTierSimilarities": [
+                34.44,
+                29.57,
+                35.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The desire of those impressed by Jesus' discourses and miracles led them to gather from every city, as they kept coming to Him while He spoke a parable, seated in a boat with the multitude on the shore. This marked the beginning of a series of parables, with Luke mentioning the great crowds but not specifying the location, which is stated by Mark and Matthew as the seaside. It was the gathering crowd that prompted Jesus to enter the boat and deliver His teachings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9069201060252476,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                32.71,
+                31.69,
+                35.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The desire of those impressed by Jesus' discourses and miracles led them to gather from every city, as they kept coming to Him while He spoke a parable, seated in a boat with the multitude on the shore. This marked the beginning of a series of parables, with Luke mentioning the crowds but not the location, while Mark and Matthew both indicate that Jesus was by the seaside. It was the gathering crowd that prompted Jesus to enter the boat and deliver His teachings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9420925110929526,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                32.1,
+                30.77,
+                37.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who had been impressed by Jesus' teachings and miracles were drawn to Him, coming from every city to hear Him. He spoke a parable, sitting in a boat while the multitude gathered on the shore. This marked the beginning of a series of parables, with Luke mentioning the great crowds present. While Luke doesn't specify the location, both Mark and Matthew identify it as the seaside. The gathering crowd led Jesus to enter the boat and share His teachings through the parable.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8060740715693102,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.39,
+            "commentatorTierSimilarities": [
+                33.36,
+                29.2,
+                37.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "People were drawn to Jesus from every city, desiring to be further taught and to witness His miracles. Seated in a boat, Jesus spoke a parable to the multitude gathered on the shore. This marked the start of a series of parables, with Luke recalling the large crowds, while Mark and Matthew specify that Jesus was by the seaside. The gathering crowd prompted Jesus to enter the boat, where He shared His teachings through the parable.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.870910663611201,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                32.31,
+                28.95,
+                38.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

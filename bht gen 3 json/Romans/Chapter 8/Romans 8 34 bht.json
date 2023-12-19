@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:07:00",
+    "verseRef": "Romans 8:34",
+    "bestBHT": {
+        "bht": "Our faith should rest on Christ's death, but it should also progress to lean on His resurrection, dominion, and second coming. The living and glorified Christ, seated at the right hand of God, signifies His power and the efficacy of His death in our behalf. As our Advocate, He settled the debt with His blood, ensuring our freedom from condemnation. His resurrection provides greater security, and He continues to intercede for us, presenting His obedience, sufferings, and prayers for our salvation.",
+        "wordCount": 82,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.186746818292943,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+        "commentatorTierSimilarities": [
+            34.64,
+            29.83,
+            35.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "It was incomparably more delightful to think that He was again alive, and living to see to the efficacy of His death in our behalf.",
+            "Christ's sitting at the right hand of God... signifies the glory of the exalted Son of man, and the power in the government of the world in which He participates.",
+            "His Session at God's right hand denotes His power to save us; His Intercession, His will to do it."
+        ],
+        "Albert Barnes": [
+            "The function of passing sentence of condemnation on people shall pertain to Christ, the judge of quick and dead, and the apostle proceeds to say that it was certain that he would not condemn the elect of God. They were therefore secure.",
+            "As Christ died to save them, and as they have actually embraced his salvation, there is the highest security that he will not condemn them. This is the first argument for their security from the death of Christ.",
+            "The Christian is, therefore, under the protection of Christ, and is secure from being condemned by him."
+        ],
+        "Marvin Vincent": [
+            "Our faith should rest on Christ's death, but it should rather also so far progress as to lean on His resurrection, dominion, and second coming.",
+            "From the representations of the dead Christ the early believers shrank as from an impiety. To them He was the living, not the dead Christ.",
+            "He was the triumphant, the glorified, the infinite, not the agonized Christ in that one brief hour and power of darkness which was but the spasm of an eternal glorification."
+        ],
+        "John Calvin": [
+            "Now Christ is he, who, having once for all suffered the punishment due to us, thereby declared that he undertook our cause, in order to deliver us.\" ",
+            "But he has not only died, but also came forth, by a resurrection, as the conqueror of death and triumphed over all its power.",
+            "He teaches us also, that he thus sits, that he may be a perpetual advocate and intercessor in securing our salvation."
+        ],
+        "Philip Schaff": [
+            "Christ Jesus is the one who died, etc. The four great saving facts about Christ Jesus are here mentioned in order: His death, resurrection, ascension, and continued intercession.",
+            "Not His death alone, but His death followed by His resurrection gives security.",
+            "To the three great past facts is added one which is present and abiding."
+        ],
+        "Archibald T. Robertson": [
+            "It is a bold accuser who can face God with false charges or with true ones for that matter.\" ",
+            "We have an 'Advocate' at God's Court, 'who is at the right hand of God'.\" ",
+            "Our Advocate paid the debt for our sins with his blood. The score is settled. We are free."
+        ],
+        "John Gill": [
+            "none of God's elect are, or shall be condemned",
+            "their own hearts often condemn them; they are very forward to condemn one another; the world condemns them, and so does the god of it: but neither Father, Son, nor Spirit, will condemn them",
+            "the resurrection of Christ is rather a greater security from condemnation, than his death"
+        ],
+        "John Wesley": [
+            "Our faith should not stop at his death, but be exercised farther on his resurrection, kingdom, second coming.",
+            "Who maketh intercession for us \u2014 Presenting there his obedience, his sufferings, his prayers, and our prayers sanctified through him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our faith rests on Christ's death, but it should also progress to lean on His resurrection, dominion, and second coming. He is the living, triumphant, and glorified Christ who sits at the right hand of God, signifying His power and participation in the government of the world. As our Advocate, He paid the debt for our sins and settled the score. Therefore, we have utmost security in Him. Christ, the judge of the living and the dead, will not condemn the elect of God. His death, resurrection, ascension, and continued intercession provide us with the highest security. Christ's resurrection is a greater security from condemnation than His death alone. He sits at God's right hand as our perpetual advocate and intercessor, securing our salvation.",
+            "wordCount": 127,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.1212572209961937,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+            "commentatorTierSimilarities": [
+                31.95,
+                33.23,
+                34.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our faith rests on Christ's death, but it should also progress to lean on His resurrection, dominion, and second coming. As the living, triumphant, and glorified Christ, He sits at the right hand of God, signifying His power and participation in the world's government. Our Advocate settled the score by paying the debt for our sins. Christ, the judge of the living and the dead, will not condemn the elect of God. His resurrection provides a greater security from condemnation, and He intercedes for us, securing our salvation.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.112268057620936,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                33.89,
+                31.44,
+                34.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our faith should rest on Christ's death, but it should also progress to lean on His resurrection, dominion, and second coming. The living and glorified Christ, seated at the right hand of God, signifies His power and the efficacy of His death in our behalf. As our Advocate, He settled the debt with His blood, ensuring our freedom from condemnation. His resurrection provides greater security, and He continues to intercede for us, presenting His obedience, sufferings, and prayers for our salvation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.186746818292943,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+            "commentatorTierSimilarities": [
+                34.64,
+                29.83,
+                35.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our faith should rest on Christ's death, but it must also progress to depend on His resurrection, dominion, and second coming. The living, triumphing, and glorified Christ sits at the right hand of God, displaying His power and participation in governing the world. As our Advocate, He settled the debt for our sins and secured our freedom. Christ, the judge of all, will not condemn the elect of God. His resurrection provides greater security, as He continually intercedes to present our prayers and ensure our salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.0612441300687943,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+            "commentatorTierSimilarities": [
+                32.44,
+                31.15,
+                36.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our faith rests on Christ's death, but it should also progress to lean on His resurrection, dominion, and second coming. The living, triumphant, and glorified Christ sits at the right hand of God, signifying His power and participation in the world's government. Our Advocate settled the score by paying the debt for our sins. Christ will not condemn the elect of God. His resurrection provides a greater security from condemnation than His death alone. He intercedes for us, securing our salvation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.0247913664329915,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+            "commentatorTierSimilarities": [
+                32.58,
+                31.36,
+                36.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:11:40",
+    "verseRef": "1 Corinthians 10:28",
+    "bestBHT": {
+        "bht": "If a weak Christian at a heathen's table warns you about food that was offered in sacrifice, do not eat it for the sake of their conscience, not your own. By abstaining from such food, you avoid causing stumbling blocks or offense to your weak brother or sister. Remember, the earth is the Lord's, and the fulness thereof, and it is important to respect the concerns and beliefs of others, even if they differ from your own. This way, you can maintain unity and protect the conscience of your fellow believers.",
+        "wordCount": 93,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 2.0142048449338303,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+        "commentatorTierSimilarities": [
+            27.59,
+            36.15,
+            36.27
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Who is the person supposed to say this? not, as Grotius, al., think, the host, of whom the expression any man would hardly be used, but it would stand 'if he say unto you:' nor, as some think,\u2014some heathen guest, by whom it might be said maliciously, or to put the Christian to the proof,\u2014for his conscience would hardly be so much taken into account in the matter; but, some weak Christian, wishing to warn his brother.\" ",
+            "offered in sacrifice (without any mention of its being to idols: such is the reading of our principal ancient MSS.) is apparently placed advisedly, to represent what would be said at a heathen\u2019s table.",
+            "for his sake that shewed it] i.e. on account of the man who informed you, and (specifying the particular point or points to which the more general preceding clause applies) conscience: i.e. to spare the informer being wounded in his conscience."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If any man\u2014a weak Christian at table, wishing to warn his brother.",
+            "For conscience' sake\u2014not to cause a stumbling-block to the conscience of thy weak brother.",
+            "For the earth is the Lord's, &amp;c."
+        ],
+        "Albert Barnes": [
+            "Yet there might be present some scrupulous fellow Christian who would have strong doubts of the propriety of partaking of the food, and who would indicate it to the other guests.",
+            "Do not offend him; do not lead him into sin;, do not pain and wound his feelings.",
+            "Eat not, out of respect to the conscientious scruples of him that told thee that it had been offered to idols."
+        ],
+        "Marvin Vincent": [
+            "Some fellow - guest, probably a gentile convert, but, at all events, with a weak conscience.",
+            "Shewed [\u03bc\u03b7\u03bd\u03c5\u03c3\u03b1\u03bd\u03c4\u03b1] See on Luke 20:37 It implies the disclosure of a secret which the brother reveals because he thinks his companion in danger."
+        ],
+        "Philip Schaff": [
+            "But if any man say unto you, This hath been offered in sacrifice, eat not, for his sake that shewed it for your informant\u2019s sake and for conscience sake: conscience, I say, not thine own, but the other\u2019s the conscience of some weak brother who might be present.",
+            "For why is my liberty judged by another man\u2019s conscience?",
+            "When I eat what he knows to have been sacrificed to an idol, his conscience is hurt, but mine is not, provided I buy and eat it simply as wholesome food; for my liberty is not to be judged by his want of light on this subject."
+        ],
+        "Archibald T. Robertson": [
+            "Suppose at such a banquet a 'weak' brother makes the point to you: 'This hath been offered in sacrifice.'",
+            "Eat not. Pertinent illustration to the point of doing what is expedient and edifying.",
+            "That shewed it. First aorist active articular participle from \u03bc\u03b7\u03bd\u03c5\u03c9, old verb, to point out, to disclose."
+        ],
+        "John Gill": [
+            "Everything that came out of an idol's temple was forbidden, and was reckoned as the sacrifices of the dead; for it was not thought possible it could be there, and not offered to idols.\" ",
+            "Eat not for his sake that showed it: who, if a weak believer, will be grieved and wounded; and if an infidel, will be hardened in his impiety, and be furnished with an opportunity of reproaching the Christians, as variable, insincere, and unfaithful in their religion.",
+            "The earth is the Lord's, and the fulness thereof; which words are neither in the Syriac version, nor in the Vulgate Latin, nor in the Alexandrian copy, and some others, and are thought by some to be added, from 1 Corinthians 10:26 though the repetition of them is far from being impertinent; since they contain a very good reason why such a man should abstain from things sacrificed to idols."
+        ],
+        "John Wesley": [
+            "For his sake that showed thee, and for conscience' sake \u2014 That is, for the sake of his weak conscience, lest it should be wounded."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If a weak Christian at a heathen's table warns you about food that was offered in sacrifice, do not eat it for the sake of their conscience, not your own. By abstaining from such food, you avoid causing stumbling blocks or offense to your weak brother or sister. Remember, the earth is the Lord's, and the fulness thereof, and it is important to respect the concerns and beliefs of others, even if they differ from your own. This way, you can maintain unity and protect the conscience of your fellow believers.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.0142048449338303,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                27.59,
+                36.15,
+                36.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a weak Christian at a heathen's table warns you about food offered in sacrifice, do not eat it. Instead, abstain for their sake and for the sake of their conscience. By doing so, you avoid causing stumbling blocks or offense to your weak brother or sister. Remember that the earth is the Lord's, and the fulness thereof, and it is crucial to respect the concerns and beliefs of others, even if they differ from your own. This ensures unity and protects the conscience of your fellow believers.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.91328370499606,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                27.56,
+                34.02,
+                38.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If a weak Christian at a heathen's table warns you about food that was offered in sacrifice, do not eat it for their sake and for the sake of their conscience. By abstaining from such food, you avoid causing stumbling blocks or offense to your weak brother or sister. Remember, the earth is the Lord's, and the fulness thereof, and it is important to respect the concerns and beliefs of others, even if they differ from your own. This way, you can maintain unity and protect the conscience of your fellow believers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.0120597950989993,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
+            "commentatorTierSimilarities": [
+                27.38,
+                35.62,
+                37.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If a weak Christian at a heathen's table warns you about food offered in sacrifice, do not eat it. Instead, abstain for their sake and for the sake of their conscience. By doing so, you avoid causing stumbling blocks or offense to your weak brother or sister. Remember that the earth is the Lord's, and the fulness thereof, and it is crucial to respect the concerns and beliefs of others, even if they differ from your own. This ensures unity and protects the conscience of your fellow believers.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.91328370499606,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                27.56,
+                34.02,
+                38.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If a weak Christian warns you about food offered in sacrifice at a heathen's table, do not eat it. Abstain for their sake and their conscience. This prevents causing stumbling blocks or offense to your weak brother or sister. Remember that the earth is the Lord's, and the fulness thereof. Respecting the concerns and beliefs of others is important, even if they differ from your own. This promotes unity and protects the conscience of fellow believers.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.770448589588249,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                29.56,
+                32.74,
+                37.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

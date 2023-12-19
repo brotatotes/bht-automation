@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:17:59",
+    "verseRef": "2 Corinthians 11:6",
+    "bestBHT": {
+        "bht": "Though Paul's speech may lack rhetorical aptitude and power, his real knowledge is not to be underestimated. While his words may be deficient in oratorical artifice, he makes the Gospel truths manifest to all. Paul admits he is not an eloquent orator, but he denies being unskilled in knowledge. His goal is not to impress with eloquence, but to unfold the genuine simplicity of doctrine, conveying profitable and useful knowledge to benefit those he serves.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 1.9375903772386955,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+        "commentatorTierSimilarities": [
+            38.67,
+            18.92,
+            42.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Though in one particular he may fall short of them, viz. in rhetorical finish and word-wisdom, yet in real knowledge, not so.",
+            "The \u2018Apostle disclaims mere rhetorical aptitude and power in 1 Cor. ii. 1 ff. in my knowledge.",
+            "But in every matter we made things manifest (i. e. the things of the gospel, thereby shewing our knowledge) unto you before all men (i. e. with a view to your benefit)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His words were not without weight, though his 'speech' was deficient in oratorical artifice.\" ",
+            "We have made things (Gospel truths) manifest, thus showing our 'knowledge'.\" ",
+            "We have manifested the whole truth among all men with a view to your benefit."
+        ],
+        "Albert Barnes": [
+            "My language is that of a plain unlettered person.",
+            "I do not admit that I am ignorant of the religion which I profess to teach.",
+            "You have known all about me. I have concealed nothing from you, and you have had ample opportunity to become thoroughly acquainted with me."
+        ],
+        "Marvin Vincent": [
+            "Rude [\u03b9\u03b4\u03b9\u03c9\u03c4\u03b7\u03c2] . See on 1 Corinthians 14:16. ",
+            "Have been made manifest [\u03c6\u03b1\u03bd\u03b5\u03c1\u03c9\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2] . The correct reading is fanerwsantev, active voice, we have made it manifest."
+        ],
+        "John Calvin": [
+            "He was not distinguished by such splendid eloquence as others, to whom he yields the palm as to this, retaining for himself what was the principal thing \u2014 the reality itself, while he leaves them talkativeness without gravity.",
+            "If eloquence is superadded, let it be regarded by us as something over and above; and farther, let it not be made use of for disguising doctrine, or adulterating it, but for unfolding it in its genuine simplicity.",
+            "He means, therefore, that he needs not make use of words, inasmuch as reality and experience afford clear evidence of every thing that he was about to say."
+        ],
+        "Philip Schaff": [
+            "But though I be rude in speech.",
+            "Yet am I not (rude) in knowledge.",
+            "Nay, in everything we have made it manifest among all men to youward."
+        ],
+        "Archibald T. Robertson": [
+            "Paul admits that he is not a professional orator, but denies that he is unskilled in knowledge.\" ",
+            "He has made his mastery of the things of Christ plain among all men.\" ",
+            "He knew his subject."
+        ],
+        "John Gill": [
+            "He did not indeed, in his public ministry, dress his sermons with the flowers of rhetoric, or adorn his discourses with the words of human wisdom, with bombast, and great swelling words of vanity; he chose a plainer and easier style, more accommodated to the vulgar, to the capacities of the people he was concerned with.",
+            "He was always careful to convey profitable and useful knowledge to the souls of men.",
+            "His faith and doctrine, as well as manner of life, were well known unto them; he had not shunned to declare the whole counsel of God unto them."
+        ],
+        "John Wesley": [
+            "If I am unskilful in speech \u2014 If I speak in a plain, unadorned way, like an unlearned person. So the Greek word properly signifies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though Paul may not possess the polished oratory skills of other speakers, he does not lack in real knowledge. His words, though lacking in rhetorical flair, carry weight and clarity, making the truths of the Gospel manifest to all. He is not a professional orator, but his mastery of the teachings of Christ is evident. Paul's goal is not to impress with eloquence, but to convey important and beneficial knowledge to the people he serves.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.9006935424465765,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+            "commentatorTierSimilarities": [
+                39.7,
+                19.68,
+                40.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though Paul may not possess the polished oratory skills of other speakers, he does not lack in real knowledge. His words, though lacking in rhetorical flair, carry weight and clarity, making the truths of the Gospel manifest to all. He is not a professional orator, but his mastery of the teachings of Christ is evident. Paul's goal is not to impress with eloquence, but to convey important and beneficial knowledge to the people he serves.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.9006935424465765,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+            "commentatorTierSimilarities": [
+                39.7,
+                19.68,
+                40.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though Paul may lack in rhetorical finish and word-wisdom compared to others, he makes up for it with his real knowledge. His words, though deficient in oratorical artifice, manifest the whole truth of the Gospel among all people. Paul admits that he is not a professional orator, but he denies being unskilled in knowledge. His goal is not to impress with eloquence, but to unfold the genuine simplicity of doctrine, conveying profitable and useful knowledge to the souls of men.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9079139558464782,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                39.87,
+                18.7,
+                41.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though Paul may fall short in rhetorical finish and word-wisdom, his real knowledge is evident. His words, though deficient in oratorical artifice, manifest the whole truth among all people. Paul admits he is not a professional orator but denies his lack of knowledge. His goal is not eloquence but conveying profitable and useful knowledge, unfolding doctrine's genuine simplicity. He conveys the weight of his words by showing the Gospel's truths, ultimately benefiting those he serves.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8697711416572598,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+            "commentatorTierSimilarities": [
+                41.52,
+                17.22,
+                41.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though Paul's speech may lack rhetorical aptitude and power, his real knowledge is not to be underestimated. While his words may be deficient in oratorical artifice, he makes the Gospel truths manifest to all. Paul admits he is not an eloquent orator, but he denies being unskilled in knowledge. His goal is not to impress with eloquence, but to unfold the genuine simplicity of doctrine, conveying profitable and useful knowledge to benefit those he serves.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.9375903772386955,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                38.67,
+                18.92,
+                42.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

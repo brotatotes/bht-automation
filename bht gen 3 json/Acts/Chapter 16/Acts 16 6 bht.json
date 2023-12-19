@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:32:09",
+    "verseRef": "Acts 16:6",
+    "bestBHT": {
+        "bht": "The Apostle's route through Asia was uncertain, for they were hindered by the Holy Spirit from preaching there. Paul, Silas, and Timothy passed through the regions of Phrygia and Galatia, as they were forbidden by the Holy Spirit to preach in Asia. This prohibition opened the way for the gospel to be introduced into Europe and for Paul and Barnabas to embark on a more important and wider field of ministry in Macedonia. The faithful should understand that they were called freely when others were set aside, for it is due to the mercy of God alone.",
+        "wordCount": 98,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 1.8787365222259926,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+        "commentatorTierSimilarities": [
+            32.96,
+            39.37,
+            27.66
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostle\u2019s route must remain very uncertain.",
+            "They were known as a brave and freedom-loving people, fond of war, and either on their own or others\u2019 account, almost always in arms, and generally as cavalry.",
+            "Asia] This name, applied at first to the district near the river Ca\u00ffster in Lydia, came to have a meaning more and more widely extended, till at last it embraced as at present, the whole vast continent, forming one of the quarters of the globe."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "At this time must have been formed 'the churches of Galatia,' founded by the apostle Paul.\" ",
+            "Why these proceedings, so interesting as we should suppose, are not here detailed, it is not easy to say.\" ",
+            "They were forbidden of the Holy Ghost to preach the word in Asia."
+        ],
+        "Albert Barnes": [
+            "This prohibition was the means of the first introduction of the gospel into Europe.",
+            "In all this region the gospel was afterward preached with great success.",
+            "But now a more important and a wider field was opened before Paul and Barnabas in the extensive country of Macedonia."
+        ],
+        "Marvin Vincent": [
+            "Asia. See on ch. Acts 2:9."
+        ],
+        "John Calvin": [
+            "he knew that the Spirit of God was his guide in his way, and the governor of his actions.",
+            "there is no cause why we should wonder that in that confused wideness God beckoned unto him, as it were by reaching forth his hand, how far he would have him go, or whither.",
+            "let the faithful know that they were called freely when others were set aside, lest they take that to themselves which is due to the mercy of God alone."
+        ],
+        "Archibald T. Robertson": [
+            "Certainly the first tour of Paul and Barnabas was in the Province of Galatia though touching only the Regions of Pisidia, Phrygia, and Lycaonia, which province included besides the Gauls to the north.\" ",
+            "Does Luke mean to use 'of Galatia' in the same ethnographic sense as 'of Phrygia' or does he here add the province (Galatia) to the name of the Region (Phrygia)?\" ",
+            "The only natural meaning of \u03ba\u03c9\u03bb\u03c5\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2 is that Paul with Silas and Timothy 'passed through the region of Phrygia and Galatia' because they were hindered by the Holy Spirit from speaking the word in Asia."
+        ],
+        "John Gill": [
+            "this country had its name either from the river Phryx, as Pliny observes, or from the word Phrygios, which signifies 'dry'\".",
+            "The inhabitants of this country were originally Gauls, who under Brennus their captain, came out of some parts of France, and invaded Italy, and came to Rome, and took it all but the capitol\".",
+            "The reasons why it was prohibited to be preached here, at this time, cannot be said, and must be referred to the sovereign will of God\"."
+        ],
+        "John Wesley": [
+            "being forbid by the Spirit (probably by an inward dictate) to speak as yet in the proconsular Asia",
+            "the time for it not being come",
+            "spoken there what was sufficient"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle's route through Asia remains uncertain, for they were hindered by the Holy Spirit from preaching the word there. It is not easy to say why these proceedings are not detailed, as they would undoubtedly be of great interest. However, Paul, Silas, and Timothy passed through the regions of Phrygia and Galatia, as they were forbidden by the Holy Spirit to preach in Asia. This prohibition opened the way for the gospel to be introduced into Europe and for Paul and Barnabas to embark on a more important and wider field of ministry in Macedonia. The faithful should understand that they were called freely when others were set aside, for it is due to the mercy of God alone.",
+            "wordCount": 121,
+            "quoteTokenProportion": 41.98,
+            "qualityScore": 1.7440228761010488,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.33,
+            "commentatorTierSimilarities": [
+                34.23,
+                37.51,
+                28.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle's route through Asia remains uncertain, for they were hindered by the Holy Spirit from preaching the word there. However, Paul, Silas, and Timothy passed through the regions of Phrygia and Galatia, as they were forbidden by the Holy Spirit to preach in Asia. This prohibition opened the way for the gospel to be introduced into Europe and for Paul and Barnabas to embark on a more important and wider field of ministry in Macedonia. The faithful should understand that they were called freely when others were set aside, for it is due to the mercy of God alone.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.8620623789330675,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+            "commentatorTierSimilarities": [
+                33.42,
+                38.33,
+                28.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle's route in Asia was uncertain, as they were hindered by the Holy Spirit from preaching there. It is unclear why these proceedings are not detailed, but Paul, Silas, and Timothy passed through the regions of Phrygia and Galatia. This prohibition opened the way for the gospel to be introduced into Europe, leading Paul and Barnabas to a more important field in Macedonia. The faithful should understand that they were called freely, for it is due to the mercy of God alone.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.8176400730611197,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                32.05,
+                40.81,
+                27.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle's route through Asia was uncertain, for they were hindered by the Holy Spirit from preaching there. Paul, Silas, and Timothy passed through the regions of Phrygia and Galatia, as they were forbidden by the Holy Spirit to preach in Asia. This prohibition opened the way for the gospel to be introduced into Europe and for Paul and Barnabas to embark on a more important and wider field of ministry in Macedonia. The faithful should understand that they were called freely when others were set aside, for it is due to the mercy of God alone.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.8787365222259926,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+            "commentatorTierSimilarities": [
+                32.96,
+                39.37,
+                27.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle's route through Asia was uncertain, as they were hindered by the Holy Spirit from preaching there. Paul, Silas, and Timothy passed through the regions of Phrygia and Galatia, forbidden to preach in Asia. This prohibition allowed the gospel to be introduced into Europe, leading Paul and Barnabas to a wider ministry in Macedonia. The faithful should understand that their calling is a result of God's mercy, as they were chosen freely while others were set aside.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.836430495822572,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                33.4,
+                41.5,
+                25.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

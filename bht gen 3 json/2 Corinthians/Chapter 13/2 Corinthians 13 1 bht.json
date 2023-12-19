@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:18:50",
+    "verseRef": "2 Corinthians 13:1",
+    "bestBHT": {
+        "bht": "In Paul's letter, he mentions his impending third visit to the Corinthians, emphasizing the certainty of his arrival. He urges them to engage in self-examination as a preparation for his visit. Referring to the principle from Deuteronomy, Paul signals his intent to judge fairly and not hesitate to administer discipline based on evidence. Even though there is some disagreement about the number of visits Paul made, it is clear that he is determined to address the Corinthians and instruct them accordingly in his imminent arrival.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.8124403834233322,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+        "commentatorTierSimilarities": [
+            35.05,
+            43.03,
+            21.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This third time I am coming to you: i.e. 'this is the third visit which I am now about to pay you.'",
+            "The Apostle wishes to impress on them the certainty of this coming, and to prepare them for it by solemn self-examination.",
+            "Rejoice, viz. in the Lord, as Phil. iii. 1; iv. 4. See also 1 Thess. v. 16."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In the mouth of two or three witnesses shall every word be established.",
+            "I will judge not without examination, nor will I abstain from punishing upon due evidence.",
+            "The apostle in this case, where ordinary testimony was to be had, does not look for an immediate revelation, nor does he order the culprits to be cast out of the church before his arrival."
+        ],
+        "Albert Barnes": [
+            "But in regard to its application here, commentators are not agreed.",
+            "Some suppose that Paul refers to his own epistles which he had sent to them as the two or three witnesses by which his promise to them would be made certain.",
+            "But the more probable opinion, it seems to me, is that of Doddridge, Macknight, and others, that he anticipated that there wound be necessity for the administration of discipline there, but that he would feel himself under obligation in administering it to adhere to the reasonable maxim of the Jewish Law."
+        ],
+        "Marvin Vincent": [
+            "The great mass of modern expositors hold that Paul made three visits to Corinth, of the second of which there is no record.\" ",
+            "The third visit which I am about to pay.",
+            "Those who deny the second visit explain: this is the third time that I have been intending to come."
+        ],
+        "John Calvin": [
+            "He now, with greater freedom, uses sharpness, because he has to do with particular individuals, not with the whole body of the people.",
+            "His three comings to them will be in the place of three witnesses.",
+            "The threefold effort that was made for their welfare, and perseverance, as made trial of on three different occasions, might, with good reason, be held equivalent to three persons."
+        ],
+        "Philip Schaff": [
+            "It is surprising that in face of so explicit a statement, repeated at 2 Corinthians 13:2, and of the one at 2 Corinthians 12:14, Paley (Hor. Paul. iv. 11) and other excellent critics should maintain that the apostle paid only two visits to Corinth.",
+            "A judicial investigation of every charge, in such cases as referred to in 2 Corinthians 12:20-21, was to be held under his superintendence.",
+            "The Jewish law in judicial cases was very strict, requiring at least two witnesses for the condemnation of any one."
+        ],
+        "Archibald T. Robertson": [
+            "The third time I am coming (\u03c4\u03c1\u03b9\u03c4\u03bf\u03bd \u03b5\u03c1\u03c7\u03bf\u03bc\u03b1). Either the third that he had planned to come or that he had been twice. The warning is made by quoting Deuteronomy 19:15. "
+        ],
+        "John Gill": [
+            "This is the third time I am coming to you... he had been as yet but once at Corinth...\" ",
+            "he speaks as if he was among them...\" ",
+            "he proceeded in a judicial way, according to due form of law, and in such a manner as Christ had directed..."
+        ],
+        "John Wesley": [
+            "I am coming this third time \u2014 He had been coming twice before, though he did not actually come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Paul is affirming that he is about to make his third visit to the Corinthians. His intention is to emphasize the certainty of his coming and to encourage them to examine themselves before his arrival. Paul reminds them to rejoice in the Lord and cites the principle from Deuteronomy that states In the mouth of two or three witnesses shall every word be established. This highlights his determination to judge with fairness and not abstain from punishment if there is sufficient evidence. While some debate the number of times Paul visited Corinth, it is clear that his intention in this letter is to prepare them for his imminent visit.",
+            "wordCount": 112,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.8561104587125872,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+            "commentatorTierSimilarities": [
+                36.6,
+                38.36,
+                25.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Paul's letter, he mentions his impending third visit to the Corinthians, emphasizing the certainty of his arrival. He urges them to engage in self-examination as a preparation for his visit. Referring to the principle from Deuteronomy, Paul signals his intent to judge fairly and not hesitate to administer discipline based on evidence. Even though there is some disagreement about the number of visits Paul made, it is clear that he is determined to address the Corinthians and instruct them accordingly in his imminent arrival.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8124403834233322,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                35.05,
+                43.03,
+                21.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This verse in 2 Corinthians implies that Paul is about to visit the Corinthians for the third time. His purpose is to emphasize the certainty of his coming and to encourage them to engage in serious self-examination. Paul mentions the principle from Deuteronomy that states the need for two or three witnesses to establish the truth. This suggests his willingness to conduct a fair investigation and not refrain from punishment with sufficient evidence. Despite scholarly debate, Paul intends to address the Corinthians upon his forthcoming visit.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8163301660591293,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                34.21,
+                42.73,
+                23.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's upcoming third visit to Corinth is mentioned in this passage, emphasizing the certainty and importance of his arrival. He urges the Corinthians to engage in self-examination in preparation for his visit. Paul quotes the principle from Deuteronomy that establishes the need for multiple witnesses. This implies his intention to conduct a fair judgment, not hesitating to administer discipline based on proper evidence. While there may be differing opinions on the number of visits Paul made, his purpose in this letter is to ready the Corinthians for his imminent arrival.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.8128163074640433,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "commentatorTierSimilarities": [
+                35.24,
+                44.0,
+                20.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's impending third visit to Corinth is highlighted in this section, affirming the certainty of his arrival and urging the Corinthians to engage in self-examination. Drawing from Deuteronomy, Paul reminds them of the principle of multiple witnesses to establish truth, suggesting his commitment to fair judgment based on adequate evidence. While there is debate about the number of visits, it is evident that Paul intends to address the Corinthians during his upcoming visit. The purpose of his words is to prepare them for his imminent arrival.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.7937382000354583,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+            "commentatorTierSimilarities": [
+                37.38,
+                43.03,
+                19.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

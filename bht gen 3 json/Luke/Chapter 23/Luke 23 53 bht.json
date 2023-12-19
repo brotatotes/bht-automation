@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:23:39",
+    "verseRef": "Luke 23:53",
+    "bestBHT": {
+        "bht": "The body of Jesus was taken down from the cross and wrapped in linen, a custom of the Jews for burying the dead. It was then laid in a sepulchre that had been hewn in stone, a unique and significant detail indicating that no one had ever been laid there before. This detail serves as further evidence of the truth of Jesus' resurrection.",
+        "wordCount": 63,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.4126033995935594,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.31,
+        "commentatorTierSimilarities": [
+            32.29,
+            0.0,
+            67.71
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Linen [\u03c3\u03b9\u03bd\u03b4\u03bf\u03bd\u03b9] . See on Mark 14:51; and compare Luke 16:19. Hewn in stone [\u03bb\u03b1\u03be\u03b5\u03c5\u03c4\u03c9] . Only here in New Testament, and not at all in classical Greek."
+        ],
+        "Archibald T. Robertson": [
+            "Took it down (\u03ba\u03b1\u03b8\u03b5\u03bb\u03c9\u03bd).",
+            "Wrapped (\u03b5\u03bd\u03b5\u03c4\u03c5\u03bb\u03b9\u03be\u03b5\u03bd), as in Matthew 27:59 where Mark 15:46 has \u03b5\u03bd\u03b5\u03b9\u03bb\u03b7\u03c3\u03b5\u03bd (wound).",
+            "Where never man had yet lain (\u03bf\u03c5 \u03bf\u03c5\u03ba \u03b5\u03bd \u03bf\u03c5\u03b4\u03b5\u03b9\u03c2 \u03bf\u03c5\u03c0\u03c9 \u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03bf\u03c2)."
+        ],
+        "John Gill": [
+            "And he took it down,.... From the cross, with the help of others, having obtained leave of Pilate so to do",
+            "and wrapped it in linen; as was the custom of the Jews in burying their dead",
+            "and laid it in a sepulchre that was hewn in stone; cut out of a rock; wherein never man before was laid; so that it could not be said it was another body, and not that of Christ's, that was raised from the dead. This circumstance serves to confirm the truth of his resurrection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The body of Jesus was taken down from the cross and wrapped in linen, a custom of the Jews for burying the dead. It was then laid in a sepulchre that had been hewn in stone, a unique and significant detail indicating that no one had ever been laid there before. This detail serves as further evidence of the truth of Jesus' resurrection.",
+            "wordCount": 63,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4126033995935594,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.31,
+            "commentatorTierSimilarities": [
+                32.29,
+                0.0,
+                67.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He took down the body from the cross and wrapped it in linen, as was the custom. Then, he laid it in a sepulchre that was hewn in stone, where no one had ever been buried before. This detail is important because it reinforces the fact that it was indeed Christ's body that was raised from the dead.",
+            "wordCount": 59,
+            "quoteTokenProportion": 54.76,
+            "qualityScore": 1.3889014086941422,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.52,
+            "commentatorTierSimilarities": [
+                29.72,
+                0.0,
+                70.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The body of Jesus was taken down from the cross by Joseph, wrapped in linen, and placed in a sepulchre that had been cut out of a rock and where no one had ever been laid before. This meticulous attention to detail in the burial process serves as a confirmation of the truth of Jesus' resurrection, ensuring that it could not be claimed that another body was raised instead of Christ's.",
+            "wordCount": 72,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.5451054762280572,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.72,
+            "commentatorTierSimilarities": [
+                34.87,
+                0.0,
+                65.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The body of Jesus was taken down from the cross and wrapped in linen, following the Jewish custom for burying the dead. It was then laid in a sepulchre that had been hewn in stone, a tomb where no one had yet been laid. This careful and unique burial process serves as further evidence for the reality of Jesus' resurrection, as it eliminates any possibility of confusion or doubt regarding whose body was raised from the dead.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.5346359428099918,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.37,
+            "commentatorTierSimilarities": [
+                33.03,
+                0.0,
+                66.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Following Jesus' crucifixion, his body was carefully taken down from the cross and wrapped in linen, in accordance with Jewish burial practices. It was then laid to rest in a sepulchre that had been carved out of stone, a tomb that had never been used before. This attention to detail in the burial process adds credibility to the truth of Jesus' resurrection, as it removes any possibility of confusion or doubt regarding the identity of the body that was raised from the dead.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.421619253372933,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.61,
+            "commentatorTierSimilarities": [
+                31.45,
+                0.0,
+                68.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

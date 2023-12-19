@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:12:32",
+    "verseRef": "1 Corinthians 12:22",
+    "bestBHT": {
+        "bht": "The feeble and seemingly weaker members are not to be overlooked or undervalued, for their very vulnerability reinforces our care and preservation towards them as essential components. Although these members may appear to be more delicate or easily injured, they possess a profound necessity in the body's overall function. In fact, their significance surpasses that of more prominent members like eyes or hands. Just as vital organs are unseen yet indispensable for life, these less noticeable members play a vital role in the unity and growth of the body.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.7578816047267207,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+        "commentatorTierSimilarities": [
+            33.89,
+            32.21,
+            33.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Their very feebleness, so far from doing away with the need for them, calls forth our greater care for their preservation, as being felt 'necessary.'\" ",
+            "More feeble\u2014more susceptible of injury: for example, the brain, the belly, the eye.\" ",
+            "The need for them, calls forth our greater care for their preservation."
+        ],
+        "Albert Barnes": [
+            "A man can live if his arm or his leg be amputated; but not if his brain, his lungs or his heart be removed. So that, although these parts are more feeble, and more easily injured, they are really more necessary to life, and therefore more useful than the more vigorous portions of the frame.",
+            "Those members of the church which are most retiring and feeble apparently which are concealed from public view, unnoticed and unknown - the humble, the meek, the peaceful, and the prayerful - are often more necessary to the true welfare of the church than those who are eminent for their talent and learning.",
+            "The vitality of the church could be continued though the man of talent and learning should be removed; as the body may live when the arm or the leg is amputated; but that vitality could not continue if the saint of humble and retiring piety, and of fervent prayerfulness, were removed, any more than the body can live when there is no heart and no lungs."
+        ],
+        "Marvin Vincent": [
+            "Seem to be weaker in their original structure, naturally.",
+            "This may be indicated by the use of uJparcein to be.",
+            "Others explain of those which on occasion seem to be weaker, as when a member is diseased."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 12:22. Nay, much rather those members . . . which seem . . . more feeble, are necessary even more than eyes, hands, feet.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "So far from the more dignified members like the eye and the head being independent of the subordinate ones like the hands and feet, they are 'much more' in need of them.",
+            "Things are not always what they seem. The vital organs (heart, lungs, liver, kidneys) are not visible, but life cannot exist without them.",
+            "The vital organs are not visible, but life cannot exist without them."
+        ],
+        "John Gill": [
+            "The more weak and feeble saints, whose hearts and hands are to be strengthened, whose infirmities are to be bore, have their usefulness.",
+            "The effectual working in the measure of every part, even of the feeble and tender, maketh increase of the body, to the edifying of itself in love.",
+            "These God has seen fit, as necessary to call by his grace, and place in the body, that his strength may be made perfect in their weakness, and to confound the mighty; and out of the mouths even of babes and sucklings to ordain strength and praise."
+        ],
+        "John Wesley": [
+            "The members which appear to be weaker.\" ",
+            "Being of a more delicate and tender structure.",
+            "Perhaps the brains and bowels, or the veins, arteries, and other minute channels in the body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that the seemingly weaker and feeble members of the body are just as necessary and valuable, if not more so, than the more prominent ones. Just like the vital organs in our physical bodies, these members may not be visible or receive much recognition, but they are essential for the overall function and well-being of the body. They require our greater care and attention, as their feebleness calls forth our protection and preservation. Their presence and contributions may appear weaker, but their significance cannot be underestimated, as they play a vital role in the growth and unity of the body.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7852559215560078,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.7,
+            "commentatorTierSimilarities": [
+                36.28,
+                30.52,
+                33.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The feeble and seemingly weaker members, though easily injured, require our greater care and preservation, for they are necessary for the overall functioning of the body. Their role may not be prominent or recognized, similar to the vital but unseen organs in our physical bodies. However, they cannot be underestimated, as they contribute significantly to the growth and unity of the body. Their value lies in their humble and meek nature, often more necessary for the true welfare of the community than those with talent and learning.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7392127641140593,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                33.16,
+                33.79,
+                33.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The feeble and seemingly weaker members are not to be overlooked or undervalued, for their very vulnerability reinforces our care and preservation towards them as essential components. Although these members may appear to be more delicate or easily injured, they possess a profound necessity in the body's overall function. In fact, their significance surpasses that of more prominent members like eyes or hands. Just as vital organs are unseen yet indispensable for life, these less noticeable members play a vital role in the unity and growth of the body.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.7578816047267207,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+            "commentatorTierSimilarities": [
+                33.89,
+                32.21,
+                33.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The seemingly weaker and feeble members of the body are often overlooked, but they are in fact just as necessary and valuable, if not more so, than the more prominent parts. These feeble members, like the vital organs in our bodies, may be less visible or recognized, but their preservation and care are crucial. Their role in the body's overall function cannot be diminished. They require our greater attention and protection. Despite their apparent weakness, they play a vital role in the growth and unity of the body.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6255972541649237,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "commentatorTierSimilarities": [
+                37.13,
+                26.63,
+                36.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The feeble members, though seemingly weaker, are in fact necessary and deserving of our greater care and preservation. Just as the vital organs of the body are not visible, their significance cannot be underestimated. These seemingly weaker members play a vital role in the overall functioning and well-being of the body. Their vulnerability and susceptibility to injury call forth our protection and support. Despite their feebleness, they are indispensable for the growth and unity of the body, and their contributions should not be overlooked.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6392068744775967,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.85,
+            "commentatorTierSimilarities": [
+                36.86,
+                27.66,
+                35.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

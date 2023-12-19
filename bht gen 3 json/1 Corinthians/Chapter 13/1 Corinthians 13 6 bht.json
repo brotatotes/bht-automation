@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 15:12:35",
+    "verseRef": "1 Corinthians 13:6",
+    "bestBHT": {
+        "bht": "Love does not rejoice in the perpetration of iniquity by others, but rather rejoices when the truth rejoices and sympathizes with it in its triumphs. Love opposes those who hold down the truth in unrighteousness and withstand the truth. It does not compromise by glossing over iniquity, but rather delights in the spread of the truth, especially the truth of the Gospel. Love's joy is in the knowledge and manifestation of truth, desiring it not only for itself but also for others.",
+        "wordCount": 83,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.60525156889753,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.96,
+        "commentatorTierSimilarities": [
+            35.62,
+            38.03,
+            26.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Rejoiceth not at (the) unrighteousness, i.e. at its commission by others, as is the habit of the unloving world.",
+            "Rejoiceth with the truth, the Truth being personified, and meaning especially the spread among men of the Truth of the Gospel, and indeed of the Truth in general.",
+            "In opposition to those who (Rom. i. 18) 'hold down the truth in unrighteousness,'\u2014who (2 Tim. iii. 8) 'withstand the truth'."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Rejoiceth not at the perpetration of iniquity by others, but rejoices when the truth rejoices; sympathizes with it in its triumphs.",
+            "The truth and unrighteousness are contrasted.",
+            "The false charity which compromises 'the truth' by glossing over 'iniquity' or unrighteousness is thus tacitly condemned."
+        ],
+        "Albert Barnes": [
+            "Love does not find pleasure in hearing others accused of sin, and in having it proved that they committed it.",
+            "Love does not desire that an enemy, a persecutor, or a slanderer should do evil, or should disgrace and ruin himself.",
+            "Love rejoices when good is done, and the truth defended and advanced, whoever may be the instrument."
+        ],
+        "Marvin Vincent": [
+            "Rejoiceth in the truth [\u03c3\u03c5\u03b3\u03c7\u03b1\u03b9\u03c1\u03b5\u03b9 \u03c4\u03b7 \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1] . Rev., correctly, rejoiceth with. Truth is personified as love is. Compare Psalms 85:10."
+        ],
+        "Philip Schaff": [
+            "Love\u2019s native element is goodness and truth: apart from the truth it knows neither father nor mother, husband nor wife, son nor daughter.\" ",
+            "Its antipathies are only with evil, its sympathies with truth and with those who believe and know the truth.",
+            "The home of love is among the truthful, the believing, the holy; it breathes its own air in the 'kingdom of righteousness and peace and joy in the Holy Ghost.'"
+        ],
+        "Archibald T. Robertson": [
+            "There are people as low as that whose real joy is in the triumph of evil.",
+            "Truth personified as opposed to unrighteousness.",
+            "Love is on the side of the angels."
+        ],
+        "John Gill": [
+            "Rejoiceth not in iniquity,.... Neither in his own, nor in others; but on the contrary is grieved for it...he is greatly troubled at the profaneness and immorality of the men of the world, and the sins of professors cut him to the heart\" ",
+            "nor does he rejoice in injustice...even to an enemy\" ",
+            "but rejoiceth in the truth; in the truth of the Gospel, and the success of it...a gracious soul desires this in itself, and delights to see it in others"
+        ],
+        "John Wesley": [
+            "Yea, weeps at either the sin or folly of even an enemy; takes no pleasure in hearing or in repeating it, but desires it may be forgotten for ever.",
+            "Bringing forth its proper fruit, holiness of heart and life.",
+            "Good in general is its glory and joy, wherever diffused in all the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "Love does not find joy in the wrongdoing of others, but instead rejoices with the truth. It sympathizes with the triumphs of truth and opposes the unrighteousness. Love does not compromise the truth by overlooking iniquity. Its pleasure lies in the spread of truth and the victory of the Gospel. Love's antipathies are with evil, and its sympathies are with goodness and truth. It grieves when confronted with sin and wrongdoing, both in itself and in others. Love's joy is in the knowledge and manifestation of truth, desiring it not only for itself but also for others.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.443907012917784,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.6,
+            "commentatorTierSimilarities": [
+                33.99,
+                38.97,
+                27.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Love does not rejoice in the wrongdoing of others but finds joy in the truth. It opposes unrighteousness and does not compromise the truth by glossing over iniquity. Love's pleasure lies in the spread of truth and the victory of the Gospel. It grieves when confronted with sin and wrongdoing, both in itself and in others. Love's joy is in the knowledge and manifestation of truth, desiring it not only for itself but also for others.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 2.4274821768585495,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.05,
+            "commentatorTierSimilarities": [
+                32.71,
+                37.83,
+                29.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Love does not rejoice in the perpetration of iniquity by others, but rather rejoices when the truth rejoices and sympathizes with it in its triumphs. Love opposes those who hold down the truth in unrighteousness and withstand the truth. It does not compromise by glossing over iniquity, but rather delights in the spread of the truth, especially the truth of the Gospel. Love's joy is in the knowledge and manifestation of truth, desiring it not only for itself but also for others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.60525156889753,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.96,
+            "commentatorTierSimilarities": [
+                35.62,
+                38.03,
+                26.35
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

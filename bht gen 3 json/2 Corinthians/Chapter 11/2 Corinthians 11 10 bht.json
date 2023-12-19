@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:18:07",
+    "verseRef": "2 Corinthians 11:10",
+    "bestBHT": {
+        "bht": "The apostle Paul boldly asserts that the truth of Christ dwells within him, providing the foundations for his unwavering proclamation. He is not merely making an oath or a simple affirmation, but rather emphasizing the profound veracity of his message. Paul's boastful speech will not be hindered, especially in the regions of Achaia, where he fearlessly proclaims the gospel free of charge. This resolute decision exemplifies Paul's steadfast commitment to presenting himself as a selfless servant, unburdening others by refusing any form of material gain in the pursuit of proclaiming the truth of Christ.",
+        "wordCount": 96,
+        "quoteTokenProportion": 35.62,
+        "qualityScore": 1.6755509724324513,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+        "commentatorTierSimilarities": [
+            35.18,
+            26.39,
+            38.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The truth of Christ is in me, that...; i.e. 'I speak according to that truth of which Christ Himself was our example, when I say that...;'\" ",
+            "There is no oath, nor even asseveration, as A.V. and most Commentators introduce.",
+            "This boasting shall not be shut (shall not have its mouth stopped) as regards (or, against) me in the regions of Achaia (where the boasting is imagined as being and speaking)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is (the) truth of Christ in me.",
+            "This boasting shall not be shut (that is, stopped) as regards me.",
+            "Boasting is as it were personified . . . shall not have its mouth stopped as regards me."
+        ],
+        "Albert Barnes": [
+            "It is a solemn form of asseveration, equal to an oath.",
+            "What a noble resolution! How fixed were the principles of his life! And what an instance of magnanimous self-denial and of elevated purpose!",
+            "No man need be burdensome to his friends; and all should resolve that by the grace of God they never will be."
+        ],
+        "Marvin Vincent": [
+            "No man shall stop me of this boasting. The boasting is that of preaching gratuitously.\" ",
+            "This boasting shall not be blocked up as regards me.\" ",
+            "The boasting is that of preaching gratuitously."
+        ],
+        "John Calvin": [
+            "The truth of Christ is in me.",
+            "He affirms with an oath, that he would take nothing from them, or from others in Achaia, though it were offered to him.",
+            "Let me not be thought to have the truth of Christ in me if I do not retain this glorying among the inhabitants of Achaia."
+        ],
+        "Philip Schaff": [
+            "No man shall stop me of this glorying in the regions of Achaia.\" ",
+            "There seems to have been something about that locality which rendered it peculiarly desirable that he should be above all suspicion.",
+            "Probably it was the mercenary character of that trading community."
+        ],
+        "Archibald T. Robertson": [
+            "No man shall stop me of this glorying... 'This glorying shall not be fenced in as regards me.'\" ",
+            "In the regions of Achaia... \u03ba\u03bb\u03b9\u03bc\u03b1 from \u03ba\u03bb\u03b9\u03bd\u03c9, to incline, is Koine word for declivity slope, region (our climate).",
+            "See chapter 2 Corinthians 11:1 for Paul's boast about preaching the gospel without cost to them."
+        ],
+        "John Gill": [
+            "As sure as Christ is truth, who is in me; or as that the truth of grace, or the truth of the Gospel of Christ is in my heart and mouth, so sure will I constantly persevere in this determination.\" ",
+            "No man shall stop me of this boasting in the regions of Achaia; or this boasting shall not be stopped in me.",
+            "No man should stop his mouth from boasting of this, by putting anything into his hands."
+        ],
+        "John Wesley": [
+            "This my boasting shall not be stopped \u2014 For I will receive nothing from you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul declares with conviction that the truth of Christ resides within him, leading him to speak with authority on the matter. He is not making an oath or mere asseveration, but rather affirming the truth of his message. His boastful speech will not be silenced, particularly in the regions of Achaia, where he proudly proclaims the gospel free of charge. This decision reflects Paul's determination to present himself as a selfless servant, unburdening others and boldly refusing any material gain. His resolve to refrain from accepting any form of payment demonstrates his unwavering commitment to the truth of Christ and his vow to boast solely in the service of preaching the gospel.",
+            "wordCount": 115,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 1.713293697354937,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.31,
+            "commentatorTierSimilarities": [
+                36.08,
+                24.0,
+                39.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul boldly asserts that the truth of Christ dwells within him, providing the foundations for his unwavering proclamation. He is not merely making an oath or a simple affirmation, but rather emphasizing the profound veracity of his message. Paul's boastful speech will not be hindered, especially in the regions of Achaia, where he fearlessly proclaims the gospel free of charge. This resolute decision exemplifies Paul's steadfast commitment to presenting himself as a selfless servant, unburdening others by refusing any form of material gain in the pursuit of proclaiming the truth of Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.6755509724324513,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                35.18,
+                26.39,
+                38.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul confidently declares that the truth of Christ resides within him, serving as the foundation for his unwavering proclamation. His boastful speech will not be silenced, particularly in the regions of Achaia where he fearlessly proclaims the gospel free of charge. This resolute decision showcases Paul's steadfast commitment to be a selfless servant, rejecting material gain in his pursuit of proclaiming the truth of Christ. His determination reflects his firm belief in the gospel and his resolve to boldly express it without reservation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6052640188256169,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.72,
+            "commentatorTierSimilarities": [
+                33.63,
+                27.47,
+                38.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul affirms that the truth of Christ resides within him, serving as the basis for his unwavering proclamation. His boastful speech will not be silenced, particularly in the regions of Achaia where he boldly proclaims the gospel free of charge. This firm resolve demonstrates Paul's unwavering commitment to presenting himself as a selfless servant, firmly refusing any material gain. By rejecting monetary support, Paul emphasizes his dedication to the truth of Christ and his determination to boast solely in the service of preaching the gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6593534373031185,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.52,
+            "commentatorTierSimilarities": [
+                36.79,
+                22.99,
+                40.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul confidently declares that the truth of Christ resides within him, serving as the foundation for his unwavering proclamation. His boastful speech will not be silenced, particularly in the regions of Achaia where he fearlessly proclaims the gospel free of charge. This resolute decision showcases Paul's steadfast commitment to be a selfless servant, rejecting material gain in his pursuit of proclaiming the truth of Christ. His determination reflects his firm belief in the gospel and his resolve to boldly express it without reservation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6052640188256169,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.72,
+            "commentatorTierSimilarities": [
+                33.63,
+                27.47,
+                38.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

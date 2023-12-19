@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:09:40",
+    "verseRef": "1 Corinthians 9:18",
+    "bestBHT": {
+        "bht": "What reward do I have in mind when I freely preach the gospel without cost, refraining from using my full power? By making the gospel available without charge, I remove obstacles and show my genuine commitment. I willingly forego financial support for the sake of others and to avoid causing offense. It is my duty as a servant entrusted with the gospel, and any reward I seek is simply the opportunity to proclaim it freely to those who hear.",
+        "wordCount": 79,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.2038976253400446,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.62,
+        "commentatorTierSimilarities": [
+            25.55,
+            34.21,
+            40.24
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What then is my reward (in prospect), that I while preaching, render the gospel without cost...\" ",
+            "...what reward have I in prospect that induces me to preach gratuitously...",
+            "...in order not to use (as carrying out my design not to use) to the full my power in the gospel?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That by making the Gospel without charge, where I might have rightfully claimed maintenance, I might 'win the more'.\" ",
+            "The 'reward' ultimately aimed at is the gaining of the more.\" ",
+            "The 'reward' is that which is the ultimate aim of his preaching without charge, namely, that he may gain the more; it was for this end, not to have matter of glorying, that he did so."
+        ],
+        "Albert Barnes": [
+            "What is there that will demonstrate that my heart is in the work of the ministry; that I am free and voluntary, and that I am not urged by mere necessity?",
+            "I may make the gospel of Christ without charge - Without expense to those who hear it.",
+            "It is best in general that those who hear the gospel should contribute to its support...the very way to make the gospel contemptible is, to have it preached by those who are supported by the state, or by their own labor in some other department."
+        ],
+        "Marvin Vincent": [
+            "Abuse [\u03ba\u03b1\u03c4\u03b1\u03c7\u03c1\u03b7\u03c3\u03b1\u03c3\u03b8\u03b1\u03b9] . See on ch. 1 Corinthians 7:31. Rev., correctly, use to the full."
+        ],
+        "John Calvin": [
+            "I am under the necessity of preaching the gospel: if I do it not, wo is unto me, for I resist God\u2019s calling. But it is not enough to preach, unless I do it willingly; for he who fulfils the commandment of God unwillingly, does not act, as becomes him, suitably to his office. But if I obey God willingly, it will in that case be allowable for me to glory.",
+            "Paul, it is true, went a greater length than the ordinary calling of pastors required, because he refrained from taking pay, which the Lord allows pastors to take. But as it was a part of his duty to provide against every occasion of offense that he foresaw, and as he saw, that the course of the gospel would be impeded, if he made use of his liberty, though that was out of the ordinary course, yet I maintain that even in that case he rendered to God nothing more than was due.",
+            "From this it appears, that such a use of our liberty as gives occasion of offense, is an uncontrolled liberty and abuse. We must keep, therefore, within bounds, that we may not give occasion of offense."
+        ],
+        "Philip Schaff": [
+            "I may make the Gospel of Christ without charge that for the good of others I forego an undoubted right.",
+            "[He acted] to the Jews I became as a Jew, that I might gain the Jews.",
+            "to them that are under the law, as under the law, not being myself under the law, that I might, etc."
+        ],
+        "Archibald T. Robertson": [
+            "So as not to use to the full.\" ",
+            "Perfective use of \u03ba\u03b1\u03c4\u03b1 (as in 1 Corinthians 7:31) with \u03c7\u03c1\u03b7\u03c3\u03b1\u03c3\u03b8\u03b1 (first aorist middle infinitive)."
+        ],
+        "John Gill": [
+            "I am a servant intrusted by my Lord with the Gospel, and an unprofitable one I am; I do, at most and best, but what is my duty, and for that I can claim no reward.",
+            "all the reward that remains is only this, verily, that when I preach the Gospel, which I am obliged to do, I may make the Gospel of Christ without charge; to them that hear it",
+            "his reason for it is, that I abuse not my power in the Gospel; his right of having a maintenance, whilst he was preaching the Gospel; to have made use of which would have been an abuse of it"
+        ],
+        "John Wesley": [
+            "What then is my reward - That circumstance in my conduct for which I expect a peculiar reward from my great Master?\" ",
+            "That I abuse not - Make not an unseasonable use of my power which I have in preaching the gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What reward do I have in mind when I preach the gospel without cost, refraining from using my full power in order to gain even more? It is not for boasting, but for the ultimate purpose of winning as many souls as possible. By making the gospel available freely, instead of seeking financial support, I remove any obstacles and show my genuine commitment to the ministry. I willingly forego my right to financial support for the sake of others and to avoid causing offense. It is my duty as a servant entrusted with the gospel message, and any reward I seek is simply the opportunity to proclaim the gospel without charge to those who hear it.",
+            "wordCount": 116,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.1411237354281036,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                26.43,
+                34.28,
+                39.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What reward do I have in mind when I freely preach the gospel, refraining from using my full power, in order to gain even more? It is not for boasting, but for the ultimate purpose of winning souls. By making the gospel available without cost, I remove obstacles and show genuine commitment. I willingly forego financial support for the sake of others and to avoid causing offense. It is my duty as a servant entrusted with the gospel message, seeking no reward except the ability to proclaim it freely.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0918613211415122,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+            "commentatorTierSimilarities": [
+                28.36,
+                32.9,
+                38.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What reward do I have in mind when I freely preach the gospel without cost, refraining from using my full power? It is not for boasting, but to win more souls. By making the gospel available without charge, I remove any obstacles and show my genuine commitment. I willingly forego financial support for the sake of others and to avoid causing offense. It is my duty as a servant entrusted with the gospel message, seeking no reward except the opportunity to proclaim it freely.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 2.0753732716957725,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+            "commentatorTierSimilarities": [
+                27.52,
+                33.2,
+                39.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "What reward do I have in mind when I freely preach the gospel without cost, refraining from using my full power? By making the gospel available without charge, I remove obstacles and show my genuine commitment. I willingly forego financial support for the sake of others and to avoid causing offense. It is my duty as a servant entrusted with the gospel, and any reward I seek is simply the opportunity to proclaim it freely to those who hear.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.2038976253400446,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.62,
+            "commentatorTierSimilarities": [
+                25.55,
+                34.21,
+                40.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "What ultimate reward do I aim for when I choose to preach the gospel without cost, restraining myself from fully exercising my power? It is not for personal glory, but rather to achieve the greatest possible impact. By offering the gospel freely, I remove barriers, demonstrating my sincere dedication. I willingly sacrifice my rightful entitlement to financial support for the benefit of others and to prevent offense. As a servant entrusted with the gospel, my only reward is the privilege of proclaiming it without charge to those who listen.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0635990804112847,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                27.54,
+                32.6,
+                39.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

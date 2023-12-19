@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:23:23",
+    "verseRef": "Luke 23:14",
+    "bestBHT": {
+        "bht": "Pilate examines Jesus, realizing that the charges against Him involve being a dangerous rival to Caesar. Pilate's careful examination finds no fault in Jesus, as all accusations fail to prove any wrongdoing. Despite the allegations, Pilate cannot perceive any crime for which Jesus deserves punishment.",
+        "wordCount": 46,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.3375217362704481,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.82,
+        "commentatorTierSimilarities": [
+            30.47,
+            0.0,
+            69.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Diastrefonta implies more of the idea of distraction (compare Wyc., turning upside down); turning different ways; while ajpostrefonta emphasizes the turning away [\u03b1\u03c0\u03bf] of the people from their civil and religious allegiance.\" ",
+            "So Wyc., turning away.\" ",
+            "Examined [\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b1\u03c2] . Originally implying a thorough examination; ajna, up, from bottom to top. Technically, of a legal examination."
+        ],
+        "Archibald T. Robertson": [
+            "Pilate understands the charge against Jesus to be that he is a revolutionary agitator and a dangerous rival to Caesar, treason in plain words.",
+            "Right before your eyes I have given him a careful examination.",
+            "Attraction of the relative \u03b1 to the case (genitive) of the unexpressed antecedent \u03c4\u03bf\u03c5\u03c4\u03c9\u03bd."
+        ],
+        "John Gill": [
+            "I having examined him before you... have found no fault in this man.\" (Luke 23:14) ",
+            "...he had carefully looked into, and examined every thing, and... all their accusations, and charges, put together, did not make it appear that he was guilty of a single crime.\" (Luke 23:14) ",
+            "Cannot perceive any charge proved against him, or any crime he is guilty of, for which punishment should be inflicted on him...\" (Luke 23:14)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse portrays Pilate examining Jesus carefully, realizing that the charges against Him are of a political nature, accusing Him of being a dangerous rival to Caesar. Pilate thoroughly assesses the situation, finding no fault in Jesus and declaring him innocent. Despite the accusations and charges brought against Jesus, Pilate cannot perceive any crime that justifies punishment. Jesus remains blameless in Pilate's eyes, as the accusations fail to prove any wrongdoing on His part.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.3563116229356207,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.44,
+            "commentatorTierSimilarities": [
+                29.21,
+                0.0,
+                70.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate carefully examines Jesus, understanding that the charges against Him involve being a revolutionary threat and a competitor to Caesar. After a thorough investigation, Pilate comes to the conclusion that Jesus is innocent. Despite the accusations and charges, Pilate cannot find any fault in Jesus or any crime that would warrant punishment. Jesus remains blameless in Pilate's eyes, as the evidence fails to prove any wrongdoing on His part.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.2805982573900196,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.92,
+            "commentatorTierSimilarities": [
+                29.49,
+                0.0,
+                70.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, in his examination of Jesus, recognizes the accusations against him as politically motivated, asserting Jesus' alleged involvement as a dangerous rival to Caesar. Pilate's thorough evaluation finds Jesus faultless, lacking any evidence of a single crime. Notably, the charges brought against Jesus fail to establish guilt or justify punishment.",
+            "wordCount": 51,
+            "quoteTokenProportion": 26.83,
+            "qualityScore": 1.145737313188906,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.44,
+            "commentatorTierSimilarities": [
+                28.53,
+                0.0,
+                71.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate examines Jesus, realizing that the charges against Him involve being a dangerous rival to Caesar. Pilate's careful examination finds no fault in Jesus, as all accusations fail to prove any wrongdoing. Despite the allegations, Pilate cannot perceive any crime for which Jesus deserves punishment.",
+            "wordCount": 46,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.3375217362704481,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.82,
+            "commentatorTierSimilarities": [
+                30.47,
+                0.0,
+                69.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, having thoroughly examined Jesus, understands that the charges against Him pertain to being a rival to Caesar. Pilate's examination reveals Jesus' innocence, as no fault is found in Him. Despite the accusations brought forward, there is no evidence of any crime for which Jesus should be punished.",
+            "wordCount": 49,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.2808837625900746,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.93,
+            "commentatorTierSimilarities": [
+                28.9,
+                0.0,
+                71.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

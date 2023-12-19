@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:20:19",
+    "verseRef": "Luke 15:23",
+    "bestBHT": {
+        "bht": "Upon the prodigal son's return, a joyous celebration ensues, marked by the killing of the fatted calf reserved for festive occasions. The invitation to be merry signifies a deep, heartfelt, and spiritual joy that is shared by the Father, the son, and the servants. This celebration embodies the reconciliation and restoration of the prodigal son, and is not a trivial or frivolous mirth, but rather a solid and religious expression of joy.",
+        "wordCount": 73,
+        "quoteTokenProportion": 32.65,
+        "qualityScore": 1.9693074760803202,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+        "commentatorTierSimilarities": [
+            22.88,
+            32.09,
+            45.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No allusion must be thought of to the sacrificing of Christ:\u2014which would be wholly out of place here,\u2014and is presupposed in whole parable.",
+            "Be merry...all rejoice.\" ",
+            "Some of these are servants who have entered into the joy of their Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23. the fatted calf\u2014kept for",
+            "\tfestive occasions."
+        ],
+        "Albert Barnes": [
+            "Be merry - Literally, 'eating, let us rejoice.'",
+            "The word 'merry' does not quite express the meaning of the Greek.",
+            "The Greek denotes simply 'joy - let us be happy, or joyful.'"
+        ],
+        "Marvin Vincent": [
+            "The fatted calf. The article denoting one set apart for a festive occasion. Tynd., \"that fatted calf."
+        ],
+        "Philip Schaff": [
+            "Some calf standing in the stall, probably in readiness for a feast, is to be killed, as the best, for this sudden festivity.\" ",
+            "The 'joy in heaven' is again alluded to; the parties feasting are 'the servants', including the whole family; angels and redeemed men."
+        ],
+        "Archibald T. Robertson": [
+            "The calf the fatted one.",
+            "The calf was kept fat for festive occasions, possibly in the hope of the son's return.",
+            "First aorist passive subjunctive (volitive)."
+        ],
+        "John Gill": [
+            "Christ is the best provision that can be set before a believer, or he can feed upon; yea, the best that God can give, or saints desire.",
+            "The invitation to eat is hearty and cordial; and both the Father and Christ give this food, and bid welcome to it; and there is a necessity of eating it, for without this there can be no living in a spiritual sense.",
+            "The manner of eating, or the circumstance attending it, is 'mirth', both in Father, son, and servants; and as corporeal, so spiritual eating should be with joy, and with a merry heart."
+        ],
+        "John Wesley": [
+            "Let us be merry \u2014 Both here, and wherever else this word occurs, whether in the Old or New Testament, it implies nothing of levity, but a solid, serious, religious, heartfelt joy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the prodigal son in Luke 15:23 depicts a joyous celebration upon the son's return. The fatted calf, specifically kept for festive occasions, is to be killed as a symbol of the son's homecoming. This celebration is not to be understood as symbolic of Christ's sacrifice, but rather as a joyful expression of the son's reconciliation with his family. The command to be merry is better understood as an invitation to be joyful and happy. This joy is not trivial or frivolous, but rather a deep, heartfelt, and spiritual joy that is shared by the Father, the son, and the servants.",
+            "wordCount": 106,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.881264271837661,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "commentatorTierSimilarities": [
+                20.45,
+                36.21,
+                43.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable recounts the joyous celebration upon the son's return, symbolized by the killing of the fatted calf that was reserved for festive occasions. The command to be merry is an invitation to experience true joy and happiness. This joy is not superficial, but rather a deep, heartfelt, and spiritual joy that is shared by the Father, the son, and the servants. It is a joyful celebration that reflects the reconciliation and restoration of the prodigal son to his family.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.862007348121148,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                19.89,
+                35.44,
+                44.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the prodigal son in Luke 15:23 paints a picture of a joyous celebration upon the son's return. The fatted calf, reserved for festive occasions, is to be killed as a symbol of the son's homecoming. The command to be merry better captures the Greek meaning of let us rejoice and expresses a deep, heartfelt, and spiritual joy. This joy is shared by the Father, the son, and the servants, reflecting the joy of reconciliation and restoration.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.8847434226429454,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                22.97,
+                37.6,
+                39.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable depicts a joyous celebration upon the son's return, with the fatted calf being killed as a symbol of his homecoming. The command to be merry expresses a deep, heartfelt, and spiritual joy, and better captures the Greek meaning of let us rejoice. This joyful celebration reflects the reconciliation and restoration of the prodigal son to his family, and is shared by the Father, the son, and the servants. It is a celebration that is not superficial, but rooted in a solid, serious, and religious joy.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8785889551416353,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.8,
+            "commentatorTierSimilarities": [
+                18.54,
+                35.72,
+                45.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon the prodigal son's return, a joyous celebration ensues, marked by the killing of the fatted calf reserved for festive occasions. The invitation to be merry signifies a deep, heartfelt, and spiritual joy that is shared by the Father, the son, and the servants. This celebration embodies the reconciliation and restoration of the prodigal son, and is not a trivial or frivolous mirth, but rather a solid and religious expression of joy.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.9693074760803202,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                22.88,
+                32.09,
+                45.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

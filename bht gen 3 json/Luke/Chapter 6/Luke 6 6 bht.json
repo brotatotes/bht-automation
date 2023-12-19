@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:15:46",
+    "verseRef": "Luke 6:6",
+    "bestBHT": {
+        "bht": "On another Sabbath, a man with a withered right hand approached Jesus. The three synoptic Gospels give their own versions of this event, with Matthew and Mark providing additional details, including the questioning of Jesus about healing on the Sabbath. Luke, known for his attention to detail as a physician, specifically mentions the man's withered right hand. The accuracy and precision in these accounts demonstrate the significance of Jesus' actions on that particular Sabbath day.",
+        "wordCount": 76,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.9674561124037169,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+        "commentatorTierSimilarities": [
+            32.17,
+            42.14,
+            25.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There can hardly be a doubt that in St. Matthew\u2019s narrative the two occurrences are blended: and this may have taken place from the very circumstance of the question about an animal having been asked on both occasions.\" ",
+            "St. Luke omitting it here, because he reports it there\u2014St. Matthew joining to it the question asked there, because he was not aware of another similar incident.\" ",
+            "Right hand is a mark of accuracy, and from an eye-witness."
+        ],
+        "Marvin Vincent": [
+            "His right hand. A very precise mode of statement. Lit., his hand the right one. Luke only specifies which hand was withered. This accuracy is professional.",
+            "Ancient medical writers always state whether the right or the left member is affected.",
+            "Withered. See on Mark 3:1."
+        ],
+        "Philip Schaff": [
+            "On another sabbath. Probably the next one. This seems more likely than that the next day was observed as a Sabbath.",
+            "Right hand. Specified by Luke only.",
+            "Luke 6:7-10 agree closely with Mark\u2019s account. Matthew inserts in this connection a thought mentioned by Luke as uttered on a similar occasion (chap. Luke 14:1-5), but there is no reason for inferring a confusion in the statements."
+        ],
+        "Archibald T. Robertson": [
+            "On another sabbath (...). This incident is given by all three synoptics (Mark 3:1-6; Matthew 12:9-14; Luke 6:6-11).",
+            "Only Luke notes that it was on a sabbath.",
+            "Right hand (\u03b7 \u03b4\u03b5\u03be\u03b9\u03b1). This alone in Luke, the physician's eye for particulars."
+        ],
+        "John Gill": [
+            "Whether the following sabbath, or some time after, is not certain.\" ",
+            "The Arabic version reads, 'into their synagogue'.\" ",
+            "He explained the Scriptures to the people and instructed them in the doctrines of the Gospel."
+        ],
+        "John Wesley": [
+            "Matthew 12:9; Mark 3:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On another Sabbath, a man with a withered right hand came before Jesus. The Gospel writers, Matthew, Mark, and Luke, each provide their own accounts of this incident. Matthew and Mark include additional details, such as the Pharisees posing a question to Jesus about whether it was lawful to heal on the Sabbath. Luke, noting the precision of a physician, specifies that it was the man's right hand that was withered. This attention to detail helps to paint a vivid picture of the scene. The commentators discuss the blending of the narratives and the possibility that Matthew was not aware of another similar incident. The synoptics all agree that this event occurred on a Sabbath, emphasizing the significance of Jesus' actions on that day.",
+            "wordCount": 125,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 1.7824153191657794,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                34.44,
+                39.58,
+                25.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On another Sabbath, a man with a withered right hand approached Jesus. The three synoptic Gospels give their own versions of this event, with Matthew and Mark providing additional details, including the questioning of Jesus about healing on the Sabbath. Luke, known for his attention to detail as a physician, specifically mentions the man's withered right hand. The accuracy and precision in these accounts demonstrate the significance of Jesus' actions on that particular Sabbath day.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9674561124037169,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                32.17,
+                42.14,
+                25.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On another Sabbath, a man with a withered right hand sought Jesus' help. The synoptic Gospels describe this incident, with Matthew and Mark providing more context, including the Pharisees questioning Jesus about healing on the Sabbath. Luke, being a physician, pays attention to detail and notes the man's withered right hand. The precision in these accounts reflects the significance of Jesus' actions on that specific Sabbath day.",
+            "wordCount": 68,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.9382997062654788,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                32.24,
+                40.91,
+                26.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On another Sabbath, a man with a withered right hand came before Jesus. The Gospel writers, Matthew, Mark, and Luke, each provide their own accounts of this incident. Matthew and Mark include additional details, such as the Pharisees posing a question to Jesus about whether it was lawful to heal on the Sabbath. Luke, noting the precision of a physician, specifies that it was the man's right hand that was withered. This attention to detail helps to paint a vivid picture of the scene. The synoptics all agree that this event occurred on a Sabbath, emphasizing the significance of Jesus' actions on that day.",
+            "wordCount": 105,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.8247864781888703,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+            "commentatorTierSimilarities": [
+                33.84,
+                39.97,
+                26.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On another Sabbath, a man with a withered right hand sought Jesus' help. The synoptic Gospels describe this incident, with Matthew and Mark providing more context, including the Pharisees questioning Jesus about healing on the Sabbath. Luke, as a physician, notes the man's withered right hand, showcasing his attention to detail. The accuracy and precision in these accounts highlight the significance of Jesus' actions on that particular Sabbath day.",
+            "wordCount": 70,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.9360036253727873,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.71,
+            "commentatorTierSimilarities": [
+                32.51,
+                40.82,
+                26.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

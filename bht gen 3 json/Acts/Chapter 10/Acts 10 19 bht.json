@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:29:17",
+    "verseRef": "Acts 10:19",
+    "bestBHT": {
+        "bht": "Peter, deeply engrossed in his thoughts, earnestly pondered the meaning of the strange vision. As he silently contemplated and revolved it in his mind, the Spirit interrupted him, saying, Behold, three men seek thee. This sudden contact from the Spirit served as Peter's first indication of the external circumstances accompanying his vision. Gradually, God prepared Peter to receive His new admonition, shedding light for the present hour and leading him step-by-step in His divine instruction.",
+        "wordCount": 78,
+        "quoteTokenProportion": 27.59,
+        "qualityScore": 1.5962032170279834,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.42,
+        "commentatorTierSimilarities": [
+            14.83,
+            42.07,
+            43.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] See ch. viii. 29, note."
+        ],
+        "Albert Barnes": [
+            "The Spirit - See the notes on Acts 8:29. Compare Isaiah 65:24, \u201cAnd it shall come to pass, that before they call I will answer,\u201d etc."
+        ],
+        "Marvin Vincent": [
+            "Thought on [\u03b4\u03b9\u03b5\u03bd\u03b8\u03c5\u03bc\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c5] . Was earnestly [\u03b4\u03b9\u03b1] pondering."
+        ],
+        "Philip Schaff": [
+            "While Peter thought on the vision. This gives renewed emphasis to what is said in Acts 10:17. This phrase is stronger. He was silently pondering on the vision and revolving it in his mind.",
+            "As to Peter\u2019s state of mind at this moment, he could not doubt that what he had seen was intended for some Divine instruction.",
+            "Behold, three men seek thee. Here is his first intimation of the outward circumstances which are to be connected with his vision. This is the next step in his instruction; and it is given in the simplest and most rudimentary form."
+        ],
+        "Archibald T. Robertson": [
+            "Peter was revolving in his mind, through and through, in and out, to find the meaning of the strange vision.",
+            "\u03b4\u03b9\u03b5\u03bd\u03b8\u03c5\u03bc\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c5: Genitive absolute of present middle participle.",
+            "\u03b4\u03b9\u03b1 and \u03b5\u03bd- with \u03b8\u03c5\u03bc\u03bf\u03c2: A double compound."
+        ],
+        "John Gill": [
+            "While Peter thought on the vision, [...] the Spirit said unto him; [...] behold, three men seek thee.\" ",
+            "The Spirit of God is omniscient, and knows all things; if the deep things of God, then much more man, and the things of man."
+        ],
+        "John Wesley": [
+            "How gradually was St. Peter prepared to receive this new admonition of the Spirit!",
+            "Thus God is went to lead on his children by degrees.",
+            "Always giving them light for the present hour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter was deeply engrossed in his thoughts, diligently trying to comprehend the significance of the bewildering vision that had been shown to him. As he contemplated its meaning, pondering it from every angle, the Spirit gently interrupted him with a message. \u201cBehold, three men seek thee,\u201d the Spirit conveyed. This sudden contact from the Spirit served as Peter's first indication that there were external circumstances to accompany his vision. It was clear to Peter that this experiential encounter was designed to convey divine instruction. The Spirit, being all-knowing, provided guidance to Peter, gradually leading him towards a fuller understanding. God faithfully illuminates the path for His children, offering light precisely for the present moment.",
+            "wordCount": 116,
+            "quoteTokenProportion": 32.53,
+            "qualityScore": 1.569126857854525,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "commentatorTierSimilarities": [
+                13.21,
+                43.99,
+                42.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, deeply engrossed in his thoughts, earnestly pondered the meaning of the strange vision. As he silently contemplated and revolved it in his mind, the Spirit interrupted him, saying, Behold, three men seek thee. This sudden contact from the Spirit served as Peter's first indication of the external circumstances accompanying his vision. Gradually, God prepared Peter to receive His new admonition, shedding light for the present hour and leading him step-by-step in His divine instruction.",
+            "wordCount": 78,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.5962032170279834,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.42,
+            "commentatorTierSimilarities": [
+                14.83,
+                42.07,
+                43.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, actively engrossed in contemplation, was deeply pondering the bewildering vision. The Spirit interrupted his thoughts, conveying a message: Behold, three men seek thee. This sudden encounter marked Peter's initial awareness of the external circumstances associated with his vision. God's gentle guidance gradually prepared Peter for further instruction. He leads His children incrementally, providing illumination, always offering light tailored to their present journey.",
+            "wordCount": 65,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.4231319007695817,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.66,
+            "commentatorTierSimilarities": [
+                14.41,
+                38.14,
+                47.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter earnestly pondered the meaning of the vision, with thoughts swirling in his mind as he tried to comprehend its significance. Suddenly, the Spirit interrupted his contemplation, informing him, Behold, three men seek thee. This unexpected interruption marked the beginning of the external circumstances accompanying Peter's vision. Through gradual steps, God prepared Peter to receive divine instruction, offering guidance tailored for the present moment, illuminating the path of His children.",
+            "wordCount": 71,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.5158640511298749,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.75,
+            "commentatorTierSimilarities": [
+                14.86,
+                41.36,
+                43.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Deeply immersed in contemplation, Peter diligently sought to grasp the profound meaning behind the mysterious vision. His mind engaged in a comprehensive analysis, exploring every aspect and trying to unravel its purpose. Suddenly, the Spirit interjected, conveying a message in a gentle interruption: Behold, three men seek thee. This divine interruption provided Peter with an initial glimpse of the external circumstances accompanying his vision. God, ever patient and gradual in His guidance, steadily led Peter towards a fuller comprehension, consistently illuminating the path with present-day clarity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.3859084417582017,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.42,
+            "commentatorTierSimilarities": [
+                14.78,
+                42.14,
+                43.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

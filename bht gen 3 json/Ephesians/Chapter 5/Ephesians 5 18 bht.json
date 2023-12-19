@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:34:20",
+    "verseRef": "Ephesians 5:18",
+    "bestBHT": {
+        "bht": "Do not be drunk with wine, but be filled with the Spirit. The abuse of wine is the real crime, not God's gift itself. Christians should be full in Spirit, expressing their joy not in drunken or worldly songs, but in Christian hymns of thankfulness. Being filled with the Spirit brings an ecstatic exhilaration, similar to that caused by wine, but distinct from it, leading to abiding exaltation in the fellowship of the Holy Spirit.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 2.4522914724203435,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.88,
+        "commentatorTierSimilarities": [
+            36.44,
+            35.26,
+            28.3
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The crime is not in God's gift, but in the abuse of it.",
+            "The very arrangement of the sentence in the Greek, besides the spirit of it, implies the lawful use of wine.",
+            "If you are full of the Spirit, full in Spirit, there will be a joy indeed, but not that of profligacy: one which will find its expression not in drunken songs, but in Christian hymns, and continual thankfulness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The effect in inspiration was that the person was 'filled' with an ecstatic exhilaration, like that caused by wine.\" ",
+            "Hence arose the abstinence from wine of many of the prophets...in order to keep distinct before the world the ecstasy caused by the Spirit, from that caused by wine.\" ",
+            "Such a one expresses his joy, not in drunken or worldly songs, but in Christian hymns of thankfulness."
+        ],
+        "Albert Barnes": [
+            "All intoxication is prohibited in the Scriptures - no matter by what means it is produced.",
+            "How can a man prove that it is right for him to drink alcohol in the form of wine, and that it is wrong for me to drink it in the form of brandy or rum?",
+            "Let Christians, when about to indulge in a glass of wine, think of this admonition. Let them remember that their bodies should be the temple of the Holy Spirit, rather than a receptacle for intoxicating drinks."
+        ],
+        "Marvin Vincent": [
+            "Be not drunk [\u03bc\u03b7 \u03bc\u03b5\u03b8\u03c5\u03c3\u03ba\u03b5\u03c3\u03b8\u03b5] . See on John 2:10. ",
+            "Wherein. In drunkenness, not in wine. ",
+            "Excess [\u03b1\u03c3\u03c9\u03c4\u03b9\u03b1] . Rev., riot. Lit., unsavingness. See on riotous living, Luke 14:13."
+        ],
+        "John Calvin": [
+            "Be not intemperate in drinking.",
+            "That drunkards throw off quickly every restraint of modesty or shame.",
+            "To what does drunkenness lead? To unbounded licentiousness."
+        ],
+        "Philip Schaff": [
+            "But this word is not the prominent one. Wherein refers to becoming drunk, not to \u2018wine,\u2019 since the moral quality is not attributed to a material object, but to a human habit.",
+            "There is in the vice of intemperance that kind of dissoluteness which brooks no restraint, which defies all efforts to reform it, and which sinks lower and lower into helpless ruin.",
+            "The Christian\u2019s joy is not brief intoxication, but abiding exaltation in the fellowship of the Holy Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "Be not drunken with wine...\" - Present passive imperative of \u03bc\u03b5\u03b8\u03c5\u03c3\u03ba\u03c9, old verb to intoxicate. Forbidden as a habit and to stop it also if guilty.",
+            "Riot (\u03b1\u03c3\u03c9\u03c4\u03b9\u03b1)...\" - Old word from \u03b1\u03c3\u03c9\u03c4\u03bf\u03c2 (adverb \u03b1\u03c3\u03c9\u03c4\u03c9\u03c2 in Luke 15:13), in N.T. only here, Titus 1:6; 1 Peter 4:4.",
+            "But be filled with the Spirit (\u03b1\u03bb\u03bb\u03b1 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c5\u03c3\u03b8\u03b5 \u03b5\u03bd \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4).\" - In contrast to a state of intoxication with wine."
+        ],
+        "John Gill": [
+            "The sin of drunkenness here dehorted from, is a custom, or habit, of voluntary excessive drinking of any strong liquor, whereby the mind is disturbed, and deprived of the use of reason.",
+            "Excessive drinking deprives persons of the use of reason, though not always; and such are criminal, who are mighty to drink wine, and strong to mingle strong drink; as are also such, who though not guilty of this sin themselves, are the means of it in others.",
+            "It hurts the mind, memory, and judgment; deprives of reason, and sets a man below a beast; it brings diseases on the body, and wastes the estate; it unfits for business and duty; it opens a door for every sin, and exposes to shame and danger; and therefore should be carefully avoided, and especially by professors of religion."
+        ],
+        "John Wesley": [
+            "Which leads to debauchery of every kind.",
+            "Be ye filled with the Spirit \u2014 In all his graces.",
+            "Who gives a more noble pleasure than wine can do."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not be drunk with wine, but be filled with the Spirit. The abuse of God's gift of wine is the real crime, whereas the lawful use of it is implied in the very arrangement of the sentence. When you are filled with the Spirit, your joy will find expression in Christian hymns and continuous thankfulness, not in drunken songs. The filling of the Spirit brings an ecstatic exhilaration similar to that caused by wine, but it is distinct from it. Therefore, instead of indulging in excess and riot, Christians should seek to be filled with the Spirit, experiencing abiding exaltation in the fellowship of the Holy Spirit.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.365845791840637,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.0,
+            "commentatorTierSimilarities": [
+                36.52,
+                35.82,
+                27.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not be drunk with wine, but be filled with the Spirit. The abuse of God's gift of wine is the real crime, whereas the lawful use of it is implied in the very arrangement of the sentence. When you are filled with the Spirit, your joy will find expression in hymns and continual thankfulness. The filling of the Spirit brings an ecstatic exhilaration like that caused by wine, but it is distinct from it. Christians should seek to be filled with the Spirit, experiencing abiding exaltation in the fellowship of the Holy Spirit.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.265720850124775,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.68,
+            "commentatorTierSimilarities": [
+                35.73,
+                36.3,
+                27.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not be drunken with wine, but be filled with the Spirit. The abuse lies not in God's gift, but in its misuse. The arrangement of the sentence implies the lawful use of wine, but excess and riotous living are to be avoided. Instead, Christians should be full in Spirit, expressing their joy not in worldly songs, but in hymns of thankfulness. Being filled with the Spirit brings about an exhilaration akin to wine, yet distinct from it, and leads to abiding exaltation in the fellowship of the Holy Spirit.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.2537646139900827,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.28,
+            "commentatorTierSimilarities": [
+                36.06,
+                34.13,
+                29.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not be drunk with wine, but be filled with the Spirit. The abuse of wine is the real crime, not God's gift itself. The arrangement of the sentence implies the lawful use of wine, while excess and riotous living are to be avoided. Christians should be full in Spirit, expressing their joy not in drunken or worldly songs, but in Christian hymns of thankfulness. Being filled with the Spirit brings an ecstatic exhilaration, similar to that caused by wine, but distinct from it, leading to abiding exaltation in the fellowship of the Holy Spirit.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.3963277478483542,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.02,
+            "commentatorTierSimilarities": [
+                36.17,
+                34.86,
+                28.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not be drunk with wine, but be filled with the Spirit. The abuse of wine is the real crime, not God's gift itself. Christians should be full in Spirit, expressing their joy not in drunken or worldly songs, but in Christian hymns of thankfulness. Being filled with the Spirit brings an ecstatic exhilaration, similar to that caused by wine, but distinct from it, leading to abiding exaltation in the fellowship of the Holy Spirit.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.4522914724203435,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.88,
+            "commentatorTierSimilarities": [
+                36.44,
+                35.26,
+                28.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

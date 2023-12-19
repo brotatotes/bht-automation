@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 13:59:12",
+    "verseRef": "1 Thessalonians 3:11",
+    "bestBHT": {
+        "bht": "Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. As the singular verb suggests, the Father and Son are one in essential being, not just in unity of will. The apostle's prayer reveals their trust in the divine rank and power of Christ, acknowledging Him as the source of energy and blessings.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.2175050539345644,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.07,
+        "commentatorTierSimilarities": [
+            28.92,
+            33.79,
+            37.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This word exalts the absolute power of God and the Lord Jesus\u2014if He expedites the way, it will be accomplished.\" ",
+            "Himself then is in contrast with ourselves, who have once and again tried to come to you, but have been hindered by Satan.\" ",
+            "It would be hardly possible that it should be so, unless some reason existed in the subjects of the verb. Mere unity of will between the Father and the Son would not be enough, unless absolute unity were also in the writer\u2019s mind."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'Himself' stands in contrast with 'we' ( :-) we desired to come but could not through Satan's hindrance; but if God Himself direct our way (as we pray), none can hinder Him.\" ",
+            "It is a remarkable proof of the unity of the Father and Son, that in the Greek here, and in 2 Thessalonians 2:16; 2 Thessalonians 2:17, the verb is singular, implying that the subject, the Father and Son, are but one in essential Being, not in mere unity of will.",
+            "Almost all the chapters in both Epistles to the Thessalonians are sealed, each with its own prayer."
+        ],
+        "Albert Barnes": [
+            "Now God himself - This is evidently a prayer.",
+            "It is right therefore to offer prayer to God as the First Person of the Trinity.",
+            "What can be its meaning, unless the apostle believed that the Lord Jesus had power to direct his way to them, and that it was proper for him to express this wish to him; that is, to pray to him?"
+        ],
+        "Marvin Vincent": [
+            "Direct [\u03ba\u03b1\u03c4\u03b5\u03c5\u03b8\u03c5\u03bd\u03b1\u03b9] . Lit. make straight. Only in Paul and Luke. See on Luke 1:79, and comp. 2 Thessalonians 3:5. Frequent in LXX"
+        ],
+        "John Calvin": [
+            "He now prays that the Lord, having removed Satan\u2019s obstructions, may open a door for himself, and be, as it were, the leader and director of his way to the Thessalonians.",
+            "We cannot move a step with success otherwise than under God\u2019s guidance, but that when he holds out his hand, it is to no purpose that Satan employs every effort to change the direction of our course.",
+            "He assigns the same office to God and to Christ, as, unquestionably, the Father confers no blessing upon us except through Christ\u2019s hand."
+        ],
+        "Philip Schaff": [
+            "May He whose power cannot be baffled by Satan as my efforts have been, may He whose purposes stand fast and who overrules all human affairs, bring me to you.",
+            "Divine rank and Divine power are thus ascribed to Him [Christ].",
+            "It exhibits them [God and Jesus Christ] as one source of energy."
+        ],
+        "Archibald T. Robertson": [
+            "Our God and Father himself (\u03b1\u03c5\u03c4\u03bf\u03c2 \u03bf \u03b8\u03b5\u03bf\u03c2 \u03ba\u03b1 \u03c0\u03b1\u03c4\u03b7\u03c1 \u03b7\u03bc\u03c9\u03bd). Note one article with both substantives for one person.",
+            "Separate article here with \u0399\u03b7\u03c3\u03bf\u03c5\u03c2. In Titus 2:13; 2 Peter 1:1 only one article (not two) treating 'our God and Saviour Jesus Christ' as one just like 'our Lord and Saviour Jesus Christ' in 2 Peter 1:11; 2 Peter 2:20; 2 Peter 3:18.",
+            "First aorist optative (acute accent on penult, not circumflex first aorist active infinitive) of \u03ba\u03b1\u03c4\u03b5\u03c5\u03b8\u03c5\u03bd\u03c9, old verb to make straight path. Singular verb also, though both God and Christ mentioned as subject (unity in the Godhead)."
+        ],
+        "John Gill": [
+            "He is a God that hears prayer; and who is omnipotent, and able to do more than the saints can ask or think; and omniscient, and knows their persons and cases, and what is proper for them, and how and when to help and supply them.",
+            "He is the Father of Christ, and of all the saints... to encourage freedom and boldness in prayer, which children may use with a father, and to raise an expectation of succeeding and receiving an answer.",
+            "Journey is not to be taken without the will of God, without seeking to know it, without submission to it, and dependence on it; nor is there any prosperous one, but by it."
+        ],
+        "John Wesley": [
+            "Direct our way \u2014 This prayer is addressed to Christ, as well as to the Father."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. As the singular verb suggests, the Father and Son are one in essential being, not just in unity of will. It is fitting to offer this prayer to God as the First Person of the Trinity, believing that the Lord Jesus has the power to direct and fulfill their desires. The apostle's prayer reveals their trust in the divine rank and power of Christ, acknowledging Him as the source of energy and blessings.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.293014832010813,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.58,
+            "commentatorTierSimilarities": [
+                27.03,
+                35.5,
+                37.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. As the singular verb suggests, the Father and Son are one in essential being, not just in unity of will. The apostle's prayer reveals their trust in the divine rank and power of Christ, acknowledging Him as the source of energy and blessings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.2175050539345644,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.07,
+            "commentatorTierSimilarities": [
+                28.92,
+                33.79,
+                37.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. The singular verb suggests the essential unity of the Father and Son. This prayer reflects their trust in Christ's divine rank and power, recognizing Him as the source of blessings and energy.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.1650258108354685,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.33,
+            "commentatorTierSimilarities": [
+                26.97,
+                35.15,
+                37.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. Mere unity of will between the Father and the Son would not be enough, unless absolute unity were also in the writer\u2019s mind. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. The apostle's prayer reveals their trust in the divine rank and power of Christ, acknowledging Him as the source of energy and blessings.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.1965278838003264,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.38,
+            "commentatorTierSimilarities": [
+                29.13,
+                33.65,
+                37.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. The singular verb suggests the essential unity of the Father and Son. This prayer reflects their trust in Christ's divine rank and power, recognizing Him as the source of blessings and energy.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.1650258108354685,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.33,
+            "commentatorTierSimilarities": [
+                26.97,
+                35.15,
+                37.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

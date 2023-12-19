@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:25:57",
+    "verseRef": "Acts 4:7",
+    "bestBHT": {
+        "bht": "By what kind of power or name have you performed this miracle? The Sanhedrin, in their attempt to intimidate the apostles, questioned them with contemptuous emphasis. They sought to convict Peter and John of sorcery, desiring to bring them under the death-sentence prescribed in the law. God, however, overturned their cunning and compelled them to hear what they did not wish to hear.",
+        "wordCount": 64,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.9110476945594423,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+        "commentatorTierSimilarities": [
+            21.94,
+            41.68,
+            36.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By what kind of power? of what kind was the enabling cause, the element in which, as its condition, the deed was wrought?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. By what power or . . . name have",
+            "\tye done this\u2014thus admitting the reality of the miracle, which",
+            "\tafterwards they confess themselves unable to deny ( :-)."
+        ],
+        "Albert Barnes": [
+            "By what power ... - A similar question was put to Christ in the temple, Matthew 21:23.",
+            "By what name - That is, by whose authority. It is very probable that they expected to intimidate the apostles by this question.",
+            "It has been usual with the enemies of religion to attempt to intimidate its friends, and when argument fails, to attempt to silence Christians by appealing to their fears."
+        ],
+        "Marvin Vincent": [
+            "What power - what name. Lit., what sort of power; what kind of name. ",
+            "Have ye done. The ye closes the sentence in the Greek with a contemptuous emphasis : you people."
+        ],
+        "John Calvin": [
+            "They deal as if they were most earnest defenders and maintainers of God\u2019s glory.",
+            "Their importunateness is wonderful, in that they go about to drive the apostles to make denial.",
+            "But God doth bring their crafty wiliness to nought, and maketh them hear that which they would not."
+        ],
+        "Philip Schaff": [
+            "The judges well knew the name, but they wanted to convict Peter and John of sorcery, by having worked a miracle not in the name of God, but of a crucified malefactor.",
+            "They hoped to bring the apostles under the awful death-sentence pronounced in the law (Deuteronomy 13:0), which especially provides for the case when the sign or the wonder comes to pass.",
+            "Maimonides, commenting on the words of Deuteronomy 13:0, speaks of one endeavoring to turn away the people from the Lord their God, and tells them that the sign such an one had performed was done by enchantment and witchcraft, and that, therefore, he must be strangled."
+        ],
+        "Archibald T. Robertson": [
+            "The Sanhedrin sat in a semicircle.",
+            "Began to inquire.",
+            "Emphatic use of ye."
+        ],
+        "John Gill": [
+            "And when they had set them in the midst... in the middle of the sanhedrim...",
+            "...they asked, by what power, or by what name have ye done this?",
+            "...whether it was by a natural, or by a divine, or by a diabolical power..."
+        ],
+        "John Wesley": [
+            "By what name \u2014 By what authority, have ye done this? - They seem to speak ambiguously on purpose."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By what kind of power and name have you done this? The Sanhedrin, sitting in a semicircle, began to inquire with an emphatic use of you people. This question, reminiscent of one posed to Christ in the temple, was likely an attempt to intimidate the apostles by questioning their authority. The judges knew the name but hoped to convict Peter and John of sorcery, wanting to bring them under the death-sentence pronounced in the law. However, God nullified their crafty wiliness and made them hear what they did not want to.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8626463991374638,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                23.25,
+                42.3,
+                34.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By what kind of power and name have you done this? The Sanhedrin, sitting in a semicircle, began to inquire with an emphatic use of you people. The judges, wanting to convict Peter and John of sorcery, knew the name but hoped to bring them under the death-sentence pronounced in the law. However, God nullified their crafty wiliness and made them hear what they did not want to.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.8197949424041187,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                25.75,
+                36.95,
+                37.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By what kind of power or name have you performed this miracle? The Sanhedrin, in their attempt to intimidate the apostles, questioned them with contemptuous emphasis. They sought to convict Peter and John of sorcery, desiring to bring them under the death-sentence prescribed in the law. God, however, overturned their cunning and compelled them to hear what they did not wish to hear.",
+            "wordCount": 64,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9110476945594423,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                21.94,
+                41.68,
+                36.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By what kind of power or name have you done this? The Sanhedrin, sitting in a semicircle, began to inquire with an emphatic use of you people. The judges, knowing the name, hoped to convict Peter and John of sorcery, desiring to bring them under the death-sentence prescribed in the law. But God nullified their crafty wiliness and made them hear what they did not want to.",
+            "wordCount": 68,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.8023197309626378,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                26.51,
+                34.8,
+                38.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By what kind of power or name have you done this? The Sanhedrin, sitting in a semicircle, began to inquire with an emphatic use of you people. The judges, wanting to convict Peter and John of sorcery, sought to bring them under the death-sentence prescribed in the law. However, God nullified their crafty wiliness and made them hear what they did not want to hear.",
+            "wordCount": 66,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.7955693199433034,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+            "commentatorTierSimilarities": [
+                27.01,
+                35.17,
+                37.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

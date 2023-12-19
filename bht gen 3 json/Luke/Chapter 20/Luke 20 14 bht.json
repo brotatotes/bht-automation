@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:22:06",
+    "verseRef": "Luke 20:14",
+    "bestBHT": {
+        "bht": "When the husbandmen saw him, they recognized the heir, the one destined to possess God's inheritance. This inheritance, the possession of God's Son in our nature, had the potential to elevate mere servants to lords. It is unfortunate that the wickedness of their hearts led them to plot the murder of the heir, for they desired to claim the inheritance as their own. Their reasoning among themselves revealed the depravity within their souls, rooted in the deep aim of obtaining the inheritance.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.5890594681548076,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+        "commentatorTierSimilarities": [
+            42.86,
+            0.0,
+            57.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14. when the husbandmen saw him] This is taken up from when they saw him of the verse before, and is emphatic\u2014On the contrary, when they saw him...."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the heir\u2014sublime expression of the great truth, that God's inheritance was destined for, and in due time to come into the possession of, His Son in our nature.\" ",
+            "inheritance . . . ours\u2014and so from mere servants we may become lords.",
+            "the deep aim of the depraved heart, and literally 'the root of all evil'."
+        ],
+        "Archibald T. Robertson": [
+            "That the inheritance may become.\" ",
+            "Let us get, ingressive aorist active subjunctive.\" ",
+            "And it will be ours."
+        ],
+        "John Gill": [
+            "They reasoned among themselves; as the Scribes and Pharisees, and elders of the people often did.",
+            "This is the heir; the heir of God, being his Son; and so the Ethiopic version.",
+            "Come, let us kill him, that the inheritance may be ours."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the husbandmen saw him, their intention became clear. They recognized the heir and understood that the inheritance was destined for Him. This inheritance, the possession of God's Son in our nature, had the potential to elevate mere servants to lords. It is unfortunate that the wickedness of their hearts led them to plot the murder of the heir, for they desired to claim the inheritance as their own. Their reasoning among themselves highlighted the depravity lurking within their souls.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3959050346644748,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.76,
+            "commentatorTierSimilarities": [
+                42.82,
+                0.0,
+                57.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the husbandmen saw him, they recognized the heir, the one destined to possess God's inheritance. This sublime truth reveals that through Him, servants can become lords. Tragically, the depraved heart's deep aim is to obtain this inheritance for themselves. Their wicked intent led them to plot the murder of the heir, driven by the desire for the inheritance to be theirs. Their reasoning among themselves exposed the sinister nature hidden within their hearts.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.4003167362567313,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.9,
+            "commentatorTierSimilarities": [
+                44.4,
+                0.0,
+                55.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the husbandmen saw him, they recognized the heir, the one destined to possess God's inheritance. Through him, servants can become lords. Tragically, the depraved heart's aim is to obtain this inheritance for themselves. Their wicked intent led them to plot the murder of the heir, driven by the desire for the inheritance to be theirs.",
+            "wordCount": 58,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5275498630078452,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+            "commentatorTierSimilarities": [
+                42.81,
+                0.0,
+                57.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the husbandmen saw him, their intention became clear. They recognized the heir, the one destined to possess God's inheritance. This inheritance, the possession of God's Son in our nature, had the potential to elevate mere servants to lords. It is unfortunate that the wickedness of their hearts led them to plot the murder of the heir, for they desired to claim the inheritance as their own. Their reasoning among themselves highlighted the depravity lurking within their souls.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.3975017124589755,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.81,
+            "commentatorTierSimilarities": [
+                42.93,
+                0.0,
+                57.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the husbandmen saw him, they recognized the heir, the one destined to possess God's inheritance. This inheritance, the possession of God's Son in our nature, had the potential to elevate mere servants to lords. It is unfortunate that the wickedness of their hearts led them to plot the murder of the heir, for they desired to claim the inheritance as their own. Their reasoning among themselves revealed the depravity within their souls, rooted in the deep aim of obtaining the inheritance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5890594681548076,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+            "commentatorTierSimilarities": [
+                42.86,
+                0.0,
+                57.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

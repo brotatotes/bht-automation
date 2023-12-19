@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 15:27:56",
+    "verseRef": "Ephesians 2:14",
+    "bestBHT": {
+        "bht": "Christ, He and none other, is our peace in the widest sense. He Himself reconciled and united us to God and one another, destroying the enmity through His flesh. In Him, both Jew and Gentile become one, as race and national distinctions vanish. The wall of separation, represented by the Sinaitic law, was broken down by Christ, who is not just our peacemaker but our very peace itself. This refers to the wall in the temple dividing the Gentiles from Israel and symbolizes the Mosaic economy that separated them.",
+        "wordCount": 89,
+        "quoteTokenProportion": 50.77,
+        "qualityScore": 2.3464014353325267,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.36,
+        "commentatorTierSimilarities": [
+            34.68,
+            32.4,
+            32.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For He (there is an emphasis on He, \u2018He and none other\u2019) is our peace (in the widest and most literal sense, our peace.",
+            "Christ destroyed the partition, i.e. the enmity, in, or by, His flesh; see on ver. 16, where the same idea is nearly repeated.",
+            "Observe, too, ONE new man: we are all in God\u2019s sight but one in Christ, as we are but one in Adam."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Himself alone, pre-eminently, and none else. Emphatical.",
+            "He took both into Himself, and reconciled them, united, to God, by His assuming our nature and our penal and legal liabilities.",
+            "the twofold wall represented the Sinaitic law, which both severed all men, even the Jews, from access to God (through sin, which is the violation of the law), and also separated the Gentiles from the Jews."
+        ],
+        "Albert Barnes": [
+            "The best way to produce peace between alienated minds is to bring them to the same Saviour.",
+            "The work of the atonement is thus designed not only to produce peace with God, but peace between alienated and contending minds.",
+            "This great work of the atonement is thus designed to produce peace in alienated minds everywhere, and to diffuse abroad the feeling of universal brotherhood."
+        ],
+        "Marvin Vincent": [
+            "Christ is thus not merely our peace-maker, but our very peace itself.",
+            "The wall which pertained to the fence; the fact of separation being emphasized in wall, and the instrument of separation in fence.",
+            "The hedge was the whole Mosaic economy which separated Jew from Gentile."
+        ],
+        "John Calvin": [
+            "What a beautiful title is this which Christ possesses, \u2014 the peace between God and men! Let no one who dwells in Christ entertain a doubt that he is reconciled to God.",
+            "If the Jews wish to enjoy peace with God, they must have Christ as their Mediator. But Christ will not be their peace in any other way than by making them one body with the Gentiles. Therefore, unless the Jews admit the Gentiles to fellowship with them, they have no friendship with God.",
+            "By extending the privilege of adoption beyond the limits of Judea, Christ has now made us all to be brethren."
+        ],
+        "Philip Schaff": [
+            "He is our peace. The subject is emphatic: \u2018He and none other\u2019; the personal Christ, whose blood was shed, is Himself our peace, not simply our peacemaker.\" ",
+            "'Peace' is here to be taken in its widest sense, as the complex idea of peace between God and man, and between Jews and Gentiles.",
+            "The figures may have been suggested by the Jewish temple. 'There was there a court of the Gentiles (Acts 21:28), though only in later times, in the last temple; a vail which separated like a wall, rent first at the death of the Redeemer'."
+        ],
+        "Archibald T. Robertson": [
+            "For he is our peace. He himself, not just what he did... He is our peace with God and so with each other (Jews and Gentiles).",
+            "Both one... Jesus had said 'other sheep I have which are not of this fold'. One is neuter singular... Race and national distinctions vanish in Christ.",
+            "Brake down the middle wall of partition... In the temple courts a partition wall divided the court of the Gentiles from the court of Israel with an inscription forbidding a Gentile from going further."
+        ],
+        "John Gill": [
+            "Christ has made peace between them by abrogating the ceremonial law, which was the occasion of the difference, and by sending the Gospel of peace to them both, by converting some of each, and by granting the like privileges to them all.",
+            "Christ is the author of peace between God and his people; there is naturally in man an enmity to God; sin has separated chief friends; nor can man make his peace with God; what he does, or can do, will not do it; and what will, he cannot do; Christ is the only fit and proper person for this work.",
+            "Christ removed it, and made up the difference: the allusion seems to be to the wall which divided the court of Israel from the court of the Gentiles, in the temple, and which kept them at a distance in worship."
+        ],
+        "John Wesley": [
+            "He is our peace - Not only as he purchased it, but as he is the very bond and centre of union.",
+            "He who hath made both - Jews and gentiles, one church.",
+            "And hath broken down the middle wall of partition - Alluding to that wall of old, which separated the court of Israel from the court of the gentiles. Such a wall was the ceremonial law, which Christ had now taken away."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Christ, He and none other, is our peace in the widest sense. He Himself destroyed the enmity through His flesh, reconciling and uniting us to God and one another. Both Jew and Gentile, in Christ, become one, as race and national distinctions vanish. The wall of separation, represented by the Sinaitic law, was broken down by Christ, who is not just our peacemaker but our very peace itself. This refers to the wall in the temple dividing the Gentiles from Israel, symbolizing the Mosaic economy that separated them. Jesus, the personal Christ, is our peace, making peace between alienated minds and diffusing universal brotherhood. Let us dwell in Christ and have no doubt that we are reconciled to God, embracing fellowship with one another.",
+            "wordCount": 124,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 2.399410262163805,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.12,
+            "commentatorTierSimilarities": [
+                31.87,
+                34.94,
+                33.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, He and none other, is our peace in the widest sense. He Himself reconciled and united us to God and one another, destroying the enmity through His flesh. In Him, both Jew and Gentile become one, as race and national distinctions vanish. The wall of separation, represented by the Sinaitic law, was broken down by Christ, who is not just our peacemaker but our very peace itself. This refers to the wall in the temple dividing the Gentiles from Israel and symbolizes the Mosaic economy that separated them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 2.3464014353325267,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.36,
+            "commentatorTierSimilarities": [
+                34.68,
+                32.4,
+                32.93
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

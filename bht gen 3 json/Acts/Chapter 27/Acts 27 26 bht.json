@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:36:58",
+    "verseRef": "Acts 27:26",
+    "bestBHT": {
+        "bht": "Spoken prophetically, at this crisis, Paul announces by a power imparted to him the divine counsel, even though it was not revealed to him which island they would be cast upon. This foretelling serves to manifest that this event was not by chance, but predetermined and predicted by God.",
+        "wordCount": 49,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7988708506292943,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+        "commentatorTierSimilarities": [
+            43.12,
+            7.62,
+            49.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Spoken prophetically, as also ver. 31: not perhaps from actual revelation imparted in the vision, but by a power imparted to Paul himself of penetrating the future at this crisis, and announcing the Divine counsel."
+        ],
+        "Albert Barnes": [
+            "Howbeit - Nevertheless.",
+            "Upon a certain island - Malta. See Acts 28:1."
+        ],
+        "Philip Schaff": [
+            "Acts 27:26. Howbeit we must be cast upon a certain island. Prophetic prescience does not imply that everything is clear (see Acts 20:22-23).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "We must be cast. It is necessary for us to fall out.",
+            "It was not revealed to Paul what island it would be."
+        ],
+        "John Gill": [
+            "This circumstance is foretold, that when the whole affair should come to pass, it might be manifest that it was not a casual thing, a fortuitous event, a business of chance, but was predetermined by God, made known to the apostle, and predicted by him.",
+            "This island was Melita; and the fulfilment of this part of the prediction is related in Acts 28:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Spoken prophetically, at this crisis, Paul announces by a power imparted to him the divine counsel, even though it was not revealed to him which island they would be cast upon. This foretelling serves to manifest that this event was not by chance, but predetermined and predicted by God. The fulfillment of this prophecy is found in Acts 28:1 on the island of Melita, also known as Malta.",
+            "wordCount": 67,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.7716796094280132,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.25,
+            "commentatorTierSimilarities": [
+                34.87,
+                16.03,
+                49.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Spoken prophetically, at this crisis, Paul announces by a power imparted to him the divine counsel, even though it was not revealed to him which island they would be cast upon. This foretelling serves to manifest that this event was not by chance, but predetermined and predicted by God.",
+            "wordCount": 49,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7988708506292943,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+            "commentatorTierSimilarities": [
+                43.12,
+                7.62,
+                49.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 27:26, Paul speaks prophetically, foreseeing that they must be cast upon a certain island. His words are not a revelation of the specific island but rather a divine counsel that he announces based on a power given to him to penetrate the future at that crucial moment. This prophetic prescience does not mean that everything is clear, but it serves to manifest that the forthcoming events were not random or chance, but rather predetermined by God and made known to Paul. The fulfillment of this prediction can be seen in Acts 28:1, where it is revealed that the island is Malta.",
+            "wordCount": 101,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.7555950397981304,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                34.37,
+                22.7,
+                42.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in Acts 27:26, speaks prophetically, foreseeing their necessitated casting upon a certain island. His words bear the divine counsel and demonstrate his ability to pierce the future at that crucial moment. The prophetic prescience does not provide clarity regarding the specific island, but it serves to make known that the forthcoming events were predetermined by God and revealed to Paul. The fulfillment of this prediction occurs in Acts 28:1, where the island is identified as Malta.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5936406267013037,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.33,
+            "commentatorTierSimilarities": [
+                34.76,
+                23.12,
+                42.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Speaking prophetically, Paul announces in Acts 27:26 that it is necessary for them to be cast upon a certain island, although the specific island is not revealed. His words signify the divine counsel and his ability to penetrate the future. This prophetic insight reinforces the fact that the events to come were not haphazard or random, but rather predetermined by God and disclosed to Paul. The fulfillment of this prediction can be seen in Acts 28:1, where it is revealed that the island is Malta.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.612398764860639,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                35.43,
+                20.88,
+                43.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

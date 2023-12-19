@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:18:46",
+    "verseRef": "Luke 11:52",
+    "bestBHT": {
+        "bht": "The religious leaders had taken away the key of knowledge, which was a right understanding of the Law and Prophets. By substituting their own traditions and false interpretations, they shut the kingdom of heaven in men's faces. They refused to enter the house of knowledge themselves, locking the door and hiding the key from those who wanted to enter. This is a pitiful picture of blind leaders trying to keep others blind, falling into the pit. The key of knowledge is essential, for it is a right knowledge of God's Word that leads to eternal life.",
+        "wordCount": 98,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.9704814920633864,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.86,
+        "commentatorTierSimilarities": [
+            40.1,
+            30.48,
+            29.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye took away the key of knowledge... the key is the know-ledge.\" ",
+            "The key of knowledge... that right understanding of the Law and Prophets.",
+            "Shutting the kingdom of heaven in men's faces."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "key of knowledge\u2014not the key to open knowledge, but knowledge, the only key to open heaven.",
+            "A right knowledge of God's Word is eternal life.",
+            "they took away from the people, substituting for it their wretched traditions."
+        ],
+        "Albert Barnes": [
+            "A key is made to open a lock or door. By their false interpretation of the Old Testament they had taken away the true key or method of understanding it.\" ",
+            "If there is any sin of special magnitude, it is that of keeping the people in ignorance.",
+            "Few people are so guilty as they who by false instructions prevent them from coming to a knowledge of the truth, and embracing it as it is in Jesus."
+        ],
+        "Philip Schaff": [
+            "The key of knowledge. \u2018Knowledge\u2019 is the \u2018key.\u2019 This had been taken away by the teaching of the lawyers, which made the people incapable of understanding and accepting salvation in Christ.",
+            "A right understanding of the law would lead to Christ, but the lawyers had so interpreted it as to produce the opposite result.",
+            "When the gospel is preached Pharisaically the effect is the same."
+        ],
+        "Archibald T. Robertson": [
+            "They themselves refused to go into the house of knowledge and learn.",
+            "They then locked the door and hid the key to the house of knowledge and hindered those who were trying to enter.",
+            "It is the most pitiful picture imaginable of blind ecclesiastics trying to keep others as blind as they were, blind leaders of the blind, both falling into the pit."
+        ],
+        "John Gill": [
+            "Ye have taken away the key of knowledge; of the Scriptures, of the law, and the prophets, and the true interpretation of them.\" ",
+            "They had not only arrogated the knowledge of these to themselves, setting up for the only interpreters of the sacred writings; but they had took away from the people the true knowledge and sense of them, by their false glosses upon them.",
+            "By reproaching the miracles and ministry of Christ; by threatenings and excommunications; Matthew 23:13-."
+        ],
+        "John Wesley": [
+            "Ye have taken away the key of knowledge.\" ",
+            "Ye have obscured and destroyed the knowledge of the Messiah.",
+            "Ye have not entered in - Into the present kingdom of heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders had taken away the key of knowledge from the people, which was a right understanding of the Law and Prophets. By substituting their own traditions and false interpretations, they shut the kingdom of heaven in men's faces. They refused to enter the house of knowledge themselves, locking the door and hiding the key from those who wanted to enter. This is a pitiful picture of blind leaders trying to keep others blind, falling into the pit. The key of knowledge is essential, for it is a right knowledge of God's Word that leads to eternal life. The Pharisaical preaching of the gospel has the same effect, preventing people from coming to a true knowledge of the truth and embracing salvation in Christ.",
+            "wordCount": 127,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9577400544621004,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+            "commentatorTierSimilarities": [
+                37.12,
+                33.72,
+                29.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders had taken away the key of knowledge, which was the right understanding of the Law and Prophets, substituting it with their wretched traditions. They refused to enter the house of knowledge themselves, locking the door and hiding the key, thereby preventing others from entering. This pitiful picture reveals blind ecclesiastics trying to keep others blind, falling into the pit. A right knowledge of God's Word is essential for eternal life, yet the Pharisaical preaching of the gospel has the same effect, hindering people from embracing salvation in Christ.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.9157487060423073,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                38.96,
+                34.72,
+                26.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders, by their false interpretations of the Old Testament, had taken away the key of knowledge, which was the right understanding of the Law and Prophets. They substituted it with their wretched traditions, shutting the kingdom of heaven in men's faces. This pitiful picture depicts blind ecclesiastics trying to keep others blind, both falling into the pit. A right knowledge of God's Word is the only key to open heaven, leading to eternal life, but the Pharisaical preaching of the gospel has the same effect, hindering people from embracing salvation in Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.8314526294772437,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+            "commentatorTierSimilarities": [
+                37.19,
+                34.38,
+                28.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders had taken away the key of knowledge, which was a right understanding of the Law and Prophets. By substituting their own traditions and false interpretations, they shut the kingdom of heaven in men's faces. They refused to enter the house of knowledge themselves, locking the door and hiding the key from those who wanted to enter. This is a pitiful picture of blind leaders trying to keep others blind, falling into the pit. The key of knowledge is essential, for it is a right knowledge of God's Word that leads to eternal life.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.9704814920633864,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.86,
+            "commentatorTierSimilarities": [
+                40.1,
+                30.48,
+                29.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders had taken away the key of knowledge, which was the right understanding of the Law and Prophets. They substituted it with their wretched traditions, shutting the kingdom of heaven in men's faces. This pitiful picture depicts blind ecclesiastics trying to keep others blind, both falling into the pit. A right knowledge of God's Word is the only key to open heaven, leading to eternal life. The Pharisaical preaching of the gospel has the same effect, hindering people from embracing salvation in Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.831924418389855,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
+            "commentatorTierSimilarities": [
+                38.46,
+                33.92,
+                27.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

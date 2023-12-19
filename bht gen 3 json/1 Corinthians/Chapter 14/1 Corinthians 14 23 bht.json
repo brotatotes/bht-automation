@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:13:22",
+    "verseRef": "1 Corinthians 14:23",
+    "bestBHT": {
+        "bht": "When plain men or unbelievers enter the assembly and hear the unfamiliar tongues, they perceive it as an unintelligible jargon and conclude that the speakers are mad. This is similar to how people thought the speakers on the day of Pentecost were drunk. The more people that are speaking in unknown tongues, the stronger the impression will be that the entire congregation is a group of fanatical madmen. Unlearned and unbelieving individuals who are unfamiliar with Christianity will likely regard the Christians as raving lunatics.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.1118958268458234,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+        "commentatorTierSimilarities": [
+            35.74,
+            34.06,
+            30.2
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Such plain men, or perhaps a company of unbelievers, have come in:\u2014they have no understanding of what is going on: the \u2018tongues\u2019 sound to them an unmeaning jargon; and they come to the conclusion, \u2018These men are mad;\u2019 just as men did infer, on the day of Pentecost, that the speakers were drunken.",
+            "It is obvious that the hypothesis of all being assembled, and all having the gift, must not be pressed. to infer that no such private person could be found: no one hypothesizes thus rigidly.",
+            "The private person plainly cannot be an unbeliever, for his case is separately mentioned."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The more there are assembled, and the more that speak in unknown tongues, the more will the impression be conveyed to strangers 'coming in'... that the whole body of worshippers is a mob of fanatical 'madmen'.\" ",
+            "The Church is like the company of builders of Babel after the confusion of tongues.",
+            "Unlearned\u2014having some degree of faith, but not gifts."
+        ],
+        "Albert Barnes": [
+            "The idea is, that the church would usually speak the same language with the people among whom they dwelt; and if they made use of foreign languages which were unintelligible to their visitors, it would leave the impression that the church was a bedlam.",
+            "They will not understand what is said; it will be a confused jargon; and they will infer that it is the effect of insanity.",
+            "Even though it might not, therefore, be in itself improper, yet a regard to the honor of Christianity should have led them to abstain from the use of such languages in their worship when it was needless."
+        ],
+        "John Calvin": [
+            "You do not, therefore, see what to the unlearned and unbelieving is perfectly manifest.",
+            "He answers, that they [tongues] are for a sign to fill them with astonishment \u2014 not to instruct them, or to reform them.",
+            "Paul\u2019s meaning, therefore, is \u2014 that the Corinthians would be justly convicted of madness by the unbelieving and unlearned, however much they might please themselves."
+        ],
+        "Philip Schaff": [
+            "If therefore the whole church be assembled together, and all speak with tongues, and there come in men unlearned or unbelieving not members of the church, and not understanding the tongues, yet not hostile or captious, but such as those in Acts 2:13, will they not say that ye are mad?\" ",
+            "to the scandal of the Christian name.",
+            "will they not say that ye are mad?"
+        ],
+        "Archibald T. Robertson": [
+            "Will they not say that ye are mad?\" ",
+            "These unbelievers unacquainted with Christianity will say that the Christians are raving mad.",
+            "They will seem like a congregation of lunatics."
+        ],
+        "John Gill": [
+            "Hence may be observed the custom of the primitive churches to meet together, in some certain place, for divine worship; nor did the members of them in common forsake the assembling of themselves together on that account, though it was the evil practice of some of them; the whole church, all the members of it, met together.",
+            "And there come in those that are unlearned, or unbelievers; either private Christians, who, though they have learned Christ, and understand the doctrines of the Gospel, yet are ignorant of languages; or rather the same persons with unbelievers, Heathens that have no knowledge of Christ, nor faith in him, and who also understood no other language but the Greek.",
+            "Will they not say ye are mad? act like men in a frenzy, that have not the use of their reason; since speaking in a strange language to a congregation that know not one word of what is said, is speaking to the air, and to no profit at all to them that hear; and who but a madman would do this?"
+        ],
+        "John Wesley": [
+            "Sometimes prophecy is of more use, even to unbelievers, than speaking with tongues.",
+            "Several bad men met together hinder each other by evil discourse.",
+            "Single persons are more easily gained."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When plain men or unbelievers enter the assembly and hear the unfamiliar tongues, they perceive it as an unintelligible jargon and conclude that the speakers are mad. This is similar to how people thought the speakers on the day of Pentecost were drunk. It is clear that not everyone in the assembly has the gift of tongues, and these private individuals are mentioned separately. The more people that are speaking in unknown tongues, the stronger the impression will be that the entire congregation is a group of fanatical madmen. These unlearned and unbelieving individuals who are unfamiliar with Christianity will most likely regard the Christians as raving lunatics. Therefore, the church should be mindful of those who do not understand the tongues, as it may give the impression of chaos and insanity, bringing disgrace to the name of Christianity.",
+            "wordCount": 139,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 2.124326200595398,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.97,
+            "commentatorTierSimilarities": [
+                35.09,
+                34.42,
+                30.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When plain men or unbelievers come into the assembly, they may perceive the tongues as an unmeaning jargon, leading them to conclude that the speakers are mad. This reminds us of the confusion of tongues at the Tower of Babel. The presence of unlearned and unbelieving individuals who are unfamiliar with Christianity may cause them to view the Christians as a congregation of lunatics. Therefore, the church must be cautious in their use of tongues, as it could give the impression of chaos and insanity, tarnishing the reputation of Christianity.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.0961661848333426,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.04,
+            "commentatorTierSimilarities": [
+                34.06,
+                34.58,
+                31.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When unfamiliar tongues are spoken in the assembly, plain men or unbelievers may perceive it as an unmeaning jargon and conclude that the speakers are mad. This could result in the impression that the entire congregation is a mob of fanatical madmen. It is important for the church to consider those who do not understand the tongues in order to avoid chaos and the perception of insanity. By being mindful of the impact of tongues on outsiders, we can uphold the honor of Christianity and prevent any scandalous misunderstandings.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.020588960063429,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                33.36,
+                35.24,
+                31.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When plain men or unbelievers enter the assembly and hear the unfamiliar tongues, they perceive it as an unintelligible jargon and conclude that the speakers are mad. This is similar to how people thought the speakers on the day of Pentecost were drunk. The more people that are speaking in unknown tongues, the stronger the impression will be that the entire congregation is a group of fanatical madmen. Unlearned and unbelieving individuals who are unfamiliar with Christianity will likely regard the Christians as raving lunatics.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1118958268458234,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+            "commentatorTierSimilarities": [
+                35.74,
+                34.06,
+                30.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When plain men or unbelievers come into the assembly, they may perceive the tongues as an unmeaning jargon and conclude that the speakers are mad. This reminds us of the confusion of tongues at the Tower of Babel. The presence of unlearned and unbelieving individuals who are unfamiliar with Christianity may cause them to view the Christians as a congregation of lunatics. Therefore, the church must be cautious in their use of tongues, as it could give the impression of chaos and insanity, tarnishing the reputation of Christianity.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.10446263677497,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                34.11,
+                34.56,
+                31.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

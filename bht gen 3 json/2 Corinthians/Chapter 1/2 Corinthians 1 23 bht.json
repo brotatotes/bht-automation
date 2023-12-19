@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:15:29",
+    "verseRef": "2 Corinthians 1:23",
+    "bestBHT": {
+        "bht": "I call God as a witness on my soul, with the testimony against me if I fail in the truth. In matters of faith, I have no power over you. I spared you and did not come to Corinth yet, giving you time for repentance. This is my solemn attestation, calling upon the all-knowing God to bear record of my words.",
+        "wordCount": 62,
+        "quoteTokenProportion": 55.1,
+        "qualityScore": 1.8697520647011543,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+        "commentatorTierSimilarities": [
+            39.11,
+            23.15,
+            37.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His reason for not coming. upon [i. e. against] my soul,\u2014with that testimony against me if I fail in the truth.\" ",
+            "But why over your faith? He had power over them, but it was in matters of discipline, not of faith: over matters of faith not even an Apostle has power, seeing it is in each man\u2019s faith that he stands before God.\" ",
+            "And he puts this strongly, that in matters of faith he is only a fellow-helper of their joy (the 'joy in believing,' Rom. xv. 18), in order to shew them the real department of his apostolic power, and that, however exercised, it would not attempt to rule their faith, but only to secure to them, by purifying them, joy in believing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Moreover I\u2014Greek, 'But I (for my part),' in contrast to GOD who hath assured us of His promises being hereafter fulfilled certainly.",
+            "call God\u2014the all-knowing One, who avenges wilful unfaithfulness to promises.",
+            "I came not as yet\u2014Greek, 'no longer'; that is, I gave up my purpose of then visiting Corinth. He wished to give them time for repentance, that he might not have to use severity towards them."
+        ],
+        "Albert Barnes": [
+            "It is well remarked by Rosenmuller, that the second chapter should have commenced here, since there is here a transition in the subject more distinct than where the second chapter is actually made to begin.",
+            "That to spare you - To avoid the necessity of inflicting punishment on you; of exercising severe and painful discipline.",
+            "It was not, then, a disregard for them, or a lack of attachment to them, which had led him to change his purpose, but it was the result of tender affection."
+        ],
+        "Marvin Vincent": [
+            "I call God for a record [\u03c4\u03bf\u03bd \u03b8\u03b5\u03bf\u03bd \u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03bf\u03c5\u03bc\u03b1\u03b9]. A common classical idiom.",
+            "The verb is often translated appeal, as Acts 25:11, Acts 25:12.",
+            "Also to call upon, in the sense of supplication, Romans 10:12, Romans 10:13, Romans 10:14; 1 Corinthians 1:2."
+        ],
+        "John Calvin": [
+            "He spared them in this respect, that if he had come he would have been constrained to reprove them more severely, while he wished rather that they should of their own accord repent previously to his arrival, that there might be no occasion for a harsher remedy, which is a signal evidence of more than paternal lenity.",
+            "Now there are two things that make an oath lawful and pious \u2014 the occasion and the disposition... our oaths may promote the honor of God, and promote also the advantage of our neighbors in a matter that is befitting.",
+            "For in matters that are doubtful and obscure, where man's knowledge fails, we have recourse to God, that he, who alone is truth, may bear testimony to the truth... I do not object to his inflicting punishment upon me, if I am guilty of falsehood."
+        ],
+        "Philip Schaff": [
+            "But I call God for a witness upon my soul, that to spare you (and for that reason only) I forbare to come unto Corinth.\" ",
+            "Let enemies say what they will, I protest it before God.\" ",
+            "Rather than come to them at all on his way to Macedonia (as intended), he simply reserved his visit till after his return: that was his whole case."
+        ],
+        "Archibald T. Robertson": [
+            "But I call God for a witness upon my soul.\" ",
+            "Solemn attestation, 'calling heaven to witness is frequent in literature from Homer onwards.'",
+            "To spare you."
+        ],
+        "John Gill": [
+            "I swear by the living God, the searcher of all hearts; I call upon him to attest what I say, and bear witness to my soul, that it is true, that to spare you, I came not as yet unto Corinth.",
+            "However fickle, unstable, and inconstant, it may be insinuated to you I am, or you may take me to be, I do assure you in the name and presence of God, that the true reason of my not coming to you hitherto, since I gave you reason to expect me, was, that I might not be burdensome or chargeable to you.",
+            "An oath is a solemn appeal to God, and may be lawfully made in cases of moment and importance...he makes one in this serious and awful manner."
+        ],
+        "John Wesley": [
+            "I call God for a record upon my soul \u2014 Was not St. Paul now speaking by the Spirit? And can a more solemn oath be conceived?\" ",
+            "Who then can imagine that Christ ever designed to forbid all swearing?\" ",
+            "He says elegantly to Corinth, not to you, when be is intimating his power to punish."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I call God as a witness on my soul, with the testimony against me if I fail in the truth. In matters of faith, I have no power over you, for it is in each person's individual faith that they stand before God. My role as an apostle is to be a fellow-helper of your joy, to secure joy in believing and not to rule over your faith. Therefore, I spared you and did not come as yet to Corinth, giving you time for repentance, so that when I do come, I may not have to use severity towards you. This is my solemn attestation, calling upon the all-knowing God, the one who avenges unfaithfulness, to bear record of my words.",
+            "wordCount": 124,
+            "quoteTokenProportion": 53.09,
+            "qualityScore": 1.9451666720599547,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+            "commentatorTierSimilarities": [
+                37.25,
+                24.95,
+                37.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I call God as a witness on my soul, with the testimony against me if I fail in the truth. In matters of faith, I have no power over you. My role as an apostle is to be a fellow-helper of your joy, securing joy in believing. Therefore, I spared you and did not come yet to Corinth, giving you time for repentance. This is my solemn attestation, calling upon the all-knowing God, the one who avenges unfaithfulness, to bear record of my words.",
+            "wordCount": 86,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.8596152234479382,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+            "commentatorTierSimilarities": [
+                39.44,
+                23.74,
+                36.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I call God as a witness on my soul, with the testimony against me if I fail in the truth. In matters of faith, I have no power over you. I spared you and did not come to Corinth yet, giving you time for repentance. This is my solemn attestation, calling upon the all-knowing God to bear record of my words.",
+            "wordCount": 62,
+            "quoteTokenProportion": 55.1,
+            "qualityScore": 1.8697520647011543,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+            "commentatorTierSimilarities": [
+                39.11,
+                23.15,
+                37.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 2 Corinthians 1:23, the apostle Paul explains that the reason he did not come to Corinth as planned was to spare them, not because of a disregard for them or a lack of attachment. By calling God as a witness upon his soul, Paul solemnly attests that he refrained from visiting them in order to avoid the necessity of inflicting severe discipline. He wanted them to have the opportunity to repent of their own accord before his arrival, so that there would be no need for a harsher remedy. This decision demonstrates Paul's leniency and desire for their well-being.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.7842336844363857,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.67,
+            "commentatorTierSimilarities": [
+                28.03,
+                36.87,
+                35.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his letter to the Corinthians, Paul explains that his reason for not coming to them as planned was to spare them the need for severe discipline. By calling upon God as a witness, Paul solemnly testifies that he refrained from visiting Corinth out of affection and a desire for their well-being. He wanted them to have the opportunity to repent on their own before his arrival, to avoid the necessity for a harsher remedy. This decision showcases Paul's leniency and concern for their spiritual growth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.751276324688034,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.57,
+            "commentatorTierSimilarities": [
+                29.24,
+                36.62,
+                34.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

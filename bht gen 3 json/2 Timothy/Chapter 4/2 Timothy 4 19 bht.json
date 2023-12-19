@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 17:31:34",
+    "verseRef": "2 Timothy 4:19",
+    "bestBHT": {
+        "bht": "Send my greetings to Prisca and Aquila, fellow tentmakers and faithful companions of Paul. They were known for their work in Corinth, Ephesus, and Rome. Also, convey my regards to the household of Onesiphorus, who had showed kindness to Paul while he was in Rome. Although Onesiphorus himself may no longer be present, his household is still acknowledged for their support.",
+        "wordCount": 61,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8836459661921938,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+        "commentatorTierSimilarities": [
+            28.65,
+            31.04,
+            40.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Salute Prisca and Aquila (see notes, Acts xviii. 2: Rom. xvi. 3), and the house of Onesiphorus (himself probably deceased. See on ch. i. 16)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Prisca and Aquila",
+            "household of Onesiphorus",
+            "He was probably absent"
+        ],
+        "Albert Barnes": [
+            "Prisca, or Priscilla, was the wife of Aquila, though her name is sometimes mentioned first.",
+            "They were at Rome when Paul wrote his Epistle to the Romans, but afterward went into Asia Minor.",
+            "And the household of Onesiphorus."
+        ],
+        "Marvin Vincent": [
+            "Salute [\u03b1\u03c3\u03c0\u03b1\u03c3\u03b1\u03b9]. Very often in Paul.\" ",
+            "Prisca and Aquila. They appear in Corinth, Acts 18:2, Acts 18:3; in Ephesus, Acts 18:18, Acts 18:26; 1 Corinthians 16:19.\" ",
+            "Onesiphorus. Profit - bringer. Comp. chapter 2 Timothy 1:16. One of the punning names so common among slaves."
+        ],
+        "Philip Schaff": [
+            "Their life was one of constant change, first at Rome and then at Corinth, then at Ephesus, then at Rome again, lastly, as here, once more at Ephesus.",
+            "Probably thus described as having lost their head and father.",
+            "Their trade as tentmakers, partly from their work as Christian preachers."
+        ],
+        "Archibald T. Robertson": [
+            "Prisca and Aquila (\u03a0\u03c1\u03b9\u03c3\u03c7\u03b1\u03bd \u03ba\u03b1 \u0391\u03ba\u03c5\u03bb\u03b1\u03bd). Paul's friends now back in Ephesus, no longer in Rome (Romans 16:3). See 2 Timothy 1:16 for the house of Onesiphorus. "
+        ],
+        "John Gill": [
+            "Salute Prisca and Aquila...who were of the same occupation with the apostle, and with whom he wrought at Corinth...\" ",
+            "And the household of Onesiphorus...whose kindness to the apostle, when he was at Rome, is before mentioned.",
+            "The same with Priscilla and Aquila...who seem by this salutation to have continued there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Greet Prisca and Aquila, faithful companions of Paul who were known for their trade as tentmakers. They were initially in Corinth and later moved to Ephesus, before returning to Rome. Also send greetings to the household of Onesiphorus, who had shown kindness to Paul when he was in Rome. It is likely that Onesiphorus has passed away, but his household is still recognized for their support.",
+            "wordCount": 66,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.9322000832880604,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                28.17,
+                32.05,
+                39.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Send my greetings to Prisca and Aquila, fellow tentmakers and faithful companions of Paul. They were known for their work in Corinth, Ephesus, and Rome. Also, convey my regards to the household of Onesiphorus, who had showed kindness to Paul while he was in Rome. Although Onesiphorus himself may no longer be present, his household is still acknowledged for their support.",
+            "wordCount": 61,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8836459661921938,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                28.65,
+                31.04,
+                40.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Prisca and Aquila, who were close friends of Paul, are mentioned in this verse along with the household of Onesiphorus. Prisca and Aquila were tentmakers by trade, and they traveled with Paul to various locations, such as Corinth and Ephesus, where they helped spread the Gospel. The household of Onesiphorus, who is likely deceased, had shown great kindness to Paul during his time in Rome. All of these individuals played significant roles in the ministry and support of Paul, and their mention here serves as a reminder of the importance of community and partnership in the work of spreading the message of Christ.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.0481768494700807,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                34.4,
+                27.75,
+                37.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Prisca and Aquila, tentmakers by trade, were close friends of Paul who journeyed with him to various places like Corinth and Ephesus, contributing to the spread of the Gospel. The household of Onesiphorus, known for their kindness to Paul during his time in Rome, is also mentioned. Their presence in this message from Paul highlights the significance of community and partnership in the work of sharing the message of Christ.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.8543080794934896,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                30.08,
+                27.45,
+                42.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Prisca and Aquila, who appear in various cities alongside Paul, are mentioned in this message. They were tentmakers by trade and played significant roles in spreading the Gospel. Additionally, the household of Onesiphorus, noted for their kindness towards Paul, is also mentioned. Together, these individuals exemplify the importance of community in the ministry and support of believers. Their presence serves as a reminder of the value of partnership and the impact it can have in sharing the message of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.5331016145747243,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.32,
+            "commentatorTierSimilarities": [
+                27.08,
+                31.0,
+                41.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

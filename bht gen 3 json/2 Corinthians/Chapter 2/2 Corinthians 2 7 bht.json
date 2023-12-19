@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:15:10",
+    "verseRef": "2 Corinthians 2:7",
+    "bestBHT": {
+        "bht": "After the offender has been disciplined and shown his wrongdoing through excommunication, it is necessary for the church to embrace and comfort him. The punishment has fulfilled its purpose in bringing the individual to repentance, and it is crucial to forgive and restore him to the community. By forgiving and welcoming the repentant individual, the church prevents Satan from tempting him into despair and ensures that he can fully participate in the privileges of the house of God. The church has the responsibility to remove censures and restore those who have truly repented.",
+        "wordCount": 93,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.6255080217709155,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+        "commentatorTierSimilarities": [
+            12.52,
+            37.7,
+            49.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "7. with overmuch sorrow\u2014Greek,",
+            "\t\"with HIS overmuch",
+            "\tsorrow."
+        ],
+        "Albert Barnes": [
+            "Since the punishment was sufficient, and has answered all the purpose of bearing your testimony against the offence, and of bringing him to repentance, you ought again to admit him to your communion.",
+            "Rather than continue the pain and disgrace of excommunication.",
+            "The offence should be forgiven and forgotten. The consolations of the gospel, adapted to the condition of penitents, should be freely administered; and all should be done that can be, to make the offender, when penitent, happy and useful in the community."
+        ],
+        "Marvin Vincent": [
+            "The idea of freeness lies in the word forgive, which is forth - give.\" ",
+            "Overmuch, excessive, through the refusal of pardon."
+        ],
+        "John Calvin": [
+            "The end of excommunication, so far as concerns the power of the offender, is this: that, overpowered with a sense of his sin, he may be humbled in the sight of God and the Church.",
+            "The man who has been brought to this, is now more in need of consolation, than of severe reproof.",
+            "For nothing is more dangerous, than to give Satan a handle, to tempt an offender to despair."
+        ],
+        "Philip Schaff": [
+            "Beautiful tenderness this, after the merciless severity of his former Letter.",
+            "Not a day beyond the needed separation from all Christian fellowship would he have this kept up.",
+            "For the man\u2019s sake."
+        ],
+        "Archibald T. Robertson": [
+            "The natural result expressed by \u03c9\u03c3\u03c4\u03b5 and the infinitive.\" ",
+            "Absent in some MSS.\" ",
+            "Instrumental case, 'by the more abundant sorrow' (comparative of adjective \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03bf\u03c2)."
+        ],
+        "John Gill": [
+            "On the other hand, so far the apostle suggests they should be from inflicting any other punishment on him, or by any means adding to, and increasing what was inflicted, that they ought to forgive him his offence.\" ",
+            "Comfort him; by restoring him to the communion of the church, and to an enjoyment of all the privileges and ordinances of the house of God.",
+            "To prevent therefore such dangerous and pernicious consequences, it is incumbent on the churches of Christ, as soon as ever they observe that censures have answered the end in bringing persons to a sense and acknowledgment of sin and amendment of life, to remove them, and restore such to fellowship."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the offender has been disciplined and shown his wrongdoing through excommunication, it is now time for the church to embrace and comfort him. The punishment has served its purpose in bringing the individual to repentance, and it is important to forgive and restore him to the community. The offender is now in need of consolation and should be given the opportunity to be happy and useful among fellow believers. By forgiving and welcoming the repentant individual, the church prevents Satan from tempting him into despair and ensures that he can fully participate in the privileges and ordinances of the house of God. It is the responsibility of the church to remove censures and restore those who have repented.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.5949066114786228,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                11.68,
+                37.93,
+                50.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the offender has been disciplined and shown his wrongdoing through excommunication, it is now time for the church to embrace and comfort him. The punishment has served its purpose in bringing the individual to repentance, and it is important to forgive and restore him to the community. By forgiving and welcoming the repentant individual, the church prevents Satan from tempting him into despair and ensures that he can fully participate in the privileges and ordinances of the house of God. It is the responsibility of the church to remove censures and restore those who have repented.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6123130043771647,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                11.75,
+                37.96,
+                50.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the offender has been disciplined and shown his wrongdoing through excommunication, it is now time for the church to embrace and comfort him. The punishment has served its purpose in bringing the individual to repentance, and it is important to forgive and restore him to the community. By forgiving and welcoming the repentant individual, the church prevents Satan from tempting him into despair and ensures that he can fully participate in the privileges of the house of God. It is the responsibility of the church to remove censures and restore those who have repented.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6157007456359693,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.06,
+            "commentatorTierSimilarities": [
+                11.94,
+                38.0,
+                50.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the offender has been disciplined and shown his wrongdoing through excommunication, it is necessary for the church to embrace and comfort him. The punishment has fulfilled its purpose in bringing the individual to repentance, and it is crucial to forgive and restore him to the community. By forgiving and welcoming the repentant individual, the church prevents Satan from tempting him into despair and ensures that he can fully participate in the privileges of the house of God. The church has the responsibility to remove censures and restore those who have truly repented.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6255080217709155,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "commentatorTierSimilarities": [
+                12.52,
+                37.7,
+                49.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After excommunication and discipline, it is time for the church to embrace and comfort the offender. The punishment has achieved its purpose of bringing the individual to repentance, making forgiveness and restoration essential. By forgiving and welcoming the repentant individual, the church guards against Satan's tempting traps and enables the person to fully partake in the privileges of God's house. It falls on the church's shoulders to lift censures and restore those who have truly repented, fostering a compassionate and supportive community.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.5113890253778626,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.6,
+            "commentatorTierSimilarities": [
+                11.64,
+                37.61,
+                50.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

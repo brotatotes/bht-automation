@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:40:38",
+    "verseRef": "2 Peter 2:4",
+    "bestBHT": {
+        "bht": "If God did not spare angels when they sinned, casting them into hell and reserving them in dark dens for judgment, then surely, He will not spare the ungodly. Even the highest of intelligent creatures, angels, were not spared and are confined in the gloomy abode of the wicked, kept for judgment. God, as the judge of the whole world, does not show favoritism and will not forgive wickedness. Therefore, let us be watchful, for even false teachers who deny the truth will not escape God's vengeance.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.261816384315228,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.55,
+        "commentatorTierSimilarities": [
+            34.55,
+            28.25,
+            37.2
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If God spared not angels having sinned, but casting them into hell, delivered [them] over to dens of darkness in custody unto judgment.",
+            "The punishment of the apostate angels.",
+            "The heathen name for hell, as Gehenna was the Jewish."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If God in past time has punished the ungodly and saved His people, He will be sure to do so also in our days.",
+            "Angels\u2014the highest of intelligent creatures, yet not spared when they sinned.",
+            "They are 'reserved' unto hell's 'mist of darkness' as their final 'judgment' or doom, and meanwhile their exclusion from the light of heaven is begun."
+        ],
+        "Albert Barnes": [
+            "Neither their former rank, their dignity, nor their holiness, saved them from being thrust down to hell.",
+            "The word here used occurs nowhere else in the New Testament...It was regarded, commonly, as beneath the earth; as entered through the grave; as dark, dismal, gloomy; and as a place of punishment.",
+            "The meaning seems to be, that they are confined in that dark prisonhouse as if by chains."
+        ],
+        "Marvin Vincent": [
+            "It is strange to find Peter using this Pagan term, which represents the Greek hell, though treated here not as equivalent to Gehenna, but as the place of detention until the judgment.",
+            "Originally of the gloom of the nether world, So Homer: 'These halls are full Of shadows hastening down to Erebus Amid the gloom.'",
+            "And Dante: 'That air forever black.' Inferno, 3, 329."
+        ],
+        "John Calvin": [
+            "But Peter thought it sufficient to take as granted what ought to be never doubted by us, that is, that God is the judge of the whole world. It hence follows that the punishment he formerly inflicted on the ungodly and wicked, he will now also inflict on the like characters.\" ",
+            "For he can never be unlike himself, nor does he shew respect of persons, so as to forgive the same wickedness in one which he has punished in another; but he hates injustice and wrong equally, whenever it is found.",
+            "For until sin is taken away, there is always an occasion of discord between us and Him."
+        ],
+        "Philip Schaff": [
+            "It is not merely that those of the angels who did sin were not spared, but that even the class of angels as such were not spared when sin entered among them.",
+            "The term itself, in either form, occurs only this once in the N. T.",
+            "Here, as the immediately following words indicate, Peter has in view neither hades, the world of the departed generally, nor Gehenna, hell in the sense of the place of final judgment, but the intermediate scene or state of penalty."
+        ],
+        "Archibald T. Robertson": [
+            "having sinned.",
+            "\u03c4\u03b1\u03c1\u03c4\u03b1\u03c1\u03c9\u03c3\u03b1\u03c2...the dark and doleful abode of the wicked dead like the Gehenna of the Jews",
+            "Kept for judgment."
+        ],
+        "John Gill": [
+            "God did not forgive their sin, nor provide a Savior for them; but directly, and at once, notwithstanding the dignity and excellency of their nature, in strict justice, and awful severity, without any mercy, inflicted due punishment on them.\" ",
+            "It cannot be thought that false teachers, who, as they, abide not in the truth, but deny and oppose it, should escape the vengeance of God.",
+            "They were hurled out of heaven, from whence they fell as lightning... 'cast down'; with great power, indignation, wrath, and contempt, never to be raised and restored again."
+        ],
+        "John Wesley": [
+            "Cast them down to hell \u2014 The bottomless pit, a place of unknown misery.",
+            "Like condemned criminals to safe custody, as if bound with the strongest chains in a dungeon of darkness.",
+            "Though still those chains do not hinder their often walking up and down seeking whom they may devour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If God did not spare angels when they sinned, but cast them into hell, reserving them in dens of darkness for judgment, then surely, He will not spare the ungodly in our days. These angels, the highest of intelligent creatures, were not spared despite their rank and dignity. They were confined in the dark and doleful abode of the wicked dead, like Gehenna, kept for judgment. This punishment serves as a reminder that God, as the judge of the whole world, does not show respect of persons and will not forgive wickedness. So let us be on guard, for even false teachers who deny the truth will not escape the vengeance of God.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 2.2432717560519118,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.93,
+            "commentatorTierSimilarities": [
+                35.08,
+                29.79,
+                35.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If God did not spare angels when they sinned, casting them into hell and reserving them in dark dens for judgment, then surely, He will not spare the ungodly. Even the highest of intelligent creatures, angels, were not spared despite their rank. Confined in the gloomy abode of the wicked, they are kept for judgment. God, as the judge of the whole world, does not show favoritism and will not forgive wickedness. Therefore, let us be watchful, for even false teachers who deny the truth will not escape God's vengeance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.1757064140201887,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+            "commentatorTierSimilarities": [
+                34.81,
+                29.38,
+                35.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If God did not spare angels when they sinned, casting them into hell and reserving them in dark dens for judgment, then surely, He will not spare the ungodly. Even the highest of intelligent creatures, angels, were not spared despite their rank. Confined in the gloomy abode of the wicked, they are kept for judgment. God, as the judge of the whole world, does not show favoritism and will not forgive wickedness. Therefore, let us be watchful, for even false teachers who deny the truth will not escape God's vengeance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.1757064140201887,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+            "commentatorTierSimilarities": [
+                34.81,
+                29.38,
+                35.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If God did not spare angels when they sinned, casting them into hell and reserving them in dark dens for judgment, then surely, He will not spare the ungodly. Even the highest of intelligent creatures, angels, were not spared and are confined in the gloomy abode of the wicked, kept for judgment. God, as the judge of the whole world, does not show favoritism and will not forgive wickedness. Therefore, let us be watchful, for even false teachers who deny the truth will not escape God's vengeance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.261816384315228,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.55,
+            "commentatorTierSimilarities": [
+                34.55,
+                28.25,
+                37.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If God did not spare angels when they sinned, casting them into hell and reserving them in dark dens for judgment, then surely, He will not spare the ungodly. Even the highest of intelligent creatures, angels, were not spared despite their rank. Confined in the gloomy abode of the wicked, they are kept for judgment. God, as the judge of the whole world, does not show favoritism and will not forgive wickedness. Let us be watchful, for false teachers who deny the truth will not escape God's vengeance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.1766435081456716,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.71,
+            "commentatorTierSimilarities": [
+                35.1,
+                29.51,
+                35.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

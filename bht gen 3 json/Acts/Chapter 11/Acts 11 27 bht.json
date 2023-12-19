@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:29:59",
+    "verseRef": "Acts 11:27",
+    "bestBHT": {
+        "bht": "In the early Christian church, there were inspired teachers referred to as prophets. While their main purpose was not always predicting future events, they had an elevated and superhuman style of teaching. These prophets, esteemed alongside apostles, would occasionally use their divine inspiration for prophecy. They often came from Jerusalem to places like Antioch, not as official messengers but driven by their own desire to minister. They played a crucial role in the ministry, explaining mysteries and imparting teachings that were divinely inspired.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.68,
+        "qualityScore": 2.2059520563097124,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+        "commentatorTierSimilarities": [
+            37.11,
+            38.35,
+            24.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Inspired teachers in the early Christian church, referred to in the Acts, and in the Epistles of Paul.",
+            "The foretelling of future events was not the usual form which their inspiration took, but that of an exalted and superhuman teaching.",
+            "This inspiration was, however, occasionally, as here, and ch. xxi. 10, made the vehicle of prophecy, properly so called."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "inspired teachers, a class we shall afterwards frequently meet with",
+            "who sometimes, but not necessarily, foretold future events",
+            "They are classed next to apostles"
+        ],
+        "Albert Barnes": [
+            "The word 'prophet' denotes properly 'one who foretells future events.'",
+            "To teach the people in the doctrines of religion was a part of the prophetic office.",
+            "These prophets seem to have been endowed in a remarkable manner with the knowledge of future events; with the power of explaining mysteries; and in some cases with the power of speaking foreign languages."
+        ],
+        "Marvin Vincent": [
+            "Prophets. See on Luke 7:26."
+        ],
+        "John Calvin": [
+            "Luke commendeth in this place the faith of the men of Antioch by the fruit, because they endeavored to relieve the poverty of that church, from whence they received the gospel, with their abundance; and that did they unrequested.\" ",
+            "Such earnest care for the brethren doth sufficiently declare how seriously they worshipped Christ, the head of all.\" ",
+            "And forasmuch as the foretelling of the famine is attributed to Agabus alone, we may hereby gather that this was granted to every one by a certain measure to know things to come."
+        ],
+        "Philip Schaff": [
+            "In these days. This indication of date is general and vague; but, no doubt, the occurrence here related took place within the \u2018year\u2019 of active ministration at Antioch mentioned just above.",
+            "Prophets came from Jerusalem to Antioch. It would seem that they came of their own accord, not on a formal mission of an official kind.",
+            "For the \u2018prophets\u2019 of the New Testament, see note on Acts 13:1. They were inspired teachers, not necessarily with reference to the prediction of future events."
+        ],
+        "Archibald T. Robertson": [
+            "Prophets (\u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03b1). Christian prophets these were (cf. Acts 13:1) who came from Jerusalem (the headquarters, Acts 8:15).",
+            "They were not just fore-tellers, but forth-tellers. The prophet had inspiration and was superior to the speaker with tongues (1 Corinthians 14:3).",
+            "We need prophets in the ministry today."
+        ],
+        "John Gill": [
+            "Some time in that year that Saul and Barnabas were at Antioch, there came from Jerusalem thither some Christian prophets...",
+            "For such there were in the Christian church, who had not only a gift of expounding the more mysterious prophecies of the Old Testament...",
+            "...but also of foretelling things to come; see Acts 13:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts, there were inspired teachers in the early Christian church who had the ability to foretell future events. However, their inspiration was primarily used for exalted and superhuman teaching. These inspired teachers, also known as prophets, were not only foretellers but also forth-tellers, using their inspiration to speak on behalf of God. They were a respected class, considered next to apostles. These Christian prophets often came from Jerusalem and played an important role in the ministry. Their arrival in Antioch, unrequested and of their own accord, shows the fruit of the faith of the men of Antioch who eagerly worshipped Christ and supported the church in Jerusalem. The ability to foretell future events, as demonstrated by Agabus in this passage, was granted to certain individuals in a measure. The presence of prophets in the early Christian church served to explain mysteries and present teachings that were divinely inspired.",
+            "wordCount": 150,
+            "quoteTokenProportion": 35.16,
+            "qualityScore": 2.0920739509050574,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+            "commentatorTierSimilarities": [
+                35.78,
+                36.72,
+                27.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the early Christian church, there were inspired teachers known as prophets who had an exalted and superhuman teaching style. While their main role was not necessarily to foretell future events, they occasionally used their inspiration for prophecy. These prophets ranked highly, classified alongside apostles. They would travel from Jerusalem to other places, such as Antioch, unrequested but with a genuine desire to support and minister. They played an important role in the ministry, using their divinely granted abilities to explain mysteries and provide teachings that were inspired by God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 2.1516545114224095,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                36.48,
+                38.13,
+                25.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The early Christian church had inspired teachers called prophets, who were esteemed alongside apostles. Although their primary inspiration wasn't predicting the future, they occasionally used their elevated and superhuman teaching style for prophecy. Prophets, who sometimes came from Jerusalem, played a significant role in the ministry, explaining mysteries and offering teachings directly inspired by God. Their presence in Antioch displayed the faith and devotion of the local believers as they generously supported the church in Jerusalem. The ability to foretell the future was granted to certain individuals to a certain extent.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 2.0508182768428425,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                35.05,
+                38.53,
+                26.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the early Christian church, there were inspired teachers known as prophets who provided exalted and superhuman teaching. While their primary role was not always to predict the future, they occasionally used their divine inspiration for prophecy. These prophets, highly regarded and mentioned alongside apostles, would travel from Jerusalem to other locations like Antioch, bringing their ministry without any formal mission. They played a vital role in the church, explaining mysteries and delivering teachings inspired by God. Their presence evidenced the faithfulness and devotion of believers in supporting one another.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 2.0567023063317738,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+            "commentatorTierSimilarities": [
+                35.63,
+                37.05,
+                27.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the early Christian church, there were inspired teachers referred to as prophets. While their main purpose was not always predicting future events, they had an elevated and superhuman style of teaching. These prophets, esteemed alongside apostles, would occasionally use their divine inspiration for prophecy. They often came from Jerusalem to places like Antioch, not as official messengers but driven by their own desire to minister. They played a crucial role in the ministry, explaining mysteries and imparting teachings that were divinely inspired.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 2.2059520563097124,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+            "commentatorTierSimilarities": [
+                37.11,
+                38.35,
+                24.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "timestamp": "12-19-2023 14:14:41",
+    "verseRef": "Galatians 3:11",
+    "bestBHT": {
+        "bht": "No one can be justified by the law, as even if someone could keep it, justification is by faith alone. The just shall live by faith, contrasting it with living by works. Justification by faith is God's chosen way, as no one except Jesus has fully kept the law. Therefore, we are not justified by the law but by faith, relying on Christ alone. This promise of life through faith is a continuous state of acceptance, life, and salvation.",
+        "wordCount": 80,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 2.566717389791982,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.68,
+        "commentatorTierSimilarities": [
+            27.86,
+            38.29,
+            33.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is inserted to strengthen the inference... by shewing that not even could a man keep the law, would he be justified...\" ",
+            "...the condition of justification, as revealed in Scripture, being that it is by faith.",
+            "The just shall live by faith...in the law no man is justified before God..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "IN the law...no man is justified before God\" (whatever the case may be before men). ",
+            "Not even if he could, which he cannot, keep the law, because the Scripture element and conditional mean of justification is faith.",
+            "The just shall live by faith...The contrast is between 'live by faith'...and 'live in them,' namely, in his doings or works, as the conditional element wherein he is justified."
+        ],
+        "Albert Barnes": [
+            "It is impossible that a man should be justified by the Law, because God has appointed another way of justification.",
+            "The condition of life is faith: and he lives who believes.",
+            "The meaning is not, I apprehend, that the man who is justified by faith shall live, but that life is promised and exists only in connection with faith."
+        ],
+        "Marvin Vincent": [
+            "The just shall live by faith.",
+            "The righteous.",
+            "By the law."
+        ],
+        "John Calvin": [
+            "If we are justified by faith, it is not by the law: but we are justified by faith therefore it is not by the law.",
+            "The law justifies him who fulfils all its precepts, while faith justifies those who are destitute of the merit of works, and who rely on Christ alone.",
+            "The just shall live; by which he means, not that they are supported for a short period, and liable to be overwhelmed by an approaching storm; but that they shall continue to live, and that, even amidst the most imminent danger, their life shall be preserved."
+        ],
+        "Archibald T. Robertson": [
+            "In the sight of God (\u03c0\u03b1\u03c1\u03b1 \u03c4\u03c9 \u03b8\u03b5\u03c9). By the side of (\u03c0\u03b1\u03c1\u03b1) God, as God looks at it...",
+            "...for the simple reason that no one except Jesus has ever kept all the law...",
+            "...God's perfect law."
+        ],
+        "John Gill": [
+            "No one is justified by the law... but by the righteousness they believed they had in the Lord.\" ",
+            "No man is justified in the sight of God by the law and the deeds of it.\" ",
+            "The just shall live by faith... he shall live comfortably, with much peace and joy in the Holy Ghost."
+        ],
+        "John Wesley": [
+            "But that none is justified by his obedience to the law in the sight of God...\" ",
+            "The just shall live by faith - That is, the man who is accounted just or righteous before God, shall continue in a state of acceptance, life, and salvation, by faith.",
+            "This is the way God hath chosen."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "No one can be justified by the law, as even if someone were able to keep it perfectly, justification is by faith alone. The Scripture emphasizes that the just shall live by faith, contrasting it with living by one's own works. Justification by faith is the chosen way of God, because no one except Jesus has ever fully kept the law. Therefore, it is not by the law but by faith that we are justified in the sight of God, relying on Christ alone. This promise of life through faith is not temporary, but a continuous state of acceptance, life, and salvation.",
+            "wordCount": 103,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 2.5873301233028356,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.37,
+            "commentatorTierSimilarities": [
+                28.08,
+                37.8,
+                34.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No one can be justified by the law, as even if someone could keep it, justification is by faith alone. The just shall live by faith, contrasting it with living by works. Justification by faith is God's chosen way, as no one except Jesus has fully kept the law. Therefore, we are not justified by the law but by faith, relying on Christ alone. This promise of life through faith is a continuous state of acceptance, life, and salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 2.566717389791982,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.68,
+            "commentatorTierSimilarities": [
+                27.86,
+                38.29,
+                33.85
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

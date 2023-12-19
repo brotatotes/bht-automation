@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:33:13",
+    "verseRef": "Acts 18:11",
+    "bestBHT": {
+        "bht": "During his year and a half stay in Corinth, Paul laid the foundation of the church, addressing the corruption and dissolute behavior present. This extended stay allowed him to write his second epistle to the Thessalonians, evidencing the impact of his work. The length of his stay reflects the hard process of building and edifying the church, requiring time and effort. Paul's presence serves as a reminder of the challenges in guiding and strengthening the church, both on the part of the teacher and the hearers.",
+        "wordCount": 87,
+        "quoteTokenProportion": 25.93,
+        "qualityScore": 1.7537300937062388,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+        "commentatorTierSimilarities": [
+            26.33,
+            50.48,
+            23.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The year and a half may extend either to his departure, or to the incident in ver. 12 ff.\" ",
+            "Meyer would confine it to the latter, taking the verb in the sense of \u2018remained in quiet.\u2019",
+            "And seeing that the incident in vv. 12 ff. was a notable fulfillment of the promise,\u2014for though they set on him, they could not hurt him,\u2014I should be disposed to take the other view, and regard that which is related ver. 12 to ver. 18, as having happened during this time."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the whole period of this stay at Corinth, and not merely up to what is next recorded.",
+            "During some part of this period he wrote his SECOND EPISTLE TO THE THESSALONIANS.",
+            "(See :- to Second Thessalonians.)"
+        ],
+        "Albert Barnes": [
+            "Paul was not accustomed to remain long in a place.",
+            "His stay at Corinth was caused by his success, and by the necessity of placing a church, collected out of such corrupt and dissolute materials, on a firm foundation.",
+            "His stay at Corinth was caused by his success, and by the necessity of placing a church, collected out of such corrupt and dissolute materials, on a firm foundation."
+        ],
+        "John Calvin": [
+            "We gather what a hard and laborious matter the edifying of the Church is, seeing that the most excellent workmaster spent so much time about the laying of the foundation of one church only.",
+            "He saith afterwards that he had planted, and that Apollos had watered.",
+            "He doth not boast that he had finished the work, but that the Lord had put others in his place, that they might build upon his foundation."
+        ],
+        "Philip Schaff": [
+            "This year and a half was the whole period of his residence at Corinth.\" ",
+            "It was during this lengthened stay that the apostle wrote the two epistles to the church of Thessalonica.",
+            "The earliest letters we possess of St. Paul."
+        ],
+        "Archibald T. Robertson": [
+            "A year and six months (\u03b5\u03bd\u03b9\u03b1\u03c5\u03c4\u03bf\u03bd \u03ba\u03b1 \u03bc\u03b7\u03bd\u03b1\u03c2 \u03b5\u03be). Accusative of extent of time.",
+            "How much time before this incident he had been there we do not know.",
+            "His work extended beyond the city (2 Corinthians 11:10) and there was a church in Cenchreae (Romans 16:1)."
+        ],
+        "John Gill": [
+            "He stayed there in all a year and six months; which was a long time for the apostle to stay in one place.",
+            "Here were many people to be called, and much work to do, a large church to be raised, and put in order; and this required time as well as care and labour.",
+            "He did not sit idle here, but preached the Gospel, which is the word of God, and not man, openly and publicly, among them all; and that frequently, in season and out of season, and with great boldness and faithfulness."
+        ],
+        "John Wesley": [
+            "A long time! But how few souls are now gained in a longer time than this?\" ",
+            "Who is in the fault? Generally both teachers and hearers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During his stay in Corinth, which lasted a year and a half, Paul diligently laid the foundation of the church and addressed the corruption and dissolute behavior of the people there. This extended stay allowed him to write his second epistle to the Thessalonians, demonstrating the significant impact of his work in Corinth. The length of his stay highlights the hard and laborious process of building and edifying the church, as it required time, care, and effort. Paul did not boast about finishing the work himself, but rather recognized that others would continue building upon his foundation. This passage serves as a reminder that the task of guiding and strengthening the church is not an easy one, as evidenced by the challenges Paul faced in Corinth.",
+            "wordCount": 126,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.767360827604897,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.11,
+            "commentatorTierSimilarities": [
+                25.55,
+                49.31,
+                25.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During his year and a half stay in Corinth, Paul diligently laid the foundation of the church and addressed the corruption and dissolute behavior of the people there. This extended time allowed him to write his second epistle to the Thessalonians, demonstrating the significant impact of his work. The length of his stay reflects the hard and laborious process of building and edifying the church, which required time, care, and effort. Paul's prolonged presence serves as a reminder of the challenges inherent in guiding and strengthening the church.",
+            "wordCount": 89,
+            "quoteTokenProportion": 22.81,
+            "qualityScore": 1.7021595236486373,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.94,
+            "commentatorTierSimilarities": [
+                25.15,
+                49.75,
+                25.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During his year and a half stay in Corinth, Paul laid the foundation of the church, addressing the corruption and dissolute behavior present. This extended stay allowed him to write his second epistle to the Thessalonians, evidencing the impact of his work. The length of his stay reflects the hard process of building and edifying the church, requiring time and effort. Paul's presence serves as a reminder of the challenges in guiding and strengthening the church, both on the part of the teacher and the hearers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.7537300937062388,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+            "commentatorTierSimilarities": [
+                26.33,
+                50.48,
+                23.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During his year and a half stay in Corinth, Paul diligently laid the foundation of the church, addressing the corruption and dissolute behavior of the people. This extended time allowed him to write his second epistle to the Thessalonians, evidencing the impact of his work. The length of his stay reflects the hard process of building and edifying the church, requiring time and effort. Paul's presence is a reminder of the challenges inherent in guiding and strengthening the church, both for the teachers and the hearers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.7230527538830955,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.63,
+            "commentatorTierSimilarities": [
+                25.89,
+                49.35,
+                24.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During his year and a half stay in Corinth, Paul laid the foundation of the church and addressed the corruption and dissolute behavior of the people. This prolonged stay allowed him to write his second epistle to the Thessalonians, demonstrating the impact of his work. The length of his stay exemplifies the challenging process of building and edifying the church, which required considerable time and effort. Paul's presence in Corinth serves as a reminder of the difficulties involved in guiding and strengthening the church, both for the teachers and the hearers.",
+            "wordCount": 92,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.7460362556592863,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.4,
+            "commentatorTierSimilarities": [
+                25.4,
+                50.68,
+                23.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

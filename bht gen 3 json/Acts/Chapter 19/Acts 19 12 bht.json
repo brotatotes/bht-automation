@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:33:45",
+    "verseRef": "Acts 19:12",
+    "bestBHT": {
+        "bht": "The miracles performed through the handkerchiefs and aprons that had touched Paul's body were a testament to God's direct power and a suspension of His ordinary laws. It is important to note that these miracles were not a result of any inherent power in the objects themselves, but rather a demonstration of the name of Jesus being the source of all miraculous works. Paul made sure to emphasize that Jesus was the ultimate focus and the one who enabled these extraordinary acts.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.209142064759206,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.79,
+        "commentatorTierSimilarities": [
+            37.91,
+            37.05,
+            25.04
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All miraculous working is an exertion of the direct power of the All-powerful; a suspension by Him of His ordinary laws.",
+            "Without His special selection and enabling, all instruments were vain; with these, all are capable.",
+            "To argue by analogy from such a case,\u2014to suppose that because our Lord was able, and Peter, and Paul, and in Old Test. times Elisha, were enabled, to exert this peculiar power, therefore the same will be possessed by the body or relics of every real or supposed saint, is the height of folly and fanaticism."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God wrought these miracles\" merely \"by the hands of Paul",
+            "the name of Jesus was the secret of all his miracles",
+            "in working them the apostle took care to hold up Him whom he preached as the source of all the miracles"
+        ],
+        "Albert Barnes": [
+            "From his body - That is, those handkerchiefs which had been applied to his body, which he had used, or which he had touched.\" ",
+            "In this instance, the fact that the miracles were performed in this manner by garments which had touched his body, was a mere sign, or an evidence to the persons concerned, that it was done by the instrumentality of Paul.\" ",
+            "And the diseases departed - The sick were healed."
+        ],
+        "Marvin Vincent": [
+            "Body [\u03c7\u03c1\u03c9\u03c4\u03bf\u03c2] . Properly, the surface of the body, the skin; but, in medical language, of the body.",
+            "Handkerchiefs [\u03c3\u03bf\u03c5\u03b4\u03b1\u03c1\u03b9\u03b1] . See on Luke 19:1. ",
+            "Aprons [\u03c3\u03b9\u03bc\u03b9\u03ba\u03b9\u03bd\u03b8\u03b9\u03b1] . Only here in New Testament. A Latin word, semicinctia. Lit., something passing half - way round the body : an apron or waistband."
+        ],
+        "Philip Schaff": [
+            "The 'handkerchief and apron' used by the apostle as he worked at his tent cloths were frequently begged from him and used as a precious garment, which conveyed the supernatural gift of healing which the wearer exercised.",
+            "All miraculous working is an exertion of the direct power of the All-powerful, a suspension by Him of His ordinary laws.",
+            "He therefore endues him with this extraordinary power."
+        ],
+        "Archibald T. Robertson": [
+            "If God never honoured any faith save that entirely free from superstition, how about Christian people who are troubled over the number 13, over the moon, the rabbit's foot?",
+            "The poor woman with an issue of blood touched the hem of Christ's garment and was healed (Luke 8:44-46) as others sought to do (Matthew 14:36). God condescends to meet us in our ignorance and weakness where he can reach us.",
+            "Elisha had a notion that some of the power of Elijah resided in his mantle (2 Kings 2:13). Some even sought help from Peter's shadow (Acts 5:15)."
+        ],
+        "John Gill": [
+            "From his body were brought unto the sick...were brought and put upon the sick...\" ",
+            "particularly 'handkerchiefs' or 'aprons'; the former were such as he might use to wipe his face with...the latter, what he might wear as a mechanic...\" ",
+            "the diseases departed from them, and the evil spirits went out of them; who were afflicted and possessed with them; these were some of the special and uncommon miracles..."
+        ],
+        "John Wesley": [
+            "Evil spirits \u2014 Who also occasioned many of those diseases, which yet might appear to be purely natural."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The miracles performed through the handkerchiefs and aprons that had touched Paul's body were not because of any power residing in the objects themselves, but rather a testament to the direct power of God. It was God who worked these miracles, using Paul as a vessel to demonstrate His extraordinary power. The name of Jesus was the secret behind Paul's miracles, as he made sure to emphasize that Jesus was the source of all these supernatural acts. These miracles were not a result of superstition or a mere coincidence, but a manifestation of God's power through the faith and obedience of Paul. Just as the woman with the issue of blood was healed by touching the hem of Christ's garment, God condescends to meet us in our ignorance and weakness.",
+            "wordCount": 134,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 2.150752652983852,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.85,
+            "commentatorTierSimilarities": [
+                40.44,
+                34.5,
+                25.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The miracles performed through the handkerchiefs and aprons that had touched Paul's body were not because of any power residing in the objects themselves, but rather a testament to the direct power of God. The name of Jesus was the secret behind Paul's miracles, as he made sure to emphasize that Jesus was the source of all these supernatural acts. These miracles were not a result of superstition or a mere coincidence, but a manifestation of God's power through the faith and obedience of Paul.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.1605337003551255,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.18,
+            "commentatorTierSimilarities": [
+                40.52,
+                32.96,
+                26.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The miracles performed by handkerchiefs and aprons that had touched Paul's body serve as evidence of the direct power of God. It is important to note that these objects themselves did not possess any inherent power, but rather their role was to point towards Jesus as the source of these miracles. The miracles were not mere superstition or coincidence, but a demonstration of God's extraordinary power working through the faith and obedience of Paul.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.160246151279376,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.17,
+            "commentatorTierSimilarities": [
+                39.53,
+                35.86,
+                24.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The miracles performed through the handkerchiefs and aprons that had touched Paul's body were not a result of any power residing in the objects themselves. Instead, they were a demonstration of the direct power of God, a suspension of His ordinary laws. It is important to remember that these miracles were made possible by the special selection and enabling of God, and that it was the name of Jesus that held the key to all the miracles performed by Paul. These powerful acts served to emphasize that Jesus was the source of these supernatural manifestations.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.0948638666305985,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                36.46,
+                37.41,
+                26.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The miracles performed through the handkerchiefs and aprons that had touched Paul's body were a testament to God's direct power and a suspension of His ordinary laws. It is important to note that these miracles were not a result of any inherent power in the objects themselves, but rather a demonstration of the name of Jesus being the source of all miraculous works. Paul made sure to emphasize that Jesus was the ultimate focus and the one who enabled these extraordinary acts.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.209142064759206,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.79,
+            "commentatorTierSimilarities": [
+                37.91,
+                37.05,
+                25.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

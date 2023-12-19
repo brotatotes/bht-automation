@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:35:21",
+    "verseRef": "Acts 23:22",
+    "bestBHT": {
+        "bht": "Paul's nephew, who may have been residing in Jerusalem for his education, likely obtained information about the conspiracy from the schools and promptly acted upon it. Paul charged him to keep this matter secret, employing a change in construction from indirect to direct format, which is a common feature in the New Testament. It was wise for Paul to conceal the plot's discovery, as the conspirators would have taken different actions if they had known their plan had been exposed.",
+        "wordCount": 82,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.6665171843359634,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+        "commentatorTierSimilarities": [
+            63.86,
+            0.0,
+            36.14
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Paul's sister's son\u2014If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted."
+        ],
+        "Archibald T. Robertson": [
+            "Tell no man.\" ",
+            "Indirect command (oratio obliqua) after \u03c0\u03b1\u03c1\u03b1\u03b3\u03b3\u03b5\u03b9\u03bb\u03b1\u03c2 (charging) with first aorist active infinitive of \u03b5\u03ba\u03bb\u03b1\u03bb\u03b5\u03c9 (in ancient Greek, but here only in N.T.), but construction changed to direct in rest of the sentence (oratio recta) as in Acts 1:4.",
+            "This change is common in the N.T. (Robertson, Grammar, p. 1047)."
+        ],
+        "John Gill": [
+            "After he had the account from him, and was master of the whole affair.",
+            "It was a right and wise thing to conceal this matter, that the men might go on with their designs.",
+            "For otherwise, should it have been known that their plot was discovered, they would have entered upon new measures."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul's nephew, who may have been studying in Jerusalem like Paul, likely heard of the conspiracy and promptly reported it. Paul charged him to tell no one, but the phrasing of the command changes from indirect to direct for the rest of the sentence. This change in construction is common in the New Testament. It was wise for Paul to conceal the matter, as the conspirators would likely have taken new measures had they known their plot was discovered.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.3949406854792734,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.72,
+            "commentatorTierSimilarities": [
+                64.66,
+                0.0,
+                35.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's nephew, possibly studying in Jerusalem like Paul, may have obtained information about the conspiracy from the schools and acted promptly. He was instructed not to share this knowledge, although the structure of the command changes from indirect to direct format. This alteration in construction is a recurring pattern in Scripture. It was indeed prudent for Paul to keep the matter concealed since the conspirators would have reacted differently if they had known their plot had been exposed.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.2615059348694195,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.29,
+            "commentatorTierSimilarities": [
+                62.89,
+                0.0,
+                37.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's nephew, who may have been residing in Jerusalem for his education, likely obtained information about the conspiracy from the schools and promptly acted upon it. Paul charged him to keep this matter secret, employing a change in construction from indirect to direct format, which is a common feature in the New Testament. It was wise for Paul to conceal the plot's discovery, as the conspirators would have taken different actions if they had known their plan had been exposed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.6665171843359634,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                63.86,
+                0.0,
+                36.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's nephew, possibly studying in Jerusalem like Paul, may have obtained information about the conspiracy from the schools and acted promptly. The command to keep the matter secret changes from indirect to direct format, a common pattern in the New Testament. Concealing the plot's discovery was wise, as the conspirators would have taken different actions if they knew their plan had been exposed.",
+            "wordCount": 65,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.3592694230907265,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.54,
+            "commentatorTierSimilarities": [
+                61.06,
+                0.0,
+                38.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is likely that Paul's nephew, who may have been studying alongside him in Jerusalem, gained knowledge of the conspiracy through the schools and swiftly took action. Paul charged his nephew to keep this information confidential, and while the command structure changed from indirect to direct, this is not unusual in the New Testament. Concealing the discovery of the plot was a prudent decision, as it would have prompted the conspirators to devise alternate plans had they known their scheme had been exposed.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.4634085888658155,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.0,
+            "commentatorTierSimilarities": [
+                60.54,
+                0.0,
+                39.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

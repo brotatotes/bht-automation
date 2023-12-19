@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:28:16",
+    "verseRef": "Acts 8:26",
+    "bestBHT": {
+        "bht": "The ministration of angels introduces and brings about several occurrences in the beginning of the church. The words will refer to the way: and denote, the way of which I speak to thee is desert. There was such a road, across Mount Hebron, which Philip might take without going to Jerusalem. To go from a city, where his hands had been full of work, so far away on a desert road, could not but be staggering to the faith of Philip. But like Paul, he 'was not disobedient to the heavenly vision'; and like Abram, 'he went out not knowing whither he went'.",
+        "wordCount": 103,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.940871432704224,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+        "commentatorTierSimilarities": [
+            40.65,
+            30.35,
+            29.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The ministration of angels introduces and brings about several occurrences in the beginning of the church.",
+            "The words will refer to the way: and denote, the way of which I speak to thee is desert.",
+            "Further proofs of the inapplicability of the epithet 'desert' to Gaza."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There was such a road, across Mount Hebron, which Philip might take without going to Jerusalem.",
+            "To go from a city, where his hands had been full of work, so far away on a desert road, could not but be staggering to the faith of Philip.",
+            "But like Paul, he 'was not disobedient to the heavenly vision'; and like Abram, 'he went out not knowing whither he went'."
+        ],
+        "Albert Barnes": [
+            "It is most probable, I think, that the passage means that God communicated the message by his Spirit.",
+            "It is evident that God designed the 'conversion' of this eunuch, and the direction to Philip shows how he accomplishes his designs.",
+            "When such a sinner is converted, it is because God forms a plan or 'purpose' to do it."
+        ],
+        "Marvin Vincent": [
+            "The south [\u03bc\u03b5\u03c3\u03b7\u03bc\u03b2\u03c1\u03b9\u03b1\u03bd] . A contracted form of meshmeria, midday, noon.\" ",
+            "Desert. Referring to the route.\" ",
+            "There were several roads from Jerusalem to Gaza."
+        ],
+        "John Calvin": [
+            "For we know that the gospel grew of small beginnings; and therein appeared the power of the Spirit more plainly, in that one grain of seed did fill a whole country in a small space.",
+            "Therefore let us be content with the commandment of God alone, although the reason of that which he enjoineth, or the fruit of obedience, appear not by and by.",
+            "Therefore nothing doth hinder and keep us back from being ready to follow God, save only our own slothfulness and coldness in prayer."
+        ],
+        "Philip Schaff": [
+            "The more accurate rendering, \u2018But an angel of the Lord,\u2019 is more in harmony with the history of the early days of the Church.",
+            "Among the strange and supernatural manifestations which accompanied the laying of the first stones of the Christian Church, the visible manifestation of angels is not the least remarkable.",
+            "The heavenly messenger directed him to choose that particular road which, after passing Hebron, led through a desolate, solitary country. In other words, he said, \u2018Go to Gaza by the desert road.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Toward the South (\u03ba\u03b1\u03c4\u03b1 \u03bc\u03b5\u03c3\u03b7\u03bc\u03b2\u03c1\u03b9\u03b1\u03bd)... That may be the idea here also, though 'towards the South' gets support from the use of \u03ba\u03b1\u03c4\u03b1 \u03bb\u03b9\u03b2\u03b1 in Acts 27:12.",
+            "The same is desert (\u03b1\u03c5\u03c4\u03b7 \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03c1\u03b7\u03bc\u03bf\u03c2)... One of the ways actually goes through a desert.",
+            "Gaza itself was a strong city that resisted Alexander the Great five months. It was destroyed by the Romans after war broke out with the Jews."
+        ],
+        "John Gill": [
+            "The phrase denotes readiness, alacrity, and expedition.",
+            "Gaza, which is desert: this place is sometimes called Azzah.",
+            "This city is now called Gazera, or Gazara, and is inhabited by Greeks, Turks, and Arabians."
+        ],
+        "John Wesley": [
+            "The way which is desert \u2014 There were two ways from Jerusalem to Gaza, one desert, the other through a more populous country."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ministration of angels introduces and brings about several occurrences in the beginning of the church. The words will refer to the way: and denote, the way of which I speak to thee is desert. There was such a road, across Mount Hebron, which Philip might take without going to Jerusalem. To go from a city, where his hands had been full of work, so far away on a desert road, could not but be staggering to the faith of Philip. But like Paul, he 'was not disobedient to the heavenly vision'; and like Abram, 'he went out not knowing whither he went'. This city is now called Gazera, or Gazara, and is inhabited by Greeks, Turks, and Arabians.",
+            "wordCount": 119,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.8472949461327817,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                39.14,
+                28.02,
+                32.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ministration of angels introduces and brings about several occurrences in the beginning of the church. The words will refer to the way: and denote, the way of which I speak to thee is desert. There was such a road, across Mount Hebron, which Philip might take without going to Jerusalem. To go from a city, where his hands had been full of work, so far away on a desert road, could not but be staggering to the faith of Philip. But like Paul, he 'was not disobedient to the heavenly vision'; and like Abram, 'he went out not knowing whither he went'.",
+            "wordCount": 103,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.940871432704224,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                40.65,
+                30.35,
+                29.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Philip received the direction to go to Gaza, it must have been challenging for him to leave the busy city and embark on a journey through a desert road. However, he was obedient to the heavenly vision, trusting in God's guidance. This road, though desolate, was a means for Philip to encounter the Ethiopian eunuch and play a significant role in his conversion. The involvement of angels in the early days of the church's establishment showcases the supernatural aspects of its beginnings.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7801692851166124,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.53,
+            "commentatorTierSimilarities": [
+                30.67,
+                44.46,
+                24.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Philip received the direction to go to Gaza, it must have been staggering to his faith. However, he was not disobedient to the heavenly vision, just like Paul and Abram. The ministration of angels played a vital role in the early days of the church, guiding and bringing about various occurrences. The desert road Philip took, although challenging, led him to encounter the Ethiopian eunuch and participate in his conversion. This highlights the supernatural manifestations that accompanied the establishment of the Christian Church.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.7396130697617322,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.18,
+            "commentatorTierSimilarities": [
+                31.62,
+                44.48,
+                23.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ministration of angels introduces and brings about several occurrences in the beginning of the church. The words will refer to the way: and denote, the way of which I speak to thee is desert. To go from a city, where his hands had been full of work, so far away on a desert road, could not but be staggering to the faith of Philip. But like Paul, he 'was not disobedient to the heavenly vision'; and like Abram, 'he went out not knowing whither he went'.",
+            "wordCount": 87,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.8932714362246705,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                39.96,
+                31.92,
+                28.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

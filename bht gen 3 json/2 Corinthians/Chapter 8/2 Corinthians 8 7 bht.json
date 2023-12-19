@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:17:06",
+    "verseRef": "2 Corinthians 8:7",
+    "bestBHT": {
+        "bht": "The apostle Paul exhorts the Corinthians to not only excel in various graces, but also to abound in the grace of giving. He emphasizes their knowledge and diligence in all that is good, while commendably expressing his appreciation for their love and support towards the apostles and ministers. Paul encourages them to go beyond the Macedonians in their generosity and to let their exceptional faith, speech, and love lead to acts of benevolence. In doing so, he reminds them that their spiritual endowments should motivate them to surpass others in their selfless giving.",
+        "wordCount": 93,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.6865558281384305,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+        "commentatorTierSimilarities": [
+            23.78,
+            34.51,
+            41.71
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "this is emphatic here, although it is not in ver. 6: \u2018this grace also;\u2019\u2014other graces having been enumerated.",
+            "Grotius remarks, 'Paul was not ignorant of the rhetorical art of stirring the mind by praise.'",
+            "breaking off from arguments, of which enough have been alleged."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "knowledge\u2014 ( :-).\" ",
+            "diligence\u2014in everything that is good.\" ",
+            "your love to us\u2014literally, 'love from you (that is, on your part) in us' (that is, which has us for its object; which is felt in the case of us)."
+        ],
+        "Albert Barnes": [
+            "Paul never hesitated to commend Christians where it could be done with truth...",
+            "From those who had so many eminent characteristics of true religion he had a right to expect much...",
+            "The idea here is, that eminence in spiritual endowments of any kind, or in any of the traits of the Christian character should lead to great benevolence..."
+        ],
+        "John Calvin": [
+            "You ought not merely to associate yourselves as partners with the Macedonians, who require that; but surpass them in this respect, too, as you do in others.",
+            "He makes a distinction between utterance and faith, because it. is impossible that any one should have faith, and that, too, in an eminent degree, without being at the same time much exercised in the word of God.",
+            "He makes mention of their love to himself, that he may encourage them also from regard to himself personally, and in the mean time he gives up, with a view to the public advantage of the brethren, the personal affection with which they regarded him."
+        ],
+        "Philip Schaff": [
+            "But to bring this to a point as ye abound in every thing, in faith, and utterance, and knowledge... see that ye abound in this grace also.\" (2 Corinthians 8:7)",
+            "As the next clause seems to shew was specially in view, and in your love to us...\" (2 Corinthians 8:7)",
+            "See that ye abound in this grace also.\" (2 Corinthians 8:7)"
+        ],
+        "Archibald T. Robertson": [
+            "In this grace also (\u03ba\u03b1 \u03b5\u03bd \u03c4\u03b1\u03c5\u03c4\u03b7 \u03c4\u03b7 \u03c7\u03b1\u03c1\u03b9\u03c4). This gifted church (2 Corinthians 8:1) had fallen behind in the grace of giving. Kindly irony in this allusion. "
+        ],
+        "John Gill": [
+            "In faith...they abounded in the knowledge of it, zeal for it, and thankfulness to God on account of it.\" ",
+            "In utterance, or 'speech'...a liberty of mind and speech to declare their faith in Christ, and make an ingenuous confession of it to others.",
+            "In your love to us: the apostles and ministers of the word, whom they loved, esteemed, and honoured for their works' sake."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul urges the Corinthians to excel not only in other graces, but also in the grace of giving. He commends their knowledge and diligence in everything that is good, and emphasizes the importance of their love towards the apostles and ministers. By highlighting their abounding faith, speech, and love, Paul encourages them to surpass others in their generosity as well. He reminds them that their eminent spiritual endowments should lead to great benevolence, surpassing even the Macedonians.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.671206929954897,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "commentatorTierSimilarities": [
+                22.68,
+                35.97,
+                41.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul urges the Corinthians to excel not only in other graces, but also in the grace of giving. He emphasizes the importance of their love towards the apostles and ministers, whom they loved, esteemed, and honored for their works' sake. By highlighting their abounding faith, speech, and love, Paul encourages them to surpass others in their generosity as well. He reminds them that their eminent spiritual endowments should lead to great benevolence, surpassing even the Macedonians.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.678116990195126,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "commentatorTierSimilarities": [
+                22.2,
+                34.73,
+                43.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul exhorts the Corinthians to not only excel in various graces, but also to abound in the grace of giving. He emphasizes their knowledge and diligence in all that is good, while commendably expressing his appreciation for their love and support towards the apostles and ministers. Paul encourages them to go beyond the Macedonians in their generosity and to let their exceptional faith, speech, and love lead to acts of benevolence. In doing so, he reminds them that their spiritual endowments should motivate them to surpass others in their selfless giving.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.6865558281384305,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                23.78,
+                34.51,
+                41.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul urges the Corinthians to excel not only in other graces, but also in the grace of giving. He emphasizes the importance of their love towards the apostles and ministers, whom they loved, esteemed, and honored for their works' sake. By highlighting their abounding faith, speech, and love, Paul encourages them to surpass others in their generosity as well. He reminds them that their eminent spiritual endowments should lead to great benevolence, surpassing even the Macedonians.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.678116990195126,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "commentatorTierSimilarities": [
+                22.2,
+                34.73,
+                43.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul calls upon the Corinthians to excel not only in other graces, but also in the grace of giving. He highlights the significance of their love towards the apostles and ministers, whom they loved and honored for their works' sake. Emphasizing their abounding faith, speech, and love, Paul encourages them to surpass others in their generosity. He reminds them that their distinguished spiritual endowments should motivate them to exhibit exceptional benevolence, even surpassing the Macedonians.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6798762530936853,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.2,
+            "commentatorTierSimilarities": [
+                23.32,
+                34.19,
+                42.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

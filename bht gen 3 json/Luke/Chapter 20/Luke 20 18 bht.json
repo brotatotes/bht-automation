@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:22:07",
+    "verseRef": "Luke 20:18",
+    "bestBHT": {
+        "bht": "Whosoever shall fall on that stone, shall be broken... but that stumble at him, and are offended with him, and fall by unbelief and hardness of heart; such do themselves much hurt and mischief and expose themselves to danger and ruin. It will grind him to powder; the ruin of such will be unavoidable, and there will be no recovery. - Matthew 21:45",
+        "wordCount": 61,
+        "quoteTokenProportion": 51.22,
+        "qualityScore": 1.6657149634265567,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.73,
+        "commentatorTierSimilarities": [
+            37.27,
+            0.0,
+            62.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Shall be broken [\u03c3\u03c5\u03bd\u03b8\u03bb\u03b1\u03c3\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1\u03b9] . Rev., rightly, broken to pieces. See on Matthew 21:44. ",
+            "Grind him to powder [\u03bb\u03b9\u03ba\u03bc\u03b7\u03c3\u03b5\u03b9] . See on Matthew 21:44. ",
+            "- 26. Compare Matthew 22:15-22; Mark 12:13-17."
+        ],
+        "Archibald T. Robertson": [
+            "Shall be broken to pieces... It means to shatter."
+        ],
+        "John Gill": [
+            "Whosoever shall fall on that stone, shall be broken....but that stumble at him, and are offended with him, and fall by unbelief and hardness of heart; such do themselves much hurt and mischief and expose themselves to danger and ruin.\" ",
+            "on whomsoever it shall fall; as it did with its full weight upon the Jews at their destruction, and as it will upon all Christless sinners at the last day.",
+            "it will grind him to powder; the ruin of such will be unavoidable, and there will be no recovery."
+        ],
+        "John Wesley": [
+            "Matthew 21:45."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Shall be broken to pieces... It means to shatter. Whosoever shall fall on that stone, shall be broken... but that stumble at him, and are offended with him, and fall by unbelief and hardness of heart; such do themselves much hurt and mischief and expose themselves to danger and ruin. It will grind him to powder; the ruin of such will be unavoidable, and there will be no recovery. - Matthew 21:45",
+            "wordCount": 70,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.7986874673323316,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+            "commentatorTierSimilarities": [
+                51.84,
+                0.0,
+                48.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whosoever shall fall on that stone, shall be broken... but that stumble at him, and are offended with him, and fall by unbelief and hardness of heart; such do themselves much hurt and mischief and expose themselves to danger and ruin. It will grind him to powder; the ruin of such will be unavoidable, and there will be no recovery. - Matthew 21:45",
+            "wordCount": 61,
+            "quoteTokenProportion": 51.22,
+            "qualityScore": 1.6657149634265567,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.73,
+            "commentatorTierSimilarities": [
+                37.27,
+                0.0,
+                62.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Whosoever shall fall on that stone, shall be broken means that those who humble themselves before Christ will be shattered, their pride and self-sufficiency completely crushed. But those who reject him, stumble at him, and refuse to believe, exposing themselves to danger and ruin, will face an even worse fate. As it did with the Jews during their destruction and as it will with all Christless sinners on the last day, the stone will fall upon them, grinding them to powder, ensuring their complete and irreversible ruin.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.4452394017974242,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.4,
+            "commentatorTierSimilarities": [
+                44.38,
+                0.0,
+                55.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Whosoever shall fall on that stone, shall be broken means that those who humble themselves before Christ will be shattered, their pride and self-sufficiency completely crushed. But those who reject him, stumble at him, and fall by unbelief and hardness of heart, exposing themselves to danger and ruin, will face an even worse fate. As it did upon the Jews during their destruction and as it will upon all Christless sinners at the last day, the stone will fall, grinding them to powder and ensuring their complete and irreversible ruin.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.5131303180406437,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.65,
+            "commentatorTierSimilarities": [
+                42.84,
+                0.0,
+                57.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Whosoever shall fall on that stone, shall be broken means that those who humble themselves before Christ will be shattered, their pride and self-sufficiency completely crushed. But those who reject him, stumble at him, and fall by unbelief and hardness of heart, exposing themselves to danger and ruin, will face an even worse fate. As it did upon the Jews during their destruction and as it will upon all Christless sinners at the last day, the stone will fall, grinding them to powder and ensuring their complete and irreversible ruin.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.5131303180406437,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.65,
+            "commentatorTierSimilarities": [
+                42.84,
+                0.0,
+                57.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

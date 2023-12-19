@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:18:04",
+    "verseRef": "2 Corinthians 11:4",
+    "bestBHT": {
+        "bht": "The false teachers attempt to supersede the apostle Paul, your accredited teacher, by preaching another Jesus and a different gospel. They claim to bring a different spirit, seeking to undermine the authority and message of the true gospel. Your tolerance of these false teachers is inexcusable, as they do not even pretend to have a distinct individual or a different kind of message. They simply try to supplant the true gospel and the teaching of Paul. It is ironic that you gladly endure these false teachers while despising the one through whom God has bestowed numerous benefits.",
+        "wordCount": 97,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 2.0331795943666195,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+        "commentatorTierSimilarities": [
+            39.86,
+            29.45,
+            30.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The will of man has no share in receiving the Spirit, as it has in accepting the Gospel.\" ",
+            "Seeing that there is but one gospel, and they and I profess to preach one Jesus and impart one Spirit, they have no such claim: mine is superior.",
+            "There seems to be some excuse in that case, but even in that, really there is none, for your tolerating him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But there can be no new Gospel there is but the one which I first preached; therefore it ought not to be 'borne' by you, that the false teachers should attempt to supersede me.",
+            "Another implies a distinct individual of the same kind; different implies one quite distinct in kind.",
+            "There would be an excuse for your conduct, though a bad one (for ye ought to give heed to no Gospel other than what ye have already heard from me); but the false teachers do not even pretend they have 'another Jesus' and a 'different Gospel' to bring before you; they merely try to supplant me, your accredited Teacher."
+        ],
+        "Albert Barnes": [
+            "The main idea doubtless is, that Paul felt that there was danger that they would be corrupted.",
+            "The gospel which he preached was as perfect as it could be, and that any change would be for the worse.",
+            "Let us never forsake the gospel which we have until we are sure we can get a better."
+        ],
+        "Marvin Vincent": [
+            "Another denies the identity; a different denies the similarity of nature.",
+            "You gladly endure these false teachers, why do you not endure me?",
+            "Ye endure them finely."
+        ],
+        "John Calvin": [
+            "How is it that they take so much liberty with you, and you submit patiently to their control?",
+            "Had they brought you another Christ, or another gospel, or another Spirit, different from what you received through my hands, I would assuredly approve of your regard for them.",
+            "What sort of gratitude do you show in all but adoring those, to whom you are indebted for nothing, while you despise me, through whom God has bestowed upon you so many and so distinguished benefits?"
+        ],
+        "Philip Schaff": [
+            "I may well be jealous over you; for ye seem ready to drink in the teaching of men who come to you preaching another Jesus, and a different gospel, and claiming a 'spirit' very different from that which we brought to you and ye received.\" ",
+            "Right gladly do ye listen to such; may ye not well, then, listen to me?",
+            "The suppressed irony is very keen."
+        ],
+        "Archibald T. Robertson": [
+            "Another Jesus (\u03b1\u03bb\u03bb\u03bf\u03bd \u0399\u03b7\u03c3\u03bf\u03c5\u03bd). Not necessarily a different Jesus, but any other 'Jesus' is a rival and so wrong. That would deny the identity.",
+            "A different spirit (\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1 \u03b5\u03c4\u03b5\u03c1\u03bf\u03bd). This is the obvious meaning of \u03b5\u03c4\u03b5\u03c1\u03bf\u03bd in distinction from \u03b1\u03bb\u03bb\u03bf\u03bd as seen in Acts 4:12; Galatians 1:6. But this distinction in nature or kind is not always to be insisted on.",
+            "A different gospel (\u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03bf\u03bd \u03b5\u03c4\u03b5\u03c1\u03bf\u03bd). Similar use of \u03b5\u03c4\u03b5\u03c1\u03bf\u03bd."
+        ],
+        "John Gill": [
+            "if he proposes and recommends in his ministry, a better Saviour and Redeemer than had been preached by the apostles; one that was better qualified, and more fit for the purposes of salvation",
+            "the spirit which the contrary ministers brought with it, and tended to not generate in them, must be the reverse of this, even a spirit of bondage again to fear",
+            "since another and a better Saviour than Jesus of Nazareth could not be proposed, or the doctrine of salvation by him be preached in another and better manner than it was"
+        ],
+        "John Wesley": [
+            "If indeed \u2014 Any could show you another Saviour, a more powerful Spirit, a better gospel.",
+            "Ye might well bear with him \u2014 But this is impossible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is clear that the false teachers are attempting to supersede the apostle Paul, your accredited teacher, by preaching another Jesus and a different gospel. They claim to bring you a different spirit, which is a clear attempt to undermine the authority and message of the gospel that Paul preached. Your tolerance of these false teachers is inexcusable, as they do not even pretend to have a distinct individual or a different kind of message. They simply try to supplant the true gospel and the teaching of Paul. It is ironic that you gladly endure these false teachers while despising Paul, who has brought you so many benefits and blessings through his ministry. You should not bear with anyone who proposes a better Savior or a better gospel than what you have already received and accepted.",
+            "wordCount": 136,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 2.0638708936185624,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                35.94,
+                31.26,
+                32.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The false teachers attempt to supersede Paul, preaching another Jesus and a different Gospel, seeking to undermine the authority and identity of the true gospel. Your tolerance of these false teachers is inexcusable, for they do not even claim to bring something distinct or of a different kind. They simply try to replace Paul, your accredited teacher, while offering no superior message. It is ironic that you gladly endure them and despise the one through whom God has bestowed numerous benefits.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.9409580061791005,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                40.45,
+                27.7,
+                31.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The false teachers attempt to supersede the apostle Paul, your accredited teacher, by preaching another Jesus and a different gospel. They claim to bring a different spirit, seeking to undermine the authority and message of the true gospel. Your tolerance of these false teachers is inexcusable, as they do not even pretend to have a distinct individual or a different kind of message. They simply try to supplant the true gospel and the teaching of Paul. It is ironic that you gladly endure these false teachers while despising the one through whom God has bestowed numerous benefits.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.0331795943666195,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                39.86,
+                29.45,
+                30.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The false teachers aim to replace the apostle Paul, your accredited teacher, by preaching a different gospel and promoting another Jesus. They try to undermine the authority of the true gospel and the teaching you have received. It is inexcusable that you tolerate these false teachers who do not even claim to bring anything different or superior. This is ironic considering you gladly endure them while despising Paul, through whom God has bestowed many benefits upon you.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.9558677668110858,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.37,
+            "commentatorTierSimilarities": [
+                37.27,
+                29.5,
+                33.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The false teachers attempt to supersede Paul, preaching another Jesus and a different gospel, seeking to undermine the authority and identity of the true gospel. Your tolerance of these false teachers is inexcusable, for they do not even claim to bring something distinct or of a different kind. They simply try to replace Paul, your accredited teacher, while offering no superior message. It is ironic that you gladly endure them and despise the one through whom God has bestowed numerous benefits upon you.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.94200112257698,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+            "commentatorTierSimilarities": [
+                40.33,
+                27.54,
+                32.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 13:56:20",
+    "verseRef": "Philippians 3:13",
+    "bestBHT": {
+        "bht": "Brothers and sisters, I do not reckon myself to have laid hold of everything I desire in my spiritual journey. For a runner does not think of how many laps they have completed, but rather how many remain. Looking back only leads to going back, and as Christians, we are constantly humbled by the contrast between who we are and who we desire to be. We must have a single great purpose in mind - to secure the prize and renounce anything that hinders our progress.",
+        "wordCount": 85,
+        "quoteTokenProportion": 53.23,
+        "qualityScore": 1.816072907367662,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+        "commentatorTierSimilarities": [
+            31.1,
+            42.87,
+            26.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Brethren, I (emphatic) do not reckon myself (emphatic) to have laid hold.",
+            "One thing (I do: there is nothing expressed in the original: we must not supply 'I reckon,' nor 'I follow,' nor 'I think,' none of which correspond to the explanation following.",
+            "Forgetting the things behind (me, as a runner in the course; by which image, now fully before him, the expressions in this verse must be explained: 'For a runner does not think how many times round the course he has completed, but how many remain to be completed:.... for what profit to us is the past if it be not completed?'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Looking back is sure to end in going back.\" ",
+            "The Bible is our landmark to show us whether we are progressing or retrograding.",
+            "The Christian is always humbled by the contrast between what he is and what he desires to be."
+        ],
+        "Albert Barnes": [
+            "A Christian will accomplish nothing who has not a single great aim and purpose of soul. That purpose should be to secure the prize, and to renounce everything that would be in the way to its attainment.",
+            "He did not stop to think of the difficulties which he had overcome, or the troubles which he had met, but he thought of what was yet to be accomplished.",
+            "A Christian will make more rapid advances in piety by looking forward than by looking backward. Forward we see everything to cheer and animate us - the crown of victory, the joys of heaven, the society of the blessed - the Saviour beckoning to us and encouraging us."
+        ],
+        "Marvin Vincent": [
+            "Myself. As others count themselves."
+        ],
+        "John Calvin": [
+            "He [Paul] shews this immediately after, by saying that he was intent on this one thing, leaving off everything else.",
+            "These three things Paul comprehends in one similitude.",
+            "Paul teaches us that he does not think of what he has been, or of what he has done, but simply presses forward towards the appointed goal."
+        ],
+        "Philip Schaff": [
+            "That I may ever be getting nearer to that result for which Christ laid hold on me, and plucked me back from my old life.\" ",
+            "And that he speaks of one thing only, shows how he felt the singleness of eye with which the great work of salvation was to be pursued.",
+            "By the 'things which are before' we must not merely understand St. Paul to mean 'the prize,' as the final result of the contest. He means rather, in addition to that, yet preceding it, all those parts of the race which are yet to be run, the struggles through which he may have to pass, and how he may finish the remainder of his course most to God\u2019s glory and the church\u2019s profit."
+        ],
+        "Archibald T. Robertson": [
+            "Not yet (\u03bf\u03c5\u03c0\u03c9). But some MSS. read \u03bf\u03c5 (not).",
+            "To have apprehended (\u03ba\u03b1\u03c4\u03b5\u03b9\u03bb\u03b7\u03c6\u03b5\u03bd\u03b1). Perfect active infinitive of same verb \u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9 (perfective use of \u03ba\u03b1\u03c4\u03b1, to grasp completely). Surely denial enough.",
+            "But one thing (\u03b5\u03bd \u03b4\u03b5). No verb in the Greek. We can supply \u03c0\u03bf\u03b9\u03c9 (I do) or \u03b4\u03b9\u03c9\u03ba\u03c9 (I keep on in the chase), but no verb is really needed."
+        ],
+        "John Gill": [
+            "Brethren, I count not myself to have apprehended.... yet he had no such opinion of himself, as if he was perfect.\" ",
+            "but this one thing [I do]; which he was intent upon, constantly attended to, and earnestly pursued...\" ",
+            "forgetting those things which are behind... he was reaching forth unto those things which are before; to perfection of knowledge, holiness, and happiness..."
+        ],
+        "John Wesley": [
+            "I do not account myself to have apprehended this already; to be already possessed of perfect holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Brothers and sisters, I do not think of myself as having achieved everything I desire in my spiritual journey. Like a runner in a race, I focus on what lies ahead, not on what is behind me. Looking back only leads to going back, and as Christians, we are always humbled by the contrast between who we are and who we aspire to be. We must have a single great aim and purpose - to secure the prize and renounce anything that hinders our progress. Our goal should always be to get closer to the result for which Christ saved us, and to run our race in a way that brings glory to God and benefits the Church.",
+            "wordCount": 117,
+            "quoteTokenProportion": 46.84,
+            "qualityScore": 1.7857454885336916,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                27.82,
+                48.38,
+                23.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Brothers and sisters, I do not reckon myself to have laid hold of everything I desire in my spiritual journey. For a runner does not think of how many laps they have completed, but rather how many remain. Looking back only leads to going back, and as Christians, we are constantly humbled by the contrast between who we are and who we desire to be. We must have a single great purpose in mind - to secure the prize and renounce anything that hinders our progress.",
+            "wordCount": 85,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.816072907367662,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                31.1,
+                42.87,
+                26.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Brothers and sisters, I do not reckon myself to have laid hold of everything I desire in my spiritual journey. For a runner, the past laps completed hold no profit; it is the remaining laps that matter. Looking back only leads to going back, hindering our progress. As Christians, we are continually humbled by the disparity between who we are and who we aspire to be. It is crucial to have a singular purpose - to secure the prize and renounce anything that obstructs our path.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.664063714915026,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+            "commentatorTierSimilarities": [
+                33.19,
+                41.72,
+                25.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Brothers and sisters, I do not reckon myself to have laid hold of everything I desire in my spiritual journey, for a runner does not think about the past laps but focuses on what lies ahead. Looking back only leads to going back, hindering our progress. As Christians, we are constantly humbled by the contrast between who we are and who we aspire to be. We must have a single great purpose in mind - to secure the prize and renounce anything that hinders our progress.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.7840598203755742,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                30.96,
+                43.51,
+                25.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Brothers and sisters, I do not reckon myself to have apprehended all that I desire in my spiritual journey. Like a runner in a race, I focus on what lies ahead, not on what is behind me. Looking back only leads to going back, hindering our progress. As Christians, we are constantly humbled by the disparity between who we are and who we aspire to be. We must have a single purpose - to secure the prize and renounce anything that obstructs our path.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.698351855868907,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                32.94,
+                40.36,
+                26.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

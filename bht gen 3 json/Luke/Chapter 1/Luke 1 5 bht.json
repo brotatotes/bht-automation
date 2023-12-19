@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:13:23",
+    "verseRef": "Luke 1:5",
+    "bestBHT": {
+        "bht": "Luke carefully arranges the events in his Gospel from Mary's perspective, providing a unique account of the origins of Christianity. John the Baptist's lineage as a descended priest, married to a priest's daughter, highlights his exceptional background. Divided into twenty-four courses, the priests served in the temple for a week each, with the course of Abijah being the eighth. Luke's detailed documentation not only illuminates the historical context but also emphasizes John's distinguished position as the son of a priest.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.8851196045893386,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+        "commentatorTierSimilarities": [
+            29.52,
+            34.49,
+            35.99
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He traced the events in order as they happened: but he may have arranged them as other considerations led him.",
+            "The name was a very common one. The conjectures about him are endless, and entirely without value.",
+            "John was thus of priestly descent by both parents."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Of these courses only four returned after the captivity, which were again subdivided into twenty-four\u2014retaining the ancient name and order of each.\" ",
+            "They took the whole temple service for a week each.",
+            "The priests might marry into any tribe, but 'it was most commendable of all to marry one of the priests' line.'"
+        ],
+        "Albert Barnes": [
+            "When the priests became so numerous that they could not at once minister at the altar, David divided them into 24 classes or courses, each one of which officiated for a week.",
+            "The class or course (shift) of Abia was the 'eighth' in order.",
+            "John the Baptist was descended, on the father\u2019s and the mother\u2019s side, from priests. Our Saviour was not on either side."
+        ],
+        "Marvin Vincent": [
+            "The Greek style now gives place to the Hebraized style.",
+            "Each of these did duty for eight days, from one Sabbath to another, once every six months.",
+            "On feast days any priest might come up and join in the ministrations of the sanctuary."
+        ],
+        "John Calvin": [
+            "Luke very properly begins his Gospel with John the Baptist, just as a person who was going to speak about the daylight would commence with the dawn.",
+            "Luke secures our respect for him, while he is yet unborn, by announcing the miracles of divine power which took place at the earliest period of his existence, and by showing that he had a commission from heaven to be a prophet.",
+            "That its royal dignity had crumbled down long before, and that by slow degrees its supremacy had nearly given way, does not imply such a discontinuance as to be at variance with Jacob\u2019s prophecy."
+        ],
+        "Philip Schaff": [
+            "Zacharias, i.e., 'the Lord remembers.'",
+            "Of the course of Abijah. The eighth of the twenty-four classes, into which the descendants of Eleazar and Ithamar, the sons of Aaron, were divided.",
+            "Elisabeth, i.e., 'God\u2019s oath.'"
+        ],
+        "Archibald T. Robertson": [
+            "Luke tells his story from the standpoint of Mary as Matthew gives his from the standpoint of Joseph. The two supplement each other.",
+            "We have here the earliest documentary evidence of the origins of Christianity that has come down to us.",
+            "To be a priest and married to a priest's daughter was a double distinction."
+        ],
+        "John Gill": [
+            "This man, the father of John the Baptist, was not an high priest, as this character of him, and the work afterwards ascribed to him, show; though he has been thought to be so by some; and John himself is so called by the Jews.",
+            "To these courses there were added as many stations; and what they were, and their use, may be learnt from what follows.",
+            "It is not possible, that a man's offering should be offered up, and he not stand by it; but the offerings of the congregation are the offerings of all Israel; and it is not possible that all Israel should stand, in the court at the time of sacrifice: wherefore the former prophets ordered, that they should chose out of Israel men that were fit, and feared to sin, that they may be the messengers of all Israel to stand by the offerings, and these are called the men of the station."
+        ],
+        "John Wesley": [
+            "The priests were divided into twenty-four courses, of which that of Abia was the eighth.\" ",
+            "Each course ministered in its turn, for seven days, from Sabbath to Sabbath.\" ",
+            "Each priest of the course or set in waiting, had his part in the temple service assigned him by lot."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Luke traces the events in order as they happened, but he may have arranged them based on other considerations. John the Baptist was of priestly descent on both sides, and his father, Zacharias, belonged to the course of Abijah. The priests were divided into twenty-four courses, and each course took responsibility for the temple service for a week. On feast days, any priest could come up and join in the ministrations. Luke tells the story from the standpoint of Mary, complementing Matthew's account from the standpoint of Joseph. This is the earliest documentary evidence of the origins of Christianity. John's lineage as a priest and being married to a priest's daughter was a double distinction.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 1.9019202679485292,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.58,
+            "commentatorTierSimilarities": [
+                33.66,
+                33.29,
+                33.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Luke meticulously presents the events as they occurred, arranging them considering other factors. John the Baptist, descending from priests on both sides, had the esteemed heritage of being born to a priest of the course of Abijah. Divided into twenty-four courses, the priests each took turns serving in the temple for a week. Luke's account complements Matthew's, offering early evidence on Christianity's origins. John's dual distinction as a priest and being married to a priest's daughter reflects his unique lineage.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8736385057248768,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                32.15,
+                34.4,
+                33.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Luke's careful narrative arrangement of events reflects his purpose in presenting the origins of Christianity from Mary's standpoint, while Matthew's account emphasizes Joseph's perspective. John the Baptist's remarkable lineage as the son of a priest from the course of Abijah signifies a dual distinction. Divided into twenty-four courses, the priests served in the temple for a week each, and on feast days, any priest could join in the ministrations. This earliest documentary evidence sheds light on the origins of Christianity and showcases John's exceptional priestly heritage.",
+            "wordCount": 93,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.8570687370437828,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.09,
+            "commentatorTierSimilarities": [
+                30.66,
+                33.82,
+                35.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Luke's meticulous ordering of events in his Gospel provides a comprehensive account of the origins of Christianity, while Matthew's perspective complements it. John the Baptist's unique lineage as a priest, married to a priest's daughter, signifies a double distinction. Divided into twenty-four courses, the priests served in the temple for a week at a time, with the course of Abijah as the eighth in order. This detailed documentation offers valuable insight into the historical context and the esteemed heritage of John as a priest's son.",
+            "wordCount": 91,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.8269764696004067,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
+            "commentatorTierSimilarities": [
+                30.49,
+                35.69,
+                33.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Luke carefully arranges the events in his Gospel from Mary's perspective, providing a unique account of the origins of Christianity. John the Baptist's lineage as a descended priest, married to a priest's daughter, highlights his exceptional background. Divided into twenty-four courses, the priests served in the temple for a week each, with the course of Abijah being the eighth. Luke's detailed documentation not only illuminates the historical context but also emphasizes John's distinguished position as the son of a priest.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8851196045893386,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+            "commentatorTierSimilarities": [
+                29.52,
+                34.49,
+                35.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

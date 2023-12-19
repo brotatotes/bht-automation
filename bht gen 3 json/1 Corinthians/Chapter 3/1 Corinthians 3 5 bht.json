@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:00:55",
+    "verseRef": "1 Corinthians 3:5",
+    "bestBHT": {
+        "bht": "The divided state among the Corinthians led Paul to ask the question of who Apollos and himself truly were, mere servants through whom the Corinthians believed. Humility, rather than seeking self-glory, is fitting for ordinary ministers. The gifts and graces Christians possess should be traced back to God alone to prevent contentions and divisions in the church. The external doctrine preached by ministers is praised as the instrument of the Holy Spirit, leading souls to believe in Christ through the free grace and sovereign will of God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 2.0005077097965067,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+        "commentatorTierSimilarities": [
+            31.83,
+            30.05,
+            38.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This inference follows on the assumption of the truth of the divided state of things among them.",
+            "The question is not asked by an objector, but by St. Paul himself.",
+            "Ye believed, as in the references: ye became believers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Who is (of what intrinsic power and dignity) Paul? If so great an apostle reasons so of himself, how much more does humility, rather than self-seeking, become ordinary ministers!",
+            " ",
+            "He puts Apollos before himself in humility.",
+            "Who is Apollos . . . Paul? (mere) ministers (a lowly word appropriate here, servants), by whom (not 'in whom' by whose ministrations) ye believed."
+        ],
+        "Albert Barnes": [
+            "God is the fountain of all your blessings, and whoever may have been the 'instrument' by whom you have believed, it is improper to regard them as, in any sense the fountain of your blessings, or to arrange yourselves under their name.",
+            "The original word \u03b4\u03b9\u03b1\u0301\u03ba\u03bf\u03bd\u03bf\u03b9 diakonoi denotes properly 'servants' in contradistinction from 'masters' and denotes those of course who are in an inferior rank of life.",
+            "This idea, that all the gifts and graces which Christians had, were to be traced to God alone, was one which the apostle Paul often insisted on; and if this idea had been kept before the minds and hearts of all Christians, it would have prevented no small part of the contentions in the church, and the formation of no small part of the sects in the Christian world."
+        ],
+        "John Calvin": [
+            "What else are all ministers appointed for, but to bring you to faith through means of their preaching?\" ",
+            "Faith allows of no glorying except in Christ alone.\" ",
+            "The efficacy of external doctrine receives here extraordinary commendation when it is spoken of as the instrument of the Holy Spirit."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 3:5. What then is Apollos, and what is Paul? Ministers mere \u2018 servants.\u2019 through whom (as instruments) ye believed, and each as the Lord gave to him.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Ministers (\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03bf). Not leaders of parties or sects, but merely servants through whom ye believed.",
+            "Paul so describes himself as a minister (Colossians 1:23; Colossians 1:25).",
+            "Hence no minister of the Lord like Apollos and Paul has any basis for pride or conceit nor should be made the occasion for faction and strife."
+        ],
+        "John Gill": [
+            "They were servants to Christ and to his churches, and not lords.",
+            "They were only instrumental in the hand of God, by whom souls were directed, encouraged, and brought to believe in Christ.",
+            "All which is owing to the free grace and sovereign good will and pleasure of God."
+        ],
+        "John Wesley": [
+            "Ministers \u2014 Or servants. By whom ye believed, as the Lord, the Master of those servants, gave to every man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians had divided loyalties between different leaders, causing contentions in the church. Paul reminds them that he and Apollos are mere servants, not to be exalted or made the basis for factionalism. They were instruments through whom the Corinthians believed, but the true power and glory lies in God. All ministers are appointed to bring people to faith, but faith itself allows no glorying except in Christ alone. The efficacy of external doctrine is praised as the instrument of the Holy Spirit. Ultimately, it is the free grace and sovereign will of God that leads souls to believe in Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8074567082852795,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.44,
+            "commentatorTierSimilarities": [
+                29.09,
+                28.28,
+                42.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians had divided loyalties between different leaders, causing contentions in the church. Paul reminds them that he and Apollos are mere servants through whom they believed. All ministers are appointed to bring people to faith, but faith itself allows no glorying except in Christ alone. The efficacy of external doctrine is praised as the instrument of the Holy Spirit. Ultimately, it is the free grace and sovereign will of God that leads souls to believe in Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.7766785168051022,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.42,
+            "commentatorTierSimilarities": [
+                29.52,
+                26.93,
+                43.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The divided state among the Corinthians led Paul to ask the question of who Apollos and himself truly were, mere servants through whom the Corinthians believed. Humility, rather than seeking self-glory, is fitting for ordinary ministers. The gifts and graces Christians possess should be traced back to God alone to prevent contentions and divisions in the church. The external doctrine preached by ministers is praised as the instrument of the Holy Spirit, leading souls to believe in Christ through the free grace and sovereign will of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.0005077097965067,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+            "commentatorTierSimilarities": [
+                31.83,
+                30.05,
+                38.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul addresses the divided state among the Corinthians by questioning the true identity of Apollos and himself. He humbly describes them as mere servants who played a role in the Corinthians' belief in God. Instead of seeking self-glory, Paul emphasizes the importance of humility and unity among ministers. The gifts and graces Christians receive should be attributed to God alone, as external doctrine serves as the instrument of the Holy Spirit. Ultimately, it is through God's free grace and sovereign will that souls come to believe in Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.8990982266791077,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.49,
+            "commentatorTierSimilarities": [
+                32.31,
+                29.74,
+                37.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians' division prompted Paul to humble himself and question the true identity of Apollos and himself. Recognizing that they were merely servants, Paul encourages humility and discourages self-seeking. The ministers were instrumental in the Corinthians' belief, but the true power and glory lie in God alone. Paul emphasizes that all ministers are appointed to bring people to faith, and the efficacy of external doctrine is praised as the instrument of the Holy Spirit. Ultimately, faith in Christ is a result of God's free grace and sovereign will.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.9426567098343017,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                32.39,
+                28.42,
+                39.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

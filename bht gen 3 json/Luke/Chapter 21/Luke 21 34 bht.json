@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:22:42",
+    "verseRef": "Luke 21:34",
+    "bestBHT": {
+        "bht": "Beware of being weighed down by the cares of this life and the excesses of worldly pleasures; they quench spirituality and hinder reflection on our highest interests. Surfeiting, drunkenness, and the worries of this present life distract and make us unfit for spiritual exercises. That day will come suddenly, like a snare, upon those who are overcharged with these matters. Even strong Christians must take heed, for no sin is beyond our reach. Be vigilant and prepared, lest that day catch you unawares.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.5258958964429636,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+        "commentatorTierSimilarities": [
+            20.78,
+            40.12,
+            39.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "34.] yourselves and your are emphatic, recalling the thoughts to themselves, after the recounting of these outward signs."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "34-37. surfeiting, and",
+            "\tdrunkenness\u2014All animal excesses, quenching spirituality. ",
+            "\t",
+            "cares of this life\u2014(See",
+            "\ton :-; :-)."
+        ],
+        "Marvin Vincent": [
+            "Weighed down.",
+            "In its original sense of fulness.",
+            "Life considered either as to its duration, the means of support, or the manner of leading it."
+        ],
+        "Philip Schaff": [
+            "To yourselves. Emphatic.",
+            "Surfeiting, heaviness and dizziness such as drunkenness of yesterday gives; drunkenness, which makes them for today unfit to reflect maturely upon their highest interests; cares of this life, which plague them for tomorrow (Van Oosterzee).",
+            "'That day' would certainly come 'suddenly,' but if they were 'overcharged' with other matters, it would come 'as a snare.' The figure is that of throwing a net or noose over wild animals. There is a thought of ruinous consequences as well as of suddenness."
+        ],
+        "Archibald T. Robertson": [
+            "Lest haply your hearts be overcharged...with surfeiting.\" ",
+            "Drunkenness...cares of this life.",
+            "Come on you...suddenly...as a snare."
+        ],
+        "John Gill": [
+            "be upon your watch and guard",
+            "they stupefy the senses, and make the mind dull and heavy, and unfit for spiritual and religious exercises",
+            "there is such a thing as being inebriated with the world, as well as with wine"
+        ],
+        "John Wesley": [
+            "Then surely there is reason to warn even strong Christians against the very grossest sins.\" ",
+            "Neither are we wise, if we think ourselves out of the reach of any sin.",
+            "That day - Of judgment or of death, come upon you, even you that are not of this world-Unawares."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not let yourselves be weighed down by the cares of this life and the excesses of worldly pleasures, for they quench spirituality and hinder your ability to reflect on your highest interests. Be on guard, for that day will come suddenly, like a snare. Just as surfeiting and drunkenness stupefy the senses and make the mind dull and heavy, so too do the cares of this life distract us from spiritual and religious exercises. Even strong Christians must beware, for there is no sin that we are out of reach of. Be watchful and prepared, lest that day come upon you unawares.",
+            "wordCount": 103,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.50365064217276,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.34,
+            "commentatorTierSimilarities": [
+                21.21,
+                35.91,
+                42.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not let yourselves be weighed down by the cares of this life and the excesses of worldly pleasures; they dull the mind and hinder spirituality. Be on guard, for that day will come suddenly like a snare. Surfeiting and drunkenness stupefy the senses, distracting us from spiritual exercises. Even strong Christians must beware, as there is no sin we are immune to. Be watchful and prepared, lest that day come upon you unawares.",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.4804278413676237,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.57,
+            "commentatorTierSimilarities": [
+                21.54,
+                34.11,
+                44.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of being weighed down by the cares of this life and the excesses of worldly pleasures; they quench spirituality and hinder reflection on our highest interests. Surfeiting, drunkenness, and the worries of this present life distract and make us unfit for spiritual exercises. That day will come suddenly, like a snare, upon those who are overcharged with these matters. Even strong Christians must take heed, for no sin is beyond our reach. Be vigilant and prepared, lest that day catch you unawares.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.5258958964429636,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+            "commentatorTierSimilarities": [
+                20.78,
+                40.12,
+                39.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of being weighed down by the cares of this life and the excesses of worldly pleasures; they quench spirituality and hinder reflection on our highest interests. Surfeiting, drunkenness, and the worries of this present life distract and make us unfit for spiritual exercises. That day will come suddenly, like a snare, upon those who are overcharged with these matters. Even strong Christians must take heed, for no sin is beyond our reach. Be vigilant and prepared, lest that day catch you unawares.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.5258958964429636,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+            "commentatorTierSimilarities": [
+                20.78,
+                40.12,
+                39.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not let yourselves be weighed down by the cares of this life and the excesses of worldly pleasures; they dull the mind and hinder spirituality. Be on guard, for that day will come suddenly like a snare. Surfeiting and drunkenness stupefy the senses, distracting us from spiritual exercises. Even strong Christians must beware, as there is no sin we are immune to. Be watchful and prepared, lest that day come upon you unawares.",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.4804278413676237,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.57,
+            "commentatorTierSimilarities": [
+                21.54,
+                34.11,
+                44.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

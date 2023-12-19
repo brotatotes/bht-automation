@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:16:30",
+    "verseRef": "Luke 7:45",
+    "bestBHT": {
+        "bht": "The circumstances surrounding the anointing reveal the perplexity of how such a woman gained entrance to the Pharisee's guest-chamber. It is suggested that she entered with Jesus and His disciples, as He often gathered sinners to hear Him. The Pharisee marveled at her actions, particularly her tender and affectionate kisses upon Jesus' feet. Her continuous act of kissing displayed an overwhelming love that starkly contrasted with the Pharisee's lack of hospitality. From the moment she entered the house, she had not ceased in lavishing her kisses upon Jesus' feet.",
+        "wordCount": 92,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.722423000796704,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.61,
+        "commentatorTierSimilarities": [
+            34.46,
+            28.99,
+            36.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words will explain one difficulty in the circumstances of the anointing: how such a woman came into the guest-chamber of such a Pharisee.",
+            "She appears by them to have entered simultaneously with our Lord and His disciples.",
+            "If she came in His train, the Pharisee would not exclude her, as He was accustomed to gather such to hear Him: it was the touching at which he wondered."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "45. no kiss\u2014of salutation. How",
+            "\tmuch love was here? Any at all?"
+        ],
+        "Albert Barnes": [
+            "Thou gavest me no kiss - The kiss was a token of affection or a common mode of salutation...",
+            "Hath not ceased to kiss my feet - How striking the difference between the conduct of Simon and this woman!",
+            "The most splendid entertainments do not always express the greatest welcome."
+        ],
+        "Marvin Vincent": [
+            "Ceased (die lipen). Only here in New Testament. Common in medical language, meaning to be intermittent, and to discontinue giving remedies for a time.",
+            "To kiss [\u03ba\u03b1\u03c4\u03b1\u03c6\u03b9\u03bb\u03bf\u03c5\u03c3\u03b1] . The compound verb has the force of kissing tenderly, caressing."
+        ],
+        "Philip Schaff": [
+            "No kiss, of welcome, on the face, came from the host.",
+            "The unbidden woman coming in with the Guest at once kissed His feet.",
+            "And continued to do so."
+        ],
+        "Archibald T. Robertson": [
+            "Hath not ceased to kiss (\u03bf\u03c5 \u03b4\u03b9\u03b5\u03bb\u03b9\u03c0\u03b5\u03bd \u03ba\u03b1\u03c4\u03b1\u03c6\u03b9\u03bb\u03bf\u03c5\u03c3\u03b1). Supplementary participle. "
+        ],
+        "John Gill": [
+            "The Jews have a saying, that 'all kisses are foolish, excepting three; the kiss of grandeur or dignity, the kiss at parting, and the kiss at meeting.",
+            "This woman, since the time I came in...hath not ceased to kiss my feet.",
+            "...this action was repeated by her times without number, even ever since she came into the house."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The circumstances surrounding the anointing in Luke 7:45 raise questions about how this woman, who is described as a sinner, was able to enter the Pharisee's guest-chamber. It is suggested that she may have entered along with Jesus and His disciples, as He often gathered such people to listen to His teachings. The Pharisee wondered at the woman's actions, particularly because she kissed Jesus' feet continuously. This act of kissing was not simply a polite greeting, but rather a tender and affectionate expression. It is clear that there was a stark contrast between the lack of hospitality shown by the Pharisee and the overwhelming love displayed by the woman. She had been ceaselessly kissing Jesus' feet since the moment she entered the house.",
+            "wordCount": 125,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6157090874570603,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.06,
+            "commentatorTierSimilarities": [
+                34.46,
+                27.84,
+                37.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The circumstances surrounding the anointing reveal the perplexity of how such a woman gained entrance to the Pharisee's guest-chamber. It is suggested that she entered with Jesus and His disciples, as He often gathered sinners to hear Him. The Pharisee marveled at her actions, particularly her tender and affectionate kisses upon Jesus' feet. Her continuous act of kissing displayed an overwhelming love that starkly contrasted with the Pharisee's lack of hospitality. From the moment she entered the house, she had not ceased in lavishing her kisses upon Jesus' feet.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.722423000796704,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.61,
+            "commentatorTierSimilarities": [
+                34.46,
+                28.99,
+                36.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The circumstances surrounding the anointing in this passage shed light on how this woman, described as a sinner, was able to enter the Pharisee's guest-chamber. She likely entered with Jesus and His disciples, as He often gathered such people to listen to Him. While the Pharisee was surprised by her actions, particularly her continuous kissing of Jesus' feet, she displayed a profound love that stood in stark contrast to his lack of hospitality. From the moment she entered the house, she never ceased in showering Jesus' feet with her affectionate kisses.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.5829300953293195,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.97,
+            "commentatorTierSimilarities": [
+                33.91,
+                26.1,
+                39.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The circumstances surrounding the anointing highlight one particular challenge: how did a woman like her gain access to a Pharisee's guest-chamber? She likely entered alongside Jesus and His disciples, as He tended to attract such individuals for His teachings. The Pharisee was astonished by her actions, especially the continuous tender kisses she bestowed upon Jesus' feet. Her unwavering display of affection starkly contrasted with the Pharisee's lack of hospitality. From the moment she arrived, she never stopped lavishing her kisses on Jesus' feet.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.6678644284184023,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                35.3,
+                28.48,
+                36.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The circumstances surrounding this event raise questions about the woman's presence in the Pharisee's guest-chamber. It is suggested that she may have entered with Jesus and His disciples, as He often gathered sinners to hear Him. The Pharisee marveled at her actions, particularly the continuous and affectionate kisses lavished upon Jesus' feet. Her unwavering displays of love contrasted sharply with the Pharisee's lack of welcome. From the moment she came into the house, she never ceased in passionately showering Jesus' feet with her kisses.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6200254178643259,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.21,
+            "commentatorTierSimilarities": [
+                33.82,
+                28.91,
+                37.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

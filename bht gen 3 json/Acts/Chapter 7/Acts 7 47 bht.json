@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:27:35",
+    "verseRef": "Acts 7:47",
+    "bestBHT": {
+        "bht": "The accusations against Stephen for speaking against the Temple are misguided, as he points out that both the Tabernacle and the Temple were temporary structures, not meant to endure forever. Stephen reminds the people that God cannot be confined to a physical building and must be sought in heaven with faith. Although Solomon built the Temple, it was David who desired it, but was not allowed to construct it. The Temple, like the Tabernacle, served its purpose in its time, but God's worship is not limited to these physical structures.",
+        "wordCount": 91,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.040667089809091,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+        "commentatorTierSimilarities": [
+            0.0,
+            55.54,
+            44.46
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "David was not permitted to do it because he had been a man of war.\" ",
+            "He prepared the principal materials for the temple, but Solomon built it.",
+            "Solomon built the temple."
+        ],
+        "John Calvin": [
+            "Stephen denieth that God dwelleth in temples made with hands, that is not referred unto Solomon, who knew full well that God was to be sought in heaven, and that men\u2019s minds must be lifted up thither by faith.\" (Commentary)",
+            "He reproveth the blockishness of the people, which abused the temple, as if it had had God tied to it.\" (Commentary)",
+            "This was almost a common error in all ages; because men thought that cold ceremonies were sufficient enough for the worship of God. The reason is, because forasmuch as they are carnal, and wholly set upon the world, they imagine that God is like to them; therefore, to the end God may take from them this blockishness, he saith that he filleth all things.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "The Temple, against which you accuse me of having spoken blasphemous words, because I pointed out [as did my Master] that it was a building which would not endure for ever, was first built, not by David, the man after God\u2019s own heart, but by Solomon...",
+            "That sacred Tabernacle even was not meant to endure for ever. Is it then blasphemy for me to teach that the Temple which succeeded it was also of a transitory nature?",
+            "Tabernacle and Temple are alike things belonging to time, and are by no means the necessary or only places in which God could be acceptably worshipped."
+        ],
+        "John Gill": [
+            "Solomon his son, who enjoyed much peace, was the person designed for this work, and who did accomplish it.\" ",
+            "Though David was so set upon it, and made such large provisions for it, he was not to be the man that should build it.",
+            "Solomon built him an house."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Temple, which some accused Stephen of speaking blasphemously against, was not first built by David, but by Solomon. However, Stephen argues that both the Tabernacle and the Temple were not meant to endure forever, but were temporal places of worship. He reproves the people for their blockishness in thinking that God was tied to the temple, emphasizing that God cannot be confined to a physical structure. Instead, God fills all things and should be sought in heaven with lifted minds and faith. Solomon, the one who enjoyed peace, was the one chosen to fulfill the building of the Temple, while David, despite his desire and preparations, was not permitted to do so.",
+            "wordCount": 113,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.9906995432020862,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.89,
+                47.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The accusations against Stephen for speaking against the Temple are misguided, as he points out that both the Tabernacle and the Temple were temporary structures, not meant to endure forever. Stephen reminds the people that God cannot be confined to a physical building and must be sought in heaven with faith. Although Solomon built the Temple, it was David who desired it, but was not allowed to construct it. The Temple, like the Tabernacle, served its purpose in its time, but God's worship is not limited to these physical structures.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.040667089809091,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.54,
+                44.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen defends himself against the accusation of speaking blasphemy about the Temple, stating that both the Tabernacle and the Temple were not meant to last forever. He emphasizes that God cannot be confined to a physical structure, but should be sought in heaven with faith. Solomon, not David, was the one chosen to build the Temple, despite David's desire and preparations. Stephen challenges the notion that God dwells solely in temples made by human hands, reminding the people that God fills all things.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9259328383425025,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.38,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.52,
+                47.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephen counters the accusation of blasphemy against the Temple by highlighting its temporal nature, explaining that both the Tabernacle and the Temple were not designed to endure permanently. He argues that God cannot be limited to a physical structure and should be worshipped with a lifted mind and faith. Solomon, not David, was chosen to construct the Temple, despite David's preparations and longing. Stephen challenges the misconception that God resides exclusively in temples and affirms that God fills all things.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8602308422947393,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.55,
+                46.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stephen defends himself against the charge of blasphemy towards the Temple by highlighting its temporary nature. He reminds the people that both the Tabernacle and the Temple were not meant to endure forever, refuting the notion that God can be confined to a physical structure. Solomon, not David, was appointed to build the Temple, emphasizing that God cannot be limited to human-made temples. Stephen urges the people to seek God with faith, as God fills all things and cannot be tied to a specific place.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8364643039241284,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.34,
+                46.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 15:13:31",
+    "verseRef": "1 Corinthians 15:13",
+    "bestBHT": {
+        "bht": "If there is no general resurrection, then there can have been no resurrection of Christ. His resurrection and the resurrection of believers are inseparably linked, as the head and the members of the body stand on the same footing. Christ's resurrection is the antecedent, and the general resurrection is the consequent. If the general resurrection is held to be impossible and absurd, then it must follow that Christ is not risen. The close connection between Christ and his people makes their resurrection certain. So, if there is no resurrection of the dead, there is no resurrection of Christ either.",
+        "wordCount": 100,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 2.4552242175399246,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.98,
+        "commentatorTierSimilarities": [
+            26.65,
+            30.61,
+            42.74
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This inference depends on the maxim, 'that if the genus disappear, the species goes with it;'\" ",
+            "The Resurrection of Christ being an instance of the rule, that dead men rise.",
+            "He is man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If there be no general resurrection, which is the consequent, then there can have been no resurrection of Christ, which is the antecedent.",
+            "The head and the members of the body stand on the same footing: what does not hold good of them, does not hold good of Him either.",
+            "His resurrection and theirs are inseparably joined."
+        ],
+        "Albert Barnes": [
+            "If the whole subject is held to be impossible and absurd, then it must follow that Christ is not 'risen,' since there were the same difficulties in the way of raising him up which will exist in any case.",
+            "He was dead and was buried. He had lain in the grave three days. His human soul had left the body. His frame had become cold and stiff. The blood had ceased to circulate, and the lungs to heave.",
+            "There was, moreover, such a close connection between Christ and his people, that the resurrection of the Lord Jesus made their resurrection certain."
+        ],
+        "Philip Schaff": [
+            "But if there is no resurrection of the dead, neither hath Christ been raised...\" ",
+            "The genus being destroyed, the species of necessity goes with it...\" ",
+            "The root and the branches, the head and the members, stand and fall together."
+        ],
+        "Archibald T. Robertson": [
+            "Neither hath Christ been raised (\u03bf\u03c5\u03b4\u03b5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2 \u03b5\u03b3\u03b7\u03b3\u03b5\u03c1\u03c4\u03b1). He turns the argument round with tremendous force. But it is fair. "
+        ],
+        "John Gill": [
+            "If there is no such thing as a resurrection of any, if the thing is not possible, if it never has been, is, or will be true in fact...",
+            "The apostle argues from a general, to a particular; from the general resurrection of the dead, to the particular resurrection of Christ...",
+            "But if the resurrection of Christ is not true, many are the absurdities that must follow upon it, and which the apostle next enumerates."
+        ],
+        "John Wesley": [
+            "If there be no resurrection \u2014 If it be a thing flatly impossible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "If there is no general resurrection, then it follows that Christ Himself could not have been raised from the dead. The Resurrection of Christ serves as an example of the rule that dead men can rise. His resurrection is inseparably connected to the possibility of a general resurrection for all. In fact, the head and the members of the body are on the same footing, so what applies to one applies to the other. If there is no resurrection, then absurdities would abound. The argument is turned around with tremendous force, but with fairness, to emphasize the interdependence of Christ's resurrection and the hope of a future resurrection.",
+            "wordCount": 109,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 2.2172264500262355,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.06,
+            "commentatorTierSimilarities": [
+                28.62,
+                29.01,
+                42.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If there is no general resurrection, then Christ Himself could not have been raised. The Resurrection of Christ is an example of the rule that dead men rise. His resurrection is connected to the possibility of a general resurrection for all. In fact, the head and the members of the body are on the same footing, so what applies to one applies to the other. If there is no resurrection, absurdities would abound. The argument emphasizes the interdependence of Christ's resurrection and the hope of a future resurrection.",
+            "wordCount": 89,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 2.176001851407842,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.69,
+            "commentatorTierSimilarities": [
+                27.25,
+                29.01,
+                43.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If there is no general resurrection, then Christ Himself could not have been raised. His resurrection is connected to the possibility of a general resurrection for all. The head and the members of the body stand on the same footing, so what applies to one applies to the other. If there is no resurrection, absurdities would abound. The argument emphasizes the interdependence of Christ's resurrection and the hope of a future resurrection.",
+            "wordCount": 73,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 2.104309583813933,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                26.59,
+                28.48,
+                44.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If there is no general resurrection, then there can have been no resurrection of Christ. His resurrection and the resurrection of believers are inseparably linked, as the head and the members of the body stand on the same footing. Christ's resurrection is the antecedent, and the general resurrection is the consequent. If the general resurrection is held to be impossible and absurd, then it must follow that Christ is not risen. The close connection between Christ and his people makes their resurrection certain. So, if there is no resurrection of the dead, there is no resurrection of Christ either.",
+            "wordCount": 100,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 2.4552242175399246,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.98,
+            "commentatorTierSimilarities": [
+                26.65,
+                30.61,
+                42.74
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

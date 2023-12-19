@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:40:43",
+    "verseRef": "2 Peter 2:16",
+    "bestBHT": {
+        "bht": "Balaam's relentless pursuit disregarded God's command and was halted by his own beast. The ass, commonly used for riding, turned aside at the sight of the angel, rebuking Balaam's madness. The dumb ass miraculously spoke with a man's voice, silencing Balaam and exposing the folly of his desires. This incident serves as a reminder that every act of hostility against God contains an element of madness. The comparison of wicked individuals to natural brute beasts is fitting in light of this encounter.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.7749408138567317,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.36,
+        "commentatorTierSimilarities": [
+            26.56,
+            37.78,
+            35.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "his own beast convicted him of his own iniquity.",
+            "the ass was the ordinary animal used in riding in Palestine.",
+            "the ass turned aside at the sight of the angel, but Balaam, after God had plainly said, Thou shalt not go, persevered in wishing to go for gain; thus the ass, in act, forbade his madness."
+        ],
+        "Albert Barnes": [
+            "The guilt of thus debasing his high office, and going forth to curse the people of God - a people who had done him no wrong, and given no occasion for his malediction - was so extraordinary, that means as extraordinary were proper to express it.",
+            "He designed that all that influence should be in favor of the cause of truth, thus furnishing a striking instance of the use which he often makes of wicked men.",
+            "He was so mad or infatuated that he allowed neither reason, nor conscience, nor the will of God, to control him!"
+        ],
+        "Marvin Vincent": [
+            "His own, see on ch. 2 Peter 1:3. Transgression, from para, contrary to, and nomov, law. Only here in New Testament.",
+            "The verb denotes the utterance of a sound or voice, not only by man, but by any animal having lungs.",
+            "From para, beside, and frhn, the mind; and so equivalent to the phrase, beside one's self."
+        ],
+        "John Calvin": [
+            "The gift of prophecy was so special, that though he did not worship the true God, and had not true religion, he might yet have been endued with it.",
+            "It is an evil which prevails everywhere, that men use scurrilous raillery for the purpose of deriding God and the Savior; nay, they ridicule all religion under the cloak of wit.",
+            "They prattle something about the gospel, and yet they prostitute their tongue to the service of the devil, that they may bring the whole world, as far as they can, to eternal perdition."
+        ],
+        "Philip Schaff": [
+            "He who was a prophet to others had himself to be rebuked for a trespass of his own.",
+            "The dumb ass, speaking with man\u2019s voice, stayed the madness of the prophet.",
+            "The O. T. narrative represents the beast as bringing the prophet first to a stand."
+        ],
+        "Archibald T. Robertson": [
+            "But he was rebuked.",
+            "A dumb ass.",
+            "Madness."
+        ],
+        "John Gill": [
+            "the dumb ass, as it was naturally so, the ass on which he rode, speaking with man's voice; which was supernatural and miraculous, for it was God that opened the mouth of the ass.\" ",
+            "every sin, which is an act of hostility against God, has madness in it; and this of Balaam's was forbid by his ass, and he was convinced of it.",
+            "Very appropriately is mention made of this dumb ass, when the persons here spoken of were as natural brute beasts, and worse than them."
+        ],
+        "John Wesley": [
+            "The beast \u2014 Though naturally dumb."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Balaam's sin and madness are highlighted as the commentary emphasizes the rebuke he received from his own beast. Despite the clear command from God to not go, Balaam persisted in his desire for personal gain. The significance of the ass speaking with a man's voice stands out as a miraculous sign that halted Balaam's madness. This serves as a reminder that every act of hostility against God contains an element of madness, as demonstrated by Balaam's forbidden pursuit and the conviction brought by his ass. The mention of the dumb ass is fitting, considering the likening of the wicked individuals referred to in this passage to natural brute beasts and even worse.",
+            "wordCount": 116,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.8021345709305296,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "commentatorTierSimilarities": [
+                26.01,
+                39.68,
+                34.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Balaam's sinful pursuit for personal gain persisted despite God's clear command to stop. His beast, the ass, turned aside from the angel's presence, urging Balaam to reconsider his madness. The miraculous moment when the ass spoke with a human voice silenced Balaam and pointed to the foolishness of his desire. This confrontation serves as a reminder that every act of hostility against God contains an element of madness, as seen in Balaam's forbidden pursuit and the conviction brought forth by his ass. The comparison of wicked individuals to natural brute beasts is appropriately made.",
+            "wordCount": 98,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.7257875747470206,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
+            "commentatorTierSimilarities": [
+                26.18,
+                38.06,
+                35.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Balaam's iniquitous pursuit persisted despite the ass's conviction. The ass, typically used for riding in Palestine, turned aside upon seeing the angel, but Balaam continued in his madness for personal gain. The rebuke of the dumb ass, miraculously speaking with a man's voice, halted Balaam's folly. This serves as a reminder that every act of hostility against God is laced with madness. The mention of the dumb ass is fitting when referring to the wicked individuals likened to natural brute beasts.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.6962257546555644,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.74,
+            "commentatorTierSimilarities": [
+                26.76,
+                36.32,
+                36.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Balaam's relentless pursuit for personal gain was halted by his own beast. The ass, commonly used for riding in Palestine, turned aside at the sight of the angel, rebuking Balaam's madness. The dumb ass, miraculously speaking with a man's voice, silenced Balaam and revealed the foolishness of his desires. This incident serves as a reminder that every act of hostility against God bears an element of madness. The comparison of wicked individuals to natural brute beasts is fitting in light of this narrative.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.7343811814214227,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.01,
+            "commentatorTierSimilarities": [
+                27.45,
+                38.16,
+                34.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Balaam's relentless pursuit disregarded God's command and was halted by his own beast. The ass, commonly used for riding, turned aside at the sight of the angel, rebuking Balaam's madness. The dumb ass miraculously spoke with a man's voice, silencing Balaam and exposing the folly of his desires. This incident serves as a reminder that every act of hostility against God contains an element of madness. The comparison of wicked individuals to natural brute beasts is fitting in light of this encounter.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.7749408138567317,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.36,
+            "commentatorTierSimilarities": [
+                26.56,
+                37.78,
+                35.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

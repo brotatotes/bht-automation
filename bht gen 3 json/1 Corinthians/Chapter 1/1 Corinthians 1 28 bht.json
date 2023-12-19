@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 14:59:25",
+    "verseRef": "1 Corinthians 1:28",
+    "bestBHT": {
+        "bht": "In God's spiritual kingdom, the things that are esteemed by the world are of absolutely no account. He chose the foolish, weak, lowborn, and despised, those regarded as naught, to nullify the things that are. This brings to light God's power to humble and subdue, showcasing the insignificance of worldly status. The early triumphs of Christianity were indeed rooted in God's selection of the least esteemed, those branded with contempt, overturning societal expectations and establishing His kingdom.",
+        "wordCount": 80,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.8530718920818618,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+        "commentatorTierSimilarities": [
+            33.55,
+            32.44,
+            34.01
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression are not, means, as good as have no existence.",
+            "The threefold repetition of God chose, with the three 'contrasts to wise, mighty, and noble, announces the fact with a triumphant emphasis.",
+            "All the things that are, all the realities, of the world, are of absolutely no account, unassignable, in God\u2019s spiritual kingdom."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Yea is not in the Greek.",
+            "Thus the clause, 'things which are not' (are regarded as naught), is in apposition with 'foolish . . . weak . . . base (that is, lowborn) and despised things.'",
+            "God has chosen all four, though regarded as things that are not, to bring to naught things that are."
+        ],
+        "Albert Barnes": [
+            "He desires to convey in the strongest terms, the fact, that God had illustrated his plan by choosing the objects of least esteem among people.",
+            "He adds, therefore, that he had chosen those things which were absolutely nothing, which had no existence; which could not be supposed to influence him in his choice.",
+            "To bring to naught - To humble and subdue. To show them how vain and impotent they were."
+        ],
+        "Marvin Vincent": [
+            "Base [\u03c9\u03b3\u03b5\u03bd\u03b7] . Of no family. The reverse of eujgeneiv noble. ",
+            "Despised [\u03b5\u03be\u03bf\u03c5\u03b8\u03b5\u03bd\u03b7\u03bc\u03b5\u03bd\u03b1] . Lit., set at nought. Not merely despised, but expressly branded with contempt. See Luke 23:11."
+        ],
+        "John Calvin": [
+            "We are nothing previously to our being called, which must be understood as referring to reality in the sight of God, however we may appear to be something in the eyes of men.",
+            "The nothingness (\u03bf\u1f50\u03b4\u03b5\u03bd\u03b5\u03b9\u03b1) of which he speaks must be viewed as referring to the opinion of men.",
+            "Hence we may clearly see how great is the folly of those who imagine that there is in mankind some degree of merit or worthiness, which would hold a place antecedent to God\u2019s choice."
+        ],
+        "Philip Schaff": [
+            "The things that are not, or as we might say, 'the nothings,' to bring to nought the things that are.\" ",
+            "Emphatically to hold forth and reiterate the mean condition of the generality of converts, as persons of no culture, of no weight, of no account in any respect in fact, mere nobodies.",
+            "And is not this the history of all the early triumphs of Christianity?"
+        ],
+        "John Gill": [
+            "even the poor of this world, rich in faith, and heirs of a kingdom",
+            "who are not accounted of, or are reckoned as nothing; and these the Lord calls by his grace",
+            "who, on the account of their noble birth, large possessions, and high attainments in knowledge and learning, thought themselves something; all which will one day be abolished"
+        ],
+        "John Wesley": [
+            "Things that are not \u2014 The Jews frequently called the gentiles, \"Them that are not,\" 2Esdras vi56,57. In so supreme contempt did they hold them.",
+            "The things that are \u2014 In high esteem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 1:28, Paul emphasizes that in God's spiritual kingdom, all the things that are valued in the world are of no account. He affirms that God chose the foolish, weak, lowborn, and despised things to bring to naught the things that are esteemed in the eyes of men. This highlights the fact that God's plan is to humble and subdue, showing the vanity and impotence of worldly status. It is a powerful reminder of the early triumphs of Christianity, where God's choice of the least esteemed brought forth His kingdom and overturned societal expectations.",
+            "wordCount": 97,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.8051695244513786,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                30.48,
+                35.08,
+                34.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's spiritual kingdom values things in stark contrast to the world. The realities of the world are unimportant in God's eyes, and He chose the foolish, weak, lowborn, and despised things to nullify the values that society holds dear. This demonstrates God's power to humble and subdue, revealing the emptiness of worldly status. The early successes of Christianity were rooted in God's selection of those considered unimportant, challenging societal norms and establishing His kingdom.",
+            "wordCount": 78,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.7454880560136372,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.38,
+            "commentatorTierSimilarities": [
+                32.64,
+                32.04,
+                35.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In God's spiritual kingdom, the things that are valued in the world are of no account. God chose the foolish, weak, lowborn, and despised things to bring to naught the esteemed realities of society. This highlights His power to humble and subdue, revealing the futility of worldly status. The early triumphs of Christianity were built on God's choice of the least esteemed, challenging societal expectations and establishing His kingdom.",
+            "wordCount": 71,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 1.7473725875534942,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                32.23,
+                33.93,
+                33.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In God's spiritual kingdom, the things that are valued in the world are regarded as naught. God chose the foolish, weak, lowborn, and despised things to bring to naught the things that are esteemed by society. This shows His power to humble and subdue, demonstrating the insignificance of worldly status. The early triumphs of Christianity were founded on God's choice of the least esteemed, defying societal norms and establishing His kingdom.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.810332427294426,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                32.26,
+                33.79,
+                33.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In God's spiritual kingdom, the things that are esteemed by the world are of absolutely no account. He chose the foolish, weak, lowborn, and despised, those regarded as naught, to nullify the things that are. This brings to light God's power to humble and subdue, showcasing the insignificance of worldly status. The early triumphs of Christianity were indeed rooted in God's selection of the least esteemed, those branded with contempt, overturning societal expectations and establishing His kingdom.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.8530718920818618,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                33.55,
+                32.44,
+                34.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

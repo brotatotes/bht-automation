@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:18:23",
+    "verseRef": "Galatians 4:1",
+    "bestBHT": {
+        "bht": "The child, as long as he is underage, is regarded as a servant, regardless of the father's circumstances. Similarly, the condition of the Jews before Christ was inferior, resembling that of a servant. The father's sovereign will, not his absence or death, makes us heirs according to the promise. We are not our own, but under God's governance, liable to correction and chastisement. Though we may not possess all blessings yet, we remain rightful heirs as God is the preserver of all.",
+        "wordCount": 85,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.0783919872514294,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+        "commentatorTierSimilarities": [
+            28.95,
+            36.77,
+            34.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The question, whether the father of the heir here is to he thought of as dead, or absent, or living and present, is in fact one of no importance: nor does it belong properly to the consideration of the passage.\" ",
+            "The supposition in our text is, that a father (from what reason or under what circumstances matters not) has preordained a time for his son and heir to come of age, and till that time, has subjected him to guardians and stewards.",
+            "In the type, the reason might be absence, or decease, or even high office or intense occupation, of the father: in the antitype, it is the Father's sovereign will: but the circumstances equally exist."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The fact of God's sending His Son to redeem us who were under the law, and sending the Spirit of His Son into our hearts, confirms the conclusion that we are 'heirs according to the promise.'\" ",
+            "It is not, as in earthly inheritances, the death of the father, but our Father's sovereign will simply that makes us heirs.",
+            "He is not at his own disposal."
+        ],
+        "Albert Barnes": [
+            "No matter how great is the estate; no matter how wealthy his father; no matter to how elevated a rank he may be raised on the moment that he enters on his inheritance, yet until that time he is in the condition of a servant.",
+            "He has a prospective right to all the property, which no one else has.",
+            "The condition of the Jews before the coming of the Messiah was inferior in many respects to what the condition of the friends of God would be under him"
+        ],
+        "Marvin Vincent": [
+            "The heir...A child. A minor.",
+            "Used by Paul in contrast with teleiov full grown.",
+            "Lord of all. Legally, by right of birth, though not actually."
+        ],
+        "John Calvin": [
+            "The young man, though he is free, though he is lord of all his father\u2019s family, still resembles a slave; for he is under the government of tutors.",
+            "The elect, though they are the children of God from the womb, yet, until by faith they come to the possession of freedom, remain like slaves under the law; but, from the time that they have known Christ, they no longer require this kind of tutelage.",
+            "We learn that, notwithstanding their outward slavery, their consciences were still free. The obligation to keep the law did not hinder Moses and Daniel, all the pious kings, priests, and prophets, and the whole company of believers, from being free in spirit."
+        ],
+        "Philip Schaff": [
+            "To long as the heir is an infant (a minor), he differeth nothing from a slave, though he is lord of all.\" ",
+            "The heir in his nonage represents the Jewish people and the state of the world before Christ.",
+            "God gives to his children at the appointed time all the blessings of salvation without losing anything, since He is the living fountain and preserver of all."
+        ],
+        "Archibald T. Robertson": [
+            "So long as (\u03b5\u03c6' \u03bf\u03c3\u03bf\u03bd \u03c7\u03c1\u03bf\u03bd\u03bf\u03bd). \"For how long a time,\" incorporation of the antecedent (\u03c7\u03c1\u03bf\u03bd\u03bf\u03bd) into the relative clause.",
+            "A child (\u03bd\u03b7\u03c0\u03b9\u03bf\u03c2). One that does not talk (\u03bd\u03b7, \u03b5\u03c0\u03bf\u03c2, word). That is a minor, an infant, immature intellectually and morally in contrast with \u03c4\u03b5\u03bb\u03b5\u03b9\u03bf, full grown.",
+            "Though he is lord of all (\u039a\u03c5\u03c1\u03b9\u03bf\u03c2 \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd \u03c9\u03bd). Concessive participle \u03c9\u03bd, 'being legally owner of all' (one who has the power, \u03bf \u03b5\u03c7\u03c9\u03bd \u03ba\u03c5\u03c1\u03bf\u03c2)."
+        ],
+        "John Gill": [
+            "He is not his own man, nor at his own dispose; he cannot do as he pleases; he is under restraint; he is kept to school or to business, and is liable to correction and chastisement according as he behaves.\" ",
+            "He is right heir to it, though as yet it is not in his hands, nor can he do with it as he will.\" ",
+            "He is Lord of all, of all the servants, according to the Arabic version; or of the whole estate his father left him, of which he is Lord in right, but not in possession."
+        ],
+        "John Wesley": [
+            "As long as he is a child, [the heir] differeth nothing from a servant.\" ",
+            "Not being at liberty either to use or enjoy his estate.",
+            "Though he be lord, proprietor of it all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage speaks about a child who, despite being the rightful heir of his father's estate, is considered no different from a servant as long as he is underage. It is not the absence or death of the father that determines his status, but rather the father's sovereign will. Similarly, before Christ, the condition of the Jews and the world was inferior, resembling that of a servant, until the appointed time when God sent His Son to redeem us and make us heirs according to the promise. Just as the heir is not at his own disposal, we, too, are not our own, but rather under the government and correction of God. While we may not have possession of all the blessings of salvation yet, we are right heirs to them, as God is the living fountain and preserver of all.",
+            "wordCount": 143,
+            "quoteTokenProportion": 47.67,
+            "qualityScore": 2.3027890814375835,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.91,
+            "commentatorTierSimilarities": [
+                29.38,
+                37.91,
+                32.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The child in question is considered no different from a servant until he reaches maturity, regardless of the father's status. This parallels the condition of the Jews before Christ's coming, inferior and resembling servants. God's sovereign will, not the absence or death of the father, determines our status as heirs according to the promise. We are not our own, but under God's governance and correction. Though we may not possess all blessings yet, we are rightful heirs as God is the preserver of all.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.0325944297039795,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.92,
+            "commentatorTierSimilarities": [
+                27.73,
+                38.86,
+                33.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The child, as long as he is underage, is regarded as a servant, regardless of the father's circumstances. Similarly, the condition of the Jews before Christ was inferior, resembling that of a servant. The father's sovereign will, not his absence or death, makes us heirs according to the promise. We are not our own, but under God's governance, liable to correction and chastisement. Though we may not possess all blessings yet, we remain rightful heirs as God is the preserver of all.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.0783919872514294,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                28.95,
+                36.77,
+                34.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The child, regardless of the father's status, is considered a servant until he reaches maturity. This parallels the condition of the Jews before Christ, inferior and resembling servants. God's sovereign will, not the absence or death of the father, makes us heirs according to the promise. We are not our own and are under God's governance and discipline. Though we may not possess all blessings yet, we are rightful heirs as God is the preserver of all.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0151163613240355,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.34,
+            "commentatorTierSimilarities": [
+                27.59,
+                38.97,
+                33.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The child, as long as he is a minor, is regarded as a servant, despite being the lord of all. This analogy draws parallels to the condition of the Jews before Christ, resembling servants in their inferior state. However, it is not the death or absence of the father that determines our status as heirs, but rather God's sovereign will. Consequently, we are not at our own disposal and remain under God's governance and correction. Though we may not possess all the blessings yet, we are rightful heirs, for God preserves all.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.0122173014294162,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.25,
+            "commentatorTierSimilarities": [
+                28.28,
+                37.79,
+                33.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

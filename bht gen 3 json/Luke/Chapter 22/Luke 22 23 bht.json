@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:22:46",
+    "verseRef": "Luke 22:23",
+    "bestBHT": {
+        "bht": "During the last supper, there was a moment of tension as the disciples wondered which of them would betray Jesus. They all had their hands on the table, but they didn't know whose hand it was. This situation mirrored a previous conversation where they also questioned each other and Jesus about the possibility of betrayal. The disciples were shocked and horrified by this thought, as the idea of one of their own turning against their beloved teacher was both barbarous and shocking.",
+        "wordCount": 83,
+        "quoteTokenProportion": 52.46,
+        "qualityScore": 1.1925312934772725,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.0,
+        "commentatorTierSimilarities": [
+            57.15,
+            0.0,
+            42.85
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Which of them it was (\u03c4\u03bf \u03c4\u03b9\u03c2 \u03b1\u03c1\u03b1 \u03b5\u03b9\u03b7 \u03b5\u03be \u03b1\u03c5\u03c4\u03c9\u03bd).",
+            "They all had their hands on the table.",
+            "Whose hand was it?"
+        ],
+        "John Gill": [
+            "Two days before, at the supper in Bethany, when the same thing was hinted to them, they looked at one another, as persons in the utmost surprise and consternation...",
+            "...they inquired among themselves, and of Christ likewise...",
+            "...so barbarous, shocking, and horrible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the last supper, there was a moment of tension as the disciples wondered which of them would betray Jesus. They all had their hands on the table, but they didn't know whose hand it was. This situation mirrored a previous conversation where they also questioned each other and Jesus about the possibility of betrayal. The disciples were shocked and horrified by this thought, as the idea of one of their own turning against their beloved teacher was both barbarous and shocking.",
+            "wordCount": 83,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.1925312934772725,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.0,
+            "commentatorTierSimilarities": [
+                57.15,
+                0.0,
+                42.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the last supper, the disciples were filled with tension, their hands on the table, wondering whose hand it was that would betray Jesus. This moment echoed a previous conversation where they questioned one another and Jesus about the possibility of betrayal. The disciples were utterly shocked and horrified at the thought, finding it barbarous and shocking that one of their own would turn against their beloved teacher.",
+            "wordCount": 68,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 0.8338981830822987,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.07,
+            "commentatorTierSimilarities": [
+                37.46,
+                0.0,
+                62.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the last supper, the disciples had their hands on the table, wondering whose hand it was that would betray Jesus. This echoed their previous conversation where they questioned Jesus and each other about betrayal. The disciples were shocked and horrified at the thought of one of their own turning against their beloved teacher, finding it barbarous and shocking.",
+            "wordCount": 59,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 0.8920341958612988,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.0,
+            "commentatorTierSimilarities": [
+                40.19,
+                0.0,
+                59.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the Last Supper, there was confusion among the disciples regarding who among them would betray Jesus. With their hands on the table, they wondered, Whose hand was it? This question arose from the hint given to them two days prior at the supper in Bethany, leaving them in shock and consternation. In an attempt to clarify, they inquired among themselves and even asked Jesus. The prospect of betrayal was perceived as barbarous, shocking, and horrible.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.090898111747143,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.62,
+            "commentatorTierSimilarities": [
+                40.69,
+                0.0,
+                59.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the Last Supper, the disciples found themselves in a state of confusion as they questioned the identity of the one who would betray Jesus, wondering, Whose hand was it? In the midst of this uncertainty, they all had their hands on the table. Prior to this, during a supper in Bethany, Jesus had dropped a subtle hint about the impending betrayal, leaving the disciples astonished and deeply troubled. Their reaction was characterized by surprise and consternation as they sought to understand what was unfolding in their midst.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 0.9855072852167337,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.11,
+            "commentatorTierSimilarities": [
+                47.89,
+                0.0,
+                52.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

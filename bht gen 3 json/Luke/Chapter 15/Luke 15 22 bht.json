@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:20:35",
+    "verseRef": "Luke 15:22",
+    "bestBHT": {
+        "bht": "The father's acts of clothing his son in a fine robe, giving him a ring, and providing shoes serve as symbols of freedom and honor. These garments are expressions of the father's overwhelming love, extending beyond the worthiness of the son. The best robe may allude to the righteousness of Christ, while the ring and shoes represent a declaration of God's love and restoration. By interrupting the son's confession, the father demonstrates his display of pardoning love, enveloping him in forgiveness and restoration.",
+        "wordCount": 87,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 2.0855357591829886,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+        "commentatorTierSimilarities": [
+            27.81,
+            43.4,
+            28.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first robe, for him who came in rags.\" ",
+            "The ring, a token of a distinguished and free person.\" ",
+            "The shoes, also the mark of a free man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The son has not said all he purposed, not so much, because the father's demonstrations had rekindled the filial, and swallowed up all servile feeling [TRENCH], but because the father's heart is made to appear too full to listen, at that moment, to more in this strain.",
+            "Compare Zechariah 3:4 Zechariah 3:5, 'Take away the filthy garments from him; behold I have clothed thee with change of raiment; and they clothed him with garments' (Isaiah 61:10; Revelation 3:18).",
+            "Slaves went barefoot. Thus, we have here a threefold symbol of freedom and honor, restored, as the fruit of perfect reconciliation."
+        ],
+        "Albert Barnes": [
+            "The joy of the father is expressed by clothing him in the best raiment, that he might appear well.\" ",
+            "To wear a ring on the hand was one mark of wealth and dignity. The rich and those in office commonly wore them.\" ",
+            "When the father commanded them to put shoes on him, it expressed his wish that he should not be treated 'as a servant,' but 'as a son.'"
+        ],
+        "Marvin Vincent": [
+            "There is a fine touch in throwing in the bond - servants immediately after thy son.",
+            "Properly of a long, flowing robe, a festive garment.",
+            "Both the ring and the shoes are marks of a free man."
+        ],
+        "John Calvin": [
+            "Our heavenly Father not only pardons our sins in such a manner as to bury the remembrance of them, but even restores those gifts of which we had been deprived.\" ",
+            "By taking them from us, he chastises our ingratitude in order to make us feel ashamed at the reproach and disgrace of our nakedness.\" ",
+            "He chastises our ingratitude in order to make us feel ashamed at the reproach and disgrace of our nakedness."
+        ],
+        "Philip Schaff": [
+            "The father\u2019s acts respond; but not according to the worthiness of the son.",
+            "The best robe...suggests as probable an allusion to the robe of righteousness provided for us by Christ.",
+            "God will restore the penitent, and give him, out of love, all that is necessary to mark him as a son."
+        ],
+        "Archibald T. Robertson": [
+            "The best robe... the finest in the house. This in contrast with his shabby clothes.",
+            "A ring... marks of the freeman as slaves were barefooted.",
+            "Shoes... marks of the freeman as slaves were barefooted."
+        ],
+        "John Gill": [
+            "The 'best robe' is meant, not water baptism nor an holy life and conversation; nor any particular grace, as faith, or hope, or charity; or the whole of sanctification; nor Adam's robe of innocence; but the righteousness of Christ which is often compared to a robe, or garment...",
+            "...when the servants of God, the ministers of the Gospel, are ordered to bring it out, and put it on him: this is done, not by the imputation of it to men, for that is the Father's act; nor by application of it to them, that is the Spirit's work; but by a declaration of it, setting it forth in a ministerial way before them...",
+            "The putting on of this ring does not design the shedding abroad of this love in the heart by the Spirit of God; but the declaration of it by his servants in a ministerial way; setting it forth in its nature and effects, to the great joy and comfort of souls; when believers receive it by the hand of faith..."
+        ],
+        "John Wesley": [
+            "Interrupting him before he had finished what he intended to say.",
+            "So does God frequently cut an earnest confession short.",
+            "By a display of his pardoning love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The father in this story shows incredible generosity and love towards his wayward son. He clothes him in the finest robe, gives him a ring, and provides him with shoes - all symbols of freedom and honor. The father's actions are not based on the son's worthiness, but rather out of his own overflowing love. The best robe can be seen as a reference to the righteousness of Christ, which covers our sins. Through the ring, God declares His love and sets it forth in a ministerial way before us. Interrupting the son's confession, the father displays his pardoning love and envelops him in forgiveness and restoration.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.8588036958393843,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                24.72,
+                44.37,
+                30.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The father's gestures of clothing his son in a fine robe, giving him a ring, and providing shoes are symbolic of freedom and honor. These acts represent the overflowing love of the father, not the son's worthiness. The best robe may allude to the righteousness of Christ, while the ring and shoes signify a declaration of God's love and our restoration as His children. Interrupting the son's confession, the father displays his pardoning love and envelops him in forgiveness and restoration.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.038476257996871,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.12,
+            "commentatorTierSimilarities": [
+                26.34,
+                44.85,
+                28.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The father's acts of clothing his son in a fine robe, giving him a ring, and providing shoes symbolize freedom and honor. These garments reflect the overflowing love of the father, extending beyond the son's deservings. The best robe may allude to the righteousness of Christ, while the ring and shoes signify a declaration of God's love and restoration. By interrupting the son's confession, the father displays his pardoning love, enveloping him in forgiveness and restoration.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 2.0663864747435934,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.05,
+            "commentatorTierSimilarities": [
+                28.2,
+                43.46,
+                28.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The father's acts of clothing his son in a fine robe, giving him a ring, and providing shoes serve as symbols of freedom and honor. These garments are expressions of the father's overwhelming love, extending beyond the worthiness of the son. The best robe may allude to the righteousness of Christ, while the ring and shoes represent a declaration of God's love and restoration. By interrupting the son's confession, the father demonstrates his display of pardoning love, enveloping him in forgiveness and restoration.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.0855357591829886,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                27.81,
+                43.4,
+                28.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The father's acts of clothing his son in a fine robe, giving him a ring, and providing shoes serve as symbols of freedom and honor. These garments are expressions of the father's overwhelming love, extending beyond the worthiness of the son. The best robe may allude to the righteousness of Christ, while the ring and shoes represent a declaration of God's love and restoration. Interrupting the son's confession, the father demonstrates his display of pardoning love, enveloping him in forgiveness and restoration.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.080813386674967,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+            "commentatorTierSimilarities": [
+                28.0,
+                43.36,
+                28.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

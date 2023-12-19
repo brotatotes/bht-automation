@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:14:05",
+    "verseRef": "1 Corinthians 15:46",
+    "bestBHT": {
+        "bht": "In the natural order, the animal precedes the spiritual. Adam had a living soul with the germ of the Spirit, not in its fullness. The lower life always comes before the higher, a principle observed throughout human history and in God's design. We must first derive our origin from Adam and resemble him before being restored in Christ. Therefore, it is not surprising that we begin with the living soul before rising again in the more perfect and excellent spiritual body.",
+        "wordCount": 82,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 2.384070938976192,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.61,
+        "commentatorTierSimilarities": [
+            41.35,
+            21.46,
+            37.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "46.] But in the natural order, that which is animal precedes that which is spiritual."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Adam had a soul, not necessarily mortal, as it afterwards became by sin, but 'a living soul,' and destined to live for ever, if he had eaten of the tree of life.",
+            "His soul had the germ of the Spirit, rather than the fulness of it, such as man shall have when restored 'body, soul, and spirit,' by the second Adam.",
+            "As the first and lower Adam came before the second and heavenly Adam, so the animal-souled body comes first, and must die before it be changed into the spiritual body (that is, that in which the Spirit predominates over the animal soul)."
+        ],
+        "Albert Barnes": [
+            "There is a tendency toward perfection, and that God observes the proper order by which that which is most glorious shall be secured.",
+            "It was not his plan that all things in the beginning should be perfect; but that perfection should be the work of time, and should be secured in an appropriate order of events.",
+            "The design of Paul in this verse seems to be to vindicate the statement which he had made, by showing that it was in accordance with what was everywhere observed, that the proper order should be maintained."
+        ],
+        "Marvin Vincent": [
+            "Not first - spiritual - natural. A general principle, illustrated everywhere in human history, that the lower life precedes the higher."
+        ],
+        "John Calvin": [
+            "It is necessary...that before we are restored in Christ, we derive our origin from Adam, and resemble him.",
+            "Let us, therefore, not wonder, if we begin with the living soul.",
+            "For as being born precedes in order being born again, so living precedes rising again."
+        ],
+        "Philip Schaff": [
+            "Howbeit that is not first which is spiritual, but that which is natural by an ascent from the lower to the higher...\" ",
+            "as is the law of all God's works.",
+            "...by an ascent from the lower to the higher..."
+        ],
+        "Archibald T. Robertson": [
+            "Howbeit that is not first which is spiritual, but that which is natural (\u03b1\u03bb\u03bb' \u03bf\u03c5 \u03c0\u03c1\u03c9\u03c4\u03bf\u03bd \u03c4\u03bf \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03bf\u03bd, \u03b1\u03bb\u03bb\u03b1 \u03c4\u03bf \u03c8\u03c5\u03c7\u03b9\u03ba\u03bf\u03bd). Literally, \"But not first the spiritual, but the natural.\" This is the law of growth always. "
+        ],
+        "John Gill": [
+            "The spiritual body, though the more perfect and most excellent, yet was not first in being.",
+            "Adam's animal body was before Christ's spiritual body.",
+            "The natural body is first, and then the spiritual; it is first a natural body, as generated and nourished, as weak and dying, and it is afterwards a spiritual one, when raised from the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 15:46, there is a natural order in which the animal precedes the spiritual. Adam, the first man, had a living soul with the germ of the Spirit, but not in its fullness. The lower life always comes before the higher, as illustrated throughout human history. This principle is observed in God's design, where perfection is attained over time in an appropriate order of events. Thus, it is necessary for us to first derive our origin from Adam and resemble him before we are restored in Christ. Therefore, we should not be surprised that we begin with the living soul before rising again in the spiritual body, which is more perfect and excellent but was not the first in being.",
+            "wordCount": 121,
+            "quoteTokenProportion": 48.78,
+            "qualityScore": 2.3516472915893547,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.53,
+            "commentatorTierSimilarities": [
+                39.52,
+                23.44,
+                37.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the natural order, the animal precedes the spiritual. Adam had a living soul with the germ of the Spirit, not in its fullness. The lower life always comes before the higher, a principle observed throughout human history and in God's design. We must first derive our origin from Adam and resemble him before being restored in Christ. Therefore, it is not surprising that we begin with the living soul before rising again in the more perfect and excellent spiritual body.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.384070938976192,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.61,
+            "commentatorTierSimilarities": [
+                41.35,
+                21.46,
+                37.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The natural order follows a pattern in which the animal precedes the spiritual. Adam possessed a living soul with the potential of the Spirit, though not in its fulness. This principle is evident throughout history and aligns with the design of God, as perfection is achieved over time in the appropriate sequence. Thus, it is necessary for us to first derive our origin from Adam and share his likeness before being restored in Christ. Hence, the transition from the living soul to the spiritual body is to be expected.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.146377083015175,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+            "commentatorTierSimilarities": [
+                39.93,
+                21.71,
+                38.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The natural order dictates that the animal precedes the spiritual, which is exemplified by Adam having a living soul with the potential of the Spirit. This principle is observed throughout human history and reflects God's design for gradual perfection. Because of this, it is essential for us to first come from Adam and resemble him before experiencing restoration in Christ. As a result, the progression from the living soul to the spiritual body is to be expected and inevitable.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.222803131347086,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.25,
+            "commentatorTierSimilarities": [
+                39.59,
+                22.1,
+                38.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the natural order, the lower life precedes the higher. Adam possessed a living soul, with the germ of the Spirit, rather than its fullness. The law of growth always follows the pattern of not first the spiritual, but the natural. Perfection is achieved over time, in an appropriate order of events, reflecting God's plan. Thus, it is necessary for us to derive our origin from Adam and resemble him before being restored in Christ. The transition from the living soul to the spiritual body is a progressive and inevitable process.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.161947671537339,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.23,
+            "commentatorTierSimilarities": [
+                39.14,
+                26.09,
+                34.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:19:03",
+    "verseRef": "2 Corinthians 13:7",
+    "bestBHT": {
+        "bht": "He prays that they may not require a demonstration of his apostolic power, but instead be highly endowed with Christian graces. His main desire is for them to lead honest lives, even if it means his own reputation being disapproved. He wishes them to do what is right so that he does not have the occasion to exercise disciplinary action. His ultimate goal is their well-being, not his own credit or exercise of power.",
+        "wordCount": 75,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 1.9441484946433603,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+        "commentatorTierSimilarities": [
+            34.76,
+            31.63,
+            33.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Yet he prays God rather that they may require no such demonstration of his apostolic power, even though he lose in reputation by it.\" ",
+            "And the purpose of this my prayer is not to gain any repute by your Christian graces, but that you may be highly endowed with them.",
+            "We may be as of no repute in the judgment of men, by your good conduct tending to the non-exercise and so to the depreciation of our Apostolic power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We do not pray that we may appear approved, by restraining you when ye do evil; but that ye should do what is right.",
+            "Though we be thereby deprived of the occasion for exercising our apostolic power, and so may appear 'as reprobates' (incapable of affording proof of Christ speaking in us).",
+            "Not to gain credit for ourselves, your ministers, by your Christian conduct; but for your good."
+        ],
+        "Albert Barnes": [
+            "My great object, and my main desire, is not to urge my claims to the apostolic office and clear up my own character; it is that you should lead honest lives, whatever may become of me and my reputation.",
+            "I am willing to be regarded as rejected, disapproved, worthless, like base metal, provided you lead honest and holy lives. I prefer to be so esteemed, and to have you live as becomes Christians, than that you should dishonor your Christian profession.",
+            "A minister of the gospel should desire that his people should walk worthy of their high calling, whatever may be the estimate in which he is held. He should never desire that they should do wrong - how can he do it? - in order that he may take occasion from their wrongdoing to vindicate, in any way, his own character, or to establish a reputation for skill in administering discipline or in governing a church."
+        ],
+        "Marvin Vincent": [
+            "We pray God that you do no evil, not in order that your good conduct may attest the excellence of our teaching and example, so that we shall be approved.",
+            "But in order that you may do what is good, thus rendering it impossible for us to prove our apostolic authority by administering discipline.",
+            "In that case we shall be as men unapproved."
+        ],
+        "John Calvin": [
+            "For nothing was so undesirable for them, as to deprive themselves of advantage from his doctrine.",
+            "My only fear is, lest you should offend God. Nay more, I am prepared to be as a reprobate, provided you are free from all blame.",
+            "Let him be concerned as to his own reputation, in so far as he sees it to be conducive to the public advantage."
+        ],
+        "Philip Schaff": [
+            "Now we pray to God that ye do no evil; not that we may appear approved, but that ye may do that which is honourable, though we be as reprobate.",
+            "My prayer is, that when I come I may find no occasion for the exercise of discipline at all, but may find you walking consistently and honourably as befits those who are called by the name of Christ.",
+            "And this not to justify our Procedure towards you, but for the credit of that holy Name, whatever may be thought of us."
+        ],
+        "Archibald T. Robertson": [
+            "Paul wishes them to do no wrong, He has no desire to exercise his apostolic authority and 'appear approved'.\" ",
+            "He had far rather see them do 'the noble thing' even if it should make him appear disapproved after all that he has said.\" ",
+            "Do the noble thing, even if it means being disapproved."
+        ],
+        "John Gill": [
+            "that ye do no evil which...is desirable by every good man, both for himself and others.",
+            "this was a clear case that he sought their good, and not his own credit, and the exercise of power.",
+            "The apostle chose rather to be looked upon as a poor, mean, and insignificant person, than that they should sin, and require the exercise of his chastising rod."
+        ],
+        "John Wesley": [
+            "I pray God that ye may do no evil \u2014 To give me occasion of showing my apostolical power.",
+            "I do not desire to appear approved - By miraculously punishing you.",
+            "But that ye may do that which is good, though we should be as reprobates \u2014 Having no occasion to give that proof of our apostleship."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He prays that they may not require a demonstration of his apostolic power, but rather be highly endowed with Christian graces. His purpose is not to gain repute by their Christian conduct, but rather for their good. He desires that they do what is right, rendering it impossible for him to prove his apostolic authority by administering discipline. Even if it means being disapproved, his wish for them is to do the noble thing. His main desire is not to clear up his own character, but for them to lead honest lives. He is willing to be regarded as worthless, rejected, or disapproved, as long as they live as becomes Christians.",
+            "wordCount": 111,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 2.0456975794942327,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                37.83,
+                32.15,
+                30.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He prays that they may not require a demonstration of his apostolic power, but rather be highly endowed with Christian graces. He desires that they do what is right, rendering it impossible for him to prove his apostolic authority by administering discipline. His main desire is not to clear up his own character, but for them to lead honest lives. He is willing to be regarded as rejected or disapproved, as long as they live as becomes Christians.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.0295320564707318,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                37.4,
+                33.13,
+                29.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He fervently prays that they may not necessitate a display of his apostolic power, but instead be abundantly adorned with the virtues of Christianity. His intention is not to seek glory for himself through their virtuous conduct, but rather for their own benefit. He entreats them to consistently do what is right, thereby obviating the need for him to exercise his apostolic authority and prove his legitimacy. Even if this leads to him being disapproved, his primary desire is for them to choose what is honorable.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.000881956705207,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+            "commentatorTierSimilarities": [
+                37.85,
+                30.99,
+                31.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He fervently prays that they may not necessitate a display of his apostolic power, but instead be abundantly adorned with the virtues of Christianity. His intent is not to seek glory for himself through their virtuous conduct, but rather for their own benefit. He entreats them to consistently do what is right, thereby obviating the need for him to prove his legitimacy through exercising his apostolic authority. Even if this leads to him being disapproved, his primary desire is for them to choose what is honorable.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.9821981184239017,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                38.09,
+                30.51,
+                31.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He prays that they may not require a demonstration of his apostolic power, but instead be highly endowed with Christian graces. His main desire is for them to lead honest lives, even if it means his own reputation being disapproved. He wishes them to do what is right so that he does not have the occasion to exercise disciplinary action. His ultimate goal is their well-being, not his own credit or exercise of power.",
+            "wordCount": 75,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.9441484946433603,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+            "commentatorTierSimilarities": [
+                34.76,
+                31.63,
+                33.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

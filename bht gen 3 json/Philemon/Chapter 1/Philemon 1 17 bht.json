@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 17:12:56",
+    "verseRef": "Philemon 17",
+    "bestBHT": {
+        "bht": "The partnership referred to is the community of faith, hope, and love between believers, extending beyond a common love. This partnership involves sharing in Christian privileges and working together for the gospel. These words emphasize the fight against human slavery, highlighting the need for compassion and the breaking of the chains of bondage. Paul's wisdom, courage, and sincerity in writing these words serve as an inspiring example for believers.",
+        "wordCount": 70,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 1.8261497227490273,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.06,
+        "commentatorTierSimilarities": [
+            35.37,
+            40.33,
+            24.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The partnership referred to is that shewn by the love of him, common to both, mentioned in the last verse.",
+            "Extending far wider than it, even to the community of faith, and hope, and love between them as Christian men.",
+            "The community of faith, and hope, and love between them as Christian men."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "a",
+            "\tpartner",
+            "\t\u2014 in the Christian fellowship of faith, hope, and love.",
+            "receive",
+            "\thim as myself",
+            "\t\u2014 resuming \u201creceive him that is mine own bowels.\u201d"
+        ],
+        "Albert Barnes": [
+            "The word rendered 'partner' (\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03bf\u0300\u03c2 koino\u0304nos, means 'a partaker, a companion.' The idea in the word is that of having something in common...",
+            "It may be applied to those who hold the same principles of religion, and who have the same hope of heaven, the same views of things, etc.",
+            "His receiving Onesimus would be interpreted by Paul as proof that he regarded him as a partaker of the hopes of the gospel, and as a companion and friend."
+        ],
+        "Marvin Vincent": [
+            "Thou count [\u03b5\u03c7\u03b5\u03b9\u03c2] . Lit., hold, which is often used in this sense.",
+            "One in Christian fellowship.",
+            "More than an intimate friend."
+        ],
+        "John Calvin": [
+            "He reckoned it to be of vast importance that Onesimus should have a mild and gentle master, that immoderate severity might not drive him to despair.",
+            "That is the object which Paul toils so earnestly to accomplish.",
+            "And his example warns us how affectionately we ought to aid a sinner who has given us proof of his repentance."
+        ],
+        "Philip Schaff": [
+            "It has been usually accepted that the apostle uses \u2018partner\u2019 here...a sharer in the same Christian privileges, and a helper in the same Christian work.",
+            "There occur in this passage so many words which savor of mercantile language...money dealings between them, a debtor and creditor account.",
+            "The child might fitly be a sharer in the same matters as his father."
+        ],
+        "Archibald T. Robertson": [
+            "These words sound the death-knell of human slavery wherever the spirit of Christ is allowed to have its way.",
+            "It has been a long and hard fight to break the shackles of human bondage even in Christian countries and there are still millions of slaves in pagan and Mohammedan lands.",
+            "Paul wrote these words with wisdom and courage and sincerity."
+        ],
+        "John Gill": [
+            "A companion and friend, who reckon each other's affairs and interest their own.",
+            "One that shared in the same gifts and graces of the Spirit of God, and one that was to be a partaker of the inheritance with the saints in light.",
+            "He loved him as his own soul; and that he should take whatever respect and affection were shown to him as done to himself."
+        ],
+        "John Wesley": [
+            "If thou accountest me a partner \u2014 So that thy things are mine, and mine are thine."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The partnership referred to in this verse is the Christian fellowship of faith, hope, and love between believers. It extends far beyond just a common love, encompassing the community of faith and hope as well. This partnership is more than an intimate friendship; it is a sharing of Christian privileges and a helper in Christian work. These words from Paul sound the death-knell of human slavery wherever the spirit of Christ is allowed to have its way, emphasizing the importance of treating others with kindness and compassion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9727666975883116,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                36.78,
+                40.81,
+                22.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The partnership referred to in this passage is the community of faith, hope, and love between believers, extending beyond a common love to a shared fellowship. This partnership goes beyond just an intimate friendship; it involves sharing in Christian privileges and working together for the gospel. Paul's words concerning this partnership echo the fight against human slavery, underscoring the importance of treating others with compassion and breaking the chains of bondage. Paul's wisdom, courage, and sincerity in writing these words set a powerful example for believers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.9010262259969717,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.55,
+            "commentatorTierSimilarities": [
+                34.57,
+                40.33,
+                25.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The partnership referred to is the community of faith, hope, and love between believers, extending beyond a common love. This partnership involves sharing in Christian privileges and working together for the gospel. These words emphasize the fight against human slavery, highlighting the need for compassion and the breaking of the chains of bondage. Paul's wisdom, courage, and sincerity in writing these words serve as an inspiring example for believers.",
+            "wordCount": 70,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.8261497227490273,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.06,
+            "commentatorTierSimilarities": [
+                35.37,
+                40.33,
+                24.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The partnership referred to is the community of faith, hope, and love between believers, extending beyond a common love. This partnership involves sharing in Christian privileges and working together for the gospel. These words emphasize the fight against human slavery, underscoring the need for compassion and breaking the chains of bondage. The wisdom, courage, and sincerity of Paul's writing serve as an inspiring example for believers to follow.",
+            "wordCount": 69,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.8100877371908477,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.53,
+            "commentatorTierSimilarities": [
+                35.81,
+                39.56,
+                24.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The partnership mentioned in this verse goes beyond a common love, extending to the community of faith, hope, and love between believers as Christian men. It entails sharing in Christian privileges and working together for the gospel. These words carry significant weight, as they bring attention to the ongoing battle against human slavery and the importance of treating others with kindness and compassion. Paul's wisdom, courage, and sincerity in penning these words serve as a powerful example for believers to follow.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.83781560151207,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                35.02,
+                40.12,
+                24.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

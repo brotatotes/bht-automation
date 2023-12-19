@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 15:13:30",
+    "verseRef": "1 Corinthians 15:6",
+    "bestBHT": {
+        "bht": "The appearance of Jesus to over 500 believers reveals the extent of his followers and adds credibility to their testimony. While the exact location is uncertain, the fact that the majority were alive when Paul wrote the letter strengthens their witness. This event, not mentioned in the Gospels, is a powerful proof of Jesus' resurrection, and its omission does not diminish its significance. The testimony of 500 witnesses, if they were deceived, would make it impossible to substantiate any matter of fact through eyewitness accounts.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.166869041041533,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+        "commentatorTierSimilarities": [
+            29.45,
+            43.99,
+            26.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "From Matt. xxviii. 17, it appears (see note there) that others besides the eleven witnessed the appearance on the mountain in Galilee.",
+            "But we cannot say that it is the appearance here referred to:\u2014nor indeed is it likely that so many as 500 believers in Jesus would have been gathered together in Galilee.",
+            "This appearance would seem rather to have taken place at Jerusalem, and before the dispersion of the multitudes who had assembled at the Passover."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He 'appointed' this place, as one remote from Jerusalem, so that believers might assemble there more freely and securely.\" ",
+            "The number of disciples (Acts 1:15) at Jerusalem shortly after, was one hundred and twenty, those in Galilee and elsewhere not being reckoned.",
+            "Andronicus and JUNIUS were, perhaps, of the number (Acts 1:15- :): they are said to be 'among the apostles' (who all were witnesses of the resurrection, Acts 1:15- :)."
+        ],
+        "Albert Barnes": [
+            "It is remarkable that this fact is omitted by all the evangelists; but why they should have omitted so remarkable a proof of the resurrection of the Lord Jesus, is unknown.\" ",
+            "One thing is proved by this, that the Lord Jesus had many more disciples than is generally supposed. If there were five hundred who could be assembled at once in a single part of the land where he had preached, there is every reason to suppose that there were many more in other parts of Judea.\" ",
+            "If the testimony of 500 could not avail to prove his resurrection, no number of witnesses could. And if 500 people could thus be deceived, any number could; and it would be impossible to substantiate any simple matter of fact by the testimony of eye-witnesses."
+        ],
+        "Archibald T. Robertson": [
+            "The strength of this witness lies in the fact that the majority (\u03bf \u03c0\u03bb\u03b5\u03b9\u03bf\u03c5\u03c2) of them were still living when Paul wrote this Epistle, say spring of A.D. 54 or 55, not over 25 years after Christ's resurrection.",
+            "This incident is the one described in Matthew 28:16 the prearranged meeting on the mountain in Galilee.",
+            "The strength of this witness lies in the fact that the majority (\u03bf \u03c0\u03bb\u03b5\u03b9\u03bf\u03c5\u03c2) of them were still living when Paul wrote this Epistle."
+        ],
+        "John Gill": [
+            "Not at, or near Jerusalem, for the number of the disciples that were together there, made but about an hundred and twenty.",
+            "Here he promised his disciples to go before them, and show himself to them after his resurrection, as he accordingly did.",
+            "Though doubtless these had surviving friends, relations, and acquaintance, to whom they had communicated this important case, and who were ready to attest what they had heard them in the most solemn manner declare."
+        ],
+        "John Wesley": [
+            "Above five hundred \u2014 Probably in Galilee. A glorious and incontestable proof! The greater part remain - Alive."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many believe that the appearance of Jesus to over 500 believers mentioned in 1 Corinthians 15:6 took place in Galilee, rather than in Jerusalem as some suggest. While the exact location of this appearance is unclear, it is significant because it shows that Jesus had a larger following than what is commonly known. The fact that the majority of these witnesses were still alive when Paul wrote this letter adds credibility to their testimony. This event is not recorded in the Gospels, but its omission does not diminish its importance as a powerful proof of Jesus' resurrection.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.2395523903151053,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.81,
+            "commentatorTierSimilarities": [
+                31.82,
+                42.2,
+                25.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The appearance of Jesus to over 500 believers is significant as it reveals Jesus had a larger following than commonly believed. While the location of this appearance is unclear, it adds credibility to the testimony of these witnesses. The fact that the majority of them were still alive when Paul wrote his letter emphasizes the strength of this evidence. Although this event is not mentioned in the Gospels, its omission does not diminish its importance as a powerful proof of Jesus' resurrection.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0012463831281706,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.88,
+            "commentatorTierSimilarities": [
+                30.62,
+                41.96,
+                27.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The appearance of Jesus to over 500 believers reveals the extent of his followers and adds credibility to their testimony. While the exact location is uncertain, the fact that the majority were alive when Paul wrote the letter strengthens their witness. This event, not mentioned in the Gospels, is a powerful proof of Jesus' resurrection, and its omission does not diminish its significance. The testimony of 500 witnesses, if they were deceived, would make it impossible to substantiate any matter of fact through eyewitness accounts.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.166869041041533,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+            "commentatorTierSimilarities": [
+                29.45,
+                43.99,
+                26.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The appearance of Jesus to over 500 believers is a remarkable proof of his resurrection. This event, likely occurring in Galilee, demonstrates his extensive following and adds credibility to the testimony of these witnesses. The fact that the majority of them were still alive when Paul wrote his letter strengthens their witness. Although the Gospels do not mention this incident, its omission does not diminish its power as an undeniable evidence of Jesus' resurrection.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.146337325709487,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+            "commentatorTierSimilarities": [
+                30.58,
+                41.78,
+                27.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The appearance of Jesus to over 500 believers is a significant proof of his resurrection. While the location of this event is uncertain, it reveals the extent of Jesus' following and strengthens the credibility of these witnesses. The fact that the majority of them were still alive when Paul wrote his letter emphasizes the validity of their testimony. Even though this occurrence is not mentioned in the Gospels, its exclusion does not diminish its powerful role as evidence for Jesus' resurrection.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.1088044877144,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.46,
+            "commentatorTierSimilarities": [
+                30.61,
+                42.34,
+                27.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

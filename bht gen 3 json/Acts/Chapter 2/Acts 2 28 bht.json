@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:25:17",
+    "verseRef": "Acts 2:28",
+    "bestBHT": {
+        "bht": "God has made known to us the ways of resurrection-life, filling us with joy in glory, in accordance with the sixteenth Psalm. Through divine grace, we can be restored from death to life, just as the psalmist experienced. This prospect sustained both the psalmist and the Messiah in the face of persecution and trials, and it can similarly empower and support us. The ways of life pertain to the resurrection and ascension, which God revealed to Jesus. His countenance brings gladness and strength, while its absence leads to weariness and despair.",
+        "wordCount": 92,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.703266495376269,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+        "commentatorTierSimilarities": [
+            33.34,
+            36.46,
+            30.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou hast made known... thou shalt make me full of joy with thy countenance.\" ",
+            "In thy presence is fulness of joy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thou hast made known to me the ways of life\u2014that is, resurrection-life.",
+            "Thou shalt make me full of joy with thy countenance\u2014that is, in glory;",
+            "as is plain from the whole connection and the actual words of the sixteenth Psalm."
+        ],
+        "Albert Barnes": [
+            "Thou wilt make known to me life itself, that is, thou wilt restore me to life.",
+            "The prospect of the honor that would be bestowed on the Messiah was what sustained him.",
+            "The prospect of this should sustain us, as it did him, in the midst of persecution, calamity, and trials."
+        ],
+        "John Calvin": [
+            "He meaneth, that he was restored from death to life by the grace of God.",
+            "This was in such sort fulfilled in Christ, that there wanted nothing unto perfection.",
+            "For it is only the pleasantness of God\u2019s countenance, which doth not only make us glad, but also quickens us; again, when the same is turned away, or troubled, we must needs faint."
+        ],
+        "Philip Schaff": [
+            "Thou hast made known to me the ways of life.",
+            "The ways of life to Him meant the resurrection and the ascension.",
+            "Thou shalt make me full of joy with thy countenance."
+        ],
+        "Archibald T. Robertson": [
+            "The ways of life (\u03bf\u03b4\u03bf\u03c5\u03c2 \u03b6\u03c9\u03b7\u03c2). Though dead God will show him the ways back to life. "
+        ],
+        "John Gill": [
+            "Thou hast made known to me the ways of life...",
+            "When God raised Christ from the dead, he showed him, or made him to know experimentally the way of life...",
+            "Thou shalt make me full of joy with thy countenance..."
+        ],
+        "John Wesley": [
+            "Thou hast made known to me the ways of life \u2014 That is, Thou hast raised me from the dead.",
+            "Thou wilt fill me with joy by thy countenance \u2014 When I ascend to thy right hand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 2:28, the psalmist writes about God making known to him the ways of resurrection-life and filling him with joy in glory, as expressed in the sixteenth Psalm. This verse speaks of the psalmist's confidence in God's ability to restore him from death to life through divine grace. The prospect of this restoration sustained both the psalmist and the Messiah, and it has the power to sustain us as well amidst persecution and trials. The ways of life in this context refer to the resurrection and ascension, which God showed and made known to Jesus. Ultimately, God's pleasant and untroubled countenance not only brings us gladness but also strengthens us, while the absence or disturbance of His countenance leads to weariness and despair.",
+            "wordCount": 127,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 1.6701348660115172,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                31.9,
+                37.56,
+                30.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God has made known to us the ways of resurrection-life, filling us with joy in glory, in accordance with the sixteenth Psalm. Through divine grace, we can be restored from death to life, just as the psalmist experienced. This prospect sustained both the psalmist and the Messiah in the face of persecution and trials, and it can similarly empower and support us. The ways of life pertain to the resurrection and ascension, which God revealed to Jesus. His countenance brings gladness and strength, while its absence leads to weariness and despair.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.703266495376269,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                33.34,
+                36.46,
+                30.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God has made known to us the ways of resurrection-life, filling us with joy in glory, in accordance with the sixteenth Psalm. Through divine grace, we can be restored from death to life, just as the psalmist experienced. This prospect sustained both the psalmist and the Messiah in the face of persecution and trials, and it can similarly empower and support us. The ways of life pertain to the resurrection and ascension, which God revealed to Jesus. His countenance brings gladness and strength, while its absence leads to weariness and despair.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.703266495376269,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                33.34,
+                36.46,
+                30.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through divine grace, God has revealed to us the ways of resurrection-life and filled us with joy in glory, as the psalmist reflects in the sixteenth Psalm. This promise of restoration from death to life sustains both the psalmist and the Messiah in the midst of adversity. It serves as a source of encouragement for us as well, in the face of persecution and trials. The ways of life signify the resurrection and ascension, which God made known to Jesus. His countenance brings us gladness and strength, while its absence can lead to weariness and despair.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.6497004995014004,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.19,
+            "commentatorTierSimilarities": [
+                32.06,
+                37.81,
+                30.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By divine grace, God has made known to us the ways of resurrection-life, granting us fullness of joy in His glorious presence, as expressed in the sixteenth Psalm. This assurance of being restored from death to life, a reality experienced by the psalmist, sustained both the psalmist and the Messiah through persecution and trials. We too can find strength and encouragement in this prospect. The ways of life signify the resurrection and ascension that God revealed to Jesus. His countenance, when turned towards us, brings gladness and quickens our spirits, while its absence can cause us to falter.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.5975933371694908,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.46,
+            "commentatorTierSimilarities": [
+                32.1,
+                37.87,
+                30.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

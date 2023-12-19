@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:31:08",
+    "verseRef": "Acts 14:8",
+    "bestBHT": {
+        "bht": "In Lystra, there sat a certain man who was impotent in his feet from birth. The word impotent here implies impossibility, a condition that the man had never been able to overcome. When Paul spoke to the crowd, this man heard his words and witnessed an extraordinary miracle. Through the power of God, the man was suddenly healed, causing his previously motionless legs to become nimble. This miraculous healing, before the eyes of all, served as a powerful testament to the truth of Paul's message and the undeniable power of God.",
+        "wordCount": 92,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.5924304985721172,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.29,
+        "commentatorTierSimilarities": [
+            32.38,
+            32.79,
+            34.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "8-10. there sat there a certain man",
+            "\t. . . a cripple from his mother's womb . . . The same heard Paul",
+            "\tspeak\u2014in the open air and ( :-) to a crowd of people."
+        ],
+        "Albert Barnes": [
+            "The word 'sat,' however, indicates his usual posture, his helpless condition.",
+            "Impotent in his feet - \u03b1\u0313\u03b4\u03c5\u0301\u03bd\u03b1\u03c4\u03bf\u03c2 adunatos. Without any power. Entirely deprived of the use of his feet.",
+            "As they were persecuted from place to place, and opposed in every manner, it was desirable that a signal miracle should be performed to carry forward and establish the work of the gospel."
+        ],
+        "Marvin Vincent": [
+            "The almost universal meaning of the word in the New Testament is impossible.",
+            "The sense of weak or impotent occurs only here and Romans 14:1.",
+            "Impotent [\u03b1\u03b4\u03c5\u03bd\u03b1\u03c4\u03bf\u03c2] . The almost universal meaning of the word in the New Testament is impossible."
+        ],
+        "John Calvin": [
+            "Luke reckoneth up the circumstances, which do more plainly set forth the power of God, when he saith that the man did never walk, and that he was a cripple even from his mother\u2019s womb, and that he was suddenly healed by the voice of Paul alone before the eyes of all men, and that his legs, which were dead, were made nimble, so that he leapt up without making any stop.",
+            "Probabile est,\" it is probable.",
+            "Sine difficultate,\" without difficulty."
+        ],
+        "Philip Schaff": [
+            "The incident here related was evidently no very unusual one in the life of these first great missionaries of the faith.",
+            "The case of the baptism of Cornelius the Roman officer was the first advance out of the charmed circle of Judaism; but Cornelius, though a Gentile, was no idolater.",
+            "The scene of the healing, no uncommon one, reminds us \u2018of the manner in which those who carry the message of salvation to the heathen in the present day collect around them groups of listeners in Burmah and Hindostan."
+        ],
+        "Archibald T. Robertson": [
+            "The incident narrated here (verses Acts 14:8-18) shows how they got a real hearing among these rude heathen.",
+            "Impotent in his feet (\u03b1\u03b4\u03c5\u03bd\u03b1\u03c4\u03bf\u03c2 \u03c4\u03bf\u03b9\u03c2 \u03c0\u03bf\u03c3\u03b9\u03bd). Old verbal, but only here in the N.T. in this sense except figuratively in Romans 15:1.",
+            "Had walked (\u03c0\u03b5\u03c1\u03b9\u03b5\u03c0\u03b1\u03c4\u03b7\u03c3\u03b5\u03bd). So best MSS., first aorist active indicative 'walked,' not \u03c0\u03b5\u03c1\u03b9\u03b5\u03c0\u03b5\u03c0\u03b1\u03c4\u03b7\u03ba\u03b5, 'had walked' (past perfect active)."
+        ],
+        "John Gill": [
+            "And there sat a certain man at Lystra... impotent in his feet;... being a cripple from his mother's womb... who never had walked...\" ",
+            "These circumstances are mentioned, to show that his case was incurable by any human art...",
+            "...to illustrate the following miracle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A man who had been crippled from birth was sitting in Lystra, listening to Paul as he spoke to a crowd of people. The man was unable to walk, as he was impotent in his feet. This condition of being impotent was nearly always used to imply impossibility. However, Paul, through the power of God, performed a remarkable miracle and healed this man. It is noteworthy that the man had never walked before, and yet suddenly, in front of all the witnesses, he leapt up and walked without hesitation. This healing served as a powerful testament to the truth of Paul's message and the reality of God's power at work.",
+            "wordCount": 112,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.5013167251812554,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.26,
+            "commentatorTierSimilarities": [
+                31.24,
+                35.0,
+                33.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A man, impotent in his feet from birth, sat in Lystra, hearing Paul's message amidst a crowd. This condition of being impotent was commonly understood as impossible. Remarkably, Paul, through the power of God, healed him. Prior to this, the man had never walked, but in front of onlookers, he suddenly leapt up and walked without hesitation. This miraculous healing demonstrated the truth of Paul's message and showcased the power of God at work.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.4945558448793665,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.04,
+            "commentatorTierSimilarities": [
+                33.08,
+                33.19,
+                33.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Lystra, there sat a man who was impotent in his feet from birth, hearing Paul speak to a crowd. Impotent, as used here, implies impossibility. Paul, through the power of God, performed a remarkable miracle, healing this man who had never walked before. Swiftly, before the eyes of all, the man leapt up and walked, showing God's mighty power and validating Paul's message. This healing highlighted the incurable nature of the man's condition, making the subsequent miracle even more significant.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.5275845882555306,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+            "commentatorTierSimilarities": [
+                32.1,
+                31.23,
+                36.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Lystra, a man who was impotent in his feet from birth sat and listened to Paul speak to a crowd. This man's condition of being impotent was almost universally understood as impossible. However, Paul, through the power of God, performed a remarkable miracle and healed him. It is noteworthy that this man had never walked before, and yet, he suddenly leapt up without making any stop, demonstrating the immediate and transformative healing power of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.5763050209623382,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+            "commentatorTierSimilarities": [
+                32.68,
+                32.68,
+                34.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Lystra, there sat a certain man who was impotent in his feet from birth. The word impotent here implies impossibility, a condition that the man had never been able to overcome. When Paul spoke to the crowd, this man heard his words and witnessed an extraordinary miracle. Through the power of God, the man was suddenly healed, causing his previously motionless legs to become nimble. This miraculous healing, before the eyes of all, served as a powerful testament to the truth of Paul's message and the undeniable power of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5924304985721172,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.29,
+            "commentatorTierSimilarities": [
+                32.38,
+                32.79,
+                34.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

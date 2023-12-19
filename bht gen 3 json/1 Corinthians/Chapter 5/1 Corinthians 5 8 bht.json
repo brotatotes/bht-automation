@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:04:00",
+    "verseRef": "1 Corinthians 5:8",
+    "bestBHT": {
+        "bht": "Let us keep the feast, a perpetual feast, and keep the leaven out. With sincerity and truth, let us engage in the service of God, putting away all evil. Just as the Israelites celebrated the Passover with unleavened bread, we should celebrate our Christian life as a lifelong Paschal celebration of our 'eternal redemption' by the death of Jesus. We must bring sincerity and truth to the feast, renouncing malice and wickedness, partaking in the rich feast of the flesh and blood of Christ.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.2462584898576017,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.03,
+        "commentatorTierSimilarities": [
+            33.89,
+            32.48,
+            33.63
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The opposite of 'sincerity,' which allows no leaven of evil to be mixed up with good.",
+            "The opposite of 'truth,' which allows not evil to be mistaken for good.",
+            "The Greek for 'sincerity' expresses literally, a thing which, when examined by the sun's light, is found pure and unadulterated."
+        ],
+        "Albert Barnes": [
+            "Let us engage in the service of God putting away by all evil.",
+            "The word 'malice' denotes evil in general.",
+            "Let us be sincere, and true, and faithful."
+        ],
+        "Marvin Vincent": [
+            "Sincerity takes care not to admit evil with the good.\" ",
+            "Truth, not to admit evil instead of good.\" ",
+            "Let us keep the feast."
+        ],
+        "John Calvin": [
+            "If, therefore, we would wish to feed on Christ\u2019s flesh and blood, let us bring to this feast sincerity and truth... Away with all malice and wickedness, for it is unlawful to mix up leaven with the passover.\" ",
+            "He declares that we shall be members of Christ only when we shall have renounced malice and deceit.\" ",
+            "Paul does not teach that Christ is offered daily, but that the sacrifice having been offered up once for all, it remains that the spiritual feast be celebrated during our whole life."
+        ],
+        "Philip Schaff": [
+            "Let us keep the feast 'keep festival' as the word signifies. As the Passover meal was designed to strengthen the Israelites for their wilderness journey, so is this for ours heavenward.",
+            "But just as theirs had to be celebrated with unleavened bread, so must ours be free from corrupt admixtures.",
+            "What a sublime idea does this give of the Christian life, as a lifelong Paschal celebration of our 'eternal redemption' by the sacrificial death of the Lord Jesus!"
+        ],
+        "Archibald T. Robertson": [
+            "Let us keep on keeping the feast, a perpetual feast, and keep the leaven out.",
+            "With the leaven of malice and wickedness.",
+            "With the unleavened bread of sincerity and truth."
+        ],
+        "John Gill": [
+            "But rather the feast of the Lord's supper is here meant, that feast of fat things Isaiah prophesied of; in which are the richest entertainments, even the flesh and blood of Christ.\" ",
+            "He that is of a merry heart, as the believer of all men in the world has reason to be of, 'hath a continual feast' of spiritual mirth and pleasure, rejoicing always in Christ, as he ought to do.\" ",
+            "Which feast, or course of life, is to be kept 'not with old leaven'; in the old, vain, sinful manner of conversation, as before."
+        ],
+        "John Wesley": [
+            "Let us feed on him by faith.",
+            "Here is a plain allusion to the Lord's supper.",
+            "Sincerity and truth seem to be put here for the whole of true, inward religion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us keep the feast, a perpetual feast, and keep the leaven out. With sincerity and truth, let us engage in the service of God, putting away all evil. Just as the Israelites celebrated the Passover with unleavened bread, our Christian life should be a lifelong Paschal celebration of our 'eternal redemption' by the death of Jesus. We must bring sincerity and truth to the feast, renouncing malice and deceit. For this feast, the feast of the Lord's Supper, is where we partake in the richest entertainments, even the flesh and blood of Christ. Let us feed on him by faith and rejoice always in Christ, as we ought to do, keeping this feast not with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.",
+            "wordCount": 132,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2293322687370702,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.47,
+            "commentatorTierSimilarities": [
+                33.57,
+                30.45,
+                35.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us keep the feast, a perpetual feast, and keep the leaven out. With sincerity and truth, let us engage in the service of God, putting away all evil. Just as the Israelites celebrated the Passover with unleavened bread, our Christian life should be a lifelong Paschal celebration of our 'eternal redemption' by the death of Jesus. We must bring sincerity and truth to the feast, renouncing malice and deceit, for the feast of the Lord's Supper is where we partake in the richest entertainments, even the flesh and blood of Christ.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.213824390127961,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.95,
+            "commentatorTierSimilarities": [
+                32.87,
+                32.59,
+                34.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us keep the feast, a perpetual feast, and keep the leaven out. With sincerity and truth, let us engage in the service of God, putting away all evil. Just as the Israelites celebrated the Passover with unleavened bread, our Christian life should be a lifelong Paschal celebration of our 'eternal redemption' by the death of Jesus. We must bring sincerity and truth to the feast, renouncing malice and wickedness, and partake in the richest entertainments, even the flesh and blood of Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.2159803215381313,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.02,
+            "commentatorTierSimilarities": [
+                33.96,
+                32.46,
+                33.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us keep the feast, a perpetual feast, and keep the leaven out. With sincerity and truth, let us engage in the service of God, putting away all evil. Just as the Israelites celebrated the Passover with unleavened bread, we should celebrate our Christian life as a lifelong Paschal celebration of our 'eternal redemption' by the death of Jesus. We must bring sincerity and truth to the feast, renouncing malice and wickedness, while partaking in the richest entertainments of the flesh and blood of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.235253788533865,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.66,
+            "commentatorTierSimilarities": [
+                33.97,
+                32.36,
+                33.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us keep the feast, a perpetual feast, and keep the leaven out. With sincerity and truth, let us engage in the service of God, putting away all evil. Just as the Israelites celebrated the Passover with unleavened bread, we should celebrate our Christian life as a lifelong Paschal celebration of our 'eternal redemption' by the death of Jesus. We must bring sincerity and truth to the feast, renouncing malice and wickedness, partaking in the rich feast of the flesh and blood of Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2462584898576017,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.03,
+            "commentatorTierSimilarities": [
+                33.89,
+                32.48,
+                33.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

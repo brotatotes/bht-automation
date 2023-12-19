@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 14:01:08",
+    "verseRef": "1 Thessalonians 5:17",
+    "bestBHT": {
+        "bht": "We are called to pray without ceasing, in direct supplication to God, maintaining a constant spirit of prayer that fills our hearts and communes with Him. This means praying without intermission, without allowing prayerless gaps to interrupt our times of prayer. We must be diligent in our prayers, not neglecting them or ceasing from them due to sin, discouragement, or carelessness. The reason for this constant and frequent prayer is because believers are always in need, constantly seeking God's mercy and grace to help them in their daily lives.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.293440337536554,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.6,
+        "commentatorTierSimilarities": [
+            21.4,
+            39.67,
+            38.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "pray, not of the mere spirit of prayer...but...of direct supplications to God.\" ",
+            "These may be unceasing, in the heart which is full of his presence and evermore communing with Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17. The Greek is, \"Pray",
+            "\twithout intermission\"; without allowing prayerless gaps",
+            "\tto intervene between the times of prayer."
+        ],
+        "Albert Barnes": [
+            "We are to observe the duty of prayer in the closet, in the family, and in the assembly convened to call on the name of the Lord.\" ",
+            "We are to maintain an uninterrupted and constant spirit of prayer.",
+            "That Christian is in a bad state of mind who has suffered himself... to be brought into such a condition that he cannot engage in prayer with proper feelings."
+        ],
+        "Marvin Vincent": [
+            "Without ceasing [\u03b1\u03b4\u03b9\u03b1\u03bb\u03b5\u03b9\u03c0\u03c4\u03c9\u03c2] . Comp. Romans 9:0; Romans 12:12; Ephesians 6:18; Colossians 4:2."
+        ],
+        "Philip Schaff": [
+            "Pray without ceasing. We obey this precept when our prayers are not fitful and intermittent, but steady and persistent.",
+            "We should, as Barrow says, 'with assiduous urgency drive on the intent of our prayers, never quitting it, or desisting, till our requests are granted, or our desires are accomplished.'",
+            "In thy prayers wait for God, and think not every hearty prayer can procure everything thou askest. . . . A little omission of any usual exercise of piety cannot happen to thee without some loss and detriment, even though it be upon a considerable cause."
+        ],
+        "John Gill": [
+            "Pray without ceasing. Not that saints should be always on their knees...but the meaning is, that believers should be daily, and often found in the performance of this duty.\" ",
+            "do not leave off praying, or cease from it through the prevalence of sin, the temptations of Satan, or through discouragement, because an answer is not immediately had, or through carelessness and negligence, but continue in it, and be often at it.\" ",
+            "the reason for this rule of praying with frequency and constancy is, because the saints are always needy, they are always in want of mercies of one kind or another, and therefore should continually go to the throne of grace, and there ask for grace and mercy to help them in time of need."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are called to pray without ceasing, not just in the sense of a general spirit of prayer, but in constant and direct supplication to God. This means that our prayers should be unceasing, filling our hearts with His presence and constantly communing with Him. We should not allow prayerless gaps to interrupt our times of prayer. We fulfill this duty by praying in the closet, the family, and in the assembly with other believers. Prayer should be uninterrupted and constant, and we should not let ourselves fall into a state where we cannot engage in prayer with proper feelings. We must persistently and assiduously pursue the intent of our prayers, continuing until our requests are granted or our desires are accomplished. Our prayers should be fervent and unceasing because as believers, we are always in need of God's mercy and grace.",
+            "wordCount": 143,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.1318903434435432,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.23,
+            "commentatorTierSimilarities": [
+                22.06,
+                44.08,
+                33.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are called to pray without ceasing, in direct supplication to God, maintaining a constant spirit of prayer that fills our hearts and communes with Him. This means praying without intermission, without allowing prayerless gaps to interrupt our times of prayer. We must be diligent in our prayers, not neglecting them or ceasing from them due to sin, discouragement, or carelessness. The reason for this constant and frequent prayer is because believers are always in need, constantly seeking God's mercy and grace to help them in their daily lives.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.293440337536554,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.6,
+            "commentatorTierSimilarities": [
+                21.4,
+                39.67,
+                38.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We should pray without ceasing, constantly and persistently seeking God's presence in direct supplication. Our prayers should not be intermittent or fitful, but steady and persistent. This duty extends to our personal prayer times, family prayers, and prayer gatherings with fellow believers. It is important to maintain an uninterrupted and constant spirit of prayer, not allowing ourselves to be in a state where we cannot engage in prayer with the right attitude. Through prayer, we continuously express our dependence on God, seeking His grace and mercy in all aspects of our lives.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.208165862528768,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.76,
+            "commentatorTierSimilarities": [
+                20.8,
+                44.13,
+                35.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Praying without ceasing means having a constant and direct communication with God, not allowing prayerless gaps to interrupt our supplications. We should maintain an unceasing spirit of prayer, filling our hearts with His presence and continually seeking Him. This duty encompasses our personal prayer time, family prayers, and congregational worship. It is essential to persistently and fervently pursue our prayers, not neglecting or ceasing them due to sin, discouragement, or lack of immediate answers. Our continuous and frequent prayers reflect our constant need for God's grace and mercy in our lives.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 2.2265449046978194,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.37,
+            "commentatorTierSimilarities": [
+                21.78,
+                41.5,
+                36.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Praying without ceasing involves a constant and direct communication with God, not allowing gaps of prayerlessness to interrupt our supplications. We are to maintain an unceasing spirit of prayer, consistently seeking His presence and communing with Him. This encompasses personal, family, and congregational prayers, demonstrating an uninterrupted and steadfast devotion to prayer. Our continuous and persistent prayers are a reflection of our constant need for God's mercy and grace in our lives, as we seek His assistance and guidance in every situation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.191627496481723,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.21,
+            "commentatorTierSimilarities": [
+                22.69,
+                43.02,
+                34.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

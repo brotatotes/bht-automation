@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 13:56:27",
+    "verseRef": "Philippians 4:13",
+    "bestBHT": {
+        "bht": "I can do all things through my living union with Christ, who infuses strength into me. It is not in my own power or resolutions, but through the power I receive from the Redeemer. Christ pours power into me continually, enabling me to bear trials, perform duties, and overcome weaknesses. As a Christian, I am privileged to rely on Christ's unchanging and most mighty assistance in the trials of life.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1042372060273618,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+        "commentatorTierSimilarities": [
+            30.94,
+            34.86,
+            34.2
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "\u2018After these special notices, he declares his universal power,\u2014how triumphantly, yet how humbly?\".",
+            "I can do all things (not \u2018all these things:\u2019 \u2018the Apostle rises above mere relations of prosperous and adverse circumstance, to the general\u2019) in (in union with,\u2014by means of my spiritual life, which is not mine, but Christ living in me\".",
+            "him who strengtheneth me (i. e. Christ, as the gloss rightly supplies: compare 1 Tim. i. 12)\"."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I have strength for all things",
+            "In Him who giveth me power",
+            "my living union and identification with Him, who is my strength"
+        ],
+        "Albert Barnes": [
+            "From the experience which Paul had in these various circumstances of life, he comes here to the general conclusion that he could 'do all things.' He could bear any trial, perform any duty, subdue any evil propensity of his nature, and meet all the temptations incident to any condition of prosperity or adversity.",
+            "It was not in any native ability which he had; not in any vigor of body or of mind; not in any power which there was in his own resolutions; it was in the strength that he derived from the Redeemer.",
+            "At every step of life, Christ is able to strengthen us, and can bring us triumphantly through. What a privilege it is, therefore, to be a Christian - to feel, in the trials of life, that we have one friend, unchanging and most mighty, who can always help us!"
+        ],
+        "Marvin Vincent": [
+            "I can do [\u03b9\u03c3\u03c7\u03c5\u03c9] . See on Luke 14:30. ",
+            "Strengtheneth [\u03b5\u03bd\u03b4\u03c5\u03bd\u03b1\u03bc\u03bf\u03c5\u03bd\u03c4\u03b9] . More literally, infuses strength into me, as the old verb inforce."
+        ],
+        "John Calvin": [
+            "I can do all things, but it is in Christ, not by my own power, for it is Christ that supplies me with strength.",
+            "Hence we infer, that Christ will not be less strong and invincible in us also, if, conscious of our own weakness, we place reliance upon his power alone.",
+            "When he says all things, he means merely those things which belong to his calling."
+        ],
+        "Philip Schaff": [
+            "I can do all things in him that strengtheneth me.",
+            "St. Paul has no glory but in Christ.",
+            "'I can do all things' is a proud declaration, but it is followed at once with the confession of the source whence the power is drawn."
+        ],
+        "Archibald T. Robertson": [
+            "I can do all things.\" ",
+            "Causative verb to empower, to pour power into one.",
+            "Paul has such strength so long as Jesus keeps on putting power into him."
+        ],
+        "John Gill": [
+            "The sense is, that he could be content in every state, and could know how to behave himself in adversity and prosperity, amidst both poverty and plenty.",
+            "Yea, it may be extended to all the duties incumbent on him both as a Christian and as an apostle.",
+            "Strength to perform duty and to bear sufferings is in Christ, and which he communicates to his people; he strengthens them with strength in their souls, internally, as the word here used signifies; by virtue of which they can do whatever he enjoins them or calls them to, though without him they can do nothing."
+        ],
+        "John Wesley": [
+            "I can do all things \u2014 Even fulfil all the will of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Philippians 4:13, the apostle Paul declares his universal power, affirming that he can do all things through his living union and identification with Christ, who strengthens him. It is not in Paul's own native ability or resolutions, but in the power that he derives from the Redeemer. This strength enables him to bear any trial, perform any duty, and subdue any evil propensity of his nature. Christ is the source of Paul's strength, pouring power into him continually. As Christians, we also have the privilege of relying on Christ's strength, knowing that he can bring us triumphantly through any circumstance of life.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 2.2031481447596297,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+            "commentatorTierSimilarities": [
+                27.17,
+                38.23,
+                34.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I can do all things through my living union and identification with Christ, who strengthens me. It is not my own ability or resolutions, but the power I receive from the Redeemer that enables me to bear trials, perform duties, and overcome my weaknesses. Christ infuses strength into me continually, empowering me to fulfill God's will. As a Christian, I have the privilege of relying on Christ's unwavering and mighty help in the trials of life.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.125898325228838,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.03,
+            "commentatorTierSimilarities": [
+                29.7,
+                33.72,
+                36.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I can do all things through my living union and identification with Christ, who infuses strength into me continually. This strength enables me to bear any trial, perform any duty, and subdue any evil propensity of my nature. By relying on Christ's power alone, I can overcome my own weaknesses and fulfill God's will. It is a privilege to be a Christian and know that we have an unchanging and mighty friend who can always help us in the trials of life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 2.073057307231672,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                28.75,
+                34.9,
+                36.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I can do all things through my living union and identification with Christ, who strengthens me. It is not in my own ability or resolutions, but in the power that comes from the Redeemer. Christ infuses strength into me continually, empowering me to bear trials, perform duties, and overcome weaknesses. As a Christian, it is a privilege to rely on Christ's unwavering and mighty help in the trials of life.",
+            "wordCount": 71,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.063221942759353,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.94,
+            "commentatorTierSimilarities": [
+                29.56,
+                35.49,
+                34.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I can do all things through my living union with Christ, who infuses strength into me. It is not in my own power or resolutions, but through the power I receive from the Redeemer. Christ pours power into me continually, enabling me to bear trials, perform duties, and overcome weaknesses. As a Christian, I am privileged to rely on Christ's unchanging and most mighty assistance in the trials of life.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1042372060273618,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                30.94,
+                34.86,
+                34.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

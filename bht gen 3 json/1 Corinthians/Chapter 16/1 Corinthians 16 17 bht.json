@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:14:41",
+    "verseRef": "1 Corinthians 16:17",
+    "bestBHT": {
+        "bht": "The Corinthians informed Paul of their defects, which seemed unlikely given their distinguished status. Stephanas, Fortunatus, and Achaicus, who brought Paul the report, not only refreshed his spirit but also supplied the means of communication between him and the Corinthians. Their arrival filled in the lacking part, whether it was the absence of Paul or the Corinthians, bringing great joy to his heart.",
+        "wordCount": 63,
+        "quoteTokenProportion": 44.68,
+        "qualityScore": 1.8150886869447778,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+        "commentatorTierSimilarities": [
+            24.05,
+            31.73,
+            44.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What all ought to have done, they have done, viz. have given me information about your defects.",
+            "But it is very improbable that he should mention thus a family so distinguished as this.",
+            "And still more improbable that one of so fine feeling should add of the bearers of such tidings, they refreshed my spirit and your\u2019s."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They have supplied\" - They have supplied the means of intercourse between you and me, refreshing my spirit.",
+            "They seem to have carried this letter back\" - They seem to have carried this letter back.",
+            "Hence the exhortations, as though they would be at Corinth when the Epistle arrived\" - Hence the exhortations, as though they would be at Corinth when the Epistle arrived."
+        ],
+        "Albert Barnes": [
+            "I am glad that they have come to me at Ephesus.",
+            "Probably he...had been selected to carry the letter of the Corinthians to Paul.",
+            "It might be a neglect to provide for his needs, or a defect of informing him about their affairs in the letter which they had sent him."
+        ],
+        "Marvin Vincent": [
+            "That which was lacking on your part...The Greek will bear either rendering.\" ",
+            "The latter is preferable.\" ",
+            "Edwards, somewhat naively says: 'I do not see what could be lacking on the part of the Corinthians.'"
+        ],
+        "Philip Schaff": [
+            "And I rejoice at the coming of Stephanas the same...\" ",
+            "...what was lacking on your part they supplied that is, 'the lack of your own presence has been supplied by theirs as your deputies.'",
+            "Bengel conjectures that this Fortunatus was a son of the above, and Stanley thinks him probably a stave who had received his master\u2019s name; but (as Osiander pertinently asks) why not himself?"
+        ],
+        "Archibald T. Robertson": [
+            "At the coming here of Stephanas, etc., the very word used of the \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03b1 of Christ.\" ",
+            "That which was lacking on your part they supplied.\"  ",
+            "Either 'these filled up my lack of you' or 'these filled up your lack of me.' Either makes perfectly good sense and both were true."
+        ],
+        "John Gill": [
+            "I am glad of the coming of Stephanas, and Fortunatus, and Achaicus...they were believers in Christ, if not ministers of the Gospel, which seems very probable.",
+            "For that which was lacking on your part they have supplied...these brethren greatly supplied that defect, by giving him a very particular account of their church affairs.",
+            "either of their presence which supplied the want of theirs, the apostle had been for some time greatly desirous of."
+        ],
+        "John Wesley": [
+            "I rejoice at the coming of Stephanas, and Fortunatus, and Achaiacus \u2014 Who were now returned to Corinth but the joy which their arrival had occasioned remained still in his heart.",
+            "They have supplied what was wanting on your part \u2014 They have performed the offices of love, which you could not, by reason of your absence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians had informed Paul of their deficiencies, which he found quite improbable considering their notable standing. More remarkably, these messengers, Stephanas, Fortunatus, and Achaicus, not only brought him the information but also refreshed his spirit and the Corinthians'. They bridged the gap by being the means of communication between Paul and the church, as if they would be physically present when the letter arrived. They filled in the lacking part, whether it was Paul's absence or theirs, and their arrival brought great joy to Paul's heart.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.6837439748585643,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.33,
+            "commentatorTierSimilarities": [
+                24.68,
+                29.78,
+                45.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians informed Paul of their defects, which seemed unlikely given their distinguished status. Stephanas, Fortunatus, and Achaicus, who brought Paul the report, not only refreshed his spirit but also supplied the means of communication between him and the Corinthians. Their arrival filled in the lacking part, whether it was the absence of Paul or the Corinthians, bringing great joy to his heart.",
+            "wordCount": 63,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.8150886869447778,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                24.05,
+                31.73,
+                44.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephanas, Fortunatus, and Achaicus were instrumental in supplying Paul with the information about the Corinthians' defects, something they all ought to have done. This act was unexpected, considering the Corinthians' prominent status. These messengers not only refreshed Paul's spirit but also bridged the gap, serving as the means of communication between him and the church. Their arrival fulfilled what was lacking, bringing joy and satisfaction to Paul's heart.",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6185948958748422,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                24.77,
+                29.63,
+                45.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephanas, Fortunatus, and Achaicus played a significant role in providing Paul with the information about the Corinthians' defects, fulfilling what was lacking. It was unexpected for the Corinthians, with their distinguished status, to relay such news. These messengers not only refreshed Paul's spirit but also served as the means of communication between him and the church, bridging the gap. Their arrival brought joy to Paul's heart, as they supplied what was missing in their absence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.6871537419025446,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+            "commentatorTierSimilarities": [
+                23.58,
+                29.6,
+                46.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stephanas, Fortunatus, and Achaicus fulfilled their duty by informing Paul about the defects of the Corinthians, which seemed improbable given their prominent status. These messengers went beyond mere communication, refreshing both Paul's spirit and the Corinthians'. By supplying the means of intercourse between Paul and the church, they filled the lacking part, whether it was the absence of Paul or the Corinthians. Their arrival brought great joy to Paul's heart, as they served as deputies in their absence.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.7518549069458127,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+            "commentatorTierSimilarities": [
+                23.8,
+                30.56,
+                45.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

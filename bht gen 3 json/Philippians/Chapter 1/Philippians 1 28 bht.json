@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:53:36",
+    "verseRef": "Philippians 1:28",
+    "bestBHT": {
+        "bht": "Do not be alarmed or terrified by the opposition you face as believers. Their attempts to scare and intimidate you are insignificant, for it is an evident token of your salvation from God Himself. The adversaries who oppose the faith will ultimately meet their own perdition, while your steadfastness and hopefulness in the face of trials display your resolute commitment to Christ. Trust in God's deliverance and do not be swayed by the opinions of those who seek to undermine your faith.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.0159358160736516,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+        "commentatorTierSimilarities": [
+            26.7,
+            37.98,
+            35.32
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The adversaries, from the comparison which follows with his own conflict, and the suffering in Christ's behalf spoken of in the next verse, must be the adversaries of the faith.\" ",
+            "An evidence of perdition, because it will shew that all their arts are of no avail against your union and firmness and hopefulness.",
+            "But (is a sign) of your salvation (spiritual again: not merely, rescue and safety from them), and this (viz. the being a sign, to them of perdition, to you of your salvation: the sign is one from God) from God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "terrified\u2014literally, said",
+            "\tof horses or other animals startled or suddenly scared; so of sudden",
+            "\tconsternation in general."
+        ],
+        "Albert Barnes": [
+            "Do not be alarmed at anything which they can do. Maintain your Christian integrity, notwithstanding all the opposition which they can make. They will, in the end, certainly be destroyed, and you will be saved.",
+            "Persecution of the church would be a certain indication that they who did it would be finally destroyed.",
+            "The hostility of the wicked to us is one evidence that we are the friends of God, and shall be saved."
+        ],
+        "Marvin Vincent": [
+            "Terrified [\u03c0\u03c4\u03c5\u03c1\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . Only here in the New Testament. Properly of the terror of a startled horse.",
+            "An evident token [\u03b5\u03bd\u03b4\u03b5\u03b9\u03be\u03b9\u03c2] . Only here... A demonstration or proof.",
+            "The great Director of the contest Himself has given him a sure token of deliverance."
+        ],
+        "John Calvin": [
+            "For persecutions are in a manner seals of adoption to the children of God, if they endure them with fortitude and patience: the wicked give a token of their condemnation, because they stumble against a stone by which they shall be bruised to pieces.",
+            "Hence even the sufferings themselves are evidences of the grace of God; and, since it is so, you have from this source a token of salvation.",
+            "Oh, if this persuasion were effectually inwrought in our minds \u2014 that persecutions are to be reckoned among God\u2019s benefits, what progress would be made in the doctrine of piety!"
+        ],
+        "Philip Schaff": [
+            "and in nothing terrified by your adversaries. We are not definitely told who these adversaries were, but as in Philippians 3:2 the apostle gives strong warnings against the Judaizers, and these are the only persons against whom he does speak, we seem justified in concluding that they are the persons here meant.",
+            "The freedom from all alarm on the part of the brethren would be a token or omen of the result for both parties.",
+            "For from Him only can come the boldness which can render you nothing affrighted. So take your sense of courage as God\u2019s witness within you that you shall be saved."
+        ],
+        "Archibald T. Robertson": [
+            "Not startled in anything.",
+            "Any preacher who attacks evil will have opposition.",
+            "The Christian gladiator does not anxiously await the signal of life or death from the fickle crowd."
+        ],
+        "John Gill": [
+            "Not by Satan, though a roaring lion, for Christ is greater than he; nor by the world which Christ has overcome; nor by false teachers, though men of art and cunning; nor by violent persecutors, who can do no more than kill, the body; let not the power, the rage, the cunning, or the violence of one or the other, move, discourage, or affright from a close attachment to the Gospel and the truths of it.",
+            "When men wilfully oppose themselves to the truth, and show a malicious hatred to it, and hold it in unrighteousness, and either turn the grace of God into lasciviousness, or persecute it with rage and fury, it looks as if they were given up to reprobate minds, to say and do things not convenient.",
+            "When men are reproached and ridiculed, are threatened and persecuted for the sake of the Gospel, and are enabled to take all patiently, and persevere in the truth with constancy, it is a manifest token that such are counted worthy of the kingdom of God; that God has a design of salvation for them, and that they shall be saved with an everlasting one."
+        ],
+        "John Wesley": [
+            "Which \u2014 Namely, their being adversaries to the word of God, and to you the messengers of God.",
+            "Is an evident token \u2014 That they are in the high road to perdition.",
+            "And you, in the way of salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not be afraid or disturbed by the opposition and persecution you face as followers of Christ. Your unity, faith, and firmness in the face of adversity are a clear sign that your enemies will be brought to destruction, while you will be saved by God. This opposition may startle and terrify like a startled horse, but it serves as undeniable proof of the truth of your faith. Remember, these adversaries are the enemies of your faith and will not prevail against you. As Christian gladiators, you do not anxiously await their verdict, but confidently trust in God's deliverance.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.9843622038853468,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                26.29,
+                39.1,
+                34.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not be terrified or alarmed by the opposition of those who challenge your faith. Their hostility ultimately signals their own destruction, while your unwavering dedication to Christ promises salvation. The adversaries may startle you with their attacks, but this is a clear indication of the truth of your faith. Take courage, for this opposition is a sign that you are on the right path and that God will deliver you. Trust in His strength and do not fear the fickle crowd or the tactics of the wicked.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.9783916336307716,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                27.02,
+                39.26,
+                33.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not be alarmed by the opposition you face as followers of Christ. Your firmness and hopefulness in the midst of conflict serve as evidence of your salvation and God's faithfulness. Although the adversaries may try to terrify you, their attacks are proof that they are destined for perdition. Stand strong in your faith, knowing that God is with you and will deliver you from any situation. The opposition you encounter is a testament to your allegiance to Christ and His kingdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.8417977439475468,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                24.1,
+                38.48,
+                37.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not be terrified or alarmed by the opposition you face as believers. Their attacks are evidence of their impending destruction, while your unwavering faith is a sign of your salvation. Although the adversaries may try to startle and intimidate you, their efforts are futile. Take courage in the knowledge that God Himself has given you a clear token of deliverance. Stand strong and do not be swayed by the fickle opinions of others, for your loyalty to Christ will prevail.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.866774021201481,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.41,
+            "commentatorTierSimilarities": [
+                28.4,
+                37.69,
+                33.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not be alarmed or terrified by the opposition you face as believers. Their attempts to scare and intimidate you are insignificant, for it is an evident token of your salvation from God Himself. The adversaries who oppose the faith will ultimately meet their own perdition, while your steadfastness and hopefulness in the face of trials display your resolute commitment to Christ. Trust in God's deliverance and do not be swayed by the opinions of those who seek to undermine your faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.0159358160736516,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                26.7,
+                37.98,
+                35.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

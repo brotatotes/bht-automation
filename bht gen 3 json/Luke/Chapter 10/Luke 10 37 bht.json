@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:18:09",
+    "verseRef": "Luke 10:37",
+    "bestBHT": {
+        "bht": "All acts of charity and mercy done on earth are but fragments and derivatives of the great act of mercy Jesus came to perform. The parable calls us to see not just the present group, but also Jesus and His act of mercy behind it. It challenges us to bring spiritual interpretation to disrepute, open up new fountains of charity, and establish noble Christian institutions. The Good Samaritan has the power to remove prejudice, hatred, and class jealousy. Let us go and do likewise, treating every person as our neighbor in need, regardless of nationality or religion.",
+        "wordCount": 97,
+        "quoteTokenProportion": 37.14,
+        "qualityScore": 1.9854930636495878,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+        "commentatorTierSimilarities": [
+            31.41,
+            35.98,
+            32.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All acts of charity and mercy done here below, are but fragments and derivatives of that one great act of mercy which the Saviour came on earth to perform.",
+            "We should see in it not only the present and prominent group, but also Himself and His act of mercy behind.",
+            "To bring the sound spiritual interpretation into disrepute, and throw stumbling-blocks in the way of many, who might otherwise arrive at it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What new fountains of charity has not this opened up in the human spirit\u2014rivers in the wilderness, streams in the desert!\" ",
+            "What noble Christian institutions have not such words founded, all undreamed of till that wondrous One came to bless this heartless world of ours with His incomparable love\u2014first in words, and then in deeds which have translated His words into flesh and blood, and poured the life of them through that humanity which He made His own!\" ",
+            "The priests and Levites had not strengthened the diseased, nor bound up the broken, while He bound up the brokenhearted, and poured into all wounded spirits the balm of sweetest consolation."
+        ],
+        "Albert Barnes": [
+            "He that showed mercy - His 'Jewish' prejudice would not permit him 'to name' the Samaritan, but there was no impropriety, even in his view, in saying that the man who showed so much mercy was really the neighbor to the afflicted, and not he who 'professed' to be his neighbor, but who would 'do nothing' for his welfare.",
+            "Show the same kindness to 'all' - to friend and foe - and 'then' you will have evidence that you keep the law, and not 'till' then.",
+            "True religion teaches us to regard every man as our neighbor; prompts us to do good to all, to forget all national or sectional distinctions, and to aid all those who are in circumstances of poverty and want."
+        ],
+        "Marvin Vincent": [
+            "He that shewed mercy on him. Rather with him: dealt with him as with a brother.\" ",
+            "The lawyer avoids the hated word Samaritan.\" ",
+            "THE VISIT AT THE HOUSE IN BETHANY, 38 - 42. Peculiar to Luke."
+        ],
+        "Philip Schaff": [
+            "The lawyer was taught how one really becomes the neighbor of another, namely, by active love, irrespective of nationality or religion.",
+            "The main lesson of the parable is one of philanthropy manifesting itself in humane, self-sacrificing acts, to all in need, irrespective of all other human distinctions.",
+            "The love of Christ is both the type and the source of this love to our neighbor."
+        ],
+        "Archibald T. Robertson": [
+            "The lawyer saw the point and gave the correct answer, but he gulped at the word 'Samaritan' and refused to say that.",
+            "Would this Jewish lawyer act the neighbour to a Samaritan?",
+            "This parable of the Good Samaritan has built the world's hospitals and, if understood and practised, will remove race prejudice, national hatred and war, class jealousy."
+        ],
+        "John Gill": [
+            "He that showed mercy to him... go and do thou likewise.\" (Luke 10:37) ",
+            "Such like acts of beneficence and kindness, though to a person of a different nation and religion, and though even an enemy.\" ",
+            "By so doing, thou wilt not only appear to be a good neighbour thyself, but to love thy neighbour as thyself."
+        ],
+        "John Wesley": [
+            "He could not for shame say otherwise, though he thereby condemned himself and overthrew his own false notion of the neighbour to whom our love is due.",
+            "Let us go and do likewise, regarding every man as our neighbour who needs our assistance.",
+            "Let us renounce that bigotry and party zeal which would contract our hearts into an insensibility for all the human race, but a small number whose sentiments and practices are so much our own, that our love to them is but self love reflected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Acts of charity and mercy done on earth are reflections of the great act of mercy that Jesus performed. In this parable, we are called to not only see the present group, but also Jesus and His act of mercy behind it. The story challenges us to bring spiritual interpretation to disrepute and open up new fountains of charity in our hearts. The Good Samaritan has sparked the creation of noble Christian institutions and has the power to remove prejudice and hatred. Let us go and do likewise, treating every person, regardless of nationality or religion, as our neighbor in need of our assistance.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.988787320860172,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                31.7,
+                35.91,
+                32.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Acts of charity and mercy are fragments of the great act of mercy Jesus performed on earth. The parable challenges us to bring spiritual interpretation to disrepute and open up fountains of charity within us. The Good Samaritan has inspired noble Christian institutions and can remove prejudice and hatred. Let us go and do likewise, treating every person as our neighbor in need of assistance, regardless of nationality or religion.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9782772205002974,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                31.18,
+                35.8,
+                33.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The acts of charity and mercy we do are reflections of the great act of mercy Jesus came to perform. In the parable, we are called to recognize Jesus and His act of mercy behind the present group. The story challenges us to open up new fountains of charity and establish noble Christian institutions. The Good Samaritan can remove prejudice, hatred, and class jealousy. Let us go and do likewise, treating every person as our neighbor in need, regardless of nationality or religion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.9202208363828046,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.19,
+            "commentatorTierSimilarities": [
+                31.23,
+                36.32,
+                32.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Acts of charity and mercy on earth are fragments of the great act of mercy Jesus performed. The parable challenges us to bring spiritual interpretation to disrepute and open fountains of charity within us. The Good Samaritan inspired noble Christian institutions and can remove prejudice and hatred. Let us go and do likewise, treating every person as our neighbor in need, regardless of nationality or religion.",
+            "wordCount": 66,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.9845481227444735,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+            "commentatorTierSimilarities": [
+                30.96,
+                36.04,
+                33.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All acts of charity and mercy done on earth are but fragments and derivatives of the great act of mercy Jesus came to perform. The parable calls us to see not just the present group, but also Jesus and His act of mercy behind it. It challenges us to bring spiritual interpretation to disrepute, open up new fountains of charity, and establish noble Christian institutions. The Good Samaritan has the power to remove prejudice, hatred, and class jealousy. Let us go and do likewise, treating every person as our neighbor in need, regardless of nationality or religion.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.9854930636495878,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                31.41,
+                35.98,
+                32.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

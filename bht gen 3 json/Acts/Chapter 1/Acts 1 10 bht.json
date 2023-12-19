@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:24:39",
+    "verseRef": "Acts 1:10",
+    "bestBHT": {
+        "bht": "Following Jesus with their eager eyes, the disciples looked steadfastly as He ascended to Heaven, with the cloud remaining visible. This irresistible evidence shaped their subsequent testimony. Two angels stood by them, dressed in white garments, signifying their rare and excellent dignity. Astonished and confounded, the disciples gazed intently towards heaven, witnessing Jesus slipping away from their sight. This impressive and solemn scene marked the beginning of their mission, as they received a clear token from God through these angelic messengers.",
+        "wordCount": 81,
+        "quoteTokenProportion": 29.23,
+        "qualityScore": 1.7807499503455437,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+        "commentatorTierSimilarities": [
+            26.61,
+            33.78,
+            39.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "implying that the cloud remained visible for some time, probably ascending with Him.",
+            "These were evidently angels.",
+            "See Luke xxiv. 4: John xx. 12."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "following Him with their eager eyes, in rapt amazement",
+            "that resistless evidence of their senses on which their whole subsequent testimony was to be borne",
+            "angels in human form"
+        ],
+        "Albert Barnes": [
+            "They fixed their eyes, or gazed intently toward heaven. [...] It denotes the intense gaze when we are deeply interested, and wish to see clearly and distinctly.",
+            "They were amazed and confounded; what had occurred was unlocked for; for they had just been inquiring whether he would not, at that time, restore the kingdom to Israel.",
+            "Never was a scene more impressive, grand, and solemn than this."
+        ],
+        "Marvin Vincent": [
+            "Looked steadfastly [\u03b1\u03c4\u03b5\u03bd\u03b9\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2 \u03b7\u03c3\u03b1\u03bd] . See on Luke 4:20."
+        ],
+        "John Calvin": [
+            "Two men He calleth them so by reason of their form. For although it might be that they had the bodies of men in deed, concerning which thing I will not greatly stand in defense of either part, yet certain it is they were not men.\" ",
+            "Their white garments were a token of rare and excellent dignity. For God meant by this, as by an evident token to distinguish them from the common sort of people, that the disciples might give better ear unto them.",
+            "That at this day we also may know that this vision was showed them of God."
+        ],
+        "Philip Schaff": [
+            "Two men stood by them in white apparel.",
+            "Ewald suggests these two were Moses and Elias, as in the transfiguration.",
+            "They were two angels, who probably had an especial charge connected with Messiah\u2019s work on earth."
+        ],
+        "Archibald T. Robertson": [
+            "They saw him slipping away from their eyes as the cloud bore him away.",
+            "Stood by them.",
+            "Periphrastic imperfect active of \u03b1\u03c4\u03b5\u03bd\u03b9\u03b6\u03c9, a late intensive verb."
+        ],
+        "John Gill": [
+            "For though he was taken out of their sight by the cloud, they kept looking upwards, and after him, if they could see him again, or any more of him.\" ",
+            "They looked up to heaven after him, as he went up from the earth, before the cloud took him out of their sight; and still they continued looking, as the cloud carried him up, until it was out of the reach of their sight, being willing to see the last of him in this way.",
+            "The Ethiopic version renders it, 'they were clothed with lightning'; they appeared in such a dazzling form, that it looked as if they were covered with lightning; as the angel that appeared at Christ's resurrection, his countenance is said to be as lightning; which must at once fix the attention of the disciples to them, and strike them with surprise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples looked steadfastly, following Jesus with their eager eyes in rapt amazement as He ascended to Heaven, the cloud remaining visible for some time. They witnessed this momentous event, a resistless evidence that would shape their subsequent testimony. Two angels in human form stood by them, dressed in white garments that signified their rare and excellent dignity. The disciples gazed intently toward heaven, fixated on Jesus slipping away from their sight as the cloud bore Him away. This grand and solemn scene left them amazed and confounded, marking the beginning of their mission as they received a clear token from God through these angelic messengers.",
+            "wordCount": 106,
+            "quoteTokenProportion": 30.86,
+            "qualityScore": 1.8230289142028049,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.96,
+            "commentatorTierSimilarities": [
+                24.55,
+                32.09,
+                43.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples looked steadfastly with eager eyes as Jesus ascended to Heaven, the cloud remaining visible for some time. This momentous event served as a powerful testimony for them. Two angels stood by them in human form, dressed in white garments that signified their dignity. As Jesus slipped away from their sight, the disciples gazed intently toward heaven, left amazed and confounded. Through these angelic messengers, God provided a clear token and marked the beginning of their mission.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.7626536019984778,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+            "commentatorTierSimilarities": [
+                23.88,
+                34.18,
+                41.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Following Jesus with their eager eyes, the disciples looked steadfastly as He ascended to Heaven, with the cloud remaining visible. This irresistible evidence shaped their subsequent testimony. Two angels stood by them, dressed in white garments, signifying their rare and excellent dignity. Astonished and confounded, the disciples gazed intently towards heaven, witnessing Jesus slipping away from their sight. This impressive and solemn scene marked the beginning of their mission, as they received a clear token from God through these angelic messengers.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.7807499503455437,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+            "commentatorTierSimilarities": [
+                26.61,
+                33.78,
+                39.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples fixed their gaze on Jesus, watching as He ascended to Heaven with the cloud remaining visible. This undeniable evidence would shape their future testimony. Two angels stood by them, adorned in white garments, symbolizing their exceptional dignity. The disciples were amazed and confounded, their eyes locked on the heavens as Jesus slipped away from their sight. This awe-inspiring and momentous event marked the beginning of their mission, as they received a clear sign from God through these heavenly messengers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.7445966877438461,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.35,
+            "commentatorTierSimilarities": [
+                25.09,
+                33.19,
+                41.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, in rapt amazement, followed Jesus with their eager eyes as He ascended to Heaven, the cloud remaining visible. This undeniable evidence became the foundation of their subsequent testimony. Two angels in human form stood by them, adorned in white garments. The disciples were left astonished and confounded, their gaze fixed towards heaven as Jesus slipped away from their sight. This remarkable and solemn scene marked the beginning of their mission, as they received a clear token from God through these angelic messengers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.760912158484014,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.89,
+            "commentatorTierSimilarities": [
+                25.32,
+                33.68,
+                41.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

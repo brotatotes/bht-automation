@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:22:33",
+    "verseRef": "Luke 21:22",
+    "bestBHT": {
+        "bht": "These days of vengeance, characterized by the fulfillment of what is written in Moses, the prophets, and the prophecy of Daniel, are marked by the need for God's justice and satisfaction. In Hosea and Deuteronomy, we find warnings of God's vengeance, which resonate with the allusions to the desolation prophesied by Daniel. These days of Divine retribution encompass multiple predictions spanning the entire prophetic period.",
+        "wordCount": 67,
+        "quoteTokenProportion": 30.43,
+        "qualityScore": 1.9117869015625253,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.91,
+        "commentatorTierSimilarities": [
+            30.35,
+            36.96,
+            32.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Vengeance; from this being the same word in the Greek, it is a hint perhaps at ch. xviii. 8.",
+            "The latter part of the verse alludes probably to the prophecy of Daniel.",
+            "St. Luke has omitted [the prophecy of Daniel], but referred to in 'the desolation thereof' ver. 20."
+        ],
+        "Marvin Vincent": [
+            "Vengeance [\u03b5\u03ba\u03b4\u03b9\u03ba\u03b7\u03c3\u03b5\u03c9\u03c2] . Of rendering full justice, or satisfaction. See on avenge, ch. 18 3."
+        ],
+        "Philip Schaff": [
+            "Days of vengeance. Of God\u2019s vengeance, not of man\u2019s.",
+            "Even Titus seems to have been conscious that he was a minister of Divine retribution.",
+            "'All things' points to more than one prediction...running through the whole prophetic period."
+        ],
+        "Archibald T. Robertson": [
+            "That may be fulfilled.",
+            "The O.T. has many such warnings.",
+            "Hosea 9:7; Deuteronomy 28:49-57, etc."
+        ],
+        "John Gill": [
+            "For these be the days of vengeance,.... Of God's vengeance on the Jewish nation, for their rejection and crucifixion of the Messiah.",
+            "That all things which are written may be fulfilled.",
+            "As in Moses and the prophets; see Deuteronomy 28:20."
+        ],
+        "John Wesley": [
+            "And things which are written \u2014 Particularly in Daniel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These are the days of God's vengeance, the fulfillment of what is written in Moses, the prophets, and even the prophecy of Daniel. The Greek word for vengeance, \u03b5\u03ba\u03b4\u03b9\u03ba\u03b7\u03c3\u03b5\u03c9\u03c2, is a hint at the need for full justice and satisfaction. This verse alludes to the desolation prophesied by Daniel, which St. Luke does not explicitly mention, but refers to in the desolation thereof. These warnings of God's vengeance can be found throughout the Old Testament, such as in Hosea and Deuteronomy. These are the days of Divine retribution, not just the actions of man, and they encompass multiple predictions spanning the entire prophetic period.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8460453673883093,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                34.51,
+                36.15,
+                29.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These days mark the fulfillment of God's vengeance, in accordance with the prophecies of Daniel and the warnings found in the Old Testament. The Greek word for vengeance, \u03b5\u03ba\u03b4\u03b9\u03ba\u03b7\u03c3\u03b5\u03c9\u03c2, emphasizes the need for justice and satisfaction. These days of Divine retribution encompass multiple predictions throughout the entire prophetic period.",
+            "wordCount": 50,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.8805121604497068,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.87,
+            "commentatorTierSimilarities": [
+                35.12,
+                39.84,
+                25.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These days of vengeance, characterized by the fulfillment of what is written in Moses, the prophets, and the prophecy of Daniel, are marked by the need for God's justice and satisfaction. In Hosea and Deuteronomy, we find warnings of God's vengeance, which resonate with the allusions to the desolation prophesied by Daniel. These days of Divine retribution encompass multiple predictions spanning the entire prophetic period.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.9117869015625253,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.91,
+            "commentatorTierSimilarities": [
+                30.35,
+                36.96,
+                32.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These are the days of God's vengeance, the fulfillment of what is written in Moses, the prophets, and even the prophecy of Daniel. The Greek word for vengeance, \u03b5\u03ba\u03b4\u03b9\u03ba\u03b7\u03c3\u03b5\u03c9\u03c2, is a hint at the need for full justice and satisfaction. This verse alludes to the desolation prophesied by Daniel, which St. Luke does not explicitly mention, but refers to in the desolation thereof. These warnings of God's vengeance can be found throughout the Old Testament, such as in Hosea and Deuteronomy. These are the days of Divine retribution, not just the actions of man, and they encompass multiple predictions spanning the entire prophetic period.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8460453673883093,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                34.51,
+                36.15,
+                29.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These days mark the fulfillment of God's vengeance, in accordance with the prophecies of Daniel and the warnings found in the Old Testament. The Greek word for vengeance, \u03b5\u03ba\u03b4\u03b9\u03ba\u03b7\u03c3\u03b5\u03c9\u03c2, emphasizes the need for justice and satisfaction. These days of Divine retribution encompass multiple predictions throughout the entire prophetic period.",
+            "wordCount": 50,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.8805121604497068,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.87,
+            "commentatorTierSimilarities": [
+                35.12,
+                39.84,
+                25.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

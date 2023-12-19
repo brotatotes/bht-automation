@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:12:55",
+    "verseRef": "1 Corinthians 13:7",
+    "bestBHT": {
+        "bht": "Love bears all things with a good conscience, enduring personal hardships in silence. It continues to hope for what is good in others, even when others have given up hope. Love covers and protects, seeing the bright side of things rather than despairing. It perseveres like a strong-hearted soldier, enduring with patient acquiescence when belief and hope waver. Love holds on to the belief that even in the midst of challenges and hardships, one word of love is enough to overcome. Love is an unwavering force that covers, protects, and perseveres.",
+        "wordCount": 92,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 2.0646310738672815,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.99,
+        "commentatorTierSimilarities": [
+            32.39,
+            34.34,
+            33.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "all things, i.e. all things which can be borne with a good conscience",
+            "hopeth] viz. even against hope\u2014hoping what is good of another, even when others have ceased to do so",
+            "But unquestionably the time alluded to is that of the coming of the Lord: see ver. 12."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Beareth all things\u2014without speaking of what it has to bear.\" ",
+            "The charitable man contains himself in silence from giving vent to what selfishness would prompt under personal hardship.",
+            "Hopeth\u2014what is good of another, even when others have ceased to hope."
+        ],
+        "Albert Barnes": [
+            "Love is disposed to hide or conceal the faults and imperfections of others; not to promulgate or blazon them abroad, or to give any undue publicity to them.",
+            "Love is patient, long-suffering, not soon angry, not disposed to revenge.",
+            "Love will 'hold on to this hope' until all possibility of such a result has vanished and it is compelled to believe that the conduct is not susceptible of a fair explanation."
+        ],
+        "Marvin Vincent": [
+            "It keeps out resentment as the ship keeps out the water, or the roof the rain.",
+            "Patient acquiescence, holding its ground when it can no longer believe nor hope.",
+            "One word is strong to loose, Although alone, the burden of these toils, For love in larger store ye could not have."
+        ],
+        "John Calvin": [
+            "Love is neither impatient nor spiteful.",
+            "Love calls us back to kindness, so that we think favorably and candidly of our neighbors.",
+            "A Christian man will reckon it better to be imposed upon by his own kindness and easy temper than to wrong his brother by an unfriendly suspicion."
+        ],
+        "Philip Schaff": [
+            "Love hopeth all things even 'against hope;' and when even that fails, and all hope of amendment is cruelly disappointed, it still endureth all things without revenging the wrong done.\" ",
+            "There would seem some tautology in the first clause and the last 'beareth all,' 'endureth all.' To avoid this, some would translate the first clause 'covereth all things,' which certainly is the primary sense of the Greek word.",
+            "The last thing in this grand chapter in contrast not only with all gifts, but with all other graces is the perpetuity of love."
+        ],
+        "Archibald T. Robertson": [
+            "Love covers, protects, forbears.",
+            "Love sees the bright side of things. Does not despair.",
+            "Love perseveres. Carries on like a stout-hearted soldier."
+        ],
+        "John Gill": [
+            "Beareth all things...covers them with the mantle of love, and industriously hides and conceals them from others.",
+            "believeth all things...a man of charity or love is willing to believe all the good things reported of men.",
+            "hopes all things...hopes for the accomplishment of all the promises of God; hopes for heaven and eternal happiness, for more grace here and glory hereafter."
+        ],
+        "John Wesley": [
+            "Love covereth all things - Whatever evil the lover of mankind sees, hears, or knows of any one, he mentions it to none; it never goes out of his lips, unless where absolute duty constrains to speak.",
+            "Believeth all things \u2014 Puts the most favourable construction on everything, and is ever ready to believe whatever may tend to the advantage of any one character. And when it can no longer believe well, it hopes whatever may excuse or extenuate the fault which cannot be denied. Where it cannot even excuse, it hopes God will at length give repentance unto life.",
+            "Meantime it endureth all things \u2014 Whatever the injustice, the malice, the cruelty of men can inflict. He can not only do, but likewise suffer, all things, through Christ who strengtheneth him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Love is able to bear and endure all things with a good conscience, remaining silent in the face of personal hardships. It hopes for what is good in others even when others have given up hope. Love covers and protects, seeing the bright side of things and persevering like a stout-hearted soldier. It is patient, not easily angered, and not driven to seek revenge. Love holds onto hope until all possibility for a positive outcome has vanished, still enduring all things without seeking retribution. It hides the faults and imperfections of others, not giving them undue publicity, and believes and hopes for the best in people, even when it becomes difficult to do so. It endures all injustices and cruelties and is able to both do and suffer all things through the strength of Christ.",
+            "wordCount": 136,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.049259671370814,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                27.9,
+                37.03,
+                35.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Love bears all things with a good conscience and remains silent in the face of personal hardships. It hopes for what is good in others, even when hope seems lost. Love covers and protects, seeing the bright side and persevering like a soldier. It is patient, not easily angered, and seeks no revenge. Love holds onto hope until all possibility for a positive outcome has vanished, still enduring without seeking retribution. It hides faults, believes and hopes for the best, enduring all injustices through the strength of Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0437671163948536,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.3,
+            "commentatorTierSimilarities": [
+                29.12,
+                36.43,
+                34.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Love is patient, enduring all things with a good conscience. It hopes for what is good in others, even against hope itself. Love covers and protects, seeking the positive and persevering like a soldier. It is not easily angered and does not seek revenge. Love holds onto hope until all possibility for a positive outcome has vanished, still enduring without seeking retribution. It hides faults, believes and hopes for the best, and endures all injustices through the strength of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.0243513824985184,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
+            "commentatorTierSimilarities": [
+                29.14,
+                35.85,
+                35.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Love bears all things with a good conscience, enduring personal hardships in silence. It continues to hope for what is good in others, even when others have given up hope. Love covers and protects, seeing the bright side of things rather than despairing. It perseveres like a strong-hearted soldier, enduring with patient acquiescence when belief and hope waver. Love holds on to the belief that even in the midst of challenges and hardships, one word of love is enough to overcome. Love is an unwavering force that covers, protects, and perseveres.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.0646310738672815,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.99,
+            "commentatorTierSimilarities": [
+                32.39,
+                34.34,
+                33.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Love bears all things with a good conscience, enduring hardships in silence. It continues to hope for what is good in others, even when hope seems lost. Love protects and perseveres, seeing the bright side in every situation. It is patient, without anger or revenge. Love holds onto hope until all possibility for a positive outcome has vanished, enduring without seeking retribution. It hides faults, believes and hopes for the best, and endures all injustices with the strength of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.053902356033781,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                29.22,
+                36.27,
+                34.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:35:41",
+    "verseRef": "Acts 23:1",
+    "bestBHT": {
+        "bht": "Paul, with a look of conscious integrity and unfaltering courage, earnestly beholds the council, seeking to understand his judges. He addresses them as equals, asserting that he has lived as a true and loyal Jew, faithfully following the law of Moses. By claiming to have lived as a citizen before God, he emphasizes his innocence and the importance of his assertion. Throughout his life, Paul has lived with a good conscience before God, always acting in accordance with his convictions and striving for the glory of God.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.3141171990844644,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.28,
+        "commentatorTierSimilarities": [
+            32.02,
+            34.89,
+            33.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "earnestly beholding seems to describe that peculiar look, connected probably with infirmity of sight, with which Paul is described before as regarding those before him.\" ",
+            "being charged with neglecting, and teaching others to neglect the law of Moses, he at once endeavours to disarm those who thus accused him, by asserting that up to that, he had lived a true and loyal Jew.",
+            "Thus I have lived before God (literally, have been a citizen before God) will have its full and proper meaning: and the words are no vain-glorious ones, but an important assertion of his innocence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul, earnestly beholding the council... with a look of conscious integrity and unfaltering courage...\" ",
+            "I have lived in all good conscience before God until this day...",
+            "He would signify that he had been, and was to that hour, an honest and God-fearing member."
+        ],
+        "Albert Barnes": [
+            "Paul would naturally look with a keen and attentive observation on the council. He was arraigned before them, and he would naturally observe the appearance, and endeavor to ascertain the character of his judges.",
+            "I have conducted myself so as to maintain a good conscience. I have done what I believed to be right...His persecutions of the Christians had been conducted conscientiously...Of his conscientiousness and fidelity in their service they could bear witness.",
+            "He had lived to God, or with reference to his commands, so as to keep a conscience pure in his sight."
+        ],
+        "Marvin Vincent": [
+            "Earnestly beholding. See on Luke 4:20. Some, who hold that Paul's eyesight was defective, explain this steadfast look in connection with his imperfect vision.",
+            "Men and brethren. He addresses the Sanhedrim as an equal.",
+            "I have lived [\u03c0\u03b5\u03c0\u03bf\u03bb\u03b9\u03c4\u03b5\u03c5\u03bc\u03b1\u03b9] . Lit., have lived as a citizen, with special reference to the charge against him that he taught men against the law and the temple. He means that he has lived as a true and loyal Jew."
+        ],
+        "John Calvin": [
+            "Paul beginneth with the testimony of a good conscience, that all the whole multitude may understand that he is unjustly charged with such an heinous offense.",
+            "This preface teacheth that no man can rightly handle the doctrine of godliness, unless the fear of God reign and bear the chief sway in him.",
+            "He calleth them brethren, giving them that honor, not because they deserve it, but that he may testify that he is not the cause of the breach of friendship."
+        ],
+        "Philip Schaff": [
+            "Paul, earnestly beholding the council... describes the strained earnest gaze with which he endeavors to make up for that weakness of sight...",
+            "He could not fail to distinguish the high priest, seeing he noticed the several party groups (Acts 23:6) into which the Sanhedrin was divided.",
+            "'I have lived as a true and loyal Jew, for the service and glory of God, from my youth up until now.'... Paul teaches us that a man must never act against the dictates of his conscience..."
+        ],
+        "Archibald T. Robertson": [
+            "He had lived as God's citizen, as a member of God's commonwealth.",
+            "The conscience can be contaminated.",
+            "Paul addresses the Sanhedrin as an equal and has no 'apologies' (in our sense) to make for his career as a whole."
+        ],
+        "John Gill": [
+            "And Paul earnestly beholding the council,.... Fastening his eyes upon them, looking wistly and intently at them, and thereby discovering a modest cheerfulness, and a becoming boldness, confidence, and intrepidity, as being not conscious of any guilt, and well assured of the goodness of his cause.",
+            "I have lived in all good conscience before God until this day; not only from the time of his conversion, but throughout the whole of his life.",
+            "Though in his state of unregeneracy, and even while he was a blasphemer, and persecutor, he did not act contrary to the dictates of his conscience, but according to them, in which his view was to the glory of God, and the honour of his law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, with a steadfast and courageous look, earnestly beholds the council before him, seeking to understand the character and motives of his judges. He addresses them as equals, asserting that he has lived as a true and loyal Jew, faithfully following the law of Moses. By claiming that he has lived as a citizen before God, he emphasizes his innocence and integrity. Throughout his life, Paul has maintained a good conscience before God, acting in accordance with his convictions and always striving for the glory of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2797438614059846,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.14,
+            "commentatorTierSimilarities": [
+                31.28,
+                35.13,
+                33.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With a steadfast and courageous look, Paul earnestly beholds the council, seeking to understand his judges. He addresses them as equals, asserting that he has lived as a true and loyal Jew, faithfully following the law of Moses. By claiming to have lived as a citizen before God, he emphasizes his innocence and integrity. Throughout his life, Paul has maintained a good conscience before God, always acting in accordance with his convictions and striving for the glory of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.2461464814124836,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.02,
+            "commentatorTierSimilarities": [
+                31.42,
+                35.35,
+                33.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, with a look of conscious integrity and unfaltering courage, earnestly beholds the council, seeking to understand the character and motives of his judges. He addresses them as equals, asserting that he has lived as a true and loyal Jew, faithfully following the law of Moses. By claiming to have lived as a citizen before God, he emphasizes his innocence and the importance of his assertion. Throughout his life, Paul has lived with a good conscience before God, always acting in accordance with his convictions and striving for the glory of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.290574896299119,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.5,
+            "commentatorTierSimilarities": [
+                31.64,
+                34.97,
+                33.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, with a look of conscious integrity and unfaltering courage, earnestly beholds the council, seeking to understand his judges. He addresses them as equals, asserting that he has lived as a true and loyal Jew, faithfully following the law of Moses. By claiming to have lived as a citizen before God, he emphasizes his innocence and the importance of his assertion. Throughout his life, Paul has lived with a good conscience before God, always acting in accordance with his convictions and striving for the glory of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3141171990844644,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.28,
+            "commentatorTierSimilarities": [
+                32.02,
+                34.89,
+                33.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With a look of conscious integrity and unfaltering courage, Paul earnestly beholds the council, seeking to understand the character and motives of his judges. He asserts that he has lived as a true and loyal Jew, faithfully following the law of Moses, emphasizing his innocence. Throughout his life, Paul has maintained a good conscience before God, always acting in accordance with his convictions and striving for the glory of God.",
+            "wordCount": 70,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.2798711988374207,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.15,
+            "commentatorTierSimilarities": [
+                29.06,
+                36.89,
+                34.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

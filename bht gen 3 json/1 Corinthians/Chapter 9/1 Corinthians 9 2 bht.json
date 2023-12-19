@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:08:40",
+    "verseRef": "1 Corinthians 9:2",
+    "bestBHT": {
+        "bht": "Your conversion, accompanied by miracles and the gifts conferred upon you, is the undeniable proof of my apostleship. Just as a seal attests the genuineness of a document, your transformation through my preaching attests the reality of my ministry. Let those who doubt my apostleship consider the evidence of your conversion and the signs of an apostle that were wrought among you. Your Church in Corinth, flourishing under the blessing of God and the manifestation of His grace, should serve as confirmation of my office.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.235095428337564,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.66,
+        "commentatorTierSimilarities": [
+            29.2,
+            33.1,
+            37.7
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "At least my apostleship cannot be denied by you of all men, who are its seal and proof.",
+            "The seal, as being the proof of his apostolic calling and energy, by their conversion.",
+            "Their conversion was the great proof."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Your conversion by my preaching, accompanied with miracles, and your gifts conferred by me, vouch for the reality of my apostleship.\" ",
+            "Just as a seal set to a document attests its genuineness.",
+            "Miracles are the signs of an apostle."
+        ],
+        "Albert Barnes": [
+            "If I have not given evidence to others of my apostolic mission; of my being sent by the Lord Jesus, yet I have to you.",
+            "Your conversion is the demonstration that I am an apostle.",
+            "The conversion of sinners is the best evidence to a minister that he is sent of God."
+        ],
+        "Marvin Vincent": [
+            "Seal [\u03c3\u03c6\u03c1\u03b1\u03b3\u03b9\u03c2] . See on Romans 4:11; John 3:33; Revelation 22:10."
+        ],
+        "John Calvin": [
+            "If there are those who have doubts as to my Apostleship, to you, at least, it ought to be beyond all doubt, for, as I planted your Church by my ministry, you are either not believers, or you must necessarily recognize me as an Apostle.",
+            "Pure doctrine is above all things required, in order that anyone may have a confirmation of his ministry in the sight of God from its effect.",
+            "The structure of the Corinthian Church was such, that the blessing of God could easily be seen shining forth in it, which ought to have served as a confirmation of Paul\u2019s office."
+        ],
+        "Philip Schaff": [
+            "If to others I am not an apostle, yet at least I am to you; for the seal of mine apostleship are ye in the Lord.\" ",
+            "Let who will dispute my apostleship, ye at least should be the last to do it."
+        ],
+        "Archibald T. Robertson": [
+            "An argumentum ad hominem and a pointed appeal for their support.",
+            "Note use of \u03b1\u03bb\u03bb\u03b1 \u03b3\u03b5 in the apodosis.",
+            "Cf. 1 Corinthians 8:6."
+        ],
+        "John Gill": [
+            "All the signs of apostleship were wrought among them; not only the grace of God was implanted in them under his ministry, but the extraordinary gifts of the Spirit were received by them through it.\" ",
+            "Many signs, wonders, and mighty deeds, were done in the midst of them by him: see 2 Corinthians 12:12 which were sufficient to put the matter quite out of doubt with them.",
+            "Their being converted persons, and so openly in the Lord, in union with him; or being made new creatures by the power of his grace, through his preaching, was an authentic proof of his apostleship."
+        ],
+        "John Wesley": [
+            "Ye are the seal of my apostleship \u2014 Who have received not only faith by my mouth, but all the gifts of the Spirit by my hands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Your conversion, accompanied by miracles and the gifts conferred upon you, is the undeniable proof of my apostleship. Just as a seal attests the genuineness of a document, your transformation through my preaching attests the reality of my ministry. Let those who doubt my apostleship consider the evidence of your conversion and the signs of an apostle that were wrought among you. Your Church in Corinth, flourishing under the blessing of God and the manifestation of His grace, should serve as confirmation of my office.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.235095428337564,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.66,
+            "commentatorTierSimilarities": [
+                29.2,
+                33.1,
+                37.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Your conversion, accompanied with miracles, vouches for the reality of my apostleship. Your Church, flourishing under the blessing of God, should serve as confirmation of my office. The signs of an apostle were clearly manifested among you, from the grace of God implanted through my ministry to the extraordinary gifts of the Spirit received by you. Let the evidence of your transformed lives put any doubts to rest about the authenticity of my apostleship.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.990769598857169,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                27.29,
+                31.94,
+                40.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Your conversion by my preaching, accompanied with miracles, vouch for the reality of my apostleship. Just as a seal attests the genuineness of a document, your transformation through my ministry is undeniable proof. Your Church, under the blessing of God, should confirm my office. The signs of an apostle were clearly seen among you, from the grace of God implanted through my ministry to the extraordinary gifts of the Spirit received by you. Let the evidence of your transformed lives eliminate any doubts about the authenticity of my apostleship.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.0648558985878456,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.0,
+            "commentatorTierSimilarities": [
+                28.97,
+                32.52,
+                38.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Your conversion, accompanied by miracles and the gifts conferred upon you, is the undeniable proof of my apostleship. Just as a seal attests the genuineness of a document, your transformation through my preaching attests the reality of my ministry. Let those who doubt my apostleship consider the evidence of your conversion and the signs of an apostle that were wrought among you. Your Church in Corinth, flourishing under the blessing of God and the manifestation of His grace, should serve as confirmation of my office.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.235095428337564,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.66,
+            "commentatorTierSimilarities": [
+                29.2,
+                33.1,
+                37.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Your conversion, accompanied by miracles, vouches for the reality of my apostleship. Just as a seal attests the genuineness of a document, your transformation through my ministry is undeniable proof. The signs of an apostle were clearly seen among you, from the grace of God implanted through my ministry to the extraordinary gifts of the Spirit received by you. Let the evidence of your transformed lives eliminate any doubts about the authenticity of my apostleship.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.1077852122442122,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+            "commentatorTierSimilarities": [
+                30.45,
+                31.66,
+                37.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

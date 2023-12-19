@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:23:00",
+    "verseRef": "Luke 22:42",
+    "bestBHT": {
+        "bht": "In this prayer, Jesus expresses His willingness for the Father's will to be done. Luke briefly mentions the first prayer, while Matthew provides more insight into the gradual submission of Jesus. Jesus acknowledges that if it aligns with the Father's plan of saving sinners, He is willing for His own will to be subjected to the Father's. This exemplifies the perfect harmony between Jesus' human will and His divine will, as He wholeheartedly desires the Father's will to be accomplished.",
+        "wordCount": 84,
+        "quoteTokenProportion": 45.28,
+        "qualityScore": 1.4326015872519937,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.98,
+        "commentatorTierSimilarities": [
+            11.6,
+            48.83,
+            39.57
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "42.] The sentence is broken off at me... If Thou be willing;\u2014let it be so. The A.V. is not a correct reading in grammar."
+        ],
+        "Philip Schaff": [
+            "Luke, like Mark, gives only the first prayer, and confines himself to indicating the others summarily...",
+            "Matthew introduces us more profoundly to the progressive steps in the submission of Jesus.",
+            ""
+        ],
+        "Archibald T. Robertson": [
+            "If thou be willing... This condition is in the first petition at the start.",
+            "Be done... keep on being done, the Father's will."
+        ],
+        "John Gill": [
+            "Saying, Father, if thou be willing... If it be consistent with thy will of saving sinners, and which thou hast declared to me, and I have undertook to perform.\" ",
+            "Nevertheless not my will; as man, for Christ had an human will distinct from, though not contrary to his divine will.",
+            "But thine be done; which Christ undertook, and came into this world to do; and it was his meat and drink to do it, and was the same with his own will, as the Son of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus utters a prayer, expressing his willingness for the Father's will to be done. Luke focuses on the first prayer, summarizing the others, while Matthew delves deeper into the progressive steps of Jesus' submission. Jesus acknowledges that if it aligns with the Father's saving plan and the task He has undertaken, He is willing for His own will to be subservient to the Father's. Here we see the perfect harmony between Jesus' human will and His divine will, as He wholeheartedly desires the Father's will to be accomplished.",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.4875742623322026,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.8,
+            "commentatorTierSimilarities": [
+                12.82,
+                49.47,
+                37.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this prayer, Jesus expresses His willingness for the Father's will to be done. Luke briefly mentions the first prayer, while Matthew provides more insight into the gradual submission of Jesus. Jesus acknowledges that if it aligns with the Father's plan of saving sinners, He is willing for His own will to be subjected to the Father's. This exemplifies the perfect harmony between Jesus' human will and His divine will, as He wholeheartedly desires the Father's will to be accomplished.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.4326015872519937,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.98,
+            "commentatorTierSimilarities": [
+                11.6,
+                48.83,
+                39.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this prayer, Jesus expresses His willingness for the Father's will to be done, aligning with the Father's plan of saving sinners. Luke briefly mentions the first prayer, while Matthew provides more insight into the gradual submission of Jesus. This exemplifies the perfect harmony between Jesus' human will and His divine will, as He desires the Father's will to be accomplished.",
+            "wordCount": 64,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 1.3925523724900166,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.65,
+            "commentatorTierSimilarities": [
+                7.95,
+                53.42,
+                38.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in His prayer, demonstrates His willingness for the Father's will to be done. Luke briefly highlights the first prayer, while Matthew offers a deeper understanding of Jesus' gradual submission. Jesus recognizes that if it is consistent with the Father's desire to save sinners, He is willing for His own will to align with the Father's. This symbolic surrender showcases the perfect harmony between Jesus' human will and His divine will, as He earnestly desires the fulfillment of the Father's plan.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.3939355921371772,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.69,
+            "commentatorTierSimilarities": [
+                9.58,
+                51.67,
+                38.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In His prayer, Jesus exemplifies His willingness for the Father's will to be done, aligning with the Father's plan of salvation. While Luke briefly mentions the first prayer, Matthew provides a more in-depth exploration of Jesus' gradual submission. Jesus acknowledges that if it fits within the Father's desire to save sinners, He is willing for His own will to be subordinate to the Father's. This showcasing of perfect harmony between Jesus' human and divine wills reveals His earnest desire for the fulfillment of the Father's plan.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.3549579838434709,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.4,
+            "commentatorTierSimilarities": [
+                8.83,
+                51.48,
+                39.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

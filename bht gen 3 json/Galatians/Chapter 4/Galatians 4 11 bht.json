@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 14:18:21",
+    "verseRef": "Galatians 4:11",
+    "bestBHT": {
+        "bht": "My labor for you may be in vain, for I fear you may return to Judaism. This fear is not for myself, but for your sake. Pastors often bear similar concerns when witnessing their congregation turning to worldly elements or becoming enslaved to fashion. This heartfelt plea reveals the deep and painful solicitude of a devoted pastor for his erring flock, akin to a compassionate father for his wayward children. Genuine love is accompanied by care and fear, and faithful ministers diligently toil for the truth. The danger lies in corrupting worship, negating Christ's grace, and suppressing freedom of conscience.",
+        "wordCount": 101,
+        "quoteTokenProportion": 32.47,
+        "qualityScore": 1.6355977522203635,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+        "commentatorTierSimilarities": [
+            28.47,
+            36.24,
+            35.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "11. lest\u2014Greek, \"lest",
+            "\thaply.\" My fear is not for my own sake, but for yours."
+        ],
+        "Albert Barnes": [
+            "I am afraid of you ... - I have fears respecting you.",
+            "His fears were that they had no genuine Christian principle.",
+            "What pastor has not often had such fears of his people, when he sees them turn to the weak and beggarly elements of the world, or when, after having 'run well,' he sees them become the slaves of fashion, or of some habit inconsistent with the simplicity of the gospel?"
+        ],
+        "Marvin Vincent": [
+            "I am afraid for you or concerning you.",
+            "The labor, though in vain, had borne directly upon its object.",
+            "After all my labor, you may return to Judaism. Luther says: 'These words of Paul breathe tears.'"
+        ],
+        "John Calvin": [
+            "To bring back Christianity to Judaism, was in itself no light evil; but far more serious mischief was done, when, in opposition to the grace of Christ, they set up holidays as meritorious performances, and pretended that this mode of worship would propitiate the divine favor.",
+            "When such doctrines were received, the worship of God was corrupted, the grace of Christ made void, and the freedom of conscience oppressed.",
+            "The Papists must therefore be held equally censurable with the false apostles; and with this addition in aggravation, that, while the former proposed to keep those days which had been appointed by the law of God, the latter enjoin days, rashly stamped with their own seal, to be observed as most holy."
+        ],
+        "Philip Schaff": [
+            "I am apprehensive of you, last haply I have toiled for you in vain.",
+            "This verse is, as it were, bathed in tears, and betrays the deep and painful solicitude of a faithful pastor for his stray sheep, or a tender father for his erring children.",
+            "It leads to the affectionate appeal."
+        ],
+        "Archibald T. Robertson": [
+            "I am afraid of you. He shudders to think of it.",
+            "Lest by any means I have bestowed labour upon you in vain. Usual construction after a verb of fearing about what has actually happened (\u03bc\u03b7 \u03c0\u03c9\u03c2 and the perfect active indicative of \u03ba\u03bf\u03c0\u03b9\u03b1\u03c9, to toil wearily).",
+            "A fear about the future would be expressed by the subjunctive. Paul fears that the worst has happened."
+        ],
+        "John Gill": [
+            "Love is a thing full of care and fear.",
+            "Faithful ministers of the word are laborious ones.",
+            "They observing these things in order to procure them thereby; and it was virtually and tacitly saying, that Christ was not come in the flesh, which is the main article of the Gospel."
+        ],
+        "John Wesley": [
+            "The apostle here, dropping the argument, applies to the affections, Galatians 4:11-20, and humbles himself to the Galatians, with an inexpressible tenderness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am afraid for you, lest after all my labor, you may return to Judaism. My fear is not for my own sake, but for yours. What pastor has not often had such fears of his people, when he sees them turn to the weak and beggarly elements of the world, or when, after having 'run well,' he sees them become the slaves of fashion, or of some habit inconsistent with the simplicity of the gospel? This verse is, as it were, bathed in tears, and betrays the deep and painful solicitude of a faithful pastor for his stray sheep, or a tender father for his erring children. Love is a thing full of care and fear. Faithful ministers of the word are laborious ones. To bring back Christianity to Judaism was in itself no light evil; but far more serious mischief was done when they set up holidays as meritorious performances and pretended that this mode of worship would propitiate the divine favor.",
+            "wordCount": 164,
+            "quoteTokenProportion": 45.05,
+            "qualityScore": 1.6929832245812841,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                27.68,
+                37.79,
+                34.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I fear that all my labor for you may be in vain, as you may be tempted to return to Judaism. This concern is not for my own sake, but for yours. Many pastors can relate to these fears, seeing their flock turn to worldly elements or become enslaved to fashion or unhealthy habits. This heartfelt verse reflects the deep worries of a faithful shepherd for his lost sheep, or a loving father for his wayward children. Love carries the weight of care and fear, while faithful ministers toil diligently. Bringing Christianity back to Judaism was no small matter, as it corrupted worship, nullified Christ's grace, and oppressed freedom of conscience.",
+            "wordCount": 112,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 1.5627109571466011,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.3,
+            "commentatorTierSimilarities": [
+                29.29,
+                35.92,
+                34.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "My labor for you may be in vain, for I fear you may return to Judaism. This fear is not for myself, but for your sake. Pastors often bear similar concerns when witnessing their congregation turning to worldly elements or becoming enslaved to fashion. This heartfelt plea reveals the deep and painful solicitude of a devoted pastor for his erring flock, akin to a compassionate father for his wayward children. Genuine love is accompanied by care and fear, and faithful ministers diligently toil for the truth. The danger lies in corrupting worship, negating Christ's grace, and suppressing freedom of conscience.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.47,
+            "qualityScore": 1.6355977522203635,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                28.47,
+                36.24,
+                35.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I fear that my labor for you may be in vain, as you might be tempted to return to Judaism. However, my concern is not for my own sake, but for yours. Pastors often experience similar fears when they observe their flock turning to worldly elements or becoming enslaved to fashion. This heartfelt verse reveals the deep and painful solicitude of a faithful shepherd for his lost sheep or a tender father for his wayward children. Love entails care and fear, and dedicated ministers diligently toil for the truth to prevent corruptions in worship and the suppression of freedom of conscience.",
+            "wordCount": 101,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 1.5485654679163114,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.83,
+            "commentatorTierSimilarities": [
+                31.6,
+                36.71,
+                31.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Concerned for your well-being, I fear that my efforts may have been in vain if you revert to Judaism. My angst is not self-centered, but rather driven by the sincere apprehension of a dedicated pastor witnessing the flock embracing worldly elements or becoming enslaved by fashion and harmful habits. This poignant passage reflects the deep, heartfelt yearning of a compassionate shepherd for his lost sheep or a loving father for his erring children. Love involves profound care and fear, as faithful ministers tirelessly strive to protect worship from corruption, preserve Christ's grace, and safeguard freedom of conscience.",
+            "wordCount": 100,
+            "quoteTokenProportion": 34.52,
+            "qualityScore": 1.5896491826613373,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.2,
+            "commentatorTierSimilarities": [
+                22.92,
+                38.63,
+                38.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

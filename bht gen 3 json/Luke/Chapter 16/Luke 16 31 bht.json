@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:21:06",
+    "verseRef": "Luke 16:31",
+    "bestBHT": {
+        "bht": "The parable of Lazarus and the rich man reminds us not to be satisfied with the surface meaning and reveals a deeper connection between Lazarus and the one actually raised from the dead. Despite witnessing Lazarus' resurrection, the Pharisees remained unbelieving and hostile, discouraging attempts to communicate with the dead. This parable emphasizes the sufficiency of the Old Testament message for the Jews, cautioning against curiosity about the afterlife and manipulating conscience through graphic depictions of future misery. Ultimately, a thousand apparitions cannot bring about the necessary change of heart and repentance.",
+        "wordCount": 92,
+        "quoteTokenProportion": 27.69,
+        "qualityScore": 2.051638636004339,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+        "commentatorTierSimilarities": [
+            36.66,
+            29.95,
+            33.39
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To deny altogether this allusion, is to rest contented with merely the surface of the parable.",
+            "Such appearances will not bring about faith in the human soul: but that they may not serve other ends in God\u2019s dealings with men, it does not assert.",
+            "We can hardly pass over the identity of the name LAZARUS with that of him who actually was recalled from the dead, but whose return, far from persuading the Pharisees, was the immediate exciting cause of their crowning act of unbelief."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No waking up of good in the heart of the lost, but bitter reproach against God and the old economy, as not warning him sufficiently.\" ",
+            "The answer of Abraham is, They are sufficiently warned."
+        ],
+        "Albert Barnes": [
+            "Be persuaded - Be convinced of the truth; of the danger and folly of their way; of the certainty of their suffering hereafter, and be induced to turn from sin to holiness, and from Satan unto God.",
+            "The rich, the beautiful, the happy, as well as the poor, go down to the grave...All their pomp and apparel, all their honors, their palaces, and their gold cannot save them.",
+            "Lord, \u2019tis enough that thou art mine - My life, my portion, and my God."
+        ],
+        "Marvin Vincent": [
+            "They will not be even persuaded.",
+            "A rising from among the dead was more than a messenger going from the dead.",
+            "We can hardly pass over the identity of the name Lazarus with that of him who actually was recalled from the dead; but whose return, far from persuading the Pharisees, was the immediate exciting cause of their crowning act of unbelief."
+        ],
+        "Philip Schaff": [
+            "For the Jews at that time the Old Testament was sufficient. Those who do not hear when God speaks, will not hear the truth about the other world, even if a message came from it.\" ",
+            "The prerequisite to the conversion of a Jew to faith in the risen Lord was an earnest listening to what God had spoken before.",
+            "The parable, especially in its closing verse, cautions against too great curiosity on this subject. The answer He puts in the mouth of Abraham is not only opposed to modern 'spiritualism,' but also to attempts to work upon the conscience and awaken faith by graphic portrayals of future misery."
+        ],
+        "Archibald T. Robertson": [
+            "It is a sharp discouragement against efforts today to communicate with the dead.",
+            "Saul was not led to repentance when he saw Samuel at Endor nor were the Pharisees when they saw Lazarus come forth from the tomb.",
+            "The Pharisees tried to put Lazarus to death and to explain away the resurrection of Jesus."
+        ],
+        "John Gill": [
+            "If they hear not Moses and the prophets; as they did not, nor regarded what they said of Christ, but disbelieved both him and them...",
+            "Neither will they be persuaded: or brought to repent and believe...",
+            "This shows the regard that ought to be had to the written word, as read, or preached; and that it is a sad sign of a desperate condition when men reject divine revelation."
+        ],
+        "John Wesley": [
+            "Neither will they be persuaded \u2014 Truly to repent: for this implies an entire change of heart: but a thousand apparitions cannot, effect this.",
+            "Truly to repent: for this implies an entire change of heart.",
+            "But a thousand apparitions cannot, effect this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of Lazarus and the rich man cautions against being content with the surface meaning. The name Lazarus reveals a deeper connection to the one actually raised from the dead. Despite witnessing Lazarus' resurrection, the Pharisees remained unbelieving and hostile. This discourages attempts to communicate with the dead. The parable emphasizes the sufficiency of the Old Testament message for the Jews, and warns against curiosity about the afterlife and attempts to manipulate conscience through vivid depictions of future misery. Ultimately, if one does not listen to what God has spoken before, they will not be persuaded to repent or believe, as a thousand apparitions cannot accomplish this necessary change of heart.",
+            "wordCount": 112,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.9598790622725795,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                38.7,
+                29.43,
+                31.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of Lazarus and the rich man cautions against being content with the surface meaning. The name Lazarus reveals a deeper connection to the one actually raised from the dead. Despite witnessing Lazarus' resurrection, the Pharisees remained unbelieving and hostile. This discourages attempts to communicate with the dead. The parable emphasizes the sufficiency of the Old Testament message for the Jews, and warns against curiosity about the afterlife and attempts to manipulate conscience through vivid depictions of future misery. A thousand apparitions cannot accomplish this necessary change of heart.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.844065960261019,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.66,
+            "commentatorTierSimilarities": [
+                40.23,
+                27.01,
+                32.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of Lazarus and the rich man warns against embracing the surface meaning and indicates a deeper connection between Lazarus and the one actually raised from the dead. Despite witnessing Lazarus' resurrection, the Pharisees remained unbelieving. This discourages communication attempts with the dead and emphasizes the sufficiency of the Old Testament message. It cautions against curiosity about the afterlife and manipulative depictions of future misery. Ultimately, a thousand apparitions cannot bring about the necessary change of heart and repentance.",
+            "wordCount": 80,
+            "quoteTokenProportion": 23.21,
+            "qualityScore": 1.8893373024738591,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.16,
+            "commentatorTierSimilarities": [
+                37.36,
+                28.19,
+                34.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable of Lazarus and the rich man reminds us not to be satisfied with the surface meaning and reveals a deeper connection between Lazarus and the one actually raised from the dead. Despite witnessing Lazarus' resurrection, the Pharisees remained unbelieving and hostile, discouraging attempts to communicate with the dead. This parable emphasizes the sufficiency of the Old Testament message for the Jews, cautioning against curiosity about the afterlife and manipulating conscience through graphic depictions of future misery. Ultimately, a thousand apparitions cannot bring about the necessary change of heart and repentance.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 2.051638636004339,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+            "commentatorTierSimilarities": [
+                36.66,
+                29.95,
+                33.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of Lazarus and the rich man warns against settling for surface meaning and highlights the connection between Lazarus and the one actually raised from the dead. Despite witnessing Lazarus' resurrection, the unbelieving Pharisees hostilely rejected it, discouraging attempts to communicate with the dead. The parable underscores the sufficiency of the Old Testament message for the Jews, cautioning against curiosity about the afterlife and manipulating conscience through vivid depictions of future misery. Ultimately, a thousand apparitions cannot bring about the necessary change of heart and repentance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 2.031127750377615,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.88,
+            "commentatorTierSimilarities": [
+                36.95,
+                30.18,
+                32.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

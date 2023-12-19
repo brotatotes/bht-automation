@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 13:54:34",
+    "verseRef": "Philippians 2:25",
+    "bestBHT": {
+        "bht": "Epaphroditus, the messenger from the Philippians, is called a fellow-soldier in the combat against darkness, making him a leader among the ministers of Christ. The contrast emphasizes that he is not an ordinary apostle but a messenger sent by the Philippians. Epaphroditus, with his name meaning charming, exemplifies the qualities of a Christian soldier in his shared sympathy, work, and danger with Paul. Through his faithfulness and zeal, Epaphroditus demonstrates the diligent and devoted service required in the ministry of the word.",
+        "wordCount": 83,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.0994876314386257,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.15,
+        "commentatorTierSimilarities": [
+            32.46,
+            36.12,
+            31.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The term fellow-soldier applies to the combat with the powers of darkness, in which the ministers of Christ are the leaders.",
+            "The contrast is to my above apostle.",
+            "Not in the ordinary sense of apostle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It was properly a sending Epaphroditus back.",
+            "But as he had come intending to stay some time with Paul, the latter uses the word 'send'.",
+            "The 'apostles' or 'messengers of the churches' were distinct from the 'apostles' specially commissioned by Christ."
+        ],
+        "Albert Barnes": [
+            "He is much commended by Paul for his faithfulness and zeal.",
+            "Christians and Christian ministers are compared with soldiers because of the nature of the service in which they are engaged.",
+            "The supposition that it here means a messenger meets all the circumstances of the case, and describes exactly what Epaphroditus did."
+        ],
+        "Marvin Vincent": [
+            "The name [Epaphroditus] is derived from Aphrodite (Venus), and means charming.",
+            "Messenger [\u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf\u03bd] . The same word as apostle, one sent with a commission.",
+            "He that ministered [\u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03bf\u03bd] . Kindred with leitourgia service, in ver. 17. Rev., minister."
+        ],
+        "John Calvin": [
+            "Let those, then, who prepare themselves for edifying the Church, know that war is denounced against them, and prepared.",
+            "Paul, however, more especially might boast of his military service, inasmuch as he was exercised to a very miracle in every kind of contest.",
+            "The term Apostle here, as in many other passages, is taken generally to mean any evangelist, unless any one prefers to understand it as meaning an ambassador sent by the Philippians."
+        ],
+        "Philip Schaff": [
+            "It was necessary that Epaphroditus should be sent, for he would hardly recover thoroughly, while longing to go home; nor could the Philippians be happy till they saw again their messenger, whose work in their stead had cost him a severe sickness, and nearly his life. He must go back at once.",
+            "Implies that a more devoted service still had been called for from those to whom the title is given. It is not only work to do, but enemies to resist.",
+            "St. Paul may have selected the word, which had these various shades of meaning, to indicate that he felt the service done unto himself was in a sense a religious work, and done unto Christ\u2019s cause as well as to the individual prisoner."
+        ],
+        "Archibald T. Robertson": [
+            "\u0395\u03c0\u03b1\u03c6\u03c1\u03bf\u03b4\u03b9\u03c4\u03bf\u03bd. Common name, though only in Philippians in N.T., contracted into Epaphras, though not the same man as Epaphras in Colossians 1:7.\" ",
+            "Note one article \u03c4\u03bf\u03bd (the) with the three epithets given in an ascending scale (Lightfoot), brother (\u03b1\u03b4\u03b5\u03bb\u03c6\u03bf\u03bd, common sympathy), fellow-worker (\u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03bf\u03bd, common work), fellow-soldier (\u03c3\u03c5\u03bd\u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03c9\u03c4\u03b7\u03bd, common danger as in Philemon 1:2).",
+            "Messenger (\u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf\u03bd). See 2 Corinthians 8:23 for this use of \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2 as messenger (missionary)."
+        ],
+        "John Gill": [
+            "This man was sent by the Philippians to the apostle with a present, and had been detained at Rome for some time, partly through business, and partly through sickness; but now the apostle thought it proper, he being recovered, to send him to them.",
+            "The ministry of the word is a work; it is called the work of the ministry; and it is a laborious one when diligently and faithfully performed.",
+            "The life of every believer is a warfare; he is always engaged in a war with sin, and Satan, and the world; and is often called to fight the fight of faith, to contend earnestly against false teachers for the faith once delivered to the saints."
+        ],
+        "John Wesley": [
+            "To send Epaphroditus \u2014 Back immediately.",
+            "Your messenger \u2014 The Philippians had sent him to St. Paul with their liberal contribution."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Epaphroditus is described as a fellow-soldier in the combat against the powers of darkness, showing his role as a leader in the spiritual battle. The contrast is made to highlight the fact that he is not an ordinary apostle, but rather a messenger sent by the Philippians. The name Epaphroditus, derived from Aphrodite (Venus), means charming, further emphasizing his qualities and character. His three epithets, brother, fellow-worker, and fellow-soldier, indicate his common sympathy, work, and danger alongside Paul and the other ministers of Christ. Epaphroditus is not only a messenger but also a minister, closely connected to the Greek word for service. Through his faithfulness and zeal, Epaphroditus exemplifies the qualities of a devoted and faithful Christian soldier in the service of Christ's cause.",
+            "wordCount": 128,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9404181030635996,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+            "commentatorTierSimilarities": [
+                32.71,
+                37.24,
+                30.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Epaphroditus, the charming messenger from the Philippians, is called a fellow-soldier in the battle against darkness, distinguishing him as a leader in spiritual combat. His role as a fellow-worker and brother highlights his shared work and common sympathy with Paul. As a minister, Epaphroditus embodies the diligent and faithful service required in the ministry of the word. His dedication and zeal make him a true example of a Christian soldier, fighting against sin, Satan, and false teachings.",
+            "wordCount": 79,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 1.7985072435038525,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                29.55,
+                37.15,
+                33.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Epaphroditus, a messenger sent by the Philippians, is described as a fellow-soldier in the combat against darkness, led by the ministers of Christ. His three epithets - brother, fellow-worker, and fellow-soldier - show his common sympathy, work, and danger alongside Paul. Epaphroditus exemplifies the qualities of a devoted Christian soldier, dedicated to the ministry, faithfully serving in the battle against sin and false teachings. His name, derived from Aphrodite, underscores his charming and compelling character as he fulfills his mission for the Philippians.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.8127204678910944,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                31.21,
+                35.61,
+                33.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Epaphroditus, the messenger from the Philippians, is called a fellow-soldier in the combat against darkness, making him a leader among the ministers of Christ. The contrast emphasizes that he is not an ordinary apostle but a messenger sent by the Philippians. Epaphroditus, with his name meaning charming, exemplifies the qualities of a Christian soldier in his shared sympathy, work, and danger with Paul. Through his faithfulness and zeal, Epaphroditus demonstrates the diligent and devoted service required in the ministry of the word.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0994876314386257,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.15,
+            "commentatorTierSimilarities": [
+                32.46,
+                36.12,
+                31.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Epaphroditus, the messenger sent by the Philippians, is described as a fellow-soldier in the spiritual battle, distinguishing him as a leader in the fight against the powers of darkness. The contrast highlights his unique role, not as an ordinary apostle but a chosen envoy. His name meaning charming reflects his qualities. Epaphroditus embodies the qualities of a dedicated Christian soldier, showing common sympathy, work, and danger alongside Paul and other ministers. His faithful and zealous service exemplifies the call to fight against sin and false teachings.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.7926114988155586,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.95,
+            "commentatorTierSimilarities": [
+                33.66,
+                35.83,
+                30.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

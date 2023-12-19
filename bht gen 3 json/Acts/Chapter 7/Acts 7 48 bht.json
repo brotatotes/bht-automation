@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:27:47",
+    "verseRef": "Acts 7:48",
+    "bestBHT": {
+        "bht": "Solomon's impressive temple does not confine God, for the Most High cannot be contained within earthly spots or structures made by human hands. As Isaiah proclaimed, the Most High does not dwell in temples constructed by man. This truth reveals that God's presence transcends physical buildings, where pagan gods were believed to be confined. Stephen fearlessly preached this revolutionary message, knowing that he would face persecution, just like the prophets before him, who were also put to death for challenging the people's attachment to the temple and its rituals.",
+        "wordCount": 92,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.147747522025629,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+        "commentatorTierSimilarities": [
+            29.21,
+            36.59,
+            34.2
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But, though Solomon built Him an house, we are not to suppose, for all that, that He is confined to earthly spots.",
+            "We have in substance the same declaration by Solomon himself at the dedication of his temple...",
+            "The citation is freely from the LXX."
+        ],
+        "Albert Barnes": [
+            "A new, glorious truth was to be revealed to mankind, that God was not 'confined' in his worship to any age, or people, or nation.",
+            "In entire consistency, therefore, with all proper respect for the temple at Jerusalem, it might be maintained that the time would come when that temple would be destroyed, and when God might be worshipped by all nations.",
+            "The Most High - God. This sentiment was expressed by Solomon when the temple was dedicated, 1 Kings 8:27."
+        ],
+        "Marvin Vincent": [
+            "The Most High. In contrast with heathen gods, who were confined to their temples.",
+            "Temples made with hands [\u03c7\u03b5\u03b9\u03c1\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03bf\u03b9\u03c2 \u03bd\u03b1\u03bf\u03b9\u03c2]. The best texts omit naoiv, temples. The meaning is more general: in things made with hands.",
+            "The phrase work, or works of men's hands, is common in the Old Testament of idols."
+        ],
+        "Philip Schaff": [
+            "Howbeit the Most High dwelleth not in temples.",
+            "The people had ever loved the Temple more than the God of the Temple, and its ritual more than a self-denying life.",
+            "This is what Stephen had been teaching, and the martyr knew that for him there was no pardon; they had slain the prophets for the same thing: they would, he felt too surely, slay him now."
+        ],
+        "Archibald T. Robertson": [
+            "The presence of the Most High is not confined in any building, even one so splendid as Solomon's Temple.",
+            "In things made with hands.",
+            "Isaiah taught plainly that heaven is God's throne."
+        ],
+        "John Gill": [
+            "Howbeit the most High dwelleth not in temples made with hands.",
+            "He did indeed dwell in his temple, but he was not confined to it, nor included in it, or circumscribed by it.",
+            "The most High is one of the names of God, 'as saith the prophet', the prophet Isaiah."
+        ],
+        "John Wesley": [
+            "Yet the Most High inhabiteth not temples made with hands.",
+            "The Most High \u2014 Whom as such no building can contain.",
+            "As Solomon declared at the very dedication of the temple, 1 Kings 8:27."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though Solomon built a magnificent temple, it would be a mistake to think that God is restricted to earthly places. Even Solomon himself acknowledged this when he dedicated the temple. The presence of the Most High cannot be confined to any physical structure, no matter how grand. The phrase temples made with hands refers to all things made by human hands. In the Old Testament, idols are often referred to as works of men's hands. However, Isaiah made it clear that heaven is God's dwelling place. This revelation was meant to demonstrate that God's worship is not limited to a particular time, people, or nation. Stephen understood this truth and preached it boldly, knowing that he would face persecution for challenging the people's attachment to the physical temple and its rituals.",
+            "wordCount": 135,
+            "quoteTokenProportion": 38.04,
+            "qualityScore": 1.946067655805914,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.05,
+            "commentatorTierSimilarities": [
+                31.82,
+                34.67,
+                33.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though Solomon built an impressive temple, it is incorrect to assume that God is restricted to earthly locations. The Most High, in contrast to pagan deities confined to temples, cannot be contained within structures made by human hands. Even Solomon himself acknowledged that God does not dwell in temples. Instead, Isaiah revealed that heaven is God's throne. This truth was a new revelation, implying that God's worship is not confined to a specific time, nation, or people. Stephen fearlessly preached this message, knowing that he would face persecution for challenging the people's attachment to ritualistic worship.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 2.031426231169867,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+            "commentatorTierSimilarities": [
+                30.53,
+                37.25,
+                32.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Solomon's temple may have been magnificent, but it would be a mistake to confine God to earthly structures. As Isaiah declared, the Most High does not dwell in temples made by human hands. The phrase works of men's hands refers to idols in the Old Testament. Instead, as Stephen taught, heaven is God's dwelling place. This revolutionary truth reveals that God's worship is not limited to a specific time, nation, or people. Stephen boldly proclaimed this message, despite knowing the consequences he would face.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.8295110581944236,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.17,
+            "commentatorTierSimilarities": [
+                31.42,
+                36.14,
+                32.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Solomon's impressive temple does not confine God, for the Most High cannot be contained within earthly spots or structures made by human hands. As Isaiah proclaimed, the Most High does not dwell in temples constructed by man. This truth reveals that God's presence transcends physical buildings, where pagan gods were believed to be confined. Stephen fearlessly preached this revolutionary message, knowing that he would face persecution, just like the prophets before him, who were also put to death for challenging the people's attachment to the temple and its rituals.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.147747522025629,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                29.21,
+                36.59,
+                34.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Solomon's temple was impressive, but God is not confined to earthly locations. As Isaiah said, the Most High does not dwell in temples made by human hands. The phrase works of men's hands refers to idols in the Old Testament. Stephen courageously preached this truth, knowing the prophets were persecuted for the same message. God's presence surpasses physical structures, as heaven is His true dwelling place. This revelation teaches that God's worship is not limited to a particular time, nation, or people.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 2.0006418643734634,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+            "commentatorTierSimilarities": [
+                31.28,
+                35.42,
+                33.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:07:40",
+    "verseRef": "Romans 10:7",
+    "bestBHT": {
+        "bht": "Who shall descend into the abyss of waters on which the earth rested? It is impossible, just as it is impossible to bring Christ up from the realm of the dead. The deity and resurrection of Christ are the chief points of attack today on the part of skeptics. But the work of religion is easy, for the word is near him, therefore accessible; plain and simple and therefore apprehensible. The righteousness of faith commands us to believe in that work by applying it to himself in order to be saved.",
+        "wordCount": 91,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.5661731205254823,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.42,
+        "commentatorTierSimilarities": [
+            40.34,
+            50.02,
+            9.64
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "7. Or, Who shall descend,",
+            "\tc.\u2014another case of impossibility, suggested by :-, and perhaps also Amos 9:2",
+            "\t\u2014probably proverbial expressions of impossibility (compare Psalms 139:7-10",
+            "Proverbs 24:7, &amp;c.)."
+        ],
+        "Albert Barnes": [
+            "The sea which was in view was doubtless the Mediterranean, but the crossing of that was an enterprise of the greatest difficulty, and the regions beyond that were regarded as being at a vast distance.",
+            "In the New Testament it is not applied to the ocean, unless in the passage Luke 8:31 (see the note on that place), but to the abode of departed spirits; and particularly to the dark, deep, and bottomless pit, where the wicked are to dwell forever.",
+            "That is, to bring up Christ ... - Justification by faith had no such difficult and impossible work to perform as would be an attempt for man to raise the dead. That would be impossible; but the work of religion is easy."
+        ],
+        "Marvin Vincent": [
+            "The two ideas may be reconciled in the fact that the Jew conceived the sea as the abyss of waters on which the earth rested.",
+            "Thus the ideas beyond the sea and beneath the earth coincide in designating the realm of the dead.",
+            "To bring up. There is no need. He is already risen."
+        ],
+        "Philip Schaff": [
+            "The anxious follower after righteousness is not disappointed by an impracticable code, nor mocked by an unintelligible revelation; the word is near him, therefore accessible; plain and simple and therefore apprehensible deals with definite historical fact, and therefore certain.",
+            "All the doing demanded from man by the law and which he can accomplish only imperfectly, has been already perfectly accomplished by Christ.",
+            "There only remains then to man, in order to be saved, to believe in that work by applying it to himself; and this is that which the righteousness of faith commands us."
+        ],
+        "Archibald T. Robertson": [
+            "Into the abyss...bottomless like a sea...the place of torment.\" ",
+            "Paul seems to refer to Hades or Sheol...the other world to which Christ went after death.",
+            "The deity and resurrection of Christ are precisely the two chief points of attack today on the part of skeptics."
+        ],
+        "John Gill": [
+            ":-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Who shall descend into the abyss of waters on which the earth rested? It is impossible, just as it is impossible to bring Christ up from the realm of the dead. The deity and resurrection of Christ are the chief points of attack for skeptics today. But the work of religion is easy, for the word is near, accessible, and deals with definite historical fact. All the doing demanded by the law has already been accomplished by Christ. The righteousness of faith commands us to believe in that work and apply it to ourselves in order to be saved.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.4856836611293345,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.74,
+            "commentatorTierSimilarities": [
+                39.51,
+                55.7,
+                4.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Who shall descend into the abyss of waters on which the earth rested? It is impossible to bring Christ up from the realm of the dead. The deity and resurrection of Christ are the chief points of attack for skeptics today. But the work of religion is easy, for the word is near and deals with definite historical fact. All the doing demanded by the law has already been accomplished by Christ. The righteousness of faith commands us to believe in that work and apply it to ourselves in order to be saved.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.4731022077792661,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                41.19,
+                55.11,
+                3.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Descending into the abyss of waters or bringing Christ up from the realm of the dead is impossible. These notions highlight the deity and resurrection of Christ, which are targeted by skeptics today. However, the work of religion is easy because the word is near and deals with historical truth. Christ has already accomplished all that the law demands of us. The righteousness of faith calls us to believe in His work and apply it to ourselves for salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.4955796963541594,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+            "commentatorTierSimilarities": [
+                37.12,
+                53.9,
+                8.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Who shall descend into the abyss of waters on which the earth rested? It is impossible, just as it is impossible to bring Christ up from the realm of the dead. The deity and resurrection of Christ are the chief points of attack today on the part of skeptics. But the work of religion is easy, for the word is near him, therefore accessible; plain and simple and therefore apprehensible. The righteousness of faith commands us to believe in that work by applying it to himself in order to be saved.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.5661731205254823,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.42,
+            "commentatorTierSimilarities": [
+                40.34,
+                50.02,
+                9.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is impossible to descend into the abyss of waters or bring Christ up from the realm of the dead. These ideas challenge the deity and resurrection of Christ, which skeptics often attack. However, the work of religion is straightforward, as the word is accessible, plain, and deals with historical fact. All that the law demands has already been accomplished by Christ. The righteousness of faith urges us to believe in His work and apply it to ourselves for salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.4976245602205418,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.14,
+            "commentatorTierSimilarities": [
+                35.33,
+                56.12,
+                8.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

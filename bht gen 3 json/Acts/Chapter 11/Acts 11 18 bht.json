@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:29:45",
+    "verseRef": "Acts 11:18",
+    "bestBHT": {
+        "bht": "The critics reluctantly acknowledged that God had granted repentance unto life to the Gentiles in Caesarea, which revealed the reign of grace in every stage of Cornelius' religious history. This incident shifted their views, opening the doors of the church to the entire Gentile world and breaking down their long-held prejudices. As they held their peace and glorified God, they recognized the transformative power of true repentance, leading to spiritual life and everlasting salvation.",
+        "wordCount": 75,
+        "quoteTokenProportion": 25.93,
+        "qualityScore": 1.9667537781564435,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.74,
+        "commentatorTierSimilarities": [
+            35.14,
+            33.54,
+            31.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To 'grant repentance unto life'\u2014that is, 'such as issues in life'\u2014is more than to be willing to pardon upon repentance.",
+            "The case of Cornelius is so manifestly one of grace reigning in every stage of his religious history.",
+            "And this is the grace that reigns in every conversion."
+        ],
+        "Albert Barnes": [
+            "They were convinced, as Peter had been, by the manifest indications of the will of God.",
+            "The great truth in this manner established that the doors of the church are opened to the entire Gentile world.",
+            "It at once changed the views of the apostles and of the early Christians; gave them new, large, and liberal conceptions of the gospel; broke down their long-cherished prejudices."
+        ],
+        "John Calvin": [
+            "As touching us, we do hereby, in like sort, learn whereupon our judgment must depend, namely, upon the sole and simple beck of God.",
+            "He which granteth liberty to himself to inquire farther, and taketh a delight in his curiosity, doth nothing else but throw himself headlong with devilish boldness.",
+            "Therefore, whosoever will rightly profit in the gospel, let him put off the old man, and think upon newness of life, that done, let him know for a certainty that he is not called in vain unto repentance, but that there is salvation prepared for him in Christ."
+        ],
+        "Philip Schaff": [
+            "They held their peace, and glorified God.",
+            "Then hath God granted.",
+            "Repentance unto life."
+        ],
+        "Archibald T. Robertson": [
+            "The critics even 'glorified God'.",
+            "It was reluctant acquiescence in the undoubted fact that God had 'granted repentance unto life' to these Gentiles in Caesarea.",
+            "Peter will see in this incident (Acts 15:8) the same principle for which Paul contends at the Jerusalem Conference."
+        ],
+        "John Gill": [
+            "and glorified God; praised his name, adored his rich grace, and gave him the glory of all the wonderful things related to them.\" ",
+            "God hath also given to the Gentiles that they should repent",
+            "it is a pure gift of God's free grace, and a blessing of the covenant of grace"
+        ],
+        "John Wesley": [
+            "They glorified God \u2014 Being thoroughly satisfied.",
+            "Repentance unto life \u2014 True repentance is a change from spiritual death to spiritual life, and leads to life everlasting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The case of Cornelius is a clear demonstration of grace reigning in every stage of his religious history. The critics reluctantly acknowledged that God had granted repentance unto life to the Gentiles in Caesarea. This incident established the truth that the doors of the church were open to the entire Gentile world, breaking down long-held prejudices and expanding the understanding of the gospel. As a result, they held their peace and glorified God, recognizing that true repentance leads to spiritual life and everlasting life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.9476450553955318,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                36.75,
+                31.82,
+                31.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The case of Cornelius is a manifestation of grace reigning in his religious journey. Reluctantly, the critics acknowledged that God had granted Gentiles repentance unto life in Caesarea, bringing forth a realization that the church was open to all Gentiles. This incident shattered long-standing prejudices and broadened their understanding of the gospel. Thus, they held their peace and glorified God, recognizing that true repentance leads to spiritual and everlasting life.",
+            "wordCount": 71,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.862902156668043,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.28,
+            "commentatorTierSimilarities": [
+                35.46,
+                31.82,
+                32.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The critics reluctantly acknowledged that God had granted repentance unto life to the Gentiles in Caesarea, which revealed the reign of grace in every stage of Cornelius' religious history. This incident shifted their views, opening the doors of the church to the entire Gentile world and breaking down their long-held prejudices. As they held their peace and glorified God, they recognized the transformative power of true repentance, leading to spiritual life and everlasting salvation.",
+            "wordCount": 75,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.9667537781564435,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.74,
+            "commentatorTierSimilarities": [
+                35.14,
+                33.54,
+                31.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The case of Cornelius exemplifies grace reigning thoroughly in his religious history, as God had granted repentance unto life to the Gentiles in Caesarea. Their reluctance to accept this fact underscores the transformative power of God's free grace in salvation. This incident shattered prejudices, leading to a new understanding of the gospel and opening the doors of the church to the Gentile world. Through holding their peace and glorifying God, they acknowledged that true repentance leads to a change from spiritual death to spiritual life, resulting in everlasting life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 1.9305624211609338,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.53,
+            "commentatorTierSimilarities": [
+                35.36,
+                29.43,
+                35.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The critics reluctantly acknowledged that God had granted repentance unto life to the Gentiles in Caesarea, revealing the reign of grace in Cornelius' religious journey. This incident shattered prejudices, opened the doors of the church to the Gentile world, and broadened their understanding of the gospel. By holding their peace and glorifying God, they affirmed that true repentance leads to spiritual and everlasting life.",
+            "wordCount": 64,
+            "quoteTokenProportion": 23.91,
+            "qualityScore": 1.9590945273708114,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                33.83,
+                32.12,
+                34.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

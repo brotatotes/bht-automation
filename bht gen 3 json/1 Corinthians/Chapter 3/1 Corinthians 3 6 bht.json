@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:01:11",
+    "verseRef": "1 Corinthians 3:6",
+    "bestBHT": {
+        "bht": "The Corinthians are compared to plants in a tilled field, with Paul and Apollos playing roles in their spiritual growth. However, it is God who ultimately brings forth the increase. Ministers are mere instruments in God's work, and their labor is only productive through divine grace. Just as a farmer cannot make a seed grow on his own, ministers' success is a result of God's agency. Therefore, they should not take credit for the fruits of their labor, but rather attribute them to God's unceasing grace.",
+        "wordCount": 89,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 2.0094895311468393,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+        "commentatorTierSimilarities": [
+            29.27,
+            31.19,
+            39.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The similitude is to a tilled field: the plants are the Corinthians, as members of Christ, vines bearing fruit.\" (Commentary)",
+            "These do not yet appear in the construction: so that I prefer supplying nothing after planted and watered, regarding merely the acts themselves.\" (Commentary)",
+            "Apollos was sent over to Corinth after St. Paul had left it, at his own request, and remained there preaching during Paul's journey through Upper Asia.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Apollos at his own desire (Acts 19:1- :) was sent by the brethren to Corinth, and there followed up the work which Paul had begun.\" ",
+            "God gave the increase\u2014that is, the growth (1 Corinthians 3:10; Acts 18:27).\" ",
+            "Though ministers are nothing, and God all in all, yet God works by instruments, and promises the Holy Spirit in the faithful use of means."
+        ],
+        "Albert Barnes": [
+            "Paul established the church. He was the first preacher in Corinth; and if any distinction was due to anyone, it was rather to him than to the teachers who had labored there subsequently; but he regarded himself as worthy of no such honor as to be the head of a party.",
+            "It would be vain for the farmer to sow his seed unless God would give it life. There is no life in the seed, nor is there any inherent power in the earth to make it grow. Only God, the Giver of all life, can quicken the germ in the seed, and make it live.",
+            "But still it is all of God - as much so as the yellow harvest of the field, after all the toils of the farmer is of God. And as the farmer who has just views, will take no praise to himself because his grain and his vine start up and grow after all his care, but will ascribe all to God\u2019s unceasing, beneficent agency."
+        ],
+        "Marvin Vincent": [
+            "The first two verbs are in the aorist tense, marking definite acts; the third is in the imperfect, marking the continued gracious agency of God, and possibly the simultaneousness of His work with that of the two preachers.\" ",
+            "God was giving the increase while we planted and watered.",
+            "There is a parallel in the simultaneous work of Satan with that of the preachers of the word as indicated by the continuous presents in Matthew 13:19."
+        ],
+        "John Calvin": [
+            "Nevertheless, it is only by the blessing of God that they are made to prosper, for what is more wonderful than that the seed, after it has rotted, springs up again!",
+            "Ministers are as it were husbandmen, that plough and sow...as for making their labor actually productive, that is a miracle of divine grace \u2014 not a work of human industry.",
+            "He, then, who has already received the seed, has still need of watering, nor must endeavors be left off, until full maturity has been attained, or in other words, till life is ended."
+        ],
+        "Philip Schaff": [
+            "I planted: Yes; the first ground at Corinth was indeed broken by me, and I am your spiritual father.",
+            "But though in husbandry planting goes before watering, each is necessary at its proper stage.",
+            "But God gave the increase."
+        ],
+        "Archibald T. Robertson": [
+            "I planted (\u03b5\u03b3\u03c9 \u03b5\u03c6\u03c5\u03c4\u03b5\u03c5\u03c3\u03b1).",
+            "Apollos watered (\u0391\u03c0\u03bf\u03bb\u03bb\u03c9\u03c2 \u03b5\u03c0\u03bf\u03c4\u03b9\u03c3\u03b5\u03bd).",
+            "But God gave the increase (\u03b1\u03bb\u03bb\u03b1 \u03bf \u03b8\u03b5\u03bf\u03c2 \u03b7\u03c5\u03be\u03b1\u03bd\u03b5\u03bd)."
+        ],
+        "John Gill": [
+            "I have planted,.... That is, ministerially; otherwise the planting of souls in Christ, and the implanting of grace in them, are things purely divine, and peculiar to God, and the power of his grace.",
+            "Apollos watered; he followed after, and his ministry was blessed for edification; he was a means of carrying on the superstructure, and of building up souls in faith and holiness, and of making them fruitful in every good word and work.",
+            "But God gave the increase: for as the gardener may put his plants into the earth, and water them when he has so done, but cannot cause them to grow, this is owing to a divine blessing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians can be likened to plants in a tilled field, with Paul as the one who initially planted the seeds of faith and Apollos as the one who watered and nurtured their spiritual growth. However, it is important to remember that it is God who ultimately gives the increase and brings forth the fruit. The continuous work of God alongside the work of the preachers is highlighted, emphasizing that ministers are mere instruments through which God works. Just as a farmer cannot make the seed grow on his own, ministers' labor is only productive through the miracle of divine grace. Therefore, the successes of their labor should not be attributed to their own efforts, but rather, should be ascribed to God's unceasing and beneficent agency.",
+            "wordCount": 127,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 2.03028162485548,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.85,
+            "commentatorTierSimilarities": [
+                28.91,
+                31.41,
+                39.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians are compared to plants in a tilled field, with Paul and Apollos playing roles in their spiritual growth. However, it is God who ultimately brings forth the increase. Ministers are mere instruments in God's work, and their labor is only productive through divine grace. Just as a farmer cannot make a seed grow on his own, ministers' success is a result of God's agency. Therefore, they should not take credit for the fruits of their labor, but rather attribute them to God's unceasing grace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.0094895311468393,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "commentatorTierSimilarities": [
+                29.27,
+                31.19,
+                39.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians are compared to plants in a tilled field, with Paul and Apollos as their spiritual nurturers. However, the increase and growth of faith is ultimately the work of God. Ministers are mere instruments, reliant on God's grace for the productivity of their labor. Just as a farmer cannot make a seed grow on his own, ministers cannot take credit for their success, but must acknowledge the divine agency that brings forth the fruit.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9685133701841453,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
+            "commentatorTierSimilarities": [
+                31.38,
+                30.08,
+                38.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians, portrayed as plants, were first planted by Paul, who established the church, and were then further nurtured by Apollos. Yet, it is crucial to acknowledge that the true growth and increase in faith come solely from God. Ministers act as instruments through which God works, but their labor is only productive through divine grace. They should not take credit for the fruits of their labor, but instead recognize that it is God's unceasing and beneficent agency that brings forth the increase.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9949370002430085,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                31.05,
+                30.07,
+                38.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians, likened to plants in a tilled field, were planted by Paul and watered by Apollos. However, it is important to remember that God is the one who ultimately brings forth growth and increase. Ministers are merely instruments, and their labor is only fruitful through divine grace. They should not seek praise for the fruits of their work, but instead attribute it all to God's continuous and beneficent agency.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.009214903023779,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                31.38,
+                29.29,
+                39.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

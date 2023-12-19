@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 13:56:37",
+    "verseRef": "Philippians 3:14",
+    "bestBHT": {
+        "bht": "I press on towards the goal for the prize of my heavenly calling of God. The high calling represents a real matter of fact, not restricted to Paul's own calling as an apostle. The metaphor is that of a footrace where the goal continually moves forward and the prize is the crown of righteousness. This calling is the common calling of all Christians to salvation in Christ Jesus. Forgetting what is behind, we reach forth to the things that are before, pursuing perfect holiness and eternal glory.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.0441391006376666,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.31,
+        "commentatorTierSimilarities": [
+            32.9,
+            36.41,
+            30.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I pursue towards the goal for the prize of my heavenly calling of God.\" ",
+            "The allusion is to his appointment, having been made directly in heaven, not by delegation on earth.\" ",
+            "The heavenly calling represents real matter of fact."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The high,\" or \"heavenly calling,\" is not restricted, as ALFORD thinks, to Paul's own calling as an apostle by the summons of God from heaven.",
+            "The prize\" is \"the crown of righteousness.",
+            "The \"high\" or \"heavenly calling\" is the common calling of all Christians to salvation in Christ."
+        ],
+        "Albert Barnes": [
+            "The 'mark' means properly the object set up at a distance at which one looks or aims, and hence the goal, or post which was set up at the end of a race-course, and which was to be reached in order that the prize might be won.\" ",
+            "The prize of the Christian is the crown that is incorruptible in heaven.\" ",
+            "He has been summoned by God through the gospel of the Lord Jesus to secure the crown. It is placed before and above him in heaven. It may be his if he will not faint or tire or look backward."
+        ],
+        "Marvin Vincent": [
+            "Reaching forth. Only here in the New Testament.\" ",
+            "The metaphor is that of the footrace.",
+            "The eye outstrips and draws onward the hand, and the hand the foot."
+        ],
+        "Philip Schaff": [
+            "I press on towards the goal. This is a consequence of the forgetting of all that is behind.",
+            "The prize is in the original a word which means the garland bestowed by the judges at the end of the race.",
+            "The real prize of this calling is the blessedness of dwelling with God, and this is the hope of the Christian calling."
+        ],
+        "Archibald T. Robertson": [
+            "Only here in N.T.",
+            "Late word (Menander and inscriptions) from \u03b2\u03c1\u03b1\u03b2\u03b5\u03c5\u03c2 (umpire who awards the prize).",
+            "The goal continually moves forward as we press on, but yet never out of sight."
+        ],
+        "John Gill": [
+            "By which is meant, the incorruptible crown; the crown of life, righteousness, and glory, that fadeth not away.",
+            "And besides, they know that there is no coming at the prize, but through the mark.",
+            "The prize of this calling, which is what God has prepared from all eternity, which Christ has in his hands, and will give to all his, and which is of immense richness and eternal duration."
+        ],
+        "John Wesley": [
+            "Forgetting the things that are behind \u2014 Even that part of the race which is already run.",
+            "And reaching forth unto \u2014 Literally, stretched out over the things that are before - Pursuing with the whole bent and vigour of my soul, perfect holiness and eternal glory.",
+            "In Christ Jesus \u2014 The author and finisher of every good thing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I pursue towards the goal for the prize of my heavenly calling of God. The high calling represents real matter of fact and is not restricted to Paul's calling as an apostle. The metaphor used is that of a footrace, where the goal continually moves forward as we press on. The prize is the crown of righteousness, the garland bestowed at the end of the race. This calling is the common calling of all Christians to salvation in Christ, and the prize is the blessedness of dwelling with God. Forgetting what is behind, we reach forth to the things that are before in Christ Jesus, who is the author and finisher of every good thing.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.0407006066171136,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                31.52,
+                39.21,
+                29.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I pursue the goal for the prize of my heavenly calling of God. The high calling represents real matter of fact, not restricted to Paul's calling as an apostle. The metaphor is that of a footrace, where the goal continually moves forward. The prize is the crown of righteousness, the garland bestowed at the end of the race. This calling is the common calling of all Christians. Forgetting what is behind, we reach forth to the things that are before in Christ Jesus, the author and finisher of every good thing.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.965729573244415,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                33.38,
+                37.79,
+                28.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I press on towards the goal for the prize of my heavenly calling of God. The high calling represents real matter of fact, not restricted to Paul's own calling as an apostle. The metaphor is that of a footrace, where the goal continually moves forward as we press on. The prize is the crown of righteousness, the garland bestowed at the end of the race. This calling is the common calling of all Christians. Forgetting what is behind, we reach forth to the things that are before in Christ Jesus, the author and finisher of every good thing.",
+            "wordCount": 99,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9595561859087351,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.5,
+            "commentatorTierSimilarities": [
+                33.09,
+                38.5,
+                28.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I press on towards the goal for the prize of my heavenly calling of God. The high calling represents real matter of fact, not restricted to Paul's own calling as an apostle. The metaphor is that of a footrace where the goal continually moves forward as we reach forth to the things that are before. The prize is the crown of righteousness, the garland bestowed at the end of the race. This calling is the common calling of all Christians in Christ Jesus, the author and finisher of every good thing.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.0305604635239582,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.86,
+            "commentatorTierSimilarities": [
+                32.7,
+                38.77,
+                28.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I press on towards the goal for the prize of my heavenly calling of God. The high calling represents a real matter of fact, not restricted to Paul's own calling as an apostle. The metaphor is that of a footrace where the goal continually moves forward and the prize is the crown of righteousness. This calling is the common calling of all Christians to salvation in Christ Jesus. Forgetting what is behind, we reach forth to the things that are before, pursuing perfect holiness and eternal glory.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.0441391006376666,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.31,
+            "commentatorTierSimilarities": [
+                32.9,
+                36.41,
+                30.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

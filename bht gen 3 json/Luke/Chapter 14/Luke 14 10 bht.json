@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:19:48",
+    "verseRef": "Luke 14:10",
+    "bestBHT": {
+        "bht": "In accordance with our Lord's teachings, it is advisable to choose the lower seat in humility when attending a gathering. This act of modesty is not about seeking higher positions for ourselves, but about allowing the host to invite us to a place of honor. A humble posture leads to respect and honor from those around the table. By humbling ourselves, we find true exaltation and glory, as our Lord has taught us.",
+        "wordCount": 74,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.6987988205471805,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+        "commentatorTierSimilarities": [
+            15.59,
+            44.88,
+            39.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Friend\u2014said to the modest guest only, not the proud one.\" ",
+            "The whole of this is but a reproduction of Proverbs 25:6; Proverbs 25:7.\" ",
+            "But it was reserved for the matchless Teacher to utter articulately, and apply to the regulation of the minutest features of social life, such great laws of the Kingdom of God, as that of Proverbs 25:7."
+        ],
+        "Albert Barnes": [
+            "The lowest seat at the table; showing that you are not desirous of distinctions, or greedy of that honor which may properly belong to you.",
+            "They who are sitting with you shall treat you with respect. They will learn your rank by your being invited nearer to the head of the table, and it will be better to learn it thus than by putting yourself forward.",
+            "They will do you honor because you have shown a humble spirit."
+        ],
+        "Marvin Vincent": [
+            "Sit down [\u03b1\u03bd\u03b1\u03c0\u03b5\u03c3\u03b5] . Lit., lay yourself back."
+        ],
+        "Philip Schaff": [
+            "Our Lord does not bid them take a low place, for the purpose of being put higher. That would be false humility.\" ",
+            "There is nothing to warrant the idea that our Lord and His disciples were themselves in the lower places, and ought to have been invited to come up higher.",
+            "Such hints about promotion at a Pharisee\u2019s feast would not come from our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "Sit down (\u03b1\u03bd\u03b1\u03c0\u03b5\u03c3\u03b5). Second aorist active imperative of \u03b1\u03bd\u03b1\u03c0\u03b9\u03c0\u03c4\u03c9, to fall up or back, to lie back or down.",
+            "He that hath bidden thee (\u03bf \u03ba\u03b5\u03ba\u03bb\u03b7\u03ba\u03c9\u03c2 \u03c3\u03b5). Perfect active participle as in verse Luke 14:12 (\u03c4\u03c9 \u03ba\u03b5\u03ba\u03bb\u03b7\u03ba\u03bf\u03c4) with which compare \u03bf \u03ba\u03b1\u03bb\u03b5\u03c3\u03b1\u03c2 in verse Luke 14:9 (first aorist active participle).",
+            "Go up higher (\u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03b2\u03b7\u03b8). Second aorist active imperative second singular of \u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03b2\u03b1\u03b9\u03bd\u03c9, an old double compound verb, but here only in the N.T. Probably, 'Come up higher,' because the call comes from the host and because of \u03c0\u03c1\u03bf\u03c2."
+        ],
+        "John Gill": [
+            "Go and sit down in the lowest room: place thyself at the lower end of the table, or in the most inferior seat; which will show humility and lowliness of mind, and prevent shame and mortification.",
+            "Then shalt thou have worship; or glory, as the word signifies; honour and esteem, instead of shame and blushing; not only from the master of the feast, but in the presence of them that sit at meat with thee.",
+            "My humiliation is my exaltation, and my exaltation is my humiliation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When attending a gathering, it is important to choose the lower seat in humility, as advised by our Lord. By doing so, we demonstrate modesty and a lack of pride. This echoes the wisdom found in Proverbs. It is not about seeking higher seats for ourselves, but rather allowing the host to invite us to a place of honor. This act of humility will lead to respect and honor from those sitting at the table. Ultimately, our exaltation comes from humbling ourselves.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.515630956797661,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "commentatorTierSimilarities": [
+                15.53,
+                41.6,
+                42.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When attending a gathering, it is essential to choose the lower seat in humility, as advised by our Lord and echoed in Proverbs. By doing so, we demonstrate modesty and a lack of pride. Moreover, it is not about seeking higher seats for ourselves, but rather allowing the host to invite us to a place of honor. This act of humility will lead to respect and honor from those at the table. Ultimately, our exaltation comes from humbling ourselves.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.581356798123175,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.92,
+            "commentatorTierSimilarities": [
+                14.26,
+                42.05,
+                43.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In accordance with our Lord's teachings, it is advisable to choose the lower seat in humility when attending a gathering. This act of modesty is not about seeking higher positions for ourselves, but about allowing the host to invite us to a place of honor. A humble posture leads to respect and honor from those around the table. By humbling ourselves, we find true exaltation and glory, as our Lord has taught us.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6987988205471805,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "commentatorTierSimilarities": [
+                15.59,
+                44.88,
+                39.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When attending a gathering, it is important to choose the lower seat in humility, as our Lord has advised. Doing so demonstrates modesty and a lack of pride, echoing the wisdom found in Proverbs. It is not about seeking higher seats for ourselves but allowing the host to invite us to a place of honor. This act of humility will lead to respect and honor from those at the table. Ultimately, our exaltation comes from humbling ourselves, as our Lord has taught us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.625473047201123,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "commentatorTierSimilarities": [
+                15.36,
+                43.96,
+                40.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When attending a gathering, it is important to choose the lower seat in humility, as advised by our Lord. By doing so, we demonstrate modesty and a lack of pride. This echoes the wisdom found in Proverbs. It is not about seeking higher seats for ourselves, but rather allowing the host to invite us to a place of honor. This act of humility will lead to respect and honor from those at the table. Ultimately, our exaltation comes from humbling ourselves, as our Lord has taught us.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.5299902962244396,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.21,
+            "commentatorTierSimilarities": [
+                15.67,
+                43.11,
+                41.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

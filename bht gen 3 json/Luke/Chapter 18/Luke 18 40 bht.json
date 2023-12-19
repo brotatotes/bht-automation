@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:21:32",
+    "verseRef": "Luke 18:40",
+    "bestBHT": {
+        "bht": "Jesus called out to the blind man, offering him comfort and urging him to rise. Filled with earnestness and joy, the blind man cast away his garment and approached Jesus. Both Jesus and the blind man were still, as if time paused for their encounter. Jesus halted and refused to proceed until the blind man drew near. Recognizing the significance of the moment, Jesus posed an important question, acknowledging the faith and longing in the blind man's heart.",
+        "wordCount": 79,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.3326418226339227,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.65,
+        "commentatorTierSimilarities": [
+            70.38,
+            0.0,
+            29.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And they call the blind man, saying unto him, Be of good comfort, rise, He calleth thee.",
+            "And he, casting away his garment... came to Jesus.",
+            "how lively is this touch, evidently of an eye-witness, expressive of his earnestness and joy."
+        ],
+        "Archibald T. Robertson": [
+            "One is as 'still' as the other.",
+            "The first is that Jesus 'stopped.'",
+            "The first is that Jesus 'stopped'."
+        ],
+        "John Gill": [
+            "He stood still; he made a full stop, and went no further.\" ",
+            "He commanded him to be brought unto him.",
+            "When he was come near he asked him; the following question."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus was in the midst of a busy crowd when he called the blind man and commanded that he be brought to Him. The blind man, filled with earnestness and joy, cast away his garment and came to Jesus, recognizing the opportunity before him. Both Jesus and the blind man were still in their determination to meet one another, as if time stood still for that moment. Jesus made a full stop and went no further until the blind man was near, at which point He asked him a question. This encounter was marked by both urgency and importance, as Jesus recognized the faith and longing in the blind man's heart.",
+            "wordCount": 112,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 1.4311043608619434,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.93,
+            "commentatorTierSimilarities": [
+                58.63,
+                0.0,
+                41.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of a bustling crowd, Jesus called out to the blind man, offering him comfort and beckoning him to rise. The blind man, filled with earnestness and joy, hastily cast away his garment and approached Jesus. Both of them were still and unwavering in their determination to meet. Jesus came to a complete stop until the blind man drew near, where he posed a crucial question. This encounter was marked by urgency and significance, highlighting the faith and longing in the blind man's heart.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.1534277445823469,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.7,
+            "commentatorTierSimilarities": [
+                61.46,
+                0.0,
+                38.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' call to the blind man, urging him to be of good comfort and rise, stirred a lively response. In his eagerness, the blind man discarded his garment and came to Jesus. Both parties were still and resolute, as if time stood still for that moment. Jesus halted in his tracks, refusing to proceed until the blind man was near. As he drew closer, Jesus posed a vital question, recognizing the significance and faith in the blind man's heart.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.2698281103141937,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.57,
+            "commentatorTierSimilarities": [
+                59.66,
+                0.0,
+                40.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst a bustling crowd, the blind man heard Jesus call out to him with words of comfort and encouragement. Filled with earnestness and joy, he discarded his garment and eagerly approached Jesus. The intensity of the moment could be felt, as if time stood still. Jesus made a deliberate stop, refusing to move forward until the blind man drew near. Recognizing the significance of this encounter, Jesus posed a crucial question, acknowledging the faith and longing within the blind man's heart.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.1513873501727765,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.63,
+            "commentatorTierSimilarities": [
+                68.23,
+                0.0,
+                31.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus called out to the blind man, offering him comfort and urging him to rise. Filled with earnestness and joy, the blind man cast away his garment and approached Jesus. Both Jesus and the blind man were still, as if time paused for their encounter. Jesus halted and refused to proceed until the blind man drew near. Recognizing the significance of the moment, Jesus posed an important question, acknowledging the faith and longing in the blind man's heart.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.3326418226339227,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.65,
+            "commentatorTierSimilarities": [
+                70.38,
+                0.0,
+                29.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

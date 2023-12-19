@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:26:44",
+    "verseRef": "Acts 5:13",
+    "bestBHT": {
+        "bht": "In Acts 5:13, the unconverted were hesitant to join themselves to the apostles, knowing the fate of Ananias and Sapphira. However, their numbers continued to grow as the outsiders preferred to remain on the outskirts, especially the rulers. The rest, whether believers or unbelievers, regarded the apostles as an isolated, superhuman group that they kept at a distance from, recognizing their secret majesty and sincerity. The apostles were highly esteemed by the people, who praised and had great reverence for them due to their extraordinary works.",
+        "wordCount": 85,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 2.0918222915010665,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+        "commentatorTierSimilarities": [
+            27.04,
+            35.59,
+            37.36
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "None dared to join himself to, as being one of, or equal to, them.",
+            "The very multitude magnified them.",
+            "So far was this from being the ease."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Of the unconverted none ventured... yet their number continually increased.",
+            "None ventured to profess discipleship.",
+            "Their number continually increased."
+        ],
+        "Albert Barnes": [
+            "The fate of Ananias was suited to have this effect on the rich and great.",
+            "The phrase 'the rest' denotes sometimes what is more excellent, or which is superior in value or importance to something else.",
+            "The mass of the people; the body of the nation magnified them - Honored them; regarded them with reverence and fear."
+        ],
+        "Marvin Vincent": [
+            "Join himself [\u03ba\u03bf\u03bb\u03bb\u03b1\u03c3\u03b8\u03b1\u03b9]. In all but two instances (Romans 12:9; 1 Corinthians 6:17), the word implies a forced, unnatural, or unexpected union.",
+            "Thus Philip would not, without a special command, have 'joined himself' to the chariot of the Ethiopian prince (Acts 8:29).",
+            "Saul's attempt to join himself to the apostles was regarded by them with suspicion (Acts 9:26)."
+        ],
+        "John Calvin": [
+            "For there is a certain secret majesty in holy discipline and in sincere godliness, which doth even fast bind the wicked whether they will or no.",
+            "Yet we must note that he speaketh of men which were indifferent in this place, and of those which were not of the worst sort; for there were at that time many at Jerusalem, whom neither the reverence of signs, neither yet of the angelic holiness of the godly, could move.",
+            "Yet we may see also in what deadly grins [gins] Satan insnareth all those which have not the Spirit of Christ, that they do not only fear to provide for themselves, but purposely avoid those remedies which are offered them unto salvation."
+        ],
+        "Philip Schaff": [
+            "Thus, while the apostles were busied in their work of healing and teaching...the great mass of believers would meet together at different hours in the great cloistered court of the Temple, called Solomon\u2019s Porch.",
+            "None of the rest, whether believers or unbelievers, ventured to equal themselves to the apostles. They kept at a distance from them, regarding them as an isolated group, as superhuman, as beings distinct from them.",
+            "What could be more contrary to the ordinary loving intercourse between the apostles and their disciples...than a statement which represents the apostles as an isolated group, fenced off from the mass of believers in the Lord Jesus, who kept themselves at a distance from them, looking on them as superhuman?"
+        ],
+        "Archibald T. Robertson": [
+            "The fate of Ananias and Sapphira continued to hold many in check.",
+            "The outsiders (the rest) preferred, many of them, to remain outside for the present, especially the rulers.",
+            "Howbeit the people (\u03b1\u03bb\u03bb'--\u03bf \u03bb\u03b1\u03bf\u03c2). Probably individuals among the people, the populace as distinct from the rulers and hostile outsiders."
+        ],
+        "John Gill": [
+            "By the rest are meant, either those that were without the church... or the better sort, such who attended on the word, and were either real believers or hypocrites... but this sense seems to be contradicted in the following verse.",
+            "Rather therefore by them are meant those within the church... these, the rest of them, durst not come nigh the apostles, or familiarly converse with them, much less put themselves upon an equal foot with them, but with great reverence of them kept their distance from them.",
+            "Both the ministers of the word, as Barnabas and others, who showed such a respect to the apostles... and especially the twelve apostles; these the people in general spoke well of, praised and cried up as marvellous men, because of what was done by them."
+        ],
+        "John Wesley": [
+            "None of the rest \u2014 No formalists or hypocrites, durst join themselves - In an outward show only, like Ananias and Sapphira."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 5:13, the unconverted were hesitant to join themselves to the apostles, knowing the fate of Ananias and Sapphira. However, their numbers continued to grow as the outsiders preferred to remain on the outskirts, especially the rulers. The rest, whether believers or unbelievers, regarded the apostles as an isolated, superhuman group that they kept at a distance from, recognizing their secret majesty and sincerity. The apostles were highly esteemed by the people, who praised and had great reverence for them due to their extraordinary works.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.0918222915010665,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+            "commentatorTierSimilarities": [
+                27.04,
+                35.59,
+                37.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Acts 5:13, the unconverted were wary of joining the apostles, while their numbers continued to increase. The outsiders preferred to remain distant, especially the rulers. The rest, whether believers or unbelievers, looked upon the apostles as an isolated group, distinct from themselves, due to their secret majesty. The people held the apostles in high regard, praising them for their remarkable deeds.",
+            "wordCount": 61,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 2.043449640267888,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+            "commentatorTierSimilarities": [
+                31.38,
+                35.3,
+                33.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 5:13, the unconverted were cautious about joining the apostles, while the numbers of believers continuously grew. The rest, including believers and outsiders, viewed the apostles as an isolated group, different from themselves. The people had great reverence for the apostles, admiring their extraordinary works.",
+            "wordCount": 45,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0727827966961128,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+            "commentatorTierSimilarities": [
+                28.64,
+                37.52,
+                33.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 5:13, the unconverted were hesitant to join themselves to the apostles, knowing the fate of Ananias and Sapphira. However, their numbers continued to grow as the outsiders preferred to remain on the outskirts, especially the rulers. The rest, whether believers or unbelievers, regarded the apostles as an isolated, superhuman group that they kept at a distance from, recognizing their secret majesty and sincerity. The apostles were highly esteemed by the people, who praised and had great reverence for them due to their extraordinary works.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.0918222915010665,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+            "commentatorTierSimilarities": [
+                27.04,
+                35.59,
+                37.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 5:13, the unconverted were cautious about joining the apostles, but their numbers continued to increase. The rest, believers or unbelievers, viewed the apostles as an isolated and superhuman group, keeping themselves at a distance. The people praised and revered the apostles for their remarkable deeds. Thus, the apostles' sincere devotion and holy discipline were seen as majestic, even to those who were indifferent. The fate of Ananias and Sapphira served as a reminder of the consequences of insincerity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9934136043092496,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "commentatorTierSimilarities": [
+                26.69,
+                36.06,
+                37.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

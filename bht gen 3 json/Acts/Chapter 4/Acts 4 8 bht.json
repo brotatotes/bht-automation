@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:25:55",
+    "verseRef": "Acts 4:8",
+    "bestBHT": {
+        "bht": "Being filled with the Holy Spirit, Peter confidently spoke before the tribunal. This boldness was a clear proof of his genuine repentance and a result of being empowered by the Holy Spirit. His willingness to be questioned and his desire to present the evidence of his beliefs showcased the innocence and truth within him. Additionally, Peter's respectful acknowledgment of the magistrates displayed his recognition of their authority and the divine source of his message. This transformation, brought about by the Holy Spirit, enabled Peter to boldly stand and proclaim the truth.",
+        "wordCount": 92,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 1.8568279169516928,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.08,
+        "commentatorTierSimilarities": [
+            35.54,
+            36.65,
+            27.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] filled with the Holy Ghost, i.e. specially, for the occasion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. Then, filled with the Holy Ghost,",
+            "\tsaid\u2014(See Mark 13:11;",
+            "\tLuke 21:15)."
+        ],
+        "Albert Barnes": [
+            "Innocence is willing to be questioned; and a believer in the truth will rejoice in any opportunity to state the evidence of what is believed.",
+            "[Peter's ability to stand boldly before the tribunal] evinced a remarkable change in his feelings, and was a most clear and impressive proof of the genuineness of his repentance.",
+            "One evidence of the genuineness of repentance is a desire to repair the evil which is done by crime."
+        ],
+        "John Calvin": [
+            "Peter, being filled with the Holy Ghost...spake not with such a majesty of himself.",
+            "He excelleth...his answer is indeed divine.",
+            "This title, or commendation, is of no small force to set forth the doctrine which shall follow immediately, when it is said that it came from the Holy God, [Spirit]."
+        ],
+        "Philip Schaff": [
+            "Acts 4:8. Being filled with the Holy Ghost. In accordance with the Saviour\u2019s promise (see St. Luke 21:14-15).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Filled with the Holy Spirit (\u03c0\u03bb\u03b7\u03c3\u03b8\u03b5\u03b9\u03c2 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03b3\u03b9\u03bf\u03c5). For this occasion and so above all fear as in verse Acts 4:31 and as in Acts 2:4. "
+        ],
+        "John Gill": [
+            "At that very instant, having received a fresh measure of the gifts and graces of the Spirit, besides what he had poured forth upon him at the day of Pentecost; so that he had great courage and presence of mind, and freedom of speech...\" ",
+            "The case was much altered with Peter, he who but a little while ago was frightened by a servant maid, now stands before the Jewish sanhedrim, with undaunted courage and resolution...",
+            "He addresses them in a very handsome manner, and gives them their proper titles as magistrates; which ought to be done by men and Christians; honour should be given, to whom honour is due..."
+        ],
+        "John Wesley": [
+            "God moves his instruments, not when they please, but just when he sees it needful.",
+            "He gives them the honour due to their office."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Being filled with the Holy Spirit, Peter confidently spoke before the tribunal. This boldness was a clear proof of his genuine repentance, as his ability to stand firm and answer their questions displayed a remarkable change in his feelings. Through his actions, Peter demonstrated his willingness to be questioned and his eagerness to present the evidence of his beliefs. The Holy Spirit empowered him to repair the evil done by his previous denial of Jesus. Furthermore, Peter addressed the magistrates with respect and honor, recognizing the authority of their office. This transformation in Peter's character was not of his own doing, but a result of being filled with the Holy Spirit, who worked in him at the right time.",
+            "wordCount": 120,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7349499212905664,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.03,
+            "commentatorTierSimilarities": [
+                32.68,
+                36.21,
+                31.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Being filled with the Holy Spirit, Peter boldly stood before the tribunal, evincing a remarkable change and proving the genuineness of his repentance. His willingness to be questioned and his desire to present the evidence of his beliefs showed the innocence and truth in his heart. The Holy Spirit empowered him to repair the evil caused by his past actions. Acknowledging the magistrates with respect and honor, Peter recognized their authority and the divine source of his message. This transformation was a result of being filled with the Holy Spirit at the right time.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.8173622638345908,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                34.67,
+                37.68,
+                27.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Being filled with the Holy Spirit, Peter confidently spoke before the tribunal. This boldness was a clear proof of his genuine repentance and a result of being empowered by the Holy Spirit. His willingness to be questioned and his desire to present the evidence of his beliefs showcased the innocence and truth within him. Additionally, Peter's respectful acknowledgment of the magistrates displayed his recognition of their authority and the divine source of his message. This transformation, brought about by the Holy Spirit, enabled Peter to boldly stand and proclaim the truth.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8568279169516928,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.08,
+            "commentatorTierSimilarities": [
+                35.54,
+                36.65,
+                27.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Filled with the Holy Spirit, Peter fearlessly addressed the tribunal. This display of boldness illustrated the genuineness of his repentance and was a testament to the transformative power of the Holy Spirit. Peter's readiness to be questioned and his eagerness to present the evidence of his beliefs showcased his innocence and faith in the truth. Moreover, his respectful demeanor towards the magistrates emphasized their authority and highlighted the divine nature of his message. Peter's remarkable transformation was a result of being filled with the Holy Spirit at the appointed time.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8459199924097034,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                37.07,
+                36.53,
+                26.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Being filled with the Holy Spirit, Peter fearlessly addressed the tribunal, displaying the genuine repentance and transformative power of the Spirit. His willingness to be questioned and eagerness to present the evidence of his beliefs revealed his innocence and faith in the truth. Furthermore, Peter's respectful demeanor towards the magistrates honored their authority and emphasized the divine source of his message. This remarkable transformation, brought about by the Holy Spirit, enabled Peter to boldly proclaim the truth in the face of opposition.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.776354377662495,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                32.38,
+                39.87,
+                27.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

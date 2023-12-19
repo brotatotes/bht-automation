@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:22:29",
+    "verseRef": "Luke 21:15",
+    "bestBHT": {
+        "bht": "Those who stand against will go down before the power of Christ, as they will not be able to withstand or gainsay the wisdom that He imparts. Just as a month and wisdom is needed to adequately answer difficult questions, the power of Christ will give us the ability to speak properly and prudently, addressing any point with great propriety and in the most prudent manner. In doing so, our adversaries will be unable to gainsay or resist our words.",
+        "wordCount": 80,
+        "quoteTokenProportion": 51.72,
+        "qualityScore": 1.4593810902422037,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.87,
+        "commentatorTierSimilarities": [
+            31.73,
+            25.45,
+            42.81
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15.] Luke only. Gainsay corresponds to mouth, resist to wisdom."
+        ],
+        "Philip Schaff": [
+            "A month and wisdom...thought and word would be needed.",
+            "Not be able to withstand or gainsay.",
+            "The condemning to death was often a confession that the words of the martyrs could not be answered."
+        ],
+        "Archibald T. Robertson": [
+            "Those who stand against, line up face to face with.",
+            "To withstand or to gainsay.",
+            "But these 'antis' will go down before the power of Christ."
+        ],
+        "John Gill": [
+            "For I will give you a mouth... a good degree of elocution, to speak properly, pertinently and freely to any point.\" ",
+            "and wisdom; to answer with great propriety, and in the most prudent manner, to any difficult and ensnaring question.",
+            "which all your adversaries shall not be able to gainsay or resist."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who stand against will go down before the power of Christ, as they will not be able to withstand or gainsay the wisdom that He imparts. Just as a month and wisdom is needed to adequately answer difficult questions, the power of Christ will give us the ability to speak properly and prudently, addressing any point with great propriety and in the most prudent manner. In doing so, our adversaries will be unable to gainsay or resist our words.",
+            "wordCount": 80,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.4593810902422037,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.87,
+            "commentatorTierSimilarities": [
+                31.73,
+                25.45,
+                42.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When faced with opposition or criticism, it is important to remember that wisdom will prevail. Those who speak against the truth will ultimately be defeated by the power of Christ. Despite whatever challenges may arise, believers can trust that they will be equipped with the ability to respond with wisdom and clarity. This wisdom extends not only to the words we speak but also to the thoughts and ideas that guide our actions. The opposition we face may even acknowledge the power of our words, as evidenced by their inability to withstand or gainsay our arguments. With an assurance that comes from God, our adversaries will be unable to refute or resist the truth we proclaim.",
+            "wordCount": 116,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.1109256091910875,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.28,
+            "commentatorTierSimilarities": [
+                35.45,
+                24.27,
+                40.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When faced with opposition, believers can rest assured that the power of Christ will prevail over those who resist the truth. Gainsayers will stand face to face with the wisdom that believers possess, unable to withstand or gainsay the truths spoken. The ability to respond with eloquence and wisdom is a gift from God, enabling believers to answer difficult questions and address any challenges that come their way. With the assurance of God's provision, adversaries will find themselves unable to refute or resist the truth that believers boldly proclaim.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.2112218418069332,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.62,
+            "commentatorTierSimilarities": [
+                40.88,
+                20.92,
+                38.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When met with opposition, believers can draw confidence from the knowledge that the power of Christ will prevail. Those who resist the truth will be unable to withstand or gainsay the wisdom and eloquence in their response. Gifted with the ability to answer challenging questions, believers can trust that their adversaries will be unable to refute or resist the truths they declare. This assurance allows believers to confront opposition with boldness, knowing that their words will stand firm against any arguments brought against them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.2098455360957572,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.57,
+            "commentatorTierSimilarities": [
+                37.74,
+                25.11,
+                37.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of opposition, believers can take solace in the fact that the power of Christ will overcome those who resist the truth. Armed with wisdom and eloquence, believers can effectively answer challenging questions and address any attempts to refute their beliefs. The adversaries, however, will find themselves unable to withstand or gainsay the compelling arguments put forth. This assurance empowers believers to confidently proclaim the truth, knowing that their opponents will be unable to refute or resist the steadfastness of their convictions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.1996915025456014,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.23,
+            "commentatorTierSimilarities": [
+                33.85,
+                28.16,
+                37.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

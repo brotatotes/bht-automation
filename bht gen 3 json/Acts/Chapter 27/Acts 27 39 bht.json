@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:37:25",
+    "verseRef": "Acts 27:39",
+    "bestBHT": {
+        "bht": "After enduring a destructive storm at sea, the ship in question found itself in an unfamiliar place. However, the crew's perseverance paid off as they identified a certain creek with a smooth, sandy beach\u2014a practical shore where they could run aground. Realizing that this was their one chance of safety, they resolved to strand the ship there. Though uncertain and unfamiliar with the land, they were determined to make the most of this opportunity, recognizing that this level shore provided their best chance at survival.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.82395107771746,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+        "commentatorTierSimilarities": [
+            26.48,
+            30.11,
+            43.41
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Paul\u2019s Bay is remote from the great harbour, and possesses no marked features by which it might be recognized.",
+            "What is meant is a creek with a smooth, sandy beach, as distinguished from a rocky inlet.",
+            "They were minded, not \u2018to thrust in, as A.V., but to strand, to run aground, their ship."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Immediately on landing they knew where they were.",
+            "But the meaning is, a practicable shore, in a nautical sense, that is, one with a smooth beach.",
+            "This was their one chance of safety."
+        ],
+        "Albert Barnes": [
+            "They knew not the land - They had been driven with a tempest, without being able to make any observation, and it is probable that they were entire strangers to the coast and to the whole island.",
+            "A certain creek with a shore - Greek: a certain bosom \u03ba\u03bf\u0301\u03bb\u03c0\u03bf\u03c2 kolpos or bay. By its having a shore is probably meant that it had a level shore, or one that was convenient for landing. It was not a high bluff of rocks, but was accessible.",
+            "Were minded - Were resolved."
+        ],
+        "Marvin Vincent": [
+            "Bay [\u03ba\u03bf\u03bb\u03c0\u03bf\u03bd] . See on bosom, Luke 6:38. ",
+            "Shore [\u03b1\u03b9\u03b3\u03b9\u03b1\u03bb\u03bf\u03bd] . See on Matthew 13:2. Better, as Rev., beach. ",
+            "They were minded [\u03b5\u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c3\u03b1\u03bd\u03c4\u03bf] . Better, as Rev., took counsel. See on Matthew 1:19."
+        ],
+        "Philip Schaff": [
+            "At first sight this may cause surprise; for Melita was a well-known island, a distinct part of a Roman province, having an admirable harbour, familiar to Alexandrian sailors.\" ",
+            "An English seaman might have made many voyages between New York and Liverpool, and yet might be puzzled (even with the help of such charts as the old Greek sailors did not possess) if he found himself, in foggy weather, off a part of the coast of North Wales which he had never seen before.",
+            "They were not quite sure that they would be able to accomplish their purpose. How the matter was managed is described in the following verses."
+        ],
+        "Archibald T. Robertson": [
+            "They knew not. Probably conative, tried to recognize and could not.",
+            "They perceived. This beach seemed their only hope.",
+            "Whether they could drive. This use of the optative with \u03b5 in questions of this sort is a neat Greek idiom."
+        ],
+        "John Gill": [
+            "And when it was day they knew not the land...",
+            "...they discovered a certain creek with a shore...",
+            "...they had a mind, and consulted to run the ship..."
+        ],
+        "John Wesley": [
+            "They did not know the land \u2014 Which they saw near them: having a level shore."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After enduring a destructive storm, the ship in Acts 27:39 was left in an unfamiliar place. The crew found themselves at St. Paul's Bay, a remote location without any distinct features. However, they eventually spotted a certain creek with a smooth, sandy beach, offering a practical shore for them to touchdown. Realizing that this was their one opportunity for safety, they decided to strand the ship there. Although they were uncertain and unfamiliar with the land, they were resolved to make the most of this situation, recognizing that this level shore provided their best chance at survival.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.803097373749921,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.29,
+            "commentatorTierSimilarities": [
+                28.11,
+                30.19,
+                41.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After being battered by a storm, the ship found itself in unfamiliar territory at St. Paul's Bay, with no distinct landmarks. However, the crew's perseverance paid off as they identified a creek with a smooth, sandy beach, providing a suitable shore to run the ship aground. In this dire situation, they recognized that this was their sole chance for safety, and despite their lack of knowledge about the land, they made the firm decision to take advantage of this opportune spot.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7700898641130662,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                27.53,
+                35.3,
+                37.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 27:39, the ship in distress found itself at St. Paul's Bay, a remote location without distinct features. However, the crew's perseverance led them to a creek with a smooth, sandy beach, offering a suitable shore to run aground. Unsure about the land, they consulted and took counsel on the best course of action. Recognizing that this was their only chance at safety, they resolved to strand the ship on this practical and accessible shore, despite their unfamiliarity with the area.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.758671514291589,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                30.29,
+                29.14,
+                40.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After enduring a destructive storm at sea, the ship in question found itself in an unfamiliar place. However, the crew's perseverance paid off as they identified a certain creek with a smooth, sandy beach\u2014a practical shore where they could run aground. Realizing that this was their one chance of safety, they resolved to strand the ship there. Though uncertain and unfamiliar with the land, they were determined to make the most of this opportunity, recognizing that this level shore provided their best chance at survival.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.82395107771746,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "commentatorTierSimilarities": [
+                26.48,
+                30.11,
+                43.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After surviving a devastating storm, the ship found itself at St. Paul's Bay, a remote location without distinct landmarks. However, the crew's perseverance paid off when they discovered a creek with a smooth, sandy beach\u2014a practical shore where they could run aground. Realizing that this was their only chance for safety, they made the firm decision to strand the ship there. Despite their lack of knowledge about the land, they recognized that this accessible shore offered their best opportunity for survival.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8153471406011823,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+            "commentatorTierSimilarities": [
+                27.1,
+                32.46,
+                40.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

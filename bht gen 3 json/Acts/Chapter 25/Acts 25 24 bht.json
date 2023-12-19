@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:36:22",
+    "verseRef": "Acts 25:24",
+    "bestBHT": {
+        "bht": "The multitude of Jews, both in Jerusalem and Caesarea, made their concerns about Paul known to Festus. Seeking King Agrippa's assistance, Festus acknowledged the widespread opposition against Paul, intrigued by the extent to which he had transformed Jewish life. The Jews had fervently pleaded for Paul's condemnation and even called for his death. The clamor of their cries had reached not only Festus but also the chief captain Lysias. Now, Paul awaited his fate as a prisoner at the bar, under the watchful eyes of all.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.5893937571457257,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.19,
+        "commentatorTierSimilarities": [
+            25.73,
+            34.89,
+            39.38
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24. all the multitude of the Jews] At Jerusalem (ver. 1) literally, by the popular voice (probably) of some tumultuous outcry:\u2014here, by their deputation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The king knoweth of these things...for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.",
+            "Hence his curiosity to see and hear the man who had raised such commotion.",
+            "Paul was right when he said...was remodelling to such an extent the whole Jewish life."
+        ],
+        "Albert Barnes": [
+            "Have dealt with me - Have appeared before me, desiring me to try him. They have urged me to condemn him.",
+            "Crying ... - Compare Acts 22:22. They had sought that he should be put to death."
+        ],
+        "Philip Schaff": [
+            "The expression here, 'all the multitude,' is a strange one; but Festus believed, and with some reason, that the feeling against Paul among the Jews was a very general one.",
+            "'And all here' speaks for the unanimity of the C\u00e6sarean Jews in this matter with their Jerusalem brethren.",
+            "Of the words 'have dealt with me' perhaps 'made petition to me,' represent the meaning of the original Greek closer; another rendering suggested is, 'held communication with me.'"
+        ],
+        "Archibald T. Robertson": [
+            "Present articular participle of \u03c3\u03c5\u03bd\u03c0\u03b1\u03c1\u03b5\u03b9\u03bc (only here in N.T.) with associative instrumental case \u03b7\u03bc\u03b9\u03bd.",
+            "Second aorist active indicative of \u03b5\u03bd\u03c4\u03c5\u03b3\u03c7\u03b1\u03bd\u03c9, old verb to fall in with a person, to go to meet for consultation or supplication as here.",
+            "Indirect command (demand) with the infinitive \u03b4\u03b5\u03b9\u03bd for \u03b4\u03b5 (it is necessary). The double negative (\u03bc\u03b7--\u03bc\u03b7\u03ba\u03b5\u03c4) with \u03b6\u03b7\u03b9\u03bd intensifies the demand."
+        ],
+        "John Gill": [
+            "And Festus said, King Agrippa,.... He addressed himself to him in the first place, as being the principal person, and of great dignity, as well as knowledge.",
+            "ye see this man the prisoner at the bar, meaning Paul.",
+            "crying: in a very noisy and clamorous way: that he ought not to live any longer; as they did before Lysias the chief captain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The multitude of Jews, both in Jerusalem and Caesarea, had voiced their concerns about Paul. Festus, knowing that King Agrippa was well-informed about the situation and the Jewish customs, sought his assistance. Festus believed that the Jewish opposition against Paul was widespread and his curiosity was piqued by the extent to which Paul had reshaped Jewish life. The Jews had presented their case, pleading for Paul's condemnation and even calling for his death. The noise and clamor of their outcry were heard not only before Festus but also before the chief captain Lysias. But now, all eyes were on Paul, the prisoner at the bar, awaiting a decision.",
+            "wordCount": 110,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.5659937935392299,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.41,
+            "commentatorTierSimilarities": [
+                26.81,
+                36.09,
+                37.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews, in both Jerusalem and Caesarea, made their voices heard about Paul to Festus, who recognized that King Agrippa's knowledge and authority could be of assistance. Festus acknowledged that Paul's impact on Jewish life was significant, and he was intrigued to see the man who had caused such uproar. The Jews vehemently cried out for Paul's condemnation and even his death, which had not gone unnoticed by Festus or the chief captain Lysias. Now, Paul stood as a prisoner at the bar, awaiting a decision.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.5423560989208318,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                24.78,
+                33.03,
+                42.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews, both in Jerusalem and Caesarea, had expressed their concerns about Paul, prompting Festus to seek the assistance of King Agrippa. Festus believed that Paul had caused a significant commotion and was intrigued to see the man behind it all. The Jewish opposition against Paul was widespread, with the Jews pleading for his condemnation and even calling for his death. Now, Paul stood as a prisoner at the bar, awaiting a decision that would determine his fate.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.5805794803834998,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.9,
+            "commentatorTierSimilarities": [
+                26.85,
+                35.82,
+                37.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The multitude of Jews, both in Jerusalem and Caesarea, had voiced their concerns about Paul. Festus, knowing that King Agrippa was well-informed about the situation and the Jewish customs, sought his assistance. Festus believed that the Jewish opposition against Paul was widespread and his curiosity was piqued by the extent to which Paul had reshaped Jewish life. The Jews had presented their case, pleading for Paul's condemnation and even calling for his death. The noise and clamor of their outcry were heard not only before Festus but also before the chief captain Lysias. But now, all eyes were on Paul, the prisoner at the bar, awaiting a decision.",
+            "wordCount": 110,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.5659937935392299,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.41,
+            "commentatorTierSimilarities": [
+                26.81,
+                36.09,
+                37.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The multitude of Jews, both in Jerusalem and Caesarea, made their concerns about Paul known to Festus. Seeking King Agrippa's assistance, Festus acknowledged the widespread opposition against Paul, intrigued by the extent to which he had transformed Jewish life. The Jews had fervently pleaded for Paul's condemnation and even called for his death. The clamor of their cries had reached not only Festus but also the chief captain Lysias. Now, Paul awaited his fate as a prisoner at the bar, under the watchful eyes of all.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.5893937571457257,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.19,
+            "commentatorTierSimilarities": [
+                25.73,
+                34.89,
+                39.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

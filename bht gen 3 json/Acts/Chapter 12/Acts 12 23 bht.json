@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:30:22",
+    "verseRef": "Acts 12:23",
+    "bestBHT": {
+        "bht": "The circumstances surrounding the death of Herod Agrippa I illustrate the displeasure of God and the consequences of pride. His death, caused by an angel of God and accompanied by excruciating pain and the infestation of worms, served as a punishment for his arrogance and acceptance of idolatrous worship. This demise, similar to that of Nebuchadnezzar, demonstrates the downfall of those who disregard God's glory and trust in their own strength. The horrifying nature of Herod's death serves as a warning to all, particularly rulers, not to exceed their rightful authority and to humble themselves before God.",
+        "wordCount": 99,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.9289965558845894,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.48,
+        "commentatorTierSimilarities": [
+            29.34,
+            38.96,
+            31.69
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fact may be correctly related by Josephus: but our narrative alleges the cause of what happened to have been the displeasure of God, and the stroke to have been inflicted by His angel.\" ",
+            "He was eaten of worms. Another additional particular; and one to be expected from a physician.",
+            "In several cases of deaths by divine judgment we have accounts of this loathsome termination of the disease."
+        ],
+        "Albert Barnes": [
+            "Because he gave not God the glory - Because he was willing to receive the worship due to God. It was the more sinful in him as he was a Jew, and was acquainted with the true God, and with the evils of idolatry.",
+            "Hence, he was judged; and God vindicated his own insulted honor by inflicting severe pains on him, and by a most awful death.",
+            "The most proud, and mighty, and magnificent princes have no security of their lives. God can in a moment [...] touch the seat of life, and turn them to loathsomeness and putrefaction."
+        ],
+        "Marvin Vincent": [
+            "In my youth, ' said Alp Arslan, 'I was advised by a sage to humble myself before God; to distrust my own strength; and never to despise the most contemptible foe. I have neglected these lessons, and my neglect has been deservedly punished.",
+            "These armies are no longer mine; and, in the confidence of my personal strength, I now fall by the hand of an assassin.",
+            "For on her return to Egypt from Libya, directly after taking vengeance on the people of Barca, she was overtaken by a most horrid death. Her body swarmed with worms, which ate her flesh while she was still alive."
+        ],
+        "John Calvin": [
+            "But where the epithet evil is not added, as in this place, we must understand the angel which doth willingly obey God, and yet the shape of the owl, whereof Josephus maketh mention, did rather serve to figure the devil than an heavenly angel.",
+            "For God intended to make choice of a kind of punishment wherewith he might repress the cruelty of a proud man with extreme ignominy...he is handled according to his deserts.",
+            "Such a manifest example of horrible vengeance in a king\u2019s person ought to terrify us not a little from presuming to take to ourselves more than we ought."
+        ],
+        "Philip Schaff": [
+            "Josephus speaks of violent and torturing pains.",
+            "It has been suggested that this fearful malady is especially reserved by God for princes who have cruelly misused their power over their subjects.",
+            "After the death of Herod Agrippa I., Jerusalem was never ruled again by a native prince."
+        ],
+        "Archibald T. Robertson": [
+            "Like Nebuchadnezzar (Daniel 4:30) pride went before a fall.",
+            "He accepted the impious flattery instead of giving God the glory.",
+            "Josephus gives further details, one a superstitious sight of an owl sitting on one of the ropes of the awning of the theatre while the people flattered him, an omen of his death to him."
+        ],
+        "John Gill": [
+            "Because he reproved not the flatterers, nor rejected their impious flattery, but tacitly took that to himself, which belonged to God.",
+            "Their tongues swelled and fell upon their navels, and worms came out of their tongues and went into their navels, and out of their navels they went into their tongues.",
+            "So that the worms rose up out of the body of this wicked man, and whiles he lived in sorrow and pain, his flesh fell away, and the filthiness of his smell was noisome to all his army."
+        ],
+        "John Wesley": [
+            "God does not delay to vindicate his injured honour.",
+            "An angel of the Lord brought out Peter; an angel smote Herod. Men did not see the instruments in either case. These were only known to the people of God.",
+            "The persecutor perished, and the Gospel grew and multiplied."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The circumstances surrounding the death of Herod Agrippa I illustrate the displeasure of God and the consequences of pride. His death, caused by an angel of God and accompanied by excruciating pain and the infestation of worms, served as a punishment for his arrogance and acceptance of idolatrous worship. This demise, similar to that of Nebuchadnezzar, demonstrates the downfall of those who disregard God's glory and trust in their own strength. The horrifying nature of Herod's death serves as a warning to all, particularly rulers, not to exceed their rightful authority and to humble themselves before God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.9289965558845894,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.48,
+            "commentatorTierSimilarities": [
+                29.34,
+                38.96,
+                31.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The death of Herod Agrippa I serves as a grim reminder of God's displeasure and the consequences of arrogance. Inflicted by an angel of God, Herod experienced agonizing pain and was consumed by worms, a loathsome result of divine judgment. His acceptance of idolatrous worship and failure to give glory to God ultimately led to his downfall. This serves as a cautionary tale for all, especially those in positions of power, to avoid pride and heed the lessons of humility and reliance on God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.8692763027630614,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                29.08,
+                39.5,
+                31.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The death of Herod Agrippa I in Acts 12:23 showcases the displeasure of God and the consequences of pride. Struck by an angel of God and afflicted with excruciating pain and worms, Herod's demise served as a punishment for his acceptance of idolatrous worship and failure to give glory to God. This serves as a powerful reminder to all, especially those in positions of power, that no one is immune to God's judgment and that humility and recognition of God's authority are essential.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.846671584195766,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                26.95,
+                40.4,
+                32.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The death of a proud ruler, Herod Agrippa I, serves as a sobering reminder of God's displeasure and the consequences of arrogance. Struck by an angel of God, he endured excruciating pain and was ravaged by worms, a ghastly manifestation of divine judgment. This gruesome fate befell him because he accepted idolatrous worship, neglecting to give glory to God. This cautionary tale warns all, particularly powerful leaders, against overstepping their boundaries and highlights the imperative of humbly recognizing God's authority.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9012346718087996,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.56,
+            "commentatorTierSimilarities": [
+                29.85,
+                38.45,
+                31.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The death of Herod Agrippa I was a clear manifestation of God's displeasure and the dire consequences of pride. Afflicted by an angel of God, Herod endured tormenting pain and was consumed by worms, a testament to divine judgment. His downfall resulted from accepting idolatrous worship and failing to attribute glory to God. This serves as a solemn admonition, particularly for those in positions of power, to avoid arrogance and embrace humility, acknowledging God's ultimate authority.",
+            "wordCount": 78,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.8702363754416123,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                28.48,
+                39.64,
+                31.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

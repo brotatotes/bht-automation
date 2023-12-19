@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:22:55",
+    "verseRef": "Luke 22:16",
+    "bestBHT": {
+        "bht": "The full meaning of this declaration is found in the context of this Passover, which was to be fulfilled in the kingdom of God. Jesus alludes to this fulfillment again in the gospel, and the hour of the Passover was around six P.M, when the lamb was traditionally killed. Jesus states that he will not eat of this Passover again until it is fulfilled, likely referring to a future Messianic banquet. This points to his return rather than the Christian dispensation as the ultimate fulfillment of the Passover.",
+        "wordCount": 89,
+        "quoteTokenProportion": 46.43,
+        "qualityScore": 1.9895148602323196,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.49,
+        "commentatorTierSimilarities": [
+            31.46,
+            33.69,
+            34.85
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The full meaning of this declaration is to be sought in the words this passover.",
+            "It was that particular Passover, not merely the Passover generally, that was to receive its fulfilment in the kingdom of God.",
+            "And to this fulfilment our Lord alludes again in ver. 30."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14-18. the hour\u2014about six P.M.",
+            "\tBetween three and this hour the lamb was killed ( :-, Margin)"
+        ],
+        "Albert Barnes": [
+            "Until it be fulfilled - See the notes at Matthew 26:29."
+        ],
+        "Philip Schaff": [
+            "He would eat of it now, but never again.",
+            "This points to His return; rather than to \u2018the Christian dispensation.\u2019",
+            "That Passover could only be fulfilled in the Messianic feast of the future."
+        ],
+        "Archibald T. Robertson": [
+            "Until it be fulfilled.\" ",
+            "First aorist passive subjunctive of \u03c0\u03bb\u03b7\u03c1\u03bf\u03c9 with \u03b5\u03c9\u03c2 (\u03bf\u03c4\u03bf\u03c5), the usual construction about the future.\" ",
+            "It seems like a Messianic banquet that Jesus has in mind (cf. Luke 14:15)."
+        ],
+        "John Gill": [
+            "he should never eat more of it in this ceremonial way, since it would have its accomplishment in each of those states",
+            "it has been already fulfilled under the Gospel dispensation, which is often meant by the kingdom of God",
+            "it will also be fulfilled in the kingdom of heaven, or eternal glory, when there will be a perfect deliverance of the saints from sin, Satan, and the world"
+        ],
+        "John Wesley": [
+            "For I will not eat thereof any more \u2014 That is, it will be the last I shall eat with you before I die.\" ",
+            "The kingdom of God did not properly commence till his resurrection.",
+            "Then was fulfilled what was typified by the passover."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The full meaning of this declaration is found in the context of this particular Passover. It was this Passover that was to receive its fulfillment in the kingdom of God. Jesus alludes to this fulfillment again later in the gospel. The hour was about six P.M., the time when the lamb was traditionally killed for the Passover. Jesus states that he will not eat of this Passover again until it is fulfilled, likely referring to a Messianic banquet in the future. This points to his return rather than the Christian dispensation. The Passover will have its ultimate fulfillment in the Messianic feast of the future.",
+            "wordCount": 106,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8742039828920773,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                30.94,
+                36.66,
+                32.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The full meaning of this declaration can be found in the context of this specific Passover, which was to be fulfilled in the kingdom of God. Jesus refers to this fulfillment again in the gospel, and the hour of the Passover was around six P.M., the time when the lamb was traditionally killed. Jesus states that he will not eat of this Passover again until it is fulfilled, possibly indicating a future Messianic banquet. This points to his return, rather than the Christian dispensation, as the ultimate fulfillment of the Passover.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.964540916759018,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                31.41,
+                33.64,
+                34.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The full meaning of this declaration can be understood in the specific context of the Passover. Jesus alludes to the fulfillment of this Passover in the kingdom of God, and the timing of the hour, around six PM when the lamb was usually killed for the Passover, is significant. Jesus expresses that he will not eat of this Passover again until it is fulfilled, possibly alluding to a future Messianic feast. This suggests that the ultimate fulfillment of the Passover will be realized in his return, rather than in the Christian dispensation.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.8564917076514424,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.07,
+            "commentatorTierSimilarities": [
+                33.23,
+                33.62,
+                33.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The full meaning of this declaration is found in the context of this Passover, which was to be fulfilled in the kingdom of God. Jesus alludes to this fulfillment again in the gospel, and the hour of the Passover was around six P.M, when the lamb was traditionally killed. Jesus states that he will not eat of this Passover again until it is fulfilled, likely referring to a future Messianic banquet. This points to his return rather than the Christian dispensation as the ultimate fulfillment of the Passover.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.9895148602323196,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.49,
+            "commentatorTierSimilarities": [
+                31.46,
+                33.69,
+                34.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The full meaning of this declaration is found in the context of this particular Passover, which was to be fulfilled in the kingdom of God. The timing of the hour, around six P.M., coincides with the traditional time of slaughtering the Passover lamb. Jesus states that he will not eat of this Passover again until it is fulfilled, possibly referring to a future Messianic banquet. This points to his return rather than the Christian dispensation as the ultimate fulfillment of the Passover.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.919306123606095,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+            "commentatorTierSimilarities": [
+                31.19,
+                34.12,
+                34.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

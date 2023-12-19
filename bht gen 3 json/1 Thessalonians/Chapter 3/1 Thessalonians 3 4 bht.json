@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 13:58:34",
+    "verseRef": "1 Thessalonians 3:4",
+    "bestBHT": {
+        "bht": "The Thessalonians had firsthand knowledge that suffering was imminent, as Paul and his companions forewarned them. This was not a mere prediction, but rather the appointed will of God. By preparing their minds for the trials they would face, the Thessalonians were able to count the cost and deliberately choose to follow Christ. Just as a physician informs a patient about the stages of their disease, Paul had similarly equipped them to face the tribulation ahead. Through this foreknowledge, their mission and ministry were confirmed.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.604827685776484,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.7,
+        "commentatorTierSimilarities": [
+            20.31,
+            37.07,
+            42.61
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "4.] reason for the assumption of this know-ledge. ye know, viz. by experience."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "that we are about (we are sure) to suffer\" according to the appointment of God.",
+            "even as it both came to pass and ye know\"; ye know both that it came to pass, and that we foretold it.",
+            "Forewarned, forearmed."
+        ],
+        "Albert Barnes": [
+            "It is not mentioned in the history Acts 17:0 that Paul thus predicted that special trials would come upon them, but there is no improbability in what is here said.",
+            "There was every reason to apprehend that they would meet with opposition on account of their religion, and nothing was more natural than that Paul should endearour to prepare their minds for it beforehand.",
+            "When Paul, Silas, and Timothy were driven away, and when the church was so much agitated, by the opposition of the Jews."
+        ],
+        "Philip Schaff": [
+            "It is better that beginners should count the cost and deliberately enter the Christian course, than that they should find themselves involved in difficulties they did not contemplate.",
+            "As a kindly physician sometimes judges it prudent not only to promise to his patient ultimate restoration, but also to tell him the phases his disease will pass through previous to its removal.",
+            "When he sees new symptoms arising, or feels his strength failing be may not be alarmed, but may recognise this as all foreseen as leading on towards health: thus Paul had dealt with the Thessalonians."
+        ],
+        "Archibald T. Robertson": [
+            "We used to tell you beforehand.\" ",
+            "Not mere prediction, but God's appointed will."
+        ],
+        "John Gill": [
+            "we should suffer tribulation: which they might say by virtue of Christ's prediction to all his disciples ... the usual way through which [God's people] enter the kingdom\" ",
+            "the Apostle Paul might foretell this, upon the discovery that was made to him how many things he should suffer for the sake of Christ, and which therefore he always, and in every place expected",
+            "it was a great confirmation of the truth of their mission and ministry; nor could it be so surprising to them as it might have been had they had no previous taste of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Thessalonians knew by experience that they were about to suffer. It wasn't just mere prediction, but the appointed will of God. Paul, Silas, and Timothy used to tell them beforehand about the trials to come. By forewarning them, they were preparing their minds for the opposition they would face for their faith. It was important for the Thessalonians to count the cost and be deliberate in their decision to follow Christ. Just as a physician informs a patient about the phases their disease will pass through, Paul had dealt with the Thessalonians in the same way, preparing them for the tribulation they would encounter. This suffering was not unexpected, as Christ had predicted it and Paul himself had foreseen the challenges he would face. Despite the trials, this knowledge served as a confirmation of the truth of their mission and ministry.",
+            "wordCount": 143,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 1.6147467977940235,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.03,
+            "commentatorTierSimilarities": [
+                20.53,
+                38.0,
+                41.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians knew by experience that they were about to suffer. Paul and his companions would forewarn them beforehand, understanding that being prepared is crucial. It was vital for the Thessalonians to count the cost and deliberately decide to follow Christ. Just as a physician informs a patient about the phases of their disease, Paul had dealt with them in a similar manner, preparing them for the tribulation to come. Despite the challenges, this knowledge confirmed the truth of their mission and ministry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.5112266377241812,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.59,
+            "commentatorTierSimilarities": [
+                19.29,
+                38.12,
+                42.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians knew from experience that suffering lay ahead, but it was not just a prediction - it was God's appointed will. Paul and his companions used to forewarn them, prepping their minds for the trials they would face. It was vital for these believers to count the cost and deliberately choose to follow Christ. Just as a physician informs a patient about the stages of their disease, Paul had prepared them for the tribulation that awaited. This foreknowledge confirmed the truth of their mission and ministry.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.5749826790084736,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
+            "commentatorTierSimilarities": [
+                16.73,
+                38.26,
+                45.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Thessalonians had firsthand knowledge that suffering was imminent, as Paul and his companions forewarned them. This was not a mere prediction, but rather the appointed will of God. By preparing their minds for the trials they would face, the Thessalonians were able to count the cost and deliberately choose to follow Christ. Just as a physician informs a patient about the stages of their disease, Paul had similarly equipped them to face the tribulation ahead. Through this foreknowledge, their mission and ministry were confirmed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.604827685776484,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.7,
+            "commentatorTierSimilarities": [
+                20.31,
+                37.07,
+                42.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians knew through experience that suffering was imminent. Paul and his companions forewarned them, preparing their minds for the challenges to come. By counting the cost and deliberately choosing to follow Christ, they were better equipped to face the tribulation. This foreknowledge, not just a mere prediction but the appointed will of God, confirmed the truth of their mission and ministry. Just as a physician guides a patient through the phases of their disease, Paul had guided the Thessalonians to navigate the trials ahead.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5913409851697211,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.25,
+            "commentatorTierSimilarities": [
+                19.75,
+                38.37,
+                41.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

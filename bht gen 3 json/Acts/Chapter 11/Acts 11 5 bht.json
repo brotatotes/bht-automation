@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:29:29",
+    "verseRef": "Acts 11:5",
+    "bestBHT": {
+        "bht": "The news of the Gospel spreading reached Peter, bringing a fresh and vivid detail to his understanding. As he prayed on the rooftop at noon, Peter saw a vision that was distinct and clear, not vaguely apprehended. This emphasized the importance of prayer in seeking God's guidance. It was crucial for Peter to highlight that God had brought him to a new religious conviction. Through his experience, we are reminded that when we start with prayer, God will do the rest, even revealing Himself in unexpected ways.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 1.4481661136779338,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.49,
+        "commentatorTierSimilarities": [
+            14.7,
+            56.54,
+            28.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "5.] it came even to me is a fresh detail."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1-11. the apostles and brethren . .",
+            "\t. in Judea\u2014rather, \"throughout Judea."
+        ],
+        "Philip Schaff": [
+            "If we begin with prayer, God will do all the rest.",
+            "The essential point for St. Peter...to urge on the centurion was, that God had by some mode brought him to a new religious conviction.",
+            "This, again, is an addition, which imparts much liveliness to the story as told by St. Peter himself. It is, moreover, an important addition, as showing that the circumstances of the trance were not vaguely apprehended, but that he saw everything definitely and distinctly."
+        ],
+        "Archibald T. Robertson": [
+            "Let down...here agreeing with the 'sheet'...not with 'vessel'.\" ",
+            "Even unto me...vivid detail added here by Peter."
+        ],
+        "John Gill": [
+            "here he was praying in an house of Simon the tanner, upon the top of it, and about the sixth hour of the day, or twelve o'clock at noon, which was one of the times of prayer with the Jews.",
+            "in a trance I saw a vision; with the eyes of his understanding; for the organs of his body were quite senseless and useless",
+            "it came even to me; descended upon the housetop where Peter was praying; and which was necessary, that he might see what was upon it, and receive instruction from it"
+        ],
+        "John Wesley": [
+            "Being in a trance \u2014 Which suspends the use of the outward senses."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During this time, the news of the Gospel spreading even to him, Peter, came as a vivid and fresh detail. It was important for Peter to emphasize that God had brought him to a new religious conviction, and the circumstances of the trance were not vaguely apprehended, but were seen definitely and distinctly. Furthermore, this revelation came to Peter while he was praying at noon on the rooftop of Simon the tanner's house, displaying the importance of prayer in seeking God's guidance. Through Peter's experience, we are reminded that when we begin with prayer, God will do the rest, even revealing Himself in unexpected ways.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.5520983756849533,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.95,
+            "commentatorTierSimilarities": [
+                14.12,
+                55.36,
+                30.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The news of the Gospel spreading reached Peter, bringing a fresh and vivid detail to his understanding. As he prayed on the rooftop at noon, Peter saw a vision that was distinct and clear, not vaguely apprehended. This emphasized the importance of prayer in seeking God's guidance. It was crucial for Peter to highlight that God had brought him to a new religious conviction. Through his experience, we are reminded that when we start with prayer, God will do the rest, even revealing Himself in unexpected ways.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.4481661136779338,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.49,
+            "commentatorTierSimilarities": [
+                14.7,
+                56.54,
+                28.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The spread of the Gospel reached Peter, providing him with a fresh and vivid detail. While praying on the rooftop of Simon the tanner's house at noon, Peter received a vision that was distinct and clear. This highlights the significance of prayer in seeking God's guidance. Peter's experience shows that starting with prayer allows God to work in unexpected ways, leading to new religious convictions. Through prayer, we can trust that God will reveal Himself and His plans to us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.3540838391334709,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.37,
+            "commentatorTierSimilarities": [
+                14.2,
+                53.69,
+                32.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The news of the Gospel's spread reached Peter, offering a fresh and vivid detail. Peter's vision, received while praying on Simon the tanner's rooftop at noon, was distinct and clear, emphasizing the value of prayer in seeking God's guidance. This experience led to Peter's newfound religious conviction, highlighting the importance of starting with prayer. Through prayer, God can reveal Himself in unexpected ways, shaping our beliefs and leading us on His path.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.3853566510963196,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.41,
+            "commentatorTierSimilarities": [
+                16.1,
+                53.99,
+                29.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gospel's expansion brought Peter a fresh and vivid detail, as it reached even him. During his prayer on the rooftop at noon, Peter's vision became distinct and clear, emphasizing the significance of prayer in seeking God's guidance. This encounter fostered Peter's new religious conviction, underscoring the importance of beginning with prayer. Through prayer, we invite God to reveal Himself in unexpected ways, transforming our beliefs and guiding us along His divine path.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.4197798616262163,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.55,
+            "commentatorTierSimilarities": [
+                15.2,
+                55.14,
+                29.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

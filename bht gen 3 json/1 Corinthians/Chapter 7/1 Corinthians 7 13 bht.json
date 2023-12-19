@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 15:05:27",
+    "verseRef": "1 Corinthians 7:13",
+    "bestBHT": {
+        "bht": "The Apostle discusses divorce in mixed marriages and emphasizes that the Christian party should not separate from their nonbelieving spouse. He acknowledges the wife's power to divorce according to Greek and Roman law but advises against it. The advice given is to stay committed to the marriage, unless it becomes unbearable or unsafe. This counsel reflects the teachings of the Gospel and aims to promote Christian values, serving as a testimony to others and spreading the knowledge of Christianity.",
+        "wordCount": 80,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.8233071459649737,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+        "commentatorTierSimilarities": [
+            39.89,
+            28.69,
+            31.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostle uses the general term leave here, of both parties, the husband and wife, not 'put away' (as Matt. v. 31, &c.), which would apply only to the husband.",
+            "By the Greek as well as Roman customs, the wife had the power of effecting a divorce.",
+            "St. Paul puts both alternatives because he regards the Christian party as the superior one in the marriage."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let her not put away [that is, part with] her husband.\" ",
+            "The wife had the power of effecting a divorce by Greek and Roman law.\" ",
+            "The Greek for 'leave' is the same as in 1 Corinthians 7:12, 'put away'."
+        ],
+        "Albert Barnes": [
+            "Let her not leave him - A change of phraseology from the last verse, to suit the circumstances.",
+            "The apostle counsels her not to do this; and this advice should still be followed.",
+            "She should even bear much, and bear it long; nor should she leave him unless her life is rendered miserable, or in danger."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is perfectly fair in stating both sides of the problem of mixed marriages.",
+            "",
+            ""
+        ],
+        "John Gill": [
+            "And if he be pleased to dwell with her; loves her, and is willing to continue with her; neither puts her away from him, nor departs from her on account of her Christianity:",
+            "Let her not leave him; but continue, and cohabit with him as man and wife;",
+            "This is the advice the apostle gives, as agreeably to the light of nature and reason; as becoming the Gospel of Christ, and as what might serve to recommend it, and spread the knowledge of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle is addressing the issue of divorce in mixed marriages where one spouse is a Christian and the other is not. He emphasizes that the Christian party should not separate from their nonbelieving spouse, but rather stay committed to the marriage. By using the term leave, he acknowledges that both parties have the ability to divorce according to legal customs, but he urges the Christian spouse not to exercise this power. The advice given is not to leave unless the marriage becomes unbearable or the individual's safety is at risk, as the Christian party is seen as superior in the marriage. Ultimately, this counsel reflects the teachings of the Gospel and aims to promote the spread of Christian knowledge and values.",
+            "wordCount": 123,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.807957111220156,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                42.72,
+                26.21,
+                31.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle addresses the issue of divorce in mixed marriages. He acknowledges that both husband and wife have the ability to divorce but urges the Christian spouse not to exercise this power. By using the term leave, he refers to the wife's ability to divorce according to Greek and Roman law. The advice given is to stay committed to the marriage unless it becomes unbearable or unsafe. This counsel promotes the spread of Christian values and reflects the teachings of the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.7977415005245212,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.12,
+            "commentatorTierSimilarities": [
+                42.22,
+                26.71,
+                31.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 1 Corinthians 7:13, the Apostle discusses the issue of divorce in mixed marriages. He acknowledges that both husband and wife have the ability to divorce, but emphasizes that the Christian party should not exercise this power. By using the term leave, he refers to the wife's right to divorce according to Greek and Roman customs. The advice given is to stay committed to the marriage unless it becomes unbearable or unsafe. This guidance reflects the teachings of the Gospel and aims to promote Christian values in marriage.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8755306647756316,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                44.4,
+                26.14,
+                29.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle tackles the issue of divorce in mixed marriages, highlighting the Christian party's responsibility to preserve the union. He acknowledges that both husband and wife possess the power to divorce, with the term leave referring to the wife's ability in particular, according to ancient customs. However, he urges the Christian spouse not to exercise this right and instead remain committed to the marriage. This guidance reflects the Gospel's teachings, demonstrating the superiority of the Christian party and advocating for the promotion of Christian values in marital relationships.",
+            "wordCount": 91,
+            "quoteTokenProportion": 22.41,
+            "qualityScore": 1.747279703483466,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                44.58,
+                23.97,
+                31.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle discusses divorce in mixed marriages and emphasizes that the Christian party should not separate from their nonbelieving spouse. He acknowledges the wife's power to divorce according to Greek and Roman law but advises against it. The advice given is to stay committed to the marriage, unless it becomes unbearable or unsafe. This counsel reflects the teachings of the Gospel and aims to promote Christian values, serving as a testimony to others and spreading the knowledge of Christianity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8233071459649737,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                39.89,
+                28.69,
+                31.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

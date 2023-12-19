@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:17:24",
+    "verseRef": "Luke 10:9",
+    "bestBHT": {
+        "bht": "The kingdom of God is come nigh unto you is a later announcement than generally, \u201cthe kingdom of God is at hand,\u201d reflecting the close proximity of God's kingdom. The disciples are instructed to heal the sick, which not only showcases their authority and compassion, but also signifies the arrival of the Gospel dispensation and the nearness of the Messiah himself.",
+        "wordCount": 62,
+        "quoteTokenProportion": 39.53,
+        "qualityScore": 1.7325700176902978,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+        "commentatorTierSimilarities": [
+            46.07,
+            19.25,
+            34.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] The kingdom of God is come nigh unto you is a later announcement than generally, \u201cthe kingdom of God is at hand,\u201d Matt. x. 7."
+        ],
+        "Philip Schaff": [
+            "Luke 10:9. Heal the sick. A less extended commission than that of Matthew 10:8.",
+            "\t",
+            " The kingdom of God is come nigh unto you. This indicates a later message than Matthew 10:7.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Is come nigh unto you (\u03b7\u03b3\u03b3\u03b9\u03ba\u03b5\u03bd \u03b5\u03c6' \u03c5\u03bc\u03b1\u03c2). Perfect active indicative of \u03b5\u03b3\u03b3\u03b9\u03b6\u03c9 as in Matthew 3:2 of the Baptist and Mark 1:15 of Jesus. Note \u03b5\u03c6' \u03c5\u03bc\u03b1\u03c2 here. "
+        ],
+        "John Gill": [
+            "And heal the sick that are therein,.... Of all their bodily diseases, which would not only show their power and warrant, theft mission and commission, but also their goodness and beneficence to men; and would be a sufficient return for what they ate and drank.",
+            "Say unto them; not only to the sick that are healed, and those in the house in which they were, but to all the inhabitants of the city.",
+            "The kingdom of God is come nigh unto you: the Gospel dispensation, the kingdom of the Messiah, and even the Messiah himself, as might be concluded from the miracles they wrought."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The kingdom of God is come nigh unto you, a message proclaimed later than the previous announcement, emphasizes the closeness and immediacy of God's kingdom. The disciples are instructed to heal the sick, demonstrating both their authority and compassion. This commission is less extensive than the one given in Matthew, but still reflects the disciples' power and the goodness they bring to those in need. By healing the sick, the disciples show the arrival of the Gospel dispensation and the nearness of the Messiah himself.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.4562307757549031,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.76,
+            "commentatorTierSimilarities": [
+                33.07,
+                24.85,
+                42.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The kingdom of God is come nigh unto you, a message proclaimed later than the previous announcement, emphasizes the closeness and immediacy of God's kingdom. The disciples are instructed to heal the sick, demonstrating both their authority and compassion. By healing the sick, the disciples show the arrival of the Gospel dispensation and the nearness of the Messiah himself.",
+            "wordCount": 60,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 1.4781410221038898,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.49,
+            "commentatorTierSimilarities": [
+                34.58,
+                21.77,
+                43.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The kingdom of God is come nigh unto you is a later announcement than generally, \u201cthe kingdom of God is at hand,\u201d reflecting the close proximity of God's kingdom. The disciples are instructed to heal the sick, which not only showcases their authority and compassion, but also signifies the arrival of the Gospel dispensation and the nearness of the Messiah himself.",
+            "wordCount": 62,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.7325700176902978,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+            "commentatorTierSimilarities": [
+                46.07,
+                19.25,
+                34.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The kingdom of God is come nigh unto you, a message proclaimed later than the previous announcement, emphasizes the closeness and immediacy of God's kingdom. The disciples are instructed to heal the sick, demonstrating both their authority and compassion. By healing the sick, the disciples show the arrival of the Gospel dispensation and the nearness of the Messiah himself. This commission reflects the disciples' power and the goodness they bring to those in need.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.3465278303845947,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.12,
+            "commentatorTierSimilarities": [
+                31.14,
+                23.45,
+                45.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The kingdom of God is come nigh unto you is a later announcement than generally, \u201cthe kingdom of God is at hand,\u201d reflecting the close proximity of God's kingdom. The disciples are instructed to heal the sick, which not only showcases their authority and compassion but also signifies the arrival of the Gospel dispensation and the nearness of the Messiah himself. This commission reflects the disciples' power and the goodness they bring to those in need.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.4722760968691018,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.3,
+            "commentatorTierSimilarities": [
+                39.42,
+                21.87,
+                38.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

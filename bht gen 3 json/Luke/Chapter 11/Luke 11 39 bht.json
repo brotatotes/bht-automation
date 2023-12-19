@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:18:45",
+    "verseRef": "Luke 11:39",
+    "bestBHT": {
+        "bht": "Jesus delivers a powerful rebuke to the Pharisees, emphasizing the contrast between their external observance and their inward motives. The Lord uses the analogy of a cup and platter to illustrate this point, denouncing their hypocrisy and exposing their hearts filled with ravening and wickedness. This serves as a reminder that true worship involves a sincere purification of both external actions and internal motives.",
+        "wordCount": 64,
+        "quoteTokenProportion": 26.09,
+        "qualityScore": 1.8769383813392606,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+        "commentatorTierSimilarities": [
+            27.08,
+            34.08,
+            38.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His solemn work of reproof and teaching was never suspended out of mere compliment.",
+            "The outside and the inward part of a man, are not the outside and inside of the body\u2014but the outside apparent conduct, and the inner unseen motives.",
+            "But the fact is, that the parable and its interpretation are intermixed throughout the whole, the mind of the hearer being left to find its own way in allotting each its part."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "39-41. cup and platter\u2014remarkable",
+            "\texample of our Lord's way of drawing the most striking illustrations",
+            "\tof great truths from the most familiar objects and incidents of life.",
+            "\t",
+            "ravening\u2014rapacity."
+        ],
+        "Albert Barnes": [
+            "Their food was procured by dishonesty and extortion.",
+            "This was a most terrible charge.",
+            "Even in the Pharisee's own house, and when expressly invited to partake of his hospitality, he loved his soul so much that he faithfully warned him of his crimes."
+        ],
+        "Marvin Vincent": [
+            "Platter [\u03c0\u03b9\u03bd\u03b1\u03ba\u03bf\u03c2] . The word rendered charger in Matthew 14:8, on which see note. Compare, also, paroyiv, platter, Matthew 23:25."
+        ],
+        "John Calvin": [
+            "It is in vain to serve God by the commandments of men.",
+            "He condemns generally the error of worshipping God by ceremonies, and not spiritually, by faith and a pure affection of the heart.",
+            "The chief reason why men are deceived is, that they do not consider that they have to deal with God, or, they transform Him according to the vanity of their senses."
+        ],
+        "Philip Schaff": [
+            "The outside of the cup and of the platter. Comp. Matthew 23:25. The reference is to their ceremonial observances, but the contrast differs from that in Matthew.",
+            "The outwardly purified cup is opposed to the inwardly corrupted heart of the drinker; external conduct to inner unseen motives.",
+            "The comparison is less exact, since the figure and the reality are joined."
+        ],
+        "Archibald T. Robertson": [
+            "You Pharisees do now what was formerly done.",
+            "They keep the external regulations, but their hearts are full of plunder and wickedness.",
+            "Both inside and outside should be clean, but the inside first."
+        ],
+        "John Gill": [
+            "Now do ye Pharisees make clean the outside of the cup, and the platter...but your inward part is full of ravening and wickedness.",
+            "...their souls, which were full of all manner of sin, the cleansing and purity of which they had no concern about.",
+            "...the vessels which were filled with meat and drink got by extortion, rapine, and oppression."
+        ],
+        "John Wesley": [
+            "Now ye Pharisees \u2014 Probably many of them were present at the Pharisee's house. Matthew 23:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus teaches a powerful lesson in Luke 11:39, emphasizing that his work of reproof and teaching was never out of mere compliment. He uses the analogy of the outside and inward parts of a man, highlighting the importance of both apparent conduct and unseen motives. The Pharisees are rebuked for their hypocrisy, as they meticulously follow external regulations while being filled with plunder and wickedness. Jesus calls for both the inside and outside to be clean, putting emphasis on the cleansing of the heart rather than mere external observance. These words serve as a warning against a superficial faith and remind us that true devotion to God goes beyond outward rituals to a pure affection of the heart.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.52,
+            "qualityScore": 1.8163390846635963,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                30.23,
+                29.72,
+                40.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus teaches a powerful lesson in this passage, emphasizing that his work was never a mere compliment and that both the outward conduct and unseen motives of a person are important. The Pharisees are rebuked for their hypocrisy, meticulously following external regulations while being filled with plunder and wickedness. Jesus calls for both the inside and outside to be clean, highlighting the importance of cleansing the heart rather than focusing on external observance. This serves as a warning against superficial faith and reminds us to cultivate a genuine devotion to God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.821038544367461,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                28.28,
+                29.01,
+                42.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus teaches a powerful lesson, emphasizing that his work was never a mere compliment. The Pharisees are rebuked for their hypocrisy, meticulously following external regulations while being filled with plunder and wickedness. Jesus calls for the inside and outside to be clean, highlighting the importance of cleansing the heart rather than focusing on external observance. This serves as a warning against superficial faith, reminding us to cultivate a genuine devotion to God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7301785356850554,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                27.78,
+                29.05,
+                43.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus delivers a powerful rebuke to the Pharisees, highlighting the stark contrast between their external observance and their inward motives. The Lord uses the analogy of a cup and platter to illustrate this point, urging them to cleanse the inside first before focusing on the outside. He denounces their hypocrisy, exposing their hearts filled with ravening and wickedness. This passage serves as a reminder that true worship involves a sincere purification of both our external actions and internal motives.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.816977365215207,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                27.1,
+                32.45,
+                40.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus delivers a powerful rebuke to the Pharisees, emphasizing the contrast between their external observance and their inward motives. The Lord uses the analogy of a cup and platter to illustrate this point, denouncing their hypocrisy and exposing their hearts filled with ravening and wickedness. This serves as a reminder that true worship involves a sincere purification of both external actions and internal motives.",
+            "wordCount": 64,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 1.8769383813392606,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                27.08,
+                34.08,
+                38.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

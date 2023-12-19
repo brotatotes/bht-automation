@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:20:09",
+    "verseRef": "Colossians 1:16",
+    "bestBHT": {
+        "bht": "All things, visible and invisible, were created in Christ, as He is the reason for and source of creation. He contains the ideal ground for existence and is the instrument for realizing the divine idea. Through Him, the original relation between God and humanity is restored. In Him resides the creative will and energy, making creation dependent on Him. This establishes the Christocentric nature of the universe, with all things converging toward Christ as their consummation.",
+        "wordCount": 76,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 2.0180556938800143,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+        "commentatorTierSimilarities": [
+            40.93,
+            33.0,
+            26.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In Him were all things created... things visible and things invisible, whether thrones, whether lordships, whether governments, whether authorities.",
+            "For Christian faith it remains fixed, and it is sufficient, that there is testimony borne to the existence of different degrees and categories in the world of spirits above.",
+            "He is the end of creation, containing the reason in Himself why creation is at all, and why it is as it is."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'in Him' indicates that the Word is the ideal ground of all existence; the 'by Him,' below, that He is the instrument of actually realizing the divine idea.",
+            "The original relation of the Eternal Word to men 'made in His image' is the source of the new relation to them by redemption, formed in His incarnation, whereby He restores them to His lost image.",
+            "He is the final cause as well as the efficient cause."
+        ],
+        "Albert Barnes": [
+            "The phrase which is used here by the apostle is universal. He does not declare that he created all things in the spiritual kingdom of God, or that he arranged the events of the gospel dispensation... but that every thing was created by him.\" ",
+            "There could not possibly be a more explicit declaration that the universe was created by Christ, than this.\" ",
+            "The importance of the doctrine, and the fact that it was probably denied by false teachers, or that they held philosophical opinions that tended to its practical denial, are the reasons why the apostle dwells so particularly on this point."
+        ],
+        "Marvin Vincent": [
+            "In Him, within the sphere of His personality, resides the creative will and the creative energy, and in that sphere the creative act takes place. Thus creation was dependent on Him.\" ",
+            "Thrones, dominions, principalities, powers. In Titus 3:1, they refer to earthly dignities, and these are probably included in 1 Corinthians 14:24... The primary reference is, no doubt, to the celestial orders; but the expressions 'things on earth' indicate that it may possibly include earthly dignities.\" ",
+            "All things, as they had their beginning in Him, tend to Him as their consummation, to depend on and serve Him."
+        ],
+        "John Calvin": [
+            "Not only, therefore, have those heavenly creatures which are visible to our eyes, but spiritual creatures also, been created by the Son of God.",
+            "By thrones some understand Angels... we are not to imagine to be such as our mind can conceive of, but such as is suitable to God himself.",
+            "These things it becomes us to understand in such a manner as to detract nothing from the glory of God alone; for he does not communicate his power to angels as to lessen his own; he does not work by them in such a manner as to resign his power to them."
+        ],
+        "Philip Schaff": [
+            "The reference here is to the past fact, in the last clause of the verse the present is emphasized. Since \u2018all things\u2019 is expanded in what follows, the verse abundantly sustains the view taken of Colossians 1:15. The Person there referred to cannot be a part of the creation.",
+            "To the distinction of place, that of nature is added. There is no necessity for making this pair correspond exactly with the last, although \u2018things invisible\u2019 refers mainly to the heavenly world of spirits, which are classified in what follows.",
+            "All three phrases are needed to indicate the relation of the Son to creation. Comp. Romans 11:36, where the same terms ('through' and 'unto') are applied to the Father; \u2018but of Him\u2019 is never applied to the Son."
+        ],
+        "Archibald T. Robertson": [
+            "The whole of creative activity is summed up in Christ including the angels in heaven and everything on earth.\" ",
+            "The permanence of the universe rests, then, on Christ far more than on gravity. It is a Christo-centric universe.\" ",
+            "This is the only remaining step to take and Paul takes it... See Ephesians 1:10 for similar use of \u03b5\u03bd \u03b1\u03c5\u03c4\u03c9 of Christ."
+        ],
+        "John Gill": [
+            "The creation of all things, by him, is not to be understood of the new creation, for whenever that is spoken of, the word 'new' is generally used, or what is equivalent to it, or some clause or phrase added, which determines the sense, and is not the case here.",
+            "These are divided as to the subject of them, or place where they are, into things that are in heaven, and that are in earth.",
+            "The apostle seems to have in view, and to oppose some notions of some heretics of his time, the followers of Simon Magus, who held, that the angels were created by his Helena; or, as others, by what they call 'Ennea', and that these angels created the world, and are to be worshipped; but he here affirms, that all things were created by him, by Christ, even all the angels; and therefore he, and not they, are to be worshipped."
+        ],
+        "John Wesley": [
+            "Through implies something prior to the particles by and for; so denoting the beginning, the progress, and the end.",
+            "Him \u2014 This word, frequently repeated, signifies his supreme majesty, and excludes every creature.",
+            "Invisible \u2014 The several species of which are subjoined. Thrones are superior to dominions; principalities, to powers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Colossians 1:16, it is revealed that all things, both visible and invisible, were created in Christ. He is the end and reason for creation, containing within Himself the ideal ground for existence and the instrument for bringing the divine idea to fruition. This verse emphasizes that the Word is not only the source of the new relation between God and man through redemption, but also the original relation before the fall. All things, whether in heaven or on earth, find their purpose and ultimate fulfillment in Christ. In Him resides the creative will and energy, making creation dependent on Him. This verse establishes the Christocentric nature of the universe, with all things converging toward Christ as their consummation.",
+            "wordCount": 118,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 2.1146926068222616,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+            "commentatorTierSimilarities": [
+                35.77,
+                36.5,
+                27.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All things, visible and invisible, were created in Christ, as He is the reason for and source of creation. He contains the ideal ground for existence and is the instrument for realizing the divine idea. Through Him, the original relation between God and humanity is restored. In Him resides the creative will and energy, making creation dependent on Him. This establishes the Christocentric nature of the universe, with all things converging toward Christ as their consummation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.0180556938800143,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                40.93,
+                33.0,
+                26.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Christ, all things were created, visible and invisible, including thrones, lordships, governments, and authorities. He is the end and reason for creation, containing within Himself the divine idea and serving as the efficient cause. This verse establishes the Christocentric nature of the universe, where all things, both in heaven and on earth, find their purpose and fulfillment in Him. He is the source of creation, the restorer of the lost image of humanity, and the final cause and consummation of all things.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1463069877305503,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+            "commentatorTierSimilarities": [
+                37.56,
+                34.01,
+                28.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Him, all things, visible and invisible, were created, including thrones, dominions, governments, and authorities. He is the creative will and energy behind creation, the ideal ground for existence. Christ serves as the efficient cause and the reason for all that exists. This verse highlights the Christocentric nature of the universe, where everything finds its purpose and ultimate fulfillment in Him. Through redemption, He restores the original relation between God and humanity, reestablishing His lost image in them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9479721791831421,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.11,
+            "commentatorTierSimilarities": [
+                40.06,
+                32.41,
+                27.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Christ, all things visible and invisible were created, including thrones, lordships, governments, and authorities. He is the end of creation and contains the reason for its existence. He is both the ideal ground and the instrument for realizing the divine idea. The creative will and energy reside in Him, making creation dependent on His sphere of personality. Both heavenly and earthly dignities find their purpose and serve Him, leading to a Christo-centric universe.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9483776018396877,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.12,
+            "commentatorTierSimilarities": [
+                42.62,
+                29.86,
+                27.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

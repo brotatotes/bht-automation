@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:03:32",
+    "verseRef": "1 Corinthians 3:23",
+    "bestBHT": {
+        "bht": "You all belong to Christ, not just a specific group among you, but each and every one of you. Christ, though equal to God, submits Himself to the Father as a Mediator. All the virtues we possess can be credited to Him. Our affiliation with Christ provides us with a secure connection to the eternal throne. Rather than boasting in men, we should boast in God and Christ, who have been made wisdom, righteousness, sanctification, and redemption for us. We are Christ's, His property, His subjects, His members, for Christ belongs to God, referring all His services to His Father's glory.",
+        "wordCount": 103,
+        "quoteTokenProportion": 51.47,
+        "qualityScore": 1.9283431147564383,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+        "commentatorTierSimilarities": [
+            34.19,
+            26.36,
+            39.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Christ is not yours, in the sense in which all things are,\u2014not made for and subserving you\u2014but you are His.\" ",
+            "CHRIST HIMSELF, the Incarnate God the Mediator, belongs to God, is subordinate to the Father.",
+            "This mediatorial subordination is in no way inconsistent with His eternal and co-equal Godhead."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ye are Christ's\u2014not Paul's, or Apollos', or Cephas'.",
+            "Not merely a particular section of you, but ye all are Christ's.",
+            "God is the ultimate end of all, even of Christ, His co-equal Son."
+        ],
+        "Albert Barnes": [
+            "The very fact of the existence of such strife is a proof of the existence of such feelings somewhere.",
+            "Whatever of humility, faith, love, joy, peace, or purity we may have, is all to be traced to him.",
+            "How pure should people be in whom the Holy Spirit dwells! How single should be their aims! How constant their self-denials!"
+        ],
+        "Marvin Vincent": [
+            "Ye are Christ 's. A summary of the title following the inventory. Compare Romans 8:17. "
+        ],
+        "John Calvin": [
+            "The sum of our felicity consists in this, that we are united to God who is the chief good.",
+            "Those who depart from the unity of the Head are left destitute of that signal blessing.",
+            "Those subject themselves to Christ alone, who desire to remain under God\u2019s jurisdiction."
+        ],
+        "Philip Schaff": [
+            "What a climax, and an anti-climax too, from all things down to ourselves, and from ourselves up again to God!",
+            "We are not our own...we are Christ\u2019s, and none can pluck us out of His hands.",
+            "Through Him that loved and gave Himself for us, those who are His are secured by a golden chain reaching up to the eternal throne."
+        ],
+        "John Gill": [
+            "They are Christ's, he has an interest in them, and they in him; they are his, not only by creation, as all men are, but by the Father's special gift of them to him.",
+            "Their worst things are his; their sins are accounted to him, and laid on him by imputation, and have been bore and done away by him: their griefs and sorrows are his, their reproaches his, and their afflictions and sufferings his.",
+            "The saints should not glory in men, though ever so great and good, but in God, and in Christ, as of God, made unto them wisdom, righteousness, sanctification, and redemption."
+        ],
+        "John Wesley": [
+            "And ye are Christ's \u2014 His property, his subjects. his members.",
+            "And Christ is God's \u2014 As Mediator, he refers all his services to his Father's glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Ye are Christ's, not merely a particular section of you, but ye all are His. Christ Himself, the Incarnate God the Mediator, belongs to God, is subordinate to the Father. This mediatorial subordination is in no way inconsistent with His eternal and co-equal Godhead. Whatever of humility, faith, love, joy, peace, or purity we may have, is all to be traced to Him. Through Him that loved and gave Himself for us, those who are His are secured by a golden chain reaching up to the eternal throne. The saints should not glory in men, though ever so great and good, but in God, and in Christ, as of God, made unto them wisdom, righteousness, sanctification, and redemption. And ye are Christ's - His property, His subjects, His members. And Christ is God's - As Mediator, He refers all His services to His Father's glory.",
+            "wordCount": 148,
+            "quoteTokenProportion": 44.94,
+            "qualityScore": 2.0863158654174923,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+            "commentatorTierSimilarities": [
+                34.72,
+                27.51,
+                37.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You all belong to Christ, not just a specific group among you, but each and every one of you. Christ, though equal to God, submits Himself to the Father as a Mediator. All the virtues we possess can be credited to Him. Our affiliation with Christ provides us with a secure connection to the eternal throne. Rather than boasting in men, we should boast in God and Christ, who have been made wisdom, righteousness, sanctification, and redemption for us. We are Christ's, His property, His subjects, His members, for Christ belongs to God, referring all His services to His Father's glory.",
+            "wordCount": 103,
+            "quoteTokenProportion": 51.47,
+            "qualityScore": 1.9283431147564383,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                34.19,
+                26.36,
+                39.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You are all Christ's, not just a select few, but every single one of you. Christ, though equal to God, willingly submits to the Father as the Mediator. Every virtue and blessing we possess can be attributed to Him. Through His sacrificial love, we are securely held in His hands and connected to the eternal throne. Rather than boasting in human leaders, we should glorify God and recognize that it is in Christ alone that we find wisdom, righteousness, sanctification, and redemption.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.8562139974326326,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+            "commentatorTierSimilarities": [
+                32.56,
+                30.39,
+                37.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Ye all are Christ's, not merely a particular section of you, but every single one of you. Though equal to God, Christ submits to the Father as the Mediator. All the humility, faith, and purity we possess can be traced back to Him. Through His love and sacrifice, we are securely held in His hands, connected to the eternal throne. So instead of boasting in human leaders, let us glorify God and recognize that true wisdom, righteousness, sanctification, and redemption are found in Christ alone.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.891028594801903,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                32.94,
+                31.25,
+                35.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Ye all are Christ's, not merely a particular section but every single one of you. Christ, though equal to God, submits to the Father as the Mediator. All the humility, faith, and purity we possess can be traced back to Him. Through His love and sacrifice, we are securely held in His hands, connected to the eternal throne. So instead of boasting in human leaders, let us recognize that true wisdom, righteousness, sanctification, and redemption are found in Christ alone and glorify God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.9228089879200108,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.27,
+            "commentatorTierSimilarities": [
+                33.33,
+                30.69,
+                35.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

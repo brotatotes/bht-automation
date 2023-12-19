@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:24:03",
+    "verseRef": "Luke 24:12",
+    "bestBHT": {
+        "bht": "Upon arriving at the tomb, Peter noticed the linen clothes laid by themselves, signifying a shared origin with another similar account. Peter's mention alone seems incongruous, while the term clothes specifically refers to the linen bandages utilized for wrapping the body. Stooping down and peering inside, Peter observed that the body was absent, yet the clothes were left behind. This enigmatic circumstance perplexed him, leaving him unable to make sense of it - the missing body alongside the presence of the clothes was a puzzling conundrum.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.726523128309566,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+        "commentatorTierSimilarities": [
+            24.96,
+            36.28,
+            38.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The similarity in diction to John xx. 5, 10\u2014 ( 'stooping down he beheld the linen clothes laid by themselves,' and 'went away home,' being common to the two passages) indicates a common origin.",
+            "The only reason for the insertion would be, to tally with ver. 24, and in that case it certainly would not mention Peter alone.",
+            "That Cleopas bak ver. 24, certain of them that were with us went,&c. must not be pressed too much, although it does certainly look as if he knew of more than one."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. Peter, &amp;c.\u2014(See on :-). ",
+            "\t",
+            " :-. CHRIST",
+            "\tAPPEARS TO THE TWO",
+            "\tGOING TO EMMAUS."
+        ],
+        "Marvin Vincent": [
+            "Stooping down.\" ",
+            "The best texts omit this verse.\" ",
+            "Clothes. Not garments, but the linen bandages in which the body had been rolled."
+        ],
+        "John Calvin": [
+            "Luke here inverts the order of the narrative, as may be readily inferred from the words of John.",
+            "The word ran (\u1f14\u03b4\u03c1\u03b1\u03bc\u03b5\u03bd) might justly be rendered as a pluperfect tense, had run.",
+            "Luke mentions this circumstance for the purpose of showing more strongly the obstinacy of the apostles ill despising the words of the women."
+        ],
+        "Philip Schaff": [
+            "The unbelief just mentioned is contrasted with the conduct of impulsive Peter.",
+            "The details agree so closely with John's account that we must suppose the two Evangelists speak of the same visit.",
+            "It is his habit to go on with one line of thought, and afterwards to insert an omitted detail, in logical, rather than chronological, connection."
+        ],
+        "Archibald T. Robertson": [
+            "Stooping and looking in (\u03c0\u03b1\u03c1\u03b1\u03ba\u03c5\u03c8\u03b1\u03c2). First aorist active participle of \u03c0\u03b1\u03c1\u03b1\u03ba\u03c5\u03c0\u03c4\u03c9, to stoop besides and peer into.\" ",
+            "By themselves (\u03bc\u03bf\u03bd\u03b1). Without the body.",
+            "To his home (\u03c0\u03c1\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03bd). Literally, 'to himself.'"
+        ],
+        "John Gill": [
+            "So that it was a plain case, the body was not stolen, nor taken away; for neither friends, nor foes, would have taken the pains, or have lost so much time, as to have stripped the body...\" ",
+            "He could not tell what to make of it. As for a resurrection, he had no notion of that, and yet could not account for the removal of the body, either by friends or foes, and the clothes left behind.",
+            "The body should not be there, and yet the clothes should remain; he could not tell what to make of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Peter arrived at the tomb, he stooped down and saw the linen clothes laid by themselves. The mention of Peter alone in the verse is unlikely, and it seems to be connected to John's account. The linen bandages, not garments, were left behind. Peter stooped and peered into the tomb, where the body was not present but the clothes remained. This inversion of the narrative in Luke serves to highlight the apostles' disbelief in the women's words. Peter couldn't make sense of the situation. The body was not stolen, but neither could he account for its removal or the presence of the clothes. It was a perplexing mystery.",
+            "wordCount": 112,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.5506104739977373,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.9,
+            "commentatorTierSimilarities": [
+                23.96,
+                34.84,
+                41.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Peter arrived, he found the linen clothes laid by themselves. The mention of Peter alone would not align with the other account. The body was not stolen, as the clothes were left behind. Peter stooped and peered into the empty tomb, unable to comprehend the situation. It was a strange and perplexing mystery, as the body was missing but the clothes remained. The apostles struggled to believe the women's testimony and make sense of the events that unfolded.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5637025654309094,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.34,
+            "commentatorTierSimilarities": [
+                22.96,
+                34.76,
+                42.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Peter arrived at the tomb, he stooped down and beheld the linen clothes laid by themselves. The mention of Peter alone is an unlikely insertion to match another verse, and the linen clothes referred to the linen bandages used to wrap the body. Peter stooped and looked in to see that the body was not there, but the clothes were left behind. He was confused and couldn't make sense of the situation. The missing body and the presence of the clothes perplexed him, leaving him at a loss for an explanation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.610739162912167,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                24.8,
+                32.54,
+                42.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Arriving at the tomb, Peter found the linen clothes laid by themselves, indicating a common origin with another passage. The mention of Peter alone seems to be a mismatch with the context, while the clothes refer to the linen bandages used to wrap the body. Stooping down and looking in, Peter saw that the body was missing but the clothes remained. This perplexing situation left him unable to comprehend what had happened - the absence of the body and the presence of the clothes puzzled him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.732622241835967,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+            "commentatorTierSimilarities": [
+                25.65,
+                32.59,
+                41.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon arriving at the tomb, Peter noticed the linen clothes laid by themselves, signifying a shared origin with another similar account. Peter's mention alone seems incongruous, while the term clothes specifically refers to the linen bandages utilized for wrapping the body. Stooping down and peering inside, Peter observed that the body was absent, yet the clothes were left behind. This enigmatic circumstance perplexed him, leaving him unable to make sense of it - the missing body alongside the presence of the clothes was a puzzling conundrum.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.726523128309566,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                24.96,
+                36.28,
+                38.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

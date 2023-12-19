@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:16:29",
+    "verseRef": "Luke 7:39",
+    "bestBHT": {
+        "bht": "The Pharisee, in his assumption that Jesus cannot be a prophet because He allows a notorious woman to touch Him, fails to comprehend the true nature and purpose of Jesus. Unbeknownst to the Pharisee, Jesus knows the woman's character and purposefully permits her to approach Him. The objection from the Pharisee is merely a technical and ceremonial offense, while Jesus, the true Messiah, extends His mercy and forgiveness to sinners like this woman, exemplifying His mission to save the lost.",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 2.1087085978897018,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.46,
+        "commentatorTierSimilarities": [
+            23.44,
+            37.94,
+            38.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Pharisee assumes that our Lord did not know who, or of what sort, this woman was, and thence doubts His being a prophet.",
+            "The possibility of His knowing this and permitting it, never so much as occurs to him.",
+            "His offence is merely technical and ceremonial."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ha! I have Him now He plainly knows nothing of the person He allows to touch Him; and so, He can be no prophet.",
+            "Not so fast, Simon; thou hast not seen through thy Guest yet, but He hath seen through thee.",
+            "He hath seen through thee."
+        ],
+        "Albert Barnes": [
+            "If Jesus had been sent from God as a prophet, he supposed that he would have known the character of the woman and would have rebuked her.",
+            "Because Jesus did not rebuke her and drive her from his presence, he inferred that he could not be acquainted with her character.",
+            "Jesus did not refuse the society of the guilty. He came to save the lost; and no person ever came to him so sure of finding a 'friend,' as those who came conscious that they were deeply depraved, and mourning on account of their crimes."
+        ],
+        "Philip Schaff": [
+            "A prophet would know what others must learn; this man cannot be a prophet, for He does not know who is touching Him.\" ",
+            "The main error was in the last thought; for our Lord did allow Himself to be touched by such a person.",
+            "The objection of the Pharisee was against the touch by an unclean person; a technical, ceremonial, and Pharisaical one."
+        ],
+        "Archibald T. Robertson": [
+            "This man. Contemptuous, this fellow.",
+            "If he were a (the) prophet. The Pharisee assumes that Jesus is not a prophet.",
+            "Who and what manner of woman. She was notorious in person and character."
+        ],
+        "John Gill": [
+            "Christ, had he been a prophet, would have known that this woman was a vile creature; and he would have shown it; by his abhorrence and rejection of her.",
+            "Their notion with respect to the conduct of religious persons towards the common people, and those of a bad character, was that the touch of such persons was defiling, and therefore to be avoided.",
+            "Jesus, the true Messiah,\u00a0knew who were sinners, he knew this woman to be one, as the following account shows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisee arrogantly assumes that Jesus, if He were truly a prophet sent from God, would have known the character of the woman who was touching Him and would have rebuked her. In the Pharisee's mind, Jesus not only fails to know who this woman is, but also permits her to touch Him, which is seen as a ritualistic and ceremonial offense. Little does Simon know, Jesus sees through his judgmental thoughts and exposes his hypocrisy. The objection of the Pharisee is purely based on legalistic and external matters, failing to grasp the true nature and purpose of Jesus who came to save the lost, including those who are deeply depraved and in need of His mercy and forgiveness.",
+            "wordCount": 120,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 2.090225774786074,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.84,
+            "commentatorTierSimilarities": [
+                23.09,
+                38.49,
+                38.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisee assumes that Jesus, if He were truly a prophet, would have known the character of the woman and would have rebuked her instead of permitting her to touch Him. However, Jesus sees through the Pharisee's judgmental thoughts and exposes his hypocrisy. The objection is grounded in legalistic and ceremonial matters, failing to understand Jesus' true purpose: to save the lost and show mercy to those in need of forgiveness.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9795627336716013,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                23.23,
+                37.97,
+                38.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisee assumes that Jesus, if He were truly a prophet, would have known the character of the woman and would have rebuked her instead of permitting her to touch Him. However, Jesus sees through the Pharisee's thoughts and exposes his hypocrisy. The objection is grounded in legalistic and ceremonial matters, failing to understand Jesus' true purpose: to save the lost and show mercy to those in need of forgiveness.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.9883059721524785,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                23.75,
+                38.24,
+                38.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisee assumes that Jesus, if He were truly a prophet, would not have allowed the woman, known for her notorious character, to touch Him. However, Jesus sees through the Pharisee's contemptuous thoughts and exposes his ignorance. The objection is purely based on ceremonial and technical reasons, lacking an understanding of Jesus' mission to save the lost and extend mercy to those in desperate need of forgiveness.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9709460321563714,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                24.58,
+                39.02,
+                36.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisee, in his assumption that Jesus cannot be a prophet because He allows a notorious woman to touch Him, fails to comprehend the true nature and purpose of Jesus. Unbeknownst to the Pharisee, Jesus knows the woman's character and purposefully permits her to approach Him. The objection from the Pharisee is merely a technical and ceremonial offense, while Jesus, the true Messiah, extends His mercy and forgiveness to sinners like this woman, exemplifying His mission to save the lost.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.1087085978897018,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.46,
+            "commentatorTierSimilarities": [
+                23.44,
+                37.94,
+                38.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

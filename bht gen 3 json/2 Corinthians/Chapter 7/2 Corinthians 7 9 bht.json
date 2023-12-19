@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:16:56",
+    "verseRef": "2 Corinthians 7:9",
+    "bestBHT": {
+        "bht": "The Corinthians experienced a sorrow that worked repentance, fostering a mindset focused on God's perspective and bringing about beneficial effects. Instead of rejoicing in their sorrow itself, Paul rejoices in the fact that their sorrow led to genuine repentance. This godly sorrow, different from mere regret, resulted in a moral change and was intended by God for their ultimate good. By aligning their hearts with God and sorrowing after a godly manner, they were protected from harm and received the salutary moral results of true repentance.",
+        "wordCount": 87,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 2.5093286354095747,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.77,
+        "commentatorTierSimilarities": [
+            34.13,
+            34.03,
+            31.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Now that I know not only of your grief, but of its being grief which worked repentance.\" ",
+            "With a mind regarding God's estimate of your conduct.",
+            "God so brought it about, in order that your grief occasioned by me might have, not an injurious, but a beneficial effect."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I rejoice NOW, not that ye were caused sorrow, but that your sorrow resulted in your repentance.",
+            "your sorrow having regard to God, and rendering your mind conformable to God.",
+            "ye might in nothing receive damage from us, which ye would have received, had your sorrow been other than that 'after a godly manner'."
+        ],
+        "Albert Barnes": [
+            "They are not desirous of making people unhappy by calling them to repentance, and they have no pleasure in the deep distress of mind which is often produced by their preaching, in itself considered.",
+            "It was not mere grief; it was not sorrow producing melancholy, gloom, or despair; it was not sorrow which led you to be angry at him who had reproved you for your errors - as is sometimes the case with the sorrow that is produced by reproof; but it was sorrow that led to a change and reformation.",
+            "Sinners are gainers in happiness in the end by all the pain of repentance produced by the preaching of the gospel. No man suffers loss by being told of his faults if he repents; and people are under the highest obligations to those faithful ministers and other friends who tell them of their errors, and who are the means of bringing them to true repentance."
+        ],
+        "Marvin Vincent": [
+            "Repentance is different from regret...indicating a moral change.\" ",
+            "The salutary moral results of the apostle's letter compensated for the sorrow it caused.",
+            "The epistle which won them to repentance was no damage to them."
+        ],
+        "John Calvin": [
+            "He means, that he feels no pleasure whatever in their sorrow \u2014 nay more, had he his choice, he would endeavor to promote equally their welfare and their joy, by the same means.\" ",
+            "But that as he could not do otherwise, their welfare was of so much importance in his view, that he rejoiced that they had been made sorry unto repentance.\" ",
+            "As, however, it had turned out well, that he had made trial of that kind of cure, he congratulates himself on his success."
+        ],
+        "Philip Schaff": [
+            "Now I rejoice . . . that ye were made sorry unto repentance unto a complete change of mind about this case.\" ",
+            "The sorrow, though sharp, was short and it was salutary, for ye were made sorry after a godly sort.",
+            "The treatment of you proved to be of God for your good."
+        ],
+        "Archibald T. Robertson": [
+            "Sorrow has led to 'repentance' and was not Itself the repentance.",
+            "God's way as opposed to man's way and the devil's way.",
+            "This was God's intention and so he overruled their sorrow to good."
+        ],
+        "John Gill": [
+            "Their sorrow issued in true evangelical repentance, and this was the ground of his rejoicing.",
+            "There is joy in the church below, among the saints and ministers of the Gospel, when either sinners are brought in, or backsliders returned by repentance.",
+            "What gave him so much joy and satisfaction was, that their sorrow was of the right sort; it was a godly sorrow, they sorrowed after; or according to God, according to the will of God, and for sin, as it was committed against him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the transformative power of repentance. The commentator notes that Paul rejoices not in their sorrow itself, but in the fact that their sorrow led to genuine repentance. The sorrow they experienced was not simply regret or remorse, but a deep sorrow that resulted in a moral change. God orchestrated their sorrow in order to bring about a beneficial effect, conforming their minds to His will. This sorrow, which was after a godly manner, protected them from receiving any damage and led them to true repentance. The commentator emphasizes that true repentance brings about a complete change of mind, expressed in sorrow towards God for their actions. Ultimately, their sorrow was turned into joy, as it resulted in their salvation.",
+            "wordCount": 123,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 2.415983948428393,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.67,
+            "commentatorTierSimilarities": [
+                34.33,
+                33.46,
+                32.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The passage reflects on the transformative power of repentance, as the sorrow experienced by the Corinthians led to a genuine change of heart. This sorrow, described as a moral change and a godly sorrow, protected them from harm and allowed them to conform their minds to God's will. The sorrow they felt was not mere regret or remorse, but an essential part of their path to repentance. It is emphasized that this sorrow was intended by God to result in their greatest good.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.4655740219839912,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.32,
+            "commentatorTierSimilarities": [
+                34.04,
+                34.16,
+                31.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians' sorrow was not without purpose, as it led them to a genuine change of heart. This godly sorrow protected them from harm and allowed them to align their minds with God's will. The sorrow they experienced was not mere regret or remorse, but a necessary step in their journey of repentance. It is emphasized that this sorrow was intended by God for their own good, in order to bring about a transformative moral change in their lives.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.3783766987796926,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.42,
+            "commentatorTierSimilarities": [
+                33.04,
+                34.65,
+                32.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians experienced a sorrow that worked repentance, fostering a mindset focused on God's perspective and bringing about beneficial effects. Instead of rejoicing in their sorrow itself, Paul rejoices in the fact that their sorrow led to genuine repentance. This godly sorrow, different from mere regret, resulted in a moral change and was intended by God for their ultimate good. By aligning their hearts with God and sorrowing after a godly manner, they were protected from harm and received the salutary moral results of true repentance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.5093286354095747,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.77,
+            "commentatorTierSimilarities": [
+                34.13,
+                34.03,
+                31.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians' sorrow had a purpose, as it worked repentance and caused a moral change in their lives. Paul rejoices not in their sorrow itself, but in the fact that it led them to genuine repentance. This godly sorrow, distinct from mere regret, resulted in their minds conforming to God's will. It was intended by God to prevent any harm and brought about beneficial effects. Their sorrow, when directed towards God, led them to a transformative repentance that ultimately brought them closer to Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.4507163264654848,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.83,
+            "commentatorTierSimilarities": [
+                34.89,
+                32.5,
+                32.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

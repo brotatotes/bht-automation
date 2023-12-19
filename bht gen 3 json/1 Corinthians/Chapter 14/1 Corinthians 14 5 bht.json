@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:13:01",
+    "verseRef": "1 Corinthians 14:5",
+    "bestBHT": {
+        "bht": "The apostle Paul wishes for the Corinthians to possess the gift of speaking in tongues, but he emphasizes that the higher and more beneficial gift is prophesying. Speaking in tongues without interpretation is unintelligible, whereas prophesying allows everyone to benefit immediately. Paul encourages the Corinthians to prioritize being useful rather than pursuing talents that serve no purpose. All the gifts given by God have a purpose and should be used to build up the church and benefit others.",
+        "wordCount": 78,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 2.0062920815276986,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.05,
+        "commentatorTierSimilarities": [
+            31.03,
+            33.05,
+            35.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He wished them all to speak with tongues, but rather that they should prophesy.",
+            "The distinction between the wishing them all to speak with tongues, as the simple direct object of the wish, and his wishing that they should prophesy, as its higher and ulterior object.",
+            "Superior in usefulness, and therefore in dignity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Now I wish you all to speak with tongues (so far am I from thus speaking through having any objection to tongues), but rather IN ORDER THAT (as my ulterior and higher wish for you) ye should prophesy.\" ",
+            "Tongues must therefore mean languages, not ecstatic, unintelligible rhapsodie",
+            "except he interpret\u2014the unknown tongue which he speaks, 'that the Church may receive edifying (building up)."
+        ],
+        "Albert Barnes": [
+            "I would rejoice if these extraordinary endowments were conferred on all.",
+            "The power of speaking in an unknown tongue was certainly a more striking endowment than that of speaking so as simply to be 'useful,' and yet the apostle tells us that the latter is the more valuable.",
+            "A man who is useful, however humble and unknown he may be, really occupies a more elevated and venerable rank than the man of most splendid talents and dazzling eloquence, who accomplishes nothing in saving the souls of people."
+        ],
+        "John Calvin": [
+            "For God has conferred nothing upon his Church in vain, and languages were of some benefit.\" ",
+            "As it is certain, that the Holy Spirit has here honored the use of tongues with never-dying praise, we may very readily gather, what is the kind of spirit that actuates those reformers, who level as many reproaches as they can against the pursuit of them.",
+            "But it often happens, that the use of a foreign tongue is seasonable. In short, let us simply have an eye to this as our end \u2014 that edification may redound to the Church."
+        ],
+        "Philip Schaff": [
+            "Now I would have you all speak with tongues, but rather that ye should prophesy...because tongues require an interpreter, else they are a heap of unmeaning sounds, whereas by prophecy all may at once benefit.\" ",
+            "Could anything make it clearer that 'speaking with tongues' meant speaking in articulate and actually spoken languages, unknown to the speaker save through an interpreter himself or another?\" ",
+            "All other explanations are forced and inconsistent with the plain facts of the case, while some of them carry absurdity on their face."
+        ],
+        "Archibald T. Robertson": [
+            "Except he interpret (\u03b5\u03ba\u03c4\u03bf\u03c2 \u03b5 \u03bc\u03b7 \u03b4\u03b9\u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03c5\u03b7).",
+            "For use of \u03b5 with subjunctive rather than \u03b5\u03b1\u03bd see Philippians 3:12.",
+            "Receive (\u03bb\u03b1\u03b2\u03b7). Second aorist (ingressive) active subjunctive of \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9, may get edification."
+        ],
+        "John Gill": [
+            "Prophesying was most desirable by him, as being most profitable.",
+            "Greater is he that prophesieth, than he that speaketh with tongues; that is, he is more useful and profitable to men.",
+            "If he could not [interpret], his speaking was to no purpose: hence the apostle advises such an one to pray that he might interpret."
+        ],
+        "John Wesley": [
+            "Greater \u2014 That is, more useful. By this alone are we to estimate all our gifts and talents."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul encourages the Corinthians to prioritize prophesying over speaking in tongues. While he does express his desire for them all to speak in tongues, he also emphasizes that the purpose of this wish is to ultimately encourage prophesying, which is considered superior in usefulness and dignity. Speaking in tongues should be accompanied by interpretation for the edification of the church. The power to speak in tongues may be impressive, but being useful and beneficial to others is of greater value. Therefore, prophesying, which benefits all immediately, is preferred over tongues that require interpretation. Ultimately, the focus should be on edifying the church and using the gifts of the Spirit in a way that benefits everyone.",
+            "wordCount": 117,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.1124621268245405,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+            "commentatorTierSimilarities": [
+                35.73,
+                32.2,
+                32.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul expresses his desire for the Corinthians to speak in tongues, but he ultimately prioritizes prophesying as a more valuable and useful gift. Speaking in tongues without interpretation is meaningless, while prophesying can immediately benefit the entire church. Paul reminds them that all the gifts given by God have a purpose and should be used to edify the church. The focus should be on being useful and profitable to others, rather than pursuing impressive talents that do not contribute to the building up of the body of Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.9351315516082208,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "commentatorTierSimilarities": [
+                29.27,
+                33.2,
+                37.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul desires for the Corinthians to speak in tongues, but he emphasizes the importance of prophesying, which is more valuable and useful in building up the church. Speaking in tongues requires interpretation to have meaning and benefit. Paul encourages the Corinthians to prioritize being useful and profitable to others over pursuing impressive talents. All the gifts given by God have a purpose, and they should be used to edify the church and contribute to the growth of the body of Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.8925556257587721,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                31.08,
+                31.99,
+                36.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul wishes for the Corinthians to possess the gift of speaking in tongues, but he emphasizes that the higher and more beneficial gift is prophesying. Speaking in tongues without interpretation is unintelligible, whereas prophesying allows everyone to benefit immediately. Paul encourages the Corinthians to prioritize being useful rather than pursuing talents that serve no purpose. All the gifts given by God have a purpose and should be used to build up the church and benefit others.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.0062920815276986,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.05,
+            "commentatorTierSimilarities": [
+                31.03,
+                33.05,
+                35.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul desires the Corinthians to possess the gift of speaking in tongues, but he emphasizes that prophesying is a higher and more beneficial gift. Tongues need interpretation to provide edification to the church, while prophesying benefits all immediately. Paul encourages prioritizing usefulness over pursuing talents that serve no purpose. All the gifts from God have a purpose and should be used to build up the church and benefit others.",
+            "wordCount": 69,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.8870953429609563,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                30.08,
+                32.3,
+                37.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

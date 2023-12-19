@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 14:01:08",
+    "verseRef": "1 Thessalonians 5:4",
+    "bestBHT": {
+        "bht": "The coming day of the Lord will take the wicked by surprise, like a thief arriving when people are asleep. However, for those who eagerly watch and long for Him, His coming will not be a surprise; it will be anticipated, longed for, and welcome. Those who have accepted Christ's teachings and have faith in Him are not in darkness, but are children of light. They are awake, prepared, and will not be caught off guard when the day of the Lord comes.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.23,
+        "qualityScore": 2.0852667137719125,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+        "commentatorTierSimilarities": [
+            16.87,
+            48.01,
+            35.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in darkness refers back to 'in the night' above\u2014in the ignorance and moral slumber of the world which knows not God.\" ",
+            "Not, 'that day,' but the DAY\u2014the meaning of the day as distinguished from the darkness being brought out.",
+            "That this is so, is plain from what follows, ver. 5."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "not in darkness\u2014not in darkness of understanding (that is, spiritual ignorance) or of the moral nature (that is, a state of sin)",
+            "with God results are all purposed.",
+            "overtake\u2014unexpectedly (compare John 12:35)."
+        ],
+        "Albert Barnes": [
+            "But ye, brethren, are not in darkness, that that day should overtake you as a thief.\" ",
+            "So, says the apostle, the Lord will come to the wicked. They are like those who are asleep when the thief comes upon them.",
+            "They are, in relation to the coming of the day of the Lord, as people are who are awake when the robber comes. They could see his approach, and could prepare for it, so that it would not take them by surprise."
+        ],
+        "Marvin Vincent": [
+            "Overtake.\" ",
+            "A thief.\" ",
+            "The weight of textual evidence is in favor of the singular."
+        ],
+        "John Calvin": [
+            "The coming of Christ will take by surprise those that are carelessly giving way to indulgence, because, being enveloped in darkness, they see nothing, for no darkness is more dense than ignorance of God.",
+            "We, on the other hand, on whom Christ has shone by the faith of his gospel, differ much from them, for that saying of Isaiah is truly accomplished in us, that while darkness covers the earth, the Lord arises upon us, and his glory is seen in us.",
+            "He calls them children of light, in accordance with the Hebrew idiom, as meaning \u2014 furnished with light; as also children of the day, meaning \u2014 those who enjoy the light of day."
+        ],
+        "Philip Schaff": [
+            "There is nothing appalling to the Christian, in the suddenness of the Lord\u2019s coming, for to those who are waiting and longing for Him, He cannot come as a thief and find them unprepared.",
+            "The full light of day is no surprise to those who have been eagerly watching for the morning. It is anticipated, longed for, welcome.",
+            "Those are \u2018in darkness\u2019 who have not accepted what Christ, the Light of the world, taught; who do not accept His life as their example, nor believe in those principles which it exemplifies."
+        ],
+        "Archibald T. Robertson": [
+            "As a thief (\u03c9\u03c2 \u03ba\u03bb\u03b5\u03c0\u03c4\u03b7\u03c2). As in verse 1 Thessalonians 5:2, but A B Bohairic have \u03ba\u03bb\u03b5\u03c0\u03c4\u03b1\u03c2 (thieves), turning the metaphor round. "
+        ],
+        "John Gill": [
+            "But ye, brethren, are not in darkness... they were not in the dark, but in the light, and so could see when the day of the Lord came...",
+            "that that day should overtake you as a thief... would not be surprised with it, as a man is seized with terror and fright, when laid hold on by a thief...",
+            "since they would be, or at least should be on their watch, and be looking out for, and hasting to the coming of the day of God."
+        ],
+        "John Wesley": [
+            "Ye are not in darkness \u2014 Sleeping secure in sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes that not in darkness means being awake and aware, while overtake means being surprised unexpectedly. The coming day of the Lord will take the wicked by surprise, like a thief arriving when people are asleep. However, for those who eagerly watch and long for Him, His coming will not be a surprise; it will be anticipated, longed for, and welcome. Those who have accepted Christ's teachings and have faith in Him are not in darkness, but are children of light. They are awake, prepared, and will not be caught off guard when the day of the Lord comes.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.106271363710868,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                18.39,
+                45.54,
+                36.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The coming day of the Lord will take the wicked by surprise, like a thief arriving when people are asleep. However, for those who eagerly watch and long for Him, His coming will not be a surprise; it will be anticipated, longed for, and welcome. Those who have accepted Christ's teachings and have faith in Him are not in darkness, but are children of light. They are awake, prepared, and will not be caught off guard when the day of the Lord comes.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.0852667137719125,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                16.87,
+                48.01,
+                35.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wicked, in their moral slumber and ignorance of God, will be caught off guard when the day of the Lord arrives, overtaking them unexpectedly like a thief. However, for those who eagerly await and prepare for His coming, it will not be a surprise. They are not in darkness, but are children of light, aware and awake. The day of the Lord is anticipated and welcomed by those who have embraced Christ's teachings and live in the light of His truth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9648726120958684,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                17.81,
+                45.5,
+                36.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The day of the Lord will come unexpectedly, like a thief in the night, overtaking those in spiritual darkness who are ignorant of God. However, for those who are children of light, who eagerly watch and long for Him, His coming is not a surprise. They are prepared and fully aware, not caught off guard. They have embraced Christ's teachings and live in the light, eagerly anticipating the day of the Lord with joy and readiness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.9028349663432729,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.61,
+            "commentatorTierSimilarities": [
+                17.39,
+                46.55,
+                36.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The day of the Lord will arrive unexpectedly, like a thief, and it will catch those in spiritual darkness off guard. However, for those who eagerly await and prepare for Him, His coming will not be a surprise. They are children of light, fully aware and awake, not caught unprepared. By embracing Christ's teachings and living in the light, they eagerly anticipate the day of the Lord with joy and readiness, longing for His arrival.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9290680576928736,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.48,
+            "commentatorTierSimilarities": [
+                15.87,
+                47.8,
+                36.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

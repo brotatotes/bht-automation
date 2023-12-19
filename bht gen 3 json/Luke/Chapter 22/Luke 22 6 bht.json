@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:22:45",
+    "verseRef": "Luke 22:6",
+    "bestBHT": {
+        "bht": "In the absence of the multitude, Judas promised to hand Jesus over to the Sanhedrin. The word used for promised suggests an open and fair consent or pledge. Judas saw an opportunity during the feast to betray Jesus, laying himself under obligation to deliver him into their hands. Ultimately, he found his chance on the night of the Passover, when he was alone in the garden with his disciples.",
+        "wordCount": 69,
+        "quoteTokenProportion": 45.1,
+        "qualityScore": 1.5510665977285036,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.92,
+        "commentatorTierSimilarities": [
+            37.48,
+            0.0,
+            62.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "6. in the absence, &amp;c.\u2014(See",
+            "\tMatthew 26:5). ",
+            "\t",
+            "Matthew 26:5- :. LAST",
+            "\tPASSOVER\u2014INSTITUTION",
+            "\tOF THE SUPPER\u2014DISCOURSE",
+            "\tAT THE TABLE."
+        ],
+        "Marvin Vincent": [
+            "Promised [\u03b5\u03be\u03c9\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c3\u03b5\u03bd] . See on Matthew 3:6; Matthew 11:25. The idea is that of an open and fair consent or pledge."
+        ],
+        "Archibald T. Robertson": [
+            "Consented (\u03b5\u03be\u03c9\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c3\u03b5\u03bd). Old verb, but the ancients usually used the simple form for promise or consent rather than the compound. This is the only instance of this sense in the N.T.\" ",
+            "Opportunity (\u03b5\u03c5\u03ba\u03b1\u03c1\u03b9\u03b1\u03bd). From \u03b5\u03c5\u03ba\u03b1\u03b9\u03c1\u03bf\u03c2 (\u03b5\u03c5, \u03ba\u03b1\u03b9\u03c1\u03bf\u03c2), a good chance. Old word, but in the N.T. only here and parallel passage Matthew 26:16.",
+            "In the absence of the multitude (\u03b1\u03c4\u03b5\u03c1 \u03bf\u03c7\u03bb\u03bf\u03c5). \u0391\u03c4\u03b5\u03c1 is an old preposition, common in the poets, but rare in prose. Also in verse Luke 22:35. It means \"without,\" \"apart from,\" like \u03c7\u03c9\u03c1\u03b9\u03c2. The point of Judas was just this. He would get Jesus into the hands of the Sanhedrin during the feast in spite of the crowd."
+        ],
+        "John Gill": [
+            "And he promised,.... He undertook to deliver him into their hands; he laid himself under obligation to do it; he faithfully promised he would.",
+            "The Arabic version renders it, he gave thanks; for the money he received, being well pleased he had made such a bargain; and so the word here used sometimes signifies; and indeed commonly either to confess; or to give thanks.",
+            "but found no opportunity of doing it this way, which they had agreed upon with him, and he had promised, until the night of the passover, when he was alone in the garden with his disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the absence of the multitude, Judas promised to hand Jesus over to the Sanhedrin. The word used for promised suggests an open and fair consent or pledge. Judas saw an opportunity during the feast to betray Jesus without the interference of the crowd. He laid himself under obligation, faithfully promising to deliver Jesus into their hands. Ultimately, he found his chance on the night of the Passover, when he was alone in the garden with his disciples.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.4982967317510418,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.16,
+            "commentatorTierSimilarities": [
+                36.93,
+                0.0,
+                63.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the absence of the multitude, Judas promised to hand Jesus over to the Sanhedrin. The word used for promised suggests an open and fair consent or pledge. Judas saw an opportunity during the feast to betray Jesus, laying himself under obligation to deliver him into their hands. Ultimately, he found his chance on the night of the Passover, when he was alone in the garden with his disciples.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.5510665977285036,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.92,
+            "commentatorTierSimilarities": [
+                37.48,
+                0.0,
+                62.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the absence of the multitude, Judas promised to deliver Jesus into the hands of the Sanhedrin, laying himself under obligation to fulfill his pledge. The word used for promised reflects an open and fair consent, highlighting the seriousness and commitment of Judas' betrayal. This opportunity presented itself during the feast, where Judas sought to execute his plan apart from the interference of the crowd. Ultimately, he found his chance on the night of the Passover, when he was alone with Jesus in the garden, enabling him to carry out his act of betrayal.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4259527797886427,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.76,
+            "commentatorTierSimilarities": [
+                34.6,
+                0.0,
+                65.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the absence of the multitude, Judas promised to deliver Jesus into the hands of the Sanhedrin. The word used for promised suggests an open and fair consent or pledge. This opportunity presented itself during the feast, where Judas sought to execute his plan apart from the interference of the crowd. Ultimately, he found his chance on the night of the Passover, when he was alone with Jesus in the garden, enabling him to carry out his act of betrayal.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.440637306571836,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                37.07,
+                0.0,
+                62.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the absence of the multitude, Judas promised to deliver Jesus into the hands of the Sanhedrin, laying himself under obligation to fulfill his pledge. The word used for promised reflects an open and fair consent, highlighting the seriousness and commitment of Judas' betrayal. This opportunity presented itself during the feast, where Judas sought to execute his plan apart from the interference of the crowd. Ultimately, he found his chance on the night of the Passover, when he was alone with Jesus in the garden, enabling him to carry out his act of betrayal.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4259527797886427,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.76,
+            "commentatorTierSimilarities": [
+                34.6,
+                0.0,
+                65.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:30:18",
+    "verseRef": "Ephesians 3:11",
+    "bestBHT": {
+        "bht": "God's eternal purpose, the purpose of the ages, is carried out through Jesus, the personal Messiah and Lord. This unchanging purpose centers around imparting God's wisdom, and it is not a new plan but one that has always been in effect. According to the provided quotes, the Gospel, preaching, and the fellowship of believers all align with this divine plan. Through Jesus, God's promises and blessings of grace are designed and provided for His people.",
+        "wordCount": 78,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 2.0392906533834814,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+        "commentatorTierSimilarities": [
+            24.83,
+            34.49,
+            40.68
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This imparting of the knowledge of God\u2019s manifold wisdom was in accordance with the purpose of the ages.\" ",
+            "The sense is best given in English by 'eternal,' as in A.V. and our text.",
+            "The words bind together God\u2019s eternal purpose and our present state of access to Him by redemption in Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "11. which he purposed\u2014Greek,",
+            "\t\"made.\" ELLICOTT",
+            "\ttranslates, \"wrought."
+        ],
+        "Albert Barnes": [
+            "According to the eternal purpose - see the note, Ephesians 1:4. Literally, 'the purpose of ages,' or of eternity.",
+            "The fair meaning of the passage here is, that God had formed a plan which was 'eternal' in reference to the salvation of people; that that plan had reference to the Lord Jesus; and that it was now executed by the gospel.",
+            "It is impossible to get away from the idea that God has a 'plan.' If God has any plan, it must he eternal. He has no new schemes; he has no intentions which he did not always have."
+        ],
+        "Marvin Vincent": [
+            "Eternal purpose [\u03c0\u03c1\u03bf\u03b8\u03b5\u03c3\u03b9\u03bd \u03c4\u03c9\u03bd \u03b1\u03b9\u03c9\u03bd\u03c9\u03bd] . Lit., the purpose of the ages. ",
+            "He wrought [\u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b5\u03bd] . Carried into effect. See on fulfilling, ch. 2 3."
+        ],
+        "John Calvin": [
+            "How carefully does he guard against the objection, that the purpose of God has been changed!",
+            "A third time, he repeats that the decree was eternal and unchangeable, but must be carried into effect by Christ Jesus our Lord.",
+            "Thus he declares, that the proper time for publishing this decree belongs to the kingdom of Christ."
+        ],
+        "Philip Schaff": [
+            "The purpose belongs to the ages, will be retained during the ages, controlling them.",
+            "This purpose was wrought in Jesus of Nazareth, the personal Messiah, the Lord of His people.",
+            "His work and Person are not to be sundered here."
+        ],
+        "Archibald T. Robertson": [
+            "According to the eternal purpose (\u03ba\u03b1\u03c4\u03b1 \u03c0\u03c1\u03bf\u03b8\u03b5\u03c3\u03b9\u03bd \u03c4\u03c9\u03bd \u03b1\u03b9\u03c9\u03bd\u03c9\u03bd). \"According to the purpose (Ephesians 1:11) of the ages.\" God's purpose runs on through the ages. \"Through the ages one eternal purpose runs.\" "
+        ],
+        "John Gill": [
+            "The whole of salvation, in which is displayed the great wisdom of God, is according to a purpose of his; the scheme of it is fixed in the council of peace; the thing itself is effected in pursuance of it.",
+            "The Gospel itself, the preaching of it by such and such persons, its use to make men see the mysteries of grace, and the fellowship of them, and to make known these things to the angels of heaven, are all according to a divine purpose.",
+            "God was in Christ contriving the scheme of salvation; eye was upon him, his thoughts centred in him, in him are all his promises, and blessings of grace designed and provided for his people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "According to the commentary, Ephesians 3:11 speaks of God's eternal purpose, which was carried out through the ages and centered on the Lord Jesus. This purpose was not a new plan or intention, but a pre-existing one. The purpose of the ages was for God to impart the knowledge of His wisdom, and it was fulfilled in Jesus, who was the personal Messiah and the Lord of His people. The commentary emphasizes that the purpose of God is unchangeable and that all aspects of salvation and the preaching of the Gospel are in accordance with this divine plan.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.0322697903511604,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+            "commentatorTierSimilarities": [
+                25.58,
+                36.9,
+                37.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's eternal purpose, the plan of ages, was fulfilled through Jesus, the personal Messiah and Lord. This unchanging purpose centers around the imparting of God's wisdom. Salvation, the preaching of the Gospel, and the fellowship of believers all fit into this divine plan. Paul emphasizes the unchangeable nature of God's purpose, highlighting that it was always fixed and centered on Jesus. It is through Jesus that God's promises and blessings of grace are designed and provided for his people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.0303132339862526,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.85,
+            "commentatorTierSimilarities": [
+                25.08,
+                33.36,
+                41.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's eternal purpose, the purpose of the ages, is fulfilled through Jesus, the personal Messiah and Lord. This unchanging purpose centers around imparting God's wisdom. Paul emphasizes the unchangeable nature of this purpose, stressing that it was always fixed and centered on Jesus. Salvation, the Gospel, and the fellowship of believers are all part of this divine plan. God's promises and blessings of grace are designed and provided for His people through Jesus, who plays a central role in God's eternal purpose.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.016532598005355,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.39,
+            "commentatorTierSimilarities": [
+                25.7,
+                33.91,
+                40.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's purpose, the purpose of the ages, is carried out through Jesus, the personal Messiah and Lord. This eternal purpose, centered on imparting God's wisdom, represents His unchanging plan for salvation. Paul emphasizes that this purpose is not new but has always been fixed and focused on Jesus. According to the commentary, the Gospel, preaching, and the fellowship of believers all align with this divine plan. Through Jesus, God's promises and blessings of grace are designed and provided for His people.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.021245970409912,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                24.79,
+                34.16,
+                41.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's eternal purpose, the purpose of the ages, is carried out through Jesus, the personal Messiah and Lord. This unchanging purpose centers around imparting God's wisdom, and it is not a new plan but one that has always been in effect. According to the provided quotes, the Gospel, preaching, and the fellowship of believers all align with this divine plan. Through Jesus, God's promises and blessings of grace are designed and provided for His people.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.0392906533834814,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+            "commentatorTierSimilarities": [
+                24.83,
+                34.49,
+                40.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

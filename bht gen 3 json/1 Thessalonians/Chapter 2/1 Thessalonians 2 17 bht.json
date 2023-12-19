@@ -1,0 +1,154 @@
+{
+    "timestamp": "12-19-2023 14:00:28",
+    "verseRef": "1 Thessalonians 2:17",
+    "bestBHT": {
+        "bht": "Separated from you but for a short time, our longing to be with you again was all the more intense. The pain of separation and the desire to return to you were vivid in our hearts. It was as if we had become like bereaved parents, severed from their children. Our temporary absence only served to intensify our love and zeal for you; our hearts were still with you, even though we were physically apart. We longed to be reunited with you, and our affection for you grew even stronger during our separation.",
+        "wordCount": 93,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.9589498908977898,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+        "commentatorTierSimilarities": [
+            28.09,
+            41.24,
+            30.67
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We would fain have come unto you, even I Paul, both once and again, and Satan hindered us.",
+            "Universal experience testifies, that the pain of separation from friends and the desire of return to them are more vivid, the more freshly the remembrance of the parting works in the spirit.",
+            "The expression refers, not to his present impression that the time of separation would still be short, but to the time alluded to in the preceding past participle\u2014when we had been separated from you for the space of an hour."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But we\u2014resumed from :-; in contrast to the Jews, 1 Thessalonians 2:15;",
+            "\t1 Thessalonians 2:16.",
+            "taken\u2014rather as Greek,",
+            "\t'severed (violently, 1 Thessalonians 2:16- :) from you,' as parents bereft of their children.",
+            "When we had been severed",
+            "\tfrom you but a very short time (perhaps alluding to the suddenness of",
+            "\this unexpected departure), we the more abundantly (the shorter was",
+            "\tour separation; for the desire of meeting again is the more vivid,",
+            "\tthe more recent has been the parting) endeavored,\" c. (Compare",
+            "\t2 Timothy 1:4)."
+        ],
+        "Albert Barnes": [
+            "There is more implied in the Greek word here rendered, 'being taken from you'...It properly has relation to the condition of an orphan...No word, perhaps, could have expressed stranger attachment for them.\" ",
+            "The meaning is, that when he left them he supposed it would be only for a short time... It had, in fact, turned out to be a long and painful absence.",
+            "My heart was still with you. This is an elegant and touching expression, which we still use to denote affection for an absent friend."
+        ],
+        "Marvin Vincent": [
+            "The separation was like that between parents and children.",
+            "Stronger than the usual phrase for an hour.",
+            "He is much given to the use of comparatives, and sometimes heaps them together."
+        ],
+        "John Calvin": [
+            "When,\" says he, \"I was bereaved of you.\" (550) By the word bereaved, he declares how sad and distressing a thing it was to him to be absent from them. (551)",
+            "He shews, however, more fully his affection, when he says that he endeavored the more abundantly; for he means that his affection was so far from being diminished by his leaving them, that it had been the more inflamed.",
+            "The original word is here very emphatical. It is an allusion to that grief, anxiety, and reluctance of heart, with which dying, affectionate parents take leave of their own children..."
+        ],
+        "Philip Schaff": [
+            "If he could not give them the comfort of his presence, he would at least give them the comfort of knowing that he would fain be with them if he could.",
+            "Being taken from you... having been bereaved by our separation from you.",
+            "His absence had intensified his affection, and that his longing to see them was 'more abundant' than his love had been while he was in Thessalonica."
+        ],
+        "Archibald T. Robertson": [
+            "He refers to the period of separation from them,",
+            "for a short season (\u03c0\u03c1\u03bf\u03c2 \u03ba\u03b1\u03b9\u03c1\u03bf\u03bd \u03c9\u03c1\u03b1\u03c2) for a season of an hour.",
+            "His heart was with them, though they no longer saw his face.",
+            "We became zealous . Comparative adverb \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03bf\u03c4\u03b5\u03c1\u03c9\u03c2 from \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03bf\u03bd, more abundantly than before being orphaned from you."
+        ],
+        "John Gill": [
+            "We being taken from you... we being orphanized from you.\" ",
+            "This parting was but for a short time... they might hope to see them again.\" ",
+            "This separation was only in presence... not in heart... his heart was with them... his affections moved strongly towards them."
+        ],
+        "John Wesley": [
+            "This is the more carefully to be observed, because the passions occasionally exercising themselves, and flowing like a torrent, in the apostle, are observable to every reader...",
+            "It requires a nicer attention to discern those calm standing tempers, that fixed posture of his soul, from whence the others only flow out, and which more peculiarly distinguish his character.",
+            "...those calm standing tempers, that fixed posture of his soul, [are] more peculiarly distinguish[ing] his character."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Separated from you but for a short time, our longing to be with you again was all the more intense. The pain of separation and the desire to return to you were vivid in our hearts. It was as if we had become like bereaved parents, severed from their children. Our temporary absence only served to intensify our love and zeal for you; our hearts were still with you, even though we were physically apart. We longed to be reunited with you, and our affection for you grew even stronger during our separation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.9589498908977898,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                28.09,
+                41.24,
+                30.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Separated from you but for a short time, our longing to be with you again was all the more intense. The pain of separation and the desire to return to you were vivid in our hearts. It was as if we had become like bereaved parents, severed from their children. Our temporary absence only served to intensify our love and zeal for you. We longed to be reunited with you, and our affection for you grew even stronger during our separation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.9241058615197066,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                29.12,
+                40.82,
+                30.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our separation from you was but for a short time, yet the longing to be with you again was so intense. It was as if we had been like parents torn apart from their children. The pain of separation only deepened our love and zeal for you. We yearned to be reunited with you and our affection for you grew even stronger during our time apart.",
+            "wordCount": 66,
+            "quoteTokenProportion": 57.78,
+            "qualityScore": 1.8930974765573239,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                29.18,
+                41.54,
+                29.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We had a strong desire to come to you, even I, Paul, and we tried to come to you repeatedly, but we were hindered by Satan. Our separation from you caused immense pain and we longed for the day when we could be reunited again. It wasn't just a casual parting, but a deep and heartfelt separation, like that of parents being violently separated from their children. Although the time we were apart was short, the intensity of our desire to be with you was incredibly heightened. Our affection for you only grew stronger during our absence, and our hearts were always with you, even when we were physically apart. We became even more zealous in our love for you, longing to see your faces once again.",
+            "wordCount": 128,
+            "quoteTokenProportion": 46.84,
+            "qualityScore": 1.8352298618965337,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                27.79,
+                42.4,
+                29.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We desired to be with you, but Satan hindered us. The pain of separation and the longing for reunion are intense, especially when the parting is recent. Our affection remained steadfast, and our hearts were still with you, despite the distance. The time we spent apart from you was short, yet our desire to see you again was abundantly strong. Our love for you grew even more during our absence, like that of parents who are forcibly separated from their children.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.761539342755818,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.91,
+            "commentatorTierSimilarities": [
+                28.91,
+                40.89,
+                30.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

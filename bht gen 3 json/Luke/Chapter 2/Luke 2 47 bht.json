@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:14:14",
+    "verseRef": "Luke 2:47",
+    "bestBHT": {
+        "bht": "The boy's holy thirst for knowledge and his amazing intellectual growth astounded those who heard him. His well-pondered resolutions and deep understanding of the Scriptures were reflected in his profound answers. He demonstrated a love for clear understanding and an intensity of interest in religion that exceeded that of a typical youth. His correctness and propriety in framing questions and delivering responses revealed wisdom beyond his years and left the listeners in continued astonishment at his remarkable comprehension.",
+        "wordCount": 80,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 1.8278304180447331,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+        "commentatorTierSimilarities": [
+            34.07,
+            38.09,
+            27.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Understanding [\u03c3\u03c5\u03bd\u03b5\u03c3\u03b5\u03b9] . From sunihmi, to bring together. Hence that quality of mind which combines: understanding not only of facts, but of facts in their mutual relations.",
+            "See on Mark 12:33; where there is meant 'the love of a well pondered and duly considered resolution which determines the whole person; the love which clearly understands itself' [\u03c7\u03c1\u03b5\u03bc\u03b5\u03c1].",
+            "The love of a well pondered and duly considered resolution which determines the whole person; the love which clearly understands itself."
+        ],
+        "John Calvin": [
+            "They reckoned it a miracle, that a child should frame his questions with such correctness and propriety.",
+            "They heard Christ, and thus acted the part rather of scholars than of teachers.",
+            "He already began to tax their perverse way of teaching."
+        ],
+        "Philip Schaff": [
+            "Were amazed at his understanding; as manifested in His comprehension of the subjects (undoubtedly religious) under discussion.",
+            "His answers... None of these answers have been preserved, but the subsequent reply to Mary indicates the wisdom of His words.",
+            "There is nothing premature, forced, or unbecoming His age, and yet a degree of wisdom and an intensity of interest in religion, which rises far above a purely human youth."
+        ],
+        "Archibald T. Robertson": [
+            "Were amazed (\u03b5\u03be\u03b9\u03c3\u03c4\u03b1\u03bd\u03c4\u03bf). Imperfect indicative middle, descriptive of their continued and repeated astonishment.",
+            "The boy had a holy thirst for knowledge (Plummer), and he used a boy's way of learning.",
+            "This boy had astounding answers to their questions, revealing his amazing intellectual and spiritual growth."
+        ],
+        "John Gill": [
+            "All in the sanhedrim, both the doctors, and their disciples, were amazed.",
+            "In the knowledge of the law, and of the Scriptures.",
+            "Which he returned to the questions the doctor's put to him, which were made with so much wisdom and judgment, that it was surprising in one of his years."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The boy in this verse had a holy thirst for knowledge and used a boy's way of learning. His astounding answers revealed his amazing intellectual and spiritual growth. The people who heard him were amazed at his understanding, and his answers showed wisdom beyond his years. They recognized that his questions and responses were framed with correctness and propriety, demonstrating a deep knowledge of the law and the Scriptures. Their repeated astonishment at his words indicated that he clearly understood the facts and their mutual relations, and his love for well-pondered resolutions determined his whole person. His wisdom and intense interest in religion surpassed that of a purely human youth.",
+            "wordCount": 112,
+            "quoteTokenProportion": 29.33,
+            "qualityScore": 1.8119907537699125,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                33.85,
+                37.38,
+                28.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The boy's holy thirst for knowledge and his amazing intellectual growth astounded those who heard him. His well-pondered resolutions and deep understanding of the Scriptures were reflected in his profound answers. He demonstrated a love for clear understanding and an intensity of interest in religion that exceeded that of a typical youth. His correctness and propriety in framing questions and delivering responses revealed wisdom beyond his years and left the listeners in continued astonishment at his remarkable comprehension.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.8278304180447331,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+            "commentatorTierSimilarities": [
+                34.07,
+                38.09,
+                27.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The boy's astounding intellectual and spiritual growth left the people who heard him amazed. His well-pondered resolutions and deep understanding of the Scriptures were evident in his profound answers. His love for clear understanding and intense interest in religion went beyond what was expected of someone his age. The wisdom he displayed in framing questions and delivering responses was far beyond his years, continuing to astonish the listeners. His remarkable comprehension left no doubt about his remarkable growth and knowledge.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7827234322744419,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+            "commentatorTierSimilarities": [
+                32.63,
+                39.74,
+                27.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The boy's astounding intellectual and spiritual growth left the people who heard him amazed. His well-pondered resolutions and deep understanding of the Scriptures were evident in his profound answers. His love for clear understanding and intense interest in religion went beyond what was expected of someone his age. The wisdom he displayed in delivering responses was far beyond his years, continuing to astonish the listeners. His remarkable comprehension left no doubt about his remarkable growth and knowledge.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7703609165744565,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                32.2,
+                40.48,
+                27.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The boy's astounding intellectual and spiritual growth left the people who heard him amazed. His well-pondered resolutions and deep understanding of the Scriptures were evident in his profound answers. His love for clear understanding and intense interest in religion went beyond what was expected of someone his age. The wisdom he displayed in delivering responses was far beyond his years, continuing to astonish the listeners. His remarkable comprehension left no doubt about his remarkable growth and knowledge.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7703609165744565,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                32.2,
+                40.48,
+                27.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

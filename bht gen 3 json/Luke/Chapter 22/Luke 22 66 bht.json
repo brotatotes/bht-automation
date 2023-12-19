@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:23:16",
+    "verseRef": "Luke 22:66",
+    "bestBHT": {
+        "bht": "After the trial that took place late in the night, our Evangelist found evidence of a subsequent meeting of the Sanhedrim during the daytime, which is also mentioned in Matthew 27:1. This meeting of the elders, or the assembly of the elders, composed the Sanhedrin, made up of both Sadducees (chief priests) and Pharisees (scribes). Thus, this formal assembly, known as the presbyterion, gathered at the customary location in the temple.",
+        "wordCount": 70,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.6672640782301789,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+        "commentatorTierSimilarities": [
+            37.01,
+            31.44,
+            31.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Some trace of meeting of the Sanhedrim after daylight I believe our Evangelist to have found.\" ",
+            "I believe our Evangelist to have found, see Matt. xxvii. 1\u2014and to have therefore related as then happening, the following account.\" ",
+            "What really took place at the former meeting."
+        ],
+        "Marvin Vincent": [
+            "The elders [\u03c0\u03c1\u03b5\u03c3\u03b2\u03c5\u03c4\u03b5\u03c1\u03b9\u03bf\u03bd] . More correctly, the assembly of the elders. So Rev. ===Luke 23:0 ",
+            "CHAPTER XXIII ",
+            "- 5. Compare Matthew 27:1, Matthew 27:2; Matthew 11:14; Mark 14:1-5."
+        ],
+        "Philip Schaff": [
+            "Roman law forbade a final condemnation before dawn.",
+            "Jewish usage forbade even the investigation of capital crime at night.",
+            "The assembly of the elders, lit, \u2018the eldership\u2019 (presbyterion); a formal assembly of the Sanhedrin, at the usual place of holding the council."
+        ],
+        "Archibald T. Robertson": [
+            "The technical word for 'the eldership' or group of the elders composing the Sanhedrin.",
+            "The word occurs in the LXX for the Sanhedrin.",
+            "Sadducees (chief priests) and Pharisees (scribes) were nearly equally represented."
+        ],
+        "John Gill": [
+            "The elders of the people; or 'the presbytery of the people', that were chosen from among the people to sit in the sanhedrim.",
+            "The chief priests and the scribes came together; which made up the great sanhedrim, or council of the nation.",
+            "Led him into their council; or sanhedrim, the place where the sanhedrim sat, which was in the temple."
+        ],
+        "John Wesley": [
+            "Matthew 26:63; Mark 14:61."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the trial that took place late in the night, our Evangelist found evidence of a subsequent meeting of the Sanhedrim during the daytime, which is also mentioned in Matthew 27:1. This meeting of the elders, or the assembly of the elders, composed the Sanhedrin, made up of both Sadducees (chief priests) and Pharisees (scribes). It is important to note that according to Roman law and Jewish usage, final condemnation and investigation of capital crimes were not permitted during the night. Thus, this formal assembly, known as the presbyterion, gathered at the customary location in the temple.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6270166196367821,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.44,
+            "commentatorTierSimilarities": [
+                30.71,
+                42.03,
+                27.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the trial that took place late in the night, our Evangelist found evidence of a subsequent meeting of the Sanhedrim during the daytime, which is also mentioned in Matthew 27:1. This meeting of the elders, or the assembly of the elders, composed the Sanhedrin, made up of both Sadducees (chief priests) and Pharisees (scribes). Thus, this formal assembly, known as the presbyterion, gathered at the customary location in the temple.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6672640782301789,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                37.01,
+                31.44,
+                31.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the trial that took place late in the night, our Evangelist found evidence of a subsequent meeting of the Sanhedrim during the daytime, which is also mentioned in Matthew 27:1. Thus, this formal assembly, known as the presbyterion, gathered at the customary location in the temple.",
+            "wordCount": 46,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.5083416144749062,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.49,
+            "commentatorTierSimilarities": [
+                33.62,
+                36.76,
+                29.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gospel of Luke reveals that there was a continuation of the trial of Jesus carried out by the Sanhedrin during daylight hours after the initial trial that occurred at night. This subsequent meeting, known as the presbyterion or assembly of the elders, was composed of both Sadducees (chief priests) and Pharisees (scribes), who were nearly equally represented. It is worth noting that Roman law prohibited final condemnation before dawn, and Jewish tradition also forbade the investigation of capital crimes at night. The presbyterion gathered in their customary location within the temple to discuss the case.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.606977974098366,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.77,
+            "commentatorTierSimilarities": [
+                28.05,
+                43.77,
+                28.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the initial trial of Jesus that took place at night, our Evangelist suggests that there was a subsequent meeting of the Sanhedrin during the daytime. This meeting, referred to as the presbyterion or assembly of the elders, consisted of representatives from both the Sadducees (chief priests) and Pharisees (scribes). Roman law prohibited condemnation before dawn, and Jewish custom also prohibited conducting investigations of capital crimes at night. The presbyterion convened at their usual place within the temple to deliberate on the case.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6535167899494454,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                29.78,
+                44.47,
+                25.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

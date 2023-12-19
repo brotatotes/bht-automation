@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 15:16:13",
+    "verseRef": "2 Corinthians 5:15",
+    "bestBHT": {
+        "bht": "Those who have been saved by Christ no longer live for themselves, but for Him who died and rose again. Christ's death is our death, and His resurrection is our resurrection. In light of this high doctrine, we have a great obligation to live for Him, devoting all that we have and are to His service. Selfishness is ruled out because we are called to live for His honor and glory.",
+        "wordCount": 72,
+        "quoteTokenProportion": 55.32,
+        "qualityScore": 2.264234456361,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.63,
+        "commentatorTierSimilarities": [
+            41.93,
+            28.23,
+            29.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "they which live should no longer live unto themselves",
+            "unto Him that died, and rose again for them",
+            "as the Death of Christ is our death, so His Resurrection is our resurrection"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He died in their stead, He arose again for their good, 'for (the effecting of) their justification' (Romans 4:25), and that He might be their Lord (Romans 14:7-9).\" ",
+            "Christ's death is our death, so His resurrection is our resurrection; Greek, 'Who for them died and rose again.'",
+            "Now that His death for them has taken place, and that they know that His death saves them from death eternal, and His resurrection life brings spiritual and everlasting life to them."
+        ],
+        "Albert Barnes": [
+            "The fact that he died for all evinced such unbounded and infinite benevolence that it should induce us who are actually benefitted by his death, and who have any just views of it, to devote all that we have to his service.",
+            "To live to him is the opposite to living unto ourselves. It is to seek his honor; to feel that we belong to him; that all our time and talents; all our strength of intellect and body; all the avails of our skill and toil, all belong to him, and should be employed in his service.",
+            "Such as the slave is supposed to become by purchase, and by the operation of human laws, the Christian becomes by the purchase of the Son of God, and by the voluntary recognition of him as the master, and as having a right to all that we have and are."
+        ],
+        "Archibald T. Robertson": [
+            "The high doctrine of Christ's atoning death carries a correspondingly high obligation on the part of those who live because of him.",
+            "Selfishness is ruled out by our duty to live 'unto him who for their sakes died and rose again.'"
+        ],
+        "John Gill": [
+            "The end of Christ's dying for men was that they might live; live, in a legal sense, live a life of justification...\" (19 words)",
+            "should not henceforth live unto themselves: to their own lusts, and after their own wills, to either sinful self, or righteous self...\" (27 words)",
+            "which is an obligation on such persons to live to Christ, to ascribe the whole of their salvation to him, and to make his glory the end of all their actions.\" (29 words)"
+        ],
+        "John Wesley": [
+            "And that he died for all \u2014 That all might be saved.",
+            "That they who live \u2014 That all who live upon the earth.",
+            "Should not henceforth \u2014 From the moment they know him. Live unto themselves \u2014 Seek their own honour, profit, pleasure."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who have been saved by Christ no longer live for themselves, but for Him who died and rose again for them. His Death and Resurrection are not just historical events, but they have profound spiritual significance for believers. Christ's death is our death, and His resurrection is our resurrection. We now have the assurance that His death saves us from eternal death and His resurrection brings us everlasting life. In light of this high doctrine, we have a great obligation to live unto Him who died and rose again for our sakes. Selfishness is ruled out because we are called to live for His honor and glory, devoting all that we have and are to His service.",
+            "wordCount": 119,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 2.254952150366295,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.32,
+            "commentatorTierSimilarities": [
+                44.4,
+                28.49,
+                27.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who have been saved by Christ no longer live for themselves, but for Him who died and rose again. Christ's death is our death, and His resurrection is our resurrection. We now have the assurance that His death saves us from eternal death and His resurrection brings us everlasting life. In light of this high doctrine, we have a great obligation to live for Him, devoting all that we have and are to His service. Selfishness is ruled out because we are called to live for His honor and glory.",
+            "wordCount": 92,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 2.262769862362509,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.58,
+            "commentatorTierSimilarities": [
+                42.84,
+                28.42,
+                28.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who have been saved by Christ no longer live for themselves, but for Him who died and rose again. Christ's death is our death, and His resurrection is our resurrection. In light of this high doctrine, we have a great obligation to live for Him, devoting all that we have and are to His service. Selfishness is ruled out because we are called to live for His honor and glory.",
+            "wordCount": 72,
+            "quoteTokenProportion": 55.32,
+            "qualityScore": 2.264234456361,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.63,
+            "commentatorTierSimilarities": [
+                41.93,
+                28.23,
+                29.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who are alive, owing to the death and resurrection of Christ, are called to no longer live for themselves, but rather for Him who died and rose again for their sake. His death is not only our death, but also our resurrection, signifying that His sacrifice saves us from eternal death and grants us everlasting life. This profound truth carries a great responsibility for us to live with a selfless devotion to Christ. We are called to reject selfishness and instead live for Him who willingly laid down His life for us. All our time, talents, and resources, everything we have, should be offered in His service, for He is our Master and we are His purchased possession.",
+            "wordCount": 119,
+            "quoteTokenProportion": 48.65,
+            "qualityScore": 2.102500876914168,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.25,
+            "commentatorTierSimilarities": [
+                37.26,
+                34.8,
+                27.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who are alive should no longer live for themselves, but for Him who died and rose for them. The death of Christ is our death, and His resurrection is our resurrection. His sacrifice grants us salvation from eternal death and brings us everlasting life. This truth carries a weighty obligation to live with selflessness and devotion to Christ. Our lives should be dedicated to His service, offering Him everything we have, as He is our Master and we are His purchased possession.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.100629327515067,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.19,
+            "commentatorTierSimilarities": [
+                41.46,
+                32.24,
+                26.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

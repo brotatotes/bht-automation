@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:14:54",
+    "verseRef": "2 Corinthians 1:11",
+    "bestBHT": {
+        "bht": "Paul relied on God and felt the need of the prayer of God's people. The expression is pictorial; that thanksgiving may be given from many faces; the cheerful countenances being an offering of thanks to God. For whatever God will confer upon me, being as it were obtained through means of many persons, will, also, by many be celebrated with praises. The apostle's view in this is to stir them up to a joint acknowledgment of the deliverance with them, which better became them than to side with the false apostles in their charge against him.",
+        "wordCount": 98,
+        "quoteTokenProportion": 52.86,
+        "qualityScore": 2.000456935313407,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+        "commentatorTierSimilarities": [
+            23.65,
+            35.19,
+            41.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "11.] On the various possible renderings of the latter part of this verse, see in my Greek Test."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "helping together on our behalf by your supplication",
+            "That on the part of many persons the gift (literally, 'gift of grace' the mercy) bestowed upon us by means of (that is, through the prayers of) many may be offered thanks for (may have thanks offered for it) on our behalf."
+        ],
+        "Albert Barnes": [
+            "He felt that the church was one, and that Christians should sympathize with one another.",
+            "He believed that he had been remembered in the petitions of his friends and fellow Christians, and that his deliverance was owing to their supplications.",
+            "Mercies that have been obtained by prayer should be acknowledged by praise."
+        ],
+        "Marvin Vincent": [
+            "Even when rendered person the usage is Hebraistic for face.\" ",
+            "There is no reason for abandoning that sense here.",
+            "The expression is pictorial; that thanksgiving may be given from many faces; the cheerful countenances being an offering of thanks to God."
+        ],
+        "John Calvin": [
+            "For whatever God will confer upon me, being as it were obtained through means of many persons, will, also, by many be celebrated with praises.",
+            "In this interpretation there is nothing forced...although it had come forth from many persons, it was nevertheless peculiar to Paul.",
+            "To take the phrase \u03b4\u03b9\u1f70 \u03c0\u03bf\u03bb\u03bb\u1ff6\u03bd (by means of many) in the neuter gender, as some do, is at variance with the connection of the passage."
+        ],
+        "Philip Schaff": [
+            "ye also helping together on our behalf by your supplication delicately taking it for granted that they were doing it, and so virtually soliciting their prayers.",
+            "that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.",
+            "his preservation, in answer to their prayers, giving occasion for the thanksgiving of many on his behalf."
+        ],
+        "Archibald T. Robertson": [
+            "Paul relied on God and felt the need of the prayer of God's people.",
+            "It may mean face or person here.",
+            "It is indeed a difficult sentence to understand."
+        ],
+        "John Gill": [
+            "The prayers of the saints for them, as helping causes or means of their obtaining it.",
+            "The prayers of those righteous ones were heard by God, and often effectual for the deliverance of them.",
+            "The apostle's view in this is to stir them up to a joint acknowledgment of the deliverance with them, which better became them than to side with the false apostles in their charge against him."
+        ],
+        "John Wesley": [
+            "Helping with us by prayer, that for the gift \u2014 Namely, my deliverance.",
+            "Bestowed upon us by means of many persons \u2014 Praying for it, thanks may be given by many."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even when rendered person the usage is Hebraistic for face. The expression is pictorial; that thanksgiving may be given from many faces; the cheerful countenances being an offering of thanks to God. Paul relied on God and felt the need of the prayer of God's people. For whatever God will confer upon me, being as it were obtained through means of many persons, will, also, by many be celebrated with praises. The apostle's view in this is to stir them up to a joint acknowledgment of the deliverance with them, which better became them than to side with the false apostles in their charge against him.",
+            "wordCount": 108,
+            "quoteTokenProportion": 50.65,
+            "qualityScore": 1.863297335357824,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+            "commentatorTierSimilarities": [
+                27.49,
+                32.33,
+                40.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul relied on God and felt the need of the prayer of God's people. The expression is pictorial; that thanksgiving may be given from many faces; the cheerful countenances being an offering of thanks to God. For whatever God will confer upon me, being as it were obtained through means of many persons, will, also, by many be celebrated with praises. The apostle's view in this is to stir them up to a joint acknowledgment of the deliverance with them, which better became them than to side with the false apostles in their charge against him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 52.86,
+            "qualityScore": 2.000456935313407,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+            "commentatorTierSimilarities": [
+                23.65,
+                35.19,
+                41.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul recognized the importance of the prayers of God's people and relied on their support. He described it as a pictorial expression, where thanksgiving is given from many faces, symbolizing cheerful countenances offering thanks to God. Paul anticipated that the deliverance obtained through the prayers of many would be celebrated with praises by many. His intention was to encourage the Corinthians to acknowledge and appreciate this shared deliverance, rather than aligning themselves with the false apostles who opposed him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0361439962701446,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                20.37,
+                42.09,
+                37.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul understood the significance of the prayers of God's people and leaned on their support. He depicted it as a picturesque expression, wherein thanksgiving is expressed from many faces, symbolizing bright countenances offering gratitude to God. Paul anticipated that the deliverance secured through the prayers of many would be celebrated with praises by numerous individuals. His aim was to motivate the Corinthians to acknowledge and appreciate this shared deliverance, rather than aligning themselves with the false apostles who opposed him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.0093896772317335,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                20.76,
+                40.94,
+                38.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul acknowledged the importance of the prayers of God's people and relied on their support. He described it as a pictorial expression, where thanksgiving is offered from many faces, representing the cheerful countenances of those expressing gratitude to God. Paul expected that the deliverance obtained through the prayers of many would be celebrated with praises by a multitude. His goal was to encourage the Corinthians to recognize and appreciate this collective deliverance, rather than aligning with the false apostles who accused him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.007958695954951,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.11,
+            "commentatorTierSimilarities": [
+                20.17,
+                42.37,
+                37.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:29:07",
+    "verseRef": "1 Timothy 4:10",
+    "bestBHT": {
+        "bht": "Our labor and the reproach we endure stem from our hope in the living God, for He is the Savior of all potentially and believers effectively. We labor and strive, demonstrating our trust and reliance on Him. This hope is not in a dogma but a living God, who preserves and gives life to all. Our patient endurance amidst suffering serves as a practical proof of our faith and a witness to the comprehensive salvation promised by God.",
+        "wordCount": 78,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.932096365317167,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+        "commentatorTierSimilarities": [
+            35.1,
+            36.66,
+            28.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The reason why 'we both labor and suffer reproach is because we have rested, and do rest our hope, on the living God.\" ",
+            "Their 'labor and reproach' are not inconsistent with their having from the living God, their Savior, even in this life.",
+            "He is the Savior of all men potentially; of believers alone effectually."
+        ],
+        "Albert Barnes": [
+            "We labor and suffer reproach, for we have hope in God. Through him we look for salvation. We believe that he has made this known to people, and believing this, we labor earnestly to make it known, even though it be attended with reproaches.",
+            "When, therefore, it is said that he \u2018is the Saviour of all people, especially of those who believe,\u2019 it must mean that there is a sense in which it is true that he may be called the Saviour of all people, while, at the same time, it is actually true that those only are saved who believe.",
+            "All people, therefore, do not enter heaven, unless all people have faith. But is this so? What evidence is there that the great mass of mankind die believing on the Son of God?"
+        ],
+        "Marvin Vincent": [
+            "We labor and strive... both words denote strenuous and painful effort.",
+            "The kai has an ascensive force: 'we labor, yea struggle.'",
+            "We trust in... have set our hope on."
+        ],
+        "John Calvin": [
+            "The sum is, that believers are not miserable in afflictions, because a good conscience supports them, and a blessed and joyful end awaits them.\" ",
+            "Our afflictions are accompanied by hope in the living God, and...everything that happens to the godly ought to be reckoned a gain.\" ",
+            "How shall it be with us who are members of his household? Not that we are better or more excellent than those whom we see to be cast off by him, but the whole proceeds from his mercy and free grace, that he is reconciled to us through our Lord Jesus Christ."
+        ],
+        "Philip Schaff": [
+            "The patient endurance of the Christian was a practical proof that the religion which he professed had for him the twofold promise of which the previous verse had spoken.\" (Commentary on 1 Timothy 4:10)",
+            "And this hope is not in a dogma or an abstraction, but in a living God, who is the \u2018Saviour,\u2019 in the lower sense of the word as \u2018preserver,\u2019 no less than in the higher, thus including the \u2018life that now is,\u2019 as well as \u2018that which is to come.\u2019\" (Commentary on 1 Timothy 4:10)",
+            "As in 1 Timothy 2:4, the purpose of God for a salvation which shall include all is assumed as an unquestionable truth, but those only who believe taste that salvation in the fulness of its power.\" (Commentary on 1 Timothy 4:10)"
+        ],
+        "Archibald T. Robertson": [
+            "We labour and strive.\" ",
+            "Because we have set our hope.\" ",
+            "God gives life to all."
+        ],
+        "John Gill": [
+            "And suffer reproach; with patience and cheerfulness.",
+            "He has power, and therefore can, and is faithful, and therefore will, make good what he has promised.",
+            "If he is the Saviour of all men, then much more of them who are of more worth, value, and esteem with him, than all the world beside."
+        ],
+        "John Wesley": [
+            "We both labour and suffer reproach \u2014 We regard neither pleasure, ease, nor honour.",
+            "For this very thing the world will hate us.",
+            "Who is the Saviour of all men \u2014 Preserving them in this life, and willing to save them eternally."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our labor and the reproach we endure are a direct result of our unwavering hope in the living God, who is our Savior. We recognize that God gives life to all, but his salvation is experienced fully by those who believe. Our strenuous efforts and struggles in proclaiming this hope are evidence of our trust and reliance on God. Although we may face opposition and criticism, we continue to labor and strive because we have set our hope on the One who is faithful to fulfill his promises. This hope is not in a mere concept, but in a living God who is both the preserver of our present lives and the bringer of eternal life. This patient endurance is a testament to the power of the Gospel in our lives, and a witness to the world of the salvation offered through Christ.",
+            "wordCount": 143,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.9425791939154278,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                32.62,
+                39.44,
+                27.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We labor and suffer reproach because our hope rests firmly on the living God. God, as the Savior of all potentially, saves believers effectually. Our labor and striving reflect our unwavering trust and hope in Him. He gives life to all, and through Him, we look for salvation. This hope is not in an abstract or dogma, but in a living God who preserves our lives. Our endurance amid suffering is a practical proof of our faith and a testament to the inclusive salvation promised by God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9235685640882416,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.3,
+            "commentatorTierSimilarities": [
+                35.41,
+                35.28,
+                29.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our labor and the reproach we endure stem from our hope in the living God, for He is the Savior of all potentially and believers effectively. We labor and strive, demonstrating our trust and reliance on Him. This hope is not in a dogma but a living God, who preserves and gives life to all. Our patient endurance amidst suffering serves as a practical proof of our faith and a witness to the comprehensive salvation promised by God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.932096365317167,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                35.1,
+                36.66,
+                28.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our labor and the reproach we endure are a direct result of our unwavering hope in the living God, who is our Savior. We recognize that God gives life to all, but his salvation is experienced fully by those who believe. Our strenuous efforts and struggles in proclaiming this hope are evidence of our trust and reliance on God. Although we may face opposition and criticism, we continue to labor and strive because we have set our hope on the One who is faithful to fulfill his promises. This hope is not in a mere concept, but in a living God who is both the preserver of our present lives and the bringer of eternal life. This patient endurance is a testament to the power of the Gospel in our lives and a witness to the world of the salvation offered through Christ.",
+            "wordCount": 143,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.9425791939154278,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                32.62,
+                39.44,
+                27.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our labor and the reproach we endure are because our hope rests on the living God. He is the potential Savior of all and the effective Savior of believers. Our strenuous efforts and struggles reflect our trust in Him. We labor and strive, setting our hope on God. He gives life to all. Our patient endurance in suffering proves our faith and the inclusive salvation promised by God. The world may hate us, but we press on, knowing that God is faithful to save.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.7987068347128092,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+            "commentatorTierSimilarities": [
+                40.93,
+                28.81,
+                30.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

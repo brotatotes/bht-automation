@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 16:20:58",
+    "verseRef": "Luke 16:19",
+    "bestBHT": {
+        "bht": "The parable shares the story of a rich man who, though not accused of any notorious crimes, lives luxuriously in purple and fine linen, indulging in all his desires and material pleasures. However, his worldly wealth cannot shield him from the inevitable fate of death and perdition. The parable serves as a cautionary reminder that even those who appear righteous and well-off can face eternal consequences. It underscores the importance of caring for the poor, avoiding excessive indulgence, and not rejecting the Messiah.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.8501713120274457,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.86,
+        "commentatorTierSimilarities": [
+            16.8,
+            44.57,
+            38.63
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord might hint with stern rebuke at the present notorious crime of Herod, but can hardly be thought to have spoken thus of him.",
+            "That the circumstances will in some measure apply to these two, is owing, as above in ch. xv., to the parable taking the general case, of which theirs was a particular instance.",
+            "Observe, that this rich man is not accused of any fragrant crimes:\u2014he lives, as the world would say, as became his means and station; he does not oppress nor spoil other men: he is simply a son of this generation, in the highest form."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. purple and fine linen,",
+            "\tc.\u2014(Compare Esther 8:15 Revelation 18:12);",
+            "\twanting nothing which taste and appetite craved and money could",
+            "\tprocure."
+        ],
+        "Albert Barnes": [
+            "The 'design' of the narrative is to be collected from the previous conversation [...] to show the Pharisees that, with all their boasted righteousness and their external correctness of character, they might be lost.",
+            "It is remarkable that he gave no 'name' to this rich man, though the poor man is mentioned by name. If this was a parable, it shows us how unwilling he was to fix suspicion on anyone.",
+            "He did not say that he had acquired this property by dishonesty, or even that he was unkind or uncharitable; but simply that he 'was a rich man,' and that his riches did not secure him from death and perdition."
+        ],
+        "Marvin Vincent": [
+            "Several kinds of these were found in the Mediterranean. The color was contained in a vein about the neck. Under the term purple the ancients included three distinct colors.",
+            "Alexander is said by Plutarch to have found in the royal palace at Susa garments which preserved their freshness of color though they had been laid up for nearly two hundred years.",
+            "It was often as transparent as lawn, a fact illustrated by the painted sculptures, where the entire form is often made distinctly visible through the outer garment."
+        ],
+        "John Calvin": [
+            "He points out what condition awaits those who neglect the care of the poor, and indulge in all manner of gluttony; who give themselves up to drunkenness and other pleasures, and allow their neighbors to pine with hunger.",
+            "He who has a liking for fine dress will constantly increase his luxury by fresh additions; and it is scarcely possible that he who indulges in sumptuous and well-garnished tables shall avoid falling into intemperance.",
+            "The rich man, devoted to the pleasures of the table and to display, swallowed up, like an unsatiable gulf, his enormous wealth, but remained unmoved by the poverty and distresses of Lazarus, and knowingly and willingly suffered him to pine away with hunger, cold, and the offensive smell of his sores."
+        ],
+        "Philip Schaff": [
+            "Fine linen. For under garments, from Egypt; some such was said to be worth twice its weight in gold.",
+            "Faring sumptuously every day. He was not a glutton, nor recklessly extravagant, but he lived well, as a rich man could afford to do.",
+            "The parable teaches that such a one is punished after death."
+        ],
+        "Archibald T. Robertson": [
+            "He clothed himself in or with. It was his habit.",
+            "This purple dye was obtained from the purple fish, a species of mussel or \u03bc\u03c5\u03c1\u03b5\u03be (1Macc. 4:23). It was very costly and was used for the upper garment by the wealthy and princes (royal purple).",
+            "Byssus or Egyptian flax (India and Achaia also). It is a yellowed flax from which fine linen was made for undergarments. It was used for wrapping mummies."
+        ],
+        "John Gill": [
+            "And the general design of the parable, is to expose the wickedness and unbelief of the Jews, and to show their danger and misery, for their contempt and rejection of the Messiah.",
+            "And as for the Pharisees, they loved to go in long robes, and to make broad their phylacteries, and enlarge the borders of their garments, which were fringes of blue, joined unto them; and which may figuratively express the fine outside show of holiness and righteousness, they made.",
+            "This may signify the easy and jocund life they lived; knowing no sorrow upon spiritual accounts, having no sense of sin, nor sight of the spirituality of the law, nor view of danger; but at perfect ease, and not emptied from vessel to vessel."
+        ],
+        "John Wesley": [
+            "A very honest, as well as honourable gentleman",
+            "Esteemed on this account, (perhaps not only by those who sold it, but by most that knew him), as encouraging trade, and acting according to his quality",
+            "Generosity and hospitality in keeping so good a table"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in this verse presents a rich man who, although not accused of any obvious wrongdoing, lives a life of luxury and excess. Clothed in purple and fine linen, he spares no expense in satisfying his taste and appetite. This man's riches do not protect him from death and perdition. The parable aims to highlight that even those who live a seemingly righteous and comfortable life can still face eternal consequences. It serves as a warning against neglecting the care of the poor and indulging in gluttony and worldly pleasures. In particular, it points to the danger and misery of rejecting the Messiah, as seen in the wickedness and unbelief of the Jews.",
+            "wordCount": 115,
+            "quoteTokenProportion": 31.65,
+            "qualityScore": 1.766781580375806,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.09,
+            "commentatorTierSimilarities": [
+                16.43,
+                41.7,
+                41.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable portrays a rich man who, without being accused of fragrant crimes, lives a life of luxury, wearing purple and fine linen and indulging in sumptuous feasts. Yet, despite his apparent righteousness, his riches do not shield him from death and perdition. The parable serves as a cautionary tale, warning against neglecting the needs of the poor and succumbing to gluttony and worldly pleasures. Additionally, it exposes the danger and misery that come from rejecting the Messiah and the spiritual emptiness that accompanies a life detached from God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.8401777474576164,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                15.96,
+                41.41,
+                42.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable illustrates the life of a rich man who, although not accused of any fragrant crimes, enjoys a lavish lifestyle, dressed in purple and fine linen, and feasting sumptuously every day. Despite his outward appearance of wealth and status, his riches cannot prevent him from facing death and perdition. The parable serves as a warning against neglecting the needs of the poor, succumbing to indulgence, and rejecting the Messiah. It highlights the danger and misery that accompany a life focused on worldly pleasures rather than on God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.8233307676603712,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                15.87,
+                41.79,
+                42.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable depicts a wealthy man who, though not accused of any fragrant crimes, lives a life of extravagance, dressed in purple and fine linen and indulging in sumptuous feasts daily. However, his opulence and worldly wealth do not protect him from death and perdition. This cautionary tale serves as a reminder of the consequences of neglecting the needs of the poor and succumbing to indulgence. It also emphasizes the danger and misery that arise from rejecting the Messiah and pursuing a life focused on material pleasures rather than spiritual fulfillment.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.765249349261102,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.04,
+            "commentatorTierSimilarities": [
+                17.31,
+                38.37,
+                44.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable shares the story of a rich man who, though not accused of any notorious crimes, lives luxuriously in purple and fine linen, indulging in all his desires and material pleasures. However, his worldly wealth cannot shield him from the inevitable fate of death and perdition. The parable serves as a cautionary reminder that even those who appear righteous and well-off can face eternal consequences. It underscores the importance of caring for the poor, avoiding excessive indulgence, and not rejecting the Messiah.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8501713120274457,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.86,
+            "commentatorTierSimilarities": [
+                16.8,
+                44.57,
+                38.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

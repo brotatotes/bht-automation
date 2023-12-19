@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:28:03",
+    "verseRef": "Acts 7:53",
+    "bestBHT": {
+        "bht": "The people who received the law, which was given by God but announced by angels, have not kept it. They are idolizers of the law, but in reality, their sin is emphasized by their privileges. In fact, the law was administered by the medium of angels, as Paul states in Galatians 3:19. The Jews believed that the law was given through the agency of angels, and this grand and imposing circumstance added majesty and solemnity to the Divine law. However, despite the glory of its delivery, the Jews openly violated the law.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.4582739843827692,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.08,
+        "commentatorTierSimilarities": [
+            30.37,
+            34.14,
+            35.5
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The key to the right understanding of them seems to be the similar expression in Gal. iii. 19, 'the law,... ordained by [means of] angels.'\" ",
+            "The law was given by God, but announced by angels.",
+            "The people received God\u2019s law then, at the in-junction of angels."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Who have received the law by the disposition...of angels\" ",
+            "Have not kept it\" ",
+            "Idolizers of the law"
+        ],
+        "Albert Barnes": [
+            "The Law was given amidst the attending ranks of angels, as if they were summoned to witness the pomp and ceremony of giving 'law' to an entire people, and through them to an entire world.",
+            "It should be added, moreover, that the Jews applied the word 'angels' to any messengers of God; to fire, and tempest, and wind, etc.",
+            "In the eyes of the Jews, it justly gave increased majesty and solemnity to the Law, that it had been given in so grand and imposing circumstances."
+        ],
+        "Marvin Vincent": [
+            "Who [\u03bf\u03b9\u03c4\u03b9\u03bd\u03b5\u03c2] . Stronger than the simple relative who, and emphasizing their sin by contrast with their privileges.",
+            "The reference is most probably to the Jewish tradition that the law was given through the agency of angels.",
+            "Paul expressly says that the law was administered by the medium of angels (Galatians 3:19). Compare the word spoken by angels (Hebrews 2:2)."
+        ],
+        "John Calvin": [
+            "It is evident, saith he, that you lie, when you pretend the zeal of the law, which you transgress and break without ceasing.",
+            "Stephen doth not so chide them, as if his defense did principally consist in this issue, but that they may not flatter themselves in their false boasting.",
+            "For hypocrites must be handled thus, who will, notwithstanding, seem to be most earnest defenders of God\u2019s glory, though indeed they condemn him carelessly."
+        ],
+        "Philip Schaff": [
+            "the Divine law of Moses was announced to Israel, in the first place, by the holy angels acting as the ministers of the Eternal King of heaven",
+            "this glorious law, written by Jehovah and specially communicated to the chosen people by beings not belonging to this earth",
+            "all Jewish tradition ascribes to angels an important place as assistants in the giving of the law"
+        ],
+        "Archibald T. Robertson": [
+            "The very ones who, quippe qui, often in Acts when the persons are enlarged upon.",
+            "At (or as) the appointment of angels.",
+            "Like a whipcracker these words cut to the quick. They gloried in possessing the law and openly violated it."
+        ],
+        "John Gill": [
+            "The law is said to be ordained by angels, in the hand of a Mediator, and is called the word spoken by angels.",
+            "There were great numbers of angels on Mount Sinai when the law was given.",
+            "The law being given and received in so grand a manner, was an aggravation of the sin of the Jews in violating it."
+        ],
+        "John Wesley": [
+            "Who have received the law by the administration of angels \u2014 God, when he gave the law on Mount Sinai, was attended with thousands of his angels, Galatians 3:19; Psalm 68:17."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people who received the law, which was given by God but announced by angels, have not kept it. They are idolizers of the law, but in reality, their sin is emphasized by their privileges. In fact, the law was administered by the medium of angels, as Paul states in Galatians 3:19. The Jews believed that the law was given through the agency of angels, and this grand and imposing circumstance added majesty and solemnity to the Divine law. However, despite the glory of its delivery, the Jews openly violated the law.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.4582739843827692,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.08,
+            "commentatorTierSimilarities": [
+                30.37,
+                34.14,
+                35.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people, who received the law by the disposition of angels, have not kept it. They are idolizers of the law, but their sin is emphasized by their privileges. In fact, the law was administered by the medium of angels, as Paul states in Galatians 3:19. The Jews believed that the law was given through the agency of angels, adding majesty and solemnity. However, the Jews openly violated the law, despite its grand delivery.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.423638840219267,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.93,
+            "commentatorTierSimilarities": [
+                31.64,
+                32.99,
+                35.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people who have received the law by the administration of angels, have not kept it. They are idolizers of the law, but their sin is emphasized by their privileges. In fact, the law was administered by the medium of angels, as Paul states in Galatians 3:19. The Jews believed that the law was given through the agency of angels, which added majesty and solemnity to its delivery. However, the Jews openly violated the law, thereby disregarding the glorious manner in which it was given.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.4249384376351664,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.97,
+            "commentatorTierSimilarities": [
+                31.02,
+                33.01,
+                35.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people, who have received the law by the administration of angels, have not kept it. They are idolizers of the law, but their sin is emphasized by their privileges. In fact, the law was administered by the medium of angels, as Paul states in Galatians 3:19. The Jews believed that the law was given through the agency of angels, adding majesty and solemnity. However, the Jews openly violated the law and disregarded the glorious manner in which it was given.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.427582131763594,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.06,
+            "commentatorTierSimilarities": [
+                31.04,
+                32.87,
+                36.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people who received the law at the injunction of angels have not kept it. They are idolizers of the law but have disregarded its commands. The law was given by God, but announced by angels, and the Jews believed that the law was given through the agency of angels. This grand and imposing circumstance added majesty and solemnity to the Divine law. However, the Jews openly violated the law, betraying their false boasts as earnest defenders of God's glory.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.331155558053501,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.85,
+            "commentatorTierSimilarities": [
+                30.11,
+                34.45,
+                35.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

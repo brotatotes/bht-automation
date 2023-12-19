@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 17:31:15",
+    "verseRef": "2 Timothy 4:12",
+    "bestBHT": {
+        "bht": "Tychicus, a faithful minister and possibly the bearer of this Epistle, was sent to Ephesus. Paul wanted Tychicus to take Timothy's place in presiding over the church in his absence. This shows Paul's care for the church in ensuring the ministry of the word continued while he was away. The life of messengers like Tychicus was one of constant movement, fulfilling the tasks given to them by Paul to strengthen and support early Christian communities.",
+        "wordCount": 77,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 1.8858667101221278,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+        "commentatorTierSimilarities": [
+            28.87,
+            31.87,
+            39.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thou art to come to me, but Tychicus I have sent to Ephesus.\" ",
+            "To supply thy place (if thou so willest it) in presiding over the Church there in thy absence.",
+            "It is possible Tychicus was the bearer of this Epistle."
+        ],
+        "Albert Barnes": [
+            "In Ephesians 6:21, Paul calls him 'a beloved brother, and faithful minister in the Lord.'",
+            "The probability is, that he had sent him before he had seen reason to apprehend that he would be put to death.",
+            "Paul wished to give some special instructions to Timothy before he died."
+        ],
+        "Marvin Vincent": [
+            "Tychicus. A comparatively uncommon name in N. T., but found in inscriptions of Asia Minor and on Asiatic coins.\" ",
+            "Carpus. Not mentioned elsewhere.\" ",
+            "The books [\u03b2\u03b9\u03b2\u03bb\u03b9\u03b1] . Biblov or, biblion was the term most widely used by the Greeks for book or volume."
+        ],
+        "Philip Schaff": [
+            "Tychicus have I sent.",
+            "The life of these evangelist messengers was one apparently of incessant movement.",
+            "The life of these evangelist messengers was one apparently of incessant movement."
+        ],
+        "Archibald T. Robertson": [
+            "Tychicus I sent to Ephesus (\u03a4\u03c5\u03c7\u03b9\u03ba\u03bf\u03bd \u03b1\u03c0\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1 \u03b5\u03b9\u03c2 \u0395\u03c6\u03b5\u03c3\u03bf\u03bd). Perhaps Paul had sent him on before he came to Rome. He may have been still on the way to Ephesus. "
+        ],
+        "John Gill": [
+            "To supply the place of Timothy, while he came to Rome, and continued there.",
+            "So careful was the apostle of the church there, that they might not be without the ministry of the word during his absence.",
+            "See Ephesians 6:20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Tychicus, a faithful minister, was sent to Ephesus, possibly as the bearer of this Epistle. By doing so, Paul intended for Tychicus to preside over the church in Timothy's absence and to ensure that the ministry of the word continued without interruption. This act demonstrates Paul's concern for the well-being of the church and his desire to provide instructions to Timothy before his potential death in Rome. The life of these messengers, like Tychicus, was one of constant movement, fulfilling the tasks given to them by Paul to strengthen and support the early Christian communities.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.794832115294407,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                27.14,
+                31.43,
+                41.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Tychicus, a faithful minister and possibly the bearer of this Epistle, was sent to Ephesus. Paul wanted Tychicus to take Timothy's place in presiding over the church in his absence. This shows Paul's care for the church in ensuring the ministry of the word continued while he was away. The life of messengers like Tychicus was one of constant movement, fulfilling the tasks given to them by Paul to strengthen and support early Christian communities.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.8858667101221278,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                28.87,
+                31.87,
+                39.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Tychicus, a faithful minister and possibly the bearer of this Epistle, was sent to Ephesus to supply Timothy's place in presiding over the church in his absence. This act reveals Paul's concern for the church and his desire to ensure the ministry of the word continued without interruption. The life of messengers like Tychicus was one of constant movement, fulfilling the tasks given to them by Paul to strengthen and support early Christian communities.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.7337239710260206,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.99,
+            "commentatorTierSimilarities": [
+                26.32,
+                30.74,
+                42.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Tychicus, a faithful minister, was sent to Ephesus, possibly as the bearer of this Epistle. By doing so, Paul intended for Tychicus to preside over the church in Timothy's absence and to ensure that the ministry of the word continued without interruption. This act demonstrates Paul's concern for the well-being of the church and his desire to provide instructions to Timothy before his potential death in Rome. The life of these messengers, like Tychicus, was one of constant movement, fulfilling the tasks given to them by Paul to strengthen and support the early Christian communities.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.794832115294407,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                27.14,
+                31.43,
+                41.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Tychicus, a faithful minister, was sent to Ephesus to supply Timothy's place in presiding over the church in his absence. This act reveals Paul's concern for the church and his desire to ensure the ministry of the word continued without interruption. The life of messengers like Tychicus was one of constant movement, fulfilling the tasks given to them by Paul to strengthen early Christian communities.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.7368411802367096,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.09,
+            "commentatorTierSimilarities": [
+                25.84,
+                32.14,
+                42.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:35:02",
+    "verseRef": "Acts 22:9",
+    "bestBHT": {
+        "bht": "Paul's companions in this account heard a voice, but they did not understand what it was saying. The use of the accusative instead of the genitive indicates that they were unable to comprehend the words they heard. This supports the genuineness of the report, as Luke did not try to smooth out differences between Paul's words and his own previous record. The voice they heard was audible, but it did not convey intelligible words, which may explain their confusion and astonishment at the miraculous light surrounding Paul.",
+        "wordCount": 89,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 2.198251104647276,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.43,
+        "commentatorTierSimilarities": [
+            25.57,
+            42.5,
+            31.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "9-11. they that were with me\u2014(See",
+            "\ton Acts 9:7, &amp;c.)"
+        ],
+        "Marvin Vincent": [
+            "Heard not [\u03bf\u03c5\u03ba \u03b7\u03ba\u03bf\u03c5\u03c3\u03b1\u03bd] . The verb is to be taken in the sense of understood, as Mark 4:33; 1 Corinthians 14:2, which explains the apparent discrepancy with ch. 9 7."
+        ],
+        "John Calvin": [
+            "Surely it is no absurd thing to say that they heard some obscure voice; yet so that they did not discern it as Paul himself, whom alone Christ meant to stay and tame with the reprehension.",
+            "Therefore, they hear a voice, because a sound doth enter into their ears, so that they know that some speaketh from heaven; they hear not the voice of him that spake to Paul, because they understand not what Christ saith.",
+            "Moreover, they see Paul compassed about with the light, but they see none which speaketh from heaven."
+        ],
+        "Philip Schaff": [
+            "There is a distinction between hearing a voice speak and hearing what it says, as nothing is more common in our public bodies than the complaint that the speaker is not heard, i.e. that his words are not distinguished, though his voice may be audible and even loud.\" ",
+            "It might be said with equal truth, that Paul\u2019s companions heard the voice, i.e. knew that it was speaking, and that they did not hear it, i.e. did not know what it said.",
+            "Here as there, the Divine Voice to the ordinary bystander was a voice, but not one uttering articulate words."
+        ],
+        "Archibald T. Robertson": [
+            "The accusative here may be used rather than the genitive as in verse Acts 22:7 to indicate that those with Paul did not understand what they heard.",
+            "The difference in cases allows this distinction, though it is not always observed...",
+            "It is one of the evidences of the genuineness of this report of Paul's speech that Luke did not try to smooth out apparent discrepancies in details between the words of Paul and his own record already in ch. 9."
+        ],
+        "John Gill": [
+            "The suddenness, greatness, and extraordinariness of the light surprised them, for it was even miraculous.",
+            "They heard the voice of Saul, but not the voice of Christ.",
+            "They did not hear it so as to understand it."
+        ],
+        "John Wesley": [
+            "They did not hear the voice \u2014 Distinctly; but only a confused noise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "While Paul's companions in Acts 22:9 heard a voice speaking, they did not understand what was being said. The use of the accusative instead of the genitive indicates that they did not comprehend the words they heard. This is not a discrepancy, but rather evidence of the authenticity of Paul's speech. It is similar to the distinction between hearing a voice and understanding its message. The Divine Voice was audible to them, but it did not convey articulate words that could be understood. The sudden and miraculous light surrounding Paul also served to astonish and confuse them.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.002055562840402,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                22.4,
+                44.43,
+                33.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's companions in this account heard a voice, but they did not understand what it was saying. The use of the accusative instead of the genitive indicates that they were unable to comprehend the words they heard. This supports the genuineness of the report, as Luke did not try to smooth out differences between Paul's words and his own previous record. The voice they heard was audible, but it did not convey intelligible words, which may explain their confusion and astonishment at the miraculous light surrounding Paul.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.198251104647276,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.43,
+            "commentatorTierSimilarities": [
+                25.57,
+                42.5,
+                31.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While Paul's companions heard a voice speaking, they did not understand what was being said. The difference in cases between hearing and understanding is significant, indicating that they did not comprehend what they heard. This supports the authenticity of Paul's speech, as even his own record in Acts 9 is not exactly the same. The voice they heard was audible, but it did not convey intelligible words. The sudden and miraculous light surrounding Paul further astonished and confused them.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.005373587430925,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.02,
+            "commentatorTierSimilarities": [
+                20.9,
+                43.07,
+                36.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's companions heard a voice, but they did not understand it. The accusative case used in this verse reveals that they did not grasp the meaning of what they heard. This apparent discrepancy actually confirms the authenticity of Paul's speech. The distinction between hearing a voice and understanding its message is like those who complain of not hearing a speaker clearly. The Divine Voice was audible to them, yet it did not convey intelligible words. The astounding light surrounding Paul added to their astonishment and confusion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.9892525888592503,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.48,
+            "commentatorTierSimilarities": [
+                21.45,
+                43.2,
+                35.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's companions heard a voice, but they did not understand it. The use of the accusative case indicates their inability to comprehend the words they heard. This discrepancy actually confirms the genuineness of Paul's speech. There is a distinction between hearing a voice and understanding its message, much like how complaints about not hearing a speaker clearly are common. The Divine Voice was audible, yet it did not convey intelligible words. The remarkable light surrounding Paul further bewildered them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9305564601016751,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.53,
+            "commentatorTierSimilarities": [
+                20.3,
+                44.79,
+                34.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

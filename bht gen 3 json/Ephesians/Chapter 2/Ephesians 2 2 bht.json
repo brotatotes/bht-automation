@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:30:03",
+    "verseRef": "Ephesians 2:2",
+    "bestBHT": {
+        "bht": "Formerly, we lived under the control of the devil, the ruler of the power of the air, who tempted us with evil spirits that had access to our minds. This spirit was the spirit of the world, a character of ungodliness and disobedience. However, through Christ's ascension, Satan was cast out of heaven and now assails us on earth with trials and temptations. Our world is tainted by a poisonous atmosphere, but the coming of Christ will bring purification. Satan, the ruler of demons, explains the evil present in the disobedient.",
+        "wordCount": 92,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 2.0967306601612723,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.06,
+        "commentatorTierSimilarities": [
+            42.41,
+            25.92,
+            31.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "According to the ruler of the power of the air, the devil\u2014the god of this world, is clearly meant.",
+            "We are tempted by evil spirits, who have access to us, and suggest thoughts and desires to our minds.",
+            "The spirit represents their aggregate character, as an influence on the human mind, a spirit of ungodliness and disobedience\u2014the 'spirit of the world.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The age\" (which is something more external and ethical) regulates \"the world\" (which is something more external).",
+            "Christ's ascension seems to have cast Satan out of heaven, where he had been heretofore the accuser of the brethren. No longer able to accuse in heaven, he assails them on earth with all trials and temptations.",
+            "We live in an atmosphere poisonous and impregnated with deadly elements. But a mighty purification of the air will be effected by Christ's coming."
+        ],
+        "Albert Barnes": [
+            "The meaning is, that they had lived formerly as other people lived, and the idea is strongly conveyed that the course of the people of this world is to walk in trespasses and sins.",
+            "Paul means to say that they were under his control as their leader and prince.",
+            "Paul here means undoubtedly to teach that there was such a spirit, and that he was still active in controlling people."
+        ],
+        "Marvin Vincent": [
+            "The air is regarded as the region of the demons' might.",
+            "The term designates the power over which Satan rules, on the side of its operation in men's hearts.",
+            "Rev., correctly, sons of disobedience: belonging to disobedience as sons to a parent."
+        ],
+        "John Calvin": [
+            "When he adds, according to the course of this world, he intimates that the death which he had mentioned rages in the nature of man, and is a universal disease. He does not mean that course of the world which God has ordained, nor the elements, such as the heaven, and earth, and air, \u2014 but the depravity with which we are all infected; so that sin is not peculiar to a few, but pervades the whole world.",
+            "What does he leave to us, when he declares us to be the slaves of Satan, and subject to his will, so long as we live out of the kingdom of Christ? Our condition, therefore, though many treat it with ridicule, or, at least, with little disapprobation, may well excite our horror.",
+            "We may now draw from it also this inference, that ungodly men have no excuse in being driven by Satan to commit all sorts of crimes. Whence comes it that they are subject to his tyranny, but because they are rebels against God? If none are the slaves of Satan, but those who have renounced the service, and refuse to yield to the authority, of God, let them blame themselves, for having so cruel a master."
+        ],
+        "Philip Schaff": [
+            "In this sleep of death there is a strange somnambulism.\" ",
+            "The ethical character of this 'course' is indicated, not by the word itself, but by the phrase 'of this world' which has its usual meaning here, namely, the world of humanity estranged from God.",
+            "To the Apostle, Satan, his kingdom, his emissaries and his operations in the souls of men, were fearful realities."
+        ],
+        "Archibald T. Robertson": [
+            "Satan is here pictured as ruler of the demons and other agencies of evil.\" ",
+            "Those who deny the existence of a personal devil cannot successfully deny the vicious tendencies, the crime waves, in modern men.\" ",
+            "The power of the devil in the lives of men does explain the evil at work 'in the sons of disobedience'."
+        ],
+        "John Gill": [
+            "Sins and transgressions are a road or path, in which all unconverted sinners walk; and this path is a dark, crooked, and broad one, which leads to destruction and death.",
+            "Great is the force that prevailing customs have over men; it is one branch of redemption by Christ, to deliver men from this present evil world, and to free them from a vain conversation in it.",
+            "Satan himself, who is a spirit, and an evil, and an unclean one; and who operates powerfully in unbelievers, for they are meant by children of disobedience, or unbelief."
+        ],
+        "John Wesley": [
+            "The word translated course properly means a long series of times, wherein one corrupt age follows another.",
+            "The effect of which power all may perceive, though all do not understand the cause of it: a power unspeakably penetrating and widely diffused; but yet, as to its baneful influences, beneath the orb of believers.",
+            "The evil spirits are united under one head, the seat of whose dominion is in the air. Here he sometimes raises storms, sometimes makes visionary representations, and is continually roving to and fro."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We were once under the influence of the devil, the ruler of the power of the air, who tempted us with evil spirits that had access to our minds. This spirit represented a character of ungodliness and disobedience, known as the spirit of the world. However, Christ's ascension has cast Satan out of heaven, and he now assails us on earth with trials and temptations. We live in a poisonous atmosphere, but Christ's coming will bring about a purification. Satan, as the ruler of the demons, explains the evil at work in those who are disobedient. It is clear that there is a universal disease of sin that infects all of humanity, and those who live outside the kingdom of Christ are slaves to Satan's will. Therefore, ungodly men have no excuse for their actions, as they are rebels against God.",
+            "wordCount": 144,
+            "quoteTokenProportion": 44.09,
+            "qualityScore": 2.0684369589950835,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+            "commentatorTierSimilarities": [
+                39.37,
+                26.05,
+                34.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We were all once under the influence of the devil, the ruler of the power of the air, who tempted us with evil spirits. This spirit represented a character of ungodliness and disobedience, known as the spirit of the world. Christ's ascension cast Satan out of heaven, and he now assails us on earth with trials and temptations. We live in a poisonous atmosphere, but Christ's coming will bring about a purification. Satan, as the ruler of the demons, explains the evil at work in those who are disobedient.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.0831549564196434,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.61,
+            "commentatorTierSimilarities": [
+                43.23,
+                24.67,
+                32.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We were once under the influence of the devil, the ruler of the power of the air, who tempted us with evil spirits that had access to our minds. This spirit represented a character of ungodliness and disobedience, known as the spirit of the world. However, Christ's ascension has cast Satan out of heaven and he now assails us on earth with trials and temptations. We live in a poisonous atmosphere, but Christ's coming will bring about a purification. Satan, as the ruler of the demons, explains the evil at work in those who are disobedient.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.072143545389774,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.24,
+            "commentatorTierSimilarities": [
+                43.23,
+                24.85,
+                31.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Formerly, we lived under the control of the devil, the ruler of the power of the air, who tempted us with evil spirits that had access to our minds. This spirit was the spirit of the world, a character of ungodliness and disobedience. However, through Christ's ascension, Satan was cast out of heaven and now assails us on earth with trials and temptations. Our world is tainted by a poisonous atmosphere, but the coming of Christ will bring purification. Satan, the ruler of demons, explains the evil present in the disobedient.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.0967306601612723,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.06,
+            "commentatorTierSimilarities": [
+                42.41,
+                25.92,
+                31.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We were once under the control of the devil, the ruler of the power of the air, who tempted us with evil spirits. This spirit represented a character of ungodliness and disobedience, known as the spirit of the world. However, Christ's ascension has cast Satan out of heaven, and now he assails us on earth with trials and temptations. Our world is filled with a poisonous atmosphere, but the coming of Christ will bring about purification. Satan, as the ruler of the demons, is responsible for the evil at work in those who are disobedient.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.0942557019715267,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.97,
+            "commentatorTierSimilarities": [
+                42.52,
+                25.39,
+                32.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

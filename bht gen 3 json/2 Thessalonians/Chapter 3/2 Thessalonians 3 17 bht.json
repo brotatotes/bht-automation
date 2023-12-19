@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:38:34",
+    "verseRef": "2 Thessalonians 3:17",
+    "bestBHT": {
+        "bht": "In his letter to the Thessalonians, Paul clarifies that he writes the salutation with his own hand as a token of authenticity and to distinguish his genuine letters from any counterfeits. By employing an amanuensis for the body of his epistles, Paul ensures the integrity of his message. This caution is driven by the early practice of presenting spurious writings under the apostles' name, and Paul's desire to protect the Thessalonians from being troubled by false letters purportedly from him. The autograph salutation serves as a sign to differentiate genuine epistles from forgeries.",
+        "wordCount": 94,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 2.516793999166403,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.02,
+        "commentatorTierSimilarities": [
+            30.97,
+            35.82,
+            33.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Epistle, as it follows from this, was not written with the Apostle\u2019s own hand, but dictated.",
+            "His reason for this caution evidently was, the 'epistle as from us,' spoken of ch. ii. 2.",
+            "And the words in every epistle must not be limited to any future Epistles which he might send to the Thessalonians, but understood of a caution which he intended to practice in future with all his Epistles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Wherever Paul does not subjoin this autograph salutation, we may presume he wrote the whole Epistle himself.\" ",
+            "The token\u2014to distinguish genuine Epistles from spurious ones put forth in my name.\" ",
+            "So I write\u2014so I sign my name: this is a specimen of my handwriting, by which to distinguish my genuine letters from forgeries."
+        ],
+        "Albert Barnes": [
+            "Which is the token in every epistle.\" ",
+            "This signature is a sign or proof of the genuineness of the epistle.",
+            "Referring, probably, to some mark or method which Paul had of signing his name, which was well known, and which would easily be recognized by them."
+        ],
+        "Marvin Vincent": [
+            "The salutation of me Paul.",
+            "Paul had apparently been employing an amanuensis.",
+            "In every epistle."
+        ],
+        "John Calvin": [
+            "For this was an old artifice of Satan \u2014 to put forward spurious writings, that he might detract from the credit of those that are genuine.",
+            "By a singular kindness on the part of God, it has been brought about that, his frauds being defeated, the doctrine of Christ has come down to us sound and entire through the ministry of Paul and others.",
+            "The concluding prayer explains in what manner God aids his believing people \u2014 by the presence of Christ\u2019s grace."
+        ],
+        "Philip Schaff": [
+            "These words apparently form the commencement of the autograph salutation with which the apostle attests the genuineness and authenticity of the Epistle.",
+            "And this proves that, however Paul might associate others with himself in sending his Epistles... he yet distinctly \u2018regarded himself and desired the churches to regard him as the sole author of his Epistles.\u2019",
+            "The autograph salutation... was the 'token.' So I write... an invitation to his readers to observe the distinctive characteristics of his handwriting."
+        ],
+        "Archibald T. Robertson": [
+            "Of me Paul with mine own hand.",
+            "The token in every epistle.",
+            "Each church was enabled to know that Paul wrote the letter."
+        ],
+        "John Gill": [
+            "The salutation of Paul with mine own hand,.... In writing his epistles, the body and substance of them he used an amanuensis, but the salutation he wrote with his own hand.",
+            "which is the token in every epistle; by which they might be known to be true and genuine, and be distinguished from counterfeit ones.",
+            "and the rather he mentions this, that they might be troubled neither by word, nor by spirit, nor by epistle, as from them, as they had been, 2 Thessalonians 2:2 for it seems that this wicked practice of counterfeiting the epistles of the apostles, or carrying about spurious ones, under their name, began so early; to prevent which, the apostle took this method."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In his letter to the Thessalonians, Paul clarifies that although some parts of the epistle may have been dictated, he writes the salutation with his own hand in order to distinguish his genuine letters from any counterfeits. This autograph salutation serves as a token or sign of the genuineness and authenticity of his epistles. Paul's motive for this caution is evident, as he wants to protect the Thessalonians from being troubled by false letters purportedly from him. By employing an amanuensis for the body of his epistles, Paul ensures the integrity of his message while also providing a distinctive characteristic in his own handwriting to safeguard against forgeries.",
+            "wordCount": 109,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 2.4925830345523905,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.22,
+            "commentatorTierSimilarities": [
+                29.98,
+                37.07,
+                32.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his letter to the Thessalonians, Paul clarifies that although some parts of the epistle may have been dictated, he writes the salutation with his own hand as a token of authenticity. This autograph salutation serves as a sign to distinguish his genuine letters from any counterfeits. By employing an amanuensis for the body of his epistles, Paul ensures the integrity of his message. This caution is driven by the early practice of presenting spurious writings under the apostles' name, and Paul's desire to protect the Thessalonians from being troubled by false letters purportedly from him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.5055187509677155,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.65,
+            "commentatorTierSimilarities": [
+                30.98,
+                35.5,
+                33.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his letter to the Thessalonians, Paul clarifies that he writes the salutation with his own hand as a token of authenticity and to distinguish his genuine letters from any counterfeits. By employing an amanuensis for the body of his epistles, Paul ensures the integrity of his message. This caution is driven by the early practice of presenting spurious writings under the apostles' name, and Paul's desire to protect the Thessalonians from being troubled by false letters purportedly from him. The autograph salutation serves as a sign to differentiate genuine epistles from forgeries.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.516793999166403,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.02,
+            "commentatorTierSimilarities": [
+                30.97,
+                35.82,
+                33.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in his letter to the Thessalonians, writes the salutation with his own hand to serve as a token of authenticity and to differentiate his genuine epistles from any counterfeits. His use of an amanuensis for the body of the letter ensures the integrity of his message. This caution is prompted by the historical practice of distributing spurious writings under the apostles' name. By providing his autograph, Paul seeks to protect the Thessalonians from being misled by false letters claiming to be from him. The autograph salutation becomes a distinguishing mark of his genuine epistles.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.3480325468645926,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.41,
+            "commentatorTierSimilarities": [
+                30.32,
+                37.37,
+                32.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in his letter to the Thessalonians, writes the salutation with his own hand to serve as a token of authenticity and distinguish his genuine epistles from any counterfeits. By employing an amanuensis for the body of the letter, Paul ensures the integrity of his message while providing a distinctive autograph as a safeguard against forgeries. This caution arises from the early practice of circulating spurious writings under the apostles' name. Through his autograph salutation, Paul aims to protect the Thessalonians from being troubled by false letters purportedly from him, thereby preserving the credibility of his genuine epistles.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.4622042158087676,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.21,
+            "commentatorTierSimilarities": [
+                30.44,
+                36.16,
+                33.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

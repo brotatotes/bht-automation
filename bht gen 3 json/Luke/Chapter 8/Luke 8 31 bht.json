@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:16:43",
+    "verseRef": "Luke 8:31",
+    "bestBHT": {
+        "bht": "The legion of demons, encompassing a multitude of evil spirits, entreated Jesus not to consign them to the abyss, the bottomless place of confinement and suffering. Aware of His absolute authority over them, the demons sought to avoid being sent to hell. Instead, they desired to roam the earth or be in any other place apart from their dreadful abode. Despite their temporary refuge in the swine, Jesus forcefully commanded them to depart from the afflicted man and enter the herd.",
+        "wordCount": 81,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.6313525224917056,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.58,
+        "commentatorTierSimilarities": [
+            28.87,
+            37.91,
+            33.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Command them. The plural, referring to the legion.",
+            "The deep [\u03b1\u03b2\u03c5\u03c3\u03c3\u03bf\u03bd] . Lit., the bottomless. Transcribed into our abyss...",
+            "The demons refer to their place of abode and torment."
+        ],
+        "Philip Schaff": [
+            "Into the abyss...means 'hell,' the place of punishment for evil spirits.",
+            "We must distinguish between 'abyss,' 'the ad interim place of torment, and the lake of fire into which the devil will be cast by Christ at the end.",
+            "The respite obtained by their entering into the herd of swine was a very brief one."
+        ],
+        "Archibald T. Robertson": [
+            "Into the abyss...the bottomless place...the common receptacle of the dead..."
+        ],
+        "John Gill": [
+            "That is, all the devils, the whole legion of them, entreated Jesus, under whose power, and at whose dispose they were.",
+            "They desired, that when they went out of this man, they might not be ordered thither, or remanded to their former prison.",
+            "For they knew that if he gave the word of command, they must obey; but that they might be suffered to continue in that country, and range about on earth, or be anywhere, rather than in hell."
+        ],
+        "John Wesley": [
+            "The abyss \u2014 That is, the bottomless pit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The demons pleaded with Jesus not to send them to their torment in the abyss, the bottomless place of abode for evil spirits. They knew that if Jesus commanded it, they would have to obey and go to their rightful place in hell. Instead, they asked to be allowed to roam the earth or be anywhere else, even though their respite in the herd of swine was short-lived. However, Jesus had authority over them and ultimately commanded them to leave the man and enter the swine.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.4404902597289846,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                23.78,
+                40.32,
+                35.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The legion of demons, pleading with Jesus, asked not to be sent to the bottomless pit, their place of abode and torment. They knew that if Jesus commanded it, they must obey and go to hell. Instead, they desired to roam the earth or be anywhere but in the abyss. Though their respite in the herd of swine was brief, Jesus exercised his authority by commanding them to leave the man and enter the swine.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.5588145359109573,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.17,
+            "commentatorTierSimilarities": [
+                27.25,
+                34.77,
+                37.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The demons, representing a whole legion, implored Jesus not to send them into the abyss, the bottomless place of torment. Their request reflects their knowledge that if Jesus commanded it, they would have no choice but to obey and be confined to hell. Instead, they preferred to wander the earth or be anywhere other than their dreadful abode. Although their stint in the herd of swine was short-lived, Jesus, with his authority, ordered them to leave the possessed man and enter the swine.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4799962559014295,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.55,
+            "commentatorTierSimilarities": [
+                26.7,
+                36.47,
+                36.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The legion of demons, seeking mercy, begged Jesus not to send them to the bottomless pit, their place of abode and torment. They knew that if Jesus commanded it, they would be forced to obey and go to hell. Instead, they pleaded to be allowed to roam the earth or be anywhere but in the abyss. Although their respite in the herd of swine was brief, Jesus, with his authority, commanded them to leave the man and enter the swine.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.5726052664671832,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                26.52,
+                35.7,
+                37.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The legion of demons, encompassing a multitude of evil spirits, entreated Jesus not to consign them to the abyss, the bottomless place of confinement and suffering. Aware of His absolute authority over them, the demons sought to avoid being sent to hell. Instead, they desired to roam the earth or be in any other place apart from their dreadful abode. Despite their temporary refuge in the swine, Jesus forcefully commanded them to depart from the afflicted man and enter the herd.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.6313525224917056,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.58,
+            "commentatorTierSimilarities": [
+                28.87,
+                37.91,
+                33.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

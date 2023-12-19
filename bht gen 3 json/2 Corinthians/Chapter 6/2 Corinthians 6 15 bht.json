@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:16:43",
+    "verseRef": "2 Corinthians 6:15",
+    "bestBHT": {
+        "bht": "Belial, derived from the Hebrew word for wickedness and worthlessness, is personified as the Evil One, opposed to Christ. Paul cautions believers against being partnered with those who do not believe in Christ, emphasizing the stark contrast between believers and unbelievers. The image of discordant sounds highlights the incompatibility between Christ and Belial. Therefore, Christians are called to separate themselves from the wickedness of the world, as Christ did from the plans and purposes of Satan.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.166503984550582,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.38,
+        "commentatorTierSimilarities": [
+            34.48,
+            35.65,
+            29.88
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Belial: The meaning of the Hebrew word is 'contemptibleness,' 'wickedness.'",
+            "It appears to have been subsequently personified, and used as here for a name of the Evil One.",
+            "Belial...used as here for a name of the Evil One."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Belial being here opposed to Christ, must denounce all manner of Antichristian uncleanness.",
+            "A believer with an unbeliever.",
+            "Belial\u2014Hebrew, 'worthlessness, unprofitableness, wickedness.'"
+        ],
+        "Albert Barnes": [
+            "There is as much that is discordant between Christ and Belial as there is between instruments of music that produce only discordant and jarring sounds.",
+            "Christians should be separate from the wicked world, as Christ was separate from all the feelings, purposes, and plans of Satan.",
+            "They are governed by different principles; have different feelings; are looking to different rewards; and are tending to a different destiny."
+        ],
+        "Marvin Vincent": [
+            "Primarily of the concord of sounds.",
+            "Belial is a transcript of the Hebrew, meaning worthlessness or wickedness.",
+            "Here a synonym for Satan."
+        ],
+        "John Calvin": [
+            "For from what holds good as to the two heads, he comes down without delay to the members: 'As there is an irreconcilable variance between Christ and Satan, so we also must keep aloof from partnership with the wicked.'",
+            "When, however, Paul says that a Christian has no participation with an unbeliever, he does not mean as to food, clothing, estates, the sun, the air, as I have mentioned above, but as to those things that are peculiar to unbelievers, from which the Lord has separated us.",
+            "Hence it is, that Paul has employed the word here to mean the devil, the head of all wicked persons."
+        ],
+        "Philip Schaff": [
+            "And what concord hath Christ with Belial?",
+            "it is that a 'believer' is supposed to breathe a different atmosphere, to live for fundamentally different ends, and to have entirely different interests and tastes and modes of action, from an 'unbeliever.'",
+            "different speculative opinions about religion that makes intimate fellowship between them impracticable"
+        ],
+        "Archibald T. Robertson": [
+            "Paul graphically sums up the contrast between Christ and Belial (Satan), the heads of the contending forces of good and evil.",
+            "Here by 'unbeliever' (\u03b1\u03c0\u03b9\u03c3\u03c4\u03bf\u03c5) Paul means 'disbeliever,' not just an unconverted man who yet approves Christ.",
+            "Concord (\u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03b7\u03c3\u03b9\u03c2). Symphony."
+        ],
+        "John Gill": [
+            "Belial is a wicked man, who does not succeed, and does not prosper.",
+            "It signifies one that is unprofitable, does no good, and is good for nothing.",
+            "Between whom and Christ there is no concord, but a perpetual enmity."
+        ],
+        "John Wesley": [
+            "What concord hath Christ \u2014 Whom ye serve.",
+            "With Belial \u2014 To whom they belong."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ and Belial are as opposite as can be, representing the forces of good and evil. Belial, personified as the Evil One, symbolizes wickedness and worthlessness. Therefore, believers should not be yoked together with unbelievers, disbelievers who do not acknowledge Christ. The contrast between Christ and Belial is as stark as the contrast between beautiful harmony and discordant sounds, highlighting that Christians are called to be separate from the world and its wicked ways. We are to have different principles, feelings, rewards, and destinies. Just as Christ has no fellowship with Satan, we too should keep ourselves apart from partnership with the wicked.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.059051320530772,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+            "commentatorTierSimilarities": [
+                31.97,
+                37.4,
+                30.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Belial, personified as the Evil One, represents contemptibleness and wickedness. As Paul contrasts Christ with Belial, believers are urged not to be joined with unbelievers, but to maintain distance from those who do not acknowledge Christ. The contrast between Christ and Belial is like the disparity between harmonious sounds and discordant notes. Christians are called to be separate from the wicked world, governed by different principles and aiming toward different goals. Just as there is no concord between Christ and Belial, believers should avoid partnership with the ungodly.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.1201937265938753,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.84,
+            "commentatorTierSimilarities": [
+                30.8,
+                37.24,
+                31.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Belial, meaning contemptibleness and wickedness, is personified as the Evil One, representing Satan. In contrast to Christ, Belial stands for all forms of Antichristian uncleanness. Believers are warned against being unequally yoked with unbelievers, who refuse to acknowledge Christ. The analogy of the concord of sounds emphasizes the stark contrast between Christ and Belial, highlighting the need for believers to separate themselves from the wicked world and its values. Christians are called to have different principles, goals, and interests than those who do not believe in Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.142768291718432,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.59,
+            "commentatorTierSimilarities": [
+                32.92,
+                35.05,
+                32.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Belial, derived from the Hebrew word for wickedness and worthlessness, is personified as the Evil One, opposed to Christ. Paul cautions believers against being partnered with those who do not believe in Christ, emphasizing the stark contrast between believers and unbelievers. The image of discordant sounds highlights the incompatibility between Christ and Belial. Therefore, Christians are called to separate themselves from the wickedness of the world, as Christ did from the plans and purposes of Satan.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.166503984550582,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.38,
+            "commentatorTierSimilarities": [
+                34.48,
+                35.65,
+                29.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Belial, meaning contemptibleness and wickedness, is personified as the Evil One, representing Satan. In contrast to Christ, Belial refers to all types of Antichristian uncleanness. Paul warns believers against being joined with unbelievers, who do not acknowledge Christ. The analogy of the concord of sounds emphasizes the stark contrast between Christ and Belial, highlighting the necessity for believers to separate from the wicked world and its values. Christians are called to have different principles, goals, and interests than those who do not believe in Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.1594968888450845,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.14,
+            "commentatorTierSimilarities": [
+                32.99,
+                34.27,
+                32.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

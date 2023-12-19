@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:20:15",
+    "verseRef": "Luke 15:10",
+    "bestBHT": {
+        "bht": "The joy in the celestial realms is so vast and exuberant that God calls His whole celestial family together, saying, Rejoice WITH ME, for I have found My sheep-My-piece. The recovery of even one outcast is watched with interest and hailed with joy, as the great Shepherd finds and brings it back with joy. The angels, as neighbors of God, catch this flying joy and share in it. If angels rejoice in the restoration, we too should partake in the same joy.",
+        "wordCount": 84,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 1.7780527269880668,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+        "commentatorTierSimilarities": [
+            46.07,
+            20.32,
+            33.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "so vast and exuberant is it ( :-), that as if He could not keep it to Himself, He 'calleth His friends and neighbors together'\u2014His whole celestial family\u2014saying, 'Rejoice WITH ME, for I have found My sheep-My-piece,' c.\" ",
+            "In this sublime sense it is 'joy'... they only 'catch the flying joy,' sharing it with Him!",
+            "the recovery of even one such outcast is watched with interest and hailed with joy; nor are they left to come home of themselves or perish; for lo! even now the great Shepherd is going after His lost sheep, and the Owner is making diligent search for the lost property; and He is finding it, too, and bringing it back with joy, and all heaven is full of it."
+        ],
+        "John Calvin": [
+            "If angels mutually rejoice with each other in heaven, when they see that what had wandered is restored to the fold, we too, who have the same cause in common with them, ought to be partakers of the same joy.\" ",
+            "Though it would be more agreeable to the wishes of angels (as it is also more desirable) that men should always remain in perfect integrity, yet as in the deliverance of a sinner, who had been already devoted to destruction, and had been cut off as a rotten member from the body, the mercy of God shines more brightly.",
+            "The word repentance is specially limited to the conversion of those who, having altogether turned aside from God, rise as it were from death to life; for otherwise the exercise of repentance ought to be uninterrupted throughout our whole life."
+        ],
+        "Philip Schaff": [
+            "He that is faithful, etc. Lest it should seem strange that so much importance is attached to the proper use of perishing and unrighteous wealth, remember the great principle: \u2018He that is faithful,' etc.",
+            "That which is least, or 'a very little.' This refers to earthly possessions, and the faithfulness is the wise and prudent conduct suggested by the parable.",
+            "In much. In this case this is equivalent to: 'the true riches,' 'your own,' the inheritance and possession of the sons of the light. But the principle is general, and capable of a great variety of applications."
+        ],
+        "Archibald T. Robertson": [
+            "There is joy... joy arises.\" ",
+            "The joy of God himself.\" ",
+            "The angels are in a sense the neighbours of God."
+        ],
+        "John Gill": [
+            "there is joy in the presence of the angels of God\" - Luke 15:10.",
+            "over one sinner that repenteth\" - Luke 15:10.",
+            "the reason of this joy is, because there is one rescued out of the hands of Satan and his angels\" - Luke 15:10."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The joy in Luke 15:10 is so immense and overflowing that God cannot keep it to Himself. He calls His celestial family together, saying, Rejoice WITH ME! The recovery of even one outcast is watched with interest and hailed with joy, as the great Shepherd diligently searches for and finds His lost sheep, bringing it back with joy. The angels are the neighbors of God, sharing in this joy. If angels rejoice in heaven at the restoration of the wandering, we too should partake in the same joy.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7025609881437762,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.95,
+            "commentatorTierSimilarities": [
+                42.87,
+                20.3,
+                36.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The joy in the celestial realms is so vast and exuberant that God calls His whole celestial family together, saying, Rejoice WITH ME, for I have found My sheep-My-piece. The recovery of even one outcast is watched with interest and hailed with joy, as the great Shepherd finds and brings it back with joy. The angels, as neighbors of God, catch this flying joy and share in it. If angels rejoice in the restoration, we too should partake in the same joy.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.7780527269880668,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+            "commentatorTierSimilarities": [
+                46.07,
+                20.32,
+                33.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The immense joy in the celestial realms over the recovery of a lost soul is shared by God and His angelic family. God cannot contain this joy, calling upon His celestial friends and neighbors to rejoice with Him. The great Shepherd diligently searches for and finds the lost sheep, bringing it back with joy. As neighbors of God, the angels too rejoice in the restoration. Just as the angels partake in this joy, we should also share in the delight of a sinner's repentance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.6789191060082964,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.17,
+            "commentatorTierSimilarities": [
+                42.74,
+                20.65,
+                36.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The joy experienced in heaven over the recovery of a lost soul is immeasurable. God calls upon His celestial family to join in celebrating this joyous occasion. The great Shepherd diligently searches for and finds the lost sheep, bringing it back with joy. The angels, being the neighbors of God, also share in this jubilation. We, too, should partake in the same joy as the angels when a sinner repents and is restored.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.5555941778622788,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.07,
+            "commentatorTierSimilarities": [
+                42.66,
+                19.36,
+                37.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The immense and exuberant joy in heaven over the recovery and restoration of a lost soul is beyond measure. God does not keep this joy to Himself but invites His celestial family, His angels and neighbors, to join in the celebration. The great Shepherd diligently seeks and finds the lost sheep, bringing it back with overwhelming joy. As neighbors of God, the angels also share in this jubilation. We too should rejoice alongside the angels when a sinner repents and finds redemption.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.5784299151670993,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                40.46,
+                22.02,
+                37.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:21:24",
+    "verseRef": "Galatians 5:26",
+    "bestBHT": {
+        "bht": "Let us not become vainglorious, for vainglory implies a contrast with the state of mind which seeks the glory of God. Provoking one another is an effect of this vaingloriousness on the stronger, as envying is its effect on the weaker. The true way to cure envy is to make people feel that in their great and important interests they are on a level. Therefore, let us cease becoming vainglorious, provoking one another in a bad sense and envying each other.",
+        "wordCount": 81,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1112233419990925,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+        "commentatorTierSimilarities": [
+            36.91,
+            32.19,
+            30.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let us not become... a mild, and at the same time a solemn method of warning.",
+            "'Let us not be,' of the A.V., misses this.",
+            "'envying is the correlative act on the part, of the weak, to the provoking on the part of the strong."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let us not BECOME.\" While not asserting that the Galatians are \"vainglorious\" now, he says they are liable to become so.",
+            "Provoking one another.\" An effect of \"vaingloriousness\" on the stronger: as \"envying\" is its effect on the weaker.",
+            "A danger common both to the orthodox and Judaizing Galatians."
+        ],
+        "Albert Barnes": [
+            "The doctrines of Paul are, that on great and most vital respects people are on a level; that these things contribute nothing to salvation.",
+            "The true way to cure envy is to make people feel that in their great and important interests they are on a level.",
+            "If men feel that their great interests are beyond the tomb: that in the important matter of salvation they are on a level; that soon they are to be undistinguished beneath the clods of the valley, how unimportant comparatively would it seem to adorn their bodies, to advance their name and rank and to improve their estates!"
+        ],
+        "Marvin Vincent": [
+            "Vainglory implies a contrast with the state of mind which seeks the glory of God.",
+            "Vainglory means having a vain conceit of possessing a rightful claim to honor.",
+            "Provoking implies calling forth, challenging, and stirring up strife."
+        ],
+        "John Calvin": [
+            "The vain-glory of which he speaks is nothing else than ambition, or the desire of honor, by which every one desires to excel all others.",
+            "Among Christians, whoever is desirous of glory departs from true glory, and therefore is justly charged with idle and foolish ambition.",
+            "Mutual provocations and envyings are the daughters of ambition."
+        ],
+        "Philip Schaff": [
+            "Love of vainglory is a common vice all the world over in all conditions...but nowhere is this vice so harmful as in the officers of the church.",
+            "It is not lawful for us to glory but in God alone. Every other kind of glorying is pure vanity.",
+            "Mutual provocations and envyings are the daughters of ambition."
+        ],
+        "Archibald T. Robertson": [
+            "Let us cease becoming vainglorious.",
+            "Provoking one another... in bad sense.",
+            "Envying... Only here in N.T."
+        ],
+        "John Gill": [
+            "Ambitious of being thought wiser, and richer, and more valuable than others; of having the preeminence in the management of all affairs, and of having honour, esteem, and popular applause from men: this may well be called vain glory.",
+            "Provoking one another; not to good works, which would be right, but to anger and wrath, which is contrary to Christian charity, or true love.",
+            "Envying one another; their gifts and abilities, natural and spiritual; their rank and station in the world, or in the church. These were sins the Galatians very probably were subject to; and where they prevail, there is confusion, and every evil work, and are therefore to be watched and guarded against."
+        ],
+        "John Wesley": [
+            "Be not desirous of vain glory \u2014 Of the praise or esteem of men.",
+            "They who do not carefully and closely follow the Spirit, easily slide into this: the natural effects of which are, provoking to envy them that are beneath us.",
+            "and envying them that are above us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us not become vainglorious, for vainglory implies a contrast with the state of mind which seeks the glory of God. Provoking one another is an effect of this vaingloriousness on the stronger, as envying is its effect on the weaker. The true way to cure envy is to make people feel that in their great and important interests they are on a level. Love of vainglory is a common vice all over the world, but nowhere is this vice so harmful as in the officers of the church. Therefore, let us cease becoming vainglorious, provoking one another in a bad sense and envying each other's gifts and abilities.",
+            "wordCount": 110,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 2.04342079983525,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.28,
+            "commentatorTierSimilarities": [
+                31.91,
+                37.73,
+                30.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us not become vainglorious, for vainglory implies a contrast with the state of mind which seeks the glory of God. Provoking one another is an effect of this vaingloriousness on the stronger, as envying is its effect on the weaker. The true way to cure envy is to make people feel that in their great and important interests they are on a level. Therefore, let us cease becoming vainglorious, provoking one another in a bad sense and envying each other.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1112233419990925,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+            "commentatorTierSimilarities": [
+                36.91,
+                32.19,
+                30.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us not become vainglorious, for vainglory implies a contrast with the state of mind which seeks the glory of God. Provoking one another is an effect of this vaingloriousness on the stronger, as envying is its effect on the weaker. The true way to cure envy is to make people feel that in their great and important interests they are on a level. Therefore, let us cease becoming vainglorious, provoking one another in a bad sense and envying each other.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1112233419990925,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+            "commentatorTierSimilarities": [
+                36.91,
+                32.19,
+                30.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us not become vainglorious or provoke one another. Vainglory, or the desire of honor, is a harmful vice that goes against seeking the glory of God. Envy is its corresponding effect, causing strife among the weaker and stronger. To cure envy, it is important to recognize that all people are on a level when it comes to their great and important interests, especially salvation. Therefore, let us abandon vainglory and strive to avoid provoking one another and envying each other's gifts and abilities.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9642315389076281,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+            "commentatorTierSimilarities": [
+                31.12,
+                32.58,
+                36.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us not become vainglorious or provoke one another. Vainglory, or the desire of honor, is a harmful vice that goes against seeking the glory of God. Envy is its corresponding effect, causing strife among the weaker and stronger. To cure envy, it is important to recognize that all people are on a level when it comes to their great and important interests, especially salvation. Therefore, let us abandon vainglory and strive to avoid provoking one another and envying each other's gifts and abilities.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9642315389076281,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+            "commentatorTierSimilarities": [
+                31.12,
+                32.58,
+                36.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

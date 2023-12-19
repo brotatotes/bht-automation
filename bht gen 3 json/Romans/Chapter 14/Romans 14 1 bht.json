@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:09:35",
+    "verseRef": "Romans 14:1",
+    "bestBHT": {
+        "bht": "Paul addresses the issue of weak faith and over-tender consciences in Romans 14:1. Believers with such weaknesses struggle with adherence to certain practices due to lack of broad and independent principles, and bondage to prejudices. The apostle advises the strong ones not to pass judgment or settle disputes, but to receive the weak into fellowship with open arms, drawing them away from doubts. Kindness, tenderness, and faithful teaching are key in producing peace and helping the weak grow in their faith.",
+        "wordCount": 81,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 2.005529535160006,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+        "commentatorTierSimilarities": [
+            33.7,
+            34.26,
+            32.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In weakness of faith, and the scruples of an over-tender conscience, retained their habits of abstinence and observation of days.",
+            "The particular weakness consisted in a want of broad and independent principle, and a consequent bondage to prejudices.",
+            "Do not let your association of him among you be with a view to settle these disputes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Him that is weak in the faith... him whose faith wants that firmness and breadth which would raise him above small scruples.",
+            "To receive him to full brotherly confidence and cordial interchange of Christian affection is the most effectual way of drawing them off.",
+            "The strong, it will be observed, are those who knew these to be abolished under the Gospel; 'the weak' are those who had scruples on this point."
+        ],
+        "Albert Barnes": [
+            "The design here is to induce Christians to receive to their fellowship those who had scruples about the propriety of certain things, or that might have special prejudices and feelings as the result of education or former habits of belief.",
+            "To produce peace, there must be kindness, tenderness, and faithful teaching; not denunciation, or harshness, on one side or the other.",
+            "The 'leading' idea here - which all Christians should remember - is, that a harsh and angry denunciation of a man in relation to things not morally wrong, but where he may have honest scruples, will only tend to confirm him more and more in his doubts."
+        ],
+        "Marvin Vincent": [
+            "Weak in the faith... the reference being to faith in Christ, not to christian doctrine.",
+            "Receive these weak brethren, but not for the purpose of passing judgment upon their scruples.",
+            "Receive ye... into fellowship."
+        ],
+        "John Calvin": [
+            "They who have made the most progress in Christian doctrine should accommodate themselves to the more ignorant, and employ their own strength to sustain their weakness.",
+            "For God, by making us stronger than others, does not bestow strength that we may oppress the weak; nor is it the part of Christian wisdom to be above measure insolent, and to despise others.",
+            "We ought then to consider what questions any one is able to bear, and to accommodate our teaching to the capacity of individuals."
+        ],
+        "Philip Schaff": [
+            "Him that is weak in the faith.",
+            "Receive ye; do not reject or discourage him.",
+            "But not to doubtful disputations, lit., 'unto judgings of thoughts.'"
+        ],
+        "Archibald T. Robertson": [
+            "Take to yourselves.\" ",
+            "Not for decisions of opinions.\" ",
+            "The 'strong' brother is not called upon to settle all the scruples of the 'weak' brother."
+        ],
+        "John Gill": [
+            "The advice the apostle gives, in reference to such a person, is to receive him... into church fellowship with them.\" ",
+            "Christ does not break the bruised reed, nor quench the smoking flax, nor despise the day of small things, churches should not.",
+            "Such should be received, but not to doubtful disputations; to vain jangling and perverse disputings, such as will rather perplex than inform them; and will leave their minds doubtful and in suspense, and do them more harm than good."
+        ],
+        "John Wesley": [
+            "Him that is weak \u2014 Through needless scruples.",
+            "Receive \u2014 With all love and courtesy into Christian fellowship.",
+            "But not to doubtful disputations \u2014 About questionable points."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 14:1, the apostle Paul addresses the issue of weak faith and the scruples of an over-tender conscience among believers. He urges the strong believers not to pass judgment on those who have weaker faith but rather receive them into fellowship with love and understanding. The weaker believers are those who lack a firm and independent principle, often being bound by prejudices. The goal is not to settle disputes or debate opinions, but to draw them off from their doubts and embrace them in brotherly love. It is crucial for the strong to accommodate the weak, using their strength to support and teach them with kindness and tenderness. This way, peace and harmony can be established, avoiding harsh denunciations that only serve to confirm doubts.",
+            "wordCount": 126,
+            "quoteTokenProportion": 42.05,
+            "qualityScore": 1.8982474084926233,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.46,
+            "commentatorTierSimilarities": [
+                32.76,
+                35.26,
+                31.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the context of weak faith and tender consciences, the apostle provides guidance in Romans 14:1. He encourages the strong believers to receive the weaker ones with love, avoiding passing judgment on their scruples. Instead of engaging in doubtful disputations, the aim is to draw them away from their doubts through brotherly affection. The strong should not use their knowledge to oppress, but rather accommodate and support the weak, teaching them patiently. By doing so, peace can be fostered and doubts can be addressed with tenderness and faithful instruction.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.9237385125215547,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                30.11,
+                36.05,
+                33.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Romans 14:1, the apostle Paul emphasizes the importance of receiving and embracing believers with weak faith and tender consciences. He urges the strong to refrain from passing judgment and instead extend genuine fellowship, aiming to draw them away from their doubts. The focus should be on creating an atmosphere of love and understanding, rather than engaging in controversial debates. By accommodating the weaker ones with kindness, patience, and careful teaching, peace can be fostered and doubts can be addressed in a compassionate manner.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.7920921847508229,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                29.4,
+                35.95,
+                34.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul addresses the issue of weak faith and over-tender consciences in Romans 14:1. Believers with such weaknesses struggle with adherence to certain practices due to lack of broad and independent principles, and bondage to prejudices. The apostle advises the strong ones not to pass judgment or settle disputes, but to receive the weak into fellowship with open arms, drawing them away from doubts. Kindness, tenderness, and faithful teaching are key in producing peace and helping the weak grow in their faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 2.005529535160006,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+            "commentatorTierSimilarities": [
+                33.7,
+                34.26,
+                32.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Romans 14:1, Paul adresses the issue of weak faith and an over-tender conscience among believers. The weak are those with a lack of broad and independent principles, being bound by prejudices. Paul encourages the strong not to pass judgment or settle disputes, but to receive the weak into full brotherly confidence and cordial affection. This way, doubts can be drawn away and faith can be strengthened. Accommodating the weak with kindness, love, and patient teaching is crucial for peace and growth within the community of believers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.8555137306327532,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.04,
+            "commentatorTierSimilarities": [
+                34.14,
+                33.86,
+                31.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:36:24",
+    "verseRef": "Acts 25:19",
+    "bestBHT": {
+        "bht": "Festus, while addressing Agrippa, refers to Paul's beliefs as religion, a term that can carry either praise or blame. In choosing this word, Festus implies his contempt for Paul's teachings. Despite the central message of Paul's preaching being the resurrection of Jesus, Festus dismissively refers to Jesus as one Jesus and treats the topic as a mere matter of superstition. Festus's disdainful remarks reveal a lack of understanding or acknowledgment of the significance of Jesus' resurrection, showcasing his disregard for Paul's beliefs.",
+        "wordCount": 87,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 2.370534106620879,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.16,
+        "commentatorTierSimilarities": [
+            37.54,
+            32.1,
+            30.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] The word rendered religion is used by Festus in a middle sense, certainly not as equivalent to \u2018superstition,\u2019 A.V., speaking as he was to Agrippa, a Jew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thus speaks this miserable Festus of Him to whom every knee shall bow\" [BENGEL].",
+            "kept affirming.",
+            "showing that the resurrection of the Crucified One had been the burden, as usual, of Paul's pleading."
+        ],
+        "Albert Barnes": [
+            "He knew that Agrippa was a Jew. Festus would not probably speak of the religion of his royal guest as superstition, but would speak of it with respect.",
+            "Festus had no belief that Jesus had been raised up...he spoke of it with the utmost contempt.",
+            "In this manner a Roman magistrate could speak of this glorious truth of the Christian religion, and this shows the spirit with which the great mass of philosophers and statesmen regarded its doctrines."
+        ],
+        "Marvin Vincent": [
+            "It was a non-committal expression, since the word meant either religion or superstition according to circumstances.",
+            "He selected 'a word which almost imperceptibly shaded off from praise to blame.'",
+            "The imperfect implies something habitual. 'Paul kept asserting.'"
+        ],
+        "Philip Schaff": [
+            "Certain questions . . of their own religion.",
+            "The strict, unfaltering accuracy of the writer of these \u2018Acts,\u2019 in recording at all such a scornful remark, is especially noteworthy.",
+            "He evidently, on those occasions, by no means confined himself to the general doctrine of the resurrection taught in all the Pharisee schools in Jerusalem and elsewhere, but dwelt earnestly on the special connection of these doctrines with the resurrection of their loved Master, the Lord Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "This is the climax of supercilious scorn toward both Paul and 'one Jesus.'",
+            "Festus would hardly mean 'superstition,' whatever he really thought, because Agrippa was a Jew.",
+            "With all his top-loftical airs Festus has here correctly stated the central point of Paul's preaching about Jesus as no longer dead, but living."
+        ],
+        "John Gill": [
+            "their law, which they said Paul had spoke against; and about their temple, which they pretended he had polluted; and about the resurrection of the dead, which he asserted, and some denied",
+            "Paul on the other hand argued, that he was the true Messiah; and in proof of it, affirmed that though they had put him to death, he was risen from the dead, and so was declared to be the Son of God with power",
+            "Festus, it is very likely, had never heard of Jesus before, and therefore speaks of him in this manner; or if he had, he had entertained a contemptible opinion of him, as well as of the Jewish religion"
+        ],
+        "John Wesley": [
+            "How coldly does he mention the things of the last importance!",
+            "Thus does Festus speak of Him, to whom every knee shall bow!",
+            "And was this a doubtful question? But why, O Festus, didst thou doubt concerning it?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Festus, while speaking to Agrippa, uses the word religion to describe Paul's beliefs, but it is unclear whether he meant it in a positive or negative sense. However, Festus deliberately chooses a word that can be interpreted both ways, subtly implying his contempt for Paul's teachings. This contempt is further shown by Festus' continuous assertions and insensitivity towards the central message of Paul's preaching - the resurrection of Jesus. Despite the importance of this topic, Festus dismissively refers to Jesus as one Jesus and treats it as a matter of superstition rather than a foundational belief. His disdain for Paul's beliefs is evident, suggesting a lack of understanding or acknowledgment of the significance of Jesus' resurrection.",
+            "wordCount": 119,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.306174758378019,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.02,
+            "commentatorTierSimilarities": [
+                36.94,
+                32.91,
+                30.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Festus refers to Paul's beliefs as religion, a term that can be interpreted as either praise or blame. Deliberately selecting a word that subtly conveys his contempt, Festus dismisses the central message of Paul's preaching - the resurrection of Jesus. By referring to Jesus as one Jesus and implying that the topic is a matter of superstition, Festus shows a lack of understanding or acknowledgment of the significance of this foundational belief. His insensitive remarks highlight a disregard for the importance of Jesus' resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.3073263802033632,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.06,
+            "commentatorTierSimilarities": [
+                36.85,
+                33.26,
+                29.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Festus, in speaking to Agrippa, refers to Paul's beliefs as religion, a term that can be interpreted as either praise or blame. Festus deliberately chooses a word that can be perceived negatively in order to express his contempt for Paul's teachings. Festus dismissively mentions the central message of Paul's preaching - the resurrection of Jesus - by referring to Jesus as one Jesus and treating it as a matter of superstition rather than a significant belief. His disdainful remarks reveal a lack of understanding or appreciation for the importance of Jesus' resurrection.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.306391136442036,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.03,
+            "commentatorTierSimilarities": [
+                37.08,
+                33.28,
+                29.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Festus, speaking to Agrippa, uses the term religion to describe Paul's beliefs, an ambiguous word that can be seen as both praise and blame. However, Festus deliberately selects a word that hints at his contempt for Paul's teachings. Despite the significance of Jesus' resurrection, Festus dismissively refers to Him as one Jesus and treats the topic as a mere superstition. Festus displays a lack of understanding or recognition of the crucial role of Jesus' resurrection in Paul's preaching, revealing his disdain for these beliefs.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.368425098989827,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.09,
+            "commentatorTierSimilarities": [
+                36.72,
+                32.43,
+                30.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Festus, while addressing Agrippa, refers to Paul's beliefs as religion, a term that can carry either praise or blame. In choosing this word, Festus implies his contempt for Paul's teachings. Despite the central message of Paul's preaching being the resurrection of Jesus, Festus dismissively refers to Jesus as one Jesus and treats the topic as a mere matter of superstition. Festus's disdainful remarks reveal a lack of understanding or acknowledgment of the significance of Jesus' resurrection, showcasing his disregard for Paul's beliefs.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.370534106620879,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.16,
+            "commentatorTierSimilarities": [
+                37.54,
+                32.1,
+                30.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

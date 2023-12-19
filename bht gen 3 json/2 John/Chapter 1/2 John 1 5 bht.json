@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:15:49",
+    "verseRef": "2 John 5",
+    "bestBHT": {
+        "bht": "I am writing to remind you, not as if I were giving you a new commandment, but to bring to mind what we have known since the beginning - the command to love one another. This instruction to walk in truth is a call to follow God's commandments with love, which encompasses both the law and the Gospel. It appears that the intended audience is not an individual, but rather a Church. Let us all embrace this commandment and walk in love towards one another.",
+        "wordCount": 85,
+        "quoteTokenProportion": 53.33,
+        "qualityScore": 2.036061454129896,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+        "commentatorTierSimilarities": [
+            26.8,
+            38.35,
+            34.85
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I entreat thee... not as writing a new commandment, but... that which we had from the beginning... we love one another.",
+            "The expression of the commandment in the first person is a mark of gentleness and delicacy: a sign that he who wrote it kept the commandment himself.",
+            "[This walking in truth is] a walking after God's commandments in love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Love performs both tables of the law, and is the end of",
+            "\tthe law and the Gospel alike.",
+            "This verse seems to me to decide that a Church,",
+            "\tnot an individual",
+            "\tlady,",
+            "\tis meant.",
+            "For a man to urge a woman... that he and she should love",
+            "\tone another,",
+            "\tis hardly like an apostolic precept, however pure may be the love",
+            "\tenjoined; but all is clear if 'the lady' represent a Church."
+        ],
+        "Albert Barnes": [
+            "John presumed that the command to love one another was understood as far as the gospel was known; and he might well presume it, for true Christianity never prevails anywhere without prompting to the observance of this law.",
+            "That we love one another - That is, that there be among the disciples of Christ mutual love; or that in all circumstances and relations they should love one another.",
+            "It was a command upon which, in his old age, he loved to dwell; and he had little more to say to her than this, to exhort her to obey this injunction of the Saviour."
+        ],
+        "Marvin Vincent": [
+            "New [\u03ba\u03b1\u03b9\u03bd\u03b7\u03bd] . See on Matthew 26:29. ",
+            "We had [\u03b5\u03b9\u03c7\u03b1\u03bc\u03b5\u03bd] . The apostle identifies himself with his readers."
+        ],
+        "Philip Schaff": [
+            "I beseech thee, Syria: the request has in it a tone of dignity as well as of courtesy...",
+            "the apostle urges his request, which is sheltered behind the evangelical law, not as though writing to thee a new commandment, but that which we had from the beginning, in the first person, that we love one another.",
+            "Let us all walk in love: this, as well as the whole strain, shows the same exquisite courtesy which pervades St. Paul\u2019s letters to individuals."
+        ],
+        "Archibald T. Robertson": [
+            "Beseech (\u03b5\u03c1\u03c9\u03c4\u03c9). For pray as in 1 John 5:16.",
+            "As though I wrote (\u03c9\u03c2 \u03b3\u03c1\u03b1\u03c6\u03c9\u03bd). Common idiom \u03c9\u03c2 with the participle (present active) for the alleged reason.",
+            "That we love one another (\u03b9\u03bd\u03b1 \u03b1\u03b3\u03b1\u03c0\u03c9\u03bc\u03b5\u03bd \u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03c2). Either a final clause after \u03b5\u03c1\u03c9\u03c4\u03c9 as in John 17:15 or an object clause in apposition with \u03b5\u03bd\u03c4\u03bf\u03bb\u03b7\u03bd, like 1 John 2:27; 1 John 3:23 and like verse 2 John 1:6."
+        ],
+        "John Gill": [
+            "The apostle having finished the inscription, salutation, and congratulation in the preceding verses, passes to an exhortation and entreaty to observe the commandment of love to one another.\" ",
+            "Which is not a new commandment, but what was from the beginning.",
+            "Not as though I wrote a new commandment."
+        ],
+        "John Wesley": [
+            "That which we had from the beginning \u2014 Of our Lord's ministry. Indeed it was, in some sense, from the beginning of the world.",
+            "That we may love one another \u2014 More abundantly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I entreat you, not as writing a new commandment, but as reminding you of what we have had from the beginning, that we love one another. Walking in truth is a walking after God's commandments in love, which is the end of both the law and the Gospel. This verse seems to indicate that a Church, not an individual, is being addressed, and it is clear that the apostle identifies himself with his readers. Let us all walk in love and observe the commandment to love one another, which has been with us from the beginning.",
+            "wordCount": 97,
+            "quoteTokenProportion": 56.45,
+            "qualityScore": 2.2152961529370363,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.0,
+            "commentatorTierSimilarities": [
+                30.27,
+                35.8,
+                33.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I entreat you, not as writing a new commandment, but as reminding you of what we have had from the beginning, that we love one another. Walking in truth is a walking after God's commandments in love, which is the end of both the law and the Gospel. This verse seems to indicate that a Church, not an individual lady, is being addressed, and it is clear that the apostle identifies himself with his readers. Let us all walk in love and observe the commandment to love one another, which has been with us from the beginning.",
+            "wordCount": 98,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 2.221685257962917,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.21,
+            "commentatorTierSimilarities": [
+                29.97,
+                36.05,
+                33.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I am writing to remind you, not as if I were giving you a new commandment, but to bring to mind what we have known since the beginning - the command to love one another. This instruction to walk in truth is a call to follow God's commandments with love, which encompasses both the law and the Gospel. It appears that the intended audience is not an individual, but rather a Church. Let us all embrace this commandment and walk in love towards one another.",
+            "wordCount": 85,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 2.036061454129896,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                26.8,
+                38.35,
+                34.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I am appealing to you, not with a new commandment, but to reinforce what we have known from the start - the imperative to love one another. Walking in truth means abiding by God's commandments with love, which encompasses both the law and the Gospel. It seems clear that this instruction is directed towards a Church rather than an individual. May we all embrace this timeless commandment and strive to love one another wholeheartedly.",
+            "wordCount": 74,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 2.024936036980513,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+            "commentatorTierSimilarities": [
+                26.55,
+                38.98,
+                34.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this verse, the apostle entreats the reader, not as if giving a new commandment, but rather reminding them of the importance of the commandment they had from the beginning - to love one another. By using the first person in expressing this commandment, it becomes clear that the apostle himself abides by it. This call to love is a walking after God's commandments in love, as love is the fulfillment of both the law and the Gospel. The apostle's use of the phrase the lady suggests that he is addressing a Church rather than an individual person. Ultimately, this verse urges all believers to love one another, not merely as a new commandment, but as a commandment that has been with us since the beginning.",
+            "wordCount": 127,
+            "quoteTokenProportion": 53.52,
+            "qualityScore": 2.202200778209406,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.56,
+            "commentatorTierSimilarities": [
+                29.96,
+                38.35,
+                31.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

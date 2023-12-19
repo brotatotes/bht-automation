@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 16:22:43",
+    "verseRef": "Luke 22:9",
+    "bestBHT": {
+        "bht": "The disciples asked our Lord, Where wilt thou that we make ready? It was a question asked in response to a command, with the deliberative aorist subjunctive used to query the location of the preparation. The disciples understood that the Passover needed to be eaten in Jerusalem, so their question was not about the general location, but specifically what house in Jerusalem. This highlights the importance of the location and the specific preparations necessary for the Passover feast.",
+        "wordCount": 78,
+        "quoteTokenProportion": 45.28,
+        "qualityScore": 1.6184940615143955,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+        "commentatorTierSimilarities": [
+            49.07,
+            0.0,
+            50.93
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] The question, Where wilt thou? was asked, but only in reply to the command of our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "Where wilt thou that we make ready? (\u03a0\u03bf\u03c5 \u03b8\u03b5\u03bb\u03b5\u03b9\u03c2 \u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03c9\u03bc\u03b5\u03bd;). Deliberative first aorist active subjunctive without \u03b9\u03bd\u03b1 after \u03b8\u03b5\u03bb\u03b5\u03b9\u03c2, perhaps originally two separate questions. "
+        ],
+        "John Gill": [
+            "Where wilt thou that we prepare?\" - Meaning, not in what village, town, or city, but in what house in Jerusalem?",
+            "It was a fixed and determined thing, that the Passover should be eaten at Jerusalem, and nowhere else.",
+            "Meaning, not in what village, town, or city... but in what house in Jerusalem?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples asked our Lord, Where wilt thou that we make ready? It was a question asked in response to a command, with the deliberative aorist subjunctive used to query the location of the preparation. The disciples understood that the Passover needed to be eaten in Jerusalem, so their question was not about the general location, but specifically what house in Jerusalem. This highlights the importance of the location and the specific preparations necessary for the Passover feast.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.6184940615143955,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                49.07,
+                0.0,
+                50.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples inquired, Where wilt thou that we make ready? This question was asked in response to a command, as our Lord directed them to prepare. The significance lies in the specificity of the disciples' query, not simply about the general location of Jerusalem, but about the particular house in which the preparations should take place. This highlights the strict requirement for celebrating the Passover in Jerusalem and the essential preparations needed for this sacred feast.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.502625355937357,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.3,
+            "commentatorTierSimilarities": [
+                50.55,
+                0.0,
+                49.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples asked, Where wilt thou that we make ready? Their question sought guidance on the specific location for the preparations, emphasizing the necessity of Jerusalem as the designated place for celebrating the Passover. The disciples understood that it was essential to adhere to this fixed and determined custom of partaking in the Passover only in Jerusalem. Their inquiry reveals the importance placed on the particular house within Jerusalem where the preparations needed to be made for the sacred event.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.3737065859090216,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.02,
+            "commentatorTierSimilarities": [
+                39.03,
+                0.0,
+                60.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples asked, Where wilt thou that we make ready? Their question highlighted the significance of Jerusalem as the predetermined location for celebrating the Passover. This fixed custom required them to ensure that the preparations were made in the appropriate house within Jerusalem. Their inquiry demonstrated their understanding of the unyielding requirement to partake in the Passover solely in Jerusalem and nowhere else.",
+            "wordCount": 63,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.2986189724668407,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.52,
+            "commentatorTierSimilarities": [
+                36.51,
+                0.0,
+                63.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples inquired about the specific location, asking, Where wilt thou that we make ready? Their question arose from the command given by our Lord. It is noteworthy that their query was not about which city or village, but rather the particular house in Jerusalem for the preparations. This highlights the unyielding tradition of celebrating the Passover exclusively in Jerusalem, emphasizing the significance of the chosen house and the meticulous preparations required for this sacred occasion.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.552422173015887,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.96,
+            "commentatorTierSimilarities": [
+                44.6,
+                0.0,
+                55.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

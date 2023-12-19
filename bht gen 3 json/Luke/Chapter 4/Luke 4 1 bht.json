@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:14:49",
+    "verseRef": "Luke 4:1",
+    "bestBHT": {
+        "bht": "Led by the Spirit into the wilderness, Jesus, full of the Holy Spirit, faced a series of temptations that reflected the ongoing struggle he would encounter. Although he possessed supernatural power, Jesus resisted the temptation to use it for personal gain, remaining devoted to the Father's will. His time in the wilderness, devoid of human companionship and sustenance, demonstrated the utmost danger he faced. Yet through the overflowing presence of the Holy Spirit, Jesus was fortified to overcome these trials and fulfill his divine purpose.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.843472576656664,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.64,
+        "commentatorTierSimilarities": [
+            29.82,
+            32.46,
+            37.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "By the Spirit [\u03b5\u03bd \u03c4\u03c9 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9] . The American Revisers render in the spirit, indicating the sphere rather than the impulse of his action.",
+            "He was not only impelled into the wilderness, but guided in the wilderness by the Spirit.",
+            "Matthew uses the word nhsteusav, having fasted, which, throughout the New Testament, is used of abstinence for religious purposes; a ritual act accompanying seasons of prayer."
+        ],
+        "Philip Schaff": [
+            "Full of the Holy Spirit, He throughout this conflict wields victoriously 'the sword of the Spirit, which is the Word of God.'\" ",
+            "In The Spirit. Not quite the same as \u2018by the Spirit;\u2019 the idea of His abiding in the Spirit as the element of His life is included.",
+            "In the wilderness. More correct than 'into,' implying that the leading of the Spirit continued there, 'during forty days.'"
+        ],
+        "Archibald T. Robertson": [
+            "Jesus had been endowed with supernatural power; and He was tempted to make use of it in furthering his own interests without regard to the Father's will\" (Plummer).",
+            "Luke affirms that Jesus was now continuously under the guidance of the Holy Spirit. Hence in this same sentence he mentions the Spirit twice.",
+            "These three may be merely specimens and so 'representative of the struggle which continued throughout the whole period' (Plummer)."
+        ],
+        "John Gill": [
+            "The Spirit of God having descended on him at his baptism, and afresh anointed, and filled his human nature with his gifts, whereby, as man, he was abundantly furnished for the great work of the public ministry.",
+            "Yet must first go through a series of temptations, and which, through the fulness of the Holy Spirit in him, he was sufficiently fortified against.",
+            "This was that part, which was uninhabited by men, and was infested with wild beasts, and where Christ could neither have the comfort and benefit of human society, nor any thing for the sustenance of life, and where he was exposed to the utmost danger."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, filled with the Holy Spirit, was led by the Spirit into the wilderness for forty days. During this time of fasting and prayer, Jesus was continuously under the guidance of the Holy Spirit. It was in this uninhabited and dangerous place that Jesus was tempted by the devil. The temptations Jesus faced were representative of the struggle he would endure throughout his entire ministry. Though Jesus had the power to use supernatural abilities for his own benefit, he remained steadfast in following the Father's will. Through the indwelling of the Holy Spirit, Jesus was equipped to overcome these temptations and embark on his public ministry.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.873867605363216,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                31.05,
+                34.25,
+                34.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Led by the Spirit into the wilderness, Jesus, full of the Holy Spirit, faced a series of temptations that reflected the ongoing struggle he would encounter. Although he possessed supernatural power, Jesus resisted the temptation to use it for personal gain, remaining devoted to the Father's will. His time in the wilderness, devoid of human companionship and sustenance, demonstrated the utmost danger he faced. Yet through the overflowing presence of the Holy Spirit, Jesus was fortified to overcome these trials and fulfill his divine purpose.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.843472576656664,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.64,
+            "commentatorTierSimilarities": [
+                29.82,
+                32.46,
+                37.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Guided by the Spirit, Jesus entered the wilderness for forty days, fasting and praying. This period of isolation and vulnerability was marked by continuous guidance from the Holy Spirit. In this desolate place devoid of human comfort or sustenance, Jesus faced temptations. These trials served as representative samples of the ongoing struggle he would experience throughout his ministry. Although capable of using his supernatural powers for personal gain, Jesus remained steadfast in fulfilling the Father's will, fortified by the fullness of the Holy Spirit within him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.6168776899893267,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                30.98,
+                32.85,
+                36.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, filled with the Holy Spirit, was led into the wilderness for forty days, continuously guided by the Spirit. Throughout his time there, Jesus faced temptations that represented the ongoing struggle he would encounter in his ministry. Despite having the power to use his abilities for personal gain, Jesus remained devoted to the Father's will. The wilderness, a place devoid of human companionship and nourishment, exposed him to great danger. However, the abundant presence of the Holy Spirit fortified him to overcome these trials and fulfill his divine mission.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6918015212036428,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.59,
+            "commentatorTierSimilarities": [
+                29.32,
+                33.84,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, under the guidance of the Holy Spirit, entered the wilderness for forty days, facing temptations that served as representatives of the ongoing struggle he would endure in his ministry. Even though he possessed supernatural power, Jesus resisted the temptation to use it for personal gain, remaining obedient to the Father's will. In this desolate place, lacking human presence and sustenance, Jesus was exposed to great peril. But through the overflowing presence of the Holy Spirit, he was equipped to triumph over these trials and fulfill his divine calling.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.7865857806578016,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "commentatorTierSimilarities": [
+                29.53,
+                31.58,
+                38.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

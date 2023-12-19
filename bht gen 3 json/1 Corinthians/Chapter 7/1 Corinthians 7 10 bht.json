@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:06:51",
+    "verseRef": "1 Corinthians 7:10",
+    "bestBHT": {
+        "bht": "In delivering a divine command from the Lord, the apostle Paul emphasizes that the separation of husband and wife is forbidden. He clarifies that his words are not from his own authority, but rather the outpouring of the Spirit. Paul wants his readers to understand that they already possess the instructions of Christ himself, enabling them to abstain from seeking further guidance from him on the matter of divorce. This command highlights the indissoluble bond established by God, overriding any cultural norms or personal inclinations toward separation in marriage.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 1.9071768928123753,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+        "commentatorTierSimilarities": [
+            29.36,
+            39.54,
+            31.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He never wrote of himself, being a vessel of the Holy Ghost, who ever spoke by him to the church.",
+            "ALL is the outpouring of the Spirit, but not all for all time, nor all on the primary truths of the faith.",
+            "That it occupies the principal place here, is perhaps because the Christian women at Corinth may have been the most ready to make the separation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not I, but the Lord.\" ",
+            "In both cases alike the things written are inspired by the Spirit of God.",
+            "Probably the separation on either side, whether owing to the husband or to the wife, is forbidden."
+        ],
+        "Albert Barnes": [
+            "Not I so much as the Lord. This injunction is not to be understood as adVice merely, but as a solemn, divine command, from which you are not at liberty to depart.",
+            "Paul here professes to utter the language of inspiration, and demands obedience.",
+            "Here, therefore, he solemnly repeats the law of Christ, that divorce, under the Christian economy, was not to be in the power either of the husband or wife."
+        ],
+        "Marvin Vincent": [
+            "Not I, but the Lord.\" ",
+            "Not a distinction between an inspired and an uninspired saying.",
+            "Paul means that his readers had no need to apply to him for instruction in the matter of divorce, since they had the words of Christ himself."
+        ],
+        "John Calvin": [
+            "Let not, says he, the husband put away his wife, and let not the wife depart from her husband...Because they are joined together by an indissoluble bond.\" ",
+            "For when persons intend to teach anything in short compass, they content themselves with a general statement.\" ",
+            "For by right of nature a son is bound to his father and mother, and cannot shake off that yoke. As the connection of marriage is preferred to that bond, much less ought it to be dissolved."
+        ],
+        "Philip Schaff": [
+            "But unto the married I give charge, yea not I, but the Lord...\" ",
+            "The wife depart not from her husband.\" ",
+            "The Lord Jesus had Himself emphatically given this charge..."
+        ],
+        "Archibald T. Robertson": [
+            "Not I, but the Lord.",
+            "The Master had spoken plain words about divorce.",
+            "Now most of the divorces are obtained by women."
+        ],
+        "John Gill": [
+            "What he was about to deliver, was not a law of his own enacting and obtruding, but what their Lord, their Creator, head, husband, and Redeemer, had ordered and enjoined.",
+            "The wife therefore should not depart from her husband upon every slight occasion; not on account of any quarrel, or disagreement that may arise between them; or for every instance of moroseness and inhumanity; or because of diseases and infirmities; nor even on the score of difference in religion...",
+            "The apostle observes this, in opposition to some rules and customs which obtained among Jews and Gentiles, divorcing and separating from one another upon various accounts..."
+        ],
+        "John Wesley": [
+            "Not I \u2014 Only.",
+            "But the Lord \u2014 Christ; by his express command, Matthew 5:32."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 7:10, the apostle Paul makes it clear he is not speaking from his own authority, but rather delivering a divine command given by the Lord himself. This verse emphasizes that the separation between husband and wife is forbidden, regardless of who initiates it. By stating Not I, but the Lord, Paul emphasizes that his readers already have the words of Christ on this matter and need not seek additional instruction from him. In this particular context, Paul may be addressing the women in Corinth who were more inclined to consider divorce. Overall, the command to remain united in marriage reflects the indissoluble bond created by God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.0280155556987642,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.77,
+            "commentatorTierSimilarities": [
+                32.08,
+                38.49,
+                29.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul speaks in 1 Corinthians 7:10 not from his own authority, but as a vessel of the Holy Spirit. He stresses that the separation of husband and wife is forbidden, regardless of who initiates it. He emphasizes that his readers already have the words of Christ on the matter and need no additional instruction from him. This injunction is a divine command that demands obedience. The command highlights the indissoluble bond created by God, surpassing any cultural practices of divorce.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7972667905583792,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                29.06,
+                42.12,
+                28.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In delivering a divine command from the Lord, the apostle Paul emphasizes that the separation of husband and wife is forbidden. He clarifies that his words are not from his own authority, but rather the outpouring of the Spirit. Paul wants his readers to understand that they already possess the instructions of Christ himself, enabling them to abstain from seeking further guidance from him on the matter of divorce. This command highlights the indissoluble bond established by God, overriding any cultural norms or personal inclinations toward separation in marriage.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.9071768928123753,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+            "commentatorTierSimilarities": [
+                29.36,
+                39.54,
+                31.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 1 Corinthians 7:10, the apostle Paul stresses that the separation of husband and wife is forbidden, as it is a divine command from the Lord. He notes that his words are not his own, but rather the Spirit speaking through him. Paul wants his readers to know that they already have the teachings of Christ on divorce and need not turn to him for further instruction. This command underscores the unbreakable bond established by God and surpasses cultural practices and personal preferences.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.881127369820057,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "commentatorTierSimilarities": [
+                31.01,
+                40.13,
+                28.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In delivering a divine command, the apostle Paul emphasizes that separating from one's spouse is forbidden. He declares that his words are not his own, but inspired by the Holy Spirit. Paul assures his readers that they already possess the teachings of Christ on the matter and need no additional guidance from him. This command highlights the unbreakable bond of marriage, surpassing cultural norms and personal inclinations. The authority of Christ's instruction on divorce is clear, providing a foundation for the believers' understanding.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.8320269563220402,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                30.74,
+                40.21,
+                29.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

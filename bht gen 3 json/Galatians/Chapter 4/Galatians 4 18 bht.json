@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 14:18:15",
+    "verseRef": "Galatians 4:18",
+    "bestBHT": {
+        "bht": "It is an honorable thing for the Galatians to be zealously sought after in a good cause, as this demonstrates a genuine interest in the gospel. Paul does not wish to exclusively court their attention, but rather welcomes anyone who teaches good. However, it is crucial that this zeal be in a good cause, expressing a fervent love for God and His ministers. True zeal is unwavering and continues even in the absence of those who seek after it.",
+        "wordCount": 79,
+        "quoteTokenProportion": 46.43,
+        "qualityScore": 2.0670198554853645,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+        "commentatorTierSimilarities": [
+            30.74,
+            30.49,
+            38.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Any teacher who did this in a good cause, preaching Christ, would be a cause of joy to me (Phil. i. 15\u201318): and it is an honourable thing (for you) to be the objects of this zeal\" (Commentary).",
+            "I have no wish, in thus writing, to set up an exclusive claim to court you thus\u2014whoever will really teach you good, at any time, let him do it and welcome\" (Commentary).",
+            "He narrows the relation between himself and them, from the wide one of a mere 'courter' of them, to the closer one of their parent in Christ\" (Commentary)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I do not find fault with them for zealously courting you, nor with you for being zealously courted: provided it be \"in a good cause\" (translate so), \"it is a good thing\" (Galatians 4:18- :).\" ",
+            "My reason for saying the 'not well' (Galatians 4:18- :; the Greek is the same as that for 'good,' and 'in a good cause,' in Galatians 4:18- :) is that their zealous courting of you is not in a good cause.",
+            "I do not desire that I exclusively should have the privilege of zealously courting you. Others may do so in my absence with my full approval, if only it be in a good cause, and if Christ be faithfully preached (Galatians 1:14- :)."
+        ],
+        "Albert Barnes": [
+            "In itself, it is good; and their zeal would be good if it were in a good cause.",
+            "You were exceedingly zealous in a good cause when I was with you. You loved the truth; you loved me. Since I left you, and as soon almost as I was out of your sight, your zeal died away, and your ardent love for me was transferred to others.",
+            "There is not much true affection in that which dies away as soon as a man\u2019s back is turned."
+        ],
+        "Marvin Vincent": [
+            "It is good for you Galatians to be zealously sought.",
+            "In a good matter - the interest of the gospel.",
+            "There is no harm in seeking to interest and enlist you, provided it is in a good cause."
+        ],
+        "John Calvin": [
+            "Good ministers are exhorted to cherish holy jealousy in watching over the churches, 'that they may present them as a chaste virgin to Christ.'\" ",
+            "I do so as much when I am absent as when I am present, because I do not seek my own advantage.",
+            "By condemning improper jealousy, he now exhorts the Galatians to engage in a different sort of competition, and that, too, while he was absent."
+        ],
+        "Philip Schaff": [
+            "It is good to be zealously courted in a good cause at all times, and not only when I am present with you.",
+            "I do not object to kind attentions and zealous devotion, provided it be from pure motives and in an honorable cause.",
+            "I only wish you would not grow cold and indifferent during my absence."
+        ],
+        "Archibald T. Robertson": [
+            "To be zealously sought in a good matter... It is only in an evil matter that it is bad.\" ",
+            "When I am present, in the being present as to me."
+        ],
+        "John Gill": [
+            "A zealous affection when right is very commendable.",
+            "But then it must be expressed in a good thing; in a good cause, for God, and the things of Christ.",
+            "It should be constant, and always continue; it should be ever the same towards God, Christ, and his ministers."
+        ],
+        "John Wesley": [
+            "In a good thing \u2014 In what is really worthy our zeal. True zeal is only fervent love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is an honorable thing to be zealously sought after by those who preach Christ. As Paul writes to the Galatians, he does not wish to exclusively court their attention, but rather welcomes anyone who will teach them good. However, it is important that this zeal be in a good cause, that is, in the interest of the gospel and the things of Christ. True zeal is steadfast and continues even in the absence of those who seek after it, expressing fervent love for God and His ministers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.046309781108203,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+            "commentatorTierSimilarities": [
+                32.9,
+                27.79,
+                39.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is an honorable thing to be zealously sought after by those who preach Christ, for it shows a genuine interest in the gospel. Paul does not wish to exclusively court the attention of the Galatians, but rather welcomes anyone who will teach them good. However, it is important that this zeal be in a good cause, demonstrating a fervent love for God and His ministers. True zeal is constant and continues even in the absence of those who seek after it.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.025680810432137,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.69,
+            "commentatorTierSimilarities": [
+                31.0,
+                28.91,
+                40.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is good for the Galatians to be zealously sought after in a good cause, bringing honor to both the teacher and the taught. Paul does not desire exclusive privilege to court them but approves of others doing so in his absence, as long as it is in a good cause and Christ is faithfully preached. This kind of zeal is commendable, expressing a fervent love for God and His ministers. True zeal is unwavering, continuing even when those who seek it are absent.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.0520552811746438,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.57,
+            "commentatorTierSimilarities": [
+                30.28,
+                29.37,
+                40.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is an honorable thing for the Galatians to be zealously sought after in a good cause, as this demonstrates a genuine interest in the gospel. Paul does not wish to exclusively court their attention, but rather welcomes anyone who teaches good. However, it is crucial that this zeal be in a good cause, expressing a fervent love for God and His ministers. True zeal is unwavering and continues even in the absence of those who seek after it.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.0670198554853645,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+            "commentatorTierSimilarities": [
+                30.74,
+                30.49,
+                38.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is an honorable thing for the Galatians to be zealously sought after in a good cause, as this demonstrates a genuine interest in the gospel. Paul does not wish to exclusively court their attention, but welcomes anyone who teaches good. However, it is crucial that this zeal be in a good cause, expressing a fervent love for God and His ministers. True zeal is unwavering, continuing even in the absence of those who seek after it.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0641182652005594,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                30.92,
+                29.9,
+                39.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:19:07",
+    "verseRef": "Luke 12:42",
+    "bestBHT": {
+        "bht": "Our Lord does not answer the question directly, but proceeds with His discourse, so as to furnish it with an answer, that in its highest sense it applies to his Apostles and ministers, inasmuch as to them most has been given as the stewards, but that its application is gradationally downwards through all those who know their Master\u2019s will, even to the lowest, whose measure both of responsibility and of reward is more limited. Fidelity is the first requisite in a servant, wisdom (discretion and judgment in the exercise of his functions), the next.",
+        "wordCount": 95,
+        "quoteTokenProportion": 50.72,
+        "qualityScore": 1.9350853659501164,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+        "commentatorTierSimilarities": [
+            45.4,
+            0.0,
+            54.6
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord does not answer the question directly, but proceeds with His discourse, so as to furnish it with an answer\" (Commentary).",
+            "\u2026that in its highest sense it applies to his Apostles and ministers, inasmuch as to them most has been given as the stewards\u2026\" (Commentary).",
+            "\u2026but that its application is gradationally downwards through all those who know their Master\u2019s will, even to the lowest, whose measure both of responsibility and of reward is more limited\" (Commentary)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Fidelity is the first requisite in a servant, wisdom (discretion and judgment in the exercise of his functions), the next.",
+            "To you certainly in the first instance, representing the 'stewards' of the 'household' I am about to collect, but generally to all 'servants' in My house.",
+            "Will deem fit to be made."
+        ],
+        "Marvin Vincent": [
+            "That faithful and wise steward.\" ",
+            "Household [\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03b9\u03b1\u03c2]... the body of household servants.\" ",
+            "In due season. At the appointed time for distributing rations."
+        ],
+        "Archibald T. Robertson": [
+            "A steward is house manager... Each man is a steward in his own responsibilities.",
+            "Household... by metonymy household (a body of those domestics who serve).",
+            "Their portion of food... Here only in the N.T. or anywhere else till Deissmann (Bible Studies, p. 158) found it in an Egyptian papyrus and then an inscription in Lycia (Light from the Ancient East, p. 104)."
+        ],
+        "John Gill": [
+            "Such are stewards in Christ's family, they are entrusted with the stores and provisions of his house, and 'faithfulness' and 'wisdom' are requisite in them.",
+            "Christ's 'household', or family, is his church, over which the ministers of the Gospel are appointed 'rulers', to govern the house according to the laws of Christ, and keep every thing in good decorum and order.",
+            "They are faithful who give out the whole portion allotted, without adulterating it, or keeping back any part of it; and they are wise, who deliver it to them in proper time and season."
+        ],
+        "John Wesley": [
+            "Our Lord's answer manifestly implies, that he had spoken this parable primarily (though not wholly) to the ministers of his word.",
+            "Whom his lord shall make ruler over his household - For his wisdom and faithfulness.",
+            "For his wisdom and faithfulness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord does not answer the question directly, but proceeds with His discourse, so as to furnish it with an answer, that in its highest sense it applies to his Apostles and ministers, inasmuch as to them most has been given as the stewards, but that its application is gradationally downwards through all those who know their Master\u2019s will, even to the lowest, whose measure both of responsibility and of reward is more limited. Fidelity is the first requisite in a servant, wisdom (discretion and judgment in the exercise of his functions), the next.",
+            "wordCount": 95,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 1.9350853659501164,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "commentatorTierSimilarities": [
+                45.4,
+                0.0,
+                54.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord does not answer the question directly, but proceeds with His discourse, so as to furnish it with an answer that applies to his Apostles and ministers as stewards, but also extends to all those who know their Master's will. Fidelity is the first requisite in a servant, followed by wisdom in the exercise of their functions. This verse speaks to the responsibility and reward of each person according to their measure.",
+            "wordCount": 74,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.8182775914399394,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.8,
+            "commentatorTierSimilarities": [
+                43.38,
+                0.0,
+                56.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord does not provide a direct answer, but instead continues with His discourse, implying that the question pertains to the stewards, specifically the Apostles and ministers. However, it is applicable to all who understand and follow their Master's will. The primary qualities required of a servant are fidelity and wisdom, ensuring both their faithfulness in carrying out their duties and their discretion in decision-making. This verse emphasizes that responsibility and reward vary according to each person's level of knowledge and capability.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.5957349746629421,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.4,
+            "commentatorTierSimilarities": [
+                39.99,
+                0.0,
+                60.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord proceeds with His discourse, implying that the question relates to stewards, particularly the Apostles and ministers, but extends to all who know their Master's will. Fidelity and wisdom are essential qualities for a servant, requiring faithfulness in their duties and discretion in their decision-making. This verse highlights the varying levels of responsibility and reward according to each person's knowledge and capability.",
+            "wordCount": 66,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.6545527036070045,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.36,
+            "commentatorTierSimilarities": [
+                38.69,
+                0.0,
+                61.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord responds indirectly, expanding on the question by remarking that it applies primarily to His Apostles and ministers who have been entrusted with greater responsibilities as stewards. However, the application of this question extends to all who are familiar with their Master's will, albeit with varying degrees of responsibility and reward. Essential qualities of a servant include faithfulness and wisdom, ensuring their commitment to their duties and their discernment in decision-making.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5462694091181526,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                40.34,
+                0.0,
+                59.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

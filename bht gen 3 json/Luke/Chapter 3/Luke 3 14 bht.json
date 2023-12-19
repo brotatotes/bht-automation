@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:14:40",
+    "verseRef": "Luke 3:14",
+    "bestBHT": {
+        "bht": "The verse reminds soldiers not to abuse their power by unlawfully taking from others or falsely accusing them. Instead, they are urged to be content with their wages and avoid seeking to increase them through mutiny or mistreatment of the people. The term used in the verse, do violence, can include intimidation and extortion, which the soldiers are cautioned against. The emphasis is on the importance of honesty, integrity, and justice, rejecting the idea that might makes right and warning against the temptations of greed.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 1.9643582811338876,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+        "commentatorTierSimilarities": [
+            29.97,
+            30.37,
+            39.66
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Who these were, we have no means of determining. Certainly not soldiers of the army which Herod Antipas sent against Aretas, his father-in-law.\" ",
+            "The way in which soldiers would be likely to act the part of informers, would be by laying vexatious charges of disaffection against persons.",
+            "Soldiers\u2014properly, men on march: not this need not be pressed, only that they were soldiers serving in an army."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word signifies to 'shake thoroughly,' and so to 'intimidate,' probably in order to extort money or other property.",
+            "acting as informers vexatiously, on frivolous or false grounds.",
+            "We may take this as a warning against mutiny, which the officers attempted to suppress by largesses and donations."
+        ],
+        "Albert Barnes": [
+            "Do not take the property of any by unlawful force, or do not use unjust force against the person or property of any individual.",
+            "It is probable that when they wished the property of others and could not obtain it by violence, or when there was no pretext for violence, they often attempted the same thing in another way, and falsely accused the persons of crime.",
+            "It is lawful to defend oneself, one\u2019s family, or one\u2019s country, and hence, it is lawful to be a soldier."
+        ],
+        "Marvin Vincent": [
+            "The word in this passage of Luke has the later, secondary meaning, to extort; and therefore the American Revisers rightly insist on, extort from no man by violence.",
+            "Whatever explanation we may accept, it is evident that the word had some original connection with figs, and that it came to mean to slander or accuse falsely.",
+            "Hence ojywnion is primarily provision money, and so used of supplies and pay for an army. With this understanding the use of the word at Romans 6:23, 'the wages of sin,' becomes highly suggestive."
+        ],
+        "Philip Schaff": [
+            "Do violence to no one. The verb first means \u2018to shake violently,\u2019 then to oppress, vex, lay under contribution, etc.",
+            "Neither accuse any wrongfully. Lit., neither be sycophants, i.e., play the spy, be informers, slander, etc.",
+            "Be content with your wages. Mutinies on account of pay were frequent, especially among the soldiers of dependent kings."
+        ],
+        "Archibald T. Robertson": [
+            "Might does not make right with Jesus.",
+            "These soldiers were tempted to obtain money by informing against the rich, blackmail again.",
+            "Discontent with wages was a complaint of mercenary soldiers."
+        ],
+        "John Gill": [
+            "Do violence to no man; or 'shake' him, or put him, into bodily fear, by threatening, hectoring, and bullying him, and drawing the sword upon him, which is usual, upon the least offence, for such persons to do.\" ",
+            "Neither accuse any falsely, or play the sycophant; who, in order to flatter some, bring malicious accusations against others.",
+            "Be content with your wages; allowed by the government, and do not seek to increase them by any unlawful methods, as by mutiny and sedition, by rebelling against your officers, or by ill usage of the people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds soldiers not to abuse their power by unlawfully taking from others or falsely accusing them. Instead, they are urged to be content with their wages and avoid seeking to increase them through mutiny or mistreatment of the people. The term used in the verse, do violence, can include intimidation and extortion, which the soldiers are cautioned against. The emphasis is on the importance of honesty, integrity, and justice, rejecting the idea that might makes right and warning against the temptations of greed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9643582811338876,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                29.97,
+                30.37,
+                39.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Soldiers are warned not to abuse their power by extorting or falsely accusing others, but to be content with their wages. The term do violence encompasses intimidation and extortion, which they should avoid. The verse emphasizes the values of honesty, integrity, and justice, rejecting the notion that strength justifies wrongdoing. It serves as a caution against the temptations of greed, urging soldiers to act in a manner that upholds moral principles and avoids mistreatment of others.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8849013815294675,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                29.83,
+                31.8,
+                38.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Soldiers are warned against unlawfully obtaining property or falsely accusing others, but instead, they are urged to be content with their wages and avoid seeking to increase them through mutiny or mistreatment. The verse highlights the importance of integrity, justice, and rejecting the idea that might gives permission for wrongdoing. It cautions against the allure of greed and emphasizes the need for soldiers to uphold moral principles in their actions and interactions with others.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8530514676842829,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                30.92,
+                29.64,
+                39.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Soldiers are cautioned against shaking others through intimidation and extortion, unlawfully obtaining property, or falsely accusing others. Instead, they are urged to be content with their wages and avoid mutiny and mistreatment towards others. This passage encourages soldiers to reject the idea that might justifies wrongdoing and emphasizes the importance of honesty, integrity, and justice in their actions. It serves as a warning against the temptations of greed and calls for soldiers to uphold moral principles and treat others with respect.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.89790519141189,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+            "commentatorTierSimilarities": [
+                29.65,
+                30.03,
+                40.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Soldiers must avoid intimidation, extortion, and false accusations, opting instead to be content with their wages. The verse emphasizes integrity, justice, and a rejection of the notion that might justifies wrongdoing. It warns against greed and urges soldiers to uphold moral principles, treating others with respect. The caution also serves to discourage mutiny and mistreatment. By embracing honesty and rejecting abuses of power, soldiers can maintain their integrity while fulfilling their duties.",
+            "wordCount": 72,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7201705240376608,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.54,
+            "commentatorTierSimilarities": [
+                34.06,
+                27.55,
+                38.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

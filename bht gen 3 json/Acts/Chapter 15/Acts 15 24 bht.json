@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:31:50",
+    "verseRef": "Acts 15:24",
+    "bestBHT": {
+        "bht": "The persons to whom the epistle was addressed would very well know what it was that had disturbed their minds. These Judaizers, without authority, have troubled the Gentile converts with their words, turning their minds upside down and causing confusion. The Council's strong language expresses indignation at this unauthorized attempt to bring the Christian Church under legal bondage. Let us be cautious of those who seek to lead us away from the pure gospel and cause turmoil within the Church.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 2.0182124634384087,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.45,
+        "commentatorTierSimilarities": [
+            35.44,
+            30.94,
+            33.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word implies turning up the foundations.\" ",
+            "The persons to whom the epistle was addressed would very well know what it was that had disturbed their minds.",
+            "The omission of formal mention of it would be natural, to avoid prominent cause of offence to the Jewish converts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Forasmuch as we have heard that certain which went out from us have troubled you with words\u2014without authority or even knowledge of the church at Jerusalem...\" ",
+            "Though they belonged to it, and probably pretended to represent its views.",
+            "Such strong language is evidently designed to express indignation at this attempt, by an unauthorized party, to bring the whole Christian Church under judicial and legal bondage."
+        ],
+        "Albert Barnes": [
+            "They have disturbed your minds, and produced contentions.",
+            "It properly means 'to collect together the vessels used in a house... for the purpose of removing it.' It is applied to marauders, robbers, and enemies who remove and bear off property, thus producing distress, confusion, and disorder.",
+            "Self-constituted and self-sent teachers not infrequently produce disturbance and distress."
+        ],
+        "Marvin Vincent": [
+            "The idea here is that of turning the minds of the Gentile converts upside down; throwing them into confusion like a dismantled house.",
+            "We gave no express injunction on the points which these Judaizers have raised.",
+            "The word originally means to put asunder; hence, to distinguish, and so of a commandment or injunction, to distinguish and emphasize it."
+        ],
+        "John Calvin": [
+            "They confessed that there were knaves of their own company; and yet they do no whit flatter them, or, through corrupt favor, incline to cover their error.",
+            "They accuse them far more sharply, that they troubled the Church and subverted souls.",
+            "Unless we will willingly have our souls drawn headlong from being any longer temples of the Holy Ghost, and unless we desire their ruin, we must beware of those which go about to lead us away from the pure gospel."
+        ],
+        "Philip Schaff": [
+            "These zealots for the old law and the Jewish rites came evidently from Jerusalem, the headquarters of the new faith, and had given out that they were commissioned by the leaders of the Church there.",
+            "Now the assembled Council, in their authoritative decree which they sent round, openly disavowed these disturbers of the Gentile churches.",
+            "They are doubtless an interpolation by some early scribe, who desired to specify in detail the points especially selected by these Jerusalem Jews in their endeavor to unsettle the minds of these Gentile Christians."
+        ],
+        "Archibald T. Robertson": [
+            "A direct blow at the Judaizers, put in delicate language.",
+            "What a picture of turmoil in the church in Antioch, words, words, words.",
+            "Powerful picture of the havoc wrought by the Judaizers among the simple-minded Greek Christians in Antioch."
+        ],
+        "John Gill": [
+            "Removing them from the doctrine of grace to another Gospel, and which deserved not the name of a Gospel; and was very destructive to their souls, at least to the peace and comfort of them.",
+            "They looked upon them as troublers of God's Israel, and upon their doctrines as subversive of spiritual joy and comfort.",
+            "It looks as if these 'judaizing preachers' not only pretended to be sent out by the apostles, to preach; but that they had particularly this in their instructions from them, that they should insist upon it, that the Gentiles that were received into the churches, should be circumcised, and be obliged to keep the other parts of the ceremonial law, when they had no such orders from them."
+        ],
+        "John Wesley": [
+            "Forasmuch as, \u2026 \u2014 The simplicity, weightiness, and conciseness of this letter are highly observable."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Certain individuals from our own community have caused great unrest and confusion among you, spreading their unauthorized teachings and disturbing the peace of your minds. These self-appointed teachers, claiming to represent the views of the church in Jerusalem, have been like robbers ransacking a house, bringing distress and disorder. In their attempt to bring the Gentile converts under the bondage of the law, they have turned everything upside down, causing turmoil within the church in Antioch. But fear not, for in this letter, the Council disavows these Judaizers and their disruptive actions. They strongly condemn their attempts to subvert souls and trouble the Church. Let us be vigilant and guard ourselves against those who seek to lead us away from the pure gospel and jeopardize our spiritual well-being.",
+            "wordCount": 130,
+            "quoteTokenProportion": 34.74,
+            "qualityScore": 1.8586839871665877,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                26.29,
+                37.26,
+                36.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Certain individuals, claiming authority from the church in Jerusalem, have troubled you with their unauthorized teachings, turning everything upside down and causing havoc among the Gentile converts. The Council, in their authoritative decree, openly disavows these disruptors and condemns their attempts to subvert souls and trouble the Church. Let us be cautious and not be drawn away from the pure gospel. We must guard our souls against those who seek to lead us astray and jeopardize our spiritual well-being.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7624102631184817,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.94,
+            "commentatorTierSimilarities": [
+                25.14,
+                34.79,
+                40.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The persons to whom the epistle was addressed would very well know what it was that had disturbed their minds. These individuals, without authority or knowledge from the church in Jerusalem, have troubled you with their words, causing confusion and upheaval among the Gentile converts. The Council strongly condemns these Judaizers, who have attempted to bring the entire Christian Church under legal bondage. Let us be wary of these self-appointed teachers and their disruptive teachings, striving to protect ourselves and our faith from being led astray.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9763117533072068,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.05,
+            "commentatorTierSimilarities": [
+                32.14,
+                35.86,
+                32.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The persons to whom the epistle was addressed would very well know what it was that had disturbed their minds. These Judaizers, without authority, have troubled the Gentile converts with their words, turning their minds upside down and causing confusion. The Council's strong language expresses indignation at this unauthorized attempt to bring the Christian Church under legal bondage. Let us be cautious of those who seek to lead us away from the pure gospel and cause turmoil within the Church.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.0182124634384087,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.45,
+            "commentatorTierSimilarities": [
+                35.44,
+                30.94,
+                33.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Without authority or knowledge of the church in Jerusalem, certain individuals have troubled the Gentile converts in Antioch with their words, throwing their minds into confusion and turmoil. The Council's strong language expresses indignation at this attempt to bring the whole Christian Church under legal bondage. Let us be cautious of those who seek to lead us away from the pure gospel and jeopardize our spiritual well-being. Guard yourselves against the disruptive teachings of these self-appointed teachers and strive to uphold the true teachings of the faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.8897162836067385,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.17,
+            "commentatorTierSimilarities": [
+                30.72,
+                32.3,
+                36.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

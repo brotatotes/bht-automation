@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:17:51",
+    "verseRef": "Luke 11:2",
+    "bestBHT": {
+        "bht": "Luke 11:2 presents a more definite version of the Lord's Prayer than the one in Matthew, with the shorter form considered the original. The omission of the doxology in Luke indicates that this particular form was never used liturgically. These instructions from Jesus pertain to all disciples, urging us to not only imitate this prayer but to use this very form. Luke 11:2 provides a specific and authentic rendition of the Lord's Prayer for believers to follow faithfully in their own prayers.",
+        "wordCount": 82,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.4884260452556002,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.83,
+        "commentatorTierSimilarities": [
+            41.73,
+            0.0,
+            58.27
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "[Luke 11:2 is] more definite than 'after this manner pray ye...' in Matthew.",
+            "[The shorter form in Luke 11:2], found in the Vatican, the most ancient of all our MSS., and in the recently published Sinaitic MS., was the original one...",
+            "[The doxology was inserted in Matthew], because that was form in general liturgical use, and not here [in Luke], because this form was never used liturgically."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2-4. (See on :-)."
+        ],
+        "John Gill": [
+            "And he said unto them,.... That is Jesus, as the Syriac and Persic versions express, who directed his speech to all the disciples.",
+            "the instructions Christ was about to give concerned them all, even those that heard them before, and those that had not.",
+            "thy will be done, as in heaven, so in earth; the last petition is left out in the Vulgate Latin."
+        ],
+        "John Wesley": [
+            "We are therefore here directed, not only to imitate this in all our prayers, but to use this very form of prayer.\" ",
+            "And what he said to them is undoubtedly said to us also.\" ",
+            "We are therefore here directed, not only to imitate this in all our prayers, but to use this very form of prayer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Luke 11:2 is more definite than 'after this manner pray ye...' in Matthew, with the shorter form found in the Vatican and Sinaitic manuscripts regarded as the original. The doxology was inserted in Matthew because it was a commonly used liturgical form, whereas Luke's form was never used liturgically. The instructions given by Jesus here concern all the disciples, and we are directed not only to imitate this prayer in all our prayers but to use this very form of prayer. Overall, Luke 11:2 provides a specific and original version of the Lord's Prayer that is meant to be a model for all disciples to follow.",
+            "wordCount": 106,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.6050535032964477,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+            "commentatorTierSimilarities": [
+                45.52,
+                0.0,
+                54.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Luke 11:2 presents a more definite version of the Lord's Prayer compared to Matthew. The shorter form found in ancient manuscripts is considered the original. The doxology was omitted in Luke because it was not part of the liturgical tradition. The instructions given by Jesus in this prayer are meant for all disciples to follow. Not only are we urged to emulate this prayer in our own prayers, but we are also encouraged to use this very form. Luke 11:2 provides a distinct and authentic rendition of the Lord's Prayer.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.288110433593385,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.17,
+            "commentatorTierSimilarities": [
+                41.03,
+                0.0,
+                58.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Luke 11:2 presents a more definite version of the Lord's Prayer compared to Matthew. The shorter form in Luke, found in ancient manuscripts, is considered the original. The doxology was omitted in Luke because it was not part of the liturgical tradition. The instructions given by Jesus in this prayer concern all disciples. We are directed not only to imitate this prayer in all our prayers but to use this exact form. Luke 11:2 offers a specific and authentic rendition of the Lord's Prayer for believers to follow.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.3417554499311737,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.96,
+            "commentatorTierSimilarities": [
+                39.98,
+                0.0,
+                60.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Luke 11:2 provides a more definitive version of the Lord's Prayer compared to Matthew. The shorter form, found in ancient manuscripts, is considered the original. The omission of the doxology in Luke suggests it was never part of the liturgical tradition. The instructions given by Jesus pertain to all disciples, urging us not only to imitate this prayer in our own prayers but to use its exact form. Luke 11:2 offers a distinct and authentic rendition of the Lord's Prayer for believers to follow faithfully.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.3123846735769498,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.98,
+            "commentatorTierSimilarities": [
+                43.2,
+                0.0,
+                56.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Luke 11:2 presents a more definite version of the Lord's Prayer than the one in Matthew, with the shorter form considered the original. The omission of the doxology in Luke indicates that this particular form was never used liturgically. These instructions from Jesus pertain to all disciples, urging us to not only imitate this prayer but to use this very form. Luke 11:2 provides a specific and authentic rendition of the Lord's Prayer for believers to follow faithfully in their own prayers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.4884260452556002,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.83,
+            "commentatorTierSimilarities": [
+                41.73,
+                0.0,
+                58.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

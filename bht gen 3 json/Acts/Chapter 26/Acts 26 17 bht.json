@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:36:47",
+    "verseRef": "Acts 26:17",
+    "bestBHT": {
+        "bht": "The assurance of deliverance from both the people and the Gentiles strengthened Paul, enabling him to bear the cross and face persecution. Emphasizing the authority of the Sender, he confidently relied on the support and protection of the Lord Jesus. The opposition he encountered resulted from his ministry to the Gentiles, underscoring the importance of this aspect of his commission. Remembering these words provided Paul with comfort and reassurance, reminding him of the heavenly reign of the Messiah and sustaining him in his mission.",
+        "wordCount": 84,
+        "quoteTokenProportion": 26.42,
+        "qualityScore": 1.914683617651253,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+        "commentatorTierSimilarities": [
+            22.56,
+            50.41,
+            27.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Delivering thee from...this, and not 'choosing thee out of,' is the right meaning.",
+            "The Lord armed him against all fears which awaited him, and at the same time prepared him to bear the cross.",
+            "To both, the people, and the Gentiles; not the Gentiles only."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He calmly repos es on his Master's assurances of deliverance from both, at the same time taking all precautions for safety and vindicating all his legal rights.",
+            "The emphatic 'I' here denotes the authority of the Sender."
+        ],
+        "Albert Barnes": [
+            "Delivering thee from the people... and from the Gentiles... Yet in all he experienced, according to the promise, the support and the protection of the Lord Jesus.\" ",
+            "This implied that he would be persecuted by them, and that the Lord Jesus would interpose to rescue him.",
+            "As the opposition of the Jews arose mainly from the fact that he had gone among the Gentiles, it was important to bring this part of his commission into full view before Agrippa, and to show that the same Saviour who had miraculously converted him had commanded him to go and preach to them."
+        ],
+        "Marvin Vincent": [
+            "The people. The Jews."
+        ],
+        "John Calvin": [
+            "It is a marvel why he doth not also promise that they shall on the other side receive him joyfully, who shall by means of him receive such and so great benefits.",
+            "But the unthankfulness of the world is noted out unto us in this place, because the ministers of eternal salvation are far otherwise rewarded, as frantic men do rail upon their physicians.",
+            "And though they made a show that this did proceed of zeal... mere ambition did prick them forward, because they alone would be excellent, all other being underlings."
+        ],
+        "Philip Schaff": [
+            "The memory of these words of the Son of God armed the apostle of the future against all the terrors which awaited him, and at the same time prepared him to bear his heavy cross.",
+            "Strong in the conviction...he too would be encompassed with a heavenly guard so that no human hand raised against him should ever do him mortal injury.",
+            "How often in that strange harassed life of his...must this sure promise of his Messiah reigning from His glory-throne in heaven have come up and cheered him with a voice not of this world!"
+        ],
+        "Archibald T. Robertson": [
+            "God was continually rescuing Paul 'out of the hands of Jews and Gentiles and Paul was a chosen vessel'",
+            "The papyri give examples of both meanings and either makes good sense here.",
+            "Modern scholars are also divided."
+        ],
+        "John Gill": [
+            "For the Lord knew, that as soon as ever Saul was converted and professed his name, and preached his Gospel, the people of the Jews would immediately become his implacable enemies, and seek to destroy him.\" ",
+            "He promises him before hand deliverance, and security from them.",
+            "To both Jews and Gentiles; to the Jews first, and then to the Gentiles; which method the apostle observed, and which course he steered."
+        ],
+        "John Wesley": [
+            "Delivering thee from the people.\" ",
+            "I now send thee - Paul gives them to know, that the liberty he enjoys even in bonds, was promised to him.",
+            "For his apostleship, as well as his conversion, commenced at this moment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse expresses the assurance of deliverance from both the people and the Gentiles, reaffirming the authority of the Sender. Through this promise, Paul was empowered to face the challenges and persecution that awaited him, relying on the support and protection of the Lord Jesus. The opposition he faced stemmed from his ministry to the Gentiles, making it crucial for him to highlight this aspect of his commission. With the memory of these words, Paul was fortified to bear his heavy cross, confident that no harm would come to him that went against the divine plan. The promise of deliverance not only provided him with strength but also served as a constant source of comfort, reminding him of the reign of the Messiah from His glory-throne in heaven.",
+            "wordCount": 129,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 1.8966460646175487,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "commentatorTierSimilarities": [
+                19.57,
+                51.05,
+                29.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Assured of deliverance from both the people and the Gentiles, Paul found solace in the promise of the Lord Jesus. The Sender's authority emphasized this assurance, empowering Paul to face the impending persecutions with conviction. As his opposition arose from his ministry to the Gentiles, Paul highlighted this aspect of his commission before Agrippa. The memory of these words became a source of strength, reminding Paul of the divine plan and comforting him amidst the challenges he faced. This promise of deliverance from the people and the Gentiles sustained him in his journey.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.894680603272802,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.34,
+            "commentatorTierSimilarities": [
+                23.28,
+                44.82,
+                31.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The promise of deliverance from both the people and the Gentiles fortified Paul for the challenges that lay ahead. Relying on the authority of the Sender, he confidently faced persecution. As his opposition stemmed from his ministry to the Gentiles, Paul emphasized this aspect of his commission. The memory of these words provided him with strength and comfort, reminding him of the divine plan and assuring him that his sufferings were not in vain. This promise of deliverance from the people and the Gentiles sustained him throughout his journey.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.8596098584908822,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+            "commentatorTierSimilarities": [
+                23.49,
+                44.1,
+                32.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Delivering Paul from both the people and the Gentiles, the Sender's promise provided him with strength to bear the cross and face persecution. The assurance of divine protection empowered him to confront the challenges that awaited him, relying on the support and authority of the Lord Jesus. As his opposition arose due to his ministry to the Gentiles, Paul emphasized this aspect of his commission before Agrippa. The memory of these words served as a constant source of comfort, reminding him of the reign of the Messiah and sustaining him in his mission.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.9100937168072,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.85,
+            "commentatorTierSimilarities": [
+                20.97,
+                51.45,
+                27.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The assurance of deliverance from both the people and the Gentiles strengthened Paul, enabling him to bear the cross and face persecution. Emphasizing the authority of the Sender, he confidently relied on the support and protection of the Lord Jesus. The opposition he encountered resulted from his ministry to the Gentiles, underscoring the importance of this aspect of his commission. Remembering these words provided Paul with comfort and reassurance, reminding him of the heavenly reign of the Messiah and sustaining him in his mission.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 1.914683617651253,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+            "commentatorTierSimilarities": [
+                22.56,
+                50.41,
+                27.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

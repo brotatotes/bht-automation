@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:17:06",
+    "verseRef": "2 Corinthians 7:10",
+    "bestBHT": {
+        "bht": "True repentance is not mere grief or regret; it is a godly sorrow that leads to a change of mind and a turning away from sin. This sorrow, as distinguished from the sorrow of the world, produces repentance unto salvation without regrets. The sorrow of the world is solely concerned with the consequences of sin, whereas godly sorrow is directed towards the sin itself, leading to genuine repentance. It is crucial to recognize and grieve over our sins as offenses against a holy God, seeking His forgiveness and finding consolation in Him.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.9737445029978433,
+        "qualityScoreNormalizedComparedToV2BHTs": 90.22,
+        "commentatorTierSimilarities": [
+            38.66,
+            30.13,
+            31.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Grief according to God ... works repentance unto salvation never to be regretted.",
+            "The sorrow of the world ... worketh death.",
+            "The grief which contemplates nothing but the blow given, and not the God who chastens, can produce nothing but more and more alienation from Him, and result in eternal banishment from His presence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sorrow\" is not repentance, but, where it is \"godly,\" \"worketh\" it; that is, contributes or tends to it (the same Greek word is in Romans 13:10).",
+            "Repentance\" implies a coming to a right mind; \"regret\" implies merely uneasiness of feeling at the past or present, and is applied even to the remorse of Judas (Matthew 27:3).",
+            "The sorrow of the world\" is not at the sin itself, but at its penal consequences: so that the tears of pain are no sooner dried up, than the pleasures of ungodliness are renewed."
+        ],
+        "Albert Barnes": [
+            "Such sorrow as has respect to God, or is according to his will, or as leads the soul to him.",
+            "It leads to God to obtain forgiveness; to seek for consolation.",
+            "There will be no reason for regretting it, and it will never be regretted."
+        ],
+        "Marvin Vincent": [
+            "Not to be repented of [\u03b1\u03bc\u03b5\u03c4\u03b1\u03bc\u03b5\u03bb\u03b7\u03c4\u03bf\u03bd]. Construe with repentance. The Rev., in order to bring out this connection, amplifies the translation: a repentance which bringeth no regret.",
+            "The Rev. brings out the distinction by substituting regret for repentance.",
+            "Sorrow which is characteristic of the world; grief for the consequences rather than for the sin as sin."
+        ],
+        "John Calvin": [
+            "The joy of the world is, when men foolishly, and without the fear of the Lord, exult in vanity, that is, in the world, and, intoxicated with a transient felicity, look no higher than the earth. The joy that is according to God is, when men place all their happiness in God, and take satisfaction in His grace, and show this by contempt of the world, using earthly prosperity as if they used it not, and joyful in the midst of adversity.\" ",
+            "Hence repentance takes its rise in grief, for the reason that I have mentioned \u2014 because no one can return to the right way, but the man who hates sin; but where hatred of sin is, there is self-dissatisfaction and grief.",
+            "The epithet, it is true, might apply to the term salvation, equally as to that of repentance; but it appears to me to suit better with the term repentance. 'We are taught by the result itself, that grief ought not to be painful to us, or distressing. In like manner, although repentance contains in it some degree of bitterness, it is spoken of as not to be repented of on account of the precious and pleasant fruit which it produces.'"
+        ],
+        "Philip Schaff": [
+            "For godly sorrow worketh repentance to salvation, a repentance bringing no regret.",
+            "The sorrow of the world worketh death, mere regret for wrong done.",
+            "Existence is felt to be intolerable, and self-destruction sends them to 'their own place'."
+        ],
+        "Archibald T. Robertson": [
+            "For the sorrow according to God does work this 'change of mind and life' unto salvation, a change 'not to be regretted.'",
+            "The kind of sorrow that the world has, grief 'for failure, not for sin'... works out death in the end.",
+            "The sorrow according to God\" is God's ideal and leads to repentance unto salvation, a repentance without regret."
+        ],
+        "John Gill": [
+            "It was a sorrow for sin, because it was committed against a God of infinite holiness, justice, and truth, goodness, grace, and mercy.",
+            "This produces it, issues in it, even in an ingenuous confession of sin, a forsaking of it, and in bringing forth fruits meet for repentance, in the life and conversation.",
+            "a worldly sorrow is such, as is common to men of the world... it is often nothing more than a concern for the loss of worldly things... and this worketh death temporal and eternal death."
+        ],
+        "John Wesley": [
+            "The sorrow of the world \u2014 Sorrow that arises from worldly considerations.",
+            "Worketh death \u2014 Naturally tends to work or occasion death, temporal, spiritual, and eternal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "True repentance is not merely a feeling of grief or regret, but a sorrow that leads to a change of mind and a turning away from sin. This godly sorrow, in contrast to the sorrow of the world, works repentance unto salvation that brings no regret. The sorrow of the world is focused on the consequences of sin rather than the sin itself, and ultimately leads to death. In order to experience a true repentance unto salvation, we must recognize and grieve over our sin as an offense against a holy God. This grief, when directed towards God, leads us to seek forgiveness, find consolation, and ultimately bring forth fruits of repentance in our lives.",
+            "wordCount": 115,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.9451988852994297,
+            "qualityScoreNormalizedComparedToV2BHTs": 89.27,
+            "commentatorTierSimilarities": [
+                38.99,
+                29.69,
+                31.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True repentance is a godly sorrow that leads to a change of mind and a turning away from sin. This sorrow, as opposed to the sorrow of the world, works repentance unto salvation without regrets. The sorrow of the world is focused on the consequences of sin rather than the sin itself, and it ultimately leads to death. In order to experience true repentance and salvation, we must recognize and grieve over our sin as an offense against a holy God, seeking forgiveness and finding consolation in Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.95150619254703,
+            "qualityScoreNormalizedComparedToV2BHTs": 89.48,
+            "commentatorTierSimilarities": [
+                38.84,
+                29.59,
+                31.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True repentance is not mere grief or regret; it is a godly sorrow that leads to a change of mind and a turning away from sin. This sorrow, as distinguished from the sorrow of the world, produces repentance unto salvation without regrets. The sorrow of the world is solely concerned with the consequences of sin, whereas godly sorrow is directed towards the sin itself, leading to genuine repentance. It is crucial to recognize and grieve over our sins as offenses against a holy God, seeking His forgiveness and finding consolation in Him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.9737445029978433,
+            "qualityScoreNormalizedComparedToV2BHTs": 90.22,
+            "commentatorTierSimilarities": [
+                38.66,
+                30.13,
+                31.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True repentance is not a mere feeling of remorse, but a godly sorrow that brings about a change of heart and a turning away from sin. This godly sorrow, in contrast to worldly sorrow, leads to genuine repentance unto salvation that never brings regret. The sorrow of the world is focused solely on the consequences of sin, while godly sorrow recognizes sin as an offense against a holy God. It is this recognition and heartfelt grief that leads us to seek forgiveness, find consolation, and bring forth the fruits of repentance in our lives.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.9085921333379092,
+            "qualityScoreNormalizedComparedToV2BHTs": 88.05,
+            "commentatorTierSimilarities": [
+                38.28,
+                30.38,
+                31.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True repentance involves more than just mere sorrow or regret; it is a godly grief that produces a change of heart and a turning away from sin. This sorrow, distinguished from the sorrow of the world, leads to genuine repentance unto salvation without any regrets. The sorrow of the world is focused on the consequences of sin rather than the sin itself, and it ultimately results in death. To experience true repentance and salvation, we must recognize and grieve over our sins as offenses against a holy God, seeking forgiveness and finding solace in Him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.9479332483838316,
+            "qualityScoreNormalizedComparedToV2BHTs": 89.36,
+            "commentatorTierSimilarities": [
+                38.62,
+                29.5,
+                31.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

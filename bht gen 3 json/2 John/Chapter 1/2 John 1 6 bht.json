@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 17:15:11",
+    "verseRef": "2 John 6",
+    "bestBHT": {
+        "bht": "Love is the fulfilling of the law, the commandment by which His disciples are to be distinguished in the world. It is the walking in all the commandments, the strength to keep them all being in love. By observing His commandments and walking in love, we show our love to God and can expect the fresh discoveries of His love to us. This is the will of God, that His people should walk in the truth of the Gospel, as they heard and received it at their first conversion.",
+        "wordCount": 89,
+        "quoteTokenProportion": 57.69,
+        "qualityScore": 2.5245071646193877,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.28,
+        "commentatorTierSimilarities": [
+            23.66,
+            41.07,
+            35.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And this is love, that we walk according to His commandments.",
+            "The commandment is this, even as ye heard from the beginning, that ye should walk in it.",
+            "The one commandment in which God's other commandments are summed up."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "\u201cLove",
+            "\tis the fulfilling of the law\u201d ( :-),",
+            "\tand the fulfilling of the law is the sure test of love.",
+            "This",
+            "\tis the commandment",
+            "\t\u2014 Greek,",
+            "\t\u201cThe commandment is this,\u201d namely, love,",
+            "\tin which all God\u2019s other commandments are summed up."
+        ],
+        "Albert Barnes": [
+            "And this is love, that we walk after his commandments.",
+            "This is his great and special commandment; the one by which his disciples are to be especially characterized.",
+            "By [this commandment] they are to be distinguished in the world."
+        ],
+        "Marvin Vincent": [
+            "Love just mentioned in the verb we love.",
+            "Walk, with kata after, according to.",
+            "From the beginning."
+        ],
+        "Philip Schaff": [
+            "The verse is remarkable for its circular argument: love is the walking in all the commandments, the strength to keep them all being in love, and love being their compendium.",
+            "Love is the new revelation of Christ 'in the beginning' that sways St. John's thoughts with a peculiar power.",
+            "The one commandment heard from the beginning is 'that ye should walk in it,' that is, in love."
+        ],
+        "Archibald T. Robertson": [
+            "Love (\u03b7 \u03b1\u03b3\u03b1\u03c0\u03b7). The love just mentioned.",
+            "The commandment (\u03b7 \u03b5\u03bd\u03c4\u03bf\u03bb\u03b7). The one just mentioned with the same construction with \u03b9\u03bd\u03b1 as in 1 John 3:23.",
+            "In it (\u03b5\u03bd \u03b1\u03c5\u03c4\u03b7). Either to \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1 (truth) of verse 2 John 1:4, \u03b1\u03b3\u03b1\u03c0\u03b7 of this verse, or \u03b5\u03bd\u03c4\u03bf\u03bb\u03b7 of this verse. Either makes good sense, probably 'in love.'"
+        ],
+        "John Gill": [
+            "By observing them as a rule of conversation, in so doing love is shown to God; and such may expect the fresh discoveries of the love of God to them",
+            "This is the will of God, that his people should walk in the truth of the Gospel, and abide by it, as they heard and received it at their first conversion",
+            "A reason for which is given in 2 John 1:7"
+        ],
+        "John Wesley": [
+            "And this is the proof of true love, universal obedience built on the love of God.",
+            "This \u2014 Love. Is the great commandment which ye have heard from the beginning - Of our preaching."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Love is the fulfilling of the law, the commandment by which His disciples are to be distinguished in the world. It is the walking in all the commandments, the strength to keep them all being in love. Love is the new revelation of Christ that sways St. John's thoughts with a peculiar power. By observing His commandments and walking in love, we show our love to God and can expect the fresh discoveries of His love to us. This is the will of God, that His people should walk in the truth of the Gospel, as they heard and received it at their first conversion. Love is the great commandment we have heard from the beginning of our preaching.",
+            "wordCount": 120,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 2.55594765907246,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.32,
+            "commentatorTierSimilarities": [
+                23.51,
+                41.37,
+                35.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Love is the fulfilling of the law, the commandment by which His disciples are to be distinguished in the world. It is the walking in all the commandments, the strength to keep them all being in love. By observing His commandments and walking in love, we show our love to God and can expect the fresh discoveries of His love to us. This is the will of God, that His people should walk in the truth of the Gospel, as they heard and received it at their first conversion.",
+            "wordCount": 89,
+            "quoteTokenProportion": 57.69,
+            "qualityScore": 2.5245071646193877,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.28,
+            "commentatorTierSimilarities": [
+                23.66,
+                41.07,
+                35.27
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

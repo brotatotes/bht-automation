@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:26:16",
+    "verseRef": "Acts 4:35",
+    "bestBHT": {
+        "bht": "The money received from selling properties was laid at the Apostles' feet as a sign of reverence. This distribution was not simply based on a person's wants, but rather on their needs. The Apostles took on the responsibility of overseeing the distribution, but as the task became burdensome, they appointed dedicated individuals to handle it. This act of laying the money at their feet symbolized the complete trust and surrender of the people's worldly possessions to the Apostles' discretion in meeting the needs of the community.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.5943376859993115,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+        "commentatorTierSimilarities": [
+            27.49,
+            28.82,
+            43.68
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostles probably sat upon a raised seat, on the step of which, at their feet, the money was laid, in token of reverence.\" ",
+            "The money was laid at their feet, in token of reverence.\" ",
+            "The money was laid at their feet."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "35. laid . . . at the apostles'",
+            "\tfeet\u2014sitting, it may be, above the rest. But the expression may",
+            "\tbe merely derived from that practice, and here meant figuratively."
+        ],
+        "Albert Barnes": [
+            "They committed the money received for their property to the disposal of the apostles, to distribute it as was necessary among the poor.",
+            "This soon became a burdensome and inconvenient office.",
+            "They therefore appointed men who had special charge of it."
+        ],
+        "Archibald T. Robertson": [
+            "Distribution was made (\u03b4\u03b9\u03b5\u03b4\u03b9\u03b4\u03b5\u03c4\u03bf). Imperfect passive of \u03b4\u03b9\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc, late omega form for \u03b4\u03b9\u03b5\u03b4\u03b9\u03b4\u03bf\u03c4\u03bf (the stem vowel \u03bf displaced by \u03b5).",
+            "According as any one had need (\u03ba\u03b1\u03b8\u03bf\u03c4 \u03b1\u03bd \u03c4\u03b9\u03c2 \u03c7\u03c1\u03b5\u03b9\u03b1\u03bd \u03b5\u03b9\u03c7\u03b5\u03bd).",
+            "Imperfect active of \u03b5\u03c7\u03c9 with \u03ba\u03b1\u03b8\u03bf\u03c4 and \u03b1\u03bd with the notion of customary repetition in a comparative clause (Robertson, Grammar, p. 967)."
+        ],
+        "John Gill": [
+            "Showing great veneration and respect to the apostles, and a sort of neglect and contempt of their worldly substance.",
+            "Signifying that they entirely delivered them to the apostles, and subjected them to their disposal.",
+            "The distribution was made by them, to every man, to the original proprietors, as well as to others, and that not as much as a man would have, or he might crave; but as much as he needed."
+        ],
+        "John Wesley": [
+            "And distribution was made \u2014 At first by the apostles themselves, afterward by them whom they appointed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The money received from selling properties was laid at the Apostles' feet as a sign of reverence. This distribution was not simply based on a person's wants, but rather on their needs. The Apostles took on the responsibility of overseeing the distribution, but as the task became burdensome, they appointed dedicated individuals to handle it. This act of laying the money at their feet symbolized the complete trust and surrender of the people's worldly possessions to the Apostles' discretion in meeting the needs of the community.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.5943376859993115,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                27.49,
+                28.82,
+                43.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The money received from selling properties was laid at the Apostles' feet, symbolizing reverence and the surrender of worldly possessions. The distribution was not based on mere desires but on the genuine needs of individuals. Initially, the Apostles themselves handled the distribution, but as it became burdensome, they appointed dedicated individuals for this task. This act of laying the money at their feet demonstrated great respect and trust in the Apostles' discretion to meet the needs of the community.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.563022239165694,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.31,
+            "commentatorTierSimilarities": [
+                27.72,
+                27.12,
+                45.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The money received from selling properties was laid at the Apostles' feet, signifying reverence and the complete surrender of worldly possessions for their disposal. The distribution was not based on mere wants, but on individuals' genuine needs. Initially, the Apostles handled the distribution themselves, but as it became burdensome, they appointed dedicated individuals for this task. This act of laying the money at their feet demonstrated utmost respect and trust in the Apostles' discretion to meet the needs of the community.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5624311182138197,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                26.55,
+                27.11,
+                46.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The money received from selling properties was laid at the Apostles' feet, signifying reverence and the surrender of worldly possessions. The distribution was based on individuals' genuine needs. Initially, the Apostles handled the distribution themselves, but as it became burdensome, they appointed dedicated individuals for this task. This act of laying the money at their feet demonstrated great respect and trust in the Apostles' discretion to meet the needs of the community.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.5919463571680228,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.27,
+            "commentatorTierSimilarities": [
+                27.25,
+                27.43,
+                45.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The money received from selling properties was laid at the Apostles' feet, symbolizing reverence and the surrender of worldly possessions. The distribution was based on genuine needs, with the Apostles handling it initially but later appointing dedicated individuals. This act demonstrated respect and trust in the Apostles' discretion to meet the community's needs.",
+            "wordCount": 54,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 1.5641716676711774,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.35,
+            "commentatorTierSimilarities": [
+                26.77,
+                25.51,
+                47.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

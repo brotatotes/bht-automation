@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:32:57",
+    "verseRef": "Acts 17:24",
+    "bestBHT": {
+        "bht": "The doctrine of Creation refutes idolatry and lays the groundwork for the doctrine of Redemption. God does not dwell in temples made by human hands but is the Lord of heaven and earth, governing all His creation. This challenges the beliefs of the Epicureans and Stoics who deny God's role in creation and opposes the idea of multiple gods. Instead, there is one God who made the universe and is separate from all other gods.",
+        "wordCount": 76,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 2.237055596252506,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.72,
+        "commentatorTierSimilarities": [
+            40.99,
+            22.13,
+            36.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The true doctrine of Creation is the proper refutation of all idolatry.",
+            "Only on the firm foundation of the Old Testament doctrine of Creation can we rightly build the New Testament doctrine of Redemption.",
+            "God...dwelleth not in temples made with hands."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The apostle sets out with a sharp statement of the fact of creation as the central principle of all true religion\u2014not less needed now, against the transcendental idealism of our day.",
+            "He is Lord\u2014or Sovereign, of heaven and earth\u2014holding in free and absolute subjection all the works of His hands.",
+            "This thought, so familiar to Jewish ears... would serve only more sharply to define to his heathen audience the spirituality of that living, personal God, whom he 'announced' to them."
+        ],
+        "Albert Barnes": [
+            "He speaks of him as the Creator of the world, and thus opposes the opinion that matter was eternal; that all things were controlled by Fate; and that God could be confined to temples.",
+            "It is highly absurd, therefore, to suppose that he who is present in heaven and in earth at the same time, and who rules over all, should be confined to a temple of an earthly structure, or dependent on man for anything.",
+            "Dwelleth not ... - See the notes on Acts 7:48."
+        ],
+        "Marvin Vincent": [
+            "The world, as the order of things of which man is the center.",
+            "The order of things which is alienated from God, as manifested in and by the human race.",
+            "Paul's statement strikes at the belief of the Epicureans, that the world was made by 'a fortuitous concourse of atoms,' and of the Stoics, who denied the creation of the world by God."
+        ],
+        "John Calvin": [
+            "For this is the true rule of godliness, distinctly and plainly to know who that God whom we worship is.",
+            "This is the first entrance into the true knowledge of God, if we go without ourselves, and do not measure him by the capacity of our mind; yea, if we imagine nothing of him according to the understanding of our flesh.",
+            "Only he useth middle signs and tokens, whereby he doth insinuate himself with slow men, until they may ascend into heaven by degrees."
+        ],
+        "Philip Schaff": [
+            "Dwelleth not in temples made with hands.",
+            "Howbeit the Most High dwelleth not in temples made with hands.",
+            "These words, uttered in full view of the magnificent fanes of the gods of which Athens was so proud, must have rung with a strange emphasis on the ears of the listening Areopagites."
+        ],
+        "Archibald T. Robertson": [
+            "Not a god for this and a god for that like the 30,000 gods of the Athenians, but the one God who made the Universe.",
+            "All the details in the universe were created by this one God.",
+            "This one God was not to be confounded with any of their numerous gods save with this 'Unknown God.'"
+        ],
+        "John Gill": [
+            "God that made the world, and all things therein... condemns both the notion of the Epicurean philosophers... and the notion of the Peripatetics... who asserted the eternity of the world.\" ",
+            "He is the Lord of heaven and earth... hence he supports them in their being, and governs all creatures in them by his providence.\" ",
+            "He dwells in temples that are not made with hands, as in the temple of Christ's human nature, and in the hearts of his people."
+        ],
+        "John Wesley": [
+            "God who made the world \u2014 Thus is demonstrated even to reason, the one true, good God; absolutely different from the creatures, from every part of the visible creation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The true doctrine of Creation is the proper refutation of all idolatry. Only on the firm foundation of the Old Testament doctrine of Creation can we rightly build the New Testament doctrine of Redemption. God...dwelleth not in temples made with hands. The apostle sets out with a sharp statement of the fact of creation as the central principle of all true religion\u2014not less needed now, against the transcendental idealism of our day. He is Lord\u2014or Sovereign, of heaven and earth\u2014holding in free and absolute subjection all the works of His hands. This thought, so familiar to Jewish ears... would serve only more sharply to define to his heathen audience the spirituality of that living, personal God, whom he 'announced' to them.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.35,
+            "qualityScore": 2.0956350319178627,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.02,
+            "commentatorTierSimilarities": [
+                41.41,
+                26.83,
+                31.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The true doctrine of Creation is the proper refutation of all idolatry. Only on the firm foundation of the Old Testament doctrine of Creation can we rightly build the New Testament doctrine of Redemption. God...dwelleth not in temples made with hands. The apostle sets out with a sharp statement of the fact of creation as the central principle of all true religion\u2014not less needed now, against the transcendental idealism of our day. He is Lord\u2014or Sovereign, of heaven and earth\u2014holding in free and absolute subjection all the works of His hands.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.07241195085522,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.25,
+            "commentatorTierSimilarities": [
+                41.98,
+                27.05,
+                30.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle makes a sharp statement about the fact of creation as the central principle of all true religion, which serves to refute idolatry. Building on the Old Testament doctrine of Creation, the New Testament doctrine of Redemption is firmly established. God does not dwell in temples made with hands, highlighting the spirituality of the living, personal God whom the apostle declares. As Lord of heaven and earth, He holds complete authority over His creation, challenging the beliefs of various philosophical schools of thought.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.039441484084832,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+            "commentatorTierSimilarities": [
+                41.17,
+                22.42,
+                36.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The true doctrine of Creation refutes idolatry and forms the foundation for the doctrine of Redemption. God is not confined to temples made by human hands, but as the Lord of heaven and earth, He governs all His creation. This truth contrasts with the beliefs of the Epicurean and Stoic philosophers, who deny God's role in creating the world. It also challenges the multitude of gods in Greek mythology, pointing to the one God who made the universe and is distinct from all other gods.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.202297203361627,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.57,
+            "commentatorTierSimilarities": [
+                39.34,
+                22.65,
+                38.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The doctrine of Creation refutes idolatry and lays the groundwork for the doctrine of Redemption. God does not dwell in temples made by human hands but is the Lord of heaven and earth, governing all His creation. This challenges the beliefs of the Epicureans and Stoics who deny God's role in creation and opposes the idea of multiple gods. Instead, there is one God who made the universe and is separate from all other gods.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.237055596252506,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.72,
+            "commentatorTierSimilarities": [
+                40.99,
+                22.13,
+                36.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

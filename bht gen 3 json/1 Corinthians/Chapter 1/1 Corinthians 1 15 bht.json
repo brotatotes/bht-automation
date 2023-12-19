@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 14:57:40",
+    "verseRef": "1 Corinthians 1:15",
+    "bestBHT": {
+        "bht": "God's purpose in not allowing Paul to baptize many in Corinth was to prevent any accusations that Paul had baptized them for his own glory. This was important because Paul did not want to be seen as the founder of the Church or as the leader of a new sect. Jesus himself did not baptize anyone, so claiming Paul as a sacramentalist is unfounded. The absence of baptism in Paul's commission and his deliberate avoidance of controversy regarding baptism demonstrate that he was focused on proclaiming the message of Christ rather than promoting himself.",
+        "wordCount": 96,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 2.3480698622856853,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.41,
+        "commentatorTierSimilarities": [
+            27.22,
+            39.07,
+            33.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15.] lest represents the purpose, not of the Apostle\u2019s conduct at the time, but of the divine ordering of things: \u2018God so arranged it, that none might say,\u2019&c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15. Lest\u2014not that Paul had",
+            "\tthis reason at the time, but God so arranged it that none might say",
+            "\t[ALFORD]."
+        ],
+        "Albert Barnes": [
+            "Lest any of those who had been baptized should pervert his design, and say that Paul had baptized them unto himself.\" ",
+            "Lest any others should, with any appearance of truth, say that he had sought to make disciples to himself.",
+            "That ye should not say we were baptized in his name."
+        ],
+        "Marvin Vincent": [
+            "Rev. Paul's commission contains no mention of baptism.\" ",
+            "From his peculiar position as the inaugurator of a second epoch of Christianity, many would be tempted to regard him as the real founder of the Church.",
+            "No outward initiation of converts entered into his ministry."
+        ],
+        "Archibald T. Robertson": [
+            "Certainly sub-final \u03b9\u03bd\u03b1 again or contemplated result as in 1 Corinthians 7:29; John 9:2.",
+            "It is to be recalled that Jesus himself baptized no one (John 4:2) to avoid this very kind of controversy.",
+            "And yet there are those today who claim Paul as a sacramentalist, an impossible claim in the light of his words here."
+        ],
+        "John Gill": [
+            "This gives the true reason why the apostle was so thankful he had baptized no more of the members of this church, lest either some should reproach him, as having done it in his own name, and as seeking his own honour and interest.",
+            "Or lest others should affect, from their being baptized by him, to be called by his name, as if he was the author and patron of a new sect.",
+            "Lest any should say that I had baptized in my own name."
+        ],
+        "John Wesley": [
+            "Lest any should say that I had baptized in my own name \u2014 In order to attach them to myself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God orchestrated it so that Paul did not baptize many people in the church of Corinth, not because Paul had this intention at the time, but in order to prevent any accusations that Paul had baptized them for his own glory instead of for the sake of Christ. This was important because as the one inaugurating the second epoch of Christianity, Paul wanted to ensure that no one would claim him as the founder of the Church or as the leader of a new sect. In fact, Jesus himself did not baptize anyone to avoid similar controversies. Thus, claiming Paul as a sacramentalist is an impossible claim based on his own words in this verse.",
+            "wordCount": 115,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 2.217850019089404,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.08,
+            "commentatorTierSimilarities": [
+                29.82,
+                37.88,
+                32.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God arranged it so that Paul did not baptize many in Corinth to prevent accusations of vanity or that he sought followers for himself. Paul's commission did not include baptism, and Jesus himself did not baptize. This was to avoid controversies and shows that claiming Paul as a sacramentalist is impossible. It ensured that Paul would not be seen as the founder of the Church or as leading a new sect.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.2195080008629615,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.14,
+            "commentatorTierSimilarities": [
+                30.73,
+                39.82,
+                29.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's purpose in not allowing Paul to baptize many in Corinth was to prevent any accusations that Paul had baptized them for his own glory. This was important because Paul did not want to be seen as the founder of the Church or as the leader of a new sect. Jesus himself did not baptize anyone, so claiming Paul as a sacramentalist is unfounded. The absence of baptism in Paul's commission and his deliberate avoidance of controversy regarding baptism demonstrate that he was focused on proclaiming the message of Christ rather than promoting himself.",
+            "wordCount": 96,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.3480698622856853,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.41,
+            "commentatorTierSimilarities": [
+                27.22,
+                39.07,
+                33.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's limited baptism in Corinth was orchestrated by God to prevent accusations that he baptized for personal glory. This ensured that Paul wouldn't be seen as the founder of the Church or the leader of a new sect. Jesus himself did not baptize, and Paul's commission did not include baptism. Claiming Paul as a sacramentalist is unfounded in light of his words. It reveals Paul's focus on proclaiming Christ's message rather than seeking his own honor or interests.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.172575409553028,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.58,
+            "commentatorTierSimilarities": [
+                30.34,
+                39.02,
+                30.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God arranged it so that Paul did not baptize many in Corinth to prevent accusations that he sought followers for himself or that baptism was done in his own name. Jesus himself did not baptize to avoid similar controversies. This shows that claiming Paul as a sacramentalist is an impossible claim based on his own words. Paul's limited baptism in Corinth ensured that he would not be seen as the founder of the Church or as the leader of a new sect.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.304952729868468,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.98,
+            "commentatorTierSimilarities": [
+                28.41,
+                38.89,
+                32.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

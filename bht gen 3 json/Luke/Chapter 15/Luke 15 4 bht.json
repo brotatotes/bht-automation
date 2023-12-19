@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:20:10",
+    "verseRef": "Luke 15:4",
+    "bestBHT": {
+        "bht": "In this parable, the good Shepherd's care for the lost sheep illustrates His character and His loving dedication to each individual. He leaves the ninety-nine in the wilderness to focus on recovering the one that is lost. This emphasizes the diverse ways in which God works to save sinners and His intimate knowledge of and love for each person. The wilderness mentioned represents uncultivated areas teeming with pasturage, symbolizing God's abundant grace. Jesus tirelessly pursues until He successfully redeems the lost sheep, displaying His unwavering commitment to saving sinners.",
+        "wordCount": 92,
+        "quoteTokenProportion": 28.12,
+        "qualityScore": 1.6121787308897138,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+        "commentatorTierSimilarities": [
+            34.02,
+            18.47,
+            47.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The hundred sheep are the house of Israel, see Matt. x. 6; but in present application, mankind.",
+            "The character of the good Shepherd is a sufficient warrant for their being well cared for.",
+            "The wilderness is not a barren place, but one abounding in pastures."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "leave the ninety and nine\u2014bend all His attention and care, as it were, to the one object of recovering the lost sheep",
+            "not saying 'It is but one; let it go; enough remain.'",
+            "pointing to all the diversified means which God sets in operation for recovering sinners."
+        ],
+        "Marvin Vincent": [
+            "Not a desert place, but uncultivated plains, pasturage.",
+            "There are regions of wild fertility where the earth shoots forth a jungle of aromatic shrubs.",
+            "Far from infrequently there are regions of wild fertility where the earth shoots forth a jungle of aromatic shrubs."
+        ],
+        "Philip Schaff": [
+            "The plan just strikes him.",
+            "They, i.e., the debtors with whom he intends to deal, may receive into their houses.",
+            "He would thus secure future shelter for himself."
+        ],
+        "Archibald T. Robertson": [
+            "He knows each one of the sheep and loves each one.",
+            "There is nothing more helpless than a lost sheep except a lost sinner.",
+            "He keeps on going until success comes."
+        ],
+        "John Gill": [
+            "For if it was right for an owner of an hundred sheep, when he had lost one of them, to leave all the rest, and go in search after that one till he had found it; then it was right in Christ to do what he did.",
+            "The one lost sheep, the chosen of God among publicans and sinners, a special regard is had to them: Christ goes after that which is lost until he find it.",
+            "To find his lost sheep by redeeming grace he came into this world, a world of wickedness, sorrow, and trouble, of cruelty, and barbarity; and the reason of his coming here was, because his sheep were here; he came after them, and on their account."
+        ],
+        "John Wesley": [
+            "Leave the ninety and nine in the wilderness \u2014 Where they used to feed: all uncultivated ground, like our commons, was by the Jews termed wilderness or desert.",
+            "In recovering a lost soul, God as it were labours.",
+            "May we not learn hence, that to let them alone who are in sin, is both unchristian and inhuman! Matthew 18:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the lost sheep in Luke 15:4 teaches us about the character of Jesus as a good Shepherd. The hundred sheep represent all of mankind, and Jesus, being the good Shepherd, devotes Himself to the one lost sheep, not neglecting the others. This parable illustrates the diversified means that God uses to recover sinners, just as Jesus willingly leaves the ninety-nine to seek after the one. It emphasizes God's intimate knowledge and love for each individual. The wilderness mentioned in the parable symbolizes the uncultivated areas where there is abundant pasturage, reminding us of the wild fertility of God's grace. Ultimately, Jesus keeps on pursuing until He successfully redeems the lost sheep, revealing His unwavering commitment to saving sinners.",
+            "wordCount": 123,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 1.508356466115394,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.5,
+            "commentatorTierSimilarities": [
+                35.04,
+                9.71,
+                55.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this parable, the good Shepherd's care for the lost sheep illustrates His character and His loving dedication to each individual. He leaves the ninety-nine in the wilderness to focus on recovering the one that is lost. This emphasizes the diverse ways in which God works to save sinners and His intimate knowledge of and love for each person. The wilderness mentioned represents uncultivated areas teeming with pasturage, symbolizing God's abundant grace. Jesus tirelessly pursues until He successfully redeems the lost sheep, displaying His unwavering commitment to saving sinners.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.6121787308897138,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                34.02,
+                18.47,
+                47.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the lost sheep in Luke highlights the compassionate nature of Jesus as the good Shepherd. It reveals His deep care for humanity, leaving the ninety-nine to diligently seek and recover the one that is lost. The wilderness symbolizes uncultivated areas filled with abundant pasturage, showcasing God's grace. Jesus' persistent pursuit and unwavering commitment to saving sinners emphasize the hope that lost souls can be redeemed through His grace.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.4945877117690258,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.04,
+            "commentatorTierSimilarities": [
+                31.84,
+                16.89,
+                51.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable of the lost sheep depicts Jesus as the good Shepherd who diligently seeks after the one that is lost. In this analogy, the hundred sheep represent mankind, and Jesus' unwavering care and attention towards the lost sheep reflect His character. The wilderness signifies untamed regions abundant with pastures, highlighting God's grace. This parable emphasizes the diverse means God employs to rescue sinners and Christ's profound understanding and love for each individual. Ultimately, Jesus continually pursues until He successfully redeems the lost sheep, revealing His unfailing commitment to saving sinners.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.5669737409324562,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                35.11,
+                10.18,
+                54.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the lost sheep in Luke portrays Jesus as the good Shepherd who actively seeks after the one that is lost. The wilderness mentioned represents a fruitful and uncultivated area, symbolizing God's grace. This parable showcases God's diverse methods in rescuing sinners and highlights Jesus' intimate knowledge and love for each individual. Jesus leaves the ninety-nine to focus on the one lost sheep, displaying His unwavering commitment to saving sinners through His redeeming grace.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.519175828990806,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+            "commentatorTierSimilarities": [
+                31.71,
+                12.33,
+                55.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

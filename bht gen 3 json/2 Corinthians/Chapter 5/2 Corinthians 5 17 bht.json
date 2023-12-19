@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:16:26",
+    "verseRef": "2 Corinthians 5:17",
+    "bestBHT": {
+        "bht": "When someone is in Christ, they become a new creature. The old things pass away spontaneously, like the snow of early spring before the advancing sun. This transformation is not merely recent, but a new nature quite different from anything previously existing. As if contemplating a rapidly shifting scene, they behold a fresh start. In Christ, the ancient way of looking at Him and other things passes by forever, and they have become new to stay so.",
+        "wordCount": 77,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 2.0007741399910577,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+        "commentatorTierSimilarities": [
+            39.92,
+            30.55,
+            29.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is a new creature.\" (11 words)",
+            "The old things are passed away.\" (7 words)",
+            "They are become new.\" (5 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "New\" in the Greek implies a new nature quite different from anything previously existing, not merely recent.",
+            "As we are \"in Christ,\" so \"God was in Christ\": hence He is Mediator between God and us.",
+            "Old things\u2014selfish, carnal views of ourselves, of other men, and of Christ\u2014passed away spontaneously, like the snow of early spring before the advancing sun."
+        ],
+        "Albert Barnes": [
+            "To be 'in Christ' denotes a more tender and close union; and implies that all our support is from him. All our strength is derived from him; and denotes further that we shall partake of his fullness, and share in his felicity and glory...",
+            "If a man who was licentious becomes pure, there is no impropriety in saying that he is not the same man that he was before. Such expressions are common in all languages, and they are as proper as they are common. There is such a change as to make the language proper.",
+            "The Bible seems to be a new book, and though they may have often read it before, yet there is a beauty about it which they never saw before, and which they wonder they have not before perceived. The whole face of nature seems to them to be changed, and they seem to be in a new world."
+        ],
+        "Marvin Vincent": [
+            "A new creature [\u03ba\u03b1\u03b9\u03bd\u03b7 \u03ba\u03c4\u03b9\u03c3\u03b9\u03c2] . Or creation.",
+            "As in a flash, old things vanish, and all things become new.",
+            "Behold. As if contemplating a rapidly shifting scene."
+        ],
+        "John Calvin": [
+            "Let no one, therefore, glory in any distinction, inasmuch as the chief praise of Christians is self-renunciation.",
+            "All that are not renewed by the Spirit of God, should be looked upon as nothing in the Church, by whatever ornaments they may in other respects be distinguished.",
+            "Hence it is only the new man, that flourishes and is vigorous in the kingdom of Christ."
+        ],
+        "Philip Schaff": [
+            "Wherefore if any man is in Christ, he is a new creature: the old things are passed away; behold, they are become new.\" ",
+            "This verse simply generalizes the preceding statements, stripping them of all reference to himself and those written to, and extending them to all who are 'in Christ.'",
+            "The words 'all things,' in the received text, are wanting in all the principal authorities...yet, since they are not required for anything in the sense, the authorities seem to demand their exclusion."
+        ],
+        "Archibald T. Robertson": [
+            "A fresh start is made.",
+            "The ancient way of looking at Christ among other things... passed by forever for him.",
+            "They have become new to stay so."
+        ],
+        "John Gill": [
+            "Faith does not put a man into Christ, but makes him appear to be in him.",
+            "A new creature... designs not an outward reformation of life and manners, but an inward principle of grace, which is a creature, a creation work, and so not man's, but God's.",
+            "The Gospel church state seems to be, as it were, a new creation, and perhaps is meant by the new heavens and new earth."
+        ],
+        "John Wesley": [
+            "Only the power that makes a world can make a Christian.",
+            "The old things are passed away - Of their own accord, even as snow in spring.",
+            "He has new life, new senses, new faculties, new affections, new appetites, new ideas and conceptions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When someone is in Christ, they become a new creature. The old things, such as selfish and carnal views of oneself, pass away like the snow of early spring before the advancing sun. This transformation is not merely a recent change but a new nature that is quite different from anything previously existing. It is as if a rapidly shifting scene unfolds before their eyes, and they behold a fresh start. They are no longer bound by the ancient way of looking at Christ among other things, but have become new and will stay that way. All of this is possible because they are in Christ, who serves as the Mediator between God and us.",
+            "wordCount": 115,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.9602348545447006,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                35.44,
+                33.12,
+                31.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When someone is in Christ, the old things pass away and they become a new creature, with a new nature that is completely different from before. Like the melting snow in spring, selfish and carnal views are replaced by a fresh start. This transformation is instantaneous and all-encompassing, as if a rapidly shifting scene unfolds before their eyes. They are freed from the ancient way of looking at Christ and have become new for good, a new creation fashioned by God Himself.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9878160272119838,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "commentatorTierSimilarities": [
+                38.48,
+                29.32,
+                32.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When someone is in Christ, they become a new creature. The old things pass away spontaneously, like the snow of early spring before the advancing sun. This transformation is not merely recent, but a new nature quite different from anything previously existing. As if contemplating a rapidly shifting scene, they behold a fresh start. In Christ, the ancient way of looking at Him and other things passes by forever, and they have become new to stay so.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.0007741399910577,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+            "commentatorTierSimilarities": [
+                39.92,
+                30.55,
+                29.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 2 Corinthians 5:17, being in Christ brings about a profound transformation. The old things\u2014selfish and carnal views of ourselves, others, and our understanding of Christ\u2014pass away spontaneously, like early spring snow yielding to the advancing sun. This change is not simply recent, but an entirely new nature, different from anything that existed before. It is as if we are contemplating a rapidly shifting scene, witnessing a fresh start. In Christ, the ancient way we once regarded Him and other things is left behind forever, and we have become new permanently.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.8137415748204804,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+            "commentatorTierSimilarities": [
+                38.68,
+                28.47,
+                32.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Being in Christ results in a profound transformation. The old things, such as selfish and carnal views, pass away like early spring snow before the advancing sun. This change is not recent but a new nature, entirely different from before. It is as if we witness a rapidly shifting scene, a fresh start. The way we once regarded Christ and other things is left behind forever. We have become new, and this transformation is permanent.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.7419833881203708,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.26,
+            "commentatorTierSimilarities": [
+                42.18,
+                24.52,
+                33.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

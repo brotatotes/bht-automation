@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:14:15",
+    "verseRef": "Luke 2:43",
+    "bestBHT": {
+        "bht": "During the days of the Passover, Jesus fulfilled the days of the festival. Though always obedient, he remained in the temple without consulting His parents, driven by an intense interest in the services of the temple and a longing to remain in the house of God. This incident serves as a reminder that one must not neglect their duties in favor of worship, just as worship must not neglect the duties of life.",
+        "wordCount": 73,
+        "quoteTokenProportion": 45.83,
+        "qualityScore": 1.8508440019269246,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+        "commentatorTierSimilarities": [
+            31.35,
+            41.81,
+            26.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "43.] the days, seven days, Exod. xii. 15, 17."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If the duties of life must give place to worship, worship, in its turn, must give place to them.",
+            "Jerusalem is good, but Nazareth is good, too; let him who neglects the one, on pretext of attending to the other, ponder this scene.",
+            "Accustomed to the discretion and obedience of the lad, they might be thrown off their guard."
+        ],
+        "Albert Barnes": [
+            "Had fulfilled the days - The days of the Passover.",
+            "These were eight days in all - one day for killing the paschal lamb, and seven days for the observance of the feast of unleavened bread.",
+            "Exodus 12:15; Leviticus 23:5-6."
+        ],
+        "Marvin Vincent": [
+            "Had fulfilled the days. Not necessarily the whole seven days of the festival.",
+            "With the third day commenced the so called half holidays.",
+            "When it was lawful to return home."
+        ],
+        "Philip Schaff": [
+            "The main point is, that He, afterwards and before so obedient, remained without consulting His parents, and justified Himself for so doing.",
+            "His action was occasioned by an irresistible longing to remain in the sacred city and in the house of God.",
+            "Such conduct would have been disobedience, implying moral imperfection, if Jesus were not more than man. The sole justification is in the higher relationship He asserts."
+        ],
+        "Archibald T. Robertson": [
+            "The days may mean the full seven days, or the two chief days after which many pilgrims left for home.",
+            "The articular infinitive with \u03b5\u03bd, a construction that Luke often uses.",
+            "It was not disobedience on the part of 'the boy' that made him remain behind, but intense interest in the services of the temple; 'involuntary preoccupation' held him fast."
+        ],
+        "John Gill": [
+            "And Joseph, and his mother, knew not of it; of his intention to tarry longer, nor of his design in so doing: he did not ask leave of them, since his stay was about an affair of his heavenly Father's.",
+            "This action of Christ is not to be drawn into an example, or precedent for children, to act without consulting, or asking leave of their parents.",
+            "They had no notion at all of his staying behind them, nor any suspicion of it; nor did they miss him for a considerable time."
+        ],
+        "John Wesley": [
+            "Jesus \u2026 passed through and sanctified every stage of human life.\" ",
+            "Old age only did not become him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the days of the Passover, Jesus, though always obedient, remained in the temple without consulting His parents. His action was not driven by disobedience, but rather by an intense interest in the services of the temple and a longing to remain in the house of God. Although Joseph and Mary were unaware of His intention to tarry longer, they did not question His actions, recognizing the higher relationship He asserted. This incident serves as a reminder that while Jerusalem holds significance, Nazareth is equally important, and one must not neglect their duties in favor of worship, just as worship must not neglect the duties of life.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.7988769626656402,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+            "commentatorTierSimilarities": [
+                24.74,
+                40.82,
+                34.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the days of the Passover, Jesus, though always obedient, remained in the temple without consulting His parents. His action was not driven by disobedience, but rather by an intense interest in the services of the temple. This incident serves as a reminder that while Jerusalem holds significance, Nazareth is equally important, and one must not neglect their duties in favor of worship, just as worship must not neglect the duties of life.",
+            "wordCount": 73,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.808782945081107,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                27.14,
+                40.95,
+                31.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the days of the Passover, Jesus fulfilled the days of the festival. Though always obedient, he remained in the temple without consulting His parents, driven by an intense interest in the services of the temple and a longing to remain in the house of God. This incident serves as a reminder that one must not neglect their duties in favor of worship, just as worship must not neglect the duties of life.",
+            "wordCount": 73,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.8508440019269246,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+            "commentatorTierSimilarities": [
+                31.35,
+                41.81,
+                26.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the days of the Passover, Jesus fulfilled the days of the festival. However, driven by an intense interest in the temple services and a longing to remain in the house of God, He remained without consulting His parents. This incident emphasizes the importance of not neglecting one's responsibilities in the pursuit of worship, while also acknowledging the significance of both Jerusalem and Nazareth. It highlights the extraordinary obedience of Jesus and His unique relationship with higher authority.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7414500153212433,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.25,
+            "commentatorTierSimilarities": [
+                29.36,
+                44.03,
+                26.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the days of the Passover, Jesus fulfilled the days of the festival. Driven by an intense interest in the temple services, he remained in the temple without consulting His parents. While it may seem like disobedience, His action was justified by the higher relationship He asserted. This incident serves as a reminder not to neglect one's responsibilities in the pursuit of worship. It shows the unique obedience and preoccupation of Jesus as He passed through and sanctified every stage of human life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7562926547714346,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.74,
+            "commentatorTierSimilarities": [
+                27.71,
+                41.82,
+                30.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

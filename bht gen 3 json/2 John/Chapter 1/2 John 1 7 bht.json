@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:15:43",
+    "verseRef": "2 John 7",
+    "bestBHT": {
+        "bht": "Beware of the deceivers who deny that Jesus Christ came in the flesh; they are the deceivers and the antichrists. These false teachers deny the possibility and actuality of the Incarnation. Their denial of Christ's manifestation in the flesh at His first coming and His personal advent again makes them representatives and precursors of the Antichrist. Love and truth go hand in hand, so be on guard against those who reject the truth of Christ's incarnation. Hold fast to what you have heard from the beginning, for many seducers have entered into the world.",
+        "wordCount": 96,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 2.1369005462038815,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.39,
+        "commentatorTierSimilarities": [
+            33.83,
+            27.55,
+            38.62
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because many deceivers went forth into the world, they who confess not Jesus Christ coming in the flesh... This is the deceiver and the anti-christ.\" (Commentary on 2 John 7)",
+            "He who denies the coming in the flesh, denies the possibility of the Incarnation: he who denies the having come, denies its actuality.\" (Commentary on 2 John 7)",
+            "The word this, pointing to a class, makes each one of these, in his place, a representative and 'precursor of Antichrist'.\" (Commentary on 2 John 7)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Love and truth go hand in hand.",
+            "He who denies Christ's coming in the flesh, denies the possibility of the incarnation; he who denies that he has come, denies its actuality.",
+            "The denial of the reality of His manifestation in the flesh, at His first coming, and of His personal advent again, constitutes Antichrist."
+        ],
+        "Albert Barnes": [
+            "Because it is a truth that many deceivers have appeared, or since it has occurred that many such are abroad, look to yourselves lest you be betrayed and ruined.",
+            "Many deceivers are entered into the world - Are abroad in the world, or have appeared among men.",
+            "Everyone who maintains this is to be regarded as a deceiver."
+        ],
+        "Marvin Vincent": [
+            "The tense is the aorist, strictly rendered, went forth. It may indicate a particular crisis, at which they went forth from the Christian society.",
+            "The article with the participle describes the character of this class of deceivers, and does not merely assert a definite fact concerning them.",
+            "The verb is in the present participle, coming, which describes the manhood of Christ as still being manifested."
+        ],
+        "Philip Schaff": [
+            "There is no love which is not based on truth.",
+            "The love which keeps the commandments keeps the doctrinal as well as the ethical commandments.",
+            "Hence the \u2018for\u2019 that follows: for many deceivers are gone forth into the world from the spiritual world, the sphere of the lie they that confess not that Jesus Christ cometh in the flesh."
+        ],
+        "Archibald T. Robertson": [
+            "The ones not confessing\" (\u03bc\u03b7 regular negative with the participle). The articular participle describes the deceivers (\u03c0\u03bb\u03b1\u03bd\u03bf).",
+            "'Jesus Christ coming in the flesh.' Present middle participle of \u03b5\u03c1\u03c7\u03bf\u03bc\u03b1 treating the Incarnation as a continuing fact which the Docetic Gnostics flatly denied.",
+            "The deceiver and the antichrist (\u03bf \u03c0\u03bb\u03b1\u03bd\u03bf\u03c2 \u03ba\u03b1 \u03bf \u03b1\u03bd\u03c4\u03b9\u03c7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2). Article with each word, as in Revelation 1:17, to bring out sharply each separate phrase, though one individual is referred to."
+        ],
+        "John Gill": [
+            "By whom are meant false teachers, who are described by their quality, 'deceivers', deceitful workers, pretending to be ministers of Christ, but lie in wait to deceive.\" ",
+            "These were some who bore the Christian name, and professed to believe in Jesus Christ, but would not own that he was really incarnate, or assumed a true human nature, only in appearance.\" ",
+            "Antichrist does not design anyone particular individual person, but a set of men, that are contrary to Christ, and opposers of him."
+        ],
+        "John Wesley": [
+            "Carefully keep what ye have heard from the beginning, for many seducers are entered into the world.",
+            "Who confess not Jesus Christ that came in the flesh - Who disbelieve either his prophetic, or priestly, or kingly office.",
+            "And the antichrist \u2014 Fighting against Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of the deceivers who deny that Jesus Christ came in the flesh; they are the deceivers and the antichrists. These false teachers deny the possibility and actuality of the Incarnation. Their denial of Christ's manifestation in the flesh at His first coming and His personal advent again makes them representatives and precursors of the Antichrist. Love and truth go hand in hand, so be on guard against those who reject the truth of Christ's incarnation. Hold fast to what you have heard from the beginning, for many seducers have entered into the world.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.1369005462038815,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.39,
+            "commentatorTierSimilarities": [
+                33.83,
+                27.55,
+                38.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Be cautious of the deceivers who refuse to acknowledge Jesus Christ coming in the flesh, as they are both the deceivers and the antichrists. These false teachers deny the possibility and reality of the Incarnation. By denying the manifestation of Christ in the flesh and His future return, they align themselves as forerunners of the Antichrist. Love and truth are inseparable. Therefore, guard yourselves against those who reject the truth of Christ's incarnation. Remember and hold firm to what you have been taught from the beginning, as numerous deceivers have infiltrated the world.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.03931019431248,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+            "commentatorTierSimilarities": [
+                33.54,
+                30.84,
+                35.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Be cautious of the deceivers who refuse to acknowledge Jesus Christ coming in the flesh, as they are both the deceivers and the antichrists. These false teachers deny the possibility and reality of the Incarnation. By denying the manifestation of Christ in the flesh and His future return, they align themselves as forerunners of the Antichrist. Remember and hold firm to what you have been taught from the beginning, as numerous deceivers have infiltrated the world.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0806804206704883,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+            "commentatorTierSimilarities": [
+                34.5,
+                26.84,
+                38.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of the deceivers who deny the incarnation of Jesus Christ, as they are the deceivers and the antichrists. They deny the possibility and actuality of the Incarnation. Their denial of Christ's manifestation in the flesh at His first coming and His future return marks them as representatives and precursors of the Antichrist. Love and truth are intimately connected. So, remain vigilant against those who reject the truth of Christ's incarnation. Keep what you have heard from the beginning, for many seducers have entered the world.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.9663472816804242,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                32.8,
+                30.36,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Watch out for those who deny the incarnation of Jesus Christ, for they are the deceivers and antichrists. They reject the possibility and actuality of the Incarnation. By denying Christ's manifestation in the flesh at His first coming and His future return, they become representatives and forerunners of the Antichrist. Love and truth are inseparable, so be cautious of those who reject the truth of Christ's incarnation. Hold fast to what you have heard from the beginning, for many deceivers have emerged in the world.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.1028631492885714,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.26,
+            "commentatorTierSimilarities": [
+                33.91,
+                29.89,
+                36.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

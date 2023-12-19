@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:17:14",
+    "verseRef": "Luke 9:37",
+    "bestBHT": {
+        "bht": "The transfiguration likely took place at night, as Luke mentions. He excludes the discourse about Elias and specifies that the events occurred in the morning. The phrase come down is significant, appearing frequently in Luke's writings. It is worth noting that the next day is mentioned, indicating that the transfiguration occurred the previous night. When Jesus and his disciples descended from the mountain, they encountered a large crowd, as mentioned in Matthew 17:14 and Mark 9:14.",
+        "wordCount": 75,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 1.5796581088138597,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+        "commentatorTierSimilarities": [
+            63.69,
+            0.0,
+            36.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The transfiguration probably took place at night.",
+            "St. Luke omits the whole discourse concerning Elias.",
+            "And this was in the morning."
+        ],
+        "Marvin Vincent": [
+            "Come down [\u03ba\u03b1\u03c4\u03b5\u03bb\u03b8\u03bf\u03bd\u03c4\u03c9\u03bd] . Very frequent in Luke, and only once elsewhere : James 3:15."
+        ],
+        "Archibald T. Robertson": [
+            "On the next day (\u03c4\u03b7 \u03b5\u03be\u03b7\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1). Alone in Luke. It shows that the Transfiguration took place on the preceding night.",
+            "They were come down (\u03ba\u03b1\u03c4\u03b5\u03bb\u03b8\u03bf\u03bd\u03c4\u03c9\u03bd \u03b1\u03c5\u03c4\u03c9\u03bd). Genitive absolute of second aorist active participle of \u03ba\u03b1\u03c4\u03b5\u03c1\u03c7\u03bf\u03bc\u03b1, a common enough verb, but in the N.T. only in Luke's writings save James 3:15.",
+            "Met him (\u03c3\u03c5\u03bd\u03b7\u03bd\u03c4\u03b7\u03c3\u03b5\u03bd \u03b1\u03c5\u03c4\u03c9). First aorist active of \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03b1\u03c9, common compound verb, to meet with, only in Luke's writings in the N.T. save Hebrews 7:1. With associative instrumental case \u03b1\u03c5\u03c4\u03c9."
+        ],
+        "John Gill": [
+            "Jesus and his disciples staid all night on the mountain.",
+            "When they were come down from the hill; to the bottom of it.",
+            "Much people met him."
+        ],
+        "John Wesley": [
+            "Matthew 17:14; Mark 9:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The transfiguration of Jesus, which likely occurred at night, is the focus of this verse. Luke excludes the conversation about Elias and identifies that the events of the transfiguration took place in the morning. The use of the phrase come down is significant and is found frequently in Luke, with only one occurrence elsewhere. The following day is referenced, indicating that the transfiguration happened the previous night. When Jesus and his disciples descended from the mountain, they encountered a large crowd. (Matthew 17:14; Mark 9:14)",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.599677840204322,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+            "commentatorTierSimilarities": [
+                50.09,
+                0.0,
+                49.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The transfiguration likely took place at night, as Luke mentions. He excludes the discourse about Elias and specifies that the events occurred in the morning. The phrase come down is significant, appearing frequently in Luke's writings. It is worth noting that the next day is mentioned, indicating that the transfiguration occurred the previous night. When Jesus and his disciples descended from the mountain, they encountered a large crowd, as mentioned in Matthew 17:14 and Mark 9:14.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.5796581088138597,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+            "commentatorTierSimilarities": [
+                63.69,
+                0.0,
+                36.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The transfiguration probably occurred at night, according to one commentary. Luke omits the conversation about Elias and mentions that the events took place in the morning. The phrase come down is significant and appears frequently in Luke's writings. The mention of the next day suggests that the transfiguration occurred on the previous night. When Jesus and his disciples came down from the mountain, they encountered a large crowd, as referenced in other biblical passages.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6141873202367338,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.01,
+            "commentatorTierSimilarities": [
+                67.5,
+                0.0,
+                32.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The transfiguration is believed to have taken place at night, as suggested by one of the commentaries. The conversation regarding Elias is omitted by St. Luke, who mentions the events occurring in the morning. A notable phrase, come down, is frequently used in Luke's writings. Referring to the next day indicates that the transfiguration occurred the previous night. When Jesus and his disciples descended from the mountain, they encountered a large crowd, as mentioned in other biblical passages.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.504021241237432,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.35,
+            "commentatorTierSimilarities": [
+                68.86,
+                0.0,
+                31.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The transfiguration likely occurred at night, as indicated. The discourse about Elias is omitted by Luke, while it is mentioned that the events took place in the morning. The phrase come down is significant and appears frequently in Luke's writings. The mention of the next day suggests that the transfiguration happened on the previous night. When Jesus and his disciples descended from the mountain, they encountered a large crowd, as referenced in other biblical passages.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5422391581588997,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.62,
+            "commentatorTierSimilarities": [
+                71.74,
+                0.0,
+                28.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

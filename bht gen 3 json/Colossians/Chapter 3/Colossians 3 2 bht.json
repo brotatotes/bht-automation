@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:20:14",
+    "verseRef": "Colossians 3:2",
+    "bestBHT": {
+        "bht": "Set your mind on the things above, extending to the whole region of your thoughts and desires. Seek and think of heaven, for it does matter what we think and we are responsible for our thoughts. Keep your feet upon the earth, but your head in the heavens. Help make earth like heaven by being heavenly-minded here. Leave off the earthly things that distract us and focus on contemplating heavenly things.",
+        "wordCount": 72,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 2.1561118035978932,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+        "commentatorTierSimilarities": [
+            42.49,
+            28.72,
+            28.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Set your mind on (or, care for) the things above (extending to the whole region of their thought and desire)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Set your mind on the things above, not on the things,\" &amp;c.",
+            "\t(Colossians 2:20).",
+            "Contrast 'who mind earthly things' (Colossians 2:20- :).",
+            "Whatever we make an idol of, will either be a cross to us",
+            "\tif we be believers, or a curse to us if unbelievers."
+        ],
+        "Albert Barnes": [
+            "The thoughts should be occupied about the things where Christ now dwells, where our final home is to be, where our great interests are.",
+            "Since we are raised from the death of sin, and are made to live anew, the great object of our contemplation should be the heavenly world.",
+            "Our affections should not be fixed on houses and lands; on scenes of fashion and gaiety; on low and debasing enjoyments."
+        ],
+        "Marvin Vincent": [
+            "Set your mind, the inward impulse and disposition.",
+            "You must not only seek heaven, you must think heaven.",
+            "You must not only seek heaven, you must think heaven."
+        ],
+        "John Calvin": [
+            "Christ calls us upwards to himself, while these [ceremonies] draw us downwards.\" ",
+            "The ceremonies are dead to you through the death of Christ, and you to them, in order that, being raised up to heaven with Christ, you may think only of those things that are above.\" ",
+            "Leave off therefore earthly things."
+        ],
+        "Philip Schaff": [
+            "Seek heaven; you must also think heaven.",
+            "The use of earthly things is not forbidden, but we are bidden, in the right use of the earthly, to mind and seek heavenly things.",
+            "Your true life was hid and remains hidden together 'with Christ,' and this permanent concealment was 'in God.'"
+        ],
+        "Archibald T. Robertson": [
+            "It does matter what we think and we are responsible for our thoughts.",
+            "The Christian has to keep his feet upon the earth, but his head in the heavens.",
+            "He must be heavenly-minded here on earth and so help to make earth like heaven."
+        ],
+        "John Gill": [
+            "For unless the affections are set on them, they will never be sought after in a proper manner.",
+            "Their contemplation should be on those things, and their conversation should be in heaven; nor should they regard anything but what is there, or comes from thence.",
+            "Moreover, worldly lusts, the members which are on the earth, earthly pleasures that are sinful, may be here meant."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Set your mind on the things above, extending to the whole region of your thoughts and desires. Contrast the earthly things that serve as idols and become a burden or curse to us. Seek and think of heaven, for it does matter what we think and we are responsible for our thoughts. Keep your feet upon the earth, but your head in the heavens. Help make earth like heaven by being heavenly-minded here. Contemplate and converse about heavenly things, leaving off the earthly things that distract us.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 2.073434012324212,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.28,
+            "commentatorTierSimilarities": [
+                41.04,
+                29.22,
+                29.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Set your mind on the things above, extending to the whole region of your thoughts and desires. Contrast the earthly things that serve as idols and become a burden or curse to us. Seek and think of heaven, for it does matter what we think and we are responsible for our thoughts. Keep your feet upon the earth, but your head in the heavens. Help make earth like heaven by being heavenly-minded here. Leave off the earthly things that distract us and focus on contemplating heavenly things.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1076159625430364,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+            "commentatorTierSimilarities": [
+                41.17,
+                28.93,
+                29.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fix your thoughts on the things above, not on the earthly things. Don't let the cares and pleasures of this world distract you from seeking and thinking about heaven. Your inward impulse and disposition should be heavenly-minded, bringing the realities of heaven to bear on your daily life. Remember that earthly things can either be a cross or a curse, so choose to set your mind and desires on the heavenly realm, helping to make the earth more like heaven.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.244657281919723,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.98,
+            "commentatorTierSimilarities": [
+                34.87,
+                34.29,
+                30.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Set your mind on the things above, seeking and thinking about heaven. Don't let the distractions and burdens of earthly things become idols that weigh you down. Your thoughts and desires shape your actions, so be mindful of what you focus on. Keep your feet grounded in the present, but let your mind be elevated to heavenly contemplation. By maintaining a heavenly mindset, you contribute to making the earth more like heaven and aligning your life with God's purposes.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.1235221223492697,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                38.77,
+                32.18,
+                29.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Set your mind on the things above, extending to the whole region of your thoughts and desires. Seek and think of heaven, for it does matter what we think and we are responsible for our thoughts. Keep your feet upon the earth, but your head in the heavens. Help make earth like heaven by being heavenly-minded here. Leave off the earthly things that distract us and focus on contemplating heavenly things.",
+            "wordCount": 72,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 2.1561118035978932,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                42.49,
+                28.72,
+                28.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

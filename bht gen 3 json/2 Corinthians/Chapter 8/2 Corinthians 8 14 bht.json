@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:17:20",
+    "verseRef": "2 Corinthians 8:14",
+    "bestBHT": {
+        "bht": "In the spirit of equality, let us support our fellow Christians who are in need. By sharing our abundance, we can alleviate their deficiency, fostering a community where no one exceeds or falls short. The principle of equality should guide our actions, just as the gathering of manna ensured that everyone had enough. As circumstances may change, let us be ready to receive support when we are in need. By practicing this principle, we can meet both the spiritual and material needs of our brothers and sisters.",
+        "wordCount": 87,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.7003912178659863,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+        "commentatorTierSimilarities": [
+            24.99,
+            41.98,
+            33.03
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "but that, by the rule of equality, at this present time (of their need: the stress is on these words, as suggesting that this relation may hereafter be altered) your abundance may subserve their deficiency; that also (supposing circumstances changed) their abundance may subserve your want.",
+            "The reference is still, as is evident from the next verse, to the supply of temporal wants, in respect of which there should be a mutual relieving and sharing among Christians.",
+            "that there may be equality: as it is written (i. e. according to the expression used in the Scripture history, of the gathering of the manna), He that (gathered) much did not exceed (the measure prescribed by God); and he that (gathered) little did not fall short (of it)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "by an equality\u2014\"by the rule of equality\" [ALFORD]: literally, 'Out of equality.'\" ",
+            "now at this time\u2014Greek, 'at the present juncture' or season.\" ",
+            "that their abundance also\u2014The Greek being distinct from the previous 'that,' translate, 'in order that,' namely, at another season, when your relative circumstances may be reversed."
+        ],
+        "Albert Barnes": [
+            "The support of the objects of benevolence should be on equal principles.",
+            "Christians should contribute liberally while they have the means.",
+            "That all may be just and equal. That no unjust burden should be borne by anyone portion of the great family of the redeemed."
+        ],
+        "Marvin Vincent": [
+            "By an equality. I speak on the principle that your abundance should go to equalize the difference created by their want.",
+            "Ex as in ver. 11, according to.",
+            "I speak on the principle that your abundance should go to equalize the difference created by their want."
+        ],
+        "John Calvin": [
+            "If it is irksome to you to help your brethren with riches that are of no value, consider how many blessings you are destitute of, and these too, far more precious, with which you may be enriched by those who are poor as to worldly substance.",
+            "This participation, which Christ has established among the members of his body, should animate you to be more forward, and more active in doing good.",
+            "For the system of proportional right in the Church is this \u2014 that while they communicate to each other mutually according to the measure of gifts and of necessity, this mutual contribution produces a befitting symmetry, though some have more, and some less, and gifts are distributed unequally."
+        ],
+        "Archibald T. Robertson": [
+            "By equality (\u03b5\u03be \u03b9\u03c3\u03bf\u03c4\u03b7\u03c4\u03bf\u03c2).",
+            "Abundancy (\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03c5\u03bc\u03b1).",
+            "Want (\u03c5\u03c3\u03c4\u03b5\u03c1\u03b7\u03bc\u03b1)."
+        ],
+        "John Gill": [
+            "All that he meant was, that there might be an equality both in givers and receivers, proportioned to their several circumstances and stations of life.",
+            "Should they ever change circumstances, as it was not impossible that they that were now rich should become poor, and they that were poor become rich; then as their abundance had been a supply to the wants of others, the abundance of others in their turn would be a supply to their wants.",
+            "That the rich should so distribute as not to leave themselves without a proper support, according to their station of life; and yet so freely communicate, that the poor may not be without food and raiment, suitable to their lower sphere of life."
+        ],
+        "John Wesley": [
+            "That their abundance \u2014 If need should so require.",
+            "May be \u2014 At another time.",
+            "A supply to your want: that there may be an equality.\" ",
+            "It may likewise have a further meaning:-that as the temporal bounty of the Corinthians did now supply the temporal wants of their poor brethren in Judea, so the prayers of these might be a means of bringing down many spiritual blessings on their benefactors.",
+            "So that all the spiritual wants of the one might be amply supplied; all the temporal of the other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us remember that the principle of equality should guide our actions in supporting our fellow Christians who are in need. As we contribute to meet their temporal necessities, we can create a more just and equitable community. Just as the gathering of manna in the desert ensured that everyone had enough, our generosity should ensure that no one falls short. In doing so, we can foster a spirit of mutual sharing and alleviate the inequalities that exist among us. Let us be mindful that our abundance today may become our deficiency tomorrow, and vice versa. By practicing this principle of equality, we can strengthen the body of Christ and meet both the spiritual and earthly needs of our brothers and sisters.",
+            "wordCount": 122,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.67868918113594,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.16,
+            "commentatorTierSimilarities": [
+                27.0,
+                38.95,
+                34.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The principle of equality should be our guide in supporting fellow Christians in need. By contributing to their material lack, we create a just and equitable community. Just as the gathering of manna ensured that no one exceeded or fell short, our generosity should ensure that everyone has enough. We must be mindful that our abundance today may become our deficiency tomorrow, and vice versa. Through this practice of equality, we can strengthen the body of Christ and meet both spiritual and material needs.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6475556601145334,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.12,
+            "commentatorTierSimilarities": [
+                24.77,
+                40.8,
+                34.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the spirit of equality, let us support our fellow Christians who are in need. By sharing our abundance, we can alleviate their deficiency, fostering a community where no one exceeds or falls short. The principle of equality should guide our actions, just as the gathering of manna ensured that everyone had enough. As circumstances may change, let us be ready to receive support when we are in need. By practicing this principle, we can meet both the spiritual and material needs of our brothers and sisters.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.7003912178659863,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+            "commentatorTierSimilarities": [
+                24.99,
+                41.98,
+                33.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By following the rule of equality, we can share our abundance to meet the needs of our fellow Christians. This mutual relieving and sharing among believers is essential for creating a just and balanced community where no one exceeds or falls short. Just as the gathering of manna ensured that everyone had enough, our generosity can bridge the gap between abundance and deficiency. In this way, we can support one another, both in material needs and in spiritual growth, strengthening the unity of the body of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6403999506269573,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.89,
+            "commentatorTierSimilarities": [
+                26.91,
+                34.89,
+                38.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the present time, let us follow the principle of equality by using our abundance to help those in need. Just as the gathering of manna ensured that no one exceeded or fell short, our support should create a balanced community. By sharing our resources, we can address the material wants of our fellow Christians. At the same time, we must recognize that circumstances can change, and we may also need assistance in the future. Through this cycle of giving and receiving, we demonstrate our unity and fulfill the command to love one another.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.574150343919351,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.68,
+            "commentatorTierSimilarities": [
+                26.31,
+                38.49,
+                35.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

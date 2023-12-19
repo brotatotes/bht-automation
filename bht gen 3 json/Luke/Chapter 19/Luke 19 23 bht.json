@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:21:46",
+    "verseRef": "Luke 19:23",
+    "bestBHT": {
+        "bht": "The servant should have deposited the money in a bank where it could have earned proper and legal interest. However, he failed to make use of his gifts and was rebuked for his sloth. While the verse does not endorse usury, it exposes the folly and wickedness of the servant's actions. Earning interest is not against any law, but it should not be an excuse for oppressive or extortionate practices.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.4484050710524983,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.5,
+        "commentatorTierSimilarities": [
+            30.94,
+            23.44,
+            45.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The bank - The treasury, or the place of exchange. Why did you not loan it out, that it might be increased?",
+            "Usury - Interest."
+        ],
+        "Marvin Vincent": [
+            "Bank [\u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b1\u03bd] . Lit., the table of the money - changer. Wyc., board. See on exchangers, Matthew 25:27. ",
+            "Usury [\u03c4\u03bf\u03ba\u03c9] . Better interest, as Rev. See on usury, Matthew 25:27."
+        ],
+        "Philip Schaff": [
+            "Luke 19:23. Into the bank, or, \u2018a bank.\u2019 The latter form opposes the view that the \u2018bank\u2019 represents the Church, and the putting of the pound there as resignation of the office.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Note this inferential use of \u03ba\u03b1\u03b9- in that case.\" ",
+            "It means then any table (Mark 7:28), food on the table (Acts 16:34), feast or banquet (Romans 11:9), table of the money-changers (John 2:15; Mark 11:15; Matthew 21:12), or bank as here.",
+            "Not usury, but proper and legal interest."
+        ],
+        "John Gill": [
+            "Wherefore then gavest not thou my money into the bank... had Christ been such a person as he represents him, he ought to have been the more diligent, and made the greater use of his gifts.\" ",
+            "Not that Christ approves of usury in an unlawful way, but reproves hereby the sloth of this man.\" ",
+            "Exposes his folly and wickedness upon his own principles."
+        ],
+        "John Wesley": [
+            "With interest \u2014 Which does not appear to be contrary to any law of God or man.",
+            "But this is no plea for usury, that is, the taking such interest as implies any degree of oppression or extortion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse refers to a bank or table of the money-changer, where the servant was expected to deposit the money and earn proper and legal interest. Instead, the servant did not make use of his gifts and was rebuked by Christ for his sloth. The verse does not advocate for usury, but rather exposes the foolishness and wickedness of the servant's actions. It is not contrary to any law of God or man to earn interest, but this does not justify oppressive or extortionate practices.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.587267414497056,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.12,
+            "commentatorTierSimilarities": [
+                30.02,
+                24.06,
+                45.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servant was expected to deposit the money in a bank and earn proper and legal interest. However, he failed to make use of his gifts and was rebuked by Christ for his sloth. While the verse does not endorse usury, it exposes the folly and wickedness of the servant's actions. Earning interest is not against any law of God or man, but it should not be used as an excuse for oppressive or extortionate practices.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.4879722840415956,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.82,
+            "commentatorTierSimilarities": [
+                31.06,
+                23.57,
+                45.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servant should have deposited the money in a bank where it could have earned proper and legal interest. However, he failed to make use of his gifts and was rebuked for his sloth. While the verse does not endorse usury, it exposes the folly and wickedness of the servant's actions. Earning interest is not against any law, but it should not be an excuse for oppressive or extortionate practices.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4484050710524983,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.5,
+            "commentatorTierSimilarities": [
+                30.94,
+                23.44,
+                45.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The servant should have deposited the money at a bank to earn interest, but instead, he was rebuked for his laziness and failure to use his gifts. Though the verse does not promote usury, it reveals the foolishness and wickedness of the servant's behavior. It is not unlawful to earn interest, as long as it does not involve oppression or extortion.",
+            "wordCount": 62,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5798755786580232,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+            "commentatorTierSimilarities": [
+                29.18,
+                25.3,
+                45.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servant should have deposited the money in a bank to earn proper and legal interest, but his negligence and failure to utilize his talents were reproved by Christ. While the passage does not endorse usury, it exposes the servant's folly and wickedness. Earning interest itself is not contrary to any law, divine or human, as long as it does not involve any form of oppression or extortion.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.5893286088079774,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.19,
+            "commentatorTierSimilarities": [
+                29.39,
+                25.44,
+                45.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

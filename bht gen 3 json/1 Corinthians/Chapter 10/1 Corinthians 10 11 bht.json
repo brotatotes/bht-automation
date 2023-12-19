@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:11:28",
+    "verseRef": "1 Corinthians 10:11",
+    "bestBHT": {
+        "bht": "Living in the last dispensation, our guilt is greater if we fall short of our privileges, as exemplified by past generations. These historical and figurative examples serve as a warning, indicating the closeness of God's judgment. Written for our admonition, they are applicable to Christians of all ages. The gospel era represents the culmination of God's dispensation, where punishments and rewards converge. As we await Christ's return as Judge, let us heed the lessons from the past and strive to fulfill our responsibilities in this final phase.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8709939555580943,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+        "commentatorTierSimilarities": [
+            30.89,
+            36.0,
+            33.11
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whatever happened to the fathers, was a sign to their posterity.",
+            "He means nothing else than that the terrible judgment is close at hand.",
+            "The ages are treated as occupying space, and their extent as just coincident with our own time."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The ends of the world - literally, 'of the ages'; the New Testament dispensation in its successive phases (plural, 'ends') being the winding up of all former 'ages.'",
+            "No new dispensation shall appear till Christ comes as Avenger and Judge; till then the 'ends,' being many, include various successive periods.",
+            "As we live in the last dispensation, which is the consummation of all that went before, our responsibilities are the greater; and the greater is the guilt, Paul implies, to the Corinthians, which they incur if they fall short of their privileges."
+        ],
+        "Albert Barnes": [
+            "They showed the weakness of men, and their liability to fall into sin, and their need of the divine protection, and they might thus be used for the admonition of succeeding generations.",
+            "The admonition did not pertain merely to the Corinthians, but had an equal applicability to Christians in all ages of the world.",
+            "It means the last dispensation; or, that period and mode of the divine administration under which the affairs of the world would be wound up."
+        ],
+        "Marvin Vincent": [
+            "The phrase assumes that Christ's second coming is close at hand, and therefore the end of the world.\" ",
+            "The plural, ends, marks a little more distinctly the idea of each age of preparation having passed into the age that succeeded it, so that now all the ends of the ages have come down to them.",
+            "Are come."
+        ],
+        "John Calvin": [
+            "For they are lively pictures, representing God as angry on account of such sins.",
+            "That people was a figure of the Christian Church, in such a manner as to be at the same time a true Church.",
+            "If God inflicted punishment upon them, he will not the more spare you. Away, then, with the error, that God is now more remiss in exacting the punishment of crimes!"
+        ],
+        "Philip Schaff": [
+            "Now these things happened onto them by way of example Gr. \u2018typically\u2019 or \u2018figuratively,\u2019 as historical facts designed to teach great lessons for all time.",
+            "they were written for our admonition, upon whom the ends of the ages (see note on 'world,' ch. 1 Corinthians 1:20) are come the last and ripest of God\u2019s dispensations towards His Church.",
+            "to which pointed all that went before, and for which all was designed to prepare (Hebrews 9:26; Galatians 4:4; Ephesians 1:10)."
+        ],
+        "Archibald T. Robertson": [
+            "Now these things happened unto them (\u03c4\u03b1\u03c5\u03c4\u03b1 \u03b4\u03b5 \u03c3\u03c5\u03bd\u03b5\u03b2\u03b1\u03b9\u03bd\u03bf\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03b9\u03c2). Imperfect tense because they happened from time to time.",
+            "By way of example (\u03c4\u03c5\u03c0\u03b9\u03ba\u03c9\u03c2). Adverb in sense of \u03c4\u03c5\u03c0\u03bf in verse 1 Corinthians 10:6.",
+            "The ends of the ages have come (\u03c4\u03b1 \u03c4\u03b5\u03bb\u03b7 \u03c4\u03c9\u03bd \u03b1\u03b9\u03c9\u03bd\u03c9\u03bd \u03ba\u03b1\u03c4\u03b7\u03bd\u03c4\u03b7\u03ba\u03b5\u03bd)... In a sense the ends of the ages like a curtain have come down to all of us."
+        ],
+        "John Gill": [
+            "All these punishments came upon them in various ways, not by chance, but by the will of God, and as their sins deserved.",
+            "That men in a church state particularly may take warning, by these instances of their sin and punishment, to avoid the one and escape the other, and not presume upon their external privileges and favours.",
+            "The ends both of the Jewish and Gentile ages may be said to come upon, or meet in the apostles and their times, who had the advantage of looking back on former ones, and of receiving instruction from thence."
+        ],
+        "John Wesley": [
+            "All things meet together, and come to a crisis, under the last, the gospel, dispensation; both benefits and dangers, punishments and rewards.",
+            "It remains, that Christ come as an avenger and judge.",
+            "And even these ends include various periods, succeeding each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The examples of past generations serve as a warning to us in the present, indicating the closeness of God's judgment. Since we now live in the last dispensation, our responsibilities are greater, and falling short of our privileges incurs greater guilt. The phrase the ends of the ages refers to the successive phases of the New Testament dispensation, leading up to Christ's second coming. These examples from the past not only happened historically but also have figurative significance, serving as lively pictures of the consequences of sin. They were written for our admonition and are applicable to Christians of all ages. As we live in the final phase of God's dispensation, everything, including benefits and dangers, punishments and rewards, culminate in the gospel era, awaiting Christ's return as Judge.",
+            "wordCount": 133,
+            "quoteTokenProportion": 31.76,
+            "qualityScore": 1.966334588857487,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                33.37,
+                35.62,
+                31.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The examples from past generations serve as a warning to us that the judgment is close at hand. Living in the last dispensation, the guilt incurred if we fall short of our privileges is greater. These examples are both historical and figurative, teaching us valuable lessons. They were written for our admonition, applicable to Christians of all ages. As the gospel era is the culmination of God's dispensation, all things, including punishments and rewards, reach a climax. Await Christ's return as Judge.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.77561012643393,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                32.98,
+                35.71,
+                31.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The examples from past generations serve as a warning, indicating the closeness of God's judgment. Living in the last dispensation, our guilt is greater if we fall short of our privileges. These examples are both historical and figurative, teaching us valuable lessons. They were written for our admonition, applicable to Christians of all ages. As the gospel era is the culmination of God\u2019s dispensation, punishments and rewards reach a climax. Await Christ's return as Judge.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.76790637822288,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                30.89,
+                36.23,
+                32.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Living in the last dispensation, our guilt is greater if we fall short of our privileges, as exemplified by past generations. These historical and figurative examples serve as a warning, indicating the closeness of God's judgment. Written for our admonition, they are applicable to Christians of all ages. The gospel era represents the culmination of God's dispensation, where punishments and rewards converge. As we await Christ's return as Judge, let us heed the lessons from the past and strive to fulfill our responsibilities in this final phase.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8709939555580943,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                30.89,
+                36.0,
+                33.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Living in the last dispensation, our guilt is greater if we fall short of our privileges, as exemplified by past generations. These examples serve as a warning, indicating the closeness of God's judgment. Applicable to Christians in all ages, they are written for our admonition. The gospel era represents the culmination of God's dispensation where punishments and rewards converge. As we await Christ's return as Judge, let us heed the lessons from the past and fulfill our responsibilities in this final phase.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8234610011640764,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                31.6,
+                34.86,
+                33.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:31:03",
+    "verseRef": "Acts 14:4",
+    "bestBHT": {
+        "bht": "In the city where Paul and Barnabas preached, a division arose among the Gentile populace. This division was within the Gentile populace. Some approved of their message, which divisions in families, towns, and cities, though the common consequence of the preaching of the Gospel, are not owing to any fault in that, but to the depravity and corruption of human nature. Despite the opposition, it was a way for God to bear His testimony and reveal the truth. Such divisions are common when the Gospel is preached, yet it is not the fault of Christianity itself.",
+        "wordCount": 96,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.5700918952681486,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.55,
+        "commentatorTierSimilarities": [
+            35.56,
+            25.31,
+            39.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was the way in which God bore His testimony.",
+            "Such a split into two factions was a common occurrence, on far less important occasions, in these cities of Oriental Greeks."
+        ],
+        "Albert Barnes": [
+            "A revival of religion often produces excitement by the bad passions of opposers.",
+            "The enemies of the truth form parties, and organize opposition.",
+            "It is no uncommon thing even now for such parties to be formed; but the fault is not in Christianity."
+        ],
+        "John Calvin": [
+            "The forwardness of men causeth that the gospel, which ought to be the bond of unity, is (so soon as it cometh abroad) the occasion of tumults.",
+            "We hear here that one city was divided, whereby some were brought unto Christ. The Spirit of God pronounceth this to the praise, and not the shame, of Paul and Barnabas.",
+            "But as the unity is accursed which doth separate us all from God, so it were better that a few should depart an hundred times from all the whole world, and, in the mean season, come in favor again with God, than that disagreeing with him continually, they should have peace with the world."
+        ],
+        "Archibald T. Robertson": [
+            "This division was within the Gentile populace.",
+            "To have followed Jesus in his ministry and to have seen the Risen Christ was essential to the technical use.",
+            "Paul claimed to be an apostle on a par with the twelve."
+        ],
+        "John Gill": [
+            "But the multitude of the city was divided... some approving them, others condemning their doctrines as false, and their miracles as delusions.",
+            "These were the Jews and Greeks, that believed; which divisions in families, towns, and cities, though the common consequence of the preaching of the Gospel, are not owing to any fault in that, but to the depravity and corruption of human nature.",
+            "Are what our Lord declared was, and foretold would be the case."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the city where Paul and Barnabas preached, a division arose among the Gentile populace. Some approved of their message and believed, while others condemned their teachings and saw their miracles as delusions. This split into two factions was not uncommon in these cities, but despite the opposition, it was a way for God to bear His testimony. Such divisions in families, towns, and cities are a common consequence of the preaching of the Gospel, but they are not due to any fault in Christianity itself. Although the enemies of truth form parties and organize opposition, it is important to remember that the fault does not lie with Christianity.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.5300573654054506,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.22,
+            "commentatorTierSimilarities": [
+                27.35,
+                32.7,
+                39.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the city where Paul and Barnabas preached, a division arose among the Gentile populace. This was the way in which God bore His testimony. Some approved of their message and believed, while others condemned their teachings as false. These were the Jews and Greeks, that believed; which divisions in families, towns, and cities, though the common consequence of the preaching of the Gospel, are not owing to any fault in that, but to the depravity and corruption of human nature. Despite the opposition, it was a way for God to bear His testimony, revealing the truth to those who were receptive.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.4765680197120603,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.44,
+            "commentatorTierSimilarities": [
+                40.5,
+                19.32,
+                40.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the city where Paul and Barnabas preached, a division arose among the Gentile populace. This was the way in which God bore His testimony. Some believed and approved, while others condemned their teachings as false. These were the Jews and Greeks, that believed. Such divisions are common when the Gospel is preached, not due to any fault of Christianity, but to the corruption of human nature. It is important to remember that despite opposition, God's testimony can still reach receptive hearts.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.4037376741175236,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+            "commentatorTierSimilarities": [
+                41.1,
+                20.51,
+                38.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the city where Paul and Barnabas preached, a division arose among the Gentile populace. This was the way in which God bore His testimony. Some believed and approved, while others condemned their teachings as false. These were the Jews and Greeks, that believed. Such divisions are common when the Gospel is preached, yet it is not the fault of Christianity itself. Despite opposition, God's testimony can still reach receptive hearts.",
+            "wordCount": 72,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.4020074401022393,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.96,
+            "commentatorTierSimilarities": [
+                41.89,
+                21.81,
+                36.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the city where Paul and Barnabas preached, a division arose among the Gentile populace. This division was within the Gentile populace. Some approved of their message, which divisions in families, towns, and cities, though the common consequence of the preaching of the Gospel, are not owing to any fault in that, but to the depravity and corruption of human nature. Despite the opposition, it was a way for God to bear His testimony and reveal the truth. Such divisions are common when the Gospel is preached, yet it is not the fault of Christianity itself.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.5700918952681486,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.55,
+            "commentatorTierSimilarities": [
+                35.56,
+                25.31,
+                39.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

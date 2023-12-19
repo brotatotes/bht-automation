@@ -1,0 +1,100 @@
+{
+    "timestamp": "12-19-2023 15:30:27",
+    "verseRef": "Ephesians 4:3",
+    "bestBHT": {
+        "bht": "Unity among believers is crucial, and the Spirit is the one who brings about this unity. We are urged to diligently strive to maintain this unity, which is not just external or based on creed, but a unity of temper and affection. It is the bond of peace that holds the Church together, as a symbol of the inner unity that the Spirit creates. Without love, there can be no true peace. Therefore, let us make every effort to keep the unity of the Spirit through love.",
+        "wordCount": 87,
+        "quoteTokenProportion": 57.63,
+        "qualityScore": 2.5451691671915837,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.97,
+        "commentatorTierSimilarities": [
+            31.54,
+            36.16,
+            32.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The genitive is in fact a possessive\u2014the Spirit\u2019s unity, that unity which the Spirit brings about.",
+            "The bond is peace, not that which brings about peace, namely, love.",
+            "Peace binds together the Church as a condition and symbol of that inner unity which is only wrought by the indwelling Spirit of God."
+        ],
+        "Albert Barnes": [
+            "It means that Christians should be united in temper and affection, and not be split up into factions and parties.",
+            "There is 'always' occasion for such an exhortation; for: (1) 'unity' of feeling is eminently desirable to honor the gospel; and, (2) There is always danger of discord where people are brought together in one society.",
+            "It is not mere 'external' unity; it is not a mere unity of creed; it is not a mere unity in the forms of public worship; it is such as the Holy Spirit produces in the hearts of Christians, when it fills them all with the same love, and joy, and peace in believing."
+        ],
+        "Marvin Vincent": [
+            "Endeavoring [\u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2] . Not strong enough. Originally the verb means to make haste. So the kindred noun spoudh haste, Mark 6:25; Luke 1:39. Hence diligence. Rev., here, giving diligence.",
+            "Unity of the Spirit. Wrought by the Holy Spirit.",
+            "Bond of peace. The bond which is peace. Compare ch. 2 14, our peace - made both one. Christ, our peace, is thus a bond of peace."
+        ],
+        "John Calvin": [
+            "Endeavoring to keep the unity of the Spirit.\" ",
+            "Innumerable offenses arise daily, which might produce quarrels, particularly when we consider the extreme bitterness of man\u2019s natural temper.",
+            "We must live at peace, if we would wish that brotherly kindness should be permanent amongst us."
+        ],
+        "Philip Schaff": [
+            "The unity of the Spirit, i.e., the Holy Spirit, since a reference to the human spirit in this connection would be both flat and unpauline.",
+            "Such a unity we are commanded to \u2018keep,\u2019 not to \u2018make.\u2019",
+            "Only unity of Christians, wrought by the Holy Spirit, maintained by loving personal endeavor, can result in the manifested unity of the Body of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "The unity (\u03c4\u03b7\u03bd \u03b5\u03bd\u03bf\u03c4\u03b7\u03c4\u03b1).",
+            "In the bond of peace (\u03b5\u03bd \u03c4\u03c9 \u03c3\u03c5\u03bd\u03b4\u03b5\u03c3\u03bc\u03c9 \u03c4\u03b7\u03c2 \u03b5\u03b9\u03c1\u03b7\u03bd\u03b7\u03c2).",
+            "But there is no peace without love (verse Ephesians 4:2)."
+        ],
+        "John Gill": [
+            "The saints are united under one head, and are members of one and the same body, and should be of the same mind and judgment, and of one accord, heart, and affection: and this may be called 'the unity of the Spirit'; because it is an union of spirits, of the spirits or souls of men; and that in spiritual affairs, in the spiritual exercises of religion; and it is effected by the Spirit of God, by whom they are baptized into one body.",
+            "though it is difficult, and may sometimes seem to be impossible, yet it becomes the saints to be diligent in the use of means to keep it up, and continue it; and which they may be said to endeavour after, when they abide with one another, and do not forsake each other upon every occasion; when they perform all offices of love to one another, and stir up each other to the like",
+            "by maintaining peace among themselves, and seeking those things which tend to, and make for peace, and spiritual edification; and which is called a bond, in allusion to the Greek word used, which comes from one that signifies to knit, join, and bind together, and because it is of a knitting and uniting nature."
+        ],
+        "John Wesley": [
+            "Endeavouring to keep the unity of the Spirit \u2014 That mutual union and harmony, which is a fruit of the Spirit. The bond of peace is love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that unity among believers is essential, and it is the Holy Spirit who brings about this unity. We are urged to diligently strive to maintain this unity, which is not just external or based on creed, but a unity of temper and affection. It is the bond of peace that holds the Church together, as a symbol of the inner unity that the Spirit creates. Without love, there can be no true peace. Therefore, let us make every effort to keep the unity of the Spirit through love, for love is the bond of peace.",
+            "wordCount": 99,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 2.592623017314801,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.54,
+            "commentatorTierSimilarities": [
+                32.37,
+                34.91,
+                32.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Unity among believers is crucial, and the Spirit is the one who brings about this unity. We are urged to diligently strive to maintain this unity, which is not just external or based on creed, but a unity of temper and affection. It is the bond of peace that holds the Church together, as a symbol of the inner unity that the Spirit creates. Without love, there can be no true peace. Therefore, let us make every effort to keep the unity of the Spirit through love.",
+            "wordCount": 87,
+            "quoteTokenProportion": 57.63,
+            "qualityScore": 2.5451691671915837,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.97,
+            "commentatorTierSimilarities": [
+                31.54,
+                36.16,
+                32.3
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

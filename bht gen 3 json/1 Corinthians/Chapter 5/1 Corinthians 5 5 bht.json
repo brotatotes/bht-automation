@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:03:22",
+    "verseRef": "1 Corinthians 5:5",
+    "bestBHT": {
+        "bht": "The punishment in question aims to limit the devil's influence and ultimately bring about the eternal happiness of the offender's spirit. By casting the offender out of the Church and back into the heathen world, considered under the power of Satan, it serves as a disciplinary measure for the reformation of the individual. This expulsion from the local church should not be misconstrued as condemnation but rather serves as a remedial punishment for the conquest of fleshly sins and an opportunity for the offender's reformation.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.412959258880073,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.57,
+        "commentatorTierSimilarities": [
+            36.49,
+            39.95,
+            23.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The aim of the destruction of the flesh...to put bounds to the devil, and not to allow him to advance further.",
+            "Thus the proposed punishment, severe as it might seem, would be in reality a merciful one, tending to the eternal happiness of the offender.",
+            "The delivering to Satan for the destruction of the spirit, can belong only to those who do the work of Satan."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul delegates here to the Corinthian Church his own special power as an apostle, of inflicting corporeal disease or death in punishment for sin.",
+            "Satan receives power at times to try the godly, as Job and Paul, much more the ungodly.",
+            "Temporary affliction often leads to permanent salvation."
+        ],
+        "Albert Barnes": [
+            "There is some foundation for this opinion; and there can be no doubt that excommunication is here intended, and that, by excommunication, the offender was in some sense placed under the control of Satan.",
+            "It may be observed here that though this was to be done by the concurrence of the church, as having a right to administer discipline, yet it was directed by apostolic authority; and there is no evidence that this was the usual form of excommunication, nor ought it now to be used.",
+            "The church now has no such power. It cannot now work miracles; and all its discipline now is to be moral discipline, designed not to inflict bodily pain and penalties, but to work a moral reformation in the offender."
+        ],
+        "Marvin Vincent": [
+            "That it implies excommunication from the Church.",
+            "That casting the offender out of the Church involved casting him back into the heathen world, which Paul habitually conceives as under the power of Satan.",
+            "That Paul has in view the reformation of the offender: 'that the spirit may be saved,' etc."
+        ],
+        "John Calvin": [
+            "For delivering over to Satan is an appropriate expression for denoting excommunication; for as Christ reigns in the Church, so Satan reigns out of the Church.",
+            "As, then, we are received into the communion of the Church, and remain in it on this condition, that we are under the protection and guardianship of Christ, I say, that he who is cast out of the Church is in a manner delivered over to the power of Satan, for he becomes an alien, and is cast out of Christ\u2019s kingdom.",
+            "The destruction of the flesh is opposed to the salvation of the spirit, simply because the former is temporal and the latter is eternal."
+        ],
+        "Archibald T. Robertson": [
+            "Paul certainly means expulsion from the church... But we are not to infer that expulsion from the local church means the damnation of the offender.\" ",
+            "Both for physical suffering as in the case of Job and for conquest of the fleshly sins, remedial punishment.",
+            "The ultimate purpose of the expulsion as discipline... Paul's motive is not merely vindictive, but the reformation of the offender."
+        ],
+        "John Gill": [
+            "To deliver such an one unto Satan.\" ",
+            "For the destruction of the flesh.\" ",
+            "That the spirit may be saved in the day of the Lord Jesus."
+        ],
+        "John Wesley": [
+            "To deliver such an one \u2014 This was the highest degree of punishment in the Christian church...\" (Commentary)",
+            "Who was usually permitted, in such cases, to inflict pain or sickness on the offender.\" (Commentary)",
+            "Of the flesh \u2014 Unless prevented by speedy repentance.\" (Commentary)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The aim of the punishment in 1 Corinthians 5:5 is not only to put bounds to the devil but also to have a merciful outcome, leading to the eternal happiness of the offender's spirit. Casting the offender out of the Church and back into the heathen world, considered under the power of Satan, is a form of discipline with the purpose of reformation. It is important to note that expulsion from the local church does not imply damnation, but rather serves as a remedial punishment for the conquest of fleshly sins and as an opportunity for the reformation of the offender.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.5259905278608468,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.33,
+            "commentatorTierSimilarities": [
+                36.48,
+                39.79,
+                23.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The punishment in question aims to limit the devil's influence and ultimately bring about the eternal happiness of the offender's spirit. By casting the offender out of the Church and back into the heathen world, considered under the power of Satan, it serves as a disciplinary measure for the reformation of the individual. This expulsion from the local church should not be misconstrued as condemnation but rather serves as a remedial punishment for the conquest of fleshly sins and an opportunity for the offender's reformation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.412959258880073,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.57,
+            "commentatorTierSimilarities": [
+                36.49,
+                39.95,
+                23.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The punishment in 1 Corinthians 5:5 is intended to restrict the advancements of the devil and to bring about the eternal well-being of the offender's spirit. By casting the offender out of the Church and back into the dominion of Satan, it is a disciplinary action with the purpose of reforming the individual. Expulsion from the local church does not imply damnation, but instead functions as a remedial punishment aimed at conquering fleshly sins and fostering the spiritual enhancement of the offender.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.499645324334511,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.45,
+            "commentatorTierSimilarities": [
+                35.93,
+                39.63,
+                24.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The punishment in question is not simply a vindictive act but has the ultimate goal of reforming the offender. The severity of the punishment, though it may seem extreme, is actually a merciful one, aimed at bringing about the eternal salvation of the offender's spirit. Exclusion from the local church should not be equated with damnation, but rather serves as a means of discipline to conquer fleshly sins and restore the individual to a path of righteousness, allowing for their ultimate salvation in the day of the Lord Jesus.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.273910975912933,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.95,
+            "commentatorTierSimilarities": [
+                36.3,
+                37.07,
+                26.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The punishment in 1 Corinthians 5:5, though severe, is ultimately a merciful act meant to bring about the eternal happiness of the offender's spirit. The casting out of the offender from the Church implies expulsion back into the world under Satan's dominion, serving as a form of discipline with the aim of reformation. It is important to understand that this expulsion does not equate to damnation. Rather, it is a remedial punishment intended to conquer fleshly sins and guide the offender towards everlasting salvation in the day of the Lord Jesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.270641025712615,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.84,
+            "commentatorTierSimilarities": [
+                37.9,
+                35.81,
+                26.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

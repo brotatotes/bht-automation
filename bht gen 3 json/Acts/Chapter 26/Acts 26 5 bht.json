@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:36:31",
+    "verseRef": "Acts 26:5",
+    "bestBHT": {
+        "bht": "Paul's defense before King Agrippa underscores his strict adherence to Jewish laws and traditions as he aligns himself with the devout Pharisees. Growing up in Jerusalem, Paul was well-versed in the rules of the Pharisees, allowing him to fully embrace their practices. Despite the knowledge of his blameless reputation among the esteemed members of the Sanhedrim, they chose not to testify, disregarding the weight his exemplary past would have added to his present testimony. This highlights Paul's unwavering commitment to his religious practices and deep understanding of the Jewish faith.",
+        "wordCount": 93,
+        "quoteTokenProportion": 32.84,
+        "qualityScore": 1.692999167279173,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+        "commentatorTierSimilarities": [
+            37.98,
+            26.0,
+            36.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Josephus calls the Pharisees 'a sect of the Jews professing to be more devout than other men, and to observe the laws more strictly.'\" ",
+            "The use of the term finds another example in Eph. v. 15, which is literally, 'See ye walk strictly.'",
+            "The word rendered sect is the same as that rendered in ch, xxiv. 5, 14 'heresy,' here used in an indifferent sense."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "if they would, testify\u2014but this, of course, they were not",
+            "after the most straitest\u2014'the strictest.'",
+            "sect\u2014as the Pharisees confessedly were. This was said to meet the charge, that as a Hellenistic Jew he had contracted among the heathen lax ideas of Jewish peculiarities."
+        ],
+        "Albert Barnes": [
+            "From the very commencement of my career. Who were perfectly apprised of my whole course.",
+            "The most rigid; the most strict, not only in regard to the written Law of God, but to the traditions of the elders.",
+            "A virtuous and religious course in early life is usually a sure pledge of virtue and integrity in subsequent years."
+        ],
+        "Philip Schaff": [
+            "He speaks here of what was evidently a common knowledge, viz. those details above referred to of his early bringing up.",
+            "The grave and dignified members of the Sanhedrim, some of whom were doubtless present in that great assembly that morning, could, if they pleased, bow their heads in acquiescence to what he was stating to King Agrippa.",
+            "\u2018After the most straitest sect of our religion;\u2019 that is, \u2018After the most rigid school of our religion.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Knowing me beforehand\" (both \u03c0\u03c1\u03bf and \u03b1\u03bd\u03c9\u03b8\u03b5\u03bd), from the beginning of Paul's public education in Jerusalem.",
+            "A neat turning of the tables on the distinguished audience about Paul's Jerusalem reputation before his conversion.",
+            "Paul knew the rules of the Pharisees and played the game to the full."
+        ],
+        "John Gill": [
+            "From his youth, from his first coming to Jerusalem.",
+            "The first of these was the most exact, and came nearest to the truth of doctrine, and was the strictest as to outward holiness of life and conversation.",
+            "In his own, and very likely in the opinion of others, he was then blameless."
+        ],
+        "John Wesley": [
+            "If they would testify \u2014 But they would not, for they well knew what weight his former life must add to his present testimony."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in his defense before King Agrippa, emphasizes his strict adherence to the Jewish laws and traditions, aligning himself with the Pharisees, who were known for their zealous obedience. He highlights that his upbringing and education in Jerusalem from a young age enabled him to understand and navigate the rules of the Pharisees, which ultimately allowed him to play the game to the full. Although the esteemed members of the Sanhedrim were well aware of Paul's early devotion, they chose not to testify to his blameless reputation, which would have supported his present testimony. This demonstrates Paul's firm grounding in the Jewish faith and his commitment to his religious practices.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.665169286464868,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                37.66,
+                27.1,
+                35.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul defends himself before King Agrippa, highlighting his strict adherence to Jewish laws and traditions, aligning himself with the devout Pharisees. He acknowledges that his upbringing in Jerusalem acquainted him with the rules of the Pharisees, allowing him to fully participate in their practices. Although the esteemed members of the Sanhedrim were aware of his blameless reputation, they chose not to testify, despite the weight his former life would add to his present testimony. This underscores Paul's deep commitment to his religious practices and his firm grounding in the Jewish faith.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.6099971844286456,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                34.32,
+                25.16,
+                40.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, in his defense before King Agrippa, asserts his strict adherence to Jewish laws and traditions, aligning himself with the devout Pharisees. He highlights his upbringing in Jerusalem, which familiarized him with the rules and regulations of the Pharisees, enabling him to fully participate in their practices. Despite the esteemed members of the Sanhedrim being aware of his blameless reputation, they refused to testify, thus missing an opportunity to support his present testimony. This emphasizes Paul's unwavering commitment to his religious practices and his deep understanding of the Jewish faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.5720826596582484,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+            "commentatorTierSimilarities": [
+                36.72,
+                25.83,
+                37.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul defends himself before King Agrippa by emphasizing his strict adherence to Jewish laws and traditions, aligning himself with the esteemed Pharisees. He highlights his upbringing in Jerusalem, which acquainted him with the Pharisees' rules, allowing him to play the game to the fullest extent. Even though the members of the Sanhedrim were aware of his blameless reputation, they chose not to testify, failing to acknowledge the weight his previous life would add to his present testimony. Paul's commitment to his religious practices and deep understanding of the Jewish faith are evident in his defense.",
+            "wordCount": 96,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.644190448737617,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                35.27,
+                25.73,
+                38.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's defense before King Agrippa underscores his strict adherence to Jewish laws and traditions as he aligns himself with the devout Pharisees. Growing up in Jerusalem, Paul was well-versed in the rules of the Pharisees, allowing him to fully embrace their practices. Despite the knowledge of his blameless reputation among the esteemed members of the Sanhedrim, they chose not to testify, disregarding the weight his exemplary past would have added to his present testimony. This highlights Paul's unwavering commitment to his religious practices and deep understanding of the Jewish faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.692999167279173,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                37.98,
+                26.0,
+                36.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

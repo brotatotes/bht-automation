@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:15:46",
+    "verseRef": "2 John 10",
+    "bestBHT": {
+        "bht": "True love renounces falsehood and separates from those who teach it, for the absence of testimony for truth is equivalent to testifying for error. When someone comes as a teacher but does not bring the true doctrine, they should not be received or greeted. This warning applies not only to those always outside the Church, but also to those who wish to be esteemed brethren while subverting the true doctrine. Such false teachers must not be aided, received into houses, or entertained. We should have no familiar conversation with them, lest it encourages them or leads to suspicion among other believers. Therefore, we must not bid them God speed or advance anything contrary to the true teachings of the faith.",
+        "wordCount": 120,
+        "quoteTokenProportion": 45.78,
+        "qualityScore": 1.8018854150260046,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+        "commentatorTierSimilarities": [
+            34.01,
+            34.14,
+            31.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The absence of testimony for the truth is, in one who brings any testimony at all, equivalent to testifying for error.\" ",
+            "It is not the same as if with a junctive mood, 'if any come, and bring:' which always carries a purely hypothetical force, corresponding to an interrogation, whereas the other corresponds to an assertion.\" ",
+            "The expression, 'bringeth not this doctrine,' points out the person as a teacher, not a mere traveller seeking hospitality."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "True love is combined with hearty renunciation and separation from all that is false, whether persons or doctrines.",
+            "This is not said of those who were always aliens from the Church, but of those who wish to be esteemed brethren, and subvert the true doctrine.",
+            "The greeting salutation forbidden in the case of such a one is that usual among Christian brethren in those days, not a mere formality, but a token of Christian brotherhood."
+        ],
+        "Albert Barnes": [
+            "There can be no doubt that she to whom this Epistle was written was accustomed to entertain such teachers.",
+            "We are not to aid their instruction, we are not to receive them into our houses, or to entertain them as religious teachers.",
+            "...we can properly wish no one success in the career of sin and error."
+        ],
+        "Marvin Vincent": [
+            "If anyone comes, as there are those that come.",
+            "Neither bid him God speed.",
+            "Now whoever cometh and teacheth you all these things, before spoken, receive him; but if the teacher himself turn aside and teach another teaching, so as to overthrow this, do not hear him."
+        ],
+        "Archibald T. Robertson": [
+            "John does not refer to entertaining strangers, but to the deceiving propagandists who were carrying dissension and danger with them.",
+            "Receive him not. Into your house.",
+            "Give him no greeting. 'Say not farewell to him.' Apparently \u03c7\u03b1\u03b9\u03c1\u03b5\u03b9\u03bd here is used of farewell as in 2 Corinthians 13:11, though usually in the N.T. of the salutation."
+        ],
+        "John Gill": [
+            "Receive him not into [your] house; neither into the house of God, suffer him not to preach there; nor into your own house, give him no entertainment there.",
+            "False teachers always tried to creep into houses, where they served their own turn every way, both by feeding their bellies, and spreading their pernicious doctrines.",
+            "With such no familiar conversation should be had, lest any encouragement should be given them; or it should induce a suspicion in the minds of other saints, that they are in the same sentiments; or it should tend to make others think favourably of them, and be a snare and a stumblingblock to weak Christians."
+        ],
+        "John Wesley": [
+            "Receive him not into your house \u2014 As either a teacher or a brother.",
+            "Neither bid him God speed - Give him no encouragement therein.",
+            "Advance anything contrary to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "True love is combined with hearty renunciation and separation from all that is false, whether persons or doctrines. The absence of testimony for the truth is, in one who brings any testimony at all, equivalent to testifying for error. Thus, when someone comes as a teacher and does not bring the true doctrine, they should not be received or given any greeting. This applies not only to those who were always outside the Church, but also to those who seek to be esteemed brethren while subverting the true doctrine. John warns against aiding their instruction, receiving them into our houses, or entertaining them as religious teachers, for false teachers always tried to creep into houses, serving their own turn by feeding their bellies and spreading their pernicious doctrines. We should not have familiar conversation with them, as it may give them encouragement, create suspicion among other believers, or be a stumbling block to the weak. Therefore, it is important to be discerning and not bid them God speed or advance anything contrary to the true teachings of the faith.",
+            "wordCount": 179,
+            "quoteTokenProportion": 43.97,
+            "qualityScore": 1.7964615586099444,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.07,
+            "commentatorTierSimilarities": [
+                36.23,
+                30.67,
+                33.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True love renounces falsehood and separates from those who teach it, for the absence of testimony for truth is equivalent to testifying for error. When someone comes as a teacher but does not bring the true doctrine, they should not be received or greeted. This warning applies not only to those always outside the Church, but also to those who wish to be esteemed brethren while subverting the true doctrine. Such false teachers must not be aided, received into houses, or entertained. We should have no familiar conversation with them, lest it encourages them or leads to suspicion among other believers. Therefore, we must not bid them God speed or advance anything contrary to the true teachings of the faith.",
+            "wordCount": 120,
+            "quoteTokenProportion": 45.78,
+            "qualityScore": 1.8018854150260046,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+            "commentatorTierSimilarities": [
+                34.01,
+                34.14,
+                31.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True love combines renunciation of falsehoods with separation from those who teach them. The absence of testimony for truth is equivalent to testifying for error. When someone comes as a teacher but does not bring the true doctrine, they should not be received or greeted. This applies not only to those always outside the Church, but also to those who wish to be esteemed brethren while subverting the true doctrine. False teachers must not be aided, received into houses, or entertained. We must have no familiar conversation with them, lest it encourages them or leads to suspicion among believers. Therefore, we must not bid them God speed or advance anything contrary to the true teachings of the faith.",
+            "wordCount": 118,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7040287349128267,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                35.56,
+                32.57,
+                31.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True love involves renouncing falsehood and separating from those who teach it. The absence of testimony for truth is equivalent to testifying for error. When someone comes as a teacher but does not bring the true doctrine, they should not be received or greeted. This applies not only to outsiders, but also to those who seek to be regarded as brethren while subverting the true doctrine. False teachers must not be aided, received into houses, or entertained. We must avoid familiar conversation with them, as it may encourage them or lead to suspicion among believers. Therefore, we should not bid them God speed or advance anything contrary to the true teachings of the faith.",
+            "wordCount": 114,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.6858425295440171,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+            "commentatorTierSimilarities": [
+                35.22,
+                33.3,
+                31.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True love renounces falsehood and separates from those who teach it. The absence of testimony for the truth is equivalent to testifying for error. When someone comes as a teacher but does not bring the true doctrine, they should not be received or greeted. This applies not only to those always outside the Church, but also to those who seek to be esteemed brethren while subverting the true doctrine. False teachers must not be aided, received into houses, or entertained. We should have no familiar conversation with them, nor bid them God speed or advance anything contrary to the true teachings of the faith.",
+            "wordCount": 104,
+            "quoteTokenProportion": 47.3,
+            "qualityScore": 1.7326560926746746,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+            "commentatorTierSimilarities": [
+                35.57,
+                33.1,
+                31.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

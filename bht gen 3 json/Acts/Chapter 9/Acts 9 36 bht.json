@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:29:03",
+    "verseRef": "Acts 9:36",
+    "bestBHT": {
+        "bht": "Tabitha, also known as Dorcas, was a woman from the Philistian city of Joppa. Her name, which meant gazelle in Aramaic and Greek, symbolized beauty. Renowned for her good works and charity, she exemplified the Christian character. Tabitha's devotion to helping the poor manifested through her acts of generosity and hands-on work. Her life embodied the active and practical lifestyle advocated by early Christians, infusing the ordinary with a remarkable and captivating beauty.",
+        "wordCount": 75,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.8589770166645536,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+        "commentatorTierSimilarities": [
+            43.3,
+            25.13,
+            31.57
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Joppa was a very ancient Philistian city, on the frontier of Dan, but not belonging to that tribe.\" ",
+            "Tabitha, in Aramaic, answers to Dorcas, in Greek, signifying a gazelle.",
+            "The gazelle being in the East a favourite type of beauty."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Tabitha . . . Dorcas\u2014the Syro-Chaldaic and Greek names for an antelope or gazelle, which, from its loveliness, was frequently employed as a proper name for women.\" ",
+            "Doubtless the interpretation, as here given, is but an echo of the remarks made by the Christians regarding her\u2014how well her character answered to her name.\" ",
+            "full of good works and alms-deeds\u2014eminent for the activities and generosities of the Christian character."
+        ],
+        "Albert Barnes": [
+            "Jaffa is celebrated in modern times for her gardens and orchards of delicious fruit more than anything else... In March and April these Jaffa gardens are indeed enchanting. The air is overloaded with the mingled spicery of orange, lemon, apple, apricot, quince, plum, and china trees in blossom.\" ",
+            "To us of the restless West, this way of making kaif soon wearies by its slumberous monotony, but it is Elysium to the Arabs.",
+            "The peasants hereabout must be very poor, to judge by their rags and squalid appearance. I was reminded of Dorcas and the widows around Peter exhibiting the coats and garments which that benevolent lady had made, and I devoutly hoped she might be raised again, at least in spirit, for there is need of a dozen Dorcas societies in Jaffa at the present time."
+        ],
+        "Marvin Vincent": [
+            "Tabitha - Dorcas. The latter word being the Greek equivalent of the former, which is Aramaic, and meaning gazelle, which in the East was a favorite type of beauty.\" (Commentary)",
+            "It was customary at this time for the Jews to have two names, one Hebrew and the other Greek or Latin; and this would especially be the case in a seaport like Joppa, which was both a Gentile and a Jewish town.\" (Commentary)",
+            "She may have been known by both names.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "Christianity cannot be without doctrine; and that that form of learning is prescribed, that the same Christ may be Master to all.",
+            "This is the chiefest praise, this is the beginning of holy life, this is the root of all virtues, to have learned of the Son of God the way to live, and the true life.",
+            "The commendation of liberality is great, because, as the Holy Ghost doth witness, it containeth in itself the sum of a godly and perfect life."
+        ],
+        "Philip Schaff": [
+            "The life recommended by the earliest preachers of Christianity, and certainly led by all the most distinguished members of the society was eminently a practical and active existence.",
+            "The disciples seem to have lived, as aforetime, in the world and among men and women; they mixed in the business and harmless pleasures, and shared in the social intercourse of the day; but at the same time they coloured the old life with a new strange beauty.",
+            "The life of contemplation, of prayerful meditation, was evidently unknown and unheard of in the Church of the first days; such a life was a necessary development of a later age."
+        ],
+        "Archibald T. Robertson": [
+            "Feminine form of \u03bc\u03b1\u03b8\u03b7\u03c4\u03b7\u03c2, a learner from \u03bc\u03b1\u03bd\u03b8\u03b1\u03bd\u03c9, to learn, a late word and only here in the N.T.",
+            "Tabitha (\u03a4\u03b1\u03b2\u03b5\u03b9\u03b8\u03b1). Aramaic form of the Hebrew Tsebi and, like the Greek word Dorcas (\u0394\u03bf\u03c1\u03ba\u03b1\u03c2), means Gazelle, 'the creature with the beautiful look' (or eyes), from \u03b4\u03b5\u03c1\u03ba\u03bf\u03bc\u03b1.",
+            "She did her beautiful deeds by herself. She did not have a Dorcas society."
+        ],
+        "John Gill": [
+            "It is now called Jaffa, and its name, in the Hebrew tongue, signifies beauty.",
+            "this was a woman's name, the masculine name was Tabi.",
+            "she was very kind and beneficent to the poor; she wrought with her hands much for their sakes."
+        ],
+        "John Wesley": [
+            "Tabitha, which is by interpretation Dorcas \u2014 She was probably a Hellenist Jew, known among the Hebrews by the Syriac name Tabitha, while the Greeks called her in their own language, Dorcas.\" ",
+            "They are both words of the same import, and signify a roe or fawn."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Joppa, there lived a woman named Tabitha or Dorcas, which means gazelle and reflects the East's perception of beauty. She was known for her good works and acts of charity, which exemplified the Christian character. The remarkable praise she received from others suggests that her character truly lived up to the meaning of her name. Tabitha's devotion to helping the poor was evident as she independently worked to provide for their needs. Her generosity and kindness were highly esteemed and embodied the early Christian lifestyle, which emphasized practicality and active engagement with the world.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.752256933053836,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                40.84,
+                27.13,
+                32.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Tabitha, also known as Dorcas, resided in Joppa, a Philistian city on the frontier of Dan. The name Dorcas, derived from Greek, meant a gazelle, symbolizing beauty in the East. She was renowned for her good works and acts of charity, illustrating the admirable qualities of a Christian. The Aramaic and Greek names given to her highlighted her character's alignment with her name's meaning. Tabitha's exceptional commitment to generosity and assisting the poor demonstrated a life infused with the spirit of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.83392281486489,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+            "commentatorTierSimilarities": [
+                44.48,
+                23.75,
+                31.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Tabitha, also known as Dorcas, was a woman from Joppa, a city on the frontier of Dan. Her name, which meant gazelle, reflected the Eastern appreciation for beauty. Renowned for her good works and acts of charity, she exemplified the Christian character. Tabitha's devotion to helping the poor was evident through her generous and independent efforts. Her life showcased the practical and active existence advocated by early Christians, bringing a new and beautiful perspective to the world.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.7600061062080758,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                42.47,
+                27.0,
+                30.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Tabitha, also known as Dorcas, was a woman from the ancient Philistian city of Joppa. Her name, translating to gazelle, reflected the admiration for beauty in the East. She was esteemed for her good works and acts of charity, exemplifying the Christian character through her generous and impactful deeds. Tabitha's dedication to helping the poor, working diligently with her own hands, demonstrated her kind-hearted nature. Her life embodied the active and practical existence promoted by early Christians, infusing the ordinary with a new and captivating beauty.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.7584119234581328,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.81,
+            "commentatorTierSimilarities": [
+                42.17,
+                26.83,
+                31.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Tabitha, also known as Dorcas, was a woman from the Philistian city of Joppa. Her name, which meant gazelle in Aramaic and Greek, symbolized beauty. Renowned for her good works and charity, she exemplified the Christian character. Tabitha's devotion to helping the poor manifested through her acts of generosity and hands-on work. Her life embodied the active and practical lifestyle advocated by early Christians, infusing the ordinary with a remarkable and captivating beauty.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8589770166645536,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                43.3,
+                25.13,
+                31.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

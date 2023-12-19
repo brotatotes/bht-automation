@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:35:42",
+    "verseRef": "Acts 22:28",
+    "bestBHT": {
+        "bht": "Paul confidently declares his Roman citizenship, emphasizing that he was even so born into this distinguished privilege. It is evident that someone in his lineage, possibly his father or an ancestor, had obtained this esteemed status either through noteworthy service to Rome or by purchasing it. The acquisition of Roman citizenship carried great value and standing, enabling Paul to navigate social and political circles with authority and influence. His Roman citizenship served as a remarkable testimony to his significance and opened doors to connect with influential figures.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 2.2761545174072975,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.02,
+        "commentatorTierSimilarities": [
+            37.06,
+            38.36,
+            24.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But I (besides having the privilege like thee of being a Roman citizen) was also born one.",
+            "How was Paul a Roman citizen by birth? Certainly not because he was of Tarsus.",
+            "It remains, therefore, that his father, or some ancestor, must have obtained the freedom of the city, either as a reward for service or by purchase."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Roman citizenship was bought and sold in the reign of Claudius, we know, at a high price: at a subsequent date, for next to nothing.\" ",
+            "But to put in a false claim to this privilege was a capital crime.\" ",
+            "I was free born\u2014born to it, by purchase, or in reward of services, on the part of his father or some ancestor."
+        ],
+        "Albert Barnes": [
+            "The argument of the tribune in this case is this: 'I obtained this privilege at a great price. Whence did you, Paul, thus poor and persecuted, obtain the means of becoming a Roman citizen?'",
+            "I was born a Roman citizen, or I am such in virtue of my birth.",
+            "Such a city was Tarsus; and, having been born there, Paul was entitled to these privileges of a free man."
+        ],
+        "Marvin Vincent": [
+            "The purchase of Roman citizenship was an investment.",
+            "Under the first Roman emperors it was obtained only at large cost and with great difficulty; later, it was sold for a trifle.",
+            "I am even so born, leaving the mind to supply free or a Roman."
+        ],
+        "John Calvin": [
+            "For those who are skillful in the Roman history know that certain were made free of the city who dwelt in the provinces, if, having deserved well of the commonwealth, or in war, or in other weighty affairs, they did desire and crave this reward.",
+            "so that it is no absurdity to say that he was born a citizen of Rome, who, descending by his ancestors of some province far distant from Rome, did never set foot in Italy.",
+            "the chief captain was afraid, because Paul was bound at his commandment, that he might be scourged, because this was to do injury to the body of a citizen of Rome, and to break the common liberty, and that [although] it was lawful to put a Roman in prison."
+        ],
+        "Philip Schaff": [
+            "The word, as Plumptre well remarks, expressing not the transition from bondage to freedom, but from the position of an alien to that of a citizen.",
+            "It appears that many of the Asian Jews had thus acquired the right to style themselves citizens of Rome.",
+            "It must have been from his father or from some ancestor that he inherited it, either as a reward for service done to Rome or else by purchase."
+        ],
+        "Archibald T. Robertson": [
+            "The sale of the Roman citizenship was resorted to by the emperors as a means of filling the exchequer, much as James I. made baronets.\" ",
+            "But I have been even born one,\" (i.e. born a Roman citizen). There is calm and simple dignity in this reply and pardonable pride.",
+            "He was educated by the greatest of the Rabbis; he was at an early age entrusted by the Jewish authorities with an important commission; his nephew could gain ready access to the Roman tribune; he was treated as a person of consequence by Felix, Festus, Agrippa, and Julius."
+        ],
+        "John Gill": [
+            "And the chief captain answered, with a great sum obtained I this freedom... this the chief captain said, as wondering that so mean a person, and who he understood was a Jew by birth, should be able to procure such a privilege, which cost him so much money.",
+            "and Paul said, but I was free born; being born at Tarsus; which, as Pliny says l, was a free city... his parents being of this city, and free, he was born so.",
+            "which cost him so much money... his parents being of this city, and free, he was born so."
+        ],
+        "John Wesley": [
+            "We learn hence, that we are under no obligation as Christians to give up our civil privileges.",
+            "Gratitude to God, and duty to men, will oblige us to insist upon them.",
+            "Engage us to strive to transmit them improved, rather than impaired to posterity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul asserts his Roman citizenship, stating that he was even so born into this privilege. It is likely that someone in his family, such as his father or an ancestor, obtained this citizenship either as a reward for service or through purchase. The acquisition of Roman citizenship was highly sought after and came at a great cost during the reign of Claudius, but later it was sold for next to nothing. The fact that Paul, a Jew and a man of persecution, possessed this privilege was a surprising and impressive indication of his standing. His Roman citizenship granted him access, respect, and significance in interactions with the Jewish authorities, Roman tribunes, and other influential figures.",
+            "wordCount": 115,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.3606665849118222,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.83,
+            "commentatorTierSimilarities": [
+                38.47,
+                36.96,
+                24.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's claim to Roman citizenship in Acts 22:28 is significant, as he asserts that he was born one - either by birthright, purchase, or as a reward for service by his father or ancestor. While Roman citizenship was once obtained at great cost, it became more readily available at a lower price. Paul's Roman citizenship afforded him influence and respect, demonstrated by his interaction with Jewish authorities and Roman tribunes. This acknowledgment highlights the value and implications of his status.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.1188785975622313,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.79,
+            "commentatorTierSimilarities": [
+                39.5,
+                36.18,
+                24.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul confidently declares his Roman citizenship, emphasizing that he was even so born into this distinguished privilege. It is evident that someone in his lineage, possibly his father or an ancestor, had obtained this esteemed status either through noteworthy service to Rome or by purchasing it. The acquisition of Roman citizenship carried great value and standing, enabling Paul to navigate social and political circles with authority and influence. His Roman citizenship served as a remarkable testimony to his significance and opened doors to connect with influential figures.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.2761545174072975,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.02,
+            "commentatorTierSimilarities": [
+                37.06,
+                38.36,
+                24.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul makes a firm statement about his Roman citizenship, asserting that he was born one with this privileged status. The acquisition of Roman citizenship was highly sought after, with some obtaining it through service or purchase. Although Paul's Jewish background and persecution might seem contradictory to his Roman citizenship, it grants him respect and access to influential figures in both the Jewish and Roman authorities. His Roman citizenship plays a significant role in shaping his interactions and highlighting his importance in the narrative.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.232598139222419,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.57,
+            "commentatorTierSimilarities": [
+                39.1,
+                37.14,
+                23.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul confidently emphasizes his Roman citizenship, stating that he was even so born into this esteemed privilege. It is apparent that his father or ancestor acquired this status either through service or purchase. The value of Roman citizenship fluctuated over time, with Claudius' reign witnessing high costs and subsequent periods seeing it sold for very little. Paul's Roman citizenship afforded him influence and treated him as a person of importance by influential figures such as Jewish authorities, Roman tribunes, and governors.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.189098471554497,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.13,
+            "commentatorTierSimilarities": [
+                39.54,
+                36.68,
+                23.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:20:58",
+    "verseRef": "Luke 17:24",
+    "bestBHT": {
+        "bht": "When the Son of Man returns, it will be a manifestation that cannot be missed. The kingdom of God will have taken on a completely new form, and his second coming will be sudden and universally visible, like lightning flashing across the entire sky. There are some who are still waiting in Jerusalem, under the delusion that Jesus will come there alone, but in reality, his return will be swift and all-encompassing.",
+        "wordCount": 73,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.6564683521711274,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+        "commentatorTierSimilarities": [
+            36.14,
+            21.44,
+            42.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "It will be as manifest.",
+            "The kingdom of God had ceased to exist in its old, and had entered on a new and perfectly different form.",
+            "So it may be again, ere its final and greatest change at the personal coming of Christ."
+        ],
+        "Marvin Vincent": [
+            "Lighteneth [\u03b1\u03c3\u03c4\u03c1\u03b1\u03c0\u03c4\u03bf\u03c5\u03c3\u03b1] . Only here and ch. 24:4."
+        ],
+        "Philip Schaff": [
+            "Luke 17:24. For. Neither time nor place can be determined, for the coming will be sudden and universally perceived. See on Matthew 24:27.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The second coming will be sudden and universally visible.",
+            "There are still some poor souls who are waiting in Jerusalem under the delusion that Jesus will come there and nowhere else."
+        ],
+        "John Gill": [
+            "As the lightning lightens at one end of the heavens, and shines to the other; which is done at once, in a moment, in a twinkling of the eye.\" ",
+            "By his day, is meant his kingdom and glory, or his appearance with power and great glory.",
+            "In his hour, that is, in his glory, in the time of his kingdom, when he was in his greatest magnificence."
+        ],
+        "John Wesley": [
+            "So shall also the Son of man be \u2014 So swift, so wide, shall his appearing be: In his day - The last day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Son of Man returns, it will be a manifestation that cannot be missed. The kingdom of God will have taken on a completely new form. Just as lightning flashes across the sky and can be seen from one end to the other in an instant, so will the second coming of Christ be sudden and universally visible. There are some who are still waiting in Jerusalem, clinging to the false belief that Jesus will only come there, but the truth is that his return will be swift and all-encompassing.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.4978570098865867,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+            "commentatorTierSimilarities": [
+                37.9,
+                19.14,
+                42.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Son of Man returns, it will be a manifestation that cannot be missed. The kingdom of God will have taken on a completely new form, and his second coming will be sudden and universally visible, like lightning flashing across the entire sky. There are some who are still waiting in Jerusalem, under the delusion that Jesus will come there alone, but in reality, his return will be swift and all-encompassing.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6564683521711274,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+            "commentatorTierSimilarities": [
+                36.14,
+                21.44,
+                42.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The second coming of the Son of Man will be evident to all, as the kingdom of God undergoes a radical transformation. Just like lightning that illuminates the entire sky, his return will be sudden and universally visible. While there are those who mistakenly believe he will only come to Jerusalem, the reality is that his coming will be swift and encompassing. It is important to recognize the true nature of his return and not be deceived by false expectations.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5534668358888992,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.0,
+            "commentatorTierSimilarities": [
+                33.57,
+                20.89,
+                45.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The kingdom of God will undergo a significant change, leading to a manifestation that cannot be missed. The second coming of the Son of Man will be sudden and universally visible, like a flash of lightning that illuminates the entire sky. Despite the misguided belief that Jesus will only come to Jerusalem, his return will be swift and all-encompassing. It is crucial to understand the true nature of his coming and not be fooled by false expectations.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.4872710401180926,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.79,
+            "commentatorTierSimilarities": [
+                34.29,
+                23.27,
+                42.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The second coming of the Son of Man will be unmistakably evident, as the kingdom of God undergoes a radical transformation into a new and distinct form. Resembling lightning that flashes across the entire sky, his return will happen suddenly and will be seen by all. It is important not to fall into the misconception that Jesus will only return to Jerusalem, as his coming will be swift and encompassing. Let us be aware of the true nature of his return and not be deceived by false expectations.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.5253036247185638,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.06,
+            "commentatorTierSimilarities": [
+                36.8,
+                21.24,
+                41.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

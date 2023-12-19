@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:30:34",
+    "verseRef": "Acts 13:30",
+    "bestBHT": {
+        "bht": "To the children of Abraham and those who fear God, both Jews and Gentile proselytes, the word of salvation is sent. God, in His power, raised Jesus from the dead, a fact that Paul emphasizes. This stark contrast demonstrates how men rejected and crucified Jesus, while God intervened and raised Him up. The death of Christ served as the means of salvation for the godly, but the resurrection displayed the power of Almighty God and persuaded Paul's listeners to seek salvation in Christ.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.9741232903574157,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.98,
+        "commentatorTierSimilarities": [
+            35.46,
+            30.01,
+            34.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Children . . . of Abraham, and whosoever among you feareth God\u2014Gentile proselytes.",
+            "To you is the word of this salvation sent\u2014both being regarded as one class, as 'the Jew first,' to whom the Gospel was to be addressed in the first instance."
+        ],
+        "Albert Barnes": [
+            "But God raised him ... - See the notes on Acts 2:23-24."
+        ],
+        "John Calvin": [
+            "The death of Christ was the salvation of the godly, yet joined with the resurrection.",
+            "Therefore doth Paul stand longer upon this second point.",
+            "He should never have persuaded his hearers that they were to seek salvation in Christ\u2019s death, unless the power of Almighty God had appeared in raising Christ from death."
+        ],
+        "Philip Schaff": [
+            "Acts 13:30. But God raised him from the dead.",
+            "\t",
+            "Paul with great force and power here contrasts the work of God with the work of men. Men rejected, scorned, and then crucified Jesus; God raised Him from the dead."
+        ],
+        "Archibald T. Robertson": [
+            "But God raised him from the dead (\u03bf \u03b4\u03b5 \u03b8\u03b5\u03bf\u03c2 \u03b7\u03b3\u03b5\u03b9\u03c1\u03b5\u03bd \u03b5\u03ba \u03bd\u03b5\u03ba\u03c1\u03c9\u03bd). This crucial fact Paul puts sharply as he always did. "
+        ],
+        "John Gill": [
+            "Though his life was taken away by man, and it was a clear case that he was certainly dead, and he was taken down from the cross as such, and buried; yet he could not be held with the cords of death...",
+            "...but God the Father raised him from the dead by his power.",
+            "The Vulgate Latin version adds, 'the third day'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To the children of Abraham and those who fear God, both Jews and Gentiles, the word of salvation is sent. God, in His power, raised Jesus from the dead, a fact that Paul emphasizes with great force. This event contrasts the rejection and crucifixion of Jesus by men. The death of Christ, although brought about by man, became the means of salvation for the godly, but it was the resurrection that truly revealed the power of God and persuaded Paul's hearers to seek salvation in Christ. Though Jesus was taken down from the cross and buried, death could not hold him, for God the Father raised him on the third day.",
+            "wordCount": 112,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.842326222267053,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                32.84,
+                28.57,
+                38.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To both the children of Abraham and the Gentile proselytes who fear God, the word of salvation is sent. Both groups are considered one class, with the Gospel being addressed to the Jews first. God, in His power, raised Jesus from the dead, a fact that Paul emphatically proclaims. This is a stark contrast between the rejection and crucifixion by men and the resurrection by God. It is through Jesus' death and resurrection that salvation is made possible, revealing the power and authority of Almighty God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7702185877731704,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                38.62,
+                26.14,
+                35.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To both the children of Abraham and the Gentile proselytes who fear God, the word of salvation is sent. God, in His power, raised Jesus from the dead, a fact that Paul emphasizes. This contrast highlights the rejection and crucifixion by men, while the resurrection reveals God's authority and the means of salvation for the godly. The death of Christ was the salvation of believers, but it was the power of Almighty God raising Him from death that demonstrated His sovereignty.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9162863516962367,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                35.38,
+                27.45,
+                37.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To the children of Abraham and those who fear God, both Jews and Gentile proselytes, the word of salvation is sent. God, in His power, raised Jesus from the dead, a fact that Paul emphasizes. This stark contrast demonstrates how men rejected and crucified Jesus, while God intervened and raised Him up. The death of Christ served as the means of salvation for the godly, but the resurrection displayed the power of Almighty God and persuaded Paul's listeners to seek salvation in Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9741232903574157,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.98,
+            "commentatorTierSimilarities": [
+                35.46,
+                30.01,
+                34.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The word of salvation is sent to the children of Abraham and Gentile proselytes who fear God. Paul emphasizes that God raised Jesus from the dead, contrasting the works of men with the power of God. The death of Christ became the salvation of the godly, but it was the resurrection that revealed the power of Almighty God and persuaded Paul's listeners to seek salvation in Christ. Through His resurrection, Jesus could not be held by the cords of death, but was raised by the power of God the Father.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.9531399718032842,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.28,
+            "commentatorTierSimilarities": [
+                33.8,
+                27.28,
+                38.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:15:22",
+    "verseRef": "2 Corinthians 1:19",
+    "bestBHT": {
+        "bht": "Christ, the Son of God, is the unchanging focus of all Christian preaching. His constancy and reliability are highlighted, proving the truth of the doctrine preached about Him. The miracles He performed confirm the validity of His message. Paul appeals to the life of Christ to bolster his own trustworthiness. Jesus is the ultimate fulfillment of all spiritual teaching, surpassing any other teachings. The Gospel revolves around Him, magnifying His person and offices while motivating believers to engage in good works guided by Gospel principles. Preaching about Him remains steadfast and resolute, centered on His unchanging nature.",
+        "wordCount": 97,
+        "quoteTokenProportion": 28.36,
+        "qualityScore": 1.9450312884363719,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+        "commentatorTierSimilarities": [
+            34.78,
+            29.74,
+            35.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Son of God is prefixed for solemnity, and to show how unlikely fickleness or change is in Christ, being such as He is.",
+            "Christ, personal\u2014not meaning, the doctrine concerning Christ\u2014HE HIMSELF is the center and substance of all Christian preaching.",
+            "The strength of Israel will not lie nor repent."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Proof of the unchangeableness of the doctrine from the unchangeableness of the subject of it, namely, Jesus Christ.\" ",
+            "The Son of God, though preached by different preachers, was one and the same, unchangeable.",
+            "Our preaching of the Son of God is confirmed as true in Him, through the miracles wherewith He has confirmed our preaching."
+        ],
+        "Albert Barnes": [
+            "The preaching respecting Jesus Christ, did not represent him as fickle, and changeable; as unsettled, and as unfaithful; but as true, consistent, and faithful.",
+            "All that he says is true; all the promises that he makes are firm; all his declarations are faithful.",
+            "He never disguised the truth; never prevaricated; never had any mental reservation; never deceived; never used any word, or threw in any circumstance, that was suited to lead the mind astray."
+        ],
+        "Marvin Vincent": [
+            "He has shown Himself absolutely the truth.",
+            "Yea has come to pass in Him.",
+            "He has shown Himself absolutely the truth."
+        ],
+        "John Calvin": [
+            "For as he is the end of the law, so he is the head \u2014 the sum \u2014 in fine, the consummation \u2014 of all spiritual doctrine.",
+            "Those go beyond due limits, who teach anything else than Christ alone, with whatever show of wisdom they may otherwise be puffed up.",
+            "He alone is the true Christ, in whom there appears that uniform and unvarying yea, which Paul declares to be characteristic of him."
+        ],
+        "Philip Schaff": [
+            "When we were with you, was it vacillating, fickle preachers that preached to you the unchanging One, the Son of God, Jesus Christ, the same yesterday, today, and forever?",
+            "Did we hold Him forth to you as stability itself, while we ourselves were the reverse?",
+            "...their whole bearing at Corinth as men, like their message, honest and true."
+        ],
+        "Archibald T. Robertson": [
+            "Did not become Yes and No.",
+            "But in him Yes has become yes,\" has proved true.",
+            "So Paul appeals to the life of Christ to sustain his own veracity."
+        ],
+        "John Gill": [
+            "the Son of God, Jesus Christ; that Christ is 'the Son of God': this article he began his ministry with... and all the apostles affirmed the same thing; and which is of the greatest moment and importance, and ought to be abode by, insisted on, and frequently inculcated",
+            "the Son of God is Christ, anointed to bear and execute the office of a mediator in the several parts and branches of it; a prophet to teach his people, a priest to make atonement and intercession for them, and a King to govern and protect them",
+            "the Gospel, as in Christ, and as it comes from him, and has been preached by his apostles, and faithful ministers, is all of a piece; its constant and invariable strain... is, to display the free, rich, and sovereign grace of God, to magnify and exalt the person and offices of Christ, to debase the creature, and to engage persons to the performance of good works, on Gospel principles, and by Gospel motives, and for right ends"
+        ],
+        "John Wesley": [
+            "Our preaching concerning him... Was not variable and inconsistent with itself.\" ",
+            "Always one and the same, centering in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the unchangeable nature of Jesus Christ, emphasizing His constancy and reliability. He is the center and substance of all Christian preaching, the unchanging subject of the doctrine. The preaching of the Son of God is confirmed as true through the miracles He performed. Paul appeals to the life of Christ to sustain his own veracity. Jesus Christ is the sum and consummation of all spiritual doctrine, and any teaching that deviates from Him falls short. His Gospel is all of a piece, constantly magnifying His person and offices, while engaging believers in good works and Gospel motives. Our preaching concerning Him remains consistent and unwavering, always centering in Him.",
+            "wordCount": 112,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.0285760763510545,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                33.03,
+                28.35,
+                38.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son of God, Jesus Christ, is depicted as constant and unchanging, serving as the center of Christian preaching. His unchangeableness affirms the truth of the doctrine preached about Him. The miracles He performed serve as confirmation of His identity and message. By appealing to the life of Christ, Paul reinforces his own credibility. Jesus is the ultimate fulfillment and culmination of all spiritual teaching, and any deviation from Him is insufficient. The Gospel centers around Him, magnifying His person and offices, while inspiring believers to engage in good works driven by Gospel principles. The preaching about Him remains consistent and unwavering, always revolving around His unchanging nature.",
+            "wordCount": 108,
+            "quoteTokenProportion": 27.14,
+            "qualityScore": 1.9672002169407765,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "commentatorTierSimilarities": [
+                33.93,
+                28.85,
+                37.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, the Son of God, is the unchanging focus of all Christian preaching. His constancy and reliability are highlighted, proving the truth of the doctrine preached about Him. The miracles He performed confirm the validity of His message. Paul appeals to the life of Christ to bolster his own trustworthiness. Jesus is the ultimate fulfillment of all spiritual teaching, surpassing any other teachings. The Gospel revolves around Him, magnifying His person and offices while motivating believers to engage in good works guided by Gospel principles. Preaching about Him remains steadfast and resolute, centered on His unchanging nature.",
+            "wordCount": 97,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.9450312884363719,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                34.78,
+                29.74,
+                35.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The unchangeable nature of Jesus Christ, the Son of God, is the core of Christian preaching. His constancy and reliability validate the preached doctrine. The miracles He performed confirm the truth of His message. Paul's credibility rests on the life of Christ. Jesus is the supreme fulfillment of spiritual teaching, surpassing any other. The Gospel centers on Him, magnifying His person and offices, inspiring believers to engage in good works with Gospel motives. Preaching about Him remains unwavering, centered on His unchanging nature.",
+            "wordCount": 84,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 1.9096890803726438,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
+            "commentatorTierSimilarities": [
+                35.82,
+                29.35,
+                34.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The unchanging Son of God, Jesus Christ, forms the focal point of Christian preaching. His constancy and reliability validate the preached doctrine, as confirmed by His miracles. Paul relies on the life of Christ to affirm his own credibility. Jesus is the ultimate fulfillment of spiritual teaching, surpassing all others. The Gospel revolves around Him, exalting His person and offices, motivating believers in Gospel-based good works. Preaching about Him remains steadfast, centered on His unwavering nature.",
+            "wordCount": 77,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.8988618498569054,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                33.51,
+                28.65,
+                37.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

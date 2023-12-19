@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:18:32",
+    "verseRef": "Galatians 4:20",
+    "bestBHT": {
+        "bht": "I wish I could be there with you right now to change my voice and speak to you in a more heartfelt and affectionate manner, like a mother talking to her children. I am puzzled about how to deal with you, unsure of what kind of words to use, whether I should be gentle or stern in bringing you back to the right path. I truly long to be present with you, as I am perplexed and at a loss at this distance from you.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.974658851921622,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.0,
+        "commentatorTierSimilarities": [
+            44.76,
+            33.03,
+            22.21
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I could wish to be present with you now, and to change my voice...\" ",
+            "But surely such a change would be altogether beside the tone of this deeply affectionate address.\" ",
+            "I should rather hold,\u2014from my former severity, when I became your enemy by telling the truth, to the softness and mildness of a mother, still telling the truth, but in another tone."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Speaking face to face is so much more effective towards loving persuasion than writing.",
+            "Adapting my tone of voice to what I saw in person your case might need. This is possible to one present, but not to one in writing.",
+            "I am perplexed about you, namely, how to deal with you, what kind of words to use, gentle or severe, to bring you back to the right path."
+        ],
+        "Albert Barnes": [
+            "They had in some measure become alienated from him; and he wishes that he might be again with them, as he was before.",
+            "He would hope to accomplish much more by his personal presence than he could by letter.",
+            "Paul had much reason to doubt the sincerity and the solidity of their Christian principles, and he was deeply anxious on that account."
+        ],
+        "Marvin Vincent": [
+            "To change my voice. To address you, not with my former severity, but affectionately, as a mother speaks to her children, yet still telling them the truth.",
+            "I am puzzled how to deal with you; how to find entrance to your hearts.",
+            "Paul now defends the principle of Christian freedom from the law by means of an allegorical interpretation of the history of Abraham's two sons."
+        ],
+        "John Calvin": [
+            "I would wish to be present with you now. This is a most serious expostulation, the complaint of a father so perplexed by the misconduct of his sons, that he looks around him for advice, and knows not to what hand to turn.",
+            "He wishes to have an opportunity of personally addressing them, because we thus obtain a better idea of what is adapted to present circumstances...we are enabled to regulate our discourse.",
+            "They must not be entirely guided by their own inclinations, or by the bent of their own genius, but must accommodate themselves, as far as the case will allow, to the capacity of the people...no departure from integrity shall be made, in order to gain the favor of the people."
+        ],
+        "Philip Schaff": [
+            "I could wish to be present with you now, and to change my voice, to adapt my speech more fully to your present condition and wants, to use severity or gentle persuasion as may be best.",
+            "To change my present tone from severity to gentleness, to mitigate the effect of my written rebuke.",
+            "I am at a loss how to address you, I know not what to think of you, I cannot understand your conduct."
+        ],
+        "Archibald T. Robertson": [
+            "I was longing to be present with you just now.",
+            "Paul could put his heart into his voice. The pen stands between them. He knew the power of his voice on their hearts.",
+            "I am at a loss and know not what to do. I am lost at this distance from you."
+        ],
+        "John Gill": [
+            "His meaning is, either that be wished he was personally present among them; that he had but an opportunity of seeing them face to face, and telling them all his mind, and in such a manner as he could not in a single epistle.",
+            "that whereas before he preached the Gospel of the grace of God unto them, and his voice was charming to them like that of an angel, and even of Jesus Christ himself; but they having turned their backs upon it, and slighted it, he would now thunder out the law to them they seemed to be so fond of; even that voice of words, which when, the Israelites on Mount Sinai heard, entreated they might hear no more.",
+            "He was ashamed of them for their apostasy and degeneracy; he was amazed and astonished at their conduct; or, as the word may be rendered, be was 'perplexed' on their account; he did not know what to think of them, and their state; sometimes he hoped well of them, at other times he was ready to despair."
+        ],
+        "John Wesley": [
+            "I could wish to be present with you now \u2014 Particularly in this exigence.",
+            "And to change \u2014 Variously to attemper.",
+            "My voice \u2014 He writes with much softness; but he would speak with more. The voice may more easily be varied according to the occasion than a letter can."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I wish that I could be there with you right now to change my voice, to adjust my tone to your current needs and circumstances. Speaking face to face is much more effective in lovingly persuading and guiding you than writing. I am perplexed about how to deal with you, whether to use gentle or severe words to bring you back to the right path. I long to be present with you, to put my heart into my voice. My distance from you leaves me at a loss and uncertain about how to address you.",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.9484049305853088,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                46.93,
+                33.36,
+                19.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I could wish to be present with you now and to change my voice, to adapt my speech more fully to your present condition and wants, as a mother speaks to her children. Adapting my tone of voice to what I saw in person your case might need. I am perplexed about you, how to deal with you, what kind of words to use, gentle or severe. I am puzzled how to find entrance to your hearts.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.8875835910475107,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                46.93,
+                32.8,
+                20.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I long to be there with you, to change my voice and speak to you with affection, like a mother to her children. I am perplexed about how to guide you, unsure whether to use gentle or severe words to lead you back to the right path. I am at a loss, unsure of what to do or how to address you. My distance from you leaves me feeling lost and disconnected.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.92,
+            "qualityScore": 1.7450570563096437,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                48.99,
+                36.35,
+                14.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I could wish to be present with you now and to change my voice, to adapt my speech more fully to your present condition and wants. I am at a loss how to address you, I know not what to think of you. Adapting my tone of voice to what I saw in person your case might need. I am perplexed about you, how to deal with you, what kind of words to use, gentle or severe.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.950885359223121,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+            "commentatorTierSimilarities": [
+                43.67,
+                38.07,
+                18.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I wish I could be there with you right now to change my voice and speak to you in a more heartfelt and affectionate manner, like a mother talking to her children. I am puzzled about how to deal with you, unsure of what kind of words to use, whether I should be gentle or stern in bringing you back to the right path. I truly long to be present with you, as I am perplexed and at a loss at this distance from you.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.974658851921622,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.0,
+            "commentatorTierSimilarities": [
+                44.76,
+                33.03,
+                22.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

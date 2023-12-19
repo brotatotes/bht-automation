@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:16:15",
+    "verseRef": "Luke 7:15",
+    "bestBHT": {
+        "bht": "Through the act of raising the dead, Jesus not only accomplished a miracle, but also sought to bring about a spiritual awakening. With tender compassion, he restored the young man to life, granting him a true and abiding joy. The man's sitting up was a clear sign of his revived health, while his words were undeniable proof of his resurrection. This display of Jesus' power was accompanied by great humanity, kindness, and tenderness, as he delivered the living son back to his overwhelmed mother.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 1.673450860070602,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+        "commentatorTierSimilarities": [
+            22.43,
+            34.81,
+            42.76
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Man, as a conscious being, can never be a mere means to an end.\" ",
+            "The hidden intent was probably the spiritual awakening of the youth.\" ",
+            "Make her joy to be a true and abiding one."
+        ],
+        "Marvin Vincent": [
+            "Sat up [\u03b1\u03bd\u03b5\u03ba\u03b1\u03b8\u03b9\u03c3\u03b5\u03bd] . Compare Acts 9:40. In this intransitive sense the word is used mostly by medical writers.",
+            "Delivered [\u03b5\u03b4\u03c9\u03ba\u03b5\u03bd] . Rev., gave. 'For he had already ceased to belong to his mother' (Bengel)."
+        ],
+        "Philip Schaff": [
+            "The commanding word wrought its proper effect. Not only life, but health and strength had returned.",
+            "The compassion completes its work. This act of love fulfils all that was implied in the consoling word: \u2018Weep not.\u2019",
+            "The sublime simplicity of Luke should guard against a too sentimental representation... purely human, fanciful, and dramatic additions may call forth tears, without leading any nearer to the Giver of eternal Life."
+        ],
+        "Archibald T. Robertson": [
+            "Sat up (\u03b1\u03bd\u03b5\u03ba\u03b1\u03b8\u03b9\u03c3\u03b5\u03bd). First aorist active indicative. The verb in the N.T. only here and Acts 9:40. Medical writers often used it of the sick sitting up in bed (Hobart, Med. Lang. of St. Luke, p. 11).",
+            "It is objected that the symmetry of these cases (daughter of Jairus raised from the death-bed, this widow's son raised from the bier, Lazarus raised from the tomb) is suspicious, but no one Gospel gives all three (Plummer).",
+            "Tender way of putting it. 'For he had already ceased to belong to his mother' (Bengel). So in Luke 9:42."
+        ],
+        "John Gill": [
+            "And he that was dead,.... That had been dead, (for he was now alive,) as it was a clear case to all his relations and friends, or they would never have brought him out to bury him...",
+            "...his sitting up and speaking, were plain proofs of his being brought to life...",
+            "...as Christ showed his power in raising the dead man, he discovered great humanity, kindness, and tenderness, in delivering him alive to his mother..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The act of raising the dead was not solely for the purpose of accomplishing a miracle, but rather for the deep spiritual awakening it brought about. With great tenderness and compassion, Jesus not only restored the young man to life, but also ensured that his newfound joy would be true and lasting. In a remarkable display of power, the man sat up, indicating his restoration to health, and spoke, providing undeniable evidence of his resurrection. This powerful demonstration of Jesus' humanity and kindness allowed the mother to be reunited with her son, who had already ceased to belong to her in his death, and was now given back to her as a gift of overflowing mercy.",
+            "wordCount": 116,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.6330715805513054,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.64,
+            "commentatorTierSimilarities": [
+                22.13,
+                36.17,
+                41.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With great tenderness, Jesus not only restored the young man to life, but also ensured that his newfound joy would be true and lasting. The act of raising the dead had a hidden intent, aiming for a spiritual awakening in those who witnessed it. The man's miraculous resurrection was not merely a means to an end, but a profound display of Jesus' humanity and kindness. As he sat up, demonstrating his restored health, and spoke, proving his resurrection, the mother was joyfully reunited with her son, a profound act of mercy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.6605752217605982,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+            "commentatorTierSimilarities": [
+                24.89,
+                34.99,
+                40.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The act of raising the dead had a hidden intent, aiming for a spiritual awakening. With great tenderness, Jesus restored the young man to life and ensured his joy would be true and lasting. As the man sat up, demonstrating his restored health, and spoke, proving his resurrection, the mother was joyfully reunited with her son. This profound act of mercy showcased Jesus' humanity and kindness, going beyond a mere display of power. It served as a powerful reminder of the Giver of eternal Life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.526359665917906,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.09,
+            "commentatorTierSimilarities": [
+                24.9,
+                36.75,
+                38.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the act of raising the dead, Jesus not only accomplished a miracle, but also sought to bring about a spiritual awakening. With tender compassion, he restored the young man to life, granting him a true and abiding joy. The man's sitting up was a clear sign of his revived health, while his words were undeniable proof of his resurrection. This display of Jesus' power was accompanied by great humanity, kindness, and tenderness, as he delivered the living son back to his overwhelmed mother.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.673450860070602,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                22.43,
+                34.81,
+                42.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With great tenderness and compassion, Jesus not only restored the young man to life, but also ensured that his newfound joy would be true and lasting. The act of raising the dead had a hidden intent, aiming for a spiritual awakening. The man's miraculous resurrection was not merely a means to an end, but a profound display of Jesus' humanity and kindness. As he sat up, demonstrating his restored health, the mother was joyfully reunited with her son, a profound act of mercy and love.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6489994323122492,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                24.69,
+                36.99,
+                38.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

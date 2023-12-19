@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:20:55",
+    "verseRef": "Luke 17:8",
+    "bestBHT": {
+        "bht": "Jesus speaks about what we should expect in our state of service to Him. He contrasts this with the wonders of His grace that we will receive in our state of freedom and adoption. It is a question of what is our right versus what is favor. The emphasis is on the affirmation of the affirmative answer. As the master, He expects us to make ready for Him, saying Thou shalt eat and drink. This implies that as servants, we should be ready and prepared to serve Him willingly and diligently.",
+        "wordCount": 91,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.3190748671588026,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.2,
+        "commentatorTierSimilarities": [
+            35.95,
+            26.47,
+            37.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord is here speaking of what we in our state of service are to expect.\" ",
+            "There, of what, in our state of freedom, reward, and adoption, the wonders of His grace will confer on us.",
+            "Here the question is of right: there, of favour."
+        ],
+        "Albert Barnes": [
+            "I may sup - Make ready my supper.",
+            "Gird thyself - See the notes at Luke 12:37."
+        ],
+        "Philip Schaff": [
+            "Will not rather? This assumes an affirmative answer.",
+            "Make ready, etc. As a matter of right this was all that could be expected.",
+            "Here our Lord is telling of what could be expected on the ground of merit."
+        ],
+        "Archibald T. Robertson": [
+            "But will not say? \u039f\u03c5\u03ba in a question expects the affirmative answer.",
+            "Till I have eaten and drunken (\u03b5\u03c9\u03c2 \u03c6\u03b1\u03b3\u03c9 \u03ba\u03b1 \u03c0\u03b9\u03c9). More exactly, till I eat and drink.",
+            "Thou shalt eat and drink (\u03c6\u03b1\u03b3\u03b5\u03c3\u03b1 \u03ba\u03b1 \u03c0\u03b9\u03b5\u03c3\u03b1). Future middle indicative second person singular, the uncontracted forms -\u03b5\u03c3\u03b1 as often in the Koine."
+        ],
+        "John Gill": [
+            "It is more agreeable to the language of a master, and the condition of a servant, that he should say to him, make ready wherewith I may sup.",
+            "As they used to wear long garments in those countries, servants girded them up about their loins, that they might be fit for service, expedite in it, and perform it more readily, and with greater ease and dispatch.",
+            "Every Hebrew servant, or handmaid, their master is obliged to make them equal to himself 'in food and in drink', in clothing, and in dwelling."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 17:8, Jesus speaks about what we should expect in our state of service to Him. He contrasts this with the wonders of His grace that we will receive in our state of freedom and adoption. It is a question of what is our right versus what is favor. The emphasis is on the affirmation of the affirmative answer. As the master, He expects us to make ready for Him, saying Thou shalt eat and drink. This implies that as servants, we should be ready and prepared to serve Him willingly and diligently.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.322030013725561,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+            "commentatorTierSimilarities": [
+                35.16,
+                26.87,
+                37.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus discusses what we can expect in our state of service to Him. He contrasts this with the wonderful things that His grace will bestow upon us in our state of freedom and adoption. It is a matter of right versus favor. The question anticipates an affirmative response. As servants, we are expected to be prepared to serve and say Thou shalt eat and drink. This implies the need for readiness and willingness in our service to Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.2139280254879634,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.71,
+            "commentatorTierSimilarities": [
+                36.57,
+                27.06,
+                36.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus speaks about what we should expect in our state of service to Him. He contrasts this with the wonders of His grace that we will receive in our state of freedom and adoption. It is a question of what is our right versus what is favor. The emphasis is on the affirmation of the affirmative answer. As the master, He expects us to make ready for Him, saying Thou shalt eat and drink. This implies that as servants, we should be ready and prepared to serve Him willingly and diligently.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.3190748671588026,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.2,
+            "commentatorTierSimilarities": [
+                35.95,
+                26.47,
+                37.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this context, Jesus discusses what we should expect in our state of service to Him. He distinguishes this from the blessings of His grace that we will receive in our state of freedom and adoption. The question posed emphasizes the expectation of an affirmative response. As the master, He requires our readiness to prepare for Him, stating Thou shalt eat and drink. This implies that as servants, we should be prepared and eager to wholeheartedly serve Him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.3145343713070279,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+            "commentatorTierSimilarities": [
+                34.99,
+                25.1,
+                39.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus speaks of what we can expect in our service to Him. He contrasts this with the wonders of His grace that we receive in our state of freedom and adoption, highlighting the difference between what is rightfully due to us and what is favor. The emphasis is on the expectation of an affirmative answer. As the Master, He expects us to be prepared by saying, Thou shalt eat and drink. This implies our readiness and willingness to serve Him wholeheartedly.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3129398824100584,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.0,
+            "commentatorTierSimilarities": [
+                35.65,
+                28.06,
+                36.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

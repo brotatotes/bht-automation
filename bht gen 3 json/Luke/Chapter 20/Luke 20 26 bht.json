@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:22:16",
+    "verseRef": "Luke 20:26",
+    "bestBHT": {
+        "bht": "After consulting, spies were sent forth by the Pharisees and Herodians, but they failed to take hold of Jesus's words before the people. Jesus slipped through their net with ease, leaving them silenced and with dry grins. Luke emphasizes their failure, as they marveled at Jesus's response that gave them no handle against him. In the end, they were silenced, unable to challenge him further, and left with nothing to say as they departed.",
+        "wordCount": 76,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 1.651952224826248,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+        "commentatorTierSimilarities": [
+            23.59,
+            24.58,
+            51.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "20-26. sent forth\u2014after",
+            "\tconsulting (Matthew 22:15) on the",
+            "\tbest plan. ",
+            "\t",
+            "spies\u2014\"of the",
+            "\tPharisees and Herodians\" (Matthew 22:15- :). See Mark 3:6."
+        ],
+        "Marvin Vincent": [
+            "His words [\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2] . Singular number. Rev., properly, saying. See on ch. Luke 1:37. ",
+            "- 40. Compare Matthew 22:23-33; Mark 12:18-27."
+        ],
+        "Philip Schaff": [
+            "Luke 20:26. And they were not able, etc. Luke brings out most fully the sense of failure on the part of His enemies.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They failed 'to take hold of the saying before the people.' These 'crack' students had made an ignominious failure and were not able to make a case for the surrender of Jesus to Pilate.",
+            "He had slipped through their net with the utmost ease.",
+            "They became silent as they went back with the 'dry grins'."
+        ],
+        "John Gill": [
+            "And they could not take hold of his words before the people... if he had not vindicated the liberties of the people, and the rights of the Jewish nation, these might be exasperated against him\".",
+            "They marvelled at his answer; which was so formed, as to give them no handle against him either way\".",
+            "They were silenced, and had nothing to say to him, but left him, and went their way\"."
+        ],
+        "John Wesley": [
+            "They could not take hold of his words before the people \u2014 As they did afterward before the sanhedrim, in the absence of the people, Luke 22:67, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After consulting on the best plan, the spies were sent forth by the Pharisees and Herodians, but they failed to take hold of Jesus's words before the people. Despite their attempts, Jesus slipped through their net with ease, leaving them silent and with dry grins. Luke brings out the sense of failure on the part of His enemies, showing how they were unable to make a case for the surrender of Jesus to Pilate. Their marveling at Jesus's answer revealed that he had carefully crafted it to give them no handle against him either way. In the end, they were silenced and had nothing to say as they left.",
+            "wordCount": 111,
+            "quoteTokenProportion": 46.25,
+            "qualityScore": 1.5821613719691618,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.95,
+            "commentatorTierSimilarities": [
+                23.57,
+                24.97,
+                51.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After consulting on the best plan, the spies of the Pharisees and Herodians were sent forth, but they failed to take hold of Jesus's words before the people. Jesus's response left them silenced and with dry grins, as he had slipped through their net with ease. Luke vividly depicts the sense of failure on the part of his enemies. They marveled at Jesus's answer, which was carefully crafted to give them no handle against him either way. In the end, they were silenced and left, unable to challenge him further.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.5482623943546152,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.82,
+            "commentatorTierSimilarities": [
+                23.12,
+                26.83,
+                50.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After consulting on the best plan, spies were sent forth by the Pharisees and Herodians, but they failed to take hold of Jesus's words before the people. Jesus slipped through their net with ease, leaving them silenced and with dry grins. Luke emphasizes the sense of failure on the part of his enemies, as they marveled at Jesus's well-crafted response that gave them no handle against him. In the end, they were silenced, unable to challenge him further, and left in silence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5952270904430608,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.38,
+            "commentatorTierSimilarities": [
+                23.17,
+                26.93,
+                49.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After consulting on the best plan, spies were sent forth by the Pharisees and Herodians, but they failed to take hold of Jesus's words before the people. Jesus slipped through their net with ease, leaving them silenced and with dry grins. Luke emphasizes their failure, as they marveled at Jesus's well-crafted response that gave them no handle against him. In the end, they were silenced, unable to challenge him further, and left with nothing to say as they departed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.6423068170903787,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.95,
+            "commentatorTierSimilarities": [
+                23.95,
+                24.61,
+                51.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After consulting, spies were sent forth by the Pharisees and Herodians, but they failed to take hold of Jesus's words before the people. Jesus slipped through their net with ease, leaving them silenced and with dry grins. Luke emphasizes their failure, as they marveled at Jesus's response that gave them no handle against him. In the end, they were silenced, unable to challenge him further, and left with nothing to say as they departed.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.651952224826248,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                23.59,
+                24.58,
+                51.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:14:53",
+    "verseRef": "Galatians 2:19",
+    "bestBHT": {
+        "bht": "Through the law, I died to the law and am now alive to God. The law itself led me to Christ, establishing righteousness and life. This break with the law was brought about by faith in Christ, creating a complete separation. It is through this death to the law that I am freed from sin and able to live for God. Christ fulfilled the law, satisfying its requirements, and becoming the establisher of righteousness and life.",
+        "wordCount": 76,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.5521554050730604,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.2,
+        "commentatorTierSimilarities": [
+            35.04,
+            28.68,
+            36.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For I, myself: the pronoun of the first person, for the first time expressed in the Greek, is marked and emphatic.",
+            "Christ was the end of the law for righteousness: the law itself, properly apprehended by me, was my 'guide' to Christ.",
+            "In Christ, who fulfilled the law, I died to the law: i.e. satisfied the law\u2019s requirements, and passed out of its pale."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ, so far from being the minister of sin and death, is the establisher of righteousness and life.",
+            "I died to the law...am passed from under its power, in respect to non-justification or condemnation.",
+            "By believing union to Christ in His death, we, being considered dead with Him, are severed from the law's past power over us."
+        ],
+        "Albert Barnes": [
+            "He acted as though it were not; or it ceased to have influence over him. A dead man is insensible to all around him. He hears nothing; sees nothing; and nothing affects him. So when we are said to be dead to anything, the meaning is, that it does not have an influence over us.",
+            "By contemplating the true character of the Law of Moses itself; by considering its nature and design; by understanding the extent of its requisitions, he had become dead to it; that is, he had laid aside all expectations of being justified by it.",
+            "He was dead to the Law, but not to every thing. He had not become literally inactive and insensible to all things, like a dead man, but he had become truly sensible to the commands and appeals of God, and had consecrated himself to his service."
+        ],
+        "Marvin Vincent": [
+            "The law itself was the instrument of this break, see next verse.\" ",
+            "Faith in Christ created a complete and irreparable break with the law which is described as death to the law.\" ",
+            "With death to the law a new principle of life entered."
+        ],
+        "John Calvin": [
+            "You deceive wretched men by the false notion, that they must live by the law; and, under that pretext, you keep them in the law.",
+            "The law, when truly perceived, makes us die to itself, and it is from this source, and not from Christ, that sin proceeds.",
+            "He shews that the kind of death, on which the false apostles seized as a ground of quarrel, is a proper object of desire; for he declares that we are dead to the law, not by any means that we may live to sin, but that we may live to God."
+        ],
+        "Philip Schaff": [
+            "For I through law died to law (a dative of disadvantage) that I might live to God (dative of advantage).",
+            "The law itself led him to Christ, so that it would be sinful and foolish to return to it again.",
+            "The death of the old man of sin is followed by the resurrection of the new man of righteousness. This cuts off all forms of antinomianism."
+        ],
+        "Archibald T. Robertson": [
+            "I through the law died to the law.\" ",
+            "Paradoxical, but true.\" ",
+            "The law waked Paul up to his real death to the law through Christ."
+        ],
+        "John Gill": [
+            "He was dead to the moral law as in the hands of Moses, but not as in the hands of Christ.",
+            "He became dead to the law, which says, do this and live: or through the books of the law, and the prophets, the writings of the Old Testament, which are sometimes called the law, he learnt that righteousness and forgiveness of sins were only to be expected from Christ, and not the works of the law.",
+            "Now the end of his being dead unto it, delivered from it, and being directed to Christ for righteousness, was, says he, that I might live unto God."
+        ],
+        "John Wesley": [
+            "For I through the law... am dead to the law.\" ",
+            "Applied by the Spirit... deeply convincing me of my utter sinfulness and helplessness.\" ",
+            "That I may live to God... freed from the law, that I may be freed from sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the law, I died to the law and am now alive to God. Christ fulfilled the law and by believing in Him, I am severed from the law's power of justification and condemnation. The law itself led me to Christ, establishing righteousness and life. I am no longer under the influence of the law, but I have become truly sensible to the commands and appeals of God, dedicating myself to His service. This break with the law was brought about by faith in Christ, which created a complete and irreparable separation. It is through this death to the law that I am freed from sin and able to live for God.",
+            "wordCount": 113,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 2.574252919412201,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.93,
+            "commentatorTierSimilarities": [
+                34.03,
+                29.84,
+                36.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the law, I died to the law and am now alive to God. Christ fulfilled the law and by believing in Him, I am severed from the law's power of justification and condemnation. The law itself led me to Christ, establishing righteousness and life. This break with the law was brought about by faith in Christ, creating a complete and irreparable separation. It is through this death to the law that I am freed from sin and able to live for God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.6078278970058557,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.05,
+            "commentatorTierSimilarities": [
+                34.88,
+                28.66,
+                36.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the law, I died to the law and am now alive to God. Christ fulfilled the law and by believing in Him, I am severed from the law's power and condemnation. The law itself led to my real death to the law through Christ. This death to the law signifies a complete break, freeing me from sin and enabling me to live for God. It is paradoxical but true, that the law woke me up to my true death to the law through Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.7779585852153756,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.71,
+            "commentatorTierSimilarities": [
+                36.03,
+                27.74,
+                36.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the law, I died to the law and am now alive to God. Christ fulfilled the law and by believing in Him, I am severed from the law's power and condemnation. This complete and irreparable break with the law was brought about by faith in Christ, who established righteousness and life. It was the law itself that led me to my real death to the law through Christ. As a result, I am freed from sin and able to live for God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.5690270134361466,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.76,
+            "commentatorTierSimilarities": [
+                35.14,
+                27.69,
+                37.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the law, I died to the law and am now alive to God. The law itself led me to Christ, establishing righteousness and life. This break with the law was brought about by faith in Christ, creating a complete separation. It is through this death to the law that I am freed from sin and able to live for God. Christ fulfilled the law, satisfying its requirements, and becoming the establisher of righteousness and life.",
+            "wordCount": 76,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.5521554050730604,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.2,
+            "commentatorTierSimilarities": [
+                35.04,
+                28.68,
+                36.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:31:43",
+    "verseRef": "Acts 15:29",
+    "bestBHT": {
+        "bht": "To maintain harmony and avoid disputes between Jews and Gentiles, it was necessary for the Gentiles to abstain from consuming blood. This was because blood held significance in the lives of animals and was consecrated for atonement purposes. Although the Gentiles were accustomed to consuming blood and even considered it a delicacy, this concession was seen as light and justifiable to ensure peace. Opposition from Judaizers seeking to disturb Paul's work should not overshadow the importance of upholding these guidelines for the well-being of the fellowship.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.5275471958121831,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+        "commentatorTierSimilarities": [
+            61.04,
+            15.92,
+            23.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "This explains what is meant by 'pollutions of idols.'",
+            "You will do what ought to be done in regard to the subjects of dispute.",
+            "Ye shall do well."
+        ],
+        "Marvin Vincent": [
+            "Because in the blood was the animal's life, and it was the blood that was consecrated to make atonement.",
+            "The Gentiles had no scruples about eating blood; on the contrary, it was a special delicacy.",
+            "The heathen were accustomed to drink blood mingled with wine at their sacrifices."
+        ],
+        "Philip Schaff": [
+            "That ye abstain from meats offered to idols.",
+            "Fare ye well.",
+            "The Greek word rendered \u2018fare ye well\u2019 is equivalent to the Latin \u2018valete.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "This 'burden' is light and not to be regarded as a compromise in spite of the arguments of Lightfoot and Ramsay.",
+            "The peace and concord in the fellowship of Jews and Gentiles will justify any slight concession on the part of the Gentiles.",
+            "No sane agreement will silence perpetual and professional disturbers like these Judaizers who will seek to unsettle Paul's work in Antioch, in Corinth, in Galatia, in Jerusalem, in Rome."
+        ],
+        "John Gill": [
+            "That ye abstain from meats offered to idols....",
+            "and from blood, and from things strangled, and from fornication...",
+            "from which if ye keep yourselves ye shall do well."
+        ],
+        "John Wesley": [
+            "Nothing can be clearer than this. For, 1. From Adam to Noah no man ate flesh at all; consequently no man then ate blood.",
+            "This is the plain fact; let men reason as plausibly as they please on one side or the other.",
+            "Forms which have proved an occasion of consecrating some of the most devilish passions under the most sacred names; and like some ill-adjusted weapons of war, are most likely to hurt the hand from which they are thrown."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 15:29, the decision to abstain from blood was made because the Gentiles had no issue with eating blood, finding it to be a delicacy even when mixed with wine during sacrifices. This small concession for the sake of peace and harmony between Jews and Gentiles is not to be viewed as a compromise, despite the objections of certain individuals. These Judaizers, who would attempt to disrupt Paul's work, should not be given any credence. The notion of abstaining from meats offered to idols is clarified here as well. Ultimately, by adhering to these guidelines, one can ensure a right course of action and avoid the potential for conflict and immorality in the fellowship.",
+            "wordCount": 115,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.3914947272977907,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.61,
+            "commentatorTierSimilarities": [
+                47.58,
+                21.91,
+                30.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In light of the Gentiles' fondness for consuming blood, which was considered a special delicacy and commonly mixed with wine during their sacrifices, it was necessary to abstain from it to promote harmony and mutual understanding between Jewish and Gentile believers. Despite objections and accusations of compromise from some, it is important not to give credence to those who would disrupt Paul's work. By adhering to the guideline of abstaining from meats offered to idols, one can ensure a path of righteousness and avoid potential conflicts and immoral practices in the fellowship.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.4361955600385665,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.1,
+            "commentatorTierSimilarities": [
+                52.63,
+                20.4,
+                26.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In order to foster peace and concord between Jews and Gentiles, it was deemed necessary to establish certain guidelines, one of which is the abstaining from consuming blood. This differentiates the Christian community from the Gentiles, who regarded blood as a delicacy and even indulged in drinking it mixed with wine during their sacrifices. Although this decision may appear as a slight compromise, it is vital not to allow disruptions from Judaizers who aim to unsettle Paul's work. By adhering to these guidelines, believers can promote unity and avoid potential conflicts within the fellowship.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.3877301540806817,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.48,
+            "commentatorTierSimilarities": [
+                60.3,
+                16.7,
+                23.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To maintain harmony and avoid disputes between Jews and Gentiles, it was necessary for the Gentiles to abstain from consuming blood. This was because blood held significance in the lives of animals and was consecrated for atonement purposes. Although the Gentiles were accustomed to consuming blood and even considered it a delicacy, this concession was seen as light and justifiable to ensure peace. Opposition from Judaizers seeking to disturb Paul's work should not overshadow the importance of upholding these guidelines for the well-being of the fellowship.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.5275471958121831,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+            "commentatorTierSimilarities": [
+                61.04,
+                15.92,
+                23.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To maintain peace and unity between Jews and Gentiles, certain guidelines were established, one being the abstention from consuming blood. The Gentiles, unlike the Jews, had no qualms about indulging in blood, considering it to be a special delicacy, even mixing it with wine during their sacrificial rituals. Although some may view it as a compromise, it is crucial to disregard the objections from detractors and understand that this concession was made to preserve the harmony within the fellowship.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.5164538002446775,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.76,
+            "commentatorTierSimilarities": [
+                60.31,
+                14.7,
+                24.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

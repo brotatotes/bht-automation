@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:16:00",
+    "verseRef": "Luke 6:38",
+    "bestBHT": {
+        "bht": "Jesus uses the metaphor of a dry measure to emphasize the solemn and emphatic nature of His promise. Believers are called to pour out their generosity, just as vendors pour the contents of a measure into a purchaser's bosom. By giving liberally, an overflowing plenty will be returned to them in both temporal and spiritual blessings. The act of giving and measuring are interconnected, and as believers give, they can expect a measure of goodness that will astound them. Give generously, and you will receive abundantly.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.3613495054027944,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+        "commentatorTierSimilarities": [
+            33.41,
+            0.0,
+            66.59
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The similitude is taken from a very fall measure of some dry thing, such as corn.",
+            "The subject of this verb answers to the unexpressed agents of it shall be measured again; such agents being indefinite, and the meaning thereby rendered solemn and emphatic.",
+            "This saying is found with a totally different import Mark iv. 24; one of the many instances how the Lord turned about, so to speak, the Light of Truth contained in His declarations, so as to shine upon different departments of life and thought."
+        ],
+        "Marvin Vincent": [
+            "Pressed down [\u03c0\u03b5\u03c0\u03b9\u03b5\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd] . Only here in New Testament. A common medical term for pressing strongly on a part of the body, and opposed to yauein, to touch gently.",
+            "The allusion in every case is to a dry measure; and the climax in the three participles would be destroyed by Bengel's interpretation.",
+            "In the Eastern markets at this day vendors may be seen pouring the contents of a measure into the bosom of a purchaser."
+        ],
+        "Archibald T. Robertson": [
+            "Pressed down (\u03c0\u03b5\u03c0\u03b9\u03b5\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd)... Shaken together (\u03c3\u03b5\u03c3\u03b1\u03bb\u03b5\u03c5\u03bc\u03b5\u03bd\u03bf\u03bd)... Running over (\u03c5\u03c0\u03b5\u03c1\u03b5\u03ba\u03c7\u03c5\u03bd\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd).\" ",
+            "The present here is in contrast to the two preceding perfects.",
+            "The \u03b1\u03bd\u03c4 has the common meaning of in turn or back, measured back to you in requital."
+        ],
+        "John Gill": [
+            "Give liberally of your worldly substance to indigent persons, as you have an opportunity, according to your ability, and as cases require: and it shall be returned again to great advantage; with great recompense, either in temporals or spirituals, or both.",
+            "As they abounded in their acts of beneficence, so an overflowing plenty of good things should be returned to them.",
+            "That a large compensation should be made to such, who give liberally and generously to needy persons; that as they abounded in their acts of beneficence, so an overflowing plenty of good things should be returned to them."
+        ],
+        "John Wesley": [
+            "Into your bosom \u2014 Alluding to the mantles the Jews wore, into which a large quantity of corn might be received.",
+            "With the same measure that ye mete with, it shall be measured to you again \u2014 Amazing goodness! So we are permitted even to carve for ourselves!",
+            "Give then to man, what thou designest to receive of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus says, Give, and it will be given to you, He uses the metaphor of a dry measure, emphasizing the solemn and emphatic nature of the promise. Just as vendors in Eastern markets pour the contents of a measure into the bosom of a purchaser, believers are called to pour out their generosity. The actions of giving and measuring are linked together. As believers give liberally, an overflowing plenty will be returned to them in both temporal and spiritual blessings. By giving generously, believers can expect a large compensation and a measure of goodness that will astound them. So, give to others what you desire to receive from God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.2567419398260666,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.13,
+            "commentatorTierSimilarities": [
+                30.58,
+                0.0,
+                69.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus uses the similitude of a dry measure to teach that giving generously will result in a bountiful return. Just as vendors pour the contents of a measure into a purchaser's bosom, believers are called to pour out their generosity. By giving liberally, an overflowing plenty will be returned to them in both temporal and spiritual blessings. The act of giving and measuring are interconnected, and as believers give, they can expect a measure of goodness that will astound them. Give generously, and you will receive abundantly.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.3565420990888515,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.45,
+            "commentatorTierSimilarities": [
+                29.92,
+                0.0,
+                70.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus uses the metaphor of a dry measure to emphasize the solemn and emphatic nature of His promise. Believers are called to pour out their generosity, just as vendors pour the contents of a measure into a purchaser's bosom. By giving liberally, an overflowing plenty will be returned to them in both temporal and spiritual blessings. The act of giving and measuring are interconnected, and as believers give, they can expect a measure of goodness that will astound them. Give generously, and you will receive abundantly.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3613495054027944,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+            "commentatorTierSimilarities": [
+                33.41,
+                0.0,
+                66.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Luke 6:38, Jesus uses the metaphor of a dry measure to emphasize the solemn nature of His promise. He calls believers to pour out their generosity, knowing that what is given will be returned in abundance. Just as vendors in Eastern markets pour measures into purchasers' bosoms, believers are encouraged to give generously. By giving freely, believers can expect an overflowing abundance of blessings in return. The act of giving and measuring are intertwined, and as believers give generously, they can experience the astonishment of a measure of goodness overflowing in their lives.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.2927499750913767,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.33,
+            "commentatorTierSimilarities": [
+                34.15,
+                0.0,
+                65.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus uses the metaphor of a dry measure to convey the importance of generosity. Believers are urged to pour out their generosity, just as vendors pour contents into a purchaser's bosom. Giving liberally leads to an overflow of both temporal and spiritual blessings. The act of giving and measuring are intertwined, and as believers pour out their generosity, they can expect an astounding measure of goodness returned to them. Give abundantly, and receive abundantly.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.2076824647697226,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.5,
+            "commentatorTierSimilarities": [
+                30.2,
+                0.0,
+                69.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

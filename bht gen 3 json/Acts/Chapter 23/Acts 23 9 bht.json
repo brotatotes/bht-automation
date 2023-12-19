@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:35:45",
+    "verseRef": "Acts 23:9",
+    "bestBHT": {
+        "bht": "The Pharisees supported Paul by referring to the history of his conversion, engaging the whole Pharisaic section in his favor. Paul strategically appealed to the Pharisees by mentioning his Pharisaic background and the doctrine of resurrection, redirecting their hatred towards the Sadducees instead. The suggestion that if a spirit or an angel had spoken to him, they should not fight against God further validated Paul's cause. This encounter highlights the mischief of disagreements, the wickedness in resisting a doctrine revealed from heaven, and the importance of careful attention to the word of God.",
+        "wordCount": 94,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 2.0315863727355854,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+        "commentatorTierSimilarities": [
+            36.02,
+            35.13,
+            28.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They referred to the history of his conversion.\" ",
+            "Perhaps in this they referred to the history of his conversion, as told to the people.",
+            "What if a spirit or an angel have spoken to him?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am a Pharisee, the son of a Pharisee... of the hope and resurrection of the dead.\"  ",
+            "By this adroit stroke, Paul engages the whole Pharisaic section of the council in his favor; the doctrine of a resurrection being common to both.\"  ",
+            "This was, of course, quite warrantable, and the more so as it was already evident that no impartiality in trying his cause was to be looked for from such an assembly."
+        ],
+        "Albert Barnes": [
+            "We find no evil in this man - No opinion which is contrary to the Law of Moses; no conduct in spreading the doctrine of the resurrection which we do not approve.",
+            "A similar testimony was offered to the innocence of the Saviour by Pilate, John 19:6.",
+            "Men are not always very careful about the exact correctness of their statements when they wish to humble a rival."
+        ],
+        "Marvin Vincent": [
+            "The Pharisees' hatred of the Sadducees was greater than their hatred of Christianity.",
+            "The words form a broken sentence, followed by a significant silence, which leaves the hearers to supply the omission for themselves.",
+            "The words which the A. V. supplies to complete the sentence, let us not fight against God, are spurious, borrowed from ch. 5 39."
+        ],
+        "John Calvin": [
+            "This place doth teach what mischief disagreements bring with them. For because they take their beginning for the most part of ambition, men proceed thence unto contention, and straightway stubbornness breaketh out.",
+            "For so soon as it is apparent that any doctrine is revealed from heaven, those do wickedly resist God who do not receive the same.",
+            "We see again that those stand in doubt who take not good heed, and are not careful to mark the word of God; and that they waver so often as any thing is brought to light, because they be unworthy to understand the certain truth."
+        ],
+        "Philip Schaff": [
+            "We find no evil in this man.",
+            "If a spirit or an angel hath spoken to him, let us not fight against God.",
+            "Undoubtedly a designed aposiopesis. A significant gesture or look toward the Sadducees expressed what was left unsaid: If a spirit spoke to him or an angel that is not an impossible thing: the matter then assumes importance."
+        ],
+        "Archibald T. Robertson": [
+            "Strove (\u03b4\u03b9\u03b5\u03bc\u03b1\u03c7\u03bf\u03bd\u03c4\u03bf). Imperfect middle of \u03b4\u03b9\u03b1\u03bc\u03b1\u03c7\u03bf\u03bc\u03b1, old Attic verb, to fight it out (between, back and forth, fiercely).",
+            "The Pharisees definitely take Paul's side.",
+            "This is aposiopesis, not uncommon in the N.T., as in Luke 13:9; John 6:62 (Robertson, Grammar, p. 1203). See one also in Exodus 32:32."
+        ],
+        "John Gill": [
+            "And there arose a great cry,.... Or noise, a loud clamour; they began to be very noisy, and to talk loud, and in high spirits, one against another.\" ",
+            "But if a spirit or an angel hath spoken to him; that is, if the Holy Spirit, as the Ethiopic version reads, has inspired him, or God by an angel has revealed anything to him, who has to say anything against it?\" ",
+            "Let us not fight against God; as in Acts 5:39."
+        ],
+        "John Wesley": [
+            "Every sect contains both learned and unlearned.",
+            "They construe it in their own way, putting an angel or spirit for Jesus.",
+            "They add nothing, only they construe it in their own way."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees in the Council referred to the history of Paul's conversion, engaging the whole Pharisaic section in his favor. By mentioning his Pharisaic background and the doctrine of resurrection, Paul strategically appealed to the Pharisees and redirected their hatred towards the Sadducees instead of Christianity. The broken sentence and silence that followed allowed the listeners to fill in the implication for themselves. The Pharisees' testimony of finding no evil in Paul and their suggestion that if a spirit or an angel had spoken to him, they should not fight against God, further sided with Paul. Through this encounter, it becomes evident that disagreements and stubbornness lead to mischief, while resisting a doctrine revealed from heaven is wicked. The clamor and noise that arose from the Council showed the chaos that ensued, and the varying interpretations highlighted the importance of careful attention to the word of God.",
+            "wordCount": 148,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.8809975896670057,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+            "commentatorTierSimilarities": [
+                39.44,
+                31.17,
+                29.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees referred to the history of Paul's conversion, engaging the whole Pharisaic section in his favor. By highlighting his Pharisaic background and the doctrine of resurrection, Paul strategically appealed to the Pharisees, redirecting their hatred towards the Sadducees. The broken sentence and silence that followed allowed the listeners to fill in the implication for themselves. The Pharisees' testimony of finding no evil in Paul and their suggestion not to fight against God further sided with Paul. This encounter demonstrates the mischief of disagreements and the wickedness in resisting a doctrine revealed from heaven.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.893911993816833,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "commentatorTierSimilarities": [
+                41.63,
+                31.2,
+                27.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees in the Council referred to the history of Paul's conversion, engaging the whole Pharisaic section in his favor. By mentioning his Pharisaic background and the doctrine of resurrection, Paul strategically appealed to the Pharisees and redirected their hatred towards the Sadducees instead of Christianity. The broken sentence and silence that followed allowed the listeners to fill in the implication for themselves. The Pharisees' testimony of finding no evil in Paul and their suggestion that if a spirit or an angel had spoken to him, they should not fight against God, further sided with Paul.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.9706768024776284,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                42.63,
+                31.52,
+                25.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees supported Paul by referring to the history of his conversion, engaging the whole Pharisaic section in his favor. Paul strategically appealed to the Pharisees by mentioning his Pharisaic background and the doctrine of resurrection, redirecting their hatred towards the Sadducees instead of Christianity. The broken sentence and silence that followed allowed the listeners to fill in the implication for themselves. The Pharisees' testimony of finding no evil in Paul and their suggestion not to fight against God further sided with him in the Council.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.918293727750298,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.12,
+            "commentatorTierSimilarities": [
+                44.34,
+                32.39,
+                23.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees supported Paul by referring to the history of his conversion, engaging the whole Pharisaic section in his favor. Paul strategically appealed to the Pharisees by mentioning his Pharisaic background and the doctrine of resurrection, redirecting their hatred towards the Sadducees instead. The suggestion that if a spirit or an angel had spoken to him, they should not fight against God further validated Paul's cause. This encounter highlights the mischief of disagreements, the wickedness in resisting a doctrine revealed from heaven, and the importance of careful attention to the word of God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.0315863727355854,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+            "commentatorTierSimilarities": [
+                36.02,
+                35.13,
+                28.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

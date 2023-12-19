@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 17:30:48",
+    "verseRef": "2 Timothy 3:7",
+    "bestBHT": {
+        "bht": "There is a large class of individuals who are constantly pursuing new knowledge, always learning scraps of things, yet never able to come to the full knowledge of the truth. They are easily led astray by false teachings and itinerant religious quacks, lacking the right motives and applying themselves to the wrong teachers. These individuals, who pride themselves on being part of the intelligentsia, are caught in a cycle of restless curiosity, never attaining the perfect knowledge that can safeguard them against further novelties.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 2.026649189044381,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.73,
+        "commentatorTierSimilarities": [
+            32.69,
+            32.52,
+            34.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Ever learning\u2014some new point, for mere curiosity, to the disparagement of what they seemed to know before.\" ",
+            "The knowledge\u2014the perfect knowledge; the only safeguard against further novelties.\" ",
+            "Gnosticism laid hold especially of the female sex."
+        ],
+        "Albert Barnes": [
+            "They put themselves wholly under the care of these professedly religious teachers, but they never acquire the true knowledge of the way of salvation.",
+            "There are many such persons in the world, who, whatever attention they may pay to religion, never understand its nature.",
+            "Nothing is more common than for persons to be very busy and active in religion, and even to 'learn' many things about it, who still remain strangers to the saving power of the gospel."
+        ],
+        "Marvin Vincent": [
+            "It is a graphic picture of a large class, by no means extinct, who are caught and led by the instructions of itinerant religious quacks.\" ",
+            "Never able... because they have not the right motive, and because they apply to false teachers.\" ",
+            "There is in dunamena a hint of an unsuccessful endeavor, in better moments, to attain to the truth."
+        ],
+        "John Calvin": [
+            "Always learning, while yet they never can come to the knowledge of the truth.",
+            "They 'learn,' he says, as people do who are under the influence of curiosity, and with a restless mind, but in such a manner as never to arrive at any certainty or truth.",
+            "It is ill-conducted study, and widely different from knowledge. And yet such persons think themselves prodigiously wise; but what they know is nothing, so long as they do not hold the truth, which is the foundation of all knowledge."
+        ],
+        "Philip Schaff": [
+            "The words describe vividly the fruitless wanderings of those who pass from system to system and teacher to teacher.",
+            "The knowledge of the truth, i.e., as in 2 Timothy 2:25, the full clear knowledge that shuts out uncertainty."
+        ],
+        "Archibald T. Robertson": [
+            "Pathetic picture of these hypnotized women without intellectual power to cut through the fog of words...",
+            "...though always learning scraps of things, they never come into the full knowledge of the truth in Christ.",
+            "And yet they even pride themselves on belonging to the intelligentsia!"
+        ],
+        "John Gill": [
+            "Ever learning,.... Some new notion and practice or another",
+            "never able to come to the knowledge of the truth",
+            "because of themselves, the sins they are laden, and the lusts they are led away with"
+        ],
+        "John Wesley": [
+            "Ever learning \u2014 New things. But not the truth of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There is a large class of individuals who are constantly pursuing new knowledge, always learning scraps of things, yet never able to come to the full knowledge of the truth. They are easily led astray by false teachings and itinerant religious quacks, lacking the right motives and applying themselves to the wrong teachers. These individuals, who pride themselves on being part of the intelligentsia, are caught in a cycle of restless curiosity, never attaining the perfect knowledge that can safeguard them against further novelties. They wander from system to system, teacher to teacher, always learning but never truly understanding the nature of religion, remaining strangers to the saving power of the gospel. It is a sad and futile endeavor, as their ill-conducted study and superficial learning lead them further away from the truth they so desperately seek.",
+            "wordCount": 138,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.0021721437312543,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                30.17,
+                36.16,
+                33.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There is a large class of individuals who are constantly pursuing new knowledge, always learning scraps of things, yet never able to come to the full knowledge of the truth. They are easily led astray by false teachings and itinerant religious quacks, lacking the right motives and applying themselves to the wrong teachers. These individuals, who pride themselves on being part of the intelligentsia, are caught in a cycle of restless curiosity, never attaining the perfect knowledge that can safeguard them against further novelties.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.026649189044381,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.73,
+            "commentatorTierSimilarities": [
+                32.69,
+                32.52,
+                34.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "There is a large class of individuals, always learning but never able to come to the full knowledge of the truth. They are easily led astray by false teachings and itinerant religious quacks, lacking the right motives. These individuals, who pride themselves on being part of the intelligentsia, are caught in a cycle of restless curiosity, never attaining the perfect knowledge that can safeguard them against further novelties. They remain strangers to the saving power of the gospel, constantly pursuing new knowledge but never truly understanding the nature of religion.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.9973650999444534,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+            "commentatorTierSimilarities": [
+                29.34,
+                34.82,
+                35.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There is a large class of individuals who are always learning, yet never able to come to the full knowledge of the truth. They are easily led astray by false teachings, constantly pursuing new notions and practices. These people, who pride themselves on their intelligence, are caught in a cycle of restless curiosity. They are trapped in ill-conducted study, lacking the right motives and applying themselves to false teachers. Despite their constant pursuit of knowledge, they never grasp the truth and remain disconnected from the saving power of the gospel.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.8822211924519283,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                31.29,
+                31.03,
+                37.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "There is a large class of individuals who are always learning, constantly pursuing new knowledge, yet never able to come to the knowledge of the truth. They are easily led astray by false teachings, trapped in a cycle of restless curiosity. Despite their claims of wisdom and association with the intelligentsia, their pursuit of superficial learning and ill-conducted study hinders them from attaining the full knowledge that can safeguard them against further novelties. Their fruitless wanderings from system to system and teacher to teacher leave them without a true understanding of the nature of religion and the saving power of the gospel.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.9160598296871432,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                27.0,
+                37.97,
+                35.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:21:16",
+    "verseRef": "Galatians 5:18",
+    "bestBHT": {
+        "bht": "If you are led by the Spirit, you are not under the law. The works of the flesh and the law are in the same category, while the Spirit and the law are opposites. Giving ourselves up to be led by the Spirit frees us from the works of the flesh and the bondage of the law. This freedom is granted by the Spirit, who emancipates us from the yoke of the law and leads us into the blessings and promises of the covenant of grace. The Spirit's guidance is for our profit and leads us out of sin and into the presence of God.",
+        "wordCount": 106,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.8242303881353994,
+        "qualityScoreNormalizedComparedToV2BHTs": 85.24,
+        "commentatorTierSimilarities": [
+            37.37,
+            35.39,
+            27.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The law is made for the flesh, and the works of the flesh: the Spirit and flesh are opposites.",
+            "But if ye are led by the Spirit, ye are not under the law.",
+            "He proceeds to substantiate, by specifying the works of the flesh and of the Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If ye are led (give yourselves up to be led) by (Greek) the Spirit, ye are not under the law.",
+            "For ye are not working the works of the flesh which bring one 'under the law'.",
+            "The 'Spirit makes free from the law of sin and death'."
+        ],
+        "Albert Barnes": [
+            "If you submit to the teachings and guidance of the Holy Spirit.",
+            "You are under a different dispensation - the dispensation of the Spirit.",
+            "You are free from the restraints and control of the Mosaic law, and are under the control of the Spirit of God."
+        ],
+        "Marvin Vincent": [
+            "If the Spirit, then you are free men, no longer under the law.\" ",
+            "The law and the flesh are in the same category. Circumcision was a requirement of the law, and was a work of the flesh.",
+            "The whole legal economy was an economy of the flesh as distinguished from the Spirit."
+        ],
+        "John Calvin": [
+            "Let them not be discouraged, because they are unable to satisfy the demands of the law.",
+            "The performance of their duties is not rejected on account of their present defects, but is accepted in the sight of God.",
+            "The Spirit makes men free, he emancipates them from the yoke of the law."
+        ],
+        "Philip Schaff": [
+            "The Spirit 'leads' and guides men as moral and responsible beings, but does not drive or force them.",
+            "The law is a restraint of the flesh; to be free from the flesh is to be free from the restraint and curse of the law.",
+            "The Spirit leads us into the fulfillment of the law of love, and the law ceases to be a yoke for trembling slaves, and becomes a rule for loving and grateful children and freemen."
+        ],
+        "Archibald T. Robertson": [
+            "Under the law (\u03c5\u03c0\u03bf \u03bd\u03bf\u03bc\u03bf\u03bd). Instead of 'under the flesh' as one might expect.\" ",
+            "The flesh made the law weak (Romans 8:3; Hebrews 9:10; Hebrews 9:13). They are one and the same in result.",
+            "Note present tense of \u03b1\u03b3\u03b5\u03c3\u03b8\u03b5 (if you are continually led by the Spirit)."
+        ],
+        "John Gill": [
+            "The Spirit of God always leads for their profit and advantage, and for the spiritual delight, pleasure, and comfort of their souls.",
+            "He leads out of the ways of sin, and so of ruin and destruction, and from Mount Sinai, and all dependence on a legal and moral righteousness.",
+            "He leads into the presence of God, and to his house and ordinances; he leads into the covenant of grace, to the blessings, promises, and Mediator of it."
+        ],
+        "John Wesley": [
+            "If ye are led by the Spirit \u2014 Of liberty and love, into all holiness.",
+            "Ye are not under the law \u2014 Not under the curse or bondage of it.",
+            "Not under the guilt or the power of sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you are led by the Spirit, you are not under the law. The works of the flesh and the law are closely related, while the Spirit and the law stand as opposites. By giving ourselves up to be continually led by the Spirit, we are freed from the works of the flesh that put us under the law. This freedom is granted by the Spirit who liberates us from the law of sin and death. In this new dispensation, we are no longer bound by the restraints and control of the Mosaic law, but are under the guidance of the Spirit of God. The Spirit leads us into the fulfillent of the law of love, transforming it from a yoke of slavery into a rule for loving and grateful children and freemen.",
+            "wordCount": 133,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.747772687187168,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.7,
+            "commentatorTierSimilarities": [
+                37.78,
+                36.94,
+                25.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you are led by the Spirit, you are not under the law. The Spirit makes men free from the yoke of the law, leading them out of the ways of sin and destruction. By continually giving ourselves up to be guided by the Spirit, we are emancipated from the bondage and guilt of sin. The Spirit leads for our profit and advantage, bringing us into the presence of God and the blessings of the covenant of grace.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 2.6049049274166736,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.95,
+            "commentatorTierSimilarities": [
+                33.48,
+                35.43,
+                31.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If you are led by the Spirit, you are not under the law. The works of the flesh and the law are in the same category, while the Spirit and the law are opposites. Giving ourselves up to be led by the Spirit frees us from the works of the flesh and the bondage of the law. This freedom is granted by the Spirit, who emancipates us from the yoke of the law and leads us into the blessings and promises of the covenant of grace. The Spirit's guidance is for our profit and leads us out of sin and into the presence of God.",
+            "wordCount": 106,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.8242303881353994,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.24,
+            "commentatorTierSimilarities": [
+                37.37,
+                35.39,
+                27.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you are led by the Spirit, you are not under the law. The Spirit frees us from the works of the flesh that put us under the law by continually guiding us towards righteousness. Through the Spirit, we are liberated from the yoke of the law and brought into the presence of God and the blessings of the covenant of grace. The Spirit's guidance is for our advantage, leading us out of sin and into a life of holiness and freedom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 2.674257765444545,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.26,
+            "commentatorTierSimilarities": [
+                35.7,
+                35.86,
+                28.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you are led by the Spirit, you are no longer under the law. The works of the flesh and the law are interconnected, while the Spirit and the law stand as opposites. By continuously surrendering to the guidance of the Spirit, we are liberated from the works of the flesh, which bring us under the law. This freedom, bestowed by the Spirit, sets us free from the law of sin and death. The Spirit directs us towards righteousness and emancipates us from the yoke of the law.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.8214865571405294,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.15,
+            "commentatorTierSimilarities": [
+                39.31,
+                35.22,
+                25.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 17:15:26",
+    "verseRef": "3 John 2",
+    "bestBHT": {
+        "bht": "May you prosper in all things, both in body and soul. Just as your soul prospers, I wish you the same kind of prosperity in your physical health and worldly matters. May you thrive spiritually, growing in grace and knowledge, while also experiencing success and well-being in all areas of your life.",
+        "wordCount": 53,
+        "quoteTokenProportion": 44.74,
+        "qualityScore": 2.0857483745212355,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+        "commentatorTierSimilarities": [
+            25.82,
+            35.04,
+            39.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I know you are prospering in the concerns of your soul. I wish you similar prosperity in your body.",
+            "Perhaps John had heard from the brethren that Gaius was in bad health, and was tried in other ways, to which the wish refers.",
+            "Prosper in general, be in health in particular."
+        ],
+        "Albert Barnes": [
+            "In every respect, I wish that it may go as well with you as it does with your soul; that in your worldly prosperity, your comfort, and your bodily health, you may be as prosperous as you are in your religion.",
+            "It is right to wish that our friends may have success in the works of their hands and their plans of life.",
+            "It argues a high state of piety when we can, as the expression of our highest desire for the welfare of our friends, express the hope that they may be in all respects as much prospered as they are in their spiritual concerns."
+        ],
+        "Marvin Vincent": [
+            "I pray that in all things thou mayst prosper.",
+            "Be in health.",
+            "The soul is the principle of individuality, the seat of personal impressions."
+        ],
+        "Archibald T. Robertson": [
+            "In all things (\u03c0\u03b5\u03c1 \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd). To be taken with \u03b5\u03c5\u03bf\u03b4\u03bf\u03c5\u03c3\u03b8\u03b1 and like \u03c0\u03b5\u03c1 in 1 Corinthians 16:1, 'concerning all things.'",
+            "Thou mayest prosper (\u03c3\u03b5 \u03b5\u03c5\u03bf\u03b4\u03bf\u03c5\u03c3\u03b8\u03b1)... \u0395\u03c5\u03bf\u03b4\u03bf\u03c9 is old verb...to have a good journey, to prosper, in LXX, in N.T. only this verse (twice), 1 Corinthians 16:2; Romans 1:10.",
+            "Even as thy soul prospereth (\u03ba\u03b1\u03b8\u03c9\u03c2 \u03b5\u03c5\u03bf\u03b4\u03bf\u03c5\u03c4\u03b1 \u03c3\u03bf\u03c5 \u03b7 \u03c8\u03c5\u03c7\u03b7). A remarkable comparison which assumes the welfare...of his soul (\u03c8\u03c5\u03c7\u03b7 here as the principle of the higher life as in John 12:27, not of the natural life as in Matthew 6:25)."
+        ],
+        "John Gill": [
+            "Beloved, I wish above all things that thou mayest prosper,.... Or succeed in all temporal affairs, in the business of life.",
+            "The soul is diseased with sin, and may be said to be in good health when all its iniquities are forgiven.",
+            "The soul may be said to prosper when it has a spiritual appetite for the Gospel, feeds upon it, and grows in grace and knowledge."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May you experience prosperity and good health not only in your spiritual life but also in your physical well-being. It is possible that Gaius was facing challenges, such as bad health, which is why John expresses this wish for his overall prosperity. This wish extends to every aspect of Gaius' life, encompassing his worldly success, comfort, and bodily health. It is a testament to a person's piety when they genuinely desire the well-being and prosperity of others, both in their spiritual and temporal affairs. May you thrive spiritually, having a deep hunger for the Gospel and growing in grace and knowledge, while also experiencing success and prosperity in all areas of your life.",
+            "wordCount": 116,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.9130462544947289,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                22.74,
+                40.92,
+                36.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May you prosper and be in good health, both in your soul and body. This wish extends to all aspects of your life, encompassing worldly success, comfort, and bodily health. It is a testament to your piety when you desire the well-being and prosperity of others, both spiritually and temporally. May you thrive spiritually, having a deep hunger for the Gospel and growing in grace and knowledge, while also experiencing success and prosperity in all areas of your life.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.9906726983340988,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                23.24,
+                38.2,
+                38.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May you prosper and be in good health, both in your soul and body. This wish extends to all aspects of your life, encompassing worldly success, comfort, and bodily health. It is a testament to your piety when you desire the well-being and prosperity of others, both spiritually and temporally. May you thrive spiritually, growing in grace and knowledge, while also experiencing success and prosperity in all areas of your life.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 2.016448912739931,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.39,
+            "commentatorTierSimilarities": [
+                23.49,
+                38.66,
+                37.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May you prosper in all things, both in your soul and body. Your spiritual well-being is of utmost importance, as it is the seat of personal impressions and the source of higher life. Just as your soul prospers, I wish you similar prosperity in your physical health and worldly affairs. This desire for your overall prosperity extends to every aspect of your life, encompassing both your spiritual journey and your temporal well-being. May you continue to have a deep hunger for the Gospel, growing in grace and knowledge, while experiencing success and well-being in all areas of your life.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.002576975321827,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.93,
+            "commentatorTierSimilarities": [
+                24.24,
+                36.6,
+                39.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May you prosper in all things, both in body and soul. Just as your soul prospers, I wish you the same kind of prosperity in your physical health and worldly matters. May you thrive spiritually, growing in grace and knowledge, while also experiencing success and well-being in all areas of your life.",
+            "wordCount": 53,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 2.0857483745212355,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                25.82,
+                35.04,
+                39.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:18:40",
+    "verseRef": "Luke 12:4",
+    "bestBHT": {
+        "bht": "Jesus assures his disciples not to fear those who can harm their bodies but not their souls. He calls them my friends to emphasize their close bond. He urges them to be courageous in speaking the truth and not be influenced by fear or intimidation. Jesus warns against the hypocrisy of the Pharisees and lawyers, reminding his disciples to stay faithful to their mission. He assures them that while their enemies may have power to kill, that power ends there; the soul remains untouched.",
+        "wordCount": 84,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.4766860217744133,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.44,
+        "commentatorTierSimilarities": [
+            34.43,
+            0.0,
+            65.57
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "4.] my friends: see John xv. 13\u201315."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be it so but, 'My friends, there their power ends.'\" ",
+            "He calls them 'my friends' here, not in any loose sense.",
+            "He and they were going to be affectingly one with each other."
+        ],
+        "Marvin Vincent": [
+            "Unto you, the friends of me.",
+            "Be not afraid... from the hands of."
+        ],
+        "Archibald T. Robertson": [
+            "Unto you my friends (\u03c5\u03bc\u03b9\u03bd \u03c4\u03bf\u03b9\u03c2 \u03c6\u03b9\u03bb\u03bf\u03b9\u03c2). As opposed to the Pharisees and lawyers in Luke 11:43; Luke 11:46; Luke 11:53.",
+            "Be not afraid of (\u03bc\u03b7 \u03c6\u03bf\u03b2\u03b7\u03b8\u03b7\u03c4\u03b5 \u03b1\u03c0\u03bf). First aorist passive subjunctive with \u03bc\u03b7, ingressive aorist, do not become afraid of, with \u03b1\u03c0\u03bf and the ablative like the Hebrew min and the English 'be afraid of.'",
+            "Have no more that they can do (\u03bc\u03b7 \u03b5\u03c7\u03bf\u03bd\u03c4\u03c9\u03bd \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03bf\u03c4\u03b5\u03c1\u03bf\u03bd \u03c4 \u03c0\u03bf\u03b9\u03b7\u03c3\u03b1). Luke often uses the infinitive thus with \u03b5\u03c7\u03c9, a classic idiom."
+        ],
+        "John Gill": [
+            "Be not afraid of them that kill the body; and after that have no more that they can do.",
+            "He would have them know them, and avoid their hypocrisy, and guard against it; but not fear them.",
+            "The soul is out of their reach, is an immortal spirit, and cannot be hurt or destroyed by them."
+        ],
+        "John Wesley": [
+            "But I say to you, Fear not \u2014 Let not the fear of man make you act the hypocrite, or conceal any thing which I have commissioned you to publish."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus addresses his disciples as my friends in this verse, emphasizing the close and intimate relationship he has with them. He reassures them not to be afraid of those who can harm the body but cannot touch the soul. These individuals may have power to kill the body, but their influence ends there. Jesus encourages his disciples to have the courage to speak the truth and not be swayed by fear or intimidation. He warns them against the hypocrisy of the Pharisees and lawyers, urging them to remain faithful to their mission.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4534964648476594,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.67,
+            "commentatorTierSimilarities": [
+                32.02,
+                0.0,
+                67.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus assures his disciples not to fear those who can harm their bodies but not their souls. He calls them my friends to emphasize their close bond. He urges them to be courageous in speaking the truth and not be influenced by fear or intimidation. Jesus warns against the hypocrisy of the Pharisees and lawyers, reminding his disciples to stay faithful to their mission. He assures them that while their enemies may have power to kill, that power ends there; the soul remains untouched.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.4766860217744133,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.44,
+            "commentatorTierSimilarities": [
+                34.43,
+                0.0,
+                65.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Luke 12:4, Jesus addresses his disciples as my friends, highlighting their intimate relationship. He encourages them not to fear those who can harm the body but not the soul. By using the term my friends, Jesus emphasizes the depths of their connection and the unity they will share. He warns against the hypocrisy of the Pharisees and lawyers, urging his disciples to remain steadfast in their mission without succumbing to fear. Jesus reminds them that earthly foes cannot inflict eternal harm on their souls.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.4466412408963167,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.44,
+            "commentatorTierSimilarities": [
+                37.28,
+                0.0,
+                62.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus addresses his disciples as my friends, reflecting the close bond they share. He encourages them to not be afraid of those who can harm the body but cannot touch the soul. Jesus warns against the hypocrisy of the Pharisees and lawyers, urging his disciples to remain faithful to their mission. He reassures them that while their enemies may have power to kill, their influence ends there. The soul, being immortal, remains beyond their reach and cannot be harmed.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.4069332721070955,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.12,
+            "commentatorTierSimilarities": [
+                34.14,
+                0.0,
+                65.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus refers to his disciples as my friends in Luke 12:4, highlighting the depth of their relationship. He encourages them not to fear those who can harm their bodies but have no power over their souls. Jesus warns against the hypocrisy of the Pharisees and lawyers, urging his disciples to remain faithful to their mission. He reassures them that although their enemies may have the ability to kill, that is the extent of their power. The soul, being immortal, remains unharmed and unaffected by their actions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.3719425307131874,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.96,
+            "commentatorTierSimilarities": [
+                32.7,
+                0.0,
+                67.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

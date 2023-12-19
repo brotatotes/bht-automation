@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:31:26",
+    "verseRef": "Acts 14:17",
+    "bestBHT": {
+        "bht": "Paul's speech reminds us of God's goodness and provision in the natural world. The people of Lycaonia, where water was scarce, would have appreciated the mention of rain from heaven and fruitful seasons as a remarkable display of God's care. Through His beneficence, God left a witness that no one could ignore, filling hearts with food and gladness. These blessings serve as a reminder of God's presence and should inspire us to approach life with cheerfulness and gratitude.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.9463680266993761,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+        "commentatorTierSimilarities": [
+            31.07,
+            32.09,
+            36.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words gave us rain from heaven had a remarkable applicability in a country where we have seen from Strabo (on ver. 6) that there was great scarcity of water.",
+            "He relates that in one city of Lycaonia, where water was reached by digging the wells very deep, it was sold for money.",
+            "Compare Rom. i. 19, 20."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Nevertheless he left not himself without witness\u2014Though the heinousness of idolatry is represented as so much less in the heathen, by how much they were outside the pale of revealed religion, he takes care to add that the heathen have divine 'witness' enough to leave them 'without excuse.'",
+            "he did good\u2014scattering His beneficence everywhere and in a thousand forms.",
+            "rain from heaven, and fruitful seasons\u2014on which human subsistence and all human enjoyment depend. In Lycaonia, where, as ancient writers attest, rain is peculiarly scarce, this allusion would have all the greater effect."
+        ],
+        "Albert Barnes": [
+            "In that he did good - By doing good. The manner in which he did it, Paul immediately specifies.",
+            "There is scarcely anything which more certainly indicates unceasing care and wisdom than the needful and refreshing showers of rain.",
+            "This is proof of everwatchful goodness. It is a demonstration at once that there is a God, and that he is good."
+        ],
+        "Marvin Vincent": [
+            "All signs and portents whatever, that appear in the air, belong primarily to him, as does the genial sign of the rainbow\" - Gladstone",
+            "No one can read the speech without once more perceiving its subtle and inimitable coincidence with his (Paul 's) thoughts and expressions\" - Farrar",
+            "The 'filling our hearts with food and gladness ' was suggested by the garlands and festive pomp which accompanied the bulls on which the people would afterward have made their common banquet\" - Farrar"
+        ],
+        "John Calvin": [
+            "This kind of testimony...made men without excuse, and yet was not sufficient for salvation.",
+            "In the order of nature there is a certain and evident manifestation of God.",
+            "God hath not set man upon earth to be an idle beholder of his work...but to exercise himself in praising the liberality of God."
+        ],
+        "Philip Schaff": [
+            "This mention of \u2018rain from heaven\u2019 was an especial instance of Divine benevolence to the people of Lystra, as in the Lycaonian country water was so extremely scarce.",
+            "In many Eastern countries this \u2018rain from heaven\u2019 was a most precious boon.",
+            "This \u2018rain from heaven\u2019 was a most precious boon."
+        ],
+        "Archibald T. Robertson": [
+            "This witness to God (his doing good, giving rains and fruitful seasons, filling your hearts with food and gladness) they could receive without the help of the Old Testament revelation.",
+            "Paul does not talk about laws of nature as if they governed themselves, but he sees the living God 'behind the drama of the physical world'.",
+            "Cheerfulness should be our normal attitude when we consider God's goodness."
+        ],
+        "John Gill": [
+            "Nevertheless, he left not himself without witness...and should have been thankful to him, and glorified him as God.",
+            "He did good...and gave us rain from heaven, which none of the gods of the Gentiles could.",
+            "Filling our hearts with food and gladness...giving a sufficiency of food, and even an abundance of it, and that for pleasure and delight."
+        ],
+        "John Wesley": [
+            "He left not himself without witness \u2014 For the heathens had always from God himself a testimony both of his existence and of his providence...\" (27 words)",
+            "Even by punishments he testifies of himself; but more peculiarly by benefits; giving rain - By which air, earth, and sea, are, as it were, all joined together...\" (33 words)",
+            "Filling the body with food, the soul with gladness.\" (7 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's goodness and provision are abundantly evident in the natural world, as Paul pointed out in his speech. This would have been particularly meaningful to the people of Lycaonia, where water was scarce and rain was seen as a precious gift. By mentioning rain from heaven and fruitful seasons, Paul emphasized the vital importance of these blessings for human sustenance and enjoyment. Paul's words also served as a witness to the divine presence and care, leaving no excuse for the people to neglect or reject God. Through His acts of benevolence, God displayed His power and love, filling hearts with food and gladness. This reminder of God's goodness should inspire us to approach life with cheerfulness and gratitude.",
+            "wordCount": 121,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9188611110689369,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                29.69,
+                34.74,
+                35.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's speech highlighted God's goodness and provision in the natural world, with a significant emphasis on the importance of rain and fruitful seasons. In a region where water scarcity was prevalent, the mention of rain from heaven would have had a powerful impact. God's acts of benevolence served as a witness to His existence, leaving no excuse for neglecting Him. His provision, filling hearts with food and gladness, should inspire a cheerful and grateful attitude towards life.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.871536940452926,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.57,
+            "commentatorTierSimilarities": [
+                29.07,
+                35.82,
+                35.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's goodness is evident through His provision in the natural world, as Paul emphasized in his speech. The people of Lycaonia, who faced water scarcity, would appreciate the reference to rain from heaven and fruitful seasons. These blessings were a testament to God's care and left no excuse for neglecting or rejecting Him. His acts of kindness, such as filling hearts with food and gladness, should lead us to approach life with cheerfulness and gratitude.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8977522056170244,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+            "commentatorTierSimilarities": [
+                31.07,
+                33.92,
+                35.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's speech reminds us of God's goodness and provision in the natural world. The people of Lycaonia, where water was scarce, would have appreciated the mention of rain from heaven and fruitful seasons as a remarkable display of God's care. Through His beneficence, God left a witness that no one could ignore, filling hearts with food and gladness. These blessings serve as a reminder of God's presence and should inspire us to approach life with cheerfulness and gratitude.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9463680266993761,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+            "commentatorTierSimilarities": [
+                31.07,
+                32.09,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's speech acknowledges God's goodness and provision in the natural world, particularly through blessings like rain from heaven and fruitful seasons. These acts of beneficence serve as a witness, leaving no excuse for neglecting or rejecting God. The people of Lycaonia, where water was scarce, would have appreciated these gifts, which demonstrated God's care. Ultimately, God's provision fills hearts with food and gladness, inspiring a cheerful and grateful attitude towards life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.8791754447863966,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.82,
+            "commentatorTierSimilarities": [
+                30.18,
+                33.57,
+                36.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

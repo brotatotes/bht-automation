@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:01:57",
+    "verseRef": "Romans 4:9",
+    "bestBHT": {
+        "bht": "Abraham's justification by faith is not dependent on circumcision as a sign of righteousness, but rather, faith was reckoned to him for righteousness long before he was circumcised. This declaration of righteousness applies not only to the circumcised, but also to the uncircumcised, as both Jews and Gentiles can share in this blessedness. It is by faith, not by any works or rituals, that we are justified and accepted by God. This faith, though not the cause of our acceptance, is the condition for our acceptance, and through it, our sins are forgiven and righteousness is imputed to us.",
+        "wordCount": 100,
+        "quoteTokenProportion": 53.23,
+        "qualityScore": 1.9783965115679156,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+        "commentatorTierSimilarities": [
+            38.06,
+            13.66,
+            48.28
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The form of the question, with or... also, presupposes an affirmative answer to the latter clause.\" ",
+            "The stress is on the words to Abraham, not on faith.",
+            "For we say that TO ABRAHAM faith was reckoned for righteousness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Say not, All this is spoken of the circumcised, and is therefore no evidence of God's general way of justifying men...",
+            "Abraham's justification took place long before he was circumcised, and so could have no dependence upon that rite...",
+            "Nay, 'the sign of circumcision' was given to Abraham as 'a seal' (or token) of the (justifying) righteousness which he had before he was circumcised..."
+        ],
+        "Albert Barnes": [
+            "This is the sum of all blessedness; the only state that can be truly pronounced happy.",
+            "The 'Jews' alone, as 'they' pretended.",
+            "The 'Gentiles' who believed, as the 'apostle' maintained."
+        ],
+        "John Calvin": [
+            "Men are justified, not by their own worthiness, but by the mercy of God.",
+            "Remission of sins precedes all works.",
+            "The cause is always before its effect; and righteousness was possessed by Abraham before he had circumcision."
+        ],
+        "Philip Schaff": [
+            "This pronouncing blessed, then, is it upon,' etc.\" ",
+            "The reference is to David\u2019s words.\" ",
+            "The emphasis rests on 'Abraham,' as the emended order indicates."
+        ],
+        "Archibald T. Robertson": [
+            "Is this felicitation then?",
+            "Abraham was said in Genesis 15:6 to be set right with God by faith before he was circumcised."
+        ],
+        "John Gill": [
+            "Are [the circumcised Jews] the only persons that partake of this happiness?",
+            "Do not [the uncircumcised Gentiles] likewise share in this blessedness?",
+            "The blessing of justification belongs to Gentiles as well as Jews, and it is by faith, and not by circumcision."
+        ],
+        "John Wesley": [
+            "Faith was imputed to Abraham for righteousness \u2014 This is fully consistent with our being justified, that is, pardoned and accepted by God upon our believing, for the sake of what Christ hath done and suffered.",
+            "For though this, and this alone, be the meritorious cause of our acceptance with God, yet faith may be said to be 'imputed to us for righteousness,' as it is the sole condition of our acceptance.",
+            "We may observe here, forgiveness, not imputing sin, and imputing righteousness, are all one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham's justification by faith is not dependent on circumcision as a sign of righteousness, but rather, faith was reckoned to him for righteousness long before he was circumcised. This declaration of righteousness applies not only to the circumcised, but also to the uncircumcised, as both Jews and Gentiles can share in this blessedness. It is by faith, not by any works or rituals, that we are justified and accepted by God. This faith, though not the cause of our acceptance, is the condition for our acceptance, and through it, our sins are forgiven and righteousness is imputed to us.",
+            "wordCount": 100,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.9783965115679156,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                38.06,
+                13.66,
+                48.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham's justification by faith is not dependent on circumcision as a sign of righteousness. Faith was reckoned to him for righteousness before he was circumcised. This declaration applies to both Jews and Gentiles, as they can share in the same blessedness. It is by faith, not works or rituals, that we are justified and accepted by God. Through faith, our sins are forgiven and righteousness is imputed to us.",
+            "wordCount": 70,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 1.9604006261872307,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                37.6,
+                17.55,
+                44.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham's faith, not his circumcision, was credited to him as righteousness. The question posed in the verse assumes a positive answer, highlighting Abraham as the recipient of faith and not focusing on faith itself. The emphasis is on the fact that Abraham was justified by faith even before he was circumcised. The sign of circumcision was given as a seal, confirming the righteousness he already possessed. This blessing of justification is not exclusive to the circumcised Jews but extends to the uncircumcised Gentiles as well, emphasizing that faith, not circumcision, is the basis for acceptance with God. Consequently, forgiveness, the non-imputation of sin, and the imputation of righteousness are all interconnected.",
+            "wordCount": 113,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.1723124915883147,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.57,
+            "commentatorTierSimilarities": [
+                41.39,
+                18.62,
+                39.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abraham's justification took place before his circumcision and was not dependent on that rite. The sign of circumcision was given as a seal, confirming the righteousness he already possessed by faith. This righteousness is not exclusive to the circumcised Jews but extends to the uncircumcised Gentiles as well, emphasizing that faith, not circumcision, is the basis for acceptance with God. Thus, forgiveness, the non-imputation of sin, and the imputation of righteousness are all interconnected, forming the core of justification.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1115876508700877,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.55,
+            "commentatorTierSimilarities": [
+                40.86,
+                16.66,
+                42.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham's justification was based on his faith, not on his circumcision. The sign of circumcision was given to Abraham as a token or seal, affirming the righteousness that he already possessed prior to being circumcised. This righteousness, obtained through faith, is not exclusive to the circumcised Jews but is extended to the uncircumcised Gentiles as well. The forgiveness of sins, the non-imputation of sin, and the imputation of righteousness all intertwine, showcasing the essential elements of justification.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.138308365001083,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.44,
+            "commentatorTierSimilarities": [
+                41.29,
+                16.02,
+                42.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

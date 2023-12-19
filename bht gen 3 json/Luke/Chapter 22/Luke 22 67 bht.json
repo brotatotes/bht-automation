@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:23:15",
+    "verseRef": "Luke 22:67",
+    "bestBHT": {
+        "bht": "If thou art the Christ, tell us, they demanded, insinuating doubt. The most natural and correct rendering of their words is in the margin, which emphasizes their conditional statement. Jesus knew their intentions, acknowledging that if He were to answer truthfully, they would not believe Him. Their unbelief was wilful, obstinate, and invincible, proof against all arguments and evidence.",
+        "wordCount": 59,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 1.5552086694312903,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+        "commentatorTierSimilarities": [
+            25.64,
+            35.09,
+            39.27
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If thou art (not if thou be) the Christ, tell us.",
+            "The rendering in the margin is the most natural and correct.",
+            "The others, 'Tell us whether thou be the Christ;' and, 'Art thou the Christ? tell us,' are forced and unusual renderings of the original."
+        ],
+        "Philip Schaff": [
+            "If as you claim, thou art the Christ, tell us all so, in plain words.",
+            "If I tell you, ye will not believe, i.e., you do not ask to know the truth, but to make me condemn myself."
+        ],
+        "Archibald T. Robertson": [
+            "If thou art the Christ (\u0395 \u03c3\u03c5 \u03b5 \u03bf \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2). The Messiah, they mean.",
+            "The condition is the first class, assuming it to be true.",
+            "Ye will not believe (\u03bf\u03c5 \u03bc\u03b7 \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c3\u03b7\u03c4\u03b5). Double negative with the aorist subjunctive, strongest possible negative."
+        ],
+        "John Gill": [
+            "Saying, art thou the Christ,.... The Messiah, promised and prophesied of by Moses, and all the prophets, and long expected by us: 'tell us'.\" ",
+            "And he said unto them, if I tell you, you will not believe.\" ",
+            "Their unbelief was wilful, obstinate, and invincible: they were proof against all arguments, evidence, and demonstration itself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If thou art the Christ, tell us, they demanded, insinuating doubt. Yet the most natural and correct rendering of their words is in the margin, which emphasizes their conditional statement. They were essentially saying, If you are truly the Messiah, then tell us plainly. Jesus knew their intentions, acknowledging that if He were to answer truthfully, they would not believe Him. Their unbelief was stubborn and resistant to any evidence or argument presented to them.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.4788511331587149,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.51,
+            "commentatorTierSimilarities": [
+                25.05,
+                36.22,
+                38.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If thou art the Christ, tell us, they demanded, insinuating doubt. Yet the most natural and correct rendering of their words is in the margin, which emphasizes their conditional statement. Jesus knew their intentions, acknowledging that if He were to answer truthfully, they would not believe Him. Their unbelief was wilful, obstinate, and invincible, proof against all arguments and evidence.",
+            "wordCount": 60,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.5287818720607604,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.17,
+            "commentatorTierSimilarities": [
+                25.13,
+                35.09,
+                39.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If thou art the Christ, tell us, they demanded, insinuating doubt. The most natural and correct rendering of their words is in the margin, which emphasizes their conditional statement. Jesus knew their intentions, acknowledging that if He were to answer truthfully, they would not believe Him. Their unbelief was wilful, obstinate, and invincible, proof against all arguments and evidence.",
+            "wordCount": 59,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.5552086694312903,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+            "commentatorTierSimilarities": [
+                25.64,
+                35.09,
+                39.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If thou art the Christ, tell us, they demanded, insinuating doubt. The most natural and correct rendering of their query is in the margin, remarking upon its conditional nature. Jesus recognized their intentions, realizing that if He were to respond truthfully, they would not place their faith in Him. Their unbelief was strong and impervious, resistant to any form of persuasion or evidence.",
+            "wordCount": 63,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.3830792223463715,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.33,
+            "commentatorTierSimilarities": [
+                28.5,
+                35.78,
+                35.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If thou art the Christ, tell us, they demanded, insinuating doubt. Yet the most natural and correct rendering of their words is in the margin, which emphasizes their conditional statement. Jesus knew their intentions, acknowledging that if He were to answer truthfully, they would not believe Him. Their unbelief was willful, obstinate, and invincible\u2014proof against all arguments, evidence, and demonstration itself.",
+            "wordCount": 62,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.4842245868672141,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.69,
+            "commentatorTierSimilarities": [
+                24.52,
+                36.09,
+                39.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

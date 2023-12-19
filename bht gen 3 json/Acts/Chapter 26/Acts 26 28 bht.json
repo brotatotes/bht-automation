@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:37:06",
+    "verseRef": "Acts 26:28",
+    "bestBHT": {
+        "bht": "Lightly (with small trouble) art thou persuading thyself that thou canst make me a Christian. Thou persuadest me with little effort to become a Christian: I am not so easily turned. The words of Agrippa in response to Paul's attempt to make him a witness on his side show his skepticism towards Christianity. The mention of the term 'Christian' here is not meant as a term of contempt, but rather highlights Agrippa's awareness of the despised sect. Agrippa's tone is ironic, yet not unpleasant, as he acknowledges Paul's attempt to persuade him.",
+        "wordCount": 96,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.2624230751863106,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.57,
+        "commentatorTierSimilarities": [
+            39.42,
+            37.06,
+            23.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Lightly (with small trouble) art thou persuading thyself that thou canst make me a Christian.",
+            "I am not so easily to be made a Christian of, as thou supposest.",
+            "I would therefore render the words thus: Lightly (with small trouble) art thou persuading thyself that thou canst make me a Christian: and understand them, in connexion with Paul\u2019s having attempted to make Agrippa a witness on his side."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thou thinkest to make me with little persuasion (or small trouble) a Christian\u2014but I am not to be so easily turned.",
+            "The objection on which so much stress is laid, that the word 'Christian' was at that time only a term of contempt, has no force except on the other side.",
+            "Thou wilt soon have me one of that despised sect."
+        ],
+        "Albert Barnes": [
+            "Almost - Except a very little - \u03b5\u0313\u03bd \u03bf\u0313\u03bb\u03b9\u0301\u03b3\u03c9\u0345 en oligo\u0304. Thou hast nearly convinced me that Christianity is true, and persuaded me to embrace it.",
+            "Thou persuadest me - Thou dost convince me of the truth of the Christian religion, and persuadest me to embrace it.",
+            "May the God of grace keep us from resting in being almost persuaded to be Christians! May every one who shall read this account of Agrippa be admonished by his convictions, and be alarmed by the fact that he then paused, and that his convictions there ended!"
+        ],
+        "Marvin Vincent": [
+            "In a little, thou persuadest.\" ",
+            "The words are ironical, and the sense is, 'You are trying to persuade me offhand to be a Christian.'",
+            "Thou persuadest is rather, thou art for persuading; thou attemptest to persuade; a force which both the present and the imperfect sometimes have."
+        ],
+        "John Calvin": [
+            "And surely it may be fitly referred unto the time, as if Agrippa had said, Thou wilt make me a Christian straightway, or in one moment.",
+            "For seeing the speech was doubtful, Paul doth fitly apply that unto the thing which was spoken of the time.",
+            "This answer doth testify with what zeal, to spread abroad the glory of Christ, this holy man\u2019s breast was inflamed."
+        ],
+        "Philip Schaff": [
+            "Almost thou persuadest me to be a Christian.",
+            "To him it was all terribly real. To him the Jewish sovereign was a soul just grasping with feeble uncertain hand the rope of safety which would save it from eternal death, but letting it slip through his weak nerveless fingers.",
+            "Moved already by the splendid eloquence and the weighty argument of Paul, the words of the apostle appealing to the king\u2019s known reverence for the words of the Hebrew prophets... elicited from Agrippa the memorable exclamation, \u2018Almost thou persuadest me to be a Christian,\u2019 thus publicly testifying his admiration for Paul, and his conviction of his innocence of the charges alleged against him."
+        ],
+        "Archibald T. Robertson": [
+            "Most likely the idea is 'in (or with) small effort you are trying to persuade (\u03c0\u03b5\u03b9\u03b8\u03b5\u03b9\u03c2, conative present active indicative) me in order to make me a Christian.'",
+            "The tone of Agrippa is ironical, but not unpleasant.",
+            "The use of 'Christian' is natural here as in the other two instances (Acts 11:26; 1 Peter 4:16)."
+        ],
+        "John Gill": [
+            "An almost Christian is one that has much light and knowledge, but no grace.",
+            "He may have a large notional knowledge of the doctrines of the Gospel, but has no experience of the power, sweetness, and comfort of them in his own soul.",
+            "He may express a great deal of flashy affectation to the word, and the ministers of it, for a while, but has nothing solid and substantial in him."
+        ],
+        "John Wesley": [
+            "Almost thou persuadest me to be a Christian!\" ",
+            "So near the mark, and yet fall short!",
+            "Another step, and thou art within the vail."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thou persuadest me with little effort to become a Christian, but I am not so easily convinced. The words of Agrippa in response to Paul's attempt to make him a witness on his side show his skepticism towards Christianity. The mention of the term 'Christian' here is not meant as a term of contempt, but rather highlights Agrippa's awareness of the despised sect. Agrippa's tone is ironic, yet not unpleasant, as he acknowledges Paul's attempt to persuade him. This interaction serves as a reminder for us to not be content with being almost persuaded but to fully embrace Christianity.",
+            "wordCount": 103,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.1595067256688925,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.14,
+            "commentatorTierSimilarities": [
+                35.38,
+                39.99,
+                24.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Lightly (with small trouble) art thou persuading thyself that thou canst make me a Christian. Thou persuadest me with little effort to become a Christian: I am not so easily turned. The words of Agrippa in response to Paul's attempt to make him a witness on his side show his skepticism towards Christianity. The mention of the term 'Christian' here is not meant as a term of contempt, but rather highlights Agrippa's awareness of the despised sect. Agrippa's tone is ironic, yet not unpleasant, as he acknowledges Paul's attempt to persuade him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2624230751863106,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.57,
+            "commentatorTierSimilarities": [
+                39.42,
+                37.06,
+                23.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thou persuadest me with little effort to become a Christian, but I am not so easily convinced. The words of Agrippa in response to Paul's attempt to make him a witness on his side show his skepticism towards Christianity. The mention of the term 'Christian' here is not meant as a term of contempt, but rather highlights Agrippa's awareness of the despised sect. Agrippa's tone is ironic, yet not unpleasant, as he acknowledges Paul's attempt to persuade him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.1780778866659567,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.76,
+            "commentatorTierSimilarities": [
+                36.75,
+                38.57,
+                24.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Agrippa's response to Paul's attempt to make him a Christian shows his skepticism. He sarcastically remarks that Paul lightly persuades himself that he can easily convert him. Agrippa recognizes the term Christian and the meaning it carries with it. It is not a term of contempt, but rather emphasizes his awareness of the despised sect. His tone is ironic but not unpleasant, acknowledging Paul's efforts to persuade him. This interaction serves as a reminder not to settle for being almost persuaded, but to fully embrace Christianity.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.8924647412063473,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                34.92,
+                37.97,
+                27.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Agrippa's sarcastic response to Paul's attempt to make him a Christian indicates his skepticism. He ironically remarks that Paul lightly persuades himself he can easily convert him. Agrippa acknowledges the term Christian and its connotations without contempt. His tone is ironic but not unpleasant, showing his awareness of the despised sect. This interchange prompts us not to settle for being almost persuaded, but to fully embrace Christianity's teachings and transform our lives in accordance with them.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9012793230285117,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.56,
+            "commentatorTierSimilarities": [
+                35.79,
+                36.75,
+                27.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

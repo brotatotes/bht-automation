@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:14:22",
+    "verseRef": "1 Corinthians 15:38",
+    "bestBHT": {
+        "bht": "God, in His sovereign will, can give each seed its own body and specific development, reflecting the form that is distinct to its species. He will provide the blessed with suitable resurrection bodies at the time of resurrection, designed according to His pleasure and their glorified state. This is similar to how God established different types of grain at creation, ensuring that each maintains its distinctive identity. Just as the vegetable world exhibits remarkable variety, so God can bestow upon the resurrected a body peculiar to the individual yet consistent with its nature.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 2.3729858390219793,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.24,
+        "commentatorTierSimilarities": [
+            28.55,
+            40.04,
+            31.41
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the past tense setting forth the one act of the divine Will giving to the particular seed the particular development at first, which the species retains",
+            "But the whole gift to the species being God\u2019s, to continue or withhold, the present tense, giveth, still holds good.",
+            "why should it be thought necessary that the same body should rise as was sown, or that God cannot give to each a resurrection-body, as in nature?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God can and will give to the blessed at the resurrection their own appropriate body, such as it pleases Him, and such as is suitable to their glorified state.",
+            "a body peculiar to the individual, substantially the same as the body sown.",
+            "a body of its own... suited to its species."
+        ],
+        "Albert Barnes": [
+            "There is no chance, and it did not depend on the nature of things, but was dependent on the wise arrangement of God.",
+            "There is nothing in the decaying body of the dead which in itself should lead to the resurrection; but God chose it should be so.",
+            "Everyone shall have his own, that is, his proper body - a body which shall belong to him, and be suited to him."
+        ],
+        "Marvin Vincent": [
+            "even as He willed; at the creation, when He fixed the different types of grain, so that each should permanently assume a form according to its distinctive type - a body of its own.",
+            "that wheat should always be wheat, barley barley, etc.",
+            "Compare Genesis 1:11, Genesis 1:12."
+        ],
+        "Philip Schaff": [
+            "but God giveth it a body even as it hath pleased him at its original creation, and to each seed a body of its own.\" ",
+            "In the vegetable world the Creator has shown inexhaustible resources in point of variety; how easy then to give to the body at its resurrection other properties than those of its mortal state, without destroying its essential identity?"
+        ],
+        "Archibald T. Robertson": [
+            "A body of its own (\u03b9\u03b4\u03b9\u03bf\u03bd \u03c3\u03c9\u03bc\u03b1). Even under the microscope the life cells or germ plasm may seem almost identical, but the plant is quite distinct.\" ",
+            "On \u03c3\u03c0\u03b5\u03c1\u03bc\u03b1, seed, old word from \u03c3\u03c0\u03b5\u03b9\u03c1\u03c9, to sow, see on Matthew 13:24."
+        ],
+        "John Gill": [
+            "It is not the husbandman, nor the sun, nor the rain, that give the grain of wheat, or any other, its verdure and beauty, the form in which it springs up, its stalk, blade, and ear, but God by his own power, and of his sovereign will and pleasure.",
+            "The resurrection of the dead is God's work; it is an instance of his power, and of his sovereign will; and is to his people a branch of that eternal life, which is his pure gift through Jesus Christ.",
+            "If it is not a resurrection of the same body, but new ones are created, to which the soul will be united, it will not be a resurrection, but a transmigration of souls into other bodies; but as every seed has its own body, so will every soul have its own body, though greatly different as to its qualities, and much improved for the better."
+        ],
+        "John Wesley": [
+            "But God \u2014 Not thou, O man, not the grain itself, giveth it a body as it hath pleased him...\" ",
+            "...to each of the seeds, not only of the fruits, but animals also, its own body...\" ",
+            "...proper to that individual, and arising out of the substance of that very grain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, in His sovereign will, has the power to give each seed a specific development and a body suitable to its species. He can and will give the blessed at the resurrection their own unique body, crafted according to His pleasure and their glorified state. Just as God determined the different types of grain at creation, so each seed permanently assumes a form according to its own distinctive type, always remaining true to itself. This concept is exemplified by the variety seen in the vegetable world, where the Creator demonstrates inexhaustible resources. Therefore, it should not be deemed necessary for the same body to rise as was sown; God is capable of creating a resurrection-body for each individual, substantially the same as the body sown, but suited to its own species.",
+            "wordCount": 132,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 2.2838465029404635,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.28,
+            "commentatorTierSimilarities": [
+                28.63,
+                40.42,
+                30.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God, in His sovereign will, can give each seed its own body and specific development, reflecting the form that is distinct to its species. He will provide the blessed with suitable resurrection bodies at the time of resurrection, designed according to His pleasure and their glorified state. This is similar to how God established different types of grain at creation, ensuring that each maintains its distinctive identity. Just as the vegetable world exhibits remarkable variety, so God can bestow upon the resurrected a body peculiar to the individual yet consistent with its nature.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.3729858390219793,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.24,
+            "commentatorTierSimilarities": [
+                28.55,
+                40.04,
+                31.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God, in His sovereign will, bestows upon each seed a particular development and a body of its own, in accordance with its distinctive type. This holds true for the resurrection as well, where God can and will grant the blessed their own appropriate body, suited to their glorified state. The variety found in creation, such as different types of grain, attests to God's ability to create distinct yet suitable forms. Thus, the concept of each soul having its own body, though greatly improved, aligns with the nature of God's design.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2463653091314524,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.03,
+            "commentatorTierSimilarities": [
+                28.41,
+                40.89,
+                30.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, by His own power and sovereign will, grants each seed a unique development and a body suited to its species. In the same way, He will provide the blessed with their own resurrection-body, crafted according to His pleasure and their glorified state. This parallels how God established different types of grain at creation, ensuring that each retains its distinctive form. Just as the Creator demonstrates inexhaustible variety in the vegetable world, He can create resurrection bodies that are unique to each individual yet true to their essential identity.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.2366716114683407,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.71,
+            "commentatorTierSimilarities": [
+                27.81,
+                39.99,
+                32.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Each seed is given a specific development and a body suited to its own species by God's sovereign will. Similarly, God will provide the blessed with their own resurrection-body, pleasing to Him and suitable to their glorified state. Just as God predetermined the different types of grain at creation, the resurrection-body will be distinct to each individual, yet a continuation of their original body. These resurrection-bodies will reflect the wisdom and design of God, allowing for a diverse yet purposeful resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.1545092169472464,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.98,
+            "commentatorTierSimilarities": [
+                29.19,
+                39.33,
+                31.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

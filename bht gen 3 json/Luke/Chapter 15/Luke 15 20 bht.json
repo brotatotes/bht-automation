@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:20:35",
+    "verseRef": "Luke 15:20",
+    "bestBHT": {
+        "bht": "When the prodigal son made the decision to return home, he immediately acted on it, mirroring the proper course of a genuine change of heart. As he turned towards home, still far away, his father, eagerly waiting, recognized him as his own child and rushed to meet him. This touching depiction of the father's love resonates with the words of Jeremiah, James, and Genesis, underscoring the expectation of our Heavenly Father for the repentant sinner. The father's eager look and longing reveal the hidden depths of God's boundless grace.",
+        "wordCount": 92,
+        "quoteTokenProportion": 30.3,
+        "qualityScore": 1.9899521294806743,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+        "commentatorTierSimilarities": [
+            24.08,
+            46.29,
+            29.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What he has resolved, he does: a figure not of the usual, but of the proper course of such a state of mind.",
+            "Who can say whether this itself was not a seeking? whether his courage would have held out to the meeting?",
+            "On what follows, see especially Jer. iii. 12; James iv. 8; Gen. xlvi. 29; 2 Sam. xiv. 33."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "when but the face is turned homeward, though as yet far, far away, our Father recognizes His own child in us, and bounds to meet us",
+            "our Father who art in heaven,\" is this Thy portraiture? It is even so",
+            "And because it is so, I wonder not that such incomparable teaching hath made the world new."
+        ],
+        "Albert Barnes": [
+            "He did not 'run,' but came driven by his wants, and, as we may suppose, filled with shame, and even with some doubts whether his father would receive him.",
+            "The beauty of the picture is greatly heightened by these circumstances. The son came slowly - the father 'ran.' The love and joy of the old man were so great that he hastened to meet him and welcome him to his home.",
+            "In this verse of inimitable beauty is contained the point of the parable, which was uttered by the Saviour to vindicate 'his own conduct' in receiving sinners kindly. Who could 'blame' this father for thus receiving his repenting son?"
+        ],
+        "Marvin Vincent": [
+            "An affecting touch in the Greek: his own father.",
+            "Who draws near to me (God) an inch, I will draw near to him an ell; and whoso walks to meet me, I will leap to meet him.",
+            "See on Matthew 26:49."
+        ],
+        "John Calvin": [
+            "If men, who are by nature prone to revenge, and too tenacious of their own rights, are moved by fatherly love kindly to forgive their children, and freely to bring them back, when they are sunk in wretchedness, God, whose boundless goodness exceeds all the affection of parents, will not treat us more harshly.",
+            "As this father, therefore, is not merely pacified by the entreaties of his son, but meets him when he is coming, and before he has heard a word, embraces him, filthy and ugly as he is, so God does not wait for a long prayer, but of his own free will meets the sinner as soon as he proposes to confess his fault.",
+            "It is wretched sophistry to infer from this, that the grace of God is not exhibited to sinners until they anticipate it by their repentance. It is, no doubt, true that, in order to his obtaining pardon, the sinner is required to have grief of conscience, and to be dissatisfied with himself; but it is wrong to infer from this, that repentance, which is the gift of God, is yielded by men from their own movement of their heart."
+        ],
+        "Philip Schaff": [
+            "The father seems to have expected him; God certainly expects the penitent sinner.",
+            "The father\u2019s conduct is itself a seeking of the lost son. God is waiting to be gracious; He comes to meet us in His mercy; He manifests it before our penitent utterances.",
+            "The token and seal of love. \u2018The Saviour and mediator is concealed in the kiss\u2019 (Riggenbach)."
+        ],
+        "Archibald T. Robertson": [
+            "He acted at once on his decision.",
+            "This shows that the father had been looking for him to come back and was even looking at this very moment as he came in sight.",
+            "The eager look and longing of the father."
+        ],
+        "John Gill": [
+            "He did not confer with flesh and blood; nor listen to discouragements which might present.",
+            "This coming to him denotes a progression towards him; for as yet he was not come to him, but was at some distance.",
+            "And fell on his neck; expressive of the strength of his affection to him, and of his great condescension and grace."
+        ],
+        "John Wesley": [
+            "The moment he had resolved, he began to execute his resolution.",
+            "Returning, starved, naked.",
+            "While he was yet a great way off, his father saw him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the prodigal son decided to return home, he followed through with his resolve, reflecting the typical course of a sincere change of heart. Though unsure if his father would accept him, the son slowly made his way back, where his father eagerly awaited him, recognizing his child from afar and bounding towards him. This display of unconditional love and longing is seen in both the father's immediate action and the emphasis on his own father. The father's hasty response is a beautiful symbol of God's grace, exemplifying His willingness to meet us, His children, in our brokenness. The parable's profound teaching has the power to transform lives, a testament to the portrait of our Heavenly Father that it portrays.",
+            "wordCount": 124,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9663300263756596,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                24.74,
+                46.48,
+                28.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the prodigal son made the decision to return home, he immediately acted on it, mirroring the proper course of a genuine change of heart. As he turned towards home, still far away, his father, eagerly waiting, recognized him as his own child and rushed to meet him. This touching depiction of the father's love resonates with the words of Jeremiah, James, and Genesis, underscoring the expectation of our Heavenly Father for the repentant sinner. The father's eager look and longing reveal the hidden depths of God's boundless grace.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.9899521294806743,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+            "commentatorTierSimilarities": [
+                24.08,
+                46.29,
+                29.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the prodigal son determined to return home, he promptly put his decision into action, reminiscent of the right path for a genuine change of heart. Even when the son was still far off, the father, in anticipation, recognized his own child in him and leapt to meet him with open arms. This powerful image reflects the heavenly Father's characteristics, as seen in the Lord's Prayer, and the transformative teaching of this parable has the ability to renew the world. The father's longing gaze and earnestness exemplify the depth of his affection.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9043255861503536,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "commentatorTierSimilarities": [
+                25.87,
+                44.34,
+                29.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the prodigal son resolved to return home, he immediately acted on his decision, following the natural course of a repentant heart. Though still far away, his father, awaiting his return, recognized his own child in him and eagerly rushed to meet him. This poignant scene highlights the profound love and mercy of our heavenly Father. The parable's powerful message, drawing from Jeremiah, James, Genesis, and other scriptures, offers a transformative understanding of the character and grace of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.7860564597299238,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.73,
+            "commentatorTierSimilarities": [
+                24.72,
+                44.56,
+                30.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even from a great distance, when the prodigal son turned his face homeward, his father, ever watchful, instantly recognized his own child and joyfully ran to meet him. The father's actions beautifully depict the mercy and love of our Heavenly Father, who graciously receives repentant sinners with open arms. This heartwarming scene, influenced by passages from Jeremiah, James, and Genesis, reveals the eagerness of God to reconcile with His lost children. The transformative power of this parable reflects the extraordinary teachings of Christ, making our world anew.",
+            "wordCount": 88,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.8234640198742773,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                21.96,
+                49.72,
+                28.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

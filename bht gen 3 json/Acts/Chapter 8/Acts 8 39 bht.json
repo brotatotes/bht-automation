@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:28:38",
+    "verseRef": "Acts 8:39",
+    "bestBHT": {
+        "bht": "After being baptized by Philip, the Ethiopian eunuch experienced a transformative encounter with Christ. Overwhelmed with joy and a newfound understanding of Scripture, he rejoiced as he continued on his journey. The sudden disappearance of Philip only solidified the eunuch's belief that his encounter was divinely ordained. Just as the Spirit of the Lord swiftly carried Philip away, the eunuch was carried away by a sense of liberation and spiritual fulfillment. This miraculous event served as a confirmation that his encounter with Philip and his newfound faith were truly from God (59 words, 56%).",
+        "wordCount": 93,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 2.0786253464701874,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+        "commentatorTierSimilarities": [
+            25.09,
+            42.01,
+            32.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "saw him no more... after the going up of Elijah. These last words in my view decide the question, that the departure of Philip was miraculous.\" ",
+            "This refers to what follows:\u2014Philip was found at Azotus: if the eunuch had gone that way, he might have met with him again: but he did not, for he went from the fountain on his own way, which did not lead through Azotus.\" ",
+            "The Greek has plainly, and the eunuch saw him no more, for he went on his way rejoicing: and there is no variety of reading."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To deny the miraculous nature of Philip's disappearance, is vain.",
+            "He had found Christ, and the key to the Scriptures; his soul was set free, and his discipleship sealed.",
+            "He felt himself a new man, and 'his joy was full.'"
+        ],
+        "Albert Barnes": [
+            "He had been deeply interested in the case. He would have found pleasure in continuing the journey with him. But the strong convictions of duty urged by the Holy Spirit impelled him, as it were, to break off this new and interesting acquaintanceship, and to go to some other place.\" ",
+            "His mind was enlightened on a perplexing passage of Scripture. He was satisfied respecting the Messiah. He was baptized; and he experienced what all feel who embrace the Saviour and are baptized - joy.",
+            "If we wish happiness if we would avoid clouds and gloom, we should do our duty at once. [...] If we find peace, it will be in doing promptly just what God requires at our hands."
+        ],
+        "Marvin Vincent": [
+            "Caught away. Suddenly and miraculously.",
+            "And he went, etc. [\u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u03b5\u03c4\u03bf \u03b3\u03b1\u03c1] . A mistranslation. Rev., rightly, 'for he went.'",
+            "He did not stop nor take another road to seek him, but went on his way."
+        ],
+        "John Calvin": [
+            "Whereas Philip had no reward at the eunuch\u2019s hand, let the servants of Christ learn hereby to serve him freely, or rather let them so serve men for nothing that they hope for a reward from heaven.",
+            "Faith and the knowledge of God bring forth this fruit always of themselves. For what truer matter of joy can be invented than when the Lord doth not only set open unto us the treasures of his mercy, but poureth out his heart into us...",
+            "Therefore it is a solemn thing amongst the prophets to exhort us to be joyful and to triumph, so often as they are about to speak of the kingdom of Christ. But because those men whose minds are possessed with the vain joys of the world, cannot lift up themselves unto this spiritual joy, let us learn to despise the world and all vain delights thereof, that Christ may make us merry indeed."
+        ],
+        "Philip Schaff": [
+            "The Spirit of the Lord caught away Philip.",
+            "The sudden disappearance of Philip seemed to the Ethiopian eunuch a miraculous assurance that the message and instruction he had received was indeed from heaven, and thus strengthened, went on his way rejoicing.",
+            "There is a tradition that this minister of Candace, whose name was Judich, preached the Gospel on his return to Ethiopia with great success, and that his royal mistress was among his converts."
+        ],
+        "Archibald T. Robertson": [
+            "Not from the edge of the water, but up out of the water as in Mark 1:10.",
+            "Suddenly and miraculously, for \u03b1\u03c1\u03c0\u03b1\u03b6\u03c9, like the Latin rapio, means to carry off.",
+            "Kept on going, imperfect active."
+        ],
+        "John Gill": [
+            "Which is another circumstance, showing that baptism was then performed by immersion.",
+            "And this sudden rapture and disappearance might be a confirmation to the eunuch that this whole affair was of God.",
+            "He had great reason to rejoice; being blessed with the saving knowledge of Christ, and true faith in the Son of God, and admitted to the holy ordinance of baptism."
+        ],
+        "John Wesley": [
+            "The Spirit of the Lord caught away Philip \u2014 Carried him away with a miraculous swiftness...",
+            "Carried him away with a miraculous swiftness, without any action or labour of his own.",
+            "This had befallen several of the prophets."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After being baptized by Philip, the Ethiopian eunuch experienced a transformative encounter with Christ. Overwhelmed with joy and a newfound understanding of Scripture, he rejoiced as he continued on his journey. The sudden disappearance of Philip only solidified the eunuch's belief that his encounter was divinely ordained. Just as the Spirit of the Lord swiftly carried Philip away, the eunuch was carried away by a sense of liberation and spiritual fulfillment. This miraculous event served as a confirmation that his encounter with Philip and his newfound faith were truly from God. Through this story, we are reminded of the joy and fulfillment that comes from embracing the teachings of Christ and faithfully following His commandments.",
+            "wordCount": 116,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 2.0469131375050758,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.4,
+            "commentatorTierSimilarities": [
+                23.83,
+                42.45,
+                33.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Baptized by Philip, the Ethiopian eunuch experienced a transformative encounter with Christ. Overwhelmed with newfound joy and understanding of Scripture, he rejoiced on his journey. The sudden disappearance of Philip confirmed the divine nature of his encounter. Like Philip, the eunuch was swiftly carried away by a sense of liberation and spiritual fulfillment. This miraculous event validated the authenticity of his newfound faith. Through this story, we are reminded of the joy and fulfillment that come from embracing Christ's teachings and faithfully following Him (51 words, 58%).",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.9276476174637072,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                25.22,
+                40.66,
+                34.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After being baptized by Philip, the Ethiopian eunuch experienced a transformative encounter with Christ. Overwhelmed with joy and a newfound understanding of Scripture, he rejoiced as he continued on his journey. The sudden disappearance of Philip only solidified the eunuch's belief that his encounter was divinely ordained. Just as the Spirit of the Lord swiftly carried Philip away, the eunuch was carried away by a sense of liberation and spiritual fulfillment. This miraculous event served as a confirmation that his encounter with Philip and his newfound faith were truly from God (59 words, 56%).",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.0786253464701874,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+            "commentatorTierSimilarities": [
+                25.09,
+                42.01,
+                32.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After being baptized by Philip, the Ethiopian eunuch experienced a transformative encounter with Christ. Overwhelmed with joy and understanding of Scripture, he rejoiced as he continued on his journey. The sudden disappearance of Philip solidified the eunuch's belief that his encounter was divinely ordained. Like the Spirit of the Lord swiftly carrying Philip away, the eunuch was carried away by a sense of liberation and spiritual fulfillment. This confirmed the authenticity of his newfound faith. Through this story, we are reminded of the joy that comes from embracing Christ's teachings and faithfully following Him (61 words, 51%).",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.9647726860581263,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                24.8,
+                41.52,
+                33.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Ethiopian eunuch, after being baptized by Philip, experienced a transformative encounter with Christ. Overwhelmed with joy and a newfound understanding of Scripture, he rejoiced on his journey. The abrupt disappearance of Philip served as a divine confirmation of his encounter. Just as the Spirit of the Lord swiftly carried Philip away, the eunuch was swept away by a sense of liberation and spiritual fulfillment. This miraculous event validated his new faith. Through this story, we are reminded of the joy and fulfillment that come from embracing Christ's teachings (62 words, 71%).",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9221106987095147,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+            "commentatorTierSimilarities": [
+                24.72,
+                41.01,
+                34.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

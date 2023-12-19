@@ -1,0 +1,104 @@
+{
+    "timestamp": "12-19-2023 16:14:27",
+    "verseRef": "Luke 3:29",
+    "bestBHT": {
+        "bht": "In Luke's meticulous account, the inclusion of individuals like Melea and Menna highlights the humanity of Jesus and emphasizes his role as the Savior for all people. These seemingly insignificant details serve as a reminder of the rich tapestry of Jesus' ancestors and provide a glimpse into the genealogy and historical context that Luke carefully documented. This attention to detail showcases the meticulousness of Luke's gospel, ensuring an accurate record of Jesus' lineage.",
+        "wordCount": 75,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 0.3376025479090841,
+        "qualityScoreNormalizedComparedToV2BHTs": 2.57,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            ":-"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in Luke 3:29 may seem unremarkable at first glance, but scholars have pointed out that it serves as a reminder of the genealogy and historical context of Jesus. The inclusion of individuals like Melea and Menna, who are otherwise unknown, highlights the meticulous nature of Luke's account and his commitment to providing an accurate record of Jesus' lineage. Through seemingly insignificant details, Luke emphasizes the humanity and relatability of Jesus, connecting him to a rich tapestry of ancestors and emphasizing his role as the Savior for all people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 0.3764393449875346,
+            "qualityScoreNormalizedComparedToV2BHTs": 3.86,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Luke 3:29, the inclusion of seemingly unknown individuals like Melea and Menna underscores the meticulous nature of Luke's genealogical account of Jesus. By incorporating these seemingly insignificant details, Luke emphasizes the humanity and relatability of Jesus, emphasizing his role as the Savior for all people. This verse serves as a reminder of the rich tapestry of ancestors connected to Jesus, highlighting the historical context and the meticulous accuracy of Luke's gospel.",
+            "wordCount": 73,
+            "quoteTokenProportion": 26.0,
+            "qualityScore": 0.37534161617881373,
+            "qualityScoreNormalizedComparedToV2BHTs": 3.83,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The inclusion of individuals like Melea and Menna highlights the meticulous nature of Luke's account and his commitment to an accurate record of Jesus' lineage. Through seemingly insignificant details, Luke emphasizes the humanity and relatability of Jesus, connecting him to a rich tapestry of ancestors and emphasizing his role as the Savior for all people. This verse serves as a reminder of the genealogy and historical context of Jesus, showcasing Luke's meticulousness in providing an accurate record of Jesus' ancestry.",
+            "wordCount": 82,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 0.2878435076328746,
+            "qualityScoreNormalizedComparedToV2BHTs": 0.92,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Luke's meticulous account, the inclusion of individuals like Melea and Menna highlights the humanity and relatability of Jesus. It serves as a reminder of the rich tapestry of Jesus' ancestors, emphasizing his role as the Savior for all people. These seemingly insignificant details are a testament to Luke's commitment to accuracy, as he connects Jesus to a genealogy and historical context that showcases the meticulousness of his gospel.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 0.3365875155779353,
+            "qualityScoreNormalizedComparedToV2BHTs": 2.54,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Luke's meticulous account, the inclusion of individuals like Melea and Menna highlights the humanity of Jesus and emphasizes his role as the Savior for all people. These seemingly insignificant details serve as a reminder of the rich tapestry of Jesus' ancestors and provide a glimpse into the genealogy and historical context that Luke carefully documented. This attention to detail showcases the meticulousness of Luke's gospel, ensuring an accurate record of Jesus' lineage.",
+            "wordCount": 75,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 0.3376025479090841,
+            "qualityScoreNormalizedComparedToV2BHTs": 2.57,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

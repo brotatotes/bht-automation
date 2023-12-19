@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:14:31",
+    "verseRef": "Luke 3:22",
+    "bestBHT": {
+        "bht": "In a visible display of God's power, the Holy Ghost appears in a bodily shape, affirming the deity of Christ. This profound event likely deepened Jesus' understanding of his Messianic purpose. The descent of the Holy Ghost with the voice of the Father declaring Jesus as His beloved Son serves as a notable confirmation of Christ's identity. This remarkable manifestation highlights the significance of Jesus' divine nature and purpose in the Synoptic Gospels.",
+        "wordCount": 75,
+        "quoteTokenProportion": 18.75,
+        "qualityScore": 1.5344482387295395,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+        "commentatorTierSimilarities": [
+            38.43,
+            21.07,
+            40.5
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The Holy Ghost.",
+            "In a bodily shape.",
+            "Thou art my beloved son."
+        ],
+        "Philip Schaff": [
+            "Luke 3:22. In a bodily form. This must be taken literally, especially in an exact historical account like that before us. See Matthew 3:16.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "God manifests his power as he will.",
+            "This fresh influx of the Holy Spirit may have deepened the Messianic consciousness of Jesus.",
+            "The deity of Christ here appears in plain form in the Synoptic Gospels."
+        ],
+        "John Gill": [
+            "And the Holy Ghost descended in a bodily shape,.... In a corporeal form, in a visible manner, and was seen with bodily eyes, at least by John the administrator; to whom this was a signal of his being the Messiah, and a fresh confirmation of it.",
+            "and a voice came from heaven; at the same time the Holy Ghost came down upon him; which said, thou art my beloved Son, in thee I am well pleased: and was the voice of the Father.",
+            "and the whole of this was an answer of Christ's prayer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 3:22, the Holy Ghost appears in a bodily shape as a visible manifestation of God's power. This powerful event may have played a role in deepening Jesus' understanding of his Messianic purpose. This verse makes it clear that Christ's deity is revealed plainly in the Synoptic Gospels, highlighting the divine nature of Jesus. The descent of the Holy Ghost in a bodily form and the voice of the Father affirming Jesus as His beloved Son further confirm Jesus' identity as the Messiah.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.6397976469424511,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.87,
+            "commentatorTierSimilarities": [
+                36.94,
+                23.31,
+                39.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Holy Ghost appears in a bodily shape, visibly manifesting God's power. This event may have deepened Jesus' Messianic consciousness and reinforces his divine nature. The descent of the Holy Ghost in a visible form, accompanied by the voice of the Father, affirms Jesus as the beloved Son of God. This event serves as a confirmation of Christ's identity and purpose.",
+            "wordCount": 63,
+            "quoteTokenProportion": 25.58,
+            "qualityScore": 1.454497912302446,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.7,
+            "commentatorTierSimilarities": [
+                41.26,
+                13.91,
+                44.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a powerful display of God's divine presence, the Holy Ghost is seen in a bodily shape, conveying a visible manifestation of His power. This remarkable event likely contributed to Jesus' enhanced awareness of his Messianic role. The Synoptic Gospels emphasize the clear revelation of Christ's divine nature, as this verse unveils His deity. The descent of the Holy Ghost, accompanied by the Father's voice affirming Jesus as His beloved Son, serves as a significant confirmation and manifestation of Christ's identity and purpose.",
+            "wordCount": 87,
+            "quoteTokenProportion": 19.3,
+            "qualityScore": 1.4715869120556315,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.27,
+            "commentatorTierSimilarities": [
+                39.25,
+                17.82,
+                42.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a visible display of God's power, the Holy Ghost appears in a bodily shape, affirming the deity of Christ. This profound event likely deepened Jesus' understanding of his Messianic purpose. The descent of the Holy Ghost with the voice of the Father declaring Jesus as His beloved Son serves as a notable confirmation of Christ's identity. This remarkable manifestation highlights the significance of Jesus' divine nature and purpose in the Synoptic Gospels.",
+            "wordCount": 75,
+            "quoteTokenProportion": 18.75,
+            "qualityScore": 1.5344482387295395,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "commentatorTierSimilarities": [
+                38.43,
+                21.07,
+                40.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a remarkable display of God's power, the Holy Ghost is seen in a bodily shape, demonstrating His presence in a visible manner. This event may have further deepened Jesus' understanding of his Messianic mission. The Synoptic Gospels clearly emphasize the revelation of Christ's divine nature, as witnessed in this passage. The descent of the Holy Ghost, accompanied by the voice of the Father affirming Jesus as His beloved Son, serves as a significant confirmation and manifestation of Christ's identity and purpose.",
+            "wordCount": 85,
+            "quoteTokenProportion": 23.21,
+            "qualityScore": 1.4904411697224604,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.9,
+            "commentatorTierSimilarities": [
+                37.54,
+                20.39,
+                42.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

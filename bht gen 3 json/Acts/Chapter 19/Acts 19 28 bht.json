@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:33:57",
+    "verseRef": "Acts 19:28",
+    "bestBHT": {
+        "bht": "The incident in this account highlights the misplaced idolatry and extreme measures people will take to protect their religious symbols. The crowd in Ephesus fervently cried out, Great is Diana of the Ephesians, displaying their strong allegiance to the temple and goddess. Their continuous outcry during their orgiastic rites was not a logical argument, but rather an intense expression of devotion. This zeal was fueled by their financial interests, as they sought to maintain their employment and secure their personal gains. The ancient and revered temple of Diana represented an important aspect of their worship and identity.",
+        "wordCount": 97,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.5780678697523502,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.81,
+        "commentatorTierSimilarities": [
+            32.13,
+            33.27,
+            34.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Great is Diana of the Ephesians\u2014the civic cry of a populace so proud of their temple.",
+            "they refused to inscribe on it the name of Alexander the Great, though he offered them the whole spoil of his Eastern campaign if they would do it.",
+            "a vivid example of misplaced idolatry and the lengths people will go to protect their religious symbols."
+        ],
+        "Albert Barnes": [
+            "Great is Diana ... - The term 'great' was often applied by the Greeks to Diana.",
+            "The design of this clamor was doubtless to produce a persecution against Paul, and thus to secure a continuance of their employment.",
+            "We may learn, also, that when people\u2019s pecuniary interests are affected, they often show great zeal for religion, and expect by clamor in behalf of some doctrine to maintain their own interest, and to secure their own gains."
+        ],
+        "Marvin Vincent": [
+            "Cried out [\u03b5\u03ba\u03c1\u03b1\u03b6\u03bf\u03bd] . The imperfect is graphic; they continued crying. This reiteration was a characteristic of the oriental orgiastic rites."
+        ],
+        "Philip Schaff": [
+            "Great' (\u03bc\u03b5\u03b3\u03b1 \u0301 \u03bb\u03b7) was a special title belonging to the Ephesian Artemis.",
+            "The 'idol' itself shrined in the magnificent temple, to which all this strange homage was paid during so many centuries, was very different to the fair form of the huntress Diana with which we are so familiar in Grecian art.",
+            "Black with age, the venerated image was more like a Hindoo than a Greek idol."
+        ],
+        "Archibald T. Robertson": [
+            "They were filled with wrath... Having become full of wrath.",
+            "Cried out... began to cry out and kept it up continuously.",
+            "Great is Artemis of the Ephesians... This was the usual cry of the votaries in their orgies as the inscriptions show, an ejaculatory outcry or prayer instead of an argument."
+        ],
+        "John Gill": [
+            "Diana is sometimes girt about on high as an huntress, and the Ephesian Diana is 'mammis multis uberibus extructa.'",
+            "The temple was a sort of an asylum, as Heathen temples commonly were; and it had this particular privilege, that those that fled to it were freed from servitude.",
+            "This goddess is called 'great', agreeably to her name, for, \u05d3\u05d9\u05e0\u05d0, 'Diana', signifies 'great' and venerable; because of her birth, being the daughter of Jupiter; and because of her great service, she was supposed to be of in assisting at births; and because of her magnificent temple and worship; and because she was worshipped by great persons."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The incident in Acts 19:28 provides a vivid example of misplaced idolatry and the lengths people will go to protect their religious symbols. The crowd in Ephesus cried out, Great is Diana of the Ephesians, loudly and continuously, showing their pride in the temple and their devotion to the goddess. This outcry was not merely an argument, but rather an ejaculatory outcry or prayer, as commonly seen in their orgiastic rites. The people's fervor stemmed from their pecuniary interests, as they sought to maintain their employment and secure their gains. The temple of Diana, black with age and revered for centuries, held a special place in their hearts. This incident highlights the danger of misplaced priorities and the influence of material interests in religious matters.",
+            "wordCount": 125,
+            "quoteTokenProportion": 28.4,
+            "qualityScore": 1.4610761672605028,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+            "commentatorTierSimilarities": [
+                32.56,
+                34.39,
+                33.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The incident in this passage serves as a striking example of misplaced idolatry and the fierce commitment people have in protecting their religious symbols. The crowd in Ephesus passionately cried out, Great is Diana of the Ephesians, stating their deep devotion to the temple and the goddess. This continuous outcry reflected their orgiastic rites, emphasizing their fervent prayers rather than rational arguments. The people's zealousness was driven by their desire to safeguard their monetary interests and preserve the revered ancient temple dedicated to Diana. This story serves as a cautionary reminder about the potential dangers of prioritizing material gain and misplaced spiritual focus.",
+            "wordCount": 104,
+            "quoteTokenProportion": 23.29,
+            "qualityScore": 1.579327696558573,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+            "commentatorTierSimilarities": [
+                33.33,
+                30.78,
+                35.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The incident in this account highlights the misplaced idolatry and extreme measures people will take to protect their religious symbols. The crowd in Ephesus fervently cried out, Great is Diana of the Ephesians, displaying their strong allegiance to the temple and goddess. Their continuous outcry during their orgiastic rites was not a logical argument, but rather an intense expression of devotion. This zeal was fueled by their financial interests, as they sought to maintain their employment and secure their personal gains. The ancient and revered temple of Diana represented an important aspect of their worship and identity.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.5780678697523502,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.81,
+            "commentatorTierSimilarities": [
+                32.13,
+                33.27,
+                34.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The incident in Acts 19:28 serves as a powerful example of misplaced idolatry and the lengths individuals will go to protect their religious symbols. The people in Ephesus passionately cried out, Great is Diana of the Ephesians, showcasing their immense pride in the temple. Their continuous and emphatic outcry during orgiastic rites demonstrated their deep devotion. This fervor was driven by their pecuniary interests, as they aimed to safeguard their employment and secure their gains. The ancient and venerated temple of Diana held a special place in their worship and reverence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.5539261345202502,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.01,
+            "commentatorTierSimilarities": [
+                32.88,
+                33.78,
+                33.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The incident portrayed in this account exemplifies the extent of misplaced idolatry and the zealous measures people are willing to take to protect their religious symbols. The crowd in Ephesus cried out with fervor, declaring, Great is Diana of the Ephesians, as an expression of their immense pride for the temple. Their impassioned and continuous outcry during their orgiastic rituals showcased their unwavering devotion. This fervency was driven by their pecuniary interests, as they aimed to safeguard their employment and secure their material gains. The ancient and revered temple of Diana held great significance in their religious practices and was deeply venerated by the community.",
+            "wordCount": 105,
+            "quoteTokenProportion": 26.76,
+            "qualityScore": 1.5168835213484466,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.78,
+            "commentatorTierSimilarities": [
+                32.1,
+                33.86,
+                34.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

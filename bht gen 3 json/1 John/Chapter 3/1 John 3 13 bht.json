@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:48:02",
+    "verseRef": "1 John 3:13",
+    "bestBHT": {
+        "bht": "Do not be surprised, brethren, if the world hates you. Just as Cain hated his own brother to the point of murdering him, the world will hate you in the same way. The world, represented by Cain, feels reproved by your good works and thus reacts with hatred. This hatred is not unusual; it has been this way since the beginning. Therefore, do not be astonished by the world's animosity, but rather embrace it as a common experience for those who live godly lives in Christ Jesus.",
+        "wordCount": 88,
+        "quoteTokenProportion": 52.31,
+        "qualityScore": 1.911659537194849,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+        "commentatorTierSimilarities": [
+            27.96,
+            28.9,
+            43.14
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The world (the children of the devil) began so, and will ever go on as it began.",
+            "Marvel not, brethren, if the world hateth you.",
+            "Cain being taken as the prototype and exemplar of such hate."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Marvel not\u2014The marvel would be if the world loved you.",
+            "The world\u2014of whom Cain is the representative (1 John 3:12).",
+            "Hate you\u2014as Cain hated even his own brother, and that to the extent of murdering him. The world feels its bad works tacitly reproved by your good works."
+        ],
+        "Albert Barnes": [
+            "Marvel not - Do not think it so unusual, or so little to be expected, as to excite astonishment.",
+            "The emphasis here is to be placed on the word 'you.' The apostle had just adverted to the fact that Cain hated Abel, his brother, without cause, and he says that they were not to deem it strange if the world hated them in like manner.",
+            "The object of all this was to show more clearly the necessity of strong and tender mutual affection among Christians, since they could hope for none from the world."
+        ],
+        "Marvin Vincent": [
+            "Brethren. The only occurrence of this mode of address in the Epistle.",
+            "Hate. Indicative mood, pointing to the fact as existing : if the world hate you, as it does."
+        ],
+        "Archibald T. Robertson": [
+            "If (\u03b5).\" ",
+            "Common construction after \u03b8\u03b1\u03c5\u03bc\u03b1\u03b6\u03c9 (wonder) rather than \u03bf\u03c4 (that, because).\" ",
+            "Present imperative here with \u03bc\u03b7 means 'cease wondering.'"
+        ],
+        "John Gill": [
+            "Marvel not, my brethren, if the world hate you.",
+            "This hatred of theirs is not at all to be wondered at; so it was from the beginning, and has been in all ages since.",
+            "This is the common lot of all the saints, of all that will live godly in Christ Jesus; and therefore it should not be reckoned a strange and unusual thing."
+        ],
+        "John Wesley": [
+            "Marvel not if the world hate you \u2014 For the same cause."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not be surprised, dear brothers and sisters, if the world hates you, for it has been this way since the beginning. Just as Cain hated his own brother and even murdered him, so too does the world despise those who belong to God. Let it be known that the world will always oppose the righteousness and goodness found in the lives of believers. This is not a cause for wonder or amazement, but rather a reminder of the stark contrast between the children of God and the children of the devil. Embrace this reality and continue to live faithfully in the face of hatred and opposition.",
+            "wordCount": 107,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.6838443282432123,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.33,
+            "commentatorTierSimilarities": [
+                26.91,
+                34.14,
+                38.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not be surprised, brethren, if the world hate you, for it has been this way since the beginning. Just as Cain hated his own brother, the world will hate you as well. The world feels reproved by your good works and thus reacts with hate. This hatred is not unusual and should be expected, as it is the common lot of all saints who live godly lives in Christ Jesus. Embrace this reality and continue to shine as lights in the midst of darkness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.7958825873917421,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+            "commentatorTierSimilarities": [
+                26.66,
+                28.46,
+                44.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not be surprised, brethren, if the world hates you. Just as Cain hated his own brother to the point of murdering him, the world will hate you in the same way. The world, represented by Cain, feels reproved by your good works and thus reacts with hatred. This hatred is not unusual; it has been this way since the beginning. Therefore, do not be astonished by the world's animosity, but rather embrace it as a common experience for those who live godly lives in Christ Jesus.",
+            "wordCount": 88,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 1.911659537194849,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+            "commentatorTierSimilarities": [
+                27.96,
+                28.9,
+                43.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not be surprised if the world hates you, brethren. Cain serves as an example of this hatred, as he despised his own brother and even took his life. The world, symbolized by Cain, feels convicted by your good deeds, leading to their hatred towards you. This animosity is not a unique occurrence, but rather the norm for those who live faithfully in Christ Jesus. Therefore, do not marvel at the world's enmity, but rather continue to display the righteousness and love of God in the face of opposition.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.84044536077768,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                27.9,
+                31.22,
+                40.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not be surprised, brethren, if the world hates you. Marvel not at the world's hatred towards you, for it has been this way since the beginning. Just as Cain hated his own brother and even went as far as to murder him, so too does the world hate those who belong to God. Let it be known that the world will always oppose the righteousness and goodness found in the lives of believers. Embrace this reality and continue to live faithfully in the face of hatred and opposition.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.8204235754268758,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.87,
+            "commentatorTierSimilarities": [
+                26.61,
+                27.37,
+                46.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

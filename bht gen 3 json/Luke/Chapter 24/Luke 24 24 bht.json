@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:24:01",
+    "verseRef": "Luke 24:24",
+    "bestBHT": {
+        "bht": "The confusion among the disciples was natural, given the disjointed and confused reports of that day. The women, who had seen the Lord alive, used a loose way of speaking to a stranger, assuming that he was not familiar with Peter. The disciples dismissed the women's report as idle talk, making them doubtful and suspicious of the fact that the women had seen Him while they had not. This uncertainty and contrast between the testimony of the women and their own observations left the disciples in a state of suspense.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.7107577276883084,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.22,
+        "commentatorTierSimilarities": [
+            38.94,
+            26.53,
+            34.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is natural, even in accordance with ver. 12, that the antithesis to 'certain women' before, and the loose way of speaking to a stranger, who (they believed) was not acquainted with any among them, might cause them here to use this word without any reference to Peter being accompanied.",
+            "But what wonder, if the reports of such a day of anxiety and confusion were themselves disjointed and confused?"
+        ],
+        "Albert Barnes": [
+            "Certain of them which were with us - Peter and John. See John 20:2-9."
+        ],
+        "Philip Schaff": [
+            "But him they saw not. This is the last contrast. The hope that was rekindled was turned to sadness because despite the angelic message, the Lord had not yet appeared.",
+            "Yet \u2018Him they saw not,\u2019 hints that something had occurred to lead them to expect to see Him.",
+            "Possibly then some rumor of it had reached their ears. But even were this the case, they had treated the report as \u2018idle talk\u2019."
+        ],
+        "John Gill": [
+            "But him they saw not; the Ethiopic version reads, 'and him they found not': the women, as before observed, might report, that though they found not the body in the grave, yet they saw him alive by the way, but so did not the disciples...",
+            "...made it look very strange, doubtful, and suspicious, that the women should see him, and not his apostles; they could not tell how to account for this, and this made them to be in suspense about the fact.",
+            "...this made them to be in suspense about the fact."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The confusion among the disciples is understandable given the disjointed and confused reports of that day. Even though the women had reported seeing the Lord alive, the disciples did not see Him themselves. The fact that the women saw Him and the disciples did not was cause for suspicion and uncertainty. Perhaps the disciples had heard rumors of His resurrection, but they had dismissed them as idle talk. This lack of firsthand experience and the contrast between the women's testimony and their own observations left the disciples in a state of suspense and uncertainty.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.5518361779399408,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.94,
+            "commentatorTierSimilarities": [
+                32.94,
+                28.85,
+                38.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The confusion among the disciples is understandable given the disjointed and confused reports of that day. The women, who had seen the Lord alive, were not accompanied by Peter, which may have caused them to speak loosely to a stranger. The disciples had treated the women's report as idle talk, which made them doubtful and suspicious of the fact that the women had seen Him while they had not. This contrast between the women's testimony and their own observations left the disciples in suspense.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.706414047138605,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.08,
+            "commentatorTierSimilarities": [
+                37.68,
+                27.01,
+                35.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The confusion and uncertainty among the disciples were a natural response to the disjointed and confused reports of that day. The fact that the women, who had seen the Lord alive, were not accompanied by Peter led them to use a loose way of speaking to a stranger, causing them to disregard Peter being present. The disciples dismissed the women's report as idle talk, making them doubtful and suspicious of the fact that the women had seen Him and they had not. This left the disciples in a state of suspense and uncertainty.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.6623681869678042,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+            "commentatorTierSimilarities": [
+                38.82,
+                27.48,
+                33.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The confusion among the disciples was natural, given the disjointed and confused reports of that day. The women, who had seen the Lord alive, used a loose way of speaking to a stranger, assuming that he was not familiar with Peter. The disciples dismissed the women's report as idle talk, making them doubtful and suspicious of the fact that the women had seen Him while they had not. This uncertainty and contrast between the testimony of the women and their own observations left the disciples in a state of suspense.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7107577276883084,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.22,
+            "commentatorTierSimilarities": [
+                38.94,
+                26.53,
+                34.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The confusion among the disciples was natural due to the disjointed and confused reports of that day. The women, who saw the Lord, used a loose way of speaking to a stranger, not realizing Peter was with them. The disciples dismissed the women's report as idle talk, leaving them doubtful and suspicious of the fact that the women saw Him and they did not. The uncertainty and contrast between their own observations and the women's testimony resulted in a state of suspense for the disciples.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.6897504894389326,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+            "commentatorTierSimilarities": [
+                39.14,
+                27.46,
+                33.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

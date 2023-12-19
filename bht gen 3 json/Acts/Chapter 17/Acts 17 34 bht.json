@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:33:09",
+    "verseRef": "Acts 17:34",
+    "bestBHT": {
+        "bht": "Dionysius the Areopagite, bishop of Athens, believed in the teachings of the apostle Paul despite the Athenians' lack of receptiveness. The conversion of one person can have a powerful impact, reminding Christians to prioritize doing good rather than admiring worldly splendors. Although Paul may not have been successful in establishing a Christian church in Athens, the transformation of Dionysius demonstrates the enduring power of the Gospel even in the face of intellectual skepticism.",
+        "wordCount": 73,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 1.8810140434477023,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+        "commentatorTierSimilarities": [
+            29.67,
+            43.49,
+            26.85
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Dionysius the Areopagite...was bishop of Athens.\" ",
+            "Nothing more is known of him.",
+            "The writings which go by his name are undoubtedly spurious."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Instead of mocking or politely waiving the subject, having listened eagerly, they joined themselves to the apostle for further instruction; and so they 'believed.'\" ",
+            "Certainly the number of converts there and of men fit for office in the Church was not so great that there could be much choice.\" ",
+            "It is a serious and instructive fact that the mercantile populations of Thessalonica and Corinth received the message of God with greater readiness than the highly educated and polished Athenians."
+        ],
+        "Albert Barnes": [
+            "The conversion of one man was worth the labor of Paul, and that conversion might have had an extensive influence on others.",
+            "Christians, amidst the splendor and gaieties of such cities, should have their hearts deeply affected in view of the moral desolations of the people.",
+            "They should not consider it their main business to admire splendid temples, statues, and paintings - the works of art; but their main business should be to do good as they may have opportunity."
+        ],
+        "Marvin Vincent": [
+            "The Court on the hill of Ares is one of the most ancient institutions of Athens, and none achieved for the city an earlier or more widely spread recognition.",
+            "If the accused had an equal number of votes for and against him, he was acquitted.",
+            "The Areopagitic penal code was adopted as a norm by all subsequent legislators."
+        ],
+        "John Calvin": [
+            "Seeing that Luke doth name one man and one woman only, it appeareth that there was but a small number of those which believed at the first.",
+            "It is ridiculous in that the Papists [have] made of a judge an astrologer. But this is to be imputed partly to their ignorance, partly to their boldness.",
+            "The heavenly hierarchy is stuffed not only with many doltish and monkish trifles, but also with many absurd inventions, and wicked speculations."
+        ],
+        "Philip Schaff": [
+            "There is no doubt that Paul failed in his attempt to found a Christian church at Athens.",
+            "The city of the 'violet crown' was one of the last of the great European centres really to accept Christianity.",
+            "Considering the seclusion in which Greek women lived, the mention of her name as if she had been present at the meeting on the Hill of Mars is singular."
+        ],
+        "Archibald T. Robertson": [
+            "No sermon is a failure which leads a group of men (\u03b1\u03bd\u03b4\u03c1\u03b5\u03c2) to believe (ingressive aorist of \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c9) in Jesus Christ.",
+            "He was one of this college of twelve judges who had helped to make Athens famous.",
+            "It is common to say that Paul in 1 Corinthians 2:1-5 alludes to his failure with philosophy in Athens when he failed to preach Christ crucified, and he determined never to make that mistake again."
+        ],
+        "John Gill": [
+            "There were some who were ordained to eternal life, to whom the Gospel came in power, and they received the love of the truth, and their hearts and affections were knit unto the apostle.",
+            "The Gospel was the savour of life unto life, when to the scoffers and mockers it was the savour of death unto death.",
+            "These laid the foundation of a Gospel church at Athens."
+        ],
+        "John Wesley": [
+            "Among whom was even Dionysius the Areopagite \u2014 One of the judges of that court.\" ",
+            "Spurious writings have been fathered in later ages, by those who are fond of high sounding nonsense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the city of Athens, Dionysius the Areopagite, a prominent figure and bishop, believed in the teachings of the apostle Paul. While little is known about him, it is evident that the highly educated Athenians, known for their philosophical pursuits, were less receptive to the message compared to the populations of Thessalonica and Corinth. Still, even if the number of converts was not significant, the conversion of one person can have a profound impact on others. Paul's experience in Athens served as a reminder that the preaching of Christ crucified should not be compromised or overshadowed by the admiration of worldly accomplishments. The conversion of Dionysius exemplifies the power of the Gospel to transform lives, even in the face of intellectual skepticism.",
+            "wordCount": 123,
+            "quoteTokenProportion": 37.35,
+            "qualityScore": 1.8266615970152724,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                32.37,
+                37.72,
+                29.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the city of Athens, Dionysius the Areopagite, bishop of Athens, listened eagerly to the apostle Paul's teachings and believed, despite the Athenians' general lack of receptiveness. The conversion of one person, even in the face of intellectual skepticism, can have a powerful impact. Paul's experience in Athens served as a reminder not to compromise the message of Christ crucified for the sake of worldly admiration. Dionysius' conversion exemplifies the transformative power of the Gospel, even in a city known for its philosophical pursuits.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.7723395192375588,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                31.2,
+                40.95,
+                27.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Dionysius the Areopagite, bishop of Athens, believed in the apostle Paul's teachings, even though the highly educated and polished Athenians were less receptive compared to the populations of Thessalonica and Corinth. The conversion of one person can have a profound impact, outweighing the lack of widespread success. Paul's experience in Athens serves as a reminder that the message of Christ crucified should not be compromised by worldly admiration. Dionysius' conversion showcases the transformative power of the Gospel, even in the midst of intellectual skepticism.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.748240000001434,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                30.9,
+                41.44,
+                27.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Dionysius the Areopagite, bishop of Athens, believed in the teachings of the apostle Paul despite the Athenians' lack of receptiveness. The conversion of one person can have a powerful impact, reminding Christians to prioritize doing good rather than admiring worldly splendors. Although Paul may not have been successful in establishing a Christian church in Athens, the transformation of Dionysius demonstrates the enduring power of the Gospel even in the face of intellectual skepticism.",
+            "wordCount": 73,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.8810140434477023,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "commentatorTierSimilarities": [
+                29.67,
+                43.49,
+                26.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Dionysius the Areopagite, the bishop of Athens, is known for his conversion to Christianity through the teachings of the apostle Paul. Despite the Athenians' lack of enthusiasm, Dionysius eagerly listened and believed in the message. The conversion of one person can have a profound impact, even if the number of converts is not significant. Paul's experience in Athens serves as a reminder that the preaching of Christ crucified should not be compromised or overshadowed by worldly accomplishments, highlighting the transformative power of the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.74082229632213,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                33.94,
+                38.01,
+                28.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

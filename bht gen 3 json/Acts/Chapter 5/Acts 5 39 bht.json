@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:26:46",
+    "verseRef": "Acts 5:39",
+    "bestBHT": {
+        "bht": "Beware of opposing God, for to do so is to fight against Him. Gamaliel's advice, though not favorable towards Christianity, acknowledges the wisdom in not attempting to overthrow God's work. The preservation of this religion despite opposition is a testament to its divine origin. Christianity has proven to rise even when crushed, demonstrating that it is a work of God. It would be sheer madness to expect success in hindering God's plan, for it will persist and succeed against all opposition.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.8122346076882834,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+        "commentatorTierSimilarities": [
+            27.03,
+            41.21,
+            31.75
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He warns them, lest they be found opponents not only to them, but also to God.",
+            "Gamaliel\u2019s advice... betokens no leaning towards Christianity, nor indeed very much even of worldly wisdom.",
+            "It seems certainly, on a closer view, as if they accepted... this opportunity of compromising the matter, which Gamaliel had designedly afforded them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Theudas\u2014not the same with a deceiver of that name whom JOSEPHUS mentions as heading an insurrection some twelve years after this.\" ",
+            "Such insurrections were frequent.",
+            "Some other of whom he makes no mention."
+        ],
+        "Albert Barnes": [
+            "The preservation of this religion amidst so much and so varied opposition proves that it is of God.",
+            "The more [Christianity] has been crushed, the more it has risen, and it still exists with as much life and power as ever.",
+            "The Lord gave, and has a right to remove our comforts; and we should be still, and know that he is God."
+        ],
+        "Marvin Vincent": [
+            "To fight against God [\u03b8\u03b5\u03bf\u03bc\u03b1\u03c7\u03bf\u03b9] . Lit., to be God - fighters."
+        ],
+        "Archibald T. Robertson": [
+            "This condition assumes that the thing is so without affirming it to be true.",
+            "Gamaliel warns the Sanhedrin that they cannot 'overthrow' these men for they in that case must 'overthrow' God.",
+            "Lest haply ye be found even to be fighting against God."
+        ],
+        "John Gill": [
+            "If it is a scheme of his forming, and a work to which he has called these men, and they proceed in it on good principles, and with a view to the honour and glory of God: ye cannot overthrow it.",
+            "It will proceed and get ground, and stand, maugre all the opposition of hell and earth; therefore do nothing to them, or hinder them from going on.",
+            "Which to do is downright madness, and which no man in his senses can expect to succeed in."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of opposing God, for to do so is to fight against Him. Gamaliel's advice, though not favorable towards Christianity, acknowledges the wisdom in not attempting to overthrow God's work. The preservation of this religion despite opposition is a testament to its divine origin. Christianity has proven to rise even when crushed, demonstrating that it is a work of God. It would be sheer madness to expect success in hindering God's plan, for it will persist and succeed against all opposition.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.8122346076882834,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+            "commentatorTierSimilarities": [
+                27.03,
+                41.21,
+                31.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Be cautious not to oppose God, for to do so is to be found fighting against Him. Gamaliel's advice, though not leaning towards Christianity, acknowledges the folly in attempting to overthrow God's work. The perseverance of this religion in the face of opposition proves its divine origin. Christianity has risen triumphantly even when suppressed, affirming its truth. It would be sheer madness to hinder God's plan, as it will prevail and succeed despite all opposition.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.791622091722564,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.91,
+            "commentatorTierSimilarities": [
+                28.67,
+                39.12,
+                32.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of fighting against God, for to do so is to oppose His will. Gamaliel's counsel, while not supportive of Christianity, acknowledges the lack of wisdom in attempting to thwart God's work. The endurance of this faith amidst adversity affirms its divine nature. Christianity has flourished even in the face of suppression, testifying to its authenticity. It would be sheer folly to impede God's plan, as it is destined to prevail and succeed, defying all opposition.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7046180450594224,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+            "commentatorTierSimilarities": [
+                30.33,
+                38.95,
+                30.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Be cautious of opposing God, for to do so is to fight against Him. Gamaliel's advice, though not inclined towards Christianity, recognizes the lack of wisdom in attempting to undermine God's work. The perseverance of this faith in the midst of opposition confirms its divine origin. Christianity has thrived even when suppressed, attesting to its truth. It would be utter madness to hinder God's plan, as it will persist and succeed against all odds.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.716789651616244,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.43,
+            "commentatorTierSimilarities": [
+                30.1,
+                36.12,
+                33.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of becoming opponents not only to men but also to God. Gamaliel's counsel, although not indicating support for Christianity, acknowledges the lack of wisdom in opposing God's work. The endurance of this faith amid adversity attests to its divine origin. Christianity has flourished even when faced with suppression, proving its authenticity. It would be sheer madness to hinder God's plan, as it will inevitably prevail and succeed against all opposition.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.672942650942303,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.97,
+            "commentatorTierSimilarities": [
+                30.82,
+                38.68,
+                30.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

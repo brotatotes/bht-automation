@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 17:29:50",
+    "verseRef": "2 Timothy 1:17",
+    "bestBHT": {
+        "bht": "In the crowded metropolis of Rome, where not everyone would take the trouble to search out a Christian brother or minister who was a prisoner, there was a man who diligently sought after and found the apostle Paul. Despite the risk to his own life, this individual displayed loyal and loving kindness by going the extra mile to discover Paul's whereabouts. In the midst of Paul's confinement and chains, this act of compassion will not go unnoticed by the Lord on the day of judgment.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.1973313467975433,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.15,
+        "commentatorTierSimilarities": [
+            20.16,
+            42.5,
+            37.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17. found me\u2014in the crowded",
+            "\tmetropolis. So in turn \"may he find mercy of the Lord in",
+            "\tthat day\" when the whole universe shall be assembled."
+        ],
+        "Albert Barnes": [
+            "It is not everyone, even among professors of religion, who in a great and splendid city would be at the trouble to search out a Christian brother, or even a minister, who was a prisoner, and endeavor to relieve his sorrows.",
+            "This man, so kind to the great apostle, will be among those to whom the Saviour will say, at the final judgment, 'I was in prison, and ye came unto me.'",
+            "His attention was the more valuable because it cost him trouble to find him."
+        ],
+        "Philip Schaff": [
+            "Sought me out very diligently.",
+            "Others turned away.",
+            "He came with loyal and loving kindness."
+        ],
+        "Archibald T. Robertson": [
+            "When he was in Rome (\u03b3\u03b5\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2 \u03b5\u03bd \u03a1\u03bf\u03bc\u03b7). Second aorist middle participle of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1 (coming to Rome, happening in Rome).",
+            "He sought me diligently and found me (\u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03b9\u03c9\u03c2 \u03b5\u03b6\u03b7\u03c4\u03b7\u03c3\u03b5\u03bd \u03bc\u03b5 \u03ba\u03b1 \u03b5\u03c5\u03c1\u03b5\u03bd).",
+            "He did it at the risk of his own life apparently."
+        ],
+        "John Gill": [
+            "He sought me out very diligently, and found me.",
+            "The apostle was not in any particular place of confinement, but had a lodging where he was kept by a soldier.",
+            "He had a long chain fastened at one end to his right arm, and at the other to the left arm of the soldier that kept him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the bustling city of Rome, where many would not take the trouble to seek out a Christian brother or minister who was a prisoner, this kind-hearted man went to great lengths to find the apostle Paul, even risking his own life in doing so. Others turned away, but he came with loyal and loving kindness, diligently searching until he found Paul in his lodging, where he was held by a soldier with a chain attached to his arm. This act of compassion and support will not go unnoticed by the Lord on the day of judgment, when the entire universe will be gathered together.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.2398662557105022,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.57,
+            "commentatorTierSimilarities": [
+                18.96,
+                40.05,
+                40.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the crowded metropolis of Rome, where not everyone would take the trouble to search out a Christian brother or minister who was a prisoner, there was a man who diligently sought after and found the apostle Paul. Despite the risk to his own life, this individual displayed loyal and loving kindness by going the extra mile to discover Paul's whereabouts. In the midst of Paul's confinement and chains, this act of compassion will not go unnoticed by the Lord on the day of judgment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.1973313467975433,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.15,
+            "commentatorTierSimilarities": [
+                20.16,
+                42.5,
+                37.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Found in the bustling city of Rome, this compassionate individual diligently sought out the imprisoned apostle Paul, even at the risk of his own life. In a metropolis where many would not trouble themselves to locate a Christian brother or minister in captivity, this kind-hearted person showed loyal and loving kindness. Despite the chains that bound Paul, this act of compassion will not be overlooked on the day of judgment, when all creation assembles before the Lord.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.091799261186229,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.65,
+            "commentatorTierSimilarities": [
+                22.35,
+                43.03,
+                34.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the crowded metropolis of Rome, where not everyone would take the trouble to search out a Christian brother or minister who was a prisoner, there was a man who diligently sought after and found the apostle Paul. Despite the risk to his own life, this individual displayed loyal and loving kindness by going the extra mile to discover Paul's whereabouts. In the midst of Paul's confinement and chains, this act of compassion will not go unnoticed by the Lord on the day of judgment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.1973313467975433,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.15,
+            "commentatorTierSimilarities": [
+                20.16,
+                42.5,
+                37.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the busy city of Rome, where few would bother to search out a Christian brother or minister in captivity, a compassionate person risked their life to diligently find and support the apostle Paul. Despite the chains that bound him, this act of loyal and loving kindness will not be overlooked on the day of judgment. Amidst the bustling metropolis, this individual's dedication to seek out a prisoner of the faith serves as an example of selflessness and empathy.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.075981273299657,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.12,
+            "commentatorTierSimilarities": [
+                18.68,
+                48.88,
+                32.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

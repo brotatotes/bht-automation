@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:15:22",
+    "verseRef": "Luke 4:23",
+    "bestBHT": {
+        "bht": "The people of Nazareth, having heard rumors of Jesus' deeds in Capernaum, questioned why he hadn't done the same in his hometown. They essentially stated, Physician, heal thyself, meaning that if Jesus truly had the power to heal, he should demonstrate it among his own people first. Jesus, aware of their doubt and desire for proof, responded by drawing parallels to the prophets Elijah and Elisha, who were also rejected by their own people and had to perform miracles for others instead.",
+        "wordCount": 83,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.9837576830818144,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+        "commentatorTierSimilarities": [
+            33.12,
+            44.87,
+            22.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Heal thyself\u2014not, 'raise thyself from thy obscure station,' but, exert thy powers of healing in thine own country, as presently interpreted.\" ",
+            "The reproach was repeated under the Cross. Then, with a strictly individual application.",
+            "On the miracles previously wrought in Capernaum, see note on ver, 14. That in John iv, 47\u201353 was one such."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Charity begins at home.",
+            "Strange rumors have reached our ears of Thy doings at Capernaum but if such power resides in Thee to cure the ills of humanity, why has none of it yet come nearer home, and why is all this alleged power reserved for strangers?",
+            "His choice of Capernaum as a place of residence since entering on public life was, it seems, already well known at Nazareth; and when He did come thither, to give no displays of His power when distant places were ringing with His fame, wounded their pride."
+        ],
+        "Albert Barnes": [
+            "Physician, heal thyself... Suppose that a man should attempt to heal another when he was himself diseased in the same manner; it would be natural to ask him first to cure himself, and thus to render it manifest that he was worthy of confidence.",
+            "You profess to be the Messiah... Show that you have the power, that you are worthy of our confidence, by working miracles here... It does not refer, therefore, to any purification of his own, or imply any reflection on him for setting up to teach them.",
+            "Whatsoever we have heard done... It would seem, from this, that Christ had before this performed miracles in Capernaum, though the evangelist has not recorded them."
+        ],
+        "Marvin Vincent": [
+            "Surely [\u03c0\u03b1\u03bd\u03c4\u03c9\u03c2]. Lit., by all means. Rev., doubtless.",
+            "Proverb [\u03c0\u03b1\u03c1\u03b1\u03b2\u03bf\u03bb\u03b7\u03bd]. Rev., parable.",
+            "Physician, heal thyself. A saying which Luke alone records, and which would forcibly appeal to him as a physician."
+        ],
+        "John Calvin": [
+            "Physician, heal thyself.",
+            "And, consequently, it is but a just revenge.",
+            "The amount of the objection is, that Christ acts improperly."
+        ],
+        "Philip Schaff": [
+            "Physician. Luke, the physician, presents Christ as the Physician; our Lord implies that this is His office.",
+            "Heal thyself. Help thine own countrymen, who are naturally nearest to thee.",
+            "The inhabitants of Nazareth would naturally be jealous of the larger place, and might hope that He would make His early home the centre of miraculous displays."
+        ],
+        "Archibald T. Robertson": [
+            "The proverb means that the physician was expected to take his own medicine and to heal himself.\" ",
+            "The point of the parable seems to be that the people were expecting him to make good his claim to the Messiahship by doing here in Nazareth what they had heard of his doing in Capernaum and elsewhere.\" ",
+            "Jesus applies the proverb to himself as an interpretation of their real attitude towards himself."
+        ],
+        "John Gill": [
+            "Physician heal thyself; and which was a proverb in use with the Jews.",
+            "The meaning of which is, that a man ought to look at home, and take care of himself.",
+            "They thought they had as good a right to his favours and benefits, as any, this being his native place."
+        ],
+        "John Wesley": [
+            "Your approbation now outweighs your prejudices. But it will not be so long.",
+            "Why my love does not begin at home? Why I do not work miracles here, rather than at Capernaum? It is because of your unbelief.",
+            "Nor is it any new thing for me to be despised in my own country. So were both Elijah and Elisha, and thereby driven to work miracles among heathens, rather than in Israel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people of Nazareth, having heard of Jesus' miraculous works in Capernaum, asked him to display his powers in his own hometown. They essentially uttered the proverb Physician, heal thyself, implying that if he truly possessed the ability to heal, he should begin with his own people. Jesus, aware of their disbelief and their desire for a spectacle, responded by referencing two instances in which prophets were sent to perform miracles for the Gentiles rather than their own people. By applying this proverb to himself, Jesus highlighted their rejection of him as the Messiah and their desire to see him prove himself to them.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.008480789069357,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                33.62,
+                45.21,
+                21.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people of Nazareth, having heard rumors of Jesus' deeds in Capernaum, questioned why he hadn't done the same in his hometown. They essentially stated, Physician, heal thyself, meaning that if Jesus truly had the power to heal, he should demonstrate it among his own people first. Jesus, aware of their doubt and desire for proof, responded by drawing parallels to the prophets Elijah and Elisha, who were also rejected by their own people and had to perform miracles for others instead.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9837576830818144,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+            "commentatorTierSimilarities": [
+                33.12,
+                44.87,
+                22.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people of Nazareth, aware of Jesus' miracles in Capernaum, questioned why he hadn't performed any in his own hometown. In essence, they were saying, Physician, heal thyself, implying that if he truly had the power to heal, he should start with his own people. Jesus, understanding their skepticism and desire for proof, compared himself to the prophets Elijah and Elisha, who were also rejected in their hometowns and had to perform miracles among other nations instead.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.9715573387947152,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.9,
+            "commentatorTierSimilarities": [
+                30.79,
+                47.07,
+                22.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people of Nazareth, having heard of Jesus' miraculous works in Capernaum, asked him to display his powers in his own hometown. They essentially uttered the proverb Physician, heal thyself, implying that if he truly possessed the ability to heal, he should begin with his own people. Jesus, aware of their disbelief and their desire for a spectacle, responded by referencing two instances in which prophets were sent to perform miracles for the Gentiles rather than their own people. By applying this proverb to himself, Jesus highlighted their rejection of him as the Messiah and their desire to see him prove himself to them.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.008480789069357,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                33.62,
+                45.21,
+                21.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people of Nazareth, familiar with Jesus' miracles in Capernaum, sought similar demonstrations in their own hometown. They essentially challenged him, saying Physician, heal thyself, meaning that if he truly possessed the power to heal, he should do so among his own people first. Jesus, recognizing their doubt and longing for proof, cited examples of prophets sent to perform miracles for outsiders rather than their own community. By using this adage, Jesus revealed their rejection of him as the Messiah and their desire for validation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.867642482350007,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+            "commentatorTierSimilarities": [
+                31.41,
+                47.0,
+                21.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

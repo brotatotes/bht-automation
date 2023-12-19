@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:31:28",
+    "verseRef": "2 Timothy 4:18",
+    "bestBHT": {
+        "bht": "Despite leaving behind his books and parchments, Paul finds solace in the fact that the Lord will deliver him from all evil works and protect him until his arrival in the heavenly kingdom. This hope in God's faithfulness sustains him and inspires a doxology, as he trusts that the enjoyment of the Lord's presence will produce an even greater praise. Paul's unwavering confidence in God's deliverance and salvation reflects his firm belief that the ultimate triumph lies not in earthly circumstances but in the eternal glory of God's heavenly kingdom.",
+        "wordCount": 95,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 2.212630464533193,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.91,
+        "commentatorTierSimilarities": [
+            25.43,
+            38.68,
+            35.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The bag of books and parchments which I left would be its most obvious designation.",
+            "He wanted them much, to give them to the faithful, that they might possess them instead of his teaching.",
+            "The Lord (Jesus) shall deliver me from every evil work and shall preserve me safe unto his kingdom in heaven."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Hope draws its conclusions from the past to the future.",
+            "He saves from evil; He gives good things.",
+            "The very hope produces a doxology: how much greater will be the doxology which the actual enjoyment shall produce!"
+        ],
+        "Albert Barnes": [
+            "And the Lord shall deliver me from every evil work... But he was assured that God would keep him from shrinking from death when the hour approached; from apostasy, and from the manifestation of an improper spirit when he came to die.",
+            "And will preserve me unto his heavenly kingdom... So keep me from evil that I shall reach his heavenly kingdom.",
+            "To whom be glory forever and ever... If man is ever disposed to ascribe glory to God, it is on such an occasion."
+        ],
+        "Marvin Vincent": [
+            "Every evil work... Every design and attempt against him and his work.",
+            "The word means originally full of or oppressed by labors; thence, that which brings annoyance or toil.",
+            "Heavenly kingdom... the future, glorified life."
+        ],
+        "John Calvin": [
+            "This is what we ought chiefly to desire, not that the interests of the body may be promoted, but that we may rise superior to every temptation, and may be ready to suffer a hundred deaths rather than that it should come into our mind to pollute ourselves by any 'evil work.'\" ",
+            "That he will preserve him pure and unblemished from every wicked action; for he immediately adds, to his heavenly kingdom, by which he means that that alone is true salvation, when the Lord \u2014 either by life or by death \u2014 conducts us into his kingdom.",
+            "After having confessed that the beginning of salvation is from God, they ascribe the continuation of it to freewill; so that in this way perseverance is not a heavenly gift, but a virtue of man. And Paul, by ascribing to God this work of 'preserving us to his kingdom,' openly affirms that we are guided by his hand during the whole course of our life."
+        ],
+        "Philip Schaff": [
+            "That thought, deliverance from evil, whether within or without, is more precious to the apostle than any deliverance from danger.",
+            "The words in the Greek remind one so strongly of the clause \u2018Deliver us from evil\u2019 in the Lord\u2019s Prayer...",
+            "It is noticeable that here we have, beyond the shadow of a doubt, a doxology addressed to Christ as the Lord, i.e. the fullest recognition of his Divine nature."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is not afraid of death. He will find his triumph in death.",
+            "He will save (\u03c3\u03c9\u03c3\u03b5, effective future) me there finally and free from all evil.",
+            "Paul's final doxology, his Swan Song, to Christ as in Romans 9:5; Romans 16:27."
+        ],
+        "John Gill": [
+            "And the Lord shall deliver me from every evil work,.... From wicked and unreasonable men, and all their attempts upon him, and from all afflictions by them.",
+            "and will preserve [me] unto his heavenly kingdom, the ultimate glory and happiness of the saints in heaven.",
+            "they are kept by his power unto salvation: and besides, this heavenly kingdom is prepared for them, and given to them."
+        ],
+        "John Wesley": [
+            "And the Lord will deliver me from every evil work.",
+            "Which is far more than delivering me from death.",
+            "Yea, and, over and above, preserve me unto his heavenly kingdom - Far better than that of Nero."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Timothy 4:18, the apostle Paul expresses his unwavering confidence in the Lord's deliverance and preservation. Paul acknowledges the books and parchments he left behind and desires for the faithful to possess them, but he knows that the Lord will protect him from every evil work and bring him safely to His heavenly kingdom. This hope in God's faithfulness carries Paul through his present trials and leads him to praise and glorify the Lord, fully trusting that even in death, he will triumph and be saved by Christ. Paul's words serve as a reminder that the ultimate goal is not earthly deliverance, but rather the eternal glory of God's heavenly kingdom.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 2.147677550790851,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                25.7,
+                37.94,
+                36.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite leaving behind his books and parchments, Paul finds solace in the fact that the Lord will deliver him from all evil works and protect him until his arrival in the heavenly kingdom. This hope in God's faithfulness sustains him and inspires a doxology, as he trusts that the enjoyment of the Lord's presence will produce an even greater praise. Paul's unwavering confidence in God's deliverance and salvation reflects his firm belief that the ultimate triumph lies not in earthly circumstances but in the eternal glory of God's heavenly kingdom.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.212630464533193,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.91,
+            "commentatorTierSimilarities": [
+                25.43,
+                38.68,
+                35.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of uncertain circumstances, Paul takes comfort in the assurance that the Lord will rescue him from every evil work and preserve him until he reaches the heavenly kingdom. This hope, rooted in past experiences of God's deliverance, leads Paul to express a doxology to Christ, recognizing His divine nature. The focus for Paul is not merely physical deliverance, but rather the surpassing importance of being protected from evil and ultimately being ushered into God's eternal kingdom.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.1152124779430403,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.67,
+            "commentatorTierSimilarities": [
+                23.37,
+                42.26,
+                34.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Leaving behind his books and parchments, Paul finds solace in knowing that the Lord will deliver him from every evil work and preserve him safe until the heavenly kingdom. This hope draws its conclusions from past experiences and leads Paul to offer a doxology to Christ. His trust in God's deliverance from both external threats and personal shortcomings demonstrates his unwavering faith in the Lord's power to save and bring about eternal glory. For Paul, the ultimate triumph lies not in earthly circumstances, but in God's heavenly kingdom.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.064312013669869,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.98,
+            "commentatorTierSimilarities": [
+                27.77,
+                36.12,
+                36.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In 2 Timothy 4:18, Paul finds comfort in the Lord's promise of deliverance from every evil work and preservation until the heavenly kingdom. This hope draws from his past experiences and leads to a doxology, anticipating even greater praise in the future. Paul's confidence in God's salvation is unwavering, as he prioritizes spiritual triumph over earthly circumstances. The verse reminds us to focus on the eternal glory of God's heavenly kingdom rather than temporary deliverance.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.981548441131638,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
+            "commentatorTierSimilarities": [
+                27.52,
+                37.09,
+                35.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

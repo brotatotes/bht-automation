@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:16:56",
+    "verseRef": "Luke 8:45",
+    "bestBHT": {
+        "bht": "Just as in the story where Jesus was touched by the faith of a few amidst a crowd, the Church too is often crowded by the many but touched by the few. It is a blessed encouragement for us to not only crowd on Jesus, but also to truly touch Him in faith, pressing in and grasping onto Him for ourselves. Even though the multitude may throng and vex Him, it is those who touch Him in faith that truly receive His grace.",
+        "wordCount": 83,
+        "quoteTokenProportion": 64.15,
+        "qualityScore": 1.7611313644007387,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+        "commentatorTierSimilarities": [
+            32.93,
+            28.37,
+            38.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Even thus is it now with His body, i.e. His Church. She is touched by the faith of few, thought crowded by the mob of the many.",
+            "The believer on the Saviour toucheth Him, but the unbeliever throngeth and vexeth Him.",
+            "It is a blessed encouragement to us not only to crowd on Him, but even to touch Him: so to crowd on Him as never to be content till we have grasped if it be but His garment for ourselves."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "45. Who touched me?\u2014\"Askest",
+            "\tThou, Lord, who touched Thee? Rather ask who touched Thee not",
+            "\tin such a throng."
+        ],
+        "Marvin Vincent": [
+            "Who touched [\u03c4\u03b9\u03c2 \u03bf \u03b1\u03c8\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2]? . Lit., who is he that touched?\" ",
+            "It means to squeeze out, as wine from grapes.",
+            "Rev. renders the latter, which occurs here only, more literally, crush."
+        ],
+        "John Calvin": [
+            "It does appear to be absurd that Christ should pour out his grace without knowing on whom he was bestowing a favor.",
+            "He knowingly and willingly cured the woman; and there is as little doubt that he drew her to himself by his Spirit, that she might obtain a cure.",
+            "When the woman, struck with dread, relates what happened to her, greater weight is due to her confession."
+        ],
+        "Philip Schaff": [
+            "The question of our Lord was to draw out the woman\u2019s faith.",
+            "The touch of faith and the accidental touch differ: no virtue flows out in the case of the latter.",
+            "The cure was not magical."
+        ],
+        "Archibald T. Robertson": [
+            "Press thee and crush thee.",
+            "Hold thee together, hold thee in.",
+            "Crush thee here only in the N.T."
+        ],
+        "John Gill": [
+            "This he said, not as ignorant of the person that had done it, but in order to discover her to the people, and the cure she had received, as well as her faith.",
+            "When all denied; both the disciples and the multitude, as many as were near him... all excepting the woman, who afterwards came and declared it.",
+            "Said, Master, the multitude throng thee, and press thee, and sayest thou, who touched me?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The story of Luke 8:45 teaches us about the nature of the Church and the faith that touches Jesus. Just as Jesus was touched by the faith of a few amidst the crowd, the Church is too, even in the midst of skepticism and unbelief. It is a powerful encouragement for us to not only crowd on Jesus but to touch Him, to press in and grasp onto Him for ourselves. So often, the multitude throngs Jesus and vexes Him, but it is those who touch Him in faith that truly receive His grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 55.36,
+            "qualityScore": 1.6823515730736314,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.28,
+            "commentatorTierSimilarities": [
+                28.82,
+                34.13,
+                37.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Church, like Jesus, is touched by the faith of a few amidst the crowd. Even though the multitude may throng and vex Him, it is those who reach out and touch Him in faith that truly receive His grace. This story encourages us to press in and grasp onto Jesus, not content until we have experienced His power for ourselves. Just as Jesus asked Who touched Me? let us be bold in our faith and reach out to Him, knowing that He sees and responds to our touch.",
+            "wordCount": 89,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 1.604030977712192,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.68,
+            "commentatorTierSimilarities": [
+                32.26,
+                30.1,
+                37.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just as in the story where Jesus was touched by the faith of a few amidst a crowd, the Church too is often crowded by the many but touched by the few. It is a blessed encouragement for us to not only crowd on Jesus, but also to truly touch Him in faith, pressing in and grasping onto Him for ourselves. Even though the multitude may throng and vex Him, it is those who touch Him in faith that truly receive His grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 64.15,
+            "qualityScore": 1.7611313644007387,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+            "commentatorTierSimilarities": [
+                32.93,
+                28.37,
+                38.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is a powerful encounter when faith touches Jesus in the midst of the multitude. Just as Jesus asked, Who touched Me? it is a reminder that even amidst the crowd, it is those who reach out and touch Him in faith who truly receive His grace. The Church, like Jesus, is touched by the faith of a few, even in the face of skepticism and unbelief. This story encourages us to press in and grasp onto Jesus, confident that our touch of faith will not go unnoticed.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6750351977617077,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+            "commentatorTierSimilarities": [
+                30.12,
+                35.14,
+                34.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The story emphasizes the remarkable faith that touches Jesus amidst the crowd. Although the multitude may throng and vex Him, it is those who press in and grasp onto Him in faith that receive His grace. The encounter teaches us that the Church, just like Jesus, is touched by the faith of a few amidst the skepticism and unbelief of many. It is a powerful reminder to persist in our pursuit of Jesus, knowing that our touch of faith will not go unnoticed.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.5628339098993296,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.31,
+            "commentatorTierSimilarities": [
+                25.92,
+                37.33,
+                36.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

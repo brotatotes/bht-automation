@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:14:40",
+    "verseRef": "1 Corinthians 16:15",
+    "bestBHT": {
+        "bht": "These first Ach\u00e6an converts, the first-fruits of Achaia, were part of the household of Stephanas, who had willingly taken it upon themselves to minister to the saints. The image of first-fruits offered to the Lord emphasizes their significance and wholehearted dedication to Christ's work. Personal work for Christ is still the only way to win the world for Him, and we should give due respect to those God has adorned with gifts and who voluntarily submit to them.",
+        "wordCount": 81,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 1.8638986676560614,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+        "commentatorTierSimilarities": [
+            35.37,
+            28.82,
+            35.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the firstfruits; see Rom. xvi. 5: the first Ach\u00e6an converts.",
+            "This family were among the few baptized by Paul, see ch. i. 16.",
+            "to minister unto the saints] or, to service for the saints: in what way, does not appear."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "first-fruits of Achaia\u2014the first Ach\u00e6an converts",
+            "The image is from the first-fruits offered to the Lord",
+            "Set themselves voluntarily to minister unto the saints"
+        ],
+        "Albert Barnes": [
+            "The design is to exhort them to pay proper deference to Stephanas, and to all who sustained the same rank and character.",
+            "You are acquainted with the household, or family. Probably a considerable portion, or all, of the family of Stephanas had been converted to the Christian faith.",
+            "That they have addicted themselves...by aiding the ministry; by showing hospitality; by providing for their needs; by attending and aiding the apostles in their journeys, etc."
+        ],
+        "Marvin Vincent": [
+            "Achaia. In a restricted sense, the northwest of Peloponnesus; but often used by the poets for the whole of Greece.",
+            "Under the Romans Greece was divided into two provinces, Macedonia and Achaia; the former including Macedonia proper, with Illyricum, Epirus, and Thessaly, and the latter all that lay south of these.",
+            "In this latter acceptation the word is uniformly employed in the New Testament."
+        ],
+        "John Calvin": [
+            "We know, from daily experience, of what advantage it is, that those should have the highest authority, whom God has adorned with the most distinguished gifts.",
+            "If we wish to secure the welfare of the Church, let us always take care that honor be conferred upon the good: let their counsels have the greatest weight; let others give way to them, and allow themselves to be governed by their prudence.",
+            "For God manifests himself to us when he shows us the gifts of his Spirit. Hence, if we would not appear to be despisers of God, let us voluntarily submit ourselves to those, on whom God has conferred superior gifts."
+        ],
+        "Philip Schaff": [
+            "Now, I beseech you, brethren... the earliest Achaean converts.\" ",
+            "Achaia was the name of Southern Greece, whose capital, Corinth, is doubtless meant here...",
+            "The reference here is not to the 'collection,' but to such services as were within their own sphere."
+        ],
+        "Archibald T. Robertson": [
+            "Ye know (\u03bf\u03b9\u03b4\u03b1\u03c4\u03b5). Koine form for second perfect indicative used as present of \u03bf\u03c1\u03b1\u03c9. Parenthetic clause through rest of the verse.",
+            "They have set themselves (\u03b5\u03c4\u03b1\u03be\u03b1\u03bd \u03b5\u03b1\u03c5\u03c4\u03bf\u03c5\u03c2). Remarkable statement worthy of attention today.",
+            "Personal work for Christ is still the only way to win the world for Christ, voluntary personal work."
+        ],
+        "John Gill": [
+            "ye know the house of Stephanas...that it is the firstfruits of Achaia",
+            "these were some of the first instances of conversion, and who received the firstfruits of the Spirit in these parts",
+            "they have addicted themselves to the ministry of the saints...they applied to the execution of it with great heartiness, diligence, and zeal, and so were very deserving of due respect"
+        ],
+        "John Wesley": [
+            "The first fruits of Achaia \u2014 The first converts in that province."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These first Ach\u00e6an converts, the first-fruits of Achaia, were part of the household of Stephanas, who had been baptized by Paul. They had willingly taken it upon themselves to minister to the saints, although the exact nature of their service is not specified. The imagery of first-fruits highlights their significance and shows how they dedicated themselves wholeheartedly to the work of Christ. This voluntary personal work for Christ is still the only way to spread the gospel effectively. Let us recognize and honor those who God has gifted and entrusted with the responsibility of leading and serving in the Church, as their counsel and prudence contribute to the welfare of the Church.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.7557347964590178,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                36.16,
+                29.81,
+                34.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These first Ach\u00e6an converts, the first-fruits of Achaia, were part of the household of Stephanas, who had willingly taken it upon themselves to minister to the saints. The image of first-fruits offered to the Lord emphasizes their significance and wholehearted dedication to Christ's work. Personal work for Christ is still the only way to win the world for Him, and we should give due respect to those God has adorned with gifts and who voluntarily submit to them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.8638986676560614,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                35.37,
+                28.82,
+                35.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The first Ach\u00e6an converts, considered the first-fruits of Achaia, were from the household of Stephanas. They willingly offered themselves to minister to the saints, although the specific nature of their service is unclear. Their dedication and zeal make them deserving of respect and recognition. This voluntary personal work for Christ remains crucial in spreading the gospel effectively. Let us honor those whom God has gifted and submitted to, as their counsel and prudence contribute to the welfare of the Church.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6860863596808495,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+            "commentatorTierSimilarities": [
+                32.49,
+                29.04,
+                38.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The first Ach\u00e6an converts, the first-fruits of Achaia, were from the household of Stephanas. They willingly ministered to the saints, demonstrating great heartiness, diligence, and zeal in their service. Their dedication and voluntary submission to God's gifts deserve respect and recognition. This personal work for Christ remains the key to spreading the gospel effectively. Let us honor those appointed by God, who hold authority and wisdom, for their counsel contributes to the welfare of the Church.",
+            "wordCount": 78,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.6929832288805242,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                31.55,
+                27.94,
+                40.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The first Ach\u00e6an converts, known as the first-fruits of Achaia, were part of the household of Stephanas. They voluntarily dedicated themselves to ministering to the saints with great heartiness and zeal. Their unwavering commitment and service make them deserving of respect. This personal work for Christ remains the most effective way to spread the gospel. We are reminded to honor and submit to those whom God has gifted and who contribute to the welfare of the Church through their wisdom and counsel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6746405829582214,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.02,
+            "commentatorTierSimilarities": [
+                32.05,
+                29.17,
+                38.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 17:30:16",
+    "verseRef": "2 Timothy 2:12",
+    "bestBHT": {
+        "bht": "To suffer with Christ is to partake in his reign, while denying him leads to being denied by him. This implies that salvation goes beyond mere belief; it requires endurance in the face of suffering. Denying Christ, on the other hand, is rooted in weakness and unbelief, caused by being enticed by worldly attractions. It is crucial to recognize the gravity of such denial, as it contradicts the truth and bears consequences. Let us hold firm to our faith, enduring shame and persecution, knowing that we will ultimately share in Christ's reign in the kingdom of grace.",
+        "wordCount": 98,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.5597387858112515,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.2,
+        "commentatorTierSimilarities": [
+            26.79,
+            32.13,
+            41.08
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Reigning is something more than mere salvation.",
+            "deny\u2014with the mouth. As 'believe' with the heart follows.",
+            "he also will deny us."
+        ],
+        "Albert Barnes": [
+            "If we suffer, we shall also reign with him - The meaning is, that the members will be treated as the Head is.",
+            "We become united with him by faith, and, if we share his treatment on earth, we shall share his triumphs in heaven.",
+            "If we deny him, he also will deny us."
+        ],
+        "Marvin Vincent": [
+            "If we suffer we shall also reign with him\" ",
+            "If we deny him he also will deny us"
+        ],
+        "John Calvin": [
+            "How unreasonable is it, that we should esteem more highly the transitory life of this world than the holy and sacred name of the Son of God!",
+            "Their base denial of Christ proceeds not only from weakness, but from unbelief; because it is in consequence of being blinded by the allurement of the world, that they do not at all perceive the life which is in the kingdom of God.",
+            "It remains that every one consider with himself, that this is no childish terror, but the judge seriously pronounces what will be found, at the appointed time, to be true."
+        ],
+        "Philip Schaff": [
+            "Shall also reign with him. The thought, though not the words, enters into our Lord's teaching: 'Ye shall sit on thrones, judging the twelve tribes of Israel' (Matthew 19:28).",
+            "He also will deny us. The words clearly point to our Lord's teaching in Matthew 10:33, and, like other passages in these Epistles, indicate that there was a widely-diffused knowledge of it."
+        ],
+        "John Gill": [
+            "And such being called by grace, and having made a profession of Christ, they suffer shame and reproach, loss of credit and reputation, and sometimes loss of goods, and corporeal punishment, and even death itself...",
+            "They reign with him now in the kingdom of grace; grace reigns in their hearts, where Christ, the King of glory, has entered, and has set up his throne...",
+            "There is a denying of Christ in words; so it is denied by the Jews that Christ is come in the flesh, and that Jesus is the Messiah; and some that have bore the Christian name, though very unworthily, have denied his true deity, his real humanity, proper sonship, and the efficacy of his blood, righteousness, and sacrifice..."
+        ],
+        "John Wesley": [
+            "If we deny him \u2014 To escape suffering for him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we suffer with Christ, we will also reign with him, but if we deny him, he will also deny us. This verse reminds us that reigning with Christ is more than just salvation; it is a reward for enduring suffering for his name. Those who deny Christ not only experience weakness and unbelief, but also face the consequences of their denial. It is important for believers to understand that denying Christ is not a trivial matter, but a serious offense against the Son of God. Let us therefore remain steadfast in our faith, enduring any shame or reproach that may come our way, knowing that we will ultimately reign with Christ in his kingdom of grace.",
+            "wordCount": 117,
+            "quoteTokenProportion": 49.33,
+            "qualityScore": 1.8433184633157529,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.63,
+            "commentatorTierSimilarities": [
+                29.68,
+                34.36,
+                35.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we suffer with Christ, we will also reign with him, but if we deny him, he will also deny us. This verse teaches us that reigning with Christ is not just about salvation, but about enduring suffering for his sake. Denying Christ stems from weakness and unbelief, blinded by the allurements of the world. It is crucial to grasp the seriousness of denying Christ, as it is a direct contradiction to the truth. Let us hold fast to our faith, enduring shame and reproach, knowing that we will ultimately experience the reign of Christ in his kingdom of grace.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8064663270617145,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                29.35,
+                34.43,
+                36.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To suffer with Christ is a prerequisite to reigning with him in his kingdom of grace; salvation alone is not enough. Denying Christ exhibits weakness and unbelief, a result of being enticed by worldly allurements and overlooking the eternal life in the kingdom of God. We must recognize the seriousness of this denial and the consequences that follow, including shame, loss, and even death. Let us remain steadfast in our faith, enduring any persecution, knowing that we will ultimately experience the reward of reigning with Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5424937355024013,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                25.69,
+                32.71,
+                41.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To suffer with Christ is to partake in his reign, while denying him leads to being denied by him. This implies that salvation goes beyond mere belief; it requires endurance in the face of suffering. Denying Christ, on the other hand, is rooted in weakness and unbelief, caused by being enticed by worldly attractions. It is crucial to recognize the gravity of such denial, as it contradicts the truth and bears consequences. Let us hold firm to our faith, enduring shame and persecution, knowing that we will ultimately share in Christ's reign in the kingdom of grace.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.5597387858112515,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.2,
+            "commentatorTierSimilarities": [
+                26.79,
+                32.13,
+                41.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Reigning with Christ goes beyond salvation; it demands perseverance in the midst of suffering. Denying Christ stems from weakness and unbelief, resulting from being enticed by worldly pleasures. It is essential to comprehend the gravity of such denial, as it contradicts the truth and incurs consequences. Let us remain steadfast in our faith, enduring shame and persecution, knowing that we will ultimately share in Christ's reign in the kingdom of grace.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4525818508954464,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.64,
+            "commentatorTierSimilarities": [
+                25.57,
+                31.02,
+                43.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

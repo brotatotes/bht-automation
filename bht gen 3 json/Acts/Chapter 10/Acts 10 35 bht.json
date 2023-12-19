@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:29:43",
+    "verseRef": "Acts 10:35",
+    "bestBHT": {
+        "bht": "In every nation, individuals who seek after God, receive His witness, and humbly follow His will as far as they know it, have no extraneous hindrance placed in their way to Christ. Righteousness, understood in its internal and external sense, describes genuine and approved saintship. It is important to note that this acceptance with God is not based on works, but on the state of the heart and the fear of God, which includes all true religion and faith. Thus, all blessings of Christianity are freely offered to anyone who reaches out to receive them.",
+        "wordCount": 95,
+        "quoteTokenProportion": 43.06,
+        "qualityScore": 2.0142344048273415,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+        "commentatorTierSimilarities": [
+            33.44,
+            35.47,
+            31.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In every nation, men who seek after God, who receive His witness of Himself without which He has left no man, and humbly follow His will as far as they know it,\u2014these have no extraneous hindrance, such as uncircumcision, placed in their way to Christ, but are capable of being admitted into God\u2019s church though Gentiles, and as Gentiles.\" ",
+            "It is clearly unreasonable to suppose Peter to have meant, that each heathen\u2019s natural light and moral purity would render him acceptable in the sight of God:\u2014for, if so, why should he have proceeded to preach Christ to Cornelius, or indeed any more at all?",
+            "And it is equally unreasonable to find any verbal or doctrinal difficulty in the expression worketh righteousness, or to suppose that righteousness must be taken in its technical and imputed sense, and therefore that he alludes to the state of men after becoming believers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But in every nation\u2014not (observe), in every religion; according to a common distortion of these words.",
+            "This being the well-known phraseology of the Old Testament in describing the truly godly man, within the pale of revealed religion...",
+            "...the apostle intended to describe exactly such saintship\u2014in its internal spirituality and external fruitfulness\u2014as God had already pronounced to be genuine and approved."
+        ],
+        "Albert Barnes": [
+            "Acceptance with God does not depend on the fact of being descended from Abraham, or of possessing external privileges, but on the state of the heart.",
+            "He that feareth him...he who is a true worshipper of God, according to the light and privileges which he has, is approved by him, as giving evidence that he is his friend.",
+            "Those works were simply an evidence of true piety in the heart; a proof that he feared and loved God, and not a meritorious ground of acceptance."
+        ],
+        "John Calvin": [
+            "For the fear of God is nothing else but godliness and religion; and righteousness is that equity which men use among themselves, taking heed lest they hurt any man, and studying to do good to all men.",
+            "Therefore the first accepting of God, whereby he receiveth us into favor, is altogether free; for there can as yet no respect of works be had, seeing all things are corrupt and wicked.",
+            "The worthiness of the works doth not cause them to be had in estimation, but faith, which borroweth that of Christ which is wanting in works."
+        ],
+        "Philip Schaff": [
+            "Nationality, even a divinely-appointed nationality, like the Jewish, constitutes, in the sight of God, no essential mark of difference between one man and another.",
+            "The true distinction between one man and another, as before God, is moral.",
+            "The meaning of this passage is, that all the blessings of Christianity are freely offered to every human hand that is stretched out to receive them."
+        ],
+        "Archibald T. Robertson": [
+            "That is to say, a Gentile would not have to become a Jew in order to become a Christian.",
+            "On the great Day of Pentecost when he spoke of the promise 'to all those afar off' (Acts 2:39) Peter understood that they must first become Jews and then Christians.",
+            "The new idea that now makes a revolution in Peter's outlook is precisely this that Christ can and will save Gentiles like this Cornelius group without their becoming Jews at all."
+        ],
+        "John Gill": [
+            "he that feareth him; God, not with a slavish fear, or with the fear of punishment to be inflicted by him, with a fear of hell and damnation, with which Cain, Pharaoh, Judas, and even the devils themselves have feared him; nor with an hypocritical fear; but with a godly filial fear; which is a new covenant blessing, springs from the love of God.",
+            "is a grace implanted in the soul and regeneration, and includes all true religion, both external and internal; and faith among the rest, without which it is impossible to please God, or do works of righteousness acceptable in his sight.",
+            "it should be observed, that though God accepts of such who fear him, and work righteousness from a right principle, and to a right end, without any regard to their being circumcised, or not circumcised, or to their being of this or the other nation, yet their fear of him, and working righteousness, are not the ground of their acceptance; but are to be considered as descriptive of the persons, who are accepted by him in Christ."
+        ],
+        "John Wesley": [
+            "He that, first, reverences God, as great, wise, good, the cause, end, and governor of all things.",
+            "Not only avoids all known evil, but endeavours, according to the best light he has, to do all things well.",
+            "He is in the favour of God, whether enjoying his written word and ordinances or not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In every nation, there are individuals who seek after God, receive His witness, and humbly follow His will as far as they know it. These individuals, regardless of their religious background or external privileges, have no hindrance in coming to Christ. This does not imply that natural light and moral purity render one acceptable to God, but rather that righteousness, understood in its internal and external sense, describes the genuine and approved saintship that God desires. It is important to note that this acceptance with God is not based on works, but on the state of the heart and the fear of God, which includes all true religion and faith. The distinction between individuals, according to God, is not based on nationality but on moral character. Thus, all blessings of Christianity are freely offered to anyone who reaches out to receive them.",
+            "wordCount": 142,
+            "quoteTokenProportion": 40.86,
+            "qualityScore": 2.0244462237926273,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
+            "commentatorTierSimilarities": [
+                30.34,
+                38.11,
+                31.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In every nation, individuals who seek after God, receive His witness, and humbly follow His will as far as they know it, have no extraneous hindrance placed in their way to Christ. Righteousness, understood in its internal and external sense, describes genuine and approved saintship. It is important to note that this acceptance with God is not based on works, but on the state of the heart and the fear of God, which includes all true religion and faith. Thus, all blessings of Christianity are freely offered to anyone who reaches out to receive them.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 2.0142344048273415,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                33.44,
+                35.47,
+                31.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In every nation, individuals who seek after God and humbly follow His will as far as they know it, have no extraneous hindrance placed in their way to Christ. Righteousness, understood in its internal and external sense, describes genuine and approved saintship. This acceptance with God is not based on works, but on the state of the heart and the fear of God, which includes all true religion and faith. Thus, all blessings of Christianity are freely offered to anyone who reaches out to receive them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.0000062522077897,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                33.37,
+                34.79,
+                31.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In every nation, individuals who seek God and follow His will as far as they know it have no extraneous hindrance to come to Christ. Genuine saintship is characterized by righteousness in its internal and external sense, not by works. This acceptance with God is based on the fear of God, which encompasses true religion and faith. It is important to note that this acceptance is not limited by nationality, but by moral character. Thus, all the blessings of Christianity are freely offered to anyone who reaches out to receive them.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.8576076347011437,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                31.03,
+                36.9,
+                32.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In every nation, those who seek after God, receive His witness, and humbly follow His will can be admitted into God's church without any hindrance. Acceptance with God is not based on nationality or external privileges, but on the state of the heart. It is important to note that righteousness should be understood in its internal and external sense, not merely as works or being circumcised. The fear of God, which includes all true religion and faith, is a key factor in pleasing Him and doing works of righteousness. Thus, all blessings of Christianity are freely offered to those who fear God and work righteousness.",
+            "wordCount": 106,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.054448595437331,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+            "commentatorTierSimilarities": [
+                29.02,
+                35.97,
+                35.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

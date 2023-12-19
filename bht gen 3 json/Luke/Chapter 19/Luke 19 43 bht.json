@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:22:05",
+    "verseRef": "Luke 19:43",
+    "bestBHT": {
+        "bht": "Jerusalem faced a dreadful fate as the city was consigned to unparalleled horrors and cut off from any hope of escape. The Romans would encircle Jerusalem with a trench made of pointed stakes, called a bank, to hold it together on every side. Our Lord, aware of the inevitable judgment, expressed His sorrow and prophesied the days of retribution that would follow. The severe punishment Jerusalem endured serves as a strong reminder to receive God's grace and not extinguish the light of salvation.",
+        "wordCount": 84,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.5232354909733676,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.99,
+        "commentatorTierSimilarities": [
+            21.1,
+            42.93,
+            35.97
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "This 'cut off all hope of escape,' and consigned the city to unparalleled horrors.",
+            "All here predicted was with dreadful literally fulfilled.",
+            "SECOND CLEANSING OF THE TEMPLE AND SUBSEQUENT TEACHING."
+        ],
+        "Marvin Vincent": [
+            "A trench [\u03c7\u03b1\u03c1\u03b1\u03ba\u03b1] . Rev., correctly, as Tynd., a bank. Only here in New Testament.\" ",
+            "The word literally means a pointed stake, used in fortifying the intrenchments of a camp, and thence the palisade itself.\" ",
+            "Every Roman soldier carried three or four of these stakes on the march."
+        ],
+        "John Calvin": [
+            "They summon up courage to pronounce severe threatenings because they know that not only are they commanded to watch over the salvation of men, but that they have also been appointed to be the heralds of the judgment of God.",
+            "Let the fearful nature of the punishments which she endured now alarm us, that we may not, by our carelessness, extinguish the light of salvation.",
+            "Be careful to receive the grace of God, and may even run with rigor to meet it."
+        ],
+        "Philip Schaff": [
+            "Because our Lord knew that the judgment was inevitable, He voices His sorrow not only in loud weeping but in this pathetic unavailing wish.",
+            "There is a day of decision, but days of retribution.",
+            "After the Jews burned the palisades, Titus erected a wall, which hemmed in the city. Hence the famine."
+        ],
+        "Archibald T. Robertson": [
+            "Shall cast up a bank... in a military sense of line of battle or in camp.\" ",
+            "Here alone in the N.T.\" ",
+            "Shall hold thee together on every side."
+        ],
+        "John Gill": [
+            "For the days shall come upon thee, suddenly, and very quickly.",
+            "Shall cast a trench about thee, and compass thee round, and keep thee in on every side.",
+            "By which means they were pent up, starved, and famished, and reduced to inexpressible distress."
+        ],
+        "John Wesley": [
+            "Thine enemies shall cast a trench about thee, and compass thee around \u2014 All this was exactly performed by Titus, the Roman general."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jerusalem was facing a dreadful fate as it was about to be besieged and its inhabitants subjected to unparalleled horrors. The Romans would erect a trench, a fortified intrenchment made of pointed stakes, to hold the city together on every side. Our Lord, knowing the inevitability of this judgment, expressed His sorrow and prophesied the days of retribution that would come upon Jerusalem. The grace of God was to be received with great care, for the punishment she endured was severe and should serve as a warning to all. The Romans indeed encircled the city with a wall, leading to famine and inexpressible distress for its people.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.4841707959288017,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.69,
+            "commentatorTierSimilarities": [
+                19.24,
+                43.97,
+                36.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jerusalem faced its impending doom, the city was described as being cut off all hope of escape and destined for unparalleled horrors. The Romans, led by Titus, would enclose Jerusalem with a trench made of pointed stakes, a fortification known as a bank. Our Lord's sorrowful wish for a different outcome revealed His knowledge of the inevitable judgment and the coming days of retribution. The severity of Jerusalem's punishment should serve as a warning to all, emphasizing the need to receive God's grace and not extinguish the light of salvation.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.402090942427093,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.96,
+            "commentatorTierSimilarities": [
+                18.73,
+                43.52,
+                37.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jerusalem faced a grim fate, being consigned to unparalleled horrors and cut off from hope of escape. The Romans would surround the city, erecting a trench made of pointed stakes, effectively holding it together on every side. Our Lord expressed His sorrow in the face of this inevitable judgment, knowing that days of retribution would follow. The severity of Jerusalem's punishment serves as a stark warning, urging us to receive God's grace and not extinguish the light of salvation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.441998436463602,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.29,
+            "commentatorTierSimilarities": [
+                19.96,
+                44.45,
+                35.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jerusalem faced a dreadful fate as the city was consigned to unparalleled horrors and cut off from any hope of escape. The Romans would encircle Jerusalem with a trench made of pointed stakes, called a bank, to hold it together on every side. Our Lord, aware of the inevitable judgment, expressed His sorrow and prophesied the days of retribution that would follow. The severe punishment Jerusalem endured serves as a strong reminder to receive God's grace and not extinguish the light of salvation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.5232354909733676,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.99,
+            "commentatorTierSimilarities": [
+                21.1,
+                42.93,
+                35.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jerusalem faced the imminent threat of being besieged and subjected to unparalleled horrors. The Romans would surround the city with a trench made of pointed stakes, known as a bank, effectively holding it together on every side. Our Lord's sorrowful wish revealed His awareness of the inevitable judgment and the forthcoming days of retribution. In light of the severe punishment endured by Jerusalem, the need for us to receive God's grace and not extinguish the light of salvation is emphasized.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.389734168490449,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.55,
+            "commentatorTierSimilarities": [
+                19.83,
+                43.13,
+                37.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

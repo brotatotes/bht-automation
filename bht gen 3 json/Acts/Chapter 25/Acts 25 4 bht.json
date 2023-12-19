@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:36:10",
+    "verseRef": "Acts 25:4",
+    "bestBHT": {
+        "bht": "Festus answers the Jews' request to have Paul brought to Jerusalem by firmly stating that Paul is already in custody in Caesarea. Festus acknowledges the Jews' desire for a quick resolution, but insists on the convenience of handling the case in Caesarea, where he holds court. Festus' response is both conciliatory and within his rights as the governor. His decision to keep Paul in Caesarea proves wise and prudent, ensuring the protection of Paul's life and preserving the Roman citizen's rights. God's invisible hand is evident in the unfolding events, displaying wisdom and energy.",
+        "wordCount": 97,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.6367865101854515,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.77,
+        "commentatorTierSimilarities": [
+            34.86,
+            37.05,
+            28.09
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "4-6. answered that Paul should be",
+            "\tkept\u2014rather, \"is in custody.\" ",
+            "\t",
+            "at C\u00e6sarea, and . . .",
+            "\thimself would depart shortly thither."
+        ],
+        "Albert Barnes": [
+            "What induced Festus to refuse their request is not known.",
+            "It is probable, however, that he was apprised that Paul was a Roman citizen.",
+            "Festus, however, granted them all that they could reasonably ask, and assured them that he should have a speedy trial."
+        ],
+        "Marvin Vincent": [
+            "Should be kept. This puts it as a peremptory denial of the Jews' request by Festus; whereas it is only his statement of a fact.",
+            "Render, as Rev., that Paul was kept in charge.",
+            "Festus' reply is conciliatory, and is put on the ground of convenience."
+        ],
+        "Philip Schaff": [
+            "In the Greek, they are perfectly courteous, and even conciliatory.",
+            "'But Festus answered that Paul was kept' (not 'should be kept'), that is to say, as he was in prison then...",
+            "...it was not worth while to bring the prisoner up to Jerusalem now."
+        ],
+        "Archibald T. Robertson": [
+            "Festus was clearly suspicious (verse Acts 25:6) and was wholly within his rights to insist that they make their charges in Caesarea where he held court.",
+            "H\u03bf\u03c4 with finite verb is more common after \u03b1\u03c0\u03bf\u03ba\u03c1\u03b9\u03bd\u03bf\u03bc\u03b1, but the infinitive with the accusative of general reference is proper as here.",
+            "Festus is clearly within his rights again since his stay in Caesarea had been so brief."
+        ],
+        "John Gill": [
+            "The answer was a very wise and prudent one, and the reasons given were just and strong.",
+            "Paul had been sent to Caesarea, was left bound by his predecessor there; there he found him, and there he was under a proper guard, and there it was right for him to continue.",
+            "It was very improper to send for Paul thither."
+        ],
+        "John Wesley": [
+            "Festus's care to preserve the imperial privileges was the means of preserving Paul's life.",
+            "By what invisible springs does God govern the world!",
+            "With what silence, and yet with what wisdom and energy!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Festus answers the Jews' request to have Paul brought to Jerusalem by firmly stating that Paul is already in custody in Caesarea. Festus acknowledges the Jews' desire for a quick resolution, but insists on the convenience of handling the case in Caesarea, where he holds court. Festus' response is both conciliatory and within his rights as the governor. His decision to keep Paul in Caesarea proves wise and prudent, ensuring the protection of Paul's life and preserving the Roman citizen's rights. God's invisible hand is evident in the unfolding events, displaying wisdom and energy.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.6367865101854515,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.77,
+            "commentatorTierSimilarities": [
+                34.86,
+                37.05,
+                28.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Festus denies the Jews' request to bring Paul to Jerusalem, stating that Paul is already in custody in Caesarea. His response is conciliatory yet firm, highlighting the convenience of handling the case in Caesarea. This decision proves wise, not only preserving Paul's life and Roman citizen rights but also showcasing God's invisible hand in governing the world with wisdom and energy.",
+            "wordCount": 63,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.5726308166076846,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                32.08,
+                37.07,
+                30.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Festus firmly denies the Jews' request, stating that Paul is already in custody in Caesarea. His response is conciliatory, acknowledging the Jews' desire for a speedy resolution, but emphasizing the convenience of dealing with the case in Caesarea. This decision proves wise, as it ensures the preservation of Paul's life and Roman citizen privileges. It is evident that God is orchestrating events behind the scenes, governing the world with wisdom and energy.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.5472994394341195,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.79,
+            "commentatorTierSimilarities": [
+                32.36,
+                36.01,
+                31.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Festus answers the Jewish leaders' request regarding Paul by firmly stating that Paul is already in custody in Caesarea, emphasizing that he should continue to be kept there. His response is conciliatory yet assertive, acknowledging the Jews' desire for a swift resolution but highlighting the practicality of handling the case in Caesarea. This decision proves wise, safeguarding Paul's life and upholding his Roman citizen rights. It is evident that God's guiding hand is at work, silently yet wisely governing the unfolding events.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.5498234014354428,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                30.73,
+                37.6,
+                31.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Festus firmly denies the Jews' request, stating that Paul is already in custody in Caesarea. His response is conciliatory, emphasizing the convenience of handling the case there. This ensures the preservation of Paul's life and Roman citizen rights. God's invisible hand is evident, governing the unfolding events with wisdom and energy.",
+            "wordCount": 53,
+            "quoteTokenProportion": 26.19,
+            "qualityScore": 1.5246113723414465,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.04,
+            "commentatorTierSimilarities": [
+                31.53,
+                35.69,
+                32.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

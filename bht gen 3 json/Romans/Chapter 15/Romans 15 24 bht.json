@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:10:31",
+    "verseRef": "Romans 15:24",
+    "bestBHT": {
+        "bht": "Paul affectionately desired to spend more time with the Romans, though he acknowledged the limitations of his visit. He longed to be filled with their company and experience great satisfaction and joy in their fellowship. While it remains disputed whether his purpose was ultimately accomplished, Paul held the church in Rome in high regard and intended to witness their order, steadfastness in faith, and peaceful unity. Ultimately, his longing for connection reflects the universal human longing for fulfillment, which can only be truly satisfied by Christ.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.6622102764745943,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.61,
+        "commentatorTierSimilarities": [
+            16.89,
+            47.24,
+            35.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "somewhat is an affectionate limitation of the expression I be filled",
+            "he would wish to remain much longer than he anticipated being able to do",
+            "no length of time can fill me, nor cause in me satiety of your company"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whether this purpose was ever accomplished has been much disputed, as no record of it nor allusion to it anywhere occurs.\" ",
+            "If these words were not originally in the text, and there is weighty evidence against them, they must at least be inserted as a necessary supplement.",
+            "I should indeed like to stay longer with you than I can hope to do, but I must, to some extent at least, have my fill of your company."
+        ],
+        "Albert Barnes": [
+            "It is remarkable, even here, that the apostle does not say that his principal object was to visit the church at Rome, much as he desired that, but only to 'take it in his way' in the fulfillment of his higher purpose to preach the gospel in regions where Christ was not named.",
+            "To be brought on my way ... To be assisted by you in regard to this journey; or to be accompanied by you. This was the custom of the churches.",
+            "Filled - This is a strong expression, meaning to be 'satisfied,' to enjoy. To be 'filled' with a thing is to have great satisfaction and joy in it."
+        ],
+        "Marvin Vincent": [
+            "Paul adopts a modification of the Roman name, Hispania.",
+            "In my journey [\u03b4\u03b9\u03b1\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . Lit., journeying through, or as I pass through.",
+            "Filled [\u03b5\u03bc\u03c0\u03bb\u03b7\u03c3\u03b8\u03c9] . Lit., filled full : satiated."
+        ],
+        "John Calvin": [
+            "He refers to the reason why he had for a long time wished to come to them, and now intended to do",
+            "so, \u2014 even that he might see them, enjoy an interview and an intercourse with them, and make himself known to them in his official character; for by the coming of the Apostles the gospel also came.",
+            "By saying, to be brought on my way thither by you, he intimates how much he expected from their kindness; and this, as we have already observed, is the best way for conciliating favor; for the more confidence any one hears is reposed in him, the stronger are the obligations under which he feels himself.",
+            "And by adding, When I shall first be in part filled, etc., he bears witness to the benevolence of his mind towards them; and to convince them of this was very necessary for the interest of the gospel."
+        ],
+        "Archibald T. Robertson": [
+            "If first in some measure I shall have been satisfied with your company.\" ",
+            "Paul planned only a brief stay in Rome since a strong church already existed there.",
+            "It was a Roman province with many Jews in it."
+        ],
+        "John Gill": [
+            "It was his real intention, a settled resolution and determination in his mind so to do; but whereas everything of this kind depends not upon the will of man, but upon the will and providence of God.",
+            "To see a church of Christ in Gospel order, walking together in the faith and fellowship, and ordinances of it, and in peace one with another.",
+            "Before he should set forward from them to Spain, that he should be greatly delighted with beholding their order, and the steadfastness of their faith, hearing their sweet experiences, and observing their holy life and conversation, and their peace and concord among themselves."
+        ],
+        "John Wesley": [
+            "Where the gospel had not yet been preached.",
+            "How remarkable is the modesty with which he speaks!",
+            "Christ alone can thoroughly satisfy the soul."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though Paul expressed his desire to visit the Romans and be filled with their company, it is debated whether this ever came to pass. Nevertheless, Paul intended to briefly stay in Rome on his way to fulfill his higher purpose of preaching the gospel where Christ was not named. He longed to see the church in Rome, enjoy an interaction with them, and make himself known to them in his official role. His intention was to be accompanied, or at least receive assistance, from the Romans on his journey. It is clear that Paul held the church in Rome in high esteem and wished to witness their order, steadfastness in faith, and peace among themselves. Ultimately, Paul's deep desire to be filled with the company of the Romans reflects the satisfaction and joy that can only be found in Christ.",
+            "wordCount": 141,
+            "quoteTokenProportion": 40.7,
+            "qualityScore": 1.8015457242338055,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.24,
+            "commentatorTierSimilarities": [
+                18.95,
+                47.79,
+                33.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul desired to spend ample time with the Romans, but he knew his stay would be brief. His affectionate limitation of being filled with their company shows his longing to enjoy their fellowship and have his desire partially satisfied. He intended to express his official role and make himself known to them. This demonstrates his high regard for the church in Rome and his desire to witness their steadfastness in faith, their order, and their ability to live in peace with one another. Ultimately, Paul's longing to be filled with their company reflects the deep satisfaction that can only be found in Christ.",
+            "wordCount": 104,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.574583159056452,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+            "commentatorTierSimilarities": [
+                16.52,
+                43.52,
+                39.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul affectionately desired to spend more time with the Romans, though he acknowledged the limitations of his visit. He longed to be filled with their company and experience great satisfaction and joy in their fellowship. While it remains disputed whether his purpose was ultimately accomplished, Paul held the church in Rome in high regard and intended to witness their order, steadfastness in faith, and peaceful unity. Ultimately, his longing for connection reflects the universal human longing for fulfillment, which can only be truly satisfied by Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.6622102764745943,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.61,
+            "commentatorTierSimilarities": [
+                16.89,
+                47.24,
+                35.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's desire to spend more time with the Romans was filled with affection and longing. Although the success of his plan remains uncertain, he hoped to be fully satisfied by their company. Moreover, he held the church in Rome in high regard, desiring to witness their order, steadfastness in faith, and peaceful unity. Through his longing for connection and fulfillment, Paul demonstrates the universal human need for satisfaction that can ultimately be found in Christ alone.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.6187459848627952,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.17,
+            "commentatorTierSimilarities": [
+                18.13,
+                45.9,
+                35.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's deep longing to spend more time with the Romans reveals his affection for them. Although the fulfillment of his wish remains uncertain, he desired to be completely satisfied by their company. He held the church in Rome in high regard, yearning to witness their order, steadfastness in faith, and peaceful unity. Through his longing, Paul exemplifies the universal desire for fulfillment that can only be truly satisfied in Christ alone.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.6162974548544073,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.08,
+            "commentatorTierSimilarities": [
+                17.43,
+                44.4,
+                38.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

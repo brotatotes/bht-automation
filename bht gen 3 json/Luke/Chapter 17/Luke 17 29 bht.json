@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:21:01",
+    "verseRef": "Luke 17:29",
+    "bestBHT": {
+        "bht": "The Hebrew word used here for brimstone has alternative translations, such as sulphur. Scholars propose that it could also signify pitch or rosin derived from specific trees, possibly the pine tree used for constructing the ark. Regardless of the precise connotation, the mention of brimstone implies an extraordinary and miraculous event, as neither a shower of pitch nor sulphur could be accounted for in an ordinary way.",
+        "wordCount": 67,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 2.1037217035661833,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.29,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "The Hebrew word, \u05d2\u05e4\u05e8\u05d9\u05ea, used in Genesis 19:24 though it is rendered in the Targum of Jonathan, \u05db\u05d1\u05e8\u05d9\u05ea\u05d0, and by the Septuagint, \u03b8\u03b5\u03b9\u03bf\u03bd; both which words signify 'sulphur', or brimstone; and which last word is used here, following the Greek version; yet it is observed, by some learned men, that it rather signifies 'pitch', or 'rosin', which proceeds from some sort of trees...",
+            "...by its derivation, it seems to signify something belonging to or that comes out of the wood of Gopher, of which the ark was made, Genesis 6:14 which some think to be the pine tree, from whence comes pitch.",
+            "A shower of neither [pitch or brimstone], can be accounted for in an ordinary way, but must be extraordinary and miraculous."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, the word brimstone is used, which in Hebrew can also be translated as sulphur. However, some scholars argue that it could also refer to pitch or rosin that comes from certain trees, like the pine tree. Regardless of the exact meaning, it is clear that the use of brimstone here signifies something extraordinary and miraculous, as a shower of either pitch or brimstone cannot be explained in an ordinary way.",
+            "wordCount": 73,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.9949403855856132,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the Hebrew word used for brimstone can also be translated as sulphur. However, some scholars suggest that it may instead refer to pitch or rosin, which comes from certain trees like the pine tree used to make the ark. Regardless of the exact translation, the use of brimstone signifies something extraordinary and miraculous, as a shower of either pitch or brimstone cannot be explained in an ordinary way.",
+            "wordCount": 71,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.1757168461095717,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Hebrew word used for brimstone in this context can alternatively be translated as sulphur. However, some scholars argue that it could also denote pitch or rosin derived from certain trees, such as the pine tree used in constructing the ark. Regardless of the precise interpretation, the mention of brimstone suggests a remarkable and miraculous occurrence, as neither a shower of pitch nor sulphur could be explained as a natural phenomenon.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.011568883364956,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Hebrew word used here for brimstone has alternative translations, such as sulphur. Scholars propose that it could also signify pitch or rosin derived from specific trees, possibly the pine tree used for constructing the ark. Regardless of the precise connotation, the mention of brimstone implies an extraordinary and miraculous event, as neither a shower of pitch nor sulphur could be accounted for in an ordinary way.",
+            "wordCount": 67,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.1037217035661833,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.29,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The interpretation of the word used for brimstone here is varied. While some translations render it as sulphur, others argue that it could signify pitch or rosin from certain trees, like the pine tree used in constructing the ark. Nevertheless, regardless of the specific meaning, the mention of brimstone indicates an exceptional and supernatural phenomenon, as a shower of either pitch or brimstone cannot be explained through natural means.",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8805264729268742,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.87,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

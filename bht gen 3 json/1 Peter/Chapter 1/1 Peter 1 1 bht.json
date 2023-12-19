@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:38:37",
+    "verseRef": "1 Peter 1:1",
+    "bestBHT": {
+        "bht": "Peter, an apostle of Jesus Christ, writes to the elect strangers of the dispersion. These are the chosen ones of God, His adopted family in Christ, forming part of the Israel of God. They are the children of God scattered abroad, yet one whole in Christ who gathers them together. Realizing their election by God's grace, they are motivated to live a holy life. As Peter, or Petros, signifies a rock, Christians are called to see themselves as sojourners in a foreign land, on their way to their heavenly homeland.",
+        "wordCount": 91,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.9915830412062094,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+        "commentatorTierSimilarities": [
+            42.57,
+            30.92,
+            26.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peter, an apostle of Jesus Christ, to the elect strangers of the dispersion.\" ",
+            "Chosen of God to His adopted family in Christ.",
+            "There is no reason to exclude Gentile Christians from among them, as forming part of the Israel of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The children of God scattered abroad\" constitute one whole in Christ, who \"gathers them together in one,\" now partially and in Spirit, hereafter perfectly and visibly.",
+            "The election here is that of individuals to eternal life by the sovereign grace of God, as the sequel shows.",
+            "Realization of our election is a strong motive to holiness."
+        ],
+        "Albert Barnes": [
+            "He here addresses them as elect; in the following verse he shows them in what way they were elected.",
+            "The word means, literally, a by-resident, a sojourner among a people not one\u2019s own - Robinson.",
+            "He would regard them still as the people of God, though dispersed abroad; as those who were away from what was properly the home of their fathers."
+        ],
+        "Marvin Vincent": [
+            "Peter [\u03c0\u03b5\u03c4\u03c1\u03bf\u03c2] . See on Matthew 16:18. As Paul in his letters does not call himself by his original name of Saul, so Peter calls himself, not Simon, but Peter, the name most significant and precious both to himself and to his readers, because bestowed by his Lord.",
+            "Of all the catholic epistles, Peter's alone puts forward his apostleship in the introduction. He is addressing churches with which he had no immediate connection, and which were distinctively Pauline. Hence he appeals to his apostleship in explanation of his writing to them, and as his warrant for taking Paul 's place.",
+            "Persons sojourning for a brief season in a foreign country. Though applied primarily to Hebrews scattered throughout the world, it has here a wider, spiritual sense, contemplating Christians as having their citizenship in heaven."
+        ],
+        "John Calvin": [
+            "For as it was not then sufficient for the victim to be slain and the blood to be poured out, except the people were sprinkled; so now the blood of Christ which has been shed will avail us nothing, except our consciences are by it cleansed.\" ",
+            "We hence conclude, that election is not to be separated from calling, nor the gratuitous righteousness of faith from newness of life.",
+            "They were sojourners, because they had been dispersed, some in Pontus, some in Galatia, and some in Bithynia."
+        ],
+        "Archibald T. Robertson": [
+            "Peter (\u03a0\u03b5\u03c4\u03c1\u03bf\u03c2). Greek form for the Aramaic (Chaldaic) \u03a7\u03b7\u03c6\u03b1\u03c2, the nickname given Simon by Jesus when he first saw him (John 1:42) and reaffirmed in the Greek form on his great confession (Matthew 16:18), with an allusion to \u03c0\u03b5\u03c4\u03c1\u03b1, another form for a rock, ledge, or cliff.",
+            "The picture in the metaphor here is that heaven is our native country and we are only temporary sojourners here on earth.",
+            "The Christian is a pilgrim on his way to the homeland."
+        ],
+        "John Gill": [
+            "Peter, the same with Cephas, which signifies a rock, or stone; a name given him by Christ at his first conversion, and which respected his after firmness, solidity, resolution, and constancy.",
+            "The writer of this epistle describes himself first by his name, Peter...and he further describes himself by his office as an apostle of Jesus Christ.",
+            "The persons he writes to are the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia"
+        ],
+        "John Wesley": [
+            "To the sojourners \u2014 Upon earth, the Christians, chiefly those of Jewish extraction.",
+            "Scattered \u2014 Long ago driven out of their own land.",
+            "He names these five provinces in the order wherein they occurred to him, writing from the east."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, an apostle of Jesus Christ, addresses the elect strangers of the dispersion. These are the chosen ones of God, His adopted family in Christ, which includes both Jews and Gentiles. Though primarily referring to Hebrews scattered throughout the world, it also has a wider, spiritual sense, signifying Christians as sojourners in a foreign country. Just as Peter's name was given by the Lord himself and carries significance, the believers are called to see themselves as temporary residents on earth, pilgrims on their way to their heavenly homeland. The realization of their election is a strong motivation for living a holy life.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.941871616855698,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+            "commentatorTierSimilarities": [
+                44.18,
+                28.84,
+                26.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, an apostle of Jesus Christ, writes to the elect strangers of the dispersion. These are the chosen ones of God, His adopted family in Christ, forming part of the Israel of God. They are the children of God scattered abroad, yet one whole in Christ who gathers them together. Realizing their election by God's grace, they are motivated to live a holy life. As Peter, or Petros, signifies a rock, Christians are called to see themselves as sojourners in a foreign land, on their way to their heavenly homeland.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9915830412062094,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+            "commentatorTierSimilarities": [
+                42.57,
+                30.92,
+                26.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, an apostle of Jesus Christ, addresses the elect strangers of the dispersion. These are the chosen ones of God, His adopted family in Christ, forming part of the Israel of God. The believers, as sojourners in a foreign country, are reminded of their heavenly citizenship. Peter's self-identification as an apostle demonstrates his warrant to write to these churches, even though not directly connected to them. Realizing their election is a powerful motive for holiness, as they are pilgrims on their way to their true homeland.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9295903228950322,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+            "commentatorTierSimilarities": [
+                43.13,
+                31.22,
+                25.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, an apostle of Jesus Christ, writes to the elect strangers of the dispersion. These chosen individuals, both Jewish and Gentile Christians, are part of the Israel of God. As sojourners in a foreign land, they are reminded of their heavenly citizenship. Peter's self-identification as an apostle serves as his warrant to write to these churches, who were distinctively Pauline. The realization of their election by God's grace motivates them to pursue holiness, for they are pilgrims on a journey to their heavenly homeland.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.901857435085525,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.58,
+            "commentatorTierSimilarities": [
+                42.16,
+                30.15,
+                27.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, an apostle of Jesus Christ, addresses the elect strangers of the dispersion. These chosen individuals, regardless of their ethnicity, are part of the one body in Christ. They are sojourners, temporary residents on earth, as their true home is in heaven. Peter's self-identification as an apostle emphasizes his authority to write to these Pauline churches. Realizing their election by God's grace, they are called to live a holy life as they journey towards their eternal homeland.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8961737775907577,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                41.05,
+                32.08,
+                26.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

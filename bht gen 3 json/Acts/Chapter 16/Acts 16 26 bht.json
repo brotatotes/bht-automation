@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:32:24",
+    "verseRef": "Acts 16:26",
+    "bestBHT": {
+        "bht": "In this remarkable account, the chains of Paul and Silas were released, not by the earthquake alone, but through a divine intervention that went beyond natural events. The earthquake itself was a response to the prayers and hopes of the prisoners, demonstrating God's gracious purposes. It is clear that the narrator viewed this as a direct answer to prayer, showcasing the power of God at work. The miraculous loosing of chains and opening of doors served as a confirmation both for the prisoners and for those witnessing this extraordinary event.",
+        "wordCount": 91,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 2.0000419635756903,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+        "commentatorTierSimilarities": [
+            28.88,
+            40.03,
+            31.09
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Their chains were loosed, not by the earthquake, but by miraculous interference over and above it.",
+            "It is some satisfaction to find, that few, even among the rationalist Commentators, have attempted to rationalize this wonderful example of the triumph of prayer.",
+            "Doubtless there were gracious purposes in this for those prisoners, who before were listening to the praises of Paul and Silas."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And suddenly there was a great earthquake\u2014in answer, doubtless, to the prayers and expectations of the sufferers that, for the truth's sake and the honor of their Lord, some interposition would take place.",
+            "every one's bands\u2014that is, the bands of all the prisoners.",
+            "were loosed\u2014not by the earthquake, of course, but by a miraculous energy accompanying it."
+        ],
+        "Albert Barnes": [
+            "An earthquake, in such circumstances, was regarded as a symbol of the presence of God, and as an answer to prayer.",
+            "Probably the design was to impress all the prisoners with the conviction of the presence and power of God, and thus to prepare them to receive the message of life from the lips of his servants Paul and Silas.",
+            "It renders this scene the more remarkable, that though the doors were opened, and the prisoners loosed, yet no one made any attempt to escape."
+        ],
+        "John Calvin": [
+            "He could have loosed the fetters of Paul and Silas without an earthquake, and also have opened the gates. But that addition served not a little to confirm them, seeing that the Lord, for their sakes, did shake both the air and also the earth.\" (Commentary)",
+            "Again, it was requisite that the keeper of the prison and the rest should feel the presence of God, lest they should think that the miracle came by chance.\" (Commentary)",
+            "The faithful may fully assure themselves that he will be nigh unto them so often as they are to enter combats and dangers for the defense of the gospel.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "The simple words of the narrator can only be understood as an account of a miraculous interference on the part of the King ruling in heaven in behalf of His persecuted servants.",
+            "The earthquake never loosed the prisoners\u2019 chains or opened those close-barred and chain-protected doors; the Divine power which commanded the earthquake loosed the chains and opened the barred-up doors."
+        ],
+        "Archibald T. Robertson": [
+            "Luke regarded it as an answer to prayer as in Acts 4:31.",
+            "If the prison was excavated from rocks in the hillside, as was often the case, the earthquake would easily have slipped the bars of the doors loose and the chains would have fallen out of the walls.",
+            "First aorist passive indicative of \u03b1\u03bd\u03bf\u03b9\u03b3\u03c9 (or -\u03bd\u03c5\u03bc) with triple augment (\u03b7, \u03b5, \u03c9), while there is no augment in \u03b1\u03bd\u03b5\u03b8\u03b7 (first aorist passive indicative of \u03b1\u03bd\u03b9\u03b7\u03bc, were loosed), old verb, but in the N.T. only here and Acts 27:40; Ephesians 6:9; Hebrews 13:5."
+        ],
+        "John Gill": [
+            "An extraordinary and unusual one; which did not arise from natural causes, from wind being pent up in the earth, but from the prayers and praises of the saints, going up to heaven.",
+            "The very foundation also; and yet the edifice was not thrown down, as is usual when the foundation is shaken.",
+            "This circumstance shows also, that the earthquake was miraculous, for when was it ever known that such an effect ever followed one?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 16:26, the chains of Paul and Silas were miraculously loosed, not by the earthquake itself, but by divine intervention beyond the natural event. This powerful earthquake, in response to their prayers, not only shook the prison, but also released the prisoners from their bonds. The narrator emphasizes the miraculous nature of this intervention, stating that it was a result of the King ruling in heaven on behalf of His persecuted servants. The earthquake served as a symbol of the presence and power of God, preparing the prisoners to receive the message of life from Paul and Silas. This extraordinary event not only impressed the prisoners, but also ensured that the keeper of the prison and others present recognized the hand of God, preventing them from attributing the miracle to mere chance. Overall, this passage highlights the faithfulness of God to His people, assuring them of His presence and protection in times of danger and adversity.",
+            "wordCount": 156,
+            "quoteTokenProportion": 28.74,
+            "qualityScore": 1.9377370611822904,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                26.05,
+                42.75,
+                31.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, the chains of Paul and Silas were miraculously loosed, not by the earthquake itself, but by divine intervention. The earthquake was, undoubtedly, an answer to the prayers and expectations of the prisoners. It served as a symbol of God's presence and power, impressing both the prisoners and those present. By shaking the prison and releasing the prisoners from their bonds, the miraculous nature of the earthquake was evident. This event demonstrated God's faithfulness to His persecuted servants and showed that His power surpasses natural explanations.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9954446142629825,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                29.95,
+                39.88,
+                30.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 16:26, the miraculous intervention of God is seen as the chains of Paul and Silas were loosed, not by the earthquake itself, but through divine power accompanying it. The earthquake was a response to the prayers and expectations of the prisoners, demonstrating God's gracious purposes and his willingness to show His presence and answer their pleas. This extraordinary event, far from being a coincidence, displayed the supernatural power of God, allowing the prisoners to witness His prowess and leading them to the message of life proclaimed by Paul and Silas.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.1237679584978,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.96,
+            "commentatorTierSimilarities": [
+                28.52,
+                41.5,
+                29.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through divine intervention, the chains of Paul and Silas were miraculously loosed in Acts 16:26. The powerful earthquake acted as a symbol of God's presence and was a direct answer to their prayers. This extraordinary event not only shook the prison, but it also astoundingly released all the prisoners from their bonds. The narrator emphasizes that it was the miraculous power of God, not the earthquake itself, that led to the prisoners' freedom. This marvelous display of God's power served to confirm the faith of the prisoners and those around them.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.9673927423780009,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                28.31,
+                41.52,
+                30.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this remarkable account, the chains of Paul and Silas were released, not by the earthquake alone, but through a divine intervention that went beyond natural events. The earthquake itself was a response to the prayers and hopes of the prisoners, demonstrating God's gracious purposes. It is clear that the narrator viewed this as a direct answer to prayer, showcasing the power of God at work. The miraculous loosing of chains and opening of doors served as a confirmation both for the prisoners and for those witnessing this extraordinary event.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0000419635756903,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                28.88,
+                40.03,
+                31.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

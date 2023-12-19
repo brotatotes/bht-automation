@@ -1,0 +1,90 @@
+{
+    "timestamp": "12-19-2023 16:17:17",
+    "verseRef": "Luke 10:6",
+    "bestBHT": {
+        "bht": "If there is a head of the household who is described as a son of peace, meaning someone inclined to peace, then your wish for peace will be received gratefully and the household will be filled with peace. However, if there are no receptive individuals in the house, your wish for peace will be rejected. The presence or absence of those inclined to peace determines the outcome of your salutation.",
+        "wordCount": 70,
+        "quoteTokenProportion": 53.49,
+        "qualityScore": 2.420813980379957,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.83,
+        "commentatorTierSimilarities": [
+            32.77,
+            28.4,
+            38.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] the son of peace: i.e. persons receptive of your message of peace;\u2014see reff."
+        ],
+        "Albert Barnes": [
+            "The son of peace - That is, if the 'house' or 'family' be 'worthy,' or be disposed to receive you in 'peace' and kindness.\" ",
+            "The son of peace means one 'disposed' to peace, or peaceful and kind in his disposition.\" ",
+            "Compare Matthew 1:1."
+        ],
+        "Marvin Vincent": [
+            "If a son of peace be there. So Rev. A Hebraism, referring to the character of the head of the house, and the tone of the household. Compare Job 21:9."
+        ],
+        "Philip Schaff": [
+            "A son of peace, i.e., one \u2018worthy,\u2019 one whose heart was ready to receive the message of peace they brought.",
+            "The original may refer either to the man or the house, the former is the more natural sense."
+        ],
+        "Archibald T. Robertson": [
+            "A son of peace...describing the head of the household.\" ",
+            "It shall turn to you again...the peace in that case will bend back with blessing.",
+            "Shall rest...meaning one inclined to peace."
+        ],
+        "John Gill": [
+            "If there be any elect person or persons in the house, whom God has chosen to partake of peace by the blood of Christ, and the benefits arising from it...",
+            "your peace shall rest upon it: the salutation, or wish of peace, shall be well taken, and gratefully received...",
+            "if there are no sons of peace, no elect persons there, your salutation, or wish of peace and prosperity to the family, will be despised and rejected..."
+        ],
+        "John Wesley": [
+            "A son of peace \u2014 That is, one worthy of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "If the head of the household is described as a son of peace, someone receptive to the message of peace, then your wish for peace will be well received and the household will be blessed with peace in return. This verse implies that the reception of peace depends on the disposition of the recipient, and if there are no receptive individuals in the house, your wish for peace will be disregarded. In other words, the presence or absence of sons of peace, those inclined to peace, determines the outcome of the salutation.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.7445913734243863,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.6,
+            "commentatorTierSimilarities": [
+                32.94,
+                28.69,
+                38.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If there is a head of the household who is described as a son of peace, meaning someone inclined to peace, then your wish for peace will be received gratefully and the household will be filled with peace. However, if there are no receptive individuals in the house, your wish for peace will be rejected. The presence or absence of those inclined to peace determines the outcome of your salutation.",
+            "wordCount": 70,
+            "quoteTokenProportion": 53.49,
+            "qualityScore": 2.420813980379957,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.83,
+            "commentatorTierSimilarities": [
+                32.77,
+                28.4,
+                38.83
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

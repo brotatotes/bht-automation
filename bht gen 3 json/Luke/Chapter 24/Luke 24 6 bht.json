@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:23:50",
+    "verseRef": "Luke 24:6",
+    "bestBHT": {
+        "bht": "The mention of Galilee is remarkable, as occurring in the angelic speeches in Matthew and Mark in quite another connexion. Here it is said to the women, as being from Galilee, see ch. xxiii. 55\u2014and meaning, \u2018when he was yet with you.\u2019 When he was yet with you. He is not here, but is risen. And yet they had forgotten it, for it ran counter to all their ideas and hopes.",
+        "wordCount": 71,
+        "quoteTokenProportion": 57.45,
+        "qualityScore": 1.594132889289947,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+        "commentatorTierSimilarities": [
+            35.24,
+            29.36,
+            35.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The mention of Galilee is remarkable, as occurring in the angelic speeches in Matthew and Mark in quite another connexion.",
+            "Here it is said to the women, as being from Galilee, see ch. xxiii. 55\u2014and meaning, \u2018when he was yet with you.\u2019",
+            "When he was yet with you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. in Galilee\u2014to which these",
+            "\twomen themselves belonged ( :-)."
+        ],
+        "Philip Schaff": [
+            "Remember, etc. This they had forgotten naturally enough in the circumstances.",
+            "When he was yet in Galilee, i.e., with them in Galilee, their home (Luke 23:55).",
+            "This verse has occasioned difficulty, in view of the fact that according to Matthew and Mark Galilee was spoken of by the angel in a different connection."
+        ],
+        "Archibald T. Robertson": [
+            "He is not here, but is risen.",
+            "And yet they had forgotten it, for it ran counter to all their ideas and hopes."
+        ],
+        "John Gill": [
+            "He is not here, but is risen.\" ",
+            "Remember how he spake unto you when he was yet in Galilee.\" ",
+            "For these women that followed him from Galilee were along with the disciples when he said the following words to them."
+        ],
+        "John Wesley": [
+            "Remember how he spake to you, saying, The Son of man must be delivered.\" ",
+            "This is only a repetition of the words which our Lord had spoken to them before his passion.\" ",
+            "But it is observable, he never styles himself the Son of man after his resurrection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The mention of Galilee in this verse is significant because it is different from the angelic speeches in Matthew and Mark. The mention of Galilee is meant to remind the women, who also came from Galilee, of the time when Jesus was with them. The angels declare that Jesus is not in the tomb because he has risen, though this truth had been forgotten by the women due to their conflicting expectations. This reminder prompts them to remember Jesus' previous words in Galilee about his coming suffering and resurrection.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.7839662995355106,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                19.81,
+                41.81,
+                38.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reference to Galilee is noteworthy, as it differs from the angelic speeches mentioned in Matthew and Mark. By addressing the women as Galileans, the angels intend to remind them of the time when Jesus was still with them. The announcement that Jesus has risen echoes the truth that had been overlooked due to the women's conflicting expectations. This reminder prompts their recollection of Jesus' earlier words in Galilee about his forthcoming suffering and resurrection.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5579473154054835,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                19.35,
+                41.43,
+                39.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of Galilee is remarkable, as occurring in the angelic speeches in Matthew and Mark in quite another connexion. Here it is said to the women, as being from Galilee, see ch. xxiii. 55\u2014and meaning, \u2018when he was yet with you.\u2019 When he was yet with you. He is not here, but is risen. And yet they had forgotten it, for it ran counter to all their ideas and hopes.",
+            "wordCount": 71,
+            "quoteTokenProportion": 57.45,
+            "qualityScore": 1.594132889289947,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                35.24,
+                29.36,
+                35.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mention of Galilee is notable here, as it differs from the angelic messages in other Gospels. By addressing the women as being from Galilee, the angels imply that they should remember what Jesus had said to them while he was still with them in Galilee. The women had forgotten this message, as it contradicted their expectations. The angel's words, He is not here, but is risen, serve as a reminder for the women to recall Jesus' previous teachings about his impending suffering and resurrection.",
+            "wordCount": 86,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.4835547063287693,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.67,
+            "commentatorTierSimilarities": [
+                20.92,
+                39.63,
+                39.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of Galilee is notable here, as it differs from the angelic messages in other Gospels. By addressing the women as being from Galilee, the angels imply that they should remember what Jesus had said to them while he was still with them in Galilee. The women had forgotten this message, as it contradicted their expectations. The angel's words, He is not here, but is risen, serve as a reminder for the women to recall Jesus' previous teachings about his impending suffering and resurrection.",
+            "wordCount": 86,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.4835547063287693,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.67,
+            "commentatorTierSimilarities": [
+                20.92,
+                39.63,
+                39.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

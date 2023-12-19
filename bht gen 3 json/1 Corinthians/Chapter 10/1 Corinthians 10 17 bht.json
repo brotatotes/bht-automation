@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 15:10:16",
+    "verseRef": "1 Corinthians 10:17",
+    "bestBHT": {
+        "bht": "By partaking of the bread, we become one bread, sharing in the substance of Christ's body. We are united as believers, representing the mystical spiritual body of Christ. As we all eat from the same loaf, we signify our spiritual unity and connection to each other. This communion not only binds us together but also distinguishes us from those who partake in idolatrous feasts. Just as believers are one body with Christ, we publicly display our oneness and belonging to the same family.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.5222518268335206,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.2,
+        "commentatorTierSimilarities": [
+            33.97,
+            32.61,
+            33.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By partaking of that bread, we become, not figuratively but literally, one bread: it passes into the substance of our bodies, and there is in every one who partakes, a portion of himself which is that bread.",
+            "The bread which was before, is now ourselves.",
+            "The argument is a very simple and direct one;\u2014the bread is the Body of Christ;\u2014we partake of the bread: therefore we partake of the Body of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "One loaf alone seems to have been used in each celebration.",
+            "We, the many (namely, believers assembled; so the Greek), are one bread.",
+            "We become one body with Christ, and so with one another."
+        ],
+        "Albert Barnes": [
+            "We are all one society; united as one, and for the same object.",
+            "Our partaking of the same bread is an emblem of the fact that we are one.",
+            "And we thus show publicly that we are united, and belong to the same great family."
+        ],
+        "Marvin Vincent": [
+            "Seeing that there is one bread, we who are many are one body.",
+            "By each and all receiving a piece of the one loaf, which represents Christ's body, they signify that they are all bound in one spiritual body, united to Christ and therefore to each other.",
+            "That which all eat is taken from the one loaf, and they eat of it mutually, in common, sharing it among them."
+        ],
+        "John Calvin": [
+            "we must, even by external profession, maintain that unity which subsists between us and Christ",
+            "he makes mention only of the one part of the Sacrament, and it is the manner of Scripture to describe by Synecdoche the entire Supper by the breaking of bread",
+            "lest any less experienced person should be put off his guard by the foolish cavil that is brought forward by certain sycophants"
+        ],
+        "Philip Schaff": [
+            "In all ancient times friends were made one over a common meal; much more is this oneness manifested when, on some festal occasion, great principles are represented and celebrated by those whose principles they are",
+            "How much more when Christians, as 'one body,' 'eat of that bread' in which their Lord would have them see 'His body broken for them,' and 'drink of that cup' in which they were to see 'His blood of the new covenant shed for them,' Thus was their common oneness with Him, in the first instance, and in virtue of this, their oneness among themselves, visibly set forth and palpably expressed.",
+            "Now comes the conclusion to be drawn from this in relation to idolatrous feasts that, on the same principle, all who partake of idol feasts partake of the idolatries themselves, and have fellowship with the idol-deities there represented."
+        ],
+        "Archibald T. Robertson": [
+            "One bread (\u03b5\u03b9\u03c2 \u03b1\u03c1\u03c4\u03bf\u03c2). One loaf.",
+            "Who are many (\u03bf \u03c0\u03bf\u03bb\u03bb\u03bf). The many.",
+            "One body (\u03b5\u03bd \u03c3\u03c9\u03bc\u03b1). Here the mystical spiritual body of Christ."
+        ],
+        "John Gill": [
+            "The several members of the church of Christ; particular believers are indeed many, considered in themselves, in their own persons; yet by virtue of their union to Christ, which is manifested by their communion with him, they are one bread with him, the bread of life, and one body with his, signified by the bread.",
+            "Believers, though they are many, yet are one body, of which Christ is the head; one in union with him and one another, and one in their communion together at the Lord's table.",
+            "The application designed is this, that as believers, by partaking of the same bread, appear to be the same body, and of the same mass and lump with one another; so such as eat things sacrificed unto idols, appear to be of the same mass and lump with Heathen idolaters."
+        ],
+        "John Wesley": [
+            "For it is this communion which makes us all one.",
+            "We being many are yet, as it were, but different parts of one and the same broken bread.",
+            "Which we receive to unite us in one body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "By partaking of the bread, we become one bread, sharing in the substance of Christ's body. We are united as believers, representing the mystical spiritual body of Christ. As we all eat from the same loaf, we signify our spiritual unity and our connection to Christ and to each other. This communion not only binds us together but also distinguishes us from those who partake in idolatrous feasts. Just as believers are one body with Christ, we are one society, publicly displaying our oneness and our belonging to the same family.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.5071327941758703,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.7,
+            "commentatorTierSimilarities": [
+                34.14,
+                32.36,
+                33.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By partaking of the bread, we become one bread, sharing in the substance of Christ's body. We are united as believers, representing the mystical spiritual body of Christ. As we all eat from the same loaf, we signify our spiritual unity and connection to each other. This communion not only binds us together but also distinguishes us from those who partake in idolatrous feasts. Just as believers are one body with Christ, we publicly display our oneness and belonging to the same family.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.5222518268335206,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.2,
+            "commentatorTierSimilarities": [
+                33.97,
+                32.61,
+                33.42
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

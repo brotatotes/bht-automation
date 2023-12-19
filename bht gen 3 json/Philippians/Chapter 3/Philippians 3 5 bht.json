@@ -1,0 +1,155 @@
+{
+    "timestamp": "12-19-2023 13:56:49",
+    "verseRef": "Philippians 3:5",
+    "bestBHT": {
+        "bht": "Paul, a Hebrew of Hebrews, emphasizes his Jewish heritage and strict observance of the law by highlighting his circumcision on the eighth day according to Jewish tradition. Being of pure Jewish extraction, not a proselyte, he takes great pride in his identity as an Israelite and being from the tribe of Benjamin. This background shapes his perspective on the importance of the law in his spiritual journey and his unique understanding of identity and belonging.",
+        "wordCount": 75,
+        "quoteTokenProportion": 32.0,
+        "qualityScore": 1.998670617518544,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.8,
+        "commentatorTierSimilarities": [
+            32.98,
+            31.29,
+            35.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In circumcision of eight days, of the race of Israel, of the tribe of Benjamin, an Hebrew, of Hebrews.\" ",
+            "Pure Jewish extraction.",
+            "Legal exactitude and position."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Being in circumcision an eighth day person,",
+            "   that is, not one circumcised in later life as a proselyte, ",
+            "   but on the eighth day after birth, as the law directed in the case of Jew-born infants.",
+            "   ",
+            "Hebrew of the Hebrews\u2014neither one or other parent being Gentile. ",
+            "   The 'Hebrew,' wherever he dwelt, retained the language of his fathers.",
+            "   ",
+            "A 'Grecian' or Hellenist, on the other hand, in the New Testament, ",
+            "   is the term used for a 'Greek-speaking' Jew."
+        ],
+        "Albert Barnes": [
+            "If there was any ground confidence from such compliance with the law, he had it.",
+            "He had all the advantages which could be derived from a regular descent from the venerable founders of the Jewish nation.",
+            "Paul says that he was entitled to all the advantage which could be derived from it."
+        ],
+        "Marvin Vincent": [
+            "A descendant of Jacob, not an Idumaean nor an Ishmaelite.",
+            "Not from one of the lost tribes, but from that which gave to Israel its first king.",
+            "He might be an Israelite and yet a child of Greek-speaking Jews: but his parents had retained their native tongue and customs."
+        ],
+        "John Calvin": [
+            "He was circumcised in the proper manner, and according to the appointment of the law.",
+            "(Commentary on Philippians 3:5)",
+            "He belonged to the race of Israel... could even go still farther back.",
+            "(Commentary on Philippians 3:5)",
+            "They corrupted the whole of Scripture by their inventions; but as they, at the same time, retained some sound interpretations, they were held in the highest esteem.",
+            "(Commentary on Philippians 3:5)"
+        ],
+        "Philip Schaff": [
+            "circumcised the eighth day, thus observing the outward ordinance at the very earliest moment that the law prescribes it.",
+            "He mentions this that it may be clear that not only he but his parents were Jews.",
+            "He was not of a father or mother who had come into the privileges of the chosen race as proselytes."
+        ],
+        "Archibald T. Robertson": [
+            "I have more ground for boasting than he\" ",
+            "Of the stock of Israel, of the original stock, not a proselyte\" ",
+            "A Hebrew of the Hebrews, of Hebrew parents who retained the characteristic qualities in language and custom as distinct from the Hellenistic Jews"
+        ],
+        "John Gill": [
+            "Circumcision was an appointment of God to Abraham, and his male issue... it was a distinguishing character of the Jews from the Gentiles...",
+            "The apostle was no Gentile, or an uncircumcised person; he had this mark in his flesh to glory in as well as others...",
+            "He was a genuine Hebrew. Some there were whose mothers were Hebrews, and their fathers Gentiles;... by the father and mother's side both; he was a genuine Hebrew."
+        ],
+        "John Wesley": [
+            "Circumcised the eighth day \u2014 Not at ripe age, as a proselyte.",
+            "Of the tribe of Benjamin \u2014 Sprung from the wife, not the handmaid.",
+            "An Hebrew of Hebrews \u2014 By both my parents; in everything, nation, religion, language."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in his letter to the Philippians, highlights his Jewish heritage and the strict observance of the law that marked his life. He emphasizes that he was circumcised on the eighth day as prescribed by the law. Moreover, he asserts that he is a true Hebrew, of pure Jewish extraction, and not a proselyte. The title Hebrew of Hebrews signifies both his Hebrew lineage and his commitment to the customs and language of his ancestors. By belonging to the tribe of Benjamin, the one that gave Israel its first king, Paul had even more reasons to boast about his heritage. He takes pride in his Jewish identity and the legal exactitude with which he lived his life. This background gave him a unique perspective on identity, belonging, and the significance of the law in his own spiritual journey.",
+            "wordCount": 138,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.9807160713544492,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                31.36,
+                34.25,
+                34.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, a Hebrew of Hebrews, emphasizes his Jewish heritage and strict observance of the law by highlighting his circumcision on the eighth day according to Jewish tradition. Being of pure Jewish extraction, not a proselyte, he takes great pride in his identity as an Israelite and being from the tribe of Benjamin. This background shapes his perspective on the importance of the law in his spiritual journey and his unique understanding of identity and belonging.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.998670617518544,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.8,
+            "commentatorTierSimilarities": [
+                32.98,
+                31.29,
+                35.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Philippians, Paul accentuates his Jewish lineage and adherence to the law through the mention of his circumcision on the eighth day. As a true Hebrew of pure Jewish extraction, not a proselyte, he proudly asserts his Israelite identity and Benjaminite ancestry. His commitment to Hebrew language, customs, and lineage allows him to boast, confidently proclaiming his status as a Hebrew of Hebrews. Through his background in Jewish heritage and strict observance of the law, Paul provides readers with insights into his spiritual journey and the significance of the law in his life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.0919147578835036,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+            "commentatorTierSimilarities": [
+                32.39,
+                31.73,
+                35.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in his letter to the Philippians, emphasizes his Jewish heritage and the importance of his strict adherence to the law. Being circumcised on the eighth day, he establishes his pure Jewish extraction and distinguishes himself as a true Hebrew. By belonging to the tribe of Benjamin, Paul can boast even more about his lineage. Through his background in Jewish customs and language, he offers readers a unique perspective on the significance of the law in his spiritual journey.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9871994015027812,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                30.14,
+                34.12,
+                35.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in his letter to the Philippians, highlights his Jewish heritage and the strict observance of the law that marked his life. He emphasizes that he was circumcised on the eighth day as prescribed by the law. Moreover, he asserts that he is a true Hebrew, of pure Jewish extraction, and not a proselyte. The title Hebrew of Hebrews signifies both his Hebrew lineage and his commitment to the customs and language of his ancestors. By belonging to the tribe of Benjamin, the one that gave Israel its first king, Paul had even more reasons to boast about his heritage. He takes pride in his Jewish identity and the legal exactitude with which he lived his life. This background gave him a unique perspective on identity, belonging, and the significance of the law in his own spiritual journey.",
+            "wordCount": 138,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.9807160713544492,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                31.36,
+                34.25,
+                34.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:22:46",
+    "verseRef": "Luke 22:1",
+    "bestBHT": {
+        "bht": "The feast of unleavened bread, also known as the Passover, was drawing near. This festival, during which the Jews eat their bread without leaven, in commemoration of the haste in which they went out of Egypt, was a time for introspection and the removal of leaven from their homes. The conspiracy against the life of Christ was formed two days before the Passover, adding a somber undertone to the approaching festival. As Christians, we can also see this as figurative of the unleavened bread of sincerity and truth with which we are to keep the Gospel feast.",
+        "wordCount": 97,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 1.7602699309626009,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+        "commentatorTierSimilarities": [
+            27.16,
+            0.0,
+            72.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "1, 2. (See on :-.)"
+        ],
+        "Marvin Vincent": [
+            "Feast [\u03b5\u03bf\u03c1\u03c4\u03b7] . Properly festival. See on Mark 14:1. ",
+            "Drew nigh. Imperfect : \"was drawing nigh."
+        ],
+        "Archibald T. Robertson": [
+            "Both names (unleavened bread and passover) are used here as in Mark 14:1.",
+            "This is the only place in the N.T. where the expression 'the feast of unleavened bread' occurs.",
+            "Mark 14:1 has just 'the unleavened bread.' Matthew 26:17 uses unleavened bread and passover interchangeably."
+        ],
+        "John Gill": [
+            "During which the Jews eat their bread without leaven, in commemoration of the haste in which they went out of Egypt\" (Luke 22:1).",
+            "And as figurative of the unleavened bread of sincerity and truth, with which the Gospel feast is to be kept\" (Luke 22:1).",
+            "The conspiracy was formed against the life of Christ... two days before the passover\" (Luke 22:1)."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The feast of unleavened bread, also known as the Passover, was drawing near. This festival, during which the Jews would eat bread without leaven, commemorated the haste in which they went out of Egypt. It was a time to reflect on their deliverance, as well as a time for introspection and the removal of leaven from their homes. Matthew 26:17 and Mark 14:1 interchangeably use the terms unleavened bread and Passover, highlighting the connection between the two. This conspiracy against the life of Christ was formed two days before the Passover, adding a somber undertone to the approaching festival. As Christians, we can also see this as figurative of the unleavened bread of sincerity and truth with which we are to keep the Gospel feast.",
+            "wordCount": 123,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.6601133788480769,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.54,
+            "commentatorTierSimilarities": [
+                29.59,
+                0.0,
+                70.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The feast of unleavened bread, also known as the Passover, was drawing near. This festival, during which the Jews eat their bread without leaven, in commemoration of the haste in which they went out of Egypt, was a time for introspection and the removal of leaven from their homes. The conspiracy against the life of Christ was formed two days before the Passover, adding a somber undertone to the approaching festival. As Christians, we can also see this as figurative of the unleavened bread of sincerity and truth with which we are to keep the Gospel feast.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7602699309626009,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "commentatorTierSimilarities": [
+                27.16,
+                0.0,
+                72.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The feast of unleavened bread, also known as the Passover, was drawing near. This festival, during which the Jews eat their bread without leaven, in commemoration of the haste in which they went out of Egypt, was a time for introspection and the removal of leaven from their homes. The conspiracy against the life of Christ was formed two days before the Passover, adding a somber undertone to the approaching festival. As Christians, we can also see this as figurative of the unleavened bread of sincerity and truth with which we are to keep the Gospel feast.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7602699309626009,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "commentatorTierSimilarities": [
+                27.16,
+                0.0,
+                72.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The feast of unleavened bread, also known as the Passover, was drawing near. This festival, during which the Jews eat their bread without leaven, in commemoration of the haste in which they went out of Egypt, was a time for introspection and the removal of leaven from their homes. The conspiracy against the life of Christ was formed two days before the Passover, adding a somber undertone to the approaching festival. As Christians, we can also see this as figurative of the unleavened bread of sincerity and truth with which we are to keep the Gospel feast.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7602699309626009,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "commentatorTierSimilarities": [
+                27.16,
+                0.0,
+                72.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The feast of unleavened bread, also known as the Passover, was drawing near. This festival, during which the Jews eat their bread without leaven, in commemoration of the haste in which they went out of Egypt, was a time for introspection and the removal of leaven from their homes. The conspiracy against the life of Christ was formed two days before the Passover, adding a somber undertone to the approaching festival.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.742109170224412,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.27,
+            "commentatorTierSimilarities": [
+                26.88,
+                0.0,
+                73.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

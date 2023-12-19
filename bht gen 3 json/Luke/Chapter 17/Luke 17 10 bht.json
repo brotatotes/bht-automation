@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:21:11",
+    "verseRef": "Luke 17:10",
+    "bestBHT": {
+        "bht": "In serving God, we must remember that we cannot claim any merit or profit for ourselves. Our duty as servants is to fulfill what is expected of us, without expecting repayment. While our service is not useless, we should not imagine that we have benefited God or laid Him under any obligation. Rather, it is by His grace that our good works hold any value and merit an eternal reward.",
+        "wordCount": 70,
+        "quoteTokenProportion": 53.7,
+        "qualityScore": 2.2676059339286097,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.74,
+        "commentatorTierSimilarities": [
+            30.29,
+            33.58,
+            36.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This shews the sense of the parable, as applying to our own thoughts of ourselves, and the impossibility of any claim for our services to God.",
+            "In the case of men this is different; a good servant is 'profitable,' not useless.",
+            "'Wretched is he, whom the Lord calls an unprofitable servant: happy, he who calls himself so.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We have not, as his servants, profited or benefited God at all.",
+            "TEN LEPERS CLEANSED.",
+            "though usually denoting the opposite of profit, is here used simply in its negative sense."
+        ],
+        "Albert Barnes": [
+            "We have conferred no favor. We have 'merited' nothing.",
+            "We have not 'benefited' God, or laid him under 'obligation.'",
+            "If he rewards us, it will be a matter of unmerited favor."
+        ],
+        "Marvin Vincent": [
+            "The profit does not begin until the servant goes beyond his obligation\" - Meyer.",
+            "A servant owes all things\" - Bengel.",
+            "Not useless, but having rendered no service beyond what was due\" - Commentary."
+        ],
+        "John Calvin": [
+            "Christ speaks here of an entire observance of the law, which is nowhere to be found.",
+            "The present question is not, Are we justified by works? but, Is the observance of the law meritorious of any reward from God?",
+            "God holds us for his slaves, and therefore reckons all that can proceed from us to be his just right."
+        ],
+        "Philip Schaff": [
+            "The application, here plainly made, is that nothing can be claimed in God\u2019s service on the ground of merit.",
+            "The fact that none have done so [done all], makes the argument the stronger.",
+            "All works of supererogation are denied, and all claim on the ground of our goodness or fidelity."
+        ],
+        "Archibald T. Robertson": [
+            "The slave who only does what he is commanded by his master to do has gained no merit or credit.",
+            "In point of fact it is not commands, but demands we have to deal with, arising out of special emergencies.",
+            "The slavish spirit gains no promotion in business life or in the kingdom of God."
+        ],
+        "John Gill": [
+            "these servants should be continually employed; and when one work is done, another is to be taken in hand.",
+            "the true servants of Christ, serve him in the first place, and seek first his righteousness, and his kingdom, and the honour of it, believing that all other things shall be added to them.",
+            "but he is not to expect thanks from God, for his most diligent and faithful performance of his work, or imagine that he merits anything at his hand thereby."
+        ],
+        "John Wesley": [
+            "Happy is he who judges himself an unprofitable servant: miserable is he whom God pronounces such.",
+            "Though we are unprofitable to him, our serving him is not unprofitable to us.",
+            "He is pleased to give by his grace a value to our good works, which in consequence of his promise entitles us to an eternal reward."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 17:10, Jesus speaks of the attitude that we should have as servants of God. The parable conveys the message that we cannot claim any merit or profit on our part for serving God, as we have simply fulfilled our duty. This does not mean that our service is useless or unimportant, but rather that we have not gone beyond what was expected of us. We should not expect any repayment from God for our service, but rather recognize that it is by His grace that our good works hold any value and merit an eternal reward.",
+            "wordCount": 97,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.096450512343001,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.05,
+            "commentatorTierSimilarities": [
+                32.33,
+                29.75,
+                37.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In serving God, we must remember that we cannot claim any merit or profit for ourselves. Our duty as servants is to fulfill what is expected of us, without expecting repayment. While our service is not useless, we should not imagine that we have benefited God or laid Him under any obligation. Rather, it is by His grace that our good works hold any value and merit an eternal reward.",
+            "wordCount": 70,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 2.2676059339286097,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.74,
+            "commentatorTierSimilarities": [
+                30.29,
+                33.58,
+                36.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We, as servants of God, must recognize that our service to Him is not a means to earn favor or benefit God in any way. Instead, we are called to go above and beyond our obligations, going beyond mere commands and responding to the demands that arise out of special emergencies. Our goal should not be to gain merit or credit, for we have already been given grace and salvation through Christ. In serving God, we acknowledge that we owe Him everything, and it is through His grace that our works hold any value and lead to an eternal reward. Thus, we must humbly see ourselves as unprofitable servants, finding happiness in our willingness to acknowledge our dependence on God rather than seeking validation or reward.",
+            "wordCount": 126,
+            "quoteTokenProportion": 45.78,
+            "qualityScore": 2.0542522219627575,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+            "commentatorTierSimilarities": [
+                29.33,
+                30.14,
+                40.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As servants of God, we must recognize that our service does not earn us favor or benefit Him. Rather, we must go beyond mere commands and respond to the demands that arise in special emergencies. Our works do not add merit or credit, but it is through God's grace that they hold value and lead to an eternal reward. We must humbly see ourselves as unprofitable servants, finding happiness in our willingness to acknowledge our dependence on God rather than seeking validation or reward.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.0356468266547108,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                31.25,
+                30.42,
+                38.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As servants of God, we must recognize that our service does not earn us favor or benefit Him. Our works hold no value unless they go beyond mere commands and respond to special emergencies out of obligation. We ought to humbly acknowledge that we are unprofitable servants, finding happiness in our willingness to depend on God. Our service to Him is not about seeking validation or reward, but about acknowledging His grace and receiving the eternal reward He promises.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.11452511646731,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+            "commentatorTierSimilarities": [
+                30.2,
+                30.99,
+                38.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

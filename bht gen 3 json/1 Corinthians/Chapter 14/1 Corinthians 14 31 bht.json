@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:13:07",
+    "verseRef": "1 Corinthians 14:31",
+    "bestBHT": {
+        "bht": "For you all have the ability to prophesy one by one, releasing your words in an orderly manner, giving each other the chance to speak. By following this practice, everyone can contribute and be comforted. It is important to remember that even those with the gift of prophecy can still learn from others and be teachable, finding consolation in seeing the Spirit of God at work in others as well. Prophecy serves both for exhortation and comfort, benefiting both the speakers and the listeners.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.79,
+        "qualityScore": 1.2390691019164433,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.54,
+        "commentatorTierSimilarities": [
+            23.37,
+            26.99,
+            49.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "31. For ye may\u2014rather, \"For",
+            "\tye can [if ye will] all prophesy one by one,\" giving way",
+            "\tto one another. The \"for\" justifies the precept ( :-), \"let the first hold his peace."
+        ],
+        "Albert Barnes": [
+            "There is time enough for all; there is no need of speaking in confusion and disorder.",
+            "Every person may have an opportunity of expressing his sentiments at the proper time.",
+            "This might be done if they would speak one at a time in their proper order."
+        ],
+        "John Calvin": [
+            "No one will ever be a good teacher, who does not show himself to be teachable, as no one will ever be found who has, in himself alone, such an overflowing in respect of perfection of doctrine, as not to derive benefit from listening to others.\" ",
+            "Let all, therefore, undertake the office of teaching on this principle, that they do not refuse or grudge, to be scholars to each other in their turn, whenever there shall be afforded to others the means of edifying the Church.\" ",
+            "It is a special consolation for pious ministers, to see the Spirit of God, whose instruments they are, working in others also, and they derive also from this no small confirmation."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 14:31. For ye all may prophesy one by one who possess that gift, that all may he comforted (see 1 Corinthians 14:3).",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "One by one (\u03ba\u03b1\u03b8' \u03b5\u03bd\u03b1). Regular idiom. "
+        ],
+        "John Gill": [
+            "For ye may all prophesy one by one... as many as would, or as had anything to deliver, and as time would allow; only care must be taken that confusion be avoided, and order preserved by exercising in turns one after another.",
+            "This was agreeably to the custom of the Jewish synagogue, in which more might read and speak, though but one at a time.",
+            "Prophecy is useful both for exhortation and comfort, and that both to preachers and people."
+        ],
+        "John Wesley": [
+            "All \u2014 Who have that gift.",
+            "That all may learn \u2014 Both by speaking and by hearing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For you all have the ability to prophesy one by one, releasing your words in an orderly manner, giving each other the chance to speak. This will ensure that everyone has the opportunity to be heard, and that there is no confusion or disorder. By following this practice, everyone can contribute and be comforted. It is important to remember that even those with the gift of prophecy can still learn from others and be teachable, finding consolation in seeing the Spirit of God at work in others as well. Prophecy serves the purpose of both exhortation and comfort, benefiting both the speakers and the listeners.",
+            "wordCount": 105,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.199233874237674,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.22,
+            "commentatorTierSimilarities": [
+                18.54,
+                31.14,
+                50.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For you all have the ability to prophesy one by one, releasing your words in an orderly manner, giving each other the chance to speak. By following this practice, everyone can contribute and be comforted. It is important to remember that even those with the gift of prophecy can still learn from others and be teachable, finding consolation in seeing the Spirit of God at work in others as well. Prophecy serves the purpose of both exhortation and comfort, benefiting both the speakers and the listeners.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2306835528055884,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.26,
+            "commentatorTierSimilarities": [
+                23.23,
+                27.22,
+                49.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You all have the ability to prophesy one by one, giving each other the chance to speak in an orderly manner. This allows everyone to contribute and be comforted. Even those with the gift of prophecy can learn from others and find consolation in seeing the Spirit of God at work. Prophecy serves both for exhortation and comfort, benefiting both speakers and listeners. By speaking one at a time, confusion is avoided and order is maintained.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.2584562307916771,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.19,
+            "commentatorTierSimilarities": [
+                23.69,
+                29.49,
+                46.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For you all have the ability to prophesy one by one, giving each other the chance to speak in an orderly manner. This allows everyone to contribute and be comforted. Even those with the gift of prophecy can learn from others and find consolation in seeing the Spirit of God at work. Prophecy serves both for exhortation and comfort, benefiting both speakers and listeners. By speaking one at a time, confusion is avoided and order is preserved, as the regular idiom signifies.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.3609333094201874,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.59,
+            "commentatorTierSimilarities": [
+                30.15,
+                26.49,
+                43.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For you all have the ability to prophesy one by one, releasing your words in an orderly manner, giving each other the chance to speak. By following this practice, everyone can contribute and be comforted. It is important to remember that even those with the gift of prophecy can still learn from others and be teachable, finding consolation in seeing the Spirit of God at work in others as well. Prophecy serves both for exhortation and comfort, benefiting both the speakers and the listeners.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.2390691019164433,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.54,
+            "commentatorTierSimilarities": [
+                23.37,
+                26.99,
+                49.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

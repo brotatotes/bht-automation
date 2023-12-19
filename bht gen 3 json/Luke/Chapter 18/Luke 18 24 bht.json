@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:21:24",
+    "verseRef": "Luke 18:24",
+    "bestBHT": {
+        "bht": "How hardly shall those who trust in riches enter into the kingdom of God! This introduces the concept of the difficulty they face, accompanied by a sweet diminutive of affection and pity, highlighting the struggle they encounter. Riches, which should be a reason for embracing the Gospel, often become a barrier to their profession of faith and hinder their submission to Christ's teachings. To enter the kingdom, they must deny themselves, part with their worldly possessions, and wholeheartedly embrace Christ and His cause.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.1936238996406627,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.03,
+        "commentatorTierSimilarities": [
+            21.41,
+            0.0,
+            78.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "How hardly, c.\u2014with what difficulty.",
+            "How hard is it for them that trust in riches, &c.",
+            "This is introduced by the word 'children'\u2014sweet diminutive of affection and pity."
+        ],
+        "Archibald T. Robertson": [
+            "Shall they enter (\u03b5\u03b9\u03c3\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bd\u03c4\u03b1). Present middle indicative, futuristic present. "
+        ],
+        "John Gill": [
+            "How hardly shall they that have riches enter into the kingdom of God!",
+            "Riches, which should be a reason for, are often a bar unto a profession of Christ, and his Gospel.",
+            "Embrace the Gospel, and submit to the ordinances of it; deny themselves, part with their worldly substance for the cause of Christ, and interest of religion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "How difficult it is for those who trust in riches to enter the kingdom of God! The word children used here conveys a sense of affection and pity towards these individuals. Those who have great wealth often find it challenging to embrace the Gospel and submit to its teachings. Instead, their riches become a barrier to their profession of faith in Christ and hinder their ability to fully embrace the kingdom of God. It is crucial for them to recognize the need to deny themselves, part with their worldly possessions, and devote themselves to the cause of Christ and the advancement of His kingdom.",
+            "wordCount": 104,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.1284181835667582,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.86,
+            "commentatorTierSimilarities": [
+                20.01,
+                0.0,
+                79.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "How hardly shall those who trust in riches enter into the kingdom of God! This introduces the concept of the difficulty they face, accompanied by a sweet diminutive of affection and pity, highlighting the struggle they encounter. Riches, which should be a reason for embracing the Gospel, often become a barrier to their profession of faith and hinder their submission to Christ's teachings. To enter the kingdom, they must deny themselves, part with their worldly possessions, and wholeheartedly embrace Christ and His cause.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.1936238996406627,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.03,
+            "commentatorTierSimilarities": [
+                21.41,
+                0.0,
+                78.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "How difficult it is for those who trust in riches to enter the kingdom of God! The word children used here conveys a sense of affection and pity. Riches often hinder a genuine profession of faith, becoming a barrier to embracing the Gospel and submitting to its teachings. It is necessary for those with wealth to recognize the need to deny themselves, part with their worldly possessions, and prioritize the cause of Christ and the advancement of His kingdom.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.0497144907791296,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.25,
+            "commentatorTierSimilarities": [
+                20.48,
+                0.0,
+                79.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "How hardly shall those who trust in riches enter into the kingdom of God! This introduces the concept of the difficulty they face, accompanied by a sweet diminutive of affection and pity, highlighting the struggle they encounter. Riches, which should be a reason for embracing the Gospel, often become a barrier to their profession of faith and hinder their submission to Christ's teachings. To enter the kingdom, they must deny themselves, part with their worldly possessions, and wholeheartedly embrace Christ and His cause.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.1936238996406627,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.03,
+            "commentatorTierSimilarities": [
+                21.41,
+                0.0,
+                78.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is incredibly challenging for those who trust in riches to enter the kingdom of God. This difficulty is emphasized by the use of the word children, which conveys affection and pity. Rather than being an impetus for embracing the Gospel, riches often hinder individuals from fully committing to their faith and submitting to Christ's teachings. To enter the kingdom, they must recognize the need to deny themselves, let go of their worldly possessions, and wholeheartedly devote themselves to Christ and His cause.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.0496729976872272,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.25,
+            "commentatorTierSimilarities": [
+                19.96,
+                0.0,
+                80.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:18:01",
+    "verseRef": "Luke 11:11",
+    "bestBHT": {
+        "bht": "If a son shall ask bread of any of you that is a father, it is expected that you would not give him a stone; in the same way, if he asks for a fish, you would not offer him a serpent. This illustration provided by Jesus shows the absurdity and cruelty of a parent who would deny their child's basic needs. It is unthinkable that a loving father would intentionally harm his own child or refuse to provide for them.",
+        "wordCount": 82,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 1.306173163533897,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.77,
+        "commentatorTierSimilarities": [
+            34.16,
+            0.0,
+            65.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Of any of you [\u03c4\u03b9\u03bd\u03b1] .",
+            "Rev., therefore, rightly, of which of you that is a father, etc.",
+            "The A. V. renders as though the pronoun were indefinite; but it is interrogative and commences the sentence."
+        ],
+        "Archibald T. Robertson": [
+            "Of which of you that is a father... will ye give him a stone?\" ",
+            "\u03bc\u03b7 shows that the answer No is expected, but the trouble is that the interrogative \u03c4\u03b9\u03bd\u03b1 in the first clause is in the accusative the object of \u03b1\u03b9\u03c4\u03b7\u03c3\u03b5 while here the same man (he) is the subject of \u03b5\u03c0\u03b9\u03b4\u03c9\u03c3\u03b5.",
+            "It is a very awkward piece of Greek and yet it is intelligible."
+        ],
+        "John Gill": [
+            "If a son shall ask bread of any of you that is a father,.... Our Lord illustrates and confirms what he had said before by an instance common among men...\" ",
+            "should he do so, he would show that his heart was as hard, or harder than the stone he gives: or if he ask a fish, will he, for a fish, give him a serpent?\" ",
+            "such inhuman brutish parents are not surely to be found"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If a son shall ask bread of any of you that is a father, it is expected that you would not give him a stone; in the same way, if he asks for a fish, you would not offer him a serpent. This illustration provided by Jesus highlights the absurdity and cruelty of a parent who would deny their child's basic needs. It is unthinkable that a loving father would intentionally harm his own child or refuse to provide for them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.2855370024297637,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.09,
+            "commentatorTierSimilarities": [
+                33.73,
+                0.0,
+                66.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a son shall ask bread of any of you that is a father, it is expected that you would not give him a stone; in the same way, if he asks for a fish, you would not offer him a serpent. This illustration highlights the absurdity and cruelty of a parent who would deny their child's basic needs. It is unthinkable that a loving father would intentionally harm his own child or refuse to provide for them.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.2652048382861159,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.41,
+            "commentatorTierSimilarities": [
+                33.78,
+                0.0,
+                66.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If a son shall ask bread of any of you that is a father, it is expected that you would not give him a stone; in the same way, if he asks for a fish, you would not offer him a serpent. This illustration provided by Jesus highlights the absurdity and cruelty of a parent who would deny their child's basic needs. It is unthinkable that a loving father would intentionally harm his own child or refuse to provide for them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.2855370024297637,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.09,
+            "commentatorTierSimilarities": [
+                33.73,
+                0.0,
+                66.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If a son shall ask bread of any of you that is a father, it is expected that you would not give him a stone; in the same way, if he asks for a fish, you would not offer him a serpent. This illustration provided by Jesus highlights the absurdity and cruelty of a parent who would deny their child's basic needs. It is unthinkable that a loving father would intentionally harm his own child or refuse to provide for them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.2855370024297637,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.09,
+            "commentatorTierSimilarities": [
+                33.73,
+                0.0,
+                66.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If a son shall ask bread of any of you that is a father, it is expected that you would not give him a stone; in the same way, if he asks for a fish, you would not offer him a serpent. This illustration provided by Jesus shows the absurdity and cruelty of a parent who would deny their child's basic needs. It is unthinkable that a loving father would intentionally harm his own child or refuse to provide for them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.306173163533897,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.77,
+            "commentatorTierSimilarities": [
+                34.16,
+                0.0,
+                65.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

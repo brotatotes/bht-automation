@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:20:23",
+    "verseRef": "Luke 15:15",
+    "bestBHT": {
+        "bht": "Sinking lower and lower, the prodigal son becomes the despised servant of an alien, joining himself to the citizen reluctantly. Glued to him like an appendage, he is given the humiliating task of feeding swine, a most degrading occupation for a Jew. Sin has brought him to the deepest degradation, as he is enslaved by the freedom he sought.",
+        "wordCount": 59,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.057411627845407,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.75,
+        "commentatorTierSimilarities": [
+            36.82,
+            37.0,
+            26.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He sinks lower and lower\u2014becomes the despised servant of an alien.\" ",
+            "Is there here any hint at the situation of the publicans, who were but the servants of wealthy Romans?\" ",
+            "An office most vile and odious to the mind of a Jew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His pride not yet humbled, unable to brook the shame of a return.",
+            "Glad to keep life anyhow, behold the son sank into a swineherd\u2014among the Jews, on account of the prohibition of swine's flesh, emphatically vile!",
+            "He who begins by using the world as a servant, to minister to his pleasure, ends by reversing the relationship."
+        ],
+        "Albert Barnes": [
+            "It would seem that he engaged to do any kind of work, even of the lowest kind.",
+            "To be compelled, therefore, to engage in such an employment was the deepest conceivable degradation.",
+            "Sin and its results everywhere have the same relation to that which is noble and great, which the feeding of swine had, in the estimation of a Jew, to an honorable and dignified employment."
+        ],
+        "Marvin Vincent": [
+            "Joined himself [\u03b5\u03ba\u03bf\u03bb\u03bb\u03b7\u03b8\u03b7] . The verb means to glue or cement. Very expressive here, implying that he forced himself upon the citizen, who was unwilling to engage him, and who took him into service only upon persistent entreaty.\" ",
+            "The unhappy wretch is a sort of appendage to a strange personality\" (Godet).",
+            "To feed swine. As he had received him reluctantly, so he gave him the meanest possible employment. An ignominious occupation, especially in Jewish eyes. The keeping of swine was prohibited to Israelites under a curse."
+        ],
+        "Philip Schaff": [
+            "Attached himself, as it were by force. He makes a determined effort to help himself, as he begins to feel his want.",
+            "His business is to feed swine, unclean animals, so that the employment was degrading.",
+            "The main point is that he who, under a sinful impulse, sought to be released from a father\u2019s supervision, is brought into the most abject dependence on a foreigner, who takes no care of him whatever. The freedom into which sin leads is slavery."
+        ],
+        "Archibald T. Robertson": [
+            "He was glued to, was joined to.\" ",
+            "Curiously enough this common word citizen (\u03c0\u03bf\u03bb\u03b9\u03c4\u03b7\u03c2 from \u03c0\u03bf\u03bb\u03b9\u03c2, city) is found in the N.T. only in Luke's writings.",
+            "A most degrading occupation for anyone and for a Jew an unspeakable degradation."
+        ],
+        "John Gill": [
+            "There may be large gifts, where there is no grace; and a man may have a form of religion and godliness, and know nothing of the power of it; and a great stir and bluster may be made about good works, as were by the Pharisees when few or none are done.",
+            "He did not give him the least bit of bread to satisfy his hunger; nor did he say one word to him of Christ, the bread of life; nor did he advise him to go to his father's house, where there was bread enough, and to spare.",
+            "He sent him there also to gratify the selfish principles of nature; to please himself with his wisdom, righteousness, holiness, and other excellencies he fancied he had attained unto."
+        ],
+        "John Wesley": [
+            "Either the devil or one of his children, the genuine citizens of that country which is far from God.",
+            "He employed him in the base drudgery of sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Sinking lower and lower, the prodigal son finds himself despised and becoming the servant of an alien. The shame he endures echoes the situation of the despised publicans and goes against the Jewish mindset. Forced upon the reluctant citizen, he is joined to him like glue, becoming an appendage to a strange personality. The son is given the lowliest of tasks: feeding swine, a most degrading and unspeakable occupation for a Jew. Sin has led him to the deepest degradation, as he is enslaved by the freedom he sought.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.942101349667814,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                38.8,
+                35.41,
+                25.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sinking lower and lower, the prodigal son becomes the despised servant of an alien, joining himself to the citizen reluctantly. Glued to him like an appendage, he is given the humiliating task of feeding swine, a most degrading occupation for a Jew. Sin has brought him to the deepest degradation, as he is enslaved by the freedom he sought.",
+            "wordCount": 59,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.057411627845407,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.75,
+            "commentatorTierSimilarities": [
+                36.82,
+                37.0,
+                26.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sinking lower and lower, the prodigal son becomes the despised servant of an alien, joining himself to the citizen reluctantly. Glued to him like an appendage, he is given the humiliating task of feeding swine, a most degrading occupation for a Jew. Sin has brought him to the deepest degradation, as he is enslaved by the freedom he sought.",
+            "wordCount": 59,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.057411627845407,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.75,
+            "commentatorTierSimilarities": [
+                36.82,
+                37.0,
+                26.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sinking lower and lower, the prodigal son becomes a despised servant of a foreigner, glued to the citizen who hesitantly takes him in. Assigned the degrading task of feeding swine, this occupation is particularly shameful in the eyes of the Jews. Sin has led him to the depths of degradation as he is enslaved by the illusory freedom he sought.",
+            "wordCount": 60,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.944778122406485,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                37.2,
+                38.45,
+                24.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Joining himself reluctantly to a foreigner, the prodigal son sinks lower and lower, becoming the despised servant of the citizen. Glued to this strange personality, he is assigned the demeaning task of feeding swine, which is considered an unspeakable degradation for a Jew. Sin has enslaved him, leading him to experience the profound depths of degradation despite the initial pride he had in seeking freedom.",
+            "wordCount": 65,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.05660949465129,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                37.01,
+                36.26,
+                26.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

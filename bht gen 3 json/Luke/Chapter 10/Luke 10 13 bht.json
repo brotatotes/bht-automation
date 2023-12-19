@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:17:39",
+    "verseRef": "Luke 10:13",
+    "bestBHT": {
+        "bht": "Jesus takes His farewell from the cities where His miracles were performed. These cities, described as awful examples, are urged to put on sackcloth and cover themselves with ashes in a powerful and graphic act of sorrow and humiliation. This mode of punishment was used to defile oneself with dead things. Despite witnessing Christ's mighty works, these cities are warned that judgment awaits them due to their impenitence and unbelief. The repetition of this warning emphasizes the urgency for the seventy not to waste time in these cities.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.5359700637822689,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.41,
+        "commentatorTierSimilarities": [
+            55.24,
+            0.0,
+            44.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He takes His solemn farewell of the cities where the greatest number of His miracles had been done.\" ",
+            "They being awful examples of that city just described."
+        ],
+        "Marvin Vincent": [
+            "Sackcloth: It was employed for the rough garments for mourners, in which latter passage the sackcloth is put next the flesh in token of extreme sorrow.",
+            "Ashes: Defiling one's self with dead things, as ashes or dirt, as a sign of sorrow, was common among the Orientals and Greeks.",
+            "Stifling with ashes was a Persian mode of punishment."
+        ],
+        "Archibald T. Robertson": [
+            "Long ago (\u03c0\u03b1\u03bb\u03b1). Implies a considerable ministry in these cities of which we are not told.",
+            "Sitting in sackcloth and ashes (\u03b5\u03bd \u03c3\u03b1\u03ba\u03ba\u03c9 \u03ba\u03b1 \u03c3\u03c0\u03bf\u03b4\u03bf \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03bd\u03bf). Pictorial and graphic.",
+            "To cover oneself with ashes was a mode of punishment as well as of voluntary humiliation."
+        ],
+        "John Gill": [
+            "Woe unto thee Chorazin, woe unto thee Bethsaida; a city of Galilee, a fishing town, from whence it has its name, and was the native place of those two fishermen, Peter and Andrew.",
+            "woe is pronounced upon them both for their impenitence and unbelief, which were attended with aggravating circumstances.",
+            "for if the mighty works had been done in Tyre and Sidon, which have been done in you; meaning both the ministry of the word by Christ, which was with power and authority, and the miracles of Christ, which were the works of almighty power, and showed him to be the mighty God."
+        ],
+        "John Wesley": [
+            "Wo to thee, Chorazin \u2014 The same declaration Christ had made some time before.",
+            "By repeating it now, he warns the seventy not to lose time by going to those cities.",
+            "Matthew 11:21."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus takes His solemn farewell of the cities where the greatest number of His miracles had been done. These cities are described as awful examples, and their residents are urged to put on sackcloth and cover themselves with ashes as a sign of extreme sorrow. This is not only a symbolic act of mourning but also a mode of punishment. It is a powerful and graphic picture of the judgment that awaits these cities for their impenitence and unbelief, despite witnessing Christ's mighty works. The repetition of this warning emphasizes the urgency for the seventy not to waste time in these cities, as stated in Matthew 11:21.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.5057773878933443,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.41,
+            "commentatorTierSimilarities": [
+                55.07,
+                0.0,
+                44.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus solemnly bids farewell to the cities where His miracles were performed. These cities, described as awful examples, are urged to don sackcloth and sit in ashes as a sign of extreme sorrow. This act not only represents mourning but is also a form of punishment. It serves as a vivid symbol of the judgment that awaits them for their impenitence and unbelief, despite witnessing Christ's mighty works. The repetition of this warning underlines the urgency for the seventy not to waste time in these cities, as mentioned in Matthew 11:21.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.432545968115551,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.97,
+            "commentatorTierSimilarities": [
+                53.94,
+                0.0,
+                46.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus takes His farewell from the cities where His miracles were performed. These cities, described as awful examples, are urged to put on sackcloth and cover themselves with ashes in a powerful and graphic act of sorrow and humiliation. This mode of punishment was used to defile oneself with dead things. Despite witnessing Christ's mighty works, these cities are warned that judgment awaits them due to their impenitence and unbelief. The repetition of this warning emphasizes the urgency for the seventy not to waste time in these cities.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.5359700637822689,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.41,
+            "commentatorTierSimilarities": [
+                55.24,
+                0.0,
+                44.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus bids farewell to the cities where His miracles were performed, urging them to put on sackcloth and cover themselves with ashes as a sign of extreme sorrow. This act serves as a graphic symbol of both mourning and punishment, representing the judgment that awaits them for their impenitence and unbelief. Despite witnessing Christ's mighty works, these cities are warned of the dire consequences they face. The repetition of this warning emphasizes the urgency for the seventy not to waste time in these cities.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.4094060405366526,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.21,
+            "commentatorTierSimilarities": [
+                50.92,
+                0.0,
+                49.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus takes His solemn farewell of the cities where the greatest number of His miracles had been done. These cities, described as awful examples, face the judgment for their impenitence and unbelief. They are urged to put on sackcloth and cover themselves with ashes as a sign of extreme sorrow. This act, a mode of punishment, serves as a powerful and graphic symbol. Despite witnessing Christ's mighty works, the urgency is emphasized for the seventy not to waste time in these cities, as stated in Matthew 11:21.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.465080336182079,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.06,
+            "commentatorTierSimilarities": [
+                56.54,
+                0.0,
+                43.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

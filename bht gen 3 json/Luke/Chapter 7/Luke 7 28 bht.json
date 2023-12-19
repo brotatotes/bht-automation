@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:16:05",
+    "verseRef": "Luke 7:28",
+    "bestBHT": {
+        "bht": "In this statement, it is explicitly stated that there is none who exists in a greater position than John the Baptist. The reference to hath not arisen in Matthew 11:11 strengthens this assertion, underscoring the unparalleled status of John. This implies that John holds a highly esteemed role as a prophet and teacher. Furthermore, it is noteworthy that even the least teacher in the kingdom of God possesses significance, portraying the value attributed to all who fulfill this essential role.",
+        "wordCount": 79,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 1.4187948725288406,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.52,
+        "commentatorTierSimilarities": [
+            41.93,
+            0.0,
+            58.07
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "There is none. No one exists, this means.",
+            "Matthew 11:11 has \u03bf\u03c5\u03ba \u03b5\u03b3\u03b7\u03b3\u03b5\u03c1\u03c4\u03b1 (hath not arisen).",
+            "See Matthew for discussion of 'but little' and 'greater'."
+        ],
+        "John Gill": [
+            "For I say unto you----here is not a greater prophet,.... The word \"prophet\" is left out in the Arabic and Ethiopic versions, as in Matthew 11:11.",
+            "Matthew 11:11- :."
+        ],
+        "John Wesley": [
+            "There is not a greater prophet than John \u2014 A greater teacher.",
+            "But he that is least in the kingdom of God \u2014 The least teacher whom I send forth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, it is stated that there is none. According to the commentaries, this phrase signifies the nonexistence of anyone. The use of hath not arisen in Matthew 11:11 further supports the idea that there is no one greater than John the Baptist. Additionally, the commentaries mention the concept of being least in the kingdom of God, indicating that even the smallest teacher sent forth by God holds great significance.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.4797758449881186,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.55,
+            "commentatorTierSimilarities": [
+                50.35,
+                0.0,
+                49.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, it is emphasized that there is no one who exists in a greater position than John the Baptist. The reference to hath not arisen in Matthew 11:11 affirms this assertion. This suggests that John holds a significant role as a prophet, teacher, and messenger of God. Furthermore, even the humblest teacher in the kingdom of God possesses value and importance.",
+            "wordCount": 62,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4761014551384621,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.42,
+            "commentatorTierSimilarities": [
+                41.27,
+                0.0,
+                58.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this statement, it is clearly stated that no one exists in a greater position than John the Baptist. The reference to hath not arisen in Matthew 11:11 further supports this claim. It highlights that John holds a significant role and is regarded as a prophet and teacher of great importance. Additionally, it is worth noting that even the least teacher within the kingdom of God carries significance, demonstrating the value placed on all individuals fulfilling the role of a teacher.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4144217144807467,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.37,
+            "commentatorTierSimilarities": [
+                42.63,
+                0.0,
+                57.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this statement, it is made evident that there is none who exists in a greater position than John the Baptist. The reference to hath not arisen in Matthew 11:11 reinforces this notion, emphasizing the incomparable status of John. This suggests that John holds an esteemed role as a prophet and teacher. Surprisingly, even the least teacher in the kingdom of God carries significance, highlighting the value placed on every individual who fulfills this vital role.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.349018595863836,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.2,
+            "commentatorTierSimilarities": [
+                41.35,
+                0.0,
+                58.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this statement, it is explicitly stated that there is none who exists in a greater position than John the Baptist. The reference to hath not arisen in Matthew 11:11 strengthens this assertion, underscoring the unparalleled status of John. This implies that John holds a highly esteemed role as a prophet and teacher. Furthermore, it is noteworthy that even the least teacher in the kingdom of God possesses significance, portraying the value attributed to all who fulfill this essential role.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.4187948725288406,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.52,
+            "commentatorTierSimilarities": [
+                41.93,
+                0.0,
+                58.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

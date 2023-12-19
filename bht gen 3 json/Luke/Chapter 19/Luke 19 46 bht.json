@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 16:21:54",
+    "verseRef": "Luke 19:46",
+    "bestBHT": {
+        "bht": "Like thieves, the moneychangers and merchants have turned God's house into a den of dishonesty, disregarding its purpose as a house of prayer. Jesus's strong rebuke reminds us to preserve the reverence and purity of our places of worship.",
+        "wordCount": 41,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.0283575278351604,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.54,
+        "commentatorTierSimilarities": [
+            54.27,
+            0.0,
+            45.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Thieves [\u03bb\u03b7\u03c3\u03c4\u03c9\u03bd] . See on Matthew 26:55; Luke 10:30; Mark 11:17."
+        ],
+        "John Gill": [
+            "My house is the house of prayer; built and devoted for that service.",
+            "Ye have made it a den of thieves.",
+            "And a place of cut-purses."
+        ],
+        "John Wesley": [
+            "Isaiah 56:7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus confronts the corruption within the temple in Luke 19:46. Like thieves, the moneychangers and merchants have turned God's house into a den of dishonesty, completely disregarding its intended purpose as a house of prayer. This distortion of the temple's sanctity is reminiscent of Isaiah 56:7, which emphasizes the importance of maintaining a sacred space for worship. Jesus's harsh rebuke serves as a reminder to us all to preserve the reverence and purity of our places of worship.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.1967773069187002,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.14,
+            "commentatorTierSimilarities": [
+                57.39,
+                0.0,
+                42.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Like thieves, the moneychangers and merchants have turned God's house into a den of dishonesty, disregarding its purpose as a house of prayer. Jesus's strong rebuke reminds us to preserve the reverence and purity of our places of worship.",
+            "wordCount": 41,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.0283575278351604,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.54,
+            "commentatorTierSimilarities": [
+                54.27,
+                0.0,
+                45.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus confronts the corruption within the temple, addressing the merchants who have turned it into a den of thieves, instead of a house of prayer. His strong words emphasize the importance of maintaining the sanctity of the temple, as expressed in Isaiah 56:7. This incident serves as a reminder to us to uphold the reverence and purity of our places of worship.",
+            "wordCount": 61,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 0.9554652379538049,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.11,
+            "commentatorTierSimilarities": [
+                46.68,
+                0.0,
+                53.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's confrontation in the temple highlights the corruption present within it, likening the moneychangers and merchants to thieves. Their actions have transformed God's house into a den of dishonesty, disregarding its intended purpose as a place of prayer. This rebuke echoes Isaiah 56:7's emphasis on the significance of a sacred space. It serves as a reminder to ensure that our places of worship are maintained with reverence and purity.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 0.9599107129347542,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.26,
+            "commentatorTierSimilarities": [
+                52.75,
+                0.0,
+                47.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus denounces the corruption within the temple, comparing the moneychangers and merchants to thieves. Their actions have transformed God's sacred house into a den of dishonesty, a complete departure from its original purpose of being a place of prayer. This rebuke resonates with the message of Isaiah 56:7, which underscores the importance of maintaining the sanctity of the temple. We are reminded of the significance of preserving the reverence and purity of our places of worship.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 0.9054743301236217,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.45,
+            "commentatorTierSimilarities": [
+                53.4,
+                0.0,
+                46.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

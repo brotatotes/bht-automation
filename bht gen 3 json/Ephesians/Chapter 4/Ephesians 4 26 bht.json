@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:33:10",
+    "verseRef": "Ephesians 4:26",
+    "bestBHT": {
+        "bht": "Paul distinguishes between culpable anger and allowable anger, cautioning against cherishing anger as it may become sinful. He advises promptly resolving conflicts and not letting anger persist beyond sunset. Although anger may be justified, it should be without sin and not transform into hatred, contempt, or revenge. Righteous anger is commanded, directing it at sins rather than individuals. It is important to have a true zeal for God and religion, remaining mindful of not letting anger become settled or enduring.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.7190650713582816,
+        "qualityScoreNormalizedComparedToV2BHTs": 81.75,
+        "commentatorTierSimilarities": [
+            36.03,
+            32.77,
+            31.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Be ye angry, and sin not... It has been asked... 'If Paul speaks of culpable anger, how can he distinguish sinning from being angry? If of allowable anger, how can he expect not to retain it over the night?'",
+            "He speaks of anger which is an infirmity, but by being cherished, may become a sin.",
+            "Let the sun not set upon your irritation... set to your wrath with a brother a speedy limit, and indeed that one which nature prescribes\u2014the solemn season when you part from that brother, to meet again perhaps in eternity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Should circumstances arise to call for anger on your part, let it be as Christ's 'anger'... without sin.\" ",
+            "Our natural feelings are not wrong when directed to their legitimate object, and when not exceeding due bounds.\" ",
+            "Let not your 'anger' at another's wickedness verge into hatred, or contempt, or revenge."
+        ],
+        "Albert Barnes": [
+            "Anger is a passion too common to need any description. It is an excitement or agitation of mind, of more or less violence, produced by the reception of a real or supposed injury, and attended commonly with a desire or purpose of revenge.",
+            "Anger may be excited against a 'thing' as well as a 'person;' as well against an act as a 'man.' We are suddenly excited by a wrong 'thing,' without any malignancy against the 'man;' we may wish to rebuke or chide 'that,' without injuring 'him.'",
+            "Do not let it overleap its proper bounds; do not cherish it; do not let it remain in your bosom even to the setting of the sun. Though the sun be sinking in the west, let not the passion linger in the bosom, but let his last rays find you always peaceful and calm."
+        ],
+        "Marvin Vincent": [
+            "Righteous anger is commanded, not merely permitted.",
+            "Wrath: Irritation, exasperation; something not so enduring as anger, which denotes a deep-seated sentiment.",
+            "Hebrew, stand in awe and sin not."
+        ],
+        "John Calvin": [
+            "Do not choose to resemble madmen, who rush fearlessly in any direction, but let the dread of being accounted foolhardy keep you in awe.",
+            "The objects of our anger are sought, not in others, but in ourselves.",
+            "Let us endeavor to be appeased before the sun has set."
+        ],
+        "Philip Schaff": [
+            "Be angry and sin not... Wrath, for this is the proper force, is not only allowable, but in certain cases commanded, yet in no case should sin be joined with it.",
+            "There is no necessity for supposing that all wrath is sinful. Sinless wrath is like the wrath of God, and needs no excuse; but our wrath is rarely like God\u2019s.",
+            "The verse teaches that anger may be right, but is far more likely to be wrong; that it certainly is if it lasts long, and becomes worse by giving entrance to Satan."
+        ],
+        "Archibald T. Robertson": [
+            "Be ye angry and sin not. Permissive imperative, not a command to be angry.",
+            "Prohibition against sinning as the peril in anger.",
+            "Let not the sun go down upon your wrath. Danger in settled mood of anger."
+        ],
+        "John Gill": [
+            "There is anger which is not sinful; for anger is fouled in God himself, in Jesus Christ, in the holy angels, and in God's people.",
+            "A man may be said to be angry and not sin when his anger arises from a true zeal for God and religion; when it is kindled not against persons, but sins.",
+            "Anger for the most part is not only sinful, but it tends to sin, and issues in it."
+        ],
+        "John Wesley": [
+            "Anger at sin is not evil; but we should feel only pity to the sinner.",
+            "If we are angry at the person, as well as the fault, we sin.",
+            "Reprove your brother, and be reconciled immediately. Lose not one day. A clear, express command."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When it comes to anger, Paul distinguishes between culpable anger and allowable anger. He warns against cherishing anger, as it can easily turn into sin. Instead, he advises resolving conflicts quickly, not allowing the sun to set on our irritation. While anger may be justified in certain circumstances, it should always be without sin. It is crucial not to let anger morph into hatred, contempt, or revenge. Righteous anger is commanded, but we must be cautious not to let it become settled or enduring. Above all, we should be driven by a true zeal for God and religion, directing our anger towards sins rather than individuals.",
+            "wordCount": 106,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.6205463406131715,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.47,
+            "commentatorTierSimilarities": [
+                36.58,
+                31.73,
+                31.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul distinguishes between culpable anger and allowable anger, cautioning against cherishing anger as it may become sinful. He advises promptly resolving conflicts and not letting anger persist beyond sunset. Although anger may be justified, it should be without sin and not transform into hatred, contempt, or revenge. Righteous anger is commanded, directing it at sins rather than individuals. It is important to have a true zeal for God and religion, remaining mindful of not letting anger become settled or enduring.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.7190650713582816,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.75,
+            "commentatorTierSimilarities": [
+                36.03,
+                32.77,
+                31.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul distinguishes between culpable anger and allowable anger, cautioning against cherishing anger as it may become sinful. He advises promptly resolving conflicts and not letting anger persist beyond sunset. Although anger may be justified, it should be without sin and not transform into hatred, contempt, or revenge. Righteous anger is commanded, directing it at sins rather than individuals. It is important to have a true zeal for God and religion, remaining mindful of not letting anger become settled or enduring.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.7190650713582816,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.75,
+            "commentatorTierSimilarities": [
+                36.03,
+                32.77,
+                31.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul distinguishes between culpable anger and allowable anger, cautioning against cherishing anger as it may become sinful. He advises promptly resolving conflicts, not allowing anger to remain overnight. Although anger may be justified, it should be without sin, avoiding hatred, contempt, or revenge. Righteous anger is commanded, directing it at sins rather than individuals. It is important to have a true zeal for God and religion, being cautious not to let anger become settled or enduring.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.697402960121698,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.03,
+            "commentatorTierSimilarities": [
+                36.24,
+                32.45,
+                31.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul warns against cherishing anger, as it can become sinful, and advises resolving conflicts quickly to avoid harboring anger. He stresses that while anger may be allowable in certain cases, it should be without sin, avoiding hatred or revenge. Paul commands righteous anger, directing it towards sins rather than individuals. It is important to have a true zeal for God and religion, remaining wary of letting anger endure or become settled.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.600004948969202,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.79,
+            "commentatorTierSimilarities": [
+                35.93,
+                33.08,
+                31.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:29:30",
+    "verseRef": "Acts 11:10",
+    "bestBHT": {
+        "bht": "The imagery in this account portrays Peter being drawn up into heaven, indicating the active and dynamic nature of this divine encounter. This phrase captures the notion of the disappearance of what was seen in the vision, suggesting its ascension back to heaven. Peter's use of this phrase brings animation to the action, specifically noting the ropes witnessed during his trance. The repetition of this phrase emphasizes the significance of the event, paralleling the sheet with all the creatures being drawn back up into heaven.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.2624410465056437,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.32,
+        "commentatorTierSimilarities": [
+            29.18,
+            42.14,
+            28.68
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The whole of what was seen in the vision disappeared by being carried up into heaven.\" ",
+            "Here, too, the word is \u03b1 \u0313 \u03bd\u03b5\u03c3\u03c0\u03b1 \u0301 \u03c3\u03b8\u03b7 , there it is \u03b1 \u0313 \u03bd\u03b5\u03bb\u03b7 \u0301 \u03bc\u03c6\u03b8\u03b7.\" ",
+            "St. Peter\u2019s phrase is more animated, and it is likewise more suitable to the action of the \u2018ropes\u2019 seen in the trance."
+        ],
+        "Archibald T. Robertson": [
+            "Was drawn up (\u03b1\u03bd\u03b5\u03c3\u03c0\u03b1\u03c3\u03b8\u03b7). Instead of \u03b1\u03bd\u03b5\u03bb\u03b7\u03bc\u03c0\u03b8\u03b7 (was taken up) in Acts 10:16. First aorist passive indicative of \u03b1\u03bd\u03b1\u03c3\u03c0\u03b1\u03c9, old verb, but in N.T. only in Luke 14:5 and here. "
+        ],
+        "John Gill": [
+            "And this was done three times...the voice from heaven answered three times, and encouraged Peter to kill and eat.\" ",
+            "All were drawn up again into heaven...the sheet with all the creatures upon it, by the same hands that let it down.\" ",
+            "And the whole returned again to heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 11:10, it is mentioned that Peter was drawn up instead of taken up as mentioned in Acts 10:16. This emphasizes the dynamic nature of the action, suggesting that what was seen in the vision disappeared by being carried up into heaven. This description is more vivid and fitting to the action of the ropes seen in Peter's trance. The repetition of the phrase drawn up in the first-tier commentary and the imagery of the sheet with all the creatures upon it being drawn back up into heaven in the third-tier commentary highlights the significance and divine nature of this experience.",
+            "wordCount": 103,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5388307648022792,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.51,
+            "commentatorTierSimilarities": [
+                40.26,
+                36.86,
+                22.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, it is noted that Peter was drawn up into heaven, conveying the dynamic nature of the action. This image brings to mind the disappearance of what was seen in the vision and emphasizes the divine nature of this experience. The phrase used by Peter is more animated and suitable to the action of the ropes seen in his trance. The repetition of the phrase drawn up suggests the significance and divine intervention in this event, as seen in the imagery of the sheet with all the creatures being drawn back up into heaven.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.312037096388067,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.97,
+            "commentatorTierSimilarities": [
+                31.02,
+                46.01,
+                22.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of Peter being drawn up into heaven highlights the dynamic nature of this divine experience. This phrase emphasizes the disappearance of what was seen in the vision, suggesting its removal and return to heaven. Peter's choice of words adds animation to the action, particularly when considering the ropes observed in his trance. The repetition of drawn up underscores the significance of this event, reminiscent of the sheet with all the creatures being drawn back up into heaven.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.1879003123166065,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.84,
+            "commentatorTierSimilarities": [
+                25.57,
+                41.19,
+                33.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 11:10, Peter was drawn up into heaven, accentuating the dynamic nature of this experience. This choice of words conveys the disappearance of what was seen in the vision, signifying its transport back to heaven. Peter's description adds animation to the action, particularly when considering the ropes observed during his trance. The repetition of drawn up underscores the significance of this event, mirroring the sheet with all the creatures being drawn back up into heaven.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.2964099730570444,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.45,
+            "commentatorTierSimilarities": [
+                31.11,
+                39.04,
+                29.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The imagery in this account portrays Peter being drawn up into heaven, indicating the active and dynamic nature of this divine encounter. This phrase captures the notion of the disappearance of what was seen in the vision, suggesting its ascension back to heaven. Peter's use of this phrase brings animation to the action, specifically noting the ropes witnessed during his trance. The repetition of this phrase emphasizes the significance of the event, paralleling the sheet with all the creatures being drawn back up into heaven.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.2624410465056437,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.32,
+            "commentatorTierSimilarities": [
+                29.18,
+                42.14,
+                28.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

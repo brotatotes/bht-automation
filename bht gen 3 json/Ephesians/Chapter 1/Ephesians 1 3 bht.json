@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 15:27:41",
+    "verseRef": "Ephesians 1:3",
+    "bestBHT": {
+        "bht": "Blessed be God who blessed us with every spiritual blessing in the heavenly places. Through the work of the Holy Spirit, we become citizens of heaven, receiving blessings that originate from there. The believers' true abode is heaven, and the spiritual blessings count the most for them. Let us praise and thank God for all that He has done, for He is the source of every blessing. These blessings are ours through our fellowship with Christ, who is the conduit for them.",
+        "wordCount": 82,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 2.387737913518176,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.73,
+        "commentatorTierSimilarities": [
+            30.05,
+            32.28,
+            37.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed - who blessed - blessing - such was the ground-tone of the new covenant.",
+            "Our country, place of citizenship, is in heaven...there our High Priest stands, blessing us.",
+            "In the Spirit, we are in heaven - only waiting for the redemption of the body to be entirely and literally there."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The doxologies in almost all the Epistles imply the real sense of grace experienced by the writers and their readers.",
+            "God 'blesses' His children; and that not in mere words, but in acts.",
+            "Christ's ascension is the means of introducing us into the heavenly places, which by our sin were barred against us."
+        ],
+        "Albert Barnes": [
+            "The ground or reason of the praise here referred to, is that which is stated in the following verses.",
+            "There is none that people desire so much to disbelieve or avoid; none that they are so unwilling to have preached; and none that they are so reluctant to find in the Scriptures.",
+            "Let us approach word after word, and phrase after phrase, and verse after verse, in this chapter, willing to know all that God teaches; to believe all that he has revealed; and ready to say, 'Blessed be the God and Father of our Lord Jesus Christ for all that he has done.'"
+        ],
+        "Marvin Vincent": [
+            "The word differs from that used in the Beatitudes, makariov. which denotes character, while this word denotes repute. Lit., well - spoken of.",
+            "Paul emphasizes in this epistle the work of the divine Spirit upon the human spirit. Not spiritual as distinguished from bodily, but proceeding from the Holy Spirit.",
+            "The meaning is that the spiritual blessings of God are found in heaven and are brought thence to us."
+        ],
+        "John Calvin": [
+            "They who perceive in themselves discoveries of the Divine goodness, so full and absolutely perfect, and who make them the subject of earnest meditation, will never embrace new doctrines, by which the very grace which they feel so powerfully in themselves is thrown into the shade.",
+            "The design of the apostle, therefore, in asserting the riches of divine grace toward the Ephesians, was to protect them against having their faith shaken by the false apostles, as if their calling were doubtful, or salvation were to be sought in some other way.",
+            "The word bless is here used in more than one sense, as referring to God, and as referring to men... Paul therefore blesses God, because he hath blessed us, that is, hath enriched us with all blessing and grace."
+        ],
+        "Philip Schaff": [
+            "Our blessing God is praise and thanksgiving; His blessing us includes doing us good also.",
+            "'To be God and to be Father are not ideas which exclude each other, nor do they appear as two, but as a unity.",
+            "Every spiritual blessing we have received, the heavenly places in which they are received, are ours, only through our fellowship with Christ."
+        ],
+        "Archibald T. Robertson": [
+            "While \u03b5\u03c5\u03bb\u03bf\u03b3\u03b7\u03bc\u03b5\u03bd\u03bf\u03c2 points to an isolated act or acts, \u03b5\u03c5\u03bb\u03bf\u03b3\u03b7\u03c4\u03bf\u03c2 describes the intrinsic character.",
+            "The believer is a citizen of heaven and the spiritual blessings count for most to him.",
+            "Heaven is the real abode of the citizen of Christ's kingdom who is a stranger on earth."
+        ],
+        "John Gill": [
+            "And the same is the Father of Christ, as Christ is God; as such he is the Son of God; not by creation, as angels and Adam, nor by adoption, as saints, but by natural generation; he being the only begotten of the Father, his own proper Son, of the same nature and perfections with him, and equal to him.\" ",
+            "God is the author and giver of all blessings; and he blesses his people with them, as he is the God and Father of Christ, and as he is their covenant God and Father in Christ; and he only can bless; if he blesses not, none can; and if he blesses, they are blessed indeed.",
+            "These blessings they are blessed with 'in Christ'; as he is their head and representative, and as they are members in him, and partakers of him; through whom, and for whose sake, they are conveyed unto them, and who himself is the sum and substance of them."
+        ],
+        "John Wesley": [
+            "God's blessing us is his bestowing all spiritual and heavenly blessings upon us.",
+            "Our blessing God is the paying him our solemn and grateful acknowledgments.",
+            "With all manner of spiritual blessings, which are heavenly in their nature, original, and tendency, and shall be completed in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed be God who blessed us with every spiritual blessing in the heavenly places. In the new covenant, God's children are not only blessed with words, but with actions. Through the work of the Holy Spirit upon our spirits, we are made citizens of heaven, receiving the blessings that come from there. The believers' true abode is heaven, and the spiritual blessings count the most for them. Let us give praise and thanks to our God and Father for all that He has done, knowing that it is through our fellowship with Christ that we have received every spiritual blessing.",
+            "wordCount": 101,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.4092676267247555,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.45,
+            "commentatorTierSimilarities": [
+                30.66,
+                32.51,
+                36.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed be God who blessed us with every spiritual blessing in the heavenly places. Through the work of the Holy Spirit, we become citizens of heaven, receiving blessings that originate from there. The believers' true abode is heaven, and the spiritual blessings count the most for them. Let us praise and thank God for all that He has done, for He is the source of every blessing. These blessings are ours through our fellowship with Christ, who is the conduit for them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 2.387737913518176,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.73,
+            "commentatorTierSimilarities": [
+                30.05,
+                32.28,
+                37.66
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:15:03",
+    "verseRef": "Luke 4:40",
+    "bestBHT": {
+        "bht": "At the close of the Sabbath, when it was permissible to carry the sick, Jesus showed his unwavering care by laying his hands on each and every one who was brought to him and healing them. This on-going and individual healing was a testament to the boundless love and compassion Jesus had for the people. Luke, in his unique account, highlights this detail of Jesus's ministry, emphasizing the tender touch and personal attention given to the sick.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.6516743581712126,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.26,
+        "commentatorTierSimilarities": [
+            47.52,
+            0.0,
+            52.48
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He laid his hands on every one of them, is a detail peculiar to Luke.",
+            "I believe indicating the same as above.",
+            "As also the crying out and saying, implied in the other Evangelists, but not expressed."
+        ],
+        "Marvin Vincent": [
+            "The people brought their sick at that hour, not only because of the coolness, but because it was the end of the Sabbath, and carrying a sick person was regarded as work.",
+            "Laid his hands on. Peculiar to Luke.",
+            "Everyone. 'Implying the solicitude and indefatigableness of this miraculous ministry of love' (Meyer)."
+        ],
+        "Archibald T. Robertson": [
+            "It was not only cooler, but it was the end of the sabbath when it was not regarded as work to carry a sick person.",
+            "Had. Imperfect tense including all the chronic cases.",
+            "He laid his hands on every one of them and healed them. Note the present active participle and the imperfect active, picturing the healing one by one with the tender touch upon each one."
+        ],
+        "John Gill": [
+            "And so the sabbath was over.\" ",
+            "[Jesus] laid his hands on every one of them, and healed them; without the use of medicine, by the mere imposition of his hands.",
+            "[Jesus] did not refuse any person, how unworthy soever they might be in themselves, and how obstinate their disease might be."
+        ],
+        "John Wesley": [
+            "When the sun was set \u2014 And consequently the Sabbath ended, which they reckoned from sunset to sunset. Matthew 8:16; Mark 1:32."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the end of the Sabbath, when carrying a sick person was not considered work, Jesus showed his solicitude and indefatigableness by laying his hands on every single sick person brought to him and healing them. This detail is unique to Luke, and it portrays the tender touch of Jesus upon each one as he heals them. The use of the present active participle and the imperfect active in the verse emphasize the ongoing and individual healing that took place.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.642247879410638,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.95,
+            "commentatorTierSimilarities": [
+                48.33,
+                0.0,
+                51.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the end of the Sabbath, when carrying a sick person was not considered work, Jesus laid his hands on every single sick person and healed them. This detail is peculiar to Luke and demonstrates his remarkable ministry of love. The use of the present active participle and the imperfect active in the passage illustrates the one-by-one healing process with Jesus's tender touch. The healing extended to all, regardless of their conditions or worthiness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5051747074071362,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.39,
+            "commentatorTierSimilarities": [
+                51.03,
+                0.0,
+                48.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the close of the Sabbath, when it was permissible to carry the sick, Jesus showed his unwavering care by laying his hands on each and every one who was brought to him and healing them. This on-going and individual healing was a testament to the boundless love and compassion Jesus had for the people. Luke, in his unique account, highlights this detail of Jesus's ministry, emphasizing the tender touch and personal attention given to the sick.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6516743581712126,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.26,
+            "commentatorTierSimilarities": [
+                47.52,
+                0.0,
+                52.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the end of the Sabbath, regardless of their conditions or worthiness, Jesus laid his hands on every single sick person and healed them. Luke's unique account sheds light on the tender touch and personal attention Jesus gave to each individual, showing his unwavering care and boundless love. The present active participle and the imperfect active in the passage highlight the ongoing and individual healing process, demonstrating the miraculous ministry of love that Jesus carried out.",
+            "wordCount": 77,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.6257446199660899,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.4,
+            "commentatorTierSimilarities": [
+                45.74,
+                0.0,
+                54.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the compassionate ministry of Jesus, at the close of the Sabbath, he laid his hands on each and every sick person who was brought to him and healed them. Luke's account highlights this remarkable detail, emphasizing the tender touch and individual attention Jesus gave to those in need. The present active participle and the imperfect active vividly depict the ongoing and personal nature of the healing process, portraying the incredible love and care that Jesus poured out onto each individual who came to him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5879619181502227,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.14,
+            "commentatorTierSimilarities": [
+                48.73,
+                0.0,
+                51.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

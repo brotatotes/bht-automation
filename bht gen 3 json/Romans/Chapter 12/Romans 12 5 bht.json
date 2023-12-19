@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:08:26",
+    "verseRef": "Romans 12:5",
+    "bestBHT": {
+        "bht": "As Christians, we are individuals who make up one body, fellow-members with one another in the body of Christ. Each one of us has a unique role and contribution to the welfare of the body. It is important that we do not despise or disregard one another, but recognize the value and importance of each member. We may be many in number, but we are united as one body through our fellowship with Christ, our Head, empowering us to support and care for one another.",
+        "wordCount": 86,
+        "quoteTokenProportion": 56.36,
+        "qualityScore": 1.8666127088685818,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.41,
+        "commentatorTierSimilarities": [
+            21.99,
+            42.21,
+            35.8
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "5. severally] i. e, as regards individuals. members one of another is equivalent, to fellow-members with one another,\u2014members of the body of which we one with another are members."
+        ],
+        "Albert Barnes": [
+            "We who are Christians, and who are numerous as individuals.",
+            "The welfare of the body of Christ is to be promoted by discharging our duties in our appropriate sphere, as God has appointed us.",
+            "No one should despise or lightly esteem another. All are necessary."
+        ],
+        "Marvin Vincent": [
+            "Being many [\u03bf\u03b9 \u03c0\u03bf\u03bb\u03bb\u03bf\u03b9] . Lit., the many. Rev., better, who are many.",
+            "Every one [\u03c4\u03bf \u03b4\u03b5 \u03ba\u03b1\u03b8 \u03b5\u03b9\u03c2] . The literal phrase can only be rendered awkwardly : and as to what is true according to one; i e., individually, severally.",
+            "Compare, for a similar phrase, Mark 14:19; John 8:9."
+        ],
+        "Philip Schaff": [
+            "So we, the many, not, 'being many,' but 'the many,' like the many members of the body, are one body in Christ.",
+            "Christ is the Head, and fellowship with Him makes us one body.",
+            "The individual relation is that of fellow-member with every other."
+        ],
+        "Archibald T. Robertson": [
+            "A difficult late idiom where the preposition \u03ba\u03b1\u03b8' (\u03ba\u03b1\u03c4\u03b1) is treated adverbially with no effect on the nominative case \u03b5\u03b9\u03c2 like \u03c5\u03c0\u03b5\u03c1 \u03b5\u03b3\u03c9 (2 Corinthians 11:23).\" ",
+            "The use of the neuter article here \u03c4\u03bf with \u03ba\u03b1\u03b8' \u03b5\u03b9\u03c2 is probably the accusative of general reference, 'as to each one.'\" ",
+            "But we have \u03ba\u03b1\u03b8' \u03b5\u03bd\u03b1 in 1 Corinthians 14:31."
+        ],
+        "John Gill": [
+            "The chosen of God, the redeemed of Christ, and those that are justified by his righteousness, and sanctified by his Spirit; though they are but few in comparison of the men of the world, but considered in themselves are many, and yet make up but one body, the church, of which Christ is the head...",
+            "Each community, consisting of divers persons, is but one body 'in Christ', united and knit together by joints and bands, under him their head, Lord, and King...",
+            "In him, and not in Caesar, or any earthly monarch, to distinguish this body from bodies politic, or any civil community among men..."
+        ],
+        "John Wesley": [
+            "So we \u2014 All believers.",
+            "Are one body \u2014 Closely connected together in Christ, and consequently ought to be helpful to each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We, as Christians, are many individuals but we are all members of the same body. Each of us has a unique role to play and we must not despise or underestimate one another, as we are all necessary for the proper functioning of the body. In Christ, we are united as one body, with Him as the Head. We are part of a community, the church, which is distinct from earthly kingdoms. Therefore, we should strive to support and assist one another, recognizing our individual roles and the importance of our collective unity.",
+            "wordCount": 93,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 1.8067034904658053,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                21.54,
+                40.71,
+                37.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Christians, we are many individuals but united as one body in Christ. Each of us has a unique role, like the diverse members of a body, and it is important that we do not despise or underestimate one another. Our fellowship with Christ makes us part of a distinct community, the church, where we should support and assist one another. Together, we form a body that is essential for the proper functioning and well-being of everyone involved.",
+            "wordCount": 79,
+            "quoteTokenProportion": 55.36,
+            "qualityScore": 1.8435499547913414,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.64,
+            "commentatorTierSimilarities": [
+                20.62,
+                40.87,
+                38.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Christians, we are individuals who together make up one body, fellow-members with one another in the body of Christ. Each one of us has a unique role and contribution to the welfare of the body. It is important that we do not despise or disregard one another, but recognize the value and importance of each member. We may be many in number, but we are united as one body through our fellowship with Christ, who is our Head. In this way, we are a chosen and redeemed community, distinct from earthly governments or communities, and our unity in Christ empowers us to support and care for one another.",
+            "wordCount": 110,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 1.8541217499902527,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                21.68,
+                41.09,
+                37.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Christians, we are individuals who make up one body, fellow-members with one another in the body of Christ. Each one of us has a unique role and contribution to the welfare of the body. It is important that we do not despise or disregard one another, but recognize the value and importance of each member. We may be many in number, but we are united as one body through our fellowship with Christ, our Head, empowering us to support and care for one another.",
+            "wordCount": 86,
+            "quoteTokenProportion": 56.36,
+            "qualityScore": 1.8666127088685818,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.41,
+            "commentatorTierSimilarities": [
+                21.99,
+                42.21,
+                35.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Christians, we are individual members of one body, united and connected to each other in the body of Christ. Each one of us has a unique role and contribution to the well-being of the body. We must not look down upon or dismiss one another, but recognize the significance of every member. Though we may be numerous as individuals, we are united as one body through our fellowship with Christ, who is our Head. This unity empowers us to support and assist one another.",
+            "wordCount": 86,
+            "quoteTokenProportion": 58.93,
+            "qualityScore": 1.814342558930072,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.67,
+            "commentatorTierSimilarities": [
+                22.88,
+                40.86,
+                36.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

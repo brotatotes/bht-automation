@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:29:22",
+    "verseRef": "1 Timothy 5:23",
+    "bestBHT": {
+        "bht": "Paul's counsel to Timothy regarding the use of wine is not a call for asceticism, but rather a recommendation for the sake of his health. Timothy's frail constitution and tendencies towards timidity in his duties as an overseer necessitated measures to improve his physical condition. The emphasis is on using a small amount of wine, not for indulgence, but for aiding digestion and alleviating bodily weaknesses caused by his dedicated efforts in spreading the Gospel.",
+        "wordCount": 77,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.8609975359862,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+        "commentatorTierSimilarities": [
+            34.76,
+            28.1,
+            37.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not that I mean to enjoin that kind of purity which consists in asceticism, nay, be no longer a water-drinker... but use a little wine, as much as is needed for thy health.\" ",
+            "Timothy was of a feeble frame and prone to timidity in his duties as overseer where vigorous action was needed; hence Paul exhorts him to take all proper means to raise his bodily condition above these infirmities.\" ",
+            "God hereby commands believers to use all due means for preserving health, and condemns by anticipation the human traditions which among various sects have denied the use of wine to the faithful."
+        ],
+        "Albert Barnes": [
+            "The labors enjoined were such as to demand all the time; the care and anxiety incident to such a charge would be very likely to prostrate the frame, and to injure the health.",
+            "Thus considered, this direction is as worthy to be given by an inspired teacher as it is to counsel a man to pay a proper regard to his health, and not needlessly to throw away his life.",
+            "So far, and no further, is it right to apply this language in regard to the use of wine; and the minister who should follow this injunction would be in no danger of disgracing his sacred profession by the debasing and demoralizing sin of intemperance."
+        ],
+        "Marvin Vincent": [
+            "Timothy is not enjoined to abstain from water, but is bidden not to be a water - drinker, entirely abstaining from wine.",
+            "Observe that oinov here, as everywhere else, means wine, fermented and capable of intoxicating, and not a sweet syrup made by boiling down grape - juice, and styled by certain modern reformers 'unfermented wine.'",
+            "If it belongs here, it can be explained only as a continuation of the thought in ver. 22, to the effect that Timothy is to keep himself pure by not giving aid and comfort to the ascetics, and imperilling his own health by adopting their rules of abstinence."
+        ],
+        "John Calvin": [
+            "What is said amounts to this, that Timothy should accustom himself to drink a little wine, for the sake of preserving his health.",
+            "How few are there at the present day, who need to be forbidden the use of water; or rather how many are there that need to be limited to drink wine soberly!",
+            "And if excessive abstinence is blamed, when it brings on or promotes diseases, how much more should superstition be avoided?"
+        ],
+        "Philip Schaff": [
+            "All experience shows that it is the weakened bloodless brain that can least control its thoughts, and is most open to the assaults of impure imaginations.",
+            "One who was necessarily brought face to face with the danger, or who needed promptness and decision to guard against it, would find it his wisdom to keep body and brain in a state of healthy equilibrium.",
+            "The special reason given, 'for thy stomach\u2019s sake,' savours of the medical adviser, and as if it were added lest the disciple should draw a wrong inference from the previous words and plunge into more rigorous austerities."
+        ],
+        "Archibald T. Robertson": [
+            "Not complete asceticism, but only the need of some wine urged in Timothy's peculiar physical condition (a sort of medical prescription for this case).",
+            "The emphasis is on \u03bf\u03bb\u03b9\u03b3\u03c9 (a little).",
+            "Timothy was clearly a semi-invalid."
+        ],
+        "John Gill": [
+            "Drink no longer water, but use a little wine... Not as though there was any danger of Timothy's running into an excess of drinking; but for the sake of others, lest they should abuse such a direction, to indulge themselves in an excessive way; and chiefly to prevent the scoffs of profane persons.\" ",
+            "This advice to the use of wine, was not for pleasure, and for the satisfying of the flesh, but for health, for thy stomach's sake; to help digestion, and to remove the disorders which might attend it.",
+            "[Wine] and thine often infirmities; or weaknesses of body, occasioned by hard studies, frequent ministrations, and indefatigable pains and labours he endured in spreading the Gospel of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Regarding the verse, a commentary suggests that Paul is not commanding asceticism, but rather advising that Timothy use a small amount of wine for his health. Timothy was described as having a weak constitution and being timid in his duties as an overseer, so Paul urges him to take proper measures to improve his physical condition. The commentary emphasizes that the use of wine here refers to fermented wine, not the sweet syrup made from grape juice. The advice is not for indulgence but for aiding digestion and alleviating Timothy's frequent bodily weaknesses caused by his rigorous work in spreading the Gospel.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.8792448199796232,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+            "commentatorTierSimilarities": [
+                38.15,
+                26.03,
+                35.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's counsel to Timothy regarding the use of wine is not a call for asceticism, but rather a recommendation for the sake of his health. Timothy's frail constitution and tendencies towards timidity in his duties as an overseer necessitated measures to improve his physical condition. The emphasis is on using a small amount of wine, not for indulgence, but for aiding digestion and alleviating bodily weaknesses caused by his dedicated efforts in spreading the Gospel.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.8609975359862,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                34.76,
+                28.1,
+                37.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul advises Timothy to use a little wine for his health, not advocating complete asceticism. Timothy's weak frame and timidity in his duties as an overseer require him to take care of his physical condition. The commentary emphasizes that the wine referred to here is fermented and capable of intoxication. The advice is not for indulgence but for aiding digestion and alleviating Timothy's frequent bodily weaknesses caused by his labors in spreading the Gospel.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.8057564958516101,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                36.02,
+                28.44,
+                35.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul exhorts Timothy to use a little wine for the sake of his health, without prescribing asceticism. Due to Timothy's feeble frame and timidity, it is necessary for him to take measures to improve his physical condition. The emphasis is on the use of fermented wine, not a non-alcoholic substitute. This advice is not for indulgence, but to aid digestion and alleviate Timothy's frequent bodily weaknesses resulting from his tireless labors in spreading the Gospel.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.8207445358236447,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.88,
+            "commentatorTierSimilarities": [
+                35.57,
+                24.92,
+                39.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul advises Timothy, who was a semi-invalid, to use a little wine for his health and not to be a complete ascetic. This is not an endorsement of asceticism, but rather a recognition of Timothy's weak constitution and timidity in his duties. The emphasis is on using fermented wine, emphasizing its capacity for intoxication. The purpose of this advice is to aid digestion and address Timothy's frequent bodily weaknesses caused by his devoted efforts in spreading the Gospel.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7576079330108056,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                35.42,
+                26.89,
+                37.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:22:26",
+    "verseRef": "Luke 20:36",
+    "bestBHT": {
+        "bht": "In the future state, those who are resurrected will be equal to the angels in their immortality and divine nature. Marriage, which serves to perpetuate the human family, will no longer be necessary without the presence of death. Those who rise again will be considered children of God, partakers of the divine nature through the resurrection. By sharing in the spirituality, purity, and immortality of the angels, they will bear witness to their status as the children of God.",
+        "wordCount": 79,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 2.4974873695468967,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.38,
+        "commentatorTierSimilarities": [
+            33.52,
+            31.96,
+            34.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fact, that they are equal unto the angels, is alleged, not as shewing them to be without passions or lusts, but as setti forth their immortality.",
+            "Sons of God is here used, not in its ethical sense, as applied to believers in this world,\u2014but its metaphysical sense, as denoting the essential state of the blessed after the resurrection.",
+            "They are, by their resurrection, essentially partakers of the divine nature, and so cannot die."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Marriage is ordained to perpetuate the human family; but as there will be no breaches by death in the future state, this ordinance will cease.",
+            "Equal, or 'like,' unto the angels, that is, in the immortality of their nature.",
+            "Children of God, not in respect of character but nature; 'being the children of the resurrection' to an undecaying existence."
+        ],
+        "Marvin Vincent": [
+            "Equal unto the angels [\u03b9\u03c3\u03b1\u03b3\u03b3\u03b5\u03bb\u03bf\u03b9] . Only here in New Testament."
+        ],
+        "Philip Schaff": [
+            "For neither can they die any more...there is no more death, hence no more birth.",
+            "They are distinguished from the angels, but like them are immortal.",
+            "Being sons of the resurrection...this change of nature takes place at the resurrection."
+        ],
+        "Archibald T. Robertson": [
+            "Equal unto the angels [...] Angels do not marry, there is no marriage in heaven.",
+            "Sons of God, being sons of the resurrection [...] defines 'sons of God' and is a direct answer to the Sadducees."
+        ],
+        "John Gill": [
+            "Therefore there will be no need of marrying to procreate children, to keep up a succession of men, any more than there is among the angels.",
+            "They are equal unto the angels; in spirituality, purity and immortality.",
+            "They will appear to be the children of God by their resurrection to eternal life."
+        ],
+        "John Wesley": [
+            "They are the children of God \u2014 In a more eminent sense when they rise again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, it is explained that those who are resurrected will be equal to the angels, not in terms of character, but in their immortal nature. Marriage, which is meant to perpetuate the human family, will no longer be necessary in the future state since there will be no deaths. Instead, those who rise again will be considered children of God, sharing in the divine nature and obtaining an undying existence. This transformation occurs at the resurrection, where they will no longer experience death but will be like the angels in their spirituality, purity, and immortality.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.3722138413132754,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.22,
+            "commentatorTierSimilarities": [
+                35.16,
+                33.51,
+                31.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who are resurrected will be equal to the angels in their essential state. Their immortality sets them apart, as they become children of God, partakers of the divine nature, and unable to die. Consequently, the need for marriage to procreate children will cease in the future state, where there will be no more deaths. Through the resurrection, they will share in the spirituality, purity, and immortality of the angels, revealing their divine connection and undying existence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.370206518200594,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.15,
+            "commentatorTierSimilarities": [
+                32.99,
+                32.53,
+                34.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the future state, those who are resurrected will be equal to the angels, both in terms of their immortality and their divine nature. Marriage, which is meant for perpetuating the human family, will no longer serving its purpose, as there will be no more deaths. Those who rise again will be regarded as children of God, displaying their connection to the resurrection and attaining an undying existence. By sharing in the spirituality, purity, and immortality of the angels, they will truly demonstrate their status as the children of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.416351693085999,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.68,
+            "commentatorTierSimilarities": [
+                33.02,
+                31.29,
+                35.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the future state, those who are resurrected will be equal to the angels in their immortality and divine nature. Marriage, which serves to perpetuate the human family, will no longer be necessary without the presence of death. Those who rise again will be considered children of God, partakers of the divine nature through the resurrection. By sharing in the spirituality, purity, and immortality of the angels, they will bear witness to their status as the children of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.4974873695468967,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.38,
+            "commentatorTierSimilarities": [
+                33.52,
+                31.96,
+                34.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who are resurrected will be equal to the angels, sharing the same immortality and divine nature. Marriage will cease to exist in the future state, as there will be no deaths. Instead, those who rise again will be deemed children of God, partakers of the divine nature through the resurrection. By attaining the spirituality, purity, and immortality of the angels, they will truly embody the status of being the children of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 2.4806061274479774,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.82,
+            "commentatorTierSimilarities": [
+                33.73,
+                32.37,
+                33.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:18:33",
+    "verseRef": "Luke 12:3",
+    "bestBHT": {
+        "bht": "Our Lord's plain-speaking to His disciples highlighted the impending confrontation with His adversaries. He set an example by demonstrating His teachings. Secrets shared in hidden places, specifically in the treasuries, would be revealed in the light. Likewise, messages whispered in chambers would be proclaimed on housetops. This aligns with the instructions given to the disciples, to proclaim openly what they had heard in private.",
+        "wordCount": 66,
+        "quoteTokenProportion": 32.0,
+        "qualityScore": 1.2012440912275697,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.28,
+        "commentatorTierSimilarities": [
+            50.0,
+            0.0,
+            50.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Our Lord had been speaking out more plainly than ever before, as matters were coming to a head between Him and His enemies, and this seems to have suggested to His own mind the warning here.",
+            "He had just Himself illustriously exemplified His own precepts.",
+            "Covered\u2014from the view."
+        ],
+        "Marvin Vincent": [
+            "Closets [\u03c4\u03b1\u03bc\u03b5\u03b9\u03bf\u03b9\u03c2] . The word has the same root as temnw, to cut or divide, and means an apartment where supplies are divided and apportioned: a treasury, magazine, and therefore a secret and well-guarded place.\" ",
+            "A treasury, magazine, and therefore a secret and well-guarded place.",
+            "House-tops."
+        ],
+        "Archibald T. Robertson": [
+            "In the inner chambers (\u03b5\u03bd \u03c4\u03bf\u03b9\u03c2 \u03c4\u03b1\u03bc\u03b5\u03b9\u03bf\u03b9\u03c2). Old form \u03c4\u03b1\u03bc\u03b9\u03b5\u03b9\u03bf\u03bd, a store chamber (Luke 12:24), secret room (Matthew 6:6; Luke 12:3). "
+        ],
+        "John Gill": [
+            "Therefore whatsoever ye have spoken in darkness,.... In the most private manner, to one another:",
+            "shall be heard in the light.\" ",
+            "That which ye have spoken in the ear in closets; whispered to persons in their bedchambers, and places of the most secret retirement;",
+            "shall be proclaimed upon the housetops.\" ",
+            "What was told the disciples by Christ, in the most private place and way, should be published by them, in the most free and open manner."
+        ],
+        "John Wesley": [
+            "Matthew 10:27."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord was speaking plainly to His disciples, as tensions rose between Him and His enemies. He exemplified His own teachings, warning that secrets whispered in private would be exposed in the light. He referred to the treasuries where supplies were divided and guarded, and to the house-tops where messages were proclaimed. The secrecy of whispers in chambers would be replaced by the public declaration on housetops. This echoes the teaching given to the disciples, that what they heard in private should be proclaimed openly. (Luke 12:3, Matthew 10:27)",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.388347121222565,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+            "commentatorTierSimilarities": [
+                45.67,
+                0.0,
+                54.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord's plain-speaking to His disciples highlighted the impending confrontation with His adversaries. He set an example by demonstrating His teachings. Secrets shared in hidden places, specifically in the treasuries, would be revealed in the light. Likewise, messages whispered in chambers would be proclaimed on housetops. This aligns with the instructions given to the disciples, to proclaim openly what they had heard in private.",
+            "wordCount": 66,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.2012440912275697,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.28,
+            "commentatorTierSimilarities": [
+                50.0,
+                0.0,
+                50.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord's clear communication with His disciples indicated the intensifying conflict between Him and His enemies. He exemplified His teachings by His actions. Secrets uttered in concealed spaces, such as the treasuries, would be disclosed in the open. Similarly, private conversations in chambers would be proclaimed publicly on housetops. This echoes the instruction given to the disciples, urging them to openly share what they had privately heard.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.1948005300231643,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.07,
+            "commentatorTierSimilarities": [
+                52.86,
+                0.0,
+                47.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord's explicit instructions to His disciples served as a prelude to the escalating tension between Him and His opponents. He demonstrated His own teachings by living them out in a profound way. The concept of hiding in secret places, like treasuries, carries the implication of divided and well-guarded spaces. Correspondingly, private conversations in chambers would eventually be proclaimed openly on housetops. This reinforces the disciples' charge to openly declare what they had privately received from their Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.1831790731701095,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.68,
+            "commentatorTierSimilarities": [
+                56.24,
+                0.0,
+                43.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of mounting conflict between Jesus and His adversaries, He openly conveyed His message to His disciples. His own actions brilliantly exemplified the principles He taught. He emphasized that secrets whispered in private, reminiscent of treasuries or well-guarded places, would be brought to light. Likewise, conversations held in the inner chambers would one day be proclaimed audibly from the housetops. This echoes His charge to the disciples to publicly declare what they had received privately in the most open and transparent manner.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.164825047703982,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.07,
+            "commentatorTierSimilarities": [
+                51.47,
+                0.0,
+                48.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

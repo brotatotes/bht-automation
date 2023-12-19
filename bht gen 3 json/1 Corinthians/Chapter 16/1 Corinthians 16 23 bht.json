@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 15:14:25",
+    "verseRef": "1 Corinthians 16:23",
+    "bestBHT": {
+        "bht": "This is the apostle's salutation found in all his epistles, a mark of their genuineness. It is a wish for a supply and increase of grace from Christ to the saints, emphasizing the exclusivity of God's grace by excluding unbelievers from receiving this salutation.",
+        "wordCount": 46,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.4220435606734991,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.63,
+        "commentatorTierSimilarities": [
+            22.53,
+            26.27,
+            51.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "23. The grace, c.\u2014This is the",
+            "\tsalutation meant in 1 Corinthians 16:21",
+            "\tand from which unbelievers (1 Corinthians 16:21- :; compare 2 John 1:10;",
+            "\t2 John 1:11) are excluded [BENGEL]."
+        ],
+        "Albert Barnes": [
+            "The grace ... - See the note at Romans 16:20."
+        ],
+        "John Gill": [
+            "The grace of our Lord Jesus Christ be with you.\" ",
+            "This is the apostle's salutation in all his epistles, and is a token of the truth and genuineness of them.",
+            "It is a wish for a supply of all grace from Christ, and an increase of it in the saints."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the grace of our Lord Jesus Christ be with you. This salutation is included in all of the apostle's epistles and serves as a mark of their truth and genuineness. It is a wish for a abundant supply and growth of grace in the lives of believers. Unbelievers, however, are excluded from this salutation, emphasizing the exclusive nature of God's grace. (1 Corinthians 16:23, 2 John 1:10, 2 John 1:11)",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.374925323776631,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.06,
+            "commentatorTierSimilarities": [
+                28.81,
+                24.59,
+                46.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May the grace extended from our Lord Jesus Christ be upon you, a salutation that is present in all of the apostle's letters and serves as a testament to their authenticity. This salutation expresses the desire for a rich endowment and growth of divine grace in the lives of believers. However, it is important to note that unbelievers are excluded from this salutation, highlighting the exclusive nature of God's gracious favor.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.2140799629180272,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.71,
+            "commentatorTierSimilarities": [
+                26.07,
+                26.41,
+                47.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This is the apostle's salutation found in all his epistles, a mark of their genuineness. It is a wish for a supply and increase of grace from Christ to the saints, emphasizing the exclusivity of God's grace by excluding unbelievers from receiving this salutation.",
+            "wordCount": 46,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.4220435606734991,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.63,
+            "commentatorTierSimilarities": [
+                22.53,
+                26.27,
+                51.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The grace bestowed upon us by our Lord Jesus Christ extends as a salutation in all of the apostle's letters, serving as a testament to their truth and genuineness. It carries a desire for an abundance of divine grace from Christ and its growth within the lives of believers. This salutation is exclusive to the faithful, excluding unbelievers from receiving this gracious blessing.",
+            "wordCount": 64,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3130689860578606,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.0,
+            "commentatorTierSimilarities": [
+                24.25,
+                27.36,
+                48.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The grace extended through our Lord Jesus Christ is present as a salutation in all of the apostle's epistles, demonstrating their authenticity. It represents a wish for a supply and increase of grace from Christ, fostering its growth within the lives of believers. It is crucial to note that this salutation excludes unbelievers, underscoring the exclusive nature of God's grace.",
+            "wordCount": 62,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.307446247159292,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.82,
+            "commentatorTierSimilarities": [
+                23.42,
+                26.81,
+                49.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

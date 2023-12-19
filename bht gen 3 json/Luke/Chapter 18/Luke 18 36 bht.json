@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:21:20",
+    "verseRef": "Luke 18:36",
+    "bestBHT": {
+        "bht": "As the man heard the tramp of the passing crowd, he inquired repeatedly about the meaning of the noise, wondering who might be the person that so many were following.",
+        "wordCount": 30,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7710543219130095,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+        "commentatorTierSimilarities": [
+            45.29,
+            0.0,
+            54.71
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Repeatedly inquired as he heard the tramp of the passing crowd going by.",
+            "What this meant.",
+            "Without \u03b1\u03bd the optative is due to indirect discourse, changed from \u03b5\u03c3\u03c4\u03b9\u03bd."
+        ],
+        "John Gill": [
+            "Their 'voice', as the Syriac version expresses it; the noise of their feet, and especially of their tongues.\" ",
+            "What was the meaning of this concourse of people, and of this clamorous noise.",
+            "Who it should be? What person of note was passing by, that there was such a multitude after him?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As a crowd passed by, a man repeatedly inquired about their purpose and the meaning behind their noise. He wondered who they were following and what significance this gathering held. The man questioned why there was such a frenzy surrounding a passing figure and what it meant for him.",
+            "wordCount": 49,
+            "quoteTokenProportion": 52.5,
+            "qualityScore": 1.2131590777982755,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.68,
+            "commentatorTierSimilarities": [
+                39.34,
+                0.0,
+                60.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crowd passing by piqued the curiosity of a man who repeatedly inquired about the meaning of the noise. Uncertain about its significance, he wondered who might be the person of importance drawing such a multitude after him. The man's persistent questioning prompted those around him to explain that it was a notable individual passing by.",
+            "wordCount": 57,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.2022510439546565,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.32,
+            "commentatorTierSimilarities": [
+                40.43,
+                0.0,
+                59.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the man heard the tramp of the passing crowd, he inquired repeatedly about the meaning of the noise, wondering who might be the person that so many were following.",
+            "wordCount": 30,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7710543219130095,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+            "commentatorTierSimilarities": [
+                45.29,
+                0.0,
+                54.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people passing by repeatedly inquired as they heard the tramp of the crowd, wanting to know what this meant. They were curious about the meaning of the commotion and wondered who the person of note was that everyone was following. Their voice was like the noise of their feet and tongues, creating a clamorous atmosphere. The absence of the word \u03b1\u03bd suggests that the optative is changed from \u03b5\u03c3\u03c4\u03b9\u03bd due to indirect discourse.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.4489204545319159,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+            "commentatorTierSimilarities": [
+                47.53,
+                0.0,
+                52.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crowd passing by inquired repeatedly, questioning the meaning behind the tramp and clamorous noise. Curiosity arose as they wondered who this person of note could be that had attracted such a multitude. The absence of the word \u03b1\u03bd in the phrase suggests a change from \u03b5\u03c3\u03c4\u03b9\u03bd, possibly due to indirect discourse. Their voices echoed through the air, creating a vibrant atmosphere filled with the noise of their feet and tongues.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.2519799973486576,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.97,
+            "commentatorTierSimilarities": [
+                46.22,
+                0.0,
+                53.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:38:19",
+    "verseRef": "2 Thessalonians 2:17",
+    "bestBHT": {
+        "bht": "During a time of unsettling teachings about the imminent coming of the Lord, the Thessalonian believers needed comfort and stability. They required establishment in good words and good works and not in fanatical teachings. God, as the source of comfort and strength, grants everlasting consolation and a good hope that outshines all other comforts. This comfort should spur believers to diligently engage in every good word and work, rather than being consumed by vain speculations and forebodings. Our faith should be stable, anchored in the love of God, the covenant of grace, and the arms of Christ.",
+        "wordCount": 97,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.4956507387736346,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+        "commentatorTierSimilarities": [
+            29.9,
+            27.7,
+            42.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Comfort your hearts\u2014unsettled as you have been through those who announced the immediate coming of the Lord.\" ",
+            "Good word and work\u2014The oldest manuscripts invert the order, 'work and word.'",
+            "Establishment in these were what the young converts at Thessalonica needed, not fanatical teaching."
+        ],
+        "Albert Barnes": [
+            "The course of reasoning in 2 Thessalonians 2:0 would lead to the expectation that a considerable time would elapse before the Saviour would appear.",
+            "The apostle Paul was inspired. He has recorded in this chapter a distinct prediction of an important series of events which were to occur at a future, and most of them at quite a remote period.",
+            "If this be the 'fair interpretation,' then we may see what is the value of the pretended 'succession' of the ministry through that system."
+        ],
+        "Philip Schaff": [
+            "Everlasting consolation. Everlasting, in contrast to all other comforts which are liable to come to an end, to be confronted with emergencies for which they are insufficient.\" ",
+            "Good hope. 'Good, because of the pre-eminent excellence of the object of it, the impregnable basis on which it rests, and the purifying influence which it exerts in the heart and life' (Lillie).",
+            "Comfort should result not only in the feeling of personal security, but in an unanxious and unselfish diligence in every good word and work. The energies which were frittered away in vain speculations and gloomy forebodings should now, when our future is provided for, be concentrated on the duty of the hour."
+        ],
+        "Archibald T. Robertson": [
+            "Comfort and stablish",
+            "God is the God of comfort and strength"
+        ],
+        "John Gill": [
+            "Comfort your hearts by his grace, joining the last clause of the preceding verse to this.",
+            "Good words and good works, principles and practices, should go together, and the saints stand in need of stability in both.",
+            "Though, as to their state and condition, they are established in the love of God, in the covenant of grace, in the arms of Christ, and in him the foundation, so as they can never be removed; yet they are often very unstable."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of unsettling teachings about the immediate coming of the Lord, the young converts in Thessalonica needed comfort and stability. They needed to be established in good words and good works, not in fanatical teachings. Thankfully, God is the God of comfort and strength. Through His grace, He provides everlasting consolation and a good hope that surpasses all other comforts. This comfort should not lead to complacency, but to an unanxious and unselfish diligence in every good word and work. As believers, we are established in the love of God, in the covenant of grace, and in the arms of Christ, but we must still strive for stability in our faith.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.5372996971105448,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.46,
+            "commentatorTierSimilarities": [
+                34.32,
+                24.71,
+                40.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of misleading teachings on the immediate coming of the Lord, the Thessalonian converts needed comfort and stability. God, the God of comfort and strength, provides everlasting consolation and a good hope that surpasses all other comforts. This comfort should not lead to complacency but to an unanxious and unselfish diligence in every good word and work. As believers, we are established in the love of God, in the covenant of grace, and in the arms of Christ. However, we must still strive for stability in our faith and conduct.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.459609832269753,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.87,
+            "commentatorTierSimilarities": [
+                31.23,
+                26.01,
+                42.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During a time of unsettling teachings about the imminent coming of the Lord, the Thessalonian believers needed comfort and stability. They required establishment in good words and good works and not in fanatical teachings. God, as the source of comfort and strength, grants everlasting consolation and a good hope that outshines all other comforts. This comfort should spur believers to diligently engage in every good word and work, rather than being consumed by vain speculations and forebodings. Our faith should be stable, anchored in the love of God, the covenant of grace, and the arms of Christ.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.4956507387736346,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+            "commentatorTierSimilarities": [
+                29.9,
+                27.7,
+                42.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the unsettling teachings about the immediate coming of the Lord, the young believers in Thessalonica sought comfort and stability. They needed to be established in good words and works, rather than being swayed by fanatical teachings. The God of comfort and strength extends His grace to provide everlasting consolation and a good hope, surpassing all other comforts. This comfort should not lead to complacency but should inspire an unwavering commitment to every good word and work. Although believers are rooted in the love of God and the covenant of grace, stability in faith remains crucial.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4859772844496408,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.75,
+            "commentatorTierSimilarities": [
+                30.29,
+                28.64,
+                41.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of unsettling teachings about the immediate coming of the Lord, the young converts in Thessalonica needed comfort and stability. They needed to be established in good words and good works, not in fanatical teachings. Thankfully, God is the God of comfort and strength. Through His grace, He provides everlasting consolation and a good hope that surpasses all other comforts. This comfort should not lead to complacency, but to an unanxious and unselfish diligence in every good word and work. As believers, we are established in the love of God, in the covenant of grace, and in the arms of Christ, but we must still strive for stability in our faith.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.5372996971105448,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.46,
+            "commentatorTierSimilarities": [
+                34.32,
+                24.71,
+                40.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:14:47",
+    "verseRef": "Luke 4:2",
+    "bestBHT": {
+        "bht": "Led by the Spirit, Jesus endured a forty-day period of temptation in the wilderness, where the devil sought to challenge him. The strictness of Jesus' fast, abstaining from food entirely, underscored its significance. At the conclusion of the forty days, hunger overcame Jesus, providing the devil with a prime opportunity to tempt him. This entire ordeal showcased Christ's ability to sustain his human nature without food, but it was not meant as an example for his followers to replicate.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.9949127672853657,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+        "commentatorTierSimilarities": [
+            37.06,
+            24.73,
+            38.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Jesus.. was led by (in, in the power of) the Spirit in the wilderness, being tempted (i. e. because he was tempted) during forty days the devil.\" ",
+            "St. Luke, as also St. Mark, implies that the temptation continued the whole forty days.",
+            "He did eat nothing testifies to the strictness in which the term \u2018fasted\u2019 must be taken."
+        ],
+        "Philip Schaff": [
+            "During forty days, being tempted by the devil.\" ",
+            "The temptation continued during forty days.\" ",
+            "Entire abstinence day and night (Matthew) is meant."
+        ],
+        "Archibald T. Robertson": [
+            "The devil challenged the Son of man though also the Son of God. It was a contest between Jesus, full of the Holy Spirit, and the slanderer of men.",
+            "The weakness from the absence of food gave the devil his special opportunity to tempt Jesus which he promptly seized.",
+            "According to Luke the hunger (\u03b5\u03c0\u03b5\u03b9\u03bd\u03b1\u03c3\u03b5\u03bd, became hungry, ingressive aorist active indicative) came at the close of the forty days as in Matthew 4:2."
+        ],
+        "John Gill": [
+            "Jesus was led by the Spirit forty days in the wilderness, before he was tempted by Satan, and in order to it.",
+            "This entire abstinence, as it shows the power of Christ in the supporting of his human nature, without food, for such a time, and the disadvantages under which, as man, combated with Satan.",
+            "This fast was never designed as an example to his followers, and to be imitated by them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, full of the Holy Spirit, was led into the wilderness and tempted by the devil for the entire forty days. Despite not eating anything, Jesus remained steadfast and resolute, emphasizing the severity of his fast. The devil saw this as an opportune time to challenge both the Son of Man and the Son of God. The intense weakness brought about by Jesus' hunger allowed the devil to seize his chance to tempt him. Ultimately, the hunger came upon Jesus at the end of the forty days. This entire period of abstinence demonstrated Christ's power in sustaining his human nature without food, yet it was never meant to be an example for his followers to imitate.",
+            "wordCount": 117,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.9517150818159514,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "commentatorTierSimilarities": [
+                36.16,
+                27.08,
+                36.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, filled with the Holy Spirit, was led by the Spirit in the wilderness for forty days, during which he was tempted by the devil. His strict fast and complete abstinence from food highlight the magnitude of his resolve. The temptations posed a contest between Jesus, empowered by the Spirit, and the slanderous adversary. The devil took advantage of Jesus' physical weakness due to hunger. However, it's important to note that Jesus' forty-day fast was not intended as a model for his followers to emulate.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8119587423912535,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                35.77,
+                25.14,
+                39.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Led by the Spirit, Jesus endured a forty-day period of temptation in the wilderness, where the devil sought to challenge him. The strictness of Jesus' fast, abstaining from food entirely, underscored its significance. At the conclusion of the forty days, hunger overcame Jesus, providing the devil with a prime opportunity to tempt him. This entire ordeal showcased Christ's ability to sustain his human nature without food, but it was not meant as an example for his followers to replicate.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9949127672853657,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                37.06,
+                24.73,
+                38.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, full of the Holy Spirit, was led by the Spirit into the wilderness for a forty-day period of temptation by the devil. His strict fasting emphasized the seriousness of his commitment. The devil took advantage of Jesus' weakness due to hunger to tempt him. This challenge served as a contest between Jesus, empowered by the Spirit, and the slanderous adversary. Although Jesus' fasting demonstrated his power to endure without food, it was not intended for his followers to imitate.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.762916720802265,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+            "commentatorTierSimilarities": [
+                37.75,
+                22.21,
+                40.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, filled with the Holy Spirit, was led by the Spirit in the wilderness for a forty-day period of temptation by the devil. The intensity of his fast, abstaining from food entirely, showcases its significance. The adversary seized the opportunity provided by Jesus' weakness from hunger to tempt him. This event demonstrated Jesus' ability to sustain his human nature without food, but it was not meant to be an example for his followers to imitate.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.782336167502305,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                37.86,
+                21.31,
+                40.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:23:15",
+    "verseRef": "Luke 22:58",
+    "bestBHT": {
+        "bht": "After a little while, another person, not just a maid but another man, accused Peter of being one of Jesus's followers. It seems that several people joined in accusing Peter, with a general accusation beginning at the fire and continuing as Peter withdrew to the porch. There, he was questioned both by a maid and a man, to which Peter bluntly replied, I am not. This denial came after Peter had mused upon his previous denials but lacked the courage to withstand the temptation.",
+        "wordCount": 85,
+        "quoteTokenProportion": 51.56,
+        "qualityScore": 1.7093284837949745,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+        "commentatorTierSimilarities": [
+            18.88,
+            51.22,
+            29.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "58. another (masculine)] In Mat. thew it is feminine,\u2014in Mark, the maid."
+        ],
+        "Philip Schaff": [
+            "A general accusation probably began at the fire, was kept up as Peter withdrew to the porch, where he was questioned both by a maid (Matthew, Mark) and a man.",
+            "A general accusation probably began at the fire...",
+            "Peter withdrew to the porch, where he was questioned both by a maid (Matthew, Mark) and a man."
+        ],
+        "Archibald T. Robertson": [
+            "After a little while another (\u03bc\u03b5\u03c4\u03b1 \u03b2\u03c1\u03b1\u03c7\u03c5 \u03b5\u03c4\u03b5\u03c1\u03bf\u03c2).\" ",
+            "It is almost impossible to co-ordinate the three denials in the four accounts unless we conceive of several joining in when one led off.\" ",
+            "This time Peter's denial is very blunt, 'I am not.'"
+        ],
+        "John Gill": [
+            "Another saw him; not another maid, but another man.",
+            "Thou art also of them; of the disciples of Jesus of Nazareth; thou belongest to that company; thou art certainly one of his followers.",
+            "Man, I am not. This was after he had been out into the porch, and had mused upon it, and was come in again, but had not courage enough to withstand the temptation."
+        ],
+        "John Wesley": [
+            "Observe here, in order to reconcile the four evangelists, that divers persons concurred in charging Peter with belonging to Christ.",
+            "The maid that led him in, afterward seeing him at the fire, first put the question to him, and then positively affirmed, that he was with Christ.",
+            "Others of the company took notice of his being a Galilean, and were seconded by the kinsman of Malchus, who affirmed he had seen him in the garden."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After a little while, another person, not just a maid but another man, saw Peter and accused him of being one of Jesus's followers. It seems that several people joined in accusing Peter, with a general accusation beginning at the fire and continuing as Peter withdrew to the porch. There, he was questioned both by a maid and a man, to which Peter bluntly replied, I am not. This denial came after Peter had mused upon his previous denials but still lacked the courage to withstand the temptation. In order to reconcile the accounts of the four evangelists, it is important to note that multiple individuals accused Peter of belonging to Christ, from the maid who first brought him in to others who noticed his Galilean accent and the kinsman of Malchus who claimed to have seen him in the garden.",
+            "wordCount": 142,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.688513339667534,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.49,
+            "commentatorTierSimilarities": [
+                17.4,
+                49.74,
+                32.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After a little while, another person, not just a maid but another man, accused Peter of being one of Jesus's followers. It seems that several people joined in accusing Peter, with a general accusation beginning at the fire and continuing as Peter withdrew to the porch. There, he was questioned both by a maid and a man, to which Peter bluntly replied, I am not. This denial came after Peter had mused upon his previous denials but lacked the courage to withstand the temptation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.7093284837949745,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+            "commentatorTierSimilarities": [
+                18.88,
+                51.22,
+                29.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After a little while, another person, not just a maid but another man, accused Peter of being one of Jesus's followers. Several individuals joined in the accusation, starting at the fire and continuing as Peter withdrew to the porch. There, both a maid and a man questioned him. Peter's response was blunt: I am not. This denial followed his reflection on his previous denials but still reflected his lack of courage to resist the temptation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.4892825521721647,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.86,
+            "commentatorTierSimilarities": [
+                22.55,
+                48.82,
+                28.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After a little while, another person, not just a maid but another man, accused Peter of being one of Jesus's followers. Several individuals joined in the accusation, with a general accusation beginning at the fire and continuing on the porch. Peter was questioned by both a maid and a man, and his response was straightforward: I am not. This denial came after Peter had reflected on his previous denials but still lacked the courage to resist the temptation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.600660563540131,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+            "commentatorTierSimilarities": [
+                18.57,
+                52.59,
+                28.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After a little while, another person, not just a maid but another man, accused Peter of being one of Jesus's followers. Several individuals joined in the accusation, with a general accusation beginning at the fire and continuing as Peter withdrew to the porch. There, both a maid and a man questioned him. Peter bluntly replied to their inquiries, saying, I am not. This denial came after Peter had mused upon his previous denials yet lacked the courage to withstand the temptation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.5072472748489847,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+            "commentatorTierSimilarities": [
+                19.93,
+                50.97,
+                29.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

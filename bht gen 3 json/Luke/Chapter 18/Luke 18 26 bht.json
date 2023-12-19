@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:21:18",
+    "verseRef": "Luke 18:26",
+    "bestBHT": {
+        "bht": "The disciples, upon hearing Jesus's words about the difficulty of the rich entering the kingdom of God, expressed their astonishment by asking, Who then can be saved? Their question reflected the prevailing belief that wealth was a sign of God's favor. However, it was acknowledged that while it may appear impossible for humans to attain salvation, divine power can overcome this obstacle. Hence, the disciples were left pondering who among them could possibly enter the kingdom of God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.088480771852697,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.54,
+        "commentatorTierSimilarities": [
+            25.24,
+            0.0,
+            74.76
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "26, 27. For, &amp;c.\u2014\"At",
+            "\tthat rate none can be saved\": \"Well, it does pass human",
+            "\tpower, but not divine."
+        ],
+        "Archibald T. Robertson": [
+            "Wealth was assumed to be mark of divine favour, not a hindrance to salvation.",
+            "The \u03ba\u03b1 calls attention to what has just been said.",
+            "The \u03ba\u03b1 calls attention to what has just been said."
+        ],
+        "John Gill": [
+            "And they that heard it, said, who then can be saved?] These were the disciples of Christ, who so said; see Matthew 19:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Who then can be saved? questioned the disciples upon hearing Jesus's statement about how difficult it is for the rich to enter the kingdom of God. While wealth was often seen as a sign of divine favor, this statement challenged that belief. Commentators note that while it may seem impossible for anyone to be saved by human means, it is not impossible for God. The disciples, recognizing the magnitude of Jesus's words, were left wondering who could possibly enter the kingdom of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.1063895790156448,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.13,
+            "commentatorTierSimilarities": [
+                25.92,
+                0.0,
+                74.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, upon hearing Jesus's words about the difficulty of the rich entering the kingdom of God, expressed their astonishment by asking, Who then can be saved? Their question reflected the prevailing belief that wealth was a sign of God's favor. However, the commentators explain that while it may appear impossible for humans to attain salvation, divine power can overcome this obstacle. Hence, the disciples were left pondering who among them could possibly enter the kingdom of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.0906442814115833,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.61,
+            "commentatorTierSimilarities": [
+                25.25,
+                0.0,
+                74.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon hearing Jesus's statement that it is difficult for the rich to enter the kingdom of God, the disciples were astounded and wondered, Who then can be saved? They were challenged by the notion that wealth, often seen as a symbol of divine favor, could be a hindrance to salvation. The commentators point out that while it may seem impossible for humans, it is not beyond divine power. Thus, the disciples were left contemplating who could possibly enter the kingdom of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.126737190498552,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.81,
+            "commentatorTierSimilarities": [
+                27.98,
+                0.0,
+                72.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, upon hearing Jesus's words about the difficulty of the rich entering the kingdom of God, expressed their astonishment by asking, Who then can be saved? Their question reflected the prevailing belief that wealth was a sign of God's favor. However, it was acknowledged that while it may appear impossible for humans to attain salvation, divine power can overcome this obstacle. Hence, the disciples were left pondering who among them could possibly enter the kingdom of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.088480771852697,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.54,
+            "commentatorTierSimilarities": [
+                25.24,
+                0.0,
+                74.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, upon hearing Jesus's statement about the difficulty of the rich entering the kingdom of God, questioned, Who then can be saved? This inquiry arose from the common assumption that wealth was indicative of divine favor. However, the commentators emphasized that while it may appear impossible for humans to achieve salvation, divine power makes it attainable. In light of this, the disciples were left contemplating who among them could possibly enter the kingdom of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.0593561072970639,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.57,
+            "commentatorTierSimilarities": [
+                24.4,
+                0.0,
+                75.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:27:39",
+    "verseRef": "Acts 7:41",
+    "bestBHT": {
+        "bht": "The people's worship of the golden calf was a blatant act of idolatry, forsaking the true God for their own creation. They deceived themselves into thinking that the calf represented Jehovah, when in reality it was an idol associated with Egyptian worship. This sinful act reflected their inclination to reject God and indulge in worldly pleasures. Their actions caused God to turn away from them, as they did not approach Him with sincerity. The worship of the golden calf serves as a stark reminder of the dangers of forsaking God and embracing false idols.",
+        "wordCount": 95,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.015154809264538,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.35,
+        "commentatorTierSimilarities": [
+            28.55,
+            43.2,
+            28.25
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The ox was a common symbolic form of idols in the East.",
+            "The most recent discoveries at Nineveh have brought to light colossal bulls.",
+            "Jeroboam afterwards set up golden calves at Bethel and Dan, and with the same proclamation."
+        ],
+        "Albert Barnes": [
+            "And they made a calf - This was made of the ear-rings and ornaments which they had brought from Egypt, Exodus 32:2-4.",
+            "Stephen introduces this to remind them how prone the nation had been to reject God, and to walk in the ways of sin."
+        ],
+        "Marvin Vincent": [
+            "A very notorious crime is denoted by an extraordinary and newly-coined word.",
+            "He was regarded by the Egyptians, not merely as an emblem, but as a God.",
+            "The offerings, dancing, and rejoicings practiced on the occasion, were doubtless in imitation of a ceremony they had witnessed in honor of Mnevis during their sojourn in Egypt."
+        ],
+        "John Calvin": [
+            "But because they forsook the true God, by making an idol, whatsoever followeth afterward it is judged to be given to the idol.",
+            "And surely it is wonderful madness, when men arrogate unto themselves anything in God\u2019s matters.",
+            "But if we will have God to allow our worship, we must abstain from the works of our hands, that is, from our own inventions; for all that which men invent of themselves is nothing else but sacrilegious profanation."
+        ],
+        "Philip Schaff": [
+            "The strange attachment of the people to these idols is borne witness to by such passages as 2 Kings 9:29, when kings like Jehu, famous for their enmity to idolatry, allowed these \u2018golden calves\u2019 and their sanctuaries to remain in the land.",
+            "The explanation of this attachment of the children of Israel to this calf or bull worship is, that they persuaded themselves that it was the visible image or emblem of Jehovah the God of Israel.",
+            "The worship of these golden calves of Aaron, and later, of King Jeroboam, seems an attempt to continue the worship of the God of Israel, the God of their fathers, and then to enjoy still the benefits of their almighty Protector, without at the same time giving up the unlawful pleasures sanctioned and even encouraged by a less austere religion."
+        ],
+        "Archibald T. Robertson": [
+            "Stephen calls it by the right name. The people said it was their way of worshipping Jehovah!",
+            "The heathen worship the god through the image or idol.",
+            "Imperfect, middle, kept on rejoicing."
+        ],
+        "John Gill": [
+            "This was a most shameful and scandalous piece of idolatry.",
+            "The Jews themselves are so sensible of the horribleness of it, and of the guilt of it, and of the reproach that lies on them for it.",
+            "And which rejoicing they showed by eating, and drinking, and singing, and dancing."
+        ],
+        "John Wesley": [
+            "And they made a calf...and rejoiced in the works of their hands.",
+            "God turned...and gave them up.",
+            "Have ye offered to me...and did not sacrifice to him with an upright heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people's worship of the golden calf was a blatant act of idolatry, as they abandoned the true God to make their own image. They deceived themselves into thinking that the calf represented Jehovah, but it was nothing more than a shameful and scandalous invention. This grievous sin shows the people's inclination to reject God and walk in the ways of sin. They not only worshiped the idol, but also engaged in revelry and celebrations, demonstrating their attachment to this false god. Their actions led God to turn away from them, for they did not offer sacrifices with sincere and upright hearts. It is a sobering reminder of the dangers of forsaking God and indulging in man-made idols.",
+            "wordCount": 121,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 1.9837724241523627,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+            "commentatorTierSimilarities": [
+                26.31,
+                42.74,
+                30.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people's worship of the golden calf was a blatant act of idolatry, as they abandoned the true God to make their own image. They deceived themselves into thinking that the calf represented Jehovah, but it was nothing more than a shameful and scandalous invention. This grievous sin shows the people's inclination to reject God and walk in the ways of sin. Their actions led God to turn away from them, for they did not offer sacrifices with sincere and upright hearts.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.9702733882207144,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.85,
+            "commentatorTierSimilarities": [
+                25.49,
+                44.04,
+                30.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people's worship of the golden calf was a form of idolatry, forsaking the true God for their own creation. They deceived themselves into thinking it represented Jehovah, but it was a scandalous and shameful act. This sin reflected their inclination to reject God and indulge in sinful pleasures. Their celebrations and offerings were like those practiced in Egypt, imitating the idolatrous ceremonies they witnessed there. Their actions caused God to turn away, for they did not approach Him with sincerity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.8459041173149204,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                27.99,
+                40.99,
+                31.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people's worship of the golden calf was a blatant act of idolatry, forsaking the true God for their own creation. They deceived themselves into thinking that the calf represented Jehovah, when in reality it was an idol associated with Egyptian worship. This sinful act reflected their inclination to reject God and indulge in worldly pleasures. Their actions caused God to turn away from them, as they did not approach Him with sincerity. The worship of the golden calf serves as a stark reminder of the dangers of forsaking God and embracing false idols.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.015154809264538,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.35,
+            "commentatorTierSimilarities": [
+                28.55,
+                43.2,
+                28.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people's worship of the golden calf was a blatant act of idolatry, as they abandoned the true God to make their own image. They deceived themselves into thinking that the calf represented Jehovah, but it was nothing more than a shameful and scandalous invention. This grievous sin shows the people's inclination to reject God and walk in the ways of sin. Their actions led God to turn away from them, for they did not offer sacrifices with sincere and upright hearts.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.9702733882207144,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.85,
+            "commentatorTierSimilarities": [
+                25.49,
+                44.04,
+                30.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

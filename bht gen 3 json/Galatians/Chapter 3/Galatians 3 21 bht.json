@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 14:16:16",
+    "verseRef": "Galatians 3:21",
+    "bestBHT": {
+        "bht": "The promises rest solely on God and were not mediated by anyone else. If the law had the power to give life, then righteousness would have also come through it. However, the law, as an externally prescribed rule, cannot impart spiritual life and transform the hearts of those dead in sin. Righteousness can only come through the promise to Abraham and its fulfillment in the Gospel of grace. There is no disagreement between the law and the promises; any claim of contradiction is blasphemy against God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 54.84,
+        "qualityScore": 2.3024133442734804,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.9,
+        "commentatorTierSimilarities": [
+            31.19,
+            29.55,
+            39.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The promises given rest immediately on God, and were given by no mediator.\" ",
+            "The law and the prophets...do not pretend to perform the same office.\" ",
+            "If life, the result, had been given by the law, then righteousness, the condition of life, must have been by it also."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The law, as an externally prescribed rule, can never internally impart spiritual life to men naturally dead in sin, and change the disposition.",
+            "If the law had been a law capable of giving life, 'verily (in very reality, and not in the mere fancy of legalists) righteousness would have been by the law.'",
+            "Righteousness can only come through the promise to Abraham, and through its fulfillment in the Gospel of grace."
+        ],
+        "Albert Barnes": [
+            "The object of the apostle in asking this question is, evidently, to take an opportunity to deny in the most positive manner that there can be any such clashing or contradiction.",
+            "Is the Law of Moses to be regarded as opposed to the promises made to Abraham? Does this follow from any view which can be taken of the subject? God forbid - It cannot be. It is impossible.",
+            "And such a law has been given in part in order to show that justification by the Law is out of the question. If people could not be justified by a law so pure, and equal, and just; so reasonable in all its requirements and so perfect, how could they expect to be justified by conformity to any inferior or less perfect rule of life?"
+        ],
+        "Marvin Vincent": [
+            "God forbid. This could only be true in case the law gave life, for life must come either through the promises or through the law.",
+            "If the law is against the promises, and makes them invalid, it follows that life must come through the law, and therefore righteousness, without which there is no life, would verily, just as the Judaisers claim, be through the law.",
+            "By the law. Tisch., Rev. T., Weiss, retain ejk nomou from, resulting from the law. WH. read ejn nomw in the law. The meaning is substantially the same with either reading: in the one case proceeding from, in the other residing in the law."
+        ],
+        "John Calvin": [
+            "Who will now dare to imagine a disagreement between the law and the promises?",
+            "For from him the Law and the promises have evidently proceeded: whoever then alleges any contradiction between them blasphemes against God.",
+            "The law would be opposed to the promises, if it had the power of justifying; for there would be two opposite methods of justifying a man, two separate roads towards the attainment of righteousness."
+        ],
+        "Philip Schaff": [
+            "If the law had the power to break sin and to impart righteousness and life, it would indeed be a rival of the promise and enter into conflict with it.",
+            "Make alive implies that we are spiritually dead by nature.",
+            "But Paul maintains, in opposition to the vain conceit of the self-righteous Jews and Judaizing Christians, that the law condemns all alike."
+        ],
+        "Archibald T. Robertson": [
+            "Far from it.\" - \u03bc\u03b7 \u03b3\u03b5\u03bd\u03bf\u03b9\u03c4\u03bf",
+            "Which could make alive.\" - \u03bf \u03b4\u03c5\u03bd\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2 \u03b6\u03c9\u03bf\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1",
+            "He had already said that Christ died to no purpose in that case.\" - \u03b1\u03bd \u03b7\u03bd"
+        ],
+        "John Gill": [
+            "the promises do not set aside the law as useless on all accounts, nor does the law disannul the promises, but is subservient to them",
+            "could [the law] quicken him, and enable him to do all its demands perfectly, then there would be righteousness, and so justification by it, as by the promise",
+            "the reason why there is no righteousness is, because it cannot give life, spiritual life and strength; and if so, then not eternal life; which is the free gift of God, and not the merit of men's works"
+        ],
+        "John Wesley": [
+            "But yet the law cannot give life, as the promise doth.",
+            "If there had been a law which could have given life \u2014 which could have entitled a sinner to life, God would have spared his own Son.",
+            "Righteousness, or justification, with all the blessings consequent upon it, would have been by that law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "The promises given by God rest solely on Him and were not mediated by anyone else. The law and the prophets, on the other hand, do not serve the same purpose. If the law could give life, then righteousness would have also come through it. However, the law, as an externally prescribed rule, cannot impart spiritual life and transform the hearts of those who are dead in sin. Righteousness can only come through the promise to Abraham and its fulfillment in the Gospel of grace. It is important to note that the law does not make the promises invalid, but rather, it is subservient to them. The law cannot give life and therefore cannot bring righteousness. If the law had the power to give life, there would be two opposing methods of justification. However, this is not the case, as the law condemns all alike. It is clear that there is no disagreement between the law and the promises; any claim of contradiction is blasphemy against God.",
+            "wordCount": 167,
+            "quoteTokenProportion": 53.61,
+            "qualityScore": 2.2600275221113924,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.49,
+            "commentatorTierSimilarities": [
+                30.97,
+                29.06,
+                39.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The promises rest solely on God and were not mediated by anyone else. If the law had the power to give life, then righteousness would have also come through it. However, the law, as an externally prescribed rule, cannot impart spiritual life and transform the hearts of those dead in sin. Righteousness can only come through the promise to Abraham and its fulfillment in the Gospel of grace. There is no disagreement between the law and the promises; any claim of contradiction is blasphemy against God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 2.3024133442734804,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.9,
+            "commentatorTierSimilarities": [
+                31.19,
+                29.55,
+                39.26
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

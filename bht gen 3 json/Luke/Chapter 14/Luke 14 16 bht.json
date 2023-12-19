@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:19:58",
+    "verseRef": "Luke 14:16",
+    "bestBHT": {
+        "bht": "The great supper represents the Kingdom of God and the feast mentioned in Isaiah. The first bidden guests are the Pharisees, Scribes, and learned Jews. By rejecting the invitation, they insult the host. Jesus uses this parable to challenge the misconception that external religiosity guarantees godliness. This parable reflects the offer of salvation and Gospel privileges extended to all, but not all are aware or willing to participate. Refusing the invitation is a missed opportunity for many to partake in the great supper.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.77362603339965,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+        "commentatorTierSimilarities": [
+            29.26,
+            47.26,
+            23.48
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The great supper is the Kingdom of God, the feast of fat things in Isa. xxv. 6; completed in the marriage-supper of the Lamb.",
+            "These first bidden are the Pharisees and Scribes and the learned among the Jews.",
+            "Fully prepared when the glad tidings of the Gospel were proclaimed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. a great supper\u2014(Compare",
+            "\tIsaiah 25:6). ",
+            "\t",
+            "bade many\u2014historically,",
+            "\tthe Jews (see on Isaiah 25:6- :);",
+            "\tgenerally, those within the pale of professed discipleship."
+        ],
+        "Albert Barnes": [
+            "The man who made the supper is, without doubt, designed to represent God.",
+            "The supper, the provisions which he has made for the salvation of people.",
+            "The invitation, the offers which he made to people, particularly to the Jews, of salvation."
+        ],
+        "Marvin Vincent": [
+            "Made [\u03b5\u03c0\u03bf\u03b9\u03b5\u03b9] . Imperfect, was making. His preparations were in progress.",
+            "If a sheikh, bey, or emeer invites, he always sends a servant to call you at the proper time. This servant often repeats the very formula mentioned in Luke 14:17 : Come, for the supper is ready.",
+            "It is true now, as then, that to refuse is a high insult to the maker of the feast."
+        ],
+        "Philip Schaff": [
+            "A certain man. Here representing God, since the parable conveys a lesson about eating bread 'in the kingdom of God' (Luke 14:15).",
+            "A great supper. The figure suggested by the last remark is taken up. God prepares 'a feast of fat things' (Isaiah 25:6), which is to culminate in the marriage supper of the Lamb. The immediate reference is to gospel privileges.",
+            "And bade many. The 'many' represent the Jewish nation, but especially the Pharisees and the rulers (see Luke 14:21). The first invitation was given through the ancient prophets, the feast being still in the future."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus takes up the conventional remark of the guest and by this parable shows that such an attitude was no guarantee of godliness.",
+            "This parable of the marriage of the King's son has many points of likeness to the parable of the wedding garment and as many differences also.",
+            "And he bade many. A distinct and definite act following the imperfect \u03b5\u03c0\u03bf\u03b9\u03b5."
+        ],
+        "John Gill": [
+            "the Gospel dispensation, which was now taking place, and the provisions of it in the word and ordinances: and which is called a 'supper'; because made in the end of the world, in the last days.",
+            "a feast of fat things, an entertainment consisting of the greatest dainties, and most delightful food; and on account of the number of the guests invited, all people, every creature, to whom the outward ministration of the Gospel comes; and those who are properly guests",
+            "a foundation was laid for this supper in eternity, in the purposes, counsel, and covenant of God; and many prophecies concerning it were given out from the beginning; and sacrifices and ordinances were instituted, as emblematical of it, and to lead on to it, and give notice of it."
+        ],
+        "John Wesley": [
+            "Continuing the allusion.",
+            "All men are not sensible of this happiness.",
+            "Many might have a part in it, and will not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The great supper in Luke 14:16 represents the Kingdom of God and the feast of fat things mentioned in Isaiah 25:6. The first bidden are the Pharisees, Scribes, and the learned among the Jews, who were invited to partake in the fullness of God's preparations in the proclamation of the Gospel. By refusing the invitation, they insulted the maker of the feast. Jesus used this parable to challenge the notion that external religiosity was a guarantee of godliness. This parable has similarities to the parable of the wedding garment, with a distinct act of inviting many following the ongoing preparations. This parable reflects the offer of salvation and the Gospel privileges extended to all people, yet not all are aware of or willing to participate in this great supper.",
+            "wordCount": 128,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.935641806518816,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                28.23,
+                47.5,
+                24.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The great supper in this passage signifies the Kingdom of God, the feast of fat things, and the marriage-supper of the Lamb. The first bidden guests represent the Pharisees, Scribes, and the learned among the Jews. When they refused the invitation, they insulted the host. This parable challenges the idea that external religiosity ensures godliness. It reflects the offer of salvation and Gospel privileges extended to all, although not all are aware of or willing to partake in this great supper. The refusal of the invitation is a missed opportunity for many.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.757137729968567,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.77,
+            "commentatorTierSimilarities": [
+                28.36,
+                48.32,
+                23.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The great supper represents the Kingdom of God and the feast mentioned in Isaiah. The first bidden guests are the Pharisees, Scribes, and learned Jews. By rejecting the invitation, they insult the host. Jesus uses this parable to challenge the misconception that external religiosity guarantees godliness. This parable reflects the offer of salvation and Gospel privileges extended to all, but not all are aware or willing to participate. Refusing the invitation is a missed opportunity for many to partake in the great supper.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.77362603339965,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+            "commentatorTierSimilarities": [
+                29.26,
+                47.26,
+                23.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The great supper mentioned in this verse symbolizes the Kingdom of God and the feast described in Isaiah. The initial guests represent the Pharisees, Scribes, and learned Jews, who insulted the host by refusing the invitation. Jesus used this parable to challenge the notion that outward religiosity ensures godliness. It underscores the offer of salvation and Gospel privileges open to all, although not all recognize or accept the opportunity. The refusal to attend is a missed chance for many to partake in this significant banquet.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.7923622023459698,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+            "commentatorTierSimilarities": [
+                26.95,
+                47.27,
+                25.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The great supper mentioned entails the Kingdom of God and the feast from Isaiah. The first invited guests encompass the Pharisees, Scribes, and learned Jews. By declining the invitation, they insult the host. Jesus utilizes this parable to challenge the misconception that external religiosity guarantees godliness. It reflects the offer of salvation and Gospel privileges available to all, though not everyone acknowledges or embraces them. Rejecting the invitation means forfeiting the opportunity to partake in the grand feast.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7620690769311047,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                28.63,
+                47.78,
+                23.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

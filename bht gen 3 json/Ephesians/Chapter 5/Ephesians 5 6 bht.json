@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:32:59",
+    "verseRef": "Ephesians 5:6",
+    "bestBHT": {
+        "bht": "Beware of being deceived by empty words that lack truth and aim to excuse sins like uncleanness, covetousness, and jesting. The wrath of God is already present against these sins, and those who engage in them are considered disobedient and deserving of punishment. Covetousness, even though often disregarded, is strongly condemned. Do not be swayed by persuasive arguments that deny the consequences of these sins, as they lead to the visitation of God's wrath.",
+        "wordCount": 75,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 2.136560666889267,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.38,
+        "commentatorTierSimilarities": [
+            24.11,
+            38.32,
+            37.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let no one deceive you with empty sayings... words with no underlying facts.\" ",
+            "The caution was especially needed, at a time when moral purity was so generally regarded as a thing indifferent.",
+            "His special wrath, His vengeance for these sins, over and above their state of disobedience, on the sons of disobedience."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "vain\u2014empty, unreal words, namely, palliations of 'uncleanness,' 'covetousness,' and 'jesting.'",
+            "cometh\u2014present, not merely 'shall come.' Is as sure as if already come.",
+            "The children of unbelief in doctrine are 'children of disobedience' in practice, and these again are 'children of wrath.'"
+        ],
+        "Albert Barnes": [
+            "Let no one by artful pleas persuade you that there will be no danger from practicing these vices.",
+            "It required, therefore, all the authority of an apostle to convince them, that however plausible were the arguments in defense of them, they certainly exposed those who practiced them to the wrath of God.",
+            "For because of these things cometh the wrath of God."
+        ],
+        "Marvin Vincent": [
+            "Vain. Plausible, but devoid of truth, and employed to palliate heathen vices."
+        ],
+        "John Calvin": [
+            "Let no man deceive you...In all ages, indeed, Satan raises up sorcerers of this description, who endeavor by unholy scoffs to escape the Divine judgment.\" ",
+            "Paul...exclaims that we must guard against that sophistry by which consciences are ensnared to their ruin.",
+            "God does not make himself an object of terror to his children, that they may avoid him, but does all that can be done in a fatherly manner, to draw them to himself."
+        ],
+        "Philip Schaff": [
+            "Let no man deceive you with empty words; words that do not contain truth.\" ",
+            "Covetousness especially is scarcely accounted a sin, even among Christians; yet the Apostle condemns it more strongly than the other vice which the heathen then tolerated.",
+            "To be deceived by empty words about these sins leads to this visitation of God\u2019s wrath."
+        ],
+        "Archibald T. Robertson": [
+            "With empty words (\u03ba\u03b5\u03bd\u03bf\u03b9\u03c2 \u03bb\u03bf\u03b3\u03bf\u03b9\u03c2). Instrumental case. Probably Paul has in mind the same Gnostic praters as in Colossians 2:4. See Ephesians 2:2. "
+        ],
+        "John Gill": [
+            "Let no man deceive you with vain words,.... With vain philosophy, vain babblings, with foolish and filthy talking; suggesting that these were not sinful the apostle had condemned; or that they were small sins, the frailties of human life; and that God would take no notice of them, and they might continue in them with impunity.\" ",
+            "The wrath of God cometh upon the children of disobedience; in temporal judgments, and in eternal ruin; there have been instances of it; it is usually the case, and always if grace prevents not; this wrath comes down from above, and sometimes suddenly, with great force and power, like a mighty flood; and there is no standing up under it, and against it.",
+            "The consideration of their not being appointed to this wrath, though deserving of it as others, and of their deliverance from it by Christ, should engage them the more to abstain from these sins."
+        ],
+        "John Wesley": [
+            "Because of these things \u2014 As innocent as the heathens esteem them, and as those dealers in vain words would persuade you to think them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not be deceived by empty and unreal words that try to justify and downplay sins such as uncleanness, covetousness, and jesting. These words may seem plausible, but they lack truth and only serve as excuses to tolerate immoral behavior. The wrath of God is already present against these sins, and those who practice them are considered disobedient and deserving of punishment. Covetousness, in particular, is condemned strongly by the Apostle, even though it may be viewed as a small sin. We must not let ourselves be swayed by persuasive arguments that deny the consequences of these sins, as it leads to the visitation of God's wrath.",
+            "wordCount": 108,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.1582149548409824,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.1,
+            "commentatorTierSimilarities": [
+                24.95,
+                37.39,
+                37.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let no one deceive you with empty sayings that lack underlying facts. In a time when moral purity was disregarded, it was necessary to caution against the complacency towards sins like uncleanness, covetousness, and jesting. The wrath of God is certain and already present against these sins. Those who engage in them are the children of disobedience and will face His vengeance. Covetousness, in particular, is often overlooked as a sin, but it is strongly condemned. Beware of deceitful arguments that seek to downplay these sins and their consequences, for they lead to the visitation of God's wrath.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.0257182917681558,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                26.1,
+                37.47,
+                36.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of being deceived by empty words that lack truth and aim to excuse sins like uncleanness, covetousness, and jesting. These sins were often seen as indifferent and were defended by plausible arguments. However, the wrath of God is already present against them, and those who practice them are considered disobedient and deserving punishment. Covetousness, even though often disregarded, is condemned strongly. Do not be swayed by persuasive arguments that deny the consequences of these sins, as they lead to the visitation of God's wrath.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.052685741569273,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                25.09,
+                37.36,
+                37.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not be deceived by empty words that lack truth and seek to excuse sins such as uncleanness, covetousness, and jesting. Although these sins may be viewed as indifferent and plausible arguments may be made in their defense, the wrath of God is already present against them. Those who engage in these sins are considered disobedient and deserving of punishment. Covetousness, in particular, is strongly condemned. Beware of deceptive arguments that downplay these sins, as they lead to the visitation of God's wrath.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.091042263821583,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.87,
+            "commentatorTierSimilarities": [
+                25.56,
+                37.59,
+                36.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of being deceived by empty words that lack truth and aim to excuse sins like uncleanness, covetousness, and jesting. The wrath of God is already present against these sins, and those who engage in them are considered disobedient and deserving of punishment. Covetousness, even though often disregarded, is strongly condemned. Do not be swayed by persuasive arguments that deny the consequences of these sins, as they lead to the visitation of God's wrath.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.136560666889267,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.38,
+            "commentatorTierSimilarities": [
+                24.11,
+                38.32,
+                37.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

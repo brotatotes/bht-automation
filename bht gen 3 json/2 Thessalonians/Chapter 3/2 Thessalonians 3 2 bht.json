@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:38:32",
+    "verseRef": "2 Thessalonians 3:2",
+    "bestBHT": {
+        "bht": "The presence of those who are unreasonable and wicked hinders the spread of the Gospel. These individuals, described as perverse and out of place, do not possess faith, even among self-proclaimed Christians. Their distorted views and improper zeal obstruct the work of spreading the Gospel, necessitating deliverance from them. The Thessalonians, who readily embraced the Gospel, should not assume universal acceptance. Not all have faith, and these unreasonable and wicked men present challenges to upholding and propagating the true faith.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.9801106572227063,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+        "commentatorTierSimilarities": [
+            22.62,
+            36.66,
+            40.72
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word rendered perverse is properly used of that which is not in its right place.",
+            "When of persons, it designates one who does or says that which is inappropriate under the circumstances.",
+            "Who are these men? It is obvious that the key to the answer will be found in Acts xviii."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Men out of place, inept, unseemly: out of the way bad: more than ordinarily bad.",
+            "An undesigned coincidence with . . . On the unreasonable, out-of-the way perversity of the Jews, as known to the Thessalonians.",
+            "The only antidote to what is 'unreasonable and wicked.' The Thessalonians, from their ready acceptance of the Gospel, might think 'all' would similarly receive it."
+        ],
+        "Albert Barnes": [
+            "They had a distorted vision of the value of objects, and in tenacious adherence to their own views, and prosecuting their own objects to the exclusion of all others, they presented a constant obstruction to the true gospel.",
+            "People often have a hobby. They give more importance to some object than it deserves. They, therefore, undervalue other objects; press their own with improper zeal; denounce others who do not feel the same interest in them which they do; withdraw from those who will not go with them in their views; form separate parties, and thus throw themselves in the way of all who are endeavoring to do good in some other method.",
+            "The state of mind in which the apostle was when he wrote this, seems to have been this: He recollected the readiness with which the Thessalonians had embraced the gospel, and the firmness with which they held it, and seems to suppose that they would imagine the same thing must be found true everywhere. But he says all people have not the same faith; all were not prepared cordially and fully to embrace the gospel. There were unreasonable and wicked people whom he had encountered, from whom he prayed that he might be delivered."
+        ],
+        "Marvin Vincent": [
+            "Unreasonable. The word originally means out of place.\" ",
+            "In LXX in a moral sense, iniquitous.\" ",
+            "All men have not faith."
+        ],
+        "John Calvin": [
+            "Faith is a gift of God that is too rare to be found in all.",
+            "All that make a profession of faith are not such in reality.",
+            "All men have not faith. [...] among those who boast of the name of Christians there are many that are treacherous."
+        ],
+        "Philip Schaff": [
+            "To find here [as Jowett does] a mere shrinking of the flesh on the part of the apostle from the dangers that awaited him, is to assign to the apostle a character that never belonged to him.",
+            "We need not scruple to ascribe to the apostle so much apprehension of danger as would prompt him to ask the Thessalonians to pray for his deliverance.",
+            "Wherever the Gospel is preached, it meets with such opposition as Paul speaks of, for not all accept it. It always sifts a community, and marks off a remnant, large or small, who do not believe, the perverse and wicked men."
+        ],
+        "Archibald T. Robertson": [
+            "Originally in the old Greek \u03b1\u03c4\u03bf\u03c0\u03bf\u03c2 (\u03b1 privative and \u03c4\u03bf\u03c0\u03bf\u03c2) is out of place, odd, unbecoming, perverse, outrageous, both of things and persons.\" ",
+            "\u03a0\u03bf\u03bd\u03b7\u03c1\u03bf\u03c2 is from \u03c0\u03bf\u03bd\u03b5\u03c9, to work (\u03c0\u03bf\u03bd\u03bf\u03c2), looking on labour as an annoyance, bad, evil.",
+            "\u03c0\u03b1\u03bd\u03c4\u03c9\u03bd is predicate possessive genitive, faith (article with abstract substantive) does not belong to all. Hence their evil conduct."
+        ],
+        "John Gill": [
+            "And that we may be delivered from unreasonable and wicked men... the false brethren by whom he often was in perils; who were enemies of the cross of Christ, and great hindrances to the spread of the Gospel; being men of absurd principles, and of wicked lives and conversations, whereby they perverted the Gospel of Christ, brought a reproach upon it, stumbled some, and overthrew the faith of others\" ",
+            "for all men have not faith: no man has faith of himself, it is the gift of God, and the operation of his Spirit; and it is only given to the elect of God, who are ordained unto eternal life",
+            "all that are professors of religion, and members of churches, and even all that are preachers of the word, have not faith. They may have an historical and temporary faith and the faith of miracles, and even all faith but the true faith"
+        ],
+        "John Wesley": [
+            "All men have not faith \u2014 And all men who have not are more or less unreasonable and wicked men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks about the need for protection from those who are unreasonable and wicked. These individuals are described as being out of place, inappropriate, and perverse. They go against the teachings of the Gospel and cause hindrances to the spread of the true faith. While the Thessalonians may have assumed that everyone would accept the Gospel as readily as they did, they are reminded that all men have not faith. Not everyone possesses the gift of faith, and even among those who claim to be followers of Christ, there are individuals who are treacherous and do not truly embrace the Gospel. These individuals distort the value of objects, press their own views with improper zeal, and hinder the work of spreading the Gospel. Thus, the need arises for deliverance from these unreasonable and wicked men who oppose the true faith.",
+            "wordCount": 141,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.918123392919918,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.12,
+            "commentatorTierSimilarities": [
+                22.12,
+                36.18,
+                41.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The presence of those who are unreasonable and wicked poses a challenge to the spread of the Gospel. These individuals, described as perverse and out of place, hinder the acceptance of the true faith. While the Thessalonians may have anticipated universal acceptance of the Gospel, there are those who do not possess faith, even among self-proclaimed Christians. Such individuals distort the true value of objects, zealously promote their own views, and obstruct the work of spreading the Gospel. Deliverance from these opponents is necessary to uphold and propagate the true faith.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8472061761124698,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                20.9,
+                39.43,
+                39.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The presence of those who are unreasonable and wicked poses a challenge to the spread of the Gospel. These individuals, described as perverse and out of place, hinder the acceptance of the true faith. While the Thessalonians may have anticipated universal acceptance of the Gospel, there are those who do not possess faith, even among self-proclaimed Christians. Such individuals distort the true value of objects, zealously promote their own views, and obstruct the work of spreading the Gospel. Deliverance from these opponents is necessary to uphold and propagate the true faith.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8472061761124698,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                20.9,
+                39.43,
+                39.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The presence of those who are unreasonable and wicked hinders the spread of the Gospel. These individuals, described as perverse and out of place, do not possess faith, even among self-proclaimed Christians. Their distorted views and improper zeal obstruct the work of spreading the Gospel, necessitating deliverance from them. The Thessalonians, who readily embraced the Gospel, should not assume universal acceptance. Not all have faith, and these unreasonable and wicked men present challenges to upholding and propagating the true faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9801106572227063,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                22.62,
+                36.66,
+                40.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The presence of unreasonable and wicked individuals challenges the spread of the Gospel. These perverse and out-of-place individuals hinder acceptance of the true faith, impacting both believers and non-believers. Recognition that not everyone possesses faith is necessary, as even self-proclaimed Christians may lack genuine belief. These individuals distort values, promote their views with improper zeal, and obstruct the Gospel. Deliverance is sought from these opponents to preserve and spread the true faith, as their presence poses a threat to its advancement.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.781666803665344,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.58,
+            "commentatorTierSimilarities": [
+                19.54,
+                39.27,
+                41.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

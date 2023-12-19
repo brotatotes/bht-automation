@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:20:49",
+    "verseRef": "Luke 17:1",
+    "bestBHT": {
+        "bht": "The disciples were warned that it is inadmissible for offenses to happen, emphasizing the seriousness of causing others to stumble. This was important because the Pharisees had already derided Jesus and their behavior could negatively influence new disciples. It is inevitable that offenses will come, considering the malice of Satan and the wickedness of men, but woe to those through whom they come.",
+        "wordCount": 63,
+        "quoteTokenProportion": 47.92,
+        "qualityScore": 1.768277210575397,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+        "commentatorTierSimilarities": [
+            13.93,
+            46.9,
+            39.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words were perhaps spoken owing to some offence which had happened."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1, 2. (See Matthew 18:6;",
+            "\tMatthew 18:7)."
+        ],
+        "Marvin Vincent": [
+            "Impossible [\u03b1\u03bd\u03b5\u03bd\u03b4\u03b5\u03ba\u03c4\u03bf\u03bd] . Inadmissable. Only here in New Testament. See on it cannot be, ch. 13 33. ",
+            "Offenses. See on offend, Matthew 5:29; and compare on Matthew 16:23."
+        ],
+        "Philip Schaff": [
+            "To his disciples. All the followers of our Lord who were present; since Luke 17:5 mentions \u2018the Apostles.\u2019",
+            "It is impossible, etc. See on Matthew 18:6-7. The connection is plain: the Pharisees had already derided Him (Luke 16:14), and, having taken greater offence at the last parable, had probably gone off.",
+            "The design was to counteract the influence which this behavior might have upon the new disciples (\u2018the publicans and sinners\u2019), who had been accustomed to look up to the Pharisees."
+        ],
+        "Archibald T. Robertson": [
+            "It is impossible (\u03b1\u03bd\u03b5\u03bd\u03b4\u03b5\u03ba\u03c4\u03bf\u03bd \u03b5\u03c3\u03c4\u03b9\u03bd). The meaning is inadmissible, unallowable.",
+            "This genitive articular infinitive is not easy to explain.",
+            "For \u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03bf\u03bd (a trap) see on Matthew 5:29; Matthew 16:23. It is here only in Luke."
+        ],
+        "John Gill": [
+            "It is impossible but that offences will come; considering the decree of God, the malice of Satan, the wickedness of men, the corruption both of their principles and practices.",
+            "Temptation will come; that which will be trying to the faith of the saints, and a stumblingblock to weak minds, as reproach and persecution, errors, and heresies, and the evil lives of professors.",
+            "Woe [unto him] through whom they come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words of Luke 17:1 were likely spoken in response to some offense that had occurred. The disciples were warned that it is inadmissible and unallowable for such offenses to happen, emphasizing the seriousness of causing others to stumble. This was important because the Pharisees had already derided Jesus and their behavior could negatively influence new disciples, particularly those who had previously looked up to the Pharisees. It is inevitable that offenses will come, considering the malice of Satan and the wickedness of men, but woe to those through whom they come.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7518704149334645,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+            "commentatorTierSimilarities": [
+                17.71,
+                49.11,
+                33.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were warned that it is inadmissible for offenses to happen, emphasizing the seriousness of causing others to stumble. This was important because the Pharisees had already derided Jesus and their behavior could negatively influence new disciples. It is inevitable that offenses will come, considering the malice of Satan and the wickedness of men, but woe to those through whom they come.",
+            "wordCount": 63,
+            "quoteTokenProportion": 47.92,
+            "qualityScore": 1.768277210575397,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                13.93,
+                46.9,
+                39.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were warned that it is inadmissible and unallowable for offenses to happen, emphasizing the seriousness of causing others to stumble. This was important because the Pharisees had already derided Jesus and their behavior could negatively influence new disciples, particularly those who had previously looked up to the Pharisees. It is inevitable that offenses will come, considering the malice of Satan and the wickedness of men, but woe to those through whom they come.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.7588477306655015,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                12.32,
+                47.25,
+                40.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were warned that it is inadmissible and unallowable for offenses to happen, emphasizing the seriousness of causing others to stumble. This was important because the Pharisees had already derided Jesus and their behavior could negatively influence new disciples, particularly those who had previously looked up to them. It is inevitable that offenses will come, considering the malice of Satan and the wickedness of men, but woe to those through whom they come.",
+            "wordCount": 74,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.733823850371564,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.99,
+            "commentatorTierSimilarities": [
+                12.43,
+                46.8,
+                40.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were warned that it is inadmissible and unallowable for offenses to happen. The severity of causing others to stumble cannot be overlooked. This was important because the Pharisees had already derided Jesus and their conduct could negatively impact new disciples, especially those who esteemed the Pharisees. It is certain that offenses will occur due to the wickedness of men and the influence of Satan. However, those who are responsible for causing offenses will face woe.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.5657878321992884,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.4,
+            "commentatorTierSimilarities": [
+                19.56,
+                39.61,
+                40.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

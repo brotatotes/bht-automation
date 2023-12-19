@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:15:45",
+    "verseRef": "Luke 6:13",
+    "bestBHT": {
+        "bht": "Jesus handpicked Twelve individuals from a larger group of disciples, showing that the selection was carefully made. Even Judas, who would later betray him, was chosen intentionally and not forced upon Jesus. The Twelve had a unique role as personal witnesses to Jesus' life and resurrection, making their position one that couldn't be passed on to successors. While the sending forth of the apostles happened after some training, this moment of choosing marked a notable turning point in the work of Christ.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.9763834294319236,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+        "commentatorTierSimilarities": [
+            33.26,
+            38.12,
+            28.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He summoned to Him a certain larger number, out of whom He selected Twelve.",
+            "We are not to suppose that this selection was now first made out of a miscellaneous number.",
+            "He named not at a previous, or subsequent period; but at this time."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "13-16. (See on :-.)"
+        ],
+        "Marvin Vincent": [
+            "Chose [\u03b5\u03ba\u03bb\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2] . Mark has ejpoihsen, he made or constituted. He named apostles. Peculiar to Luke."
+        ],
+        "John Calvin": [
+            "Whom also he named Apostles.",
+            "He intended to make them his companions, that they might afterwards receive a higher rank.",
+            "He does not mean that both were to take place at the same time."
+        ],
+        "Philip Schaff": [
+            "His disciples. In the wider sense; from this larger company the Twelve were chosen.",
+            "Apostles. The name was probably given at this time.",
+            "He intended to send them forth, although the actual sending forth did not take place until after some training."
+        ],
+        "Archibald T. Robertson": [
+            "There was a large group of 'disciples' or 'learners' whom he 'called' to him, and from among whom he chose... It was a crisis in the work of Christ.\" ",
+            "Jesus assumed full responsibility even for the choice of Judas who was not forced upon Jesus by the rest of the Twelve.",
+            "In the nature of the case they could have no successors as they had to be personal witnesses to the life and resurrection of Jesus."
+        ],
+        "John Gill": [
+            "having spent the whole night in prayer to God, no doubt for his disciples, whom he was about to send forth as his apostles, to preach his Gospel, and work miracles, and for their success therein"
+        ],
+        "John Wesley": [
+            "Matthew 10:2; Mark 3:14; Acts 1:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus called together a large group of disciples, from whom he carefully selected Twelve individuals to be his apostles. This moment of choosing the Twelve was not a random or hasty decision; it was a deliberate selection made by Jesus himself. Even the selection of Judas, who would later betray him, was not a mistake forced upon Jesus by others. The Twelve had a unique role as personal witnesses to Jesus' life and resurrection, making their position one that could not be passed on to successors. Jesus intended to train and send them out, and although the sending forth itself would happen later, this moment marked a crucial turning point in the work of Christ.",
+            "wordCount": 115,
+            "quoteTokenProportion": 46.91,
+            "qualityScore": 1.9760478236860677,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.04,
+            "commentatorTierSimilarities": [
+                34.19,
+                36.71,
+                29.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus carefully chose Twelve individuals from among a larger group of disciples. This selection was not random or forced upon him, but a deliberate decision made by Jesus himself. Even Judas, who later betrayed him, was chosen intentionally. The Twelve held a unique role as personal witnesses to Jesus' life and resurrection, making their position irreplaceable. Although the sending forth of the apostles would occur later, this moment marked a significant turning point in the work of Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8727287729228623,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                33.51,
+                38.05,
+                28.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus summoned a larger group of disciples and from among them, he carefully chose Twelve individuals. The selection was not haphazard, but a deliberate decision made by Jesus himself. He assumed full responsibility for choosing even Judas, and the Twelve had a unique role as personal witnesses to his life and resurrection. They couldn't be replaced or have successors because their task was to be firsthand witnesses. This moment marked a significant turning point in the work of Christ as he prepared to train and send them out.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.8426685893933552,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                33.99,
+                35.37,
+                30.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus handpicked Twelve individuals from a larger group of disciples, showing that the selection was carefully made. Even Judas, who would later betray him, was chosen intentionally and not forced upon Jesus. The Twelve had a unique role as personal witnesses to Jesus' life and resurrection, making their position one that couldn't be passed on to successors. While the sending forth of the apostles happened after some training, this moment of choosing marked a notable turning point in the work of Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.9763834294319236,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+            "commentatorTierSimilarities": [
+                33.26,
+                38.12,
+                28.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus selected Twelve individuals from a larger group of disciples, indicating a deliberate and careful choice. This selection was not arbitrary, as Jesus fully assumed responsibility, even for choosing someone like Judas. The Twelve had a unique role as personal witnesses to Jesus' life and resurrection, making them irreplaceable. They were not meant to have successors since their task was to testify firsthand about Jesus. This pivotal moment marked a turning point in Christ's work as he prepared to train and send out his chosen apostles.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.9278028087145125,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                33.98,
+                36.85,
+                29.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

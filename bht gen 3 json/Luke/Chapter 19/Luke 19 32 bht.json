@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:21:39",
+    "verseRef": "Luke 19:32",
+    "bestBHT": {
+        "bht": "Jesus sends two of his disciples to Bethphage, meaning house of figs, a village located on the other side of Mount Olivet, east of Jerusalem. As Jesus had instructed them, the disciples go and find the colt just as he had said.",
+        "wordCount": 42,
+        "quoteTokenProportion": 48.48,
+        "qualityScore": 1.4605679585226417,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+        "commentatorTierSimilarities": [
+            41.44,
+            0.0,
+            58.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "29-38. Bethphage\u2014\"house",
+            "\tof figs,\" a village which with Bethany lay along the further",
+            "\tside of Mount Olivet, east of Jerusalem."
+        ],
+        "Archibald T. Robertson": [
+            "As he had said unto them (\u03ba\u03b1\u03b8\u03c9\u03c2 \u03b5\u03b9\u03c0\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2). Luke alone notes this item. "
+        ],
+        "John Gill": [
+            "The two disciples that were sent by Christ, were obedient to him, and went, as he directed them, and did as he ordered them.",
+            "The Vulgate Latin and Ethiopic versions, and so some copies, add, 'the colt standing'; that is, in the place, and manner which he had described to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus sends two of his disciples to a village called Bethphage to find a colt. This village, which means house of figs, is located on the eastern side of Mount Olivet, east of Jerusalem. The disciples follow Jesus' instructions and find the colt just as he had told them.",
+            "wordCount": 49,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.2573565940577116,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.15,
+            "commentatorTierSimilarities": [
+                37.46,
+                0.0,
+                62.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus sends two of his disciples to Bethphage, meaning house of figs, a village located on the other side of Mount Olivet, east of Jerusalem. As Jesus had instructed them, the disciples go and find the colt just as he had said.",
+            "wordCount": 42,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.4605679585226417,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+            "commentatorTierSimilarities": [
+                41.44,
+                0.0,
+                58.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus sends two of his disciples to Bethphage, which means house of figs, a village situated on the further side of Mount Olivet, east of Jerusalem. They go and find the colt just as Jesus had said. This detail is only mentioned by Luke.",
+            "wordCount": 44,
+            "quoteTokenProportion": 51.28,
+            "qualityScore": 1.383852544078768,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.36,
+            "commentatorTierSimilarities": [
+                55.48,
+                0.0,
+                44.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus sends two of his disciples to Bethphage, a village that lies on the other side of Mount Olivet, east of Jerusalem. They obediently go and find the colt, just as Jesus had instructed them. This additional detail is mentioned only by Luke.",
+            "wordCount": 43,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.3525154138270021,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.31,
+            "commentatorTierSimilarities": [
+                51.85,
+                0.0,
+                48.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus sends two disciples to Bethphage, a village east of Jerusalem, known as the house of figs, to find a colt. The disciples follow Jesus' instructions, going to the village and finding the colt exactly as Jesus had said. This detail is mentioned only by Luke.",
+            "wordCount": 46,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4513699107689082,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                48.89,
+                0.0,
+                51.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

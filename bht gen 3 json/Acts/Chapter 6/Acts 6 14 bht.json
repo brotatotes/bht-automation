@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:26:58",
+    "verseRef": "Acts 6:14",
+    "bestBHT": {
+        "bht": "Contemptuously labeling Jesus of Nazareth, they falsely accused him of teaching that God could be worshipped anywhere, undermining the necessity of the temple in Jerusalem. This inflammatory accusation was easily distorted and challenging to refute. Nevertheless, it is crucial to defend the truth from such falsehoods. The accusers also alleged that Jesus would demolish the temple and alter the customs instituted by Moses. While sacrifices would cease, Jesus emphasized the enduring importance of the sacrifice of thanksgiving. False accusations against the truth lack validity.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.3560171543800013,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.43,
+        "commentatorTierSimilarities": [
+            49.05,
+            18.03,
+            32.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Shall change - Shall abolish them, or shall introduce others in their place.",
+            "The customs - The ceremonial rites and observances of sacrifices, festivals, etc., appointed by Moses."
+        ],
+        "Marvin Vincent": [
+            "This Jesus of Nazareth. Contemptuous. "
+        ],
+        "John Calvin": [
+            "The doctrine of the gospel can never be handled so warily and moderately, but that it shall be subject to false accusations.",
+            "It is our part and duty to dash and put away those lies wherewith the truth of God is burdened.",
+            "We must not therefore cease off to defend a good cause. For the truth of God is precious in his sight, and it ought also to be precious unto us."
+        ],
+        "Archibald T. Robertson": [
+            "He had caught the spirit of Jesus about worship as shown to the woman at Sychar in Acts 6:4 that God is spirit and to be worshipped by men anywhere and everywhere without having to come to the temple in Jerusalem.\" ",
+            "It was inflammable material surely and it was easy to misrepresent and hard to clear up.",
+            "This Jesus of Nazareth (\u0399\u03b7\u03c3\u03bf\u03c5\u03c2 \u03bf \u039d\u03b1\u03b6\u03c9\u03c1\u03b1\u03b9\u03bf\u03c2 \u03bf\u03c5\u03c4\u03bf\u03c2). With contempt."
+        ],
+        "John Gill": [
+            "Shall destroy this place; meaning the temple, as the Ethiopic version renders it; and is the same charge, the false witnesses at Christ's examination brought against him.",
+            "And shall change the customs which Moses delivered us; that is, the rites, ceremonies, institutions, and appointments of the Mosaic dispensation.",
+            "In time to come, all sacrifices shall cease, but the sacrifice of thanksgiving."
+        ],
+        "John Wesley": [
+            "We have heard him say \u2014 So they might. But yet the consequence they drew would not follow."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They contemptuously accused Jesus of Nazareth of teaching that God could be worshiped anywhere and everywhere, rather than solely in the temple in Jerusalem. This was easily misrepresented and difficult to clear up, as the doctrine of the gospel often attracts false accusations. However, it is our duty to defend the truth of God and expose the lies burdening it. The accusers also claimed that Jesus would destroy the temple and change the customs established by Moses, referring to the ceremonial rites and observances. While it is true that in time the sacrifices would cease, Jesus emphasized the enduring significance of the sacrifice of thanksgiving. It is important to remember that false accusations against the truth of God do not necessarily hold up.",
+            "wordCount": 123,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.4742318569929962,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.36,
+            "commentatorTierSimilarities": [
+                39.99,
+                22.77,
+                37.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Accusing Jesus of Nazareth, they contemptuously claimed he taught that God could be worshiped anywhere, not just in the temple. This misrepresentation sparked tensions, making it difficult to clarify. Yet, in defending the truth, we must confront false accusations burdening the gospel. The accusers also alleged Jesus would destroy the temple and change the customs established by Moses. While sacrifices would cease, Jesus emphasized the value of the sacrifice of thanksgiving. False accusations against the truth do not always hold up.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.3457627392599303,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.09,
+            "commentatorTierSimilarities": [
+                46.09,
+                18.79,
+                35.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Contemptuously accusing Jesus of Nazareth, they falsely claimed that he taught God can be worshiped anywhere, not just in the temple in Jerusalem. These accusations were easily misrepresented and difficult to clarify. However, it is our duty to defend the truth of God against such lies. The accusers also alleged that Jesus would destroy the temple and change the customs established by Moses. While sacrifices would indeed cease, Jesus emphasized the enduring significance of the sacrifice of thanksgiving. False accusations against the truth do not always hold up.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.2856750572352085,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.09,
+            "commentatorTierSimilarities": [
+                45.12,
+                17.2,
+                37.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Contemptuously labeling Jesus of Nazareth, they falsely accused him of teaching that God could be worshipped anywhere, undermining the necessity of the temple in Jerusalem. This inflammatory accusation was easily distorted and challenging to refute. Nevertheless, it is crucial to defend the truth from such falsehoods. The accusers also alleged that Jesus would demolish the temple and alter the customs instituted by Moses. While sacrifices would cease, Jesus emphasized the enduring importance of the sacrifice of thanksgiving. False accusations against the truth lack validity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.3560171543800013,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.43,
+            "commentatorTierSimilarities": [
+                49.05,
+                18.03,
+                32.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Accusing Jesus of Nazareth, they contemptuously misrepresented his teaching on worship, claiming that God could be worshipped anywhere, not just at the temple. These allegations were inflammatory and difficult to clarify. However, it is our duty to defend the truth of God from such falsehoods. They also charged Jesus with destroying the temple and changing the customs established by Moses. While sacrifices would cease, Jesus emphasized the lasting significance of the sacrifice of thanksgiving. False accusations against the truth hold no weight.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.2990062626860346,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.54,
+            "commentatorTierSimilarities": [
+                43.47,
+                21.8,
+                34.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

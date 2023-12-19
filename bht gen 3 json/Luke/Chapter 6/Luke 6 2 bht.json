@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:15:34",
+    "verseRef": "Luke 6:2",
+    "bestBHT": {
+        "bht": "The Pharisees confronted Jesus, challenging the legality of His disciples' actions on the Sabbath. In Matthew and Mark, the Pharisees directly questioned Jesus, accusing His disciples. However, in Luke, the Pharisees addressed the disciples themselves. The specific action involved the disciples plucking and eating ears of corn, deemed as unlawful on the Sabbath. This incident illustrates the Pharisees' attempt to hold Jesus responsible for the actions of His disciples, despite their previous remonstrations against the disciples themselves.",
+        "wordCount": 77,
+        "quoteTokenProportion": 30.43,
+        "qualityScore": 2.0984359098060086,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+        "commentatorTierSimilarities": [
+            33.63,
+            27.72,
+            38.65
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] In Matthew and Mark, the Pharisees address our Lord, \u2018Why do Thy disciples,\u2019&c.?"
+        ],
+        "Marvin Vincent": [
+            "Not lawful. See on Matthew 12:2."
+        ],
+        "Philip Schaff": [
+            "'Unto them' is to be omitted.",
+            "Still the disciples are addressed, in Matthew and Mark, our Lord.",
+            "They remonstrated with those who did the unlawful act, but would make our Lord responsible for it."
+        ],
+        "John Gill": [
+            "And certain of the Pharisees said unto them,.... Unto the disciples.\" ",
+            "Why do ye that which is not lawful on the sabbath day?\" as to pluck ears of corn, and rub them, and eat them."
+        ],
+        "John Wesley": [
+            "St. Matthew and Mark represent the Pharisees as proposing the question to our Lord himself.",
+            "It was afterward, probably, they proposed it to his disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees questioned why Jesus' disciples were doing something that was considered unlawful on the Sabbath. The disciples were being blamed for their actions, but the Pharisees aimed to hold Jesus responsible as well. In Matthew and Mark, it is written that the Pharisees directly approached Jesus with this question. However, in Luke, it is stated that the Pharisees addressed the disciples instead. The specific action in question was the disciples plucking ears of corn, rubbing them, and eating them.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.0499700959897096,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                32.7,
+                28.32,
+                38.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees addressed Jesus, concerned about the actions of His disciples that they deemed unlawful on the Sabbath. In Matthew and Mark, the Pharisees approached Jesus directly, asking why His disciples were doing something that was considered unlawful. However, in Luke's account, the Pharisees addressed the disciples themselves about their actions. The specific action in question was the disciples plucking ears of corn, rubbing them, and eating them. This exchange highlights the Pharisees' attempt to hold Jesus accountable for the actions of His disciples.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.0318462023751316,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                33.13,
+                27.98,
+                38.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees confronted Jesus, challenging the legality of His disciples' actions on the Sabbath. In Matthew and Mark, the Pharisees directly questioned Jesus, accusing His disciples. However, in Luke, the Pharisees addressed the disciples themselves. The specific action involved the disciples plucking and eating ears of corn, deemed as unlawful on the Sabbath. This incident illustrates the Pharisees' attempt to hold Jesus responsible for the actions of His disciples, despite their previous remonstrations against the disciples themselves.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 2.0984359098060086,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                33.63,
+                27.72,
+                38.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees confronted Jesus about the disciples' actions, questioning the legality of what they were doing on the Sabbath. While in Matthew and Mark the Pharisees addressed Jesus directly, in Luke, they spoke to the disciples themselves. Specifically, the Pharisees were troubled by the disciples plucking ears of corn, rubbing them, and eating them. This incident sheds light on the Pharisees' attempt to hold Jesus accountable for the disciples' conduct, despite their initially addressing the disciples about the matter.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.015500827867447,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.36,
+            "commentatorTierSimilarities": [
+                32.8,
+                27.5,
+                39.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees approached Jesus, concerned about the disciples' actions that were regarded as unlawful on the Sabbath. In Matthew and Mark, the Pharisees directly posed the question to Jesus. However, in Luke, the Pharisees addressed the disciples themselves. The specific action that raised eyebrows was the disciples' act of plucking ears of corn, rubbing them, and eating them. This exchange reveals the Pharisees' attempt to hold Jesus accountable for the disciples' behavior, even though they initially confronted the disciples about it.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9944356072013272,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.66,
+            "commentatorTierSimilarities": [
+                32.0,
+                28.24,
+                39.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

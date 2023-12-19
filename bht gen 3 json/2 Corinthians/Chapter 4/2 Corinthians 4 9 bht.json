@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 15:15:55",
+    "verseRef": "2 Corinthians 4:9",
+    "bestBHT": {
+        "bht": "Though we are pursued and struck down by our enemies, we are never forsaken by God. Just as Jesus Himself was forsaken by both God and man in His sufferings, His people are not deserted. We may be cast down and persecuted, but we are never destroyed. God always interposes to save and sustain us, even in the face of trials and persecutions. Our strength is renewed, and we are upheld by the power of God, always kept safe in the hands of Christ.",
+        "wordCount": 84,
+        "quoteTokenProportion": 49.06,
+        "qualityScore": 1.7437037055618863,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+        "commentatorTierSimilarities": [
+            21.09,
+            32.68,
+            46.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "not forsaken\u2014by God and man. Jesus was forsaken by both; so much do His sufferings exceed those of His people.\" (Commentary)",
+            "cast down\u2014or 'struck down'; not only 'persecuted,' that is, chased as a deer or bird, but actually struck down as with a dart in the chase.\" (Commentary)",
+            "The Greek 'always' in this verse means, 'throughout the whole time'; in 1 Samuel 26:20, the Greek is different, and means, 'at every time,' 'in every case when the occasion occurs.'\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "Not deserted; nor left by God...God always interposed to aid them; always saved them from the power of their enemies; always sustained them in the time of persecution. It is still true.\" ",
+            "His people have been often persecuted. Yet God has often interposed to save them from the hands of their enemies; and where he has not saved them from their hands, and preserved their lives, yet he has never left them, but has sustained, upheld, and comforted them even in the dreadful agonies of death.\" ",
+            "Not killed. They rose again; they recovered their strength; they were prepared for new conflicts. They surmounted every difficulty, and were ready to engage in new strifes, and to meet new trials and persecutions."
+        ],
+        "Marvin Vincent": [
+            "Pursued by enemies, but not left to their power: left in the lurch.",
+            "Though the pursuers overtake and smite down, yet are we not killed.",
+            "In all these paradoxes the A. V. fails to bring out the metaphors."
+        ],
+        "Archibald T. Robertson": [
+            "Forsaken (\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03b9\u03c0\u03bf\u03bc\u03b5\u03bd\u03bf). Double compound of old verb \u03b5\u03b3-\u03ba\u03b1\u03c4\u03b1-\u03bb\u03b5\u03b9\u03c0\u03c9, to leave behind, to leave in the lurch.",
+            "Smitten down (\u03ba\u03b1\u03c4\u03b1\u03b2\u03b1\u03bb\u03bb\u03bf\u03bc\u03b5\u03bd\u03bf). As if overtaken.",
+            "Destroyed (\u03b1\u03c0\u03bf\u03bb\u03bb\u03c5\u03bc\u03b5\u03bd\u03bf). Perishing as in verse 2 Corinthians 4:3. Was Paul referring to Lystra when the Jews stoned him and thought him dead?"
+        ],
+        "John Gill": [
+            "Persecuted, but not forsaken...though we are followed close by evil men, and left by our friends, we are not forsaken of God.",
+            "Cast down we sometimes are, as an earthen vessel...we are sometimes foiled by sin, Satan, and the world.",
+            "But not destroyed; we are still safe in the hands of Christ, and are kept by the power of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though we may be persecuted and struck down, we are never forsaken by God. Just as Jesus Himself was forsaken by both God and man during His sufferings, His people are not deserted by Him. We may be pursued and smitten down by our enemies, but we are not left to their power. In all these paradoxes, we are reminded that we are never destroyed. Even in the midst of persecution, God interposes to save and sustain us, upholding and comforting us in the face of trials. Our strength is renewed, and we are prepared to face new conflicts, surmounting every difficulty. We are not killed, but rather kept safe in the hands of Christ, never forsaken by God.",
+            "wordCount": 119,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 1.684443390327043,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.35,
+            "commentatorTierSimilarities": [
+                22.89,
+                33.98,
+                43.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though we are pursued and struck down by our enemies, we are never forsaken by God. Just as Jesus Himself was forsaken by both God and man in His sufferings, His people are not deserted. We may be cast down and persecuted, but we are never destroyed. God always interposes to save and sustain us, even in the face of trials and persecutions. Our strength is renewed, and we are upheld by the power of God, always kept safe in the hands of Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.7437037055618863,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+            "commentatorTierSimilarities": [
+                21.09,
+                32.68,
+                46.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though we may be pursued, struck down, and even persecuted, we are never forsaken by God. Just as Jesus experienced abandonment and suffering, His people are not left behind in their trials. Even when we are cast down and face challenges, we are not destroyed. God constantly intervenes to save and support us, even in the midst of persecution. Our strength is renewed, and we are upheld by the power of God, always kept safe in the hands of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.6357292361676,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                20.06,
+                34.56,
+                45.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though we may be pursued and struck down by our enemies, we are never forsaken by God. Jesus, in His sufferings, experienced both abandonment by God and man, surpassing the sufferings of His people. Even when we are cast down, we are not destroyed. God always interposes to save and sustain us, even in the face of persecution. Our strength is renewed, and we are upheld by the power of God. We are never left behind or deserted, but always kept safe in the hands of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.5983397689623078,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.49,
+            "commentatorTierSimilarities": [
+                21.54,
+                31.45,
+                47.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though we may be pursued and struck down, we are never forsaken by God. Jesus, in His sufferings, experienced both abandonment by God and man, surpassing the sufferings of His people. Even when we are cast down, we are not destroyed. God always interposes to save and sustain us, even in persecution. Our strength is renewed, upheld by the power of God. We are never left behind, but always kept safe in the hands of Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.532284404072933,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.29,
+            "commentatorTierSimilarities": [
+                22.32,
+                30.1,
+                47.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

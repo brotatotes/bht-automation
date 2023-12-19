@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:35:20",
+    "verseRef": "Acts 23:28",
+    "bestBHT": {
+        "bht": "The Roman name Claudius was taken on when the governor purchased his citizenship, while Lysias was his Greek family name. The title the most excellent governor was an honorary title of office. The phrase to know fully implies a desire for a complete understanding of the accusations being made, which were repeated in the imperfect tense as they accused him. The charges against him were serious enough to prompt beatings, and he was brought before their court of judicature, the great Sanhedrin council.",
+        "wordCount": 83,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 1.0096476998134987,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.91,
+        "commentatorTierSimilarities": [
+            37.71,
+            0.0,
+            62.29
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "26-30. Claudius\u2014the Roman name",
+            "\the would take on purchasing his citizenship. ",
+            "\t",
+            "Lysias\u2014his Greek family",
+            "\tname. ",
+            "\t",
+            "the most excellent",
+            "\tgovernor\u2014an honorary title of office."
+        ],
+        "Archibald T. Robertson": [
+            "To know (\u03b5\u03c0\u03b9\u03b3\u03bd\u03c9\u03bd\u03b1). To know fully, \u03b5\u03c0, second aorist active infinitive.",
+            "They accused him (\u03b5\u03bd\u03b5\u03ba\u03b1\u03bb\u03bf\u03c5\u03bd \u03b1\u03c5\u03c4\u03c9). Imperfect active indicative, were accusing him (dative), repeating their charges. "
+        ],
+        "John Gill": [
+            "And when I would have known the cause,.... Or crime, he was guilty of.\" ",
+            "wherefore they accused him: which they charged him with, and for which they beat him almost to death.\" ",
+            "I brought him forth into their council; their court of judicature, the great sanhedrim."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Roman name Claudius was taken on when the governor purchased his citizenship, while Lysias was his Greek family name. The title the most excellent governor was an honorary title of office. The phrase to know fully implies a desire for a complete understanding of the accusations being made, which were repeated in the imperfect tense as they accused him. The charges against him were serious enough to prompt beatings, and he was brought before their court of judicature, the great Sanhedrin council.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.0096476998134987,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.91,
+            "commentatorTierSimilarities": [
+                37.71,
+                0.0,
+                62.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The governor took on the Roman name Claudius after purchasing his citizenship, but his Greek family name was Lysias. Being addressed as the most excellent governor was an honorary title. The phrase to know fully suggests a desire for a complete understanding of the accusations, which were repeatedly made against him. The severity of the charges led to beatings, and he was then brought before the great Sanhedrin council, their court of judicature.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 0.9456007867330647,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.79,
+            "commentatorTierSimilarities": [
+                33.99,
+                0.0,
+                66.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The governor, known as Claudius, acquired his Roman name upon obtaining citizenship, while his Greek family name was Lysias. Referred to as the most excellent governor, this was an honorary title. The phrase to know fully indicates a desire for a comprehensive understanding of the accusations repeatedly made against him. The severity of the charges resulted in him being beaten, with the ordeal culminating in his appearance before the esteemed Sanhedrin council, their authoritative court of judicature.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 0.9456698871900184,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.79,
+            "commentatorTierSimilarities": [
+                36.85,
+                0.0,
+                63.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The governor's Roman name, Claudius, was adopted upon gaining citizenship, while his Greek family name was Lysias. Addressed as the most excellent governor, this title carried a sense of honor. The verb to know fully suggests a deep desire for comprehensive understanding of the accusations, which were repeatedly leveled against him. The gravity of the charges led to severe beatings, ultimately leading to his appearance before the esteemed Sanhedrin council, the revered court of judicature.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 0.8697712130399902,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.26,
+            "commentatorTierSimilarities": [
+                38.65,
+                0.0,
+                61.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The governor, known as Claudius, acquired his Roman name upon purchasing his citizenship, while his Greek family name was Lysias. Being referred to as the most excellent governor was an honorary title. The phrase to know fully implies a strong desire for a complete understanding of the accusations repeatedly made against him. The seriousness of the charges resulted in him being beaten, and eventually, he was brought before the influential Sanhedrin council, their revered court of judicature.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 0.9501562424952723,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.94,
+            "commentatorTierSimilarities": [
+                35.51,
+                0.0,
+                64.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

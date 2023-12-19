@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:29:40",
+    "verseRef": "Acts 10:34",
+    "bestBHT": {
+        "bht": "When Peter opens his mouth and declares, Of a truth I perceive... that God is no respecter of persons, he recognizes that God's acceptance of people is not based on their nationality or religious affiliation, but rather on their personal character. The idea of God as a respecter of persons, which was deeply ingrained in the minds of the Jews, is shattered. Peter's revelation demonstrates that God's acceptance and salvation are offered to all based on genuine faith and godly living, not on external privileges or rank.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.0483904419332566,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.45,
+        "commentatorTierSimilarities": [
+            26.86,
+            37.81,
+            35.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "opened his mouth] This is a phrase used on occasions of more than ordinary solemnity.",
+            "Of a truth I perceive] \u2018For the first time I now clearly, in its fulness and as a living fact, apprehend (grasp by experience the truth of) what I read in the Scripture.",
+            "Deut. x. 17; 2 Chron. xix. 7; Job xxxiv. 19)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Of a truth I perceive\u2014that is, 'I have it now demonstrated before mine eyes.'\" ",
+            "that God is no respecter of persons.\" ",
+            "I see that God has respect only to personal character and state in the acceptance of men, national and ecclesiastical distinctions being of no account."
+        ],
+        "Albert Barnes": [
+            "I have evidence here that God is no respecter of persons.",
+            "The barrier is broken down; the offer is made to all; God will save all on the same principle; not by external privileges or rank, but according to their character.",
+            "The most strenuous advocate for the doctrines of sovereignty and election - the apostle Paul - is also the one that labored most to establish the doctrine that God is no respecter of persons."
+        ],
+        "Marvin Vincent": [
+            "I perceive. See on ch. Acts 4:13. ",
+            "Respecter of persons [\u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bb\u03b7\u03bc\u03c0\u03c4\u03b7\u03c2] . See on respect of persons, James 2:1. Only here in New Testament."
+        ],
+        "John Calvin": [
+            "Without respect of persons, those do please God which live godly and innocently.",
+            "By this word [person] we must understand the external state or appearance...which doth either bring him in favor, or cause him to be hated.",
+            "When Christ was given to be a light of the Gentiles, the covenant of eternal life began to be common to all alike."
+        ],
+        "Philip Schaff": [
+            "Then Peter opened his mouth. This denotes that something grave and deliberate, and demanding serious attention, is about to be uttered.\" ",
+            "Of a truth I perceive. This is half a soliloquy. Peter now feels that he can justify to himself his own conduct, and he can take firm ground in instructing others.",
+            "No respecter of persons. They denote the judging a man by a test which has nothing to do with his moral character; as, for instance, by his wealth, his social position, or his beauty."
+        ],
+        "Archibald T. Robertson": [
+            "Opened his mouth (\u03b1\u03bd\u03bf\u03b9\u03be\u03b1\u03c2 \u03c4\u03bf \u03c3\u03c4\u03bf\u03bc\u03b1). Solemn formula for beginning his address [...] But also good elocution for the speaker.",
+            "I perceive (\u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03bc\u03b1). Aoristic present middle of \u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9, to take hold of, the middle noting mental action, to lay hold with the mind [...] It was not until Peter had crossed the threshold of the house of Cornelius in the new environment and standpoint that he sees this new and great truth.",
+            "Respecter of persons (\u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bb\u03b7\u03bc\u03c0\u03c4\u03b7\u03c2). The idea is to pay regard to one's looks or circumstances rather than to his intrinsic character. The Jews had come to feel that they were the favourites of God [...] The phrase was already in the LXX (Deuteronomy 10:17; 2 Chronicles 19:7; Psalms 82:6)."
+        ],
+        "John Gill": [
+            "God is no respecter of persons; which is to be understood, not of the substances of men, but of the outward state and condition, circumstances and qualities of men.",
+            "He does not prefer or despise men, because of their being of this or the other nation, as Jews or Gentiles; or because they are circumcised, or not circumcised; or because they are high or low, rich or poor, free or bound, or the like.",
+            "God valued no man the more, because he was a Jew and circumcised, nor anyone the less, because he was a Gentile and uncircumcised."
+        ],
+        "John Wesley": [
+            "I perceive of a truth \u2014 More clearly than ever, from such a concurrence of circumstances.",
+            "God is not a respecter of persons \u2014 Is not partial in his love.",
+            "He is loving to every man, and willeth all men should be saved."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Peter opens his mouth and declares, Of a truth I perceive... that God is no respecter of persons, he is filled with a profound revelation. He recognizes that God's acceptance of people is not based on their nationality or religious affiliation, but rather on their personal character and relationship with Him. The notion of God as a respecter of persons, which had been ingrained in the minds of the Jews, is shattered as Peter grasps the all-encompassing love and impartiality of God. This realization is not only a personal conviction for Peter, but a universal truth that applies to all individuals, irrespective of their background or status. God's acceptance and salvation are offered to all solely based on their genuine faith and godly living. God's impartiality reveals His desire for the salvation and well-being of all people.",
+            "wordCount": 143,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 1.9376255457008669,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                27.18,
+                37.04,
+                35.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Peter opens his mouth and declares, Of a truth I perceive... that God is no respecter of persons, he recognizes that God's acceptance of people is not based on their nationality or religious affiliation, but rather on their personal character. The idea of God as a respecter of persons, which was deeply ingrained in the minds of the Jews, is shattered. Peter's revelation demonstrates that God's acceptance and salvation are offered to all based on genuine faith and godly living, not on external privileges or rank.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0483904419332566,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.45,
+            "commentatorTierSimilarities": [
+                26.86,
+                37.81,
+                35.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Peter utters the words Of a truth I perceive...that God is no respecter of persons, he unveils a profound understanding that God's acceptance of individuals is not influenced by their nationality or external circumstances but solely by their personal character. This revelation challenges the notion ingrained in the Jewish mindset that they were God's favored people. Peter's declaration highlights God's impartiality, His disregard for external appearances, and His desire for the salvation of all, regardless of social status or background.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9535408903978806,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.3,
+            "commentatorTierSimilarities": [
+                25.32,
+                38.86,
+                35.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's realization that God is no respecter of persons marks a significant turning point in his understanding. It is a revelation that God's acceptance of individuals is not based on their nationality or external circumstances, but rather on their personal character and relationship with Him. This insight challenges the prevailing belief among Jews that they were uniquely chosen. This new understanding emphasizes God's impartiality and His desire for the salvation of all, regardless of social status or background.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.847691635147667,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                25.22,
+                39.22,
+                35.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the moment when Peter proclaims, Of a truth I perceive... that God is no respecter of persons, he experiences a profound revelation. He recognizes that God's acceptance of individuals is not influenced by nationality or external factors, but solely by their personal character. This revelation challenges the prevailing belief of the Jews, who considered themselves favored by God. Peter's declaration highlights God's impartiality, disregarding external appearances, and emphasizing His desire for the salvation of all, irrespective of social status or background.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.919266177698948,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+            "commentatorTierSimilarities": [
+                26.47,
+                39.05,
+                34.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

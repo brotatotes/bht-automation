@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:32:33",
+    "verseRef": "Acts 17:8",
+    "bestBHT": {
+        "bht": "The Jews, moved by envy, raised a mob of worthless market people, which agitated the politarchs. Fearing a revolution or being charged with treason, the rulers oppressed the innocent holy men without granting them a fair defense. In a time of extreme dislike and suspicion towards the Jewish Christians, the rulers were troubled and anxious to show loyalty to Emperor Claudius and protect their city's privileges. This unjust treatment of the holy men demonstrates how magistrates can be carried away by the rage of the people, disregarding reason and equity.",
+        "wordCount": 91,
+        "quoteTokenProportion": 30.88,
+        "qualityScore": 1.655145609307257,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+        "commentatorTierSimilarities": [
+            30.68,
+            35.7,
+            33.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the Jews . . . moved with envy\u2014seeing their influence undermined by this stranger.",
+            "lewd fellows of the baser sort\u2014better, perhaps, 'worthless market people,' that is, idle loungers about the market-place, of indifferent character.",
+            "gathered a company\u2014rather, 'having raised a mob.'"
+        ],
+        "Albert Barnes": [
+            "They excited the people to commotion and alarm.",
+            "The rulers feared the tumult that was excited, and the people feared the Romans.",
+            "They were excited and alarmed by the representations of the Jews, and by the mob that they had collected."
+        ],
+        "John Calvin": [
+            "We see how unjustly the holy men were handled. Because they had no place granted them to defend themselves, it was an easy matter to oppress them, though they were guiltless.\" ",
+            "It is no new matter for magistrates to be carried away with the rage of the people as with a tempest, especially when the injury toucheth those who are strangers and unknown.\" ",
+            "For then they care not for reason or equity, neither do they hear the matter, but one driveth forward another without any resistance, and all things are done out of order, as when they run unto some great fire."
+        ],
+        "Philip Schaff": [
+            "It must be remembered that just at this time the Jews, and more particularly the Jewish Christians, were looked upon with extreme dislike and suspicion by the officials of the Empire.",
+            "The provincial rulers, desirous to show their loyalty to the Emperor Claudius, and in no wise to compromise the cherished privileges of their city, which they knew were only held during the pleasure of the central authorities at Rome, were naturally troubled and anxious.",
+            "It was this feeling of insecurity which led to Paul\u2019s withdrawal."
+        ],
+        "Archibald T. Robertson": [
+            "The excitement of the multitude 'agitated' the politarchs still more.",
+            "To the people it meant a revolution, to the politarchs a charge of complicity in treason if they let it pass.",
+            "They had no way to disprove the charge of treason and Paul and Silas were not present."
+        ],
+        "John Gill": [
+            "Fearing some revolution would be made, and some new king, or rather tyrant, would start up, and usurp a power over them.\" ",
+            "Or that they should come under some suspicion or charge with the Roman government, and should be called to an account.\" ",
+            "With such fears were they possessed when they heard these things; alleged against the apostle and his company."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews, filled with envy at the undermining of their influence by this stranger, gathered a mob of worthless market people and stirred up a commotion. This agitated the politarchs even more as they feared the tumult and the Romans. In a time when the Jewish Christians were looked upon with extreme dislike and suspicion, the rulers, anxious to show their loyalty to Emperor Claudius and to protect their city's privileges, were troubled. Fearing a revolution or being charged with treason, they decided to oppress the innocent holy men, without granting them a fair defense. Such injustices often occur when magistrates are carried away by the rage of the people without considering reason or equity.",
+            "wordCount": 116,
+            "quoteTokenProportion": 32.53,
+            "qualityScore": 1.734354829877955,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.01,
+            "commentatorTierSimilarities": [
+                27.75,
+                38.47,
+                33.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews, moved by envy, raised a mob of worthless market people, which agitated the politarchs. Fearing a revolution or being charged with treason, the rulers oppressed the innocent holy men without granting them a fair defense. In a time of extreme dislike and suspicion towards the Jewish Christians, the rulers were troubled and anxious to show loyalty to Emperor Claudius and protect their city's privileges. This unjust treatment of the holy men demonstrates how magistrates can be carried away by the rage of the people, disregarding reason and equity.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.655145609307257,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+            "commentatorTierSimilarities": [
+                30.68,
+                35.7,
+                33.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moved by envy, the Jews raised a mob of worthless market people, which agitated the politarchs. Fearing a revolution or being charged with treason, the rulers oppressed the innocent holy men without granting them a fair defense. In a time of extreme dislike and suspicion towards the Jewish Christians, the rulers were troubled and anxious to show loyalty to emperor Claudius and protect their city's privileges. This unjust treatment of the holy men demonstrates how magistrates can be carried away by the rage of the people, disregarding reason and equity.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.6481932012786975,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.14,
+            "commentatorTierSimilarities": [
+                30.68,
+                35.62,
+                33.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Envy drove the Jews to stir up a mob of worthless market people, causing agitation among the politarchs. Fearful of a possible revolution or being accused of treason, the rulers oppressed the innocent holy men without granting them a fair defense. The rulers were troubled and anxious amidst the prevailing dislike and suspicion towards the Jewish Christians, intending to show loyalty to Emperor Claudius and safeguard their city's privileges. This unjust treatment highlights how magistrates can succumb to the influence of an enraged populace, disregarding reason and fairness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.14,
+            "qualityScore": 1.607095990074228,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.78,
+            "commentatorTierSimilarities": [
+                31.48,
+                36.56,
+                31.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Envy prompted the Jews to gather a mob of worthless market people, leading to agitation among the politarchs. Fearing a revolution or accusations of treason, the rulers oppressed the innocent holy men, denying them a fair defense. In a time of intense suspicion towards the Jewish Christians, the rulers were troubled and anxious, striving to demonstrate loyalty to Emperor Claudius and protect their city's privileges. This troubling mistreatment reveals how magistrates can be swayed by the anger of the people, disregarding justice and reason.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.6314260569800845,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.59,
+            "commentatorTierSimilarities": [
+                31.03,
+                37.26,
+                31.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:35:57",
+    "verseRef": "Acts 24:8",
+    "bestBHT": {
+        "bht": "Certainly it might be said that Tertullus would hardly refer the governor to Lysias, whose interference he had just characterized negatively. By examining whom\u2014Lysias. By examining him thyself, not by torture, but by hearing what Paul has to say in defense of himself. The English reader should be cautioned against one mistake: the referring whom to the accusers. This cannot be, as the relative 'whom' is singular.",
+        "wordCount": 68,
+        "quoteTokenProportion": 54.72,
+        "qualityScore": 1.8948500993957433,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+        "commentatorTierSimilarities": [
+            41.75,
+            25.37,
+            32.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Certainly it might, on the other hand, be said that Tertullus would hardly refer the governor to Lysias, whose interference he had just characterized in such terms of blame",
+            "The English reader should be cautioned against one mistake which the form of the words in the A.V. rather encourages: the referring whom to the accusers. This cannot be, as the relative 'whom' is, in the original, in the singular.",
+            "but (which is a strong argument for the genuineness of the doubtful words) remarkably enough, we find Felix, ver. 22, putting off the trial till the arrival of Lysias."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here they insinuate that, instead of troubling Felix with the case, he ought to have left it to be dealt with by the Jewish tribunal; in which case his life would soon have been taken.",
+            "By examining whom\u2014Lysias, as would seem (Acts 24:22).",
+            "Referring all, as if with confidence, to Felix."
+        ],
+        "Albert Barnes": [
+            "It is incredible that a Roman rhetorician would have on such an occasion delivered an address so brief, so meagre, and so destitute of display as this.",
+            "But it is doubtless a correct summary of his address, and contains the leading points of the accusation.",
+            "Such a course was inevitable, unless the New Testament had been swelled to wholly undue proportions."
+        ],
+        "Marvin Vincent": [
+            "From whom. Paul. It would refer to Lysias if the omitted passage above were retained."
+        ],
+        "John Calvin": [
+            "How dare they put in these conditions, seeing their own consciences do accuse them of unjust dealing?",
+            "Thus do false accusers boldly boast that their matter is plain, that they may blind the eyes of the judges.",
+            "The more fierce they be upon him, and the more they were puffed up with some affiance they had in themselves, they think they shall get the upper hand by this means."
+        ],
+        "Philip Schaff": [
+            "By examining of whom thyself mayest take knowledge of all these things, whereof we accuse him.",
+            "If the disputed words are left in the text as in our English Version, then \u2018of whom\u2019 refers of course to Claudius Lysias.",
+            "If, however, we omit the words in accordance with the ordinary rules of criticism, then \u2018of whom\u2019 must refer to St. Paul."
+        ],
+        "Archibald T. Robertson": [
+            "By examining him thyself (\u03b1\u03c5\u03c4\u03bf\u03c2 \u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b1\u03c2). Not by torture, since Paul was a Roman citizen, but by hearing what Paul has to say in defence of himself.\" ",
+            "\u0391\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03c9 is to examine thoroughly up and down as in Luke 23:14."
+        ],
+        "John Gill": [
+            "Tertullus would insinuate that the captain was blameworthy, that he hindered a legal process against Paul; and that it was owing to him, that this trouble was given the governor.\" ",
+            "By examining of whom; not the accusers, but either the chief captain, as some think, or rather Paul: thyself mayest take knowledge of all these things whereof we accuse him.\" ",
+            "So impudent was Tertullus, and of such effrontery and assurance, that he feared not to say, that the governor, by examining Paul himself, would easily come to the knowledge of the things he was accused of, and plainly see that he was guilty of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Certainly it might, on the other hand, be said that Tertullus would hardly refer the governor to Lysias, whose interference he had just characterized in such terms of blame. The English reader should be cautioned against one mistake which the form of the words in the A.V. rather encourages: the referring whom to the accusers. This cannot be, as the relative 'whom' is, in the original, in the singular. By examining whom\u2014Lysias, as would seem. By examining him thyself, not by torture, since Paul was a Roman citizen, but by hearing what Paul has to say in defence of himself.",
+            "wordCount": 102,
+            "quoteTokenProportion": 53.52,
+            "qualityScore": 2.0251756646556407,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.68,
+            "commentatorTierSimilarities": [
+                43.14,
+                26.82,
+                30.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Certainly it might be said that Tertullus would hardly refer the governor to Lysias, whose interference he had just characterized negatively. By examining whom\u2014Lysias. By examining him thyself, not by torture, but by hearing what Paul has to say in defense of himself. The English reader should be cautioned against one mistake: the referring whom to the accusers. This cannot be, as the relative 'whom' is singular.",
+            "wordCount": 68,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 1.8948500993957433,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+            "commentatorTierSimilarities": [
+                41.75,
+                25.37,
+                32.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It could be argued that Tertullus, in his attempt to shift blame from the accusers to the governor, suggests that it was unnecessary for Felix to trouble himself with the case and that he should have left it to the Jewish tribunal instead. However, it is likely that Tertullus was insinuating that Felix, by examining Lysias, would come to know the truth and see that Paul was guilty of the accusations against him. Despite the accusations, it is important to note that Paul, as a Roman citizen, was to be examined fairly and thoroughly, without the use of torture.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.1572268951002713,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+            "commentatorTierSimilarities": [
+                36.32,
+                25.74,
+                37.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Tertullus's remarks insinuate that Felix should have entrusted the case to the Jewish tribunal instead of troubling himself with it. However, it is possible that Tertullus was suggesting that by examining Lysias, Felix would come to know the truth and see that Paul was indeed guilty. Nevertheless, it is crucial to note that Paul, being a Roman citizen, was entitled to fair examination, without the use of torture, in order for him to present his defense.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.1023769571355557,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.24,
+            "commentatorTierSimilarities": [
+                40.62,
+                26.34,
+                33.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It could be said that Tertullus' intention was to shift the burden from the accusers to the governor, implying that Felix should have left the case to the Jewish tribunal. However, it is possible that Tertullus wanted Felix to examine Lysias to ascertain the truth and see Paul's guilt. Nonetheless, we must remember that as a Roman citizen, Paul was entitled to a fair examination, without the use of torture, allowing him to present his defense.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.0538189306723584,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                39.3,
+                25.05,
+                35.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

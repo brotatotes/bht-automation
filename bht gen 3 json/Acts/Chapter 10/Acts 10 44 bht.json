@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:29:35",
+    "verseRef": "Acts 10:44",
+    "bestBHT": {
+        "bht": "While Peter is still speaking, the Holy Ghost falls upon the Gentiles, serving as undeniable proof of their conversion and acceptance of Peter's message. This event is analogous to the outpouring of the Spirit on the day of Pentecost, signifying that the Gentiles are included in the same privileges as the Jews. The interruption of Peter's sermon by this remarkable and unexpected manifestation highlights the commonality of the gospel message for both Jews and Gentiles.",
+        "wordCount": 77,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.3719375465226955,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.21,
+        "commentatorTierSimilarities": [
+            38.2,
+            29.72,
+            32.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Warning the Christian church not to put baptism itself in the place which circumcision once held.",
+            "Teaching us, that as the Holy Spirit dispensed once and for all with the necessity of circumcision in the flesh, so can He also, when it pleases him, with the necessity of water-baptism.",
+            "The outpouring of the Spirit on the Gentiles was strictly analogous to that in the day of Pentecost; Peter himself describes it by adding (ch. xi. 15), as on us at the beginning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "44, 45. While Peter yet spake . . .",
+            "\tthe Holy Ghost fell\u2014by visible and audible manifestation ( :-)."
+        ],
+        "Albert Barnes": [
+            "The Holy Ghost fell...endowing them with the power of speaking with other tongues.\" ",
+            "By this, God showed that the Gentiles were to be admitted to the same privileges with the Jews.",
+            "Which heard the word - The Word of God; the message of the gospel."
+        ],
+        "Marvin Vincent": [
+            "The Holy Ghost fell. The only example of the bestowment of the Spirit before baptism."
+        ],
+        "John Calvin": [
+            "God declareth now by a new miracle, that the doctrine of the gospel is common as well to the Gentiles as to the Jews.",
+            "This visible sign representeth unto us, as it were in a table, what an effectual instrument of God\u2019s power the preaching of the gospel is.",
+            "But it doth not, nor shall not, always so fall out, that all those which hear the word with their outward ears, do or shall also receive the Spirit; and the ministers do seldom light upon such hearers as Peter had, who are willing, with one consent, to follow God."
+        ],
+        "Philip Schaff": [
+            "This is enough to mark off these event at C\u00e6sarea as having a character and meaning of their own.",
+            "The force, too, of this new and Divine argument was of the utmost weight for the \u2018apostles and brethren at Jerusalem\u2019 as it is indeed for every subsequent age of the Church, including our own.",
+            "The new impulse came from above. It was manifestly supernatural and Divine."
+        ],
+        "Archibald T. Robertson": [
+            "While Peter yet spake... The Holy Ghost fell... It appears that Peter was interrupted in his sermon by this remarkable event.\" ",
+            "The Jews had received the Holy Spirit, the Samaritans, and now Gentiles.\" ",
+            "Here it was unexpected by Peter and by Cornelius and was indubitable proof of the conversion of these Gentiles who had accepted Peter's message and had believed on Jesus Christ as Saviour."
+        ],
+        "John Gill": [
+            "the grace of the Spirit, it falls down from above, from heaven; the freeness of it, it is bestowed on whom he pleases, under the same ministry; the suddenness of it, it comes at once, unthought of, and undesired, as well as undeserved; the power and efficacy of it, it falls with weight, it melts the heart, and converts the sinner",
+            "the plenty of it, it falls in abundance, it is exceeding abundant with faith and love; and the permanency of it, it continues where it falls, and is a well of living water springing up unto everlasting life",
+            "these extraordinary gifts of the Spirit were necessary at the first preaching of the Gospel to the Gentiles, for the confirmation of it"
+        ],
+        "John Wesley": [
+            "The Holy Ghost fell on all that were hearing the word.\" ",
+            "Thus were they consecrated to God, as the first fruits of the Gentiles.",
+            "And thus did God give a clear and satisfactory evidence, that he had accepted them as well as the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 10:44, the Holy Ghost falls upon the Gentiles while Peter is still speaking, interrupting his sermon. This unexpected and remarkable event serves as an indubitable proof of the conversion of these Gentiles, who had accepted Peter's message and believed in Jesus Christ as their Savior. It is important to note that this outpouring of the Spirit on the Gentiles is analogous to the one on the day of Pentecost, signifying that they are to be admitted to the same privileges as the Jews. This visible manifestation of the Spirit's power confirms the commonality of the gospel message for both Jews and Gentiles.",
+            "wordCount": 105,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.3621355968260946,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.88,
+            "commentatorTierSimilarities": [
+                36.95,
+                29.89,
+                33.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, while Peter is still speaking, the Holy Ghost falls upon the Gentiles, providing an unexpected and remarkable event that serves as proof of their conversion. This outpouring of the Spirit parallels the one at Pentecost, highlighting the inclusion of the Gentiles in the same privileges as the Jews. The visible manifestation of the Spirit's power and the interruption of Peter's sermon emphasize the commonality of the gospel message for both Jews and Gentiles.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.41275597589346,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.56,
+            "commentatorTierSimilarities": [
+                37.42,
+                30.04,
+                32.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While Peter is still speaking, the Holy Ghost falls upon the Gentiles, serving as undeniable proof of their conversion and acceptance of Peter's message. This event is analogous to the outpouring of the Spirit on the day of Pentecost, signifying that the Gentiles are included in the same privileges as the Jews. The interruption of Peter's sermon by this remarkable and unexpected manifestation highlights the commonality of the gospel message for both Jews and Gentiles.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.3719375465226955,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.21,
+            "commentatorTierSimilarities": [
+                38.2,
+                29.72,
+                32.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Peter was speaking, the Holy Ghost fell upon the Gentiles, providing an unexpected interruption to his sermon. This remarkable event served as undeniable proof that these Gentiles had accepted Peter's message and believed in Jesus Christ as their Savior. It is important to note that this outpouring of the Spirit on the Gentiles was analogous to the one on the day of Pentecost, signaling their inclusion in the same privileges as the Jews. This visible manifestation affirmed the commonality of the gospel message for both Jews and Gentiles.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.3639302203032706,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.94,
+            "commentatorTierSimilarities": [
+                36.74,
+                30.71,
+                32.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While Peter was speaking, the Holy Ghost fell upon the Gentiles, interrupting his sermon and confirming their conversion. This event, akin to the outpouring of the Spirit on Pentecost, demonstrates the inclusion of Gentiles in the same privileges as Jews. The visible manifestation of the Spirit's power emphasizes the commonality of the gospel for all.",
+            "wordCount": 56,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.347256715380442,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.39,
+            "commentatorTierSimilarities": [
+                38.24,
+                29.89,
+                31.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

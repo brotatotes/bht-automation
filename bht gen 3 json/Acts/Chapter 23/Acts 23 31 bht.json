@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:35:45",
+    "verseRef": "Acts 23:31",
+    "bestBHT": {
+        "bht": "The soldiers, as commanded, took Paul on a hard night's ride, travelling forty miles to Antipatris. This town, built by Herod the Great, was located in a fine plain and watered with many springs and fountains. It was about thirty-eight miles northwest of Jerusalem and still had twenty-six miles left to travel before reaching C\u00e6sarea. Interestingly, it was the same town where Simon the Just had once met Alexander the Great after a night of travel. Although the apostle couldn't stay to preach the Gospel there, a church was established in Antipatris in the fifth century.",
+        "wordCount": 100,
+        "quoteTokenProportion": 40.85,
+        "qualityScore": 1.84918898002844,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.83,
+        "commentatorTierSimilarities": [
+            24.57,
+            34.89,
+            40.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "ANTIPATRIS, forty-two Roman miles from Jerusalem, and twenty-six from C\u00e6sarea, was built by Herod the Great, and called in honour of his father.\" ",
+            "They might have well made so much way during the night and the next day,\u2014for the text will admit of that interpretation\u2014",
+            "the morrow being not necessarily the morrow after they left Jerusalem, but after they arrived at Antipatris."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "31, 32. brought him . . . to",
+            "\tAntipatris\u2014nearly forty miles from Jerusalem, on the way to",
+            "\tC\u00e6sarea; so named by Herod in honor of his father, Antipater."
+        ],
+        "Albert Barnes": [
+            "It was situated in a fine plain, and watered with many springs and fountains.",
+            "No old ruins, nor the least relic of antiquity, did we anywhere discover.",
+            "The village stands upon a slight circular eminence near the western hills, from which it is actually separated, however, by a branch of the plain."
+        ],
+        "Marvin Vincent": [
+            "Took [\u03b1\u03bd\u03b1\u03bb\u03b1\u03b2\u03bf\u03bd\u03c4\u03b5\u03c2] . Lit., \"having taken up.\" Compare set Paul on, verse 24. ",
+            "To Antipatris. A hard night 's ride : forty miles."
+        ],
+        "Philip Schaff": [
+            "Then the soldiers, as it was commanded them, took Paul, and brought him by night to Antipatris.\" ",
+            "This town is forty Roman miles from Jerusalem.",
+            "There were twenty-six miles still to be travelled before they reached C\u00e6sarea."
+        ],
+        "Archibald T. Robertson": [
+            "According to that which was commanded them.\" ",
+            "Through the night, travelling by night forty miles.",
+            "A hard night's ride."
+        ],
+        "John Gill": [
+            "It was built by Herod the great, in the best soil of his kingdom, enriched with rivers and woods.",
+            "Here it was that Simon the just, with some of the principal inhabitants of Jerusalem, met Alexander the great, who travelled all night, as these soldiers with Paul did, and came to Antipatris at sun rising.",
+            "The apostle could not now stay to preach the Gospel in this place, nor do we elsewhere read or hear of a Gospel church state in it, until the 'fifth' century; when it appears there was a church here."
+        ],
+        "John Wesley": [
+            "The soldiers brought him by night to Antipatris \u2014 But not the same night they set out.",
+            "Antipatris was about thirty-eight of our miles northwest of Jerusalem.",
+            "Herod the Great rebuilt it, and gave it this name in honour of his father Antipater."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The soldiers, as commanded, took Paul and went on a hard night's ride, travelling forty miles to Antipatris, a town built by Herod the Great. Antipatris was located in a fine plain, watered by many springs and fountains, and situated near the western hills. However, there were no old ruins or relics of antiquity to be found. This journey was not completed in one night; rather, they most likely made their way during the night and the next day. It was about thirty-eight miles northwest of Jerusalem and still had twenty-six miles left to travel before reaching C\u00e6sarea. Interestingly, this was the same town where Simon the Just had once met Alexander the Great after a night of travel. While the apostle couldn't stay to preach the Gospel there, it is known that a church was established in Antipatris in the fifth century.",
+            "wordCount": 147,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.745742088946594,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.39,
+            "commentatorTierSimilarities": [
+                23.45,
+                38.56,
+                37.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The soldiers, as commanded, took Paul on a hard night's ride, travelling forty miles to Antipatris. This town, built by Herod the Great, was located in a fine plain and watered with many springs and fountains. It was about thirty-eight miles northwest of Jerusalem and still had twenty-six miles left to travel before reaching C\u00e6sarea. Interestingly, it was the same town where Simon the Just had once met Alexander the Great after a night of travel. Although the apostle couldn't stay to preach the Gospel there, a church was established in Antipatris in the fifth century.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.84918898002844,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.83,
+            "commentatorTierSimilarities": [
+                24.57,
+                34.89,
+                40.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers, following orders, took Paul on a challenging night journey of forty miles to Antipatris, a town built by Herod the Great. Situated in a plain with abundant springs and fountains, it was around thirty-eight miles northwest of Jerusalem, still leaving twenty-six miles to travel to reach C\u00e6sarea. It is worth noting that this was the same place where Simon the Just met Alexander the Great after a night of travel. Although Paul couldn't stay to preach the Gospel there, a church was established in Antipatris centuries later.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8221995037652539,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.93,
+            "commentatorTierSimilarities": [
+                24.05,
+                32.64,
+                43.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The soldiers followed their orders, embarking on a challenging forty-mile journey during the night to bring Paul to Antipatris. This town, founded by Herod the Great, was located in a fertile plain and had an abundant water supply from various springs and fountains. Antipatris was about thirty-eight miles northwest of Jerusalem, with another twenty-six miles remaining until they reached C\u00e6sarea. It is interesting to note that Antipatris held historical significance as the place where Simon the Just encountered Alexander the Great after a similar night journey. Although Paul did not have an opportunity to proclaim the Gospel there, a church was eventually established in Antipatris several centuries later.",
+            "wordCount": 111,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.686584890783966,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                23.03,
+                33.23,
+                43.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldiers obeyed their orders, taking Paul on a challenging forty-mile journey through the night to Antipatris. Herod the Great had built this town in a fertile plain, blessed with rivers and woods. Located about thirty-eight miles northwest of Jerusalem, Antipatris still required another twenty-six miles to reach C\u00e6sarea. Notably, it was here that Simon the Just met Alexander the Great after a night of travel. Although Paul couldn't stay to preach, a church was later established in Antipatris in the fifth century.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7061064198368534,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+            "commentatorTierSimilarities": [
+                24.83,
+                30.32,
+                44.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

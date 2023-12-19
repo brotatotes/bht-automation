@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:28:54",
+    "verseRef": "Acts 9:42",
+    "bestBHT": {
+        "bht": "The one who knelt imitated their Master's way, in contrast to the Lord Himself who never knelt in a miracle. The vivid description of this event adds a touch of reality to the narrative. This first miracle by the apostles was more than a benevolent act; it expanded and established the Savior's kingdom. Through this healing, God comforted the poor and restored a godly matron to the Church, leading many to believe in the Lord Jesus Christ. The fame of this miracle quickly spread, drawing more people to the faith.",
+        "wordCount": 92,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.4436129636554291,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.34,
+        "commentatorTierSimilarities": [
+            31.66,
+            34.64,
+            33.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The kneeling became the lowly servant, but not the Lord Himself, of whom it is never once recorded that he knelt in the performance of a miracle.",
+            "The graphic minuteness of detail here imparts to the narrative an air of charming reality.",
+            "The one in imitation of his Master's way; the other, in striking contrast with it."
+        ],
+        "Albert Barnes": [
+            "A similar effect followed when Jesus raised up Lazarus.",
+            "This was the first miracle of this kind that was performed by the apostles.",
+            "It was not merely a work of benevolence, but it was a means of extending and establishing the kingdom of the Saviour."
+        ],
+        "John Calvin": [
+            "God comforted the poor, a godly matron was restored to the Church, in whose death it suffered great loss.\" ",
+            "Many are called unto the faith; for although Peter were [had been] a minister of so great power, yet he keepeth not the men in [on] himself; but doth rather direct them unto Christ."
+        ],
+        "John Gill": [
+            "The report of such a miracle, and wrought upon a person of note, was soon spread all over the place.",
+            "and throughout which the fame of this miracle might pass.",
+            "and many believed in the Lord; in the Lord Jesus Christ, whom Peter preached."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The one who knelt in this verse imitated his Master's way, while the Lord Himself never knelt in the performance of miracles. The detailed description of this event adds an air of charming reality to the narrative. In contrast to the Lord's actions, this act of kneeling by the servant highlights the servant's lowliness. This miracle, the first of its kind performed by the apostles, not only demonstrated benevolence but also helped to extend and establish the kingdom of the Savior. Through the healing of this godly matron, God comforted the poor and restored her to the Church, resulting in many believing in the Lord Jesus Christ. The fame of this miracle quickly spread throughout the area, leading many to turn to the Lord.",
+            "wordCount": 127,
+            "quoteTokenProportion": 31.17,
+            "qualityScore": 1.4477938836312494,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.48,
+            "commentatorTierSimilarities": [
+                35.95,
+                32.76,
+                31.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The one who knelt in imitation of his Master's way highlighted their own lowliness, which stands in striking contrast to the Lord Himself who never knelt in the performance of miracles. The detailed description of this event adds an air of charming reality to the narrative. This first miracle of its kind by the apostles was not merely an act of benevolence but a means of extending and establishing the Savior's kingdom. Through this healing, God comforted the poor and restored a godly matron to the Church, resulting in many believing in the Lord Jesus Christ. The fame of this miracle quickly spread, leading many to turn to the Lord.",
+            "wordCount": 112,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 1.5309369283023875,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+            "commentatorTierSimilarities": [
+                33.67,
+                34.44,
+                31.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The one who knelt imitated their Master's way, in striking contrast to the Lord Himself who never knelt in miracles. The detailed description adds charming reality. This first miracle of its kind by the apostles extended and established the Savior's kingdom. Through the healing, God comforted the poor and restored a godly matron to the Church, resulting in many believing in the Lord Jesus Christ. The fame quickly spread, leading many to turn to the Lord.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.3019381140029929,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.63,
+            "commentatorTierSimilarities": [
+                32.18,
+                33.64,
+                34.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The one who knelt imitated their Master's way, in contrast to the Lord Himself who never knelt in the performance of a miracle. The graphic minuteness of detail in the narrative adds an air of charming reality. This first miracle of its kind performed by the apostles was not merely an act of benevolence, but a means of extending and establishing the kingdom of the Savior. Through this healing, God comforted the poor, and a godly matron was restored to the Church, resulting in many believing in the Lord Jesus Christ. The fame of this miracle quickly spread, leading many to turn to the Lord.",
+            "wordCount": 106,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.551516593484239,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                34.25,
+                34.26,
+                31.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The one who knelt imitated their Master's way, in contrast to the Lord Himself who never knelt in a miracle. The vivid description of this event adds a touch of reality to the narrative. This first miracle by the apostles was more than a benevolent act; it expanded and established the Savior's kingdom. Through this healing, God comforted the poor and restored a godly matron to the Church, leading many to believe in the Lord Jesus Christ. The fame of this miracle quickly spread, drawing more people to the faith.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4436129636554291,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.34,
+            "commentatorTierSimilarities": [
+                31.66,
+                34.64,
+                33.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:34:14",
+    "verseRef": "Ephesians 5:19",
+    "bestBHT": {
+        "bht": "Believers are instructed to sing spiritual songs, inspired by the Holy Spirit. Rather than engaging in drinking songs and false eloquence, their melodies should be dedicated to the Lord Jesus, emanating from the depths of their hearts. The focus of singing is not only personal but also communal, as believers are encouraged to edify and uplift one another through their songs. By praising God with psalms and hymns, believers joyfully express their devotion and gratitude, bringing glory to the Lord.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.2467846231935056,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.05,
+        "commentatorTierSimilarities": [
+            31.89,
+            29.87,
+            38.25
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The custom of antiphonal chanting the church has received from as far back as the Apostles.\" ",
+            "The Christian\u2019s ode is to be spiritual, inspired by that fulness of the Spirit which is in him.",
+            "Singing and playing corresponding to hymns and psalms above."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Spirit gives true eloquence; wine, a spurious eloquence.",
+            "Let your songs be not the drinking songs of heathen feasts, but psalms and hymns; and their accompaniment, not the music of the lyre, but the melody of the heart.",
+            "To Christ as God."
+        ],
+        "Albert Barnes": [
+            "Speaking among yourselves, that is, endeavoring to edify one another, and to promote purity of heart, by songs of praise.",
+            "Nothing is more clear than that it was practiced by the Saviour himself and the apostles, and by the primitive church, as well as by the great body of Christians in all ages.",
+            "A choir of sweet singers in a church - united in the same praises here - 'ought' to be prepared to join in the same praises around the throne of God."
+        ],
+        "Marvin Vincent": [
+            "Speaking to yourselves [\u03bb\u03b1\u03bb\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2 \u03b5\u03b1\u03c5\u03c4\u03bf\u03b9\u03c2] . Rev., one to another. The A. V. is literally correct, but is open to the misinterpretation each one communing with himself.\" ",
+            "The meaning is as in Colossians 3:13, and Rev. is better.",
+            "Hymns - spiritual songs."
+        ],
+        "John Calvin": [
+            "The Spirit means 'joy in the Holy Ghost,' and the exhortation, be ye filled, alludes to deep drinking, with which it is indirectly contrasted.\" ",
+            "Speaking to themselves, is speaking among themselves. Nor does he enjoin them to sing inwardly or alone; for he immediately adds, singing in your hearts; as if he had said, 'Let your praises be not merely on the tongue, as hypocrites do, but from the heart.'\" ",
+            "The appellation spiritual, given to these songs, is strikingly appropriate; for the songs most frequently used are almost always on trifling subjects, and very far from being chaste."
+        ],
+        "Philip Schaff": [
+            "The reciprocal influence on their hearts is meant; and that in social intercourse as well as in their public assemblies.",
+            "There is no warrant for confining public praise to the use of the Old Testament psalms, or of paraphrases of other Scripture passages.",
+            "The view which takes this clause as subordinate to the preceding part of the verse is open to objection. It usually explains 'in your heart' as = heartily, which is incorrect."
+        ],
+        "Archibald T. Robertson": [
+            "To the Lord (\u03c4\u03c9 \u039a\u03c5\u03c1\u03b9\u03c9). The Lord Jesus.",
+            "In Colossians 3:16 we have \u03c4\u03c9 \u03b8\u03b5\u03c9 (to God) with all these varieties of praise, another proof of the deity of Christ.",
+            "See Colossians 3:16 for discussion."
+        ],
+        "John Gill": [
+            "By 'spiritual songs' are meant the same Psalms of David...which are called 'spiritual,' because they are indited by the Spirit of God, consist of spiritual matter, and are designed for spiritual edification.",
+            "Singing, as it is a distinct thing from prayer, so from giving of thanks, which is mentioned in Ephesians 5:20 as another duty; it is not a mental praising of God, for it is called speaking, and teaching, and admonishing, but it is a praising of God with the modulation of the voice.",
+            "Singing and making melody in the heart is singing with, or from the heart, or heartily; of as elsewhere, 'with grace,' and which the Alexandrian copy reads here; that is, either with gratitude and thankfulness, or with grace in exercise; and the end in view should be the glory of God."
+        ],
+        "John Wesley": [
+            "By there being no inspired songs, peculiarly adapted to the Christian dispensation, as there were to the Jewish, it is evident that the promise of the Holy Ghost to believers, in the last days, was by his larger effusion to supply the lack of it.",
+            "Singing with your hearts \u2014 As well as your voice.",
+            "To the Lord \u2014 Jesus, who searcheth the heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The custom of antiphonal chanting has been practiced by the church since the time of the Apostles. Singing and playing should reflect the spiritual inspiration and fullness of the Spirit in believers, rather than intoxication and worldly eloquence. Sing psalms and hymns to the Lord, not the drinking songs of pagan feasts accompanied by lyre music, but with the melody of the heart. Sing among yourselves, encouraging and edifying one another in social and public settings. Let your songs be spiritual and devoted to the Lord Jesus, praising Him from the depths of your heart.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.1329153132044265,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.26,
+            "commentatorTierSimilarities": [
+                33.14,
+                31.15,
+                35.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The church has practiced antiphonal chanting since the time of the Apostles, and believers are called to sing spiritual songs that are inspired by the fullness of the Spirit within them. Instead of songs associated with drinking and false eloquence, the focus should be on psalms and hymns, sung from the heart to the Lord Jesus. This singing is not limited to individual reflection but extends to the edification of the community, both in social interactions and public gatherings. The aim is to encourage and build up fellow believers, offering praise and spiritual melodies to the Lord.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.1309745899719443,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.2,
+            "commentatorTierSimilarities": [
+                31.08,
+                33.34,
+                35.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The custom of antiphonal chanting in the church dates back to the time of the Apostles. Believers are encouraged to sing spiritual songs that are inspired by the fullness of the Spirit within them, rather than empty praises. These songs should be directed to the Lord Jesus from the depths of their hearts. Singing is not limited to personal reflection but is also meant to build up and encourage one another in both social and public settings. The focus is on offering heartfelt melodies and praises to the Lord.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0252454404627933,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.68,
+            "commentatorTierSimilarities": [
+                31.76,
+                32.23,
+                36.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Ephesians 5:19, believers are called to sing spiritual songs in praise to the Lord with the inspiration of the Holy Spirit. The emphasis is on singing from the heart rather than indulging in the empty praises of worldly feasts. Believers are encouraged to uplift and edify one another through their songs, both in social and public settings. By singing psalms and hymns dedicated to the Lord Jesus, believers express their gratitude and devotion, giving glory to God and praising Him from the depths of their hearts.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.2428714101582683,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.92,
+            "commentatorTierSimilarities": [
+                29.27,
+                32.66,
+                38.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are instructed to sing spiritual songs, inspired by the Holy Spirit. Rather than engaging in drinking songs and false eloquence, their melodies should be dedicated to the Lord Jesus, emanating from the depths of their hearts. The focus of singing is not only personal but also communal, as believers are encouraged to edify and uplift one another through their songs. By praising God with psalms and hymns, believers joyfully express their devotion and gratitude, bringing glory to the Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.2467846231935056,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.05,
+            "commentatorTierSimilarities": [
+                31.89,
+                29.87,
+                38.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:34:52",
+    "verseRef": "Acts 21:36",
+    "bestBHT": {
+        "bht": "As Paul was being carried up the stairs from the temple-court to the tower, a coincidence of events led to a peculiar emergency and a perilous situation for him. The mob, cheated of their purpose to lynch Paul, was determined to have his blood, crying out and following after him. They shouted, Away with him, using the same words that were used by the mob when they chose Barabbas over Jesus. The sullen roar of their yells echoed in Paul's ears, as he began to understand what it truly meant to share in the sufferings of Christ.",
+        "wordCount": 99,
+        "quoteTokenProportion": 43.66,
+        "qualityScore": 1.5398904860877232,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.54,
+        "commentatorTierSimilarities": [
+            49.35,
+            23.94,
+            26.71
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Away with him! - That is, to death. Compare Luke 23:18."
+        ],
+        "Marvin Vincent": [
+            "Stairs. Leading from the temple - court to the tower [...] the guard could go different ways among the cloisters in order to watch the people at the Jewish festivals.",
+            "So it was [\u03c3\u03c5\u03bd\u03b5\u03b2\u03b7] . Lit., it happened. The verb means, literally, to come together; hence, of a coincidence of events. [...] Things came to such a pass that he had to be carried up the stairs.",
+            "The verb [\u03c3\u03c5\u03bd\u03b5\u03b2\u03b7] is designedly introduced here to express more vividly the fact of the peculiar emergency and the peril of Paul 's situation."
+        ],
+        "Archibald T. Robertson": [
+            "Followed after (\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5). Imperfect active of \u03b1\u03ba\u03bf\u03bb\u03c5\u03b8\u03b5\u03c9, was following. Cheated of their purpose to lynch Paul, they were determined to have his blood.",
+            "Crying out (\u03ba\u03c1\u03b1\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2). Construction according to sense, plural masculine participle agreeing with neuter singular substantive \u03c0\u03bb\u03b7\u03b8\u03bf\u03c2 (Robertson, Grammar, p. 401).",
+            "Away with him (\u0391\u03b9\u03c1\u03b5 \u03b1\u03c5\u03c4\u03bf\u03bd). The very words used by the mob to Pilate when they chose Barabbas in preference to Jesus (Luke 23:18, \u0391\u03b9\u03c1\u03b5 \u03c4\u03bf\u03c5\u03c4\u03bf\u03bd). He will hear it again from this same crowd (Acts 22:22). It is the present imperative (\u03b1\u03b9\u03c1\u03b5) as in Luke 23:18, but some may have used the urgent aorist active imperative as also in the case of Jesus John 19:15, \u03b1\u03c1\u03bf\u03bd, \u03b1\u03c1\u03bf\u03bd with \u03c3\u03c4\u03b1\u03c5\u03c1\u03c9\u03c3\u03bf\u03bd added). Luke does not say that this mob demanded crucifixion for Paul. He was learning what it was to share the sufferings of Christ as the sullen roar of the mob's yells rolled on and on in his ears."
+        ],
+        "John Gill": [
+            "For the multitude of the people followed after, crying, away with him.\" ",
+            "Take him away, that is, by death.",
+            "Crucify him, crucify him, as they said concerning Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Paul was being carried up the stairs from the temple-court to the tower, a coincidence of events led to a peculiar emergency and a perilous situation for him. The mob, cheated of their purpose to lynch Paul, was determined to have his blood, crying out and following after him. They shouted, Away with him, using the same words that were used by the mob when they chose Barabbas over Jesus. The sullen roar of their yells echoed in Paul's ears, as he began to understand what it truly meant to share in the sufferings of Christ.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.5398904860877232,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.54,
+            "commentatorTierSimilarities": [
+                49.35,
+                23.94,
+                26.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Paul was carried up the stairs, it happened that the multitude of people followed after, crying out, Away with him! This peculiar emergency and perilous situation for Paul vividly expressed the fact of the circumstances. The mob, cheated of their purpose to lynch Paul, was determined to have his blood, shouting their demand just as they did concerning Christ. The sullen roar of their yells echoed in Paul's ears, as he experienced the sufferings of Christ firsthand.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.3884602783414255,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+            "commentatorTierSimilarities": [
+                51.51,
+                18.17,
+                30.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Paul was carried up the stairs, the multitude of people followed after, crying out, Away with him! This coincidence of events led to a peculiar emergency and perilous situation for Paul, highlighting the circumstances vividly. The mob, cheated of their purpose, was determined to shed Paul's blood, echoing the same demand made concerning Christ. The sullen roar of their yells served as a reminder of the sufferings shared by Paul, as he faced this intense opposition.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.3545667196673639,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.38,
+            "commentatorTierSimilarities": [
+                51.73,
+                20.23,
+                28.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul found himself in a precarious situation as he was carried up the stairs. Coincidentally, the multitude of people followed after, shouting, Away with him! This urgency served to emphasize the unique and dangerous circumstances that Paul was facing. The mob, thwarted in their attempt to harm Paul, was relentless in their determination to spill his blood. Their cries echoed the same demand that was made during the trial of Christ. Through this ordeal, Paul began to comprehend the true meaning of sharing in the sufferings of Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.283150378645266,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.01,
+            "commentatorTierSimilarities": [
+                40.65,
+                23.33,
+                36.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst the tumultuous scene, Paul was being carried up the stairs when the multitude followed after, crying out, Away with him! This unexpected turn of events heightened the sense of urgency and danger surrounding Paul. The crowd, frustrated in their attempt to harm him, continued to persistently demand his blood. The haunting echoes of their shouts resonated in Paul's ears, reminding him of the sufferings shared by Christ. This harrowing experience allowed Paul to gain a deeper understanding of the trials endured by his Savior.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.2382001693352032,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.51,
+            "commentatorTierSimilarities": [
+                44.44,
+                21.86,
+                33.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

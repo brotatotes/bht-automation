@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:16:18",
+    "verseRef": "Luke 7:35",
+    "bestBHT": {
+        "bht": "Wisdom, personified as a mother, retains her worth and rank despite being slandered by her own children. Those who proudly boast of their wisdom and rebel against her will not diminish her praise and support among her true children. The faith in the Gospel will remain unaffected by those who turn away from the church, as the true elect will always uphold it. Christ, the embodiment of divine wisdom, redeems and saves those given to him, leading them to live a life of righteousness and godliness, denying worldly desires.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.53271593066451,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.31,
+        "commentatorTierSimilarities": [
+            43.22,
+            0.0,
+            56.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "Wisdom, however wickedly she may be slandered by her own sons, loses nothing of her worth or rank, but remains unimpaired.",
+            "Let those who haughtily boast of being the children of Wisdom proceed in their obstinacy: she will, notwithstanding, retain the praise and support of her own children.",
+            "Although many apostates may revolt from the Church of God, yet, among all the elect, who truly belong to the flock, the faith of the Gospel will always remain uninjured."
+        ],
+        "Archibald T. Robertson": [
+            "Of all her children (\u03b1\u03c0\u03bf \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd \u03c4\u03c9\u03bd \u03c4\u03b5\u03ba\u03bd\u03c9\u03bd \u03b1\u03c5\u03c4\u03b7\u03c2). Here Matthew 11:19 has \"by her works\" (\u03b1\u03c0\u03bf \u03c4\u03c9\u03bd \u03b5\u03c1\u03b3\u03c9\u03bd \u03b1\u03c5\u03c4\u03b7\u03c2). Aleph has \u03b5\u03c1\u03b3\u03c9\u03bd here. The use of \"children\" personifies wisdom as in Luke 7:8; Luke 7:9. "
+        ],
+        "John Gill": [
+            "Christ, who is the wisdom of God, [...] became useful to their souls, called them to repentance, converted and saved them.\" ",
+            "These are his children, which were given him by the Father; for whose sake he partook of flesh and blood, and whom he redeemed, that they might receive the adoption of children.",
+            "The doctrine of Christ is not a licentious one, or leads to libertinism, and indulges men in their carnal sensual lusts and pleasures; but, on the contrary, teaches them to deny ungodliness and worldly lusts, and to live soberly, righteously, and godly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Wisdom, personified as a mother, is slandered by her own children, but this does not diminish her value or rank. Even though some may boast of their wisdom and rebel against her, she will always be praised and supported by her true children. Despite those who may turn away from God's Church, faith in the Gospel will remain unharmed among the elect. Christ, who embodies God's wisdom, saves and redeems those who belong to him. His true children were given to him by the Father, and through his sacrifice, they receive the adoption of children. The teaching of Christ does not promote licentiousness, but rather leads to a life of sobriety, righteousness, and godliness, denying worldly lusts.",
+            "wordCount": 119,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.475630095644776,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.41,
+            "commentatorTierSimilarities": [
+                43.98,
+                0.0,
+                56.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Wisdom, personified as a mother, remains unimpaired and retains praise despite being slandered by her own children. While some may boast of their wisdom and rebel against her, her true children will always support her. Faith in the Gospel will remain unharmed among the elect, even if some turn away from the Church. Christ, who embodies God's wisdom, saves and redeems his true children, granting them the adoption of children. His teachings promote a life of righteousness, godliness, and the denial of worldly lusts.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.4624009583820063,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.97,
+            "commentatorTierSimilarities": [
+                44.3,
+                0.0,
+                55.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Wisdom, personified as a mother, retains her worth and rank despite being slandered by her own children. Those who proudly boast of their wisdom and rebel against her will not diminish her praise and support among her true children. The faith in the Gospel will remain unaffected by those who turn away from the church, as the true elect will always uphold it. Christ, the embodiment of divine wisdom, redeems and saves those given to him, leading them to live a life of righteousness and godliness, denying worldly desires.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.53271593066451,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.31,
+            "commentatorTierSimilarities": [
+                43.22,
+                0.0,
+                56.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Wisdom, personified as a mother, remains unimpaired despite the slander from her own children. Her true children offer unwavering support and praise, even in the face of rebellion from others. The faith in the Gospel will persist unaffected by those who turn away from the Church, as it is firmly held by the elect. Christ, embodying divine wisdom, saves and redeems his children, allowing them to receive the adoption as sons. His teachings guide them to live a godly and righteous life, forsaking worldly lusts.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.3881121216416323,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.5,
+            "commentatorTierSimilarities": [
+                44.9,
+                0.0,
+                55.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Wisdom, represented as a mother, remains unharmed despite the slander from her own children. While some proudly boast of their wisdom and rebel against her, her true children continue to offer praise and support. The faith in the Gospel stays strong among the elect, undeterred by those who turn away from the Church. Christ, personifying divine wisdom, redeems and saves his chosen ones, enabling them to be adopted as sons. His teachings inspire a life rooted in righteousness, godliness, and the renunciation of worldly desires.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.4741543577711784,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.36,
+            "commentatorTierSimilarities": [
+                46.19,
+                0.0,
+                53.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

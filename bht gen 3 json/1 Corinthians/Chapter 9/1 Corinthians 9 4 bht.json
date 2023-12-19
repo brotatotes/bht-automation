@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:08:40",
+    "verseRef": "1 Corinthians 9:4",
+    "bestBHT": {
+        "bht": "Do we not have the right to eat and drink at the expense of the churches? This question raised by Paul in his letter to the Corinthians addresses the issue of his authority as an apostle. Paul, along with his fellow laborers, including Barnabas, had the legitimate right to be supported by the churches they served. However, Paul chose to forego this right not because he was unaware of it, but because he saw it as an opportunity to prioritize the welfare of others.",
+        "wordCount": 84,
+        "quoteTokenProportion": 49.09,
+        "qualityScore": 1.7905251400943878,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+        "commentatorTierSimilarities": [
+            44.29,
+            24.36,
+            31.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The plural, we, seems to apply to Paul alone: for though Barnabas is introduced momentarily in ver. 6, there can be no reference to him in ver. 11.",
+            "It may perhaps be used as pointing out a matter of right, which any would have had on the same conditions (see ver. 11), and as thus not belonging' personally to Paul, as do the things spoken of in verses 1, 2, 15.",
+            "to eat and to drink, i.e. at the cost of the churches."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Have we not power\u2014Greek, 'right,' or lawful power, equivalent to 'liberty' claimed by the Corinthians.\" ",
+            "The 'we' includes with himself his colleagues in the apostleship.",
+            "Paul's not exercising this right was made a plea by his opponents for insinuating that he was himself conscious he was no true apostle."
+        ],
+        "Albert Barnes": [
+            "Have we not power [...] yet it was not because they were conscious that they had no such right, but because they chose to forego it for wise and important purposes.",
+            "The interrogative mode is often adopted to express the strongest affirmation.",
+            "It is not because we have not a right to such support, and it is not because we are conscious that we have no such claim, but it is for a higher purpose. It is because it will do good if we should not urge this right, and enforce this claim."
+        ],
+        "Marvin Vincent": [
+            "Eat - drink. At the expense of the churches. Compare Luke 10:7."
+        ],
+        "John Calvin": [
+            "This, then, was one liberty that he dispensed with.\" ",
+            "Hence, too, we may infer, how very far marriage is from being unsuitable to the ministers of the Church.\" ",
+            "Paul here teaches, in general terms, what is allowable for all."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 9:4. Have we no right to eat and to drink? at the cost of the churches which we serve.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "The \u03bc\u03b7 in this double negative expects the answer 'No' while \u03bf\u03c5\u03ba goes with the verb \u03b5\u03c7\u03bf\u03bc\u03b5\u03bd.\" ",
+            "Do we fail to have the right?\" ",
+            "Cf. Romans 10:18 (Robertson, Grammar, p. 1173)."
+        ],
+        "John Gill": [
+            "Have we not power to eat and to drink?\" ",
+            "A comfortable livelihood at the public charge, or at the expense of the persons to whom he ministered.\" ",
+            "He seems to have in view the words of Christ, Luke 10:7."
+        ],
+        "John Wesley": [
+            "Have we not power \u2014 I and my fellowlabourers.",
+            "To eat and to drink \u2014 At the expense of those among whom we labour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Have we not the right to eat and to drink, at the cost of the churches we serve? This question posed by Paul in 1 Corinthians 9:4 addresses the issue of his authority as an apostle and his decision to forego certain rights for the sake of the gospel. The use of the plural pronoun we emphasizes that Paul includes his colleagues in the apostleship, highlighting their shared authority. Some may have accused Paul of not exercising this right to insinuate that he was not a true apostle. However, Paul's purpose in foregoing this right was not a lack of consciousness or claim, but rather a deliberate choice to prioritize the good of others.",
+            "wordCount": 113,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.8408702688867478,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                42.38,
+                30.55,
+                27.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do we not have the right to eat and drink at the expense of the churches? This question raised by Paul in his letter to the Corinthians addresses the issue of his authority as an apostle. Paul, along with his fellow laborers, including Barnabas, had the legitimate right to be supported by the churches they served. However, Paul chose to forego this right not because he was unaware of it, but because he saw it as an opportunity to prioritize the welfare of others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.7905251400943878,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                44.29,
+                24.36,
+                31.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Is it not our right, as apostles, to eat and drink at the expense of the churches we serve? This question addressed by Paul in 1 Corinthians 9:4 presents the apostles' legitimate claim for support from the churches. Although some questioned Paul's authority by pointing to his decision not to exercise this right, he clarifies that it was not due to a lack of consciousness or claim, but rather a deliberate choice to prioritize the gospel and the welfare of others over personal gain.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.9410196190450137,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                44.67,
+                29.09,
+                26.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do we not have the right, as apostles, to eat and drink at the cost of the churches we serve? Paul's question in this verse highlights the legitimate claim that he and his fellow laborers possess for support from the churches. Rather than a lack of awareness or entitlement, Paul's decision to forego this right was a deliberate choice, motivated by a desire to prioritize the greater good and not hinder the gospel. He recognized that refraining from exercising this right could have a positive impact on others and reflect the selflessness of their ministry.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.7818097602705087,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                43.24,
+                28.5,
+                28.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As apostles, don't we have the right to be supported by the churches we serve, including the privilege of eating and drinking at their expense? This question posed by Paul emphasizes the legitimacy of the apostles' claim for material support. However, Paul chose not to exercise this right, not because he was unaware of it or lacked a rightful claim, but because he deemed it more beneficial for the advancement of the gospel to willingly forego this privilege.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.7895922661236363,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+            "commentatorTierSimilarities": [
+                40.89,
+                33.57,
+                25.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

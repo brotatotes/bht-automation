@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:29:12",
+    "verseRef": "1 Timothy 5:15",
+    "bestBHT": {
+        "bht": "Some young widows have already turned aside after Satan, the seducer, giving occasion for reproach. These widows have followed the great Tempter instead of the Lord Jesus, leading them astray from the right path. Their actions have exposed them to the revilings of those who, consciously or unconsciously, are doing the work of Satan. This serves as a reminder that even the most holy ordinances can be tainted by the wickedness of people. Therefore, it is crucial to remain steadfast and not deviate from the Lord, for turning aside leads to bondage under Satan.",
+        "wordCount": 94,
+        "quoteTokenProportion": 45.07,
+        "qualityScore": 1.752156744976983,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+        "commentatorTierSimilarities": [
+            34.34,
+            27.62,
+            38.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Some (widows) are already turned aside after Satan, the seducer.",
+            "Satan finds some mischief still for the idle hands to do.",
+            "They have given occasion of reproach."
+        ],
+        "Albert Barnes": [
+            "For some are already turned aside after Satan - That is, some young widows.\" ",
+            "The meaning is, that in the respects above mentioned 1 Timothy 5:13, they had followed the great Tempter, rather than the Lord Jesus.\" ",
+            "This is stated as a reason why they should not be admitted into the number of the widows who were to be maintained at the expense of the church, and to whom the care of the younger female members was to be committed."
+        ],
+        "John Calvin": [
+            "It is certain, that there is no ordinance so holy that some evil may not arise out of it through the wickedness of men.",
+            "If the revolt of some women was regarded by him as a sufficiently strong argument for seeking a universal remedy, how many arguments would the Papists have for abolishing their filthy celibacy, if they had any regard to edification!",
+            "We learn from this how destructive is turning aside from the right course, since, from being children of God, it makes us slaves of Satan."
+        ],
+        "Philip Schaff": [
+            "The warning was not uncalled for. Facts had shown that there was urgent need for it.",
+            "Those of whom he speaks had been turned out of the right path by the great Adversary, and so were exposed to the revilings of those who, consciously or unconsciously, were doing his work.",
+            "The Greek, indeed, refers to some definite time present to St. Paul\u2019s thoughts, probably that of his last visit to Ephesus."
+        ],
+        "Archibald T. Robertson": [
+            "Are turned aside (\u03b5\u03be\u03b5\u03c4\u03c1\u03b1\u03c0\u03b7\u03c3\u03b1\u03bd).\" ",
+            "After Satan (\u03bf\u03c0\u03b9\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03a3\u03b1\u03c4\u03b1\u03bd\u03b1)."
+        ],
+        "John Gill": [
+            "For some are already turned aside after Satan.",
+            "They turned their backs on Christ, and gave themselves up to carnal lusts and pleasures, and an idle and impure life and conversation.",
+            "Everyone that apostatizes from a profession of Christ [...] may be said to turn aside after Satan."
+        ],
+        "John Wesley": [
+            "Some \u2014 Widows.",
+            "Have turned aside after Satan \u2014 Who has drawn them from Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some young widows have already turned aside after Satan, the great seducer, causing reproach to be brought upon them. These widows have been led astray from the right path and have followed the temptations of the enemy, exposing themselves to the revilings of those who are doing his work. It is clear that even the most holy ordinance can be corrupted by the wickedness of individuals. Therefore, it is crucial to remain steadfast and not deviate from the right course, for turning aside from the Lord turns us into slaves of Satan.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.684151458056696,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "commentatorTierSimilarities": [
+                31.06,
+                28.42,
+                40.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some young widows have already turned aside after Satan, giving occasion for reproach. They have followed the temptations of the great seducer and have been drawn away from the right path. By turning their backs on Christ, they have become slaves of Satan, exposing themselves to reviling. It is a stark reminder that even the holiest of ordinances can be corrupted by the wickedness of individuals. Therefore, it is imperative to stay firm and not deviate from the Lord, for straying leads to bondage under the influence of Satan.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.7448260718974202,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+            "commentatorTierSimilarities": [
+                36.31,
+                24.0,
+                39.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some young widows have already turned aside after Satan, the seducer, giving occasion for reproach. These widows have followed the great Tempter instead of the Lord Jesus, leading them astray from the right path. Their actions have exposed them to the revilings of those who, consciously or unconsciously, are doing the work of Satan. This serves as a reminder that even the most holy ordinances can be tainted by the wickedness of people. Therefore, it is crucial to remain steadfast and not deviate from the Lord, for turning aside leads to bondage under Satan.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.752156744976983,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                34.34,
+                27.62,
+                38.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Some young widows have already turned aside after Satan, the seducer, causing reproach to be brought upon them. These widows have been led astray from the right path and have followed the temptations of the enemy, exposing themselves to the revilings of those who are doing his work. It is clear that even the most holy ordinance can be corrupted by the wickedness of individuals. Therefore, it is crucial to remain steadfast and not deviate from the right course, for turning aside from the Lord turns us into slaves of Satan.",
+            "wordCount": 91,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.6956237538194605,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+            "commentatorTierSimilarities": [
+                31.7,
+                28.12,
+                40.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Some young widows have already turned aside after Satan, giving occasion for reproach. They have followed the temptations of the great seducer and have been drawn away from the right path. By turning their backs on Christ, they have become slaves of Satan, exposing themselves to reviling. It is a stark reminder that even the holiest of ordinances can be corrupted by the wickedness of individuals. Therefore, it is imperative to stay firm and not deviate from the Lord, for straying leads to bondage under the influence of Satan.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.7448260718974202,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+            "commentatorTierSimilarities": [
+                36.31,
+                24.0,
+                39.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

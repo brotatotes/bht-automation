@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:14:17",
+    "verseRef": "1 Corinthians 15:43",
+    "bestBHT": {
+        "bht": "Our current bodies are weak, subject to disease and decay, and as repulsive as a decomposing corpse. However, in the resurrection, our bodies will be raised in glory, honored by God, and filled with the eternal energy and vigor of a spiritual body. Death cannot conquer this new body, for it will be transformed into a glorious form that reflects the splendor and beauty of God. It will be free from weakness and infirmity, and clothed in robes of light that signify its power and strength.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.226569498417418,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.37,
+        "commentatorTierSimilarities": [
+            33.5,
+            38.58,
+            27.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For what is more loathsome than a decomposing corpse?\" Chrysostom.",
+            "In weakness\u2014the characteristic of the lifeless body, which is relaxed and powerless.",
+            "In power\u2014or, in vigour, viz. the fresh and eternal energy of the new body free from disease and pain."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "our body of humiliation\": liable to various humiliations of disease, injury, and decay at last.",
+            "in glory\u2014the garment of incorruption... like His glorious body... which we shall put on.",
+            "in power\u2014answering to a 'spiritual body'... Not liable to the weaknesses of our present frail bodies."
+        ],
+        "Albert Barnes": [
+            "It is raised in glory - In honor; in beauty; honored by God by the removal of the curse, and in a form and manner that shall be glorious.",
+            "Of course, every idea which we can get from this is chiefly negative, and consists in denying that the body will have there the qualities which here render it vile or loathsome.",
+            "It is raised in power...means that it shall be no longer liable to disease; no more overcome by the attacks of sickness; no more subject to the infirmities and weaknesses which it here experiences."
+        ],
+        "Marvin Vincent": [
+            "The feeble hands of the dead.",
+            "For no firm force or vigor was in him.",
+            "See Isaiah 14:10."
+        ],
+        "John Calvin": [
+            "He now returns to the first similitude that he had made use of, but applies it more closely to his design.",
+            "He figuratively compares the time of the present life to the seed-time, and the resurrection to the harvest.",
+            "Our body is now, indeed, subject to mortality and ignominy, but will then be glorious and incorruptible."
+        ],
+        "Philip Schaff": [
+            "it is sown in dishonour becoming so repulsive that one is fain to say with Abraham, of the dearest object in life, 'Bury my dead out of my sight,' it is raised in glory resplendent and ravishing to behold.\" ",
+            "it is sown in weakness the lifeless corpse absolutely powerless, it is raised in power- endued with inexhaustible energy."
+        ],
+        "Archibald T. Robertson": [
+            "Death can never conquer this new body, 'conformed to the body of His glory'.\" ",
+            "Lack of strength as shown in the victory of death.",
+            "Death can never conquer this new body."
+        ],
+        "John Gill": [
+            "It is sown in dishonour...but in the resurrection, it is raised in glory.\" ",
+            "It is sown in weakness...but it is raised in power.\" ",
+            "It comes into the world in great weakness...but it is raised by the power of God, and with great power in itself."
+        ],
+        "John Wesley": [
+            "It is sown in dishonour \u2014 Shocking to those who loved it best, human nature in disgrace!",
+            "It is raised in glory - Clothed with robes of light, fit for those whom the King of heaven delights to honour.",
+            "It is raised in power \u2014 Endued with vigour, strength, and activity, such as we cannot now conceive."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In our current state, our bodies are weak, subject to disease and decay, and often as repulsive as a decomposing corpse. However, in the resurrection, our bodies will be raised in glory, free from the dishonors and humiliations of our present lives. They will be adorned with the splendor and beauty that comes from being honored by God and will be filled with the eternal energy and vigor of a spiritual body. Death can never conquer this new body, for it will be conformed to the glorious body of Christ, and will be clothed in robes of light that reflect the power and strength of God. Just as a seed is sown in weakness but is raised in power, so too will our bodies be transformed from feeble and lifeless to vibrant and indestructible.",
+            "wordCount": 134,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 2.2651430939298596,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.66,
+            "commentatorTierSimilarities": [
+                31.64,
+                39.58,
+                28.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In our present state, our bodies are weak, subject to disease and decay, and often as repulsive as a decomposing corpse. However, in the resurrection, our bodies will be raised in glory, free from the dishonors and humiliations of our present lives. They will be adorned with the splendor and beauty that comes from being honored by God, and filled with the eternal energy and vigor of a spiritual body. Death can never conquer this new body, for it will be conformed to the glorious body of Christ, and will be clothed in robes of light that reflect the power and strength of God.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.204594730300353,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.64,
+            "commentatorTierSimilarities": [
+                33.3,
+                38.38,
+                28.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our current bodies are weak, subject to disease and decay, and often as loathsome as a decomposing corpse. However, in the resurrection, our bodies will be raised in glory, free from the humiliations of our present lives. They will be honored by God, adorned with beauty and splendor, and filled with the eternal energy of a spiritual body. Death will have no power over this new body, for it will be like the glorious body of Christ, clothed in robes of light and untouched by weakness or infirmity.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1879914285438717,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.09,
+            "commentatorTierSimilarities": [
+                34.23,
+                37.67,
+                28.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our current bodies are weak, subject to disease and decay, and as repulsive as a decomposing corpse. However, in the resurrection, our bodies will be raised in glory, honored by God, and filled with the eternal energy and vigor of a spiritual body. Death cannot conquer this new body, for it will be transformed into a glorious form that reflects the splendor and beauty of God. It will be free from weakness and infirmity, and clothed in robes of light that signify its power and strength.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.226569498417418,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.37,
+            "commentatorTierSimilarities": [
+                33.5,
+                38.58,
+                27.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our present bodies are weak, subject to disease and decay, and as loathsome as a decomposing corpse. However, in the resurrection, our bodies will be raised in glory and filled with the eternal energy and vigor of a spiritual body. Death cannot conquer this new body, for it will be transformed into a form that reflects the splendor and beauty of God. Clothed in robes of light, it will be free from weakness and infirmity, radiating the power and strength of the divine.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.2155205586515185,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                34.47,
+                38.02,
+                27.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:37:05",
+    "verseRef": "Acts 27:7",
+    "bestBHT": {
+        "bht": "The ship's journey from Myra to Cnidus was impeded by contrary winds, causing them to sail slowly for many days. Seeking shelter, they sailed under the protection of Crete to ease the impact of the wind. The prevailing N.W. winds in the Mediterranean during that season created challenges for their progress. Had it not been for the opposing wind, they could have completed the distance in a single day. Understanding these geographical and meteorological obstacles enhances our comprehension of their arduous voyage.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.9055894201710788,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+        "commentatorTierSimilarities": [
+            44.09,
+            42.89,
+            13.02
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We learn from the sailing directions for the Mediterranean, that, throughout the whole of that sea, but mostly in the eastern half, including the Adriatic and Archipelago, N.W. winds prevail in the summer months...\" (commentary)",
+            "With N.W. winds the ship could work up from Myra to Cnidus; because, until she reached that point, she had the advantage of a weather shore, under the lee of which she would have smooth water.\" (commentary)",
+            "At Cnidus that advantage ceased.\" (commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "sailed slowly many days\u2014owing to contrary winds.\" ",
+            "and scarce-\"with difficulty.\" ",
+            "But for the contrary wind they might have made the distance from Myra (one hundred thirty miles) in one day."
+        ],
+        "Albert Barnes": [
+            "Had sailed slowly - By reason of the prevalence of the western winds.",
+            "The wind not suffering us - The wind repelling us in that direction; not permitting us to hold on a direct course, we were driven off near to Crete.",
+            "We sailed under Crete - See Acts 27:4. We lay along near to Crete, so as to break the violence of the wind."
+        ],
+        "Marvin Vincent": [
+            "The meaning is not that they had scarcely reached Cnidus when the wind became contrary, nor that they had come only as far as Cnidus in many days; but that they were retarded by contrary winds between Myra and Cnidus, a distance of about one hundred and thirty miles, which, with a favorable wind, they might have accomplished in a day."
+        ],
+        "Philip Schaff": [
+            "The Greek word \u03bc\u03cc\u03bb\u03b9\u03c2, translated 'scarce,' really expresses difficulty and struggle.",
+            "The wind not suffering us.",
+            "Here they would obtain the same advantages as before, under the shore of Asia Minor, as to comparative shelter and a favourable current."
+        ],
+        "Archibald T. Robertson": [
+            "Many days (\u03b5\u03bd \u03b9\u03ba\u03b1\u03bd\u03b1\u03b9\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1\u03b9\u03c2). Literally, 'in considerable days.'\" ",
+            "With difficulty (\u03bc\u03bf\u03bb\u03b9\u03c2). Used in old Greek, like \u03bc\u03bf\u03b3\u03b9\u03c2 (Luke 9:39) from \u03bc\u03bf\u03bb\u03bf\u03c2, toil (see Acts 14:18).",
+            "We sailed under the lee of Crete (\u03c5\u03c0\u03b5\u03c0\u03bb\u03b5\u03c5\u03c3\u03b1\u03bc\u03b5\u03bd \u03c4\u03b7\u03bd \u039a\u03c1\u03b7\u03c4\u03b7\u03bd). See under verse Acts 27:4. Instead of going to the right of Crete as the straight course would have been they sailed southwest with Crete to their right and got some protection against the wind there."
+        ],
+        "John Gill": [
+            "It was a city and promontory in Doris, in the Chersonese or peninsula of Caria, famous for the marble statue of Venus made by Praxiteles",
+            "Jerom says, it was a famous island over against Asia, joining to the province of Caria",
+            "because, as both Pausanias and Strabo say, it was joined by a bridge or causeway to the continent"
+        ],
+        "John Wesley": [
+            "Cnidus \u2014 was a cape and city of Caria."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ship mentioned in the verse faced difficulties due to contrary winds between Myra and Cnidus, leading to slow progress for many days. They sailed under the protection of Crete and sought shelter to break the wind's force. The prevailing N.W. winds in that region and time of year posed challenges for their journey. Had it not been for the opposing wind, they could have covered the distance between Myra and Cnidus in just one day. This information sheds light on the physical obstacles faced by the ship and the impact of wind patterns on their progress.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9178868703986638,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+            "commentatorTierSimilarities": [
+                45.32,
+                41.58,
+                13.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ship encountered hinderances from contrary winds between Myra and Cnidus, causing a slow journey for numerous days. Seeking protection, they sailed under the shelter of Crete, aiming to diminish the wind's strength. Prevailing N.W. winds in that area and time obstructed their progress. Without the opposing wind, they could have covered the Myra-Cnidus distance in a single day. This understanding of the physical challenges and impact of wind patterns enhances our comprehension of their voyage.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8469103701441831,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.75,
+            "commentatorTierSimilarities": [
+                46.29,
+                42.3,
+                11.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Navigating through the Mediterranean, the ship faced adverse conditions caused by contrary winds between Myra and Cnidus, resulting in a slow voyage that lasted for several days. Seeking refuge, they sailed under the protection of Crete to mitigate the force of the wind. The prevalence of N.W. winds during that time and region impeded their progress. Had it not been for the opposing wind, they could have reached their destination in just one day. Understanding the geographical and meteorological factors at play enriches our comprehension of their challenging journey.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.837289831391386,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                42.31,
+                43.84,
+                13.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ship's journey from Myra to Cnidus was impeded by contrary winds, causing them to sail slowly for many days. Seeking shelter, they sailed under the protection of Crete to ease the impact of the wind. The prevailing N.W. winds in the Mediterranean during that season created challenges for their progress. Had it not been for the opposing wind, they could have completed the distance in a single day. Understanding these geographical and meteorological obstacles enhances our comprehension of their arduous voyage.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9055894201710788,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                44.09,
+                42.89,
+                13.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ship encountered strong opposing winds between Myra and Cnidus, resulting in a slow journey for many days. Seeking protection, they sailed under Crete's lee to find some relief from the wind. The prevalent N.W. winds in the Mediterranean during that season posed challenges to their progress. If it hadn't been for the contrary wind, they could have reached their destination in just one day. Understanding these geographical and meteorological factors deepens our appreciation of the difficulties they faced on their voyage.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.829924517284978,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                47.03,
+                42.42,
+                10.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

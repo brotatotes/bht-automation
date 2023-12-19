@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:39:42",
+    "verseRef": "1 Peter 3:22",
+    "bestBHT": {
+        "bht": "Jesus Christ has ascended into heaven and now sits at the right hand of God, having conquered death and securing eternal life for us. We should take this as a practical lesson, never losing hope in the conversion of those who seem far from the path of virtue. By living a pure and holy life, being a consistent example, we can lead others to Christ. Let us imitate His selflessness, doing good even to the undeserving, following in His footsteps of patience and love.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 1.7431542945896954,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+        "commentatorTierSimilarities": [
+            25.09,
+            52.35,
+            22.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The whole heavenly hierarchy, as in Col. ii. 10\u201315, being subjected to Him.\" ",
+            "And thus is announced the glorious completion of the result of Christ's voluntary and innocent sufferings: glorious for Himself, and glorious for us, who are by baptism united to Him.\" ",
+            "And now the practical inference for us follows."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The fruit of His patience in His voluntary endured and undeserved sufferings: a pattern to us.",
+            "Proving against rationalists an actual material ascension.",
+            "Who is on the right hand of God, having swallowed up death that we may become heirs of everlasting life."
+        ],
+        "Albert Barnes": [
+            "The Lord Jesus was in like manner persecuted. He was reviled, and rejected, and put to death. Yet he ultimately triumphed. He was raised from the dead, and was exalted to the highest place of honor in the universe. Even so they, if they did not faint, might hope to come off in the end triumphant.",
+            "Those who have impenitent husbands and friends should be encouraged in seeking their conversion... We should never despair of the conversion of a friend as long as life lasts, however far he may be from the path of virtue and piety.",
+            "It is mainly by a pure life; by a holy walk; by a consistent example... that we are to hope to secure the conversion and salvation of impenitent friends. This is to be so, because most persons form their notions of religion from what they see in the lives of its professed friends."
+        ],
+        "Marvin Vincent": [
+            "Gone into heaven. Perhaps with the scene of the ascension in Peter's mind. "
+        ],
+        "John Calvin": [
+            "He recommends to us the ascension of Christ unto heaven, lest our eyes should seek him in the world; and this belongs especially to faith.\" ",
+            "He commends to our notice his session on the Father\u2019s right hand, lest we should doubt his power to save us.",
+            "It was then Peter\u2019s object to set forth by these high titles the sovereignty of Christ."
+        ],
+        "Philip Schaff": [
+            "A familiar phrase expressing \u2018the regal and judiciary power\u2019 to which Christ is exalted.\" ",
+            "The point of the verse is to bring out the heightened power which resulted to Christ from His suffering and death.\" ",
+            "Look to Christ\u2019s example how He did good to the most unworthy and died for the unjust."
+        ],
+        "Archibald T. Robertson": [
+            "Having gone",
+            "Being made subject",
+            "Unto him"
+        ],
+        "John Gill": [
+            "and is entered as their forerunner, and is preparing mansions of glory for them\" ",
+            "angels and authorities and powers being made subject unto him\" ",
+            "Christ has the government in his hands, and he rules and overrules all things for good"
+        ],
+        "John Wesley": [
+            "Angels and authorities and powers \u2014 That is, all orders both of angels and men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "1 Peter 3:22 speaks of Jesus Christ as the one who has gone into heaven, being made subject unto him. This verse emphasizes the exalted position of Christ who is now at the right hand of God, having triumphed over death and securing our inheritance of everlasting life. Just as Christ endured sufferings and emerged victorious, so too can believers face persecution and still hope for ultimate triumph. The practical implication is that we should never despair of the conversion of those who seem far from the path of virtue and piety. Our pure lives, holy walk, and consistent example can play a significant role in drawing others to Christ. We should look to Christ's example of doing good to the unworthy and dying for the unjust, imitating His patience and selflessness.",
+            "wordCount": 131,
+            "quoteTokenProportion": 37.89,
+            "qualityScore": 1.8597056207174663,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.18,
+            "commentatorTierSimilarities": [
+                24.75,
+                52.47,
+                22.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The exalted position of Christ is highlighted in this passage, as He has gone into heaven and is now at the right hand of God. By enduring sufferings and triumphing over death, He has secured our inheritance of everlasting life. This serves as a practical implication for believers, urging us to never despair of the conversion of others. Our pure lives and consistent examples can inspire others to turn to Christ. By imitating His selflessness, we reflect His patience and goodness towards the unworthy and the unjust.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.7934806853507617,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                24.98,
+                49.52,
+                25.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus Christ has ascended into heaven and now sits at the right hand of God, having conquered death and securing eternal life for us. We should take this as a practical lesson, never losing hope in the conversion of those who seem far from the path of virtue. By living a pure and holy life, being a consistent example, we can lead others to Christ. Let us imitate His selflessness, doing good even to the undeserving, following in His footsteps of patience and love.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.7431542945896954,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                25.09,
+                52.35,
+                22.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus Christ, having gone into heaven, is now seated at the right hand of God. This exalted position signifies His triumph over death and His power to save us. As believers, we should derive practical implications from this truth. We should never lose hope in the conversion of others, even if they seem far from the path of virtue. Our pure lives and consistent examples can have a profound impact on them. Let us follow Christ's selflessness and imitate His patience and love towards the undeserving.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.6485668818560149,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                24.18,
+                46.61,
+                29.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse speaks of Jesus Christ's ascension into heaven where He is now seated at the right hand of God, having conquered death and securing everlasting life for us. As believers, we should draw practical lessons from this truth. We should never lose hope in the conversion of others, even those who may seem far from the path of virtue. Our pure lives and consistent examples can have a tremendous impact, leading them to Christ. Let us emulate His selflessness and imitate His patience and love, even towards the unworthy and unjust.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.7112398445721002,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                23.47,
+                51.45,
+                25.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

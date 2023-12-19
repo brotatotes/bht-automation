@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:34:55",
+    "verseRef": "Acts 21:10",
+    "bestBHT": {
+        "bht": "During their stay in Caesarea, a certain prophet named Agabus, likely the same one mentioned before, came down to Paul and his companions. Agabus prophesied again, using Paul's belt to symbolize the sufferings that Paul would face in Jerusalem. The prophecy and visual demonstration served to confirm and prepare Paul for the hardships he would encounter.",
+        "wordCount": 57,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.6518347973454013,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+        "commentatorTierSimilarities": [
+            29.57,
+            34.92,
+            35.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This Agabus in all probability is identical with the Agabus of ch. xi. 28.",
+            "That there is no reference to that former mention of him, might be occasioned by different sources of information having furnished the two narratives."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Finding himself in good time for Pentecost at Jerusalem, he would feel it a refreshing thing to his spirit to hold Christian communion for a few days with such a family.",
+            "The news of Paul's arrival having spread.",
+            "No doubt the same [prophet] as in [previous verse]."
+        ],
+        "Albert Barnes": [
+            "There came down - See the notes on Acts 15:1.",
+            "Named Agabus - See the notes on Acts 11:28."
+        ],
+        "John Calvin": [
+            "It was surely a profitable example of invincible constancy, seeing that he offered himself willingly and wittingly to the violence of the adversaries; and no less profitable is it for us at this day, that his apostleship should be confirmed with this voluntary and no less constant giving over of his life.",
+            "The false prophets did afterward essay to delude the simple by this policy, as Satan is in a manner God\u2019s ape, and his ministers do envy the servants of God.",
+            "But, forasmuch as there was in them no force of the Spirit, their vanity did no whit hurt the faithful. This is also worthy to be noted, that Agabus doth not set before their eyes a dumb spectacle, but he coupleth therewith the word, whereby he may show to the faithful the use and end of the ceremony."
+        ],
+        "Philip Schaff": [
+            "\u2018Many;\u2019 the Greek word thus rendered is in the comparative degree, and apparently signifies that Paul and his companions tarried in C\u00e6sarea \u2018more days\u2019 than at first they had intended.",
+            "He was now only two days\u2019 easy journey from Jerusalem, which he intended to reach by Pentecost.",
+            "This is the same Agabus whom we read of in chap. Acts 11:28; we are sure of his identity with the foreteller of the famine in the days of Claudius C\u00e6sar the name, the office, and the residence being the same in both instances."
+        ],
+        "Archibald T. Robertson": [
+            "As we tarried (\u03b5\u03c0\u03b9\u03bc\u03b5\u03bd\u03bf\u03bd\u03c4\u03c9\u03bd \u03b7\u03bc\u03c9\u03bd). Genitive absolute. Note \u03b5\u03c0 (additional) with \u03bc\u03b5\u03bd\u03c9 as in Acts 12:16.",
+            "Many days (\u03b7\u03bc\u03b5\u03c1\u03b1\u03c2 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c5\u03c2). More days (than we expected), accusative of time.",
+            "A certain prophet named Agabus (\u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03b7\u03c2 \u03bf\u03bd\u03bf\u03bc\u03b1\u03c4 \u0391\u03b3\u03b1\u03b2\u03bf\u03c2). A prophet like the daughters of Philip, mentioned already in connection with the famine predicted by him (Acts 11:28), but apparently not a man of prominence like Barnabas, and so no allusion to that former prophecy."
+        ],
+        "John Gill": [
+            "How many days is not said, it could not be very many\" ",
+            "he had been many years going about from place to place prophesying",
+            "For between that and this account must be a space of about sixteen or seventeen years"
+        ],
+        "John Wesley": [
+            "A certain prophet came \u2014 The nearer the event was, the more express were the predictions which prepared Paul for it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A certain prophet named Agabus, likely the same one mentioned before, came down to Paul and his companions during their stay in Caesarea. They had intended to tarry for a few days, but they ended up staying longer than expected. Agabus, who had prophesied about a famine in the past, now prophesied again. He took Paul's belt and used it to bind his own hands and feet, symbolizing the sufferings that awaited Paul in Jerusalem. Agabus's prophecy, combined with the visual demonstration, served to confirm and prepare Paul for the hardships he would face.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5352579649402283,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.39,
+            "commentatorTierSimilarities": [
+                29.28,
+                33.28,
+                37.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During Paul and his companions' stay in Caesarea, a certain prophet named Agabus, believed to be the same one mentioned before, came down. They had intended to tarry for a few days, but ended up staying longer than expected. Agabus, who had previously prophesied about a famine, now prophesied again. He took Paul's belt and used it to symbolize the sufferings awaiting Paul in Jerusalem. This prophecy and visual demonstration confirmed and prepared Paul for the hardships that lay ahead.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.5134539134671474,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.66,
+            "commentatorTierSimilarities": [
+                29.22,
+                31.68,
+                39.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During their stay in Caesarea, a certain prophet named Agabus, likely the same one mentioned before, came down to Paul and his companions. Agabus prophesied again, using Paul's belt to symbolize the sufferings that Paul would face in Jerusalem. The prophecy and visual demonstration served to confirm and prepare Paul for the hardships he would encounter.",
+            "wordCount": 57,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6518347973454013,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                29.57,
+                34.92,
+                35.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A certain prophet named Agabus, likely the same one mentioned before, came down during Paul and his companions' stay in Caesarea. They had intended to tarry for a few days, but ended up staying longer than expected. Agabus, known for his previous prophecy about a famine, now prophesied again. Symbolically using Paul's belt, Agabus foretold the sufferings that Paul would face in Jerusalem. This prophecy and accompanying visual demonstration strengthened and prepared Paul for the hardships awaiting him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.5337477415853082,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+            "commentatorTierSimilarities": [
+                31.46,
+                31.51,
+                37.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During their stay in Caesarea, a certain prophet named Agabus, likely the same one mentioned before, came down. They had intended to tarry for a few days, but ended up staying longer than expected. Agabus, who had previously prophesied about a famine, now prophesied again. He used Paul's belt to symbolize the sufferings awaiting Paul in Jerusalem. This prophecy and visual demonstration confirmed and prepared Paul for the hardships he would face.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.5155520161044462,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "commentatorTierSimilarities": [
+                31.89,
+                30.75,
+                37.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

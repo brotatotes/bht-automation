@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:35:48",
+    "verseRef": "Acts 24:4",
+    "bestBHT": {
+        "bht": "In this context, the speaker humbly requests the governor's patience and clemency, aiming to avoid any further hindrance or detainment. They assure the governor of their intention to be concise and make reasonable concessions. Expressing admiration for the governor's humanity and good-nature, the speaker seeks to engage his attention by promising brevity. However, there is criticism regarding the speaker's eloquence, with a description of a weak introduction, transition, and conclusion. Nevertheless, the speaker appeals to the governor's patience and modesty, urging him to attentively listen.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.3126828108595185,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.99,
+        "commentatorTierSimilarities": [
+            22.64,
+            38.03,
+            39.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Be not further tedious unto thee - By taking up your time with an introduction and with commendation."
+        ],
+        "Marvin Vincent": [
+            "That I may not further hinder thee, or detain thee.",
+            "Clemency.",
+            "A few words, concisely."
+        ],
+        "Philip Schaff": [
+            "Felix, who was with all his faults an able man, could not avoid discerning the shameless nature of the lying words of the unprincipled plausible orator.",
+            "The \u2018clemency\u2019 of Felix, to which as a well-known characteristic feature of the governor\u2019s conduct he alluded, was perhaps the last point he ought to have dwelt on in that cruel selfish life."
+        ],
+        "Archibald T. Robertson": [
+            "That I may not cut in on or interrupt thee further (\u03b5\u03c0 \u03c0\u03bb\u03b5\u03b9\u03bf\u03bd) in thy reforms.",
+            "An \u03b5\u03c0\u03b9\u03b5\u03b9\u03ba\u03b7\u03c2 man is 'one who makes reasonable concessions' (Aristotle, Eth. V. 10), while \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c2 is 'one who insists on his full rights' (Plato, Leg. 757 D) as translated by Page.",
+            "Like \u03b4\u03b9\u03b1 \u03b2\u03c1\u03b1\u03c7\u03b5\u03c9\u03bd in Hebrews 13:22. In N.T. only here and Acts 24:16 (shorter conclusion)."
+        ],
+        "John Gill": [
+            "Notwithstanding, that I be not further tedious unto thee.... he could say a great deal more under this head, but... should omit it; and because he would not tire his patience, and hinder business going forward.",
+            "I pray thee, that thou wouldst hear us of thy clemency a few words... praises him for his humanity and good nature, and for his patience in hearing causes... to engage attention to him.",
+            "promises him great conciseness in the account he should give him; and entreats that... he would condescend to hear what he had to lay before him."
+        ],
+        "John Wesley": [
+            "The eloquence of Tertullus was as bad as his cause: a lame introduction, a lame transition, and a lame conclusion.",
+            "Did not God confound the orator's language?",
+            "By trespassing either on thy patience or modesty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 24:4, the speaker asks for the governor's patience, using conciseness and clemency. The commentator describes an \u03b5\u03c0\u03b9\u03b5\u03b9\u03ba\u03b7\u03c2 man as someone who makes reasonable concessions, contrasting with someone who insists on their full rights. The speaker praises the governor's clemency and promises brevity in their words, not wanting to hinder or tire the governor further. However, the commentator suggests that the eloquence of the orator is lacking, describing it as a lame introduction, transition, and conclusion. Despite this, the speaker implores the governor to listen with patience and modesty.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.337966732322971,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+            "commentatorTierSimilarities": [
+                25.32,
+                36.07,
+                38.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the speaker appeals to the governor's clemency, expressing the desire to avoid hindering or detaining him further. They promise to be concise and make reasonable concessions in their discourse. While acknowledging the governor's patience and humanity, the speaker seeks to engage his attention and asks to be heard with brevity. However, the eloquence of their presentation is criticized as lacking flow and effectiveness. Nevertheless, the speaker urges the governor to listen patiently and with humility.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3034946780945718,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.68,
+            "commentatorTierSimilarities": [
+                24.27,
+                36.79,
+                38.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, the speaker seeks the governor's patience and clemency, so as not to hinder or detain him any longer. They promise to be concise and make reasonable concessions in their plea. Acknowledging the governor's humanity and good nature, the speaker aims to capture his attention, emphasizing brevity. However, the effectiveness of their speech is critiqued, with a description of a weak introduction, transition, and conclusion. Regardless, the speaker appeals to the governor's patience and modesty, urging him to listen attentively.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.3142520647092224,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.04,
+            "commentatorTierSimilarities": [
+                23.63,
+                35.48,
+                40.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this context, the speaker humbly requests the governor's patience and clemency, aiming to avoid any further hindrance or detainment. They assure the governor of their intention to be concise and make reasonable concessions. Expressing admiration for the governor's humanity and good-nature, the speaker seeks to engage his attention by promising brevity. However, there is criticism regarding the speaker's eloquence, with a description of a weak introduction, transition, and conclusion. Nevertheless, the speaker appeals to the governor's patience and modesty, urging him to attentively listen.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.3126828108595185,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.99,
+            "commentatorTierSimilarities": [
+                22.64,
+                38.03,
+                39.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 24:4, the speaker requests the governor's patience and clemency to avoid further hindrance. They promise to be concise and make reasonable concessions, praising the governor's humanity. However, criticism arises regarding the speaker's weak eloquence. Despite this, they appeal to the governor's patience and modesty, urging him to listen attentively. The speaker wishes to avoid wasting the governor's time or becoming tedious, emphasizing the importance of brevity and respect in their interaction.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.3054586932785703,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+            "commentatorTierSimilarities": [
+                23.63,
+                37.88,
+                38.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:35:05",
+    "verseRef": "Ephesians 5:27",
+    "bestBHT": {
+        "bht": "The presentation of the church, as Christ's bride, is exclusively accomplished by Christ Himself. This future presentation signifies the union between Christ and the church and aims to bring forth a glorious church free from any imperfections. The church's holiness and glory are inseparable, and although it currently includes both good and evil, in the future, it will consist only of the righteous. Christ's role as the sole presenter of the bride showcases His love and commitment, ensuring that the church is holy and without blemish.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.323191534771955,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.59,
+        "commentatorTierSimilarities": [
+            31.31,
+            36.71,
+            31.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He might Himself present unto Himself the church glorious, not having spot, or wrinkle, or any of such things.\" ",
+            "The expression sets forth that the preparation of the Church for her bridal with Christ is exclusively by His own agency.\" ",
+            "The presentation here spoken of is clearly, in its full sense, that future one at the Lord\u2019s coming, so often treated under the image of a marriage."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Holiness and glory are inseparable.",
+            "The visible Church now contains clean and unclean together, like Noah's ark.",
+            "Not that there are two churches, one with bad and good intermingled, another in which there are good alone; but one and the same Church in relation to different times, now with good and evil together, hereafter with good alone."
+        ],
+        "Albert Barnes": [
+            "That he may present it to himself - In the last day, when he shall receive the church as his spouse to heaven.",
+            "A glorious church - A church full of honor, splendor, beauty.",
+            "There will be a period in its history when there shall not be any imperfection; when there shall be neither spot, nor wrinkle, nor any such thing."
+        ],
+        "Marvin Vincent": [
+            "He might present it to Himself... Christ Himself presents the bride.",
+            "Spot. Only here and 2 Peter 2:13; The kindred verb spilow to defile, occurs James 3:6; Jude 1:23.",
+            "Wrinkle. Only here in the New Testament."
+        ],
+        "John Calvin": [
+            "We are washed by Christ, not that we may return to our pollution, but that we may retain through our life the purity which we have once received.",
+            "The true beauty of the church consists in this conjugal chastity, that is, in holiness and purity.",
+            "We do not deny that the holiness of the church is already begun; but, so long as there is daily progress, there cannot be perfection."
+        ],
+        "Philip Schaff": [
+            "That he might himself present to himself... \u2018Present,\u2019 as a bride, not as an offering, is presented. But \u2018Christ permits neither attendants nor handmaids to present the Bride\u2019 He alone presents, He receives\u2019.",
+            "\u2018A glorious church\u2019 is inexact. \u2018The Church\u2019 (His Church) is to be presented as \u2018glorious,\u2019 this word being in emphatic position, and explained by what follows.",
+            "The thought is still explanatory of \u2018glorious,\u2019 notwithstanding the change of construction; \u2018might\u2019 marks the purpose better than \u2018should.\u2019 \u2018Holy and without blemish,\u2019 as in chap. Ephesians 1:4, refer to the positive and negative sides of moral purity."
+        ],
+        "Archibald T. Robertson": [
+            "That he might present...the bride to the bridegroom.\" ",
+            "Used of splendid clothing...Spot.",
+            "Christ's goal for the church, his bride...negative purity and positive."
+        ],
+        "John Gill": [
+            "There is a presentation of the church by Christ to his Father at his death, when he gathered the elect together in one, brought them nigh, and reconciled them to God.",
+            "The church will then be free from all spots and blemishes; from all hypocrites and formal professors; and all heresies and heretics; from all declensions and infirmities, and from all sin and iniquity.",
+            "Christ's church has no spots or blemishes, nor anything like them; and will never be rejected by him, but will be always pleasing in his sight."
+        ],
+        "John Wesley": [
+            "That he might present it \u2014 Even in this world.",
+            "A glorious church \u2014 All glorious within.",
+            "Not having spot \u2014 Of impurity from any sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ will present the church, his bride, to himself in a future presentation that signifies their union. This presentation is solely the work of Christ, who is preparing the church for their bridal relationship. The aim of this presentation is to present a glorious church, one that is pure and without any imperfections, just as Christ desires. Currently, the visible church consists of both good and evil, but in the future, the church will be composed of only the righteous. The goal is for the church to be holy and filled with glory, completely free from any spot or wrinkle. In this presentation, Christ is the sole presenter of the bride, highlighting his love and commitment to his church. The church's holiness is already initiated but has room to progress. Ultimately, the beauty of the church lies in its holiness and purity, which will be fully realized in the future presentation.",
+            "wordCount": 152,
+            "quoteTokenProportion": 38.75,
+            "qualityScore": 2.216652777507826,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.04,
+            "commentatorTierSimilarities": [
+                31.99,
+                35.77,
+                32.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Ephesians 5:27, the apostle Paul emphasizes that Christ Himself will present the church, His bride, to Himself in a future glorious presentation. This presentation is solely accomplished through Christ's agency, as He prepares the church for their union. The ultimate goal is a church that is pure and without imperfections, where holiness and glory go hand in hand. Although the visible church currently includes a mixture of good and evil, the future presentation will solely consist of the righteous. In this presentation, Christ alone acts as the presenter of the bride, highlighting His love and commitment. The church's holiness is already initiated but has room to progress. The true beauty of the church lies in its holiness and purity, and its full realization will be seen in the future presentation.",
+            "wordCount": 132,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 2.1515185336613953,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                31.95,
+                35.84,
+                32.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The presentation of the church, as Christ's bride, is exclusively accomplished by Christ Himself. This future presentation signifies the union between Christ and the church and aims to bring forth a glorious church free from any imperfections. The church's holiness and glory are inseparable, and although it currently includes both good and evil, in the future, it will consist only of the righteous. Christ's role as the sole presenter of the bride showcases His love and commitment, ensuring that the church is holy and without blemish.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.323191534771955,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.59,
+            "commentatorTierSimilarities": [
+                31.31,
+                36.71,
+                31.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ Himself will present the church, His bride, to Himself in a future presentation, signifying their union. The aim is to present a glorious church, pure and without imperfections, as He desires. Currently, the visible church contains both good and evil, but in the future, it will consist solely of the righteous. The ultimate goal is for the church to be holy and filled with glory, completely free from any spot or wrinkle. Christ's love and commitment are evident as He alone presents the bride, highlighting His devotion to His church.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.2676599257779007,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.74,
+            "commentatorTierSimilarities": [
+                31.71,
+                36.87,
+                31.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Ephesians 5:27, the church is portrayed as the bride of Christ, and it is Christ Himself who will present the church to Himself in a glorious future event. The purpose of this presentation is to reveal a church that is without spot or wrinkle, pure and holy, reflecting both negative purity and positive splendor. While the present church consists of a mixture of good and evil, the future presentation will consist solely of the fully purified and glorified church, fulfilling Christ's goal for His bride.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.423055177281909,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.91,
+            "commentatorTierSimilarities": [
+                30.79,
+                38.61,
+                30.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

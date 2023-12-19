@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:15:18",
+    "verseRef": "Luke 5:1",
+    "bestBHT": {
+        "bht": "The crowds pressed hard against Jesus, laying upon him as he stood amidst their eagerness and urgency. Jesus entered Peter's boat on the lake, moving away from the land to address the multitude. He taught them and demonstrated his divine power by miraculously catching a large amount of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.",
+        "wordCount": 68,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 1.3365822632284796,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.78,
+        "commentatorTierSimilarities": [
+            22.39,
+            33.61,
+            44.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The common people heard him gladly.\" ",
+            "Its soil is so fruitful that all sorts of trees can grow upon it, and the inhabitants accordingly plant all sorts of trees there.",
+            "Here he performed some of his first and most amazing miracles; here he selected his disciples; and here, on the shores of this little and retired lake, among people of poverty and inured to the privations of fishermen, he laid the foundation of a religion which is yet to spread through all the world."
+        ],
+        "Marvin Vincent": [
+            "Pressed [\u03b5\u03c0\u03b9\u03ba\u03b5\u03b9\u03c3\u03b8\u03b1\u03b9] . Lit., were laid upon.",
+            "He stood [\u03b1\u03c5\u03c4\u03bf\u03c2 \u03b7\u03bd \u03b5\u03c3\u03c4\u03c9\u03c2] . The pronoun distinguishes him from the crowd which pressed upon him : he on his part stood. Render the participle and finite verb as Rev., was standing.",
+            "Lake [\u03bb\u03b9\u03bc\u03bd\u03b7\u03bd] . An illustration of the more classical style of Luke as compared with Matthew and Mark. They and John also use qalassa, sea."
+        ],
+        "John Calvin": [
+            "It was no unusual thing, indeed, that fishers cast their nets, on many occasions, with little advantage: and that all their fruitless toil was afterwards recompensed by one successful throw. But it was proved to be a miracle by this circumstance...",
+            "Peter and his companions, therefore, readily conclude that a take, so far beyond the ordinary quantity, was not accidental, but was bestowed on them by a divine interposition.",
+            "Luke says, that Christ entered into a ship which belonged to Peter, and withdrew to a moderate distance from the land, that he might more conveniently address from it the multitudes, who flocked from various places to hear him; and that, after discharging the office of teaching, he exhibited a proof of his divine power by a miracle."
+        ],
+        "Philip Schaff": [
+            "Luke 5:1. The multitude. His influence was already great.",
+            "\t",
+            " The lake of Gennesaret , i.e., the Sea of Galilee (see on Matthew 4:18). Luke alone uses the former name."
+        ],
+        "Archibald T. Robertson": [
+            "\u03b5\u03c0\u03b9\u03ba\u03b5\u03b9\u03c3\u03b8\u03b1 is an old one and means to \u03bb\u03b9\u03b5 \u03c5\u03c0\u03bf\u03bd, rest upon as of a stone on the tomb (John 11:38) or of fish on the burning coals (John 21:9). So it is used of a tempest (Acts 27:20) and of the urgent demands for Christ's crucifixion (Luke 23:23). Here it vividly pictures the eager crowds around Jesus.\" ",
+            "\u0395\u03bd \u03c4\u03c9 \u03b5\u03c0\u03b9\u03ba\u03b5\u03b9\u03c3\u03b8\u03b1 is a favourite idiom with Luke as we have already seen, \u03b5\u03bd with the articular infinitive in the locative case.\" ",
+            "But that is no longer necessary, for the accusative as the case of extension is the oldest of the cases and in later Greek regains many of the earlier uses of the other cases employed for more precise distinctions. See the same idiom in verse Luke 5:2. We need not here stress the notion of extension."
+        ],
+        "John Gill": [
+            "Great crowds of people attended on him, and they followed him wherever he went; and so large were their numbers, and so very eager were they to see him, and hear him, that they were even troublesome to him, and bore hard upon him...\" (76 words)",
+            "The scriptures of the Old Testament explained, and the doctrines of the Gospel preached; and which were preached by him, as never were before or since, and in such a manner as were not by the Scribes and Pharisees...\" (47 words)",
+            "And indeed, it was a place chosen by Christ, and honoured, and made famous by him, by his preaching at it, his miracles upon it, and showing himself there after his resurrection.\" (32 words)"
+        ],
+        "John Wesley": [
+            "Matthew 4:18; Mark 1:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The crowds were pressing so hard against Jesus that they were practically laying on him, but he stood there amidst the chaos. The lake, or rather the Sea of Galilee, was a favorite idiom of Luke's, as it showed his more classical style compared to Matthew and Mark. The eager crowds vividly illustrated the meaning of pressing upon Jesus, with the word used here often implying urgency. Jesus entered Peter's boat on the lake and moved away from the land so that he could address the multitude. He taught them and then demonstrated his divine power through a miraculous catch of fish. The people were so numerous and eager to see and hear Jesus that they became troublesome and bore hard upon him.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 1.5103454714065543,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.56,
+            "commentatorTierSimilarities": [
+                29.36,
+                30.6,
+                40.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crowds pressed hard against Jesus, laying upon him as he stood. Luke's use of the word lake is a more classical style than the term sea used by the other Gospel writers. The crowds around Jesus vividly illustrated their eagerness and urgency. Jesus entered Peter's boat on the lake and moved away from the land to address the multitude. He taught them and then demonstrated his divine power through a miraculous catch of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.4137257608595564,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.35,
+            "commentatorTierSimilarities": [
+                29.35,
+                31.75,
+                38.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crowds pressed hard against Jesus, laying upon him as he stood amidst their eagerness and urgency. Jesus entered Peter's boat on the lake, moving away from the land to address the multitude. He taught them and demonstrated his divine power by miraculously catching a large amount of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.",
+            "wordCount": 68,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.3365822632284796,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.78,
+            "commentatorTierSimilarities": [
+                22.39,
+                33.61,
+                44.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crowds pressed upon Jesus, laying upon him as he stood amidst their eagerness and urgency. Jesus entered Peter's boat on the lake, moving away from the land to address the multitude. He taught them and demonstrated his divine power by miraculously catching a large amount of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.3315642329603428,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.62,
+            "commentatorTierSimilarities": [
+                22.39,
+                33.77,
+                43.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crowds pressed upon Jesus, laying upon him as he stood amidst their eagerness and urgency. Jesus entered Peter's boat on the lake, moving away from the land to address the multitude. He taught them and demonstrated his divine power by miraculously catching a large amount of fish. The people were numerous and troublesome, bearing hard upon Jesus in their fervor to see and hear him.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.3315642329603428,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.62,
+            "commentatorTierSimilarities": [
+                22.39,
+                33.77,
+                43.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

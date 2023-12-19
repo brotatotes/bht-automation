@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:28:01",
+    "verseRef": "Acts 8:4",
+    "bestBHT": {
+        "bht": "The scattering of believers due to persecution became a turning point for the spread of the gospel. These emergency preachers, motivated by their zeal and undeterred by the danger, went everywhere proclaiming the word of God. This act of preaching was not limited to ordained clergymen but embraced by all who were moved by the zeal of Saul against them. The faithfulness of these believers, even in the face of adversity, exemplifies how the blood of the martyrs becomes the seed of the church, as the Lord brings light out of darkness and life out of death.",
+        "wordCount": 97,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.91763954532457,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.1,
+        "commentatorTierSimilarities": [
+            37.7,
+            36.47,
+            25.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Preaching the word. Here first we become acquainted with the missionary language so frequent in the rest of the book.",
+            "And we have the word, an abbreviated expression very familiar among Christians when the book was written.",
+            "For the fuller one which must have prevailed at first, 'the word of God.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They that were scattered abroad went everywhere preaching\u2014Though solemnly enjoined to do this, they would probably have lingered at Jerusalem, but for this besom of persecution which swept them out.",
+            "How often has the rage of Christ's enemies thus 'turned out rather unto the furtherance of the Gospel'.",
+            "SUCCESS OF PHILIP'S PREACHING IN SAMARIA\u2014CASE OF SIMON MAGUS."
+        ],
+        "Albert Barnes": [
+            "That one of the best means to make Christians active and zealous is to persecute them.",
+            "It is right for all Christians to make known the truths of the gospel.",
+            "It should be the great object of all Christians to make the Saviour known 'everywhere'."
+        ],
+        "John Calvin": [
+            "Thus doth the Lord use to bring light out of darkness, and life out of death.",
+            "When the faithful flee from Jerusalem, they are not afterward discouraged either with exile or with their present miseries, or with any fear, that they degenerate into slothfulness.",
+            "If we desire to be counted their brethren, let us prick forward ourselves so diligently, that no fear or bitterness of cross discourage us, but that we go forward in showing forth the profession of faith."
+        ],
+        "Philip Schaff": [
+            "The blood of the martyrs is the seed of Christians.\" ",
+            "Persecution and trouble only served to make them more earnest in their Master\u2019s cause.",
+            "Wherever they went, they proclaimed the faith, and the joyful tidings concerning the Redeemer and His work."
+        ],
+        "Archibald T. Robertson": [
+            "The violent dispersion of these earnest disciples resulted in a rapid diffusion of the gospel.",
+            "They were emergency preachers, not ordained clergymen, but men stirred to activity by the zeal of Saul against them.",
+            "The blood of the martyrs (Stephen) was already becoming the seed of the church."
+        ],
+        "John Gill": [
+            "They that were scattered abroad... went every where; preaching the word.\" ",
+            "The Gospel... which was good news and glad tidings, of peace, pardon, righteousness and salvation, by Jesus Christ.\" ",
+            "The Gospel, which is the word of God, and not man; which was not of men, nor received from men, but came from God, and by the revelation of Christ."
+        ],
+        "John Wesley": [
+            "Therefore they that were dispersed went every where.\" ",
+            "These very words are reassumed, after as it were a long parenthesis.",
+            "The thread of the story continued."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers, who were forced to scatter due to persecution, seized the opportunity to carry the message of the gospel wherever they went. This act of preaching was not limited to ordained clergymen, but embraced by all who were moved by the zeal of Saul against them. The dispersion of these faithful disciples resulted in the rapid diffusion of the gospel, turning an act of persecution into an advancement of the message. Their courage and commitment to proclaim the word of God, even in the face of adversity, exemplifies the principle that the blood of the martyrs becomes the seed of the church. The faithfulness of these emergency preachers serves as a reminder that in times of darkness, the Lord brings forth light, and in times of death, He brings forth life.",
+            "wordCount": 132,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 1.8724474461700866,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                36.6,
+                37.84,
+                25.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The scattering of believers due to persecution became a turning point for the spread of the gospel. These emergency preachers, motivated by their zeal and undeterred by the danger, went everywhere proclaiming the word of God. This act of preaching was not limited to ordained clergymen but embraced by all who were moved by the zeal of Saul against them. The faithfulness of these believers, even in the face of adversity, exemplifies how the blood of the martyrs becomes the seed of the church, as the Lord brings light out of darkness and life out of death.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.91763954532457,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.1,
+            "commentatorTierSimilarities": [
+                37.7,
+                36.47,
+                25.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The scattering of believers due to persecution became a turning point for the spread of the gospel. These emergency preachers, motivated by their zeal, courageously went everywhere proclaiming the word of God. Their dispersion resulted in the rapid diffusion of the gospel, demonstrating how the blood of the martyrs becomes the seed of the church. Through this act of boldness, the Lord brought forth light out of darkness and life out of death, revealing His power to turn adversity into opportunity for the advancement of His message.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.8817512732883903,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                38.49,
+                37.74,
+                23.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The scattering of believers due to persecution led to a significant shift in the spread of the gospel. These emergency preachers, moved by their zeal and undeterred by danger, fearlessly proclaimed the word of God everywhere they went. Their dispersion resulted in the rapid diffusion of the gospel, underscoring how the blood of the martyrs became the seed of the church. Through their unwavering commitment amidst adversity, the Lord demonstrated His ability to bring light out of darkness and life out of death.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.7854281773535248,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.71,
+            "commentatorTierSimilarities": [
+                37.44,
+                35.85,
+                26.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The scattering of believers due to persecution brought about a remarkable turn of events in the propagation of the gospel. These ardent emergency preachers, driven by their zeal, fearlessly proclaimed the word of God wherever they found themselves. Their dispersion led to the swift dissemination of the gospel, as the blood of the martyrs served as the catalyst for the growth of the church. In the face of adversity, the Lord demonstrated His power to transform darkness into light and death into life.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7785012921603016,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+            "commentatorTierSimilarities": [
+                37.14,
+                37.64,
+                25.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

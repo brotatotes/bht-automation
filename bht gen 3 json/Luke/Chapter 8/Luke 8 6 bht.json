@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:16:24",
+    "verseRef": "Luke 8:6",
+    "bestBHT": {
+        "bht": "The seed in this account quickly sprung up like body juices, plants, and the earth, only to wither away and dry up completely. This vivid imagery may represent hearers whose hearts are hardened by sin and lack genuine understanding. These individuals possess only superficial knowledge and are unable to endure trials without the enabling grace of God.",
+        "wordCount": 57,
+        "quoteTokenProportion": 29.79,
+        "qualityScore": 1.0793041609734972,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.23,
+        "commentatorTierSimilarities": [
+            31.71,
+            0.0,
+            68.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Sprung up is Matthew's ejxaneteilen. Only here and Hebrews 12:15, where it is a quotation from the Septuagint.",
+            "The word is the medical expression for juices of the body, of plants, and of the earth.",
+            "Hippocrates uses this and the preceding word together, comparing the juices of the body with those of the earth."
+        ],
+        "Archibald T. Robertson": [
+            "As soon as it grew (\u03c6\u03c5\u03b5\u03bd). Second aorist passive participle of \u03c6\u03c5\u03c9, an old verb to spring up like a sprout.",
+            "Withered away (\u03b5\u03be\u03b7\u03c1\u03b1\u03bd\u03b8\u03b7). First aorist passive indicative of \u03b6\u03b7\u03c1\u03b1\u03b9\u03bd\u03c9, old verb, to dry up.",
+            "Moisture (\u03b9\u03ba\u03bc\u03b1\u03b4\u03b1). Here only in the N.T., though common word."
+        ],
+        "John Gill": [
+            "by which are meant such hearers whose hearts are, hardened through the deceitfulness of sin, and continue so notwithstanding the preaching of the word unto them.",
+            "these hearers had only a superficial knowledge of the word, and hastily made a profession of it, which soon came to nothing",
+            "the grace of God being wanting to support under fiery trials"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The seed in this verse is described as having sprung up and subsequently withered away. The phrase sprung up is a medical term used to describe the juices of the body, plants, and the earth. It is compared to the sprouting of a plant. The term withered away denotes the drying up of the seed. The commentary suggests that this refers to hearers whose hearts are hardened by sin and continue in their hardness, lacking genuine understanding and grace. Ultimately, their superficial knowledge and lack of God's grace renders them unable to withstand trials.",
+            "wordCount": 95,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.2406929979292667,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.6,
+            "commentatorTierSimilarities": [
+                52.27,
+                0.0,
+                47.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The seed in this passage is described as having sprung up and later withered away. This sprung up is compared to the juices of the body, plants, and the earth, while withered away signifies drying up. This imagery may represent hearers whose hearts are hardened by sin, lacking true understanding and grace. They have only surface-level knowledge and are unable to withstand trials without the support of God's grace.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.2757427890445747,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.76,
+            "commentatorTierSimilarities": [
+                42.32,
+                0.0,
+                57.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The seed quickly sprung up like a sprout, similar to the growth of body juices, plants, and the earth. However, it soon withered away and dried up. This may symbolize those who hear the word of God but lack genuine understanding, having only a superficial knowledge. Their hearts, hardened by sin, are unable to withstand difficulties without the grace of God.",
+            "wordCount": 61,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 0.968285318429152,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.54,
+            "commentatorTierSimilarities": [
+                39.26,
+                0.0,
+                60.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The seed in this account sprung up like the juices of the body, plants, and the earth. It soon withered away and dried up completely. This imagery may point to hearers whose hearts are hardened by sin, lacking authentic comprehension. These individuals possess only superficial knowledge and are unable to withstand trials without the support of God's grace.",
+            "wordCount": 59,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.0569509279323874,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.49,
+            "commentatorTierSimilarities": [
+                38.16,
+                0.0,
+                61.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The seed in this account quickly sprung up like body juices, plants, and the earth, only to wither away and dry up completely. This vivid imagery may represent hearers whose hearts are hardened by sin and lack genuine understanding. These individuals possess only superficial knowledge and are unable to endure trials without the enabling grace of God.",
+            "wordCount": 57,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 1.0793041609734972,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.23,
+            "commentatorTierSimilarities": [
+                31.71,
+                0.0,
+                68.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

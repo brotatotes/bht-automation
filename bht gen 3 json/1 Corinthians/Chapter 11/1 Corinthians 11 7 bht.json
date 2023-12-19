@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 15:11:57",
+    "verseRef": "1 Corinthians 11:7",
+    "bestBHT": {
+        "bht": "Man is God's glory, representing Him on earth, while woman shines with light derived from man. The woman, being created in Adam, is as truly the image and glory of God as the man. The Apostle focuses on man's representation of God's authority, which is why man should approach God with his head uncovered. The woman, on the other hand, veils her head as a symbol of her subjection to her husband. Both man and woman reflect the moral likeness of God, fulfilling their unique roles as designed by Him.",
+        "wordCount": 93,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.565395262219334,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.64,
+        "commentatorTierSimilarities": [
+            33.55,
+            31.67,
+            34.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is obviously the point here brought out, as in Ps. viii. 6; not that he is set to shew forth God\u2019s glory, because God glories in him.",
+            "Man is God\u2019s glory: He has put in him His Majesty, and he represents God on earth: woman is man\u2019s glory: taken (ver. 8) from the man, shining not with light direct from God, but with light derived from man.",
+            "The Apostle omits in this case the image, because anthropologically the woman is not the image of the man, on account of the difference of the sexes: and also perhaps because thus he would seem to deny to the woman the being created in the divine image, which she is as well as the man, Gen. i. 26, 27."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Man is declared in Scripture to be both the 'image,' and in the 'likeness,' of God. But 'image' alone is applied to the Son of God.",
+            "The Divine Son is not merely 'like' God, He is God of God, 'being of one substance (essence) with the Father.'",
+            "But as the moon in relation to the sun, so woman shines not so much with light direct from God, as with light derived from man, that is, in her order in creation."
+        ],
+        "Albert Barnes": [
+            "For a man indeed ought not to cover his head... when he approaches God, or when in His name he addresses his fellow man.\" ",
+            "If he wore a veil or turban, it would be a mark of servitude or inferiority. It was therefore improper that he should appear in this manner.\" ",
+            "All her comeliness, loveliness, and purity are therefore an expression of his honor and dignity, since all that comeliness and loveliness were made of him and for him."
+        ],
+        "Marvin Vincent": [
+            "Man represents God's authority by his position as the ruler of the woman.\" ",
+            " ",
+            "In the case of the woman, the word image is omitted, although she, like the man, is the image of God.\" ",
+            "Paul is expounding the relation of the woman, not to God, but to man."
+        ],
+        "John Calvin": [
+            "The man ought not to cover his head, because he is the image...of the distinction, which God has conferred upon the man, so as to have superiority over the woman.\" ",
+            "The woman is a distinguished ornament of the man; for it is a great honor that God has appointed her to the man as the partner of his life, and a helper to him...showing that the woman was created for this purpose \u2014 that she might be a distinguished ornament of the man.\" ",
+            "For what Solomon affirms as to a careful wife \u2014 that she is a crown to her husband...is true of the whole sex, if we look to the appointment of God."
+        ],
+        "Philip Schaff": [
+            "The woman, as an essential portion of humanity, created in Adam, being as truly 'the image and glory of God' as the man.\" ",
+            "The man, as the image and glory of God, in having dominion over sublunary things, ought not to have his head his noblest and most godlike feature covered in the public assemblies of the Church.",
+            "The veil being viewed as the symbol of her subjection to her husband."
+        ],
+        "Archibald T. Robertson": [
+            "It is the moral likeness of God, not any bodily resemblance.",
+            "Man is the glory of God as the crown of creation and as endowed with sovereignty like God himself.",
+            "On the other hand, it is equally logical to argue that woman is the crown and climax of all creation, being the last."
+        ],
+        "John Gill": [
+            "man ought to worship him with his head uncovered, where this image and glory of God is most illustriously displayed",
+            "man was first originally and immediately the image and glory of God, the woman only secondarily and mediately through man",
+            "The man is more perfectly and conspicuously the image and glory of God, on account of his more extensive dominion and authority"
+        ],
+        "John Wesley": [
+            "A man indeed ought not to veil his head, because he is the image of God - In the dominion he bears over the creation, representing the supreme dominion of God, which is his glory.",
+            "But the woman is only matter of glory to the man, who has a becoming dominion over her.",
+            "Therefore she ought not to appear, but with her head veiled, as a tacit acknowledgment of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Man is God's glory, representing Him on earth, while woman shines with light derived from man. The Apostle acknowledges that both man and woman are the image of God, but focuses on man's representation of God's authority. Woman, however, is the crown and climax of creation. It is important for man to approach God with his head uncovered to display the image and glory of God, while the woman veils her head as a symbol of her subjection to her husband. Overall, man and woman both reflect the moral likeness of God, each fulfilling their unique roles in accordance with God's design.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.4435244179147055,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.59,
+            "commentatorTierSimilarities": [
+                35.56,
+                28.83,
+                35.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Man is the glory of God, representing Him on earth, while woman shines with light derived from man. The woman, being created in Adam, is as truly the image and glory of God as the man. The Apostle focuses on man's representation of God's authority, which is why man should approach God with his head uncovered. On the other hand, the woman veils her head as a symbol of her subjection to her husband. Both man and woman reflect the moral likeness of God, each fulfilling their unique roles as designed by God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.5482036820157994,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.07,
+            "commentatorTierSimilarities": [
+                33.78,
+                31.43,
+                34.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Man is God's glory, representing Him on earth, while woman shines with light derived from man. The woman, being created in Adam, is as truly the image and glory of God as the man. The Apostle focuses on man's representation of God's authority, which is why man should approach God with his head uncovered. On the other hand, the woman veils her head as a symbol of her subjection to her husband. Both reflect the moral likeness of God, fulfilling their roles according to His design.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.502298218145129,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.54,
+            "commentatorTierSimilarities": [
+                33.87,
+                31.54,
+                34.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Man is God's glory, representing Him on earth, while woman shines with light derived from man. The woman, being created in Adam, is as truly the image and glory of God as the man. The Apostle focuses on man's representation of God's authority, which is why man should approach God with his head uncovered. The woman, on the other hand, veils her head as a symbol of her subjection to her husband. Both man and woman reflect the moral likeness of God, fulfilling their unique roles as designed by Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.565395262219334,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.64,
+            "commentatorTierSimilarities": [
+                33.55,
+                31.67,
+                34.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Man represents God's glory on earth, while woman shines with light derived from man. Although both man and woman are the image of God, the Apostle focuses on man's representation of God's authority. This is why man should approach God with his head uncovered. On the other hand, the woman veils her head as a symbol of her subjection to her husband. Both man and woman reflect the moral likeness of God, fulfilling their unique roles according to His design.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.4568512003142278,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.03,
+            "commentatorTierSimilarities": [
+                34.22,
+                30.78,
+                35.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

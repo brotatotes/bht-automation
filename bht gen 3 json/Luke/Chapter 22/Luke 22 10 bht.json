@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:22:46",
+    "verseRef": "Luke 22:10",
+    "bestBHT": {
+        "bht": "Jesus, with super-human foresight, gives his disciples a specific instruction by telling them to look for a man carrying a water pitcher when they enter the city. This person would most likely be a slave, and the timing of the instruction indicates that it was the usual hour for fetching water in the evening. Jesus's detailed direction becomes a test of the disciples' faith and obedience, while also demonstrating his omniscience and deity. This sign guides them to the precise house where they will observe the Passover.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.370909217784602,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.93,
+        "commentatorTierSimilarities": [
+            28.17,
+            0.0,
+            71.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There can, I think, be no question that this direction was given in super-human foresight.",
+            "This person carrying water would probably be a slave.",
+            "The time, towards evening, the usual hour of fetching in water."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10-13. when ye are entered the",
+            "\tcity\u2014He Himself probably stayed at Bethany during the day. ",
+            "\t",
+            "there shall a man,",
+            "\t&amp;c.\u2014(See on Luke 22:1)."
+        ],
+        "Marvin Vincent": [
+            "A man - pitcher. See on Mark 14:13."
+        ],
+        "Archibald T. Robertson": [
+            "When you are entered (\u03b5\u03b9\u03c3\u03b5\u03bb\u03b8\u03bf\u03bd\u03c4\u03c9\u03bd \u03c5\u03bc\u03c9\u03bd). Genitive absolute.",
+            "Meet you (\u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03b7\u03c3\u03b5 \u03c5\u03bc\u03b9\u03bd). An old verb \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03b1\u03c9 (from \u03c3\u03c5\u03bd, with, and \u03b1\u03bd\u03c4\u03b1\u03c9, to face, \u03b1\u03bd\u03c4) with associative instrumental (\u03c5\u03bc\u03b9\u03bd).",
+            "See on Mark 14:13 about the 'man bearing a pitcher of water.'"
+        ],
+        "John Gill": [
+            "Giving them a sign, whereby they should know the very house, where he would keep the passover.",
+            "This was a trial of the faith and obedience of the disciples.",
+            "A proof of the omniscience and deity of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 22:10, Jesus gives his disciples a specific instruction - when they enter the city, they will encounter a man carrying a pitcher of water, which would have been an unusual sight as it was generally done by slaves. This specific detail was given with divine foresight, proving Jesus' omniscience and deity. The time of day, towards evening, was the usual hour for fetching water. This instruction was a trial of the faith and obedience of the disciples, as they had to trust Jesus' guidance. It was also a sign to help them find the exact house where they would keep the Passover.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.3429571079300258,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.0,
+            "commentatorTierSimilarities": [
+                26.06,
+                0.0,
+                73.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Jesus gives his disciples a specific instructions using super-human foresight. He tells them to look for a man carrying a water pitcher, most likely a slave, upon entering the city. This detail is given to help them locate the house where they will keep the Passover. By providing such specific guidance, Jesus demonstrates his omniscience and deity. It becomes a test of the disciples' faith and obedience to follow this instruction and trust in Jesus' divine knowledge.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.286180668700847,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.11,
+            "commentatorTierSimilarities": [
+                23.94,
+                0.0,
+                76.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, Jesus displays his divine knowledge by giving his disciples a instruction that was guided by super-human foresight. He directs them to look for a man carrying a water pitcher, likely a slave, as a sign for them to find the place where they will keep the Passover. This specific detail serves as a test of the disciples' faith and obedience, while also affirming the omniscience and deity of Jesus. It is a remarkable example of how Jesus provided precise guidance to his followers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.361401893113348,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+            "commentatorTierSimilarities": [
+                24.57,
+                0.0,
+                75.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus displays his divine knowledge by giving his disciples a specific instruction that was guided by super-human foresight. He instructs them to look for a man carrying a water pitcher, likely a slave, when they enter the city. By providing such a specific detail, Jesus is testing the disciples' faith and obedience and showing his omniscience and deity. This unique sign serves as a clear guidance for the disciples to find the location where they will keep the Passover, highlighting Jesus' remarkable ability to provide precise directions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.3060534905375083,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.77,
+            "commentatorTierSimilarities": [
+                24.06,
+                0.0,
+                75.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, with super-human foresight, gives his disciples a specific instruction by telling them to look for a man carrying a water pitcher when they enter the city. This person would most likely be a slave, and the timing of the instruction indicates that it was the usual hour for fetching water in the evening. Jesus's detailed direction becomes a test of the disciples' faith and obedience, while also demonstrating his omniscience and deity. This sign guides them to the precise house where they will observe the Passover.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.370909217784602,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.93,
+            "commentatorTierSimilarities": [
+                28.17,
+                0.0,
+                71.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

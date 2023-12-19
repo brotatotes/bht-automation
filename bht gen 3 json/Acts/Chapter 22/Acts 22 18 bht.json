@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:35:15",
+    "verseRef": "Acts 22:18",
+    "bestBHT": {
+        "bht": "Can it be, Lord, that they will resist the testimony of one whom they knew so well? The apostle, having witnessed the animosity against believers in Jerusalem, was urgently directed to leave. Despite his past persecutions, the Christians in Jerusalem would likely be suspicious of him, regarding him as an apostate or a spy. Thus, he was instructed to swiftly preach among the Gentiles, where his testimony would not be resisted.",
+        "wordCount": 71,
+        "quoteTokenProportion": 52.73,
+        "qualityScore": 1.9395303381615179,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+        "commentatorTierSimilarities": [
+            37.93,
+            33.88,
+            28.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Can it be, Lord, that they will resist the testimony of one whom they knew so well as among the bitterest of all against Thy disciples, and whom nothing short of resistless evidence could have turned to Thee?",
+            "Can it be, Lord, that they will resist the testimony of one whom they knew so well?",
+            "Can it be, Lord, that they will resist the testimony?"
+        ],
+        "Albert Barnes": [
+            "And saw him - Evidently, the Lord Jesus, Acts 22:14.",
+            "He had received his commission from him, and he now received a distinct command to go to the Gentiles.",
+            "The Christians would not be likely to receive him, for they would remember his former persecutions, and would be suspicious of him because he had been so long in Arabia, and had not sooner connected himself with them."
+        ],
+        "John Calvin": [
+            "Though the commandment of God alone ought to be sufficient enough to bind us to obey...",
+            "...that all the preachers of the gospel might learn to give over themselves wholly to obey Christ...",
+            "...that they may not be discouraged, nor cease off from doing their duty, though they be undeservedly loathed."
+        ],
+        "Philip Schaff": [
+            "\u2018They\u2019 included both the Jews still strangers to the new covenant, and also the Jewish Christians of the Holy City.",
+            "By the former he was hated as an apostate; by the latter he was viewed probably as a spy, and as no real Christian.",
+            "Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me."
+        ],
+        "Archibald T. Robertson": [
+            "The first visit after his conversion when they tried to kill him in Jerusalem.",
+            "Because, for that."
+        ],
+        "John Gill": [
+            "Make haste, and get thee quickly out of Jerusalem: not because his life was in danger, but because Christ had work for him to do elsewhere, which required haste; and that he might not continue here useless and unprofitable, as he would have been, had he staid.",
+            "Christ the omniscient God, and the searcher of the hearts, knew the hardness and unbelief of the Jews; and that they would continue therein, notwithstanding the ministry of the apostle; and that they would give no credit to any testimony of his, that he saw him, as he went to Damascus, and heard words from his mouth.",
+            "The Ethiopic version renders it without the negative, 'for they will receive thee, my witness concerning me'; as if Christ sent the apostle away in all haste from Jerusalem, lest he preaching there, the Jews should believe and be healed."
+        ],
+        "John Wesley": [
+            "Depart quickly out of Jerusalem - Because of the snares laid for thee.\" ",
+            "And in order to preach where they will hear."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Can it be, Lord, that they will resist the testimony of one whom they knew so well as among the bitterest of all against Thy disciples? The apostle, having a deep understanding of the disbelief and enmity towards the Christian faith in Jerusalem, was commanded to leave swiftly in order to avoid any harm and to fulfill his greater purpose among the Gentiles. Despite his former persecutions, the Christians would likely be suspicious of him, viewing him as an apostate or a spy, making it essential for him to quickly depart and preach where his testimony would be received.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.9737676715805224,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                35.59,
+                35.31,
+                29.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Can it be, Lord, that they will resist the testimony of one whom they knew so well? The apostle, having experienced the bitter hostility of the Jews towards the Christian disciples in Jerusalem, was commanded by the Lord to swiftly depart. Despite his past persecutions, the Christians in Jerusalem would likely be suspicious of him and may not receive his testimony. Therefore, he was instructed to go quickly and preach among the Gentiles, where his message would be accepted.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.936134627631037,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.72,
+            "commentatorTierSimilarities": [
+                35.98,
+                35.37,
+                28.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Can it be, Lord, that they will resist the testimony of one whom they knew so well as among the bitterest of all against Thy disciples? The apostle, well-acquainted with the disbelief and enmity in Jerusalem, was commanded to swiftly depart to fulfill his greater purpose among the Gentiles. Despite his former persecutions, the Christians in Jerusalem would likely be suspicious of him, viewing him as an apostate or a spy. Therefore, he was instructed to quickly preach elsewhere, where his testimony would be received without resistance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.8631456807040063,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.29,
+            "commentatorTierSimilarities": [
+                33.0,
+                36.57,
+                30.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Can it be, Lord, that they will resist the testimony of one whom they knew so well? The apostle, having witnessed the animosity against believers in Jerusalem, was urgently directed to leave. Despite his past persecutions, the Christians in Jerusalem would likely be suspicious of him, regarding him as an apostate or a spy. Thus, he was instructed to swiftly preach among the Gentiles, where his testimony would not be resisted.",
+            "wordCount": 71,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.9395303381615179,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                37.93,
+                33.88,
+                28.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Can it be, Lord, that they will resist the testimony of one whom they knew so well, the bitterest of all against Your disciples; and whom nothing short of resistless evidence could have turned to You? The Lord saw him, commissioning him to go to the Gentiles, for the Christians in Jerusalem would not likely receive him due to his past persecutions. They included both the Jews as strangers to the new covenant and the Jewish Christians of Jerusalem. Thus, Christ urged him to make haste and quickly depart from Jerusalem so that he may preach where they will hear.",
+            "wordCount": 100,
+            "quoteTokenProportion": 53.62,
+            "qualityScore": 1.9332033554660546,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.62,
+            "commentatorTierSimilarities": [
+                31.9,
+                37.12,
+                30.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

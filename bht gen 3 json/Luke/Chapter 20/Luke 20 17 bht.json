@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:22:11",
+    "verseRef": "Luke 20:17",
+    "bestBHT": {
+        "bht": "How could this prophecy be fulfilled if your wish to reject the cornerstone is granted? The Kingdom of God is like a Temple, and the stone that you reject will become the keystone that holds everything together. The builders, the spiritual leaders, are already being hurt by this stone, but soon it will fall upon them and bring destruction. This scripture, from Psalms 118:22, is a piercing glance into their future. It is as if Jesus beheld them, knowing that they would reject him and bring ruin upon themselves.",
+        "wordCount": 88,
+        "quoteTokenProportion": 53.12,
+        "qualityScore": 1.735289295979849,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.04,
+        "commentatorTierSimilarities": [
+            34.12,
+            22.93,
+            42.96
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] The then infers the negation of Let it not be\u2014 \u2018How then, supposing your wish to be fulfilled, could this which is written come to pass?\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Kingdom of God is here a Temple, in the erection of which a certain stone, rejected as unsuitable by the spiritual builders, is, by the great Lord of the House, made the keystone of the whole.",
+            "On that Stone the builders were now 'falling' and being 'broken'\u2014sustaining great spiritual hurt.",
+            "Soon that Stone should fall upon them and grind them to powder\u2014in their corporate capacity in the tremendous destruction of Jerusalem, but personally, as unbelievers, in a more awful sense still."
+        ],
+        "Marvin Vincent": [
+            "The stone, etc. See on 1 Peter 2:4-7."
+        ],
+        "Philip Schaff": [
+            "Luke 20:17. What then is this that is written, i.e., granting that your deprecation is right; that these things would not be, how then could this Scripture be fulfilled.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "He looked upon them... It was a piercing glance.\" ",
+            "The scripture quoted is from Psalms 118:22.\" ",
+            "See for the inverted attraction of the case \u03bb\u03b9\u03b8\u03bf\u03bd (stone) to that of the relative \u03bf\u03bd (which)."
+        ],
+        "John Gill": [
+            "And he beheld them... that verily so it would be, as he had said; that they would reject the Messiah, and put him to death, and bring utter ruin upon themselves...\" ",
+            "What is this then that is written... is not the sense of that perfectly agreeable to what has been said, that the Messiah shall be rejected by the principal men among the Jews in church and state, and yet he shall be exalted, who will then take vengeance on them?",
+            "The stone which the builders rejected, the same is become the head of the corner?"
+        ],
+        "John Wesley": [
+            "He looked on them \u2014 To sharpen their attention. Psalm 118:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "How could this prophecy be fulfilled if your wish to reject the cornerstone is granted? The Kingdom of God is like a Temple, and the stone that you reject will become the keystone that holds everything together. The builders, the spiritual leaders, are already being hurt by this stone, but soon it will fall upon them and bring destruction. This scripture, from Psalms 118:22, is a piercing glance into their future. It is as if Jesus beheld them, knowing that they would reject him and bring ruin upon themselves.",
+            "wordCount": 88,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 1.735289295979849,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.04,
+            "commentatorTierSimilarities": [
+                34.12,
+                22.93,
+                42.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "How could this prophecy be fulfilled if your wish is granted? The Kingdom of God is like a Temple, and the stone that you reject will become the keystone that holds everything together. The builders, the spiritual leaders, are already being hurt by this stone, but soon it will fall upon them and bring destruction. This scripture is a piercing glance into their future. It is as if Jesus beheld them, knowing that they would reject him and bring ruin upon themselves.",
+            "wordCount": 82,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 1.6601796487994593,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.54,
+            "commentatorTierSimilarities": [
+                34.76,
+                24.32,
+                40.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "How could this prophecy be fulfilled if your wish is granted? The rejected stone becomes the cornerstone that holds everything together. The spiritual leaders are already being hurt by this stone, but soon it will fall upon them and bring destruction. It is as if Jesus beheld them, knowing that they would reject him and bring ruin upon themselves.",
+            "wordCount": 59,
+            "quoteTokenProportion": 57.45,
+            "qualityScore": 1.6532835192752606,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+            "commentatorTierSimilarities": [
+                36.65,
+                23.11,
+                40.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse in Luke 20:17 refers to the rejection of a certain stone by the spiritual builders, which eventually becomes the keystone of the whole temple of the Kingdom of God. The builders were initially falling and being broken, experiencing great spiritual hurt. However, soon that stone would fall upon them and grind them to powder, resulting in their destruction in both a corporate and personal sense. Jesus looked upon them with a piercing glance, referencing the Scripture from Psalms 118:22. The Scripture's fulfillment would necessitate the rejection of the Messiah by the Jewish leaders in church and state, leading to their downfall and the exaltation of the Messiah.",
+            "wordCount": 108,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.594703784421616,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                36.24,
+                19.88,
+                43.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rejection of a certain stone by the spiritual builders represents the negation of their wishes, as it becomes the keystone of the temple in the Kingdom of God. This rejection causes the builders to fall and be broken, inflicting spiritual harm upon themselves. Eventually, the stone will bring about their utter destruction. Jesus, aware of this, looks at them sharply, alluding to the Scripture that speaks of the stone being rejected. The fulfillment of this Scripture requires the Messiah's rejection and subsequent vengeance upon those who rejected him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7481934489866382,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                37.14,
+                20.73,
+                42.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

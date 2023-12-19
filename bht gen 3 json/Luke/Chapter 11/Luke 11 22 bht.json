@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:18:16",
+    "verseRef": "Luke 11:22",
+    "bestBHT": {
+        "bht": "Christ holds a glorious title in relation to Satan as he has gained the victory and regained his lost power by taking away Satan's armor, his tempting arsenal. Neutrality in religion is nonexistent, as the absence of attachment to Christ involves hostility to him. Through his triumph over Satan's cunning tactics, Christ has spoiled Satan's domain, the hearts and souls of humanity, liberating them from his dominion. He has given his people the power to resist and overcome, triumphing over the enemy in the wilderness, on the cross, and in conversion.",
+        "wordCount": 94,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.6864105120402257,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+        "commentatorTierSimilarities": [
+            39.31,
+            0.0,
+            60.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Glorious title, in relation to Satan!",
+            "Vain would be the victory, were not the means of regaining his lost power wrested from him.",
+            "Neutrality in religion there is none. The absence of positive attachment to Christ involves hostility to Him."
+        ],
+        "Marvin Vincent": [
+            "All his armor. Wrong; for the armor is regarded as a whole - the panoply - which is a transcript of this word.",
+            "Rightly, Rev., his whole armor.",
+            "Tynd., his harness."
+        ],
+        "Archibald T. Robertson": [
+            "Aorist tense here because a single onset while in verse Luke 11:22 the guarding (\u03c6\u03c5\u03bb\u03b1\u03c3\u03c3\u03b7, present active subjunctive) is continuous.\" ",
+            "An old and common word for all the soldier's outfit (shield, sword, lance, helmet, greaves, breastplate).",
+            "He trusted his weapons which had been so efficacious."
+        ],
+        "John Gill": [
+            "He overcame him in the wilderness, and obliged him to retreat; and on the cross, when he obtained a complete victory over him, destroyed him, his principalities and powers, and all his works, and led him captive; and in conversion, so as to deliver his people from him, that were led captive by him, as that he can never regain his dominion over them more.",
+            "He taketh from him all his armour, wherein he trusted; as his temptations, which he himself repelled in the wilderness, and wrenched out of his hands, and made them useless, and he gives power to his people to resist them, and succours them under them, and delivers them out of them.",
+            "He spoils his house, the heart of man, from being any longer a palace for him, and his goods, his mind and conscience, which are enlightened and awakened, and purged; or by his spoils are meant, the souls of men; which are taken as a prey out of his hands, and become trophies of victorious grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Glorious is the title given to Christ in relation to Satan, for he has gained the victory and regained his lost power. There is no neutrality in religion; one is either attached to Christ or hostile to him. Luke 11:22 speaks of Satan's armor, his whole arsenal of temptations, which Christ has taken away and rendered useless. Through his victory, he has spoiled Satan's house, the hearts and souls of men, and delivered them from his dominion. In the wilderness, on the cross, and in conversion, Jesus has triumphed over the enemy and given power to his people to resist and overcome.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.6137460745321803,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.0,
+            "commentatorTierSimilarities": [
+                37.05,
+                0.0,
+                62.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In relation to Satan, Christ holds a glorious title, having gained the victory and regaining lost power. Neutrality in religion is non-existent, as one is either attached to Christ or hostile towards Him. Luke 11:22 speaks of Satan's armor, his tempting arsenal, all of which Christ has taken away and made ineffective. Through His victory, Christ has spoiled Satan's domain, the hearts and souls of men, freeing them from his dominion. Jesus has triumphed over the enemy in the wilderness, on the cross, and in conversion, granting his people the power to resist and conquer.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.6172672635668763,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "commentatorTierSimilarities": [
+                39.85,
+                0.0,
+                60.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ holds a glorious title in relation to Satan as he has gained the victory and regained his lost power by taking away Satan's armor, his tempting arsenal. Neutrality in religion is nonexistent, as the absence of attachment to Christ involves hostility to him. Through his triumph over Satan's cunning tactics, Christ has spoiled Satan's domain, the hearts and souls of humanity, liberating them from his dominion. He has given his people the power to resist and overcome, triumphing over the enemy in the wilderness, on the cross, and in conversion.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.6864105120402257,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                39.31,
+                0.0,
+                60.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In relation to Satan, Christ holds a glorious title, having regained his lost power and triumphed over him. The absence of attachment to Christ involves hostility towards him, leaving no room for neutrality in religion. Christ has taken away Satan's armor, rendering it useless, and has spoiled Satan's domain, freeing the hearts and souls of humanity from his dominion. He grants his people the power to resist and overcome, triumphing over the enemy in the wilderness, on the cross, and in conversion.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.6195742740780004,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+            "commentatorTierSimilarities": [
+                37.4,
+                0.0,
+                62.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ holds a glorious title in relation to Satan, as he has regained his lost power and triumphed over him. Neutrality in religion is nonexistent; one is either attached to Christ or hostile towards him. Christ has taken away Satan's armor, rendering it useless, and has spoiled Satan's domain, freeing the hearts and souls of humanity from his dominion. Through his victory, Christ empowers his people to resist and overcome, triumphing over the enemy in various forms such as the wilderness, the cross, and conversion.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6524292326897219,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.29,
+            "commentatorTierSimilarities": [
+                38.47,
+                0.0,
+                61.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

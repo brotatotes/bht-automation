@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:31:39",
+    "verseRef": "Ephesians 3:14",
+    "bestBHT": {
+        "bht": "For this cause, because you are so built in and have such a standing in God's Church, I bow my knees towards the Father, not in a physical act but in earnest prayer. The posture affects the mind and is not unimportant, as seen in the practice of Paul and even the Lord Himself on earth. The foundation of sonship rests in Jesus Christ, the gateway to the Father. Thus, pastors, like Paul, should diligently entreat the Lord to bless their labors, looking up for Divine aid. Kneeling expresses reverence, humility, and submission in prayer, recognizing God as the Father of Christ, the only way to approach Him.",
+        "wordCount": 109,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.0319508803008683,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+        "commentatorTierSimilarities": [
+            29.41,
+            32.05,
+            38.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For this cause I bend my knees towards the Father.",
+            "Because you are so built in, have such a standing in God's Church.",
+            "In prayer: see reff.; and compare 1 Kings xix. 18."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Posture affects the mind, and is not therefore unimportant.",
+            "See Paul's practice; and that of the Lord Himself on earth.",
+            "Still the foundation of all sonship is in Jesus Christ."
+        ],
+        "Albert Barnes": [
+            "For this cause, I bow my knees - I pray. The usual, and the proper posture of prayer is to kneel... It has been an unhappy thing that the custom of kneeling in public worship has ever been departed from in the Christian churches.",
+            "Unto the Father of our Lord Jesus Christ - To whom, undoubtedly, prayer should ordinarily be addressed.",
+            "But this does not make it improper to address the Lord Jesus in prayer."
+        ],
+        "Marvin Vincent": [
+            "For this cause. Resuming the interrupted clause in ver. 1, and having still in mind the closing thought of ch. 2. Seeing ye are so built together in Christ, for this cause, etc.",
+            "Father. Omit of our Lord Jesus Christ."
+        ],
+        "John Calvin": [
+            "Let pastors learn from Paul\u2019s example, not only to admonish and exhort their people, but to entreat the Lord to bless their labors, that they may not be unfruitful.",
+            "The only effect of the enlightening and renewing influences of the Holy Spirit is, to give to instruction its proper weight and efficacy, that we may not be blind to the light of heaven, or deaf to the strains of truth.",
+            "It is therefore the duty of pastors diligently to teach, \u2014 of the people, earnestly to receive instruction, \u2014 and of both, not to weary themselves in unprofitable exertions, but to look up for Divine aid."
+        ],
+        "Philip Schaff": [
+            "I bow my knees.",
+            "The reference is not to the actual bending of the knees, but to his earnest prayer.",
+            "The grand thought of the passage is obscured by the insertion."
+        ],
+        "Archibald T. Robertson": [
+            "He now prays whether he had at first intended to do so at Ephesians 3:1 or not.",
+            "This was a common attitude in prayer (Luke 22:41; Acts 7:40; Acts 20:36; Acts 21:5), though standing is also frequent.",
+            "But this is not necessary."
+        ],
+        "John Gill": [
+            "Mere postures and gestures are insignificant things with God; though where the mind is affected, the body will be moved; and this gesture may be expressive of reverence, humility, and submission in prayer.",
+            "God is the Father of Christ, not by creation, nor adoption, but by generation, being the only begotten of the Father; and as such he is rightly prayed to.",
+            "There is no other way of coming to [God] but by Christ; and all spiritual blessings come though Christ, and from God, as the Father of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For this cause, because you are so built in and have such a standing in God's Church, I bow my knees towards the Father, not necessarily in a physical act but in earnest prayer. The posture affects the mind and is not unimportant, as seen in the practice of Paul and even the Lord Himself on earth. The foundation of all sonship lies in Jesus Christ, for He is the gateway to the Father. Thus, pastors should learn from Paul's example and diligently entreat the Lord to bless their labors, for only through the enlightening and renewing influences of the Holy Spirit can instruction have its proper weight and efficacy. It is the duty of pastors to teach and of the people to receive instruction, looking up for Divine aid. Though mere postures and gestures are insignificant to God, this gesture of kneeling may be expressive of reverence, humility, and submission in prayer. After all, God is the Father of Christ, and there is no other way to come to Him except through Christ, for all spiritual blessings come through Christ from God, as the Father of Christ.",
+            "wordCount": 190,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.9304070671601847,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.53,
+            "commentatorTierSimilarities": [
+                26.35,
+                27.44,
+                46.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For this cause, because you are so built in and have such a standing in God's Church, I bow my knees towards the Father, not in a physical act but in earnest prayer. The posture affects the mind and is not unimportant, as seen in the practice of Paul and even the Lord Himself on earth. The foundation of all sonship lies in Jesus Christ, for He is the gateway to the Father. Thus, pastors, like Paul, should entreat the Lord to bless their labors, diligently teaching and admonishing their people, looking up for Divine aid. Though postures and gestures are insignificant, this act of kneeling may be expressive of reverence, humility, and submission in prayer, acknowledging that God is the Father of Christ, the only way to approach Him.",
+            "wordCount": 131,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.0186772818647047,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.46,
+            "commentatorTierSimilarities": [
+                28.44,
+                30.34,
+                41.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For this cause, because you are so built in and have such standing in God's Church, I bow my knees towards the Father, not in a physical act, but in earnest prayer. Posture affects the mind and is not unimportant, as evidenced by Paul and even the Lord Himself on earth. The foundation of sonship rests in Jesus Christ, the gateway to the Father. Thus, pastors like Paul should teach and entreat the Lord to bless their labors, looking up for Divine aid. Kneeling, though insignificant to God, may express reverence, humility, and submission in prayer, recognizing God as the Father of Christ, the only way to approach Him.",
+            "wordCount": 110,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.022605363287542,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+            "commentatorTierSimilarities": [
+                29.11,
+                31.26,
+                39.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For this cause, because you are so built in and have such a standing in God's Church, I bow my knees towards the Father, not in a physical act, but in earnest prayer. The posture affects the mind and is not unimportant, as seen in the practice of Paul and even the Lord Himself on earth. The foundation of sonship rests in Jesus Christ, the gateway to the Father. Thus, pastors should diligently teach and entreat the Lord to bless their labors, looking up for Divine aid. Kneeling expresses reverence, humility, and submission in prayer, recognizing God as the Father of Christ, the only way to approach Him.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0259341269620657,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                28.7,
+                32.43,
+                38.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For this cause, because you are so built in and have such a standing in God's Church, I bow my knees towards the Father, not in a physical act but in earnest prayer. The posture affects the mind and is not unimportant, as seen in the practice of Paul and even the Lord Himself on earth. The foundation of sonship rests in Jesus Christ, the gateway to the Father. Thus, pastors, like Paul, should diligently entreat the Lord to bless their labors, looking up for Divine aid. Kneeling expresses reverence, humility, and submission in prayer, recognizing God as the Father of Christ, the only way to approach Him.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0319508803008683,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                29.41,
+                32.05,
+                38.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

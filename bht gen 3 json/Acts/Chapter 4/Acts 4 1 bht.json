@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:26:06",
+    "verseRef": "Acts 4:1",
+    "bestBHT": {
+        "bht": "As soon as the priests were released from their duties, they gathered with the captain of the temple, who oversaw the Levitical guard. It was likely the Sadducees who provoked this meeting, as their doctrine of denying the resurrection was being threatened by the apostles' preaching. The guards appeared suddenly with hostile intentions, seeking to disrupt and silence the apostles. This highlights the persistent opposition that faithful servants of Christ face. The captain of the temple held a position of authority over the guards, while the Sadducees were a sect that rejected the resurrection.",
+        "wordCount": 94,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.2546693202008417,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+        "commentatorTierSimilarities": [
+            32.73,
+            41.23,
+            26.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the priests, i.e. the officiating priests, as soon as they were released from their duties.",
+            "The captain of the temple was the chief officer of the Levitical guard of the temple.",
+            "the Sadducees... Perhaps they on this occasion had moved the guard and the priests to notice the matter: for the statement in the next verse of the offence given by preaching the resurrection, seems only to refer to them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "and the Sadducees\u2014who 'say that there is no resurrection,",
+            "irritated at the apostles 'preaching through (rather, 'in') Jesus the resurrection from the dead'",
+            "for the resurrection of Christ, if a fact, effectually overthrew the Sadducean doctrine"
+        ],
+        "Albert Barnes": [
+            "It is evident that they claimed some authority for preventing the preaching of the apostles.",
+            "He came at this time to prevent a tumult or suppress a riot, as it was supposed that the teaching of the apostles and the crowd collected by the healing of the lame man would lead to a tumult.",
+            "They were particularly opposed to the apostles for preaching it, because they gave so clear proof that Jesus had risen, and were thus spreading the doctrine of the resurrection among the people."
+        ],
+        "Marvin Vincent": [
+            "To them the duties of the temple police were entrusted, under the command of an official known in the New Testament as 'the captain of the temple,' but in Jewish writings chiefly as 'the man of the temple mount.'",
+            "'Came upon [\u03b5\u03c0\u03b5\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd].' Or stood by them, suddenly.",
+            "Of dreams or visions, to appear to."
+        ],
+        "John Calvin": [
+            "Hereby it appeareth how watchful the wicked be, because they are always ready at an inch to stop the mouth of the servants of Christ.",
+            "The faithful champions of Christ must swallow up and pass through this ignominy under Popery.",
+            "But men must needs run headlong after this sort, when they have once suffered pure doctrine to fall to the ground amongst them."
+        ],
+        "Archibald T. Robertson": [
+            "The captain of the temple (\u03bf \u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03b5\u03c1\u03bf\u03c5). Twenty-four bands of Levites guarded the temple, one guard at a time.",
+            "The Sadducees (\u03bf \u03a3\u03b1\u03b4\u03b4\u03bf\u03c5\u03ba\u03b1\u03b9\u03bf). Most of the priests were Sadducees now and all the chief priests since John Hyrcanus I deserted the Pharisees.",
+            "Came upon them (\u03b5\u03c0\u03b5\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2). Second aorist active indicative (intransitive). Burst upon them suddenly or stood by them in a hostile attitude here."
+        ],
+        "John Gill": [
+            "And this shows their diligence, faithfulness, and integrity, in the ministration of the word; and it is recorded to their honour, that whilst they were about their master's business, and discharging the duty of their office.",
+            "The captain of the temple... was \u05e9\u05e8, a ruler, or governor, and \u05de\u05de\u05d5\u05e0\u05d4, a president over all the wards.",
+            "The Sadducees were a sect among the Jews, that denied the resurrection of the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The priests, released from their duties, gathered with the captain of the temple, who was in charge of the Levitical guard. It was likely the Sadducees who incited this gathering, as their doctrine of denying the resurrection was being threatened by the apostles' preaching about Jesus rising from the dead. The sudden arrival of the guards to intimidate and silence the apostles demonstrates the vigilant opposition of the wicked. Yet, the faithful servants of Christ must endure such injustice and persecution. It is a testament to the apostles' dedication that they continued carrying out their master's work despite the attempt to silence them. The captain of the temple held a position of authority, overseeing the temple guards, while the Sadducees were a Jewish sect known for their denial of the resurrection.",
+            "wordCount": 132,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 2.1597710952595746,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                31.11,
+                41.9,
+                26.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The priests, along with the captain of the temple, who was responsible for the Levitical guard, gathered immediately after they were released from their duties. The Sadducees, who denied the resurrection, seemed to have instigated this meeting due to the apostles' preaching about Jesus rising from the dead. The guards came suddenly, standing with hostility, to suppress and silence the apostles. This underscores the opposition faced by faithful servants of Christ, who courageously continue their work despite attempts to hinder them. The captain of the temple held a position of authority over the temple guards, while the Sadducees were a sect known for their rejection of the resurrection.",
+            "wordCount": 108,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.2115762445936316,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.88,
+            "commentatorTierSimilarities": [
+                33.36,
+                39.97,
+                26.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As soon as the priests were released from their duties, they gathered with the captain of the temple, who oversaw the Levitical guard. It was likely the Sadducees who provoked this meeting, as their doctrine of denying the resurrection was being threatened by the apostles' preaching. The guards appeared suddenly with hostile intentions, seeking to disrupt and silence the apostles. This highlights the persistent opposition that faithful servants of Christ face. The captain of the temple held a position of authority over the guards, while the Sadducees were a sect that rejected the resurrection.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2546693202008417,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+            "commentatorTierSimilarities": [
+                32.73,
+                41.23,
+                26.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After being released from their duties, the priests gathered together with the captain of the temple, who was in charge of the Levitical guard. It seems that the Sadducees, who denied the resurrection, were the ones who prompted this gathering, likely due to the apostles preaching about Jesus' resurrection. The guards suddenly confronted the apostles, displaying their hostility towards their message. This demonstrates the constant opposition that faithful servants of Christ encounter. The captain of the temple held authority over the guards, while the Sadducees were a sect that rejected the resurrection.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.2065097179893494,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.71,
+            "commentatorTierSimilarities": [
+                33.39,
+                40.89,
+                25.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The priests, recently relieved from their duties, convened with the captain of the temple, the chief officer of the Levitical guard. The Sadducees likely initiated this gathering, resentful of the apostles proclaiming Jesus' resurrection, as it contradicted their beliefs. The guards abruptly approached the apostles, fueled by anger at their message. This confrontation highlights the tireless opposition faced by Christ's faithful servants. The captain of the temple held leadership over the guards, while the Sadducees were a Jewish faction that denied the resurrection.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.109395426071564,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+            "commentatorTierSimilarities": [
+                35.14,
+                38.7,
+                26.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

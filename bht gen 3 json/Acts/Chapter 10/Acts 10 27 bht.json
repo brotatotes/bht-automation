@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:29:17",
+    "verseRef": "Acts 10:27",
+    "bestBHT": {
+        "bht": "Entering the chamber, Peter engages in a conversation with Cornelius, surrounded by an expectant group of Gentiles eager for Peter's interpretation of the vision. This encounter signifies a significant step for Peter, as he becomes more comfortable with interacting with Gentiles, overcoming his previous apprehensions. The initial conversation likely revolved around casual matters, but Peter is deeply moved by what he witnesses upon entering. He expresses his excessive respect for Cornelius, recognizing his own weaknesses and unworthiness. The gathering includes not only Cornelius's family but also his friends and relatives, all present to receive blessings.",
+        "wordCount": 97,
+        "quoteTokenProportion": 36.62,
+        "qualityScore": 1.383165689958147,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.33,
+        "commentatorTierSimilarities": [
+            25.13,
+            32.42,
+            42.46
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "27.] This second going in (compare ver. 25) betokens the completion of his entering in; or the former, his entering the house,\u2014this latter, the chamber."
+        ],
+        "Albert Barnes": [
+            "It was an expression of joy thus to go out to meet him.",
+            "He probably met him at the door, or at a small distance from the house.",
+            "As he talked with him."
+        ],
+        "Philip Schaff": [
+            "Free and friendly intercourse with a Gentile is now become comparatively easy to Peter. He has reached a further step in the learning of his great lesson.\" ",
+            "The conversation at this point probably related to casual matters, such as health or the incidents of the journey.\" ",
+            "Many. This adds much force to what was said before. Peter seems to have been surprised and much impressed by what he saw on entering."
+        ],
+        "Archibald T. Robertson": [
+            "As he talked with him, with associative instrumental case.\" ",
+            "Findeth, vivid historical present indicative active.",
+            "Come together, it was an expectant group of Gentiles eager for Peter's interpretation of the vision of Cornelius."
+        ],
+        "John Gill": [
+            "About the excessive respect he showed him, and his own infirmity and frailty, and unworthiness, as a creature.",
+            "Besides his family, many of his relations and intimate friends, whom he had got together on this occasion, that they might receive some advantage, as well as himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Entering the chamber, Peter engages in a conversation with Cornelius, marked by joy and an expectant group of Gentiles eager for Peter's interpretation of Cornelius's vision. This encounter signifies a significant step for Peter, as he becomes more comfortable with interacting with Gentiles, overcoming his previous apprehensions. The initial conversation likely revolved around casual matters, but Peter is deeply moved by what he witnesses upon entering. Not only does he express excessive respect for Cornelius, but he also recognizes his own weaknesses and unworthiness in the presence of such a significant moment. The gathering is not limited to Cornelius's family, but includes his close friends and relatives, all present to receive the blessings of this encounter.",
+            "wordCount": 119,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.3834900242460093,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.34,
+            "commentatorTierSimilarities": [
+                24.79,
+                33.77,
+                41.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Entering the chamber, Peter engages in a conversation with Cornelius, surrounded by an expectant group of Gentiles eager for Peter's interpretation of the vision. This encounter signifies a significant step for Peter, as he becomes more comfortable with interacting with Gentiles, overcoming his previous apprehensions. The initial conversation likely revolved around casual matters, but Peter is deeply moved by what he witnesses upon entering. He expresses his excessive respect for Cornelius, recognizing his own weaknesses and unworthiness. The gathering includes not only Cornelius's family but also his friends and relatives, all present to receive blessings.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.383165689958147,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.33,
+            "commentatorTierSimilarities": [
+                25.13,
+                32.42,
+                42.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Entering the chamber, Peter engages in a conversation with Cornelius, joined by a group of Gentiles eagerly awaiting his interpretation of the vision. This encounter marks a significant milestone for Peter, as he grows more comfortable in his interactions with Gentiles, gaining insight and overcoming his previous reservations. The initial exchange likely involved light-hearted topics, but Peter is profoundly impacted by what he observes upon entering. He reveres Cornelius, acknowledging his own limitations and frailty in the face of this transformative experience. The gathering extends beyond Cornelius's family, including close friends and relatives seeking spiritual enrichment.",
+            "wordCount": 98,
+            "quoteTokenProportion": 26.39,
+            "qualityScore": 1.327630473648986,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.49,
+            "commentatorTierSimilarities": [
+                27.28,
+                31.14,
+                41.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Entering the chamber, Peter engages in a conversation with Cornelius and a group of expectant Gentiles, eager to hear Peter's interpretation of Cornelius's vision. This encounter signifies a significant milestone for Peter, as he becomes more comfortable with interacting with Gentiles and overcomes his previous apprehensions. The initial conversation likely focused on casual matters, but Peter is deeply moved by what he witnesses upon entering. He expresses great respect for Cornelius and recognizes his own weaknesses and unworthiness in the presence of such a profound moment. The gathering includes not only Cornelius's family but also close friends and relatives, all seeking spiritual benefit.",
+            "wordCount": 106,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.333560057998806,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.68,
+            "commentatorTierSimilarities": [
+                24.54,
+                32.61,
+                42.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stepping into the room, Peter engages in conversation with Cornelius and a group of eager Gentiles, anticipating his interpretation of the vision. This pivotal encounter signifies Peter's growing ease in interacting with Gentiles, the culmination of his journey. Initially, their talk likely revolved around casual subjects, but Peter's heart is stirred by what unfolds before him. Admiring Cornelius, Peter humbly acknowledges his own limitations in the face of such a profound occasion. Gathering not just Cornelius's family but also close friends and relatives, they all seek to partake in the blessings of this momentous meeting.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.342218167056299,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.97,
+            "commentatorTierSimilarities": [
+                28.18,
+                34.23,
+                37.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

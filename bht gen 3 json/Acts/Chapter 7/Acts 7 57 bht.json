@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:27:46",
+    "verseRef": "Acts 7:57",
+    "bestBHT": {
+        "bht": "Stephen's last seraphic words brought matters to extremities, revealing the diabolical spirit of those who held their ears together and falsely accused him of blasphemy. Their actions were driven by ambition and lack of self-control, as they rushed upon him without waiting for any sentence to be passed. This incident marked a turning point in Stephen's life, as he boldly confessed his faith in Jesus Christ and became one of the greatest followers of the Savior.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.5812429142483455,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.92,
+        "commentatorTierSimilarities": [
+            30.03,
+            30.85,
+            39.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Stephen's last seraphic words could but bring matters to extremities.",
+            "That only revealed the diabolical spirit.",
+            "To men of their mould and in their temper."
+        ],
+        "Albert Barnes": [
+            "They cried out... It is evident he was put to death in a popular tumult.",
+            "They stopped their ears... That they might hear no more blasphemy.",
+            "With one accord... In a tumult; unitedly."
+        ],
+        "Marvin Vincent": [
+            "Stopped [\u03c3\u03c5\u03bd\u03b5\u03c3\u03c7\u03bf\u03bd] . Lit., held together."
+        ],
+        "John Calvin": [
+            "This was either a vain show of zeal, as hypocrites are almost always pricked forward with ambition to break out into immoderate heat.",
+            "The preaching of the glory of Christ was unto them such a torment, that they must needs burst through madness.",
+            "They were carried violently, as those men which have no hold of themselves use to leap out immoderately."
+        ],
+        "Philip Schaff": [
+            "When they heard Stephen in his awful joy saying that he beheld 'the Crucified' encircled with the visible glory, thus boldly confessing that the Shekinah belonged to Jesus of Nazareth...",
+            "The purport of their cries no doubt was identical with the memorable expression of the high priest, recorded by St. Matthew... 'He hath spoken blasphemy; what think ye? They answered and said, He is guilty of death.'",
+            "They could contain themselves no longer..."
+        ],
+        "Archibald T. Robertson": [
+            "They held their ears together with their hands and affected to believe Stephen guilty of blasphemy.",
+            "It may have taken place after Pilate's recall and before his successor came or Pilate, if there, just connived at such an incident that did not concern Rome.",
+            "Our first introduction to the man who became the greatest of all followers of Jesus Christ."
+        ],
+        "John Gill": [
+            "These were not the sanhedrim, but the common people.",
+            "They cried out, either to God to avenge the blasphemy, or rather to the Sanhedrin to pass a sentence on him.",
+            "They ran upon him with one accord, without any leave of the Sanhedrin, or waiting for their determination."
+        ],
+        "John Wesley": [
+            "They rushed upon him \u2014 Before any sentence passed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Stephen's final words intensified the situation and revealed the demonic spirit within the crowd. Their response of stopping their ears together and crying out demonstrated their refusal to listen to Stephen's words and their false accusation of blasphemy. Their actions were driven by their own ambition and lack of self-control. This incident may have occurred during a gap in Roman authority, allowing for such a tumultuous event. The crowd's reaction signifies the beginning of Stephen's esteemed position as a devoted follower of Jesus Christ, and the moment marked a turning point in his life.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.367915021578734,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.83,
+            "commentatorTierSimilarities": [
+                31.73,
+                33.65,
+                34.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stephen's last words brought matters to extremities, revealing the diabolical spirit of those who stopped their ears to avoid hearing his alleged blasphemy. This scene may have occurred during a gap in Roman authority, allowing such a tumultuous event. Their actions, driven by ambition and lack of self-control, demonstrate the common people's refusal to listen and their rush to judgment. This pivotal moment marks the beginning of Stephen's prominent role as a dedicated follower of Jesus Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.3681047092635716,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.83,
+            "commentatorTierSimilarities": [
+                30.53,
+                31.33,
+                38.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen's last seraphic words brought matters to extremities, revealing the diabolical spirit of those who held their ears together and falsely accused him of blasphemy. Their actions were driven by ambition and lack of self-control, as they rushed upon him without waiting for any sentence to be passed. This incident marked a turning point in Stephen's life, as he boldly confessed his faith in Jesus Christ and became one of the greatest followers of the Savior.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.5812429142483455,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.92,
+            "commentatorTierSimilarities": [
+                30.03,
+                30.85,
+                39.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephen's final words brought matters to extremities, revealing the diabolical spirit of the crowd as they held their ears together and accused him of blasphemy. This incident could have taken place during a gap in Roman authority, allowing for such a tumultuous event. Their actions, fueled by ambition and lack of self-control, marked the beginning of Stephen's esteemed position as a devoted follower of Jesus Christ.",
+            "wordCount": 69,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.4845088276891802,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.7,
+            "commentatorTierSimilarities": [
+                31.76,
+                31.76,
+                36.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stephen's seraphic words intensified the situation, revealing the diabolical spirit of the crowd who stopped their ears together and falsely accused him of blasphemy. Driven by ambition and lacking self-control, these men rushed upon Stephen without waiting for any sentence to be passed. This pivotal incident marked the beginning of Stephen's prominent role as a devoted follower of Jesus Christ, boldly confessing his faith even in the face of persecution.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.4935741004711724,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.0,
+            "commentatorTierSimilarities": [
+                27.2,
+                31.4,
+                41.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

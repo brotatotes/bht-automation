@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:37:53",
+    "verseRef": "Acts 28:30",
+    "bestBHT": {
+        "bht": "Still under custody, Paul resided in his own hired house, where he received all who came to him. Although he did not go to the synagogue or anywhere else, Paul believed it was his duty to teach all who were willing to learn. For two years, in this large house, he freely preached the Gospel. The progress of Christianity during this time was evident, as it resulted in four of his Epistles and the spread of the Gospel beyond Rome.",
+        "wordCount": 80,
+        "quoteTokenProportion": 54.39,
+        "qualityScore": 2.002663405509746,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.93,
+        "commentatorTierSimilarities": [
+            31.57,
+            32.57,
+            35.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "in his own hired house\u2014yet still in custody, for he only 'received all that came to him'\".",
+            "he only 'received all that came to him'\".",
+            "it is not said that he went to the synagogue or anywhere else\"."
+        ],
+        "Albert Barnes": [
+            "It is clear that they had never been in favor of the appeal to Rome, and that they had no hope of gaining their cause.",
+            "Probably they might remember the former treatment of their people by the emperor; they might remember that they were despised at the Roman capital, and not choose to encounter the scorn and indignation of the Roman court.",
+            "Received all hospitably and kindly who came to him to listen to his instructions. It is evident from this that he was still a prisoner, and was not permitted to go at large."
+        ],
+        "Marvin Vincent": [
+            "Hired house [\u03bc\u03b9\u03c3\u03b8\u03c9\u03bc\u03b1\u03c4\u03b9] . Probably different from the xenia, or lodging - place, where he resided for the first few days, perhaps as the guest of friends, though under custody, and where he received the Jews (ver. 23).",
+            "Superscription (vers. 1, 2). Dr. Morison observes that the superscription is peerless for its wealth of theological idea."
+        ],
+        "John Calvin": [
+            "Surely he was not ignorant what great hatred he did purchase; and that this was his best way, if by holding his peace he might appease the hatred of his adversaries.\" ",
+            "He thought it was not lawful for him to withdraw himself from any which was ready to learn, lest he should foreslow [neglect] the occasion which was offered him by God.\" ",
+            "Paul taught that men are strangers and foreigners from the kingdom of God, until having their sins done away they be reconciled to God, and be renewed into holiness of life by the Spirit."
+        ],
+        "Philip Schaff": [
+            "And Paul dwelt two whole years in his own hired house, and received all that came in unto him.",
+            "Paul during this period of captivity was, during the day, chained to a soldier, and probably in the night two soldiers watched him.",
+            "We possess four of his writings composed while in prison at Rome - the Epistles to the Ephesians, Colossians, and Philippians, and the short letter to Philemon."
+        ],
+        "Archibald T. Robertson": [
+            "Paul wrote Philippians, Philemon, Colossians, Ephesians, Epistles that would immortalize any man.",
+            "Paul was still a prisoner in Rome when Luke completed the book. But he had carried Paul to 'Rome, the capital of the world, Urbi et Orbi'. The gospel of Christ has reached Rome.",
+            "Beyond a doubt his rank is high and the world can never repay its debt to this cultured physician who wrote the Gospel and the Acts."
+        ],
+        "John Gill": [
+            "Paul dwelt two whole years in his own hired house.",
+            "He admitted all that would to come and hear him, and freely preached the Gospel to them.",
+            "...it was a large house he had hired and dwelt in."
+        ],
+        "John Wesley": [
+            "And Paul continued two whole years\" - After which this book was written, long before St. Paul's death.",
+            "and was undoubtedly published with his approbation by St. Luke\" - Luke, who continued with him to the last, 2 Timothy 4:11.",
+            "Such progress had the Gospel made by that time\" - How far eastward the other apostles had carried it in the same time, history does not inform us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, still a prisoner in Rome, resided in a hired house, receiving all who came to him. He did not venture to the synagogue or anywhere else. It is clear that his appeal to Rome had not garnered support, and perhaps his adversaries hoped to quell the hatred by his silence. Nevertheless, Paul believed it was not lawful for him to withdraw from anyone who was ready to learn. For two years, he freely preached the Gospel to those who came, making use of the large house he had rented. This period of captivity yielded four of his Epistles, written while chained to a soldier during the day and watched by two soldiers at night. The Gospel had reached Rome, and the progress of Christianity extended even beyond Paul's own imprisonment.",
+            "wordCount": 132,
+            "quoteTokenProportion": 43.68,
+            "qualityScore": 1.873710588121445,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                28.45,
+                38.52,
+                33.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Still under custody, Paul resided in his own hired house, where he received all who came to him. Although he did not go to the synagogue or anywhere else, Paul believed it was his duty to teach all who were willing to learn. For two years, in this large house, he freely preached the Gospel. The progress of Christianity during this time was evident, as it resulted in four of his Epistles and the spread of the Gospel beyond Rome.",
+            "wordCount": 80,
+            "quoteTokenProportion": 54.39,
+            "qualityScore": 2.002663405509746,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.93,
+            "commentatorTierSimilarities": [
+                31.57,
+                32.57,
+                35.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, still a prisoner but now in his own rented house, received all who came to him. He did not venture out to the synagogue or anywhere else, but instead welcomed everyone into his home to listen to his teaching. He faithfully carried out his ministry, writing letters such as Philippians, Philemon, Colossians, and Ephesians, which would become timeless witnesses to his faith. Although still under custody, Paul's influence and the spread of the Gospel reached Rome, the capital of the world. For two whole years, he remained in his spacious rented house, freely preaching the Gospel to all who would hear. The book of Acts itself was likely written by Luke, in close collaboration with Paul, and attests to the remarkable progress the Gospel had made during that time.",
+            "wordCount": 131,
+            "quoteTokenProportion": 44.57,
+            "qualityScore": 1.9402934510027723,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+            "commentatorTierSimilarities": [
+                32.17,
+                33.68,
+                34.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, still a prisoner, resided in his own rented house where he received all who came to listen to him. He faithfully carried out his ministry, writing letters that would immortalize his name. The Gospel reached Rome, the capital of the world, through Paul's journey. For two years, he remained in his spacious dwelling, freely preaching the Gospel to all. The book of Acts itself was likely written by Luke, in close collaboration with Paul, providing a testimony to the progress and impact of the Gospel during that time.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8734412343413196,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+            "commentatorTierSimilarities": [
+                31.34,
+                34.17,
+                34.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, though still under custody, resided in his own rented house, where he received all who came to listen to him. He faithfully continued his ministry, writing letters that would leave an everlasting impact. The Gospel reached Rome, the capital of the world, through Paul's labor. For two years, he stayed in his spacious dwelling, freely preaching the Gospel to all. The book of Acts, likely written by Luke in collaboration with Paul, testifies to the remarkable progress made by the Gospel during that time.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8430002498129248,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                32.62,
+                32.29,
+                35.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

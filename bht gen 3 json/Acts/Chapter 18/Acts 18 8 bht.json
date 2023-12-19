@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:33:02",
+    "verseRef": "Acts 18:8",
+    "bestBHT": {
+        "bht": "The conversion of Crispus, the ruler of the synagogue, and his household marked the beginning of a continual revival in Corinth. This event played a significant role in the establishment of a great church during the time that Paul labored there. The power of the gospel was evident in converting sinners in such a dissolute city, demonstrating that no person or place is beyond the transformative reach of the gospel. The conversion of an influential figure like Crispus furthered the progress of the Christian faith and would have exasperated the other Jews.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 2.055426812747014,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+        "commentatorTierSimilarities": [
+            33.99,
+            39.9,
+            26.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The ruler of the synagogue attached himself to Paul, and was, together with Gaius, baptized by the Apostle himself.",
+            "With him many of the Corinthians (Jews and Gentiles, it being the house of a proselyte), believed and were baptized.",
+            "Probably Aquila and Priscilla also, believed and were baptized."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Crispus, the chief ruler of the synagogue, believed on the Lord with all his house\u2014an event felt to be so important that the apostle deviated from his usual practice.\" ",
+            "baptized him, as well as Caius (Gaius) and the household of Stephanas, with his own hand.",
+            "The beginning of the church gathered there."
+        ],
+        "Albert Barnes": [
+            "The conversion of such a man must have tended greatly to exasperate the other Jews, and to further the progress of the Christian faith among the Corinthians.",
+            "Perhaps the power of the gospel was never more signal than in converting sinners in Corinth, and rearing a Christian church in a place so dissolute and abandoned.",
+            "If it was adapted to such a place as Corinth; if a church, under the power of Christian truth, could be organized there, it is adapted to any city, and there is none so corrupt that the gospel cannot change and purify it."
+        ],
+        "Philip Schaff": [
+            "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house.",
+            "On the solemn separation of Paul from the Jews, this ruler of the synagogue, evidently a man of high consideration, joined the Church of Jesus.",
+            "We have here another instance in which a whole family became Christians."
+        ],
+        "Archibald T. Robertson": [
+            "Another household conversion, for Crispus 'believed (\u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c3\u03b5\u03bd) in the Lord with all his house.'",
+            "It was a continual revival after Silas and Timothy came and a great church was gathered here during the nearly two years that Paul laboured in Corinth.",
+            "Paul baptized him (1 Corinthians 1:14) himself, perhaps because of his prominence, apparently letting Silas and Timothy baptize most of the converts (1 Corinthians 1:14-17)."
+        ],
+        "John Gill": [
+            "upon their believing, they are baptized.",
+            "This is a plain instance of believers' baptism; first they heard the word of God; then they believed.",
+            "faith came by hearing; they believed the Gospel, and they believed in Christ, the sum and substance of it; and not with a bare historical faith, but with a spiritual and saving one."
+        ],
+        "John Wesley": [
+            "And many hearing \u2014 The conversation of Crispus, and the preaching of Paul."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The conversion of Crispus, the ruler of the synagogue, and his household played a significant role in the establishment of the church in Corinth. This event marked the beginning of a continual revival as more and more people believed and were baptized. The power of the gospel was evident in the conversion of sinners in such a dissolute and abandoned city. The conversion of an influential figure like Crispus would have both infuriated the other Jews and furthered the progress of the Christian faith. It is a powerful reminder that no city or person is beyond the transformative reach of the gospel.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.970813729257437,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                34.0,
+                38.54,
+                27.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The conversion of Crispus, the ruler of the synagogue, and his household marked the beginning of a continual revival in Corinth. This event played a significant role in the establishment of a great church during the time that Paul labored there. The power of the gospel was evident in converting sinners in such a dissolute city, demonstrating that no person or place is beyond the transformative reach of the gospel. The conversion of an influential figure like Crispus furthered the progress of the Christian faith and would have exasperated the other Jews.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.055426812747014,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+            "commentatorTierSimilarities": [
+                33.99,
+                39.9,
+                26.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The conversion of Crispus, the ruler of the synagogue, and his household marked the beginning of a continual revival in Corinth. This event played a significant role in the establishment of a great church during the time that Paul labored there. The power of the gospel was evident in converting sinners in such a dissolute city, demonstrating that no person or place is beyond the transformative reach of the gospel. The conversion of an influential figure like Crispus furthered the progress of the Christian faith and would have exasperated the other Jews.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.055426812747014,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+            "commentatorTierSimilarities": [
+                33.99,
+                39.9,
+                26.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The conversion of Crispus, the ruler of the synagogue, and his household played a significant role in the establishment of the church in Corinth. This event marked the beginning of a continual revival as more and more people believed and were baptized. The power of the gospel was evident in the conversion of sinners in such a dissolute and abandoned city. The conversion of an influential figure like Crispus would have both infuriated the other Jews and furthered the progress of the Christian faith. It is a powerful reminder that no city or person is beyond the transformative reach of the gospel.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.970813729257437,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                34.0,
+                38.54,
+                27.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The conversion of Crispus, the ruler of the synagogue, and his household marked the beginning of a continual revival in Corinth. This event played a significant role in the establishment of a great church during the time that Paul labored there. The power of the gospel was evident in the conversion of sinners in such a dissolute city, demonstrating that no person or place is beyond the transformative reach of the gospel. The conversion of an influential figure like Crispus furthered the progress of the Christian faith and would have exasperated the other Jews.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0492028342546074,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                34.17,
+                40.01,
+                25.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

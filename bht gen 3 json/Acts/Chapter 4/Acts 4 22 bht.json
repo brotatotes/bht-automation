@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:25:57",
+    "verseRef": "Acts 4:22",
+    "bestBHT": {
+        "bht": "A man who had been lame for more than forty years experienced a notable miracle that was both credible and exceptional. The long duration of his condition highlighted the certainty and greatness of the miracle, as all hope for his healing through ordinary means had been lost. This extraordinary cure served a greater purpose, benefiting humanity and confirming the Gospel of Christ.",
+        "wordCount": 62,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.687662428092384,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+        "commentatorTierSimilarities": [
+            15.43,
+            42.74,
+            41.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The circumstance of his being more than forty years old both gave notoriety to his person as having long resorted there...",
+            "...and made the miracle more notable...",
+            "...his malady being more confirmed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "18-22. Whether it be right . . . to",
+            "\thearken to you more than . . . God, judge ye."
+        ],
+        "Albert Barnes": [
+            "The age of the man is mentioned to show the certainty and greatness of the miracle.",
+            "If it had been a man who had been lame but a few years, or if it had been a child or a very young man, the case would not been so remarkable.",
+            "After a continuance of 40 years, all hope of healing him by any ordinary means must have been abandoned, and all pretence that this was jugglery or deception must have been absurd."
+        ],
+        "Archibald T. Robertson": [
+            "Was wrought (\u03b3\u03b5\u03b3\u03bf\u03bd\u03b5). Second past perfect active without augment from \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1. "
+        ],
+        "John Gill": [
+            "So that the miracle was the greater, that a man born lame, and who had been so above forty years, should have a cure.",
+            "He was the more known to the people, and his testimony met with more credit.",
+            "Both for the good of men, for the glory of God, and for the confirmation of the Gospel of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A remarkable miracle occurred to a man who was more than forty years old and had been lame his whole life, making the miracle even more notable and credible. The fact that he had been in such a helpless and hopeless condition for such a long time emphasized the certainty and greatness of the miracle. It was clear that there was no room for deception or doubt, as all hope of healing him through ordinary means had been abandoned. This cure served a greater purpose - for the good of people, the glory of God, and the confirmation of the Gospel of Christ.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.6646745935860783,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                13.11,
+                45.08,
+                41.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The miracle that occurred to a man who was over forty years old and had been lame since birth was particularly noteworthy due to the circumstances. His long-standing condition and the impossibility of finding a cure through conventional means underscored the certainty and greatness of the miracle. This extraordinary healing served a greater purpose, benefiting humanity, glorifying God, and confirming the Gospel of Christ.",
+            "wordCount": 65,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.5867483644260583,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+            "commentatorTierSimilarities": [
+                13.69,
+                42.38,
+                43.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A man who had been lame for over forty years experienced a remarkable miracle that was both notable and credible. The duration of his condition highlighted the certainty and greatness of the miracle, as all hope of healing him through ordinary means had been abandoned. This extraordinary cure served a greater purpose, benefiting humanity and confirming the Gospel of Christ.",
+            "wordCount": 60,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.6661545078283622,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.74,
+            "commentatorTierSimilarities": [
+                14.44,
+                44.09,
+                41.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A man who had been lame for over forty years received a remarkable and notable miracle. The duration of his condition added credibility to the miracle, making it even more exceptional. All hope for his healing through ordinary means had long been abandoned, emphasizing the greatness and certainty of the miraculous cure. This extraordinary healing served a greater purpose, benefiting people, glorifying God, and solidifying the truth of the Gospel of Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.624178318940954,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                15.79,
+                43.35,
+                40.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A man who had been lame for more than forty years experienced a notable miracle that was both credible and exceptional. The long duration of his condition highlighted the certainty and greatness of the miracle, as all hope for his healing through ordinary means had been lost. This extraordinary cure served a greater purpose, benefiting humanity and confirming the Gospel of Christ.",
+            "wordCount": 62,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.687662428092384,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                15.43,
+                42.74,
+                41.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

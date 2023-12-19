@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:20:54",
+    "verseRef": "Luke 16:29",
+    "bestBHT": {
+        "bht": "Salvation is attained through faithful hearing rather than apparitions, as Bengel points out. Jesus Himself testifies to the sufficiency of the Old Testament Scriptures for the salvation of the Jews. The heathen, too, have evidence of the existence of God through nature, leaving them without excuse. The writings of Moses and the prophets provide valuable instruction for both their contemporaries and future generations. Their words should be regarded as a special privilege, demanding attention. Ultimately, the Word of God, when read and heard, serves as the means of conversion, leading people to faith and repentance.",
+        "wordCount": 95,
+        "quoteTokenProportion": 31.88,
+        "qualityScore": 1.663668474966908,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.66,
+        "commentatorTierSimilarities": [
+            28.17,
+            33.7,
+            38.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We are saved by faithful hearing, not by apparitions.\" - Bengel",
+            "This verse furnishes a weighty testimony from our Lord Himself of the sufficiency then of the O.T. Scriptures for the salvation of the Jews.\" - Commentary",
+            "It is not so now.\" - Commentary"
+        ],
+        "Albert Barnes": [
+            "They have Moses - The writings of Moses. The first five books of the Bible.",
+            "The prophets - The remainder of the Old Testament. What the prophets had written.",
+            "Hear them - Hear them speak in the Scriptures. Read them, or hear them read in the synagogues, and attend to what they have delivered."
+        ],
+        "John Calvin": [
+            "Moses and the prophets were appointed to instruct, while they lived, the men of their own age; but it was with the design, that the same advantage should be derived by posterity from their writings.",
+            "They who ridicule as fabulous what Scripture testifies as to the future judgment, will one day feel how shocking is the wickedness of giving the lie to the holy oracles of God.",
+            "The division of the word of God, which Abraham makes, into the Law and the Prophets, refers to the time of the Old Testament. Now that the more ample explanation of the Gospel has been added, there is still less excuse for our wickedness, if our dislike of that doctrine hurries us in every possible direction..."
+        ],
+        "Philip Schaff": [
+            "They have Moses and the prophets, i.e., the Old Testament.",
+            "Let them hear them. This implies that these men, though children of Abraham and possessors of the Old Testament, had never rightly attended to it."
+        ],
+        "Archibald T. Robertson": [
+            "Even the heathen have the evidence of nature to show the existence of God.\" ",
+            "The heathen are without excuse.\" ",
+            "Let them hear [the evidence]."
+        ],
+        "John Gill": [
+            "They have Moses and the prophets;... it is a peculiar privilege to have them; and they ought to be attended to and regarded.",
+            "Let them hear them; for they testified concerning Christ, and concerning the sins of the Jews, and the calamities, both temporal and eternal, that should come upon them.",
+            "The word of God, read, explained, and heard, is the ordinary means of conversion, or of bringing men to faith and repentance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are reminded by Bengel that our salvation comes from faithful hearing, not from apparitions. This verse serves as a testimony from Jesus Himself that the Old Testament Scriptures are sufficient for the salvation of the Jews. It is a testament to the heathen that even they have evidence of God's existence through nature, making them without excuse. The Scriptures of Moses and the prophets are emphasized, highlighting that they were appointed to instruct and guide both the men of their time and future generations. It is a peculiar privilege to have these Scriptures, and it is important that they are heard, read, and attended to, for they testify concerning Christ and the consequences of disobedience. Ultimately, the Word of God is the ordinary means of conversion and drawing people to faith and repentance.",
+            "wordCount": 135,
+            "quoteTokenProportion": 33.73,
+            "qualityScore": 1.8528143191272242,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                26.93,
+                33.9,
+                39.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Salvation is attained through faithful hearing, not apparitions, as Bengel reminds us. This verse underscores the sufficiency of the Old Testament Scriptures for the salvation of the Jews, according to the commentary. Even the heathen have the testimony of nature to bear witness to the existence of God, leaving them without excuse. Moses and the prophets, who provided instruction during their time and for future generations, hold a unique position of privilege and their words must be attended to. The Word of God, read and heard, serves as the primary means of conversion, bringing people to faith and repentance.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.790401139110573,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                28.49,
+                33.03,
+                38.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Salvation comes through faithful hearing, not apparitions, as emphasized by Bengel. This passage highlights the sufficiency of the Old Testament Scriptures for the salvation of the Jews. The heathen are without excuse, as they too have evidence of God's existence through nature. Moses and the prophets, through their writings, provided instruction for their contemporaries and future generations. Their words should be regarded as a special privilege to be heard and attended to. The Word of God, read and heard, serves as the means of conversion, leading to faith and repentance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.7066107870329952,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+            "commentatorTierSimilarities": [
+                28.85,
+                34.16,
+                37.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Salvation is achieved through faithful hearing, not apparitions, according to Bengel. This reveals the sufficiency of the Old Testament Scriptures for the salvation of the Jews. The existence of God is attested by nature, leaving the heathen without excuse. The writings of Moses and the prophets offer valuable instruction for both their contemporaries and future generations. It is important to regard these words as a special privilege, listening and attending to them. The Word of God, when read and heard, serves as the means of conversion, leading to faith and repentance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.6514774358269526,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.25,
+            "commentatorTierSimilarities": [
+                27.71,
+                33.95,
+                38.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Salvation is attained through faithful hearing rather than apparitions, as Bengel points out. Jesus Himself testifies to the sufficiency of the Old Testament Scriptures for the salvation of the Jews. The heathen, too, have evidence of the existence of God through nature, leaving them without excuse. The writings of Moses and the prophets provide valuable instruction for both their contemporaries and future generations. Their words should be regarded as a special privilege, demanding attention. Ultimately, the Word of God, when read and heard, serves as the means of conversion, leading people to faith and repentance.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.663668474966908,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.66,
+            "commentatorTierSimilarities": [
+                28.17,
+                33.7,
+                38.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

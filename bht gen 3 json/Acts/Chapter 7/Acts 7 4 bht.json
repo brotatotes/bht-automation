@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:27:12",
+    "verseRef": "Acts 7:4",
+    "bestBHT": {
+        "bht": "Abraham's settlement in the land of promise was not dependent on his family movement but on a direct transaction between him and God. The discrepancy in Terah's age at death and Abraham's birth may be uncertain, but it is evident that Abraham was 75 when his father died. The Jews believe that Terah's relapse into idolatry before Abraham left Haran can be seen as a moral death. After his father's death, Abraham promptly moved into Canaan, showing his unwavering faith and obedience to God's command.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.0317381123351197,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+        "commentatorTierSimilarities": [
+            27.45,
+            39.78,
+            32.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "his settlement in it as the land of promise is here said to be after it, as being in no way dependent on the family movement",
+            "a transaction purely between Jehovah and Abraham himself",
+            "in no way dependent on the family movement"
+        ],
+        "Albert Barnes": [
+            "It is not affirmed that Abraham was born just at the time when Terah was 70 years of age. All that the passage in Genesis 11:26 proves, according to the usual meaning of similar expressions, is, that Terah was 70 years old before he had any sons, and that the three were born subsequently to that.",
+            "Assuredly, it does not mean that all were born precisely at the time when Terah was 70 years of age.",
+            "The Jews unanimously affirm that Terah relapsed into idolatry before Abraham left Haran; and this they denominate 'death,' or a moral death."
+        ],
+        "John Calvin": [
+            "The readiness and willingness of faith is commended in these words.",
+            "He maketh no delay, but maketh haste and subdueth all his affections, that they may obey the holy commandment of God.",
+            "He does not procrastinate, but breaks off all delay."
+        ],
+        "Philip Schaff": [
+            "A strange interpretation of the expression \u2018was dead,\u2019 has been accepted by some commentators of high reputation.",
+            "There is a tradition among the Jews, that Terah, the father of Abraham, relapsed into idolatry during the abode at Haran, and that Abraham departed from him on account of this apostasy.",
+            "The plain obvious meaning, in spite of the chronological difficulty which it involves, must be maintained that is, after his father\u2019s death, Abraham removed into Canaan."
+        ],
+        "Archibald T. Robertson": [
+            "In Genesis 11:32 it is stated that Terah died at Haran at the age of 205. There are various explanations of the discrepancy, but no one that seems certain.\" ",
+            "According to this view Terah was 130 years old at the birth of Abraham, leaving Abraham 75 at the death of Terah (205).",
+            "Note also emphatic use of \u03c5\u03bc\u03b5\u03b9\u03c2 (ye) and now (\u03bd\u03c5\u03bd)."
+        ],
+        "John Gill": [
+            "I think no man versed in the laws can be ignorant, that Abraham, when he first went out of the land of Chaldea, dwelt in Charan; \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b7\u03c3\u03b1\u03bd\u03c4\u03bf\u03c2 \u03c4\u03b5 \u03b1\u03c5\u03c4\u03c9 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c4\u03c1\u03bf\u03c2 \u03b5\u03ba\u03b5\u03bd\u03b8\u03b9 'but his father dying there', he removed from thence.\" (Philo the Jew)",
+            "But his father dying there, he removed from thence.\" (Stephen)",
+            "It was by the order and assistance, and under the direction and protection of God, that he came into that land."
+        ],
+        "John Wesley": [
+            "After his father was dead \u2014 While Terah lived, Abraham lived partly with him, partly in Canaan: but after he died, altogether in Canaan."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham's settlement in the land of promise was not dependent on his family movement, but rather on a direct transaction between him and God. Though there are different explanations for the discrepancy between Terah's recorded age at death and the birth of Abraham, it is clear that Abraham was 75 years old when Terah died. It is emphasized that this settlement took place after Terah's death. The Jews believe that Terah relapsed into idolatry before Abraham left Haran, which they consider a moral death. Despite the chronological difficulty, it must be understood that Abraham moved into Canaan after his father's death. Abraham's prompt and faithful response to God's command is commendable, as he wasted no time in leaving Haran and subduing his affections. It is evident that Abraham's journey to Canaan was ordered and protected by God.",
+            "wordCount": 143,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8843933806856836,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                27.41,
+                40.51,
+                32.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham's settlement in the land of promise was not dependent on his family movement, but rather on a direct transaction between him and God. After his father's death, Abraham moved into Canaan, even though there are explanations for the discrepancy between Terah's recorded age at death and the birth of Abraham. The Jews believe that Terah relapsed into idolatry before Abraham left Haran, which they consider a moral death. Abraham's prompt and faithful response to God's command is commendable, as he wasted no time in leaving Haran and subduing his affections.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9547935568407628,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+            "commentatorTierSimilarities": [
+                28.1,
+                40.29,
+                31.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham's settlement in the land of promise was not dependent on his family movement, but rather on a transaction solely between him and God. Despite the discrepancy in Terah's age at death and the birth of Abraham, it is clear that Abraham was 75 years old when his father died. The Jews believe that Terah's relapse into idolatry before Abraham left Haran can be seen as a moral death. Abraham's prompt and faithful response to God's command is commendable, as he wasted no time in leaving Haran.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.9514462924846958,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                28.97,
+                39.34,
+                31.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abraham's settlement in the land of promise was not dependent on his family movement but on a direct transaction between him and God. The discrepancy in Terah's age at death and Abraham's birth may be uncertain, but it is evident that Abraham was 75 when his father died. The Jews believe that Terah's relapse into idolatry before Abraham left Haran can be seen as a moral death. After his father's death, Abraham promptly moved into Canaan, showing his unwavering faith and obedience to God's command.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.0317381123351197,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                27.45,
+                39.78,
+                32.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham's settlement in the land of promise was not based on his family's movement, but on a personal transaction between him and God. The discrepancy between Terah's age at death and the birth of Abraham is uncertain, but it is clear that Abraham was 75 years old when his father died. The Jews believe that Terah's relapse into idolatry before Abraham left Haran can be viewed as a moral death. After his father's passing, Abraham promptly moved into Canaan, demonstrating his immediate and obedient response to God's command.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.9871022182403157,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+            "commentatorTierSimilarities": [
+                27.79,
+                39.6,
+                32.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

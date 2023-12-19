@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:40:41",
+    "verseRef": "2 Peter 2:1",
+    "bestBHT": {
+        "bht": "False teachers, like the false prophets of old, introduce destructive heresies while denying the authority of the Master who bought them. Their entrance into the church is often inconspicuous, resembling the infiltration of spies or traitors. These heretics, once professing Christians, not only bring divisions but also deny the essential doctrines of Christianity, leading others astray. By denying the Lord, they invite swift destruction upon themselves.",
+        "wordCount": 66,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.133550505367809,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.28,
+        "commentatorTierSimilarities": [
+            27.74,
+            38.99,
+            33.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "there were false prophets also among the people, as there shall be among you likewise false teachers, the which shall introduce heresies of destruction.\" ",
+            "denying the Master who bought them, bringing upon themselves swift destruction.",
+            "No assertion of universal redemption can be plainer than this."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Already symptoms of the evil were appearing.",
+            "The first introduction of them would be stealthy and unobserved.",
+            "Man brings upon himself the vengeance which God brings upon him."
+        ],
+        "Albert Barnes": [
+            "The thing which these false teachers would attempt would be divisions, alienations, or parties, in the church, but these would be based on the erroneous doctrines which they would promulgate.",
+            "People may destroy themselves by a denial of the great and vital 'doctrines' of religion. It cannot be a harmless thing, then, to hold erroneous opinions; nor can men be safe who deny the fundamental doctrines of Christianity.",
+            "People bring destruction 'on themselves'. No one compels them to deny the Lord that bought them; no one forces them to embrace any dangerous error. If people perish, they perish by their own fault."
+        ],
+        "Marvin Vincent": [
+            "False teachers [\u03c8\u03b5\u03c5\u03b4\u03bf\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03bf\u03b9] . Only here in New Testament.",
+            "The metaphor is of spies or traitors introducing themselves into an enemy 's camp.",
+            "Originally, it indicates absolute, unrestricted authority, so that the Greeks refused the title to any but the gods."
+        ],
+        "John Calvin": [
+            "Let us then remember that the Spirit of God hath once for all declared, that the Church shall never be free from this intestine evil; and let this likeness be always borne in mind, that the trial of our faith is to be similar to that of the fathers.",
+            "We ought, then, to apply this truth to our own time, lest, when we see false teachers rising up to oppose the truth of God, this trial should break us down.",
+            "As to the word opinions or heresies, it has not, without reason, been always deemed infamous and hateful by the children of God; for the bond of holy unity is the simple truth. As soon as we depart from that, nothing remains but dreadful discord."
+        ],
+        "Philip Schaff": [
+            "There were prophets in Israel who \u2018spake from God,\u2019 but there arose in the same Israel false prophets, and so it shall be in the N. T. Israel.",
+            "Christ Himself foretells the rise of \u2018false prophets\u2019 (Matthew 24:24), and Paul warned the elders of Ephesus of men who should arise within the Church \u2018speaking perverse things to draw away disciples after them\u2019 (Acts 20:30).",
+            "In bringing in these heresies of destruction the false teachers will be even denying the Lord, and their doing so will mean that they have brought doom upon themselves."
+        ],
+        "Archibald T. Robertson": [
+            "False prophets also... Allusion to the O.T. times like Balaam and others.",
+            "These were professing Christians, at any rate, these heretics.",
+            "This is always the tragedy of such false prophets, the fate that they bring on themselves."
+        ],
+        "John Gill": [
+            "These are 'damnable', or 'destructive', or 'heresies of destruction'; which lead to eternal destruction both those that introduce and propagate them, and those that embrace and profess them; for they remove, or attempt to remove, the foundation of eternal life and happiness.\" ",
+            "The manner in which these are usually introduced is 'privily'; at unawares, secretly, under a disguise, and gradually, by little and little, and not at once, and openly; and which is the constant character and practice of such men, who lie in wait to deceive, creep into churches at unawares, and into houses privately; and insinuate their principles under specious pretences and appearances of truth.\" ",
+            "the word 'bought' regards temporal mercies and deliverance, which these men enjoyed, and is used as an aggravation of their sin in denying the Lord; both by words, delivering out such tenets as are derogatory to the glory of the divine perfections, and which deny one or other of them, and of his purposes, providence, promises, and truths; and by works, turning the doctrine of the grace of God into lasciviousness, being disobedient and reprobate to every good work."
+        ],
+        "John Wesley": [
+            "Those that spake even the truth, when God had not sent them; and also those that were truly sent of him, and yet corrupted or softened their message, were false prophets.",
+            "They first, by denying the Lord, introduced destructive heresies, that is, divisions.",
+            "Even denying \u2014 Both by their doctrine and their works. The Lord that bought them \u2014 With his own blood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "False prophets and teachers have existed among the people in the past and will continue to exist among the believers. They introduce destructive heresies, denying the authority of the Master who purchased them, and consequently bring swift destruction upon themselves. The introduction of these false teachers is often subtle and unobserved. They infiltrate the church like spies, introducing themselves as teachers with unrestricted authority. These heretics, who were once professing Christians, not only divide the church but also deny the fundamental doctrines of Christianity, leading others astray. By denying the Lord, they bring doom upon themselves. This warns us that the trial of our faith will be similar to that of the fathers, and we should be cautious when we see false teachers rising up to oppose the truth of God, for departing from the simple truth can lead to dreadful discord and eternal destruction.",
+            "wordCount": 145,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.059407218300677,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                26.44,
+                40.1,
+                33.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "False prophets and teachers, introducing destructive heresies, deny the Master who bought them, bringing swift destruction upon themselves. They enter the church stealthily, like spies infiltrating an enemy's camp, with absolute authority. These heretics, once professing Christians, not only divide the church but deny the fundamental doctrines, leading others astray. This warns us that the trial of our faith will be similar to that of the fathers. When false teachers rise up, it's crucial to beware, for departing from the truth leads to dreadful discord and eternal destruction.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 2.007593088075348,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                27.3,
+                38.49,
+                34.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "False teachers, like the false prophets of old, introduce destructive heresies while denying the authority of the Master who bought them. Their entrance into the church is often inconspicuous, resembling the infiltration of spies or traitors. These heretics, once professing Christians, not only bring divisions but also deny the essential doctrines of Christianity, leading others astray. By denying the Lord, they invite swift destruction upon themselves. Their presence serves as a reminder that the trial of our faith will resemble that of the early believers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.035298619791667,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.01,
+            "commentatorTierSimilarities": [
+                27.45,
+                38.01,
+                34.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "False teachers, like the false prophets of old, introduce destructive heresies while denying the authority of the Master who bought them. Their entrance into the church is often inconspicuous, resembling the infiltration of spies or traitors. These heretics, once professing Christians, not only bring divisions but also deny the essential doctrines of Christianity, leading others astray. By denying the Lord, they invite swift destruction upon themselves.",
+            "wordCount": 66,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.133550505367809,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.28,
+            "commentatorTierSimilarities": [
+                27.74,
+                38.99,
+                33.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "False prophets and teachers introduce destructive heresies, denying the Master who bought them, bringing swift destruction upon themselves. The first introduction of them is often stealthy and unobserved, like spies infiltrating an enemy's camp. These heretics were once professing Christians, but their denial of the Lord and propagation of false teachings lead to divisions and chaos. It is crucial to remember that the trial of our faith will be similar to that of the early believers and to remain vigilant when false teachers rise up against the truth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.0928468592880902,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.93,
+            "commentatorTierSimilarities": [
+                27.6,
+                37.6,
+                34.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

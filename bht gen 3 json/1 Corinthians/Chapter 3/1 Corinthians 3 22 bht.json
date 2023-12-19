@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:02:45",
+    "verseRef": "1 Corinthians 3:22",
+    "bestBHT": {
+        "bht": "The trials and prosperity of this present time will not separate you from God's love in Christ, for they all belong to you, as they belong to Christ your Head. The wealth of the Christian includes all things, leaders, past, present, future, Christ, and God. All who serve in the ministry are for our use, as they are appointed by God. Let us be united in love, as we are in blessings.",
+        "wordCount": 73,
+        "quoteTokenProportion": 46.81,
+        "qualityScore": 1.9826991640291118,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.27,
+        "commentatorTierSimilarities": [
+            44.24,
+            22.81,
+            32.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not only shall they not 'separate you from the love of God in Christ,' but they 'all are yours,' that is, are for you and belong to you, as they belong to Christ your Head.",
+            "They all are yours.",
+            "They all belong to you, as they belong to Christ your Head."
+        ],
+        "Albert Barnes": [
+            "Their labors belonged to the church in general. they had no partialities - no rivalship - no desire to make parties.",
+            "It is no small privilege thus to be permitted to regard all the labors of the most eminent servants of God as designed for our welfare.",
+            "All the calamities, trials, persecutions - all the prosperity, advantages, privileges of the present time, and all that shall yet take place, shall tend to promote our welfare, and advance the interests of our souls, and promote our salvation."
+        ],
+        "Marvin Vincent": [
+            "Things present [\u03b5\u03bd\u03b5\u03c3\u03c4\u03c9\u03c4\u03b1] . See on Romans 8:38."
+        ],
+        "John Calvin": [
+            "As therefore Christ is the Church\u2019s sole master, and as he alone without exception is worthy to be listened to, it is necessary to distinguish between him and others.",
+            "They are appointed to us by God with the view of our making use of them \u2014 not that they should exercise dominion over our consciences.",
+            "All who discharge the office of the ministry, are ours, from the highest to the lowest, so that we are at liberty to withhold our assent to their doctrine, until they show that it is from Christ."
+        ],
+        "Philip Schaff": [
+            "The Pauls, the Apolloses, and the Cephases are alike ours, and each, therefore, should be honoured in his own sphere.",
+            "Life now much more than a mere natural blessing, but ours by the highest right, to the highest ends, and, viewed as such, enjoyed as never before.",
+            "Death once a dreaded, now a conquered enemy, and the gate of heaven."
+        ],
+        "Archibald T. Robertson": [
+            "The wealth of the Christian includes all things, all leaders, past, present, future, Christ, and God."
+        ],
+        "John Gill": [
+            "They are the church's...given to them, not so much for their own use, as for the good and benefit of others.",
+            "The world was made for the sake of the saints, and is continued on their account...It is their Lord's, and so theirs.",
+            "The death of good men, ministers, martyrs, and confessors, is [the saints']...serves to confirm their faith, animate their zeal, and encourage them."
+        ],
+        "John Wesley": [
+            "We are all equally yours, to serve you for Christ's sake.",
+            "Peter and every one in the whole world, however excellent in gifts, or grace, or office, are also your servants for Christ's sake.",
+            "Contend, therefore, no more about these little things; but be ye united in love, as ye are in blessings."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Not only shall the trials, calamities, and prosperity of this present time not separate you from the love of God in Christ, but they all are yours, belonging to you as they belong to Christ your Head. The wealth of the Christian includes all things, all leaders, past, present, future, Christ, and God. As Christ is the Church's sole master, it is necessary to distinguish between Him and others who are appointed to us by God with the view of our making use of them. All who discharge the office of the ministry are ours, from the highest to the lowest, for the good and benefit of others. Contend, therefore, no more about these little things; but be united in love, as you are in blessings.",
+            "wordCount": 127,
+            "quoteTokenProportion": 46.75,
+            "qualityScore": 1.9630717495778225,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                37.79,
+                25.16,
+                37.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Not only shall the present trials and prosperity of this time not separate you from the love of God, but they all belong to you, as they belong to Christ your Head. The wealth of the Christian includes all leaders, past, present, future, Christ, and God. It is necessary to distinguish between Christ and others appointed by God for our use. All who serve are ours, from the highest to the lowest, for the benefit of others. Be united in love, as you are in blessings.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.878832237737148,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+            "commentatorTierSimilarities": [
+                41.19,
+                24.33,
+                34.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Not only shall the trials and prosperity of this time not separate you from the love of God, but they all belong to you, as they belong to Christ your Head. The wealth of the Christian includes all leaders, past, present, future, Christ, and God. All who serve are ours, from the highest to the lowest, for the benefit of others. Be united in love, as you are in blessings.",
+            "wordCount": 70,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.9124467244538923,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                41.59,
+                25.15,
+                33.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All the trials, calamities, and prosperity of this present time shall not separate you from God's love in Christ, for they all belong to you, as they belong to Christ your Head. The riches of the Christian encompass all things, all leaders, past, present, future, Christ, and God. It is necessary to distinguish between Christ, the Church's sole master, and others appointed by God for our use. All who serve in the ministry are ours for the benefit of others. Let us be united in love, as we are in blessings.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.8938561700983583,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "commentatorTierSimilarities": [
+                37.88,
+                25.59,
+                36.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The trials and prosperity of this present time will not separate you from God's love in Christ, for they all belong to you, as they belong to Christ your Head. The wealth of the Christian includes all things, leaders, past, present, future, Christ, and God. All who serve in the ministry are for our use, as they are appointed by God. Let us be united in love, as we are in blessings.",
+            "wordCount": 73,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 1.9826991640291118,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.27,
+            "commentatorTierSimilarities": [
+                44.24,
+                22.81,
+                32.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

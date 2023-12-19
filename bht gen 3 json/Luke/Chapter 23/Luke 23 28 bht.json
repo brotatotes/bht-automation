@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:23:48",
+    "verseRef": "Luke 23:28",
+    "bestBHT": {
+        "bht": "His sacred sufferings were not a tragedy to be mourned, but a path to be embraced with joy. He tells the daughters of Jerusalem not to weep for Him, but for themselves and their children, who will soon face great miseries. With noble compassion, He turns towards them, urging them to consider their own sins and the impending judgment. His death is an expiation for the sins of the world, so there is no need to weep for Him. Instead, their sorrow should be directed towards their own spiritual state and the consequences to come.",
+        "wordCount": 95,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.8452286092401071,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+        "commentatorTierSimilarities": [
+            30.2,
+            30.75,
+            39.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His future course was not one to be bewailed\u2014see especially on this saying, Heb. xii. 2,\u2014 'who for the Joy set before Him endured the cross, despising the shame.'\" ",
+            "Nor again were His sacred sufferings a mere popular tragedy for street-bewailing; the sinners should weep for themselves, not for Him.",
+            "Those who now were young wives, would not be more than sixty when (A. D. 70) the city was taken. But to their children more especially belonged the miseries of which the Lord here speaks."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Noble spirit of compassion, rising above His own dread endurances...",
+            "...in tender commiseration of sufferings yet in the distance and far lighter...",
+            "...but without His supports and consolations!"
+        ],
+        "Albert Barnes": [
+            "Daughters of Jerusalem - Women of Jerusalem. This was a common mode of speaking among the Hebrews.",
+            "Weep for yourselves ... - This refers to the calamities that were about to come upon them in the desolation of their city by the Romans."
+        ],
+        "John Calvin": [
+            "Christ does not simply reprove them, as if it were improperly and without cause that they were weeping, but warns them that there will be far greater reason for weeping on account of the dreadful judgment of God which hangs over them.",
+            "For, from the punishment which immediately followed, it was manifest that the life of Christ was dear to God the Father, at the time when all imagined that he had been wholly forsaken and cast off.",
+            "Let us learn from this to rise to meditation on the cause of the death of Christ; for since God revenged it with such severity, he would never have permitted his Son to endure it, unless he had intended that it should be an expiation for the sins of the world."
+        ],
+        "Philip Schaff": [
+            "He not only endures the cross, but forgets His sorrows, so heavy, to tell the truth to those who manifested for Him only a human sympathy.",
+            "But weep for yourselves. Appropriate words for those who even now make of the crucifixion a mere popular tragedy.",
+            "The catastrophe was to fall most directly upon their children: and for your children."
+        ],
+        "Archibald T. Robertson": [
+            "Turning (\u03c3\u03c4\u03c1\u03b1\u03c6\u03b5\u03b9\u03c2). Luke is fond of this second aorist passive participle of \u03c3\u03c4\u03c1\u03b5\u03c6\u03c9 (Luke 7:9; Luke 7:44; Luke 7:55; Luke 10:23). If he had been still carrying the Cross, he could not have made this dramatic gesture.",
+            "Weep not (\u03bc\u03b7 \u03ba\u03bb\u03b1\u03b9\u03b5\u03c4\u03b5). Present active imperative with \u03bc\u03b7, Stop weeping."
+        ],
+        "John Gill": [
+            "Weep not for me; signifying, that they need not be under any concern on his account, for he was very willing to die; he desired nothing more; this was that he came into the world about; nor was he afraid to die.\" ",
+            "Christ's meaning is, that when things were rightly considered, there would be great reason to assuage their grief, on this account, and rather express it on another.\" ",
+            "Weep for yourselves, and for your children; not themselves personally, but their nation and posterity; and either for sin, their own, and others; the sins of professors, and of the profane; particularly the sin of crucifying him, which would be more injurious to that people than to him, and do them more hurt than him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "His sacred sufferings were not to be mourned as a tragic end but rather embraced with joy and compassion. He tells the daughters of Jerusalem not to weep for Him but for themselves and their children, who would face the impending miseries of the city's destruction. In this act, He turns towards them with a noble spirit of empathy, urging them to consider the weight of their own sins. He wants them to understand that the cause of His death was to serve as an expiation for the sins of the world, and thus there is no need to weep for Him. Instead, they should redirect their sorrow towards their own spiritual state and the impending judgment.",
+            "wordCount": 118,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.8222121886176044,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.93,
+            "commentatorTierSimilarities": [
+                28.2,
+                30.29,
+                41.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "His future course should not be mourned but embraced with joy, for He endures the cross for the sake of the joy set before Him. He tells the daughters of Jerusalem not to weep for Him but for themselves and their children, who would face the impending miseries of the city's destruction. With noble compassion, He turns towards them, urging them to consider the weight of their own sins and the judgment that awaits.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.84078217145873,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                30.83,
+                31.21,
+                37.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "His future course is not one to be bewailed, but rather embraced with joy for the sake of the joy set before Him. He does not want the daughters of Jerusalem to weep for Him, but rather, to weep for themselves and their children, who will experience the miseries that lie ahead. With compassionate empathy, He turns towards them and encourages them to consider their own sins and the impending judgment. He asks them to redirect their sorrow, for His death serves as an expiation for the sins of the world.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.7214404381699968,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+            "commentatorTierSimilarities": [
+                30.88,
+                29.28,
+                39.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "His sacred sufferings were not a tragedy to be mourned, but a path to be embraced with joy. He tells the daughters of Jerusalem not to weep for Him, but for themselves and their children, who will soon face great miseries. With noble compassion, He turns towards them, urging them to consider their own sins and the impending judgment. His death is an expiation for the sins of the world, so there is no need to weep for Him. Instead, their sorrow should be directed towards their own spiritual state and the consequences to come.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.8452286092401071,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+            "commentatorTierSimilarities": [
+                30.2,
+                30.75,
+                39.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "His future course was not one to be bewailed but embraced with joy, as He endured the cross for the sake of the joy set before Him. The daughters of Jerusalem should weep not for Him, but for themselves and their children, who would face great miseries. With compassion, He turns towards them, urging them to consider their own sins and the impending judgment. His death serves as an expiation for the sins of the world, giving them reason to redirect their sorrow towards their own spiritual state.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.7819548641956016,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                28.64,
+                30.28,
+                41.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

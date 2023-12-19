@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:15:53",
+    "verseRef": "2 Corinthians 3:17",
+    "bestBHT": {
+        "bht": "Now the Lord is the Spirit, the Spirit that gives life to the letter. Christ is the Spirit of the Old Testament, the end of its institutions. Where the Spirit of the Lord is, there is liberty, freedom from slavery and sin. Through the Spirit, believers have access to God without fear and can rejoice in Christ Jesus. They no longer have the spirit of bondage, but the spirit of free sonship. The Spirit of God and the Spirit of Christ dwell in believers.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.18,
+        "qualityScore": 2.6202387412474613,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.46,
+        "commentatorTierSimilarities": [
+            36.61,
+            30.1,
+            33.29
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Now the Lord is the Spirit: i.e. the Lord of ver. 16 is the Spirit, whose word the O.T. is: the spirit,\u2014as opposed to the letter;\u2014which giveth life.\" ",
+            "Christ, here, is the Spirit of Christ. and where the Spirit of the Lord is, is liberty.\" ",
+            "They are fettered in spirit as long as they are slaves to the letter, as long as they have the vail on their hearts; but when they turn to the Lord the Spirit...then they are at liberty."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ is the Spirit and 'end' of the Old Testament, who giveth life to it, whereas 'the letter killeth'.\" ",
+            "They are free to serve God in the Spirit, and rejoice in Christ Jesus: they have no longer the spirit of bondage, but of free sonship.\" ",
+            "'Liberty' is opposed to the letter (of the legal ordinances), and to the veil, the badge of slavery: also to the fear which the Israelites felt in beholding Moses' glory unveiled."
+        ],
+        "Albert Barnes": [
+            "The Lord Jesus was 'the Spirit' to which he [Paul] referred, and by which he was enabled to understand the Old Testament so as to speak plainly, and without obscurity.",
+            "The figures, types, prophecies, etc. all centered in him, and he was the end of all those institutions.",
+            "There is freedom from the dark and obscure views of the Jews; freedom from their prejudices, and their superstitions; freedom from the slavery and bondage of sin; the freedom of the children of God, who have clear views of him as their Father and Redeemer and who are enabled to express those views openly and boldly to the world."
+        ],
+        "Marvin Vincent": [
+            "Now the Lord is that Spirit. Kuriov the Lord is used in Exodus 34:34 for Jehovah.",
+            "The Lord Christ of ver. 16 is the Spirit who pervades and animates the new covenant.",
+            "Liberty. Compare Romans 8:15; Galatians 4:7."
+        ],
+        "John Calvin": [
+            "He now, on the other hand, calls Christ its spirit, meaning by this, that it will be living and life-giving, only if it is breathed into by Christ.",
+            "Hence Christ is the life of the law.",
+            "Christ, however, by regenerating us, gives life to the law, and shows himself to be the fountain of life, as all vital functions proceed from man\u2019s soul."
+        ],
+        "Philip Schaff": [
+            "Now the Lord the glorified Lord of the Church is the Spirit that quickening Spirit, who 'by the Holy Ghost sent down from heaven' makes the Gospel 'spirit and life' to 'as many as receive Him'\" (John 1:12-13; and see 2 Corinthians 3:6 above).",
+            "Where Christ is (says Bengel) there is the Spirit of Christ; where the Spirit of Christ is, there is Christ\" (Romans 8:9-11).",
+            "Where the Spirit of the Lord is, there is liberty\" (Romans 8:15), the reverse of that 'bondage' which is our apostle's invariable characteristic of the legal economy."
+        ],
+        "Archibald T. Robertson": [
+            "The Holy Spirit is interchangeably called in the N.T. the Spirit of God and the Spirit of Christ.\" ",
+            "Christ dwells in us by the Holy Spirit, but the language here in 2 Corinthians 3:17 should not be pressed unduly.\" ",
+            "Liberty: Freedom of access to God without fear in opposition to the fear in Exodus 34:30. We need no veil and we have free access to God."
+        ],
+        "John Gill": [
+            "The Lord, to whom the heart is turned, when the veil is removed, is Jesus Christ; and he is 'that Spirit,' or 'the Spirit'.",
+            "Where the Spirit of the Lord is, there is liberty; which may be understood of the third person in the Godhead.",
+            "Where the Gospel takes place under the influence of the Spirit of God, there is liberty; not to sin, which is contrary to the Gospel, to the Spirit of God in believers, and to the principle of grace wrought in their souls; but a liberty from the bondage and servitude of it."
+        ],
+        "John Wesley": [
+            "Now the Lord \u2014 Christ is that Spirit of the law whereof I speak, to which the letter was intended to lead.",
+            "And where the Spirit of the Lord, Christ, is, there is liberty - Not the veil, the emblem of slavery.",
+            "There is liberty from servile fear, liberty from the guilt and from the power of sin, liberty to behold with open face the glory of the Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Now the Lord is the Spirit, the Lord of the Old Testament, who gives life to the letter. The Spirit of the Lord is the Spirit of Christ, who brings liberty. When the vail on their hearts is removed and they turn to the Lord, they are at liberty. Christ is the Spirit and end of the Old Testament, giving life to it, while the letter killeth. Through the Spirit, they are free to serve God and rejoice in Christ Jesus, no longer in bondage but in free sonship. This freedom is in opposition to the legal ordinances and the veil that symbolizes slavery and fear. Our liberty is the freedom to have unrestricted access to God, free from fear and with boldness to approach Him.",
+            "wordCount": 126,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.528611716844864,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.42,
+            "commentatorTierSimilarities": [
+                37.17,
+                27.68,
+                35.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Now the Lord is the Spirit, the Lord of the Old Testament, who gives life to the letter and brings liberty. When the veil is removed and they turn to the Lord, they are at liberty. Christ is the Spirit and end of the Old Testament, giving life to it, while the letter killeth. Through the Spirit, they are free to serve God and rejoice in Christ Jesus, no longer in bondage but in free sonship. Our liberty is the freedom to have unrestricted access to God, free from fear and with boldness to approach Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.551592705779554,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.18,
+            "commentatorTierSimilarities": [
+                37.19,
+                27.4,
+                35.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is liberty. Christ is the Spirit of the Old Testament, giving life to it and freeing believers from the bondage of the letter. Through the Spirit, they are able to serve God and rejoice in Christ Jesus, no longer slaves but free children. This freedom is a contrast to the legal ordinances and the veil that symbolizes fear and slavery. They have the liberty to approach God without hindrance or fear.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.4739809472427865,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.6,
+            "commentatorTierSimilarities": [
+                36.78,
+                28.27,
+                34.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Now the Lord is the Spirit, the Spirit that gives life to the letter. Christ is the Spirit of the Old Testament, the end of its institutions. Where the Spirit of the Lord is, there is liberty, freedom from slavery and sin. Through the Spirit, believers have access to God without fear and can rejoice in Christ Jesus. They no longer have the spirit of bondage, but the spirit of free sonship. The Spirit of God and the Spirit of Christ dwell in believers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 2.6202387412474613,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.46,
+            "commentatorTierSimilarities": [
+                36.61,
+                30.1,
+                33.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Now the Lord is the Spirit, the Lord of the Old Testament. The Spirit of the Lord is the Spirit of Christ, and where the Spirit of the Lord is, there is liberty. Turning to the Lord removes the veil and brings freedom. Christ is the end of the Old Testament, giving life to it. Believers have the freedom to serve God in the Spirit and rejoice in Christ Jesus. They are no longer in bondage, but are free children of God with unrestricted access to Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 2.540137514221861,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.8,
+            "commentatorTierSimilarities": [
+                36.92,
+                28.37,
+                34.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:28:37",
+    "verseRef": "Acts 9:28",
+    "bestBHT": {
+        "bht": "During his fifteen-day stay in Jerusalem, Paul was embraced by the disciples and considered a fellow Christian and apostle. He resided with Peter, coming and going freely among them. The apprehension that may have existed among the disciples regarding Paul was dispelled as Barnabas, Peter, and James openly accepted and supported him. Fearlessly, Paul proclaimed the gospel in the name of the Lord, displaying his boldness and courage. By fully immersing himself in the disciples' community, Paul formed strong relationships and laid the groundwork for his ministry.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.6848597934073397,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.36,
+        "commentatorTierSimilarities": [
+            31.62,
+            27.95,
+            40.43
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "28, 29. And he was with them, coming",
+            "\tin and going out at Jerusalem\u2014for fifteen days, lodging with",
+            "\tPeter (Galatians 1:18)."
+        ],
+        "Albert Barnes": [
+            "He was admitted to their friendship, and recognized as a Christian and an apostle.",
+            "The time during which he then remained at Jerusalem was, however, only fifteen days.",
+            "Galatians 1:18."
+        ],
+        "John Calvin": [
+            "Luke saith afterwards that Paul went in and out with the disciples... Therefore after that Paul was commended by the testimony of Barnabas, he began to be counted one of the flock, that he might be thoroughly known to the Church.",
+            "Luke saith again that he dealt boldly in the name of the Lord, by which words he commendeth his (stoutness and) courage in professing the gospel.",
+            "For though all be not Pauls, yet the faith of Christ ought to engender in our minds so great boldness, that we be not altogether dumb when we have need to speak."
+        ],
+        "Archibald T. Robertson": [
+            "Going in and going out (\u03b5\u03b9\u03c3\u03c0\u03bf\u03c1\u03b5\u03c5\u03bc\u03b5\u03bd\u03bf\u03c2 \u03ba\u03b1 \u03b5\u03ba\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2). Barnabas and Peter and James opened all the doors for Saul and the fear of the disciples vanished. "
+        ],
+        "John Gill": [
+            "He lived with them, conversed with them, and joined with them in all religious exercises.",
+            "No one of the apostles or disciples forbidding or hindering him.",
+            "He came in and went out at Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During his stay in Jerusalem, the disciples welcomed Paul into their community and treated him as one of their own. He spent fifteen days lodging with Peter, going in and going out freely among them. Luke emphasizes that Barnabas, Peter, and James opened all the doors for Saul, removing any fear or doubt the disciples may have had about him. This signified the acceptance and recognition of Paul as a Christian and an apostle. Paul's boldness and courage in proclaiming the gospel were evident, as he fearlessly spoke in the name of the Lord. He fully immersed himself in the life of the disciples, living with them, conversing with them, and participating in their religious activities. The unity and support Paul experienced within this community laid a strong foundation for his ministry.",
+            "wordCount": 133,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.5897306326747649,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.2,
+            "commentatorTierSimilarities": [
+                32.91,
+                27.71,
+                39.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During his fifteen-day stay in Jerusalem, Paul was warmly received by the disciples, who opened all the doors for him, removing any apprehension they may have had. He lodged with Peter, going in and going out freely among them. This demonstrated their acceptance of Paul as a Christian and an apostle. Paul's courageous proclamation of the gospel was evident, as he fearlessly spoke in the name of the Lord. He fully immersed himself in the life of the disciples, living with them and participating in their religious activities.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.572821105238523,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.64,
+            "commentatorTierSimilarities": [
+                29.99,
+                29.11,
+                40.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During his time in Jerusalem, Paul was welcomed by the disciples and recognized as a Christian and an apostle. He spent fifteen days lodging with Peter, going in and going out freely among them. The disciples' support for Paul removed any fear or doubt they may have had about him. Paul boldly proclaimed the gospel in the name of the Lord, demonstrating his courage and commitment. He fully engaged with the disciples, living, conversing, and participating in their religious practices, establishing a strong foundation for his ministry.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.6284833900980833,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                30.95,
+                30.02,
+                39.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During his fifteen-day stay in Jerusalem, Paul was embraced by the disciples and considered a fellow Christian and apostle. He resided with Peter, coming and going freely among them. The apprehension that may have existed among the disciples regarding Paul was dispelled as Barnabas, Peter, and James openly accepted and supported him. Fearlessly, Paul proclaimed the gospel in the name of the Lord, displaying his boldness and courage. By fully immersing himself in the disciples' community, Paul formed strong relationships and laid the groundwork for his ministry.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.6848597934073397,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.36,
+            "commentatorTierSimilarities": [
+                31.62,
+                27.95,
+                40.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During his stay in Jerusalem, Paul was welcomed by the disciples as one of their own, recognized as a Christian and an apostle. For fifteen days, he lodged with Peter and freely moved in and out among them. The disciples' acceptance of him eliminated any previous fears they may have had. Paul fearlessly proclaimed the gospel in the name of the Lord, demonstrating his boldness and courage. By immersing himself in the disciples' community, Paul established strong relationships, paving the way for his future ministry.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.5922772707263992,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.29,
+            "commentatorTierSimilarities": [
+                32.14,
+                28.79,
+                39.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

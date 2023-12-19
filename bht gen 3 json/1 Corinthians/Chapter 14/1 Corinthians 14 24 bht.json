@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:13:20",
+    "verseRef": "1 Corinthians 14:24",
+    "bestBHT": {
+        "bht": "When the Word of God is preached with power, individuals are convicted and searched into by all. This powerful preaching has the ability to reveal the hearers to themselves, opening up their secret character and exposing their sins. The Word acts as a light that dispels darkness and prompts self-examination. Through this process, the hearer is convinced of their sins and the truth of Christianity. The words spoken have a self-discovering character, approved by their own conscience and bringing judgment on their former life.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.9452923663975787,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+        "commentatorTierSimilarities": [
+            25.11,
+            41.53,
+            33.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is convicted by all, he is searched into by all, the hidden things of his heart become manifest...",
+            "Instances of such revelations of a man to himself by powerful preaching have often occurred...",
+            "Having fallen on his face he will worship God, announcing that of a truth God is among you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This effect, namely, conviction by all, would be produced on anyone, who might happen to enter.\" ",
+            "Individuals are more easily won.",
+            "His secret character is opened out."
+        ],
+        "Albert Barnes": [
+            "He will understand what is said; he will see its truth and force, and be will be satisfied of the truth of Christianity.",
+            "He would be convicted, or convinced of his error and of his sin; he would see that his former opinions and practice had been wrong; he would see and acknowledge the force and truth of the Christian sentiments.",
+            "The 'effect' of what they say shall be, as it were, to pass a 'judgment' on his former life; or to condemn him. What is said will be approved by his own conscience, and will have the effect to condemn him in his own view as a lost sinner."
+        ],
+        "Marvin Vincent": [
+            "Each inspired speaker, in his heart-searching utterances, shall start questions which shall reveal the hearer to himself.",
+            "Convinced [\u03b5\u03bb\u03b5\u03b3\u03c7\u03b5\u03c4\u03b1\u03b9]. Of his sins.",
+            "Judged [\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b5\u03c4\u03b1\u03b9]. Examined and judged."
+        ],
+        "John Calvin": [
+            "For what a base part it is to depreciate a gift that is most useful both within and without, and to be wholly taken up with another gift which is useless to those that are within the house; and, in addition to this, gives occasion of offense to those that are without.\" ",
+            "The Word of God penetrates even to the farthest recesses of the mind, and by introducing, as it were, a light, dispels darkness, and drives away that deadly torpor.",
+            "He is judged, inasmuch as he descends into himself, and, after thorough examination, comes to know himself, while previously he was unmindful of himself."
+        ],
+        "Philip Schaff": [
+            "He is reproved (or \u2018convicted\u2019), he is judged (\u2018searched,\u2019 \u2018discovered\u2019) by all his state and character are laid bare to himself by all the inspired speakers.\" ",
+            "The same searching, self-discovering character of the Divine word is strikingly expressed."
+        ],
+        "Archibald T. Robertson": [
+            "He is reproved by all (\u03b5\u03bb\u03b5\u03b3\u03c7\u03b5\u03c4\u03b1 \u03c5\u03c0\u03bf \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd). Old word for strong proof, is undergoing conviction.",
+            "Is judged (\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b5\u03c4\u03b1). Is tested. Cf. 1 Corinthians 2:15; 1 Corinthians 4:3. "
+        ],
+        "John Gill": [
+            "He is convinced of all, he is judged of all.",
+            "They all reprove him, and detect his secret.",
+            "Whom he convinces of sin, righteousness, and judgment, shows the evil of their hearts and ways."
+        ],
+        "John Wesley": [
+            "He is convicted by all \u2014 who speak in their turns, and speak to the heart of the hearers.",
+            "He is judged by all \u2014 Every one says something to which his conscience bears witness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Word of God is preached with power, it has the ability to convict and search into the hidden depths of a person's heart. Through this powerful preaching, individuals may come face to face with their own sin and be exposed to the truth of Christianity. The effect is not only external, but internal as well, as each inspired speaker reveals the hearers to themselves. The Word of God acts as a piercing light that dispels darkness and prompts self-examination. In this process, the hearer is convinced of their sins and their secret character is opened up. The words spoken are approved by their own conscience and act as a judgment on their former life. Ultimately, it is through this convicting power of the Word that hearts are softened, souls are transformed, and individuals are won to the truth.",
+            "wordCount": 142,
+            "quoteTokenProportion": 35.23,
+            "qualityScore": 1.8461748443580857,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "commentatorTierSimilarities": [
+                26.14,
+                40.41,
+                33.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Word of God is preached with power, individuals are convicted and searched into by all. This powerful preaching has the ability to reveal the hearers to themselves, opening up their secret character and exposing their sins. The Word acts as a light that dispels darkness and prompts self-examination. Through this process, the hearer is convinced of their sins and the truth of Christianity. The words spoken have a self-discovering character, approved by their own conscience and bringing judgment on their former life.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.9452923663975787,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+            "commentatorTierSimilarities": [
+                25.11,
+                41.53,
+                33.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Word of God is preached powerfully, it has the ability to convict and search into the hidden depths of a person's heart. This convicting power exposes individuals to the truth of Christianity and reveals their own sins. The words spoken resonate with their conscience, causing self-judgment and prompting self-examination. Through this process, the hearer's secret character is opened, and their former life stands condemned. The transformative effect of the Word of God can soften hearts and win individuals to the truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.8722268971816471,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.59,
+            "commentatorTierSimilarities": [
+                26.27,
+                41.25,
+                32.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the Word of God is preached powerfully, it convicts and searches into the depths of a person's heart, revealing their hidden character and exposing their sins. Through this process, individuals are confronted with the truth of Christianity and compelled to examine themselves. The words spoken bring self-judgment and prompt self-reflection, leading to a recognition of their former wrong opinions and practices. This transformative power of the Word has the ability to soften hearts and draw individuals to the truth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8003649061746758,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+            "commentatorTierSimilarities": [
+                24.06,
+                42.32,
+                33.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The powerful preaching of the Word of God has the remarkable ability to convict and search into a person's heart, exposing their hidden character and revealing their sins. Through this process, individuals are confronted with the truth of Christianity, prompting them to question and judge their own former lives. This self-discovery, approval by the conscience, and recognition of their need for transformation can soften hearts and draw individuals closer to the truth.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8417741320134948,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                24.36,
+                41.48,
+                34.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:19:48",
+    "verseRef": "Luke 14:27",
+    "bestBHT": {
+        "bht": "To truly be a follower of Jesus, one must bear their own cross. Just as Jesus carried His cross, each disciple has their own unique cross to bear. This idea may have been surprising to the crowd, who may not have expected this aspect of discipleship. However, it is important to note that being a disciple is not just about becoming one, but actively embracing the responsibility of carrying our cross. This means patiently enduring all kinds of trials, reproach, afflictions, persecutions, and even death itself. Those who refuse to bear their cross in this way cannot authentically claim to be disciples of Jesus.",
+        "wordCount": 104,
+        "quoteTokenProportion": 51.43,
+        "qualityScore": 1.931524093936623,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+        "commentatorTierSimilarities": [
+            46.05,
+            23.92,
+            30.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "His cross. More correctly, his own. An important charge. All must bear the cross, but not all the same cross : each one his own."
+        ],
+        "Philip Schaff": [
+            "While our Lord had foretold His death, He had not announced that He would be crucified; so that this saying must have sounded strangely to the multitude.",
+            "Notice that both verses speak of being a disciple, not simply becoming one.",
+            "The permanent requirement of discipleship is stated."
+        ],
+        "Archibald T. Robertson": [
+            "Each follower has a cross which he must bear as Jesus did his."
+        ],
+        "John Gill": [
+            "Whosoever doth not bear his cross... whatever is trying and disagreeable to flesh and blood.",
+            "All reproach, afflictions, persecutions, and death itself, cheerfully and patiently.",
+            "Cannot be my disciple; he is not so in reality, nor does he deserve the name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To be a true disciple of Jesus means to bear one's own cross, and this cross will differ for each person. Just as Jesus bore His cross, every follower must embrace their own. This concept may have been bewildering to the crowd, who were likely not expecting Jesus to speak of such a fate. However, it is important to note that Jesus is not just speaking of becoming a disciple, but of being one. Bearing our cross is a permanent requirement of true discipleship. This means willingly enduring all types of trials, reproach, afflictions, persecutions, and even death, with patience and cheerfulness. Anyone who refuses to bear their cross in this way cannot truly be called a disciple of Jesus.",
+            "wordCount": 121,
+            "quoteTokenProportion": 49.37,
+            "qualityScore": 1.908804587399786,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                42.25,
+                28.08,
+                29.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To be a true disciple of Jesus means to bear one's own cross, each follower having their unique cross to carry. This charge is an essential aspect of discipleship. It is not simply about becoming a disciple, but being one. Jesus' mention of bearing the cross may have surprised the crowd, but it signifies the permanent requirement of discipleship. This entails patiently and cheerfully enduring all hardships, reproach, afflictions, persecutions, and even death itself. Those who refuse to bear their cross in this manner cannot genuinely be called disciples of Jesus.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.787488298305726,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.78,
+            "commentatorTierSimilarities": [
+                37.55,
+                29.91,
+                32.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To truly be a follower of Jesus, one must bear their own cross. Just as Jesus carried His cross, each disciple has their own unique cross to bear. This idea may have been surprising to the crowd, who may not have expected this aspect of discipleship. However, it is important to note that being a disciple is not just about becoming one, but actively embracing the responsibility of carrying our cross. This means patiently enduring all kinds of trials, reproach, afflictions, persecutions, and even death itself. Those who refuse to bear their cross in this way cannot authentically claim to be disciples of Jesus.",
+            "wordCount": 104,
+            "quoteTokenProportion": 51.43,
+            "qualityScore": 1.931524093936623,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                46.05,
+                23.92,
+                30.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Becoming a true disciple of Jesus involves shouldering our own cross. Each follower has a distinctive cross to bear, just as Jesus did. This aspect of discipleship may have been unexpected to the crowd. However, it is essential to grasp that discipleship goes beyond mere initiation; it necessitates a lifelong commitment. This commitment requires embracing all trials, reproaches, afflictions, persecutions, and even death with patience and cheerfulness. One who refuses to carry their cross in this manner cannot genuinely be considered a disciple of Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.7068879128878942,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
+            "commentatorTierSimilarities": [
+                42.57,
+                27.67,
+                29.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To be a true disciple of Jesus, one must bear their own unique cross, just as Jesus did. This aspect of discipleship is a fundamental charge. It is not merely about becoming a disciple, but genuinely being one. The mention of bearing the cross may have surprised the crowd, but it signifies a permanent requirement of discipleship. This means willingly enduring all trials, reproach, afflictions, persecutions, and even death, with patience and cheerfulness. Anyone who refuses to bear their cross in this manner cannot truly be called a disciple of Jesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.7502187836683438,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+            "commentatorTierSimilarities": [
+                36.97,
+                30.23,
+                32.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

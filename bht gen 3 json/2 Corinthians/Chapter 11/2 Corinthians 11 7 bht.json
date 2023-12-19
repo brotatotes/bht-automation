@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:18:07",
+    "verseRef": "2 Corinthians 11:7",
+    "bestBHT": {
+        "bht": "Paul rhetorically questions the Corinthians whether it was a sin for him to preach the gospel without charge. By working as a tentmaker and humbling himself, Paul aimed to freely share the blessings of the gospel with them and promote their spiritual exaltation. Despite the criticism from false apostles, Paul's self-effacing actions demonstrated his dedication to the Corinthians' spiritual growth and his desire to avoid accusations of greed or self-interest while admitting them to the privileges of the Gospel and making them children of God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 2.173699674037362,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.62,
+        "commentatorTierSimilarities": [
+            32.57,
+            36.72,
+            30.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The exaltation which they received by his demeaning himself was that of reception into the blessings of the gospel.",
+            "It was his wish to preach to them gratuitously, which necessitated his abasing himself.",
+            "Living on subsidies from others, besides (which he does not here distinctly allude to) his working with his own hands at Corinth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Have I preached to you gratuitously? This, so far from being an objection, was a decided superiority in him above the false apostles.",
+            "A basis of myself in my mode of living, waiving my right of maintenance, and earning it by manual labor.",
+            "You...exalted spiritually, by your admission to Gospel privileges."
+        ],
+        "Albert Barnes": [
+            "I admit my inferiority in regard to my manner of speaking. But this does not interfere with my full understanding of the doctrines which I preach, nor does it interfere with the numerous evidences which I have furnished that I am called to the office of an apostle.",
+            "What then is the ground of offence? In what have I erred? Wherein have I shown that I was not qualified to be an apostle? Is it in the fact that I have not chosen to press my claim to a support, but have preached the gospel without charge?",
+            "I did it because I could thus better promote religion among you. I could thus avoid the charge of aiming at the acquisition of wealth; could shut the mouths of gainsayers, and could more easily secure access to you."
+        ],
+        "Marvin Vincent": [
+            "Abasing myself. By working at his trade.\" ",
+            "Preached the Gospel - freely [\u03b4\u03c9\u03c1\u03b5\u03b1\u03bd] gratuitously.\" ",
+            "Without charge would be better."
+        ],
+        "John Calvin": [
+            "Humility here means \u2014 voluntary abasement; for in conducting himself modestly, as if he had nothing in him that was particularly excellent, so that many looked upon him as one of the common people, he had done that for the advantage of the Corinthians.",
+            "He now indirectly charges them with ingratitude, in imputing to him as a fault so pious a disposition \u2014 not indeed for the purpose of reproaching him, but with the view of restoring them so much the better to a sound mind.",
+            "Because I preached freely... The reason, why he had given his services to the Corinthians gratuitously, is immediately subjoined \u2014 for he did not act in this manner everywhere, but... there was a danger of his furnishing the false Apostles with a handle against him."
+        ],
+        "Philip Schaff": [
+            "Or changing their ground of complaint did I commit an offence (Gr. \u2018sin\u2019) in abasing myself that ye might be exalted...\" ",
+            "He had claimed for apostles the right to temporal support from their converts (1 Corinthians 9:13), but, conscious (as they insinuated) that he himself was not one, he dared not assert it at Corinth.",
+            "...he preached the gospel of God for nought."
+        ],
+        "Archibald T. Robertson": [
+            "Humbling myself by making tents for a living while preaching in Corinth.",
+            "He is ironical still about 'doing a sin' (\u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03b1\u03bd \u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1).",
+            "It amounts to sarcasm to ask if he did a sin in preaching the gospel free of expense to them 'that ye may be exalted.'"
+        ],
+        "John Gill": [
+            "Since it could not be thought to be with any view to himself, and his own advantage, but purely for their good.",
+            "To an enjoyment of the privileges of God's house; to have a name better than that of sons and daughters, and to have a right and title to the heavenly glory.",
+            "This he preached 'freely' to the Corinthians at his first coming among them, without putting them to any expense, or receiving anything from them."
+        ],
+        "John Wesley": [
+            "In humbling myself - To work at my trade.",
+            "That ye might be exalted \u2014 To be children of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the apostle Paul questions the Corinthians about whether he had committed a sin by preaching the gospel free of charge to them. He sarcastically acknowledges that by humbling himself and working as a tentmaker while ministering in Corinth, he made himself seem less impressive in their eyes. However, he emphasizes that his goal was not to seek personal gain, but rather to freely share the blessings of the gospel with them. His intention was for their spiritual exaltation, as they were admitted to the privileges of the Gospel and became children of God. Despite the false apostles' criticism, Paul's self-effacing actions were a sign of his dedication to the Corinthians' spiritual growth and his desire to avoid any accusations of greed or self-interest.",
+            "wordCount": 129,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0695328077644968,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.15,
+            "commentatorTierSimilarities": [
+                31.61,
+                35.08,
+                33.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul rhetorically questions the Corinthians whether it was a sin for him to preach the gospel without charge. By working as a tentmaker and humbling himself, Paul aimed to freely share the blessings of the gospel with them and promote their spiritual exaltation. Despite the criticism from false apostles, Paul's self-effacing actions demonstrated his dedication to the Corinthians' spiritual growth and his desire to avoid accusations of greed or self-interest while admitting them to the privileges of the Gospel and making them children of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.173699674037362,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.62,
+            "commentatorTierSimilarities": [
+                32.57,
+                36.72,
+                30.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul sarcastically asks the Corinthians if he sinned by preaching the gospel to them without charge. He clarifies that his intention was not personal gain, but rather to freely share the blessings of the gospel and promote their spiritual exaltation. Through his humble and selfless actions, Paul sought to avoid accusations of greed or self-interest while admitting them to the privileges of the Gospel and enabling them to become children of God. Despite the criticism from false apostles, Paul's dedication to their spiritual growth remained unwavering.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.0659268056356757,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.03,
+            "commentatorTierSimilarities": [
+                32.6,
+                35.43,
+                31.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in a somewhat sarcastic tone, questions the Corinthians whether he committed a sin by preaching the gospel free of charge. He explains that by humbling himself and working as a tentmaker, he was able to freely share the blessings of the gospel and elevate them spiritually. Despite the criticism from false apostles, Paul's intention was not self-interest but rather to ensure the Corinthians' spiritual growth and grant them access to the privileges of the Gospel as children of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.1669456257474238,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+            "commentatorTierSimilarities": [
+                32.34,
+                36.55,
+                31.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul sarcastically questions whether preaching the gospel without charge to the Corinthians was a sin. By humbling himself and working as a tentmaker, he aimed to freely share the blessings of the gospel and elevate them spiritually. Despite the criticism from false apostles, Paul's intention was not self-interest, but rather to promote the Corinthians' spiritual growth and grant them access to the privileges of the Gospel as children of God. His actions were a demonstration of his dedication to their spiritual well-being and a desire to avoid accusations of greed or personal gain.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.0759561770219532,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.37,
+            "commentatorTierSimilarities": [
+                33.02,
+                35.23,
+                31.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

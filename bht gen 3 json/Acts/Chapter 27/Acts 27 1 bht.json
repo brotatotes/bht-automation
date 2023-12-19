@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:36:57",
+    "verseRef": "Acts 27:1",
+    "bestBHT": {
+        "bht": "Luke's detailed and accurate account of this voyage and shipwreck sheds light on ancient seafaring practices, revealing Paul's character in a remarkable fashion. The use of we indicates that Luke himself was with Paul, and Julius, the centurion mentioned, shows remarkable respect and courtesy towards him throughout. This journey to Rome was not merely a transport of a prisoner, but rather Paul traveled as a companion. Ultimately, it is clear that this voyage was decreed by God's will and providence.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.6818347771706077,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+        "commentatorTierSimilarities": [
+            26.63,
+            39.9,
+            33.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The substance of these will be found embodied in an Appendix following the chronological table in the Introduction to the Acts.",
+            "There is some difficulty in determining what this cohort was.",
+            "To this Julius seems to have belonged,\u2014to have been sent on some service into Asia, and now to have been returning to Rome."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'we' here reintroduces the historian as one of the company.",
+            "State prisoners going to be tried at Rome of which several instances are on record.",
+            "Julius\u2014who treats the apostle throughout with such marked courtesy (Acts 27:3; Acts 27:43; Acts 28:16)."
+        ],
+        "Albert Barnes": [
+            "The use of the term 'we' here shows that the author of this book, Luke, was with Paul.",
+            "Whether he went at his own expense, or whether he was sent at the expense of the Roman government, does not appear.",
+            "The Augustine cohort or band is mentioned by Suetonius in his Life of Nero, 20."
+        ],
+        "Marvin Vincent": [
+            "Sail [\u03b1\u03c0\u03bf\u03c0\u03bb\u03b5\u03b9\u03bd] . Lit., sail away. ",
+            "Band. See on Mark 14:16."
+        ],
+        "John Calvin": [
+            "That we may know that he was brought to Rome wonderfully by the hand of God.",
+            "The Lord doth afterward put great difference between him and the evil-doers.",
+            "I cannot tell out of what haven they launched."
+        ],
+        "Philip Schaff": [
+            "The word \u03b5 \u0313 \u03ba\u03c1\u03b9 \u0301 \u03b8\u03b7 , however, may only mean that time for going to Italy was now fixed.",
+            "Like other centurions mentioned in the New Testament, he commands our respect.",
+            "That he had an escort of soldiers with him is clear from Acts 27:31-32."
+        ],
+        "Archibald T. Robertson": [
+            "The great detail and minute accuracy of Luke's account of this voyage and shipwreck throw more light upon ancient seafaring than everything else put together.",
+            "Though so accurate in his use of sea terms, yet Luke writes like a landsman, not like a sailor.",
+            "The character of Paul is here revealed in a remarkable fashion."
+        ],
+        "John Gill": [
+            "It was the decree and will of God that the apostle should go to Rome, which was made known to him; and it was his resolution upon that, to go thither, wherefore he appealed to Caesar.",
+            "These were to sail with him to Italy, not as prisoners, but as companions.",
+            "He was either one of the Julian family, or rather was one that had been made free by some of that family, and so took the name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Luke, the author of Acts, provides great detail and accuracy in his account of this voyage and shipwreck, shedding light on ancient seafaring practices. Interestingly, Luke writes like a landsman, not a sailor, despite his precise use of sea terms. The character of Paul is also revealed in a remarkable fashion. It is worth noting that the use of we indicates that Luke himself was with Paul during this journey. Julius, the centurion mentioned, shows remarkable respect and courtesy towards Paul throughout. This voyage was not merely Paul being transported as a prisoner, but rather traveling as a companion. Ultimately, it is clear that this journey to Rome was decreed by God's will and providence.",
+            "wordCount": 116,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.6637911574627051,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.66,
+            "commentatorTierSimilarities": [
+                29.54,
+                40.32,
+                30.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Luke's detailed and accurate account of this voyage and shipwreck sheds light on ancient seafaring practices, revealing Paul's character in a remarkable fashion. The use of we indicates that Luke himself was with Paul, and Julius, the centurion mentioned, shows remarkable respect and courtesy towards him throughout. This journey to Rome was not merely a transport of a prisoner, but rather Paul traveled as a companion. Ultimately, it is clear that this voyage was decreed by God's will and providence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6818347771706077,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                26.63,
+                39.9,
+                33.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Luke's meticulous account of this voyage and shipwreck provides invaluable insight into ancient seafaring practices. We learn that Paul's character is revealed in a remarkable fashion throughout this journey. It is noteworthy that the use of we indicates Luke's presence alongside Paul. The centurion named Julius exhibits exceptional courtesy towards Paul. This voyage to Rome was not merely a prisoner transfer but a journey in which Paul traveled as a companion. Ultimately, it is evident that this voyage was in accordance with the will of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.585470506676453,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.06,
+            "commentatorTierSimilarities": [
+                30.44,
+                39.12,
+                30.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Luke's detailed and accurate account of this voyage and shipwreck sheds light on ancient seafaring practices and reveals Paul's character in a remarkable fashion. The use of we indicates that Luke himself was with Paul, and Julius, the centurion mentioned, shows remarkable respect and courtesy towards him throughout. This journey to Rome was not just a prisoner transport but rather Paul traveled as a companion. Ultimately, it is clear that this voyage was decreed by God's will and providence.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6775090846416454,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                26.28,
+                39.99,
+                33.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Luke's meticulous account of this voyage and shipwreck provides invaluable insight into ancient seafaring practices. We learn that Paul's character is revealed in a remarkable fashion throughout this journey. It is noteworthy that the use of we indicates Luke's presence alongside Paul. The centurion named Julius exhibits exceptional courtesy towards Paul. This voyage to Rome was not merely a prisoner transfer but a journey in which Paul traveled as a companion. Ultimately, it is evident that this voyage was in accordance with the will of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.585470506676453,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.06,
+            "commentatorTierSimilarities": [
+                30.44,
+                39.12,
+                30.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

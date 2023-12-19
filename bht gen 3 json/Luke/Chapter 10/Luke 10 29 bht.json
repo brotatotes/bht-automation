@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:18:08",
+    "verseRef": "Luke 10:29",
+    "bestBHT": {
+        "bht": "Questioning with a desire to justify himself, the man asked Jesus, Who is my neighbor? The Jews narrowly interpreted neighbor to exclude Samaritans and Gentiles. Jesus aimed to awaken the man's conscience to his own sinfulness and his departure from the law. While not directly hostile, the man's question revealed a half-awakened conscience and a self-righteous attempt to define neighbor according to his own standards. However, Jesus used a parable in response to challenge this mindset and teach the true meaning of being a neighbor.",
+        "wordCount": 89,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 2.149786332071148,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.82,
+        "commentatorTierSimilarities": [
+            31.21,
+            36.96,
+            31.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The questioner, having been by our Lord\u2019s enquiry, 'how readest thou?' himself thrown into the position of the answerer, yet, 'willing to justify himself,' wishing to carry out the purpose with which he asked at first...",
+            "...to cover what otherwise would be his shame at being answered by so simple a reply, and that his own...",
+            "I may observe that we need not take the whole of this explanation, but may well suppose that 'to justify himself' may mean, 'to get himself out of the difficulty...'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Wishing to get himself out of the difficulty, by throwing on Jesus the definition of 'neighbor'...",
+            "...which the Jews interpreted very narrowly and technically...",
+            "...as excluding Samaritans and Gentiles."
+        ],
+        "Albert Barnes": [
+            "Desirous to appear blameless, or to vindicate himself, and show that he had kept the law.",
+            "Jesus wished to lead him to a proper view of his own sinfulness, and his real departure from the law.",
+            "Every sinner is desirous of 'justifying himself.' He seeks to do it by his own works."
+        ],
+        "Marvin Vincent": [
+            "Willing [\u03b8\u03b5\u03bb\u03c9\u03bd] . Rev., desiring. See on Matthew 1:19. I think this is stronger than desiring; rather, determined. ",
+            "Neighbor [\u03c0\u03bb\u03b7\u03c3\u03b9\u03bf\u03bd] . See on Matthew 5:43."
+        ],
+        "John Calvin": [
+            "The hypocrisy of men is elderly detected by means of the second table.\" ",
+            "While they pretend to be eminent worshippers of God, they openly violate charity towards their neighbors.",
+            "The only method to which hypocrites can resort for avoiding the condemnation of themselves is to turn away as far as they are able, that their life may not be tried by the judgment of the Law."
+        ],
+        "Philip Schaff": [
+            "But he, wishing to justify himself, to declare himself righteous, over against the implied charge.",
+            "The question did not involve direct hostility, but a half-awakened conscience and some willingness to be instructed, though a self-righteous desire \u2018to get out of the difficulty\u2019 was the leading motive.",
+            "Who is my neighbor? This implies: \u2018I have fulfilled the requirement according to our view of the meaning, do you interpret it differently?\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Desiring to justify himself (\u03b8\u03b5\u03bb\u03c9\u03bd \u03b4\u03b9\u03ba\u03b1\u03b9\u03c9\u03c3\u03b1 \u03b5\u03b1\u03c5\u03c4\u03bf\u03bd).",
+            "The Jews split hairs over this question and excluded from 'neighbour' Gentiles and especially Samaritans.",
+            "The word \u03c0\u03bb\u03b7\u03c3\u03b9\u03bf\u03bd here is an adverb (neuter of the adjective \u03c0\u03bb\u03b7\u03c3\u03b9\u03bf\u03c2) meaning \u03bf \u03c0\u03bb\u03b7\u03c3\u03b9\u03bf\u03bd \u03c9\u03bd (the one who is near), but \u03c9\u03bd was usually not expressed and the adverb is here used as if a substantive."
+        ],
+        "John Gill": [
+            "Every one who justifies himself, below (on earth), they justify him above (or in heaven).",
+            "He takes no notice of God, and love to him, as coming into the account of his justification, only of his neighbour.",
+            "This notion Christ opposes and disproves in the following parable, which is an answer to the lawyer's question."
+        ],
+        "John Wesley": [
+            "To justify himself \u2014 That is, to show he had done this. Leviticus 18:5."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The questioner, wanting to avoid shame at being answered by such a simple reply and desiring to justify himself, asked Jesus, Who is my neighbor? The term neighbor was interpreted narrowly by the Jews, excluding Samaritans and Gentiles. Jesus wanted to lead him to a proper view of his own sinfulness and departure from the law. While the question did not involve direct hostility, it displayed a half-awakened conscience and some willingness to be instructed. The questioner sought to get himself out of the difficulty and have Jesus define neighbor according to his own righteousness. However, Jesus used a parable to challenge this self-righteousness and teach the true meaning of being a neighbor.",
+            "wordCount": 115,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.175425381179564,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.67,
+            "commentatorTierSimilarities": [
+                32.53,
+                38.72,
+                28.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The questioner, wishing to justify himself, asked Jesus, Who is my neighbor? The Jews interpreted neighbor narrowly, excluding Samaritans and Gentiles. Jesus wanted to lead him to a proper view of his own sinfulness. Though the question did not involve direct hostility, it revealed a half-awakened conscience and a desire to be instructed. The questioner sought to define neighbor based on his own self-righteousness, but Jesus used a parable to challenge his mindset and teach the true meaning of being a neighbor.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.117323614327197,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.74,
+            "commentatorTierSimilarities": [
+                33.86,
+                37.64,
+                28.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Questioning with a desire to justify himself, the man asked Jesus, Who is my neighbor? The Jews narrowly interpreted neighbor to exclude Samaritans and Gentiles. Jesus aimed to awaken the man's conscience to his own sinfulness and his departure from the law. While not directly hostile, the man's question revealed a half-awakened conscience and a self-righteous attempt to define neighbor according to his own standards. However, Jesus used a parable in response to challenge this mindset and teach the true meaning of being a neighbor.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.149786332071148,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.82,
+            "commentatorTierSimilarities": [
+                31.21,
+                36.96,
+                31.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Desiring to justify himself, the questioner asked Jesus, Who is my neighbor? The Jews narrowly interpreted neighbor, excluding Samaritans and Gentiles. Jesus aimed to expose the man's sinful nature and departure from the law. The question did not involve hostility, but rather a partially awakened conscience and a willingness to learn, though driven by a self-righteous desire to escape difficulty. However, Jesus used a parable to challenge this mindset and reveal the true meaning of being a neighbor.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.045367161650898,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+            "commentatorTierSimilarities": [
+                33.68,
+                36.07,
+                30.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Wishing to justify himself and seeking to define neighbor based on his own righteousness, the questioner asked Jesus, Who is my neighbor? The Jews interpreted this term narrowly, excluding Samaritans and Gentiles. Jesus wanted to awaken the man's conscience to his own sinfulness and departure from the law. Although the question did not involve direct hostility, it revealed a half-awakened conscience and a self-righteous desire to avoid difficulty. However, Jesus used a parable to challenge this mindset and demonstrate the true meaning of being a neighbor.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.105090549966225,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+            "commentatorTierSimilarities": [
+                31.61,
+                38.56,
+                29.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

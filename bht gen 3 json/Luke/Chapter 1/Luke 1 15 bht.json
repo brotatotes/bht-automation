@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:13:22",
+    "verseRef": "Luke 1:15",
+    "bestBHT": {
+        "bht": "One who will be great in the sight of the Lord, filled with the Holy Ghost, and shall not drink strong drink. This emphasizes the spiritual nature of their greatness and sanctification through the Holy Spirit. Their abstention from strong drink symbolizes holiness and the internal realization of the Nazarite ideal. The prohibition against drinking serves as an example of temperance and self-denial, contrasting the influence of the Holy Spirit with the physical effects of intoxication. Their role is significant and guided by the grace of God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.944165967307895,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+        "commentatorTierSimilarities": [
+            28.0,
+            37.73,
+            34.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in the sight of the Lord",
+            "he shall be filled with the Holy Ghost",
+            "The from seems to fix the prior limit of the in-dwelling of the Spirit, at his birth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "great in the sight of the Lord\u2014nearer to Him in official standing than all the prophets.",
+            "As the leper was the living symbol of sin, so was the Nazarite of holiness.",
+            "HE was the REALITY and PERFECTION of the Nazarite without the symbol, which perished in that living realization of it."
+        ],
+        "Albert Barnes": [
+            "Shall be great - Shall be eminent, or distinguished as a preacher.",
+            "God shall regard him as such.",
+            "To be 'filled' with the Holy Spirit is to be illuminated, sanctified, and guided by his influence."
+        ],
+        "Marvin Vincent": [
+            "Strong drink [\u03c3\u03b9\u03ba\u03b5\u03c1\u03b1]. A Hebrew word, meaning any kind of intoxicating liquor not made from grapes.\" ",
+            "Even from his mother's womb.",
+            "Eti, yet, still, means while yet unborn."
+        ],
+        "John Calvin": [
+            "Only let all practice temperance, let those who conceive it to be injurious to drink wine abstain of their own accord, and let those who have it not endure the want with contentment.",
+            "By disposition I mean not such as is found even in ungodly men, but what corresponds to the excellence of his office.",
+            "The power of the Spirit, I acknowledge, did operate in John, while he was yet in his mother\u2019s womb; but here, in my opinion, the angel meant something else, that John, even when a child, would be brought forward to the public gaze, accompanied by extraordinary commendation of the grace of God."
+        ],
+        "Philip Schaff": [
+            "He shall be great in the sight of the Lord. Spiritual, not temporal, greatness is promised.",
+            "Neither wine nor strong drink. 'Sikera,' the Greek word here used, refers to liquors of an intoxicating character, not prepared from grapes. He was to be a Nazarite.",
+            "Filled with the Holy Ghost, not with wine."
+        ],
+        "Archibald T. Robertson": [
+            "Strong drink (\u03c3\u03b9\u03ba\u03b5\u03c1\u03b1). A Hebrew word transliterated into Greek, an intoxicating drink.",
+            "Shall not drink (\u03bf\u03c5 \u03bc\u03b7 \u03c0\u03b9\u03b7). Strong prohibition, double negative and second aorist subjunctive.",
+            "The Holy Ghost (\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03b3\u03b9\u03bf\u03c5). The Holy Spirit in contrast to the physical excitement of strong drink (Plummer)."
+        ],
+        "John Gill": [
+            "He was great, not in birth and blood, in worldly riches and grandeur, but in gifts and grace, in his work, office, and usefulness, and in the esteem of God, and even of men too.",
+            "The Hebrew word, \u05e9\u05db\u05e8, and which is here retained by the evangelist, signifies any sort of liquor, which is inebriating, whether it is made of fruits, or honey, or what not.",
+            "Like Jeremiah, he was sanctified, set apart, and ordained to be the prophet of the Highest, before he came out of his mother's womb; and was then under such an influence of the Spirit of God, as to leap in it for joy, at the salutation of the mother of Christ to his."
+        ],
+        "John Wesley": [
+            "He shall be great before the Lord - God the Father: of the Holy Ghost and the Son of God mention is made immediately after.",
+            "And shall drink neither wine nor strong drink - Shall be exemplary for abstemiousness and self-denial.",
+            "And so much the more filled with the Holy Ghost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of one who will be great in the sight of the Lord, filled with the Holy Ghost, and shall not drink strong drink even from his mother's womb. This highlights the significance of his role and the sanctification that comes from being illuminated and guided by the Holy Spirit. The commentary emphasizes that the individual's greatness is spiritual in nature, not based on worldly wealth or status. Furthermore, the use of the term strong drink refers to intoxicating liquors, and the individual is compared to a Nazarite, symbolizing holiness without the need for symbols. The prohibition against drinking serves as an example of temperance and self-denial, also highlighting the role of the Holy Spirit in contrast to the physical effects of strong drink.",
+            "wordCount": 129,
+            "quoteTokenProportion": 33.73,
+            "qualityScore": 2.0153893647322114,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.35,
+            "commentatorTierSimilarities": [
+                29.17,
+                35.18,
+                35.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "One who will be great in the sight of the Lord, filled with the Holy Ghost, and shall not drink strong drink. This emphasizes the spiritual nature of their greatness and sanctification through the Holy Spirit. Their abstention from strong drink symbolizes holiness and the internal realization of the Nazarite ideal. The prohibition against drinking serves as an example of temperance and self-denial, contrasting the influence of the Holy Spirit with the physical effects of intoxication. Their role is significant and guided by the grace of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.944165967307895,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+            "commentatorTierSimilarities": [
+                28.0,
+                37.73,
+                34.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The individual mentioned in the passage will be highly esteemed by God, filled with the Holy Ghost, and will abstain from strong drink. Their greatness will not be measured by worldly standards, but by their spiritual gifts, grace, work, and usefulness. The prohibition of strong drink signifies their commitment to temperance and self-denial. This individual represents a living realization of the Nazarite, embodying holiness without the need for the symbolic practices. Their extraordinary commendation from God will be evident even from a young age.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7915151668677929,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.91,
+            "commentatorTierSimilarities": [
+                28.7,
+                35.77,
+                35.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The one mentioned will be great in the sight of the Lord, filled with the Holy Ghost, and shall not drink strong drink. Their greatness does not come from worldly riches or grandeur, but from their gifts, grace, work, and usefulness in the eyes of God. By abstaining from strong drink, they demonstrate temperance and self-denial. This person embodies the Nazarite ideal of holiness without relying on symbols, being a living realization of it. Even from a young age, their exceptional commendation and the grace of God will be evident.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.8714356984862213,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.57,
+            "commentatorTierSimilarities": [
+                28.21,
+                35.44,
+                36.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The one mentioned in the verse will be great in the sight of the Lord, filled with the Holy Ghost, and will abstain from strong drink. Their greatness is not measured by worldly standards, but by their spiritual gifts, grace, work, and usefulness. Abstaining from strong drink represents their commitment to temperance and self-denial. As a living realization of the Nazarite, they embody holiness without the need for symbols. Their exceptional commendation by God will be evident from an early age.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8648718824398678,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                29.7,
+                36.48,
+                33.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

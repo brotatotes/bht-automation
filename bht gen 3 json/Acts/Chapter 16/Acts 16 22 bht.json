@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:32:21",
+    "verseRef": "Acts 16:22",
+    "bestBHT": {
+        "bht": "In the midst of a tumultuous outcry, the magistrates, without any trial, violently tore off the clothes of Paul and Silas, treating them with roughness before their imminent scourging. The actions of the magistrates were influenced by the fussy provincial authorities who viewed the Christians as vagabonds and seditious Jews. This incident exposes the malice of humanity and the polluted state of justice, while also highlighting the transformative power of Christ as He adorns His followers in prisons and on the cross, allowing them to triumph over Satan and all wickedness.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 1.943927852762228,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+        "commentatorTierSimilarities": [
+            28.05,
+            33.61,
+            38.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The multitude probably cried out tumultuously...",
+            "...the magistrates, without giving the Christians a trial...",
+            "...rent off their clothes, viz. by the lictors."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word expresses the roughness with which this was done to prisoners preparatory to whipping.",
+            "Without any trial, to appease the popular rage.",
+            "Thrice, it seems, Paul endured this indignity."
+        ],
+        "Albert Barnes": [
+            "It is evident that this was done in a popular tumult, and without even the form of law.",
+            "It was one instance in which people affect great zeal for the honor of the Law, and yet are among the first to disregard it.",
+            "This was always done when one was to be scourged or whipped. The criminal was usually stripped entirely naked."
+        ],
+        "Marvin Vincent": [
+            "Rent off their clothes. Only here in New Testament.\" ",
+            "Go, lictors; strip off their garments; let them be scourged!\" ",
+            "Rev. properly adds, with rods."
+        ],
+        "John Calvin": [
+            "The wonderful force of Satan doth therein betray itself, in that those who are in other matters modest and quiet, are for a matter of no importance in a heat, and became companions of most vile persons, when the truth must be resisted.",
+            "Surely the malice of men is to be lamented; whereby it came to pass, that almost all the judgment-seats of the world, which ought to have been sanctuaries of justice, have been polluted with the wicked and sacrilegious oppugning of the gospel.",
+            "For seeing that those persecutions, which we must suffer for the testimony of the gospel, are remnants of the sufferings of Christ; like as our Prince turned the cross, which was accursed, into a triumphant [triumphal] chariot, so he shall, in like sort, adorn the prisons and gibbets of his, that they may there triumph over Satan and all the wicked."
+        ],
+        "Philip Schaff": [
+            "The original cause of offence, the damage done to the productive property of the slave-owners, was quite lost sight of in the supposed public offence committed by the eastern strangers.",
+            "The praetors, without examining into the case, when they heard the nature of the charge, complying with the popular clamour, at once condemned the accused to a painful and shameful punishment before they were imprisoned and formally tried.",
+            "The magistrates in the case of Paul and Silas, as was the custom when criminals were ordered to be scourged, commanded the lictors the executioners violently to pull off the clothes of the condemned."
+        ],
+        "Archibald T. Robertson": [
+            "There was no actual attack of the mob as Paul and Silas were in the hands of the officers, but a sudden and violent uprising of the people, the appeal to race and national prejudice having raised a ferment.",
+            "The duumvirs probably gave orders for Paul and Silas to be stripped of their outer garments (\u03b9\u03bc\u03b1\u03c4\u03b9\u03b1), though not actually doing it with their own hands, least of all not stripping off their own garments in horror as Ramsay thinks.",
+            "As a Roman citizen this was unlawful, but the duumvirs looked on Paul and Silas as vagabond and seditious Jews and 'acted with the highhandedness characteristic of the fussy provincial authorities' (Knowling)."
+        ],
+        "John Gill": [
+            "And the multitude rose up together against them... being provoked at the hearing of unlawful customs being introduced among them.\" ",
+            "The magistrates rent off their clothes...they did not pluck off their garments, but rent and tore them off, and so whipped or beat them naked.\" ",
+            "This was one of the three times the apostle was beat in this manner...and of this shameful treatment at Philippi, he makes mention in 1 Thessalonians 2:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of a tumultuous outcry, the magistrates, without any trial, ordered for the clothes of Paul and Silas to be violently torn from their bodies, a degrading act typically done to prisoners before being whipped. The magistrates, influenced by the raging crowd who viewed the Christians as vagabond and seditious Jews, acted highhandedly and disregarded the rights of Paul and Silas as Roman citizens. This incident, borne out of prejudice and inflamed by false accusations, exemplifies the lamentable malice of humanity and the polluted state of justice in the world. Yet, even in the face of such persecution, the sufferings endured for the sake of the gospel are transformed into triumphs, as Christ adorns His followers in prison and on the cross, enabling them to triumph over Satan and all wickedness.",
+            "wordCount": 133,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.8925552531389347,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                25.47,
+                34.8,
+                39.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of a tumultuous outcry, the magistrates, without any trial, violently tore off the clothes of Paul and Silas, treating them with roughness before their imminent scourging. The actions of the magistrates were influenced by the fussy provincial authorities who viewed the Christians as vagabonds and seditious Jews. This incident exposes the malice of humanity and the polluted state of justice, while also highlighting the transformative power of Christ as He adorns His followers in prisons and on the cross, allowing them to triumph over Satan and all wickedness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.943927852762228,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+            "commentatorTierSimilarities": [
+                28.05,
+                33.61,
+                38.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a violent uprising driven by prejudice, the magistrates disregarded the rights of Paul and Silas, ordering their clothes to be violently stripped off before their imminent scourging. This act, born out of a fervor to appease the crowd and fueled by false accusations, demonstrates the malice of humanity and the corruption of justice. However, the sufferings endured for the gospel are transformed into triumphs, as Christ adorns His followers even in the midst of persecution, enabling them to triumph over Satan and all wickedness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8066829356825933,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                25.23,
+                35.08,
+                39.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The magistrates, complying with a tumultuous crowd and without giving the Christians a fair trial, rudely stripped off the clothes of Paul and Silas. This harsh and unjust treatment exposed the prejudice and highhandedness of the authorities, who deemed the Christians as vagabonds and seditious Jews. The incident illustrates the lamentable state of justice tainted by human malice. Nevertheless, the sufferings endured for the sake of the gospel are transformed into triumphant displays of Christ's power, enabling His followers to conquer Satan and all wickedness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.8268523862205368,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                27.9,
+                33.14,
+                38.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst a tumultuous outcry and without a fair trial, the magistrates tore off the clothes of Paul and Silas in a rough and degrading manner, indicative of the treatment prisoners receive before being whipped. This unjust action stemmed from prejudice and highhandedness, disregarding the rights of the accused. Yet, in the face of such persecution, the sufferings endured for the gospel become triumphant as Christ adorns His followers in prisons and on the cross, enabling them to conquer Satan and all wickedness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8630942178068408,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.29,
+            "commentatorTierSimilarities": [
+                25.14,
+                36.79,
+                38.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

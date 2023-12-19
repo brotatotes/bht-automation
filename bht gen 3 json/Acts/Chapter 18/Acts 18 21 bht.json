@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:33:15",
+    "verseRef": "Acts 18:21",
+    "bestBHT": {
+        "bht": "The apostle Paul expresses his determination to keep the feast in Jerusalem, but humbly adds the phrase if God will, recognizing that all plans are subject to God's sovereignty. This acknowledgment reflects the understanding that believers are ultimately in God's hands. Paul's desire to celebrate the feast, most likely Pentecost, in Jerusalem was likely influenced by the opportunity to preach the Gospel to his countrymen and potentially meet other Christian converts. True to his word, Paul made the journey in the spring with a group of pilgrims, fulfilling his promise to return to the believers.",
+        "wordCount": 98,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.827340228851614,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+        "commentatorTierSimilarities": [
+            33.43,
+            32.9,
+            33.67
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The omission of the words here inserted in the common text, 'I must by all means keep this feast that cometh in Jerusalem,' seems necessitated on the principle of being guided in doubtful cases by the testimony of our most ancient MSS.",
+            "The gloss, if such it be, has probably been owing to an endeavor to conform the circumstances to those related in ch. xx. 16.",
+            "It remains, then, that the feast should have been Pentecost; at which Paul also visited Jerusalem, ch. xx. 16."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "21. I must . . . keep this",
+            "\tfeast\u2014probably Pentecost, presenting a noble opportunity of",
+            "\tpreaching the Gospel. ",
+            "\t",
+            "but I will return\u2014the",
+            "\tfulfilment of which promise is recorded in :-."
+        ],
+        "Albert Barnes": [
+            "Why he was so anxious to celebrate that feast at Jerusalem, the historian has not informed us.",
+            "It is probable, however, that he wished to meet as many of his countrymen as possible, and to remove, if practicable, the prejudices which had everywhere been raised against him.",
+            "Perhaps, also, he supposed that there would be many Christian converts present, whom he might meet also."
+        ],
+        "Marvin Vincent": [
+            "I must by all means keep this feast that cometh in Jerusalem. ",
+            "The best texts omit."
+        ],
+        "Archibald T. Robertson": [
+            "This expression (\u03b5\u03b1\u03bd with subjunctive) occurs also in 1 Corinthians 4:19; 1 Corinthians 16:7; James 4:15. Such phrases were common among Jews, Greeks, and Romans, and are today. It is simply a recognition that we are in God's hands.",
+            "It was in the spring when he made this journey with a company of pilgrims probably going to the feast of Pentecost in Jerusalem.",
+            "Whether Paul said it or not, it was in the spring when he made this journey with a company of pilgrims probably going to the feast of Pentecost in Jerusalem."
+        ],
+        "John Gill": [
+            "I must by all means keep this feast that cometh in Jerusalem...",
+            "...but I will return again unto you, if God will...",
+            "He promises to return to them, but not peremptorily as knowing that he was altogether subject to the will of God..."
+        ],
+        "John Wesley": [
+            "This was not from any apprehension that he was obliged in conscience to keep the Jewish feasts; but to take the opportunity of meeting a great number of his countrymen to whom he might preach Christ.",
+            "or whom he might farther instruct, or free from the prejudices they had imbibed against him.",
+            "So he did, Acts 19:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul states, I must by all means keep this feast that cometh in Jerusalem, but he follows it with the acknowledgement that his plans are subject to God's will. This phrase, if God will, reflects the understanding that as believers, we are ultimately in God's hands. It is likely that Paul's desire to celebrate the feast, which was most likely Pentecost, in Jerusalem, was motivated by the opportunity to preach the Gospel to a large gathering of his countrymen. He also may have wished to meet other Christian converts and overcome any prejudices against him. Ultimately, he made the journey in the spring with a group of pilgrims, fulfilling his promise to return to the believers.",
+            "wordCount": 121,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.8814500324429002,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+            "commentatorTierSimilarities": [
+                27.25,
+                38.24,
+                34.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul expresses his determination to keep the feast in Jerusalem, but humbly adds the phrase if God will, recognizing that all plans are subject to God's sovereignty. This acknowledgment reflects the understanding that believers are ultimately in God's hands. Paul's desire to celebrate the feast, most likely Pentecost, in Jerusalem was likely influenced by the opportunity to preach the Gospel to his countrymen and potentially meet other Christian converts. True to his word, Paul made the journey in the spring with a group of pilgrims, fulfilling his promise to return to the believers.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.827340228851614,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+            "commentatorTierSimilarities": [
+                33.43,
+                32.9,
+                33.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul expresses his determination to keep a feast in Jerusalem, recognizing that all plans are subject to God's will. This awareness reflects the understanding that believers are ultimately in God's hands. Paul's desire to participate in the feast, likely Pentecost, in Jerusalem could be attributed to preaching the Gospel to his countrymen and potentially meeting other Christian converts. He fulfilled his promise to return to the believers, making the journey in the spring with a group of pilgrims.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.7808373307936263,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+            "commentatorTierSimilarities": [
+                33.27,
+                32.73,
+                34.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul declares his determination to observe a feast in Jerusalem, while humbly acknowledging that his plans are subject to God's will. This mindset illustrates the fundamental truth that believers are ultimately reliant on God's guidance. Paul's desire to partake in the feast, likely Pentecost, in Jerusalem may have been driven by the opportunity to proclaim the Gospel to his fellow Jews and possibly connect with other converts. Keeping his word, in the spring, Paul embarks on the journey with a group of pilgrims, fulfilling his promise to return to the believers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.7270269153025843,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                34.67,
+                30.63,
+                34.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul is resolute in his intention to participate in the feast in Jerusalem, yet he humbly acknowledges that his plans are subject to God's will. This mindset reflects the understanding that believers ultimately surrender to God's sovereignty. Paul's desire to partake in the feast, possibly Pentecost, arises from the opportunity to proclaim the Gospel to his countrymen and potentially engage with other believers. Keeping his word, Paul undertakes the journey in the company of pilgrims, fulfilling his promise to return to the believers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.7820870806456002,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                32.74,
+                31.34,
+                35.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

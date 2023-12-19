@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:16:01",
+    "verseRef": "Luke 7:7",
+    "bestBHT": {
+        "bht": "The centurion, recognizing his unworthiness, believed that if Jesus simply spoke a word, his servant would be healed. His faith in Jesus' power was unwavering, even in the face of ceremonial uncleanness from entering his house. The centurion's trust in the authority and ability of Jesus to heal is remarkable. By saying, Let my servant be healed, he expressed his deep confidence in Jesus' ability to bring about the healing.",
+        "wordCount": 71,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 1.4323376863227026,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.97,
+        "commentatorTierSimilarities": [
+            38.65,
+            0.0,
+            61.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The neither brings into emphasis, not 'myself,' as distinguished from others, but the whole following clause.\" ",
+            "Entering his house would entail ceremonial uncleanness till the evening.",
+            "The unworthiness itself may be connected with the fact that entering his house would entail ceremonial uncleanness till the evening."
+        ],
+        "Marvin Vincent": [
+            "My servant shall be healed. It is strange that the Rev. should have omitted to note the imperative mood here, at least in the margin. The literal rendering is the more graphic : Let my servant be healed.",
+            "Note the professional word for heal.",
+            "See on ch. Luke 6:19."
+        ],
+        "Archibald T. Robertson": [
+            "Not in Matthew because he represents the centurion as coming to Jesus.\" ",
+            "Second aorist active imperative with instrumental case, speak with a word.\" ",
+            "\u03a0\u03b1\u03b9\u03c2 literally means 'boy,' an affectionate term for the 'slave,' \u03b4\u03bf\u03c5\u03bb\u03bf\u03c2, who was 'dear' to him."
+        ],
+        "John Gill": [
+            "Wherefore neither thought I myself worthy to come unto thee... but say in a word, and my servant shall be healed.\" ",
+            "Speak but the word only, rebuke the distemper, command it off, and it will be gone.",
+            "So great was his faith in the power of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "My servant shall be healed. It is strange that the Rev. should have omitted to note the imperative mood here, at least in the margin. The literal rendering is the more graphic: Let my servant be healed. The unworthiness itself may be connected with the fact that entering his house would entail ceremonial uncleanness till the evening. Speak but the word only, rebuke the distemper, command it off, and it will be gone. So great was his faith in the power of Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.413342492656823,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.34,
+            "commentatorTierSimilarities": [
+                38.7,
+                0.0,
+                61.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The centurion said, Let my servant be healed, demonstrating his faith in the power of Christ. The centurion recognized his own unworthiness and understood that entering his house would result in ceremonial uncleanness. He believed that if Jesus simply spoke a word, the healing would take place. This shows the centurion's profound faith in the authority and ability of Jesus to heal. His confidence in Jesus' power is truly remarkable.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.2618840285187618,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.3,
+            "commentatorTierSimilarities": [
+                35.32,
+                0.0,
+                64.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The centurion's servant was in need of healing, and recognizing his own unworthiness, the centurion relied on the power of Jesus. The centurion's faith was so strong that he believed if Jesus spoke a word, his servant would be healed. This demonstrates the centurion's trust in Jesus' authority and ability to heal. Despite his understanding that entering his house would result in ceremonial uncleanness, the centurion's faith remained unwavering. His profound confidence in Jesus' power is truly remarkable.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.2757877492679146,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.76,
+            "commentatorTierSimilarities": [
+                35.94,
+                0.0,
+                64.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The centurion, recognizing his unworthiness, believed that if Jesus simply spoke a word, his servant would be healed. His faith in Jesus' power was unwavering, even in the face of ceremonial uncleanness from entering his house. The centurion's trust in the authority and ability of Jesus to heal is remarkable. By saying, Let my servant be healed, he expressed his deep confidence in Jesus' ability to bring about the healing.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.4323376863227026,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.97,
+            "commentatorTierSimilarities": [
+                38.65,
+                0.0,
+                61.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The centurion's faith in Jesus' power was evident in his plea, Let my servant be healed. Despite his recognition of his own unworthiness and the ceremonial uncleanness that entering his house would bring, the centurion believed that a mere word from Jesus would suffice to heal his servant. This profound trust in Jesus' authority and ability to heal speaks volumes about the centurion's unwavering faith. His confidence in the power of Christ is truly remarkable.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3412024737244281,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.94,
+            "commentatorTierSimilarities": [
+                32.64,
+                0.0,
+                67.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

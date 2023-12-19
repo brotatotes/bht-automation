@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:07:10",
+    "verseRef": "1 Corinthians 7:17",
+    "bestBHT": {
+        "bht": "In his letter to the Corinthians, Paul cautions against misinterpreting the motivation behind not remaining together in a marriage. Each person should walk in the path allotted to them by the Lord and should not seek to break relationships as a result of spiritual differences. The heavenly calling does not disregard earthly callings, and believers should seek to fulfill their duties faithfully. There should be no compulsory enslavement or reckless abuse, but rather an understanding of the authority and leadership of Paul as an apostle.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.9637627945550205,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+        "commentatorTierSimilarities": [
+            36.2,
+            39.95,
+            23.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Only takes an exception, by way of caution, to the foregoing motive for not remaining together (ver. 16).\" ",
+            "The Christian partner might carry that motive too far, and be tempted by it to break the connexion on his own part; a course already prohibited (verses 12\u201314).",
+            "Therefore the Apostle adds, Only (only be careful not to make this a ground for yourselves causing the separation) as to each the Lord distributed [his lot], as God has called each, so (in that state, without change) let him walk. so ordain I..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The heavenly calling does not set aside our earthly callings.",
+            "Let him walk in the path allotted to him and wherein he was called.",
+            "Ye also therefore should obey."
+        ],
+        "Albert Barnes": [
+            "The object of Paul, therefore, is to preserve order, industry, faithfulness in the relations of life, and to show that Christianity does not design to break up the relations of social and domestic contact.",
+            "People should seek to show the real excellence of religion in the particular sphere in which they may have been placed by divine providence before they became converted.",
+            "Paul\u2019s object is to show that the gospel, instead of dissolving those relations, only strengthened them, and enabled those who were converted the better to discharge the duties which grow out of them."
+        ],
+        "Marvin Vincent": [
+            "There is to be no enslavement, only, to give no excuse for the reckless abuse of this general principle...",
+            "The normal rule of Christian life is that each one should seek to abide in the position in which God has placed him.",
+            "Ordain [\u03b4\u03b9\u03b1\u03c4\u03b1\u03c3\u03c3\u03bf\u03bc\u03b1\u03b9] . See on Matthew 11:1."
+        ],
+        "John Calvin": [
+            "What, then, is to be done, unless (406) that every one walk according to the grace given to him, and according to his calling?",
+            "Let every one, therefore, labor for this, and use his endeavor, that he may do good to his neighbors, and, more especially, when he ought to be excited to it by the particular duty of his calling.",
+            "For we embrace the more readily what we understand that we have in common with all the pious."
+        ],
+        "Archibald T. Robertson": [
+            "There is to be no compulsory slavery between the believer and the disbeliever (the Christian and the pagan). But on the other hand there is to be no reckless abuse of this liberty, no license.",
+            "Each has his lot from the Lord Jesus, has his call from God. He is not to seek a rupture of the marriage relation if the unbeliever does not ask for it.",
+            "Paul is conscious of authoritative leadership as the apostle of Christ to the Gentiles."
+        ],
+        "John Gill": [
+            "Thou knowest not, O man or woman, whether thou shalt save thy wife or husband, nor any other, unless God, who distributes his grace to everyone as he pleases.\" ",
+            "As God hath distributed to every man his own proper gift, both as to nature and grace; his proper sphere of usefulness, and the station in which he would have him be, and the place he would have him fill up, and the business he must do in life; so let him act.",
+            "The decisions and determinations he had made, in the cases proposed to him about marriage, the rules and orders he had prescribed, what he had given out by way of precept or permission [...] were no other than what he in common enjoined other churches."
+        ],
+        "John Wesley": [
+            "Let him take care to discharge his duty therein. The gospel disannuls none of these.",
+            "The gospel disannuls none of these.",
+            "As a point of the highest concern."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul, in his letter to the Corinthians, cautions against misinterpreting the motivation behind not remaining together in a marriage. While the Christian partner may be tempted to separate based on spiritual differences, Paul emphasizes that each person should walk in the path assigned to them by the Lord. The heavenly calling does not nullify our earthly callings, and we should seek to abide in the positions God has placed us. There should be no compulsory enslavement or reckless abuse of this freedom, but rather a recognition of the authority and leadership of Paul as an apostle. The aim is to maintain order, faithfulness, and the discharge of duties in social and domestic relationships, while also striving to do good to others. Ultimately, Paul's decisions and prescribed rules about marriage reflect his intention to guide and instruct all churches, emphasizing that the gospel does not nullify our earthly roles and responsibilities.",
+            "wordCount": 153,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9157253423579426,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                35.01,
+                41.11,
+                23.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul, in his letter to the Corinthians, cautions against misinterpreting the motivation behind not remaining together in a marriage. While the Christian partner may be tempted to separate based on spiritual differences, Paul emphasizes that each person should walk in the path assigned to them by the Lord. The heavenly calling does not nullify our earthly callings, and we should seek to abide in the positions God has placed us. There should be no compulsory enslavement or reckless abuse of this freedom. The aim is to maintain order, faithfulness, and the discharge of duties in relationships.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.763846190201201,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.99,
+            "commentatorTierSimilarities": [
+                38.48,
+                38.97,
+                22.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul, in his letter to the Corinthians, reminds believers that the heavenly calling does not set aside their earthly callings. Each individual should walk in the path allotted to them, without seeking rupture of their relationships or reckless abuse of their liberty. Paul's intention is to preserve order, faithfulness, and the discharge of duties within social and domestic relationships. His decisions and rules about marriage reflect his authority as an apostle, and his guidance extends to all churches. The gospel does not nullify our earthly roles and responsibilities; rather, it strengthens them, enabling believers to better fulfill their duties.",
+            "wordCount": 102,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.8321515476988033,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                30.95,
+                42.87,
+                26.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his letter to the Corinthians, the apostle Paul warns against misinterpreting the motive behind not remaining together in a marriage. He emphasizes that each person should walk in the path allotted to them by the Lord as God has called them, without seeking rupture in their relationships. The aim is to maintain order and faithfulness, preserving the duties in social and domestic contacts. The gospel does not dissolve these relationships but rather strengthens them, enabling believers to fulfill their obligations better.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.913347151444301,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                31.62,
+                44.13,
+                24.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his letter to the Corinthians, Paul cautions against misinterpreting the motivation behind not remaining together in a marriage. Each person should walk in the path allotted to them by the Lord and should not seek to break relationships as a result of spiritual differences. The heavenly calling does not disregard earthly callings, and believers should seek to fulfill their duties faithfully. There should be no compulsory enslavement or reckless abuse, but rather an understanding of the authority and leadership of Paul as an apostle.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9637627945550205,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+            "commentatorTierSimilarities": [
+                36.2,
+                39.95,
+                23.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

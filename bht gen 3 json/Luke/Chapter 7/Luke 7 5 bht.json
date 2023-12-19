@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:16:08",
+    "verseRef": "Luke 7:5",
+    "bestBHT": {
+        "bht": "At his own expense, this Roman centurion displayed his love for the Jews by building a synagogue. His gesture embodied reverence for God and zeal for the Law, uncommon for a Gentile. Recognizing his sincere affection for their nation, the Jewish elders sought Jesus' help on his behalf. The centurion's act of building the synagogue not only demonstrated practical love for the Jews but also served as a means to break through prejudice and foster reconciliation between Gentiles and Jews.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.8056174847305653,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+        "commentatorTierSimilarities": [
+            27.58,
+            20.96,
+            51.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "5.] himself, i.e. at his own expense."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Having found that 'salvation was of the Jews,' he loved them for it.\" ",
+            "His love took this practical and appropriate form.\" ",
+            "WIDOW OF NAIN'S SON RAISED TO LIFE."
+        ],
+        "Marvin Vincent": [
+            "He hath built [\u03b1\u03c5\u03c4\u03bf\u03c2 \u03c9\u03ba\u03bf\u03b4\u03bf\u03bc\u03b7\u03c3\u03b5\u03bd] . He is emphatic; himself, at his own expense.\" ",
+            "The article, 'the synagogue,' marks the particular synagogue which these elders represented.\" ",
+            "He did not merely avoid profaning the synagogue."
+        ],
+        "John Calvin": [
+            "For he loveth our nation... his love of a nation universally hated could proceed only from zeal for the Law, and from reverence for God.",
+            "The Jews had... grounds for saying that... he had claims on Christ for receiving such a favor.",
+            "They discover... a marvellous stupidity in admitting, by their own acknowledgment, that a Gentile possesses that grace of God which they despise and reject."
+        ],
+        "Philip Schaff": [
+            "They did not doubt that this would be a recommendation to our Lord.",
+            "A long training was necessary to teach even the Apostles that the Gospel was meant for the Gentiles.",
+            "It was wisely ordered that such a case as this should be the entering wedge for breaking through their prejudice."
+        ],
+        "Archibald T. Robertson": [
+            "He was hardly a proselyte, but was a Roman who had shown his love for the Jews.",
+            "All by himself and at his own expense.",
+            "Literally, the synagogue, the one which we have, the one for us."
+        ],
+        "John Gill": [
+            "This they mention as an argument to induce him to have a regard to the centurion, though he was a Gentile; since he was a friend of the Jews, and well affected and disposed to them, which was very rare.",
+            "It was not common for the Gentiles to love the Jews, any more than the Jews the Gentiles; there was an hatred, yea, an enmity between them; but this man, very likely, was a proselyte to their religion.",
+            "Sometimes a single person built a synagogue at his own expense, and gave it to the citizens; of which the Jews say, 'if a man builds an house, and afterwards devotes it to a synagogue, it is as a synagogue.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At his own expense, this Roman centurion demonstrated his love for the Jews by building a synagogue for them. His act of kindness was rooted in his reverence for God and zeal for the Law. This gesture, which was uncommon for a Gentile, showed his rare affection and disposition towards the Jews, potentially fueled by his eventual conversion to their religion. Recognizing the centurion's genuine love for their nation, the Jewish elders presented his request for his servant's healing to Jesus, understanding that his favor with the Lord was evident. This act of building the synagogue not only displayed the centurion's practical love for the Jews but also served as a point of reconciliation, breaking through the prejudice and enmity between the Gentiles and the Jews.",
+            "wordCount": 129,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.8062213388454165,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                25.02,
+                23.62,
+                51.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Roman centurion's devoted love for the Jews manifested in his gesture of building a synagogue at his own expense. His action demonstrated his reverence for God and zeal for the Law. This uncommon act of affection and goodwill toward the Jews, possibly due to his conversion to their religion, prompted the Jewish elders to present his plea to Jesus, recognizing his special relationship with Him. By building the synagogue, the centurion not only exhibited practical love for the Jews but also helped mend the rift between Gentiles and Jews, overcoming prejudiced barriers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.7779666608196636,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+            "commentatorTierSimilarities": [
+                29.75,
+                19.67,
+                50.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Roman centurion showed his deep love for the Jews by building a synagogue at his own expense. This act demonstrated his reverence for God and zeal for the Law. His uncommon affection for the Jews, possibly due to his conversion, led the Jewish elders to appeal to Jesus on his behalf. The centurion's gesture not only displayed practical love but also helped bridge the divide between Gentiles and Jews, breaking through prejudice and fostering reconciliation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.7284353759641307,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.81,
+            "commentatorTierSimilarities": [
+                27.92,
+                21.78,
+                50.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This Roman centurion exemplified his love for the Jews by building a synagogue himself, demonstrating his reverence for God and affinity for the Law. This uncommon act of goodwill towards the Jews, potentially as a result of his conversion, prompted the Jewish elders to approach Jesus on his behalf. The centurion's construction of the synagogue not only showcased his practical affection but also served to bridge the divide between Gentiles and Jews, dismantling prejudice and fostering reconciliation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.7925862814686266,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.95,
+            "commentatorTierSimilarities": [
+                26.16,
+                20.81,
+                53.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At his own expense, this Roman centurion displayed his love for the Jews by building a synagogue. His gesture embodied reverence for God and zeal for the Law, uncommon for a Gentile. Recognizing his sincere affection for their nation, the Jewish elders sought Jesus' help on his behalf. The centurion's act of building the synagogue not only demonstrated practical love for the Jews but also served as a means to break through prejudice and foster reconciliation between Gentiles and Jews.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.8056174847305653,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                27.58,
+                20.96,
+                51.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:07:09",
+    "verseRef": "1 Corinthians 7:14",
+    "bestBHT": {
+        "bht": "The holiness of a Christian parent brings about sanctification, creating a special connection between the believer and their family. In this connection, the children are regarded as holy, in the sense that their birth is legitimate. The faith of one parent covenants the child to the Christian community, similar to how infant circumcision was superseded by infant baptism. Therefore, when one spouse is a believer and the other agrees to remain, their marriage is deemed holy and divorce is not necessary.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.358080387257529,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.75,
+        "commentatorTierSimilarities": [
+            32.74,
+            40.49,
+            26.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sanctified under the Gospel are the body of Christian men, dedicated to God, and thus become His in a peculiar manner.",
+            "Things belonging to, relatives inseparably connected with, the people of God, are said to be hallowed by their holiness.",
+            "The fact of the children of Christians, God\u2019s spiritual people, being holy, is tacitly assumed as a matter of course, from the precedent of God\u2019s ancient covenant people."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Those inseparably connected with the people of God are hallowed thereby, so that the latter may retain the connection without impairing their own sanctity.",
+            "The faith of one Christian parent gives to the children a near relationship to the Church, just as if both parents were Christians.",
+            "Infant baptism tacitly superseded infant circumcision, just as the Christian Lord's day gradually superseded the Jewish sabbath, without our having any express command for, or record of, transference."
+        ],
+        "Albert Barnes": [
+            "The connection produces a species of sanctification, or diffuses a kind of holiness over the unbelieving party by the believing party, so far as to render their children holy, and therefore it is improper to seek for a separation.",
+            "They are by the marriage tie one flesh. They are indissolubly united by the ordinance of God. As they are one by his appointment, as they have received his sanction to the marriage union, and as one of them is holy, so the other is to be regarded as sanctified.",
+            "Do not separate. The marriage is quite lawful for Christians, otherwise your children could not be reckoned holy, in the sense of having a right to the seal of the covenant, that is, baptism."
+        ],
+        "Marvin Vincent": [
+            "Is sanctified...affiliated to the Christian community.\" ",
+            "Not made morally holy, but affiliated to the Christian community.",
+            "In virtue of his being 'one flesh' with his Christian wife."
+        ],
+        "John Calvin": [
+            "The piety of the one has more effect in sanctifying marriage than the impiety of the other in polluting it.",
+            "To the ungodly all things are impure, because they pollute by their impurity even the best and choicest of God\u2019s creatures.",
+            "The children of the pious are set apart from others by a sort of exclusive privilege, so as to be reckoned holy in the Church."
+        ],
+        "Archibald T. Robertson": [
+            "Clearly he only means that the marriage relation is sanctified so that there is no need of a divorce.",
+            "If either husband or wife is a believer and the other agrees to remain, the marriage is holy and need not be set aside.",
+            "If the relations of the parents be holy, the child's birth must be holy also (not illegitimate)."
+        ],
+        "John Gill": [
+            "For the unbelieving husband is sanctified by the wife... this is a reason given by the apostle why they should live together.",
+            "The preposition \u03b5\u03bd, which is in most versions rendered 'by', should be rendered 'in' or 'to' or 'unto'... the right rendering of the passage is this: 'for the unbelieving husband is espoused to the wife, and the unbelieving wife is espoused to the husband'.",
+            "The children are holy in the same sense as their parents are; that as they are sanctified, or lawfully espoused together, so the children born of them were in a civil and legal sense holy, that is, legitimate."
+        ],
+        "John Wesley": [
+            "For the unbelieving husband hath... been sanctified by the wife.",
+            "Else your children would have been brought up heathens.",
+            "Whereas now they are Christians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 7:14, it is implied that the children of Christians are considered holy by virtue of their close relationship with the Church. The faith of even one Christian parent establishes a connection that allows the children to be affiliated with the Christian community. This understanding is further supported by the parallel between infant baptism and the supersession of infant circumcision. It is important to note that the verse does not imply moral holiness, but rather a connection to the Christian community. Therefore, if either the husband or wife is a believer and the other agrees to remain, the marriage is considered holy and divorce is not necessary. Ultimately, the sanctity of the parents extends to their children, ensuring that their birth is not deemed illegitimate.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 2.2520577087476235,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+            "commentatorTierSimilarities": [
+                34.36,
+                38.87,
+                26.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sanctity of one Christian parent establishes a connection that affirms the holiness of the marriage and their children. This connection is likened to the relationship between God's ancient covenant people and the holiness of things associated with them. The faith of one parent allows the child to be affiliated with the Christian community, similar to infant baptism superseding infant circumcision. Therefore, if one spouse is a believer and the other agrees to remain, the marriage is regarded as holy and divorce is unnecessary. Thus, the children born into this union are not considered illegitimate.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.2808242914553767,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.18,
+            "commentatorTierSimilarities": [
+                32.79,
+                40.65,
+                26.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The holiness of a Christian parent brings about sanctification, creating a special connection between the believer and their family. In this connection, the children are regarded as holy, in the sense that their birth is legitimate. The faith of one parent covenants the child to the Christian community, similar to how infant circumcision was superseded by infant baptism. Therefore, when one spouse is a believer and the other agrees to remain, their marriage is deemed holy and divorce is not necessary.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.358080387257529,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.75,
+            "commentatorTierSimilarities": [
+                32.74,
+                40.49,
+                26.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The children of Christians are considered holy by virtue of their connection to the body of believers. This connection sanctifies the marriage and affirms the legitimacy of the children's birth. The faith of one parent establishes a relationship with the Christian community, similar to how infant baptism replaced infant circumcision. Thus, if one spouse is a believer and the other agrees to remain, their marriage is deemed holy, making divorce unnecessary. In this way, the children are not regarded as illegitimate but are instead included as part of the Christian family.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.22849271512013,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.44,
+            "commentatorTierSimilarities": [
+                33.37,
+                39.02,
+                27.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sanctity of one Christian parent creates a unique bond that extends to the marriage and their children. This connection with the Christian community affirms the legitimacy of the children's birth, akin to infant baptism superseding infant circumcision. As long as one spouse is a believer and the other agrees to remain, the marriage is considered holy, eliminating the need for divorce. This ensures that the children are not deemed illegitimate, but rather included as part of the Christian family.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.2597495566714048,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.48,
+            "commentatorTierSimilarities": [
+                32.84,
+                40.32,
+                26.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

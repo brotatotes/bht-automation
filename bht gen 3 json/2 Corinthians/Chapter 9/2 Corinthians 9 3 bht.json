@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:17:19",
+    "verseRef": "2 Corinthians 9:3",
+    "bestBHT": {
+        "bht": "Paul sent the brethren to ensure that their boasting about the Corinthians' willingness to contribute would not be proved empty. By doing so, they sought to avoid shame if the Corinthians were found unprepared. The brethren were sent to prepare the Corinthians and ensure their actions matched their eagerness. This way, they aimed to uphold their good name and ensure their promises were followed through.",
+        "wordCount": 65,
+        "quoteTokenProportion": 44.19,
+        "qualityScore": 1.5224954335845267,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.97,
+        "commentatorTierSimilarities": [
+            28.49,
+            44.22,
+            27.28
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Yet I sent the brethren... that our [matter of] boasting concerning you may not in this particular be proved empty.",
+            "That, as I said, ye may be prepared.",
+            "A sharp exhortation of the Apostle combined with tacit praise."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "have I sent\u2014we should say, 'I send'; whereas the ancients put it in the past, the time which it would be by the time that the letter arrived.",
+            "should be in vain in this behalf\u2014'should be proved futile in this particular,' however true in general. A tacit compliment, softening the sharp monition.",
+            "as I said\u2014as I was saying."
+        ],
+        "Albert Barnes": [
+            "Lest our boasting of you - That you were disposed to contribute, and that you were already prepared, and that the contribution was ready. Should be in vain.",
+            "I have sent them that they may facilitate it, and that it may be secure and certain.",
+            "In this behalf - In this respect. That is, lest our boasting of you, in regard to your readiness to contribute to relieve the needs of others, should be found to have been ill-grounded."
+        ],
+        "John Calvin": [
+            "I consult my own good name and yours; for while I promised in your name, we would, both of us in common, incur disgrace, if words and deeds did not correspond.\" ",
+            "Hence you ought to take my fears in good part."
+        ],
+        "Philip Schaff": [
+            "But I have sent the brethren, that our glorying on your behalf may not be made void in this respect (\u2018as if we had gone too far in commending your eagerness\u2019)\".",
+            "That, even as I said, ye may be prepared: lest by any means, if there come with me any of Macedonia, and find you unprepared, we (that we say not, ye) should be put to shame in this confidence\".",
+            "The received reading here ('confidence of boasting') is manifestly a gloss (from chap. 2 Corinthians 11:17)\"."
+        ],
+        "Archibald T. Robertson": [
+            "That ye may be prepared (\u03b9\u03bd\u03b1 \u03c0\u03b1\u03c1\u03b5\u03c3\u03ba\u03b5\u03c5\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf \u03b7\u03c4\u03b5). Perfect passive subjunctive in the final clause, 'that ye may really be prepared.'",
+            "Paul's very syntax tells against them.",
+            "Not just say that ye are prepared."
+        ],
+        "John Gill": [
+            "lest our boasting of you should be in vain in this behalf",
+            "he was chiefly concerned, knowing the frailty and changeableness of human nature",
+            "that as they had begun they would finish"
+        ],
+        "John Wesley": [
+            "I have sent the above mentioned brethren before me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul sent the brethren ahead of him to ensure that their boasting about the Corinthians' willingness to contribute to the needs of others was not in vain. He wanted to be certain that their promises were followed through with action, and that their eagerness to help was not just empty words. By sending the brethren to prepare the Corinthians, Paul sought to avoid any potential embarrassment or shame if they were found unprepared when others from Macedonia arrived. He wanted their actions to match their professed eagerness, so that their boasting would not be proven empty and their good name would be upheld.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.5249747563266398,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
+            "commentatorTierSimilarities": [
+                24.74,
+                51.55,
+                23.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul sent the brethren ahead to make sure that their boasting about the Corinthians' willingness to contribute would not be proved empty. By doing so, he aimed to avoid any shame or embarrassment if they were found unprepared. The brethren were sent to prepare the Corinthians and ensure that their actions aligned with their proclaimed eagerness. In this way, they sought to safeguard their good name and ensure that their promises were followed through with action.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.4557237363274629,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+            "commentatorTierSimilarities": [
+                28.22,
+                45.26,
+                26.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul sent the brethren ahead of him to ensure that their boasting about the Corinthians' willingness to contribute to the needs of others was not in vain. He wanted to be certain that their promises were followed through with action, and that their eagerness to help was not just empty words. By sending the brethren to prepare the Corinthians, Paul sought to avoid any potential embarrassment or shame if they were found unprepared when others from Macedonia arrived. He wanted their actions to match their professed eagerness, so that their boasting would not be proven empty and their good name would be upheld.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.5249747563266398,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
+            "commentatorTierSimilarities": [
+                24.74,
+                51.55,
+                23.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul sent the brethren to ensure that their boasting about the Corinthians' willingness to contribute would not be proved empty. By doing so, they sought to avoid shame if the Corinthians were found unprepared. The brethren were sent to prepare the Corinthians and ensure their actions matched their eagerness. This way, they aimed to uphold their good name and ensure their promises were followed through.",
+            "wordCount": 65,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.5224954335845267,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.97,
+            "commentatorTierSimilarities": [
+                28.49,
+                44.22,
+                27.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul sent the brethren ahead of him to ensure that their boasts about the Corinthians' readiness to contribute would not be unfounded. He wanted to avoid any potential embarrassment if the Corinthians were found unprepared. By preparing the Corinthians beforehand, Paul sought to confirm their eagerness with action. This way, they could uphold their good reputation and demonstrate their commitment to follow through on their promises.",
+            "wordCount": 66,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.4828777526895993,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.65,
+            "commentatorTierSimilarities": [
+                30.71,
+                46.64,
+                22.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

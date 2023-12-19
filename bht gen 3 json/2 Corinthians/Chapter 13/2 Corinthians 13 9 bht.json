@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:19:02",
+    "verseRef": "2 Corinthians 13:9",
+    "bestBHT": {
+        "bht": "We find joy in our weakness, knowing that you are strong. Instead of seeking opportunities to enforce our power, we delight when you display your perfection and strength in faith. We pray for your complete restoration and unity, so that our weaknesses may be replaced with the power of your virtue. Even though we are weak in the sense of being unapproved, we rejoice in your noble actions. Our ultimate desire is for your perfection in the faith that is fueled by love.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.144506537608379,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.65,
+        "commentatorTierSimilarities": [
+            34.78,
+            34.67,
+            30.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our joy is, when we are weak, but ye are mighty.\" ",
+            "Have no opportunity for shewing our power in punishment.",
+            "Your perfection (generally,\u2014in all good things)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Rejoice when we are weak, as being compassed with 'infirmities.'",
+            "Ye... strong in faith and the fruits of the Spirit.",
+            "Pray for your 'perfect restoration,' literally that of a dislocated limb."
+        ],
+        "Albert Barnes": [
+            "I am content to appear weak, provided you do no wrong; I am willing not to have occasion to exercise my power in punishing offenders, and had rather lie under the reproach of being actually weak, than to have occasion to exercise my power by punishing you for wrongdoing\" (118 words).",
+            "I desire this in addition to your doing no evil\" (16 words).",
+            "The idea of restoring, putting in order, fitting, repairing, is involved in the word 'always,' and hence, the idea of making perfect; that is, of completely restoring anything to its proper place\" (38 words)."
+        ],
+        "Marvin Vincent": [
+            "We are weak. Practically the same as unapproved.",
+            "When your good conduct deprives us of the power of administering discipline, we are weak.",
+            "Perfection [\u03ba\u03b1\u03c4\u03b1\u03c1\u03c4\u03b9\u03c3\u03b9\u03bd] . Only here in the New Testament."
+        ],
+        "John Calvin": [
+            "When he says, Provided you are strong, I shall willingly submit to be reckoned weak, there is an antithesis in the words \u2014 not in the meaning; for weakness means here, as formerly (2 Corinthians 13:4), contempt.",
+            "He now again repeats, what he had already stated several times, that he was from necessity \u2014 not from his own inclination, more severe than they would have wished; and farther, that by this means, too, he spared them, that he might not be constrained to resort to severer measures, when he was present with them.",
+            "For we see, that those, who at first shrink back from the slight pain, or uneasy feeling of a plaster, are at length constrained to endure the torture of burning, or amputating, and that, too, where the issue is extremely doubtful."
+        ],
+        "Philip Schaff": [
+            "For we rejoice when we are weak, and ye are strong.",
+            "Look on, 'joying and beholding your order and the steadfastness of your faith in Christ.'",
+            "this also we pray for, even your perfection."
+        ],
+        "Archibald T. Robertson": [
+            "For we rejoice... Paul had far rather be weak in the sense of failing to exercise his apostolic power because they did the noble thing.\" ",
+            "He is no Jonah who lamented when Ninevah repented.\" ",
+            "Your perfecting (\u03c5\u03bc\u03c9\u03bd \u03ba\u03b1\u03c4\u03b1\u03c1\u03c4\u03b9\u03c3\u03b9\u03bd). Late word from \u03ba\u03b1\u03c4\u03b1\u03c1\u03c4\u03b9\u03b6\u03c9, to fit, to equip (see verb in verse 2 Corinthians 13:11). In Plutarch, only here in N.T."
+        ],
+        "John Gill": [
+            "For we are glad when we are weak...and ye are strong.\" ",
+            "Stand fast in the doctrine of faith, and are lively and active in the exercise of the grace of faith.",
+            "The apostle's wish was, that their animosities might cease, their divisions be healed, their disorders rectified, and each member be in its proper place, behaving as became the Gospel of Christ."
+        ],
+        "John Wesley": [
+            "For we rejoice when we are weak.",
+            "When we appear so, having no occasion to show our apostolic power.",
+            "And this we wish, even your perfection in the faith that worketh by love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our joy is when we are weak, but you are mighty. We have no opportunity to show our power in punishment. Your perfection, in all good things, brings us joy even when we are weak. You, on the other hand, are strong in faith and the fruits of the Spirit. Pray for your perfect restoration, so that we may be united in purpose. We are weak when our good conduct deprives us of the power to discipline, but we rejoice in your noble actions. We desire your perfection in the faith that works through love.",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.0842500061895315,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.64,
+            "commentatorTierSimilarities": [
+                38.94,
+                33.25,
+                27.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We find joy in our weakness, knowing that you are strong. Instead of seeking opportunities to enforce our power, we delight when you display your perfection and strength in faith. We pray for your complete restoration and unity, so that our weaknesses may be replaced with the power of your virtue. Even though we are weak in the sense of being unapproved, we rejoice in your noble actions. Our ultimate desire is for your perfection in the faith that is fueled by love.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.144506537608379,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.65,
+            "commentatorTierSimilarities": [
+                34.78,
+                34.67,
+                30.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our joy is derived from the contrast between our weakness and your strength. We do not seek opportunities to exert our power in punishment, but rather rejoice in your perfection and the fruits of the Spirit that you exhibit. We pray for the complete restoration and unity of your conduct, so that we may be united in purpose. Though we may appear weak, we take pleasure in your noble actions, and our utmost desire is for your perfection in the faith that is fueled by love.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.033834232038739,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+            "commentatorTierSimilarities": [
+                33.96,
+                36.61,
+                29.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our joy as apostles lies in our weakness, while you demonstrate strength in your faith and the fruits of the Spirit. We do not seek opportunities to exhibit our power through punishment, but find satisfaction in your perfection and noble actions. Our desire is for your complete restoration and unity, so that we may all be united in purpose. Rejoicing when we are weak, we pray for your perfection in the faith that works through love.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.030712155376127,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.86,
+            "commentatorTierSimilarities": [
+                33.94,
+                35.02,
+                31.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We find joy in our weakness, as you demonstrate your strength in faith and the fruits of the Spirit. Rather than seeking opportunities to exert our power through punishment, we are fulfilled by your perfection and noble actions. Our heartfelt prayer is for your complete restoration and unity, so that we may all be united in purpose. Rejoicing in our weakness, our ultimate desire is for your perfection in the faith that is driven by love.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.0421584519866975,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.24,
+            "commentatorTierSimilarities": [
+                33.86,
+                35.37,
+                30.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:38:39",
+    "verseRef": "1 Peter 1:16",
+    "bestBHT": {
+        "bht": "Because it is written in Scripture, Ye shall be holy, because I am holy, we are called to mirror God's holiness in our lives. This command is not only rooted in God's nature as the Holy One, but also serves as a reason for the entire exhortation to pursue holiness. We see this consistent theme throughout the Bible, as it states in Matthew, Ephesians, and 1 John. Scripture is the ultimate authority on matters of doctrine and practice. Just as God is inherently holy, we are called to be sanctified by Him and strive to partake in His holiness.",
+        "wordCount": 100,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 2.0659767111867042,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.03,
+        "commentatorTierSimilarities": [
+            37.18,
+            31.0,
+            31.82
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "because it is written... Ye shall be holy, because I am holy.\" ",
+            "because gives the reason not only for the designation of God as the Holy One, but for the whole exhortation which precedes\u2014for the duty of assimilation to Him in His Holiness.",
+            "see Matt. v. 48; Eph. v. 1; 1 John iii. 3."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Scripture is the true source of all authority in questions of doctrine and practice.",
+            "As I am the fountain of holiness, being holy in My essence, be ye therefore zealous to be partakers of holiness, that ye may be as I also am.",
+            "God is essentially holy: the creature is holy in so far as it is sanctified by God."
+        ],
+        "Albert Barnes": [
+            "The foundation of the command is, that they professed to be his people, and that as his people they ought to be like their God.",
+            "It is a great truth, that people everywhere will imitate the God whom they worship.",
+            "And hence, also, we may see that the tendency of true religion is to make people pure."
+        ],
+        "Philip Schaff": [
+            "Because it is written, Ye shall be holy; for I am holy.\" ",
+            " 2. \"The future, \u2018ye shall be,\u2019 is better supported than the imperative, \u2018be ye.\u2019 The sense, however, remains substantially the same.",
+            " 3. \"They occur repeatedly in the Pentateuch, but they apply with even greater force to the subject of God\u2019s wider choice in the New Testament Israel."
+        ],
+        "Archibald T. Robertson": [
+            "Because it is written...it stands written.\" ",
+            "The quotation is from Leviticus 11:44; Leviticus 19:2; Leviticus 20:7.",
+            "The future \u03b5\u03c3\u03b5\u03c3\u03b8\u03b5 here is volitive like an imperative."
+        ],
+        "John Gill": [
+            "Be ye holy, for I am holy: an argument the apostle knew must have weight with these persons...\" (17 words)",
+            "...the argument for holiness of life, from the nature and perfections of God, is strong...\" (18 words)",
+            "...holiness, equal to God, is never to be attained to by a creature, yet so far as it is capable of it, it is desirable...\" (29 words)"
+        ],
+        "John Wesley": [
+            "Leviticus 11:44."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because it is written in Scripture, Ye shall be holy, because I am holy, we are called to mirror God's holiness in our lives. This command is not only rooted in God's nature as the Holy One, but also serves as a reason for the entire exhortation to pursue holiness. We see this consistent theme throughout the Bible, as it states in Matthew, Ephesians, and 1 John. Scripture is the ultimate authority on matters of doctrine and practice. Just as God is inherently holy, we are called to be sanctified by Him and strive to partake in His holiness.",
+            "wordCount": 100,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.0659767111867042,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.03,
+            "commentatorTierSimilarities": [
+                37.18,
+                31.0,
+                31.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because it is written in Scripture, Ye shall be holy, because I am holy, the duty of assimilating to God's holiness is emphasized. This command is the foundation of the exhortation and finds its authority in the words of God. We are called to mirror God's holiness, recognizing that although we can never attain holiness equal to His, we should still strive for it. This truth is supported by the Scriptures, as seen in Leviticus, and highlights the strong argument for a life of holiness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.0625877452254993,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.92,
+            "commentatorTierSimilarities": [
+                34.16,
+                30.62,
+                35.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Scripture stands as the true source of authority for our behavior and beliefs. It is written, Ye shall be holy, because I am holy, as stated in Leviticus 11:44, 19:2, and 20:7. This divine command serves as a powerful argument for pursuing holiness. Although we can never attain the same level of holiness as God, we should earnestly strive to reflect His character in our lives. Our duty is to be sanctified by God, imitating His holiness as His chosen people.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.9159221381531784,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                34.31,
+                31.78,
+                33.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Because it is written in Scripture that Ye shall be holy, because I am holy, we are called to mirror God's holiness in our lives. This command serves as the reason for the entire exhortation, emphasizing the duty of assimilation to God's holiness. Scripture is the true source of authority for our behavior and beliefs. We should strive to be sanctified by God, recognizing that holiness equal to His can never be attained by a creature. However, we are still called to desire and pursue holiness to the extent that we are capable.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9256370571195152,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.37,
+            "commentatorTierSimilarities": [
+                35.99,
+                32.86,
+                31.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Because it is written in Scripture that Ye shall be holy, because I am holy, we are called to mirror God's holiness in our lives. This command serves as the reason for the whole exhortation, emphasizing the duty of assimilation to Him in His holiness. Scripture is the true source of authority in matters of doctrine and practice. Just as God is essentially holy, we should strive to be sanctified by Him and desire to partake in His holiness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.055771391196934,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.7,
+            "commentatorTierSimilarities": [
+                38.51,
+                32.7,
+                28.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

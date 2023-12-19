@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:31:37",
+    "verseRef": "Acts 15:14",
+    "bestBHT": {
+        "bht": "In this context, James, also known as Simeon or Simon, recognizes the importance of God\u2019s name and His purpose in visiting the Gentiles. He aligns himself with the customs of Hebrew tradition and refutes the false accusations made by the Judaizers. James emphasizes that through God's distinguishing grace, the Gentiles are chosen to be a distinct people, separated from others, bearing His name. This highlights the significance of believing in God and being identified by His name, illustrating His divine intervention and favor extended towards the Gentiles.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.920625649937573,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+        "commentatorTierSimilarities": [
+            34.9,
+            30.58,
+            34.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "James characteristically uses this Jewish form of the name: so also Peter himself.\" ",
+            "The name occurs...the name Simon, elsewhere used in the N.T. for Peter.",
+            "For the service, or the making known, of His Name."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Simeon\u2014a Hebrew variation of Simon, as in 2 Peter 1:1",
+            "hath declared how God at the first",
+            "did visit the Gentiles to take out of them a people for his name"
+        ],
+        "Albert Barnes": [
+            "Simeon - This is a Hebrew name. The Greek mode of writing it commonly was Simon.\" ",
+            "To take out of them a people - To choose from among the Gentries those who should be his friends."
+        ],
+        "Philip Schaff": [
+            "Simeon hath declared.",
+            "James identifies himself with the customs of the Hebrews.",
+            "This is the last mention of Simon Peter in the Acts of the Apostles."
+        ],
+        "Archibald T. Robertson": [
+            "The Judaizers had doubtless counted on him as a champion of their view and did later wrongfully make use of his name against Peter at Antioch (Galatians 2:12).",
+            "This new Israel from among the Gentiles is one of Paul's great doctrines as set forth in Acts 15:3; Acts 15:9-11.",
+            "Note the use of God's 'name' here for 'the Israel of God' (Galatians 6:16)."
+        ],
+        "John Gill": [
+            "he had given a very clear and distinct narrative, how God at the first preaching of the Gospel, quickly after the day of Pentecost, was pleased to look upon the Gentiles, and show favour to them, and visit them in a way of grace and mercy",
+            "the distinguishing grace of God may be seen herein; it was grace to visit them, to look upon them, when for many hundreds of years he had overlooked them",
+            "it was distinguishing grace to take some out of them, to be a special and peculiar people to himself; to separate them from the rest by his powerful and efficacious grace, and form them into a church state, that they might show forth his praise and glorify him."
+        ],
+        "John Wesley": [
+            "Simon hath declared.",
+            "To take out of them a people for his name.",
+            "That is to believe in him, to be called by his name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 15:14, James, also known as Simeon or Simon, emphasizes the significance of God's name and His visitation of the Gentiles to form a chosen people. This declaration is crucial, especially in light of the Judaizers' attempt to use James' name against Peter. James aligns himself with the Hebrew customs, highlighting the new Israel that Paul teaches, where Gentiles are chosen as the people for God's name. This demonstrates the distinguishing grace of God, as He actively sought out the Gentiles, showing favor and extending His mercy to them. Therefore, to be chosen as a people for His name signifies belief in Him and being called by His name.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9932501890581242,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "commentatorTierSimilarities": [
+                36.22,
+                30.39,
+                33.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, James, also known as Simeon or Simon, emphasizes the importance of God's name and His visitation of the Gentiles to establish a chosen people. He aligns himself with Hebrew customs and rejects the false claims made by the Judaizers. James declares that God's grace has distinguished the Gentiles, selecting them to be a special and unique people, separate from the rest, for His name. This signifies the act of believing in God and being called by His name, reinforcing the significance of God's divine intervention and favor towards the Gentiles.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.9574259861778711,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+            "commentatorTierSimilarities": [
+                34.79,
+                31.28,
+                33.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 15:14, James, also known as Simon, affirms the significance of God's name and His visitation of the Gentiles. James aligns himself with the Hebrew customs and rejects the false claims of the Judaizers. He declares that God's grace distinguished the Gentiles, choosing them to be a special and distinct people for His name. This highlights the importance of believing in God and being called by His name, showcasing God's divine intervention and favor towards the Gentiles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.9811871922822204,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                35.16,
+                30.0,
+                34.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this context, James, also known as Simeon or Simon, recognizes the importance of God\u2019s name and His purpose in visiting the Gentiles. He aligns himself with the customs of Hebrew tradition and refutes the false accusations made by the Judaizers. James emphasizes that through God's distinguishing grace, the Gentiles are chosen to be a distinct people, separated from others, bearing His name. This highlights the significance of believing in God and being identified by His name, illustrating His divine intervention and favor extended towards the Gentiles.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.920625649937573,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+            "commentatorTierSimilarities": [
+                34.9,
+                30.58,
+                34.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 15:14, James, also called Simeon or Simon, underscores the importance of God's name and His visitation of the Gentiles. He aligns himself with Hebrew practices and dismisses the false claims of the Judaizers. James declares that God's distinguishing grace has chosen the Gentiles to form a unique people marked by His name. This emphasizes the significance of believing in God and being called by His name, signifying His divine intervention and favor shown to the Gentiles.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9841895663241962,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                34.95,
+                30.94,
+                34.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

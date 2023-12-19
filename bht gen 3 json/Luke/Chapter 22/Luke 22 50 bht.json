@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:23:03",
+    "verseRef": "Luke 22:50",
+    "bestBHT": {
+        "bht": "In Luke 22:50, one of the disciples takes a sword and cuts off the right ear of the servant. This act is attributed to Peter, who impulsively lunges at the servant with the intention of striking his head, but instead ends up severing his ear. Luke is the only Gospel that specifies it was the right ear, while John adds the names of both Peter and Malchus to the account. It is suggested that Peter targeted this particular servant because of his aggressive demeanor and hostility towards Jesus.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.6107743756340547,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+        "commentatorTierSimilarities": [
+            35.79,
+            27.66,
+            36.54
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The servant. See on Matthew 26:51. ",
+            "His right ear. Lit., his ear, the right one. See on Matthew 26:51; and compare Mark 14:47. Both Matthew and Mark use diminutives."
+        ],
+        "Philip Schaff": [
+            "Luke 22:50. A certain one of them. Luke too omits Peter\u2019s name.",
+            "\t",
+            " Right ear. Luke and John alone mention which ear it was.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Luke the Physician does [mention 'right'].",
+            "John 18:10 follows Luke in this item and also adds the names of Peter and of Malchus.",
+            "Both [Peter and Malchus] were probably dead by that time and Peter would not be involved in trouble."
+        ],
+        "John Gill": [
+            "The person that drew his sword, and performed this daring action, not waiting for an answer from Christ, was Peter.\" ",
+            "He aimed, no doubt, at his head, but missing his blow, took off his right ear.\" ",
+            "It is very likely, that this servant was very busy and forward to lay hold on Christ, and showed much virulence, and great malignity; and therefore Peter singled him out, and levelled his blow at him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 22:50, one of the disciples takes a sword and cuts off the right ear of the servant. This act is attributed to Peter, who impulsively lunges at the servant with the intention of striking his head, but instead ends up severing his ear. Luke is the only Gospel that specifies it was the right ear, while John adds the names of both Peter and Malchus to the account. It is suggested that Peter targeted this particular servant because of his aggressive demeanor and hostility towards Jesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6107743756340547,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                35.79,
+                27.66,
+                36.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, one of the disciples, Peter, takes action by wielding a sword and cutting off the right ear of a servant. Luke mentions the specific detail of it being the right ear, while John includes the names of both Peter and the servant, Malchus. Peter's impulsive act may have been aimed at the servant's head, but instead, he ends up severing his ear. This may have been due to the servant's aggressive behavior towards Jesus.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4889181149190065,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.85,
+            "commentatorTierSimilarities": [
+                36.63,
+                23.65,
+                39.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this incident, one of the disciples, identified as Peter by other Gospel accounts, takes swift action by using a sword to sever the right ear of a servant who is accompanying the group. Luke provides the specific detail of it being the right ear, while John adds the names of both Peter and the servant, Malchus. It seems that Peter's intention was to strike the servant's head, but instead he mistakenly cuts off his ear. This act may have been provoked by the servant's aggression and hostility towards Jesus.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.4579105957184764,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.82,
+            "commentatorTierSimilarities": [
+                36.25,
+                25.02,
+                38.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "One of the disciples, likely Peter, momentarily loses control and resorts to violence by using a sword to sever the right ear of a servant. Luke emphasizes the specific detail of it being the right ear, while John provides the names of Peter and the servant, Malchus. Although Peter's aim may have been to strike the servant's head, he ends up cutting off his ear instead. This action could have been prompted by the servant's aggressive and malicious behavior towards Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.4907883609847297,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.91,
+            "commentatorTierSimilarities": [
+                36.37,
+                23.47,
+                40.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this incident, one of the disciples, believed to be Peter, reacts impulsively and attacks a servant with a sword, cutting off the right ear. Luke highlights the specific detail of the right ear, while John adds the names of Peter and the servant, Malchus. It is suggested that Peter's intention was to strike the servant's head but missed, severing his ear instead. This act of aggression may have been provoked by the servant's evident hostility towards Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.4185370390903718,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.51,
+            "commentatorTierSimilarities": [
+                36.29,
+                23.32,
+                40.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

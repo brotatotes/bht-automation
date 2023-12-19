@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:20:08",
+    "verseRef": "Colossians 2:5",
+    "bestBHT": {
+        "bht": "Though absent in the flesh, in the Spirit I rejoice at the orderly, harmonized church you have established. Your solid faith in Christ serves as a firm foundation against false teachings. Your good order and steadfastness resemble a well-organized army, standing firm against the attacks of Gnosticism. Even though a few stragglers may have gone astray, your church remains intact, a solid front that maintains an honorable profession of faith. It is truly delightful to see a church walking together in Gospel order, how beautiful it is!",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.8717729943294077,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+        "commentatorTierSimilarities": [
+            32.81,
+            31.14,
+            36.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Though I am absent in the flesh, yet in the Spirit I am with you rejoicing.",
+            "Seeing your order, the orderly arrangement of your harmonized and undivided church.",
+            "The solid basis of your faith on Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For\u2014argument against their suffering themselves to be beguiled, drawn from a regard to his personal authority as though he were present.",
+            "Order\u2014your good order; answering to 'knit together' as a well-organized body.",
+            "Steadfastness\u2014Greek, 'the firm (or 'solid') foundation.'"
+        ],
+        "Albert Barnes": [
+            "For though I be absent in the flesh, yet am I with you in the spirit.",
+            "The word 'spirit,' here, does not refer to the Holy Spirit, or to any inspiration by which the apostle was enabled to see them; but it is equivalent to what we mean when we say, 'My heart is with you.'",
+            "I rejoice as if I saw your order. He had such confidence that everything would be done among them as became Christians, that he could rejoice as if he actually saw it."
+        ],
+        "Marvin Vincent": [
+            "Order [\u03c4\u03b1\u03be\u03b9\u03bd] . Or orderly array. A military metaphor, quite possibly suggested by Paul 's intercourse with the soldiers in his confinement.\" ",
+            "Faith is represented as a host solidly drawn up : your solid front, close phalanx.\" ",
+            "The verb is found in this sense in the Apocrypha, 1 Macc. 10 50, 'ejsterewse ton polemon, he solidified the battle; massed his lines.'"
+        ],
+        "John Calvin": [
+            "Because I see... hitherto you have pursued the right course, inasmuch as distance of place does not prevent me from beholding you with the eyes of the mind.",
+            "He mentions two things, in which the perfection of the Church consists - order among themselves, and faith in Christ.",
+            "It is an empty shadow of faith when the mind wavers and vacillates between different opinions."
+        ],
+        "Philip Schaff": [
+            "External bodily presence is contrasted with spiritual presence; with you in the spirit.",
+            "The contemplation of their orderly array, although it might have been first the cause, was afterwards the consequence of the Apostle's rejoicing. He looked, because it gave him satisfaction to look.",
+            "After these words we have no reason for doubting that the Church of Colossae, though tried by heretical teaching, was substantially sound in the faith."
+        ],
+        "Archibald T. Robertson": [
+            "Your order (\u03c4\u03b7\u03bd \u03c4\u03b1\u03be\u03b9\u03bd). The military line (from \u03c4\u03b1\u03c3\u03c3\u03c9), unbroken, intact.",
+            "A few stragglers had gone over to the Gnostics, but there had been no panic, no breach in the line.",
+            "The solid part of the line which can and does stand the attack of the Gnostics."
+        ],
+        "John Gill": [
+            "yet am I with you in the spirit...he had the same affection for them, and care of them, though he had never seen them with his bodily eyes",
+            "the spirit of the Apostle Paul was at the church at Colosse, and saw and discerned their whole estate",
+            "to see a set of Christians, a church of Christ walking together in Gospel order, steady in their faith on Christ, abiding by the doctrine of faith, and maintaining an honourable profession, how beautiful and delightful is it!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even though I am physically absent, my spirit rejoices in seeing the orderly and harmonized church you have established. I take joy in observing the solid foundation of your faith in Christ. This serves as an argument against succumbing to the beguiling influence of false teachings, as if I were present with you. Your good order and steadfastness resemble a well-organized army, standing firm against the attacks of Gnosticism. Though there may have been a few stragglers who wandered, your church remains intact, a solid front that maintains an honorable profession of faith.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8649545725431085,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                31.15,
+                34.11,
+                34.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though absent in the flesh, in the Spirit I rejoice at the orderly, harmonized church you have established. Your solid faith in Christ serves as a firm foundation against complacency. Your good order and steadfastness resemble a well-organized army, standing firm against the attacks. Even though a few stragglers may have gone astray, your church remains intact, a solid front that maintains an honorable profession of faith. It is truly delightful to see a set of Christians walking together in Gospel order, how beautiful it is!",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.834893256580557,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+            "commentatorTierSimilarities": [
+                34.0,
+                30.67,
+                35.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though absent in the flesh, in the Spirit I rejoice at the orderly, harmonized church you have established. Your solid faith in Christ serves as a firm foundation against complacency. Your good order and steadfastness resemble a well-organized army. Even though a few stragglers may have gone astray, your church remains intact, a solid front that maintains an honorable profession of faith. It is truly delightful to see a set of Christians walking together in Gospel order, how beautiful it is!",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.8095336858501547,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                33.5,
+                31.28,
+                35.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though absent in the flesh, in the Spirit I rejoice at the orderly, harmonized church you have established. Your solid faith in Christ serves as a firm foundation against false teachings. Your good order and steadfastness resemble a well-organized army, standing firm against the attacks of Gnosticism. Even though a few stragglers may have gone astray, your church remains intact, a solid front that maintains an honorable profession of faith. It is truly delightful to see a church walking together in Gospel order, how beautiful it is!",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.8717729943294077,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+            "commentatorTierSimilarities": [
+                32.81,
+                31.14,
+                36.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though absent in the flesh, in the Spirit I rejoice at the orderly, harmonized church you have established. Your solid faith in Christ serves as a firm foundation against false teachings. Your good order and steadfastness resemble a well-organized army, standing firm against the attacks. Even though a few stragglers may have gone astray, your church remains intact, a solid front that maintains an honorable profession of faith. It is truly delightful to see a church walking together in Gospel order, how beautiful it is!",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.8358467120812207,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                33.38,
+                30.73,
+                35.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 14:16:52",
+    "verseRef": "Galatians 3:9",
+    "bestBHT": {
+        "bht": "Those who share in Abraham's blessing are not those who rely on their own works, but those who have faith. Their community with faithful Abraham is based on the shared characteristic of faith. Just as Abraham's faith resulted in justification, so too does faith bring about the same result for believers. They are regarded as part of the same blessing that began with Abraham. Therefore, those who truly believe are blessed with the same justifying righteousness and the promise of eternal life.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.177827368508284,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.75,
+        "commentatorTierSimilarities": [
+            33.91,
+            22.64,
+            43.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A share in Abraham\u2019s blessing must be the accompaniment of faith, not of works of the law.",
+            "With, to show their community with him in the blessing.",
+            "Faithful Abraham, to show wherein the community consists, viz. FAITH."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "they\u2014and they alone.",
+            "faith, the prominent feature of his character, and of which the result to all who like him have it, is justification.",
+            "the result to all who like him have it, is justification."
+        ],
+        "Albert Barnes": [
+            "They whose leading characteristic it is that they believe.",
+            "This was the leading trait in the character of Abraham.",
+            "They are interested in the promises made to him, and they will be treated as he was."
+        ],
+        "Marvin Vincent": [
+            "Believers are regarded as homogeneous with Abraham, and as thus sharing the blessing which began in him.",
+            "Those who are of the faith are one in blessing with him whose characteristic was faith.",
+            "Faithful. Or believing, as Acts 16:1; 2 Corinthians 11:15; 1 Timothy 5:16."
+        ],
+        "John Calvin": [
+            "They are blessed, not with Abraham as circumcised, nor as entitled to boast of the works of the law, nor as a Hebrew, nor as relying on his own excellence, but with Abraham, who by faith alone obtained the blessing.\" ",
+            "For no personal quality is here taken into the account, but faith alone.\" ",
+            "The word Blessing is variously employed in Scripture: but here it signifies Adoption into the inheritance of eternal life."
+        ],
+        "Philip Schaff": [
+            "Galatians 3:9. The emphasis lies on faith, as in Galatians 3:7.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "With (\u03c3\u03c5\u03bd). Along with, in fellowship with.",
+            "The faithful (\u03c4\u03c9 \u03c0\u03b9\u03c3\u03c4\u03c9). Rather, \"the believing\" (cf. verse Galatians 3:6). "
+        ],
+        "John Gill": [
+            "These are blessed with faithful Abraham; in his seed Christ; they are blessed with a justifying righteousness in Christ as he was, and will be blessed with eternal life as he is.",
+            "The character of 'faithful' given to him, respects not his uprightness and integrity among men, but his faith in God; and does not suppose that he was blessed for his faith, but that it was through faith that he received the blessing of justification, and not by the works of the law.",
+            "nor can the Jews of all men find fault with this interpretation of the apostle's, since they themselves interpret the above clause of some particular persons of the nations of the world, and say in so many words, that 'the meaning is, not that all the men of the world should be blessed, but that every family that is in the world, \"that comes to the obedience and faith of him\" (God), to it shall adhere the blessing and providence."
+        ],
+        "John Wesley": [
+            "So then all they, and they only, who are of faith - Who truly believe.",
+            "Are blessed with faithful Abraham \u2014 Receive the blessing as he did, namely, by faith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who share in Abraham's blessing are not those who rely on their own works, but those who have faith. Just as Abraham's faith justified him, so too does faith justify all who believe. Believers are seen as having a shared identity with Abraham, being regarded as part of the same community of faith. Their blessing is not based on their own righteousness, but on their association with faithful Abraham. The emphasis here lies on faith, as it was the defining characteristic of Abraham's character. Those who truly believe, like Abraham, are blessed with the same justifying righteousness and the promise of eternal life.",
+            "wordCount": 107,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.2383076456779936,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.76,
+            "commentatorTierSimilarities": [
+                32.31,
+                23.87,
+                43.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who share in Abraham's blessing are not those who rely on works, but those who have faith. Just as Abraham's faith justified him, so too does faith justify all who believe. Believers are seen as having a shared identity with Abraham, part of the same community of faith. Their blessing is not based on righteousness, but on their association with faithful Abraham. The emphasis lies on faith, the defining characteristic of Abraham's character. Those who truly believe, like Abraham, are blessed with the same righteousness and promise of eternal life.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.2344789817078454,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.64,
+            "commentatorTierSimilarities": [
+                32.81,
+                23.76,
+                43.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham's blessing is not obtained through works, but through faith. Those who share in this blessing are considered part of the same faith community as Abraham. Their blessing is not based on personal righteousness, but on their association with faithful Abraham. Justification is the result of faith, which is the defining characteristic of Abraham's character. Those who truly believe are blessed with the same righteousness and the promise of eternal life.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 2.227617778447769,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.41,
+            "commentatorTierSimilarities": [
+                33.67,
+                21.7,
+                44.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blessing of Abraham is received not through works, but through faith. Believers are seen as sharing in Abraham's blessing, being part of the same faith community. This blessing is not earned through personal righteousness, but through association with faithful Abraham. Faith is the prominent feature and it is through faith that believers are justified, just as Abraham was. Those who truly believe are blessed with the same justification and the promise of eternal life.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 2.234612941307887,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.64,
+            "commentatorTierSimilarities": [
+                33.93,
+                20.03,
+                46.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who share in Abraham's blessing are not those who rely on their own works, but those who have faith. Their community with faithful Abraham is based on the shared characteristic of faith. Just as Abraham's faith resulted in justification, so too does faith bring about the same result for believers. They are regarded as part of the same blessing that began with Abraham. Therefore, those who truly believe are blessed with the same justifying righteousness and the promise of eternal life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.177827368508284,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.75,
+            "commentatorTierSimilarities": [
+                33.91,
+                22.64,
+                43.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

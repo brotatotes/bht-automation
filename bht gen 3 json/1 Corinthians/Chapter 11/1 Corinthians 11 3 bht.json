@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:11:46",
+    "verseRef": "1 Corinthians 11:3",
+    "bestBHT": {
+        "bht": "Paul addresses the issue of women overstepping their bounds by praying and prophesying with uncovered heads in the assembled church. He seeks to maintain modesty and seemliness, reminding women of their subjection to men and assigning men their place in the spiritual order of creation. Just as the man is the head of the woman, so is Christ subject to God as His head, highlighting the importance of maintaining proper order and authority. This subordination does not diminish the divine nature of Christ and God, as the male and female are of the same human nature.",
+        "wordCount": 96,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 2.1595433460228737,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+        "commentatorTierSimilarities": [
+            35.19,
+            27.26,
+            37.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The gospel unquestionably did much for the emancipation of women, who in the East and among the Ionian Greeks (not among the Dorians and the Romans) were kept in unworthy dependence.",
+            "The women overstepped the bounds of their sex, in coming forward to pray and to prophesy in the assembled church with uncovered heads.",
+            "In order to confine the women to their true limits, he reminds them of their subjection to the man, to whom again he assigns his place in the spiritual order of creation, and traces this precedence up to God Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Yet, while on a level with males as to the offer of, and standing in grace, their subjection in point of order, modesty, and seemliness, is to be maintained.",
+            "Jesus, therefore, must be of the same essence as God: for, since the man is the head of the woman, and since the head is of the same essence as the body, and God is the head of the Son, it follows the Son is of the same essence as the Father.",
+            "The woman is of the essence of the man, and not made by the man; so, too, the Son is not made by the Father, but of the essence of the Father."
+        ],
+        "Albert Barnes": [
+            "The word 'head,' in the Scriptures, is designed often to denote 'master, ruler, chief.'",
+            "In all circumstances - in her demeanor, her dress, her conversation, in public and in the family circle - should recognize her subordination to him.",
+            "Christ, as Mediator, has consented to assume a subordinate rank, and to recognize God the Father as superior in office."
+        ],
+        "John Calvin": [
+            "He says, that as Christ is subject to God as his head, so is the man subject to Christ, and the woman to the man.\" ",
+            "Here, on the other hand, he reasons respecting outward propriety and decorum \u2014 which is a part of ecclesiastical polity.",
+            "Christ is the head of the man and of the woman without any distinction, because, as to that, there is no regard paid to male or female."
+        ],
+        "Philip Schaff": [
+            "The head of every man (\u2018male\u2019) is Christ...it is of Christians that the apostle is here speaking in whose case it is used in a higher sense and more particularly of the male sex.",
+            "The head of the woman (under Christ) is the man, and the head of Christ is God considered as the Father's Servant...in this aspect of mutual relation in the work of redemption that 'the Head of Christ is God' with which His proper Personal Divinity is in entire harmony.",
+            "These general truths are now applied to the case in hand."
+        ],
+        "Archibald T. Robertson": [
+            "But I wish you to know, censure in contrast to the praise...\" ",
+            "The head of Christ is God.\" ",
+            "Rather, God is the head of Christ..."
+        ],
+        "John Gill": [
+            "Christ is the head of every individual human nature, as he is the Creator and Preserver of all men, and the donor of all the gifts of nature to them.",
+            "Christ is the head of every believing man; he is a common public head, a representative one to all his elect.",
+            "God is the head of Christ, as he is man and Mediator, and as such only."
+        ],
+        "John Wesley": [
+            "The head of every man \u2014 Particularly every believer.",
+            "Is Christ, and the head of Christ is God \u2014 Christ, as he is Mediator, acts in all things subordinately to his Father.",
+            "But we can no more infer that they are not of the same divine nature, because God is said to be the head of Christ, than that man and woman are not of the same human nature, because the man is said to be the head of the woman."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Paul addresses the issue of women praying and prophesying in the church with uncovered heads, which was seen as overstepping their bounds. By reminding the women of their subjection to men and assigning men their place in the spiritual order of creation, Paul sought to maintain modesty and seemliness. Just as the man is the head of the woman, so is Christ subject to God as His head, highlighting the importance of maintaining proper order and authority. However, it is crucial to understand that this subordination does not diminish the divine nature of Christ and God, just as the male and female, despite their different roles, are of the same human nature.",
+            "wordCount": 115,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 2.1522163156582,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.9,
+            "commentatorTierSimilarities": [
+                34.97,
+                27.69,
+                37.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul addresses the issue of women overstepping their bounds by praying and prophesying with uncovered heads in the assembled church. He seeks to maintain modesty and seemliness, reminding women of their subjection to men and assigning men their place in the spiritual order of creation. Just as the man is the head of the woman, so is Christ subject to God as His head, highlighting the importance of maintaining proper order and authority. This subordination does not diminish the divine nature of Christ and God, as the male and female are of the same human nature.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.1595433460228737,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                35.19,
+                27.26,
+                37.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul addresses the issue of women praying and prophesying with uncovered heads, reminding them of their subjection to men and assigning men their place in the spiritual order of creation. By maintaining modesty and seemliness, women are to recognize their limits. Just as the man is the head of the woman, so is Christ subject to God as His head. This highlights the importance of upholding proper order and authority, without diminishing the divine nature of Christ and God. Male and female, despite their different roles, are of the same human nature.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.981593652873767,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
+            "commentatorTierSimilarities": [
+                34.71,
+                26.07,
+                39.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul addresses the issue of women praying and prophesying in the church with uncovered heads, emphasizing the need for modesty and seemliness. He reminds the women of their subjection to men and the spiritual order of creation, where the man is the head of the woman. Similarly, Christ submits to God as His head, illustrating the significance of maintaining proper order and authority. However, it is important to understand that this subordination does not diminish the divine nature of Christ and God, as male and female are of the same human nature.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.1415640174191557,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+            "commentatorTierSimilarities": [
+                34.16,
+                27.54,
+                38.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul addresses the issue of women praying and prophesying in the church with uncovered heads. He emphasizes the importance of maintaining modesty and seemliness, reminding women of their subjection to men and the spiritual order of creation. Just as the man is the head of the woman, Christ submits to God as His head, highlighting the significance of proper order and authority. However, it is crucial to understand that this subordination does not lessen the divine nature of Christ and God, as male and female are of the same human nature.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.106586150518578,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+            "commentatorTierSimilarities": [
+                34.3,
+                27.39,
+                38.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

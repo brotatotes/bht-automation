@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:39:15",
+    "verseRef": "1 Peter 2:23",
+    "bestBHT": {
+        "bht": "Christ, our perfect example, when reviled, reviled not again, but instead committed himself to the Father who judges righteously. He did not use harsh words or seek revenge, but honored God by entrusting his cause to Him. In the face of suffering and threats, Christ maintained silence and patience, setting an example for us to follow. By leaving our cases in God's hands, we find tranquility and consolation, knowing that He will execute justice on our behalf. Let us imitate Christ's response, responding to adversity with grace and forgiveness, entrusting our cause to God.",
+        "wordCount": 96,
+        "quoteTokenProportion": 37.14,
+        "qualityScore": 1.936996277863523,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+        "commentatorTierSimilarities": [
+            24.34,
+            35.18,
+            40.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "who when reviled, reviled not again",
+            "when suffering threatened not",
+            "but ( 'yea rather') delivered [thein] up... to Him that judgeth righteously"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ, who as Lord could have threatened with truth, never did so.",
+            "Leave your case in His hands, not desiring to make Him executioner of your revenge, but rather praying for enemies.",
+            "God's righteous judgment gives tranquillity and consolation to the oppressed."
+        ],
+        "Albert Barnes": [
+            "He did not use harsh and opprobrious words in return for those which he received.",
+            "He did not revile those who had reproached him. He used no harsh language. He showed no anger. He called for no revenge.",
+            "When we are reproached and reviled, we should feel that we were called to this by our profession; that it was one of the things which we were taught to expect when we became Christians; that it is what the prophets and apostles endured, and what the Master himself suffered in an eminent degree."
+        ],
+        "Marvin Vincent": [
+            "Committed himself [\u03c0\u03b1\u03c1\u03b5\u03b4\u03b9\u03b4\u03bf\u03c5]. But his gives a reflexive force to the verb which has no parallel.",
+            "Commentators are divided, some supplying his cause, as Rev., in margin; others, his judgment; other, his revilers.",
+            "Judgeth righteously. Compare without respect of persons, ch. 1 17."
+        ],
+        "John Calvin": [
+            "For such is our disposition, that when we receive injuries, our minds immediately boil over with revengeful feelings; but Christ abstained from every kind of retaliation.\" ",
+            "It behooves us calmly to bear evils; God in the meantime will not neglect what belongs to him, but will show himself to be a righteous judge.\" ",
+            "He who is so calm in his spirit as to wish his adversaries to become his friends, and endeavors to bring them to the right way, rightly commits to God his own cause."
+        ],
+        "Philip Schaff": [
+            "When suffering, threatened not.",
+            "The sentence, therefore, exhibits Christ's example in suffering in its quality of silence and patience.",
+            "What is it, however, that Christ is said to have committed to this Righteous Judge? Many interpreters... make it = committed his judgment, or his cause, or his punishment, or his vengeance."
+        ],
+        "Archibald T. Robertson": [
+            "Reviled not again.",
+            "Threatened not.",
+            "But committed himself to the Father who judges righteously."
+        ],
+        "John Gill": [
+            "When he was reviled, reviled not again...his only answer was, that he had not, that he honoured his Father, and they dishonoured him.\" ",
+            "When he suffered he threatened not...he took all patiently from them...he did not threaten his crucifiers with a future judgment.\" ",
+            "Committed [himself] to him that judgeth righteously...to leave their cause with their God, who will, in his own time, avenge the wrongs and injuries done them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ, our perfect example, did not respond with reviling or threats when he was reviled and threatened, but instead committed himself to the Father who judges righteously. He did not seek vengeance or retaliate against his enemies, but rather entrusted his cause to God. Just as Christ did, we should leave our cases in God's hands and refrain from seeking revenge. We can find peace and comfort in knowing that God will execute righteous judgment on our behalf. Let us follow Christ's example, responding to adversity with patience, silence, and a spirit of forgiveness, leaving the judgment to our faithful God.",
+            "wordCount": 103,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9102391473148348,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.86,
+            "commentatorTierSimilarities": [
+                24.19,
+                33.59,
+                42.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, our perfect example, when reviled, reviled not again, but instead committed himself to the Father who judges righteously. He did not use harsh words or seek revenge, but honored God by entrusting his cause to Him. In the face of suffering and threats, Christ maintained silence and patience, setting an example for us to follow. By leaving our cases in God's hands, we find tranquility and consolation, knowing that He will execute justice on our behalf. Let us imitate Christ's response, responding to adversity with grace and forgiveness, entrusting our cause to God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.936996277863523,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "commentatorTierSimilarities": [
+                24.34,
+                35.18,
+                40.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, our perfect example, responded to reviling and suffering by not reviling in return and not threatening. Instead, he entrusted himself to the Father who judges righteously. We are called to imitate his way of reacting to mistreatment, leaving our cases in God's hands and not seeking revenge. We can find solace in knowing that our faithful God will bring about righteous judgment, giving us peace in the face of oppression. Let us follow Christ's example of patient endurance, committing our cause to the just judgment of our Heavenly Father.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8076429301979202,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                26.72,
+                31.65,
+                41.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ refused to respond with reviling and threats when he was reviled and threatened, choosing instead to commit himself to the Father who judges righteously. Rather than seeking revenge, we are called to leave our cases in God's hands, praying for our enemies and trusting in His righteous judgment. By following Christ's example, we can find peace and consolation in times of oppression and injustice, knowing that God will bring about justice and vindication according to His perfect timing.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.926491782953093,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.4,
+            "commentatorTierSimilarities": [
+                24.72,
+                32.64,
+                42.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of reviling and suffering, Christ responded by not reviling or threatening in return. Instead, he committed himself to the Father's righteous judgment. We are called to imitate Christ's example, leaving our cases in God's hands. Rather than seeking revenge, we should pray for our enemies and trust in God's perfect justice. By doing so, we can find solace and consolation, knowing that God will execute justice on our behalf in His own time.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8076537330892894,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                25.91,
+                33.11,
+                40.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

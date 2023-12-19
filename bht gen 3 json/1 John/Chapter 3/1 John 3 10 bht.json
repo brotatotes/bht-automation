@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:47:34",
+    "verseRef": "1 John 3:10",
+    "bestBHT": {
+        "bht": "The sin of hate is a clear indication of whether one is a child of God or a child of the devil. This distinction is made evident to all by the presence or absence of love for one's brothers and sisters. Love is the distinguishing mark of a child of God, while those who do not love their brothers and sisters show that they belong to the devil. This distinction is apparent in the way one lives their life, and there is no middle ground between the two.",
+        "wordCount": 89,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 2.260471927554363,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.5,
+        "commentatorTierSimilarities": [
+            36.06,
+            31.13,
+            32.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In this (fact, circumstance: in better than by this, which the idea that this is the only sign) are manifest... the sin of hate, is one which is plainly open to men\u2019s eyes, at least in its ordinary manifestations) the children of God and the children of the devil.\" (100 words)",
+            "Every one that doeth not righteousness (see ch. ii. 29) is not of God (is not a child of God), and he that loveth not his brother.\" (30 words)",
+            "Love alone distinguishes between the children of God and the children of the devil... the children of God are not distinguished from the children of the devil, except by Love.\" (40 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is no middle class between the children of God and the children of the devil.",
+            "Contrast 1 John 3:8- :.",
+            "A particular instance of that love which is the sum and fulfilment of all righteousness, and the token that distinguishes God's children from the devil's."
+        ],
+        "Albert Barnes": [
+            "The general idea is, that if a person is not truly a righteous person, and does not love the brethren, he cannot be a child of God.",
+            "Perhaps by the phrase in this, using a pronoun in the singular number, he means to intimate that an important part of righteousness consists in brotherly love.",
+            "The general sense is, that brotherly love is essential to the Christian character, and that he who does not possess it cannot be a Christian."
+        ],
+        "Marvin Vincent": [
+            "Children of the devil.",
+            "Righteousness is regarded, not in its completeness, but as bearing a particular character.",
+            "The distinction between the following words with and without the article: ajmartia sin; ajgaph love; zwh life; ajlhqeia truth."
+        ],
+        "John Calvin": [
+            "Those in vain claim a place and a name among the children of God, who do not prove themselves to be such by a pious and holy life.\" ",
+            "By this evidence they show that they differ from the children of the devil.\" ",
+            "The fruit and adoption always appear in the life."
+        ],
+        "Philip Schaff": [
+            "The \u2018manifest\u2019 is not to the eye of God alone, but to all who have eyes to see.",
+            "St. John knows no third class.",
+            "He introduces at the close the idea of \u2018brotherly love,\u2019 not as strictly synonymous with righteousness, but yet as in a certain sense the pith and compendium of it."
+        ],
+        "Archibald T. Robertson": [
+            "A life of sin is proof that one is a child of the devil and not of God.",
+            "This is the line of cleavage that is obvious to all.",
+            "The addition here of this one item about not loving one's brother is like Paul's summary in Romans 13:9, a striking illustration of the general principle just laid down."
+        ],
+        "John Gill": [
+            "Regeneration and faith do not make men the children of God, but manifest them to be so.",
+            "The children of the devil... are distinguishable from regenerate persons, and the children of God, by their lives and conversations.",
+            "He does not appear to be born of God, who does not by faith lay hold on the righteousness of Christ for his justification... and who does not do works of righteousness in faith from a principle of love."
+        ],
+        "John Wesley": [
+            "Neither he that loveth not his brother \u2014 Here is the transition from the general proposition to one particular."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that the sin of hate is one that is plainly visible to others, and it is a clear indication of whether someone is a child of God or a child of the devil. This distinction is not made based on righteous deeds alone, but rather on whether one loves their brothers and sisters. Love is the distinguishing mark of a child of God, while those who do not love their brothers and sisters show that they belong to the devil. This distinction is evident in the way a person lives their life. There is no middle ground between being a child of God and a child of the devil, and the absence of love for one's brother is a significant indicator of one's spiritual state.",
+            "wordCount": 131,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.3669847425951787,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.04,
+            "commentatorTierSimilarities": [
+                34.56,
+                34.24,
+                31.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sin of hate is plainly visible to others, revealing whether someone is a child of God or a child of the devil. This distinction is made not only by righteous deeds but also by the presence or absence of love for one's brothers and sisters. Love is the distinguishing mark of a child of God, while absence of love for one's brother indicates belonging to the devil. There is no middle ground between being a child of God and a child of the devil, and the absence of love for one's brother is a significant indicator.",
+            "wordCount": 100,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 2.472026495646494,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.53,
+            "commentatorTierSimilarities": [
+                36.64,
+                33.5,
+                29.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sin of hate is a clear indication of whether one is a child of God or a child of the devil. This distinction is made evident to all by the presence or absence of love for one's brothers and sisters. Love is the distinguishing mark of a child of God, while those who do not love their brothers and sisters show that they belong to the devil. This distinction is apparent in the way one lives their life, and there is no middle ground between the two.",
+            "wordCount": 89,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 2.260471927554363,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.5,
+            "commentatorTierSimilarities": [
+                36.06,
+                31.13,
+                32.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sin of hate is an observable sign, differentiating between the children of God and the children of the devil. This distinction is not based solely on righteous action, but on the presence or absence of love for one's brothers and sisters. Love is the defining characteristic of a child of God, while the lack of love marks one as belonging to the devil. This distinction is evident in one's conduct and cannot be ignored.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.2354503458039714,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.67,
+            "commentatorTierSimilarities": [
+                36.97,
+                32.77,
+                30.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The visibility of the sin of hate separates the children of God from the children of the devil, with love being the distinguishing factor. One's status as a child of God is not determined by righteous deeds alone, but by the presence or absence of love for others. The absence of love for one's brother is an evident indication of belonging to the devil. This distinction is apparent in one's conduct and the manifestation of love in their life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.3010254412938727,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.85,
+            "commentatorTierSimilarities": [
+                36.15,
+                32.92,
+                30.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

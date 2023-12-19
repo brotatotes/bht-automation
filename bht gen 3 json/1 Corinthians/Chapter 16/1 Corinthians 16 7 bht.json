@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:14:24",
+    "verseRef": "1 Corinthians 16:7",
+    "bestBHT": {
+        "bht": "For I am not willing this time to see you in passing, for it shall so turn out, in the Lord's direction of my work, that I shall then find my way open to do so. I do not wish to see you now by the way, but rather hope to tarry a while with you, if the Lord permits. Paul trusted in Him who is the Head over all things to the Church and desired to be in alignment with His plan.",
+        "wordCount": 84,
+        "quoteTokenProportion": 58.62,
+        "qualityScore": 1.867711902503438,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+        "commentatorTierSimilarities": [
+            29.52,
+            35.71,
+            34.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For I am not willing this time to see you in passing.",
+            "The word now, or this time, refers to the occasion, the news from \u2018them of Chloe,\u2019 which had made it advisable that he should not now pay them a mere passing visit.",
+            "If it shall so turn out, in the Lord\u2019s direction of my work, that I shall then find my way open to do so."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I do not wish to see you this time in passing.",
+            "I will not see you now by the way.",
+            "But...for."
+        ],
+        "Albert Barnes": [
+            "Something had occurred to change his mind, and to induce him to go to Macedonia by another way.",
+            "That is, on my return from Macedonia, 1 Corinthians 16:5.",
+            "The apostle did not use the language of certainty and of confidence. He felt his dependence on God, and regarded all as under his direction."
+        ],
+        "Philip Schaff": [
+            "For I do not wish to see you now by the way as formerly intended... for I hope to tarry a while with you.\" ",
+            "If the Lord permit that is, if when the time comes it appear that the way for it has been left open by Him who is 'Head over all things to the Church.'",
+            "Him who is 'Head over all things to the Church'"
+        ],
+        "Archibald T. Robertson": [
+            "Now by the way (\u03b1\u03c1\u03c4 \u03b5\u03bd \u03c0\u03b1\u03c1\u03bf\u03b4\u03c9). Like our 'by the way' (\u03c0\u03b1\u03c1\u03bf\u03b4\u03bf\u03c2), incidentally.",
+            "If the Lord permit (\u03b5\u03b1\u03bd \u03bf \u039a\u03c5\u03c1\u03b9\u03bf\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c1\u03b5\u03c8\u03b7). Condition of the third class.",
+            "Paul did everything \u03b5\u03bd \u039a\u03c5\u03c1\u03b9\u03c9 (Cf. Acts 18:21)."
+        ],
+        "John Gill": [
+            "For I will not see you now by the way,.... Just to look upon them, and be gone, be like a wayfaring man that tarries but for a night:\" ",
+            "but I trust to tarry a while with you; the whole winter season:\" ",
+            "if the Lord permit; submitting all to the will of God, at whose sovereign disposal he always was, and at whose beck and command he desired to be, and to do nothing, or be anywhere, but what was agreeable to the will of God."
+        ],
+        "John Wesley": [
+            "I will not see you now \u2014 Not till I have been in Macedonia."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For I am not willing this time to see you in passing, for it shall so turn out, in the Lord's direction of my work, that I shall then find my way open to do so. I do not wish to see you now by the way, but rather hope to tarry a while with you, if the Lord permits. Paul felt his dependence on God and regarded all as under His direction, submitting all to the will of God. He trusted in Him who is the Head over all things to the Church and desired to be in alignment with His plan.",
+            "wordCount": 104,
+            "quoteTokenProportion": 57.35,
+            "qualityScore": 1.7134979250512548,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+            "commentatorTierSimilarities": [
+                26.34,
+                41.0,
+                32.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For I am not willing this time to see you in passing, for it shall so turn out, in the Lord's direction of my work, that I shall then find my way open to do so. I do not wish to see you now by the way, but rather hope to tarry a while with you, if the Lord permits. Paul trusted in Him who is the Head over all things to the Church and desired to be in alignment with His plan.",
+            "wordCount": 84,
+            "quoteTokenProportion": 58.62,
+            "qualityScore": 1.867711902503438,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+            "commentatorTierSimilarities": [
+                29.52,
+                35.71,
+                34.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I am not willing this time to see you in passing, for it shall so turn out, in the Lord's direction of my work, that I shall then find my way open to do so. I do not wish to see you now by the way, but rather hope to tarry a while with you, if the Lord permits. Paul trusted in Him who is the Head over all things to the Church and desired to be in alignment with His plan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 58.62,
+            "qualityScore": 1.8552883086075835,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.03,
+            "commentatorTierSimilarities": [
+                29.6,
+                35.54,
+                34.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I am not willing this time to see you in passing, for it shall so turn out, in the Lord's direction of my work, that I shall then find my way open to do so. I do not wish to see you now, by the way, but rather hope to tarry a while with you, if the Lord permits. Paul trusted in Him who is the Head over all things to the Church, aligning his plans with God's will.",
+            "wordCount": 81,
+            "quoteTokenProportion": 57.89,
+            "qualityScore": 1.8582176810643163,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                29.89,
+                35.28,
+                34.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I am not willing this time to see you in passing, for it shall so turn out, in the Lord's direction of my work, that I shall then find my way open to do so. I do not wish to see you now, by the way, but rather hope to tarry a while with you, if the Lord permits. Paul trusted in Him who is the Head over all things to the Church, aligning his plans with God's will.",
+            "wordCount": 81,
+            "quoteTokenProportion": 57.89,
+            "qualityScore": 1.8582176810643163,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                29.89,
+                35.28,
+                34.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

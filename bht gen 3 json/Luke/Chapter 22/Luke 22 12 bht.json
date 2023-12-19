@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:22:38",
+    "verseRef": "Luke 22:12",
+    "bestBHT": {
+        "bht": "And that one showed them a large upper room furnished for the Passover. The words design the preparation of the Passover, and everything proper for it.",
+        "wordCount": 26,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.2160637114938495,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.78,
+        "commentatorTierSimilarities": [
+            19.02,
+            0.0,
+            80.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "And he [\u03ba\u03b1\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2] . See on Mark 14:15. ",
+            "Furnished. See on Mark 14:15. Wyc., strewed. ",
+            "- 18; 24 - 30. Compare Matthew 26:20; Mark 14:17."
+        ],
+        "Archibald T. Robertson": [
+            "And he (\u03ba'\u03b1\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2). \u039a\u03b1 and \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2 (\u03c7\u03c1\u03b1\u03c3\u03b9\u03c2) where Mark 14:15 has \u03ba\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c2. Literally, And that one. See on Mark for rest of the verse. "
+        ],
+        "John Gill": [
+            "And he shall show you a large upper room furnished...",
+            "...there make ready.",
+            "...the words design the preparation of the passover, and every thing proper for it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And that one (\u03ba'\u03b1\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2) showed them a large upper room furnished for the Passover. The words design the preparation of the Passover, and everything proper for it.",
+            "wordCount": 28,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.2548119893920768,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.07,
+            "commentatorTierSimilarities": [
+                22.25,
+                0.0,
+                77.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And that one (\u03ba'\u03b1\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2) showed them a large upper room furnished for the Passover. The words design the preparation of the Passover, and everything proper for it.",
+            "wordCount": 28,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.2548119893920768,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.07,
+            "commentatorTierSimilarities": [
+                22.25,
+                0.0,
+                77.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "And that one showed them a large upper room furnished for the Passover. The words design the preparation of the Passover, and everything proper for it.",
+            "wordCount": 26,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2160637114938495,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.78,
+            "commentatorTierSimilarities": [
+                19.02,
+                0.0,
+                80.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "And that one (\u03ba'\u03b1\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2) showed them a large upper room furnished for the Passover. The words imply the careful preparation of the Passover feast with all necessary provisions and arrangements made.",
+            "wordCount": 32,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.1089319846284735,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.22,
+            "commentatorTierSimilarities": [
+                26.1,
+                0.0,
+                73.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "And that one (\u03ba'\u03b1\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2) showed them a large upper room furnished for the Passover. The words design the preparation of the Passover, and everything proper for it. The careful preparation of the Passover feast with all necessary provisions and arrangements made is implied.",
+            "wordCount": 44,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.135356438466182,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.09,
+            "commentatorTierSimilarities": [
+                21.2,
+                0.0,
+                78.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

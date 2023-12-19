@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:34:24",
+    "verseRef": "Acts 20:36",
+    "bestBHT": {
+        "bht": "These concluding verses leave an indelible impression of rare ministerial fidelity and affection, reflecting a desire for more frequent scenes of such devotion in the Church. Paul's act of kneeling down in prayer showcases reverence and humility, aligning with the customary attitude of devotion in Scripture. Kneeling serves as a profession of godliness and encourages reverence among believers. Paul's prayer seals and concludes his sermon, emphasizing the need for God's blessing to profit from their teaching and the significance of kneeling as a prayer gesture.",
+        "wordCount": 88,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.940622313346179,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+        "commentatorTierSimilarities": [
+            27.85,
+            35.98,
+            36.17
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Nothing can be more touching than these three concluding verses, leaving an indelible impression of rare ministerial fidelity and affection on the apostle's part.\" ",
+            "Would to God that such scenes were more frequent in the Church!"
+        ],
+        "Albert Barnes": [
+            "He kneeled down - The usual attitude of prayer.",
+            "It indicates reverence and humility.",
+            "It is represented in the Scriptures as the usual attitude of devotion."
+        ],
+        "John Calvin": [
+            "The inward affection is indeed the chiefest thing in prayer; yet the external signs, as kneeling, uncovering of the head, lifting up of the hands, have a double use...",
+            "There is also a third use in solemn and public prayer, because the children of God do by this means make profession of their godliness, and one of them doth provoke another unto the reverence of God.",
+            "But he sealeth up and concludeth that sermon which he made before with prayer; because we can hope for no profit of our doctrine, save only from the blessing of God."
+        ],
+        "Philip Schaff": [
+            "They were in the habit of kneeling in prayer on ordinary occasions, but they considered standing in prayer the posture most fitting for praise and thanksgiving.",
+            "This posture in prayer was also adopted during the seven weeks which intervened between Passover and Pentecost, roughly speaking, the 'forty days,' as they considered this a period of joy and thanksgiving.",
+            "The historian, who has recorded what we may call this charge of St. Paul, shrinks with a natural reverence from reporting his prayer."
+        ],
+        "Archibald T. Robertson": [
+            "He kneeled down (\u03b8\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b3\u03bf\u03bd\u03b1\u03c4\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c5). Second aorist active participle of \u03c4\u03b9\u03b8\u03b7\u03bc, to place.",
+            "Certainly kneeling in prayer is a fitting attitude (cf. Jesus, Luke 22:41), though not the only proper one (Matthew 6:5).",
+            "Paul apparently prayed aloud (\u03c0\u03c1\u03bf\u03c3\u03b7\u03c5\u03be\u03b1\u03c4\u03bf)."
+        ],
+        "John Gill": [
+            "he kneeled down: upon the floor, which was a prayer gesture, used by Christ, and others",
+            "the disuse of kneeling in prayer... had not yet obtained, which was in memory of Christ's resurrection from the dead",
+            "the apostle, and the elders, joined together in prayer"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Nothing can be more touching than these concluding verses, showing the rare ministerial fidelity and affection of the apostle. Would that such scenes were more frequent in the Church! Paul kneeled down, a fitting posture for prayer, following the example of Jesus. Kneeling in prayer indicates reverence and humility, and it is the usual attitude of devotion. By kneeling, the children of God make a profession of their godliness and provoke one another to reverence. Paul sealed and concluded his sermon with prayer, recognizing that the blessing of God is essential for the profit of their doctrine.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8769273640206015,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                32.26,
+                33.25,
+                34.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These concluding verses leave an indelible impression of rare ministerial fidelity and affection, reminding us of the need for such scenes in the Church today. Paul's act of kneeling down in prayer reflects reverence and humility, following the example of Jesus. Kneeling is a fitting posture for devotion and a way for believers to make a profession of their godliness and encourage one another in reverence. By sealing his sermon with prayer, Paul emphasizes the importance of relying on God's blessing for the effectiveness of their teaching.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8890085500821887,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                29.65,
+                34.3,
+                36.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These concluding verses leave an indelible impression of rare ministerial fidelity and affection, reflecting a desire for more frequent scenes of such devotion in the Church. Paul's act of kneeling down in prayer showcases reverence and humility, aligning with the customary attitude of devotion in Scripture. Kneeling serves as a profession of godliness and encourages reverence among believers. Paul's prayer seals and concludes his sermon, emphasizing the need for God's blessing to profit from their teaching and the significance of kneeling as a prayer gesture.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.940622313346179,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                27.85,
+                35.98,
+                36.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These concluding verses make a touching impression of the apostle's ministerial fidelity and affection. It is a scene that we wish to see more often in the Church. Paul's act of kneeling down in prayer is a fitting posture, demonstrating reverence and humility. Kneeling is a customary attitude of devotion, while also serving as a profession of godliness and encouraging others in reverence. Paul's prayer seals and concludes his sermon, acknowledging that the profit of their teaching rests upon the blessing of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.8828313492483022,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                30.88,
+                35.51,
+                33.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These final verses in Acts create a profound impact, displaying the rare fidelity and affection of the apostle. We long for more scenes like this in the Church today. When Paul kneels in prayer, he demonstrates reverence and humility, following the example of Jesus. Kneeling is a customary posture for devotion, showing a profession of godliness and provoking others in reverence. Paul concludes his sermon with prayer, emphasizing the crucial role of God's blessing for the effectiveness of their teaching.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.7304164283305759,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.88,
+            "commentatorTierSimilarities": [
+                32.07,
+                34.03,
+                33.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

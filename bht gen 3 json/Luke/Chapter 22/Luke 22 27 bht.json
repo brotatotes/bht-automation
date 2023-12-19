@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:23:08",
+    "verseRef": "Luke 22:27",
+    "bestBHT": {
+        "bht": "Jesus confronts his disciples' desire for prominence and positions of power, reminding them that greatness in the kingdom of God does not lie in worldly eminence. He points to his own humble example of washing the disciples' feet, serving as a powerful lesson in humility. By demonstrating that even as their leader, he is among them as one who serves, Jesus puts an end to their jealous contention for the chief place. Through his conduct, he shows that true greatness is found in selfless acts of service.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.7549686623785612,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+        "commentatorTierSimilarities": [
+            32.6,
+            49.95,
+            17.46
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "27.] Compare John xii. 13\u201317."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "there was\u2014or 'had been,' referring probably to some symptoms of the former strife",
+            "which had reappeared, perhaps on seeing the whole paschal arrangements committed to two of the Twelve.",
+            "The greatness of Christian dignity is not in worldly eminence"
+        ],
+        "Philip Schaff": [
+            "But I am in the midst of you as he that serveth. This clause gains in force by supposing that our Lord at this point washed His disciples\u2019 feet. He, the \u2018chief,\u2019 was serving."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus dares to cite his own conduct, though their leader, to prove his point and to put a stop to their jealous contention for the chief place...\" ",
+            "A wrangling that kept up till Jesus had to arise and give them the object lesson of humility by washing their feet...\" ",
+            "Jesus dares to cite his own conduct, though their leader, to prove his point and to put a stop to their jealous contention for the chief place at this very feast..."
+        ],
+        "John Gill": [
+            "For whether is greater... he that sitteth at meat; or he that serveth?... but I am among you as he that serveth."
+        ],
+        "John Wesley": [
+            "This he proves by his own example.",
+            "I am in the midst of you \u2014 Just now: see with your eyes.",
+            "I take no state upon me, but sit in the midst, on a level with the lowest of you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 22:27, Jesus calls his disciples to humility and service, urging them to remember that greatness in the kingdom of God is not found in positions of power or worldly eminence. Jesus sets the example himself by washing their feet, demonstrating that even as their leader, he has come to serve rather than to be served. He challenges their contention for the chief place, reminding them that he is among them as one who serves. By citing his own conduct, Jesus not only proves his point but also puts a stop to their jealousy and brings about a lesson on humility.",
+            "wordCount": 101,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.726065741935447,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.73,
+            "commentatorTierSimilarities": [
+                30.2,
+                49.97,
+                19.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus teaches his disciples about humility and the true meaning of greatness. He calls them to serve rather than seek positions of power or worldly prominence. To emphasize his point, Jesus cites his own example by washing their feet, displaying humility and servant-heartedness. By doing so, Jesus puts an end to their jealous contention for the chief place and provides them with a powerful lesson in humility. He reminds them that he is among them as one who serves, setting the standard for greatness in the kingdom of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.6405150337067014,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.89,
+            "commentatorTierSimilarities": [
+                35.06,
+                44.44,
+                20.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus challenges his disciples to embrace humility and reject the pursuit of worldly eminence. Instead of seeking positions of power or prestige, Jesus urges them to serve others. He exemplifies this by washing their feet, demonstrating that even as their leader, he is among them as one who serves. Through his own behavior, Jesus puts an end to their contention for the chief place and teaches them an important lesson on humility. He shows them that greatness in the kingdom of God lies in selflessly serving others.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.625283761542005,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.38,
+            "commentatorTierSimilarities": [
+                32.14,
+                50.34,
+                17.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus reminds his disciples in Luke 22:27 that greatness in the kingdom of God is not achieved through worldly eminence or seeking power. He challenges their contention for the chief place and calls on them to embrace humility and service. By washing their feet, Jesus sets the example of serving others, even as their leader. Through his conduct, Jesus puts an end to their jealousy and demonstrates the true nature of greatness, which lies in selfless acts of service.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6039638954836497,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.67,
+            "commentatorTierSimilarities": [
+                33.62,
+                49.28,
+                17.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus confronts his disciples' desire for prominence and positions of power, reminding them that greatness in the kingdom of God does not lie in worldly eminence. He points to his own humble example of washing the disciples' feet, serving as a powerful lesson in humility. By demonstrating that even as their leader, he is among them as one who serves, Jesus puts an end to their jealous contention for the chief place. Through his conduct, he shows that true greatness is found in selfless acts of service.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.7549686623785612,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+            "commentatorTierSimilarities": [
+                32.6,
+                49.95,
+                17.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

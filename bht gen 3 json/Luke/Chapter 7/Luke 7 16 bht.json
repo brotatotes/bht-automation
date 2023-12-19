@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:16:19",
+    "verseRef": "Luke 7:16",
+    "bestBHT": {
+        "bht": "Witnessing the direct exhibition of divine power, the people were filled with a reverential fear. Their recognition of this miracle as surpassing even the resurrections performed by Elijah and Elisha indicated their expectation of the coming Prophet. Glorifying God, they acknowledged His power and visitation among His people. Recognizing that God had looked upon them with love and sent the Messiah, their hearts were filled with hope for deliverance from their plight.",
+        "wordCount": 72,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 1.9338129194878606,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+        "commentatorTierSimilarities": [
+            22.91,
+            31.87,
+            45.22
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "fear, the natural result of witnessing a direct exhibition of divine power",
+            "a great prophet... the greatest of prophets who had before raised the dead\u2014Elijah and Elisha",
+            "the Prophet who was to come was doubtless in their minds"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. visited his people\u2014more",
+            "\tthan bringing back the days of Elijah and Elisha (1 Kings 17:17-24;",
+            "\t2 Kings 4:32-37; and see 2 Kings 4:32-12.4.37- :). ",
+            "\t",
+            "Kings 4:32-12.4.37- :. THE BAPTIST'S",
+            "\tMESSAGE THE REPLY,",
+            "\tAND CONSEQUENT",
+            "\tDISCOURSE. ",
+            "\t",
+            "(See on 2 Kings 4:32-12.4.37- :.)"
+        ],
+        "Albert Barnes": [
+            "There was no doubt that he was dead. There could be no delusion, and no agreement to impose on the people.",
+            "The evidence that he came to life was decisive. He sat up, he spoke, and 'all' were impressed with the full assurance that God had raised him to life.",
+            "He also has power to raise sinners, dead in trespasses and sins, to life. He can speak the word, and, though in their death of sin they are borne along toward ruin, he can open their eyes, and raise them up, and restore them revived to real life or to their friends."
+        ],
+        "Marvin Vincent": [
+            "There came a fear on all [\u03b5\u03bb\u03b1\u03b2\u03b5\u03bd \u03b4\u03b5 \u03c6\u03bf\u03b2\u03bf\u03c2 \u03b1\u03c0\u03b1\u03bd\u03c4\u03b1\u03c2] . Lit., as Rev., fear took hold on all."
+        ],
+        "John Calvin": [
+            "Fear, therefore, is here taken in a good sense, because they gave the honor which was due to the power of God which they had beheld, and rendered to God not only homage, but thanksgiving.",
+            "Not only were the affairs of Judea in a depressed state, but they had sunk under a wretched and frightful slavery, as if God were not looking at them. The only remaining hope was, that God had promised to be their Redeemer, after they had endured very heavy calamities.",
+            "Though they acknowledge and celebrate the unwonted grace of God in this respect, that a great Prophet hath risen up among us, yet this eulogium comes very far short of the dignity and glory of the promised Messiah. Hence it appears that the faith of that people was, at this time, exceedingly confused, and involved in many unfounded imaginations."
+        ],
+        "Philip Schaff": [
+            "Fear' was the natural result, but the word is used in the Old Testament sense. Not terror, but not yet the loving faith of the New Testament.",
+            "Only the greatest prophets (Elijah and Elisha) had raised the dead, and the other saying indicates that they thought of the great prophet who was to come.",
+            "Notice how the effect of this miracle was an exaltation of Jesus as a Person in the minds of those who witnessed it."
+        ],
+        "Archibald T. Robertson": [
+            "Fear seized all (\u03b5\u03bb\u03b1\u03b2\u03b5\u03bd \u03b4\u03b5 \u03c6\u03bf\u03b2\u03bf\u03c2 \u03c0\u03b1\u03bd\u03c4\u03b1\u03c2). Aorist active indicative. At once.",
+            "They glorified God (\u03b5\u03b4\u03bf\u03be\u03b1\u03b6\u03bf\u03bd \u03c4\u03bf\u03bd \u03b8\u03b5\u03bf\u03bd). Imperfect active, inchoative, began and increased. "
+        ],
+        "John Gill": [
+            "They praised him, and gave thanks to him, ascribing this amazing action to divine power, and gave God the glory of it; and blessed him for the Messiah, who was sent unto them.\" ",
+            "They concluded that God had looked upon them with a look of love, and had a gracious regard to them, and had sent them the Messiah, who, they hoped, would deliver them from the Roman yoke.",
+            "God hath looked upon his people, and hath taken care of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Witnessing the direct exhibition of divine power, the people were filled with fear, not terror, but a reverential fear and awe. They recognized the magnitude of the miracle before them, surpassing even the resurrecting acts of the prophets Elijah and Elisha. Their response, glorifying God, showed that they understood this miracle as evidence of His power and His visitation among His people. This powerful display further confirmed their belief in the coming of the promised Prophet, though their understanding of the Messiah may have remained somewhat confused. Nevertheless, their hearts were filled with hope as they acknowledged that God had graciously looked upon them and sent the Messiah to save them.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.9872705150628507,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                21.64,
+                33.65,
+                44.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Witnessing a direct exhibition of divine power, the people were filled with a reverential fear. They recognized this miracle as even greater than the resurrections performed by Elijah and Elisha, indicating their expectation of the coming Prophet. Their response, glorifying God, reflected their understanding of His power and visitation. Although their understanding of the Messiah may have been confused, their hearts were filled with hope as they acknowledged that God had looked upon them with love and sent the Messiah to deliver them.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9142674496517398,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                22.24,
+                32.57,
+                45.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Witnessing the direct exhibition of divine power, the people were filled with a reverential fear. Their recognition of this miracle as surpassing even the resurrections performed by Elijah and Elisha indicated their expectation of the coming Prophet. Glorifying God, they acknowledged His power and visitation among His people. While their understanding of the Messiah may have been confused, their hearts were filled with hope, recognizing that God had looked upon them with love and sent the Messiah to deliver them from their plight.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9214472911723326,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+            "commentatorTierSimilarities": [
+                21.99,
+                32.39,
+                45.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Witnessing the direct exhibition of divine power, the people were filled with a reverential fear. Their recognition of this miracle as surpassing even the resurrections performed by Elijah and Elisha indicated their expectation of the coming Prophet. Glorifying God, they acknowledged His power and visitation among His people. Recognizing that God had looked upon them with love and sent the Messiah, their hearts were filled with hope for deliverance from their plight.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9338129194878606,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+            "commentatorTierSimilarities": [
+                22.91,
+                31.87,
+                45.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Witnessing a direct exhibition of divine power, the people were filled with fear, not terror, but a reverential fear and awe. They recognized the magnitude of the miracle before them, surpassing even the resurrecting acts of the prophets Elijah and Elisha. Their response, glorifying God, showed that they understood this miracle as evidence of His power and His visitation among His people. This powerful display further confirmed their belief in the coming of the promised Prophet, though their understanding of the Messiah may have remained somewhat confused. Nevertheless, their hearts were filled with hope as they acknowledged that God had graciously looked upon them and sent the Messiah to save them.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.9872305163042667,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                21.65,
+                33.6,
+                44.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:13:58",
+    "verseRef": "Luke 2:21",
+    "bestBHT": {
+        "bht": "In the fulfillment of His redemption work, Jesus willingly subjected Himself to legal rites and purifications, becoming like His brethren in all weakness and bodily infirmity. Through His obedience and faith, Jesus, who was not subject to sin, acknowledged Himself as a slave to the law in order to procure our freedom. By undergoing circumcision, Jesus demonstrated that He assumed true and real flesh, being a partaker of the same flesh and blood with us, and put an honor on the solemn dedication of children to God.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.946468821895552,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+        "commentatorTierSimilarities": [
+            39.93,
+            25.87,
+            34.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord was made like unto His brethren in all weakness and bodily infirmity, from which legal uncleannesses arose.",
+            "The body which He took on Him, though not a body of sin, was mortal, subject to the consequence of sin.",
+            "In the fulfillment therefore of His great work of redemption, He became subject to legal rites and purifications."
+        ],
+        "Albert Barnes": [
+            "Eight days ... - This was the regular time for performing the rite of circumcision, Genesis 17:12.",
+            "Called Jesus - See the notes at Matthew 1:21."
+        ],
+        "John Calvin": [
+            "By undergoing circumcision, Christ acknowledged himself to be the slave of the law, that he might procure our freedom.\" ",
+            "Above all, the order of preaching the word is held up by Luke for our commendation.\" ",
+            "The agreement between our faith and the word of God lies in this, that he speaks first, and we follow, so that our faith answers to his promises."
+        ],
+        "Philip Schaff": [
+            "This naming was an act of obedience and of faith on the part of both Mary and Joseph.",
+            "Although Joseph is less prominent in the account before us, he must have been convinced.",
+            "He was made under the law, that He might redeem us from the law."
+        ],
+        "Archibald T. Robertson": [
+            "His name was called Jesus (\u03ba\u03b1 \u03b5\u03ba\u03bb\u03b7\u03b8\u03b7 \u03c4\u03bf \u03bf\u03bd\u03bf\u03bc\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c5 \u0399\u03b7\u03c3\u03bf\u03c5\u03c2). The \u03ba\u03b1 is left untranslated or has the sense of 'then' in the apodosis.",
+            "The naming was a part of the ceremony of circumcision as is shown also in the case of John the Baptist (Luke 1:59-66)."
+        ],
+        "John Gill": [
+            "Though he needed it not himself, it was the duty of his parents to do it.",
+            "It was necessary that he might appear in the likeness of sinful flesh, who was to bear, and atone for the sins of his people.",
+            "It might be manifest that he assumed true and real flesh, and was a partaker of the same flesh and blood with us."
+        ],
+        "John Wesley": [
+            "That he might visibly be made under the law by a sacred rite, which obliged him to keep the whole law.",
+            "That he might be owned to be the seed of Abraham.",
+            "And might put an honour on the solemn dedication of children to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the fulfillment of His redemption work, Jesus willingly subjected Himself to legal rites and purifications, becoming like His brethren in all weakness and bodily infirmity. Through His obedience and faith, Jesus, who was not subject to sin, acknowledged Himself as a slave to the law in order to procure our freedom. By undergoing circumcision, Jesus demonstrated that He assumed true and real flesh, being a partaker of the same flesh and blood as us. This act also showcased His identification as the seed of Abraham and honored the sacred dedication of children to God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.8835092401077622,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                38.32,
+                26.46,
+                35.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the fulfillment of His redemption work, Jesus willingly subjected Himself to legal rites and purifications, becoming like His brethren in all weakness and bodily infirmity. Through His obedience and faith, Jesus, who was not subject to sin, acknowledged Himself as a slave to the law in order to procure our freedom. By undergoing circumcision, Jesus demonstrated that He assumed true and real flesh, being a partaker of the same flesh and blood with us, and put an honor on the solemn dedication of children to God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.946468821895552,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+            "commentatorTierSimilarities": [
+                39.93,
+                25.87,
+                34.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in His great work of redemption, willingly subjected Himself to legal rites and bodily infirmity, becoming like His brethren. His obedience and faith were demonstrated through the act of circumcision, where He acknowledged Himself as a slave to the law. By undergoing this sacred rite, Jesus showed that He assumed true flesh and blood, aligning Himself with us and the same dedication of children to God. This emphasized His identity as the seed of Abraham and His mission to procure our freedom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8431302645973044,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.63,
+            "commentatorTierSimilarities": [
+                36.13,
+                26.42,
+                37.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus willingly underwent legal rites and bodily infirmity to fulfill His redemption work. Through circumcision, He acknowledged Himself as a slave to the law, though He was without sin, in order to procure our freedom. This act demonstrated His participation in our flesh and blood and honored the dedication of children to God. By becoming like His brethren in weakness, Jesus emphasized His identity as the seed of Abraham and showcased His obedience and faith in the fulfillment of His mission.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8033007300354842,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.3,
+            "commentatorTierSimilarities": [
+                37.37,
+                25.82,
+                36.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By willingly subjecting Himself to legal rites and bodily infirmity, Jesus fulfilled His redemptive work. Through circumcision, He acknowledged Himself as a slave to the law, despite being without sin, in order to bring about our freedom. This act showcased His identification with humanity, as He took on true flesh and blood. Additionally, it honored the sacred dedication of children to God, highlighting His position as the seed of Abraham. Jesus' obedience and faith were evident in His actions, emphasizing the completion of His mission.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.7246638495563986,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                35.7,
+                26.39,
+                37.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

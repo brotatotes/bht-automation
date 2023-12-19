@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:12:13",
+    "verseRef": "1 Corinthians 11:33",
+    "bestBHT": {
+        "bht": "In coming together to eat, Paul instructs the brethren to wait for one another, contrasting with the previously condemned hurry. This waiting signifies sharing and participating in the common feast of fellowship, emphasizing the New Testament sense of expectancy and common courtesy. By waiting in turn and avoiding the despising of poorer guests, the brethren exemplify equality, unity, and Christian respect in the Lord's Supper. This practice of waiting for one another fosters brotherly love, encourages the church to gather together, and promotes a sense of togetherness in the ordinance.",
+        "wordCount": 91,
+        "quoteTokenProportion": 22.03,
+        "qualityScore": 1.9143021345214986,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+        "commentatorTierSimilarities": [
+            34.08,
+            23.52,
+            42.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So then, my brethren, when ye are coming together to eat, wait for one another.",
+            "Wait for one another.",
+            "Contrast to the unseemly hurry blamed in ver. 21."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Tarry one for another.\" ",
+            "Give a share to one another.",
+            "Partake together of the common feast of fellowship."
+        ],
+        "Albert Barnes": [
+            "Do not be guilty of disorder, intemperance, and gluttony.",
+            "The table was common for the rich and the poor.",
+            "The rich should claim no priority or precedence over the poor."
+        ],
+        "Marvin Vincent": [
+            "Tarry [\u03b5\u03ba\u03b4\u03b5\u03c7\u03b5\u03c3\u03b8\u03b5] . In the usual New - Testament sense...\" (Commentary)",
+            "Though in some cases the idea of expectancy is emphasized...\" (Commentary)",
+            "Some render receive ye one another, in contrast with despising the poorer guests; but this is not according to New - Testament usage.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "Equality must be observed in the Lord's Supper, that there may be a real participation, as there ought to be.\" ",
+            "They may not celebrate every one his own supper.",
+            "This sacrament ought not to be mixed up with common feasts."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 11:33. Wherefore, when ye come together to eat, wait for one another instead of your unseemly practice of \u201ceach one eating before other his own supper,\u201d",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Wait one for another (\u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03c2 \u03b5\u03ba\u03b4\u03b5\u03c7\u03b5\u03c3\u03b8\u03b5). As in John 5:3; Acts 17:16. That is common courtesy. Wait in turn. Vulgate has invicem expectate. "
+        ],
+        "John Gill": [
+            "He hoped well of them in general, and softens the severe things he had said, by calling them 'brethren'; and hereby prepares them to attend to, and receive the more kindly, what he had further to say.",
+            "Do not begin to celebrate the ordinance until the church is met together in general, or at least till as many are got together as may be expected will come.",
+            "The apostle's view is to promote unity, Christian respect, and brotherly love in the ordinance; that they would sit down and join together, according to the rule of Christ, without respect to persons, or going into parties, factious, and divisions."
+        ],
+        "John Wesley": [
+            "The rest \u2014 The other circumstances relating to the Lord's supper."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 11:33, Paul exhorts the brethren to wait for one another when coming together to eat. This contrasts with the unseemly hurry and lack of courtesy that was previously mentioned. The idea here is to tarry for one another, to give a share and partake together in the common feast of fellowship. It is about expecting and waiting in turn, demonstrating common courtesy and equality, rather than each person celebrating their own supper or mixing the sacrament with common feasts. Paul's aim is to promote unity, Christian respect, and brotherly love in the ordinance, encouraging the church to come together without respect to persons or divisions.",
+            "wordCount": 107,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.8372247801317116,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                35.27,
+                23.76,
+                40.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul urges the brethren to wait for one another when gathering to eat, showing contrast to the previous unseemly hurry. The concept is to tarry, share, and partake together in fellowship. It is about expecting and waiting in turn, promoting unity and equality in the ordinance. Paul aims to foster brotherly love and Christian respect, encouraging the church to come together without divisions. This ensures a real participation in the Lord's Supper, separated from common feasts and emphasizing common courtesy.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.7090785910668735,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.17,
+            "commentatorTierSimilarities": [
+                32.91,
+                21.63,
+                45.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the brethren come together to eat, Paul admonishes them to wait for one another, highlighting the contrast to the previous unseemly hurry. The command to tarry, share, and partake together emphasizes the common feast of fellowship and strengthens unity. This demonstrates equality, respect, and brotherly love in the ordinance, preventing divisions and asserting the importance of the Lord's Supper separate from common feasts. By waiting for one another, the brethren foster a sense of community and participation grounded in courtesy and mutual respect.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.8241902076755756,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+            "commentatorTierSimilarities": [
+                33.6,
+                21.89,
+                44.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In coming together to eat, Paul instructs the brethren to wait for one another, contrasting with the previously condemned hurry. This waiting signifies sharing and participating in the common feast of fellowship, emphasizing the New Testament sense of expectancy and common courtesy. By waiting in turn and avoiding the despising of poorer guests, the brethren exemplify equality, unity, and Christian respect in the Lord's Supper. This practice of waiting for one another fosters brotherly love, encourages the church to gather together, and promotes a sense of togetherness in the ordinance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 22.03,
+            "qualityScore": 1.9143021345214986,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                34.08,
+                23.52,
+                42.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the brethren come together to eat, Paul urges them to wait for one another, contrasting with the previously criticized hurry. This waiting promotes a sense of expectancy and echoes the New Testament emphasis on courtesy. Waiting in turn allows for equal participation and fosters unity and brotherly love in the common feast of fellowship. By avoiding divisions and embracing Christian respect, the church comes together without prioritizing certain individuals, ensuring a genuine and unified experience in the Lord's Supper.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.768925075759114,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                35.95,
+                22.87,
+                41.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:06:25",
+    "verseRef": "1 Corinthians 6:11",
+    "bestBHT": {
+        "bht": "The Corinthians, who once lived in a state of sin, have been transformed into a new state. Through baptism, they have undergone a spiritual washing, experiencing the sanctification and justification that come through the name of the Lord Jesus and the working of the Spirit. Their admission to the benefits of Christ's salvation, along with their cleansing, sanctification, and justification, showcase the grace and power of God. This transformation is a result of their voluntary act in baptism, which expressed God's previous cleansing and justification.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.012654641559159,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+        "commentatorTierSimilarities": [
+            31.53,
+            33.15,
+            35.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These things were the former state of some among you: but ye are now in a far different state.",
+            "but ye washed them off...but ye were sanctified...but ye were justified...in the name of the Lord Jesus, and in the (working of the) Spirit of our God.",
+            "The spiritual washing in baptism, 'the sanctification of the children of God, the justification of the believer, are all wrought in the Name of the Lord Jesus, and are each and all the work of the Spirit 'of our God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye have had yourselves washed.\" ",
+            "This washing implies the admission to the benefits of Christ's salvation generally.",
+            "Both clauses belong to the three\u2014'washed, sanctified, justified.'"
+        ],
+        "Albert Barnes": [
+            "The exceeding grace of God that could recover even such persons from sins so debasing and degrading.",
+            "We are not to despair of reclaiming the most abandoned and wretched people.",
+            "He is renewed by the Holy Spirit, and washed by baptism. He is justified, pardoned, and accepted as righteous, through the merits of the Lord Jesus alone."
+        ],
+        "Marvin Vincent": [
+            "Washed - sanctified - justified. According to fact the order would be justified, washed (baptism), sanctified...\" (Quote 1)",
+            "in this epistle this order is not set forth with any studied precision, since its main purpose is corrective.\" (Quote 2)",
+            "Emphasizing the actual moral renewal, which is the true idea of justification... the Spirit is not concerned in mere forensic justification.\" (Quote 3)"
+        ],
+        "John Calvin": [
+            "For the greater the misery is acknowledged to be, from which we have escaped through the Lord\u2019s kindness, so much the more does the magnitude of his grace shine forth.",
+            "He makes use of three terms to express one and the same thing, that he may the more effectually deter them from rolling back into the condition from which they had escaped.",
+            "Christ, then, is the source of all blessings to us; from him we obtain all things; but Christ himself, with all his blessings, is communicated to us by the Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "A sharp homethrust. Literally, 'And these things (\u03c4\u03b1\u03c5\u03c4\u03b1, neuter plural) were ye (some of you).'",
+            "Thank God the blood of Jesus does cleanse from such sins as these.",
+            "This was their own voluntary act in baptism which was the outward expression of the previous act of God in cleansing (\u03b7\u03b3\u03b9\u03b1\u03c3\u03b8\u03b7\u03c4\u03b5, ye were sanctified or cleansed before the baptism) and justified (\u03b5\u03b4\u03b9\u03ba\u03b1\u03b9\u03c9\u03b8\u03b7\u03c4\u03b5, ye were put right with God before the act of baptism)."
+        ],
+        "John Gill": [
+            "But ye are washed; which is not to be understood of external washing, of corporeal ablution, or of their being baptized in water...but of their being washed from their sins by the blood of Christ",
+            "But ye are sanctified; which designs not their sanctification by God the Father...nor the sanctification of them, or the expiation of their sins by the blood of Christ...but the sanctification of the Spirit",
+            "But ye are justified; not by the works of the law, but by the righteousness of Christ...pronounced them justified persons in their own consciences; whence followed joy, peace, and comfort."
+        ],
+        "John Wesley": [
+            "ye are washed \u2014 From those gross abominations; nay, and ye are inwardly sanctified; not before, but in consequence of, your being justified in the name\" ",
+            "by the merits, of the Lord Jesus, through which your sins are forgiven.",
+            "And by the Spirit of our God \u2014 By whom ye are thus washed and sanctified."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though some among the Corinthians were formerly in a deplorable state, they have been transformed by the grace of God. They have undergone a spiritual washing in baptism, the sanctification of God's children, and the justification that comes through the name of the Lord Jesus and the working of the Spirit. This washing signifies their admission to the benefits of Christ's salvation, and it is coupled with sanctification and justification. The order of these three varies, emphasizing the actual moral renewal that accompanies justification. This showcases the work of the Spirit, who is not merely concerned with forensic justification. It is crucial to acknowledge the magnitude of God's grace in rescuing us from such sins and to understand that all blessings flow from Christ through the Spirit. The Corinthians have been washed from their sins by the blood of Christ, sanctified by the Spirit, and justified by the righteousness of Christ, resulting in joy, peace, and comfort.",
+            "wordCount": 160,
+            "quoteTokenProportion": 36.47,
+            "qualityScore": 1.8684663747446835,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.47,
+            "commentatorTierSimilarities": [
+                30.21,
+                32.61,
+                37.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians were once in a different state, marked by sins and impurity. But now, they have been cleansed through baptism, sanctified, and justified in the name of the Lord Jesus and the working of the Spirit. This spiritual washing represents their entrance into the benefits of Christ's salvation. The order of washing, sanctification, and justification is not set precisely, as this epistle's main purpose is corrective. It is essential to recognize the work of the Spirit in genuine moral renewal, as it is not limited to forensic justification. Christ is the source of all blessings, and his grace shines forth in rescuing us from great misery. Through Christ's righteousness, the Corinthians are justified, bringing them joy, peace, and comfort.",
+            "wordCount": 123,
+            "quoteTokenProportion": 35.8,
+            "qualityScore": 1.9212350130671263,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                29.86,
+                33.63,
+                36.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians, who once lived in a state of sin, have been transformed into a new state. Through baptism, they have undergone a spiritual washing, experiencing the sanctification and justification that come through the name of the Lord Jesus and the working of the Spirit. Their admission to the benefits of Christ's salvation, along with their cleansing, sanctification, and justification, showcase the grace and power of God. This transformation is a result of their voluntary act in baptism, which expressed God's previous cleansing and justification.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.012654641559159,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                31.53,
+                33.15,
+                35.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians have been washed, sanctified, and justified through the grace of God. Their former state of sin has been completely changed. Through baptism, they have been cleansed and brought into the benefits of Christ's salvation. The order of washing, sanctification, and justification varies, yet all are true for them. This transformation is not just external but also involves moral renewal, highlighting the work of the Spirit. Their sins have been washed away, they have been set apart by the Spirit, and they have been declared righteous through Christ's righteousness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9306461056231607,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                31.5,
+                33.76,
+                34.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians were in a different state before, marked by sin, but now they have been washed, sanctified, and justified. Their transformation came through baptism\u2014the outward expression of God's prior cleansing and justification. This order of washing, sanctification, and justification may not be precise, as the main purpose of this epistle is corrective. The work of the Spirit in genuine moral renewal is emphasized, going beyond mere forensic justification. Through Christ's righteousness, the Corinthians have been justified, bringing them joy, peace, and comfort.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.9176087320359123,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.1,
+            "commentatorTierSimilarities": [
+                32.24,
+                32.34,
+                35.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

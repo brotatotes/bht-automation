@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:28:22",
+    "verseRef": "1 Timothy 3:7",
+    "bestBHT": {
+        "bht": "A minister must have a good reputation from both within and outside the church. Without a favorable testimony from the world, there is a risk of falling into reproach and becoming ensnared by the devil. The former sins and shame surrounding a bishop must not continue to surround them, as it may lead to recklessness or despair. Paul's concern for the witness of outsiders is evident, as he cautioned against the snares set by the devil. It is crucial for ministers to be viewed as upright and honest individuals, preventing any opportunity for accusations or reproach.",
+        "wordCount": 97,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.96300948798361,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+        "commentatorTierSimilarities": [
+            29.92,
+            36.82,
+            33.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Moreover (bringing in the contrast of addition; 'more than this,'....) he must have a good testimony also (also, the addition itself of a new particular) from those without (the world, outside the church)\".",
+            "lest he fall into (a question arises which must he answered before we can render the following words. Does reproach (1) stand alone, 'into reproach, and the snare of the devil,' or is it (2) to be joined with and the snare, as belonging to 'unto the reproach and the snare of the devil?",
+            "For what hope remains, when shame in sinners is gone?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not even the former life of a bishop should be open to reproach.",
+            "The reproach continually surrounding him for former sins might lead him into the snare of becoming as bad as his reputation.",
+            "Despair of recovering reputation might, in a weak moment, lead some into recklessness of living."
+        ],
+        "Albert Barnes": [
+            "He must have a fair reputation with them for integrity of character. His life must be in their view upright. He must not be addicted to anything which they regard as inconsistent with good morals.",
+            "But no minister of the gospel can possibly do such people good, unless they regard him as an upright and honest man.",
+            "It is impossible, therefore, for a minister to over-estimate the importance of having a fair character in the view of the world."
+        ],
+        "Marvin Vincent": [
+            "A good report. Not only does kalov occur in the Pastorals nearly twice as many times as in Paul, but the usage is different. Out of 16 instances in Paul, there is but one in which kalov is not used substantively, while in the Pastorals it is, almost without exception, used adjectively.",
+            "Paul's phrase is oJ exw: see 1 Corinthians 5:12, 1 Corinthians 5:13; 2 Corinthians 4:16; 1 Thessalonians 4:12.",
+            "Snare. In Paul, Romans 11:9, see note. Both reproach and snare govern diabolou."
+        ],
+        "John Calvin": [
+            "A religious man should have, as witnesses of his integrity, infidels themselves, who are furiously mad to tell lies against us.",
+            "So far as relates to external behavior, even unbelievers themselves shall be constrained to acknowledge him to be a good man.",
+            "For what hope is left for him who sins without any shame?"
+        ],
+        "Philip Schaff": [
+            "A good report from them that are without.",
+            "Where the man who entered on a responsible office had no reputation established by direct testimony to fall back upon, he had but slender defence against calumnies and reproaches.",
+            "If they came on him, he was liable to fall into the snare of passionate resentment, or reckless defiance, or yet more reckless despair."
+        ],
+        "Archibald T. Robertson": [
+            "Paul's care for the witness of outsiders is seen in 1 Thessalonians 4:12; 1 Corinthians 10:32; Colossians 4:5.",
+            "Reproach... Late word from \u03bf\u03bd\u03b5\u03b9\u03b4\u03b9\u03b6\u03c9. See Romans 15:3.",
+            "The devil sets special snares for preachers (conceit verse 1 Timothy 3:6, money 1 Timothy 6:9, women, ambition)."
+        ],
+        "John Gill": [
+            "lest he fall into reproach; into the reproach of men.",
+            "lest Satan should take encouragement from hence to tempt him to other and greater sins.",
+            "Their rule is this: they do not appoint a messenger or minister of a congregation, but he who is the greatest in the congregation for wisdom and works."
+        ],
+        "John Wesley": [
+            "He ought also to have a good report.\" ",
+            "That are not Christians.",
+            "Lest he fall into reproach."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A minister of the gospel must not only have a good reputation within the church, but also a good testimony from those outside. This is important because the world is watching, and if a minister's character is in question, it could lead to reproach and become a snare for the individual. The former sins and shame of a bishop must not continue to surround him, as it may lead him into recklessness or despair. Paul's concern for the witness of outsiders is evident, as seen in his other letters. The devil sets special snares for preachers, such as conceit, money, women, and ambition. Therefore, it is vital for those in ministry to be viewed as upright and honest individuals, providing no opportunity for calumnies or reproaches.",
+            "wordCount": 128,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8346806723663458,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                34.06,
+                35.7,
+                30.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A minister must have a good reputation within and outside the church. For without a good testimony from those outside, there is a risk of falling into reproach and the snare of the devil. The shame of former sins can lead to recklessness and despair, causing a detrimental impact on one's character. Paul emphasized the importance of maintaining a positive witness among outsiders, as he was concerned about the snares set by the devil. It is crucial for ministers to be seen as upright and honest individuals, without giving opportunity for calumnies or reproaches.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.9226741024073188,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.27,
+            "commentatorTierSimilarities": [
+                29.77,
+                39.02,
+                31.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A minister must have a good reputation from both fellow believers and those outside the church. Without a good testimony from the world, there is a risk of falling into reproach and becoming ensnared by the devil. The shame of past sins can lead to recklessness and despair. Paul emphasizes the importance of maintaining a positive witness among outsiders and being aware of the snares set by the devil. It is vital for ministers to be seen as upright and honest individuals, guarding against any opportunity for accusations or reproach.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.908936723278921,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                28.54,
+                36.99,
+                34.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A minister must have a good reputation from both within and outside the church. Without a favorable testimony from the world, there is a risk of falling into reproach and becoming ensnared by the devil. The former sins and shame surrounding a bishop must not continue to surround them, as it may lead to recklessness or despair. Paul's concern for the witness of outsiders is evident, as he cautioned against the snares set by the devil. It is crucial for ministers to be viewed as upright and honest individuals, preventing any opportunity for accusations or reproach.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.96300948798361,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                29.92,
+                36.82,
+                33.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A minister must be held in good esteem by both church members and those outside. Without a commendable reputation, they may fall into reproach and become entrapped by the devil. The lingering shame of past sins can lead to recklessness or despair. Paul emphasizes the importance of maintaining a positive witness among unbelievers, safeguarding against the snares set by the devil. It is essential for ministers to be seen as upright and honest, avoiding any occasion for false accusations or disapproval.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9086745786631227,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+            "commentatorTierSimilarities": [
+                28.43,
+                36.07,
+                35.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

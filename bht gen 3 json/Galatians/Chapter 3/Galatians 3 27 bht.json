@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:17:20",
+    "verseRef": "Galatians 3:27",
+    "bestBHT": {
+        "bht": "In baptism, believers are not merely receiving a ticket of admission into the Christian community. Rather, they are boldly and broadly experiencing the effect of baptism, putting on Christ Himself. Baptism becomes a means of spiritual transference from legal condemnation to a living union with Christ and sonship through Him. It is through Christ alone, by baptizing with His Spirit, that the inward grace corresponds to the outward sign. This act of putting on Christ signifies a profound change and a declaration of faith in Him as Lord and Savior.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 2.5179914082945976,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.06,
+        "commentatorTierSimilarities": [
+            41.5,
+            28.81,
+            29.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As many as were baptized into Christ, did in that very act, put on, clothe yourselves with, Christ.",
+            "Observe here how boldly and broadly St. Paul asserts the effect of Baptism on ALL THE BAPTIZED.",
+            "Ye have not received in baptism a mere ticket of admission into the number of Christians, but [Paul] declares that in baptism, they put on Christ: i.e. ye were snatched away from the law into a new birth, which was effected in your baptism."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By baptism ye have put on Christ; and therefore, He being the Son of God, ye become sons by adoption, by virtue of His Sonship by generation.",
+            "This proves that baptism, where it answers to its ideal, is not a mere empty sign, but a means of spiritual transference from the state of legal condemnation to that of living union with Christ, and of sonship through Him in relation to God.",
+            "Christ alone can, by baptizing with His Spirit, make the inward grace correspond to the outward sign."
+        ],
+        "Albert Barnes": [
+            "As have been baptized into Christ - Or 'unto' (\u03b5\u03b9\u0313\u03c2 eis) - the same preposition which in Galatians 3:24 is rendered unto) Christ. That is, they were baptized with reference to him, or receiving him as the Saviour; see this explained in the note at Romans 6:3.",
+            "Have put on Christ - That is, they have put on his sentiments, opinions, characteristic traits, etc., as a man clothes himself.",
+            "This language was common among the ancient writers; see it explained in the note at Romans 13:14."
+        ],
+        "John Calvin": [
+            "He means that they are so closely united to him, that, in the presence of God, they bear the name and character of Christ, and are viewed in him rather than in themselves.",
+            "In this case, he makes no boast of any false splendor as belonging to the sacraments, but calls our attention to the actual fact represented by the outward ceremony.",
+            "Though wicked men may derive no advantage from the sacraments, they still retain undiminished their nature and force."
+        ],
+        "Philip Schaff": [
+            "In the act and at the time of your baptism ye did clothe yourselves with Christ.",
+            "The baptized is surrounded by Christ and covered with his merits, as the soldier is surrounded by his equipment.",
+            "The believer receives the grace offered, the unbeliever rejects it, but he cannot by such rejection overthrow the faithfulness of God, nor deprive the sacraments of their true objective intent and significance."
+        ],
+        "Archibald T. Robertson": [
+            "Were baptized unto Christ\" in reference to Christ.",
+            "This verb is common in the sense of putting on garments (literally and metaphorically as here).",
+            "But baptism was the public profession and pledge... taking one's stand with Christ, the symbolic picture of the change wrought by faith already."
+        ],
+        "John Gill": [
+            "Not that by baptism they are brought into union with Christ, but into communion with him; for they are not merely baptized in his name, and by his authority, and according to his command, and into his doctrine, and a profession of him; but into a participation of the blessings of grace which are in him, and come through his sufferings and death.",
+            "Baptism, performed by immersion, is a lively emblem; and this is to be baptized into Christ, namely, being baptized believing in him, and calling on his name.",
+            "in baptism they may also be said to put him on as they thereby and therein make a public profession of him, by deeds as well as words, declaring him to be their Lord and King; and afresh exercise faith upon him, as their Saviour and Redeemer, and imitate and follow him in it, as their pattern."
+        ],
+        "John Wesley": [
+            "For as many of you as have testified your faith by being baptized in the name of Christ, have put on Christ.\" ",
+            "Have received him as your righteousness.",
+            "Are therefore sons of God through him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Galatians 3:27, Paul boldly asserts the effect of baptism on all believers, declaring that in baptism, they put on Christ and are snatched away from the law into a new birth. By being baptized into Christ, believers are not receiving a mere ticket of admission into the number of Christians, but are being clothed with Christ Himself. This act of putting on Christ signifies a spiritual transference from the state of legal condemnation to that of living union with Him, resulting in the believers becoming sons by adoption through His Sonship. Thus, baptism is not an empty sign, but a means of experiencing a profound change through faith and entering into communion with Christ.",
+            "wordCount": 114,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.5844919362263417,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.27,
+            "commentatorTierSimilarities": [
+                42.75,
+                28.53,
+                28.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In baptism, believers put on Christ, symbolizing their spiritual transference from legal condemnation to union with Him. This act signifies a deep connection between believers and Christ, where they bear His name and character in the presence of God. It is not merely a symbolic ceremony, but a means of experiencing a genuine change and entering into communion with Christ. Baptism is not an empty sign, but a powerful expression of faith that results in believers becoming sons by adoption through Christ's Sonship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.355319807959787,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.65,
+            "commentatorTierSimilarities": [
+                40.09,
+                29.22,
+                30.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When believers are baptized into Christ, they are not simply receiving a ticket of admission to the Christian community. Rather, they are putting on Christ Himself, being snatched away from the law and experiencing a new birth in Him. This act of putting on Christ signifies a spiritual transference from condemnation to a living union with Him. Baptism, when it aligns with its ideal, becomes a means of entering into a deep relationship with Christ, experiencing sonship through Him, and participating in the blessings of grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.3599554549931714,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.81,
+            "commentatorTierSimilarities": [
+                40.54,
+                29.2,
+                30.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In baptism, believers are not merely receiving a ticket of admission into the Christian community. Rather, they are boldly and broadly experiencing the effect of baptism, putting on Christ Himself. Baptism becomes a means of spiritual transference from legal condemnation to a living union with Christ and sonship through Him. It is through Christ alone, by baptizing with His Spirit, that the inward grace corresponds to the outward sign. This act of putting on Christ signifies a profound change and a declaration of faith in Him as Lord and Savior.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.5179914082945976,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.06,
+            "commentatorTierSimilarities": [
+                41.5,
+                28.81,
+                29.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Baptism is not a mere ticket of admission into the Christian community, but a transformative act where believers put on Christ Himself. Through baptism, they are snatched away from the law and brought into a new birth, signifying a living union with Him. It is a public profession and pledge, symbolizing the change wrought by faith and the believers' identification with Christ. By being baptized into Christ, believers are united with Him, becoming sons by adoption and receiving the blessings of grace.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.4631513200832753,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.24,
+            "commentatorTierSimilarities": [
+                40.66,
+                28.23,
+                31.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

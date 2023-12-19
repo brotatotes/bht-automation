@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:24:55",
+    "verseRef": "Acts 1:26",
+    "bestBHT": {
+        "bht": "The lot was used to determine the divine choice of the twelve apostles. The suffrages of the assembly unanimously agreed on the candidate chosen. Although the Bible doesn't explicitly state it, there is no reason to doubt the number of apostles was truly twelve. This method of casting lots was customary among the Jews as a way to learn the will of God. Matthias, upon whom the lot fell, became one of the apostles, accepted by the Church as chosen by God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.7804243492038232,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+        "commentatorTierSimilarities": [
+            32.47,
+            31.22,
+            36.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The lot being regarded as the divine choice, the suffrages of the assembly were unanimously given (not in form, but by cheerful acquiescence) to the candidate thus chosen.\" ",
+            "That St. Luke does not absolutely say so, and never afterwards speaks of the twelve Apostles, is surely no safe ground en which to doubt this.\" ",
+            "We have the precedent, of all others most applicable, of the twelve tribes, to shew that the number, though ever nominally kept, was really exceeded."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "26. was numbered\u2014\"voted",
+            "\tin\" by general suffrage. ",
+            "\t",
+            "with the eleven",
+            "\tapostles\u2014completing the broken Twelve."
+        ],
+        "Albert Barnes": [
+            "The casting of a lot is determined by laws of nature as regularly as anything else. There is properly no chance in it.",
+            "Almost all cases of doubt can be determined more satisfactorily in some other way than by the lot.",
+            "The habit of appealing to it engenders the love of hazards and of games; leads to heart-burnings, to jealousies, to envy, to strife, and to dishonesty."
+        ],
+        "Marvin Vincent": [
+            "He was numbered [\u03c3\u03c5\u03b3\u03ba\u03b1\u03c4\u03b5\u03c8\u03b7\u03c6\u03b9\u03c3\u03b8\u03b7] . Only here in New Testament. See on counteth, Luke 14:28. "
+        ],
+        "John Calvin": [
+            "But we must rather have regard of this, to approve ourselves unto God, who alone is the most lawful and just judge, by whose sentence and judgment we stand or fall.",
+            "God passeth over him which is the chiefest in the sight of men, that he may throw down all pride which is in man.",
+            "He wipeth away all sinister note of rashness from the casting of lots, because the Church did embrace him as chosen by God on whom the lot fell."
+        ],
+        "Philip Schaff": [
+            "This asking God directly to interfere in the choice of an apostle by guiding the chance of a lot, was not unfrequent in the history of the chosen people.",
+            "The lot we find used for the division of land, in war, for the royal office...",
+            "No church, from the days of the apostles to our own times, has ever attempted, in its election and choice of pastors, to follow the example of that first election in Jerusalem."
+        ],
+        "Archibald T. Robertson": [
+            "To the Jews the lot did not suggest gambling, but 'the O.T. method of learning the will of Jehovah' (Furneaux).\" ",
+            "This double compound \u03c3\u03c5\u03bd\u03ba\u03b1\u03c4\u03b1\u03c8\u03b7\u03c6\u03b9\u03b6\u03c9 occurs here alone in the N.T. and elsewhere only in Plutarch (Them. 21) in the middle voice for condemning with others.",
+            "The ancients used pebbles (\u03c8\u03b7\u03c6\u03bf) in voting, black for condemning, white (Revelation 2:17) in acquitting."
+        ],
+        "John Gill": [
+            "And the lot fell upon Matthias... contrary to the first thoughts and general sense of the body.",
+            "God, who knows the hearts of men... inclined their minds to vote for the latter.",
+            "He took his place among the apostles... and ever after was reckoned one of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The twelve apostles were not only chosen by the suffrages of the assembly but also through the divine choice signified by the casting of lots. This method of discerning God's will through the lot was a familiar practice to the Jews, similar to how the twelve tribes were chosen. When Matthias was numbered among the eleven apostles, it was a result of the votes casted, which showed God's guidance. Through this process, the Church embraced Matthias as chosen by God, even though he may not have been the initial favorite or the one regarded as chief in the sight of men. Matthias took his place among the apostles, forever counted as one of them.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.8346785895635063,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                34.89,
+                24.27,
+                40.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The twelve apostles were chosen through the suffrages of the assembly and by the divine choice indicated through the casting of lots. This method of discerning God's will was a common practice among the Jews, such as when the twelve tribes were chosen. When Matthias was selected, it was a result of the votes cast, showing God's guidance. The Church embraced him as chosen by God, despite not being the initial favorite. Matthias took his place among the apostles, forever counted as one of them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7699982136765071,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.19,
+            "commentatorTierSimilarities": [
+                33.57,
+                25.05,
+                41.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The lot was used to determine the divine choice of the twelve apostles. The suffrages of the assembly unanimously agreed on the candidate chosen. Although the Bible doesn't explicitly state it, there is no reason to doubt the number of apostles was truly twelve. This method of casting lots was customary among the Jews as a way to learn the will of God. Matthias, upon whom the lot fell, became one of the apostles, accepted by the Church as chosen by God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.7804243492038232,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                32.47,
+                31.22,
+                36.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The twelve apostles were chosen by a divine method involving the casting of lots. The assembly unanimously agreed on the candidate, viewing the lot as the means through which God's will was revealed. By following this practice, the Church embraced Matthias as one of the apostles, despite not initially being the favorite or regarded as chief in the sight of men. Matthias took his place among the apostles, recognized and included within their ranks.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6451629999645299,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.04,
+            "commentatorTierSimilarities": [
+                30.34,
+                25.55,
+                44.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the divine practice of casting lots, the twelve apostles were chosen. The unanimous suffrages of the assembly affirmed the candidate picked by the lot. The casting of lots was a method used by the ancient Jews to discover God's will. Although not the initial favorite or regarded as chief in the sight of men, Matthias was embraced by the Church as chosen by God upon whom the lot fell. Matthias took his place among the apostles, counted as one of them.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.7397944571468866,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "commentatorTierSimilarities": [
+                31.88,
+                28.0,
+                40.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

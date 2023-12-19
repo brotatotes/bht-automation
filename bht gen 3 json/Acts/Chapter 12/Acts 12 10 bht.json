@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:30:05",
+    "verseRef": "Acts 12:10",
+    "bestBHT": {
+        "bht": "The first and second watch refers to the guards stationed at the prison, and not the soldiers Peter was chained to. The location of the prison is uncertain, but it is believed to be within the city. The iron gate mentioned was the exit from the prison buildings and likely prevented escape. Yet, miraculously, the gate opened on its own, allowing Peter to flee. This extraordinary event showcases the power of God in delivering and protecting His people.",
+        "wordCount": 78,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.8995788402539358,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.5,
+        "commentatorTierSimilarities": [
+            36.81,
+            40.94,
+            22.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first and second watch or guard cannot mean the two soldiers to whom he was chained.\" ",
+            "The iron gate leading into the city was that outside the prison buildings, forming the exit from the premises.",
+            "The situation of the prison is uncertain, but seems to have been in the city."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We can only conjecture the precise meaning of all this, not knowing the position of the prison.",
+            "He disappointeth the devices of the crafty, so that their heads cannot perform their enterprise."
+        ],
+        "Albert Barnes": [
+            "These were passed silently, probably a deep sleep having been sent on them to facilitate the escape of Peter.",
+            "The iron gate - The outer gate, Secured with iron, as the doors of prisons are now.",
+            "Of his own accord - Itself. It opened spontaneously, without the application of any force or key, thus showing conclusively that Peter was delivered by miraculous interposition."
+        ],
+        "Marvin Vincent": [
+            "Ward [\u03c6\u03c5\u03bb\u03b1\u03ba\u03b7\u03bd] . Better, watch : the soldiers on guard.\" ",
+            "Explanations of the first and second watch differ.",
+            "Some assuming that the first was the single soldier on guard at the door of Peter's cell, and the second, another soldier at the gate leading into the street."
+        ],
+        "John Calvin": [
+            "God was able to have carried Peter away in the turning of an hand... but he overcometh diverse straits one after another, that the glory of the miracle might be the greater.\" ",
+            "He applieth the manner of doing unto our capacity, and unto the increase of faith.",
+            "Now we see, as it were with our eyes, that he was delivered more than ten times."
+        ],
+        "Archibald T. Robertson": [
+            "The first and the second ward... the difficulties of escape are made plain.",
+            "This iron gate may have opened from a court out into the street and effectually barred escape.",
+            "It was a strange experience for Peter."
+        ],
+        "John Gill": [
+            "The watch must either be asleep, or their eyes were holden, or the angel and Peter passed by so swiftly that they were unobserved.",
+            "This was done by a divine power; and because no human creature had any hand in it, it is said to be done of its own accord.",
+            "He being now safe and out of danger, he left him to himself, to betake himself to what house he should think fit."
+        ],
+        "John Wesley": [
+            "The gate opened of its own accord \u2014 Without either Peter or the angel touching it.",
+            "And they went on through one street \u2014 That Peter might know which way to go.",
+            "And the angel departed from him \u2014 Being himself sufficient for what remained to be done."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 12:10, the first and second watch refer to the soldiers on guard at the prison. These guards did not impede Peter's escape, as the iron gate leading to the city opened on its own. This gate was likely the exit from the prison buildings within the city. The precise location of the prison is uncertain, but it appears to have been within the city. The circumstances of Peter's escape point to divine intervention, as the guards were either asleep or their vision was hindered while Peter and the angel swiftly passed by. The miraculous nature of this event highlights God's power and the incredible deliverance experienced by Peter.",
+            "wordCount": 112,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.906264650097715,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                38.59,
+                40.85,
+                20.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The first and second watch were not the soldiers to whom Peter was chained, but rather the guards stationed at the prison. It is uncertain where the prison was located, though it seems to have been in the city. The iron gate mentioned is believed to be the one outside the prison buildings, serving as the exit from the premises. The gate opened miraculously, allowing Peter's escape, and the precise details of this event are open to conjecture. This extraordinary experience showcased the power and deliverance of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.8465301080787562,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                39.74,
+                41.51,
+                18.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The first and second watch refers to the guards stationed at the prison, and not the soldiers Peter was chained to. The location of the prison is uncertain, but it is believed to be within the city. The iron gate mentioned was the exit from the prison buildings and likely prevented escape. Yet, miraculously, the gate opened on its own, allowing Peter to flee. This extraordinary event showcases the power of God in delivering and protecting His people.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8995788402539358,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.5,
+            "commentatorTierSimilarities": [
+                36.81,
+                40.94,
+                22.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The first and second watch in Acts 12:10 refers to the guards on duty at the prison. These guards were not the soldiers Peter was chained to. Although the exact location of the prison is uncertain, it seems to have been within the city. The iron gate mentioned was the exit leading out of the prison buildings, effectively blocking escape. However, miraculously, the gate opened on its own accord, allowing Peter to escape. This event highlights the divine power of God and His ability to deliver His people in extraordinary ways.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8312056981362785,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                37.65,
+                41.57,
+                20.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The first and second watch referred to the guards stationed at the prison, not the soldiers Peter was chained to. While the exact location of the prison is uncertain, it is believed to be within the city. The iron gate mentioned was the exit from the prison premises and likely impeded any potential escape. Nevertheless, miraculously, the gate opened on its own, enabling Peter to flee. This extraordinary event demonstrated God's power and deliverance in a way that surpassed human understanding.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8558103661109386,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                36.35,
+                42.09,
+                21.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

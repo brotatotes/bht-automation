@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:10:40",
+    "verseRef": "1 Corinthians 10:6",
+    "bestBHT": {
+        "bht": "The sins of the Israelites are connected to those of the Corinthians, and thus Paul urges them to learn from these historical examples. Lust is the fountain of all offenses, and it should be avoided, as it leads to discontentment and disobedience toward God. The sins committed by the Israelites were samples for the Corinthians, warning them of the consequences of lusting after what God withholds and being discontent with what He provides. By examining these examples, the Corinthians can avoid falling into the same sins and their accompanying punishments.",
+        "wordCount": 90,
+        "quoteTokenProportion": 49.15,
+        "qualityScore": 2.0819979321109017,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+        "commentatorTierSimilarities": [
+            27.06,
+            36.23,
+            36.71
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These things happened as figures of us, in order that we might not be lusters after evil things.\" ",
+            "The events themselves...figure forth a higher spiritual polity.",
+            "The use of the substantive forcibly depicts the habit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Were samples to us of what will befall us, if we also with all our privileges walk carelessly.",
+            "Lust - the fountain of all the four other offenses enumerated, and therefore put first.",
+            "These are included in the 'evil things,' not that they are so in themselves, but they became so to the Israelites when they lusted after what God withheld, and were discontented with what God provided."
+        ],
+        "Albert Barnes": [
+            "Now these things...were our examples...They were not designed to be types of us, but they are to be held up as furnishing an admonition to us, or a warning...\" ",
+            "The same God directs our affairs that ordered theirs; and if we sin as they did, we also must expect to be punished, and excluded from the favor of God, and from heaven.",
+            "So Paul infers that the Corinthian Christians should not lust after, or desire the meat offered in sacrifice to idols, lest it should lead them also to sin and ruin."
+        ],
+        "Marvin Vincent": [
+            "Examples. The word may mean either an example, as 1 Timothy 4:12, or a type of a fact or of a spiritual truth.\" ",
+            "We should not lust. Lit., should not be desirers.\" ",
+            "The sins of the Israelites are connected with those of the Corinthians."
+        ],
+        "John Calvin": [
+            "God has in that people presented a picture for our instruction.",
+            "The Lord by this example testified how much he hates those lusts that arise from dislike of his gifts, and from our lawless appetite.",
+            "Whatever goes beyond the measure that God has prescribed is justly reckoned evil and unlawful."
+        ],
+        "Philip Schaff": [
+            "Now these things were our examples historical 'types' or 'figures' permitted to occur, as beacons divinely held forth for all time.\" ",
+            "We should not lust after evil things, as they also lusted.",
+            "Some of these 'evil things,' fitted to come specially home to the Corinthian converts at that time, are now specified."
+        ],
+        "Archibald T. Robertson": [
+            "The word \u03c4\u03c5\u03c0\u03bf (our types) comes from \u03c4\u03c5\u03c0\u03c4\u03c9, to strike, and meant originally the mark of a blow as the print of the nails...",
+            "...then an example to be imitated...",
+            "...or to be avoided as here..."
+        ],
+        "John Gill": [
+            "These punishments which were inflicted on these persons for their sins, were designed as instructions for others to avoid the like sins, that they may escape the same punishment.",
+            "All the evil in the world arises from lust, and the world itself is full of it, and is in God's account the same as action.",
+            "Their desire after these things did not arise from want, but from a sensual appetite, and was attended with murmuring against the Lord and his servants, and was highly resented."
+        ],
+        "John Wesley": [
+            "Now these things were our examples \u2014 Showing what we are to expect if, enjoying the like benefits, we commit the like sins.\" ",
+            "evil desire first, as being the foundation of all; next, idolatry, 1 Corinthians 10:7,14; then fornication, which usually accompanied it, 1 Corinthians 10:8; the tempting and murmuring against God, in the following verses.\" ",
+            "As they desired \u2014 Flesh, in contempt of manna."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The events in the Old Testament serve as figures for us, providing a glimpse into a higher spiritual way of life. The sins committed by the Israelites stand as warnings against lusting after evil things, which can lead to discontentment and disobedience toward God. Lust is at the root of these offenses, and it should be avoided. The sins of the Israelites are connected to those of the Corinthians, and thus Paul urges them to learn from these historical examples. By examining these examples, we can understand the consequences of our own lustful desires and strive to avoid them.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.9722654382627196,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+            "commentatorTierSimilarities": [
+                28.2,
+                37.48,
+                34.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The events in the Old Testament serve as figures for us, providing a glimpse into a higher spiritual way of life. The sins committed by the Israelites stand as warnings against lusting after evil things, which can lead to discontentment and disobedience toward God. Lust is at the root of these offenses, and it should be avoided. Paul connects the sins of the Israelites with those of the Corinthians, urging them to learn from these historical examples and their consequences.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.949086874428943,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.15,
+            "commentatorTierSimilarities": [
+                28.82,
+                37.18,
+                34.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sins of the Israelites are connected to those of the Corinthians, and thus Paul urges them to learn from these historical examples. Lust is the fountain of all offenses, and it should be avoided, as it leads to discontentment and disobedience toward God. The sins committed by the Israelites were samples for the Corinthians, warning them of the consequences of lusting after what God withholds and being discontent with what He provides. By examining these examples, the Corinthians can avoid falling into the same sins and their accompanying punishments.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.0819979321109017,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+            "commentatorTierSimilarities": [
+                27.06,
+                36.23,
+                36.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul urges the Corinthians to learn from the sinful examples of the Israelites. Lust, the root of all offenses, should be avoided as it leads to discontentment and disobedience toward God. The sins of the Israelites serve as warnings for the Corinthians, illustrating the consequences of lusting after what God withholds and being discontent with His provision. By examining these historical examples, the Corinthians can avoid falling into the same sins and the corresponding punishment.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.0167078887709757,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                26.36,
+                37.55,
+                36.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul warns the Corinthians to learn from the sins of the Israelites, as their lustful desires led to discontentment and disobedience toward God. Lust, the root of all offenses, must be avoided. The Israelites' sins are examples for the Corinthians, demonstrating the consequences of lusting after what God withholds and being discontent with His provision. By studying these historical examples, the Corinthians can avoid falling into the same sinful patterns and the resulting punishment.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.0123785974579995,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.25,
+            "commentatorTierSimilarities": [
+                26.45,
+                37.77,
+                35.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

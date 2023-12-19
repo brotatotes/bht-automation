@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:25:00",
+    "verseRef": "Acts 2:16",
+    "bestBHT": {
+        "bht": "Standing with the eleven, Peter confidently proclaimed, This is that which was spoken by the prophet Joel. Enlightened by the Holy Spirit, Peter recognized the supernatural phenomena as the fulfillment of the Messianic prophecy found in Joel 2:28-32. In this remarkable sermon, Peter's understanding of the prophecy and his interpretation of the signs that heralded the Messianic period demonstrated his great insight. Through the Spirit's guidance, Peter effectively conveyed the profound significance of what they were witnessing, emphasizing the fulfillment of ancient prophecies.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.9797960451705399,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+        "commentatorTierSimilarities": [
+            33.11,
+            31.14,
+            35.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This prophecy is from the LXX, with very slight variations.",
+            "This is, i.e. 'this is the fact, at which those words pointed.'",
+            "See a somewhat similar expression, Luke xxiv. 44."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14-21. Peter, standing up with the",
+            "\televen\u2014in advance, perhaps, of the rest."
+        ],
+        "Albert Barnes": [
+            "This is that - This is the fulfillment of that, or this was predicted.",
+            "This was the second part of Peter\u2019s argument, to show that this was in accordance with the predictions in their own Scriptures.",
+            "The substance, however, is preserved."
+        ],
+        "Philip Schaff": [
+            "This is that which was spoken by the prophet Joel.",
+            "The quotation, with a few unimportant variations, is from the LXX., Joel 3:1-5, Hebrew, Acts 2:28-30.",
+            "The passage from Joel is describing the signs which were to herald the beginning of the Messianic period, \u2018the last days of the world\u2019s history.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Positive interpretation of the supernatural phenomena in the light of the Messianic prophecy of Joel 2:28-32.",
+            "Peter's mind is now opened by the Holy Spirit to understand the Messianic prophecy and the fulfilment right before their eyes.",
+            "Peter rises to the height of his powers in this remarkable sermon."
+        ],
+        "John Gill": [
+            "This affair, which is a matter of wonder and amazement with some, and of speculation with others, and of ridicule and contempt with the most, not the effect of wine, but the fulfilment of a prophecy in Joel 2:28.\" ",
+            "The prophecy is by the Jews themselves allowed to belong to the world to come, or to the times of the Messiah.",
+            "In the world to come, all Israel shall become prophets, as it is said, Joel 2:28 'and it shall come to pass afterward, that I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy, and your old men', &c."
+        ],
+        "John Wesley": [
+            "But this is that which was spoken of by the prophet \u2014 But there is another and better way of accounting for this. Joel 2:28"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter stood up with the eleven and began to interpret the supernatural phenomena in light of the Messianic prophecy of Joel 2:28-32. Opening Peter's mind through the Holy Spirit, he understood that what they were witnessing was the fulfillment of this prophecy. This remarkable sermon showcased Peter at the height of his powers, addressing the fact that this was in accordance with the predictions in their own Scriptures. Thus, Peter confidently proclaimed, This is that which was spoken by the prophet Joel. The passage from Joel describes the signs that would herald the beginning of the Messianic period, indicating that they were indeed living in the last days of the world's history.",
+            "wordCount": 113,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.0332519344954374,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.95,
+            "commentatorTierSimilarities": [
+                29.47,
+                35.01,
+                35.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This remarkable sermon by Peter addressed the supernatural phenomena witnessed and their fulfillment of the Messianic prophecy of Joel 2:28-32. Peter, enlightened by the Holy Spirit, proclaimed confidently that This is that which was spoken by the prophet Joel. Through Joel's words, the signs that marked the beginning of the Messianic period and the last days of the world's history were revealed. Peter's powerful interpretation showcased his understanding and conviction regarding the prophecy and its present manifestation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.9572968154568176,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.42,
+            "commentatorTierSimilarities": [
+                30.47,
+                33.04,
+                36.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, standing up with the eleven, confidently proclaimed, This is that which was spoken by the prophet Joel. Enlightened by the Holy Spirit, he understood how the supernatural phenomena were the fulfillment of the Messianic prophecy of Joel 2:28-32. This remarkable sermon showcased Peter's exceptional understanding and conviction of the prophecy, as he addressed the signs that marked the beginning of the Messianic period and the last days of the world's history. Through the Spirit's guidance, Peter effectively interpreted the Scripture, revealing the profound significance of what they were witnessing.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.9129428204636476,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                30.78,
+                31.77,
+                37.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter confidently proclaimed, This is that which was spoken by the prophet Joel. Enlightened by the Holy Spirit, he understood the supernatural phenomena as the fulfillment of the Messianic prophecy in Joel 2:28-32. This remarkable sermon showcased Peter's exceptional understanding and addressed the signs that marked the beginning of the Messianic period and the last days of the world's history. Through the Spirit's guidance, Peter effectively interpreted the Scripture, revealing the profound significance of what they were witnessing.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.9080537161147704,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                29.83,
+                33.53,
+                36.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Standing with the eleven, Peter confidently proclaimed, This is that which was spoken by the prophet Joel. Enlightened by the Holy Spirit, Peter recognized the supernatural phenomena as the fulfillment of the Messianic prophecy found in Joel 2:28-32. In this remarkable sermon, Peter's understanding of the prophecy and his interpretation of the signs that heralded the Messianic period demonstrated his great insight. Through the Spirit's guidance, Peter effectively conveyed the profound significance of what they were witnessing, emphasizing the fulfillment of ancient prophecies.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9797960451705399,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "commentatorTierSimilarities": [
+                33.11,
+                31.14,
+                35.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

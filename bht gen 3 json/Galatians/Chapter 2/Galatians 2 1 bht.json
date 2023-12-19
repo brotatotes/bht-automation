@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:14:21",
+    "verseRef": "Galatians 2:1",
+    "bestBHT": {
+        "bht": "After fourteen years, Paul embarked on a significant journey to Jerusalem. In this journey, he did not mention the decree made by the council, as his purpose was to establish his own apostolic authority rather than rely on their decision. Paul's argument went beyond what the council had imposed, stating that the Mosaic institution itself had come to an end. Furthermore, the presence of Titus, a Greek Christian, posed a challenge to those advocating for adherence to Jewish customs.",
+        "wordCount": 80,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.9400669201359415,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.85,
+        "commentatorTierSimilarities": [
+            34.16,
+            38.17,
+            27.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "After fourteen years\"; namely, from Paul's conversion inclusive. In the fourteenth year from his conversion.",
+            "His omitting allusion to that decree is; (1) Because his design here is to show the Galatians his own independent apostolic authority, whence he was not likely to support himself by their decision. Thus we see that general councils are not above apostles. (2) Because he argues the point upon principle, not authoritative decisions. (3) The decree did not go the length of the position maintained here: the council did not impose Mosaic ordinances; the apostle maintains that the Mosaic institution itself is at an end.",
+            "Paul meets them by a far more direct confutation, \"Christ is of no effect unto you whosoever are justified by the law\"."
+        ],
+        "Albert Barnes": [
+            "It is commonly supposed that Paul here refers to the visit which he made as recorded in Acts 15:0.\" ",
+            "Paul seems to have taken him with him as a private affair; but the reason is not mentioned. It may have been to show his Christian liberty, and his sense of what he had a right to do; or it may have been to furnish a case on the subject of inquiry.\" ",
+            "He attended Paul frequently in his travels; was employed by him in important services."
+        ],
+        "Marvin Vincent": [
+            "Fourteen years after\" Rev. after the space of fourteen years. Comp. dij ejtwn pleionwn after several years, Acts 24:17; dij hJmerwn after (some) days, Mark 2:1. (26 words)",
+            "Dia means after, that is, a given number of years being interposed between two points of time.\" (19 words)",
+            "Not, in the course of (Rev. marg.).\" (5 words)"
+        ],
+        "John Calvin": [
+            "It is not reasonable to suppose that Peter would have used such dissimulation, if that controversy had been settled and the decree of the Apostles published.",
+            "While his opponents were falsely pleading the name of the apostles, and earnestly striving to ruin the reputation of Paul, what carelessness would it have angered in him to pass by the decree universally circulated among them?",
+            "In their name, you oblige the Gentiles to keep the law, but I appeal to their own writing, which sets the consciences of men at liberty."
+        ],
+        "Philip Schaff": [
+            "The fourteen years of independent apostolic labor are to be reckoned not from the journey last mentioned (Galatians 1:18), but from Paul\u2019s conversion, this being the great turning point in his life.\" ",
+            "But in neither case was I instructed or commissioned by them; on the contrary, they recognized me as an independent, divinely appointed Apostle of the Gentiles.\" ",
+            "Being an uncircumcised convert and a living testimony of the efficient labors of Paul among the Gentiles, Titus was peculiarly suited for the object of this journey."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is not giving a recital of his visits to Jerusalem, but of his points of contact with the apostles in Jerusalem.",
+            "Paul here gives the inside view of this private conference in Jerusalem that came in between the two public meetings.",
+            "But his very presence was a challenge to the Judaizers, since he was a Greek Christian."
+        ],
+        "John Gill": [
+            "Then fourteen years after I went up again to Jerusalem....",
+            "Which entirely agrees with the account the apostle here gives of this journey...",
+            "For by the mouth of two or three witnesses everything is established."
+        ],
+        "John Wesley": [
+            "Then fourteen years after \u2014 My first journey thither.",
+            "I went up again to Jerusalem \u2014 This seems to be the journey mentioned Acts 15:2.",
+            "Several passages here referring to that great council, wherein all the apostles showed that they were of the same judgment with him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After fourteen years, Paul embarked on an important journey to Jerusalem. Despite the expectation that he would refer to a decree made during that time, Paul's purpose here was to establish his own apostolic authority rather than rely on the decision of others. His argument against putting faith in the law was more fundamental and went beyond the limits imposed by the council, which did not seek to impose Mosaic ordinances. This conference in Jerusalem was not intended to recite Paul's visits, but rather to shed light on his interactions with the apostles. The presence of Titus, a Greek Christian, served as a challenge to the Judaizers, further emphasizing Paul's message that faith in Christ is paramount. (75 words)",
+            "wordCount": 121,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.8740578998964732,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                35.71,
+                40.35,
+                23.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After fourteen years, Paul went on a transformative journey to Jerusalem. It is important to note that he did not mention the decree made during that time, as his intention was to establish his own apostolic authority instead of relying on the decision of others. Paul's argument against putting faith in the law was more profound than what the council had enforced, since they did not impose Mosaic ordinances. Moreover, the presence of Titus, a Greek Christian, served as a bold challenge to those advocating for adherence to Jewish customs. (66 words)",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7843006907460004,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.67,
+            "commentatorTierSimilarities": [
+                35.65,
+                38.31,
+                26.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After fourteen years, Paul embarked on a significant journey to Jerusalem. In this journey, he did not mention the decree made by the council, as his purpose was to establish his own apostolic authority rather than rely on their decision. Paul's argument went beyond what the council had imposed, stating that the Mosaic institution itself had come to an end. Furthermore, the presence of Titus, a Greek Christian, posed a challenge to those advocating for adherence to Jewish customs.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9400669201359415,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.85,
+            "commentatorTierSimilarities": [
+                34.16,
+                38.17,
+                27.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After fourteen years, Paul made a transformative journey to Jerusalem, intentionally omitting mention of the council's decree. By doing so, Paul highlighted his independent apostolic authority and avoided relying on their decision. He argued against the law's justification, emphasizing that the Mosaic institution had reached its end. Paul's presence in Jerusalem challenged the Judaizers, as he, a Greek Christian, demonstrated the power of Christ over the law. (57 words)",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7391479383171737,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                34.9,
+                38.1,
+                27.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After fourteen years, Paul undertook a significant journey to Jerusalem, deliberately avoiding reference to the council's decree. This was because he sought to establish his own apostolic authority rather than rely on their decision. Paul's argument against the law's power went beyond what the council enforced, as he maintained that the Mosaic institution itself had come to an end. Moreover, by having Titus, a Greek Christian, accompany him, Paul confronted the Judaizers and showcased the primacy of faith in Christ. (77 words)",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.7765509707199074,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                34.18,
+                39.06,
+                26.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

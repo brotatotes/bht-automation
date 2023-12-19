@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:33:09",
+    "verseRef": "Acts 17:29",
+    "bestBHT": {
+        "bht": "Being the offspring of God, we must not think that the Godhead is comparable to gold, silver, or stone engravings crafted by human art. The apostle Paul makes it clear that these lifeless idols cannot match the magnificence and wisdom of the Creator. As he stood amidst the statues of divinities in Athens, he highlighted the profound difference between these sculptures and the true glory of God. We should never reduce the infinite and incomparable nature of our Creator to mere physical representations.",
+        "wordCount": 83,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.9925558083078063,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+        "commentatorTierSimilarities": [
+            27.09,
+            39.25,
+            33.65
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Forasmuch then as we are the offspring of God, we ought not to think\u2014The courtesy of this language is worthy of notice.",
+            "One can hardly doubt that the apostle would here point to those matchless monuments of the plastic art, in gold and silver and costliest stone, which lay so profusely beneath and around him.",
+            "How shamefully inexcusable then are the Greek and Roman churches in paganizing the worship of the Christian Church by the encouragement of pictures and images in religious service!"
+        ],
+        "Albert Barnes": [
+            "It is absurd to suppose that the original source of our existence can be like gold, and silver, and stone.",
+            "Man himself is far more excellent than an image of wood and stone; how much more excellent still must be the great Fountain and Source of all our wisdom and intelligence.",
+            "It is absurd to think that the source of all life and intelligence resembles a lifeless block of wood or stone."
+        ],
+        "Marvin Vincent": [
+            "The Godhead [\u03c4\u03bf \u03b8\u03b5\u03b9\u03bf\u03bd] . Lit., that which is divine.",
+            "Like to gold, etc. These words must have impressed his hearers profoundly, as they looked at the multitude of statues of divinities which surrounded them.",
+            "Graven [\u03c7\u03b1\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9] . Not a participle, as A. V., but a noun, in apposition with gold, silver, and stone : 'a graving or carved work of art,' etc."
+        ],
+        "John Calvin": [
+            "For the soul wherein the image of God is properly engraven cannot be painted; therefore it is a thing more absurd to go about to paint God.",
+            "Now, we see what great injury they do to God which give him a bodily shape; when as man\u2019s soul, which doth scarce resemble a small sparkle of the infinite glory of God, cannot be expressed in any bodily shape.",
+            "Whosoever attempteth with his mind to comprehend him, he deformeth and disfigureth his glory with a wicked and false imagination."
+        ],
+        "Philip Schaff": [
+            "We ought not to think that the Godhead is like unto gold or silver or stone graven by art.\" ",
+            "The miserable absurdity of supposing that 'Divinity' could reside in a block of gold or in a log of wood, however skillfully cast or carved, is set forward with great power.\" ",
+            "Paul specially alludes to those masterpieces of sculpture in ivory, gold, and marble, which were standing near him on the Areopagus, and in the varied temples and shrines of Athens the Religious."
+        ],
+        "Archibald T. Robertson": [
+            "We ought not to think (\u03bf\u03c5\u03ba \u03bf\u03c6\u03b5\u03b9\u03bb\u03bf\u03bc\u03b5\u03bd \u03bd\u03bf\u03bc\u03b9\u03b6\u03b5\u03b9\u03bd). It is a logical conclusion (\u03bf\u03c5\u03bd, therefore) from the very language of Aratus and Cleanthes.",
+            "That the Godhead is like (\u03c4\u03bf \u03b8\u03b5\u03b9\u03bf\u03bd \u03b5\u03b9\u03bd\u03b1 \u03bf\u03bc\u03bf\u03b9\u03bf\u03bd). Infinitive with accusative of general reference in indirect discourse.",
+            "Graven by art and device of man (\u03c7\u03b1\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4 \u03c4\u03b5\u03c7\u03bd\u03b7\u03c2 \u03ba\u03b1 \u03b5\u03bd\u03b8\u03c5\u03bc\u03b7\u03c3\u03b5\u03c9\u03c2 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5). Apposition with preceding and so \u03c7\u03b1\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4 in associative instrumental case."
+        ],
+        "John Gill": [
+            "For men themselves, who are the offspring of God, and made after his image, are not to be compared to graven images of gold, silver, and stone, but are vastly preferable to them...",
+            "And much less then should God, the Creator of men, and from whom they spring, be likened to, or represented by, any such thing; for so to think of God, is to think very unworthily of him...",
+            "If living rational creatures are not to be equalled to, and compared with, senseless statues, much less God, the former of men and angels."
+        ],
+        "John Wesley": [
+            "Can God himself be a less noble being than we who are his offspring?",
+            "Nor does he only here deny, that these are like God, but that they have any analogy to him at all.",
+            "So as to be capable of representing him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the offspring of God, it is absurd for us to think that the Godhead can be likened to objects made by human hands, such as gold, silver, or stone engravings. These lifeless idols are far inferior to the greatness and wisdom of the Creator. The apostle Paul points out the folly of such thinking, especially as he stood in the midst of a city surrounded by statues of divinities. The beauty and artistry of these sculptures could not compare to the true glory and majesty of God. To ascribe a bodily form or image to our Creator is to diminish and distort his infinite glory. We, who are made in the image of God, should not compare ourselves to graven images, and therefore it is even more unthinkable to compare God Himself to such things. Let us remember the incomparable nature of our Creator and worship Him in spirit and truth.",
+            "wordCount": 152,
+            "quoteTokenProportion": 38.04,
+            "qualityScore": 1.8870159843296936,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                25.67,
+                36.52,
+                37.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the offspring of God, it is absurd for us to think that the Godhead can be likened to objects made by human hands. The apostle Paul refutes this notion, emphasizing that the beautiful statues of divinities surrounding him in Athens fall short in comparison to the majesty of God. To attribute a bodily form or image to our Creator diminishes His infinite glory. Let us not compare ourselves or God to these graven images, but worship Him in spirit and truth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.9019592458780117,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.58,
+            "commentatorTierSimilarities": [
+                26.75,
+                31.81,
+                41.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Being the offspring of God, we must not think that the Godhead is comparable to gold, silver, or stone engravings crafted by human art. The apostle Paul makes it clear that these lifeless idols cannot match the magnificence and wisdom of the Creator. As he stood amidst the statues of divinities in Athens, he highlighted the profound difference between these sculptures and the true glory of God. We should never reduce the infinite and incomparable nature of our Creator to mere physical representations.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9925558083078063,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                27.09,
+                39.25,
+                33.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the offspring of God, it is absurd to think that the Godhead can be compared to objects crafted by human hands. The apostle Paul emphasizes the disparity between these lifeless idols, such as gold, silver, and stone engravings, and the majesty of the Creator. Surrounded by statues of divinities in Athens, he makes it clear that these sculptures pale in comparison to the true glory of God. It is both illogical and disrespectful to attribute a bodily form or image to our Creator. Let us honor and worship Him in a manner befitting His infinite greatness.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8601960599317227,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                27.43,
+                37.47,
+                35.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the offspring of God, we ought not to think that the Godhead can be compared to idolatrous images made of gold, silver, or stone. These lifeless objects, which Paul mentions in the context of the statues in Athens, are inferior to the Creator and do not resemble His glory in any way. To depict God in physical form is to distort His true nature. Let us not diminish the greatness of our Creator by equating Him with the works of human hands.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9413961928394203,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.89,
+            "commentatorTierSimilarities": [
+                24.98,
+                34.24,
+                40.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:16:17",
+    "verseRef": "Luke 7:33",
+    "bestBHT": {
+        "bht": "Critics wrongly suggest that Jesus associated with sinners because he condoned their ways, but this accusation was made by the Pharisees and lawyers to justify their rejection of Jesus. Luke alone mentions bread and wine in this context. Jesus deliberately varied his approach to convict unbelievers of their obstinacy, leaving them no excuse. His solemn preaching, austere lifestyle, and avoidance of festivals and socializing clashed with expectations, and this was also true for John the Baptist.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.8681836671946321,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.46,
+        "commentatorTierSimilarities": [
+            62.07,
+            0.0,
+            37.93
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Bread and wine. Peculiar to Luke."
+        ],
+        "John Calvin": [
+            "Neither of those methods had any success, and what reason could be assigned except their hardened obstinacy?",
+            "Our Lord intended, by this diversity, and by assuming as it were a variety of characters, to convict unbelievers more fully...",
+            "But if the men of that age are deprived of every excuse for repelling, with inveterate malice, a twofold invitation which God had given them, we too are held guilty in their persons..."
+        ],
+        "Archibald T. Robertson": [
+            "There are actually critics today who say that Jesus was called the friend of sinners and even of harlots because he loved them and their ways and so deserved the slur cast upon him by his enemies.",
+            "If men can say that today we need not wonder that the Pharisees and lawyers said it then to justify their own rejection of Jesus.",
+            "Luke alone has 'bread' and 'wine.'"
+        ],
+        "John Gill": [
+            "He preached very mournful doctrine, delivered it in a very solemn and awful manner, and lived a very austere life, and fasted much.\" ",
+            "Nor would he attend festivals and entertainments, or be free and sociable with men.\" ",
+            "John was too abstemious for them, and they could not agree with his doctrine nor method of living."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There are critics who falsely claim that Jesus associated with sinners because he condoned or endorsed their ways, but this accusation was made by the Pharisees and lawyers to justify their rejection of Jesus. Luke alone mentions the imagery of bread and wine in this context. Our Lord intentionally varied his approach and assumed different roles to fully convict unbelievers of their hardened obstinacy. If the people of that time rejected such a twofold invitation from God, they had no excuse, and the same guilt falls on us if we do the same. Jesus preached solemnly, lived an austere life, and did not attend festivals or socialize freely, which clashed with the expectations of those who rejected him, including John the Baptist.",
+            "wordCount": 122,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.673313144546704,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                56.68,
+                0.0,
+                43.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There are critics who falsely claim that Jesus associated with sinners because he condoned their ways, but this accusation was made by the Pharisees and lawyers to justify their rejection of Jesus. Luke alone mentions the imagery of bread and wine in this context. Our Lord intentionally varied his approach to convict unbelievers of their obstinacy. If the people rejected God's invitation, they had no excuse, and the same guilt falls on us. Jesus preached solemnly, lived an austere life, and did not attend festivals or socialize freely, which clashed with expectations.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.6140793446944475,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.01,
+            "commentatorTierSimilarities": [
+                57.55,
+                0.0,
+                42.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some critics wrongly suggest that Jesus associated with sinners because he condoned their ways, but this accusation stems from the Pharisees and lawyers to justify their rejection of Jesus. It's interesting to note that Luke is the only one who mentions the imagery of bread and wine in this context. Our Lord purposely varied his approach to convict unbelievers of their hardened obstinacy. If people reject God's invitation, they have no excuse, and the same guilt falls on us. Jesus' solemn preaching and austere lifestyle clashed with the expectations of those who rejected him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.60077882096731,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.57,
+            "commentatorTierSimilarities": [
+                58.07,
+                0.0,
+                41.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Critics claim that Jesus associated with sinners because he condoned their ways, but this accusation was made by the Pharisees and lawyers to justify their rejection of Jesus. It is worth noting that Luke alone mentions bread and wine in this context. Jesus intentionally varied his approach to fully convict unbelievers of their hardened obstinacy, leaving them with no excuses. By preaching solemnly, living an austere life, and avoiding festivals and socializing, Jesus challenged the expectations of those who rejected him, including John the Baptist.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.8445182628512358,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+            "commentatorTierSimilarities": [
+                61.6,
+                0.0,
+                38.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Critics wrongly suggest that Jesus associated with sinners because he condoned their ways, but this accusation was made by the Pharisees and lawyers to justify their rejection of Jesus. Luke alone mentions bread and wine in this context. Jesus deliberately varied his approach to convict unbelievers of their obstinacy, leaving them no excuse. His solemn preaching, austere lifestyle, and avoidance of festivals and socializing clashed with expectations, and this was also true for John the Baptist.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8681836671946321,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.46,
+            "commentatorTierSimilarities": [
+                62.07,
+                0.0,
+                37.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

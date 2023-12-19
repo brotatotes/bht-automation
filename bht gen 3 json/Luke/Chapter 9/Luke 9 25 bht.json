@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:17:02",
+    "verseRef": "Luke 9:25",
+    "bestBHT": {
+        "bht": "Jesus is asking a practical question about the value of gaining the world but losing oneself. He emphasizes that a person's true life is not found in material possessions or worldly achievements. The term lose refers to being punished or suffering the consequences of forfeiting something. Ultimately, if a person gains everything the world has to offer but loses their own soul, they have gained nothing of lasting value and face eternal destruction.",
+        "wordCount": 74,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.4447826425003194,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+        "commentatorTierSimilarities": [
+            43.92,
+            0.0,
+            56.08
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25.] himself is \u201chis life\u201d in Matthew, Mark:\u2014his life, in the highest sense."
+        ],
+        "Marvin Vincent": [
+            "Jesus is putting the case as a common - sense question of profit and loss.\" ",
+            "Of losing life, property, or other objects.",
+            "The word means to fine, amerce, mulct; to punish by exacting forfeit."
+        ],
+        "John Gill": [
+            "For what is a man advantaged if he gain the whole world,... Or what profit will it be unto him? all the honours, riches, and enjoyments of it will be of no use and service to him if he himself is lost",
+            "he that loses his soul, which is his better and immortal part, loses himself",
+            "perishes, and is destroyed with an everlasting destruction"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus is asking a practical question about the value of gaining the world but losing oneself. He emphasizes that a person's true life is not found in material possessions or worldly achievements. The term lose refers to being punished or suffering the consequences of forfeiting something. Ultimately, if a person gains everything the world has to offer but loses their own soul, they have gained nothing of lasting value and face eternal destruction.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.4447826425003194,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+            "commentatorTierSimilarities": [
+                43.92,
+                0.0,
+                56.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus presents a common sense question on profit and loss, highlighting the futility of gaining the whole world yet losing oneself. While the term lose refers to exacting forfeit or punishment, the verse speaks to the eternal consequences of losing one's soul. Material possessions and worldly achievements hold no lasting value when compared to the potential destruction of the immortal part of oneself. The verse emphasizes the worthlessness of all the honors, riches, and enjoyments of this world if they lead to the ultimate loss of one's soul.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.4846325520468884,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.71,
+            "commentatorTierSimilarities": [
+                41.08,
+                0.0,
+                58.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus raises a practical question about profit and loss, challenging the value of gaining the entire world at the expense of losing oneself. He highlights the futility of material possessions and worldly achievements, emphasizing that a person's true life lies in something deeper. If one were to forfeit their soul, they would face everlasting destruction, rendering any temporary gains meaningless. This verse underscores the transient nature of earthly pursuits and the eternal significance of preserving one's soul above all else.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.3273323272548634,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.48,
+            "commentatorTierSimilarities": [
+                40.14,
+                0.0,
+                59.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus prompts an inquiry about profit and loss, illustrating the insignificance of gaining the whole world without preserving oneself. He raises the notion of forfeits and punishment, highlighting the potential consequence of losing one's soul. The worthiness of worldly possessions, riches, and honors pales in comparison to the eternal destruction that awaits those who neglect their immortal essence. This passage emphasizes the futility of pursuing temporary gains while neglecting the preservation of one's soul, which holds eternal significance.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.2771494674460357,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.81,
+            "commentatorTierSimilarities": [
+                38.33,
+                0.0,
+                61.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus brings forth a practical question on profit and loss, emphasizing the insignificance of gaining the whole world while losing oneself. He highlights the potential consequences of forfeiting or being punished, shedding light on the eternal destruction that awaits those who neglect their soul. This verse underscores the futility of pursuing temporary gains such as worldly possessions, riches, and honors, contrasting them with the eternal significance of preserving one's immortal essence.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.3212164546400926,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.27,
+            "commentatorTierSimilarities": [
+                38.57,
+                0.0,
+                61.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

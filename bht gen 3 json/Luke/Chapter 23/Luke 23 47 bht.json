@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:23:40",
+    "verseRef": "Luke 23:47",
+    "bestBHT": {
+        "bht": "The centurion, witnessing Jesus' crucifixion, began to glorify God and confessing Him as the Son of God. He recognized Jesus as a righteous man, free from charges and having suffered wrongfully. Drawing from the unusual signs perceived as divine resentment, the centurion declared, Certainly, this was a righteous man, affirming Jesus' teachings and actions. Additionally, the centurion's confession validates Jesus' claims to be the Son of God.",
+        "wordCount": 68,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.5042424814408701,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+        "commentatorTierSimilarities": [
+            21.35,
+            39.74,
+            38.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The centurion was really converted by the sight.",
+            "The centurion knew that He had been accused of making Himself 'Son of God;' and this verdict implies the truthfulness of the claim.",
+            "Both confessions might have been made, but if only one were uttered in words, it seems more probable that the other Evangelists give it accurately."
+        ],
+        "Archibald T. Robertson": [
+            "Glorified (\u03b5\u03b4\u03bf\u03be\u03b1\u03b6\u03b5\u03bd). Imperfect active. Began to glorify (inchoative) or kept on glorifying. "
+        ],
+        "John Gill": [
+            "He glorified God; by confessing that Christ was the Son of God, and declaring him an innocent person.",
+            "Certainly, this was a righteous man; clear of the charges exhibited against him, and has suffered wrongfully.",
+            "He concluded from those unusual appearances, and which he considered as tokens of divine resentment."
+        ],
+        "John Wesley": [
+            "Certainly this was a righteous man \u2014 Which implies an approbation of all he had done and taught."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The centurion, upon witnessing the events surrounding Jesus' crucifixion, began to glorify God. His confession that Jesus was the Son of God and his declaration of Jesus' innocence demonstrate the truthfulness of Jesus' claim to be the Son of God. It is possible that both confessions were made, as the other Evangelists accurately record different aspects of the centurion's words. The centurion understood that Jesus was a righteous man, clear of all charges and having suffered wrongfully. His conclusion was drawn from the unusual events and signs that he perceived as tokens of divine resentment. His statement Certainly, this was a righteous man implies his approval of everything Jesus had done and taught.",
+            "wordCount": 114,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.3643031530205498,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.71,
+            "commentatorTierSimilarities": [
+                16.52,
+                41.29,
+                42.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The centurion, having witnessed Jesus' crucifixion, began to glorify God. His confession of Jesus as the Son of God validates Jesus' claim. It is possible that both confessions were made as accurately recorded by other Evangelists. The centurion recognized Jesus as a righteous man, innocent of the charges against him, and suffering wrongfully. He drew this conclusion from the unusual signs he saw as tokens of divine resentment. He approvingly declared, Certainly, this was a righteous man, affirming Jesus' teachings and actions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.391776744848799,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.62,
+            "commentatorTierSimilarities": [
+                20.01,
+                40.91,
+                39.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The centurion, witnessing Jesus' crucifixion, began to glorify God by confessing that Jesus was the Son of God and declaring him innocent. The centurion's verdict implies the truthfulness of Jesus' claim to be the Son of God. The centurion recognized Jesus as a righteous man, free from the charges against him and having suffered wrongfully. He concluded this from the unusual signs he perceived as divine resentment. His statement Certainly, this was a righteous man reflects his approval of Jesus' teachings and actions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.432410047493013,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.97,
+            "commentatorTierSimilarities": [
+                16.7,
+                40.5,
+                42.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The centurion, witnessing Jesus' crucifixion, began to glorify God by confessing Jesus as the Son of God and declaring him innocent. The centurion's verdict affirms Jesus' claim and recognizes his righteousness, being clear of charges and having suffered wrongfully. The centurion's conclusion was drawn from unusual signs he interpreted as divine resentment. His proclamation Certainly, this was a righteous man expresses his wholehearted approval of Jesus' teachings and actions.",
+            "wordCount": 71,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.3914769963874463,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.61,
+            "commentatorTierSimilarities": [
+                16.67,
+                40.58,
+                42.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The centurion, witnessing Jesus' crucifixion, began to glorify God and confessing Him as the Son of God. He recognized Jesus as a righteous man, free from charges and having suffered wrongfully. Drawing from the unusual signs perceived as divine resentment, the centurion declared, Certainly, this was a righteous man, affirming Jesus' teachings and actions. Additionally, the centurion's confession validates Jesus' claims to be the Son of God.",
+            "wordCount": 68,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.5042424814408701,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                21.35,
+                39.74,
+                38.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

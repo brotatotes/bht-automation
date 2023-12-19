@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:27:13",
+    "verseRef": "Acts 7:7",
+    "bestBHT": {
+        "bht": "In Acts 7:7, Stephen combines the promises made to Abraham and Moses, summarizing the leading facts. He emphasizes God's role as the Judge and His intention to punish those who oppress His people. The mention of this place refers to the Promised Land, where God's presence can be found and worshipped. God's judgment is not limited to a specific location, for He manifested Himself in various forms throughout history. Therefore, when faced with injustice, we should remember that God is the ultimate Judge who will not allow wrongdoing to go unpunished.",
+        "wordCount": 93,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.673599123359307,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+        "commentatorTierSimilarities": [
+            31.29,
+            33.76,
+            34.94
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "7.] said God is inserted by Stephen in passing from the narrative form ( \u201chis seed\u201d) into the direct ( \u201cI will judge\u201d)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here the promise to Abraham and that to Moses are combined.",
+            "Stephen's object being merely to give a rapid summary of the leading facts.",
+            "Stephen's object being merely to give a rapid summary of the leading facts.",
+            "   "
+        ],
+        "Albert Barnes": [
+            "The word 'judge,' in the Bible, often means to 'execute judgment' as well as to pronounce it; that is, 'to punish.'\" ",
+            "God regarded their oppressive acts as deserving His indignation, and He evinced it in the plagues with which He visited upon them, and in their overthrow at the Red Sea.\" ",
+            "Shall serve me - Shall worship me, or be regarded as my people."
+        ],
+        "John Calvin": [
+            "Therefore, so often as we are unjustly afflicted by the wicked, let us remember that God is the Judge of the world, who will let no injuries be unpunished.",
+            "Let every man thus think with himself, Seeing that I am under the tuition of God, who is the Judge of the world, and to whom it belongeth to punish all injuries, those shall not escape his hand who trouble me now.",
+            "Whence we gather again, that we must regard what he commandeth and alloweth. Other nations also were determined to worship God; but because their rites were corrupt and bastardly, God doth separate the Jews from the rest, and assigneth them a place where he will have them to worship him sincerely and duly as they ought."
+        ],
+        "Philip Schaff": [
+            "In this place' that is, where I now speak to thee.",
+            "God was to be found in other countries besides the Holy Land, that He was to be worshipped in other places besides in that holy house on Zion.",
+            "Did He not manifest Himself as visibly and resplendently in the burning thorn of the wilderness as ever He did on the golden mercy-seat of the sacred ark of the covenant?"
+        ],
+        "Archibald T. Robertson": [
+            "Will I judge (\u03ba\u03c1\u03b9\u03bd\u03c9 \u03b5\u03b3\u03c9)...emphatic.\" ",
+            "In this place (\u03b5\u03bd \u03c4\u03c9 \u03c4\u03bf\u03c0\u03c9 \u03c4\u03bf\u03c5\u03c4\u03c9)...Stephen applies it to the Promised Land."
+        ],
+        "John Gill": [
+            "I will judge, said God; that is, condemn and punish them, as he did, by inflicting the ten plagues upon them.",
+            "and after that they shall come forth; out of the land of Egypt, and their hard bondage there; and which was brought about by the judgments executed upon the Egyptians.",
+            "and serve me in this place; in the land of Canaan; though these words are not to be found in Genesis 15:13 what comes nearest them is in Exodus 3:12. 'Ye shall serve God upon this mountain'; meaning Mount Horeb, where Moses then was, and from whence the law was afterwards given."
+        ],
+        "John Wesley": [
+            "They shall serve me \u2014 Not the Egyptians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 7:7, Stephen combines the promises made to Abraham and Moses, summarizing the leading facts. He emphasizes God's role as the Judge and His intention to punish those who oppress His people. The mention of this place refers to the Promised Land, where God's presence can be found and worshipped. God's judgment is not limited to a specific location, for He manifested Himself in various forms throughout history. Therefore, when faced with injustice, we should remember that God is the ultimate Judge who will not allow wrongdoing to go unpunished.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.673599123359307,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                31.29,
+                33.76,
+                34.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stephen's summary in Acts 7:7 combines the promises to Abraham and Moses, highlighting God's role as Judge. He emphasizes that God's judgment encompasses both pronouncing and executing punishment. By mentioning this place, Stephen refers to the Promised Land, where God's presence is to be worshipped. Throughout history, God displayed His presence and power in different manifestations, not limited to a specific location. When facing injustice, we should remember that ultimately, God is the ultimate Judge who will ensure that no wrongdoing goes unpunished.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6076757622025677,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.8,
+            "commentatorTierSimilarities": [
+                33.37,
+                33.71,
+                32.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen's summary in Acts 7:7 combines the promises to Abraham and Moses, emphasizing God's role as the Judge. He declares that God will both pronounce and execute judgment, punishing those who oppress His people. The mention of this place refers to the Promised Land, where God is to be worshipped. Throughout history, God's presence and power were visible in various manifestations, not limited to a particular location. When facing injustice, we should remember that ultimately, God is the ultimate Judge, ensuring that no wrongdoing goes unpunished.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.633930740384646,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                30.01,
+                34.73,
+                35.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephen's summary in Acts 7:7 combines the promises to Abraham and Moses, highlighting God's role as Judge. He emphasizes that God's judgment encompasses both pronouncing and executing punishment. By mentioning this place, Stephen refers to where God's presence and worship can be found. Throughout history, God revealed Himself in various manifestations, not restricted to a specific location. When faced with injustice, we must remember that God is the ultimate Judge, ensuring that no wrongdoing goes unpunished.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5506743672779892,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.9,
+            "commentatorTierSimilarities": [
+                34.42,
+                33.32,
+                32.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 7:7, Stephen combines the promises made to Abraham and Moses, summarizing the leading facts. He emphasizes God's role as the Judge and His intention to punish those who oppress His people. The mention of this place refers to the Promised Land, where God's presence can be found and worshipped. God's judgment is not limited to a specific location, for He manifested Himself in various forms throughout history. Therefore, when faced with injustice, we should remember that God is the ultimate Judge who will not allow wrongdoing to go unpunished.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.673599123359307,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                31.29,
+                33.76,
+                34.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

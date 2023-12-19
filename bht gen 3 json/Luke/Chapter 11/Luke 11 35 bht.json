@@ -1,0 +1,61 @@
+{
+    "timestamp": "12-19-2023 16:18:02",
+    "verseRef": "Luke 11:35",
+    "bestBHT": {
+        "bht": "Beware of the pitiful situation where the very light within you is darkness. This occurs when the eye of your soul is too diseased to see the light of Christ. Take heed, therefore, and do not neglect or despise this light, lest you become blind and hardened in heart, losing not only the light of nature but also the knowledge of divine things.",
+        "wordCount": 63,
+        "quoteTokenProportion": 52.17,
+        "qualityScore": 2.3556532440959304,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.67,
+        "commentatorTierSimilarities": [
+            53.36,
+            0.0,
+            46.64
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The light that is in thee. Lit., the light, that, namely, which is in thee; thus emphasizing the inward light. See on Matthew 6:23."
+        ],
+        "Archibald T. Robertson": [
+            "It is a pitiful situation if the very light is darkness.",
+            "This happens when the eye of the soul is too diseased to see the light of Christ."
+        ],
+        "John Gill": [
+            "Take heed therefore...and do not neglect and despise it.\" ",
+            "That the light which is in thee be not darkness.",
+            "Lest being given up to a judicial blindness and hardness of heart, not only the light of nature...but even that notional light and knowledge of divine things...should be lost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of the pitiful situation where the very light within you is darkness. This occurs when the eye of your soul is too diseased to see the light of Christ. Take heed, therefore, and do not neglect or despise this light, lest you become blind and hardened in heart, losing not only the light of nature but also the knowledge of divine things.",
+            "wordCount": 63,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 2.3556532440959304,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.67,
+            "commentatorTierSimilarities": [
+                53.36,
+                0.0,
+                46.64
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

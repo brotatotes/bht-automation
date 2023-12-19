@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:23:27",
+    "verseRef": "Luke 23:22",
+    "bestBHT": {
+        "bht": "Why, what evil?, Pilate asked, dropping the speech-making tone and simply questioning the accusation. This use of \u03b3\u03b1\u03c1 (explanatory and argumentative combined) reflects Pilate's confusion about the charges brought against Jesus. In fact, Pilate found no cause of death in him, declaring him innocent. Though being a heathen, Pilate honored Christ by acknowledging his innocence, while even Peter, a disciple, dishonored him by denying him thrice. In this exchange, Pilate seems inclined to chastise Jesus and let him go, recognizing that crucifixion was a punishment reserved for slaves and the vilest of men.",
+        "wordCount": 95,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.4687897474668872,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.18,
+        "commentatorTierSimilarities": [
+            44.59,
+            0.0,
+            55.41
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Said [\u03b5\u03b9\u03c0\u03b5\u03bd] . Dropping the speech - making tone, and simply asking a question."
+        ],
+        "Archibald T. Robertson": [
+            "Why, what evil? (\u03a4 \u03b3\u03b1\u03c1 \u03ba\u03b1\u03ba\u03bf\u03bd;). Note this use of \u03b3\u03b1\u03c1 (explanatory and argumentative combined). "
+        ],
+        "John Gill": [
+            "I have found no cause of death in him; why he should be put to death at all.\" ",
+            "Which was the punishment of slaves, and of the vilest of men, which they were desirous of.",
+            "I will therefore chastise him, and let him go."
+        ],
+        "John Wesley": [
+            "Pilate, a heathen, honoured Christ, by thrice owning him to be innocent.",
+            "As Peter, a disciple of Christ, dishonoured him by denying him thrice.",
+            "Pilate...owned him to be innocent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Why, what evil?, Pilate asked, dropping the speech-making tone and simply questioning the accusation. This use of \u03b3\u03b1\u03c1 (explanatory and argumentative combined) reflects Pilate's confusion about the charges brought against Jesus. In fact, Pilate found no cause of death in him, declaring him innocent. Though being a heathen, Pilate honored Christ by acknowledging his innocence, while even Peter, a disciple, dishonored him by denying him thrice. In this exchange, Pilate seems inclined to chastise Jesus and let him go, recognizing that crucifixion was a punishment reserved for slaves and the vilest of men.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4687897474668872,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.18,
+            "commentatorTierSimilarities": [
+                44.59,
+                0.0,
+                55.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Why, what evil?, Pilate questioned, dropping the speech-making tone. This use of \u03b3\u03b1\u03c1 reflects Pilate's confusion about the charges against Jesus. Pilate found no cause of death, declaring him innocent. Pilate honored Christ, acknowledging his innocence, even more so than Peter, who denied him thrice. In this exchange, Pilate seemed inclined to chastise Jesus and let him go, recognizing crucifixion as a punishment for slaves and the vilest of men.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.3159798157257296,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.1,
+            "commentatorTierSimilarities": [
+                38.71,
+                0.0,
+                61.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate's response to the accusations against Jesus was one of perplexity. Why, what evil?, he asked, dropping the speech-making tone and simply questioning the charges. Pilate, finding no cause of death in him, pronounced Jesus innocent. Pilate's recognition of Jesus' innocence is significant, as even a heathen like him honored Christ by acknowledging his blamelessness. This stands in contrast to Peter, a disciple, who dishonored Jesus by denying him three times. Pilate, therefore, was inclined to chastise Jesus and release him, recognizing that crucifixion was a punishment reserved for slaves and the vilest of men.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.1878033383586901,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.84,
+            "commentatorTierSimilarities": [
+                38.18,
+                0.0,
+                61.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate's response to the accusations against Jesus was one of perplexity. Why, what evil?, he asked, dropping the speech-making tone and simply questioning the charges. Pilate, finding no cause of death in him, pronounced Jesus innocent. Pilate recognized crucifixion as a punishment for slaves and the vilest of men and seemed inclined to chastise Jesus and release him. As a heathen, Pilate's acknowledgment of Jesus' innocence honored Christ, while even Peter, a disciple, dishonored him by denying him three times.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.2206987100381401,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.93,
+            "commentatorTierSimilarities": [
+                37.62,
+                0.0,
+                62.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate's response to the accusations against Jesus was one of perplexity. Why, what evil?, he asked, dropping the speech-making tone and simply questioning the charges. Pilate, finding no cause of death in him, declared Jesus innocent. Pilate recognized crucifixion as a punishment for slaves and the vilest of men, and he seemed inclined to chastise Jesus and let him go. His acknowledgment of Jesus' innocence honored Christ, while Peter, a disciple, dishonored him by denying him three times.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.1748821690918585,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.41,
+            "commentatorTierSimilarities": [
+                34.84,
+                0.0,
+                65.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

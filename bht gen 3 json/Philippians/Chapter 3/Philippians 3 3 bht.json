@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:56:29",
+    "verseRef": "Philippians 3:3",
+    "bestBHT": {
+        "bht": "For we, the true circumcision, worship by the Spirit of God. Our religious service is rendered by the Spirit, embracing the whole life. We do not trust in the flesh, but in the Spirit. Our worship is spiritual, flowing from the inworkings of the Holy Spirit. Let us make our boast in Christ Jesus, not in the law. We rejoice in Him, for He is the source of all our blessings. May our worship be genuine, rooted in the Spirit of God.",
+        "wordCount": 82,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 2.2974987117639754,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.73,
+        "commentatorTierSimilarities": [
+            42.71,
+            32.01,
+            25.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For we are the real CIRCUMcision...who worship by the Spirit of God.",
+            "The Spirit of God is the agent, whereby our service is rendered.",
+            "We...glory in Christ Jesus, and trust not in the flesh, but in the Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our religious service is rendered by the Spirit...embracing the whole life.\" ",
+            "Christian worship is spiritual, flowing from the inworkings of the Holy Spirit.",
+            "Make our boast in Christ Jesus, not in the law: the ground of their boasting."
+        ],
+        "Albert Barnes": [
+            "We have that which was intended to be secured by this rite - for we are led to renounce the flesh, and to worship God in the spirit.",
+            "The apostle in this verse teaches that the ordinance of circumcision was not designed to be a mere outward ceremony, but was intended to be emblematic of the renunciation of the flesh with its corrupt propensities, and to lead to the pure and spiritual worship of God.",
+            "We do not depend on circumcision for salvation, or on any external rites and forms whatever - on any advantage of rank, or blood... none of these things can we put reliance for salvation; none of them will constitute a ground of hope."
+        ],
+        "Marvin Vincent": [
+            "Worship by the Spirit of God.\" ",
+            "A Jew would be scandalized by the application of this term to Christian worship.",
+            "Rejoice in Christ Jesus."
+        ],
+        "John Calvin": [
+            "For we are the circumcision \u2014that is, we are the true seed of Abraham, and heirs of the testament which was confirmed by the sign of circumcision.",
+            "The true circumcision is of the spirit and not of the letter, inward, and situated in the heart, not visible according to the flesh.",
+            "We have to do with the reality, while they rest in the symbols: we have to do with the substance, while they look to the shadows."
+        ],
+        "Philip Schaff": [
+            "When the outward sign had no accompaniment of faith, the sign alone availed nothing.",
+            "They will worship in the Spirit, because God\u2019s Spirit will animate all they do.",
+            "The feeling which John the Baptist rebuked in the Jews, that they were sure of God\u2019s mercy because they had \u2018Abraham to their father,\u2019 had eaten all the heart out of the Jewish nation, and had made them attentive, only to the letter of the law, forgetting its spirit."
+        ],
+        "Archibald T. Robertson": [
+            "We believers in Christ, the children of Abraham by faith, whether Jew or Gentile, the spiritual circumcision in contrast to the merely physical.",
+            "By the Spirit of God. Instrumental case, though the dative case as the object of \u03bb\u03b1\u03c4\u03c1\u03b5\u03c5\u03c9 makes good sense also (worshipping the Spirit of God) or even the locative (worshipping in the Spirit of God).",
+            "No. Actual condition rather than \u03bc\u03b7 with the participle."
+        ],
+        "John Gill": [
+            "We are the circumcision, and not they; they have the name, and we the thing, or that which legal circumcision was a shadow of, namely, circumcision of the heart.",
+            "Worship is either inward or outward; inward worship lies in the exercise of grace on God, as of faith, hope, love, fear, c. outward worship is the performance of certain external actions required by God, and both are to be performed.",
+            "Rejoice in Christ Jesus...have no confidence in the flesh; in any carnal descent, or birth privilege, as to be of the seed of Abraham, of the of Israel, or of such a tribe, or family, or born of such a parent; nor in circumcision, or any of the carnal ordinances of the ceremonial law; nor in any civil, moral, legal, and external righteousness, for so to do is but to make flesh an arm; or indeed to trust in anything out of Christ, or short of him."
+        ],
+        "John Wesley": [
+            "Are the only true circumcision - The people now in covenant with God.",
+            "And glory in Christ Jesus \u2014 As the only cause of all our blessings.",
+            "And have no confidence in the flesh \u2014 In any outward advantage or prerogative."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For we are the true circumcision, our religious service rendered by the Spirit of God, embracing the whole life. We do not rely on external rites or forms, but on the pure and spiritual worship of God. We rejoice in Christ Jesus and have no confidence in the flesh or any external advantage. We are the heirs of the testament and the circumcision of the heart. Our worship is not just outward actions, but the inward exercise of grace on God. Let us glory in Christ Jesus, who is the source of all our blessings, and put no trust in the flesh.",
+            "wordCount": 102,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.2451869633627606,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.99,
+            "commentatorTierSimilarities": [
+                31.52,
+                33.73,
+                34.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For we, the true circumcision, worship by the Spirit of God, not in the flesh, but in the Spirit. Our religious service flows from the inworkings of the Holy Spirit and encompasses our entire lives. We take no confidence in external rituals or privileges, but in Christ Jesus alone. We boast in Him, for He is the cause of all our blessings. Let us not trust in the flesh, but in the true circumcision of the heart, as worshiping in the Spirit is paramount.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2392050135003423,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.79,
+            "commentatorTierSimilarities": [
+                34.42,
+                33.1,
+                32.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For we, the true circumcision, worship by the Spirit of God. Our religious service is rendered by the Spirit, embracing the whole life. We do not trust in the flesh, but in the Spirit. Our worship is spiritual, flowing from the inworkings of the Holy Spirit. Let us make our boast in Christ Jesus, not in the law. We rejoice in Him, for He is the source of all our blessings. May our worship be genuine, rooted in the Spirit of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.2974987117639754,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.73,
+            "commentatorTierSimilarities": [
+                42.71,
+                32.01,
+                25.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For we are the true circumcision, worshiping by the Spirit of God and not in the flesh. Our religious service is rendered by the Spirit, embracing the entire scope of our lives. We glory in Christ Jesus, not in any external rituals or forms. Our worship is spiritual, flowing from the inworkings of the Holy Spirit. Let us rejoice in Him and put no confidence in the flesh. We are the heirs of the testament, the circumcision of the heart, and our worship is a holistic expression of faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.2733299605928323,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.93,
+            "commentatorTierSimilarities": [
+                35.54,
+                32.89,
+                31.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For we, the true circumcision, worship by the Spirit of God. Our religious service is rendered by the Spirit, embracing the entirety of our lives. Our worship is spiritual, flowing from the inworkings of the Holy Spirit. We rejoice in Christ Jesus and put no confidence in the flesh or any external advantage. We are the heirs of the testament and the circumcision of the heart. Let us glory in Christ Jesus, who is the source of all our blessings, and put no trust in the flesh.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.275019876511858,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.98,
+            "commentatorTierSimilarities": [
+                36.06,
+                31.72,
+                32.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

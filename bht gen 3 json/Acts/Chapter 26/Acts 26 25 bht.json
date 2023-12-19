@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:36:57",
+    "verseRef": "Acts 26:25",
+    "bestBHT": {
+        "bht": "I am not mad, most noble Festus, courteously replied Paul, refuting the accusation. His words expressed truth and soberness, not wild enthusiasm or disordered thinking. Paul's self-possession and calm dignity effectively countered the interruption, showcasing his readiness. The appeal to Agrippa demonstrated the reasonable nature of Christians' concern for salvation. Paul's fervent defense was not fueled by vain questions, but by words that were true, sober, and filled with wisdom.",
+        "wordCount": 73,
+        "quoteTokenProportion": 28.33,
+        "qualityScore": 1.913499650643021,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.97,
+        "commentatorTierSimilarities": [
+            31.75,
+            36.43,
+            31.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25.] truth may be spoken warmly and enthusiastically, but cannot be predicated of a madman\u2019s words: soberness is directly opposed to madness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am not mad, most noble Festus, but, &c.\u2014Can anything surpass this reply, for readiness, self-possession, calm dignity?",
+            "Every word of it refuted the rude charge, though Festus, probably, did not intend to hurt the prisoner's feelings.",
+            "For readines, self-possession, calm dignity."
+        ],
+        "Albert Barnes": [
+            "I am not mad\" can be made by all Christians to the charge of derangement which the world brings against them.",
+            "All people know that if there is an eternity, it is right to prepare for it; if there is a God, it is proper to serve him; if a Saviour died for us, we should love him; if a hell, we should avoid it; if a heaven, we should seek it.",
+            "One of the best ways of convicting sinners is to appeal to them just as Paul did to Agrippa. When so appealed to, they will usually acknowledge the force of the appeal, and will admit that the solicitude of Christians for their salvation is according to the dictates of reason."
+        ],
+        "Marvin Vincent": [
+            "Speak forth [\u03b1\u03c0\u03bf\u03c6\u03b8\u03b5\u03b3\u03b3\u03bf\u03bc\u03b1\u03b9] . See on ch. Acts 2:4."
+        ],
+        "John Calvin": [
+            "For though he were unworthy of honor, yet was he in authority. And yet for all that he doth not therefore give place to his blasphemy, but he defendeth the glory of the word of God.",
+            "He is content with this defense alone, that he teacheth nothing but that which is true and sober.",
+            "We may gather by this, which is the best manner of teaching, to wit, that which is not only clean from all fallacies and deceit, but also doth not make the minds of men drunk with vain questions, and doth not nourish foolish curiosity, nor an intemperate desire to know more than is meet, but is moderate and good for sound edification."
+        ],
+        "Philip Schaff": [
+            "No, most noble Festus, I am not mad. The words which excite your indignation are not the outcome of a wild, ill-balanced enthusiasm, not the fancies of the disordered intellect of a half-mad zealot, as you seem to think; they are the expression of truth, of calm, deliberate judgment.",
+            "The Roman governor\u2019s accusation of madness was effectively refuted by the calm, courteous words with which the prisoner at once replied to the interruption.",
+            "The king will bear me witness that my words have been no wild utterances of a visionary enthusiast."
+        ],
+        "Archibald T. Robertson": [
+            "But speak forth...in his reply 'words of truth and soberness.'\" ",
+            "The old word \u03c3\u03c9\u03c6\u03c1\u03bf\u03c3\u03c5\u03bd\u03b7 (soundness of mind) from \u03c3\u03c9\u03c6\u03c1\u03c9\u03bd...is directly opposed to 'madness' (\u03bc\u03b1\u03bd\u03b9\u03b1).",
+            "Paul was not ruffled by the rude and excited interruption of Festus, but speaks with perfect courtesy."
+        ],
+        "John Gill": [
+            "But speak forth the words of truth and soberness; which are true in themselves, being perfectly agreeable to the Scriptures of truth.",
+            "The Gospel in general, and all the doctrines of it, are words of truth; they are true, in opposition to that which is false.",
+            "These are 'words of soberness' also; they are words of the highest wisdom, which contain the wisdom of God in a mystery."
+        ],
+        "John Wesley": [
+            "I am not mad, most excellent Festus \u2014 The style properly belonging to a Roman propretor.",
+            "How inexpressibly beautiful is this reply! How strong! yet how decent and respectful!",
+            "But utter the words of truth (confirmed in the next verse) and sobriety - The very reverse of madness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am not mad, most noble Festus, Paul calmly and courteously replied, refuting the accusation of madness. His words were not the product of wild enthusiasm or disordered thinking, but rather they were the expression of truth and sober judgment. Paul's readiness, self-possession, and calm dignity in his response effectively countered the interruption. The appeal to Agrippa demonstrated that the concern of Christians for the salvation of others is reasonable and in accordance with sound thinking. Paul's fervent defense was not fueled by vain questions or foolish curiosity, but by words that were true, sober, and full of wisdom.",
+            "wordCount": 102,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.9728213882925458,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                30.36,
+                36.95,
+                32.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I am not mad, most noble Festus, calmly replied Paul, refuting the accusation. His words expressed truth and sober judgment, not wild enthusiasm. Paul's readiness, self-possession, and calm dignity effectively countered the interruption. The appeal to Agrippa showed that Christians' concern for salvation is reasonable. Paul's fervent defense was not fueled by vain questions or foolish curiosity but by true, sober, and wise words.",
+            "wordCount": 67,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.905665643442707,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                30.59,
+                37.51,
+                31.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I am not mad, most noble Festus, Paul calmly and courteously replied, refuting the accusation of madness. His words were not the product of wild enthusiasm or disordered thinking, but rather they were the expression of truth and sober judgment. Paul's readiness, self-possession, and calm dignity in his response effectively countered the interruption. The appeal to Agrippa demonstrated that the concern of Christians for the salvation of others is reasonable and in accordance with sound thinking. Paul's fervent defense was not fueled by vain questions or foolish curiosity, but by words that were true, sober, and full of wisdom.",
+            "wordCount": 102,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.9728213882925458,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                30.36,
+                36.95,
+                32.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I am not mad, most noble Festus, calmly affirmed Paul, countering the accusation. His words were not a result of wild enthusiasm, but rather the expression of truth and sober judgment. With readiness, self-possession, and calm dignity, he effectively responded to the interruption. Paul's appeal to Agrippa showcased that Christians' concern for salvation is reasonable. His defense was not fueled by vain questions or foolish curiosity, but by words that were true, sober, and wise.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.9071586033753687,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                30.87,
+                35.98,
+                33.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I am not mad, most noble Festus, courteously replied Paul, refuting the accusation. His words expressed truth and soberness, not wild enthusiasm or disordered thinking. Paul's self-possession and calm dignity effectively countered the interruption, showcasing his readiness. The appeal to Agrippa demonstrated the reasonable nature of Christians' concern for salvation. Paul's fervent defense was not fueled by vain questions, but by words that were true, sober, and filled with wisdom.",
+            "wordCount": 73,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.913499650643021,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.97,
+            "commentatorTierSimilarities": [
+                31.75,
+                36.43,
+                31.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

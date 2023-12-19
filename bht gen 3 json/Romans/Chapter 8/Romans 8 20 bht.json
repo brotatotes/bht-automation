@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:06:38",
+    "verseRef": "Romans 8:20",
+    "bestBHT": {
+        "bht": "Creation itself, though not willingly, was made subject to vanity by the superior power that linked it with mankind. This vanity signifies a perishable and decaying condition separated from God, pursuing false ends. However, there is hope within creation, as it sustains itself with the expectation of a better condition, awaiting the revelation of promised incorruption. Although willingly engaging in vanity, creation was not willingly made subject to it but was led captive by the devil. By subjecting creation to vanity, God offers the hope of delivering it into the liberty of the glory of His children.",
+        "wordCount": 97,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.183457368143582,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.94,
+        "commentatorTierSimilarities": [
+            38.25,
+            27.42,
+            34.33
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The creation was made subject to vanity, not willingly, but by reason of Him who made it subject.",
+            "Creation itself shall be delivered from the bondage of corruption into the liberty of the glory of the children of God.",
+            "The liberty of the glory is described as consisting in, belonging to, being one component part of, the glorified state of the children of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the creature was made subject to vanity, not willingly\u2014that is, through no natural principle of decay.",
+            "The apostle, personifying creation, represents it as only submitting to the vanity with which it was smitten, on man's account, in obedience to that superior power which had mysteriously linked its destinies with man's.",
+            "But by reason of him who hath subjected the same \u2014'who subjected it' in hope\u2014or 'in hope that.'"
+        ],
+        "Albert Barnes": [
+            "The Christian is brought under this influence; his joys are marred; his peace is discomposed; his affections wander; his life is a life of vanity and vexation.",
+            "It is not what they desire, to be subjected to the toils of this life, and to the temptations and vanities of this world. They sigh for deliverance.",
+            "Their lot in life; their being subjected to this state of vanity, is the arrangement of God."
+        ],
+        "Marvin Vincent": [
+            "All which has not God for the true end of its being is mataiov.",
+            "Here, therefore, the reference is to a perishable and decaying condition, separate from God, and pursuing false ends.",
+            "The supreme will of God is thus removed 'to a wider distance from corruption and vanity'."
+        ],
+        "John Calvin": [
+            "For to vanity has the creation...they abide not in a constant and durable state, but being as it were evanescent and unstable, they pass away swiftly; for no doubt he sets vanity in opposition to a perfect state.\" ",
+            "But he introduces all parts of the world, by a sort of personification, as being endued with reason; and he does this in order to shame our stupidity, when the uncertain fluctuation of this world, which we see, does not raise our minds to higher things.",
+            "How much soever then created things do naturally incline another way; yet as it has pleased God to bring them under vanity, they obey his order; and as he has given them a hope of a better condition, with this they sustain themselves, deferring their desire, until the incorruption promised to them shall be revealed."
+        ],
+        "Philip Schaff": [
+            "It became empty, lost its original significance.",
+            "The subjection to vanity was, therefore, not a self-subjection, but by reason of him who subjected it.",
+            "Resting on hope."
+        ],
+        "Archibald T. Robertson": [
+            "To vanity (\u03c4\u03b7 \u03bc\u03b1\u03c4\u03b1\u03b9\u03bf\u03c4\u03b7\u03c4). Dative case. Rare and late word, common in LXX. From \u03bc\u03b1\u03c4\u03b1\u03b9\u03bf\u03c2, empty, vain. Ephesians 4:17; 2 Peter 2:18.",
+            "Not of its own will (\u03bf\u03c5\u03c7 \u03b5\u03ba\u03bf\u03c5\u03c3\u03b1). Common adjective, in N.T. only here and 1 Corinthians 9:27. It was due to the effect of man's sin.",
+            "But by reason of him (\u03b1\u03bb\u03bb\u03b1 \u03b4\u03b9\u03b1 \u03c4\u03bf\u03bd). Because of God."
+        ],
+        "John Gill": [
+            "This designs the vanity and emptiness of the minds of the Gentiles, who were without God and Christ, and the Holy Spirit, without the law and Gospel, and grace of God.",
+            "Though they were willingly vain, yet they were not willingly made subject to vanity; they willingly went into idolatrous and other evil practices, but the devil made them subject, or slaves unto them.",
+            "He led them captive at his will, and powerfully worked in them, by divine permission, so that they became vassals to him, and to their lusts."
+        ],
+        "John Wesley": [
+            "The creation was made subject to vanity \u2014 Abuse, misery, and corruption.",
+            "Adam only made it liable to the sentence which God pronounced; yet not without hope.",
+            "By him who subjected it \u2014 Namely, God, Genesis 3:17; 5:29."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Creation itself was made subject to vanity, not willingly, but due to the superior power that linked its destiny with man. This vanity refers to a perishable and decaying condition, separate from God, pursuing false ends. The supreme will of God, however, separates creation from corruption and vanity, leading it to hope. While creation naturally inclines toward a different path, it sustains itself with the hope of a better condition, awaiting the revelation of incorruption promised by God. Although willingly engaging in vanity, creation was not willingly made subject to it, as it became slaves to the devil and their own lusts. Yet, there is hope within creation, for it was subjected to vanity with the hope of being delivered into the liberty of the glory of the children of God, by Him who subjected it.",
+            "wordCount": 136,
+            "quoteTokenProportion": 46.84,
+            "qualityScore": 2.296115187617084,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.69,
+            "commentatorTierSimilarities": [
+                38.09,
+                27.48,
+                34.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Creation itself, separate from God and pursuing false ends, was made subject to vanity by the superior power that linked it with man. This perishable and decaying condition is a result of the sinful state of mankind. However, there is hope within creation, as it sustains itself with the expectation of a better condition, awaiting the revelation of incorruption promised by God. Although willingly engaging in vanity, creation was not willingly made subject to it, as it was led captive by the devil. Yet, there is hope within creation, for it was subjected to vanity with the hope of being delivered into the liberty of the glory of the children of God, by Him who subjected it.",
+            "wordCount": 117,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.2015748402204625,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.54,
+            "commentatorTierSimilarities": [
+                38.82,
+                27.2,
+                33.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Creation was subjected to vanity by the superior power that linked it with humanity. This perishable and decaying condition, separate from God, pursues false ends. However, there is hope within creation, as it sustains itself with the expectation of a better condition, awaiting the revelation of incorruption promised by God. Although willingly engaging in vanity, creation was not willingly made subject to it, as it was led captive by the devil. God subjected creation to vanity with the hope of delivering it into the freedom of the glory of the children of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.1410505240878335,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                39.35,
+                26.69,
+                33.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Creation itself was made subject to vanity, not willingly, but by reason of Him who made it subject. This vanity refers to a perishable and decaying condition separate from God, pursuing false ends. However, there is hope within creation, as it sustains itself with the expectation of a better condition, deferring its desire until the promised incorruption is revealed. Although creation willingly engages in vanity, it was not willingly made subject to it; rather, it was led captive by the devil. God, who subjected creation to this vanity, offers the hope of delivering it into the liberty of the glory of the children of God.",
+            "wordCount": 105,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.283602343315292,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.27,
+            "commentatorTierSimilarities": [
+                37.4,
+                28.58,
+                34.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Creation itself, though not willingly, was made subject to vanity by the superior power that linked it with mankind. This vanity signifies a perishable and decaying condition separated from God, pursuing false ends. However, there is hope within creation, as it sustains itself with the expectation of a better condition, awaiting the revelation of promised incorruption. Although willingly engaging in vanity, creation was not willingly made subject to it but was led captive by the devil. By subjecting creation to vanity, God offers the hope of delivering it into the liberty of the glory of His children.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.183457368143582,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.94,
+            "commentatorTierSimilarities": [
+                38.25,
+                27.42,
+                34.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

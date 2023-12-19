@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:30:10",
+    "verseRef": "Acts 12:7",
+    "bestBHT": {
+        "bht": "In the darkness of the prison, Peter was visited by an angel whose radiant light filled the cell. The appearance of the angel and the accompanying light emphasized the extraordinary nature of this divine encounter. The angel gently struck Peter on the side to awaken him without alerting the guards, demonstrating God's meticulous care. Peter's chains fell off miraculously, a powerful testament to God's ability to deliver His faithful followers from even the most impossible situations. The angel's actions serve as a reminder of God's watchfulness over His people, even in their sleep.",
+        "wordCount": 98,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.8950819444201996,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+        "commentatorTierSimilarities": [
+            31.48,
+            39.3,
+            29.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is in St. Luke\u2019s manner to relate simultaneously the angelic appearance and the shining of a light around.",
+            "The light accompanied, or perhaps shone from, the angel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The angel of the Lord\u2014rather, 'an angel.'\" (7 words)",
+            "Expressive of the unexpected nature of the visit.\" (7 words)",
+            "And his chains fell off...And so he did.\" (9 words)"
+        ],
+        "Albert Barnes": [
+            "And a light shined in the prison - Many have supposed that this was lightning. But light, and splendor, and shining apparel are commonly represented as the accompaniments of the heavenly beings when they visit the earth, Luke 2:9; Luke 24:4; compare Mark 9:3. It is highly probable that this light was discerned only by Peter; and it would be to him an undoubted proof of the divine interposition in his behalf.",
+            "And he smote Peter on the side - This was, doubtless, a gentle blow or stroke to arouse him from sleep.",
+            "And his chains ... - This could have been only by divine power. No natural means were used, or could have been used without arousing the guard. It is a sublime expression of the ease with which God can deliver from danger, and rescue his friends."
+        ],
+        "Marvin Vincent": [
+            "Came upon [\u03b5\u03c0\u03b5\u03c3\u03c4\u03b7]. Better, as Rev., stood by.",
+            "Prison [\u03bf\u03b9\u03ba\u03b7\u03bc\u03b1\u03c4\u03b9]. Not the prison, but the cell where Peter was confined.",
+            "So, rightly, Rev."
+        ],
+        "John Calvin": [
+            "When as the angel smiteth Peter\u2019s side, it appeareth hereby what a care God hath for his, who watcheth over them when they sleep.",
+            "Sleep is a certain image of death, and doth choke and drown all the senses, what should become of us if God should then cease to have respect to us?",
+            "There is power enough in the commandment of God alone to remove all manner [of] lets, when all ways seem to be stopt on all sides."
+        ],
+        "Philip Schaff": [
+            "And, behold, the angel of the Lord.",
+            "A light shined in the prison.",
+            "He smote Peter on the side in order to rouse him from slumber."
+        ],
+        "Archibald T. Robertson": [
+            "Stood by him (\u03b5\u03c0\u03b5\u03c3\u03c4\u03b7). Ingressive second aorist active indicative of \u03b5\u03c6\u03b9\u03c3\u03c4\u03b7\u03bc, intransitive.",
+            "In the cell (\u03b5\u03bd \u03c4\u03c9 \u03bf\u03b9\u03ba\u03b7\u03bc\u03b1\u03c4). Literally, a dwelling place or habitation, but here not the prison as a whole as in Thucydides, but the room in the prison (cell) where Peter was chained to the two guards.",
+            "He smote Peter on the side (\u03c0\u03b1\u03c4\u03b1\u03be\u03b1\u03c2 \u03c4\u03b7\u03bd \u03c0\u03bb\u03b5\u03c5\u03c1\u03b1\u03bd \u03c4\u03bf\u03c5 \u03a0\u03b5\u03c4\u03c1\u03bf\u03c5). More exactly, 'smote the side of Peter.' Strongly enough to wake Peter up who was sound asleep and yet not rouse the two guards."
+        ],
+        "John Gill": [
+            "This was an uncommon light produced by the angel, partly as an emblem of the presence, majesty, and power of God, who was present, to work a great deliverance.",
+            "He touched him on that side which lay uppermost, or punched him on it, in order to awake him, and raise him out of his sleep.",
+            "Without delay, make haste."
+        ],
+        "John Wesley": [
+            "His chains \u2014 With which his right arm was bound to one of the soldiers, and his left arm to the other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of his imprisonment, Peter experienced a divine intervention. An angel appeared and a radiant light surrounded him. This light, indicative of the presence of the heavenly being, likely only visible to Peter, served as a testament to God's intervention in his favor. The angel struck Peter gently on the side to wake him from his slumber, careful not to alert the guards. As a demonstration of God's power, Peter's chains were miraculously loosened without arousing suspicion. This extraordinary display of God's care for His people is a reminder that even in the darkest of times, God's command has the power to conquer any obstacle.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8104140884333404,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                28.53,
+                43.95,
+                27.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the darkness of the prison, Peter was visited by an angel whose radiant light filled the cell. The appearance of the angel and the accompanying light emphasized the extraordinary nature of this divine encounter. The angel gently struck Peter on the side to awaken him without alerting the guards, demonstrating God's meticulous care. Peter's chains fell off miraculously, a powerful testament to God's ability to deliver His faithful followers from even the most impossible situations. The angel's actions serve as a reminder of God's watchfulness over His people, even in their sleep.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.8950819444201996,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+            "commentatorTierSimilarities": [
+                31.48,
+                39.3,
+                29.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During Peter's imprisonment, an angel visited him, accompanied by a radiant light. This light, which likely only Peter could see, served as a sign of divine intervention on his behalf. With a gentle strike to Peter's side, the angel woke him from his slumber, avoiding detection from the guards. Through this miraculous encounter, God displayed His power by loosening Peter's chains without arousing suspicion. This extraordinary event reminds us of God's unwavering care for His people, even in the darkest of times.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8739214117813088,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                30.24,
+                41.91,
+                27.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the prison, an angel appeared to Peter, accompanied by a radiant light which expressed the unexpected nature of the visit. The angel gently struck Peter on the side to wake him from his deep sleep without alerting the guards. In an amazing display of divine power, Peter's chains fell off, demonstrating God's ability to deliver His faithful servants. This extraordinary event highlights God's watchful care for His people, even in moments when they are least aware of His presence. Blessed is the providence of the Lord.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.8146421084140352,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+            "commentatorTierSimilarities": [
+                29.72,
+                41.28,
+                29.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During Peter's imprisonment, an angel appeared in Luke's usual manner, with a radiant light surrounding him. The light accompanied the angel, signifying the unexpected nature of the visit. The angel touched Peter's side to awaken him gently without arousing the guards. With God's divine power, Peter's chains fell off, symbolizing the ease with which God delivers His followers from danger. This extraordinary event reveals God's deeply caring nature and His ability to provide miraculous deliverance, even in the darkest and most challenging circumstances.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8483810712709943,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.8,
+            "commentatorTierSimilarities": [
+                32.71,
+                39.53,
+                27.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

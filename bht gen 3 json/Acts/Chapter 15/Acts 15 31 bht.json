@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:31:59",
+    "verseRef": "Acts 15:31",
+    "bestBHT": {
+        "bht": "The believers rejoiced greatly at the exhortation, recognizing the wisdom in the decision that went against the imposition of the Mosaic law on Gentiles. Their joyful response demonstrated their conviction that it was not a weak compromise but a glorious victory for the freedom of Gentile believers. The consolation and exhortation in the letter brought them comfort and encouragement. The peaceful and conciliatory spirit of the first Christian council served as a model for future assemblies. This decree removed a barrier, allowing the Church to advance beyond the boundaries of Judaism, fulfilling the vision of a worldwide Church.",
+        "wordCount": 98,
+        "quoteTokenProportion": 30.88,
+        "qualityScore": 1.667715403192114,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+        "commentatorTierSimilarities": [
+            22.95,
+            42.21,
+            34.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Rejoiced for the exhortation",
+            "wise in itself",
+            "contrary to the imposition"
+        ],
+        "Albert Barnes": [
+            "This closes the account of the first Christian council. It was conducted throughout on Christian principles; in a mild, kind, conciliatory spirit, and is a model for all similar assemblages.",
+            "How happy would it have been if this spirit had been possessed by all professedly Christian councils; if all had really sought the peace and harmony of the churches; if none had ever been convened to kindle the fires of persecution, or to rend and destroy the church of God!",
+            "They asserted no abstract right of such jurisdiction; they sought not to intermeddle with the case; they enjoined no future reference of such cases to them, to their successors, or to any ecclesiastical tribunal. They evidently regarded the churches as blessed with the most ample freedom, and contemplated no arrangement of a permanent character asserting a right to legislate on articles of faith, or to make laws for the direction of the Lord\u2019s freemen."
+        ],
+        "Marvin Vincent": [
+            "Consolation. See on Acts 9:31."
+        ],
+        "John Calvin": [
+            "But we must note, that there was no small matter of consolation therein, because, when they knew the consent of the apostles, they were all pacified.",
+            "Seeing there went a false report about, that all the apostles were against Paul and Barnabas, this same had shaken some who were too light of belief, many did stand in doubt...",
+            "Now, after that they see that the judgment of the first Church doth agree with the doctrine of Paul and Barnabas, they obtain that for which the children of God ought most to wish, that being established in the right faith, and being of one mind among themselves, they may with quiet minds have peace one with another."
+        ],
+        "Philip Schaff": [
+            "The consolation over which they rejoiced was not merely that a dispute which threatened such grave consequences was so happily terminated...",
+            "The Church in council had ruled that the Gentiles, if they accepted Christianity, were not to be subjected to the painful yoke of the Mosaic ritual and ordinances.",
+            "To those far-sighted men who hoped for a world-wide Church, the decree removed a bar which must effectually have hindered any advance on the part of the Church of Christ beyond the lines of Judaism."
+        ],
+        "Archibald T. Robertson": [
+            "They burst into exultant joy showing clearly that they did not consider it a weak compromise, but a glorious victory of Gentile liberty.",
+            "Consolation and exhortation run into one another in this word.",
+            "They rejoiced...showing clearly that they did not consider it a weak compromise, but a glorious victory of Gentile liberty."
+        ],
+        "John Gill": [
+            "They rejoiced for the consolation, or 'exhortation', as the word may be rendered, which was given them in the letter, to abstain from the above things, without being burdened with any other.",
+            "They rejoiced that there was such an agreement among the apostles, elders, and brethren at Jerusalem.",
+            "Above all, they rejoiced that they were freed from the burdensome yoke of the law, and that the controversy which had been raised among them, was likely to be ended, and to issue so well."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers rejoiced greatly upon receiving the exhortation, finding wisdom in the decision that went against the imposition of the Mosaic law on Gentiles. Their joy expressed their belief that it was not a weak compromise, but a glorious victory for the freedom of Gentile believers. The consolation and exhortation in the letter combined to bring them comfort and encouragement. The decision of the council was conducted in a spirit of peace and harmony, serving as a model for future Christian assemblies. This decree removed a barrier that hindered the advancement of the Church beyond the boundaries of Judaism, aligning with the hope of a worldwide Church. Ultimately, the believers celebrated that they were established in the right faith and unified in mind, which allowed them to live in peace with one another.",
+            "wordCount": 133,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 1.6900238706470443,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.54,
+            "commentatorTierSimilarities": [
+                22.15,
+                41.27,
+                36.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon receiving the exhortation, the believers burst into exultant joy as they saw the wisdom in the decision that went against the imposition of the Mosaic law on Gentiles. Their rejoicing showed that they considered it not as a weak compromise, but as a glorious victory for the freedom of Gentile believers. The combination of consolation and exhortation brought them comfort and encouragement, emphasizing the peaceful and harmonious spirit in which the first Christian council was conducted, serving as a model for future assemblies. This decree removed a barrier, allowing for the potential advancement of the Church beyond the boundaries of Judaism, aligning with the hope for a worldwide Church. Most importantly, the believers celebrated that they were established in the right faith and unified in mind, which enabled them to live in peace with one another.",
+            "wordCount": 137,
+            "quoteTokenProportion": 32.22,
+            "qualityScore": 1.7830588029362096,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                21.49,
+                41.18,
+                37.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers rejoiced greatly at the exhortation, recognizing the wisdom in the decision that went against the imposition of the Mosaic law on Gentiles. Their joyful response demonstrated their conviction that it was not a weak compromise but a glorious victory for the freedom of Gentile believers. The consolation and exhortation in the letter brought them comfort and encouragement. The peaceful and conciliatory spirit of the first Christian council served as a model for future assemblies. This decree removed a barrier, allowing the Church to advance beyond the boundaries of Judaism, fulfilling the vision of a worldwide Church.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.667715403192114,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                22.95,
+                42.21,
+                34.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers rejoiced greatly, considering the exhortation a glorious victory of Gentile liberty. Their joyful response demonstrated their conviction that the decision went beyond a weak compromise. The consolation and exhortation in the letter brought them comfort and encouragement, as the peaceful and conciliatory spirit of the first Christian council served as a model for future assemblies. The decree removed a barrier, allowing the Church to advance beyond Judaism's boundaries, fulfilling the hope for a worldwide Church. Ultimately, they celebrated being established in the right faith, enabling peace among believers.",
+            "wordCount": 91,
+            "quoteTokenProportion": 24.24,
+            "qualityScore": 1.654822852605659,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.37,
+            "commentatorTierSimilarities": [
+                24.88,
+                39.3,
+                35.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers rejoiced, considering the exhortation a glorious victory of Gentile liberty. Their joyful response revealed their conviction that it wasn't a weak compromise. The consolation and exhortation in the letter brought them comfort and encouragement. The decree removed a barrier, allowing the Church to advance beyond Judaism's boundaries, fulfilling the hope for a worldwide Church. Ultimately, they celebrated being established in the right faith, enabling peace among believers. The first Christian council's conciliatory spirit served as a model for future assemblies, seeking the peace and harmony of the churches.",
+            "wordCount": 93,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.6171095677001242,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.11,
+            "commentatorTierSimilarities": [
+                25.61,
+                38.87,
+                35.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

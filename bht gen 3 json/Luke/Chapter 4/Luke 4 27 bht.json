@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:15:06",
+    "verseRef": "Luke 4:27",
+    "bestBHT": {
+        "bht": "In the time of Elisha, there were many lepers in Israel, yet none of them were cleansed except for Naaman, the Syrian. Naaman, a heathen, was the lone leper who was healed by Elisha. He followed the prophet's instructions to dip himself seven times in the Jordan River and was miraculously cured of his leprosy. This story of Naaman's healing finds a parallel in the miracles performed by Jesus, such as the healing of the Syro-Phoenician woman and the ruler's son at Capernaum.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7318461966466372,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+        "commentatorTierSimilarities": [
+            39.91,
+            28.82,
+            31.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Many lepers - For an account of the leprosy\" ",
+            "Time of Eliseus\" ",
+            "Saving Naaman the Syrian"
+        ],
+        "Marvin Vincent": [
+            "Lepers. Wyc., renders meselis, the middle English word for a leper, and derived from misellus, a diminutive of the Latin miser, wretched."
+        ],
+        "Philip Schaff": [
+            "The miracles wrought by Elijah and Elisha in the cases referred to \u2018have a close parallelism with those of the Syro-Phoenician woman (Mark 7:26) and the ruler\u2019s son at Capernaum (John 4:46).\u2019",
+            "This early reference to blessing on the Gentiles would rejoice the heart of Theophilus.",
+            "Naaman the Syrian, see 2 Kings 5:1-19."
+        ],
+        "Archibald T. Robertson": [
+            "In the time of Elisha the prophet (\u03b5\u03c0 \u0395\u03bb\u03b9\u03c3\u03b1\u03b9\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03bf\u03c5). This use of \u03b5\u03c0 with the genitive for 'in the time of' is a good Greek idiom.",
+            "The second illustration of the proverb is from the time of Elisha and is another heathen.",
+            "Naaman the Syrian (\u039d\u03b1\u03b9\u03bc\u03b1\u03bd \u03bf \u03a3\u03c8\u03c1\u03bf\u03c2). He was the lone leper that was cleansed by Elisha (2 Kings 5:1; 2 Kings 5:14)."
+        ],
+        "John Gill": [
+            "And many lepers were in Israel... it seems by this account, that it was very prevalent.",
+            "None of them was cleansed... saving Naaman, the Syrian: or but Naaman.",
+            "He was cleansed and cured of his leprosy, being ordered by Elisha to dip himself seven times in Jordan, which he did, and was healed."
+        ],
+        "John Wesley": [
+            "2Kings 5:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Lepers were often viewed as miserable and wretched individuals. In the time of the prophet Elisha, there were many lepers in Israel, yet none of them were cleansed except for Naaman the Syrian. Naaman, a heathen, was the lone leper who was healed by Elisha. He followed the prophet's instructions to dip himself seven times in the Jordan River and was miraculously cured of his leprosy. This story of Naaman's healing finds a parallel in the miracles performed by Jesus, such as the healing of the Syro-Phoenician woman and the ruler's son at Capernaum. The mention of blessing on the Gentiles would have been encouraging for Theophilus.",
+            "wordCount": 111,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.6315351142750658,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.59,
+            "commentatorTierSimilarities": [
+                41.03,
+                29.62,
+                29.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the time of Elisha, there were many lepers in Israel, yet none of them were cleansed except for Naaman, the Syrian. Naaman, a heathen, was the lone leper who was healed by Elisha. He followed the prophet's instructions to dip himself seven times in the Jordan River and was miraculously cured of his leprosy. This story of Naaman's healing finds a parallel in the miracles performed by Jesus, such as the healing of the Syro-Phoenician woman and the ruler's son at Capernaum.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7318461966466372,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                39.91,
+                28.82,
+                31.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the time of Elisha, there were many lepers in Israel, yet none of them were cleansed except for Naaman the Syrian. Naaman, a heathen, was the lone leper who was healed by Elisha. He followed the prophet's instructions to dip himself seven times in the Jordan River and was miraculously cured of his leprosy. This story of Naaman's healing finds a parallel in the miracles performed by Jesus, such as the healing of the Syro-Phoenician woman and the ruler's son at Capernaum.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7318461966466372,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                39.91,
+                28.82,
+                31.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Lepers were often viewed as miserable and wretched individuals. In the time of the prophet Elisha, there were many lepers in Israel, yet none of them were cleansed except for Naaman the Syrian. Naaman, a heathen, was the lone leper who was healed by Elisha. He followed the prophet's instructions to dip himself seven times in the Jordan River and was miraculously cured of his leprosy. This story of Naaman's healing finds a parallel in the miracles performed by Jesus, such as the healing of the Syro-Phoenician woman and the ruler's son at Capernaum.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6753714574635152,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                42.3,
+                28.21,
+                29.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the time of Elisha, many lepers in Israel remained unhealed, except for Naaman the Syrian. Naaman, a wretched and miserable leper, was cleansed by following Elisha's instruction to dip himself seven times in the Jordan River. This healing account parallels the miracles performed by Jesus, such as the healing of the Syro-Phoenician woman and the ruler's son in Capernaum. The mention of blessing on the Gentiles would have been encouraging for Theophilus, as it signifies God's extending His grace beyond Israel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.6408725825484205,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                41.31,
+                29.72,
+                28.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

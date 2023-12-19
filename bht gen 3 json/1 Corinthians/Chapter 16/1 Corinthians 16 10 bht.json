@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:14:31",
+    "verseRef": "1 Corinthians 16:10",
+    "bestBHT": {
+        "bht": "Timothy, who may have been timid and young, needed the Corinthians to treat him kindly and without fear. Paul asked the Corinthians to warmly receive Timothy because he was doing the Lord's work, just as Paul was. It was important for the church to support and protect their ministers, especially those who were dedicated to the edification of believers. Paul's request for Timothy to be received without fear demonstrated the genuine concern that the church should have for their pastors.",
+        "wordCount": 82,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.0202172188289893,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+        "commentatorTierSimilarities": [
+            36.98,
+            37.05,
+            25.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There must have been some special reason for this caution respecting Timothy.",
+            "His youth occurs to us, mentioned 1 Tim. iv. 12: but even that is not enough.",
+            "De Wette\u2019s conjecture may not be without foundation, that he was perhaps of a timid disposition."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He tells them how to treat him 'if' he should arrive.\" ",
+            "The undesigned coincidence between the Epistle and the history, and the clearing up of the meaning of the former (which does not mention the journey to Macedonia at all) by the latter, is a sure mark of genuineness.",
+            "without fear\u2014Referring perhaps to a nervous timidity in Timothy's character. His youth would add to this feeling, as well as his country, Lystra, likely to be despised in refined Corinth."
+        ],
+        "Albert Barnes": [
+            "May be with you without fear - Let him be received kindly and affectionately.",
+            "Paul, therefore, asks them to encourage him, to receive him kindly, and not to embarrass him.",
+            "For he worketh the work of the Lord - He is engaged in the service of the Lord; and he is worthy of your confidence, and worthy to be sustained by you."
+        ],
+        "John Calvin": [
+            "He wishes, therefore, that they should carefully take heed that no injury be done to him.",
+            "Hence we infer, that the Church of Christ ought to be concerned for the preservation of the lives of ministers.",
+            "In proportion as an individual is endowed with superior gifts for the edification of believers, and applies himself to it the more strenuously, his life ought to be so much dearer to us."
+        ],
+        "Philip Schaff": [
+            "Probably it was his youth, his delicate constitution, and possibly a certain gentleness and softness of character thereby engendered that dictated this kindly word, to encourage him should he come to Corinth.\" ",
+            "The apostle is anxious he should be well received, for he worketh the work of the Lord (Jesus), as I also do.\" ",
+            "See a similar fine testimony to Timothy in Philippians 2:19-22."
+        ],
+        "Archibald T. Robertson": [
+            "That he be without fear (\u03b9\u03bd\u03b1 \u03b1\u03c6\u03bf\u03b2\u03c9\u03c2 \u03b3\u03b5\u03bd\u03b7\u03c4\u03b1). Evidently he had reason to fear the treatment that Timothy might receive in Corinth as shown in 1 Corinthians 4:17-21. "
+        ],
+        "John Gill": [
+            "See that he may be with you without fear.",
+            "For he worketh the work of the Lord, as I also do.",
+            "Faithfully preached the same Gospel as the apostle did."
+        ],
+        "John Wesley": [
+            "Without fear \u2014 Of any one's despising him for his youth.",
+            "For he worketh the work of the Lord \u2014 The true ground of reverence to pastors.",
+            "Those who do so, none ought to despise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Timothy, who may have been timid and young, needed the Corinthians to treat him kindly and without fear. Paul asked the Corinthians to warmly receive Timothy because he was doing the Lord's work, just as Paul was. It was important for the church to support and protect their ministers, especially those who were dedicated to the edification of believers. Paul's request for Timothy to be received without fear demonstrated the genuine concern and care that the church should have for their pastors.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.013921003186092,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.3,
+            "commentatorTierSimilarities": [
+                36.62,
+                37.72,
+                25.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Timothy, who may have been timid and young, needed the Corinthians to treat him kindly and without fear. Paul asked the Corinthians to warmly receive Timothy because he was doing the Lord's work, just as Paul was. It was important for the church to support and protect their ministers, especially those who were dedicated to the edification of believers. Paul's request for Timothy to be received without fear demonstrated the genuine concern that the church should have for their pastors.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0202172188289893,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+            "commentatorTierSimilarities": [
+                36.98,
+                37.05,
+                25.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's caution regarding Timothy's reception suggests that there may have been some special reason for it. It is possible that Timothy's youth, timid disposition, and his country of origin contributed to this caution. The Corinthians were asked to treat him kindly and without fear, recognizing that he too was engaged in the work of the Lord. Supporting and protecting ministers, especially those dedicated to the edification of believers, should be a priority for the Church.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7742743800910907,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                37.01,
+                38.12,
+                24.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's concern for Timothy's reception in Corinth indicates that there must have been a reason for caution. Perhaps Timothy's youth and potential timidity were factors. The Corinthians were urged to receive him kindly and without fear, acknowledging that he was doing the work of the Lord. This highlights the importance of supporting and valuing ministers, especially those dedicated to the edification of believers. Ensuring their well-being is crucial for the growth and thriving of the Church.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6537267864436993,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "commentatorTierSimilarities": [
+                36.2,
+                36.9,
+                26.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's request for the Corinthians to receive Timothy without fear reveals his concern for him. It is suggested that Timothy's young age and, possibly, timid disposition could have influenced this caution. The Corinthians were encouraged to treat him with kindness and respect since he was engaged in the work of the Lord. This emphasizes the value of supporting and protecting ministers who are dedicated to nurturing believers. The well-being and acceptance of ministers should be a priority for the Church.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.752911023368649,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.63,
+            "commentatorTierSimilarities": [
+                34.18,
+                38.72,
+                27.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

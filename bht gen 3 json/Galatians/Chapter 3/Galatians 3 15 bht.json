@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:17:51",
+    "verseRef": "Galatians 3:15",
+    "bestBHT": {
+        "bht": "In Galatians 3:15, Paul uses the analogy of human covenants to stress the immutability of God's promises. He reasons that if even a human covenant, once ratified, cannot be set aside or altered by anyone other than the parties involved, the same principle holds true for God's covenant with Abraham. Legal Judaism has no power to modify the fundamental relationship established by the original promises. God's covenant remains inviolable, a testament to His righteous nature and everlasting faithfulness.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.1513257023277403,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.87,
+        "commentatorTierSimilarities": [
+            31.34,
+            39.76,
+            28.9
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I speak after the manner of men... I put myself for the time on a level with ordinary men in the world.\" ",
+            "A (mere) man's covenant, when ratified, no one notwithstanding sets aside, or supplements.\" ",
+            "Nothing is implied as to the nature of the additions, whether consistent or inconsistent with the original covenant: the simple fact that no additions are made, is enounced."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "None does so who acts in common equity. Much less would the righteous God do so.\" ",
+            "The promise is everlasting and more peculiarly belongs to God.",
+            "So legal Judaism could make no alteration in the fundamental relation between God and man, already established by the promises to Abraham."
+        ],
+        "Albert Barnes": [
+            "God cannot have two ways of justifying and saving people; and if he revealed a mode to Abraham, and that mode was by faith, then it could not be by the observance of the Law which was given so long after.",
+            "The main design of the argument and the illustration here is to show that the promise made to Abraham was by no means made void by the giving of the Law.",
+            "The idea is, that where such a covenant exists; where the faith of a man is solemnly pledged in this manner, no change can be made in the agreement. It is ratified, and firm, and final."
+        ],
+        "Marvin Vincent": [
+            "After the manner of men [\u03ba\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03bd]. According to human analogy; reasoning as men would reason in ordinary affairs.",
+            "Though a man's covenant yet no man disannulleth it.",
+            "Adds new specifications or conditions to the original covenant, which is contrary to law."
+        ],
+        "John Calvin": [
+            "By this expression he intended to put them to the blush.\" (14 words)",
+            "In demanding that the sacred covenant of God shall receive not less deference than is commonly yielded to ordinary human transactions.\" (20 words)",
+            "If human bargains be so firm that they can receive no addition, how much more must this covenant remain inviolable?\" (20 words)"
+        ],
+        "Philip Schaff": [
+            "There is a touch of tenderness in the appeal here, as if to make amends for the severity of the foregoing rebuke.",
+            "If even changeable men keep legal contracts sacred, how much more the unchangeable God.",
+            "The designation of the 'Old and New Testament' (instead of 'Covenant') arose from this mistranslation, and is especially improper in the case of the Old Covenant (since God cannot die), but has become so well established that it must be retained."
+        ],
+        "Archibald T. Robertson": [
+            "After the custom and practice of men, an illustration from life.",
+            "Both parties can by agreement cancel a contract, but not otherwise.",
+            "It was unlawful to add fresh clauses or specifications."
+        ],
+        "John Gill": [
+            "If a covenant made between men, or a man's will and testament, be confirmed, signed, sealed, and witnessed, in a proper manner, no other man can make them void, or take anything from them, or add anything to them, only the parties concerned by their own will and consent.",
+            "If this be the case among men, much less can the covenant of God... be ever disannulled, or be capable of receiving any addition thereunto.",
+            "The apostle seems to have a particular respect to that branch of the covenant and will of God, which regards the justification of men in his sight by the righteousness of Christ, to which the false teachers were for adding the works of the law."
+        ],
+        "John Wesley": [
+            "Though it be but a man's covenant, yet, if it be once legally confirmed, none - No, not the covenanter himself, unless something unforeseen occur.",
+            "Which cannot be the case with God.",
+            "Disannulleth, or addeth thereto \u2014 Any new conditions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Galatians 3:15, the apostle Paul, speaking in a way that ordinary people would understand, reinforces the permanence and inviolability of a covenant. He emphasizes that even a human covenant, once ratified, cannot be set aside or supplemented by anyone except the parties involved. This principle of equity applies even more so to the righteous God. Legal Judaism cannot alter the fundamental relationship established by the promises made to Abraham. Therefore, any attempt to add new conditions or specifications to the original covenant would be unlawful. The promise made to Abraham is everlasting and solely belongs to God. It is a reminder of God's faithfulness and the unchanging nature of His covenant.",
+            "wordCount": 112,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 2.0255592499399144,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.69,
+            "commentatorTierSimilarities": [
+                32.23,
+                39.84,
+                27.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Galatians 3:15, the apostle Paul, reasoning like an ordinary person, highlights the unchangeable nature of covenants. He uses the example of a human contract to illustrate that once a covenant is ratified, no one can set it aside or add to it. This principle holds true even more so for the righteous God. The promises made to Abraham by God are everlasting and cannot be altered or supplemented by legal Judaism. God's covenant remains unshakable, a testament to His faithfulness and His unique relationship with His people.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.034811555705514,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+            "commentatorTierSimilarities": [
+                31.05,
+                39.4,
+                29.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Galatians 3:15, the apostle Paul draws an analogy from human affairs to emphasize the unalterable nature of covenants. He argues that just as a ratified human covenant cannot be set aside or modified by anyone other than the parties involved, this principle applies even more so to the righteous God. The promises made to Abraham by God are everlasting and cannot be tampered with through the addition of new conditions or specifications. God's covenant remains firmly established, a testament to His unwavering faithfulness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.1036431027594524,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.29,
+            "commentatorTierSimilarities": [
+                29.56,
+                39.36,
+                31.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Galatians 3:15, Paul uses the analogy of human covenants to stress the immutability of God's promises. He reasons that if even a human covenant, once ratified, cannot be set aside or altered by anyone other than the parties involved, the same principle holds true for God's covenant with Abraham. Legal Judaism has no power to modify the fundamental relationship established by the original promises. God's covenant remains inviolable, a testament to His righteous nature and everlasting faithfulness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1513257023277403,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.87,
+            "commentatorTierSimilarities": [
+                31.34,
+                39.76,
+                28.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Galatians 3:15, Paul employs human analogies to emphasize the unchangeable nature of covenants. He presents the idea that once a covenant is ratified, no one besides the involved parties can set it aside or add to it. This principle applies even more so to the righteous God, whose promises to Abraham are everlasting and exclusive. Consequently, attempts to impose new conditions or alter the original covenant would be unlawful. God's covenant is firm and enduring, a testament to His faithfulness and unwavering commitment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9843722663047187,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                31.03,
+                39.51,
+                29.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

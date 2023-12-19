@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:33:36",
+    "verseRef": "Acts 19:15",
+    "bestBHT": {
+        "bht": "The response of the evil spirit affirms its recognition of Jesus and acquaintance with Paul, while questioning the identity and authority of those intervening. It distinguishes between the instinctive recognition of Jesus as a supreme power and the more intimate knowledge of Paul as a human agent. This exchange emphasizes the audacity of those lacking the necessary power or affiliation, underscoring the significance of understanding spiritual realms and possessing divine authority when confronting supernatural forces.",
+        "wordCount": 75,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 1.7894600710954571,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+        "commentatorTierSimilarities": [
+            22.39,
+            38.09,
+            39.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The narrative, from describing the nature of the attempt, passes to a single case in which it was tried."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15. the evil spirit answered, Jesus",
+            "\tI know\u2014\"recognize.\" ",
+            "\t",
+            "and Paul I know\u2014\"know",
+            "\tintimately,\" in contrast to them, whom he altogether disowns. ",
+            "\t",
+            "but who are ye?"
+        ],
+        "Albert Barnes": [
+            "Jesus I know - His power to cast out devils I know.\" ",
+            "Paul I know - Paul\u2019s power to cast out devils.\" ",
+            "But who are ye? - What power have you over evil spirits? By what right do you attempt to expel them?"
+        ],
+        "Marvin Vincent": [
+            "It is the difference between an instinctive perception or recognition of a supreme power and the more intimate knowledge of a human agent.",
+            "A divine mystery would invest Jesus, which the demon would feel, though he could not penetrate it.",
+            "His knowledge of a man would be greater, in his own estimation at least. The difference may be given roughly, thus: 'Jesus I recognize, and Paul I am acquainted with.'"
+        ],
+        "Philip Schaff": [
+            "Jesus, whom ye invoke, I know: I know Him well, and His authority, and His power; and Paul too, the servant of the Highest, I am acquainted with; but who are ye?\" ",
+            "The question was not one of ignorance, but of censure, because they arrogated to themselves what belonged not to them, and of contempt, because they considered not their own and their opponents' strength, but with rashness dared to contend with one more powerful, to whom it was mere play to overcome them.\" ",
+            "We live in a spiritual world; there are powers and agencies around us and within us; and in the case of mental disease especially, it is impossible to say whether the mere derangement of the physical organs or some spiritual disorder is the cause of the disease."
+        ],
+        "Archibald T. Robertson": [
+            "The (whom you mention) Jesus I recognize.\" ",
+            "The (whom you mentioned) Paul I am acquainted with.\" ",
+            "But you, who are you?"
+        ],
+        "John Gill": [
+            "Jesus I know; to be the Son of God and Messiah, and own that he has power of dispossessing spirits, of which there were many instances in the days of his flesh.",
+            "and Paul I know; and own to be a servant of the most high God, by whom miracles of this kind have been wrought.",
+            "but who are ye? you are not the disciples of Jesus, nor the servants of God, but the children of the devil, and have no power over us, but on the other hand are subject to us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 19:15, the evil spirit responds to those attempting to cast it out by saying, Jesus I know, and Paul I know, but who are you? This exchange represents the distinction between the evil spirit's limited recognition of Jesus and its more intimate knowledge of Paul. The demon acknowledges Jesus as a supreme power but remains unaware of the divine mystery surrounding Him. In contrast, the demon is acquainted with Paul, a human agent whose authority it acknowledges. This interaction reveals the audacity of those attempting to cast out the evil spirit without the necessary power or authority.",
+            "wordCount": 99,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.9035314272592205,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                20.16,
+                40.67,
+                39.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The evil spirit's response in Acts 19:15 demonstrates a distinction between its recognition of Jesus and its more intimate knowledge of Paul. While the demon acknowledges Jesus as a supreme power and recognizes Paul as a servant of the Highest, it questions the identity and authority of those attempting to cast it out. This exchange highlights the audacity of those without the necessary power or authority, emphasizing the importance of understanding spiritual realms and the significance of divine authority.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.7985302600367221,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                18.25,
+                39.88,
+                41.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The evil spirit in this passage declares, Jesus I know; I recognize Him and acknowledges Paul, saying, I am acquainted with him. However, it questions the authority of those confronting it, asking, But who are you? This encounter highlights the difference between the instinctive recognition of a supreme power like Jesus and the more intimate knowledge of a human agent like Paul. The response of the evil spirit emphasizes the importance of having the necessary authority and power when dealing with spiritual beings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7936380882207286,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+            "commentatorTierSimilarities": [
+                24.1,
+                39.33,
+                36.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The exchange in this verse reveals the evil spirit's recognition of Jesus and familiarity with Paul, contrasting it with its disdainful question towards those attempting to cast it out. The demon shows awareness of Jesus' power and Paul's authority, highlighting the audacity of those lacking the necessary credentials. This encounter underscores the importance of spiritual understanding, distinguishing between different levels of recognition and establishing the need for divine authority when engaging with supernatural forces.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.7335953850504047,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                21.48,
+                39.15,
+                39.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The response of the evil spirit affirms its recognition of Jesus and acquaintance with Paul, while questioning the identity and authority of those intervening. It distinguishes between the instinctive recognition of Jesus as a supreme power and the more intimate knowledge of Paul as a human agent. This exchange emphasizes the audacity of those lacking the necessary power or affiliation, underscoring the significance of understanding spiritual realms and possessing divine authority when confronting supernatural forces.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.7894600710954571,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+            "commentatorTierSimilarities": [
+                22.39,
+                38.09,
+                39.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

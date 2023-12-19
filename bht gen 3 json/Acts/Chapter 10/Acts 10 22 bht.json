@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:29:19",
+    "verseRef": "Acts 10:22",
+    "bestBHT": {
+        "bht": "Cornelius, a highly regarded centurion, was known for his righteousness and fear of God. He had a fine testimony among both the Gentiles and the Jews, which endeared him to the Jewish apostle. His servants, recognizing the divine nature of his calling, were sent to convey his desire to hear the words of Peter. Cornelius had been divinely warned, demonstrating the divine guidance in his conversion. His reputation and divine encounter highlight the remarkable circumstances surrounding his journey to faith.",
+        "wordCount": 80,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.654365260017805,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.35,
+        "commentatorTierSimilarities": [
+            30.09,
+            31.4,
+            38.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "fine testimony this from his own servants.",
+            "of good report among all the nation of the Jews\u2014specified, no doubt, to conciliate the favorable regard of the Jewish apostle.",
+            "to hear words of thee."
+        ],
+        "Albert Barnes": [
+            "To hear words of thee - To be instructed by thee."
+        ],
+        "Marvin Vincent": [
+            "Was warned [\u03b5\u03c7\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03c3\u03b8\u03b7] . See on Matthew 2:12."
+        ],
+        "John Calvin": [
+            "Cornelius\u2019 servants commend their master not ambitiously, or to the end they may flatter him, but that Peter may the less abhor his company.\" ",
+            "Cornelius could not have the Jews, who retained the worship of the true God alone, to be witnesses of his godliness, unless he had professed that he worshipped the God of Abraham with them.\" ",
+            "They may persuade him that which they go about, that all this matter is governed by the commandment of God, as if they should say, That he is not so much called by a mortal man as by God, who had so commanded by his angel."
+        ],
+        "Philip Schaff": [
+            "Cornelius was a \u2018just\u2019 man, a man of rectitude; and he was beloved, trusted, and respected, not merely by the Gentiles, but by \u2018the Jews,\u2019 and not only by some partial members of the Jewish community whom he had served, but by \u2018all the Jews.\u2019",
+            "The words \u2018from God\u2019 do not strictly and literally appear in the original: but their sense is implied in the verb, which is the same that Heathens would employ for the communication of a Divine oracle.",
+            "The \u2018word of hearing\u2019 was the instrumentality used for the saving of his soul, and for the instruction of the world through his conversion."
+        ],
+        "Archibald T. Robertson": [
+            "Righteous (\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c2). In the Jewish sense as in Luke 1:6; Luke 2:25.",
+            "Well reported of (\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c2). Present passive participle as in Acts 6:3. Cf. the other centurion in Luke 7:4.",
+            "Was warned (\u03b5\u03c7\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03c3\u03b8\u03b7). First aorist passive of \u03c7\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03b6\u03c9, old word for doing business, then consulting an oracle, and here of being divinely (word God not expressed) warned as in Matthew 2:12; Matthew 2:22; Luke 2:26; Hebrews 11:7. Then to be called or receive a name from one's business as in Acts 11:26; Romans 7:3."
+        ],
+        "John Gill": [
+            "A just man; before God, and in his sight, through the imputation of Christ's righteousness to him",
+            "and one that feareth God; the true God, the God of Israel, and worshipped him, both internally and externally",
+            "and of good report among all the nation of the Jews; that knew any thing of him"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Cornelius, a centurion, was well-regarded among both the Gentiles and the Jews. He was known for his righteousness and fear of God, and his reputation was so esteemed that even the Jews spoke highly of him. His servants, who had been sent to fetch Peter, testified to his character and relayed that Cornelius desired to hear the words of Peter. Cornelius had received a divine warning, a revelation, which led him to seek out Peter. This divine intervention marked the significance of the divine orchestration in Cornelius's conversion.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.534474467723522,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "commentatorTierSimilarities": [
+                27.78,
+                30.18,
+                42.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Cornelius, a highly regarded centurion, was known for his righteousness and fear of God. He had a fine testimony among both the Gentiles and the Jews, which endeared him to the Jewish apostle. His servants, recognizing the divine nature of his calling, were sent to convey his desire to hear the words of Peter. Cornelius had been divinely warned, demonstrating the divine guidance in his conversion. His reputation and divine encounter highlight the remarkable circumstances surrounding his journey to faith.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.654365260017805,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.35,
+            "commentatorTierSimilarities": [
+                30.09,
+                31.4,
+                38.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Cornelius, a centurion of good report among all the nation of the Jews, sought to hear words of Peter. His servants testified to his fine testimony and reputation, conveying his desire to be instructed by Peter. Cornelius, a just man who feared God, had received a divine warning, illustrating the divine intervention that led him on a path to faith. The significance of his character, reputation, and divine encounter all played a part in the remarkable circumstances of his conversion.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.543673140811702,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.67,
+            "commentatorTierSimilarities": [
+                27.32,
+                31.64,
+                41.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Cornelius, a centurion, was highly regarded among both the Gentiles and the Jews, being of good report and known for his righteousness and fear of God. Recognizing the divine nature of his calling, his servants testified to his fine testimony and conveyed his desire to hear the words of Peter. Cornelius had received a divine warning, a revelation, which marked the significance and divine orchestration in his journey to faith. The convergence of his reputation, divine encounter, and divine intervention led to the remarkable circumstances of his conversion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.6081477909053095,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.81,
+            "commentatorTierSimilarities": [
+                29.26,
+                30.99,
+                39.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Cornelius, a centurion esteemed by both Gentiles and Jews, was known for his righteousness and fear of God. His servants spoke of his fine testimony and conveyed his yearning to learn from Peter. Divinely warned, Cornelius experienced the divine guidance that influenced his conversion. His reputation, encounter, and the divine intervention all contributed to the extraordinary circumstances of his faith journey.",
+            "wordCount": 61,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 1.589990762000453,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.21,
+            "commentatorTierSimilarities": [
+                30.88,
+                28.89,
+                40.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

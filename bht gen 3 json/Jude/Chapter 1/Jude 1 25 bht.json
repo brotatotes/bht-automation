@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:15:56",
+    "verseRef": "Jude 25",
+    "bestBHT": {
+        "bht": "To the only God who is our Savior through Jesus Christ our Lord, be glory, majesty, might, and power before all time, and now, and to all the ages. Amen. We acknowledge that God is the great Author of our salvation, and therefore the word Savior is appropriately applied to Him. In all our affections and aspirations, may God be supreme, and in the face of sin and suffering in this world, may we eagerly anticipate the establishment of His dominion over all the earth. Let us also look forward to the time when God's reign will be fully realized over our own souls, free from sin and sorrow. Through Jesus Christ, who is truly God and the only Savior of His people, we give glory to the Father, the one who is crowned with glory and honor.",
+        "wordCount": 139,
+        "quoteTokenProportion": 41.56,
+        "qualityScore": 2.1057059218736454,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.36,
+        "commentatorTierSimilarities": [
+            23.51,
+            40.21,
+            36.29
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to the only God our Saviour through Jesus Christ our Lord... be glory, majesty, might, and power",
+            "before all time, and now, and to all the ages",
+            "Amen"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To the only God (the Father) who is our Savior through (that is, by the mediation of) Jesus Christ our Lord.",
+            "The sense is, To the only God who is our Savior through Jesus Christ our Lord.",
+            "The oldest manuscripts and Vulgate have 'before all the age,' that is, before all time as to the past: 'and now,' as to the present; 'and to all the ages,' that is, forever, as to the time to come."
+        ],
+        "Albert Barnes": [
+            "The word 'Saviour' may be appropriately applied to God as such, because he is the great Author of salvation.",
+            "In all our affections and aspirations, may God be supreme; in all the sin and woe which prevail here below, may we look forward with strong desire to the time when his dominion shall be set up over all the earth.",
+            "In all our own sins and sorrows, be it ours to look onward to the time when in a purer and happier world his reign may be set up over our own souls."
+        ],
+        "Marvin Vincent": [
+            "Both now and unto all the ages.\" ",
+            "The best texts add before all time.",
+            "A wanderer."
+        ],
+        "Archibald T. Robertson": [
+            "\u039c\u03b5\u03b3\u03b1\u03bb\u03bf\u03c3\u03c5\u03bd\u03b7 (Majesty) is a late LXX word, in N.T. only here and Hebrews 1:3; Hebrews 8:1.",
+            "Before all time (\u03c0\u03c1\u03bf \u03c0\u03b1\u03bd\u03c4\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03b9\u03c9\u03bd\u03bf\u03c2). Eternity behind us. See same idea in 1 Corinthians 2:7 \u03c0\u03c1\u03bf \u03c4\u03c9\u03bd \u03b1\u03b9\u03c9\u03bd\u03c9\u03bd.",
+            "For ever more (\u03b5\u03b9\u03c2 \u03c0\u03b1\u03bd\u03c4\u03b1\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b9\u03c9\u03bd\u03b1\u03c2). 'Unto all the ages.' All the future. As complete a statement of eternity as can be made in human language."
+        ],
+        "John Gill": [
+            "the Lord Jesus Christ, who is truly God, though not to the exclusion of the Father and Spirit; and is the wisdom of God, and the author of all wisdom, natural and spiritual; and is the only Saviour of his people\" ",
+            "which belongs to him as God, and which he has in his human nature, being crowned with glory, and honour, and enthroned and set down at the right hand of God\" ",
+            "Though the Alexandrian copy, and some others, and the Vulgate Latin version, read, 'to the only God our Saviour, by Jesus Christ our Lord,' and leave out the word 'wise'; and so they are to be understood of God the Father"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To the only God who is our Savior through Jesus Christ our Lord, be glory, majesty, might, and power before all time, and now, and to all the ages. Amen. We acknowledge that God is the great Author of our salvation, and therefore the word Savior is appropriately applied to Him. In all our affections and aspirations, may God be supreme, and in the face of sin and suffering in this world, may we eagerly anticipate the establishment of His dominion over all the earth. Let us also look forward to the time when God's reign will be fully realized over our own souls, free from sin and sorrow. Through Jesus Christ, who is truly God and the only Savior of His people, we give glory to the Father, the one who is crowned with glory and honor.",
+            "wordCount": 139,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 2.1057059218736454,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.36,
+            "commentatorTierSimilarities": [
+                23.51,
+                40.21,
+                36.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To the only God our Savior through Jesus Christ our Lord, be glory, majesty, might, and power before all time, and now, and to all the ages. Amen. God, as the great Author of salvation, deserves the title of Savior. In all our affections and aspirations, may we exalt God above all else, eagerly longing for the day when His dominion will extend over the entire earth. Let us also fix our gaze upon the future, when God's reign will be fully realized in the purity and joy of our own souls. Through Jesus Christ, who is truly God and the sole Savior, we offer glory to the Father, the one crowned with glory and honor.",
+            "wordCount": 117,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.0157960555480723,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                25.25,
+                37.87,
+                36.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To the only God our Savior through Jesus Christ our Lord, be glory, majesty, might, and power before all time, and now, and to all the ages. Amen. The word Savior appropriately applies to God as the great Author of salvation. In all our affections and aspirations, may God reign supreme, and in the face of sin and suffering, let us eagerly anticipate the establishment of His dominion over the earth. Let us also look forward to the time when His reign will be fully realized in our own souls, free from sin and sorrow. Glory be to God, for He is our Savior through Jesus Christ, who is both truly God and the only Savior. He is crowned with glory and honor as our Lord.",
+            "wordCount": 126,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.0341860918150383,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                24.32,
+                40.24,
+                35.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To the only God our Savior through Jesus Christ our Lord, be glory, majesty, might, and power before all time, and now, and to all the ages. Amen. God, as the great Author of salvation, deserves the title of Savior. In all our affections and aspirations, may we exalt God above all else, eagerly longing for the day when His dominion extends over the entire earth. Let us also look onward to the time when His reign fully encompasses our own souls, free from sin and sorrow. Through Jesus Christ, the true God and sole Savior, we give glory to the crowned Father.",
+            "wordCount": 103,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.0375635936181036,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+            "commentatorTierSimilarities": [
+                25.06,
+                39.49,
+                35.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To the only God our Savior through Jesus Christ our Lord, be glory, majesty, might, and power before all time, and now, and to all the ages. Amen. Let us acknowledge that God is the great Author of our salvation, deserving the title of Savior. May we exalt Him above all, eagerly anticipating the day when His dominion encompasses the entire earth. Additionally, let us direct our focus to the future, when His reign will be fully realized in our souls, free from sin and sorrow. Through Jesus Christ, the true God and sole Savior, we give glory to the crowned Father.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.995524305604295,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                25.84,
+                38.01,
+                36.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

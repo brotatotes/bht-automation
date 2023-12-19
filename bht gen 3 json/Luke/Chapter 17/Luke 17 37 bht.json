@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:21:18",
+    "verseRef": "Luke 17:37",
+    "bestBHT": {
+        "bht": "Wherever there is widespread moral and spiritual corruption, divine judgment is certain to arrive, akin to birds of prey drawn to carrion. This saying was vividly confirmed during the destruction of Jerusalem and has continued to prove true. Ultimately, its most significant manifestation will be on the final day of the world. The image of eagles or vultures flocking to a carcass is used to depict this phenomenon. This prophetic response points to the universality of judgment, echoed in Matthew 24:28.",
+        "wordCount": 80,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5786554982356211,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+        "commentatorTierSimilarities": [
+            29.81,
+            41.02,
+            29.17
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "As birds of prey scent out the carrion, so wherever is found a mass of incurable moral and spiritual corruption, there will be seen alighting the ministers of divine judgment.",
+            "a proverbial saying terrifically verified at the destruction of Jerusalem, and many times since",
+            "its most tremendous illustration will be at the world's final day."
+        ],
+        "Albert Barnes": [
+            "Where, Lord? - Where, or in what direction, shall these calamities come? The answer implies that it would be where there is the most 'guilt and wickedness.'\" ",
+            "Eagles flock where there is prey. So, said he, these armies will flock to the place where there is the most wickedness.\" ",
+            "By this their thoughts were directed at once to Jerusalem, the place of eminent wickedness, and the place, therefore, where these calamities might be expected to begin."
+        ],
+        "Marvin Vincent": [
+            "Eagles. See on Matthew 24:28. ===Luke 18:0 ",
+            "CHAPTER XVIII ",
+            "THE PARABLES OF THE UNJUST JUDGE AND THE PHARISEE AND PUBLICAN. ",
+            "Peculiar to Luke. 1 - 14."
+        ],
+        "Philip Schaff": [
+            "The answer of our Lord: where the body is, etc., proclaims this universality.",
+            "In Matthew 24:28, we find precisely the same thought, 'carcass' being substituted for 'body.'",
+            "There, however, a reference to the destruction of Jerusalem is probably included; here the second coming of Christ alone is spoken of."
+        ],
+        "Archibald T. Robertson": [
+            "The eagles (\u03bf \u03b1\u03b5\u03c4\u03bf). Or the vultures attracted by the carcass.",
+            "This proverb is quoted also in Matthew 24:28. See Job 39:27-30; Hebrews 1:8; Hosea 8:1.",
+            "Double compound (\u03b5\u03c0\u03b9-\u03c3\u03c5\u03bd-) in \u03b5\u03c0\u03b9-\u03c3\u03c5\u03bd-\u03b1\u03c7\u03b8\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1 completes the picture."
+        ],
+        "John Gill": [
+            "wheresoever the body is; the carcass of the Jewish nation, as at Jerusalem chiefly..."
+        ],
+        "John Wesley": [
+            "Matthew 24:28."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Wherever there is a mass of incurable moral and spiritual corruption, the ministers of divine judgment will alight like birds of prey scenting out carrion. This saying was truly realized during the destruction of Jerusalem and many times thereafter, and it will reach its most tremendous manifestation on the final day of the world. Eagles, or vultures attracted by the carcass, symbolize this phenomenon. The answer to the question of where these calamities will occur implies that they will be where the most guilt and wickedness reside, and Jerusalem was thought of as such a place. The universal nature of this judgment is highlighted by the statement that wherever the body is, the eagles will gather, mirroring the passage in Matthew 24:28. However, in this verse, the focus may be solely on the second coming of Christ rather than the destruction of Jerusalem.",
+            "wordCount": 142,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7484869410313852,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.48,
+            "commentatorTierSimilarities": [
+                25.68,
+                43.34,
+                30.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Wherever there is a mass of incurable moral and spiritual corruption, the ministers of divine judgment will alight like birds of prey, fulfilling the proverbial saying that was markedly seen during the destruction of Jerusalem and other times. This will culminate in its most tremendous manifestation on the world's final day. Eagles, or vultures attracted by the carcass, illustrate the phenomenon, emphasizing the presence of wickedness. The question of where these calamities will occur directs thoughts to Jerusalem, the place known for its notable wickedness. The answer reveals the universal nature of this judgment, highlighting that the eagles will gather wherever the body is found, echoing the same idea in Matthew 24:28.",
+            "wordCount": 112,
+            "quoteTokenProportion": 30.38,
+            "qualityScore": 1.671989138068947,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                27.58,
+                44.05,
+                28.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Wherever there is a mass of incurable moral and spiritual corruption, divine judgment is sure to follow. This was notably witnessed during the destruction of Jerusalem and other instances, emphasizing the proverbial saying's terrible verification. Ultimately, the most formidable demonstration will occur on the world's last day. Eagles, or vultures drawn to the carcass, serve as a vivid illustration. By stating that the eagles will gather wherever the body is found, the answer implies the universal reach of this judgment, a sentiment echoed in Matthew 24:28.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.5600461394383263,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.21,
+            "commentatorTierSimilarities": [
+                31.53,
+                40.7,
+                27.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Wherever there is widespread moral and spiritual corruption, divine judgment is certain to arrive, akin to birds of prey drawn to carrion. This saying was vividly confirmed during the destruction of Jerusalem and has continued to prove true. Ultimately, its most significant manifestation will be on the final day of the world. The image of eagles or vultures flocking to a carcass is used to depict this phenomenon. This prophetic response points to the universality of judgment, echoed in Matthew 24:28.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5786554982356211,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                29.81,
+                41.02,
+                29.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Wherever there is a mass of incurable moral and spiritual corruption, divine judgment is sure to follow. Eagles, or vultures attracted by the carcass, illustrate the phenomenon of judgment. The answer to where these calamities will occur implies that they will be where the most guilt and wickedness reside. This saying was vividly verified during the destruction of Jerusalem and will be most pronounced on the world's final day. The universal nature of this judgment is highlighted by the statement that wherever the body is, the eagles will gather, echoing the passage in Matthew 24:28.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7465076888871818,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "commentatorTierSimilarities": [
+                28.61,
+                42.69,
+                28.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "timestamp": "12-19-2023 16:21:05",
+    "verseRef": "Luke 18:27",
+    "bestBHT": {
+        "bht": "Take your stand 'beside' God and the impossible becomes possible. God can break the grip of gold on a man's life, but even Jesus failed with this young ruler. The impossible with men is indeed possible with God.",
+        "wordCount": 39,
+        "quoteTokenProportion": 51.61,
+        "qualityScore": 3.1732550235181485,
+        "qualityScoreNormalizedComparedToV2BHTs": 96.85,
+        "commentatorTierSimilarities": [
+            71.69,
+            0.0,
+            28.31
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "The impossible with men possible with God.\" ",
+            "Take your stand 'beside' God and the impossible becomes possible.\" ",
+            "God can break the grip of gold on a man's life, but even Jesus failed with this young ruler."
+        ],
+        "John Gill": [
+            "And he said,.... That is, Jesus, as the Syriac, Persic, and Ethiopic versions express it:",
+            "the things which are impossible with men, are possible with God;",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "Take your stand 'beside' God and the impossible becomes possible. God can break the grip of gold on a man's life, but even Jesus failed with this young ruler. The impossible with men is indeed possible with God.",
+            "wordCount": 39,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 3.1732550235181485,
+            "qualityScoreNormalizedComparedToV2BHTs": 96.85,
+            "commentatorTierSimilarities": [
+                71.69,
+                0.0,
+                28.31
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

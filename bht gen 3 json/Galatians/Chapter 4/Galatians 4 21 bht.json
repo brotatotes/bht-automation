@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:18:37",
+    "verseRef": "Galatians 4:21",
+    "bestBHT": {
+        "bht": "Do you not hear the law, do you not listen to that which the law imparts? The law itself sends you away from itself to Christ, highlighting the folly of desiring to be under its yoke. The law, constantly read in your synagogues, is a reminder of the bondage it brings compared to the freedom of the gospel. So, heed the lesson of the law: consider the difference between servitude and freedom, and choose wisely.",
+        "wordCount": 75,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.5030729116972186,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.57,
+        "commentatorTierSimilarities": [
+            32.34,
+            34.22,
+            33.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21.] do ye not hear (heed) the law, listen to that which the law imparts and impresses on its hearers?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Madly courting that which must condemn and ruin you.",
+            "The law itself sends you away from itself to Christ.",
+            "History, if properly understood, contains in its complicated phenomena, simple and continually recurring divine laws."
+        ],
+        "Albert Barnes": [
+            "The design it is not difficult to understand. It is to show the effect of being under the bondage or servitude of the Jewish law, compared with the freedom which the gospel imparts.",
+            "The one was the case of Hagar and her son. The effect of bondage was well illustrated there.",
+            "He uses it simply, as showing the difference between servitude and freedom, and as a striking illustration of the nature of the bondage to the Jewish law, and of the freedom of the gospel."
+        ],
+        "Marvin Vincent": [
+            "Tell me. He plunges into the subject without introduction, and with a direct appeal.",
+            "Hear [\u03b1\u03ba\u03bf\u03c5\u03b5\u03c4\u03b5]. (Do ye not) hear what the law really says : listen to it so as to catch its real meaning?",
+            "The law [\u03c4\u03bf\u03bd \u03bd\u03bf\u03bc\u03bf\u03bd]. In a different sense, referring to the O. T."
+        ],
+        "John Calvin": [
+            "To be under the law, signifies here, to come under the yoke of the law, on the condition that God will act toward you according to the covenant of the law, and that you, in return, bind yourself to keep the law.\" ",
+            "In any other sense than this, all believers are under the law.",
+            "The apostle treats, as we have already said, of the law with its appendages."
+        ],
+        "Philip Schaff": [
+            "Tell me. This makes the question more urgent and compels the Judaizing Galatians to an evangelical answer.",
+            "Ye who are so anxious to live under the power and authority of the legal dispensation, will ye not listen to the lesson of the book of the Law?",
+            "Is not the Law (which ought to convince you of your error) constantly read in your synagogues?"
+        ],
+        "Archibald T. Robertson": [
+            "That desire to be under the law... Paul views them as on the point of surrender to legalism.\" ",
+            "He makes a surprising turn, but a legitimate one for the legalists by an allegorical use of Scripture."
+        ],
+        "John Gill": [
+            "they desired to be under it as a covenant of works, which was downright madness and folly to the last degree",
+            "they wanted to be under the yoke of the law, which is a yoke of bondage, an insupportable one",
+            "referring them, as Christ did the Jews, to the Scriptures, to the writings of Moses, and to read, hear, and observe what is in them, since they professed so great a regard to the law"
+        ],
+        "John Wesley": [
+            "Do ye not hear the law \u2014 Regard what it says."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do you not hear the law, do you not listen to the message it imparts? The law itself warns you against seeking what will condemn and ruin you. Instead, the law directs you towards Christ and the freedom found in the gospel. History, when properly understood, reveals the recurring divine laws that govern our lives. So, tell me, will you not pay attention to the lesson of the law? Will you not consider the difference between servitude and freedom, between bondage and the liberation of the gospel? Indeed, the law is constantly read in your synagogues. Regard what it says and choose wisely.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1932029512999867,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.26,
+            "commentatorTierSimilarities": [
+                33.28,
+                32.67,
+                34.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do you not hear the law, do you not listen to the message it imparts? The law itself warns you against seeking what will condemn and ruin you. Instead, the law directs you towards Christ and the freedom found in the gospel. So, tell me, will you not pay attention to the lesson of the law? Will you not consider the difference between servitude and freedom, between bondage and the liberation of the gospel? Regard what it says and choose wisely.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 2.19358551490739,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.28,
+            "commentatorTierSimilarities": [
+                33.03,
+                32.74,
+                34.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do you not hear the law, do you not listen to the message it imparts? The law itself sends you away from itself to Christ, highlighting the folly of desiring to be under its yoke. Instead, it is the gospel that brings freedom and liberation. The law serves as a constant reminder, constantly read in your synagogues, calling you to observe and heed its teachings. So, pay attention to what the law truly says and make a wise choice.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2350286838306217,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.66,
+            "commentatorTierSimilarities": [
+                35.21,
+                31.99,
+                32.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do you not hear the law, do you not listen to that which it imparts? The law itself sends you away from itself to Christ, highlighting the folly of desiring to be under its yoke. The law, constantly read in your synagogues, is a reminder of the bondage it brings compared to the freedom of the gospel. So, heed the lesson of the law: consider the difference between servitude and freedom, and choose wisely.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.479416088525019,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.78,
+            "commentatorTierSimilarities": [
+                32.34,
+                34.5,
+                33.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do you not hear the law, do you not listen to that which the law imparts? The law itself sends you away from itself to Christ, highlighting the folly of desiring to be under its yoke. The law, constantly read in your synagogues, is a reminder of the bondage it brings compared to the freedom of the gospel. So, heed the lesson of the law: consider the difference between servitude and freedom, and choose wisely.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.5030729116972186,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.57,
+            "commentatorTierSimilarities": [
+                32.34,
+                34.22,
+                33.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

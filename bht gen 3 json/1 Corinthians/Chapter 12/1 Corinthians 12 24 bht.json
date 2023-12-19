@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:12:33",
+    "verseRef": "1 Corinthians 12:24",
+    "bestBHT": {
+        "bht": "God, in His wisdom, has skillfully tempered and mixed together the various parts of the body, ensuring a balance and mutual compensation. He bestows greater honor upon the parts that appear to lack importance, recognizing their vital role in the body's functioning. This harmonious unity reflects God's intention for His creation and His rejection of the belief that physical organs are degrading. Our instinct to honor the unseen organs of life is a true recognition of the intricate design and purpose of the body as God's temple.",
+        "wordCount": 90,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 1.9109874489597245,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+        "commentatorTierSimilarities": [
+            26.48,
+            41.47,
+            32.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The comely parts are in some measure neglected, not needing to be covered or adorned.",
+            "God (at the creation) tempered the body together (compounded it of members on a principle of mutual compensation).",
+            "To the deficient part giving more abundant honour."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. tempered . . . together\u2014on",
+            "\tthe principle of mutual compensation. ",
+            "\t",
+            "to that part which lacked\u2014to",
+            "\tthe deficient part [ALFORD],",
+            "\t(1 Corinthians 12:23)."
+        ],
+        "Albert Barnes": [
+            "But God hath tempered the body together... He has formed a strict union; he has made one part dependent on another, and necessary to the harmony and proper action of another.\" ",
+            "Every part is useful, and all are suited to the harmonious action of the whole... those parts which are less comely by nature should be more adorned and guarded by apparel.\" ",
+            "Having given more abundant honour ... By making it necessary that we should labor in order to procure for it the needful clothing... we bestow more abundant honor upon those parts of the body."
+        ],
+        "Marvin Vincent": [
+            "Tempered together [\u03c3\u03c5\u03bd\u03b5\u03ba\u03c1\u03b1\u03c3\u03b5\u03bd]. Only here and Hebrews 4:2. Lit., mixed together. Here the idea of mutual adjustment is added to that of mingling.\" ",
+            "Compare Plato on God's creating the soul and body. 'He made her out of the following elements, and on this manner. Of the unchangeable and indivisible, and also of the divisible and corporeal He made (xunekerasato compounded) a third sort of intermediate essence, partaking of the same and of the other, or diverse'.",
+            "See the whole passage, 'Timaeus,' 35."
+        ],
+        "John Calvin": [
+            "God has appointed this symmetry, and that with a view to the advantage of the whole body, because it cannot otherwise maintain its standing.",
+            "This inclination has been implanted in them by God because without this adjustment a schism in the body would quickly break out.",
+            "Hence it appears that the body is not merely shattered, and the order of nature perverted, but the authority of God is openly set at naught whenever anyone assumes more than belongs to him."
+        ],
+        "Archibald T. Robertson": [
+            "Paul rejects the idea of the later Gnostics that matter is evil and the physical organs degrading.",
+            "He gives a noble picture of the body with its wonderful organs planned to be the temple of God's Spirit.",
+            "It is a true instinct that gives superior honour to the unseen organs of life."
+        ],
+        "John Gill": [
+            "such as are blessed with the bounties of nature and providence, with the gifts of the Holy Spirit...have no need of such a covering, as the former have, to hide and conceal them from the world.",
+            "God hath tempered the body together...constituted it in such an order, mixed and united all its parts in such a manner, as that they are all beneficial to each other.",
+            "such is the temperament and constitution of the church, having mixed rich and poor persons, of greater and lesser gifts, together, for mutual good."
+        ],
+        "John Wesley": [
+            "Giving more abundant honour to that which lacked \u2014 As being cared for and served by the noblest parts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, in His wisdom, has intricately formed the body, perfectly balancing each part and compensating for any deficiencies. He has designed the body with a harmony and interdependence that requires every part to fulfill its role. The parts that may appear less attractive are to be esteemed and honored, as they are crucial to the overall functioning of the body. This concept of mutual adjustment is emphasized, highlighting the importance of unity within the body of Christ. God's intention is not to degrade the physical, but to create a beautiful temple for His Spirit.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.7692064914493357,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                23.12,
+                46.04,
+                30.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God, in His wisdom, has perfectly compounded and mixed together the different parts of the body, carefully compensating for any deficiencies. Each part, regardless of its appearance, plays a vital role in the overall functioning of the body. This mutual adjustment and harmony reflects God's design and intention for His church. By giving more abundant honor to the parts that may lack, God demonstrates His care and concern for every individual within the body. This reminds us to appreciate the unseen and seemingly less significant aspects of the body which contribute to its proper functioning.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.84296414610007,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                21.61,
+                43.7,
+                34.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God, in His wisdom, has skillfully tempered and mixed together the various parts of the body, ensuring a balance and mutual compensation. He bestows greater honor upon the parts that appear to lack importance, recognizing their vital role in the body's functioning. This harmonious unity reflects God's intention for His creation and His rejection of the belief that physical organs are degrading. Our instinct to honor the unseen organs of life is a true recognition of the intricate design and purpose of the body as God's temple.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.9109874489597245,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                26.48,
+                41.47,
+                32.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, in His wisdom, has carefully tempered and mingled the different parts of the body, compensating for any deficiencies and ensuring mutual adjustment. Each part plays a crucial role and deserves honor, even if it may not appear comely. This principle of the body's interdependence reflects God's design for His church, where rich and poor, greater and lesser gifts, are mixed together for mutual benefit. This reminds us to value and appreciate the diverse contributions of all members, as they collectively form a harmonious whole.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.7826748752828392,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+            "commentatorTierSimilarities": [
+                21.43,
+                43.39,
+                35.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God has skillfully blended and mixed the various parts of the body, compensating for any deficiencies, and fostering mutual adjustment. Each part, however comely or comely not, is essential to the body's functioning and deserves honor. This interdependence reflects God's design for the church, where rich and poor, greater and lesser gifts, are mixed for mutual good. Recognizing the importance of every individual and their unique contributions is key to maintaining the unity and harmony of the body.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.8089135733853103,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                20.29,
+                44.92,
+                34.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

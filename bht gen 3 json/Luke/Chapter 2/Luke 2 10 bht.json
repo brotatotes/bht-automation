@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:13:56",
+    "verseRef": "Luke 2:10",
+    "bestBHT": {
+        "bht": "The angel's message of joy is the first announcement, preceding the arrival of the Gentiles. Their proclamation of peace on earth is a gospel message that brings great joy to the people of Israel. This good news from God is a cause for celebration, as it signifies God's reconciliation with humanity and the restoration of joy. The birth of Christ displays the amazing love and good will of God, and it is through Him that we experience the true and lasting joy.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 1.833968541275476,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+        "commentatorTierSimilarities": [
+            23.29,
+            36.92,
+            39.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To them was the first message of joy, before the bursting in of the Gentiles.",
+            "The one angel gives the prefatory announcement, before the multitude of the heavenly host burst in.",
+            "Their proclamation of 'peace on earth'."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. to all people\u2014\"to the",
+            "\twhole people,\" that is, of Israel; to be by them afterwards",
+            "\topened up to the whole world. (See on :-)."
+        ],
+        "Marvin Vincent": [
+            "I evangelize to you a great joy.\" ",
+            "Of a class or character which, etc.",
+            "The article pointing specially to the people of Israel."
+        ],
+        "John Calvin": [
+            "When men hear this single word, that God is reconciled to them, it not only raises up those who are fallen down, but restores those who were ruined, and recalls them from death to life.",
+            "The commencement of solid joy is, to perceive the fatherly love of God toward us, which alone gives tranquillity to our minds.",
+            "Let us learn to be so delighted with Christ alone, that the perception of his grace may overcome, and at length remove from us, all the distresses of the flesh."
+        ],
+        "Philip Schaff": [
+            "Be not afraid... I bring you glad tidings of great joy.\" ",
+            "The message is a gospel message, a joyous message; therefore they should not be afraid.",
+            "To all the people, i.e., of Israel. First of all to them, then through them to the Gentiles."
+        ],
+        "Archibald T. Robertson": [
+            "I bring you good tidings of great joy (\u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b6\u03bf\u03bc\u03b1 \u03c5\u03bc\u03b9\u03bd \u03c7\u03b1\u03c1\u03b1\u03bd \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7\u03bd).",
+            "The active verb \u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b6\u03c9 occurs only in late Greek writers, LXX, a few papyri examples, and the N.T.",
+            "It is to Paul's influence that we owe their frequency and popularity in the language of Christendom."
+        ],
+        "John Gill": [
+            "For he was not a messenger of bad, but of good tidings.",
+            "Such the birth of Christ of a virgin is: in which the good will and amazing love of God to man are displayed.",
+            "The incarnation of Christ, with all the benefits resulting from it, is the cause of great joy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The angel's message of joy in Luke 2:10 is the first proclamation of the good news before it is spread to the Gentiles. The angel's announcement of peace on earth is a gospel message that brings great joy, particularly to the people of Israel. This joyous message is brought by the angel as good tidings from God. When we hear that God is reconciled to us, it not only raises us up and restores us, but it also brings solid and tranquil joy to our minds. The birth of Christ, through the amazing love and good will of God, is the cause of this great joy that we experience.",
+            "wordCount": 110,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8241156740970959,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "commentatorTierSimilarities": [
+                20.34,
+                35.94,
+                43.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The angel's message of joy is the first announcement, preceding the arrival of the Gentiles. Their proclamation of peace on earth is a gospel message that brings great joy to the people of Israel. This good news from God is a cause for celebration, as it signifies God's reconciliation with humanity and the restoration of joy. The birth of Christ displays the amazing love and good will of God, and it is through Him that we experience the true and lasting joy.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.833968541275476,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+            "commentatorTierSimilarities": [
+                23.29,
+                36.92,
+                39.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angel's message of joy, proclaiming peace on earth, is the first announcement that brings great joy to the people of Israel. This gospel message, bringing good tidings from God, is a cause for celebration. It signifies God's reconciliation with humanity and the restoration of solid and tranquil joy to our minds. The birth of Christ, the incarnation of God's amazing love and good will, is the source of this deep joy that overcomes all distresses of the flesh.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.7612462676836609,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+            "commentatorTierSimilarities": [
+                19.93,
+                35.01,
+                45.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angel's message of joy, proclaiming peace on earth, is the first announcement of the gospel that brings great joy to the people of Israel. This good news, from God to humanity, is a cause for celebration and signifies God's reconciliation with us. The birth of Christ, the incarnation of God's love and good will, is the reason for this profound joy. It not only raises up those who have fallen, but also restores and brings tranquility to our minds.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6440313508566886,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                18.15,
+                33.32,
+                48.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel's message of joy, proclaiming peace on earth, is the first announcement of the gospel that brings great joy to the people of Israel. This good news, from God to humanity, is a cause for celebration and signifies God's reconciliation with us. The birth of Christ, the incarnation of God's love and good will, is the reason for this profound joy. It not only raises up those who have fallen, but also restores and brings tranquility to our minds.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6440313508566886,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                18.15,
+                33.32,
+                48.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

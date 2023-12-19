@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:09:01",
+    "verseRef": "1 Corinthians 8:7",
+    "bestBHT": {
+        "bht": "In addressing the issue of eating meat that had been offered to idols, Paul acknowledges that not all believers possess the same level of knowledge. The Gentile converts, who had been steeped in idol worship, still regarded the offerings as made to something real and felt eating such meat was sinful. It is essential for those with greater knowledge to consider the weaker brethren, not causing them to stumble or defile their conscience. Even if lacking knowledge, one must act according to their conscience as a sensitive gauge to their spiritual condition.",
+        "wordCount": 92,
+        "quoteTokenProportion": 44.93,
+        "qualityScore": 2.4099098068121787,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.47,
+        "commentatorTierSimilarities": [
+            35.08,
+            33.1,
+            31.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But not in all is the knowledge...some through their consciousness to this day, of the idol...eat it as offered to an idol; and their conscience being weak is defiled.",
+            "By the expression even until now, it is shown that these weak ones must have belonged to the Gentile part of the Corinthian church.",
+            "Had they been Jewish converts, it would not have been consciousness of the idol which would have troubled them, but apparent violation of the Mosaic law."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Some Gentile Christians, whether from old association of ideas or misdirected conscience, when they ate such meats, ate them with some feeling as if the idol were something real.",
+            "If they ate it unconscious at the time that it had been offered to idols, there would be no defilement of conscience. But conscious of what it was, and not having such knowledge as other Corinthians boasted of, they by eating them sin against conscience.",
+            "It was on the ground of Christian expediency, not to cause a stumbling-block to 'weak' brethren, that the Jerusalem decree against partaking of such meats (though indifferent in themselves) was passed."
+        ],
+        "Albert Barnes": [
+            "There are some who are weak and ignorant; who have still remains of pagan opinions and superstitious feelings.",
+            "It is not to be supposed that converted people would regard idols as the only God; but they might suppose that they were intermediate beings, good or bad angels, and that it was proper to seek their favor or avert their wrath.",
+            "The general reply, therefore, of Paul to the first argument in favor of partaking of the meat offered in sacrifice to idols is, that all Christians have not full knowledge on the subject; and that to partake of that might lead them into the sin of idolatry, and corrupt and destroy their souls."
+        ],
+        "Marvin Vincent": [
+            "Their long habit previous to their conversion made them still regard their offering as made to something really existent, and consequently to feel that it was sinful to eat of meat thus offered.",
+            "Their long habit previous to their conversion made them still regard their offering as made to something really existent...",
+            "Is defiled [\u03bc\u03bf\u03bb\u03c5\u03bd\u03b5\u03c4\u03b1\u03b9]."
+        ],
+        "John Calvin": [
+            "Your actions ought to be regulated not merely according to your knowledge, but also according to their ignorance.",
+            "Hence the truth of the common saying, that 'those build for hell, who build against their conscience.'",
+            "For as the excellence of actions depends on the fear of God and integrity of conscience, so, on the other hand, there is no action, that is so good in appearance, as not to be polluted by a corrupt affection of the mind."
+        ],
+        "Philip Schaff": [
+            "The 'weak' here are Gentile converts who, being steeped in idolatry up to the time of their conversion, were unable as yet to shake off the impression that the idol, which by them had so long been regarded as a god, had after all something divine in it.\" ",
+            "When such weak brethren saw their stronger-minded brethren openly partaking of meat known to have been sacrificed to an idol, they would be emboldened by their example to do the same, while still regarding the act as idolatrous, and so would defile their conscience.",
+            "The above reading is decidedly better supported, and it is the text of Griesbach. Lachmann, Tregelles, and Tischendorf."
+        ],
+        "Archibald T. Robertson": [
+            "Knowledge has to overcome inheritance and environment, prejudice, fear, and many other hindrances.\" ",
+            "It is the force of habit that still grips them when they eat such meat. They eat it 'as an idol sacrifice,' though they no longer believe in idols. The idol-taint clings in their minds to this meat.",
+            "Even if unenlightened, one must act according to his conscience, a sensitive gauge to one's spiritual condition."
+        ],
+        "John Gill": [
+            "It became those who had more knowledge to be careful how they laid stumblingblocks in the way of such, to the prejudice of their consciences.",
+            "Though they had been so long converted from Heathenism to Christianity, yet had such an opinion of an idol, that they really thought in their own consciences, that there were something in an idol, they could not well tell what, that defiled meats offered to it, and made them unlawful to be eaten.",
+            "Because such act against the dictates of their own conscience; which, though weak, is binding, and sinned against, defiles."
+        ],
+        "John Wesley": [
+            "Some eat, with consciousness of the idol \u2014 That is, fancying it is something, and that it makes the meat unlawful to be eaten.",
+            "And their conscience, being weak \u2014 Not rightly informed.",
+            "Is defiled \u2014 contracts guilt by doing it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 8:7, Paul addresses the issue of eating meat that had been offered to idols. He acknowledges that not everyone has the same level of knowledge or understanding, particularly the Gentile converts who had grown up in a culture of idol worship. Their long-standing association with idols made them still regard the offerings as made to something real, causing them to feel that eating such meat was sinful. It is important for those who have more knowledge and freedom in Christ to be considerate of their weaker brothers and sisters, not causing them to stumble or defile their conscience. Even if someone lacks knowledge, it is crucial to act according to their conscience, as it is a sensitive gauge to one's spiritual condition.",
+            "wordCount": 125,
+            "quoteTokenProportion": 44.05,
+            "qualityScore": 2.2975931389795488,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.74,
+            "commentatorTierSimilarities": [
+                36.25,
+                34.0,
+                29.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In addressing the issue of eating meat that had been offered to idols, Paul acknowledges that not all believers possess the same level of knowledge. The Gentile converts, who had been steeped in idol worship, still regarded the offerings as made to something real and felt eating such meat was sinful. It is essential for those with greater knowledge to consider the weaker brethren, not causing them to stumble or defile their conscience. Even if lacking knowledge, one must act according to their conscience as a sensitive gauge to their spiritual condition.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.4099098068121787,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.47,
+            "commentatorTierSimilarities": [
+                35.08,
+                33.1,
+                31.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In addressing the issue of eating meat offered to idols, Paul acknowledges that not all believers possess the same knowledge. The Gentile converts, steeped in idolatry before their conversion, still regarded the offerings as made to something real and felt eating such meat was sinful. It is crucial for those with greater knowledge to consider the weaker brethren, not causing them to stumble or defile their conscience. Even if lacking knowledge, one must act according to their conscience, a sensitive gauge to their spiritual condition.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.3829790729330016,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.57,
+            "commentatorTierSimilarities": [
+                35.18,
+                32.83,
+                32.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In addressing the issue of eating meat offered to idols, Paul recognizes the varying levels of knowledge among believers. The Gentile converts, having come out of idolatry, still regarded the offerings as made to something real, leading them to see eating such meat as sinful. The well-informed believers should be mindful not to cause their weaker brothers and sisters to stumble or defile their conscience. Even if lacking knowledge, one's actions should align with their conscience, for it serves as a sensitive indicator of their spiritual condition.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.3081338740054074,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.09,
+            "commentatorTierSimilarities": [
+                35.07,
+                33.85,
+                31.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In addressing the issue of eating meat offered to idols, Paul acknowledges the differences in knowledge among believers. The Gentile converts, who were steeped in idolatry, still believed the meat had a connection to idols. The more knowledgeable believers should be considerate of their weaker brethren, avoiding actions that could lead them to stumble or defile their conscience. Even if lacking knowledge, one should act in accordance with their conscience, as it serves as a sensitive gauge of their spiritual condition.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.2886878447618955,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.44,
+            "commentatorTierSimilarities": [
+                34.95,
+                33.89,
+                31.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

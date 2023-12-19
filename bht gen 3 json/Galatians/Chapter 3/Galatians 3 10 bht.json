@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:16:49",
+    "verseRef": "Galatians 3:10",
+    "bestBHT": {
+        "bht": "Those relying on self-efforts to follow the law cannot participate in the blessing, for they are under a curse. Perfect and continual obedience, that no one can render, is demanded by the law. This curse represents alienation from God due to violation of His law, with accompanying penalties in this life or the next. Those who seek justification through works of the law expose themselves to the penalty and curse, for the law demands complete compliance. All individuals are condemned by the law, rendering the quest for blessings futile.",
+        "wordCount": 90,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 2.5438212541923937,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.92,
+        "commentatorTierSimilarities": [
+            25.96,
+            43.29,
+            30.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They that are of the works of the law cannot be sharers in the blessing, for they are accursed.",
+            "It being understood that they do not and cannot continue in all things which are written in the book of the law, to do them.",
+            "See this expanded in Rom. iii. 9-20."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They who depend on the works of the law cannot share the blessing, for they are under the curse.",
+            "PERFECT obedience is required by the words, 'in all things.' CONTINUAL obedience by the word, 'continueth.'",
+            "No man renders this obedience."
+        ],
+        "Albert Barnes": [
+            "From the nature of the case, it is impossible to be justified by the works of the Law, since, under all circumstances of obedience which we can render, we are still left with its heavy curse resting on us.",
+            "All who attempt to secure salvation by the works of the Law, must be exposed to its penalty. It denounces a curse on all who do not yield entire obedience; and no partial compliance with its demands can save from the penalty.",
+            "The whole law must be obeyed, or man cannot be justified by it, or will be exposed to its penalty and its curse. A man who does not yield compliance to a whole law is subject to its penalty, or to a curse."
+        ],
+        "Marvin Vincent": [
+            "Under the curse (uJpo kataran). Better, under curse... represents a condition of alienation from God, caused by violation of his law, with all the penalty which accrues from it, either in this life or the next.",
+            "Cursed [\u03b5\u03c0\u03b9\u03ba\u03b1\u03c4\u03b1\u03c1\u03b1\u03c4\u03bf\u03c2] . Only here and verse 13. o Class. In LXX, see Genesis 3:14, Genesis 3:17; Deuteronomy 27:16-20; Isaiah 65:20; Wisd. 3 12; 14 8, etc.",
+            "Continueth - in [\u03b5\u03bc\u03bc\u03b5\u03bd\u03b5\u03b9] . The expression is figurative, the book of the law being conceived as a prescribed district or domain, in which one remains or out of which he goes."
+        ],
+        "John Calvin": [
+            "The law holds all living men under its curse; and from the law, therefore, it is in vain to expect a blessing.",
+            "All to a man are here condemned.",
+            "The curse which the law pronounces, though, in the phrase of logicians, it is accidental, is here perpetual and inseparable from its nature."
+        ],
+        "Archibald T. Robertson": [
+            "Under a curse (\u03c5\u03c0\u03bf \u03ba\u03b1\u03c4\u03b1\u03c1\u03b1\u03bd). Picture of the curse hanging over them like a Damocles' blade.",
+            "The curse becomes effective only when the law is violated.",
+            "The emphasis is on 'continueth' (\u03b5\u03bc\u03bc\u03b5\u03bd\u03b5) and 'all' (\u03c0\u03b1\u03c3\u03b9\u03bd)."
+        ],
+        "John Gill": [
+            "As many as seek for justification by the works of the law, and trust in their own righteousness for acceptance with God, these are so far from being blessed or justified hereby, that they are under the curse, that is, of the law.",
+            "The law requires doing; it is not content with mere theory without practice; it is not enough to know it, or hear it, it must be done.",
+            "It should be observed, that the word 'all' is not in the Hebrew text, in Deuteronomy 27:26, but is manifestly implied, an indefinite proposition being equal to an universal one; and agreeably to the true sense of the words, it is inserted by the apostle here, ... and perfectly accords with the sense of the best interpreters among the Jews."
+        ],
+        "John Wesley": [
+            "For as many as are of the works of the law \u2014 As God deals with on that footing, only on the terms the law proposes, are under a curse.\" ",
+            "Cursed is every one who continueth not in all the things which are written in the law.\" ",
+            "It requires what no man can perform, namely, perfect, uninterrupted, and perpetual obedience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who rely on their own efforts to follow the law cannot partake in the blessing because they are under a curse. The law demands perfect and continual obedience, a standard that no one can attain. This curse represents a state of separation from God and incurs the penalties of violating His law. All who try to be justified by the works of the law are subject to its penalty and curse, as the law requires complete compliance for justification. It is futile to seek blessings from the law, as all living beings are condemned by it.",
+            "wordCount": 97,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.5192175498038507,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.1,
+            "commentatorTierSimilarities": [
+                24.59,
+                42.55,
+                32.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who rely on their own efforts to follow the law cannot partake in the blessing because they are under a curse. The law demands perfect and continual obedience, a standard that no one can meet. The curse represents a state of separation from God caused by violating His law, carrying penalties in this life or the next. Seeking justification through the works of the law only exposes one to its penalty and curse, as the law requires complete compliance for salvation. All living beings are condemned by the law, making it futile to expect blessings from it.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 2.472778562143935,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.56,
+            "commentatorTierSimilarities": [
+                25.25,
+                42.16,
+                32.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who rely on their own efforts to follow the law are unable to partake in the blessing, as they are under a curse. The law requires perfect and continual obedience, something that no one can achieve. This curse represents a state of separation from God, resulting from the violation of His law and carrying the associated penalties. Seeking justification through the works of the law exposes one to its penalty and curse, as the law demands complete compliance. All living beings are condemned by the law, making it futile to expect blessings from it.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.3896418201844902,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.8,
+            "commentatorTierSimilarities": [
+                25.02,
+                42.56,
+                32.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who rely on their own efforts to follow the law cannot partake in the blessing because they are under a curse. The law demands perfect and continual obedience, something no one can achieve. This curse represents a state of separation from God, caused by violating His law and incurring penalties. Seeking justification through the works of the law exposes one to its penalty and curse, as the law requires complete compliance for salvation. All living beings are condemned by the law, making it futile to expect blessings from it.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.4444113973003496,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.62,
+            "commentatorTierSimilarities": [
+                25.42,
+                41.9,
+                32.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those relying on self-efforts to follow the law cannot participate in the blessing, for they are under a curse. Perfect and continual obedience, that no one can render, is demanded by the law. This curse represents alienation from God due to violation of His law, with accompanying penalties in this life or the next. Those who seek justification through works of the law expose themselves to the penalty and curse, for the law demands complete compliance. All individuals are condemned by the law, rendering the quest for blessings futile.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.5438212541923937,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.92,
+            "commentatorTierSimilarities": [
+                25.96,
+                43.29,
+                30.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

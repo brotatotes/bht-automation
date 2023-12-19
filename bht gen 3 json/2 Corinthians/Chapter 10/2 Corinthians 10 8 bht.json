@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:17:52",
+    "verseRef": "2 Corinthians 10:8",
+    "bestBHT": {
+        "bht": "Though we walk in the flesh, we do not take our apostolic weapons from the flesh, for our rule of warfare is not based on worldly methods. Even if I were to boast more exceedingly of our authority, I would not be put to shame. This authority is given by the Lord for building up His people, not for tearing them down. It is a power that is meant for the edification and salvation of the Church, bestowed upon us by God Himself.",
+        "wordCount": 83,
+        "quoteTokenProportion": 58.33,
+        "qualityScore": 1.9095784597460776,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.83,
+        "commentatorTierSimilarities": [
+            31.04,
+            38.12,
+            30.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Although we walk in the flesh, i.e. are found in the body,\u2014yet we do not take our apostolic weapons from the flesh\u2014do not make its rule, our rule of warfare.",
+            "Even more boasting than he had ever yet made of his apostolic power, would not disgrace him, but would be borne out by the fact.",
+            "I shall not be put to shame."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For even if I were to boast somewhat more exceedingly (than I do, :-) of our (apostolic) authority... I should not be put to shame.",
+            "For building up... not for CASTING DOWN.",
+            "Though we 'cast down reasonings,' this is not in order to destroy, but really to build up ('edify')."
+        ],
+        "Albert Barnes": [
+            "If I should make even higher claims than I have done to a divine commission. I could urge higher evidence that I am sent by the Lord Jesus.",
+            "A power primarily conferred to build up his people and save them and not to destroy.",
+            "A power that has in fact been employed in extending religion and edifying the church, and not in originating and sustaining measures suited to destroy the soul."
+        ],
+        "John Calvin": [
+            "By the term power he means \u2014 the authority of his Apostleship, which he had among the Corinthians...Hence it follows, that it ought not to be irksome to them, or grievous, for who would not bear patiently, nay more, who would not love what he knows to be of advantage to him?",
+            "In lawful authority these two things are required \u2014 that it be given by God, and that it be exercised for the welfare of the Church.",
+            "It is well known, who they are, on whom God has conferred this power, and in what way he has limited the power he has given. Those exercise it in a proper manner, who faithfully obey his commandment."
+        ],
+        "Philip Schaff": [
+            "For though I should glory somewhat more abundantly of our authority, which the Lord (the Lord Christ, Ephesians 3:7-11) gave for building you up, and not for casting you down, I shall not be put to shame.\" ",
+            "Two reasons are given for this: it was an authority gifted by the Lord of the Church, and it was given for rearing up the Church."
+        ],
+        "Archibald T. Robertson": [
+            "Somewhat abundantly (\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03bf\u03c4\u03b5\u03c1\u03bf\u03bd \u03c4). Comparative, 'somewhat more abundantly' than I have, in order to show that he is as true a minister of Christ as his accusers are.",
+            "Concessive (conditional) clause of third class. For \u03b5\u03b1\u03bd \u03c4\u03b5 see Romans 14:8.",
+            "I shall not be put to shame (\u03bf\u03c5\u03ba \u03b1\u03b9\u03c3\u03c7\u03c5\u03bd\u03b8\u03b7\u03c3\u03bf\u03bc\u03b1). As a convicted impostor or pretentious boaster (Plummer). First future passive, singular number (not literary plural as in verse 2 Corinthians 10:7)."
+        ],
+        "John Gill": [
+            "For though I should boast somewhat more of our authority,.... I should not be ashamed.\" ",
+            "which the Lord hath given us for edification, and not for destruction;",
+            "a power which no mere man, no creature, though ever so exalted, could have given."
+        ],
+        "John Wesley": [
+            "I should not be ashamed \u2014 As having said more than I could make good."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though we walk in the flesh, we do not rely on worldly methods for our spiritual warfare. To boast of our apostolic power is not to bring shame upon ourselves, but rather to validate our authority. Our intention is not to tear down, but to build up. This power, bestowed upon us by the Lord Himself, is meant for the edification and salvation of His people. It is a divine authority that should not be seen as burdensome, for it is given by God and exercised for the welfare of the Church. Therefore, if I were to boast even more greatly about this authority, I would not be put to shame, as it is a power that cannot be given by any mere human being.",
+            "wordCount": 125,
+            "quoteTokenProportion": 55.26,
+            "qualityScore": 1.8509281536164817,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+            "commentatorTierSimilarities": [
+                30.37,
+                37.02,
+                32.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though we walk in the flesh, we do not rely on worldly methods for our spiritual warfare. To boast of our apostolic power is not to bring shame upon ourselves, but rather to validate our authority. Our intention is not to tear down, but to build up. This power, bestowed upon us by the Lord Himself, is meant for the edification and salvation of His people. It is a divine authority that should not be seen as burdensome, for it is given by God and exercised for the welfare of the Church.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.772049468873524,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                31.12,
+                38.38,
+                30.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though we walk in the flesh, we do not take our apostolic weapons from the flesh, for our rule of warfare is not based on worldly methods. Even if I were to boast more exceedingly of our authority, I would not be put to shame. This authority is given by the Lord for building up His people, not for tearing them down. It is a power that is meant for the edification and salvation of the Church, bestowed upon us by God Himself.",
+            "wordCount": 83,
+            "quoteTokenProportion": 58.33,
+            "qualityScore": 1.9095784597460776,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.83,
+            "commentatorTierSimilarities": [
+                31.04,
+                38.12,
+                30.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though we walk in the flesh, we do not take our apostolic weapons from the flesh. Even if I were to boast more exceedingly of our authority, I would not be put to shame. For building up, not for casting down. This power, bestowed by the Lord, is meant for the edification of His people, not for their destruction. It is an authority granted by God for the welfare of the Church, exercised faithfully in obedience to His commandments.",
+            "wordCount": 79,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 1.7670701690817658,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+            "commentatorTierSimilarities": [
+                34.57,
+                34.71,
+                30.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As believers, we live in the physical world, but our weapons and methods of warfare are not of the flesh or governed by earthly standards. Even if we were to boast exceedingly about our authority and power in Christ, it would not be in vain, but instead confirmed by our actions. Our role is not to tear down, but to build up and edify one another. This authority is not of our own making, but has been given to us by the Lord Himself, for the purpose of strengthening and supporting the Church. Therefore, we should not be ashamed or hesitant to embrace and use this power for the good of all.",
+            "wordCount": 112,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 1.7907872409612557,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                29.05,
+                37.45,
+                33.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

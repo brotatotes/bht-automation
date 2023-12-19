@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:28:46",
+    "verseRef": "Acts 9:33",
+    "bestBHT": {
+        "bht": "A certain man, whether a believer or not, had been bedridden for eight years. Peter, unaware of who this man was, visited him and announced a free and unexpected gift. This duration of illness, along with the fact that he had been confined to his bed for the entire time, indicates the detailed narrative of a physician. Aeneas, the Greek name of the man, was likely a Hellenistic Jew. The name itself means worthy of praise, and his condition, being sick with palsy, seemed incurable and robbed him of hope for recovery.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.5192537289101264,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+        "commentatorTierSimilarities": [
+            29.49,
+            34.58,
+            35.93
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whether a believer or not, does not appear; from Peter\u2019s visit being to the saints, it would seem that he was.",
+            "Perhaps the indefinite term, a certain man, may imply the contrary.",
+            "Peter\u2019s words, announcing a free and unexpected gift from One whom he knew not."
+        ],
+        "Albert Barnes": [
+            "Eneas - This is a Greek name; and probably he was a Hellenist. See the notes on Acts 6:1.",
+            "Sick of the palsy - See the notes on Matthew 4:24."
+        ],
+        "Marvin Vincent": [
+            "Eight years. The duration of the malady, and the fact of his having been bedridden for the whole time, are characteristic of the physician 's narrative.",
+            "Bed. See on Mark 2:14.",
+            "Sick of the palsy. Better, as Rev., palsied. See on Luke 5:18."
+        ],
+        "Philip Schaff": [
+            "From the name, which is Greek, \u00c6n \u011b as... the palsied man was probably a Hellenistic Jew.",
+            ""
+        ],
+        "Archibald T. Robertson": [
+            "Aenias...had been bed ridden for eight years.",
+            "He was apparently a disciple already.",
+            "Luke the physician notes...he had been bed ridden for eight years."
+        ],
+        "John Gill": [
+            "Aeneas the Trojan is well known in history, who, after the destruction of Troy, went into Italy, and settled there; and from him the Trojans are sometimes called Aeneadae.\" ",
+            "The name comes from the Greek word \u03b1\u03b9\u03bd\u03c9, 'ainoo', which signifies 'to praise'; and Aeneas is one 'worthy of praise'.\" ",
+            "Which had kept his bed eight years, and was sick of the palsy; so that the distemper was grown stubborn, and thought incurable; nor perhaps had he, or his friends, any hope of his ever being restored to health again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A certain man, whether a believer or not, had been bedridden for eight years. Peter, unaware of who this man was, visited him and announced a free and unexpected gift. This duration of illness, along with the fact that he had been confined to his bed for the entire time, indicates the detailed narrative of a physician. Aeneas, the Greek name of the man, was likely a Hellenistic Jew. The name itself means worthy of praise, and his condition, being sick with palsy, seemed incurable and robbed him of hope for recovery.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.5192537289101264,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+            "commentatorTierSimilarities": [
+                29.49,
+                34.58,
+                35.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A certain man, whether a believer or not, had been bedridden for eight years. Peter visited him, announcing an unexpected gift from an unknown source. Aeneas, as his Greek name suggests, was perhaps a Hellenistic Jew. The duration and severity of his illness, palsy, made him hopeless for a cure. Peter's visit, as recorded by the physician Luke, highlights the detailed narrative and the miraculous healing power that would soon be revealed.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4205638694065148,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.58,
+            "commentatorTierSimilarities": [
+                30.34,
+                37.85,
+                31.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's visit to a certain bedridden man, who had been suffering for eight years, revealed an unexpected and freely given gift. Though the man's belief in Peter's message is not explicitly stated, the fact that Peter visited the saints implies that he may have been a believer. Aeneas, as his Greek name suggests, was perhaps a Hellenistic Jew who had already become a disciple. The detailed account of his condition being sick with palsy is characteristic of Luke the physician's narrative. The prolonged duration and severity of his illness made him seemingly incurable, causing a loss of hope for recovery.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.4960831190917123,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.09,
+            "commentatorTierSimilarities": [
+                32.82,
+                34.3,
+                32.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A certain man, whether a believer or not, had been bedridden for eight years. Peter's visit, announcing an unexpected gift from an unknown source, revealed the miraculous healing power that would soon be unveiled. The man's condition of being sick with palsy, with its stubbornness and perceived incurability, robbed him and his friends of hope. The detailed narrative, characteristic of Luke the physician, highlights the significance of his prolonged illness and inability to move.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.3188355117088566,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.19,
+            "commentatorTierSimilarities": [
+                39.96,
+                21.93,
+                38.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A certain man, whether a believer or not, had been plagued with palsy for eight years. Peter's visit to this bedridden individual brought news of an unexpected and divine gift. The detailed account of his condition, recorded by Luke the physician, emphasizes the severity and duration of his illness. Struggling with this incurable infirmity, the man and his loved ones had lost hope. However, Peter's presence and message offered a glimmer of hope for a miraculous intervention.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.1902410937527566,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.92,
+            "commentatorTierSimilarities": [
+                45.38,
+                19.97,
+                34.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

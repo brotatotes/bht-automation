@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:07:25",
+    "verseRef": "Romans 9:9",
+    "bestBHT": {
+        "bht": "This word is one of promise, as seen in the reference to Genesis 18:14. The promise states that at the specified time next year, God will come and Sarah will have a son. This promise is significant because it distinguishes the children of the promise, like Isaac, as the true seed. Isaac represents those born after the Spirit, in contrast to Ishmael who represents those born after the flesh. Therefore, this promise holds great meaning, illustrating a deeper spiritual truth about the identity of God's chosen people.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 2.156794257417048,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.05,
+        "commentatorTierSimilarities": [
+            37.79,
+            35.57,
+            26.65
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For this word was (one) of promise... the children of promise are reckoned for seed: for this word, in fulfilment of which Isaac was born, was a word of promise.\" ",
+            "According to this time (literally in the Hebrew, \u2018when the time (shall be) reviviscent,\u2019 i.e. next year at this time.",
+            "I will come, and there shall be a son to Sarah (so literally in the Greek)."
+        ],
+        "Albert Barnes": [
+            "This is the promise made to Abraham. The design of the apostle, in introducing this, is doubtless to show to whom the promise appertained; and by specifying this, he shows that it had not reference to Ishmael, but to Isaac.",
+            "At this time - Greek, According to this time; see Genesis 18:10, Genesis 18:14. Probably it means at the exact time promised; I will fulfil the prediction at the very time",
+            "I will fulfill the prediction at the very time."
+        ],
+        "Marvin Vincent": [
+            "I say 'a word of promise, ' for a word of promise is this which follows.",
+            "this word is one of promise.",
+            "The reference is to Genesis 18:14, where the Hebrew is when the season is renewed or revives; i e., next year at this time."
+        ],
+        "John Calvin": [
+            "When he says, the Lord said that he would come, and that a son would be born to Abraham of Sarah, he intimated that his blessing was not yet conferred, but that it was as yet suspended.",
+            "We may also observe, by the way, the great caution with which he proceeds here, lest he should exasperate the Jews. The cause being passed over, he first simply states the fact; he will hereafter open the fountain.",
+            "It appears that the Apostle here took this expression, 'at this time,' from Genesis 17:21, while he mainly followed the text in Genesis 18:10."
+        ],
+        "Philip Schaff": [
+            "That \u2018the children of the promise are reckoned as seed\u2019 is proven, for the word, in accordance with which the birth of Isaac took place, this passage now cited, is a word of promise.",
+            "The passage is freely quoted from the LXX. (Genesis 18:10; Genesis 18:14). The Hebrew phrase rendered: \u2018at this season,\u2019 means when the time (shall be) reviving,\u2019 i.e., at this season of the next year: so the LXX. substantially.",
+            "From Genesis 18:14, substituted for a similar clause in Romans 9:10, because of the emphasis it gives (in the original) to the word \u2018Sarah,\u2019 who is the principal person (comp. Galatians 4:22, etc.)."
+        ],
+        "Archibald T. Robertson": [
+            "A word of promise (\u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b1\u03c2 \u03bf \u03bb\u03bf\u03b3\u03bf\u03c2 \u03bf\u03c5\u03c4\u03bf\u03c2). Literally, \"this word is one of promise.\" Paul combines Genesis 18:10; Genesis 18:14 from the LXX. "
+        ],
+        "John Gill": [
+            "for as Ishmael was a type of them that are born after the flesh, and are carnal men, so Isaac was a type of those, who are born after the Spirit, and are spiritual men\" ",
+            "the phrase 'the time of life', signifies the present time, the 'nunc stans'",
+            "that is, exactly according to this present time next year, or this time twelve month"
+        ],
+        "John Wesley": [
+            "By the power of which Isaac was conceived, and not by the power of nature.",
+            "Not, Whosoever is born of thee shall be blessed, but, At this time - Which I now appoint.",
+            "I will come, and Sarah shall have a son \u2014 And he shall inherit the blessing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For this word was a word of promise, as seen in the reference to Genesis 18:14. When the time would be reviviscent, next year at this time, God promised to come and give Sarah a son. It is important to note that this promise was not fulfilled yet, but it was suspended. The apostle mentions this to show that the children of the promise, like Isaac, are the ones reckoned as the true seed. Ishmael, on the other hand, represents those born after the flesh, while Isaac represents those born after the Spirit. Thus, Isaac is a type of those who are spiritual men.",
+            "wordCount": 103,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.021314021913465,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                36.87,
+                34.97,
+                28.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For this word was a word of promise, as seen in the reference to Genesis 18:14. When the time would be reviviscent, next year at this time, God promised to come and give Sarah a son. The children of the promise, like Isaac, are reckoned as the true seed. Ishmael represents those born after the flesh, while Isaac represents those born after the Spirit, making him a type of those who are spiritual men. Thus, this promise from God holds significant meaning and represents a greater spiritual truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0554984802030365,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                37.86,
+                35.03,
+                27.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This word is a promise from God, as seen in Genesis 18:10; 14. At the appointed time, next year, God promised to come and give Sarah a son. The children of the promise, like Isaac, are regarded as the true seed. Isaac represents those born after the Spirit, contrasting with Ishmael who represents those born after the flesh. Thus, this promise of God carries great significance, symbolizing a deeper spiritual truth about the true children of God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.0077558074551316,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.1,
+            "commentatorTierSimilarities": [
+                36.38,
+                35.66,
+                27.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This word is one of promise, as seen in the reference to Genesis 18:14. The promise states that at the specified time next year, God will come and Sarah will have a son. This promise is significant because it distinguishes the children of the promise, like Isaac, as the true seed. Isaac represents those born after the Spirit, in contrast to Ishmael who represents those born after the flesh. Therefore, this promise holds great meaning, illustrating a deeper spiritual truth about the identity of God's chosen people.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.156794257417048,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.05,
+            "commentatorTierSimilarities": [
+                37.79,
+                35.57,
+                26.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This promise, referred to in Genesis 18:14, is a word of fulfillment. God vowed to come and give Sarah a son at the exact time appointed. The children of the promise, like Isaac, are accounted as the true seed. Isaac represents those born after the Spirit, while Ishmael symbolizes those born after the flesh. Therefore, this promise bears immense significance, as it serves as a testament to the distinction and spiritual nature of God's chosen people.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.0211062013403556,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.54,
+            "commentatorTierSimilarities": [
+                35.94,
+                35.77,
+                28.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

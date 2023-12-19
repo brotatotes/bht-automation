@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:16:35",
+    "verseRef": "Luke 7:41",
+    "bestBHT": {
+        "bht": "The Lord applies considerations of gratitude and justice to the debtors' situation, where sin is felt in proportion to its magnitude, just like a debt. The parable features a lender and debtors with unpaid amounts of 500 pence (around $69.26) and 50 pence (approximately $7) respectively. The debt represents the sense of sin, as gratitude is based on it. Therefore, the parable overlooks the fact that many great sinners do not perceive their guilt.",
+        "wordCount": 70,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.9314732134632182,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+        "commentatorTierSimilarities": [
+            33.91,
+            32.55,
+            33.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord speaks from the position of the debtors, and applies to their case the considerations of ordinary gratitude and justice.",
+            "Sin is proportionate to the sense of sin, just as a debt is felt to the amount of the debt.",
+            "If forgiveness is to awaken love in proportion to the magnitude of that which is forgiven, sin in such a connexion must be the subjective debt which is felt to exist, not the objective one."
+        ],
+        "Albert Barnes": [
+            "A certain creditor - A man who had lent money or sold property, the payment for which was yet due.",
+            "Five hundred pence - About 69 dollars 26 cents, or 14 British pounds, 11 shilling, 8d. See the notes at Matthew 18:28.",
+            "Fifty - About 7 dollars, or 1 British pound, 9 shillings, and 2d."
+        ],
+        "Marvin Vincent": [
+            "Creditor [\u03b4\u03b1\u03bd\u03b5\u03b9\u03c3\u03c4\u03b7] . From daneion, a loan. Properly a lender of money at interest. Rev., lender. See on ch. Luke 6:34. ",
+            "Pence [\u03b4\u03b7\u03bd\u03b1\u03c1\u03b9\u03b1] . See on Matthew 20:2."
+        ],
+        "John Calvin": [
+            "He proves that she is righteous, not because she pleased God, but because her sins were forgiven...\" ",
+            "The argument which Christ employs was taken, not from the cause, but from the effect; for, until a favor has been received, it cannot awaken gratitude...",
+            "...this woman has been reconciled to God."
+        ],
+        "Philip Schaff": [
+            "The debt is sin, or strictly speaking, here the sense of sin. Probably, but not certainly, the actual relative sinfulness of the woman and Simon might have been thus represented.",
+            "That the sense of sin is meant appears from the application, since gratitude for forgiveness of sin must be based upon that, not upon actual guilt which we cannot measure.",
+            "Hence the truth that many great sinners do not feel their guilt is here left out of view."
+        ],
+        "Archibald T. Robertson": [
+            "A certain lender (\u03b4\u03b1\u03bd\u03b9\u03c3\u03c4\u03b7 \u03c4\u03b9\u03bd). A lender of money with interest.\" ",
+            "Debtors (\u03c7\u03c1\u03b5\u03bf\u03c6\u03b9\u03bb\u03b5\u03c4\u03b1). From \u03c7\u03c1\u03b5\u03c9 (debt, obligation) and \u03bf\u03c6\u03b5\u03b9\u03bb\u03c9, to owe.\" ",
+            "Owed (\u03c9\u03c6\u03b5\u03b9\u03bb\u03b5\u03bd). Imperfect active and so unpaid. Five hundred \u03b4\u03b7\u03bd\u03b1\u03c1\u03b9\u03b1 and fifty like two hundred and fifty dollars and twenty-five dollars."
+        ],
+        "John Gill": [
+            "This is a parable: by 'the creditor', God is meant, to whom men owe their beings, and the preservation of them, and all the mercies of life; and are under obligation to obedience and thankfulness.",
+            "No man can merit anything of God, or pay off any old debt, by a new act of obedience, since all is due to him.",
+            "By the 'two debtors' are meant, greater and lesser sinners: all sins are debts, and all sinners are debtors; not debtors to sin, for then it would not be criminal, but lawful to commit sin, and God must be pleased with it, which he is not, and men might promise themselves impunity, which they cannot."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord speaks from the perspective of the debtors and applies considerations of ordinary gratitude and justice to their situation. Sin is proportionate to the sense of sin, just as a debt is felt to the amount of the debt. Thus, forgiveness awakens love in proportion to the magnitude of what is forgiven, and sin in this context refers to the subjective debt that is felt, not the objective one. The parable portrays a certain lender, someone who lends money at interest, and debtors with unpaid debts of 500 pence (approximately $69.26) and 50 pence (approximately $7). The debt symbolizes sin or the sense of sin, as gratitude for forgiveness is based on the sense of sin and not the actual guilt itself. Therefore, the parable does not consider the truth that many great sinners do not feel their guilt.",
+            "wordCount": 136,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.005336697705415,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.02,
+            "commentatorTierSimilarities": [
+                33.09,
+                34.16,
+                32.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord applies considerations of gratitude and justice to the debtors' situation, where sin is felt in proportion to its magnitude, just like a debt. The parable features a lender and debtors with unpaid amounts of 500 pence (around $69.26) and 50 pence (approximately $7) respectively. The debt represents the sense of sin, as gratitude is based on it. Therefore, the parable overlooks the reality that many great sinners don't perceive their guilt.",
+            "wordCount": 70,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.9285312733818403,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                34.12,
+                32.67,
+                33.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord speaks from the standpoint of the debtors, equating their case to the principles of common gratitude and justice. Just as a debt corresponds to the recognition of its existence, sin is commensurate with the awareness of sin. Forgiveness, in this context, stirs up love in proportion to the enormity of the sins forgiven. Sin here refers to the subjective feeling of indebtedness, rather than the objective one. The parable introduces a lender who lends money with interest and two debtors\u2014one owing 500 pence, or around $69.26, and the other owing 50 pence, or approximately $7. The debt symbolizes the subjective sense of sin, as gratitude for the forgiveness of sins hinges on it.",
+            "wordCount": 112,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.846936532112183,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.75,
+            "commentatorTierSimilarities": [
+                33.79,
+                32.23,
+                33.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord applies considerations of gratitude and justice to the debtors' situation, where sin is felt in proportion to its magnitude, just like a debt. The parable features a lender and debtors with unpaid amounts of 500 pence (around $69.26) and 50 pence (approximately $7) respectively. The debt represents the sense of sin, as gratitude is based on it. Therefore, the parable overlooks the reality that many great sinners don't perceive their guilt.",
+            "wordCount": 70,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.9285312733818403,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                34.12,
+                32.67,
+                33.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord applies considerations of gratitude and justice to the debtors' situation, where sin is felt in proportion to its magnitude, just like a debt. The parable features a lender and debtors with unpaid amounts of 500 pence (around $69.26) and 50 pence (approximately $7) respectively. The debt represents the sense of sin, as gratitude is based on it. Therefore, the parable overlooks the fact that many great sinners do not perceive their guilt.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.9314732134632182,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                33.91,
+                32.55,
+                33.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:35:35",
+    "verseRef": "Acts 22:22",
+    "bestBHT": {
+        "bht": "The mention of Paul's mission to the Gentiles unleashed the furious and fanatical rage of the Jewish crowd, who believed their nation was superior to all others. This mob, with their arms flailing, robes waving, and dust flying, exemplified the extreme fanaticism that could be witnessed in an oriental setting. Their outburst was driven by their refusal to accept the calling of the Gentiles, finding it offensive and provocative. The word Gentile ignited a powder keg, sparking an explosion of indignation and a vehement desire to put Paul to death.",
+        "wordCount": 91,
+        "quoteTokenProportion": 30.3,
+        "qualityScore": 1.873024456147104,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+        "commentatorTierSimilarities": [
+            27.6,
+            36.12,
+            36.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The nations of the earth have no living existence,\" was the maxim of the children of Abraham, as set down in their Rabbinical books.",
+            "It was not fit,\" implying, he ought to have been put to death long ago (when we endeavored to do it, but he escaped)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their national prejudices lashed into fury at the mention of a mission to the Gentiles.\" ",
+            "They would speedily have done to him as they did to Stephen.\" ",
+            "The presence and protection of the Roman officer."
+        ],
+        "Albert Barnes": [
+            "And they gave him audience - They heard him patiently.",
+            "Unto this word - The word 'Gentile.'",
+            "Away with such a fellow - Greek: 'take such a man from the earth,' that is, 'put him to death.' It is language of strong indignation and abhorrence."
+        ],
+        "Marvin Vincent": [
+            "Then began one of the most odious and despicable spectacles which the world can witness, the spectacle of an oriental mob, hideous with impotent rage, howling, yelling, cursing, gnashing their teeth, flinging about their arms, waving and tossing their blue and red robes, casting dust into the air by handfuls, with all the furious gesticulations of an uncontrolled fanaticism.",
+            "It is common for the peasants in Persia, when they have a complaint to lay before their governors, to repair to them by hundreds or a thousand at once. They place themselves near the gate of the palace, where they suppose they are most likely to be seen and heard, and there set up a horrid outcry, rend their garments, and throw dust into the air, at the same time demanding justice.",
+            "Compare 2 Samuel 16:13."
+        ],
+        "John Calvin": [
+            "The Jews conceived so great good liking of themselves, that they did not only despise all the whole world in comparison of themselves, but they stood also more stoutly in defense of their own dignity than of the law itself.",
+            "They rage against and rail upon Paul, because he said that he was sent to be the apostle of the Gentiles; as if God were bound by his own liberality to suffer the contempt of his power in the wicked and unthankful.",
+            "Being by all means wasted, and accustomed to suffer extreme reproaches at this day, they cease not, notwithstanding, to swell with servile pride."
+        ],
+        "Philip Schaff": [
+            "This, to the fanatic Jewish mind, was indeed a startling statement, and, if true, would at once remove all reason for their jealousy of the foreigner.",
+            "But could it be true that the long-expected Messiah... could, in their own proud House in Jerusalem, speak to this man from His glory-throne in heaven, and command him to leave his own city and people, and to devote himself solely to the uncircumcised Gentiles?",
+            "One who could say such things was surely unworthy to live."
+        ],
+        "Archibald T. Robertson": [
+            "But 'this word' was like a spark in a powder magazine or a torch to an oil tank.",
+            "The explosion of pent-up indignation broke out instantly worse than at first.",
+            "It was not fitting, he ought to have been put to death long ago."
+        ],
+        "John Gill": [
+            "They heard him patiently, and did not offer to molest him.\" ",
+            "Nothing was more offensive, irritating, and provoking to them, than to hear of the calling of the Gentiles.\" ",
+            "It is not agreeable to the rules of justice that he should be spared; it is not convenient, and it may be of bad consequence should he be continued any longer."
+        ],
+        "John Wesley": [
+            "And they heard him to this word \u2014 Till he began to speak of his mission to the Gentiles...",
+            "...and this too in such a manner as implied that the Jews were in danger of being cast off."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fanatic Jewish crowd, stirred by national prejudices, erupted into a furious mob when Paul mentioned his mission to the Gentiles. They would have executed him immediately, just as they did Stephen, if not for the presence and protection of the Roman officer. The scene was hideous and despicable, with an oriental mob howling, yelling, cursing, and throwing dust into the air in their uncontrolled fanaticism. This explosive reaction was sparked by the word Gentile, an idea that challenged their deep-rooted beliefs and provoked their indignation and abhorrence. The Jews, proud of their identity and standing, could not fathom the possibility that the long-awaited Messiah would command someone to leave their own people and devote themselves solely to the uncircumcised Gentiles. The mention of this word was like a spark in a powder magazine, setting off an explosion of pent-up indignation. The Jews deemed Paul unworthy to live for daring to say such things, for these words shook the foundation of their world.",
+            "wordCount": 166,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8526102350143638,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.94,
+            "commentatorTierSimilarities": [
+                28.97,
+                35.97,
+                35.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The furious reaction of the fanatic Jewish crowd towards Paul's mention of his mission to the Gentiles was fueled by their national prejudices. They longed to put him to death, as if it was their duty. The Roman officer's presence and protection prevented them from carrying out their intentions. This spectacle of an oriental mob, with their wild gesticulations, howling, and flinging dust into the air, was a despicable display of uncontrolled fanaticism. The explosion of pent-up indignation was triggered by the word Gentile, challenging their deep-rooted beliefs and provoking their abhorrence.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7909370598418834,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                33.21,
+                32.6,
+                34.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of Paul's mission to the Gentiles unleashed the furious and fanatical rage of the Jewish crowd, who believed their nation was superior to all others. This mob, with their arms flailing, robes waving, and dust flying, exemplified the extreme fanaticism that could be witnessed in an oriental setting. Their outburst was driven by their refusal to accept the calling of the Gentiles, finding it offensive and provocative. The word Gentile ignited a powder keg, sparking an explosion of indignation and a vehement desire to put Paul to death.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.873024456147104,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+            "commentatorTierSimilarities": [
+                27.6,
+                36.12,
+                36.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mere mention of Paul's mission to the Gentiles evoked a furious and hideous spectacle of an oriental mob. Their national prejudices were irrevocably lashed into fury at the thought of a mission to the Gentiles. The explosive reaction was akin to a spark igniting a powder magazine, with the furious gesticulations and uncontrollable rage of the crowd on full display. This intense hatred and abhorrence stemmed from their deep-rooted belief in their own superiority and their refusal to accept the inclusion of the Gentiles in God's plan.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.7869772047180947,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.76,
+            "commentatorTierSimilarities": [
+                29.53,
+                34.72,
+                35.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of Paul's mission to the Gentiles unleashed the fanaticism and fury of the Jewish crowd. Their national prejudices were stirred to the point of a furious and despicable spectacle, as they howled, yelled, cursed, and threw dust into the air in their impotent rage. The very word Gentile acted as a spark in a powder magazine, provoking an explosion of pent-up indignation. This reaction was fueled by the Jews' deep-rooted belief in their own superiority and their refusal to consider the inclusion of the Gentiles in God's plan.",
+            "wordCount": 94,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.8641393673533737,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                28.4,
+                34.37,
+                37.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

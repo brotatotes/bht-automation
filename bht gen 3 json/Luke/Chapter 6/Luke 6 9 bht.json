@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:15:46",
+    "verseRef": "Luke 6:9",
+    "bestBHT": {
+        "bht": "With anger and grief at the hardness of their hearts, Jesus posed a question that would convict the Pharisees regardless of their answer. By asking whether it was lawful to do good or evil and to save life or destroy it on the Sabbath, Jesus exposed their hypocrisy and lack of compassion. His words cut to the quick, revealing the Pharisees' plot to destroy Him. His question emphasized the importance of making a soul safe, binding His own spirit to this ethical principle.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.6230141458080083,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.31,
+        "commentatorTierSimilarities": [
+            41.51,
+            0.0,
+            58.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They held their peace... because they were in a dilemma, and either answer would have convicted them.",
+            "With anger, being grieved at the hardness of their hearts\u2014one of the most striking and graphic descriptions in the Gospels.",
+            "Their hearts were hardened,\u2014but He grieved for it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To neglect any opportunity of doing good is to incur the guilt of doing evil.\" ",
+            "By this novel way of putting His case, our Lord teaches the great ethical principle.",
+            "By this law He bound His own spirit."
+        ],
+        "Marvin Vincent": [
+            "I will ask. Peculiar to Luke's narrative. The best texts read I ask.\" ",
+            "A life. Though the question is a general one, it carries a hint of an individual life thrown into it by the special case at hand.",
+            "To make a soul safe."
+        ],
+        "Archibald T. Robertson": [
+            "He now asks in addition an open question that brings the whole issue into the open.",
+            "The words of Jesus cut to the quick.",
+            "On this very day these Pharisees were plotting to destroy Jesus."
+        ],
+        "John Gill": [
+            "I will ask you one thing; or question, as they had asked him one before.",
+            "is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it?",
+            "to save life on the sabbath day was agreeable to their own canons."
+        ],
+        "John Wesley": [
+            "To save life or to kill \u2014 He just then probably saw the design to kill him rising in their hearts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With anger and grief at the hardness of their hearts, Jesus confronted the Pharisees' silence and posed a question that would convict them regardless of their answer. By asking whether it was lawful to do good or evil and to save life or destroy it on the Sabbath, Jesus revealed their hypocrisy and lack of compassion. Jesus not only taught a great ethical principle but also exemplified it by binding His own spirit to this law. His words cut to the quick, exposing the Pharisees' plot to destroy Him. Even though the question was general, it hinted at the individual life at hand, emphasizing the importance of making a soul safe.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.5578724863958815,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                42.8,
+                0.0,
+                57.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With anger and grief at the hardness of their hearts, Jesus posed a question that would convict the Pharisees regardless of their answer. By asking whether it was lawful to do good or evil and to save life or destroy it on the Sabbath, Jesus exposed their hypocrisy and lack of compassion. His words cut to the quick, revealing the Pharisees' plot to destroy Him. His question emphasized the importance of making a soul safe, binding His own spirit to this ethical principle.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6230141458080083,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.31,
+            "commentatorTierSimilarities": [
+                41.51,
+                0.0,
+                58.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of the Pharisees' silence, Jesus confronted their dilemma, knowing that either answer would convict them. Angered and grieved by their hardened hearts, Jesus posed a question about the ethics of doing good or evil, saving life or destroying it on the Sabbath. His piercing words exposed their hypocrisy and revealed their plot to destroy Him. Jesus not only taught a profound ethical principle but also demonstrated it, emphasizing the significance of making a soul safe and challenging the Pharisees to confront their true intentions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.5707610598390347,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.57,
+            "commentatorTierSimilarities": [
+                41.77,
+                0.0,
+                58.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the presence of the silent Pharisees, Jesus confronted their dilemma, knowing that either answer would convict them. Consumed with anger and grief at their hardened hearts, Jesus challenged the ethics of doing good or evil, saving or destroying life on the Sabbath. His compelling words exposed their hypocrisy, leaving them stung by the truth. By raising this open question, Jesus revealed the urgent need to make souls safe and confronted the Pharisees' sinister plot against Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.575193489141352,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "commentatorTierSimilarities": [
+                42.88,
+                0.0,
+                57.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With anger and grief, Jesus faced the dilemma of the silent Pharisees who were convicted by either answer. He questioned the ethics of doing good or evil, saving life or destroying it on the Sabbath. Their hardened hearts grieved Him, yet He taught a profound ethical principle and bound His own spirit to it. His piercing words exposed their hypocrisy and the plot to destroy Him. By emphasizing the importance of making a soul safe, Jesus demanded an open confrontation of the issue at hand.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.5399525080326284,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                43.5,
+                0.0,
+                56.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

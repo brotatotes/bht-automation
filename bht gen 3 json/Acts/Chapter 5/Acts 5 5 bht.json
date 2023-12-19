@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:26:41",
+    "verseRef": "Acts 5:5",
+    "bestBHT": {
+        "bht": "The deaths of Ananias and Sapphira were supernaturally inflicted by Peter, acting in the power of the Holy Spirit. Peter's severe judgment, prompted by the Holy Spirit, was justified in the early days of the church. The fear that came upon those who heard of these events was not mockery, but a deep awe of the manifest presence of Divinity among them. Ananias brought his own end upon himself, and it was God's judgment.",
+        "wordCount": 76,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.8989276538747295,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+        "commentatorTierSimilarities": [
+            39.35,
+            24.05,
+            36.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The deaths of Ananias and Sapphira were beyond question supernaturally inflicted by Peter, speaking in the power of the Holy Spirit.",
+            "We surely need not require any justification for this judicial sentence of the Apostle, filling as he did at this time the highest place in the church, and acting under the immediate prompting of the Holy Spirit.",
+            "It was absolutely necessary in the infancy of the church, that such attempt should be at once, and with severity, defeated."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Great fear came on all that heard these things\u2014on those without the Christian circle.",
+            "Instead of disparaging the followers of the Lord Jesus, as they might otherwise have done on the discovery of such hypocrisy, were awed at the manifest presence of Divinity among them.",
+            "And the mysterious power of throwing off such corrupt matter which rested upon the young Church."
+        ],
+        "Albert Barnes": [
+            "He had not expected to be thus exposed; and it is clear that the exposure and the charge came upon him unexpectedly and terribly, like a bolt of thunder.",
+            "The effect 'commonly' is that the memory of guilt preys secretly and silently upon the frame, until, worn out with the lack of rest and peace, it sinks exhausted into the grave.",
+            "Sudden death always does it; but sudden death in immediate connection with crime is suited much more deeply to affect the mind."
+        ],
+        "Marvin Vincent": [
+            "Gave up the ghost [\u03b5\u03be\u03b5\u03c8\u03c5\u03be\u03b5]. Used by Luke only. A rare word...",
+            "A rare word, occurring in the Septuagint, and in medical writers.",
+            "See, also, on failing, Luke 21:26."
+        ],
+        "John Calvin": [
+            "When we hear this, let the threatenings of the gospel terrify us, and humble us in time, lest we also feel the like effect.",
+            "For those which refuse the salvation offered in his word, it must needs be deadly to them, which was naturally wholesome.",
+            "God meant to give all ages a lesson at that time, that they may learn to deal sincerely and uprightly with him."
+        ],
+        "Philip Schaff": [
+            "It was no stroke of apoplexy, the result of sudden terror and amazement.",
+            "In both instances the end must be regarded as a direct Divine interposition, by which a speedy and terrible punishment was inflicted.",
+            "'Will these two be shut out of heaven? We may hope even these may come in, though perhaps with bowed heads.'"
+        ],
+        "Archibald T. Robertson": [
+            "Fell down (\u03c0\u03b5\u03c3\u03c9\u03bd). Second aorist active participle of \u03c0\u03b9\u03c0\u03c4\u03c9, fell all of a sudden while listening.",
+            "Gave up the ghost (\u03b5\u03be\u03b5\u03c8\u03c5\u03be\u03b5\u03bd). First aorist active indicative of \u03b5\u03ba\u03c8\u03c5\u03c7\u03c9, late verb in LXX and Hippocrates, to breathe out, to expire.",
+            "It is needless to blame Peter for the death of Ananias. He had brought the end upon himself. It was the judgment of God."
+        ],
+        "John Gill": [
+            "And Ananias hearing these words,.... Of Peter's; by which he found his sin was detected, and by which he was convicted of it...",
+            "such power went along with them, and they cut so deep, as that immediately he fell down and gave up the ghost...",
+            "And great fear came upon all them that heard these things; both upon the members of the church, and so was of service to make them careful of their words and actions..."
+        ],
+        "John Wesley": [
+            "And this severity was not only just, considering that complication of vain glory, covetousness, fraud, and impiety, which this action contained: but it was also wise and gracious, as it would effectually deter any others from following his example.",
+            "It was likewise a convincing proof of the upright conduct of the apostles, in managing the sums with which they were intrusted; and in general of their Divine mission.",
+            "For none can imagine that Peter would have had the assurance to pronounce, and much less the power to execute such a sentence, if he had been guilty himself of a fraud of the same kind; or had been belying the Holy Ghost in the whole of his pretensions to be under his immediate direction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The deaths of Ananias and Sapphira were undoubtedly supernatural, brought upon them by Peter speaking in the power of the Holy Spirit. Peter, acting under the immediate prompting of the Holy Spirit and in the highest place in the church, carried out a necessary and severe judgment in the infancy of the church. The fear that came upon those who heard of these events was not mockery towards the followers of Jesus, but rather a deep awe of the manifest presence of Divinity among them. The power to expose and throw off such corruption that rested upon the young Church was truly mysterious. Ananias brought his own end upon himself, and it was the judgment of God.",
+            "wordCount": 117,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.9186931405393088,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                37.91,
+                24.59,
+                37.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The deaths of Ananias and Sapphira were supernaturally inflicted by Peter, acting in the power of the Holy Spirit. Peter's severe judgment, prompted by the Holy Spirit, was justified in the early days of the church. The fear that came upon those who heard of these events was not mockery, but a deep awe of the manifest presence of Divinity among them. Ananias brought his own end upon himself, and it was God's judgment.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.8989276538747295,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                39.35,
+                24.05,
+                36.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The deaths of Ananias and Sapphira were beyond question supernaturally inflicted by Peter, speaking in the power of the Holy Spirit. It was absolutely necessary in the infancy of the church, that such attempt should be at once, and with severity, defeated. Instead of disparaging the followers of Jesus, as they might otherwise have done on the discovery of such hypocrisy, were awed at the manifest presence of Divinity among them. Ananias brought the end upon himself. It was the judgment of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.8307544329654148,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.21,
+            "commentatorTierSimilarities": [
+                38.45,
+                25.01,
+                36.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The deaths of Ananias and Sapphira were supernaturally inflicted by Peter, speaking in the power of the Holy Spirit. It was absolutely necessary in the infancy of the church, that such attempt should be at once, and with severity, defeated. Instead of disparaging the followers of the Lord Jesus, as they might otherwise have done on the discovery of such hypocrisy, were awed at the manifest presence of Divinity among them. Ananias brought the end upon himself. It was the judgment of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.8183639728184091,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.8,
+            "commentatorTierSimilarities": [
+                38.33,
+                24.77,
+                36.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The deaths of Ananias and Sapphira were supernaturally inflicted by Peter, speaking in the power of the Holy Spirit. It was necessary in the early days of the church to immediately and severely address such hypocrisy. This event inspired great fear on those who heard about it, causing them to recognize the manifest presence of Divinity among the followers of Jesus. Ananias brought his own end upon himself, as it was a judgment from God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.8986358007234503,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                36.9,
+                23.96,
+                39.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

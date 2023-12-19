@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 14:57:25",
+    "verseRef": "1 Corinthians 1:3",
+    "bestBHT": {
+        "bht": "In the midst of the Corinthian church's dissensions, the apostle Paul extends his desire for grace and peace to them. This dual greeting, which combines the Greek and Jewish traditions, is a common salutation in Paul's letters to the churches. It is a reminder that these blessings flow from God our Father and the Lord Jesus, serving as the ultimate source of such precious gifts. For a deeper understanding of this prayer for grace and peace, readers can explore Paul's writings in the Epistle to the Romans.",
+        "wordCount": 90,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 2.0382992444566215,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+        "commentatorTierSimilarities": [
+            29.29,
+            28.93,
+            41.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "3. peace\u2014peculiarly needed in",
+            "\tthe Corinthian church, on account of its dissensions. On this verse",
+            "\tsee on :-."
+        ],
+        "Albert Barnes": [
+            "Grace be unto you ... - See the note at Romans 1:7."
+        ],
+        "Marvin Vincent": [
+            "Grace is the Greek salutation, peace the Jewish. Both in the spiritual sense.\" ",
+            "This form of salutation is common to all Paul's epistles to the churches.\" ",
+            "In Timothy and Titus, mercy is added."
+        ],
+        "John Calvin": [
+            "Grace be to you and peace.\" - For an exposition of this prayer, let my readers consult the beginning of my Commentary on the Epistle to the Romans (Romans 1:7;)",
+            "I do not willingly burden my readers with repetitions.\" - [The commentator] do not willingly burden my readers with repetitions.",
+            "Let my readers consult the beginning of my Commentary on the Epistle to the Romans.\" - Let my readers consult the beginning of my Commentary on the Epistle to the Romans (Romans 1:7;)"
+        ],
+        "Philip Schaff": [
+            "What in the Old Testament is called \u2018mercy,\u2019 is in the New Testament expressed by the richer and more comprehensive term \u2018grace,\u2019 that Divine affection whence flows all salvation to Adam\u2019s fallen family.",
+            "The first result of this, when it enters any soul, is \u2018peace.\u2019",
+            "And here both these are solicited for the Corinthian converts, from God our Father as the primal Fountain, and the Lord Jesus as the mediatorial Channel of these precious gifts."
+        ],
+        "Archibald T. Robertson": [
+            "Identical language of 2 Thessalonians 1:2 save absence of \u03b7\u03bc\u03c9\u03bd (our), Paul's usual greeting. See on 1 Thessalonians 1:1. "
+        ],
+        "John Gill": [
+            "Grace be unto you, and peace from God,.... This is an usual salutation in all Paul's epistles; :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Grace and peace are the greetings from God that Paul extends to the Corinthian church in 1 Corinthians 1:3. The Corinthian believers were especially in need of peace due to their dissensions. The dual greeting of grace and peace is common in Paul's letters to the churches and is a reflection of the combined spiritual heritage of the Greek and Jewish traditions. The Corinthians are encouraged to seek these blessings from God our Father and the Lord Jesus, who are the sources of these precious gifts. The prayer for grace and peace is a common theme in Paul's writings and can be explored further in his Commentary on the Epistle to the Romans.",
+            "wordCount": 113,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9967661790618054,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.73,
+            "commentatorTierSimilarities": [
+                30.92,
+                29.87,
+                39.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Grace and peace are extended to the Corinthian church as a needed remedy for their dissensions. The combination of grace and peace, which reflects both the Greek and Jewish traditions, is a familiar greeting found in Paul's letters to the churches. These blessings are sought from God our Father and the Lord Jesus, who are the ultimate sources of these invaluable gifts. For a deeper exploration of this prayer for grace and peace, readers can refer to Paul's Commentary on the Epistle to the Romans.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.9717034412632444,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.9,
+            "commentatorTierSimilarities": [
+                28.13,
+                29.58,
+                42.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the Corinthian church's dissensions, the apostle Paul extends his desire for grace and peace to them. This dual greeting, which combines the Greek and Jewish traditions, is a common salutation in Paul's letters to the churches. It is a reminder that these blessings flow from God our Father and the Lord Jesus, serving as the ultimate source of such precious gifts. For a deeper understanding of this prayer for grace and peace, readers can explore Paul's writings in the Epistle to the Romans.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.0382992444566215,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+            "commentatorTierSimilarities": [
+                29.29,
+                28.93,
+                41.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthian church, amidst its dissensions, is in need of peace, which is extended to them in the form of grace. This combination of grace and peace encompasses the spiritual sense and is a customary greeting in Paul's letters to the churches. Seeking these blessings from God our Father and the Lord Jesus, who serve as the primary sources of these invaluable gifts, is encouraged. Further exploration of this prayer for grace and peace can be found in Paul's Commentary on the Epistle to the Romans.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.0245260655387374,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.66,
+            "commentatorTierSimilarities": [
+                28.63,
+                30.63,
+                40.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul extends a greeting of grace and peace to the Corinthian church, acknowledging their need for peace amid their dissensions. This greeting, which combines both Greek and Jewish traditions, is a customary salutation found in Paul's letters to the churches. It reflects the rich and comprehensive term of grace as the Divine affection that brings salvation to fallen humanity. The Corinthians are invited to seek these blessings from God our Father and the Lord Jesus, the mediatorial Channel of these invaluable gifts.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.9146020867303517,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+            "commentatorTierSimilarities": [
+                32.06,
+                30.45,
+                37.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

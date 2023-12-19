@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:24:53",
+    "verseRef": "Acts 1:18",
+    "bestBHT": {
+        "bht": "The attempts to harmonize the accounts of Judas's death only reveal the desperation of fitting them into a system. Falling headlong suggests a sudden fall forward by a stroke from God or accident, not suicide. The discrepancy in purchasing the field and falling headlong is explained by understanding that it means falling flat on the face. The irony of buying the field with Judas's money highlights the priests' infamy. Judas's fate warns that the wicked won't escape the consequences of persecuting the Church.",
+        "wordCount": 87,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.556334229353251,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+        "commentatorTierSimilarities": [
+            40.82,
+            25.2,
+            33.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The various attempts to reconcile the two narratives...are among the saddest examples of the shifts to which otherwise high-minded men are driven by an unworthy system.\" ",
+            "Falling headlong will hardly bear the meaning assigned to it by those who wish to harmonize the two accounts...It would rather point...to a sudden fall forward on the face by a stroke from God, or by an accident.",
+            "An accurate acquaintance with the actual circumstances would account for the discrepancy, but nothing else."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "18. falling headlong, &amp;c.\u2014This",
+            "\tinformation supplements, but by no means contradicts, what is said in",
+            "\tMatthew 27:5."
+        ],
+        "Albert Barnes": [
+            "A man is said often to do a thing when he furnishes means for doing it."
+        ],
+        "Marvin Vincent": [
+            "The expression means merely that the field was purchased with the money of Judas.",
+            "Falling headlong. Lit., having become headlong.",
+            "He burst asunder. Only here in New Testament. Lit., to crack, to burst with a noise."
+        ],
+        "John Calvin": [
+            "He enjoyed not the money; he only possessed the field.",
+            "Furthermore, it came to pass through the marvelous providence of God, that the very common name of the field should be a note of infamy for the priests.",
+            "And out of this place must we learn, that the wicked shall not escape scott free, which have persecuted the Church of God; for this miserable and wretched end is prepared for them all."
+        ],
+        "Archibald T. Robertson": [
+            "Falling headlong (\u03c0\u03c1\u03b7\u03bd\u03b7\u03c2 \u03b3\u03b5\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2). The word means, not 'headlong,' but 'flat on the face' as opposed to \u03c5\u03c0\u03c4\u03b9\u03bf\u03c2 on the back (Hackett).",
+            "The place suits admirably the idea that Judas hung himself (Matthew 27:5) and, the rope breaking, fell flat on his face and burst asunder in the midst (\u03b5\u03bb\u03b1\u03ba\u03b7\u03c3\u03b5\u03bd \u03bc\u03b5\u03c3\u03bf\u03c2).",
+            "Gushed out (\u03b5\u03be\u03b5\u03c7\u03c5\u03b8\u03b7). First aorist passive indicative of \u03b5\u03ba\u03c7\u03b5\u03c9, to pour out."
+        ],
+        "John Gill": [
+            "It is somewhat difficult, that Judas should be said to purchase it, when Matthew says the chief priests bought it.",
+            "The Vulgate Latin, and Arabic versions render it, 'he possessed' it; not in person, unless he was buried there, as he might be.",
+            "And this was the miserable end of Judas. The death of Arius, as related by Athanasius, from Macarius the presbyter, who was present, was much after the same manner; who reports, that having swore to the orthodox faith, and being about to be introduced into the church at Constantinople, after the prayer of Alexander, the bishop of it, he went out to the seat, to ease nature; when he, on a sudden, fell down headlong, and burst in the middle, and immediately expired."
+        ],
+        "John Wesley": [
+            "This man purchased a field with the reward of iniquity.\" ",
+            "A field was purchased with the reward of his iniquity.",
+            "It seems the rope broke before, or as he died."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The attempts to harmonize the accounts of Judas's death only reveal the desperation of those trying to fit the narratives into a predetermined system. Falling headlong likely indicates a sudden fall forward by a stroke from God or by accident, not a deliberate suicide. The discrepancy between purchasing the field and falling headlong can be explained by recognizing that falling headlong refers to falling flat on the face, not on the back. The idea that Judas hanged himself and fell flat on his face, bursting asunder in the midst, aligns well with the location of the field. The purchase of the field with the money of Judas reveals the irony and infamy associated with the priests who used the money. Judas's fate serves as a warning that the wicked will not escape the consequences of persecuting the Church.",
+            "wordCount": 140,
+            "quoteTokenProportion": 32.53,
+            "qualityScore": 1.5749518485481744,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
+            "commentatorTierSimilarities": [
+                43.59,
+                18.98,
+                37.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The attempts to reconcile the two accounts of Judas's death reveal the desperate efforts of those trying to fit the narratives into a system. Falling headlong suggests a sudden fall on the face from God or by accident. The discrepancy in purchasing the field and falling headlong can be explained by recognizing that falling headlong means falling flat on the face, not the back. The irony of buying the field with Judas's money highlights the infamy of the priests. Judas's fate serves as a warning that the wicked won't escape the consequences of persecuting the Church.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5354544950703344,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.4,
+            "commentatorTierSimilarities": [
+                41.67,
+                22.24,
+                36.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The attempts to reconcile the accounts of Judas's death expose the shifts made by high-minded individuals to harmonize them to their system. Falling headlong suggests a sudden fall on the face by a stroke from God or an accident, rather than a deliberate suicide. The discrepancy in purchasing the field and falling headlong can be explained by understanding that falling headlong means falling flat on the face, not on the back. The purchase of the field with Judas's money highlights the irony and infamy associated with the priests. Judas's fate serves as a warning for the wicked who persecute the Church.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.4773705926654501,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.47,
+            "commentatorTierSimilarities": [
+                42.71,
+                22.02,
+                35.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The attempts to harmonize the accounts of Judas's death only reveal the desperation of fitting them into a system. Falling headlong suggests a sudden fall forward by a stroke from God or accident, not suicide. The discrepancy in purchasing the field and falling headlong is explained by understanding that it means falling flat on the face. The irony of buying the field with Judas's money highlights the priests' infamy. Judas's fate warns that the wicked won't escape the consequences of persecuting the Church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.556334229353251,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+            "commentatorTierSimilarities": [
+                40.82,
+                25.2,
+                33.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The attempts to reconcile the accounts of Judas's death expose the shifts made by high-minded individuals to harmonize them to their system. Falling headlong suggests a sudden fall on the face by a stroke from God or an accident, rather than a deliberate suicide. The discrepancy in purchasing the field and falling headlong can be explained by understanding that falling headlong means falling flat on the face, not on the back. The purchase of the field with Judas's money highlights the irony and infamy associated with the priests. Judas's fate serves as a warning for the wicked.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.46892123603608,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.18,
+            "commentatorTierSimilarities": [
+                43.98,
+                23.77,
+                32.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

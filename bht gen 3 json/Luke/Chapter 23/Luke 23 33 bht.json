@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:23:39",
+    "verseRef": "Luke 23:33",
+    "bestBHT": {
+        "bht": "At Calvary, they crucified Jesus between two robbers on the very cross intended for Barabbas. The location was called Calvary or Golgotha, likely because it resembled a skull. This starkly contrasts Jesus, the innocent one, with the two robbers. While there is a tradition suggesting that Adam's skull was buried here, it is not widely accepted. Crucifixions were commonly conducted on elevated places, but the term Mount Calvary is inaccurate for this location.",
+        "wordCount": 74,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 1.6317062187808031,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+        "commentatorTierSimilarities": [
+            24.35,
+            36.76,
+            38.89
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Calvary [\u03ba\u03c1\u03b1\u03bd\u03b9\u03bf\u03bd] . The Greek word is the translation of the Hebrew Golgotha. See on Matthew 27:33. ",
+            "- 43. Compare Matthew 27:39-44; Mark 14:29-32."
+        ],
+        "Philip Schaff": [
+            "\u2018Calvary\u2019 is of kindred meaning, but taken from the Latin version.",
+            "The name probably arose from a resemblance to a skull in the shape of the slight elevation where the crosses were placed.",
+            "Mount Calvary is an erroneous expression. It could scarcely have been the usual place of execution."
+        ],
+        "Archibald T. Robertson": [
+            "The skull (\u03c4\u03bf \u03ba\u03c1\u03b1\u03bd\u03b9\u03bf\u03bd). Probably because it looked like a skull.",
+            "There they crucified him (\u03b5\u03ba\u03b5 \u03b5\u03c3\u03c4\u03b1\u03c5\u03c1\u03c9\u03c3\u03b1\u03bd). There between the two robbers and on the very cross on which Barabbas, the leader of the robber band, was to have been crucified.",
+            "One (\u03bf\u03bd \u03bc\u03b5\u03bd), the other (\u03bf\u03bd \u03b4\u03b5). Common idiom of contrast with this old demonstrative \u03bf\u03c2 and \u03bc\u03b5\u03bd and \u03b4\u03b5."
+        ],
+        "John Gill": [
+            "And when they were come to the place which was called Calvary... so called from the skulls of persons that lay about, who were executed.",
+            "It is a tradition of the ancients that Adam was buried in this place where Christ was crucified, and that his skull lay here.",
+            "It was usual to crucify on high places, and on mountains, such an one as this was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At Calvary, Jesus was crucified between two robbers on the very cross intended for Barabbas. The location was called Calvary or Golgotha, likely due to its resemblance to a skull. This contrast between Jesus, the innocent one, and the two robbers is emphasized. Though some have claimed that Adam's skull was buried at this site, the tradition is not widely accepted. While it is said that crucifixions often took place on mountains or high places, Mount Calvary is an inaccurate term for the location.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.6316949280179025,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+            "commentatorTierSimilarities": [
+                23.42,
+                36.86,
+                39.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At Calvary, Jesus was crucified between two robbers on the very cross intended for Barabbas. The location was called Calvary or Golgotha, likely due to its resemblance to a skull. This contrast between Jesus, the innocent one, and the two robbers is emphasized. Though some have claimed that Adam's skull was buried at this site, the tradition is not widely accepted. While it is said that crucifixions often took place on mountains or high places, Mount Calvary is an inaccurate term.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.6256629802209017,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.4,
+            "commentatorTierSimilarities": [
+                23.34,
+                36.87,
+                39.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At Calvary, they crucified Jesus between two robbers on the very cross intended for Barabbas. The location was called Calvary or Golgotha, likely because it resembled a skull. This starkly contrasts Jesus, the innocent one, with the two robbers. While there is a tradition suggesting that Adam's skull was buried here, it is not widely accepted. Crucifixions were commonly conducted on elevated places, but the term Mount Calvary is inaccurate for this location.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.6317062187808031,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+            "commentatorTierSimilarities": [
+                24.35,
+                36.76,
+                38.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At Calvary, they crucified Jesus between two robbers on the very cross intended for Barabbas. The location was called Calvary or Golgotha, likely because it resembled a skull. This contrast between Jesus, the innocent one, and the two robbers is emphasized. Though some claim that Adam's skull was buried here, it is not widely accepted. While crucifixions often took place on mountains or high places, Mount Calvary is an inaccurate term for this location.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.6209758469087558,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
+            "commentatorTierSimilarities": [
+                23.44,
+                36.8,
+                39.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Calvary, also known as Golgotha, is where they crucified Jesus between two robbers on the very cross intended for Barabbas. The name Calvary likely derives from its resemblance to a skull. This location highlights the contrast between Jesus, the innocent one, and the two robbers. Although there is a tradition associating Adam's skull with this place, it is not widely accepted. While crucifixions commonly took place on high places or mountains, it is incorrect to refer to it as Mount Calvary.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.5882597113114305,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
+            "commentatorTierSimilarities": [
+                24.62,
+                39.74,
+                35.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

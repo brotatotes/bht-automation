@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:20:15",
+    "verseRef": "Colossians 1:18",
+    "bestBHT": {
+        "bht": "Jesus Christ is proclaimed as the Head of the body, the Church, being the Beginning and the one in whom the Church finds its origin and purpose. His pre-eminence in all things is the aim and purpose of His priority over creation and His resurrection. The Church is considered His body because He entered into communion with human nature. Just as He is the Head of all things by creation, He is also the Head of the Church. He is the first in rank, having priority in time and power over the Church.",
+        "wordCount": 94,
+        "quoteTokenProportion": 44.68,
+        "qualityScore": 2.5711809731426447,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.83,
+        "commentatorTierSimilarities": [
+            38.95,
+            31.87,
+            29.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And He (emphatic; not any angels nor created beings: the whole following passage has a controversial bearing on the errors of the Colossian teachers) is the Head of the body, the Church.",
+            "He is the Beginning, in that in Him is begun and conditioned the Church.",
+            "That He (emphatic again: see above) may become (the aim and purpose of this his priority over creation and in resurrection) in all things pre-eminent."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Church is His body by virtue of His entering into communion corporeally with human nature.",
+            "The same One who is the Head of all things and beings by creation, is also, by virtue of being 'the first-born from the dead,' and so 'the first-fruits' of the new creation among men, the Head of the Church.",
+            "Christ by rising from the dead is the efficient cause, as having obtained the power, and the exemplary cause, as being the pattern, of our resurrection: the resurrection of 'the Head' involves consequentially that of the members."
+        ],
+        "Albert Barnes": [
+            "He is the fountain of authority and power, and commences everything that is designed to uphold the order of the universe, and to save the world.",
+            "He had the pre-eminence among them all; he was the most illustrious of those who will be raised from the dead, and is the head over them all.",
+            "He has the pre-eminence: As over the universe which he has formed - as its Creator and Proprietor; As chief among those who shall rise from the dead; As head of the church; In the affections of his friends."
+        ],
+        "Marvin Vincent": [
+            "The Church is described as a body... by way of illustrating the functions of the members.",
+            "There is a parallelism between first-born of the creation and first-born from the dead as regards the relation of headship in which Christ stands to creation and to the Church alike; but the parallelism is not complete.",
+            "He became head of the Church through His incarnation and passion, as He is head of the universe in virtue of His absolute and eternal being."
+        ],
+        "John Calvin": [
+            "He shews, therefore, that it is Christ that alone has authority to govern the Church, that it is he to whom alone believers ought to have an eye, and on whom alone the unity of the body depends.",
+            "I am also well aware of the cavil by which they attempt to escape \u2014 that the Pope is a ministerial head. The name, however, of head is too august to be rightfully transferred to any mortal man, under any pretext, especially without the command of Christ.",
+            "For if he is the Author and Restorer of all things, it is manifest that this honor is justly due to him."
+        ],
+        "Philip Schaff": [
+            "The emphasis resting on \u2018He\u2019 suggests a reference to the errors prevalent in the Colossian Church.",
+            "He is the 'beginning,' in that in Him is begun and conditioned the Church.",
+            "He and none other, the very one who rose, might have the preeminence, become the first in rank; the word occurring only here in the New Testament."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus is first also in the spiritual realm as he is in nature.",
+            "Christ has priority in time and in power.",
+            "Christ is first with Paul in time and in rank."
+        ],
+        "John Gill": [
+            "By 'the church' is meant, not any particular congregated church, but the whole election of grace, the general assembly and church of the firstborn.",
+            "Of all things he is the first, and has the precedence and primacy; in sonship, no one is a Son in the sense he is; in election, he was chosen first, and his people in him; in the covenant, he is the surety, Mediator, and messenger of it, he is that itself.",
+            "He died, revived, and rose again, that he might be Lord both of dead and living; and he ought to have the pre-eminence and first place in the affections of our hearts, in the contemplations of our minds, in the desires of our souls, and in the highest praises of our lips."
+        ],
+        "John Wesley": [
+            "He is the head of the church \u2014 Universal; the supreme and only head both of influence and of government to the whole body of believers.",
+            "The first begotten from the dead \u2014 From whose resurrection flows all the life, spiritual and eternal, of all his brethren.",
+            "That in all things \u2014 Whether of nature or grace. He might have the pre-eminence \u2014 Who can sound this depth?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus Christ is proclaimed as the Head of the body, the Church. He is the Beginning, the one in whom the Church finds its origin and purpose. His pre-eminence in all things is the aim and purpose of His priority over creation and His resurrection. The Church is considered His body because He entered into communion with human nature. Just as He is the Head of all things by creation, He is also the Head of the Church by virtue of being the first-born from the dead. Through His incarnation and passion, Jesus became the head of the Church and holds authority to govern it. He is the first in rank, having priority in time and power. He is the fountain of authority and power, upholding the order of the universe and saving the world. The emphasis on He suggests a reference to the errors prevalent in the Colossian Church, indicating that Christ alone should have the preeminence, becoming the first in rank.",
+            "wordCount": 165,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.419831629604201,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.8,
+            "commentatorTierSimilarities": [
+                37.2,
+                33.85,
+                28.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus Christ is proclaimed as the Head of the body, the Church, being the Beginning and the one in whom the Church finds its origin and purpose. His pre-eminence in all things is the aim and purpose of His priority over creation and His resurrection. The Church is considered His body because He entered into communion with human nature. Just as He is the Head of all things by creation, He is also the Head of the Church. He is the first in rank, having priority in time and power over the Church.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 2.5711809731426447,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.83,
+            "commentatorTierSimilarities": [
+                38.95,
+                31.87,
+                29.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus Christ is proclaimed as the Head of the body, the Church, being the Beginning and the one in whom the Church finds its origin and purpose. His pre-eminence in all things is the aim and purpose of His priority over creation and His resurrection. The Church is considered His body because He entered into communion with human nature. He is the first in rank, having priority in time and power over the Church. His authority to govern the Church is unquestionable, as believers ought to have their focus on Him alone, as He is the source of unity within the body.",
+            "wordCount": 103,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.525049144695995,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.3,
+            "commentatorTierSimilarities": [
+                38.13,
+                31.27,
+                30.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus Christ is the Head of the body, the Church, and the Beginning from which it is conditioned. His pre-eminence in all things is the purpose of His priority over creation and His resurrection. The Church is His body because of His communion with human nature. As the Head, He holds authority to govern the Church, and believers should focus on Him alone for the unity of the body. His priority in time and power makes Him the first in rank, deserving of the highest affections and praises.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.407183729871292,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.38,
+            "commentatorTierSimilarities": [
+                37.73,
+                31.19,
+                31.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus Christ is proclaimed as the Head of the body, the Church. He is the Beginning, the one in whom the Church finds its origin and purpose. His pre-eminence in all things is the aim and purpose of His priority over creation and His resurrection. The Church is considered His body because He entered into communion with human nature. Just as He is the Head of all things by creation, He is also the Head of the Church. Through His incarnation and passion, Jesus became the head of the Church and holds authority to govern it.",
+            "wordCount": 97,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.5237809989458544,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.26,
+            "commentatorTierSimilarities": [
+                38.71,
+                31.57,
+                29.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

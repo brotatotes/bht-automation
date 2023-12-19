@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:31:01",
+    "verseRef": "Acts 13:52",
+    "bestBHT": {
+        "bht": "The disciples faced persecution for the Gospel, yet they were filled with joy and with the Holy Spirit. Their experience of joy and elevated emotions testifies to the power of the Gospel in the midst of adversity. This serves as a reminder that the blood of the martyrs remains the seed of the church, as the disciples' faith and joy, even in the face of suffering, continues to inspire and strengthen believers.",
+        "wordCount": 72,
+        "quoteTokenProportion": 35.56,
+        "qualityScore": 2.2238028547846653,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.28,
+        "commentatorTierSimilarities": [
+            30.31,
+            31.9,
+            37.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "52.] See, for similar \u201cjoyful perorations,\u201d as Dr. Wordsworth well designates them, Luke xxiv. 52; ch. v. 41; xii. 24."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the disciples ... had to endure sufferings for the Gospel\" ",
+            "were filled with joy and with the Holy Ghost\" ",
+            "filled them with holy and elevated emotions"
+        ],
+        "Albert Barnes": [
+            "The disciples...Were filled with joy.\" ",
+            "This happened even in the midst of persecution.",
+            "...one of the many evidences that the gospel is able to fill the soul with joy even in the severest trials."
+        ],
+        "John Calvin": [
+            "There is no quietness, peace, or joy of conscience, but it cometh of the Spirit of God.",
+            "The grace of the Holy Spirit reigned in them, which alone doth so make us glad, truly and perfectly, that we are carried up above the whole world.",
+            "If our faith shall be well grounded in God, and shall be thoroughly rooted in his word; and, finally, if it shall be well fortified with the aid of the Spirit as it ought, it shall nourish peace and joy spiritual in our minds, though all the world be in an uproar."
+        ],
+        "Philip Schaff": [
+            "The members of the Antioch Church...were 'filled with joy and with the Holy Ghost.'\" ",
+            "The sufferings of a Master, far from discouraging the disciple, gives fresh ardour to his purpose."
+        ],
+        "Archibald T. Robertson": [
+            "Persecution had precisely the opposite effect to the intention of the Jews for they 'were filled with joy and the Holy Spirit.'\" (Act 13:52)",
+            "The blood of the martyrs is still the seed of the church.\" (Act 13:52)",
+            "They kept on being filled [with joy and the Holy Spirit].\" (Act 13:52)"
+        ],
+        "John Gill": [
+            "Rejoiced, both at the success they had met with, and because they were counted worthy to suffer reproach and persecution for the sake of Christ and his Gospel.",
+            "The disciples at Antioch, and other parts of Pisidia, the new converts; who were filled with joy at the Gospel being preached unto them, and at the constancy and courage of the apostles in suffering for it.",
+            "The Holy Ghost; which, with the former, designs the same thing as spiritual joy, or joy in the Holy Ghost; or else the gifts and graces of the Spirit, which they had both for their own comfort, and the advantage of others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples in Acts 13:52 faced suffering for the sake of the Gospel, yet they were not discouraged. Instead, they were filled with joy and the Holy Spirit, experiencing a deep sense of gladness and elevated emotions. The persecution they endured had the opposite effect of what was intended, as they became even more joyful and filled with the Holy Spirit. This reminds us that the blood of the martyrs continues to be the seed of the church, as the disciples' steadfast faith and joy in the midst of trials served as a powerful witness to others.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.186802052766872,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+            "commentatorTierSimilarities": [
+                31.97,
+                31.84,
+                36.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples in Acts 13:52 endured suffering for the sake of the Gospel, yet they were filled with joy and with the Holy Ghost. Despite facing persecution, their faith and joy remained unshaken. This serves as a powerful testament to the transformative power of the Gospel, as even in the midst of trials, their joy and the Holy Spirit within them only grew stronger. Their example reminds us that the blood of the martyrs continues to nourish and inspire the Church.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.1029593777000266,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.26,
+            "commentatorTierSimilarities": [
+                31.14,
+                32.21,
+                36.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples in the passage faced suffering for the Gospel, yet it had the opposite effect intended by their persecutors. Rather than being discouraged, they were filled with joy and the Holy Spirit. This experience of joy and elevation of emotions highlights the transformative power of the Gospel, as the disciples found joy even in the midst of severe trials. Their unwavering faith and joy serve as a testament to the enduring strength of the Church, as the blood of the martyrs continues to be the seed that sustains and grows it.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.1034880228974635,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.28,
+            "commentatorTierSimilarities": [
+                30.7,
+                33.23,
+                36.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples faced persecution for the Gospel, yet they were filled with joy and with the Holy Spirit. Their experience of joy and elevated emotions testifies to the power of the Gospel in the midst of adversity. This serves as a reminder that the blood of the martyrs remains the seed of the church, as the disciples' faith and joy, even in the face of suffering, continues to inspire and strengthen believers.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 2.2238028547846653,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.28,
+            "commentatorTierSimilarities": [
+                30.31,
+                31.9,
+                37.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples endured suffering for the Gospel, but instead of discouraging them, the persecution only had the opposite effect. They were filled with joy and with the Holy Ghost, experiencing a deep sense of gladness and elevated emotions. Their unwavering faith and joy in the midst of trials served as a powerful witness to others, showing that the blood of the martyrs is still the seed of the church. This reminds us of the transformative power of the Gospel, which can bring genuine peace and joy even in the midst of turmoil.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.017264202724659,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                30.32,
+                32.56,
+                37.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

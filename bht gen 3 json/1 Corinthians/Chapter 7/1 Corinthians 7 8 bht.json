@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:07:01",
+    "verseRef": "1 Corinthians 7:8",
+    "bestBHT": {
+        "bht": "For those who are unmarried, both men and women, it is good for them to remain unmarried. This does not mean that it is better to be unmarried, but rather that it is their best way. The term unmarried encompasses both those who have never been married and widows. Paul himself was never married and presents himself as an example to widowers and widows, offering his judgment and advice based on his experiences. Remaining unmarried allows for freedom from the cares of life and more time to serve the Lord.",
+        "wordCount": 90,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.9128451917570706,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+        "commentatorTierSimilarities": [
+            26.2,
+            44.93,
+            28.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the unmarried, of both sexes: not as usually interpreted, widowers, or unmarried males alone: this is shewn by the contrasted term, 'the married,' which embraces (see vv. 10, 11) both sexes.\" ",
+            "It is good for them, i.e. 'it is their best way.'\" ",
+            "There can be little doubt from this, that he [Paul] never was married."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. to the unmarried\u2014in",
+            "\tgeneral, of both sexes (1 Corinthians 7:10;",
+            "\t1 Corinthians 7:11). ",
+            "\t",
+            "and widows\u2014in",
+            "\tparticular. ",
+            "\t",
+            "even as I\u2014unmarried",
+            "\t(1 Corinthians 9:5)."
+        ],
+        "Albert Barnes": [
+            "It is good for them - It may be advisable, in the present circumstances of persecution and distress, not to be encumbered with the cares and anxieties of a family.",
+            "The word unmarried (\u03b1\u0313\u03b3\u03b1\u0301\u03bc\u03bf\u03b9\u03c2 agamois) may refer either to those who had never been married, or to widowers.",
+            "That they abide - That they remain, in the present circumstances, unmarried."
+        ],
+        "John Calvin": [
+            "The sum is this, that an unmarried life has many advantages, and that these are not to be despised, provided every one measures himself according to his own size and measure.",
+            "Hence, though virginity should be extolled even to the third heavens, this, at the same time, always remains true \u2014 that it does not suit all, but only those who have a special gift from God.",
+            "Let us, then, imitate his example, so that if we excel in any particular gift, we do not rigorously insist upon it on the part of others, who have not as yet reached that height."
+        ],
+        "Archibald T. Robertson": [
+            "He does not say that it is better to be unmarried, but only that it is good (\u03ba\u03b1\u03bb\u03bf\u03bd as in verse 1 Corinthians 7:1) for them to remain unmarried.",
+            "\u0391\u03b3\u03b1\u03bc\u03bf\u03c2 is an old word and in N.T. occurs only in this passage.",
+            "In verses 1 Corinthians 7:11; 1 Corinthians 7:34 it is used of women where the old Greeks would have used \u03b1\u03bd\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2, without a husband."
+        ],
+        "John Gill": [
+            "It is good for them if they abide; unmarried, and do not change their condition any more; not that it was sinful to marry again, for he allows of it in the next verse, in case they have not the gift of continence; and therefore 'good' here, is not opposed to evil, only signifies that it would be better for them, more expedient and profitable for them.",
+            "They would be more free from the cares of life, have less trouble, and be more at leisure to serve the Lord.",
+            "He proposes himself as an example to widowers and widows; and having known what a married and single state both were, was better able to give his judgment of both, and proper advice to such persons which must come with more force and strength, and a better grace, from such an one."
+        ],
+        "John Wesley": [
+            "It is good for them if they remain even as I.\" ",
+            "That St. Paul was then single is certain.",
+            "It does not appear that this declaration, any more than1Corinthians7:1, hath any reference at all to a state of persecution."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For those who are unmarried, both men and women, it is their best way to remain unmarried. This does not mean that it is better to be unmarried, but rather that it is good for them to remain unmarried. The term unmarried encompasses both those who have never been married and widows. Paul himself was never married, and he presents himself as an example to widowers and widows, offering his judgment and advice based on his experiences in both the married and unmarried states. Remaining unmarried allows for freedom from the cares of life, less trouble, and more time to serve the Lord. It is important to recognize that while virginity may be praised, it is not for everyone, as it is a special gift from God. Therefore, those who have this gift should not impose it on others, but rather imitate Paul's example and measure themselves according to their own abilities.",
+            "wordCount": 153,
+            "quoteTokenProportion": 48.86,
+            "qualityScore": 1.842847384418051,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                25.94,
+                41.94,
+                32.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For those who are unmarried, both men and women, it is good for them to remain unmarried. This does not mean that it is better to be unmarried, but rather that it is their best way. The term unmarried encompasses both those who have never been married and widows. Paul himself was never married and presents himself as an example to widowers and widows, offering his judgment and advice based on his experiences. Remaining unmarried allows for freedom from the cares of life and more time to serve the Lord.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.9128451917570706,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+            "commentatorTierSimilarities": [
+                26.2,
+                44.93,
+                28.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For those who are unmarried, both men and women, it is good for them to remain unmarried. The term unmarried includes those who have never been married and widows. Paul, who was also unmarried, offers his own example as guidance. Remaining unmarried provides freedom from the cares of life and allows for more devoted service to the Lord. While virginity may be celebrated, it is important to recognize that not everyone has this special gift from God, and therefore one should not impose it on others.",
+            "wordCount": 86,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.764274431251899,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.0,
+            "commentatorTierSimilarities": [
+                26.6,
+                42.6,
+                30.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For those who are unmarried, both men and women, it is good for them to remain unmarried. Paul, who was himself unmarried, serves as an example for widows and widowers, offering his judgment based on his own experiences. Remaining unmarried allows for freedom from worldly cares and the ability to devote more time to serving the Lord. While virginity is praiseworthy, it is important to recognize that not everyone has this gift from God, and therefore one should not impose it on others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.7886688578758378,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                24.83,
+                43.21,
+                31.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For those who are unmarried, both men and women, it is good for them to remain unmarried. Paul, who was himself unmarried, serves as an example for widows and widowers, offering his judgment based on his own experiences. Remaining unmarried allows for freedom from worldly cares and more time to serve the Lord. While virginity is praiseworthy, it is important to recognize that not everyone has this special gift from God and, therefore, should not impose it on others.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.812237108181714,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+            "commentatorTierSimilarities": [
+                24.62,
+                42.94,
+                32.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

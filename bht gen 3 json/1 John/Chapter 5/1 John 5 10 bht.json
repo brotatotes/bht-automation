@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:49:28",
+    "verseRef": "1 John 5:10",
+    "bestBHT": {
+        "bht": "Believing in the testimony of God about His Son, Jesus Christ, is crucial for true faith. It is faith in the person of Christ, not just the fact that He is the Son of God, that leads to the assurance of salvation. Rejecting God's testimony is essentially calling Him a liar and refusing His gracious gift of salvation through His Son. The testimony of God becomes subjective within the believer, confirming the truth of their faith. To deny or doubt this testimony is to deny the credibility and infallibility of God Himself.",
+        "wordCount": 93,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 2.671712566618707,
+        "qualityScoreNormalizedComparedToV2BHTs": 80.17,
+        "commentatorTierSimilarities": [
+            31.39,
+            36.48,
+            32.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The witness of the Spirit in the believer himself to his own sonship is not here expressed, but follows as a consequence of believing the witness of God to Jesus' divine Sonship.",
+            "Refusal to credit God's testimony ('believeth not God') is involved in refusal to believe IN (to rest one's trust in) Jesus Christ, the object of God's record or testimony.",
+            "Divine 'faith' is an assent unto something as credible upon the testimony of God. This is the highest kind of faith; because the object hath the highest credibility, because grounded upon the testimony of God, which is infallible."
+        ],
+        "Albert Barnes": [
+            "He that believeth on the Son of God hath the witness in himself - The evidence that Jesus is the Son of God.",
+            "There is the evidence derived from the fact that the soul has found peace by believing on him; from the fact that the troubles and anxieties of the mind on account of sin have been removed by faith in Christ; from the new views of God and heaven which have resulted from faith in the Lord Jesus; from the effect of this in disarming death of its terrors; and from the whole influence of the gospel on the intellect and the affections - on the heart and the life.",
+            "God had become a 'witness' that the Lord Jesus was sent by him as a Saviour, and that to doubt or deny this partook of the same character as doubting or denying any other testimony; that is, it was practically charging him who bore the testimony with falsehood."
+        ],
+        "Marvin Vincent": [
+            "Faith in the person of Christ, not merely in the fact that Jesus is the Son of God.",
+            "To believe God, is to believe the message which comes from Him.",
+            "The act perpetuates itself in the present condition of the unbeliever."
+        ],
+        "John Calvin": [
+            "We can have no faith in God except by believing in Christ, because God sets him alone before us and makes us to stand in him.",
+            "The faithful possess this benefit, that they know themselves to be beyond the danger of erring, because they have God as their foundation.",
+            "The glory of God is implicated in this; for since he designed to show a special instance of his truth in the gospel, all they who reject Christ there offered to them, leave nothing to him."
+        ],
+        "Philip Schaff": [
+            "He that believeth on the Son of God hath the witness in himself. The testimony has become subjective: the \u2018three agree in one\u2019 within the believer\u2019s consciousness.\" ",
+            "Faith is followed by full assurance; but the assurance is here the possession of life itself.\" ",
+            "He who believes not the witness given by God concerning His Son rejects the utmost possible evidence that God, knowing man\u2019s necessity, could give him. It is supposed that he has the evidence before him, and that in the form of spoken or written evidence; it is further supposed that he deliberately rejects the testimony, knowing it to be Divine."
+        ],
+        "Archibald T. Robertson": [
+            "John draws a distinction between 'not believing God' in next clause, the testimony of God about his Son, and surrender to and reliance on the Son as here.",
+            "'In himself,' though the evidence is not decisive between \u03b1\u03c5\u03c4\u03c9 and \u03b1\u03c5\u03c4\u03c9.",
+            "'As in 1 John 1:10, which see."
+        ],
+        "John Gill": [
+            "He that with the heart believes in him for righteousness, and eternal life, he being the Son of God, truly and properly God, and so able to save all that believe in him, hath the witness in himself...",
+            "So he comes to have such a witness in himself, that if ten thousand arguments were ever so artfully formed, in favour of the purity of human nature... they would all signify nothing to him, he would be proof against them.",
+            "He that believeth not God; does not receive his testimony concerning his Son... hath made him a liar; who is the God, of truth, and cannot lie..."
+        ],
+        "John Wesley": [
+            "He that believeth on the Son of God hath the testimony \u2014 The dear evidence of this, in himself.",
+            "he that believeth not God, in this, hath made him a liar; because he supposes that to be false which God has expressly testified."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believing in the testimony of God about His Son, Jesus Christ, is crucial for true faith. It is faith in the person of Christ, not just the fact that He is the Son of God, that leads to the assurance of salvation. Those who trust in Jesus find peace, relief from anxiety, and a transformed life. Rejecting God's testimony is essentially calling Him a liar and refusing His gracious gift of salvation through His Son. The testimony of God becomes subjective within the believer, confirming the truth of their faith. To deny or doubt this testimony is to deny the credibility and infallibility of God Himself.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.5169120841973855,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.03,
+            "commentatorTierSimilarities": [
+                30.99,
+                37.16,
+                31.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believing in the testimony of God about His Son, Jesus Christ, is crucial for true faith. It is faith in the person of Christ, not just the fact that He is the Son of God, that leads to the assurance of salvation. Rejecting God's testimony is essentially calling Him a liar and refusing His gracious gift of salvation through His Son. The testimony of God becomes subjective within the believer, confirming the truth of their faith. To deny or doubt this testimony is to deny the credibility and infallibility of God Himself.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.671712566618707,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.17,
+            "commentatorTierSimilarities": [
+                31.39,
+                36.48,
+                32.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believing in the testimony of God about His Son, Jesus Christ, is crucial for true faith. Refusing to believe in Jesus Christ is a refusal to credit God's testimony. The witness of the Spirit in the believer confirms this testimony. Faith in the person of Christ, grounded on the infallible testimony of God, leads to a transformed life. Denying or doubting God's testimony is essentially making Him a liar. To embrace God's testimony is to trust in His message and receive the assurance of salvation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.5891646309578222,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.43,
+            "commentatorTierSimilarities": [
+                32.22,
+                36.3,
+                31.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believing in the testimony of God about Jesus Christ is essential for genuine faith. This faith goes beyond simply acknowledging that Jesus is the Son of God; it involves resting one's trust in Him. Refusal to believe God's testimony is essentially rejecting the highest level of credibility, grounded on God's infallible testimony. Embracing this testimony not only results in the assurance of salvation but also transforms the believer's life. Denying or questioning God's testimony is tantamount to accusing Him of falsehood, undermining the glory of God displayed in the gospel.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.566587057270377,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.68,
+            "commentatorTierSimilarities": [
+                30.94,
+                36.57,
+                32.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believing in God's testimony about Jesus Christ is crucial for genuine faith. This faith goes beyond mere factual belief in Jesus as the Son of God; it involves trusting in Him. Rejecting God's testimony equates to questioning His credibility and grace. Embracing this testimony results in assurance and a transformed life. Denying or doubting this testimony implies accusing God of falsehood. The testimony becomes subjective within the believer, confirming the truth of their faith and leaving no room for error.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.4128569629728327,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.57,
+            "commentatorTierSimilarities": [
+                31.84,
+                36.95,
+                31.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

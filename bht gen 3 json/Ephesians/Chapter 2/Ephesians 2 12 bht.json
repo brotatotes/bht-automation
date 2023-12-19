@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:29:32",
+    "verseRef": "Ephesians 2:12",
+    "bestBHT": {
+        "bht": "The Gentiles were once alienated from the commonwealth of Israel and the covenants of the promise, rendering them without hope and without God in the world. However, through Christ, they are no longer separated from this spiritual commonwealth, and are able to partake in the promise of salvation. Without Christ, they would remain without a church, without any promise of hope, godless, and without a spiritual home in the world.",
+        "wordCount": 70,
+        "quoteTokenProportion": 47.5,
+        "qualityScore": 2.3564905339316917,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.69,
+        "commentatorTierSimilarities": [
+            37.25,
+            32.86,
+            29.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Alienated from... the commonwealth of Israel... and strangers from... the covenants of the promise.\" ",
+            "Not having hope (not 'covenanted hope,'\u2014but 'hope' at all), and without God.",
+            "Forsaken of God... in the world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The expression, 'alienated from,' takes it for granted that the Gentiles, before they had apostatized from the primitive truth, had been sharers in light and life.",
+            "The promise' is singular, to signify that the covenant, in reality, and substantially, is one and the same at all times, but only different in its accidents and external circumstances.",
+            "Epicurus and Aristotle did not believe in it at all. The Platonists believed the soul passed through perpetual changes, now happy, and then again miserable; the Stoics, that it existed no longer than till the time of the general burning up of all things."
+        ],
+        "Albert Barnes": [
+            "The object of the apostle is to remind them of the deplorable condition in which they were by nature; and nothing would better express it than to say they were 'without Christ,' or that they had no knowledge of a Saviour.",
+            "Many were infidels. Many were scoffers. Many were profane, sensual, corrupt. Many rejected Christ with scorn; many, by simple neglect.",
+            "To be in possession of them was regarded as a high honor and privilege; and Paul refers to it here to show that, though the Ephesians had been by nature without these, yet they had now been brought to enjoy all the benefits of them."
+        ],
+        "Marvin Vincent": [
+            "Paul speaks ideally of a spiritual commonwealth in which Jew and Gentile were together at peace with God.\" ",
+            "In being separated from Christ, they were separated from that commonwealth in which, according to the promise, Christ would have been to them, as to the faithful Israelites, the object of their faith and the ground of their salvation.",
+            "The messianic promise, which was the basis of all the covenants."
+        ],
+        "John Calvin": [
+            "But for him that is without Christ, there remains nothing but destruction.",
+            "Take away the covenant of salvation, and there remains no hope.",
+            "Out of Christ there are none but idols."
+        ],
+        "Philip Schaff": [
+            "This was the state of the Gentiles. What follows is an expansion of the meaning of this phrase, not something additional, or confirmatory.",
+            "The reference is not to a civil constitution, or to citizenship, but rather to the theocratic spiritual privileges which the Jewish people possessed.",
+            "The whole verse asserts that they were, as Gentiles, deprived of Christ, and this meant, without church, without promise, hopeless, godless, homeless."
+        ],
+        "Archibald T. Robertson": [
+            "Separate from Christ... their former condition as heathen.",
+            "Alienated from the commonwealth of Israel... the spiritual Israel or Kingdom of God.",
+            "Having no hope... No hope of any kind... a more subjective picture."
+        ],
+        "John Gill": [
+            "They were without any knowledge of him, faith in him, love to him, communion with him, or subjection to him, his Gospel, government, laws, and ordinances.",
+            "So great an alienation and distance were there between these two people.",
+            "Without the knowledge of God in Christ; without the image of God, which was defaced by sin; without the grace and fear of God; and without communion with him, and the worship of him."
+        ],
+        "John Wesley": [
+            "Having no hope \u2014 Because they had no promise whereon to ground their hope.",
+            "Being without God - Wholly ignorant of the true God, and so in effect atheists.",
+            "In the world \u2014 The wide, vain world, wherein ye wandered up and down, unholy and unhappy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Before coming to Christ, the Gentiles were completely separated from the commonwealth of Israel and the covenants of the promise. They had no hope, no connection to God, and were forsaken in the world. However, in this verse, Paul speaks of a spiritual commonwealth in which Jew and Gentile are together at peace with God. Through Christ, the Gentiles are no longer separated from this commonwealth and are able to partake in the promise of salvation. Without Christ, they would remain without a church, without any promise of hope, godless, and without a spiritual home.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.2188250904024924,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.12,
+            "commentatorTierSimilarities": [
+                37.92,
+                33.2,
+                28.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Before coming to Christ, the Gentiles were completely separated from the commonwealth of Israel and the covenants of the promise. They had no hope, no connection to God, and were forsaken in the world. However, in this declaration, Paul speaks of a spiritual unity in which Jew and Gentile are at peace with God. Through Christ, the Gentiles are no longer excluded from this unity and are able to partake in the promise of salvation. Without Christ, they would remain without a church, without any promise of hope, godless, and without a spiritual home.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.2069983510473303,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.72,
+            "commentatorTierSimilarities": [
+                36.79,
+                33.26,
+                29.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Before coming to Christ, the Gentiles were alienated from the commonwealth of Israel and the covenants of the promise. They had no hope and were without God. However, through Christ, they are brought into a spiritual commonwealth where Jew and Gentile are reconciled. The promise of salvation is extended to all believers, regardless of their background. Without Christ, the Gentiles would remain disconnected from this spiritual community, without any hope or connection to God, wandering in a world devoid of meaning.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.179276004267572,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.8,
+            "commentatorTierSimilarities": [
+                37.14,
+                33.46,
+                29.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Before coming to Christ, the Gentiles were separated from the commonwealth of Israel and the covenants of the promise, leaving them without hope and without God in the world. However, through Christ, they are now included in the spiritual commonwealth and have access to the promise of salvation. This verse highlights the contrast between their former condition as heathen and their present state as members of the spiritual Israel or Kingdom of God. Without Christ, the Gentiles would have no hope and remain separated from God's grace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.2532451995415697,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+            "commentatorTierSimilarities": [
+                38.39,
+                33.18,
+                28.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gentiles were once alienated from the commonwealth of Israel and the covenants of the promise, rendering them without hope and without God in the world. However, through Christ, they are no longer separated from this spiritual commonwealth, and are able to partake in the promise of salvation. Without Christ, they would remain without a church, without any promise of hope, godless, and without a spiritual home in the world.",
+            "wordCount": 70,
+            "quoteTokenProportion": 47.5,
+            "qualityScore": 2.3564905339316917,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.69,
+            "commentatorTierSimilarities": [
+                37.25,
+                32.86,
+                29.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

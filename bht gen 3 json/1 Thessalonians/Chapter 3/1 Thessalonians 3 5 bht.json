@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 13:58:51",
+    "verseRef": "1 Thessalonians 3:5",
+    "bestBHT": {
+        "bht": "Because I know of your tribulation that has verily begun among you, I could no longer contain myself. Fearing that the tempter may have tempted you and our labor would prove to be in vain, I sent Timothy to strengthen and encourage your faith. The tempter, being the great author of persecution, always seeks to lead people astray from the truth during times of affliction. Let us remain watchful and on guard against his wiles, ensuring that our efforts to spread the truth are not in vain.",
+        "wordCount": 87,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.8428688415286847,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+        "commentatorTierSimilarities": [
+            25.51,
+            35.18,
+            39.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For this cause, because tribulation had verily begun among you ( 'as it came to pass').",
+            "The words I also seem to convey a delicate hint that Timothy also was anxious respecting them.",
+            "Or it may have the same reference as 'we also,' ch. ii. 13,\u2014viz. to the other Christians who had heard of their tribulation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For this cause\u2014Because I know of your 'tribulation' having actually begun.",
+            "when I also... could no longer contain myself (endure the suspense).",
+            "And lest (in that case) our labor may prove to be in vain."
+        ],
+        "Albert Barnes": [
+            "Since I knew that you were so liable to be persecuted, and since I feared that some might be turned from the truth by this opposition.",
+            "The truths taught are: (1) That Satan is the great author of persecution; and, (2) That in a time of persecution - or of trial of any kind - he endeavors to tempt people to swerve from the truth, and to abandon their religion.",
+            "In all times of affliction, as well as in prosperity, we may be sure that 'the Tempter' is not far off, and should be on our guard against his wiles."
+        ],
+        "Marvin Vincent": [
+            "The tempter [\u03bf \u03c0\u03b5\u03b9\u03c1\u03b1\u03b6\u03c9\u03bd] . Only here and Matthew 4:3.",
+            "In vain [\u03b5\u03b9\u03c2 \u03ba\u03b5\u03bd\u03bf\u03bd] . The phrase only in Paul.",
+            "The force of the preposition is fairly represented by to in the phrase to no purpose."
+        ],
+        "John Calvin": [
+            "Temptations are always to be dreaded, because it is the proper office of Satan to tempt.",
+            "We must be on our watch, eagerly taking heed.",
+            "He felt concerned lest his labors should be vain, if, peradventure, Satan should prevail."
+        ],
+        "Philip Schaff": [
+            "1 Thessalonians 3:5. For this cause, i.e. on account of these afflictions which had fallen upon you.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "That I might know\" (\u03b5\u03b9\u03c2 \u03c4\u03bf \u03b3\u03bd\u03c9\u03bd\u03b1). Paul's common idiom (verse 1 Thessalonians 3:2), \u03b5\u03b9\u03c2 \u03c4\u03bf and the infinitive of purpose (second aorist ingressive active of \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9, come to know).",
+            "Lest by any means the tempter had tempted you\" (\u03bc\u03b7 \u03c0\u03c9\u03c2 \u03b5\u03c0\u03b5\u03b9\u03c1\u03b1\u03c3\u03b5\u03bd \u03c5\u03bc\u03b1\u03c2 \u03bf \u03c0\u03b5\u03b9\u03c1\u03b1\u03b6\u03c9\u03bd). Findlay takes this as a question with a negative answer, but most likely negative final clause with \u03bc\u03b7 \u03c0\u03c9\u03c2 about a past action with aorist indicative according to the classic idiom.",
+            "Should be\" (\u03b3\u03b5\u03bd\u03b7\u03c4\u03b1). Here the usual construction appears (aorist subjunctive with \u03bc\u03b7 \u03c0\u03c9\u03c2) about the future."
+        ],
+        "John Gill": [
+            "For this cause, when I could no longer forbear... I sent to know your faith.\" ",
+            "Lest by some means the tempter... have tempted you with success.",
+            "And our labour be in vain... with respect to the Thessalonians, to whom, should Satan gain his point, it would be of no use and service."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because I know that you have begun to experience tribulation, I could not contain my concern for you any longer. I feared that the tempter, who is always seeking to deceive and tempt, may have tempted you and our labor would be in vain. I sent Timothy to you to strengthen and encourage your faith, to ensure that the truths we have taught you would not be swayed in the face of persecution. We must be on guard against the wiles of the enemy, especially during times of affliction, to prevent our labor from being in vain.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.78249646195624,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                24.3,
+                33.23,
+                42.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because I know of your tribulation that has begun, and fearing that the tempter may have tempted you, I could no longer endure the suspense. I sent Timothy to you to strengthen and encourage your faith, so that our labor may not be in vain. The tempter is always seeking to deceive and lead astray, especially in times of affliction. Let us be vigilant and on guard against his tactics, ensuring that our labor in spreading the truth is not in vain.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7833840395433198,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.64,
+            "commentatorTierSimilarities": [
+                24.84,
+                31.69,
+                43.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Because I know that you have begun to experience tribulation, I could not contain my concern for you any longer. I feared that the tempter, who is always seeking to deceive and tempt, may have tempted you and our labor would be in vain. I sent Timothy to you to strengthen and encourage your faith, to ensure that the truths we have taught you would not be swayed in the face of persecution. We must be on guard against the wiles of the enemy, especially during times of affliction, to prevent our labor from being in vain.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.78249646195624,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                24.3,
+                33.23,
+                42.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Because I know that your tribulation has begun, and fearing that the tempter may have tempted you, I could no longer endure the suspense. I sent Timothy to strengthen and encourage your faith, so that our labor may not be in vain. The tempter is always seeking to deceive and lead astray, especially in times of affliction. Let us be vigilant against his tactics, ensuring that our labor in spreading the truth is not in vain.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.77905066244987,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.5,
+            "commentatorTierSimilarities": [
+                25.64,
+                29.98,
+                44.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Because I know of your tribulation that has verily begun among you, I could no longer contain myself. Fearing that the tempter may have tempted you and our labor would prove to be in vain, I sent Timothy to strengthen and encourage your faith. The tempter, being the great author of persecution, always seeks to lead people astray from the truth during times of affliction. Let us remain watchful and on guard against his wiles, ensuring that our efforts to spread the truth are not in vain.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.8428688415286847,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                25.51,
+                35.18,
+                39.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:18:50",
+    "verseRef": "Luke 12:21",
+    "bestBHT": {
+        "bht": "He who is rich for himself, laying up treasure for himself, is by so much robbing his real inward life, his life in and toward God, of its resources. He is stripping the spirit of all its riches, living to amass worldly wealth that terminates on self. The only wealth that matters and lasts is being rich toward God. Such folly leads to a destitute existence, both in this life and ultimately in the eyes of God.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.522432392640149,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.21,
+        "commentatorTierSimilarities": [
+            40.02,
+            27.21,
+            32.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He who is rich for himself, laying up treasure for himself, is by so much robbing his real inward life, his life in and toward God, of its resources.",
+            "He is laying up store for, providing for, the flesh; but the spirit, that which God looketh into and searcheth, is stripped of all its riches.",
+            "These words may also...shew that St. Luke does not, as supposed by some recent critics, use 'riches' as merely this world\u2019s wealth, but with a deeper spiritual meaning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Such is a picture of his folly here, and of its awful issue.\" ",
+            "lives to amass and enjoy riches which terminate on self.",
+            "lives and dies a beggar!"
+        ],
+        "Albert Barnes": [
+            "Riches bring with them always an increasing load of cares and anxieties.",
+            "The anxiety of a covetous man is not what 'good' he may do with his wealth, but where he may hoard it, and keep it secure from doing any good.",
+            "The path of true wisdom is to seek first the kingdom of God, and to be ready to die."
+        ],
+        "John Calvin": [
+            "They are rich according to God, who do not trust to earthly things, but depend solely on his providence.",
+            "Vain are the deliberations and foolish attempts of those who, trusting to the abundance of their wealth, do not rely on God alone.",
+            "Such persons will suffer the penalty of their own folly."
+        ],
+        "Philip Schaff": [
+            "The folly and sin and real destitution springs from the selfishness of this course.",
+            "The evil is not in the treasure, nor in laying up treasure, but in laying up treasure for one\u2019s self.",
+            "A case like this, where the sinner is respectable, honest, and prosperous, shows the true nature of sin: it is a devotion to self, not to God."
+        ],
+        "Archibald T. Robertson": [
+            "Not rich toward God. The only wealth that matters and that lasts.",
+            "The only wealth that matters.",
+            "The only wealth that lasts."
+        ],
+        "John Gill": [
+            "Just such a fool is he, and this will be the end or him, who employs all his thoughts, and spends all his time, in amassing to himself worldly riches and wealth...",
+            "...and is not rich towards God; or 'in God', as the Syriac and Arabic versions read; in things pertaining to God, in spiritual things, in faith, and in good works...",
+            "...a wise man, but the reverse of this is the fool in the parable."
+        ],
+        "John Wesley": [
+            "Rich toward God \u2014 Namely, in faith, and love, and good works."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "He who lives solely for himself and accumulates material wealth is robbing himself of true inward life with God. By focusing on amassing treasures that benefit only the flesh and self, one strips their spirit of its genuine richness. This passage goes beyond the literal interpretation of worldly wealth and reveals a deeper spiritual meaning. The folly of such a pursuit leads to a destitute existence, both in this life and ultimately in the presence of God. It emphasizes the importance of being rich toward God, which entails seeking His kingdom and relying on His providence, for it is the only wealth that matters and endures.",
+            "wordCount": 106,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 2.1651375495723872,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.33,
+            "commentatorTierSimilarities": [
+                36.17,
+                30.18,
+                33.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He who lives for himself, amassing treasures for his own benefit, is robbing his inward life in relation to God. Such folly leads to a destitute existence, both in this life and in the eyes of God. This shows that Luke does not only refer to worldly wealth, but to a deeper spiritual meaning. The only wealth that truly matters and lasts is being rich toward God, in faith, love, and good works.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.2495629606401923,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.14,
+            "commentatorTierSimilarities": [
+                34.99,
+                27.64,
+                37.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He who is rich for himself, laying up treasure for himself, is by so much robbing his real inward life, his life in and toward God, of its resources. He is stripping the spirit of all its riches, living to amass worldly wealth that terminates on self. The only wealth that matters and lasts is being rich toward God. Such folly leads to a destitute existence, both in this life and ultimately in the eyes of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.522432392640149,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.21,
+            "commentatorTierSimilarities": [
+                40.02,
+                27.21,
+                32.77
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

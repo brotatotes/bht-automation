@@ -1,0 +1,104 @@
+{
+    "timestamp": "12-19-2023 15:13:28",
+    "verseRef": "1 Corinthians 15:14",
+    "bestBHT": {
+        "bht": "Without the resurrection of Christ, our faith is empty and without result. The principal argument of the first preachers was that God had raised Christ from the dead, and if this fact were false, the faith built on it must be false too. If Christ has not been raised, our preaching and their faith have nothing to stand on. The entire gospel rests on the death and resurrection of Christ, and without it, our preaching and the doctrine of faith would be vain and without any foundation.",
+        "wordCount": 87,
+        "quoteTokenProportion": 56.86,
+        "qualityScore": 2.324055153626948,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.62,
+        "commentatorTierSimilarities": [
+            36.31,
+            29.16,
+            34.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Vain, idle, 'empty,' 'without result:' in both clauses the adjective is placed first for emphasis.",
+            "If 'Christ's Resurrection be gone, then also our faith is gone.'",
+            "  ",
+            "Introducing a new inference."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The principal argument of the first preachers in support of Christianity was that God had raised Christ from the dead.\" ",
+            "If this fact were false, the faith built on it must be false too.",
+            "The Greek for 'vain' here is, empty, unreal: in 1 Corinthians 15:11- :, on the other hand, it is, without use, frustrated."
+        ],
+        "Albert Barnes": [
+            "If that were not true, the whole system was false, and Christianity was an imposition.",
+            "It would be 'false' to affirm that the Christian system was from heaven; it would be useless to proclaim such a system, since it could save no one.",
+            "The system could not be true unless Christ had been raised, as he said he would be; and to believe a false system could be of no use to any man."
+        ],
+        "Marvin Vincent": [
+            "Vain [\u03ba\u03b5\u03bd\u03bf\u03bd] . Empty, a mere chimaera"
+        ],
+        "John Calvin": [
+            "For what remains if Christ has been swallowed up by death \u2014 if he has become extinct \u2014 if he has been overwhelmed by the curse of sin \u2014 if, in fine, he has been overcome by Satan?\" ",
+            "In short, if that fundamental article is subverted, all that remains will be of no moment.\" ",
+            "Let us therefore bear in mind, that the entire gospel consists mainly in the death and resurrection of Christ, so that we must direct our chief attention to this."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 15:14. and . . . then is our preaching vain, your faith also is vain all Christianity, as a historical fact, is subverted.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Both Paul's preaching and their faith are empty if Christ has not been raised.",
+            "If the sceptics refuse to believe the fact of Christ's resurrection, they have nothing to stand on."
+        ],
+        "John Gill": [
+            "If this is a truth, and must be taken as granted, as it must be, if there is no resurrection at all: then is our preaching vain.",
+            "The preaching of his incarnation, obedience, sufferings, and death, is of no use and avail if he has not abolished death and brought life and immortality to light.",
+            "The doctrine of faith they had given their assent to, not only respecting the resurrection of Christ, but any other truth relating to his person and office, must be vain and empty, and without any foundation."
+        ],
+        "John Wesley": [
+            "Then is our preaching \u2014 From a commission supposed to be given after the resurrection.",
+            "Vain \u2014 Without any real foundation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Without the resurrection of Christ, our faith would be in vain and empty. The emphasis on the word vain reflects the emptiness and futility of a faith without the reality of Christ's resurrection. The entire gospel rests upon this fundamental truth, and if it is subverted, everything else becomes insignificant. Without Christ's victory over death, our preaching and the doctrine of faith would be empty and without any foundation. It is through the resurrection that Christ abolished death and brought life and immortality to light, making our faith and preaching meaningful and powerful.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.179356780089677,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.8,
+            "commentatorTierSimilarities": [
+                33.28,
+                26.06,
+                40.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Without the resurrection of Christ, our faith is empty and without result. The principal argument of the first preachers was that God had raised Christ from the dead, and if this fact were false, the faith built on it must be false too. If Christ has not been raised, our preaching and their faith have nothing to stand on. The entire gospel rests on the death and resurrection of Christ, and without it, our preaching and the doctrine of faith would be vain and without any foundation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 56.86,
+            "qualityScore": 2.324055153626948,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.62,
+            "commentatorTierSimilarities": [
+                36.31,
+                29.16,
+                34.54
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

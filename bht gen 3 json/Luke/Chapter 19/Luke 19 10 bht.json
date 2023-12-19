@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:21:51",
+    "verseRef": "Luke 19:10",
+    "bestBHT": {
+        "bht": "For the greater sinner that Zacchaeus may have been, the more does he come under the description of those whom the good Shepherd came to seek and save. This parable is different from the one of the Talents, as the intended lesson is different - different degrees of improvement of the same opportunities. Yet, with all this difference, the parables are remarkably similar. Zacchaeus, as one of the lost, acknowledged himself as such and received the Master who was seeking him. (Matthew 18:11)",
+        "wordCount": 81,
+        "quoteTokenProportion": 51.72,
+        "qualityScore": 1.6865250478242677,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+        "commentatorTierSimilarities": [
+            32.48,
+            24.38,
+            43.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For, the greater sinner sinner he may have been, the more does he come under the description of those (sheep) whom the good Shepherd came to seek and save...\" ",
+            "If oral tradition thus varied before the Gospels were written, in the report of our Lord\u2019s spoken words, how can we know that He spoke any thing which they relate?\" ",
+            "If the Evangelists themselves altered, arranged, and accommodated those discourses, not only is the above the case, but their honesty is likewise impugned."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What encouragement is there in this narrative to hope for",
+            "unexpected conversions?",
+            "A different parable from that of the Talents...the intended lesson is different; the one illustrating equal fidelity with different degrees of advantage; the other, different degrees of improvement of the same opportunities.",
+            "Yet with all this difference, the parables are remarkably similar."
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 18:11."
+        ],
+        "Philip Schaff": [
+            "To seek, as a shepherd\" ",
+            "Zaccheus was one of these\" ",
+            "Acknowledging himself as such received the Master who was seeking him"
+        ],
+        "Archibald T. Robertson": [
+            "The lost (\u03c4\u03bf \u03b1\u03c0\u03bf\u03bb\u03c9\u03bb\u03bf\u03c2). The neuter as a collective whole, second perfect active participle of \u03b1\u03c0\u03bf\u03bb\u03bb\u03c5\u03bc, to destroy. See Luke 19:15 for the idea of the lost. "
+        ],
+        "John Gill": [
+            "For the son of man, is come: from heaven, into this world, being sent by the Father, and with the full consent and good will of his own.\" ",
+            "To seek and save that which was lost: as all his elect were in Adam, and by their own actual transgressions; and are considered as such, whilst in a state of unregeneracy.",
+            "Particularly the lost sheep of the house of Israel are meant, one of which Zacchaeus was; and so the words are a reason of Christ's looking him up, and calling him by his grace, and making a discovery of himself, and an application of salvation to him."
+        ],
+        "John Wesley": [
+            "Matthew 18:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the greater sinner he may have been, the more does he come under the description of those whom the good Shepherd came to seek and save. Zaccheus was one of these, acknowledging himself as such and receiving the Master who was seeking him. The parable of the lost sheep in Luke 19:10 is different from the parable of the Talents, as it illustrates different lessons, yet with remarkable similarity. It encourages us to hope for unexpected conversions, as the intended lesson is about different degrees of improvement. This narrative reminds us of the son of man who came from heaven to seek and save the lost, particularly the lost sheep of the house of Israel.",
+            "wordCount": 115,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.5800756817865849,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.88,
+            "commentatorTierSimilarities": [
+                42.42,
+                20.22,
+                37.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the greater sinner he may have been, the more does he come under the description of those whom the good Shepherd came to seek and save. Zaccheus was one of these, acknowledging himself as such and receiving the Master who was seeking him. The parable of the lost sheep in Luke 19:10 is different from the parable of the Talents, as it illustrates different lessons, yet with remarkable similarity. It encourages us to hope for unexpected conversions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.5431534448640014,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.65,
+            "commentatorTierSimilarities": [
+                41.41,
+                25.76,
+                32.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For the greater sinner he may have been, the more does he come under the description of those whom the good Shepherd came to seek and save. Zaccheus was one of these, acknowledging himself as such and receiving the Master who was seeking him. The parable of the lost sheep is different from the parable of the Talents, as it illustrates different lessons, yet with remarkable similarity. It encourages us to hope for unexpected conversions.",
+            "wordCount": 75,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.5171465247295186,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.79,
+            "commentatorTierSimilarities": [
+                42.23,
+                25.41,
+                32.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For the greater sinner that Zacchaeus may have been, the more he comes under the description of those whom the good Shepherd came to seek and save. This parable is different from the one of the Talents, as it illustrates different degrees of improvement of the same opportunities. Yet, with all this difference, the parables are remarkably similar. Zacchaeus, as one of the lost, acknowledged himself as such and received the Master who was seeking him. This narrative provides encouragement for unexpected conversions, as the Son of Man has come from heaven to seek and save that which was lost.(Matthew 18:11)",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.576293018360051,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+            "commentatorTierSimilarities": [
+                44.7,
+                19.69,
+                35.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For the greater sinner that Zacchaeus may have been, the more does he come under the description of those whom the good Shepherd came to seek and save. This parable is different from the one of the Talents, as the intended lesson is different - different degrees of improvement of the same opportunities. Yet, with all this difference, the parables are remarkably similar. Zacchaeus, as one of the lost, acknowledged himself as such and received the Master who was seeking him. (Matthew 18:11)",
+            "wordCount": 81,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.6865250478242677,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                32.48,
+                24.38,
+                43.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

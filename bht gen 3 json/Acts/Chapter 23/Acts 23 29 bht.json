@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:35:38",
+    "verseRef": "Acts 23:29",
+    "bestBHT": {
+        "bht": "Amidst the charges against Paul, it becomes clear that they are based on religious matters and not deserving of attention from a civil tribunal. Roman magistrates consistently declare Paul innocent, stating that he is not guilty of any crime deserving of death or imprisonment. The controversy revolves around the interpretation of the Jewish law, and Paul's claim of a risen Rabbi further complicates matters. The chief captain, unconcerned with Jewish religious matters, refutes false accusations and bears testimony to Paul's innocence.",
+        "wordCount": 83,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.8042928769710629,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+        "commentatorTierSimilarities": [
+            33.27,
+            30.07,
+            36.65
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Amidst all his difficulty in getting at the charges laid against Paul.",
+            "Enough, no doubt, come out to satisfy him that the whole was a question of religion.",
+            "There was no case for a civil tribunal."
+        ],
+        "Albert Barnes": [
+            "Questions of their law - So he understood the whole controversy to be.",
+            "Worthy of death - By the Roman law. He had been guilty of no crime against the Roman people.",
+            "Or of bonds - Of chains, or of confinement."
+        ],
+        "Marvin Vincent": [
+            "Questions. See on ch. Acts 14:2. ",
+            "Nothing - worthy of death or of bonds. Every Roman magistrate before whom the apostle is brought declares him innocent."
+        ],
+        "John Calvin": [
+            "For among the people of God it is an offense worthy of no less punishment, to corrupt the doctrine of godliness with wicked, and false opinions, than to do injury to, or commit wickedness among men.",
+            "And surely nothing is more absurd than to let those who rob God of his honor escape scot free, seeing theft is punished.",
+            "But as the chief captain careth not for the Jewish religion, so the false accusations and slanders of the Jews are refuted, wherewith they would gladly have burdened Paul."
+        ],
+        "Philip Schaff": [
+            "Death the highest, and bonds the lowest penalty of the law.",
+            "A Roman citizen surely did not deserve death, or even bonds, for such trivial offences.",
+            "This dead Rabbi, Paul affirmed, was alive, having risen from the dead."
+        ],
+        "Archibald T. Robertson": [
+            "Conce2rning questions of their law. The very distinction drawn by Gallio in Corinth.",
+            "Having no accusation (or crime) worthy of death or of bonds.",
+            "Every Roman magistrate before whom Paul appears declares him innocent."
+        ],
+        "John Gill": [
+            "Whom I perceived to be accused of questions of their law...which with this heathen man were idle and foolish questions...\" ",
+            "but to have nothing laid to his charge worthy of death, or of bonds\" ",
+            "he bears a full testimony to the innocence of the apostle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of the difficulties and charges brought against Paul, it becomes evident that these are purely matters of religion and not something that warrants attention from a civil tribunal. The Roman magistrates who preside over his cases consistently declare him innocent, stating that he is not guilty of any crime deserving of death or imprisonment. The controversy surrounding him revolves around the interpretation of their law, and Paul's claim of a risen Rabbi further complicates the situation. Ultimately, the chief captain, who is not concerned with Jewish religious matters, refutes the false accusations of the Jews and testifies to Paul's innocence. It is clear that, even among God's people, corrupting the doctrine of godliness with false opinions is considered a serious offense worthy of punishment.",
+            "wordCount": 130,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7334024944452247,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                31.75,
+                28.98,
+                39.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amidst the charges against Paul, it becomes clear that they are based on religious matters and not deserving of attention from a civil tribunal. Roman magistrates consistently declare Paul innocent, stating that he is not guilty of any crime deserving of death or imprisonment. The controversy revolves around the interpretation of the Jewish law, and Paul's claim of a risen Rabbi further complicates matters. The chief captain, unconcerned with Jewish religious matters, refutes false accusations and bears testimony to Paul's innocence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8042928769710629,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+            "commentatorTierSimilarities": [
+                33.27,
+                30.07,
+                36.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the charges against Paul, it is clear that they pertain to religious matters, not civil ones. The Roman magistrates all declare him innocent, finding him not guilty of any crime deserving of death or imprisonment. The controversy is rooted in the interpretation of Jewish law, with Paul's assertion of a risen Rabbi adding further complexity. The chief captain, uninterested in Jewish religious matters, dismisses false accusations and provides a resounding testimony to Paul's innocence.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.7922786728643578,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+            "commentatorTierSimilarities": [
+                33.3,
+                30.16,
+                36.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the difficulties Paul faces and the charges brought against him, it becomes evident that they pertain to religious matters rather than civil ones. The Roman magistrates consistently declare Paul innocent, emphasizing that he has committed no crime deserving of death or imprisonment. The controversy surrounding him centers around the interpretation of Jewish law, and his claim of a risen Rabbi adds to the intricacy. The chief captain, uninterested in Jewish religious matters, discredits false accusations and confidently testifies to Paul's innocence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.7192925341354934,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                32.63,
+                30.74,
+                36.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of the charges against Paul, it becomes clear that they pertain to religious matters rather than civil ones. The Roman magistrates consistently declare Paul innocent, finding him not guilty of any crime deserving of death or imprisonment. The controversy revolves around the interpretation of Jewish law, with Paul's claim of a risen Rabbi adding complexity. The chief captain, uninterested in Jewish religious matters, refutes false accusations and testifies to Paul's innocence.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.7824698888631845,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                33.59,
+                29.96,
+                36.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

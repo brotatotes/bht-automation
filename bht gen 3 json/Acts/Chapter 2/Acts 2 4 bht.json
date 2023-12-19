@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:25:06",
+    "verseRef": "Acts 2:4",
+    "bestBHT": {
+        "bht": "The disciples began to speak in various languages, not of their own understanding, but through the gift and inspiration of the Holy Spirit. Their utterances were the praises of God in real, living languages that were previously unknown to them. Each disciple spoke in a language they had not acquired, yet it was a genuine and intelligible language, understood by those familiar with it. This remarkable event demonstrated the power and presence of the Holy Spirit, but it was not a permanent or universal gift of tongues.",
+        "wordCount": 87,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.434528567705727,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.29,
+        "commentatorTierSimilarities": [
+            34.3,
+            30.46,
+            35.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fact which this narrative sets before us is, that the disciples began to speak in VARIOUS LANGUAGES, viz. the languages of the nations below enumerated, and perhaps others.",
+            "I believe, therefore, the event related in our text to have been a sudden and powerful inspiration of the Holy Spirit, by which the disciples uttered, not of their own minds, but as mouth-pieces of the Spirit, the praises of God in various languages, hitherto, and possibly at the time itself, unknown to them.",
+            "Their utterance was none of their own, but the simple gift and inspiration of the Holy Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They...began to speak with...tongues, c.\u2014real, living languages, as is plain from what follows.\" ",
+            "The thing uttered, probably the same by all, was 'the wonderful works of God'.\" ",
+            "It is next to certain that the speakers themselves understood nothing of what they uttered."
+        ],
+        "Albert Barnes": [
+            "Were all filled with the Holy Ghost - Were entirely under his sacred influence and power.",
+            "The natural and obvious meaning of the passage is, that they were endowed by the supernatural power of the Holy Spirit with ability to speak foreign languages, and languages to them before unknown.",
+            "The ability to do it existed extensively and long in the church...this may show that in the case in the Acts, the ability to do this was conferred on other members of the church as well as the apostles."
+        ],
+        "Marvin Vincent": [
+            "Began. Bringing into prominence the first impulse of the act.",
+            "Gave [\u03b5\u03b4\u03b9\u03bf\u03c5]. A graphic imperfect; kept giving them the language and the appropriate words as the case required from time to time.",
+            "Utterance [\u03b1\u03c0\u03bf\u03c6\u03b8\u03b5\u03b3\u03b3\u03b5\u03c3\u03b8\u03b1\u03b9]. Used only by Luke and in the Acts. Lit., to utter. A peculiar word, and purposely chosen to denote the clear, loud utterance under the miraculous impulse."
+        ],
+        "John Calvin": [
+            "We must first note that the disciples spoke indeed with strange tongues; otherwise the miracle had not been wrought in them, but in the hearers.",
+            "I suppose that it doth manifestly appear hereby that the apostles had the variety and understanding of tongues given them, that they might speak unto the Greeks in Greek, unto the Italians in the Italian tongue, and that they might have true communication (and conference) with their hearers.",
+            "It was a manifest miracle, when they saw them ready to speak divers languages. As touching Peter\u2019s sermon, it might be understood of the greater part of men wheresoever they were born."
+        ],
+        "Philip Schaff": [
+            "And then those fire-tongues they saw flaming round their heads a bright and glorious aureole seemed to speak from each man\u2019s heart.\" ",
+            "It was the Spirit with all the fulness of Christ and His redeeming work...that intimate union which should endure through time and eternity between man and his God.\" ",
+            "From that hour the Spirit has never departed from His Church...His blessed Spirit has ever dwelt with those who strive to do His will, to carry out His work."
+        ],
+        "Archibald T. Robertson": [
+            "Each one began to speak in a language that he had not acquired and yet it was a real language and understood by those from various lands familiar with them. It was not jargon, but intelligible language.",
+            "One might conclude that this was the way in which the message was to be carried to the nations, but future developments disprove it.",
+            "The gift of tongues came also on the house of Cornelius at Caesarea, the disciples of John at Ephesus, the disciples at Corinth. It is possible that the gift appeared also at Samaria. But it was not a general or a permanent gift."
+        ],
+        "John Gill": [
+            "They were like vessels filled to the brim; they were as it were covered with them; there was an overflow of them upon them.\" ",
+            "They spake divers languages, one spoke one language, and another, another; and the same person spoke with various tongues, sometimes one language, and sometimes another.\" ",
+            "They did not utter anything of themselves, and what came into their minds, things of little or no importance; but they were wise and weighty sentences they delivered."
+        ],
+        "John Wesley": [
+            "The miracle was not in the ears of the hearers, but in the mouth of the speakers.",
+            "[This] was an earnest that the whole world should in due time praise God in their various tongues.",
+            "Moses, the type of the law, was of a slow tongue; but the Gospel speaks with a fiery and flaming one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were suddenly and powerfully inspired by the Holy Spirit to speak in various languages, praising the wonderful works of God. They were not speaking on their own accord, but were simply the mouthpieces of the Spirit, uttering words given to them by the Holy Spirit. This was a true and miraculous gift of tongues, where each disciple spoke in a language they had not acquired, yet it was understood by those familiar with the language. However, this gift of tongues was not meant to be permanent or universal, as future developments would show. It was a special manifestation of the Spirit's power at that particular time.",
+            "wordCount": 109,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 2.2526702437401047,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.24,
+            "commentatorTierSimilarities": [
+                32.83,
+                32.51,
+                34.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples began to speak in various languages, praising God's wonderful works. This was not their own speech, but a gift and inspiration from the Holy Spirit. They spoke in real, living languages that were understood by those familiar with them. It was a sudden and powerful impulse, as the Holy Spirit gave them the appropriate words to utter. This gift of tongues was not permanent or universal, but a unique event demonstrating the Spirit's power at that time.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.2703284533309285,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.83,
+            "commentatorTierSimilarities": [
+                34.03,
+                31.32,
+                34.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples began to speak in various languages, not of their own understanding, but through the gift and inspiration of the Holy Spirit. Their utterances were the praises of God in real, living languages that were previously unknown to them. Each disciple spoke in a language they had not acquired, yet it was a genuine and intelligible language, understood by those familiar with it. This remarkable event demonstrated the power and presence of the Holy Spirit, but it was not a permanent or universal gift of tongues.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.434528567705727,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.29,
+            "commentatorTierSimilarities": [
+                34.3,
+                30.46,
+                35.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were suddenly inspired by the Holy Spirit to speak in various languages, praising the wonderful works of God. This was not their own doing, but a gift and inspiration from the Holy Spirit. They spoke in real languages, unknown to them but understood by those familiar with them. It was a powerful and miraculous impulse, as the Holy Spirit gave them the language and appropriate words to utter. Although the gift of tongues appeared in other instances, it was not a general or permanent gift.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.2526875029908964,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.24,
+            "commentatorTierSimilarities": [
+                33.94,
+                31.16,
+                34.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples began to speak in various languages, inspired by the Holy Spirit. This was not their own initiative, but a gift given to them as mouthpieces of the Spirit. They praised God's wonderful works in real, living languages that they had not acquired. They may not have fully understood what they were saying, but the languages spoken were intelligible to those familiar with them. This miraculous event highlighted the power and presence of the Holy Spirit, although the gift of tongues was not permanent or universal.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.184591768290473,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.98,
+            "commentatorTierSimilarities": [
+                33.77,
+                30.2,
+                36.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

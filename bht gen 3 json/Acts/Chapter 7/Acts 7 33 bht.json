@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:27:32",
+    "verseRef": "Acts 7:33",
+    "bestBHT": {
+        "bht": "When Stephen mentions Moses taking off his sandals on holy ground, he emphasizes the act of reverence and humility in the presence of God. In various ancient cultures, removing shoes denoted respect, as seen in the barefooted priests in the temple and the custom of Arabs in mosques. The ground near the burning bush was considered holy due to God's presence, illustrating that holiness extends beyond specific earthly locations. By shedding our metaphorical shoes and stripping ourselves of self, we demonstrate the humility and reverence needed to truly encounter and worship God, who is omnipresent, particularly in Christ.",
+        "wordCount": 99,
+        "quoteTokenProportion": 30.99,
+        "qualityScore": 1.9033914248783477,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+        "commentatorTierSimilarities": [
+            30.26,
+            37.36,
+            32.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Putting off the sandals was a mark of reverence.",
+            "The priests performed all their ministrations barefooted.",
+            "The Arabs to this day continue the practice: they always enter their mosques barefooted."
+        ],
+        "Albert Barnes": [
+            "To put off the shoes; or sandals, was an act of reverence. The ancients were especially not permitted to enter a temple or holy place with their shoes on.",
+            "Indeed, it was customary for the Jews to remove their shoes whenever they entered any house as a mere matter of civility.",
+            "We should enter the sanctuary, the place set apart for divine worship, not only with reverence in our hearts, but with every 'external' indication of veneration."
+        ],
+        "John Calvin": [
+            "But if so be that Moses was to be pricked forward with so many pricks, that having forgotten the earth, he might hearken to God, must not we have our sides even, as it were, digged through... seeing we are an hundred times more slow than he?\" ",
+            "(Commentary Note 433)",
+            "If the presence of God do make the earth holy, how much more force thereof ought men to have?\" ",
+            "(Commentary Note 434)",
+            "Forasmuch as God doth now show himself unto us everywhere in Christ, and that in no obscure figures, but in the full light and perfect truth, we must not only put off our shoes from our feet, but strip ourselves stark-naked of ourselves.\" ",
+            "(Commentary Note 436)"
+        ],
+        "Philip Schaff": [
+            "The manifestation of the Deity made the space round the bush holy ground.",
+            "Holiness, in fact, belonged to no exclusive earthly sanctuary.",
+            "There was no Temple there, said St. Chrysostom; yet the place was holy, owing to the appearance and work of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Holy ground (\u03b3\u03b7 \u03b1\u03b3\u03b9\u03b1). The priests were barefooted when they ministered in the temple. Moslems enter their mosques barefooted today. Cf. Joshua 5:15.",
+            "Sandal (\u03c5\u03c0\u03bf\u03b4\u03b7\u03bc\u03b1, bound under) is here 'a distributive singular' (Hackett).",
+            "Even the ground near the bush was 'holy,' a fine example for Stephen's argument."
+        ],
+        "John Gill": [
+            "Put off thy shoes from thy feet; in token of humility, obedience, and reverence.",
+            "For the place where thou standest is holy ground; not really, but relatively, on account of the divine presence in it, and only so long as that continued.",
+            "Not really, but relatively, on account of the divine presence in it."
+        ],
+        "John Wesley": [
+            "Loose thy shoes \u2014 An ancient token of reverence; for the place is holy ground.",
+            "The holiness of places depends on the peculiar presence of God there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Stephen refers to the act of Moses putting off his sandals on holy ground, he is highlighting the reverence and humility required in the presence of God. This act of removing sandals was common among ancient civilizations as a form of worship and respect, similar to how priests ministered barefooted in the temple and Arabs enter mosques barefooted to this day. The ground near the burning bush was deemed holy because of the divine presence, teaching us that holiness is not confined to specific earthly sanctuaries. By removing our metaphorical shoes and stripping ourselves of ourselves, we cultivate the humility and reverence necessary to truly encounter and worship God, who is present everywhere, especially in Christ.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9654385046126635,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.69,
+            "commentatorTierSimilarities": [
+                30.34,
+                38.8,
+                30.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Stephen mentions Moses taking off his sandals on holy ground, he emphasizes the act of reverence and humility in the presence of God. In various ancient cultures, removing shoes denoted respect, as seen in the barefooted priests in the temple and the custom of Arabs in mosques. The ground near the burning bush was considered holy due to God's presence, illustrating that holiness extends beyond specific earthly locations. By shedding our metaphorical shoes and stripping ourselves of self, we demonstrate the humility and reverence needed to truly encounter and worship God, who is omnipresent, particularly in Christ.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.9033914248783477,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                30.26,
+                37.36,
+                32.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When reflecting on Moses' act of removing his sandals on holy ground, Stephen draws attention to the reverence and humility required in God's presence. This practice of taking off one's shoes was a customary sign of respect, seen in the barefooted priests and Arabs entering mosques. The ground near the burning bush was deemed holy due to the divine presence. Stephen's message highlights that holiness transcends physical locations and reminds believers to approach God with humility and reverence, stripping themselves of self to encounter Him fully in Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.8915918565665324,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.24,
+            "commentatorTierSimilarities": [
+                32.31,
+                36.3,
+                31.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephen's reference to Moses removing his sandals on holy ground underscores the importance of reverence and humility in the presence of God. In various ancient cultures, the act of taking off shoes signified respect, as demonstrated by barefooted priests and the practice of entering mosques without footwear. The ground near the burning bush was regarded as holy due to God's presence, serving as a reminder that holiness extends beyond specific locations. Stephen's message points to the need for believers to approach God with humility and reverence, surrendering themselves to truly encounter Him, especially in Christ.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.8072970285170813,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.43,
+            "commentatorTierSimilarities": [
+                29.45,
+                37.36,
+                33.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 7:33, Stephen highlights the significance of removing sandals on holy ground, emphasizing the reverence and humility required in God's presence. This act of respect was observed by barefooted priests and Arabs entering mosques. The ground near the burning bush was deemed holy due to God's presence, emphasizing that holiness is not limited to specific locations. Stephen's message encourages believers to approach God with humility and reverence, shedding their metaphorical shoes and stripping themselves to truly encounter Him, particularly in Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.8079261189148297,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                31.97,
+                36.51,
+                31.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

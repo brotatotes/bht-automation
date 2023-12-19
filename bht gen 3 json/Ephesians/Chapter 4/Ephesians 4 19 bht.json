@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:33:17",
+    "verseRef": "Ephesians 4:19",
+    "bestBHT": {
+        "bht": "Those who persistently give themselves up to the working of uncleanness are without excuse. Deliberately engaging in the pursuit of sinful desires, they are driven by greediness, always craving more sinful lusts and pleasures. Their consciences have been cauterized, losing all sense of sin. God allows them to be given up to the power of their own wicked desires. They commit every form of uncleanness, past feeling pain as they pursue unbridled lust without remorse. The connection between avarice and lust is evident, as their insatiable desires lead them deeper into sin.",
+        "wordCount": 92,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 2.1048514386995114,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.33,
+        "commentatorTierSimilarities": [
+            30.33,
+            32.85,
+            36.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "See how he shuts them out from excuse by using these words, the working of uncleanness: they sinned not, saith he, by chance fault, but they went and wrought the dread things themselves, and used that employ as their care in life.",
+            "Greediness, the desire of having more, is obviously a wider vice than mere covetousness, though this latter is generally its prominent form. It is self-seeking, or greed: in whatever direction this central evil tendency finds its employment.",
+            "So that it may include in itself as an element, as here, lustful sins, though it can never actually mean \u2018lasciviousness\u2019."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "past feeling\u2014senseless, shameless, hopeless; the ultimate result of a long process of 'hardening,' or habit of sin.",
+            "God gave them up to it, but not against their will; for they give themselves up to it.",
+            "with a deliberate view to the working (as if it were their work or business, not a mere accidental fall into sin) of uncleanness of every kind."
+        ],
+        "Albert Barnes": [
+            "Wholly hardened in sin. There is a total want of all emotion on moral subjects.",
+            "He has no 'feeling,' no emotion. He often gives an intellectual assent to the truth, but it is without emotion of any kind.",
+            "They have done it voluntarily. In Romans 1:24, it is said that 'God gave them up.' There is no inconsistency."
+        ],
+        "Marvin Vincent": [
+            "Where men persistently give themselves up to evil, God gives them up to its power.",
+            "Lasciviousness...to work...with greediness.",
+            "They gave themselves up as to the prosecution of a business. The eijv unto is very forcible."
+        ],
+        "John Calvin": [
+            "Having destroyed the sensibilities of the heart, and allayed the stings of remorse, they abandon themselves to all manner of iniquity.",
+            "The usual symptom of their having been thus forsaken is \u2014 the insensibility to pain, which is here described \u2014 being past feeling.",
+            "Depraved and wicked desires being insatiable, Paul represents them as attended and followed by greediness, which is the contrary of moderation."
+        ],
+        "Philip Schaff": [
+            "Being past feeling. One word in Greek, meaning to be unsusceptible of pain, and in this connection, referring to moral pain, not feeling the punishment of conscience.",
+            "The freedom and guilt of men is described. The two are not antagonistic 'Self-abandonment to deeper sin is the Divine judicial penalty of sin' (Eadie).",
+            "The intimate connection of avarice and lust is suggested, and the history of those times furnished many fearful illustrations."
+        ],
+        "Archibald T. Robertson": [
+            "Being past feeling...to cease to feel pain...",
+            "To lasciviousness...unbridled lust...",
+            "With greediness...one who always wants more..."
+        ],
+        "John Gill": [
+            "Their consciences being cauterized or seared as with a red hot iron, ... so that they have lost all sense of sin.",
+            "They do in order to work all uncleanness; to commit every unclean lust, to live in a continued commission of uncleanness of every sort.",
+            "Being like a covetous man, never satisfied with sinning, but always craving more sinful lusts and pleasures."
+        ],
+        "John Wesley": [
+            "Who being past feeling pain.",
+            "Have given themselves up freely, of their own accord.",
+            "Lasciviousness is but one branch of uncleanness, which implies impurity of every kind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who persistently give themselves up to the working of uncleanness are without excuse, for they willingly engage in the pursuit of sinful desires, showing a complete lack of moral emotion or feeling. They are driven by greediness, always craving more sinful lusts and pleasures. Their consciences have been cauterized, losing all sense of sin. God, in response to their willful choice, allows them to be given up to the power of their own wicked desires. Their actions are not accidental, but intentional, as they commit every form of uncleanness. They are past feeling pain, pursuing unbridled lust without remorse. The intimate connection between avarice and lust is evident, as their insatiable desires lead them deeper into sin.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.1391171563400433,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.47,
+            "commentatorTierSimilarities": [
+                28.82,
+                34.84,
+                36.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who persistently give themselves up to the working of uncleanness are without excuse. Deliberately engaging in the pursuit of sinful desires, they are driven by greediness, always craving more sinful lusts and pleasures. Their consciences have been cauterized, losing all sense of sin. God allows them to be given up to the power of their own wicked desires. They commit every form of uncleanness, past feeling pain as they pursue unbridled lust without remorse. The connection between avarice and lust is evident, as their insatiable desires lead them deeper into sin.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.1048514386995114,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.33,
+            "commentatorTierSimilarities": [
+                30.33,
+                32.85,
+                36.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who persistently give themselves up to the working of uncleanness are without excuse. Deliberately engaging in the pursuit of sinful desires, they are driven by greediness, always craving more sinful lusts and pleasures. Their consciences have been cauterized, losing all sense of sin. God allows them to be given up to the power of their own wicked desires. They commit every form of uncleanness, past feeling pain as they pursue unbridled lust without remorse. The connection between avarice and lust is evident, as their insatiable desires lead them deeper into sin.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.1048514386995114,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.33,
+            "commentatorTierSimilarities": [
+                30.33,
+                32.85,
+                36.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who willingly engage in the pursuit of sinful desires, working uncleanness as their life's care, are without excuse. Driven by greediness and always wanting more, they have become shameless and senseless, past feeling any moral pain or remorse. God, in response to their deliberate choice, gives them up to the power of their own wicked desires. They commit every form of uncleanness, living in a continued commission of impurity and unbridled lust. The connection between avarice and lust is evident, as they relentlessly crave more sinful pleasures.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.05661099875888,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                29.21,
+                33.52,
+                37.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who willingly engage in the pursuit of sinful desires, working uncleanness as their life's care, are without excuse. Driven by greediness and always wanting more, they have become shameless and senseless, past feeling any moral pain or remorse. God, in response to their deliberate choice, gives them up to the power of their own wicked desires. They commit every form of uncleanness, living in a continued commission of impurity and unbridled lust. The connection between avarice and lust is evident, as they relentlessly crave more sinful pleasures.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.05661099875888,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                29.21,
+                33.52,
+                37.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

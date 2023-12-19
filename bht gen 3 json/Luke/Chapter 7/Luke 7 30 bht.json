@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:16:16",
+    "verseRef": "Luke 7:30",
+    "bestBHT": {
+        "bht": "The lawyers, interpreters and doctors of the Mosaic law, rejected the baptism of John and refused to confess their sins. In doing so, they set aside God's purpose of grace for themselves, and by their disobedience, they annulled His counsel. Though they didn't outright contradict, their hidden pride and aversion to baptism demonstrated their despising of God's command. Sadly, these highly esteemed and learned individuals rejected the gracious design of God and missed out on His love and blessings.",
+        "wordCount": 82,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 1.8276896298674368,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+        "commentatorTierSimilarities": [
+            47.73,
+            0.0,
+            52.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Lawyers: Not legal practitioners, but interpreters and doctors of the Mosaic law.",
+            "Rejected: Set aside, or annulled; made it vain through their disobedience.",
+            "Against themselves: More strictly, with reference to themselves."
+        ],
+        "John Calvin": [
+            "The counsel of God is mentioned by way of respect, as contrasted with the wicked pride of the scribes; for the term counsel carries along with it a dignity, which protects the doctrine of God against the contempt of men.\" ",
+            "They despised Against Themselves: and indeed I do not disapprove of the meaning which is preferred by some, that the scribes were rebellious to their own destruction.\" ",
+            "Although they did not openly and expressly contradict, yet as they inwardly swelled with hidden pride, they despised within themselves."
+        ],
+        "Archibald T. Robertson": [
+            "These legalistic interpreters of the law refused to admit the need of confession of sin on their part and so set aside the baptism of John.\" ",
+            "They annulled God's purposes of grace so far as they applied to them.",
+            "\u039c\u03b7 is the usual negative of the participle in the Koine."
+        ],
+        "John Gill": [
+            "They rejected the counsel of God against themselves.",
+            "They despised the command of God: that is, the ordinance of baptism, which was of God, and the produce of his counsel and wisdom.",
+            "By their neglect of this ordinance, they testified their aversion to it, and rejection of it."
+        ],
+        "John Wesley": [
+            "They disappointed all these methods of his love, and would receive no benefit from them.",
+            "The good, learned, honourable men: made void the counsel, the gracious design, of God toward them.",
+            "They disappointed all these methods of his love, and would receive no benefit from them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The lawyers, who were experts in interpreting the Mosaic law, rejected the baptism of John and refused to confess their sins. In doing so, they set aside God's purpose of grace for themselves, and by their disobedience, they annulled His counsel. Though they didn't outright contradict, their hidden pride and aversion to baptism demonstrated their despising of God's command. Sadly, these highly esteemed and learned individuals rejected the gracious design of God and missed out on His love and blessings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.7840752593470908,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                46.57,
+                0.0,
+                53.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The lawyers, interpreters and doctors of the Mosaic law, rejected the baptism of John and refused to confess their sins. In doing so, they set aside God's purpose of grace for themselves, and by their disobedience, they annulled His counsel. Though they didn't outright contradict, their hidden pride and aversion to baptism demonstrated their despising of God's command. Sadly, these highly esteemed and learned individuals rejected the gracious design of God and missed out on His love and blessings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8276896298674368,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                47.73,
+                0.0,
+                52.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The lawyers, experts in Mosaic law, rejected John's baptism and refused to confess their sins, annulling God's purpose of grace for themselves. Their despising of God's command was evident in their hidden pride and aversion to baptism. Despite their esteemed status, their rejection of God's gracious design caused them to miss out on His love and blessings.",
+            "wordCount": 61,
+            "quoteTokenProportion": 29.55,
+            "qualityScore": 1.7853578374595065,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.7,
+            "commentatorTierSimilarities": [
+                45.7,
+                0.0,
+                54.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The lawyers, interpreters and doctors of the Mosaic law, who were experts in interpreting the law, rejected the need for confession of sin and set aside the baptism of John, thus annulling God's purposes of grace for themselves. Their hidden pride and aversion to baptism demonstrated their despising of God's command. These esteemed individuals disappointed God's love and missed out on the benefits of His gracious design.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.6753739925876021,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                45.89,
+                0.0,
+                54.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The lawyers, who were not legal practitioners but interpreters and doctors of the Mosaic law, refused to admit the need for confession of sin and rejected the baptism of John. In doing so, they annulled God's purposes of grace for themselves and set aside His counsel. Their inward pride caused them to despise within themselves. Sadly, these esteemed individuals disappointed God's love and missed out on the benefits of His gracious design.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7495355909742596,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+            "commentatorTierSimilarities": [
+                49.1,
+                0.0,
+                50.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

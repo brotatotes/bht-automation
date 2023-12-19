@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:32:14",
+    "verseRef": "Acts 16:13",
+    "bestBHT": {
+        "bht": "In this account, we witness the absence of a Jewish synagogue in Philippi, leading Paul and his companions to an open-air gathering near the river. This assembly primarily consists of women, possibly indicating a small Jewish presence in the area. Nonetheless, Paul seizes the opportunity to engage in religious conversation, showcasing the importance they placed on spreading the gospel. Their willingness to worship and proclaim the message of Christ, even in unconventional circumstances, exemplifies their deep commitment to their faith.",
+        "wordCount": 81,
+        "quoteTokenProportion": 23.73,
+        "qualityScore": 1.8103577967777817,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+        "commentatorTierSimilarities": [
+            25.86,
+            39.18,
+            34.95
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "From many sources we learn, that it was the practice of the Jews to hold their assemblies for prayer near water, whether of the sea, or of rivers: probably on account of the frequent washings customary among them.\"  ",
+            "See the citations in my Greek Test. where prayer was wont to be made] literally, where a meeting for prayer was accustomed to be.\"  ",
+            "There seem to have been few, if any, Jews in Philippi: this open air assembly consisting merely of women attached to the Jewish faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is plain there was no synagogue at Philippi.",
+            "The meeting appears to have consisted wholly of women, and these not all Jewish.",
+            "Here and thus were gathered the first-fruits of Europe unto Christ, and they were of the female sex, of whose accession and services honorable mention will again and again be made."
+        ],
+        "Albert Barnes": [
+            "The Jews were accustomed to provide water, or to build their synagogues and oratories near water, for the convenience of the numerous washings before and during their religious services.",
+            "Places for prayer were erected by the Jews in the vicinity of cities and towns, and particularly where there were not Jewish families enough, or where they were forbidden by the magistrate to erect a synagogue.",
+            "These proseuchoe, or places of prayer, were simple enclosures made of stones, in a grove or under a tree, where there would be a retired and convenient place for worship."
+        ],
+        "Marvin Vincent": [
+            "Out of the city [\u03b5\u03be\u03c9 \u03c4\u03b7\u03c2 \u03c0\u03bf\u03bb\u03b5\u03c9\u03c2] . The best texts read pulhv, the gate.",
+            "River. Probably the Gangas or Gangites.",
+            "Where prayer was wont to be made [\u03bf\u03c5 \u03b5\u03bd\u03bf\u03bd\u03b9\u03b6\u03b5\u03c4\u03bf \u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03b7 \u03b5\u03b9\u03bd\u03b1\u03b9] . The best texts read ejnomizomen proseuchn, where we supposed there was a place of prayer."
+        ],
+        "John Calvin": [
+            "And God, by their example, meant to teach us what great account we ought to make of the profession of faith; that we do not forsake it either for fear of envy or of dangers.",
+            "They prefer the worship of God before their own quietness and commodity.",
+            "We see that the holy men omit no occasion or opportunity, because they vouchsafed to offer the gospel even to women alone."
+        ],
+        "Philip Schaff": [
+            "A more probable reason, however, is the quiet and seclusion of the spot, which was especially chosen on account of its proximity to the river Gangas, which served for the ablutions connected with Jewish worship.",
+            "The word \u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03ae (proseucha) is well known as the designation of a slight and temporary structure, frequently open to the sky, erected for the purposes of Jewish worship.",
+            "These were very probably proselytes, not Jews. We have alluded to the fact that the number of Jews resident at Philippi was evidently very small."
+        ],
+        "Archibald T. Robertson": [
+            "We supposed... was a place of prayer.\" ",
+            "Paul did not have an inspiring beginning for his work in Europe, but he took hold where he could.\" ",
+            "Sitting was the Jewish attitude for public speaking."
+        ],
+        "John Gill": [
+            "It looks as if there was no synagogue of the Jews in this place, or otherwise the apostle and his companions would have gone into that, according to their custom.",
+            "They saw a place, which in their opinion looked like a religious house, or a place for prayer.",
+            "And among these worshippers of God was Lydia, hereafter mentioned; and worship not being begun, the apostle and his companions sat down among them, and entered into some religious conversation with them."
+        ],
+        "John Wesley": [
+            "The Jews usually held their religious assemblies (either by choice or constraint) at a distance from the heathens.",
+            "Which was also convenient for purifying themselves.",
+            "Paul did not immediately begin to preach."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 16:13, we see a unique situation where Paul and his companions find themselves in Philippi without a synagogue to gather for prayer. This open-air assembly they encounter consists mainly of women, potentially indicating a lack of Jewish presence in the area. Paul takes advantage of this opportunity, engaging in religious conversation with the women, showing how they prioritized spreading the gospel over their own comfort. Their willingness to offer the gospel even to women alone demonstrates the value they placed on faith and the importance of their profession. Despite the absence of a synagogue, Paul and his companions make the most of the situation, seizing any opportunity to worship and proclaim the message of Christ.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.800421519056905,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "commentatorTierSimilarities": [
+                26.18,
+                35.41,
+                38.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we see the absence of a Jewish synagogue in Philippi, leading Paul and his companions to an open-air gathering primarily composed of women. They engage in religious conversation and prioritize spreading the gospel over personal comfort. This reflects the importance placed on their profession of faith and the value they attach to worship. Despite the lack of a traditional place for prayer, Paul does not hesitate to seize this opportunity, emphasizing the significance of sharing the message of Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.7593631255012196,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.84,
+            "commentatorTierSimilarities": [
+                24.47,
+                37.0,
+                38.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, we witness the absence of a Jewish synagogue in Philippi, leading Paul and his companions to an open-air gathering near the river. This assembly primarily consists of women, possibly indicating a small Jewish presence in the area. Nonetheless, Paul seizes the opportunity to engage in religious conversation, showcasing the importance they placed on spreading the gospel. Their willingness to worship and proclaim the message of Christ, even in unconventional circumstances, exemplifies their deep commitment to their faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.8103577967777817,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                25.86,
+                39.18,
+                34.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this scene, Paul and his companions find themselves in Philippi, where there is no synagogue for them to gather for prayer. Instead, they come across an open-air assembly near the river, consisting mainly of women. Paul seizes this opportunity to engage in religious conversation, demonstrating the importance they placed on spreading the gospel. Their willingness to worship and proclaim the message of Christ in unconventional circumstances highlights their deep commitment to their faith, regardless of the absence of a traditional place for prayer.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8005847341465464,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "commentatorTierSimilarities": [
+                28.33,
+                35.13,
+                36.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Philippi, Paul and his companions encounter an open-air assembly near the river, as there is no synagogue in the area. This gathering primarily consists of women, potentially indicating a small Jewish population. seizing this opportunity, Paul engages in religious conversation, emphasizing their dedication to spreading the gospel. Despite the absence of a traditional place for prayer, they prioritize worship and proclaiming the message of Christ, embodying a profound commitment to their faith and the importance of their profession.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.7804117352846154,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                28.06,
+                38.44,
+                33.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

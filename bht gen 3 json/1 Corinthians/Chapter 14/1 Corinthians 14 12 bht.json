@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:13:05",
+    "verseRef": "1 Corinthians 14:12",
+    "bestBHT": {
+        "bht": "Since you are eager for spiritual gifts, seek them in order to build up the church and excel in them. Seek spiritual gifts not for personal display, but for the purpose of edification. Let your zeal be directed towards the edifying of the church, so that you may abound in spiritual gifts and bring about the growth and strengthening of the body of believers. Let the end goal of your spiritual gifts be the edification of the church, that the Lord may be glorified and His kingdom may be expanded.",
+        "wordCount": 90,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.5065075149460823,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.68,
+        "commentatorTierSimilarities": [
+            22.22,
+            42.54,
+            35.24
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thus likewise ye (i. e. after the example of people who would not wish to be barbarians to one another,\u2014avoiding the absurdity just mentioned), emulous as ye are of spiritual gifts, seek them to the edifying of the church, that ye may abound.",
+            "Avoiding the absurdity just mentioned.",
+            "Seek them to the edifying of the church, that ye may abound."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "zealous\u2014emulously desirous.",
+            "spiritual gifts\u2014literally, 'spirits'; that is, emanations from the one Spirit.",
+            "seek that ye may excel to\u2014Translate, 'Seek them, that ye may abound in them to the edifying.'"
+        ],
+        "Albert Barnes": [
+            "Seek to be able to speak in a clear and intelligible manner, that you may edify the church.",
+            "This is one of the most valuable endowments of the Spirit.",
+            "Seek that you may be able to convey truth in a clear and plain manner; seek to be distinguished for that."
+        ],
+        "Marvin Vincent": [
+            "Paul treats the different spiritual manifestations as if they represented a variety of spirits.",
+            "To an observer of the unseemly rivalries it would appear as if not one spirit, but different spirits, were the object of their zeal.",
+            "Lit., spirits."
+        ],
+        "John Calvin": [
+            "If spiritual gifts delight you, let the end be edification.",
+            "He would have a man to be held in higher estimation, in proportion as he devotes himself with eagerness to promote edification.",
+            "It is our part to have this one object in view \u2014 that the Lord may be exalted, and that his kingdom may be, from day to day, enlarged."
+        ],
+        "Philip Schaff": [
+            "Since ye are zealous of spiritual gifts (Gr. \u2018spirits\u2019), seek that ye may abound (in them) unto the edifying of the church not for display.",
+            "Seek that ye may abound (in spiritual gifts) unto the edifying of the church not for display.",
+            "Abound in spiritual gifts for the edification of the church, not for display."
+        ],
+        "Archibald T. Robertson": [
+            "Zealots for spirits. So it looked.",
+            "Purpose clause with the object by prolepsis stated beforehand 'for the edification of the church.'"
+        ],
+        "John Gill": [
+            "Even so ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel, to the edifying of the church.\" ",
+            "Be desirous of such gifts, and of excelling in them, and abounding in the exercise of them, which may be most profitable and edifying to the members of the church.",
+            "Seek that ye may prophesy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Since you are eager for spiritual gifts, seek them in order to build up the church and excel in them. Seek spiritual gifts not for personal display, but for the purpose of edification. Let your zeal be directed towards the edifying of the church, so that you may abound in spiritual gifts and bring about the growth and strengthening of the body of believers. Let the end goal of your spiritual gifts be the edification of the church, that the Lord may be glorified and His kingdom may be expanded.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.5065075149460823,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.68,
+            "commentatorTierSimilarities": [
+                22.22,
+                42.54,
+                35.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Seek spiritual gifts with zeal, desiring to excel in them, for the purpose of edifying the church. Your eagerness should be directed towards the growth and strengthening of the body of believers. Let your pursuit of spiritual gifts be driven by the desire to build up the church, not for personal display. The goal is to abound in these gifts, using them to bring about the expansion of the Lord's kingdom and the exaltation of His name.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.1692535789794714,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.47,
+            "commentatorTierSimilarities": [
+                23.43,
+                39.89,
+                36.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Since you are zealous for spiritual gifts (spirits), seek them earnestly in order to excel and abound in them for the purpose of edifying the church. Let your eagerness be directed towards the growth and strengthening of the body of believers. Seek spiritual gifts not for self-display, but with the aim of edifying the church. The ultimate goal is to bring glory to the Lord and contribute to the expansion of His kingdom day by day.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.1441129051269465,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+            "commentatorTierSimilarities": [
+                24.98,
+                40.0,
+                35.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Since you are eager for spiritual gifts, seek them in order to build up the church and excel in them. Seek spiritual gifts not for personal display, but for the purpose of edification. Let your zeal be directed towards the edifying of the church, so that you may abound in spiritual gifts and bring about the growth and strengthening of the body of believers. Let the end goal of your spiritual gifts be the edification of the church, that the Lord may be glorified and His kingdom may be expanded.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.5065075149460823,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.68,
+            "commentatorTierSimilarities": [
+                22.22,
+                42.54,
+                35.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Seek spiritual gifts with zeal, desiring to excel in them, for the purpose of edifying the church. Your eagerness should be directed towards the growth and strengthening of the body of believers. Let your pursuit of spiritual gifts be driven by the desire to build up the church, not for personal display. The goal is to abound in these gifts, using them to bring about the expansion of the Lord's kingdom and the exaltation of His name.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.1692535789794714,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.47,
+            "commentatorTierSimilarities": [
+                23.43,
+                39.89,
+                36.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

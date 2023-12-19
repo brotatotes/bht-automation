@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:15:01",
+    "verseRef": "Luke 4:34",
+    "bestBHT": {
+        "bht": "What have we to do with thee? What is there to us and to thee? What have we in common? The demons express their astonishment, fear, and indignation in response to Jesus. They recognize him as the Holy One of God, though it is unclear whether this confession is genuine or driven by fear. Jesus asserts that his mission is to address human affairs, not the demons, emphasizing his authority and power to deliver and save those who believe in him.",
+        "wordCount": 81,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 1.106864428169791,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.15,
+        "commentatorTierSimilarities": [
+            53.36,
+            0.0,
+            46.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "What have we to do with thee [\u03c4\u03b9 \u03b7\u03bc\u03b9\u03bd \u03ba\u03b1\u03b9 \u03c3\u03bf\u03b9] ? Lit., what is there to us and to thee? i e., what have we in common? So Wyc."
+        ],
+        "Archibald T. Robertson": [
+            "Ah! An interjection frequent in the Attic poets, but rare in prose. Apparently second person singular imperative of \u03b5\u03b1\u03c9, to permit. It is expressive of wonder, fear, indignation.",
+            "Here it amounts to a diabolical screech.",
+            "The muzzle (\u03c6\u03b9\u03bc\u03bf\u03c2) occurs literally in 1 Corinthians 9:9; 1 Timothy 5:18, and metaphorically here and Mark 1:25; Mark 4:39; Matthew 22:12."
+        ],
+        "John Gill": [
+            "Saying, let us alone.\" ",
+            "Not that there were more spirits in him than one.\" ",
+            "He includes the rest of the devils in that country."
+        ],
+        "John Wesley": [
+            "What have we to do with thee \u2014 Thy present business is with men, not with devils.",
+            "I know thee who thou art \u2014 But surely he did not know a little before, that he was God over all, blessed for ever; or he would not have dared to tell him, All this power is delivered to me, and I give it to whomsoever I will.",
+            "The Holy One of God \u2014 Either this confession was extorted from him by terror, (for the devils believe and tremble,) or he made it with a design to render the character of Christ suspected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What have we to do with thee? What is there to us and to thee? What have we in common? The demons, in a diabolical screech, express their wonder, fear, and indignation. Their words reflect their recognition of Jesus as the Holy One of God, although it is uncertain whether this confession is genuine or motivated by fear. Nevertheless, Jesus's response to the demons reveals that his present business is with humanity, not with them. He is the one who has authority and power over all, and his mission is to deliver and save those who believe in him.",
+            "wordCount": 100,
+            "quoteTokenProportion": 53.03,
+            "qualityScore": 1.0986262518009144,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.87,
+            "commentatorTierSimilarities": [
+                51.84,
+                0.0,
+                48.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What have we to do with thee? What is there to us and to thee? What have we in common? The demons express their wonder, fear, and indignation in response to Jesus, recognizing him as the Holy One of God. While the genuineness of their confession is uncertain, Jesus's reply clarifies that his purpose is to address humanity, not to engage with the demons. He asserts his authority and power as the one who can deliver and save those who believe in him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.1054536106420465,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.1,
+            "commentatorTierSimilarities": [
+                52.53,
+                0.0,
+                47.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What have we to do with thee? What is there to us and to thee? What have we in common? The demons express their astonishment, fear, and indignation in response to Jesus. They recognize him as the Holy One of God, though it is unclear whether this confession is genuine or driven by fear. Jesus asserts that his mission is to address human affairs, not the demons, emphasizing his authority and power to deliver and save those who believe in him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.106864428169791,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.15,
+            "commentatorTierSimilarities": [
+                53.36,
+                0.0,
+                46.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "What have we to do with thee? What is there to us and to thee? What have we in common? Astonished, fearful, and indignant, the demons recognize Jesus as the Holy One of God. While the authenticity of their confession remains uncertain, Jesus clarifies that his purpose is to deal with humanity, not engage with the demons. He asserts his authority and power as the one who can deliver and save those who have faith in him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0768013557067053,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.15,
+            "commentatorTierSimilarities": [
+                52.59,
+                0.0,
+                47.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The passage in question captures a fascinating interaction between Jesus and a demon-possessed man. The demon cries out, What have we to do with thee?, a phrase that expresses a sense of fear and indignation. The demon recognizes Jesus as the Holy One of God, yet interestingly, this confession seems to be made either out of terror or an attempt to cast doubt on Christ's character. Ultimately, the demon acknowledges that Jesus' business is with humanity, not with the forces of darkness. This exchange reveals the power and authority of Jesus, as even the demons recognize Him as God.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 0.9877998436287885,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.19,
+            "commentatorTierSimilarities": [
+                39.13,
+                0.0,
+                60.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

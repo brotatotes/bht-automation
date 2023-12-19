@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:36:28",
+    "verseRef": "Acts 24:25",
+    "bestBHT": {
+        "bht": "Paul's powerful words made even the fearless Felix tremble, but instead of seizing the opportunity for change, he clung to his life of sin. Paul fearlessly expounded on righteousness, temperance, and the judgment to come, appealing to Felix's conscience. This encounter underscores the courage and fidelity of Paul, who fearlessly proclaimed the faith in Christ Jesus, even when facing powerful rulers. It serves as a reminder not to miss the crucial moments in life when convictions arise, and to respond to the call of the gospel.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 1.9982011901668364,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+        "commentatorTierSimilarities": [
+            26.7,
+            37.64,
+            35.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He thought himself licensed to commit all crimes with impunity.",
+            "The fear of Felix appears to have operated merely in his sending away Paul.",
+            "No impression for good was made on him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How noble the fidelity and courage which dared to treat of such topics in such a presence, and what withering power must have been in those appeals which made even a Felix to tremble!",
+            "This was his golden opportunity, but\u2014like multitudes still\u2014he missed it.",
+            "Even in those moments of terror he had no thought of submission to the Cross or a change of life."
+        ],
+        "Albert Barnes": [
+            "Whether a prisoner or at liberty; whether before princes, governors, kings, or common people, he was equally prepared to defend the pure and holy doctrines of the cross.",
+            "Paul seized every opportunity of making known the gospel; his aim was to defend the truth, and to save, if possible, the souls of Drusilla and of Felix.",
+            "When a man has once deliberately rejected the offers of mercy; when he has trifled with the influences of the Spirit of God, he has no right or reason to expect that that Spirit will ever strive with him again."
+        ],
+        "Marvin Vincent": [
+            "Righteousness, temperance, the judgment to come.\" ",
+            "Trembled... was terrified.\" ",
+            "For this time, as to what has itself now."
+        ],
+        "John Calvin": [
+            "Let us first learn by this, what great force of the Spirit of God there was both in the heart and also in the tongue of Paul.",
+            "Although the reprobate be stricken with the judgment of God, yet they are not renewed unto repentance by that terror alone.",
+            "Men are then examined and tried to the quick, when their vices, wherewith they are infected, are brought to light, and their consciences are called back unto the judgment to come."
+        ],
+        "Philip Schaff": [
+            "The Christian teacher apparently never touched on the \u2018evidences of his faith,\u2019 said nothing of his own life nothing in connection with his own experience of shame at the hands of men, or of surpassing glory at the hands of God.",
+            "With that marvellous power none seem to have been possessed like the inspired Paul, he spoke of \u2018life\u2019 rather than of \u2018doctrine,\u2019 with evidently special reference to the brilliant but mistaken lives of the pair who, surrounded with all the majesty of the ensign of the great Empire, sat in royal state, while he stood a friendless, poor-clad prisoner before them.",
+            "No doubt among those precious parchments we read of in his last sad words to Timothy not many years later (2 Timothy 4:13), were records written by the older apostles, men who had been with the Lord during the days of His earthly teaching memories of the Divine words uttered in those solemn hours of communion, and many of which we now possess, most precious gems, set in the gold of the gospel setting."
+        ],
+        "Archibald T. Robertson": [
+            "Paul turned the tables completely around and expounded 'the faith in Christ Jesus' as it applied to Felix and Drusilla.\" ",
+            "Felix was brought under conviction, but apparently not Drusilla. Like another Herodias her resentment was to be feared.\" ",
+            "When I have a convenient season (\u03ba\u03b1\u03b9\u03c1\u03bf\u03bd \u03bc\u03b5\u03c4\u03b1\u03bb\u03b1\u03b2\u03c9\u03bd). It was his 'excuse' for dodging the personal turn that Paul had given."
+        ],
+        "John Gill": [
+            "The apostle not only discoursed concerning the doctrine of faith in Christ, but insisted upon the duties of religion: and particularly he reasoned upon righteousness; not justifying righteousness, that is only the righteousness of Christ, and which rather belongs to the doctrine of faith in Christ; but the exercise of justice, or the doing of righteousness between man and man; which was agreeably to the light of nature, to the law of God, and Gospel of Christ, and is a virtue highly necessary in a judge.",
+            "and he might also reason concerning the necessity of a righteousness, in order to justify before God, and to appear before him with acceptance, and to enter into heaven: he might show, that it was the loss of righteousness which was the reason of the first man being removed from his place and state of happiness, in which he was whilst innocent; and that to admit persons into heaven without a righteousness, is contrary to the pure and holy nature of God, who loves righteousness, and hates iniquity.",
+            "he might insist upon the unprofitableness of a man's own works of righteousness for such a purpose, by observing the imperfection of them; and that justification by them is contrary to God's declared way of justifying sinners, is derogatory to his free grace, would make null and void the death of Christ, and encourage boasting in men."
+        ],
+        "John Wesley": [
+            "This was the only effectual way of preaching Christ to an unjust, lewd judge.",
+            "Let this teach us to guard against all such false dependencies as tend to elude those convictions that might otherwise be produced in us by the faithful preaching of the word of God.",
+            "O how will every damned soul one day lament his having neglected such a time as this!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Paul boldly confronted Felix, a man who thought himself above the law and untouchable in his crimes. Despite the terror he felt, Felix did not allow himself to be transformed by the righteousness, temperance, and judgment to come that Paul spoke of. Paul did not shy away from expounding the faith in Christ Jesus and appealing to Felix's conscience. He seized every opportunity to defend the truth and save souls, even when faced with princes, governors, kings, or common people. Paul's words were not merely about doctrine, but about life and the need for righteousness. He preached the necessity of a righteousness that could justify before God, emphasizing that human works alone are insufficient. This encounter serves as a warning against rejecting the offers of mercy and resisting the Spirit of God, as well as a reminder to seize the moment to respond to the gospel message.",
+            "wordCount": 152,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9641990255874227,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+            "commentatorTierSimilarities": [
+                23.69,
+                38.78,
+                37.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the presence of Felix, Paul fearlessly addressed the topics of righteousness, temperance, and the judgment to come, causing even the governor to tremble. Despite the opportunity to change his wicked ways, Felix clung to his life of sin without submitting to the call of the Cross. Paul's courage in speaking truth to power and his unwavering commitment to sharing the faith in Christ Jesus is exemplified in this encounter. This serves as a poignant reminder to heed the gospel message and not ignore the time when conviction strikes.",
+            "wordCount": 90,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.97672427173385,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.07,
+            "commentatorTierSimilarities": [
+                26.41,
+                37.74,
+                35.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's powerful words made even the fearless Felix tremble, but instead of seizing the opportunity for change, he clung to his life of sin. Paul fearlessly expounded on righteousness, temperance, and the judgment to come, appealing to Felix's conscience. This encounter underscores the courage and fidelity of Paul, who fearlessly proclaimed the faith in Christ Jesus, even when facing powerful rulers. It serves as a reminder not to miss the crucial moments in life when convictions arise, and to respond to the call of the gospel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.9982011901668364,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+            "commentatorTierSimilarities": [
+                26.7,
+                37.64,
+                35.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the presence of Felix, Paul fearlessly addressed righteousness, temperance, and the judgment to come, causing even the governor to tremble. This encounter reveals the captivating power of Paul's words and his unwavering commitment to sharing the faith in Christ Jesus. It also highlights the missed opportunity for Felix to embrace a life-changing transformation. As Felix clung to his sinful ways, he failed to recognize the golden moment of encountering God's truth and mercy. It serves as a poignant reminder to seize the opportunity to respond to the gospel message when conviction strikes.",
+            "wordCount": 96,
+            "quoteTokenProportion": 22.73,
+            "qualityScore": 1.8720367718201918,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.59,
+            "commentatorTierSimilarities": [
+                29.64,
+                35.81,
+                34.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his encounter with Felix, Paul fearlessly proclaimed righteousness, temperance, and the judgment to come, causing even the governor to tremble. However, Felix failed to seize the opportunity for repentance and remained committed to a life of sin. Paul's courage and unwavering commitment to sharing the faith in Christ Jesus shine through in this encounter. It serves as a powerful reminder not to miss the crucial moments when conviction strikes, but to respond to the call of the gospel and embrace righteousness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.94788163515849,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.11,
+            "commentatorTierSimilarities": [
+                27.08,
+                35.84,
+                37.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

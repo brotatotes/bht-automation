@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:13:30",
+    "verseRef": "Luke 1:35",
+    "bestBHT": {
+        "bht": "The Holy Spirit enables the Virgin Mary to become a mother, as her faithful acceptance aligns her with God's purpose. The metaphor of God's overshadowing presence denotes the gentle yet effective power at work. The cloud imagery connects to the Old Testament representations of God's presence and power. The title Son of God is given based on both Christ's divine and human nature, affirmed through His miraculous conception and virgin birth. The Holy Spirit, as the immediate Divine agent, protects Mary's purity and enables Jesus' identity as the Son of God.",
+        "wordCount": 96,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 2.3596046378315325,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.8,
+        "commentatorTierSimilarities": [
+            30.11,
+            36.97,
+            32.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No more is here to be attributed to the Spirit, than what is necessary to cause the Virgin to perform the actions of a mother.",
+            "Her own faithful and humble assent is here given to the divine announcement which been made to her. I believe that her conception of the Lord is to be dated from the utterance of these words.",
+            "She was no unconscious vessel of the divine will, but in humility and faith, a fellow-worker with the purpose of the Father; and therefore her own unity with that purpose was required, and is here recorded."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Holy Ghost\u2014(See on :-).",
+            "overshadow\u2014a word suggesting how gentle, while yet efficacious, would be this Power",
+            "therefore . . . Son of God\u2014That Christ is the Son of God in His divine and eternal nature is clear from all the New Testament; yet here we see that Sonship efflorescing into human and palpable manifestation by His being born, through 'the power of the Highest,' an Infant of days."
+        ],
+        "Albert Barnes": [
+            "The power of the Highest ... - This evidently means that the body of Jesus would be created by the direct power of God. It was not by ordinary generation; but, as the Messiah came to redeem sinners - to make atonement for 'others,' and not for himself it was necessary that his human nature should be pure, and free from the corruption of the fall.",
+            "That holy thing ... - That holy progeny or child.",
+            "Shall be called the Son of God - This is spoken in reference to the human nature of Christ, and this passage proves, beyond controversy, that 'one' reason why Jesus was called the Son of God was because he was begotten in a supernatural manner."
+        ],
+        "Marvin Vincent": [
+            "Denoting the mildest and most gentle operation of divine power, that the divine fire should not consume Mary, but make her fruitful\" (Bengel).",
+            "The metaphor in the word is taken from a cloud, in which God had appeared\" (Exodus 40:34; 1 Kings 8:10).",
+            "Compare the classical legend of Semele, who, being beloved of Jove, besought him to appear to her as he appeared in heaven, in all the terrors of the thunderer, and was consumed by his lightning."
+        ],
+        "John Calvin": [
+            "The angel does not explain the manner, so as to satisfy curiosity, which there was no necessity for doing. He only leads the virgin to contemplate the power of the Holy Spirit, and to surrender herself silently and calmly to his guidance.",
+            "The operation of the Spirit would be secret, as if an intervening cloud did not permit it to be beheld by the eyes of men. Now, as God, in performing miracles, withholds from us the manner of his proceedings, so what he chooses to conceal from us ought to be viewed, on our part, with seriousness and adoration.",
+            "This gives us good reason for growing confidence, that we may venture more freely to call God our Father because his only Son, in order that we might have a Father in common with him, chose to be our brother."
+        ],
+        "Philip Schaff": [
+            "The Holy Spirit is here represented as \u2018power,\u2019 not strictly \u2018the power\u2019 (as if He were not a Person, but merely the power of God).",
+            "The figure is probably taken from a cloud. The two clauses represent, the latter figuratively, the former without a figure, \u2018the supernatural operation of the Holy Spirit, in bringing to pass that which ordinarily occurs only through conjugal intercourse.",
+            "But the son of Mary was to be called \u2018Son of God,\u2019 not because holy, but because begotten by the power of the Most High."
+        ],
+        "Archibald T. Robertson": [
+            "Here it is like the Shekinah glory which suggests it (Exodus 40:38) where the cloud of glory represents the presence and power of God.",
+            "But this title, like the Son of Man (H\u03bf \u03c5\u03b9\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5) was a recognized designation of the Messiah.",
+            "The Miraculous Conception or Virgin Birth of Jesus is thus plainly set forth in Luke as in Matthew."
+        ],
+        "John Gill": [
+            "The formation of Christ's human nature, though common to all the three persons, yet is particularly, and most properly ascribed to the Spirit.",
+            "The power of the Highest shall overshadow thee...in protecting the virgin from any suspicion and charge of sin, and defending her innocence and virtue.",
+            "The human nature of Christ is here called a 'thing'; for it was not a person; it never subsisted of itself, but was taken at once into union with the person of the Son of God."
+        ],
+        "John Wesley": [
+            "The power of God was put forth by the Holy Ghost, as the immediate Divine agent in this work.\" ",
+            "He exerted the power of the Highest as his own power, who together with the Father and the Son is the most high God.\" ",
+            "Not only as he is God from eternity, but on this account likewise he shall be called the Son of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Holy Spirit's role in the miraculous conception of Jesus is to enable the Virgin Mary to become a mother. Mary's faithful and humble acceptance of God's announcement solidifies her unity with His purpose, making her an active participant rather than an unconscious vessel. The metaphor of God's overshadowing presence emphasizes the gentle yet effective power at work. The cloud imagery connects to the Old Testament representations of God's presence and power. The title Son of God is given not just based on Christ's divine nature, but also on His human nature begotten in a supernatural manner. This event affirms Jesus' identity as the Messiah and confirms the belief in His miraculous conception and virgin birth. The power of the Highest, the Holy Spirit, is the immediate Divine agent in this work, protecting Mary's purity and ultimately allowing Jesus to be called the Son of God.",
+            "wordCount": 153,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.3173583738906025,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.39,
+            "commentatorTierSimilarities": [
+                30.71,
+                36.41,
+                32.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Holy Spirit enables the Virgin Mary to become a mother, as her faithful acceptance aligns her with God's purpose. The metaphor of God's overshadowing presence denotes the gentle yet effective power at work. The cloud imagery connects to the Old Testament representations of God's presence and power. The title Son of God is given based on both Christ's divine and human nature, affirmed through His miraculous conception and virgin birth. The Holy Spirit, as the immediate Divine agent, protects Mary's purity and enables Jesus' identity as the Son of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.3596046378315325,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.8,
+            "commentatorTierSimilarities": [
+                30.11,
+                36.97,
+                32.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Holy Spirit's role in the miraculous conception is to enable Mary to become a mother. Her humble assent is necessary for her own unity with God's purpose. The overshadowing by the power of the Highest represents the gentle yet efficacious nature of this event. The metaphor of a cloud suggests the presence and power of God. This miraculous conception affirms Jesus' Sonship to both His divine and human nature. The Holy Spirit's power protects Mary's innocence, allowing Jesus to be called the Son of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.1913461475739533,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.2,
+            "commentatorTierSimilarities": [
+                30.24,
+                37.0,
+                32.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Holy Spirit's gentle yet efficacious power enables the Virgin Mary to fulfill her role as a mother. Through her faithful acceptance and unity with God's purpose, she becomes a fellow worker with the divine plan. The overshadowing by the power of the Highest symbolizes the gentle nature of this divine intervention. The metaphor of a cloud suggests the presence and power of God. This miraculous conception manifests Jesus as the Son of God, expressing His divine and human natures. The Holy Spirit's power safeguards Mary's purity, allowing Jesus to be called the Son of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.2791325062336014,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.12,
+            "commentatorTierSimilarities": [
+                30.79,
+                36.16,
+                33.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the gentle yet efficacious power of the Holy Spirit, the Virgin Mary is empowered to fulfill her role as a mother. Her faithful and humble acceptance aligns her with God's purpose, allowing her to be an active participant in His plan. The overshadowing by the power of the Highest signifies the gentle yet effective nature of this divine intervention. This miraculous conception affirms Jesus' Sonship as both fully divine and human, ultimately designating Him as the Son of God. The Holy Spirit's power safeguards Mary's purity, facilitating the miraculous birth of Jesus.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.2039606453356093,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.62,
+            "commentatorTierSimilarities": [
+                31.19,
+                35.59,
+                33.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

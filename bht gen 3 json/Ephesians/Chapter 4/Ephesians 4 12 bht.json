@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:32:53",
+    "verseRef": "Ephesians 4:12",
+    "bestBHT": {
+        "bht": "The offices mentioned aim to perfect and build up the saints in the church. The immediate purpose is the work of ministry, focused on the mending and edifying of the saints. Building up defines the nature of ministry, while perfecting implies correcting deficiencies and instructing and completing the saints. The ultimate goal is to edify and complete the church, accomplished through the various gifts and graces bestowed upon individuals in their work of ministry, particularly through the preaching of the Gospel.",
+        "wordCount": 81,
+        "quoteTokenProportion": 27.08,
+        "qualityScore": 2.2223491191108593,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.23,
+        "commentatorTierSimilarities": [
+            34.58,
+            29.5,
+            35.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The ultimate aim of these offices is the perfecting of the saints.",
+            "The immediate object is the work of ministry in God's Church.",
+            "The work of ministry is for the building up of the body of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "perfecting\u2014The Greek implies correcting in all that is deficient, instructing and completing in number and all parts.",
+            "for\u2014a different Greek word; the immediate object. Compare :-, 'Let every one . . . please his neighbor for his good unto edification.'",
+            "edifying\u2014that is, building up as the temple of the Holy Ghost."
+        ],
+        "Albert Barnes": [
+            "It is that Christians may have every possible advantage for becoming complete in love, and knowledge, and order.",
+            "But is it not clear from this that Christ did not appoint 'merely' three orders of clergy to be permanent in the church? Here are 'five' orders enumerated, and in 1 Corinthians 12:28, there are 'eight' mentioned.",
+            "For the edifying - For building it up; that is, in the knowledge of the truth and in piety; see the notes on Romans 14:19."
+        ],
+        "Marvin Vincent": [
+            "For perfecting, see on mending, Matthew 4:21; perfected, Matthew 21:16; Luke 6:40; 1 Peter 5:10.\" ",
+            "Eijv unto, marks the immediate purpose of the gift. He gave apostles, etc., unto the work of ministering and building, for the perfecting, etc.\" ",
+            "Notice the combination of perfecting and building. Building defines the nature of the work of ministry, and perfecting comes through a process."
+        ],
+        "John Calvin": [
+            "But as Paul intended to express here a just and orderly arrangement, I prefer the word (constitutio ) settlement or constitution, taking it in that sense in which a commonwealth, or kingdom, or province, is said to be settled, when confusion gives place to the regular administration of law.",
+            "God might himself have performed this work, if he had chosen; but he has committed it to the ministry of men. This is intended to anticipate an objection. 'Cannot the church be constituted and properly arranged, without the instrumentality of men?' Paul asserts that a ministry is required, because such is the will of God.",
+            "Our true completeness and perfection consist in our being united in the one body of Christ. No language more highly commendatory of the ministry of the word could have been employed, than to ascribe to it this effect. What is more excellent than to produce the true and complete perfection of the church?"
+        ],
+        "Philip Schaff": [
+            "For the perfecting of the saints, unto all that variety of service, essential unto the building up of the body of Christ.",
+            "Perfecting' occurs only here, and refers to moral completeness, not to the completeness of the number of the elect, nor to their becoming one body.",
+            "The service is not merely philanthropic ministration; it has in view the growth and strengthening of the 'one body.' Whatever view be taken of the connection of thought, it is true that all Christian service should contribute to the furtherance of this end."
+        ],
+        "Archibald T. Robertson": [
+            "For the mending (repair) of the saints.",
+            "This is the ultimate goal in all these varied gifts, 'building up'."
+        ],
+        "John Gill": [
+            "The ministration of the word is a means of carrying on the work of grace in them unto perfection.",
+            "The preaching of the Gospel is a work, and a laborious one, and what no man is sufficient for of himself.",
+            "Gifts are bestowed to fit them for the preaching of the Gospel, that hereby the church...might be built up."
+        ],
+        "John Wesley": [
+            "For the perfecting the saints \u2014 The completing them both in number and their various gifts and graces.",
+            "To the work of the ministry \u2014 The serving God and his church in their various ministrations.",
+            "To the edifying of the body of Christ \u2014 The building up this his mystical body in faith, love, holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ultimate aim of the offices mentioned in this verse is to perfect the saints. Their immediate purpose is to carry out the work of ministry in the church, specifically for the building up of the body of Christ. The Greek word used for perfecting implies correcting and completing in all areas of deficiency. The aim is to mend and instruct the saints in order to build them up as the temple of the Holy Spirit. This combination of perfecting and building defines the nature of the work of ministry, with the ultimate goal being the edification and completion of the church. Through the ministry of individuals, such as the preaching of the Gospel, the saints are brought to completeness and perfection in their various gifts and graces, thereby building up the body of Christ in faith, love, and holiness.",
+            "wordCount": 140,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 2.2060042947653242,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+            "commentatorTierSimilarities": [
+                33.35,
+                32.24,
+                34.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The offices mentioned in these verses are intended for the perfecting and building up of the saints. The Greek word used for perfecting suggests correcting, instructing, and completing in all areas of deficiency. The goal is to mend and build up the body of Christ, the church, through the work of ministry. The ultimate aim is the edification and completion of the saints, enabling them to fulfill their various gifts and graces. This is achieved through the ministry of individuals, especially through the preaching of the Gospel, which brings about growth, strength, and perfection in the church.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.0928155119402074,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.93,
+            "commentatorTierSimilarities": [
+                32.3,
+                31.49,
+                36.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The purpose of these offices is to perfect and build up the saints in the church. The work of ministry is focused on correcting deficiencies, instructing, and completing the saints in all aspects. Building up the body of Christ is the immediate objective, through mending and edifying the saints. The combination of perfecting and building defines the nature of ministry, with the ultimate goal being the edification and completion of the church. This is achieved through the various gifts and graces bestowed upon individuals, particularly in their work of ministry.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.2001034499309906,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.49,
+            "commentatorTierSimilarities": [
+                34.5,
+                30.85,
+                34.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The offices mentioned in this passage are appointed with the ultimate aim of perfecting the saints and building up the body of Christ. The work of ministry involves correcting deficiencies, instructing, and completing the saints. This process of perfecting and building defines the nature of ministry, aiming for the edification and completion of the church. The various gifts and graces bestowed upon individuals are intended to contribute to this goal. Through the ministry of preaching the Gospel, the saints are brought to completeness and perfection, building up the body of Christ in faith, love, and holiness.",
+            "wordCount": 96,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 2.20551027362539,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.67,
+            "commentatorTierSimilarities": [
+                32.76,
+                31.11,
+                36.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The offices mentioned aim to perfect and build up the saints in the church. The immediate purpose is the work of ministry, focused on the mending and edifying of the saints. Building up defines the nature of ministry, while perfecting implies correcting deficiencies and instructing and completing the saints. The ultimate goal is to edify and complete the church, accomplished through the various gifts and graces bestowed upon individuals in their work of ministry, particularly through the preaching of the Gospel.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 2.2223491191108593,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.23,
+            "commentatorTierSimilarities": [
+                34.58,
+                29.5,
+                35.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

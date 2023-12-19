@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:13:12",
+    "verseRef": "1 Corinthians 13:13",
+    "bestBHT": {
+        "bht": "These three great graces - faith, hope, and love - shall remain forever. The forms of Faith and Hope will be sustained by the all-pervading superior element of eternal Love. Love alone abides in every sense and is the greatest of the three, as it presupposes faith, which without love and its consequent works is dead. The essential permanence of these graces is asserted; they are eternal in their nature. The other gifts may pass away, but faith, hope, and love endure, and are necessary and sufficient for salvation.",
+        "wordCount": 88,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.5571591664265627,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.37,
+        "commentatorTierSimilarities": [
+            32.44,
+            35.17,
+            32.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These three great graces shall remain for ever,\u2014FAITH, HOPE, LOVE.",
+            "The greater (or in English, greatest) of these,\u2014not \u2018greater than these.\u2019",
+            "The forms of Faith and Hope which will there for ever subsist, will be sustained in, and overshadowed by, the all-pervading superior element of eternal Love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Or, 'now' does not express time, but opposition, as in 1 Corinthians 5:11, 'the case being so'; whereas it is the case that the three gifts, 'prophecy,' 'tongues,' and 'knowledge' (cited as specimens of the whole class of gifts) 'fail' (1 Corinthians 13:8), there abide permanently only these three\u2014faith, hope, charity.\" ",
+            "But in another sense, 'faith and hope,' as well as 'charity,' ABIDE; namely, after the extraordinary gifts have ceased; for those three are necessary and sufficient for salvation at all times, whereas the extraordinary gifts are not at all so.",
+            "But love alone in every sense 'abideth'; it is therefore 'the greatest' of the three, as also because it presupposes 'faith,' which without 'love' and its consequent 'works' is dead."
+        ],
+        "Albert Barnes": [
+            "faith, hope, and love would 'remain' when the gift of tongues should cease, and the need of prophecy, etc.; that is, these should survive them all.",
+            "faith, hope, and love will survive 'all' those other things of which he had been speaking; that 'they' would vanish away, or be lost in superior attainments and endowments; that the time would come when they would be useless; but that faith, hope, and love would then remain.",
+            "the greatest of these is charity - Not because it is to 'endure' the longest, but because it is the more important virtue; it exerts a wider influence; it is more necessary to the happiness of society; it overcomes more evils."
+        ],
+        "Marvin Vincent": [
+            "Now is logical and not temporal.",
+            "The essential permanence of the three graces is asserted.",
+            "In their nature they are eternal."
+        ],
+        "John Calvin": [
+            "There are, it is true, many and various gifts, but they all point to this object, and have an eye to it...as though he had said \u2014 'There are, it is true, many and various gifts, but they all point to this object, and have an eye to it.'\" ",
+            "The greatest of these is love...if we estimate its excellence by the effects which he has previously enumerated; and farther, if we take into view its perpetuity. For every one derives advantage from his own faith and hope, but love extends its benefits to others. Faith and hope belong to a state of imperfection: love will remain even in a state of perfection.",
+            "Faith is, in many of its effects, superior to love...Hence it is evident, that it is declared here to be superior \u2014 not in every respect, but inasmuch as it will be perpetual, and holds at present the first place in the preservation of the Church."
+        ],
+        "Philip Schaff": [
+            "All these supernatural gifts were designed only for the first starting of the Church, and are gradually to cease; but the cardinal graces of faith and hope and love, without which the Christian character cannot exist, will abide on earth as long as the Church itself is left there.",
+            "As to the future of those graces, the truth would seem to be that since \u201cfaith\u201d and \u201chope\u201d will certainly pass into sight, and so be lost in any distinctive sense, they are to be viewed as, in their very nature, temporary means towards something else into which they are destined to pass; while love, from its very nature, though admitting of indefinite increase, can never pass into anything else and higher, and so is necessarily eternal.",
+            "In every other Religion and Ethical system, the true foundation of such a character is wanting, and the true source of the power to realise and exemplify it is unknown."
+        ],
+        "Archibald T. Robertson": [
+            "The other gifts pass away, but these abide forever.",
+            "Love is necessary for both faith and hope.",
+            "Greatest, Dr. Jones holds, because love is an attribute of God."
+        ],
+        "John Gill": [
+            "Faith is to be understood, not of a faith of miracles, for that does not abide; nor of an historical one, or mere assent to truth; persons may have this faith, and believe but for a while; but of that faith, which is peculiar to God's elect; is a fruit and effect of electing grace, and for that reason abides; is the gift of God.",
+            "Hope is also a gift of God's grace, implanted in regeneration; has God and Christ, and not any worldly thing, or outward performance, for its object, ground, and foundation, to build upon; it is of things unseen, future, difficult, yet possible to be enjoyed; it is supported by the love of God, is encouraged by promises, and is sure, being fixed on Christ and his righteousness.",
+            "Charity designs love to God, Christ, and the saints, as has been explained, and a large account is given of it in this chapter: these are the three chief and leading graces in God's people, and they abide and continue with them; they may fail sometimes, as to their lively exercise, but never as to their being and principle."
+        ],
+        "John Wesley": [
+            "Faith, hope, love \u2014 Are the sum of perfection on earth; love alone is the sum of perfection in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These three great graces \u2014 faith, hope, and love \u2014 shall remain forever. The forms of Faith and Hope will be sustained by the all-pervading superior element of eternal Love. Although the extraordinary gifts will cease, faith, hope, and charity are necessary and sufficient for salvation at all times. Love alone abides in every sense and is the greatest of the three, as it presupposes faith and its consequent works. The essential permanence of these graces is asserted, as they are eternal in their nature. The other gifts may pass away, but faith, hope, and love abide forever. Love is considered the greatest because it is an attribute of God. These graces are necessary for the Christian character and will remain on earth as long as the Church itself.",
+            "wordCount": 128,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 2.4392734115935513,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.45,
+            "commentatorTierSimilarities": [
+                31.45,
+                35.3,
+                33.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These three great graces -- faith, hope, and love -- shall remain forever. The forms of Faith and Hope will be sustained by the all-pervading superior element of eternal Love. Although the extraordinary gifts will cease, faith, hope, and charity are necessary and sufficient for salvation at all times. Love alone abides in every sense and is the greatest of the three, as it presupposes faith and its consequent works. The essential permanence of these graces is asserted, as they are eternal in their nature.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.523219258073552,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.24,
+            "commentatorTierSimilarities": [
+                32.67,
+                34.81,
+                32.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These three great graces - faith, hope, and love - shall remain forever. The forms of Faith and Hope will be sustained by the all-pervading superior element of eternal Love. Although the extraordinary gifts will cease, faith, hope, and charity are necessary and sufficient for salvation at all times. Love alone abides in every sense and is the greatest of the three, as it presupposes faith and its consequent works. The essential permanence of these graces is asserted, as they are eternal in their nature.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.523219258073552,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.24,
+            "commentatorTierSimilarities": [
+                32.67,
+                34.81,
+                32.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These three great graces - faith, hope, and love - shall remain forever. The forms of Faith and Hope will be sustained by the all-pervading superior element of eternal Love. Love alone abides in every sense and is the greatest of the three, as it presupposes faith, which without love and its consequent works is dead. The other gifts may pass away, but these three graces are necessary and sufficient for salvation at all times. The essential permanence of these graces is asserted, as they are eternal in their nature.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.4621645860485586,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.21,
+            "commentatorTierSimilarities": [
+                34.11,
+                34.34,
+                31.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These three great graces - faith, hope, and love - shall remain forever. The forms of Faith and Hope will be sustained by the all-pervading superior element of eternal Love. Love alone abides in every sense and is the greatest of the three, as it presupposes faith, which without love and its consequent works is dead. The essential permanence of these graces is asserted; they are eternal in their nature. The other gifts may pass away, but faith, hope, and love endure, and are necessary and sufficient for salvation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.5571591664265627,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.37,
+            "commentatorTierSimilarities": [
+                32.44,
+                35.17,
+                32.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

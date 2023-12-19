@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:38:11",
+    "verseRef": "2 Thessalonians 2:12",
+    "bestBHT": {
+        "bht": "Those who do not believe the truth, but instead find pleasure in unrighteousness, face condemnation. It is not all people in anti-Christian systems who will be damned, but specifically those who reject the truth and delight in sin. The ultimate purpose of their obstinate resistance to the truth is their final punishment. This condemnation is the result of their choice to love unrighteousness, which aligns them with the man of sin and distances them from God. They will reap the consequences of their actions, facing judgment and condemnation for rejecting the truth.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.2111594795559215,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.86,
+        "commentatorTierSimilarities": [
+            29.65,
+            29.69,
+            40.67
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not all in the Church of Rome, or other anti-Christian systems, shall be damned, but only 'all who believed not the truth,' when offered to them, 'but had pleasure in unrighteousness.'\" (quote 1)",
+            "Love of unrighteousness being the great obstacle to believing the truth.\" (quote 2)",
+            "Not all in the Church of Rome, or other anti-Christian systems, shall be damned.\" (quote 3)"
+        ],
+        "Albert Barnes": [
+            "The word 'damned' we commonly apply now exclusively to future punishment, and it has a harsher signification than the original word... It may be applied to the judgment of the last day, but not necessarily.\" ",
+            "The sense is, that this course of events would be allowed to occur, 'so that' all who do not love the truth would be condemned... It is not proper, therefore, to infer that this passage teaches that all these things would be brought about in the arrangements of Providence, in order that they might be damned who came under their influence.\" ",
+            "If men have pleasure in sin, it is proper that they should be punished. There can be no more just ground of condemnation than that a man loves to do wrong."
+        ],
+        "Marvin Vincent": [
+            "Might be damned (kriqwsin). More correctly, judged. See on damnation, 1 Timothy 5:12. 1 Timothy 5:35"
+        ],
+        "John Calvin": [
+            "Let those, then, who take pleasure in unrighteousness, reap the fruit of it.",
+            "When he says all, he means that contempt of God finds no excuse in the great crowd and multitude of those who refuse to obey the gospel.",
+            "For by what violence will they say that they have been impelled to alienate themselves by a mad revolt from God, towards whom they were led by the guidance of nature?"
+        ],
+        "Philip Schaff": [
+            "That they may all be judged...the further idea of an unfavorable judgment being supplied by the context.",
+            "The familiar use of the word 'judgment' to denote the judicial punishment of men by God.",
+            "They loved the darkness because their deeds were evil."
+        ],
+        "Archibald T. Robertson": [
+            "Ultimate purpose, almost result, of the preceding obstinate resistance to the truth and 'the judicial infatuation which overtakes them' (Lightfoot), now final punishment.\" ",
+            "Condemnation is involved in the fatal choice made.",
+            "These victims of the man of sin did not believe the truth and found pleasure in unrighteousness."
+        ],
+        "John Gill": [
+            "That they all might be damned... that they might be condemned and punished with everlasting destruction from the presence of the Lord.\" ",
+            "It is but a righteous thing with God to give them up to such delusion, that they may be damned.",
+            "But had pleasure in unrighteousness; in sin, as all unrighteousness is; in sinful ways and works, and in unrighteous doctrines."
+        ],
+        "John Wesley": [
+            "That they all may be condemned \u2014 That is, the consequence of which will be, that they all will be condemned who believed not the truth, but had pleasure in unrighteousness - That is, who believed not the truth, because they loved sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who do not believe the truth, but instead find pleasure in unrighteousness, face condemnation. It is not all people in anti-Christian systems who will be damned, but specifically those who reject the truth and delight in sin. This condemnation is the result of their obstinate resistance to the truth, which ultimately leads to their punishment. The choice to love unrighteousness is a fatal one, as it aligns individuals with the man of sin and distances them from God. Those who take pleasure in unrighteousness will reap its consequences, facing judgment and being condemned for their rejection of the truth.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.288515013719067,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.43,
+            "commentatorTierSimilarities": [
+                29.37,
+                29.03,
+                41.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who do not believe the truth, but instead find pleasure in unrighteousness, face condemnation. It is not all people in anti-Christian systems who will be damned, but specifically those who reject the truth and delight in sin. The ultimate purpose of their obstinate resistance to the truth is their final punishment. This condemnation is the result of their choice to love unrighteousness, which aligns them with the man of sin and distances them from God. They will reap the consequences of their actions, facing judgment and condemnation for rejecting the truth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.2111594795559215,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.86,
+            "commentatorTierSimilarities": [
+                29.65,
+                29.69,
+                40.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who refuse to believe the truth but find pleasure in unrighteousness are the ones who will face condemnation. This judgment is not applicable to all in the Church of Rome or other anti-Christian systems, but specifically to those who reject the truth and indulge in sinful ways. Their condemnation is the consequence of their persistent resistance to the truth, leading to their ultimate punishment. By choosing to embrace unrighteousness, they align themselves with the man of sin and separate themselves from God. Consequently, they will face judgment and the resulting condemnation for their rejection of the truth.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.0811703553575116,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.54,
+            "commentatorTierSimilarities": [
+                30.4,
+                29.28,
+                40.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who refuse to believe the truth but instead take pleasure in unrighteousness will face condemnation. It is not all people in anti-Christian systems who will be damned, but specifically those who reject the truth and embrace sinful ways. The purpose of their persistent resistance to the truth is their ultimate punishment. Their condemnation is the outcome of their choice to love unrighteousness, aligning themselves with the man of sin and moving away from God. They will experience judgment and condemnation for rejecting the truth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.130460886592325,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                29.93,
+                29.51,
+                40.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who take pleasure in unrighteousness and refuse to believe the truth will face condemnation. The specific focus is not on all people in anti-Christian systems, but rather on those who reject the truth and indulge in sinful ways. Their obstinate resistance to the truth results in their final punishment. By choosing to love unrighteousness, they align themselves with the man of sin and distance themselves from God. Consequently, they will face judgment and condemnation for their rejection of the truth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.030765302355648,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.86,
+            "commentatorTierSimilarities": [
+                30.67,
+                28.78,
+                40.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

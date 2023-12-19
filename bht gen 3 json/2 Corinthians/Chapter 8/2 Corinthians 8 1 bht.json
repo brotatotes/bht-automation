@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:17:02",
+    "verseRef": "2 Corinthians 8:1",
+    "bestBHT": {
+        "bht": "The grace of God bestowed on the churches of Macedonia prompted their abundant joy and liberality, even in the midst of affliction and deep poverty. Their example serves as a testament to the divine nature of their actions, as every good gift and frame of mind comes by divine grace, not by human excellency. Through their generous contributions, they demonstrated God's grace and love, seeking to reconcile the Judaizing Christians at Jerusalem with the Gentile believers.",
+        "wordCount": 77,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 2.452309644029805,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.88,
+        "commentatorTierSimilarities": [
+            41.88,
+            32.2,
+            25.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For every good gift and frame of mind comes by divine grace, not by human excellency.",
+            "This occasion was most opportune for resting the liberality of the Macedonian churches on God\u2019s grace.",
+            "He might not be extolling them at the expense of the Corinthians, but holding out an example of the effusion of that grace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their liberality was not of themselves naturally, but of God's grace bestowed on them, and enabling them to be the instrument of God's 'grace' to others.",
+            "The importance given in this Epistle to the collection...chiefly from his hope to conciliate the Judaizing Christians at Jerusalem to himself and the Gentile believers, by such an act of love on the part of the latter towards their Jewish brethren.",
+            "The grace of God bestowed on the churches of Macedonia."
+        ],
+        "Albert Barnes": [
+            "A disposition to contribute to the cause of benevolence is to be traced to God. He is its author. He excites it.",
+            "It is a favor bestowed on a church when God excites in it a spirit of benevolence. It is one of the evidences of his love.",
+            "And he meant, probably, gently to intimate to the Corinthians that it would be an evidence that they were enjoying the favor of God if they should contribute in like manner."
+        ],
+        "Marvin Vincent": [
+            "In much affliction, which tried and proved their Christian character, their joy and liberality abounded.",
+            "Their poverty went down to the depths.",
+            "How that in much proof of affliction was the abundance of their joy, and their deep poverty abounded unto the riches, etc."
+        ],
+        "John Calvin": [
+            "We ought to ascribe it to the grace of God, when we afford aid to our brethren, and that it ought to be desired by us as a privilege of no ordinary kind.",
+            "Each of these things, Paul affirms with good reason, is a work of the Lord, for all quickly fail, that are not upheld by the Spirit of God, who is the Author of all consolation.",
+            "Distrust clings to us, deeply rooted, which keeps us back from all offices of love, until it is subdued by the grace of the same Spirit."
+        ],
+        "Philip Schaff": [
+            "Moreover, brethren, we make known to you the grace of God which hath been bestowed on the churches of Macedonia.",
+            "To the former division belonged Corinth, whose Christian Church owed its existence to our apostle, with Athens, where he failed to establish one.",
+            "These are 'the churches of Macedonia,' whose Christian liberality is here so admiringly described and held up for imitation."
+        ],
+        "Archibald T. Robertson": [
+            "The grace (\u03c4\u03b7\u03bd \u03c7\u03b1\u03c1\u03b9\u03bd). As manifested in the collection in the churches, poor as they were. The Romans had lacerated Macedonia (Livy, XLV. 30). "
+        ],
+        "John Gill": [
+            "The phrase 'to wit' is an old English one, and almost obsolete, and signifies to acquaint with, inform of, make known, or give knowledge of anything.",
+            "Examples have great influence, and the examples of many the greater; too many follow a multitude to do evil; here the example of many, even of many churches, is proposed in order to be followed to do good.",
+            "Which signifies 'grace' and 'free bounty'; and is used for doing good, or for beneficence, which the Jews call 'a performance of kind and bountiful actions': which are done freely, and for which a person expects no return from the person to whom he does them."
+        ],
+        "John Wesley": [
+            "We declare to you the grace of God \u2014 Which evidently appeared by this happy effect."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For every good gift and frame of mind comes by divine grace, not by human excellency. This occasion was most opportune for resting the liberality of the Macedonian churches on God's grace. Their liberality was not of themselves naturally, but of God's grace bestowed on them, and enabling them to be the instrument of God's 'grace' to others. The importance given in this Epistle to the collection...chiefly from his hope to conciliate the Judaizing Christians at Jerusalem to himself and the Gentile believers, by such an act of love on the part of the latter towards their Jewish brethren. In much affliction, which tried and proved their Christian character, their joy and liberality abounded. Their poverty went down to the depths. The grace of God bestowed on the churches of Macedonia.",
+            "wordCount": 135,
+            "quoteTokenProportion": 39.24,
+            "qualityScore": 2.3033053739003453,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.93,
+            "commentatorTierSimilarities": [
+                44.03,
+                32.54,
+                23.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For every good gift and frame of mind comes by divine grace, not by human excellency. This occasion was most opportune for resting the liberality of the Macedonian churches on God's grace. Their liberality was not of themselves naturally, but of God's grace bestowed on them, and enabling them to be the instrument of God's 'grace' to others. The importance given in this Epistle to the collection...chiefly from his hope to conciliate the Judaizing Christians at Jerusalem to himself and the Gentile believers, by such an act of love on the part of the latter towards their Jewish brethren.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.384674862477344,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.63,
+            "commentatorTierSimilarities": [
+                40.02,
+                32.66,
+                27.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For every good gift and frame of mind comes by divine grace, not by human excellency. This occasion was most opportune for resting the liberality of the Macedonian churches on God's grace. Their liberality was not of themselves naturally, but of God's grace bestowed on them, and enabling them to be the instrument of God's 'grace' to others. The importance given in this Epistle to the collection...chiefly from his hope to conciliate the Judaizing Christians at Jerusalem to himself and the Gentile believers, by such an act of love on the part of the latter towards their Jewish brethren.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.384674862477344,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.63,
+            "commentatorTierSimilarities": [
+                40.02,
+                32.66,
+                27.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The grace of God bestowed on the churches of Macedonia prompted their abundant joy and liberality, even in the midst of affliction and deep poverty. Their example serves as a testament to the divine nature of their actions, as every good gift and frame of mind comes by divine grace, not by human excellency. Through their generous contributions, they demonstrated God's grace and love, seeking to reconcile the Judaizing Christians at Jerusalem with the Gentile believers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.452309644029805,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.88,
+            "commentatorTierSimilarities": [
+                41.88,
+                32.2,
+                25.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The grace of God bestowed on the churches of Macedonia enabled them to exhibit abundant joy and liberality, even amid afflictions and deep poverty. Their acts of giving were not merely a result of their own abilities, but rather a manifestation of God's grace that worked in and through them. Their example serves as a powerful reminder that all good gifts and the right disposition to give come from divine grace, not human merit. It is through such acts of love and generosity that they aimed to reconcile the Judaizing Christians in Jerusalem with the Gentile believers, demonstrating the profound impact of God's grace at work in their lives.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.3935359746277207,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.93,
+            "commentatorTierSimilarities": [
+                38.47,
+                32.52,
+                29.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

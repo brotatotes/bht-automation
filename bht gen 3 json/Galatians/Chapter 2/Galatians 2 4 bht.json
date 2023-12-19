@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:13:36",
+    "verseRef": "Galatians 2:4",
+    "bestBHT": {
+        "bht": "Because of false brethren who came in privily to spy out our liberty and bring us into bondage, Paul did not yield to their demands to circumcise Titus. These false brethren, Christians in name only, sought to enslave the followers of Christ, pervert the truth of the gospel, and impose the yoke of the ceremonial law on the Gentile converts. Paul referred to them as 'false brethren' and it was essential for him to maintain the spiritual liberty that arises from faith in Christ and not be led astray by those who desired to destroy and rob them of that freedom.",
+        "wordCount": 101,
+        "quoteTokenProportion": 42.65,
+        "qualityScore": 2.4463402807160906,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.68,
+        "commentatorTierSimilarities": [
+            27.69,
+            40.46,
+            31.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because of the false brethren...to enslave us utterly.\" ",
+            "Not even for one hour did we yield...that the truth of the gospel might abide with you.",
+            "The fact was so\u2014the Galatians specially, not being in his mind at the time."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What I did concerning Titus (namely, by not permitting him to be circumcised) was not from contempt of circumcision, but 'on account of the false brethren' who, had I yielded to the demand for his being circumcised, would have perverted the case into a proof that I deemed circumcision necessary.",
+            "unawares\u2014in an underhand manner brought in.",
+            "to spy out\u2014as foes in the guise of friends, wishing to destroy and rob us of our liberty\u2014from the yoke of the ceremonial law."
+        ],
+        "Albert Barnes": [
+            "It is clear, however, that they opposed the apostle Paul; that they regarded him as teaching dangerous doctrines; that they perverted and misstated his views.",
+            "Paul met such adversaries everywhere...and it required all his tact and skill to meet their plausible representations.",
+            "Their object in spying out the liberty which Paul and others had, was, undoubtedly, to be witnesses of the fact that they did not observe the special rites of the Mosaic system; to make report of it; to insist upon their complying with those customs, and thus to secure the imposition of those rites on the Gentile converts."
+        ],
+        "Marvin Vincent": [
+            "The false brethren... Christians in name only; Judaisers; anti-Paulinists.",
+            "Insidiously, illegally... brought in... into the Christian brotherhood to which they did not rightfully belong.",
+            "Came in privily... to spy out our liberty... bring us into bondage... abject subjection."
+        ],
+        "John Calvin": [
+            "Either he would treat with open scorn the ceremonial law, and then they would rouse the indignation of the Jews against him; or he would refrain entirely from the exercise of his liberty, and in that case they would exult over him among the Gentiles as one who, overwhelmed with shame, had retracted his doctrine.\" ",
+            "When he says that he was not 'compelled,' the reader is led to understand that circumcision is not condemned as a bad thing in itself, but that the obligation to observe it was the subject of dispute.",
+            "Their intention was to lay down a law; and to such compulsion he would not yield."
+        ],
+        "Philip Schaff": [
+            "Paul would have respected the scruples of weak brethren (comp. Romans 14:15); while he was inflexible in resisting the demands of false brethren.",
+            "For he did this from his own impulse, and for the purpose of making Timothy more useful, without compromising the principle of justification by faith.",
+            "From these false brethren who were intolerant Judaizers of the malignant type and bitter haters of freedom, we should carefully distinguish the weak brethren whom Paul treats with great indulgence."
+        ],
+        "Archibald T. Robertson": [
+            "Late verbal adjective \u03c0\u03b1\u03c1\u03b5\u03b9\u03c3\u03b1\u03ba\u03c4\u03bf\u03c2 from the double compound verb \u03c0\u03b1\u03c1\u03b5\u03b9\u03c3\u03b1\u03b3\u03c9, found in papyri in the sense of brought in by the side or on the sly as here.\" ",
+            "Paul terms them 'false brethren' like 'the false apostles' in 2 Corinthians 11:13 of the Judaizers in Corinth.",
+            "Spiritual liberty or spiritual bondage, which?"
+        ],
+        "John Gill": [
+            "Had it been left as a thing indifferent, or had it been moved for in order to satisfy some weak minds, it might have been complied with, as in the case of Timothy; but these men insisted upon it as necessary to salvation...\" ",
+            "Their views, aims, and ends were, to spy out our liberty which we have in Christ Jesus; by which is meant, not a liberty to sin, which is no Christian liberty, is contrary to Christ, to the Spirit of Christ, to the principle of grace in believers, and to the doctrines of the Gospel; but a liberty from sin; not the being of it, but the dominion and damning power of it.\" ",
+            "The design of these false teachers getting in privily among the apostles, elders, and brethren, was to make their remarks upon this liberty, to object to it, and, if possible, to break in upon it, and destroy it, and so gain another point, which follows: that they might bring us into bondage."
+        ],
+        "John Wesley": [
+            "Because of false brethren \u2014 Who seem to have urged it.",
+            "Introduced unawares \u2014 Into some of those private conferences at Jerusalem.",
+            "Who had slipped in to spy out our liberty - From the ceremonial law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because of false brethren, who came in privily to spy out our liberty and bring us into bondage, Paul did not yield to their demands to circumcise Titus. These false brethren, Christians in name only, were Judaisers who wanted to impose the yoke of the ceremonial law on the Gentile converts. They sought to enslave the followers of Christ and pervert the truth of the gospel. Paul refers to them as 'false brethren,' like 'the false apostles' in Corinthians. It was important for Paul to maintain the spiritual liberty that comes from faith in Christ and not be led astray by those who sought to destroy and rob them of that freedom.",
+            "wordCount": 112,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 2.29387384677751,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.61,
+            "commentatorTierSimilarities": [
+                29.02,
+                40.24,
+                30.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because of false brethren who came in privily to spy out our liberty and bring us into bondage, Paul did not yield to their demands to circumcise Titus. These false brethren, Christians in name only, sought to enslave the followers of Christ, pervert the truth of the gospel, and impose the yoke of the ceremonial law on the Gentile converts. Paul refers to them as 'false brethren' and it was important for him to maintain the spiritual liberty that comes from faith in Christ and not be led astray by those who sought to destroy and rob them of that freedom.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.439932869400537,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.47,
+            "commentatorTierSimilarities": [
+                28.18,
+                40.06,
+                31.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Because of false brethren, who came in privily to spy out our liberty and bring us into bondage, Paul did not yield to their demands to circumcise Titus. These false brethren, Christians in name only, sought to enslave the followers of Christ and pervert the truth of the gospel. Paul was concerned about maintaining the spiritual liberty that comes from faith in Christ and not being led astray by those who wanted to destroy and rob them of that freedom. Their intention was to impose the yoke of the ceremonial law on the Gentile converts and undermine the truth of justification by faith.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.286035283614022,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.35,
+            "commentatorTierSimilarities": [
+                27.37,
+                40.63,
+                32.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Because of false brethren, who came in privily to spy out our liberty and bring us into bondage, Paul did not yield to their demands to circumcise Titus. These false brethren, Christians in name only, sought to enslave the followers of Christ and pervert the truth of the gospel. Their aim was to impose the yoke of the ceremonial law on the Gentile converts and undermine the freedom and justification by faith that comes from Christ. However, Paul remained steadfast in preserving their spiritual liberty and not being swayed by those who sought to rob them of their freedom in Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2225910801579825,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.24,
+            "commentatorTierSimilarities": [
+                27.67,
+                40.31,
+                32.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Because of false brethren who came in privily to spy out our liberty and bring us into bondage, Paul did not yield to their demands to circumcise Titus. These false brethren, Christians in name only, sought to enslave the followers of Christ, pervert the truth of the gospel, and impose the yoke of the ceremonial law on the Gentile converts. Paul referred to them as 'false brethren' and it was essential for him to maintain the spiritual liberty that arises from faith in Christ and not be led astray by those who desired to destroy and rob them of that freedom.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.4463402807160906,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.68,
+            "commentatorTierSimilarities": [
+                27.69,
+                40.46,
+                31.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

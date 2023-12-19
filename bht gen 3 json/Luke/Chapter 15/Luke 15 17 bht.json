@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 16:20:33",
+    "verseRef": "Luke 15:17",
+    "bestBHT": {
+        "bht": "Previously, the individual was beside himself, estranged from the peace and plenty of their father's house due to their self-centeredness. Now, in a moment of clarity, they see their rebellion against God as a form of madness. They realize the emptiness of their present condition and yearn for the warmth and reality of home. This awakening of repentance is like the return of a sound consciousness, recognizing the numerous afflictions that have marred their soul. Afflictions can be a profitable invitation to acknowledge God's mercy and inspire repentance.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.6897941278138853,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+        "commentatorTierSimilarities": [
+            35.32,
+            33.41,
+            31.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Before this, he was beside himself.\" ",
+            "The most dreadful torment of the lost, in fact that which constitutes their state of torment, will be this coming to themselves, when too late for repentance.\" ",
+            "He now recalls the peace and plenty of his Father's house."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Before, he had been 'beside himself'... in what sense will presently appear.\" ",
+            "His heart being wholly estranged from home and steeped in selfish gratification, his father's house never came within the range of his vision, or but as another name for bondage and gloom.",
+            "Now empty, desolate, withered, perishing, home, with all its peace, plenty, freedom, dignity, starts into view, fills all his visions as a warm and living reality, and breaks his heart."
+        ],
+        "Albert Barnes": [
+            "He came to himself - This is a very expressive phrase. It is commonly applied to one who has been 'deranged,' and when he recovers we say he has 'come to himself.'",
+            "So it is of every sinner. Madness is in their hearts...they are estranged from God, and led, by the influence of evil passions, contrary to their better judgment and the decisions of a sound mind.",
+            "I perish - I, who had property and a kind father, and who might have been provided for and happy."
+        ],
+        "Marvin Vincent": [
+            "A striking expression, putting the state of rebellion against God as a kind of madness.",
+            "It is a wonderful stroke of art, to represent the beginning of repentance as the return of a sound consciousness.",
+            "The soul is in a similar condition, disfigured by ten thousand ills."
+        ],
+        "John Calvin": [
+            "Instructed by this example, let us not imagine that God deals cruelly with us, if at any time he visits us with heavy afflictions; for in this manner those who were obstinate and intoxicated with mirth are taught by him to be obedient.",
+            "(Word count: 33)",
+            "All the miseries which we endure are a profitable invitation to repentance.",
+            "(Word count: 13)",
+            "The beginning of our repentance must be an acknowledgment of the mercy of God to excite in us favorable hopes.",
+            "(Word count: 19)"
+        ],
+        "Philip Schaff": [
+            "A life of sin is in a certain sense irrational.",
+            "He regards matters in their true light. The facts of the case are considered.",
+            "The contrast is made at every point. God\u2019s Providential care is alluded to in this part of the parable."
+        ],
+        "Archibald T. Robertson": [
+            "As if he had been far from himself as he was from home. As a matter of fact he had been away, out of his head, and now began to see things as they really were.\" ",
+            "The use of 'many' here suggests a wealthy and luxurious home.\" ",
+            "'Are surrounded by loaves' like a flood."
+        ],
+        "John Gill": [
+            "An unregenerate man, whether while a voluptuous man, or a self-righteous man, is not himself; he is beside himself; and is no other than a madman.",
+            "When the Spirit of God comes to work upon a sinner's heart in conversion, he brings him to himself.",
+            "The meanest of the saints...have bread enough, and to spare; as the doctrines, promises, and ordinances of the Gospel, the fulness of grace that is in Christ, and Christ himself the bread of life; which are more than enough for them, and sufficient for the whole family in heaven, and in earth."
+        ],
+        "John Wesley": [
+            "And coming to himself \u2014 For till then he was beside himself, as all men are, so long as they are without God in the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Before, the person in this verse was beside himself, lost in selfishness and blinded to the peace and plenty of his father's house. But now, in a moment of clarity, he sees his state of rebellion against God as a kind of madness. He realizes the emptiness of his current life and longs for the warmth and reality of home. This awakening of repentance is like the return of a sound consciousness, a recognition of the many ills that have disfigured the soul. Just as one who has been deranged comes to himself, so this person begins to see things as they truly are. The phrase I perish reflects the irrationality of a life of sin and the missed opportunities for provision and happiness. Ultimately, this parable teaches us that afflictions can be a wake-up call from God, inviting us to repentance and a recognition of His mercy.",
+            "wordCount": 150,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7833107577647844,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.64,
+            "commentatorTierSimilarities": [
+                32.72,
+                35.34,
+                31.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Before this, the person was 'beside himself,' consumed by selfishness and blinded to the peace and prosperity of his father's house. Now, in a moment of awakening, he sees his rebellion against God as a form of madness. He recognizes the emptiness of his current situation and longs for the warmth and reality of home. This repentance is like the return of a sound consciousness, a realization of the soul's disfigurement and the need for change. The phrase 'I perish' reflects the irrationality of a life of sin and a missed opportunity for provision and happiness. These afflictions can be a call to repentance, inviting us to acknowledge God's mercy.",
+            "wordCount": 113,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.7469919352288024,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.43,
+            "commentatorTierSimilarities": [
+                34.63,
+                34.11,
+                31.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Previously, the individual was beside himself, consumed by selfishness and oblivious to the abundance and tranquility of their father's home. Now, their repentance begins with the restoration of a sound consciousness, perceiving their rebellion against God as a form of madness. The recognition of the emptiness of their current state and yearning for the warmth of home reflect the awakening. The phrase I perish reveals the irrationality of a sinful life and the missed opportunity for fulfillment. Afflictions serve as God's invitation to repentance, demonstrating His mercy.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.6795222414187885,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.19,
+            "commentatorTierSimilarities": [
+                32.32,
+                33.98,
+                33.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Previously, the individual was beside himself, estranged from the peace and plenty of their father's house due to their self-centeredness. Now, in a moment of clarity, they see their rebellion against God as a form of madness. They realize the emptiness of their present condition and yearn for the warmth and reality of home. This awakening of repentance is like the return of a sound consciousness, recognizing the numerous afflictions that have marred their soul. Afflictions can be a profitable invitation to acknowledge God's mercy and inspire repentance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6897941278138853,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+            "commentatorTierSimilarities": [
+                35.32,
+                33.41,
+                31.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their former state, the person was beside themselves, detached from the peace and abundance of their father's house. Now, in a moment of awakening, they perceive their rebellion against God as a type of madness. They grasp the hollowness of their current existence and yearn for the warmth and vividness of home. This transformative repentance resembles the return of a clear consciousness, acknowledging the multitude of struggles that have afflicted their soul. Adversities can serve as a valuable invitation to repentance, prompting an appreciation for God's mercy.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.646408794885803,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.09,
+            "commentatorTierSimilarities": [
+                35.62,
+                33.07,
+                31.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

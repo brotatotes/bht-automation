@@ -1,0 +1,76 @@
+{
+    "timestamp": "12-19-2023 15:10:15",
+    "verseRef": "1 Corinthians 11:8",
+    "bestBHT": {
+        "bht": "The woman is the glory of the man, for she was taken out of man. She is made by God through the man, serving as a medium between her and God. Thus, in acknowledgement of this subordination to man in the order of creation, the woman should wear a head-covering in public worship. On the other hand, the man, being made directly by God, has no veil between himself and God. Ultimately, the woman's origin from man signifies her inferiority and subjection to him, as she was created for the sake of the man.",
+        "wordCount": 96,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 2.4763398793576843,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.68,
+        "commentatorTierSimilarities": [
+            39.23,
+            33.2,
+            27.57
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The woman is the glory of the man.",
+            "The man is not out of the woman, but the woman out of the man.",
+            "She shall be called woman, because she was taken out of man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The woman was made by God mediately through the man, who was, as it were, a veil or medium placed between her and God.",
+            "Therefore, [the woman] should wear the veil or head-covering in public worship, in acknowledgement of this subordination to man in the order of creation.",
+            "The man being made immediately by God as His glory, has no veil between himself and God."
+        ],
+        "Albert Barnes": [
+            "For the man is not of the woman - The man was not formed from the woman.",
+            "But the woman of the man - From his side; Genesis 2:18, Genesis 2:22-23."
+        ],
+        "John Calvin": [
+            "For the man is not from the woman.\" ",
+            "The woman derives her origin from the man, she is therefore inferior in rank.\" ",
+            "The woman was created for the sake of the man, she is therefore subject to him."
+        ],
+        "John Gill": [
+            "For the man is not of the woman... but the woman of the man.",
+            "She was made out of his rib, and took both her name and nature from him.",
+            "Her original under God, is owing to him; and therefore as he was first in being, he must be superior to her."
+        ],
+        "John Wesley": [
+            "The man is not \u2014 In the first production of nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "The woman is the glory of the man, for she was taken out of man. She is made by God through the man, serving as a medium between her and God. Thus, in acknowledgement of this subordination to man in the order of creation, the woman should wear a head-covering in public worship. On the other hand, the man, being made directly by God, has no veil between himself and God. Ultimately, the woman's origin from man signifies her inferiority and subjection to him, as she was created for the sake of the man.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.4763398793576843,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.68,
+            "commentatorTierSimilarities": [
+                39.23,
+                33.2,
+                27.57
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

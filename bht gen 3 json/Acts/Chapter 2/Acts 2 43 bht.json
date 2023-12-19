@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:25:29",
+    "verseRef": "Acts 2:43",
+    "bestBHT": {
+        "bht": "Fear, awe, and reverential astonishment filled the hearts of all who witnessed the outpouring of the Spirit, both those who were part of the infant Church and those who had yet to join. The signs and wonders performed by the apostles continued to evoke this fear, creating a reciprocal relationship between the miracles and the reverential awe. This deep sense of awe extended to the entire community, preventing persecution and allowing the Church to grow. The fear was not one of terror, but of high regard and reverence.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.1265252503693852,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+        "commentatorTierSimilarities": [
+            34.08,
+            32.39,
+            33.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Every soul, designating generally the multitude,\u2014those who were not joined to the infant Church.",
+            "They were filled with fear, dread, reverential astonishment, at the effect produced by the outpouring of the Spirit.",
+            "On the anticipatory character of the latter part of the verse, see general remarks at the beginning of this section."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "43. fear came upon every soul\u2014A",
+            "\tdeep awe rested upon the whole community."
+        ],
+        "Albert Barnes": [
+            "The effect of a great work of God\u2019s grace is commonly to produce an unusual seriousness and solemnity in a community, even among those who are not converted.",
+            "All things were suited to produce this fear: the recent crucifixion of Jesus of Nazareth; the wonders that attended that event; the events of the day of Pentecost; and the miracles performed by the apostles.",
+            "Many wonders and signs - This was promised by the Saviour."
+        ],
+        "Marvin Vincent": [
+            "Fear [\u03c6\u03bf\u03b2\u03bf\u03c2] . Not terror, but reverential awe : as Mark 4:41; Luke 7:16; 1 Peter 1:17, etc."
+        ],
+        "John Calvin": [
+            "He signifieth unto us that the show and sight of the Church was such, that it made others afraid which did not consent unto [its] doctrine.",
+            "It was no such fear as bringeth men unto the obedience of Christ, but such as causeth men to stand in a doubt, and so, consequently, doth, as it were, so bind them hand and foot, that they dare not hinder the Lord\u2019s work.",
+            "Luke teacheth that the Jews were by this means kept back, that the Church, which might easily have been destroyed, might have got up her head."
+        ],
+        "Philip Schaff": [
+            "And fear came upon every soul. The general impression on the public mind. A feeling of awe was excited even among those who did not join the company of believers.",
+            "And many wonders and signs were done by the apostles.",
+            "The healing of the lame man by Peter and John, related in the 3d chapter, is an instance of one of these."
+        ],
+        "Archibald T. Robertson": [
+            "Awe kept on coming on all and signs and wonders kept on coming through the apostles.",
+            "The two things went on \u03c0\u03b1\u03c1 \u03c0\u03b1\u03c3\u03c3\u03c5, the more wonders the more fear.",
+            "The more wonders, the more fear."
+        ],
+        "John Gill": [
+            "And fear came upon every soul...",
+            "...when it now, by reason of his crucifixion but a few weeks ago, lay under the greatest reproach and scandal...",
+            "...such as casting out devils, healing the sick, causing the lame to walk..."
+        ],
+        "John Wesley": [
+            "And fear came upon every soul \u2014 Of those who did not join with them: whereby persecution was prevented, till it was needful for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Deep awe and reverential astonishment were felt by all who witnessed the outpouring of the Spirit. This fear, not one of terror but of reverential awe, continued to be felt as signs and wonders were performed by the apostles. The more wonders that accompanied the preaching of the gospel, the greater the reverential awe became. This sense of fear extended to the entire community, even those who had not yet joined the Church, effectively preventing persecution and allowing the Church to flourish.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.1152613770499675,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.67,
+            "commentatorTierSimilarities": [
+                34.03,
+                34.11,
+                31.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The outpouring of the Spirit left a deep sense of awe and reverential astonishment, not only among the believers but also among those who had not yet joined the Church. This fear, characterized by reverential awe, intensified as signs and wonders continued to accompany the preaching of the gospel. The more wonders that occurred, the more the fear grew. This fear served as a deterrent to persecution, allowing the Church to thrive and gain momentum in spreading the message of Jesus Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.0061977400950273,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.05,
+            "commentatorTierSimilarities": [
+                35.94,
+                31.17,
+                32.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Awe and reverential astonishment gripped the souls of all who witnessed the powerful outpouring of the Spirit. This fear was not one of terror, but of profound reverence. Signs and wonders performed by the apostles only deepened this awe. The more miracles that accompanied their preaching, the greater the sense of reverential fear became. Even those who had not yet joined the Church were impacted by this fear, thereby preventing persecution and allowing the Church to flourish.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.082062856460859,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+            "commentatorTierSimilarities": [
+                32.68,
+                34.06,
+                33.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Fear, awe, and reverential astonishment filled the hearts of all who witnessed the outpouring of the Spirit, both those who were part of the infant Church and those who had yet to join. The signs and wonders performed by the apostles continued to evoke this fear, creating a reciprocal relationship between the miracles and the reverential awe. This deep sense of awe extended to the entire community, preventing persecution and allowing the Church to grow. The fear was not one of terror, but of high regard and reverence.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.1265252503693852,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+            "commentatorTierSimilarities": [
+                34.08,
+                32.39,
+                33.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Fear and reverential astonishment permeated the hearts of all who witnessed the outpouring of the Spirit. This awe was not one of terror, but of deep reverence. As the apostles performed signs and wonders, the fear only grew stronger. The reciprocal relationship between miracles and awe intensified. This profound sense of fear extended beyond the believers, preventing persecution and allowing the Church to flourish. The community as a whole was impacted by this reverence, resulting in the exponential growth of the Church.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9656212237931756,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                35.32,
+                33.3,
+                31.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

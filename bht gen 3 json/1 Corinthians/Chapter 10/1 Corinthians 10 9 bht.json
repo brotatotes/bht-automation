@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:10:13",
+    "verseRef": "1 Corinthians 10:9",
+    "bestBHT": {
+        "bht": "The Corinthians were warned not to tempt Christ as the Israelites had done, daring Him by testing His patience through rebellion, sin, and complaint. Just as the Israelites complained and tempted Christ, their leader and protector, the Corinthians were also in danger of provoking God through their sins and close proximity to idolatry. They were urged to cease their sore tempting of the Lord, lest they suffer the same fate as those who perished by serpents in the wilderness.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.484731252947433,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.96,
+        "commentatorTierSimilarities": [
+            30.73,
+            37.63,
+            31.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word rendered tempt means, tempt beyond endurance, 'tempt thoroughly.'",
+            "The tempting of the Lord was,\u2014as on the other occasions alluded to Num. xiv. 22, where it is said that they tempted God ten times,\u2014the daring Him, in trying His patience by rebellious conduct and sin.",
+            "And he warns the Corinthians, that they should not in like manner provoke God by their sins and their partaking with idols."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Israel's discontented complainings were temptings of Christ especially, the 'Angel' of the covenant.",
+            "Though they drank of 'that Rock . . . Christ,' they yet complained for want of water.",
+            "The Corinthians were in danger of provoking God's long-suffering by walking on the verge of idolatry, through overweening confidence in their knowledge."
+        ],
+        "Albert Barnes": [
+            "The Israelites tempted him, or 'tried his patience and forbearance,' by rebellion, complaining, impatience, and dissatisfaction with his dealings.",
+            "To go beyond this, to place themselves in needless danger, to presume on the grace of Christ to keep them in all circumstances, would be to tempt him, and provoke him to leave them.",
+            "The main idea is that of temptation, whether it is of Christ or of God; and the purpose of the apostle is to caution them against the danger of tempting Christ, from the fact that the Israelites were guilty of the sin of tempting their leader and protector."
+        ],
+        "Marvin Vincent": [
+            "Let us tempt Christ [\u03b5\u03ba\u03c0\u03b5\u03b9\u03c1\u03b1\u03b6\u03c9\u03bc\u03b5\u03bd \u03c4\u03bf\u03bd \u03c7\u03c1\u03b9\u03c3\u03c4\u03bf\u03bd]. The compound word is very significant, 'to tempt out' [\u03b5\u03ba]; tempt thoroughly; try to the utmost.",
+            "It occurs in three other places: Matthew 4:7; Luke 4:12; Luke 10:25; and, in every case, is used of tempting or testing Christ.",
+            "For Christ read Kurion the Lord."
+        ],
+        "John Calvin": [
+            "What reason was there at that time why the people should rise up against God, except this \u2014 that, under the influence of base desire, (551) they could not wait in patience the arrival of the time appointed by the Lord?",
+            "Let us, therefore, take notice, that the fountain of that evil against which Paul here warns us is impatience, when we wish to go before God, and do not give ourselves up to be ruled by Him, but rather wish to bind him to our inclination and laws.",
+            "Let us then regard it as a settled point, that that angel was the Son of God, and was even then the guide of the Church of which he was the Head."
+        ],
+        "Philip Schaff": [
+            "Neither let us tempt the Lord.\" ",
+            "As some of them tempted, and perished by the serpents.\" ",
+            "Because, if the copyist remembered our Lord's quotation in the Temptation-scene 'Thou shalt not tempt the Lord thy God.'"
+        ],
+        "Archibald T. Robertson": [
+            "Neither let us tempt the Lord... Let us cease sorely (\u03b5\u03ba-) tempting the Lord by such conduct.",
+            "And perished by the serpents... were perishing day by day.",
+            "The use of \u03c5\u03c0\u03bf for agent with the intransitive middle of \u03b1\u03c0\u03bf\u03bb\u03bb\u03c5\u03bc is regular."
+        ],
+        "John Gill": [
+            "As all such persons do, who, presuming on the power and grace of Christ to keep them, or upon what they have received from him, unnecessarily expose themselves to snares and temptations, and so to danger.",
+            "otherwise there would be no force in the apostle's reasoning; for Christ was the angel that went before the Israelites in the wilderness, the angel of God's presence, that bore, and carried, and saved them; he is the Jehovah they tempted at Massah and Meribah, and elsewhere, and God they spake against at this place referred to.",
+            "This might lead to the consideration, of the original cause of man's sin and fall, and the ruin of human nature, by the means of a serpent; and may be an emblem of the future destruction of the wicked, which will be everlasting fire, prepared for the devil, the old serpent, and his angels."
+        ],
+        "John Wesley": [
+            "Neither let us tempt Christ \u2014 By our unbelief.",
+            "This sin of the people was peculiarly against Christ; for when they had so long drank of that rock, yet they murmured for want of water."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians were warned not to tempt Christ as the Israelites had done, daring Him by testing His patience through rebellious conduct and sin. Just as the Israelites complained and tempted Christ, the Angel of the covenant, by grumbling for water despite having drunk from the rock that symbolized Him, the Corinthians were also in danger of provoking God through their sins and nearness to idolatry. Therefore, they were urged to cease their sore tempting of the Lord, lest they suffer the same fate as those who perished by serpents in the wilderness. The main idea is the temptation of Christ or God, cautioning against the danger of tempting Christ based on the past actions of the Israelites.",
+            "wordCount": 118,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 2.4818490994203817,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.86,
+            "commentatorTierSimilarities": [
+                30.5,
+                36.73,
+                32.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians were warned not to tempt Christ as the Israelites had done, daring Him by testing His patience through rebellious conduct and sin. Just as the Israelites complained and tempted Christ, the Angel of the covenant, by grumbling for water despite having drunk from the rock that symbolized Him, the Corinthians were also in danger of provoking God through their sins and nearness to idolatry. Therefore, they were urged to cease their sore tempting of the Lord to avoid the same fate as those who perished by serpents in the wilderness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.4686087508096444,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.42,
+            "commentatorTierSimilarities": [
+                30.85,
+                35.58,
+                33.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians were warned not to tempt Christ as the Israelites had done, daring Him by testing His patience through rebellion, sin, and complaint. Just as the Israelites complained and tempted Christ, their leader and protector, the Corinthians were also in danger of provoking God through their sins and close proximity to idolatry. They were urged to cease their sore tempting of the Lord, lest they suffer the same fate as those who perished by serpents in the wilderness.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.484731252947433,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.96,
+            "commentatorTierSimilarities": [
+                30.73,
+                37.63,
+                31.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians were warned not to tempt Christ as the Israelites had done, tempting Him beyond endurance through rebellious conduct, complaint, and sin. By grumbling for water despite having drunk from the symbolically significant rock of Christ, the Corinthians were risking provoking God's patience and walking on the edge of idolatry. They were cautioned to cease their thoroughly tempting of the Lord, lest they suffer the same destiny as those who perished by serpents in the wilderness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.4297157603305735,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.13,
+            "commentatorTierSimilarities": [
+                31.96,
+                35.37,
+                32.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians were warned against tempting Christ, just as the Israelites had done by daring Him through rebellious conduct, impatience, and sin. They risked provoking God's patience by walking on the verge of idolatry, displaying an overconfident reliance on their knowledge. Therefore, they were urged to cease their exasperating temptation of the Lord to avoid suffering the same fate as those who perished by serpents in the wilderness. The main idea was cautioning them against the danger of tempting Christ, drawing from the actions of the Israelites as an example.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.3062418088053382,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.02,
+            "commentatorTierSimilarities": [
+                31.56,
+                37.8,
+                30.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

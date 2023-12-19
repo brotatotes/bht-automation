@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:03:33",
+    "verseRef": "1 Corinthians 4:20",
+    "bestBHT": {
+        "bht": "The kingdom of God is not about empty words, but about the manifest power of the Spirit. It is a kingdom being prepared on earth, received by believers, and will be consummated when Christ returns. Teachers and preachers should not rely on empty boasting or elegant speeches, but on the internal power of the Holy Spirit. It is not enough to rest in outward gracefulness, but to depend on the power of God ruling the heart. The true essence of the kingdom is found in the power of God, not in mere words.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 2.103380210163177,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.28,
+        "commentatorTierSimilarities": [
+            36.06,
+            25.13,
+            38.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the kingdom of God...is not in word, but in power\u2014is a kingdom of power.",
+            "the kingdom of God...being now prepared on earth and received by those who believe on Christ",
+            "the kingdom of God...to be consummated when He returns with His saints"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not empty 'speeches,' but the manifest 'power' of the Spirit attests the presence of 'the kingdom of God.'\" ",
+            "The reign of the Gospel spiritually.",
+            "The kingdom of God...in a church or in an individual."
+        ],
+        "Albert Barnes": [
+            "It has not been set up by empty boasting; by pompous pretensions; by confident assertions.",
+            "Such empty boasts would do little in the great work of founding, governing, and preserving the church.",
+            "Unless teachers showed that they had such power, they were not qualified for their office."
+        ],
+        "John Calvin": [
+            "Let us know, then, a mere outward gracefulness and dexterity in teaching is like a body that is elegant and of a beautiful color, while the power of which Paul here speaks is like the soul.",
+            "For he would have us not rest in outward masks, but depend solely on the internal power of the Holy Spirit.",
+            "On the contrary, how many there are, who, while endeavoring to procure favor and applause from the gospel, as though it were some profane science, aim at nothing else than to speak with elegance and refinement!"
+        ],
+        "Philip Schaff": [
+            "For the kingdom of God is not in word (empty plausibilities), but in power...\" ",
+            "...in the case of preachers, seen in self-emptying consecration to the one end in view."
+        ],
+        "John Gill": [
+            "By 'the kingdom of God' is not meant the kingdom of heaven, or the ultimate glory and happiness of the saints; though that is a kingdom prepared by God...",
+            "But I rather think the Gospel is here meant, often in Scripture called the kingdom of God, and the doctrines of it, the mysteries of the kingdom...",
+            "Now the Gospel is not in 'word'; though it lies in the word of God, the Scriptures of truth: and treats of the essential word of God, the Lord Jesus Christ; and cannot be preached without words, even the words of men; yet is not to be preached with wisdom of words..."
+        ],
+        "John Wesley": [
+            "For the kingdom of God \u2014 Real religion, does not consist in words, but in the power of God ruling the heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The kingdom of God is not simply about empty words, but about the power of the Spirit attesting to its presence. It is a kingdom that is being prepared on earth and is received by those who believe in Christ. It is a kingdom that will be consummated when Christ returns with His saints. This kingdom is not based on empty boasting or pompous pretensions, but on the power of God. Therefore, in teaching the Gospel and establishing the church, it is not enough to rely on outward gracefulness and dexterity, but one must depend solely on the internal power of the Holy Spirit. The true essence of the kingdom of God lies in the power of God ruling the heart, rather than in empty plausibilities or eloquent speeches.",
+            "wordCount": 129,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.1945866189863734,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.31,
+            "commentatorTierSimilarities": [
+                38.4,
+                25.23,
+                36.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The kingdom of God is not a kingdom of empty speeches, but a kingdom of power that is being prepared on earth. It is received by those who believe in Christ and will be consummated when He returns with His saints. Teachers and preachers should not rely on empty boasting or pompous pretensions, but must demonstrate the power of the Spirit in their words and actions. It is not enough to rest in outward masks, but to depend solely on the internal power of the Holy Spirit. The true essence of the kingdom of God lies in the power of God ruling the heart.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.9537834583244238,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.3,
+            "commentatorTierSimilarities": [
+                37.28,
+                24.17,
+                38.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The kingdom of God is not about empty words, but about the manifest power of the Spirit. It is a kingdom being prepared on earth, received by believers, and will be consummated when Christ returns. Teachers and preachers should not rely on empty boasting or elegant speeches, but on the internal power of the Holy Spirit. It is not enough to rest in outward gracefulness, but to depend on the power of God ruling the heart. The true essence of the kingdom is found in the power of God, not in mere words.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.103380210163177,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.28,
+            "commentatorTierSimilarities": [
+                36.06,
+                25.13,
+                38.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The kingdom of God is not just empty speeches, but a kingdom of power. It is being prepared on earth, received by those who believe in Christ, and will be fully realized when He returns with His saints. To establish and govern the church, teachers must demonstrate this power and not rely on pompous pretensions or empty boasting. They should depend solely on the internal power of the Holy Spirit, rather than outward gracefulness. True religion lies in the power of God ruling the heart, not in eloquent words.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.8867028743761178,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.07,
+            "commentatorTierSimilarities": [
+                34.01,
+                27.49,
+                38.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The kingdom of God is not found in empty speeches, but in the demonstrable power of the Spirit. It is a kingdom being prepared on earth, received by believers in Christ, and will be fully realized upon His return with His saints. Teachers and preachers must not rely on empty boasting or elegant words, but instead show the power of the Holy Spirit. True religion does not rest in outward gracefulness, but depends solely on the internal power of the Spirit. The kingdom of God is about the power of God ruling the heart, not mere words.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.076572901071356,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                35.87,
+                24.66,
+                39.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

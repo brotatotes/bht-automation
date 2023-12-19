@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:30:44",
+    "verseRef": "2 Timothy 2:4",
+    "bestBHT": {
+        "bht": "No soldier while serving in warfare entangles himself in the affairs of this life. The businesses of life should not hinder the work of the ministry; occupying the individual or being incompatible with it would make the occupation unlawful. Only when necessary, ministers of Christ may engage in secular occupations, but it is paramount for them not to be over-engrossed or entangled with worldly affairs. Similarly, soldiers should not be encumbered with the ordinary occupations of life but strive to please their captain and be devoted to Christ.",
+        "wordCount": 89,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 2.2501623122251573,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+        "commentatorTierSimilarities": [
+            30.71,
+            36.12,
+            33.18
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No soldier when on service is (suffers himself to be: \u2018is,\u2019 as his normal state) entangled in the businesses of life.\" ",
+            "The taking of these precepts according to the letter, to signify that no minister of Christ may have a secular occupation, is quite beside the purpose.",
+            "Only then does it become unlawful, when such occupation, from its engrossing the man, becomes a hindrance to the work of the ministry,\u2014or from its nature is incompatible with it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No one while serving as a soldier.",
+            "The businesses of life.",
+            "The becoming entangled, or over-engrossed therewith."
+        ],
+        "Albert Barnes": [
+            "Neither the minister nor the soldier is to be encumbered with the affairs of this life, and the one should not be more than the other.",
+            "It is equally improper for them to 'entangle' themselves with the business of a farm or plantation; with plans of speculation and gain, and with any purpose of worldly aggrandizement.",
+            "The grand purpose of the minister of the gospel is to please Christ. He is to pursue no separate plans, and to have no separate will, of his own."
+        ],
+        "Marvin Vincent": [
+            "That warreth. Better, when engaged in warfare.",
+            "Entangleth himself... This has been made an argument for clerical celibacy.",
+            "In the affairs of this life... simply the ordinary occupations of life."
+        ],
+        "John Calvin": [
+            "The condition of military discipline is such, that as soon as a soldier has enrolled himself under a general, he leaves his house and all his affairs, and thinks of nothing but war; and in like manner, in order that we may be wholly devoted to Christ, we must be free from all the entanglements of this world.",
+            "In short, let us remember the old proverb, Hoc age , which means, that in the worship of God, we ought to give such earnestness of attention that nothing else should occupy our thoughts and feelings.",
+            "Here Paul speaks to the pastors of the Church in the person of Timothy. The statement is general, but is specially adapted to the ministers of the word. First, let them see what things are inconsistent within their office, that, freed from those things, they may follow Christ."
+        ],
+        "Philip Schaff": [
+            "No man that warreth. Better, \u2018no soldier on service.\u2019",
+            "The Greek word had acquired the secondary sense of affairs of trade, the businesses of this life.",
+            "The analogy thus stated should have developed in ecclesiastical legislation into a rule forbidding the ministers of the Church from engaging in any secular pursuits as a means of livelihood."
+        ],
+        "Archibald T. Robertson": [
+            "No one serving as a soldier.",
+            "To inweave...in the affairs.",
+            "Course of life as...not existence."
+        ],
+        "John Gill": [
+            "No man that warreth,.... Who is a soldier, and gives himself up to military service, in a literal sense.",
+            "Christ's people, his soldiers, and especially his ministers, should not be involved and implicated in worldly affairs and cares.",
+            "To please the Lord Christ should be the principal thing attended to by a Christian soldier, or minister of the Gospel."
+        ],
+        "John Wesley": [
+            "No man that warreth entangleth himself \u2014 Any more than is unavoidable.\" ",
+            "In the affairs of this life \u2014 With worldly business or cares.\" ",
+            "That \u2014 Minding war only, he may please his captain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "No soldier, when engaged in warfare, becomes entangled in the ordinary occupations of life. This does not mean that a minister of Christ cannot have a secular occupation. It is only when such occupation becomes a hindrance to the work of the ministry or is incompatible with it that it becomes unlawful. The grand purpose of the minister of the gospel is to please Christ, pursuing no separate plans or will of his own. Similarly, soldiers should not be encumbered with worldly affairs, but should focus solely on pleasing their captain. In order to be wholly devoted to Christ, we must be free from the entanglements of this world, giving our earnest attention to the worship of God.",
+            "wordCount": 118,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 1.9664688858605635,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                27.15,
+                37.38,
+                35.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No soldier when engaged in warfare is entangled in the businesses of life. While this does not prohibit ministers from having secular occupations, it becomes unlawful when such occupation hinders their ministry or is incompatible with it. The grand purpose of the minister is to please Christ, pursuing no separate plans or will of their own. Soldiers and ministers alike should not be encumbered with worldly affairs, but rather focus on pleasing their captain and being wholly devoted to Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.0662545652764193,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                25.72,
+                40.22,
+                34.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "No soldier while serving in warfare entangles himself in the affairs of this life. The businesses of life should not hinder the work of the ministry; occupying the individual or being incompatible with it would make the occupation unlawful. Only when necessary, ministers of Christ may engage in secular occupations, but it is paramount for them not to be over-engrossed or entangled with worldly affairs. Similarly, soldiers should not be encumbered with the ordinary occupations of life but strive to please their captain and be devoted to Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.2501623122251573,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                30.71,
+                36.12,
+                33.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When serving as soldiers engaged in warfare, individuals should not become entangled in the businesses of life. While ministers of Christ may have secular occupations, it becomes unlawful if these occupations hinder their work or are incompatible with it. The grand purpose of ministers is to please Christ and not pursue separate plans or will. Likewise, soldiers should focus on pleasing their captain and avoiding involvement in worldly affairs. Being wholly devoted to Christ requires freedom from the entanglements of this world.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.980920418672035,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.21,
+            "commentatorTierSimilarities": [
+                26.3,
+                38.87,
+                34.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "No soldier engaged in warfare entangles himself in the ordinary occupations or affairs of life. While ministers of Christ may have secular occupations, it becomes unlawful when these occupations hinder the work of the ministry or are incompatible with it. The purpose of ministers is to please Christ, not pursue separate plans or will. Soldiers, like ministers, should avoid being involved in worldly affairs and instead focus on pleasing their captain and being wholly devoted to Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.1157986996544302,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.69,
+            "commentatorTierSimilarities": [
+                25.25,
+                39.66,
+                35.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:34:55",
+    "verseRef": "Acts 22:7",
+    "bestBHT": {
+        "bht": "I fell (\u03b5\u03c0\u03b5\u03c3\u03b1) to the ground as a voice saying (\u03c6\u03c9\u03bd\u03b7\u03c2 \u03bb\u03b5\u03b3\u03bf\u03c5\u03c3\u03b7\u03c2) my name twice, 'Saul, Saul.' These piercing words stuck in my mind, just like they had when I first heard them. It was in that moment that I knew my life would never be the same. The voice asked me why I was persecuting Him, and with those words, I was confronted with the reality of my actions and their effect on the very One I thought I was serving.",
+        "wordCount": 82,
+        "quoteTokenProportion": 55.93,
+        "qualityScore": 1.127744180838117,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.84,
+        "commentatorTierSimilarities": [
+            29.13,
+            27.56,
+            43.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Saul, Saul.\" ",
+            "The voice from heaven had so imprinted itself on the memory of Paul that he reproduces the call to him as he first heard it.",
+            "The language 'Hebrew' is specially noticed."
+        ],
+        "Archibald T. Robertson": [
+            "I fell (\u03b5\u03c0\u03b5\u03c3\u03b1). Second aorist active indicative with -\u03b1 rather than \u03b5\u03c0\u03b5\u03c3\u03bf\u03bd, the usual form of \u03c0\u03b9\u03c0\u03c4\u03c9.",
+            "A voice saying (\u03c6\u03c9\u03bd\u03b7\u03c2 \u03bb\u03b5\u03b3\u03bf\u03c5\u03c3\u03b7\u03c2). Genitive after \u03b7\u03ba\u03bf\u03c5\u03c3\u03b1, though in Acts 26:14 the accusative is used after \u03b7\u03ba\u03bf\u03c5\u03c3\u03b1, as in Acts 22:14 after \u03b1\u03ba\u03bf\u03c5\u03c3\u03b1, either being allowable.",
+            "These piercing words stuck in Paul's mind."
+        ],
+        "John Gill": [
+            "And I fell unto the ground,.... And so did those that were with him, Acts 26:14.",
+            "And heard a voice, saying unto me, Saul, Saul, why persecutest thou me? Acts 26:14- :."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I fell to the ground as a voice pierced through the air, saying my name twice, 'Saul, Saul.' This voice echoed in my mind, imprinted in my memory just as I first heard it. It was a moment that transformed my life. And then the voice continued, asking why I was persecuting Him. Those words struck deep, questioning my actions and their impact on the very One I thought I was serving.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.0342348959394037,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.73,
+            "commentatorTierSimilarities": [
+                21.62,
+                28.06,
+                50.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I fell (\u03b5\u03c0\u03b5\u03c3\u03b1) to the ground as a voice saying (\u03c6\u03c9\u03bd\u03b7\u03c2 \u03bb\u03b5\u03b3\u03bf\u03c5\u03c3\u03b7\u03c2) my name twice, 'Saul, Saul.' These piercing words stuck in my mind, just like they had when I first heard them. It was in that moment that I knew my life would never be the same. The voice asked me why I was persecuting Him, and with those words, I was confronted with the reality of my actions and their effect on the very One I thought I was serving.",
+            "wordCount": 82,
+            "quoteTokenProportion": 55.93,
+            "qualityScore": 1.127744180838117,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.84,
+            "commentatorTierSimilarities": [
+                29.13,
+                27.56,
+                43.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I fell to the ground at the sound of a voice saying my name, 'Saul, Saul.' Those piercing words etched themselves in my mind, reminding me of the moment that transformed my life. The voice questioned why I was persecuting Him, causing me to reflect on my actions and their impact on the very One I believed I was serving. It was a powerful encounter, one that shook me to the core and prompted me to reconsider my path.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.0444687798271837,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.07,
+            "commentatorTierSimilarities": [
+                24.9,
+                25.38,
+                49.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I fell to the ground as a voice saying my name echoed in the air, 'Saul, Saul.' These piercing words stuck in my mind, just like they did when I first heard them. That encounter, with the voice questioning why I was persecuting Him, left a lasting impact on me. It was a powerful moment, one that shook me to my core and made me reevaluate my actions and their effect on the very One I thought I was serving.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0606359560094358,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.61,
+            "commentatorTierSimilarities": [
+                27.71,
+                23.82,
+                48.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Paul was on his way to Damascus, he suddenly fell to the ground when a voice from heaven spoke to him, saying, Saul, Saul, why persecutest thou me? These piercing words stuck in Paul's mind, as the intensity of the moment was preserved when he later recalled the event. This voice spoke in Hebrew, and the experience was so profound that even those accompanying Paul fell to the ground as well.",
+            "wordCount": 73,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.5508958064657405,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.91,
+            "commentatorTierSimilarities": [
+                30.4,
+                33.5,
+                36.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

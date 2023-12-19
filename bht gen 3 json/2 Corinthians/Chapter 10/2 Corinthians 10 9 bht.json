@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:17:55",
+    "verseRef": "2 Corinthians 10:9",
+    "bestBHT": {
+        "bht": "I say this, because I wish not to seem terrifying you with empty threats in my letters. I might boast more of my authority, but I forbear to do so, that I may not seem as if I would terrify you by my letters. Some seem to think that though I can write terrifying letters, I will be as mild as when I was formerly with you; but they shall find it otherwise, if necessity for action shall arise. (62 words)",
+        "wordCount": 80,
+        "quoteTokenProportion": 67.92,
+        "qualityScore": 2.261706937219441,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.54,
+        "commentatorTierSimilarities": [
+            28.03,
+            39.09,
+            32.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I say this, because I wish not to seem... by my letters.",
+            "He had written two before this... but this is not necessarily here implied.",
+            "Still less can we infer hence that a third had been written before this."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I say this lest I should seem to be terrifying you, as children, with empty threats.\" ",
+            "I might boast more of my authority, but I forbear to do so, that I may not seem as if.\" ",
+            "But this ellipsis is harsh."
+        ],
+        "Albert Barnes": [
+            "I say that I might boast more of my power in order that I may not appear disposed to terrify you with my letters merely.\" ",
+            "I do not threaten more than I can perform.",
+            "And if I should boast that I had done this, and could do it again, I should have no reason to be ashamed."
+        ],
+        "Marvin Vincent": [
+            "That I may not seem. The construction is abrupt. Probably something is to be supplied, as I say this in order that I may not seem, etc."
+        ],
+        "John Calvin": [
+            "No objection is advanced against him, that should either destroy or weaken his credit, and that of his doctrine, for deeds were not to be less valued than words.",
+            "He was not less powerful in actions when present, than he was by words when absent.",
+            "The contempt, however, proceeded from this \u2014 that he was deficient in that ornament and splendor of eloquence, which secures favor."
+        ],
+        "Philip Schaff": [
+            "That I may not seem as if I would terrify you by my letters...\" ",
+            "Some seem to think that though I can write terrifying letters, I will be as mild as when I was formerly with you; but they shall find it otherwise, if necessity for action shall arise.\" ",
+            "What follows shows this to be the meaning."
+        ],
+        "Archibald T. Robertson": [
+            "As if I would terrify you by my letters.",
+            "The active of this old compound verb means to frighten, to terrify.",
+            "Note plural (letters) here and cf. 1 Corinthians 5:9; 2 Corinthians 2:3."
+        ],
+        "John Gill": [
+            "Though I might lawfully boast of the superior authority which we apostles have above other persons, in using sharpness with men insolent and hardened in sin; yet I will not...\" (100 words)",
+            "I forbear every thing of that kind, I drop it, I do not choose to insist upon it...\" (26 words)",
+            "And this he thought most prudent and advisable, lest he should give any occasion to the above calumny that he was bold, and blustering, and terrifying by his letters when absent, and only threatened that he had no power to perform...\" (47 words)"
+        ],
+        "John Wesley": [
+            "I say this, that I may not seem to terrify you by letters - Threatening more than I can perform."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I say this, because I wish not to seem terrifying you with empty threats in my letters. I might boast more of my authority, but I forbear to do so, that I may not seem as if I would terrify you by my letters. Some seem to think that though I can write terrifying letters, I will be as mild as when I was formerly with you; but they shall find it otherwise, if necessity for action shall arise. No objection is advanced against him, that should either destroy or weaken his credit, and that of his doctrine, for deeds were not to be less valued than words. He was not less powerful in actions when present than he was by words when absent. (87 words)",
+            "wordCount": 125,
+            "quoteTokenProportion": 62.82,
+            "qualityScore": 2.0284266007893654,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                25.99,
+                33.97,
+                40.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I say this, because I wish not to seem terrifying you with empty threats in my letters. I might boast more of my authority, but I forbear to do so, that I may not seem as if I would terrify you by my letters. Some seem to think that though I can write terrifying letters, I will be as mild as when I was formerly with you; but they shall find it otherwise, if necessity for action shall arise. He was not less powerful in actions when present than he was by words when absent. (76 words)",
+            "wordCount": 96,
+            "quoteTokenProportion": 65.0,
+            "qualityScore": 2.094237921161443,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.97,
+            "commentatorTierSimilarities": [
+                26.95,
+                36.37,
+                36.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I say this, because I wish not to seem terrifying you with empty threats in my letters. I might boast more of my authority, but I forbear to do so, that I may not seem as if I would terrify you by my letters. Some seem to think that though I can write terrifying letters, I will be as mild as when I was formerly with you; but they shall find it otherwise, if necessity for action shall arise. (62 words)",
+            "wordCount": 80,
+            "quoteTokenProportion": 67.92,
+            "qualityScore": 2.261706937219441,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.54,
+            "commentatorTierSimilarities": [
+                28.03,
+                39.09,
+                32.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I say this, in order that I may not seem to terrify you by my letters, as if I would frighten and threaten you with empty threats. I could boast of my authority, but I choose not to, so as not to appear as someone who only talks a big game but lacks action. I want to assure you that my power and influence are not limited to my words alone. Some may try to diminish my credibility, claiming that I am less effective in person than I am through my letters. But that is not the case. I am just as powerful in actions as I am in words. I avoid emphasizing my authority in order to avoid giving any occasion for the false accusation that I am bold and intimidating when absent, but unable to follow through.",
+            "wordCount": 139,
+            "quoteTokenProportion": 48.75,
+            "qualityScore": 1.8140400217043795,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.66,
+            "commentatorTierSimilarities": [
+                24.88,
+                38.05,
+                37.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I say this, in order that I may not seem to terrify you by my letters, as if I would frighten and threaten you with empty threats. I choose not to boast of my authority, so as not to appear as someone who only talks a big game but lacks action. Some may try to diminish my credibility, claiming that I am less effective in person than I am through my letters. But that is not the case. I am just as powerful in actions as I am in words.",
+            "wordCount": 90,
+            "quoteTokenProportion": 56.9,
+            "qualityScore": 1.7753350655933913,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                25.38,
+                38.04,
+                36.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

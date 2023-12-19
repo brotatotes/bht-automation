@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:27:56",
+    "verseRef": "1 Timothy 2:7",
+    "bestBHT": {
+        "bht": "The author declares his ordination as a preacher and apostle, emphasizing his appointment and role as a living pattern of the Gospel. His ministry is exercised in the sphere of faith and truth, specifically as a teacher of the Gentiles. By stating I speak the truth, I lie not, he solemnly appeals to Christ and establishes his credibility. This appointment is a fulfillment of God's plan to bring the Gentiles into the gospel, a calling that he carries out with pure affection and an upright conscience.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9738115609384126,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+        "commentatorTierSimilarities": [
+            24.48,
+            31.36,
+            44.15
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I am ordained\u2014literally, 'I was set': the same Greek, as 'putting me.'",
+            "He recurs to himself [...] in himself a living pattern or announcement of the Gospel.",
+            "The sphere in which his ministry was appointed to be exercised was the faith and the truth."
+        ],
+        "Albert Barnes": [
+            "I am placed or constituted...to this work, or appointed to it.",
+            "I speak the truth in Christ, and lie not - That is, by Christ; or I solemnly appeal to Christ - a form of an oath.",
+            "A teacher of the Gentiles - Specially appointed to carry the gospel to the Gentiles or the pagan."
+        ],
+        "Marvin Vincent": [
+            "I am ordained [\u03b5\u03c4\u03b5\u03b8\u03b7\u03bd \u03b5\u03b3\u03c9]. Better, Iwas appointed.\" ",
+            "A preacher [\u03ba\u03b7\u03c1\u03c5\u03be]. Lit. a herald.",
+            "In faith and verity [\u03b5\u03bd \u03c0\u03b9\u03c3\u03c4\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1]. Or faith and truth."
+        ],
+        "John Calvin": [
+            "God had appointed him for this purpose, that he might bring the Gentiles... to have a share in the gospel.\" ",
+            "His apostleship was a sure foundation of the divine calling.\" ",
+            "He preaches the gospel to the Gentiles, not only with pure affection, but also with an upright and fearless conscience; because he does nothing but by the command of God."
+        ],
+        "Philip Schaff": [
+            "It might have been thought that in writing to one like Timothy, loving and beloved, there would have been little need for this vindication of his authority...",
+            "Here the strong asseveration ('I speak truth, I lie not,' as in Romans 9:1) and the emphatic pronoun are perhaps intended to emphasize the marvel that such an one as he had been had been called to that high office.",
+            "Looking, however, to the objective sense of 'truth' in 1 Timothy 2:4, it would seem better to take the word in its higher sense here as defining the region in which he was a teacher, that region being the faith in man, answering to the truth revealed in Christ."
+        ],
+        "Archibald T. Robertson": [
+            "I was appointed.\" ",
+            "Preacher and apostle.",
+            "I speak the truth, I lie not."
+        ],
+        "John Gill": [
+            "He was ordained or appointed to be a preacher of the Gospel from all eternity, and was separated or set apart unto it in time, and was put into the ministry of it by Christ himself.\" ",
+            "I speak the truth in Christ, and lie not; which are a sort of an oath, or an appeal to Christ the omniscient God, for the truth of what he said, concerning his ordination to the Gospel.",
+            "A teacher of the Gentiles in faith and verity; the Gospel of the uncircumcision, or which was to be preached to the uncircumcised Gentiles, was committed to this apostle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, the author declares, I am ordained, emphasizing his appointment as a preacher and apostle. By stating I speak the truth, I lie not, he establishes his credibility, perhaps due to the marvel that such an individual has been called to such a high office. His ministry was to be exercised in the faith and truth, teaching the Gentiles in faith and verity. This appointment is seen as part of God's eternal plan, as he brings the Gentiles to share in the gospel through the work of this appointed apostle.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9417313555572815,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                25.59,
+                32.94,
+                41.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The author affirms being appointed as a preacher, speaking the truth and not lying. This appointment was for the purpose of teaching the Gentiles in faith and verity, carrying the gospel to them. It is seen as a marvel that someone like him has been called to such a high office. This appointment is part of God's divine plan to bring the Gentiles into the gospel.",
+            "wordCount": 67,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.760382382180381,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "commentatorTierSimilarities": [
+                22.61,
+                31.72,
+                45.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The author declares his ordination as a preacher and apostle, emphasizing his appointment and role as a living pattern of the Gospel. His ministry is exercised in the sphere of faith and truth, specifically as a teacher of the Gentiles. By stating I speak the truth, I lie not, he solemnly appeals to Christ and establishes his credibility. This appointment is a fulfillment of God's plan to bring the Gentiles into the gospel, a calling that he carries out with pure affection and an upright conscience.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9738115609384126,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                24.48,
+                31.36,
+                44.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The author acknowledges being ordained as a preacher, emphasizing his appointment as a living pattern of the Gospel. His ministry is exercised in faith and truth, specifically as a teacher of the Gentiles. By stating I speak the truth, I lie not, he solemnly appeals to Christ for credibility. This appointment fulfills God's plan to bring the Gentiles into the gospel, which he carries out with pure affection and an upright conscience by the command of God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.9449621488850617,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                24.19,
+                31.38,
+                44.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The author asserts his appointment as a preacher, emphasizing his role as a living pattern of the Gospel. He teaches the Gentiles in faith and truth, speaking the truth in Christ and appealing to Him for credibility. This appointment fulfills God's plan to bring the Gentiles into the gospel, and he carries out this divine calling with pure affection and an upright conscience under the command of God.",
+            "wordCount": 69,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.8699667420875221,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+            "commentatorTierSimilarities": [
+                21.65,
+                28.85,
+                49.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

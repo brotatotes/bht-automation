@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:11:55",
+    "verseRef": "1 Corinthians 11:11",
+    "bestBHT": {
+        "bht": "In the Christian life, neither sex is insulated and independent of the other. Each sex needs the other in the sexual relation and together they realize the ideal of redeemed humanity in the Lord. The mutual dependence and partnership between man and woman is recognized, strengthened, and ennobled by Christianity, reflecting the original plan of humanity. In Christ, there is neither male nor female, as all are equal and regenerated, justified, and pardoned together.",
+        "wordCount": 74,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 2.135575297353986,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.35,
+        "commentatorTierSimilarities": [
+            31.24,
+            32.84,
+            35.92
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Yet is neither sex insulated and independent of the other in the Christian life.",
+            "In the Lord, i.e., in the Christian state; a well-known phrase.",
+            "See e.g. Rom. xvi. 2, 8, 11, 12 (twice), &c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Yet neither sex is insulated and independent of the other in the Christian life.\" (Commentary)",
+            "The one needs the other in the sexual relation.\" (Commentary)",
+            "In respect to Christ (\"in the Lord\"), the man and the woman together realize the ideal of redeemed humanity represented by the bride, the Church.\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "The design of this verse and the following is to show, that the man and woman are united in the most tender interests; that the one cannot live comfortably without the other; that one is necessary to the happiness of the other.",
+            "They are not in any respect independent of each other. One is necessary to the comfort of the other; and this fact should be recognized in all their contact.",
+            "It is the appointment and command of the Lord that they should be mutual helps, and should each regard and promote the welfare of the other."
+        ],
+        "John Calvin": [
+            "The male sex has a distinction over the female sex, with this understanding, that they ought to be connected together by mutual benevolence, for the one cannot do without the other.\" ",
+            "The pious, on the other hand, acknowledge that the male sex is but the half of the human race. They ponder the meaning of that statement \u2014 God created man: male and female created he them.\" ",
+            "Let, therefore, the man perform to the woman the office of the head in respect of ruling her, and let the woman perform to the man the office of the body in respect of assisting him, and that not merely in the married state, but also in celibacy."
+        ],
+        "Philip Schaff": [
+            "Each sex is dependent on the other, and made to be so.",
+            "Christianity, so far from changing the original plan of Humanity, recognises, strengthens, and ennobles it in all its features.",
+            "The apostle would intimate that Christianity, so far from changing the original plan of Humanity, recognises, strengthens, and ennobles it in all its features."
+        ],
+        "Archibald T. Robertson": [
+            "Each sex is incomplete without the other.",
+            "In the sphere of the Lord, where Paul finds the solution of all problems."
+        ],
+        "John Gill": [
+            "Nevertheless, neither is the man without the woman... to comfort the woman, that she might not be dejected with the condition and circumstances in which she was, since the one is not without the other.\" ",
+            "The phrase 'in the Lord' is added, to show that it is the will of God... that the one should not be without the other.",
+            "For in Christ no distinction of sex is regarded, men and women are all one in him, and equally regenerated, justified, and pardoned, and will be glorified together."
+        ],
+        "John Wesley": [
+            "Nevertheless in the Lord Jesus, there is neither male nor female - Neither is excluded; neither is preferred before the other in his kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the Christian life, neither sex is independent or insulated from the other. Each sex needs and complements the other, especially in the sexual relation. Together, in the sphere of the Lord, man and woman fulfill the ideal of redeemed humanity, represented by the bride, the Church. Their union reflects the original plan of humanity, recognized, strengthened, and ennobled by Christianity. This mutual dependence and partnership between man and woman is essential in all aspects of life, as God designed it to be. In Christ, there is neither male nor female, for all are one and equal in Him.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.948643152910944,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                31.8,
+                33.29,
+                34.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the Christian life, neither sex is independent or insulated from the other. Each sex needs and complements the other, especially in the sexual relation. Together, in the sphere of the Lord, man and woman fulfill the ideal of redeemed humanity, represented by the bride, the Church. Their union reflects the original plan of humanity, recognized, strengthened, and ennobled by Christianity. In Christ, there is neither male nor female, for all are one and equal in Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9812872605444125,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                33.12,
+                32.17,
+                34.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Christian life, neither sex is insulated and independent of the other. Each sex needs the other in the sexual relation and together they realize the ideal of redeemed humanity in the Lord. The mutual dependence and partnership between man and woman is recognized, strengthened, and ennobled by Christianity, reflecting the original plan of humanity. In Christ, there is neither male nor female, as all are equal and regenerated, justified, and pardoned together.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.135575297353986,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.35,
+            "commentatorTierSimilarities": [
+                31.24,
+                32.84,
+                35.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the Christian life, neither sex is independent from the other. They are insulated and independent and neither sex is insulated and independent of the other. The sexual relation brings them together, as the one needs the other. In the Lord, man and woman realize the ideal of redeemed humanity. This mutual dependence and partnership between them reflect the original plan of humanity. In Christ, there is no distinction of sex, as neither is the man without the woman and all are equal in His kingdom.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.9944868461189518,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.66,
+            "commentatorTierSimilarities": [
+                33.58,
+                31.68,
+                34.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the Christian life, neither sex is insulated and independent of the other. The one needs the other in the sexual relation. In the sphere of the Lord, man and woman together realize the ideal of redeemed humanity. Each sex is incomplete without the other. In Christ, there is neither male nor female, for all are one in Him. The mutual dependence and partnership between man and woman reflect the original plan of humanity recognized and ennobled by Christianity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.053654016316816,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                35.03,
+                30.62,
+                34.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:16:10",
+    "verseRef": "2 Corinthians 4:4",
+    "bestBHT": {
+        "bht": "The god of this world, Satan, blinds the understandings of unbelievers, preventing them from seeing the glorious image of Christ, who is the shining forth of God's glory. Those perishing unbelievers are not merely veiled, but blinded. However, those who desire to see the glory of God can do so in the face of Jesus Christ. Satan, referred to as the god of this age, has the power to blind the minds of those who do not believe, hindering the shining forth of the glorious Gospel of Christ.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.542405743750245,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.87,
+        "commentatorTierSimilarities": [
+            37.12,
+            32.89,
+            29.99
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in whose case (it is true that) the god of this world (the Devil, the ruling principle in the men of this world) [hath] blinded... the understandings of the unbelieving\" ",
+            "Christ is the image of God, 'the shining forth of His glory,'... but which glorious image is not visible to those who are blinded by Satan",
+            "the object of the god of this world was not merely to prevent them from being illuminated, but to stop the shining forth altogether"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The worldly make him their God.",
+            "Those perishing unbelievers are not merely veiled, but blinded.",
+            "He who desires to see 'the glory of God,' may see it 'in the face of Jesus Christ.'"
+        ],
+        "Albert Barnes": [
+            "He has subdued the world to himself, and was really adored in the place of the true God.",
+            "The world pursues his plans; yields to his temptations; neglects, or rejects the reign of God as he pleases.",
+            "Satan hates that image; he hates that people should become like God; and he hates all that has a resemblance to the great and glorious Yahweh."
+        ],
+        "Marvin Vincent": [
+            "Compare Ephesians 2:2; Ephesians 6:12; John 12:31; John 14:30. Satan is called God in the rabbinical writings.",
+            "Christ's light is also God's. Compare Hebrews 1:3, Rev., effulgence (ajpaugasma, compare aujgasai shine, in this passage). Theodoret says: 'The effulgence is both from the fire and with the fire, and has the fire as its cause, yet is not divided from the fire; for whence comes the fire, thence also comes the effulgence.'",
+            "Rev., dawn is legitimate as a translation, but hardly here, since Paul is going back to the figure of ch. 3 18."
+        ],
+        "John Calvin": [
+            "For nothing appears in it but Christ, and that not obscurely, but so as to shine forth clearly.",
+            "Christ is the image of God, by which he intimates that they were utterly devoid of the knowledge of God.",
+            "It is a thing that we do not yet believe, that a world inhabited by reasonable creatures, God's own offspring, is universally fallen into a confederacy and combination with another god, with an enemy-god, an adversary-god, against the living and true God!"
+        ],
+        "Philip Schaff": [
+            "in whom the God of this world so called from the mysterious power over men, permitted him since the fall... hath blinded the minds of them which believe not.\" ",
+            "lest the light of the glorious gospel of Christ, who is the image of God... is as 'glorified,' now in our own nature, 'with the glory which He had with the Father before the world was,' and so held forth in the preaching of the Gospel that He is here spoken of.",
+            "as having a brightness before which the god of this world cannot stand, knowing that if one ray of it do but enter any soul, his hold over it is gone; and therefore he dreads and strives (in many, too successfully) to hide it from view."
+        ],
+        "Archibald T. Robertson": [
+            "Satan is 'the god of this age,' a phrase nowhere else in the N.T.\" ",
+            "They refused to believe and so Satan got the power to blind their thoughts. That happens with willful disbelievers.\" ",
+            "That is, if \u03b1\u03c5\u03b3\u03b1\u03c3\u03b1 is intransitive as is likely, though it is transitive in the old poets... If it is transitive, the idea would be 'that they should not see clearly the illumination, etc.'"
+        ],
+        "John Gill": [
+            "The more excellent and knowing part of man; not the eyes of their bodies, but of their understandings; which shows the near access Satan has to the souls of men; he penetrates into their very hearts and minds, and has an influence there.\" ",
+            "The persons whose minds he blinds, are those 'who believe not'; which distinguishes them from others that perish, who never enjoyed the Gospel, and therefore he says, 'in', or 'among whom'; and from true believers, on whom Satan can have no such influence; and is a reason of these men's perishing, and of Satan's influence over them; and must be understood of reprobates, and final unbelievers.\" ",
+            "All these excellent characters of the Gospel serve to enhance the spite and malice of Satan, in endeavouring all he can to hinder the bright shining of this glorious Gospel, to and upon any of the sons of men; and his reason for so doing is, because he knows, that should the Gospel shine unto them, the interest and glory of Christ would be advanced, and his own would decline."
+        ],
+        "John Wesley": [
+            "The God of this world \u2014 What a sublime and horrible description of Satan!",
+            "He is indeed the god of all that believe not, and works in them with inconceivable energy.",
+            "The Son exactly exhibits the Father to us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The god of this world, Satan, has blinded the understanding of unbelievers, preventing them from seeing the glorious image of Christ, who is the shining forth of God's glory. Satan's objective is not only to prevent illumination but to completely stop the shining forth of God's glory. The unbelieving make Satan their god, and those who refuse to believe give him the power to blind their thoughts. However, those who desire to see the glory of God can do so in the face of Jesus Christ. Satan, referred to as the god of this age, has been given the mysterious power to blind the minds of those who do not believe. His ultimate goal is to hide the brightness of Christ's light, knowing that if it enters any soul, his hold over it is gone. Thus, Satan strives to conceal the image of God and prevent people from becoming like Him.",
+            "wordCount": 155,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 2.5275385753550514,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.38,
+            "commentatorTierSimilarities": [
+                33.78,
+                36.28,
+                29.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The god of this world, Satan, has blinded the understanding of unbelievers, preventing them from seeing the glorious image of Christ, who is the shining forth of God's glory. Those perishing unbelievers are not merely veiled, but blinded. However, those who desire to see the glory of God can do so in the face of Jesus Christ. Satan, referred to as the god of this age, has been given the mysterious power to blind the minds of those who do not believe. His ultimate goal is to hide the brightness of Christ's light.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.4192385366900764,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.78,
+            "commentatorTierSimilarities": [
+                36.36,
+                33.78,
+                29.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The god of this world, Satan, blinds the understandings of unbelievers and prevents them from seeing the image of Christ, who is the shining forth of God's glory. Satan's objective is not only to prevent illumination but to stop the shining forth altogether. Those perishing unbelievers are not merely veiled, but blinded. However, those who desire to see the glory of God can do so in the face of Jesus Christ. Satan, called the god of this age, has the power to blind the minds of those who do not believe, hindering the bright shining of the glorious Gospel.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.478184613934979,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.74,
+            "commentatorTierSimilarities": [
+                36.85,
+                32.83,
+                30.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The god of this world, Satan, blinds the understandings of unbelievers, preventing them from seeing the glorious image of Christ, who is the shining forth of God's glory. Those perishing unbelievers are not merely veiled, but blinded. However, those who desire to see the glory of God can do so in the face of Jesus Christ. Satan, referred to as the god of this age, has the power to blind the minds of those who do not believe, hindering the shining forth of the glorious Gospel of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.542405743750245,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.87,
+            "commentatorTierSimilarities": [
+                37.12,
+                32.89,
+                29.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The god of this world, Satan, has blinded the understandings of unbelievers, preventing them from seeing the glorious image of Christ, who is the shining forth of God's glory. The object of Satan is not merely to prevent illumination, but to stop the shining forth altogether. Those perishing unbelievers are not merely veiled, but blinded, as Satan strives to hide the brightness of Christ's light from their view. However, those who desire to see the glory of God can do so in the face of Jesus Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.5204842649004746,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.15,
+            "commentatorTierSimilarities": [
+                36.74,
+                33.35,
+                29.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

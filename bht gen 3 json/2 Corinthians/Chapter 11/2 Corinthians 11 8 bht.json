@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:18:11",
+    "verseRef": "2 Corinthians 11:8",
+    "bestBHT": {
+        "bht": "While ministering to the Corinthians, Paul admits to receiving financial support from other churches, like the Macedonian and Philippians, instead of the Corinthians. He characterizes this as robbing these churches, not because it was done unlawfully, but to highlight the contrast between their generosity and the Corinthians' lack of contribution. Through accepting more than their fair share from other churches, Paul aimed to spare the Corinthians and demonstrate his selfless dedication to his ministry. This enabled him to fully serve the Corinthians without being burdened by financial concerns, prompting him to challenge them to reciprocate this generosity towards other churches.",
+        "wordCount": 100,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 1.9237779467184613,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+        "commentatorTierSimilarities": [
+            39.54,
+            35.06,
+            25.4
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The 'other churches' were the Macedonian, see ver. 9.",
+            "Among them the Philippians were probably conspicuous, retaining, as doubtless they did, their former affection to him; see Phil. iv. 15, 16.",
+            "I robbed is hyperbolic, to bring out the contrast, and shame them. in order to (to support me in) my ministration to you, gen. obj."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I robbed\u2014that is, took from them in order to spare you more than what was their fair share of contribution to my maintenance.",
+            "wages\u2014\"subsidy.",
+            "to do you service\u2014Greek, 'with a view to ministration to you'; compare 'supplied' (Greek, 'in addition'), Philippians 4:16-, implying, he brought with him from the Macedonians, supplies towards his maintenance at Corinth."
+        ],
+        "Albert Barnes": [
+            "By the use of the word 'robbed' here Paul does not mean that he had obtained anything from them in a violent or unlawful manner, or anything which they did not give voluntarily.",
+            "The word (\u03b5\u0313\u03c3\u03c5\u0301\u03bb\u03b7\u03c3\u03b1 esule\u0304sa) means properly, 'I spoiled, plundered, robbed,' but the idea of Paul here is, that he, as it were, robbed them, because he did not render an equivalent for what they gave him.",
+            "That I might labor among you without being supposed to be striving to obtain your property, and that I might not be compelled to labor with my own hands, and thus to prevent my preaching the gospel as I could otherwise do."
+        ],
+        "Marvin Vincent": [
+            "Originally to strip off, as arms from a slain foe, and thence, generally, to rob, plunder, with the accompanying notion of violence.\" ",
+            "Paul thus strongly expresses the fact that he had accepted from other churches more than their share, that he might not draw on the Corinthians.\" ",
+            "Wages."
+        ],
+        "John Calvin": [
+            "I have procured pay for myself from the spoils of others, that I might serve you.",
+            "While I have thus spared you, how unreasonable it is to make me so poor a return!",
+            "What they contributed gratuitously was, in a manner, due by right of spiritual warfare."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 11:8. Nay, I robbed other churches, taking wages of them that I might minister (gratuitously) to you;",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "I robbed (\u03b5\u03c3\u03c5\u03bb\u03b7\u03c3\u03b1). Old verb to despoil, strip arms from a slain foe, only here in N.T.\" ",
+            "He allowed other churches to do more than their share.",
+            "He got his 'rations' from other churches, not from Corinth while there."
+        ],
+        "John Gill": [
+            "I robbed other churches...though there was no injury in the case, for it was voluntary, because it was expended for the service of the latter.",
+            "The apostle continues the metaphor, taken from soldiers, to whom wages are due for their warfare; as are also to the ministers of the Gospel, the good soldiers of Jesus Christ.",
+            "He took it of others in lieu of it [wages]; and this he mentions...to stir them up to be serviceable to other churches, as others had been to them."
+        ],
+        "John Wesley": [
+            "I spoiled other churches \u2014 I, as it were, took the spoils of them: it is a military term.",
+            "And when I was present with you, and wanted \u2014 My work not quite supplying my necessities.",
+            "I was chargeable to no man \u2014 Of Corinth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "While ministering to the Corinthians, Paul reveals that he did not receive financial support from them, but rather from other churches such as the Macedonian and Philippians. Paul describes this act as robbing these churches, not because it was done unlawfully, but to highlight the contrast between their generosity and the Corinthians' lack of contribution. By accepting more than their fair share from other churches, Paul intended to spare the Corinthians and demonstrate a selfless dedication to his ministry. The word robbed signifies the stripping off of arms from a vanquished enemy, emphasizing the abundant support Paul received from others. This decision enabled him to fully serve the Corinthians without being burdened by financial concerns. Thus, he challenges the Corinthians to reciprocate this generosity towards other churches as they had been diligently served.",
+            "wordCount": 133,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.8563829933696514,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.07,
+            "commentatorTierSimilarities": [
+                38.19,
+                35.95,
+                25.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "While ministering to the Corinthians, Paul admits to receiving financial support from other churches, like the Macedonian and Philippians, instead of the Corinthians. He characterizes this as robbing these churches, not because it was done unlawfully, but to highlight the contrast between their generosity and the Corinthians' lack of contribution. Through accepting more than their fair share from other churches, Paul aimed to spare the Corinthians and demonstrate his selfless dedication to his ministry. This enabled him to fully serve the Corinthians without being burdened by financial concerns, prompting him to challenge them to reciprocate this generosity towards other churches.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.9237779467184613,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                39.54,
+                35.06,
+                25.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While ministering to the Corinthians, Paul reveals that he robbed other churches, such as the Macedonian and Philippians, by accepting financial support from them instead of the Corinthians. This decision was not unlawful, but rather a demonstration of the contrast between their generosity and the Corinthians' lack of contribution. By accepting more than their fair share from other churches, Paul spared the Corinthians the burden of supporting him financially. In this way, Paul emphasized his selfless dedication to his ministry, urging the Corinthians to reciprocate this generosity towards other churches.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.8743387878089317,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                39.11,
+                35.69,
+                25.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While serving the Corinthians, Paul candidly states that he received financial support from other churches, such as the Macedonian and Philippians, rather than the Corinthians themselves. Using the phrase I robbed, Paul vividly describes this act as an intentional contrast, emphasizing the Corinthians' failure to contribute. By accepting more than their fair share from other churches, Paul spared the Corinthians the burden of financially supporting him. This decision exemplified his selflessness and dedication to his ministry, prompting the Corinthians to reciprocate this generosity towards other churches.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8417548697649981,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                39.27,
+                36.27,
+                24.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul openly admits that he took financial support from churches other than the Corinthians, such as the Macedonian and Philippians, which he describes as robbing them. However, this was not a wrongful act, but rather a deliberate decision to spare the Corinthians from the responsibility of providing for him. Paul's intention was to diligently serve the Corinthians without being burdened by financial concerns. He encourages the Corinthians to reflect this generosity and support other churches in a similar manner.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.776662353646019,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.42,
+            "commentatorTierSimilarities": [
+                37.91,
+                36.4,
+                25.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

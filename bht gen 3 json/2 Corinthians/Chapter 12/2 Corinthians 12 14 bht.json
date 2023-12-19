@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:18:48",
+    "verseRef": "2 Corinthians 12:14",
+    "bestBHT": {
+        "bht": "As a spiritual father to the Corinthians, Paul expresses his intention to visit them once again without burdening them. His desire is not to gain earthly treasure from them, but rather to lay up spiritual riches for their souls. He seeks their welfare, not their possessions, embodying the motto of a true preacher. Paul's visits are motivated by love and selflessness, as he endeavors to enrich them spiritually and present them as a sacrifice to the Lord.",
+        "wordCount": 78,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.5519447501844192,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.94,
+        "commentatorTierSimilarities": [
+            38.43,
+            31.42,
+            30.15
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I am coming to you a third time,\u2014and I will not burden you this time, any more than I did at my two previous visits.",
+            "St. Paul was the spiritual father of the Corinthian Church...he does not therefore want to be enriched by them, his children, but rather to lay up riches for them, seeking to have them as his treasure, and thus to enrich them, as a loving father does his children.",
+            "What it is that is to be laid up, is left indefinite: if pressed strictly, it cannot be earthly treasure in the negative part of the sentence, heavenly, in the positive."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am coming, and the third time, and will not burden you this time any more than I did at my two previous visits.",
+            "Not yours, but you.",
+            "He does not, therefore, seek earthly treasure from them, but lays up the best treasure (namely, spiritual) 'for their souls'."
+        ],
+        "Albert Barnes": [
+            "I desire not to obtain your property, but to save your souls. This was a noble resolution; and it is the resolution which should be formed by every minister of the gospel.",
+            "While a minister of Christ has a claim to a competent support, his main purpose should not be to obtain such support. It should be the higher and nobler object of winning souls to the Redeemer.",
+            "I make provision for your spiritual needs; I labor and toil for you as a father does for his children. I seek your welfare, as he does, by constant self-denial."
+        ],
+        "John Calvin": [
+            "It is the part of a genuine and upright pastor, not to seek to derive gain from his sheep, but to endeavor to promote their welfare.",
+            "I am not contented with your wealth, but I seek to have you wholly, that I may present a sacrifice to the Lord of the fruits of my ministry.",
+            "Hence, those are not necessarily unworthy of the honor due to fathers, who live at the expense of the Church; but Paul simply wished to show from the common law of nature, that what he had done proceeded from fatherly affection."
+        ],
+        "Philip Schaff": [
+            "Behold, this is the third time I am ready to come to you.\" ",
+            "I will not be a burden to you: for I seek not yours, but you.\" ",
+            "The delicacy and tenderness of this touch are surpassing."
+        ],
+        "Archibald T. Robertson": [
+            "I shall not sponge on you.",
+            "Not yours, but you. The motto of every real preacher.",
+            "To lay up. For this use of the verb see..."
+        ],
+        "John Gill": [
+            "I will not be burdensome to you.",
+            "I seek not yours; but you.",
+            "For the children ought not to lay up for the parents, but the parents for the children."
+        ],
+        "John Wesley": [
+            "The third time \u2014 Having been disappointed twice.",
+            "I seek not yours \u2014 Your goods.",
+            "But you \u2014 Your souls."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the apostle Paul expresses his sincere desire to selflessly serve the Corinthian Church. As their spiritual father, he does not seek to gain earthly treasure from them, but rather to lay up spiritual riches for their souls. He emphasizes that his visits will not be burdensome, as he seeks not their belongings, but them. His ultimate goal is to present them as a sacrifice to the Lord, just as a loving father cares for and labors for the welfare of his children.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.5043246629280629,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                35.53,
+                34.49,
+                29.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As a loving father to the Corinthian Church, Paul aims not to burden them, but rather to lay up spiritual treasures in their souls. He desires not their possessions, but their well-being. Paul's ultimate goal is to present them as a sacrifice to the Lord, just as a father cares for his children. His visits will not be a burden, but rather a selfless act of love and devotion, seeking to enrich them spiritually and provide for their needs.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.5198764444816537,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                34.18,
+                34.55,
+                31.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As a spiritual father to the Corinthians, Paul expresses his intention to visit them once again without burdening them. His desire is not to gain earthly treasure from them, but rather to lay up spiritual riches for their souls. He seeks their welfare, not their possessions, embodying the motto of a true preacher. Paul's visits are motivated by love and selflessness, as he endeavors to enrich them spiritually and present them as a sacrifice to the Lord.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5519447501844192,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.94,
+            "commentatorTierSimilarities": [
+                38.43,
+                31.42,
+                30.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, as the father figure for the Corinthian Church, emphasizes his intention to visit them once more without imposing any financial burdens. Rather than seeking material gain, Paul's motivation is to accumulate spiritual treasures for their souls. He aims to provide for their spiritual needs, not their possessions, acting as a loving father who labors tirelessly for his children's well-being. Paul's visit is driven by selflessness and love, as he seeks to enrich them spiritually and offer them as an offering to the Lord.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.498932776306271,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.18,
+            "commentatorTierSimilarities": [
+                34.71,
+                34.27,
+                31.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, as the spiritual father of the Corinthians, intends to visit them once more without imposing unnecessary burdens. Instead of seeking earthly wealth, Paul desires to store up spiritual riches for their souls. His aim is not to acquire their possessions, but to care for their well-being like a loving father does for his children. His visits will be marked by selflessness and a genuine desire to enrich their spiritual lives, presenting them as a sacred offering to the Lord.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.5326339290746631,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+            "commentatorTierSimilarities": [
+                34.85,
+                34.76,
+                30.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

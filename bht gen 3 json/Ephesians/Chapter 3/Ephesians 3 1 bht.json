@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:29:31",
+    "verseRef": "Ephesians 3:1",
+    "bestBHT": {
+        "bht": "For the sake of the Gentiles, Paul courageously proclaimed the Messiahship of Christ, even in the face of opposition from the Jews. As a prisoner of Jesus Christ, his bonds served a purpose to benefit the Gentiles, demonstrating the power of God working through his afflictions. Paul's imprisonment was not a result of wrongdoing but rather a testament to his unwavering faithfulness in enlightening others. Through his sufferings, Paul's firmness and dedication showcased the honor in being a prisoner for the sake of proclaiming the name of Christ.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 2.188661878150465,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.11,
+        "commentatorTierSimilarities": [
+            32.41,
+            36.75,
+            30.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He here marks the Messiahship of 'Christ,' maintained by him as the origin of his being a 'prisoner,' owing to the jealousy of the Jews being roused at his preaching it to the Gentiles.\" ",
+            "His very bonds were profitable to ('for' or 'in behalf of you') Gentiles.\" ",
+            "'I Paul,' expresses the agent employed by the Spirit to enlighten them, after he had been first enlightened himself by the same Spirit."
+        ],
+        "Albert Barnes": [
+            "For this cause I, Paul, the prisoner of Jesus Christ - A prisoner in the service of the Lord Jesus; or made a prisoner in his cause.",
+            "Not a prisoner for crime or debt, or as a captive in war, but a captive in the service of the Redeemer.",
+            "The cause of his imprisonment and of all his difficulties was, that he maintained that the gospel was to be preached to the Gentiles; that when the Jews rejected it God rejected them; and that he was specially called to carry the message of salvation to the pagan world."
+        ],
+        "Marvin Vincent": [
+            "Of Christ Jesus [\u03c4\u03bf\u03c5 \u03c7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5 \u03b9\u03b7\u03c3\u03bf\u03c5]. Notice the article, the Christ...\" ",
+            "Gentiles. To whom Paul was expressly sent...",
+            "and in preaching to whom he had fallen into the hands of the civil law."
+        ],
+        "John Calvin": [
+            "His unshaken firmness was no small additional proof that he had discharged his office in a proper manner.",
+            "The glory of Christ not only overcomes the ignominy of the chains, but converts what was in itself a reproach into the highest honor.",
+            "So highly ought the name of Christ to be revered by us, that what men consider to be the greatest reproach, ought to be viewed by us as the greatest honour."
+        ],
+        "Philip Schaff": [
+            "He mentions his name, not for personal reasons, but because of his office and the importance of what he is doing.",
+            "He was Christ's prisoner, not the emperor's; it is more than prisoner for Christ's sake.",
+            "His office, and hence his affliction, was for the benefit of the Gentiles. More than this, his very imprisonment was made useful by him in setting agencies in operation for the extension of the gospel among the Gentiles."
+        ],
+        "Archibald T. Robertson": [
+            "For this cause (\u03c4\u03bf\u03c5\u03c4\u03bf\u03c5 \u03c7\u03b1\u03c1\u03b9\u03bd). Use of \u03c7\u03b1\u03c1\u03b9\u03bd (accusative of \u03c7\u03b1\u03c1\u03b9\u03c2) as a preposition with the genitive and referring to the preceding argument about God's elective grace.",
+            "It is possible that Paul started to make the prayer that comes in verses Ephesians 3:14-21 when he repeats \u03c4\u03bf\u03c5\u03c4\u03bf\u03c5 \u03c7\u03b1\u03c1\u03b9\u03bd.",
+            "God's use of him for the Gentiles."
+        ],
+        "John Gill": [
+            "He [Paul] was not a prisoner for any capital crime, as theft, murder, c. and therefore he was not ashamed of his bonds, but rather glories in them.",
+            "From hence we learn, that this epistle was written when the apostle was a prisoner at Rome; and the consideration of this his condition serves much to confirm the truths he had before delivered.",
+            "He [Paul] might truly say, he was a prisoner for the sake of them [the Ephesians]."
+        ],
+        "John Wesley": [
+            "For this cause \u2014 That ye may be so 'built together,' I am a prisoner for you gentiles.\" ",
+            "For your advantage, and for asserting your right to these blessings.\" ",
+            "This it was which so enraged the Jews against him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the sake of the Gentiles, Paul, a prisoner of Jesus Christ, boldly proclaimed the Messiahship of Christ and endured imprisonment for preaching to the Gentiles. His bonds were not a hindrance, but rather a means of God's grace and a testament to his unwavering dedication to his calling. Paul's imprisonment was not a consequence of any criminal or civil wrongdoing, but rather a result of faithfully fulfilling his office as an agent of the Spirit. His imprisonment, far from being a disgrace, was turned into an honor for the glory of Christ. In writing this letter to the Ephesians, Paul, as a prisoner, aimed to strengthen and encourage them by reaffirming the truths he had previously proclaimed. He also emphasized that his imprisonment was not in vain but served the purpose of advancing the gospel among the Gentiles, further rousing the jealousy of the Jews. Ultimately, Paul's imprisonment symbolizes his selfless devotion to the Gentiles and his commitment to bringing them the blessings and grace of God.",
+            "wordCount": 171,
+            "quoteTokenProportion": 31.87,
+            "qualityScore": 2.087332420855942,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.74,
+            "commentatorTierSimilarities": [
+                30.68,
+                38.61,
+                30.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the sake of the Gentiles, Paul, a prisoner of Jesus Christ, boldly proclaimed the Messiahship of Christ and endured imprisonment for preaching to the Gentiles. His bonds were not a hindrance, but rather a means of God's grace and a testament to his unwavering dedication to his calling. Paul's imprisonment was turned into an honor for the glory of Christ. In writing this letter, Paul aimed to strengthen and encourage the Ephesians by reaffirming the truths he had previously proclaimed. His imprisonment served the purpose of advancing the gospel among the Gentiles, further rousing the jealousy of the Jews. Ultimately, Paul's imprisonment symbolizes his selfless devotion to the Gentiles and his commitment to bringing them the blessings and grace of God.",
+            "wordCount": 125,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 2.106377745169522,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+            "commentatorTierSimilarities": [
+                34.25,
+                36.43,
+                29.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, as a prisoner of Jesus Christ, persevered in boldly proclaiming the Messiahship of Christ to the Gentiles despite facing opposition from the Jews. His imprisonment was not a result of any wrongdoing on his part, but rather a consequence of faithfully fulfilling his role as an instrument of the Spirit. Through his chains, Paul demonstrated his unshaken dedication and commitment to spreading the message of salvation. His imprisonment, far from being a disgrace, was transformed into an opportunity to bring the Gentiles closer to God and to glorify the name of Christ.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.086994155180974,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+            "commentatorTierSimilarities": [
+                33.04,
+                37.37,
+                29.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, as a prisoner of Jesus Christ, boldly proclaimed the Messiahship of Christ to the Gentiles despite facing opposition from the Jews. His imprisonment served as a means of God's grace, enabling him to fulfill his role as an agent of the Spirit. Paul's unwavering dedication and the honor attached to his imprisonment further highlighted the importance of Christ's name. Through his sufferings, Paul affirmed the truth of his message and the significance of his mission, ultimately benefiting the Gentiles and advancing the spread of the gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 2.0709781263696923,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.2,
+            "commentatorTierSimilarities": [
+                35.15,
+                38.57,
+                26.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For the sake of the Gentiles, Paul courageously proclaimed the Messiahship of Christ, even in the face of opposition from the Jews. As a prisoner of Jesus Christ, his bonds served a purpose to benefit the Gentiles, demonstrating the power of God working through his afflictions. Paul's imprisonment was not a result of wrongdoing but rather a testament to his unwavering faithfulness in enlightening others. Through his sufferings, Paul's firmness and dedication showcased the honor in being a prisoner for the sake of proclaiming the name of Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.188661878150465,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.11,
+            "commentatorTierSimilarities": [
+                32.41,
+                36.75,
+                30.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

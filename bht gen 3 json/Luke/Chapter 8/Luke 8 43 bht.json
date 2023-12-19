@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:16:50",
+    "verseRef": "Luke 8:43",
+    "bestBHT": {
+        "bht": "There was a woman who had an issue of blood for twelve years. She had spent all her living on physicians but could not be healed by any of them. Her condition had worsened over time. Luke, being a physician himself, omits Mark's statement about her unsuccessful treatment at the hands of many physicians, perhaps to show professional sensitivity. Nevertheless, the woman's desperate search for a cure highlights the severity of her situation being a chronic case that none were able to resolve.",
+        "wordCount": 85,
+        "quoteTokenProportion": 51.52,
+        "qualityScore": 1.6602034640841488,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.54,
+        "commentatorTierSimilarities": [
+            28.85,
+            27.97,
+            43.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "43.] St. Mark adds, that she grew nothing better, but rather worse."
+        ],
+        "Marvin Vincent": [
+            "Luke, with professional sensitiveness, omits Mark's statement that she had suffered many things from many physicians, and was not bettered but made worse.",
+            "Some texts omit who had spent all here living upon physicians.",
+            "Had spent [\u03c0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03bb\u03c9\u03c3\u03b1\u03c3\u03b1]. Only here in New Testament."
+        ],
+        "Philip Schaff": [
+            "Luke 8:43. Who had spent all her living, etc. Luke, himself a physician, thus puts the case."
+        ],
+        "Archibald T. Robertson": [
+            "Probably both [clauses] are not genuine in Luke who takes care of the physicians by the simple statement that it was a chronic case.\" ",
+            "Had spent all her living upon physicians.",
+            "Could not be healed of any."
+        ],
+        "John Gill": [
+            "And a woman having an issue of blood twelve years... Which had spent all her living upon physicians... neither could be healed of any.\" ",
+            "She had applied to one physician and another, and had consumed all her substance in this way.",
+            "Though she had followed the directions and prescriptions of many, who pretended they were able to cure her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There was a woman who had been suffering from an issue of blood for twelve years, and despite her efforts to seek help from various physicians, she grew worse rather than better. She had spent all her living on medical treatments, but none of them were able to heal her. Luke, being a physician himself, mentions the woman's persistent and desperate pursuit of medical assistance, highlighting the severity of her condition.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.9589687940513876,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                25.92,
+                32.6,
+                41.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There was a woman who had an issue of blood for twelve years. She had spent all her living on physicians but could not be healed by any of them. Her condition had worsened over time. Luke, being a physician himself, omits Mark's statement about her unsuccessful treatment at the hands of many physicians, perhaps to show professional sensitivity. Nevertheless, the woman's desperate search for a cure highlights the severity of her situation being a chronic case that none were able to resolve.",
+            "wordCount": 85,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 1.6602034640841488,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.54,
+            "commentatorTierSimilarities": [
+                28.85,
+                27.97,
+                43.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A woman had suffered from an issue of blood for twelve years. Despite her desperate attempts to find healing through many physicians and exhausting all her resources, none were able to help her. In fact, her condition had worsened over time. Luke, being a physician himself, omits details of her unsuccessful treatments, but his narrative still emphasizes her chronic and debilitating state. It is evident that her search for a cure had been long and fruitless, leaving her in dire need of help.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.51011669923364,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.55,
+            "commentatorTierSimilarities": [
+                24.9,
+                27.26,
+                47.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There was a woman who had an issue of blood for twelve years and had spent all her living on physicians without finding healing. Her condition had grown worse despite seeking help from various doctors. Luke, being a physician himself, alludes to her desperate search for a remedy, emphasizing the seriousness of her chronic state. It is evident that none of the medical treatments she had undergone were able to provide any relief.",
+            "wordCount": 73,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.8156618270957239,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "commentatorTierSimilarities": [
+                26.97,
+                30.48,
+                42.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A woman had an issue of blood for twelve years, spending all of her resources on physicians who were unable to heal her. Her condition only worsened over time. Luke, a physician himself, highlights her desperate pursuit of medical help, underscoring the severity of her chronic condition. Despite her best efforts and the involvement of multiple physicians and their treatments, her situation remained unchanged. It becomes evident that her search for a solution was in vain, leading her to a place of desperation and hopelessness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.4959980342705061,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.08,
+            "commentatorTierSimilarities": [
+                26.33,
+                27.98,
+                45.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

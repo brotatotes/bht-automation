@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 13:51:10",
+    "verseRef": "Philippians 1:2",
+    "bestBHT": {
+        "bht": "May the combined blessings of grace and peace be upon you, exemplifying the unity between Jew, Greek, and Roman. The salutation highlights the significance of grace as the prerequisite for true peace and the interconnectedness of God our Father and the Lord Jesus Christ. Grace and peace are spiritualized versions of greetings, with grace representing God's love and peace as the resulting condition. This invocation of grace also includes the Holy Spirit, making it a trinitarian benediction. It combines the Old Testament's invocation of peace with the new covenant's emphasis on grace.",
+        "wordCount": 95,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 2.124755483859507,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.99,
+        "commentatorTierSimilarities": [
+            29.5,
+            36.7,
+            33.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] See on Rom. i. 7."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The very form of this salutation implies the union of Jew, Greek, and Roman.\" ",
+            "Grace must come first if we are to have true peace.",
+            "God our Father\" and \"the Lord Jesus Christ,\" are most closely connected."
+        ],
+        "Albert Barnes": [
+            "Grace be unto you ... - See the note at Romans 1:7."
+        ],
+        "Marvin Vincent": [
+            "Grace - peace. The combination of the Greek and Oriental salutations spiritualized : grace expressing God 's love to man, and peace the condition resulting therefrom."
+        ],
+        "Philip Schaff": [
+            "The grace is first invoked, without which the rest of the benediction cannot be made good, and by the mention of this grace, the Holy Spirit is included in the benediction as well as the Father and the Son, and thus the blessing of the Trinity is the apostle\u2019s invocation.",
+            "In the Old Testament peace was the blessing most constantly invoked, and \u2018grace\u2019 is used mainly in the phrase \u2018to find grace in the sight of God or man, when some blessing is spoken of as bestowed. God\u2019s first revelation had not made known to man the doctrine of the indwelling of the Holy Ghost, and till that was revealed and promised, words like these of St. Paul could have no place.",
+            "The peace of the old covenant blessing is retained, the grace is the greater light of the new covenant."
+        ],
+        "John Gill": [
+            "Grace be unto you,.... This form of salutation is used by the apostle in all his epistles; :-;"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the combined blessings of grace and peace be upon you. This salutation expresses the unity of different backgrounds and emphasizes the necessity of grace in order to obtain true peace. The connection between God our Father and the Lord Jesus Christ is of utmost importance. Grace and peace are spiritualized versions of the Greek and Oriental salutations, with grace representing God's love and peace as the result of that love. This invocation of grace includes the Holy Spirit as well, forming a trinitarian blessing. While peace was commonly invoked in the Old Testament, the revelation of the indwelling of the Holy Ghost brings forth the greater light of grace in the new covenant.",
+            "wordCount": 115,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.9995600510824167,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.83,
+            "commentatorTierSimilarities": [
+                27.84,
+                35.16,
+                37.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May the combined blessings of grace and peace be upon you. This salutation implies unity among people of different backgrounds and emphasizes the importance of grace for true peace. The connection between God our Father and the Lord Jesus Christ is vital. Grace and peace represent the spiritualized versions of Greek and Oriental salutations, with grace signifying God's love and peace as its result. This invocation encompasses the Holy Spirit, forming a trinitarian blessing. While peace was regularly invoked in the Old Testament, the revelation of the indwelling of the Holy Ghost brings forth the greater light of grace in the new covenant.",
+            "wordCount": 104,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9303474577807056,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.53,
+            "commentatorTierSimilarities": [
+                27.71,
+                34.46,
+                37.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the combined blessings of grace and peace be upon you, exemplifying the unity between Jew, Greek, and Roman. The salutation highlights the significance of grace as the prerequisite for true peace and the interconnectedness of God our Father and the Lord Jesus Christ. Grace and peace are spiritualized versions of greetings, with grace representing God's love and peace as the resulting condition. This invocation of grace also includes the Holy Spirit, making it a trinitarian benediction. It combines the Old Testament's invocation of peace with the new covenant's emphasis on grace.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.124755483859507,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.99,
+            "commentatorTierSimilarities": [
+                29.5,
+                36.7,
+                33.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May the blessings of grace and peace be upon you, illustrating the union of Jew, Greek, and Roman. The significance of grace precedes the attainment of genuine peace, and the connection between God our Father and the Lord Jesus Christ is crucial. Grace signifies God's love towards humanity, while peace signifies the resulting condition. These greetings blend the Greek and Oriental salutations, emphasizing the spiritualized aspects of grace and peace. By including the Holy Spirit in this invocation, it becomes a trinitarian benediction, bridging the blessings of the old and new covenant.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.0324311070406016,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.92,
+            "commentatorTierSimilarities": [
+                32.63,
+                33.43,
+                33.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May the united blessings of grace and peace be bestowed upon you, symbolizing the coming together of Jew, Greek, and Roman. It is crucial to acknowledge that grace precedes true peace, and the intimate connection between God our Father and the Lord Jesus Christ is emphasized. The concept of grace represents God's love for humanity, while peace signifies the resulting state. These greetings blend the Greek and Oriental salutations, emphasizing the spiritualized aspects of grace and peace. By invoking grace, the Holy Spirit is also included, forming a trinitarian benediction that harmonizes the blessings of the old and new covenant.",
+            "wordCount": 101,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.059623073378194,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                31.1,
+                34.29,
+                34.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

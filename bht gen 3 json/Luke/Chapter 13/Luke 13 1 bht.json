@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:19:22",
+    "verseRef": "Luke 13:1",
+    "bestBHT": {
+        "bht": "During a feast in Jerusalem, a riot took place in which Pilate killed some Galileans. The narrators link their deaths to the belief that they must have been severe sinners. However, Jesus uses this incident as a cautionary tale, warning the crowd that they too will face a dire judgment unless they repent. Rather than denouncing Pilate as expected, Jesus turns the incident into a parable about personal conduct and the uncertainty of life.",
+        "wordCount": 74,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 1.8530271519228276,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+        "commentatorTierSimilarities": [
+            38.42,
+            35.67,
+            25.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The opening words do not mean, as A.V., that these persons were in the crowd, and remarked to the Lord concerning these Galil\u00e6ans, in consequence of what He had said ch. xii. 57:\u2014such a finding of connexion is too fine-drawn.",
+            "It must have occurred at some feast in Jerusalem, on which occasions riots often took place, and in the outer court of the temple.",
+            "This mingling of their blood with their sacrifices seems to have been thought by the narrators evidence that they were very depraved sinners: for this was their argument, and is unconsciously that of many at this day,\u2014 \u2018the worse the affliction, the more deserved.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These men are not signal examples of divine vengeance, as ye suppose but every impenitent sinner\u2014ye yourselves, except ye repent\u2014shall be like monuments of the judgment of Heaven, and in a more awful sense.",
+            "The reference here to the impending destruction of Jerusalem is far from exhausting our Lord's weighty words; they manifestly point to a 'perdition' of a more awful kind\u2014future, personal, remediless.",
+            "Every impenitent sinner\u2014ye yourselves, except ye repent\u2014shall be like monuments of the judgment of Heaven, and in a more awful sense."
+        ],
+        "Albert Barnes": [
+            "The answer of Jesus is a reproof of their habit of hastily judging the character of others.",
+            "The Galileans, in the time of Christ, were very wicked.",
+            "It is likely that the Galileans excited a tumult in the temple, and that Pilate took occasion to come suddenly upon them, and show his opposition to them and Herod by slaying them."
+        ],
+        "Philip Schaff": [
+            "The Galileans were riotous, and the occasion was undoubtedly some feast at Jerusalem.",
+            "His soldiers probably fell on them and slew them while engaged in the temple-sacrifices.",
+            "Those who told of the massacre thought that death under such circumstances was peculiarly terrible; and from this they inferred that these Galileans had been great sinners."
+        ],
+        "Archibald T. Robertson": [
+            "These Galileans at a feast in Jerusalem may have been involved in some insurrection against the Roman government, the leaders of whom Pilate had slain right in the temple courts where the sacrifices were going on.",
+            "Jesus comments on the incident, but not as the reporters had expected.",
+            "Instead of denunciation of Pilate he turned it into a parable for their own conduct in the uncertainty of life."
+        ],
+        "John Gill": [
+            "These Galileans were very likely some of the followers of Judas Gaulonitis, or Judas of Galilee... who endeavoured to draw off the Jews from the Roman government.",
+            "This history is neither related nor hinted at by any other writer but Luke.",
+            "The Jews have a notion that 'in the age in which the son of David comes, Galilee shall be destroyed.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The incident that Jesus comments on in this verse is not related to the crowd, as some may have assumed, but rather to a riot that occurred during a feast in Jerusalem. The writers of the narration seem to interpret this event as evidence of the Galileans' sinful nature, as they believed that the mixing of the victims' blood with their sacrifices reflected their depravity. However, Jesus uses this incident as an opportunity to warn the people of the impending destruction of Jerusalem and to emphasize the need for repentance, stating that anyone who does not repent will face a more terrible judgment. His response surprises the crowd, who expected him to denounce Pilate but instead turns the incident into a parable about their own conduct and the uncertainty of life.",
+            "wordCount": 131,
+            "quoteTokenProportion": 40.7,
+            "qualityScore": 1.8920677296081747,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+            "commentatorTierSimilarities": [
+                39.55,
+                32.57,
+                27.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During a feast in Jerusalem, a riot broke out in which Pilate killed some Galileans. The narrators interpreted this as evidence of the Galileans' great sinfulness, believing that their blood mixed with sacrifices exposed their depravity. However, Jesus used this incident as a warning, declaring that unless people repented, they too would face a dreadful judgment. He surprised the crowd by refraining from denouncing Pilate and instead turned the incident into a parable about their own behavior and the uncertainty of life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.8511864798793156,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.89,
+            "commentatorTierSimilarities": [
+                39.09,
+                36.03,
+                24.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During a feast in Jerusalem, a riot ensued, resulting in the killing of some Galileans by Pilate. The narrators associated this tragedy with the notion that these Galileans must have been great sinners. However, Jesus seized the opportunity to caution the crowd about their own impending judgment and the need for repentance. He cleverly transformed their expectation of denouncing Pilate into a parable about their conduct and the uncertain nature of life.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.7596800659480825,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.85,
+            "commentatorTierSimilarities": [
+                36.88,
+                38.77,
+                24.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During a feast in Jerusalem, a riot took place in which Pilate killed some Galileans. The narrators link their deaths to the belief that they must have been severe sinners. However, Jesus uses this incident as a cautionary tale, warning the crowd that they too will face a dire judgment unless they repent. Rather than denouncing Pilate as expected, Jesus turns the incident into a parable about personal conduct and the uncertainty of life.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.8530271519228276,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                38.42,
+                35.67,
+                25.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During a feast in Jerusalem, Pilate killed some Galileans in a riot. The interpretation at the time was that their mixed blood and sacrifice signified their great sinfulness. However, Jesus takes this incident as an opportunity to warn the crowd about their own impending judgment and the need for repentance. Surprisingly, he refrains from denouncing Pilate, instead turning the incident into a parable about personal conduct and the uncertainty of life.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.767881115824511,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                37.59,
+                39.41,
+                23.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

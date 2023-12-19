@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:15:53",
+    "verseRef": "2 Corinthians 4:6",
+    "bestBHT": {
+        "bht": "God, the creator of light, has shined the light of the knowledge of His glory in our hearts through Jesus Christ. Just as God commanded light to shine out of darkness in the beginning, He has now brought forth the light of His gospel into the world through His chosen messengers. Christians carry the light of Christ within them, illuminated by the Spirit of God. By looking upon the face of Jesus, they receive the clear and shining knowledge of the glory of God, and in turn, become bearers of this illumination to others.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 2.942343218768905,
+        "qualityScoreNormalizedComparedToV2BHTs": 89.17,
+        "commentatorTierSimilarities": [
+            32.47,
+            33.52,
+            34.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Out of darkness light shall shine...God, Who said...that shined in our hearts, in order to...the shining forth of the knowledge of the glory of God in the face of Christ.\" ",
+            "The figure is still derived from the history in ch. iii, and refers to the brightness on the face of Moses: the only true effulgence of the divine glory is from the face of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is God who commanded light, that shined, &c., Himself our Light and Sun, as well as the Creator of light.\" ",
+            "The physical world answers to the spiritual.",
+            "The only true and full manifestation of God's brightness and glory is 'in the face of Jesus'."
+        ],
+        "Albert Barnes": [
+            "The God who at the creation bade the light to shine out of darkness, is he who has shined into our hearts.",
+            "Christians have clear and consistent views; they look at things as they are; they perceive a beauty in religion and in the service of God which they did not before.",
+            "The same God who enlightens the mind of the Christian that commanded the light at first to shine. He is the source of all light."
+        ],
+        "Marvin Vincent": [
+            "It is God that said light shall shine.",
+            "Knowledge, if not diffused, is not of the nature of light.",
+            "In this seen countenance that clear - shining knowledge has the source of its light, as it were, its focus."
+        ],
+        "John Calvin": [
+            "God has commanded light to shine forth out of darkness: that is, by the ministry of men, who are in their own nature darkness, He has brought forward the light of His gospel into the world.",
+            "God has made the light of the gospel to take the place of the law, which was wrapt up in dark shadows, and thus, He has brought light out of darkness.",
+            "God has, by His Spirit, opened the eyes of our understandings, so as to make them capable of receiving the light of the gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Miners carry a lamp on the forehead, Christians carry one in their hearts lit by the Spirit of God.\" ",
+            "The Christian who looks on the face of Jesus Christ as Moses looked upon the glory of God will be able to give the illumination of the knowledge of the glory of God.",
+            "In the face of Jesus Christ... to give the illumination of the knowledge of the glory of God."
+        ],
+        "John Gill": [
+            "respect is here had to the creation of all things at the beginning, when 'darkness was upon the face of the deep--and God said, let there be light and there was light'",
+            "the hearts of men are like this dark terraqueous globe, having no light in them; God is as the sun, the fountain of light, which shines upon them and in them",
+            "God first shines into their hearts, and then they give light to others"
+        ],
+        "John Wesley": [
+            "God who is himself our light; not only the author of light, but also the fountain of it.",
+            "To enlighten us with the knowledge of the glory of God \u2014 Of his glorious love, and of his glorious image.",
+            "In the face of Jesus Christ \u2014 Which reflects his glory in another manner than the face of Moses did."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, the creator of light, has shined the light of the knowledge of His glory in our hearts through Jesus Christ. Just as God commanded light to shine out of darkness in the beginning, He has now brought forth the light of His gospel into the world through His chosen messengers. As Christians, we carry the light of Christ within us, illuminated by the Spirit of God. By looking upon the face of Jesus, we receive the clear and shining knowledge of the glory of God, and in turn, become bearers of this illumination to others. It is in the face of Jesus Christ that we find the true and full manifestation of God's brightness and glory.",
+            "wordCount": 118,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.878335629630542,
+            "qualityScoreNormalizedComparedToV2BHTs": 87.04,
+            "commentatorTierSimilarities": [
+                34.24,
+                31.26,
+                34.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God, the creator of light, has shined the light of the knowledge of His glory in our hearts through Jesus Christ. As Christians, we carry the light of Christ within us, illuminated by the Spirit of God. By looking upon the face of Jesus, we receive the clear and shining knowledge of the glory of God. It is in the face of Jesus Christ that we find the true and full manifestation of God's brightness and glory.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 2.8727375175477525,
+            "qualityScoreNormalizedComparedToV2BHTs": 86.86,
+            "commentatorTierSimilarities": [
+                36.52,
+                30.02,
+                33.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God, the one who commanded light to shine out of darkness, has shined His light into our hearts through Jesus Christ. The face of Jesus is the only true effulgence of the divine glory, and it is in His face that we find the source of clear-shining knowledge. Just as miners carry a lamp on their forehead, as Christians, we carry the light of Christ in our hearts, lit by the Spirit of God. By looking upon the face of Jesus Christ, we are able to give others the illumination of the knowledge of the glory of God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.8547400904275064,
+            "qualityScoreNormalizedComparedToV2BHTs": 86.26,
+            "commentatorTierSimilarities": [
+                35.23,
+                32.2,
+                32.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, who commanded light to shine, has shined His light in our hearts. The face of Jesus is the only true effulgence of divine glory. Just as miners carry a lamp on their forehead, Christian hearts are lit by the Spirit of God. By looking upon the face of Jesus Christ, we gain clear-shining knowledge of God's glory. Christians, as bearers of this light, illuminate others with the knowledge of God's glory.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.6577702576008337,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.71,
+            "commentatorTierSimilarities": [
+                34.26,
+                34.05,
+                31.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God, the creator of light, has shined the light of the knowledge of His glory in our hearts through Jesus Christ. Just as God commanded light to shine out of darkness in the beginning, He has now brought forth the light of His gospel into the world through His chosen messengers. Christians carry the light of Christ within them, illuminated by the Spirit of God. By looking upon the face of Jesus, they receive the clear and shining knowledge of the glory of God, and in turn, become bearers of this illumination to others.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.942343218768905,
+            "qualityScoreNormalizedComparedToV2BHTs": 89.17,
+            "commentatorTierSimilarities": [
+                32.47,
+                33.52,
+                34.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

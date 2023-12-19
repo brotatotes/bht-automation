@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:13:39",
+    "verseRef": "1 Corinthians 15:5",
+    "bestBHT": {
+        "bht": "The appearances of Jesus after His resurrection are presented in a chronological order, with Peter being the first witness. Although referred to as the Twelve, only ten disciples were present at this particular time due to the absence of Thomas and the death of Judas. The term seeing in this context denotes actual bodily appearances, not mere visions. Paul appeals to the witnesses who were alive to attest the truth of the resurrection, thereby providing substantial evidence for its occurrence.",
+        "wordCount": 80,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.277554256993145,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.07,
+        "commentatorTierSimilarities": [
+            25.0,
+            45.82,
+            29.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That the following appearances are related in chronological order, is evident from the use of the definite marks of sequence.\" ",
+            "The occasion referred to seems to be that in John xx. 19 ff.; Luke xxiv. 36 ff.",
+            "Clearly we must not with Chrysostom suppose Matthias to be included as possibly having seen Him after His ascension: for the appearance is evidently one and the same."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "seen of Cephas\u2014Peter",
+            "The round number for 'the Eleven'... 'the Twelve.'",
+            "However, very possibly Matthias was present... but the best on the whole, 'the Twelve.'"
+        ],
+        "Albert Barnes": [
+            "The resurrection of Christ was A fact to be proved, like all other facts, by competent and credible witnesses.",
+            "Paul, therefore, appeals to the witnesses who had attested, or who yet lived to attest, the truth of the resurrection of the Lord Jesus.",
+            "But he does not refer to them in general merely, but mentions 'names,' and refers to persons who 'were then alive,' who could attest the truth of the resurrection."
+        ],
+        "Marvin Vincent": [
+            "The word most commonly used in the New Testament for seeing visions.",
+            "Compare the kindred ojptasia vision, Luke 1:22; Acts 26:19; 2 Corinthians 12:1.",
+            "The word most commonly used in the New Testament for seeing visions. See on Luke 22:43."
+        ],
+        "John Calvin": [
+            "But as we know, that there were twelve in number that were set apart by Christ\u2019s appointment, though one of them had been expunged from the roll, there is no absurdity in supposing that the name was retained.",
+            "By all the Apostles I understand not merely the twelve, but also those disciples to whom Christ had assigned the office of preaching the gospel.",
+            "In proportion as our Lord was desirous that there should be many witnesses of his resurrection, and that it should be frequently testified of, let us know that it should be so much the more surely believed among us."
+        ],
+        "Archibald T. Robertson": [
+            "Paul means not a mere 'vision,' but actual appearance.",
+            "The natural way to understand Paul's adverbs of time here is chronological: then, then, then, then, last of all.",
+            "To the twelve. The technical name. Only ten were present, for Judas was dead and Thomas was absent."
+        ],
+        "John Gill": [
+            "This was not another Cephas, one of the seventy disciples, as Clemens suggests, but the Apostle Peter himself, to whom it is certain the Lord appeared.",
+            "Not that he was the first person by whom Christ was seen after his resurrection, for he first appeared to Mary Magdalene, but the testimony of the women the apostle omits, and it seems as if Peter was the first of the men that saw Christ when risen.",
+            "Though there were then but eleven of them, Judas being gone from them, and having destroyed himself, and at the first appearance of Christ to them, there were but ten present, Thomas being absent, yet because their original number, when first chosen and called, were twelve, they still went by the same name."
+        ],
+        "John Wesley": [
+            "By the twelve \u2014 This was their standing appellation; but their full number was not then present."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The appearances of Jesus after His resurrection are listed in chronological order, with the first being seen by Cephas (Peter). Though the technical term the Twelve is used, there were actually only ten present at the time, as Judas was dead and Thomas was absent. However, the title the Twelve was still used to refer to the original twelve disciples. It is important to note that when Paul speaks of seeing appearances, he does not mean mere visions, but actual bodily appearances. The resurrection of Christ was a fact that needed to be proved, and Paul appeals to the credible witnesses who could testify to its truth. By emphasizing the witnesses who were still alive at that time, Paul strengthens the evidence for the resurrection.",
+            "wordCount": 125,
+            "quoteTokenProportion": 45.78,
+            "qualityScore": 2.29868038779215,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.77,
+            "commentatorTierSimilarities": [
+                24.02,
+                44.83,
+                31.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The appearances of Jesus after His resurrection are listed in chronological order, with the first being seen by Cephas (Peter). Though the technical term the Twelve is used, there were actually only ten present at the time, as Judas was dead and Thomas was absent. Seeing here does not refer to mere visions, but actual bodily appearances. Paul appeals to the witnesses who were still alive, attesting the truth of the resurrection. By emphasizing the credible witnesses, Paul strengthens the evidence for the resurrection.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.251789893410532,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.21,
+            "commentatorTierSimilarities": [
+                24.83,
+                48.18,
+                26.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The appearances of Jesus after His resurrection are listed in chronological order, with the first being seen by Peter. Though called the Twelve, only ten disciples were present due to the absence of Thomas and the death of Judas. The term seeing refers to actual bodily appearances, not mere visions. Paul appeals to the witnesses who could testify to the truth of the resurrection, further solidifying its validity. By emphasizing the credible witnesses, Paul strengthens the evidence for the resurrection.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.2222095387093486,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.23,
+            "commentatorTierSimilarities": [
+                24.79,
+                48.34,
+                26.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The appearances of Jesus after His resurrection are presented in a chronological order, with Peter being the first witness. Although referred to as the Twelve, only ten disciples were present at this particular time due to the absence of Thomas and the death of Judas. The term seeing in this context denotes actual bodily appearances, not mere visions. Paul appeals to the witnesses who were alive to attest the truth of the resurrection, thereby providing substantial evidence for its occurrence.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.277554256993145,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.07,
+            "commentatorTierSimilarities": [
+                25.0,
+                45.82,
+                29.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The appearances of Jesus after His resurrection are presented in chronological order, with the first being seen by Peter, also known as Cephas. Although referred to as the Twelve, there were only ten disciples present at that time due to the absence of Thomas and the death of Judas. Paul emphasizes that the term seeing refers to actual bodily appearances, not just visions. By appealing to the witnesses who were alive and able to testify to the truth of the resurrection, Paul strengthens the evidence for this momentous event.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.2268897330639614,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.38,
+            "commentatorTierSimilarities": [
+                25.73,
+                45.22,
+                29.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

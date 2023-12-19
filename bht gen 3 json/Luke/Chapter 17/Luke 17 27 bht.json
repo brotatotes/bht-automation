@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 16:20:57",
+    "verseRef": "Luke 17:27",
+    "bestBHT": {
+        "bht": "The aorist tenses vividly portray the life during Noah's time, with Noah entering the ark, the flood coming, and everything being destroyed. The flood was not incidental, but a result of God's power and will. The expression used conveys the consequences faced by those who lived indulgently, in luxury and sensuality, while ignoring the impending judgment.",
+        "wordCount": 58,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.7886968492922681,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+        "commentatorTierSimilarities": [
+            53.65,
+            0.0,
+            46.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Imperfects all of them vividly picturing the life of the time of Noah.",
+            "But the other tenses are aorists (Noah entered \u03b5\u03b9\u03c3\u03b7\u03bb\u03b8\u03b5\u03bd, the flood came \u03b7\u03bb\u03b8\u03b5\u03bd, destroyed \u03b1\u03c0\u03c9\u03bb\u03b5\u03c3\u03b5\u03bd)."
+        ],
+        "John Gill": [
+            "They lived in an extravagant and luxurious manner; they indulged their sensual appetites, and put away the evil day far from them...",
+            "The flood came not of itself, or by chance, or through the influence, or by the concurrence of second causes merely; though these were used, ordered, and directed by the first cause of all things; but it came by the power of God, according to his will...",
+            "The mode of expression is Jewish; it is said of Cain, who is supposed by the Jews to have lived till the flood, 'the flood came', and washed him away."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse vividly pictures the life of the time of Noah, with Noah entering the ark, the flood coming, and everything being destroyed. The flood did not come by chance or natural causes, but by the power of God, according to His will. The expression used in the verse is a Jewish way of saying that the flood came and washed away all those who lived in extravagance and indulgence, putting away the evil day far from them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1184856056567445,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.78,
+            "commentatorTierSimilarities": [
+                49.53,
+                0.0,
+                50.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The aorist tenses used in the passage vividly depict the life in Noah's time, as Noah entered the ark and the flood came, ultimately destroying everything. It is important to understand that the flood was not a random occurrence, but an event orchestrated by the power of God according to His will. The expression used is a Jewish way of portraying the consequences that befell those who lived luxuriously and indulged in their sensual desires, neglecting the impending judgment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.860519796959924,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                51.97,
+                0.0,
+                48.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The aorist tenses in this account vividly depict the life during Noah's time, as Noah entered the ark and the flood came, resulting in the destruction of everything. It is vital to recognize that the flood was not a coincidence or the product of natural causes, but a manifestation of God's power and will. The expression used in this verse reflects the consequences faced by those who lived indulgently, engaging in lavishness and sensuality while disregarding the impending judgment.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.6945513760796715,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.69,
+            "commentatorTierSimilarities": [
+                52.85,
+                0.0,
+                47.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The aorist tenses vividly portray the life during Noah's time, with Noah entering the ark, the flood coming, and everything being destroyed. The flood was not incidental, but a result of God's power and will. The expression used conveys the consequences faced by those who lived indulgently, in luxury and sensuality, while ignoring the impending judgment.",
+            "wordCount": 58,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7886968492922681,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                53.65,
+                0.0,
+                46.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The aorist tenses in this account vividly depict the life during Noah's time, as Noah entered the ark and the flood came, ultimately destroying everything. It is vital to recognize that the flood was not a coincidence or the product of natural causes, but a manifestation of God's power and will. The expression used reflects the consequences faced by those who lived indulgently in luxury and sensuality while disregarding the impending judgment.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.662976320924887,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.64,
+            "commentatorTierSimilarities": [
+                52.12,
+                0.0,
+                47.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

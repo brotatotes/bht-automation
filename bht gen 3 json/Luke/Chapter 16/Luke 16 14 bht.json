@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:20:41",
+    "verseRef": "Luke 16:14",
+    "bestBHT": {
+        "bht": "The Pharisees, known for their love of money, were deeply offended by Jesus' teachings on the wise use of wealth. Their contempt was evident in their sneers and scoffing. They rejected and despised his words regarding their injustice, clinging to their riches and looking down upon his teachings as foolish paradoxes. Their mocking reactions served as a defense mechanism to shield their own vices, reflecting their firm conviction that accumulating wealth was essential for happiness and protecting their worldly possessions (85 words).",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8125754406285206,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+        "commentatorTierSimilarities": [
+            25.29,
+            37.36,
+            37.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Their master sin being too plainly struck at for them to relish.",
+            "It was easier to run down than to refute such teaching."
+        ],
+        "Marvin Vincent": [
+            "Covetous [\u03c6\u03b9\u03bb\u03b1\u03c1\u03b3\u03c5\u03c1\u03bf\u03b9] . Rev. renders literally, according to the composition of the word, lovers of money.\" ",
+            "Derided [\u03b5\u03be\u03b5\u03bc\u03c5\u03ba\u03c4\u03b7\u03c1\u03b9\u03be\u03bf\u03bd] . Only here and ch. 23 35. Lit., to turn up the nose at.",
+            "The Romans had a corresponding phrase, naso adunco suspendere, to hang on the hooked nose : i e., to turn up the nose and make a hook of it, on which (figuratively) to hang the subject of ridicule."
+        ],
+        "John Calvin": [
+            "Entertaining a firm and deep-seated conviction that the rich are happy, and that there is nothing better for men than to increase their wealth by every possible method, and earnestly to guard whatever they have acquired, they reject as foolish paradoxes all the sayings of Christ which had a contrary tendency.",
+            "But if, even when they are condemned by universal opinion, they continue to flatter themselves, how much more will they ridicule as a fable that philosophy of Christ which is far removed from the ordinary belief?",
+            "Hence the ridicule, and jest, and merriment, with which the word of God is frequently assailed; for every man fights in defense of his own vices, and all imagine that their witticisms will serve for a cloud to screen their criminality."
+        ],
+        "Philip Schaff": [
+            "This man makes riches of little account, but we know better; we can keep our wealth and our piety too.",
+            "Their semblance of piety, which was the basis of their derision of Him.",
+            "The Pharisees heard all these things and they scoffed at him."
+        ],
+        "Archibald T. Robertson": [
+            "Who were lovers of money... It means to turn out or up the nose at one, to sneer, to scoff.\" ",
+            "These money-loving Pharisees were quick to see that the words of Jesus about the wise use of money applied to them.",
+            "No words were apparently spoken, but their eyes, noses, faces were eloquent with a fine disdain."
+        ],
+        "John Gill": [
+            "And the Pharisees also who were covetous,.... Or lovers of money, the love of which is the root of all evil; and that they were, is evident from their devouring widows' houses, under a pretence of making long prayers for them\" (100 words).",
+            "they derided him: lift up their nose, or drew it out to him, as the word signifies, in a sneering way; they rejected and despised what he said about their injustice\" (65 words).",
+            "they looked upon themselves safe and secure in the good opinion of the people, and happy in the enjoyment of worldly things; and looked upon him as a weak man, to talk in the manner he did\" (47 words)."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, known for their love of money, were greatly offended by Jesus' teachings on the wise use of wealth. Their disdain was expressed through sneers and scoffing. They couldn't bear to have their selfishness exposed and openly derided the idea that they could serve both God and money. They clung to their riches, believing that their piety justified their actions, despite the contradiction between their love for money and Jesus' teachings. Their mockery reflected their deep-seated conviction in the value of wealth and their opposition to anything that challenged it. However, their contemptuous reactions were merely a shield to protect their own vices and criminality (63 words).",
+            "wordCount": 109,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.75530627212187,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.71,
+            "commentatorTierSimilarities": [
+                26.61,
+                36.07,
+                37.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, lovers of money, were infuriated by Jesus' teachings on the wise use of wealth. Their response was not verbal, but rather conveyed through their facial expressions and body language, reflecting their deep disdain. They rejected and sneered at the idea that they could serve both God and money because they firmly believed that their wealth and piety could coexist harmoniously. These derisive reactions revealed their steadfast conviction in the value of riches and their reluctance to acknowledge any teaching that challenged their self-interest (68 words).",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.732936762303122,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+            "commentatorTierSimilarities": [
+                28.13,
+                33.38,
+                38.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees, known for their love of money, were greatly offended by Jesus' teachings on the wise use of wealth. Their disdain was expressed through sneers and scoffing. They couldn't bear to have their selfishness exposed and openly derided Jesus' words about their injustice. They rejected and despised his teachings, clinging to their wealth and considering themselves secure in the admiration of the people. Their mocking reactions were merely a defense mechanism to shield their vices and maintain their hold on worldly possessions (72 words).",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8040236532949905,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+            "commentatorTierSimilarities": [
+                26.48,
+                35.58,
+                37.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees, described as lovers of money, were immediately repulsed by Jesus' teachings on the wise use of wealth. Their contempt was evident in their facial expressions and disdainful gestures. They dismissed and derided Jesus' words, finding them contradictory to their belief that accumulating riches was the path to happiness. Their mocking response aimed to preserve their own self-interest and shield their vices from scrutiny. In their minds, defending their wealth and reputation took precedence over embracing the transformative teachings of Christ (85 words).",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.7563670412914543,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.74,
+            "commentatorTierSimilarities": [
+                27.78,
+                35.32,
+                36.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, known for their love of money, were deeply offended by Jesus' teachings on the wise use of wealth. Their contempt was evident in their sneers and scoffing. They rejected and despised his words regarding their injustice, clinging to their riches and looking down upon his teachings as foolish paradoxes. Their mocking reactions served as a defense mechanism to shield their own vices, reflecting their firm conviction that accumulating wealth was essential for happiness and protecting their worldly possessions (85 words).",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8125754406285206,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                25.29,
+                37.36,
+                37.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

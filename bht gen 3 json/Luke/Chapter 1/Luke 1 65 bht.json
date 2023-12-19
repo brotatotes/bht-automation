@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:13:36",
+    "verseRef": "Luke 1:65",
+    "bestBHT": {
+        "bht": "The news of these remarkable events quickly spread and were mutually talked about among the people, causing fear and religious awe. The continuous discussion back and forth in the hill-country of Judea revealed the presence of God and the acknowledgement of divine power. The hand of God was unmistakably seen in these events, arousing a deep sense of awe and veneration among those who dwelt round about them.",
+        "wordCount": 69,
+        "quoteTokenProportion": 29.79,
+        "qualityScore": 1.6572264516925124,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+        "commentatorTierSimilarities": [
+            19.29,
+            36.49,
+            44.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "65. fear\u2014religious awe; under",
+            "\tthe impression that God's hand was specially in these events (compare",
+            "\tLuke 5:26; Luke 7:16;",
+            "\tLuke 8:37)."
+        ],
+        "Albert Barnes": [
+            "The word 'fear' often denotes 'religious reverence.'",
+            "The remarkable circumstances attending the birth of John, and the fact that Zechariah was suddenly restored to speech, convinced them that God was there.",
+            "Filled their minds with awe and veneration."
+        ],
+        "Marvin Vincent": [
+            "Were noised abroad [\u03b4\u03b9\u03b1\u03bb\u03b5\u03bb\u03b5\u03b9\u03c4\u03bf] . Were mutually [\u03b4\u03b9\u03b1] talked of."
+        ],
+        "John Calvin": [
+            "The works of God ought to be contemplated by us with such reverence as to affect our minds with seriousness.",
+            "God does not amuse us with his miracles, but arouses the senses of men, which he perceives to be in a dormant state.",
+            "The grace of God was strikingly visible... so that all readily acknowledged the presence of God."
+        ],
+        "Philip Schaff": [
+            "Fear. The first effect produced by events which betoken what is supernatural.",
+            "All these sayings, i.e., the story of what had happened at the circumcision of the child, possibly including the whole series of remarkable events in regard to John.",
+            "Throughout all the hill-country of Judea, in which the home of Zacharias was situated."
+        ],
+        "Archibald T. Robertson": [
+            "Fear (\u03c6\u03bf\u03b2\u03bf\u03c2). Not terror, but religious awe because of contact with the supernatural as in the case of Zacharias.",
+            "Were noised abroad (\u03b4\u03b9\u03b5\u03bb\u03b1\u03bb\u03b5\u03b9\u03c4\u03bf). Imperfect passive. Occurs in Polybius. In the N.T. only here and Luke 6:11.",
+            "It was continuous talk back and forth between (\u03b4\u03b9\u03b1) the people."
+        ],
+        "John Gill": [
+            "And fear came on all that dwelt round about them,.... That is, the fear of God, an awful reverence of the divine majesty... they thought, and spoke of them with great solemnity...\" (Luke 1:65).",
+            "they perceived the hand of God was in these things, and that these were effects of divine power...\" (Luke 1:65).",
+            "the several things relating to the appearance of the angel to Zacharias in the temple... were reported, and commonly talked of by all people...\" (Luke 1:65)."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The news of these remarkable events, from Zacharias being suddenly restored to speech to the birth of John, spread quickly and continuously among the people, causing awe and reverence to fill their minds. The works of God and His clear presence were acknowledged, and the people spoke of them with solemnity and seriousness. This continuous talk back and forth in the hill-country of Judea, where Zacharias lived, revealed that the hand of God was at work, arousing the dormant senses of the people and stirring up a deep reverence for the divine majesty.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.600182810688052,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.55,
+            "commentatorTierSimilarities": [
+                15.83,
+                36.05,
+                48.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The news of these remarkable events, from Zacharias being suddenly restored to speech to the birth of John, spread quickly and continuously among the people, causing awe and reverence to fill their minds. The works of God and His clear presence were acknowledged, and the people spoke of them with solemnity and seriousness. This continuous talk back and forth in the hill-country of Judea, where Zacharias lived, revealed that the hand of God was at work, arousing the dormant senses of the people and stirring up a deep reverence for the divine majesty.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.600182810688052,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.55,
+            "commentatorTierSimilarities": [
+                15.83,
+                36.05,
+                48.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The remarkable events surrounding the birth of John were widely talked about among the people, creating a sense of awe and reverence. The continuous discussion and mutual exchange of information reflected the recognition of God's presence and power in these occurrences. The news spread throughout the hill-country of Judea, where Zacharias lived, and the people acknowledged the hand of God at work, leading to a profound and solemn contemplation of the divine majesty.",
+            "wordCount": 75,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 1.565866014752837,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.41,
+            "commentatorTierSimilarities": [
+                17.05,
+                35.79,
+                47.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The news of these remarkable events quickly spread and were mutually talked about among the people, causing fear and religious awe. The works of God and His visible grace filled their minds with seriousness and reverence. The continuous discussion back and forth in the hill-country of Judea, where Zacharias lived, revealed the presence of God and the acknowledgement of divine power. The hand of God was unmistakably seen in these events, arousing a deep sense of awe and veneration among those who dwelt round about them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.6374399871693084,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                17.42,
+                36.1,
+                46.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The news of these remarkable events quickly spread and were mutually talked about among the people, causing fear and religious awe. The continuous discussion back and forth in the hill-country of Judea revealed the presence of God and the acknowledgement of divine power. The hand of God was unmistakably seen in these events, arousing a deep sense of awe and veneration among those who dwelt round about them.",
+            "wordCount": 69,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 1.6572264516925124,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+            "commentatorTierSimilarities": [
+                19.29,
+                36.49,
+                44.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:27:46",
+    "verseRef": "Acts 8:19",
+    "bestBHT": {
+        "bht": "This narrative exposes a wretched man whose character is defined by his spiritual ambition. He saw spiritual functions as a marketable commodity, desiring the power to confer these gifts on others. However, true wisdom, sympathy, faith, and holiness cannot be bought with money. His avarice drove him to seek profit by conveying this power to others, revealing his misplaced priorities. He overlooked the invaluable treasures that cannot be acquired through material means and focused solely on personal gain.",
+        "wordCount": 78,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.3380912638206874,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+        "commentatorTierSimilarities": [
+            47.26,
+            0.0,
+            52.74
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "19. that on whomsoever I lay hands,",
+            "\the may receive the Holy Ghost\u2014Spiritual ambition here",
+            "\tshows itself the key to this wretched man's character."
+        ],
+        "Archibald T. Robertson": [
+            "He regarded spiritual functions as a marketable commodity.",
+            "Money 'can buy diamonds, but not wisdom, or sympathy, or faith, or holiness'.",
+            "He wants the power to pass on 'this power'."
+        ],
+        "John Gill": [
+            "He does not ask them to lay their hands on him, that he might receive the Holy Ghost, and have these gifts to exercise himself, but that he might have the power of conferring them on others.\" ",
+            "He perceived that this was purely apostolical; and indeed, what he requested was more than what the apostles could do.\" ",
+            "His avarice prompted him to this, that he might make gain of it; not by doing miracles himself, but by conveying a power to others to do them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse depicts a wretched man whose true character is revealed through his spiritual ambition. He saw spiritual functions as a commodity to be bought and desired the power to pass it on to others, not to receive it himself. However, true wisdom, faith, and holiness cannot be obtained with money. His avarice led him to seek the power of conferring these spiritual gifts on others in order to make a profit, which shows his misguided priorities.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.4160841521566392,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.43,
+            "commentatorTierSimilarities": [
+                43.25,
+                0.0,
+                56.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage exposes the true nature of a wretched man driven by spiritual ambition. Rather than seeking the Holy Spirit for himself, he saw spiritual functions as a commodity that could be exchanged for personal gain. His desire was not for wisdom, sympathy, faith, or holiness, but for the power to bestow these gifts upon others. Yet, the commentator wisely reminds us that while money can buy diamonds, it cannot buy the invaluable treasures of spiritual virtue.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.4309994530439984,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.92,
+            "commentatorTierSimilarities": [
+                44.32,
+                0.0,
+                55.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This narrative sheds light on a deeply troubled individual driven by insatiable spiritual ambition. He viewed spiritual functions as commodities to be bought and sold, as if they were material goods. His primary concern was not personal growth or connection with the Holy Spirit, but rather the ability to profit from bestowing these powers upon others. His misguided priorities are evident, as he sought to gain wealth rather than the true treasures of wisdom, faith, and holiness that money cannot acquire.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.2422710247926632,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.65,
+            "commentatorTierSimilarities": [
+                43.95,
+                0.0,
+                56.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This narrative exposes a wretched man whose character is defined by his spiritual ambition. He saw spiritual functions as a marketable commodity, desiring the power to confer these gifts on others. However, true wisdom, sympathy, faith, and holiness cannot be bought with money. His avarice drove him to seek profit by conveying this power to others, revealing his misplaced priorities. He overlooked the invaluable treasures that cannot be acquired through material means and focused solely on personal gain.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.3380912638206874,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+            "commentatorTierSimilarities": [
+                47.26,
+                0.0,
+                52.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse unveils a man driven by spiritual ambition, viewing spiritual functions as commodities and seeking profit in conferring such powers on others. However, the commentator insightfully highlights the inability of money to buy wisdom, sympathy, faith, and holiness. Instead of pursuing personal growth, this wretched individual disregards invaluable treasures, fixating on material gain. His misguided priorities reveal a lack of understanding that true spiritual worth cannot be obtained through monetary means.",
+            "wordCount": 72,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.1505610747477482,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.6,
+            "commentatorTierSimilarities": [
+                49.78,
+                0.0,
+                50.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

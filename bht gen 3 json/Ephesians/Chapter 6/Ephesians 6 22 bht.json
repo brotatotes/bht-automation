@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:34:58",
+    "verseRef": "Ephesians 6:22",
+    "bestBHT": {
+        "bht": "The apostle Paul, driven by his genuine concern for the churches, dispatched a messenger to provide vital updates and comfort. These letters, carried by the messenger, were not only a source of consolation but also strengthened the believers with invaluable information and encouragement. Through this act of communication and fellowship, the church found solace in times of trials and tribulations. Paul's desire to keep the believers informed about his circumstances and offer support exemplified the importance of sharing information and providing comfort in the wider Christian fellowship.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.512486475331057,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+        "commentatorTierSimilarities": [
+            6.45,
+            43.97,
+            49.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "whom I sent to you for this very purpose... that ye may know the matters respecting us...\" (54 words)",
+            "Does not this variation bear the mark of genuineness with it?\" (10 words)",
+            "and that he may comfort your hearts.\" (7 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "for this very purpose.\" :- is almost word for word the same as this verse.",
+            "the things concerning us,\" namely, concerning myself.",
+            "Aristarchus, my fellow prisoner, and Marcus, sister's son to Barnabas\" (Colossians 4:10)."
+        ],
+        "Albert Barnes": [
+            "The churches where Paul had preached, would feel a great interest in his welfare.",
+            "He felt it proper to despatch a special messenger to give information about his condition; to state what was doing in Rome; to ask the prayers of the churches; and to administer consolation to them in their various trials.",
+            "No small part of the consolation which he would impart to them would be found in these invaluable letters which he bore to them from the apostle."
+        ],
+        "Philip Schaff": [
+            "Paul does not send these merely in his own interest.",
+            "It is better, however, owing to our ignorance of the exact state of the Church, to leave the precise reference undefined, and to extend it generally to all particulars in which they needed it.",
+            "The press in these days does much of this duty, but communication through beloved brethren will always remain an essential part of wider Christian fellowship."
+        ],
+        "Archibald T. Robertson": [
+            "That ye may know (\u03b9\u03bd\u03b1 \u03b3\u03bd\u03c9\u03c4\u03b5).",
+            "Our state (\u03c4\u03b1 \u03c0\u03b5\u03c1 \u03b7\u03bc\u03c9\u03bd).",
+            "The things concerning us."
+        ],
+        "John Gill": [
+            "Which shows the great concern the apostle had for the churches, being willing to inform them of everything that might be for their use and service.",
+            "Believers in Christ are sometimes disconsolate, by reason of indwelling sin, Satan's temptations, the hidings of God's face, afflictions and persecutions, their own sufferings, and those of others.",
+            "And sad indeed is the state of Zion, or the church of Christ, when it has no comforters."
+        ],
+        "John Wesley": [
+            "That he might comfort your hearts \u2014 By relating the supports I find from God, and the success of the gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul sent a messenger to the Ephesians in order to keep them informed about his situation and to provide them with comfort. This shows his genuine concern for the church and his desire for them to be knowledgeable about his circumstances. Paul understood that the churches he had preached to would be interested in his welfare and that his letters would serve as a source of consolation for them in their trials. His intention was not solely for his own benefit, but to strengthen and encourage the believers. This act of communication and sharing of information is crucial for the wider Christian fellowship, as it helps to provide support and comfort for the church in times of affliction and suffering.",
+            "wordCount": 122,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.537895465785383,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.48,
+            "commentatorTierSimilarities": [
+                5.64,
+                48.53,
+                45.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul, deeply concerned for the churches, sent a messenger to inform them of his situation and to comfort their hearts. His genuine care for their well-being is evident as he desired to keep them informed and connected. These valuable letters served as a source of consolation to the believers, providing support and encouragement in their trials. Through communication and fellowship, Paul aimed to strengthen and uplift the church, recognizing the importance of sharing information and offering comfort in times of hardship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.444022246128347,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.36,
+            "commentatorTierSimilarities": [
+                6.67,
+                44.62,
+                48.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul, deeply concerned for the churches, sent a messenger to inform them and bring comfort to their hearts. His genuine care is evident as he desired to keep them informed about his circumstances and the matters concerning him. These precious letters not only served as a source of consolation but also imparted valuable information and support for the believers. Paul recognized the significance of communication and fellowship in providing strength and encouragement to the church in their trials.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.4996169900435372,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.2,
+            "commentatorTierSimilarities": [
+                8.6,
+                45.18,
+                46.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul, driven by his genuine concern for the churches, dispatched a messenger to provide vital updates and to offer solace to their troubled hearts. His aim was to familiarize the believers with his situation and the matters that concerned him in order to provide comfort and support. These significant letters, carried by the messenger, were not only a source of consolation but also served to strengthen the believers by offering invaluable information and encouragement. Through this act of communication and fellowship, the church found solace and support in the face of trials and tribulations.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.470914388483537,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "commentatorTierSimilarities": [
+                8.01,
+                40.35,
+                51.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul, driven by his genuine concern for the churches, dispatched a messenger to provide vital updates and comfort. These letters, carried by the messenger, were not only a source of consolation but also strengthened the believers with invaluable information and encouragement. Through this act of communication and fellowship, the church found solace in times of trials and tribulations. Paul's desire to keep the believers informed about his circumstances and offer support exemplified the importance of sharing information and providing comfort in the wider Christian fellowship.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.512486475331057,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                6.45,
+                43.97,
+                49.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

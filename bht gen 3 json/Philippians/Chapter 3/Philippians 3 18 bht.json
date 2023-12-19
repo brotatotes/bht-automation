@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 13:56:53",
+    "verseRef": "Philippians 3:18",
+    "bestBHT": {
+        "bht": "Paul, filled with sympathy, weeps for those who, though professing to be Christians, live in laxity and self-enjoyment, contrary to the Cross. These individuals follow either Judaistic or Epicurean errors, denying the value of the cross through their loose living. The Lord and His apostles warn against empty professors and urge constant vigilance. We should not imitate their behavior but rather live in holiness, bearing the cross and having fellowship in Christ's sufferings.",
+        "wordCount": 75,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.101587547911702,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.22,
+        "commentatorTierSimilarities": [
+            30.7,
+            37.86,
+            31.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But now mention even weeping... thus Paul weeps where others laugh and are wanton. So full of sympathy is he; so does he bear all men in his heart.",
+            "Not Judaistic but Epicurean error, not obliquity of creed but of practice, is here stigmatized.",
+            "There were some who professed indeed to be Christians, but were living in laxity and self-enjoyment: and this is contrary to the Cross."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Follow not evildoers, because they are 'many'. Their numbers are rather a presumption against their being Christ's 'little flock'.",
+            "There is need of constant warning.",
+            "[The Lord and His apostles] speak more strongly against empty professors (as the Pharisees), than against open scoffers."
+        ],
+        "Albert Barnes": [
+            "We should rather speak of the fact with tears; for, if there is anything that should make us weep, it is, that there are those in the church who are hypocrites, or who dishonor their profession.\" ",
+            "He who loves religion will weep over the inconsistencies of its friends; he who does not, will exult and triumph.",
+            "An immoral life is enmity to the cross of Christ; for he died to make us holy."
+        ],
+        "Marvin Vincent": [
+            "No word is supplied describing the character of their walk.\" ",
+            "The persons alluded to were probably those of Epicurean tendencies.",
+            "This and Judaic formalism were the two prominent errors in the Philippian church."
+        ],
+        "John Calvin": [
+            "Many walk who mind earthly things, meaning by this, that there are many who creep upon the ground, not feeling the power of God\u2019s kingdom.",
+            "Being desirous exclusively of their own honor, ease, and gain, they had no regard to the edification of the Church.",
+            "It is of importance, also, to take notice of whom Paul speaks \u2014 not of open enemies, who were avowedly desirous that doctrine might be undermined \u2014 but of impostors and profligates, who trampled under foot the power of the gospel, for the sake of ambition or of their own belly."
+        ],
+        "Philip Schaff": [
+            "These are the men who offend in an opposite way to the Judaizers. We hear much of them in the Epistles, how in their boastfulness of superior knowledge they held themselves at liberty to indulge their fleshly appetites.",
+            "Tears that are shed for the evil which these men will work, and also for the fate which is in store for such offenders. The apostle hates the sin, as we may see from the strong words which he soon writes, but yet he is moved to weeping for the sinners.",
+            "Such men are the greatest adversaries to the Christian cause. They are nominally Christians, but refuse to bear the cross or to have any fellowship in Christ\u2019s sufferings, and thus they prove worse foes than bitter opponents would be."
+        ],
+        "Archibald T. Robertson": [
+            "I told you often (\u03c0\u03bf\u03bb\u03bb\u03b1\u03ba\u03b9\u03c2 \u03b5\u03bb\u03b5\u03b3\u03bf\u03bd). Imperfect active, repetition in Paul s warnings to them.",
+            "Even weeping (\u03ba\u03b1 \u03ba\u03bb\u03b1\u03b9\u03c9\u03bd). Deep emotion as he dictated the letter and recalled these recreant followers of Christ (cf. 2 Corinthians 2:4).",
+            "The enemies of the cross of Christ (\u03c4\u03bf\u03c5\u03c2 \u03b5\u03c7\u03b8\u03c1\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5). Either the Judaizers who denied the value of the cross of Christ (Galatians 5:11; Galatians 6:12; Galatians 6:14) or Epicurean antinomians whose loose living gave the lie to the cross of Christ (1 John 2:4)."
+        ],
+        "John Gill": [
+            "The road both of profaneness and error is a broad one, and many walk therein, which makes it the more dangerous.",
+            "The conversation of a great part of professors is not to be imitated; the few names in Sardis that have not defiled their garments with error or immorality should be marked for ensamples.",
+            "And so all such professors of Christ, who walk not according to the Gospel, though they are not open and direct enemies to the Gospel, which is the preaching of the cross, yet they are secret and indirect ones, and oftentimes do more mischief to it by their lives, than the keenest adversaries of it can by their pens."
+        ],
+        "John Wesley": [
+            "Weeping \u2014 As he wrote.",
+            "Enemies of the cross of Christ \u2014 Such are all cowardly, all shamefaced, all delicate Christians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul weeps as he writes about those in the church who live in laxity and self-indulgence, contrary to the Cross. These individuals may profess to be Christians but their actions do not align with their faith. They either follow Judaistic or Epicurean errors, both of which are condemned. They are enemies of the cross, denying its value through their loose living. Their numbers should not deceive us, for the Lord and His apostles warn against empty professors and emphasize the need for constant vigilance. We should not imitate their behavior but instead seek to live in holiness, bearing the cross and having fellowship in Christ's sufferings.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 2.000412866123683,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                30.0,
+                38.25,
+                31.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, filled with sympathy, weeps for those who, though professing to be Christians, live in laxity and self-enjoyment, contrary to the Cross. These individuals follow either Judaistic or Epicurean errors, denying the value of the cross through their loose living. The Lord and His apostles warn against empty professors and urge constant vigilance. We should not imitate their behavior but rather live in holiness, bearing the cross and having fellowship in Christ's sufferings.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.101587547911702,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.22,
+            "commentatorTierSimilarities": [
+                30.7,
+                37.86,
+                31.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul weeps for those in the church who live in laxity and self-indulgence, contrary to the Cross. These individuals may profess to be Christians yet their actions do not align with their faith. They follow Judaistic or Epicurean errors, which are both condemned. They are enemies of the cross, denying its value through loose living. Their numbers do not make them genuine followers of Christ. The Lord and His apostles warn against empty professors and emphasize the need for constant vigilance. We should not imitate their behavior but instead strive to live in holiness, bearing the cross and having fellowship in Christ's sufferings.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.939552646701915,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                30.39,
+                37.6,
+                32.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul weeps for those in the church living in laxity and indulgence, contrary to the Cross. They may profess Christianity, but their actions don't align. Both Judaistic and Epicurean errors are condemned. They are enemies of the cross, denying its value through loose living. Despite their numbers, they're not part of Christ's faithful. The Lord and His apostles warned against empty professors and emphasized constant vigilance. Rather than imitating them, we should strive for holiness, bearing the cross and sharing in Christ's sufferings.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8967709744207233,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                31.78,
+                36.85,
+                31.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul weeps for those in the church who live in laxity and self-indulgence, denying the value of the cross through their loose living. The Lord and His apostles warned against empty professors and emphasized constant vigilance. Despite their numbers, these individuals are not true followers of Christ. Instead of imitating their behavior, we are called to live in holiness, bearing the cross and sharing in the sufferings of Christ.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.9380064050097268,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                31.69,
+                36.82,
+                31.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

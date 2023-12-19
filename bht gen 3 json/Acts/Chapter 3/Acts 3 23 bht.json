@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:25:53",
+    "verseRef": "Acts 3:23",
+    "bestBHT": {
+        "bht": "Those who refuse to listen to Christ and his teachings will face utter destruction. Just as the people of Israel had rejected Moses and suffered the consequences, those who reject Christ will be excluded from the kingdom of God and sentenced to eternal death. Every individual who hardens their heart and refuses to heed the voice of Jesus will bear the punishment of being cut off from the body of believers and from the highest sense of life. The authority of all the prophets, and especially of Christ, is established through this grievous punishment against the rebellious.",
+        "wordCount": 97,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.9861070997691845,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+        "commentatorTierSimilarities": [
+            28.98,
+            38.18,
+            32.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Every soul - Every 'person' or 'individual.' Soul is often put for the whole man by the Hebrews.",
+            "He shall have authority to declare the will of God; and he that does not obey him refuses to obey God.",
+            "The same remark is applicable still to people. The Scriptures abundantly declare the truth, that if sinners will not hear the Lord Jesus, they shall be destroyed."
+        ],
+        "Marvin Vincent": [
+            "Shall be destroyed [\u03b5\u03be\u03bf\u03bb\u03bf\u03b8\u03c1\u03b5\u03c5\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1\u03b9] . Only here in New Testament. Rev., \"utterly destroyed,\" giving the force of ejx out."
+        ],
+        "John Calvin": [
+            "Here, by a most grievous punishment against the rebellious, the authority of all the prophets, but most of all of Christ, is established; and that for good causes.",
+            "For God had adopted the stock and kindred of Abraham unto himself, upon this condition, that this might be sufficient for them unto the chiefest felicity to be reckoned in that number.",
+            "For he is not worthy to be accounted one of the Church, whosoever he be that refuseth to have him to be his Master, by whom alone God doth teach us, and by whom he will have us to hear himself; and he cutteth himself away from the body, whosoever he be that refuseth to be under the Head."
+        ],
+        "Philip Schaff": [
+            "Every soul which, through hardness of heart, self-will, hatred of goodness and purity, refuses to listen to the voice of Jesus the Messiah.",
+            "The punishment is exclusion from the kingdom of God, from life in its highest sense; and this exclusion from life carries with it the sentence of eternal death."
+        ],
+        "Archibald T. Robertson": [
+            "They had refused to 'hearken' to Moses and now, alas, many had refused to 'hearken' to Christ.",
+            "Shall be utterly destroyed.",
+            "To destroy utterly (\u03b5\u03be), only here in the N.T., common in the LXX."
+        ],
+        "John Gill": [
+            "he that hears not him, hearkens not to God, in whose name he speaks, and whose word he delivers",
+            "requiring often intends punishment, or a cutting off; or as Aben Ezra explains it here, 'death by the hand of heaven'",
+            "which was remarkably fulfilled in the Jewish nation, for their rejection of Jesus as the true Messiah, and that prophet"
+        ],
+        "John Wesley": [
+            "One cannot imagine a more masterly address than this, to warn the Jews of the dreadful consequence of their infidelity\" ",
+            "in the very words of their favourite prophet, out of a pretended zeal for whom they rejected Christ"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who refuse to listen to Christ and his teachings will face utter destruction. Just as the people of Israel had rejected Moses and suffered the consequences, those who reject Christ will be excluded from the kingdom of God and sentenced to eternal death. Every individual who hardens their heart and refuses to heed the voice of Jesus will bear the punishment of being cut off from the body of believers and from the highest sense of life. This warning was given by Christ himself, as he spoke in the very words of the beloved prophet. The authority of all the prophets, and especially of Christ, is established through this grievous punishment against the rebellious.",
+            "wordCount": 115,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.9185921119652796,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+            "commentatorTierSimilarities": [
+                28.73,
+                36.47,
+                34.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who refuse to listen to Christ and his teachings will face utter destruction. Just as the people of Israel had rejected Moses and suffered the consequences, those who reject Christ will be excluded from the kingdom of God and sentenced to eternal death. Every individual who hardens their heart and refuses to heed the voice of Jesus will bear the punishment of being cut off from the body of believers and from the highest sense of life. The authority of all the prophets, and especially of Christ, is established through this grievous punishment against the rebellious.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.9861070997691845,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+            "commentatorTierSimilarities": [
+                28.98,
+                38.18,
+                32.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who refuse to listen to Christ and his teachings will face utter destruction. Just as the people of Israel had rejected Moses and now many had refused to hear Christ, they will be utterly destroyed. The punishment for not heeding the voice of Jesus is exclusion from the kingdom of God and the sentence of eternal death. Refusing to have Christ as one's Master means cutting oneself off from the body of believers and from the highest sense of life. This warning serves to establish the authority of all the prophets, particularly that of Christ.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8992308165364973,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.49,
+            "commentatorTierSimilarities": [
+                30.82,
+                36.5,
+                32.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who refuse to listen to Christ and his teachings will face utter destruction. Just as people had refused to hearken to Moses, many now refuse to hearken to Christ. The punishment for not obeying the voice of Jesus is exclusion from the kingdom of God and the sentence of eternal death. Refusing to listen to Christ means cutting oneself off from the body of believers and from the highest sense of life. This warning establishes the authority of all the prophets, especially Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8480963372988266,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.79,
+            "commentatorTierSimilarities": [
+                29.82,
+                37.18,
+                33.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who reject Christ and refuse to listen to his teachings will face total destruction. Just as the people of Israel refused to listen to Moses, many now refuse to hearken to Christ. The punishment for disobedience to Jesus is exclusion from the kingdom of God and the sentence of eternal death. Those who harden their hearts and reject the voice of Jesus will be cut off from the body of believers and the highest life. This warning establishes the authority of all the prophets, particularly that of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8691559682154821,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                28.7,
+                38.95,
+                32.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

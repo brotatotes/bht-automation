@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:04:09",
+    "verseRef": "1 Corinthians 5:2",
+    "bestBHT": {
+        "bht": "The Corinthians, puffed up with their own wisdom and spiritual perfection, failed to mourn over the disgraceful act of incest within their community, instead justifying and boasting about the offender's actions. The duty of the Church is to mourn the faults of its members as if they were domestic calamities affecting the entire body. It is shameful to glory in the midst of disgrace and to be blind to one's own faults. The Corinthians should have humbled themselves, mourned, and swiftly expelled the evildoer.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7327718881057854,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+        "commentatorTierSimilarities": [
+            35.07,
+            27.92,
+            37.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "ye are puffed up...with a notion of their own wisdom and spiritual perfection.\" ",
+            "the being puffed up is only a fault which co-existed with this disgrace, not one founded upon it.",
+            "did not rather mourn...that he who did this deed might be removed from among you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We ought to mourn over the transgressions of others, and repent of our own.\" ",
+            "The incestuous person was hereby brought to bitter repentance.\" ",
+            "Excommunication in the Christian Church corresponded to that in the Jewish synagogue."
+        ],
+        "Albert Barnes": [
+            "They should have mourned; and should have given their first attention to the removal of the evil.\" ",
+            "People are always elated and proud when they have the least occasion for it.",
+            "Acts of discipline in the church should always commence with mourning that there is occasion for it."
+        ],
+        "John Calvin": [
+            "Are ye not ashamed,\" says he, \"to glory in what affords so much occasion for humiliation?",
+            "For there is an amazing blindness in glorying in the midst of disgrace, in spite, as it were of angels and men.",
+            "Hence we readily infer, that it is the duty of every Church to mourn over the faults of individual members, as domestic calamities belonging to the entire body."
+        ],
+        "Philip Schaff": [
+            "And ye are puffed up as if all were right with you and have not rather mourned that such a blot should come upon your community.\" ",
+            "(in order) that he that had done this deed might (by formal ejection) be taken away from among you.",
+            "Sharp measures are therefore peremptorily ordered to take place."
+        ],
+        "Archibald T. Robertson": [
+            "Those of the same faction with this scoundrel justified his rascality.",
+            "The very least that they could have done was to mourn for shame as if for one dead.",
+            "Decent self-respect should have compelled the instant expulsion of the man instead of pride in his rascality."
+        ],
+        "John Gill": [
+            "Either with the gifts, learning, and eloquence of their preachers, and particularly of this man, who, by some, is thought to be one of their teachers...",
+            "Or one party was puffed up against another; that which was opposite to the party this man belonged to, boasting over the other...",
+            "Or the other were puffed up with their lenity and forbearance, boasting of it as an act of humanity and good nature, and an instance of charity, showing that they were not severe upon one another..."
+        ],
+        "John Wesley": [
+            "Should ye not rather have mourned - Have solemnly humbled yourselves...",
+            "...and at that time of solemn mourning have expelled that notorious sinner from your communion?",
+            "Are ye puffed up?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians were full of pride and conceit, boasting in their own wisdom and spiritual perfection, even in the face of a disgraceful act of incest within their community. Instead of mourning over this transgression and seeking to remove the evildoer from their midst, they reveled in their own arrogance and even justified the actions of the perpetrator. The very least they should have done was to mourn with shame and promptly expel the offender from their congregation. The duty of the Church is to mourn over the faults of its members, treating them as domestic calamities that affect the entire body. It is a shame to glory in the midst of disgrace and to be blinded to one's own faults. The Corinthians should have humbled themselves, mourned, and taken swift action to preserve the integrity of their community.",
+            "wordCount": 140,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 1.7411579288638048,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                36.61,
+                28.97,
+                34.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians, puffed up with their own wisdom and spiritual perfection, failed to mourn over the disgraceful act of incest within their community, instead justifying and boasting about the offender's actions. The duty of the Church is to mourn the faults of its members as if they were domestic calamities affecting the entire body. It is shameful to glory in the midst of disgrace and to be blind to one's own faults. The Corinthians should have humbled themselves, mourned, and swiftly expelled the evildoer.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7327718881057854,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+            "commentatorTierSimilarities": [
+                35.07,
+                27.92,
+                37.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians, puffed up with their own wisdom and spiritual perfection, failed to mourn over the disgraceful act of incest within their community. Instead, they justified and even boasted about the offender's actions. The duty of the Church is to mourn over the faults of its members, treating them as if they were domestic calamities that affect the entire body. It is shameful to glory in the midst of disgrace and be blind to one's own faults. The Corinthians should have humbled themselves, mourned, and promptly expelled the evildoer.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.6872323898130857,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+            "commentatorTierSimilarities": [
+                36.41,
+                29.12,
+                34.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians were puffed up with their own wisdom, failing to mourn the disgraceful act of incest in their community. Instead of addressing the issue, they justified the actions and even boasted about them. The Church has a duty to mourn over the faults of its members and treat them as an affliction affecting the entire body. It is shameful to glory in the midst of disgrace and be blind to one's own faults. The Corinthians should have humbled themselves, mourned, and expelled the offender.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.7083404560050113,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.14,
+            "commentatorTierSimilarities": [
+                36.71,
+                29.2,
+                34.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians' pride in their own wisdom and spiritual perfection led them to overlook the disgraceful act of incest among them. Instead of mourning and seeking to remove the offender, they justified and even celebrated his actions. The duty of the Church is to mourn over the faults of its members, recognizing them as domestic calamities that affect the entire body. It's shameful to boast amidst disgrace and be blind to one's own faults. The Corinthians should have humbled themselves, mourned, and promptly expelled the wrongdoer.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.702304875967171,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.94,
+            "commentatorTierSimilarities": [
+                36.07,
+                28.81,
+                35.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

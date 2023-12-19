@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:13:11",
+    "verseRef": "Luke 1:42",
+    "bestBHT": {
+        "bht": "Blessed are you among women, for you are blessed beyond others. In the presence of Mary, Elisabeth, prompted by her sudden emotion, lifts up her voice with a loud cry, recognizing the divine nature of Mary's unborn child. This exclamation attests to the beautiful superiority and honor bestowed upon Mary. The recognition of Mary's blessedness is rooted in the blessedness of her child, who is the source of all blessings. May we too acknowledge and celebrate the unique honor bestowed upon Mary as she carries the blessed Lord in her womb.",
+        "wordCount": 93,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.0660951154778306,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+        "commentatorTierSimilarities": [
+            22.89,
+            35.54,
+            41.56
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word rendered Blessed has a double meaning: that of blessed,\u2014from above\u2014blessed among women, i.e. beyond other women...",
+            "The former is the best rendering...",
+            "...and then among women will be the Hebrew superlative..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What beautiful superiority to envy have we here!",
+            "Elisabeth loses sight of it altogether, in presence of one more honored still.",
+            "Turn this as we will, we shall never be able to see the propriety of calling an unborn child 'Lord,' but by supposing Elisabeth, like the prophets of old, enlightened to perceive the Messiah's Divine nature."
+        ],
+        "Albert Barnes": [
+            "Blessed art thou among women.\" ",
+            "Esteeming it to be the highest honor among mothers.\" ",
+            "To be the mother of the Messiah."
+        ],
+        "Marvin Vincent": [
+            "She lifted up her voice with a loud cry; thus rendering in the verb the force of ajna, up, besides picturing the fact more naturally.\" ",
+            "Elizabeth's sudden and violent emotion at the appearance of Mary, and the movement of the child, prompted an exclamation.",
+            "The verb ajnafwnew occurs only here in the New Testament. It was a medical term for a certain exercise of the voice."
+        ],
+        "John Calvin": [
+            "Blessed art thou...on account of the blessedness of her child.",
+            "To carry Christ in her womb was not Mary\u2019s first blessedness, but was greatly inferior to the distinction of being born again by the Spirit of God to a new life.",
+            "The blessedness brought to us by Christ cannot be the subject of our praise, without reminding us, at the same time, of the distinguished honor which God was pleased to bestow on Mary."
+        ],
+        "Philip Schaff": [
+            "Blessed art thou among women. Blessed by God, beyond other women, rather than blessed by other women.",
+            "Blessed is the fruit of thy womb. Elisabeth had heard nothing of Mary\u2019s situation, so far as we know, but speaks of it by inspiration.",
+            "The mother of my Lord, i.e., the Messiah. This recognition was through inspiration. The designation \u2018mother of God,\u2019 which came into general use in the fifth century, is not found in the Bible."
+        ],
+        "Archibald T. Robertson": [
+            "With a loud cry (\u03ba\u03c1\u03b1\u03c5\u03b3\u03b7 \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7). A moment of ecstatic excitement.",
+            "Blessed art thou (\u03b5\u03c5\u03bb\u03bf\u03b3\u03b7\u03bc\u03b5\u03bd\u03b7). Perfect passive participle. A Hebraistic equivalent for the superlative. "
+        ],
+        "John Gill": [
+            "Blessed art thou among women; the same words that the angel had said to her before.",
+            "This is a reason why she is called blessed, because her child was blessed; being in union with a divine person, who is God over all, blessed for ever.",
+            "And so is both blessed in himself, and the source of all blessedness to others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are you among women, for you are blessed beyond other women. Your child, the Messiah, is honored and exalted. In the presence of Mary, Elisabeth, inspired by the Holy Spirit, recognizes the divine nature of the unborn Lord. She is filled with awe and joy, expressing her emotions in a loud cry. Elisabeth's recognition of Mary's blessedness is rooted in the blessedness of her child, who is the source of all blessings. May we too acknowledge and celebrate the unique honor bestowed upon Mary as the mother of our Lord.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9059192244677725,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                22.32,
+                37.42,
+                40.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed are you among women, for you are blessed beyond other women. Elisabeth, in her excitement and awe, acknowledges the divine nature of Mary's unborn child. The recognition of Mary's blessedness is rooted in the blessedness of her child, the Messiah. Elisabeth's exclamation is a testament to the superiority and honor bestowed upon Mary. In carrying Christ in her womb, Mary experiences a unique and incomparable blessedness that points to the divine favor and grace upon her.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.0522078033517657,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                21.71,
+                37.25,
+                41.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed are you, for you are blessed among women, beyond others. Elisabeth, enlightened by the Spirit, acknowledges the divine nature of Mary's unborn child. Elizabeth's sudden and intense emotion prompts her exclamation, expressing her recognition of the distinguished honor bestowed upon Mary. The recognition of Mary's blessedness is rooted in the blessedness of her child, who is the source of all blessings. May we too acknowledge and celebrate the unique honor of Mary, the mother of our blessed Lord.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0344553997170136,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.99,
+            "commentatorTierSimilarities": [
+                21.7,
+                36.84,
+                41.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed are you among women, for you are blessed beyond others. In the presence of Mary, Elisabeth, prompted by her sudden emotion, lifts up her voice with a loud cry, recognizing the divine nature of Mary's unborn child. This exclamation attests to the beautiful superiority and honor bestowed upon Mary. The recognition of Mary's blessedness is rooted in the blessedness of her child, who is the source of all blessings. May we too acknowledge and celebrate the unique honor bestowed upon Mary as she carries the blessed Lord in her womb.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.0660951154778306,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                22.89,
+                35.54,
+                41.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed are you among women, for you are blessed beyond other women. Elisabeth, inspired by the Holy Spirit, recognizes the divine nature of Mary's unborn child. With a loud cry, she expresses her awe and joy. This exclamation reveals the superior honor bestowed upon Mary, who bears the blessed Lord in her womb. The blessedness of Mary and her child are intertwined, as Christ is both blessed in himself and the source of all blessings. Let us also acknowledge and praise the unique honor bestowed upon Mary as the mother of our Lord.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.0054479879192306,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.02,
+            "commentatorTierSimilarities": [
+                22.34,
+                35.64,
+                42.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

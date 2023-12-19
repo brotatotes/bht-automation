@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:14:20",
+    "verseRef": "Galatians 2:3",
+    "bestBHT": {
+        "bht": "Not even Titus, who was a Greek, was compelled to be circumcised. The fact that the demand was not complied with, but resisted by Paul and Barnabas, shows that the apostles virtually sanctioned Paul's course among the Gentiles and admitted his independence as an apostle. This confirmed that Christianity did not interfere with Jewish usages as social ordinances, though they no longer had their religious significance. The refusal to impose circumcision on Titus and other Gentile converts proved that it was not necessary for salvation.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 2.564984928977469,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.63,
+        "commentatorTierSimilarities": [
+            37.01,
+            34.66,
+            28.32
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not even was Titus, who was with me, a Greek, compelled to be circumcised.\" ",
+            "We did not allow him to be thus compelled.",
+            "The demand was not complied with, but resisted by Paul and Barnabas."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not even Titus who was with me, who was a Greek (and therefore uncircumcised), was compelled to be circumcised.",
+            "Thus they virtually sanctioned Paul's course among the Gentiles and admitted his independence as an apostle.",
+            "Christianity did not interfere with Jewish usages, regarded merely as social ordinances, though no longer having their religious significance."
+        ],
+        "Albert Barnes": [
+            "It is quite evident from the whole statement here that Paul did not intend that Titus should be circumcised; that he maintained that it was not necessary; and that he resisted it when it was demanded\" ",
+            "Paul would not have hesitated to have circumcised Titus in the same circumstances in which it was done to Timothy; but the circumstances were different; and when it was insisted upon as a matter of principle and of obligation, it became a matter of principle and of obligation with him to oppose it.\" ",
+            "He claimed that he had a right to do so; and that circumcision was not necessary in order for salvation. If it were necessary, it would have been proper that Titus should have been compelled to submit to it."
+        ],
+        "Marvin Vincent": [
+            "So far were they from pronouncing my labor in vain, that not even Titus was compelled to be circumcised, although he was a Greek.\" (Commentary)",
+            "Though approving Paul's preaching, the apostles might, for the sake of conciliation, have insisted on the circumcision of his Gentile companion.\" (Commentary) ",
+            "It was a bold proceeding for Paul to take an uncircumcised Gentile with him to the conference at Jerusalem.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "For circumcision, being a matter of indifference, might be neglected or practiced as edification required.",
+            "Our invariable rule of action is, that, if 'all things are lawful for us,' we ought to inquire what is expedient.",
+            "The duties of love to our neighbor ought never to be injurious to faith; and therefore, in matters of indifference, the love of our neighbour will be our best guide, provided that faith shall always receive our first regard."
+        ],
+        "Philip Schaff": [
+            "Far from declaring my labors fruitless and disapproving my gospel, the Jewish Apostles did not force even Titus, my companion and co-laborer, much less the body of the Gentile converts, to submit to circumcision...",
+            "...although the Judaizing party peremptorily demanded it as a condition of justification...",
+            "...as appears from Galatians 2:4-5, and Acts 15:5."
+        ],
+        "Archibald T. Robertson": [
+            "Being a Greek (H\u03b5\u03bb\u03bb\u03b7\u03bd \u03c9\u03bd). Concessive participle, though he was a Greek.",
+            "Was compelled to be circumcised (\u03b7\u03bd\u03b1\u03b3\u03ba\u03b1\u03c3\u03b8\u03b7 \u03c0\u03b5\u03c1\u03b9\u03c4\u03bc\u03b7\u03b8\u03b7\u03bd\u03b1). First aorist passive indicative of \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03b6\u03c9 and first aorist passive infinitive of \u03c0\u03b5\u03c1\u03b9\u03c4\u03b5\u03bc\u03bd\u03c9.",
+            "Paul means that he stood his ground against compulsion and all force."
+        ],
+        "John Gill": [
+            "There was such an agreement between the apostle, and his fellow apostles at Jerusalem, even about this article of the necessity of circumcision, and other rituals of the law of Moses, to salvation...",
+            "...not he was compelled to be circumcised: the elders did not urge it, or insist upon it, as proper and necessary; they looked upon it as a thing indifferent, left him to his liberty...",
+            "...they were of opinion, as Peter and James in the synod declared, that such a yoke ought not to be put upon the necks of the disciples, and that those who turned to God from among the Gentiles, should not be troubled with these things."
+        ],
+        "John Wesley": [
+            "A clear proof that none of the apostles insisted on the circumcising gentile believers.",
+            "And it is true, some of those false brethren would fain have compelled Titus to be circumcised.",
+            "I utterly refused it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Not even Titus, who was a Greek and therefore uncircumcised, was compelled to be circumcised. This bold action by Paul showed that the apostles sanctioned his independence as an apostle and supported his work among the Gentiles. While Christianity did not interfere with Jewish usages as social ordinances, it did not require Gentile believers to be circumcised. The Jewish Apostles did not force Titus or any other Gentile converts to submit to circumcision, resisting the demands made by the Judaizing party. The agreement between Paul and the apostles at Jerusalem affirmed that circumcision and other rituals of the law of Moses were not necessary for salvation.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 2.605037631449064,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.96,
+            "commentatorTierSimilarities": [
+                35.32,
+                34.59,
+                30.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Not even Titus, who was a Greek, was compelled to be circumcised. This action by Paul among the Gentiles was supported by the apostles, indicating their approval of his work. While Jewish usages were still observed as social customs, they no longer held religious significance in Christianity. The Judaizing party demanded the circumcision of Gentile converts, but the apostles rejected the imposition of this requirement. It was agreed that circumcision and other Mosaic rituals were not necessary for salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.3978299011128943,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.07,
+            "commentatorTierSimilarities": [
+                35.4,
+                34.68,
+                29.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Not even Titus, a Greek, was compelled to be circumcised, which Paul boldly resisted. The apostles' approval of Paul's course among the Gentiles was evident in their refusal to impose circumcision on Titus or any other Gentile converts. They recognized that circumcision and other Jewish rituals were no longer necessary for salvation, aligning with Paul's preaching. While Jewish customs continued to be observed as social ordinances, they did not affect the Gentile believers' faith. The agreement with the Jewish Apostles affirmed the liberty of Gentile converts from such requirements.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.525619940269614,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.32,
+            "commentatorTierSimilarities": [
+                35.73,
+                34.69,
+                29.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even Titus, a Greek, was not compelled to be circumcised. This bold resistance by Paul, backed by the approval of the apostles, demonstrated his independence and the acceptance of his work among the Gentiles. The demand for circumcision was rejected, as it was acknowledged that it held no religious significance in Christianity and was not necessary for salvation. Jewish customs were observed as social ordinances, but did not interfere with the freedom of Gentile believers in matters of faith.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.369292364839948,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.12,
+            "commentatorTierSimilarities": [
+                36.74,
+                34.05,
+                29.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Not even Titus, who was a Greek, was compelled to be circumcised. The fact that the demand was not complied with, but resisted by Paul and Barnabas, shows that the apostles virtually sanctioned Paul's course among the Gentiles and admitted his independence as an apostle. This confirmed that Christianity did not interfere with Jewish usages as social ordinances, though they no longer had their religious significance. The refusal to impose circumcision on Titus and other Gentile converts proved that it was not necessary for salvation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.564984928977469,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.63,
+            "commentatorTierSimilarities": [
+                37.01,
+                34.66,
+                28.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:08:48",
+    "verseRef": "Titus 2:15",
+    "bestBHT": {
+        "bht": "Speak with vigor and authority, exhorting and rebuking with imperativeness. Let your conduct be such that no one can despise you, as you command respect through the weight of your words. Warn with authority, leaving no room for anyone to think they are above admonition. By doing so, you will prove yourself as a minister of God, deserving of universal respect. This clear and powerful communication is necessary to counter the disdain of those who do not understand the truths you teach.",
+        "wordCount": 82,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8327518358138195,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.28,
+        "commentatorTierSimilarities": [
+            38.75,
+            29.04,
+            32.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These things (the foregoing: not, the following) speak, and exhort (in the case of those who believe and need stirring up), and rebuke (in the case of those who are rebellious) with all imperativeness.",
+            "Let no man despise thee ( \u2018so conduct thyself in thine exhortations, with such gravity, and such consistency, and such impartiality, that every word of thine may carry weight, and none may be able to cast slight on thee for flaws in any of these points\u2019)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Speak with such vigor as to command respect.",
+            "Warn them with such authority that no one may think himself above the need of admonition.",
+            "Speak... with all authoritativeness."
+        ],
+        "Albert Barnes": [
+            "He was to do it decidedly, without ambiguity, without compromise, and without keeping anything back.\" ",
+            "He was to state these things not as being advice or counsel, but as the requirement of God.",
+            "Conduct yourself, as you may easily do, so as to command universal respect as a minister of God."
+        ],
+        "John Calvin": [
+            "He who understands those things which the Apostle has formerly stated, and who has them always in his mouth, will have ground not only for teaching, but likewise for correcting.",
+            "In order that Titus may meet this disdain, he is enjoined to add the weight of his authority to his doctrine.",
+            "This confirms the remark which I made at the outset, that this Epistle was written to the inhabitants of Crete rather than to any single individual."
+        ],
+        "Archibald T. Robertson": [
+            "Assertion of authority is sometimes necessary.",
+            "Let no man think around thee (and so despise thee).",
+            "The best way for the modern minister to command respect for his 'authority' is to do thinking that will deserve it."
+        ],
+        "John Gill": [
+            "These things speak out clearly, plainly, publicly, boldly, and faithfully.\" ",
+            "Rebuke with all authority... in a grave and solemn manner, suitable to the dignity of the ministerial office and character.",
+            "Let no man despise thee;... an instruction to them to value Titus, and treat him with respect, and not with contempt."
+        ],
+        "John Wesley": [
+            "Let none have any just cause to despise thee.",
+            "Men who know not God will despise a true minister of his word."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Speak with such vigor and imperativeness, bringing gravitas to your exhortations and rebukes. Assert your authority and command respect, so that no one may think themselves above the need of admonition. Conduct yourself in such a way that every word you speak carries weight, leaving no room for anyone to despise you. Let your authority be known and recognized, so that your teaching and corrections may be met with the reverence they deserve. By doing so, you will benefit not only yourself but also those who hear your words, for even those who do not know God will have no choice but to respect a minister who speaks with such clarity and conviction.",
+            "wordCount": 113,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.8129099367688362,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "commentatorTierSimilarities": [
+                38.99,
+                28.62,
+                32.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Speak with vigor and authority, exhorting and rebuking with imperativeness. Let your conduct be such that no one can despise you, as you command respect through the weight of your words. Warn with authority, leaving no room for anyone to think they are above admonition. By doing so, you will prove yourself as a minister of God, deserving of universal respect. This clear and powerful communication is necessary to counter the disdain of those who do not understand the truths you teach.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8327518358138195,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.28,
+            "commentatorTierSimilarities": [
+                38.75,
+                29.04,
+                32.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Speak with vigor and authority, exhorting and rebuking with imperativeness. Let your conduct be such that no one can despise you, as you command respect through the weight of your words. Warn with authority, leaving no room for anyone to think they are above admonition. By doing so, you will prove yourself as a minister of God, deserving of universal respect. This clear and powerful communication is necessary to counter the disdain of those who do not understand the truths you teach.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8327518358138195,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.28,
+            "commentatorTierSimilarities": [
+                38.75,
+                29.04,
+                32.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Speak with vigor and authority, exhorting and rebuking with imperativeness. Let your conduct be such that no one can despise you, as you command respect through the weight of your words. Warn with authority, leaving no room for anyone to think they are above admonition. By doing so, you will prove yourself as a minister of God, deserving of universal respect. Your clear and powerful communication is key to counter the scorn of those who fail to grasp the truths you convey.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.8117636793841454,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+            "commentatorTierSimilarities": [
+                39.01,
+                28.81,
+                32.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Speak with vigor, exhorting and rebuking with imperativeness, so that your words command respect and leave no room for disdain. Conduct yourself in a manner that no one can despise you, as you assert your authority and warn with conviction. Prove yourself as a minister of God by communicating clearly and powerfully, countering the scorn of those who fail to grasp the truths you teach. Your ability to speak boldly and faithfully is essential in earning the respect even of those who do not know God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8967054145933933,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                36.7,
+                29.73,
+                33.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

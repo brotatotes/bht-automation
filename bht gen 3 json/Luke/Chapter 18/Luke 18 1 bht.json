@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:21:22",
+    "verseRef": "Luke 18:1",
+    "bestBHT": {
+        "bht": "Prayer is more than just an outward act; it is the earnest desire of the heart. We should always pray and not give in to discouragement, even when faced with overwhelming evil. It's important to persevere and not grow weary in our supplication to God, even when our prayers seem unanswered. Though the delay in receiving an answer may lead to doubt, we can trust that God graciously listens to our prayers, ensuring our ultimate success. Prayer serves as an antidote against fainting under difficult circumstances.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.0280034551970885,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.77,
+        "commentatorTierSimilarities": [
+            21.85,
+            31.22,
+            46.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The mind of prayer, rather than, though of course including, the outward act, is here intended.\" ",
+            "The earnest desire of the heart, is prayer.\" ",
+            "To faint;\u2014to languish,\u2014to give up through the weight of overpowering evil."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1-5. always\u2014Compare :-, \"night and day.\" ",
+            "\t",
+            "faint\u2014lose heart, or",
+            "\tslacken."
+        ],
+        "Albert Barnes": [
+            "Always - At all times. That is, we must not neglect regular stated seasons of prayer; we must seize on occasions of remarkable providences as afflictions or signal blessings to seek God in prayer; we must 'always' maintain a spirit of prayer.",
+            "Not to faint - Not to grow weary or give over. The parable is designed to teach us that, though our prayers should long appear to be unanswered, we should persevere, and not grow weary in supplication to God.",
+            "To this end - To show this."
+        ],
+        "Marvin Vincent": [
+            "With reference to its being necessary always to pray\" ",
+            "To turn coward or lose heart"
+        ],
+        "John Calvin": [
+            "Most properly, therefore, does Christ recommend to his disciples to persevere in praying.\" ",
+            "Not that by our prayers we gain a victory over God, and bend him slowly and reluctantly to compassion, but because the actual facts do not all at once make it evident that he graciously listens to our prayers.",
+            "If exhaustion and weakness are felt by us when we give way after a slight exertion, or if the ardor of prayer languishes because God appears to lend a deaf ear, let us rest assured of our ultimate success, though it may not be immediately apparent."
+        ],
+        "Philip Schaff": [
+            "To this end, not in order that, but to show, that they (the disciples) ought always to pray.\" ",
+            "The latter refers to the believer\u2019s prevailing frame of mind; this, to unwearied petition for the same object believed to be in accordance with God\u2019s will.",
+            "The danger of discouragement arises from the delay in receiving an answer, while the \u2018adversary\u2019 continues to harass."
+        ],
+        "Archibald T. Robertson": [
+            "With a view to the being necessary.",
+            "Not to faint. Literally, not to give in to evil, to turn coward, lose heart, behave badly.",
+            "A late verb used several times in the N.T."
+        ],
+        "John Gill": [
+            "[Jesus suggests] that a man should pray as often as he has an opportunity; should be constant and assiduous at the throne of grace, and continue putting up his requests to God, though he does not presently return an answer.",
+            "[Prayer] is an admirable antidote against fainting under afflictive providences.",
+            "This is not to be understood, that a man should be always actually engaged in the work of prayer; that he should be continually either in his closet, in private devotion to God, or attending exercises of more public prayer, with the saints; for there are other religious exercises to be performed, besides prayer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Prayer is not solely an outward act, but rather the earnest desire of the heart. It is important to continuously pray and not to lose heart or give up in the face of overwhelming evil. We must maintain a spirit of prayer at all times, not growing weary or discouraged, even when our prayers seem unanswered. The delay in receiving an answer can be discouraging, but we should persevere and trust that God graciously listens to our prayers, even if it's not immediately evident. Prayer is an antidote against fainting under afflictive providences, and we should seize every opportunity to come before the throne of grace, knowing that our ultimate success is assured.",
+            "wordCount": 114,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 2.0538899055794855,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                21.18,
+                30.37,
+                48.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Prayer is more than just an outward act; it is the earnest desire of the heart. We should always pray and not give in to discouragement, even when faced with overwhelming evil. It's important to persevere and not grow weary in our supplication to God, even when our prayers seem unanswered. Though the delay in receiving an answer may lead to doubt, we can trust that God graciously listens to our prayers, ensuring our ultimate success. Prayer serves as an antidote against fainting under difficult circumstances.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.0280034551970885,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.77,
+            "commentatorTierSimilarities": [
+                21.85,
+                31.22,
+                46.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Prayer goes beyond outward actions; it is the earnest desire of the heart. We must always pray and not give in to discouragement, even in the face of overpowering evil. Perseverance is essential, as we should never grow weary in our supplication to God, even when it seems our prayers go unanswered. Though there might be a delay in receiving answers, we can trust that God graciously hears our prayers. Through steadfast prayer, we find strength and resilience in challenging times.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.9943649046775551,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.65,
+            "commentatorTierSimilarities": [
+                21.69,
+                32.32,
+                45.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Prayer extends beyond mere outward actions; it stems from the earnest desire of the heart. We are called to pray continually, not succumbing to discouragement or giving up even amid overwhelming evil. It is crucial to persevere and not grow weary in our supplication to God, even if our prayers appear unanswered. Though delays might cause doubt, we can cling to the assurance that God attentively listens to our prayers. Through unwavering prayer, we discover the strength to endure challenging circumstances.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9747612190292938,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.0,
+            "commentatorTierSimilarities": [
+                20.24,
+                33.34,
+                46.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Prayer is not just an outward act; it is the earnest desire of the heart. We must always pray and not lose heart, even when facing overwhelming evil. Perseverance is crucial, as we should never grow weary in our supplication to God, even if our prayers seem unanswered. Though there may be a delay in receiving answers, we can trust that God graciously hears and responds. Prayer is our antidote against fainting in difficult times, providing us with strength and endurance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.9698310591174502,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                22.05,
+                30.84,
+                47.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

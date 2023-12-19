@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:30:38",
+    "verseRef": "Acts 13:15",
+    "bestBHT": {
+        "bht": "When Paul stood up in the synagogue, he beckoned with his hand to get the attention of the people. The rulers of the synagogue, responsible for directing the worship, sent a message to Paul and Barnabas, assuming they would want to address their fellow Jews. This was a common practice, inviting speakers with any word of exhortation or comfort. It seems that the divisions of the law and prophets were not yet arranged as they would later be when they were read in the synagogues.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 2.152363242034719,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.91,
+        "commentatorTierSimilarities": [
+            29.98,
+            39.45,
+            30.57
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The divisions of the law and prophets at present in use among the Jews were probably not yet arranged.",
+            "When the Maccabees restored the reading of the Law, that of the Prophets continued as well.",
+            "The message was probably sent to them as having previously to this taught in the city, and thus being known to have come for that purpose."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Then Paul stood up, and beckoning with his hand.\" (Acts 13:15) ",
+            "Men of Israel, and ye that fear God.\" (Acts 13:16) ",
+            "And exalted the people when they dwelt as strangers in Egypt.\" (Acts 13:17)"
+        ],
+        "Albert Barnes": [
+            "The rulers of the synagogue - Those were persons who had the general charge of the synagogue and its service, to keep everything in order, and to direct the affairs of public worship.\" ",
+            "Seeing that Paul and Barnabas were Jews, though strangers, they sent to them, supposing it probable that they would wish to address their brethren.",
+            "Men and brethren - An affectionate manner of commencing a discourse, recognizing them as their own countrymen, and as originally of the same religion."
+        ],
+        "Marvin Vincent": [
+            "Exhortation. See on ch. Acts 9:31."
+        ],
+        "John Calvin": [
+            "The law and the prophets had the first place; because there must nothing be set before the Church which was not drawn out of that fountain.",
+            "We know how corrupt the state of that people was then... for which cause such evil favored confusion is so much the more shame fill which is seen at this day among those who will be counted Christians.",
+            "An exhortation doth not exclude doctrine. But it seemeth that this word was commonly used among them; because it is properly the office of the teacher to utter no new thing of his own brain, but to apply the Scripture... unto the present use of the people."
+        ],
+        "Archibald T. Robertson": [
+            "The law was first read in the synagogues till B.C. 163 when Antiochus Epiphones prohibited it. Then the reading of the prophets was substituted for it.",
+            "It was the duty of the rulers of the synagogue to select the readers and the speakers for the service.",
+            "If there is among you any word of exhortation for the people... a polite invitation."
+        ],
+        "John Gill": [
+            "The five books of Moses, which are meant by the law, were divided into sections: Genesis was divided into twelve, Exodus into eleven, Leviticus into ten, Numbers into ten, and Deuteronomy into ten... by reading one on each sabbath, and two on one day, they read through the whole law in the course of a year.\" ",
+            "When Antiochus Epiphanes burnt the book of the law, and forbad the reading of it, the Jews in the room of it selected some passages out of the prophets, which they thought came nearest in words and sense to the sections of the law, and read them in their stead.",
+            "If they were prepared to preach, or had anything upon their minds to say to the people; or if they had... 'any word of exhortation or comfort' in them... they had leave and liberty to speak it to the people."
+        ],
+        "John Wesley": [
+            "The law was read over once every year, a portion of it every Sabbath: to which was added a lesson taken out of the prophets.",
+            "After this was over, anyone might speak to the people, on any subject he thought convenient.",
+            "Yet it was a circumstance of decency which Paul and Barnabas would hardly omit, to acquaint the rulers with their desire of doing it: probably by some message before the service began."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Paul stood up in the synagogue, he beckoned with his hand to get the attention of the people. The rulers of the synagogue, who were in charge of keeping order and directing the worship, sent a message to Paul and Barnabas, recognizing them as fellow Jews and assuming they would want to address their brethren. This was a common practice, as there was a custom of inviting people to speak if they had any word of exhortation or comfort for the people. The law and prophets were typically read in the synagogues, but in this case, it seems that the divisions of the law and prophets were not yet arranged as they would later be.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 2.2520456742214265,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+            "commentatorTierSimilarities": [
+                27.94,
+                39.72,
+                32.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the synagogue, Paul stood up and beckoned with his hand to speak. The rulers of the synagogue, responsible for the order and worship, sent a message to Paul and Barnabas, assuming they would want to address their fellow Jews. This was a common practice, inviting speakers who had any word of exhortation or comfort. The reading of the law and prophets in the synagogues was not yet arranged as it would later be.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1363372610369216,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.37,
+            "commentatorTierSimilarities": [
+                32.18,
+                36.69,
+                31.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the synagogue, Paul stood up and beckoned with his hand to speak. The rulers of the synagogue, responsible for the order and worship, sent a message to Paul and Barnabas, assuming they would want to address their fellow Jews. This was a common practice, inviting speakers who had any word of exhortation or comfort. The reading of the law and prophets in the synagogues was not yet arranged as it would later be.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1363372610369216,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.37,
+            "commentatorTierSimilarities": [
+                32.18,
+                36.69,
+                31.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Paul stood up in the synagogue, he beckoned with his hand to get the attention of the people. The rulers of the synagogue, who were in charge of keeping order and directing the worship, sent a message to Paul and Barnabas, recognizing them as fellow Jews and assuming they would want to address their brethren. This was a common practice, as there was a custom of inviting people to speak if they had any word of exhortation or comfort for the people. The law and prophets were typically read in the synagogues, but in this case, it seems that the divisions of the law and prophets were not yet arranged as they would later be.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 2.2520456742214265,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+            "commentatorTierSimilarities": [
+                27.94,
+                39.72,
+                32.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Paul stood up in the synagogue, he beckoned with his hand to get the attention of the people. The rulers of the synagogue, responsible for directing the worship, sent a message to Paul and Barnabas, assuming they would want to address their fellow Jews. This was a common practice, inviting speakers with any word of exhortation or comfort. It seems that the divisions of the law and prophets were not yet arranged as they would later be when they were read in the synagogues.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.152363242034719,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.91,
+            "commentatorTierSimilarities": [
+                29.98,
+                39.45,
+                30.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

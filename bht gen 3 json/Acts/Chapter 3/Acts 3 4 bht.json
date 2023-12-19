@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:25:41",
+    "verseRef": "Acts 3:4",
+    "bestBHT": {
+        "bht": "Moving in response to the prompting of God's Spirit, Peter fixed his eyes intently on the beggar, inviting him to look in the same manner. This fixed gaze was not without the guidance of the Holy Spirit; it was a deliberate action to assist in the birth of faith. As ministers of God's power, they did not act according to their own motives, but rather, the Lord worked through them when necessary. Peter's certainty stemmed from divine insight, ensuring the success of the miraculous healing.",
+        "wordCount": 88,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.9620731132991391,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+        "commentatorTierSimilarities": [
+            37.2,
+            35.12,
+            27.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peter would not have thus spoken without being certain of the design of God; and his words command the man to look for some singular and unusual benefit.",
+            "Their ministration of divine influence did not empower them to attempt anything of their own will or motive, but the Lord wrought by them when He saw it expedient.",
+            "Before Peter orders the lame man to rise, he cast and fixed his eyes on him. That look was not without the express prompting of God's Spirit, and hence it was that he spoke with such certainty of the waning miracle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Peter fastening his eyes on him with John, said, Look on us.\" ",
+            "And he gave heed\u2014that, through the eye, faith might be aided in its birth."
+        ],
+        "Albert Barnes": [
+            "Fastening his eyes - The word used here denotes 'to look intently, or with fixed attention.'\" ",
+            "It is used by no other writer in the New Testament, except twice by Paul.",
+            "All this Was done to fix the attention."
+        ],
+        "Marvin Vincent": [
+            "Fastening his eyes [\u03b1\u03c4\u03b5\u03bd\u03b9\u03c3\u03b1\u03c2] . See on Luke 4:20; and compare Acts 1:10. ",
+            "Look [\u03b2\u03bb\u03b5\u03c8\u03bf\u03bd] . Attentively. See on Matthew 7:3."
+        ],
+        "John Calvin": [
+            "Peter doth not thus speak before he be certain of the purpose and intent of God.",
+            "They were ministers of God\u2019s power in such sort, that they did attempt nothing of their own will or proper motion, but the Lord wrought by them, when he knew that it was expedient it should be so.",
+            "Hereby it cometh to pass that he speaketh so surely (and safely, without all fear) of the miracle."
+        ],
+        "Philip Schaff": [
+            "They were so exclusively ministers of the Divine power that they attempted nothing of their own will, and the Lord worked through them whenever it was expedient.",
+            "Hence it happened they healed one sufferer not all sufferers promiscuously, for the Holy Spirit guided them here just as in other matters.",
+            "Peter, in answer to the poor cripple\u2019s prayer for alms, moved by the Holy Ghost, fixes his earnest gaze on him, to discover if he were worthy of the glorious gift of health he had to bestow."
+        ],
+        "Archibald T. Robertson": [
+            "Peter fixed his eyes on the beggar and invited him to look (\u03b2\u03bb\u03b5\u03c8\u03bf\u03bd) on them.\" ",
+            "Fastening his eyes (\u03b1\u03c4\u03b5\u03bd\u03b9\u03c3\u03b1\u03c2)... Peter fixed his eyes on the beggar.",
+            "Peter fixed his eyes on the beggar and invited him to look on them."
+        ],
+        "John Gill": [
+            "Peter ... looking very wistly and intently at him",
+            "said, look on us",
+            "The Jews speak of a supernatural cure effected in such a manner"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, guided by the prompting of God's Spirit, fixed his eyes on the beggar and invited him to look intently on them. This look was not without divine influence; it was a deliberate action to aid the birth of faith. Peter's certainty in performing the miraculous healing was a result of being certain of God's purpose and intent. As ministers of God's power, Peter and the apostles knew that their actions were not of their own will, but rather the Lord worked through them when it was expedient. By fixedly looking at the beggar, Peter sought to determine the man's worthiness of the gift of health that he had to bestow. Ultimately, this supernatural cure was an expression of God's power working through His chosen instruments.",
+            "wordCount": 132,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 1.9821688217731421,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                37.37,
+                31.61,
+                31.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moved by the Holy Ghost, Peter fixed his eyes on the beggar and invited him to look intently on them, as he knew the purpose and intent of God. This deliberate action, prompted by the Spirit, aimed to aid the birth of faith. Ministers of God's power, they did not act out of their own will, but rather the Lord worked through them as He saw fit. The fixed gaze was to determine the beggar's worthiness of the glorious gift of health. This supernatural cure showcased God's power at work.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7956035268251598,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+            "commentatorTierSimilarities": [
+                37.06,
+                34.14,
+                28.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moving in response to the prompting of God's Spirit, Peter fixed his eyes intently on the beggar, inviting him to look in the same manner. This fixed gaze was not without the guidance of the Holy Spirit; it was a deliberate action to assist in the birth of faith. As ministers of God's power, they did not act according to their own motives, but rather, the Lord worked through them when necessary. Peter's certainty stemmed from divine insight, ensuring the success of the miraculous healing.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.9620731132991391,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                37.2,
+                35.12,
+                27.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Guided by the Holy Spirit, Peter fixed his eyes intently on the beggar, inviting him to look at them for a singular benefit. This deliberate action was not of his own will, but rather a result of God's design. As ministers of divine influence, they did not act independently, but the Lord worked through them when it was expedient. The fixed gaze was prompted by the Spirit, aiding the birth of faith and leading to the powerful miracle of healing.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.925057984329645,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                35.86,
+                36.9,
+                27.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, prompted by the Spirit, fixed his eyes on the beggar and invited him to attentively look at them. This intentional gaze was not without divine influence, serving to aid the birth of faith. The certainty in performing the miracle stemmed from being certain of God's purpose and intent. As ministers of God's power, they did not act on their own will, but rather, the Lord worked through them when it was fitting. This supernatural cure showcased the wondrous workings of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.856180167311993,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+            "commentatorTierSimilarities": [
+                36.47,
+                31.48,
+                32.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:33:58",
+    "verseRef": "Acts 19:33",
+    "bestBHT": {
+        "bht": "As the chaos unfolded in Ephesus, the Jews put Alexander forward, likely to distance themselves from the riot and show their opposition to Paul and his followers. Alexander, whether a Christian convert or a member of the Jewish community, sought to defend his people by gesturing and beckoning for attention. This scene serves as a reminder to believers to walk carefully, guarding against apostasy like Alexander, who later became a venomous adversary of the apostle.",
+        "wordCount": 75,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.10347816445175,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.28,
+        "commentatorTierSimilarities": [
+            22.6,
+            39.53,
+            37.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "drew forth] i.e. urged forward, through the crowd; the Jews pushing him on from behind.",
+            "Alexander does not seem to be mentioned elsewhere (but see on 2 Tim. iv. 14).",
+            "He appears to have been a Christian convert from Judaism, whom the Jews were willing to expose as a victim to the fury of the mob: or perhaps one of themselves, put forward to clear them of blame on the occasion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the blame of such a tumult would naturally be thrown upon the Jews, who were regarded by the Romans as the authors of all religious disturbances, they seem to have put forward this man to clear them of all responsibility for the riot.",
+            "Beckoned with the hand.",
+            "Would have made his defense\u2014offered to speak in defense."
+        ],
+        "Albert Barnes": [
+            "It would be supposed by the pagan that the Christians Were only a sect of the Jews, and the Jews wished, doubtless, to show that they had not been concerned in giving occasion to this tumult, but that it was to be traced wholly to Paul and his friends.",
+            "The Jews putting him forward - That he might have a convenient opportunity to speak to the people.",
+            "The translation should have been 'a defense.'"
+        ],
+        "Marvin Vincent": [
+            "They drew [\u03c0\u03c1\u03bf\u03b5\u03b2\u03b9\u03b2\u03b1\u03c3\u03b1\u03bd] . More correctly, urged forward. See on before instructed, Matthew 14:8."
+        ],
+        "John Calvin": [
+            "But and if we believe that it is he, let us learn by this fearful example to walk circumspectly, lest Satan carry us away into like falling away [defection].",
+            "For we see that he who was at the point to suffer martyrdom, became a treacherous and wicked revolt [apostate].",
+            "Let us learn by this fearful example to walk circumspectly."
+        ],
+        "Philip Schaff": [
+            "The abrupt way in which this man is introduced into the narrative by the writer, seems to indicate that 'Alexander' was no unknown name to the brethren of the Church of the first days.",
+            "If we identify him with that 'Alexander the coppersmith' whose bitter and relentless hostility to Paul won him that solitary notice in the last epistle of the apostle (see 2 Timothy 4:14), then the abrupt mention here of 'Alexander' is explained.",
+            "The Jews on this occasion, well aware of the dislike and mistrust with which they were generally regarded by the Gentile populations among whom they dwelt, fearful lest they as was only too probable should be confounded with Paul and his disciples, put forward one of their people to explain to the Ephesians that the Jews, far from being inculpated with Paul and his school, hated these men with a hatred equal to or even greater than theirs."
+        ],
+        "Archibald T. Robertson": [
+            "The correct text (Aleph A B) has this verb \u03c3\u03c5\u03bd\u03b5\u03b2\u03b9\u03b2\u03b1\u03c3\u03b1\u03bd (from \u03c3\u03c5\u03bd\u03b2\u03b9\u03b2\u03b1\u03b6\u03c9, to put together) instead of \u03c0\u03c1\u03bf\u03b5\u03b2\u03b9\u03b2\u03b1\u03c3\u03b1\u03bd (from \u03c0\u03c1\u03bf\u03b2\u03b9\u03b2\u03b1\u03b6\u03c9, to put forward).",
+            "The Jews were as strongly opposed to idolatry as were the Christians.",
+            "Beckoned with the hand (\u03ba\u03b1\u03c4\u03b1\u03c3\u03b5\u03b9\u03c3\u03b1\u03c2 \u03c4\u03b7\u03bd \u03c7\u03b5\u03b9\u03c1\u03b1). Old verb \u03ba\u03b1\u03c4\u03b1\u03c3\u03b5\u03b9\u03c9, to shake down, here the hand, rapidly waving the hand up and down to get a hearing."
+        ],
+        "John Gill": [
+            "Some think this is the same with Alexander the coppersmith, who apostatized upon this danger he was exposed to, and became a blasphemer, and a great enemy of the apostle, and did him much evil.\" ",
+            "The Jews putting him forward... pitched upon him as a proper person to still the uproar.",
+            "which looks as if he was a Christian, or at least was charged with being one, and was in danger of his life on that account; and therefore was desirous of being heard."
+        ],
+        "John Wesley": [
+            "Alexander - Probably some well-known Christian whom they saw in the crowd: the Jews pushing him on - To expose him to the more danger.",
+            "And Alexander waving with his hand \u2014 In token of desiring silence, would have made a defence - For himself and his brethren.",
+            ""
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 19:33, the crowd in Ephesus is in an uproar, and the Jews put Alexander forward to clear themselves of blame for the riot. Alexander, a possible Christian convert, tried to make a defense for himself and the Jews by urging forward through the crowd and beckoning with his hand. It is likely that the Jews wanted to show that they were not responsible for the chaos and that the Christians were distinct from them. This incident serves as a cautionary example for believers to be careful and walk circumspectly, avoiding falling away like Alexander, who later apostatized and became a great enemy of the apostle.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 2.1537955590012103,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.95,
+            "commentatorTierSimilarities": [
+                24.96,
+                38.01,
+                37.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of the uproar in Ephesus, the Jews pushed Alexander forward to defend themselves and prove their innocence in the chaos. Alexander, possibly a Christian convert from Judaism, attempted to make a defense by urging forward and beckoning with his hand. This event serves as a warning to believers, reminding them to walk cautiously, as Alexander later apostatized and became a fierce opponent of the apostle.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.0507168539756613,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                24.76,
+                35.46,
+                39.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the commotion in Ephesus, the Jews sought to absolve themselves of any responsibility for the riot and pushed Alexander forward. It is unclear whether Alexander was a Christian convert or one of their own, but he was willing to speak in defense of the Jews. Beckoning with his hand, he urged forward through the crowd, possibly hoping to exonerate his fellow brethren. This incident serves as a cautionary example, reminding believers to be watchful and diligent in their faith, lest they also fall away like Alexander.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.0358017435853797,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                26.61,
+                35.49,
+                37.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the chaos unfolded in Ephesus, the Jews put Alexander forward, likely to distance themselves from the riot and show their opposition to Paul and his followers. Alexander, whether a Christian convert or a member of the Jewish community, sought to defend his people by gesturing and beckoning for attention. This scene serves as a reminder to believers to walk carefully, guarding against apostasy like Alexander, who later became a venomous adversary of the apostle.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.10347816445175,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.28,
+            "commentatorTierSimilarities": [
+                22.6,
+                39.53,
+                37.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of the uproar in Ephesus, the Jews pushed Alexander forward to defend themselves and absolve their responsibility for the riot. Alexander, either a Christian convert or one of their own, attempted to make a defense by urging forward through the crowd and beckoning with his hand. The Jews wanted to show that they were not implicated with Paul and his disciples and despised them just as much. This incident serves as a cautionary example for believers to be vigilant and avoid falling away like Alexander.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.022736358373302,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                25.28,
+                36.65,
+                38.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

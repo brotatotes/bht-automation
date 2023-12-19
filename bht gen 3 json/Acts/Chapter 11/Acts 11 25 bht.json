@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:30:30",
+    "verseRef": "Acts 11:25",
+    "bestBHT": {
+        "bht": "Barnabas likely did not spend much time before his ministry began, and a few months may have sufficed for preaching in Syria and Cilicia. As co-pastors in Antioch, Barnabas and Saul labored so that the Gospel achieved a name that will be gloried in. The disciples were first called Christians in Antioch, a name that originated outside the Church but honored and glorified Christ. Barnabas sought Saul, who was known for his work with the Hellenists in Jerusalem, and the call of Barnabas mirrored the call of Christ.",
+        "wordCount": 89,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.025041017302685,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+        "commentatorTierSimilarities": [
+            27.11,
+            32.14,
+            40.76
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Speaking from probability, it seems very unlikely that any considerable portion of time should have been spent by him before the great work of his ministry began.\" ",
+            "Even supposing him during this retirement to have preached in Syria and Cilicia,\u2014judging by the analogy of his subsequent journeys, a few months at the most would have sufficed for this.",
+            "For my own view, see Introduction to Acts,\u00a76."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As co-pastors, for the time being, of the Church there, they so labored that the Gospel, even in that great and many-sided community, achieved for itself a name which will live and be gloried in as long as this world lasts, as the symbol of all that is most precious to the fallen family of man: 'The disciples were called CHRISTIANS first in Antioch.'\" ",
+            "This name originated not within, but without, the Church; not with their Jewish enemies, by whom they were styled 'Nazarenes,' but with the heathen in Antioch, and with the Romans, not the Greeks there.",
+            "It was not at first used in a good sense... but as it was a noble testimony to the light in which the Church regarded Christ\u2014honoring Him as their only Lord and Saviour, dwelling continually on His name, and glorying in it\u2014so it was felt to be too apposite and beautiful to be allowed to die."
+        ],
+        "Albert Barnes": [
+            "Why Barnabas sought Saul is not known. It is probable, however, that it was owing to the remarkable success which he had in Antioch.",
+            "In such times the ministers of the gospel need additional help, as men in harvest-time need the aid of others.",
+            "Saul was in this vicinity ... and he was eminently suited to assist in this work."
+        ],
+        "Marvin Vincent": [
+            "To seek [\u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03b7\u03c3\u03b1\u03b9] . Strictly, like our \"hunt up\" [\u03b1\u03bd\u03b1] ."
+        ],
+        "John Calvin": [
+            "Barnabas\u2019 simplicity is commended to us now the second time, that whereas he might have borne the chiefest swing at Antioch, yet went he into Cilicia that he might fetch Paul thence, who he knew should be preferred before him.",
+            "Therefore we see how, forgetting himself, he respecteth nothing but that Christ may be chief; how he setteth before his eyes the edifying of the Church alone; how he is content with the prosperous success of the gospel.",
+            "Therefore, Barnabas is no whit afraid lest Paul do any whit debase him by his coming, so he glorify Christ."
+        ],
+        "Philip Schaff": [
+            "We have no information regarding the length of time he spent at Tarsus, or his manner of employment when there.",
+            "It is evident that the future Apostle of the Gentiles was by no means lost sight of by the Church, but that the resuming of his active public work was earnestly desired.",
+            "The character of Barnabas is at this point set before us in a most attractive light, in that he brought out of retirement one whose eminence was sure to supersede and eclipse his own."
+        ],
+        "Archibald T. Robertson": [
+            "He [Saul] knew, of course, of Saul's work with the Hellenists in Jerusalem and echoes of his work in Cilicia and Syria had probably come to him.\" ",
+            "The door was open and the man was ready, far more ready than when Jesus called him on the road to Damascus.",
+            "God always has a man prepared for a great emergency in the kingdom. The call of Barnabas was simply the repetition of the call of Christ."
+        ],
+        "John Gill": [
+            "Then departed Barnabas to Tarsus\" - Barnabas departed to Tarsus.",
+            "In Cilicia to seek Saul\" - Seeking Saul, he went to Cilicia.",
+            "Who had been sent thither by the brethren\" - For his safety, Saul had been sent there by the brethren."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is unlikely that a significant amount of time was spent by Barnabas before his ministry began, and a few months would have sufficed for any preaching he may have done in Syria and Cilicia. As co-pastors in Antioch, Barnabas and Saul labored to spread the Gospel and the disciples were called Christians as a result. Although the name initially had negative connotations, it became a beautiful testimony to the Church's regard for Christ. Barnabas sought Saul, who was already known for his work with the Hellenists in Jerusalem, and the call of Barnabas mirrored the call of Christ, as God always has someone prepared for great emergencies in the kingdom. It is probable that Barnabas sought Saul due to his remarkable success, and in times like these, ministers need additional help. Barnabas saw in Saul someone suited to assist in the work, and Saul's public work was earnestly desired. Barnabas, in his humility, brought out of retirement one whose eminence would surpass his own, showing his selflessness and commitment to Christ being chief. Barnabas left for Tarsus to find Paul, who had been sent there for his safety by the brethren.",
+            "wordCount": 195,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.0580580693880424,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.77,
+            "commentatorTierSimilarities": [
+                24.53,
+                35.72,
+                39.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It seems unlikely that Barnabas spent much time before his ministry began, and he may have preached in Syria and Cilicia for only a few months. As co-pastors in Antioch, they labored so that the Gospel achieved a name that will be gloried in. The disciples were called Christians in Antioch, a name that initially had negative connotations but became a beautiful testimony to the Church's regard for Christ. Barnabas sought Saul, who was known for his work with the Hellenists in Jerusalem, and the call of Barnabas mirrored the call of Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.9879565164472366,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "commentatorTierSimilarities": [
+                29.66,
+                31.01,
+                39.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is unlikely that Barnabas spent much time before his ministry began, and a few months would have sufficed for any preaching in Syria and Cilicia. As co-pastors in Antioch, they labored to achieve a name for the Gospel. The disciples were called Christians in Antioch, a name that originated outside the Church but honored and glorified Christ. Barnabas sought Saul due to his remarkable success, and his call echoed the call of Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.9619531776769095,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                29.22,
+                31.89,
+                38.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Barnabas likely did not spend much time before his ministry began, and a few months may have sufficed for preaching in Syria and Cilicia. As co-pastors in Antioch, Barnabas and Saul labored so that the Gospel achieved a name that will be gloried in. The disciples were first called Christians in Antioch, a name that originated outside the Church but honored and glorified Christ. Barnabas sought Saul, who was known for his work with the Hellenists in Jerusalem, and the call of Barnabas mirrored the call of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.025041017302685,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+            "commentatorTierSimilarities": [
+                27.11,
+                32.14,
+                40.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Barnabas likely didn't spend much time before his ministry began, and a few months could have sufficed for preaching in Syria and Cilicia. As co-pastors in Antioch, they labored to establish a name for the Gospel. The disciples were called Christians in Antioch, a name that originated outside the Church but came to honor and glorify Christ. Barnabas sought Saul, known for his work with the Hellenists, and his call echoed Christ's calling.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9707213104858572,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                29.3,
+                30.67,
+                40.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

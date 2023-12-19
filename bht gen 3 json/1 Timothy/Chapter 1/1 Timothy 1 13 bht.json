@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:28:22",
+    "verseRef": "1 Timothy 1:13",
+    "bestBHT": {
+        "bht": "In recognizing his previous life of blasphemy and persecution, the apostle Paul humbly acknowledges that he obtained mercy from God. This juxtaposition magnifies the abundance of God's grace, surpassing Paul's own undeserving nature. While his ignorance did not erase his sin, it left room for the possibility of mercy. This newfound understanding deepens Paul's empathy and optimism for others, as he reflects on the times of ignorance that God overlooked in his own life.",
+        "wordCount": 77,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.9984391747337438,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+        "commentatorTierSimilarities": [
+            26.44,
+            36.54,
+            37.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I obtained mercy\u2014God's mercy, and Paul's want of it, stand in sharp contrast.",
+            "Those who have felt mercy can best have mercy on those out of the way.",
+            "Ignorance does not in itself deserve pardon; but it is a less culpable cause of unbelief than pride and wilful hardening of one's self against the truth."
+        ],
+        "Albert Barnes": [
+            "The sinner will yet feel the deepest self-reproaches for that which now gives us no uneasiness.",
+            "What is said here, therefore, accords with what the Saviour said in his prayer for his murderers; 'Father, forgive them, for they know not what they do.'",
+            "The ignorance is not a reason why God should bestow mercy on such persons, rather than on others left to perish, but a reason why they obtain mercy at all, who, by their blasphemies had been supposed to have reached the sin against the Holy Spirit."
+        ],
+        "Marvin Vincent": [
+            "Blasphemer - persecutor - injurious [\u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03bf\u03bd - \u03b4\u03b9\u03c9\u03ba\u03c4\u03b7\u03bd - \u03c5\u03b2\u03c1\u03b9\u03c3\u03c4\u03b7\u03bd] .",
+            "Paul was uJbristhv when he persecuted the church.",
+            "In speaking of his conversion, Paul uses cariv grace."
+        ],
+        "John Calvin": [
+            "We see how candidly he acknowledges that it might be brought against him as a reproach, and how far he is from extenuating his sins, and how, by willingly acknowledging his unworthiness, he magnifies the greatness of the grace of God.",
+            "Not satisfied with having called himself a 'persecutor,' he intended to express more fully his rage and cruelty by an additional term, an oppressor.",
+            "Thus he was an adversary of Christ, not from deliberate intention, but through mistake and ignorance."
+        ],
+        "Philip Schaff": [
+            "A blasphemer . . . Probably in both senses of the word, as implying (1) violent and railing speech against men, (2) actual blasphemy against the Name which be now recognised as above every name.\" ",
+            "Because I did it ignorantly. From one point of view St. Paul looked upon his past state as one in which he had been as \u2018the chief of sinners.\u2019 Yet, on the other hand, his eyes had not been opened, he had not sinned wilfully against a light clearly seen, and so the sin was one of ignorance leading to unbelief; and thus mercy, though he could not claim it as deserved, was still possible.",
+            "And the view which he thus took of God\u2019s dealings with himself enlarged his sympathies and made him more hopeful for others. We cannot fail to hear the echoes of his own experience when he speaks of \u2018the times of ignorance which God winked at.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Before (\u03c4\u03bf \u03c0\u03c1\u03bf\u03c4\u03b5\u03c1\u03bf\u03bd). Accusative of general reference of the articular comparative, 'as to the former-time,' formerly.",
+            "Blasphemer (\u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03bf\u03bd). Old word either from \u03b2\u03bb\u03b1\u03be (stupid) and \u03c6\u03b7\u03bc\u03b7, speech, or from \u03b2\u03bb\u03b1\u03c0\u03c4\u03c9, to injure.",
+            "I obtained mercy (\u03b5\u03bb\u03b5\u03b7\u03b8\u03b7\u03bd). First aorist passive indicative of \u03b5\u03bb\u03b5\u03b5\u03c9, old verb. See 2 Corinthians 4:1; Romans 11:30."
+        ],
+        "John Gill": [
+            "This, as well as what follows, is said, to illustrate the grace of God in his conversion, and call to the ministry.",
+            "God had mercy on him when he was in the career of his sin, and stopped him; and of his abundant mercy begat him again to a lively hope of forgiveness and eternal life.",
+            "In the midst of his sins, and in the full pursuit of them, the grace of God laid hold upon him, and mercy was shown him."
+        ],
+        "John Wesley": [
+            "A blasphemer \u2014 Of Christ.",
+            "A persecutor \u2014 Of his church.",
+            "A reviler \u2014 Of his doctrine and people.\" ",
+            "But I obtained mercy \u2014 He does not say, because I was unconditionally elected; but because I did it in ignorance.",
+            "Not that his ignorance took away his sin; but it left him capable of mercy; which he would hardly have been, had he acted thus contrary to his own conviction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In reflection of a past life filled with blasphemy and persecution, the apostle Paul proclaims that he obtained mercy from God. This contrast of God's mercy against Paul's previous lack thereof emphasizes the transformative power of God's grace. Paul acknowledges that ignorance does not justify his actions, but it is a less culpable source of unbelief compared to pride and deliberate rejection of the truth. His ignorance allowed for the possibility of mercy, despite his sins against God and the Church. Through his conversion, Paul experiences the lavishness of God's grace and recognizes the times of ignorance that God overlooked. This realization of God's mercy enlarges Paul's sympathies and fosters hopefulness for others.",
+            "wordCount": 119,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 2.021367051949073,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                28.5,
+                33.99,
+                37.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In recognizing his previous life of blasphemy and persecution, the apostle Paul humbly acknowledges that he obtained mercy from God. This juxtaposition magnifies the abundance of God's grace, surpassing Paul's own undeserving nature. While his ignorance did not erase his sin, it left room for the possibility of mercy. This newfound understanding deepens Paul's empathy and optimism for others, as he reflects on the times of ignorance that God overlooked in his own life.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9984391747337438,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+            "commentatorTierSimilarities": [
+                26.44,
+                36.54,
+                37.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the context of his past as a blasphemer and persecutor, the apostle Paul gratefully admits that he obtained mercy from God, showcasing the stark difference between God's mercy and his previous lack of it. Paul highlights the connection between experiencing mercy and being able to show mercy to those who have gone astray. Although ignorance alone does not warrant pardon, it is a less reprehensible cause of unbelief than deliberate rejection of the truth. This acknowledgment underscores the immense significance of God's grace and its transformative power in Paul's life.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.9807898805164628,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                30.39,
+                34.25,
+                35.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Acknowledging his past as a blasphemer and persecutor, the apostle Paul gratefully admits to obtaining mercy from God. This stark contrast between God's mercy and Paul's previous lack thereof illustrates the transformative power of grace. Although ignorance alone does not deserve pardon, it is considered a less culpable cause of unbelief than deliberate rejection of truth. Paul's experience of mercy enlarges his sympathies and instills hopefulness for others. Reflecting on the times of ignorance overlooked by God, Paul recognizes the immense significance of God's grace in his life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9886440924230468,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                30.75,
+                34.83,
+                34.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In light of his past as a blasphemer and persecutor, Paul humbly acknowledges receiving mercy from God. This stark contrast between God's mercy and his previous ways emphasizes the transformative power of grace. Though ignorance alone does not deserve pardon, it holds less culpability for unbelief compared to deliberate rejection of truth. Paul's experience of mercy enlarges his sympathies and instills hope for others. Reflecting on the times of ignorance overlooked by God, Paul recognizes the immense significance of His grace in his life.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.9864831417836557,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                29.85,
+                33.9,
+                36.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

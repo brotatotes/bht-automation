@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:38:33",
+    "verseRef": "2 Thessalonians 3:14",
+    "bestBHT": {
+        "bht": "When facing a believer who persistently disobeys, the instruction is clear: mark that person, and withdraw from them. By noticing their behavior and putting a tag on them, they may be made to turn and look into themselves, feeling ashamed of their actions. This is not to give up on them, but to withhold Christian fellowship in the hope that they will be touched with shame and led to repentance.",
+        "wordCount": 70,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 1.8606609517279664,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+        "commentatorTierSimilarities": [
+            28.07,
+            36.12,
+            35.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14. mark] The ordinary meaning of the word: put a mark on him, by noticing him for the sake of avoidance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Note that man\u2014mark him in your own mind as one to be avoided.",
+            "Made to turn and look into himself, and so be put to shame.",
+            "Feeling himself shunned by godly brethren, he may become ashamed of his course."
+        ],
+        "Albert Barnes": [
+            "The requirement was to proceed to discipline such a man by withdrawing from him.",
+            "Set such a mark upon him that he shall be shunned; that is, withdraw all Christian fellowship from him.",
+            "They were not to mingle with him as a Christian brother, or as one of their own number."
+        ],
+        "Marvin Vincent": [
+            "By this epistle. Connect with our word. The message we send in this letter.",
+            "Have no company with [\u03bc\u03b7 \u03c3\u03c5\u03bd\u03b1\u03bd\u03b1\u03bc\u03b9\u03b3\u03bd\u03c5\u03c3\u03b8\u03b1\u03b9] . P o. See on 1 Corinthians 5:9.",
+            "Be ashamed [\u03b5\u03bd\u03c4\u03c1\u03b1\u03c0\u03b7] . See on Matthew 21:37, and 1 Corinthians 4:14."
+        ],
+        "John Calvin": [
+            "He desires that they be reported to him, that he may repress them by his authority; and... orders them to be excommunicated, that, being touched with shame, they may repent.",
+            "He had said before, Withdraw yourselves from them... Now he says, Keep no company... He excludes from the common society of believers.",
+            "Paul touches upon this one merely \u2014 that those who have sinned may by shame be constrained to repentance... Shame, like sorrow, is a useful preparation for hatred of sin."
+        ],
+        "Philip Schaff": [
+            "The first step was to discriminate between those who obeyed and those who did not; the second was to brand the disobedient.",
+            "At first sight the term employed might seem to indicate only the avoidance of intercourse in business and social life with the offender, and not the extreme ecclesiastical censure of excommunication.",
+            "But they were not to give him up as lost; they were to watch for the good results of this treatment."
+        ],
+        "Archibald T. Robertson": [
+            "Put a tag on that man.\" ",
+            "That ye have no company with him.\" ",
+            "The idea is to have one's thoughts turned in on oneself."
+        ],
+        "John Gill": [
+            "But by the black mark of excommunication; lay him under censure, exclude him from your communion, put a brand upon him as a scabbed sheep, and separate him from the flock.",
+            "And have no company with him; as little as can be in common and civil conversation, lest he should take encouragement from thence to continue in his sin, and lest others should think it is connived at.",
+            "That he may be ashamed; that he may have his eyes turned in him, as the word signifies, and he may be brought to a sight and sense of his sin, and be filled with shame for it, and loath it, and himself on the account of it, and truly repent of it, and forsake it."
+        ],
+        "John Wesley": [
+            "Have no company with him \u2014 No intimacy, no familiarity, no needless correspondence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When faced with a believer who persistently disobeys, the instruction is clear: mark that person, notice their behavior and mark them in your own mind as one to be avoided, so that they may be made to turn and look into themselves and feel ashamed of their actions. This is not to say that they should be given up as lost, but rather that they should be withdrawn from Christian fellowship and no longer treated as a brother or sister in Christ. The hope is that through this treatment, they may be touched with shame and led to repentance.",
+            "wordCount": 99,
+            "quoteTokenProportion": 51.47,
+            "qualityScore": 1.8339623725996366,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+            "commentatorTierSimilarities": [
+                23.86,
+                39.46,
+                36.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When facing a believer who persistently disobeys, the instruction is clear: mark that person, and withdraw from them. By noticing their behavior and putting a tag on them, they may be made to turn and look into themselves, feeling ashamed of their actions. This is not to give up on them, but to withhold Christian fellowship in the hope that they will be touched with shame and led to repentance.",
+            "wordCount": 70,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 1.8606609517279664,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                28.07,
+                36.12,
+                35.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If there is a person among the believers who is disobedient and refuses to live according to the teachings of the Lord, they are to be marked and noticed for the purpose of avoidance. The intention is not to completely abandon them, but rather to have them turn their gaze inward and feel ashamed of their actions. By excluding them from Christian fellowship and having no company with them, they may come to repentance and turn away from their sinful ways. The aim is not to cut off all interaction, but to limit unnecessary association so that the person may feel the weight of their actions and be led to true repentance.",
+            "wordCount": 112,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.8085229083869336,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                22.34,
+                37.67,
+                39.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If there is a disobedient person among the believers, they are to be marked and avoided. This marking is not a complete abandonment, but rather a means of turning their focus inward and provoking shame. By excluding them from Christian fellowship and company, there is hope that they might feel the impact of their actions and be led to repentance. The goal is not to cut off all interaction, but to limit unnecessary association in order to guide them towards genuine remorse and transformation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.715696130017422,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+            "commentatorTierSimilarities": [
+                23.81,
+                37.74,
+                38.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When faced with a disobedient person among the believers, it is important to mark them and notice their behavior for the purpose of avoidance. This is not meant as a complete abandonment, but rather as a way to turn their attention inward and stir up shame within them. By excluding them from Christian fellowship and refraining from keeping company with them, there is a hope that they will come to a realization of their actions and feel compelled to repent. The ultimate objective is not to sever all ties, but to limit unnecessary association in order to promote true transformation.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.7300502452508377,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                24.7,
+                39.32,
+                35.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

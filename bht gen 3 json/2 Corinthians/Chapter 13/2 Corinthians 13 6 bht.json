@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:18:49",
+    "verseRef": "2 Corinthians 13:6",
+    "bestBHT": {
+        "bht": "Doubting the apostles would also lead to doubting one's own faith. Furthermore, Paul's hope is that through self-examination, believers will prove their own Christianity, recognizing the value of the apostles. Despite the threatening tone, the intended purpose is to demonstrate the authority to punish. By drawing closer to Christ, wavering believers can find certainty through rigorous testing that brings about true knowledge.",
+        "wordCount": 65,
+        "quoteTokenProportion": 30.61,
+        "qualityScore": 1.6656463116508595,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+        "commentatorTierSimilarities": [
+            37.57,
+            26.59,
+            35.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "However it may fall out with your proof of yourselves, I expect that ye shall know that we are not worthless.",
+            "The verse is said threateningly: if you wish for a proof to be given by my power to punish, it shall not be wanting.",
+            "We are not unable to abide the proof to which you put us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I trust that\" your own Christianity will be recognized by you as sufficient \"proof\" that ye are not reprobates. ",
+            "If ye doubt my apostleship, ye must doubt your own Christianity, for ye are the fruits of my apostleship.",
+            "If ye doubt my apostleship, ye must doubt your own Christianity."
+        ],
+        "Albert Barnes": [
+            "Whatever may be the result of your examination of yourselves, I trust you will not find us false and to be rejected.\" ",
+            "I trust you will find in me evidence that I am commissioned by the Lord Jesus to be his apostle.",
+            "They would find when he was among them, that he was endowed with all the qualifications needful to confer a claim to the apostolic office."
+        ],
+        "John Calvin": [
+            "One of two things was necessary - that they should either assign to Paul the honor due to an Apostle, or condemn themselves for unbelief, and acknowledge that they have no Church.",
+            "He softens, however, the severity of the statement, by making use of the expression - I hope; but in such a manner as to remind them the better of their duty.",
+            "He prudently, however, says nothing as to himself in this second clause, calling them to consider God's benefits, by which they had been distinguished; nay more, he puts their salvation in the place of his authority."
+        ],
+        "Philip Schaff": [
+            "We are not reprobate...we, at least, are straightforward and true to our Master.",
+            "Whether in making known the Gospel or in the exercise of faithful discipline.",
+            "We hope that you shall know."
+        ],
+        "Archibald T. Robertson": [
+            "Such a testing of themselves will give them full knowledge.",
+            "The best way for vacillating Christians to stop it is to draw close to Christ."
+        ],
+        "John Gill": [
+            "However, he hoped and believed, that he and his fellow apostles would give such proof of themselves, as that they should know certainly.\" ",
+            "Men void of judgment in the doctrines of the Gospel, but have light, knowledge, and understanding in them.\" ",
+            "They were made very useful for the conversion, comfort, and edification of many souls."
+        ],
+        "John Wesley": [
+            "And I trust ye shall know \u2014 By proving yourselves, not by putting my authority to the proof."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I expect that you will come to recognize that we, as apostles, are not worthless, regardless of the outcome of your examination. It is a threatening statement, implying that if you wish to test my authority to punish, you will find it proven. However, I trust that through testing yourselves, you will come to realize that your own Christianity is evidence enough that you are not reprobates. If you doubt my apostleship, you must also doubt your own Christianity, for you are the fruits of my apostleship. The best way for vacillating Christians to stop doubting is to draw close to Christ and find full knowledge through self-examination.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.048486951887215,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.45,
+            "commentatorTierSimilarities": [
+                45.37,
+                26.06,
+                28.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Regardless of the proof you seek in examining yourselves, I trust that you will acknowledge that we, as apostles, are not worthless. It is a threatening statement, indicating that if you wish to test my authority to punish, you will find it proven. However, through self-examination, I believe you will recognize that your own Christianity is sufficient proof that you are not reprobates. If you doubt my apostleship, you must also doubt your own Christianity as you are the fruits of my apostleship. The best way for doubting Christians to find certainty is to draw close to Christ and gain knowledge through self-examination.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.0857392438039546,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                45.11,
+                25.29,
+                29.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through self-examination, believers should be able to prove their own Christianity and recognize that the apostles are not worthless. The verse carries a threatening tone, suggesting that if individuals desire proof of Paul's authority to punish, it will be provided. Doubting Paul's apostleship would lead to doubting one's own Christianity, as they are the fruits of his ministry. The key to dispelling doubts is to draw closer to Christ, as this testing will bring about true knowledge and strengthen wavering Christians.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8462197421175328,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "commentatorTierSimilarities": [
+                40.57,
+                24.8,
+                34.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through self-examination, one can prove their own Christianity and recognize the worthiness of the apostles. The passage sternly highlights the availability of proof when challenged regarding authority. Doubting the apostleship of Paul would equate to doubting one's own faith, as they are the product of his ministry. Drawing closer to Christ and undergoing such testing brings enlightenment\u00a0and deepens the faith of wavering believers.",
+            "wordCount": 66,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.6816388718825688,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                38.2,
+                26.38,
+                35.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Doubting the apostles would also lead to doubting one's own faith. Furthermore, Paul's hope is that through self-examination, believers will prove their own Christianity, recognizing the value of the apostles. Despite the threatening tone, the intended purpose is to demonstrate the authority to punish. By drawing closer to Christ, wavering believers can find certainty through rigorous testing that brings about true knowledge.",
+            "wordCount": 65,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.6656463116508595,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                37.57,
+                26.59,
+                35.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

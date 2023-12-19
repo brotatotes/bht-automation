@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:22:07",
+    "verseRef": "Luke 20:29",
+    "bestBHT": {
+        "bht": "Well then, as an example of this law, there were seven brothers. The first brother took a wife, but he died without any children to continue his name and inherit his possessions.",
+        "wordCount": 32,
+        "quoteTokenProportion": 61.29,
+        "qualityScore": 1.504852515040358,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.38,
+        "commentatorTierSimilarities": [
+            48.1,
+            0.0,
+            51.9
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "29.] therefore: i.e. well then\u2014 \u2018as an example of this law,....\u2019"
+        ],
+        "John Gill": [
+            "And the first took a wife, and died without children; son or daughter, and so had none to keep up his name, and to possess his inheritance.",
+            "In the place where these Sadducees dwelt; or, however, that were known by them; at least they supposed such a case, and it might be fact.",
+            "There were therefore seven brethren."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Well then, as an example of this law, there were seven brothers. The first brother took a wife, but he died without any children to continue his name and inherit his possessions.",
+            "wordCount": 32,
+            "quoteTokenProportion": 61.29,
+            "qualityScore": 1.504852515040358,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.38,
+            "commentatorTierSimilarities": [
+                48.1,
+                0.0,
+                51.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Therefore, as an example of this law, a man took a wife, but died without any children to continue his name or inherit his property. This situation, or at least their hypothetical scenario, was known to the Sadducees who posed this question. In this case, there were seven brothers involved.",
+            "wordCount": 50,
+            "quoteTokenProportion": 51.16,
+            "qualityScore": 1.2332121939856886,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.35,
+            "commentatorTierSimilarities": [
+                42.61,
+                0.0,
+                57.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Therefore, as an example of this law, in the place where these Sadducees dwelt, there were seven brothers. The first brother took a wife but died without children, leaving no one to keep up his name or inherit his possessions.",
+            "wordCount": 40,
+            "quoteTokenProportion": 60.53,
+            "qualityScore": 1.3698171344434422,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.89,
+            "commentatorTierSimilarities": [
+                40.97,
+                0.0,
+                59.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Therefore, as an example of this law, there were seven brothers, living in a place known by the Sadducees, with the first brother taking a wife who later died without any children. None of the brothers had a son or daughter to carry on the family name or inheritance.",
+            "wordCount": 49,
+            "quoteTokenProportion": 53.66,
+            "qualityScore": 0.9274435377835776,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.18,
+            "commentatorTierSimilarities": [
+                22.47,
+                0.0,
+                77.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Therefore, as an example of this law, the first brother took a wife and died without any children to keep up his name or inherit his possessions. This situation was known or supposed by the Sadducees who were dwelling in that area. Ultimately, there were seven brothers involved in this scenario.",
+            "wordCount": 51,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 0.9905014603735729,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.28,
+            "commentatorTierSimilarities": [
+                34.13,
+                0.0,
+                65.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

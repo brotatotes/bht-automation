@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:16:13",
+    "verseRef": "Luke 7:25",
+    "bestBHT": {
+        "bht": "There is a notable contrast in clothing and lifestyle between two groups of people: those who are gorgeously apparelled, living in luxury in kings' courts, and one who, like John the Baptist, is dressed simply. The difference in clothing highlights John's humility, as he chooses to wear rough and undressed attire while others live delicately. John's focus is not on material wealth or luxury, but on fulfilling his divine mission, shown by his choice to sustain himself on locusts and wild honey.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.389097913794348,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.53,
+        "commentatorTierSimilarities": [
+            39.35,
+            0.0,
+            60.65
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Gorgeously apparelled [\u03b5\u03bd \u03b9\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03c9 \u03b5\u03bd\u03b4\u03bf\u03be\u03c9] . Lit., in splendid clothing.",
+            "Live delicately [\u03c4\u03c1\u03c5\u03c6\u03b7 \u03c5\u03c0\u03b1\u03c1\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2] . Lit., are in luxury.",
+            "Kings' courts [\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03b9\u03bf\u03b9\u03c2] . Only here in New Testament. Often rendered palaces."
+        ],
+        "Archibald T. Robertson": [
+            "Gorgeously apparelled (\u03b5\u03bd \u03b9\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03c9 \u03b5\u03bd\u03b4\u03bf\u03be\u03c9). In splendid clothing. Here alone in this sense in the N.T.",
+            "And live delicately (\u03c4\u03c1\u03c5\u03c6\u03b7). From \u03b8\u03c1\u03c5\u03c0\u03c4\u03c9 to break down, to enervate, an old word for luxurious living. See the verb \u03c4\u03c1\u03c5\u03c6\u03b1\u03c9 in James 5:5.",
+            "In kings' courts (\u03b5\u03bd \u03c4\u03bf\u03b9\u03c2 \u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03b9\u03bf\u03b9\u03c2). Only here in the N.T. Matthew 11:8 has it 'in kings' houses.'"
+        ],
+        "John Gill": [
+            "If this was the case, their labour was in vain, and they had their walk for nothing; for John was clothed with camels' hair, rough and undressed, and was girt with a leathern girdle.",
+            "There was nothing in his person, mien, and garb, that was attractive.",
+            "And live delicately; in the most elegant manner, and on the richest dainties, as John did not, his food being locusts and wild honey."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse portrays a stark contrast between two types of individuals - those who are gorgeously apparelled and live in luxury in kings' courts, and one who is dressed in simple clothing, like John the Baptist. John's rough and undressed attire is a far cry from the splendid clothing of the others. While they live delicately and in the most elegant manner, John sustains himself on locusts and wild honey. This stark contrast highlights the humility and simplicity of John's lifestyle, emphasizing that his focus was not on material wealth or luxury, but on fulfilling his divine mission.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.3745806713794746,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.05,
+            "commentatorTierSimilarities": [
+                37.44,
+                0.0,
+                62.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There is a notable contrast in clothing and lifestyle between two groups of people: those who are gorgeously apparelled, living in luxury in kings' courts, and one who, like John the Baptist, is dressed simply. The difference in clothing highlights John's humility, as he chooses to wear rough and undressed attire while others live delicately. John's focus is not on material wealth or luxury, but on fulfilling his divine mission, shown by his choice to sustain himself on locusts and wild honey.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.389097913794348,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.53,
+            "commentatorTierSimilarities": [
+                39.35,
+                0.0,
+                60.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, we see a stark contrast between individuals who are gorgeously apparelled and live in luxury in kings' courts, and John the Baptist who is dressed in humble clothing. John's attire reflects his simplicity and dedication to his mission, which is in stark contrast to the lavish lifestyle of others. While they enjoy delicacies, John sustains himself on locusts and wild honey. This contrast emphasizes John's humility and commitment to his calling rather than worldly pleasures or material possessions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.321987032975326,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+            "commentatorTierSimilarities": [
+                40.88,
+                0.0,
+                59.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The scene presented in the quote reveals a clear distinction between those who are gorgeously apparelled, living luxuriously in kings' courts, and John the Baptist, whose clothing and lifestyle reflect simplicity and dedication. While the former indulge in lavishness and delicacies, John's choice of rough and undressed attire, as well as his sustenance on locusts and wild honey, showcase his humility and commitment to his mission. This contrast exemplifies the stark difference in priorities between material wealth and spiritual calling.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.1151364530781602,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.42,
+            "commentatorTierSimilarities": [
+                36.85,
+                0.0,
+                63.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The striking contrast depicted in the quotes highlights the distinct attire and lifestyles of two groups. On one side are those gorgeously appareled, living in luxury in kings' courts, while on the other is John the Baptist, dressed in humble clothing. John's choice of attire, along with his sustenance on locusts and wild honey, symbolizes humility and commitment to his divine mission. This vivid juxtaposition emphasizes the stark disparity between indulgence in worldly pleasures and the path of simplicity and purpose.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.092134550781026,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.66,
+            "commentatorTierSimilarities": [
+                39.69,
+                0.0,
+                60.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

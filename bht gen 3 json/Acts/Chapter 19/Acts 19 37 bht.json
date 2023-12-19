@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:33:59",
+    "verseRef": "Acts 19:37",
+    "bestBHT": {
+        "bht": "In Ephesus, Paul exercised caution not to demean the worship of Artemis, only exposing the falsity of idols as necessary. He had friends among the Asiarchs, indicating his respectful approach. The accusation of robbing temples was baseless, as Paul and his companions conducted themselves blamelessly. This serves as a lesson for missionaries and ministers to avoid insulting the beliefs of others. Paul directed his righteous anger towards those who claimed to follow God while disregarding His will. Their message did not blaspheme the goddess, but rather emphasized the truth of the one God and the futility of idols.",
+        "wordCount": 98,
+        "quoteTokenProportion": 39.44,
+        "qualityScore": 1.9624313455349718,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+        "commentatorTierSimilarities": [
+            33.09,
+            32.86,
+            34.05
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Paul had proceeded at Ephesus with the same caution as at Athens, and had not held up to contempt the worship of Artemis, any further than unavoidably the truths which he preached would render it contemptible.",
+            "This is also manifest from his having friends among the Asiarchs.",
+            "The sentence implies that they were then actually going on. They were the periodical assizes of the district, held by the proconsul and his assessors."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess.\" ",
+            "This is a remarkable testimony, showing that the apostle had, in preaching against idolatry, studiously avoided insulting the feelings of those whom he addressed.",
+            "A lesson this to missionaries and ministers in general."
+        ],
+        "Albert Barnes": [
+            "The word 'churches' we now apply to edifices reared for purposes of Christian worship. Since no such churches had then been built, this translation is unhappy, and is not at all demanded by the original.",
+            "The meaning here is that Paul and his companions had not been guilty of robbing the temple of Diana, or any other temple. The charge of sacrilege could not be brought against them.",
+            "People should employ reason, and not harsh or reproachful language against a pervading evil; and that the way to remove it is to enlighten the minds of people, and to convince them of the error of their ways."
+        ],
+        "Marvin Vincent": [
+            "Robbers of churches [\u03b9\u03b5\u03c1\u03bf\u03c3\u03c5\u03bb\u03bf\u03c5\u03c2] . The A. V. puts a droll anachronism into the mouth of the town - clerk of a Greek city. Render, rather, as Rev., robbers of temples."
+        ],
+        "John Calvin": [
+            "Those be sacrilegious persons who translate the honor which is due to God alone unto idols.\" ",
+            "He had respect unto this alone to extinguish the heat of the uproar.",
+            "An opportunity was given to the proconsul to impose a heavy fine on the city."
+        ],
+        "Philip Schaff": [
+            "St. Paul and his immediate followers no doubt owed not a little of their wonderful influence over men\u2019s hearts to their winning and graceful courtesy, to their chivalrous consideration for the feelings of others.",
+            "He hurt no ancient prejudices, no time-honoured customs, by rude invective.",
+            "His fiery wrath was especially reserved for those who knew their Lord\u2019s will and only pretended to do it."
+        ],
+        "Archibald T. Robertson": [
+            "The ancients felt as strongly about temple-robbing as westerners used to feel about a horse-thief.",
+            "That is to say, these men (Gaius and Aristarchus) as Christians had so conducted themselves that no charge could be placed against them either in act or word.",
+            "Paul had used tact in Ephesus as in Athens in avoiding illegalities."
+        ],
+        "John Gill": [
+            "They have not stolen anything out of the temple of Diana, nor any other.\" ",
+            "They have not made mention of her name, much less said anything against her.",
+            "He did not stick to tell an officious lie to screen them, as did the Egyptian midwives in favour of the Hebrew women."
+        ],
+        "John Wesley": [
+            "Nor blasphemers of your goddess \u2014 They simply declared the one God, and the vanity of idols in general."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul had shown great caution in his approach at Ephesus, not openly demeaning the worship of Artemis beyond what his preaching required. This is evident through his friendships with the Asiarchs and his careful avoidance of insulting the feelings of those he addressed. Paul's tact in preaching against idolatry serves as a powerful lesson for missionaries and ministers. The accusation that these men were robbers of temples is inaccurate; they conducted themselves in a manner that would not warrant such a charge. Paul was strategic in avoiding any illegalities and was careful not to offend ancient customs or prejudices with rude invective. Instead, he reserved his fiery wrath for those who knew the Lord's will and only pretended to follow it. Their message was not one of blasphemy against the goddess, but of proclaiming the one true God and exposing the vanity of idols.",
+            "wordCount": 146,
+            "quoteTokenProportion": 37.62,
+            "qualityScore": 2.0321928836720136,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+            "commentatorTierSimilarities": [
+                32.9,
+                37.39,
+                29.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul handled his preaching in Ephesus with caution, not wanting to outright belittle the worship of Artemis. He had friends among the Asiarchs, indicating his respectful approach. The accusation that they robbed temples is unfounded; they conducted themselves in an upright manner. Paul tactfully refrained from insulting the beliefs of those he addressed, serving as a lesson for missionaries and ministers. He focused his wrath on those who claimed to follow God's will but did not. Their message did not blaspheme the goddess, but rather proclaimed the one true God and the emptiness of idols.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.8770034784118534,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                31.86,
+                32.65,
+                35.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul proceeded cautiously in Ephesus, avoiding contempt for the worship of Artemis as much as possible. He had friends among the Asiarchs, showing his respectful approach. The accusation that they were temple robbers is baseless; their conduct was blameless. Paul's tactful preaching serves as a valuable lesson for missionaries and ministers. He reserved his wrath for those who ignored God's will. Their message did not blaspheme the goddess but rather preached the one true God and exposed the futility of idols.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8825680242916278,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+            "commentatorTierSimilarities": [
+                34.16,
+                33.02,
+                32.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul handled his preaching in Ephesus with caution and did not seek to undermine the worship of Artemis. He had friends among the Asiarchs, which reflects his respectful approach. His words in defense of him and his companions highlight their blameless conduct and their avoidance of insulting the beliefs of their audience. This demonstrates a lesson for missionaries and ministers to follow. Paul reserved his anger for those who claimed to follow God's will but failed to do so. Their message did not blaspheme the goddess, but rather asserted the existence of the one true God and the emptiness of idols.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.8695972589660692,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+            "commentatorTierSimilarities": [
+                33.27,
+                33.4,
+                33.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Ephesus, Paul exercised caution not to demean the worship of Artemis, only exposing the falsity of idols as necessary. He had friends among the Asiarchs, indicating his respectful approach. The accusation of robbing temples was baseless, as Paul and his companions conducted themselves blamelessly. This serves as a lesson for missionaries and ministers to avoid insulting the beliefs of others. Paul directed his righteous anger towards those who claimed to follow God while disregarding His will. Their message did not blaspheme the goddess, but rather emphasized the truth of the one God and the futility of idols.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.9624313455349718,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "commentatorTierSimilarities": [
+                33.09,
+                32.86,
+                34.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:13:22",
+    "verseRef": "Luke 1:1",
+    "bestBHT": {
+        "bht": "Many persons, in charge of churches, drew up statements of eyewitness testimony and ministers' narratives, attempting to collect a comprehensive account of the life and sayings of the Lord. Luke's purpose was to provide an orderly and complete narrative that brought a preconceived design to fruition. Previous attempts were inadequate, but Luke aimed to offer a systematic and connected series of narratives, ensuring a thorough understanding of the matters concerning Christ's life. His intention was to provide certainty and counter conflicting statements, presenting a faithful and reliable account of the events.",
+        "wordCount": 93,
+        "quoteTokenProportion": 22.22,
+        "qualityScore": 1.9152845938899123,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+        "commentatorTierSimilarities": [
+            36.94,
+            28.13,
+            34.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I believe the only probable interpretation of the words to be, that many persons, in charge of Churches, or otherwise induced, drew up, here and there, statements (narratives) of the testimony of eye-witnesses and ministers of the word (see below), so far as they themselves had been able to collect them.\" ",
+            "It is probable that in almost every Church where an eye-witness preached, his testimony would be taken down, and framed into some narrative, more or less complete, of the life and sayings of the Lord.\" ",
+            "This does not necessarily imply the insufficiency of such narrations, as some have imagined. The fact of that failure is indeed implied in St. Luke\u2019s description of his own work\u2014but that, more because it possessed completeness (whereas they were fragmentary) than from any difference in kind."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1. set forth in order\u2014more",
+            "\tsimply, to draw up a narrative."
+        ],
+        "Albert Barnes": [
+            "The records of the others - the 'many' - were broken and incomplete. His were to be regular and full.",
+            "That this is what Luke means appears farther from Luke 1:3, where 'he' professes to give a regular, full, and systematic account from the very beginning - 'having had perfect understanding of 'all things from the very first.'",
+            "The word rendered here 'in order' is different from that in the third verse, which 'has' reference 'to order', or to a full and fair 'arrangement' of the principal facts, etc., in the history of our Lord."
+        ],
+        "Marvin Vincent": [
+            "A difficult undertaking...implies that previous attempts have not been successful.\" ",
+            "Something which leads the reader through the mass of facts: a narrative, with the accompanying idea of thoroughness.",
+            "Chosen to indicate that these events happened in accordance with a preconceived design."
+        ],
+        "John Calvin": [
+            "He does not expressly say that they had written on matters with which they were imperfectly acquainted, but by laying claim to certainty as to the facts, he modestly denies their title to full and unshaken confidence.",
+            "By claiming for himself the authority of a faithful witness, he destroys the credit of others who give contrary statements.",
+            "Luke does not talk in a profane style, but enjoins us in the person of his friend Theophilus to keep in view the command of Christ, and to hear with reverence the Son of God speaking through his Apostles."
+        ],
+        "Philip Schaff": [
+            "Forasmuch as, a good translation of the full sounding Greek word (found only here in the N. T.).",
+            "Many such were doubtless in existence then, but being more or less fragmentary would not be preserved.",
+            "The great facts of the life of Christ formed the substance of preaching in the Apostolic times."
+        ],
+        "Archibald T. Robertson": [
+            "Luke means to say that those before him had made attempts to rehearse in orderly fashion various matters about Christ.",
+            "The expression points to a connected series of narratives in some order (\u03c4\u03b1\u03be\u03b9\u03c2), topical or chronological rather than to isolated narratives.",
+            "Luke may refer to the matters connected with Christ's life which have been brought to a close among us or accomplished."
+        ],
+        "John Gill": [
+            "They undertook to write and publish a very particular and exact narrative of the birth, life, actions, doctrines, miracles, sufferings, death, resurrection, and ascension of Jesus Christ.",
+            "By these many, he cannot mean the authentic historians of evangelical facts, as Matthew and Mark; for they two cannot, with any propriety, be called many.",
+            "The evangelist does not censure them as false, wicked, and heretical, nor approve of them as divine and perfect...yet there might be many things collected by them, which were impertinent, and not proper to be transmitted to posterity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many persons in charge of churches or otherwise induced drew up statements of the testimony of eye-witnesses and ministers of the word, so far as they themselves had been able to collect them. In almost every church where an eye-witness preached, his testimony would be taken down and framed into some narrative of the life and sayings of the Lord. Previous attempts to rehearse these events in an orderly fashion were not successful, but Luke's intention was to provide a narrative that was thorough, connected, and in accordance with a preconceived design. His purpose was to give a regular, full, and systematic account with a complete understanding of all things from the very first.",
+            "wordCount": 117,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.9364624155244359,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                37.02,
+                29.69,
+                33.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Many persons drew up statements of eyewitness testimony and sayings of the Lord, aiming to provide a connected series of narratives. Previous attempts were fragmentary, but Luke's intention was to offer a thorough and systematic account. He claimed authority as a faithful witness, contradicting others' statements. While he neither censured nor approved of their narratives, his aim was to bring forth a regular and complete understanding of the life and teachings of Jesus Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.834940548884885,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+            "commentatorTierSimilarities": [
+                32.57,
+                27.07,
+                40.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many persons, in charge of churches, drew up statements of eyewitness testimony and ministers' narratives, attempting to collect a comprehensive account of the life and sayings of the Lord. Luke's purpose was to provide an orderly and complete narrative that brought a preconceived design to fruition. Previous attempts were inadequate, but Luke aimed to offer a systematic and connected series of narratives, ensuring a thorough understanding of the matters concerning Christ's life. His intention was to provide certainty and counter conflicting statements, presenting a faithful and reliable account of the events.",
+            "wordCount": 93,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.9152845938899123,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                36.94,
+                28.13,
+                34.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Many persons in charge of churches drew up statements of eyewitness testimony and ministers' narratives, aiming to collect a comprehensive account of the life and sayings of the Lord. Luke's purpose was to provide an orderly and complete narrative, countering previous inadequate attempts and ensuring a thorough understanding. His intention was to offer a systematic and connected series of narratives that would provide certainty and reliability, presenting a faithful account of the events and countering conflicting statements.",
+            "wordCount": 78,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.8608076012130534,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                36.36,
+                27.0,
+                36.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many persons in charge of churches drew up statements of eyewitness testimony and ministers' narratives, aiming to collect a comprehensive account of the life and sayings of the Lord. Luke's purpose was to provide an orderly and complete narrative, countering previous inadequate attempts and ensuring a thorough understanding. His intention was to offer a systematic and connected series of narratives that would provide certainty and reliability, presenting a faithful account of the events and countering conflicting statements.",
+            "wordCount": 78,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.8608076012130534,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                36.36,
+                27.0,
+                36.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

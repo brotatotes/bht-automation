@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:04:50",
+    "verseRef": "1 Corinthians 5:12",
+    "bestBHT": {
+        "bht": "For what concern have I with pronouncing sentence on the world without, or with giving rules of discipline for them? My judgment was meant to lead your judgment. This being the case, what concern had I with those without? Is it not on those within, that your judgments are passed? You might have easily understood that my concern is not with unbelievers outside the Church, but that I referred to those within it. Those within give me enough to do without those outside. God shall judge them that are without: do you look at home.",
+        "wordCount": 95,
+        "quoteTokenProportion": 57.89,
+        "qualityScore": 2.105118119967564,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+        "commentatorTierSimilarities": [
+            47.82,
+            28.99,
+            23.19
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For what concern have I with pronouncing sentence on the world without, or with giving rules of discipline for them?\" ",
+            "My judgment was meant to lead your judgment. This being the case, what concern had I with those without?\" ",
+            "Is it not on those within, that your judgments are passed?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "You might have easily understood that my concern is not with unbelievers outside the Church, but that I referred to those within it.",
+            "Those within give me enough to do without those outside.",
+            "God shall judge them that are without: do you look at home."
+        ],
+        "Albert Barnes": [
+            "All my rules, therefore, must have reference only to those who are within the church.",
+            "As a Christian apostle I have no jurisdiction over them.",
+            "Is not your jurisdiction as Christians confined to those who are within the church, and professed members of it?"
+        ],
+        "John Calvin": [
+            "The Lord has furnished us with this power, that we may exercise it upon those who belong to his household."
+        ],
+        "Philip Schaff": [
+            "For what have I to do with judging them that are without (the Christian pale)?",
+            "do not ye judge them that are within?",
+            "and that surely is responsibility enough."
+        ],
+        "Archibald T. Robertson": [
+            "For what is it to me to judge those without?",
+            "They are outside the church and not within Paul's jurisdiction.",
+            "God passes judgment on them."
+        ],
+        "John Gill": [
+            "For what have I to do to judge,.... To admonish, reprove, censure, and condemn: them also that are without?",
+            "The apostle appeals to their own conduct, that they only reproved, censured, and punished with excommunication, such as were within the pale of the church, were members of it, and belonged unto it; nor did they pretend to exercise power over others.",
+            "They need not wonder that the apostle only meant fornicators, c. among them, and not those that were in the world, by his forbidding to company with such."
+        ],
+        "John Wesley": [
+            "I speak of Christians only. For what have I to do to judge heathens? But ye, as well as I, judge those of your own community."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For what concern have I with pronouncing sentence on the world without, or with giving rules of discipline for them? My judgment was meant to lead your judgment. This being the case, what concern had I with those without? Is it not on those within, that your judgments are passed? You might have easily understood that my concern is not with unbelievers outside the Church, but that I referred to those within it. Those within give me enough to do without those outside. God shall judge them that are without: do you look at home.",
+            "wordCount": 95,
+            "quoteTokenProportion": 57.89,
+            "qualityScore": 2.105118119967564,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+            "commentatorTierSimilarities": [
+                47.82,
+                28.99,
+                23.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For what concern have I with pronouncing sentence on the world without, or with giving rules of discipline for them? My judgment was meant to lead your judgment. This being the case, what concern had I with those without? Is it not on those within, that your judgments are passed? You might have easily understood that my concern is not with unbelievers outside the Church, but that I referred to those within it.",
+            "wordCount": 73,
+            "quoteTokenProportion": 59.57,
+            "qualityScore": 2.061932201617596,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.9,
+            "commentatorTierSimilarities": [
+                48.89,
+                29.07,
+                22.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For what concern have I with pronouncing sentence on the world without, or with giving rules of discipline for them? My judgment was meant to lead your judgment. This being the case, what concern had I with those without? Is it not on those within, that your judgments are passed? You might have easily understood that my concern is not with unbelievers outside the Church, but that I referred to those within it. Those within give me enough to do without those outside. God shall judge them that are without: do you look at home. It is clear that as a Christian apostle, my jurisdiction only extends to those within the church, the professed members of it. We have the power to exercise judgment on those who belong to God's household.",
+            "wordCount": 132,
+            "quoteTokenProportion": 51.35,
+            "qualityScore": 2.086955326928501,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+            "commentatorTierSimilarities": [
+                41.93,
+                30.22,
+                27.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For what concern have I with pronouncing sentence on the world without, or with giving rules of discipline for them? My judgment was meant to lead your judgment. This being the case, what concern had I with those without? Is it not on those within, that your judgments are passed? You might have easily understood that my concern is not with unbelievers outside the Church, but that I referred to those within it. It is clear that as a Christian apostle, my jurisdiction only extends to those within the church, the professed members of it. We have the power to exercise judgment on those who belong to God's household.",
+            "wordCount": 110,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 2.0509188729530763,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                40.81,
+                30.65,
+                28.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As an apostle, my concern is not with passing judgment on those outside the Church, but with those within it. God will judge those who are outside. It is the responsibility of the Christian community to judge and discipline its own members. We have the power to exercise this judgment and discipline for those who belong to the household of God. Therefore, let us focus on upholding righteous standards within the Church rather than concerning ourselves with the world outside.",
+            "wordCount": 80,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 2.0283925898696262,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                32.72,
+                30.73,
+                36.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

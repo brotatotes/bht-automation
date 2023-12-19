@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 17:15:17",
+    "verseRef": "3 John 7",
+    "bestBHT": {
+        "bht": "The Christians, gathered from the heathen, took nothing in return for their work, refusing payment as they didn't want it thought they sought worldly interests instead of the glory of Christ. They went forth to preach the gospel, taking nothing of the Gentiles, avoiding accusations of being after money.",
+        "wordCount": 50,
+        "quoteTokenProportion": 32.5,
+        "qualityScore": 1.9839111782414247,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+        "commentatorTierSimilarities": [
+            16.55,
+            41.93,
+            41.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "taking",
+            "\tnothing",
+            "\t\u2014 refusing to receive",
+            "\taught by way of pay, or maintenance, though justly entitled to it",
+            "the Christians just gathered out by their labors from among the",
+            "\theathen",
+            "It would have been inexpedient to have taken aught from the infant churches among the heathen: the case was different in receiving hospitality from Gaius."
+        ],
+        "Albert Barnes": [
+            "They had undertaken this journey not on their own account, but in the cause of religion.",
+            "When they went, they resolved, it seems, to receive no part of their support from them [the Gentiles], but to depend upon the aid of their Christian brethren.",
+            "There were circumstances in the early propagation of Christianity which made it proper, in order to avoid this reproach, to preach the gospel 'without charge,' those to whom it is preached to contribute to its maintenance, and that it is the right of those who preach to expect and receive a support."
+        ],
+        "Marvin Vincent": [
+            "For His Name's sake.",
+            "Taking nothing of.",
+            "The Gentiles."
+        ],
+        "Archibald T. Robertson": [
+            "For the sake of the Name (\u03c5\u03c0\u03b5\u03c1 \u03c4\u03bf\u03c5 \u03bf\u03bd\u03bf\u03bc\u03b1\u03c4\u03bf\u03c2).\" ",
+            "Taking nothing (\u03bc\u03b7\u03b4\u03b5\u03bd \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03bd\u03c4\u03b5\u03c2). Present active participle with the usual negative with participles (1 John 2:4).\" ",
+            "John is anxious that Christian missionaries receive nothing from the heathen, as our missionaries have to watch against the charge of being after money."
+        ],
+        "John Gill": [
+            "Because that for his name's sake they went forth...",
+            "...taking nothing of the Gentiles...",
+            "...lest it should be thought they sought their own worldly interest, and not the good of souls and glory of Christ..."
+        ],
+        "John Wesley": [
+            "They went forth \u2014 To preach the gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Christians, who were just gathered out by their labors from among the heathen, made a conscious decision to take nothing in return for their work, refusing to receive any form of payment or maintenance, as they didn't want it to be misunderstood that they sought their own worldly interests instead of the good of souls and glory of Christ. It was in the name of Christ that they went forth to preach the gospel, taking nothing of the Gentiles, avoiding any accusations of being after money.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.9772526588951425,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+            "commentatorTierSimilarities": [
+                17.25,
+                43.41,
+                39.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Christians, gathered from the heathen, took nothing in return for their work, refusing payment as they didn't want it thought they sought worldly interests instead of the glory of Christ. They went forth to preach the gospel, taking nothing of the Gentiles, avoiding accusations of being after money.",
+            "wordCount": 50,
+            "quoteTokenProportion": 32.5,
+            "qualityScore": 1.9839111782414247,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+            "commentatorTierSimilarities": [
+                16.55,
+                41.93,
+                41.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Christians, just gathered from among the heathen, made a conscious decision to take nothing in return, refusing payment and maintenance, as they didn't want to be accused of seeking their own interests instead of the good of souls and glory of Christ. They went forth to preach the gospel in the name of Christ, taking nothing from the Gentiles, carefully avoiding any charge of being after money.",
+            "wordCount": 69,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.96626180999582,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                17.26,
+                44.21,
+                38.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Christians, gathered from the heathen, made a conscious decision to take nothing in return, refusing payment and maintenance, as they didn't want to be accused of seeking their own interests instead of the good of souls and glory of Christ. They went forth to preach the gospel in the name of Christ, taking nothing from the Gentiles, carefully avoiding any charge of being after money.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.9542769205855022,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                17.31,
+                43.83,
+                38.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Christians, just gathered out by their labors from among the heathen, took nothing in return, refusing payment, as they didn't want to be accused of seeking their own worldly interests instead of the good of souls and glory of Christ, whom they went forth to preach the gospel for. They were careful to avoid taking anything from the Gentiles, guarding against any perception of being motivated by money.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.8637527181131799,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                19.28,
+                44.71,
+                36.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

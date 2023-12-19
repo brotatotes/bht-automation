@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:26:35",
+    "verseRef": "Acts 5:26",
+    "bestBHT": {
+        "bht": "The ecclesiastics, unimpressed by the miracles performed by the apostles, were hesitant to confront them openly for fear of the people. They brought the apostles in without violence, handling them gently to avoid inciting the crowd. The apostles, being released, left with joy and continued to spread their message. This instance highlights the need for Christians to respect and obey the laws of the land, while also demonstrating the constant change in popular opinion towards the apostles.",
+        "wordCount": 77,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8651473553974527,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.36,
+        "commentatorTierSimilarities": [
+            35.86,
+            35.66,
+            28.49
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "26.] The clause, lest they should have besn stoned, depends upon \u201cbrought them without violence,\u201d not upon \u201cfor they feared the people.\u201d"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Hardened ecclesiastics, all unawed by the miraculous tokens of God's presence with the apostles.",
+            "The fear of the mob only before their eyes!",
+            "Being dismissed, they depart rejoicing, and continue their preaching."
+        ],
+        "Albert Barnes": [
+            "Christians, when charged with a violation of the laws of the land, should not refuse to answer.",
+            "It is a part of our religion to yield obedience to all the just laws of the land, and to evince respect for all that are in authority.",
+            "In this way, also, the apostles showed that they were not disposed to excite tumult."
+        ],
+        "Philip Schaff": [
+            "At this period the popular favour which the apostles enjoyed had probably reached its culminating point.",
+            "The tide, however, soon turned, and a few months later we shall see a bitter persecution raging against the Church.",
+            "The populace apparently careless of what might happen to those men whose words they had listened to so gladly."
+        ],
+        "Archibald T. Robertson": [
+            "Brought (\u03b7\u03b3\u03b5\u03bd). Imperfect active of \u03b1\u03b3\u03c9, was bringing (leading), slowly no doubt, and solemnly.",
+            "But without violence (\u03bf\u03c5 \u03bc\u03b5\u03c4\u03b1 \u03b2\u03b9\u03b1\u03c2). Literally, not with violence.",
+            "They handled the apostles gently for fear of being stoned themselves by the people."
+        ],
+        "John Gill": [
+            "They did not lay hold upon them, and drag them away in a violent manner; but gave them good words, and allured them, and entreated them to go along with them...\" ",
+            "They used no forcible, but gentle methods...",
+            "Because they feared the people, they did not stone them..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ecclesiastics, unimpressed by the miracles performed by the apostles, were hesitant to confront them openly for fear of the people. They brought the apostles in without violence, handling them gently to avoid inciting the crowd. The apostles, being released, left with joy and continued to spread their message. This instance highlights the need for Christians to respect and obey the laws of the land, while also demonstrating the constant change in popular opinion towards the apostles.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8651473553974527,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.36,
+            "commentatorTierSimilarities": [
+                35.86,
+                35.66,
+                28.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ecclesiastics, unawed by the miraculous tokens of God's presence with the apostles, brought them without violence to avoid being stoned by the people. After being released, the apostles departed rejoicing and continued their preaching. This incident reveals the fear that the religious leaders had of the public opinion, handling the apostles gently rather than resorting to violence. It also underscores the importance for Christians to yield obedience to the laws of the land and show respect to those in authority, all the while remaining steadfast in their mission.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7888642390249698,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                39.03,
+                37.28,
+                23.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ecclesiastics, unawed by the miraculous tokens of God's presence with the apostles, brought them without violence to avoid being stoned by the people. This incident reveals the fear that the religious leaders had of the public opinion, handling the apostles gently rather than resorting to violence. The apostles, being released, departed rejoicing and continued their preaching, displaying their unwavering commitment to their mission despite the opposition they faced. Christians are reminded to respect and obey the laws of the land, while remaining steadfast in their faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.8597339817407947,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.18,
+            "commentatorTierSimilarities": [
+                39.0,
+                33.96,
+                27.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ecclesiastics, unimpressed by the miracles, brought the apostles without violence to avoid being stoned by the people, reflecting their fear of public opinion. The apostles, being released, departed rejoicing and continued their preaching. This incident emphasizes the importance of Christians obeying the laws of the land and respecting those in authority. Additionally, it highlights the changing tide of popular opinion towards the apostles, who initially enjoyed the favor of the crowd but would soon face persecution and hostility.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7373775058128564,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+            "commentatorTierSimilarities": [
+                35.38,
+                42.91,
+                21.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ecclesiastics, unawed by the miraculous tokens of God's presence with the apostles, brought them without violence to avoid being stoned by the people. This incident reveals the fear that the religious leaders had of the popular opinion, handling the apostles gently for fear of inciting the crowd. The apostles, being released, departed rejoicing and continued their preaching, displaying their unwavering commitment to their mission. This situation serves as a reminder for Christians to respect and obey the laws of the land, while remaining steadfast in their faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.7820795638715574,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                38.98,
+                36.28,
+                24.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

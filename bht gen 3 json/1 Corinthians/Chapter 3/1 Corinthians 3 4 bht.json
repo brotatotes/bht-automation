@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:01:36",
+    "verseRef": "1 Corinthians 3:4",
+    "bestBHT": {
+        "bht": "In the context of the Corinthians' sectarianism, Paul challenges their divisive mindset, particularly their allegiances to him and Apollos. He describes their unregenerate nature as being carnal or mere men, not guided by the Spirit. Instead of defending his own followers, Paul emphasizes the need for unity and reminds them that they are merely servants, not leaders of factions. Their envy, strife, and divisions are evidence of their carnal state and hinder the success of the gospel. Thus, Paul urges them to reject division, even if it benefits him or his close associates.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.632291186399649,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.62,
+        "commentatorTierSimilarities": [
+            33.87,
+            24.25,
+            41.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He names but two of the foregoing designations, intending... rather to give a sample of the sectarian spirit prevalent than to describe, as a matter of tact, any sects into which they were actually divided.\" ",
+            "Meyer sees in the mention here of Paul and Apollos only, a reference to the two methods of teaching which have been treated of in this section.",
+            "The reading 'carnal,' in the A.V., is against the authority of all our most ancient MSS."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4. ( :-). ",
+            "\t",
+            "are ye not carnal\u2014The",
+            "\toldest manuscripts read, \"Are ye not men?\" that is,",
+            "\t\"walking as men\" unregenerate ( :-)."
+        ],
+        "Albert Barnes": [
+            "For while one saith ...; - See the note at 1 Corinthians 1:12."
+        ],
+        "Marvin Vincent": [
+            "Not merely another, numerically, but another of different affinities and prepossessions.",
+            "Are ye not mere men?",
+            "Servants, not heads of parties."
+        ],
+        "John Calvin": [
+            "Now, where such ambition still prevails, the gospel has little or no success.",
+            "At the same time it is likely, that, as a predilection arising from ambition is usually accompanied with an empty talkativeness, they openly discovered by their words the absurd bias of their mind.",
+            "This way of setting one\u2019s heart upon an individual through ambition, is accompanied with a foolish talkativeness."
+        ],
+        "Philip Schaff": [
+            "'are ye not as men?'",
+            "'men who have never passed into the new life.'",
+            "'Not, as in the received text, 'are ye not carnal?'"
+        ],
+        "Archibald T. Robertson": [
+            "Each instance is a case in point and proof abundant of the strife.",
+            "Men, just mere human creatures, in the flesh, acting like the flesh, not spiritual, as if still worldly.",
+            "Paul would not even defend his own partisans."
+        ],
+        "John Gill": [
+            "This shows what their envying and strife, and divisions were about, and from whence they sprung; and which serve, to strengthen the proof, and support the charge of carnality brought against them.\" ",
+            "All this was a demonstration of it: they could never clear themselves from it, they must be convicted in their own consciences of it; to which the apostle appeals.",
+            "Are ye not carnal?... the Alexandrian copy and the Vulgate Latin and Ethiopic versions read, 'are ye not men?'"
+        ],
+        "John Wesley": [
+            "I am of Apollos - to show that he would condemn any division among them.",
+            "Are ye not carnal - For the Spirit of God allows no party zeal.",
+            "Even though it were in favour of himself, or the dearest friend he had in the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 3:4, Paul addresses the sectarian spirit among the Corinthians, highlighting their divided allegiance to him and Apollos. By calling them carnal, he emphasizes their unregenerate nature, acting as mere men instead of being guided by the Spirit. Paul refrains from defending his own partisans, emphasizing the importance of unity and reminding them that they are merely servants, not heads of parties. Their envy, strife, and divisions were proof of their carnality, which hindered the success of the gospel. It is a demonstration of their foolish ambition and talkativeness, which only served to further expose their unspiritual state. Overall, Paul pushes for unity and condemns any division, even if it were in his favor or in favor of his closest allies.",
+            "wordCount": 121,
+            "quoteTokenProportion": 37.65,
+            "qualityScore": 1.6017753395311405,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.6,
+            "commentatorTierSimilarities": [
+                32.07,
+                23.44,
+                44.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the context of the Corinthians' sectarianism, Paul challenges their divisive mindset, particularly their allegiances to him and Apollos. He describes their unregenerate nature as being carnal or mere men, not guided by the Spirit. Instead of defending his own followers, Paul emphasizes the need for unity and reminds them that they are merely servants, not leaders of factions. Their envy, strife, and divisions are evidence of their carnal state and hinder the success of the gospel. Thus, Paul urges them to reject division, even if it benefits him or his close associates.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.632291186399649,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.62,
+            "commentatorTierSimilarities": [
+                33.87,
+                24.25,
+                41.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul addresses the Corinthians' sectarianism, highlighting their divided allegiance to him and Apollos. He calls them carnal, emphasizing their unregenerate nature and their failure to be guided by the Spirit. Paul stresses the importance of unity, reminding them that they are mere servants, not leaders of factions. Their envy, strife, and divisions serve as proof of their carnality and hinder the success of the gospel. He urges them to reject division, even if it favors him or his close associates.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5311254620266137,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+            "commentatorTierSimilarities": [
+                33.83,
+                21.83,
+                44.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul confronts the Corinthians regarding their sectarian spirit, highlighting their divided loyalties to him and Apollos. He refers to them as carnal, indicating their unregenerate nature, their behavior akin to being merely human, and their failure to walk in the Spirit. Paul emphasizes the need for unity, asserting that they are servants, not leaders of factions. Their envy, strife, and divisions serve as concrete evidence of their carnal state and hinder the spread of the gospel. Paul urges them to reject division, even if it benefits him or his close associates.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5510893268189823,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.92,
+            "commentatorTierSimilarities": [
+                35.63,
+                23.81,
+                40.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's admonition in 1 Corinthians 3:4 addresses the Corinthians' sectarian mindset, emphasizing their divided loyalty between him and Apollos. By calling them carnal, Paul suggests their unregenerate disposition and failure to exhibit spiritual maturity. He urges them to embrace unity and recognize themselves as servants rather than leaders of factions. Paul points to their envy, strife, and divisions as evidence of their carnality, hindering the progress of the gospel. He encourages them to reject division, regardless of personal gain.",
+            "wordCount": 78,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.6089584252625757,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.84,
+            "commentatorTierSimilarities": [
+                33.25,
+                27.49,
+                39.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

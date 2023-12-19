@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:09:12",
+    "verseRef": "1 Corinthians 9:20",
+    "bestBHT": {
+        "bht": "Paul, a Jew himself, adapted his approach to reach different audiences. He understood the importance of connecting with those under the law without compromising his beliefs. His willingness to engage with Jews, Gentile proselytes, and rigid Pharisees demonstrated his genuine desire to bring people to Christ. Paul's ability to put the gospel forth without offense or compromise highlighted the impact of his Jewish heritage and his freedom from the law.",
+        "wordCount": 71,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 1.6994337398220485,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.85,
+        "commentatorTierSimilarities": [
+            43.81,
+            12.34,
+            43.85
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "unto the Jews I became as a Jew\" ",
+            "to them that are under the law...\" ",
+            "the number of these the Apostle did not belong, not being himself under the law"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not Judaizing in essentials, but in matters where there was no compromise of principle.",
+            "An undesigned coincidence between the history and the Epistle, and so a sure proof of genuineness.",
+            "Perhaps the reason for distinguishing this class from the former is that Paul himself belonged nationally to 'the Jews,' but did not in creed belong to the class of 'them that are under the law.'"
+        ],
+        "Albert Barnes": [
+            "I complied with their rites, customs, prejudices, as far as I could with a good conscience.",
+            "That I might not outrage their feelings, excite their prejudices, and provoke them to anger.",
+            "That I might obtain their confidence and affection."
+        ],
+        "Marvin Vincent": [
+            "Some, Jews, viewed nationally; under the law, viewed religiously.",
+            "Others, Jews by origin, and Gentile proselytes.",
+            "Others understand by those under the law, rigid Jews, Pharisees."
+        ],
+        "Archibald T. Robertson": [
+            "He was emancipated from the law as a means of salvation, yet he knew how to speak to them because of his former beliefs and life with them.",
+            "He knew how to put the gospel to them without compromise and without offense.",
+            "He was a Jew and was not ashamed of it."
+        ],
+        "John Gill": [
+            "That is, in religion; or with respect to some religious observances peculiar to the Jews, for he himself was really a Jew by nature; who became as one unto them in this sense...",
+            "...that he might hereby have the greater influence over them, and by little and little bring them off of these things.",
+            "...that I might gain the Jews; bring them over to Christ, and off of a dependence on their own righteousness, for justification before God."
+        ],
+        "John Wesley": [
+            "To the Jews I became as a Jew \u2014 Conforming myself in all things to their manner of thinking and living, so far as; I could with innocence.",
+            "To them that are under the law \u2014 Who apprehend themselves to be still bound by the Mosaic law.",
+            "As under the law \u2014 Observing it myself, while I am among them. Not that he declared this to be necessary, or refused to converse with those who did not observe it. This was the very thing which he condemned in St. Peter, Galatians 2:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 9:20, the apostle Paul describes how he adapts to different audiences, using his background as a Jew to relate to those under the law. Although he himself is not bound by the law, he does not compromise his principles, but rather finds common ground with Jews and Gentile proselytes. Paul's ability to understand and engage with different religious groups is a testament to his genuine desire to bring people to Christ. His approach reflects both his Jewish heritage and his freedom from the law, serving as an example of how to effectively share the gospel without causing offense or compromising one's beliefs.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.6647238799439816,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                43.38,
+                10.52,
+                46.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Paul mentions that he became like a Jew and spoke to those who were under the law. While he was not himself under the law, he knew how to relate to them because of his background as a Jew. He did not compromise his principles but found common ground to effectively share the gospel. His approach demonstrates his genuine desire to bring people to Christ without causing offense or compromising his beliefs. Paul's ability to understand and engage with different religious groups reflects his Jewish heritage and freedom from the law.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.733825767421242,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.99,
+            "commentatorTierSimilarities": [
+                45.08,
+                10.69,
+                44.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, a Jew himself, adapted his approach to reach different audiences. He understood the importance of connecting with those under the law without compromising his beliefs. His willingness to engage with Jews, Gentile proselytes, and rigid Pharisees demonstrated his genuine desire to bring people to Christ. Paul's ability to put the gospel forth without offense or compromise highlighted the impact of his Jewish heritage and his freedom from the law.",
+            "wordCount": 71,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.6994337398220485,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.85,
+            "commentatorTierSimilarities": [
+                43.81,
+                12.34,
+                43.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, being a Jew, had a unique ability to relate to his fellow Jews and those who still followed the Mosaic law. Although he himself was not under the law, he knew how to speak to them, considering his past beliefs and life with them. Paul's intention was not to compromise or offend but to effectively communicate the gospel without wavering in his principles. His approach serves as an example of embracing one's heritage while sharing the message of Christ without compromising one's faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6420075589679874,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                41.89,
+                14.58,
+                43.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, a Jew by origin, had the ability to connect with his fellow Jews who were still bound by the Mosaic law. Despite not being under the law himself, Paul was able to speak to them without compromise or offense, drawing from his own background and life experiences. His approach revealed a genuine desire to bring people to Christ while remaining true to his beliefs. Paul's ability to understand and engage with different religious groups reflects his Jewish heritage and liberation from the law.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6754531694384993,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                42.29,
+                10.87,
+                46.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:29:04",
+    "verseRef": "1 Timothy 5:10",
+    "bestBHT": {
+        "bht": "This passage praises the woman for her honorable works, such as bringing up children and relieving the afflicted. It highlights the importance of personal holiness and hospitality, noting that she has washed the feet, a mark of Oriental hospitality, demonstrating her humble service and care for strangers and fellow Christians. Her qualifications for leadership are also emphasized, along with the significance of experience in carrying out acts of kindness and generosity. Overall, this verse underscores the value of selfless acts, regardless of their magnitude or recognition.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.6624781393380612,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+        "commentatorTierSimilarities": [
+            36.24,
+            33.47,
+            30.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "IN honourable (excellent) works\"; the sphere or element in which the good report of her had place.",
+            "She . . . brought up children\u2014either her own or those of others, which is one of the 'good works'.",
+            "Relieved the afflicted\u2014whether by pecuniary or other relief."
+        ],
+        "Albert Barnes": [
+            "If she have brought up children - Either her own or others. The idea is, if she has done this in a proper manner.",
+            "If she have washed the saints\u2019 feet - It is not certain whether this is to be understood literally, or whether it merely denotes that she had performed offices of a humble and self-denying kind.",
+            "If she have diligently followed every good work - This is one of the characteristics of true piety. A sincere Christian will, like God, be the friend of all that is good, and will be ready to promote every good object according to his ability."
+        ],
+        "Marvin Vincent": [
+            "The phrase includes good deeds of all kinds, and not merely special works of beneficence.",
+            "Washed the feet. A mark of Oriental hospitality bestowed on the stranger arriving from a journey, and therefore closely associated with lodged strangers.",
+            "In N. T., applied to Christians. Ideally, it implies personal holiness."
+        ],
+        "John Calvin": [
+            "Paul does not wish that any should be admitted into them, but those who had excellent attestations of the whole of their past life.",
+            "He holds out this as an honorable reward to godly matrons, who have not spared themselves, that they, in their turn, shall be received into the bosom of the Church in their old age.",
+            "By a figure of speech, in which a part is taken for the whole, he means by the washing of the feet all the services which are commonly rendered to the saints."
+        ],
+        "Philip Schaff": [
+            "Including, as in the parallel of 1 Timothy 3:7, the testimony of those outside the Church.",
+            "The humblest cottage might give scope for its highest form.",
+            "As in John 13:14, the typical instance of extremest humility in ministration, analogous to the test of kissing a leper\u2019s flesh which Francis of Assisi imposed on his disciples."
+        ],
+        "Archibald T. Robertson": [
+            "Qualification for her work as leader.",
+            "Hospitality another qualification for such leadership.",
+            "Experience that qualified her for eleemosynary work."
+        ],
+        "John Gill": [
+            "Training them up in the paths of religion and virtue, from which they will not so easily depart when grown up.",
+            "This may be understood of strangers in common, but especially of the brethren, ministers, and others, who came from distant parts, and travelled about to spread the Gospel of Christ.",
+            "If she has condescended to do the meanest office for the saints."
+        ],
+        "John Wesley": [
+            "If she hath washed the feet of the saints \u2014 Has been ready to do the meanest offices for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "She has been commended for her honorable works, which include bringing up children, caring for the afflicted, and diligently pursuing every good work. When it says she washed the feet, it symbolizes her humble service, an act of hospitality and personal holiness shown to strangers and fellow Christians alike. This verse speaks to the qualifications for leadership and the importance of experience in helping others. Furthermore, it emphasizes the value of performing humble and self-denying acts, regardless of their magnitude or recognition.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5691686403289404,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "commentatorTierSimilarities": [
+                34.74,
+                34.17,
+                31.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "She has been commended for her honorable works, which include bringing up children, caring for the afflicted, and diligently pursuing every good work. This verse speaks to the qualifications for leadership and the importance of experience in helping others. Furthermore, it emphasizes the value of performing humble and self-denying acts, regardless of their magnitude or recognition.",
+            "wordCount": 57,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4676575924010824,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+            "commentatorTierSimilarities": [
+                40.6,
+                34.11,
+                25.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This passage praises the woman for her honorable works, such as bringing up children and relieving the afflicted. It highlights the importance of personal holiness and hospitality, noting that she has washed the feet, a mark of Oriental hospitality, demonstrating her humble service and care for strangers and fellow Christians. Her qualifications for leadership are also emphasized, along with the significance of experience in carrying out acts of kindness and generosity. Overall, this verse underscores the value of selfless acts, regardless of their magnitude or recognition.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.6624781393380612,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+            "commentatorTierSimilarities": [
+                36.24,
+                33.47,
+                30.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman is praised for her honorable works, like bringing up children and relieving the afflicted. Her acts of hospitality, symbolized by washing feet, demonstrate her humility and personal holiness. The passage highlights her qualifications for leadership and the importance of experience in charitable work. It emphasizes the value of humble and selfless acts, regardless of their recognition or magnitude.",
+            "wordCount": 60,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.6132676266004076,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.98,
+            "commentatorTierSimilarities": [
+                39.61,
+                32.64,
+                27.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse commends the woman for her honorable works, including bringing up children and caring for the afflicted. It emphasizes the significance of personal holiness and hospitality, symbolized by washing feet, as a qualification for leadership. The verse also highlights the value of experience in performing acts of kindness and generosity. It underscores the importance of humble and self-denying acts, regardless of their recognition or size.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.5515644113460856,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                36.46,
+                33.36,
+                30.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

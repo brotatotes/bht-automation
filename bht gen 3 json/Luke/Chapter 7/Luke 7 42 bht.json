@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:16:31",
+    "verseRef": "Luke 7:42",
+    "bestBHT": {
+        "bht": "The depth of meaning in these words shines through when we realize who said them and the means by which forgiveness was achieved. The parable illustrates the contrasting attitudes of the two debtors towards the lender who forgave them both. Grateful love does not pay the debt, but the forgiveness given is genuine and personal. It is a forgiveness bestowed freely by God, regardless of any merits or conditions on the part of the debtors. This shows that the love of a reclaimed sinner, though intense, is not as complete as a life fully dedicated to God.",
+        "wordCount": 97,
+        "quoteTokenProportion": 45.59,
+        "qualityScore": 2.062607263215068,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.92,
+        "commentatorTierSimilarities": [
+            28.3,
+            38.85,
+            32.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What depth of meaning there is in these words, if we reflect WHO said them, and by what means this forgiveness was to be wrought!",
+            "The more sin, the more love: let us then sin, that we may love the more.",
+            "The love of the reclaimed profligate may be and is intense of its kind, yet that kind is not so high nor complete as the sacrifice of the whole life\u2014to His service to whom we were in baptism dedicated."
+        ],
+        "Albert Barnes": [
+            "If it was a mere 'debt' which we owed to God, he might forgive, as this creditor did, without an equivalent. But it is 'crime' which he forgives.",
+            "A parent might forgive a 'debt' without any equivalent; but he cannot pardon an offending child without regarding his own 'character' as a parent, the 'truth' of his threatenings, the good order of his house, and the maintenance of his authority.",
+            "So our sins against God, though they are called 'debts,' are called so 'figuratively.' It is not an affair of 'money,' and God cannot forgive us without maintaining his word, the honor of his government, and law - in other words, without an 'atonement.'"
+        ],
+        "Marvin Vincent": [
+            "Frankly forgave [\u03b5\u03c7\u03b1\u03c1\u03b9\u03c3\u03b1\u03c4\u03bf] . Rev. omits frankly, which is implied in the verb. See on ver. 21."
+        ],
+        "Philip Schaff": [
+            "Grateful love does not pay any part of the debt, according to the parable.",
+            "The forgiveness was real and personal.",
+            "The fact, not the ground, of forgiveness is here brought."
+        ],
+        "Archibald T. Robertson": [
+            "Strictly, comparative more, \u03c0\u03bb\u03b5\u03b9\u03bf\u03bd, not superlative \u03c0\u03bb\u03b5\u03b9\u03c3\u03c4\u03b1, but most suits the English idiom best, even between two.",
+            "Superlative forms are vanishing before the comparative in the Koine.",
+            "This is the point of the parable, the attitude of the two debtors toward the lender who forgave both of them."
+        ],
+        "John Gill": [
+            "Man has run out his whole stock, which the God of nature gave him, in his original creation and primitive state; and is become a bankrupt and a beggar, is poor, wretched, and miserable.",
+            "Sin being committed against an infinite being, is in some sense an infinite debt, and requires an infinite satisfaction, which a finite creature can never give.",
+            "The creditor (God) frankly forgave them both: their whole debts, without regard to any merits of theirs, which they could not have, or any motives in them, or any conditions to be performed by them, but purely of his sovereign will, free grace, and rich mercy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The depth of meaning in these words becomes clear when we reflect on who said them and the way in which this forgiveness was to be accomplished. It is the love exemplified by the forgiven prodigal that gives us insight into the sacrifice required for complete devotion to God. The parable reveals the attitude of the two debtors towards the lender who forgave them both. While grateful love does not pay any part of the debt, the forgiveness given is real and personal. It is a forgiveness freely given by God, without regard to any merits or conditions on the part of the debtors.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.1174126054570257,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.74,
+            "commentatorTierSimilarities": [
+                28.93,
+                40.65,
+                30.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The depth of meaning in these words shines through when we realize who said them and the means by which forgiveness was achieved. The parable illustrates the contrasting attitudes of the two debtors towards the lender who forgave them both. Grateful love does not pay the debt, but the forgiveness given is genuine and personal. It is a forgiveness bestowed freely by God, regardless of any merits or conditions on the part of the debtors. This shows that the love of a reclaimed sinner, though intense, is not as complete as a life fully dedicated to God.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 2.062607263215068,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.92,
+            "commentatorTierSimilarities": [
+                28.3,
+                38.85,
+                32.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The depth of meaning in these words is profound, especially considering the identity of the speaker and the means by which forgiveness is achieved. The parable highlights the different attitudes of the two debtors towards the lender who forgave them both. The forgiveness given is genuine and personal, freely bestowed by God without any conditions or merits required from the debtors. This reminds us that while the love of a reformed sinner is intense, it cannot compare to a life fully dedicated to serving God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9319064972371254,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                29.44,
+                37.09,
+                33.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The depth of these words is revealed when we consider the speaker and the means of forgiveness. The parable illustrates the contrasting attitudes of the two debtors towards the forgiving lender. Genuine and personal forgiveness is given by God without any conditions or merits required on the part of the debtors. It reminds us that while the love of a reformed sinner is intense, it cannot compare to a life fully dedicated to serving God. This forgiveness is freely given, solely based on God's sovereign will and abundant mercy.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9771282914679689,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+            "commentatorTierSimilarities": [
+                27.43,
+                40.38,
+                32.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The depth of these words becomes clear when we reflect on who said them and the means by which forgiveness was achieved. The parable illustrates the contrasting attitudes of the two debtors towards the lender who forgave them both. The forgiveness given is genuine and personal, freely bestowed by God without any conditions or merits required from the debtors. This reminds us that while the love of a reformed sinner is intense, it cannot compare to a life fully dedicated to serving God. It is a forgiveness purely of God's sovereign will, free grace, and rich mercy.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.9546458675155125,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.33,
+            "commentatorTierSimilarities": [
+                26.96,
+                38.08,
+                34.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

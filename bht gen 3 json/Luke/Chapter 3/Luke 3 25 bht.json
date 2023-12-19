@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:14:24",
+    "verseRef": "Luke 3:25",
+    "bestBHT": {
+        "bht": "This passage meticulously goes through the genealogy of Jesus, specifically mentioning the governors Mattathias, Amos, and Naum, who ruled for different lengths of time. These details emphasize the authenticity and importance of Jesus' lineage, tying him to the extensive history of Israel and confirming his role as the fulfillment of God's covenant with his people.",
+        "wordCount": 56,
+        "quoteTokenProportion": 29.55,
+        "qualityScore": 0.6365836780322225,
+        "qualityScoreNormalizedComparedToV2BHTs": 12.51,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Which was the son of Mattathias....who governed ten years.",
+            "Which was the son of Amos....who governed fourteen years.",
+            "Which was the son of Naum....who governed seven years."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse in Luke 3:25 traces the genealogy of Jesus through his ancestors, mentioning key figures such as Mattathias, Amos, and Naum who governed for various periods of time. These historical details serve to highlight the significance and legitimacy of Jesus' lineage, connecting him with the rich tapestry of Israel's history and affirming his role as the fulfillment of God's promises to his people.",
+            "wordCount": 65,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 0.5980685977559341,
+            "qualityScoreNormalizedComparedToV2BHTs": 11.23,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage meticulously goes through the genealogy of Jesus, specifically mentioning the governors Mattathias, Amos, and Naum, who ruled for different lengths of time. These details emphasize the authenticity and importance of Jesus' lineage, tying him to the extensive history of Israel and confirming his role as the fulfillment of God's covenant with his people.",
+            "wordCount": 56,
+            "quoteTokenProportion": 29.55,
+            "qualityScore": 0.6365836780322225,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.51,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This verse traces the lineage of Jesus by mentioning key figures like Mattathias, Amos, and Naum who held positions of authority for specific durations. These genealogical details serve to affirm the authenticity and significance of Jesus' ancestry, demonstrating his connection to the rich historical tapestry of Israel and solidifying his role as the ultimate fulfillment of God's promises to His people.",
+            "wordCount": 62,
+            "quoteTokenProportion": 22.92,
+            "qualityScore": 0.4583368955604863,
+            "qualityScoreNormalizedComparedToV2BHTs": 6.59,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse highlights the genealogy of Jesus through notable individuals such as Mattathias, Amos, and Naum who governed for specific periods. By including these historical details, it emphasizes the importance and legitimacy of Jesus' lineage, establishing his connection to the rich history of Israel and confirming his role as the fulfillment of God's covenant with His people.",
+            "wordCount": 58,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 0.6101114474454818,
+            "qualityScoreNormalizedComparedToV2BHTs": 11.63,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse unveils the genealogy of Jesus, featuring figures like Mattathias, Amos, and Naum who held governmental positions for varying durations. By specifying these historical details, it underscores the significance and authenticity of Jesus' lineage, establishing his connection to the intricate narrative of Israel's past and attesting to his role as the ultimate fulfillment of God's covenant with His people.",
+            "wordCount": 62,
+            "quoteTokenProportion": 26.53,
+            "qualityScore": 0.4921463624688617,
+            "qualityScoreNormalizedComparedToV2BHTs": 7.71,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

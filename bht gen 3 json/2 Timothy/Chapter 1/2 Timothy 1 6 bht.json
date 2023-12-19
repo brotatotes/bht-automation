@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:29:58",
+    "verseRef": "2 Timothy 1:6",
+    "bestBHT": {
+        "bht": "Paul urges Timothy to continually cultivate and cherish the grace he received, reminding him to actively exercise the gift of God within him. The grace Timothy received during his ordination equipped him with fearlessness, power, love, and soundness of mind befitting his ministerial office. The phrase stir up suggests the need to kindle or rekindle his zeal, emphasizing the importance of nurturing his passion. Paul's personal involvement in Timothy's ordination gives weight to this reminder, underscoring the significance of cultivating and cherishing the gifts of God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 23.73,
+        "qualityScore": 1.9118847111798016,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.91,
+        "commentatorTierSimilarities": [
+            36.16,
+            38.04,
+            25.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Paul does not doubt the existence of real faith in Timothy, but he desires it to be put into active exercise.\" ",
+            "The spiritual grace received for his ministerial office, either at his original ordination, or at his consecration to the particular office of superintending the Ephesian Church, imparting fearlessness, power, love, and a sound mind.",
+            "Paul was the instrument in Timothy's ordination and reception of the grace then conferred; the presbyters were the concurrent participants in the act of ordination; so the Greek, 'dia' and 'meta'."
+        ],
+        "Albert Barnes": [
+            "The idea is, that Timothy was to use all proper means to keep the flame of pure religion in the soul burning, and more particularly his zeal in the great cause to which he had been set apart.",
+            "However rich the gifts which God has bestowed upon us, they do not grow of their own accord, but need to be cultivated by our own personal care.",
+            "It is such an expression as an aged Presbyterian, or Congregational, or Baptist minister would address to a son whom he had assisted to ordain. Nothing would be more natural than to remind him that his own hands had been laid on him when he was set apart to the work of the ministry."
+        ],
+        "Marvin Vincent": [
+            "The word is, therefore, figurative, to stir or kindle the embers.\" ",
+            "Ana combines the meanings again and up, rekindle or kindle up.",
+            "It is not necessary to assume that Timothy's zeal had become cold."
+        ],
+        "John Calvin": [
+            "The more abundantly that Timothy had received the grace of God, the more attentive (the Apostle intimates) he ought to be in making progress from day to day.",
+            "We ought, therefore, on the other hand, to strive to bring to perfection everything that is good in us, and to kindle what is languid.",
+            "Let us also remember that we should diligently profit by them, lest they be extinguished by our slothfulness."
+        ],
+        "Philip Schaff": [
+            "It is necessary to remind the disciple...to 'stir up' the gift of God, which...is thought of as a flame that may dwindle and be extinguished if not cherished and revived.",
+            "The passage is not without interest as bearing on the sacramental language of the Church. The outward sign was not only a symbol, but an instrument of the spiritual gift.",
+            "The anxiety shows itself again...to 'stir up' (literally, 'to rekindle') the gift of God."
+        ],
+        "Archibald T. Robertson": [
+            "For which cause,\" stronger than \u03b4\u03b9\u03bf. So in verse 2 Timothy 1:12; Titus 1:13. Only example of \u03b1\u03b9\u03c4\u03b9\u03b1 by Paul save in Acts 28:20.",
+            "That thou stir up (\u03c3\u03b5 \u03b1\u03bd\u03b1\u03b6\u03c9\u03c0\u03c5\u03c1\u03b5\u03b9\u03bd). Present active infinitive of \u03b1\u03bd\u03b1\u03b6\u03c9\u03c0\u03c5\u03c1\u03b5\u03c9, old double compound (\u03b1\u03bd\u03b1 and \u03b6\u03c9\u03c0\u03c5\u03c1\u03bf\u03bd, live coal, \u03b6\u03c9\u03bf\u03c2 and \u03c0\u03c5\u03c1, then the bellows for kindling), to rekindle, to stir into flame, to keep blazing (continuous action, present time), only here in N.T. See 1 Thessalonians 5:19 for the figure of fire concerning the Holy Spirit.",
+            "The gift of God (\u03c4\u03bf \u03c7\u03b1\u03c1\u03b9\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). See 1 Timothy 4:14. Here Paul says \u03bc\u03bf\u03c5 (my), there he mentions the presbytery. Paul felt a deep personal interest in Timothy."
+        ],
+        "John Gill": [
+            "That thou stir up the gift of God which is in thee; by 'the gift' is meant his ministerial gift...what qualifies men for the ministry, is not anything natural in them, nor acquired by them, but what is given unto them, and that of God."
+        ],
+        "John Wesley": [
+            "I remind thee of stirring up \u2014 Literally, blowing up the coals into a flame.",
+            "The gift of God \u2014 All the spiritual gifts, which the grace of God has given thee.",
+            "Wherefore \u2014 Because I remember this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul reminds Timothy to stir up the gift of God within him, asking him to put his faith into action. The grace Timothy received when he was ordained imparted fearlessness, power, love, and soundness of mind necessary for his ministerial office. The phrase stir up is figurative, meaning to kindle or rekindle, indicating that Timothy's zeal was not necessarily cold but needed to be continually nurtured. This reminder from Paul must have carried even greater weight, as he played a role in Timothy's ordination. It is vital for us to cultivate and cherish the gifts God has bestowed upon us, lest they dwindle and be extinguished.",
+            "wordCount": 108,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.9757593443804993,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.04,
+            "commentatorTierSimilarities": [
+                34.15,
+                39.98,
+                25.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's reminder to Timothy is to stir up the gift of God within him and put his faith into action. The grace Timothy received during his ordination endowed him with fearlessness, power, love, and a sound mind, essential for his ministerial office. While the phrase stir up is figurative, it emphasizes the importance of nurturing his zeal. Paul, having been involved in Timothy's ordination, underscores the significance of this reminder. Timothy, like us, must cultivate and cherish the gifts bestowed by God, guarding against their decline.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.7998056001971006,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                36.98,
+                36.88,
+                26.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul urges Timothy to keep the flame of his faith burning and actively exercise the grace he received. The grace given to Timothy during his ordination provided him with fearlessness, power, love, and a sound mind, empowering him for his ministerial role. The phrase stir up carries the connotation of kindling or rekindling, suggesting that Timothy's zeal required continual nurturing. Paul's personal involvement in Timothy's ordination highlights the significance of this reminder. It is vital for us to cultivate and cherish the gifts bestowed by God, preventing them from fading away.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.7934080338566303,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                35.26,
+                38.93,
+                25.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul exhorts Timothy to actively exercise the grace he received by stirring up the gift of God within him. This gift, bestowed upon Timothy during his ordination, equipped him with fearlessness, power, love, and a sound mind for his ministerial office. The phrase stir up conveys the idea of kindling or rekindling, emphasizing the need for Timothy's zealousness to be continuously nurtured. Paul's personal involvement in Timothy's ordination underscores the weight of this reminder, highlighting the importance of cultivating and cherishing the gifts given by God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8824211295974733,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                35.06,
+                38.64,
+                26.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul urges Timothy to continually cultivate and cherish the grace he received, reminding him to actively exercise the gift of God within him. The grace Timothy received during his ordination equipped him with fearlessness, power, love, and soundness of mind befitting his ministerial office. The phrase stir up suggests the need to kindle or rekindle his zeal, emphasizing the importance of nurturing his passion. Paul's personal involvement in Timothy's ordination gives weight to this reminder, underscoring the significance of cultivating and cherishing the gifts of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.9118847111798016,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.91,
+            "commentatorTierSimilarities": [
+                36.16,
+                38.04,
+                25.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

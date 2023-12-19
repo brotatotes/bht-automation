@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:53:56",
+    "verseRef": "Philippians 1:27",
+    "bestBHT": {
+        "bht": "As citizens of the heavenly state, we are called to strive together in unity of spirit and soul, setting aside any natural antipathies. Living worthily of the Gospel means applying its rules to all aspects of our lives. By doing so, we distinguish ourselves as followers of Christ, seeking to hear His voice and obey His teachings. Through unity and perseverance, we stand firm in our faith, like fellow-combatants fighting on the same side. Let us live faithfully, conforming our conduct to the rules of the gospel.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.939936791111887,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.84,
+        "commentatorTierSimilarities": [
+            30.45,
+            43.88,
+            25.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Only,\u2014i. e. I have but this to ask of you, in the prospect of my return.",
+            "with one soul striving together (the soul, receiving on the one hand influence from the spirit, on the other impressions from the outer world, is the sphere of the affections and moral energies, and thus is that in and by which the exertion here spoken of would take place.",
+            "striving together, either with one another or with me. The former is I think preferable, both on account of the one spirit and one soul, which naturally prepare the mind for a united effort."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By supposing this or that future contingency, many persuade themselves they will be such as they ought to be, but it is better always without evasion to perform present duties under present circumstances.\" ",
+            "Let your walk as citizens (namely, of the heavenly state) be.\" ",
+            "There is sometimes natural antipathies among believers; but these are overcome, when there is not only unity of spirit, but also of soul."
+        ],
+        "Albert Barnes": [
+            "The rules of the gospel are to be applied to all our conduct - to our conversation, business transactions, modes of dress, style of living, entertainments, etc. There is nothing which we do, or say, or purpose, that is to be excepted from those rules.",
+            "If all Christians were under the influence of the gospel, there would be something in their dress, temper, conversation, and aims, which would distinguish them from others.",
+            "No man on a dying bed ever yet regretted that he had framed his life by the rules of the gospel, or felt that his conduct had been conformed too much to it."
+        ],
+        "Marvin Vincent": [
+            "Let your conversation be [\u03c0\u03bf\u03bb\u03b9\u03c4\u03b5\u03c5\u03b5\u03c3\u03b8\u03b5]. Only here in Paul's writings, and elsewhere only Acts 23:1. The verb means to be a citizen. Lit., Be citizens worthily of the Gospel.\" ",
+            "The exhortation contemplates the Philippians as members of the Christian commonwealth.",
+            "The figure is that of an athletic contest, and is in keeping with standfast."
+        ],
+        "John Calvin": [
+            "But as for me, the Lord will provide, but as for you, etc., whatever may take place as to me, let it be your care, nevertheless, to go forward in the right course.",
+            "That whether I come...or whether I shall...hear...that ye stand in one spirit.",
+            "The strongest bond of concord, when we have to fight together under the same banner, for this has often been the occasion of reconciling even the greatest enemies."
+        ],
+        "Philip Schaff": [
+            "Behave as citizens worthily of the Gospel.",
+            "The Christian who aims to live worthily of the Gospel will not rest content with what was said \u2018to the men of old time,\u2019 but will be ever seeking to hear Christ\u2019s voice and to follow when he hears the \u2018I say unto you\u2019 of the Master.",
+            "Striving together for the faith of the gospel...signifies being fellow-combatants, fighting all on the same side."
+        ],
+        "Archibald T. Robertson": [
+            "Only do ye live as citizens.",
+            "Striving together as in an athletic contest.",
+            "For the teaching of the gospel, objective sense of faith."
+        ],
+        "John Gill": [
+            "A church of Christ is as a city, and is often so called; the members of it are citizens, fellow citizens, one with another, and of the household of God, and have laws and rules according to which they are to conduct themselves; as such do who walk worthy of their calling, and becoming the charter of the Gospel by which they have and hold their freedom and privileges, as citizens of the new Jerusalem.",
+            "True Christian love makes the saints to be of one heart and soul; and in this single affection to one another should they stand fast; brotherly love should continue, and all endeavours be used to keep the unity of the spirit in the bond of peace; which is another branch of becoming Gospel conversation.",
+            "Striving together for these, as wrestlers do with one another, to which the allusion is, supposes persons to strive and wrestle against; and they are such as oppose truth and themselves unto it; as all such that deny divine revelation, or the authority of the Scriptures; that say that Jesus is not the Messiah; or that Christ is not the natural and eternal Son of God; or that deny his proper deity, his satisfaction and righteousness; that reject the efficacious grace of God, and the operations of the Spirit as unnecessary, to regeneration and conversion; that advance and plead for the purity of human nature, the power of man's free will, and ascribe justification and salvation to the works of men."
+        ],
+        "John Wesley": [
+            "Only \u2014 Be careful for this, and nothing else.",
+            "Stand fast in one spirit \u2014 With the most perfect unanimity.",
+            "Striving together \u2014 With united strength and endeavors."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As citizens of the heavenly state, we are called to strive together with one another in our faith. This means that we should not only have unity of spirit, but also unity of soul, setting aside any natural antipathies among us. We are to live worthily of the Gospel, applying its rules to every aspect of our lives - our conversation, business transactions, dress, and more. By doing so, we distinguish ourselves as followers of Christ, seeking to hear His voice and obey His teachings. It is in this way that we stand fast in one spirit, striving together for the faith of the Gospel, as fellow-combatants fighting on the same side. So, let us be careful to go forward in the right course, regardless of the circumstances, and let our conduct always be conformed to the rules of the gospel.",
+            "wordCount": 141,
+            "quoteTokenProportion": 45.56,
+            "qualityScore": 1.9405339033858087,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+            "commentatorTierSimilarities": [
+                29.43,
+                43.34,
+                27.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As citizens of the heavenly state, we must strive together, not only with unity of spirit but also of soul, overcoming any natural antipathies. We are called to live as citizens worthily of the Gospel, applying its rules to every aspect of our lives. By doing so, we distinguish ourselves as followers of Christ, seeking to hear His voice and obey His teachings. This allows us to stand fast in one spirit, striving together for the faith of the Gospel, like fellow-combatants fighting on the same side. Let us always go forward in the right course and conform our conduct to the rules of the gospel.",
+            "wordCount": 107,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.0088777565754405,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+            "commentatorTierSimilarities": [
+                29.79,
+                43.79,
+                26.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As citizens of the heavenly state, we should strive together, not only with unity of spirit but also of soul, setting aside natural antipathies among us. Our conduct should be worthy of the Gospel, applying its rules to every area of our lives. By living in this way, we distinguish ourselves as followers of Christ, seeking to hear His voice and obey His teachings. In doing so, we can stand fast in one spirit, striving together for the faith of the Gospel, like fellow-combatants fighting on the same side. Let us always go forward in the right course and conform our conduct to the rules of the gospel.",
+            "wordCount": 109,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 1.9942067463357156,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.65,
+            "commentatorTierSimilarities": [
+                29.5,
+                44.33,
+                26.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As citizens of the heavenly state, we must strive together with one another and with a united effort. Living worthily of the Gospel means applying its rules to every aspect of our lives. By doing so, we distinguish ourselves as followers of Christ, seeking to hear His voice and obey His teachings. Through unity of spirit and soul, we stand fast in our faith, like fellow-combatants fighting on the same side. Let us go forward in the right course, conforming our conduct to the rules of the gospel.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9069331000880254,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                30.44,
+                42.34,
+                27.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As citizens of the heavenly state, we are called to strive together in unity of spirit and soul, setting aside any natural antipathies. Living worthily of the Gospel means applying its rules to all aspects of our lives. By doing so, we distinguish ourselves as followers of Christ, seeking to hear His voice and obey His teachings. Through unity and perseverance, we stand firm in our faith, like fellow-combatants fighting on the same side. Let us live faithfully, conforming our conduct to the rules of the gospel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.939936791111887,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.84,
+            "commentatorTierSimilarities": [
+                30.45,
+                43.88,
+                25.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

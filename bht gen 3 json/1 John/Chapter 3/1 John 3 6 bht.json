@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:47:43",
+    "verseRef": "1 John 3:6",
+    "bestBHT": {
+        "bht": "To truly grasp the essence of living in divine communion, we must understand the contrast between the child of God and the child of the devil regarding their attitude towards sin. Sin obstructs our perception and knowledge of Christ, indicating a lack of true spiritual connection. The aim for believers is to abide in Christ, living a sin-free existence. Although believers may still sin, John emphasizes the ideal reality of a life immersed in God's love, where sin and His presence cannot coexist.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 2.2733489761751917,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.93,
+        "commentatorTierSimilarities": [
+            40.55,
+            32.08,
+            27.36
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Nothing short of personal immanence in the personal Christ will satisfy the words: a living because He lives, and as receiving of His fulness.",
+            "In the child of God is the hatred of sin; in the child of the devil the love of it; and every act done in virtue of either state or as belonging to either, is done purely on one side or purely on the other.",
+            "The cutting off by an act of sin of the sight and knowledge of Christ, shews, and shews in proportion as it prevails, unreality in that sight and knowledge."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In so far as he abides in Christ, so far is he free from all sin. The ideal of the Christian. The life of sin and the life of God mutually exclude one another, just as darkness and light.\" ",
+            "All sin as such is at variance with the notion of one regenerated. Not that 'whosoever is betrayed into sins has never seen nor known God'; but in so far as sin exists, in that degree the spiritual intuition and knowledge of God do not exist in him.\" ",
+            "To see spiritually is a further step than to know; for by knowing we come to seeing by vivid realization and experimentally."
+        ],
+        "Albert Barnes": [
+            "It refers to the adherence to the Saviour as a continuous state of mind, or as having permanency; meaning that there is a life of continued faith in him.",
+            "He who is born again does not sin habitually, or is not habitually a sinner.",
+            "He who is born again will not sin finally, or will not fall away."
+        ],
+        "Marvin Vincent": [
+            "To abide in Christ is more than to be in Him, since it represents a condition maintained by communion with God and by the habitual doing of His will.\" ",
+            "John does not teach that believers do not sin, but is speaking of a character, a habit.",
+            "Throughout the Epistle he deals with the ideal reality of life in God, in which the love of God and sin exclude each other as light and darkness."
+        ],
+        "John Calvin": [
+            "Whosoever sinneth hath not seen him...except there be newness of life.",
+            "Christ is never dormant where he reigns, but the Spirit renders effectual his power.",
+            "It may be rightly said of him, that he puts sin to flight, not otherwise than as the sun drives away darkness by its own brightness."
+        ],
+        "Archibald T. Robertson": [
+            "does not keep on sinning.",
+            "the one who keeps on sinning\" (lives a life of sin, not mere occasional acts of sin as \u03b1\u03bc\u03b1\u03c1\u03c4\u03b7\u03c3\u03b1\u03c2, aorist active participle, would mean).",
+            "The habit of sin is proof that one has not the vision or the knowledge (\u03b5\u03b3\u03bd\u03c9\u03ba\u03b5\u03bd, perfect active also) of Christ."
+        ],
+        "John Gill": [
+            "Whosoever abideth in him,.... As the branch in the vine, deriving all light, life, grace, holiness, wisdom, strength, joy, peace, and comfort from Christ.",
+            "he does not live in sin, nor give up himself to a vicious course of life; for this would be inconsistent with his dwelling in Christ, and enjoying communion with him.",
+            "he has never truly and spiritually seen the glory, beauty, fulness, and suitableness of Christ, his need, and the worth of him; he has never seen him so as to enjoy him, and have communion with him."
+        ],
+        "John Wesley": [
+            "Whosoever abideth in communion with him, by loving faith, sinneth not - While he so abideth.",
+            "Whosoever sinneth certainly seeth him not - The loving eye of his soul is not then fixed upon God.",
+            "Neither doth he then experimentally know him - Whatever he did in time past."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In order to truly understand the verse, we must grasp the concept of living according to the personal Christ in divine communion. The distinction between the child of God and the child of the devil lies in their attitude towards sin. While the child of God hates sin, the child of the devil loves it. It is important to recognize that sin hinders our sight and knowledge of Christ, revealing a lack of true spiritual encounter with Him. The aim for every believer is to abide in Christ, maintaining a lifestyle free from sin. However, it is essential to note that John is not suggesting that believers will never sin, but rather highlighting the ideal reality of a life completely immersed in God's love, making sin and His presence incompatible.",
+            "wordCount": 131,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 2.273720488894092,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.94,
+            "commentatorTierSimilarities": [
+                39.44,
+                33.08,
+                27.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To fully comprehend the passage, we must grasp the significance of living in communion with the personal Christ. The dichotomy between the child of God and the child of the devil lies in their attitude towards sin. Sin obstructs our perception of Christ, indicating a lack of true spiritual connection. Ideally, believers should abide in Christ, living a sin-free existence. It is important to clarify that John does not imply that believers will never sin, but rather underscores the ideal reality of a life immersed in God's love, where sin and His presence are incompatible.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.1880212638102923,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.09,
+            "commentatorTierSimilarities": [
+                38.8,
+                33.41,
+                27.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To truly understand this verse, we need to grasp the concept of living in communion with the personal Christ. The distinction between the child of God and the child of the devil lies in their attitude toward sin. Sin hinders our sight and knowledge of Christ, revealing a lack of true spiritual encounter. The goal for believers is to abide in Christ, living a sin-free life. John doesn't suggest that believers will never sin, but emphasizes the ideal reality of a life immersed in God's love, where sin and His presence are incompatible.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.2710781676226355,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.85,
+            "commentatorTierSimilarities": [
+                39.59,
+                32.93,
+                27.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To truly grasp the essence of living in divine communion, we must understand the contrast between the child of God and the child of the devil regarding their attitude towards sin. Sin obstructs our perception and knowledge of Christ, indicating a lack of true spiritual connection. The aim for believers is to abide in Christ, living a sin-free existence. Although believers may still sin, John emphasizes the ideal reality of a life immersed in God's love, where sin and His presence cannot coexist.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.2733489761751917,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.93,
+            "commentatorTierSimilarities": [
+                40.55,
+                32.08,
+                27.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To truly understand this verse, we must grasp the concept of living in communion with the personal Christ. The distinction between the child of God and the child of the devil lies in their attitude towards sin. Sin obstructs our perception of Christ, indicating a lack of true spiritual connection. The ideal for believers is to abide in Christ, living a sin-free life. John does not deny the possibility of believers sinning, but he emphasizes the mutually exclusive nature of sin and the abiding presence of God in a believer's life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2570869699519718,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.39,
+            "commentatorTierSimilarities": [
+                38.94,
+                34.18,
+                26.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

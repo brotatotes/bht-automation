@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:14:16",
+    "verseRef": "1 Corinthians 15:32",
+    "bestBHT": {
+        "bht": "The phrase after the manner of men highlights a perspective confined by worldly views, devoid of hope beyond death. Though Paul's Roman citizenship would have prevented literal encounters with beasts, the imagery signifies the recklessness of those who ignore God's call. In the absence of belief in the resurrection, the exclamation let us eat and drink reflects a cynical response, exposing the shallowness of a life centered on temporary pleasure. This challenges the notion that life has no higher purpose, urging us to seek hope in the resurrection.",
+        "wordCount": 90,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 1.7649219235354319,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.03,
+        "commentatorTierSimilarities": [
+            29.16,
+            36.16,
+            34.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The stress of the first clause is on the words after the manner of men, and its meaning, merely as man, i.e. \u2018according to this world\u2019s views,\u2019 \u2018as one who has no hope beyond the grave.'",
+            "His Roman citizenship would have precluded his ever being literally thrown to beasts.",
+            "In Isa. the words represent the recklessness of those who utterly disregard the call of God to weeping and mourning, and feast while their time lasts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If 'merely as a man'... I have fought with men resembling savage beasts.\" ",
+            "If the dead rise not, let us eat and drink.\" ",
+            "If men but persuade themselves that they shall die like the beasts, they soon will live like beasts too."
+        ],
+        "Albert Barnes": [
+            "It was some one case when his life was endangered, and when it was regarded as remarkable that he escaped and survived.",
+            "The state of things in Ephesus when Paul was there Acts 19:0 was such as to make it nowise improbable that he would be subjected to such a trial.",
+            "It is the most natural interpretation to suppose that Paul, on some occasion, had such a contest with a wild beast at Ephesus."
+        ],
+        "Marvin Vincent": [
+            "After the manner of men [\u03ba\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03bd]. As men ordinarily do, for temporal reward; and not under the influence of any higher principle or hope.",
+            "Let us eat and drink, etc. Cited, after the Septuagint, from Isaiah 22:13. It is the exclamation of the people of Jerusalem during the siege by the Assyrians.",
+            "There was a legend that Paul was thrown, first of all, to a lion; then to other beasts, but was left untouched by them all."
+        ],
+        "John Calvin": [
+            "To what purpose were it...if all my hopes were confined to this world?",
+            "If death is the end of man, there is nothing better than that he should indulge in pleasure, free from care, so long as life lasts.",
+            "Seize the present day, depending as little as possible on any future one."
+        ],
+        "Philip Schaff": [
+            "If after encountering, as I did at Ephesus, such a furious opposition as was more like a rush of wild beasts than the hostility of reasonable men.",
+            "What doth it profit me, if the dead are not raised? Let us eat and drink, for tomorrow we die.",
+            "The sense given by the punctuation of the received text adopted by Erasmus and our Authorised Version seems to us more natural."
+        ],
+        "Archibald T. Robertson": [
+            "Like men, for applause, money, etc.",
+            "What the profit to me?",
+            "Eat, drink, enjoy thyself. The rest is nothing."
+        ],
+        "John Gill": [
+            "if after the manner of men I have fought with beasts at Ephesus\" - There were two sorts of usages among the Romans in their theatres; sometimes they cast men naked to the wild beasts, to be devoured by them, as wicked servants, deadly enemies, and the vilest of men; and sometimes they put men armed into the theatre to fight with beasts, and if they could conquer them and save themselves it was well, if not, they fell a prey to them.",
+            "what advantageth it me, if the dead rise not?\" - Instead of its being a glorious action, it was a foolhardy one; and if he had died in it, what profit could he have had by it, if he rose not again; or if there is no resurrection of the dead? ",
+            "let us eat and drink, for tomorrow we die\" - Instead of incurring such dangers, and running such risks, it would be more eligible to sit down and say with the Epicureans, let us eat and drink, for tomorrow we die."
+        ],
+        "John Wesley": [
+            "If to speak after the manner of men - That is, to use a proverbial phrase, expressive of the most imminent danger\" ",
+            "I have fought with wild beasts at Ephesus - With the savage fury of a lawless multitude",
+            "Let as eat, \u2026 \u2014 We might, on that supposition, as well say, with the Epicureans, Let us make the best of this short life, seeing we have no other portion"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 15:32, the emphasis is on the phrase after the manner of men, indicating a perspective limited to earthly views and devoid of hope beyond the grave. Though it is unlikely that Paul was literally thrown to beasts due to his Roman citizenship, it symbolizes the recklessness of those who disregard God's call for repentance. If there is no resurrection of the dead, then the exclamation of let us eat and drink becomes a cynical response, suggesting a life lived solely for temporal pleasure. This verse challenges the notion that life holds no greater purpose, reminding us that our hope lies in the resurrection and not in mere human pursuits.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.8822871662931981,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                31.92,
+                36.56,
+                31.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The phrase after the manner of men in the passage signifies a perspective limited to worldly views and lacking hope beyond death, emphasizing the potential futility of a life lived solely for temporal pleasures. Though Paul may not have been literally thrown to wild beasts, this imagery metaphorically represents the recklessness of those who disregard God's call for repentance. In the absence of belief in the resurrection, the exclamation of let us eat and drink becomes a cynical response, highlighting the emptiness of a life centered on earthly pursuits.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.8648662534772051,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                31.48,
+                35.82,
+                32.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The phrase after the manner of men emphasizes a perspective bounded by worldly views and devoid of hope beyond the grave. While Paul's Roman citizenship would have prevented literal attacks by beasts, the imagery symbolizes the recklessness of those dismissing God's call. In the absence of belief in resurrection, the exclamation let us eat and drink becomes a cynical response, showcasing the hollowness of a life focused solely on temporal pleasure. This verse challenges the notion that existence holds no greater purpose, urging us to find hope in the resurrection.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.7487089680382644,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.49,
+            "commentatorTierSimilarities": [
+                30.96,
+                36.05,
+                32.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The emphasis on after the manner of men underscores a perspective bound by worldly views, lacking hope beyond death. Though Paul's Roman citizenship would have prevented being thrown to literal beasts, the imagery represents the recklessness of those disregarding God's call. Without belief in the resurrection, the exclamation let us eat and drink becomes a cynical response, revealing the emptiness of a life consumed by temporal pleasure. This challenges the notion that life holds no greater purpose, reminding us to find hope in the resurrection.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.7598079637436341,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                30.38,
+                35.84,
+                33.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The phrase after the manner of men highlights a perspective confined by worldly views, devoid of hope beyond death. Though Paul's Roman citizenship would have prevented literal encounters with beasts, the imagery signifies the recklessness of those who ignore God's call. In the absence of belief in the resurrection, the exclamation let us eat and drink reflects a cynical response, exposing the shallowness of a life centered on temporary pleasure. This challenges the notion that life has no higher purpose, urging us to seek hope in the resurrection.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.7649219235354319,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.03,
+            "commentatorTierSimilarities": [
+                29.16,
+                36.16,
+                34.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 13:53:19",
+    "verseRef": "Philippians 2:5",
+    "bestBHT": {
+        "bht": "Have this mind in you, which was also in Christ Jesus. Paul presents Jesus as the supreme example of humility, urging the Philippians to embrace humility as the means to unity. Jesus left a state of glory to take on the humble form of humanity and perform lowly acts for our benefit. The apostle sets forth this ideal, seen embodied in Christ, as a grand example for all to follow. So let the same humble spirit and disposition be evident in you as it was in Him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 2.3546394289461543,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.63,
+        "commentatorTierSimilarities": [
+            30.42,
+            36.22,
+            33.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Think this in yourselves, which was also (the mind) in Christ Jesus.",
+            "(It is disputed whether this is said of the Son of God before, or since His Incarnation. See below. I assume now, and will presently endeavour to prove, that the Apostle\u2019s reference is first to the taking on him of our humanity, and then to his further humiliation in that humanity)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Have this mind in you,\" &amp;c. He does not put forward himself (see on Philippians 2:4, and Philippians 2:4- :) as an example, but Christ, THE",
+            "\tONE pre-eminently who sought not His own, but \"humbled",
+            "\tHimself\" (Philippians 2:8), first",
+            "\tin taking on Him our nature, secondly, in humbling Himself further in",
+            "\tthat nature (Romans 15:3)."
+        ],
+        "Albert Barnes": [
+            "Let this mind be in you, which was also in Christ Jesus - The object of this reference to the example of the Saviour is particularly to enforce the duty of humility.",
+            "This was the highest example which could be furnished, and it would illustrate and confirm all the apostle had said of this virtue.",
+            "The point here is, that he left a state of inexpressible glory, and took upon him the most humble form of humanity, and performed the most lowly offices, that he might benefit us."
+        ],
+        "Marvin Vincent": [
+            "Let this mind be in you [\u03c4\u03bf\u03c5\u03c4\u03bf \u03c6\u03c1\u03bf\u03bd\u03b5\u03b9\u03c3\u03b8\u03c9 \u03b5\u03bd \u03c5\u03bc\u03b9\u03bd] . Lit., let this be thought in you. The correct reading, however, is froneite, lit., \"think this in yourselves.\" Rev., have this mind in you."
+        ],
+        "John Calvin": [
+            "He now recommends, from the example of Christ, the exercise of humility, to which he had exhorted them in words.",
+            "He exhorts every one to have the same disposition that was in Christ.",
+            "He afterwards shews what a pattern of humility has been presented before us in Christ."
+        ],
+        "Philip Schaff": [
+            "Have this mind in yourselves which was also in Christ Jesus.",
+            "He has already said 'be of the same mind,' 'be of one mind,' and thus pointed towards a grand ideal.",
+            "He now sets forth that ideal, as it has once been seen embodied in Christ, the great Exemplar."
+        ],
+        "Archibald T. Robertson": [
+            "Keep on thinking this in you which was also in Christ Jesus.",
+            "Paul presents Jesus as the supreme example of humility.",
+            "He urges humility on the Philippians as the only way to secure unity."
+        ],
+        "John Gill": [
+            "The apostle proposes Christ as the great pattern and exemplar of humility.",
+            "Engage the saints to lowliness of mind, in imitation of him; to show forth the same temper and disposition of mind in their practice.",
+            "Let the same condescending spirit and humble deportment appear in you as in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Have this mind in you, which was also in Christ Jesus. Paul presents Jesus as the supreme example of humility, urging the Philippians to embrace humility as the means to unity. The reference is specifically to the taking on of humanity by Christ, and His subsequent humbling in that humanity. Jesus left a state of glory to take on the humble form of humanity and perform lowly acts for our benefit. The apostle sets forth this ideal, seen embodied in Christ, as a grand example for all to follow. So let the same humble spirit and disposition of mind be evident in you as it was in Him.",
+            "wordCount": 108,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.3229655631122794,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.58,
+            "commentatorTierSimilarities": [
+                30.35,
+                36.68,
+                32.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Have this mind in you, which was also in Christ Jesus. Paul presents Jesus as the supreme example of humility, urging the Philippians to embrace humility as the means to unity. Jesus left a state of glory to take on the humble form of humanity and perform lowly acts for our benefit. The apostle sets forth this ideal, seen embodied in Christ, as a grand example for all to follow. So let the same humble spirit and disposition be evident in you as it was in Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.3546394289461543,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.63,
+            "commentatorTierSimilarities": [
+                30.42,
+                36.22,
+                33.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul encourages the Philippians to adopt the mindset of Christ as an example of humility. Jesus left His glorious state to assume human nature and humble Himself further for our benefit. His selflessness serves as a model for unity and reminds believers to prioritize others over self. By imitating Christ's humbleness, we can cultivate a similar attitude that fosters harmony and unity within the community of believers.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.9663104833486513,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                27.1,
+                33.33,
+                39.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul calls upon the Philippians to have the same mindset as Christ, who exemplified supreme humility. By taking on human nature and willingly subjecting Himself to lowly acts, Christ demonstrated selflessness and prioritized the good of others over Himself. Paul presents Christ as the ultimate example of humility, encouraging the believers to follow in His footsteps. Embracing this mindset of humility is not only crucial for fostering unity but also aligns with the overall message of Christ's teachings.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.188160466394119,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.1,
+            "commentatorTierSimilarities": [
+                29.13,
+                31.04,
+                39.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul urges the Philippians to emulate the mindset of Christ, who personified humility. Jesus' incarnation and subsequent acts of self-abasement exemplify the spirit of humility that believers are called to embrace. By following Christ's example, we can cultivate a similar disposition of selflessness, prioritizing the needs of others over our own. This mindset of humility is essential for promoting unity among believers. The figure of Christ serves as the ultimate model of humility, encouraging us to imitate His example in our daily lives.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.049831255843138,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                27.82,
+                31.41,
+                40.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

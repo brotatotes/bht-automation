@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 15:17:18",
+    "verseRef": "2 Corinthians 9:1",
+    "bestBHT": {
+        "bht": "I urge you to receive our messengers with kindness and hospitality. It is superfluous for me to write to you about the duty of ministering to the saints because you are already aware of it. However, I choose to address this topic as a gentle reproof, as you have been somewhat negligent. Show love to the messengers and remember that the ministration for the saints is a responsibility that all members of Christ ought to fulfill towards one another.",
+        "wordCount": 79,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 1.6518656046245692,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+        "commentatorTierSimilarities": [
+            36.81,
+            39.87,
+            23.32
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I beseech you to receive the brethren whom I send, courteously: for concerning the duty of ministration to the saints, it is surely superfluous for me to write to you who are so prompt already.\u201d",
+            "No new subject begins, as some have supposed; nor is there any break in the sense at all.",
+            "The Apostle chooses such general terms as a mild reproof to the Corinthians, who, well aware as they were of the duty of ministering to the saints, were yet somewhat remiss in this particular example of the duty."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For as concerns the ministration for the saints, it is superfluous for me to write to you who are so forward already.\" ",
+            "It is superfluous to 'write,' for you will have witnesses present.",
+            "Show love to the messengers of the churches."
+        ],
+        "Albert Barnes": [
+            "For me to write to you - That is, to write more, or to write largely on the subject. It is unnecessary for me to urge arguments why it should be done...",
+            "It is superfluous ... - It is needless to urge that matter on you...",
+            "For as touching the ministering to the saints - In regard to the collection that was to be taken up for the aid of the poor Christians in Judea..."
+        ],
+        "John Calvin": [
+            "Love carries with it these two things, \u2014 good hope, and anxious concern.",
+            "Never would he have borne such a testimony in favor of the Corinthians, had he not been fully of the mind that he expresses.",
+            "For the members of Christ ought mutually to minister to each other. In this way, when we relieve the brethren, we do nothing more than discharge a ministry that is due to them."
+        ],
+        "Archibald T. Robertson": [
+            "Superfluous (\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03bf\u03bd). All the same he does write. \"The writing\" (\u03c4\u03bf \u03b3\u03c1\u03b1\u03c6\u03b5\u03b9\u03bd) ought to be superfluous. "
+        ],
+        "John Gill": [
+            "For as touching the ministering to the saints...[he] does not mean the ministry of the Gospel...but either the fellowship of ministering to the saints, which the churches had entreated him, and his fellow ministers, to take upon them, namely, to take the charge of their collections, and distribute them to the poor saints at Jerusalem.\" ",
+            "It is superfluous for me to write to you; that is, he thought it unnecessary to say any more upon that head, because he had used so many arguments already to engage them in it, in the foregoing chapter.\" ",
+            "He judged it needless to dwell on this subject, for the reasons following."
+        ],
+        "John Wesley": [
+            "To write to you \u2014 Largely."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I urge you to receive our messengers with kindness and hospitality. It is superfluous for me to write to you about the duty of ministering to the saints because you are already aware of it. However, I choose to address this topic in general terms as a gentle reproof, as you have been somewhat negligent in this particular example of the duty. Show love to the messengers of the churches and remember that the ministration for the saints is a responsibility that all members of Christ ought to fulfill towards one another.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.6726231981403787,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.96,
+            "commentatorTierSimilarities": [
+                37.19,
+                39.56,
+                23.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I beseech you to receive courteously the brethren whom I send, for concerning the duty of ministration to the saints, it is surely superfluous for me to write to you who are so prompt already. The Apostle chooses such general terms as a mild reproof, reminding you of your duty. Show love to the messengers of the churches and remember that the ministration for the saints is a responsibility that all members of Christ ought to fulfill towards one another.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.8707101416142708,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.54,
+            "commentatorTierSimilarities": [
+                42.06,
+                33.45,
+                24.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I beseech you to receive the brethren whom I send, courteously, for concerning the duty of ministration to the saints, it is surely superfluous for me to write to you who are so prompt already. The Apostle mildly rebukes the Corinthians for being somewhat remiss in their duty to minister to the saints. Show love to the messengers of the churches, and remember that the ministration for the saints is a responsibility that all members of Christ ought to fulfill towards one another.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.979430941242363,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                41.1,
+                35.03,
+                23.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I urge you to receive our messengers with kindness and hospitality. It is superfluous for me to write to you about the duty of ministering to the saints because you are already aware of it. However, I choose to address this topic as a gentle reproof, as you have been somewhat negligent. Show love to the messengers and remember that the ministration for the saints is a responsibility that all members of Christ ought to fulfill towards one another.",
+            "wordCount": 79,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 1.6518656046245692,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                36.81,
+                39.87,
+                23.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I urge you to receive the messengers courteously because it is unnecessary for me to write to you about the duty of ministering to the saints, as you are already well aware. The Apostle chooses general terms as a mild reproof to the Corinthians, who although aware of their duty, were remiss in their example. However, it is superfluous for me to write, as you will have witnesses present. Show love to the messengers of the churches. Love carries with it good hope and anxious concern, and it is through mutual ministry that we discharge our duty to one another. It is needless to dwell on this subject any longer, for I have already used many arguments to engage you in it.",
+            "wordCount": 122,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7027311715963662,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "commentatorTierSimilarities": [
+                37.43,
+                35.44,
+                27.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

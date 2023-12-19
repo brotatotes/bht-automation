@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:22:52",
+    "verseRef": "Luke 21:24",
+    "bestBHT": {
+        "bht": "The times of the Gentiles mark the end of their dispensation, just as the destruction of Jerusalem marked the end of the Jewish Dispensation. When the Gentile rejection of the Lord is complete, Jerusalem will cease to be trodden down by the Gentiles. The punishment of the Jews has a limit, and once fulfilled, the Jews will be restored, leading to the establishment of a unified Church comprising Jews and Gentiles. The fulfillment of this prophecy is truly astounding, as witnessed by the overwhelming devastation and captivity during the siege of Jerusalem.",
+        "wordCount": 92,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 2.5346508682463984,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.62,
+        "commentatorTierSimilarities": [
+            27.25,
+            36.97,
+            35.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The times of the Gentiles are the end of the Gentile dispensation,\u2014just as the time of Jerusalem was the end, fulfilment, of the Jewish Dispensation.",
+            "The great rejection of the Lord by the Gentile world, answering to its type, His rejection by the Jews, being finished, the time shall come, of which the destruction of Jerusalem was a type.",
+            "Times has the same me time: no essential difference is to be insisted on. It i plural, because the Gentiles (nations) are plural: each Gentile people having in turn its time."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Implying (1) that one day Jerusalem shall cease to be 'trodden down by the Gentiles' ... (2) that this shall be at the 'completion' of 'the times of the Gentiles.'",
+            "The Jews being again 'grafted into their own olive tree,' one Church of Jew and Gentile together shall fill the earth.",
+            "What a vista this opens up!"
+        ],
+        "Marvin Vincent": [
+            "Edge [\u03c3\u03c4\u03bf\u03bc\u03b1\u03c4\u03b9] . Lit., the mouth. So Wyc. Either in the sense of the foremost part, or picturing the sword as a devouring monster.\" ",
+            "Led away captive. See on captives, ch. 4 18.\" ",
+            "Trodden down. Denoting the oppression and contempt which shall follow conquest."
+        ],
+        "Philip Schaff": [
+            "And Jerusalem shall be trodden down of the Gentiles...This is its present condition.\" ",
+            "When this dispensation of the Gentiles ends, Jerusalem will be no longer trodden down.\" ",
+            "Opinions differ, however, as to whether this dispensation of the Gentiles implies their conversion to Christ or their rejection of Him."
+        ],
+        "Archibald T. Robertson": [
+            "Josephus states that 1,100,000 Jews perished in the destruction of Jerusalem and 97,000 were taken captive.",
+            "Shall be led captive... Here alone in the literal sense in the N.T.",
+            "Until the times of the Gentiles be fulfilled... the punishment of the Jews has a limit."
+        ],
+        "John Gill": [
+            "And they shall fall by the edge of the sword... The number of those that perished by the famine and sword were eleven hundred thousand.",
+            "and Jerusalem shall be trodden down of the Gentiles... and so it will be, until the times of the Gentiles be fulfilled.",
+            "till the fulness of the Gentiles is brought in; until the Gospel is preached all over the world, and all God's elect are gathered in out of all nations; and then the Jews will be converted, and return to their own land, and rebuild and inhabit Jerusalem."
+        ],
+        "John Wesley": [
+            "Eleven hundred thousand perished in the siege of Jerusalem, and above ninety thousand were sold for slaves. So terribly was this prophecy fulfilled!",
+            "The land was sold, and no Jew suffered even to come within sight of Jerusalem. The very foundations of the city were ploughed up, and a heathen temple built where the temple of God had stood.",
+            "The times of the Gentiles \u2014 That is, the times limited for their treading the city; which shall terminate in the full conversion of the Gentiles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The times of the Gentiles refer to the end of the Gentile dispensation, just as the time of Jerusalem marked the culmination of the Jewish dispensation. It implies that one day Jerusalem will cease to be oppressed and trodden down by the Gentiles, and this will happen at the completion of the times of the Gentiles. The destruction of Jerusalem was a type of the great rejection of the Lord by the Gentile world, but once the times of the Gentiles are fulfilled, the Jews will be grafted back into the olive tree, and one Church of Jew and Gentile together will fill the earth. This prophecy was indeed fulfilled, as 1,100,000 Jews perished and 97,000 were taken captive. However, opinions differ whether the end of this dispensation implies the conversion or rejection of the Gentiles.",
+            "wordCount": 134,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.585226253639367,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.3,
+            "commentatorTierSimilarities": [
+                27.46,
+                38.34,
+                34.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The times of the Gentiles mark the end of their dispensation and signify the completion of their rejection of the Lord, just as the destruction of Jerusalem represented the culmination of the Jewish dispensation. Jerusalem will no longer be oppressed by the Gentiles once the times of the Gentiles are fulfilled. This will lead to the grafting back of the Jews into the olive tree, resulting in the emergence of one Church comprising Jews and Gentiles. The fulfillment of this prophecy was seen in the devastating loss of life during the siege of Jerusalem and the subsequent captivity of the Jews. The ending of the Gentile dispensation, however, can be interpreted in different ways.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.414270081044168,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.61,
+            "commentatorTierSimilarities": [
+                27.77,
+                36.61,
+                35.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The times of the Gentiles refer to the end of their dispensation, as the destruction of Jerusalem was a type of their rejection of the Lord. When the Gentile world's rejection of the Lord, symbolized by the oppression and contempt faced by Jerusalem, is finished, Jerusalem will no longer be trodden down by the Gentiles. This will mark the completion of the times of the Gentiles and bring about the fulfillment of the prophecy, where the Jews will be restored and one Church of Jew and Gentile together will fill the earth. The devastation during the destruction of Jerusalem, with 1,100,000 Jews perishing and 97,000 taken captive, serves as a vivid testament to the fulfillment of this prophecy. The interpretation of the end of the Gentile dispensation, however, remains a matter of differing opinions.",
+            "wordCount": 133,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.5036050369824228,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.58,
+            "commentatorTierSimilarities": [
+                27.95,
+                37.39,
+                34.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The times of the Gentiles mark the end of their dispensation and signify the completion of their rejection of the Lord. When the Gentile world's rejection, akin to the rejection by the Jews, is finished, Jerusalem will no longer be trodden down by the Gentiles. The fulfillment of this prophecy was seen in the devastation and captivity during the destruction of Jerusalem, with 1,100,000 Jews perishing. The restoration of the Jews and the union of Jew and Gentile to form one Church will fill the earth, a triumphant fulfillment that is awe-inspiring to contemplate.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.4790431952099317,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.77,
+            "commentatorTierSimilarities": [
+                27.53,
+                36.64,
+                35.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The times of the Gentiles mark the end of their dispensation, just as the destruction of Jerusalem marked the end of the Jewish Dispensation. When the Gentile rejection of the Lord is complete, Jerusalem will cease to be trodden down by the Gentiles. The punishment of the Jews has a limit, and once fulfilled, the Jews will be restored, leading to the establishment of a unified Church comprising Jews and Gentiles. The fulfillment of this prophecy is truly astounding, as witnessed by the overwhelming devastation and captivity during the siege of Jerusalem.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.5346508682463984,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.62,
+            "commentatorTierSimilarities": [
+                27.25,
+                36.97,
+                35.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

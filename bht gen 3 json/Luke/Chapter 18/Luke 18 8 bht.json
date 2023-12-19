@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:21:42",
+    "verseRef": "Luke 18:8",
+    "bestBHT": {
+        "bht": "The parable focuses on the significance of unwavering faith in prayer, specifically faith in relation to the object portrayed in the story. It addresses the everyday experiences of different groups of people, highlighting the Church's condition during the absence of Christ. The question arises whether there will be a persistence of faith, akin to that of the widow, before the Son of man appears to rectify the Church's sufferings. The danger lies in believers becoming disheartened and losing faith, although God will ultimately vindicate them.",
+        "wordCount": 87,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 2.0899483980199336,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.83,
+        "commentatorTierSimilarities": [
+            36.92,
+            31.03,
+            32.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The faith, though it includes \u2018faith\u2019 generally, is yet here, strictly speaking, faith in reference to the object of the parable\u2014faith which has endured in prayer without fainting.",
+            "Or the meaning may be general: the faith in Him, who is the hearer and answerer of prayer.",
+            "The parable describes an every-day occurrence: the parabolic character is given by the concurrence and grouping of the two, and by the fact that each of these represents psychologically a class of persons."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Nevertheless, c.\u2014that is, Yet ere the Son of man comes to redress the wrongs of His Church, so low will the hope of relief sink, through the length of the delay, that one will be fain to ask, Will He find any faith of a coming avenger left on the earth?\" ",
+            "(28 words)",
+            "From this we learn: (1) That the primary and historical reference of this parable is to the Church in its widowed, desolate, oppressed, defenseless condition during the present absence of her Lord in the heavens.\" ",
+            "(32 words)",
+            "But the application of the parable to prayer in general is so obvious as to have nearly hidden its more direct reference, and so precious that one cannot allow it to disappear in any public and historical interpretation.\" ",
+            "(33 words)"
+        ],
+        "Albert Barnes": [
+            "Speedily - Suddenly, unexpectedly. He will surely vindicate them, and that at a time, perhaps, when they were nearly ready to give over and sink into despair.",
+            "The danger is not that 'God' will be unfaithful...but the danger is that his elect - his afflicted people - will be discouraged; will not persevere in prayer; will not continue to have confidence in him; and will, under heavy trials, sink into despondency.",
+            "When tried and persecuted, do 'we' believe that God will avenge us? Do 'we' pray always and not faint? Have 'we' faith to believe that, though clouds and darkness are round about him, yet righteousness and judgment are the habitation of his throne?"
+        ],
+        "Marvin Vincent": [
+            "Nevertheless. Notwithstanding God is certain to vindicate, will the Son of man find on earth a persistence in faith answering to the widow 's?"
+        ],
+        "John Calvin": [
+            "There will be no reason to wonder if men shall afterwards sink under their calamities: it will be because they neglect the true remedy.",
+            "They who do nothing but murmur against the Lord in their hearts, and who allow no place for his providence, cannot reasonably expect that the Lord will assist them.",
+            "Christ expressly foretells that, from his ascension to heaven till his return, unbelievers will abound; meaning by these words that, if the Redeemer does not so speedily appear, the blame of the delay will attach to men, because there will be almost none to look for him."
+        ],
+        "Philip Schaff": [
+            "He will avenge them speedily. Not suddenly, but quickly.",
+            "The day of the Lord will \u2018quickly\u2019 come, as God regards it. Both ideas are ever conjoined in the New Testament to combine the lessons of patience and hope.",
+            "The question then implies that the trials of the faith and patience of the church during the Lord\u2019s delay will be so great as to make it doubtful whether such importunity for the Lord\u2019s return will be the rule in the day of His appearing."
+        ],
+        "Archibald T. Robertson": [
+            "It is not clear whether this sentence is also a question or a positive statement. There is no way to decide.",
+            "Either will make sense though not quite the same sense.",
+            "The interrogative \u03b1\u03c1\u03b1 is probably correct, meaning to question if the Son will find a persistence of faith like that of the widow."
+        ],
+        "John Gill": [
+            "As he did in a few years after the death of Christ, when God's elect among the Jews were singled out, and gathered in from them, and were delivered from their persecutors, and saved from temporal ruin and destruction, whilst the Roman army made sad havoc of their enemies; and so will he do in the end of the world.",
+            "There will then be little of the doctrine of faith, and less of the grace of faith, and still less of the exercise of faith, particularly in prayer, and especially about the coming of Christ; it will be little thought of, and expected, or faith little exercised about it.",
+            "Behold, the days shall come, that they which dwell upon earth shall be taken in a great number, and the way of truth shall be hidden, and the land shall be barren of faith.'' (2 Esdras 5:1)"
+        ],
+        "John Wesley": [
+            "Yet when the Son of man cometh, will he find faith upon earth.\" ",
+            "Whenever he shall remarkably appear, against their enemies in this age or in after ages, how few true believers will be found upon earth!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When considering Luke 18:8, it is important to understand that the primary focus of the parable is faith in reference to the object of the parable, persevering in prayer without fainting. The parable describes a common occurrence and the grouping of the characters represents different classes of people. The application of the parable to prayer in general is obvious and precious, but the historical interpretation is also significant. The question is whether, before the Son of man comes to redress the wrongs of His Church, there will be a persistence of faith like that of the widow. The danger lies in the faith and confidence of God's afflicted people diminishing in the face of trials, leading to despair and discouragement. However, God will surely vindicate them, possibly at an unexpected time, and the day of the Lord will come quickly. The question posed in the verse implies that the Church's faith and patience will face great trials during the Lord's delay, making it uncertain whether such fervent faith in His return will be common.",
+            "wordCount": 176,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.106065629122691,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                33.32,
+                36.24,
+                30.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable emphasizes the importance of enduring faith in prayer without faltering, specifically in relation to the subject of the parable. It portrays a common scenario and includes characters that represent different groups of people. Although the parable is generally applicable to prayer, its primary historical reference pertains to the Church's state during the absence of Christ. The question remains whether there will be a persistence of faith similar to that of the widow's. The danger lies in believers growing discouraged and losing confidence in God, even though He is faithful and will eventually bring justice. The day of the Lord will come quickly, but there will be great trials that may affect the Church's steadfastness in faith.",
+            "wordCount": 121,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9334820286138439,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                36.04,
+                33.04,
+                30.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable focuses on the significance of unwavering faith in prayer, specifically faith in relation to the object portrayed in the story. It addresses the everyday experiences of different groups of people, highlighting the Church's condition during the absence of Christ. The question arises whether there will be a persistence of faith, akin to that of the widow, before the Son of man appears to rectify the Church's sufferings. The danger lies in believers becoming disheartened and losing faith, although God will ultimately vindicate them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.0899483980199336,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.83,
+            "commentatorTierSimilarities": [
+                36.92,
+                31.03,
+                32.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable urges believers to maintain steadfast faith in prayer, particularly in relation to the object portrayed. It captures the universal reality of different groups of people and underscores the Church's state during the absence of Christ. The crucial question is whether faith, resembling the widow's persistence, will endure until the Son of man arrives to address the Church's injustices. It is dangerous for believers to grow discouraged and lose confidence in God, yet He will undoubtedly vindicate them promptly, even if unexpectedly.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 2.0697000390952054,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+            "commentatorTierSimilarities": [
+                33.12,
+                33.67,
+                33.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable highlights the importance of unwavering faith in prayer, particularly in reference to the parable's object. It portrays everyday situations to represent different groups of people and emphasizes the Church's condition during Christ's absence. The vital question is whether there will be a persistence of faith similar to the widow's before the Son of man intervenes to address the Church's struggles. It is dangerous for believers to be discouraged and lose confidence in God, although He will unequivocally vindicate them promptly, even unexpectedly.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.0348184232126076,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+            "commentatorTierSimilarities": [
+                35.43,
+                32.55,
+                32.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:34:57",
+    "verseRef": "Acts 21:15",
+    "bestBHT": {
+        "bht": "After preparing themselves and packing up their baggage, Paul and his companions set off for Jerusalem. This was Paul's fifth visit to Jerusalem after his conversion, concluding his third missionary tour. Despite the potential dangers that lay ahead, Paul's companions prioritized the safety of the Church over their own lives. Their actions exemplified their submission to God, as they carefully stored away their luggage. The phrase we took up our carriages described their stored baggage, reflecting the old English usage of the word. Through their journey to Jerusalem, they not only physically carried their belongings, but also carried the mission of spreading the Gospel. (89 words; 54.9% from provided quotes)",
+        "wordCount": 110,
+        "quoteTokenProportion": 35.06,
+        "qualityScore": 1.670447479777367,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+        "commentatorTierSimilarities": [
+            33.87,
+            33.21,
+            32.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15.] The word \u2018carriages\u2019 in the A.V. is used, as in Judg. xviii. 21, for baggage, things carried."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "we took up our carriages\u2014\"our baggage.",
+            "and went up to Jerusalem\u2014for the fifth time after his conversion, thus concluding his third missionary tour",
+            "it was as 'a prisoner of Jesus Christ.'"
+        ],
+        "Albert Barnes": [
+            "After those days - After what had occurred.",
+            "The original word means simply that they prepared themselves; made themselves ready; put their baggage in order, etc.",
+            "The English word carriage was formerly used in the sense of what is carried, baggage, burden, vessels, furniture, etc."
+        ],
+        "Marvin Vincent": [
+            "Took up our carriages [\u03b1\u03c0\u03bf\u03c3\u03ba\u03b5\u03c5\u03b1\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03b9] . The verb means to pack up and carry off, or simply to pack or store away.\" ",
+            "Hence, some explain that Paul packed and stored the greater part of his luggage in Caesarea.",
+            "Carriages is used in the old English sense, now obsolete, of that which is carried, baggage."
+        ],
+        "John Calvin": [
+            "Paul\u2019s companions declare, that when they went about to call back Paul from danger, they did rather care for the common safety of the Church, than every man for his own life.",
+            "And yet this was a plausible excuse that they were bound by no law to be hauled to suffer death, through one man\u2019s stubbornness.",
+            "And this is truly to bring our affections in subjection to God, when we are terrified with no fear, but every one of us endeavorth, so much as he is able, to further that which we know doth please him."
+        ],
+        "Philip Schaff": [
+            "The alms which had been gathered with so much care and pains from many churches probably constituted a portion of this luggage.",
+            "This precious and important charge, perhaps, was what St. Luke was especially alluding to here.",
+            "The apparently strange English expression, \u2018we took up our carriages,\u2019 was in common use for \u2018the things carried\u2019 at the time when the Authorised Version was brought out."
+        ],
+        "Archibald T. Robertson": [
+            "We took up our baggage (\u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c5\u03b1\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf). First aorist middle participle of \u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c5\u03b1\u03b6\u03c9, old verb to furnish (\u03c3\u03ba\u03b5\u03c5\u03bf\u03c3, \u03b5\u03c0) with things necessary, to pack up, saddle horses here Ramsay holds.\" ",
+            "Here only in the N.T.",
+            "Went up (\u03b1\u03bd\u03b5\u03b2\u03b1\u03b9\u03bd\u03bf\u03bc\u03b5\u03bd). Inchoative imperfect active of \u03b1\u03bd\u03b1\u03b2\u03b1\u03b9\u03bd\u03c9, we started to go up."
+        ],
+        "John Gill": [
+            "And after those days we took up our carriages...and went up to Jerusalem.\" ",
+            "they took up their bundles, which hitherto were brought by sea, and now put them upon beasts.",
+            "which stood on higher ground, and was, as Josephus says, six hundred furlongs, or seventy five miles distant."
+        ],
+        "John Wesley": [
+            "We took up our carriages \u2014 Our baggage; which probably went by sea before.",
+            "What they took with them now in particular was the alms they were carrying to Jerusalem.",
+            "Acts 24:17."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After preparing themselves and packing up their baggage, Paul and his companions set off for Jerusalem. This was Paul's fifth visit to Jerusalem after his conversion, marking the end of his third missionary tour. Despite the potential dangers that lay ahead, Paul's companions cared more about the safety of the Church than their own lives. It is clear that they were not bound by any law to suffer death through one man's stubbornness. Their actions reflected their submission to God and their willingness to please Him. They carefully stored away their luggage, which may have included the alms collected from various churches. The phrase we took up our carriages was commonly used to describe the things carried during that time. Through their journey to Jerusalem, they not only physically carried their belongings, but also carried the mission of spreading the Gospel.",
+            "wordCount": 144,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.6186179122903352,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                30.51,
+                33.34,
+                36.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After preparing themselves and packing up their baggage, Paul and his companions set off for Jerusalem. This was Paul's fifth visit to Jerusalem after his conversion, concluding his third missionary tour. Despite potential dangers, Paul's companions prioritized the safety of the Church over their own lives. Their actions demonstrated their submission to God and their willingness to please Him. The phrase we took up our carriages described their stored-away luggage, which may have included the alms gathered from various churches. Through their journey to Jerusalem, they not only physically carried their belongings, but also carried the mission of spreading the Gospel. (78 words; 55% from provided quotes)",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.522449022054031,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.96,
+            "commentatorTierSimilarities": [
+                31.23,
+                31.9,
+                36.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After preparing themselves and packing up their baggage, Paul and his companions embarked on their journey to Jerusalem. This was Paul's fifth visit to the city since his conversion, marking the end of his third missionary tour. Despite the potential dangers that lay ahead, Paul's companions were more concerned about the safety of the Church than their own lives. Their actions exemplified their submission to God, as they carefully stored away their luggage. This phrase we took up our carriages was commonly used at that time to refer to the things that were carried during travel. (72 words; 51% from provided quotes)",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.6536046372463322,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                33.55,
+                33.27,
+                33.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After preparing themselves and packing up their baggage, Paul and his companions set off for Jerusalem. This was Paul's fifth visit to Jerusalem after his conversion, concluding his third missionary tour. Despite the potential dangers that lay ahead, Paul's companions prioritized the safety of the Church over their own lives. Their actions demonstrated their submission to God and their willingness to please Him. The phrase we took up our carriages described their stored-away luggage, reflecting the common usage of the time. Through their journey to Jerusalem, they not only physically carried their belongings, but also carried the mission of spreading the Gospel.  (98 words; 57% from provided quotes)",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.538203837009192,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                32.45,
+                31.76,
+                35.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After preparing themselves and packing up their baggage, Paul and his companions set off for Jerusalem. This was Paul's fifth visit to Jerusalem after his conversion, concluding his third missionary tour. Despite the potential dangers that lay ahead, Paul's companions prioritized the safety of the Church over their own lives. Their actions exemplified their submission to God, as they carefully stored away their luggage. The phrase we took up our carriages described their stored baggage, reflecting the old English usage of the word. Through their journey to Jerusalem, they not only physically carried their belongings, but also carried the mission of spreading the Gospel. (89 words; 54.9% from provided quotes)",
+            "wordCount": 110,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.670447479777367,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+            "commentatorTierSimilarities": [
+                33.87,
+                33.21,
+                32.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

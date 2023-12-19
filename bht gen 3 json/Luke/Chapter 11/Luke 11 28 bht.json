@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:18:22",
+    "verseRef": "Luke 11:28",
+    "bestBHT": {
+        "bht": "Jesus confirms the honor bestowed upon His mother but redirects the focus to her true blessedness - her faithful obedience to the word of God. He highlights that the true honor of Mary lies in her belief and obedience rather than her role as His mother. This response challenges the worship of Mary and emphasizes that genuine blessedness is found in hearing and obeying the word of God. It underscores the importance of not just hearing the word, but also living it out in practice.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.6960398270462904,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.74,
+        "commentatorTierSimilarities": [
+            36.64,
+            36.56,
+            26.8
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In truth. He does not deny the honour hereby pronounced upon His mother, but beautifully turns it to its true side\u2014viz. that which was given her long since\u2014blessed is she that believed.\" ",
+            "Her blessedness consisted not so much in being His mother, as in her lowly and faithful observance of the word of the Lord spoken to her.",
+            "It will be seen that this answer cuts at the root of all worship of Mary, and shews us in what the true honour of that holy woman consisted,\u2014in faith and obedience."
+        ],
+        "Philip Schaff": [
+            "The ground of her blessedness, as in the case of all the human race, unto whom in the highest sense, 'a child is born, a son is given,' is that she too belonged to them that hear the word of God and keep it.",
+            "This woman truly represents devout Roman Catholics in their Adoration of the Virgin. The Ave Maria, as they use it, is but a repetition of her words; and their religious enthusiasm too often manifests the same unintelligent wonder, which is here kindly reproved by our Lord.",
+            "His answer gives prominence not to His own word, but to 'the word of God;' for though they are the same, the woman was thinking solely of His human birth, and not of His heavenly Father; and this mistake He would correct."
+        ],
+        "Archibald T. Robertson": [
+            "The originality of Christ's reply guarantees its historical character.",
+            "Such a comment is beyond the reach of an inventor."
+        ],
+        "John Gill": [
+            "Yea rather, blessed are they that hear the word of God and keep it; intimating, that though his mother was happy in bearing and suckling such a son, yet it was a far greater happiness to hear the word of God.",
+            "This is a greater happiness than to be related to Christ in the flesh, though ever so nearly.",
+            "Barely to hear the word, and even give an assent to it, will be of little avail, unless what is heard and believed is put in practice."
+        ],
+        "John Wesley": [
+            "Yea, rather blessed are they that hear the word of God and keep it.\" ",
+            "For if even she that bare him had not done this, she would have forfeited all her blessedness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 11:28, Jesus acknowledges the honor bestowed upon His mother, but redirects the focus to the true source of her blessedness: her faith and obedience in hearing and keeping the word of God. This response challenges the worship of Mary and emphasizes the importance of living out the word of God, rather than mere acknowledgment. It is a reminder that true blessedness is found in not only hearing the word, but also putting it into practice. Jesus' reply not only reveals the historical authenticity of His words, but also highlights the significance of aligning one's life with the teachings of the Scriptures.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.7006039430461932,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                34.6,
+                38.94,
+                26.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus affirms the honor bestowed upon His mother, emphasizing the true source of her blessedness - her faithful obedience to the word of God. This redirects the focus from mere motherhood to the significance of her unwavering trust. It cuts at the root of Mary worship, demonstrating that her true honor lies in her faith and obedience. This authentic reply by Jesus highlights the importance of aligning one's life with the teachings of Scripture, finding greater blessedness in hearing and keeping the word of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6692679303390854,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "commentatorTierSimilarities": [
+                38.79,
+                36.12,
+                25.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in Luke 11:28, acknowledges the honor bestowed upon His mother but redirects the focus to the true source of her blessedness - her faithful observance of the word of the Lord. He emphasizes that the honor of Mary lies not in her role as His mother but in her obedience and belief in God's word. This response cuts at the root of the worship of Mary, highlighting that true honor is found in faith and obedience to the word of God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.8989889855784585,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                38.65,
+                37.18,
+                24.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus confirms the honor bestowed upon His mother but redirects the focus to her true blessedness - her faithful obedience to the word of God. He highlights that the true honor of Mary lies in her belief and obedience rather than her role as His mother. This response challenges the worship of Mary and emphasizes that genuine blessedness is found in hearing and obeying the word of God. It underscores the importance of not just hearing the word, but also living it out in practice.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6960398270462904,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.74,
+            "commentatorTierSimilarities": [
+                36.64,
+                36.56,
+                26.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Luke 11:28, Jesus affirms the honor given to His mother but redirects the attention to the true essence of her blessedness, which lies in her faithful adherence to God's word. He clarifies that the reputation of Mary is not based solely on her role as His mother, but on her unwavering faith and obedience. This response dismantles the worship of Mary and emphasizes the importance of living out the word of God. It serves as a reminder that genuine blessedness stems from both hearing and obeying God's teachings.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.748092818584349,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                35.43,
+                39.46,
+                25.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:13:02",
+    "verseRef": "Galatians 1:15",
+    "bestBHT": {
+        "bht": "Before his birth, God had already determined and separated Paul for a special calling into the kingdom and service of Christ. This divine act was not based on Paul's own merits or qualifications, but purely on God's grace and pleasure. Paul regarded himself as a spiritual Pharisee, set apart for the gospel of God. His understanding of his calling emphasizes God's providence and election, reflecting the unconditional predestination of those whom God chooses to use for His purposes.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.091737295965008,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+        "commentatorTierSimilarities": [
+            32.64,
+            31.19,
+            36.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was God\u2019s act, determined at his very birth.",
+            "To understand this 'call' as an act in the divine Mind, is contrary to our Apostle\u2019s usage of the word.",
+            "This calling first took place, then the revelation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "in order to show in me His 'pleasure,' which is the farthest point that any can reach in inquiring the causes of his salvation.",
+            "I was once a so-called Pharisee or Separatist, but God had separated me to something far better.",
+            "Grace is the sole cause."
+        ],
+        "Albert Barnes": [
+            "God often, if not always, has purposes in regard to people from their very birth.",
+            "It does not follow that because a young man has gone far astray...that God has not destined him to some important and holy work in his service.",
+            "God is often training up people in a remarkable manner for future usefulness."
+        ],
+        "Marvin Vincent": [
+            "Separated [\u03b1\u03c6\u03bf\u03c1\u03b9\u03c3\u03b1\u03c2]. Set apart: designated.",
+            "From my mother's womb [\u03b5\u03ba \u03ba\u03bf\u03b9\u03bb\u03b9\u03b1\u03c2 \u03bc\u03b7\u03c4\u03c1\u03bf\u03c2 \u03bc\u03bf\u03c5]. Before I was born.",
+            "Called [\u03ba\u03b1\u03bb\u03b5\u03c3\u03b1\u03c2]. Referring to Paul's call into the kingdom and service of Christ."
+        ],
+        "John Calvin": [
+            "God had, no doubt, decreed, before the foundation of the world, what he would do with regard to every one of us, and had assigned to every one, by his secret counsel, his respective place.",
+            "Paul intended to assert, that his calling depends on the secret election of God; and that he was ordained an apostle, not because by his own industry he had fitted himself for undertaking so high an office, or because God had accounted him worthy of having it bestowed upon him, but because, before he was born, he had been set apart by the secret purpose of God.",
+            "We owe it to the goodness of God, not only that we have been elected and adopted to everlasting life, but that he deigns to make use of our services, who would otherwise have been altogether useless, and that he assigns to us a lawful calling, in which we may be employed."
+        ],
+        "Archibald T. Robertson": [
+            "Paul had no doubt about God's purpose in him.",
+            "Paul conceives himself as a spiritual Pharisee 'separated unto the gospel of God'.",
+            "Before his birth God had his plans for him and called him."
+        ],
+        "John Gill": [
+            "All which he ascribes entirely to the sovereign good pleasure, and free grace of God.",
+            "God's eye of Providence is upon them, his heart is towards them, he waits upon them to be gracious to them, and many are the remarkable appearances of Providence for them.",
+            "He did not thrust himself into this work, but God called him; and that of his mere grace and good will, without any respect to any merits, deserts, or qualifications in him."
+        ],
+        "John Wesley": [
+            "He ascribes nothing to his own merits, endeavors, or sincerity.\" ",
+            "Such an unconditional predestination as this may consist, both with God's justice and mercy.",
+            "By his free and almighty love, to be both a Christian and an apostle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Before his birth, God had already determined and separated Paul for a special calling into the kingdom and service of Christ. This divine act was not based on Paul's own merits or qualifications, but purely on God's grace and pleasure. Paul regarded himself as a spiritual Pharisee, set apart for the gospel of God. His calling was not the result of his own efforts or worthiness, but a manifestation of God's sovereign good pleasure and free grace. Paul's understanding of his calling emphasizes God's providence and election, reflecting the unconditional predestination of those whom God chooses to use for His purposes. It is a reminder that our usefulness in God's service is entirely owed to His goodness and that our calling is a product of His love and mercy.",
+            "wordCount": 135,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 2.078847642830896,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+            "commentatorTierSimilarities": [
+                29.99,
+                31.29,
+                38.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Before his birth, God had already determined and separated Paul for a special calling into the kingdom and service of Christ. This divine act was not based on Paul's own merits or qualifications, but purely on God's grace and pleasure. Paul regarded himself as a spiritual Pharisee, set apart for the gospel of God. His understanding of his calling emphasizes God's providence and election, reflecting the unconditional predestination of those whom God chooses to use for His purposes.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.091737295965008,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+            "commentatorTierSimilarities": [
+                32.64,
+                31.19,
+                36.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's act of calling Paul into the kingdom and service of Christ was determined even before Paul's birth. This calling was solely due to God's grace and pleasure, not any qualifications or merits of Paul. Paul recognized himself as set apart for the gospel of God, emphasizing God's providence and election in his calling. It is a reminder that our own usefulness and calling in God's service are entirely owed to His goodness and are a result of His unconditional predestination and free grace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.0758141159813457,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.36,
+            "commentatorTierSimilarities": [
+                31.25,
+                30.34,
+                38.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's calling into the kingdom and service of Christ was not based on his own merits, but rather on God's grace and pleasure. Before Paul was even born, God had set him apart for this purpose. This calling highlights the providence and election of God in choosing and using individuals for his work. It is a reminder that our own usefulness and calling in God's service are entirely owed to His goodness and are a result of His unconditional predestination and free grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.000033974816938,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                30.03,
+                32.03,
+                37.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Before his birth, God had already determined and separated Paul for a special calling into the kingdom and service of Christ. This divine act was not based on Paul's own merits or qualifications, but purely on God's grace and pleasure. Paul regarded himself as a spiritual Pharisee, set apart for the gospel of God. His calling emphasized God's providence and election, reflecting the unconditional predestination of those chosen to be used by God. Our usefulness in God's service is owed solely to His goodness and is a reflection of His free and almighty love.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.0641532749191915,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                30.14,
+                31.84,
+                38.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:01:25",
+    "verseRef": "Romans 3:2",
+    "bestBHT": {
+        "bht": "The Jews had a significant advantage in every aspect of the spiritual life as they were entrusted with the oracles of God. This privilege encompassed the divine communications found in the Old Testament scriptures, which were authoritative and possessed a divine character. Possessing the sacred Scriptures and their instructions was the principal benefit of being a Jew, surpassing the mere sign of circumcision. Their negligence or disdain towards the Word of God, in light of these tremendous privileges, is highly reprehensible.",
+        "wordCount": 81,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 2.1682375920801826,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.43,
+        "commentatorTierSimilarities": [
+            27.19,
+            40.28,
+            32.53
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words, much every way, answer the first question of ver. 1, but take no account of the second, as it is virtually included in the first.",
+            "every way] i.e. in all departments of the spiritual life.",
+            "the oracles of God] These words look very like a reminiscence of Stephen\u2019s apology, see Acts vii, 38."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "unto them were committed the oracles of God\u2014This remarkable expression, denoting 'divine communications' in general, is transferred to the Scriptures to express their oracular, divine, authoritative character.",
+            "unto them were committed the oracles of God\u2014This remarkable expression...express their oracular, divine, authoritative character.",
+            "This remarkable expression...express their oracular, divine, authoritative character."
+        ],
+        "Albert Barnes": [
+            "This is the principal advantage, and one including all others. The main benefit of being a Jew is, to possess the sacred Scriptures and their instructions.",
+            "The word rendered 'oracles' occurs in the New Testament but four times... It is evidently used here to denote the Scriptures, as being what was spoken by God, and particularly perhaps the divine promises.",
+            "No higher favor can be conferred on a people than to be put in possession of the sacred Scriptures."
+        ],
+        "Marvin Vincent": [
+            "Chiefly [\u03c0\u03c1\u03c9\u03c4\u03bf\u03bd] . Rev., first of all; i.e., first in order.",
+            "The oracles [\u03c4\u03b1 \u03bb\u03bf\u03b3\u03b9\u03b1] . Diminutive. Strictly, brief utterances.",
+            "Not especially Messianic passages, but the Old Testament scriptures with the law and the promises."
+        ],
+        "John Calvin": [
+            "If then regard be had to them as men, he shows that they were on a level with others; but if the favors of God be taken to the account, he admits that they possessed what made them more eminent than other men.",
+            "And it is worthy of being noticed, that the advantage of circumcision is not made to consist in the naked sign, but its value is derived from the word.",
+            "But if this benefit was to be so highly esteemed when the Lord favored one nation only with the revelation of his word, we can never sufficiently reprobate our ingratitude, who receive his word with so much negligence or with so much carelessness, not to say disdain."
+        ],
+        "Philip Schaff": [
+            "\u2018Every way\u2019 means, under every moral and religious aspect, whichever way you look at it.",
+            "The possession of the Old Testament was the chief advantage, but \u2018first of all\u2019 suggests that there were others.",
+            "It clearly follows that the possession of the entire written revelation of God is to be deemed a greater privilege."
+        ],
+        "Archibald T. Robertson": [
+            "The overplus of the Jew is much from every angle.",
+            "They were entrusted with the oracles of God.",
+            "The idea may include all the Old Testament, though the commands and promises of God may be all."
+        ],
+        "John Gill": [
+            "The circumcised Jew has greatly the advantage of the uncircumcised Gentile, in all respects, on every side.",
+            "It was the privilege and profit of the Jews that they were entrusted with [the oracles of God], when other nations were not, and so had the advantage of them.",
+            "They had them for their own use; for hereby they had a more clear and distinct knowledge of God than the Gentiles could have by the light of nature."
+        ],
+        "John Wesley": [
+            "Chiefly in that they were intrusted with the oracles of God.\" ",
+            "The scriptures, in which are so great and precious promises.\" ",
+            "After removing the objection, he will convict them so much the more."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews had a significant advantage in every aspect of the spiritual life because they were entrusted with the oracles of God. This privilege encompasses all the divine communications in the Old Testament, including the law, promises, and brief utterances from God. Possessing the sacred Scriptures and their instructions was the principal benefit of being a Jew. It is important to note that this advantage derived not from the mere sign of circumcision, but from the value derived from the word itself. As recipients of God's special revelation, the Jews had a clearer and more distinct knowledge of God than the Gentiles. Therefore, their negligence or disdain towards the Word of God is highly reprehensible. These undeniable privileges only heighten the Jews' responsibility to fully embrace and live according to the oracles entrusted to them.",
+            "wordCount": 136,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.052522578055159,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                25.46,
+                40.56,
+                33.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews possessed a great advantage in all departments of the spiritual life as they were entrusted with the oracles of God. This expression denotes the divine communications found in the Scriptures, which are authoritative and possess a divine character. The principal benefit of being a Jew was the possession of the sacred Scriptures and their instructions. The advantage derived from the Word of God was not solely based on the sign of circumcision but on the value derived from the word itself, allowing them to have a clearer and more distinct knowledge of God. It is crucial to recognize the grave ingratitude of neglecting or disregarding the Word of God in light of these privileges.",
+            "wordCount": 116,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.091335470122777,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.88,
+            "commentatorTierSimilarities": [
+                26.05,
+                43.33,
+                30.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews had a significant advantage in the spiritual life as they were entrusted with the oracles of God. This divine communication, encompassing the Old Testament scriptures, held authoritative and divine character. Possessing the sacred Scriptures and their instructions was the chief advantage for the Jews. This advantage, encompassing all aspects of the spiritual life, derived not solely from the sign of circumcision but from the value derived from the Word itself. Neglecting or disregarding the Word of God in light of these privileges would be an act of grave ingratitude.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.084774552216552,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                26.57,
+                42.16,
+                31.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews had a distinct advantage in all areas of the spiritual life as they were entrusted with the oracles of God. This remarkable expression denotes the authoritative and divine character of the Old Testament scriptures. Possessing the sacred Scriptures and their instructions was the chief advantage for the Jews, surpassing the mere sign of circumcision. Neglecting or disregarding the Word of God, despite these privileges, would demonstrate great ingratitude. The Jews' clearer and more profound knowledge of God placed upon them a higher level of responsibility.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.14270199053424,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.59,
+            "commentatorTierSimilarities": [
+                27.76,
+                40.34,
+                31.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews had a significant advantage in every aspect of the spiritual life as they were entrusted with the oracles of God. This privilege encompassed the divine communications found in the Old Testament scriptures, which were authoritative and possessed a divine character. Possessing the sacred Scriptures and their instructions was the principal benefit of being a Jew, surpassing the mere sign of circumcision. Their negligence or disdain towards the Word of God, in light of these tremendous privileges, is highly reprehensible.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.1682375920801826,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.43,
+            "commentatorTierSimilarities": [
+                27.19,
+                40.28,
+                32.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

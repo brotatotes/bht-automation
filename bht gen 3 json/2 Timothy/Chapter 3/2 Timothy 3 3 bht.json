@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:31:00",
+    "verseRef": "2 Timothy 3:3",
+    "bestBHT": {
+        "bht": "Without natural affection, truce-breakers, incontinent, fierce, despisers of those that are good - all these characteristics point to individuals who lack basic human decency and moral values. They show no love or care for others, refusing to reconcile or make peace, disregarding agreements and treaties. Their behavior is marked by an absence of self-control and an indifference to what is good and beneficial. These individuals are like false accusers, spreading slander and wreaking havoc among relationships.",
+        "wordCount": 77,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.4440810987614645,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.36,
+        "commentatorTierSimilarities": [
+            26.38,
+            34.12,
+            39.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "truce-breakers\u2014rather as",
+            "\tthe Greek is translated in :-, 'implacable.'",
+            "incontinent, fierce\u2014at",
+            "\tonce both soft and hard: incontinently indulging themselves, and",
+            "\tinhuman to others.",
+            "despisers, c.\u2014'no",
+            "\tlovers of good' [ALFORD]",
+            "\tthe opposite of 'a lover of good' (Titus 2:3- :)."
+        ],
+        "Albert Barnes": [
+            "Without natural affection - see the notes at Romans 1:31.",
+            "It may thus refer to those who are unwilling to enter into any agreement; that is, either those who are unwilling to be reconciled to others when there is a variance - implacable; or those who disregard treaties or agreements.",
+            "Religion produces gentleness; the want of it makes men rough, harsh, cruel."
+        ],
+        "Marvin Vincent": [
+            "Without natural affection. Only here and Romans 1:31.",
+            "Truce-breakers. The meaning is, refusing to enter into treaty, irreconcilable.",
+            "Despisers of those that are good. Better, haters of good."
+        ],
+        "Philip Schaff": [
+            "Truce-breakers...those with whom no truce can be made.",
+            "False accusers...slanderers.",
+            "Fierce...untameable or inhuman.",
+            "Despisers of them that are good...having no love of good."
+        ],
+        "Archibald T. Robertson": [
+            "Implacable (\u03b1\u03c3\u03c0\u03bf\u03bd\u03b4\u03bf). Truce-breakers.",
+            "Without self-control (\u03b1\u03ba\u03c1\u03b1\u03c4\u03b5\u03b9\u03c2). Old word (\u03b1 privative and \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2), here only in N.T.",
+            "No lovers of good (\u03b1\u03c6\u03b9\u03bb\u03b1\u03b3\u03b1\u03b8\u03bf). Found only here (\u03b1 privative and \u03c6\u03b9\u03bb\u03b1\u03b3\u03b1\u03b8\u03bf\u03c2, for which see Titus 1:8)."
+        ],
+        "John Gill": [
+            "Without natural affection... parents thrusting their children into religious houses, cloisters, c. against their wills children leaving their parents without their knowledge or consent; married bishops and priests being obliged to quit their wives, and declare their children spurious; with many other such unnatural actions.",
+            "Trucebreakers... stirring up princes to break through their treaties and covenants with one another; dissolving the allegiance of subjects to their sovereigns... making void all oaths, contracts, and agreements, among men, which stand in the way of their designs; teaching that no faith is to be kept with heretics.",
+            "False accusers... charging all that depart from their communion with schism and heresy... being like Satan, the accuser of the brethren."
+        ],
+        "John Wesley": [
+            "Without natural affection \u2014 To their own children.",
+            "Intemperate, fierce \u2014 Both too soft, and too hard."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Without natural affection, truce-breakers, incontinent, fierce, despisers of those that are good - all these characteristics point to individuals who lack basic human decency and moral values. They show no love or care for others, refusing to reconcile or make peace, disregarding agreements and treaties. Their behavior is marked by an absence of self-control and an indifference to what is good and beneficial. This implies a troubling lack of empathy and compassion, resulting in a harsh and inhuman disposition. These individuals are like false accusers, spreading slander and wreaking havoc among relationships. Their actions reflect a detachment from the natural affection that should exist in human relationships, causing harm and discord wherever they go.",
+            "wordCount": 115,
+            "quoteTokenProportion": 36.05,
+            "qualityScore": 1.3834591273998436,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.34,
+            "commentatorTierSimilarities": [
+                24.88,
+                35.23,
+                39.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Without natural affection, truce-breakers, incontinent, fierce, despisers of those that are good - all these characteristics point to individuals who lack basic human decency and moral values. They show no love or care for others, refusing to reconcile or make peace, disregarding agreements and treaties. Their behavior is marked by an absence of self-control and an indifference to what is good and beneficial. These individuals are like false accusers, spreading slander and wreaking havoc among relationships.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4440810987614645,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.36,
+            "commentatorTierSimilarities": [
+                26.38,
+                34.12,
+                39.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Without natural affection, truce-breakers, incontinent, and despisers of those that are good - these characteristics describe individuals who lack basic human decency and moral values. They refuse to reconcile or make peace, disregarding agreements and treaties. Their lack of self-control and disregard for what is good is evident. They are like false accusers, spreading slander and causing discord. This behavior reflects a detachment from natural affection, leading to harm and conflict.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.3991316761028516,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.86,
+            "commentatorTierSimilarities": [
+                27.08,
+                32.85,
+                40.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Without natural affection, truce-breakers, and despisers of those that are good - these individuals lack basic human decency and moral values. They refuse to reconcile or make peace, disregarding agreements and treaties. Their lack of self-control and indifference to what is good is evident. They are like false accusers, spreading slander and causing discord. This behavior reflects a detachment from natural affection, leading to harm and conflict.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.4047873451522723,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.05,
+            "commentatorTierSimilarities": [
+                26.56,
+                32.13,
+                41.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Truce-breakers, incontinent, fierce, and despisers of those that are good - these individuals manifest a troubling lack of basic human decency and moral values. They show no love or care for others, rejecting reconciliation and disregarding agreements. Their behavior is marked by an absence of self-control and an indifference to what is good and beneficial. They resemble false accusers, spreading slander and sowing discord. This all reveals a detachment from the natural affection that should exist in human relationships, causing harm and discord wherever they go.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.3567133541414824,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.45,
+            "commentatorTierSimilarities": [
+                25.43,
+                33.08,
+                41.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

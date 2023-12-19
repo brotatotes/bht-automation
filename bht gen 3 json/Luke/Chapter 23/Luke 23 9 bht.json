@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:23:24",
+    "verseRef": "Luke 23:9",
+    "bestBHT": {
+        "bht": "In the presence of Herod, Jesus responded to his questions by remaining silent. He did not use his words or miracles to indulge curiosity or escape death. Jesus' refusal to engage in Herod's inquiries demonstrates his unwavering commitment to his mission, unaffected by worldly distractions. Herod, a judge with a sinful reputation, is undeserving of Jesus' miracles or responses. Through his silence, Jesus highlights the emptiness of Herod's requests and affirms his dedication to his purpose.",
+        "wordCount": 78,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 1.7186174771873302,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+        "commentatorTierSimilarities": [
+            20.56,
+            39.29,
+            40.15
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reason of our Lord\u2019s silence is sufficiently shewn, in the account of Herod\u2019s feelings at seeing Him.",
+            "He would not use His discourses or His miracles for liberating Himself from death.",
+            "He did not perform miracles to gratify the curiosity of men."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. answered . . . nothing\u2014(See",
+            "\tMatthew 7:6)."
+        ],
+        "Marvin Vincent": [
+            "Many [\u03b9\u03ba\u03b1\u03bd\u03bf\u03b9\u03c2] . Compare long, ver. 8."
+        ],
+        "Philip Schaff": [
+            "The character of the questions may be inferred from Herod\u2019s reception of Jesus, as well as from the next clause.",
+            "For such a judge, the incestuous adulterer, the murderer of the Baptist, He had neither miracles nor words.",
+            "He answered him nothing."
+        ],
+        "Archibald T. Robertson": [
+            "He questioned (\u03b5\u03c0\u03b7\u03c1\u03c9\u03c4\u03b1). Imperfect active, kept on questioning.",
+            "In many words (\u03b5\u03bd \u03bb\u03bf\u03b3\u03bf\u03b9\u03c2 \u03b9\u03ba\u03b1\u03bd\u03bf\u03b9\u03c2). Same use of \u03b9\u03ba\u03b1\u03bd\u03bf\u03c2 as in verse Luke 23:8. "
+        ],
+        "John Gill": [
+            "He answered him nothing; would not give him one word in return to his many words.\" ",
+            "He answered him neither by words nor deeds.",
+            "He would not indulge his curiosity, though he might have obtained his liberty by it."
+        ],
+        "John Wesley": [
+            "He questioned him \u2014 Probably concerning the miracles which were reported to have been wrought by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see Jesus being brought before Herod and questioned by him. However, Jesus remains silent in response to Herod's inquiries. This silence is significant, as it reveals Jesus' refusal to use his words or perform miracles for the sake of gratifying curiosity or freeing himself from death. Instead, Jesus demonstrates his intent to fulfill his mission and not be swayed by worldly distractions. Herod, a judge known for his immoral and sinful actions, is unworthy of Jesus' miracles or words. Jesus' silence serves as a powerful statement against the empty and superficial nature of Herod's demands.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.5923138212130712,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.29,
+            "commentatorTierSimilarities": [
+                21.78,
+                42.88,
+                35.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the presence of Herod, Jesus chose to remain silent, refusing to use his words or perform miracles to satisfy curiosity or save himself from death. This illustrates Jesus' commitment to his mission rather than worldly distractions. Herod, known for his immoral actions, is unworthy of receiving Jesus' miracles or words. Jesus' silence carries a profound message, standing in stark contrast to Herod's superficial demands and reinforcing the emptiness of his inquiries.",
+            "wordCount": 73,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.6090835924182092,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.84,
+            "commentatorTierSimilarities": [
+                20.21,
+                40.19,
+                39.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the presence of Herod, Jesus remained silent, deliberately withholding his words and miracles. He did not seek to indulge curiosity or use his power to save himself from death. Jesus' silence demonstrates his commitment to his mission and his refusal to be swayed by worldly distractions. Herod, a judge with a sinful history, was deemed unworthy of witnessing the miracles or hearing the words of Jesus. This intentional silence speaks volumes about the emptiness of Herod's inquiries and highlights the contrast between genuine purpose and superficial demands.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.580628382071069,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.9,
+            "commentatorTierSimilarities": [
+                21.29,
+                38.75,
+                39.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the presence of Herod, Jesus chose to remain silent, refusing to use his words or perform miracles for the sake of gratifying curiosity or freeing himself from death. This silence reveals Jesus' intent to fulfill his mission and not be swayed by worldly distractions. Herod, a judge known for his immoral actions, is unworthy of Jesus' miracles or words. Jesus' silence stands as a powerful statement against the superficial nature of Herod's demands and showcases his unwavering commitment to his purpose.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.6365176217942423,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.76,
+            "commentatorTierSimilarities": [
+                21.06,
+                42.23,
+                36.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the presence of Herod, Jesus responded to his questions by remaining silent. He did not use his words or miracles to indulge curiosity or escape death. Jesus' refusal to engage in Herod's inquiries demonstrates his unwavering commitment to his mission, unaffected by worldly distractions. Herod, a judge with a sinful reputation, is undeserving of Jesus' miracles or responses. Through his silence, Jesus highlights the emptiness of Herod's requests and affirms his dedication to his purpose.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.7186174771873302,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+            "commentatorTierSimilarities": [
+                20.56,
+                39.29,
+                40.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

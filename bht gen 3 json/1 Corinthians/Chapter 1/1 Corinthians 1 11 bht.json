@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:00:23",
+    "verseRef": "1 Corinthians 1:11",
+    "bestBHT": {
+        "bht": "In his letter to the Corinthians, Paul mentions the family of Chloe, individuals who were trusted by both him and the Corinthians. By referring to this family, Paul establishes the authority of his allegation, while also avoiding naming specific individuals to prevent unnecessary controversy. The Greek word used here means to make manifest, highlighting the importance of bringing clarity to the contentions that were troubling the church. This evidence provided by Chloe's family confirms the existence of divisions and contentions within the church, threatening their unity.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.67792914730772,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.13,
+        "commentatorTierSimilarities": [
+            29.35,
+            32.43,
+            38.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We cannot fill up them [which are of the house] of Chloe, not knowing whether they were sons or servants, or other members of her family.\" ",
+            "Nor can we say whether Chloe was an inhabitant of Corinth, or some Christian woman known to the Corinthians elsewhere, or an Ephesian, having friends who had been in Corinth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They seem to have been alike in the confidence of Paul and of the Corinthians.\" ",
+            "Observe his prudence: He names the family, to let it be seen that he made his allegation not without authority: he does not name the individuals, not to excite odium against them.",
+            "He tacitly implies that the information ought rather to have come to him directly from their presbyters, as they had consulted him about matters of less moment."
+        ],
+        "Albert Barnes": [
+            "For it hath been declared unto me... They had not informed him in the letter which they had sent.\" ",
+            "My brethren... Evincing his love for them, and his deep interest in their welfare.",
+            "Of the house of Chloe... Chloe was a member of the church at Corinth... Who those members of her family were, is unknown."
+        ],
+        "Marvin Vincent": [
+            "The word means to make clear, or manifest.",
+            "Chloe means tender verdure, and was an epithet of Demeter (Ceres), the goddess of agriculture and rural life.",
+            "Socrates in Plato's 'Republic' distinguishes between disputing [\u03b5\u03c1\u03b9\u03b6\u03b5\u03b9\u03bd] and discussing [\u03b4\u03b9\u03b1\u03bb\u03b5\u03b3\u03b5\u03c3\u03b8\u03b1\u03b9], and identifies contention [\u03b5\u03c1\u03b9\u03c2] with gainsaying [\u03b1\u03bd\u03c4\u03b9\u03bb\u03bf\u03b3\u03b9\u03b1]."
+        ],
+        "John Calvin": [
+            "For he shows that they had not merely turned aside from a holy unity, but had even fallen into contentions, which are worse than jarrings of sentiment.",
+            "He speaks with commendation of his informants, who must have been in the highest esteem, as he did not hesitate to adduce them as competent witnesses against an entire Church.",
+            "That he might not exasperate their minds by undue severity, he has modified the reproof by an engaging form of address; not as though he would make light of the distemper, but with the view of bringing them to a more teachable spirit, for perceiving the severity of the malady."
+        ],
+        "Archibald T. Robertson": [
+            "It was signified to me.\" ",
+            "Whether the children, the kinspeople, or the servants of Chloe we do not know.",
+            "The name Chloe means tender verdure and was one of the epithets of Demeter the goddess of agriculture."
+        ],
+        "John Gill": [
+            "The thing was a clear point to him; he had no reason at all to doubt of the truth of it; nor could they deny it, the proof was so strong, the evidence so full, being given by them which are of the house of Chloe.",
+            "He mentions this family by name, to show that he had not took up an idle tale, and received reports from anybody, nor from a single person only, but from a family of repute among them; and who could have no other views in the relation of it to him, than the good of the church, and the glory of God.",
+            "What they had made out clearly to him was, that there are contentions among you; about their ministers, as appears afterward, as well as about opinions in doctrines, and ceremonies in worship, which occasioned undue heats, and great indecencies, tending to make rents and schisms among them."
+        ],
+        "John Wesley": [
+            "It hath been declared to me by them of the family of Chloe.",
+            "By these three the Corinthians had sent their letter to St. Paul.",
+            "That there are contentions \u2014 A word equivalent with schisms in the preceding verse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul, in his first letter to the Corinthians, mentions the family of Chloe, of whom we are unsure of their exact relationship to her or their specific connection to Corinth. They were individuals who had the confidence of both Paul and the Corinthians. Paul's mention of their family implies that he had received this information not from direct communication with the Corinthians, but rather from his trusted sources. By referring to Chloe's family, Paul establishes that his allegation carries authority, while also avoiding naming specific individuals to prevent the stirring of unnecessary controversy. Paul's goal was to make it clear that such information should have come directly from the Corinthian leaders, who had previously consulted him on lesser matters. The Greek word used here means to make manifest, further underscoring the importance of bringing clarity to these contentions that were troubling the church. The name Chloe, meaning tender verdure, was associated with Demeter, the goddess of agriculture and rural life. It is evident that Paul had received reliable and comprehensive evidence from Chloe's family, proving that there were indeed contentions and divisions within the church, threatening to fracture their unity.",
+            "wordCount": 196,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7190230461710485,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.5,
+            "commentatorTierSimilarities": [
+                34.02,
+                30.55,
+                35.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his letter to the Corinthians, Paul mentions the family of Chloe, individuals who were trusted by both him and the Corinthians. By referring to this family, Paul establishes the authority of his allegation, while also avoiding naming specific individuals to prevent unnecessary controversy. The Greek word used here means to make manifest, highlighting the importance of bringing clarity to the contentions that were troubling the church. This evidence provided by Chloe's family confirms the existence of divisions and contentions within the church, threatening their unity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.67792914730772,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.13,
+            "commentatorTierSimilarities": [
+                29.35,
+                32.43,
+                38.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his letter to the Corinthians, Paul references the family of Chloe as his informants on the divisions within the church. This mention of Chloe's family adds weight to Paul's allegation, ensuring that it is not based on mere hearsay. By sharing this information, Paul aims to make it clear that the Corinthian leaders should have directly addressed these contentions with him. The evidence from Chloe's family confirms the existence of disputes and divisions that threaten the unity of the church.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6555146325687176,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+            "commentatorTierSimilarities": [
+                27.45,
+                35.65,
+                36.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in his letter to the Corinthians, refers to the family of Chloe as his reliable sources of information regarding the division within the church. By mentioning this family, Paul establishes the credibility of his claim while avoiding the specifics of individuals involved. The use of the Greek word meaning to make clear or manifest underscores the importance of bringing these contentions to light. This evidence provided by Chloe's family confirms that there were disputes and contentions within the church, threatening its unity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.6236044876020388,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                30.18,
+                33.16,
+                36.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in his letter to the Corinthians, mentions the family of Chloe as his sources of information regarding the divisions within the church. By referring to Chloe's family, Paul establishes the authority and validity of his claim. The use of the Greek word to make clear or manifest emphasizes the importance of bringing these contentions to light. The evidence provided by Chloe's family confirms the existence of disputes and contentions within the church, posing a threat to its unity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.612436581134273,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.96,
+            "commentatorTierSimilarities": [
+                30.2,
+                35.7,
+                34.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

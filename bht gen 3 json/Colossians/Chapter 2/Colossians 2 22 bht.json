@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:20:14",
+    "verseRef": "Colossians 2:22",
+    "bestBHT": {
+        "bht": "The things forbidden, appointed to perish in their consumption, are human, not divine commands. They are part of a wider system of doctrine and have no lasting influence. These ordinances do not defile a person and should not bind the conscience. True piety, worship of God, and holiness outweigh what is eaten, drunk, or touched. Their value is limited to this present life, and their use cannot sanctify or commend a person to God.",
+        "wordCount": 74,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.8057906383313798,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+        "commentatorTierSimilarities": [
+            27.7,
+            33.16,
+            39.15
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "which things (viz. the things forbidden) are (emphatic, \u2018whose very nature is\u2026\u2019) all of them for destruction (by corruption) in their consumption.\" ",
+            "the subsequent clause being a parenthetical remark; thus defining the prescriptions to consist in human, not divine commands.",
+            "the teaching is the wider term comprising many commands. Here we rise from the examples of separate commands which have been given, to the system of doctrine of which they are a part."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Which\u2014things, namely, the three things handled, touched, and tasted. are to perish\u2014literally, 'are constituted (by their very nature) for perishing (or 'destruction by corruption') in (or 'with') their using up (consumption).' Therefore they cannot really and lastingly defile a man.\" ",
+            "All these 'ordinances' are according to human, not divine, injunction.",
+            "doctrines\u2014Greek, teachings."
+        ],
+        "Albert Barnes": [
+            "It could really then be of no great importance what was eaten, or what was drunk, provided it was not in itself injurious.\" ",
+            "These ordinances had a value among the Hebrews when it was designed to keep them as a distinct people; but they had no value in themselves, so as to make them binding on all mankind.",
+            "Many of the ordinances on which the Jews insisted were those which were handed down by tradition. They depended on human authority only, and of course, should not bind the conscience."
+        ],
+        "John Calvin": [
+            "The worship of God, true piety, and the holiness of Christians, do not consist in drink, and food, and clothing, which are things that are transient and liable to corruption, and perish by abuse.",
+            "Enactments are of no value in reference to those things which tend to excite scruples of conscience.",
+            "Those who bring consciences into bondage do injury to Christ, and make void his death. For whatever is of human invention does not bind conscience."
+        ],
+        "Philip Schaff": [
+            "which all are to perish with the using: all of them appointed to destruction by being used up. This language cannot be fairly applied to the prohibitions, since it is inapplicable.",
+            "Nor can it be regarded as part of the statement of the false teachers, still less can moral corruption be intended.",
+            "'Doctrines' is a term of wider signification than 'precepts;' but both are united here and described as 'of men,' in contrast 'with God's law and word in Christ, indeed with the law of Moses, beyond which they have gone'."
+        ],
+        "Archibald T. Robertson": [
+            "Are to perish with the using.\" ",
+            "\u03a6\u03b8\u03bf\u03c1\u03b1 is old word for decay, decomposition.\" ",
+            "These material things all perish in the use of them."
+        ],
+        "John Gill": [
+            "The meats not to be touched, tasted, or handled; these are in their own nature perishing things, and perish by being used; they are only of service to the body, and can be of none to the soul.",
+            "The using of them cannot defile the man, nor an abstinence from them sanctify him, or commend him to God; they only relate to this present life, and will cease with it.",
+            "Whatever is of man, and not of God, in religious worship, ought to be rejected."
+        ],
+        "John Wesley": [
+            "Perish in the using \u2014 Have no farther use, no influence on the mind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The things forbidden, including what is eaten and drunk, are destined for destruction by their very nature. These prescriptions are human commands, not divine. They are part of a wider system of doctrine, not just separate commands. These material things all perish in their use. They have no lasting influence on the mind and do not defile or sanctify a person. They are of no value in themselves and should not bind the conscience. What matters is not what is consumed, but true piety, worship of God, and holiness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7732732282745869,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.3,
+            "commentatorTierSimilarities": [
+                31.84,
+                30.59,
+                37.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The things forbidden, whose very nature is destruction through consumption, are human commands. They are part of a wider system of doctrine. These material things perish in their use and have no lasting influence on the mind. They do not defile or sanctify a person; what matters is true piety, worship of God, and holiness. These things have no value in themselves and should not bind the conscience. What is eaten and drunk is of no great importance.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.6932654542807457,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.64,
+            "commentatorTierSimilarities": [
+                28.13,
+                31.41,
+                40.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The things forbidden, whose very nature is destruction in their consumption, are appointed to perish with their use. These prescriptions consist of human, not divine commands and are part of a wider system of doctrine. They have no lasting influence and do not defile a person. Their value lies only in this present life and they should not bind the conscience. True piety, worship of God, and holiness are more important than what is eaten or drunk.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.760325137587631,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "commentatorTierSimilarities": [
+                28.76,
+                33.24,
+                38.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The things forbidden, which are all for destruction in their consumption, consist of human, not divine commands. These ordinances are part of a wider system of doctrine and are destined to perish with their use. They have no lasting influence on the mind and do not defile a person. Their value is limited to this present life and should not bind the conscience. True piety, worship of God, and holiness are of greater importance than what is eaten, drunk, or touched.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.777354366103423,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.44,
+            "commentatorTierSimilarities": [
+                28.35,
+                31.55,
+                40.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The things forbidden, appointed to perish in their consumption, are human, not divine commands. They are part of a wider system of doctrine and have no lasting influence. These ordinances do not defile a person and should not bind the conscience. True piety, worship of God, and holiness outweigh what is eaten, drunk, or touched. Their value is limited to this present life, and their use cannot sanctify or commend a person to God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.8057906383313798,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                27.7,
+                33.16,
+                39.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

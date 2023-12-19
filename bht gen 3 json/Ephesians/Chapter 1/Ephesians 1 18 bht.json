@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:29:55",
+    "verseRef": "Ephesians 1:18",
+    "bestBHT": {
+        "bht": "Having the eyes of your heart enlightened is the first effect of the Spirit's work in the new creation. It opens our understanding and allows us to see the great truths of the hope of His calling and the riches of His glorious inheritance. This inheritance is not limited, but an infinite and inexhaustible wealth prepared for holy souls. It enlarges our thoughts, corrects our errors, and raises us up toward God. The heart is the core of life, the source of our thoughts, and the place where spiritual light brings life.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.8509104335297824,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+        "commentatorTierSimilarities": [
+            36.64,
+            30.64,
+            32.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Having the eyes of your heart enlightened. The first effect of the Spirit moving in the new creation, as in the original physical creation...",
+            "Where spiritual light is, there is life. The heart is 'the core of life' and the fountain of the thoughts...",
+            "The inheritance which He has in his saints."
+        ],
+        "Albert Barnes": [
+            "The understanding has been blinded by sin. The views which people entertain of themselves and of God are narrow and wrong. The understanding is enfeebled and perverted by the practice of sin.",
+            "One of the first effects of true religion is on the understanding. It enlarges its views of truth; gives it more exalted conceptions of God; corrects its errors; raises it up toward the great Fountain of love.",
+            "The meaning is, that there is an abundance - an infinitude of wealth. It is not such a possession as man may be heir to in this world, which is always limited from the necessity of the case, and which cannot be enjoyed long; it is infinite and inexhaustible."
+        ],
+        "Marvin Vincent": [
+            "The eyes of your understanding being enlightened.",
+            "Hope of His calling.",
+            "The riches of the glory of His inheritance."
+        ],
+        "John Calvin": [
+            "The eyes of your understanding being enlightened.\" ",
+            "This great power, he tells us, had been exerted, and in a very extraordinary manner, towards the Ephesians.\" ",
+            "It is so admirable a work and gift of God, that no language can do justice to its excellence."
+        ],
+        "Philip Schaff": [
+            "The result of the gift of the 'spirit of wisdom and revelation' is intellectual as well as moral.",
+            "Notice here, too, the three fundamental elements of subjective Christianity, faith, love, and hope.",
+            "This 'glory' will be fully manifest hereafter, but is perceptible even here."
+        ],
+        "Archibald T. Robertson": [
+            "Having the eyes of your heart enlightened...the heart regarded as having eyes looking out toward Christ.\" ",
+            "When the Holy Spirit opens the eyes of the heart, one will be able to see all these great truths.\" ",
+            "Our riches is in God, God's is in his saints."
+        ],
+        "John Gill": [
+            "By the Spirit of God already, to see the exceeding sinfulness of sin; the insufficiency of their own righteousness; the beauty, glory, fulness, and suitableness of Christ, as a Saviour; the excellency, truth, and usefulness of the doctrines of the Gospel.",
+            "that ye may know what is the hope of his calling; by which is meant, the effectual calling of the saints; which is not a call to an office, or a call merely by the external ministry of the word; but which is internal, special, powerful, high, and heavenly",
+            "the saints themselves are the Lord's portion, and the lot of his inheritance, in whom he is, and will be abundantly glorified; but here it rather seems to design the heavenly inheritance before spoken of, of which the Spirit is the earnest; and this is the Lord's, it is of his preparing, and it is his gift, and a very rich and glorious inheritance it is"
+        ],
+        "John Wesley": [
+            "The eyes of your understanding \u2014 It is with these alone that we discern the things of God.\" ",
+            "That ye may know what is the hope of his calling \u2014 That ye may experimentally and delightfully know what are the blessings which God has called you to hope for by his word and his Spirit.",
+            "And what is the riches of the glory of his inheritance in the saints \u2014 What an immense treasure of blessedness he hath provided as an inheritance for holy souls."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Having the eyes of your heart enlightened is the first effect of the Spirit moving in the new creation, as in the original physical creation. The heart is the core of life, the fountain of thoughts. When the Holy Spirit opens the eyes of the heart, one will be able to see all these great truths of the hope of His calling and the riches of the glory of His inheritance. This inheritance is not limited or temporary, but an abundance of infinite and inexhaustible wealth. It is a gift that enlarges our understanding, corrects our errors, and raises us up toward God. This inheritance is the Lord's, a rich and glorious treasure of blessedness prepared for holy souls.",
+            "wordCount": 120,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.9100929129202011,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.85,
+            "commentatorTierSimilarities": [
+                37.68,
+                30.08,
+                32.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having the eyes of your heart enlightened is the first effect of the Spirit moving in the new creation, as in the original physical creation. The heart is the core of life, the fountain of thoughts. When the Holy Spirit opens the eyes of the heart, one will be able to see all these great truths of the hope of His calling and the riches of the glory of His inheritance. This inheritance is not limited or temporary, but an abundance of infinite and inexhaustible wealth. It is a gift that enlarges our understanding and raises us up toward God. This inheritance is the Lord's, prepared for holy souls.",
+            "wordCount": 110,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8950120476482273,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+            "commentatorTierSimilarities": [
+                39.51,
+                28.93,
+                31.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Having the eyes of your heart enlightened is the first effect of the Spirit's work in the new creation. The heart, as the core of life, is the source of thoughts. When the Holy Spirit opens the eyes of our hearts, we are able to see the great truths of the hope of His calling and the riches of His glorious inheritance. This inheritance is not limited, but an infinite and inexhaustible wealth. It enlarges our understanding, corrects our errors, and raises us up toward God. It is a rich and glorious treasure prepared for holy souls.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8320400391444354,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                38.89,
+                29.52,
+                31.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Having the eyes of your heart enlightened is the first effect of the Spirit's work in the new creation. The heart, as the core of life, is the source of thoughts. When the Holy Spirit opens the eyes of our hearts, we are able to see the great truths of the hope of His calling and the riches of His glorious inheritance. This inheritance is not limited, but an infinite and inexhaustible wealth. It enlarges our understanding, corrects our errors, and raises us up toward God. It is a rich and glorious treasure prepared for holy souls.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8320400391444354,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                38.89,
+                29.52,
+                31.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Having the eyes of your heart enlightened is the first effect of the Spirit's work in the new creation. It opens our understanding and allows us to see the great truths of the hope of His calling and the riches of His glorious inheritance. This inheritance is not limited, but an infinite and inexhaustible wealth prepared for holy souls. It enlarges our thoughts, corrects our errors, and raises us up toward God. The heart is the core of life, the source of our thoughts, and the place where spiritual light brings life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8509104335297824,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+            "commentatorTierSimilarities": [
+                36.64,
+                30.64,
+                32.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

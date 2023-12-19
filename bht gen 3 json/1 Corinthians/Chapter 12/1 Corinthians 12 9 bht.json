@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:12:26",
+    "verseRef": "1 Corinthians 12:9",
+    "bestBHT": {
+        "bht": "The faith mentioned here is not mere belief in doctrines, but rather a faith that works miracles, allowing individuals to go beyond moral certainty and truly experience what they believe. It is a supernatural power and confidence in God's ability to perform miracles through them. This faith is connected to the gifts of healings, which involve acts of healing. While these gifts were common in the early church, they are still relevant today, demonstrating the amazing power of faith and God's ability to work through individuals.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.267007781878374,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.72,
+        "commentatorTierSimilarities": [
+            33.72,
+            32.27,
+            34.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He does not here mean faith in doctrines, but that which works miracles, of which our Lord said, \u2018If ye had faith as a grain of mustard seed, &c.\u2019",
+            "This faith is the mother of miracles.",
+            "A faith, enabling a man to place himself beyond the region of mere moral certainty, in the actual realization of things believed, in a high and unusual manner."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faith...confidence in God, by the impulse of His Spirit, that He would enable them to perform any required miracle.",
+            "Its nature, or principle, is the same as that of saving faith, namely, reliance on God; the producing cause, also, in the same, namely, a power altogether supernatural.",
+            "Saving faith does not save by its intrinsic merit, but by the merits of Him who is the object of it."
+        ],
+        "Albert Barnes": [
+            "Many of the most useful people in the church are distinguished mainly for their simple confidence in the promises of God.",
+            "Humble piety and reliance in the divine promises... will often do infinitely more in the promotion of his kingdom than the most splendid endowments of learning and talent.",
+            "Faith is one of the highest endowments of the Christian life; and yet, though all may obtain it, it is one of the rarest endowments."
+        ],
+        "Marvin Vincent": [
+            "Faith. Not saving faith in general, which is the common endowment of all Christians, but wonder - working faith."
+        ],
+        "Archibald T. Robertson": [
+            "Faith (\u03c0\u03b9\u03c3\u03c4\u03b9\u03c2). Not faith of surrender, saving faith, but wonder-working faith like that in 1 Corinthians 13:2 (Matthew 17:20; Matthew 21:21).\" ",
+            "Gifts of healings (\u03c7\u03b1\u03c1\u03b9\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b9\u03b1\u03bc\u03b1\u03c4\u03c9\u03bd). \u0399\u03b1\u03bc\u03b1, old word from \u03b9\u03b1\u03bf\u03bc\u03b1, common in LXX, in N.T. only in this chapter. It means acts of healing as in Acts 4:30 (cf. James 5:14) and Luke 7:21 (of Jesus).",
+            "Note \u03b5\u03bd here as just before."
+        ],
+        "John Gill": [
+            "Not the grace of faith, which is common to all believers, though given by the same Spirit: but rather the doctrine of faith, and ability to preach it, and boldness and intrepidity of spirit to assert and defend it in the face of all opposition.",
+            "Though generally this is understood of a faith of working miracles, but the working of miracles is mentioned afterwards as distinct.",
+            "These gifts were bestowed in common, by the Spirit, on apostles, prophets, and pastors, or elders of the church, in those early times."
+        ],
+        "John Wesley": [
+            "Faith may here mean an extraordinary trust in God under the most difficult or dangerous circumstances.",
+            "The gift of healing need not be wholly confined to the healing diseases with a word or a touch.",
+            "And thus it may be with regard to other gifts likewise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith in this verse refers to a miraculous kind of faith, not just belief in doctrines. It is a faith that enables individuals to go beyond moral certainty and truly experience the things they believe. This faith comes from a supernatural power and allows individuals to have confidence in God's ability to work miracles through them. It is important to note that this faith does not save on its own merit, but through the merits of Christ. In the context of the verse, faith is specifically described as wonder-working faith, similar to the kind mentioned in other biblical passages. This faith is connected to the gifts of healings, which refers to acts of healing. While this faith and these gifts were common in the early church, they are still relevant today.",
+            "wordCount": 133,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 2.273636086130656,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.94,
+            "commentatorTierSimilarities": [
+                37.03,
+                31.92,
+                31.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The faith mentioned here is not mere belief in doctrines, but rather a faith that works miracles, allowing individuals to go beyond moral certainty and truly experience what they believe. It is a supernatural power and confidence in God's ability to perform miracles through them. This faith is connected to the gifts of healings, which involve acts of healing. While these gifts were common in the early church, they are still relevant today, demonstrating the amazing power of faith and God's ability to work through individuals.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.267007781878374,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.72,
+            "commentatorTierSimilarities": [
+                33.72,
+                32.27,
+                34.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The faith referenced here is not simply belief in doctrines, but rather a faith that has the power to work miracles, like the faith mentioned in Matthew 17:20 and Matthew 21:21. It is a faith that goes beyond mere moral certainty, allowing individuals to genuinely experience the things they believe in a supernatural way. This faith is closely connected to the gifts of healings, which involve acts of physical healing through the power of God. While these gifts were evident in the early church, they continue to be relevant today, showcasing the incredible nature of faith and God's ability to work through individuals.",
+            "wordCount": 102,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.295207746926855,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.66,
+            "commentatorTierSimilarities": [
+                35.54,
+                32.15,
+                32.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The faith mentioned in this passage is not just ordinary saving faith, but a faith that has the power to work miracles. It goes beyond mere belief in doctrines and enables individuals to experience the things they believe in a high and unusual manner. This faith is a reliance on God and is a supernatural power bestowed by the Spirit. It is intimately connected to the gifts of healings, which involve acts of physical healing. Although these gifts were seen in the early church, they are still relevant today, showcasing the extraordinary nature of faith and God's ability to work wonders through individuals.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 2.1565271419705274,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.05,
+            "commentatorTierSimilarities": [
+                33.95,
+                33.2,
+                32.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The faith mentioned here is not ordinary saving faith, but a faith that works miracles. It goes beyond mere belief in doctrines, allowing individuals to experience what they believe in a high and remarkable way. This faith is a reliance on God and a supernatural power bestowed by the Spirit. It is closely tied to the gifts of healings, involving acts of physical healing. Although these gifts were present in the early church, they continue to be relevant, revealing the extraordinary power of faith and God's ability to work through individuals today.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.1621927522068356,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.23,
+            "commentatorTierSimilarities": [
+                34.13,
+                33.01,
+                32.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

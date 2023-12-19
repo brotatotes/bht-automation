@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:39:39",
+    "verseRef": "1 Peter 4:5",
+    "bestBHT": {
+        "bht": "For the comfort of Christians who are unjustly slandered, they can find solace in the fact that there is a Judge, Christ Himself, who is ready to judge both the living and the dead. Those who falsely accuse believers will have to give account for their evil-speaking and be justly condemned. This judgment is not only near in time but also signifies a near judgment in proximity to believers who will have Christ at God's right hand in heaven. So Christians should patiently endure opposition, knowing that the Lord will vindicate them when He comes to judge.",
+        "wordCount": 99,
+        "quoteTokenProportion": 47.14,
+        "qualityScore": 2.1245261776176556,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+        "commentatorTierSimilarities": [
+            26.94,
+            40.15,
+            32.91
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The consideration is propounded for the comfort and stay of Christians unjustly slandered.\" ",
+            "Him that is ready to judge (once for all, decisively) living and dead.\" ",
+            "For (assigns a reason for the judging the dead just mentioned)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They who now call you to account falsely, shall have to give account themselves for this very evil-speaking (Judges 1:15), and be condemned justly.",
+            "Ready\u2014very speedily (1 Peter 4:7; 2 Peter 3:10).",
+            "Christ's coming is to the believer always near."
+        ],
+        "Albert Barnes": [
+            "They are guilty in this of a great wrong and they must answer for it to God.",
+            "Who is prepared to judge.",
+            "They should bear their trials and the opposition which they would meet with patiently, not feeling that they were forgotten, nor attempting to avenge themselves; for the Lord would vindicate them when he should come to judgment."
+        ],
+        "Marvin Vincent": [
+            "Having himself in readiness; there at God's right hand in heaven.\" ",
+            "Implying, also, a near judgment.\" ",
+            "Compare ver. 7."
+        ],
+        "Philip Schaff": [
+            "The universality and impartiality of the judgment are thus expressed.",
+            "It is for the comfort of suffering believers to know that there is a judgment in waiting for their revilers.",
+            "This Judge, too, as we may infer from the general conclusion to which chap. 1 Peter 3:17-22 led up, is Christ, the Christ who is reviled when Christians are reviled, the Christ who, in the time of His own suffering, committed His case to Him that judgeth righteously."
+        ],
+        "Archibald T. Robertson": [
+            "Who shall give account.\" ",
+            "To him that is ready to judge.\" ",
+            "The quick and the dead."
+        ],
+        "John Gill": [
+            "This the apostle says, to calm the minds of God's people, and make them to sit easy under all censures, reproaches, and calumnies, and not think of avenging themselves, but commit themselves to him that will judge righteously.",
+            "Christ, to whom all judgment is committed; and who is ordained to be the Judge of quick and dead, and will judge both at his appearing and kingdom.",
+            "Yea, the day is appointed when this judgment will proceed by him, and he is at the door; so that he may be truly said to be ready for it, as he is every way equal to it, and will finish it with righteousness."
+        ],
+        "John Wesley": [
+            "Who shall give account \u2014 Of this, as well as all their other ways.",
+            "To him who is ready \u2014 So faith represents him now."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the comfort of Christians who are unjustly slandered, they can find solace in the fact that there is a Judge, Christ Himself, who is ready to judge both the living and the dead. Those who falsely accuse believers will have to give account for their evil-speaking and be justly condemned. This judgment is not only near in time but also signifies a near judgment in proximity to believers who will have Christ at God's right hand in heaven. So Christians should patiently endure opposition, knowing that the Lord will vindicate them when He comes to judge.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 2.1245261776176556,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+            "commentatorTierSimilarities": [
+                26.94,
+                40.15,
+                32.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the comfort of Christians unjustly slandered, they can find solace in the fact that there is a Judge, Christ Himself, who is ready to judge the living and the dead. Those who falsely accuse believers will have to account for their evil-speaking and be condemned justly. This judgment is near and implies a close proximity to believers where Christ will be at God's right hand in heaven. Patiently enduring opposition, Christians can trust that the Lord will vindicate them when He comes to judge.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.0786055203625327,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                27.19,
+                39.4,
+                33.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christians who are unjustly slandered can find comfort in the fact that there is a Judge, Christ Himself, who is ready to judge both the living and the dead. Those who falsely accuse believers will have to give account for their evil-speaking and be justly condemned. This judgment is near in time and signifies a close proximity to believers, with Christ at God's right hand in heaven. By patiently enduring opposition, Christians can trust that the Lord will vindicate them when He comes to judge.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.0804980516122904,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+            "commentatorTierSimilarities": [
+                27.5,
+                39.07,
+                33.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For Christians unjustly slandered, the comfort lies in knowing that there is a Judge, Christ Himself, ready to decisively judge the living and the dead. Those who falsely accuse believers will have to give account for their evil-speaking and be justly condemned. This impending judgment is not only near in time, but also signifies a close proximity to believers, with Christ at God's right hand in heaven. Enduring opposition patiently, Christians can find solace in the assurance that the Lord will vindicate them when He comes to judge.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.0342003815894962,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                27.48,
+                40.59,
+                31.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christians who are unjustly slandered can take comfort in the fact that there is a Judge, Christ Himself, who is ready to decisively judge both the living and the dead. Those who accuse believers falsely will have to give account for their evil-speaking and be justly condemned. This impending judgment is not only near in time but also signifies a close proximity to believers, with Christ at God's right hand in heaven. By patiently enduring opposition, Christians can trust in the assurance that the Lord will vindicate them when He comes to judge.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 2.0217957504962323,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.57,
+            "commentatorTierSimilarities": [
+                26.96,
+                39.91,
+                33.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

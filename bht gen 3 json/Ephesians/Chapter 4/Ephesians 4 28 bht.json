@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:33:18",
+    "verseRef": "Ephesians 4:28",
+    "bestBHT": {
+        "bht": "When someone repents from their sin, it's not enough to just stop. They must pursue the opposite virtue. For instance, if they used to steal, they should now work diligently, using their hands for good, and have something to give to those in need. Christians should prioritize using honest industry for the greater good, rather than selfish gain. Even unemployment is not an excuse for theft. Instead, Christians should engage in honorable labor and generously give to others.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.7573850718317727,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.77,
+        "commentatorTierSimilarities": [
+            37.87,
+            30.95,
+            31.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is not enough to leave off his sin, but he must enter on a course of life opposite to it.",
+            "Contrast to his former idleness for good, and bad use of those hands.",
+            "In order that he may have to impart to him that hath need."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is not enough to cease from a sin, but the sinner must also enter on the path that is its very opposite.\" ",
+            "The thief, when repentant, should labor more than he would be called on to do if he had never stolen.",
+            "Christians in general should make not selfish gain their aim in honest industry, but the acquisition of the means of greater usefulness to their fellow men."
+        ],
+        "Albert Barnes": [
+            "We are not to suppose that 'pilfering' was a common vice in the church, but the cautions on this point proceed on the principle that, where a man has been long in the habit of a particular sin, he is in great danger of falling into it again.",
+            "Christianity promotes industry. It is rare that an idle man becomes a Christian; but if he does, religion makes him industrious just in proportion as it has influence over his mind.",
+            "The main business of a Christian is not to 'make money,' and to become rich. It is that he may have the means of benefiting others."
+        ],
+        "John Calvin": [
+            "Every kind of depredation by which we seize the property of others.",
+            "He is first required to labor, working with his hands, that he may not supply his wants at the expense of his brethren, but may support life by honorable labor.",
+            "[He] recommends to them to choose those employments which yield the greatest advantage to their neighbors."
+        ],
+        "Philip Schaff": [
+            "Laziness is but a form of dishonesty; and manual labor is far more honorable than many forms of 'business,' so-called.",
+            "The precept of this verse is the very opposite of communism, which encourages men to take as their right, not to give as their privilege. Here is the germ of Christian social science.",
+            "The dignity of manual labor is sustained by the Apostle's example and precept. To despise labor is a mark of barbarism, not of civilization."
+        ],
+        "Archibald T. Robertson": [
+            "Cease stealing... Even unemployment is no excuse for stealing.\" ",
+            "The good thing\" opposed to his stealing and \"with his hands\" that did the stealing.",
+            "To give to others."
+        ],
+        "John Gill": [
+            "Stealing, or theft, is a fraudulent taking away of another man's goods, without the knowledge and will of the owner, for the sake of gain.",
+            "Labouring with diligence and industry, at any manufacture, trade, or business, which is honest, lawful, and of good report, is a proper antidote against theft.",
+            "Needy persons are the objects of charity; and what is given to them, should be a man's own; and what a man gets by his hand labour, he should not prodigally spend, or covetously lay up, but should cheerfully distribute it to indigent persons."
+        ],
+        "John Wesley": [
+            "But rather let him labour \u2014 Lest idleness lead him to steal again.",
+            "And whoever has sinned in any kind ought the more zealously to practise the opposite virtue.",
+            "That he may have to give \u2014 And so be no longer a burden and nuisance, but a blessing, to his neighbours."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When someone decides to turn away from their sinful ways, it is not enough for them to simply stop engaging in that sin. They must actively pursue a life that is completely opposite to it. For instance, if someone was known for stealing, they should not only refrain from stealing, but they should strive to become hardworking individuals and contribute to society in a positive way. Christians, in particular, should use their honest labor to not only provide for themselves but to also help those in need. This verse teaches us that stealing is never acceptable, even if someone is facing unemployment. Instead, individuals should focus on honest industry and acquiring the means to be of greater usefulness to others. Laziness is considered a form of dishonesty, and manual labor is honorable and dignified. By diligently working and generating income, individuals can support their own lives and, at the same time, be able to give generously to those who are in need.",
+            "wordCount": 162,
+            "quoteTokenProportion": 41.35,
+            "qualityScore": 1.777022007930833,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.43,
+            "commentatorTierSimilarities": [
+                33.07,
+                35.54,
+                31.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When someone repents from their sin, they must not only cease engaging in it but actively pursue the opposite virtue. For example, if someone used to steal, they should start working diligently and using their hands for good, providing for themselves and having something to give to those in need. Christians should make their aim in honest industry the acquisition of the means to be more useful to others. Stealing is never justified, and even unemployment is not an excuse. Instead, Christians should focus on honorable labor and generously giving to others.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.907787209906997,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                36.45,
+                32.7,
+                30.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When someone turns away from their sin, it's not enough to simply stop. They must actively pursue a different path. For instance, if a person used to be a thief, they should now work hard and use their hands to give to those in need. Christians should not aim for selfish gain, but instead, focus on honest industry and acquiring the means to be more useful to others. Stealing is never acceptable, even if one is unemployed. Instead, individuals should engage in honest labor and generously help those in need.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.7683614192757733,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                38.86,
+                29.51,
+                31.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When someone repents from their sin, it's not enough to just stop. They must pursue the opposite virtue. For instance, if they used to steal, they should now work diligently, using their hands for good, and have something to give to those in need. Christians should prioritize using honest industry for the greater good, rather than selfish gain. Even unemployment is not an excuse for theft. Instead, Christians should engage in honorable labor and generously give to others.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.7573850718317727,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.77,
+            "commentatorTierSimilarities": [
+                37.87,
+                30.95,
+                31.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse reminds us that simply ceasing from sin is not enough; we must actively and intentionally pursue a life that is the opposite of our former wrongdoings. The commentary emphasizes the importance of engaging in honest and diligent labor, not for selfish gain, but to have the means to help others in need. It cautions against laziness, as it is seen as a form of dishonesty, and encourages Christians to view manual labor as honorable and a way to contribute positively to society. The verse further highlights the importance of giving to those in need, so we may no longer be a burden, but a blessing to our neighbors.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.9078525925157022,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                29.93,
+                38.87,
+                31.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

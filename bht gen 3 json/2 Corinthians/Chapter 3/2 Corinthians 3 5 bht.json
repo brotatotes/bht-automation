@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:15:22",
+    "verseRef": "2 Corinthians 3:5",
+    "bestBHT": {
+        "bht": "Our ability to carry on any process of thinking or action does not originate from ourselves, but rather comes from God. We cannot expect too little from ourselves and too much from God. We have no power to originate such confidence or sufficiency on our own. All success, even in the power of close thinking, is to be attributed to God. We are not sufficient of ourselves for any spiritual work, but our sufficiency comes from God.",
+        "wordCount": 77,
+        "quoteTokenProportion": 60.42,
+        "qualityScore": 2.168942805404933,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.46,
+        "commentatorTierSimilarities": [
+            33.51,
+            36.1,
+            30.39
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not that we are able to think any thing of ourselves, as if from ourselves.\" ",
+            "But our ability is from God.",
+            "Our ability to carry on any such process is from God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not that we are (even yet after so long experience as ministers) sufficient to think anything OF ourselves as (coming) FROM ourselves; but our sufficiency is (derived) FROM God.\" ",
+            "From\" more definitely refers to the source out of which a thing comes; \"of\" is more general.",
+            "We cannot expect too little from man, or too much from God."
+        ],
+        "Albert Barnes": [
+            "He had no power by reasoning to convince or convert sinners. That was all of God.",
+            "All success was to be traced to God.",
+            "No one who considers on how many things the power of close thinking depends can doubt that all our sufficiency in this is from God."
+        ],
+        "John Calvin": [
+            "He could not, therefore, more effectually strip man bare of every thing good.",
+            "No rational act can be done without reasoning; this is not purely our own.",
+            "How can we oblige him by any act, since, in every part of it, it is from him, not from ourselves?"
+        ],
+        "Archibald T. Robertson": [
+            "Starting from ourselves, He says it over again with preposition \u03b5\u03be (out of). He has no originating power for such confidence.",
+            "He has no originating power for such confidence.",
+            "Sufficiency. Old word, only here in N.T."
+        ],
+        "John Gill": [
+            "we do not ascribe anything to ourselves, to any power of ours, to any self-sufficiency in us",
+            "we are not sufficient of ourselves... for any spiritual work whatever",
+            "our sufficiency is of God; to think, to speak, and to act for his glory."
+        ],
+        "John Wesley": [
+            "Not that we are sufficient of ourselves \u2014 So much as to think one good thought; much less, to convert sinners."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our ability to carry on any process of thinking or action does not originate from ourselves, but rather comes from God. We cannot expect too little from ourselves and too much from God. We have no power to originate such confidence or sufficiency on our own. All success, even in the power of close thinking, is to be attributed to God. We are not sufficient of ourselves for any spiritual work, but our sufficiency comes from God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 60.42,
+            "qualityScore": 2.168942805404933,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.46,
+            "commentatorTierSimilarities": [
+                33.51,
+                36.1,
+                30.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our ability to carry on any process, even after long experience, does not come from ourselves but is derived from God. The source of our sufficiency is not from within us, but from Him. We cannot expect too little from man or too much from God. We must acknowledge that we have no originating power for confidence, and all success is to be traced back to Him. Every rational act, including thinking, speaking, and acting for His glory, is not purely our own, but depends on His sufficiency. We are not sufficient of ourselves for any spiritual work, not even to think one good thought or convert sinners.",
+            "wordCount": 108,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9918944154684395,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.57,
+            "commentatorTierSimilarities": [
+                33.34,
+                32.01,
+                34.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our ability to carry on any process, even after long experience, does not come from ourselves but is derived from God. The source of our sufficiency is not from within us, but from Him. We cannot expect too little from man or too much from God. Every rational act, including thinking, speaking, and acting for His glory, is not purely our own, but depends on His sufficiency. We are not sufficient of ourselves for any spiritual work, not even to think one good thought or convert sinners.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.023864650535736,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+            "commentatorTierSimilarities": [
+                33.79,
+                29.74,
+                36.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our sufficiency in carrying out any process does not come from ourselves, but is derived from God. We cannot expect too little from man or too much from God. All success and every rational act, such as thinking, speaking, and acting for His glory, depend on His sufficiency. We are not sufficient of ourselves for any spiritual work, not even to think one good thought or convert sinners. Our ability is solely from God, and we must acknowledge our dependence on Him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.9896438235660292,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                32.4,
+                33.11,
+                34.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our ability to think or do anything does not originate from ourselves but is instead from God. We must recognize our insufficiency and humbly depend on Him for all aspects of our lives. It is through His power and sufficiency that we can carry out any process, including spiritual work such as thinking, speaking, and acting for His glory. We must not rely on our own strength, but rather trust in His ability to equip us for every task and lead us to success.",
+            "wordCount": 84,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.7859415126492366,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                33.24,
+                33.22,
+                33.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

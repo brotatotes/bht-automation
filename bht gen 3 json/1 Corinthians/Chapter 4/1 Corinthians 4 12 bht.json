@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:03:00",
+    "verseRef": "1 Corinthians 4:12",
+    "bestBHT": {
+        "bht": "In the face of reproach, persecution, and evil repute, we submit to hardship and return blessings. We embrace humility, willingly enduring suffering and engaging in manual labor, setting an example of diligence and industry. As we are reviled and persecuted, we respond with patience and blessings, following Christ's command. Through our actions, we show the undesignedness of our faith, embodying the spirit of self-abasement and bringing glory to God.",
+        "wordCount": 71,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.994015978568644,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.64,
+        "commentatorTierSimilarities": [
+            33.7,
+            26.0,
+            40.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So far are we from vindicating to ourselves places of earthly honour and distinction, that we tamely submit to reproach, persecution and evil repute",
+            "We return blessing, and patience, and soft words",
+            "We tamely submit to reproach, persecution and evil repute"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "working with our own hands\u2014namely, 'even unto this present hour.'",
+            "The undesignedness of the coincidence thus indirectly brought out is incompatible with forgery.",
+            "The narrative of Paul's proceedings at Ephesus, from which city he wrote this Epistle (though it is expressly stated of him at Corinth, compare Acts 18:3; Acts 18:19)."
+        ],
+        "Albert Barnes": [
+            "They were reviled or ridiculed as Jews by the Gentiles; and jeered by all as 'Nazarenes,' and as deluded followers of Jesus; as the victims of a foolish superstition and enthusiasm.",
+            "We return good for evil. In this they followed the explicit direction of the Saviour.",
+            "We sustain it; we do not revenge it; we abstain from resenting or resisting it."
+        ],
+        "Marvin Vincent": [
+            "Labor [\u03ba\u03bf\u03c0\u03b9\u03c9\u03bc\u03b5\u03bd] . Rev., toil. Unto weariness. See on Luke 5:5. Reviled [\u03bb\u03bf\u03b9\u03b4\u03bf\u03c1\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03b9] . See on Acts 23:4. ",
+            "We bless [\u03b5\u03c5\u03bb\u03bf\u03b3\u03bf\u03c5\u03bc\u03b5\u03bd] . See on blessed, John 12:13. ",
+            "We suffer [\u03b1\u03bd\u03b5\u03c7\u03bf\u03bc\u03b5\u03b8\u03b1] . Lit., we hold or bear up."
+        ],
+        "John Calvin": [
+            "He intimates that he is not merely afflicted and abased by God, by means of the cross, but is also endowed with a disposition to abase himself willingly.",
+            "In speaking of their laboring he adds \u2014 with our own hands, to express more fully the meanness of his employments.",
+            "I do not merely gain a livelihood for myself by my own labor, but by mean labor, working with my own hands."
+        ],
+        "Philip Schaff": [
+            "and we toil, working with our own hands."
+        ],
+        "Archibald T. Robertson": [
+            "Greeks despised manual labour; St. Paul glories in it.",
+            "Being reviled we bless.",
+            "Being persecuted we endure."
+        ],
+        "John Gill": [
+            "And labour, working with our own hands... to set an example of diligence and industry to others.\" ",
+            "Being reviled, we bless; as Christ commanded... and the apostle himself directed and exhorted to.\" ",
+            "Being persecuted, we suffer it; that is, patiently; taking all in good part, as what is the will of God, and will make for his glory."
+        ],
+        "John Wesley": [
+            "We bless-suffer it-intreat \u2014 We do not return revilings, persecution, defamation; nothing but blessing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the face of reproach, persecution, and evil repute, we do not seek earthly honor, but rather endure with patience and return blessings, as Christ commanded. We do not retaliate or seek revenge, but sustain the suffering that comes our way and bear it willingly, just as the apostle Paul worked with his own hands and willingly embraced manual labor. In doing so, we set an example of diligence and industry to others, embodying the spirit of humility and self-abasement that Christ teaches us. As we are reviled and persecuted, may we respond with blessings and endure with patience, trusting in God's will and bringing glory to His name.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 2.0376064749563922,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+            "commentatorTierSimilarities": [
+                30.23,
+                27.7,
+                42.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of reproach, persecution, and evil repute, we submit to hardship and return blessings. We embrace humility, willingly enduring suffering and engaging in manual labor, setting an example of diligence and industry. As we are reviled and persecuted, we respond with patience and blessings, following Christ's command. Through our actions, we show the undesignedness of our faith, embodying the spirit of self-abasement and bringing glory to God.",
+            "wordCount": 71,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.994015978568644,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.64,
+            "commentatorTierSimilarities": [
+                33.7,
+                26.0,
+                40.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of reproach, persecution, and evil repute, we tamely submit with patience and return blessings as an expression of our enduring faith. Just as the apostle Paul worked with his own hands, we embrace manual labor with humility, setting an example of diligence and industry. As we are reviled and persecuted, we respond with blessings, not seeking retaliation but rather enduring with patience, in accordance with Christ's teachings. Through our actions, we embody the spirit of self-abasement, bringing glory to God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.98851570716971,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                32.2,
+                27.84,
+                39.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of reproach, persecution, and evil repute, we choose to respond with patience and blessings. Like Paul, who worked diligently with his own hands, we embrace manual labor and humble ourselves. Instead of seeking revenge, we endure suffering with grace and endure it willingly. By doing so, we follow Christ's command to bless and not revile, demonstrating our commitment to humility and bringing glory to God.",
+            "wordCount": 69,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.9693263221143913,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                30.62,
+                30.37,
+                39.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of reproach, persecution, and evil repute, we tamely submit to labor with our own hands, returning blessing, patience, and soft words. Just as St. Paul glories in manual labor, we also embrace it with humility, setting an example of diligence and industry. Being reviled, we choose to bless, and when persecuted, we endure it patiently, following Christ's command and the apostle's directive. Through our actions, we demonstrate our deep faith, humbly abasing ourselves for the glory of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.9834078371034662,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
+            "commentatorTierSimilarities": [
+                32.57,
+                28.26,
+                39.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

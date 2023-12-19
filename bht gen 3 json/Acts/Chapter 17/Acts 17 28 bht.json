@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:33:10",
+    "verseRef": "Acts 17:28",
+    "bestBHT": {
+        "bht": "Paul's use of the words in him we live, and move, and have our being conveys a pure, personal, spiritual Theism. He applies a sentiment originally about Zeus to communicate that all people are the offspring of God. These words express our absolute dependence on God for every aspect of our lives, emphasizing that all aspects of our existence, from the lowest pulsations of life to the highest powers of action, are from God and sustained by His power and providence.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 2.0432966301064406,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.28,
+        "commentatorTierSimilarities": [
+            28.64,
+            38.48,
+            32.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is no justification for the pantheist in this.",
+            "we live, and move, and have our being.",
+            "the absurdity of supposing the Godhead like to the works of his (man\u2019s) hands."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For in him we live, and move, and have our being\u2014(or, more briefly, 'exist').\" ",
+            "God is the living, immanent Principle of all these in men.",
+            "The truth which it expresses the apostle turns to his own purpose\u2014to teach a pure, personal, spiritual Theism."
+        ],
+        "Albert Barnes": [
+            "No words can better express our constant dependence on God.",
+            "It means that we derive strength to move from him; an expression denoting 'constant and absolute dependence.'",
+            "Thus, Paul traces our dependence on him from the lowest pulsation of life to the highest powers of action and of continued existence."
+        ],
+        "Marvin Vincent": [
+            "We are also his offspring.",
+            "A line from Aratus, a poet of Paul's own province of Cilicia.",
+            "The same sentiment, in almost the same words, occurs in the fine hymn of Cleanthes to Jove."
+        ],
+        "John Calvin": [
+            "I do not doubt but that Paul\u2019s meaning is, that we be after a sort contained in God, because he dwelleth in us by his power.",
+            "Now, we see that all those who know not God know not; because they have God present with them not only in the excellent gifts of the mind, but in their very essence.",
+            "No man of a sound mind can doubt to apply that unto the true God which we read in Virgil touching the reigned and false joy, that All things are full of joy."
+        ],
+        "Archibald T. Robertson": [
+            "Proof of God's nearness, not stoic pantheism, but real immanence in God as God dwells in us.",
+            "The three verbs (\u03b6\u03c9\u03bc\u03b5\u03bd, \u03ba\u03b9\u03bd\u03bf\u03c5\u03bc\u03b5\u03b8\u03b1, \u03b5\u03c3\u03bc\u03b5\u03bd) form an ascending scale and reach a climax in God (life, movement, existence).",
+            "Paul, of course, knew that the words were written of Zeus (Jupiter), not of Jehovah, but he applies the idea in them to his point just made that all men are the offspring of God."
+        ],
+        "John Gill": [
+            "The natural life which men live is from God; and they are supported in it by him; and from him they have all the comforts and blessings of life; and all motions, whether external or internal, of body or of mind, are of God, and none of them are without the concourse of his providence, and strength assistance from him; though the disorder and irregularity of these motions, whereby they become sinful, are of themselves, or of the devil; and their being, and the maintenance of it, and continuance in it, are all owing to the power and providence of God.",
+            "As certain also of your own poets have said; the Syriac version reads in the singular number, 'as a certain one of your wise men has said'; but all others read in the plural.",
+            "Which is, for we are also his offspring; the offspring of Jove, says Aratus; which the apostle applies to the true Jehovah, the Creator of all men, by whom, and after whose image, they are made, and so are truly his offspring; upon which the apostle argues as follows."
+        ],
+        "John Wesley": [
+            "In him \u2014 Not in ourselves, we live, and move, and have our being - This denotes his necessary, intimate, and most efficacious presence.",
+            "No words can better express the continual and necessary dependence of all created beings, in their existence and all their operations, on the first and almighty cause, which the truest philosophy as well as divinity teaches.",
+            "They are likewise to be found, with the alteration of one letter only, in the hymn of Cleanthes to Jupiter or the supreme being, one of the purest and finest pieces of natural religion in the whole world of Pagan antiquity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the apostle Paul uses the words in him we live, and move, and have our being to teach a pure, personal, spiritual Theism. He is expressing the truth that God is the living, immanent Principle of all life, movement, and existence in humanity. Paul applies this idea, originally written about Zeus, to his point that all people are the offspring of God. These words beautifully express our constant and absolute dependence on God, from the lowest pulsations of life to the highest powers of action and continued existence. They emphasize that our natural life, all its comforts and blessings, and even our thoughts and actions, are from God and sustained by His power and providence.",
+            "wordCount": 118,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 2.010871287804136,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.2,
+            "commentatorTierSimilarities": [
+                28.46,
+                38.49,
+                33.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul's use of the words in him we live, and move, and have our being teaches a pure, personal, spiritual Theism. He applies a sentiment originally written about Zeus to convey the idea that all people are the offspring of God. These words beautifully express our constant and absolute dependence on God for every aspect of our lives, emphasizing that all aspects of our existence, from the lowest pulsations of life to the highest powers of action, are from God and sustained by His power and providence.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0251238457020233,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.68,
+            "commentatorTierSimilarities": [
+                28.6,
+                37.71,
+                33.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's use of the words in him we live, and move, and have our being conveys a pure, personal, spiritual Theism. He applies a sentiment originally about Zeus to communicate that all people are the offspring of God. These words express our absolute dependence on God for every aspect of our lives, emphasizing that all aspects of our existence, from the lowest pulsations of life to the highest powers of action, are from God and sustained by His power and providence.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.0432966301064406,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.28,
+            "commentatorTierSimilarities": [
+                28.64,
+                38.48,
+                32.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this verse, Paul teaches a pure, personal, spiritual Theism by applying the sentiment of in him we live, and move, and have our being to the truth that God is the living, immanent Principle of all life and existence in humanity. This expression emphasizes our constant and absolute dependence on God, from the lowest pulsations of life to the highest powers of action. It reminds us that our natural life, its comforts and blessings, and even our thoughts and actions are from God and sustained by His power and providence.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.135176246296388,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                23.27,
+                45.16,
+                31.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's use of the words in him we live, and move, and have our being teaches a pure, personal, spiritual Theism. These words express our constant and absolute dependence on God for every aspect of our lives, from the lowest pulsations of life to the highest powers of action and existence. They highlight that our natural life, all its comforts, and even our thoughts and actions are from God and sustained by His power and providence. This idea emphasizes the intimate presence of God and our status as His offspring.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.001014383723069,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+            "commentatorTierSimilarities": [
+                24.96,
+                43.05,
+                32.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

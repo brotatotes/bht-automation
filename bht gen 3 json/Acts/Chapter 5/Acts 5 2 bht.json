@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:26:19",
+    "verseRef": "Acts 5:2",
+    "bestBHT": {
+        "bht": "Ananias and his wife were not only guilty of keeping a portion for themselves after selling their possessions, but they also planned the deception with calmness, aggravating the severity of their guilt. They deliberately separated this portion for their own use, while pretending to donate the entire proceeds. Joseph's admirable example seemed to be too much for Ananias to live up to, leading him to hold back part of the proceeds. His wife, fully aware of the deceit, was also complicit in their actions.",
+        "wordCount": 85,
+        "quoteTokenProportion": 48.39,
+        "qualityScore": 1.5928718024356343,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+        "commentatorTierSimilarities": [
+            39.12,
+            31.89,
+            28.99
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The coolness with which they planned the deception aggravated the guilt of this couple.",
+            "They brought a certain part, pretending it to be the whole proceeds of the sale."
+        ],
+        "Albert Barnes": [
+            "It means to 'separate surreptitiously or clandestinely for our own use' a part of public property.",
+            "His wife 'knowing it,' and evidently concurring in it.",
+            "That this was his 'profession,' or 'pretence,' is further implied in the fact that Peter charges him with having 'lied' unto God."
+        ],
+        "Marvin Vincent": [
+            "Kept back [\u03b5\u03bd\u03bf\u03c3\u03c6\u03b9\u03c3\u03b1\u03c4\u03bf]. The verb means to set apart for one's self; hence to appropriate wrongfully.",
+            "Kept back [\u03b5\u03bd\u03bf\u03c3\u03c6\u03b9\u03c3\u03b1\u03c4\u03bf]. From nosfi, aloof, apart. The verb means to set apart for one's self.",
+            "Kept back [\u03b5\u03bd\u03bf\u03c3\u03c6\u03b9\u03c3\u03b1\u03c4\u03bf]. Only here, ver. 3, and Titus 2:10, where it is rendered purloining."
+        ],
+        "Archibald T. Robertson": [
+            "Kept back...to set apart, to separate for oneself.\" ",
+            "His wife also knowing it together with him.",
+            "The praise of Joseph was too much for Ananias, but he was not willing to turn over all."
+        ],
+        "John Gill": [
+            "At which the possession was sold; he reserved it for his own use, after he had given out that he sold it for the service of the church.",
+            "His wife also being privy to it; to this private reserve.",
+            "Thereby to make a show of charity, and cover the deceit."
+        ],
+        "John Wesley": [
+            "And bringing a certain part \u2014 As if it had been the whole: perhaps saying it was so."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Ananias and his wife were not only guilty of keeping a portion for themselves after selling their possessions, but they also planned the deception with calmness, aggravating the severity of their guilt. They deliberately separated this portion for their own use, while pretending to donate the entire proceeds. Joseph's admirable example seemed to be too much for Ananias to live up to, leading him to hold back part of the proceeds. His wife, fully aware of the deceit, was also complicit in their actions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.5928718024356343,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+            "commentatorTierSimilarities": [
+                39.12,
+                31.89,
+                28.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Ananias and his wife displayed a troubling level of callousness as they plotted the deceitful act of keeping a portion of the proceeds from selling their possessions. They took advantage of the opportunity to appropriate the funds for themselves, while falsely presenting it as the entire amount. Ananias, likely overwhelmed by Joseph's commendation, couldn't bring himself to fully commit, and his wife, who was complicit in their scheme, knowingly joined him in their wrongdoing.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5174253347927351,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                37.77,
+                32.08,
+                30.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Ananias and his wife went beyond the dishonest act of withholding a portion of their sold possessions; their deliberate deception was magnified by the calculated manner in which they carried it out. They purposely set apart the funds for themselves while pretending to contribute the full amount. Ananias, perhaps feeling inadequate compared to the praise Joseph received, was unable to fully commit to selflessness. Furthermore, his wife was fully aware of their actions and willingly participated in their deceptive scheme.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.5106863001237973,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.57,
+            "commentatorTierSimilarities": [
+                40.38,
+                28.45,
+                31.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Ananias and his wife shamefully concocted a plan to deceitfully hold back a portion of the proceeds from the sale of their possessions while pretending to give the entire amount. This act of keeping back and appropriating for themselves was deliberate, calculated, and aggravated their guilt. Ananias, unable to live up to the esteemed reputation of Joseph, was unwilling to fully commit to selflessness, and his wife, knowing and complicit in their scheme, willingly participated in their fraudulent act.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.534477951888163,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "commentatorTierSimilarities": [
+                37.75,
+                34.8,
+                27.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Ananias and his wife brazenly planned their deceptive act by withholding a portion of the proceeds from their sold possessions. They pretended to offer the whole amount but intentionally set it apart for themselves, aggravating their guilt. Ananias, feeling unable to match Joseph's praise, fell short of complete sincerity, while his wife knowingly played a role in their scheme. Their calculated actions and willingness to manipulate the situation exposed their lack of true charity and exposed the depth of their deceit.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.473551069708581,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.34,
+            "commentatorTierSimilarities": [
+                44.78,
+                28.33,
+                26.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

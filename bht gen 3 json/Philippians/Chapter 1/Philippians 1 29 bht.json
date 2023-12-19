@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 13:53:20",
+    "verseRef": "Philippians 1:29",
+    "bestBHT": {
+        "bht": "It is a gift of God's grace to believe in Christ, a faith that is not wrought by human will but by the Holy Spirit. Such faith goes beyond simply believing in Christ, but also includes trusting and relying on Him for eternal salvation. Suffering for Christ is not only a mark of God's favor, but also a gift of grace. The Macedonian churches, including the Philippian church, were known for their sufferings, which were endured for Christ's sake. Through faith and suffering, believers are united with Christ and find solace in Him.",
+        "wordCount": 96,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.6076298006275254,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.04,
+        "commentatorTierSimilarities": [
+            36.32,
+            26.39,
+            37.29
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because (proof that the sign is from God, in that He has granted to you the double proof of His favour, not only, &c.) unto you (first emphasis) it was granted (second emphasis\u2014it was given by grace)",
+            "on behalf of Christ",
+            "not only to believe on Him, but also on his behalf to suffer"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faith is the gift of God, not wrought in the soul by the will of man, but by the Holy Ghost.",
+            "To believe on Him, is to believe in and trust through Him to obtain eternal salvation.",
+            "Suffering for Christ is not only not a mark of God's anger, but a gift of His grace."
+        ],
+        "Albert Barnes": [
+            "It is a privilege to believe on Christ, because it saves the mind from the tortures and the deadly influence of unbelief - the agitation, and restlessness, and darkness, and gloom of a skeptic.",
+            "If there is anything for which a Christian ought to give unfeigned thanks, it is that he has been permitted to believe on the Redeemer.",
+            "It is a privilege thus to suffer in the cause of Christ... Because we then resemble the Lord Jesus, and are united with him in trials."
+        ],
+        "Marvin Vincent": [
+            "Suffering is a gift of grace.",
+            "The gift was not suffering as such. Its meaning and value lay in its being for His sake.",
+            "The Macedonian churches, and the Philippian church especially, were preeminently suffering churches."
+        ],
+        "John Calvin": [
+            "He wisely conjoins faith with the cross by an inseparable connection, that the Philippians may know that they have been called to the faith of Christ on this condition...\" ",
+            "...faith, as well as constancy in enduring persecutions, is an unmerited gift of God.",
+            "This passage is also at variance with the doctrine of the schoolmen, in maintaining that gifts of grace latterly conferred are rewards of our merit, on the ground of our having made a right use of those which had been previously bestowed."
+        ],
+        "Philip Schaff": [
+            "The suffering becomes evidence of sonship.",
+            "The sufferings are undergone in behalf of Christ, it is by Him that His warriors are supported in their trials.",
+            "In his behalf' implies for the sake of all that will help to spread His gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Suffering in behalf of Christ is one of God's gifts to us.\" "
+        ],
+        "John Gill": [
+            "Faith in Christ, which is not merely believing that he is the Christ, and all that is said of him, or all that he himself says, but is a seeing of the Son, a going to him, receiving, embracing, leaning, relying, and living upon him, as God's salvation, is a pure gift of grace.",
+            "Now to suffer in name and character, in estate or person, not as an evildoer, but as a Christian, is a gift of God, as faith in Christ is; all the sufferings of the saints are appointed by God; their being called forth to suffer shame for the sake of Christ is a high honor conferred upon them.",
+            "All the grace and strength by which they are supported under sufferings for Christ are given to them; and all the glory consequent upon them is not merited by them, which are by no means to be compared with it, but is the free gift of God through Christ."
+        ],
+        "John Wesley": [
+            "For to you it is given \u2014 As a special token of God's love, and of your being in the way of salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Suffering for Christ is not only a mark of God's favor, but also a gift of His grace. The Macedonian churches, and especially the Philippian church, were known for their sufferings and persecutions. However, this suffering was not the end in itself, but rather a means to further the spread of the gospel and bring glory to Christ. It was a privilege for the believers to not only believe on Christ, but also to suffer for His sake. Faith in Christ is a pure gift of grace, not a result of human will. Through faith and suffering, believers are united with Christ and find comfort and strength in Him.",
+            "wordCount": 110,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.5729800653825183,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.89,
+            "commentatorTierSimilarities": [
+                36.5,
+                28.46,
+                35.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Suffering for Christ is not only a mark of God's favor, but also a gift of His grace. It was a privilege for the believers to not only believe on Him, but also to suffer for His sake. Faith in Christ is a pure gift of grace, not a result of human will. Through faith and suffering, believers are united with Christ and find comfort and strength in Him. The Macedonian churches, and especially the Philippian church, were known for their sufferings and persecutions, which were appointed by God as a high honor.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.5698483692806313,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.79,
+            "commentatorTierSimilarities": [
+                36.12,
+                27.56,
+                36.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To believe on Christ is not only a privilege - it is a gift of God's grace. Faith is not the result of human will, but is wrought in the soul by the Holy Ghost. Suffering for Christ is also a gift of grace, and it is a mark of God's favor. The Macedonian churches, particularly the Philippian church, were known for their sufferings, which were endured for the sake of spreading the gospel. Through faith and suffering, believers are united with Christ and find strength and comfort in Him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.578282617018316,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.07,
+            "commentatorTierSimilarities": [
+                36.77,
+                27.01,
+                36.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is a gift of God's grace to believe in Christ, a faith that is not wrought by human will but by the Holy Spirit. Such faith goes beyond simply believing in Christ, but also includes trusting and relying on Him for eternal salvation. Suffering for Christ is not only a mark of God's favor, but also a gift of grace. The Macedonian churches, including the Philippian church, were known for their sufferings, which were endured for Christ's sake. Through faith and suffering, believers are united with Christ and find solace in Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.6076298006275254,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.04,
+            "commentatorTierSimilarities": [
+                36.32,
+                26.39,
+                37.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believing in Christ is not only a privilege but a gift of God's grace, not wrought by human will but through the Holy Spirit. This faith goes beyond mere belief to trust and rely on Christ for eternal salvation. Suffering for Christ is not a sign of God's anger, but rather a gift of His grace. The Macedonian churches, especially the Philippian church, were renowned for their sufferings endured for Christ's sake. Through faith and suffering, believers are united with Christ and find strength in Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.5688346997860316,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.75,
+            "commentatorTierSimilarities": [
+                36.68,
+                26.8,
+                36.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

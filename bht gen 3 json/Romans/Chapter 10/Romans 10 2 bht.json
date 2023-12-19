@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:07:40",
+    "verseRef": "Romans 10:2",
+    "bestBHT": {
+        "bht": "The people mentioned here have a sincere zeal for God, but their passion is not based on accurate knowledge. Their well-meaning enthusiasm leads them to seek God through outward rituals and rules, rather than truly knowing Him. Despite their spiritual blindness, there is still hope for them, as their zealousness may indicate an openness to the truth. However, it is important to understand that zeal without proper understanding can lead to misguided actions and a failure to grasp the true nature of God and His purposes.",
+        "wordCount": 87,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 2.2647364862644688,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.64,
+        "commentatorTierSimilarities": [
+            30.57,
+            34.23,
+            35.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I bear witness to them that they have a zeal for God.",
+            "Not according to knowledge.",
+            "Accurate apprehension of the way of righteousness as revealed to them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For I bear them record...that they have a zeal of God, but not according to knowledge.\" ",
+            "He alludes to this well-meaning of his people, notwithstanding their spiritual blindness, not certainly to excuse their rejection of Christ and rage against His saints, but as some ground of hope regarding them.\" ",
+            "He alludes to this well-meaning of his people, notwithstanding their spiritual blindness, not certainly to excuse their rejection of Christ and rage against His saints, but as some ground of hope regarding them."
+        ],
+        "Albert Barnes": [
+            "Zeal for God here means passionate ardor in the things pertaining to God, or in the things of religion.",
+            "A minister of the gospel should not be blind to the amiable qualities of people or to their zeal; and should be willing to speak of it tenderly, even when he is proclaiming the doctrine of depravity, or denouncing the just judgments of God.",
+            "It is the union of the two - the action of the man called forth to intense effort by just views of truth and by right feeling - that constitutes true religion."
+        ],
+        "Marvin Vincent": [
+            "He seems to be alluding to his conduct of former days, and to say, 'I know something of it, of that zeal.'\" (Godet).",
+            "Zeal for God.\" (Rev., zeal for God).",
+            "Full or correct and vital knowledge.\" (See on ch. Romans 1:28; Romans 3:20)."
+        ],
+        "John Calvin": [
+            "Let us hence learn where our good intentions may guide us, if we yield to them.",
+            "Away then with these vain evasions as to good intention; if we seek God sincerely, let us follow the way by which alone we can come to him.",
+            "And further, since we see that they perish, who with good intention wander in darkness, let us bear in mind, that we are worthy of thousand deaths, if after having been illuminated by God, we wander knowingly and willfully from the right way."
+        ],
+        "Philip Schaff": [
+            "They have a seal for God, i.e., of which God is the object, not great zeal, or, godly zeal. Their zeal was religious, conscientious, but misdirected.",
+            "But not according to knowledge. The word often means full knowledge, and is here used to denote correct, vital knowledge.",
+            "Answering to the objective advantages of the Jews (chap. Romans 9:1-5) was this religious zeal, which degenerated into blind fanaticism. But this, we infer from the passage, is better than indifferentism."
+        ],
+        "Archibald T. Robertson": [
+            "A zeal for God.",
+            "They sought God in an external way by rules and rites and missed him.",
+            "They became zealous for the letter and the form instead of for God himself."
+        ],
+        "John Gill": [
+            "They had a zeal of God, but not according to knowledge: it was not well regulated, it proceeded on mistaken principles, and moved in a wrong way.\" ",
+            "They did not know God in Christ, nor Jesus to be the true Messiah; they understood neither law nor Gospel truly, and fancied the Gospel was contrary to the law, and an enemy to it.",
+            "They were zealous of the law, and of doing the commands of it, but knew not the true nature, use, and end of the law."
+        ],
+        "John Wesley": [
+            "They have a zeal, but not according to knowledge \u2014 They had zeal without knowledge; we have knowledge without zeal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many of the first-tier commentaries point out that the people being referred to in this verse have a zeal for God, but it is not based on accurate knowledge or understanding of the way of righteousness. This zeal is characterized by external rituals and rules, rather than seeking a genuine relationship with God. Despite their spiritual blindness, there is still some hope for these people, as their well-meaning zealousness may indicate a potential openness to the truth. However, it is important to note that this zeal without knowledge is not sufficient and can lead to misdirected and misinformed actions.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.95,
+            "qualityScore": 2.110407909867556,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+            "commentatorTierSimilarities": [
+                27.96,
+                36.7,
+                35.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people mentioned here have a sincere zeal for God, but their passion is not based on accurate knowledge. Their well-meaning enthusiasm leads them to seek God through outward rituals and rules, rather than truly knowing Him. Despite their spiritual blindness, there is still hope for them, as their zealousness may indicate an openness to the truth. However, it is important to understand that zeal without proper understanding can lead to misguided actions and a failure to grasp the true nature of God and His purposes.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.2647364862644688,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.64,
+            "commentatorTierSimilarities": [
+                30.57,
+                34.23,
+                35.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people described in this passage are characterized by their zeal for God, but this zeal does not align with accurate knowledge. Their passion is focused on external rituals and rules rather than genuine understanding. While their well-meaning intentions offer some hope, it is crucial to recognize that zeal without knowledge can lead to misguided actions and a misunderstanding of God's nature and purpose.",
+            "wordCount": 66,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.225171723344297,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.33,
+            "commentatorTierSimilarities": [
+                29.26,
+                33.74,
+                37.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals display a fervent zeal for God, but their passion is not grounded in accurate knowledge. Their devotion is centered around external practices and rules, failing to understand the true essence of righteousness. Despite their spiritual blindness, there is a glimmer of hope for them, as their sincere zeal suggests a potential openness to the truth. Yet, it is crucial to comprehend that zeal alone, without a correct understanding, can lead astray and hinder truly grasping God's nature and His intended path.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.215798683480787,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.02,
+            "commentatorTierSimilarities": [
+                30.16,
+                33.66,
+                36.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though these individuals exhibit a fervent zeal for God, their passion is misguided due to a lack of accurate knowledge. Their devotion manifests itself in external rituals and rules rather than a deep understanding of righteousness. Despite their spiritual blindness, there is a glimmer of hope for them, as their well-intentioned zeal indicates a potential receptiveness to the truth. However, it is vital to recognize that zeal alone, without a proper understanding, can lead astray and hinder a true comprehension of God and His intended path.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.260328584834996,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.5,
+            "commentatorTierSimilarities": [
+                30.63,
+                33.79,
+                35.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

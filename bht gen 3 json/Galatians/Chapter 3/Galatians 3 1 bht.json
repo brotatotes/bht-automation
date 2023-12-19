@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:14:26",
+    "verseRef": "Galatians 3:1",
+    "bestBHT": {
+        "bht": "The Galatians, who had been taught about the crucifixion of Christ in such a vivid and powerful manner, were foolish to be led astray by false teachers. The sight of Christ crucified should have been enough to counteract any fascination or bewitchment, but they regrettably turned away from the freedom of the gospel and embraced the bondage of the law. The relapse into legalism was absurd and inexplicable, suggesting the influence of some form of dark magic.",
+        "wordCount": 77,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 2.353552068394504,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.6,
+        "commentatorTierSimilarities": [
+            30.65,
+            36.84,
+            32.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "foolish must not, with Jerome, be taken as an allusion to any supposed national stupidity of the Galatians (for they appear to have been \u2018very apt to learn, and of ready wit\u2019): it merely springs out of the occasion.\" ",
+            "crucified, as expressing the whole mystery of redemption by grace, and of freedom from legal obligation.",
+            "that we (not emphatic: no longer the Jews, but all Christians) might receive (in full, as fulfilled) through the (or, but not so usually, our: perhaps best expressed in English simply by \u201cthrough faith\u201d) faith the promise of the Spirit (viz. that made Joel ii. 28."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "you, before whose eyes Jesus Christ hath been graphically set forth (literally, in writing, namely, by vivid portraiture in preaching) among you, crucified.\" ",
+            "As Christ was 'crucified,' so ye ought to have been by faith 'crucified with Christ,' and so 'dead to the law'",
+            "The sight of Christ crucified ought to have been enough to counteract all fascination."
+        ],
+        "Albert Barnes": [
+            "They had shown it in a remarkable manner in rejecting the doctrine of the apostles, and in embracing the errors into which they had fallen.",
+            "They had not been led by reason and by sober judgment, but that there must have been some charm or fascination to have taken them away in this manner from what they had embraced as true.",
+            "The doctrine taught in this verse is that a faithful exhibition of the sufferings and death of the Savior ought to exert an influence over our minds and hearts as if we had seen him die."
+        ],
+        "Marvin Vincent": [
+            "Paul is not alluding to a national characteristic of the Galatians.",
+            "Who could have succeeded in bringing you under the spell of an evil eye, when directly before your own eyes stood revealed the crucified Christ?",
+            "Christ was openly set forth as crucified."
+        ],
+        "John Calvin": [
+            "He insinuates that their fall partook more of madness than of folly.",
+            "Paul's doctrine had instructed them concerning Christ in such a manner as if he had been exhibited to them in a picture, nay, 'crucified among them.'",
+            "Let those who would discharge aright the ministry of the gospel learn, not merely to speak and declaim, but to penetrate into the consciences of men, to make them see Christ crucified, and feel the shedding of his blood."
+        ],
+        "Philip Schaff": [
+            "O senseless Galatians, to think that righteousness comes through the law, and thus virtually to deny the necessity and efficacy of Christ\u2019s death.",
+            "The relapse from the freedom of the gospel to the slavery of the law is so absurd that it seems only explicable on the assumption of magical agency.",
+            "The crucifixion has been so graphically described to you as if it had occurred in the midst of you and in your very hearts."
+        ],
+        "Archibald T. Robertson": [
+            "Somebody 'fascinated' you. Some aggressive Judaizer, some one man (or woman).",
+            "Only here in the N.T. This popular belief in the evil eye is old and persistent.",
+            "The foolish Galatians were without excuse when they fell under the spell of the Judaizer."
+        ],
+        "John Gill": [
+            "it being an instance of most egregious folly to leave Christ for Moses, the Gospel for the law, and the doctrine of free justification by the righteousness of Christ, which brings so much solid peace and comfort with it, for the doctrine of justification by the works of the law, which naturally leads to bondage.",
+            "so these deceitful workers, who had transformed themselves into the apostles of Christ, as Satan sometimes transforms himself into an angel of light, had set this doctrine in a false light before them, thereby to corrupt their minds from the simplicity that is in Christ.",
+            "the clear Gospel revelation of a crucified Christ, in the preaching of him by the apostle, which was such that no picture, no image, no crucifix would come up to, and which, where such preaching is, are altogether vain and needless; and the clear view these saints had, by faith, in the glass of the Gospel of Christ, and him crucified, which so realized the object, as if it was present and before the natural eye."
+        ],
+        "John Wesley": [
+            "O thoughtless Galatians \u2014 He breaks in upon them with a beautiful abruptness.",
+            "Who hath bewitched you \u2014 Thus to contradict both your own reason and experience.",
+            "Before whose eyes Jesus Christ hath been as evidently set forth - By our preaching, as if he had been crucified among you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Galatians, although not foolish by nature, were foolish in the way they allowed themselves to be deceived and led astray. They should have been reminded of the crucifixion, which represents the entire mystery of redemption and freedom from the law. It was through faith in this crucifixion that all Christians, not just the Jews, received the promise of the Spirit. The sight of Christ crucified should have been enough to counteract the fascination and false teaching of the Judaizers. How could anyone have bewitched them when they had witnessed the graphic portrayal of Christ crucified before their own eyes? It was absurd for them to fall back into the slavery of the law after experiencing the freedom of the gospel. The Galatians were without excuse for succumbing to the deceitful tactics of those who sought to corrupt their minds and divert their focus from the simplicity found in Christ. Indeed, the preaching of the crucified Christ and the clear view of him by faith should have been enough to dispel any notion of relying on the law for righteousness.",
+            "wordCount": 180,
+            "quoteTokenProportion": 43.69,
+            "qualityScore": 2.3057304544586774,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.01,
+            "commentatorTierSimilarities": [
+                31.42,
+                34.34,
+                34.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Galatians, not inherently foolish, fell under the spell of false teachers who drew them away from the truth of the gospel. Despite witnessing the vivid portrayal of Christ crucified, they foolishly turned to the law for righteousness instead. Such a relapse into bondage was absurd and could only be explained by the influence of magical agency. The preaching of the crucified Christ, so powerful and impactful, should have been enough to dispel any fascination with the misguided teachings of the Judaizers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.262986251927323,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.58,
+            "commentatorTierSimilarities": [
+                31.11,
+                35.28,
+                33.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Galatians, described as foolish not due to any national stupidity but due to their vulnerability, succumbed to the influence of a deceitful teacher. Instead of remaining rooted in the redeeming power of Christ's crucifixion, they abandoned their faith and turned to the bondage of the law. The clear portrayal of Christ's crucifixion should have been enough to dispel any fascination with legalism. It was a senseless act to relinquish the gospel's freedom for the perceived righteousness of works.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.22606252555724,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.36,
+            "commentatorTierSimilarities": [
+                32.01,
+                35.06,
+                32.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Galatians, who had been taught about the crucifixion of Christ in such a vivid and powerful manner, were foolish to be led astray by false teachers. The sight of Christ crucified should have been enough to counteract any fascination or bewitchment, but they regrettably turned away from the freedom of the gospel and embraced the bondage of the law. The relapse into legalism was absurd and inexplicable, suggesting the influence of some form of dark magic.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.353552068394504,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.6,
+            "commentatorTierSimilarities": [
+                30.65,
+                36.84,
+                32.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Galatians, who were not naturally foolish, were foolish in allowing themselves to be deceived and led astray. The powerful portrayal of Christ crucified should have dispelled any fascination with false teachings, but they unfortunately embraced the bondage of the law instead of the freedom of the gospel. It was absurd for them to regress into legalism after experiencing the redemption and grace found in the crucifixion of Christ. The influence of deceitful teachers highlights the need to firmly hold onto the simplicity and truth of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.2798569169385186,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.15,
+            "commentatorTierSimilarities": [
+                31.02,
+                34.54,
+                34.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

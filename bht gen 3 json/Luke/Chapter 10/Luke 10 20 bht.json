@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:17:51",
+    "verseRef": "Luke 10:20",
+    "bestBHT": {
+        "bht": "The cause for believers' true joy is not their power or authority, but rather the positive and infinite side of God\u2019s mercy and goodness towards them. Rejoicing over the fact that their names are written in heaven, signifying their citizenship and full privileges in God's kingdom, surpasses any earthly achievement. This joy is grounded in God's free election, assuring the believers of their place in the book of life. It is a joy that is unfailing and secure, serving as the foundation for all the blessings of grace and glory to come.",
+        "wordCount": 95,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.9782058659789865,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+        "commentatorTierSimilarities": [
+            27.34,
+            36.83,
+            35.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Make not one particular department of it your cause of joy, nor indeed the mere subjection of evil to you at all\u2014but this,\u2014the positive and infinite side of God\u2019s mercy and goodness to you.\" ",
+            "the true cause of joy for you is, not the power shewn forth by or in you in My Name, but that you, your names, are in the book of life.",
+            "the true cause of joy to the believer, causes even the Saviour Himself to triumph."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Rejoice not... not so much. So far from forbidding it, He takes occasion from it to tell them what had been passing in His own mind.",
+            "But as power over demons was after all intoxicating, He gives them a higher joy to balance it.",
+            "The joy of having their names in Heaven's register."
+        ],
+        "Albert Barnes": [
+            "Yet it is a subject of 'chief' joy that we are numbered among the people of God, and have a title to everlasting life.",
+            "Names are written in heaven... they were 'citizens' of heaven; that they were friends of God and 'approved' by him, and would be permitted to dwell with him.",
+            "This was of far more value than all 'earthly' honor, power, or wealth, and 'in' this people should rejoice more than in eminent endowments..."
+        ],
+        "John Calvin": [
+            "He intended to point out, that the source from which all these benefits had flowed was the free election of God, that they might not claim any thing for themselves.",
+            "Reasons for praising God are no doubt furnished by those acts of his kindness which we feel within us; but eternal election, which is without us, shows more clearly that our salvation rests on the pure goodness of God.",
+            "The metaphorical expression, your names are written in heaven, means, that they were acknowledged by God as His children and heirs, as if they had been inscribed in a register."
+        ],
+        "Philip Schaff": [
+            "Rejoice not in this... The power is great, and joy in such delegated power is dangerous, may be joined with pride and self-seeking.",
+            "But rejoice. Here there is no such danger.",
+            "The ground of the commanded joy is not our power, delegated as it is, but God\u2019s mercy and love in Christ. He will rejoice most, and most properly, who finds the sole ground there."
+        ],
+        "Archibald T. Robertson": [
+            "Stand written, enrolled or engraved.",
+            "Citizens possessing the full privileges of the commonwealth."
+        ],
+        "John Gill": [
+            "Rejoice not so much in this, or chiefly and principally... but rather rejoice, because your names are written in heaven.",
+            "Which shows that God's election to eternal life is of particular persons, of persons by name; that it is sure, and certain, and immutable.",
+            "This is matter of the greatest job, since it is the foundation and security of all the blessings of grace and glory."
+        ],
+        "John Wesley": [
+            "Rejoice not so much that the devils are subject to you, as that your names are written in heaven.",
+            "Reader, so is thine, if thou art a true believer.",
+            "God grant it may never be blotted out!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The true cause for joy in this verse is not the power displayed through miracles or the subjection of evil, but rather the positive and infinite side of God's mercy and goodness towards believers. The joy that comes from having our names in the book of life is greater than any earthly accomplishment. Our names being written in heaven signifies that we are citizens possessing the full privileges of the commonwealth, approved by God and granted a title to everlasting life. This joy is unfailing and secure, as it is grounded in God's free election and the foundation of all blessings of grace and glory. Rejoicing in this truth is far more important than finding joy in temporary displays of power or authority.",
+            "wordCount": 125,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 1.9989960266419624,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                29.13,
+                38.16,
+                32.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The cause for believers' true joy is not their power or authority, but rather the positive and infinite side of God\u2019s mercy and goodness towards them. Rejoicing over the fact that their names are written in heaven, signifying their citizenship and full privileges in God's kingdom, surpasses any earthly achievement. This joy is grounded in God's free election, assuring the believers of their place in the book of life. It is a joy that is unfailing and secure, serving as the foundation for all the blessings of grace and glory to come.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.9782058659789865,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                27.34,
+                36.83,
+                35.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The true cause of believers' joy lies not in their displayed power or subjugation of evil, but rather in God's mercy and the assurance that their names are written in heaven. This joy surpasses any temporary accomplishments as it reflects their citizenship in the heavenly kingdom and their approval by God. The joy springs from God's free election and serves as the unchanging foundation for all blessings of grace and glory. It is a joy that remains steady and secure, never to be erased or diminished.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8645452616455687,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.34,
+            "commentatorTierSimilarities": [
+                28.04,
+                37.01,
+                34.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The true cause of believers' joy lies not in their displayed power or subjugation of evil, but rather in God's mercy and the assurance that their names are written in heaven. This joy surpasses any temporary accomplishments as it reflects their citizenship in the heavenly kingdom and their approval by God. The joy springs from God's free election and serves as the unchanging foundation for all blessings of grace and glory. It is a joy that remains steady and secure, never to be erased or diminished.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8645452616455687,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.34,
+            "commentatorTierSimilarities": [
+                28.04,
+                37.01,
+                34.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The true cause of believers' joy lies not in their displayed power or subjugation of evil, but rather in the assurance that their names are written in heaven. This joy surpasses any temporary accomplishments as it reflects their citizenship in the heavenly kingdom and their approval by God. The joy springs from God's free election and serves as the unchanging foundation for all blessings of grace and glory. It is a joy that remains steady and secure, never to be erased or diminished.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8637260577748664,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                28.76,
+                36.61,
+                34.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

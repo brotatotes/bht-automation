@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:14:37",
+    "verseRef": "Luke 3:28",
+    "bestBHT": {
+        "bht": "The genealogical variations between the Evangelists should be examined with caution, as attempts to attribute the genealogy to Mary have failed. The names listed in the genealogy are from the house of David and lived before the captivity. While not mentioned in the Old Testament, the order of things, established in 2 Samuel 5:14, confirms that Nathan was David's son. Rather than hastily deeming the genealogies discrepant, it is necessary to approach their reconciliation with care.",
+        "wordCount": 75,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.58676767265872,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+        "commentatorTierSimilarities": [
+            48.38,
+            0.0,
+            51.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Is it possible that either of these Evangelists could have set down his genealogy with that of the other before him? Would no remark have been made on their many, and (on such a supposition) unaccountable variations?",
+            "The attempts of many to make it appear that the genealogy is that of Mary, reading \u2018the son (as supposed of Joseph, but in reality) of Heli, &c.\u2019 are, as Meyer has shewn, quite unsuccessful.",
+            "With all these elements of confusion, it is quite as presumptuous to pronounce the genealogies discrepant, as it is over-curious and uncritical to attempt to reconcile them."
+        ],
+        "John Gill": [
+            "This, with the following, 'Addi, Cosam, Elmodam, Er, Jose, Eliezer, Jorim, Matthat, Levi, Simeon, Juda, Joseph, Jonan, Eliakim, Melea, Menan, and Mattatha', all lived before the captivity, and were of the house of David, in the line of Nathan.\" ",
+            "Of which persons no mention is made in the Old Testament, nor even of Mattatha, the son of Nathan.\" ",
+            "That Nathan was the son of David, as the order of things here directs, which was the son of David, is clear from 2 Samuel 5:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Given the various genealogical elements and potential variations, it would be unwise to conclude that the genealogies presented in this verse are contradictory. Attempts to identify the genealogy as that of Mary have proven unsuccessful. The names listed in the genealogy all have origins before the captivity and are from the house of David. Though they may not be mentioned in the Old Testament, the order of things, as directed in 2 Samuel 5:14, establishes that Nathan was the son of David. Hence, it is imperative not to hastily judge the genealogies as discrepant and to approach their reconciliation with caution.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.5996311469734599,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+            "commentatorTierSimilarities": [
+                50.4,
+                0.0,
+                49.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The genealogical variations between the Evangelists should be examined with caution, as attempts to attribute the genealogy to Mary have failed. The names listed in the genealogy are from the house of David and lived before the captivity. While not mentioned in the Old Testament, the order of things, established in 2 Samuel 5:14, confirms that Nathan was David's son. Rather than hastily deeming the genealogies discrepant, it is necessary to approach their reconciliation with care.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.58676767265872,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+            "commentatorTierSimilarities": [
+                48.38,
+                0.0,
+                51.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is unwise to conclude that the genealogies presented in this passage are discrepant, as attempts to attribute them to Mary have proven unsuccessful. The names listed in the genealogy, such as Addi, Cosam, Elmodam, and others, were all from the house of David and lived before the captivity. While not mentioned in the Old Testament, the order of things established in 2 Samuel 5:14 confirms that Nathan was indeed the son of David. Therefore, it is essential to approach the reconciliation of these genealogies with caution and avoid hasty judgments.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.590675554069178,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+            "commentatorTierSimilarities": [
+                43.65,
+                0.0,
+                56.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Attempts to attribute the genealogies to Mary have failed, suggesting that they are not discrepant. The names listed in the genealogy, like Addi, Cosam, Elmodam, and others, were from the house of David and lived before the captivity. Although not mentioned in the Old Testament, the order of things established in 2 Samuel 5:14 confirms Nathan as David's son. Therefore, it is necessary to approach the reconciliation of these genealogies with caution and avoid hasty judgments.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5786617252909638,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                45.31,
+                0.0,
+                54.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The genealogies presented here should not be hastily deemed discrepant, as attempts to attribute them to Mary have proved unsuccessful. The names listed in the genealogy, including Addi, Cosam, Elmodam, and others, were from the house of David and lived before the captivity. Although they are not mentioned in the Old Testament, the order of things established in 2 Samuel 5:14 confirms that Nathan was indeed the son of David. Therefore, in reconciling these genealogies, it is essential to exercise caution and avoid making premature judgments.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4393067142144704,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.2,
+            "commentatorTierSimilarities": [
+                43.08,
+                0.0,
+                56.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

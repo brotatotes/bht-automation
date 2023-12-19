@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 14:21:16",
+    "verseRef": "Galatians 5:19",
+    "bestBHT": {
+        "bht": "The works of the flesh, manifest and plain to all, are not dignified as fruit. Divisions, fornication, uncleanness, and wantonness reveal the inherent corruption of human nature and the sad state of humanity. These works go beyond sensuality, including heresies motivated by ambition. While often done in secret, they are known to be sins by natural light and God's law. In contrast, the fruit of the Spirit is singular, consistent, and interconnected, reflecting the virtues that flow from a life surrendered to God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.8886733178623922,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+        "commentatorTierSimilarities": [
+            32.4,
+            27.42,
+            40.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Manifest (emphatic), plain to all, not needing, like the more hidden fruits of the Spirit, to be educed and specified."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The hidden fleshly principle betrays itself palpably by its works, so that these are not hard to discover, and leave no doubt that they come not from the Spirit.",
+            "The results of the flesh are not dignified by the name 'fruit'; they are but works.",
+            "This passage shows that 'the flesh' does not mean merely sensuality, as opposed to spirituality: for 'divisions' in the catalogue here do not flow from sensuality."
+        ],
+        "Albert Barnes": [
+            "The world is full of illustrations of what corrupt human nature produces, and as to the existence and nature of those works, no one can be ignorant.",
+            "The passage furnishes a sad commentary on its tendency, and on the character of man.",
+            "A single glance at the history of the past, or at the present condition of the pagan and a large part of the Christian world, would furnish an ample and a painful demonstration."
+        ],
+        "Marvin Vincent": [
+            "Each exhibits its peculiar works or fruits.",
+            "Adultery. To be dropped from the text.",
+            "Uncleanness. See on 1 Thessalonians 2:3. Lasciviousness. See on Mark 7:22."
+        ],
+        "John Calvin": [
+            "If men knew themselves, they would not need this inspired declaration, for they are nothing but flesh; but such is the hypocrisy belonging to our natural state, we never perceive our depravity till the tree has been fully made known by its fruits.",
+            "It deserves notice that heresies are enumerated among the works of the flesh; for it shows clearly that the word flesh is not confined, as the sophists imagine, to sensuality. What produces heresies but ambition, which deals not with the lower senses, but with the highest faculties of the mind?",
+            "He says that these works are manifest, so that no man may think that he will gain anything by evading the question; for what avails it to deny that the flesh reigns in us, if the fruit betrays the quality of the tree?"
+        ],
+        "Archibald T. Robertson": [
+            "He makes the two lists in explanation of the conflict in verse Galatians 5:17 to emphasize the command in verses Galatians 5:13.",
+            "There are four groups in Paul's list of manifest vices: (I) Sensual sins like fornication (\u03c0\u03bf\u03c1\u03bd\u03b5\u03b9\u03b1, prostitution, harlotry), uncleanness (\u03b1\u03ba\u03b1\u03b8\u03b1\u03c1\u03c3\u03b9\u03b1, moral impurity), lasciviousness (\u03b1\u03c3\u03b5\u03bb\u03b3\u03b5\u03b9\u03b1, wantonness), sexual vice of all kinds prevailed in heathenism.",
+            "And such like (\u03ba\u03b1 \u03c4\u03b1 \u03bf\u03bc\u03bf\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c4\u03bf\u03b9\u03c2). And the things like these (associative instrumental \u03c4\u03bf\u03c5\u03c4\u03bf\u03b9\u03c2 after \u03bf\u03bc\u03bf\u03b9\u03b1, like). It is not meant to be exhaustive, but it is representative."
+        ],
+        "John Gill": [
+            "These are said to be 'manifest' not that they are all, and always publicly done, and are open to the sight of men; for they are works of darkness, and often done in secret, though they are always manifest to God the searcher of hearts.",
+            "They are known to be sins in some measure by the light of nature, and especially by the law of God.",
+            "Uncleanness, it is a general name for all unchastity, in thought, word, or action; and may here design more especially all unnatural lusts."
+        ],
+        "John Wesley": [
+            "Works are mentioned in the plural because they are distinct from, and often inconsistent with, each other.",
+            "But 'the fruit of the Spirit' is mentioned in the singular, Galatians 5:22, as being all consistent and connected together.",
+            "Lasciviousness \u2014 The Greek word means anything inward or outward that is contrary to chastity, and yet short of actual uncleanness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The works of the flesh, as clearly manifested and plain to all, are not dignified by the name fruit. These works, which include sensuality, divisions, fornication, uncleanness, and wantonness, reveal the inherent corruption of human nature and the sad state of humanity. The list is not exhaustive but representative, encompassing the vices prevalent in both heathenism and the world at large. It is important to note that the term flesh goes beyond sensuality, as it also encompasses other manifestations rooted in the highest faculties of the mind, such as heresies arising from ambition. These works are manifest, not only to men but also to God, the searcher of hearts. Although they are often done in secret, they are known to be sins by the light of nature and the law of God. In contrast, the fruit of the Spirit is singular, consistent, and connected together, reflecting the virtues that flow from a life surrendered to God.",
+            "wordCount": 156,
+            "quoteTokenProportion": 33.68,
+            "qualityScore": 1.8955769751314118,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.37,
+            "commentatorTierSimilarities": [
+                31.71,
+                27.55,
+                40.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The works of the flesh, plain to all, clearly reveal the corruption of human nature. Divisions, fornication, uncleanness, and wantonness are among these works, which are not dignified as fruits. These works extend beyond sensuality, encompassing even heresies born from ambition. Though often done in secret, they are known to be sins by nature and God's law. In contrast, the fruit of the Spirit is singular, consistent, and connected, reflecting the virtues that flow from a life surrendered to God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8586587263209713,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                32.22,
+                26.08,
+                41.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The works of the flesh, plain and evident to all, reveal the true nature of humanity. These works, including divisions, fornication, uncleanness, and wantonness, are not deserving of the name fruit. It is important to note that the term flesh extends beyond sensuality, encompassing even heresies rooted in ambition. Though these works may be done in secret, they are known to be sins by the light of nature and God's law. In contrast, the fruit of the Spirit is singular, consistent, and interconnected, reflecting the virtues cultivated in a life surrendered to God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.841537628266762,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                32.26,
+                25.69,
+                42.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The works of the flesh, plain to all, manifest the inherent corruption of human nature. These works, such as divisions, fornication, uncleanness, and wantonness, betray themselves and leave no doubt that they do not come from the Spirit. It is important to note that sensuality alone does not define the flesh, as heresies borne out of ambition also result. Though these works may be done in secret, they are known to be sins by natural light and God's law. Unlike the works of the flesh, the fruit of the Spirit is singular, consistent, and connected, reflecting the virtues that flow from a life surrendered to God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.872471993607695,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                33.79,
+                23.24,
+                42.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The works of the flesh, manifest and plain to all, are not dignified as fruit. Divisions, fornication, uncleanness, and wantonness reveal the inherent corruption of human nature and the sad state of humanity. These works go beyond sensuality, including heresies motivated by ambition. While often done in secret, they are known to be sins by natural light and God's law. In contrast, the fruit of the Spirit is singular, consistent, and interconnected, reflecting the virtues that flow from a life surrendered to God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8886733178623922,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "commentatorTierSimilarities": [
+                32.4,
+                27.42,
+                40.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

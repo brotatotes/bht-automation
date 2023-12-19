@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:17:12",
+    "verseRef": "2 Corinthians 8:12",
+    "bestBHT": {
+        "bht": "Readiness in God's service is accepted if its exertion is proportionate to its means. God judges not by the quantity but by the zeal and willingness of the heart. It is not about how much we give, but the proportion in relation to what we have. A small gift from a generous heart can be more acceptable than a large donation without genuine willingness. Ultimately, God values the readiness and cheerful giving that is worthy of Him.",
+        "wordCount": 78,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 1.8280288527608148,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+        "commentatorTierSimilarities": [
+            33.13,
+            41.79,
+            25.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Readiness in God\u2019s service is accepted if its exertion be commensurate with its means,\u2014and is not measured by an unreasonable requirement of what it has not.",
+            "The willing mind being the subject throughout, as if personified: readiness in God\u2019s service is accepted if its exertion be commensurate with its means.",
+            "Acceptability depends on it, zeal being presupposed, and not on absolute quantity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "According to whatsoever it have\"; the willing mind, or \"readiness\" to will, is personified [ALFORD].",
+            "He is accepted according to whatsoever he have\"; so 2 Corinthians 8:11 - The Lord loveth a cheerful giver.",
+            "God accepts the will for the deed. He judges not according to what a man has the opportunity to do, but according to what he would do if he had the opportunity."
+        ],
+        "Albert Barnes": [
+            "A willing mind is the first consideration. No donation, however large, can be acceptable where that does not exist; none, however small, can be otherwise than acceptable where that is found.",
+            "God will approve of it, and will receive it favorably.",
+            "If the means are small, if the individual is poor, and if the gift shall be, therefore, small in amount, yet it may be proof of a larger heart and of more true love to God and his cause than when a much more ample benefaction is made by one in better circumstances."
+        ],
+        "Marvin Vincent": [
+            "If there be first a willing mind... if the readiness is there.\".",
+            "The error of the A.V. consists in regarding pro in prokeitai as indicating priority in time; be first; whereas it signifies position, before one.",
+            "Rev., correctly, if the readiness is there."
+        ],
+        "Philip Schaff": [
+            "For if the readiness is there, it is acceptable.\" ",
+            "...the acceptability of all our offerings depends not on the amount given, but on the proportion which it bears to our means.\" ",
+            "...the acceptability of all our offerings...worthy of Him who 'loveth a cheerful giver'."
+        ],
+        "Archibald T. Robertson": [
+            "Clearly God does not expect us to give what we do not have.",
+            "Is there (\u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03c4\u03b1). Lies before one. Old word.",
+            "Not according as he hath not (\u03bf\u03c5 \u03ba\u03b1\u03b8\u03bf \u03bf\u03c5\u03ba \u03b5\u03c7\u03b5). Note present indicative rather than subjunctive because a specific case is presented."
+        ],
+        "John Gill": [
+            "If what is done springs from a truly noble, generous spirit...it is accepted; both of God and man.",
+            "The widow's mite was as acceptable, and more so, than all the rich men cast into the treasury.",
+            "A cup of cold water given to a prophet, in the name of a prophet, is taken notice of by God, and shall have its reward."
+        ],
+        "John Wesley": [
+            "A man is accepted with God.\" ",
+            "Whoever acknowledges himself to be a vile, guilty sinner, and, in consequence of this acknowledgment, flies for refuge to the wounds of a crucified Saviour, and relies on his merits alone for salvation, may in every circumstance of life apply this indulgent declaration to himself.",
+            "The same rule holds universally."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Readiness in God's service is accepted when the willingness to serve is matched by the effort within one's means, not an unrealistic expectation beyond one's capabilities. God judges not by the absolute quantity, but by the zeal and willingness of the heart. It is not about how much we give, but the proportion in relation to what we have. A small gift from a generous heart can be more acceptable than a large donation without genuine willingness. Ultimately, God values the readiness and cheerful giving that is worthy of Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.7992410318246832,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.17,
+            "commentatorTierSimilarities": [
+                32.78,
+                42.61,
+                24.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Readiness in God's service is accepted if its exertion is proportionate to its means. God judges not by the quantity but by the zeal and willingness of the heart. It is not about how much we give, but the proportion in relation to what we have. A small gift from a generous heart can be more acceptable than a large donation without genuine willingness. Ultimately, God values the readiness and cheerful giving that is worthy of Him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.8280288527608148,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+            "commentatorTierSimilarities": [
+                33.13,
+                41.79,
+                25.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Readiness in God\u2019s service is accepted if its exertion is in proportion to its means, rather than being measured by an unreasonable requirement of what it does not have. God judges not according to what a person has the opportunity to do, but according to what they would do if they had the opportunity. The acceptability of our offerings depends not on the amount given, but on the proportion to our means, and it is worthy of Him who loves a cheerful giver. Whether it is a large or small gift, what matters is the willingness of the heart and the love for God and His cause that it represents.",
+            "wordCount": 111,
+            "quoteTokenProportion": 52.24,
+            "qualityScore": 2.0206145142349854,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                34.91,
+                42.17,
+                22.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Readiness in God\u2019s service is accepted if its exertion is in proportion to its means. God judges not according to what a person has the opportunity to do, but according to what they would do if they had the opportunity. The acceptability of our offerings depends not on the amount given, but on the proportion to our means, and it is worthy of Him who loves a cheerful giver. Whether it is a large or small gift, what matters is the willingness of the heart and the love for God and His cause that it represents.",
+            "wordCount": 97,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.0166671109245775,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                34.42,
+                41.51,
+                24.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God accepts our readiness in His service as long as it is proportional to our means, rather than requiring what we do not have. He judges based on the willingness of our hearts, not on the absolute quantity of our actions. Our offerings are acceptable to Him, not based on the amount given, but on the proportion to our means. God values a cheerful giver, whether their gift is small or large, as long as it reflects a genuine love for Him and His cause.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.9035311415446992,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                33.03,
+                45.58,
+                21.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

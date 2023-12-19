@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:17:08",
+    "verseRef": "Luke 9:20",
+    "bestBHT": {
+        "bht": "But you, whom do you say that I am? The disciples had witnessed the miracles and teachings of Jesus, but now the crucial question was posed to them. It was not just about the opinions of the masses or the religious leaders, but about their own personal conviction. Simon Peter's response, that Jesus is the Christ of God, was not a new revelation but a settled belief among the disciples. This confession acknowledged Jesus as the Anointed One, the Messiah appointed by God. The Persic version takes it further, stating that Jesus is the Christ God Himself, the Son of God and God over all.",
+        "wordCount": 106,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6317625920871874,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+        "commentatorTierSimilarities": [
+            43.9,
+            0.0,
+            56.1
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "20.] See the important addition, the promise to Peter, in Matthew, vv. 17\u201319."
+        ],
+        "Marvin Vincent": [
+            "Ye. Emphatic : 'but ye, whom do ye say that I am?'\" ",
+            "The Christ of God.",
+            "Matthew, The Christ, the Son of the living God."
+        ],
+        "Archibald T. Robertson": [
+            "But ye who do ye say? This is really what mattered now with Jesus.",
+            "The Anointed of God, the Messiah of God.",
+            "It is clear from the previous narrative that this is not a new discovery from Simon Peter, but simply the settled conviction of the disciples after all the defections of the Galilean masses and the hostility of the Jerusalem ecclesiastics."
+        ],
+        "John Gill": [
+            "Whom say ye that I am?",
+            "Peter answering...said, the Christ of God.",
+            "The Persic version reads, 'Christ God'; the Messiah, who is the Son of God, and God over all, blessed for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But you, whom do you say that I am? The disciples had witnessed the miracles and teachings of Jesus, but now the crucial question was posed to them. It was not just about the opinions of the masses or the religious leaders, but about their own personal conviction. Simon Peter's response, that Jesus is the Christ of God, was not a new revelation but a settled belief among the disciples. This confession acknowledged Jesus as the Anointed One, the Messiah appointed by God. The Persic version takes it further, stating that Jesus is the Christ God Himself, the Son of God and God over all.",
+            "wordCount": 106,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6317625920871874,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+            "commentatorTierSimilarities": [
+                43.9,
+                0.0,
+                56.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But you, whom do you say that I am? The disciples' answer mattered deeply to Jesus, as it revealed their internal conviction. Simon Peter's response, the Christ of God, affirmed their settled belief that Jesus is the Anointed One, the Messiah commissioned by God. This confession acknowledged Jesus as the Son of God and God Himself, as the Persic version adds. It was a proclamation of Jesus' divine nature and authority, emphasizing that he is blessed and exalted above all.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.5822758159991608,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.95,
+            "commentatorTierSimilarities": [
+                45.09,
+                0.0,
+                54.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "But you, whom do you say that I am? This question was crucial, as it sought the disciples' personal conviction. Their response, the Christ of God, reflected their settled belief in Jesus as the Anointed One appointed by God, the Messiah. This confession acknowledged Jesus as the Son of God and even went further, proclaiming him as God Himself, as the Persic version suggests. It was a powerful affirmation of Jesus' divine nature and authority, recognizing him as blessed and exalted above all.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.4974661340810804,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.13,
+            "commentatorTierSimilarities": [
+                44.39,
+                0.0,
+                55.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "But you, whom do you say that I am? This question demanded a personal response from the disciples, revealing their inner conviction. Peter's answer, the Christ of God, affirmed their settled belief in Jesus as the Anointed One, the Messiah chosen by God. This confession acknowledged Jesus as the Son of God, and the Persic version takes it further, proclaiming Jesus as Christ God, emphasizing his divine nature. It was a profound declaration affirming Jesus' exalted position as the blessed and supreme authority over all.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.5333379083576815,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.33,
+            "commentatorTierSimilarities": [
+                43.71,
+                0.0,
+                56.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "But you, whom do you say that I am? In response to this crucial question, Peter declared, the Christ of God, solidifying their conviction that Jesus is the Anointed One, the Messiah appointed by God. This confession acknowledged Jesus as the Son of God, and the Persic version even goes further, stating that he is Christ God, emphasizing his divine nature. It was a powerful proclamation of Jesus' exalted position as the blessed and supreme authority over all things.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.608613055390566,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+            "commentatorTierSimilarities": [
+                42.68,
+                0.0,
+                57.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:20:48",
+    "verseRef": "Luke 16:20",
+    "bestBHT": {
+        "bht": "In a parable, Jesus tells of a certain beggar named Lazarus, whose significant name means God is my help. Lazarus was cast carelessly down at the gate, full of open and running sores. This parable serves as a reminder of the humble earthly condition of Christ and the future exaltation that awaits him. The mention of Lazarus's name suggests his noble origin, while his unhealed sores serve to emphasize the severity of his affliction.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.6251846434356745,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.38,
+        "commentatorTierSimilarities": [
+            31.27,
+            30.79,
+            37.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The significant name Lazarus and Eleazarus, the same as Eleazar,\u2014and meaning, God is my help, should have prevented the expositors from imagining this to be a true history.",
+            "Perhaps by this name our Lord may have intended to fill in the character of the poor man, which indeed must otherwise be understood to be that of one who feared God.",
+            "He was, or had been\u2014cast down, i.e. was placed there on purpose to get what he could of alms."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20, 21. laid\u2014having to be",
+            "\tcarried and put down. ",
+            "\t",
+            "full of sores\u2014open,",
+            "\trunning, \"not closed, nor bound up, nor mollified with ointment",
+            "\t(Isaiah 1:6)."
+        ],
+        "Marvin Vincent": [
+            "It is a striking evidence of the deep impression which this parable has made on the mind of Christendom, that the term lazar should have passed into so many languages as it has, losing altogether its signification as a proper name.",
+            "Was laid [\u03b5\u03b2\u03b5\u03b2\u03bb\u03b7\u03c4\u03bf] . Lit., was thrown: cast carelessly down by his bearers and left there.",
+            "The gateway, often separated from the house or temple. In Matthew 26:71, it is rendered porch."
+        ],
+        "Philip Schaff": [
+            "The significant name is mentioned in this case. It means \u2018God a help,\u2019 not, as some suppose, \u2018helpless.\u2019",
+            "The beggar was one who feared God.",
+            "Covered with them. They might have been the result of insufficient food."
+        ],
+        "Archibald T. Robertson": [
+            "The name Lazarus is from \u0395\u03bb\u03b5\u03b1\u03b6\u03b1\u03c1\u03bf\u03c2, 'God a help,' and was a common one.",
+            "He had been flung there and was still there, 'as if contemptuous roughness is implied.'",
+            "Full of sores (\u03b5\u03b9\u03bb\u03ba\u03c9\u03bc\u03b5\u03bd\u03bf\u03c2). Perfect passive participle of \u03b5\u03bb\u03ba\u03bf\u03c9, to make sore, to ulcerate, from \u03b5\u03bb\u03ba\u03bf\u03c2, ulcer."
+        ],
+        "John Gill": [
+            "And there was a certain beggar named Lazarus...",
+            "...the mean and despicable condition of Christ in this world...",
+            "...the exaltation of Christ hereafter, when they would be in the utmost distress..."
+        ],
+        "John Wesley": [
+            "By his name it may be conjectured, he was of no mean family, though it was thus reduced.",
+            "Theophylact observes, from the tradition of the Hebrews, that he lived at Jerusalem.",
+            "It seems this circumstance is recorded to show that all his ulcers lay bare, and were not closed or bound up."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In a parable, Jesus tells of a certain beggar named Lazarus, whose significant name means God is my help. Lazarus lay at the gate, cast carelessly down with open and running sores, as if contemptuously thrown there. The mention of Lazarus's name in this story has left a deep impression on Christendom, with the term lazar passing into many languages. This parable highlights the mean and despicable condition of Christ in this world, foreshadowing his exaltation in the future, when those who rejected him would be in great distress. By revealing Lazarus's name, it suggests that he may have come from a noble family that had fallen into poverty. The mention of Lazarus's sores emphasizes that they were not closed or bound up, but left bare and ulcerated.",
+            "wordCount": 131,
+            "quoteTokenProportion": 42.71,
+            "qualityScore": 1.6239125698623025,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+            "commentatorTierSimilarities": [
+                32.56,
+                31.13,
+                36.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a parable, Jesus tells of a certain beggar named Lazarus, whose significant name means God is my help. Lazarus lay at the gate, cast carelessly down with open and running sores, as if contemptuously thrown there. This parable highlights the mean and despicable condition of Christ in this world, foreshadowing his exaltation in the future when those who rejected him would be in great distress. The mention of Lazarus's sores emphasizes that they were not closed or bound up, but left bare and ulcerated.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6228195529126266,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.3,
+            "commentatorTierSimilarities": [
+                32.2,
+                30.79,
+                37.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a parable, Jesus tells of a certain beggar named Lazarus, whose significant name means God is my help. Lazarus was cast carelessly down at the gate, full of open and running sores. This parable serves as a reminder of the humble earthly condition of Christ and the future exaltation that awaits him. The mention of Lazarus's name suggests his noble origin, while his unhealed sores serve to emphasize the severity of his affliction.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6251846434356745,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.38,
+            "commentatorTierSimilarities": [
+                31.27,
+                30.79,
+                37.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a parable, Jesus tells of a certain beggar named Lazarus, who was full of open and running sores, cast carelessly down at the gate. The significance of Lazarus's name, meaning God is my help, should prevent readers from taking this story as a true history. Instead, it portrays the humble earthly condition of Christ and foreshadows his future exaltation. The mention of Lazarus's sores underscores the severity of his affliction, as they were left bare and untreated.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.6043073195745854,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.69,
+            "commentatorTierSimilarities": [
+                31.47,
+                32.19,
+                36.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a parable, Jesus tells of a certain beggar named Lazarus, who was full of sores and cast carelessly down at the gate. The significant name Lazarus, meaning God is my help, should have prevented readers from imagining this as a true story. Instead, it reveals the mean and despicable condition of Christ in this world with anticipation of his future exaltation. The mention of Lazarus's open sores emphasizes their severity, as they were left uncovered and untreated.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6023325670841064,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+            "commentatorTierSimilarities": [
+                31.07,
+                30.82,
+                38.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

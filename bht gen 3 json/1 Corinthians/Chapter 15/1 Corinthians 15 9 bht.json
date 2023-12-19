@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:13:34",
+    "verseRef": "1 Corinthians 15:9",
+    "bestBHT": {
+        "bht": "Though God has forgiven him, the apostle Paul can hardly forgive himself at the remembrance of his past sin. He considers himself the least of the apostles, acknowledging his unworthiness and humbling himself before God. Paul's deep sense of humility does not disqualify him but rather adds to his qualification as a witness. Despite his past as a persecutor of the church, Paul magnifies the office of apostle. His humility and acknowledgement of his unworthiness only serve to highlight the greatness of God's grace towards him.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.9567687630779842,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.4,
+        "commentatorTierSimilarities": [
+            32.93,
+            32.45,
+            34.62
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9. I] The stress is on the personal pronoun: \u2018I, and no other.\u2019 to be called] \u2018to bear the honourable name of an Apostle.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The name, 'Paulus,' in Latin, means 'least.'\" ",
+            "Though God has forgiven him, Paul can hardly forgive himself at the remembrance of his past sin."
+        ],
+        "Albert Barnes": [
+            "I am the least of the apostles - Not on account of any defect in his commission, or any lack of qualification to bear witness, but on account of the great crime of his life, the fact that he had been a persecutor.",
+            "Paul had a deep sense of his unworthiness; and the memory of his former life tended ever to keep him humble.",
+            "Humility does not disqualify a man to give testimony, but rather furnishes an additional qualification. There is no man to whom we listen more attentively, or whose words we more readily believe, than the modest and humble man."
+        ],
+        "John Calvin": [
+            "Detract from me as much as you please \u2014 I shall suffer myself to be cast down below the ground \u2014 I shall suffer myself to be of no account whatever, that the goodness of God towards me may shine forth the more.\" ",
+            "Let me, therefore, be reckoned the least of the Apostles: nay more, I acknowledge myself to be unworthy of this distinction.\" ",
+            "The sum is this, that Paul does not refuse to be the most worthless of all, and next to nothing, provided this contempt does not impede him in any degree in his ministry, and does not at all detract from his doctrine."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 15:9. For I am the least of the apostles though still I am one. While deprecating the occupant, he magnifies the office.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "The least (\u03bf \u03b5\u03bb\u03b1\u03c7\u03b9\u03c3\u03c4\u03bf\u03c2). True superlative, not elative.",
+            "See Ephesians 3:8 where he calls himself 'less than the least of all saints' and 1 Timothy 1:15 the 'chief' (\u03c0\u03c1\u03c9\u03c4\u03bf\u03c2) of sinners.",
+            "There were times when this terrible fact confronted Paul like a nightmare."
+        ],
+        "John Gill": [
+            "For I am the least of the apostles...the true and real sense he had of himself.\" ",
+            "None of the apostles were any more than himself; but his meaning is, that though he was chosen, and called, and qualified by the gifts and grace of God for this office, yet he was unworthy to be called by the name of an apostle of Christ.",
+            "This he mentions both for his own abasement and humiliation, and to magnify the grace of God."
+        ],
+        "John Wesley": [
+            "I persecuted the church \u2014 True believers are humbled all their lives, even for the sins they committed before they believed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though God has forgiven him, the apostle Paul can hardly forgive himself at the remembrance of his past sin. He considers himself the least of the apostles, acknowledging his unworthiness and humbling himself before God. Paul's deep sense of humility does not disqualify him but rather adds to his qualification as a witness. Despite his past as a persecutor of the church, Paul magnifies the office of apostle. His humility and acknowledgement of his unworthiness only serve to highlight the greatness of God's grace towards him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.9567687630779842,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.4,
+            "commentatorTierSimilarities": [
+                32.93,
+                32.45,
+                34.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though God has forgiven him, Paul hardly forgives himself as he recalls his past sin. He considers himself the least of the apostles, acknowledging his unworthiness. His deep sense of humility doesn't disqualify him as a witness, but rather adds to his qualification. Despite his past as a church persecutor, Paul magnifies the office of apostle, humbling himself and highlighting the greatness of God's grace towards him.",
+            "wordCount": 69,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.872488826357293,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                31.95,
+                32.97,
+                35.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though God has forgiven him, Paul can hardly forgive himself for his past sin. He acknowledges his unworthiness and considers himself the least of the apostles. His humility doesn't disqualify him as a witness, but rather adds to his qualification. Despite his past as a church persecutor, Paul magnifies the office of apostle, humbling himself to highlight the greatness of God's grace towards him.",
+            "wordCount": 66,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.8735423818272798,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                34.06,
+                31.96,
+                33.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though God has forgiven him, Paul can hardly forgive himself at the remembrance of his past sin. He considers himself the least of the apostles, acknowledging his unworthiness. His deep sense of humility doesn't disqualify him as a witness, but rather adds to his qualification. Despite his past as a persecutor of the church, Paul magnifies the office of apostle, humbling himself and highlighting the greatness of God's grace towards him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.9067072020835856,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                32.9,
+                32.77,
+                34.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though God has forgiven him, Paul can hardly forgive himself at the remembrance of his past sin. He considers himself the least of the apostles, acknowledging his unworthiness. His deep sense of humility doesn't disqualify him as a witness, but rather adds to his qualification. Despite his past as a persecutor, Paul magnifies the office of apostle, humbling himself to highlight the greatness of God's grace towards him.",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.909965194824579,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.85,
+            "commentatorTierSimilarities": [
+                33.32,
+                33.31,
+                33.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

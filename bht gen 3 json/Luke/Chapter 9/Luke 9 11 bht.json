@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:16:59",
+    "verseRef": "Luke 9:11",
+    "bestBHT": {
+        "bht": "Jesus did not send the multitude away but received them with compassion. He continued speaking and healing, not ceasing in His ministry. He spoke to them of the kingdom of God, teaching about the Gospel dispensation, the principles of grace, and the glory of the world to come. In His actions and words, He both taught doctrine and performed miracles, demonstrating the power and authority of His ministry.",
+        "wordCount": 68,
+        "quoteTokenProportion": 31.11,
+        "qualityScore": 1.5174118043320397,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+        "commentatorTierSimilarities": [
+            39.55,
+            0.0,
+            60.45
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He received them, i.e. did not send them away.",
+            "This word includes what St. Mark tells us of His going forth from His solitude, or perhaps landing from the ship, and seeing a great multitude, and having compassion on them.",
+            "He received them, i.e. did not send them away."
+        ],
+        "Archibald T. Robertson": [
+            "Spake (\u03b5\u03bb\u03b1\u03bb\u03b5). Imperfect active, he continued speaking.",
+            "He healed (\u03b9\u03b1\u03c4\u03bf). Imperfect middle, he continued healing. "
+        ],
+        "John Gill": [
+            "And the people...followed him;...and he received them...and he spake unto them of the kingdom of God...\" ",
+            "of the Gospel dispensation, now setting up, and of the doctrines and ordinances of it, of the governing principle of grace in the hearts of his people, and of the glory of the world to come...\" ",
+            "he both taught doctrine and wrought miracles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus did not send the multitude away but received them with compassion. He continued speaking and healing, not ceasing in His ministry. He spoke to them of the kingdom of God, teaching about the Gospel dispensation, the principles of grace, and the glory of the world to come. In His actions and words, He both taught doctrine and performed miracles, demonstrating the power and authority of His ministry.",
+            "wordCount": 68,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.5174118043320397,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                39.55,
+                0.0,
+                60.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus did not send the great multitude away but received them with compassion, continuing to speak and heal. He spake unto them of the kingdom of God, teaching about the Gospel dispensation, the governing principle of grace, and the glory of the world to come. Both teaching doctrine and performing miracles, Jesus exemplified the power and authority of His ministry.",
+            "wordCount": 60,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 1.359934634524301,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.56,
+            "commentatorTierSimilarities": [
+                29.77,
+                0.0,
+                70.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus did not send the great multitude away but received them with compassion, continuing to speak and heal. He continued speaking and healing, not ceasing in His ministry. He spoke to them of the kingdom of God, teaching about the Gospel dispensation, the principles of grace, and the glory of the world to come. In His actions and words, He both taught doctrine and performed miracles, demonstrating the power and authority of His ministry.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.5062729305799138,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                38.96,
+                0.0,
+                61.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus did not send the great multitude away but received them with compassion, continuing to speak and heal. He spoke to them of the kingdom of God, teaching about the Gospel dispensation, the principles of grace, and the glory of the world to come. In His actions and words, He both taught doctrine and performed miracles, demonstrating the power and authority of His ministry.",
+            "wordCount": 64,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.4018412000514702,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.95,
+            "commentatorTierSimilarities": [
+                32.34,
+                0.0,
+                67.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus did not send the multitude away but received them with compassion. He continued speaking and healing, not ceasing in His ministry. He spoke to them of the kingdom of God, teaching about the Gospel dispensation, the principles of grace, and the glory of the world to come. Both teaching doctrine and performing miracles, Jesus demonstrated the power and authority of His ministry.",
+            "wordCount": 63,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4754643777720533,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.4,
+            "commentatorTierSimilarities": [
+                38.5,
+                0.0,
+                61.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

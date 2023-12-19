@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:15:29",
+    "verseRef": "Galatians 1:10",
+    "bestBHT": {
+        "bht": "If I were still seeking to please men, I would not be the servant of Christ. Paul's purpose was to please God, not to gratify people. A servant of Christ must be willing to be met with contempt and persecution, laying aside all hope of the praise and flattery of people. The service of the gospel is absolutely irreconcilable with the selfish service of men. The Galatian heretics, under the assumed character of servants of Christ, sought not the glory of Christ and the salvation of souls, but only the favor of men and their own profit.",
+        "wordCount": 98,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 2.1339419473828096,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.29,
+        "commentatorTierSimilarities": [
+            20.26,
+            45.77,
+            33.97
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "is this like an example of men-pleasing?",
+            "if I any longer were pleasing men, I were not the servant of Christ.",
+            "measured by merely human rules and considerations, as it would be were it of human origin."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Am I now persuading men?... Is what I have just now said a sample of men-pleasing, of which I am accused?\" ",
+            "Regard is to be had to God alone.\" ",
+            "If I were still pleasing men."
+        ],
+        "Albert Barnes": [
+            "His purpose was to please God; and he was not aiming in any way to gratify people.",
+            "A friend of Christ must do his duty, and must regulate his conduct by the will of God, whether people are pleased with it or not.",
+            "They must be willing to be met with contempt and a frown; they must be willing to be persecuted and despised; they must he willing to lay aside all hope of the praise and the flattery of people, and be content with an honest effort to please God."
+        ],
+        "Marvin Vincent": [
+            "I have been charged with conciliating men. Does this anathema of mine look like it?",
+            "Is it a time for conciliatory words now, when Judaising emissaries are troubling you and persuading you to forsake the true gospel?",
+            "Persuade or conciliate God is an awkward phrase; but the expression is condensed, and persuade is carried forward from the previous clause."
+        ],
+        "John Calvin": [
+            "He supports his assertion by two arguments. The first is, that he was not prompted by ambition, or flattery, or any similar passion, to accommodate himself to the views of men.",
+            "Paul is speaking, not about the subject of his preaching, but about the purpose of his own mind, which could not refer so properly to men as to God.",
+            "This is a remarkable sentiment; that ambitious persons, that is, those who hunt after the applause of men, cannot serve Christ."
+        ],
+        "Philip Schaff": [
+            "The service of the gospel is absolutely irreconcilable with the selfish service of men.",
+            "A certain manly independence and fearless regard to duty seems to have characterized him even before his conversion.",
+            "The Galatian heretics, under the assumed character of servants of Christ, sought not the glory of Christ and the salvation of souls, but only the favor of men and their own profit."
+        ],
+        "Archibald T. Robertson": [
+            "Am I persuading? Conative present, trying to persuade like \u03b6\u03b7\u03c4\u03c9 \u03b1\u03c1\u03b5\u03c3\u03ba\u03b5\u03b9\u03bd (seeking to please) where the effort is stated plainly.\" ",
+            "I should not be. Conclusion of second class condition, determined as unfulfilled. Regular construction here... About pleasing men see on 1 Thessalonians 2:4.\" ",
+            "In Colossians 3:22; Colossians 6:6 Paul uses the word 'men-pleasers' (\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03b1\u03c1\u03b5\u03c3\u03ba\u03bf)."
+        ],
+        "John Gill": [
+            "He did not teach human wisdom, the vain philosophy of the Gentiles, and opposition of science, falsely so called; nor the traditions of the elders, nor the commandments of men; nor the power and purity human nature, or the righteousness of man: but delivered things divine.",
+            "No man pleaser can be a true faithful servant of Christ, or deserve the name of one.",
+            "For to please men, and be a servant of Christ, are things inconsistent, incompatible, and impracticable; no man pleaser can be a true faithful servant of Christ, or deserve the name of one."
+        ],
+        "John Wesley": [
+            "Do I now satisfy men \u2014 Is this what I aim at in preaching or writing?",
+            "If I still - Since I was an apostle.",
+            "Hear this, all ye who vainly hope to keep in favour both with God and with the world!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If I were still seeking to please men, I would not be the servant of Christ. The Galatian heretics, disguising themselves as servants of Christ, sought only the favor of men and their own profit. However, Paul had a different motive; his purpose was to please God and fulfill his duty, regardless of whether or not people were pleased. In fact, a servant of Christ must be willing to face contempt, persecution, and despise in order to please God. Paul's service to the gospel was completely incompatible with selfishly seeking the approval of men. His independence and fearless commitment to his duty can be seen even before his conversion. Therefore, let us not seek to please men, but let us prioritize pleasing God in all that we do.",
+            "wordCount": 129,
+            "quoteTokenProportion": 45.68,
+            "qualityScore": 2.00669522540806,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.06,
+            "commentatorTierSimilarities": [
+                20.49,
+                45.36,
+                34.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If I were still seeking to please men, I would not be the servant of Christ. Paul's purpose was to please God, not to gratify people. He desired to please God regardless of whether or not people were pleased. A servant of Christ must be willing to be met with contempt and persecution, laying aside all hope of praise and flattery. The service of the gospel is irreconcilable with the selfish service of men. Let us prioritize pleasing God over seeking the favor of men.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.044129239557321,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.31,
+            "commentatorTierSimilarities": [
+                22.71,
+                43.78,
+                33.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A servant of Christ cannot be a people-pleaser. Paul's purpose was to please God, not to accommodate human opinions. Seeking to please men is incompatible with being a faithful servant of Christ. Paul's commitment to his duty was characterized by a fearless independence. The Galatian heretics, posing as servants of Christ, were driven by the desire for men's favor and personal gain. Let us remember to prioritize pleasing God over seeking the approval of others.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.927665664410895,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                22.77,
+                41.57,
+                35.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If I were still seeking to please men, I would not be the servant of Christ. Paul's purpose was to please God, not to gratify people. A servant of Christ must be willing to be met with contempt and persecution, laying aside all hope of the praise and flattery of people. The service of the gospel is absolutely irreconcilable with the selfish service of men. The Galatian heretics, under the assumed character of servants of Christ, sought not the glory of Christ and the salvation of souls, but only the favor of men and their own profit.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.1339419473828096,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.29,
+            "commentatorTierSimilarities": [
+                20.26,
+                45.77,
+                33.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's purpose in serving Christ was to please God, not men. Seeking to gratify people would be incompatible with being a servant of Christ. The Galatian heretics, disguising themselves as servants of Christ, were driven by the desire for men's favor and personal gain. However, a faithful servant of Christ must be willing to face contempt and persecution, setting aside any hope for the praise and flattery of people. Let us remember to prioritize pleasing God rather than seeking the approval of others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.053580003193694,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.62,
+            "commentatorTierSimilarities": [
+                20.57,
+                43.48,
+                35.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

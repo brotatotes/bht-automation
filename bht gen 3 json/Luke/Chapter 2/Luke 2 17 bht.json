@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:13:59",
+    "verseRef": "Luke 2:17",
+    "bestBHT": {
+        "bht": "The shepherds, entrusted with the sacred task of taking care of sacrificial flocks, were the first evangelists, joyfully proclaiming the Messiah's arrival at the temple. They wasted no time in making known the marvelous news they had heard from the angels, sharing the saying concerning the child with others. Their testimony provided evidence that what the angels had said was true, and they became the first preachers of the gospel. Just as the shepherds delighted in spreading the good news, we too, as newly converted believers, should eagerly share with others what we have experienced and seen.",
+        "wordCount": 98,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.655061748620792,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.37,
+        "commentatorTierSimilarities": [
+            20.53,
+            48.26,
+            31.22
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17. made known abroad\u2014before",
+            "\ttheir return (Luke 2:20), and",
+            "\tthus were the first evangelists [BENGEL]."
+        ],
+        "Albert Barnes": [
+            "There was evidence enough to satisfy 'them' that what the angels said was true, or they would not have gone to Bethlehem.",
+            "Having seen the child themselves, they had now evidence that would satisfy others; and accordingly they became the first preachers of the 'gospel,' and went and proclaimed to others that the Messiah had come.",
+            "One of the first duties of those who are newly converted to God, and a duty in which they delight, is to proclaim to others what they have seen and felt."
+        ],
+        "Marvin Vincent": [
+            "They made known.",
+            "These shepherds, having charge of flocks devoted to sacrifice, would...proclaim the Messiah in the temple.",
+            "See on verse 8."
+        ],
+        "John Calvin": [
+            "They honestly delivered to others what they had received from the Lord; and it was advantageous to all of us that they should attest this, and should be a sort of secondary angels in confirming our faith.",
+            "The Lord, who gave them this employment, does not allow it to be fruitless.",
+            "The design of publishing this report was not so much for their salvation, as to render the ignorance of the whole people inexcusable."
+        ],
+        "Philip Schaff": [
+            "This indicates that they narrated the matter to others than Mary and Joseph, perhaps before their return to their flocks.",
+            "The saying, or, \u2018concerning the saying,\u2019 i.e., of the angels.",
+            "This was the first gospel message told by men."
+        ],
+        "Archibald T. Robertson": [
+            "Made known (\u03b5\u03b3\u03bd\u03c9\u03c1\u03b9\u03c3\u03b1\u03bd). To others (verse Luke 2:18) besides Joseph and Mary.",
+            "The verb is common from Aeschylus on, from the root of \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9 (to know).",
+            "It is both transitive and intransitive in the N.T."
+        ],
+        "John Gill": [
+            "They made known abroad...the saying which was told them concerning this child.",
+            "They spread abroad...the saying, or report, they spread abroad.",
+            "No doubt, but they had a conversation with Joseph and Mary about him...it is reasonable to suppose, that Joseph and Mary would give them some account of the above things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The shepherds, entrusted with the sacred task of taking care of sacrificial flocks, were the first evangelists, joyfully proclaiming the Messiah's arrival at the temple. They wasted no time in making known the marvelous news they had heard from the angels, sharing the saying concerning the child with others. Their testimony provided evidence that what the angels had said was true, and they became the first preachers of the gospel. Just as the shepherds delighted in spreading the good news, we too, as newly converted believers, should eagerly share with others what we have experienced and seen.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.655061748620792,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.37,
+            "commentatorTierSimilarities": [
+                20.53,
+                48.26,
+                31.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The shepherds, entrusted with sacrificial flocks and having seen the child themselves, wasted no time in proclaiming the Messiah's arrival at the temple, making known the saying concerning the child to others. They became the first evangelists, joyfully sharing the evidence of what they had witnessed. We too, as newly converted believers, should eagerly follow their example and share with others the marvelous news of our own encounters with Christ.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.5760089000730637,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.74,
+            "commentatorTierSimilarities": [
+                23.73,
+                45.82,
+                30.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The shepherds, as the first evangelists, wasted no time in making known the saying concerning the child to others. Having seen the child themselves, they became the bearers of evidence that what the angels had said was true. Their testimony served as a witness to the Messiah's arrival, and they eagerly shared this news with others. We too, as new believers, should follow their example and passionately share the marvelous news of our encounters with Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.6036011099127023,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.66,
+            "commentatorTierSimilarities": [
+                18.66,
+                47.84,
+                33.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The shepherds, being the first evangelists, immediately made known to others the saying concerning the child. Their role was significant, as they had seen the child themselves, providing evidence that what the angels had proclaimed was true. Their testimony served as a witness, spreading the news of the Messiah's arrival. Just as the shepherds eagerly shared their encounter, we, too, as new believers, are called to passionately proclaim the incredible news of our personal experiences with Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6038469661020092,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.67,
+            "commentatorTierSimilarities": [
+                20.62,
+                45.65,
+                33.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The shepherds, entrusted with the sacred task of tending to sacrificial flocks, became the first evangelists, joyfully proclaiming the Messiah's arrival at the temple. They wasted no time in spreading the good news, making known to others the saying concerning the child. With their own eyes having witnessed the child, their testimony served as evidence that what the angels had proclaimed was true. We too, as newly converted believers, should eagerly follow their example, sharing the marvelous news of our encounters with Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5271875018886507,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.12,
+            "commentatorTierSimilarities": [
+                20.51,
+                46.47,
+                33.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

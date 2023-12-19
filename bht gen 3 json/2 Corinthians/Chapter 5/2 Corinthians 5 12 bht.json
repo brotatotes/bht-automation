@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:16:37",
+    "verseRef": "2 Corinthians 5:12",
+    "bestBHT": {
+        "bht": "The Apostle Paul writes to the Corinthians, aiming to equip them with a foundation of substance against those who boast in external achievements without sincerity of heart. His purpose is not to commend himself, but to give them a reason to glory on his behalf, showing the authenticity of his preaching. Paul wants their consciences to affirm his sincerity, in contrast to the false teachers who pride themselves in outward displays. This enables the Corinthians to respond to those who value external reputation but lack genuine sincerity.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.9434935416182246,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+        "commentatorTierSimilarities": [
+            29.13,
+            35.99,
+            34.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We are not recommending ourselves again unto you, but are giving you occasion of glorying on our behalf.\" ",
+            "That ye may have it against those who glory in face and not in heart.\" ",
+            "Their hearts are indifferent about the matters of which they boast."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He leaves the manifestation of his sincerity in preaching to their consciences.",
+            "The false teachers gloried in their outward appearance, and in external recommendations.",
+            "Their conscience does not attest their inward sincerity, as mine does."
+        ],
+        "Albert Barnes": [
+            "It was not to commend himself to them. It was not to boast of his own character, nor was it in order to secure their praise or favor.",
+            "I, therefore, say these things in regard to myself in order that you may be thus able to show your respect for me, and to vindicate me from the false and slanderous accusations of my enemies.",
+            "Paul, on the other hand, gloried mainly in his sincerity, his honesty, his desire for their salvation; in his conscious integrity before God; and not in any mere external advantages or professions, in his rank, eloquence, or talent."
+        ],
+        "John Calvin": [
+            "We commend not ourselves again, he says this as if speaking in his own person. To commend is taken in a bad sense, as meaning to boast, or to brag.\" ",
+            "We are here taught, that Christ\u2019s servants ought to be concerned as to their own reputation, only in so far as is for the advantage of the Church.\" ",
+            "To glory in appearance, not in heart, is to disguise one\u2019s self by outward show, and to regard sincerity of heart as of no value; for those that will be truly wise will never glory but in God."
+        ],
+        "Philip Schaff": [
+            "We are not again commending ourselves unto you, but speak as giving you occasion of glorying on our behalf.\" ",
+            "Enabling you to meet all unworthy attacks upon us, by pointing to what the Gospel which we brought you has made yourselves.",
+            "That ye may have wherewith to answer them that glory in appearance, and not in heart."
+        ],
+        "Archibald T. Robertson": [
+            "As giving you occasion of glorying... a base of operations, material with which to glory...\" ",
+            "That ye may have something against (for facing those, etc.)...\" ",
+            "He means the Judaizers who were braggarts about their orthodox Judaism."
+        ],
+        "John Gill": [
+            "We have no need to do so, being well known to you; nor do we intend it when we thus speak of ourselves, and of our ministrations.",
+            "but give you occasion to glory on our behalf; suggest some things to you which you may make use of in our favour, for the vindicating of our characters and conduct.",
+            "that you may have somewhat to answer them which glory in appearance, and not in heart; by whom are meant the false apostles who gloried in an outward show, in their learning, eloquence, and popular applause they had acquired, and not in the sincerity of their hearts, and the testimony of a good conscience, things which the true apostles of Christ were most ambitious of."
+        ],
+        "John Wesley": [
+            "We do not say this, as if we thought there was any need of again recommending ourselves to you.\" ",
+            "To give you an occasion of rejoicing and praising God.",
+            "To furnish you with an answer to those false apostles who glory in appearance, but not in heart, being condemned by their own conscience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle Paul writes to the Corinthians, making it clear that he is not seeking to commend himself again to them or to boast about his outward appearance. Instead, his purpose is to provide them with a reason to glory on his behalf, to have a foundation of substance against those who boast in their external achievements without sincerity of heart. Paul wants their consciences to affirm his authenticity in preaching the Gospel, in contrast to the false teachers who pride themselves in their showy external displays. His aim is to equip the Corinthians to respond to these Judaizers who highly esteem their outward reputation, but lack the genuine sincerity that Paul values.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9394405928122167,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                26.77,
+                36.89,
+                36.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle Paul writes to the Corinthians, aiming to equip them with a foundation of substance against those who boast in external achievements without sincerity of heart. His purpose is not to commend himself, but to give them a reason to glory on his behalf, showing the authenticity of his preaching. Paul wants their consciences to affirm his sincerity, in contrast to the false teachers who pride themselves in outward displays. This enables the Corinthians to respond to those who value external reputation but lack genuine sincerity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9434935416182246,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+            "commentatorTierSimilarities": [
+                29.13,
+                35.99,
+                34.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 2 Corinthians 5:12, the Apostle Paul emphasizes that he is not seeking to commend himself again or boast about his outward appearance. Instead, he provides the Corinthians with a reason to glory on his behalf, showing his sincerity in preaching the Gospel. He wants their consciences to affirm his authenticity, unlike the false teachers who value external displays. Paul's aim is to equip the Corinthians to respond to those who boast in appearance but lack genuine sincerity in their hearts.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.8838351235081532,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                28.64,
+                36.31,
+                35.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his letter to the Corinthians, the Apostle Paul clarifies that he is not recommending himself to them and does not intend to boast about his external appearance. Rather, he presents them with an opportunity to glory on his behalf, emphasizing the sincerity of his preaching. Paul desires their consciences to attest to his genuineness, in contrast to the false teachers who boast in mere outward show. His aim is to provide the Corinthians with the means to respond to those who boast in appearance but lack a sincere heart.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.9360738648270865,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.72,
+            "commentatorTierSimilarities": [
+                28.9,
+                36.15,
+                34.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his letter to the Corinthians, the Apostle Paul clarifies that he is not recommending himself, nor boasting about external appearance. Instead, he provides them an opportunity to glory on his behalf, highlighting the sincerity of his preaching. Paul wants their consciences to affirm his genuineness, unlike the false teachers who boast in outward show. His aim is to equip the Corinthians to respond to those who boast in appearance but lack a sincere heart.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.9140545622353495,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                30.12,
+                35.58,
+                34.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

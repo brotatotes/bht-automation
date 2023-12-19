@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:09:01",
+    "verseRef": "1 Corinthians 8:13",
+    "bestBHT": {
+        "bht": "In order to avoid being a stumbling block to his weaker brother, Paul resolves to abstain from all kinds of flesh, going so far as to become a vegetarian. This act of selflessness reflects his commitment to love and consideration for others. It serves as a powerful example of Christian charity, showcasing a genuine concern for the peace and welfare of fellow believers. Paul's willingness to give up what is lawful challenges us to examine our own actions and prompts us to consider whether we are willing to sacrifice our rights and liberties for the sake of others.",
+        "wordCount": 99,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.6600611538099515,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.54,
+        "commentatorTierSimilarities": [
+            32.64,
+            31.19,
+            36.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Fervid expression of his own resolution consequent on these considerations by way of an example to them.\" ",
+            "Purposely indefinite here; 'if such a matter as food...'\" ",
+            "I will abstain from every kind of flesh."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In order to ensure my avoiding flesh offered to idols, I would abstain from all kinds of flesh, in order not to be a stumbling-block to my brother.",
+            "Make...to offend - Greek, 'is a stumbling-block to.'",
+            "No flesh - In order to ensure my avoiding flesh offered to idols, I would abstain from all kinds of flesh, in order not to be a stumbling-block to my brother."
+        ],
+        "Albert Barnes": [
+            "A man is usually much more likely to act right who is influenced by charity and love, than one who is guided by simple knowledge, or by self-confidence.",
+            "We should not be self-confident of our wisdom.",
+            "We have here a noble instance of the principles on which Paul was willing to act...Even from that which was in itself lawful he would abstain forever, if by indulgence he would be the occasion of another\u2019s falling into transgression."
+        ],
+        "Marvin Vincent": [
+            "Meat - flesh [\u03b2\u03c1\u03c9\u03bc\u03b1 - \u03ba\u03c1\u03b5\u03b1] . The former food in general, the latter the special food which causes stumbling.",
+            "A weak conscience is opposed to a strong; which very strength, we shew, consisted in the tenderness or quickness of its discerning or perceptive power.",
+            "Tenderness, applied to the conscience, properly imports quickness and exactness of sense, which is the perfection of this faculty."
+        ],
+        "John Calvin": [
+            "he declares, that we ought not merely to refrain from a single banquet rather than injure a brother, but ought to give up the eating of meats during our whole life.",
+            "For participation is in no case lawful, unless it be regulated by the rule of love.",
+            "Paul here inveighs against those who impudently abuse their knowledge in the presence of the weak, whom they take no pains to instruct."
+        ],
+        "Philip Schaff": [
+            "Wherefore, if meat maketh my brother to stumble, I will eat no flesh for evermore, that I make not my brother to stumble.\" ",
+            "The question of murderous Cain, and of his children in every age and country 'Am I my brother\u2019s keeper?' is abhorrent to the whole spirit of Christianity.",
+            "Would that Christians would let that spirit reign in them, in their social intercourse!"
+        ],
+        "Archibald T. Robertson": [
+            "Food it should be, not flesh.",
+            "Paul had rather be a vegetarian than to lead his weak brother to do what he considered sin.",
+            "There are many questions of casuistry today that can only be handled wisely by Paul's ideal of love."
+        ],
+        "John Gill": [
+            "rather than do any of these things, or be accessary to them, he determines, in the strength of divine grace, that he will eat no flesh while the world standeth.",
+            "he not only concludes to abstain a few days, or months, or years, but as long as he should live in the world: he chose rather to live on herbs, or any other food but this.",
+            "this is truly Christian charity, a proof of brotherly love, and it shows a concern for the peace and welfare of others, when a person foregoes his own right, and drops the use of his liberty, rather than grieve, wound, and offend a brother in Christ."
+        ],
+        "John Wesley": [
+            "Who will follow this example?",
+            "What preacher or private Christian will abstain from anything lawful in itself?",
+            "When it offends a weak brother?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 8:13, Paul sets an example for believers by expressing his resolve to abstain from certain foods, including meat, in order to prevent his weaker brother from stumbling. He emphasizes the importance of not causing offense and being a stumbling block to others. Paul's willingness to go to great lengths, even giving up the eating of meats for the rest of his life, shows his commitment to love and consideration for others. This selfless act of refraining from what is lawful demonstrates Christian charity and a genuine concern for the peace and welfare of fellow believers. It challenges us to examine our own actions and consider whether we are willing to give up our rights and liberties for the sake of others.",
+            "wordCount": 123,
+            "quoteTokenProportion": 34.52,
+            "qualityScore": 1.6459925695212902,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+            "commentatorTierSimilarities": [
+                31.85,
+                30.0,
+                38.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In order to avoid being a stumbling block to his weaker brother, Paul resolves to abstain from all kinds of flesh, going so far as to become a vegetarian. This act of selflessness reflects his commitment to love and consideration for others. It serves as a powerful example of Christian charity, showcasing a genuine concern for the peace and welfare of fellow believers. Paul's willingness to give up what is lawful challenges us to examine our own actions and prompts us to consider whether we are willing to sacrifice our rights and liberties for the sake of others.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6600611538099515,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.54,
+            "commentatorTierSimilarities": [
+                32.64,
+                31.19,
+                36.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To avoid causing his weaker brother to stumble, Paul determines to abstain from all kinds of flesh and become a vegetarian. This act exemplifies his commitment to love and consideration for others. Paul's selfless decision challenges us to examine our own actions and consider whether we are willing to give up our rights and liberties for the sake of others. It serves as a powerful example of Christian charity, reflecting a genuine concern for the peace and well-being of fellow believers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6357494738568723,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                32.14,
+                31.96,
+                35.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 1 Corinthians 8:13, Paul's fervent resolution to abstain from all kinds of flesh demonstrates his commitment to avoiding causing offense or stumbling to his weaker brother. He goes as far as choosing to become a vegetarian rather than leading someone into what they consider sin. This selfless act of sacrificing his rights for the sake of love and consideration for others serves as a powerful example of Christian charity, urging us to prioritize the peace and well-being of our fellow believers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.9052213001598752,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "commentatorTierSimilarities": [
+                32.86,
+                30.51,
+                36.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's example in refraining from eating meat, even for the rest of his life, serves as a powerful demonstration of Christian charity. He is determined to avoid becoming a stumbling block or causing offense to his weaker brother. This act of selflessness showcases his commitment to love and consideration for others, urging us to examine our own actions and willingness to give up our rights and liberties for the sake of those around us.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.6231481211535654,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.31,
+            "commentatorTierSimilarities": [
+                28.92,
+                29.64,
+                41.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

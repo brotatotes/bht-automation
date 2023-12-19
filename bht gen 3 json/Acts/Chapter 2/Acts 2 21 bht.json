@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:25:03",
+    "verseRef": "Acts 2:21",
+    "bestBHT": {
+        "bht": "Whosoever shall call on the name of the Lord shall be saved, signifying the initiation of salvation after the Jewish state's disarray. Calling on the Lord is an act of faith that opens the path to salvation for everyone. It encompasses prayer, worship, and adherence to the Lord's commands. Salvation extends beyond mere temporal destruction to encompass deliverance from sin and eternal damnation. The promise of salvation amidst life's trials underscores the critical importance of faith and conquering doubt.",
+        "wordCount": 82,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.7680041864716283,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+        "commentatorTierSimilarities": [
+            19.35,
+            39.88,
+            40.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "21. whosoever shall call on the name",
+            "\tof the Lord shall be saved\u2014This points to the permanent",
+            "\testablishment of the economy of salvation, which followed on the",
+            "\tbreaking up of the Jewish state."
+        ],
+        "Albert Barnes": [
+            "Whosoever should call on the Lord should be delivered. The name of the Lord is the same as the Lord himself.",
+            "There can be little doubt that Peter intended to apply this to the Messiah, and that by the name of the Lord he meant the Lord Jesus.",
+            "All that God requires of us is to call upon him, to pray to him, and he will answer and save."
+        ],
+        "John Calvin": [
+            "If God should promise salvation simply, it were a great matter; but it is a far greater when as he promiseth the same amidst manifold dungeons of death.\" ",
+            "Forasmuch as no man is excluded from calling upon God, the gate of salvation is set open unto all men; neither is there any other thing which keepeth us back from entering in, save only our own unbelief.",
+            "When our salvation is placed in calling upon God, there is nothing in the mean season taken from faith, for this invocation is grounded on faith alone."
+        ],
+        "Philip Schaff": [
+            "And it shall come to pass, that who-so ever shall call on the name of the Lord shall be saved."
+        ],
+        "Archibald T. Robertson": [
+            "Shall call on (\u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03b5\u03c3\u03b7\u03c4\u03b1). First aorist middle subjunctive of \u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03b5\u03c9, common verb, to call to, middle voice for oneself in need.\" ",
+            "Indefinite relative clause with \u03b5\u03b1\u03bd and so subjunctive, punctiliar idea, in any single case, and so aorist."
+        ],
+        "John Gill": [
+            "whosoever shall call on the name of the Lord; shall believe in the Lord Jesus Christ with the heart, and shall confess him with the mouth, and shall worship him in Spirit and in truth, and submit to all his ordinances and commands.\" ",
+            "for invocation of the Lord includes the whole of worship, internal and external",
+            "shall be saved; or delivered from that temporal destruction which came upon the Jews... and shall be saved with a spiritual and everlasting salvation by Jesus Christ"
+        ],
+        "John Wesley": [
+            "This expression implies the whole of religion, and particularly prayer uttered in faith.\" ",
+            "Shall be saved - From all those plagues; from sin and hell."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whoever calls on the name of the Lord shall be saved, establishing the economy of salvation after the fall of the Jewish state. Calling on the Lord is an act of prayer and faith, opening the gate of salvation to all. Salvation is not just from temporal destruction but also from sin and hell, encompassing the entirety of religion and the worship of the Lord Jesus Christ. The promise of salvation amidst the trials of life emphasizes the importance of faith and the need to overcome unbelief.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.7318253454573167,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                17.86,
+                37.75,
+                44.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whosoever calls on the name of the Lord shall be saved, marking the establishment of salvation after the Jewish state's decline. Calling on the Lord is an act of faith, inviting all to enter the open gate of salvation. It encompasses prayer, worship, and obedience to the Lord. Salvation extends beyond temporal destruction, embracing deliverance from sin and eternal consequences. The promise of salvation amidst the challenges of life highlights the crucial role of faith and overcoming unbelief.",
+            "wordCount": 79,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.676980580957003,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.1,
+            "commentatorTierSimilarities": [
+                18.66,
+                39.8,
+                41.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Whosoever shall call on the name of the Lord shall be saved, signifying the initiation of salvation after the Jewish state's disarray. Calling on the Lord is an act of faith that opens the path to salvation for everyone. It encompasses prayer, worship, and adherence to the Lord's commands. Salvation extends beyond mere temporal destruction to encompass deliverance from sin and eternal damnation. The promise of salvation amidst life's trials underscores the critical importance of faith and conquering doubt.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.7680041864716283,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                19.35,
+                39.88,
+                40.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The promise that whoever calls on the name of the Lord shall be saved establishes the economy of salvation following the fall of the Jewish state. Calling upon the Lord is an act of faith and prayer that opens the gate of salvation to all. Salvation encompasses deliverance from temporal destruction, as well as from sin and hell. This divine invitation emphasizes the significance of faith and the overcoming of unbelief in experiencing the fullness of God's saving grace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.720403883477184,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+            "commentatorTierSimilarities": [
+                17.71,
+                38.61,
+                43.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The establishment of salvation is revealed through the promise that whosoever shall call on the name of the Lord shall be saved. This call to the Lord is an expression of faith and prayer, granting access to salvation for all who respond. Salvation not only delivers from temporal destruction, but also encompasses freedom from sin and eternal damnation. It highlights the vital role of faith, overcoming unbelief, and embracing the entirety of worship and obedience to the Lord Jesus Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7474914148932772,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.45,
+            "commentatorTierSimilarities": [
+                16.28,
+                41.16,
+                42.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

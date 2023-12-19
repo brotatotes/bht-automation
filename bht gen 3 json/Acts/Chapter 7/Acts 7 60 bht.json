@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:28:02",
+    "verseRef": "Acts 7:60",
+    "bestBHT": {
+        "bht": "In his final moments, Stephen displayed incredible faith and compassion, echoing the prayer of Jesus on the cross, Lay not this sin to their charge... he fell asleep. Stephen's use of the metaphor of sleep for death highlighted the hopeful and gracious nature of his faith, offering forgiveness to his persecutors. His martyrdom shines as an inspiring example of unwavering devotion, encouraging believers to imitate Stephen's steadfastness and commitment to Christ, even in the face of adversity.",
+        "wordCount": 79,
+        "quoteTokenProportion": 26.32,
+        "qualityScore": 2.157136842475087,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+        "commentatorTierSimilarities": [
+            31.8,
+            35.43,
+            32.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Lay not this sin to their charge... he fell asleep.\" ",
+            "Not a Christian expression only: there are Jewish examples: and we have some even in Greek heathen poetry.",
+            "Its use here, when the circumstances, and the actors in them, are remembered, is singularly touching, from the contrast."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "cried with a loud voice\u2014with something of the gathered energy of his dying Lord.",
+            "Comparing this with nearly the same prayer of his dying Lord, it will be seen how very richly this martyr of Jesus had drunk into his Master's spirit, in its divinest form.",
+            "How bright the record of this first martyrdom for Christ, amidst all the darkness of its perpetrators; and how many have been cheered by it to like faithfulness even unto death!"
+        ],
+        "Albert Barnes": [
+            "Nothing but the Christian religion will enable a man to utter such sentiments in his dying moments.",
+            "Sustaining grace will be derived in trials chiefly from a view of the Lord Jesus.",
+            "How peaceful and calm is a death like that of Stephen, when compared with the alarms and anguish of a sinner!"
+        ],
+        "Marvin Vincent": [
+            "Fix not this sin upon them.",
+            "When Christ, on the other hand, said, 'Our friend Lazarus sleepeth,' he used the word, not as a figure, but as the expression of a fact.",
+            "The word dead, with its hopeless finality, gave place to the more gracious and hopeful word sleep."
+        ],
+        "John Calvin": [
+            "if we desire to be gathered to Christ for our salvation, we must put on this affection.",
+            "we must always set Stephen before our eyes for an example.",
+            "because he made this prayer when he was at the point of death, he was not moved with any hope of obtaining pardon, to be so careful to appease his enemies, but only that they might repent."
+        ],
+        "Philip Schaff": [
+            "But it is more natural to assume that, after Stephen was thrown down from the scaffold... he raised himself to his knees, that his last act might be a protest alike for his adoration of his Master and his forgiveness of his enemies...\" ",
+            "...cemetery, that is, a sleeping-place where the bodies were laid only to sleep till the resurrection should awaken them, is peculiarly a Christian term...\" ",
+            "The execution of Stephen and the bloody persecution of the followers of Jesus... were connived at by the legate of Syria and his subordinate officers in Judea."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus was standing at the right hand of God and Stephen knelt before him in worship and called on him in prayer.",
+            "Place not to them or against them this sin. The very spirit of Jesus towards his enemies as he died upon the Cross.",
+            "The metaphor of sleep for death is common in all languages, but it is peculiarly appropriate here as Jesus used it of Lazarus."
+        ],
+        "John Gill": [
+            "Let it not rise and stand in judgment against them, or they be condemned for it; grant them forgiveness for it, and for every other sin.",
+            "There is a great deal of likeness between Christ and this first martyr of his at their deaths; Christ committed his Spirit into the hands of his Father, and Stephen commits his into the hands of Christ; both prayed for forgiveness for their enemies; and both cried with a loud voice before they expired.",
+            "Death, especially the death of the saints, or dying in Jesus, is expressed by sleep. This way of speaking is common with the Jews, who say that Rabbi such an one 'slept'; i.e. 'died'; and this they say is a pure and honourable way of speaking with respect to a holy body, whose death is no other than as it were a sleep."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Stephen faced his martyrdom, he followed in the footsteps of his Master, Jesus, crying out, Lay not this sin to their charge... he fell asleep. This expression, although not exclusively Christian, holds profound meaning in this context. Stephen's prayer mirrored that of Jesus on the cross, demonstrating his deep spiritual connection with his Master. By using the metaphor of sleep for death, Stephen revealed the hopeful and gracious nature of his faith, even in the face of persecution and death. The record of Stephen's martyrdom shines brightly amidst the darkness of his oppressors, inspiring countless others to remain faithful to Christ, even unto death.",
+            "wordCount": 107,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 1.902270521414604,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "commentatorTierSimilarities": [
+                34.25,
+                35.35,
+                30.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Stephen faced martyrdom, his prayer echoed that of Jesus on the cross, pleading, Lay not this sin to their charge... he fell asleep. This poignant expression goes beyond Christian rhetoric, finding resonance in Jewish and even Greek heathen poetry. Stephen's prayer, filled with the gathered energy of his dying Lord, showcased his deep connection with Jesus. By using the metaphor of sleep for death, Stephen exemplified the hopeful and gracious nature of his faith, encouraging others to remain faithful, even in the midst of persecution and death.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 2.1098730981861062,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+            "commentatorTierSimilarities": [
+                35.18,
+                34.51,
+                30.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen, the first martyr for Christ, showed incredible faith and humility in his dying moments. He emulated Jesus by praying, Lay not this sin to their charge... he fell asleep. Stephen's use of the metaphor of sleep for death demonstrated the hopeful and gracious nature of his faith, offering forgiveness to his enemies. This profound act mirrored the prayer and loud cry of Jesus on the cross. Stephen's martyrdom stands as a bright testament, inspiring countless others to remain faithful even in the face of darkness and opposition.",
+            "wordCount": 90,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.9178195214933595,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+            "commentatorTierSimilarities": [
+                33.89,
+                34.36,
+                31.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his final moments, Stephen displayed incredible faith and compassion, echoing the prayer of Jesus on the cross, Lay not this sin to their charge... he fell asleep. Stephen's use of the metaphor of sleep for death highlighted the hopeful and gracious nature of his faith, offering forgiveness to his persecutors. His martyrdom shines as an inspiring example of unwavering devotion, encouraging believers to imitate Stephen's steadfastness and commitment to Christ, even in the face of adversity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.157136842475087,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+            "commentatorTierSimilarities": [
+                31.8,
+                35.43,
+                32.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even in the face of death, Stephen followed in the footsteps of Jesus by praying, Lay not this sin to their charge... he fell asleep. This poignant prayer not only reflects the spirit of Christ toward his enemies but also reveals Stephen's deep spiritual connection to his Master. By using the metaphor of sleep to describe death, Stephen conveyed a message of hope and grace, emphasizing how his faith in Christ sustained him even in the midst of persecution. Stephen's martyrdom serves as a powerful testament and inspiration for believers to remain faithful and forgive, even unto death.",
+            "wordCount": 100,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.976408429516773,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+            "commentatorTierSimilarities": [
+                31.92,
+                34.72,
+                33.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

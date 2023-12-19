@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:19:03",
+    "verseRef": "Luke 12:55",
+    "bestBHT": {
+        "bht": "You can test and prove the weather by your signs, such as the south wind blowing, indicating hot and sultry weather. Similarly, the signs of the times can be observed and predicted, but they require a different kind of interpretation. Therefore, while you can interpret the weather by your signs, it is important to understand that the interpretation of the signs of the times holds a distinct significance.",
+        "wordCount": 68,
+        "quoteTokenProportion": 44.19,
+        "qualityScore": 1.7548640815357495,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+        "commentatorTierSimilarities": [
+            66.35,
+            0.0,
+            33.65
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "You can test and prove the weather by your signs; but you cannot apply the proof which lies in the signs of the times.\" ",
+            "Interpret, gives the idea.",
+            "Prove the weather by your signs."
+        ],
+        "John Gill": [
+            "And when ye see the south wind blow,.... From the hot countries of Egypt, Ethiopia, and Arabia, which lay south of Judea.",
+            "Ye say there will be heat; or hot sultry weather, scorching heat, which such a wind brings with it.",
+            "And it cometh to pass; generally speaking, as is asserted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You can interpret and prove the weather by the signs that you observe, but you cannot apply that same proof to interpret the signs of the times. Just as you can predict hot weather when you see the south wind blow, the signs of the times can also be observed and predicted. However, it is important to note that these signs of the times hold a different significance and require a different kind of interpretation.",
+            "wordCount": 75,
+            "quoteTokenProportion": 48.89,
+            "qualityScore": 1.6346836675954415,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+            "commentatorTierSimilarities": [
+                68.41,
+                0.0,
+                31.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The signs of the weather can be tested and proven, but the signs of the times require a different kind of interpretation. Just as you can prove the weather by observing the signs, you can also observe the signs of the times and make predictions. However, it is crucial to discern that these signs, like the south wind indicating hot weather, must be interpreted differently and hold a unique significance.",
+            "wordCount": 70,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7192993513462547,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                69.12,
+                0.0,
+                30.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You can test and prove the weather by your signs, such as the south wind blowing, indicating hot and sultry weather. Similarly, the signs of the times can be observed and predicted, but they require a different kind of interpretation. Therefore, while you can interpret the weather by your signs, it is important to understand that the interpretation of the signs of the times holds a distinct significance.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.7548640815357495,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+            "commentatorTierSimilarities": [
+                66.35,
+                0.0,
+                33.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as you can test and prove the weather by signs like the south wind blowing, which indicates hot and sultry weather, the signs of the times can also be observed and predicted. However, it is crucial to understand that while you can interpret the weather by signs, the interpretation of the signs of the times holds a different significance. The signs of the times require a different kind of proof and interpretation, one that goes beyond the physical realm and delves into the spiritual realm.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.5724774198123717,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                65.13,
+                0.0,
+                34.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Just as you can prove the weather by your signs, you can also observe and predict the signs of the times. However, the signs of the times require a different interpretation. When you see the south wind blow, you know it will bring hot and sultry weather. Similarly, by observing the signs of the times, you can discern their significance. So, while you can interpret the weather by signs, the interpretation of the signs of the times goes beyond the physical realm and requires a deeper understanding.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.5773397197012946,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+            "commentatorTierSimilarities": [
+                63.89,
+                0.0,
+                36.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

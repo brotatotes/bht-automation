@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:36:09",
+    "verseRef": "Acts 25:1",
+    "bestBHT": {
+        "bht": "After three days, Festus, the new governor, entered upon his province in Jud\u00e6a to make himself acquainted with the great central city of his government. Although Jud\u00e6a was only a procuratorship attached to the province of Syria, it was loosely referred to as a province due to its importance. The decision to journey from Caesarea to Jerusalem allowed Festus to gain a deeper understanding of the affairs of the nation. This demonstrates the significance of Jerusalem in shaping the political landscape during that time.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.8176146351843845,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+        "commentatorTierSimilarities": [
+            34.54,
+            40.43,
+            25.03
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The term is properly used of a province, whether imperial or senatorial.",
+            "Loosely applied to Jud\u00e6a, which was only a procuratorship, attached to the province of Syria.",
+            "Loosely applied to Jud\u00e6a, which was only a procuratorship."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1-3. Festus . . . after three days .",
+            "\t. . ascended . . . to Jerusalem\u2014to make himself acquainted with",
+            "\tthe great central city of his government without delay."
+        ],
+        "Albert Barnes": [
+            "Judea at that time was a Roman province.",
+            "Having remained three days at Caesarea.",
+            "Festus, therefore, having entered upon the duties of his office, early went to Jerusalem to make himself acquainted with the affairs of the nation."
+        ],
+        "Marvin Vincent": [
+            "Was come into the province [\u03b5\u03c0\u03b9\u03b2\u03b1\u03c2 \u03c4\u03b7 \u03b5\u03c0\u03b1\u03c1\u03c7\u03b9\u03b1] . Lit., having entered upon the province.."
+        ],
+        "John Calvin": [
+            "The faith of the holy man is assailed afresh with a new trial, as if the promise had been vain whereto he had hitherto trusted; but the grace of God doth so much the more plainly show itself in delivering him, because, contrary to all hope, he is delivered out of the jaws of death.",
+            "How is it then that they do not obtain, save only because God doth hold the mind of Festus, so that he doth stoutly deny that which he was afterward ready to grant?",
+            "Let this confidence support us in dangers, and let it also stir us up to call upon God; and let this make our minds quiet and calm, in that the Lord, in stretching forth his hand, and breaking such a strong conspiracy, did show an eternal example of his power in defending his."
+        ],
+        "Philip Schaff": [
+            "The term we find here was perhaps used in consequence of the importance of Jud\u00e6a at that time."
+        ],
+        "Archibald T. Robertson": [
+            "Having come into the province...Literally, 'Having set foot upon his province.'\" ",
+            "Judea was not strictly a province, but a department...while Judea was under a procurator.\" ",
+            "After three days...That is on the third day, with a day of rest in between."
+        ],
+        "John Gill": [
+            "After three days he ascended from Caesarea to Jerusalem; he very likely came by sea from Italy to Judea, and landed at Caesarea.",
+            "Caesarea was the safest, and most commodious port, being made so by Herod.",
+            "Here Festus stayed three days after his landing, to rest himself after the fatigue of the voyage, and then went up to Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After three days of taking office, Festus, the new governor of the province, set foot in Jud\u00e6a to familiarize himself with the affairs of the nation. While Jud\u00e6a was not technically a province but rather a department under a procurator, the term province was used due to its significance at the time. Festus's journey from Caesarea to Jerusalem allowed him to understand the central city of his government better. This decision highlights the importance of Jerusalem and its role in shaping the political landscape.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7514602735364706,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.58,
+            "commentatorTierSimilarities": [
+                33.93,
+                40.4,
+                25.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After three days, Festus, the new governor, entered upon his province in Jud\u00e6a to acquaint himself with the affairs of the nation. Although Jud\u00e6a was not technically a province but a procuratorship, the term was loosely applied due to its significance. His journey from Caesarea to Jerusalem allowed Festus to gain a deeper understanding of the central city and its crucial role. This decision highlighted the importance of Jerusalem and its influence on the political landscape.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.721613014219803,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.59,
+            "commentatorTierSimilarities": [
+                33.34,
+                41.22,
+                25.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After three days, Festus entered upon his province in Jud\u00e6a to acquaint himself with the affairs of the nation. Although Jud\u00e6a was not technically a province, the term was loosely applied due to its significance. His journey from Caesarea to Jerusalem allowed Festus to gain a deeper understanding of the central city and its crucial role. This decision highlighted the importance of Jerusalem and its influence on the political landscape.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7618811145436613,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.92,
+            "commentatorTierSimilarities": [
+                32.9,
+                42.89,
+                24.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After three days, Festus, the new governor, entered upon his province in Jud\u00e6a to make himself acquainted with the great central city of his government. Although Jud\u00e6a was only a procuratorship attached to the province of Syria, it was loosely referred to as a province due to its importance. The decision to journey from Caesarea to Jerusalem allowed Festus to gain a deeper understanding of the affairs of the nation. This demonstrates the significance of Jerusalem in shaping the political landscape during that time.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8176146351843845,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                34.54,
+                40.43,
+                25.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Festus, the new governor, entered upon his province in Jud\u00e6a after three days to acquaint himself with the affairs of the nation. Although Jud\u00e6a was not a province but a procuratorship, the term was used loosely given its importance. Festus's journey from Caesarea to Jerusalem highlighted the significance of the great central city and its influence on the political landscape. This allowed Festus to understand the affairs of the nation better and navigate his role as governor.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.7626098345979377,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+            "commentatorTierSimilarities": [
+                35.2,
+                42.8,
+                22.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

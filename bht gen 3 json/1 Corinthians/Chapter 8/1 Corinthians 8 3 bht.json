@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 15:07:52",
+    "verseRef": "1 Corinthians 8:3",
+    "bestBHT": {
+        "bht": "Those who truly love God are known by Him, as it is through love that we come to know and understand God. To love God is to know Him and be known by Him. This special knowledge and love for God are not based on the idols of this world, which hold no real significance in heaven or on earth. When one loves God, their actions are driven by sacred charity, leading to the approval and favor of God. Such love is the source of love for our neighbors and edifies both ourselves and others.",
+        "wordCount": 95,
+        "quoteTokenProportion": 53.33,
+        "qualityScore": 2.6316722777301136,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.84,
+        "commentatorTierSimilarities": [
+            35.79,
+            41.54,
+            22.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But if a man loves God... this man is known by Him.\" ",
+            "Those who become acquainted with God by love are known by Him: are the especial objects of divine Knowledge.\" ",
+            "Their being is pervaded by the Spirit of God, and the wisdom of God is shed abroad in them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Love God\u2014the source of love to our neighbor.\" ",
+            "To love God is to know God; and he who thus knows God has been first known by God.\" ",
+            "He who loves, not he who 'thinks that he knows,' not having 'charity' or love."
+        ],
+        "Albert Barnes": [
+            "There is no true and real knowledge which is not connected with love to God.",
+            "Love edifies; love promotes happiness; love will prompt to what is right; and love will secure the approbation of God.",
+            "If any man acts under the influence of sacred charity, or love to God, and consequent love to man, he will meet with the approbation of God."
+        ],
+        "Marvin Vincent": [
+            "He does not say knows God, but implies this in the larger truth, is known by God.\" ",
+            "An idol is a nonentity. The emphasis is on the nothingness of the idol... It is a mere stock or stone, having no real significance in heaven or on earth.",
+            "The number and variety of the words representing the objects of heathen worship, are a striking commentary upon the general prevalence of idolatry."
+        ],
+        "John Calvin": [
+            "No learning is commendable that is not dipped in the love of God; because that alone secures, that whatever endowments we have are approved by him.",
+            "Without the Spirit of regeneration, all things else, whatever they may have of show, are of no value.",
+            "To be known by God means to be held in any estimation, or to be reckoned among his sons."
+        ],
+        "Archibald T. Robertson": [
+            "Loving God is the way to come to know God.\" ",
+            "No one is acquainted with God who does not love him.\" ",
+            "God sets the seal of his favour on the one who loves him."
+        ],
+        "John Gill": [
+            "As they do, and show it, who love their brethren, and are careful not to grieve them; and make use of their superior knowledge, not for their destruction, but edification.",
+            "Such an one increases in spiritual knowledge, or he is highly approved of, esteemed, and beloved by God.",
+            "He takes a special and particular notice of him, manifests his love to him, and will own and acknowledge him another day."
+        ],
+        "John Wesley": [
+            "He is known \u2014 That is, approved, by him. Psalm 1:6."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "Those who truly love God are known by Him and are the special objects of divine knowledge. To love God is to know Him, and through this love, the Spirit of God dwells in them and the wisdom of God is revealed. Love for God is the source of love for our neighbors, as it is through love that we come to know and understand God. It is not enough to simply claim knowledge of God but to be known by Him. Idols, on the other hand, hold no significance and have no real existence. To be known by God means to be held in high esteem and reckoned among His children. When one loves God, their actions are driven by sacred charity, leading to the approval and favor of God.",
+            "wordCount": 131,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.4610859260824007,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.17,
+            "commentatorTierSimilarities": [
+                36.21,
+                38.7,
+                25.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who truly love God are known by Him and are the special objects of divine knowledge. Love for God is the source of love for our neighbors, as it is through love that we come to know and understand God. It is not enough to simply claim knowledge of God but to be known by Him. To be known by God means to be held in high esteem and reckoned among His children. When one loves God, their actions are driven by sacred charity, leading to the approval and favor of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.568499935653891,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.74,
+            "commentatorTierSimilarities": [
+                35.91,
+                38.54,
+                25.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who truly love God are known by Him and are the special objects of divine knowledge. Their being is pervaded by the Spirit of God, and the wisdom of God is shed abroad in them. To love God is to know Him; and he who thus knows God has been first known by God. When one loves God, their actions are guided by sacred charity, leading to the approval and favor of God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 2.6279118934239007,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.72,
+            "commentatorTierSimilarities": [
+                37.43,
+                38.89,
+                23.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who truly love God are known by Him, as it is through love that we come to know and understand God. To love God is to know Him and be known by Him. This special knowledge and love for God are not based on the idols of this world, which hold no real significance in heaven or on earth. When one loves God, their actions are driven by sacred charity, leading to the approval and favor of God. Such love is the source of love for our neighbors and edifies both ourselves and others.",
+            "wordCount": 95,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 2.6316722777301136,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.84,
+            "commentatorTierSimilarities": [
+                35.79,
+                41.54,
+                22.67
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

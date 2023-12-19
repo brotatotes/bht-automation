@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:13:05",
+    "verseRef": "Luke 1:25",
+    "bestBHT": {
+        "bht": "Elizabeth, in addressing her seclusion, recognized that her pregnancy was the result of God's work, leaving Him to announce it and remove the reproach of her barrenness. Barrenness carried a sense of disgrace among the Jews due to both the desire for an heir and the hope for the Messiah. Elizabeth's gratefulness for God's gracious removal of her barrenness led her to believe that He would make His mercy evident to others. It serves as a reminder to appreciate the gift of children and trust in God's extraordinary blessings, which defy natural expectations.",
+        "wordCount": 97,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 2.033921660683103,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+        "commentatorTierSimilarities": [
+            32.73,
+            36.37,
+            30.9
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "my reproach] of barrenness: see reff. ANGEL OF THE BIRTH OF CHRIST."
+        ],
+        "Albert Barnes": [
+            "In this merciful manner.",
+            "A family of children was counted a signal blessing.",
+            "To be 'barren,' therefore, or to be destitute of children, was considered a 'reproach' or a 'disgrace'."
+        ],
+        "Marvin Vincent": [
+            "Elizabeth assigns the reason for her peculiar seclusion. Her pregnancy was God's work, and she would leave it to him also to announce it and openly take away her reproach.\" (Commentary)",
+            "She his herself, saying (I have hid myself) because, etc.\" (Commentary)",
+            "Looked upon (ejpeiden). Used by Luke only.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "Among earthly blessings, Scripture speaks in the highest terms of the gift of offspring... the increase and fruitfulness of the human race ought to be reckoned a much higher favor.",
+            "But Elisabeth looked farther; for, though barren and old, she had conceived by a remarkable miracle, and contrary to the ordinary course of nature.",
+            "Let parents learn to be thankful to God for the children which he has given them, and let those who have no offspring acknowledge that God has humbled them in this matter."
+        ],
+        "Philip Schaff": [
+            "Since God had graciously removed her barrenness, she would leave it to Him to make this mercy manifest to others."
+        ],
+        "Archibald T. Robertson": [
+            "My reproach (\u03bf\u03bd\u03b5\u03b9\u03b4\u03bf\u03c2 \u03bc\u03bf\u03c5). Keenly felt by a Jewish wife because the husband wanted an heir and because of the hope of the Messiah, and because of the mother's longing for a child."
+        ],
+        "John Gill": [
+            "Thus hath the Lord dealt with me,.... In a very gracious and bountiful manner...",
+            "In the days wherein he looked on me; with a favourable eye, with a look of love and mercy...",
+            "He took away my reproach from among men; as barrenness was accounted, especially among the Israelites..."
+        ],
+        "John Wesley": [
+            "He looked upon me to take away my reproach \u2014 Barrenness was a great reproach among the Jews. Because fruitfulness was promised to the righteous."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Elizabeth, in addressing her seclusion, acknowledges that her pregnancy was the work of God and that it was up to Him to announce it and publicly remove the reproach of her barrenness. This barrenness was seen as a disgrace and a longing for a child was keenly felt by Jewish wives due to the husband's desire for an heir, the hope of the Messiah, and the mother's own yearning. With God's gracious removal of her barrenness, Elizabeth trusted that He would make His mercy known to others. It is a reminder to be grateful for the gift of children and to recognize that God's blessings may come in unexpected and miraculous ways.",
+            "wordCount": 116,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.1026880721083527,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.26,
+            "commentatorTierSimilarities": [
+                35.15,
+                36.56,
+                28.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Elizabeth, in acknowledging her seclusion, attributes it to the fact that her pregnancy was God's work and that she would leave it to Him to publicly remove the reproach of her barrenness. Barrenness was considered a disgrace among the Jews, as it signified a lack of an heir and dashed hopes for the coming of the Messiah. With God's removal of her barrenness, Elizabeth trusted in His grace and believed that He would make His mercy known to others. Her experience serves as a reminder to be grateful for the gift of children and to trust in God's miraculous blessings.",
+            "wordCount": 103,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.0718899388409664,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.23,
+            "commentatorTierSimilarities": [
+                32.39,
+                37.39,
+                30.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Elizabeth, in her seclusion, acknowledged that her pregnancy was the work of God. She entrusted Him to announce it and remove the disgrace of her barrenness. Barrenness was seen as a reproach amongst the Jews, as it signified a longing for a child and the hope for the Messiah. Elizabeth recognized God's graciousness in removing her barrenness and believed that He would reveal His mercy to others. This serves as a reminder to be grateful for the gift of children and to trust in God's miraculous blessings.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.9115199966551997,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+            "commentatorTierSimilarities": [
+                32.98,
+                36.83,
+                30.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Elizabeth, in her seclusion, acknowledged that her pregnancy was the work of God. Barrenness was seen as a reproach, as it signified a longing for a child and dashed hopes for the Messiah. She trusted in God to announce her pregnancy and remove the disgrace. This serves as a reminder to be grateful for the gift of children and to trust in God's miraculous blessings, even when they come unexpectedly and against the ordinary course of nature.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.8837527854164167,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                35.58,
+                35.58,
+                28.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Elizabeth, in addressing her seclusion, recognized that her pregnancy was the result of God's work, leaving Him to announce it and remove the reproach of her barrenness. Barrenness carried a sense of disgrace among the Jews due to both the desire for an heir and the hope for the Messiah. Elizabeth's gratefulness for God's gracious removal of her barrenness led her to believe that He would make His mercy evident to others. It serves as a reminder to appreciate the gift of children and trust in God's extraordinary blessings, which defy natural expectations.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.033921660683103,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+            "commentatorTierSimilarities": [
+                32.73,
+                36.37,
+                30.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:39:17",
+    "verseRef": "1 Peter 2:17",
+    "bestBHT": {
+        "bht": "Give honor to all men according to their worth and position, for this precept applies to every situation. Love your fellow Christians deeply, revering God and showing respect for the king. Remember that all people are deserving of honor, but not in the same way. Let your love for the brotherhood continue as a consistent habit, and fear God with both reverence and awe. By showing honor to kings, we demonstrate our fear of God and love for humanity.",
+        "wordCount": 79,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.07656645173791,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+        "commentatorTierSimilarities": [
+            30.42,
+            33.9,
+            35.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Give honour to all men (i.e. by the force of the original, to each man according as the case, which requires it, arises: 'in every case render promptly every man's due,' Rom. xiii. 7.",
+            "And by this force of the word used, this first precept assumes a place of general and wide-reaching reference.",
+            "Love (as your habit of mind and act) the brotherhood, fear God, honour (both these latter as continuing habits, frames of mind and courses of action) the king."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Equals have a respect due to them.",
+            "Christ has dignified our humanity by assuming it.",
+            "God alone, in the highest sense, feared."
+        ],
+        "Albert Barnes": [
+            "Honor all men - That is, show them the respect which is due to them according to their personal worth, and to the rank and office which they sustain.",
+            "Love the brotherhood - The whole fraternity of Christians, regarded as a band of brothers.",
+            "Fear God - A duty everywhere enjoined in the Bible, as one of the first duties of religion. The word fear, when used to express our duty to God, means that we are to reverence and honor him."
+        ],
+        "John Calvin": [
+            "Whosoever fears God, loves his brethren and the whole human race as he ought, and will also give honor to kings.",
+            "And so Peter did not omit this connection; but yet he reminds us, that though brethren are to be specially regarded, yet this ought not to prevent our love from being extended to the whole human race.",
+            "For he means, that honor paid to kings proceeds from the fear of God and the love of man; and that, therefore, it ought to be connected with them."
+        ],
+        "Philip Schaff": [
+            "It is the recognition of what all men are as bearers of the Divine image, 'the idea of a dignity belonging to man as man,' which, as Neander says, 'was unknown to the times preceding Christianity.'",
+            "The reverential awe which is due from the subject to supreme authority, and from the child to supreme perfection, which makes it to the one a dread and to the other a pain to offend, is what is to be rendered.",
+            "The general principle of giving to all their dues, he means, is unaffected by what has been said. Honour to men as such, and the deeper sentiment of love to the brotherhood, reverence to God and honour to the king, are in no manner of conflict."
+        ],
+        "Archibald T. Robertson": [
+            "Honour all men. Not with the same honour.",
+            "Love the brotherhood. Present active imperative of \u03b1\u03b3\u03b1\u03c0\u03b1\u03c9, keep on doing it.",
+            "Fear God. In both senses of reverence and dread, and keep it up."
+        ],
+        "John Gill": [
+            "Honour all men,.... To whom honour is due, according to the place, station, and circumstances in which they are.\" ",
+            "Love the brotherhood; or 'your brethren', as the Syriac version renders it: the whole company of the brethren in Christ, who are born of God.",
+            "Fear God; not with a servile, but a filial fear, the new covenant grace of fear; which springs from the goodness of God, has that for its object, and is increased by the fresh instances and discoveries of it."
+        ],
+        "John Wesley": [
+            "Honour all men \u2014 As being made in the image of God, bought by his Son, and designed for his kingdom.",
+            "Honour the king \u2014 Pay him all that regard both in affection and action which the laws of God and man require."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Give honor to all men according to their worth and position, for this precept applies to every situation. Love your fellow Christians deeply, revering God and showing respect for the king. Remember that all people are deserving of honor, but not in the same way. Let your love for the brotherhood continue as a consistent habit, and fear God with both reverence and awe. Recognize the dignity and value of every person as bearers of the Divine image, a concept that was foreign before Christianity. By showing honor to kings, we demonstrate our fear of God and love for humanity. Keep in mind that the principle of giving everyone their due is not in conflict with honoring men, loving the brotherhood, revering God, and respecting the king.",
+            "wordCount": 127,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 2.081895121403437,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+            "commentatorTierSimilarities": [
+                28.75,
+                35.83,
+                35.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Give honor to all men according to their worth and position, for this precept applies to every situation. Love your fellow Christians deeply, revering God and showing respect for the king. Remember that all people are deserving of honor, but not in the same way. Let your love for the brotherhood continue as a consistent habit, and fear God with both reverence and awe. By showing honor to kings, we demonstrate our fear of God and love for humanity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.07656645173791,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                30.42,
+                33.9,
+                35.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In every case, render promptly every man's due by giving honor to all men, according to their worth and position. Love the brotherhood deeply, as an ongoing habit, while fearing God and honoring the king. Recognize the dignity of all individuals as bearers of the Divine image. Show reverence and awe to God, and pay the respect that is required to kings. These principles of honoring men, loving the brotherhood, revering God, and respecting the king are not conflicting but complementary.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.0702381219324826,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                28.99,
+                35.33,
+                35.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In every case, render promptly every man's due by giving honor to all men, according to their worth and position. Love the brotherhood deeply, as an ongoing habit, while fearing God and honoring the king. Recognize the dignity of all individuals as bearers of the Divine image. Show reverence and awe to God, and pay the respect that is required to kings. These principles of honoring men, loving the brotherhood, revering God, and respecting the king are not conflicting but complementary.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.0702381219324826,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                28.99,
+                35.33,
+                35.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Give honor to all men according to their worth and position, for this precept applies to every situation. Love your fellow Christians deeply, revering God and showing respect for the king. Remember that all people are deserving of honor, but not in the same way. Let your love for the brotherhood continue as a consistent habit, and fear God with both reverence and awe. By showing honor to kings, we demonstrate our fear of God and love for humanity. Keep in mind that the principle of giving everyone their due is not in conflict with honoring men, loving the brotherhood, revering God, and respecting the king.",
+            "wordCount": 106,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.1228032863711075,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.92,
+            "commentatorTierSimilarities": [
+                29.78,
+                34.34,
+                35.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

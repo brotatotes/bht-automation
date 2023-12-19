@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:18:04",
+    "verseRef": "2 Corinthians 11:16",
+    "bestBHT": {
+        "bht": "Please do not regard me as a tool for boasting, but rather grant me the indulgent hearing conceded even to one suspected of folly. If you do think me foolish, at least allow me to make use of my right and liberty to speak foolishly after the manner of fools, just as others do without being rebuked. I say again, let no man think I do this without the utmost necessity, but bear with my folly for a moment, so that I may boast myself and expose the disgusting vanity of the false apostles.",
+        "wordCount": 94,
+        "quoteTokenProportion": 52.94,
+        "qualityScore": 2.1407748107135673,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+        "commentatorTierSimilarities": [
+            28.44,
+            33.2,
+            38.36
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The request of ver. 1 in fact implies both requests of this ve: not regarding him as a tool for boasting, or even if they did, as a fool... receiving him.\" ",
+            "Yielding to me the toleration and hearing which men would not refuse even to one of whose folly they were convinced.\" ",
+            "I too, as well as they."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I say again\u2014again taking up from 2 Corinthians 11:1 the anticipatory apology for his boasting.\" ",
+            "yet as a fool\u2014'yet even as a fool receive me'; grant me the indulgent hearing conceded even to one suspected of folly.\" ",
+            "that I\u2014The oldest manuscripts read, 'that I, too,' namely, as well as they, may boast myself."
+        ],
+        "Albert Barnes": [
+            "I have said much respecting myself which may seem to be foolish.\" ",
+            "If you think otherwise. If I cannot obtain this of you that you will not regard me as acting prudently and wisely.",
+            "Since others do it and are not rebuked, may I be permitted to do it also."
+        ],
+        "John Calvin": [
+            "I say again...to expose the disgusting vanity of the false Apostles.",
+            "If I am reckoned by you a fool, allow me at least to make use of my right and liberty \u2014 that is, to speak foolishly after the manner of fools.",
+            "Paul did not wish to continue it long, but assumed, as it were, for the moment, the person of another, and immediately thereafter laid it aside."
+        ],
+        "Archibald T. Robertson": [
+            "Let no man think me foolish.",
+            "If you do think me foolish.",
+            "Some men can do it with complete composure."
+        ],
+        "John Gill": [
+            "Let no man think me a fool,.... For praising himself, or speaking in his own commendation.",
+            "Suffer me, or bear with my folly: he desires that he might have, and use the liberty which fools have usually granted to them, to speak out the truth.",
+            "He suggests, that the false apostles boasted much of themselves, and they bore with them, and had done so for a great while; and therefore it was no unreasonable request he made, that they would also suffer him to boast of himself a little."
+        ],
+        "John Wesley": [
+            "I say again \u2014 He premises a new apology to this new commendation of himself.",
+            "Let no man think me a fool \u2014 Let none think I do this without the utmost necessity.",
+            "But if any do think me foolish herein, yet bear with my folly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Please do not regard me as a tool for boasting, but rather grant me the indulgent hearing conceded even to one suspected of folly. If you do think me foolish, at least allow me to make use of my right and liberty to speak foolishly after the manner of fools, just as others do without being rebuked. I say again, let no man think I do this without the utmost necessity, but bear with my folly for a moment, so that I may boast myself and expose the disgusting vanity of the false apostles.",
+            "wordCount": 94,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 2.1407748107135673,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+            "commentatorTierSimilarities": [
+                28.44,
+                33.2,
+                38.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Please do not regard me as a tool for boasting, but rather grant me the indulgent hearing conceded even to one suspected of folly. If you do think me foolish, at least allow me to make use of my right and liberty to speak foolishly, just as others do without being rebuked. I say again, let no man think I do this without necessity, but bear with my folly for a moment, so that I may expose the vanity of the false apostles.",
+            "wordCount": 83,
+            "quoteTokenProportion": 55.74,
+            "qualityScore": 2.1200436397651328,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.83,
+            "commentatorTierSimilarities": [
+                28.19,
+                34.38,
+                37.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Please do not regard me only as a tool for boasting, but also grant me the indulgent hearing conceded even to one suspected of folly. If you do think I am foolish, at least allow me the right to speak foolishly, just as others do without being rebuked. Let no one think that I do this without necessity. Please bear with my momentary folly, so that I may expose the vanity of the false apostles.",
+            "wordCount": 75,
+            "quoteTokenProportion": 57.14,
+            "qualityScore": 1.9444784793425467,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                28.01,
+                36.66,
+                35.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May I not be regarded as a mere boastful fool, but rather be received with tolerance and understanding, just as you would consider someone whose folly you had already recognized. Grant me the indulgence and patient hearing given even to those suspected of folly. I, too, have the right to boast, just as they do. So, let no one think of me as foolish, for if you do, at least bear with my folly for a moment. For while others can boast without rebuke, I simply request the same opportunity to expose the false apostles' vanity.",
+            "wordCount": 96,
+            "quoteTokenProportion": 56.34,
+            "qualityScore": 1.8116044999774128,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+            "commentatorTierSimilarities": [
+                31.53,
+                35.82,
+                32.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May I not be regarded as a mere boastful fool, but rather be received with tolerance and understanding, just as you would consider someone whose folly you had already recognized. Grant me the indulgence and patient hearing given even to those suspected of folly. I, too, have the right to boast, just as they do. So, let no one think of me as foolish, for if you do, at least bear with my folly for a moment.",
+            "wordCount": 77,
+            "quoteTokenProportion": 60.34,
+            "qualityScore": 1.8604525994871253,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                32.37,
+                36.93,
+                30.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

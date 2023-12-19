@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 14:18:19",
+    "verseRef": "Galatians 4:13",
+    "bestBHT": {
+        "bht": "Because of an illness, contrary to his original intentions, Paul preached in Galatia, which the Galatians themselves knew of. It is likely that this illness was the same affliction known as the thorn in the flesh, which served as a means for God to display His grace. Despite his bodily weakness, Paul brought the Gospel to the Galatians, setting an example they should follow as his spiritual children.",
+        "wordCount": 68,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 2.405117658300317,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.31,
+        "commentatorTierSimilarities": [
+            30.95,
+            32.96,
+            36.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The meaning is, that it was on account of an illness that he first preached in Galatia: i.e. that he was for that reason detained there, and preached, which otherwise he would not have done.",
+            "On this, see Introduction,\u00a7ii. 3: the fact itself, I cannot help thinking, is plainly asserted here.",
+            "at the first] with reference to that second visit hinted at below, ver. 16, and ch. v. 21."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye know that because of an infirmity of my flesh I preached.\" ",
+            "His sickness was probably the same as recurred more violently afterward, 'the thorn in the flesh', which also was overruled to good.",
+            "Contrary to his original intentions, [his bodily sickness] was the occasion of his preaching the Gospel to them."
+        ],
+        "Albert Barnes": [
+            "Ye know how - To show them the folly of their embracing the new views which they had adopted, he reminds them of past times, and particularly of the strength of the attachment which they had evinced for him in former days.",
+            "Through infirmity of the flesh - Greek 'Weakness' (\u03b1\u0313\u03c3\u03b8\u03b5\u0301\u03bd\u03b5\u03b9\u03b1\u03bd astheneian); compare the 1 Corinthians 2:3 note; 2 Corinthians 10:10; 2 Corinthians 12:7 notes."
+        ],
+        "Marvin Vincent": [
+            "Ye did not wrong me at all as you might easily have been moved to do; for [\u03b4\u03b5] you know in what an unfavorable light my infirmities placed me when I first came among you.\" ",
+            "Referring to the fact that Paul, in his first journey, was compelled by sickness to remain in Galatia, and preached to the Galatians during this enforced sojourn.",
+            "Paul had visited the Galatians twice before he wrote this letter."
+        ],
+        "John Calvin": [
+            "By infirmity of the flesh he means here, as in other places, what had a tendency to make him appear mean and despised.",
+            "Such was Paul when he came among them, without show, without pretense, without worldly honors or rank, without everything that could gain him respect or estimation in the eyes of men.",
+            "What was there in Paul to awaken their esteem or veneration, but the power of the Holy Spirit alone?"
+        ],
+        "Philip Schaff": [
+            "The infirmity, whatever it was, is here represented as the occasion of Paul\u2019s preaching (not as the condition during his preaching).",
+            "This infirmity was a check upon spiritual pride and kept Paul near the cross.",
+            "God overruled the obstacle for the furtherance of the gospel and manifested the strength of His supernatural grace in and through the weakness of nature."
+        ],
+        "Archibald T. Robertson": [
+            "Paul's preaching to the Galatians 'the first time' or 'the former time' was due to sickness of some kind whether it was eye trouble which was a trial to them or to the thorn in the flesh we do not know.\" ",
+            "It can be interpreted as applying to North Galatia or to South Galatia if he had an attack of malaria on coming up from Perga.",
+            "The Galatians understood the allusion for Paul says 'Ye know'."
+        ],
+        "John Gill": [
+            "Ye know how, through infirmity of the flesh\" - The apostle Paul acknowledges the weakness and limitations of his physical body.",
+            "I preached the Gospel unto you at the first\" - Paul emphasizes that he was the one who initially brought them the Gospel.",
+            "Being their spiritual Father, they ought to be as he was\" - Paul reminds the Galatians that as their spiritual Father, they should strive to follow his example."
+        ],
+        "John Wesley": [
+            "I preached to you, notwithstanding infirmity of the flesh \u2014 That is, notwithstanding bodily weakness, and under great disadvantage from the despicableness of my outward appearance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because of an illness, the apostle Paul first preached in Galatia, despite his initial intentions. This illness may have been the same affliction referenced as the thorn in the flesh, which ultimately served as a means for God's grace to be displayed. Paul highlights the Galatians' knowledge of his infirmity, implying that they should have recognized it as a humbling factor that kept him reliant on God. Despite his weakness, Paul brought the Gospel to the Galatians, setting an example they should strive to follow as his spiritual children.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.3247996995778895,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.64,
+            "commentatorTierSimilarities": [
+                29.92,
+                33.98,
+                36.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because of an illness, contrary to his original intentions, Paul preached in Galatia, which the Galatians themselves knew of. It is likely that this illness was the same affliction known as the thorn in the flesh, which served as a means for God to display His grace. Despite his bodily weakness, Paul brought the Gospel to the Galatians, setting an example they should follow as his spiritual children.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.405117658300317,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.31,
+            "commentatorTierSimilarities": [
+                30.95,
+                32.96,
+                36.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's preaching in Galatia was a result of an illness that detained him there, despite his original plans. It is acknowledged that this infirmity could have presented a disadvantageous and unfavorable impression to the Galatians. However, Paul's weakness served as an opportunity for God to display His power and grace. Despite his physical limitations, Paul boldly brought the Gospel to the Galatians, acting as their spiritual father and setting an example for them to follow.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.198700299074657,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.45,
+            "commentatorTierSimilarities": [
+                28.73,
+                34.66,
+                36.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Due to an illness, Paul preached in Galatia as he was detained there, contrary to his original plans. This infirmity may have been the same as the thorn in the flesh, yet it was overruled for good. Despite his unfavorable physical condition, Paul brought the Gospel to the Galatians, demonstrating the strength of God's supernatural grace. The Galatians were aware of Paul's infirmities, highlighting that they should have seen his weakness as a means for God's power to be displayed. As his spiritual children, they were encouraged to follow his example.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.1432286469538906,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.6,
+            "commentatorTierSimilarities": [
+                30.72,
+                33.46,
+                35.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's illness in Galatia led to him preaching there, contrary to his original plans. This infirmity, possibly the same as the thorn in the flesh, was overruled for good. Despite his unfavorable physical condition, Paul brought the Gospel to the Galatians, demonstrating the strength of God's supernatural grace. The Galatians understood his weaknesses and should have recognized that his meekness allowed God's power to be displayed. As their spiritual father, they were called to emulate his example.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.1121916280664337,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                29.01,
+                34.72,
+                36.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

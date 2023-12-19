@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:23:43",
+    "verseRef": "Luke 24:3",
+    "bestBHT": {
+        "bht": "When the disciples entered the sepulchre, they were surprised by the absence of Jesus' body. The Western family of documents omits the phrase the Lord Jesus, pointing to a shorter Western text present in multiple instances throughout this chapter. This entrance could potentially be the same as the one referred to in Mark 16:5, where the women entered and found an empty tomb.",
+        "wordCount": 62,
+        "quoteTokenProportion": 42.55,
+        "qualityScore": 1.3748682595167305,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.06,
+        "commentatorTierSimilarities": [
+            33.73,
+            29.14,
+            37.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Luke 24:3. And they entered in. This we think is the entrance spoken of in Mark 16:5.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The Western family of documents does not have these words and Westcott and Hort bracket them as Western non-interpolations.",
+            "There are numerous instances of this shorter Western text in this chapter.",
+            "This precise combination (the Lord Jesus) is common in the Acts, but nowhere else in the Gospels."
+        ],
+        "John Gill": [
+            "And they entered in,.... To the sepulchre, being invited, encouraged, and led on by the angel that sat upon the stone; for the Jews' sepulchres were built large enough for persons to go into.\" ",
+            "and found not the body of the Lord Jesus; as they expected, having seen him put there, and had observed in what cave in the sepulchre, and in what form he was laid."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the disciples entered the sepulchre, they were taken aback by the absence of Jesus' body. The words the Lord Jesus in this verse, although found frequently in the Acts, are unique to the Gospels. Notably, the Western family of documents omits this phrase, which is consistent with the presence of numerous instances of the shorter Western text throughout this chapter. This entrance to the sepulchre may be the same one mentioned in Mark 16:5, where the women entered to find the tomb empty.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.428718592651431,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+            "commentatorTierSimilarities": [
+                38.31,
+                27.88,
+                33.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the disciples entered the sepulchre, they were surprised to discover that the body of Jesus was missing. The absence of the phrase the Lord Jesus in some manuscripts supports the idea of a shorter Western text, seen throughout this chapter. The entrance mentioned here may be the same one described in Mark 16:5, where the women entered and found an empty tomb.",
+            "wordCount": 62,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.3388535241623782,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.86,
+            "commentatorTierSimilarities": [
+                31.04,
+                28.03,
+                40.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the disciples entered the sepulchre, they were taken aback by the absence of Jesus' body. The words the Lord Jesus in this verse, although found frequently in the Acts, are unique to the Gospels. Notably, the Western family of documents omits this phrase, which is consistent with the presence of numerous instances of the shorter Western text throughout this chapter. This entrance to the sepulchre may be the same one mentioned in Mark 16:5, where the women entered to find the tomb empty.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.428718592651431,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+            "commentatorTierSimilarities": [
+                38.31,
+                27.88,
+                33.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon entering the sepulchre, the disciples were startled to find the body of Jesus missing. The absence of the phrase the Lord Jesus in some manuscripts suggests a shorter Western text, which aligns with its occurrence throughout this chapter. This entrance could possibly correspond to the one mentioned in Mark 16:5, where the women also entered and discovered an empty tomb.",
+            "wordCount": 60,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.2893681800323282,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.21,
+            "commentatorTierSimilarities": [
+                30.57,
+                27.96,
+                41.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the disciples entered the sepulchre, they were surprised by the absence of Jesus' body. The Western family of documents omits the phrase the Lord Jesus, pointing to a shorter Western text present in multiple instances throughout this chapter. This entrance could potentially be the same as the one referred to in Mark 16:5, where the women entered and found an empty tomb.",
+            "wordCount": 62,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.3748682595167305,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.06,
+            "commentatorTierSimilarities": [
+                33.73,
+                29.14,
+                37.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

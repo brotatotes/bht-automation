@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:15:33",
+    "verseRef": "Luke 6:15",
+    "bestBHT": {
+        "bht": "The mentioned apostles are Matthew, Thomas, and Simon. Matthew, called Levi, was a tax collector, and Thomas was also known as Didymus. Simon earned the nickname the Canaanite due to his zeal. These three individuals were among the select group of disciples who shared a close relationship with Jesus.",
+        "wordCount": 49,
+        "quoteTokenProportion": 42.5,
+        "qualityScore": 1.7291803135189039,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.84,
+        "commentatorTierSimilarities": [
+            41.7,
+            0.0,
+            58.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Matthew. See on Superscription of Matthew. ",
+            "Thomas. See on Mark 3:18. ",
+            "Simon. Distinguished by Matthew and Mark as the Cananaean. See on Matthew 10:4; Mark 3:18."
+        ],
+        "John Gill": [
+            "Matthew and Thomas,.... The first of these was a publican, and who also was called Levi; and the latter had besides the name of Didymus, and was he that was so unbelieving of Christ's resurrection.",
+            "James the son of Alphaeus; sometimes called James the less, and the brother of our Lord.",
+            "Simon called Zelotes; or the Canaanite."
+        ],
+        "John Wesley": [
+            "Simon called Zelotes \u2014 Full of zeal; otherwise called Simon the Canaanite."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse mentions three of the apostles by their appearences in other books of the Bible - Matthew, Thomas, and Simon. Matthew, who was also a tax collector called Levi, and Thomas, also known as Didymus, were both specifically mentioned by the commentators. Additionally, Simon, who was known for his zeal, was referred to as Simon the Canaanite. The verse suggests that these apostles were part of the inner circle of Jesus' twelve disciples.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.7897681342688303,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+            "commentatorTierSimilarities": [
+                42.89,
+                0.0,
+                57.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the mentioned accounts, three of the apostles are identified. Matthew, in conjunction with Thomas and Simon, is counted among the chosen disciples. Matthew, formerly a tax collector named Levi, and Thomas, sometimes referred to as Didymus, are highlighted as well. Additionally, Simon, who is known for his fervor, is also mentioned as Simon the Canaanite. These individuals were part of the select group of companions who walked closely with Jesus during his ministry.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.5165651018171595,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.77,
+            "commentatorTierSimilarities": [
+                43.71,
+                0.0,
+                56.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the passage, three of the apostles are named - Matthew, Thomas, and Simon. Matthew, also known as Levi, was a tax collector, while Thomas was referred to as Didymus. Simon, nicknamed the Canaanite, was recognized for his zealous nature. These apostles were part of the inner circle of Jesus' closest disciples.",
+            "wordCount": 51,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.7481967171545232,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                44.41,
+                0.0,
+                55.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mentioned apostles are Matthew, Thomas, and Simon. Matthew, called Levi, was a tax collector, and Thomas was also known as Didymus. Simon earned the nickname the Canaanite due to his zeal. These three individuals were among the select group of disciples who shared a close relationship with Jesus.",
+            "wordCount": 49,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.7291803135189039,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.84,
+            "commentatorTierSimilarities": [
+                41.7,
+                0.0,
+                58.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amongst those referenced, three apostles stand out - Matthew, Thomas, and Simon. Matthew, who was a tax collector and sometimes referred to as Levi, joined the group. Thomas, also known as Didymus, was another noteworthy disciple. Simon, alternatively called the Canaanite, carried an intense fervor for his beliefs. These individuals were chosen to be a part of the inner circle of Jesus' followers, playing key roles in his ministry.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5831937713887707,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.98,
+            "commentatorTierSimilarities": [
+                42.71,
+                0.0,
+                57.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

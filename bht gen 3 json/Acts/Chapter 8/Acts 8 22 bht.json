@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:28:23",
+    "verseRef": "Acts 8:22",
+    "bestBHT": {
+        "bht": "Peter expresses doubt about the forgiveness of Simon's sin, emphasizing the severity and wickedness of his offense. Peter's uncertainty is designed to prompt Simon to experience deep remorse and earnest repentance. While Peter does not explicitly deem Simon's sin as unforgivable, he urges him to seek forgiveness through genuine repentance. Peter's intention is to evoke within Simon a fervent response, acknowledging the weight of his transgression and the need for sincere repentance and turning away from sin.",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.473767804604166,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.59,
+        "commentatorTierSimilarities": [
+            32.07,
+            38.46,
+            29.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peter does not pronounce his sin to have been such, but throws in this doubt, to increase the motive to repent, and the earnestness of his repentance.",
+            "This verse is important, taken in connexion with John xx. 23, as shewing how completely the Apostles themselves referred the forgiveness of sins to, and left it in, the sovereign power of God, and not to their own delegated power of absolution.",
+            "This verse is important, taken in connexion with John xx. 23, as shewing how completely the Apostles themselves referred the forgiveness of sins to, and left it in, the sovereign power of God, and not to their own delegated power of absolution."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Repent... pray... if perhaps the thought of thine heart may be forgiven\" - This expression of doubt being designed to impress upon him the greatness of his sin, and the need of alarm on his part."
+        ],
+        "Albert Barnes": [
+            "They are not to be told to 'wait,' and 'read,' and 'pray,' in the expectation that repentance will be 'given' them. With such helps as they can obtain, they are to 'do the thing.'\" ",
+            "Prayer will not be acceptable or heard unless the sinner comes 'repenting'; that is, unless he regrets his sin, and 'desires' to forsake it.",
+            "They are to be directed to repent; not because they have the 'promise' of forgiveness, and not because they 'hope' to be forgiven, but because sin 'is a great evil,' and because it is 'right' and 'proper' that they should repent, whether they are forgiven or not."
+        ],
+        "Marvin Vincent": [
+            "If perhaps. The doubt suggested by the heinousness of the offense.",
+            "Thought [\u03b5\u03c0\u03b9\u03bd\u03bf\u03b9\u03b1]. Only here in New Testament. Lit., a thinking on or contriving; and hence implying a plan or design."
+        ],
+        "John Calvin": [
+            "Repent, therefore... no man shall ever be touched with any desire of repentance, save only he which shall believe that God will have mercy upon him; on the other side, despair will always carry men headlong unto boldness.",
+            "Therefore, until such time as even the most wicked men do by manifest signs betray themselves to be reprobates, no one of them is to be handled so sharply but that remission of sins is to be set before him.",
+            "For the very difficulty doth not a little serve to stir us up; because when we see the thing at hand, we are too careless and sluggish. Therefore Peter doth not terrify Simon, that he may overthrow or trouble all hope of obtaining in his heart, but putting him in sure hope if he shall crave pardon humbly and from his heart, he telleth him only that pardon is hard to be gotten, by reason of the greatness of his offense, to the end he may provoke him unto ferventness."
+        ],
+        "Philip Schaff": [
+            "If perhaps the thought of thine heart may be forgiven thee.",
+            "The apostle was ignorant whether the state of heart which prompted such a request as Simon\u2019s was capable of true repentance, but he doubtless spoke these grave, solemn words to stir up any feelings of remorse which might still be lingering in that hard, covetous heart.",
+            "This verse is important taken in connection with John 20:23, 'Whose soever sins ye remit, they are remitted unto them,' etc., as showing how completely the apostles themselves referred the forgiveness of sins to, and left it in the sovereign power of God, and not to their own delegated power of absolution."
+        ],
+        "Archibald T. Robertson": [
+            "Wickedness (\u03ba\u03b1\u03ba\u03b9\u03b1\u03c2). Only here in Luke's writings, though old word and in LXX (cf. 1 Peter 2:1; 1 Peter 2:16).",
+            "If perhaps (\u03b5 \u03b1\u03c1\u03b1). Si forte. This idiom, though with the future indicative and so a condition of the first class (determined as fulfilled), yet minimizes the chance of forgiveness as in Mark 11:13.",
+            "The thought (\u03b7 \u03b5\u03c0\u03b9\u03bd\u03bf\u03b9\u03b1). Old Greek word from \u03b5\u03c0\u03b9\u03bd\u03bf\u03b5\u03c9, to think upon, and so purpose. Only here in the N.T."
+        ],
+        "John Gill": [
+            "For a great piece of wickedness it was, to offer money for the gift of the Holy Ghost, and to imagine, that could be purchased with money.",
+            "Prayer is a natural duty, and binding upon all men, though none but a spiritual man can perform it in a spiritual way.",
+            "Though this sin of Simon's was a very heinous one, and came very near unto, and looked very much like the sin against the Holy Ghost, yet it was not the unpardonable one; it might be pardoned by the grace of God, and through the blood of Christ."
+        ],
+        "John Wesley": [
+            "Repent \u2014 if perhaps the thought of thy heart may be forgiven thee - Without all doubt if he had repented, he would have been forgiven. The doubt was, whether he would repent.",
+            "Thou art in the gall of bitterness \u2014 In the highest degree of wickedness, which is bitterness, that is, misery to the soul.",
+            "in the bond of iniquity - Fast bound therewith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter responds to Simon's request for him to pray for him, saying that his sin is so grave that he is unsure if it can even be forgiven. This uncertainty serves to emphasize the seriousness of Simon's offense and the need for him to truly repent. Peter's doubt arises from the heinousness of Simon's offer to purchase the gift of the Holy Spirit, reflecting a wickedness that is rarely encountered. Though Peter does not pronounce Simon's sin as unforgivable, he wants to challenge him to genuine remorse and a deep desire for forgiveness. It is within the realm of possibility for Simon to obtain pardon, but his repentance must be genuine and heartfelt. The gravity of his offense should provoke him to fervent repentance, recognizing the enormity of his transgressions.",
+            "wordCount": 135,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 2.3229076702820386,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.58,
+            "commentatorTierSimilarities": [
+                30.8,
+                37.86,
+                31.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter expresses uncertainty about whether Simon's sin can be forgiven, emphasizing the severity and wickedness of Simon's offense. By questioning the possibility of forgiveness, Peter intends to provoke Simon to genuine remorse and sincere repentance. While Peter does not declare Simon's sin as unforgivable, he challenges him to seek pardon through heartfelt repentance. The gravity of Simon's offense should awaken him to the need for fervent repentance, recognizing the enormity of his transgressions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.433695055191621,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.26,
+            "commentatorTierSimilarities": [
+                30.96,
+                38.94,
+                30.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's response to Simon's request reveals his uncertainty about whether Simon's sin can be forgiven, highlighting the seriousness and wickedness of Simon's offense. This doubt is meant to stir within Simon a deep sense of remorse and a genuine desire for repentance. While Peter does not explicitly label Simon's sin as unforgivable, he encourages him to seek forgiveness through sincere and heartfelt repentance. Peter's intention is to evoke in Simon a fervent response, acknowledging the weight of his transgression and the need for genuine repentance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.3962311592269403,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.01,
+            "commentatorTierSimilarities": [
+                30.81,
+                39.19,
+                29.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's uncertainty about the forgiveness of Simon's sin reflects the severity and wickedness of Simon's offense. This doubt serves as a catalyst for Simon to experience deep remorse and a sincere desire for repentance. While Peter does not explicitly declare Simon's sin as unforgivable, he urges him to pursue forgiveness through genuine and heartfelt repentance. By emphasizing the gravity of Simon's transgression, Peter aims to inspire fervent repentance and a recognition of the need for genuine remorse and a turning away from sin.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.4542305586330047,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.94,
+            "commentatorTierSimilarities": [
+                30.69,
+                38.49,
+                30.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter expresses doubt about the forgiveness of Simon's sin, emphasizing the severity and wickedness of his offense. Peter's uncertainty is designed to prompt Simon to experience deep remorse and earnest repentance. While Peter does not explicitly deem Simon's sin as unforgivable, he urges him to seek forgiveness through genuine repentance. Peter's intention is to evoke within Simon a fervent response, acknowledging the weight of his transgression and the need for sincere repentance and turning away from sin.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.473767804604166,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.59,
+            "commentatorTierSimilarities": [
+                32.07,
+                38.46,
+                29.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

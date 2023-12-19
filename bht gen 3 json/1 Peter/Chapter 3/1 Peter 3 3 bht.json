@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:30",
+    "verseRef": "1 Peter 3:3",
+    "bestBHT": {
+        "bht": "The verse encourages believers not to prioritize outward adornments like braided hair and golden ornaments, which were associated with excessive display and extravagance during that time. The focus should be on displaying inward virtues like modesty and moral worth, rather than seeking admiration through physical appearance. The Gospel promotes freedom in attire but emphasizes the importance of moderation and avoiding excessive attention to external beauty. It is crucial for individuals to prioritize inner adornment over outward adornments, reflecting the transformation that faith brings.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 2.0635944916992823,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+        "commentatorTierSimilarities": [
+            32.02,
+            37.8,
+            30.17
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let [the adornment] be not the outward adornment of braiding of hair and putting round of golden ornaments\" (1 Peter 3:3). ",
+            "The sex which began first our engagement to the necessity of clothing, having still a peculiar propensity to be curious in that, to improve the necessity to an advantage\" (1 Peter 3:3). ",
+            "Hanging the body round with... rings, or generally, hanging the body round with of putting on of dresses\" (1 Peter 3:3)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To whom let there belong... not the outward adornment (usual in the sex which first... brought in the need of covering...)",
+            "plaiting\u2014artificial braiding, in order to attract admiration.",
+            "Have the blush of modesty on thy face instead of paint, and moral worth and discretion instead of gold and emeralds."
+        ],
+        "Albert Barnes": [
+            "The true notion of ornament or adorning is that which will make any person or thing appear well, or beautiful, to others; and the apostle does not prohibit that which would have this effect in the wife.\" ",
+            "Let not this be the main or principal thing; let not her heart be set on this.\" ",
+            "We are to dress decently, and in the manner that will attract least attention, and we are to show that our hearts are interested supremely in more important things than in outward adorning."
+        ],
+        "Marvin Vincent": [
+            "The Roman women of the day were addicted to ridiculous extravagance in the adornment of the hair.\" ",
+            "The attendants will vote on the dressing of the hair as if a question of reputation or of life were at stake, so great is the trouble she takes in quest of beauty.",
+            "Female extravagance in dress in the days of the empire reached an alarming pitch."
+        ],
+        "John Calvin": [
+            "For these are the things in which excesses especially appear.\" ",
+            "It would be an immoderate strictness wholly to forbid neatness and elegance in clothing.\" ",
+            "Therefore they whose minds are purified from all vanity, will duly order all things, so as not to exceed moderation."
+        ],
+        "Philip Schaff": [
+            "The adornment which wives are to value is not that which is effected by the particular acts of plaiting or braiding the hair, wearing of gold, or putting on of apparel.",
+            "He does not, however, speak of ornaments and tasteful attire as things unfit for a Christian woman, but condemns excess of attention to such things as if they made the wife\u2019s real attractions.",
+            "In this, as in other things, the Gospel is a law of liberty, which declines to be bound to one rigid line of application in all circumstances."
+        ],
+        "Archibald T. Robertson": [
+            "\u039a\u03bf\u03c3\u03bc\u03bf\u03c2 has here its old meaning of ornament (cf. our cosmetics), not the common one of world (John 17:5) considered as an orderly whole.\" ",
+            "Peter is not forbidding the wearing of clothes and ornaments by women, but the display of finery by contrast.",
+            "Not the outward adorning of plaiting the hair... Ornaments of gold were worn round the hair as nets and round the finger, arm, or ankle."
+        ],
+        "John Gill": [
+            "Let not that be solely or chiefly attended to, nor anxiously sought after, nor ever in order to allure and ensnare others, or to fill with pride and vanity.",
+            "The apostle means such apparel as is unbecoming and unsuitable, for he cannot be thought to forbid the putting on of any apparel.",
+            "Women should not so much regard, and be so intent upon the outward adorning of their bodies, with any sort of clothing, and especially such as does not become them, as the inward adorning of their minds."
+        ],
+        "John Wesley": [
+            "Curling the hair, wearing gold, (by way of ornament,) and putting on costly or gay apparel.",
+            "These, therefore, ought never to be allowed, much less defended, by Christians.",
+            "These, therefore, ought never to be allowed, much less defended, by Christians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse advises against placing value on outward adornments such as braiding of hair and wearing golden ornaments, as these were associated with excessive display and extravagance during that time. The key is not to completely forbid the wearing of clothes and ornaments, but to avoid excessive attention to these things. Instead, the focus should be on displaying moral worth, discretion, and modesty. It is important for women to prioritize the inward adorning of their minds rather than obsessing over external beauty. The Gospel encourages freedom in how we dress, but it emphasizes the importance of moderation and not seeking to allure or ensnare others with our appearance.",
+            "wordCount": 108,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.1453348655788416,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.67,
+            "commentatorTierSimilarities": [
+                31.16,
+                37.53,
+                31.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The adornment mentioned in the passage refers to the outward adornments of hair braiding and golden ornaments. During that time, these adornments were associated with the excessive and extravagant display of Roman women. The focus should not be solely on outward appearance but on the inner virtues of modesty, moral worth, and discretion. It is not a complete prohibition of clothes and ornaments, but rather a caution against excessive attention and seeking to allure others. The Gospel encourages freedom in attire, but emphasizes the importance of moderation and inward beauty.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0312597839109063,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.88,
+            "commentatorTierSimilarities": [
+                34.37,
+                35.04,
+                30.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The adornment discussed here pertains to the external display of braided hair and golden ornaments. The Roman women of that time would extravagantly adorn themselves, with attendants voting on their hairstyles as if it were a matter of reputation or even life. The verse does not completely prohibit clothing and ornaments, but cautions against excessive display. Instead, the focus should be on modesty, moral worth, and discretion. The Gospel allows freedom in attire, but emphasizes the importance of moderation and inner beauty.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9831003477101201,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+            "commentatorTierSimilarities": [
+                35.18,
+                34.07,
+                30.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse encourages believers not to prioritize outward adornments like braided hair and golden ornaments, which were associated with excessive display and extravagance during that time. The focus should be on displaying inward virtues like modesty and moral worth, rather than seeking admiration through physical appearance. The Gospel promotes freedom in attire but emphasizes the importance of moderation and avoiding excessive attention to external beauty. It is crucial for individuals to prioritize inner adornment over outward adornments, reflecting the transformation that faith brings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 2.0635944916992823,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                32.02,
+                37.8,
+                30.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The concern in the verse is not the complete prohibition of clothes and ornaments, but rather the caution against excessive attention and display. The focus is on inward virtues such as modesty, moral worth, and discretion, rather than being preoccupied with outward adornments. The Gospel allows for freedom in attire but stresses the importance of moderation and highlighting inner beauty. The verse reminds believers to prioritize the adornment of the mind and heart over an excessive emphasis on external appearance.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.975994522464756,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.04,
+            "commentatorTierSimilarities": [
+                27.86,
+                40.2,
+                31.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

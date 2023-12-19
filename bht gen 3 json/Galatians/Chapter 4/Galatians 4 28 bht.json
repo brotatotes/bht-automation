@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 14:18:14",
+    "verseRef": "Galatians 4:28",
+    "bestBHT": {
+        "bht": "As Christians, we are children of the promise, not according to our flesh, but through the promise itself. Like Isaac, we are born not by natural means, but by the supernatural power of God. By being part of the spiritual seed of Abraham, we inherit all the promises made by God. This includes the promises of a covenant, the salvation through Christ, the sanctification by the Holy Spirit, and the abundance of both temporal and spiritual blessings. As children of the promise, we can fully embrace our identity and anticipate the fulfillment of God's blessings in our lives.",
+        "wordCount": 99,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.2918602643303148,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.54,
+        "commentatorTierSimilarities": [
+            34.27,
+            28.1,
+            37.64
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "28.] Now ye (or, we), brethren, like Isaac, are children of PROMISE (emphatic:\u2014are children, not according to the flesh, but by the promise, see ver. 23, and below, ver. 29)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We are children of promise - not children after the flesh, but through the promise.\" ",
+            "We are so, and ought to wish to continue so."
+        ],
+        "Albert Barnes": [
+            "We who are Christians.",
+            "We so far resemble Isaac, that there are great and precious promises made to us.",
+            "We are not in the condition of Ishmael, to whom no promise was made."
+        ],
+        "Philip Schaff": [
+            "Christian believers are born, like Isaac, of the unfruitful Sarah, contrary to the ordinary course of nature.\" ",
+            "Children of the heavenly Jerusalem.",
+            "Believers are children of promise."
+        ],
+        "Archibald T. Robertson": [
+            "Christians (Jews and Gentiles) are children of the promise as Isaac was.",
+            "Christians are children of the promise.",
+            "We are children of the promise."
+        ],
+        "John Gill": [
+            "Isaac signified, and was a type and figure of Abraham's spiritual seed, whether Jews or Gentiles, under the Gospel dispensation.",
+            "And as Isaac was born by virtue, and in consequence of a promise made to Abraham of God's free good will and pleasure, and his generation and conception were beyond the strength and course of nature, were the effects of a divine power, and were something supernatural; so this spiritual seed are born again, by virtue, and in consequence of a promise.",
+            "Moreover, to these children, or spiritual seed of Abraham, signified by Isaac, do all the promises belong, as that of God, as a covenant God gave unto them; of Christ, as a Saviour and Redeemer; of the Holy Spirit, as a sanctifier and comforter; and of all good things, of temporal mercies, so far as are for their real good; and of all spiritual blessings, as righteousness, peace, pardon, comfort, all supplies of grace, and eternal life."
+        ],
+        "John Wesley": [
+            "Now we \u2014 Who believe, whether Jews or Gentiles.",
+            "Are children of the promise \u2014 Not born in a natural way, but by the supernatural power of God.",
+            "And as such we are heirs of the promise made to believing Abraham."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Christians, we are children of the promise, just like Isaac. Our identity is not rooted in our physical lineage, but in the promise that God has made to us. We should embrace and cherish this truth, desiring to continue in the faith and walk according to the promises of God. We are part of the spiritual seed of Abraham, whether we are Jews or Gentiles. As children of promise, we are recipients of the covenant God has made with us, and we can expect to receive all the blessings that come with it, including righteousness, peace, comfort, and eternal life.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.308070388740017,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.08,
+            "commentatorTierSimilarities": [
+                34.52,
+                29.47,
+                36.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We, as Christians, are children of the promise, just like Isaac. Our identity stems not from our physical lineage, but from the promise that God has bestowed upon us. We should, therefore, strive to remain in this position. By being part of the spiritual offspring of Abraham, both Jews and Gentiles, we hold claim to the covenant God has established. Consequently, we can anticipate receiving the multitude of blessings that accompany it, such as righteousness, peace, comfort, and eternal life.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.9089931851681863,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.82,
+            "commentatorTierSimilarities": [
+                35.44,
+                29.36,
+                35.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We, as Christians, are children of the promise, not according to our flesh, but through the promise itself. Like Isaac, we are born not by natural means, but by the supernatural power of God. We can consider ourselves heirs of the promise made to believing Abraham, encompassing the promises of God, Christ, the Holy Spirit, and all good things. By being part of the spiritual seed of Abraham, we can confidently claim all the blessings reserved for us, such as righteousness, peace, and eternal life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.279384544737467,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.13,
+            "commentatorTierSimilarities": [
+                32.92,
+                28.06,
+                39.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Christians, we are children of the promise, not according to our flesh, but through the promise itself. Like Isaac, we are born not by natural means, but by the supernatural power of God. By being part of the spiritual seed of Abraham, we inherit all the promises made by God. This includes the promises of a covenant, the salvation through Christ, the sanctification by the Holy Spirit, and the abundance of both temporal and spiritual blessings. As children of the promise, we can fully embrace our identity and anticipate the fulfillment of God's blessings in our lives.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.2918602643303148,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.54,
+            "commentatorTierSimilarities": [
+                34.27,
+                28.1,
+                37.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We, as Christians, are children of the promise, not according to our flesh, but through the promise itself. Our identity, like Isaac's, is not determined by our natural lineage, but by the supernatural power of God's promise. As part of the spiritual seed of Abraham, we inherit all the promises made by God, including righteousness, peace, comfort, and eternal life. We can confidently claim our position as heirs and eagerly anticipate the fulfillment of these blessings in our lives.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.2727945780862115,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.91,
+            "commentatorTierSimilarities": [
+                35.72,
+                27.89,
+                36.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

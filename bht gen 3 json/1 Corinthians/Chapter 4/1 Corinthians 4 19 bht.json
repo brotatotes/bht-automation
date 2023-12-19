@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:03:38",
+    "verseRef": "1 Corinthians 4:19",
+    "bestBHT": {
+        "bht": "Disregarding their presumption and love for eloquent speech, Paul planned to come to the Corinthians to assess their spiritual power. Their emphasis on clever rhetoric over godliness revealed the influence of their Greek background. Aware that his plans were subject to the Lord's will, Paul had altered his intentions, initially sparing them by allowing Timothy to go first. His desire was to evaluate their power, exposing any inconsistencies in their claims of spiritual strength.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.5675272728773337,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.46,
+        "commentatorTierSimilarities": [
+            44.33,
+            23.88,
+            31.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But come I will\" - an emphatical negation of their supposition.",
+            "I care not for their high-sounding 'speech,' but what I desire to know is 'their power,' whether they be really powerful in the Spirit, or not.",
+            "The predominant feature of Grecian character, a love for power of discourse, rather than that of godliness, showed itself at Corinth."
+        ],
+        "Albert Barnes": [
+            "If the Lord will - If the Lord permit; if by his providence he allows me to go.",
+            "No purpose should be formed without a reference to his will; no plan without feeling that he can easily frustrate it and disappoint us; see James 4:15.",
+            "I will put their power to the proof: I will see whether they are able to effect what they affirm; whether they have more real power than I have."
+        ],
+        "John Calvin": [
+            "They are in a mistake...for they shall in a short time perceive how vain their confidence has been.",
+            "We ought not to promise anything to others as to the future...without adding this limitation in so far as the Lord will permit.",
+            "If they wish to have any honor from me, they must bring forward that power which distinguishes the true servants of Christ from the merely pretended."
+        ],
+        "Philip Schaff": [
+            "But I will come to you shortly, if the Lord will.",
+            "He had found already that his own plans were liable to be overruled by the plans of a Higher than he.",
+            "At whose absolute disposal he desired ever to be."
+        ],
+        "Archibald T. Robertson": [
+            "If the Lord will... It should represent one's constant attitude, though not always to be spoken aloud.",
+            "He will come and will know their real strength. II Corinthians gives many evidences of Paul's sensitiveness to their talk about his inconsistencies and cowardice.",
+            "He changed his plans to spare them, not from timidity. It will become plain later that Timothy failed on this mission and that Titus succeeded."
+        ],
+        "John Gill": [
+            "But I will come to you shortly... with this condition, if the Lord will... though it is not absolutely necessary that this should be expressed by us always in so many words; though should it, as the sentence is short and full, there would be no impropriety in it; yet this should always be the sense of our minds and conduct in all the affairs of life.\" ",
+            "and will know not the speech of them that are puffed up, but the power; meaning chiefly the false teachers; and that his concern would be, not so much to observe their masterly language... but what life there was in their ministry, what power went forth with their words, and how effectual their preaching was to the, conversion of sinners, and the edifying of the church of God."
+        ],
+        "John Wesley": [
+            "He here shows his fatherly authority.",
+            "Not the big, empty speech of these vain boasters.",
+            "But how much of the power of God attends them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I will come to you, disregarding their presumption and their love for eloquent speech, for what truly matters is their spiritual power. The Corinthians, influenced by their Greek background, valued clever rhetoric over godliness. Paul's plans were subject to the Lord's will, as should ours be. In fact, his intentions to visit them had changed in order to spare them, not out of timidity but to allow Timothy to go first. Paul desired to assess their power, to see if their claims of spiritual strength held true, and to expose any inconsistencies.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5332692915631947,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.32,
+            "commentatorTierSimilarities": [
+                43.6,
+                24.93,
+                31.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Disregarding their presumption and love for eloquent speech, I will come to you to assess their spiritual power. The Corinthians had a tendency to prioritize clever rhetoric over godliness, reflecting their Greek background. Paul's plans were subject to the will of the Lord, as should ours be. His intentions to visit them had changed in order to spare them, not out of timidity but to allow Timothy to go first. Paul desired to assess their power and expose any inconsistencies in their claims of spiritual strength.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.5015149501547302,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+            "commentatorTierSimilarities": [
+                43.9,
+                26.15,
+                29.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Disregarding their presumption and love for eloquent speech, I will come to you, not out of timidity, but to assess their spiritual power. The Corinthians, influenced by their Greek background, valued clever rhetoric over godliness. Paul's plans were subject to the Lord's will, as should ours be. He had altered his intentions in order to spare them, allowing Timothy to go first. Paul desired to assess their power, exposing any inconsistencies in their claims of spiritual strength.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.4909056415331918,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.92,
+            "commentatorTierSimilarities": [
+                43.22,
+                26.74,
+                30.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Disregarding their presumption and love for eloquent speech, I will come to you, not out of timidity, but to assess their spiritual power. The Corinthians, influenced by their Greek background, valued clever rhetoric over godliness. Paul's plans were subject to the Lord's will, as should ours. He had changed his intentions to spare them, allowing Timothy to go first. Paul desired to assess their power, exposing any inconsistencies in their claims of spiritual strength.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.4906171682406435,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.91,
+            "commentatorTierSimilarities": [
+                43.67,
+                26.78,
+                29.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Disregarding their presumption and love for eloquent speech, Paul planned to come to the Corinthians to assess their spiritual power. Their emphasis on clever rhetoric over godliness revealed the influence of their Greek background. Aware that his plans were subject to the Lord's will, Paul had altered his intentions, initially sparing them by allowing Timothy to go first. His desire was to evaluate their power, exposing any inconsistencies in their claims of spiritual strength.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.5675272728773337,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.46,
+            "commentatorTierSimilarities": [
+                44.33,
+                23.88,
+                31.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

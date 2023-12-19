@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:17:28",
+    "verseRef": "Luke 10:2",
+    "bestBHT": {
+        "bht": "Prayer is the answer for the scarcity of laborers in the abundant harvest. Christ's method is to increase the supply of preachers through prayer, urging the disciples to pray for the Lord of the harvest to send forth more laborers. The need is pressing, as there is much ripe corn but few workers. The disciples are instructed to hurry on their mission, passing by anything that would detain them, and petitioning the Lord to send forth diligent preachers.",
+        "wordCount": 79,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.6178780459923354,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+        "commentatorTierSimilarities": [
+            30.43,
+            11.07,
+            58.5
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] See Matt. ix. 37 and notes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. The harvest, &amp;c.\u2014(See",
+            "\ton :-). ",
+            "\t",
+            "pray ye therefore the Lord of",
+            "\tthe harvest, that he would send forth labourers into his harvest\u2014(See",
+            "\ton :-)."
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 9:36-37."
+        ],
+        "Marvin Vincent": [
+            "Harvest, that which is gathered in summer.\" ",
+            "Much ripe corn is, but few workmen.\" ",
+            "Send forth, drive or thrust forth, implying the urgency of the mission."
+        ],
+        "John Calvin": [
+            "He declares that the harvest is abundant: and hence it follows, that their labor will not be fruitless.",
+            "It indicates extreme haste, when, on meeting a person in the way, we pass on without speaking to him, lest he should detain us even for a short time.",
+            "Christ does not intend that his disciples shall be so unkind as not to deign to salute persons whom they meet, but bids them hasten forward, so as to pass by everything that would detain them."
+        ],
+        "Philip Schaff": [
+            "Luke 10:2. See on Matthew 9:37, where the same thought precedes the sending out of the Twelve.",
+            "\t",
+            " Send forth. Literally \u2018cast forth,\u2019 implying urgency.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The need is the same and prayer is the answer in each case.",
+            "Prayer for preachers is Christ's method for increasing the supply.",
+            "Prayer is the answer in each case."
+        ],
+        "John Gill": [
+            "The harvest truly is great, but the labourers are few.\" ",
+            "Pray ye therefore the Lord of the harvest that he would send forth labourers into his harvest.",
+            "The Lord of the harvest and whose all souls are, was to be prayed unto to send forth more laborious preachers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The need for laborers in the harvest is urgent, as there is much ripe corn but few workers. Christ's method for increasing the supply of preachers is through prayer. The disciples are instructed to pray for the Lord of the harvest to send forth laborers, as prayer is the answer in this case. The harvest is abundant, indicating that their labor will not be fruitless. The disciples are urged to pass by everything that would detain them and hasten forward in their mission. They are to pray to the Lord of the harvest, who has authority over all souls, for the sending forth of more laborious preachers.",
+            "wordCount": 108,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.5953023169485352,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.39,
+            "commentatorTierSimilarities": [
+                28.63,
+                8.13,
+                63.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Prayer is the answer to the urgent need for laborers in the abundant harvest. There is much ripe corn, but few workmen. Christ's method for increasing the supply of preachers is through prayer to the Lord of the harvest. The disciples are instructed to pass by anything that would detain them and pray for the sending forth of more laborious preachers. Their labor will not be in vain, as the harvest is plentiful.",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.6135459016371667,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.99,
+            "commentatorTierSimilarities": [
+                31.05,
+                8.86,
+                60.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Prayer is the solution to the scarcity of laborers in the abundant harvest. Christ's method to increase the supply of preachers is through prayer, urging the disciples to pray for the Lord of the harvest to send forth more laborers. There is a great need for workers in the harvest field, but few are willing to work. The disciples are instructed to hasten forward in their mission, passing by anything that would delay them, and pray for the Lord to send forth laborious preachers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.6168897740546395,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                28.79,
+                9.2,
+                62.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Prayer is the answer for the scarcity of laborers in the abundant harvest. Christ's method is to increase the supply of preachers through prayer, urging the disciples to pray for the Lord of the harvest to send forth more laborers. The need is pressing, as there is much ripe corn but few workers. The disciples are instructed to hurry on their mission, passing by anything that would detain them, and petitioning the Lord to send forth diligent preachers.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.6178780459923354,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+            "commentatorTierSimilarities": [
+                30.43,
+                11.07,
+                58.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The urgency of the mission to send forth laborers into the abundant harvest is emphasized. The disciples are instructed to pray for the Lord of the harvest to increase the supply of preachers. There is great need for workers, as there is much ripe corn but few laborers. Christ's method of response is through prayer. The disciples are urged to pass by anything that would delay them and hasten forward in their mission. They are to pray for the Lord to send forth more diligent preachers into the harvest field.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.5409328819182626,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.58,
+            "commentatorTierSimilarities": [
+                31.32,
+                10.26,
+                58.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

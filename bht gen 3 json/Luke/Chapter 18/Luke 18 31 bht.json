@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:21:24",
+    "verseRef": "Luke 18:31",
+    "bestBHT": {
+        "bht": "Christ Himself affirms the importance of reading the Old Testament, where the sufferings of the Son of man are prophesied. In Luke 18:31, Jesus privately explains to His disciples that all that was written by the prophets concerning Him would be fulfilled. This special revelation regarding His impending death carries great significance, emphasizing the necessity to understand and acknowledge the fulfillment of these prophecies. It is through recognizing the completion of these predictive writings that we can fully grasp the purpose and identity of Jesus.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.550273092532208,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.89,
+        "commentatorTierSimilarities": [
+            53.05,
+            0.0,
+            46.95
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Christ Himself read, and would have us to read, the Old Testament, in which some otherwise evangelical interpreters find no prophecies, or virtually none, of the sufferings of the Son of man.",
+            "All written by the prophets concerning the Son of man... be accomplished.",
+            "In which some otherwise evangelical interpreters find no prophecies, or virtually none, of the sufferings of the Son of man."
+        ],
+        "Marvin Vincent": [
+            "By the prophets [\u03b4\u03b9\u03b1] . Lit., through; the preposition expressing secondary agency."
+        ],
+        "Archibald T. Robertson": [
+            "Taking along with himself.",
+            "Jesus is making a special point of explaining his death to the Twelve.",
+            "The position is amphibolous and the construction makes sense either with 'shall be accomplished' (\u03c4\u03b5\u03bb\u03b5\u03c3\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1) or 'that are written' (\u03c4\u03b1 \u03b3\u03b5\u03b3\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03b1), probably the former."
+        ],
+        "John Gill": [
+            "That all things that are written by the prophets, concerning the son of man, shall be accomplished.\" ",
+            "For to these the following things have respect.",
+            "He took them aside from the rest of the company, as they were travelling on the road, and privately delivered to them, what follows."
+        ],
+        "John Wesley": [
+            "Matthew 20:17; Mark 10:32."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ Himself emphasized the importance of reading the Old Testament, particularly the prophecies concerning the sufferings of the Son of man. He wanted us to understand that everything written by the prophets about Him would be fulfilled. In Luke 18:31, Jesus takes His disciples aside to explain the significance of His impending death. It is crucial for us to recognize the fulfillment of these prophecies and their relevance to Jesus' mission and identity.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.5187215199478268,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.84,
+            "commentatorTierSimilarities": [
+                53.14,
+                0.0,
+                46.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ Himself would have us read and understand the prophecies of the sufferings of the Son of man found in the Old Testament. In Luke 18:31, Jesus takes His disciples aside to explain that everything written by the prophets about Him will be fulfilled. The disciples were given a special private explanation regarding Jesus' upcoming death. It is essential to grasp the significance of these prophecies and their role in Jesus' mission and identity.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.5348519030982195,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.38,
+            "commentatorTierSimilarities": [
+                53.31,
+                0.0,
+                46.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ Himself emphasizes the importance of reading the Old Testament, especially the prophecies regarding the sufferings of the Son of man. In Luke 18:31, Jesus privately reveals to His disciples that all that is written by the prophets about Him will come to pass. This specific revelation highlights the significance of His impending death. It is crucial to understand and recognize the fulfillment of these prophecies in order to comprehend the mission and identity of Jesus.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.4985574087800813,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.17,
+            "commentatorTierSimilarities": [
+                53.01,
+                0.0,
+                46.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ Himself affirms the importance of reading the Old Testament, where the sufferings of the Son of man are prophesied. In Luke 18:31, Jesus privately explains to His disciples that all that was written by the prophets concerning Him would be fulfilled. This special revelation regarding His impending death carries great significance, emphasizing the necessity to understand and acknowledge the fulfillment of these prophecies. It is through recognizing the completion of these predictive writings that we can fully grasp the purpose and identity of Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.550273092532208,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.89,
+            "commentatorTierSimilarities": [
+                53.05,
+                0.0,
+                46.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ Himself emphasizes the importance of reading the Old Testament prophecies about the sufferings of the Son of man. In this specific instance in Luke, Jesus privately reveals to His disciples that all that is written by the prophets about Him will come to pass. This revelation, focused on His impending death, underscores the significance of understanding and acknowledging the fulfillment of these prophecies. Recognizing the completion of these writings enables a deeper comprehension of Jesus' mission and identity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.5291018079262866,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.19,
+            "commentatorTierSimilarities": [
+                53.16,
+                0.0,
+                46.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

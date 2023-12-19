@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:22:11",
+    "verseRef": "Luke 20:33",
+    "bestBHT": {
+        "bht": "The Sadducees attempted to undermine faith in the resurrection by proposing a puzzling question regarding marriage in the afterlife. They presented a hypothetical scenario involving a woman who had been married to multiple brothers and were inquiring about whose wife she would be in the resurrection. This line of questioning aimed to discredit the concept of life after death and challenge the belief in resurrection as a whole.",
+        "wordCount": 68,
+        "quoteTokenProportion": 43.14,
+        "qualityScore": 1.4390556949453488,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.19,
+        "commentatorTierSimilarities": [
+            44.32,
+            0.0,
+            55.68
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Had her (\u03b5\u03c3\u03c7\u03bf\u03bd). Constative second aorist indicative of \u03b5\u03c7\u03c9 including all seven seriatim. So Matthew 22:28; Mark 12:33 To wife (\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03b1). As wife, accusative in apposition with \"her.\" "
+        ],
+        "John Gill": [
+            "At the time of the resurrection of the dead, in that state, supposing there will be such an one, which they denied...\" ",
+            "Their claim seems to be alike; this they thought unanswerable, and sufficient to set aside the notion of a resurrection.",
+            "Whose wife of them is she? the first, or the last, or any of the intermediate ones?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In response to their question about marriage in the resurrection, the commentators point out that the Sadducees were trying to undermine the belief in life after death. They present a hypothetical case in which a woman is married to multiple brothers and pose the question of whose wife she would be in the resurrection. This question was meant to be unanswerable and to challenge the idea of a resurrection altogether.",
+            "wordCount": 70,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.3945420815505283,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.71,
+            "commentatorTierSimilarities": [
+                39.44,
+                0.0,
+                60.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Sadducees, in an attempt to discredit the concept of resurrection, posed a complex question about marriage in the afterlife. They presented a scenario where a woman was married to several brothers and asked whose wife she would be in the resurrection. This unanswerable inquiry aimed to undermine the belief in life after death and challenge the idea of resurrection altogether.",
+            "wordCount": 61,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3116954763712187,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.96,
+            "commentatorTierSimilarities": [
+                40.14,
+                0.0,
+                59.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Sadducees sought to undermine the belief in life after death by presenting a perplexing question about marriage in the resurrection. They used a hypothetical scenario where a woman was married to multiple brothers and questioned whose wife she would be in the afterlife. This seemingly unanswerable query was designed to challenge the idea of resurrection and cast doubt on its validity.",
+            "wordCount": 62,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.3341227488185183,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+            "commentatorTierSimilarities": [
+                41.98,
+                0.0,
+                58.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Sadducees attempted to undermine faith in the resurrection by proposing a puzzling question regarding marriage in the afterlife. They presented a hypothetical scenario involving a woman who had been married to multiple brothers and were inquiring about whose wife she would be in the resurrection. This line of questioning aimed to discredit the concept of life after death and challenge the belief in resurrection as a whole.",
+            "wordCount": 68,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.4390556949453488,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.19,
+            "commentatorTierSimilarities": [
+                44.32,
+                0.0,
+                55.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Sadducees posed a complex query about marriage in the resurrection, aiming to discredit the belief in life after death. They presented a scenario wherein a woman had been married to several brothers and inquired about whose wife she would be in the afterlife. This challenging question sought to undermine and cast doubt on the idea of resurrection as a whole.",
+            "wordCount": 61,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.2728666025239208,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.67,
+            "commentatorTierSimilarities": [
+                43.58,
+                0.0,
+                56.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

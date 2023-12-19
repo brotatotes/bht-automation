@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:31:58",
+    "verseRef": "Acts 15:36",
+    "bestBHT": {
+        "bht": "During this time, Peter sacrificed his Christian consistency and better persuasions to please Judaizers, which even influenced Barnabas. But Paul boldly rebuked Peter and desired to revisit the brethren, setting a pattern for churches and missionaries. Paul had a heart for his converts, longing to see their face and perfect that which was lacking in their faith. The precariousness of the life of new converts in pagan lands is shown in all of Paul's Epistles, highlighting the importance of providing guidance and support to these young believers.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.7035791071040631,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.99,
+        "commentatorTierSimilarities": [
+            37.72,
+            17.07,
+            45.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Perhaps (?) during this time took place that visit of Peter to Antioch mentioned Gal. ii. 11 ff., when he sacrificed his Christian consistency and better persuasions to please some Judaizers.\" ",
+            "Even Barnabas was led away with the dissimulation.\" ",
+            "Paul boldly rebuked him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let us go again and visit our brethren\u2014the true reading is, 'the brethren.'\" ",
+            "A pattern for churches and successful missionaries in every age.\" ",
+            "He thought, doubtless, of the Pisidians and Lycaonians, as he thought afterwards at Athens and Corinth of the Thessalonians, from whom he had been lately 'taken in presence, not in heart, night and day praying exceedingly that he might see their face and perfect that which was lacking in their faith.'"
+        ],
+        "Albert Barnes": [
+            "Let us go again and visit our brethren.\" ",
+            "This was a natural wish.\" ",
+            "An enterprise that might be attended with important advantages to those feeble churches."
+        ],
+        "Marvin Vincent": [
+            "Having returned, let us now visit.\" ",
+            "The A. V. omits now.\" ",
+            "Kata has the force of city by city."
+        ],
+        "John Calvin": [
+            "Paul, in staying a time at Antioch, did provide for other churches; and so we must no less look unto his wisdom than his diligence in this example, because oftentimes the immoderate heat of the pastors in going about matters doth no less hurt than their sluggishness.",
+            "There ought nothing under heaven to be more firm than the spiritual building of faith, whose stability is grounded in the very heaven; yet there be but few in whose minds the word of the Lord doth thoroughly take lively root; therefore, firmness is rare in men.",
+            "Moreover, we see how Satan doth assault, and with what subtle shifts he goeth about privily to pull down sometimes whole churches, sometimes every one of the faithful particularly. Therefore, it is not without cause that Paul is so careful for his scholars, lest they behave themselves otherwise than is to be wished; and therefore is he desirous in time to prevent, if there be any inconvenience risen, which cannot be until he have taken view."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is anxious, like a true missionary, to go back to the fields where he has planted the gospel.\" ",
+            "There is special point in the use of \u03b4\u03b7 (shortened form of \u03b7\u03b4\u03b7), now at this juncture of affairs.\" ",
+            "The precariousness of the life of new converts in pagan lands is shown in all of Paul's Epistles."
+        ],
+        "John Gill": [
+            "And it may be observed, what an affection the apostle had for the young converts, and members of these churches; he calls them 'brethren', they being partakers of the same grace, and of the same faith and family with himself.",
+            "Such are to be visited and looked after, and their cases inspected into; and inquiries should be made of them, how they do, how they go on; whether they continue in the faith, and grow in grace and in the knowledge of Christ.",
+            "And this is a work becoming the ministers of the Gospel; and the example of the apostle is worthy of imitation."
+        ],
+        "John Wesley": [
+            "Let us go and visit the brethren in every city where we have preached...but it was not all that God designed...whose providence carried him much farther than he intended.",
+            "And see how they do \u2014 How their souls prosper: how they grow in faith, hope, love: what else ought to be the grand and constant inquiry in every ecclesiastical visitation?",
+            "Reader, how dost thou do?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During this time, there was a visit of Peter to Antioch where he compromised his Christian convictions to please Judaizers, and even Barnabas was led astray. However, Paul fearlessly rebuked Peter for his actions. The intention was for Paul and Barnabas to revisit the brethren, which sets a pattern for churches and missionaries. Paul had a heart for his converts, longing to return to them to strengthen their faith and fill any gaps in their understanding. The faith of new converts in pagan lands was fragile, which Paul experienced firsthand. Therefore, it was crucial for Paul to provide guidance and support to these young believers.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.6395301878073623,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+            "commentatorTierSimilarities": [
+                38.88,
+                19.35,
+                41.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During this time, Peter compromised his Christian convictions to please Judaizers, even leading Barnabas astray. Paul fearlessly rebuked Peter for his actions. The intention was for Paul and Barnabas to revisit the brethren, setting a pattern for churches and missionaries. Paul had a heart for his converts, longing to return to strengthen their faith and fill any gaps. The faith of new converts in pagan lands was fragile; thus, Paul provided guidance and support to these young believers.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.6672265906365564,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                39.18,
+                19.29,
+                41.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During this time, Peter sacrificed his Christian consistency and better persuasions to please Judaizers, which even influenced Barnabas. But Paul boldly rebuked Peter and desired to revisit the brethren, setting a pattern for churches and missionaries. Paul had a heart for his converts, longing to see their face and perfect that which was lacking in their faith. The precariousness of the life of new converts in pagan lands is shown in all of Paul's Epistles, highlighting the importance of providing guidance and support to these young believers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.7035791071040631,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.99,
+            "commentatorTierSimilarities": [
+                37.72,
+                17.07,
+                45.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During this time, Peter sacrificed his Christian consistency to please Judaizers, even leading Barnabas astray. However, Paul fearlessly rebuked Peter and desired to revisit the brethren, setting a pattern for churches and missionaries. Paul had a heart for his converts, praying to see their face and strengthen their faith. The precariousness of the life of new converts in pagan lands is evident, emphasizing the need for guidance and support in their journey of faith.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.6308367668174544,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+            "commentatorTierSimilarities": [
+                37.09,
+                17.62,
+                45.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During this time, Peter sacrificed his Christian consistency to please Judaizers, leading Barnabas astray as well. However, Paul fearlessly rebuked Peter and desired to revisit the brethren, setting a pattern for churches and missionaries. Paul had a heart for his converts, praying to see their face and strengthen their faith. The precariousness of the life of new converts in pagan lands is evident, emphasizing the need for guidance and support in their journey of faith.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.637414920247904,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                37.43,
+                17.84,
+                44.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

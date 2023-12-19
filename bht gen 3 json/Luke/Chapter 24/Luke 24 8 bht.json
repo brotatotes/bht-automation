@@ -1,0 +1,57 @@
+{
+    "timestamp": "12-19-2023 16:23:35",
+    "verseRef": "Luke 24:8",
+    "bestBHT": {
+        "bht": "And they remembered his words; by which we are taught that, though they had made little proficiency in the doctrine of Christ, still it was not lost, but was choked up, until in due time it yielded fruit. Saints are sometimes apt to forget even the gracious promises of God, but the word, or words, on which they have been caused to hope, are not lost. It may seem to be choked up, but in due time, the Spirit of God, who is their best remembrancer, will put them in mind of them and bring them to fruition.",
+        "wordCount": 98,
+        "quoteTokenProportion": 58.46,
+        "qualityScore": 2.8382113473331763,
+        "qualityScoreNormalizedComparedToV2BHTs": 85.71,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "And they remembered his words; by which we are taught that, though they had made little proficiency in the doctrine of Christ, still it was not lost, but was choked up, until in due time it yielded fruit.\" "
+        ],
+        "John Gill": [
+            "And they remembered his words. [...] until the Spirit of God, who is their best remembrancer, puts them in mind of them.",
+            "Saints are sometimes apt to forget even the gracious promises of God, they have understood and received comfort from.",
+            "The word, or words, on which they have been caused to hope, until the Spirit of God, who is their best remembrancer, puts them in mind of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "And they remembered his words; by which we are taught that, though they had made little proficiency in the doctrine of Christ, still it was not lost, but was choked up, until in due time it yielded fruit. Saints are sometimes apt to forget even the gracious promises of God, but the word, or words, on which they have been caused to hope, are not lost. It may seem to be choked up, but in due time, the Spirit of God, who is their best remembrancer, will put them in mind of them and bring them to fruition.",
+            "wordCount": 98,
+            "quoteTokenProportion": 58.46,
+            "qualityScore": 2.8382113473331763,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.71,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

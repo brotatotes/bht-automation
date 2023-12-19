@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 15:28:41",
+    "verseRef": "Ephesians 2:8",
+    "bestBHT": {
+        "bht": "Salvation is not attained through our own works or merit, but rather by the grace of God. Through faith, which is a gift from God, we are saved. It is important to recognize that this gift of salvation is not something we can achieve on our own; it is entirely bestowed upon us by God's grace. Our part is to have faith, which comes through hearing God's word and prayer. Salvation is not a reward, but a demonstration of God's abundant grace.",
+        "wordCount": 85,
+        "quoteTokenProportion": 56.0,
+        "qualityScore": 2.9382618035779062,
+        "qualityScoreNormalizedComparedToV2BHTs": 89.04,
+        "commentatorTierSimilarities": [
+            28.79,
+            37.41,
+            33.8
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For by grace ... ye have been saved\" - [The clause] by grace-ye have been saved, above: but not barely so: that clause itself was inserted on account of the matter in hand being a notable example of the fact.",
+            "You have been saved, through faith\" - This \u201cthrough faith\u201d the subjective medial condition: it has been effected by grace and apprehended by faith.",
+            "Not of works, that no man should boast\" - [The salvation] not of works... that no man should boast."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye are in a saved state.",
+            "The initiation, as well as the increase, of faith, is from the Spirit of God.",
+            "Faith cometh by the means which man must avail himself of, namely, 'hearing the word of God' and prayer, though the blessing is wholly of God."
+        ],
+        "Albert Barnes": [
+            "For by grace are ye saved - By mere favor. It is not by your Own merit; it is not because you have any claim.",
+            "Whether this passage proves it or not, it is certainly true that faith is the gift of God.",
+            "It is the gift of God - Salvation by grace is his gift. It is not of merit; it is wholly by favor."
+        ],
+        "Marvin Vincent": [
+            "This may truly be called exceeding riches of grace, for ye are saved by grace.",
+            "Grace has the article, the grace of God, in vers. 5, 7.",
+            "Of God is it the gift."
+        ],
+        "John Calvin": [
+            "Salvation is not a reward or recompense, but unmixed grace.",
+            "Ought we not then to be silent about free-will, and good intentions, and fancied preparations, and merits, and satisfactions?",
+            "Faith brings a man empty to God, that he may be filled with the blessings of Christ."
+        ],
+        "Philip Schaff": [
+            "Salvation by grace is not arbitrarily attached to faith by the mere sovereign dictate of the Most High, for man\u2019s willing acceptance of salvation is essential to his possession of it\u2019 (Eadie).",
+            "He who created thee without thee, will not save thee without thee.",
+            "The gift of salvation comes from God, by whose grace we have been and are saved."
+        ],
+        "Archibald T. Robertson": [
+            "By the grace\" already mentioned in verse Ephesians 2:5 and so with the article.",
+            "Grace\" is God's part, \"faith\" ours.",
+            "Paul shows that salvation does not have its source (\u03b5\u03be \u03c5\u03bc\u03c9\u03bd, out of you) in men, but from God."
+        ],
+        "John Gill": [
+            "For by grace are ye saved,.... This is to be understood, not of temporal salvation, nor of preservation in Christ, nor of providential salvation in order to calling, and much less of being put in a way of salvation, or only in a salvable state; but of spiritual salvation, and that actual...",
+            "those interested in this salvation, are not all mankind, but particular persons; and such who were by nature children of wrath, and sinners of the Gentiles; and it is a salvation from sin, Satan, the law, its curse and condemnation, and from eternal death, and wrath to come; and includes all the blessings of grace and glory; and is entirely owing to free grace...",
+            "and this faith is not the produce of man's free will and power, but it is the free gift of God; and therefore salvation through it is consistent with salvation by grace; since that itself is of grace, lies entirely in receiving grace and gives all the glory to the grace of God"
+        ],
+        "John Wesley": [
+            "Grace, without any respect to human worthiness, confers the glorious gift.",
+            "Faith, with an empty hand, and without any pretence to personal desert, receives the heavenly blessing.",
+            "That ye are saved through faith, is the gift of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "Salvation, the state of being saved, is not something we can achieve by our own works or merit. Instead, salvation is a testimony to the amazing grace of God, by which we are saved through our faith. This faith, however, is not something we conjure up on our own, but is the gift of God. It is through this unmerited favor, this exceeding riches of grace, that we are initiated into a saved state. Our faith, the means by which we receive this gift, comes by hearing the word of God and through prayer, yet it is wholly of God. Salvation is not a reward or recompense, but an outpouring of God's unmeasurable grace upon us.",
+            "wordCount": 117,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.7961366732654334,
+            "qualityScoreNormalizedComparedToV2BHTs": 84.31,
+            "commentatorTierSimilarities": [
+                28.92,
+                37.23,
+                33.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Salvation is a testament to God's amazing grace, not our own works or merit. By this grace, we are saved through our faith, which is a gift from God. It is through this unmerited favor that we are initiated into a saved state. Our faith comes from hearing God's word and through prayer, yet it is wholly of God. Salvation is not a reward, but a manifestation of God's abundant grace bestowed upon us.",
+            "wordCount": 77,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 2.7443940504034696,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.59,
+            "commentatorTierSimilarities": [
+                29.47,
+                37.55,
+                32.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Salvation is not attained through our own works or merit, but rather by the grace of God. Through faith, which is a gift from God, we are saved. It is important to recognize that this gift of salvation is not something we can achieve on our own; it is entirely bestowed upon us by God's grace. Our part is to have faith, which comes through hearing God's word and prayer. Salvation is not a reward, but a demonstration of God's abundant grace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 56.0,
+            "qualityScore": 2.9382618035779062,
+            "qualityScoreNormalizedComparedToV2BHTs": 89.04,
+            "commentatorTierSimilarities": [
+                28.79,
+                37.41,
+                33.8
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

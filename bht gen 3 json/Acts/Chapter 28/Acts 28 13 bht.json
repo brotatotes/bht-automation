@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:37:42",
+    "verseRef": "Acts 28:13",
+    "bestBHT": {
+        "bht": "As the ship set sail, it had to navigate the adverse winds, tacking to make progress. Eventually, a favorable south wind sprung up, propelling them towards Puteoli, the renowned port serving as the gateway to Rome. The ship's arrival was easily recognized by the crowds gathered on the shore, eagerly awaiting their arrival. This stop in Puteoli, with its warm baths and ancient Roman harbor, marked a significant turning point in Paul's journey, a testament to the providence guiding their voyage.",
+        "wordCount": 83,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.7358634083210467,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.06,
+        "commentatorTierSimilarities": [
+            39.45,
+            29.71,
+            30.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This fetching a compass apparently denotes the roundabout course of a vessel tacking with an adverse wind.",
+            "As the wind was westerly, and they were under shelter of the high mountainous range of Etna on their left, they were obliged to stand out to sea in order to fill their sails.",
+            "Puteoli (anciently Dic\u00e6archia, now Puzzuoli) was the most sheltered part of the bay of Naples. It was the principal port of Southern Italy, and, in particular, formed the great emporium for the Alexandrian wheat ships."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "proceeded circuitously, or tacked, working to windward probably, and availing themselves of the sinuosities of the coast...\" ",
+            "a south wind having sprung up; being now favored with a fair wind...",
+            "By this they were easily recognized as they hove in sight by the crowds that we find gathered on the shore on such occasions."
+        ],
+        "Albert Barnes": [
+            "We fetched a compass - We coasted about; or we sailed along the eastern side of Sicily.",
+            "And came to Rhegium - This was a city of Italy, in the kingdom of Naples, on the coast near the southwest extremity of Italy. It was nearly opposite to Messina, in Sicily. It is now called 'Reggio.'",
+            "To Puteoli - The wells. This place was celebrated for its warm baths, and from these and its springs it is supposed to have derived its name of The Wells. It is now called 'Pozzuoli,' and is in the campania of Naples, on the north side of the bay, and about 8 miles northwest from Naples."
+        ],
+        "Philip Schaff": [
+            "The meaning of this English phrase is... that they did not sail in a straight course.\"  ",
+            "It is a curious coincidence that the ancient coins of Rhegium exhibit Castor and Pollux as twin brothers, with stars above their heads.\"  ",
+            "In fact, the most perfect ruin existing of any ancient Roman harbour is that which is for ever connected with the memory of St. Paul\u2019s arrival in ltalv."
+        ],
+        "Archibald T. Robertson": [
+            "But Westcott and Hort read \u03c0\u03b5\u03c1\u03b9\u03b5\u03bb\u03bf\u03bd\u03c4\u03b5\u03c2 after Aleph B (from \u03c0\u03b5\u03c1\u03b9\u03b1\u03b9\u03c1\u03b5\u03c9) as in Acts 27:40, though here it could only mean casting loose, for which no other authority exists.",
+            "A south wind sprang up (\u03b5\u03c0\u03b9\u03b3\u03b5\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03c5 \u03bd\u03bf\u03c4\u03bf\u03c5). Genitive absolute again, and for all the world like that fatal south wind in Acts 27:13, but with no bad results this time, though the weather was plainly treacherous at this early season.",
+            "To Puteoli (\u03b5\u03b9\u03c2 \u03a0\u03bf\u03c4\u03b9\u03bf\u03bb\u03bf\u03c5\u03c2). It was 182 miles from Rhegium and would require 26 hours (Page). It was eight miles northwest from Neapolis (Naples) and the chief port of Rome, the regular harbour for the Alexandrian ships from Rome. Portions of the great mole are said to be still visible."
+        ],
+        "John Gill": [
+            "they had a south wind, which was favourable to them.",
+            "the sea being called after its name, \"mare Puteolanum\", the sea of Puteoli.",
+            "the vast number of people at Rome, and the noise, hurry, and tumult there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the ship embarked on its journey, it had to navigate the adverse winds, tacking back and forth in order to make progress. After a while, a south wind sprang up, providing them with a fair wind to Puteoli, the renowned port serving as the gateway to Rome. The ship's arrival was easily recognized by the crowds that gathered on the shore, eagerly awaiting its arrival. This stop in Puteoli, with its warm baths and ancient Roman harbor, would mark a significant turning point in the journey of Paul and his companions.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7056620953894157,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.06,
+            "commentatorTierSimilarities": [
+                38.91,
+                28.81,
+                32.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the ship set sail, it had to navigate the adverse winds, tacking to make progress. Eventually, a favorable south wind sprung up, propelling them towards Puteoli, the renowned port serving as the gateway to Rome. The ship's arrival was easily recognized by the crowds gathered on the shore, eagerly awaiting their arrival. This stop in Puteoli, with its warm baths and ancient Roman harbor, marked a significant turning point in Paul's journey, a testament to the providence guiding their voyage.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.7358634083210467,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.06,
+            "commentatorTierSimilarities": [
+                39.45,
+                29.71,
+                30.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the ship embarked on its journey, it had to navigate the adverse winds, tacking back and forth to make progress. After a while, a south wind sprang up, providing them with a fair wind to their destination. The ship's arrival was easily recognized by the crowds that gathered on the shore, eagerly awaiting its arrival. This stop in Puteoli, the principal port of Southern Italy, was a significant milestone in the journey, marking the gateway to Rome and the next phase of the apostle Paul's mission.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.606895660805136,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.77,
+            "commentatorTierSimilarities": [
+                42.14,
+                24.96,
+                32.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the ship embarked on its journey, it had to navigate the adverse winds, tacking back and forth to make progress. After a while, a south wind sprang up, providing them with a fair wind to their destination. The ship's arrival was easily recognized by the crowds that gathered on the shore, eagerly awaiting its arrival. This stop in Puteoli, the renowned port serving as the gateway to Rome, marked a significant turning point in Paul's journey, guiding their voyage towards its ultimate destination.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.6102463018664026,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.88,
+            "commentatorTierSimilarities": [
+                42.25,
+                25.03,
+                32.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the ship set sail, it had to navigate the adverse winds by tacking back and forth for progress. Eventually, a south wind sprang up, providing a fair wind to their destination. The ship's arrival was easily recognized by the crowds eagerly awaiting it on the shore. This stop in Puteoli, the renowned port for Alexandrian wheat ships, marked a significant milestone in Paul's journey, as it served as the principal gateway to Rome, where his mission would continue.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.6714145242986276,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.92,
+            "commentatorTierSimilarities": [
+                43.96,
+                24.08,
+                31.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

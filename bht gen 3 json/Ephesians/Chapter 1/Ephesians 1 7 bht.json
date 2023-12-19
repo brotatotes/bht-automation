@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:29:53",
+    "verseRef": "Ephesians 1:7",
+    "bestBHT": {
+        "bht": "In Christ, we have redemption through His blood and the propitiation for the sin of the world. This redemption goes beyond just deliverance and forgiveness; it grants us liberty, glory, and the inheritance of God's children, the crown of eternal life. The cost of this redemption is the blood of Christ, freely shed on the cross. Through His blood, we receive divine grace and acceptance with the Father, breaking free from the bondage of sin and experiencing reconciliation with God. This redemption is a demonstration of God's abundant grace.",
+        "wordCount": 91,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 2.526490874101813,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.35,
+        "commentatorTierSimilarities": [
+            28.09,
+            34.36,
+            37.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In whom we have the (or, our) Redemption through His blood... the propitiation, in our nature, for the sin of the world.\" ",
+            "Not the death of the victim, but its BLOOD, was the typical instrument of expiation.",
+            "We have in this grace not only redemption from misery and wrath, not only forgiveness\u2014but we find in it the liberty, the glory, the inheritance of the children of God\u2014the crown of eternal life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "THE redemption which is the grand subject of all revelation, and especially of the New Testament.",
+            "His own love... consideration... for which He, who was justly angry... becomes propitious to us.",
+            "This 'remission,' being the explanation of 'redemption,' includes not only deliverance from sin's penalty, but from its pollution and enslaving power, negatively; and the reconciliation of an offended God, and a satisfaction unto a just God, positively."
+        ],
+        "Albert Barnes": [
+            "This verse is one of the passages which prove conclusively that the apostle here does not refer to 'nations' and to 'national privileges.'",
+            "We obtain through his blood, or through the atonement which he has made, the forgiveness of sins.",
+            "According to his rich grace."
+        ],
+        "Marvin Vincent": [
+            "The divine purpose is being accomplished in the lives of believers.",
+            "Forgiveness specifies the peculiar quality of redemption.",
+            "Riches."
+        ],
+        "John Calvin": [
+            "By his death he has restored us to favor with the Father; and therefore we ought always to direct our minds to the blood of Christ, as the means by which we obtain divine grace.",
+            "We obtain by free grace that righteousness by which we are accepted of God, and freed from the chains of the devil and of death.",
+            "The apostle feels himself unable to celebrate, in a proper manner, the goodness of God, and desires that the contemplation of it would occupy the minds of men till they are entirely lost in admiration."
+        ],
+        "Philip Schaff": [
+            "In Christ, as the living sphere of redemption, the purpose already set forth finds its present accomplishment.",
+            "The redemption is through his blood. The expiation set forth in the types of the Mosaic ritual is really made through the shedding of His blood.",
+            "God\u2019s grace is the ultimate ground of our redemption; that grace has other forms of manifestation, but none greater than that of the atonement through the blood of the Beloved."
+        ],
+        "Archibald T. Robertson": [
+            "Clearly Paul makes the blood of Christ the cost of redemption, the ransom money.",
+            "Just like Colossians 1:14 with \u03c0\u03b1\u03c1\u03b1\u03c0\u03c4\u03c9\u03bc\u03b1\u03c4\u03c9\u03bd (trespasses) in place of \u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03c9\u03bd (sins).",
+            "See Colossians 1:9."
+        ],
+        "John Gill": [
+            "Redemption supposes captivity and slavery, and is a deliverance out of it; God's elect by nature are in bondage to sin, Satan, and the law; through the grace of Christ, they are redeemed from all iniquity.\" ",
+            "And this comes to them through the blood of Christ, which was freely shed on the cross to procure it; and was a sufficient ransom, or redemption price; it being not only the same blood with those who are redeemed, but the blood of an innocent person; and not of a mere man, but of one who is truly and properly God, as well as man.",
+            "God of his rich grace found the ransom price, and gave his Son, as well as he gave himself, his life, a ransom for many; and how much soever it cost Christ to procure redemption and pardon, they are free to his people; who are redeemed without money and price of theirs, and whose sins are forgiven freely for Christ's sake."
+        ],
+        "John Wesley": [
+            "Redemption - From the guilt and power of sin.",
+            "Through his blood - Through what he hath done and suffered for us.",
+            "According to the riches of his grace - According to the abundant overflowings of his free mercy and favour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Christ, we find our redemption through His blood, the propitiation for the sin of the world. This redemption is not only deliverance from misery and wrath, but also forgiveness and the inheritance of the children of God. It includes not just deliverance from sin's penalty and pollution, but also the reconciliation of an offended God and a satisfaction unto a just God. The cost of this redemption is the blood of Christ, freely shed on the cross. Our sins are forgiven freely for Christ's sake, according to the riches of God's grace. Through His blood, we obtain divine grace and acceptance with the Father, being freed from the chains of the devil and of death.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.4887813737895232,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.09,
+            "commentatorTierSimilarities": [
+                28.74,
+                33.0,
+                38.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Christ, our redemption is found through His blood, serving as the propitiation for the sins of the world. This redemption not only grants deliverance from misery and wrath, but also forgiveness and the inheritance of God's children, the crown of eternal life. The cost of this redemption is the blood of Christ, freely shed to procure it. Through His blood, we obtain divine grace, acceptance with the Father, and freedom from the chains of sin, Satan, and death. This redemption is an abundant overflow of God's rich grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.5258633298026734,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.32,
+            "commentatorTierSimilarities": [
+                28.52,
+                34.27,
+                37.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Christ, we have redemption through His blood and the propitiation for the sin of the world. This redemption goes beyond just deliverance and forgiveness; it grants us liberty, glory, and the inheritance of God's children, the crown of eternal life. The cost of this redemption is the blood of Christ, freely shed on the cross. Through His blood, we receive divine grace and acceptance with the Father, breaking free from the bondage of sin and experiencing reconciliation with God. This redemption is a demonstration of God's abundant grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.526490874101813,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.35,
+            "commentatorTierSimilarities": [
+                28.09,
+                34.36,
+                37.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Christ, we find our redemption through His blood, the propitiation for the sin of the world. This redemption includes deliverance from misery and wrath, forgiveness, and the inheritance of the children of God. The cost of this redemption is the blood of Christ, freely shed on the cross. Through His blood, we obtain divine grace and acceptance with the Father, being freed from the chains of the devil and of death. This redemption is an abundant overflow of God's rich grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4741566997597957,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.61,
+            "commentatorTierSimilarities": [
+                28.32,
+                34.24,
+                37.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Christ, our redemption is found through His blood, the propitiation for the sin of the world. It is not just deliverance from misery and wrath, but also forgiveness and the inheritance of God's children. The cost of this redemption is the blood of Christ, freely shed on the cross. Through His blood, we obtain divine grace and acceptance with the Father, breaking free from the chains of sin and experiencing reconciliation with God. This redemption is a manifestation of God's abundant grace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.4978525945831214,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.39,
+            "commentatorTierSimilarities": [
+                28.37,
+                34.88,
+                36.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

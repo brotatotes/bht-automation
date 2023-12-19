@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:26:05",
+    "verseRef": "Acts 4:19",
+    "bestBHT": {
+        "bht": "The apostles boldly declared that they would obey God rather than any human authority, recognizing that the question at hand was not just a matter of reputation or safety, but a matter of conscience before God. Their love for Christ motivated them to fearlessly and unreservedly proclaim God's message, even at the risk of their own lives. They were willing to die a thousand times instead of compromising their allegiance to God and submitting to the demands of human authority.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.5406197290222576,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.57,
+        "commentatorTierSimilarities": [
+            0.0,
+            48.43,
+            51.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The grand question was how God would regard it. If he disapproved it, it was wrong. It was not merely a question pertaining to their reputation, safety, or life; it was a question of conscience before God.",
+            "It is, to lay their safety, reputation, and life out of view, and bring everything to the test whether it will please God. If it will, it is right; if it will not, it is wrong.",
+            "As a mere historical fact, therefore, it is interesting to contemplate this, and still more interesting in its important bearings on human liberty and human happiness."
+        ],
+        "John Calvin": [
+            "But because they do abuse their authority, the apostles say flatly that they are not to be obeyed.",
+            "The obedience which men use toward evil and unfaithful pastors... is contrary to God.",
+            "Therefore, by what title soever men be called, yet must we hear them only upon this condition, if they lead us not away from obeying God."
+        ],
+        "Philip Schaff": [
+            "The Eternal is appealed to as the ever-present Judge, as sitting invisible in that august council before whom they were then pleading.",
+            "The love of Christ constrains us; we cannot drown the voice we know to be God\u2019s voice, which forbids us to suppress our message.",
+            "Athenians, I will obey God rather than you; and if you would let me go, and give me my life on condition that I should no more teach my fellow-citizens, sooner than agree to your proposal I would prefer to die a thousand times."
+        ],
+        "John Gill": [
+            "With great boldness and courage, and without any fear of man, but in the true fear of God.",
+            "Whether it be right in the sight of God; who is omniscient, and sees, and knows all things, all the actions of men, and the springs of them; who is holy, just, and true, and sits and judges among the gods, that which is right.",
+            "To hearken unto you more than unto God, judge ye: it is not denied that magistrates are to be hearkened to, and obeyed: but not more than God, or in things that are contrary to his nature, will, law, honour, and glory."
+        ],
+        "John Wesley": [
+            "Whether it be just to obey you rather than God, judge ye.\" ",
+            "O ye Athenians, I embrace and love you; but I will obey God rather than you.",
+            "And if you would spare my life on condition I should cease to teach my fellow citizens, I would die a thousand times rather than accept the proposal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostles firmly declared that they would obey God rather than any human authority. They understood that the question at hand was not a matter of reputation, safety, or life, but a question of conscience before God. They were unyielding in their obedience to the One who sat in the council and judged all things. Their love for Christ compelled them to proclaim God's message, even at the risk of their own lives. They were willing to die a thousand times rather than compromise their allegiance to God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.3661868780785753,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.77,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.46,
+                51.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostles made it clear that they would prioritize the obedience to God over any human authority. For them, it wasn't just about reputation or safety; it was a matter of conscience before God. Their love for Christ urged them to proclaim God's message boldly and fearlessly, regardless of the consequences. They were willing to face death numerous times rather than compromise their commitment to obeying God above all else.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.4318926598198563,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.95,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.73,
+                53.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles boldly declared that they would obey God rather than any human authority, recognizing that the question at hand was not just a matter of reputation or safety, but a matter of conscience before God. Their love for Christ motivated them to fearlessly and unreservedly proclaim God's message, even at the risk of their own lives. They were willing to die a thousand times instead of compromising their allegiance to God and submitting to the demands of human authority.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5406197290222576,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.57,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.43,
+                51.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostles unequivocally affirmed their commitment to prioritize obedience to God over any human authority. They recognized that the key question was not merely about their reputation, safety, or life, but rather a matter of conscience before God Himself. Their love for Christ motivated them to boldly proclaim God's message without fear of man. They were prepared to endure any hardship, even death, rather than compromise their dedication to God.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.3832105147914593,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.33,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.57,
+                53.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostles firmly declared that they would obey God rather than any human authority. They understood that the question at hand was not a matter of reputation, safety, or life, but a question of conscience before God. They were unyielding in their obedience to the One who sat in the council and judged all things. Their love for Christ compelled them to proclaim God's message, even at the risk of their own lives. They were willing to die a thousand times rather than compromise their allegiance to God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.3661868780785753,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.77,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.46,
+                51.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

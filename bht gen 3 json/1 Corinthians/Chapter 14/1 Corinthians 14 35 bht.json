@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:13:25",
+    "verseRef": "1 Corinthians 14:35",
+    "bestBHT": {
+        "bht": "In the Corinthian church, women were prohibited from asking questions publicly, as it was considered indecent and brought reproach. They were urged to learn from their own husbands in private and avoid seeking information in public. This did not mean they couldn't speak or pray in gatherings of their own sex, but rather they should refrain from public teaching and praying. To maintain propriety, women were advised to ask their husbands at home if they had any inquiries. This instruction aimed to prevent unseemliness and maintain order in the church.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.6480502110483004,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.14,
+        "commentatorTierSimilarities": [
+            25.95,
+            39.86,
+            34.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This prohibits another kindred irregularity\u2014their asking questions publicly.",
+            "The stress is on learn, their own, confining them to their own husbands, to the exclusion of other men.",
+            "A shame, indecent, bringing deserved reproach."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Women may say, 'But if we do not understand something, may we not 'ask' a question publicly so as to 'learn'?\" ",
+            "If you want information, 'ask' not in public, but 'at home'; ask not other men, but 'your own particular (so the Greek) husbands.'",
+            "shame\u2014indecorous."
+        ],
+        "Albert Barnes": [
+            "Their station in life demands modesty, humility, and they should be free from the ostentation of appearing so much in public as to take part in the public services of teaching and praying.\" ",
+            "It does not become their rank in life; it is not fulfilling the object which God evidently intended them to fill.",
+            "But this cannot be interpreted as meaning that it is improper for females to speak or to pray in meetings of their own sex, assembled for prayer or for benevolence; nor that it is improper for a female to speak or to pray in a Sunday School."
+        ],
+        "John Calvin": [
+            "He desires them, if they are in doubt as to anything, to inquire in private, that they may not stir up any disputation in public.",
+            "When he says, husbands, he does not prohibit them from consulting the Prophets themselves if necessary.",
+            "It is the part of the prudent reader to consider that the things of which he here treats are intermediate and indifferent, in which there is nothing unlawful, but what is at variance with propriety and edification."
+        ],
+        "Philip Schaff": [
+            "And if they will learn anything an explanation of something spoken at the meeting, let them ask their own husbands at home: for it is shameful for a woman to speak in the church.",
+            "What forced on the question whether such a gift should be exercised in the public assemblies, was a certain unseemliness about it, as practised at Corinth, which so impressed some in that Church as to occasion one of their questions for the apostle to answer.",
+            "Attempts have been made to show that only despotic teaching is meant; but the next words 'but to be in quietness,' should show that entire silence in the public assemblies, in the exercise of gifts, is manifestly intended."
+        ],
+        "John Gill": [
+            "If they are desirous of learning anything in relation to doctrine, duty, or discipline, and of improving their knowledge of divine things, which is very commendable in them...",
+            "For though men might ask one another concerning this, and the other point, in the church, as was usual in the synagogue worship, to which this church at Corinth in many things conformed; yet women were not allowed this freedom...",
+            "It is a shame to themselves, as being contrary to the natural modesty and bashfulness of the sex, and a shame to the church, to the non-members of it, and especially to the elders, and more experienced part of it, to be taught and directed by a woman..."
+        ],
+        "John Wesley": [
+            "Still they are not to speak in public, but to ask their own husbands at home.\" ",
+            "That is the place, and those the persons to inquire of.",
+            "Those the persons to inquire of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Women in the Corinthian church were prohibited from asking questions publicly, as it was considered indecent and brought reproach to the church. They were instructed to confine their learning to their own husbands and refrain from seeking information in public. This restriction did not mean that women were forbidden from speaking or praying in gatherings of their own sex, but rather that they should not participate in public teaching and praying. If they had any inquiries, they were encouraged to ask their husbands at home in order to maintain propriety. This instruction aimed to prevent any unseemliness and maintain order in the church.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6442707357588657,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                25.55,
+                39.2,
+                35.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Corinth, women were prohibited from publicly asking questions, as it was considered indecent and brought shame to the church. They were encouraged to confine their learning to their own husbands and refrain from seeking information in public. This did not mean women couldn't speak or pray in gatherings of their own sex, but rather they should avoid participating in public teaching and praying. If they had inquiries, they were to ask their husbands at home. This instruction aimed to prevent unseemliness and maintain order in the church.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.622568626726706,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+            "commentatorTierSimilarities": [
+                25.55,
+                38.68,
+                35.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Corinthian church, women were prohibited from asking questions publicly, as it would bring reproach and was deemed indecent. Instead, they were instructed to learn from their own husbands in private. Women were not forbidden from speaking or praying in gatherings among their own sex, but the restriction was placed on participating in public teaching. The aim was to maintain order and avoid any unseemliness that may arise. Thus, women were encouraged to seek knowledge within the confines of their own homes.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5509568586114644,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.91,
+            "commentatorTierSimilarities": [
+                30.8,
+                37.1,
+                32.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the Corinthian church, women were prohibited from publicly asking questions, as it was considered indecent and brought reproach to the church. They were instructed to confine their learning to their own husbands and refrain from seeking information in public. This restriction did not mean that women were forbidden from speaking or praying in gatherings of their own sex, but rather that they should not participate in public teaching and praying. If they had any inquiries, they were encouraged to ask their husbands at home to maintain propriety. This instruction aimed to prevent unseemliness and maintain order in the church.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.630859983278361,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+            "commentatorTierSimilarities": [
+                25.09,
+                39.37,
+                35.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the Corinthian church, women were prohibited from asking questions publicly, as it was considered indecent and brought reproach. They were urged to learn from their own husbands in private and avoid seeking information in public. This did not mean they couldn't speak or pray in gatherings of their own sex, but rather they should refrain from public teaching and praying. To maintain propriety, women were advised to ask their husbands at home if they had any inquiries. This instruction aimed to prevent unseemliness and maintain order in the church.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6480502110483004,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.14,
+            "commentatorTierSimilarities": [
+                25.95,
+                39.86,
+                34.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

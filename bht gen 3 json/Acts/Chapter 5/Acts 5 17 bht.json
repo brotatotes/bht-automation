@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:26:42",
+    "verseRef": "Acts 5:17",
+    "bestBHT": {
+        "bht": "The Sadducees, who vehemently opposed the teaching of the resurrection, were the chief enemies of the Apostles. Envious of their success, they were filled with blind fury and rage, fiercely resisting godliness with a false show of zeal. Led by the high priest, who was likely a Sadducee himself, they rose up to violently crush the apostles. Despite witnessing the power of God, their anger and bitterness only grew stronger. This prevailing Sadducism among those in power intensified the persecution faced by the followers of Christ.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.719392274087864,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+        "commentatorTierSimilarities": [
+            19.48,
+            41.82,
+            38.71
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He thought he ought to be quiet no longer.\" - Bengel",
+            "He was roused to action by what had been done.\" - Chrysostom.",
+            "They were the chief enemies of the Apostles, for teaching the resurrection."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17-23. sect of the Sadducees\u2014See",
+            "\ton Acts 4:1 for the reason why",
+            "\tthis is specified."
+        ],
+        "Albert Barnes": [
+            "It seems from this place that he belonged to the sect of the Sadducees.",
+            "The main doctrine of this sect was the denial of the resurrection of the dead.",
+            "They were 'envious' at the success of the apostles - at the number of converts that were made to a doctrine that they hated."
+        ],
+        "John Calvin": [
+            "We may gather with what blind fury and rage Satan driveth them forward, when as they are so little terrified with such evident power of God, that they run headlong more boldly, and with greater force, and bend all their force, as it were, to overthrow the very heaven.",
+            "The knowledge of the gifts of God, whereby he testifieth that he is present with us, ought to encourage us, lest the fury and boldness of the wicked do terrify and dismay us.",
+            "We understand rather a hot and unbridled violence; for although the wicked be accused of their own consciences, because they wittingly resist godliness, yet do they deceive themselves with a false show of zeal."
+        ],
+        "Philip Schaff": [
+            "Then the high priest rose up...to try and crush them by violent measures.\" ",
+            "All they that were with him...in his bitter hatred of Christ\u2019s followers.",
+            "The fear and anger of the Sadducees were more than ever stirred up... Annas heartily joined."
+        ],
+        "Archibald T. Robertson": [
+            "\u03b7 \u03bf\u03c5\u03c3\u03b1 \u03b1\u03b9\u03c1\u03b5\u03c3\u03b9\u03c2 \u03c4\u03c9\u03bd \u03a3\u03b1\u03b4\u03b4\u03bf\u03c5\u03ba\u03b1\u03b9\u03c9\u03bd\" (Translation: \"the existing sect of the Sadducees\")",
+            "H\u03b1\u03b9\u03c1\u03b5\u03c3\u03b9\u03c2 means a choosing, from \u03b1\u03b9\u03c1\u03b5\u03bf\u03bc\u03b1, to take for oneself, to choose, then an opinion chosen or tenet (possibly 2 Peter 2:1), then parties or factions (Galatians 5:20; 1 Corinthians 11:19; possibly 2 Peter 2:1).",
+            "Already Luke has stated that the Sadducees started the persecution of Peter and John (Acts 4:1). Now it is extended to 'the apostles' as a whole since Christianity has spread more rapidly in Jerusalem than before it began."
+        ],
+        "John Gill": [
+            "Great care indeed was taken of an high priest, that he should not be a Sadducee; on the eve of the day of atonement they always swore the high priest, lest he should be a Sadducee.",
+            "This made the high priest and his party very uneasy; whence it seems that the then high priest was a Sadducee, and also the sanhedrim at that time.",
+            "Sadducism now seemed greatly to prevail among men in power; and the Jews say, 'the son of David will not come until the whole government is turned to the opinion of the Sadducees.'"
+        ],
+        "John Wesley": [
+            "The high priest \u2014 and the sect of the Sadducees - A goodly company for the priest!",
+            "He, and these deniers of any angel or resurrection, were filled with zeal.",
+            "Angry, bitter, persecuting zeal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief enemies of the Apostles were the Sadducees, who vehemently opposed the teaching of the resurrection. They were envious of the success of the apostles and driven by blind fury and rage to crush them. The high priest, who was likely a Sadducee himself, rose up with his party to try and crush the apostles by violent measures. Despite witnessing the evident power of God, the wicked were not terrified, but instead fiercely resisted godliness with a false show of zeal. The prevalence of Sadducism among those in power made the situation even more challenging, as the high priest and his party were filled with angry, bitter, and persecuting zeal against the followers of Christ.",
+            "wordCount": 116,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.769779847879522,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.19,
+            "commentatorTierSimilarities": [
+                18.59,
+                40.14,
+                41.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Sadducees, the chief enemies of the Apostles, were filled with envy at the success of their teaching on the resurrection. Driven by blind fury and rage, they fiercely resisted godliness with a false show of zeal. The high priest, a likely Sadducee himself, rose up with his party to violently crush the apostles. Despite witnessing the evident power of God, the wicked were not terrified, but instead, their anger and bitterness grew. This prevailing Sadducism among those in power intensified the persecution and opposition faced by the followers of Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.6696894082478173,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+            "commentatorTierSimilarities": [
+                17.21,
+                40.79,
+                42.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Sadducees, who vehemently opposed the teaching of the resurrection, were the chief enemies of the Apostles. Envious of their success, they were filled with blind fury and rage, fiercely resisting godliness with a false show of zeal. Led by the high priest, who was likely a Sadducee himself, they rose up to violently crush the apostles. Despite witnessing the power of God, their anger and bitterness only grew stronger. This prevailing Sadducism among those in power intensified the persecution faced by the followers of Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.719392274087864,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                19.48,
+                41.82,
+                38.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Sadducees, known as the existing sect of chief enemies to the Apostles, were filled with envy and blind fury at the success of the resurrection teaching. Led by the high priest, they violently sought to crush the apostles, displaying a false show of zeal and bitter persecution. Despite witnessing the evident power of God, their anger only intensified. This prevailing Sadducism among those in power contributed to the growing opposition faced by the followers of Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.65085127590008,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+            "commentatorTierSimilarities": [
+                19.49,
+                41.91,
+                38.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief enemies of the Apostles were the Sadducees, filled with envy and blind fury at the success of the resurrection teaching. Led by the high priest, they violently sought to crush the apostles with a false show of zeal and bitter persecution. Despite witnessing the power of God, their anger only intensified. This prevailing Sadducism among those in power intensified the opposition faced by the followers of Christ.",
+            "wordCount": 69,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.6538487165481284,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "commentatorTierSimilarities": [
+                18.93,
+                42.64,
+                38.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:36:40",
+    "verseRef": "Acts 26:13",
+    "bestBHT": {
+        "bht": "Amidst the brightness surpassing the sun, a supernatural light appeared at midday, overwhelming Saul and his companions to the point of falling to the ground. As Saul stood illuminated by this glorious sea of light, he saw the form of the crucified and resurrected Jesus, perhaps recognizing the marks of the Passion he had previously derided. This awe-inspiring manifestation of divine revelation compelled Saul to humbly surrender and obediently follow God's heavenly oracle, no longer kicking against His will.",
+        "wordCount": 81,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.761140628574827,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+        "commentatorTierSimilarities": [
+            20.65,
+            51.55,
+            27.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "13.] See notes on ch. ix. 3\u20138, where I have treated of the discrepancies, real or only apparent, between the three accounts of Saul\u2019s conversion. See also ch. xxii. 6\u201310."
+        ],
+        "Marvin Vincent": [
+            "Above the brightness of the sun.\" - Peculiar to this third account of Paul's conversion.",
+            "The falling of his companions to the ground along with himself.",
+            "It is hard for thee to kick against the pricks."
+        ],
+        "John Calvin": [
+            "For though he fell to the earth for fear, yet he heareth a plain voice; he asketh who it was that spake; he understandeth the answer which was made, which are signs that he was not beside himself.\" ",
+            "Hereupon it followeth that he did not rashly change his mind, but did godlily and holily obey the heavenly oracle, lest he should of set purpose proceed to strive against God.",
+            "Quae mentis sanitatem vel judicium illi eriperet,\" as deprived him of his sober senses, or the power of judging."
+        ],
+        "Philip Schaff": [
+            "A light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.",
+            "Bathed, so to speak, in this glorious sea of light, Saul saw the form of Him that had been crucified and had risen again.",
+            "May we not say without temerity, that, as he gazed, the relentless foe of the Nazarene and His hated sect saw, on that transfigured form, some of the marks of the Passion which he had so often derided and spoken of as the well-earned guerdon of a false impostor."
+        ],
+        "Archibald T. Robertson": [
+            "At midday, more vivid than \u03bc\u03b5\u03c3\u03b7\u03bc\u03b2\u03c1\u03b9\u03b1\u03bd.",
+            "Indicating the supernatural character of the light.",
+            "Paul here (verse Acts 26:16) blends together what Jesus said to him directly and the message of Jesus through Ananias (Acts 9:15)."
+        ],
+        "John Gill": [
+            "This circumstance is omitted in Acts 9:3.",
+            "It was a greater light than that, or otherwise it could not have been discerned at noon.",
+            "This account of the greatness of the light is not in the other places where this narrative is given."
+        ],
+        "John Wesley": [
+            "Most seasonably, in the height of the narration, does he thus fix the king's attention.",
+            "And no marvel. For what is the brightness of this created sun, to the Sun of righteousness, the brightness of the Father's glory?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At midday, a supernatural light brighter than the sun enveloped Saul and his companions, causing them to fall to the ground. In this vision, Saul heard the voice of Jesus speaking to him, merging what Jesus said directly to him and through Ananias. As Saul gazed upon the transfigured form of the crucified and risen Christ, he could not help but see some of the marks of the Passion he had previously derided. This incredible display of light and revelation was undoubtedly an overpowering experience, leading Saul to fully submit to the divine will and cease his opposition against God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.7055505435833842,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                23.79,
+                52.05,
+                24.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At midday, a supernatural light brighter than the sun enveloped Saul and his companions, causing them to fall to the ground. In this vision, Saul heard the voice of Jesus speaking to him. This experience marked the merging of what Jesus said directly to Saul and what was conveyed through Ananias. As Saul gazed upon the transfigured form of the crucified and risen Christ, he beheld the marks of the Passion, which he had previously mocked. This extraordinary display of light and revelation compelled Saul to submit to God's will.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.6857718564670467,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "commentatorTierSimilarities": [
+                25.49,
+                50.46,
+                24.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the day, a supernatural light brighter than the sun surrounded Saul and his companions, causing them to fall to the ground. This striking vision united the words of Jesus spoken directly to Saul and the message conveyed through Ananias. As Saul beheld the transfigured form of the crucified and risen Christ, he recognized the marks of the Passion, which he had previously scorned. This powerful manifestation of light and revelation compelled Saul to wholeheartedly surrender to God's divine plan.",
+            "wordCount": 84,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.6584735082164972,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
+            "commentatorTierSimilarities": [
+                24.11,
+                53.64,
+                22.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At midday, a supernatural light brighter than the sun bathed Saul and his companions, causing them to fall to the ground. In this extraordinary vision, Saul heard the voice of Jesus speaking to him. He witnessed the transfigured form of the crucified and risen Christ, beholding the marks of the Passion he had once ridiculed. This incredible display of light and revelation compelled Saul to fully submit to God's will and cease his opposition against Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.7099970759627927,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                23.53,
+                50.86,
+                25.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst the brightness surpassing the sun, a supernatural light appeared at midday, overwhelming Saul and his companions to the point of falling to the ground. As Saul stood illuminated by this glorious sea of light, he saw the form of the crucified and resurrected Jesus, perhaps recognizing the marks of the Passion he had previously derided. This awe-inspiring manifestation of divine revelation compelled Saul to humbly surrender and obediently follow God's heavenly oracle, no longer kicking against His will.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.761140628574827,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+            "commentatorTierSimilarities": [
+                20.65,
+                51.55,
+                27.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:28:36",
+    "verseRef": "1 Timothy 4:9",
+    "bestBHT": {
+        "bht": "Faithful is the saying and worthy of all acceptation. We toil and suffer reproach because we have set our hope on the living God, who is the Savior of all men, especially those that believe. God supplies his people with everything necessary for a happy life and instructs believers to open the door to the grace of God. This is a faithful saying that godliness has promises attached to it, worthy of all acceptation to encourage the exercise of godliness.",
+        "wordCount": 80,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 2.0225459881059367,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+        "commentatorTierSimilarities": [
+            33.75,
+            29.73,
+            36.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Faithful is the saying and worthy of all acceptation.",
+            "[We] toil and suffer reproach, because we have set our hope on the living God.",
+            "He is the Saviour of all men, especially them that believe."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "faithful is the saying, &amp;c. confirms the assertion as to the 'promise' attached to 'godliness'",
+            "Godly men seem to suffer loss as to this life: Paul hereby refutes the notion.",
+            "God is the Savior specially of those that believe, both as to 'the life that now is,' and also as to 'the life which is to come'."
+        ],
+        "Albert Barnes": [
+            "This is a faithful saying - see the notes on 1 Timothy 1:15."
+        ],
+        "John Calvin": [
+            "God supplies his people, in this world, with everything that is necessary for a happy and joyful life; since they are often destitute of all good things, and, on that account, appear to be forsaken by God.",
+            "He wards off all opposing temptations by this shield, and in this manner instructs believers to open the door to the grace of God, which our unbelief shuts out.",
+            "If we were willing to receive God\u2019s benefits, he would use greater liberality toward us."
+        ],
+        "Philip Schaff": [
+            "This is a faithful saying. At first, it might seem as if the words referred to what had immediately preceded, and it is possible that they do so here; but the rule in all other cases is that they precede the truth to which they refer.\" ",
+            "The verse that follows is sufficiently axiomatic in its substance to have the character of a \u2018faithful saying.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "See 1 Timothy 1:15 for these very words, but here the phrase points to the preceding words, not to the following as there. "
+        ],
+        "John Gill": [
+            "This is a faithful saying...that godliness has such promises annexed to it.",
+            "A true one, and to be believed.",
+            "Worthy of all acceptation...to encourage them to the exercise of godliness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faithful is the saying and worthy of all acceptation. We toil and suffer reproach because we have set our hope on the living God. He is the Savior of all men, especially them that believe. God is the Savior specially of those that believe, both as to the life that now is, and also as to the life which is to come. God supplies his people, in this world, with everything that is necessary for a happy and joyful life. He wards off all opposing temptations by this shield, and in this manner instructs believers to open the door to the grace of God. This is a faithful saying that godliness has such promises annexed to it, and it is worthy of all acceptation to encourage them to the exercise of godliness.",
+            "wordCount": 132,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.832658852998911,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.28,
+            "commentatorTierSimilarities": [
+                35.36,
+                26.64,
+                38.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faithful is the saying and worthy of all acceptation. We toil and suffer reproach because we have set our hope on the living God. He is the Savior of all men, especially them that believe. God supplies his people, in this world, with everything necessary for a happy and joyful life. He instructs believers to open the door to the grace of God, which our unbelief shuts out. This is a faithful saying that godliness has such promises, worthy of all acceptation to encourage the exercise of godliness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.823732365580466,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.98,
+            "commentatorTierSimilarities": [
+                34.3,
+                27.18,
+                38.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faithful is the saying and worthy of all acceptation. We toil and suffer reproach because we have set our hope on the living God, who is the Savior of all men, especially those that believe. God supplies his people with everything necessary for a happy life and instructs believers to open the door to the grace of God. This is a faithful saying that godliness has promises attached to it, worthy of all acceptation to encourage the exercise of godliness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.0225459881059367,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+            "commentatorTierSimilarities": [
+                33.75,
+                29.73,
+                36.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faithful is the saying and worthy of all acceptation. We toil and suffer reproach because we have set our hope on the living God, who is the Savior of all men. Godly men seem to suffer loss as to this life, but God supplies his people with everything necessary for a happy and joyful life. By opening the door to the grace of God, believers can ward off opposing temptations. This is a faithful saying that godliness has such promises attached to it, encouraging the exercise of godliness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.8845861932310528,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                34.3,
+                27.76,
+                37.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faithful is the saying and worthy of all acceptation. We toil and suffer reproach because we have set our hope on the living God, who is the Savior of all men. God supplies his people with everything necessary for a happy and joyful life. By opening the door to the grace of God, believers can ward off opposing temptations. This is a faithful saying that godliness has promises attached to it, encouraging the exercise of godliness.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.8367015339763941,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.41,
+            "commentatorTierSimilarities": [
+                32.63,
+                27.91,
+                39.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

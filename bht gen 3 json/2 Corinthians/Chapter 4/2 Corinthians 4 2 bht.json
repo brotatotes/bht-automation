@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:15:46",
+    "verseRef": "2 Corinthians 4:2",
+    "bestBHT": {
+        "bht": "The preacher boldly proclaims the Gospel of Christ without shame or deceitful manipulation. They use plain and honest speech, acknowledging that their ultimate accountability is to God, not to the opinions of others. They renounce craftiness and any attempt to corrupt the truth, firmly opposing the powers of darkness. Above all, their commitment lies in presenting the Gospel with clarity and sincerity, appealing to the consciences of all who listen, even when faced with resistance.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.7861495487369017,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.73,
+        "commentatorTierSimilarities": [
+            26.63,
+            39.87,
+            33.51
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I am not ashamed of the Gospel of Christ. Shame would lead to hiding.",
+            "We use great plainness of speech.",
+            "Not to men's carnal judgment, but in the sight of God."
+        ],
+        "Albert Barnes": [
+            "The religions of the pagan were made up mainly of trick, and were supported by deception practiced on the ignorant, and on the mass of people. Paul says, that he and his fellow-laborers had such views of the truth, and glory, and holiness of the Christian scheme, as to lead them solemnly to abjure and abhor all such dishonest tricks and devices.\" ",
+            "True religion can never be advanced by trick and craftiness.",
+            "The consciences of people are on the side of the gospel; and it is only their hearts which are opposed to it."
+        ],
+        "Marvin Vincent": [
+            "Dishonesty [\u03c4\u03b7\u03c2 \u03b1\u03b9\u03c3\u03c7\u03c5\u03bd\u03b7\u03c2]. Rev., more correctly, shame.",
+            "Craftiness [\u03c0\u03b1\u03bd\u03bf\u03c5\u03c1\u03b3\u03b9\u03b1].",
+            "Handling deceitfully [\u03b4\u03bf\u03bb\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2]. Only here in the New Testament. Primarily, to ensnare; then to corrupt."
+        ],
+        "John Calvin": [
+            "While harlots never think themselves sufficiently adorned, unless they have corrupted nature...",
+            "They framed a new gospel, not unlike a profane philosophy, swelled up with empty bombast, while altogether devoid of the efficacy of the Spirit.",
+            "Craftiness he declares to be unworthy of Christ's servants."
+        ],
+        "Philip Schaff": [
+            "We have renounced the hidden things of shame, not walking in craftiness... employed either in adulterating the truth... or in so trimming as to keep out of view... distasteful features.\" ",
+            "By the manifestation of the truths the naked truth, whose intrinsic majesty and Divine claims are its best recommendation.\" ",
+            "Commending ourselves to every man's conscience... even though resisted, in the sight of God to whom alone we look for judgment upon our work."
+        ],
+        "Archibald T. Robertson": [
+            "His only safety is in instant and courageous defiance to all the powers of darkness.",
+            "It is a terrible thing to see a preacher caught in the toils of the tempter.",
+            "Not to whim, foible, prejudice."
+        ],
+        "John Gill": [
+            "They abhorred and rejected everything that was scandalous and reproachful to the Gospel of Christ; in simplicity and godly sincerity.",
+            "They used no art to cover their doctrines, or hide their conversations; everything of this kind was detestable to them.",
+            "They with all plainness and evidence clearly preached the truth as it is in Jesus, presenting it to, and pressing it upon the consciences of men."
+        ],
+        "John Wesley": [
+            "But have renounced \u2014 Set at open defiance.",
+            "The hidden things of shame \u2014 All things which men need to hide, or to be ashamed of.",
+            "Not walking in craftiness \u2014 Using no disguise, subtlety, guile."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The preacher in this verse is unashamed of the Gospel of Christ and is not content with deceptive practices or manipulative rhetoric used by others. The preacher speaks plainly and honestly, without seeking the approval or favor of others. They reject any form of deceit or corruption, desiring only to present the truth as it is in Jesus, with sincerity and simplicity. The preacher's focus is on the conscience of each individual, knowing that the power of the Gospel lies in its ability to impact hearts and transform lives.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7469622941855465,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.43,
+            "commentatorTierSimilarities": [
+                25.53,
+                42.22,
+                32.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The preacher fearlessly proclaims the Gospel of Christ, refusing to hide or be ashamed. They reject all dishonest practices and craftiness, instead speaking with clarity and sincerity. The preacher's aim is not to please others or cater to their judgments, but to stand boldly in the sight of God. They renounce all deceptive tactics and corrupting influences, displaying a resolute defiance against the powers of darkness. Their commitment lies in faithfully presenting the unadulterated truth, conscious of the transformative impact it can have on the hearts and consciences of those who hear it.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.7816602755258248,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.58,
+            "commentatorTierSimilarities": [
+                25.91,
+                40.11,
+                33.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The preacher in this passage boldly declares the Gospel of Christ without shame or fear of judgment, choosing to speak with plainness and sincerity instead of resorting to deceit or manipulation. They reject all forms of dishonesty and craftiness, seeking only to present the truth as it is, without hiding or adulterating it. Their aim is to appeal to the conscience of each individual, knowing that the impact of the Gospel lies in its genuine and uncompromised message.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.7805924489264506,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+            "commentatorTierSimilarities": [
+                22.88,
+                43.79,
+                33.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The preacher fearlessly declares the Gospel of Christ, unashamed and free from deceit. They choose sincerity and clarity over craftiness and manipulation, not seeking the approval of others. Their focus lies in presenting the truth as it is, without distortion or concealment, relying only on God's judgment. The preacher's commitment to integrity is a defiant stance against the temptations and snares that may entangle them. They renounce any practices that would compromise the Gospel's power and, instead, rely on the convicting nature of the message to impact hearts.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.7118681945225602,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.26,
+            "commentatorTierSimilarities": [
+                25.21,
+                39.78,
+                35.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The preacher boldly proclaims the Gospel of Christ without shame or deceitful manipulation. They use plain and honest speech, acknowledging that their ultimate accountability is to God, not to the opinions of others. They renounce craftiness and any attempt to corrupt the truth, firmly opposing the powers of darkness. Above all, their commitment lies in presenting the Gospel with clarity and sincerity, appealing to the consciences of all who listen, even when faced with resistance.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7861495487369017,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.73,
+            "commentatorTierSimilarities": [
+                26.63,
+                39.87,
+                33.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

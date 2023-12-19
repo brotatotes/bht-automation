@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:25:06",
+    "verseRef": "Acts 1:23",
+    "bestBHT": {
+        "bht": "In their search for a suitable candidate to fill Judas's place, the disciples presented two individuals: Justus and Matthias. It is likely that both were chosen from the Seventy, a group previously distinguished by Jesus himself. Justus, whose name denotes justice, was a Roman name adopted according to prevalent customs. While Matthias's historical background remains unknown, there are various traditions surrounding his life, including preaching in Judea, martyrdom in Ethiopia or Colchis, and even the authorship of apocryphal writings. Through the casting of lots, God's determination and judgment affirmed Matthias's calling to the apostleship.",
+        "wordCount": 98,
+        "quoteTokenProportion": 35.9,
+        "qualityScore": 1.9015939395524093,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+        "commentatorTierSimilarities": [
+            29.32,
+            38.73,
+            31.95
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In all probability both the selected persons belonged to the number of the Seventy, as it would be natural that the candidates for apostleship should be chosen from among those who had been already distinguished by Christ Himself among the brethren.",
+            "Justus (the Just) is a Roman second name, assumed according to a custom then prevalent.",
+            "Matthias: Nothing historical is known of him, Traditionally, according to Nicephorus, he suffered martyrdom in \u00c6thiopia; according to others, in Colchis: another account makes him preach in Jud\u00e6a, and be stoned by the Jews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "meaning not the Eleven but the whole company, of whom Peter was the spokesman.",
+            "The choice would lie between a very few."
+        ],
+        "Albert Barnes": [
+            "They proposed, or, as we should say, nominated two. Literally, they placed two, or made them to stand forth, as persons do who are candidates for office.",
+            "Joseph called Barsabas ... It is not certainly known what the name Barsabas denotes.",
+            "was surnamed Justus - Who was called Justus. This is a Latin name, meaning just, and was probably given him on account of his distinguished integrity."
+        ],
+        "Marvin Vincent": [
+            "Barsabas. A patronymic, son of Saba : like Bar Jona, Matthew 16:17."
+        ],
+        "John Calvin": [
+            "But for this cause did they use the casting of lots, that it might be known that Matthias was not only chosen by the voices of men, but also that he was made by the determination and judgment of God.",
+            "For there was this difference between the apostles and the pastors, that the pastors were chosen simply by the Church, the apostles were called of God.",
+            "This was very orderly done, that the disciples should present unto God those whom they thought to be the best; and he should choose to himself whom he knew to be most fit, so that God, by the fall of the lot, doth pronounce that he did allow of the apostleship of Matthias."
+        ],
+        "Philip Schaff": [
+            "He and also Matthias probably belonged to the number of the seventy disciples.",
+            "Nicephorus writes of Matthias that he afterwards preached the gospel and suffered martyrdom in Ethiopia.",
+            "Some apocryphal writings of little credit in the early Church bore his name."
+        ],
+        "Archibald T. Robertson": [
+            "They put forward two.",
+            "Somebody nominated two names, Justus and Matthias."
+        ],
+        "John Gill": [
+            "The motion made by Peter was attended to by the whole company; they approved of it.",
+            "The persons nominated were, Joseph called Barsabas, who was surnamed Justus, and Matthias.",
+            "Matthias, his name is Jewish, and he was no doubt a Jew."
+        ],
+        "John Wesley": [
+            "So far the faithful could go by consulting together, but no further.",
+            "Here commenced the proper use of the lot, whereby a matter of importance, which cannot be determined by any ordinary method, is committed to the Divine decision.",
+            "A matter of importance, which cannot be determined by any ordinary method, is committed to the Divine decision."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, in their search for a suitable replacement for Judas, presented two candidates: Justus and Matthias. These individuals were likely chosen from among the Seventy, who had previously been distinguished by Christ himself. Justus, a Roman second name, was probably given to him due to his integrity. Although nothing is known of Matthias's historical background, there are various traditions surrounding his life, including preaching in Judea and suffering martyrdom in Ethiopia or Colchis. The casting of lots was used to ensure that Matthias's appointment was not only a result of human choice but also of God's determination and judgment. Thus, through the fall of the lot, God affirmed Matthias's calling to the apostleship. This process revealed the orderly and divine nature of the selection, as the disciples presented their choices to God, who ultimately made the decision.",
+            "wordCount": 142,
+            "quoteTokenProportion": 41.0,
+            "qualityScore": 1.7903942720595416,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                26.73,
+                36.84,
+                36.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The two candidates proposed by the disciples for Judas's replacement were Justus and Matthias. Both were likely chosen from the distinguished group of the Seventy, previously recognized by Jesus himself. Justus, given his name meaning just, was known for his integrity. While little is known of Matthias's historical details, there are differing accounts of his subsequent preaching and martyrdom. The casting of lots was employed to demonstrate that Matthias's appointment was not only the result of human choice but also a decision made by God. Through this process, God affirmed Matthias's calling to the apostleship, affirming the orderly and divine nature of the selection.",
+            "wordCount": 108,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.81195564393595,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                26.4,
+                37.22,
+                36.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples presented two candidates, Justus and Matthias, for the important task of replacing Judas. Justus, a Roman name chosen in light of prevailing customs, carried connotations of just and integrity. Although Matthias's historical background remains unknown, various traditions associate him with preaching, martyrdom, and mission work. The casting of lots was employed to demonstrate that Matthias's appointment was not solely based on human choice, but also on the determination and judgment of God. This divine decision-making process revealed the orderly and significant nature of the selection.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.6435017618805439,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+            "commentatorTierSimilarities": [
+                25.88,
+                35.54,
+                38.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In their search for a suitable candidate to fill Judas's place, the disciples presented two individuals: Justus and Matthias. It is likely that both were chosen from the Seventy, a group previously distinguished by Jesus himself. Justus, whose name denotes justice, was a Roman name adopted according to prevalent customs. While Matthias's historical background remains unknown, there are various traditions surrounding his life, including preaching in Judea, martyrdom in Ethiopia or Colchis, and even the authorship of apocryphal writings. Through the casting of lots, God's determination and judgment affirmed Matthias's calling to the apostleship.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.9015939395524093,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                29.32,
+                38.73,
+                31.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples put forward two candidates, namely Justus and Matthias, for consideration as a replacement for Judas. It is likely that both individuals were chosen from among the distinguished group of the Seventy, as it would make sense to select future apostles from those already recognized by Christ Himself. Justus, with his name meaning just, possibly earned this Roman second name due to his integrity. While the historical background of Matthias is unclear, there are various traditions surrounding his life, including the belief that he preached in Judea and may have suffered martyrdom in Ethiopia or Colchis. The casting of lots revealed God's determination and judgment in confirming Matthias's apostleship.",
+            "wordCount": 112,
+            "quoteTokenProportion": 43.68,
+            "qualityScore": 1.947889742476777,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.11,
+            "commentatorTierSimilarities": [
+                30.57,
+                38.23,
+                31.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

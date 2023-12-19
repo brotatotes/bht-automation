@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:15:23",
+    "verseRef": "Luke 5:19",
+    "bestBHT": {
+        "bht": "A group of friends were determined to bring their sick friend to Jesus for healing. They faced the challenge of the crowded house and the inability to find a way inside. Undeterred, they ascended to the flat roof of the house, removing the tiles to create an opening. Together, they lowered the man on his bed into the midst of the room and before Jesus. This act of faith and determination was a moment of triumph over difficulties and surprised everyone in the house.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.2492738725622914,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.88,
+        "commentatorTierSimilarities": [
+            17.1,
+            21.88,
+            61.01
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] This description is that of an eye-witness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. housetop\u2014the flat roof. ",
+            "\t",
+            "through the tiling . . .",
+            "\tbefore Jesus\u2014(See on :-)."
+        ],
+        "Marvin Vincent": [
+            "Luke uses four words for the beds of the sick: klinh, as verse 18, the general word for a bed or couch; krabbatov (Acts 5:15; Acts 9:33), a rude pallet; klinidion, a small couch or litter, as here, a couch so light that a woman could lift and carry it away.",
+            "The fourth term, klinarion (Acts 5:15), cannot be accurately distinguished from the last.",
+            "The last two are peculiar to Luke."
+        ],
+        "Philip Schaff": [
+            "Luke 5:19. Through the tiles. The tiles on the flat roof of the house itself were removed (see on Mark 2:4).",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "The flat roof of Jewish houses was usually reached by outside stairway.",
+            "The four friends had succeeded, probably each holding a rope to a corner of the pallet.",
+            "It was a moment of triumph over difficulties and surprise to all in the house."
+        ],
+        "John Gill": [
+            "And when they could not find by what way... they went upon the housetop; by a ladder, or pair of stairs, which usually were on the outside of houses.\" ",
+            "They untiled the roof, or took away the tiles... and so making it wider, let down the man upon his couch, or bed, into the middle of the room and of the people...",
+            "...just before Jesus, where he was sitting."
+        ],
+        "John Wesley": [
+            "Not being able to bring him in through the multitude, they went round about by a back passage."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A group of friends were determined to bring their sick friend to Jesus for healing. They faced the challenge of the crowded house and the inability to find a way inside. Undeterred, they ascended to the flat roof of the house, removing the tiles to create an opening. Together, they lowered the man on his bed into the midst of the room and before Jesus. This act of faith and determination was a moment of triumph over difficulties and surprised everyone in the house.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.2492738725622914,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.88,
+            "commentatorTierSimilarities": [
+                17.1,
+                21.88,
+                61.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A group of friends encountered obstacles in bringing their sick friend to Jesus for healing. Unable to find a way through the crowded house, they went to the housetop, removing the tiles to create an opening. Together, they lowered the man on his bed into the midst of the room, just before Jesus. This act of determination and faith surprised everyone present and demonstrated a triumph over difficulties. The account vividly shows the witnesses' attention to detail and the innovative means used to reach Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.1654595005217283,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.1,
+            "commentatorTierSimilarities": [
+                17.89,
+                20.44,
+                61.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A group of friends encountered difficulties in bringing their sick companion to Jesus. Undeterred by the crowded house, they climbed to the housetop and removed the tiles, creating an opening. United in their efforts, they lowered the man on his bed into the midst of the room, right before Jesus. This display of determination and ingenuity surprised everyone in the house, illustrating the eyewitness nature of the account. The friends' triumph over obstacles serves as an inspiring example of the lengths one can go to seek Jesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.225452881280178,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.09,
+            "commentatorTierSimilarities": [
+                18.5,
+                22.9,
+                58.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A group of friends encountered challenges when trying to bring their sick friend to Jesus. Undeterred by the crowded house, they climbed to the housetop and removed the tiles, creating an opening. United in their efforts, they lowered the man on his bed into the midst of the room, right before Jesus. This display of determination and ingenuity surprised everyone present. The account highlights the eyewitness nature of the description and demonstrates the friends' tenacity to overcome obstacles in their pursuit of encountering Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.1868045474199154,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.8,
+            "commentatorTierSimilarities": [
+                18.27,
+                21.47,
+                60.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A group of friends encountered difficulties when trying to bring their sick companion to Jesus. Undeterred by the crowded house, they climbed to the housetop and removed the tiles, creating an opening. Together, they lowered the man on his bed into the room, right before Jesus. This demonstration of determination and resourcefulness surprised everyone. The account portrays an eyewitness description, emphasizing the triumph over obstacles and the unwavering faith of the friends in their quest to encounter Jesus.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.169075341682712,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.22,
+            "commentatorTierSimilarities": [
+                21.14,
+                18.67,
+                60.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

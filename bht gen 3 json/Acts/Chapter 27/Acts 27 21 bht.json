@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:37:13",
+    "verseRef": "Acts 27:21",
+    "bestBHT": {
+        "bht": "The crew's abstinence from food during the storm was a result of the impossibility of cooking and the destruction of provisions. Their anxiety and mental distress, coupled with the hardships and exhaustion from labor and hunger, led to their current state. Paul's remark wasn't intended to dwell on their past mistakes, but to claim their trust for what he was about to say. By following his counsel earlier, they could have avoided the harm and loss they were now experiencing. Paul's calm and confident demeanor, contrasting with their despair, exemplified the effectiveness of his continuous prayer.",
+        "wordCount": 100,
+        "quoteTokenProportion": 33.8,
+        "qualityScore": 1.6565355523374454,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+        "commentatorTierSimilarities": [
+            30.61,
+            41.97,
+            27.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Much abstinence is one of the most frequent concomitants of heavy gales.\" (Smith, p. 75)",
+            "The impossibility of cooking, or the destruction of provisions from leakage, are the principal causes which produce it.\" (Smith, p. 75)",
+            "Anxiety and mental distress had a considerable share in it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The hardships which the crew endured during a gale of such continuance, and their exhaustion from laboring at the pumps and hunger, may be imagined, but are not described.\" ",
+            "'Sirs, ye should have hearkened to me, &amp;c.'\u2014not meaning to reflect on them for the past, but to claim their confidence for what he was now to say."
+        ],
+        "Albert Barnes": [
+            "By the violence of the storm, by their long continued labor, and by their apprehension of danger, they had a long time abstained from food.",
+            "To have procured this harm, or have subjected yourselves to it. Had you remained there you would have been safe.",
+            "It seems to be bad English to speak of gaining a loss, but it is a correct translation of the original \u03ba\u03b5\u03c1\u03b4\u03b7\u0342\u03c3\u03b1\u03b9\u0301 kerde\u0304sai, which expresses the idea of acquiring or procuring, whether good or evil."
+        ],
+        "Marvin Vincent": [
+            "Hearkened [\u03c0\u03b5\u03b9\u03b8\u03b1\u03c1\u03c7\u03b7\u03c3\u03b1\u03bd\u03c4\u03b1\u03c2] . See on obey, ch. 5 29. ",
+            "Loosed [\u03b1\u03bd\u03b1\u03b3\u03b5\u03c3\u03b8\u03b1\u03b9] . Rev., set sail. See on Luke 8:22. ",
+            "Harm [\u03c5\u03b2\u03c1\u03b9\u03bd] . See on ver. 10."
+        ],
+        "John Calvin": [
+            "No man is fit to exhort but he who is himself an example of constancy and fortitude.",
+            "Chiding is indeed cruel, and bringeth no comfort; but if it be tempered with some remedy, it is now a part of the medicine.",
+            "Paul in speaking thus doth awake the mariners, that they may more attentively hear what he will say."
+        ],
+        "Philip Schaff": [
+            "One great aggravation of the hardship and suffering of an emergency like this is the want of proper and regular food.",
+            "We feel this to be a most striking and impressive moment when we remember that he had been praying while they had been struggling with the storm, and that he is now calm and confident while they have lost all hope.",
+            "His purpose...is not to taunt them, but to inspire them with confidence in him for the future. They have now good reason for believing in his prophetic insight."
+        ],
+        "Archibald T. Robertson": [
+            "There being much abstinence from food.",
+            "Stood forth...that sets forth the vividness and solemnity of the scene.",
+            "By taking his advice they ought to have escaped this injury and loss."
+        ],
+        "John Gill": [
+            "Sirs, ye should have hearkened unto me: it would have been better for them to have taken his advice...\" (Acts 27:21) ",
+            "The apostle addresses them in a very courteous manner, and does not use sharp reproofs, severe language, or upbraid and insult them...\" ",
+            "He mentions this, that since what he had foretold was in part already come to pass, they might give the more heed to what he was about to say to them."
+        ],
+        "John Wesley": [
+            "This loss \u2014 Which is before your eyes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the violent storm, the crew had endured much abstinence from food due to the impossibility of cooking or the destruction of provisions. Their anxiety and mental distress added to their hardship and exhaustion from laboring at the pumps. They should have hearkened to Paul's advice previously, not to reflect on their past mistakes, but to claim their confidence for what he was about to say. By following his counsel, they could have avoided the harm and loss they were currently experiencing. The scene became even more vivid and solemn as Paul stood forth to address them. His calm and confident demeanor, contrasting with their despair, highlighted the efficacy of his continuous prayer. Instead of chiding them, Paul sought to inspire them with trust in his prophetic insight for the future.",
+            "wordCount": 132,
+            "quoteTokenProportion": 37.63,
+            "qualityScore": 1.6410672577946905,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.91,
+            "commentatorTierSimilarities": [
+                30.04,
+                41.39,
+                28.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the storm, the crew's abstinence from food was a result of the impossibility of cooking and the destruction of provisions. Their anxiety and mental distress, combined with the hardships and exhaustion from labor and hunger, led to their current state. Paul's remark wasn't meant to reflect on their past, but to claim their confidence for what he was about to say. If they had listened to him earlier, they could have avoided the harm and loss they were currently experiencing. Paul's calm and confident demeanor, contrasting with their despair, showcased the efficacy of his continuous prayer.",
+            "wordCount": 101,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.6586005684823966,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
+            "commentatorTierSimilarities": [
+                30.31,
+                41.68,
+                28.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crew's abstinence from food during the storm was a result of the impossibility of cooking and the destruction of provisions. Their anxiety and mental distress, coupled with the hardships and exhaustion from labor and hunger, led to their current state. Paul's remark wasn't intended to dwell on their past mistakes, but to claim their trust for what he was about to say. By following his counsel earlier, they could have avoided the harm and loss they were now experiencing. Paul's calm and confident demeanor, contrasting with their despair, exemplified the effectiveness of his continuous prayer.",
+            "wordCount": 100,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.6565355523374454,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+            "commentatorTierSimilarities": [
+                30.61,
+                41.97,
+                27.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crew's abstinence from food during the storm resulted from the impossibility of cooking and the destruction of provisions. Their anxiety and distress, along with the hardships and exhaustion from labor and hunger, contributed to their current state. Paul's remark was not meant to reflect on their past but to seek their confidence in what he was about to say. Had they heeded his advice earlier, they could have avoided the harm and loss they were presently experiencing. Paul's calm and confident demeanor showcased the power of his continuous prayer.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6358409739687199,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                30.35,
+                41.45,
+                28.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the storm, the crew experienced abstinence from food due to the impossibility of cooking and the destruction of provisions. The crew's anxiety and mental distress added to their hardships and exhaustion from laboring at the pumps and hunger. Paul's remark wasn't a reflection on their past, but a plea for their confidence in what he was about to say. If they had followed his advice earlier, they could have avoided the harm and loss they were currently enduring. Paul's composed and confident demeanor highlighted the effectiveness of his continuous prayer.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.6232628533766074,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                31.54,
+                39.65,
+                28.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

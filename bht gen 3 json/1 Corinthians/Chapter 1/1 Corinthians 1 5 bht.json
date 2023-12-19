@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 14:59:11",
+    "verseRef": "1 Corinthians 1:5",
+    "bestBHT": {
+        "bht": "The Corinthians were richly blessed with able preachers and a profound understanding of the word. Paul expressed gratitude for their excellence in speaking and comprehension, traits that the Corinthians esteemed highly. These gifts bestowed upon them were divine favors, but Paul had to address their misuse. Nevertheless, their abundance of spiritual blessings in speech and knowledge were a testament to God's favor and the Corinthians' exceptional gifts as a church.",
+        "wordCount": 71,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 2.076092148236198,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.37,
+        "commentatorTierSimilarities": [
+            33.54,
+            27.08,
+            39.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They were rich in the preaching of the word, had among them able preachers.",
+            "Rich in the apprehension of the word, were themselves intelligent hearers.",
+            "See 2 Cor. viii. 7, where to these are added faith, zeal, and love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye are rich in preachers or the preaching of the word, and rich in knowledge or apprehension of it.\" ",
+            "Paul, purposing presently to dwell on the abuse of the two gifts on which the Corinthians most prided themselves, utterance (speech) and knowledge...",
+            "previously gains their goodwill by congratulating them on having those gifts."
+        ],
+        "Albert Barnes": [
+            "You have been distinguished by him in all those respects in which he blesses his own children.",
+            "The mercies of God are not only conferred abundantly on his people, but they are a bestowment of inestimable value.",
+            "The power of speaking those languages the apostle regarded as a subject of thanksgiving, as it was a proof of the divine favor to them."
+        ],
+        "Marvin Vincent": [
+            "The saints have never been silent\" (Pascal).",
+            "Paul gives thanks for speech as a means of testifying for Christ.",
+            "Utterance, aptitude in speech."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 1:5. that in everything ye are enriched ... in all utterance (Gr. \u2018word\u2019), or aptitude to give utterance to divine truth.",
+            "\t",
+            " And all knowledge, or apprehension of the truth (see 2 Corinthians 8:7; 2 Corinthians 11:6).",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "The Christian finds his real riches in Christ, one of Paul's pregnant phrases full of the truest mysticism.",
+            "The outward expression (\u03bb\u03bf\u03b3\u03c9) here is put before the inward knowledge (\u03b3\u03bd\u03c9\u03c3\u03b5) which should precede all speech.",
+            "It was a marvellously endowed church in spite of their perversions."
+        ],
+        "John Gill": [
+            "That in everything ye are enriched by him...with all the riches of grace.\" ",
+            "And particularly the apostle is thankful, that they were enriched by Christ in all utterance, and in all knowledge.",
+            "Many of them had such large gifts of knowledge, elocution, and utterance, that they were richly qualified to preach the Gospel to others."
+        ],
+        "John Wesley": [
+            "In all utterance and knowledge \u2014 Of divine things.",
+            "These gifts the Corinthians particularly admired.",
+            "Therefore this congratulation naturally tended to soften their spirits, and I make way for the reproofs which follow."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians were fortunate to have an abundance of preachers who were skilled in articulating divine truth, as well as a deep understanding and knowledge of the word. This was something that Paul commended them for and gave thanks to God. However, it should be noted that these gifts, though impressive, were being misused and needed to be addressed. Nonetheless, the Corinthians' rich spiritual blessings in speech and knowledge were a sign of God's favor towards them and a testimony to their giftedness as a church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.8519648882183066,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.92,
+            "commentatorTierSimilarities": [
+                31.51,
+                27.42,
+                41.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians were richly blessed with able preachers and a profound understanding of the word. Paul expressed gratitude for their excellence in speaking and comprehension, traits that the Corinthians esteemed highly. These gifts bestowed upon them were divine favors, but Paul had to address their misuse. Nevertheless, their abundance of spiritual blessings in speech and knowledge were a testament to God's favor and the Corinthians' exceptional gifts as a church.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.076092148236198,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.37,
+            "commentatorTierSimilarities": [
+                33.54,
+                27.08,
+                39.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians were rich in the preaching of the word and had an aptitude for understanding it. Paul commended them for their richness in preachers and knowledge, which were gifts from Christ. However, Paul also acknowledged that these gifts were being misused and would later address this issue. Nevertheless, the Corinthians' abundance of abilities in speech and knowledge were signs of God's favor towards them as a church.",
+            "wordCount": 69,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.9914678417074008,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+            "commentatorTierSimilarities": [
+                36.88,
+                24.26,
+                38.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians were rich in both the preaching of the word and their understanding of it. Paul expressed his gratitude for their wealth in preachers and knowledge, which were blessings from Christ. However, he also recognized that these gifts were being misused, and he would later address this issue. Nevertheless, the Corinthians' abundance of skills in speech and knowledge were clear indications of God's favor towards them as a church.",
+            "wordCount": 71,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.9602150745697204,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                34.42,
+                25.43,
+                40.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians were rich in both the preaching and apprehension of the word, boasting an array of able preachers who bestowed knowledge upon them. Paul commended them on their speech and knowledge, acknowledging that these gifts were a mark of God's favor. However, Paul also acknowledged the misuse of these gifts, which would be addressed later. Regardless, the Corinthians' abundance of spiritual blessings in speech and knowledge served as a testament to their exceptional giftedness as a church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9896924800697477,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                35.43,
+                24.8,
+                39.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

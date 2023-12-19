@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:40:49",
+    "verseRef": "2 Peter 2:13",
+    "bestBHT": {
+        "bht": "These individuals, spots and blemishes, deceive others while themselves being deceived, taking pleasure in indulging in luxurious ways. They turn sacred feasts into occasions of sensual indulgence, reveling in their deceitfulness. They suffer wrong as the wages of their wrongdoing, counting it a pleasure to indulge in sinful desires. They defile themselves and others with their sins, mocking and deriding those they deceive. Their actions bring disgrace to themselves, the Church, and Christianity itself.",
+        "wordCount": 74,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 2.0178790384331493,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+        "commentatorTierSimilarities": [
+            24.12,
+            34.43,
+            41.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "receiving as they shall [the] reward of unrighteousness...they shall receive its eternal.",
+            "spots and blemishes...luxuriating in their deceits.",
+            "having eyes full of an adulteress...laying baits for unstable souls...having a heart practiced in covetousness, children of curse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Perhaps it is implied, unrighteousness shall be its own reward or punishment.",
+            "Spots\u2014in themselves. blemishes\u2014disgraces: bringing blame (so the Greek) on the Church and on Christianity itself.",
+            "While deceiving others, they are deceived themselves."
+        ],
+        "Albert Barnes": [
+            "Such people do not always receive the due recompense of their deeds in the present life; and as it is a great and immutable principle that all will be treated, under the government of God, as they deserve, or that justice will be rendered to every rational being, it follows that there must be punishment in the future state.",
+            "They are a scandal and disgrace to the Christian profession.",
+            "They took advantage of their false views to turn even the sacred feasts of charity, or perhaps the Lord\u2019s Supper itself, into an occasion of sensual indulgence."
+        ],
+        "Marvin Vincent": [
+            "Hire would seem to be better here, because of the reference to Balaam in ver. 15, where the word occurs again and requires that rendering.\" ",
+            "Meaning rather daintiness, delicacy, luxuriousness. Even the Rev. revel is almost too strong.",
+            "The word originally conveys the idea of sumptuous feasting, and is appropriate in view of the fact to which Peter alludes, that these sensualists converted the love - feast into a revel."
+        ],
+        "John Calvin": [
+            "We know that men excel brute animals in this, that they extend their thoughts much farther. It is, then, a base thing in man to be occupied only with present things.",
+            "Feasting with you, they insolently deride you by their errors.",
+            "The various things said of them are intended to show that they were 'spots and stains,' disgraceful and defiling: they rioted in carnal pleasure, and rioted in delusion, and associated with the faithful, feasting with them."
+        ],
+        "Philip Schaff": [
+            "Buffering wrong as the wages of wrong-doing.",
+            "Reckoning luxurious living in the day a pleasure.",
+            "Sporting in their own deceits, while they feast with you."
+        ],
+        "Archibald T. Robertson": [
+            "Suffering wrong (\u03b1\u03b4\u03b9\u03ba\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf). Present middle or passive participle of \u03b1\u03b4\u03b9\u03ba\u03b5\u03c9 to do wrong.",
+            "Pleasure (\u03b7\u03b4\u03bf\u03bd\u03b7\u03bd). See James 4:1; James 4:3.",
+            "Spots (\u03c3\u03c0\u03b9\u03bb\u03bf). Old word for disfiguring spot, in N.T. only here and Ephesians 5:27."
+        ],
+        "John Gill": [
+            "Who place all their satisfaction and happiness in sensual delight, in rioting and drunkenness, in chambering and wantonness, day after day; putting away the evil day far from them...",
+            "Spots [they are], and blemishes; which defile themselves, their minds and consciences, their souls and bodies, with sin, and defile others by their evil communications...",
+            "With their sins and lusts, by which they deceive themselves and others, it being a sport to them to commit sin; and in which they take great pleasure and pastime, and not only delight in their own sins, but in those of others, and in them that do them."
+        ],
+        "John Wesley": [
+            "They count it pleasure to riot in the day time \u2014 They glory in doing it in the face of the sun.",
+            "They are spots in themselves, blemishes to any church.",
+            "Sporting themselves with their own deceivings \u2014 Making a jest of those whom they deceive and even jesting while they are deceiving their own souls."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These individuals, described as spots and blemishes, revel in their deceitful ways, having eyes full of adultery and hearts practiced in covetousness. Their actions not only bring disgrace to themselves but also bring blame upon the Church and Christianity itself. They take pleasure in indulging in luxurious living, even turning sacred feasts into occasions of sensual indulgence. They suffer wrong as the wages of their wrong-doing, and they count it a pleasure to indulge in their sinful desires, both deceiving themselves and others. They are indeed spots and blemishes, defiling themselves and others with their sins, while also mocking and deriding those they deceive.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.008371279722105,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                23.72,
+                32.61,
+                43.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These individuals, spots and blemishes, deceive others while themselves being deceived, taking pleasure in indulging in luxurious ways. They turn sacred feasts into occasions of sensual indulgence, reveling in their deceitfulness. They suffer wrong as the wages of their wrongdoing, counting it a pleasure to indulge in sinful desires. They defile themselves and others with their sins, mocking and deriding those they deceive. Their actions bring disgrace to themselves, the Church, and Christianity itself.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.0178790384331493,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                24.12,
+                34.43,
+                41.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals, described as spots and blemishes, revel in their deceitful ways, having eyes full of adultery and hearts practiced in covetousness. They take pleasure in indulging in luxurious living, even turning sacred feasts into occasions of sensual indulgence. They suffer wrong as the wages of their wrong-doing and deceive both themselves and others. They are spots and blemishes, defiling themselves and others with their sins, while also mocking and deriding those they deceive. Their actions bring disgrace to themselves, the Church, and Christianity itself.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.9779199276454902,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.11,
+            "commentatorTierSimilarities": [
+                23.52,
+                33.32,
+                43.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals, spots and blemishes, revel in their deceitful ways, having eyes full of adultery and hearts practiced in covetousness. They take pleasure in indulging in luxurious living, turning sacred feasts into occasions of sensual indulgence. They suffer wrong as the wages of their wrong-doing, deceiving both themselves and others. They are spots and blemishes, defiling themselves and others with their sins, mocking and deriding those they deceive. Their actions bring disgrace to themselves, the Church, and Christianity itself.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9698017581436984,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                23.44,
+                33.74,
+                42.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These individuals, described as spots and blemishes, revel in their deceitful ways, having eyes full of adultery and hearts practiced in covetousness. They take pleasure in indulging in luxurious living, even turning sacred feasts into occasions of sensual indulgence. They suffer wrong as the wages of their wrong-doing and deceive both themselves and others. They are spots and blemishes, defiling themselves and others with their sins, while also mocking and deriding those they deceive. Their actions bring disgrace to themselves, the Church, and Christianity itself.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.9779199276454902,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.11,
+            "commentatorTierSimilarities": [
+                23.52,
+                33.32,
+                43.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:14:38",
+    "verseRef": "Luke 3:21",
+    "bestBHT": {
+        "bht": "In St. Luke's account of Jesus' baptism, it is mentioned that he was praying when the Spirit descended and appeared in a bodily form. This moment was significant because Jesus wanted to separate himself from the crowd and show his uniqueness. The heaven was opened, possibly in response to his prayer, and served as a testimony from heaven. Jesus' baptism was a distinct event, as it set him apart from sinners and signaled the beginning of his ministry.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 2.3493920922242717,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.46,
+        "commentatorTierSimilarities": [
+            26.89,
+            40.62,
+            32.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Luke\u2019s account is much more concise than usual, and wholly independent of the others.\" ",
+            "He was praying at the time of the descent of the Spirit.",
+            "The Spirit appeared in a bodily form."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "when all the people were baptized\u2014that He might not seem to be merely one of the crowd.\" ",
+            "Thus, as He rode into Jerusalem upon an ass, 'whereon yet never man sat' and lay in a sepulchre 'wherein was never man yet laid', so in His baptism He would be 'separate from sinners.'\" ",
+            "GENEALOGY OF JESUS."
+        ],
+        "Marvin Vincent": [
+            "Was opened [\u03b1\u03bd\u03b5\u03c9\u03c7\u03b8\u03b7\u03bd\u03b1\u03b9] . So Matthew, but Mark scizomenouv, rent."
+        ],
+        "Philip Schaff": [
+            "When all the people were baptised. These baptisms preceded that of our Lord; probably few were present on the latter occasion.",
+            "Jesus also having been baptised, and praying. The baptism took place first, then the prayer. Luke alone mentions the latter.",
+            "The heaven was opened . Matthew and Mark say, to Jesus; John, to the Baptist; Luke simply states the fact. This variety and agreement show that some actual external phenomenon occurred."
+        ],
+        "Archibald T. Robertson": [
+            "Luke does not say that all the people were baptized before Jesus came or were baptized at the same time. It is merely a general statement that Jesus was baptized in connexion with or at the time of the baptizing of the people as a whole.",
+            "For the narrative of the baptism see Mark 1:9; Matthew 3:13-16.",
+            "Present participle and so naturally meaning that the heaven was opened while Jesus was praying though not necessarily in answer to his prayer."
+        ],
+        "John Gill": [
+            "Now when all the people were baptized... it came to pass that Jesus also being baptized...\" ",
+            "and praying; after he was baptized, for the coming down of the Spirit upon him... and for a testimony from heaven...\" ",
+            "the heaven was opened."
+        ],
+        "John Wesley": [
+            "It is observable, that the three voices from heaven [...] were pronounced either while he was praying, or quickly after it.\" ",
+            "the three voices from heaven [...] by which the Father bore witness to Christ.",
+            "the three voices from heaven [...] pronounced either while he was praying, or quickly after it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "St. Luke's account of Jesus' baptism in Luke 3:21 is concise but independent of other Gospel accounts. Jesus was praying at the time of the descent of the Spirit, which appeared in a bodily form. His baptism was unique, as He was not baptized with the rest of the people to distinguish Himself. Just as Jesus rode into Jerusalem on a donkey that no one had ever ridden and was laid in a tomb that no one had ever been in, His baptism set Him apart from sinners. The heaven was opened, either while Jesus was praying or shortly after, as a testimony from heaven.",
+            "wordCount": 105,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 2.3494129639808383,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.46,
+            "commentatorTierSimilarities": [
+                28.01,
+                39.71,
+                32.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In St. Luke's account of Jesus' baptism, it is mentioned that he was praying when the Spirit descended and appeared in a bodily form. This moment was significant because Jesus wanted to separate himself from the crowd and show his uniqueness. The heaven was opened, possibly in response to his prayer, and served as a testimony from heaven. Jesus' baptism was a distinct event, as it set him apart from sinners and signaled the beginning of his ministry.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.3493920922242717,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.46,
+            "commentatorTierSimilarities": [
+                26.89,
+                40.62,
+                32.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "St. Luke's concise account of Jesus' baptism stands independent of the other Gospel narratives. As all the people were being baptized, Jesus, in a separate and distinct manner, received his baptism. It was while he was praying that the Spirit descended upon him, appearing in a bodily form. This pivotal event marked the beginning of Jesus' ministry, and as he prayed, the heavens opened, giving a testimony from above. It was a momentous occasion that showcased Jesus' uniqueness and divine calling.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.1477476006431226,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                26.53,
+                41.67,
+                31.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In St. Luke's account of Jesus' baptism, we find a concise and independent narrative. Jesus was baptized while all the people were being baptized, yet he stood separate from the crowd to display his uniqueness. As he prayed, the Spirit descended upon him in a bodily form. The opening of the heavens served as a testimony from above, marking the beginning of Jesus' ministry. This significant event highlighted Jesus' distinct role and divine calling.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.0580559028096364,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.77,
+            "commentatorTierSimilarities": [
+                27.79,
+                40.89,
+                31.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "St. Luke's account of Jesus' baptism is unique and concise, independent of other narratives. It emphasizes the distinctness of Jesus' baptism from the rest of the people. While all the people were being baptized, Jesus, by praying, received the descent of the Spirit in a bodily form. The opening of the heavens during his prayer served as a testimony from heaven. This pivotal event marked the beginning of Jesus' ministry, signifying his separation from sinners and his divine calling.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.2101960301906125,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.83,
+            "commentatorTierSimilarities": [
+                25.13,
+                42.52,
+                32.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

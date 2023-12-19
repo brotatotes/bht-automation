@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:33:27",
+    "verseRef": "Ephesians 5:17",
+    "bestBHT": {
+        "bht": "Stop becoming foolish and senseless, but instead seek understanding and discern intelligently the will of the Lord. The will of the Lord is not just about intellectual knowledge, but about putting it into practice in our daily lives. Ultimately, the will of the Lord is our sanctification, and in everything, we should give thanks. Let us not be fools in how we live our lives, but rather, show true wisdom by seeking to understand and follow the will of Christ in all things.",
+        "wordCount": 83,
+        "quoteTokenProportion": 48.15,
+        "qualityScore": 2.429039912201893,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.11,
+        "commentatorTierSimilarities": [
+            27.5,
+            40.2,
+            32.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On this account (because ye have need so prudently to define your rule of life, and so carefully to watch for opportunities of good) be not (better than \u2018do not become, which puts the process of degeneracy too strongly in English) senseless (or foolish)",
+            "understand (know intelligently,\u2014as matter of fact, as the servant who knew his lord\u2019s will and did it not, Luke xii. 47)",
+            "what is the will of the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Knowing with understanding.",
+            "The Lord's will, ultimately, is our 'sanctification'.",
+            "In every thing, we should give thanks."
+        ],
+        "Albert Barnes": [
+            "Be not fools in the employment of your time, and in your manner of life.\" ",
+            "Show true wisdom by endeavoring to understand what the will of the Lord is, and then doing it."
+        ],
+        "Marvin Vincent": [
+            "Understanding [\u03c3\u03c5\u03bd\u03b9\u03b5\u03bd\u03c4\u03b5\u03c2] . See on prudent, Matthew 11:25; foolish, Romans 3:21."
+        ],
+        "John Calvin": [
+            "He whose 'delight is in the law of the Lord, and who meditates in it day and night' will triumph over every obstacle which Satan can oppose to his progress.\" ",
+            "Whence comes it that some wander, others fall, others strike against a rock, others go away\u2014but because we allow ourselves to be gradually blinded by Satan, and lose sight of the will of God, which we ought constantly to remember?",
+            "How shall a young man direct his way? By attending to thy word, O Lord."
+        ],
+        "Philip Schaff": [
+            "Become not senseless, not rightly using the mind, but understanding, more than knowing, discerning intelligently, what the will of the Lord ( i.e., Christ) is.",
+            "This will reaching to what is least and most peculiar, is the object of the insight of the wise; the further he advances the less is anything to him merely permissible; everything becomes for him a precept and will from above.",
+            "Culture which forgets to refer constantly to the will of Christ is 'senseless'."
+        ],
+        "Archibald T. Robertson": [
+            "Be ye not foolish (\u03bc\u03b7 \u03b3\u03b9\u03bd\u03b5\u03c3\u03b8\u03b5 \u03b1\u03c6\u03c1\u03bf\u03bd\u03b5\u03c2). \"Stop becoming foolish.\" "
+        ],
+        "John Gill": [
+            "Believers should not act the unwise part, neither in their talk, nor in their walk and conversation, nor in their use of time.",
+            "To this the wills of the people of God should be always resigned.",
+            "The understanding of it is not a mere speculative knowledge of it, but a practical one; when a man not only knows, but does the will of God, and his heart and actions agree with it."
+        ],
+        "John Wesley": [
+            "What the will of the Lord is \u2014 In every time, place, and circumstance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Stop becoming foolish and senseless. Instead, seek understanding and discern with intelligence what the will of the Lord is. The will of the Lord is not just about knowing it intellectually, but also about putting it into practice in our daily lives. Ultimately, the will of the Lord is our sanctification, and in everything, we should give thanks. Therefore, let us not be fools in how we spend our time and live our lives. Instead, let us show true wisdom by seeking to understand and follow the will of Christ in all things.",
+            "wordCount": 93,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.2302290553578255,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.5,
+            "commentatorTierSimilarities": [
+                28.17,
+                40.4,
+                31.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stop becoming foolish and senseless, but instead seek understanding and discern intelligently the will of the Lord. The will of the Lord is not just about intellectual knowledge, but about putting it into practice in our daily lives. Ultimately, the will of the Lord is our sanctification, and in everything, we should give thanks. Let us not be fools in how we live our lives, but rather, show true wisdom by seeking to understand and follow the will of Christ in all things.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.429039912201893,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.11,
+            "commentatorTierSimilarities": [
+                27.5,
+                40.2,
+                32.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stop becoming senseless and foolish, but instead seek understanding and intelligently discern the will of the Lord. The will of the Lord goes beyond mere knowledge and requires practical application in our lives. Ultimately, His will is for our sanctification, and we should express gratitude in all things. Let us not waste our time or live foolishly, but rather, let us demonstrate true wisdom by striving to understand and align ourselves with the will of Christ in every aspect of our lives.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.2608569918892236,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.51,
+            "commentatorTierSimilarities": [
+                26.3,
+                39.77,
+                33.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stop becoming foolish and senseless, but instead seek to understand and discern intelligently the will of the Lord. The will of the Lord is not merely about knowledge, but about putting it into practice. Ultimately, His will is for our sanctification, and we should give thanks in everything. Let us not waste our time or live foolishly, but instead, let us demonstrate true wisdom by seeking to understand and follow the will of Christ in all aspects of our lives.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.3054840433269215,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.0,
+            "commentatorTierSimilarities": [
+                26.76,
+                40.3,
+                32.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stop becoming foolish and senseless, but instead seek understanding and intelligently discern the will of the Lord. The will of the Lord is not just about knowledge, but about putting it into practice in our daily lives. Ultimately, the will of the Lord is our sanctification, and in everything, we should give thanks. Let us not be fools in our lives, but instead, show true wisdom by seeking to understand and follow the will of Christ in all things.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 2.4179267393781787,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.74,
+            "commentatorTierSimilarities": [
+                27.06,
+                40.14,
+                32.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

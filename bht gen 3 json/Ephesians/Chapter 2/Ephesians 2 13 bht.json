@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:29:52",
+    "verseRef": "Ephesians 2:13",
+    "bestBHT": {
+        "bht": "But now, in Christ Jesus, you who once were far off from God and from the people of God have been brought near by the blood of Christ. The phrase 'far off' was commonly used to designate the Gentiles. However, through the blood of Christ, representing redemption, they have been reconciled to God and made near to Him. The blood of Christ is the seal of the covenant, in which their nearness to God consists.",
+        "wordCount": 75,
+        "quoteTokenProportion": 57.78,
+        "qualityScore": 2.312901418061557,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.24,
+        "commentatorTierSimilarities": [
+            34.4,
+            32.8,
+            32.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "but now (contrast to 'at that time' as things are now with you) in Christ Jesus ye who once were far off were brought... near.\" ",
+            "it was a common Jewish way of speaking, to designate the Gentiles as 'far off.'",
+            "the blood of Christ... as representing the redemption"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus is here added, whereas the expression before had been merely 'Christ,' to mark that they know Christ as the personal Savior.\" (Ephesians 2:13)",
+            "Far off from God and from the people of God.\" (Ephesians 2:13)",
+            "The blood of Christ is made the seal of a covenant in which their nearness to God consists.\" (Ephesians 2:13)"
+        ],
+        "Albert Barnes": [
+            "By the coming and atonement of the Lord Jesus, and by the gospel which he preached.",
+            "Who were 'formerly' - \u03c0\u03bf\u03c4\u03b5\u0300 pote Tyndale translates it, 'a whyle agoo.'",
+            "Now we are permitted to approach him with the blood of the atonement."
+        ],
+        "Marvin Vincent": [
+            "Now in Christ Jesus, in contrast with alienated from, etc.",
+            "Jesus is added because the Christ who was the subject of promise, the Messiah, has come into the world under that personal name.",
+            "The phrase includes the promised Messiah and the actual Savior."
+        ],
+        "John Calvin": [
+            "The Ephesians [...] had been reconciled to God through Christ, and made nigh by his blood.\" ",
+            "The blood of Christ has taken away the enmity which existed between them and God.\" ",
+            "[It] hath made them sons."
+        ],
+        "Philip Schaff": [
+            "In Christ Jesus, in fellowship with Him.",
+            "Once were far off; so the Jews would speak of Gentiles.",
+            "The blood of Christ...the symbol of a fact in which the seal of a covenant in which your nearness to God consists."
+        ],
+        "Archibald T. Robertson": [
+            "But now (\u03bd\u03c5\u03bd \u03b4\u03b5). Strong contrast, as opposed to 'at that time.'",
+            "Afar off (\u03bc\u03b1\u03ba\u03c1\u03b1\u03bd). Adverb (accusative feminine adjective with \u03bf\u03b4\u03bf\u03bd understood). From the \u03c0\u03bf\u03bb\u03b9\u03c4\u03b5\u03b9\u03b1 and its hope in God.",
+            "In the blood of Christ (\u03b5\u03bd \u03c4\u03c9 \u03b1\u03b9\u03bc\u03b1\u03c4 \u03c4\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5). Not a perfunctory addition, but essential (Ephesians 1:7), particularly in view of the Gnostic denial of Christ's real humanity."
+        ],
+        "John Gill": [
+            "Being openly and visibly in Christ, created in him, and become believers in him; as they were before secretly in him, as chosen and blessed in him before the foundation of the world.",
+            "ye who sometimes were far off; who in their state of unregeneracy were afar off from God, and from his law, and from any spiritual knowledge of him and fellowship with him",
+            "are made nigh by the blood of Christ: so as to have nearness of access to and communion with God, Father, Son, and Spirit, and the saints, in virtue of the blood of Christ"
+        ],
+        "John Wesley": [
+            "Far off \u2014 From God and his people.",
+            "Nigh \u2014 Intimately united to both."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But now, in Christ Jesus, you who were once far off are brought near. The phrase far off here is a common way of speaking to designate the Gentiles, who were once distant from God and from the people of God. However, through the blood of Christ, representing the redemption, they have been reconciled to God and are now brought near. By adding the name Jesus, the personal Savior, it emphasizes that they know Christ as the promised Messiah who has come into the world. This nearness to God is sealed by the blood of Christ, which has taken away the enmity and allows them to have access and communion with God.",
+            "wordCount": 112,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 2.250887126631281,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.18,
+            "commentatorTierSimilarities": [
+                36.49,
+                29.53,
+                33.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But now, in Christ Jesus, you who were once far off were brought near. The phrase far off designates the Gentiles who were distant from God and the people of God. Through the blood of Christ, representing redemption, they have been reconciled to God and brought near. Adding the name Jesus emphasizes that they know Christ as the promised Messiah who has come into the world. This nearness to God is sealed by the blood of Christ, allowing access and communion with God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 2.2581399227893963,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.42,
+            "commentatorTierSimilarities": [
+                35.62,
+                29.8,
+                34.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "But now, in Christ Jesus, you who were once far off were brought near. The Gentiles, often referred to as far off, were distant from God and the people of God. Through the blood of Christ, representing redemption, they have been reconciled to God. Adding the name Jesus emphasizes that they know Christ as the promised Messiah who has come into the world. This nearness to God is sealed by the blood of Christ, allowing access and communion with Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.238095889044856,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.76,
+            "commentatorTierSimilarities": [
+                35.57,
+                30.32,
+                34.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "But now, in Christ Jesus, you who once were far off from God and from the people of God have been brought near by the blood of Christ. The phrase 'far off' was commonly used to designate the Gentiles. However, through the blood of Christ, representing redemption, they have been reconciled to God and made near to Him. The blood of Christ is the seal of the covenant, in which their nearness to God consists. This phrase includes the promised Messiah and the actual Savior. Jesus is added to emphasize that they know Him as their personal Savior. It signifies a contrast with their previous state of being alienated from God, but now, through Christ, they are intimately united to Him and His people. (Ephesians 2:13)",
+            "wordCount": 125,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 2.13994068988827,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.49,
+            "commentatorTierSimilarities": [
+                37.53,
+                30.81,
+                31.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "But now, in Christ Jesus, you who once were far off from God and from the people of God have been brought near by the blood of Christ. The phrase 'far off' was commonly used to designate the Gentiles. However, through the blood of Christ, representing redemption, they have been reconciled to God and made near to Him. The blood of Christ is the seal of the covenant, in which their nearness to God consists.",
+            "wordCount": 75,
+            "quoteTokenProportion": 57.78,
+            "qualityScore": 2.312901418061557,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.24,
+            "commentatorTierSimilarities": [
+                34.4,
+                32.8,
+                32.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:25:02",
+    "verseRef": "Acts 2:6",
+    "bestBHT": {
+        "bht": "When the sound of the rushing mighty wind was heard, the crowd gathered and were confounded. The people were astonished and amazed that the disciples, who were known to be uneducated, could speak in different languages. The miracle of speaking in tongues was not limited to one language, but rather each person heard and understood the disciples in their own native tongue. This display of God's power silenced opposition and convinced the multitude that this was indeed a work of the Holy One.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.9808338856513843,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+        "commentatorTierSimilarities": [
+            27.55,
+            32.43,
+            40.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whatever this sound (literally, voice) may mean, one thing is clear,\u2014that it cannot mean, \u2018this rumour\u2019 ( \u2018when this was noised abroad,\u2019 A.V.): which would be unexampled.",
+            "We have then to choose between two things to which the word voice, or sound, might refer:\u2014 (1) the \u201csound as of a mighty rushing wind\u201d of ver. 2, which would hardly be used of a speaking which was still going on when the multitude assembled;\u2014and (2) the speaking with tongues of ver. 4.",
+            "The former is more probable, although the latter seems to agree with some expressions in 1 Cor. xiv., e.g. ver. 18."
+        ],
+        "Albert Barnes": [
+            "When the rumor of this remarkable transaction was spread, as it naturally would be.",
+            "The effect of a revival of religion is often to convince the multitude that it is indeed a work of the Holy One; to amaze them by the display of his power; and to silence opposition and cavil by the manifest presence and the power of God.",
+            "A few afterward began to cavil Acts 2:13, as some will always do in a revival; but the mass were convinced, as will be the case always, that this was a mighty display of the power of God."
+        ],
+        "Marvin Vincent": [
+            "When this sound was heard.",
+            "Confound is the most literal rendering possible.",
+            "The foreigners present spoke, not only different languages, but different dialects of the same language."
+        ],
+        "John Calvin": [
+            "If one after another in divers places, and at divers times, had heard the apostles speaking in divers tongues, the miracle had not been so famous.\" (Commentary)",
+            "There is a further circumstance also here to be noted, that the country (and native soil) of the apostles was commonly known, and this was also commonly known, that they never went out of their country to learn strange tongues.\" (Commentary)",
+            "Therefore, forasmuch as one speaketh Latin, another Greek, another the Arabian tongue, as occasion was offered, and that indifferently, and every one doth also change his tongue, the work of God appeareth more plainly hereby.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "And when this sound was heard.",
+            "When this sound, i.e. of the rushing mighty wind, was heard.",
+            "The multitude came together."
+        ],
+        "Archibald T. Robertson": [
+            "The meaning seems to be that the excited 'other tongues' of verse Acts 2:4 were so loud that the noise drew the crowd together.",
+            "Were confounded (\u03c3\u03c5\u03bd\u03b5\u03c7\u03c5\u03b8\u03b7). First aorist passive indicative of \u03c3\u03c5\u03bd\u03c7\u03b5\u03c9 or \u03c3\u03c5\u03bd\u03c7\u03c5\u03bd\u03c9, to pour together precisely like the Latin confundo, to confound.",
+            "Each one could understand his own language when he heard that. Every one that came heard somebody speaking in his native tongue."
+        ],
+        "John Gill": [
+            "The whole city was in an uproar, the assembly on this occasion was a perfect mob; their numbers were so large, that they were ready to thrust each other down, and trample one another under foot.",
+            "They were as persons stupid and senseless; being filled partly with shame and confusion, and partly with wonder and amazement, that these illiterate men, the followers of Jesus of Nazareth, whom they had crucified, and whose disciples they had in so much contempt, should have such extraordinary gifts bestowed on them.",
+            "It shows that it was not one language only which was spoken by the apostles, which men of different languages heard and understood, as if it was their own; for then the miracle must have been in the hearers, and not in the speakers."
+        ],
+        "John Wesley": [
+            "The multitude came together, and were confounded \u2014 The motions of their minds were swift and various."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the sound of the rushing mighty wind was heard, the crowd gathered and were confounded. The people were astonished and amazed that the disciples, who were known to be uneducated, could speak in different languages. The miracle of speaking in tongues was not limited to one language, but rather each person heard and understood the disciples in their own native tongue. This display of God's power silenced opposition and convinced the multitude that this was indeed a work of the Holy One. The city was in an uproar, with the assembly resembling a chaotic mob. The sheer number of people and the diverse languages being spoken added to the astonishment and confusion of the moment.",
+            "wordCount": 117,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8432201672211337,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.63,
+            "commentatorTierSimilarities": [
+                27.42,
+                30.88,
+                41.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the sound of the rushing mighty wind was heard, the crowd gathered and were confounded. The people were astonished and amazed that the disciples, who were known to be uneducated, could speak in different languages. The miracle of speaking in tongues was not limited to one language, but rather each person heard and understood the disciples in their own native tongue. This display of God's power silenced opposition and convinced the multitude that this was indeed a work of the Holy One.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.9808338856513843,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                27.55,
+                32.43,
+                40.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the sound of the rushing mighty wind was heard, the crowd gathered and were confounded. The people were amazed that the uneducated disciples could speak in different languages, understanding each person in their own native tongue. This display of God's power silenced opposition and convinced the multitude that this was indeed a work of the Holy One. The assembly became an uproar, resembling a chaotic mob, as people were astonished by the extraordinary gifts bestowed upon these illiterate followers of Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8782140531439373,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                25.52,
+                34.35,
+                40.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crowd came together and were confounded when they heard the sound of the rushing mighty wind. They were astonished that the uneducated disciples could speak in different languages, each person understanding in their own native tongue. This miraculous display of God's power silenced opposition and convinced the multitude that this was indeed a work of the Holy One. The assembly became an uproar, resembling a chaotic mob, as people were amazed at the extraordinary gifts bestowed upon these illiterate followers of Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8608273061889287,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                25.07,
+                33.0,
+                41.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crowd gathered and were confounded when they heard the sound of the rushing mighty wind. They were amazed that the uneducated disciples could speak in different languages, each person understanding in their own native tongue. This display of God's power silenced opposition and convinced the multitude that this was indeed a work of the Holy One. The assembly became an uproar, resembling a chaotic mob, as people were astonished by the extraordinary gifts bestowed upon these illiterate followers of Jesus.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.8460780250185038,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                25.51,
+                32.68,
+                41.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

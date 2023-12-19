@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:13:28",
+    "verseRef": "Luke 1:58",
+    "bestBHT": {
+        "bht": "God had magnified his mercy with her, showing her favor that was beyond ordinary. This extraordinary act of divine favor served as a testament to God's power and glory, prompting the people around her to rejoice and celebrate this miraculous event. The neighbors and relatives, who were witnesses to this incredible act, were filled with joy and shared in her happiness. The birth of a son was a significant token of God's mercy in Jewish culture, and this remarkable case fully justified the expression used to describe how God had shown great mercy upon her.",
+        "wordCount": 97,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.67623855176039,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+        "commentatorTierSimilarities": [
+            29.95,
+            39.55,
+            30.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Had shewed great mercy upon her [\u03b5\u03bc\u03b5\u03b3\u03b1\u03bb\u03c5\u03bd\u03b5\u03bd \u03c4\u03bf \u03b5\u03bb\u03b5\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5 \u03bc\u03b5\u03c4 \u03b1\u03c5\u03c4\u03b7\u03c2] . Lit., magnified his mercy with her. So Wyc. A Hebrew expression. See 1 Samuel 12:24, Sept."
+        ],
+        "John Calvin": [
+            "This was certainly no ordinary divine favor, that, out of the course of nature, a barren woman at a very advanced age had brought forth a child.",
+            "God takes occasion from it to make them witnesses and spectators of his power and glory.",
+            "Though they circumcised their children at home, they were not wont to do so without collecting a numerous assembly."
+        ],
+        "Philip Schaff": [
+            "Kindred. The plural of the word used in Luke 1:36 to indicate the relationship between Mary and Elisabeth.",
+            "Not 'how;' according to the hopes of Jewish matrons the birth of a son was the preeminent token of God's mercy.",
+            "This remarkable case fully justified the expression here used, magnified his mercy toward her."
+        ],
+        "Archibald T. Robertson": [
+            "Had magnified (\u03b5\u03bc\u03b5\u03b3\u03b1\u03bb\u03c5\u03bd\u03b5\u03bd). Aorist active indicative. Same verb as in verse Luke 1:46.",
+            "Rejoiced with her (\u03c3\u03c5\u03bd\u03b5\u03c7\u03b1\u03b9\u03c1\u03bf\u03bd \u03b1\u03c5\u03c4\u03b7). Imperfect tense and pictures the continual joy of the neighbours.",
+            "\u03c3\u03c5\u03bd- (cf. Philippians 2:18) in its mutual aspect."
+        ],
+        "John Gill": [
+            "And her neighbours, and her cousins...heard how the Lord had showed great mercy upon her...and they rejoiced with her.\" ",
+            "That lived in Hebron, and the parts adjacent...whether of the house of Aaron, or of the tribe of Judah...to both which she was related.",
+            "In removing her barrenness, and so taking away her reproach from among men; in giving her strength to conceive, and bring forth a son, that was to be so great."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God had magnified his mercy with her, showing her favor that was beyond ordinary and defying the natural order by allowing a barren woman to conceive and bring forth a child. This extraordinary act of divine favor served as a testament to God's power and glory, prompting the people around her to rejoice and celebrate this miraculous event. The neighbors and relatives, who were witnesses to this incredible act, were filled with joy and shared in her happiness. The birth of a son was a significant token of God's mercy in Jewish culture, and this remarkable case fully justified the expression used to describe how God had shown great mercy upon her.",
+            "wordCount": 114,
+            "quoteTokenProportion": 29.73,
+            "qualityScore": 1.6329061367030997,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.64,
+            "commentatorTierSimilarities": [
+                28.28,
+                38.47,
+                33.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God demonstrated His great mercy by magnifying it with her, a barren woman who had miraculously conceived and given birth. This extraordinary act spoke to God's power and glory, prompting rejoicing among her neighbors and relatives. The birth of a son was seen as a profound sign of divine mercy, making this miraculous event even more significant. God's intervention removed her barrenness and brought strength for conception, enriching her life and removing any reproach she had faced.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5157474802880195,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "commentatorTierSimilarities": [
+                27.28,
+                36.4,
+                36.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God had magnified his mercy with her, showing her favor that was beyond ordinary. This extraordinary act of divine favor served as a testament to God's power and glory, prompting the people around her to rejoice and celebrate this miraculous event. The neighbors and relatives, who were witnesses to this incredible act, were filled with joy and shared in her happiness. The birth of a son was a significant token of God's mercy in Jewish culture, and this remarkable case fully justified the expression used to describe how God had shown great mercy upon her.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.67623855176039,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+            "commentatorTierSimilarities": [
+                29.95,
+                39.55,
+                30.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's extraordinary act of magnifying His mercy was evident in His favor towards her, a barren woman. This miraculous event showcased God's power and glory, leading to rejoicing among her neighbors and relatives who witnessed it. In Jewish culture, the birth of a son symbolized God's mercy, making this remarkable case a clear example of divine intervention. God's intervention not only removed her barrenness but also gave her the strength to conceive and bring forth a son, eliminating her reproach and bringing joy to all.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.6701217799446786,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                28.42,
+                37.34,
+                34.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God displayed His great mercy by magnifying it with her, a barren woman. This extraordinary act, defying nature, revealed His power and glory. Witnesses, including her neighbors and relatives, rejoiced at this miraculous event. In Jewish culture, the birth of a son was a prominent sign of divine mercy. The unique circumstances fully justified the expression used to describe how God showed great mercy upon her, removing her barrenness and bringing forth a son who would be great.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5609214283617163,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.24,
+            "commentatorTierSimilarities": [
+                29.44,
+                39.37,
+                31.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

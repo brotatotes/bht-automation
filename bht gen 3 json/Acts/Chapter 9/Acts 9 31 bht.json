@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:29:02",
+    "verseRef": "Acts 9:31",
+    "bestBHT": {
+        "bht": "During this time of rest, the church found strength and grace, as the fear of the Lord expressed their holy walk and the comfort of the Holy Ghost brought them peace and joy. The persecution had ceased due to the conversion of Saul, and the church continued to grow in numbers and in their spiritual life. The blood of the martyrs had become the seed of the church, deepening their faith and edifying the believers. They walked in the fear of God and were filled with the consolation of the Spirit.",
+        "wordCount": 91,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 2.1859944630369643,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.02,
+        "commentatorTierSimilarities": [
+            29.76,
+            36.72,
+            33.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reading church, instead of 'churches,' can hardly (as Meyer) be an alteration to suit the idea of the unity of the church.\" ",
+            "This description probably embraces most of the time since the conversion of Saul.\" ",
+            "It probably refers to both external and internal strength and accession of grace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This rest was owing not so much to the conversion of Saul, as probably to the Jews being engrossed with the emperor Caligula's attempt to have his own image set up in the temple of Jerusalem.",
+            "This incidental notice of distinct churches already dotting all the regions which were the chief scenes of our Lord's ministry [...] is extremely interesting.",
+            "The fear of the Lord expresses their holy walk, the comfort of the Holy Ghost, their peace and joy in believing, under the silent operation of the blessed Comforter."
+        ],
+        "Albert Barnes": [
+            "By the providence of God, therefore, this event was permitted to occur to divert the attention of bloody-minded persecutors from a feeble and bleeding church.",
+            "Anxious for their own safety, the Jews would cease to persecute the Christians, and thus, by the conversion of the main instrument in persecution, and by the universal alarm for the welfare of the nation, the trembling and enfeebled church was permitted to obtain repose.",
+            "In the fear of the Lord - Fearing the Lord; with reverence for him and his commandments. This expression is often used to denote 'piety' in general."
+        ],
+        "Marvin Vincent": [
+            "The best texts read the church; embracing all the different churches throughout the three provinces of Palestine.",
+            "The word is rendered in the New Testament both exhortation and consolation.",
+            "Here exhortation is the rendering approved by the best authorities, to be construed with was multiplied: was multiplied by the exhortation of the Holy Ghost; i.e., by the Holy Spirit inspiring the preachers, and moving the hearts of the hearers."
+        ],
+        "John Calvin": [
+            "Luke doth rather commend him for this, because he made the wicked run mad, only with the smell of him when he was near them.",
+            "But Luke addeth other things, which are of far more value; to wit, that the Churches were edified, they walked in the fear of God, and they were filled with the consolation of the Spirit.",
+            "Therefore, let us learn not to abuse external peace in banqueting and idleness; but the more rest we have given us from our enemies, to encourage ourselves to go forward in godliness whilst we may."
+        ],
+        "Philip Schaff": [
+            "This general picture of the Church embraces most of the time which had elapsed since the conversion of Saul.",
+            "Two consequences are represented as resulting from this period of rest and peace enjoyed by the churches of the Holy Land: (1) The spiritual life of the individual members was deepened; (2) the numbers of the several congregations were increased.",
+            "During the time of peace and quiet, the number of believers was continually receiving additions; while the spiritual life of the individual members was being deepened, as they lived a life as though ever in the Lord\u2019s presence."
+        ],
+        "Archibald T. Robertson": [
+            "The obvious meaning is that the persecution ceased because the persecutor had been converted. The wolf no longer ravined the sheep.",
+            "One result of the enjoyment of peace after the persecution was the continued edification.",
+            "The blood of the martyrs was already becoming the seed of the church. Stephen had not borne his witness in vain."
+        ],
+        "John Gill": [
+            "Through the ministry of the word and ordinances, and their mutual love and holy conversation; and had an increase of members, and of grace, and of spiritual knowledge.",
+            "And walking in it denotes a continuance in it, a constant progression in all the acts of internal and external worship, which are both included in the fear of the Lord; and it requires strength, and supposes pleasure and freedom.",
+            "The promises of the covenant, and of the Gospel, he opens and applies, being such as hold forth the blessings of grace unto them; and being exceeding great, and precious, and suitable to their cases; and being absolute and unconditional, immutable, and sure, afford them much pleasure and satisfaction."
+        ],
+        "John Wesley": [
+            "The whole body of Christian believers, had peace - Their bitterest persecutor being converted.",
+            "And being built up \u2014 In holy, loving faith, continually increasing, and walking in - That is, speaking and acting only from this principle.",
+            "The fear of God and the comfort of the Holy Ghost - An excellent mixture of inward and outward peace, tempered with filial fear."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During this time of rest for the church, the faith of the believers was deepened and strengthened. The fear of the Lord expressed their reverence and piety, while the comfort of the Holy Ghost brought them peace and joy. The peace they enjoyed allowed them to continue in the Lord's presence, growing in spiritual knowledge and grace. The persecution had ceased, and the church began to flourish with an increasing number of believers. The blood of the martyrs had indeed become the seed of the church, as Stephen's witness had not been in vain. Through the ministry of the word and their mutual love, the churches were built up and edified, walking in the fear of God and filled with the consolation of the Spirit.",
+            "wordCount": 127,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.1626125432201784,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.25,
+            "commentatorTierSimilarities": [
+                28.81,
+                37.73,
+                33.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During this time of rest for the church, the fear of the Lord embraced their holy walk, while the comfort of the Holy Ghost brought them peace and joy. The church was multiplied by the exhortation of the Holy Ghost, deepening the spiritual life of its members. As persecution ceased, the number of believers increased. The blood of the martyrs had already become the seed of the church, as Stephen's witness had not been in vain. The churches were built up and edified, walking in the fear of God and filled with the consolation of the Spirit.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.1204976176615546,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.85,
+            "commentatorTierSimilarities": [
+                31.99,
+                36.9,
+                31.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During this time of rest, the church found strength and grace, as the fear of the Lord expressed their holy walk and the comfort of the Holy Ghost brought them peace and joy. The persecution had ceased due to the conversion of Saul, and the church continued to grow in numbers and in their spiritual life. The blood of the martyrs had become the seed of the church, deepening their faith and edifying the believers. They walked in the fear of God and were filled with the consolation of the Spirit.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.1859944630369643,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.02,
+            "commentatorTierSimilarities": [
+                29.76,
+                36.72,
+                33.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During this time of rest, the church was filled with the consolation of the Spirit and walked in the fear of the Lord. The conversion of Saul brought an end to the persecution, allowing the church to flourish with an increasing number of believers. As the blood of the martyrs became the seed of the church, the individual members experienced a deepened spiritual life. The churches were built up and edified, continuing to grow in grace and knowledge. The fear of God and the comfort of the Holy Ghost permeated their lives, bringing both inward and outward peace.",
+            "wordCount": 98,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 2.152766476801105,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.92,
+            "commentatorTierSimilarities": [
+                29.08,
+                38.62,
+                32.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During this time, the church found rest, as the fear of the Lord guided their footsteps and the comfort of the Holy Ghost brought them peace. With the conversion of Saul, the persecution ceased, allowing the church to thrive and expand. The blood of the martyrs served as the seed of the church, as Stephen's witness had not been in vain. The believers walked in the fear of God, were edified, and were filled with the consolation of the Spirit, experiencing both inward and outward tranquility.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.1621590853333643,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.23,
+            "commentatorTierSimilarities": [
+                32.15,
+                36.37,
+                31.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

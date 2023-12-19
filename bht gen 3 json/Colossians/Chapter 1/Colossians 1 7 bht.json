@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:19:02",
+    "verseRef": "Colossians 1:7",
+    "bestBHT": {
+        "bht": "Epaphras, faithfully serving as the Apostle's deputy, was the founder of the Church at Colosse and their source of knowledge of Christ. He acted as their minister, managing their interests and representing Paul. Epaphras zealously loved and dedicated his time and strength to the Colossians' well-being. As a faithful minister of Christ, he should not be overlooked amidst the rise of false teachers. He sought to know the grace of God, sincerely profess the truth of the Gospel, and diligently serve alongside Paul and Timotheus.",
+        "wordCount": 87,
+        "quoteTokenProportion": 27.59,
+        "qualityScore": 1.9370460599566024,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+        "commentatorTierSimilarities": [
+            27.54,
+            33.84,
+            38.63
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in which truth",
+            "faithful on our behalf",
+            "acting faithfully as the Apostle\u2019s deputy"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Epaphras alone was the founder of the Church at Colosse.",
+            "Epaphras may have been apprehended for his zealous labors in Asia Minor.",
+            "He is one not to be set aside for the new and erroneous teachers."
+        ],
+        "Albert Barnes": [
+            "It is evident from this, that Epaphras was a minister of the church at Colossae, though there is no evidence, as has been often supposed, that he was the founder of the church.",
+            "This shows that Paul had contracted a strong friendship for Epaphras.",
+            "Who is for you a faithful minister of Christ - 'For you,' when he is with you, and in managing your interests here."
+        ],
+        "Marvin Vincent": [
+            "Fellow-servant. Used by Paul only here and ch. 4:7.",
+            "Minister. See on Matthew 20:26; Mark 9:35.",
+            "For you. Read us as Rev., on our behalf: as Paul's representative."
+        ],
+        "Philip Schaff": [
+            "The view that there were two persons is preferable.",
+            "What the Apostle would oppose was the error which had sprung up since the true gospel was preached to him by Epaphras.",
+            "Only the minister of Christ can be thus faithful, but he always should be faithful."
+        ],
+        "Archibald T. Robertson": [
+            "From Epaphras\" who is the source of their knowledge of Christ.",
+            "On our behalf.\" In a true sense Epaphras was Paul's messenger to Colossae."
+        ],
+        "John Gill": [
+            "To know the grace of God, believe the truth of the Gospel, and to own and profess it sincerely.",
+            "Our dear fellow servant; a 'servant' of Christ he was, and a 'fellow' servant of the apostles, jointly engaged with them in preaching the Gospel.",
+            "He was a 'faithful' one; one that sought not his own glory, but the glory of him that sent him; nor to please men, but his master...he sought not theirs, but them; he had a great zeal for them, dearly loved them, and spent his time and strength...for their use and benefit."
+        ],
+        "John Wesley": [
+            "The fellowservant \u2014 Of Paul and Timotheus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Epaphras, acting faithfully as the Apostle's deputy, was the founder of the Church at Colosse and their source of knowledge of Christ. He served faithfully as their minister, managing their interests and representing Paul to them. He was a dear fellow servant, dedicated to knowing the grace of God and professing the truth of the Gospel sincerely. Epaphras had a great zeal for the Colossians, dearly loved them, and spent his time and strength for their use and benefit. He was not to be set aside for the new and erroneous teachers, as he was a faithful minister of Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.9388869855480968,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                27.75,
+                34.1,
+                38.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Epaphras, faithfully serving as the Apostle's deputy, founded the Church at Colosse and is their source of knowledge of Christ. He acts as their minister, managing their interests and representing Paul. Epaphras is a dear fellow servant who ardently seeks to know the grace of God and sincerely profess the truth of the Gospel. He zealously loves and dedicates his time and strength to the Colossians' well-being. As a faithful minister of Christ, he should not be ignored amidst the rise of false teachers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.889087296337665,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                27.47,
+                35.23,
+                37.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Epaphras, faithfully serving as the Apostle's deputy, was the founder of the Church at Colosse and their source of knowledge of Christ. He acted as their minister, managing their interests and representing Paul. Epaphras zealously loved and dedicated his time and strength to the Colossians' well-being. As a faithful minister of Christ, he should not be overlooked amidst the rise of false teachers. He sought to know the grace of God, sincerely profess the truth of the Gospel, and diligently serve alongside Paul and Timotheus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.9370460599566024,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "commentatorTierSimilarities": [
+                27.54,
+                33.84,
+                38.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Epaphras, faithfully serving as the Apostle's deputy, was the founder of the Church at Colosse and their source of knowledge of Christ. He acted as their minister, managing their interests and representing Paul. Epaphras was a dear fellow servant, zealously seeking to know the grace of God and sincerely profess the truth of the Gospel. He dedicated his time and strength to the Colossians' benefit and should not be disregarded amidst the rise of false teachers. His faithfulness as a minister of Christ was evident and commendable.",
+            "wordCount": 88,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.9233735942327166,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.29,
+            "commentatorTierSimilarities": [
+                27.73,
+                35.0,
+                37.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Epaphras, acting faithfully as the Apostle's deputy, was the founder of the Church at Colosse. He served as their minister, managing their interests and representing Paul. Epaphras, a dear fellow servant, diligently sought to know the grace of God and sincerely profess the truth of the Gospel. He showed a great zeal for the Colossians, dearly loved them, and selflessly dedicated his time and strength for their benefit. Amidst the rise of false teachers, Epaphras stood as a faithful minister of Christ, worthy of recognition and appreciation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 21.31,
+            "qualityScore": 1.8599498960304646,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.18,
+            "commentatorTierSimilarities": [
+                27.89,
+                32.88,
+                39.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:26:34",
+    "verseRef": "Acts 5:11",
+    "bestBHT": {
+        "bht": "A great fear came upon all the church as a result of the startling judgment that occurred at the commencement of a new era. This fear was not simply terror, but rather a deep awe inspired by the severity of God's judgment. The whole body of believers in Jerusalem, as well as those who heard about the fate of Ananias and Sapphira, were filled with awe and dread. This event served as a reminder for the faithful to fear God and to be admonished by His judgments, leading them to a deeper reverence for Him.",
+        "wordCount": 96,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 1.7351933852425354,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.04,
+        "commentatorTierSimilarities": [
+            34.07,
+            37.7,
+            28.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And great fear came upon all the church\" - great fear came upon all the church",
+            "The chief design of so startling a judgment\" - chief design of so startling a judgment",
+            "The time\u2014at the commencement of a new career\u2014was similar\" - time\u2014at the commencement of a new career\u2014was similar"
+        ],
+        "John Calvin": [
+            "But he plainly expresseth in this place a double fear.",
+            "The faithful do never so perfectly fear God, but that they profit yet more, being admonished by his judgments.",
+            "For our flesh must be bridled every now and then after this sort, because one bridle will scarce serve the turn."
+        ],
+        "Philip Schaff": [
+            "Fear, however, in its best and noblest sense better, perhaps, expressed as \u2018a deep awe.\u2019",
+            "The mercy, not the severity of God, was henceforth shown to those men who professed His high service.",
+            "Such an event was in fact only possible then, in those first days, in the early morning of the faith, when the Spirit of the Lord ever dwelt with the disciples."
+        ],
+        "Archibald T. Robertson": [
+            "In Acts 7:38 it is used of the whole congregation of Israel while in Acts 19:32 it is used of a public assembly in Ephesus.",
+            "But already in Acts 8:3 it is applied to the church which Saul was persecuting in their homes when not assembled.",
+            "The whole body of believers in Jerusalem and all who heard of the fate of Ananias and Sapphira were in awe and dread."
+        ],
+        "John Gill": [
+            "And great fear came upon all the church....\" ",
+            "....which was still more increased by this instance of Sapphira's death.",
+            "....and upon as many as heard these things; who were not of the church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A great fear came upon all the church, for the chief design of such a startling judgment was to instill awe in the believers. This fear was similar to the fear experienced by the whole congregation of Israel in Acts 7:38 and the public assembly in Ephesus in Acts 19:32. However, in this context, it referred specifically to the whole body of believers in Jerusalem who were in awe and dread after witnessing the fate of Ananias and Sapphira. This event, which displayed the severity of God, was only possible in the early days of the faith when the Spirit of the Lord dwelt closely with the disciples.",
+            "wordCount": 106,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.7903366864179442,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                39.09,
+                41.68,
+                19.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A great fear came upon all the church as a result of the startling judgment that occurred at the commencement of a new era. This fear was not simply terror, but rather a deep awe inspired by the severity of God's judgment. The whole body of believers in Jerusalem, as well as those who heard about the fate of Ananias and Sapphira, were filled with awe and dread. This event served as a reminder for the faithful to fear God and to be admonished by His judgments, leading them to a deeper reverence for Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.7351933852425354,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.04,
+            "commentatorTierSimilarities": [
+                34.07,
+                37.7,
+                28.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The church was gripped with great fear after witnessing the shocking judgment that took place at the beginning of a new era. This fear encompassed both the whole body of believers in Jerusalem and all who heard about the fate of Ananias and Sapphira. It was not a mere terror, but rather a deep awe, a profound reverence for God's severity. This event served as a solemn reminder for the faithful to fear and respect God, learning from His judgments.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.672061906396392,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                32.99,
+                38.56,
+                28.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A great fear came upon all the church, for the chief design of so startling a judgment was to instill awe in the believers. This fear was similar to the fear experienced by the whole congregation of Israel and the public assembly in Ephesus. However, in this context, it referred specifically to the whole body of believers in Jerusalem who were in awe and dread after witnessing the fate of Ananias and Sapphira. This event displayed the severity of God and served as a reminder for the faithful to fear and respect Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7229478835805154,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.63,
+            "commentatorTierSimilarities": [
+                36.93,
+                37.93,
+                25.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A great fear came upon all the church as a result of the startling judgment that occurred at the commencement of a new era. This fear was not simply terror but a deep awe inspired by the severity of God's judgment. The whole body of believers in Jerusalem, as well as those who heard about the fate of Ananias and Sapphira, were filled with awe and dread. This event served as a reminder for the faithful to fear God and be admonished by His judgments, leading them to a deeper reverence for Him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.7327289090975593,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+            "commentatorTierSimilarities": [
+                34.06,
+                37.5,
+                28.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

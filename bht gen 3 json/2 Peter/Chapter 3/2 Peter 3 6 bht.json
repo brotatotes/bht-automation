@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:40:55",
+    "verseRef": "2 Peter 3:6",
+    "bestBHT": {
+        "bht": "The deluge that caused the perishing of the then world was not an annihilation but a result of the breaking up of the fountains of the great deep and the opening of the windows of heaven. This catastrophic event challenges the claim that all things continue as they were from the beginning of creation, as it serves as a reminder that even the seemingly stable laws of nature can be disrupted. The term used for world emphasizes its order and beauty, highlighting the perfect system of the material universe that was lost.",
+        "wordCount": 92,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.8639291444350197,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+        "commentatorTierSimilarities": [
+            22.78,
+            43.12,
+            34.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "By means of which heavens and earth...the then world perished.",
+            "Not was annihilated; for in the flood 'the fountains of the great deep were broken up' from the earth below, and 'the windows of heaven' above 'were opened.'",
+            "The earth was deluged by that water out of which it had originally risen."
+        ],
+        "Albert Barnes": [
+            "The fact seems to be that the apostle had the 'waters' mentioned in Genesis prominently in his eye, and meant to describe the effect produced 'by' those waters.\" ",
+            "The world was formed from that fluid mass; by these waters which existed when the earth was made, and out of which it arose, it was destroyed.\" ",
+            "Notwithstanding the apparent stability of the laws of nature, the world had been once destroyed; and there is, therefore, no improbability that it may be again."
+        ],
+        "Marvin Vincent": [
+            "The word for world is literally order, and denotes the perfect system of the material universe.",
+            "The world that then was [\u03bf \u03c4\u03bf\u03c4\u03b5 \u03ba\u03bf\u03c3\u03bc\u03bf\u03c2] . Lit., the then world.",
+            "Cataclysm is derived from it."
+        ],
+        "John Calvin": [
+            "For of this they are wilfully ignorant, that the heavens existed of old and the earth (which subsisted from water and in water,) by the word of God; by which the world at that time, being overflowed with water, was destroyed.",
+            "The objection to this view is, as justly stated by Macknight, that the correspondence between this verse and the following is thereby lost: the reservation of the world to be destroyed by fire is expressly ascribed, in verse seventh, to God\u2019s word; and to the same ought the destruction of the old world to be ascribed.",
+            "By 'word' here is meant command, or power, or the fiat by which the world was created; and by the same it was destroyed, and by the same it will be finally destroyed."
+        ],
+        "Philip Schaff": [
+            "The term used for \u2018world\u2019 here is the one (cosmos) which describes it as a system of order and beauty, and presents it (in distinction from another term aeon, which deals with it under the aspect of time) under the aspect of space.",
+            "Here the phrase need not be restricted to the idea of the world of men, or of living creatures, but may cover the whole order of things, with the men occupying it, which existed prior to the Deluge.",
+            "The old and seemingly constant order of things perished by being overwhelmed with water, the agents of the destruction being the agents that first formed our earth and heavens, namely, the creative word of God and the element of water on which it acted."
+        ],
+        "Archibald T. Robertson": [
+            "By which means (\u03b4\u03b9' \u03c9\u03bd). The two waters above or the water and the word of God.",
+            "Being overshadowed (\u03ba\u03b1\u03c4\u03b1\u03ba\u03bb\u03c5\u03c3\u03b8\u03b5\u03b9\u03c2).",
+            "With water (\u03c5\u03b4\u03b1\u03c4). Instrumental case of \u03c5\u03b4\u03c9\u03c1."
+        ],
+        "John Gill": [
+            "but as to the inhabitants of it; for all creatures, men and cattle, and the creeping things, and fowls of the heaven, were destroyed\" (30 words)",
+            "by this instance the apostle shows the falsehood of the above assertion, that all things continued as they were from the beginning of the creation\" (31 words)",
+            "for though the heavens and the earth may continue for a long time, as they did before the flood, in the same form and situation, it does not follow from thence that they always will\" (36 words)"
+        ],
+        "John Wesley": [
+            "Being overflowed with water, perished.\" ",
+            "And the heavens and earth themselves, though they did not perish, yet underwent a great change.",
+            "So little ground have these scoffers for saying that all things continue as they were from the creation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes the destruction of the world by means of which heavens and earth...the then world perished. This destruction was not an annihilation, but a deluge caused by the breaking up of the fountains of the great deep and the opening of the windows of heaven. The world that perished refers to the perfect system of the material universe, and the term used for world emphasizes its order and beauty. The catastrophic event of the flood serves as a reminder that the seemingly stable laws of nature can be disrupted, challenging the scoffers' claim that all things continue as they were from the beginning of creation.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.9612362712510298,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                25.2,
+                39.92,
+                34.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The destruction of the then world was not an annihilation but a deluge caused by the breaking up of the fountains of the great deep and the opening of the windows of heaven. This catastrophic event, described as a deluge, serves as a reminder that the seemingly stable laws of nature can be disrupted. The term used for world emphasizes its order and beauty, contradicting the scoffers' claim that all things continue as they were from the beginning of creation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.8635683837827484,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                22.06,
+                43.07,
+                34.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The world, described as a perfect system of the material universe, perished not by annihilation but by a deluge caused by the breaking up of the fountains of the great deep and the opening of the windows of heaven. This catastrophic event serves as a reminder that the seemingly stable laws of nature can be disrupted. The term used for world emphasizes its order and beauty, challenging the claim that all things continue as they were from the beginning of creation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.783896968083634,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                22.01,
+                44.05,
+                33.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The world perished not by annihilation, but by a deluge caused by the breaking up of the fountains of the great deep and the opening of the windows of heaven. This catastrophic event served as a reminder that nature's seemingly stable laws can be disrupted. The term used for world emphasizes its order and beauty, challenging the claim that all things continue as they were from the beginning of creation.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.725003300326588,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                22.16,
+                43.47,
+                34.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The deluge that caused the perishing of the then world was not an annihilation but a result of the breaking up of the fountains of the great deep and the opening of the windows of heaven. This catastrophic event challenges the claim that all things continue as they were from the beginning of creation, as it serves as a reminder that even the seemingly stable laws of nature can be disrupted. The term used for world emphasizes its order and beauty, highlighting the perfect system of the material universe that was lost.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8639291444350197,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                22.78,
+                43.12,
+                34.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

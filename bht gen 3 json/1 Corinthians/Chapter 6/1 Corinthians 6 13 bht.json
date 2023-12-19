@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:06:36",
+    "verseRef": "1 Corinthians 6:13",
+    "bestBHT": {
+        "bht": "The body and food share a temporary and perishable nature, but while meats may be indifferent, fornication is always evil. Fornication is a sin against the body, which is created for the Lord's purpose of sanctification and glorification. Our bodies have a higher mission than sensual gratification; they are consecrated to Christ and should not be abused. Instead, we should use our bodies for the Lord's work, allowing His Spirit to sanctify and glorify us.",
+        "wordCount": 77,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.431567912397557,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.19,
+        "commentatorTierSimilarities": [
+            34.89,
+            35.44,
+            29.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reciprocal subserviency of the belly and meats is shewn by their coextensiveness in duration, and perishing together.",
+            "But when fornication (and even that lawful use which is physical the same, but which is not ere contemplated) shall have for ever passed away, the body shall be subserving its real use\u2014that of being an instrument for the Lord\u2019s work.",
+            "The Lord for the body] not, only for the body; but for the body; to sanctify our bodies by His Spirit, and finally to glorify them for Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Meats doubtless are indifferent, since both they and the 'belly' for which they are created are to be 'destroyed' in the future state.\" ",
+            "The body is not (created) for fornication, but for the Lord; and the Lord for the body.\" ",
+            "Fornication is not indifferent, since it is a sin against one's own body, which, like the Lord for whom it is created, is not to be destroyed, but to be raised to eternal existence."
+        ],
+        "Albert Barnes": [
+            "It is unworthy the immortal mind to spend its time and thought in making provision for the body which is soon to perish.",
+            "The pampering of the appetites is the great purpose for which they live, and the only purpose.",
+            "The body of man was designed by its Maker to be devoted to him, and should be consecrated to the purposes of a pure and holy life."
+        ],
+        "Marvin Vincent": [
+            "There is a law of adaptation running through nature, illustrated by the mutual adaptation of food and the digestive organs...",
+            "...but this law is violated by the prostitution of the body to fornication...",
+            "The mutual physical adaptation is only temporary, as the body and its nourishment are alike perishable."
+        ],
+        "John Calvin": [
+            "We must use this world so as not to abuse it.",
+            "Our liberty ought not by any means to be extended to fornication.",
+            "It is consecrated to Christ, and it is impossible that Christ should be conjoined with fornication."
+        ],
+        "Philip Schaff": [
+            "Meats, no doubt, are indifferent, but since both they and the mortal body to which they minister are destined to perish in their corruptibility, scorn to become enslaved to them.",
+            "As the body was not made to be pampered by 'meats,' much less to be prostituted to vile uses, so the body of every believer is redeemed to be the Lord\u2019s property, and the Lord belongs to it in return."
+        ],
+        "Archibald T. Robertson": [
+            "We have traces of this gross moral confusion in the circumstances which dictated the Apostolic Letter (Acts 15:23-29), where things wholly diverse are combined, as directions about meats to be avoided and a prohibition of fornication.\" ",
+            "The human body has a higher mission than the mere gratification of sensual appetite. Sex is of God for the propagation of the race, not for prostitution.\" ",
+            "The Lord Jesus and \u03c0\u03bf\u03c1\u03bd\u03b5\u03b9\u03b1 contested for the bodies of Christian men; loyal to him they must renounce that, yielding to that they renounce him."
+        ],
+        "John Gill": [
+            "But God shall destroy both it and them: at death, and in the grave, when the one shall be consumed, and the other be needless and useless.",
+            "The children of the resurrection will be like the angels, and stand in no need of eating and drinking.",
+            "The body was not originally made and appointed for fornication; this is quite besides the will of God, who has provided marriage as a remedy against it."
+        ],
+        "John Wesley": [
+            "These, I grant, are all indifferent, and have their use, though it is only for a time: then meats, and the organs which receive them, will together moulder into dust.",
+            "But the case is quite otherwise with fornication. This is not indifferent, but at all times evil.",
+            "For the body is for the Lord \u2014 Designed only for his service. And the Lord, in an important sense, for the body - Being the Saviour of this, as well as of the soul; in proof of which God hath already raised him from the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The body and food have a reciprocal relationship, as they both perish and have a temporary nature. However, the body is not meant for fornication, but for the Lord's purpose. Fornication is a sin against the body, which is designed for eternal existence. While meats may be indifferent, fornication is always evil. The body is consecrated to Christ, and we should not abuse our liberty by engaging in fornication. Our bodies have a higher mission than the gratification of sensual desires. Ultimately, the body is meant for the Lord's work and to be sanctified by His Spirit.",
+            "wordCount": 99,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.2337517194458725,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.61,
+            "commentatorTierSimilarities": [
+                35.74,
+                33.29,
+                30.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The body and food share a temporary nature, perishing together. Fornication is a sin against the body created for the Lord's purpose of sanctification and glorification. While meats may be indifferent due to their perishability, fornication is always evil. Our bodies have a higher mission than sensual gratification, they are consecrated to Christ. Therefore, we should not abuse our liberty and engage in fornication. Instead, let us focus on using our bodies for the Lord's work and to be sanctified by His Spirit.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.0690500595954515,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                35.33,
+                32.63,
+                32.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The body and food are intertwined in a reciprocal subserviency, both perishing together. Fornication is not indifferent, but a sin against the body created for the Lord's purpose. Meats may be indifferent, but fornication is always evil. Our bodies have a higher mission than the gratification of sensual appetite and are meant to be consecrated to Christ. We should not abuse our liberty and yield to fornication, but instead use our bodies for the Lord's work, sanctified by His Spirit.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.270351007140518,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.83,
+            "commentatorTierSimilarities": [
+                35.74,
+                32.91,
+                31.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The body and food coexist in a temporary nature, both destined for perishability. Fornication is condemned as a sin against one's own body, created for the purpose of sanctification and glorification. While meats may be indifferent due to their perishable nature, fornication is always evil. Our bodies have a higher mission than the gratification of sensual desires and should be consecrated to Christ. We should not abuse our liberty by engaging in fornication, but rather use our bodies for the Lord's work and seek sanctification through His Spirit.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.2343953803026615,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.63,
+            "commentatorTierSimilarities": [
+                34.96,
+                34.79,
+                30.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The body and food share a temporary and perishable nature, but while meats may be indifferent, fornication is always evil. Fornication is a sin against the body, which is created for the Lord's purpose of sanctification and glorification. Our bodies have a higher mission than sensual gratification; they are consecrated to Christ and should not be abused. Instead, we should use our bodies for the Lord's work, allowing His Spirit to sanctify and glorify us.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.431567912397557,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.19,
+            "commentatorTierSimilarities": [
+                34.89,
+                35.44,
+                29.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

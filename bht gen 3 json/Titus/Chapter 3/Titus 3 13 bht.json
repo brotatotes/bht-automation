@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:08:32",
+    "verseRef": "Titus 3:13",
+    "bestBHT": {
+        "bht": "Enable Zenas the lawyer, a converted Jewish lawyer, and Apollos, Paul's friend, to proceed forward by supplying necessaries for their journey. Set them forward, equipped with everything needful, so that nothing be wanting unto them. Hospitality to Christian travelers was an urgent virtue in the early Church, and Paul desired that they might not be embarrassed for the want of that which was needful for their journey.",
+        "wordCount": 68,
+        "quoteTokenProportion": 43.14,
+        "qualityScore": 1.8187273423855057,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+        "commentatorTierSimilarities": [
+            33.6,
+            38.33,
+            28.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Enable them to proceed forward by supplying necessaries for their journey.",
+            "A civil lawyer.",
+            "Paul and Apollos thus appear in beautiful harmony in that very city where their names had been formerly the watchword of unchristian party work."
+        ],
+        "Albert Barnes": [
+            "He belonged doubtless to that class of persons so often mentioned in the New Testament as lawyers; that is, who were regarded as qualified to expound the Jewish laws.",
+            "He had doubtless been converted to the Christian faith, and it is not improbable that there were Jews at Nicopolis, and that Paul supposed he might be particularly useful among them.",
+            "Paul desired that they might meet with hospitable treatment from Christians in Crete, and might not be embarrassed for the want of that which was needful for their journey."
+        ],
+        "John Calvin": [
+            "It is uncertain whether 'Zenas' was a Doctor of the Civil Law or of the Law of Moses.",
+            "It more frequently happens that such persons are in want of the necessaries of life than those who conduct causes in civil courts.",
+            "The expression, conduct him, means here to supply him with the means of accomplishing his journey, as is evident from what follows."
+        ],
+        "Philip Schaff": [
+            "Hospitality to Christian travellers was an urgent virtue in the early Church.",
+            "Lawyer may mean either a Jewish scribe or a jurisconsult of the Roman Empire.",
+            "Bring on their journey, etc., means to equip them for further travel with everything needful."
+        ],
+        "Archibald T. Robertson": [
+            "Zenas the lawyer... A converted Jewish lawyer.",
+            "Apollos... Paul's friend.",
+            "Set forward... to send on ahead... that nothing be wanting unto them."
+        ],
+        "John Gill": [
+            "Bring Zenas the lawyer... he seems to have been now a preacher of the Gospel.\" ",
+            "Apollos, on their journey diligently; who was a Jew born at Alexandria, an eloquent man, and mighty in the Scriptures.",
+            "They would have provided them with everything necessary for their journey: that nothing be wanting unto them."
+        ],
+        "John Wesley": [
+            "Send forward Zenas the lawyer \u2014 Either a Roman lawyer or an expounder of the Jewish law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Enable Paul and Apollos, a converted Jewish lawyer and Paul's friend, to proceed forward by supplying necessaries for their journey. They are to be set forward, equipped with everything needful, to ensure that nothing is wanting unto them. The early Church considered hospitality to Christian travelers an urgent virtue, and Paul desired that they might not be embarrassed for the want of that which was needful for their journey.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.7243086673622146,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.68,
+            "commentatorTierSimilarities": [
+                32.96,
+                42.54,
+                24.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Enable Zenas the lawyer, a converted Jewish lawyer, and Apollos, Paul's friend, to proceed forward by supplying necessaries for their journey. Set them forward, equipped with everything needful, so that nothing be wanting unto them. Hospitality to Christian travelers was an urgent virtue in the early Church, and Paul desired that they might not be embarrassed for the want of that which was needful for their journey.",
+            "wordCount": 68,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.8187273423855057,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                33.6,
+                38.33,
+                28.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To ensure that nothing is lacking for their journey, Paul and Apollos, a converted Jewish lawyer and Paul's friend, are to be enabled to proceed forward by supplying them with the necessary provisions. The early Church recognized the importance of extending hospitality to Christian travelers, and Paul's intention was for them to be well-equipped and not hindered in their journey. This support would guarantee that Zenas the lawyer, who may have been a Doctor of the Civil Law or the Law of Moses, and Apollos, an eloquent man mighty in the Scriptures, would have everything they needed for their continued ministry.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.8613907446293485,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                28.24,
+                40.97,
+                30.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul and Apollos, a converted Jewish lawyer and Paul's friend, are to be enabled to proceed forward by supplying them with the necessary provisions for their journey. This hospitality towards Christian travelers was an important virtue in the early Church. Paul's intention was for them to be well-equipped and not hindered in their journey. This support would guarantee that Zenas the lawyer and Apollos, an eloquent man mighty in the Scriptures, would have everything they needed for their continued ministry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7235310376102038,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                30.08,
+                42.09,
+                27.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To ensure that nothing is lacking for their journey, Paul and Apollos, a converted Jewish lawyer and Paul's friend, are to be enabled to proceed forward by supplying them with the necessary provisions. The early Church recognized the importance of extending hospitality to Christian travelers, and Paul's intention was for them to be well-equipped and not hindered in their journey. This support would guarantee that Zenas the lawyer, who may have been a Doctor of the Civil Law or the Law of Moses, and Apollos, an eloquent man mighty in the Scriptures, would have everything they needed for their continued ministry.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.8613907446293485,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                28.24,
+                40.97,
+                30.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

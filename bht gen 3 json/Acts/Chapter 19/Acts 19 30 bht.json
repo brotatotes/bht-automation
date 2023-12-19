@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:33:41",
+    "verseRef": "Acts 19:30",
+    "bestBHT": {
+        "bht": "With noble forgetfulness of self, Paul insisted on entering unto the people, the demos gathered in public assembly. The disciples, recognizing the danger that awaited him, sought to restrain him, refusing to let Paul go. Their refusal revealed their love for him and recognized his greatness as an apostle and faithful preacher. The disciples valued Paul's life and protected him, so he could plead the cause of his companions and prove the folly of worshipping gods made with hands.",
+        "wordCount": 80,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 2.044561404943793,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.32,
+        "commentatorTierSimilarities": [
+            38.21,
+            31.36,
+            30.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "when Paul would have entered in\u2014with noble forgetfulness of self.",
+            "unto the people\u2014the demos, that is, the people met in public assembly.",
+            "the disciples suffered him not\u2014The tense used implies only that they were using their efforts to restrain him; which might have been unavailing but for what follows."
+        ],
+        "Albert Barnes": [
+            "Would have entered in unto the people - Probably to have addressed them, and to defend his own cause."
+        ],
+        "John Calvin": [
+            "Paul\u2019s constancy was coupled with modesty.",
+            "If he had not been kept back, that which he determined to do could not have been imputed to rashness.",
+            "His modesty is worthy to be commended, in that he doth not stand stoutly in his purpose."
+        ],
+        "Philip Schaff": [
+            "Paul with his customary chivalrous courtesy would not suffer his \u2018companions in travel\u2019 to be exposed to danger without his being at their side to defend them.",
+            "He wished, too, to plead the Christian cause, so unwarrantably attacked, before the people of Ephesus.",
+            "But the disciples\u2019 no doubt men of Ephesus converted by Paul, who knew well their countrymen\u2019s feelings on the subject of their goddess would not suffer the brave-hearted man to expose himself so uselessly to a deadly peril."
+        ],
+        "Archibald T. Robertson": [
+            "St. Paul was not the man to leave his comrades in the lurch\" (Knowling).",
+            "The more Paul insisted on going, the more the disciples refused to agree to it and they won."
+        ],
+        "John Gill": [
+            "In order to have preached to the people, and to have removed their prejudices against him... shows the apostle's greatness of soul, his firmness, constancy, and intrepidity.\" ",
+            "The believers, the members of the church at Ephesus would by no means agree to it, but dissuaded him from it; who hereby, on their part, showed great love to him, and what a value they had for him.",
+            "How much they esteemed the life of so great an apostle, and faithful preacher of the Gospel."
+        ],
+        "John Wesley": [
+            "Being above all fear, to plead the cause of his companions...",
+            "...and prove they are not gods which are made with hands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With noble forgetfulness of self, Paul insisted on entering unto the people, the demos gathered in public assembly. The disciples, recognizing the danger that awaited him and the unwarranted attacks on the Christian cause, sought to restrain him. Their refusal to let Paul go revealed their love for him and their recognition of his greatness as an apostle and faithful preacher. The disciples knew the value of Paul's life and were keen to protect him, so he could plead the cause of his companions and prove the folly of worshipping gods made with hands.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.02655121079533,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.72,
+            "commentatorTierSimilarities": [
+                36.47,
+                34.05,
+                29.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With noble forgetfulness of self, Paul insisted on entering unto the people, the demos gathered in public assembly. The disciples, recognizing the danger that awaited him, sought to restrain him, refusing to let Paul go. Their refusal revealed their love for him and their recognition of his greatness as an apostle and faithful preacher. The disciples knew the value of Paul's life and were keen to protect him, so he could plead the cause of his companions and prove the folly of worshipping gods made with hands.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.0418716885807435,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+            "commentatorTierSimilarities": [
+                37.92,
+                31.87,
+                30.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With noble forgetfulness of self, Paul insisted on entering unto the people, the demos gathered in public assembly. The disciples, recognizing the danger that awaited him, sought to restrain him, refusing to let Paul go. Their refusal revealed their love for him and recognized his greatness as an apostle and faithful preacher. The disciples valued Paul's life and protected him, so he could plead the cause of his companions and prove the folly of worshipping gods made with hands.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.044561404943793,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.32,
+            "commentatorTierSimilarities": [
+                38.21,
+                31.36,
+                30.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, displaying noble selflessness, was determined to address the people, the demos gathered in public assembly. However, the disciples, aware of the impending danger, adamantly urged him not to go. Their refusal exemplified their deep affection for Paul and their recognition of his esteemed position as an apostle and faithful preacher. Protecting their beloved leader, the disciples prevented him from venturing into harm's way, allowing him to advocate for his companions and expose the fallacy of worshiping man-made gods.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.8573265154116374,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.1,
+            "commentatorTierSimilarities": [
+                36.41,
+                33.84,
+                29.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, with noble selflessness, sought to enter unto the people, the demos gathered in public assembly. The disciples, recognizing the danger ahead, restrained him from going. Their refusal demonstrated their deep affection for Paul and acknowledged his esteemed position as an apostle and faithful preacher. Protecting him, the disciples prevented an unnecessary peril, allowing him to advocate for his companions and expose the futility of worshiping gods made by human hands.",
+            "wordCount": 71,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.93131062479888,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                37.04,
+                33.93,
+                29.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

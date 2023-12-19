@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:00:44",
+    "verseRef": "1 Corinthians 1:10",
+    "bestBHT": {
+        "bht": "Paul admonishes the Corinthian church to unite in the name of the Lord Jesus Christ, setting aside their divisions and speaking the same thing. This unity goes beyond mere agreement in doctrine; it encompasses their affections and judgments, displaying a shared Christian standpoint. The divisions in the church arose from conflicts over marriage, food, and the prerogatives of different Christian teachers. By embracing unity, they can heal the wounds caused by their disagreements and demonstrate their love for one another.",
+        "wordCount": 80,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.9686664274798713,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+        "commentatorTierSimilarities": [
+            31.11,
+            43.68,
+            25.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "by the name of our Lord Jesus Christ (as 'by the mercies of God,' Rom. xii. 1): 'as the bond of union, and as the most holy name by which they could be adjured.'\" ",
+            "that ye all speak the same thing is a contrast to what follows, 'I am of Paul, I of Apollos, I of Cephas, I of Christ,' ver. 12,\u2014but further implies the having the same sentiments on the subjects which divided them.",
+            "in the same mind regards disposition, in the same judgment, opinion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The very title [brethren] is an argument for love.",
+            "Perfectly joined together\u2014the opposite word to 'divisions.' It is applied to healing a wound, or making whole a rent.",
+            "The mind, within, refers to things to be believed: the judgment is displayed outwardly in things to be done."
+        ],
+        "Albert Barnes": [
+            "Christ should be regarded as the Supreme Head and Leader of all his church. It was improper, therefore, that the church should be divided into portions, and its different parts enlisted under different banners.",
+            "The prime and leading thing which Christ had enjoined upon his church was union and mutual love.",
+            "Union of feeling is possible even where people differ much in their views of things. They may love each other much, even where they do not see alike."
+        ],
+        "Marvin Vincent": [
+            "The divisions of the Corinthian church arose on questions of marriage and food... and on the prerogatives of the different Christian teachers.\" ",
+            "Not of individual and absolute perfection, but of perfection in the unity of the Church.",
+            "Being in the same realm of thought, they would judge questions from the same Christian standpoint, and formulate their judgment accordingly."
+        ],
+        "John Calvin": [
+            "It is my hope that the Lord has not in vain conferred upon you so many gifts, so as not to have it in view to bring you to salvation, but you ought at the same time to take heed lest graces so distinguished be polluted by your vices.",
+            "That ye all speak the same thing...nothing is more inconsistent on the part of Christians than to be at variance among themselves, for it is the main article of our religion that we be in harmony among ourselves.",
+            "Then only will there be Christian unity among us, when there is not merely a good agreement as to doctrine, but we are also in harmony in our affections and dispositions, and are thus in all respects of one mind."
+        ],
+        "Archibald T. Robertson": [
+            "That ye all keep on speaking. With the divisions in mind. An idiom from Greek political life.",
+            "These divisions were over the preachers, immorality, going to law before the heathen, marriage, meats offered to idols, conduct of women in church, the Lord's Supper, spiritual gifts, the resurrection.",
+            "'Of these words \u03bd\u03bf\u03c5\u03c2 denotes the frame or state of mind, \u03b3\u03bd\u03c9\u03bc\u03b7 the judgment, opinion or sentiment, which is the outcome of \u03bd\u03bf\u03c5\u03c2.'"
+        ],
+        "John Gill": [
+            "that ye speak the same thing; profess the same truths, and express them in the same words",
+            "using the same words to express truth by is a very proper and prudent expedient to prevent them",
+            "such an agreement is absolutely necessary to the peace, comfort, and well being of a church"
+        ],
+        "John Wesley": [
+            "Now I exhort you \u2014 Ye have faith and hope; secure love also.",
+            "By the endearing name of our Lord Jesus Christ \u2014 Infinitely preferable to all the human names in which ye glory.",
+            "That ye all speak the same thing \u2014 They now spoke different things... But that ye be joined in the same mind - Affections, desires and judgment \u2014 Touching all the grand truths of the gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 1:10, Paul urges the Corinthian church to come together in unity under the name of the Lord Jesus Christ, setting aside the divisions that had arisen among them. This unity goes beyond mere agreement in doctrine, as it encompasses their affections and dispositions as well. The goal is for them to speak the same thing, not just in words, but also in their hearts and minds. By doing so, they can be perfectly joined together, healing the wounds caused by their divisions. This call to unity is not only for the sake of peace and well-being within the church, but also to demonstrate their love for one another. They are called to be of the same mind and judgment, operating from a shared Christian standpoint. The various divisions within the Corinthian church centered around different issues, such as marriage, food, and the prerogatives of different Christian teachers. However, in order to be truly united, they must focus on the main article of their religion, which is harmony among themselves. They should be careful not to pollute the graces and gifts bestowed upon them by the Lord by allowing their vices to undermine their unity. Ultimately, Paul's exhortation is for the Corinthian believers to not only have faith and hope, but also to cultivate love among themselves, using the name of the Lord Jesus Christ as the bond of their union.",
+            "wordCount": 233,
+            "quoteTokenProportion": 40.94,
+            "qualityScore": 1.8449559181621882,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.69,
+            "commentatorTierSimilarities": [
+                30.83,
+                38.52,
+                30.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul emphasizes the importance of unity among believers, urging them to speak the same thing and be of the same mind and judgment. The divisions that had formed within the Corinthian church centered around various issues, including marriage, food, and different Christian teachers. Paul encourages them to set aside these divisions and come together under the name of the Lord Jesus Christ. By doing so, they can be perfectly joined together, healing the wounds caused by their disagreements and demonstrating their love for one another.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8734568767564281,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+            "commentatorTierSimilarities": [
+                32.74,
+                41.69,
+                25.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul admonishes the Corinthian church to unite in the name of the Lord Jesus Christ, setting aside their divisions and speaking the same thing. This unity goes beyond mere agreement in doctrine; it encompasses their affections and judgments, displaying a shared Christian standpoint. The divisions in the church arose from conflicts over marriage, food, and the prerogatives of different Christian teachers. By embracing unity, they can heal the wounds caused by their disagreements and demonstrate their love for one another.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.9686664274798713,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                31.11,
+                43.68,
+                25.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To address the divisions within the Corinthian church, Paul urges them to come together under the name of the Lord Jesus Christ. This means speaking the same truths and expressing them in the same words, as well as being of the same mind and judgment. The divisions in the church arose from differences of opinion on various matters, including marriage, food, and the authority of Christian teachers. By embracing unity and setting aside these divisions, they can experience healing and exhibit their love for one another.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.962005090897696,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                34.42,
+                38.85,
+                26.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In 1 Corinthians 1:10, Paul urges the Corinthian church to come together in unity under the name of the Lord Jesus Christ. This unity goes beyond mere agreement in doctrine and involves speaking the same truths, having the same affections and dispositions, and being of the same mind and judgment. The divisions that existed among them arose from disagreements on various matters, including marriage, food, and the authority of Christian teachers. By setting aside these divisions and striving for unity, they can heal the wounds and demonstrate their love for one another.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.9860194165185558,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+            "commentatorTierSimilarities": [
+                32.21,
+                40.43,
+                27.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

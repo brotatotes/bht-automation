@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:22:09",
+    "verseRef": "Luke 19:41",
+    "bestBHT": {
+        "bht": "Jesus, with eyes filled with love and grief, stood on the rise of the road, looking upon the city of Jerusalem. As He surveyed its history of divine love and human ingratitude, His heart was deeply affected. Tears gushed from His eyes as He wept audibly, mourning the hardness of hearts and the consequences of sin. In this moment, Jesus exemplified both the tenderness of His humanity and the outpouring of God's love into human nature.",
+        "wordCount": 77,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 2.0143278983381663,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.32,
+        "commentatorTierSimilarities": [
+            32.26,
+            34.28,
+            33.46
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What a history of divine Love and human ingratitude lay before him!",
+            "When He grieved, it was for the hardness of men's hearts.",
+            "When He wept, in Bethany and here, it was over the fruits of sin."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mine eye affecteth mine heart\"; the heart again affecting",
+            "the eye.",
+            "Jesus, in His beautiful, tender humanity, was constituted even as we.",
+            "He yielded Himself alike freely to both."
+        ],
+        "Marvin Vincent": [
+            "Again the procession advanced...the whole city bursts into view.\" ",
+            "It is hardly possible to doubt that this rise and turn of the road was the exact point where the multitude paused again, and He, when he beheld the city...",
+            "when he beheld the city, wept over it."
+        ],
+        "John Calvin": [
+            "As there was nothing which Christ more ardently desired than to execute the office which the Father had committed to him, and as he knew that the end of his calling was to gather the lost sheep of the house of Israel, he wished that his coming might bring salvation to all.\" ",
+            "While he reflected that this was the sacred abode which God had chosen, in which the covenant of eternal salvation should dwell \u2014 the sanctuary from which salvation would go forth to the whole world, it was impossible that he should not deeply deplore its ruin.",
+            "By this weeping he proved not only that he loved, like a brother, those for whose sake he became man, but also that God made to flow into human nature the Spirit of fatherly love."
+        ],
+        "Philip Schaff": [
+            "Jesus has reached the edge of the plateau; the holy city lies before His view. What a day it would be for it, if the bandage fell from its eyes! But what has just passed between Him and the Pharisees present has awakened in His heart the conviction of the insurmountable resistance which He is about to meet.",
+            "Then Jesus, seized, and, as it were, wrung by the contrast between what is and what might be, breaks out into sobs.",
+            "An outburst of grief, not silent tears now, as at the grave of Lazarus (John 11:35). Peculiar to Luke."
+        ],
+        "Archibald T. Robertson": [
+            "Wept (\u03b5\u03ba\u03bb\u03b1\u03c5\u03c3\u03b5\u03bd). Ingressive aorist active indicative, burst into tears. Probably audible weeping. "
+        ],
+        "John Gill": [
+            "And knowing what calamities, in a few years, would come upon it; with which being affected, as man, he looked upon it, and wept over it.\" ",
+            "This must be understood of Christ merely as man, and is a proof of the truth of his human nature, which had all the natural properties, and even the infirmities of it.",
+            "And it is particularly said by them of the Messiah, that he shall weep over the wicked among the Jews, according to Isaiah 53:5 and they encourage persons to mourn over Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus gazed upon the city of Jerusalem, his heart was filled with a profound mixture of divine love and human disappointment. He wept over the hardness of the people's hearts and the devastating consequences of sin. His tears were not merely silent tears, but an audible outburst of grief, highlighting the intensity of his emotions. He longed for the salvation of all and mourned the impending ruin of the sacred abode chosen by God. In his humanity, Jesus intimately understood and shared in the sorrows of mankind, exhibiting the deep love and compassion of a father. Knowing the future calamities that would befall Jerusalem, he wept, giving evidence to the truth of his full humanity. As the prophets had foretold, the Messiah would weep over the wicked, and Jesus fulfilled this prophecy by shedding tears over Jerusalem.",
+            "wordCount": 139,
+            "quoteTokenProportion": 28.41,
+            "qualityScore": 1.8482504912052924,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.8,
+            "commentatorTierSimilarities": [
+                29.01,
+                32.3,
+                38.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus stood on the edge of the plateau, beholding the holy city of Jerusalem. As he surveyed its history of divine love and human ingratitude, his heart was deeply grieved. Audibly weeping, he mourned the hardness of hearts and the consequences of sin. Jesus, in his beautiful humanity, shared in both joy and sorrow, freely yielding Himself to both. He longed for the salvation of all and lamented the impending ruin of the chosen sanctuary. In his weeping, he demonstrated his love and the outpouring of God's fatherly love into human nature.",
+            "wordCount": 93,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.854985158623422,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+            "commentatorTierSimilarities": [
+                30.36,
+                32.93,
+                36.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus approached the city of Jerusalem, a flurry of emotions overcame Him. He was deeply affected by the hardness of people's hearts and the devastating effects of sin. His tears flowed as a result of His genuine empathy for the city and its forthcoming calamities. Jesus longed for the salvation of all, yearning to gather the lost sheep. In His weeping, He displayed not only brotherly love but also the Spirit of fatherly love flowing through His human nature.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7838204480415487,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+            "commentatorTierSimilarities": [
+                29.0,
+                33.21,
+                37.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, with eyes filled with love and grief, stood on the rise of the road, looking upon the city of Jerusalem. As He surveyed its history of divine love and human ingratitude, His heart was deeply affected. Tears gushed from His eyes as He wept audibly, mourning the hardness of hearts and the consequences of sin. In this moment, Jesus exemplified both the tenderness of His humanity and the outpouring of God's love into human nature.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.0143278983381663,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.32,
+            "commentatorTierSimilarities": [
+                32.26,
+                34.28,
+                33.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus approached Jerusalem, He was confronted with the reality of divine love and human ingratitude that lay before Him. He wept audibly, grieving over the hardness of hearts and the fruit of sin. His tears were not just silent tears, but a burst of audible weeping that expressed His profound emotions. In his beautiful, tender humanity, Jesus shared in the sorrows of mankind, freely yielding Himself to both joy and sorrow. He longed to bring salvation to all and lamented the impending ruin of the sacred city.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.912327208189488,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                32.49,
+                32.78,
+                34.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

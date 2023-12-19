@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:29:34",
+    "verseRef": "1 Timothy 6:8",
+    "bestBHT": {
+        "bht": "Believers should find contentment in having enough food and covering to meet our needs. We are encouraged to be satisfied with the provision God has given us, recognizing that it is sufficient for our continually recurring wants. Nature is content with a little, and we should be grateful for the comforts and necessities of life that God has blessed us with. Having food, raiment, and a house is enough; it represents a proper sufficiency and competency that we should be content with.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 2.0772082509653296,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+        "commentatorTierSimilarities": [
+            26.26,
+            33.65,
+            40.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But (contrast to the avaricious, who forget this, or knowing it do not act on it) having (if we have) food (sufficient for our continually recurring wants,\u2014the needful supply of nourishment) and covering...with these we shall be sufficiently provided.",
+            "having...food (sufficient for our continually recurring wants,\u2014the needful supply of nourishment) and covering...",
+            "with these we shall be sufficiently provided."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is implied that we, as believers, shall have this.\" ",
+            "Food sufficient in each case for our continually recurring wants.",
+            "Let us be therewith content."
+        ],
+        "Albert Barnes": [
+            "Food and raiment, here, seem to be used to denote supplies for our needs in general.",
+            "We cannot suppose that he would forbid a desire of a comfortable habitation, or of the means of knowledge, or of conveniences for worshipping God, etc.",
+            "Having those flyings which meet the actual necessities of our nature, and save us from distress, we should not strive after 'uncertain riches,' or make wealth the object of our anxious pursuit."
+        ],
+        "Marvin Vincent": [
+            "Food\u00a0[\u03b4\u03b9\u03b1\u03c4\u03c1\u03bf\u03c6\u03b1\u03c2]\u00a0... Raiment[\u03c3\u03ba\u03b5\u03c0\u03b1\u03c3\u03bc\u03b1\u03c4\u03b1]... a dwelling is not a question of life with an Oriental.\" ",
+            "Let us be content\u00a0[\u03b1\u03c1\u03ba\u03b5\u03c3\u03b8\u03b7\u03c3\u03bf\u03bc\u03b5\u03b8\u03b1]\u00a0... we shall be content. Once in Pauls 2 Corinthians 12:9.",
+            "But with good will and cheerfulness uphold thou my soul; when thou strengthenest my soul I shall be satisfied\u00a0[\u03b1\u03c1\u03ba\u03b5\u03c3\u03b5\u03b9 \u03bc\u03bf\u03b9]\u00a0with what thou givest me."
+        ],
+        "John Calvin": [
+            "When he mentions food and raiment, he excludes luxuries and overflowing abundance; for nature is content with a little...",
+            "Not that to use them more largely ought to be condemned on its own account, but lusting after them is always sinful.",
+            "Man wants but little; nor that little long."
+        ],
+        "Philip Schaff": [
+            "The Greek word, which is not found elsewhere in the New Testament, has the general sense of covering, and may therefore include 'shelter' as well.",
+            "The better Greek text gives an authoritative future rather than an imperative. 'We shall be content therewith.'"
+        ],
+        "Archibald T. Robertson": [
+            "Food, supports or nourishments.",
+            "Covering, coverings.",
+            "We shall be content."
+        ],
+        "John Gill": [
+            "And now having all these comforts and necessaries of life, food to eat, and drink to extinguish thirst and refresh, raiment to put on, and a house to dwell in, let us be therewith content.",
+            "There is very good reason why the saints should be content; since more than these things cannot be enjoyed; and these they have with a blessing, and as a fruit and token of the love of God to them.",
+            "To have [food, raiment, and a house], is to have enough, a proper sufficiency and competency."
+        ],
+        "John Wesley": [
+            "Covering \u2014 That is, raiment and an house to cover us. This is all that a Christian needs, and all that his religion allows him to desire."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As believers, we should find contentment in having food and covering that satisfies our needs. We are reminded to be content with the provision that God has given us, recognizing that it is sufficient for our continually recurring wants. This does not mean that we should not desire a comfortable habitation or the means of knowledge, but rather that we should not strive after uncertain riches or make wealth our anxious pursuit. Nature is content with a little, and we should find satisfaction in knowing that God has blessed us with the comforts and necessities of life. Having food, raiment, and a house is enough; it is a proper sufficiency and competency that we should be grateful for.",
+            "wordCount": 118,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0221696288912696,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.58,
+            "commentatorTierSimilarities": [
+                25.0,
+                36.15,
+                38.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As believers, we should find contentment in having food and covering that sufficiently meets our needs. We are reminded to be content with the provision that God has given us, recognizing that it is enough for our continually recurring wants. Nature is content with a little, and we should find satisfaction in knowing that God has blessed us with the comforts and necessities of life. Having food, raiment, and a house is enough; it is a proper sufficiency and competency that we should be grateful for.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.037210860146031,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.08,
+            "commentatorTierSimilarities": [
+                26.34,
+                32.45,
+                41.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers should find contentment in having enough food and covering to meet our needs. We are encouraged to be satisfied with the provision God has given us, recognizing that it is sufficient for our continually recurring wants. Nature is content with a little, and we should be grateful for the comforts and necessities of life that God has blessed us with. Having food, raiment, and a house is enough; it represents a proper sufficiency and competency that we should be content with.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.0772082509653296,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                26.26,
+                33.65,
+                40.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As believers, we can find contentment in having enough food and covering to meet our needs. God's provision is sufficient for our continually recurring wants, and we should be grateful for it. Nature finds contentment in a little, reminding us to not strive after uncertain riches or make wealth our sole pursuit. Having food, raiment, and a house represents a proper sufficiency and competency, allowing us to be content and grateful for God's blessings in our lives.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.0249559976940663,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+            "commentatorTierSimilarities": [
+                26.95,
+                34.36,
+                38.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As believers, we should find contentment in having food and covering that satisfies our needs. We are reminded to be content with the provision that God has given us, recognizing that it is sufficient for our continually recurring wants. Nature is content with a little, and we should find satisfaction in knowing that God has blessed us with the comforts and necessities of life. Having food, raiment, and a house is enough; it is a proper sufficiency and competency that we should be grateful for.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0603300481080318,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
+            "commentatorTierSimilarities": [
+                26.62,
+                32.99,
+                40.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:17:27",
+    "verseRef": "Luke 10:14",
+    "bestBHT": {
+        "bht": "However, it shall be more tolerable for Tyre and Sidon at the judgment than for those who refuse to repent, as seen in Matthew 11:22. The inhabitants of Chorazin and Bethsaida, who had the privilege of witnessing Jesus' miracles firsthand, will be more severely punished than the Gentile cities who lacked such opportunities for repentance. Truly, the greater the light, privileges, and advantages one has, the greater their responsibility, and ultimately their accountability and punishment if they do not heed the call to repentance.",
+        "wordCount": 83,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.3005887822188131,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+        "commentatorTierSimilarities": [
+            31.9,
+            0.0,
+            68.1
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "But [\u03c0\u03bb\u03b7\u03bd] . Rev., howbeit. See on Matthew 11:22."
+        ],
+        "John Gill": [
+            "But it shall be more tolerable for Tyre and Sidon at the judgment... than for you.\" ",
+            "The inhabitants of Chorazin and Bethsaida, who will be more severely punished than these Gentile cities...",
+            "By how much greater were their light, privileges, and advantages against which they sinned, by so much will be their severer punishment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "However, it shall be more tolerable for Tyre and Sidon at the judgment than for those who refuse to repent, as seen in Matthew 11:22. The inhabitants of Chorazin and Bethsaida, who had the privilege of witnessing Jesus' miracles firsthand, will be more severely punished than the Gentile cities who lacked such opportunities for repentance. Truly, the greater the light, privileges, and advantages one has, the greater their responsibility, and ultimately their accountability and punishment if they do not heed the call to repentance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.3005887822188131,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+            "commentatorTierSimilarities": [
+                31.9,
+                0.0,
+                68.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "However, it shall be more tolerable for Tyre and Sidon at the judgment than for those who refuse to repent (Matthew 11:22). The inhabitants of Chorazin and Bethsaida, who had the privilege of witnessing Jesus' miracles firsthand, will be more severely punished than the Gentile cities. Their greater light, privileges, and advantages increase their responsibility and accountability. Thus, their punishment will be more severe if they fail to respond to the call for repentance.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.1878367882691603,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.84,
+            "commentatorTierSimilarities": [
+                30.77,
+                0.0,
+                69.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "However, it shall be more tolerable for Tyre and Sidon at the judgment than for those who refuse to repent (Matthew 11:22). The inhabitants of Chorazin and Bethsaida, who had the privilege of witnessing Jesus' miracles firsthand, will face a more severe punishment than the Gentile cities. Their greater light, privileges, and advantages increase their responsibility and accountability, resulting in a harsher consequence if they do not respond to the call for repentance.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.2694946756436687,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.55,
+            "commentatorTierSimilarities": [
+                31.96,
+                0.0,
+                68.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "However, it shall be more tolerable for Tyre and Sidon at the judgment than for those who refuse to repent, as seen in Matthew 11:22. The inhabitants of Chorazin and Bethsaida, who had the privilege of witnessing Jesus' miracles firsthand, will be more severely punished than the Gentile cities who lacked such opportunities for repentance. Truly, the greater the light, privileges, and advantages one has, the greater their responsibility, and ultimately their accountability and punishment if they do not heed the call to repentance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.3005887822188131,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+            "commentatorTierSimilarities": [
+                31.9,
+                0.0,
+                68.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "However, it shall be more tolerable for Tyre and Sidon at the judgment than for those who refuse to repent (Matthew 11:22). The inhabitants of Chorazin and Bethsaida, who had the privilege of witnessing Jesus' miracles firsthand, will be more severely punished than the Gentile cities. Their greater light, privileges, and advantages increase their responsibility and accountability. Thus, their punishment will be more severe if they fail to respond to the call for repentance.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.1878367882691603,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.84,
+            "commentatorTierSimilarities": [
+                30.77,
+                0.0,
+                69.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

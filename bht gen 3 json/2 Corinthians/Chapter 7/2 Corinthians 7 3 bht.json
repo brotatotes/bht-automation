@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:16:46",
+    "verseRef": "2 Corinthians 7:3",
+    "bestBHT": {
+        "bht": "I do not say it for condemnation, but in a loving spirit. You are in our hearts to share death and life, not as an accusation, as if you were ungrateful and treacherous, but as a testament to our enduring affection. I am ready to die and live with you, for you. My desire is not to find fault or condemn, but to express the deep bond we have with you, dear believers.",
+        "wordCount": 73,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 2.0737103664853294,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+        "commentatorTierSimilarities": [
+            37.96,
+            28.67,
+            33.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I do not say it for condemnation... I do not say ver. 2 in any but a loving spirit.",
+            "I have said before that ye are in our hearts to die together and live together.",
+            "So that I could die with you or live with you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In excusing myself, I do not accuse you, as though you suspected me of such things.",
+            "Rather, 'as though you were ungrateful and treacherous.'",
+            "I am ready to die and live with you and for you."
+        ],
+        "Albert Barnes": [
+            "I do not complain of you for the purpose of condemning, or because I have a desire to find fault.",
+            "That ye are in our hearts - That is, we are so much attached to you; or you have such a place in our affections.",
+            "If it had been the will of God that he should cease to travel... he would gladly have confined his labors to them, and there have ended his days."
+        ],
+        "John Calvin": [
+            "I clear myself,\" says he, \" in such a way as to be desirous to avoid, what would tend to your dishonor.",
+            "Those that love do not assail; nay more, if any fault has been committed, they either cover it over by taking no notice of it, or soften it by kindness.",
+            "I carry you about with me inclosed in my heart... I am prepared not merely to live with you, but also to be associated with you in death, if necessary, and to endure anything rather than renounce your friendship."
+        ],
+        "Philip Schaff": [
+            "I say it not to condemn you, but since it has been insinuated in some quarters, I must repel it as a cruel wrong; against yourselves I have nothing to say.",
+            "Here the apostle resumes the singular in speaking of himself and after this the singular and the plural alternate to the end of the chapter.",
+            "Ye are in our hearts to die together and live together\u2014an expression of enduring affection."
+        ],
+        "Archibald T. Robertson": [
+            "Not for condemnation.",
+            "For the dying together and living together.",
+            "You are in our hearts to share death and life."
+        ],
+        "John Gill": [
+            "The exhortations I have given must not be so understood, as though I charged and accused you with keeping company with unbelievers, or as though you were not concerned for purity of life and conversation.",
+            "You are inscribed on our hearts, engraven there, 'ye are our epistle written in our hearts', ye are not straitened in us, you have a place and room enough in our affections.",
+            "There is nothing we more desire than to live with you; and should there be any occasion for it, could freely die with you, and for you."
+        ],
+        "John Wesley": [
+            "I am so far from thinking so unkindly of you, that ye are in our hearts, to live and die with you.",
+            "I could rejoice to spend all my days with you.",
+            "I speak not to condemn you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I speak not for condemnation, but with a loving spirit. You are in our hearts, dear believers, connected to us in such a profound way that we are willing to share both life and death with you. There is no accusation here, no suspicion of ungratefulness or treachery. Far from it. We hold you dear, ready to live and die alongside you. May you understand that our desires are not to find fault or condemn, but to express our enduring affection for you.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.741373276209539,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                36.81,
+                27.39,
+                35.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I do not say it for condemnation, but in a loving spirit. You are in our hearts to share death and life, not as an accusation, as if you were ungrateful and treacherous, but as a testament to our enduring affection. I am ready to die and live with you, for you. My desire is not to find fault or condemn, but to express the deep bond we have with you, dear believers.",
+            "wordCount": 73,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 2.0737103664853294,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                37.96,
+                28.67,
+                33.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I do not say it for condemnation or to accuse you, but in a loving spirit, I want you to know that you are in our hearts. We are ready to share death and life with you. Please understand that my intention is not to find fault or separate from you, but to express enduring affection and a desire to avoid any dishonor to you. You are not straitened in our affections, but have a place and room enough in our hearts. We long to live with you and, if necessary, we are even willing to die with you. Please hear my words in a spirit of love and not condemnation.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.033088245876825,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                37.11,
+                28.61,
+                34.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I do not say it for condemnation, but in a loving spirit - you are in our hearts, to die together and live together. I want to clarify that I am not accusing you or suspecting you of anything ungrateful or treacherous. My desire is to share death and life with you, to be associated with you in any circumstance. There is room enough in our affections for you. Please understand that my words are not meant to condemn you, but to express enduring affection.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.9685702602603214,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                35.83,
+                29.57,
+                34.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I express these words not to condemn, but to convey love. You are in our hearts, to share both death and life. I do not accuse or suspect you of ungratefulness or treachery. My readiness to die and live with you reflects a deep bond. I want you to know that my intentions are not to find fault, but to show enduring affection. Please understand that there is ample space in our hearts for you, and my desire is not to condemn, but to love.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.8429644914610643,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                35.32,
+                30.45,
+                34.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

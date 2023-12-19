@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 13:56:52",
+    "verseRef": "1 Thessalonians 1:4",
+    "bestBHT": {
+        "bht": "Knowing that God has elected you as individual believers to eternal life is a critical understanding. This election is not a postulated doom for some, but a choice sourced in the free grace and good pleasure of God. The Thessalonians were justified by their conduct, as they had been chosen to be members of the Christian church. This knowledge of their election can be seen through the effects of their calling and their faith, signifying that God has attested they are beloved and accepted by Him.",
+        "wordCount": 86,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.230737062515197,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+        "commentatorTierSimilarities": [
+            32.03,
+            38.26,
+            29.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word election must not be softened down: it is the election unto life of individual believers by God\" ",
+            "the election unto life of individual believers by God, so commonly adduced by St. Paul",
+            "knowing that God elected you"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Knowing\u2014Forasmuch as we know.\" ",
+            "Your election of God\u2014The Greek is rather, 'beloved by God.'",
+            "'Your election' means that God has elected you as individual believers to eternal life."
+        ],
+        "Albert Barnes": [
+            "Knowing that you are chosen by God unto salvation.",
+            "A true church owes what it has to the 'election of God.'",
+            "Every church should evince such a spirit that there may be no doubt of its 'election of God.'"
+        ],
+        "Marvin Vincent": [
+            "There is no warrant for the revolting doctrine that God has predestined a definite number of mankind to eternal life, and the rest to eternal destruction.",
+            "The Thessalonians had been chosen to be members of the Christian church, and their conduct had justified the choice.",
+            "The sense in this passage appears to be defined by the succeeding context."
+        ],
+        "John Calvin": [
+            "For it tended in no small degree to recommend them \u2014 that God himself had testified by many tokens, that they were acceptable and dear to him.",
+            "Paul, however, had it in view to express something farther; for he touches upon their calling, and as there had appeared in it no common marks of God\u2019s power, he infers from this that they had been specially called with evidences of a sure election.",
+            "As, however, the secret counsel of God is a labyrinth to those who disregard his calling, so those act perversely who, under pretext of faith and calling, darken this first grace, from which faith itself flows."
+        ],
+        "Archibald T. Robertson": [
+            "Beloved by God. Paul is not content with the use of \u03b1\u03b4\u03b5\u03bb\u03c6\u03bf here, but adds this affectionate phrase nowhere else in the N.T. in this form.\" ",
+            "The use of \u03b1\u03b4\u03b5\u03bb\u03c6\u03bf for members of the same brotherhood can be derived from the Jewish custom and the habit of Jesus.\" ",
+            "Your election. It is an old word... and always of God's choice of men."
+        ],
+        "John Gill": [
+            "this is no other than the eternal choice of, them to everlasting life and happiness: this is of God, an act of God the Father, made in Christ Jesus before the world began, and which springs from his sovereign will\" ",
+            "this choice does not arise from the merits of men, or any conditions in them, or from the foresight of their faith, holiness, and good works, but from the free grace and good pleasure of God",
+            "the knowledge they had of this was not what the Thessalonians themselves had, though they might have [...] the knowledge of this grace, and which may be concluded with certainty from the effectual calling"
+        ],
+        "John Wesley": [
+            "Knowing your election \u2014 Which is through faith, by these plain proofs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Knowing that God has elected you as individual believers to eternal life is a critical understanding in 1 Thessalonians 1:4. This election is not a softening down of the word, but a firm and intentional act of God. It is not a predestined doom for some, but a choice rooted in the free grace and good pleasure of God. The Thessalonians' conduct had justified this choice, as they had been chosen to be members of the Christian church. This knowledge of their election can be seen through the effects of their calling and their faith. Ultimately, this knowledge is a reminder that God has testified by many tokens that they are beloved and accepted by Him.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 2.057669939607158,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.76,
+            "commentatorTierSimilarities": [
+                31.37,
+                36.45,
+                32.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Knowing that God has elected you as individual believers to eternal life is a critical understanding. This election is not a softening down of the word, but a firm and intentional act of God, rooted in the free grace and good pleasure of God. The Thessalonians' conduct had justified this choice, as they had been chosen to be members of the Christian church. This knowledge of their election can be seen through the effects of their calling and their faith, an assurance that God has testified they are beloved and accepted by Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.229132394368762,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.46,
+            "commentatorTierSimilarities": [
+                31.76,
+                37.8,
+                30.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Knowing that God has elected you as individual believers to eternal life is a critical understanding. This election is not a postulated doom for some, but a choice sourced in the free grace and good pleasure of God. The Thessalonians were justified by their conduct, as they had been chosen to be members of the Christian church. This knowledge of their election can be seen through the effects of their calling and their faith, signifying that God has attested they are beloved and accepted by Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.230737062515197,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+            "commentatorTierSimilarities": [
+                32.03,
+                38.26,
+                29.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Knowing that God has elected you as individual believers to eternal life is a crucial understanding. This election is not a softening down of the word, but a firm and intentional act of God. The Thessalonians' conduct had justified this choice, as they had been chosen to be members of the Christian church. This knowledge of their election can be seen through the effects of their calling and their faith, an assurance that God has testified they are beloved and accepted by Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.2091498874469675,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.79,
+            "commentatorTierSimilarities": [
+                32.63,
+                38.41,
+                28.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Knowing that God has elected you as individual believers to eternal life is a crucial understanding. This election is not a softening down of the word, but a firm and intentional act of God. The Thessalonians' conduct had justified this choice. This knowledge of their election can be seen through the effects of their calling and their faith, assuring that God has testified they are beloved and accepted by Him.",
+            "wordCount": 70,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.0848087157577257,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                32.85,
+                36.67,
+                30.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

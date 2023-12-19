@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:23:12",
+    "verseRef": "Luke 22:29",
+    "bestBHT": {
+        "bht": "Within hours of His impending capture and less than a day from His agonizing death, Jesus, in a display of sublime contrasts, appoints His loyal disciples a kingdom - the Kingdom of kingdoms. He assures them that their expectations will not be in vain and that they shall have a kingdom. Just as Jesus, ordained by the Father as a King, reached glory through suffering, so too shall all Christians enter the kingdom of heaven after facing trials. Yet, their perseverance will lead them to the promised place of rest and reward.",
+        "wordCount": 91,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 1.8102196222813345,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.53,
+        "commentatorTierSimilarities": [
+            15.83,
+            49.7,
+            34.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "See above, and note on Matt. xix. 28, see also Rev. ii. 27."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Who is this that dispenses kingdoms, nay, the Kingdom of kingdoms, within an hour or two of His apprehension, and less than a day of His shameful death?",
+            "These sublime contrasts, however, perpetually meet and entrance us in this matchless history.",
+            "These sublime contrasts."
+        ],
+        "Albert Barnes": [
+            "He assures them here that they should 'have' a kingdom - their expectations would be realized.",
+            "They had all along expected a kingdom, and he assures them that they should not be disappointed.",
+            "All Christians must enter into the kingdom of heaven after the manner of their Lord - through much tribulation; but, though it must be, as it was with him, by many tears and sorrows, yet they shall surely reach the place of their rest and the reward of heaven."
+        ],
+        "Marvin Vincent": [
+            "I appoint [\u03b4\u03b9\u03b1\u03c4\u03b9\u03b8\u03b5\u03bc\u03b1\u03b9] . Implying allotment : assigning in the course of distribution [\u03b4\u03b9\u03b1] . Wyc., dispose. Luke is especially fond of compounds with dia."
+        ],
+        "John Calvin": [
+            "And I appoint to you the kingdom. Here he makes them not only judges, but kings; for he shares with them the kingdom which he received from the Father.\" ",
+            "By his own example, also, he exhorts them to patience; for, though he was ordained by the Father to be a King, yet he was not immediately raised to his glory, but even emptied Himself, and by the ignominy of the cross obtained kingly honor.\" ",
+            "To eat and drink at his table is put metaphorically for being made partakers of the same glory."
+        ],
+        "Philip Schaff": [
+            "I appoint unto you a kingdom, even as my Father appointed unto me.",
+            "The word 'kingdom' belongs to both clauses.",
+            "'Appoint' signifies not only a bestowal or assurance, but such a disposition as a dying man makes in his will."
+        ],
+        "Archibald T. Robertson": [
+            "And I appoint unto you\" ",
+            "They had on the whole been loyal\" ",
+            "Jesus passes on to them"
+        ],
+        "John Gill": [
+            "Not a temporal one, but a spiritual one...",
+            "...they being set in the first, and highest place, and office, in the church...",
+            "...and grace; it includes the whole visible Gospel church state on earth, which is God's holy hill of Sion, over which he has set Christ, as king..."
+        ],
+        "John Wesley": [
+            "Will preserve you in all your temptations, till ye enter into the kingdom of glory.",
+            "Appoint to you - By these very words. Not a primacy to one, but a kingdom to every one: on the same terms.",
+            "As my Father hath appointed to me - Who have fought and conquered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And I appoint unto you the kingdom. These sublime contrasts in Luke's matchless history can leave us utterly entranced. Jesus, within hours of His apprehension and less than a day of His shameful death, dispenses not just kingdoms, but the Kingdom of kingdoms. He assures His loyal disciples that their expectations will be realized, that they shall not be disappointed, and that they shall have a kingdom. This appointment signifies not only bestowal and assurance, but also the disposition of a dying man in His will. Just as Jesus, who was ordained by the Father to be a King, was not immediately raised to glory but first emptied Himself and obtained kingly honor, so too must all Christians enter the kingdom of heaven through much tribulation. But just as Jesus persevered and reached the place of rest and reward, they too shall surely reach the same destination.",
+            "wordCount": 148,
+            "quoteTokenProportion": 42.27,
+            "qualityScore": 1.7722379145746614,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                19.37,
+                47.49,
+                33.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Within hours of His impending capture and less than a day from His agonizing death, Jesus, in a display of sublime contrasts, appoints His loyal disciples a kingdom - the Kingdom of kingdoms. He assures them that their expectations will not be in vain and that they shall have a kingdom. Just as Jesus, ordained by the Father as a King, reached glory through suffering, so too shall all Christians enter the kingdom of heaven after facing trials. Yet, their perseverance will lead them to the promised place of rest and reward.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.8102196222813345,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.53,
+            "commentatorTierSimilarities": [
+                15.83,
+                49.7,
+                34.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of imminent apprehension and impending death, Jesus astoundingly appoints His faithful disciples a kingdom, the Kingdom of kingdoms. This appointment ensures their expectations will be fulfilled and their loyalty rewarded. It exemplifies the remarkable contrasts found within this unmatched history. Just as Jesus, ordained by the Father as a King, underwent tribulations before attaining glory, all believers, too, must navigate trials before reaching their heavenly rest and reward. Thus, their patience and endurance, following Jesus' ultimate example, will lead them to the destined place of divine honor.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.565972379296243,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.41,
+            "commentatorTierSimilarities": [
+                17.95,
+                46.0,
+                36.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a breathtaking turn of events, Jesus appoints His devoted disciples a kingdom, even in the face of imminent capture and impending death. These sublime contrasts within the unparalleled history of Jesus' life entrance us. Assuring His loyal followers that their expectations shall be realized, Jesus reminds them of their steadfastness. Just as Jesus, ordained by the Father as a King, navigated tribulations before achieving glory, so too must believers endure hardships on their path to heavenly rest and reward, emulating their Savior's example.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.668302049835538,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "commentatorTierSimilarities": [
+                25.21,
+                40.88,
+                33.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a moment of profound significance, Jesus grants His loyal disciples a kingdom, despite the imminent threat of His arrest and impending crucifixion. These remarkable contrasts in His matchless story captivate our attention. With assurance, He ensures that their expectations will be fulfilled and that they shall possess a kingdom. Just as Jesus, chosen by the Father as a King, experienced tribulations before attaining glory, so too must all believers endure challenges on their journey to heavenly rest and reward. Their unwavering perseverance will lead them to the ultimate destination.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.5205518976888728,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.9,
+            "commentatorTierSimilarities": [
+                15.25,
+                51.24,
+                33.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

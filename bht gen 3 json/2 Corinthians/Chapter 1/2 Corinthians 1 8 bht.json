@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:15:02",
+    "verseRef": "2 Corinthians 1:8",
+    "bestBHT": {
+        "bht": "During his time in Asia, the Apostle Paul faced not only the threat of persecution but also a deadly sickness. He felt as though he had been condemned to die and had no way of escape. The distress he experienced was not just from external trouble, but also from inward anguish. Paul and his companions were weighed down exceedingly beyond their own power to bear. It was a trial so great that there seemed to be no way out. However, in the midst of this overwhelming situation, Paul found comfort in relying on God's strength rather than his own.",
+        "wordCount": 100,
+        "quoteTokenProportion": 51.35,
+        "qualityScore": 1.7693358333500746,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+        "commentatorTierSimilarities": [
+            38.47,
+            22.68,
+            38.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There would be an appropriateness in the expression 'in Asia' here, as he has in his mind an apologetic account of the reasons which hindered him from leaving those parts and coming to them.",
+            "I am unable to assign any other event as in the Apostle\u2019s mind: but the expressions seem rather to regard a deadly sickness, than a persecution.",
+            "Such an expression surely would not be used of a tumult, where life would have been the first thing in danger if Paul had been at all mixed up in it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "we had the sentence of death in ourselves,\" mean, that he looked upon himself as a man condemned to die.",
+            "had Paul been found by the mob in the excitement, he would have been torn in pieces.",
+            "His weak state of health at the time combined with all this to make him regard himself as all but dead."
+        ],
+        "Albert Barnes": [
+            "We wish you to be fully informed",
+            "We were borne down, or weighed down by calamity exceedingly",
+            "More than in ourselves we were able to bear"
+        ],
+        "Marvin Vincent": [
+            "The following words seem to indicate inward distress rather than trouble from without, such as he experienced at Ephesus.",
+            "For out of measure, Rev, exceedingly.",
+            "From ejx out and out, and ajporew to be without a way of escape."
+        ],
+        "John Calvin": [
+            "He felt that his strength would have failed him, if the Lord had not imparted fresh strength.",
+            "So that I thought life was gone, or at least I had very little hope of it remaining, as those are wont to feel who are shut up so as to see no way of escape.",
+            "At the same time I have preferred to explain the word \u1f10\u03be\u03b1\u03c0\u03bf\u03c1\u03b5\u1fd6\u03c3\u03b8\u03b1\u03b9, which is made use of by Paul, as denoting a trembling anxiety, rather than render it, as Erasmus has done by the word despair; because he simply means, that he was hemmed in by the greatest difficulties, so that no means of preserving life seemed to remain."
+        ],
+        "Philip Schaff": [
+            "The apostle seems to labour under the difficulty of finding words to express what he felt at the time referred to.",
+            "The thought seems to be, 'Looking up, to discern what God might mean by this, and asking ourselves whither all was tending, the answer seemed to be, Thou art now to die for the name of the Lord Jesus.'",
+            "But it drove him to the one Source of courage and strength to hold on, that we should not trust in ourselves, but in God which raiseth the dead."
+        ],
+        "Archibald T. Robertson": [
+            "We do know that the disciples and the Asiarchs would not allow Paul to face the mob in the amphitheatre gathered by Demetrius (Acts 20:30).",
+            "He had a trial so great that 'we were weighed down exceedingly beyond our power' (\u03ba\u03b1\u03b8' \u03c5\u03c0\u03b5\u03c1\u03b2\u03bf\u03bb\u03b7\u03bd \u03c5\u03c0\u03b5\u03c1 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03bd \u03b5\u03b2\u03b1\u03c1\u03b7\u03b8\u03b7\u03bc\u03b5\u03bd).",
+            "There seemed no way out."
+        ],
+        "John Gill": [
+            "The affliction was as an heavy burden upon them, too heavy to bear; it was exceeding heavy, \u03ba\u03b1\u03b8' \u03c5\u03c0\u03b5\u03c1\u03b2\u03bf\u03bb\u03b7\u03bd, even to an 'hyperbole', beyond expression; and above strength.",
+            "But not above the strength of grace, or that spiritual strength communicated to them, by which they were supported under it.",
+            "They were at the utmost loss, and in the greatest perplexity how to escape the danger of life; they greatly doubted of it; they saw no probability nor possibility, humanly speaking, of preserving it."
+        ],
+        "John Wesley": [
+            "We would not have you ignorant, brethren, of the trouble which befell us in Asia.\" ",
+            "The Corinthians knew before that he had been in trouble: he now declares the greatness and the fruit of it.\" ",
+            "We were exceedingly pressed, above our strength \u2014 Above the ordinary strength even of an apostle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During his time in Asia, the Apostle Paul faced not only the threat of persecution but also a deadly sickness. He felt as though he had been condemned to die and had no way of escape. The distress he experienced was not just from external trouble, but also from inward anguish. Paul and his companions were weighed down exceedingly beyond their own power to bear. It was a trial so great that there seemed to be no way out. However, in the midst of this overwhelming situation, Paul found comfort in relying on God's strength rather than his own. This experience drove him to trust in God who raises the dead.",
+            "wordCount": 112,
+            "quoteTokenProportion": 49.38,
+            "qualityScore": 1.7456704021940457,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.39,
+            "commentatorTierSimilarities": [
+                37.0,
+                25.15,
+                37.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During his time in Asia, the Apostle Paul faced not only the threat of persecution but also a deadly sickness. He felt as though he had been condemned to die and had no way of escape. The distress he experienced was not just from external trouble, but also from inward anguish. Paul and his companions were weighed down exceedingly beyond their own power to bear. It was a trial so great that there seemed to be no way out. However, in the midst of this overwhelming situation, Paul found comfort in relying on God's strength rather than his own.",
+            "wordCount": 100,
+            "quoteTokenProportion": 51.35,
+            "qualityScore": 1.7693358333500746,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                38.47,
+                22.68,
+                38.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle Paul's experience in Asia was one of great struggle and distress. He not only faced the threat of persecution but also a deadly sickness. He felt condemned to die and saw no way of escape. Both his physical condition and the external pressures weighed heavily on him. It was a trial that exceeded his own strength and left him feeling overwhelmed. However, in this desperate situation, Paul found solace in putting his trust in God, who has the power to raise the dead.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.6648566658354786,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.7,
+            "commentatorTierSimilarities": [
+                38.09,
+                23.6,
+                38.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During his time in Asia, the Apostle Paul faced both external persecution and a deadly sickness. He felt as if he was condemned to die and saw no way of escape. The distress he experienced was not only from external trouble but also from inward anguish. Paul and his companions were weighed down exceedingly beyond their own power, facing a trial so great that it seemed there was no way out. However, amidst this overwhelming situation, Paul found solace in trusting in God's strength, which surpasses human limitations.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.8218048513912657,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                38.35,
+                22.92,
+                38.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During his time in Asia, the Apostle Paul faced both persecution and a deadly sickness, feeling condemned to die with no way of escape. He was weighed down by the distress he experienced, which was not solely from external trouble but also from inward anguish. Paul and his companions were confronted with a trial that surpassed their own strength, leaving them overwhelmed. Yet, in the midst of this immense struggle, Paul found solace in relying on God's strength, which far exceeds human capabilities.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8069589101333747,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.42,
+            "commentatorTierSimilarities": [
+                36.81,
+                21.21,
+                41.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

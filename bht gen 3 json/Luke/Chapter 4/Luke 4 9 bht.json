@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:14:41",
+    "verseRef": "Luke 4:9",
+    "bestBHT": {
+        "bht": "Satan led Jesus to the pinnacle of the temple, not misquoting Psalm 91 but rather misapplying it to manipulate Jesus into presumptuous reliance on God. This encounter took place in the holy city of Jerusalem, where Satan attacked Jesus for the first time, possibly even transporting him through the air. Setting Jesus on the pinnacle of the temple, Satan challenged him to prove his divinity by casting himself down.",
+        "wordCount": 68,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.9261564294437714,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+        "commentatorTierSimilarities": [
+            48.35,
+            0.0,
+            51.65
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He brought [\u03b7\u03b3\u03b1\u03b3\u03b5\u03bd] . Rev., led. See on paralambanei, taketh, Matthew 4:5. ",
+            "Pinnacle of the temple. See on Matthew 4:5. ",
+            "Down from hence. Matthew has down only."
+        ],
+        "Archibald T. Robertson": [
+            "Satan does not misquote this Psalm, but he misapplies it and makes it mean presumptuous reliance on God."
+        ],
+        "John Gill": [
+            "The holy city, as Matthew calls it, from the wilderness thither; where he found him, and first attacked him, and perhaps he brought him through the air.\" ",
+            "And set him on a pinnacle of the temple; which was in Jerusalem.",
+            "If thou be the Son of God, cast thyself down from hence; from the pinnacle of the temple, on which he was set."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Satan led Jesus to the pinnacle of the temple, not misquoting Psalm 91 but rather misapplying it to manipulate Jesus into presumptuous reliance on God. This encounter took place in the holy city of Jerusalem, where Satan attacked Jesus for the first time, possibly even transporting him through the air. Setting Jesus on the pinnacle of the temple, Satan challenged him to prove his divinity by casting himself down.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9261564294437714,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+            "commentatorTierSimilarities": [
+                48.35,
+                0.0,
+                51.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Led by Satan, Jesus was brought to the pinnacle of the temple, a place mentioned in Matthew's account as well. Here, Satan attempts to twist the meaning of Psalm 91, urging Jesus to presumptuously rely on God. This encounter takes place in the holy city of Jerusalem, where Jesus is first confronted by Satan, possibly even transported through the air. Standing on the pinnacle, Satan challenges Jesus, questioning his divinity and tempting him to cast himself down to prove it.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7776033316366344,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.45,
+            "commentatorTierSimilarities": [
+                51.44,
+                0.0,
+                48.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Satan led Jesus to the pinnacle of the temple, where he tempted him to cast himself down by misapplying the words of Psalm 91. This encounter took place in Jerusalem, the holy city, where Satan first attacked Jesus, possibly even transporting him through the air. Setting Jesus on the pinnacle of the temple, Satan challenged his identity as the Son of God.",
+            "wordCount": 61,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.8809545856963754,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+            "commentatorTierSimilarities": [
+                43.5,
+                0.0,
+                56.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Satan, after leading Jesus to the pinnacle of the temple in Jerusalem, misapplied the words of Psalm 91 to tempt Jesus into presumptuously relying on God. This pivotal moment, possibly involving Jesus being transported through the air, becomes a test of his identity as the Son of God. Satan's challenge to Jesus on the pinnacle of the temple aimed to prove his divinity by casting himself down.",
+            "wordCount": 67,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.7085179524602816,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                43.31,
+                0.0,
+                56.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Satan led Jesus to the pinnacle of the temple, not misquoting Psalm 91 but misapplying it. In the holy city of Jerusalem, Satan's attack began, possibly involving him transporting Jesus through the air. Placed on the pinnacle of the temple, Jesus was challenged to prove his divinity by casting himself down.",
+            "wordCount": 51,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.8240677289885514,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "commentatorTierSimilarities": [
+                44.14,
+                0.0,
+                55.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

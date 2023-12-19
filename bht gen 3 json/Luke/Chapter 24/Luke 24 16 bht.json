@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:24:07",
+    "verseRef": "Luke 24:16",
+    "bestBHT": {
+        "bht": "Their eyes were held from recognizing him, from knowing him fully. Christ Himself prevented their knowing Him, concealing only to reveal more fully. Immediate recognition would have filled them with a tumult of joy, fear, and doubt. We often fail to recognize Christ when He is nearest to us, but if He holds our eyes, it is to bless us more. Their eyes were held downwards, a posture suitable to their melancholy spirits, so they did not look up to Christ, their fellow traveler.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.5042854431875703,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+        "commentatorTierSimilarities": [
+            29.59,
+            39.82,
+            30.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Their eyes were holden - This expression is used merely to denote that they did not 'know' who he was.",
+            "It does not appear that there was anything supernatural or miraculous in it, or that God used any power to blind them.",
+            "It may easily be accounted for without any such supposition."
+        ],
+        "John Calvin": [
+            "But hence we learn how great is the weakness of all our senses, since neither eyes nor ears discharge their office, unless so far as power is incessantly communicated to them from heaven.",
+            "I readily acknowledge that our senses are not frequently held in the same manner as happened at that time, so as to make so gross a mistake about an object presented to us; but by a single example God shows that it is in his power to direct the faculties which he has bestowed, so as to assure us that nature is subject to his will.",
+            "The proper discrimination between truth and falsehood, therefore, does not arise from the sagacity of our own mind, but comes to us from the Spirit of wisdom."
+        ],
+        "Philip Schaff": [
+            "He Himself prevented their knowing Him; and this was His purpose of love; He would conceal only to reveal more fully.",
+            "Immediate recognition would have filled them with a tumult of joy, fear, and doubt.",
+            "We often fail to recognize Christ when He is nearest to us; if He holds our eyes, as He sometimes does, it is to bless us more; if we hold our own eyes, then we are in danger of never recognizing Him at all."
+        ],
+        "Archibald T. Robertson": [
+            "Were holden that they should not know him.",
+            "Continued being held from recognizing him.",
+            "From knowing him fully."
+        ],
+        "John Gill": [
+            "To me it seems, that their eyes were held downwards; or they kept looking upon the ground as they walked, which was a posture suitable to their melancholy spirits.",
+            "And there might be a peculiar influence of divine power and providence, so disposing them, that they did not look up to Christ their new fellow traveler, who walked on with them.",
+            "And this was so ordered, that they should not know him; that so they might not be surprised at once, as they would have been, had they looked at him, and discerned who he was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Their eyes were held from recognizing him, from knowing him fully. It does not appear that there was anything supernatural or miraculous in it, but rather it may easily be accounted for without any such supposition. Christ Himself prevented their knowing Him, concealing only to reveal more fully. Immediate recognition would have filled them with a tumult of joy, fear, and doubt. We often fail to recognize Christ when He is nearest to us, but if He holds our eyes, it is to bless us more; if we hold our own eyes, then we are in danger of never recognizing Him at all. Their eyes were held downwards, or they kept looking upon the ground as they walked, which was a posture suitable to their melancholy spirits. And there might be a peculiar influence of divine power and providence, so disposing them, that they did not look up to Christ their new fellow traveler, who walked on with them. And this was so ordered, that they should not know him; that so they might not be surprised at once, as they would have been, had they looked at him, and discerned who he was.",
+            "wordCount": 194,
+            "quoteTokenProportion": 53.91,
+            "qualityScore": 1.4211400319161316,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.6,
+            "commentatorTierSimilarities": [
+                21.46,
+                39.99,
+                38.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their eyes were held from recognizing him, from knowing him fully. Christ Himself prevented their knowing Him, concealing only to reveal more fully. Immediate recognition would have filled them with a tumult of joy, fear, and doubt. We often fail to recognize Christ when He is nearest to us, but if He holds our eyes, it is to bless us more. Their eyes were held downwards, a posture suitable to their melancholy spirits, so they did not look up to Christ, their fellow traveler.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.5042854431875703,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                29.59,
+                39.82,
+                30.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Their eyes were held from recognizing him, from knowing him fully. Immediate recognition would have filled them with a tumult of joy, fear, and doubt. We often fail to recognize Christ when He is nearest to us, but if He holds our eyes, it is to bless us more. Their eyes were held downwards, so they did not look up to Christ, their fellow traveler.",
+            "wordCount": 65,
+            "quoteTokenProportion": 56.0,
+            "qualityScore": 1.4704144199037275,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.23,
+            "commentatorTierSimilarities": [
+                28.63,
+                41.49,
+                29.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the two disciples journeyed, they were held from recognizing Jesus. It was not that they lacked physical sight, but rather they were prevented from knowing Him fully. This holding back of recognition was an act of love by Jesus Himself. Immediate recognition would have overwhelmed them with a mixture of emotions. In this situation, we learn the weakness of our senses and the need for divine guidance to truly discern truth. Their eyes were likely directed downwards, a posture fitting for their saddened spirits. God orchestrated the circumstances so that they did not look up and recognize their Companion. This concealment allowed for a greater revelation at the opportune time.",
+            "wordCount": 111,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.1151869069667049,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.42,
+            "commentatorTierSimilarities": [
+                23.81,
+                40.63,
+                35.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the disciples journeyed, they were held from recognizing Jesus, not due to their physical sight, but as an act of love from Him. Immediate recognition would have overwhelmed them with a mix of emotions. This highlights the weakness of our senses and the need for divine guidance to discern truth. Their downward gaze and circumstance prevented them from looking up and recognizing their Companion. This concealment allowed for a greater revelation at the right time.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.04825451916226,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.2,
+            "commentatorTierSimilarities": [
+                22.16,
+                41.79,
+                36.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

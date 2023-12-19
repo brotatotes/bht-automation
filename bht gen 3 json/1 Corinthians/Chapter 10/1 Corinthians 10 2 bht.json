@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:09:44",
+    "verseRef": "1 Corinthians 10:2",
+    "bestBHT": {
+        "bht": "The Israelites were baptized into Moses, entering into a solemn covenant with God. The cloud and the sea symbolized their initiation into the church and represented Christ as the pillar cloud and guiding light. This baptism is compared to the Corinthians' actual baptism, emphasizing the need to avoid offense and showing that neither virtual nor actual baptism can save without genuine faith. The historical parts of Scripture covertly prophesy the future, and the Israelites' immersion in the sea parallels the burial and resurrection symbolism of baptism by immersion.",
+        "wordCount": 88,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 2.3704672344434567,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.16,
+        "commentatorTierSimilarities": [
+            29.54,
+            28.32,
+            42.13
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "entered by the act of such immersion into a solemn covenant with God",
+            "The cloud and the sea were both aqueous... serves the Apostle to indicate the outward symbols of their initiation into the church",
+            "all offence is to be avoided... whether to Jews or Heathens or to the Church of God"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Baptized is here equivalent to initiated: it is used in accommodation to Paul's argument to the Corinthians; they, it is true, have been baptized, but so also virtually were the Israelites of old; if the virtual baptism of the latter availed not to save them from the doom of lust, neither will the actual baptism of the former save them.",
+            "Christ is the pillar cloud that screens us from the heat of God's wrath. Christ as 'the light of the world' is our 'pillar of fire' to guide us in the darkness of the world. As the rock when smitten sent forth the waters, so Christ, having been once for all smitten, sends forth the waters of the Spirit.",
+            "A strong proof of inspiration is given in this fact, that the historical parts of Scripture, without the consciousness even of the authors, are covert prophecies of the future."
+        ],
+        "Albert Barnes": [
+            "And it is evidently in this latter sense that the word is used here, as denoting that they were devoted to Moses as a leader, they were brought under his laws, they became bound to obey him, they were placed under his protection and guidance by the miraculous interposition of God.\" ",
+            "They were thus 'initiated into' his religion, and thus recognized his divine mission, and bound themselves to obey his injunctions.\" ",
+            "This passage is a very important one to prove that the word baptism does not necessarily mean entire immersion in water."
+        ],
+        "Marvin Vincent": [
+            "They were introduced into a spiritual union with Moses, and constituted his disciples.",
+            "The cloud and the sea are in their nature water.",
+            "The cloud was diffused and suspended water."
+        ],
+        "Philip Schaff": [
+            "and were all baptized into Moses i.e. into the Mosaic economy.",
+            "even as the Christians had the starting-point of their new life when publicly 'baptized into Christ.'",
+            "in the cloud and in the sea."
+        ],
+        "Archibald T. Robertson": [
+            "The mystic cloud covered the people while the sea rose in walls on each side of them.\" ",
+            "The immersion was complete for all of them in the sea around them and the cloud over them.\" ",
+            "Moses was their leader then as Christ is now and so Paul uses \u03b5\u03b9\u03c2 concerning the relation of the Israelites to Moses as he does of our baptism in relation to Christ."
+        ],
+        "John Gill": [
+            "The Israelites, when they passed through the Red sea, hid the waters on each side of them, which stood up as a wall higher than they, and the cloud over them, so that they were as persons immersed in and covered with water; and very fitly represented the ordinance of baptism as performed by immersion.",
+            "For instance, their following Moses into the sea, which is meant by their being 'baptized into him', was an acknowledgment of their regard unto him, as their guide and governor, as baptism is a following of Christ, who has left us an example that we should tread in his steps.",
+            "The descent of the Israelites into the sea, when they seemed as buried in the waters, and their ascent out of it again on the shore, has a very great agreement with baptism, as administered by immersion, in which the person baptized goes down into the water, is buried with Christ therein, and comes up out of it as out of a grave, or as the children of Israel out of the Red sea."
+        ],
+        "John Wesley": [
+            "And were all, as it were, baptized unto Moses - initiated into the religion which he taught them.",
+            "In the cloud and in the sea \u2014 Perhaps sprinkled here and there with drops of water from the sea or the cloud, by which baptism might be the more evidently signified."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the Israelites being baptized into Moses, signifying their initiation into a solemn covenant with God. The cloud and the sea, both being aqueous, served as outward symbols of their initiation into the church. This baptism of the Israelites is compared to the Corinthians' actual baptism, emphasizing that if the virtual baptism of the former availed not to save them, neither will the actual baptism of the latter save them. Furthermore, the cloud and the sea represent Christ's role as the pillar cloud that screens us from God's wrath and as the guiding light in the darkness of the world. This parallel between the Israelites and the Corinthians demonstrates the strong proof of inspiration in Scripture as covert prophecies of the future.",
+            "wordCount": 127,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 2.29666265560905,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.7,
+            "commentatorTierSimilarities": [
+                32.84,
+                27.69,
+                39.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Israelites' baptism into Moses signified their initiation into a covenant with God. The cloud and the sea served as symbols of this baptism, with the cloud representing Christ as a pillar that shields us from God's wrath, and the sea symbolizing the guiding light in the darkness. This comparison between the Israelites and the Corinthians highlights the virtual and actual baptism, showing that neither can save from sin if not accompanied by a genuine faith and avoidance of offense to God and others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.353367966237937,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.59,
+            "commentatorTierSimilarities": [
+                30.22,
+                28.22,
+                41.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Israelites were immersed in water when they passed through the Red Sea, symbolizing their initiation into a solemn covenant with God. The cloud and the sea served as outward symbols of their entrance into the Church, signifying their spiritual union with Moses. This baptism is compared to the Corinthians' actual baptism, highlighting the need for genuine faith and the avoidance of offense to God and others. Christ's role as the pillar cloud and guiding light is emphasized, as well as the historical parts of Scripture covertly prophesying the future.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 2.310861163969705,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+            "commentatorTierSimilarities": [
+                31.67,
+                27.74,
+                40.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Israelites were baptized into Moses, entering into a solemn covenant with God. The cloud and the sea symbolized their initiation into the church and represented Christ as the pillar cloud and guiding light. This baptism is compared to the Corinthians' actual baptism, emphasizing the need to avoid offense and showing that neither virtual nor actual baptism can save without genuine faith. The historical parts of Scripture covertly prophesy the future, and the Israelites' immersion in the sea parallels the burial and resurrection symbolism of baptism by immersion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.3704672344434567,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.16,
+            "commentatorTierSimilarities": [
+                29.54,
+                28.32,
+                42.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Israelites' baptism into Moses signifies their initiation into a covenant with God. The cloud and sea serve as symbols of this baptism and represent Christ as the pillar cloud that shields us from God's wrath and the guiding light in the darkness. This comparison reveals the necessity for genuine faith and avoidance of offense to be accompanied by baptism, for neither the virtual nor actual baptism can save without a heartfelt commitment to God. The historical parts of Scripture covertly prophesy the future, further demonstrating their divine inspiration.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.175606141776176,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+            "commentatorTierSimilarities": [
+                31.09,
+                28.17,
+                40.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

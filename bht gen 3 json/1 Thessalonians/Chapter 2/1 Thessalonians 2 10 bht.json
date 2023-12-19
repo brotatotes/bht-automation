@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 13:58:46",
+    "verseRef": "1 Thessalonians 2:10",
+    "bestBHT": {
+        "bht": "Paul desired to live a life of consistency and faithfulness, calling the Thessalonians and God as witnesses to his behavior toward the believers. He aimed to behave holily toward God and justly toward men, ensuring there was no blame to be laid in either respect. While not claiming perfection, Paul wanted to live a life worthy of God's testimony and the testimony of others, faithfully performing every duty and being able to appeal to others as witnesses of his character.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 2.155966793721909,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+        "commentatorTierSimilarities": [
+            28.41,
+            37.51,
+            34.08
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Holiness is more a quality having respect to God: justice, to men.\" ",
+            "This distinction, perhaps precarious where the words occur separately, or seem to require no very precise application, is requisite here where both divine and human testimony is appealed to.\" ",
+            "He here narrows the circle, to speak of his behavior among the brethren themselves."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye are witnesses\u2014as to our outward conduct. God\u2014as to our inner motives.\" ",
+            "holily\u2014towards God. justly\u2014towards men. unblamably\u2014in relation to ourselves.\" ",
+            "behaved ourselves\u2014Greek, 'were made to be,' namely, by God. among you that believe\u2014rather, 'before (that is, in the eyes of) you that believe'; whatever we may have seemed in the eyes of the unbelieving."
+        ],
+        "Albert Barnes": [
+            "Ye are witnesses - They had a full opportunity of knowing his manner of life.",
+            "Every duty was faithfully performed. This is not a claim to absolute perfection, but it is a claim to consistency of character, and to faithfulness in duty, which every Christian should be enabled to make.",
+            "Every man professing religion should so live as to be able to appeal to all who have had an opportunity of knowing him, as witnesses that he was consistent and faithful, and that there was nothing which could be laid to his charge."
+        ],
+        "Marvin Vincent": [
+            "Holily - justly - unblameably.\" ",
+            "For dikaiwv holily, see on Luke 1:75; for dikaiwv justly or righteously, on Romans 1:17; Romans 5:7.\" ",
+            "Amemptwv unblameably, only in these Epistles."
+        ],
+        "John Calvin": [
+            "He again calls God and them to witness, with the view of affirming his integrity.",
+            "How holily, says he, and justly, that is, with how sincere a fear of God, and with what fidelity and blamelessness towards men.",
+            "The servants of Christ cannot avoid calumnies, and unfavorable reports; for being hated by the world, they must of necessity be evil-spoken of among the wicked."
+        ],
+        "Philip Schaff": [
+            "Paul gives a general summary of the character of his demeanour in Thessalonica as a minister of Christ.",
+            "Justly, i.e. righteously.",
+            "That believe. The reason of this addition is not obvious; probably it is inserted as a general term for the church on the members of which his activity had been mostly spent, and from whom if from any he might have been expected to accept or exact contributions."
+        ],
+        "Archibald T. Robertson": [
+            "How holily and righteously and unblameably... Paul calls the Thessalonians and God as witnesses... to his life toward you the believers.\" ",
+            "He employs three common adverbs that show how holily toward God and how righteously toward men so that they did not blame him and his associates in either respect.\" ",
+            "The pastor ought to live so that his life will bear close inspection."
+        ],
+        "John Gill": [
+            "Ye are witnesses, and God also, how holily, and justly, and unblamably we behaved ourselves among you that believe.\" ",
+            "Their conversation was also 'unblamable'; not that they were, without sin, and so without blame in themselves, or without the commission of sin by them, but by the grace of God, they had their conversation among them that believed so, that there was nothing material to be alleged against them, or any just cause of blame to be laid either on their persons or their ministry.\" ",
+            "Their conversation, which was holy, externally holy, arising from internal principles of holiness in their hearts, and free from that impurity and filthiness with which the false teachers were polluted."
+        ],
+        "John Wesley": [
+            "Holily \u2014 In the things of God.",
+            "Justly \u2014 With regard to men.",
+            "Unblamable \u2014 In respect of ourselves.",
+            "Among you that believe \u2014 Who were the constant observers of our behaviour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The pastor ought to live so that his life will bear close inspection. Paul calls the Thessalonians and God as witnesses to his life toward the believers. He emphasizes the importance of behaving holily toward God and justly toward men, so that there is no blame to be laid in either respect. His goal is to live a life of consistency and faithfulness, faithfully performing every duty. Paul was able to make this claim, not out of a sense of absolute perfection, but out of a desire to live a life that was worthy of God's testimony and the testimony of others.",
+            "wordCount": 103,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9013512315026575,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.56,
+            "commentatorTierSimilarities": [
+                31.47,
+                38.89,
+                29.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul emphasizes the importance of behaving holily toward God and justly toward men, for he was aware that his behavior was being closely observed by both the Thessalonians and God Himself. He desired to live a life of consistency and faithfulness, faithfully performing every duty. While not claiming absolute perfection, Paul aimed for a life that was worthy of God's testimony and the testimony of others, ensuring that there was no blame to be laid in either respect.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9803927247549153,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.19,
+            "commentatorTierSimilarities": [
+                27.57,
+                41.03,
+                31.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul emphasizes the importance of behaving holily toward God and justly toward men, calling the Thessalonians and God as witnesses to his life toward the believers. He desired to live a life of consistency and faithfulness, faithfully performing every duty, and being able to appeal to others as witnesses of his consistent and faithful character. While not claiming perfection, Paul aimed to live a life that was worthy of God's testimony and the testimony of others, ensuring that there was nothing that could be blamed against him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1054007593305277,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.35,
+            "commentatorTierSimilarities": [
+                27.23,
+                40.06,
+                32.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul desired to live a life of consistency and faithfulness, calling the Thessalonians and God as witnesses to his behavior toward the believers. He aimed to behave holily toward God and justly toward men, ensuring there was no blame to be laid in either respect. While not claiming perfection, Paul wanted to live a life worthy of God's testimony and the testimony of others, faithfully performing every duty and being able to appeal to others as witnesses of his character.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.155966793721909,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                28.41,
+                37.51,
+                34.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul desired to live a life of consistency and faithfulness, calling the Thessalonians and God as witnesses to his behavior. He aimed to behave holily toward God and justly toward men, ensuring there was no blame to be laid. While not claiming perfection, Paul wanted to live a life worthy of God's testimony and the testimony of others, faithfully performing every duty and being able to appeal to others as witnesses. His goal was to be unblamable in his conduct among the believers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.0435756711101103,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+            "commentatorTierSimilarities": [
+                28.83,
+                37.67,
+                33.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

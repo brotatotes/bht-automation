@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:20:55",
+    "verseRef": "Colossians 3:5",
+    "bestBHT": {
+        "bht": "Believers are called to put to death their earthly desires such as fornication, uncleanness, lustfulness, evil concupiscence, and covetousness, considering them as a form of idolatry. By mortifying these corrupt desires, believers demonstrate their commitment to Christ and their hope for eternal life. Covetousness is highlighted as a particularly destructive sin, characterized by a self-idolizing, grasping spirit. As the body is the temple of the Holy Spirit, believers are exhorted to actively suppress and overcome these base passions, devoting their hearts solely to God.",
+        "wordCount": 85,
+        "quoteTokenProportion": 25.42,
+        "qualityScore": 1.8759743479584592,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+        "commentatorTierSimilarities": [
+            30.33,
+            33.63,
+            36.04
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Put to death...your members which are upon the earth...fornication, uncleanness, lustfulness, evil concupiscence, and covetousness, for it is idolatry.\" ",
+            "Reduce these to a state of death as regards their actions and desires...they are members of Christ, partakers of his resurrection, renewed after His image.",
+            "To serve self, whether by accumulation of goods or by satiety in pleasure, is his object in life. He is therefore an idolater, in the deepest and worst, namely, in the practical significance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mortify\u2014Greek, 'make a corpse of'; 'make dead'; 'put to death.'\" ",
+            "Habitually repress and do violence to corrupt desires of which the members are the instruments.",
+            "Covetousness\u2014marked off by the Greek article as forming a whole genus by itself, distinct from the genus containing the various species just enumerated. It implies a self-idolizing, grasping spirit; far worse than another Greek term translated 'the love of money'."
+        ],
+        "Albert Barnes": [
+            "The word mortify means to put to death...the meaning here is that they were entirely to subdue their evil propensities, so that they would have no remains of life; that is, they were not at all to indulge them.\" ",
+            "It is remarkable that the apostle always ranks covetousness with these base and detestable passions...it secures the affections which properly belong to God, and is, therefore, idolatry.\" ",
+            "Of all base passions, this is the one that most dethrones God from the soul."
+        ],
+        "Marvin Vincent": [
+            "Mortify is used in its literal sense of put to death.\" (Quote 1) ",
+            "Members, denoting the modes in which the members sinfully exert themselves.\" (Quote 2)",
+            "And covetousness [\u03ba\u03b1\u03b9 \u03c0\u03bb\u03b5\u03bf\u03bd\u03b5\u03be\u03b9\u03b1\u03bd]. And has a climactic force; and especially.\" (Quote 3)"
+        ],
+        "John Calvin": [
+            "He conceives of our nature as being, as it were, a mass made up of different vices. They are, therefore, our members, inasmuch as they in a manner stick close to us.\" ",
+            "He intimates, however, that we are earthly, so long as the vices of our flesh are vigorous in us, and that we are made heavenly by the renewing of the Spirit.\" ",
+            "Lust is not an unsuitable rendering of this passage."
+        ],
+        "Philip Schaff": [
+            "Kill once for all, is the thought of the original.",
+            "The putting to death is to be understood in an ethical, not in a physical sense.",
+            "There is an intimate connection between sins of lust and sins of greed; they both spring from the same root."
+        ],
+        "Archibald T. Robertson": [
+            "Paul boldly applies the metaphor of death (Colossians 2:20; Colossians 3:3) pictured in baptism (Colossians 2:12) to the actual life of the Christian.",
+            "He is not to go to the other Gnostic extreme of license on the plea that the soul is not affected by the deeds of the body.",
+            "Paul's idea is that the body is the temple of the Holy Spirit (1 Corinthians 6:19)."
+        ],
+        "John Gill": [
+            "Mortify therefore your members,.... Not your bodies, as the Ethiopic version reads, nor the members of the natural body, but of the body of sin, indwelling sin...",
+            "The mortification the saints are here exhorted to, in consideration of having a spiritual life in them, and a hope of eternal life in Christ...",
+            "The particulars of which follow: fornication; the sin of uncleanness committed by single persons, or out of the state of marriage..."
+        ],
+        "John Wesley": [
+            "Mortify therefore \u2014 Put to death, slay with a continued stroke.\" ",
+            "Which are upon the earth \u2014 Where they find their nourishment.\" ",
+            "Which is idolatry \u2014 Properly and directly; for it is giving the heart to a creature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Put to death...fornication, uncleanness, lustfulness, evil concupiscence, and covetousness, for it is idolatry. Reduce these evil desires to a state of death, for they hinder our relationship with Christ. To be preoccupied with self, whether accumulating material possessions or indulging in pleasure, is to worship idols. We must relentlessly suppress and reject these corrupt desires, particularly the insidious sin of covetousness. Paul emphasizes the literal sense of putting these sins to death, recognizing that our bodies are the temple of the Holy Spirit. By mortifying these sinful desires, we demonstrate our commitment to Christ and our hope for eternal life.",
+            "wordCount": 101,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.8275697980155998,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                31.25,
+                34.07,
+                34.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Put to death...fornication, uncleanness, lustfulness, evil concupiscence, and covetousness, for it is idolatry. Reduce these evil desires to a state of death, for they hinder our relationship with Christ. We must relentlessly suppress and reject these corrupt desires, particularly the insidious sin of covetousness. By mortifying these sinful desires, we demonstrate our commitment to Christ and our hope for eternal life.",
+            "wordCount": 62,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.817261709070125,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                30.54,
+                35.53,
+                33.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle instructs believers to Put to death...fornication, uncleanness, lustfulness, evil concupiscence, and covetousness, for it is idolatry. These sinful desires must be completely subdued, as they hinder our connection with Christ. The act of mortifying these corrupt desires signifies our commitment to Christ and our hope for eternal life. We are reminded that serving oneself, whether in the accumulation of wealth or indulging in pleasure, equates to idolatry. Therefore, we ought to continually repress and restrain these base passions, especially covetousness, which detaches us from the worship of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.8325718970944895,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                27.81,
+                37.24,
+                34.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are urged to mortify their earthly desires such as fornication, uncleanness, lustfulness, evil concupiscence, and covetousness, as they are considered idolatry. By putting these sinful desires to death, believers demonstrate their commitment to Christ and their hope for eternal life. Covetousness is highlighted as a particularly insidious sin, marked by a self-idolizing, grasping spirit. As the body is the temple of the Holy Spirit, believers are called to actively suppress and reject these base passions, securing their affections for God alone.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.8629477919208783,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.28,
+            "commentatorTierSimilarities": [
+                30.11,
+                34.12,
+                35.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are called to put to death their earthly desires such as fornication, uncleanness, lustfulness, evil concupiscence, and covetousness, considering them as a form of idolatry. By mortifying these corrupt desires, believers demonstrate their commitment to Christ and their hope for eternal life. Covetousness is highlighted as a particularly destructive sin, characterized by a self-idolizing, grasping spirit. As the body is the temple of the Holy Spirit, believers are exhorted to actively suppress and overcome these base passions, devoting their hearts solely to God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.8759743479584592,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+            "commentatorTierSimilarities": [
+                30.33,
+                33.63,
+                36.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

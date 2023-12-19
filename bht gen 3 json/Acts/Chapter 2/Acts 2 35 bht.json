@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:25:10",
+    "verseRef": "Acts 2:35",
+    "bestBHT": {
+        "bht": "Peter's closing sentence drives home the point of his sermon: This very Jesus whom ye crucified, him God made both Lord and Messiah. This dominion of Christ as Mediator will last till the plan of the kingdom is carried out, without any slip or trip. The text is quoted here with the greatest address, emphasizing that until Christ's enemies become His footstool, their own ruin is certain if they continue to oppose Him.",
+        "wordCount": 75,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 1.2509889602073327,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.94,
+        "commentatorTierSimilarities": [
+            63.71,
+            0.0,
+            36.29
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Thy footstool. A. V. omits of thy feet."
+        ],
+        "Archibald T. Robertson": [
+            "This dominion of Christ as Mediator will last till the plan of the kingdom is carried out.",
+            "Assuredly therefore, without any slip or trip.",
+            "Peter's closing sentence drives home the point of his sermon: 'This very Jesus whom ye crucified, him God made both Lord and Messiah.'"
+        ],
+        "John Gill": [
+            "Until I make thy foes thy footstool.",
+            " :-."
+        ],
+        "John Wesley": [
+            "Until I make thine enemies thy footstool.",
+            "This text is here quoted with the greatest address.",
+            "How certain their own ruin must be, if they went on to oppose Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's closing sentence drives home the point of his sermon: This very Jesus whom ye crucified, him God made both Lord and Messiah. This dominion of Christ as Mediator will last till the plan of the kingdom is carried out, without any slip or trip. The text is quoted here with the greatest address, emphasizing that until Christ's enemies become His footstool, their own ruin is certain if they continue to oppose Him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.2509889602073327,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.94,
+            "commentatorTierSimilarities": [
+                63.71,
+                0.0,
+                36.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's concluding statement deliberately reinforces the main theme of his sermon: This very Jesus whom ye crucified, him God made both Lord and Messiah. The commentary further emphasizes that this dominion of Christ as Mediator will remain steadfast until the completion of God's kingdom, with no room for error or failure. Quoting the verse adeptly, it highlights the certainty of Christ's enemies eventually becoming His footstool and warns of their impending destruction if they persist in opposing Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.1115550101483709,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.3,
+            "commentatorTierSimilarities": [
+                60.39,
+                0.0,
+                39.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's assertion that This very Jesus whom ye crucified, him God made both Lord and Messiah serves as the impactful conclusion to his sermon. The commentary underscores the enduring authority of Christ as Mediator until the fulfillment of God's kingdom, without any room for error or failure. Quoting the verse skillfully, it emphasizes the certainty of Christ's enemies becoming subservient to Him and emphasizes the inevitable downfall awaiting those who persist in opposing Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.1285036700709439,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.87,
+            "commentatorTierSimilarities": [
+                60.95,
+                0.0,
+                39.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's powerful declaration that This very Jesus whom ye crucified, him God made both Lord and Messiah concludes his sermon with a resounding message. The emphasized that Christ's authority as Mediator will endure until the kingdom's fulfillment, ensuring a flawless rule. Quoting the words skillfully, it emphasizes how the enemies of Christ will eventually be subdued, foretelling the inevitable ruin that awaits those who continue to oppose Him.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.0976653389889772,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.84,
+            "commentatorTierSimilarities": [
+                54.45,
+                0.0,
+                45.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's impactful conclusion asserts that This very Jesus whom ye crucified, him God made both Lord and Messiah. The commentary underscores the enduring authority of Christ as Mediator until the fulfillment of God's kingdom, without any room for error or failure. Quoting the verse adeptly, it emphasizes the certainty of Christ's enemies becoming subservient to Him and warns of the impending destruction for those who persist in opposing Him.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.1194008730546336,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.56,
+            "commentatorTierSimilarities": [
+                61.11,
+                0.0,
+                38.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

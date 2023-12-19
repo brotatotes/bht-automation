@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:24:23",
+    "verseRef": "Luke 24:48",
+    "bestBHT": {
+        "bht": "These words were either spoken specifically to the Apostles or to all present, emphasizing the incredible honor bestowed upon them as witnesses to testify about the message of eternal salvation. Christians are also called to be witnesses for Christ, living in a way that brings others to know and love the Savior. Their role encompassed proclaiming the Gospel facts, repentance, remission of sins, and fulfilling prophecies, ultimately spreading the message of salvation throughout the world. This commission served as both a consolation and a spur, restoring them and challenging them to overcome any grief or slothfulness.",
+        "wordCount": 96,
+        "quoteTokenProportion": 36.62,
+        "qualityScore": 1.4035610919418489,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.01,
+        "commentatorTierSimilarities": [
+            15.0,
+            50.95,
+            34.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "From what follows, Acts i. 22, if these words are to be taken in their strict sense, they must have been spoken only to the Apostles.",
+            "They may however have been more general, and said to all present."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "48. witnesses\u2014(Compare Acts 1:8;",
+            "\tActs 1:22)."
+        ],
+        "Albert Barnes": [
+            "How solemn was their office - to 'testify' these things to the world, and, in the face of suffering and death, to go and proclaim them to all nations!",
+            "In like manner, 'all' Christians are witnesses for Christ. They are the 'evidences' of his mercy and his love...",
+            "...and they should so live that others may be brought to see and love the Saviour."
+        ],
+        "John Calvin": [
+            "He holds out this, partly as a consolation to soothe their grief, and partly as a spur to correct their sloth.",
+            "Christ bestows on them incredible honor, enjoining them to publish to the whole world the message of eternal salvation.",
+            "In this manner he not only restores them to their former condition, but by the extent of this new favor he utterly obliterates the recollection of their heinous crimes."
+        ],
+        "Philip Schaff": [
+            "Ye. The Apostles, but others may have been present Acts 1:22 hints that others saw Him ascend.",
+            "Witnesses. As such they were to proclaim the facts (Luke 24:46), and the repentance and remission based upon them; and thus be the fulfillers of the prophecies summed up in Luke 24:47.",
+            "These things. The Gospel facts respecting Christ, centering in His Death and Resurrection, and including His Ascension. The fulfilment of prophecy and the commission to preach remission and repentance, are not excluded."
+        ],
+        "John Gill": [
+            "And ye are witnesses of these things.",
+            "Their business was also to testify the doctrine of repentance, and remission of sins, in Jerusalem, in all Judea, and Samaria, and to the uttermost parts of the earth.",
+            "Their business was also to testify...which they accordingly did."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us of the incredible honor bestowed upon the Apostles, who were specifically chosen as witnesses to testify to the world about the message of eternal salvation. However, it is possible that these words were also meant for all present, as all Christians are witnesses for Christ, called to live in such a way that others may come to know and love the Savior. Their role was not only to proclaim the Gospel facts surrounding Christ's death, resurrection, and ascension, but also to proclaim repentance and remission of sins. They were commissioned to fulfill the prophecies and bring the message of salvation to every corner of the earth. This commission served as both a consolation and a spur, restoring them to their former position and obliterating the memory of their past mistakes, while also challenging them to overcome any grief or slothfulness they may have felt.",
+            "wordCount": 149,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.448012453318851,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.49,
+            "commentatorTierSimilarities": [
+                16.21,
+                50.5,
+                33.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These words were either spoken specifically to the Apostles or to all present, emphasizing the incredible honor bestowed upon them as witnesses to testify about the message of eternal salvation. Christians are also called to be witnesses for Christ, living in a way that brings others to know and love the Savior. Their role encompassed proclaiming the Gospel facts, repentance, remission of sins, and fulfilling prophecies, ultimately spreading the message of salvation throughout the world. This commission served as both a consolation and a spur, restoring them and challenging them to overcome any grief or slothfulness.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.4035610919418489,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.01,
+            "commentatorTierSimilarities": [
+                15.0,
+                50.95,
+                34.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These words may have been spoken specifically to the Apostles, but they also hold significance for all present. Christians are called to be witnesses for Christ, testifying to the message of eternal salvation. This role includes proclaiming the Gospel facts, repentance, remission of sins, and fulfilling prophecies. It is both an honor and a responsibility for believers to share the message of salvation with the world, living in a way that brings others to see and love the Savior. This commission serves as a source of comfort and motivation for believers to faithfully fulfill their calling.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.3483488345876,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.18,
+            "commentatorTierSimilarities": [
+                17.33,
+                50.75,
+                31.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The words spoken in this passage may have been meant specifically for the Apostles, or they could have been intended for all present. Christians are called to be witnesses for Christ, testifying to the message of eternal salvation. This role includes proclaiming the Gospel facts, repentance, remission of sins, and fulfilling prophecies. It is both an honor and a responsibility for believers to share the message of salvation with the world, living in a way that brings others to see and love the Savior. This commission serves as a source of encouragement and motivation for believers to faithfully fulfill their calling.",
+            "wordCount": 101,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.3253245729988403,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.41,
+            "commentatorTierSimilarities": [
+                19.22,
+                51.13,
+                29.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The words spoken may have been either specifically for the Apostles or for all present. Christians are called to be witnesses for Christ, testifying about eternal salvation. This role involves sharing the Gospel facts of Christ's death, resurrection, and ascension, as well as the message of repentance and forgiveness. It is a great honor and responsibility for believers to proclaim this message and fulfill the prophecies. This commission serves as both consolation and motivation, restoring believers and spurring them to share the love of the Savior with others.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.3539900041992068,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.36,
+            "commentatorTierSimilarities": [
+                19.76,
+                52.62,
+                27.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

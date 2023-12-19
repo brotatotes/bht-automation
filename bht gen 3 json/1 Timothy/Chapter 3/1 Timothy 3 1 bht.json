@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:28:17",
+    "verseRef": "1 Timothy 3:1",
+    "bestBHT": {
+        "bht": "It is a faithful saying that the office of a bishop is a good work. To be a bishop, one must be irreproachable and have pre-eminent chastity. The role of a bishop requires someone who voluntarily desires it and aims at it eagerly. It is not just about the honor, but about the work itself. The office of a bishop is a noble and excellent endeavor, despite the hardships and persecutions it may entail.",
+        "wordCount": 75,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.9843974434499714,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+        "commentatorTierSimilarities": [
+            42.33,
+            28.18,
+            29.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It behoves then a bishop to be irreproachable, husband of one wife. He requires of them pre-eminent chastity, and abstinence from a licence which is allowed to other Christians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faithful is the saying.\" A needful preface to what follows: for the office of a bishop or overseer in Paul's day, attended as it was with hardship and often persecution, would not seem to the world generally a desirable and 'good work.'",
+            "Desire\u2014literally, 'stretch one's self forward to grasp'; 'aim at': a distinct Greek verb from that for 'desireth.' What one does voluntarily is more esteemed than what he does when asked.",
+            "Good work\u2014literally, 'honorable work.' Not the honor associated with it, but the work, is the prominent thought. He who aims at the office must remember the high qualifications needed for the due discharge of its functions."
+        ],
+        "Albert Barnes": [
+            "If a man desire - Implying that there would be those who would wish to be put into the ministry. The Lord, undoubtedly, by his Spirit, often excites an earnest and irrepressible desire to preach the gospel - a desire so strong, that he in whom it exists can be satisfied in no other calling.\"  ",
+            "The word rendered 'desire' here (\u03bf\u0313\u03c1\u03b5\u0301\u03b3\u03c9 orego\u0304), denotes properly, 'to reach' or 'stretch out' - and hence to reach after anything, to long after, to try to obtain; Hebrews 11:16.\" ",
+            "To apply the term to a pretended superior order of clergy, as designating their special office, is wholly to depart from the use of the word as it occurs in the Bible."
+        ],
+        "Marvin Vincent": [
+            "Faithful is the saying.",
+            "The word implies eagerness, but not of an immoderate or unchristian character.",
+            "The fundamental idea of the sword is overseeing."
+        ],
+        "John Calvin": [
+            "Let these words, therefore, be received as a preface intended to point out the importance of the subject; for Paul now begins a new discourse about ordaining pastors, and appointing the government of the Church.",
+            "But Paul speaks of a godly desire, by which holy men wish to employ that knowledge of doctrine which they possess for the edification of the Church.",
+            "And if it turn out that, according to the lawful order; they are not called, let them know that such was the will of God, and let them not take it in that others have been preferred to them."
+        ],
+        "Philip Schaff": [
+            "A true saying.",
+            "The office of a bishop, or overseer, was not likely, at the time when St. Paul wrote, to be an object of worldly ambition.",
+            "Hence the stimulus of a new motive was needed, and was found in the half-proverbial maxim which named the office, with all its labour and risk, as a goodly and noble work for a man to aim at."
+        ],
+        "Archibald T. Robertson": [
+            "Faithful is the saying (\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2 \u03bf \u03bb\u03bf\u03b3\u03bf\u03c2).",
+            "If a man seeketh (\u03b5 \u03c4\u03b9\u03c2 \u03bf\u03c1\u03b5\u03b3\u03b5\u03c4\u03b1).",
+            "The office of a bishop (\u03b5\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b7\u03c2)."
+        ],
+        "John Gill": [
+            "The office of a bishop, elder, or pastor of a church, 'is a work', and a very laborious one; wherefore such are called labourers in the word and doctrine: it is not a mere title of honour, and a place of profit, but it is a business of labour and care; yet a good one, a famous and excellent one.",
+            "It being an employment in things of the greatest excellency in themselves, and of the greatest usefulness for the good of men, and the honour of God; as the doctrines, ordinances, and discipline of the Gospel.",
+            "And so must be excellently, honestly, pleasantly, and profitably a good work."
+        ],
+        "John Wesley": [
+            "He desireth a good work \u2014 An excellent, but laborious, employment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is necessary for a bishop to be irreproachable and to have pre-eminent chastity and abstinence. The office of a bishop was not seen as desirable or a 'good work' by the world, but it required someone who would voluntarily stretch themselves forward and aim at it. The word 'desire' implies eagerness, but not of an immoderate or unchristian character. The office of a bishop is a work that requires high qualifications and the due discharge of its functions. It is a goodly and noble work for a man to aim at. Despite the hardship and persecution that may come with it, it is a faithful saying and a desireable and excellent, albeit laborious, employment.",
+            "wordCount": 116,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 2.014896742569028,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.34,
+            "commentatorTierSimilarities": [
+                36.86,
+                31.17,
+                31.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is important for a bishop to be irreproachable, with pre-eminent chastity and abstinence. The office of a bishop was not seen as a desirable or 'good work' by the world. It required someone who voluntarily aims at it, eagerly stretching themselves forward. The office of a bishop is a work that requires high qualifications and a due discharge of its functions. It is a goodly and noble work for a man to aim at, despite the hardship and persecution.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.9065856364934235,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                38.02,
+                29.91,
+                32.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The saying that the office of a bishop is a good and honorable work holds true. It requires someone who desires it earnestly, stretching themselves forward and aiming at it voluntarily. The role of a bishop is not just about the honor associated with it, but about the work itself. It requires high qualifications and a faithful discharge of its functions. Although it may involve hardship and persecution, it is a notable and excellent endeavor to strive for.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8114496062283196,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.57,
+            "commentatorTierSimilarities": [
+                37.02,
+                28.68,
+                34.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is a faithful saying that the office of a bishop is a good work. To be a bishop, one must be irreproachable and have pre-eminent chastity. The role of a bishop requires someone who voluntarily desires it and aims at it eagerly. It is not just about the honor, but about the work itself. The office of a bishop is a noble and excellent endeavor, despite the hardships and persecutions it may entail.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.9843974434499714,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                42.33,
+                28.18,
+                29.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The saying that the office of a bishop is a good and honorable work holds true. It requires someone who desires it earnestly, stretching themselves forward and aiming at it voluntarily. The role of a bishop is not just about the honor associated with it, but about the work itself. It requires high qualifications and a faithful discharge of its functions. Although it may involve hardship and persecution, it is a notable and excellent endeavor to strive for.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8114496062283196,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.57,
+            "commentatorTierSimilarities": [
+                37.02,
+                28.68,
+                34.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

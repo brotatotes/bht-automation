@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:13:56",
+    "verseRef": "Luke 2:1",
+    "bestBHT": {
+        "bht": "During the time when Caesar Augustus was the Roman emperor, a decree went forth for the entire Roman Empire to be enrolled or registered. This enrollment, debated to be for taxation or population purposes, was confirmed by recent archeological findings. It is worth noting that it was a census, not just a taxing, and God's providence used this seemingly tyrannical decree to lead Mary away from her home to fulfill prophetic plans for the birth of Jesus.",
+        "wordCount": 78,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.8529463096675034,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+        "commentatorTierSimilarities": [
+            26.24,
+            31.69,
+            42.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The assertion in these verses is this\u2014that a decree went forth, &c.\" ",
+            "And that this enrolment first took place when Cyrenius (Quirinus) was governor of Syria."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1. C\u00e6sar Augustus\u2014the first",
+            "\tof the Roman emperors. ",
+            "\t",
+            "all the world\u2014so the",
+            "\tvast Roman Empire was termed. ",
+            "\t",
+            "taxed\u2014enrolled, or",
+            "\tregister themselves."
+        ],
+        "Albert Barnes": [
+            "That all the world - There has been much difficulty respecting this passage, from the fact that no such taxing of 'all the world' is mentioned by ancient writers.",
+            "The 'whole land' is mentioned to show that it was not 'Judea' only, but that it included also 'Galilee,' the place where Joseph and Mary dwelt.",
+            "Our word 'tax' means to levy and raise money for the use of the government. This is not the meaning of the original word here. It means rather to 'enroll,' or take a 'list' of the citizens, with their employments, the amount of their property, etc., equivalent to what was meant by census."
+        ],
+        "Marvin Vincent": [
+            "Decree. Wyc., mandment. From dokew, to think. Hence, strictly, a personal opinion; and, as the opinion of one who can impose his opinion authoritatively on others, a decree.",
+            "The world [\u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03c5\u03bc\u03b5\u03bd\u03b7\u03bd] . Lit., the inhabited (land). The phrase was originally used by the Greek s to denote the land inhabited by themselves, in contrast with barbarian countries; afterward, when the Greek s became subject to the Romans, the entire Roman world; still later, for the whole inhabited world.",
+            "Be taxed [\u03b1\u03c0\u03bf\u03b3\u03c1\u03b1\u03c6\u03b5\u03c3\u03b8\u03b1\u03b9] . The word means properly to register or enter in a list. Commentators are divided as to whether it refers to an enrollment for taxation, or for ascertaining the population."
+        ],
+        "John Calvin": [
+            "Thus we see that the holy servants of God, even though they wander from their design, unconscious where they are going, still keep the right path, because God directs their steps.\" ",
+            "Nor is the Providence of God less wonderful in employing the mandate of a tyrant to draw Mary from home, that the prophecy may be fulfilled.",
+            "God had marked out by his prophet \u2014 as we shall afterwards see \u2014 the place where he determined that his Son should be born. If Mary had not been constrained to do otherwise, she would have chosen to bring forth her child at home."
+        ],
+        "Philip Schaff": [
+            "In those days. Indefinite; about the time of the birth of John the Baptist.",
+            "All the world, i.e., the Roman world. We should not, to avoid difficulty, limit it to Palestine.",
+            "If we accept the enrolment as resembling a modern census, all difficulty vanishes, for Augustus ordered such an enrolment at least three times during his reign."
+        ],
+        "Archibald T. Robertson": [
+            "No such decree was given by Greek or Roman historians and it was for long assumed by many scholars that Luke was in error.",
+            "But papyri and inscriptions have confirmed Luke on every point in these crucial verses Luke 2:1-7.",
+            "It was a census, not a taxing, though taxing generally followed and was based on the census."
+        ],
+        "John Gill": [
+            "that there went out a decree from Caesar Augustus... that all the world should be taxed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In these crucial verses, it is asserted that a decree was issued for the entire Roman Empire to be taxed, and this enrollment occurred during the governorship of Cyrenius. Some commentators debate whether this enrollment was for taxation or for population purposes. Greek and Roman historians do not mention this specific taxing, but recent findings have confirmed Luke's accuracy in these verses. It is important to note that this was a census, not solely a taxing, as the taxing usually followed based on the census. This decree, though seemingly from a tyrant, was actually used by God's providence to fulfill prophecy and guide Mary away from her home to the designated place of Jesus' birth.",
+            "wordCount": 117,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.879893219766707,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.85,
+            "commentatorTierSimilarities": [
+                30.87,
+                32.81,
+                36.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Luke recounts the issuance of a decree by Caesar Augustus for the entire Roman Empire to be enrolled or registered. Some debate whether this enrollment was for taxation or population purposes. Although no Greek or Roman historians mention this specific taxing, recent discoveries have validated the accuracy of Luke's account. It is important to note that this decree served as a census rather than a mere taxing, as the taxing typically followed the census. This seemingly tyrannical decree was actually part of God's providential plan, leading Mary away from home to fulfill prophecy in the designated birthplace of Jesus.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 1.8428269839621816,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                27.81,
+                32.17,
+                40.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the time when Caesar Augustus was the Roman emperor, a decree went forth for the entire Roman Empire to be enrolled or registered. This enrollment, debated to be for taxation or population purposes, was confirmed by recent archeological findings. It is worth noting that it was a census, not just a taxing, and God's providence used this seemingly tyrannical decree to lead Mary away from her home to fulfill prophetic plans for the birth of Jesus.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8529463096675034,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                26.24,
+                31.69,
+                42.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the reign of Caesar Augustus, a decree was issued for the entire Roman Empire to be enrolled or registered. Recent discoveries have confirmed the accuracy of Luke's account, despite the lack of mention in historical records. This enrollment, whether for taxation or population purposes, served as a census which would later result in taxation. Interestingly, God's providence was at work as this seemingly oppressive decree led Mary away from her home and fulfilled the prophecy regarding the birthplace of Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.7193114757658479,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                26.28,
+                31.22,
+                42.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Caesar Augustus was emperor, a decree went forth for the entire Roman Empire to be enrolled. Although this taxing is not mentioned in historical accounts, recent findings confirm Luke's accuracy. The purpose of the enrollment, whether for taxation or population, is debated. Nonetheless, it was a census that preceded the taxing. Despite its appearance, God's providence guided Mary away from home, fulfilling prophecies about the birthplace of Jesus.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6853698916950957,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+            "commentatorTierSimilarities": [
+                27.77,
+                33.14,
+                39.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

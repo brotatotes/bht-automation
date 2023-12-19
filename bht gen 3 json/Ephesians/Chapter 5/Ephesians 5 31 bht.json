@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:34:56",
+    "verseRef": "Ephesians 5:31",
+    "bestBHT": {
+        "bht": "This whole statement is not about human marriages, but about the deep connection between Christ and the Church. Just as a man leaves his parents and is united with his wife, Christ left the Father's bosom to pursue the Church. The language used here represents the spiritual union between Christ and His bride, the Church, which is unbreakable. The marriage between a man and a woman symbolizes this profound bond, where they become one.",
+        "wordCount": 75,
+        "quoteTokenProportion": 44.0,
+        "qualityScore": 2.059485792741027,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+        "commentatorTierSimilarities": [
+            38.81,
+            33.33,
+            27.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This whole verse is said not of human marriages, but of Christ and the church. HE is the man in the Apostle\u2019s view here, the Church is the woman.",
+            "His leaving the Father\u2019s bosom, which is past\u2014His gradual preparation of the union, which is present: His full consummation of it, which is future.",
+            "I would regard the saying as applied to that, past, present, and future, which constitutes Christ\u2019s Union to His Bride the Church: His leaving the Father\u2019s bosom, which is past\u2014His gradual preparation of the union, which is present: His full consummation of it, which is future."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The natural marriage, wherein 'a man leaves father and mother and is joined unto his wife,' is not the principal thing meant here, but the spiritual marriage represented by it, and on which it rests, whereby Christ left the Father's bosom to woo to Himself the Church out of a lost world...",
+            "In natural marriage, husband and wife combine the elements of one perfect human being: the one being incomplete without the other. So Christ, as God-man, is pleased to make the Church, the body, a necessary adjunct to Himself, the Head.",
+            "Christ will never allow any power to sever Himself and His bride, indissolubly joined."
+        ],
+        "Albert Barnes": [
+            "The meaning of the phrase rendered 'for this cause' is, 'answerably to this;' or corresponding to this.\" ",
+            "There is no evidence that the marriage connection was originally designed to symbolize or typify this union, but it may be used to illustrate that connection.",
+            "The comparison should be confined, however, strictly to the use made of it in the New Testament."
+        ],
+        "Marvin Vincent": [
+            "The compound verb denotes most intimate union.",
+            "Shall be unto one flesh.",
+            "Shall become."
+        ],
+        "John Calvin": [
+            "Paul says that we are members of his flesh and of his bones. Do we wonder then, that in the Lord\u2019s supper he holds out his body to be enjoyed by us, and to nourish us unto eternal life?",
+            "Thus we prove that the only union which we maintain to be represented by the Lord\u2019s supper is here declared in its truth and consequences by the apostle.",
+            "Such is the union between us and Christ, who in some sort makes us partakers of his substance. 'We are bone of his bone, and flesh of his flesh,' not because, like ourselves, he has a human nature, but because, by the power of his Spirit, he makes us a part of his body, so that from him we derive our life."
+        ],
+        "Philip Schaff": [
+            "The phrase in Genesis equivalent to \u2018for this cause\u2019 points directly to the creation of Eve, and the variation here does not of itself indicate a different reference.",
+            "In the Apostle\u2019s use of the Old Testament language a secondary application to Christ and His Church may well be admitted, since the Apostle throughout has both in mind.",
+            "The saying is applied to that, past, present, and future, which constitutes Christ\u2019s union to His Bride the Church: His leaving the Father\u2019s bosom, which is past. His gradual preparation of the union which is present; His full consummation of it, which is future.'"
+        ],
+        "Archibald T. Robertson": [
+            "This whole verse is a practical quotation and application of the language to Paul's argument here.",
+            "It seems absurd to make Paul mean Christ here by \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2 (man) as some commentators do."
+        ],
+        "John Gill": [
+            "These words contain the law of marriage, and are cited from Genesis 2:24.",
+            "Are observed against polygamy, and to stir up mutual affection.",
+            "Declare what ought to be, and are a prophecy of what should be."
+        ],
+        "John Wesley": [
+            "For this cause \u2014 Because of this intimate union. Genesis 2:24."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse speaks not of human marriages, but of the union between Christ and the Church. Through His leaving the Father's bosom, His gradual preparation of the union, and the full consummation of it, Christ has wooed the Church out of a lost world. Just as in a natural marriage, where a man leaves his parents and is joined to his wife, Christ and the Church are intimately united. This bond is so strong that nothing can sever it. The language used by Paul in this verse is a practical application of Christ's union to the Church, and it would be mistaken to interpret it as referring to a human marriage.",
+            "wordCount": 113,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.1430230581073006,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.6,
+            "commentatorTierSimilarities": [
+                39.78,
+                32.85,
+                27.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage is not about earthly marriages, but rather about the profound union between Christ and the Church. Just as a man leaves his parents to be joined with his wife, Christ left the Father's bosom to woo the Church. The language used here is a practical application of Christ's union to the Church, emphasizing the intimate bond that cannot be severed. The marriage between a man and a woman reflects the spiritual marriage between Christ and His bride, the Church, where they become one flesh.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.231832733487113,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.55,
+            "commentatorTierSimilarities": [
+                39.58,
+                33.46,
+                26.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This whole statement is not about human marriages, but about the deep connection between Christ and the Church. Just as a man leaves his parents and is united with his wife, Christ left the Father's bosom to pursue the Church. The language used here represents the spiritual union between Christ and His bride, the Church, which is unbreakable. The marriage between a man and a woman symbolizes this profound bond, where they become one.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.059485792741027,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                38.81,
+                33.33,
+                27.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse does not pertain to earthly marriages, but rather to the union between Christ and the Church. Christ, as the God-man, makes the Church an essential part of Himself. Their bond is so strong that nothing can sever it. The language used by Paul is a practical application of Christ's union with the Church, where they become one flesh. This union, past, present, and future, constitutes the deep connection between Christ and His bride, the Church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 2.043608382059799,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+            "commentatorTierSimilarities": [
+                37.84,
+                33.66,
+                28.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The words in this passage are not about human marriages, but about the intimate union between Christ and the Church. Christ left the Father's bosom to pursue the Church, gradually preparing and ultimately consummating their union. Just as in a natural marriage, where a man leaves his parents and is united with his wife, Christ united Himself with the Church. Their union is so close that they are one flesh, symbolizing the perfect combination of the head and body. This verse serves as a practical application of Christ's union with the Church, emphasizing its indissolubility.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.0885427238630943,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.78,
+            "commentatorTierSimilarities": [
+                38.2,
+                31.74,
+                30.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

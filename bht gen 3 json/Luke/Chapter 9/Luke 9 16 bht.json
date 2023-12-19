@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:17:08",
+    "verseRef": "Luke 9:16",
+    "bestBHT": {
+        "bht": "The symbolic import of this miracle is seen in the historical reality of its omission by Luke. To set before signifies placing beside and committing. The repetition of the Greek article highlights the precision of the language. Jesus kept on giving, breaking the loaves in a single act. Looking up to heaven, he blessed the multitude, while the disciples organized the food for distribution in an organized manner.",
+        "wordCount": 68,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.1461923247183128,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.45,
+        "commentatorTierSimilarities": [
+            52.04,
+            0.0,
+            47.96
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On the symbolic import of the miracle...",
+            "Supposing him to have had St. Matthew's gospel before him, how is this to be explained?",
+            "It is also an important observation, that the omission by St. Luke of the second miracle of feeding is not to be adduced against its historical reality..."
+        ],
+        "Marvin Vincent": [
+            "To set before [\u03c0\u03b1\u03c1\u03b1\u03b8\u03b5\u03b9\u03bd\u03b1\u03b9] . Lit., to set beside, since the table was at the side of the guest.\" ",
+            "From the sense of placing beside, comes that of putting in charge, committing.",
+            "Hence the kindred noun paraqhkh (2 Timothy 1:12), a deposit: that which I have committed."
+        ],
+        "Archibald T. Robertson": [
+            "The five ... the two (\u03c4\u03bf\u03c5\u03c2 \u03c0\u03b5\u03bd\u03c4\u03b5 ... \u03c4\u03bf\u03c5\u03c2 \u03b4\u03c5\u03bf). Pointing back to verse Luke 9:13, fine example of the Greek article.",
+            "And gave (\u03ba\u03b1 \u03b5\u03b4\u03b9\u03b4\u03bf\u03c5). Imperfect active of \u03b4\u03b9\u03b4\u03c9\u03bc, kept on giving.",
+            "This picturesque imperfect is preceded by the aorist \u03ba\u03b1\u03c4\u03b5\u03ba\u03bb\u03b1\u03c3\u03b5\u03bd (brake), a single act."
+        ],
+        "John Gill": [
+            "and looking up to heaven: to his Father there, from whom all the mercies and blessings of life come",
+            "he blessed them; either asked, or commanded a blessing on them, that they might multiply and increase",
+            "and gave to the disciples to set before the multitude; as they sat in ranks, and in their distinct companies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the symbolic import of the miracle is emphasized. It is important to note the historical reality of the second feeding miracle, despite its omission in Luke's account. The use of the phrase to set before signifies not only placing beside, but also putting in charge or committing. The repetition of the Greek article in reference to the five and the two illustrates the precision of the language. Jesus kept on giving, as seen in the picturesque imperfect tense, while breaking the loaves in a single act. Through this miracle, Jesus looks up to heaven and blesses, asking for multiplied and increased blessings for the multitude as the disciples set the food before them in an organized manner.",
+            "wordCount": 121,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.209790134226112,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.57,
+            "commentatorTierSimilarities": [
+                55.94,
+                0.0,
+                44.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The symbolic import of this miracle emphasizes the historical reality despite its omission in Luke's account. The phrase to set before signifies not only placing beside but also putting in charge or committing. The repetition of the Greek article illustrates the precision of the language. As Jesus kept on giving, he simultaneously broke the loaves in a single act. Looking up to heaven, he blessed the multitude, asking for multiplied and increased blessings, while the disciples organized the food for distribution.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.1057969696778813,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.11,
+            "commentatorTierSimilarities": [
+                50.4,
+                0.0,
+                49.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The symbolic import of this miracle is seen in the historical reality of its omission in Luke's account. To set before signifies not only placing but also committing. The repetition of the Greek article highlights the precision of the language. As Jesus kept on giving, he simultaneously broke the loaves in a single act. Looking up to heaven, he blessed the multitude, while the disciples organized the food for distribution in an orderly manner.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.128953206752168,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.88,
+            "commentatorTierSimilarities": [
+                54.19,
+                0.0,
+                45.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The symbolic import of this miracle is evident in the historical reality of its omission in Luke's account. To set before signifies not only placing but also committing. The repetition of the Greek article showcases the precise language used. Jesus continued giving and simultaneously broke the loaves in a single act. Looking up to heaven, he blessed the multitude, while the disciples organized the food for distribution in an orderly and distinct manner.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.0847122507567941,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.41,
+            "commentatorTierSimilarities": [
+                51.79,
+                0.0,
+                48.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The symbolic import of this miracle is seen in the historical reality of its omission by Luke. To set before signifies placing beside and committing. The repetition of the Greek article highlights the precision of the language. Jesus kept on giving, breaking the loaves in a single act. Looking up to heaven, he blessed the multitude, while the disciples organized the food for distribution in an organized manner.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.1461923247183128,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.45,
+            "commentatorTierSimilarities": [
+                52.04,
+                0.0,
+                47.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

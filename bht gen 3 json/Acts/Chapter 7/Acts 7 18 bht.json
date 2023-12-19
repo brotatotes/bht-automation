@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:27:14",
+    "verseRef": "Acts 7:18",
+    "bestBHT": {
+        "bht": "A different kind of king, belonging to a new dynasty, arose in Egypt. This new ruler did not recognize the significance of Joseph's history and services, showing no respect for his people. The previous dynasty, which was that of the Hyksos, was expelled by this new king, Ahmes. It is uncertain if the new king genuinely didn't know about Joseph or if he deliberately dissembled his ignorance. Nevertheless, his lack of acknowledgement of Joseph's merits foreshadowed the difficult times that awaited the Israelites under his reign.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 2.0777128828348994,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.42,
+        "commentatorTierSimilarities": [
+            40.2,
+            33.35,
+            26.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "What was the 'name' of this king is not certainly known.",
+            "It can hardly be supposed that he would be ignorant of the name and deeds of Joseph.",
+            "National ingratitude has not been uncommon in the world, and a change of dynasty has often obliterated all memory of former obligations and compacts."
+        ],
+        "Marvin Vincent": [
+            "Another [\u03b5\u03c4\u03b5\u03c1\u03bf\u03c2] . Not merely a successor, but a monarch of a different character.",
+            "Knew not. As sixty years had elapsed since Joseph 's death, and a new dynasty was coming to the throne, this may be taken literally: did not know his history and services.",
+            "Some explain, did not recognize his merits."
+        ],
+        "Philip Schaff": [
+            "This new king was Amasis or Ahmes, the first of the eighteenth dynasty, or that of the Diospolitans from Thebes.",
+            "It is probable that this oppressor of the Hebrews was the first native prince who reigned after the expulsion of the Hyksos or shepherd kings.",
+            "Our knowledge of the history of ancient Egypt is too uncertain to admit of any positive statement here."
+        ],
+        "Archibald T. Robertson": [
+            "A different kind of king also, probably a king of the new dynasty after the shepherd kings had been expelled from Egypt.",
+            "Joseph's history and services meant nothing to the new king.",
+            "The previous dynasty had been that of the Hyksos: the new king was Ahmes who drove out the Hyksos."
+        ],
+        "John Gill": [
+            "another king arose....In, or over Egypt",
+            "he that says a new one absolutely, (thinks so) because it is written a new one; and he who says, because his decrees are renewed (or he makes new decrees, he thinks so) from hence, because it is not written, and he died, and there reigned",
+            "he dissembled, he pretended ignorance of him, because he would show no respect unto his people"
+        ],
+        "John Wesley": [
+            "Another king \u2014 Probably of another family."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A new king arose in Egypt who, unlike his predecessor, did not recognize the importance of Joseph's history and services. This king belonged to a different dynasty and his lack of knowledge or appreciation for Joseph's contributions reflected the change in power. The previous dynasty had been the Hyksos, while this new ruler, Ahmes, was the first of the 18th dynasty. The Israelites would soon experience the effects of this new ruler's indifference and forgetfulness towards their previous relationship with Egypt.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.050951492581525,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                40.9,
+                35.57,
+                23.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A different kind of king, belonging to a new dynasty, arose in Egypt. This new ruler did not recognize the significance of Joseph's history and services, showing no respect for his people. The previous dynasty, which was that of the Hyksos, was expelled by this new king, Ahmes. It is uncertain if the new king genuinely didn't know about Joseph or if he deliberately dissembled his ignorance. Nevertheless, his lack of acknowledgement of Joseph's merits foreshadowed the difficult times that awaited the Israelites under his reign.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0777128828348994,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.42,
+            "commentatorTierSimilarities": [
+                40.2,
+                33.35,
+                26.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A different kind of king, belonging to a new dynasty, arose in Egypt who did not recognize the significance of Joseph's history and services. This lack of knowledge may have been due to the sixty years that had elapsed since Joseph's death and the subsequent change in power. The new king, Ahmes, came to the throne after the expulsion of the Hyksos. His ignorance or indifference towards Joseph's contributions marked a shift in the relationship between Egypt and the Israelites.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9567129222933213,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.4,
+            "commentatorTierSimilarities": [
+                40.91,
+                33.28,
+                25.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A different king emerged in Egypt, representing a new dynasty that did not recognize the importance of Joseph's history and services. This lack of knowledge or recognition may have stemmed from the significant time gap since Joseph's death and the change in power. The ascension of this new ruler, Ahmes, marked the expulsion of the Hyksos and the commencement of the 18th dynasty. The disregard for Joseph's contributions foreshadowed the Israelites' impending hardships under this ruler's reign.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.7745860465866794,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.35,
+            "commentatorTierSimilarities": [
+                42.57,
+                36.81,
+                20.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When a new king of a different character and dynasty came to power in Egypt, he did not recognize the significance of Joseph's history and services. This lack of knowledge or recognition of Joseph's merits may have been due to the passage of time and the change in leadership. The previous dynasty, the Hyksos, was expelled, with Ahmes becoming the new ruler. As a result, the Israelites would soon experience adversity under this ruler, highlighting the shift in their relationship with Egypt.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7952194452188956,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                43.74,
+                34.74,
+                21.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

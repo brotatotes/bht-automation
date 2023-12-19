@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:38:01",
+    "verseRef": "2 Thessalonians 1:12",
+    "bestBHT": {
+        "bht": "Believers in Thessalonica magnify the name of our Lord Jesus Christ, uniting God and Jesus in their worship. Their gratitude and obedience reflect Christ's glory and the redemptive power of His name. Salvation is by grace, not by human merit, emphasizing the significance of Christ's Messiahship and Lordship. By enduring suffering and selflessly obeying, the believers bring glory to His name. Their actions showcase the goodness of God, leading to the manifestation of Christ's power and love in their lives, both now and in the future.",
+        "wordCount": 89,
+        "quoteTokenProportion": 27.45,
+        "qualityScore": 1.957069086377468,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+        "commentatorTierSimilarities": [
+            32.07,
+            29.77,
+            38.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Our Lord Jesus in His manifested personality as the God-man.",
+            "The believer's graces redound to Christ's glory, and His glory, as their Head, reflects glory on them as the members.",
+            "There is but one Greek article to both, implying the inseparable unity of God and the Lord Jesus."
+        ],
+        "Albert Barnes": [
+            "If it be a 'righteous thing' that the wicked shall be punished, then they never can be saved by mere justice.",
+            "No one will go to heaven because he deserves or merits it. All dependence on human merit, therefore, is taken away in the matter of salvation, and if the sinner is ever saved, it will be by grace, and not by justice.",
+            "It is rational to think of religion; to reflect on eternity; to be serious; to be anxious about the future state. If there is even a possibility that we may be miserable forever, it is proper to be serious about it."
+        ],
+        "Marvin Vincent": [
+            "The name [\u03c4\u03bf \u03bf\u03bd\u03bf\u03bc\u03b1] . In no case where it is joined with Jesus, or Christ, or Lord Jesus, does it mean the title or dignity.",
+            "The word always carries the notion of time, and not of eternity. It always means a period of time.",
+            "Duration is a secondary idea. When it enters it enters as an accompaniment and outgrowth of moral conditions."
+        ],
+        "John Calvin": [
+            "He calls us back to the chief end of our whole life \u2014 that we may promote the Lord\u2019s glory.",
+            "For in this, first of all, the wonderful goodness of God shines forth \u2014 that he will have his glory be conspicuous in us who are covered over with ignominy.",
+            "For there is nothing here that is ours either in the action itself, or in the effect or fruit, for it is solely by the guidance of the Holy Spirit that our life is made to contribute to the glory of God."
+        ],
+        "Philip Schaff": [
+            "That the name of our Lord Jesus Christ may be glorified in you.",
+            "He is glorified now in all who manifest how firmly they believe His word, how highly they esteem the holiness He exemplified, how profoundly they love Him.",
+            "And they do so when they suffer without repining, and obey with alacrity and self-sacrifice."
+        ],
+        "Archibald T. Robertson": [
+            "The name of our Lord Jesus means the Messiahship and Lordship of Jesus.",
+            "In you, and ye in him. This reciprocal glorying is Pauline, but it is also like Christ's figure of the vine and the branches in John 15:1-11.",
+            "According to the grace. Not merely standard, but also aim."
+        ],
+        "John Gill": [
+            "Christ will be glorified in them hereafter, by the glory which will be conferred upon them, and which will reflect glory upon him.",
+            "The saints are now glorified in him as their head and representative, being raised together and made to sit together in heavenly places in him.",
+            "All these things must be prayed for the application of, and must be expected only on such a foot; and to this must all be ascribed, the glory of which is the ultimate end of God, in all he has done, does, or will do for his people."
+        ],
+        "John Wesley": [
+            "That the name \u2014 The love and power of our Lord may be glorified - Gloriously displayed in you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the believers in Thessalonica giving glory to the name of our Lord Jesus Christ. This highlights the unity of God and Jesus, as well as the believers being reflections of Christ's glory. The name of our Lord Jesus signifies his Messiahship and Lordship, emphasizing that salvation is not based on human merit but on the grace of God. By suffering without complain and obeying with self-sacrifice, the believers bring glory to Christ's name. Their actions in promoting the Lord's glory and being covered with ignominy demonstrate the amazing goodness of God shining through their lives. Ultimately, the goal is for Christ's glory to be conspicuously displayed in the believers, both in this life and in the glory to be conferred upon them in the future.",
+            "wordCount": 134,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.05515457896825,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.67,
+            "commentatorTierSimilarities": [
+                33.33,
+                27.0,
+                39.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers in Thessalonica magnify the name of our Lord Jesus Christ, uniting God and Jesus in their worship. Their gratitude and obedience reflect Christ's glory and the redemptive power of His name. Salvation is by grace, not by human merit, emphasizing the significance of Christ's Messiahship and Lordship. By enduring suffering and selflessly obeying, the believers bring glory to His name. Their actions showcase the goodness of God, leading to the manifestation of Christ's power and love in their lives, both now and in the future.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.957069086377468,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+            "commentatorTierSimilarities": [
+                32.07,
+                29.77,
+                38.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers in Thessalonica bring honor to the name of our Lord Jesus Christ, exemplifying the inseparable unity of God and Jesus. Their faith and obedience showcase Christ's glory and the redemptive power of His name. Salvation is not a result of human merit, but rather through the grace of God. Through their endurance of suffering and selfless obedience, the believers reflect the goodness of God and manifest the power and love of Christ in their lives, both presently and in the future.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.945550380824394,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+            "commentatorTierSimilarities": [
+                34.67,
+                30.5,
+                34.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers in Thessalonica bring glory to the name of our Lord Jesus Christ, reflecting His manifested personality as the God-man. Their obedience and suffering without complaint reveal the inseparable unity of God and Jesus, as well as their reciprocal glorying. Through their actions, they showcase the Messiahship and Lordship of Jesus and demonstrate the divine grace at work in their lives. By promoting the Lord's glory and enduring ignominy, believers manifest the wonderful goodness of God and shine forth the love and power of our Lord.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.936735225890008,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+            "commentatorTierSimilarities": [
+                35.4,
+                25.76,
+                38.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers in Thessalonica bring glory to the name of our Lord Jesus Christ, reflecting His manifested personality as the God-man. Through their actions, they showcase the Messiahship and Lordship of Jesus, revealing the inseparable unity of God and Jesus. Their obedience and suffering without complaint demonstrate the divine grace at work in their lives. By promoting the Lord's glory and enduring ignominy, believers manifest the wonderful goodness of God and shine forth the love and power of our Lord.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.9126371432544287,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+            "commentatorTierSimilarities": [
+                34.45,
+                26.0,
+                39.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

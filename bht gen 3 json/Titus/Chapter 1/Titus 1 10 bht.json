@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:08:50",
+    "verseRef": "Titus 1:10",
+    "bestBHT": {
+        "bht": "Paul warns about the many insubordinate vain talkers and deceivers, particularly those of Jewish descent in Crete. These unruly individuals aim to disrupt households, teaching things that are not fitting and seeking base gain. They are like the devil's crowbars, tearing down the houses of God. Paul emphasizes the need to stop these vain talkers and mind-deceivers, and to instead choose qualified leaders who can oppose and refute their false teachings.",
+        "wordCount": 73,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 1.9781874010459584,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+        "commentatorTierSimilarities": [
+            30.65,
+            38.03,
+            31.32
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For there are many insubordinate vain talkers and deceivers, chiefly they of the circumcision, whose mouths it is necessary to stop.",
+            "Such men as overturn whole houses, teaching things which are not fitting for the sake of base gain.",
+            "They are like the devil's crowbars, with which he pulls down the houses of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There are many unruly persons, vain talkers, and deceivers.\" ",
+            "Vain talkers\u2014opposed to 'holding fast the faithful word'.\" ",
+            "Deceivers\u2014literally, 'deceivers of the minds of others'."
+        ],
+        "Albert Barnes": [
+            "For there are many unruly and vain talkers and deceivers.",
+            "Many who are vain talkers - who are more given to talk than to the duties of practical religion.",
+            "Many who live to deceive others under the mask of religion."
+        ],
+        "Marvin Vincent": [
+            "Vain talkers.\" ",
+            "Deceivers.",
+            "There can be no doubt of the presence of Jews in Crete."
+        ],
+        "John Calvin": [
+            "He warns him that he has to deal with many obstinate and incorrigible persons, that many are puffed up with vanity and idle talk, that many are deceivers; and that therefore they ought to choose, on the other hand, such leaders as are qualified and well prepared to oppose them.",
+            "He means those who cannot endure to be brought to obey, and who throw off the yoke of subjection.",
+            "The teachers of such trifles entice and fascinate the minds of men, so as no longer to receive sound doctrine."
+        ],
+        "Philip Schaff": [
+            "Unruly; for Jews of that age, of whom many inhabited Crete, were noted for seditious tendencies.",
+            "Vain talkers (1 Timothy 1:6), or chatterers, and deceivers, or misleaders of opinion, are two leading substantives, to which the adjective \u2018unruly\u2019 applies."
+        ],
+        "Archibald T. Robertson": [
+            "Vain talkers, empty talkers.",
+            "Deceivers, mind-deceivers.",
+            "Jews are mentioned in Crete... Jewish Christians of the Pharisaic type tinged with Gnosticism."
+        ],
+        "John Gill": [
+            "Persons who... will not submit themselves to them that have the rule over them, nor attend to the admonitions of the church, nor be brought into any regularity and order.",
+            "And vain talkers; who deliver out in their discourses empty, trifling, superficial, and frivolous things; which have no solidity and substance in them, nor do they tend to edification.",
+            "Especially they of the circumcision... who joined Moses and Christ and blended the law and Gospel together; who taught that circumcision, and the observance of other ceremonies of the law, were necessary to justification and salvation; and hereby did a great deal of mischief among the churches."
+        ],
+        "John Wesley": [
+            "They of the circumcision \u2014 The Jewish converts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Titus 1:10, the apostle Paul warns about the presence of many insubordinate vain talkers and deceivers, particularly among the Jewish Christians of Crete. These individuals were known for their seditious tendencies, using empty talk to deceive others. They were like the devil's crowbars, pulling down the houses of God with their false teachings. These unruly persons aimed to overturn the faith of believers and disrupt the unity of the church for their own base gain. Paul encourages Titus to silence these mind-deceivers and instead promote leaders who are qualified to oppose them and uphold sound doctrine.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 1.932691277624797,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+            "commentatorTierSimilarities": [
+                28.12,
+                38.18,
+                33.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul addresses the issue of insubordinate vain talkers and deceivers, particularly among the Jewish Christians of Crete. These individuals were known for their seditious tendencies and empty talk, seeking to deceive others for their own gain. Paul urges Titus to put an end to their influence and instead promote qualified leaders who can counter their false teachings and uphold the integrity of the faith.",
+            "wordCount": 67,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.01691164875784,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                26.17,
+                39.9,
+                33.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul warns about the presence of many insubordinate vain talkers and deceivers, particularly among the Jewish Christians of Crete. These unruly persons aim to overturn the faith of believers, teaching things that are not fitting and causing division. They are like the devil's crowbars, pulling down the houses of God. Paul encourages Titus to silence these mind-deceivers and promote qualified leaders who can oppose them and uphold sound doctrine.",
+            "wordCount": 71,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9297372952683158,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.51,
+            "commentatorTierSimilarities": [
+                29.0,
+                36.86,
+                34.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul identifies the presence of unruly and deceptive individuals, mainly among the Jewish Christians of Crete. These vain talkers overturn whole households through their unsuitable and empty teachings in pursuit of selfish gain. They are akin to the devil's crowbars, destructive forces against the houses of God. It is crucial to silence these deceivers of the minds of others and instead appoint qualified leaders who can counter their falsehoods with the faithful word.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.9325906259336691,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+            "commentatorTierSimilarities": [
+                30.56,
+                36.49,
+                32.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul warns about the many insubordinate vain talkers and deceivers, particularly those of Jewish descent in Crete. These unruly individuals aim to disrupt households, teaching things that are not fitting and seeking base gain. They are like the devil's crowbars, tearing down the houses of God. Paul emphasizes the need to stop these vain talkers and mind-deceivers, and to instead choose qualified leaders who can oppose and refute their false teachings.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.9781874010459584,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                30.65,
+                38.03,
+                31.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:16:45",
+    "verseRef": "Luke 8:3",
+    "bestBHT": {
+        "bht": "The steward's wife, a disciple of Jesus, ministered and provided for Him in Herod's court. Her dedication to serving Jesus and her financial support demonstrated the reciprocal relationship of love and gratitude. Jesus, the sustainer of His disciples, willingly received support from them. This act of giving and receiving exemplified the pure blessing of love. The women who supported Jesus and His disciples with their means were instrumental in the spread of the gospel and the establishment of the earliest forms of missionary support.",
+        "wordCount": 86,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 1.9244517031709396,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+        "commentatorTierSimilarities": [
+            29.35,
+            35.12,
+            35.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We find a reason here why Herod should say to his servants (Matt. xiv. 2), 'This is John the Baptist,'&., viz.\u2014because his steward\u2019s wife was a disciple of Jesus, and so there would be frequent mention of Him among the servants in Herod\u2019s court.",
+            "This is Herod Antipas.",
+            "Ministered, providing food, and giving other necessary attentions. Unto them, viz. the Lord and His Apostles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done, shall be spoken of as a memorial of her.",
+            "He who was the support of the spiritual life of His people disdained not to be supported by them in the body.",
+            "He gave all things to men, His brethren, and received all things from them, enjoying thereby the pure blessing of love: which is then only perfect when it is at the same time both giving and receiving."
+        ],
+        "Albert Barnes": [
+            "The word 'steward' means one who has charge of the domestic affairs of a family, to provide for it.",
+            "This office was generally held by a 'slave' who was esteemed the most faithful, and was often conferred as a reward of fidelity.",
+            "Christians then believed, when they professed to follow Christ, that it was proper to give 'all' up to him - their property as well as their hearts."
+        ],
+        "Marvin Vincent": [
+            "The word thus literally means, one to whom the management of affairs is turned over.",
+            "Compare Matthew 13:1-23; Mark 4:1-25."
+        ],
+        "John Calvin": [
+            "To me it appears probable that she is placed first in order, as a person in whom Christ had given a signal display of his power.",
+            "Those matrons being wealthy and of high rank, it reflects higher commendation on their pious zeal, that they supply Christ\u2019s expenses out of their own property.",
+            "It is even possible, that Chuza, Herod\u2019s steward, being too like his master, was strongly opposed to what his wife did in this matter, but that the pious woman overcame this opposition by the ardor and constancy of her zeal."
+        ],
+        "Philip Schaff": [
+            "Our Lord confided in the purity and faithfulness of His Galilean friends; He exalted women into the circle of His followers...",
+            "Woman's work was at once a service of grateful love (a diaconate)...",
+            "Such a circle as this is possible only where Christ is; about Him as the center, gather preaching men and ministering women in purity and harmony."
+        ],
+        "Archibald T. Robertson": [
+            "One may recall also Manaen (Acts 13:1), Herod's foster brother.",
+            "The very fact that Jesus now had twelve men going with him called for help from others and the women of means responded to the demand.",
+            "This is the first woman's missionary society for the support of missionaries of the Gospel."
+        ],
+        "John Gill": [
+            "she cheerfully exposed herself to all his resentments; and chose rather meanness, contempt, and persecution with Christ, and for his sake, than to enjoy all the pleasures of Herod's court without him.",
+            "This shows the gratitude of these women, who having received favours from Christ, both for their souls and bodies, make returns to him out of their worldly substance, in a way of thankfulness.",
+            "may be an instruction to the churches of Christ to take care of their ministers, and to communicate in all good things to them, of whose spiritual things they partake."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see the importance of the women who followed Jesus, particularly the steward's wife who ministered to Him. Her dedication to serving Jesus clearly resonated within Herod's court, as evidenced by Herod's recognition of Jesus as John the Baptist. Just as Jesus was the support and sustenance for His disciples, He did not hesitate to accept support and provisions from His followers. It is a beautiful reflection of love when both giving and receiving are present, demonstrating a true blessing of selflessness. The women who supported Jesus and His disciples through their own resources paved the way for future acts of generosity and dedication to spreading the gospel throughout the world.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 2.0354436900772264,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.02,
+            "commentatorTierSimilarities": [
+                28.8,
+                33.96,
+                37.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We see the significance of women in Jesus' ministry, particularly the steward's wife who served Him. Her dedication impacted Herod's court, leading Herod to identify Jesus as John the Baptist. Just as Jesus provided for His disciples spiritually, He humbly accepted support from His followers. Love is truly perfect when both giving and receiving are present. The women who supported Jesus and His disciples with their resources lay the foundation for future acts of generosity and the spreading of the gospel worldwide.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8601641412840964,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                31.79,
+                33.74,
+                34.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The steward's wife who served Jesus played a significant role in Herod's court and was recognized as one of His disciples. Jesus, who supported His people spiritually, did not hesitate to be supported by them in return. This reciprocity of love is a pure blessing. The women who provided for Jesus and His disciples with their resources set an example of gratitude and dedication, forming the foundation for future acts of generosity and the support of missionaries in spreading the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8601317747958666,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                29.91,
+                35.25,
+                34.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The steward's wife, a disciple of Jesus, ministered and provided for Him in Herod's court. Her dedication to serving Jesus and her financial support demonstrated the reciprocal relationship of love and gratitude. Jesus, the sustainer of His disciples, willingly received support from them. This act of giving and receiving exemplified the pure blessing of love. The women who supported Jesus and His disciples with their means were instrumental in the spread of the gospel and the establishment of the earliest forms of missionary support.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.9244517031709396,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                29.35,
+                35.12,
+                35.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The steward's wife, a disciple of Jesus, ministered and provided for Him in Herod's court. Her dedication and support displayed the beautiful interplay between giver and receiver. As Jesus sustained His followers spiritually, He also accepted their provisions with gratitude. The women who generously supported Jesus and His disciples paved the way for future acts of giving and missionary efforts. Their selflessness serves as a reminder for the Church to care for its ministers and to share in all good things with them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8919845433429625,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+            "commentatorTierSimilarities": [
+                26.93,
+                33.54,
+                39.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

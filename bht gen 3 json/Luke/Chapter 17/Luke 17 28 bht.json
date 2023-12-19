@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:21:02",
+    "verseRef": "Luke 17:28",
+    "bestBHT": {
+        "bht": "The days of Lot are presented as an example in this portion of scripture, demonstrating the Lord's affirmation of another part of the sacred record. This serves as a response to the skepticism prevalent in modern times, as doubts have been cast upon the authenticity of the Bible. Pay attention to the contrast between the imperfects and aorists used here, as they convey the ongoing actions of eating, drinking, buying, selling, and planting. These details offer valuable insights into the way of life during the days of Lot.",
+        "wordCount": 89,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 0.855944791866692,
+        "qualityScoreNormalizedComparedToV2BHTs": 19.8,
+        "commentatorTierSimilarities": [
+            93.7,
+            0.0,
+            6.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The example of the days of Lot is added here",
+            "the sanction of the Lord of Truth given to another part of the sacred record",
+            "modern scepticism has laid its unhallowed hands"
+        ],
+        "Archibald T. Robertson": [
+            "Note the same sharp contrast between the imperfects here and the aorists in verse Luke 17:29.\" ",
+            "(\u2026) the imperfects here (\u2026) and the aorists in verse Luke 17:29.\" ",
+            "The imperfects here (\u2026) and the aorists in verse Luke 17:29."
+        ],
+        "John Gill": [
+            "they did eat, they drank\" - ",
+            "they bought, they sold: they traded among themselves, and with their neighbors",
+            "they planted; vineyards, and fruit trees"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 17:28, the example of the days of Lot is given as a reference, serving as the Lord of Truth's approval of another part of the sacred record. This is particularly important in light of modern skepticism that has disregarded the authenticity of the Bible. It's worth noting the sharp contrast between the imperfects used in this verse and the aorists in verse 29. The imperfects signify continuous actions, such as eating, drinking, buying, selling, and planting, which provide insight into the lifestyle and activities of the people during the days of Lot.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.0383095372227817,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.87,
+            "commentatorTierSimilarities": [
+                93.25,
+                0.0,
+                6.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The example of the days of Lot is added here, indicating the Lord's endorsement of another part of the sacred record. This serves as a response to modern skepticism that has dismissed the Bible. Note the contrast between the imperfects in this passage and the aorists in the subsequent section, highlighting continuous actions such as eating, drinking, buying, selling, and planting. These details provide valuable insights into the lifestyle and activities of the people during the days of Lot.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.8881319226010671,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.87,
+            "commentatorTierSimilarities": [
+                85.25,
+                0.0,
+                14.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The days of Lot are presented as an example in this portion of scripture, demonstrating the Lord's affirmation of another part of the sacred record. This serves as a response to the skepticism prevalent in modern times, as doubts have been cast upon the authenticity of the Bible. Pay attention to the contrast between the imperfects and aorists used here, as they convey the ongoing actions of eating, drinking, buying, selling, and planting. These details offer valuable insights into the way of life during the days of Lot.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 0.855944791866692,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.8,
+            "commentatorTierSimilarities": [
+                93.7,
+                0.0,
+                6.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord references the days of Lot, approving another part of the sacred record and countering modern skepticism. The contrast between the imperfects and aorists is notable, highlighting continuous actions such as eating, drinking, buying, selling, and planting. These actions provide insights into the daily lives and activities of the people during the days of Lot.",
+            "wordCount": 56,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 0.8497357343024408,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.6,
+            "commentatorTierSimilarities": [
+                63.89,
+                0.0,
+                36.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord's approval of another part of the sacred record, the days of Lot, serves as a response to modern skepticism that questions the authenticity of the Bible. The contrast between the imperfects and aorists in this passage is significant, as it highlights continuous actions like eating, drinking, buying, selling, and planting. These actions offer valuable insights into the lifestyle and activities of the people during the days of Lot.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.8275035605002424,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.86,
+            "commentatorTierSimilarities": [
+                82.62,
+                0.0,
+                17.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

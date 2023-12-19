@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:39:50",
+    "verseRef": "1 Peter 4:13",
+    "bestBHT": {
+        "bht": "Rejoice insofar as you are partakers of sufferings and may rejoice exulting in your identification with Christ, even in suffering. These sufferings are the same kind that Christ endured, and by willingly suffering for His sake, you enter into fellowship with Him. The capacity to find joy in your present sufferings, as you share in the sufferings of Christ, is the condition for experiencing the radiant joy of future glory. As you suffer for His sake, rejoice in the hope of the more abundant glory that awaits you, for the measure of glory corresponds to the measure of suffering.",
+        "wordCount": 99,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 2.900878210103377,
+        "qualityScoreNormalizedComparedToV2BHTs": 87.79,
+        "commentatorTierSimilarities": [
+            34.12,
+            38.43,
+            27.45
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in as far as (not 'in that,' 'inasmuch as,' A.V.) ye are partakers with the sufferings of Christ...rejoice"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "inasmuch as\u2014The oldest manuscripts read, 'in proportion as'; 'in as far as' ye by suffering are partakers of Christ's sufferings, that is, by faith enter into realizing fellowship with them; willingly for His sake suffering as He suffered.\" ",
+            "with exceeding joy\u2014Greek, 'exulting joy'; now ye rejoice amidst sufferings; then ye shall EXULT, for ever free from sufferings.\" ",
+            "If we will not bear suffering for Christ now, we must bear eternal sufferings hereafter."
+        ],
+        "Albert Barnes": [
+            "Sufferings of the same kind that he endured, and inflicted for the same reasons.",
+            "They were to regard it as a matter of rejoicing that they were identified with Christ, even in suffering.",
+            "Every good man will have joy when, immediately at death, he is received into the presence of his Savior; but his joy will be complete only when, in the presence of assembled worlds, he shall hear the sentence which shall confirm him in happiness forever."
+        ],
+        "Marvin Vincent": [
+            "Inasmuch as ye are partakers. Compare Romans 8:17. ",
+            "Be glad with exceeding joy [\u03c7\u03b1\u03c1\u03b7\u03c4\u03b5 \u03b1\u03b3\u03b1\u03bb\u03bb\u03b9\u03c9\u03bc\u03b5\u03bd\u03bf\u03b9] . Lit., ye may rejoice exulting. See on ch. 1 Peter 1:6."
+        ],
+        "John Calvin": [
+            "Hence, then, is the whole consolation of the godly, that they are associates with Christ, that hereafter they may be partakers of his glory.",
+            "the day of its revelation is not to be overlooked, but ought to be expected.",
+            "the consolations of God moderate evils, so that we can rejoice at the same time."
+        ],
+        "Philip Schaff": [
+            "The only sufferings which can bring us joy are those which we share with Him, sufferings like His.\" ",
+            "There is a present joy, a 'light sown for the righteous, a gladness for the upright in heart' which suffering, instead of quenching it, should kindle.\" ",
+            "The capacity for finding a softened, holy joy in the sufferings of the present, in so far as these are shared with Christ, is the condition of the capacity for entering into the radiant joy of the future glory."
+        ],
+        "Archibald T. Robertson": [
+            "Insofar as ye are partakers of sufferings.",
+            "That ye may rejoice with exceeding joy.",
+            "That ye may rejoice exulting."
+        ],
+        "John Gill": [
+            "Suffering saints should rejoice in this, that their sufferings are accounted by Christ as his own, who in all their afflictions is afflicted.",
+            "They are honoured to suffer for his name's sake, and are hereby made like unto him.",
+            "As they suffer with him, and for his sake, they will be glorified with him."
+        ],
+        "John Wesley": [
+            "While ye suffer for his sake, rejoice in hope of more abundant glory.",
+            "For the measure of glory answers the measure of suffering.",
+            "And much more abundantly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Rejoice insofar as you are partakers of sufferings and may rejoice exulting in your identification with Christ, even in suffering. These sufferings are the same kind that Christ endured, and by willingly suffering for His sake, you enter into fellowship with Him. The capacity to find joy in your present sufferings, as you share in the sufferings of Christ, is the condition for experiencing the radiant joy of future glory. As you suffer for His sake, rejoice in the hope of the more abundant glory that awaits you, for the measure of glory corresponds to the measure of suffering.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.900878210103377,
+            "qualityScoreNormalizedComparedToV2BHTs": 87.79,
+            "commentatorTierSimilarities": [
+                34.12,
+                38.43,
+                27.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Rejoice as you partake in sufferings, for by willingly suffering as Christ did, you enter into fellowship with Him. Find joy amidst present sufferings, knowing that they are shared with Christ. This capacity for holy joy in suffering is a prerequisite for experiencing the radiant joy of future glory that awaits you. As you suffer for the sake of Christ, rejoice in the hope of a more abundant glory, for the measure of glory corresponds to the measure of suffering endured.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.776451593263122,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.66,
+            "commentatorTierSimilarities": [
+                32.92,
+                40.14,
+                26.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Rejoice insofar as you are partakers with Christ's sufferings, willingly suffering as He suffered. By finding joy amidst present sufferings, shared with Christ, you cultivate the capacity for entering into the radiant joy of future glory. As you suffer for Christ's sake, rejoice in the hope of a more abundant glory. The measure of glory corresponds to the measure of suffering. Embrace suffering now, for eternal suffering awaits those who do not bear it for Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.670379312258416,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.13,
+            "commentatorTierSimilarities": [
+                34.62,
+                36.37,
+                29.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Rejoice in as far as you are partakers with Christ's sufferings, willingly sharing in His sufferings through faith. Find joy amidst present sufferings, realizing that you are identified with Christ, even in suffering. The capacity to find a softened, holy joy in these shared sufferings is a condition for entering into the radiant joy of future glory. As you suffer for Christ's sake, rejoice in the hope of a more abundant glory. The measure of this glory matches the measure of the sufferings you endure.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.7314968901770946,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.16,
+            "commentatorTierSimilarities": [
+                34.02,
+                38.21,
+                27.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Rejoice as you partake in sufferings, for by willingly suffering as Christ did, you enter fellowship with Him. Find joy in present sufferings, shared with Him, as it kindles a softened, holy joy. This capacity for joy in shared sufferings is a condition for entering the radiant joy of future glory. As you suffer for Christ's sake, rejoice in the hope of more abundant glory, where the measure of glory corresponds to the measure of the sufferings endured.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 2.699073437669637,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.08,
+            "commentatorTierSimilarities": [
+                31.94,
+                41.45,
+                26.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

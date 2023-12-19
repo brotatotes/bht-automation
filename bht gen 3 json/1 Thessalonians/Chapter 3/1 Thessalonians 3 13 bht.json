@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:59:21",
+    "verseRef": "1 Thessalonians 3:13",
+    "bestBHT": {
+        "bht": "May your hearts be established and blameless in holiness, not only in the eyes of men but also before God Himself. It is important to cultivate holiness, for it is through holiness that we are numbered among the saints and justified in the day of judgment. True holiness is not mere external adherence to rules, but a genuine transformation of the heart, brought about by the Spirit of God. Let us strive for increased holiness, knowing that at the second coming of Christ, we will be united with Him and all His holy angels, standing blameless before them all.",
+        "wordCount": 99,
+        "quoteTokenProportion": 48.53,
+        "qualityScore": 2.1781489889802703,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.76,
+        "commentatorTierSimilarities": [
+            30.18,
+            27.06,
+            42.76
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to the end that he may stablish your hearts unblameable in holiness.\" ",
+            "This ensures the genuineness of this absence of blame in holiness: that it should be not only before men, but also before God.",
+            "Certainly He will be accompanied with the angels: but also with the spirits of the just."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "May your holiness be such as will stand His searching scrutiny.",
+            "We must have 'holiness' if we are to be numbered with His holy ones or 'saints.'",
+            "This verse shows that 'love' is the spring of true 'holiness'."
+        ],
+        "Albert Barnes": [
+            "May the Lord cause you to increase in love, in order that you may be established, and be without blame in the day of judgment.",
+            "The meaning is, so that there could be no 'charge' or 'accusation' against them.",
+            "When we come to appear amidst that vast assemblage of holy beings, the honors of the world will appear to be small things; the wealth of the earth will appear worthless, and all the pleasures of this life beneath our notice."
+        ],
+        "Marvin Vincent": [
+            "Saints is often explained as angels; but the meaning is the holy and glorified people of God.\" ",
+            "It is doubtful if oiJ agioi is used of angels in LXX Zechariah 14:5, which is confidently cited as an instance, is quoted at the conclusion of the Didache (xvi. 7), clearly with the sense of glorified believers.\" ",
+            "This does not exclude the attendance of angels on the Lord's coming (see Mark 8:38; Luke 9:26), but when Paul speaks of such attendance, as 2 Thessalonians 1:7, he says, with the angels [\u03b1\u03b3\u03b3\u03b5\u03bb\u03c9\u03bd] of his power."
+        ],
+        "John Calvin": [
+            "A man is acceptable to God only when he brings holiness of heart; that is, not merely external, but also internal.",
+            "Paul does not teach us what or how great the holiness of believers may be, but desires that it may be increased, until it attain its perfection.",
+            "For this consideration ought to whet our desire for holiness."
+        ],
+        "Philip Schaff": [
+            "The coming of our Lord Jesus Christ. This Paul looks forward to as the time when those who are holy shall be acknowledged and manifested as such; and beyond which there is no fear of falling away.\" ",
+            "Christ is to appear with all His holy angels, and at His appearing His saints are at once to join Him.\" ",
+            "Probably both angels and men are included in the present expression."
+        ],
+        "Archibald T. Robertson": [
+            "To the end he may stablish.",
+            "Unblameable.",
+            "Second coming of Christ again."
+        ],
+        "John Gill": [
+            "True holiness is from the Spirit of God; and this is a stable thing in itself, and can never be removed or taken away.\" ",
+            "No man is perfectly holy in this life; no man is without sin in himself, or lives without the commission of it; holiness in the best is imperfect.",
+            "Through the grace of God their hearts may be so established with principles of holiness, and they may be so assisted in the acts of it daily, as to give no just cause of blame to men, and so to behave as to approve themselves 'before God'."
+        ],
+        "John Wesley": [
+            "With all his, Christ's, saints - Both angels and men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May your hearts be established and blameless in holiness, not only in the eyes of men but also before God Himself. It is important to cultivate holiness, for it is through holiness that we are numbered among the saints and justified in the day of judgment. True holiness is not mere external adherence to rules, but a genuine transformation of the heart, brought about by the Spirit of God. Let us strive for increased holiness, knowing that at the second coming of Christ, we will be united with Him and all His holy angels, standing blameless before them all.",
+            "wordCount": 99,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 2.1781489889802703,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.76,
+            "commentatorTierSimilarities": [
+                30.18,
+                27.06,
+                42.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May your hearts be established and blameless in holiness, not only before men, but also before God. This verse emphasizes the importance of holiness, which is the spring of true love. Through the grace of God, our hearts can be established and assisted in acts of holiness, giving no cause for blame from others. True holiness, a stable and unremovable attribute, is achieved by cultivating a genuine inward transformation. At the second coming of Christ, we will stand as His holy ones, united with angels and glorified believers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.979818515868323,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "commentatorTierSimilarities": [
+                31.64,
+                27.54,
+                40.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May your hearts be established and blameless in holiness, not only before men, but also before God Himself. This verse highlights the inseparable connection between love and holiness. Cultivating holiness is crucial in order to be counted among the saints, the holy and glorified people of God. Our pursuit of holiness should be fueled by the desire for internal transformation and a deeper relationship with God. When Christ returns with His holy angels, we will stand before Him, justified and united with all His saints.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.0860718618667375,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+            "commentatorTierSimilarities": [
+                30.63,
+                27.42,
+                41.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May your hearts be firmly established and blameless in holiness, not only in the sight of others but also in the presence of God Himself. The pursuit of holiness is essential as it is the manifestation of true love and the mark of genuine believers. This requires an ongoing increase in holiness, driven by a desire to please God and attain spiritual perfection. At the second coming of Christ, we will stand alongside angels, being acknowledged as His saints, free from any accusation or fault.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.110945402304586,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.53,
+            "commentatorTierSimilarities": [
+                30.0,
+                30.05,
+                39.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May your hearts be stablished unblamable in holiness, both before men and before God. This verse reminds us of the significance of holiness, for it is a testament to our love and devotion to God. Through the grace of God, our hearts can be firmly established with principles of holiness, enabling us to live blameless lives that honor Him. When Christ returns, we will stand with Him, accompanied not only by angels, but also by the glorified believers who have embraced true holiness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 2.127955383325495,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.1,
+            "commentatorTierSimilarities": [
+                32.43,
+                26.48,
+                41.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

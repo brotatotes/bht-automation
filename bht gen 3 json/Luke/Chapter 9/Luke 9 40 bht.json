@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:17:03",
+    "verseRef": "Luke 9:40",
+    "bestBHT": {
+        "bht": "The desperate plea of the man to Jesus' disciples to cast out the devil from his child showcases the immense power that evil possessed in this instance. Despite their best efforts, the disciples were incapable of overcoming this formidable force. This event serves as a powerful reminder of the limitations of human strength when confronting spiritual adversaries, highlighting the crucial necessity of divine intervention in such circumstances.",
+        "wordCount": 67,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 0.806295761547954,
+        "qualityScoreNormalizedComparedToV2BHTs": 18.15,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "And I besought thy disciples... to cast him out.\" ",
+            "The devil out of his child.",
+            "And they could not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The desperation of the man in Luke 9:40 is evident in his plea to Jesus' disciples to cast out the devil from his child, but they were unable to do so. The power of the devil was strong in this situation, leaving the disciples helpless before him. This verse highlights the limitations of human power and emphasizes the need for divine intervention in combating forces of evil.",
+            "wordCount": 66,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.062869651933357,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.68,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The desperate plea of the man to Jesus' disciples to cast out the devil from his child highlights the power of evil in this situation. Despite their best efforts, the disciples were unable to overcome the forces at play. This verse demonstrates the inherent limitations of human strength when confronted with formidable spiritual opposition, emphasizing the necessity of divine intervention in combatting such forces.",
+            "wordCount": 64,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 0.8590729909730344,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.91,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man's impassioned request for the disciples to expel the devil from his child serves as a testament to the overwhelming power of evil. However, despite their earnest efforts, the disciples found themselves unable to succeed in this endeavor. This passage serves as a poignant reminder of the inadequacy of human strength when confronted with formidable spiritual forces, underscoring the indispensable need for divine intervention in such battles.",
+            "wordCount": 69,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 0.660155168831684,
+            "qualityScoreNormalizedComparedToV2BHTs": 13.3,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The desperate plea of the man to Jesus' disciples to cast out the devil from his child showcases the immense power that evil possessed in this instance. Despite their best efforts, the disciples were incapable of overcoming this formidable force. This event serves as a powerful reminder of the limitations of human strength when confronting spiritual adversaries, highlighting the crucial necessity of divine intervention in such circumstances.",
+            "wordCount": 67,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 0.806295761547954,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.15,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man's fervent plea to Jesus' disciples to cast out the devil from his child underscores the undeniable potency of evil in this particular situation, as the disciples were left powerless to do so. This verse serves as a poignant reminder of human limitations when confronting supernatural forces, emphasizing the essential requirement for divine intervention to prevail against such formidable adversaries.",
+            "wordCount": 62,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.8555927623931627,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

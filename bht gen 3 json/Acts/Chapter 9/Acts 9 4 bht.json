@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:28:44",
+    "verseRef": "Acts 9:4",
+    "bestBHT": {
+        "bht": "In this remarkable encounter, Jesus addresses Saul with deep tenderness, repeating his name to emphasize the weight of the question being asked. No language can truly express the profound impact of this question, spoken from the right hand of the Majesty on high to a persecutor like Saul. Through this, we come to understand that persecuting the disciples is, in fact, persecuting Jesus Himself, highlighting the close union between Christ and His people.",
+        "wordCount": 73,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.9143629109297842,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+        "commentatorTierSimilarities": [
+            41.04,
+            27.76,
+            31.2
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A remarkable illustration of Matt. xxv. 45.\" ",
+            "No stress should be laid on me; but the very lack of emphasis, assuming the awful fact, gives more solemnity to the question."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Saul, Saul\u2014a reduplication full of tenderness.",
+            "Though his name was soon changed into 'Paul,' we find him, in both his own narratives of the scene, after the lapse of so many years, retaining the original form, as not daring to alter, in the smallest detail, the overpowering words addressed to him.",
+            "No language can express the affecting character of this question, addressed from the right hand of the Majesty on high to an infuriated, persecuting mortal."
+        ],
+        "Albert Barnes": [
+            "And he fell to the earth - He was astonished and overcome by the sudden flash of light.",
+            "The whole company heard a voice Acts 9:7, but did not distinguish it as addressed particularly to Saul. He heard it speaking to himself.",
+            "Christ and his people are one, John 15:1-6. To persecute them, therefore, was to persecute him, Matthew 25:40, Matthew 25:45."
+        ],
+        "Marvin Vincent": [
+            "Saying. In Paul 's own account he says that the words were spoken in Hebrew (ch. 26 14)."
+        ],
+        "John Calvin": [
+            "For what other thing can befall man, but that he must lie prostrate and be, as it were, brought to nothing, when he is overwhelmed with the present feeling of God\u2019s glory?",
+            "And this was the first beginning of the bringing down of Paul, that he might become apt to hear the voice of Christ, which he had despised so long as he sat haughtily upon his horse.",
+            "And this voice, which Christ did send out to beat down his pride, may full well be called a lightning or thunderbolt, because it did not only strike him, and make him astonished, but did quite kill him, so that he was now as nobody with himself."
+        ],
+        "Philip Schaff": [
+            "He heard the voice of the Son of God: to them it was a bright light which suddenly surrounded them.",
+            "What wrong great or small hast thou suffered from me, that thou doest these things?",
+            "The Lord here seems to recall His own words: \u2018He that heareth you heareth Me, and He that despiseth you despiseth Me\u2019\" (Luke 10:16)."
+        ],
+        "Archibald T. Robertson": [
+            "So in Acts 22:7 Paul says: 'I fell unto the ground' (\u03b5\u03c0\u03b5\u03c3\u03b1 \u03b5\u03b9\u03c2 \u03c4\u03bf \u03b5\u03b4\u03b1\u03c6\u03bf\u03c2) using an old word rather than the common \u03b3\u03b7\u03bd.",
+            "For the repetition of names by Jesus note Luke 10:41 (Martha, Martha), Luke 22:31 (Simon, Simon).",
+            "In persecuting the disciples, Saul was persecuting Jesus, as the words of Jesus in verse Acts 9:5 made plain."
+        ],
+        "John Gill": [
+            "and heard a voice, saying unto him, Saul, Saul, why persecutest thou me?...the language he spoke in was the Hebrew tongue, and he calls him by his Hebrew name Saul, and which is doubled to denote vehemency and affection;",
+            "he knew him as one of his sheep, though straying, and calls him by name, and expostulates with him, wherefore he should persecute him in his members as he did; for the union between Christ and his people is so close, that what is done to them is done to him.",
+            "There seems to be a considerable emphasis on the word 'me'; 'me', who have been they surety from everlasting; 'me', who hath loved thee and given myself for thee; 'me', who have shed my blood, laid down my life, and died for thee; 'me', who am now at my Father's right hand, interceding for thee, that grace might be bestowed upon thee, the set time being now come."
+        ],
+        "John Wesley": [
+            "He heard a voice \u2014 Severe, yet full of grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we witness a remarkable illustration of the solemn question that Jesus posed in Matthew 25:45. There is no doubt that the lack of emphasis on Saul's name as it is repeated, Saul, Saul, adds to the tenderness and weight of the moment. Even years later, when he narrates this scene, Paul does not alter the overpowering words addressed to him. It is truly indescribable to fathom how this question, spoken from the right hand of the Majesty on high to a persecutor like Saul, could be so affecting. It must be noted that Saul's persecution of the disciples was, in fact, persecution of Jesus Himself, for they are one.",
+            "wordCount": 113,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.9043042638088261,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "commentatorTierSimilarities": [
+                41.47,
+                29.39,
+                29.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this remarkably tender scene, Jesus poses a solemn question to Saul, repeating his name as if to emphasize its gravity. The overwhelming power of these words remains unchanged in Paul's retelling after many years. It is unfathomable to express the impact of this question, spoken from the heavenly realm to a persecuting mortal like Saul. Let us remember that persecuting the disciples was, in essence, persecuting Jesus Himself, for their union is so intimate.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8785074375674604,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.8,
+            "commentatorTierSimilarities": [
+                40.9,
+                28.75,
+                30.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this remarkable encounter, Jesus addresses Saul with deep tenderness, repeating his name to emphasize the weight of the question being asked. The power of these words remains unchanged in Paul's retelling, as he retains the original form, unwilling to alter the overwhelming message. It is almost impossible to express the profound impact of this question, spoken from the right hand of the Majesty on high to a persecutor like Saul. Through this, we come to understand that persecuting the disciples is, in fact, persecuting Jesus Himself, highlighting the close union between Christ and his people.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.8563503010099178,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.07,
+            "commentatorTierSimilarities": [
+                43.08,
+                25.96,
+                30.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this remarkable encounter, Jesus addresses Saul with deep tenderness, repeating his name to emphasize the weight of the question being asked. No language can truly express the profound impact of this question, spoken from the right hand of the Majesty on high to a persecutor like Saul. Through this, we come to understand that persecuting the disciples is, in fact, persecuting Jesus Himself, highlighting the close union between Christ and His people.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.9143629109297842,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                41.04,
+                27.76,
+                31.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this remarkable encounter, Jesus addresses Saul with deep tenderness, repeating his name to emphasize the weight of the question being asked. It is almost impossible to express the profound impact of this question, spoken from the right hand of the Majesty on high to a persecutor like Saul. Through this, we come to understand that persecuting the disciples is, in fact, persecuting Jesus Himself, highlighting the close union between Christ and his people.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9002712611591344,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.53,
+            "commentatorTierSimilarities": [
+                40.63,
+                27.77,
+                31.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

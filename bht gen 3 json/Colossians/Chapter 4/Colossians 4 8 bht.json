@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 15:21:36",
+    "verseRef": "Colossians 4:8",
+    "bestBHT": {
+        "bht": "For this very purpose, I have sent Tychicus to carry my letter, so that he may know your state and comfort your hearts. Through Tychicus, I hope to inform him of your reception of the false teachers, your love, concord, and afflictions, so that he may provide support and encouragement to you. It is my desire that through this letter, you may come to know the things that concern us and that it may bring comfort to your troubled hearts.",
+        "wordCount": 80,
+        "quoteTokenProportion": 44.68,
+        "qualityScore": 1.2565050682629804,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.12,
+        "commentatorTierSimilarities": [
+            35.23,
+            13.49,
+            51.28
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "for this very purpose.",
+            "that he may know your state",
+            "comfort your hearts"
+        ],
+        "Marvin Vincent": [
+            "I have sent. Epistolary aorist. Tychicus carried the letter.",
+            "He might know your estate [\u03b3\u03bd\u03c9 \u03c4\u03b1 \u03c0\u03b5\u03c1\u03b9 \u03c5\u03bc\u03c9\u03bd] . The correct reading is gnwte ta peri hJmwn ye might know the things about us, or our estate.",
+            "Compare Ephesians 6:21."
+        ],
+        "Philip Schaff": [
+            "Whom I sent, etc. See Ephesians 6:22, which is verbally identical.",
+            "The best Greek manuscripts nearly all read as in Ephesians.",
+            "The weight of authority overbears the probability of an alteration to conform with Ephesians 6:22."
+        ],
+        "Archibald T. Robertson": [
+            "I have sent (\u03b5\u03c0\u03b5\u03bc\u03c8\u03b1). Epistolary aorist active indicative of \u03c0\u03b5\u03bc\u03c0\u03c9 as in Ephesians 6:22.",
+            "That ye may know (\u03b9\u03bd\u03b1 \u03b3\u03bd\u03c9\u03c4\u03b5). Second aorist (ingressive) active subjunctive of \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9, 'that ye may come to know.' This the correct text, not \u03b3\u03bd\u03c9 (third singular).",
+            "May comfort (\u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03b5\u03c3\u03b7). First aorist active subjunctive. Proper rendering here and not 'may exhort.'"
+        ],
+        "John Gill": [
+            "That is, to relate to them his affairs both temporal and spiritual; and also, that he might know your estate.",
+            "What reception the false teachers had among them; and what love, concord, and harmony were among themselves; or what were their afflictions and distresses from their enemies.",
+            "Who might be greatly cast down upon hearing of the sufferings of the apostle, and also with those they themselves endured both from within and from without, from sin, Satan, and the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For this very purpose, I have sent Tychicus to carry my letter, so that he may know your state and comfort your hearts. The correct reading is that he may know the things about us, or our estate. Through Tychicus, I hope to inform him of your reception of the false teachers, your love, concord, and afflictions, so that he may provide support and encouragement to you. It is my desire that through this letter, you may come to know the things that concern us and that it may bring comfort to your troubled hearts.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.2342246084926116,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.38,
+            "commentatorTierSimilarities": [
+                37.38,
+                14.89,
+                47.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For this very purpose, I have sent Tychicus to carry my letter, so that he may know your state and comfort your hearts. Through Tychicus, I hope to inform him of your reception of the false teachers, your love, concord, and afflictions, so that he may provide support and encouragement to you. It is my desire that through this letter, you may come to know the things that concern us and that it may bring comfort to your troubled hearts.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.2565050682629804,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.12,
+            "commentatorTierSimilarities": [
+                35.23,
+                13.49,
+                51.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I have sent Tychicus to know the things about us, or our estate, and to provide comfort to your troubled hearts. Through him, I hope to inform him of your reception of the false teachers, your love, concord, and afflictions, so that he may bring support and encouragement. It is my desire that this letter may bring you to come to know the things that concern us and that it may bring comfort to your troubled hearts.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.2201255556476054,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.91,
+            "commentatorTierSimilarities": [
+                29.5,
+                11.2,
+                59.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I have sent Tychicus to carry my letter, so that he may know your state and comfort your hearts. Through him, I hope to inform him of your reception of the false teachers, your love, concord, and afflictions, so that he may provide support and encouragement to you. It is my desire that through this letter, you may come to know the things that concern us and that it may bring comfort to your troubled hearts.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 1.2555634496626238,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.09,
+            "commentatorTierSimilarities": [
+                33.02,
+                14.85,
+                52.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I have sent Tychicus to know the things about us, or our estate, and to comfort your hearts. Through him, I hope to inform him of your reception of the false teachers, your love, concord, and afflictions, so that he may provide support and encouragement to you. It is my desire that through this letter, you may come to know the things that concern us and that it may bring comfort to your troubled hearts.",
+            "wordCount": 75,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.2344156416277197,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.39,
+            "commentatorTierSimilarities": [
+                30.89,
+                11.83,
+                57.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

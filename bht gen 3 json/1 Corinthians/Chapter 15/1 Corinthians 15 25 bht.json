@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:13:52",
+    "verseRef": "1 Corinthians 15:25",
+    "bestBHT": {
+        "bht": "Christ's mediatorial kingdom will continue until all enemies are subdued under his power. This is not the Father's reign, but Christ's own, as he goes forth conquering and to conquer. The necessity for his continued reign is emphasized by the word must and the fulfillment of Scripture. All enemies, including those who resist and oppose his authority, will be subjugated. Through his reign, Christ will bring about the destruction of death and the complete obedience of his chosen ones.",
+        "wordCount": 82,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.041848424268599,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+        "commentatorTierSimilarities": [
+            22.6,
+            38.83,
+            38.57
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is the divine appointment with regard to the mediatorial kingdom, that it should last till, and only till, all enemies shall have been subdued to it.\" ",
+            "till he... viz. Christ, not the Father: it is parallel with the former sentence, 'when He shall have done away, &c.,' and included in the mediatorial acts of Christ, who in His world\u2019s course goes forth 'conquering and to conquer,' Rev. vi. 2.\" ",
+            "It is otherwise in ver. 27: see there."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There will be no further need of His mediatorial kingdom, its object having been realized.",
+            "Enemies under his feet.\" (Luke 19:27; Ephesians 1:22)",
+            "Must\u2014because Scripture foretells it."
+        ],
+        "Albert Barnes": [
+            "It is fit, or proper, that he should reign until this is accomplished.",
+            "The word 'must' here refers to the propriety of this continuance of his reign, and to the fact that this was contemplated and predicted as the work which he would accomplish.",
+            "Paul, doubtless, had this passage in his eye as affirming the necessity that he should reign until all his foes should be subdued."
+        ],
+        "John Calvin": [
+            "For he must reign [...] until they have been subdued under his power.\" ",
+            "We see that there are still many enemies that resist Christ, and obstinately oppose his reign. But death will be the last enemy that will be destroyed.\" ",
+            "The substance of death in us will one day be drained off, but it has not been so as yet. We are born again of incorruptible seed, (1 Peter 1:23,) but we have not yet arrived at perfection."
+        ],
+        "Philip Schaff": [
+            "The 'must' here seems a predictive 'must,' as if he had said Psalms 110:6 must be fulfilled; though there is a deeper necessity still, in the nature of the thing God cannot let His enemies for ever prevail.\" ",
+            "The 'He' is not God the Father (as Bera, Bengel, and others take it), but Christ till He has subjugated all the enemies of His authority.",
+            "God cannot let His enemies for ever prevail."
+        ],
+        "Archibald T. Robertson": [
+            "Till he hath put...no sense in saying 'hath put,' merely effective aorist tense for climax.\"  ",
+            "\u0391\u03c7\u03c1 (\u03bf\u03c5), \u03bc\u03b5\u03c7\u03c1 (\u03bf\u03c5), \u03b5\u03c9\u03c2 (\u03bf\u03c5) all are used for the same idea of indefinite future time."
+        ],
+        "John Gill": [
+            "Christ must reign; he is set as King over God's holy hill of Zion; he is King of saints; he is made and declared to be both Lord and Christ.\" ",
+            "He must reign because it is the unalterable will, and unchangeable decree and purpose of God, that he should reign; and because he has promised it, and prophesied of it; and because the state and condition of his people require it.",
+            "He must reign till he has brought every elect soul into such an obedience to himself: or rather antichrist and his followers, and all wicked and ungodly men, with Satan and his angels; who will be destroyed with the breath of his mouth, and the brightness of his coming."
+        ],
+        "John Wesley": [
+            "He must reign \u2014 Because so it is written.",
+            "Till he \u2014 the Father hath put all his enemies under his feet. Psalm 110:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ's mediatorial kingdom will last until all enemies are subdued under his power, as foretold in Scripture. It is fitting that he continues to reign until this work is accomplished, as it is both proper and predicted. The must here emphasizes the necessity of fulfilling the words of Psalm 110:1. This reigning, however, is not of God the Father, but of Christ himself, who will subjugate all enemies. The enemies referred to include those who resist Christ and oppose his authority. Ultimately, Christ's reign will result in the destruction of death and the complete obedience of his elect souls.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9575329347463761,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+            "commentatorTierSimilarities": [
+                22.99,
+                39.76,
+                37.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ's mediatorial kingdom will last until all enemies are subdued under his power, as foretold in Scripture. It is fitting that he continues to reign until this work is accomplished. The must here emphasizes the necessity of fulfilling the words of Psalm 110:1. This reigning is not of God the Father, but of Christ himself, who will subjugate all enemies. The enemies referred to include those who resist Christ and oppose his authority. Ultimately, Christ's reign will result in the destruction of death and the complete obedience of his elect souls.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9539875559690278,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                23.16,
+                39.19,
+                37.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's mediatorial kingdom will last until all enemies are subdued under his power. This necessary reign is predicted in Scripture, as expressed through the word must. It is fitting for Christ to continue to reign until this work is accomplished. His reign is not that of God the Father, but of Christ himself, who will subjugate all enemies. These enemies include those who resist and oppose Christ's authority. Ultimately, Christ's reign will result in the destruction of death and the complete obedience of his elect souls.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.026480982998905,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.72,
+            "commentatorTierSimilarities": [
+                23.44,
+                38.65,
+                37.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ's mediatorial kingdom will continue until all enemies are subdued under his power. This divine appointment is based on Scripture's foretelling and the necessity for Christ to reign until this mission is accomplished. The word must emphasizes the fulfillment of Psalm 110:1. This reign is not the Father's, but Christ's own, as he conquers and subjugates all enemies, including those who resist his authority. Ultimately, Christ's reign will result in the destruction of death and the complete obedience of his chosen ones.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9944414332266402,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.66,
+            "commentatorTierSimilarities": [
+                23.19,
+                38.48,
+                38.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ's mediatorial kingdom will continue until all enemies are subdued under his power. This is not the Father's reign, but Christ's own, as he goes forth conquering and to conquer. The necessity for his continued reign is emphasized by the word must and the fulfillment of Scripture. All enemies, including those who resist and oppose his authority, will be subjugated. Through his reign, Christ will bring about the destruction of death and the complete obedience of his chosen ones.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.041848424268599,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+            "commentatorTierSimilarities": [
+                22.6,
+                38.83,
+                38.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 15:14:30",
+    "verseRef": "1 Corinthians 16:14",
+    "bestBHT": {
+        "bht": "Let all that you do be done in love. This direction is repeated due to its great importance, for love should regulate all actions. Love is the bond of perfectness, encircling and beautifying one's character. It is through love that obedience to Christ and observance of His commands should spring forth. Instead of looking to oneself without caring for others, church affairs and business at meetings should be transacted in peace, with mutual affection, concern for one another, and for the glory of God.",
+        "wordCount": 85,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.4669929104351493,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.12,
+        "commentatorTierSimilarities": [
+            0.0,
+            44.17,
+            55.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Let all your things ... - All that you do. This direction is repeated on account of its great importance.\" ",
+            "Here he says, that charity, or love, was to regulate all that they did.",
+            "This was a simple rule; and if this was observed, everything would be done well."
+        ],
+        "John Calvin": [
+            "Let all your things be done in love.",
+            "He wishes, then, that love shall be the directress.",
+            "The Corinthians erred chiefly in this respect \u2014 that every one looked to himself without caring for others."
+        ],
+        "Philip Schaff": [
+            "Let all that ye do be done in love.\" ",
+            "While the four preceding things express the sterner features of Christian duty, this pours suavity into them.",
+            "Love... being itself 'the bond of perfectness,' encircles and beautifies the whole character."
+        ],
+        "John Gill": [
+            "Let all your things be done with charity.",
+            "The whole of their obedience to Christ, their observation of, and subjection to all his ordinances and commands, should spring from, and be done in love to him.",
+            "All their church affairs, their business at church meetings, should be transacted, not with strife and vain glory, but in peace, and with mutual affection, with a concern for the good of each other, and of the whole body, and for the glory of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let all that you do be done in love. This direction is repeated on account of its great importance and serves as a simple but essential rule to regulate all actions. Love, being the bond of perfectness, encircles and beautifies the whole character. It is through love that all obedience to Christ and observance of his commands should spring from. Instead of looking to oneself without caring for others, all church affairs and business at meetings should be transacted in peace, with mutual affection and concern for the good of each other and for the glory of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.4526738497597402,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.84,
+                53.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let all that you do be done in love. This direction is repeated on account of its great importance and serves as a simple but essential rule to regulate all actions. Love, being the bond of perfectness, encircles and beautifies the whole character. It is through love that all obedience to Christ and observance of his commands should spring from. Instead of looking to oneself without caring for others, all church affairs and business at meetings should be transacted in peace, with mutual affection, and concern for each other and for the glory of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.446126986508478,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.43,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.77,
+                53.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let everything be done in love. This direction is repeated because of its great importance. Love should regulate all that we do. It is a simple yet crucial rule, for if observed, everything would be done well. Love pours suavity into the sterner features of Christian duty, encircling and beautifying the whole character. We should strive to have love as the directress, caring for others and transacting church affairs in peace, with mutual affection, and concern for each other's good and God's glory.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.4485279515023493,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.51,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.45,
+                47.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let everything be done in love. Love should regulate all our actions and be the directress of our lives. It is a simple but important rule that, when followed, leads to everything being done well. Love is the bond of perfectness, encircling and beautifying our character. By acting in love, we can avoid the error of selfishness and should transact church affairs in peace, with mutual affection, caring for one another and seeking the good of the whole body and the glory of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.4545275014493906,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.71,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.7,
+                53.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let all that you do be done in love. This direction is repeated due to its great importance, for love should regulate all actions. Love is the bond of perfectness, encircling and beautifying one's character. It is through love that obedience to Christ and observance of His commands should spring forth. Instead of looking to oneself without caring for others, church affairs and business at meetings should be transacted in peace, with mutual affection, concern for one another, and for the glory of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.4669929104351493,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.12,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.17,
+                55.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

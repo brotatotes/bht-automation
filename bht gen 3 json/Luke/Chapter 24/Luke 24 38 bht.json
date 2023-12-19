@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:24:14",
+    "verseRef": "Luke 24:38",
+    "bestBHT": {
+        "bht": "Why do you reason about a matter which your spiritual perception ought to discern at once? Why are you troubled? He reproves them for doubting this; for these prevented them from at once and unhesitatingly recognizing Him, identifying Him. The kindly rebuke was deserved. And wherefore do questionings, \u2018scruples of a discouraging nature, doubting and gainsaying thoughts,\u2019 arise in your heart! By these words they are exhorted to lay aside terror and regain the possession of their minds, that, having returned to the rigor of their senses, they may judge of a matter which is fully ascertained.",
+        "wordCount": 97,
+        "quoteTokenProportion": 42.03,
+        "qualityScore": 1.8631087094509984,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.29,
+        "commentatorTierSimilarities": [
+            31.52,
+            40.32,
+            28.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "38.] Not merely \u2018thoughts,\u2019 as A.V., but reasonings, questionings."
+        ],
+        "Albert Barnes": [
+            "Why are ye troubled? - Why are you alarmed or frightened?",
+            "And why do thoughts ... - The word 'thoughts' here means 'doubts' or suspicions.",
+            "He reproves them for doubting this; for..."
+        ],
+        "Marvin Vincent": [
+            "Why do you reason about a matter which your spiritual perception ought to discern at once."
+        ],
+        "John Calvin": [
+            "By these words they are exhorted to lay aside terror, and regain the possession of their minds, that, having returned to the rigor of their senses, they may judge of a matter which is fully ascertained.\" ",
+            "In order, therefore, that the disciples may obtain undoubted information, they are enjoined to weigh the matter with calmness and composure.",
+            "We must observe sobriety and moderation, lest the flesh exalt itself more highly than it ought, and throw out its thoughts far and wide against heaven."
+        ],
+        "Philip Schaff": [
+            "Why are ye troubled! The kindly rebuke was deserved.",
+            "And wherefore do questionings, \u2018scruples of a discouraging nature, doubting and gainsaying thoughts,\u2019 arise in your heart!",
+            "These prevented them from at once and unhesitatingly recognizing Him, identifying Him."
+        ],
+        "Archibald T. Robertson": [
+            "Why are ye troubled? (\u03c4 \u03c4\u03b5\u03c4\u03b1\u03c1\u03b1\u03b3\u03bc\u03b5\u03bd\u03bf \u03b5\u03c3\u03c4\u03b5;). Periphrastic perfect passive indicative of \u03c4\u03b1\u03c1\u03b1\u03c3\u03c3\u03c9, old verb, to agitate, to stir up, to get excited. "
+        ],
+        "John Gill": [
+            "Who had more reason to rejoice, and be glad, as they were when they knew that it was Jesus.",
+            "Whether what they saw was Jesus, or an apparition, which gave them a great deal of trouble and uneasiness, and filled them with fright and terror.",
+            "It was, and is usual with persons when they fancy they see a spirit, or an apparition."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Why do you reason about a matter which your spiritual perception ought to discern at once? Why are you troubled? He reproves them for doubting this; for these prevented them from at once and unhesitatingly recognizing Him, identifying Him. The kindly rebuke was deserved. And wherefore do questionings, \u2018scruples of a discouraging nature, doubting and gainsaying thoughts,\u2019 arise in your heart! By these words they are exhorted to lay aside terror and regain the possession of their minds, that, having returned to the rigor of their senses, they may judge of a matter which is fully ascertained.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.8631087094509984,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.29,
+            "commentatorTierSimilarities": [
+                31.52,
+                40.32,
+                28.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Why do you reason and doubt instead of discerning? Why are you troubled and fearful? These doubts prevented you from recognizing Him immediately. The rebuke is warranted. Set aside your fear and regain your composure to accurately assess the situation.",
+            "wordCount": 40,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.6910478223381793,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+            "commentatorTierSimilarities": [
+                30.85,
+                44.26,
+                24.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Why do you reason about a matter which your spiritual perception ought to discern at once? Why are you troubled? He reproves them for doubting this; for these prevented them from at once and unhesitatingly recognizing Him, identifying Him. The kindly rebuke was deserved. And wherefore do questionings, \u2018scruples of a discouraging nature, doubting and gainsaying thoughts,\u2019 arise in your heart? By these words they are exhorted to lay aside terror and regain the possession of their minds, that, having returned to the rigor of their senses, they may judge of a matter which is fully ascertained.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.8631087094509984,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.29,
+            "commentatorTierSimilarities": [
+                31.52,
+                40.32,
+                28.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why do you reason and doubt instead of discerning? Why are you troubled and fearful? These doubts prevented you from recognizing Him immediately. The reproof is deserved. Set aside your fear and regain your composure to accurately assess the situation. Lay aside terror and regain your minds to judge the fully ascertained matter.",
+            "wordCount": 53,
+            "quoteTokenProportion": 32.5,
+            "qualityScore": 1.5982887311932452,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.49,
+            "commentatorTierSimilarities": [
+                28.61,
+                43.0,
+                28.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Why do you reason about a matter which your spiritual perception ought to discern at once? Why are you troubled? He reproves them for doubting this; for these prevented them from at once and unhesitatingly recognizing Him, identifying Him. The kindly rebuke was deserved. And wherefore do questionings, \u2018scruples of a discouraging nature, doubting and gainsaying thoughts,\u2019 arise in your heart? By these words they are exhorted to lay aside terror and regain the possession of their minds, that, having returned to the rigor of their senses, they may judge of a matter which is fully ascertained.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.8631087094509984,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.29,
+            "commentatorTierSimilarities": [
+                31.52,
+                40.32,
+                28.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

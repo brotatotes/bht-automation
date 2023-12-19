@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:32:23",
+    "verseRef": "Ephesians 3:20",
+    "bestBHT": {
+        "bht": "God, who is able to do beyond all things, is far more powerful than our prayers and thoughts combined. He works in us through the indwelling Spirit, and his power knows no bounds. Our highest aspirations are not beyond God's ability to bestow upon us. We can come to him in full confidence, knowing that he can and will do more than we can ask or even think. His blessings exceed all our wishes and desires. We may ask for much, but God is able to do exceedingly, abundantly above all that we can ask or think.",
+        "wordCount": 98,
+        "quoteTokenProportion": 52.38,
+        "qualityScore": 2.114638193164268,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+        "commentatorTierSimilarities": [
+            25.57,
+            33.86,
+            40.57
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "our thoughts reach wider than our prayers: there is a climax in the words.\" Bengel",
+            "who is able to do beyond all things, far beyond the things which we ask or think",
+            "according to the power which is working (viz. the might of the indwelling Spirit; see Rom. viii. 26) in us"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "unto him\u2014contrasted with ourselves and our needs.\" ",
+            "that is able above all things (what is above all things) to do exceeding abundantly above what we ask or (even) think\": thought takes a wider range than prayers. ",
+            "The word, above, occurs thrice as often in Paul's writings, as in all the rest of the New Testament, showing the warm exuberance of Paul's spirit."
+        ],
+        "Albert Barnes": [
+            "That is able to do - see the notes, Romans 16:25.",
+            "Exceeding abundantly - The compound word used here occurs only in this place, and in 1Th 3:10; 1 Thessalonians 5:13. It means, to an extent which we cannot express.",
+            "According to the power that worketh in us - The exertion of that same power can accomplish for us more than we can now conceive."
+        ],
+        "Marvin Vincent": [
+            "Exceeding abundantly. Superabundantly.",
+            "Above all. They form with do an independent clause.",
+            "Unto Him who is able to do beyond all, exceedingly above that which."
+        ],
+        "John Calvin": [
+            "We cannot offer to God proper or sincere thanksgivings for favors received, unless we are convinced that his goodness to us will be without end.",
+            "Whatever God can do, he unquestionably will do, if he has promised it.",
+            "Whatever expectations we form of Divine blessings, the infinite goodness of God will exceed all our wishes and all our thoughts."
+        ],
+        "Philip Schaff": [
+            "God can do more than all things that can hinder.",
+            "Having exhausted all the forms of prayer, he casts himself on the infinitude of God, in full confidence that He can and will do all that omnipotence itself can effect. His powers, not our prayers nor our highest conceptions, is the measure of the Apostle\u2019s anticipations and desires.",
+            "Only an Almighty Father could bestow the continued indwelling of the Spirit, and in this we have the pledge that He will do beyond all our petitions and desires."
+        ],
+        "Archibald T. Robertson": [
+            "Above all, beyond and above all.",
+            "Exceedingly abundantly, piling Pelion on Ossa.",
+            "The highest aspiration is not beyond God's power to bestow."
+        ],
+        "John Gill": [
+            "He can do more than men ask for, as he did for Solomon: God knows what we want before we ask, and he has made provisions for his people before they ask for them.",
+            "Without the Spirit of God we know not what to ask for, nor how to ask aright; this affords great encouragement to go to God, and ask such things of him as we want, and he has provided.",
+            "According to the power that worketh in us: either in believers in common, meaning the Spirit of God, who is the finger and power of God, who begins, and carries on, and will finish the work of grace in them."
+        ],
+        "John Wesley": [
+            "Now to him \u2014 This doxology is admirably adapted to strengthen our faith, that we may not stagger at the great things the apostle has been praying for, as if they were too much for God to give, or for us to expect from him.",
+            "That is able \u2014 Here is a most beautiful gradation. When he has given us exceeding, yea, abundant blessings, still we may ask for more. And he is able to do it. But we may think of more than we have asked. He is able to do this also. Yea, and above all this.",
+            "Above all we ask \u2014 Above all we can think. Nay, exceedingly, abundantly above all that we can either ask or think."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, who is able to do beyond all things, is far more powerful than our prayers and thoughts combined. He works in us through the indwelling Spirit, and his power knows no bounds. Our highest aspirations are not beyond God's ability to bestow upon us. We can come to him in full confidence, knowing that he can and will do more than we can ask or even think. His blessings exceed all our wishes and desires. We may ask for much, but God is able to do exceedingly, abundantly above all that we can ask or think.",
+            "wordCount": 98,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 2.114638193164268,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+            "commentatorTierSimilarities": [
+                25.57,
+                33.86,
+                40.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's power is limitless and extends beyond our prayers and thoughts. Through the indwelling Spirit, He is able to do more than we can ask or even think. Our highest aspirations and desires are not beyond His ability to fulfill. We can approach Him with confidence, knowing that His blessings far surpass our expectations. He is able to do exceedingly, abundantly above all that we can ask or think. We can trust in His infinite goodness and provision for our lives.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.0162993335795543,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.38,
+            "commentatorTierSimilarities": [
+                26.22,
+                32.9,
+                40.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's power goes beyond our prayers and thoughts, and He is able to do more than we can imagine. Through the indwelling Spirit, His work in us is limitless. We can have confidence in His ability to exceed our requests and desires. His blessings outstrip our wildest expectations. We can approach Him knowing that He will do exceedingly, abundantly beyond all we can ask or think. His goodness and provisions are unending, and we can trust in His faithfulness to exceed our every need.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.8990167510585025,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                25.46,
+                32.82,
+                41.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's power far surpasses our prayers and thoughts; He can do more than we can comprehend. Through the indwelling Spirit, His work within us is immeasurable. We can approach Him confidently, knowing that His blessings go beyond what we ask or think. His goodness and provisions are limitless and exceed all our desires. We can trust in His faithfulness to go above and beyond all that we could ever imagine.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 1.9763863286504266,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+            "commentatorTierSimilarities": [
+                25.21,
+                33.71,
+                41.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God is able to do more than we can even ask or think. His power is at work in us, and He is capable of exceeding abundantly beyond what we could ever imagine. Our prayers and thoughts are limited, but God's power knows no bounds. Even when we have exhausted all forms of prayer, we can confidently trust in His infinite goodness and believe that He will go beyond all our petitions and desires. He knows our needs before we ask and has already made provisions for us. We can approach Him with boldness, knowing that He will surpass all our expectations and bestow blessings that are beyond measure.",
+            "wordCount": 110,
+            "quoteTokenProportion": 50.68,
+            "qualityScore": 2.1089270667195508,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.46,
+            "commentatorTierSimilarities": [
+                23.14,
+                34.61,
+                42.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

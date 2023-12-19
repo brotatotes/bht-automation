@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:35:03",
+    "verseRef": "Acts 21:39",
+    "bestBHT": {
+        "bht": "I am a Jew from Tarsus, a city of distinction and pride. Tarsus is not an undistinguished or mean city; it is a metropolis with the proud title of the independent capital city. Known for its learning and considered the most important center in the region, Tarsus holds various privileges. As a citizen of no mean city, I dare to speak to the mob, despite their howling for Paul's blood, because my heritage and the significance of Tarsus give me the confidence to do so.",
+        "wordCount": 86,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.8831020523163675,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+        "commentatorTierSimilarities": [
+            23.86,
+            45.92,
+            30.23
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "indeed] implying \u2018not the Egyptian, but.\u2019\" ",
+            "of no mean city] There was distinction in his being a citizen of a free city.",
+            "Many of the coins of Tarsus bear the epigraphs \u2018metropolis\u2019 and \u2018free.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "39. a citizen of no mean city\u2014(See",
+            "\ton Acts 21:1)."
+        ],
+        "Albert Barnes": [
+            "A Jew of Tarsus - A Jew by birth.",
+            "Of no mean city - Not obscure, or undistinguished.",
+            "Tarsus was much celebrated for its learning, and was at one time the rival of Alexandria and Athens."
+        ],
+        "Marvin Vincent": [
+            "Mean [\u03b1\u03c3\u03b7\u03bc\u03bf\u03c5] . Lit., without a mark or token [\u03c3\u03b7\u03bc\u03b1] . Hence used of uncoined gold or silver : of oracles which give no intelligible response : of inarticulate voices : of disease without distinctive symptoms.\" ",
+            "Generally, as here, undistinguished, mean.\" ",
+            "There is a conscious feeling of patriotism in Paul 's expression."
+        ],
+        "Philip Schaff": [
+            "I am a man which am a Jew of Tarsus, a city of Cilicia, a citizen of no mean city.\" ",
+            "Tarsus as a city stood high in public estimation. It was not only famous as a university and seat of learning, but was the most important centre in that part of the Empire, and possessed many privileges.",
+            "It bore on its coins the proud title of METROPOLIS AUTONOMOS, \u2018the independent capital city.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "I am a Jew by race, of Tarsus in Cilicia by country, belonging to Tarsus, and proud of it, one of the great cities of the empire with a great university.\" ",
+            "A citizen of no mean city. Litotes again, \"no mean.\" This same litotes used by Euripides of Athens.\" ",
+            "Give me leave. It was a strange request and a daring one, to wish to speak to this mob howling for Paul's blood."
+        ],
+        "John Gill": [
+            "But Paul said, I am a man which am a Jew of Tarsus....and is by some thought to be the same with the Tarshish of the Old Testament: a citizen of no mean city.",
+            "Through this city, as the same historian, in agreement with Pliny and others, observes, ran the river Cydnus; and it being summer time when Alexander was here, and very hot weather, and being covered with dust and sweat, he put off his clothes, and cast himself into the river to wash himself; but as soon as he was in, he was seized with such a numbness of his nerves, that had he not been immediately taken out by his soldiers, and for the extraordinary care of his physician, he had at once expired.",
+            "Josephus calls this city the most famous of the cities in Gallicia; and derives it, and the whole country, from Tarshish, the grandson of Japheth...Though some say it was built by Perseus, the son of Jupiter and Danae, and called Tharsus, of the hyacinth stone, which is said to be found about it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am a man who is both a Jew by birth and a citizen of Tarsus, a city of great distinction and pride. Tarsus is not an undistinguished city, but a metropolis with its own coin inscription of metropolis and free. It was known for its learning, rivaling famous cities like Alexandria and Athens. Tarsus was celebrated for its university and status as the most important center in the region, bearing the proud title of the independent capital city. Therefore, when I say that I am a citizen of no mean city, I mean that Tarsus is a city of significance and privilege. I dare to speak to this mob, howling for Paul's blood, because I am proud of my identity as a Jew from Tarsus, a city of distinction.",
+            "wordCount": 131,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.9968250096847773,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+            "commentatorTierSimilarities": [
+                23.84,
+                44.73,
+                31.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I am a Jew from Tarsus, a city of distinction and pride. Tarsus is a metropolis, renowned for its learning and considered to be the most important center in the region. It holds the title of the independent capital city and is not an undistinguished or mean city. As a citizen of Tarsus, I take pride in my heritage and dare to speak to the mob, even though they are howling for Paul's blood. Tarsus's significance gives me the confidence to address them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.6767139561495403,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.09,
+            "commentatorTierSimilarities": [
+                25.59,
+                45.8,
+                28.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As a Jew from Tarsus, a city of distinction, I take pride in my heritage. Tarsus is not an undistinguished or mean city; it is a metropolis known for its learning and considered to be the most important center in the region. Tarsus holds the title of the independent capital city and enjoys various privileges. Being a citizen of Tarsus gives me the confidence to stand before this mob, even though they howl for Paul's blood.",
+            "wordCount": 77,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.8056848736706197,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                23.95,
+                46.11,
+                29.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I am a Jew from Tarsus, a city of distinction and pride. Tarsus is not an undistinguished or mean city; it is a metropolis known for its learning and considered to be the most important center in the region. Tarsus holds the title of the independent capital city and enjoys various privileges. Being a citizen of no mean city gives me the confidence to address the mob, even though they are howling for Paul's blood.",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.8558768505634486,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                24.66,
+                45.68,
+                29.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I am a Jew from Tarsus, a city of distinction and pride. Tarsus is not an undistinguished or mean city; it is a metropolis with the proud title of the independent capital city. Known for its learning and considered the most important center in the region, Tarsus holds various privileges. As a citizen of no mean city, I dare to speak to the mob, despite their howling for Paul's blood, because my heritage and the significance of Tarsus give me the confidence to do so.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.8831020523163675,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                23.86,
+                45.92,
+                30.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

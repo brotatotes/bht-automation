@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:27:15",
+    "verseRef": "Acts 6:15",
+    "bestBHT": {
+        "bht": "Stephen's face, illuminated with divine radiance, resembled that of an angel. This supernatural brightness not only symbolized God's presence but also showcased Stephen's unwavering faith and inner peace. Even his enemies couldn't deny the beauty of his countenance, while the absence of Peter and John during this critical moment wouldn't have altered the outcome. Stephen's serene appearance served as a powerful testament to his innocence and sincerity, reminiscent of Moses after encountering God on Mount Sinai\u2014a true witness for Christ.",
+        "wordCount": 87,
+        "quoteTokenProportion": 31.88,
+        "qualityScore": 1.8401226632957806,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+        "commentatorTierSimilarities": [
+            26.41,
+            38.42,
+            35.17
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But both from the plain language of our text, well understood among the Jews to signify supernatural brightness, and from the fact that in St. Luke\u2019s own narrative we have supernatural brightness associated with angelic appearances more than once (see Luke ii. 9; ch. xii. 7), I should be inclined to think that the face of the martyr was lighted up with a divine radiance.",
+            "That the effect on those present was not such as to prevent the examination proceeding, is no argument against this view: in the very mildness of the question of the High Priest which follows, I see the trace of some unusual incident exercising an influence over him.",
+            "\u201cGod seems to me to have made him beautiful to look at, perhaps to prepare the way for his speech, and that he might immediately strike them with his look. For there is, yea there is, in faces full of spiritual grace that which is lovely to those that love them, and strikes awe and fear into those that hate them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15. as . . . the face of an angel\u2014a",
+            "\tplay of supernatural radiance attesting to all who beheld his",
+            "\tcountenance the divine calm of the spirit within."
+        ],
+        "Albert Barnes": [
+            "They were probably attracted by the unusual appearance of the man, his meekness, his calm and collected fearlessness, and the proofs of conscious innocence and sincerity.",
+            "The expression is used to denote the impression produced on the countenance by communion with God; the calm serenity and composure which follow a confident committing of all into his hands.",
+            "If Christianity was an imposture, it had enemies acute and malignant enough to detect the imposition. Yet it lived; it gained new accessions of strength from every new form of opposition; it evinced its genuineness more and more by showing that it was superior to the arts and malice of earth and of hell."
+        ],
+        "John Calvin": [
+            "He saith that Stephen appeared like to an angel; this is not spoken of his natural face, but rather of his present countenance.",
+            "Luke teacheth that there was no such thing in Stephen, but that there appeared rather in him a certain majesty.",
+            "For the Scripture useth sometimes to borrow a similitude of angels in this sense."
+        ],
+        "Philip Schaff": [
+            "And the whole of that great council turned their earnest and excited gaze from the accusers to the accused, to see how the follower of the Crucified would look, charged with so grave a charge, now brought face to face with the rulers of his people.",
+            "No troubled anxious gaze met theirs; for over the features of the servant of Jesus had passed a radiance not belonging to this world, a light at once beautiful and terrible.",
+            "The countenance of Stephen, like that of Moses on his descent from the Mount, shone probably with a preternatural luster proclaiming him a true witness, a servant of Him whose glory was so fitly symbolized by such a token."
+        ],
+        "Archibald T. Robertson": [
+            "Even his enemies saw that, wicked as they were.",
+            "Where were Peter and John at this crisis?",
+            "There was little that Peter and John could have done if they had been present."
+        ],
+        "John Gill": [
+            "There was such a calmness and serenity in it, which showed his innocence and unconsciousness of guilt.",
+            "He looked as lovely and amiable as the angels of God.",
+            "His face might shine as Moses's did, when he came down from the mount; or in some degree as Christ's did at his transfiguration."
+        ],
+        "John Wesley": [
+            "As the face of an angel \u2014 Covered with supernatural lustre.",
+            "They reckoned his preaching of Jesus to be the Christ was destroying Moses and the law.",
+            "God bears witness to him, with the same glory as he did to Moses, when he gave the law by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Stephen's face was illuminated with a divine radiance, resembling the face of an angel. This supernatural brightness signified the presence of God and showcased Stephen's inner peace and unwavering faith. The members of the council, including his enemies, were struck by this extraordinary sight. Peter and John were not present during this crucial moment, yet there was little they could have done. The countenance of Stephen reflected his innocence and sincerity, serving as a powerful testament to the truth of his message. His appearance, akin to Moses after his encounter with God on Mount Sinai, validated his role as a faithful witness for Christ.",
+            "wordCount": 106,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.6648500851948551,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.7,
+            "commentatorTierSimilarities": [
+                27.53,
+                36.27,
+                36.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stephen's face shone with a divine radiance, resembling that of an angel. This supernatural brightness demonstrated God's presence and Stephen's inner peace. Even his enemies recognized the beauty in his countenance. Though Peter and John weren't present, their absence wouldn't have changed the outcome. Stephen's appearance reflected his innocence and sincerity, authenticating his message. His glowing face, like Moses after encountering God on Mount Sinai, served as a powerful testament to his faithfulness as a witness for Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.6746672506356592,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.02,
+            "commentatorTierSimilarities": [
+                27.76,
+                34.5,
+                37.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen's face, illuminated with divine radiance, resembled that of an angel. This supernatural brightness not only symbolized God's presence but also showcased Stephen's unwavering faith and inner peace. Even his enemies couldn't deny the beauty of his countenance, while the absence of Peter and John during this critical moment wouldn't have altered the outcome. Stephen's serene appearance served as a powerful testament to his innocence and sincerity, reminiscent of Moses after encountering God on Mount Sinai\u2014a true witness for Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.8401226632957806,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                26.41,
+                38.42,
+                35.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephen's face beamed with divine radiance, like that of an angel. This supernatural brightness was a clear indication of God's presence and reflected Stephen's unwavering faith and inner peace. Even his enemies couldn't deny the striking beauty in his countenance. Although Peter and John were absent during this critical moment, their presence wouldn't have made a significant difference. Stephen's serene appearance served as a powerful testament to his innocence and unwavering commitment to the truth, similar to Moses after encountering God on Mount Sinai.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.7293028245074002,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.84,
+            "commentatorTierSimilarities": [
+                27.48,
+                36.74,
+                35.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stephen's face was aglow with supernatural radiance, resembling that of an angel. This divine brightness, well-known among the Jews, testified to the presence of God and revealed Stephen's extraordinary spiritual grace. Even his enemies couldn't deny the remarkable beauty emanating from his countenance. Peter and John's absence during Stephen's examination was inconsequential, as there was little they could have done to alter the outcome. Stephen's luminous appearance bore witness to his innocence and served as a remarkable display of his unwavering commitment to his faith, much like Moses after his encounter with God on Mount Sinai.",
+            "wordCount": 103,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7161769923895367,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+            "commentatorTierSimilarities": [
+                28.0,
+                36.34,
+                35.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

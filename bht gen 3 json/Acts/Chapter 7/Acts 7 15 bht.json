@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 16:27:09",
+    "verseRef": "Acts 7:15",
+    "bestBHT": {
+        "bht": "Stephen cites the patriarchs' envy as the reason behind Joseph's sale as a slave into Egypt, emphasizing that even in the face of opposition, God remained with him. Stephen highlights this incident as an example of Israel's resistance to God's purposes. It is notable that while Jacob and Joseph's deaths are recorded, there is no mention of the other brothers or the entire generation.",
+        "wordCount": 68,
+        "quoteTokenProportion": 44.23,
+        "qualityScore": 1.9209221419367368,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+        "commentatorTierSimilarities": [
+            58.76,
+            0.0,
+            41.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the patriarchs, moved with envy, sold Joseph into Egypt, but God was with him",
+            "Stephen gives his first example of Israel's opposition to God's purposes, in spite of which and by means of which those purposes were accomplished."
+        ],
+        "John Gill": [
+            "Both Jacob and his twelve sons died in Egypt.",
+            "We have no account of the death of any of them, but Jacob and Joseph.",
+            "Joseph died, and all his brethren, and all that generation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 7:15, the verse refers to the patriarchs' envy towards Joseph, which led to him being sold into Egypt. However, despite this opposition, God was still with him. This is just one example that Stephen gives to illustrate Israel's resistance to God's purposes, yet how those purposes were ultimately fulfilled through these very obstacles. It is worth noting that while Jacob and his twelve sons died in Egypt, only Jacob and Joseph's deaths are mentioned in the Bible, with the statement that Joseph's brothers and the entire generation also passed away.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.8910259932411855,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                60.79,
+                0.0,
+                39.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stephen cites the patriarchs' envy as the reason behind Joseph's sale as a slave into Egypt, emphasizing that even in the face of opposition, God remained with him. Stephen highlights this incident as an example of Israel's resistance to God's purposes. It is notable that while Jacob and Joseph's deaths are recorded, there is no mention of the other brothers or the entire generation.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.9209221419367368,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                58.76,
+                0.0,
+                41.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen's example in Acts 7:15 highlights how the patriarchs' envy resulted in Joseph being sold into Egypt, yet God never abandoned him. This incident exemplifies Israel's opposition to God's plans, but ironically, these very hindrances ultimately led to the fulfillment of God's purposes. While the Bible only mentions the deaths of Jacob and Joseph, it is implied that the rest of Joseph's brothers and that entire generation also passed away.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0015385499808795,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.89,
+            "commentatorTierSimilarities": [
+                56.69,
+                0.0,
+                43.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Stephen's account, the envy of the patriarchs led to Joseph being sold into Egypt, but it is crucial to recognize that God remained faithfully by Joseph's side throughout it all. This early example demonstrates how Israel repeatedly opposed God's plans, yet paradoxically, through these very adversities, His purposes were ultimately accomplished. Although the Bible only explicitly mentions the deaths of Jacob and Joseph, it is reasonable to infer that the other brothers and that entire generation have followed suit in passing away.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.871330686406741,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+            "commentatorTierSimilarities": [
+                56.55,
+                0.0,
+                43.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 7:15, Stephen highlights the patriarchs' envy towards Joseph, resulting in his sale into Egypt, yet he emphasizes that God never abandoned him. This example underscores Israel's resistance to God's plans, but interestingly, these very obstacles ultimately served to fulfill His purposes. Although the Bible specifically records the deaths of Jacob and Joseph, it does not provide details about the other brothers or that entire generation, suggesting that they too have passed away.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.8582216490766876,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                58.31,
+                0.0,
+                41.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

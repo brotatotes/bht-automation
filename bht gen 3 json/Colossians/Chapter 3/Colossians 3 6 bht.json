@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:20:08",
+    "verseRef": "Colossians 3:6",
+    "bestBHT": {
+        "bht": "Covetousness, which amounts to idolatry, brings God's wrath. The all-encompassing sin negates God and arouses His especial anger. The present tense denotes the certainty of future events, such as the coming wrath of God. Witnessing His wrath upon the wicked is a deterrent to sinning and a reminder of God's displeasure and judgments already administered for sin. Therefore, it is crucial to mortify and abstain from covetousness and other sins, taking them seriously as they are not matters of indifference.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.9771729050421087,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+        "commentatorTierSimilarities": [
+            35.74,
+            25.27,
+            38.99
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Covetousness, which amounts to idolatry, the all-comprehending and crowning sin, which is a negation of God, and brings down His especial anger.",
+            "On account of covetousness, cometh the wrath of God.",
+            "Covetousness...brings down His especial anger."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. (See on :-.)"
+        ],
+        "Albert Barnes": [
+            "For which things\u2019 sake ... - See the notes at Ephesians 5:6, where the same expression occurs."
+        ],
+        "Marvin Vincent": [
+            "Wrath - cometh. Compare Romans 1:18. The present tense denotes the certainty of the future event, as Matthew 17:11; John 4:21. The best texts omit upon the children of disobedience."
+        ],
+        "John Calvin": [
+            "He warns the Colossians, then, either of the ordinary judgments of God, which are seen daily, or of the vengeance which he has once denounced upon the wicked, and which impends over them, but will not be manifested until the last day.",
+            "For God would rather that we should see his wrath upon the reprobate, than feel it in ourselves.",
+            "In short, whenever God threatens, he shews, as it were, indirectly the punishment, that, beholding it in the reprobate, we may be deterred from sinning."
+        ],
+        "Philip Schaff": [
+            "The wrath of God cometh, etc.",
+            "If omitted, the verse should read in English: 'cometh the wrath of God.'",
+            "The full manifestation will be at the day of judgment."
+        ],
+        "Archibald T. Robertson": [
+            "Paul does not regard these sins of the flesh as matters of indifference, far otherwise.",
+            "Cometh the wrath of God.",
+            "Many old MSS. do not have 'upon the sons of disobedience,' genuine words in Ephesians 5:6."
+        ],
+        "John Gill": [
+            "The wrath of God...cometh upon the children of disobedience.",
+            "There have been already instances of God's displeasure at sin, his indignation against it, and his judgments on account of it.",
+            "This is a reason why such who have life in Christ should mortify, repress, and abstain from the above sins."
+        ],
+        "John Wesley": [
+            "For which \u2014 Though the heathens lightly regarded them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Covetousness, which amounts to idolatry, is a sin that negates God and invokes His anger. Paul warns the Colossians of the consequences of covetousness, as the wrath of God comes upon those who engage in this sin. This wrath is certain and will be fully manifested on the day of judgment. It is better for us to witness God's wrath upon the wicked as a deterrent to sinning, rather than experiencing it ourselves. This serves as a reminder that God has already shown His displeasure and administered judgments for sin. Therefore, we must mortify and abstain from covetousness and other sins, as these are not matters of indifference but worthy of serious consideration.",
+            "wordCount": 114,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.9224392673289992,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                31.33,
+                26.58,
+                42.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Covetousness, which amounts to idolatry and brings God's especial anger, warns the Colossians of the consequences of this sin. The wrath of God comes upon those who engage in covetousness, as evidenced by the judgments He has already administered. It is important for us to witness His wrath upon the wicked as a deterrent to sinning. Therefore, we must mortify and abstain from covetousness and other sins, as these are not matters of indifference.",
+            "wordCount": 75,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.95939978066456,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                32.35,
+                24.59,
+                43.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Covetousness, which amounts to idolatry and brings down God's especial anger, warns against its consequences. The wrath of God comes upon those who engage in covetousness, as seen in His judgments already administered. Witnessing His wrath upon the wicked serves as a deterrence from sinning. Therefore, it is crucial to mortify and abstain from covetousness and other sins, recognizing that they hold significant weight and are not matters to take lightly.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.9169500925515548,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.08,
+            "commentatorTierSimilarities": [
+                31.81,
+                24.93,
+                43.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Covetousness, which amounts to idolatry, is the crowning sin that negates God and triggers His anger. Paul warns of the consequences, as the wrath of God comes upon those who covet. This wrath is certain and will be fully manifested on the day of judgment. Witnessing God's wrath upon the wicked serves as a deterrent to sinning, as He has already shown His displeasure and judgments for sin. Therefore, we must mortify and abstain from covetousness and other sins, for they are not matters of indifference but worthy of serious consideration.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.9688639377658204,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.81,
+            "commentatorTierSimilarities": [
+                32.0,
+                26.86,
+                41.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Covetousness, which amounts to idolatry, brings God's wrath. The all-encompassing sin negates God and arouses His especial anger. The present tense denotes the certainty of future events, such as the coming wrath of God. Witnessing His wrath upon the wicked is a deterrent to sinning and a reminder of God's displeasure and judgments already administered for sin. Therefore, it is crucial to mortify and abstain from covetousness and other sins, taking them seriously as they are not matters of indifference.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.9771729050421087,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+            "commentatorTierSimilarities": [
+                35.74,
+                25.27,
+                38.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

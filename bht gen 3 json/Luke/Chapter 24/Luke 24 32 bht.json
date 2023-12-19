@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:24:26",
+    "verseRef": "Luke 24:32",
+    "bestBHT": {
+        "bht": "Was there not something heart-kindling in His discourse by the way? His words were not just a conversation, but a discourse that stirred their hearts. Though they didn't recognize Him at first, this encounter brought encouragement and kindled a fire within their hearts. The opening of the Scriptures revealed the truth and power of the risen Christ, with a warmth and burning love that resonated within them. Reflecting on this experience, they realized the profound impact His words had on them.",
+        "wordCount": 83,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 1.8838778645330914,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+        "commentatorTierSimilarities": [
+            36.56,
+            31.13,
+            32.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "\u2018Was there not something heart-kindling in His discourse by the way, which would have led us to suppose that it was none but the Lord Himself?\u2019 not that they did suppose it,\u2014but the words are a sort of selfreproach for not having done so.\" ",
+            "he spoke to us, not merely, \u2018with us,\u2019 as A.V.: it was not so much a talking with them, as a discourse delivered to them.",
+            "It was not so much a talking with them, as a discourse delivered to them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We could not understand the glow of self-evidencing light, love, glory that ravished our hearts; but now we do.\" ",
+            "The only one of the Eleven to whom He appeared alone was he, it seems, who had so shamefully denied Him.",
+            "What encouragement to doubting, dark, true-hearted disciples!"
+        ],
+        "Albert Barnes": [
+            "All the followers of Jesus know how precious and tender are the communications of the Saviour, and how the heart glows with love as they think or hear of his life, and sufferings, and death.",
+            "This narrative shows us... It is proper there should be those whose office it is to explain the Scriptures.",
+            "Here was convincing evidence that Jesus was the Messiah... Everything about this narrative... shows that it was taken from real life; and if so, then the Christian religion is true, for here is evidence that Jesus rose from the dead."
+        ],
+        "Marvin Vincent": [
+            "Did not our heart burn - while he talked - opened.\" ",
+            "They are speaking of something which was in progress: 'was not our heart burning (finite verb and participle) while he was speaking, and was opening the scriptures?'",
+            "The A. V., as usual, pays no attention to the graphic imperfects here."
+        ],
+        "John Calvin": [
+            "Their recognition of Christ led the disciples to a lively perception of the secret and hidden grace of the Spirit.",
+            "...for a time they are not aware of the power of the Spirit, or, at least, that they do not perceive it distinctly, but only feel it by a secret movement.",
+            "...it is the proper fruit of heavenly doctrine, whoever may be the minister of it, to kindle the fire of the Spirit in the hearts of men, to purify and cleanse the affections of the flesh, or rather to burn them up, and to kindle a truly fervent love of God."
+        ],
+        "Philip Schaff": [
+            "Was not our heart burning within us? Extraordinary and tender emotion is meant; joy, hope, desire or affection, probably of all combined.",
+            "Such an effect ought to have made us recognize Him; but it did not.",
+            "It is a good sign for their inner growth that at this moment it is not the breaking of bread, but the opening of the Scripture which now stands before the eye of their memory."
+        ],
+        "Archibald T. Robertson": [
+            "Was not our heart burning?",
+            "Spake.",
+            "Opened."
+        ],
+        "John Gill": [
+            "Did not our hearts burn within us while he talked with us by the way, and while he opened to us the Scriptures?\" ",
+            "The Scriptures are as a sealed book to men, learned and unlearned; and none so fit to open them as the lion of the tribe of Judah.\" ",
+            "They found the word to be as burning fire within them; and they now knew somewhat what it was to be baptized with fire, which is Christ's peculiar office to administer."
+        ],
+        "John Wesley": [
+            "Did not our heart burn within us \u2014 Did not we feel an unusual warmth of love! Was not our heart burning, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Was there not something heart-kindling in His discourse by the way, which would have led us to suppose that it was none but the Lord Himself? It was not merely a conversation, but a discourse delivered to them that filled their hearts with love, hope, and joy. Despite not recognizing Him at first, this encounter with Jesus brought encouragement to the disciples and kindled a fire within their hearts. The opening of the Scriptures revealed to them the truth and power of the risen Christ, and as they reflected on this experience, they realized the profound impact His words had on them.",
+            "wordCount": 103,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 2.0636659086928146,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                33.29,
+                32.37,
+                34.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Was there not something heart-kindling in His discourse by the way? His words were not just a conversation, but a discourse that stirred their hearts. Though they didn't recognize Him at first, this encounter brought encouragement and kindled a fire within their hearts. The opening of the Scriptures revealed the truth and power of the risen Christ, with a warmth and burning love that resonated within them. Reflecting on this experience, they realized the profound impact His words had on them.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.8838778645330914,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                36.56,
+                31.13,
+                32.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Was there not something heart-kindling in His discourse by the way? Indeed, his words went beyond a mere conversation, forming a powerful discourse that stirred their hearts. Despite failing to recognize Him initially, this encounter brought encouragement to the disciples and ignited a fervent fire within them. The opening of the Scriptures unveiled the truth and potency of the risen Christ, evoking a burning love and warmth in their hearts. Reflecting on this experience, they realized the profound impact that His words had on them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8157859224955093,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                35.79,
+                30.86,
+                33.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Was there not something heart-kindling in His discourse by the way? The disciples pondered their encounter with Jesus, realizing that His words went beyond an ordinary conversation. His discourse delivered to them had a heartwarming effect, stirring up joy, hope, and affection within their souls. Despite their initial failure to recognize Him, this encounter served as an encouragement to the disciples, kindling a fire of love for God within their hearts. The opening of the Scriptures further illuminated the truth and power of the risen Christ, leaving a profound impact on their lives.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7963164875925388,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.07,
+            "commentatorTierSimilarities": [
+                33.27,
+                32.93,
+                33.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Was there not something heart-kindling in His discourse by the way? The disciples reflected on their encounter with Jesus, recognizing the profound impact of His words. His discourse went beyond simple conversation, speaking directly to their hearts and igniting a fire within. Although they initially failed to recognize Him, this experience brought encouragement and a burning love for God. The opening of the Scriptures revealed the truth and power of the risen Christ, leaving an indelible mark on their lives.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.8046009684123532,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.34,
+            "commentatorTierSimilarities": [
+                35.52,
+                31.59,
+                32.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:16:28",
+    "verseRef": "Luke 8:17",
+    "bestBHT": {
+        "bht": "Nothing will stay concealed or hidden without eventually being made known and manifest. Whether it is whispered in secret or kept hidden, it will eventually be proclaimed openly. There is no point in trying to keep things hidden for long, as the truth will always come to light. This serves as a reminder that everything will be revealed and known. It is a call to live with honesty and integrity, knowing that secrets cannot be hidden forever.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.2708784328004188,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.6,
+        "commentatorTierSimilarities": [
+            27.24,
+            0.0,
+            72.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17. For nothing, &amp;c.\u2014(See",
+            "\ton Luke 8:1)."
+        ],
+        "Marvin Vincent": [
+            "Nothing is secret - manifest. Correctly rendered in A. V., but not so the parallel passage, Mark 4:22, on which see note."
+        ],
+        "Archibald T. Robertson": [
+            "That shall not be known.\" ",
+            "Peculiar to Luke.\" ",
+            "See on Mark 4:22 for discussion of \u03ba\u03c1\u03c5\u03c0\u03c4\u03bf\u03bd and \u03b1\u03c0\u03bf\u03ba\u03c1\u03c5\u03c6\u03bf\u03bd."
+        ],
+        "John Gill": [
+            "For nothing is secret that shall not be made manifest.\" ",
+            "Neither any thing hid, that shall not be made known, and come abroad.\" ",
+            "What had been whispered to them, in the most secret and silent manner, was to come abroad not only in Judea, but in all the world, and to be published upon the house tops."
+        ],
+        "John Wesley": [
+            "For nothing is hid \u2014 Strive not to conceal it at all; for you can conceal nothing long. Matthew 10:26; Mark 4:22; Luke 12:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Nothing can remain hidden forever, for eventually everything that is concealed will be brought to light. The truth cannot be suppressed indefinitely, as even the most secret and whispered rumors will be proclaimed openly for all to hear. There is no point in trying to hide or keep something hidden, for it will inevitably be known and made manifest. This warning serves as a reminder that all will be revealed, and one should strive to live with integrity and honesty.",
+            "wordCount": 80,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.2706737664606922,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.59,
+            "commentatorTierSimilarities": [
+                27.24,
+                0.0,
+                72.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Nothing is secret that shall not be made manifest. Neither anything hid will remain unknown, for what has been whispered in secrecy will be proclaimed openly. The truth cannot be concealed indefinitely and will eventually come to light. It serves as a reminder that all things will be revealed, and nothing can remain hidden forever. Therefore, it is important to live with integrity and honesty, knowing that the truth will always prevail.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.3825085976955969,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.31,
+            "commentatorTierSimilarities": [
+                30.1,
+                0.0,
+                69.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Nothing will stay concealed or hidden without eventually being made known and manifest. Whether it is whispered in secret or kept hidden, it will eventually be proclaimed openly. There is no point in trying to keep things hidden for long, as the truth will always come to light. This serves as a reminder that everything will be revealed and known. It is a call to live with honesty and integrity, knowing that secrets cannot be hidden forever.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2708784328004188,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.6,
+            "commentatorTierSimilarities": [
+                27.24,
+                0.0,
+                72.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Nothing can remain hidden forever, for what is secret will eventually be made manifest. This truth is emphasized in Luke 8:17, as well as in parallel passages such as Mark 4:22. Even things that are whispered or hidden away will ultimately be brought into the light and made known to all. Therefore, there is no use in trying to conceal anything, for nothing can remain hidden indefinitely. It is a reminder to be truthful and transparent, knowing that God sees and knows all things, and His truth will ultimately prevail.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.3724000391719215,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.98,
+            "commentatorTierSimilarities": [
+                33.95,
+                0.0,
+                66.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Nothing can remain hidden forever, for what is secret will eventually be made manifest. This truth is emphasized in the verse, as well as in parallel passages. Even things that are whispered or hidden away will ultimately be brought into the light and made known to all. Therefore, there is no use in trying to conceal anything, for nothing can remain hidden indefinitely. It is a reminder to be truthful and transparent, knowing that God sees and knows all things, and His truth will ultimately prevail.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.2754365021963903,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.75,
+            "commentatorTierSimilarities": [
+                31.74,
+                0.0,
+                68.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

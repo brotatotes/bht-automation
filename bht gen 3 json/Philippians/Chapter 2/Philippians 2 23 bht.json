@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 13:53:01",
+    "verseRef": "Philippians 2:23",
+    "bestBHT": {
+        "bht": "So soon as I shall see how it will go with me, whether I will be condemned or acquitted, I hope to send Timothy to you. This plan hinges on the uncertainty of my situation, for I have arrived in Rome without charges being brought against me by the Jewish community. If I can send Timothy to you, it will indicate that my cause is going satisfactorily and that I do not require his presence as much.",
+        "wordCount": 77,
+        "quoteTokenProportion": 61.02,
+        "qualityScore": 1.6678267403172085,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+        "commentatorTierSimilarities": [
+            26.0,
+            39.73,
+            34.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "23. so soon as I shall see\u2014that",
+            "\tis, so soon as I shall have known for certain."
+        ],
+        "Albert Barnes": [
+            "So soon as I shall see how it will go with me.\" ",
+            "There was not a little uncertainty whether he would be condemned or acquitted.",
+            "He now felt that he would soon be able to send Timothy to them at any rate."
+        ],
+        "Marvin Vincent": [
+            "I shall see [\u03b1\u03c6\u03b9\u03b4\u03c9] . The compounded preposition ajpo gives the sense of looking away from the present condition of affairs to what is going to turn out."
+        ],
+        "John Calvin": [
+            "He adds this, too, lest they should imagine that anything had happened to change his intention as to the journey of which he had previously made mention.",
+            "At the same time, he always speaks conditionally \u2014 If it shall please the Lord.",
+            "This expectation was by no means settled, but was, as it were, suspended upon the secret purpose of God."
+        ],
+        "Philip Schaff": [
+            "The prospect appeared very immediate.",
+            "He had arrived at Rome before any charge against him had been forwarded to the Jewish community.",
+            "If he could let Timothy go to them, it would be because he did not need his presence so much, and that would indicate that his cause was going on satisfactorily."
+        ],
+        "Archibald T. Robertson": [
+            "So soon as I shall see (\u03c9\u03c2 \u03b1\u03bd \u03b1\u03c6\u03b9\u03b4\u03c9). Indefinite temporal clause with \u03c9\u03c2 \u03b1\u03bd and the second aorist active subjunctive of \u03b1\u03c6\u03bf\u03c1\u03b1\u03c9.\" ",
+            "How it will go with me (\u03c4\u03b1 \u03c0\u03b5\u03c1 \u03b5\u03bc\u03b5). On the force of \u03b1\u03c0\u03bf with \u03bf\u03c1\u03b1\u03c9 (look away) see Hebrews 12:2.",
+            "'The things concerning me,' the outcome of the trial. Cf. 1 Corinthians 4:17; 1 Corinthians 4:19."
+        ],
+        "John Gill": [
+            "Him therefore I hope to send presently...so soon as I shall see how it will go with me.\" ",
+            "Whether he should be released from his bonds or not...whether he should live or die; whether he should be set free, or be called to suffer martyrdom for the sake of Christ.",
+            "He expected, that the matter would be determined in a very short time, when, be it at it would, Timothy would be spared."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "So soon as I shall see how it will go with me, whether I will be condemned or acquitted, I hope to send Timothy to you. This plan hinges on the uncertainty of my situation, for I have arrived in Rome without charges being brought against me by the Jewish community. If I can send Timothy to you, it will indicate that my cause is going satisfactorily and that I do not require his presence as much. However, this hope is not without a condition, as I always speak conditionally, acknowledging that my journey is ultimately in the hands of the Lord.",
+            "wordCount": 102,
+            "quoteTokenProportion": 55.71,
+            "qualityScore": 1.6394578704585299,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.85,
+            "commentatorTierSimilarities": [
+                28.36,
+                34.23,
+                37.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "So soon as I shall see how it will go with me, whether I will be condemned or acquitted, I hope to send Timothy to you. This plan hinges on the uncertainty of my situation, for I have arrived in Rome without charges being brought against me by the Jewish community. If I can send Timothy to you, it will indicate that my cause is going satisfactorily and that I do not require his presence as much.",
+            "wordCount": 77,
+            "quoteTokenProportion": 61.02,
+            "qualityScore": 1.6678267403172085,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                26.0,
+                39.73,
+                34.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Soon as I shall see, so soon as I shall have known for certain how it will go with me, I hope to send Timothy to you. Paul expresses his desire to send Timothy to the Philippians, an indication that his cause is going on satisfactorily. However, there is still uncertainty over whether he will be condemned or acquitted, as this outcome is suspended upon the secret purpose of God. Nevertheless, Paul's hope is that this matter will be determined in a short time, and he can spare Timothy accordingly.",
+            "wordCount": 91,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.6647598175631406,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.7,
+            "commentatorTierSimilarities": [
+                22.4,
+                35.03,
+                42.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Soon as I shall see, so soon as I shall have known for certain how it will go with me, I hope to send Timothy to you. Paul desires to send Timothy to the Philippians as an indication that his cause is going on satisfactorily. However, there is still uncertainty over whether he will be condemned or acquitted, as this outcome is suspended upon the secret purpose of God. Nevertheless, Paul's hope is that this matter will be determined in a short time, and he can spare Timothy accordingly.",
+            "wordCount": 90,
+            "quoteTokenProportion": 55.38,
+            "qualityScore": 1.6742482752665704,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.01,
+            "commentatorTierSimilarities": [
+                22.77,
+                35.0,
+                42.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul states that he will send Timothy to the Philippians as soon as he knows for certain how things will go for him. This shows his desire to keep the Philippians updated on his situation. Although there is uncertainty regarding his outcome, as it is determined by God's secret purpose, Paul remains hopeful that a resolution will come soon, allowing him to send Timothy.",
+            "wordCount": 65,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.4883963812965015,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.83,
+            "commentatorTierSimilarities": [
+                20.65,
+                34.3,
+                45.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

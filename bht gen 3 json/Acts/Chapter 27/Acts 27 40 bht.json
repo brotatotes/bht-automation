@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:37:36",
+    "verseRef": "Acts 27:40",
+    "bestBHT": {
+        "bht": "In a display of quick thinking and foresight, the crew of the ship swiftly cut away the four anchors, released the ropes that held the rudders, and raised their 'art\u0115mon' sail to the wind. The crew's coordinated actions were vital for the safety of all on board, ensuring they were unencumbered and able to navigate efficiently. By removing the anchors, loosing the rudder bands, and hoisting up the sail, they made the necessary adjustments to steer the ship towards a safer course.",
+        "wordCount": 83,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 2.4150355728233213,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.64,
+        "commentatorTierSimilarities": [
+            25.59,
+            37.88,
+            36.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They cut away (or, cut round) all four anchors...This they did to save time, and not to encumber the water-logged ship with their additional weight.",
+            "They let loose the ropes which tied up the rudders.",
+            "They raised their 'art\u0115mon' to the wind."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "cut the anchors (away), they left them in the sea.",
+            "Ancient ships were steered by two large paddles, one on each quarter.",
+            "How necessary must the crew have been to execute all these movements, and how obvious the foresight which made their stay indispensable to the safety of all on board."
+        ],
+        "Albert Barnes": [
+            "Had taken up the anchors - The four anchors with which they had moored the ship... This is the most probable interpretation.\" (Acts 27:40)",
+            "And loosed the rudder bands... they had in this ship more than one rudder.\" (Acts 27:40)",
+            "The mainsail... The Syriac and Arabic understand it of a 'small sail,' that was hoisted for a temporary purpose.\" (Acts 27:40)"
+        ],
+        "Marvin Vincent": [
+            "Taken up [\u03c0\u03b5\u03c1\u03b9\u03b5\u03bb\u03bf\u03bd\u03c4\u03b5\u03c2]. Wrong. The word means to remove...",
+            "Committed themselves [\u03b5\u03b9\u03c9\u03bd]. Wrong. The reference is to the anchors.",
+            "The bands were now loosened, in order that the ship might be driven forward."
+        ],
+        "Philip Schaff": [
+            "They committed them (i.e. the anchors) to the sea...these anchors were of no further use, for it was known that the ship would be destroyed.",
+            "The rudders were now absolutely necessary in order to steer the ship precisely...the anchors themselves could now be of no further use, the destruction of the ship being inevitable.",
+            "The sail which would have been the most useful for the purpose in hand would have been the foresail; and it is probable that this sail is meant...toward that particular beach (\u03c4\u03bf \u0300 \u03bd \u03b1\u03b9 \u0313 \u03b3\u03b9\u03b1\u03bb\u03bf \u0301 \u03bd) which had been observed."
+        ],
+        "Archibald T. Robertson": [
+            "Having taken away from around, that is all four anchors from around the stern.",
+            "They let the anchors go and the ropes fell down into the sea.",
+            "Hoisting up the foresail to the wind. It is not clear what 'sail' is meant by '\u03b1\u03c1\u03c4\u03b5\u03bc\u03c9\u03bd\u03b1.' No other example in Greek is known, though the scholiast to Juvenal XII. 68 explains \u03c2\u03b5\u03bb\u03bf \u03c0\u03c1\u03bf\u03c1\u03b1 \u03c3\u03c5\u03bf by artemone solo. Hence 'foresail' is probably correct."
+        ],
+        "John Gill": [
+            "And when they had taken up the anchors,.... The four anchors they cast out of the stern... they committed themselves unto the sea... and loosed the rudder bands...\" ",
+            "The rudder, in navigation, is a piece of timber turning on hinges in the stern of a ship... turns or directs the vessel this way or that... The aftmost part of the rudder is called the 'rake' of the rudder.",
+            "And hoised up the main sail to the wind... The main sail is that which is upon the main mast... And made toward the shore."
+        ],
+        "John Wesley": [
+            "Loosing the rudder bands... were now loosened, when they had need of them to steer her into the creek.",
+            "Their ships had frequently two rudders, one on each side.",
+            "They let the ship drive... when they had need of them to steer her into the creek."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The crew of the ship in this verse takes quick action to ensure their safety. They cut away all four anchors to save time and prevent the water-logged ship from being weighed down. They also let loose the ropes that tied up the rudders and raised their sails to the wind. The crew's coordinated movements and foresight were crucial for the safety of everyone on board. Once they had taken up the anchors, let loose the rudder bands, and hoisted up the sail, they committed themselves to the sea and made towards the shore. The crew understood that the anchors and rudders were now unnecessary and that their ship was bound for destruction. Therefore, they made the necessary adjustments to navigate towards safety.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 2.3436360218899135,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.27,
+            "commentatorTierSimilarities": [
+                28.82,
+                36.1,
+                35.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To ensure their safety, the ship's crew quickly cut away all four anchors, letting loose the ropes that tied up the rudders, and raised their 'art\u0115mon' to the wind. The crew's foresight and coordinated movements were essential for everyone's well-being. They understood that the anchors and rudders were unnecessary and that the ship was headed for destruction. In response, they made the necessary adjustments, committing themselves to the sea, and hoisting up the sail to steer towards safety.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.37231818709412,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.22,
+            "commentatorTierSimilarities": [
+                28.55,
+                37.06,
+                34.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To make the ship more maneuverable and save time, the crew cut away all four anchors, letting the ropes that tied up the rudders go. They then raised their 'art\u0115mon' to catch the wind. The crew's foresight was evident in these actions, as they recognized the necessity of executing these movements for the safety of everyone on board. By taking up the anchors, loosing the rudder bands, and hoisting up the foresail, they committed themselves to the sea and navigated towards their desired destination.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.2207773477963566,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+            "commentatorTierSimilarities": [
+                30.18,
+                34.41,
+                35.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a display of quick thinking and foresight, the crew of the ship swiftly cut away the four anchors, released the ropes that held the rudders, and raised their 'art\u0115mon' sail to the wind. The crew's coordinated actions were vital for the safety of all on board, ensuring they were unencumbered and able to navigate efficiently. By removing the anchors, loosing the rudder bands, and hoisting up the sail, they made the necessary adjustments to steer the ship towards a safer course.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.4150355728233213,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.64,
+            "commentatorTierSimilarities": [
+                25.59,
+                37.88,
+                36.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To ensure the safety of everyone on board, the crew of the ship took prompt action. They efficiently cut away the anchors, released the ropes that secured the rudders, and raised their 'art\u0115mon' sail to the wind. Their foresight and coordinated efforts were essential in safeguarding the ship. By removing the anchors, loosening the rudder bands, and hoisting the sail, they adapted to the situation and committed themselves to navigating towards safety.",
+            "wordCount": 72,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 2.318538400008006,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.43,
+            "commentatorTierSimilarities": [
+                27.46,
+                36.31,
+                36.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

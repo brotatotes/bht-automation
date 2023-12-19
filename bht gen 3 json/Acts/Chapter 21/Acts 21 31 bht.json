@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:35:01",
+    "verseRef": "Acts 21:31",
+    "bestBHT": {
+        "bht": "Amidst a mob that sought to beat and kill him, the apostle Paul found himself in a precarious situation. The chief captain of the band, Claudius Lysias, swiftly ascended to the fortress of Antonia, located northwest of the temple, after receiving tidings of the disturbance. This Roman officer, in charge of a thousand men, was responsible for maintaining order during festivals. While Satan incited the enemies of godliness, God's providence was evident in the sudden intervention of the chief captain, thus sparing Paul from certain death.",
+        "wordCount": 87,
+        "quoteTokenProportion": 26.56,
+        "qualityScore": 1.6090282873983452,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.84,
+        "commentatorTierSimilarities": [
+            33.11,
+            20.16,
+            46.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "seeking to kill him] By beating him\" ",
+            "the chief captain of the band] Claudius Lysias (ch. xxiii. 26), the tribune of the cohort (whose proper complement was 1000 men)",
+            "went (were carried) up; up, either because of his high station, as commanding officer, or because he was locally stationed in the tower Antonia, overlooking (from the N.W.) the temple, where the riot was."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "31. tidings came\u2014literally,",
+            "\t\"went up,\" that is, to the fortress of Antonia, where the",
+            "\tcommandant resided. See on :-. This part of the narrative is particularly graphic."
+        ],
+        "Albert Barnes": [
+            "They could not pretend that they had a right to do it by law.",
+            "He was told of it.",
+            "That the whole city was in commotion."
+        ],
+        "Marvin Vincent": [
+            "Chief captain [\u03c7\u03b9\u03bb\u03b9\u03b1\u03c1\u03c7\u03c9]. A commander of a thousand men.",
+            "Band [\u03c3\u03c0\u03b5\u03b9\u03c1\u03b7\u03c2]. Or cohort.",
+            "These troops were quartered in the tower of Antonia, which was at the northwestern corner of the temple - area, and communicated with the temple - cloisters by staircases."
+        ],
+        "John Calvin": [
+            "We must thus think with ourselves that Satan doth prick forward the enemies of godliness, lest their rage, how cruel and troublesome soever it be, trouble us.",
+            "On the other side appeareth the wonderful goodness of God, when as he raiseth up the chief captain at a sudden, that he may deliver Paul from death.",
+            "Thus doth he suffer the faithful not only to labor, but to be almost oppressed, that he may deliver them from death more wonderfully."
+        ],
+        "Philip Schaff": [
+            "Preparations apparently were actually going on to execute summary justice on the apostle.",
+            "Philo tells us that any uncircumcised person who ventured within the separating wall might be stoned to death without any further trial.",
+            "This fortress stood at the north-west corner of the temple area, and it communicated with the temple cloisters by means of two flights of steps."
+        ],
+        "Archibald T. Robertson": [
+            "This was their real purpose.",
+            "Tidings. From \u03c6\u03b1\u03b9\u03bd\u03c9, to show. Old word for the work of informers and then the exposure of secret crime.",
+            "The Roman guard during festivals was kept stationed in the Tower of Antonia at the northwest corner of the temple overlooking the temple and connected by stairs."
+        ],
+        "John Gill": [
+            "In the manner as zealots did, without bringing him before any court of judicature, without any charge, trial, and condemnation.",
+            "To him, the report of the disturbance was brought; or as it is in the Greek text, the 'fame ascended' to him.",
+            "It became him, as a Roman officer, to take care to quell it, lest it should issue in sedition and rebellion."
+        ],
+        "John Wesley": [
+            "It was a rule among the Jews, that any uncircumcised person who came into the inner temple, might be stoned without farther process.",
+            "And they seemed to think Paul, who brought such in thither, deserved no better treatment.",
+            "A cohort or detachment of soldiers...were stationed on feast days near the temple, to prevent disorders."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the apostle Paul faced a riotous mob seeking to kill him, the chief captain of the band, Claudius Lysias, went up to the fortress of Antonia in order to address the commotion. This Roman commander, responsible for a thousand men, was stationed in the tower overlooking the temple. The chief captain received tidings of the disturbance, and it was his duty to intervene and prevent any potential sedition. The troops stationed in the tower were there to maintain order during festivals, ensuring that peace and safety were upheld. In this tense moment, we see the juxtaposition of Satan's influence provoking the enemies of godliness, yet God's goodness intervening suddenly to save Paul from imminent danger.",
+            "wordCount": 118,
+            "quoteTokenProportion": 28.4,
+            "qualityScore": 1.5782832374417883,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.82,
+            "commentatorTierSimilarities": [
+                33.58,
+                23.44,
+                42.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amidst a mob that sought to beat and kill him, the apostle Paul found himself in a precarious situation. The chief captain of the band, Claudius Lysias, swiftly ascended to the fortress of Antonia, located northwest of the temple, after receiving tidings of the disturbance. This Roman officer, in charge of a thousand men, was responsible for maintaining order during festivals. While Satan incited the enemies of godliness, God's providence was evident in the sudden intervention of the chief captain, thus sparing Paul from certain death.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.6090282873983452,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.84,
+            "commentatorTierSimilarities": [
+                33.11,
+                20.16,
+                46.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst a riotous mob seeking to beat and kill him, the apostle Paul found himself in grave danger. The chief captain of the band, Claudius Lysias, swiftly ascended to the fortress of Antonia upon receiving tidings of the commotion. His role as commander of a thousand men necessitated his intervention to quell the disturbance and prevent potential sedition. The troops stationed in the tower overlooking the temple were there to maintain order during festivals, showcasing the careful organization and strategic placement of the Roman guard. Through this chaotic situation, it was evident that while Satan incited hostility, God's providence intervened to protect Paul's life.",
+            "wordCount": 106,
+            "quoteTokenProportion": 24.69,
+            "qualityScore": 1.5326023781508857,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+            "commentatorTierSimilarities": [
+                32.51,
+                21.6,
+                45.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst a hostile crowd seeking to beat and kill him, the apostle Paul faced imminent danger. Prompted by the commotion, the chief captain of the band, Claudius Lysias, quickly responded to the situation. As the commander of a thousand soldiers stationed in the tower of Antonia, overlooking the temple, he had the responsibility to address the uprising and prevent further turmoil. In this moment, the clash between the enemies of godliness, incited by Satan, and the divine intervention to protect Paul's life became evident.",
+            "wordCount": 85,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.545599825735446,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.73,
+            "commentatorTierSimilarities": [
+                32.66,
+                19.74,
+                47.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of a hostile crowd seeking to harm him, the apostle Paul faced grave danger. Tidings of the commotion reached the chief captain of the band, Claudius Lysias, who swiftly ascended to the fortress of Antonia. As the commander of a thousand soldiers stationed there during festivals, it was his duty to maintain order and prevent any potential sedition. This encounter highlights the clash between the enemies of godliness, incited by Satan, and the timely intervention of God to safeguard Paul's life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.5141452126762198,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                30.08,
+                20.73,
+                49.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

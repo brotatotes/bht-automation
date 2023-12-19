@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:33:22",
+    "verseRef": "Acts 18:28",
+    "bestBHT": {
+        "bht": "Apollos vigorously argued down and confuted the Jews, continuously proving in their teeth that Jesus was the Christ. He mightily convinced the Jews, stoutly bearing them down in argument, showing by the Scriptures that Jesus was the Messiah. His strong and weighty arguments, along with his profound knowledge of the Old Testament, silenced the Jews and convincingly demonstrated Jesus' identity. Apollos' ministry was like another visitation from Paul himself, proclaiming the same victorious message.",
+        "wordCount": 74,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.215142582711823,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+        "commentatorTierSimilarities": [
+            21.36,
+            41.86,
+            36.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He argued down, as we say... proved in their teeth.",
+            "The sense of continuity\u2014this was not done once or twice, but continuously."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He mightily convinced the Jews\u2014The word is very strong: 'stoutly bore them down in argument,' 'vigorously argued them down,' and the tense in that he continued to do it, or that this was the characteristic of his ministry.",
+            "Showing by the scriptures that Jesus was Christ\u2014Rather, 'that the Christ (or Messiah) was Jesus.'",
+            "Thus his ministry would be as good as another visitation to the Achaian churches by the apostle himself."
+        ],
+        "Albert Barnes": [
+            "He did it by strong arguments; he bore down all opposition, and effectually silenced them.",
+            "In his public preaching in the synagogue and elsewhere.",
+            "Showing that Jesus of Nazareth corresponded with the account of the Messiah given by the prophets."
+        ],
+        "Marvin Vincent": [
+            "He confuted them thoroughly [\u03b4\u03b9\u03b1], against [\u03ba\u03b1\u03c4\u03b1] all their arguments.",
+            "Confute (Rev.) is better than convince.",
+            "The compound here is a very strong expression for thorough confutation."
+        ],
+        "John Calvin": [
+            "He overcame the Jews...because he had a strong and forcible proof to reprove and overcome the enemies withal.",
+            "The Scripture is profitable not only to teach, but also to break the obstinacy of those which do not obey and follow willingly.",
+            "Surely, if the law and the prophets had so great light, that Apollos did thereby prove manifestly that Jesus is Christ, as if he did point out the matter with his finger, the adding of the gospel must bring this to pass at least, that the perfect knowledge of Christ may be let [sought] from the whole Scripture."
+        ],
+        "Philip Schaff": [
+            "For he mightily convinced the Jews, and that publicly, showing by the Scriptures that Jesus was Christ.",
+            "His special training in the Alexandrian school of Philo, coupled with his great knowledge of the Old Testament Scriptures, eminently fitted the eloquent convert for the peculiar controversy which the Jewish frequenters of the synagogue delighted in.",
+            "Apollos, we read, was singularly successful in convincing the Jews of Corinth, the very men perhaps who dragged Paul to the judgment seat of Gallio, that Jesus was the Christ."
+        ],
+        "Archibald T. Robertson": [
+            "He had the last word.",
+            "In open meeting where all could see the victory of Apollos.",
+            "Apollos proclaims the same message that Paul did everywhere."
+        ],
+        "John Gill": [
+            "His reasoning was so strong and nervous, his arguments so weighty and powerful, and the passages he produced out of the Old Testament so full and pertinent, that the Jews were not able to stand against him...\" ",
+            "[Paul] was an overmatch for them; they were refuted by him over and over, and were confounded to the last degree...",
+            "[Paul] showed by the Scriptures; of the Old Testament, which the Jews received and acknowledged as the word of God, that Jesus was Christ; or that Christ, that Messiah, which these Scriptures spoke of..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Apollos vigorously argued down and confuted the Jews, continuously proving in their teeth that Jesus was the Christ. He had the last word, convincingly showing by the Scriptures that Jesus fulfilled the prophecies of the Messiah. Apollos' ministry was as effective as another visitation from the apostle Paul himself. His strong and weighty arguments, coupled with his deep knowledge of the Old Testament Scriptures, silenced the Jews and convinced them of Jesus' identity as the Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.2035580132121164,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.61,
+            "commentatorTierSimilarities": [
+                20.4,
+                41.47,
+                38.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Apollos vigorously argued down and confuted the Jews, continuously proving in their teeth that Jesus was the Christ. He mightily convinced the Jews, stoutly bearing them down in argument, showing by the Scriptures that Jesus was the Messiah. His strong and weighty arguments were like another visitation from Paul himself. With his profound knowledge of the Old Testament Scriptures, Apollos silenced the Jews and convinced them of Jesus' identity.",
+            "wordCount": 69,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 2.2041950463433477,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.63,
+            "commentatorTierSimilarities": [
+                20.04,
+                42.59,
+                37.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Apollos, with his continuous and vigorous arguments, proved in their teeth that Jesus was the Christ. He convincingly showed by the Scriptures that Jesus fulfilled the prophecies of the Messiah. Apollos' ability to confute and refute the Jews was commendable, as he had the last word in open meetings. His proclamation of the same message as Paul, along with his strong evidence from the Old Testament, made his ministry as impactful as another apostolic visitation.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.1909630947422767,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.19,
+            "commentatorTierSimilarities": [
+                22.86,
+                39.86,
+                37.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Apollos continuously argued down and confuted the Jews, stoutly bearing them down in the teeth with his strong and weighty arguments. He mightily convinced them, showing by the Scriptures that Jesus was the Christ. Apollos' ministry was like another visitation from Paul, and his open meetings displayed his victory in proclaiming the same message as the apostle. With his profound knowledge of the Old Testament, Apollos thoroughly confuted the Jews and had the last word in the matter.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.1443378004422597,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.64,
+            "commentatorTierSimilarities": [
+                23.03,
+                40.07,
+                36.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Apollos vigorously argued down and confuted the Jews, continuously proving in their teeth that Jesus was the Christ. He mightily convinced the Jews, stoutly bearing them down in argument, showing by the Scriptures that Jesus was the Messiah. His strong and weighty arguments, along with his profound knowledge of the Old Testament, silenced the Jews and convincingly demonstrated Jesus' identity. Apollos' ministry was like another visitation from Paul himself, proclaiming the same victorious message.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.215142582711823,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                21.36,
+                41.86,
+                36.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

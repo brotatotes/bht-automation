@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:16:27",
+    "verseRef": "Luke 8:11",
+    "bestBHT": {
+        "bht": "The parable in Luke 8:11 is about the seed, which is the word of God. Luke emphasizes the word of God more frequently than the other Gospels, reflecting the importance of this message. The phrase word of God signifies the word that comes from God himself. This seed, the word of God, refers to the Gospel that was preached by Christ, the apostles, and faithful ministers and encompasses the grace of God. It is a message of divine origin, carrying the hope of salvation and abundant life.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 2.1324345893017442,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+        "commentatorTierSimilarities": [
+            45.92,
+            0.0,
+            54.08
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The parable is this. According to its interpretation."
+        ],
+        "Archibald T. Robertson": [
+            "The seed is the word of God.",
+            "The phrase 'the word of God' does not appear in Matthew and only once in Mark and John, but four times in Luke and twelve times in Acts.",
+            "Luke has the subjective genitive here and means the word that comes from God."
+        ],
+        "John Gill": [
+            "The seed is the word of God.",
+            "The Gospel, as preached by Christ, his apostles, and faithful ministers.",
+            "The word of God, which has God for its author, is concerning the grace of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in Luke 8:11 is about the seed, which is the word of God. Luke emphasizes the word of God more frequently than the other Gospels, reflecting the importance of this message. The phrase word of God signifies the word that comes from God himself. This seed, the word of God, refers to the Gospel that was preached by Christ, the apostles, and faithful ministers and encompasses the grace of God. It is a message of divine origin, carrying the hope of salvation and abundant life.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.1324345893017442,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+            "commentatorTierSimilarities": [
+                45.92,
+                0.0,
+                54.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable speaks of the seed as the word of God. It is significant that Luke emphasizes this phrase more than any other Gospel writer, highlighting its divine origin. This word of God, proclaimed by Christ, the apostles, and faithful ministers, is an embodiment of God's grace. It brings hope and offers salvation. By understanding the seed as the word of God, we recognize the profound impact of this message on our lives, as it is a divine proclamation that carries the power to transform and bring about abundant life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8855052325432116,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                46.48,
+                0.0,
+                53.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable in question highlights the seed as the word of God, a phrase noticeably emphasized by Luke more so than other Gospel writers. This distinction reflects the importance of this divinely inspired message. The seed represents the Gospel preached by Christ, his apostles, and faithful ministers, which conveys the grace of God. This message, originating from God Himself, holds immense significance as it carries the hope of salvation and reveals His divine plan for all humanity. Understanding the seed as the word of God invites us to embrace its transformative power and experience the abundant life it offers.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.7581766662854943,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                45.32,
+                0.0,
+                54.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable illustrates the seed as the word of God, a phrase given prominence by Luke. Through this, Luke emphasizes the importance of God's message. The seed refers to the Gospel preached by Christ, the apostles, and faithful ministers, which is rooted in God's grace. This divine word carries the power to bring about salvation and abundant life, originating directly from God Himself. Recognizing the seed as the word of God allows us to fully grasp its transformative nature and appreciate the profound impact it can have on our lives.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.9825133691552643,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.26,
+            "commentatorTierSimilarities": [
+                45.16,
+                0.0,
+                54.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable teaches that the seed symbolizes the word of God, a phrase frequently used by Luke. This highlights its significance and divine origin. The word of God refers to the Gospel message proclaimed by Christ, the apostles, and faithful ministers, bringing God's grace. It is a powerful message, authored by God Himself, imparting hope and offering salvation. Understanding the seed as the word of God allows us to grasp its transformative power and appreciate the abundant life it brings.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.880311570225343,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+            "commentatorTierSimilarities": [
+                46.99,
+                0.0,
+                53.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

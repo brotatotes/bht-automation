@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:29:00",
+    "verseRef": "Acts 9:35",
+    "bestBHT": {
+        "bht": "The miracle in Lydda and Sharon brought about a general conversion of the inhabitants, who turned to the Lord. This region, the celebrated plain of Sharon, extending along the coast from Caesarea to Joppa, experienced a widespread acceptance of the faith. The unparalleled beauty and fertility of Sharon were frequently mentioned in the Old Testament and became synonymous with a country of great abundance. This extraordinary revival of religion was a testament to the power and grace of Christ, as the people embraced Him as their Messiah.",
+        "wordCount": 87,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 2.0405986723569898,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+        "commentatorTierSimilarities": [
+            33.16,
+            39.31,
+            27.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "all that dwelt in L. and S. saw him;\u2014which also turned to the Lord\" ",
+            "A general conversion of the inhabitants to the faith followed.",
+            "Saron... the celebrated plain of that name [Sharon], extending along the coast from C\u00e6sarea to Joppa"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "all that dwelt at Lydda and Saron... saw him, and turned to the Lord",
+            "there was a general conversion in consequence",
+            "on the inhabitants of Lydda and Saron that they turned to the Lord"
+        ],
+        "Albert Barnes": [
+            "The miracle would be celebrated, and the effect was an extensive revival of religion.",
+            "Sharon was a region of extraordinary fertility, and the name was almost proverbial to denote any country of great beauty and fertility.",
+            "Turned to the Lord - Were converted; or received the Lord Jesus as the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Saron. Rev., properly, Sharon. Always with the definite article : the plain; extending thirty miles along the sea from Joppa to Caesarea."
+        ],
+        "John Calvin": [
+            "The sense is, that whereas there was but a small number of godly men there, a great part of the people became members of the Church.",
+            "Those men corrupt miracles, whosoever they be, which look only upon men, and do not turn their eyes toward this end, that being instructed concerning the power and grace of Christ, they may stick only to him.",
+            "Therefore that token of Christ\u2019s divine power which he showed was the beginning of turning to him."
+        ],
+        "Philip Schaff": [
+            "The Old Testament's Sharon, that beautiful plain extending along the coast of Palestine for some thirty miles between Joppa and C\u00e6sarea.",
+            "Its singular beauty and fertility are frequently noticed in the poetical books of the Old Testament.",
+            "In the chronicles of the Crusades, 'the forest of Saron' was the scene of one of the most romantic adventures of Richard."
+        ],
+        "Archibald T. Robertson": [
+            "Sharon (\u03a3\u03b1\u03c1\u03c9\u03bd\u03b1). The Plain of Sharon, not a town. Thirty miles long from Joppa to Caesarea. "
+        ],
+        "John Gill": [
+            "It was such a fruitful and delightful country, that the Targum on Song of Solomon 2:1 has rendered it by the garden of Eden.",
+            "It had its name either from \u05e9\u05d5\u05e8, 'Shur', which signifies to behold afar off, from the fine and large prospect that might be taken on it; or from \u05e9\u05e8 'Shar', which signifies the navel, because it was a valley or plain surrounded on every side with mountains and hills.",
+            "They believed in Christ, embraced his Gospel preached by Peter, professed faith in him, and submitted to his ordinances; being turned by powerful efficacious grace, they turned their feet to keep his testimonies."
+        ],
+        "John Wesley": [
+            "Lydda was a large town, one day's journey from Jerusalem.",
+            "It stood in the plain or valley of Sharon, which extended from Cesarea to Joppa.",
+            "Lydda was noted for its fruitfulness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The miracle that occurred in Lydda and Sharon resulted in a general conversion of the inhabitants to the faith. This region, known for its beauty and fertility, witnessed a widespread turning to the Lord Jesus as the Messiah. The power of Christ displayed in this miracle was the catalyst for the people's faith and allegiance to Him. The remarkable change in the hearts of the people was evident as they believed in and embraced the Gospel preached by Peter. The town of Lydda, situated in the fertile plain of Sharon, became renowned not only for its fruitfulness but also for its devotion to the Lord.",
+            "wordCount": 106,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8159180289885017,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                26.33,
+                38.59,
+                35.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The miracle in Lydda and Sharon led to a broad conversion of its inhabitants to the Lord. This region, known for its beauty and fertility, witnessed a remarkable turning to Jesus as the Messiah. The power of Christ displayed in the miracle sparked the people's faith and commitment to Him. The significant transformation in the hearts of the people was evident as they believed and embraced Peter's message of the Gospel. Lydda, located in the fertile plain of Sharon, became renowned for its abundance and devotion to the Lord.",
+            "wordCount": 91,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.834921233415109,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+            "commentatorTierSimilarities": [
+                27.59,
+                39.06,
+                33.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The miracle in Lydda and Sharon brought about a general conversion of the inhabitants, who turned to the Lord. This region, the celebrated plain of Sharon, extending along the coast from Caesarea to Joppa, experienced a widespread acceptance of the faith. The unparalleled beauty and fertility of Sharon were frequently mentioned in the Old Testament and became synonymous with a country of great abundance. This extraordinary revival of religion was a testament to the power and grace of Christ, as the people embraced Him as their Messiah.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.0405986723569898,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                33.16,
+                39.31,
+                27.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The miracle in Lydda and Sharon resulted in a general conversion of the inhabitants, who turned to the Lord. The celebrated plain of Sharon, renowned for its beauty and fertility, extended along the coast from Caesarea to Joppa. The remarkable revival of religion witnessed in this region was a testament to the power and grace of Christ. The people eagerly embraced Jesus as their Messiah, firmly believing in Him and submitting to His teachings and ordinances.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.8674423189088873,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
+            "commentatorTierSimilarities": [
+                30.2,
+                38.94,
+                30.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The miracle in Lydda and Sharon resulted in a general conversion of the inhabitants, who saw the miracle and turned to the Lord. This renowned plain of Sharon, extending along the coast from Caesarea to Joppa, witnessed a remarkable transformation as the people embraced Jesus as their Messiah. The beauty and fertility of Sharon, frequently mentioned in the Old Testament, served as a backdrop for this extraordinary revival of faith. The people's belief in Christ and their submission to His teachings marked a powerful and profound response to His grace and power.",
+            "wordCount": 93,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.9678131535209045,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+            "commentatorTierSimilarities": [
+                32.77,
+                38.38,
+                28.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

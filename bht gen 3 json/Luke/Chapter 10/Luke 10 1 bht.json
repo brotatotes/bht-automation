@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:17:38",
+    "verseRef": "Luke 10:1",
+    "bestBHT": {
+        "bht": "The Lord, in a lordly act, appointed seventy others to go before Him and proclaim His message, just as the seventy elders of Israel were selected in the wilderness. The purpose of this temporary mission was to prepare the people for His coming and to supplement the work of the Twelve. Jesus Himself would follow after them to investigate the work done and visit the various places. This appointment was not intended to train them like the Twelve, but to be a pioneer ministry, proclaiming the good news of salvation and preparing the way for His final entry into Jerusalem.",
+        "wordCount": 100,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 1.8375875165704878,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+        "commentatorTierSimilarities": [
+            28.21,
+            37.82,
+            33.97
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the Lord\u2014a becoming title here, as this appointment was an act truly lordly [BENGEL].\" ",
+            "others (also in number), seventy; probably with allusion to the seventy elders of Israel on whom the Spirit descended in the wilderness (Numbers 11:24; Numbers 11:25).\" ",
+            "The mission, unlike that of the Twelve, was evidently quite temporary. All the instructions are in keeping with a brief and hasty pioneering mission, intended to supply what of general preparation for coming events the Lord's own visit afterwards to the same 'cities and places' would not, from want of time, now suffice to accomplish."
+        ],
+        "Albert Barnes": [
+            "The apostles were to be with him; to hear his instructions...that they might 'then' go and proclaim all these things to the world.",
+            "The seventy were sent out to preach immediately, and chiefly where he himself was about to come. They were appointed for a temporary object.",
+            "Our Lord in this showed the propriety of having 'a religious friend,' who would be a confidant and help. Every Christian, and especially every Christian minister, needs such a friend."
+        ],
+        "Marvin Vincent": [
+            "Appointed [\u03b1\u03bd\u03b5\u03b4\u03b5\u03b9\u03be\u03b5\u03bd] . Used by Luke only. Lit., to lift up and shew, as Acts 1:24 : \"Shew which one thou hast chosen.\" Hence to proclaim any one elected to an office.\" ",
+            "Other seventy. Wrong; for he had not appointed seventy previously.",
+            "Rev., rightly, seventy others, with reference to the twelve."
+        ],
+        "John Calvin": [
+            "The twelve, therefore, were sent to awaken in the Jews the hope of an approaching salvation.",
+            "Others were sent in greater numbers, as secondary heralds, to spread universally in every place the report of Christ\u2019s coming.",
+            "He does not give them authority as judges, but only commands them to go before him, that he may possess the sole power."
+        ],
+        "Philip Schaff": [
+            "The chief purpose was not to train them, as in the case of the Twelve, but actually to prepare the people in these places for His coming.",
+            "The whole was a final appeal, and also a preparation for the final entry into Jerusalem.",
+            "That our Lord should follow and actually visit thirty-five places is not remarkable, in view of His great and constant activity."
+        ],
+        "Archibald T. Robertson": [
+            "To show forth, display, proclaim, appoint.",
+            "What earthly objection can there be to two similar missions?",
+            "Jesus was to follow after and investigate the work done."
+        ],
+        "John Gill": [
+            "Jesus separated out of his disciples, seventy others...he selected and ordained seventy others, in allusion to the seventy elders of Israel",
+            "He sent them beforehand to acquaint the inhabitants...and prepare them by their ministry, for the reception of him",
+            "John the Baptist... went before him in his ministry, and prepared the way for him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord, in a lordly act, appointed seventy others to go before Him and proclaim His message, just as the seventy elders of Israel were selected in the wilderness. The purpose of this temporary mission was to prepare the people for His coming and to supplement the work of the Twelve. Jesus Himself would follow after them to investigate the work done and visit the various places. This appointment was not intended to train them like the Twelve, but to be a pioneer ministry, proclaiming the good news of salvation and preparing the way for His final entry into Jerusalem.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.8375875165704878,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                28.21,
+                37.82,
+                33.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord, in an act truly lordly, appointed seventy others to go before Him and proclaim His message, in reference to the seventy elders of Israel. This temporary mission was intended to prepare the people for His coming and supplement the work of the Twelve. Jesus Himself would follow after them to investigate the work done and visit the various places. This appointment aimed to proclaim the good news of salvation and prepare the way for His final entry into Jerusalem.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.754196709771956,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
+            "commentatorTierSimilarities": [
+                29.08,
+                36.9,
+                34.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord appointed seventy others, in a temporary and pioneering mission, to proclaim His message and prepare the people for His coming. This act of appointment was truly lordly and alluded to the seventy elders of Israel. Jesus himself would follow after them, investigating the work done and visiting the various places. This appointment served to proclaim the good news of salvation and prepare the way for His final entry into Jerusalem.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.74442935834659,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.34,
+            "commentatorTierSimilarities": [
+                30.56,
+                36.34,
+                33.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a lordly act, the Lord appointed seventy others to proclaim His message and prepare the people for His coming. This temporary mission was intended to supplement the work of the Twelve and serve as a pioneering ministry. Jesus Himself would follow after them, visiting the various places and investigating the work done. This appointment aimed to proclaim the good news of salvation, just as the seventy elders of Israel were chosen. It was a preparation for His final entry into Jerusalem and the culmination of His ministry.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7489375511635952,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.49,
+            "commentatorTierSimilarities": [
+                27.92,
+                36.25,
+                35.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord, in a lordly act, appointed seventy others to proclaim His message and prepare the people for His coming. This temporary mission aimed to supplement the work of the Twelve and serve as a pioneering ministry. Jesus Himself would follow after them, visiting the various places and investigating the work done. This appointment was a preparation for His final entry into Jerusalem and the culmination of His ministry, proclaiming the good news of salvation, just as the seventy elders of Israel were chosen.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7728644222776306,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "commentatorTierSimilarities": [
+                28.39,
+                36.42,
+                35.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

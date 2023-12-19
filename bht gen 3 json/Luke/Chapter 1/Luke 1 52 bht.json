@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:13:43",
+    "verseRef": "Luke 1:52",
+    "bestBHT": {
+        "bht": "God has the power to bring down the mighty and elevate those of low stature. This power is not to be confused with tyranny, but rather a just and providential government. Mary's words remind us that the world is not governed by blind luck, but by the perfect justice of God. The rise and fall of princes and rulers are under His control. It is through His divine plan that the lowly can be exalted to positions of honor. In this way, God overturns the worldly order and establishes His kingdom.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.3039925829035348,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.7,
+        "commentatorTierSimilarities": [
+            30.81,
+            28.92,
+            40.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Hath put down the mighty - The 'mighty' here denotes princes, kings, or conquerors.",
+            "Low degree - Low or humble birth and condition in life...The origin of illustrious families is often obscure.",
+            "No conduct is more odious and unchristian than to be ashamed of our birth or the humble circumstances of our friends."
+        ],
+        "John Calvin": [
+            "Let us understand, that she does not ascribe to God a despotic power,\u2014as if men were tossed and thrown up and down like balls by a tyrannical authority,\u2014but a just government, founded on the best reasons, though they frequently escape our notice.",
+            "To instruct us by facts, that whatever is lofty and elevated in the world is subject to God, and that the whole world is governed by his dominion, some are exalted to high honor, while others either come down in a gradual manner, or else fall headlong from their thrones.",
+            "Thus, when Mary says, that it is God who casteth down nobles from their thrones, and exalteth mean persons, she teaches us, that the world does not move and revolve by a blind impulse of Fortune, but that all the revolutions observed in it are brought about by the Providence of God, and that those judgments, which appear to us to disturb and overthrow the entire framework of society, are regulated by God with unerring justice."
+        ],
+        "Philip Schaff": [
+            "Princes from their thrones, heathen usurpers.",
+            "That Herod was thought of is very probable, but not Herod alone.",
+            "The singer thinks of all the mighty enemies of God\u2019s chosen people."
+        ],
+        "Archibald T. Robertson": [
+            "Princes (\u03b4\u03c5\u03bd\u03b1\u03c3\u03c4\u03b1\u03c2). Our word dynasty is from this word. It comes from \u03b4\u03c5\u03bd\u03b1\u03bc\u03b1, to be able. "
+        ],
+        "John Gill": [
+            "He hath put down the mighty from their seats... casting down rebellious angels... or this may have respect to the putting down the monarchies and kingdoms of this world.\" ",
+            "Exalted them of low degree... raising David from the sheepfold... raising beggars from the dunghill, to sit among princes.\" ",
+            "A method, which God in his infinite wisdom and grace has been pleased to take, more or less, in all ages of time; for not many mighty and noble are called by grace; but usually the foolish, the weak, and the base things of the world."
+        ],
+        "John Wesley": [
+            "He hath put down the mighty \u2014 Both angels and men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God has the power to bring down the mighty and elevate those of low stature. This power is not to be confused with tyranny, but rather a just and providential government. Mary's words remind us that the world is not governed by blind luck or chance, but by the perfect justice and wisdom of God. The rise and fall of princes and rulers are all under His control. It is through His divine plan that those who are considered lowly by the world can be exalted to positions of honor. In this way, God overturns the worldly order and establishes His kingdom.",
+            "wordCount": 103,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.3053796753991933,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+            "commentatorTierSimilarities": [
+                29.01,
+                29.61,
+                41.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God has the power to bring down the mighty and elevate those of low stature. This power is not to be confused with tyranny, but rather a just and providential government. Mary's words remind us that the world is not governed by blind luck, but by the perfect justice of God. The rise and fall of princes and rulers are under His control. It is through His divine plan that the lowly can be exalted to positions of honor. In this way, God overturns the worldly order and establishes His kingdom.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.3039925829035348,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.7,
+            "commentatorTierSimilarities": [
+                30.81,
+                28.92,
+                40.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God exercises His power to bring down the powerful and exalt the humble. This divine authority is not oppressive, but rather a just and providential rule. Mary's words remind us that the world is not governed by chance, but by God's perfect justice. He orchestrates the rise and fall of princes and rulers. Through His divine plan, He uplifts the lowly to positions of honor, overturning the world's established order. It is through God's governance that His kingdom is established.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.3027678975455625,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.66,
+            "commentatorTierSimilarities": [
+                32.3,
+                29.05,
+                38.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Luke 1:52, Mary reflects on God's power to humiliate the mighty and elevate the lowly. She emphasizes that this is not a despotic authority but a just and providential governance. Mary's words remind believers that the world is not dictated by random fortune, but by God's perfect justice. He orchestrates the rise and fall of princes and rulers, using His divine plan to exalt the lowly to positions of honor, thereby reshaping the worldly order according to His kingdom.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.341019395966147,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.93,
+            "commentatorTierSimilarities": [
+                34.77,
+                27.56,
+                37.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's power is revealed in His ability to bring down those in positions of power and elevate those who are considered lowly. Mary's words highlight the importance of understanding that God's authority is just and providential, not tyrannical. She reminds us that the world is not governed by luck, but by God's perfect justice. Through His divine plan, He orchestrates the rise and fall of rulers, exalting the humble to places of honor. In this way, God reconfigures the world's order and establishes His kingdom.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.251545332701611,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.96,
+            "commentatorTierSimilarities": [
+                28.16,
+                27.51,
+                44.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

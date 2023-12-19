@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:26:38",
+    "verseRef": "Acts 5:3",
+    "bestBHT": {
+        "bht": "Why hast thou allowed Satan to fill thine heart and lie to the Holy Ghost? Satan had entered into Judas and now he has filled the heart of Ananias with a lie. The Holy Spirit had been given to guide them into truth, yet Ananias yielded to the temptation. This instance was such that none but Satan could have put him upon, or emboldened him to have done; he lied against the Holy Ghost by keeping back part of the price the land was sold for when he had declared he sold it with this view to give the whole for charitable uses.",
+        "wordCount": 103,
+        "quoteTokenProportion": 54.41,
+        "qualityScore": 2.510899512963877,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.83,
+        "commentatorTierSimilarities": [
+            41.81,
+            26.05,
+            32.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] The question implies the power of resistance to Satan, and is equivalent to, Why hast thou allowed Satan to fill, &c.?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why hath Satan filled... thine heart?",
+            "Why hast thou suffered him to fill",
+            "To lie to the Holy Ghost"
+        ],
+        "Albert Barnes": [
+            "As it was an instance of enormous wickedness, and as it was very important to detect and punish the crime, it was made known to Peter directly by God.",
+            "The sin of Ananias consisted in his 'yielding' to the temptation. Nowhere in the Bible are people supposed to be free from guilt from the mere fact that they have been 'tempted' to commit it.",
+            "The Holy Spirit is a distinct Person from the Father and the Son; or, in other words, there is a distinction of some kind in the divine nature that may be designated by the word 'person'."
+        ],
+        "Marvin Vincent": [
+            "To lie to would require a different case in the noun, which occurs in ver. 4, where the same verb is properly rendered lie (unto God).\" ",
+            "The design of Satan was to deceive the Holy Ghost.",
+            "The result of the attempt is merely to lie."
+        ],
+        "John Calvin": [
+            "If the Spirit of God, by the mouth of a mortal man, do so sore urge an hypocrite, being otherwise painted with the beautiful color of virtues, how shall the reprobate abide the voice of God himself, with the sound of the trumpet, when they shall appear before his judgment-seat?",
+            "For there is no man whose heart is not pricked with the pricks of Satan, and all men are also many ways tempted, yea, these temptations pierce into their minds; but where Satan possesseth the heart, he reigneth in the whole man, having, as it were, expelled God.",
+            "We must take great heed, that hypocrisy reign not in us, which hath this wickedness proper to it, to go about to deceive God, and, as it were, put out the eyes of the crow."
+        ],
+        "Philip Schaff": [
+            "The foremost of the Twelve, who had learned his doctrine from the life of Jesus, distinctly here acknowledges his belief in the existence and personality of the spirit of evil, Satan.",
+            "He evidently recognises man's free will, his power to resist if he choose, the promptings of the evil one.",
+            "It was no earthly presence which guided and executed the dread judgment of that court."
+        ],
+        "Archibald T. Robertson": [
+            "Satan the adversary is the father of lies.",
+            "He had entered into Judas and now he has filled the heart of Ananias with a lie.",
+            "The Holy Spirit had been given them to guide them into truth."
+        ],
+        "John Gill": [
+            "Why hath Satan filled thine heart?... emboldened thee, given thee so much spirit and courage to act in such an impudent and audacious manner.\" ",
+            "But this instance of Ananias was such, that none but Satan could have put him upon, or emboldened him to have done.",
+            "He lied against the Holy Ghost, by keeping back part of the price the land was sold for; when he had declared he sold it with this view, to give the whole for charitable uses, and affirmed that what he brought was the whole."
+        ],
+        "John Wesley": [
+            "To lie to the Holy Ghost \u2014 Who is in us.",
+            "And to keep back \u2014 Here was the first instance of it.",
+            "This was the first attempt to bring propriety of goods into the Christian Church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Why hast thou allowed Satan to fill thine heart? To lie to the Holy Ghost would require a different case in the noun; the design of Satan was to deceive the Holy Ghost, but the result of the attempt is merely to lie. Satan had filled the heart of Ananias with a lie, for he is the father of lies. Yet, the Holy Spirit had been given to guide them into truth. This instance of Ananias was such that none but Satan could have put him upon, or emboldened him to have done; he lied against the Holy Ghost by keeping back part of the price the land was sold for when he had declared he sold it with this view to give the whole for charitable uses.",
+            "wordCount": 128,
+            "quoteTokenProportion": 49.33,
+            "qualityScore": 2.451692955431567,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.86,
+            "commentatorTierSimilarities": [
+                43.06,
+                25.17,
+                31.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Why hast thou allowed Satan to fill thine heart and lie to the Holy Ghost? Satan had entered into Judas and now he has filled the heart of Ananias with a lie. The Holy Spirit had been given to guide them into truth, yet Ananias yielded to the temptation. This instance was such that none but Satan could have put him upon, or emboldened him to have done; he lied against the Holy Ghost by keeping back part of the price the land was sold for when he had declared he sold it with this view to give the whole for charitable uses.",
+            "wordCount": 103,
+            "quoteTokenProportion": 54.41,
+            "qualityScore": 2.510899512963877,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.83,
+            "commentatorTierSimilarities": [
+                41.81,
+                26.05,
+                32.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Why hast thou allowed Satan to fill thine heart and lie to the Holy Ghost? Satan had entered into Judas and now he has filled the heart of Ananias with a lie. The Holy Spirit had been given to guide them into truth, yet Ananias yielded to the temptation. He lied against the Holy Ghost by keeping back part of the price the land was sold for when he had declared he sold it with this view to give the whole for charitable uses.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.443386975255587,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.58,
+            "commentatorTierSimilarities": [
+                42.38,
+                25.42,
+                32.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why hast thou allowed Satan to fill thine heart and lie to the Holy Ghost? Satan had entered into Judas and now he has filled the heart of Ananias with a lie. The Holy Spirit had been given to guide them into truth, yet Ananias yielded to the temptation. He lied against the Holy Ghost by keeping back part of the price the land was sold for when he had declared he sold it with this view to give the whole for charitable uses.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.443386975255587,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.58,
+            "commentatorTierSimilarities": [
+                42.38,
+                25.42,
+                32.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Why hast thou allowed Satan to fill thine heart and lie to the Holy Ghost? Satan had entered into Judas and now he has filled the heart of Ananias with a lie. The Holy Spirit had been given to guide them into truth, yet Ananias yielded to the temptation. He lied against the Holy Ghost by keeping back part of the price the land was sold for when he had declared he sold it with this view to give the whole for charitable uses.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.443386975255587,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.58,
+            "commentatorTierSimilarities": [
+                42.38,
+                25.42,
+                32.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:20:04",
+    "verseRef": "Colossians 1:21",
+    "bestBHT": {
+        "bht": "You, who were once alienated from God and at enmity in your understanding and wicked works, have now been reconciled through the atoning death of Christ. This objective state of enmity stems from its subjective causes, making you habitual enemies of God. However, God, through Christ, has completely restored you to His friendship. Your previous alienation, a vivid picture of heathenism, has been overturned by the grace offered through Christ, securing harmony and friendship with God.",
+        "wordCount": 76,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 2.247929876062293,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+        "commentatorTierSimilarities": [
+            32.42,
+            38.79,
+            28.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And you, who were once alienated from God, and at enmity in your understanding, in your wicked works.",
+            "the objective state of enmity is grounded in its subjective causes",
+            "now however hath He reconciled"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Colossians are included in this general reconciliation.",
+            "Actual alienation makes habitual 'enemies'.",
+            "Notwithstanding the former alienation, now that Christ has come, God hath completely reconciled, or restored to His friendship again."
+        ],
+        "Albert Barnes": [
+            "The benefit of that great plan has been extended to you, and it has accomplished in you what it is designed to effect everywhere - to reconcile enemies to God.",
+            "It was alienation seated in the mind, and leading to wicked works. It was deliberate and purposed enmity. It was not the result of passion and excitement; it had a deeper seat, and took hold of the intellectual powers.",
+            "Harmony has been secured between you and God, and you are brought to friendship and love. Such a change has been produced in you as to bring your minds into friendship with that of God."
+        ],
+        "Marvin Vincent": [
+            "Enemies. To God, in the active sense.\" ",
+            "The spiritual seat of enmity.",
+            "In the performance of - the sphere in which, outwardly, their alienation had exhibited itself."
+        ],
+        "John Calvin": [
+            "You are yourselves a sample of that grace which I declare to have been offered to mankind through Christ.\" ",
+            "He meant to intimate, that man, whatever he may be, is wholly at variance with God, and is an enemy to him.\" ",
+            "We all, however, stand in need of Christ as our peace maker, because we are the slaves of sin, and where sin is, there is enmity between God and men."
+        ],
+        "Philip Schaff": [
+            "Being once, i.e., formerly, alienated; comp. Ephesians 2:12, where the same term occurs. But here the reference is to alienation from God; comp. Ephesians 4:14.",
+            "And enemies; not only alienated but hostile to God.",
+            "Yet now hath he reconciled; lit., \u2018did He reconcile,\u2019 by one act, namely, the atoning death of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Being in time past alienated... alienated from God, a vivid picture of heathenism as in Romans 1:20-23.\" ",
+            "\u0395\u03bd\u03b5\u03bc\u03b9\u03b5\u03c2 (\u03b5\u03be\u03b8\u03c1\u03bf\u03c5\u03c2). Old word from \u03b5\u03c7\u03b8\u03bf\u03c2 (hatred). Active sense here, hostile as in Matthew 13:28; Romans 8:7, not passive hateful (Romans 11:28).",
+            "It is always a tragedy to see men use their minds actively against God."
+        ],
+        "John Gill": [
+            "They were enemies to God, the true God, and were lovers and worshippers of idols; they were enemies to the being and perfections of God, as all men in a state of nature are; and more or less show it, by either denying there is a God, or wishing there was none, or fancying him to be such an one as themselves...",
+            "They are enemies to Christ in one shape or another; either to his person, denying his proper deity, or real humanity; or to his offices, not hearkening to him as a prophet, trampling on his blood and sacrifice as a priest, and unwilling to have him to rule over them as a King...",
+            "They are enemies to the Spirit of Christ, by either denying his deity and personality, or by ridiculing the operations of his grace; or treating with contempt, and as foolish, everything of his, the Bible and all the truths contained in it, dictated by him..."
+        ],
+        "John Wesley": [
+            "Actual alienation of affection makes habitual enmity.",
+            "In your mind \u2014 Both your understanding and your affections.",
+            "He hath now reconciled \u2014 From the moment ye believed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And you, who were once alienated from God, and at enmity in your understanding, in your wicked works, have now been reconciled through the atoning death of Christ. The objective state of enmity is grounded in its subjective causes, making habitual enemies to God. But now, in Christ, God has completely restored you to His friendship again. Your previous alienation, a vivid picture of heathenism, has been overturned by the grace offered through Christ. Through this reconciliation, harmony has been secured between you and God, bringing your minds into friendship with Him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.1625103288734966,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.24,
+            "commentatorTierSimilarities": [
+                32.36,
+                40.04,
+                27.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You, who were once alienated from God and at enmity in your understanding and wicked works, have now been reconciled through the atoning death of Christ. This objective state of enmity stems from its subjective causes, making you habitual enemies of God. However, God, through Christ, has completely restored you to His friendship. Your previous alienation, a vivid picture of heathenism, has been overturned by the grace offered through Christ, securing harmony and friendship with God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.247929876062293,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+            "commentatorTierSimilarities": [
+                32.42,
+                38.79,
+                28.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "And you, who were once alienated from God, and at enmity in your understanding, in your wicked works, have now been reconciled through the atoning death of Christ. The Colossians are included in this general reconciliation. Actual alienation makes habitual enemies to God. Notwithstanding the former alienation, now that Christ has come, God hath completely reconciled, or restored to His friendship again.",
+            "wordCount": 62,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 2.296202035413117,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.69,
+            "commentatorTierSimilarities": [
+                36.96,
+                35.82,
+                27.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You, who were once alienated from God and at enmity in your understanding and wicked works, have now been reconciled through the atoning death of Christ. The Colossians are included in this general reconciliation. Actual alienation makes habitual enemies to God. Notwithstanding the former alienation, now that Christ has come, God hath completely reconciled, or restored to His friendship again.",
+            "wordCount": 60,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 2.291054697344383,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.52,
+            "commentatorTierSimilarities": [
+                37.05,
+                35.37,
+                27.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the atoning death of Christ, those who were once alienated from God and in enmity through their understanding and wicked works have now been reconciled. The Colossians are part of this general reconciliation. This previous alienation reflects the state of heathenism as seen in Romans 1:20-23. However, God has completely restored them to His friendship, even though they were enemies and actively hostile to Him. This reconciliation not only affects the objective state but also the subjective causes of enmity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.9756547142313368,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.03,
+            "commentatorTierSimilarities": [
+                37.78,
+                36.51,
+                25.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

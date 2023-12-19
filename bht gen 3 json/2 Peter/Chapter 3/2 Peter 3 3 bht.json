@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:40:52",
+    "verseRef": "2 Peter 3:3",
+    "bestBHT": {
+        "bht": "Knowing this first, in the last days, mockers with mockery will come, confirming the truth of the apostles' prediction. These scoffers, unrestrained in their own pleasure, ridicule the reverence for God. Sensuality and clear spiritual blindness coexist in them, as they scorn sin and deride all religion. A contest with these arrogant scoffers is to be feared, as they target the just and upright. Such presence serves as a stark reminder of the apostles' words and the need for steadfast faith.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.7043367445867275,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.01,
+        "commentatorTierSimilarities": [
+            32.7,
+            29.46,
+            37.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Knowing this first\u2014from the word of the apostles.",
+            "Their very scoffing shall confirm the truth of the prediction.",
+            "Their own pleasure is their sole law, unrestrained by reverence for God."
+        ],
+        "Albert Barnes": [
+            "Knowing this first - As among the first and most important things to be attended to - as one of the predictions which demand your special regard.",
+            "The apostle does not say that that was the last time in the sense that the world was about to come to an end; nor is it implied that the period called 'the last day' might not be a very long period...",
+            "It would appear probable that there was a particular or definite class of men referred to; a class who would hold special opinions, and who would urge plausible objections against the fulfillment of the predictions..."
+        ],
+        "Marvin Vincent": [
+            "Scoffers walking... Mockers shall come with mockery, walking.\" ",
+            "This addition gives a play upon the words.",
+            "Mockers shall come with mockery."
+        ],
+        "John Calvin": [
+            "Know ye this especially.",
+            "The more God offers himself by the gospel to the world... the more audacious on the other hand will ungodly men vomit forth the poison of their impiety.",
+            "There is nothing to be feared more than a contest with scoffers."
+        ],
+        "Philip Schaff": [
+            "That new Messianic Age of the Church had begun, indeed, to enter with Christ's First Coming, but was to enter finally with that Second Coming which the quick faith of the first believers realized as nigh at hand.",
+            "When these mockers come, they will come in character... the statement of its most graphic stroke.",
+            "The lustful life and the scoffing voice are not associated here without a purpose. Sensuality and faith, coarse self-indulgence and clear spiritual apprehension, cannot coexist."
+        ],
+        "Archibald T. Robertson": [
+            "Knowing this first.",
+            "In the last days.",
+            "Mockers with mockery."
+        ],
+        "John Gill": [
+            "such as would make a mock at sin, make light of it, plead for it, openly commit it, and glory in it; and scoff at all religion",
+            "the just, upright man, is commonly by such laughed to scorn, and those that depart from evil make themselves a prey",
+            "scoffers at religion and revelation are generally libertines"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the last days, scoffers will come with mockery, walking in their own pleasure without reverence for God. These mockers, characterized by their sensuality and clear spiritual blindness, will confirm the truth of the apostles' prediction. Their audacious impiety will vomit forth like poison, as they make a mockery of sin and ridicule all religion. It is evident that a contest with scoffers is to be feared, for they often target the just and upright, while those who depart from evil become their prey. These scoffers, who often promote a libertine lifestyle, will arise as a stark reminder of the word of the apostles and the need for steadfast faith.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.723768553405109,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+            "commentatorTierSimilarities": [
+                29.94,
+                28.92,
+                41.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the last days, scoffers will come, mocking the truths of the apostles, walking in their own pleasure without reverence for God. Their indulgent lives and derisive voices are not coincidental. These mockers confirm the apostles' predictions and highlight the clash between sensuality and faith. Their audacious impiety is like poison, as they scorn sin and ridicule all religion. A contest with scoffers is to be feared, for they target the just and upright, while those who reject evil become their prey. Their presence serves as a reminder of the apostles' words and the importance of unwavering faith.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.5543096951365765,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.02,
+            "commentatorTierSimilarities": [
+                32.73,
+                27.43,
+                39.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the last days, mockers with mockery will come, walking in their own pleasure and scoffing at the truth proclaimed by the apostles. Their audacious impiety confirms the accuracy of the apostles' predictions. These scoffers, characterized by their sensuality and rejection of faith, make a mockery of sin and ridicule all religion. A contest with such scoffers is to be feared, as they target the upright and those who turn away from evil. Their presence serves as a stark reminder of the apostles' words and the need for unwavering faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6884607016441384,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+            "commentatorTierSimilarities": [
+                33.72,
+                28.64,
+                37.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Knowing this first, in the last days, mockers with mockery will come, confirming the truth of the apostles' prediction. These scoffers, unrestrained in their own pleasure, ridicule the reverence for God. Sensuality and clear spiritual blindness coexist in them, as they scorn sin and deride all religion. A contest with these arrogant scoffers is to be feared, as they target the just and upright. Such presence serves as a stark reminder of the apostles' words and the need for steadfast faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7043367445867275,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.01,
+            "commentatorTierSimilarities": [
+                32.7,
+                29.46,
+                37.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Knowing this first, in the last days, mockers with mockery will come, confirming the truth of the apostles' prediction. These scoffers, unrestrained in their own pleasure, ridicule the reverence for God. Sensuality and clear spiritual blindness coexist in them, as they scorn sin and deride all religion. A contest with these arrogant scoffers is to be feared, as they target the just and upright. Such presence serves as a stark reminder of the apostles' words and the need for steadfast faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7043367445867275,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.01,
+            "commentatorTierSimilarities": [
+                32.7,
+                29.46,
+                37.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

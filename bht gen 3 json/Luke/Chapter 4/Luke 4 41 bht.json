@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:15:11",
+    "verseRef": "Luke 4:41",
+    "bestBHT": {
+        "bht": "Jesus consistently rejected testimony from demons, refusing to be associated with them or allow them to affirm His identity. Even though they acknowledged Him as the Son of God and the Christ, Jesus silenced them. Luke's use of language regarding sickness and torment reflects his medical background. The demons' recognition of Jesus as the Messiah is significant, as they knew of His divine identity and authority. Despite their testimony, Jesus remained focused on His mission and did not allow their words to influence His course.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.67263449411666,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.96,
+        "commentatorTierSimilarities": [
+            48.46,
+            0.0,
+            51.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Our Lord ever refused testimony from devils, for the very reason why they were eager to give it, because He and they would thus seem to be one interest, as His enemies actually alleged.\" (Luke 4:41)",
+            "JESUS SOUGHT OUT AT MORNING PRAYER, AND ENTREATED TO STAY, DECLINES FROM THE URGENCY OF HIS WORK.\" (Acts 16:16-44.16.18-)",
+            "See on Acts 16:16-44.16.18-:, where we learn how early He retired, and how He was engaged in solitude when they came seeking Him.\" (Acts 16:16-44.16.18-)"
+        ],
+        "Marvin Vincent": [
+            "The medical bias of Luke may be seen from the words he abstains from using as well as from those he does use in respect of disease.",
+            "He never uses malakia for sickness, as Matthew does, since this word is never so used in medical language, but is confined to the meaning of delicacy, effeminacy.",
+            "So, too, he never uses basanizein, to torment, of sickness, as Matthew does, as it is never so used in medical language, the word there meaning to examine some part of the body or some medical question."
+        ],
+        "Archibald T. Robertson": [
+            "Thou art the Son of God. More definite statement of the deity of Jesus than the witness of the demoniac in the synagogue.",
+            "Suffered them not to speak. The tense accents the continued refusal of Jesus to receive testimony to his person and work from demons.",
+            "Because they knew. Causal, not declarative. Past perfect of the second perfect \u03bf\u03b9\u03b4\u03b1. That he was the Christ. Infinitive in indirect assertion with the accusative of general reference."
+        ],
+        "John Gill": [
+            "Not willingly, nor of themselves, but at the word and command of Christ, who ordered them to depart.",
+            "Thou art Christ; the true Messiah, that was of old promised and prophesied of, and has been long expected to come.",
+            "They certainly did know that he was the Messiah, partly by the voice from heaven at his baptism, and partly by his power over them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals how Jesus refused testimony from demons, not wanting to be associated with them since they were His enemies. Even when they declared Him to be the Son of God and the Christ, Jesus silenced them. This shows His unwillingness to receive praise from demonic sources. It is interesting to note that Luke's use of language in describing sickness and torment aligns with medical terminology, demonstrating his medical background. The demons' recognition of Jesus as the Messiah is significant, as they knew of His divine identity and power over them. Ultimately, Jesus prioritized His work and mission, declining their testimony and continuing on His path.",
+            "wordCount": 108,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.5903193409405034,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                51.04,
+                0.0,
+                48.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus consistently rejected testimony from demons, refusing to be associated with them or allow them to affirm His identity. Even though they acknowledged Him as the Son of God and the Christ, Jesus silenced them. Luke's use of language regarding sickness and torment reflects his medical background. The demons' recognition of Jesus as the Messiah is significant, as they knew of His divine identity and authority. Despite their testimony, Jesus remained focused on His mission and did not allow their words to influence His course.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.67263449411666,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.96,
+            "commentatorTierSimilarities": [
+                48.46,
+                0.0,
+                51.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus consistently refused testimony from demons, as their affirmation would align Him with their agenda as His enemies alleged. Luke, with his medical background, carefully chose terminology, using words specific to medical language when describing sickness and torment. The demons' declaration of Jesus as the Son of God and the Christ highlighted His divine identity. However, Jesus remained unwavering in His refusal to accept this testimony, prioritizing His work and mission above all else.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5940267518928257,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.34,
+            "commentatorTierSimilarities": [
+                55.37,
+                0.0,
+                44.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, aware of the potential danger in aligning Himself with demons, consistently rejected their testimony. Luke, being familiar with medical terminology, deliberately chose his words when discussing sickness and torment. The demons' acknowledgment of Jesus as the Son of God and the Christ underscores His divine nature, but Jesus remained resolute in rejecting their affirmation. Prioritizing His mission, He refused to be swayed by their words, exhibiting His unwavering commitment to His purpose.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.543910039507141,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.68,
+            "commentatorTierSimilarities": [
+                55.29,
+                0.0,
+                44.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus consistently refused to accept testimony from demons, preventing any association with them and maintaining His distinction from His enemies. It is interesting to note that Luke, with his medical background, carefully chooses his words to accurately describe sickness and torment. Despite the demons' recognition of Jesus as the Son of God and the Christ, He silenced them, emphasizing His refusal to receive praise from demonic sources. Jesus prioritized His work and mission, declining their testimony and remaining focused on His purpose.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.6520305458851428,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                56.99,
+                0.0,
+                43.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

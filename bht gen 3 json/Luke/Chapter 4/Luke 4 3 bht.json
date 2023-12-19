@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:14:42",
+    "verseRef": "Luke 4:3",
+    "bestBHT": {
+        "bht": "The devil, recognizing Jesus as the Son of God, assumes that Jesus' hunger in the wilderness opens the way for diabolic suggestions aimed at inspiring doubt in Jesus toward His Father. In challenging Jesus to turn a stone into bread, the devil is tempting Him to use His divine power to meet His immediate physical needs. Jesus, however, feels the force of the temptation without yielding to the sin involved, remaining steadfast in His faith and trust in God.",
+        "wordCount": 79,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 1.6535565814427886,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+        "commentatorTierSimilarities": [
+            38.39,
+            26.9,
+            34.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] this stone, pointing to Some particular stone\u2014command that it become a loaf (so literally)"
+        ],
+        "Marvin Vincent": [
+            "This stone. Matthew, these stones. ",
+            "Bread [\u03b1\u03c1\u03c4\u03bf\u03c2] . Lit., a loaf. See on Matthew 4:3. Matthew has the plural loaves."
+        ],
+        "Philip Schaff": [
+            "Luke 4:3. This stone. Some particular one. More graphic than Matthew\u2019s account."
+        ],
+        "Archibald T. Robertson": [
+            "The devil assumes that Jesus is Son of God.",
+            "The hunger of Jesus opened the way for the diabolic suggestion designed to inspire doubt in Jesus toward his Father.",
+            "Jesus felt the force of each of the temptations without yielding at all to the sin involved."
+        ],
+        "John Gill": [
+            "if thou be the Son of God; as has been just now declared by a voice from heaven; or seeing thou art in such a relation to God, and so equal to him, and possessed of all divine perfections, and among the rest, of almighty power",
+            "wherefore, since thou art hungry, and in a wilderness, where no food is to be had",
+            "command this stone that it be made bread; say but the word, and this stone... will immediately be converted into bread, if he was what he was said to be"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The devil, recognizing Jesus as the Son of God, takes advantage of Jesus' hunger to plant seeds of doubt in His mind. Jesus, although feeling the full force of the temptations, remains firm in His faith and does not give into sin. The devil challenges Jesus to turn a stone into bread, tempting Him to use His divine power to fulfill His physical needs. However, Jesus resists and does not yield to the sin involved.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.5649863720300816,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                39.48,
+                28.69,
+                31.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The devil, recognizing Jesus as the Son of God, assumes that Jesus' hunger in the wilderness opens the way for diabolic suggestions aimed at inspiring doubt in Jesus toward His Father. In challenging Jesus to turn a stone into bread, the devil is tempting Him to use His divine power to meet His immediate physical needs. Jesus, however, feels the force of the temptation without yielding to the sin involved, remaining steadfast in His faith and trust in God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.6535565814427886,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                38.39,
+                26.9,
+                34.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The devil, acknowledging Jesus as the Son of God, seizes the opportunity of Jesus' hunger to plant doubt in His mind regarding His relationship with the Father. Jesus feels the full weight of this temptation, yet remains unwavering in His commitment to avoid sin. The devil's challenge for Jesus to transform a stone into bread is an attempt to entice Him into using His divine power for personal gain. However, Jesus resists the temptation, demonstrating His unwavering trust in God's plan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5422729903210022,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.62,
+            "commentatorTierSimilarities": [
+                40.81,
+                31.23,
+                27.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The devil, recognizing Jesus as the Son of God, takes advantage of Jesus' hunger to plant seeds of doubt in His mind. Jesus, although feeling the full force of the temptations, remains firm in His faith and does not give into sin. The devil challenges Jesus to turn a stone into bread, tempting Him to use His divine power to fulfill His physical needs. However, Jesus resists and does not yield to the sin involved.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.5649863720300816,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                39.48,
+                28.69,
+                31.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The devil, acknowledging Jesus as the Son of God, uses Jesus' hunger as an opportunity to inspire doubt. However, Jesus resists the temptation to turn a stone into bread and does not yield to sin. Despite feeling the full force of the temptations, Jesus remains steadfast in His faith and trust in the Father. His refusal to use His divine power for personal gain demonstrates His unwavering commitment to God's plan.",
+            "wordCount": 72,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.4427256011082983,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.31,
+            "commentatorTierSimilarities": [
+                40.08,
+                28.42,
+                31.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

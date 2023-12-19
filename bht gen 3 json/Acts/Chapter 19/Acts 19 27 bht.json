@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:34:04",
+    "verseRef": "Acts 19:27",
+    "bestBHT": {
+        "bht": "The temple of Artemis at Ephesus was targeted by the preaching of Paul, causing concern among the tradesmen. Demetrius, a silversmith, utilized religion as a cover for his real motive - to protect his business and the commerce associated with the worship of Artemis. He feared that if people rejected their handcrafted gods, their trade in making shrines and images would be brought to disgrace. The rise of Christianity posed a threat, as it exposed the falseness of idol worship and its impact on the city's economy.",
+        "wordCount": 87,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.8809120013461973,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+        "commentatorTierSimilarities": [
+            28.55,
+            41.82,
+            29.63
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "but that eventually even the temple itself of the great goddess Artemis will be counted for nothing.",
+            "The temple of Artemis at Ephesus, having been burnt to the ground by Herostratus on the night of the birth of Alexander the Great (B. C. 355), was restored with increased magnificence, and accounted one of the wonders of the ancient world.",
+            "Its dimensions were 425 by 220 feet, and it was surrounded by 127 columns, 60 feet high."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That indeed is a small matter but there is something far worse.",
+            "In both cases religious zeal was the hypocritical pretext; self-interest, the real moving cause of the opposition made.",
+            "What power must have attended the preaching of that one man by whom the death blow was felt to be given to their gigantic and witching superstition!"
+        ],
+        "Albert Barnes": [
+            "The extensive prevalence of the Christian religion would destroy many kinds of business in which people now engage. It would put an end to all that now ministers to the pride, vanity, luxury, vice, and ambition of people.",
+            "A revival of religion often makes the business of distilling an object of abhorrence. It pours shame on those who are engaged in ministering to the vices and luxuries of the world.",
+            "The talent and capital disengaged is not rendered useless. It may be directed to other channels and other employment. Religion does not make people idle. It leads people to devote their talents to useful employments, and opens fields in which all may toil usefully to themselves and to their fellow-men."
+        ],
+        "Marvin Vincent": [
+            "She was both a destroyer and a preserver, sending forth her arrows of death, especially against women, but also acting as a healer, and as the special protectress of women in childbirth.",
+            "The Ephesian Artemis is totally distinct from the Greek, partaking of the Asiatic character; and of the attributes of the Lydian Cybele, the great mother of the gods.",
+            "She was the personification of the fructifying and nourishing powers of nature, and her image, as represented on current coins of the time, is that of a swathed figure, covered with breasts, and holding in one hand a trident, and in the other a club."
+        ],
+        "John Calvin": [
+            "What is the cause, then, he is so diligent and so earnest in his business? even this, because he was plagued at home; and because he saw that he and his copartners had no honest or probable cause to make any stir, he goeth about to color [gloss] the matter with some other color.",
+            "So that the wicked, howsoever they strive frowardly against God, yet they gather here and there honest excuses \u2212 (391) impudently; but God doth not suffer himself to be mocked, but doth rather pull them out of their starting-holes [subterfuges].",
+            "But the Lord doth prescribe to us another manner of rule, to wit, that being content with his authority alone, we do not pass either for the opinion of men, nor for our own commodity, nor for the custom of many nations."
+        ],
+        "Philip Schaff": [
+            "This temple was popularly called \u2018the temple of Asia.\u2019",
+            "The month of May was consecrated to the goddess \u2018Artemis of the Ephesians:\u2019 all kinds of games and contests were celebrated in the city annually during this month, which became a national Ionian festival.",
+            "It was no difficult matter to show its tradesmen and citizens how the commerce of the place would suffer if strangers were no longer attracted to the shrine of Artemis and to the festivities held in her honour."
+        ],
+        "Archibald T. Robertson": [
+            "Their business of making gods would lose caste as the liquor trade (still called the trade in England) has done in our day. They felt this keenly and so Demetrius names it first. They felt it in their pockets.",
+            "An exaggeration, to be sure, but Pausanias says that no deity was more widely worshipped. Temples of Artemis have been found in Spain and Gaul. Multitudo errantium non efficit veritatem (Bengel). Even today heathenism has more followers than Christianity.",
+            "To think that all this splendour was being set at naught by one man and a despised Jew at that!"
+        ],
+        "John Gill": [
+            "If this notion prevails, that they are not gods, which are made with hands, this art and business of making shrines and images for Diana will be brought into contempt, and come to nothing.",
+            "Here religion is pretended, and a concern shown for that; partly on purpose to cover, as much as could be, the selfish and avaricious principles from which Demetrius acted.",
+            "What Demetrius says of her, that she was worshipped by all Asia, and the world, was fact; not only all Asia was concerned in building her temple at Ephesus... but she was one of the highest class of deities, and received as such by the whole Gentile world."
+        ],
+        "John Wesley": [
+            "There is danger, not only that this our craft [trade] should come into disgrace, but also that the temple of the great goddess Diana should be despised.\" ",
+            "Her majesty destroyed \u2014 Miserable majesty, which was capable of being thus destroyed!",
+            "But the multitude of those that err does not turn error into truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The temple of Artemis at Ephesus, known as one of the wonders of the ancient world, held great significance to the people. The preaching of the despised Jew, Paul, threatened to overthrow the worship of this powerful goddess. Demetrius, a silversmith, expressed his concern that their trade in making shrines and images for Artemis would come to nothing if people stopped believing in the gods made by human hands. Indeed, the extensive prevalence of Christianity would disrupt their thriving businesses, as it often does when revival takes place. The Christians' devotion to a different authority exposed the folly of idol worship, causing a ripple effect on the economy and moral habits of the city.",
+            "wordCount": 114,
+            "quoteTokenProportion": 30.49,
+            "qualityScore": 1.8390580179424005,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                30.67,
+                41.08,
+                28.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The significance of the temple of Artemis at Ephesus, a marvel of the ancient world, was threatened by Paul's preaching. Demetrius, a silversmith, voiced his concern that their trade would be ruined if people no longer believed in the gods made by human hands. The extensive prevalence of Christianity would disrupt their businesses, as revival often does, exposing the folly of idol worship. The Christians' devotion to a higher authority would have a profound impact on the economy and moral habits of the city.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.7941313240369818,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.0,
+            "commentatorTierSimilarities": [
+                29.31,
+                42.55,
+                28.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The magnificent temple of Artemis at Ephesus faced a threat from the preaching of Paul, a despised Jew. Demetrius, a silversmith, expressed concern that their trade of making shrines and images for Artemis would be destroyed if people stopped believing in these gods. The extensive prevalence of Christianity would disrupt their businesses and expose the folly of idol worship. The Christians' dedication to a higher authority would profoundly impact the city's economy and moral behaviors.",
+            "wordCount": 76,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.8191388784779554,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.83,
+            "commentatorTierSimilarities": [
+                28.49,
+                41.88,
+                29.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple of Artemis at Ephesus, renowned for its magnificence, faced a grave threat from the preaching of Paul, a despised Jew. Demetrius, a silversmith, cunningly used religion as a pretext to cover up his self-interest and commercial concerns. He feared that if people acknowledged that handcrafted gods were not truly divine, their trade in making shrines and images for Artemis would be brought to disgrace. The widespread prevalence of Christianity would disrupt their prosperous businesses, ultimately exposing the futility of idol worship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.8671425813264113,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.42,
+            "commentatorTierSimilarities": [
+                28.91,
+                40.54,
+                30.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The temple of Artemis at Ephesus was targeted by the preaching of Paul, causing concern among the tradesmen. Demetrius, a silversmith, utilized religion as a cover for his real motive - to protect his business and the commerce associated with the worship of Artemis. He feared that if people rejected their handcrafted gods, their trade in making shrines and images would be brought to disgrace. The rise of Christianity posed a threat, as it exposed the falseness of idol worship and its impact on the city's economy.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.8809120013461973,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+            "commentatorTierSimilarities": [
+                28.55,
+                41.82,
+                29.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

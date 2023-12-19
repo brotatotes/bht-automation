@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:15:37",
+    "verseRef": "Luke 5:30",
+    "bestBHT": {
+        "bht": "The verses highlight the difference between the old and new economies, cautioning against mixing them. The new wine represents the evangelical freedom introduced by Christ, while the old symbolizes the opposing spirit of Judaism. Those accustomed to the old ways would not immediately embrace the new. This teaches a lesson to those who cling to antiquated practices and those impatient with change. The objection raised comes from the Pharisees, disapproving of Jesus' association with tax collectors and sinners.",
+        "wordCount": 78,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.3946873554472299,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.72,
+        "commentatorTierSimilarities": [
+            32.74,
+            30.07,
+            37.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The incongruities mentioned in Luke 5:36-38 were intended to illustrate the difference between the genius of the old and new economies, and the danger of mixing up the one with the other.",
+            "The 'new wine' seems plainly to be the evangelical freedom which Christ was introducing; and the old, the opposite spirit of Judaism: men long accustomed to the latter could not be expected 'straightway'\u2014all at once\u2014to take a liking for the former.",
+            "What lessons does this teach, on the one hand, to those who unreasonably cling to what is getting antiquated; and, on the other, to hasty reformers who have no patience with the timidity of their weaker brethren!"
+        ],
+        "Philip Schaff": [
+            "Why do ye eat, etc. Matthew and Mark represent the objection as raised against the conduct of our Lord.\" ",
+            "But the disciples also ate with the publicans and sinners.",
+            "The result would be a protest from the Pharisees against both the Master and His disciples."
+        ],
+        "Archibald T. Robertson": [
+            "It is only the Pharisees who find fault here.",
+            "Murmured (\u03b5\u03b3\u03bf\u03b3\u03b3\u03c5\u03b6\u03bf\u03bd). Imperfect active. Picturesque onomatopoetic word that sounds like its meaning.",
+            "The crowd was so large that the feast may have been served out in the open court at Levi's house, a sort of reclining garden party."
+        ],
+        "John Gill": [
+            "They either murmured at the publicans and sinners sitting down at meat; or 'against him', as the Ethiopic version reads: either against Matthew for inviting them; or rather against Christ for sitting down with them.",
+            "The other evangelists represent these as saying, why does he, or your master, eat with such? doubtless, they included both Christ, and his disciples; though they chiefly designed him, and to bring an accusation against him, and fix a charge upon him, in order to render him odious to the people.",
+            "That is, they either murmured at the publicans and sinners sitting down at meat; or 'against him', as the Ethiopic version reads: either against Matthew for inviting them; or rather against Christ for sitting down with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verses in Luke 5:30 highlight the contrasts between the old and new economies, cautioning against the dangers of intertwining the two. The new wine represents the freedom brought by Christ, while the old wine symbolizes the spirit of Judaism. However, those accustomed to the old ways may not immediately accept the new. This serves as a lesson for those clinging to outdated traditions and for hasty reformers who lack patience. In this passage, it is only the Pharisees who find fault, exhibiting their resistance to change. The objection raised against Jesus and his disciples emphasizes the opposition to their association with publicans and sinners.",
+            "wordCount": 104,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.479317990948326,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.53,
+            "commentatorTierSimilarities": [
+                30.38,
+                31.21,
+                38.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verses reveal the difference between the old and new economies, cautioning against mixing them. The new wine signifies the freedom Christ introduced, while the old wine represents the spirit of Judaism. Those accustomed to the old ways may not immediately accept the new. This teaches a lesson to those clinging to outdated traditions and those impatient with change. The objection raised reflects the opposition to Jesus and his disciples associating with publicans and sinners, highlighting resistance to change.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.3292568982136275,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.54,
+            "commentatorTierSimilarities": [
+                33.06,
+                29.18,
+                37.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verses in question illustrate the contrast between the old and new economies, emphasizing the dangers of intertwining them. The new wine represents the evangelical freedom introduced by Christ, while the old symbolizes the opposing spirit of Judaism. Those accustomed to the old ways would not immediately embrace the new. This teaches a valuable lesson to both those who stubbornly cling to antiquated practices and those who impatiently seek rapid change. The objection raised in the passage arises from the Pharisees, demonstrating their disapproval of Jesus' association with tax collectors and sinners.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.384731765177645,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.39,
+            "commentatorTierSimilarities": [
+                33.62,
+                27.47,
+                38.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verses highlight the difference between the old and new economies, cautioning against mixing them. The new wine represents the evangelical freedom introduced by Christ, while the old symbolizes the opposing spirit of Judaism. Those accustomed to the old ways would not immediately embrace the new. This teaches a lesson to those who cling to antiquated practices and those impatient with change. The objection raised comes from the Pharisees, disapproving of Jesus' association with tax collectors and sinners.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.3946873554472299,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.72,
+            "commentatorTierSimilarities": [
+                32.74,
+                30.07,
+                37.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verses reveal the difference between the old and new economies, cautioning against mixing them. The new wine signifies the freedom Christ introduced, while the old wine represents the spirit of Judaism. Those accustomed to the old ways may not immediately accept the new. This teaches a lesson to those clinging to outdated traditions and those impatient with change. The objection raised reflects the opposition to Jesus and his disciples associating with publicans and sinners, highlighting resistance to change.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.3292568982136275,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.54,
+            "commentatorTierSimilarities": [
+                33.06,
+                29.18,
+                37.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

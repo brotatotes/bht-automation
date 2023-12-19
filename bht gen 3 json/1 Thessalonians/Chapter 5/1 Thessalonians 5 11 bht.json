@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 14:01:06",
+    "verseRef": "1 Thessalonians 5:11",
+    "bestBHT": {
+        "bht": "Let us join together to comfort one another, building each other up in faith, hope, and love. By communicating on edifying topics such as the Lord's coming and the glory of the saints, we can exhort one another to be of good heart. Paul's use of metaphors emphasizes the importance of building each other up in our faith. As children of the light, we find encouragement in the doctrine of Christ's sufferings and death, knowing that our salvation is fully accomplished through Him.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.7440150821992617,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.33,
+        "commentatorTierSimilarities": [
+            33.56,
+            29.38,
+            37.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "together: not to be joined to \u201cwith Him.\u201d 11.] Conclusion from the whole\u2014Wherefore, seeing that these things are so."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Comfort yourselves\u2014Greek, 'one another.' Here he reverts to the same consolatory strain as in 1 Thessalonians 4:18.",
+            "Edify one another\u2014rather as Greek, 'edify (ye) the one the other'; 'edify,' literally, 'build up,' namely, in faith, hope, and love.",
+            "By discoursing together on such edifying topics as the Lord's coming, and the glory of the saints."
+        ],
+        "Albert Barnes": [
+            "Wherefore comfort yourselves.\" ",
+            "And edify one another.\" ",
+            "Even as also ye do."
+        ],
+        "Marvin Vincent": [
+            "Exhort each other to be of good heart.",
+            "The metaphorical sense habitually in Paul.",
+            "Habitually in Paul."
+        ],
+        "John Calvin": [
+            "He bids them, therefore, communicate to one another what has been given them by the Lord.",
+            "He adds, that they may edify one another \u2014 that is, may confirm each other in that doctrine.",
+            "But, as we are slow to what is good, those that are the most favourably inclined of all, have always, nevertheless, need to be stimulated."
+        ],
+        "Philip Schaff": [
+            "Wherefore. There being such good grounds for hopefulness about the departed, comfort one another.",
+            "Edify. \u2018From the frequent application of the term house or temple to Christians collectively...the figure of building is naturally used to express their improvement and advancement in the life of God\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "Build each other up (\u03bf\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03b5\u03b9\u03c4\u03b5 \u03b5\u03b9\u03c2 \u03c4\u03bf\u03bd \u03b5\u03bd\u03b1). Literally, build ye, one the one (\u03b5\u03b9\u03c2 nominative in partitive apposition with unexpressed \u03c5\u03bc\u03b5\u03b9\u03c2 subject of \u03bf\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03b5\u03b9\u03c4\u03b5.\" ",
+            "Then \u03c4\u03bf\u03bd \u03b5\u03bd\u03b1 the accusative in partitive apposition with the unexpressed \u03b5\u03b1\u03c5\u03c4\u03bf\u03c5\u03c2 or \u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03c2.",
+            "Build is a favourite Pauline metaphor."
+        ],
+        "John Gill": [
+            "Either with the doctrine of the resurrection of the dead, the second coming of Christ, and the thoughts of being for ever with him, and one another...",
+            "Or with this consideration, that they were not in a state of darkness, ignorance, and infidelity, but were children of the light, and of the day...",
+            "Or with the doctrine of Christ's sufferings and death, in their room and stead, whereby the law was fulfilled, justice satisfied, their sins atoned for, pardon procured, an everlasting righteousness brought in, and their salvation fully accomplished..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Therefore, let us join together to comfort and edify one another, building each other up in faith, hope, and love. As Paul frequently uses metaphors, we are reminded to communicate with one another about topics that edify, such as the Lord's coming and the glory of the saints. In this way, we can exhort each other to be of good heart and strengthen our understanding of these profound truths. By doing so, we confirm each other in the doctrine, stimulate one another's growth, and remind ourselves that we are children of the light, not of darkness. With the assurance of Christ's sufferings and death for us, along with the hope of resurrection and eternal life, we can find comfort and encouragement in our journey of faith.",
+            "wordCount": 129,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.6633237857300007,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+            "commentatorTierSimilarities": [
+                29.86,
+                30.26,
+                39.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us comfort and edify one another, building up in faith, hope, and love. Through communication on topics that edify, like the Lord's coming and the glory of the saints, we can strengthen our understanding and encourage each other to be of good heart. Paul's metaphorical language reminds us to confirm and stimulate each other's growth. As children of the light, we find comfort in Christ's sufferings and death, along with the hope of resurrection and eternal life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.671124326045547,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "commentatorTierSimilarities": [
+                31.52,
+                31.04,
+                37.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us join together to comfort one another, building each other up in faith, hope, and love. By communicating on edifying topics such as the Lord's coming and the glory of the saints, we can exhort one another to be of good heart. Paul's use of metaphors emphasizes the importance of building each other up in our faith. As children of the light, we find encouragement in the doctrine of Christ's sufferings and death, knowing that our salvation is fully accomplished through Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7440150821992617,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.33,
+            "commentatorTierSimilarities": [
+                33.56,
+                29.38,
+                37.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us together comfort and build each other up in faith, hope, and love. Through communication on edifying topics like the Lord's coming and the glory of the saints, we can exhort one another to be of good heart. As Paul frequently uses metaphors, we are reminded to build each other up in our faith. As children of the light, we find solace in the doctrine of Christ's sufferings and death, which fulfilled the law, satisfied justice, and procured forgiveness and salvation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.696484192616178,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.75,
+            "commentatorTierSimilarities": [
+                32.42,
+                29.98,
+                37.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us comfort and edify one another, building each other up in faith, hope, and love. By communicating on edifying topics like the Lord's coming and the glory of the saints, we can encourage each other and stimulate growth. As children of the light, we find comfort in Christ's sufferings and death, knowing that salvation is accomplished through Him. Let us, therefore, join together to exhort one another, reminding ourselves of the profound truths that strengthen our faith and hope in Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7289152753327435,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                30.52,
+                30.99,
+                38.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

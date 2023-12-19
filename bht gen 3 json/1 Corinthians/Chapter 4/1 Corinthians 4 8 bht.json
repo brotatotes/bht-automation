@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:04:17",
+    "verseRef": "1 Corinthians 4:8",
+    "bestBHT": {
+        "bht": "You behave as if the trial were past, and the goal gained. He shows their unreasonableness and their exceeding folly, for in trials and troubles, all has been in common to us both. The emphasis is on 'already' and 'without us,' as you act as if ye needed no more to 'hunger and thirst after righteousness,' and as if already ye had reached the 'kingdom' for which Christians have to strive and suffer.",
+        "wordCount": 73,
+        "quoteTokenProportion": 52.0,
+        "qualityScore": 1.9160224223500473,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+        "commentatorTierSimilarities": [
+            43.34,
+            30.41,
+            26.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "You behave as if the trial were past, and the goal gained; as if hunger and thirst, after righteousness were already filled, and the Kingdom already brought in.",
+            "Any interpretation which stops short of the full meaning of the words as applied to the triumphant final state misses the force of the irony and the meaning of the latter part of the verse.",
+            "He shows their unreasonableness and their exceeding folly. In trials and troubles, he says, all has been in common to us both: but in the reward and the crown, ye are first."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The emphasis is on 'already' and 'without us'; ye act as if ye needed no more to 'hunger and thirst after righteousness,' and as if already ye had reached the 'kingdom' for which Christians have to strive and suffer.\" ",
+            "I would truly it were so, and that your kingdom had really begun.\" ",
+            "Your spiritual prosperity would redound to that of us, your fathers in Christ. When you reach the kingdom, you shall be our 'crown of rejoicing, in the presence of our Lord Jesus'."
+        ],
+        "Albert Barnes": [
+            "You think you have enough. You are satisfied with your conviction of your own knowledge, and do not feel your need of anything more.\" ",
+            "You esteem yourselves to be rich in spiritual gifts and graces, so that you do not feel the necessity of any more.\" ",
+            "You had been fully satisfied with your condition and attainments, with your knowledge and power, that you lived like rich men and princes - revelling, as it were, on spiritual enjoyments, and disdaining all foreign influence, and instruction, and control."
+        ],
+        "Marvin Vincent": [
+            "Ironical contrast between their attitude and that of the apostle in vers. 3, 4. We are hungering for further revelations; ye are already filled without waiting for the Lord's coming.",
+            "Ye have come to reign; attained to dominion, that kingship which will be bestowed on Christians only at Christ's coming.",
+            "Though it is through us that you are Christians at all."
+        ],
+        "John Calvin": [
+            "What will you attain to, when you appear to be not merely full for the present, but are also rich for the future \u2014 nay more, are kings?",
+            "What inhumanity there is in resting with self-complacency in the gifts of God, while in the meantime you despise those through whose instrumentality you obtained them!",
+            "For you can have no glorying before God, in which we have not a share \u2014 for if honor redounds to you from having the gospel of God, how much more to us, by whose ministry it was conveyed to you!"
+        ],
+        "Philip Schaff": [
+            "A fine time of it ye have had since ye were relieved of our presence; we stood in your way, we kept you in bondage, it seems; but now ye breathe more freely, and your Christianity is an easy-going thing; ye have got past the suffering, and have reached the reigning period.\" ",
+            "Would that it were so indeed, for then were it our time to reign along with you as your father in Christ; but alas, the reverse of all this we daily and bitterly feel.",
+            "There is keen irony here."
+        ],
+        "Archibald T. Robertson": [
+            "Already ye are become rich... They have got a private millennium of their own with all the blessings of the Messianic Kingdom.",
+            "Ye became kings without our company... Paul was certainly familiar with much of the literature of his time, but it did not shape his ideas.",
+            "And would at least that ye had come to reign... an unfulfilled wish about the past."
+        ],
+        "John Gill": [
+            "They fancied they had got to a perfection in knowledge and were brimful of it; and as the full stomach, from which the metaphor is taken, loathes the honeycomb, so these persons loathed the apostle's ministry, and the pure preaching of the Gospel.",
+            "they conceited themselves to be rich, and increased with goods, when they were poor, and wretched, and miserable.",
+            "these persons imagined that they had arrived to such a pitch of knowledge, as to be independent of the apostles; needed no instructions and directions from them, and were in great tranquillity and ease of mind, and attended with outward prosperity, so that they lived, as kings, the most happy life that could be desired."
+        ],
+        "John Wesley": [
+            "Now ye are full, says the apostle, in a beautiful gradation, ye are rich, ye have reigned as kings.\" ",
+            "I would ye had attained the height of holiness.\" ",
+            "Having no more sorrow on your account, but sharing in your happiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You act as if you have already achieved everything - as if you have quenched your soul's thirst for righteousness and brought about the Kingdom. It is ironic how you consider yourselves to be first in reward and glory while we, your spiritual fathers, are left behind. Oh, if only it were true! Your spiritual prosperity would bring us joy and honor in the presence of our Lord Jesus. But in reality, your attitude reflects a disregard for the hardships we face as we hunger for further revelations. You have crowned yourselves as kings, enjoying the blessings of the Messianic Kingdom without the patience and humility needed for true Christian growth. Would that you had truly come to reign, for then we could share in your glory and rejoice together. Alas, this remains an unfulfilled wish for the past.",
+            "wordCount": 139,
+            "quoteTokenProportion": 43.01,
+            "qualityScore": 1.9234878406820703,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.3,
+            "commentatorTierSimilarities": [
+                34.93,
+                36.38,
+                28.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You act as if you have already achieved everything \u2014 as if you have quenched your soul's thirst for righteousness and brought about the Kingdom. It is ironic how you consider yourselves to be first in reward and glory while we, your spiritual fathers, are left behind. Oh, if only it were true! Your spiritual prosperity would bring us joy and honor in the presence of our Lord Jesus. But in reality, your attitude reflects a disregard for the hardships we face as we hunger for further revelations.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.8969364225287495,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                34.65,
+                36.89,
+                28.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You act as if the trial were past, hunger and thirst for righteousness already filled, and the Kingdom already brought in. Your attitude reflects a disregard for the hardships we face, while you consider yourselves to be first in reward and glory. How I wish it were true! Your spiritual prosperity would bring us joy and honor. Alas, your self-complacency in your knowledge and gifts blinds you to the ongoing need for growth and humility.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8351421056627317,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                31.01,
+                39.05,
+                29.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You behave as if the trial were past, and the goal gained. Any interpretation which stops short of the full meaning of the words as applied to the final state misses the force of the irony. He shows their unreasonableness and their exceeding folly, for in trials and troubles, all has been in common to us both. The emphasis is on 'already' and 'without us,' as you act as if ye needed no more to 'hunger and thirst after righteousness,' and as if already ye had reached the 'kingdom' for which Christians have to strive and suffer.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8428727000120078,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                44.5,
+                30.66,
+                24.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "You behave as if the trial were past, and the goal gained. He shows their unreasonableness and their exceeding folly, for in trials and troubles, all has been in common to us both. The emphasis is on 'already' and 'without us,' as you act as if ye needed no more to 'hunger and thirst after righteousness,' and as if already ye had reached the 'kingdom' for which Christians have to strive and suffer.",
+            "wordCount": 73,
+            "quoteTokenProportion": 52.0,
+            "qualityScore": 1.9160224223500473,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                43.34,
+                30.41,
+                26.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

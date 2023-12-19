@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:06:41",
+    "verseRef": "1 Corinthians 7:12",
+    "bestBHT": {
+        "bht": "In addressing mixed marriages with unbelievers, Paul makes it clear that his advice comes from his apostolic office and not directly from Jesus. He advises that if the unbelieving spouse is willing to continue the marriage, the believer should not seek divorce. These marriages are still valid, and the Gospel does not dissolve the natural obligations between husband and wife. Instead, the believer should demonstrate the transformative power of their faith through kindness, tenderness, and faithfulness in the marriage.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 2.0105014751243853,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+        "commentatorTierSimilarities": [
+            33.38,
+            26.22,
+            40.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I, not the Lord, i.e. I Paul, in my apostolic office, under the authority of the Holy Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "to the rest\u2014the other classes (besides 'the married,' where both husband and wife are believers) about whom the Corinthians had inquired, namely, those involved in mixed marriages with unbelievers.",
+            "not the Lord\u2014by any direct command spoken by Him.",
+            "she be pleased\u2014Greek, 'consents': implying his wish in the first instance, with which hers concurs."
+        ],
+        "Albert Barnes": [
+            "In regard to 'the rest of the person's and cases'...I will deliver my opinion.",
+            "'I do not claim, in this advice, to be under the influence of inspiration...but I deliver my opinion as a servant of the Lord...and as having a right to offer advice...to a church which I have founded.'",
+            "Even, therefore, when there is a difference of opinion on the vital subject of religion, the tie is not dissolved; but the only effect of religion should be, to make the converted husband or wife more tender, kind, affectionate, and faithful than they were before."
+        ],
+        "Marvin Vincent": [
+            "By the rest he means married couples, one of which remained a heathen.",
+            "I, not the Lord. These cases are not included in Christ's declarations.",
+            "Be pleased [\u03c3\u03c5\u03bd\u03b5\u03c5\u03b4\u03bf\u03ba\u03b5\u03b9] . Rev., be content. Better, consent. Both the other renderings fail to express the agreement indicated by sun together."
+        ],
+        "John Calvin": [
+            "The believing party ought not to withdraw from the unbelieving party, and ought not to seek divorce, unless she is put away.",
+            "If an unbeliever put away his wife on account of religion, a brother or a sister is, by such rejection, freed from the bond of marriage.",
+            "What connection can a pious woman any longer maintain with an unbelieving husband, after she has been driven away through hatred of God?"
+        ],
+        "Archibald T. Robertson": [
+            "Paul has no word about marriage from Jesus beyond the problem of divorce. This is no disclaimer of inspiration. He simply means that here he is not quoting a command of Jesus.",
+            "The Christian husband married his wife when he himself was an unbeliever.",
+            "Let him not leave her. Perhaps here and in verses 1 Corinthians 7:11; 1 Corinthians 7:13 \u03b1\u03c6\u03b9\u03b7\u03bc should be translated 'put away' like \u03b1\u03c0\u03bf\u03bb\u03c5\u03c9 in Mark 10:1. Some understand \u03b1\u03c6\u03b9\u03b7\u03bc as separation from bed and board, not divorce."
+        ],
+        "John Gill": [
+            "Such marriages were valid, and that such persons ought to live together, and not separate on account of difference in religion.",
+            "The Gospel revelation does not dissolve the natural obligations men and women are in to one another.",
+            "Infidelity is no reason for a divorce."
+        ],
+        "John Wesley": [
+            "Let him not put her away.",
+            "The Jews...were absolutely forbid to marry idolatrous women.",
+            "They were married while they were both in a state of heathenism."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 7:12, Paul addresses the Corinthian believers who were involved in mixed marriages with unbelievers. He clarifies that his guidance comes from his role as an apostle, under the authority of the Holy Spirit, rather than directly from Jesus. Paul advises that as long as the unbelieving spouse consents to continue the marriage, the believing spouse should not seek divorce. These marriages, though different from Christ's teachings, are still valid, and the Gospel does not dissolve the natural obligations between husband and wife. The believer should remain in the marriage and strive to demonstrate the transforming power of their faith through kindness, tenderness, and faithfulness.",
+            "wordCount": 106,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.86719311765173,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
+            "commentatorTierSimilarities": [
+                39.39,
+                22.33,
+                38.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In addressing mixed marriages with unbelievers, Paul distinguishes his apostolic authority from the direct commands of Jesus. He advises that as long as the unbelieving spouse consents, the believer should not seek divorce. These marriages remain valid, and the Gospel does not dissolve the natural obligations between husband and wife. Instead, the believer should strive to demonstrate the transformative power of their faith through kindness, tenderness, and faithfulness in the marriage.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9925743948838925,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                35.09,
+                25.26,
+                39.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In discussing mixed marriages with unbelievers, Paul clarifies that his advice comes from his role as an apostle, under the authority of the Holy Spirit. He emphasizes that these cases are not covered by direct commands from Jesus. Paul advises that, if the unbelieving spouse consents, the believer should not seek divorce, as these marriages are valid and the Gospel does not dissolve natural obligations. Instead, the believer should show the transformative power of their faith through kindness, tenderness, and faithfulness in the marriage.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9125977498993905,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+            "commentatorTierSimilarities": [
+                39.26,
+                27.39,
+                33.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In addressing mixed marriages with unbelievers, Paul makes it clear that his advice comes from his apostolic office and not directly from Jesus. He advises that if the unbelieving spouse is willing to continue the marriage, the believer should not seek divorce. These marriages are still valid, and the Gospel does not dissolve the natural obligations between husband and wife. Instead, the believer should demonstrate the transformative power of their faith through kindness, tenderness, and faithfulness in the marriage.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.0105014751243853,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                33.38,
+                26.22,
+                40.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In addressing mixed marriages with unbelievers, Paul, in his apostolic office, advises that believers should not seek divorce if their unbelieving spouse consents to continue the marriage. These cases are not covered by direct commands from Jesus. Although the natural obligations between husband and wife remain unchanged by the Gospel, believers should strive to display the transformative power of their faith through kindness, tenderness, and faithfulness in these marriages. Thus, maintaining unity and demonstrating the loving influence of Christ becomes essential in such unions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7283948399391416,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.81,
+            "commentatorTierSimilarities": [
+                37.39,
+                27.1,
+                35.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

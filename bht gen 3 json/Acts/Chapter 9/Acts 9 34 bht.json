@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:28:52",
+    "verseRef": "Acts 9:34",
+    "bestBHT": {
+        "bht": "Jesus Christ, the Anointed, heals Eneas, commanding him to make his bed as evidence of his restoration. Peter acknowledges that it is the power of Christ, not his own, that brings about this healing. Eneas, who was previously dependent on others, is now able to move and care for himself, exemplifying the tremendous impact of this miraculous act. This miracle showcases the glory and authority of Jesus Christ, who instantaneously restores and empowers those who believe in him.",
+        "wordCount": 78,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 1.573655982984922,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+        "commentatorTierSimilarities": [
+            20.49,
+            42.33,
+            37.17
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "34. And Peter said unto him, Eneas,",
+            "\tJesus Christ maketh thee whole\u2014(See on :-). ",
+            "\t",
+            "make thy bed\u2014(See on",
+            "\t :-)."
+        ],
+        "Albert Barnes": [
+            "Maketh thee whole - Cures thee. Peter claimed no power to do it himself.\" ",
+            "Make thy bed - This would show that he was truly healed.",
+            "Compare Matthew 9:6; Mark 2:9, Mark 2:11; John 5:11-12."
+        ],
+        "Marvin Vincent": [
+            "Jesus the Christ; the Anointed; Messiah.",
+            "Make thy bed [\u03c3\u03c4\u03c1\u03c9\u03c3\u03bf\u03bd \u03c3\u03b5\u03b1\u03c5\u03c4\u03c9] Lit., strew for thyself.",
+            "Not, henceforth, but on the spot, as an evidence of restoration."
+        ],
+        "John Calvin": [
+            "Jesus Christ maketh thee whole. It is certain that the apostles would never have attempted the doing of miracles, unless they had been first certified of the will of God, whereupon the effect did depend.",
+            "And in these words Peter showeth plainly that he is only the minister of the miracle, and that it proceedeth from the power of Christ; that he may by this means extol the name of Christ alone.",
+            "These circumstances do amplify the glory of the miracle, in that he doth not only recover strength to rise, but is also able to make his own bed, who could move no member before."
+        ],
+        "Philip Schaff": [
+            "The language of Peter to the palsied sufferer is very different from his Master\u2019s in similar cases.",
+            "The disciple performed his miracle of mercy in the name and power of Jesus Christ.",
+            "Arise, and make thy bed. \u2018That bed of thine, which hitherto others have made for thee, poor crippled one, from henceforth, restored by the power of my Master, Jesus, make for thyself.'"
+        ],
+        "Archibald T. Robertson": [
+            "Healeth (\u03b9\u03b1\u03c4\u03b1). Aoristic present middle indicative, heals here and now.",
+            "Make thy bed (\u03c3\u03c4\u03c1\u03c9\u03c3\u03bf\u03bd \u03c3\u03b5\u03b1\u03c5\u03c4\u03c9). First aorist (ingressive) active imperative of \u03c3\u03c4\u03c1\u03c9\u03bd\u03bd\u03c5\u03bc (-\u03c5\u03c9).",
+            "Literally, spread thy bed for thyself (dative case), what others for eight years have done for thee."
+        ],
+        "John Gill": [
+            "Jesus Christ maketh thee whole.\" ",
+            "Arise, and make thy bed.\" ",
+            "He arose immediately."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus Christ, the Anointed, heals and restores Eneas, commanding him to make his own bed as a sign of his complete healing. Peter, as the minister of this miracle, recognizes that it is the power of Christ alone that brings about this wholeness. Eneas, who was once unable to move any part of his body, not only regains his strength but also demonstrates his newfound ability by creating his own bed. This is a powerful testimony to the glory of Jesus Christ, who immediately restores and empowers those who trust in him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.564706519321537,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.37,
+            "commentatorTierSimilarities": [
+                19.52,
+                40.59,
+                39.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus Christ, the Anointed, heals and restores Eneas, commanding him to make his own bed as a sign of his complete healing. Peter, as the minister of this miracle, recognizes that it is the power of Christ alone that brings about this wholeness. Eneas, who was once unable to move any part of his body, not only regains his strength but also demonstrates his newfound ability by creating his own bed. This is a powerful testimony to the glory of Jesus Christ, who immediately restores and empowers those who trust in him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.564706519321537,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.37,
+            "commentatorTierSimilarities": [
+                19.52,
+                40.59,
+                39.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus Christ, the Anointed, heals Eneas and tells him to make his bed, symbolizing his complete restoration. Peter, acting as a witness and instrument of this miracle, affirms that it is through the power of Christ that Eneas is made whole. This miraculous healing demonstrates the unparalleled authority and mercy of Jesus, as Eneas, who was previously unable to move, not only rises but also takes on the task of making his own bed. This serves as a remarkable testimony to the immediate and transformative power of faith in Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.572986046883995,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.64,
+            "commentatorTierSimilarities": [
+                18.24,
+                42.97,
+                38.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus Christ, the Anointed, heals Eneas, commanding him to make his bed as evidence of his restoration. Peter acknowledges that it is the power of Christ, not his own, that brings about this healing. Eneas, who was previously dependent on others, is now able to move and care for himself, exemplifying the tremendous impact of this miraculous act. This miracle showcases the glory and authority of Jesus Christ, who instantaneously restores and empowers those who believe in him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.573655982984922,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                20.49,
+                42.33,
+                37.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus Christ heals Eneas and instructs him to make his bed, showcasing his complete restoration. Peter recognizes that this miracle is the work of Christ's power and not his own. Eneas, previously paralyzed, demonstrates his recovery by being able to move and attend to his own bed. This exemplifies the greatness of Jesus, who not only restores but also empowers those who trust in him. This instantaneous healing serves as a powerful testimony to the authority and mercy of Jesus Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.527309739345463,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+            "commentatorTierSimilarities": [
+                20.41,
+                42.85,
+                36.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

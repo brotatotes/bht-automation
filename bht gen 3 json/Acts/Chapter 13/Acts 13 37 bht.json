@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:30:38",
+    "verseRef": "Acts 13:37",
+    "bestBHT": {
+        "bht": "Christ being raised from the dead dieth no more, death hath no more dominion over him. The word rendered 'mercies' denoting the sanctity of them, as comprehending the whole riches of the new covenant, presuppose the resurrection of Christ. An eternal kingdom was promised to David, and the Ruler of this kingdom could not remain under the power of death. As David had returned to corruption, while Jesus did not, it proves that the Messiah was to rise from the dead on the third day.",
+        "wordCount": 85,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.1189863429389053,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.8,
+        "commentatorTierSimilarities": [
+            44.94,
+            24.25,
+            30.81
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Christ being raised from the dead dieth no more, death hath no more dominion over him.",
+            "The word rendered 'mercies' is peculiar, denoting the sanctity of them, as comprehending the whole riches of the new covenant.",
+            "But how do these words prove the resurrection of Christ? 'They presuppose it; for since an eternal kingdom was promised to David, the Ruler of this kingdom could not remain under the power of death."
+        ],
+        "Albert Barnes": [
+            "Was raised without undergoing the usual change that succeeds death.",
+            "As David had returned to corruption, and the Lord Jesus had not.",
+            "It followed that this passage in Psalms 16:1-11 referred to the Messiah."
+        ],
+        "John Gill": [
+            "But he whom God raised again... saw no corruption; he did not lie so long in the grave as to corrupt and putrefy...",
+            "...was raised from the dead the third day...",
+            "...a clear proof that the Messiah was to rise from the dead, as Jesus did."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ being raised from the dead dieth no more, death hath no more dominion over him. The word rendered 'mercies' is peculiar, denoting the sanctity of them, as comprehending the whole riches of the new covenant. They presuppose the resurrection of Christ, for since an eternal kingdom was promised to David, the Ruler of this kingdom could not remain under the power of death. As David had returned to corruption, and the Lord Jesus had not, it followed that this passage in Psalms 16 referred to the Messiah. The fact that Jesus saw no corruption and was raised from the dead on the third day is a clear proof that the Messiah was to rise from the dead.",
+            "wordCount": 117,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 2.0835539272165384,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                42.0,
+                26.57,
+                31.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ being raised from the dead dieth no more, death hath no more dominion over him. The word rendered 'mercies' denotes the sanctity of them, comprehending the riches of the new covenant. They presuppose the resurrection of Christ, for since an eternal kingdom was promised to David, the Ruler of this kingdom could not remain under the power of death. As David returned to corruption and Jesus did not, it proves that the Messiah was to rise from the dead on the third day.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.0686388352058294,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+            "commentatorTierSimilarities": [
+                46.78,
+                23.41,
+                29.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ being raised from the dead dieth no more, death hath no more dominion over him. The word 'mercies' denotes the sanctity of them, comprehending the riches of the new covenant. They presuppose the resurrection of Christ since an eternal kingdom was promised to David; the Ruler of this kingdom could not remain under the power of death. As David returned to corruption, it proves that the Messiah was to rise from the dead.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.050304535504311,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.51,
+            "commentatorTierSimilarities": [
+                47.86,
+                23.67,
+                28.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ being raised from the dead dieth no more, death hath no more dominion over him. The word rendered 'mercies' denoting the sanctity of them, as comprehending the whole riches of the new covenant, presuppose the resurrection of Christ. An eternal kingdom was promised to David, and the Ruler of this kingdom could not remain under the power of death. As David had returned to corruption, while Jesus did not, it proves that the Messiah was to rise from the dead on the third day.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.1189863429389053,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.8,
+            "commentatorTierSimilarities": [
+                44.94,
+                24.25,
+                30.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ being raised from the dead dieth no more, death hath no more dominion over him. The word rendered 'mercies' denotes the sanctity of them and comprehends the riches of the new covenant. They presuppose the resurrection of Christ, for an eternal kingdom was promised to David. The Ruler of this kingdom could not stay under the power of death, as David returned to corruption while Jesus did not. Thus, it is a clear proof that the Messiah was to rise from the dead on the third day.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.9282654432307487,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                42.83,
+                24.61,
+                32.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:05:47",
+    "verseRef": "1 Corinthians 6:17",
+    "bestBHT": {
+        "bht": "The believer's union with God is one of the deepest spiritual connections described in the Bible. Described as being one spirit with Christ, this intimate bond goes beyond physical union and sanctifies both body and spirit. This connection is of utmost importance and should not be taken lightly or severed by becoming entangled with immoral relationships. As believers, we should value and cherish this profound communion with the Lord, as it surpasses any earthly connection we may have.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.1946154629209955,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.31,
+        "commentatorTierSimilarities": [
+            40.66,
+            28.87,
+            30.47
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Union to God, His service, His ways, is often expressed by this word... that inner union with Christ in spirit is meant.\" ",
+            "The normal state of every believer, and of which it may be said that he is one spirit with Christ.\" ",
+            "The inner verity of that mystical relation is the ground of both passages."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In the case of union with a harlot, the fornicator becomes one 'body' with her... But the believer not only has his body sanctified by union with Christ's body, but also becomes 'one spirit' with Him.\" ",
+            "The believer not only has his body sanctified by union with Christ's body, but also becomes 'one spirit' with Him.\" ",
+            "But the believer not only has his body sanctified by union with Christ's body, but also becomes 'one spirit' with Him."
+        ],
+        "Albert Barnes": [
+            "As the union of souls is more important than that of bodies; as that union is more lasting, dear, and enduring than any union of body with body can be, and as our union with him is with a Spirit pure and holy, it is improper that we should sever that tie, and break that sacred bond, by being joined to a harlot.",
+            "The union with Christ is more intimate, entire, and pure than that can be between a man and woman; and that union should be regarded as sacred and inviolable.",
+            "O, if all Christians felt and regarded this as they should, how would they shrink from the connections which they often form on earth!"
+        ],
+        "John Calvin": [
+            "Our connection with Christ is closer than that of a husband and wife.",
+            "The former must be maintained with the utmost chastity and fidelity.",
+            "Believers are not merely one flesh with Christ, but also one spirit."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 6:17. But he that is joined unto the Lord is one spirit becomes by that union partaker of a life in common with the Lord, spiritual and imperishable.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "One spirit (\u03b5\u03bd \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1). With the Lord, the inner vital spiritual union with the Lord Jesus (Ephesians 4:4; Ephesians 5:30). "
+        ],
+        "John Gill": [
+            "His whole person, soul and body, is united to the Lord Jesus Christ, to his whole person, as God-man and Mediator.",
+            "The ground, foundation, and bond of which union is, not the Spirit on Christ's part...nor faith on our part...but it is the everlasting and unchangeable love of Christ to them.",
+            "By virtue and in consequence of it, God's chosen ones come to have and enjoy the same spirit in measure, which Christ their head and Mediator has without measure."
+        ],
+        "John Wesley": [
+            "But he that is joined to the Lord \u2014 By faith.",
+            "Is one spirit with him \u2014 And shall he make himself one flesh with an harlot?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers are called to a deep, spiritual union with God, a oneness of spirit with Christ. This inner union is the very essence of our relationship with Him. Just as the body of a believer is sanctified through this union, so too is the believer's spirit. This powerful bond should not be taken lightly, and we should guard against any actions that may break or undermine this sacred connection. Our union with Christ is more intimate and enduring than any earthly relationship, and it is our responsibility to honor and cherish it. Let us, therefore, seek to maintain chastity and faithfulness in our union with the Lord, always mindful of the profound spiritual oneness we share with Him.",
+            "wordCount": 119,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.246155546911896,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.03,
+            "commentatorTierSimilarities": [
+                42.88,
+                26.39,
+                30.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are called to a deep, spiritual union with God, often expressed as being one spirit with Christ. This inner unity is the fundamental reality of our relationship with Him. It is a bond that surpasses any physical union, and it sanctifies both our bodies and spirits. We should hold this sacred connection in high regard, avoiding any actions that would sever it. Our union with Christ is a cherished and lasting bond, far superior to any earthly relationship. Let us strive to honor and maintain this oneness with the Lord.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0192227165670813,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.48,
+            "commentatorTierSimilarities": [
+                41.66,
+                26.03,
+                32.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are called to a deep, spiritual union with God. This inner union, expressed as being one spirit with Christ, is the core of our relationship with Him. It not only sanctifies our bodies but also unites our spirits with His. The significance of this connection is immeasurable and should not be taken lightly. We must treasure and protect this sacred bond, valuing it above any earthly relationship. Let us strive to live in a manner that honors and nurtures this divine oneness with the Lord.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.0188105698311,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.47,
+            "commentatorTierSimilarities": [
+                42.31,
+                24.49,
+                33.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believer's union with God is one of the deepest spiritual connections described in the Bible. Described as being one spirit with Christ, this intimate bond goes beyond physical union and sanctifies both body and spirit. This connection is of utmost importance and should not be taken lightly or severed by becoming entangled with immoral relationships. As believers, we should value and cherish this profound communion with the Lord, as it surpasses any earthly connection we may have.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.1946154629209955,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.31,
+            "commentatorTierSimilarities": [
+                40.66,
+                28.87,
+                30.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believer's union with God, expressed as being one spirit with Christ, is a sacred and profound connection. This inner bond is more than just a physical union, as it sanctifies both body and spirit. We must not break or undermine this deep relationship by involving ourselves in immoral associations. As believers, we should hold this union in high regard, for it surpasses any earthly connection. Let us value and preserve this spiritual unity with the Lord, honoring the special and lasting bond we share with Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1827195290142756,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.92,
+            "commentatorTierSimilarities": [
+                41.81,
+                27.75,
+                30.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

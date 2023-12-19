@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:23:54",
+    "verseRef": "Luke 23:40",
+    "bestBHT": {
+        "bht": "In this scene, one of the criminals being crucified alongside Jesus calls out the other for mocking Him. He asks the man if he does not fear God, considering their imminent judgment and impending punishment. The penitent criminal recognizes his own sinfulness and acknowledges the innocence of Jesus, affirming His role as the Messiah. This powerful encounter demonstrates the surprising repentance, faith, and the transformative power of God's grace, while also cautioning against delaying repentance until the last moments of life.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.8395672410157276,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.51,
+        "commentatorTierSimilarities": [
+            25.15,
+            42.03,
+            32.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What should a Gentile know of Paradise, or of the kingdom of the Messiah as about to come?",
+            "The silence of the penitent is broken by the us of the other compromising him in the scoff.",
+            "Dost thou too not fear God? (as thou oughtest to do) seeing that...."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let others jeer, but dost thou?",
+            "Thou art within an hour or two of eternity, and dost thou spend it in reckless disregard of coming judgment?",
+            "Doth even a common lot kindle no sympathy in thy breast?"
+        ],
+        "Albert Barnes": [
+            "God is just, and you are hastening to his bar, and you should, therefore, fear him, and fear that he will punish you for railing on this innocent man.",
+            "Condemnation to death; not death for the same thing, but the same 'kind' of death."
+        ],
+        "John Calvin": [
+            "First, then, a remarkable instance of the grace of God shines in the conversion of that man.",
+            "And so much the more excellent is this grace, that it came beyond the expectation of all.",
+            "Those whom punishments do not train to humility do altogether resist God."
+        ],
+        "Philip Schaff": [
+            "The reason he ought to fear God is: seeing thou art in the same condemnation, i.e., with this One whom you are railing at.",
+            "He thus recognizes the fact that Jesus is crucified as a sinner, going on to confess that he was himself a sinner, but the One who hung beside him altogether innocent.",
+            "This recognition of Christ in the place of a sinner must not be overlooked in considering the faith of the penitent robber."
+        ],
+        "Archibald T. Robertson": [
+            "Rebuking (\u03b5\u03c0\u03b9\u03c4\u03b9\u03bc\u03c9\u03bd). From what Mark and Matthew say both robbers sneered at Jesus at first, but this one came to himself and turned on his fellow robber in a rage.",
+            "Dost thou not even fear God? (\u039f\u03c5\u03b4\u03b5 \u03c6\u03bf\u03b2\u03b7 \u03c4\u03bf\u03bd \u03b8\u03b5\u03bf\u03bd;). \u039f\u03c5\u03b4\u03b5 here goes with the verb.",
+            "Both of you will soon appear before God. Jesus has nothing to answer for and you have added this to your other sins."
+        ],
+        "John Gill": [
+            "Neither dost thou fear God, any more than these priests, people, and soldiers, that are acting such a barbarous and inhuman part to a man in misery.",
+            "Wilt thou do the same, and show that thou art an impious wretch, now thou art just going out of the world, and neither fears God, nor regards man, and art without compassion to a fellow sufferer, adding sin to sin.",
+            "Seeing thou art in the same condemnation? undergoing the same sort of punishment, though not on the same account, which might be the reason why they suffered on the same day."
+        ],
+        "John Wesley": [
+            "What a surprising degree was here of repentance, faith, and other graces!",
+            "This shows the power of Divine grace.",
+            "But it encourages none to put off their repentance to the last hour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, one of the criminals crucified with Jesus rebukes the other for mocking Him. He questions the man's lack of fear for God, reminding him of the impending judgment. The penitent criminal recognizes his own sinfulness and the innocence of Jesus, acknowledging Him as the rightful Messiah. He understands that they are both facing the same punishment, but for different reasons. This exchange highlights the remarkable grace of God in the conversion of the penitent criminal and serves as a powerful example of repentance, faith, and the power of Divine grace. It also serves as a warning not to delay repentance until the last hour.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.6972632777478007,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                24.17,
+                40.95,
+                34.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this scene, one of the crucified criminals rebukes the other for mocking Jesus. He questions the man's lack of fear for God, reminding him of the impending judgment. The penitent criminal recognizes his sinfulness and the innocence of Jesus, acknowledging Him as the rightful Messiah. This exchange highlights the remarkable grace of God in the conversion of the criminal and serves as a powerful example of repentance, faith, and the power of Divine grace. It also serves as a warning not to delay repentance until the last hour.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7241555343637778,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                24.2,
+                40.53,
+                35.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this scene, as Jesus is being crucified, one of the criminals acknowledges his own sinfulness and rebukes the other for mocking Jesus. He questions the man's disregard for God and highlights the imminent judgment they both face. This exchange showcases the remarkable grace of God in the conversion of the penitent criminal and demonstrates the power of Divine grace in bringing about repentance and faith. It serves as a poignant reminder not to delay seeking forgiveness until the last moments of life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.6822404537505729,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.28,
+            "commentatorTierSimilarities": [
+                23.63,
+                39.36,
+                37.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this scene, one of the criminals being crucified alongside Jesus calls out the other for mocking Him. He asks the man if he does not fear God, considering their imminent judgment and impending punishment. The penitent criminal recognizes his own sinfulness and acknowledges the innocence of Jesus, affirming His role as the Messiah. This powerful encounter demonstrates the surprising repentance, faith, and the transformative power of God's grace, while also cautioning against delaying repentance until the last moments of life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8395672410157276,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.51,
+            "commentatorTierSimilarities": [
+                25.15,
+                42.03,
+                32.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus is crucified, one of the criminals joins in mocking Him, while the other rebukes him for his lack of fear for God. The penitent criminal recognizes his sinfulness and acknowledges the innocence of Jesus, confessing Him as the Messiah. This exchange showcases the remarkable grace of God in the conversion of the criminal and exemplifies repentance, faith, and the power of Divine grace. It serves as a cautionary reminder not to delay seeking forgiveness until the last moments of life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.7432541476507564,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.31,
+            "commentatorTierSimilarities": [
+                22.97,
+                42.71,
+                34.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

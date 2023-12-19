@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:23:05",
+    "verseRef": "Luke 22:49",
+    "bestBHT": {
+        "bht": "The disciples, not fully grasping the mind of Christ in the matter, questioned whether they should use a sword, unaware of what would unfold. With two swords already in their possession, they were prepared to defend Jesus. However, their understanding was limited, and they did not fully comprehend the significance of the situation. Jesus, knowing what would follow, did not call for violence but fulfilled the Scriptures through His sacrifice, revealing the disciples' misconception and the need for His divine plan to be completed.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.2297779088507392,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.23,
+        "commentatorTierSimilarities": [
+            24.95,
+            30.73,
+            44.32
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Saw what would follow. They not only wake up, but wake to an understanding of the case.",
+            "Lord, shall we smite with the sword? In the same spirit as the occurrence of Luke 22:38."
+        ],
+        "Archibald T. Robertson": [
+            "What would follow.",
+            "Shall we smite with a sword?",
+            "They had the two swords already mentioned."
+        ],
+        "John Gill": [
+            "This they said, not being thoroughly acquainted with the mind of Christ in this matter, whether they should use the temporal sword or not...",
+            "...and might choose to show this forwardness to stand by him, and defend him, remembering how lately they had said, that though they died with him, they would not deny him...",
+            "...and might be the more spirited up to this, by observing, that the men fell backwards to the ground, upon Christ's saying that he was the person they sought; at least their dependence was upon the exertion of his almighty power..."
+        ],
+        "John Wesley": [
+            "Seeing what would follow \u2014 That they were just going to seize him. Matthew 26:51; Mark 14:47."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Not fully understanding the mind of Christ in the matter, the disciples questioned, Shall we smite with a sword? They were aware of the two swords mentioned earlier and were ready to defend Jesus. However, they were not yet awakened to the true nature of the situation. They did not grasp that Jesus was not calling for violence, but rather had foreseen what would happen next. This incident highlights their misunderstanding of Christ's mission and the need for him to fulfill the Scriptures.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.1829896145398107,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.68,
+            "commentatorTierSimilarities": [
+                26.31,
+                32.42,
+                41.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Misunderstanding the mind of Christ, the disciples questioned whether they should strike with a sword, not fully comprehending the nature of the situation. They were prepared to defend Jesus, having two swords at their disposal. However, their understanding was limited, and they were not yet awakened to the truth. Jesus foresaw what would follow and knew that violence was not the solution. This incident illustrates the disciples' confusion and highlights the need for Christ to fulfill the Scriptures.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.1634566006437443,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.03,
+            "commentatorTierSimilarities": [
+                27.37,
+                30.86,
+                41.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Not fully comprehending the situation, the disciples inquired about the course of action, wondering if they should strike with a sword. Having two swords already, they were prepared to defend Jesus. However, their understanding was limited, and they did not fully grasp the mind of Christ in this matter. Their eagerness to stand by Jesus and their reliance on His almighty power may have influenced their questioning. Yet, Jesus, foreseeing the events that would follow, did not call for violence but fulfilled the Scriptures through His sacrifice.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.2198144179161,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.9,
+            "commentatorTierSimilarities": [
+                24.27,
+                32.3,
+                43.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, not fully grasping the mind of Christ in the matter, questioned whether they should use a sword, unaware of what would unfold. With two swords already in their possession, they were prepared to defend Jesus. However, their understanding was limited, and they did not fully comprehend the significance of the situation. Jesus, knowing what would follow, did not call for violence but fulfilled the Scriptures through His sacrifice, revealing the disciples' misconception and the need for His divine plan to be completed.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.2297779088507392,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.23,
+            "commentatorTierSimilarities": [
+                24.95,
+                30.73,
+                44.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, not fully comprehending the situation, questioned whether they should strike with a sword, despite already having two swords. Their lack of understanding regarding the mind of Christ in this matter is evident. Jesus, aware of what would follow, did not endorse violence. Rather, He fulfilled the Scriptures through His sacrificial path. This incident reveals the disciples' limited understanding and highlights the necessity for Jesus to carry out His predetermined plan.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.099524180871625,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.9,
+            "commentatorTierSimilarities": [
+                23.9,
+                33.36,
+                42.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

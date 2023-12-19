@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:27:18",
+    "verseRef": "Acts 6:1",
+    "bestBHT": {
+        "bht": "A division between the Hellenists and the Hebrews emerged in the early Church, with murmuring and complaints arising as the Hellenist widows were neglected. The Hellenists were Greek-speaking Jews, while the Hebrews were Jews born in Palestine. The discord highlighted the tension between those who adhered strictly to Hebrew customs and those who embraced broader Greek views. However, this challenge presented an opportunity for the apostles to address the oversight and establish a system of care for all widows, fostering unity and justice within the Church.",
+        "wordCount": 87,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.9132862763345837,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+        "commentatorTierSimilarities": [
+            34.88,
+            36.51,
+            28.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Hellenists were the Grecian Jews: not only those who were themselves proselytes, nor only those who came of families once proselytized,\u2014but all who, on account of origin or habitation, spoke Greek as their ordinary language, and used ordinarily the LXX version.",
+            "The use of this appropriate word shews, I think, that Olshausen\u2019s supposition, that the term, their widows, implies all their poor, is not correct. Those poor who could attend for themselves and represent their case, were served: but the widows, who required more searching out at their own houses, were overlooked.",
+            "Some have argued from this, that there must have been \u2018deacons\u2019 before: and that those now elected (see below on their names) were only for the service of the Hellenistic Jews. But I should rather believe that the Apostles had as yet, by themselves or by non-official deputies, performed the duty."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the Grecians\u2014the Greek-speaking Jews, mostly born in the provinces.",
+            "the Hebrews\u2014those Jews born in Palestine who used their native tongue, and were wont to look down on the 'Grecians' as an inferior class.",
+            "It was really just an emulation of love, each party wishing to have their own poor taken care of in the best manner."
+        ],
+        "Albert Barnes": [
+            "It has never been found to be wise that the temporal affairs of the church should be entrusted in any considerable degree to the clergy, and they should be freed from such sources of difficulty and embarrassment.",
+            "Dissensions would be very likely to arise between these two classes of persons. The Jews of Palestine would pride themselves much on the fact that they dwelt in the land of the patriarchs and the land of promise... On the other hand, the Jews from other parts of the world would be suspicious, jealous, and envious of their brethren.",
+            "The property which had been contributed, or thrown into common stock, was understood to be designed for the equal benefit of 'all' the poor, and particularly, it would seem, for the poor widows."
+        ],
+        "Marvin Vincent": [
+            "Grecians might easily be understood of Greeks in general. The word Hellenists denotes Jews, not Greeks, but Jews who spoke Greek.",
+            "Hebrew is the proper antithesis to Hellenist. A man was 'Ioudaiov, a Jew, who traced his descent from Jacob, and conformed to the religion of his fathers.",
+            "The distinction between Hebrew and Hellenist was a distinction within the Jewish nation, and not between it and other nations."
+        ],
+        "John Calvin": [
+            "We learn in this history that the Church cannot be so framed by and by, but that there remain somewhat to be amended; neither can so great a building be so finished in one day, that there may not something be added to make the same perfect.",
+            "That was, indeed, a godly order, whereof Luke made mention before, when the goods of all men being consecrated to God, were distributed to every man as he had need; when as the apostles, being, as it were, the stewards of God and the poor, had the chief government of the alms.",
+            "We must also mark the subtilty of Satan, who, to the end he may take from us the use of the gifts of God, goeth about this continually, that it may not remain pure and sound; but that, being mixed with other discommodities, it may, first, be suspected, secondly, loathed, and, lastly, quite taken away."
+        ],
+        "Philip Schaff": [
+            "The distinction between the Grecians and the Hebrews was not one of nationality, but of language.",
+            "There is no doubt that the real cause of these 'murmurings' which disturbed the peace of the early Church, must be sought for in the jealousy which always existed between the Jews who, with the ancient language, had preserved more rigidly the old customs and tone of Hebrew thought, and the Grecian or foreign Jews who, with the Greek language, had adopted broader and less rigid views generally.",
+            "The adoption of Christianity does not seem to have welded together these two great divisions of the people. As years went on, the schism even appears to have widened."
+        ],
+        "Archibald T. Robertson": [
+            "The new freedom from the intercession of Gamaliel was bearing rich fruit.",
+            "A murmuring of the Grecian Jews... These 'Grecian Jews' or Hellenists are members of the church in Jerusalem who are Jews from outside of Palestine like Barnabas from Cyprus.",
+            "Women and money occasion the first serious disturbance in the church life. There was evident sensitiveness that called for wisdom."
+        ],
+        "John Gill": [
+            "This increase of the disciples agrees with what Maimonides says, before observed, that 'in the days of Gamaliel, the heretics were multiplied in Israel.'",
+            "Between these two a murmuring arose, a complaint was made by one against the other: so that, it is also manifest, that though they were at first so united and harmonious in their affections and judgments, yet they were not always clear of feuds, animosities, and contentions.",
+            "The reason of this uneasiness was, because their widows were neglected in the daily ministration; that is, they had not that distributed which was necessary for them, nor so much as the Hebrew widows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 6:1, we see a division arise within the early Church between the Hellenists and the Hebrews. The Hellenists were Greek-speaking Jews who came from different regions, while the Hebrews were Jews born in Palestine who held their native language in high regard. This division caused murmuring and complaints, particularly because the widows of the Hellenists were being overlooked in the daily distribution of resources. The underlying issue stemmed from the longstanding tension between the Jews who adhered more strictly to Hebrew customs and those who had adopted broader Greek views. However, it is important to note that this disturbance did not undermine the unity and love that characterized the early Church as a whole. Rather, it served as an opportunity for the apostles to address and rectify an oversight, ultimately leading to the appointment of deacons to ensure that all the widows, both Hebrew and Hellenist, would be cared for equally. This incident serves as a reminder that even in the early stages of the Church, there were challenges to be faced and improvements to be made, but through the guidance of the apostles and the wisdom of God, unity and justice were restored.",
+            "wordCount": 196,
+            "quoteTokenProportion": 35.65,
+            "qualityScore": 1.9015700371690594,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                30.52,
+                37.34,
+                32.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A division between the Hellenists and the Hebrews arose in the early Church, leading to murmuring and complaints. The Hellenists were Greek-speaking Jews from various regions, while the Hebrews were Jews born in Palestine. The distinction between the two groups was not based on nationality but language. The murmuring stemmed from the neglect of the Hellenist widows in the daily distribution of resources. However, this incident allowed for the appointment of deacons to address the issue and ensure equal care for all widows.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7226267416168768,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                34.29,
+                38.01,
+                27.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A division between the Hellenists and the Hebrews emerged in the early Church, with murmuring and complaints arising as the Hellenist widows were neglected. The Hellenists were Greek-speaking Jews, while the Hebrews were Jews born in Palestine. The discord highlighted the tension between those who adhered strictly to Hebrew customs and those who embraced broader Greek views. However, this challenge presented an opportunity for the apostles to address the oversight and establish a system of care for all widows, fostering unity and justice within the Church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.9132862763345837,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                34.88,
+                36.51,
+                28.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the early Church, a division emerged between the Hellenists, Greek-speaking Jews from different regions, and the Hebrews, Jews born in Palestine. This division led to murmuring and complaints, particularly because the widows of the Hellenists were being overlooked. The underlying tension between those who adhered strictly to Hebrew customs and those who embraced broader Greek views contributed to this discord. However, the apostles addressed the issue by appointing deacons and ensuring equal care for all widows, restoring unity and justice within the Church.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8822399393781277,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                32.78,
+                38.19,
+                29.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The early Church faced a division between the Hellenists, Greek-speaking Jews from various regions, and the Hebrews, Jews born in Palestine. This division caused murmuring and complaints, particularly as the widows of the Hellenists were neglected in the daily distribution of resources. The tension stemmed from the differences in language, customs, and perspectives between these two groups. Nevertheless, the apostles addressed this issue by appointing deacons to ensure the equitable care of all widows and restore unity and harmony within the Church.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7031003343150481,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.97,
+            "commentatorTierSimilarities": [
+                31.8,
+                38.53,
+                29.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

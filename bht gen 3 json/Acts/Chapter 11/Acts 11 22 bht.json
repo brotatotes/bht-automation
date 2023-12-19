@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:30:00",
+    "verseRef": "Acts 11:22",
+    "bestBHT": {
+        "bht": "Barnabas, a 'Grecian' of Cyprus and 'a son of consolation,' was chosen for a mission of inquiry to investigate the admission of the uncircumcised into the church. The church in Jerusalem sent him to Antioch to support the disciples and provide their endorsement. Along the way, Barnabas had the opportunity to visit other churches. His efforts played a crucial role in spreading the Gospel and establishing the church in Antioch.",
+        "wordCount": 70,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.875558159686029,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+        "commentatorTierSimilarities": [
+            29.45,
+            40.3,
+            30.25
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His mission does not seem exactly to have been correspondent to that of Peter and John...but more probably, from what follows, the intention was to ascertain the fact and to deter these persons from the admission of the uncircumcised into the church.\" ",
+            "The choice of such a man, one by birth with the agents, and of a liberal spirit, shows sufficiently that they wished to deal, not harshly, but gently and cautiously.\" ",
+            "Whatever their reason was."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sent . . . Barnabas . . . as far as Antioch\u2014implying that even on the way to Antioch he found churches to visit.\" ",
+            "It was in the first instance, no doubt, a mission of inquiry.\" ",
+            "No one could be more suitable to inquire into the proceedings of those Cyprians and Cyrenians than one who was himself a 'Grecian' of Cyprus and 'a son of consolation'."
+        ],
+        "Albert Barnes": [
+            "The church at Jerusalem heard of this...and excite deep interest there.",
+            "They sent forth...to aid the disciples there, and to give them their sanction.",
+            "He was a native of Cyprus, and was probably well acquainted with Antioch...especially qualified for the work on which they sent him."
+        ],
+        "John Calvin": [
+            "Forasmuch as God had by evident signs declared that no nation ought to be counted profane.",
+            "So soon as he seeth a gate set open for the gospel, he endeavorth by all means to corrupt that which is sincere, [pure;] whereby it came to pass that divers heresies brake out together with Christ\u2019s doctrine.",
+            "To conclude, Barnabas was sent to bring them farther forward in the principles of faith; to set things in some certain order; to give the building which was begun some form, that there might be a lawful state of the Church."
+        ],
+        "Philip Schaff": [
+            "Tidings of these things came into the ears of the Church which was in Jerusalem.",
+            "They sent forth Barnabas... the man who was best known among them for large-heartedness and generosity of character.",
+            "If we follow the received text, the Greek seems to imply that Barnabas was to exercise his mission on the way, along the Phoenician coast-road, where the Gospel had been preached as well as at Antioch."
+        ],
+        "Archibald T. Robertson": [
+            "Came to the ears (\u03b7\u03ba\u03bf\u03c5\u03c3\u03b8\u03b7 \u03b5\u03b9\u03c2 \u03c4\u03b1 \u03c9\u03c4\u03b1). First aorist passive indicative of \u03b1\u03ba\u03bf\u03c5\u03c9, was heard in the ears.",
+            "The choice of Barnabas was eminently wise.",
+            "He was to investigate the work of the travelling preachers (verse Acts 11:19) all the way to Antioch (\u03b5\u03c9\u03c2 \u0391\u03bd\u03c4\u03b9\u03bf\u03c7\u03b5\u03b9\u03b1\u03c2)."
+        ],
+        "John Gill": [
+            "Notwithstanding the persecution raised against the church of Jerusalem at the death of Stephen, and the havoc that was made of the members of it, and the dispersion of others, yet it still continued a church.",
+            "And they sent forth Barnabas...who had received the Gospel to confirm them in it.",
+            "...since which time the city has underwent various fates, being sometimes in the hands of the Christians, and at other times possessed by the Turks, in whose power it now is."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Being sent to investigate the proceedings of the church and to deter the admission of the uncircumcised into it, Barnabas was a wise choice for the mission. Not only was he a son of consolation and a native of Cyprus, making him suitable to inquire into the activities of the Cyprians and Cyrenians, but he was also known for his generous and liberal spirit. His journey to Antioch was not only a mission of inquiry, but also an opportunity for him to visit churches along the way. The church in Jerusalem heard of this and sent Barnabas to provide aid and give their sanction to the disciples in Antioch. Thanks to Barnabas, the Gospel could be further advanced and the fledgling church in Antioch could be established.",
+            "wordCount": 127,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.9285640482619986,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                32.86,
+                39.74,
+                27.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Barnabas was chosen to investigate and discourage the admission of the uncircumcised into the church. His mission served as a means to inquire into the proceedings of the Cyprians and Cyrenians. As a 'Grecian' of Cyprus and known as a 'son of consolation,' Barnabas was well-suited for this task. He was sent not only to Antioch but also to other churches along the way. The church in Jerusalem was deeply interested in the tidings that reached their ears, prompting them to send Barnabas to provide support and give their endorsement to the disciples in Antioch. Through Barnabas' efforts, the Gospel could flourish and the fledgling church in Antioch could be established.",
+            "wordCount": 112,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.8823947757764983,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                32.12,
+                40.46,
+                27.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Barnabas was chosen for a mission of inquiry, to investigate the admission of the uncircumcised into the church. His role as a 'Grecian' of Cyprus and 'a son of consolation' made him highly suitable for this task. The church in Jerusalem heard of these developments, prompting them to send Barnabas to Antioch to aid the disciples and provide their approval. His journey to Antioch also presented an opportunity for him to visit other churches along the way. Through Barnabas' efforts, the Gospel could be promoted and the establishment of the church in Antioch furthered.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.788852249676439,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                30.41,
+                41.0,
+                28.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Barnabas was chosen for a mission of inquiry, to investigate the admission of the uncircumcised into the church. As a 'Grecian' of Cyprus and 'a son of consolation,' he was an excellent candidate for this task. The church in Jerusalem sent him to Antioch to aid the disciples and provide their endorsement. His journey to Antioch also allowed him to visit other churches along the way. Through Barnabas' efforts, the Gospel could be advanced and the fledgling church in Antioch could be established.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.8509006511847668,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+            "commentatorTierSimilarities": [
+                31.46,
+                40.3,
+                28.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Barnabas, a 'Grecian' of Cyprus and 'a son of consolation,' was chosen for a mission of inquiry to investigate the admission of the uncircumcised into the church. The church in Jerusalem sent him to Antioch to support the disciples and provide their endorsement. Along the way, Barnabas had the opportunity to visit other churches. His efforts played a crucial role in spreading the Gospel and establishing the church in Antioch.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.875558159686029,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                29.45,
+                40.3,
+                30.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

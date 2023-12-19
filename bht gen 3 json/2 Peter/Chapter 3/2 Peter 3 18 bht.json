@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:41:01",
+    "verseRef": "2 Peter 3:18",
+    "bestBHT": {
+        "bht": "But grow in grace and in the knowledge of our Lord and Savior Jesus Christ. Let us not only avoid falling away, but grow onward, for the true secret of not going backward lies in our continuous advancement. It is through the grace of Christ, the knowledge of which He is the object, that we can thrive on our journey until the day of eternity, the day that has no end. Therefore, let us keep up our growth, both in grace and in the knowledge of our Lord and Savior Jesus Christ.",
+        "wordCount": 92,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8173186735454347,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+        "commentatorTierSimilarities": [
+            28.96,
+            37.76,
+            33.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "grow\u2014Not only do not 'fall from' (2 Peter 3:17), but grow onward: the true secret of not going backward.\" ",
+            "grace and . . . knowledge of . . . Christ\u2014'the grace and knowledge of Christ' [ALFORD rightly]: the grace of which Christ is the author, and the knowledge of which Christ is the object.",
+            "for ever\u2014Greek, 'to the day of eternity': the day that has no end: 'the day of the Lord,' beginning with the Lord's coming."
+        ],
+        "Albert Barnes": [
+            "Religion in general is often represented as 'grace,' since every part of it is the result of grace, or of unmerited favor; and to 'grow in grace' is to increase in that which constitutes true religion.",
+            "There is no piety in the world which is not the result of cultivation, and which cannot be measured by the degree of care and attention bestowed upon it.",
+            "To know the Lord Jesus Christ - to possess just views of his person, character, and work - is the sum and essence of the Christian religion."
+        ],
+        "John Calvin": [
+            "But grow in grace. He also exhorts us to make progress; for it is the only way of persevering, to make continual advances, and not to stand still in the middle of our journey.",
+            "To him be glory. This is a remarkable passage to prove the divinity of Christ; for what is said cannot belong to any but to God alone.",
+            "'Grace' is the attainment, and 'the knowledge' of Christ is the way and means. The chief thing is often mentioned first in Scripture, then that which leads to it: or the cause of it."
+        ],
+        "Philip Schaff": [
+            "But grow in grace and in the knowledge of our Lord and Saviour Jesus Christ.",
+            "The great duty finally urged is thus the duty of progress, and that in two particular articles, namely, the gracious life or the Christian graces generally, and that special grace of a personal knowledge of Christ.",
+            "The final Amen, which is retained by the R. V., is of very doubtful authority. The idea of eternity is expressed here by an altogether singular phrase, which means literally 'unto the day of the eon,' and which may be chosen to denote the beginning of the new, the eternal age."
+        ],
+        "Archibald T. Robertson": [
+            "But grow...in contrast with such a fate...\",.",
+            "Grow in both. Keep it up.",
+            "Unto the day of eternity."
+        ],
+        "John Gill": [
+            "And though men are to be thankful for their gifts, and be contented with them, yet they may lawfully desire more, and in the use of means seek an increase of them.",
+            "There is such a thing as growth in grace, in this sense; every grace, as to its act and exercise, is capable of growing and increasing.",
+            "Nothing can be a greater security against error than an experimental growing knowledge of Christ."
+        ],
+        "John Wesley": [
+            "But 'if ye through the Spirit do mortify the deeds of the body,' (only so far as we do this,) 'ye shall live' the life of faith, holiness, happiness.",
+            "The strength and well-being of a Christian depend on what his soul feeds on, as the health of the body depends on whatever we make our daily food.",
+            "It is easy to satisfy ourselves without being possessed of the holiness and happiness of the gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But grow in grace and in the knowledge of our Lord and Savior Jesus Christ. Let us not only avoid falling away, but let us continue to advance and increase in the true secret of not going backward. It is through the grace of Christ, the author of our growth, and the knowledge of Christ, the object of our growth, that we can truly thrive on our journey. This growth is not a temporary endeavor, but a continuous progression unto the day of eternity, unto the eternal age. So, let us persistently cultivate our piety, for there is no true religion without cultivation, and let us strive to know the Lord Jesus Christ more deeply, for such knowledge is the essence of the Christian faith.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.719035873893978,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.5,
+            "commentatorTierSimilarities": [
+                27.07,
+                39.37,
+                33.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But grow in grace and in the knowledge of our Lord and Savior Jesus Christ. Let us not only avoid falling away, but let us continue to advance and increase in the true secret of not going backward. It is through the grace and knowledge of Christ that we can truly thrive on our journey. This growth is not a temporary endeavor, but a continuous progression unto the day of eternity, unto the eternal age. So, let us persistently cultivate our piety and strive to know the Lord Jesus Christ more deeply.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6737414504814645,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                26.09,
+                39.42,
+                34.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Grow in grace and in the knowledge of our Lord and Savior Jesus Christ, urging us to make progress and avoid stagnation. The true secret is to not go backward but to continuously advance. By embracing the grace of Christ and deepening our knowledge of Him, we can flourish on our journey. This growth is not temporary but lasting until the day of eternity, the eternal age. Therefore, let us continuously cultivate our piety and seek a greater understanding of the Lord Jesus Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.6173981178179033,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "commentatorTierSimilarities": [
+                29.93,
+                36.68,
+                33.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "But grow in grace and in the knowledge of our Lord and Savior Jesus Christ. Advance forward and avoid falling away. Embrace the grace bestowed by Christ and seek to know Him more deeply. This growth is not temporary, but a continuous progression towards the day of eternity, the eternal age. Let us cultivate our piety and strive for a greater understanding of the Lord Jesus Christ, for such knowledge is the essence of our Christian faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.6356224632810303,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                28.64,
+                40.34,
+                31.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "But grow in grace and in the knowledge of our Lord and Savior Jesus Christ. Let us not only avoid falling away, but grow onward, for the true secret of not going backward lies in our continuous advancement. It is through the grace of Christ, the knowledge of which He is the object, that we can thrive on our journey until the day of eternity, the day that has no end. Therefore, let us keep up our growth, both in grace and in the knowledge of our Lord and Savior Jesus Christ.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8173186735454347,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                28.96,
+                37.76,
+                33.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

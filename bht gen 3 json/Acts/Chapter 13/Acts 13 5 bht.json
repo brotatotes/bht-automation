@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:30:24",
+    "verseRef": "Acts 13:5",
+    "bestBHT": {
+        "bht": "Barnabas and Saul made their way to Salamis, the nearest port to Seleucia on the eastern side of the island. With a significant Jewish community and multiple synagogues, Salamis was a thriving mercantile hub where John Mark also accompanied them. Although their impact in Salamis is not explicitly mentioned, it is likely that Barnabas took the lead in preaching in the synagogues. Prioritizing outreach to the Jews, as was their custom, Barnabas and Saul followed their rule of procedure to reach out to the Jews first before turning their attention to the Gentiles.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.1841596633894014,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.96,
+        "commentatorTierSimilarities": [
+            35.01,
+            33.34,
+            31.65
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Salamis was the nearest port to Seleucia on the eastern side of the island.",
+            "There were very many Jews there, as appears by there being more than one synagogue.",
+            "Its demolition was completed by an earthquake in the reign of Constantine, who (or his immediate successors) rebuilt it and gave it the name of Constantia."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "At this busy mercantile port immense numbers of Jews were settled, which accounts for what is here said, that they had more than one synagogue, in which Barnabas and Saul preached, while other cities had one only.",
+            "They had . . . John\u2014Mark.",
+            "With what fruit they preached here is not said. Probably their feeling was what Paul afterwards expressed at Antioch in Pisidia."
+        ],
+        "Albert Barnes": [
+            "And when they were at Salamis - This was the principal city and seaport of Cyprus.\" ",
+            "In the synagogues of the Jews - Jews were living in all the countries adjacent to Judea, and in those countries they had synagogues. The apostles uniformly preached first to them.",
+            "And they had also John to their minister - John Mark, Acts 12:12."
+        ],
+        "Marvin Vincent": [
+            "The plural implies that the Jews were numerous in Salamis.",
+            "Augustus, according to Josephus, made Herod the Great a present of half the revenue of the copper mines of Cyprus, so that numerous Jewish families would be settled in the island.",
+            "When the rebellion was extinguished, the Jews were forbidden thenceforth, on pain of death, to set foot on the island."
+        ],
+        "John Calvin": [
+            "They were not so addicted to the Gentiles, that, setting aside the Jews, it stood them upon to go straight to the Gentiles.",
+            "It was meet that they should begin with the Jews.",
+            "The labor was common to all; for which cause he [John] had the less excuse afterward, seeing that he forsook the holy calling."
+        ],
+        "Philip Schaff": [
+            "At this time Salamis was the chief mercantile city of the island; very many of the inhabitants here were Jews.\" ",
+            "The revolt ended in the expulsion of the Jews from the island.",
+            "This rite was seldom administered by an apostle."
+        ],
+        "Archibald T. Robertson": [
+            "This was Paul's rule of procedure, 'to the Jew first.'\" (38 words)",
+            "It is not clear what John Mark did, though he was evidently selected by Barnabas as his cousin.\" (25 words)",
+            "Barnabas was probably the leader in the work in these Jewish synagogues.\" (14 words)"
+        ],
+        "John Gill": [
+            "This place, with the whole island, was taken from the Venetians by Mustapha, general to Selimus the Second, emperor of the Turks, in the year 1571, after a siege of eleven months; which, when he was possessed of, contrary to the agreement made, he put all the Christians to death...\" ",
+            "the apostles first preached, though they were sent unto the Gentiles; and this they continued to do, till the Jews put away the Gospel, which made their way more clear and open to the Gentiles.",
+            "this is not to be understood of the ministry of the word, which is peculiarly ascribed to them, or of his being an assistant to them in it; nor can it be understood of his being the minister in any of the synagogues for them, to bring out the book of the law, and direct public service, where it cannot be thought he should have any such office and authority; but of his ministering in civil and secular things to the apostles, or to the poor by their orders."
+        ],
+        "John Wesley": [
+            "In the synagogues \u2014 Using all opportunities that offered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Barnabas and Saul arrived in Salamis, they went first to the synagogues, as was their custom. Salamis was a bustling port with a significant Jewish population, evident by the presence of multiple synagogues. It is likely that Barnabas took the lead in preaching in these synagogues. John Mark accompanied them on their journey, although his specific role is not clear. Perhaps their preaching in Salamis was met with mixed results, as Paul later expressed similar frustrations in Antioch in Pisidia. Nonetheless, it was important for them to prioritize reaching out to the Jews first before the Gentiles.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.0749534494383464,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.33,
+            "commentatorTierSimilarities": [
+                33.64,
+                32.03,
+                34.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Barnabas and Saul arrived in Salamis, they went first to the synagogues, as was their custom. Salamis was a bustling port with a significant Jewish population, evident by the presence of multiple synagogues. John Mark accompanied them, although his role is unclear. Perhaps their preaching in Salamis was met with mixed results, as Paul later expressed similar frustrations in Antioch in Pisidia. Nonetheless, it was important for them to prioritize reaching out to the Jews first before the Gentiles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.0364087774385524,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.05,
+            "commentatorTierSimilarities": [
+                34.09,
+                32.49,
+                33.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon their arrival in Salamis, Barnabas and Saul immediately headed to the synagogues, as was their customary approach. Salamis was a thriving seaport and home to a substantial Jewish community, as evidenced by the existence of multiple synagogues. Accompanying them on their journey was John Mark, whose precise role remains uncertain. Perhaps their preaching in Salamis yielded varied outcomes, much like Paul's later experience in Antioch in Pisidia. Nevertheless, it was crucial for them to prioritize engaging with the Jews before turning their attention to the Gentiles.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 2.018043742797004,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                34.26,
+                32.57,
+                33.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Barnabas and Saul directed their initial efforts in Salamis towards the synagogues, a customary practice for them. Salamis was a bustling port known for its significant Jewish population and multiple synagogues. John Mark accompanied them, although his specific role remains unclear. Their preaching in Salamis may have yielded diverse outcomes, similar to Paul's later experience in Antioch in Pisidia. Nonetheless, it was vital for them to prioritize reaching out to the Jews before shifting their focus to the Gentiles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.9356381384681742,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                33.89,
+                31.64,
+                34.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Barnabas and Saul made their way to Salamis, the nearest port to Seleucia on the eastern side of the island. With a significant Jewish community and multiple synagogues, Salamis was a thriving mercantile hub where John Mark also accompanied them. Although their impact in Salamis is not explicitly mentioned, it is likely that Barnabas took the lead in preaching in the synagogues. Prioritizing outreach to the Jews, as was their custom, Barnabas and Saul followed their rule of procedure to reach out to the Jews first before turning their attention to the Gentiles.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1841596633894014,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.96,
+            "commentatorTierSimilarities": [
+                35.01,
+                33.34,
+                31.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

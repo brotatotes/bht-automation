@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:23:44",
+    "verseRef": "Luke 23:30",
+    "bestBHT": {
+        "bht": "The gravity of these words should not be overlooked, as they point to the impending destruction of Jerusalem. The imagery of mountains and hills seeking shelter portrays the desperate attempts to escape the coming judgment. This serves as a foreshadowing of the even more dreadful cries that will accompany the day of God's wrath. While primarily referencing the siege of Jerusalem, this prophecy also alludes to a future and more severe day of judgment. In the midst of such tribulation, some choose to be buried under the mountains and hills rather than face their enemies (Hosea 10:8).",
+        "wordCount": 97,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.6463836356333212,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.08,
+        "commentatorTierSimilarities": [
+            25.78,
+            36.61,
+            37.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But the words are too solemn, and too often used in a more awful connexion, for a further meaning to escape our notice.",
+            "And the whole warning\u2014as every other respecting the destruction of Jerusalem\u2014looks through the type to the antitype, the great day of His wrath.",
+            "They who have this defense, will not need to call on the rocks to hide them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "mountains . . . hills, c.\u2014 (Hosea 10:8), flying hither and thither as they did in despair for shelter",
+            "a very slight premonition of cries of another and more awful kind",
+            "Revelation 6:16; Revelation 6:17"
+        ],
+        "Albert Barnes": [
+            "This is an image of great calamities and judgments.",
+            "So great will be the calamities that they will seek for shelter from the storm.",
+            "The same figure is used respecting the wicked in the day of judgment."
+        ],
+        "Marvin Vincent": [
+            "Hills [\u03b2\u03bf\u03c5\u03bd\u03bf\u03b9\u03c2] . Only here and ch. 3 5."
+        ],
+        "Philip Schaff": [
+            "Begin to say, etc. The language is quoted from Hosea 10:8.",
+            "\u2018Begin\u2019 does not necessarily imply a repetition of the saying, but there is probably an allusion to another and a greater day of wrath.",
+            "The prediction had a primary reference to the siege of Jerusalem and a literal fulfillment then, for the Jews in multitudes \u2018hid themselves in the subterranean passages and sewers under the city.\u2019"
+        ],
+        "John Gill": [
+            "The tribulation being so great, as never was the like since the creation of the world, nor never will be to the end of it; and being so sore pressed with the sword and famine; with the enemy without, and divisions, robberies, and murders within; and their miseries being inexpressible, and intolerable...",
+            "...they will seek to go into the holes of the rocks, and caves of the earth, as is prophesied of them, Isaiah 2:19 and as Josephus says, many of them did, when the city was taken...",
+            "...will choose rather that the mountains and hills round about Jerusalem, should fall upon them, and they be buried under the ruins of them, than live in such terrible distress, or fall into the hands of their enemies!"
+        ],
+        "John Wesley": [
+            "Hosea 10:8."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words in this verse are too solemn to overlook their deeper meaning, especially in the context of the destruction of Jerusalem. The imagery of mountains and hills fleeing for shelter reflects the desperate attempts to escape the coming calamities. This is just a slight foreshadowing of the cries that will come on the great day of wrath. The same figure is used to describe the wicked seeking shelter in the day of judgment. The primary reference is to the siege of Jerusalem, where many Jewish people hid in subterranean passages and sewers under the city. Ultimately, the tribulation would be so great that people would prefer the mountains and hills to fall upon them, rather than endure such terrible distress or fall into the hands of their enemies. (Hosea 10:8)",
+            "wordCount": 130,
+            "quoteTokenProportion": 36.9,
+            "qualityScore": 1.62901264103612,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.51,
+            "commentatorTierSimilarities": [
+                20.92,
+                35.24,
+                43.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The warning in these solemn words cannot be ignored, especially in relation to the destruction of Jerusalem. The imagery of mountains and hills fleeing for shelter represents the desperate attempts to escape the impending calamities. This is a slight foreshadowing of the cries that will come on the great day of wrath. The same image is used when describing the wicked seeking shelter during the day of judgment. The primary reference is to the siege of Jerusalem, where many took refuge in subterranean passages and sewers beneath the city. Ultimately, the tribulation will be so severe that people will prefer the mountains and hills to bury them rather than endure the intense distress or fall into enemy hands (Hosea 10:8).",
+            "wordCount": 119,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5920845821764746,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.28,
+            "commentatorTierSimilarities": [
+                25.45,
+                39.35,
+                35.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The solemnity of these words should not be taken lightly, as they point to the impending destruction of Jerusalem. The imagery of mountains and hills fleeing for shelter signifies the desperate attempts to escape the calamities to come. This serves as a foreshadowing of the greater cries that will occur on the day of wrath. The prediction has a dual meaning, referring to both the siege of Jerusalem and a future and more terrible day of judgment. The primary reference is to the literal fulfillment of people hiding in subterranean passages and sewers during the siege. In light of the immense tribulation, some will even prefer to be buried under the mountains and hills rather than endure the distress or fall into enemy hands (Hosea 10:8).",
+            "wordCount": 125,
+            "quoteTokenProportion": 34.94,
+            "qualityScore": 1.552279022893773,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.96,
+            "commentatorTierSimilarities": [
+                23.23,
+                38.54,
+                38.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The warning in these solemn words does not go unnoticed, particularly given their frequent use in more dreadful contexts. The imagery of mountains and hills seeking shelter conjures the desperate search for protection from impending judgment. This parallels the anticipation of cries on the great day of God's wrath. While initially referring to the destruction of Jerusalem, this prophecy also alludes to a future and more severe day of judgment. The fulfillment of this warning is seen in the Jews hiding in subterranean passages and sewers during the siege (Hosea 10:8).",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.532144268088843,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.29,
+            "commentatorTierSimilarities": [
+                26.9,
+                40.15,
+                32.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The gravity of these words should not be overlooked, as they point to the impending destruction of Jerusalem. The imagery of mountains and hills seeking shelter portrays the desperate attempts to escape the coming judgment. This serves as a foreshadowing of the even more dreadful cries that will accompany the day of God's wrath. While primarily referencing the siege of Jerusalem, this prophecy also alludes to a future and more severe day of judgment. In the midst of such tribulation, some choose to be buried under the mountains and hills rather than face their enemies (Hosea 10:8).",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.6463836356333212,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.08,
+            "commentatorTierSimilarities": [
+                25.78,
+                36.61,
+                37.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

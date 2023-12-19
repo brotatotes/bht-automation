@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:08:57",
+    "verseRef": "1 Corinthians 8:12",
+    "bestBHT": {
+        "bht": "Smiting the weak, sinning against the brethren, wounds their conscience, just as striking an invalid would. This cruelty is further aggravated by the fact that it is committed against those who share a sympathy with Christ. It is essential to recognize that in sinning against the brethren, they are sinning against Christ Himself. The intimate bond between Christ and His members is such that offending or injuring them is equivalent to offending or injuring Him.",
+        "wordCount": 75,
+        "quoteTokenProportion": 55.77,
+        "qualityScore": 2.163095096667531,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+        "commentatorTierSimilarities": [
+            30.57,
+            34.52,
+            34.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What can be more unfeeling than to smite one who is weak?",
+            "Wound, literally, smite.",
+            "Sinning against the brethren is like unfeeling smiting."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It aggravates the cruelty of the act that it is committed on the weak, just as if one were to strike an invalid.",
+            "On account of the sympathy between Christ and His members.",
+            "The sympathy between Christ and His members."
+        ],
+        "Albert Barnes": [
+            "You violate the law which requires you to love your brethren, and to seek their welfare, and thus you sin against them.",
+            "Their consciences are ill-informed. They have not the knowledge which you have. And by your conduct they are led further into error, and believe that the idol is something, and is to be honored.",
+            "Because they are so intimately united to Christ (see the notes at John 15:1 ff) that to offend them is to offend him; to injure the members is to injure the head; to destroy their souls is to pain his heart and to injure his cause."
+        ],
+        "John Calvin": [
+            "For if the soul of every one that is weak is the price of Christ\u2019s blood, that man who, for the sake of a very small portion of meat, hurries back again to death the brother who has been redeemed by Christ, shows how contemptible the blood of Christ is in his view.\" ",
+            "Hence contempt of this kind is an open insult to Christ.\" ",
+            "In what way a weak conscience may be wounded has been already explained \u2014 when it is built up in what is evil (1 Corinthians 8:10) so as daringly and rashly to rush on farther than the individual thinks to be lawful for him."
+        ],
+        "Philip Schaff": [
+            "And (not only so, but) thus sinning against the brethren, and wounding their conscience when it is weak...",
+            "...ye sin against Christ who is wounded in their wounds.",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "The conscience is sensitive to a blow like that, a slap in the face.",
+            "Ye sin against Christ. That fact they were overlooking.",
+            "One may wonder if Paul knew the words of Jesus in Matthew 25:40, 'ye did it unto me.'"
+        ],
+        "John Gill": [
+            "Through sitting at meat in an idol's temple, and thereby violating the new commandment of love...",
+            "It is contrary to the law of love to wound a brother; it is an aggravation of the sin to wound a weak one...",
+            "...what serves most to enhance the crime and guilt is, ye sin against Christ, who has so loved this weak brother as to die for him..."
+        ],
+        "John Wesley": [
+            "Ye sin against Christ \u2014 Whose members they are."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To smite one who is weak, to wound and sin against the brethren, is like striking an invalid, a cruel act aggravated by the fact that it is committed on the vulnerable. The conscience is sensitive to such a blow, feeling it as a slap in the face. But what they fail to realize is that in sinning against the brethren, they sin against Christ Himself. The bond between Christ and His members is so close that to offend them is to offend Him, to injure them is to injure Him. In disregarding this, they overlook the fact that they are overlooking Christ. The parallel can be drawn to Jesus' words in Matthew 25:40, where he says, ye did it unto me.",
+            "wordCount": 121,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.9616224136940141,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                32.42,
+                32.49,
+                35.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To smite one who is weak, to wound and sin against the brethren, is like striking an invalid, a cruel act aggravated because it is committed on the vulnerable. The conscience is sensitive to such a blow, feeling it as a slap in the face. What they fail to realize is that in sinning against the brethren, they sin against Christ Himself. The bond between Christ and His members is so close that to offend them is to offend Him, to injure them is to injure Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.1310148018484956,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.2,
+            "commentatorTierSimilarities": [
+                32.22,
+                33.57,
+                34.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Smiting the weak, sinning against the brethren, wounds their conscience, just as striking an invalid would. This cruelty is further aggravated by the fact that it is committed against those who share a sympathy with Christ. It is essential to recognize that in sinning against the brethren, they are sinning against Christ Himself. The intimate bond between Christ and His members is such that offending or injuring them is equivalent to offending or injuring Him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 55.77,
+            "qualityScore": 2.163095096667531,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+            "commentatorTierSimilarities": [
+                30.57,
+                34.52,
+                34.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To smite one who is weak is unfeeling and cruel. It is like striking an invalid or giving a slap in the face, because sinning against the brethren is sinning against Christ Himself. When we wound the conscience of the weak, we sin against Christ who is wounded in their wounds. It is an open insult to Christ and a contemptible view of His blood to disregard the well-being of our brothers and sisters. To violate the law of love and cause harm to those who are weak is to sin not only against them, but against our Savior who loves and died for them.",
+            "wordCount": 106,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.235400548717754,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.67,
+            "commentatorTierSimilarities": [
+                29.38,
+                33.01,
+                37.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To smite one who is weak is unfeeling and cruel. It is sinning against the brethren, sinning against Christ Himself. When we wound the conscience of the weak, it is like slapping Christ in the face. It is an insult to Him and a contemptible view of His blood to disregard the well-being of our brothers and sisters. To violate the law of love and cause harm to those who are weak is to sin not only against them, but against our Savior who loves and died for them.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 2.151969917320087,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.89,
+            "commentatorTierSimilarities": [
+                30.78,
+                31.78,
+                37.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

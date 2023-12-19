@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:31:20",
+    "verseRef": "2 Timothy 4:11",
+    "bestBHT": {
+        "bht": "John Mark, previously censured by Paul, is now praised for his usefulness in the Gospel ministry. The change in Paul's opinion of Mark is evident as he desires to have him as a companion and values his assistance. The connection between Mark and Luke is worth noting, with Luke being the author of the Gospel and Acts. Paul longs to have Mark, whom he had once rejected, as he finds him profitable for his ministry.",
+        "wordCount": 76,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.2904187805272413,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.5,
+        "commentatorTierSimilarities": [
+            41.76,
+            30.09,
+            28.15
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "John Mark was probably in, or near, Colosse, as in the Epistle to the Colossians (Colossians 4:10), written two years before this, he is mentioned as about to visit them.",
+            "Paul, appropriately here, wipes out the past censure by high praise of Mark and guards against Timothy's making self-complacent comparisons between himself and Mark, as though he were superior to the latter.",
+            "Mark returns to the right way, and is no longer unprofitable, but is profitable for the Gospel ministry."
+        ],
+        "Albert Barnes": [
+            "Only Luke is with me.",
+            "Take Mark.",
+            "For he is profitable to me for the ministry."
+        ],
+        "Marvin Vincent": [
+            "Luke. His connection with Paul appears first in Acts 16:10. He remained at Philippi after Paul 's departure, and was there seven years later, when Paul revisited the city (Acts 20:5, Acts 20:6).",
+            "Mark. Mentioned Colossians 4:10; Philippians 1:24; 1 Peter 5:13. Probably John Mark (Acts 12:12, Acts 12:25; Acts 14:37), called the cousin of Barnabas (Col 6:10).",
+            "Profitable for the ministry [\u03b5\u03c5\u03c7\u03c1\u03b7\u03c3\u03c4\u03bf\u03c2 \u03b5\u03b9\u03c2 \u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03b9\u03b1\u03bd] . Eucrhstov profitable, only here, chapter 2 Timothy 2:21, Philippians 1:11."
+        ],
+        "Philip Schaff": [
+            "Luke only is with me.",
+            "Mark, it would seem, had been left with Timothy at Ephesus.",
+            "It is pleasant to note in this last mention of him the fullest recantation of the adverse opinion recorded in Acts 15:38. He is now \u2018profitable\u2019 (better, \u2018 useful \u2019) for the ministry."
+        ],
+        "Archibald T. Robertson": [
+            "Take Mark. He is useful to me.",
+            "Paul had long ago changed his opinion of Mark because Mark had changed his conduct and had made good in his ministry.",
+            "Now Paul longs to have the man that he once scornfully rejected."
+        ],
+        "John Gill": [
+            "Only Luke is with me... who wrote the Gospel that bears his name, and 'the Acts of the Apostles', and was a constant companion of Paul's in his travels and sufferings.",
+            "Take Mark, and bring him with thee... the apostle had entertained a better opinion of him, and was reconciled unto him, and was very desirous of his company and assistance.",
+            "For he is profitable to me for the ministry; that is, of the Gospel, to assist in preaching it."
+        ],
+        "John Wesley": [
+            "But God is with me; and it is enough.",
+            "Take Mark \u2014 Who, though he once 'departed from the work,' is now again profitable to me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John Mark, mentioned in this verse, was previously censured by Paul. However, now Paul praised Mark, wiping out the past censure and highlighting Mark's usefulness for the Gospel ministry. Paul's opinion of Mark changed because Mark had changed his conduct and proved himself in his ministry. The connection between Mark and Luke is also mentioned, with Luke being the writer of the Gospel and Acts and a constant companion of Paul's. Paul longs to have Mark, whom he previously rejected, as he finds him now profitable for his ministry.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.2750975866782683,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.99,
+            "commentatorTierSimilarities": [
+                44.01,
+                29.69,
+                26.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John Mark, once censured by Paul, is now praised, having proven himself in the ministry. Paul's opinion of Mark changed as he wiped out the past censure and ardently desired Mark's company and assistance. Mark's connection with Luke, the writer of the Gospel and Acts, is also noted. Paul longs to have Mark, whom he had once scornfully rejected, as he finds him profitable for his ministry.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.243998935393148,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.95,
+            "commentatorTierSimilarities": [
+                43.56,
+                30.09,
+                26.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John Mark, previously censured by Paul, is now praised for his usefulness in the Gospel ministry. The change in Paul's opinion of Mark is evident as he desires to have him as a companion and values his assistance. The connection between Mark and Luke is worth noting, with Luke being the author of the Gospel and Acts. Paul longs to have Mark, whom he had once rejected, as he finds him profitable for his ministry.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.2904187805272413,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.5,
+            "commentatorTierSimilarities": [
+                41.76,
+                30.09,
+                28.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John Mark, who was once deemed unprofitable, is now praised by Paul and considered profitable for the Gospel ministry. Paul's previous censure of Mark is wiped out by his high praise and desire for Mark's companionship and assistance. The connection between Mark and Luke is mentioned, highlighting Luke's role as a constant companion to Paul. It is worth noting the change in Paul's opinion of Mark, who went from being scorned to being recognized as valuable for the ministry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.2060536660833137,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+            "commentatorTierSimilarities": [
+                42.92,
+                30.08,
+                27.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John Mark, previously censured, is now praised as profitable for the Gospel ministry. Paul desires Mark's company and assistance, acknowledging his worth. The connection between Mark and Luke is mentioned, noting Luke's role as a constant companion. Paul's change in opinion of Mark is evident, as he longs to have him, despite once rejecting him.",
+            "wordCount": 58,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0880500122822916,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.77,
+            "commentatorTierSimilarities": [
+                41.38,
+                31.73,
+                26.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

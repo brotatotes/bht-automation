@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:13:44",
+    "verseRef": "1 Corinthians 15:8",
+    "bestBHT": {
+        "bht": "Paul, the apostle, humbly acknowledges that he was the last to see the resurrected Christ, appearing to him as a premature birth. He describes himself as unworthy and insignificant, like an untimely birth compared to the other apostles. This vision of Christ in heaven, after His ascension, confirms the reality of the resurrection and affirms Paul's legitimacy as an apostle. It highlights the sudden and transformative power of Christ's appearance in his life, emphasizing the astonishing grace of God in Paul's conversion.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.1421876006935765,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.57,
+        "commentatorTierSimilarities": [
+            29.34,
+            26.93,
+            43.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But last of all, as to the abortively born, he appeared to me also, viz. on the road to Damascus.\" ",
+            "This, and this only, ean here be meant.",
+            "He is speaking, not of a succession of visions, but of some one definite apparition."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am the least of the apostles, scarcely meet to be called an apostle.",
+            "A supernumerary taken into the college of apostles out of regular course.",
+            "Not led to Christ by long instruction, like a natural birth, but by a sudden power, as those prematurely born."
+        ],
+        "Albert Barnes": [
+            "This passage proves that the apostle Paul saw the same Lord Jesus, the same 'body' which had been seen by the others, or else his assertion would be no proof that he was risen from the dead.\" ",
+            "It was not a fancy, therefore, that he had seen him; it was not the work of imagination; it was not even a 'revelation' that he had risen; it was a real vision of the ascended Redeemer.",
+            "The expression seems to be proverbial, and to denote anything that is vile, offensive, loathsome, unworthy."
+        ],
+        "Marvin Vincent": [
+            "The word does not mean an untimely living birth, but a dead abortion, and suggests no notion of lateness of birth, but rather of being born before the time.\" ",
+            "Paul means that when Christ appeared to him and called him, he was - as compared with the disciples who had known and followed Him from the first, and whom he had been persecuting - no better than an unperfected foetus among living men.",
+            "The attempt to explain by a reference to Paul's insignificant appearance, from which he was nicknamed 'The Abortion' by his enemies, requires no refutation."
+        ],
+        "John Calvin": [
+            "Last of all to me, as to one born prematurely, He now introduces himself along with the others, for Christ had manifested himself to him as alive, and invested with glory.",
+            "For as infants do not come forth from the womb, until they have been there formed and matured during a regular course of time, so the Lord observed a regular period of time in creating, nourishing, and forming his Apostles.",
+            "Now this premature birth renders the grace of God more illustrious in Paul than if he had by little and little, and by successive steps, grown up to maturity in Christ."
+        ],
+        "Philip Schaff": [
+            "\u2026as unto one born out of due time (Gr. \u2018the abortion,\u2019 \u2018the mistimed birth\u2019)...",
+            "The allusion is no doubt to the great manifestation at Damascus.",
+            "He appeared to me also."
+        ],
+        "Archibald T. Robertson": [
+            "Literally, as to the miscarriage (or untimely birth).\" ",
+            "Paul means that the appearance to him came after Jesus had ascended to heaven.\" ",
+            "The verb \u03c4\u03b9\u03c4\u03c1\u03c9\u03c3\u03ba\u03c9 means to wound and \u03b5\u03ba is out."
+        ],
+        "John Gill": [
+            "This was a sight of Christ in heaven, not on earth, such an one as Stephen had, and was a corporeal one; otherwise it would have been impertinent to have mentioned it, with the rest of the ocular testimonies of Christ's resurrection.",
+            "Paul was the last of the apostles and brethren before named, and he had his vision of Christ after them all; and perhaps it might be a more clear, full, and distinct one than any of the rest, as the last things are sometimes the most excellent.",
+            "He refers to a 'posthumous' birth, to one that is born after the death of his father; because that the rest of the apostles were all chosen, and called, and sent forth, whilst Christ, their everlasting Father, was living on earth, but he not till after his death, resurrection from the dead, and ascension to heaven."
+        ],
+        "John Wesley": [
+            "An untimely birth \u2014 It was impossible to abase himself more than he does by this single appellation.",
+            "As an abortion is not worthy the name of a man, so he affirms himself to be not worthy the name of an apostle.",
+            "He affirms himself to be not worthy the name of an apostle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, the apostle, acknowledges that he was the last to see the resurrected Christ, appearing to him as a premature birth on the road to Damascus. Through this encounter, Paul emphasizes his unworthiness and insignificance compared to the other apostles who had known and followed Jesus from the beginning. His reference to being born prematurely highlights the sudden and transformative power of Christ's appearance in his life. This vision of Christ in heaven, after His ascension, proves the reality of the resurrection and the legitimacy of Paul's apostleship.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.076872139072882,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.4,
+            "commentatorTierSimilarities": [
+                30.04,
+                27.15,
+                42.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, the apostle, humbly acknowledges that he was the last to see the resurrected Christ, appearing to him as a premature birth. He describes himself as unworthy and insignificant, like an untimely birth compared to the other apostles. This vision of Christ in heaven, after His ascension, confirms the reality of the resurrection and affirms Paul's legitimacy as an apostle. It highlights the sudden and transformative power of Christ's appearance in his life, emphasizing the astonishing grace of God in Paul's conversion.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.1421876006935765,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.57,
+            "commentatorTierSimilarities": [
+                29.34,
+                26.93,
+                43.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, the apostle, acknowledges being the last to see the risen Christ, appearing to him as a premature birth on the road to Damascus. In comparison to the disciples who had known and followed Jesus from the start, Paul sees himself as an unworthy and insignificant addition to the apostolic college. His mention of being born prematurely emphasizes the sudden and transformative power of Christ's appearance in his life, highlighting the grace of God and affirming the reality of the resurrection.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.08479478008872,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                30.11,
+                26.88,
+                43.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, the apostle, refers to himself as a miscarriage or untimely birth, recognizing his insignificant and unworthy status compared to the other apostles. He highlights the sudden and powerful nature of his encounter with the resurrected Christ on the road to Damascus. This appearance of Jesus, after His ascension, confirms the reality of the resurrection and the authenticity of Paul's apostleship. His use of the metaphor of being born prematurely underscores the transformative impact of Christ's revelation in his life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.9940246640389354,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.64,
+            "commentatorTierSimilarities": [
+                30.41,
+                28.62,
+                40.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, the apostle, acknowledges his untimely and insignificant nature compared to the other disciples who had known and followed Jesus from the beginning. He describes himself as a premature birth, emphasizing the sudden and powerful encounter he had with the resurrected Christ on the road to Damascus. This appearance, after Christ's ascension, authenticates the reality of the resurrection and affirms Paul's role as an apostle. His use of this metaphor highlights the transformative impact of encountering Christ in his life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9682527263199945,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
+            "commentatorTierSimilarities": [
+                29.94,
+                27.77,
+                42.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

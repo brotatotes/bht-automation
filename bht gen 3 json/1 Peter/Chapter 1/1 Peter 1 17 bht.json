@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:38:57",
+    "verseRef": "1 Peter 1:17",
+    "bestBHT": {
+        "bht": "Believers are urged to call upon God as a Father who judges impartially. This understanding enhances His Majesty and fosters godly fear, which is not cowardice but rather elevates the mind and fortifies courage. The fear opposes heedless security and goes hand in hand with hope. God judges without partiality, based on each person's work. As sojourners in this world, believers spend their time in humble, loving fear, mindful that God sees the heart and the secret springs of all actions.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.862537684953324,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+        "commentatorTierSimilarities": [
+            31.14,
+            37.91,
+            30.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If [as is the case]\u2026) ye call upon as father (not, as A.V., \u2018the Father\u2019) Him who judgeth impartially",
+            "every man\u2019s, be he Jew or Gentile, high or low, rich or poor: thus by setting God\u2019s just judgment above all alike, His Majesty, as inculcating godly fear, is enhanced",
+            "This fear, is not cowardice: it doth not debase, but elevates the mind: for it drowns all lower fears, and begets true fortitude and courage to encounter all dangers for the sake of a good conscience and the obeying of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Call upon as Father Him who without acceptance of persons judgeth.",
+            "Each man's work is one complete whole, whether good or bad.",
+            "Fear and hope flow from the same fountain: fear prevents us from falling away from hope."
+        ],
+        "Albert Barnes": [
+            "The word 'Father' here is used evidently not to denote the Father in contradistinction to the Son, but as referring to God as the Father of the universe.",
+            "One who is not influenced in His treatment of people by a regard to rank, wealth, beauty, or any external distinction.",
+            "You worship a God who will judge every person according to his real character, and you should therefore lead such lives as he can approve."
+        ],
+        "Marvin Vincent": [
+            "If ye call on the Father - judgeth.\" ",
+            "Without respect of persons [\u03b1\u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bb\u03b7\u03bc\u03c0\u03c4\u03c9\u03c2].\" ",
+            "In the Old Testament it is, as Bishop Lightfoot observes, 'a neutral expression involving no subsidiary notion of partiality, and is much oftener found in a good than in a bad sense.'"
+        ],
+        "John Calvin": [
+            "He judges, he says, without looking on the person, that is, no outward mask is of any account with him, as the case is with men, but he sees the heart.\" (100 words)",
+            "The fear that is mentioned, stands opposed to heedless security, such as is wont to creep in, when there is a hope of deceiving with impunity.\" (38 words)",
+            "He calls the present life a sojourning, not in the sense in which he called the Jews to whom he was writing sojourners, at the beginning of the Epistle, but because all the godly are in this world pilgrims.\" (43 words)"
+        ],
+        "Philip Schaff": [
+            "He whom all believers invoke in prayer is Father indeed, but also and none the less Judge.",
+            "The God whom Christ had taught them to look to as Father is One in whom there is no breach between parental love and judicial rectitude.",
+            "The fear (in the original set emphatically first in the clause) which is so characteristic a note of Old Testament piety, occupies also no small place in the N. T."
+        ],
+        "Archibald T. Robertson": [
+            "Without respect of persons.\" ",
+            "According to each man's work.\" ",
+            "In fear."
+        ],
+        "John Gill": [
+            "Whoever call God their Father, and themselves his children, ought to be careful that they do not blaspheme, or cause to be blasphemed, that worthy name by which they are called.",
+            "The Judge will not judge according to the sight of the eyes, and outward view of things; for he looks on the heart, and knows the secret springs of all actions; and according thereunto will he judge and pass the sentence.",
+            "The people of God in this world are 'sojourners', as all their fathers were; they are not natives of the place in which they are; though they are in the world, they are not of it."
+        ],
+        "John Wesley": [
+            "Who judgeth according to every man's work.",
+            "Pass the time of your sojourning.",
+            "In humble, loving fear."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Peter 1:17, the writer urges believers to call upon God as a Father who judges impartially. This understanding of God's impartial judgment enhances His Majesty and fosters godly fear. Such fear is not cowardice, but rather it elevates the mind, drowns lower fears, and generates true courage. The fear mentioned in the verse opposes heedless security and goes hand in hand with hope. It is a characteristic note of Old Testament piety that also finds its place in the New Testament. Believers need to be mindful that their actions are not contrary to the name by which they are called, as God judges without partiality and according to each person's work. As sojourners in this world, it is essential to spend their time in humble, loving fear, knowing that God sees the heart and the secret springs of all actions.",
+            "wordCount": 142,
+            "quoteTokenProportion": 33.68,
+            "qualityScore": 1.839667167186155,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.51,
+            "commentatorTierSimilarities": [
+                29.41,
+                40.14,
+                30.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are exhorted to regard God as a Father who judges impartially, without looking at outward appearances. This understanding enhances His Majesty and instills a godly fear that uplifts the mind and fortifies courage. Fear and hope are intertwined, preventing complacency. God's impartial judgment is based on each person's work, while believers, as sojourners in this world, strive to honor His name and live in humble, loving fear. They must remember that God sees the heart and the secret springs of all actions, thereby urging a conscientious life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.782568399788635,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                30.05,
+                38.04,
+                31.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are urged to call upon God as a Father who judges impartially, enhancing His Majesty and fostering godly fear. This fear is not cowardice, but rather it elevates the mind, drowns lower fears, and generates true courage. It opposes heedless security and goes hand in hand with hope. God judges without partiality, looking at the heart and the secret springs of all actions. As sojourners in this world, believers should spend their time in humble, loving fear, knowing that their actions are under His scrutiny.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.7793309926347658,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.5,
+            "commentatorTierSimilarities": [
+                31.1,
+                36.36,
+                32.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 1 Peter, believers are encouraged to call upon God as a Father who judges impartially, which enhances His Majesty and fosters godly fear. This fear, distinct from cowardice, uplifts the mind, eliminates lower fears, and nurtures true courage. Believers must maintain this fear in order to prevent complacency in their hope. God judges without partiality, considering each person's work, and believers, as sojourners in this world, must spend their time with humble, loving fear, recognizing that God sees the heart and the underlying motives behind every action.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8656911560850356,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                34.05,
+                35.82,
+                30.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are urged to call upon God as a Father who judges impartially. This understanding enhances His Majesty and fosters godly fear, which is not cowardice but rather elevates the mind and fortifies courage. The fear opposes heedless security and goes hand in hand with hope. God judges without partiality, based on each person's work. As sojourners in this world, believers spend their time in humble, loving fear, mindful that God sees the heart and the secret springs of all actions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.862537684953324,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                31.14,
+                37.91,
+                30.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

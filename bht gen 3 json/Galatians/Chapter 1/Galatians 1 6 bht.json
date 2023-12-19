@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 14:12:54",
+    "verseRef": "Galatians 1:6",
+    "bestBHT": {
+        "bht": "Paul expresses his amazement at the Galatians for their quick departure from the true gospel, which saddened him as they had seemed so different and he had hoped for better things from them. They were easily influenced by false teachers, transferring themselves from the grace of Christ to a different gospel. Paul reminds them that the call to salvation is God's work, highlighting the rapidity of their apostasy and emphasizing the seriousness of preaching another Jesus and a different gospel, effectively turning away from grace and Christ Himself.",
+        "wordCount": 89,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 2.1475341403516817,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+        "commentatorTierSimilarities": [
+            32.03,
+            36.88,
+            31.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I marvel\u2014implying that he had hoped better things from them, whence his sorrowful surprise at their turning out so different from his expectations.",
+            "removed\u2014Translate, 'are being removed,' that is, ye are suffering yourselves so soon to be removed by Jewish seducers.",
+            "into\u2014rather, as Greek, 'IN the grace of Christ,' as the element in which, and the instrument by which, God calls us to salvation."
+        ],
+        "Albert Barnes": [
+            "They had shown an instability and inconstancy of character, which was to him perfectly surprising.",
+            "Learn hence, that men, professedly pious, and apparently ardently attached to the gospel, may become soon perverted in their views, and alienated from those who had called them into the gospel, and whom they professed tenderly to love.",
+            "It claimed to be the gospel, and yet it was essentially unlike the plan which he had preached as constituting the gospel."
+        ],
+        "Marvin Vincent": [
+            "Paul does not mean so soon after a particular event, as their conversion, or his last visit, or the entry of the false teachers, - but refers to the rapidity of their apostasy; tacewv being used absolutely as always.",
+            "Removed [\u03bc\u03b5\u03c4\u03b1\u03c4\u03b9\u03b8\u03b5\u03c3\u03b8\u03b5] . A. V. misses the sense of the middle voice, removing or transferring yourselves, and also the force of the continuous present, are removing or going over, indicating an apostasy not consummated but in progress.",
+            "Calling, in the writings of the apostles, is habitually represented as God's work."
+        ],
+        "John Calvin": [
+            "They were removed from Christ; not that they entirely rejected Christianity, but that the corruption of their doctrines was such as to leave them nothing more than an imaginary Christ.",
+            "Let it be carefully observed, that we are removed from Christ, when we fall into those views which are inconsistent with his mediatorial office; for light can have no fellowship with darkness.",
+            "To revolt from the Son of God under any circumstances, is unworthy and disgraceful; but to revolt from him, after being invited to partake salvation by grace, is more eminently base."
+        ],
+        "Philip Schaff": [
+            "A sharp rebuke in a mild word, which challenges explanation, and intimates that better things were expected from the Galatians.",
+            "Even the best preaching cannot prevent apostasy.",
+            "Different in kind, another sort of gospel, which is undeserving of the name, since there is but one gospel."
+        ],
+        "Archibald T. Robertson": [
+            "You are transferring yourselves and doing it 'so quickly' either from the time of their conversion or most likely from the time when the Judaizers came and tempted them.",
+            "That is a continuous amazement to Paul and to men today that so many are so silly and so gullible to modern as to ancient charlatans.",
+            "It is not here or there a mere difference in emphasis or spirit as in Philippians 1:18 so long as Christ is preached. These men as in 2 Corinthians 11:4 preach 'another Jesus' and a 'different gospel' and so have fallen away from grace and have done away with Christ.\u201d"
+        ],
+        "John Gill": [
+            "I marvel that ye are so soon removed.\" ",
+            "They were 'so soon' removed from the simplicity of the Gospel.\" ",
+            "Another Gospel, different from that, and very unlike to what had been preached to them, and they had received."
+        ],
+        "John Wesley": [
+            "I marvel that ye are removed so soon \u2014 After my leaving you.",
+            "From him who called you by the grace of Christ \u2014 His gracious gospel, and his gracious power."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul expresses his surprise and disappointment at the Galatians for so quickly turning away from the true gospel that he had preached to them. They were easily swayed by the Jewish seducers who were leading them astray. This rapid apostasy is astonishing to Paul and serves as a reminder that many are easily deceived by false teachings. These false teachers preach another Jesus and a different gospel, veering away from the true message of grace. It is disheartening to see believers so swiftly removed from the simplicity and truth of the gospel, falling away from Christ and His mediatorial office.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.011347784904805,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+            "commentatorTierSimilarities": [
+                32.34,
+                36.65,
+                31.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul expressed his marvel at the Galatians, as they had quickly shifted away from the true gospel he had preached to them. They were easily swayed by the false teachings of the deceiving Jewish seducers. This rapid apostasy was surprising to Paul and served as a reminder of how easily people are misled by charlatans, preaching a different gospel and another Jesus, thereby falling away from grace and veering far from the true message of Christ's salvation through grace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.0735575622609543,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                31.15,
+                37.18,
+                31.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul expresses his surprise and disappointment at the Galatians for so quickly turning away from the true gospel that he had preached to them. They were easily swayed by the Jewish seducers who were leading them astray. This rapid apostasy is astonishing to Paul and serves as a reminder that many are easily deceived by false teachings. These false teachers preach another Jesus and a different gospel, veering away from the true message of grace. It is disheartening to see believers so swiftly removed from the simplicity and truth of the gospel, falling away from Christ and His mediatorial office.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.011347784904805,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+            "commentatorTierSimilarities": [
+                32.34,
+                36.65,
+                31.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul expresses his amazement at the Galatians for their quick departure from the true gospel, which saddened him as they had seemed so different and he had hoped for better things from them. They were easily influenced by false teachers, transferring themselves from the grace of Christ to a different gospel. Paul reminds them that the call to salvation is God's work, highlighting the rapidity of their apostasy and emphasizing the seriousness of preaching another Jesus and a different gospel, effectively turning away from grace and Christ Himself.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.1475341403516817,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                32.03,
+                36.88,
+                31.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul expresses his astonishment at the Galatians' swift deviation from the true gospel he had preached to them, noting his initial expectations. They were easily swayed by the Jewish seducers, being removed from the grace of Christ. This sudden apostasy is both a cause of concern for Paul and a continual amazement for others. These false teachers preach a different gospel and another Jesus, leading the Galatians away from grace and eliminating the significance of Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.960129798885818,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                31.68,
+                35.27,
+                33.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

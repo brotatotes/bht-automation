@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:25:01",
+    "verseRef": "Acts 2:9",
+    "bestBHT": {
+        "bht": "The astonishing universality of the miracle on the day of Pentecost is evident as devout men from various territories hear the wonderful works of God in their mother tongue. Different nations, including Parthians, Medes, and Elamites, are represented, illustrating the extent of this extraordinary event. Even the distinct dialect of Galilee is mentioned. Luke's enumeration of languages spoken in Judea serves to emphasize the comprehensive nature of the occasion, highlighting the profound impact of the Spirit's work on that momentous day.",
+        "wordCount": 83,
+        "quoteTokenProportion": 24.19,
+        "qualityScore": 1.6618297309238828,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.6,
+        "commentatorTierSimilarities": [
+            31.51,
+            38.09,
+            30.4
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The catalogue does not proceed by languages, but by territorial division.",
+            "It is not Jews by birth and domicile, but devout men who are spoken of; the dwellers in Jud\u00e6a settled in Jud\u00e6a.",
+            "And even if born Jews were meant, doubtless they also would find a place among those who heard in their mother tongue the wonderful works of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This enumeration is evidently designed to convey an impression of universality.\" ",
+            "Peter for the first time, publicly preaches Christ."
+        ],
+        "Albert Barnes": [
+            "To show the surprising extent and power of this miracle, Luke enumerates the different nations that were represented then at Jerusalem.",
+            "The Parthians were much distinguished for their manner of fighting. They usually fought on horseback, and when appearing to retreat, discharged their arrows with great execution behind them.",
+            "This is one of the many instances in which commentators have perplexed themselves to very little purpose. Luke recorded this as any other historian would have done. In running over the languages which they spoke, he enumerated this as a matter of course; not that it was remarkable simply that they should speak the language of Judea, but that they should speak so many, meaning about the same by it as if he had said they spoke every language in the world."
+        ],
+        "Marvin Vincent": [
+            "Parthians, Medes, and Elamites. Representing portions of the Persian empire.",
+            "The dialect of Galilee being different from that of Judaea.",
+            "In the time of the apostles, the term was commonly understood of the proconsular province of Asia, principally of the kingdom of Pergamus left by Attalus 3 to the Romans."
+        ],
+        "Philip Schaff": [
+            "It was among these peoples that Shalmaneser, king of Assyria, settled the captive ten tribes.",
+            "Here the Jewish captives were left by Nebuchadnezzar.",
+            "'Judea' appears in the catalogue of nations as the representative of 'Aramaic,' because St. Luke desired to enumerate all the languages spoken that day by the disciples on whom the Spirit had fallen."
+        ],
+        "John Gill": [
+            "Many of the Parthian Jews were afterwards converted to the Christian faith; to whom the Apostle John is thought, by some, to have written his first epistle; and which, by some of the ancients, is called the epistle to the Parthians.",
+            "In the Jewish writings it is called, \u05e7\u05e4\u05d5\u05d8\u05e7\u05d9\u05d0, Capotakia; and which Maimonides says, is the same with Caphtor; and in the Arabic language, is called Tamiati; and so Caphtor is rendered Cappadocia, and the Caphtorim Cappadocians.",
+            "Pontus was a country in lesser Asia, and according to Ptolomy, it had on the west the mouth of Pontus, and the Thracian Bosphorus, and part of Propontis, on the north, part of the Euxine sea, and on the south the country which is properly called Asia, and on the east Galatia by Paphlagonia; it was the birth place of Marcion the heretic."
+        ],
+        "John Wesley": [
+            "Judea \u2014 The dialect of which greatly differed from that of Galilee.",
+            "Asia \u2014 The country strictly so called."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the day of Pentecost, when Peter publicly preaches Christ, an impressive display of universality unfolds as devout men from various territories hear the wonderful works of God in their mother tongue. Parthians, Medes, Elamites, and other nations are represented, emphasizing the extent of this miracle. Even the dialect of Galilee, distinct from that of Judea, is included. It is noteworthy that languages spoken in Judea are mentioned to demonstrate the comprehensive nature of the event. Through this enumeration, Luke effectively conveys the profound impact of the Spirit's work on that momentous day.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6592635430480953,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+            "commentatorTierSimilarities": [
+                31.68,
+                38.51,
+                29.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The astonishing universality of the miracle on the day of Pentecost is evident as devout men from various territories hear the wonderful works of God in their mother tongue. Different nations, including Parthians, Medes, and Elamites, are represented, illustrating the extent of this extraordinary event. Even the distinct dialect of Galilee is mentioned. Luke's enumeration of languages spoken in Judea serves to emphasize the comprehensive nature of the occasion, highlighting the profound impact of the Spirit's work on that momentous day.",
+            "wordCount": 83,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 1.6618297309238828,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.6,
+            "commentatorTierSimilarities": [
+                31.51,
+                38.09,
+                30.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the day of Pentecost, an impressive display of universality unfolds as devout men from various territories hear the wonderful works of God in their mother tongue. Parthians, Medes, and Elamites, among others, are represented, emphasizing the extent of this miracle. The dialect of Galilee, distinct from that of Judea, is included. Luke's enumeration serves to convey the comprehensive nature of the event, illustrating the profound impact of the Spirit's work on that momentous day.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.5735165415640262,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                31.73,
+                37.48,
+                30.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The catalogue of nations mentioned in connection with the day of Pentecost conveys a powerful impression of universality, as devout men from various territories hear the wonderful works of God in their mother tongue. It is worth noting that the dwellers in Jud\u00e6a settled in Jud\u00e6a, and even if born Jews were meant, they would also find a place among those who heard the message. In this enumeration, languages such as the dialect of Galilee and territories like Asia are included to emphasize the comprehensiveness of the event. The significance of the Spirit's work on that day is evident through this diverse representation.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.6364469310746563,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.75,
+            "commentatorTierSimilarities": [
+                31.71,
+                38.52,
+                29.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The impressive display of universality on the day of Pentecost is emphasized as devout men from various territories hear the wonderful works of God in their mother tongue. The catalogue of nations mentioned, including Parthians, Medes, Elamites, and others, establishes the extent of this remarkable event. Through the inclusion of languages like the dialect of Galilee and regions such as Asia, the comprehensiveness of the occasion is underscored. This enumeration serves to highlight the significant impact of the Spirit's work on that momentous day.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.4291946175401686,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.86,
+            "commentatorTierSimilarities": [
+                33.88,
+                36.65,
+                29.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

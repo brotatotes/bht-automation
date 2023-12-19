@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:19:43",
+    "verseRef": "Luke 14:1",
+    "bestBHT": {
+        "bht": "Jesus attended a dinner at a Pharisee's house on the Sabbath, and the Pharisees closely watched Him, seeking an opportunity to accuse Him. While they maintained their traditions and held feasts on the Sabbath, it had become an abuse. The Pharisees, with their hostile intentions, used this dinner as a pretext to find fault with Jesus. However, Jesus did not aim to abolish the Sabbath, but rather to emphasize that acts of kindness and the works of God do not violate its true purpose.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 1.8342883290567222,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+        "commentatorTierSimilarities": [
+            21.31,
+            36.25,
+            42.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Pharisees had men to whom they looked up, as Hillel, Schammai, Gamaliel, &c.\" ",
+            "The Jews used to give entertainments on the Sabbath.\" ",
+            "The practice latterly became an abuse."
+        ],
+        "Albert Barnes": [
+            "If, therefore, the example of Jesus should be pled to authorize accepting an invitation to dine on the Sabbath, it should be pled just as it was. If we can go 'just as he did,' it is right.",
+            "If we go to do good; if we make it an occasion to discourse on the subject of religion and to persuade people to repent, then it is not improper.",
+            "They malignantly fixed their eyes on him, to see if he did anything on which they could lay hold to accuse him."
+        ],
+        "Marvin Vincent": [
+            "Watched [\u03b7\u03c3\u03b1\u03bd \u03c0\u03b1\u03c1\u03b1\u03c4\u03b7\u03c1\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03b9] . The participle and finite verb, were engaged in watching. Closely [\u03c0\u03b1\u03c1\u03b1] . See on Mark 3:2."
+        ],
+        "John Calvin": [
+            "For he did not, intend, as some imagine, absolutely to abolish the Sabbath, but only to point out, that neither the works of God, nor the duties of charity, violate the holy rest which is enjoined by the law.",
+            "He unquestionably could not be present at the table by accident, nor break into a private dwelling without the permission and consent of the owner.",
+            "It is therefore probable, that he was placed there with the concealed design of tempting Christ, which, on their part, was as foolish an action as it was wicked."
+        ],
+        "Philip Schaff": [
+            "The Jews gave feasts on the Sabbath, the food being prepared the day previous. The custom gave rise to great abuses, though doubtless the letter of the fourth commandment was observed.\" ",
+            "A number of guests were present, mainly Pharisees.",
+            "The Pharisees...were watching if He would do or say anything which would furnish a pretext for opposing Him. The hospitality was hostile."
+        ],
+        "Archibald T. Robertson": [
+            "Luke's favourite temporal clause = 'on the going as to him.'\" (Commentary)",
+            "Another common Lukan idiom, \u03ba\u03b1\u03b9=\u03bf\u03c4 after \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf, like Hebrew wav.\" (Commentary)",
+            "They were themselves watching on the side (on the sly), watching insidiously, with evil intent...\" (Commentary)"
+        ],
+        "John Gill": [
+            "The sabbath day was a feasting day with the Jews, in which they made very large and magnificent entertainments, for the honour of the sabbath.",
+            "He who is delicate and rich, and lo, all his days are as a sabbath day, ought to have food on a sabbath day, different from that on a weekday.",
+            "Whoever keeps the three feasts on the sabbath day, shall be delivered from three punishments, from the sorrows of the Messiah, from the judgment of hell, and from the war of Gog and Magog."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus went to dine at the house of a Pharisee on the Sabbath, the Pharisees were closely watching Him. They had their own respected authorities and traditions, and they had made a custom of giving feasts on the Sabbath. However, this practice had become an abuse. The Pharisees, in particular, had ulterior motives and were hostile towards Jesus. Their hospitality was merely a pretense to carefully observe and find fault with His actions. Jesus, in attending this dinner, did not intend to abolish the Sabbath, but rather to show that acts of kindness and the works of God do not violate the true essence of the Sabbath.",
+            "wordCount": 108,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.6608419358922473,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.57,
+            "commentatorTierSimilarities": [
+                23.85,
+                35.2,
+                40.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus went to dine at a Pharisee's house on the Sabbath, the Pharisees closely watched Him, waiting for an opportunity to accuse Him. They had their respected authorities and traditions, and though they gave feasts on the Sabbath, it had become an abusive practice. The Pharisees, in their hostility towards Jesus, hosted this event as a guise to find fault with His actions. However, Jesus did not intend to abolish the Sabbath but to demonstrate that acts of kindness and the works of God do not violate its true essence.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.77559634239359,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                20.31,
+                35.97,
+                43.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus attended a dinner at a Pharisee's house on the Sabbath, and the Pharisees closely watched Him, seeking an opportunity to accuse Him. While they maintained their traditions and held feasts on the Sabbath, it had become an abuse. The Pharisees, with their hostile intentions, used this dinner as a pretext to find fault with Jesus. However, Jesus did not aim to abolish the Sabbath, but rather to emphasize that acts of kindness and the works of God do not violate its true purpose.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.8342883290567222,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                21.31,
+                36.25,
+                42.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus attended a dinner at a Pharisee's house on the Sabbath, the Pharisees closely watched Him, eagerly waiting to find fault. They had their respected authorities and traditions and used to host feasts on the Sabbath, though it had turned into an abuse. The Pharisees, hostile towards Jesus, invited Him cunningly to lay a trap. Jesus, however, did not intend to abolish the Sabbath, but rather to demonstrate that acts of kindness and the works of God do not violate its true purpose.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.7613965180348456,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.91,
+            "commentatorTierSimilarities": [
+                20.51,
+                36.44,
+                43.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus went to dine at a Pharisee's house on the Sabbath, and the Pharisees closely watched Him, seeking to accuse Him. They had their own traditions and used to host feasts on the Sabbath, although it had become an abuse. The Pharisees, with their hostile intent, invited Jesus as a ploy to find fault with Him. Jesus, however, did not aim to abolish the Sabbath but to show that acts of kindness and the works of God do not violate its true purpose.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.8277432144331227,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                22.06,
+                35.81,
+                42.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

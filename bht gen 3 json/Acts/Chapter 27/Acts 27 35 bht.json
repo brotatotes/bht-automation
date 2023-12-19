@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:37:19",
+    "verseRef": "Acts 27:35",
+    "bestBHT": {
+        "bht": "In the midst of dire circumstances, Paul, as a pious Jew, acknowledges God's blessings and gives thanks before eating. This act demonstrates how a Christian partakes in a meal and serves as a testimony for the God he served. Paul's example encourages others to eat, find strength, and care for their own lives. With a possible reminiscence of the Sacred Eucharist as he broke the bread, Paul's actions gather courage and remind them to be grateful amidst adversity.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.8064166761637694,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+        "commentatorTierSimilarities": [
+            39.65,
+            33.81,
+            26.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Paul neither celebrates the agap\u00e9 (Olshausen), nor acts as the father of a family (Meyer), but simply as a pious Jew, who asks a blessing before he eats.\" ",
+            "- De Wette",
+            "Paul neither celebrates the agap\u00e9 (Olshausen), nor acts as the father of a family (Meyer)",
+            "- De Wette",
+            "simply as a pious Jew, who asks a blessing before he eats.",
+            "- De Wette"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "an impressive act in such circumstances, and fitted to plant a testimony for the God he served",
+            "a meal to recruit exhausted nature, which Paul shows them by his own example how a Christian partakes of",
+            "how a Christian partakes of."
+        ],
+        "Albert Barnes": [
+            "Paul was among those who were not Christians; but he was not ashamed of the proper acknowledgment of God, and was not afraid to avow his dependence on him, and to express his gratitude for his mercy.",
+            "Paul was not ashamed of the proper acknowledgment of God...",
+            "Paul...was not afraid to...express his gratitude for his mercy."
+        ],
+        "John Calvin": [
+            "He taketh bread and eateth...to encourage them, by his own example.\" ",
+            "He doth not only testify his thankfulness...but he calleth upon God without fear...that those poor wretches...might conceive some good hope.",
+            "They gathered so much courage...to take meat, who had...forgotten to care for their life."
+        ],
+        "Philip Schaff": [
+            "It is difficult to believe that there was not at this moment in his mind a reminiscence of the Sacred Eucharist.\" ",
+            "Especially when we observe that the 'breaking' of the bread is specified.",
+            "He began to eat. He set the example."
+        ],
+        "Archibald T. Robertson": [
+            "Gave thanks to God... It was saying grace like the head of a Hebrew family\" ",
+            "The example of Paul would encourage the others to eat.",
+            "Paul, Luke, and Aristarchus had memories of the Lord's supper... while to others it was only an ordinary meal."
+        ],
+        "John Gill": [
+            "It is certain they used to carry bread corn along with them, either crude, or ground, or baked...",
+            "Likewise they used to carry onions and garlic, which the rowers usually ate, and were thought to be good against change of places and water...",
+            "and no one might eat anything until he that broke, first tasted and ate..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of dire circumstances, Paul, as a pious Jew, humbly acknowledges God's blessings and gives thanks before eating. This simple act not only serves as a testimony for the God he served, but also demonstrates to the others how a Christian partakes in a meal. It is a powerful example that encourages them to eat and find strength. Perhaps there was even a reminiscence of the Sacred Eucharist in Paul's mind as he broke the bread. Ultimately, Paul's actions gather courage among the group, reminding them to not only be grateful but to care for their own lives.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.7222361856092017,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.61,
+            "commentatorTierSimilarities": [
+                37.08,
+                34.41,
+                28.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of dire circumstances, Paul, as a pious Jew, acknowledges God's blessings and gives thanks before eating. This act, though simple, serves as a testimony for the God he served and shows others how a Christian partakes in a meal. It encourages them to eat and find strength. Perhaps there was a reminiscence of the Sacred Eucharist as Paul broke the bread. His actions gather courage and remind them to be grateful and care for their own lives.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.6339658712667742,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                34.19,
+                33.74,
+                32.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst challenging circumstances, Paul, as a pious Jew, acknowledges God's blessings and expresses gratitude before eating. His act not only serves as a testimony for his faith but also shows others how a Christian partakes in a meal. By setting an example, Paul inspires them to eat and find strength. Perhaps he remembers the significance of the Sacred Eucharist as he breaks the bread. His actions instill courage and remind them to be thankful and prioritize their well-being.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.648542441752257,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                34.69,
+                37.17,
+                28.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of dire circumstances, Paul, as a pious Jew, humbly acknowledges God's blessings and gives thanks before eating. This simple act not only serves as a testimony for the God he served, but also demonstrates to the others how a Christian partakes in a meal. It is a powerful example that encourages them to eat and find strength. Perhaps there was even a reminiscence of the Sacred Eucharist in Paul's mind as he broke the bread. Ultimately, Paul's actions gather courage among the group, reminding them to not only be grateful but to care for their own lives.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.7222361856092017,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.61,
+            "commentatorTierSimilarities": [
+                37.08,
+                34.41,
+                28.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of dire circumstances, Paul, as a pious Jew, acknowledges God's blessings and gives thanks before eating. This act demonstrates how a Christian partakes in a meal and serves as a testimony for the God he served. Paul's example encourages others to eat, find strength, and care for their own lives. With a possible reminiscence of the Sacred Eucharist as he broke the bread, Paul's actions gather courage and remind them to be grateful amidst adversity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.8064166761637694,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                39.65,
+                33.81,
+                26.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

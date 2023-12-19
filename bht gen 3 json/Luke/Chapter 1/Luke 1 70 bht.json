@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:13:34",
+    "verseRef": "Luke 1:70",
+    "bestBHT": {
+        "bht": "From of old, the prophets have constantly spoken of the Messiah, providing solid evidence for our faith in Him. Jacob, Moses, and Isaiah, along with other prophets, are known for their significant references to the coming of the Messiah from the very beginning. While a detailed examination of each prophet's contribution would be lengthy, our main focus should be on acknowledging the divine covenant and the early indications given by God about the Messiah, attesting to His faithfulness and truthfulness in fulfilling His promises.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 2.0073567771112217,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+        "commentatorTierSimilarities": [
+            7.17,
+            48.06,
+            44.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "70. since the world began\u2014or,",
+            "\t\"from the earliest period."
+        ],
+        "Albert Barnes": [
+            "All the prophets are said to have referred to the Messiah, from the beginning of the world.",
+            "The most striking of these were Jacob Genesis 49:10; Moses Deuteronomy 18:15; Isaiah Isaiah 9:6-7; Isaiah 53:1-12.",
+            "It is merely a general expression, designed to denote that all the prophets had predicted the coming of the Messiah."
+        ],
+        "Marvin Vincent": [
+            "That have been since the world began [\u03b1\u03c0 \u03b1\u03b9\u03c9\u03bd\u03bf\u03c2] . A needlessly verbose rendering, retained by Rev. The American Rev. insists on of old."
+        ],
+        "John Calvin": [
+            "When Christ comes forth adorned, with the testimonies of all the Prophets, our faith in him rests on a truly solid foundation.",
+            "To inquire minutely how each of the prophets gave testimony to Christ, would lead us into a long dissertation.",
+            "Our chief attention is due to the signature of the divine covenant; for he that neglects this will never understand anything in the prophets."
+        ],
+        "Archibald T. Robertson": [
+            "Since the world began (\u03b1\u03c0' \u03b1\u03b9\u03c9\u03bd\u03bf\u03c2). Better \"from of old\" (Weymouth, American Revision). "
+        ],
+        "John Gill": [
+            "Which shows not only the veracity and faithfulness of God in his promises, but the early intimations that were given by him concerning the Messiah.",
+            "Christ was spoken of to Abraham, as his seed, in whom all nations of the earth should be blessed.",
+            "The men, by whom God spoke of the Messiah, of the mission of him, and of raising up this horn of salvation, for his people, were 'prophets'; men endued with a spirit of prophecy."
+        ],
+        "John Wesley": [
+            "His prophets, who have been since the world began \u2014 For there were prophets from the very beginning."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From the earliest period, the prophets have continuously referred to the coming of the Messiah, as affirmed by the testimonies of Jacob, Moses, and Isaiah. This general expression emphasizes the collective prediction of the prophets regarding the Messiah. Their prophecies form a solid foundation for our faith in Christ, for they demonstrate the veracity and faithfulness of God in His promises. While delving into each prophet's specific testimony would be an extensive study, our primary focus should be on recognizing the divine covenant and the early indications given by God concerning the Messiah. Thus, we see that prophets have been present since the world began, speaking forth the coming of the horn of salvation for God's people.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.35,
+            "qualityScore": 1.8705080280179174,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.54,
+            "commentatorTierSimilarities": [
+                7.89,
+                46.88,
+                45.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "From of old, the prophets have consistently foretold the coming of the Messiah. The testimonies of Jacob, Moses, and Isaiah, among others, affirm their predictions. These prophecies serve as a solid foundation for our faith in Christ, attesting to God's faithfulness and veracity in His promises. While examining each prophet's testimony would lead to an extensive discussion, our primary focus should be on recognizing the divine covenant and the early indications given by God regarding the Messiah. Prophets have been present since the beginning, proclaiming the arrival of the horn of salvation for God's people.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.831828334828649,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
+            "commentatorTierSimilarities": [
+                7.88,
+                46.11,
+                46.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From of old, the prophets have constantly spoken of the Messiah, providing solid evidence for our faith in Him. Jacob, Moses, and Isaiah, along with other prophets, are known for their significant references to the coming of the Messiah from the very beginning. While a detailed examination of each prophet's contribution would be lengthy, our main focus should be on acknowledging the divine covenant and the early indications given by God about the Messiah, attesting to His faithfulness and truthfulness in fulfilling His promises.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.0073567771112217,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                7.17,
+                48.06,
+                44.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Since the earliest period, the prophets have consistently foretold the coming of the Messiah. Their testimonies, including those of Jacob, Moses, and Isaiah, form a strong foundation for our faith in Christ. While a detailed analysis of each prophet's contribution may be extensive, our primary focus should be on recognizing the divine covenant and the early indications given by God regarding the Messiah. This not only demonstrates God's faithfulness in fulfilling His promises but also highlights the importance of the prophets' role in proclaiming the arrival of the horn of salvation for God's people.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.798250638484748,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+            "commentatorTierSimilarities": [
+                7.67,
+                45.71,
+                46.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "From of old, the prophets have continuously referred to the coming of the Messiah, as affirmed by the testimonies of Jacob, Moses, and Isaiah. These prophecies form a solid foundation for our faith in Christ, demonstrating the veracity and faithfulness of God in His promises. While delving into each prophet's specific testimony would be an extensive study, our primary focus should be on recognizing the divine covenant and the early indications given by God concerning the Messiah. Thus, we see that prophets have been present since the world began, speaking forth the coming of the horn of salvation for God's people.",
+            "wordCount": 103,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.8476159536960841,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+            "commentatorTierSimilarities": [
+                8.15,
+                44.89,
+                46.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

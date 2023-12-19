@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:32:39",
+    "verseRef": "Ephesians 4:14",
+    "bestBHT": {
+        "bht": "Believers can be easily swayed by the various teachings and schemes of error, like billows of the sea tossed to and fro, even without wind. These teachings, represented as winds, blow the unstable soul in every direction, leaving them vulnerable to deception. Without a solid foundation in Christ, believers remain as babes, victims of every charlatan who comes along. To avoid being carried about by every wind, it is crucial to acquire settled views of truth and be firmly grounded in the doctrines of the gospel.",
+        "wordCount": 86,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.8372077860880593,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+        "commentatorTierSimilarities": [
+            35.24,
+            33.35,
+            31.41
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Tossed to and fro - inwardly, even without wind; like billows of the sea.",
+            "The various teachings are the 'winds' which keep them tossed on a sea of doubts.",
+            "Craftiness tending to the methodized system of deceit, 'the schemes of error'."
+        ],
+        "Albert Barnes": [
+            "They hold no doctrines that are settled in their minds by careful and patient examination, and the consequence is, that they yield to every new opinion, and submit to the guidance of every new teacher.\" ",
+            "No man can be useful who has not settled principles. No one who has not such principles can inspire confidence or be happy, and the first aim of every young convert should be to acquire settled views of the truth, and to become firmly grounded in the doctrines of the gospel.\" ",
+            "A man who forms his religious principles by chance, can un 'form' them in the same way; and he who has determined his faith by one cast of the die, will be likely to throw them into another form by another."
+        ],
+        "Marvin Vincent": [
+            "The different teachings of philosophers or of religious quacks are represented as winds, blowing the unstable soul in every direction.",
+            "The craft which gamblers use.",
+            "Error organizes. It has its systems and its logic."
+        ],
+        "John Calvin": [
+            "But let not such a statement be carried to the other extreme, as if there were no progress beyond childhood.\" ",
+            "The distressing hesitation of those who do not place absolute reliance on the word of the Lord, is illustrated by two striking metaphors.",
+            "By a beautiful metaphor, all the doctrines of men, by which we are drawn away from the simplicity of the gospel, are called winds."
+        ],
+        "Philip Schaff": [
+            "We be no longer children; immature, small, feeble, imperfect.",
+            "Tossed as waves; like the waves, \u2018fluctuating'. Excitable and unsteady, as children are.",
+            "Those immature run after every new teacher; having little knowledge or stability, excitable, dependent on their surroundings, they fall a ready prey to the various teachers of error."
+        ],
+        "Archibald T. Robertson": [
+            "Some Christians are quite content to remain 'babes' in Christ and never cut their eye-teeth (Hebrews 5:11-14), the victims of every charlatan who comes along.",
+            "If not anchored by full knowledge of Christ, folks are at the mercy of these squalls.",
+            "Paul has covered the whole ground in this picture of Gnostic error."
+        ],
+        "John Gill": [
+            "In such sense children, as they were when first converted, newborn babes, little children: there are some things in which they should be children still, namely, with respect to an ardent and flaming love to God and Christ, and to the saints.",
+            "False doctrine, which may be compared to wind for its lightness and emptiness, and for its swelling and puffing nature, and for the noise and bluster it makes, and for its rapidity and force, with which it sometimes comes and bears all before it, and for its infectiousness.",
+            "The ministration of the Gospel is the best and surest guard and antidote against such fluctuations and deceptions."
+        ],
+        "John Wesley": [
+            "Fluctuating to and fro \u2014 From within, even when there is no wind.",
+            "And carried about with every wind \u2014 From without; when we are assaulted by others, who are unstable as the wind.",
+            "By the sleight of men \u2014 By their 'cogging the dice;' so the original word implies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights how believers can be easily swayed and influenced by the various teachings and schemes of error that exist in the world. These teachings are represented as winds, blowing the unstable soul in every direction. Without a solid foundation and knowledge of Christ, believers are at the mercy of these squalls, remaining immature and vulnerable. Therefore, it is crucial for Christians to acquire settled views of the truth and become firmly grounded in the doctrines of the gospel in order to withstand the fluctuations and deceptions of false doctrine. The ministration of the Gospel serves as the best and surest guard against these fluctuations and deceitful schemes.",
+            "wordCount": 109,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6748389749569337,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.03,
+            "commentatorTierSimilarities": [
+                35.69,
+                32.95,
+                31.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers, like waves tossed to and fro without wind, can be easily swayed by the various teachings and schemes of error. These doctrines, represented as winds, blow the immature soul in every direction. Without a solid foundation in Christ, one remains at the mercy of these squalls. Therefore, it is crucial for Christians to acquire settled views of the truth and become firmly grounded in the doctrines of the gospel to withstand the fluctuations and deceit of false teaching. The ministration of the Gospel is the best guard against these fluctuations and deceptions.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.7701384934933921,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                35.4,
+                32.54,
+                32.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers can be easily swayed by the various teachings and schemes of error, like waves tossed without wind. These teachings act as winds, blowing the immature soul in different directions. Without a firm foundation in Christ, one becomes vulnerable to these deceptive squalls. To withstand the fluctuations and deceit of false doctrine, it is essential for believers to establish settled views of the truth and be firmly grounded in the doctrines of the gospel. The ministration of the Gospel is the best guard against these fluctuations and deceptions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.7364133322024946,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                35.17,
+                32.68,
+                32.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers can be easily swayed by the various teachings and schemes of error, like billows of the sea tossed to and fro, even without wind. These teachings, represented as winds, blow the unstable soul in every direction, leaving them vulnerable to deception. Without a solid foundation in Christ, believers remain as babes, victims of every charlatan who comes along. To avoid being carried about by every wind, it is crucial to acquire settled views of truth and be firmly grounded in the doctrines of the gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8372077860880593,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                35.24,
+                33.35,
+                31.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Without a solid foundation in Christ, believers are like billows of the sea, tossed to and fro even without wind. The various teachings and schemes of error act as winds, blowing the unstable soul in every direction. This susceptibility leaves believers at the mercy of every charlatan who comes along. To avoid being carried away by these squalls, it is crucial for believers to acquire settled views of truth and be firmly grounded in the gospel's doctrines. The ministration of the Gospel serves as the best guard against these fluctuations and deceit.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.75201631906151,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                36.37,
+                31.22,
+                32.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

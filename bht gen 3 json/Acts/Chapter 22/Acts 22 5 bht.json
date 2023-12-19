@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:34:59",
+    "verseRef": "Acts 22:5",
+    "bestBHT": {
+        "bht": "On this particular occasion, Paul is speaking to the Jews as a fellow Jew, emphasizing his connection with them by referring to them as his brothers. He even goes as far as to say that the high priest and the entire Sanhedrin, of which Paul himself may have been a member, can bear witness to his actions. It is interesting to note that Paul does not show any bitterness towards his fellow Jews, even though he carried his persecution of the Christian brethren outside of Palestine, just as later he carried the gospel across the Roman empire.",
+        "wordCount": 97,
+        "quoteTokenProportion": 48.48,
+        "qualityScore": 2.1075299895984507,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+        "commentatorTierSimilarities": [
+            23.42,
+            44.88,
+            31.7
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The rendering, \u2018against the (Christian) brethren,\u2019 is altogether inadmissible.",
+            "If ever Paul spoke to the Jews as a Jew, it was on this occasion.",
+            "Theophilus, see on ch. ix. 1. Similarly, the whole Sanhedrim are \u2018those who were then members, and now survive."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. the high priest\u2014still",
+            "\talive. ",
+            "\t",
+            "doth bear me witness, and all",
+            "\tthe estate of the elders\u2014the whole Sanhedrim."
+        ],
+        "Albert Barnes": [
+            "All the estate of the elders - Greek: all the presbytery; that is, the whole body of the Sanhedrin, or Great Council of the nation.",
+            "Unto the brethren - The Jewish brethren who were at Damascus.",
+            "Paul here speaks as a Jew, and regards his countrymen as his brethren."
+        ],
+        "Marvin Vincent": [
+            "Estate of the elders [\u03c0\u03c1\u03b5\u03c3\u03b2\u03c5\u03c4\u03b5\u03c1\u03b9\u03bf\u03bd] . The eldership or Sanhedrim. ",
+            "Went. The imperfect : was journeying."
+        ],
+        "Philip Schaff": [
+            "The high priest who with the Sanhedrim gave Paul his credentials as inquisitor for Damascus and Syria, was probably Jonathan the successor and brother of Caiaphas.",
+            "'The estate of the elders\u2019 more likely is a term used for the Sanhedrim.",
+            "He uses the term \u2018brethren\u2019 to show how, now as then, he regarded his fellow-countrymen the Jews as \u2018his brethren,\u2019 and how he looked on their interests as his."
+        ],
+        "Archibald T. Robertson": [
+            "All the eldership or the Sanhedrin... of which Paul was probably then a member.",
+            "Paul still can tactfully call the Jews his 'brothers'... There is no bitterness in his heart.",
+            "He carried his persecution outside of Palestine just as later he carried the gospel over the Roman empire."
+        ],
+        "John Gill": [
+            "As also the high priest doth bear me witness.",
+            "and all the estate of the elders; the whole Jewish sanhedrim",
+            "and went to Damascus to bring them which were there bound unto Jerusalem, for to be punished"
+        ],
+        "John Wesley": [
+            "The high priest is my witness \u2014 Is able to testify.",
+            "The brethren \u2014 Jews: so this title was not peculiar to the Christians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On this particular occasion, Paul is speaking to the Jews as a fellow Jew, emphasizing his connection with them by referring to them as his brothers. He even goes as far as to say that the high priest and the entire Sanhedrin, of which Paul himself may have been a member, can bear witness to his actions. It is interesting to note that Paul does not show any bitterness towards his fellow Jews, even though he carried his persecution of the Christian brethren outside of Palestine, just as later he carried the gospel across the Roman empire.",
+            "wordCount": 97,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.1075299895984507,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+            "commentatorTierSimilarities": [
+                23.42,
+                44.88,
+                31.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On this occasion, Paul addresses his Jewish brethren, emphasizing his connection with them and their shared identity. He acknowledges that the high priest and the entire Sanhedrin, of which Paul may have been a member, can testify to his actions. Despite his earlier persecution of the Christian brethren, Paul still considers the Jews as his brothers, without any bitterness in his heart. His commitment to reaching out to both Jews and Gentiles is evident in his journey to Damascus to bring the bound Jews to Jerusalem for punishment.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0236991533558912,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+            "commentatorTierSimilarities": [
+                22.15,
+                46.94,
+                30.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this instance, Paul addresses his fellow Jews as his brothers, displaying his deep connection with them. He highlights that the high priest and the entire Sanhedrin, potentially including himself, can testify to his actions. Despite his past persecution of the Christian brethren, Paul's words carry no bitterness towards his Jewish brethren. Just as he carried his persecution beyond Palestine, he also carried the message of the gospel across the Roman empire. This reflects Paul's unwavering commitment to his mission.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8250898747312292,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.03,
+            "commentatorTierSimilarities": [
+                23.8,
+                45.95,
+                30.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in addressing his Jewish brethren, refers to them as his brothers to emphasize their shared identity. He relies on the high priest and the Sanhedrin, to which he may have belonged, as witnesses to his actions. Despite his past persecution of the Christian brethren, Paul expresses no bitterness towards his fellow Jews. He extends his persecution beyond Palestine, just as he later carries the gospel throughout the Roman empire, exemplifying his unwavering commitment to spreading the message.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9546296258556906,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.33,
+            "commentatorTierSimilarities": [
+                22.11,
+                46.7,
+                31.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On this occasion, Paul addresses the Jews as his brothers, showcasing his strong connection with them as a fellow Jew. He states that the high priest, along with the whole Sanhedrin, can testify to his actions. Paul's use of the term brothers signifies his lack of bitterness towards his Jewish brethren, despite his previous persecution of the Christian community. Interestingly, he extends his persecution beyond Palestine, just as he later brings the gospel to various parts of the Roman empire.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9872207853295287,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                21.7,
+                45.65,
+                32.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

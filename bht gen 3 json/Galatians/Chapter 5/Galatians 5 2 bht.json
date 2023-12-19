@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:20:40",
+    "verseRef": "Galatians 5:2",
+    "bestBHT": {
+        "bht": "Behold! I, Paul, make a strong statement against the false apostles who teach that circumcision is necessary for salvation. If you continue to be circumcised, you disbelieve in the power of grace and Christ will profit you nothing. Circumcision is a sign of subjection to the law, and by choosing it, you relinquish Christ. Therefore, if you submit to circumcision, you lose the whole of Christ, not just a part.",
+        "wordCount": 70,
+        "quoteTokenProportion": 51.02,
+        "qualityScore": 2.238316336703413,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.76,
+        "commentatorTierSimilarities": [
+            35.55,
+            37.87,
+            26.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Behold (it draws attention to what follows, as a strong statement). I Paul",
+            "The present, in the original, implies the continuance of a habit, q.d. if you will go on being circumcised.",
+            "Nothing can be more directly opposed than this verse to the saying of the Judaizers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Behold\u2014that is, Mark what I say.",
+            "If ye suffer yourselves to be circumcised, namely, under the notion of its being necessary to justification.",
+            "He who is circumcised [for justification] is so as fearing the law, and he who fears, disbelieves the power of grace, and he who disbelieves can profit nothing by that grace which he disbelieves."
+        ],
+        "Albert Barnes": [
+            "If you are circumcised with a view to being justified by that in whole or in part, it amounts to a rejection of the doctrine of justification by Christ, and an entire apostacy from him.",
+            "No one is to share with him in the honor of saving people; and no rite, no custom, no observance of law, is to divide the honor with his death.",
+            "Rites and ceremonies in religion may be in themselves well enough, if they are held to be matters not essential; but the moment they are regarded as vital and essential, that moment they begin to infringe on the doctrine of justification by faith alone, and that moment they are to be rejected."
+        ],
+        "Marvin Vincent": [
+            "If ye be circumcised, Christ will profit you nothing.\" ",
+            "Circumcision is the sign of subjection to the Jewish 'yoke' - the economy of the law.\" ",
+            "The choice of the law involved the relinquishment of Christ."
+        ],
+        "John Calvin": [
+            "Paul\u2019s reasoning is directed not so properly against the outward rite or ceremony, as against the wicked doctrine of the false apostles, who pretended that it was a necessary part of the worship of God, and at the same time made it a ground of confidence as a meritorious work.",
+            "These diabolical contrivances made Christ to profit nothing; not that the false apostles denied Christ, or wished him to be entirely set aside, but that they made such a division between his grace and the works of the law as to leave not more than the half of salvation due to Christ.",
+            "Whoever wishes to have the half of Christ, loses the whole."
+        ],
+        "Philip Schaff": [
+            "A circumcised man may become a Christian, but a Christian who deliberately undergoes circumcision, becomes a Jew and virtually trusts to the law for salvation, and not to Christ.\" ",
+            "'If ye be circumcised,' or 'submit to circumcision,' as a term of salvation; some had probably done so already.",
+            "'Christ will profit you nothing;' the future marks the certain result of this Judaizing course."
+        ],
+        "Archibald T. Robertson": [
+            "I Paul. Asserts all his personal and apostolic authority.\" ",
+            "If ye receive circumcision. Condition of third class and present passive subjunctive, a supposable case, but with terrible consequences, for they will make circumcision a condition of salvation.\" ",
+            "In that case Christ will help them not at all."
+        ],
+        "John Gill": [
+            "Circumcision submitted to on this consideration, and with this view rendered Christ unprofitable, made his death to be in vain, his sacrifice of no effect, and his righteousness useless.",
+            "Christ is a whole Saviour, or none at all; to join anything with him and his righteousness, in the business of justification and salvation, is interpreted by him as a contempt and neglect of him.",
+            "Trusting to these [works and righteousness] renders Christ unprofitable to them."
+        ],
+        "John Wesley": [
+            "If ye be circumcised...Christ will profit you nothing.",
+            "For you hereby disclaim Christ, and all the blessings which are through faith in him.",
+            "You hereby disclaim...all the blessings which are through faith in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold! I, Paul, make a strong statement against the false apostles who teach that circumcision is necessary for salvation. If you continue to be circumcised, you disbelieve in the power of grace and Christ will profit you nothing. Circumcision is a sign of subjection to the law, and by choosing it, you relinquish Christ. Don't share the honor of saving people with any rite or custom, for that infringes on the doctrine of justification by faith alone. Trusting in circumcision renders Christ unprofitable and rejects His death as the means of salvation. Therefore, if you submit to circumcision, you lose the whole of Christ, not just a part.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 2.244052915857705,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.96,
+            "commentatorTierSimilarities": [
+                31.85,
+                38.87,
+                29.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold! I, Paul, make a strong statement against the false apostles who teach that circumcision is necessary for salvation. If you continue to be circumcised, you disbelieve in the power of grace and Christ will profit you nothing. Circumcision is a sign of subjection to the law, and by choosing it, you relinquish Christ. Trusting in circumcision renders Christ unprofitable and rejects His death as the means of salvation.",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.2179737624588736,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.09,
+            "commentatorTierSimilarities": [
+                34.17,
+                36.88,
+                28.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold! I, Paul, make a strong statement against the false apostles who teach that circumcision is necessary for salvation. If you continue to be circumcised, you disbelieve in the power of grace and Christ will profit you nothing. Circumcision is a sign of subjection to the law, and by choosing it, you relinquish Christ. Therefore, if you submit to circumcision, you lose the whole of Christ, not just a part.",
+            "wordCount": 70,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 2.238316336703413,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.76,
+            "commentatorTierSimilarities": [
+                35.55,
+                37.87,
+                26.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you choose to be circumcised as a means of seeking justification, you are rejecting the doctrine of justification by Christ and abandoning your faith in him. This directly opposes the teachings of the Judaizers, who believed that circumcision was necessary for salvation. By choosing the law over Christ, you are forfeiting the full extent of his grace and rendering his sacrifice meaningless. Remember that circumcision symbolizes subjection to the law, and by accepting it, you are relinquishing your connection to Christ. Trusting in works and righteousness subtly undermines the sufficiency of Christ and makes him unprofitable to you. Choose Christ alone and fully embrace the blessings that come through faith in him.",
+            "wordCount": 113,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 2.234079471087889,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+            "commentatorTierSimilarities": [
+                28.62,
+                34.23,
+                37.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you go on being circumcised under the notion of its necessity for justification, you are disbelieving in the power of grace and rejecting the full extent of Christ's help. Choosing circumcision over Christ is choosing subjection to the law and relinquishing the blessings that come through faith. Trusting in works and righteousness renders Christ unprofitable, making his sacrifice and righteousness useless. Do not divide the honor with Christ's death by clinging to rites and observances as essential for salvation. Choose Christ alone and embrace the complete blessings through faith in him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.198255101084387,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.43,
+            "commentatorTierSimilarities": [
+                26.09,
+                35.25,
+                38.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

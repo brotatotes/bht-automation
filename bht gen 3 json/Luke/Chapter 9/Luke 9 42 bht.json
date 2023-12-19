@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:17:10",
+    "verseRef": "Luke 9:42",
+    "bestBHT": {
+        "bht": "The devil, knowing Jesus' power to dispossess him, threw the man down and convulsed him in a terrible manner. This violent act highlights the ongoing struggle between Jesus and the devil, as seen in similar events described in the Gospels. The devil aimed to cause as much harm as possible, demonstrating his desperation. However, this confrontation ultimately underscores Jesus' eventual victory over evil forces.",
+        "wordCount": 64,
+        "quoteTokenProportion": 29.79,
+        "qualityScore": 0.9865072762634612,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.15,
+        "commentatorTierSimilarities": [
+            26.26,
+            0.0,
+            73.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Threw him down [\u03b5\u03c1\u03c1\u03b7\u03be\u03b5\u03bd] . See on teareth, Mark 9:18. Tare [\u03c3\u03c5\u03bd\u03b5\u03c3\u03c0\u03b1\u03c1\u03b1\u03be\u03b5\u03bd] . Only here in New Testament.\" ",
+            "Convulse, which is the exact Latin equivalent, would, perhaps, be the nearest rendering. Sparagmov, a kindred noun, is the word for a cramp.\" ",
+            "43 - 45. Compare Matthew 17:22, Matthew 17:23; Mark 9:30-32."
+        ],
+        "John Gill": [
+            "the devil threw him down, and tare him; knowing who Jesus was, and that he was able to dispossess him",
+            "and having reason to believe he would, was resolved to do all the mischief he could",
+            "and therefore threw him to the ground, and convulsed him in a terrible manner at the same time"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how the devil threw and convulsed the man, as if trying to cause as much harm as possible, because he knew Jesus was able to deliver him. This violent act emphasizes the power struggle between Jesus and the devil. This event is similar to other instances in the Gospels where Jesus predicts his death and resurrection, highlighting the ongoing conflict and Jesus' ultimate victory over evil.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 0.9810042292271738,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.96,
+            "commentatorTierSimilarities": [
+                32.47,
+                0.0,
+                67.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The devil violently threw and convulsed the man, fully aware of Jesus' ability to deliver him. This malicious act demonstrates the intense power struggle between Jesus and the devil, emphasizing the magnitude of the conflict. Just as in other Gospel accounts where Jesus predicts his impending death and resurrection, this event serves as a reminder of the ongoing battle and ultimate triumph of Jesus over evil forces.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 0.8881313757468876,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.87,
+            "commentatorTierSimilarities": [
+                28.81,
+                0.0,
+                71.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The devil, knowing Jesus' power to dispossess him, threw the man down and convulsed him in a terrible manner. This violent act highlights the ongoing struggle between Jesus and the devil, as seen in similar events described in the Gospels. The devil aimed to cause as much harm as possible, demonstrating his desperation. However, this confrontation ultimately underscores Jesus' eventual victory over evil forces.",
+            "wordCount": 64,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 0.9865072762634612,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.15,
+            "commentatorTierSimilarities": [
+                26.26,
+                0.0,
+                73.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The devil, aware of Jesus' ability to dispossess him, threw the man down and convulsed him in a terrible manner. This violent act emphasizes the ongoing power struggle between Jesus and the devil, as seen in comparable accounts in the Gospels. The devil, knowing his eventual defeat, sought to inflict as much harm as possible. However, this encounter ultimately underscores Jesus' triumph over the forces of evil.",
+            "wordCount": 67,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 0.969920349594477,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.59,
+            "commentatorTierSimilarities": [
+                26.57,
+                0.0,
+                73.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The devil, knowing Jesus' power and fully aware of his ability to dispossess him, violently threw the man down and convulsed him in a terrible manner. This intense act of harm demonstrates the ongoing power struggle between Jesus and the devil, as similar events are recounted in the Gospels. The devil, recognizing his ultimate defeat, sought to inflict as much misery as possible. Nevertheless, this confrontation ultimately serves as a testament to Jesus' ultimate victory over evil forces.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 0.9493343179210549,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.91,
+            "commentatorTierSimilarities": [
+                27.27,
+                0.0,
+                72.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

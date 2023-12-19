@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:18:03",
+    "verseRef": "2 Corinthians 11:9",
+    "bestBHT": {
+        "bht": "Paul, in this context, underscores that he did not benumb or burden the Corinthians by seeking pecuniary aid from them. Instead, he relied on the brethren, particularly the Macedonians, who supplied his needs during his residence with the Corinthians. Paul's unwavering determination was to maintain his independence and not be a dead weight or troublesome to others. By accepting support from the poor Macedonians rather than the rich Corinthians, he demonstrates their remarkable generosity and his preference for their contribution.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 2.0583433024035758,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.78,
+        "commentatorTierSimilarities": [
+            35.06,
+            23.95,
+            41.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the former sentence, he implied that he brought with him from Macedonia supplies towards his maintenance at Corinth: here, he speaks of a new supply during his residence with the Corinthians, when those resources failed.\" ",
+            "For (reason why he burdened no one) the brethren (who, he does not say: their names were well known to the Corinthians.",
+            "When they came from Macedonia (not as A.V., \u2018which came\u2019) supplied my wants; and in every thing I kept myself ( \u2018during my residence:\u2019 not, \u2018have kept myself, as A.V.) unburdensome to you, and will keep myself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "chargeable\u2014Greek, 'burdensome,' literally, 'to torpify,' and so to oppress.\" ",
+            "the brethren when they came.\" ",
+            "supplied in addition,\" namely, in addition to their former contributions."
+        ],
+        "Albert Barnes": [
+            "I did not lie as a dead weight upon you.",
+            "He did not expect support from them when he was doing nothing.",
+            "Paul had no idea of living at other people's expense when he was doing nothing."
+        ],
+        "Marvin Vincent": [
+            "From narkh numbnees, deadness; also a torpedo or gymnotus, which benumbs whatever touches it.",
+            "The compound verb used here occurs in Hippocrates in the sense of growing quite stiff.",
+            "According to the etymology of the word, Paul would say that he did not benumb the Corinthians by his demand for pecuniary aid."
+        ],
+        "John Calvin": [
+            "He, nevertheless, in the mean time, labored with his hands, as we have seen before, but, as the labor of his hands was not sufficient for sustaining life, something additional was contributed by the Macedonians.",
+            "Accordingly he does not say, that his living had been furnished to him by the Macedonians, but merely that they had supplied what was wanting.",
+            "Here we must take notice of the pious zeal of the Macedonians, who did not hesitate to contribute of their substance for his pay, that the gospel might be proclaimed to others, and those, too, that were wealthier than themselves."
+        ],
+        "Philip Schaff": [
+            "I was not a burden on any man.\" ",
+            "From the Macedonian brethren of Philippi and Thessalonica he accepted support.\" ",
+            "So tender was he of their feelings."
+        ],
+        "Archibald T. Robertson": [
+            "Paul 'did not benumb the Corinthians by his demand for pecuniary aid'.\" ",
+            "Paul 'kept himself independent'."
+        ],
+        "John Gill": [
+            "I did not chill and benumb any man's charity, by asking relief from him, for he importuned no man on this account.",
+            "He worked hard, lived sparingly, and received from others; that as in respect to his maintenance, so in everything else he might live without being a dead weight upon them, or any ways troublesome to them.",
+            "He had taken up a resolution in himself not to be chargeable and troublesome to them, but to provide for himself some other way."
+        ],
+        "John Wesley": [
+            "For \u2014 I choose to receive help from the poor Macedonians, rather than the rich Corinthians! Were the poor in all ages more generous than the rich?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in 2 Corinthians 11:9, explains that he did not burden the Corinthians for financial support, as the brethren supplied his wants and he kept himself unburdensome to them. He possessed a pious zeal for the gospel and relied on the Macedonians' contributions. Paul's intention was to not benumb or chill anyone's charity by asking for relief, as he labored with his own hands while additionally receiving support. His steadfast determination was to live in a way that would not be a dead weight or troublesome to others, choosing to receive help from the poor Macedonians instead of the rich Corinthians.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.024521194357904,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.66,
+            "commentatorTierSimilarities": [
+                30.05,
+                25.6,
+                44.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul emphasizes in this verse his commitment to not burdening the Corinthians and his reliance on the brethren who supplied his needs. He labored with his own hands but also accepted additional support. By doing so, he aimed to avoid chilling or benumbing anyone's charity and to live in a way that would not be a dead weight or troublesome to others. Paul's decision to accept help from the poor Macedonians rather than the rich Corinthians demonstrates their generosity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.8200704466543076,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                28.78,
+                26.66,
+                44.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, in this passage, expresses his determination to not burden the Corinthians. He relies on the brethren who supplied his needs and strives to be unburdensome to them. His intention is to avoid chilling anyone's charity and to live in a manner that does not cause trouble or make others uncomfortable. Paul's choice to accept support from the poor Macedonians rather than the rich Corinthians reveals their commendable generosity.",
+            "wordCount": 71,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.865989483056846,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                32.24,
+                25.06,
+                42.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in this context, emphasizes his commitment to not burden the Corinthians. He relies on the brethren who supplied his needs, while actively striving to be unburdensome to them. Paul did not want to chill or benumb anyone's charity by requesting financial aid. His intention was to live without being a dead weight or causing trouble to others. Instead of the rich Corinthians, he gratefully accepted support from the poor Macedonians, showcasing their admirable generosity.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.9153275679900483,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.03,
+            "commentatorTierSimilarities": [
+                32.02,
+                27.86,
+                40.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in this context, underscores that he did not benumb or burden the Corinthians by seeking pecuniary aid from them. Instead, he relied on the brethren, particularly the Macedonians, who supplied his needs during his residence with the Corinthians. Paul's unwavering determination was to maintain his independence and not be a dead weight or troublesome to others. By accepting support from the poor Macedonians rather than the rich Corinthians, he demonstrates their remarkable generosity and his preference for their contribution.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.0583433024035758,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.78,
+            "commentatorTierSimilarities": [
+                35.06,
+                23.95,
+                41.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

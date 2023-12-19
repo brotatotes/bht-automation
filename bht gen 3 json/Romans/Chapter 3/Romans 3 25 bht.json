@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:02:05",
+    "verseRef": "Romans 3:25",
+    "bestBHT": {
+        "bht": "Through faith in Christ's blood, we appropriate Him as a propitiatory sacrifice, experiencing pardon and reconciliation. God's righteousness is displayed by setting forth Christ as a propitiation for sin, demonstrating both His grace and His justice. The crucified Christ is a votive gift, satisfying God's demand for atonement and providing salvation for all. His sacrificial death removes the obstructions to divine love, appeasing justice and allowing peace and reconciliation. This displays the righteousness of God, demonstrating His clemency and justice.",
+        "wordCount": 83,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 2.4824217167718396,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.88,
+        "commentatorTierSimilarities": [
+            33.54,
+            37.36,
+            29.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As 'through faith' is the subjective means of appropriation, so 'by his blood' is the objective means of manifestation, of Christ as a propitiatory sacrifice.",
+            "A sin-offering betokens on the one side the expiation of guilt, and on the other ensures pardon and reconciliation: and thus the Death of Christ is not only a proof of God\u2019s grace and love, but also of His judicial righteousness which requires punishment and expiation.",
+            "To vindicate that character for justice, which might seem, owing to the suspension of God\u2019s righteous sentence on sin in former ages in His forbearance, to be placed in question: to show, that though He did not then fully punish for sin, and though He did then set forth inadequate means of (subjective) justification, yet He did both, not because His justice was slumbering, nor because the nature of His righteousness was altered, but because He had provided a way whereby sin might be forgiven, and He might be just."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whom God hath set forth to be a propitiation, in His blood, through faith.\" ",
+            "Faith in Christ is used in Ephesians 1:15; and 'faith in His blood' is the natural and appropriate meaning here.\" ",
+            "Now that God can 'set forth' Christ as a 'propitiation for sin through faith in His blood,' the righteousness of His procedure in passing by the sins of believers before, and in now remitting them, is 'manifested,' declared, brought fully out to the view of the whole world."
+        ],
+        "Albert Barnes": [
+            "God has publicly exhibited Jesus Christ as a propitiatory sacrifice for the sins of people.",
+            "Christ is thus represented, not as a mercy-seat, which would be unintelligible; but as the medium, the offering, the expiation, by which reconciliation is produced between God and man.",
+            "The plan of pardon is such as completely to remove all the former sins of the life, not of all former generations."
+        ],
+        "Marvin Vincent": [
+            "He brought Him forth and put Him before the public.",
+            "It is the key to the conception of Christ's atoning work.",
+            "The true meaning of the offering of Christ concentrates... upon bringing estranged man into harmony with God."
+        ],
+        "John Calvin": [
+            "If we embrace this meaning, it will remain still true, that God hath set him forth in due time, whom he had appointed as a Mediator.",
+            "Thus, by taking a part for the whole, he points out the whole work of expiation.",
+            "Paul teaches us, that it was an evidence of forbearance."
+        ],
+        "Philip Schaff": [
+            "It will be noticed that all explanations rest on the thought that Christ\u2019s death was sacrificial and expiatory; that it was a real atonement, required by something in the character of God, and not merely designed to effect moral results in man.",
+            "The atoning death of Christ is the ground of the \u2018reconciliation\u2019 (wrongly translated \u2018atonement\u2019 in chap. Romans 5:11), since it satisfies the demands of Divine justice on the one hand, and on the other draws men to God.",
+            "His retributive justice is meant; the death of Christ shows how He hates sin, while He saves sinners."
+        ],
+        "Archibald T. Robertson": [
+            "The crucified Christ is the votive gift of the Divine Love for the salvation of men.\" ",
+            "God demanded the atonement and provided it.",
+            "In this sense Christ tasted death for every man."
+        ],
+        "John Gill": [
+            "Christ is the propitiation to God for sin; which must be understood of his making satisfaction to divine justice, for the sins of his people; these were imputed to him, and being found on him, the law and justice of God made demands on him for them; which he answered to satisfaction, by his obedience and sacrifice.",
+            "Christ has not, by his sacrifice and death, procured the love and favour of God, but has removed the obstructions which lay in the way of love's appearing and breaking forth; there was, a law broken, and justice provoked, which were to be attended to, and Christ by his sacrifice has satisfied both; so that neither the wrath of God, nor any of the effects of it, can fall upon the persons Christ is the propitiation for, even according to justice itself; so that it is not love, but justice that is made propitious.",
+            "The 'blood' of Christ is that, by which Christ is the propitiation; for without the shedding of that blood, there is no redemption, no peace, no reconciliation, or remission of sin; and 'faith' in his blood is the means by which persons become partakers of the benefits of his propitiation; such as peace, pardon, atonement, justification, and adoption."
+        ],
+        "John Wesley": [
+            "Whom God hath set forth \u2014 Before angels and men.",
+            "A propitiation \u2014 To appease an offended God.",
+            "To declare his righteousness \u2014 To demonstrate not only his clemency, but his justice..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through faith, we have the subjective means of appropriating the objective means of manifestation, which is Christ as a propitiatory sacrifice. Christ's death, as a sin-offering, signifies the expiation of guilt and ensures pardon and reconciliation. It demonstrates God's grace, love, and judicial righteousness. By setting forth Christ as a propitiation in His blood, God vindicates His character for justice and shows that His righteousness remains unaltered. Through faith in His blood, we enter into justification, and God's righteous procedure is fully displayed for the world to see. The crucified Christ is a votive gift of Divine Love for the salvation of humanity. His atoning work brings estranged humanity into harmony with God. It is through Christ's sacrificial and expiatory death that Divine justice is satisfied, sin is condemned, and sinners are saved.",
+            "wordCount": 138,
+            "quoteTokenProportion": 26.25,
+            "qualityScore": 2.379762162227328,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.47,
+            "commentatorTierSimilarities": [
+                36.36,
+                36.63,
+                27.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through faith, we have the subjective means of appropriating the objective means of manifestation, which is Christ as a propitiatory sacrifice. Christ's death as a sin-offering ensures pardon and reconciliation, displaying both God's love and His judicial righteousness. By setting forth Christ as a propitiation in His blood, God vindicates His character for justice and demonstrates His unaltered righteousness. Through faith in His blood, we enter into justification, and God's righteous procedure is fully displayed to the world. The crucified Christ is a votive gift of Divine Love for the salvation of humanity, bringing estranged humanity into harmony with God.",
+            "wordCount": 104,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 2.4960511509909944,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.33,
+            "commentatorTierSimilarities": [
+                37.33,
+                35.21,
+                27.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through faith in His blood, we have the means to appropriate Christ as a propitiatory sacrifice. This sacrificial and expiatory death demonstrates God's grace, love, and judicial righteousness. By setting forth Christ as a propitiation, God vindicates His character for justice and declares His righteousness to the world. The crucified Christ is a votive gift of Divine Love, bringing estranged humanity into harmony with God. His atoning work satisfies both divine justice and the demands of the law, ensuring peace, reconciliation, and redemption for those who have faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.42639791027167,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.02,
+            "commentatorTierSimilarities": [
+                36.09,
+                35.1,
+                28.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the objective means of Christ's blood and the subjective means of faith, we appropriate Him as a propitiatory sacrifice. His death as a sin-offering expiates guilt, ensures pardon, and reconciles us with God. This display of Divine Love demonstrates God's grace, love, and judicial righteousness. By setting forth Christ as a propitiation, God vindicates His character for justice and declares His righteousness to the world. Through faith in His blood, we enter into justification, experiencing peace, pardon, atonement, justification, and adoption.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.361828639087494,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.87,
+            "commentatorTierSimilarities": [
+                35.76,
+                34.98,
+                29.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through faith in Christ's blood, we appropriate Him as a propitiatory sacrifice, experiencing pardon and reconciliation. God's righteousness is displayed by setting forth Christ as a propitiation for sin, demonstrating both His grace and His justice. The crucified Christ is a votive gift, satisfying God's demand for atonement and providing salvation for all. His sacrificial death removes the obstructions to divine love, appeasing justice and allowing peace and reconciliation. This displays the righteousness of God, demonstrating His clemency and justice.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.4824217167718396,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.88,
+            "commentatorTierSimilarities": [
+                33.54,
+                37.36,
+                29.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

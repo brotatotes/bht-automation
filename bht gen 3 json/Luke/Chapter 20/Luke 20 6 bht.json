@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:22:01",
+    "verseRef": "Luke 20:6",
+    "bestBHT": {
+        "bht": "The people collectively cried out, Stone us down! The intensity of their reaction reflects their settled state of persuasion, their deep-rooted belief in John as a prophet. This response aligns with the account in Matthew and Mark where the common people would be so enraged at such an answer. Their strong conviction and unwavering faith fueled their anger, as the evidence was so strong in their minds.",
+        "wordCount": 68,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 1.2718010763497818,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.63,
+        "commentatorTierSimilarities": [
+            33.89,
+            0.0,
+            66.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Stone us down\" [\u03ba\u03b1\u03c4\u03b1] ; i e., stone us to death.",
+            "Lit., It (the people collectively) is having been persuaded. Demoting a long - standing and settled persuasion.",
+            "Compare Matthew 21:33-46; Mark 12:1-12."
+        ],
+        "Archibald T. Robertson": [
+            "Will throw stones down on us, stone us down, overwhelm us with stones.",
+            "Is persuaded, a settled state of persuasion, 'is persuaded'.",
+            "Accusative and infinitive in indirect assertion."
+        ],
+        "John Gill": [
+            "All the people will stone us... for they be persuaded that John was a prophet.\" ",
+            "The common people... would be so enraged at such an answer.\" ",
+            "The evidence was so strong, and their faith so firm and sure."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people responded to Jesus by saying, Stone us down to death! This outcry reflects their deep-rooted and unwavering conviction. It is similar to the story in Matthew and Mark where the people were persuaded that John the Baptist was a prophet. Their anger would be so intense because the evidence was so strong and their faith so firm. The people believed this conviction to their core.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.1938099873297592,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.04,
+            "commentatorTierSimilarities": [
+                29.91,
+                0.0,
+                70.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people collectively shouted, Stone us down to death! Their resolute persuasion is evident in their words. This is similar to the account in Matthew and Mark where people were convinced that John was a prophet. The strength of evidence and unwavering faith fueled their anger. They firmly held onto this deep-rooted conviction.",
+            "wordCount": 54,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.2443840986690091,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.72,
+            "commentatorTierSimilarities": [
+                37.91,
+                0.0,
+                62.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people collectively cried out, Stone us down! The intensity of their reaction reflects their settled state of persuasion, their deep-rooted belief in John as a prophet. This response aligns with the account in Matthew and Mark where the common people would be so enraged at such an answer. Their strong conviction and unwavering faith fueled their anger, as the evidence was so strong in their minds.",
+            "wordCount": 68,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.2718010763497818,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.63,
+            "commentatorTierSimilarities": [
+                33.89,
+                0.0,
+                66.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people responded by exclaiming, Stone us down to death! This outcry indicates their firmly established and unchanging belief regarding John as a prophet. This echoes the similar account in Matthew and Mark where the common people would be so infuriated by such an answer. Their anger stemmed from the undeniable evidence and their unwavering faith in John's prophetic status. Their conviction ran deep within them.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.154275417509939,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.72,
+            "commentatorTierSimilarities": [
+                35.36,
+                0.0,
+                64.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people collectively called out, Stone us down to death! Their vehement reaction reflects their longstanding and unyielding conviction. This is reminiscent of the parallel account in Matthew and Mark, where the common people would be so enraged by such a response. Their anger was fueled by the compelling evidence and their resolute faith in John as a prophet. Their firmly held belief was deeply ingrained, shaping their passionate response.",
+            "wordCount": 70,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.2365136457398174,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.46,
+            "commentatorTierSimilarities": [
+                38.21,
+                0.0,
+                61.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

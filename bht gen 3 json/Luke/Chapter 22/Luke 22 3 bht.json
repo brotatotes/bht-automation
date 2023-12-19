@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:22:54",
+    "verseRef": "Luke 22:3",
+    "bestBHT": {
+        "bht": "When Jesus entrusted Judas with the responsibility of overseeing the finances, Satan took advantage of this position to gain influence and control over him. Initially, the thought of betraying Jesus was suggested to Judas, but it took hold of him during the paschal supper when Satan entered into him. Although Judas willingly allowed Satan in, he cannot be relieved of his moral responsibility. It is a stark reminder that even in the midst of Jesus' ultimate victory over Satan, the consequences of allowing the adversary to enter our hearts can be dire.",
+        "wordCount": 92,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 2.353618990968945,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.6,
+        "commentatorTierSimilarities": [
+            35.0,
+            29.87,
+            35.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Covetousness being his master\u2014passion, the Lord let it reveal itself and gather strength by entrusting him with 'the bag' (John 12:6), as treasurer to Himself and the Twelve.",
+            "Satan, seeing this door into his heart standing wide open, determines to enter by it, but cautiously (2 Corinthians 2:11) first merely 'putting it into his heart to betray Him' (John 13:2), suggesting the thought to him that by this means he might enrich himself.",
+            "Starting back, perhaps, or mercifully held back, for some time, the determination to carry it into immediate effect was not consummated till, sitting at the paschal supper, 'Satan entered into him' (see on John 13:2- :), and conscience, effectually stifled, only rose again to be his tormentor."
+        ],
+        "Albert Barnes": [
+            "It is not necessary to suppose that Satan entered personally into the body of Judas, but only that he brought him under his influence.",
+            "To show its exceeding evil and baseness, it is only necessary to say that when it produced its 'appropriate' effect in this case, it led to the betraying and crucifixion of the Son of God.",
+            "He does not make them act contrary to their nature, but leads them on to 'act out' their proper disposition."
+        ],
+        "Marvin Vincent": [
+            "Satan. See on ch. Luke 13:16. ",
+            "Iscariot. See on Matthew 10:5."
+        ],
+        "Archibald T. Robertson": [
+            "Satan entered into Judas... Satan uses Judas and has success with him... Judas evidently opened the door to his heart and let Satan in.",
+            "This surrender to Satan in no way relieves Judas of his moral responsibility.",
+            "Jesus won ultimate victory... Now Satan uses Judas and has success with him, for Judas allowed him to come again and again."
+        ],
+        "John Gill": [
+            "Satan, or the adversary, as the word signifies, the devil, who is the enemy of the Messiah, the woman's seed, entered into Judas.\" ",
+            "He put it into his heart to betray him, as it is said in John 13:2 he stirred up, and worked upon the corruptions of his heart.\" ",
+            "This being two days before the Passover, shows that the sop which Judas took, after which the devil entered into him, could not be the Passover sop, but was the sop he ate at the supper in Bethany."
+        ],
+        "John Wesley": [
+            "Then entered Satan \u2014 Who is never wanting to assist those whose heart is bent upon mischief."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus appointed Judas as a treasurer, Satan seized the opportunity to enter his heart and tempt him with his covetous nature. Though Judas initially hesitated, the thought of enriching himself through betrayal eventually consumed him at the paschal supper. Satan successfully used Judas, with whom he found a willing accomplice. However, it is important to note that Judas remains morally responsible for his actions despite succumbing to Satan's influence. Ultimately, Jesus triumphs over Satan, but Judas's surrender to evil serves as a reminder of the grave consequences that can arise from allowing the adversary to gain a foothold in one's heart.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.299728964481835,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.81,
+            "commentatorTierSimilarities": [
+                34.35,
+                29.61,
+                36.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus entrusted Judas with the financial responsibilities, Satan took advantage of his covetous nature and entered into his heart. Initially, Judas resisted the temptation but eventually succumbed to the idea of betraying Jesus to enrich himself. Though Satan successfully used Judas, it is important to acknowledge that Judas remains morally responsible for his choices. This serves as a reminder of the grave consequences that arise when one allows evil to enter their heart. However, Jesus ultimately triumphs over Satan, demonstrating His ultimate victory.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1522830471419727,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.9,
+            "commentatorTierSimilarities": [
+                33.62,
+                30.35,
+                36.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus appointed Judas as treasurer, Satan seized the opportunity to enter his heart and tempt him with his covetous nature. At first, Judas hesitated, but eventually, he allowed the thought of betraying Jesus to consume him. Satan successfully used Judas, who willingly opened the door to his heart. However, it is important to note that Judas remains morally responsible for his actions. Jesus ultimately triumphs over Satan, but Judas serves as a cautionary example of the consequences that arise from surrendering to the adversary.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.2920155366515016,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.55,
+            "commentatorTierSimilarities": [
+                35.72,
+                28.92,
+                35.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus appointed Judas as treasurer, Satan saw an opportunity and entered his heart. The initial suggestion to betray Jesus stirred in Judas, gradually leading to his ultimate decision during the paschal supper. Despite Satan's influence, Judas cannot escape his moral responsibility. However, Jesus ultimately prevails over Satan's schemes. This dark episode reminds us of the importance of guarding our hearts against the enemy's deception and temptations.",
+            "wordCount": 70,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.0240540212477214,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.64,
+            "commentatorTierSimilarities": [
+                35.44,
+                26.9,
+                37.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus entrusted Judas with the responsibility of overseeing the finances, Satan took advantage of this position to gain influence and control over him. Initially, the thought of betraying Jesus was suggested to Judas, but it took hold of him during the paschal supper when Satan entered into him. Although Judas willingly allowed Satan in, he cannot be relieved of his moral responsibility. It is a stark reminder that even in the midst of Jesus' ultimate victory over Satan, the consequences of allowing the adversary to enter our hearts can be dire.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.353618990968945,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.6,
+            "commentatorTierSimilarities": [
+                35.0,
+                29.87,
+                35.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

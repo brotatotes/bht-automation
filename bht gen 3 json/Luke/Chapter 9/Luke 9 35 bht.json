@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:17:10",
+    "verseRef": "Luke 9:35",
+    "bestBHT": {
+        "bht": "As Jesus is transfigured, a voice from the cloud unequivocally declares, my beloved Son...hear him. This declaration affirms his special relationship with the Father, highlighting his authority and divinity. The voice echoes the baptism of Jesus and emphasizes his chosen status as the Son of God. Moreover, the disciples are specifically instructed to listen to Jesus, even in the face of his predicted death. This command serves as a rebuke, reminding believers to reverentially heed the words of Jesus, who is the chosen one.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.2200535640581613,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.91,
+        "commentatorTierSimilarities": [
+            42.37,
+            29.88,
+            27.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "35. my beloved Son . . . hear",
+            "\thim\u2014reverentially, implicitly, alone."
+        ],
+        "Philip Schaff": [
+            "My Son, my chosen one.\" ",
+            "The actual word used might be translated into Greek by either of the terms, \u2018beloved\u2019 or \u2018chosen\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "Out of the cloud (\u03b5\u03ba \u03c4\u03b7\u03c2 \u03bd\u03b5\u03c6\u03b5\u03bb\u03b7\u03c2). This voice was the voice of the Father like that at the baptism of Jesus... and like that near the end...",
+            "My son, my chosen (H\u03bf \u03c5\u03b9\u03bf\u03c2 \u03bc\u03bf\u03c5, \u03bf \u03b5\u03ba\u03bb\u03b5\u03bb\u03b5\u03b3\u03bc\u03b5\u03bd\u03bf\u03c2). So the best documents... The others make it 'My Beloved'...",
+            "These disciples are commanded to hear Jesus, God's Son, even when he predicts his death, a pointed rebuke to Simon Peter as to all."
+        ],
+        "John Gill": [
+            "And there came, a voice out of the cloud,....",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 9:35, as Jesus is transfigured on the mountain, a voice from the cloud declares, my beloved Son...hear him. This divine affirmation reveals the unique relationship between the Father and Jesus, emphasizing his authority and divinity. The voice echoes the words spoken at Jesus' baptism, once again affirming him as the chosen one. In commanding the disciples to listen to Jesus, even when he speaks of his impending death, this voice serves as a rebuke to Peter and a reminder to all believers that Jesus is the Son of God and his words are to be revered and followed.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.2766859563423203,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.79,
+            "commentatorTierSimilarities": [
+                41.82,
+                26.9,
+                31.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus is transfigured on the mountain, a voice from the cloud declares, my beloved Son...hear him. This divine affirmation reiterates Jesus' chosen status and emphasizes his authority and divinity. It serves as a direct reference to Jesus' baptism and highlights his unique relationship with the Father. Furthermore, the disciples are commanded to attentively listen to Jesus, even when he speaks of his impending death. This not only serves as a rebuke to Peter but also reminds all believers to respect and heed the words of Jesus, the Son of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.0945154716499308,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.74,
+            "commentatorTierSimilarities": [
+                47.19,
+                24.81,
+                28.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus is transfigured, a voice from the cloud unequivocally declares, my beloved Son...hear him. This declaration affirms his special relationship with the Father, highlighting his authority and divinity. The voice echoes the baptism of Jesus and emphasizes his chosen status as the Son of God. Moreover, the disciples are specifically instructed to listen to Jesus, even in the face of his predicted death. This command serves as a rebuke, reminding believers to reverentially heed the words of Jesus, who is the chosen one.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2200535640581613,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.91,
+            "commentatorTierSimilarities": [
+                42.37,
+                29.88,
+                27.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the transfiguration, a voice emanates from the cloud saying, my beloved Son...hear him. This declaration signifies Jesus' unique and intimate relationship with the Father, emphasizing his divine authority. The voice echoes the baptism of Jesus and highlights his chosen status. Furthermore, this command addresses the disciples directly, urging them to attentively listen to Jesus, even when he speaks about his impending death. It serves as a pointed rebuke, reminding believers to give profound respect to the words of Jesus, the Son of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.1207219779494304,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.61,
+            "commentatorTierSimilarities": [
+                45.06,
+                23.64,
+                31.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the transfiguration, a voice proclaims from the cloud, my beloved Son...hear him. This declaration affirms Jesus' special relationship with the Father, emphasizing his authority and divinity. It parallels the baptism of Jesus, echoing his chosen status. Moreover, the voice instructs the disciples to pay attention to Jesus, even when he speaks about his impending death, serving as a rebuke to Peter and a reminder for all believers to listen to and obey the words of Jesus, the Son of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.1830711683104584,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.68,
+            "commentatorTierSimilarities": [
+                42.72,
+                25.12,
+                32.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

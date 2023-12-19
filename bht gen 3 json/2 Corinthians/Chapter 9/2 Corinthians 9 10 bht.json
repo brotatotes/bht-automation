@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:17:31",
+    "verseRef": "2 Corinthians 9:10",
+    "bestBHT": {
+        "bht": "God is the one who ministers seed for sowing and bread for eating; he both supplies and multiplies our resources. He increases the fruits of our actions, rewarding us with heavenly blessings for our acts of righteousness. As we sow generously and act in charity, our acts are like sowing seeds, and God will bring forth a bountiful harvest from them. Not only is God able to meet our present necessities, but he can continually supply and multiply our resources, reflecting his abundance and provision.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 2.221615154351633,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.21,
+        "commentatorTierSimilarities": [
+            26.05,
+            40.96,
+            32.99
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He that ministers seed to the sower and bread for eating, shall supply and multiply your seed.",
+            "Will increase the fruits of your righteousness.",
+            "The everlasting reward for your bestowals in Christ's name."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that ministereth (supplieth) seed to the sower and bread for food.",
+            "Shall minister (supply) and multiply.",
+            "The fruits of your righteousness\u2014the heavenly rewards for your Christian charity."
+        ],
+        "Albert Barnes": [
+            "He not only gives him a harvest to supply his needs, but he blesses him also in giving him the ability to sow again.",
+            "Furnish you with an ample supply for your needs.",
+            "Make the result of all your benefactions so to abound that you may have the means of doing good again, and on a larger scale."
+        ],
+        "Marvin Vincent": [
+            "Ministereth bread with supplieth seed to the sow and bread for food.\" ",
+            "Minister and multiply shall supply and multiply.\" ",
+            "The fruits, what has been begotten or born."
+        ],
+        "John Calvin": [
+            "For the person that sows seed in the proper season, appears when reaping to gather the fruit of his labor and industry, and sowing appears as though it were the fountainhead from which food flows forth to us.\" ",
+            "I rather prefer this reading, both because it is the more generally received one, and because Paul is accustomed to follow up his exhortations with prayers, entreating from God what he had previously comprised in his doctrine.\" ",
+            "May God not only supply you with what may be sufficient for every one\u2019s private use, but also to such an extent, that the fountain of your liberality, ever flowing forth, may never be exhausted!"
+        ],
+        "Philip Schaff": [
+            "And he that supplieth seed to the sower and bread for food, shall supply and multiply your seed for sowing, and increase the fruits of your righteousness.\" "
+        ],
+        "Archibald T. Robertson": [
+            "The verb means to furnish a chorus at one's own expense, then to supply in general.\" ",
+            "Shall multiply.",
+            "The papyri support this distinction."
+        ],
+        "John Gill": [
+            "God, who so blesses the seed that is cast into the earth, that it brings forth such an increase, as that there is a sufficiency of bread for food to the eater for the present year.",
+            "God... is able to minister to, or supply your present necessities.",
+            "God will multiply the substance of men... what they give away, or bestow on Christ's poor."
+        ],
+        "John Wesley": [
+            "And he who supplieth seed \u2014 Opportunity and ability to help others.",
+            "And bread \u2014 All things needful for your own souls and bodies.",
+            "Will continually supply you with that seed, yea, multiply it to you more and more."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God is the one who provides both the seed for sowing and the bread for eating. He not only supplies our needs, but he also multiplies our resources. As we sow generously and act in righteousness, God will increase the fruits of our actions, rewarding us with heavenly blessings. He is not only able to meet our present necessities, but he can also continually supply and multiply our resources. Our acts of charity and generosity are like sowing seeds, and God will bring forth a bountiful harvest from them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.1034184808521283,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.28,
+            "commentatorTierSimilarities": [
+                25.67,
+                41.7,
+                32.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God is the one who ministers seed for sowing and bread for eating; he both supplies and multiplies our resources. When we sow generously and act righteously, he increases the fruits of our actions, rewarding us with heavenly blessings. God is capable of continually supplying and multiplying our resources, not only meeting our present needs but lavishly providing for us. Like sowing seeds, our acts of charity and generosity bring forth a bountiful harvest, reflecting God's abundance and faithfulness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.2114293401999907,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+            "commentatorTierSimilarities": [
+                26.01,
+                40.83,
+                33.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God is the one who ministers seed for sowing and bread for eating; he both supplies and multiplies our resources. He increases the fruits of our actions, rewarding us with heavenly blessings for our acts of righteousness. As we sow generously and act in charity, our acts are like sowing seeds, and God will bring forth a bountiful harvest from them. Not only is God able to meet our present necessities, but he can continually supply and multiply our resources, reflecting his abundance and provision.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.221615154351633,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.21,
+            "commentatorTierSimilarities": [
+                26.05,
+                40.96,
+                32.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God is the one who ministers seed for sowing and bread for eating; he both supplies and multiplies our resources. When we sow generously and act righteously, he increases the fruits of our actions, rewarding us with heavenly blessings. God is capable of continually supplying and multiplying our resources, not only meeting our present needs but lavishly providing for us. Like sowing seeds, our acts of charity and generosity bring forth a bountiful harvest, reflecting God's abundance and faithfulness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.2114293401999907,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+            "commentatorTierSimilarities": [
+                26.01,
+                40.83,
+                33.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God is the one who ministers seed for sowing and bread for eating; he supplies and multiplies our resources. As we sow generously and act righteously, he increases the fruits of our actions, rewarding us with heavenly blessings. God can continually supply and multiply our resources, meeting our present needs and providing abundantly. Our acts of charity and generosity are like sowing seeds, and God brings forth a bountiful harvest. His provision reflects his abundance and faithfulness to those who trust in him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.1511886269281657,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.87,
+            "commentatorTierSimilarities": [
+                26.66,
+                40.5,
+                32.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

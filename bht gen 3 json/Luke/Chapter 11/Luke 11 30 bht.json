@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:18:17",
+    "verseRef": "Luke 11:30",
+    "bestBHT": {
+        "bht": "Jesus compares himself to Jonah, who acted as a sign to the Ninevites. He will also be a sign to the people, foretelling his resurrection as a powerful sign to that generation. In this context, the word sign refers to something extraordinary, beyond the ordinary course of nature. By mentioning a day and a night, Jesus symbolizes a complete day. Through his resurrection after three days and three nights in the heart of the earth, Jesus seeks to encourage belief and warn the unbelieving generation of the severe consequences of their impenitence.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.6744999180776028,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.02,
+        "commentatorTierSimilarities": [
+            28.67,
+            39.48,
+            31.85
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "A sign to the Ninevites. Compare Matthew 12:40."
+        ],
+        "John Calvin": [
+            "He declares that he will be a sign to them, as Jonah was to the inhabitants of Nineveh.",
+            "But the word sign is not taken in its ordinary sense, as pointing out something, but as denoting what is widely removed from the ordinary course of nature.",
+            "As the night is an appendage to the day, or rather, as the day consists of two parts, light and darkness, he expresses a day by a day and a night, and where there was half a day, he puts down a whole day."
+        ],
+        "Philip Schaff": [
+            "For even as Jonah became a sign to the Ninevites.",
+            "The appearance of Jonah as a preacher after the three days and nights in the whale\u2019s belly (after his resurrection), was a sign received by the Ninevites.",
+            "Our Lord speaks of something yet to occur, foretelling His resurrection as a greater sign to that generation."
+        ],
+        "John Gill": [
+            "For as Jonas was a sign to the Ninevites...so shall also the son of man be to this generation.\" ",
+            "By lying three days and three nights in the heart of the earth, and then rising again from the dead the third day...\" ",
+            "To engage persons to believe in him; and to assure that wicked generation, that in case they remained, after such a sign, impenitent and unbelieving, wrath would come upon them to the uttermost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jonah became a sign to the Ninevites, our Lord declares that he will also be a sign to them, foretelling his resurrection as a greater sign to that generation. The word sign is not to be taken in its ordinary sense, but as denoting what is widely removed from the ordinary course of nature. Just as there are two parts to a day, light and darkness, by mentioning a day and a night, Jesus expresses a day. Through his resurrection after three days and three nights in the heart of the earth, Jesus seeks to engage people's belief and assure the unbelieving generation that if they remain impenitent, wrath would come upon them to the uttermost.",
+            "wordCount": 118,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.5272457298087585,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.12,
+            "commentatorTierSimilarities": [
+                22.8,
+                38.13,
+                39.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jonah was a sign to the Ninevites, Jesus declares that he will be a sign to them, foretelling his resurrection as a greater sign to that generation. The word sign here means something widely removed from the ordinary course of nature. By mentioning a day and a night, Jesus signifies a full day. His resurrection after three days and three nights in the heart of the earth serves to engage people's belief and warn the unbelieving generation about the consequences of their impenitence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5403361141546377,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+            "commentatorTierSimilarities": [
+                23.97,
+                39.72,
+                36.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just as Jonah became a sign to the Ninevites, Jesus declares that he will also be a sign to them. This sign refers to something extraordinary, beyond the ordinary course of nature. By mentioning a day and a night, Jesus is symbolically expressing a full day. His resurrection after three days and three nights in the heart of the earth serves as a powerful sign to engage people's belief and warn the unbelieving generation about the dire consequences of their impenitence.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.650996157546351,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.24,
+            "commentatorTierSimilarities": [
+                27.72,
+                38.95,
+                33.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus compares himself to Jonah, who acted as a sign to the Ninevites. He will also be a sign to the people, foretelling his resurrection as a powerful sign to that generation. In this context, the word sign refers to something extraordinary, beyond the ordinary course of nature. By mentioning a day and a night, Jesus symbolizes a complete day. Through his resurrection after three days and three nights in the heart of the earth, Jesus seeks to encourage belief and warn the unbelieving generation of the severe consequences of their impenitence.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.6744999180776028,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.02,
+            "commentatorTierSimilarities": [
+                28.67,
+                39.48,
+                31.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus likens himself to Jonah, who served as a sign to the Ninevites. He declares that he will also be a sign to the people, with his resurrection serving as a profound sign to that generation. This sign is not something ordinary, but rather something extraordinary, transcending the natural order. By speaking of a day and a night, Jesus conveys the idea of a full day. Through his resurrection after three days and three nights in the heart of the earth, Jesus seeks to inspire belief and warn the unbelieving generation of the grave consequences that await them if they persist in their unbelief.",
+            "wordCount": 104,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.5610198577903363,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.25,
+            "commentatorTierSimilarities": [
+                26.37,
+                40.71,
+                32.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

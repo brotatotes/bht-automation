@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:19:44",
+    "verseRef": "Luke 14:13",
+    "bestBHT": {
+        "bht": "When making a feast or holding a reception, it is important to call and invite those who are poor, maimed, lame, and blind. This includes those who are destitute of comfortable food and deprived of any member of their body or the use of them. It is not enough to simply extend a quiet invitation, but rather, to genuinely provide for the needs of these individuals. By doing so, we follow God's own example as He Himself calls the poor to His feast.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.79,
+        "qualityScore": 1.724020039471187,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+        "commentatorTierSimilarities": [
+            20.2,
+            38.28,
+            41.52
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "13. call the poor\u2014\"Such",
+            "\tGod Himself calls\" (Luke 14:21)",
+            "\t[BENGEL]."
+        ],
+        "Albert Barnes": [
+            "The poor - Those who are destitute of comfortable food.",
+            "The maimed - Those who are deprived of any member of their body, as an arm or a leg or who have not the use of them so that they can labor for their own support."
+        ],
+        "Marvin Vincent": [
+            "Feast [\u03b4\u03bf\u03c7\u03b7\u03bd] . Or reception. Used by Luke only. See on ch. Luke 5:29."
+        ],
+        "Philip Schaff": [
+            "Bid. Not the word used in Luke 14:12; the quiet invitation is meant. Sounding a trumpet before such a feast is forbidden in Matthew 6:1-2.",
+            "The poor, etc. This is to be taken as including all modes of providing for the wants of the classes referred to. There is little danger that it will be understood too literally.",
+            "As the same classes are spoken of in the parable (Luke 14:21), it is a fair inference that in so doing we follow God\u2019s own example."
+        ],
+        "Archibald T. Robertson": [
+            "H\u03bf\u03c4\u03b1\u03bd and the present subjunctive in an indefinite temporal clause.",
+            "\u0394\u03bf\u03c7\u03b7 means reception as in Luke 5:29, late word, only in these two passages in the N.T.",
+            "Note absence of article with these adjectives in the Greek (poor people, maimed folks, lame people, blind people)."
+        ],
+        "John Gill": [
+            "But when thou makest a feast, call the poor, the maimed, the lame, and the blind; that is, the poor maimed, the poor lame, and the poor blind.\" ",
+            "Otherwise it is possible that rich men may be maimed, lame, and blind; whereas these are not intended.",
+            "Such who are in indigent circumstances, that stand in need of a meal, and to whom it is welcome."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When making a feast or holding a reception, it is important to call and invite those who are poor, maimed, lame, and blind. This includes those who are destitute of comfortable food and deprived of any member of their body or the use of them. It is not enough to simply extend a quiet invitation, but rather, to genuinely provide for the needs of these individuals. By doing so, we follow God's own example as He Himself calls the poor to His feast.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.724020039471187,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                20.2,
+                38.28,
+                41.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When making a feast or holding a reception, it is important to call and invite those who are poor, maimed, lame, and blind. This includes those who are destitute of comfortable food and deprived of any member of their body or the use of them. It is not enough to simply extend a quiet invitation, but rather, to genuinely provide for the needs of these individuals. By doing so, we follow God's own example as He Himself calls the poor to His feast.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.724020039471187,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                20.2,
+                38.28,
+                41.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When making a feast or holding a reception, it is important to invite those who are poor, maimed, lame, and blind. God Himself calls the poor, and it is our duty to follow His example and provide for the needs of those who are in indigent circumstances and in need of a meal. By extending our invitation to the less fortunate, we demonstrate compassion and embody the values of generosity and inclusivity.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.67241837319076,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.95,
+            "commentatorTierSimilarities": [
+                18.65,
+                31.04,
+                50.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When hosting a feast or reception, it is crucial to extend an invitation to the poor, maimed, lame, and blind. This includes those who lack comfortable food and those who are deprived of certain body parts or their functionality. It is insufficient to merely issue a quiet invitation; true generosity requires genuinely providing for the needs of these individuals. Following God's example, who Himself calls the poor to His feast, we demonstrate compassion and embody the principles of inclusivity and charity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5975402736746258,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.46,
+            "commentatorTierSimilarities": [
+                19.25,
+                35.87,
+                44.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When hosting a feast or reception, it is essential to invite and provide for the poor, maimed, lame, and blind. This includes those who lack comfortable food or have physical impairments. Merely extending a quiet invitation is insufficient; true generosity requires actively meeting the needs of these individuals. By following God's example, who Himself calls the poor to His feast, we demonstrate compassion and embrace the values of inclusivity and charity.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.602051228398927,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.61,
+            "commentatorTierSimilarities": [
+                19.68,
+                34.55,
+                45.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

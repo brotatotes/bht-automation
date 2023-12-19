@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 13:54:11",
+    "verseRef": "Philippians 2:29",
+    "bestBHT": {
+        "bht": "Let us receive him with honor and joy, for there is clearly something behind respecting Epaphroditus, of which we are not fully informed. It is not simply extreme affection that causes us to be full of heaviness, for if that were the case, no exhortation would be needed. Let us remember that receiving him is not just a personal matter, but a duty as Christians to honor those who ought to be honored, especially those who show fidelity in the work of the Lord.",
+        "wordCount": 84,
+        "quoteTokenProportion": 52.46,
+        "qualityScore": 1.8546155486599636,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+        "commentatorTierSimilarities": [
+            29.36,
+            40.17,
+            30.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The stress is on the request to receive him.",
+            "There certainly seems to be something behind respecting Epaphroditus, of which we are not informed.",
+            "If extreme affection had been the sole ground of his being full of heaviness, no such exhortation as this would have been needed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If extreme affection had been the sole ground of his 'heaviness,' no such exhortation would have been needed.\" ",
+            "There seems to be something behind respecting him.\" ",
+            "'In reputation' means 'in honor.'"
+        ],
+        "Albert Barnes": [
+            "Receive him therefore in the Lord - As the servant of the Lord, or as now restored to you by the Lord, and therefore to be regarded as a fresh gift from God.\" ",
+            "Our friends restored to us after a long absence, we should receive as the gift of God, and as a proof of his mercy.",
+            "It is a Christian duty to honor those who ought to be honored, to respect the virtuous and the pious, and especially to honor those who evince fidelity in the work of the Lord."
+        ],
+        "John Calvin": [
+            "Receive him with all joy. He employs the word all to mean sincere and abundant.",
+            "He does not speak merely of one, but exhorts that all such should be held in estimation; for they are precious pearls from God\u2019s treasuries, and the rarer they are, they are so much the more worthy of esteem.",
+            "Let every one, then, who is desirous that the Church should be fortified against the stratagems and assaults of wolves, make it his care, after the example of Paul, that the authority of good pastors be established."
+        ],
+        "Philip Schaff": [
+            "Receive him, therefore, in the Lord with all joy.",
+            "[...] receive him joyfully. \u2018In the Lord\u2019 marks what he would have the reception to be.",
+            "It would be a joy with thanksgiving because they had in mind how gracious the Lord had been in saving the life of their friend."
+        ],
+        "Archibald T. Robertson": [
+            "In honour (\u03b5\u03bd\u03c4\u03b9\u03bc\u03bf\u03c5\u03c2). Old compound adjective (\u03b5\u03bd, \u03c4\u03b9\u03bc\u03b7), prized, precious (Luke 7:2; Luke 14:8; 1 Peter 2:4; 1 Peter 2:6). Predicate accusative. Noble plea in behalf of Christ's minister. "
+        ],
+        "John Gill": [
+            "Receive him therefore....into their bosoms, into their hearts and affections...",
+            "And that in the Lord;...in the name of the Lord, as an ambassador of his...",
+            "Hold such in reputation: account such as he precious and valuable; highly esteem of them..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us receive him with honor and joy, for there is clearly something behind respecting Epaphroditus, of which we are not fully informed. It is not simply extreme affection that causes us to be full of heaviness, for if that were the case, no exhortation would be needed. Let us remember that receiving him is not just a personal matter, but a duty as Christians to honor those who ought to be honored, especially those who show fidelity in the work of the Lord. Let us hold such precious and valuable messengers of God in high esteem, for they are rare and worthy of our admiration.",
+            "wordCount": 106,
+            "quoteTokenProportion": 47.3,
+            "qualityScore": 1.7833552526706478,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.64,
+            "commentatorTierSimilarities": [
+                26.47,
+                38.57,
+                34.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us receive him with honor and joy, for there is clearly something behind respecting Epaphroditus, of which we are not fully informed. It is not simply extreme affection that causes us to be full of heaviness, for if that were the case, no exhortation would be needed. Let us remember that receiving him is not just a personal matter, but a duty as Christians to honor those who ought to be honored, especially those who show fidelity in the work of the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.8546155486599636,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                29.36,
+                40.17,
+                30.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us receive Epaphroditus with honor and joy, recognizing that there is something significant behind our respect for him. It is not merely extreme affection that causes our heaviness, as evidenced by the exhortation given. As Christians, it is our duty to honor those who deserve it, especially those who faithfully serve the Lord. In doing so, we hold them in high esteem, considering them precious and valuable, deserving of our respect and admiration.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.758727773608865,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                25.59,
+                39.54,
+                34.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us receive Epaphroditus with honor and joy, for there is clearly something behind respecting him. It is not merely extreme affection that causes our heaviness, for if that were the case, no exhortation would be needed. As Christians, it is our duty to honor those who ought to be honored, especially those who show fidelity in the work of the Lord. Let us hold such messengers of God in high esteem and regard them as precious and valuable.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.7332847926462587,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+            "commentatorTierSimilarities": [
+                26.57,
+                39.32,
+                34.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us receive Epaphroditus with honor and joy, for there is clearly something behind respecting him that we are not informed of. It is not simply extreme affection that causes our heaviness, but a deeper reason why his reception matters. As Christians, it is our duty to honor and highly esteem those who show fidelity in the work of the Lord. Let us hold such precious messengers of God in high regard, recognizing their value and worth to the Church.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.6805969474873326,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                23.09,
+                41.73,
+                35.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

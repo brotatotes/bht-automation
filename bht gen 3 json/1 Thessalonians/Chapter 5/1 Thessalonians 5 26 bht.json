@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 14:01:12",
+    "verseRef": "1 Thessalonians 5:26",
+    "bestBHT": {
+        "bht": "In his letter to the Thessalonians, Paul instructs the believers to greet one another with a holy kiss. This kiss of charity was a customary token of Christian fellowship, representing friendship and brotherly love. The practice of passing the kiss through the congregation during the holy communion further exemplified this expression of affection for one another. By urging the believers to exchange this sacred kiss, Paul encouraged them to embrace brotherly love and unity within the church community, deepening their bonds of Christian fellowship.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 2.5207872661326323,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.16,
+        "commentatorTierSimilarities": [
+            31.26,
+            39.3,
+            29.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "26.] From this verse and the following, it would appear that this letter was given into the hands of the elders."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Hence it appears this Epistle was first handed to the elders, who communicated it to 'the brethren.'",
+            "A kiss of charity. A token of Christian fellowship in those days.",
+            "The custom hence arose in the early Church of passing the kiss through the congregation at the holy communion, the men kissing the men, and the women the women, in the Lord."
+        ],
+        "Albert Barnes": [
+            "Greet all the brethren with an holy kiss - see the notes on Romans 16:16."
+        ],
+        "Marvin Vincent": [
+            "Kiss. See on 2 Corinthians 13:12. Comp. Romans 16:16; 1 Corinthians 16:20; 1 Peter 5:14."
+        ],
+        "John Calvin": [
+            "Salute all the brethren with an holy kiss. As to the kiss, it was a customary token of salutation.",
+            "In these words, however, he declares his affection towards all the saints.",
+            "He declares his affection towards all the saints."
+        ],
+        "Philip Schaff": [
+            "Salute all the brethren. To whom was this addressed? Probably to the office-bearers of the church, to whom the letter would be delivered; although in the parallel passages (see references) the members were to salute one another.",
+            "An holy kiss. \u2018The oriental custom of kissing in their greetings is here enhanced with Christian characteristics; it is to be an holy kiss. . . no idle, meaningless, and merely pagan custom of salutation\u2019 (Ellicott)."
+        ],
+        "Archibald T. Robertson": [
+            "With a kiss that is holy ... a token of friendship and brotherly love.\" ",
+            "In 1 Peter 5:14 it is 'with a kiss of love.'",
+            "This was the customary salutation for rabbis."
+        ],
+        "John Gill": [
+            "His meaning is, that they would salute the members of the church in his name, and give his Christian love and affections to them.",
+            "And his view is to recommend to them brotherly love to each other.",
+            "And to stir them up to the mutual exercise of it more and more."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Paul's letter to the Thessalonians, he instructs them to greet all the brethren with a holy kiss, a token of Christian fellowship in those days. The kiss served as a customary salutation and a symbol of friendship and brotherly love. This holy kiss was not an empty gesture but rather a manifestation of the believers' deep affection towards all the saints, encouraging them to continue practicing brotherly love and to grow in their mutual exercise of it. Being handed to the elders, this letter urged the entire congregation to embrace the spirit of unity and affection within the church.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.4457711492875487,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.66,
+            "commentatorTierSimilarities": [
+                30.59,
+                39.53,
+                29.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his letter to the Thessalonians, Paul emphasizes the importance of Christian fellowship by encouraging the believers to greet one another with a holy kiss. This exchange of affectionate greeting was a customary practice rooted in brotherly love and a token of Christian friendship. It served as a symbol of their deep affection towards all the saints and a reminder to continually exercise brotherly love within the church community. This instruction was meant to foster unity and encourage the believers to demonstrate their love for one another.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.195854063481433,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+            "commentatorTierSimilarities": [
+                29.05,
+                34.67,
+                36.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his letter to the Thessalonians, Paul directs the believers to greet each other with a holy kiss, a custom rooted in Christian fellowship and brotherly love. This salutation was not an empty gesture, but a meaningful token of their deep affection for all the saints. The kiss served as a symbol of friendship and was a way to express the love and unity within the church community. Paul's intention was to encourage the believers to continue exercising and growing in their mutual love for one another.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.230562504537544,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+            "commentatorTierSimilarities": [
+                29.84,
+                36.92,
+                33.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Paul's letter to the Thessalonians, he enjoins the believers to exchange a holy kiss as a token of Christian fellowship and brotherly love. This tradition of greeting with a kiss served as a symbol of affection and solidarity among the early Christians. By instructing them to greet all the brethren in this manner, Paul emphasizes the importance of genuine love and unity within the church community. This practice of the holy kiss was intended to cultivate and strengthen their bonds of friendship and encourage the continual expression of brotherly love.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.3663137905264455,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.02,
+            "commentatorTierSimilarities": [
+                29.82,
+                38.32,
+                31.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his letter to the Thessalonians, Paul instructs the believers to greet one another with a holy kiss. This kiss of charity was a customary token of Christian fellowship, representing friendship and brotherly love. The practice of passing the kiss through the congregation during the holy communion further exemplified this expression of affection for one another. By urging the believers to exchange this sacred kiss, Paul encouraged them to embrace brotherly love and unity within the church community, deepening their bonds of Christian fellowship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.5207872661326323,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.16,
+            "commentatorTierSimilarities": [
+                31.26,
+                39.3,
+                29.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

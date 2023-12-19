@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:15:11",
+    "verseRef": "2 Corinthians 1:21",
+    "bestBHT": {
+        "bht": "God confirmeth us in believing in Christ, making us prophets, priests, and kings. He anoints us with the Spirit so that we become a sweet savor of Christ. God stablisheth us in the faith of Christ, keeping us in Christ and sealing upon our hearts the certainty of His word. Our standing is secure in Him, for He is able to fulfill His promises and give us strength to do and suffer His will with joy in the Holy Ghost.",
+        "wordCount": 80,
+        "quoteTokenProportion": 43.14,
+        "qualityScore": 2.4354979842844964,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.32,
+        "commentatorTierSimilarities": [
+            32.82,
+            36.69,
+            30.49
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "confirmeth us (in believing) in Christ.\" ",
+            "Making us prophets, priests, and kings: for these three sorts of persons were anciently anointed.",
+            "The and, cannot refer to any anointing of the Apostles only, but must be taken of all, Apostles and Corinthians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He hath anointed us, ministers and believing people alike, with the Spirit.\" ",
+            "Hence we become 'a sweet savor of Christ.'\" ",
+            "Stablisheth us... in Christ\u2014that is, in the faith of Christ\u2014in believing in Christ."
+        ],
+        "Albert Barnes": [
+            "He who has confirmed us in the hopes of the gospel and who gives us grace to be faithful and firm in our promises.",
+            "The anointing which was used in the consecration of prophets, priests, and kings seems to have been designed to be emblematic of the influences of the Holy Spirit.",
+            "It is not by any native goodness which we have, or any inclination which we have by nature to his service. This is one of the instances which abound so much in the writings of Paul, where he delights to trace all good influences to God."
+        ],
+        "Marvin Vincent": [
+            "Stablisheth - in Christ [\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bd - \u03b5\u03b9\u03c2] . The present participle with eijv into indicates the work as it is in progress toward a final identification of the believers with Christ."
+        ],
+        "John Calvin": [
+            "He had previously taught, that this is a befitting harmony \u2014 when, on the one hand, the calling of God is without repentance, and we, in our turn, with an unwavering faith, accept of the blessing of adoption that is held out to us. That God remains steadfast to his promise is not surprising; but to keep pace with God in the steadfastness of our faith in return \u2014 that truly is not in man\u2019s power.",
+            "For God, by pouring down upon us the heavenly grace of the Spirit, does, in this manner, seal upon our hearts the certainty of his own word.",
+            "As the Spirit, in bearing witness of our adoption, is our security, and, by confirming the faith of the promises, is the seal, so it is on good grounds that he is called an earnest, because it is owing to him, that the covenant of God is ratified on both sides, which would, but for this, have hung in suspense."
+        ],
+        "Philip Schaff": [
+            "Now he which stablisheth us with you in Christ... not only inserting us into, but keeping us in Christ.\" ",
+            "God... anointed us.\" ",
+            "Of Him (God) are ye in Christ Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "An apt metaphor in Corinth where confirmation of a bargain often took place.",
+            "Anointed, from \u03c7\u03c1\u03b9\u03c9, to anoint, old verb, to consecrate, with the Holy Spirit.",
+            "Anointed with the Holy Spirit here as in 1 John 2:20."
+        ],
+        "John Gill": [
+            "The people of God are in a firm, settled, established state and condition; they are encircled in the arms of everlasting love; they are secure of the favour of God.",
+            "Their standing is alone in him; the unchangeable love and favour of God, which is their grand security, is in Christ.",
+            "Whatever steadfastness and stability the saints have, whether ministers or people, they ought to ascribe it entirely to God, Father, Son, and Spirit."
+        ],
+        "John Wesley": [
+            "For it is God alone that is able to fulfil these promises.",
+            "Apostles and teachers.",
+            "With the oil of gladness, with joy in the Holy Ghost, thereby giving us strength both to do and suffer his will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God confirmeth us in believing in Christ, making us prophets, priests, and kings. He anoints us with the Spirit so that we become a sweet savor of Christ. God stablisheth us in the faith of Christ, keeping us in Christ and sealing upon our hearts the certainty of His word. Our standing is secure in Him, for He is able to fulfill His promises and give us strength to do and suffer His will with joy in the Holy Ghost.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.4354979842844964,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.32,
+            "commentatorTierSimilarities": [
+                32.82,
+                36.69,
+                30.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God confirmeth us in believing in Christ, making us prophets, priests, and kings. He anoints us with the Spirit, stablisheth us in the faith of Christ, and seals upon our hearts the certainty of His word. Our standing is secure in Him, for He is able to fulfill His promises and give us strength to do and suffer His will with joy in the Holy Ghost.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 2.3915718214769504,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.86,
+            "commentatorTierSimilarities": [
+                31.49,
+                35.26,
+                33.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God confirmeth us in believing in Christ, making us prophets, priests, and kings. He anoints us, ministers and believing people alike, with the Spirit, thereby stablishing us in the faith of Christ. Through the anointing of the Holy Spirit, God seals upon our hearts the certainty of His promises and keeps us in Christ. We can trust in His unchangeable love and favor, for He alone has the power to fulfill these promises and provide us with the strength and joy to do His will.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.3771924388479384,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.38,
+            "commentatorTierSimilarities": [
+                31.66,
+                35.47,
+                32.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God confirmeth us in believing in Christ, making us prophets, priests, and kings. He anoints us, believers and ministers alike, with the Spirit. Through this anointing, He stablisheth us in the faith of Christ, sealing upon our hearts the certainty of His promises. Our standing is secure in Him, for He is able to fulfill these promises and grant us the strength and joy to do His will. Indeed, we can attribute our steadfastness and stability solely to God, Father, Son, and Spirit.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1302805151630606,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.17,
+            "commentatorTierSimilarities": [
+                29.6,
+                35.55,
+                34.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God confirmeth us in believing in Christ, making us prophets, priests, and kings. He anoints us with the Spirit, stablisheth us in the faith of Christ, and seals upon our hearts the certainty of His promises. Our standing is secure in Him, for He is able to fulfill these promises and provide us with the strength and joy to do His will with the Holy Ghost. In Him alone we find steadfastness and stability, our unchangeable security.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.17424915455163,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.63,
+            "commentatorTierSimilarities": [
+                29.14,
+                35.16,
+                35.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

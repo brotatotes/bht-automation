@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 13:59:11",
+    "verseRef": "1 Thessalonians 3:12",
+    "bestBHT": {
+        "bht": "May the Lord, whether it be the Father or Christ, make you to increase and abound in love, not just in numbers, but in yourselves and in richness of gifts and faith. Let this love flow toward one another, that it may be perfected by God, for love is the fruit of the Spirit. And so, even if we are not able to come to you, may the Lord still tend to your growth. Love is greater than faith or hope, for God is love, and the Spirit of Christ is the Spirit of love.",
+        "wordCount": 95,
+        "quoteTokenProportion": 59.26,
+        "qualityScore": 2.039267793990442,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+        "commentatorTierSimilarities": [
+            26.55,
+            41.19,
+            32.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord may refer either to the Father, or to Christ.\" ",
+            "Enlarge you\u2014not merely in numbers, but in yourselves, in richness of gifts and largeness of faith and knowledge.",
+            "Abound in love\u2014toward you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'you' in the Greek is emphatically put first; 'But' what concerns 'YOU,' whether we come or not, 'may the Lord make you to increase and abound in love.'",
+            "The Greek for 'increase' has a more positive force than 'abound' a more comparative force, 'make you full and even abound.'",
+            "Love is the fruit of the Spirit, and His office is 'to stablish in holiness'."
+        ],
+        "Albert Barnes": [
+            "The word 'Lord' here probably refers to the Lord Jesus, as this is the name by which he is commonly designated in the New Testament.\" ",
+            "If this be so, then this is a petition to the Lord Jesus as the fountain of all grace and goodness.",
+            "The Lord make you to increase and abound in love."
+        ],
+        "John Calvin": [
+            "And from this again we learn in what the perfection of the Christian life consists \u2014 in love and pure holiness of heart, flowing from faith.",
+            "He prays that the love of the Thessalonians may be perfected by God, intimating that its increase, no less than its commencement, was from God alone.",
+            "When, therefore, God marks out our life, he does not look to what we can do, but requires from us what is above our strength, that we may learn to ask from him power to accomplish it."
+        ],
+        "Philip Schaff": [
+            "Whatever becomes of us and of our prayer, whether we are allowed to come to you or not, may you be tended by the Lord.",
+            "Love is of God.' And because it is the 'bond of perfectness' and 'the fulfilling of the law,' Paul prays that they may abound in love.",
+            "Love is greater than even faith or hope: 'God is love,' and the Spirit of Christ is the Spirit of love; and therefore Paul, desiring that his converts be established unblameable in holiness, prays that they may abound in love."
+        ],
+        "Archibald T. Robertson": [
+            "The Lord Jesus. Paul prays to Christ.\" ",
+            "Make you to increase... to superabound.\" ",
+            "And abound... to be over (common in N.T.)."
+        ],
+        "John Gill": [
+            "The request is, that he would cause these saints to increase in number, as the first churches greatly did: and in the gifts of the Spirit, which he divides to men severally as he will; and in his graces, as in faith, in hope, in holiness, in humility, in knowledge, in spiritual joy and strength, an increase in all which is from him.",
+            "For though they were taught of God to love one another, and did do so, and the apostle had had good tidings of their love; yet it was not perfect, there was room for a further exercise of it, by serving each other by it, in things spiritual and temporal.",
+            "And yet they were to love them as men, and pray for them, and do them all the good that lay in their power."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the Lord, whether it be the Father or Christ, make you to increase and abound in love. This is not mere numerical growth, but a deepening and enlarging of yourselves, your gifts, faith, and knowledge. Love is the fruit of the Spirit, and Paul prays for you to be established in holiness. Even if Paul is not able to come to you, he desires that your love may increase and overflow. Love is the bond of perfection and the fulfillment of the law. May you be perfected in love by God, for the increase of love is from Him alone.",
+            "wordCount": 101,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.9581043644149903,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+            "commentatorTierSimilarities": [
+                26.69,
+                42.35,
+                30.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May the Lord, whether it be the Father or Christ, make you to increase and abound in love. This is not mere numerical growth, but a deepening and enlarging of yourselves, your gifts, faith, and knowledge. The Greek for 'increase' has a more positive force than 'abound', a more comparative force, 'make you full and even abound.' Love is the fruit of the Spirit, and Paul prays that you may be established in holiness.",
+            "wordCount": 74,
+            "quoteTokenProportion": 52.0,
+            "qualityScore": 1.974293392599711,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.99,
+            "commentatorTierSimilarities": [
+                34.98,
+                37.52,
+                27.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the Lord, whether it be the Father or Christ, make you to increase and abound in love, not just in numbers, but in yourselves and in richness of gifts and faith. Let this love flow toward one another, that it may be perfected by God, for love is the fruit of the Spirit. And so, even if we are not able to come to you, may the Lord still tend to your growth. Love is greater than faith or hope, for God is love, and the Spirit of Christ is the Spirit of love. Therefore, Paul prays for an increase in love, for it is in love and pure holiness that the perfection of the Christian life consists.",
+            "wordCount": 119,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.066434309360347,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.05,
+            "commentatorTierSimilarities": [
+                24.89,
+                40.99,
+                34.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May the Lord, whether it be the Father or Christ, make you to increase and abound in love, not just in numbers, but in yourselves and in richness of gifts and faith. Let this love flow toward one another, that it may be perfected by God, for love is the fruit of the Spirit. And so, even if we are not able to come to you, may the Lord still tend to your growth. Love is greater than faith or hope, for God is love, and the Spirit of Christ is the Spirit of love.",
+            "wordCount": 95,
+            "quoteTokenProportion": 59.26,
+            "qualityScore": 2.039267793990442,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+            "commentatorTierSimilarities": [
+                26.55,
+                41.19,
+                32.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May the Lord, whether the Father or Christ, make you increase and abound in love, not just in numbers, but in richness of gifts and faith. Let your love flow towards one another, for love is the fruit of the Spirit. Even if we cannot come to you, may the Lord attend to your growth. Love exceeds faith and hope, as God is love, and the Spirit of Christ is the Spirit of love. In this, the perfection of the Christian life is found.",
+            "wordCount": 84,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 1.840317651197544,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                27.46,
+                41.68,
+                30.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:29:03",
+    "verseRef": "Ephesians 2:16",
+    "bestBHT": {
+        "bht": "Through His cross, Christ accomplished an incredible act of reconciliation, not only restoring favor and laying aside enmity, but completely transforming hostility into complete reconciliation. His sacrificial death on the cross not only removed the enmity between man and God, but also eliminated the division between Jew and Gentile. Christ's death on the cross was the foundation for this profound reconciliation, as it brought peace and established a new unity among those who were far off (Gentiles) and those who were near (Jews) in the body of Christ, the Church.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 2.3737725891290635,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.27,
+        "commentatorTierSimilarities": [
+            32.05,
+            39.76,
+            28.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Translate, 'might altogether reconcile them both in one body (the Church, :-) unto God through His cross.' The Greek for 'reconcile' (apocatalaxe), found only here and in Colossians 1:20, expresses not only a return to favor with one (catallage), but so to lay aside enmity that complete amity follows; to pass from enmity to complete reconciliation.",
+            "Slain the enmity\u2014namely, that had been between man and God; and so that between Jew and Gentile which had resulted from it. By His being slain, He slew it.",
+            "Thereby\u2014Greek, 'therein'; 'in' or 'by the cross,' that is, His crucifixion."
+        ],
+        "Albert Barnes": [
+            "It was not merely to make them harmonious, but it was that both, who had been alienated from God, should be reconciled to 'him.'",
+            "They who are reconciled to God will be at peace with each other. They will feel that they are of the same family, and are all brethren.",
+            "He has by that death removed all the obstacles to reconciliation on the part of God and on the part of man. It is made efficacious in removing the enmity of the sinner against God, and producing peace."
+        ],
+        "Marvin Vincent": [
+            "The verb contains a hint of restoration to a primal unity.",
+            "You which were afar off. Gentiles.",
+            "Peace upon peace to those who are far and to those who are near."
+        ],
+        "John Calvin": [
+            "Without this, neither the Law, nor ceremonies, nor their descent from Abraham, nor all their dazzling prerogatives, would be of any avail.",
+            "Sin is the cause of enmity between God and us; and, until it is removed, we shall not be restored to the Divine favor.",
+            "These words, which unquestionably relate to the cross, may admit of two senses, \u2014 either that Christ, by his death, has turned away from us the Father\u2019s anger, or that, having redeemed both Jews and Gentiles, he has brought them back into one flock."
+        ],
+        "Philip Schaff": [
+            "The reference is not to Christ\u2019s human body, but to his mystical body (comp. chap. Ephesians 1:23), the church.",
+            "Through the cross\u2019 points to the expiatory sacrifice of Christ as the ground of the reconciliation, in accordance with the teaching of the entire Bible.",
+            "The enmity is \u2018that between man and God, which Christ did slay on the cross, and which being brought to an end, the separation between Jew and Gentile which was the result of it, was done away\u2019(Alford)."
+        ],
+        "Archibald T. Robertson": [
+            "Final clause with \u03b9\u03bd\u03b1 understood of first aorist active subjunctive of \u03b1\u03c0\u03bf\u03ba\u03b1\u03c4\u03b1\u03bb\u03bb\u03b1\u03c3\u03c3\u03c9 for which see Colossians 1:20; Colossians 1:22.\" ",
+            "Paul piles up metaphors to express his idea of the Kingdom of God with Christ as King (the church, the body, the commonwealth of Israel, oneness, one new man in Christ, fellow-citizens, the family of God, the temple of God).",
+            "On the Cross where he slew the enmity (repeated here) between Jew and Gentile."
+        ],
+        "John Gill": [
+            "Christ by fulfilling it for them, and thereby abrogating it, reconciled them.",
+            "reconciliation with others depends upon reconciliation with him.",
+            "reconciliation being so effectually made by it that there is no need of a reiteration"
+        ],
+        "John Wesley": [
+            "In one body \u2014 One church.",
+            "Having slain \u2014 By his own death on the cross.",
+            "The enmity \u2014 Which had been between sinners and God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through His cross, Christ accomplished the remarkable act of reconciling both Jews and Gentiles, not only restoring them to favor but completely transforming their enmity into complete reconciliation. The cross, where He was slain, not only put an end to the estrangement between man and God, but also eliminated the division between Jew and Gentile. In this act of reconciliation, Christ established a new unity and harmony, bringing together those who were far off (Gentiles) and those who were near (Jews). His sacrificial death on the cross served as the foundation for this reconciliation, as it removed all the obstacles and brought about peace. This profound reconciliation is not merely a superficial agreement, but a restoration to a primal unity in the body of Christ, the Church.",
+            "wordCount": 127,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 2.21634168521884,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.03,
+            "commentatorTierSimilarities": [
+                31.93,
+                39.83,
+                28.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through His cross, Christ accomplished an incredible act of reconciliation, not only restoring favor and laying aside enmity, but completely transforming hostility into complete reconciliation. His sacrificial death on the cross not only removed the enmity between man and God, but also eliminated the division between Jew and Gentile. Christ's death on the cross was the foundation for this profound reconciliation, as it brought peace and established a new unity among those who were far off (Gentiles) and those who were near (Jews) in the body of Christ, the Church.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.3737725891290635,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.27,
+            "commentatorTierSimilarities": [
+                32.05,
+                39.76,
+                28.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through His cross, Christ accomplished an incredible act of reconciliation, completely transforming enmity to complete reconciliation. His death on the cross not only removed the division between Jew and Gentile but also brought peace and established unity. Through His sacrifice, Christ restored favor, reconciling both Jews and Gentiles to God. This reconciling work is not superficial, but a profound restoration to a primal unity in the body of Christ, the Church, where enmity was slain and replaced with complete reconciliation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2453504806883817,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.0,
+            "commentatorTierSimilarities": [
+                32.2,
+                38.84,
+                28.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the cross, Christ achieved the remarkable task of reconciling Jews and Gentiles, transforming their enmity into complete reconciliation. By being slain on the cross, He put an end to the enmity that had existed between humanity and God, and thus abolished the separation between Jew and Gentile. His crucifixion served as the foundation for this restoration, bringing about a new unity and harmony in the Church. This reconciliation is not a mere surface-level agreement, but a profound restoration to a primal state of unity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.03252990642924,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.92,
+            "commentatorTierSimilarities": [
+                33.64,
+                38.6,
+                27.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the cross, Christ accomplished the remarkable task of reconciling both Jews and Gentiles, completely transforming enmity into reconciliation. By being slain on the cross, He abolished the division between man and God and also eliminated the separation between Jew and Gentile. This restoration is not a surface-level agreement, but a profound reconciliation, bringing about a new unity in the Church. Christ's crucifixion served as the foundation for this reconciliation, establishing peace and restoring favor between God and humanity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.15271661466889,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.92,
+            "commentatorTierSimilarities": [
+                31.99,
+                39.32,
+                28.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

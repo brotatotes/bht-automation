@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:03:55",
+    "verseRef": "1 Corinthians 4:16",
+    "bestBHT": {
+        "bht": "Be imitators of me, not only in the things just mentioned, but in my ways in Christ. A minister should live such a blameless life that he can point his people to his own example and entreat them to live like him. I beseech you, my children, to copy my example, listen to my admonitions, and be prepared to suffer for His name. Devote yourselves to the service of Christ, following my example, enduring all things patiently, and imitating Christ in all you do.",
+        "wordCount": 84,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 1.8181184462129,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.79,
+        "commentatorTierSimilarities": [
+            35.53,
+            34.29,
+            30.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Imitators, not only, nor perhaps chiefly, in the things just mentioned...but in my ways in Christ, my manner of life and teaching.",
+            "Imitators...in my ways in Christ.",
+            "Imitators, not only, nor perhaps chiefly, in the things just mentioned...but as ver. 17, in my ways in Christ, my manner of life and teaching."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. be ye followers of me\u2014literally,",
+            "\t\"imitators,\" namely, in my ways, which be in Christ",
+            "\t(1 Corinthians 4:17; 1 Corinthians 11:1),",
+            "\tnot in my crosses (1 Corinthians 4:8-13;",
+            "\tActs 26:29; Galatians 4:12)."
+        ],
+        "Albert Barnes": [
+            "Imitate me; copy my example; listen to my admonitions.",
+            "A minister should always so live as that he can, without pride or ostentation, point to his own example.",
+            "He should have such a confidence in his own integrity; he should lead such a blameless life; and 'he should be assured that his people have so much evidence of his integrity,' that he can point them to his own example, and entreat them to live like himself."
+        ],
+        "John Calvin": [
+            "For what is more reasonable than that sons endeavor to be as like as possible to their father.",
+            "He exhorts them to this, by way of entreaty rather than of command.",
+            "He accordingly admonishes them to devote themselves, after his example, to the service of Christ, so as to endure all things patiently."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 4:16. I beseech you therefore, be ye imitators of me in preparedness to suffer for His name.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Be ye imitators of me (\u03bc\u03b9\u03bc\u03b7\u03c4\u03b1 \u03bc\u03bf\u03c5 \u03b3\u03b9\u03bd\u03b5\u03c3\u03b8\u03b5). 'Keep on becoming (present middle imperative) imitators of me (objective genitive).'\" ",
+            "\u039c\u03b9\u03bc\u03b7\u03c4\u03b7\u03c2 is an old word from \u03bc\u03b9\u03bc\u03b5\u03bf\u03bc\u03b1, to copy, to mimic (\u03bc\u03b9\u03bc\u03bf\u03c2).\" ",
+            "Paul stands for his rights as their spiritual father against the pretensions of the Judaizers who have turned them against him by the use of the names of Apollos and Cephas."
+        ],
+        "John Gill": [
+            "Be ye followers of me; for who should children follow, but their parents?",
+            "He never desired any to follow him any more, or further than he followed Christ.",
+            "Observing their growing pride, haughtiness, and vain opinion of themselves, and those unnatural divisions and animosities which were fomented among them."
+        ],
+        "John Wesley": [
+            "Be ye followers of me \u2014 In that spirit and behaviour which I have so largely declared."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Be imitators of me, not only in the things just mentioned, but in my ways in Christ. I beseech you, my children, to copy my example and follow my teaching. As a spiritual father, I stand for my rights against those who have turned you against me. Listen to my admonitions, live a blameless life, and be prepared to suffer for His name. It is only reasonable that children aspire to be like their father. So, I entreat you, devote yourselves to the service of Christ, following my example, and enduring all things patiently. Let your imitation be grounded in the imitation of Christ.",
+            "wordCount": 104,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.6138928731586741,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.0,
+            "commentatorTierSimilarities": [
+                35.98,
+                28.5,
+                35.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Be imitators of me, not only in the things just mentioned, but in my ways in Christ. A minister should live such a blameless life that he can point his people to his own example and entreat them to live like him. I beseech you, my children, to copy my example, listen to my admonitions, and be prepared to suffer for His name. Devote yourselves to the service of Christ, following my example, enduring all things patiently, and imitating Christ in all you do.",
+            "wordCount": 84,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.8181184462129,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.79,
+            "commentatorTierSimilarities": [
+                35.53,
+                34.29,
+                30.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Be imitators of me, not only in the things I have mentioned, but in my ways in Christ. I urge you, my children, to follow my example, listen to my admonitions, and be prepared to suffer for the sake of Christ. Dedicate yourselves to the service of Christ, following my lead, enduring all things patiently. Let your imitation be grounded in the imitation of Christ himself. Remember, as children should follow their parents, so should you follow Christ through imitating me.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.773500408291345,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+            "commentatorTierSimilarities": [
+                39.6,
+                24.68,
+                35.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Imitate me, not only in the things mentioned, but in my ways in Christ. I urge you to copy my example, listen to my admonitions, and be prepared to suffer for His name. Dedicate yourselves to the service of Christ, following my lead, enduring all things patiently. As children should follow their parents, follow me as I follow Christ. Put aside divisions and pride, and imitate the humility and love of Christ in all you do.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.7370731941352333,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                37.33,
+                26.33,
+                36.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Be imitators of me, not only in the things just mentioned, but in my ways in Christ. I beseech you, my children, to copy my example and entreat you to live like myself. As a spiritual father, I stand for my rights against those who have turned you against me. Listen to my admonitions, live a blameless life, and be prepared to suffer for His name. Dedicate yourselves to the service of Christ, following my example, imitating Christ in all you do.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7072226309437286,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.11,
+            "commentatorTierSimilarities": [
+                38.4,
+                29.66,
+                31.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

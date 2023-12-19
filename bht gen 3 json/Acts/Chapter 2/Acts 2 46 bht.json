@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:25:41",
+    "verseRef": "Acts 2:46",
+    "bestBHT": {
+        "bht": "The early Christians showed a deep reverence for the temple, worshiping there daily while also meeting privately in their homes. They shared meals together with gladness and singleness of heart, free from deceit and hypocrisy. They carried the same spirit through all their actions, working and eating with the same devotion with which they prayed and received the Lord's Supper. Their calm and serene cheerfulness, even amidst persecution, reflected their understanding that Christianity completed true Judaism. Their devotion to their heritage and faith in God's love and protection inspired their praise and brought others to Christ.",
+        "wordCount": 98,
+        "quoteTokenProportion": 30.56,
+        "qualityScore": 1.9207733381150134,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+        "commentatorTierSimilarities": [
+            20.69,
+            36.29,
+            43.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "continuing daily with one accord in the temple",
+            "at home, i.e. privately, as contrasted with their public frequenting of the temple",
+            "singleness of heart, implying freedom from stones or rocks, and thus simplicity, evenness, purity"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "breaking bread from house to house\u2014rather, 'at home' (Margin), that is, in private, as contrasted with their temple-worship, but in some stated place or places of meeting.",
+            "eat their meat with gladness\u2014'exultation.'",
+            "and singleness of heart."
+        ],
+        "Albert Barnes": [
+            "They were not disposed to leave the place where their fathers had so long worshipped God.",
+            "They partook in common of what they possessed, and the expression 'did eat their meat' seems to imply that this refers to their common meals, and not to the Lord\u2019s Supper.",
+            "With rejoicing. This is one of the effects of religion. It is far from gloom; it diffuses happiness over the mind; it bestows additional joy in the participation of even our ordinary pleasures."
+        ],
+        "Marvin Vincent": [
+            "With one accord.\" ",
+            "At home, contrasted with in the temple.",
+            "Singleness. Derived from aj, not, and felleuv, stony ground."
+        ],
+        "John Calvin": [
+            "They were continually in the temple, that they might gain such unto Christ.",
+            "He signifieth, therefore, unto us, that they used to eat together, and that thriftily.",
+            "The knowledge of God\u2019s love toward us, and the hope of his protection, do bring us this goodness with them, that we praise God with quiet minds, whatsoever the world doth threaten."
+        ],
+        "Philip Schaff": [
+            "The wisdom of the Church of the first days was conspicuously shown in their reverent love for the temple of their fathers.",
+            "They seemed from the first to have grasped the idea that Christianity as taught by Jesus was only the completion of true Judaism.",
+            "The calm, serene cheerfulness of the early Christian, even in times of bitter persecution, was ever a subject of much remark."
+        ],
+        "Archibald T. Robertson": [
+            "With one accord in the temple... They were still worshipping in the temple for no breach had yet come between Christians and Jews.\" ",
+            "Daily they were here and daily breaking bread at home... Does it refer also to the possible \u03b1\u03b3\u03b1\u03c0\u03b1 or to the Lord's Supper afterwards as they had common meals 'from house to house'?\" ",
+            "At any rate it was 'with singleness' (\u03b1\u03c6\u03b5\u03bb\u03bf\u03c4\u03b7\u03c4) of heart... It comes from \u03b1\u03c6\u03b5\u03bb\u03b7\u03c2, free from rock, smooth."
+        ],
+        "John Gill": [
+            "Every day they went up to the temple, at the time of prayer, or whenever any religious service was to be performed; this was their constant practice, and in this they agreed.",
+            "They did eat their meat with gladness; with great thankfulness to the God of their mercies for their daily food, acknowledging that all came from him.",
+            "With singleness of heart; without deceit and hypocrisy; either in their thanksgivings to God, or in their welcome and entertainment of each other; and with great sincerity, openness, and frankness before God, and one another."
+        ],
+        "John Wesley": [
+            "Continuing daily \u2014 breaking the bread - in the Lord's Supper, as did many Churches for some ages.",
+            "They partook of their food with gladness and singleness of heart \u2014 They carried the same happy and holy temper through all their common actions.",
+            "Eating and working with the same spirit wherewith they prayed and received the Lord's Supper."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The early Christians had a deep reverence for the temple and continued to worship there daily, while also meeting privately in their homes. They shared meals together with a sense of joy and simplicity, free from deceit and hypocrisy. Their unity and devotion extended to their common actions, as they worked and ate with the same spirit with which they prayed and partook in the Lord's Supper. Their calm and serene cheerfulness, even amidst persecution, was a reflection of their faith and understanding that Christianity was the completion of true Judaism. This wisdom and love for their heritage was evident in their continued presence in the temple. Through their actions, they sought to bring others to Christ and praised God with quiet minds, confident in His love and protection.",
+            "wordCount": 130,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 1.8606899948752682,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                18.75,
+                37.88,
+                43.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The early Christians showed a deep reverence for the temple, worshiping there daily while also meeting privately in their homes. They shared meals together with gladness and singleness of heart, free from deceit and hypocrisy. They carried the same spirit through all their actions, working and eating with the same devotion with which they prayed and received the Lord's Supper. Their calm and serene cheerfulness, even amidst persecution, reflected their understanding that Christianity completed true Judaism. Their devotion to their heritage and faith in God's love and protection inspired their praise and brought others to Christ.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 1.9207733381150134,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                20.69,
+                36.29,
+                43.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The early Christians displayed a deep reverence for the temple, worshiping there daily while also gathering in their homes. They partook in shared meals with gladness and singleness of heart, free from deceit and hypocrisy. Their actions demonstrated a unity between their prayers, the Lord's Supper, and their everyday activities. Their serene cheerfulness, even amidst persecution, showcased their belief that Christianity completed true Judaism. Their dedication to their heritage and trust in God's love and protection propelled their praise and evangelism efforts.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.867207319404736,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
+            "commentatorTierSimilarities": [
+                21.26,
+                36.57,
+                42.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The early Christians maintained a strong connection to the temple, worshiping there daily and gathering in their homes for shared meals. They approached these meals with gladness and singleness of heart, devoid of deceit or hypocrisy. Their unity extended beyond prayer and religious rituals to encompass their ordinary actions. Despite facing persecution, they exuded a calm and serene cheerfulness that distinguished them. This exemplified their understanding that Christianity fulfilled genuine Judaism, and it fueled their reverence for their heritage while inspiring praise and evangelism.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.8369376222480112,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.42,
+            "commentatorTierSimilarities": [
+                22.79,
+                35.44,
+                41.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The early Christians demonstrated a deep reverence for the temple as they worshiped there daily and gathered in their homes for shared meals. Their meals were marked by gladness and singleness of heart, devoid of deceit or hypocrisy. Their unity was not limited to their prayers and religious practices but extended to their everyday actions. Even amidst persecution, they maintained a calm and serene cheerfulness, reflecting their belief that Christianity completed and fulfilled true Judaism. Their dedication to their heritage and genuine faith in God's love and protection shaped their praise and evangelistic efforts.",
+            "wordCount": 95,
+            "quoteTokenProportion": 26.76,
+            "qualityScore": 1.850514385345567,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "commentatorTierSimilarities": [
+                21.13,
+                35.98,
+                42.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

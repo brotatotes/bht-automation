@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:13:19",
+    "verseRef": "1 Corinthians 14:29",
+    "bestBHT": {
+        "bht": "Two or three prophets should speak at one meeting, one after another, in order to edify the Church. The others, particularly those with the gift of discerning spirits, should judge whether the prophecies spoken are truly from the Spirit of God. This practice of discernment is vital to maintaining order and avoiding confusion. Allowing the people the freedom to examine and compare teachings with the Bible and sound reason promotes true religion and helps the Church progress.",
+        "wordCount": 77,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.9762078930140792,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.05,
+        "commentatorTierSimilarities": [
+            25.58,
+            39.52,
+            34.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Two or three, viz. at one assembling;\u2014not together; this is plainly prohibited, ver. 30.",
+            "There is no 'at the most,' as in the other case, because he does not wish to seem as if he were limiting this most edifying of the gifts.",
+            "The others, i.e. prophets,\u2014or perhaps, any person possessing the gift of discerning of spirits mentioned ch. xii. 10 in immediate connexion with prophecy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "two or three\u2014at one meeting (he does not add 'at the most,' as in :-, lest he should seem to 'quench prophesyings,' the most edifying of gifts), and these 'one by one,' in turn.",
+            "Paul gives here similar rules to the prophets, as previously to those speaking in unknown tongues.",
+            "judge\u2014by their power of 'discerning spirits' (1 Corinthians 14:31- :), whether the person prophesying was really speaking under the influence of the Spirit."
+        ],
+        "Albert Barnes": [
+            "No man is to be debarred from the right of canvassing freely, and comparing with the Bible, and with sound reason, all that the minister of the gospel advances.",
+            "No minister who has just views of his office, and a proper acquaintance with the truth, and confidence in it, would desire to prohibit the people from the most full and free examination of all that he utters.",
+            "True religion advances just in proportion as this spirit of candid, and earnest, and prayerful examination prevails among a people."
+        ],
+        "Marvin Vincent": [
+            "Judge. See on ch. 1 Corinthians 11:29. Referring to the gift of the discernment of spirits. See on ch. 1 Corinthians 12:10."
+        ],
+        "John Calvin": [
+            "This is true, for we know it by every day\u2019s experience.",
+            "Even in tongues, as he takes the term, prophecy is included.",
+            "Paul teaches that the other prophets will be useful to the Church, even by keeping silence."
+        ],
+        "Philip Schaff": [
+            "Let the prophets speak by two or three at one meeting, and only in turn.",
+            "Let the others judge, let the other prophets discern whether it proceeds from the Spirit of God.",
+            "Discerning whether it proceeds from the Spirit of God."
+        ],
+        "Archibald T. Robertson": [
+            "Let two or three prophets speak.",
+            "Whether what is said is really of the Spirit.",
+            "Diakriseis pneumat\u014dn."
+        ],
+        "John Gill": [
+            "Where there are a number of prophets, two or three of them might prophesy, or explain the prophecies of the Old Testament, or preach the Gospel at one opportunity or meeting.\" ",
+            "They were to do [prophesy or preach] in course, one after another, otherwise it would be all confusion, nor could they be heard to edification.\" ",
+            "Even the body of the people, private members of the church, and hearers, might judge of the doctrine for themselves, according to the word of God, the standard of faith and practice."
+        ],
+        "John Wesley": [
+            "Let two or three of the prophets \u2014 Not more, at one meeting.",
+            "Speak \u2014 One after another, expounding the scripture."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Two or three prophets should speak at one meeting, one after another, in order to edify the Church. These prophets should be judged by their ability to discern whether their words are truly from the Spirit of God. The role of the other prophets is to discern the authenticity of the prophecies being spoken. This practice of discernment is essential in order to maintain order and prevent confusion in the church. The people, both ministers and congregation, have the right and responsibility to examine and compare the teachings with the Bible and sound reason. This spirit of examination fosters true religion and allows for the advancement of the Church.",
+            "wordCount": 109,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.95955216260454,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.5,
+            "commentatorTierSimilarities": [
+                23.66,
+                40.27,
+                36.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Two or three prophets should speak at one meeting, one after another, in order to edify the Church. The others, particularly those with the gift of discerning spirits, should judge whether the prophecies spoken are truly from the Spirit of God. This practice of discernment is vital to maintaining order and avoiding confusion. Allowing the people the freedom to examine and compare teachings with the Bible and sound reason promotes true religion and helps the Church progress.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9762078930140792,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.05,
+            "commentatorTierSimilarities": [
+                25.58,
+                39.52,
+                34.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 1 Corinthians 14:29, two or three prophets are instructed to speak at one meeting, one after another, for the edification of the Church. The others, particularly those who possess the gift of discerning spirits, should judge whether the prophecies are truly inspired by the Spirit of God. This practice of discernment is essential to maintain order and prevent confusion within the church. Allowing the people to examine and compare teachings with the Bible and sound reasoning fosters true religion and facilitates the growth of the Church.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.0371095146787876,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.07,
+            "commentatorTierSimilarities": [
+                27.95,
+                37.24,
+                34.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Two or three prophets should speak one after another in a meeting for the edification of the Church. Those with the gift of discerning spirits should judge whether the prophecies are truly from the Spirit. This discernment is crucial to maintain order and prevent confusion. Allowing people to examine teachings with the Bible and sound reasoning promotes true religion and facilitates Church growth.",
+            "wordCount": 63,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.9605284099023734,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.53,
+            "commentatorTierSimilarities": [
+                26.34,
+                37.7,
+                35.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Two or three prophets should speak at one meeting, one after another, in order to edify the Church. The others, particularly those with the gift of discerning spirits, should judge whether the prophecies spoken are truly from the Spirit of God. This practice of discernment is vital to maintaining order and avoiding confusion. Allowing the people the freedom to examine and compare teachings with the Bible and sound reason promotes true religion and helps the Church progress.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9762078930140792,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.05,
+            "commentatorTierSimilarities": [
+                25.58,
+                39.52,
+                34.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

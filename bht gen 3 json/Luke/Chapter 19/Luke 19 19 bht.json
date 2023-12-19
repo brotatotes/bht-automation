@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:21:42",
+    "verseRef": "Luke 19:19",
+    "bestBHT": {
+        "bht": "Keep on becoming over is the imperative given, emphasizing the importance of this command. It is crucial to distinguish this parable from another one in order to fully appreciate Jesus' versatility. The servant is rewarded in proportion to their gain, with commendation omitted in this particular account. In the ultimate state of happiness, there will be no inequality among the saints, who will shine like the sun. It is worth considering what may exist in the future kingdom or during Christ's reign with his saints.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.1423985079613266,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.33,
+        "commentatorTierSimilarities": [
+            34.2,
+            19.73,
+            46.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Luke 19:19. Five cities. The reward is proportioned to the gain; the commendation is omitted here. In Matthew it is repeated; there the gain was in each case proportioned to the trust.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Be thou also over (\u03ba\u03b1 \u03c3\u03c5 \u03b5\u03c0\u03b1\u03bd\u03bf \u03b3\u03b9\u03bd\u03bf\u03c5). Present middle imperative. Keep on becoming over.",
+            "There is no real reason for identifying this parable of the pounds with the parable of the talents in Luke 19:25.",
+            "The versatility of Jesus needs to be remembered by those who seek to flatten out everything."
+        ],
+        "John Gill": [
+            "He commended him as a good and faithful servant.\" ",
+            "There will be no inequality in the ultimate state of happiness, when all the saints shall shine as the sun in the kingdom of their Father.",
+            "Whatever there may be in the kingdom state, or in Christ's personal reign with his saints on earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Keep on becoming over is the imperative given in this verse. It is important to recognize that this parable of the pounds should not be conflated with the parable of the talents in Luke 19:25. Jesus' versatility is evident here, as he rewards the servant proportionate to their gain. The commendation is omitted in this passage, but in Matthew it is repeated. In the ultimate state of happiness, there will be no inequality, as all the saints will shine as the sun in the kingdom of their Father. It is worth considering what may exist in the kingdom state or in Christ's personal reign with his saints on earth.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.3648640736182505,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
+            "commentatorTierSimilarities": [
+                32.74,
+                24.2,
+                43.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Keep on becoming over is the imperative given, emphasizing the importance of this command. It is crucial to distinguish this parable from another one in order to fully appreciate Jesus' versatility. The servant is rewarded in proportion to their gain, with commendation omitted in this particular account. In the ultimate state of happiness, there will be no inequality among the saints, who will shine like the sun. It is worth considering what may exist in the future kingdom or during Christ's reign with his saints.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.1423985079613266,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.33,
+            "commentatorTierSimilarities": [
+                34.2,
+                19.73,
+                46.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Keep on becoming over is the imperative given in this verse, stressing its significance. It is important to differentiate this parable from another, allowing us to grasp Jesus' versatility. The servant's reward is proportionate to their gain, with commendation omitted here. In the ultimate state of happiness, inequality will be absent as all the saints will shine like the sun. It prompts us to consider what may exist in the future kingdom or during Christ's reign with his saints.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.1660597192087556,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.12,
+            "commentatorTierSimilarities": [
+                34.7,
+                21.08,
+                44.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Keep on becoming over is the imperative given, emphasizing its importance. Differentiating this parable from another reveals Jesus' versatility. The servant's reward corresponds to their gain, excluding commendation here. In the ultimate state of happiness, equality prevails as all saints shine like the sun. It prompts reflection on the future kingdom and Christ's reign with his saints.",
+            "wordCount": 59,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.0492547875582996,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.23,
+            "commentatorTierSimilarities": [
+                35.21,
+                17.69,
+                47.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Keep on becoming over is the imperative given, stressing its significance. The servant's reward corresponds to their gain, with commendation excluded. In the ultimate state of happiness, equality prevails among the saints, shining like the sun. This prompts contemplation of the future kingdom and Christ's reign with his saints.",
+            "wordCount": 51,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 0.9243274335279403,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.08,
+            "commentatorTierSimilarities": [
+                28.85,
+                17.2,
+                53.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

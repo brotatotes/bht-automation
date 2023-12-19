@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:14:20",
+    "verseRef": "Luke 2:37",
+    "bestBHT": {
+        "bht": "This devout widow served God in the temple, never leaving and participating in both day and night services. She dedicated her life to fasting and prayer, showing her deep devotion to God. Her commitment to worshiping God in the temple, even at her advanced age, is commendable. Her faithfulness is a powerful example of consistently seeking and serving God, day and night, and reminds us of the importance of diligently waiting upon Him in His sanctuary.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 2.0209800340513016,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.54,
+        "commentatorTierSimilarities": [
+            25.81,
+            36.3,
+            37.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not merely in the ordinary hours of prayer, at nine, and three, or the ordinary fasts on Monday and Thursday, but in an ascetic-devotional method of life.",
+            "Night is said to be put first, because fasts were reckoned from one evening to another.",
+            "Is it not rather because the greater solemnity and emphasis rests on the religious exercise by night?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "departed not from the temple\u2014was found there at all stated hours of the day, and even during the night services of the temple watchmen",
+            "serving God with fastings and prayer",
+            "suggested by this"
+        ],
+        "Albert Barnes": [
+            "And she was a widow of about fourscore and four years - That is, she was about 84 years of age.",
+            "Fastings and prayers - Constant religious service. pending her time in prayer, and in all the ordinances of religion.",
+            "God blesses those who wait at his temple gates."
+        ],
+        "Marvin Vincent": [
+            "a widow even for (or up to) fourscore and four years.\" ",
+            "The present participle, serving. Rev., worshipping."
+        ],
+        "John Calvin": [
+            "She worshipped God with fastings and prayers day and night...she did not visit the temple for the mere purpose of performing the outward service, but that she added to it the other exercises of piety.",
+            "Each person ought to make a judicious inquiry, what belongs to his own calling.",
+            "Fasting is a subordinate aid, which is pleasing to God no farther than as it aids the earnestness and fervency of prayer."
+        ],
+        "Philip Schaff": [
+            "The correct reading suggests that she was now eighty-four years old, not a widow for that period. This is evidently mentioned as a commendation.",
+            "She not only appeared in the temple at the ordinary hours of prayer, and on ordinary fast days (Monday and Thursday), but her life was devoted entirely to religious exercises.",
+            "Simeon and Anna 'stand in striking contrast to the infant Saviour, exemplifying the Old Covenant decaying and waxing old before the New, which is to grow and remain.'"
+        ],
+        "Archibald T. Robertson": [
+            "Which departed not (\u03b7 \u03bf\u03c5\u03ba \u03b1\u03c6\u03b9\u03c3\u03c4\u03b1\u03c4\u03bf). Imperfect indicative middle. She kept on not leaving.",
+            "The Spirit kept her in the temple as he led Simon to the temple (Plummer).",
+            "She never missed a service in the temple."
+        ],
+        "John Gill": [
+            "And she was a widow of about fourscore and four years.... Which is not the date of her whole age, as some have thought, but of her widowhood state, as distinct from her marriage state, and the time of her virginity.",
+            "Which departed not from the temple that is, she was constant in her devotion there, at the time of divine service, whether by night or day.",
+            "but served God with fastings and prayers, night and day: she attended to the usual fasts of twice a week, and to such as were enjoined the whole congregation, and to the several set times of prayer, and to every act of devotion, private or public, by night or day."
+        ],
+        "John Wesley": [
+            "Fourscore and four years \u2014 These were the years of her life, not her widowhood only.",
+            "But served God with fastings and prayers \u2014 Even at that age.",
+            "Night and day \u2014 That is, spending therein a considerable part of the night, as well as of the day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse describes a devout widow who was dedicated to serving God in the temple. She not only participated in the regular hours of prayer and fasts but lived a life of ascetic devotion. She worshiped God with fasting and prayer day and night, never missing a service in the temple. She had been a widow for a long time, around 84 years, and her commitment to serving God in the temple was commendable. Her faithfulness is a reminder of the importance of diligently seeking and worshiping God, day and night, and waiting upon Him in His sanctuary.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.10934364088164,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+            "commentatorTierSimilarities": [
+                26.52,
+                37.59,
+                35.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This devout widow served God in the temple, never leaving and participating in both day and night services. She dedicated her life to fasting and prayer, showing her deep devotion to God. Her commitment to worshiping God in the temple, even at her advanced age, is commendable. Her faithfulness is a powerful example of consistently seeking and serving God, day and night, and reminds us of the importance of diligently waiting upon Him in His sanctuary.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.0209800340513016,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.54,
+            "commentatorTierSimilarities": [
+                25.81,
+                36.3,
+                37.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This verse speaks of a devoted widow who served God in the temple, never departing and engaging in both daytime and nighttime services. She dedicated herself to fasting and prayer, demonstrating her strong devotion to God. Her unwavering commitment to worshiping God in the temple, even at her advanced age, is commendable. Her faithfulness serves as a powerful reminder of the significance of consistently seeking and serving God, day and night, and underscores the importance of faithfully waiting upon Him in His holy sanctuary.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0067410900523064,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.07,
+            "commentatorTierSimilarities": [
+                25.84,
+                37.12,
+                37.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This devoted widow faithfully served God in the temple, never leaving and participating in both day and night services. She dedicated herself to fasting and prayer, exemplifying her deep devotion to God. Her steadfast commitment to worshiping God in the temple, even at her advanced age, is inspiring. Her unwavering faith serves as a powerful reminder of the importance of consistently seeking and serving God, day and night, and emphasizes the significance of waiting upon Him in His holy sanctuary.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.015527575239507,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.36,
+            "commentatorTierSimilarities": [
+                25.77,
+                36.98,
+                37.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This devout widow continually worshiped and served God in the temple, both during the day and through the night. She dedicated herself to fasting and prayer, demonstrating her fervent devotion. Despite being a widow for many years, she never missed a service and remained steadfast in her commitment to God. Her unwavering faithfulness is a remarkable example of seeking and serving God diligently, day and night, and waiting upon Him in His sanctuary.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.0185508161246704,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.46,
+            "commentatorTierSimilarities": [
+                25.55,
+                37.14,
+                37.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

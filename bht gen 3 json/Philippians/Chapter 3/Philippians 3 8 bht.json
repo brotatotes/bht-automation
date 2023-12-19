@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:56:45",
+    "verseRef": "Philippians 3:8",
+    "bestBHT": {
+        "bht": "I count all things as loss for the excellency of the knowledge of Christ Jesus my Lord. I suffered the loss of all things and consider them to be refuse, that I may gain Christ. He who loses all things, and even himself, on account of Christ, gains Christ: Christ is His, and He is Christ's. The surpassing worth of what he knows makes all else poor in comparison therewith.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1808485489159617,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.85,
+        "commentatorTierSimilarities": [
+            37.65,
+            28.67,
+            33.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I continue to esteem [them] all to be loss on account of the super-eminence of the knowledge of Christ Jesus my Lord.",
+            "I suffered the loss of ALL THINGS and esteem them to be refuse, that I may gain Christ.",
+            "He has Him now, but not in full: this can only be when his course is finished, and to this time the next words allude."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not only 'have I counted' those things just mentioned 'loss for Christ's sake, but, moreover, I even DO count ALL things but loss.\" (100 words)",
+            "A 'loss' is of something having value; but 'refuse' is thrown away as not worthy of being any more touched or looked at.\" (35 words)",
+            "He who loses all things, and even himself, on account of Christ, gains Christ: Christ is His, and He is Christ's.\" (22 words)"
+        ],
+        "Albert Barnes": [
+            "He would be a gainer who should sacrifice everything in order to win Christ.",
+            "Valuable as they may be, they are willing to throw them all overboard in order to save themselves.",
+            "In the question of justification before God, all reliance on birth, and blood, and external morality, and forms of religion, and prayers, and alms, is to be renounced, and, in comparison with the merits of the great Redeemer, to be esteemed as vile."
+        ],
+        "Marvin Vincent": [
+            "Yea verily therefore.\" ",
+            "Because the knowledge of Christ is so much greater than all things else.",
+            "Either excrement or what is thrown away from the table; leavings."
+        ],
+        "John Calvin": [
+            "For there are many things that have an appearance of excellence, but the knowledge of Christ surpasses to such a degree everything else by its sublimity, that, as compared with it, there is nothing that is not contemptible.",
+            "Paul, then, was prepared to lose everything that he had, rather than be deprived of Christ.",
+            "Paul declares... that he had not merely abandoned everything that he formerly reckoned precious, but that they were like dung, offensive to him, or were disesteemed like things that are thrown away in contempt."
+        ],
+        "Philip Schaff": [
+            "Yea verily, and I count all things to be loss.",
+            "The surpassing worth of what he knows makes all else poor in comparison therewith.",
+            "This is the true gain, and the identical word as in the original should be preserved to show how the one thought pervades the apostle\u2019s mind."
+        ],
+        "Archibald T. Robertson": [
+            "Yea, verily, and... showing the force and passion of his conviction.",
+            "I still count all things loss for the excellency of the knowledge of Christ Jesus my Lord.",
+            "Paul was never satisfied with his knowledge of Christ and always craved more fellowship with him."
+        ],
+        "John Gill": [
+            "Not only the things before mentioned, but anything, and everything else but Christ, or that stood in competition with him, or were short of him; as his natural and acquired parts; the whole compass of learning he had attained to; all that honour, credit, reputation, and popularity he was in for knowledge and devotion; all worldly substance, the comforts of life, and life itself; and all his righteousness since conversion, as well as before.",
+            "And as to the object of it, it is Christ, the chiefest among ten thousands; who made the heavens, earth, and seas, and all that in them are, the sun, moon, and stars, men and beasts, birds and fishes, fossils, minerals, vegetables, and everything in nature; and therefore the knowledge of him must be superior to the knowledge of everything else.",
+            "Well may the believer count all things but loss for it, as the apostle did; who adds, for further confirmation of what he had asserted ... and do count them [but] dung; or dog's meat; see Philippians 3:2; what is fit only to be cast to dogs, as the word signifies; and intends every thing that is base, mean, and worthless; as the faeces of men, the dregs and lees of liquor, the falling of fruit, chaff, stubble, the dross of metals, dung, and what not."
+        ],
+        "John Wesley": [
+            "Yea, I still account both all these and all things else to be mere loss, compared to the inward, experimental knowledge of Christ, as my Lord, as my prophet, priest, and king, as teaching me wisdom, atoning for my sins, and reigning in my heart.",
+            "To refer this to justification only, is miserably to pervert the whole scope of the words. They manifestly relate to sanctification also; yea, to that chiefly.",
+            "He that loses all things, not excepting himself, gains Christ, and is gained by Christ. And still there is more; which even St. Paul speaks of his having not yet gained."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I continue to esteem all things as loss on account of the super-eminence of the knowledge of Christ Jesus my Lord. I suffered the loss of everything and consider it to be refuse, that I may gain Christ. He who loses all things, and even himself, on account of Christ, gains Christ: Christ is His, and He is Christ's. The surpassing worth of what he knows makes all else poor in comparison therewith. Paul was never satisfied with his knowledge of Christ and always craved more fellowship with him.\n",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1691229126958325,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.46,
+            "commentatorTierSimilarities": [
+                38.23,
+                25.86,
+                35.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I count all things as loss for the excellency of the knowledge of Christ Jesus my Lord. I suffered the loss of all things and consider them to be refuse, that I may gain Christ. He who loses all things, and even himself, on account of Christ, gains Christ: Christ is His, and He is Christ's. The surpassing worth of what he knows makes all else poor in comparison therewith.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1808485489159617,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.85,
+            "commentatorTierSimilarities": [
+                37.65,
+                28.67,
+                33.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul expresses the super-eminence of the knowledge of Christ Jesus, regarding everything else as loss and refuse in comparison. He willingly forfeits all things, valuing them as worthless, to gain Christ. This attitude stems from Paul's recognition that he has not yet obtained the fullness of Christ, but eagerly desires a deeper fellowship with Him. The surpassing worth of knowing Christ makes all other things appear poor in comparison. Paul's conviction is so strong that he counts everything as loss and even uses strong language to describe them as dung or refuse. His ultimate goal is to have a profound and experiential knowledge of Christ as His Lord, in whom he finds wisdom, atonement, and reigning in his heart.",
+            "wordCount": 124,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0746542098400074,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.32,
+            "commentatorTierSimilarities": [
+                32.52,
+                27.02,
+                40.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul fervently regards the knowledge of Christ Jesus as surpassing all other things. He willingly sacrifices everything, considering them loss and refuse, in order to gain a deeper fellowship with Christ. Paul's strong conviction and desire for the excellence of knowing Christ motivates him to count everything as loss, even using strong language to describe them as dung. His ultimate goal is to have an intimate and experiential knowledge of Christ as his Lord, finding wisdom and redemption in Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.071479848620359,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.22,
+            "commentatorTierSimilarities": [
+                34.38,
+                25.37,
+                40.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul esteems everything else as loss compared to the super-eminence of knowing Christ Jesus. He willingly suffers the loss of all things, regarding them as refuse, in order to gain Christ. His passion for Christ is such that he counts all things but loss and even uses strong language to describe them as dung or refuse. Paul's ultimate desire is to have a deep, experiential knowledge of Christ as his Lord, longing for more fellowship with Him. Knowing Christ surpasses everything else in value and significance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.1407469261026693,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+            "commentatorTierSimilarities": [
+                34.43,
+                26.07,
+                39.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

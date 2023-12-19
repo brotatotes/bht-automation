@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:15:44",
+    "verseRef": "3 John 6",
+    "bestBHT": {
+        "bht": "Supporting and honoring God's missionary servants by bringing them forward on their journey is a way to become fellow-workers for the truth and to stimulate others by your good example. By doing so, you demonstrate your love and charity before the church. It is important to support them worthily of God, showing hospitality and providing for their needs, as this is a godly way to treat those who serve the Lord.",
+        "wordCount": 73,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 1.91879487599488,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+        "commentatorTierSimilarities": [
+            23.6,
+            42.25,
+            34.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "whom thou wilt do well if thou forward on their way worthily of God",
+            "for on behalf of the Name they went forth, taking nothing receiving nothing by way of benefaction or hire",
+            "We therefore ought to support such persons, that we may become fellow-workers [with them] for the truth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "borne witness of thy charity before the church",
+            "to stimulate others by the good example",
+            "He who honors God\u2019s missionary servants, honors God"
+        ],
+        "Albert Barnes": [
+            "Whom if thou bring forward on their journey. The word refers to aid rendered to them in their journey, in facilitating their travels, either by personally accompanying them, by furnishing them the means of prosecuting their journey, or by hospitably entertaining them.\" ",
+            "Having been once on their travels, and having shared the hospitality of Gaius, they were purposing to visit that region again, and that John, praising him for his former hospitality, commends them again to him, stating the reason why he did not, in accordance with the usual custom, recommend them to the care of the church.\" ",
+            "After a godly sort - Margin, as in Greek, 'worthy of God.' The meaning is, As becomes those who serve God; or as becomes those who are professors of his religion."
+        ],
+        "Marvin Vincent": [
+            "The Church. See on Matthew 16:18.",
+            "If thou bring forward on their journey [\u03c0\u03c1\u03bf\u03c0\u03b5\u03bc\u03c8\u03b1\u03c2]. Lit., having sent forward.",
+            "Thou shalt do well [\u03ba\u03b1\u03bb\u03c9\u03c2 \u03c0\u03bf\u03b9\u03b7\u03c3\u03b5\u03b9\u03c2]. For the phrase, see Acts 10:33; Philippians 4:14; James 2:8, James 2:19; 2 Peter 1:19."
+        ],
+        "Archibald T. Robertson": [
+            "Thou wilt do well. Future active of \u03c0\u03bf\u03b9\u03b5\u03c9 with adverb \u03ba\u03b1\u03bb\u03c9\u03c2, a common polite phrase in letters (papyri) like our 'please.'",
+            "To set forward on their journey. First aorist active participle (simultaneous action) of \u03c0\u03c1\u03bf\u03c0\u03b5\u03bc\u03c0\u03c9, to send forward, 'sending forward,' old word, in N.T.",
+            "Worthily of God. Precisely this phrase in 1 Thessalonians 2:12 and the genitive with \u03b1\u03be\u03b9\u03c9\u03c2 also in Romans 16:2; Philippians 1:27; Colossians 1:10; Ephesians 4:1."
+        ],
+        "John Gill": [
+            "And this he would have him do, after a godly sort; or 'worthy of God'; in imitation of God, who is merciful, kind, and beneficent; or as it became him whom God had called by his grace to his kingdom and glory; or as it was fit and proper such servants of God, as those brethren were, should be used; and this would be doing well.",
+            "Whom if thou bring forward on their journey; the word here used signifies, to send on before, as in Acts 15:3, and is used by the Septuagint in the same sense as here, and in the above places, in Genesis 18:16; where it is said, that 'Abraham went with them (the angels) to bring them on in the way', 'to send them on', or 'send them away'; dismiss them, take his leave of them in a friendly and honourable way.",
+            "And this the apostle mentions to encourage Gaius to go on, and continue in his kindness to the same persons, since they retained such a grateful sense of past favours; and whereas they were now returning back, he desires that he would give them some further assistance."
+        ],
+        "John Wesley": [
+            "Who have testified of thy love before the church.\" ",
+            "Whom if thou send forward on their journey - supplied with what is needful.\" ",
+            "Thou shalt do well - How tenderly does the apostle enjoin this!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When you support and encourage faithful missionary servants, you honor God and become fellow-workers for the truth. It is important to bring them forward on their journey worthily of God, showing hospitality and providing for their needs. By doing so, you not only stimulate others by your good example, but also demonstrate your love and charity before the church. This is a godly way to treat those who serve the Lord, ensuring that they continue their work with the necessary support and encouragement.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.833667242531242,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                22.71,
+                43.03,
+                34.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Supporting and honoring God's missionary servants by bringing them forward on their journey is a way to become fellow-workers for the truth and to stimulate others by your good example. By doing so, you demonstrate your love and charity before the church. It is important to support them worthily of God, showing hospitality and providing for their needs, as this is a godly way to treat those who serve the Lord.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.91879487599488,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                23.6,
+                42.25,
+                34.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Supporting and honoring God's missionary servants by bringing them forward on their journey worthily of God is a way to become fellow-workers for the truth and stimulate others by your good example. This demonstrates your love and charity before the church and shows respect for those who serve the Lord. By providing hospitality and support, you not only encourage them but also ensure their continued work. This is a godly way to treat missionary servants and reflects the kindness and generosity of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7619144432067526,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                21.7,
+                44.14,
+                34.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To honor God and support His missionary servants, bring them forward on their journey worthily of God. By doing so, you become fellow-workers for the truth and stimulate others through your good example. This not only shows your love and charity before the church but also demonstrates your respect for those who serve the Lord. By providing hospitality and sustenance, you ensure the continuation of their work. Such actions reflect godliness and emulate the kindness and generosity of God himself.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.6568244273100712,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.43,
+            "commentatorTierSimilarities": [
+                25.53,
+                41.69,
+                32.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Support and honor God's missionary servants by bringing them forward worthily of God on their journey. This makes you a fellow-worker for the truth and stimulates others by your good example. It demonstrates your love and charity before the church and shows respect for those who serve the Lord. By providing hospitality and support, you ensure the continuation of their work. This reflects godliness and emulates the kindness and generosity of God himself.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.6117516083869536,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.93,
+            "commentatorTierSimilarities": [
+                25.52,
+                41.03,
+                33.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

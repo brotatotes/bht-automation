@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:20:59",
+    "verseRef": "Luke 17:36",
+    "bestBHT": {
+        "bht": "The circumstances surrounding these instances show that they cannot be considered as a representation of the impact and effect of preaching the Gospel. While the verse is omitted in some versions, it remains in others, and this discrepancy highlights varying perspectives. It suggests that the Gospel has the power to effectually call and transform some individuals, while others are left to face the consequences of their unbelief and sin.",
+        "wordCount": 69,
+        "quoteTokenProportion": 46.0,
+        "qualityScore": 1.6330813514856715,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.64,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "The circumstances attending these several instances show, that they cannot be considered as expressive of the use and effect of the preaching of the Gospel.\" ",
+            "The whole verse is left out in the Ethiopic version, and in some Greek copies; though it is in the Syriac, Arabic, and Persic versions, and in the Complutensian edition, and in some ancient copies, as Beza observes.",
+            "Some being effectually called by it, and others being left to die in their sins."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 17:36, the circumstances surrounding the instances mentioned indicate that they should not be viewed as representative of the impact of preaching the Gospel. This verse is omitted in some versions, but included in others. It seems to imply that while some people are called and respond to the Gospel, others are left in their sins and ultimately perish.",
+            "wordCount": 59,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.4943931409304438,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.03,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The context surrounding these instances in the verse suggests that they do not fully reflect the transformative power of the Gospel message. While the verse is omitted in some versions, it remains in others, indicating a division in interpretation. This implies that some are called and respond to the Gospel, while others remain in their sinful state and face the consequences of their choices.",
+            "wordCount": 64,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 1.3360216424320772,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.77,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The circumstances surrounding these instances demonstrate that they cannot be seen as a direct representation of the impact and efficacy of preaching the Gospel. It is worth noting that while the verse is omitted in certain versions, it is included in others, signifying different perspectives. This implies that the Gospel has the power to effectually call and transform some individuals, while others are left to face the consequences of their unbelief and sin.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.535771896146456,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.41,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The various circumstances surrounding these instances suggest that they should not be viewed as indicative of the true effectiveness of Gospel preaching. While the verse may be omitted in certain versions, it remains in others, highlighting differing interpretations. This implies that the Gospel has the ability to call and transform some individuals, whereas others are left to face the consequences of their unbelief and sin.",
+            "wordCount": 65,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.4556779694556394,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.74,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The circumstances surrounding these instances show that they cannot be considered as a representation of the impact and effect of preaching the Gospel. While the verse is omitted in some versions, it remains in others, and this discrepancy highlights varying perspectives. It suggests that the Gospel has the power to effectually call and transform some individuals, while others are left to face the consequences of their unbelief and sin.",
+            "wordCount": 69,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.6330813514856715,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

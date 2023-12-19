@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:19:40",
+    "verseRef": "Luke 14:3",
+    "bestBHT": {
+        "bht": "Jesus, perceiving the thoughts of those who questioned him, responded to their dilemma with a rhetorical inquiry. He knew that they were watching him closely, so he proposed the question to them in order to redirect the conversation. This unexpected question visibly caught them off guard and left them speechless. Jesus cleverly used this situation to demonstrate his careful consideration of the law and his willingness to provide a valid explanation for his actions. Their silence, however, revealed their ulterior motive of finding fault rather than upholding the law.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.3173719743048264,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.15,
+        "commentatorTierSimilarities": [
+            14.77,
+            41.88,
+            43.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "3-6. (See on :-)."
+        ],
+        "Albert Barnes": [
+            "To 'answer,' in the Scriptures, does not always imply, as among us, that anything had been said before. It means often merely to 'begin' or to take up a subject, or, as here, to remark on the case that was present.",
+            "He knew that they were watching him. If he healed the man at once, they would accuse him. He, therefore, proposed the question to them, and when it was asked, they could not say that it was not lawful."
+        ],
+        "John Calvin": [
+            "Is it lawful to cure on Sabbath?...Christ first puts the question to them, and he does so for the purpose of guarding against offense.",
+            "He intended to show by this example, that he did not inconsiderately perform miracles on Sabbath, because he was prepared to assign a reason for what he did.",
+            "They, on the other hand, make it evident by their silence, that their desire of finding fault is stronger than their zeal for the law."
+        ],
+        "Philip Schaff": [
+            "This unexpected question evidently embarrassed them.",
+            "If they answered yes, the occasion of finding fault was taken away.",
+            "If no, they could be charged with want of compassion."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus answered the thoughts of those mentioned in verse Luke 14:1.",
+            "The dilemma forestalled any question by them.",
+            "They became silent, more so than before."
+        ],
+        "John Gill": [
+            "All the Oriental versions, for 'lawyers', read 'Scribes': these, with the Pharisees, were got together in a body, in their brother Pharisee's house, to watch the motions of Christ.",
+            "Knowing that these men were catching at every thing, to traduce him, [Jesus] was desirous of having their sentiments first.",
+            "[Jesus] knew full well, what was agreeable to the law of God, and what was not; and what also were the traditions of their elders, which they held, and which allowed of healing on the sabbath day, where life was in danger."
+        ],
+        "John Wesley": [
+            "And Jesus answering, spake \u2014 Answering the thoughts which he saw rising in their hearts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, perceiving the thoughts of those who questioned him, responded to their dilemma with a rhetorical inquiry. He knew that they were watching him closely, so he proposed the question to them in order to redirect the conversation. This unexpected question visibly caught them off guard and left them speechless. Jesus cleverly used this situation to demonstrate his careful consideration of the law and his willingness to provide a valid explanation for his actions. Their silence, however, revealed their ulterior motive of finding fault rather than upholding the law.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.3173719743048264,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.15,
+            "commentatorTierSimilarities": [
+                14.77,
+                41.88,
+                43.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, perceiving their thoughts, replied to their dilemma by posing a question of his own. He strategically knew that they were closely observing him and sought to preempt any accusations by bringing the matter to their attention. This unexpected inquiry left them visibly embarrassed and unable to answer. By doing so, Jesus aimed to demonstrate his careful adherence to the law and his readiness to justify his actions. However, their silence highlighted their true intentions of finding fault rather than displaying a genuine concern for the law.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.2551511736770005,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.08,
+            "commentatorTierSimilarities": [
+                13.35,
+                38.52,
+                48.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Recognizing the thoughts of those who challenged him, Jesus responded to their dilemma with a thought-provoking question. He was fully aware of their scrutiny and anticipated the accusations they might bring upon him. To counter this, he skillfully engaged them in dialogue, leaving them speechless and unsettled. Jesus sought to demonstrate his careful adherence to the law and his readiness to provide a valid explanation for his actions. Their astonished silence revealed their true motives of seeking fault rather than upholding the principles of compassion and justice.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.247586948067918,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.83,
+            "commentatorTierSimilarities": [
+                11.67,
+                38.16,
+                50.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, perceiving the thoughts of his challengers, countered their dilemma by posing a question of his own. He knew they were closely watching him, ready to accuse him of breaking the law. By initiating this unexpected dialogue, he effectively shifted the focus onto them and exposed their lack of compassion. Jesus aimed to demonstrate his meticulous observance of both God's law and the traditions of their elders. Their silence exposed their ulterior motive of finding fault rather than seeking understanding.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.199921632279567,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.24,
+            "commentatorTierSimilarities": [
+                11.7,
+                35.62,
+                52.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, perceiving their thoughts, responded to their dilemma with a question of his own. He skillfully anticipated their accusations and sought to engage them in a dialogue, leaving them speechless and uneasy. His intention was to showcase his adherence to the law and his willingness to justify his actions. However, their silence exposed their true agenda of finding fault rather than prioritizing compassion and upholding the law.",
+            "wordCount": 67,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.22260428689018,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.0,
+            "commentatorTierSimilarities": [
+                13.65,
+                34.66,
+                51.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

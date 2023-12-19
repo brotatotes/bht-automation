@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:56:35",
+    "verseRef": "Philippians 4:10",
+    "bestBHT": {
+        "bht": "The care of the Philippian believers for Paul was not limited by their circumstances but was rooted in their devotion to Christ. Just as a tree flourishes even in winter when there is no vegetation, their care for Paul existed even when they lacked the opportunity to support him. This care caused Paul's heart to rejoice, leading to a revival in their thought for him. Their affection and concern for Paul had always been present, and now it was blooming afresh.",
+        "wordCount": 82,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 1.708563141958511,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+        "commentatorTierSimilarities": [
+            20.93,
+            36.64,
+            42.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Every occurrence, in his view, has reference to Christ,\u2014takes from Him its character and form.",
+            "Your care for me was, so to speak, the life of the tree; it existed just as much in winter when there was no vegetation, when ye lacked opportunity, as when the buds were put forth in spring.",
+            "This lack of opportunity...is perfectly general, and all such fillings up are mere conjecture."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He views everything with reference to Christ.\" ",
+            "Ye have flourished again (revived, as trees sprouting forth again in spring) in your care for me.\" ",
+            "Your 'lack of service' (Philippians 4:17) was owing to your having 'lacked opportunity.'"
+        ],
+        "Albert Barnes": [
+            "But I rejoiced in the Lord greatly [...] and rejoiced in it as the expression of his kindness.\" ",
+            "Your care of me hath flourished again - In the margin this is rendered 'is revived,' and this is the proper meaning of the Greek word.",
+            "But ye lacked opportunity - Because there were no persons going to Rome from Philippi by whom they could send to him."
+        ],
+        "Marvin Vincent": [
+            "Ye caused your thinking on my behalf to bloom anew.",
+            "Ye revived your thought for me.",
+            "Ye did take thought."
+        ],
+        "John Calvin": [
+            "They had sent him by Epaphroditus supplies for the relief of his necessity; he declares that their present had been acceptable to him...",
+            "He says, therefore, that they had formerly, too, been concerned respecting him, but that the circumstances of the times had not admitted of his being sooner relieved by their benignity.",
+            "Thus he throws the blame upon the want of opportunity."
+        ],
+        "Philip Schaff": [
+            "But I rejoice in the Lord greatly...for it was over what it indicated in them, rather than over what they gave, that his heart was so full.\" ",
+            "Ye have caused your thought for me to bloom again.\" ",
+            "The tree cannot be in fault, which has not known the season yet for putting forth its blossoms."
+        ],
+        "Archibald T. Robertson": [
+            "I did rejoice, I do rejoice.\" ",
+            "Ye have revived, to sprout again, to shoot up, to blossom again.",
+            "You caused your thinking of me to bloom afresh."
+        ],
+        "John Gill": [
+            "But I rejoiced in the Lord greatly...it was a joy in the Lord; 'in our Lord', as the Syriac version renders it; it was not so much on account of the nature...of the things sent him, and the suitableness of them to his present necessity; but because this thing was of the Lord, he had put it into their hearts to do it...",
+            "that now at the last your care of me hath flourished again...just so it is with the saints...they have their winter seasons, when they are barren and unfruitful, and look as if they were dead; but when it is a spring time with them they revive again...",
+            "wherein ye were also careful, but ye lacked opportunity...he believed they had entertained the same sentiments of him, had the same affection and inward care for him all along; but they had no opportunity of showing it..."
+        ],
+        "John Wesley": [
+            "St. Paul was no Stoic: he had strong passions, but all devoted to God.",
+            "As a tree blossoms after the winter.",
+            "Either ye had not plenty yourselves, or you wanted a proper messenger."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Philippians 4:10, the apostle Paul acknowledges the Philippian believers' care for him, emphasizing that this care was not dependent on their circumstances but rooted in their devotion to Christ. He views their care as a tree that flourished even in the winter season, when there was no vegetation, and they lacked the opportunity to actively support him. Their care for Paul caused his heart to rejoice, leading to a revival of their thought for him. Despite the limitations of the situation, Paul greatly rejoiced in the Lord over their expression of kindness and their renewed concern. Just as a tree blossoms after winter, the Philippian believers revived in their care for Paul, proving that their affection and inward care for him had always been present.",
+            "wordCount": 125,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.6883692557497505,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+            "commentatorTierSimilarities": [
+                18.89,
+                37.99,
+                43.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The care of the Philippian believers for Paul reflected their devotion to Christ, as every aspect of their lives was influenced by Him. Their care existed throughout different seasons, even in times of lack of opportunity. This lack of opportunity was a general circumstance, leading to various conjectures about how to fill it. Nevertheless, their care caused their thinking on Paul's behalf to bloom anew, bringing joy to his heart. Like a tree that sprouts again in spring, their care for Paul revived and blossomed once more.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5978852070399405,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.47,
+            "commentatorTierSimilarities": [
+                28.64,
+                33.49,
+                37.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The care of the Philippian believers for Paul was not limited by their circumstances but was rooted in their devotion to Christ. Just as a tree flourishes even in winter when there is no vegetation, their care for Paul existed even when they lacked the opportunity to support him. This care caused Paul's heart to rejoice, leading to a revival in their thought for him. Their affection and concern for Paul had always been present, and now it was blooming afresh.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.708563141958511,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                20.93,
+                36.64,
+                42.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Philippian believers demonstrated their care for Paul, which sprung forth like a tree in winter, regardless of the lack of opportunity to actively support him. This care, rooted in their devotion to Christ, filled Paul's heart with joy and caused a revival in their thoughts of him. Despite the limitations of the situation, the Philippian believers expressed their affection and concern for Paul anew, just like a budding tree in spring.",
+            "wordCount": 73,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 1.6076330497478697,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.8,
+            "commentatorTierSimilarities": [
+                19.86,
+                35.71,
+                44.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The care shown by the Philippian believers towards Paul exemplified their devotion to Christ, thriving even in times of limited opportunity. Like a tree blooming again in spring, their thoughtfulness towards Paul was reignited, resulting in his great rejoicing. Their care for him was not only about the physical assistance they provided but also about the deeper significance of their kind actions. Through their benevolence, they reflected the Lord's work within them and their unwavering concern for Paul's well-being.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.5302410852671549,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.22,
+            "commentatorTierSimilarities": [
+                17.85,
+                38.16,
+                43.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

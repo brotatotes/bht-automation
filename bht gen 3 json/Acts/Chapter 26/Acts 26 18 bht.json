@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:36:53",
+    "verseRef": "Acts 26:18",
+    "bestBHT": {
+        "bht": "Paul's preaching aimed to awaken and demonstrate the necessity and power of faith in Christ. Opening eyes and turning from darkness are intricately connected, as Satan's power resides in keeping people in spiritual darkness. Through faith, individuals receive forgiveness and find a place among the sanctified. This transformation from darkness to light leads to understanding one's state and the impossibility of self-redemption. By God's grace, turning to Him results in forgiveness and a place among the sanctified in the restored kingdom.",
+        "wordCount": 86,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 1.8627991322708062,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.28,
+        "commentatorTierSimilarities": [
+            29.48,
+            35.6,
+            34.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The great object of Paul's preaching was to awaken and show the necessity and efficacy of faith that is in Christ.",
+            "They had their sense as applied to Jews,\u2014who were in spiritual darkness and under Satan\u2019s power, however little they thought it.",
+            "The epistles to the Galatians and Romans are two noble monuments of the APOSTLE OF FAITH."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The whole passage leans upon Isaiah 61:1...the effect of their eyes being opened.",
+            "Note the connection here between being 'turned from darkness' and 'from the power of Satan,' whose whole power over men lies in keeping them in the dark.",
+            "Faith is here made the instrument of salvation at once in its first stage, forgiveness, and its last, admission to the home of the sanctified...FAITH, even THAT WHICH IS IN ME."
+        ],
+        "Albert Barnes": [
+            "Ignorance is represented by the eyes being closed, and the instruction of the gospel by the opening of the eyes.\" ",
+            "From the darkness of paganism and sin to the light and purity of the gospel.\" ",
+            "The pagan world, lying in sin and superstition, is represented as under his control; and this passage teaches, doubtless, that the great mass of the people of this world are the subjects of the kingdom of Satan, and are led captive by him at his will."
+        ],
+        "John Calvin": [
+            "But this is a common thing, that God doth translate unto his ministers that honor which is due to himself alone, not that he may take any thing from himself, but that he may commend that mighty working of his Spirit which he doth show forth in them.",
+            "Therefore, teachers are sent, not to utter their words in vain in the air, or to beat the ears only with a vain sound, but to bring lively light to the blind, to fashion again men\u2019s hearts unto the righteousness of God, and to ratify the grace of salvation which is gotten by the death of Christ.",
+            "For it teacheth in other places how little man\u2019s industry can do of itself. For they must plant and water, but it is God alone which giveth the increase."
+        ],
+        "Philip Schaff": [
+            "The two great features in Jesus Christ\u2019s life and work which shocked His own people and drove them into fierce rebellion, were (1) In His life, He presented, the true image of a suffering Messiah. (2) In His work, begun by Himself and faithfully carried on by His disciples, He showed that the kingdom of the future was not intended to be confined to the old chosen race, nor to the old Holy Land, but that the chosen race of the future was to be made up of all mankind, and the Holy Land of the future was to consist of all the countries of the world.",
+            "The purpose and end of Saul\u2019s life-work is here sketched out. The peoples who had hitherto sat in darkness and in the shadow of death, were to be guided into a knowledge of their state, of their slavery to sin, of the impossibility of their being able to help or redeem themselves, of their utter hopelessness as regards the future.",
+            "The third step was to show what would be the result of this opening the blind eyes and this seeing their real state, and of their turning to God. Forgiveness of all sin would follow, and they would win a place among the sanctified, a home in one of the many mansions of the redeemed and restored."
+        ],
+        "Archibald T. Robertson": [
+            "To open... that they may turn.",
+            "That they may receive.",
+            "Sanctified by faith in me."
+        ],
+        "John Gill": [
+            "To open their eyes,.... The eyes of their understanding, which were shut, and darkened, and blind.",
+            "Conversion is the end of the Gospel ministry, and illumination is necessary to it; yea, it lies in a turn from darkness to light.",
+            "And they are sanctified internally by the Spirit of God, who in regeneration produces principles of grace and holiness in them."
+        ],
+        "John Wesley": [
+            "Their eyes - Both of the Jews and Gentiles: that they may turn - Through the power of the Almighty, from the spiritual darkness wherein they were involved, to the light of Divine knowledge and holiness.\" ",
+            "That they may receive through faith - (He seems to place the same blessings in a fuller light,) pardon, holiness, and glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The main focus of Paul's preaching in Acts 26:18 was to awaken and emphasize the necessity and power of faith in Christ. The connection between being turned from darkness and from the power of Satan is crucial because Satan's influence lies in keeping individuals in spiritual darkness. Opening their eyes and turning them from darkness to light through the knowledge and acceptance of the gospel leads to forgiveness and sanctification. The purpose of this transformation is to guide people into a true understanding of their state and their need for redemption. Ultimately, through faith, they receive forgiveness, holiness, and a place among the sanctified in the redeemed and restored kingdom.",
+            "wordCount": 111,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.921791412926899,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "commentatorTierSimilarities": [
+                29.99,
+                36.98,
+                33.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The core objective of Paul's preaching was to awaken faith in Christ, stressing its necessity and efficacy. The opening of eyes and turning from darkness are interrelated, with Satan's power residing in spiritual darkness. Through faith, individuals receive forgiveness, experiencing both the first stage of salvation and admission to the sanctified home. This transformation from darkness to light leads to a deeper understanding of one's state and the hopelessness of self-redemption. Through the grace of God, those who turn to Him receive forgiveness and a place among the sanctified.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.847459316195945,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+            "commentatorTierSimilarities": [
+                30.42,
+                34.67,
+                34.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's preaching emphasized the necessity and power of faith in Christ. Opening the eyes and turning from darkness are intimately connected, as Satan's power lies in keeping people in spiritual darkness. Through faith, individuals receive forgiveness and are admitted to the sanctified home. This transformation from darkness to light leads to a deeper understanding of one's state and the hopelessness of self-redemption. Those who turn to God receive forgiveness and find a place among the sanctified, experiencing the grace of salvation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.852748708555781,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                30.79,
+                34.31,
+                34.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The purpose of Paul's preaching was to awaken and emphasize the efficacy and necessity of faith in Christ. Opening eyes and turning from darkness are closely linked, as Satan's power lies in keeping individuals in spiritual darkness. Through faith, forgiveness and admission to the sanctified home are obtained. This transformation from darkness to light leads to a deeper understanding of one's state and the hopelessness of self-redemption. Through God's grace, those who turn to Him receive forgiveness and find a place among the sanctified in the redeemed kingdom.",
+            "wordCount": 93,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.8458852408927389,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                30.9,
+                35.61,
+                33.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's preaching aimed to awaken and demonstrate the necessity and power of faith in Christ. Opening eyes and turning from darkness are intricately connected, as Satan's power resides in keeping people in spiritual darkness. Through faith, individuals receive forgiveness and find a place among the sanctified. This transformation from darkness to light leads to understanding one's state and the impossibility of self-redemption. By God's grace, turning to Him results in forgiveness and a place among the sanctified in the restored kingdom.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.8627991322708062,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.28,
+            "commentatorTierSimilarities": [
+                29.48,
+                35.6,
+                34.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

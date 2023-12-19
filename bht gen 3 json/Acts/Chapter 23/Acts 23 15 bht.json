@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:35:38",
+    "verseRef": "Acts 23:15",
+    "bestBHT": {
+        "bht": "What will not unscrupulous and hypocritical religionists do under the mask of religion? The case was critical, but He who had pledged His word to him that he should testify for Him at Rome provided unexpected means of defeating this well-laid scheme. The plan was well laid, and nothing but the interposition of Providence could have prevented its execution.",
+        "wordCount": 60,
+        "quoteTokenProportion": 54.17,
+        "qualityScore": 1.681814414390256,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+        "commentatorTierSimilarities": [
+            38.57,
+            40.52,
+            20.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "What will not unscrupulous and hypocritical religionists do under the mask of religion?\" ",
+            "The case was critical, but He who had pledged His word to him that he should testify for Him at Rome provided unexpected means of defeating this well-laid scheme."
+        ],
+        "Albert Barnes": [
+            "Public justice must have been deeply fallen when it was known that such an iniquitous request could be made with the certain prospect of success.",
+            "The plan was well laid; and nothing but the interposition of Providence could have prevented its execution.",
+            "The Great Council will thus not be suspected of being privy to the deed. We will waylay him, and murder him in the way."
+        ],
+        "Marvin Vincent": [
+            "Enquire [\u03b4\u03b9\u03b1\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03b5\u03b9\u03bd] . Only here and ch. 24 22. Originally, to distinguish or discern; hence, to decide, as a suit. Rev., more correctly, therefore, judge.",
+            "More perfectly [\u03b1\u03ba\u03c1\u03b9\u03b2\u03b5\u03c3\u03c4\u03b5\u03c1\u03bf\u03bd] . Rev., better, more exactly. See on Luke 1:3; Acts 18:25, Acts 18:26.",
+            "Concerning him [\u03c4\u03b1 \u03c0\u03b5\u03c1\u03b9 \u03b1\u03c5\u03c4\u03bf\u03c5] . Lit., the things about him. Rev., better, his case."
+        ],
+        "Philip Schaff": [
+            "This seems at first sight a strange story, that so monstrous a design should have been conceived and communicated to the chief priests and elders, to the leading members, in fact, of the august council of the Sanhedrim, and positively should have received the approval of these venerable men...",
+            "It is highly proper that all who have a zeal for virtue should have a right to punish with their own hands without delay those who are guilty of this crime...",
+            "It is melancholy to remember how often the casuistry of Christian theologians has run in the same groove."
+        ],
+        "Archibald T. Robertson": [
+            "First aorist active imperative of \u03b5\u03bc\u03c6\u03b1\u03bd\u03b9\u03b6\u03c9. Make plain from \u03b5\u03bc\u03c6\u03b1\u03bd\u03b7\u03c2.",
+            "\u03a0\u03c1\u03bf and the genitive of the articular infinitive of \u03b5\u03b3\u03b3\u03b9\u03b6\u03c9 with accusative of general reference.",
+            "Genitive of purpose of the articular infinitive after the adjective \u03b5\u03c4\u03bf\u03b9\u03bc\u03bf."
+        ],
+        "John Gill": [
+            "That he bring him down unto you tomorrow; from the castle of Antonia to the place where the sanhedrim met.",
+            "The pretence formed for his being brought down is, as though ye would inquire something more perfectly concerning him.",
+            "And we, or ever he come near, are ready to kill him; lying in wait in some private place between the castle and the temple."
+        ],
+        "John Wesley": [
+            "Now therefore ye \u2014 Which they never scrupled at all, as not doubting but they were doing God service."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What will not unscrupulous and hypocritical religionists do under the mask of religion? The case was critical, but He who had pledged His word to him that he should testify for Him at Rome provided unexpected means of defeating this well-laid scheme. The plan was well laid; and nothing but the interposition of Providence could have prevented its execution. The Great Council will thus not be suspected of being privy to the deed. We will waylay him, and murder him in the way. It is highly proper that all who have a zeal for virtue should have a right to punish with their own hands without delay those who are guilty of this crime. It is melancholy to remember how often the casuistry of Christian theologians has run in the same groove.",
+            "wordCount": 133,
+            "quoteTokenProportion": 48.91,
+            "qualityScore": 1.5294469207196348,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.2,
+            "commentatorTierSimilarities": [
+                28.26,
+                50.33,
+                21.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What will not unscrupulous and hypocritical religionists do under the mask of religion? The case was critical, but He who had pledged His word to him that he should testify for Him at Rome provided unexpected means of defeating this well-laid scheme. The plan was well laid; and nothing but the interposition of Providence could have prevented its execution. The Great Council will thus not be suspected of being privy to the deed. We will waylay him, and murder him in the way.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.5186696529938801,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.84,
+            "commentatorTierSimilarities": [
+                33.39,
+                44.53,
+                22.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What will not unscrupulous and hypocritical religionists do under the mask of religion? The case was critical, but He who had pledged His word to him that he should testify for Him at Rome provided unexpected means of defeating this well-laid scheme. The plan was well laid, and nothing but the interposition of Providence could have prevented its execution.",
+            "wordCount": 60,
+            "quoteTokenProportion": 54.17,
+            "qualityScore": 1.681814414390256,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                38.57,
+                40.52,
+                20.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Under the guise of religion, unscrupulous individuals will go to great lengths to carry out their nefarious plans. In this critical situation, God intervened and thwarted the well-laid scheme against the apostle Paul, ensuring that he would fulfill his mission to testify in Rome. The chief priests and elders of the Sanhedrin were complicit in this plot, showing how deeply the corruption had infiltrated public justice. These theologians' twisted casuistry paralleled the mentality behind this heinous plan, as they justified taking matters into their own hands for the sake of virtue. Despite the gravity of the situation, God's providence prevailed, shattering the deception and preserving Paul's life.",
+            "wordCount": 110,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.4319862962569365,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+            "commentatorTierSimilarities": [
+                29.46,
+                48.06,
+                22.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of hypocritical religion, scheming and corruption can thrive. However, God's faithfulness shines through even in the most critical situations. He intervened to ensure that the well-laid plot against Paul's life would not succeed, ultimately allowing Paul to fulfill his divine mission. The complicity of the chief priests and elders in this nefarious plan reveals the extent of the corruption within the system. Yet, God's providence prevailed, defeating the deception and preserving Paul's life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.2983201441742038,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.51,
+            "commentatorTierSimilarities": [
+                35.39,
+                39.09,
+                25.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

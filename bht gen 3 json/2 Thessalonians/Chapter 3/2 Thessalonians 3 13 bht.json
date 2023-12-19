@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:38:31",
+    "verseRef": "2 Thessalonians 3:13",
+    "bestBHT": {
+        "bht": "Paul urges the Thessalonians not to be weary in well doing, emphasizing the importance of living diligently and uprightly. He cautions against becoming disheartened or growing weary, reminding them that this exhortation includes not only acts of charity but also the pursuit of Christian conduct in general. Despite encountering disorderly and idle individuals, he encourages them to persist in doing good, urging them not to withhold aid from those who genuinely need it, despite instances of ingratitude or ill manners.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.9877045059494858,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.43,
+        "commentatorTierSimilarities": [
+            25.25,
+            34.13,
+            40.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Well doing, from the context, cannot mean \u2018doing good\u2019 (to others), but doing well, living diligently and uprightly.",
+            "Well doing, from the context, cannot mean \u2018doing good\u2019 (to others), but doing well, living diligently and uprightly: see also Gal. vi. 9.",
+            "But ye\u2014ye who are free from this fault."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be not cowardly in\"; do not be wanting in strenuousness in doing well.\" ",
+            "Do not culpably neglect to do well, namely, with patient industry do your duty in your several callings.",
+            "In contrast to the 'disorderly, not-working busybodies'."
+        ],
+        "Albert Barnes": [
+            "They were, indeed, shiftless and worthless. They would not labor; they spent their time in intermeddling with the concerns of their neighbors, and they depended for their support on the charity of others.",
+            "Against this the apostle would guard us, and he says that though there may be many such persons, and though we may find it difficult to distinguish the worthy from the unworthy, we should not become so disheartened as not to give at all.",
+            "Nor should we be weary though the applications for assistance are frequent. They are indeed frequent. God designs that they should be."
+        ],
+        "Marvin Vincent": [
+            "Be not weary...With one exception, Luke 13:1, only in Paul. To faint or lose heart.\" ",
+            "Well doing...According to the Greek idiom, doing well, be not weary.",
+            "Not limited to works of charity, but including Christian conduct generally, as, for instance, steadily attending to their own business, ver. 12."
+        ],
+        "John Calvin": [
+            "We must not on this account leave off helping those that need our aid.",
+            "However ingratitude, moroseness, pride, arrogance, and other unseemly dispositions on the part of the poor, may have a tendency to annoy us, or to dispirit us, from a feeling of weariness, we must strive, nevertheless, never to leave off aiming at doing good.",
+            "Hence Paul admonishes us, that, although there are many that are undeserving, while others abuse our liberality, we must not on this account leave off helping those that need our aid."
+        ],
+        "Philip Schaff": [
+            "Do not be tempted to imitate the fanatical idleness of those around you do not weary of \u2018the trivial round, the common task,\u2019",
+            "Do not crave for some great thing to do, be content that it is a good thing.",
+            "The temptation to weary is the same now as it was in the early Thessalonian church; those who are actively engaged are tempted to say, Why should we do all, while so many do nothing; why must we compensate for their neglect?"
+        ],
+        "Archibald T. Robertson": [
+            "Emphatic position of \u03c5\u03bc\u03b5\u03b9\u03c2 in contrast to these piddlers.",
+            "\u039c\u03b7 and the aorist subjunctive is a prohibition against beginning an act.",
+            "The late verb \u03ba\u03b1\u03bb\u03bf\u03c0\u03bf\u03b9\u03b5\u03c9, to do the fair (\u03ba\u03b1\u03bb\u03bf\u03c2) or honourable thing occurs nowhere else in the N.T., but is in the LXX and a late papyrus."
+        ],
+        "John Gill": [
+            "To be not weary in well doing; which may be understood generally of all well doing, or of doing of every good work.",
+            "This the apostle observes, lest covetous persons should make an handle of this, and withhold their hands from distributing to any, under a notion of their being idle and disorderly.",
+            "Lest the saints should be tired, and become weary of doing acts of charity through the ingratitude, moroseness, and ill manners of poor people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Thessalonians 3:13, Paul urges the Thessalonians to persist in living diligently and uprightly. He cautions them not to be disheartened or grow weary in doing what is fair and honorable, even though they may encounter disorderly and idle individuals. The temptation to become dispirited is a common one, as it was in the early Thessalonian church, but Paul encourages them to continue doing good despite the ingratitude or ill manners they may encounter. He reminds them that, although there are undeserving individuals and instances of abuse, they should not withhold aid from those who genuinely need it.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.798198698043321,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+            "commentatorTierSimilarities": [
+                23.11,
+                36.96,
+                39.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul exhorts the Thessalonians to persevere in living diligently and uprightly. He urges them not to grow weary or disheartened in doing what is fair and honorable, despite encountering disorderly and idle individuals. Amid the temptation to become dispirited, Paul encourages them to continue doing good, even in the face of ingratitude or ill manners. He reminds them that despite undeserving recipients and cases of abuse, they should not withhold aid from those genuinely in need.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.786741050798554,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "commentatorTierSimilarities": [
+                25.94,
+                32.6,
+                41.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul urges the Thessalonians not to be weary in well doing, emphasizing the importance of living diligently and uprightly. He cautions against becoming disheartened or growing weary, reminding them that this exhortation includes not only acts of charity but also the pursuit of Christian conduct in general. Despite encountering disorderly and idle individuals, he encourages them to persist in doing good, urging them not to withhold aid from those who genuinely need it, despite instances of ingratitude or ill manners.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9877045059494858,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.43,
+            "commentatorTierSimilarities": [
+                25.25,
+                34.13,
+                40.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 2 Thessalonians 3:13, Paul admonishes the Thessalonians to continue living diligently and uprightly, without growing weary in doing good. He warns against the temptation to indulge in cowardice or idleness, emphasizing the need for patient industry in fulfilling their duties and responsibilities. Although they may encounter disorderly and idle individuals, Paul urges them not to neglect their own well-being, but instead to persist in their good conduct. This encouragement encompasses not only acts of charity but also attending to their own business and faithfully fulfilling their respective callings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7774378913197593,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.44,
+            "commentatorTierSimilarities": [
+                26.96,
+                34.32,
+                38.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul admonishes the Thessalonians to persevere in living uprightly and diligently, without growing weary in doing good. He warns against the temptation to indulge in cowardice or idleness, urging them to be patient and steadfast in fulfilling their duties. Despite the presence of disorderly and idle individuals, Paul encourages them not to neglect their own well-being and to continue their good conduct. This includes not only acts of charity but also attending to their own business and faithfully fulfilling their respective callings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.838867796546075,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+            "commentatorTierSimilarities": [
+                26.71,
+                34.76,
+                38.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

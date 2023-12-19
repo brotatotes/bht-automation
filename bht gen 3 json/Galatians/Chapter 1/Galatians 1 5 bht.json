@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 14:12:33",
+    "verseRef": "Galatians 1:5",
+    "bestBHT": {
+        "bht": "The readers are reminded of the importance of giving glory to God, as emphasizing the need to humble ourselves before Him. The phrase to whom be the glory identifies God's sovereignty and the recognition that all blessings come from Him. The doxology reflects the understanding that God's glory extends beyond time, represented by the phrase unto the ages of ages. Ultimately, it is an exhortation to embrace every instance of God's mercy as an opportunity to acknowledge His glory.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.972259727809353,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+        "commentatorTierSimilarities": [
+            21.71,
+            34.44,
+            43.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In civil life...much more, when we speak of God, ought we to bend the knee of the heart.",
+            "\u2018so soon\u2019 might be, and might be intended to be, variously supplied.",
+            "whereby we come to the Father,\u2014in which, as its element, the Father\u2019s calling of us has place."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. be",
+            "\tglory\u2014rather, as Greek, \"be the glory\";",
+            "\tthe glory which is peculiarly and exclusively His. Compare Note,",
+            "\tsee on :-."
+        ],
+        "Albert Barnes": [
+            "Let Him have all the praise and honor of the plan and its execution.",
+            "It results from the strong desire which he had, that all the glory should be given to God.",
+            "He believed that all blessings had their origin in God, and that God should be always acknowledged."
+        ],
+        "Marvin Vincent": [
+            "For similar doxologies see Romans 9:5; Romans 11:36; Romans 16:27; Ephesians 3:21; 1 Timothy 1:17.\" ",
+            "Forever and ever [\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03b9\u03c9\u03bd\u03b1\u03c2 \u03c4\u03c9\u03bd \u03b1\u03b9\u03c9\u03bd\u03c9\u03bd] . Lit. unto the ages of the ages\u2026 Often in Revelation.",
+            "In the doxology the whole period of duration is conceived as a succession of cycles."
+        ],
+        "John Calvin": [
+            "By this sudden exclamation of thanksgiving, he intends to awaken powerfully in his readers the contemplation of that invaluable gift which they had received from God.\" ",
+            "It must at the same time be viewed as a general exhortation. Every instance in which the mercy of God occurs to our remembrance, ought to be embraced by us as an occasion of ascribing glory to God."
+        ],
+        "Philip Schaff": [
+            "To whom ( is) the glory, without diminution or division.",
+            "To boundless mercy belongs boundless praise and gratitude.",
+            "For ever and over, lit, \u2018unto the ages of ages\u2019 (\u00e6ons of \u00e6ons, s\u00e6cula s\u00e6ulorum), a Hebraizing term for very long, or (as here) endless duration."
+        ],
+        "Archibald T. Robertson": [
+            "To whom be the glory (\u03c9 \u03b7 \u03b4\u03bf\u03be\u03b1). No verb in the Greek. For like doxologies see Romans 9:5; Romans 11:36; Romans 16:27; Ephesians 3:21; 1 Timothy 1:17. "
+        ],
+        "John Gill": [
+            "To whom be glory for ever and ever.\" ",
+            "The Father is to be glorified, who of his everlasting love, and free favour, did in his eternal purposes and decrees in his counsel and covenant, so wisely frame and order things, that his own Son should be given to be an offering for sin.\" ",
+            "Christ is to be glorified, that he, of his free rich grace and love, agreed to give himself, and did give himself to be a ransom for his people, which has been testified in due time."
+        ],
+        "John Wesley": [
+            "To whom be glory \u2014 For this his gracious will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the passage, the readers are reminded of the importance of giving glory to God. The commentator emphasizes that just as in civil life we should show respect, all the more should we humble ourselves before God. The phrase to whom be the glory implies a recognition of God's sovereignty and the acknowledgment that all blessings originate from Him. The doxology reflects the understanding that God's glory extends beyond time, represented by the phrase unto the ages of ages. Ultimately, the exhortation is to embrace every instance of God's mercy as an opportunity to ascribe glory to Him.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.9402005007440861,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.85,
+            "commentatorTierSimilarities": [
+                23.83,
+                33.15,
+                43.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The readers are reminded of the importance of giving glory to God, as emphasizing the need to humble ourselves before Him. The phrase to whom be the glory identifies God's sovereignty and the recognition that all blessings come from Him. The doxology reflects the understanding that God's glory extends beyond time, represented by the phrase unto the ages of ages. Ultimately, it is an exhortation to embrace every instance of God's mercy as an opportunity to acknowledge His glory.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.972259727809353,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+            "commentatorTierSimilarities": [
+                21.71,
+                34.44,
+                43.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us remember to acknowledge God's sovereignty and give Him the glory He deserves. Just as in civil life, we are called to show respect, and even more so when it comes to our relationship with God. The phrase to whom be the glory reminds us that all blessings come from Him. This doxology encompasses the understanding that God's glory exceeds the boundaries of time, extending unto the ages of ages. Let us embrace every instance of God's mercy as an opportunity to attribute glory to Him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.9448562921395474,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                22.38,
+                34.47,
+                43.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With our hearts bent in reverence towards God, let us acknowledge His sovereignty and give Him the glory that is exclusively and uniquely His. This doxology, echoed in other passages in the Bible, emphasizes the eternal nature of God's glory, stretching unto the ages of ages. As we remember the invaluable gift we have received from God, let every instance of His mercy prompt us to ascribe glory to Him.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.942954632142785,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+            "commentatorTierSimilarities": [
+                22.78,
+                33.39,
+                43.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us acknowledge God's sovereignty and bend the knee of our hearts in reverence towards Him. To whom be the glory signifies the recognition of God's exclusive and eternal glory. This doxology, found in various other passages, highlights the everlasting nature of God's glory. As we contemplate the invaluable gift we have received from God, may every instance of His mercy serve as a reminder for us to attribute glory to Him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.9315342058930454,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                22.12,
+                33.59,
+                44.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

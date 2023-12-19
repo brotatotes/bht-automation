@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:22:42",
+    "verseRef": "Luke 22:13",
+    "bestBHT": {
+        "bht": "In this instance, Jesus had already communicated a task to be done in the past, using the word \u03b5\u03b9\u03c1\u03b7\u03ba\u03b5 to indicate the past perfect action. The disciples followed His instructions and encountered a man carrying a water pitcher, guiding them to the designated house for the Passover. Once there, they informed the master of the house about Jesus' directives, who promptly showed them an appropriate room. They diligently prepared for the feast, ensuring everything was in order according to God's divine appointment.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.1515731720601323,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.63,
+        "commentatorTierSimilarities": [
+            29.61,
+            0.0,
+            70.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "He had said (\u03b5\u03b9\u03c1\u03b7\u03ba\u03b5). Past perfect active indicative of \u03b5\u03b9\u03c0\u03bf\u03bd where Mark 14:16 has \u03b5\u03b9\u03c0\u03b5\u03bd (second aorist). "
+        ],
+        "John Gill": [
+            "They met the man with the pitcher of water, and by following him, found the house Christ meant to keep the passover at.\" ",
+            "They told the master of it, what Christ ordered them, who immediately showed them a very convenient room, as he had described to them.",
+            "Provided a lamb, and got it killed and dressed, and prepared every thing necessary for the keeping of the feast, according to divine appointment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, it is noted that Jesus had specifically mentioned a certain task to be done in the past. As the disciples followed His instructions, they encountered a man carrying a water pitcher and were led to the designated house for the Passover. There, they informed the master of the house about Jesus' instructions and were shown a suitable room. They made the necessary preparations to observe the feast according to God's commandments.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.1290058268951653,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.88,
+            "commentatorTierSimilarities": [
+                30.93,
+                0.0,
+                69.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this instance, Jesus had already communicated a task to be done in the past, using the word \u03b5\u03b9\u03c1\u03b7\u03ba\u03b5 to indicate the past perfect action. The disciples followed His instructions and encountered a man carrying a water pitcher, guiding them to the designated house for the Passover. Once there, they informed the master of the house about Jesus' directives, who promptly showed them an appropriate room. They diligently prepared for the feast, ensuring everything was in order according to God's divine appointment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.1515731720601323,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.63,
+            "commentatorTierSimilarities": [
+                29.61,
+                0.0,
+                70.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus had previously spoken of a specific task, using \u03b5\u03b9\u03c1\u03b7\u03ba\u03b5 to indicate the past perfect action. The disciples, following His instructions, encountered a man bearing a water pitcher who led them to the designated house for the Passover. Informing the master of the house as instructed, they were promptly shown a suitable room. With earnestness, they made the necessary preparations, fulfilling God's divine commandments for the feast.",
+            "wordCount": 68,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.1363759102535869,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.13,
+            "commentatorTierSimilarities": [
+                34.5,
+                0.0,
+                65.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus had already communicated the task, using \u03b5\u03b9\u03c1\u03b7\u03ba\u03b5 to indicate the past perfect action. The disciples, following His instructions, encountered a man with a water pitcher who showed them the house. They informed the master of the house, who promptly showed them a suitable room. They made the necessary preparations, fulfilling the divine appointment for the feast.",
+            "wordCount": 57,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.0739262234344893,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.05,
+            "commentatorTierSimilarities": [
+                30.0,
+                0.0,
+                70.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus had previously communicated the task, using \u03b5\u03b9\u03c1\u03b7\u03ba\u03b5 to indicate the past perfect action. The disciples followed His instructions, encountering a man with a water pitcher who guided them to the designated house. They informed the master of the house according to Jesus' orders and were shown a suitable room. Diligently fulfilling their responsibilities, they made all the necessary preparations to observe the feast, in accordance with divine appointment.",
+            "wordCount": 69,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.0683449051080893,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.87,
+            "commentatorTierSimilarities": [
+                29.13,
+                0.0,
+                70.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

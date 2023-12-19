@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:15:58",
+    "verseRef": "Luke 6:22",
+    "bestBHT": {
+        "bht": "If you face expulsion or excommunication from society or the Church due to your faith, take heart, for you are blessed. This rejection and separation, whether from the congregation or social circles, might be difficult, but it is for the sake of righteousness and for the Son of man. Identifying as a Christian, disciple, or Nazarene may invite contempt and stigma, but remember that Jesus himself frequently referred to himself as the Son of man. Persevere through hatred and persecution, for that is when the blessing is promised.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.8124470255197849,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+        "commentatorTierSimilarities": [
+            30.62,
+            43.17,
+            26.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Separate and cast out must not be understood of Jewish excommunication only, but of all kinds of expulsion from society.",
+            "Your collective name as Christians.",
+            "To be 'blessed' indeed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Separate you\u2014whether from their Church, by excommunication, or from their society; both hard to flesh and blood.\" ",
+            "For the Son of man's sake\u2014Compare Matthew 5:11, 'for MY SAKE'; and immediately before, 'for righteousness' sake' (Luke 6:10).\" ",
+            "Christ thus binds up the cause of righteousness in the world with the reception of Himself."
+        ],
+        "Marvin Vincent": [
+            "The title asserts Christ's humanity - his absolute identification with our race.",
+            "He is the archetypal man, in whose presence distinction of race, intervals of ages, types of civilization, degrees of mental culture are as nothing.",
+            "Christ's humanity can be explained only by his divinity. A humanity so unique demands a solution."
+        ],
+        "Philip Schaff": [
+            "This refers to expulsion, or excommunication, from the Jewish synagogue.",
+            "The final contemptuous and malicious rejection.",
+            "The blessing is promised only to those who endure hatred, rejection, persecution, for Christ\u2019s sake."
+        ],
+        "Archibald T. Robertson": [
+            "The reference is to excommunication from the congregation as well as from social intercourse.",
+            "The name of Christian or disciple or Nazarene came to be a byword of contempt as shown in the Acts.",
+            "This is Christ's common designation of himself, never of others save by Stephen and in the Apocalypse."
+        ],
+        "John Gill": [
+            "Blessed are ye when men shall hate you... and cast out your name as evil.\" ",
+            "Such a person might not sit nearer to another than four cubits, and this continued for thirty days.",
+            "They should be esteemed and treated as the worst of men, and stigmatized in the vilest manner they were capable of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you are separate from society or the Church because of your faith, you are blessed. Being cast out or excommunicated may be hard, but it is for the sake of righteousness and for the Son of man's sake. Jesus, who is fully human and fully divine, strongly identifies with all people, regardless of race, age, or culture. This identification makes his humanity unique and demands a divine explanation. The name Christian, disciple, or Nazarene may even become contemptuous and stigmatized, but remember that Jesus himself often referred to himself as the Son of man. Enduring rejection and persecution for Christ's sake is when the blessing is promised.",
+            "wordCount": 110,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 1.6332544740832295,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+            "commentatorTierSimilarities": [
+                40.28,
+                32.08,
+                27.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you are cast out or excommunicated from society or the Church because of your faith, you are blessed for the sake of righteousness and for the Son of man's sake. By identifying as a Christian, disciple, or Nazarene, you may face contempt and stigma, but remember that Jesus himself often referred to himself as the Son of man. Enduring rejection and persecution for Christ's sake is when the blessing is promised. Jesus' unique humanity, fully human and fully divine, demands a divine explanation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.68932837205146,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+            "commentatorTierSimilarities": [
+                36.59,
+                37.04,
+                26.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If you face expulsion or excommunication from society or the Church due to your faith, take heart, for you are blessed. This rejection and separation, whether from the congregation or social circles, might be difficult, but it is for the sake of righteousness and for the Son of man. Identifying as a Christian, disciple, or Nazarene may invite contempt and stigma, but remember that Jesus himself frequently referred to himself as the Son of man. Persevere through hatred and persecution, for that is when the blessing is promised.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.8124470255197849,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                30.62,
+                43.17,
+                26.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Being separate or cast out from society or the Church because of your faith can be challenging, but it signifies a blessed state. This expulsion could encompass both excommunication and social isolation. By identifying as a Christian, disciple, or Nazarene, you may face contempt and stigma, as Jesus himself often did by referring to himself as the Son of man. Enduring hatred and persecution for the sake of Christ is when the promised blessing is realized, as it is for righteousness and the Son of man's sake.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7756198848490454,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                34.62,
+                38.71,
+                26.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To be separate and cast out from society or the Church is not limited to Jewish excommunication but extends to all forms of expulsion. Despite the contempt and stigma that may be associated with identifying as a Christian, disciple, or Nazarene, you are blessed. This blessedness is connected to righteousness and the Son of man, as Jesus, the archetypal man, aligned the cause of righteousness with the acceptance of Himself. Enduring rejection and persecution for Christ's sake is when the promised blessing is granted.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8093708959782213,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+            "commentatorTierSimilarities": [
+                33.82,
+                43.41,
+                22.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:06:29",
+    "verseRef": "1 Corinthians 7:9",
+    "bestBHT": {
+        "bht": "The Apostle Paul stresses the importance of marriage as a remedy for the burning flames of lust. Those who lack continency are urged to marry, not merely advised, as it is the right and best course of action. Burning with the fire of lust is viewed as an abomination in God's sight, and marriage is seen as a good and salutary solution. By recognizing the corrosive nature of unchecked passions, individuals should place the fear of God as their defense and strive to extinguish the flames of lust through marriage.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.1902777987694284,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.17,
+        "commentatorTierSimilarities": [
+            30.23,
+            25.72,
+            44.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] it is better to marry than to burn, i.e. \u201cthan to be wasted by the hidden flame of lust in the conscience.\u201d Augustine."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The dew of God's grace is needed to stifle the flame, which otherwise would thrust men at last into hell-fire.",
+            "The secret flame of lust, which lays waste the whole inner man.",
+            "The flame...would thrust men at last into hell-fire."
+        ],
+        "Albert Barnes": [
+            "It is better - It is to be preferred. Than to burn.",
+            "The passion here referred to is often compared to a fire.",
+            "It is better to marry, even with all the inconveniences attending the marriage life in a time of distress and persecution in the church, than to be the prey of raging, consuming, and exciting passions."
+        ],
+        "Marvin Vincent": [
+            "Cannot contain [\u03bf\u03c5\u03ba \u03b5\u03b3\u03ba\u03c1\u03b1\u03c4\u03b5\u03c5\u03bf\u03bd\u03c4\u03b1\u03b9] . Rev., have not continence.",
+            "Continuance in unsatisfied desire.",
+            "To burn on : continuance in unsatisfied desire."
+        ],
+        "John Calvin": [
+            "For this is said by way of commandment, that no one may look upon it as mere advice. Nor is it merely fornicators that he restrains, but those also who are defiled in the sight of God by inward lust; and assuredly he that cannot contain tempts God, if he neglects the remedy of marriage. This matter requires \u2014 not advice, but strict prohibition.",
+            "Marriage is a good and salutary remedy, because to burn is a most base abomination in the sight of God.",
+            "Hence all must be admonished, but especially the young, that whenever they are assailed by their fleshly inclinations, they should place the fear of God in opposition to a temptation of this sort, cut off all inlets to unchaste thoughts, entreat the Lord to give them strength to resist, and set themselves with all their might to extinguish the flames of lust."
+        ],
+        "Archibald T. Robertson": [
+            "But if they have not continency... Let them marry.\" (Quote 1)",
+            "Better. Marriage is better than continued sexual passion.\" (Quote 2)",
+            "The metaphorical use of \u03c0\u03c5\u03c1\u03bf\u03c5\u03c3\u03b8\u03b1 for sexual passion is common enough.\" (Quote 3)"
+        ],
+        "John Gill": [
+            "If they cannot contain... let them marry; it is not only lawful for them to marry, but it is right and best for them.",
+            "It is better to marry than to burn... with the fire of lust itself.",
+            "He whose mind is intent upon the law... and does not marry a wife, there is no iniquity in his hands, and that because his corruption does not prevail over him; but if his corruption prevails over him, \u05d7\u05d9\u05d9\u05d1 \u05dc\u05d9\u05e9\u05d0 \u05d0\u05e9\u05d4, 'he ought to marry a wife'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 7:9, the Apostle Paul emphasizes the importance of marriage as a remedy to the burning flames of lust. The hidden flame of lust, if left unchecked, can ultimately lead to damnation. Continence, or the ability to restrain oneself from unsatisfied desire, is a challenge for many. Therefore, Paul affirms that those who lack continency should choose marriage as a legitimate solution. It is not merely a suggestion or advice, but a commandment to prevent the abomination of burning with lust. In times of distress and persecution, marriage may come with inconveniences, but it is still preferable to being consumed by passions. Ultimately, the fear of God should be placed in opposition to the temptations of the flesh, and individuals should strive to extinguish the flames of lust with the help of God's grace.",
+            "wordCount": 135,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.97376838826961,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                31.97,
+                27.17,
+                40.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of the burning flames of lust, the Apostle Paul emphasizes the necessity of marriage as a remedy. He warns against the hidden flame that can lead to damnation, and encourages those who lack continency to choose marriage as a solution. While marriage may have its inconveniences, it is still preferable to being consumed by passions. With the help of God's grace, individuals are urged to extinguish the flames of lust and place the fear of God in opposition to temptation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1654692093850816,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.34,
+            "commentatorTierSimilarities": [
+                30.91,
+                29.28,
+                39.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle Paul highlights the vital role of marriage in containing the flames of lust. He warns against the destructive power of hidden passion that can lead to damnation. For those who lack continency, marriage is not just a suggestion but a commandment, a necessary remedy to avoid the abomination of burning with lust. Although it may come with challenges, marriage remains the preferable choice in the face of consuming desires. By seeking God's strength and extinguishing the fiery flames of lust, individuals can honor Him and find solace in marriage.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.029880989725963,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.83,
+            "commentatorTierSimilarities": [
+                31.99,
+                27.01,
+                41.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle Paul stresses the importance of marriage as a remedy for the burning flames of lust. Those who lack continency are urged to marry, not merely advised, as it is the right and best course of action. Burning with the fire of lust is viewed as an abomination in God's sight, and marriage is seen as a good and salutary solution. By recognizing the corrosive nature of unchecked passions, individuals should place the fear of God as their defense and strive to extinguish the flames of lust through marriage.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1902777987694284,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.17,
+            "commentatorTierSimilarities": [
+                30.23,
+                25.72,
+                44.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle Paul makes it clear that marriage is the preferred solution to the burning flames of lust. To possess continence in the face of unsatisfied desire is a challenge, so Paul instructs those who lack it to marry. This instruction is not mere advice, but a strict prohibition. The hidden flame of lust, if left uncontrolled, can lead a person to damnation. Marriage, therefore, becomes a necessary remedy to extinguish this fiery passion and honor God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0627598863526106,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.93,
+            "commentatorTierSimilarities": [
+                33.06,
+                26.91,
+                40.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

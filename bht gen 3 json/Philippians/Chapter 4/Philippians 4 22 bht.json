@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 13:56:27",
+    "verseRef": "Philippians 4:22",
+    "bestBHT": {
+        "bht": "In the book of Philippians, there are greetings extended to all the saints as well as they that are of Caesar's household. These individuals, possibly slaves and freedmen connected to the emperor's palace, were likely converted to Christianity through Paul's teachings during his imprisonment. The mention of Caesar's household in the salutation showcases the astonishing impact of the gospel, even within the immoral setting of Nero's court. While the specific members of the imperial household who became believers remain unknown, their inclusion emphasizes the wide-reaching influence of God's grace.",
+        "wordCount": 96,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 2.023090461081191,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+        "commentatorTierSimilarities": [
+            40.76,
+            32.84,
+            26.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All the saints... they that are of C\u00e6sar\u2019s household.\" ",
+            "These perhaps were slaves belonging to the (technically so called) familia... who had been converted by intercourse with St. Paul.",
+            "The reason of these being specified is not plain: the connexion perhaps between a colony, and some of the imperial household, might account for it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "they that are of C\u00e6sar's household\u2014the slaves and dependents of Nero who had been probably converted through Paul's teaching while he was a prisoner in the Pr\u00e6torian barrack attached to the palace.",
+            "Philippi was a Roman 'colony,' hence there might arise a tie between the citizens of the mother city and those of the colony; especially between those of both cities who were Christians, converted as many of them were by the same apostle, and under like circumstances, he having been imprisoned at Philippi, as he now is at Rome."
+        ],
+        "Albert Barnes": [
+            "There is reason to believe that the bonds of affection among the churches then were much stronger than they are now. There was a generous warmth in the newness of the Christian affection - the first ardor of love; and the common trials to which they were exposed would serve to bind them closely together.",
+            "That is, of Nero, who was at that time the reigning emperor. The name Caesar was given to all the emperors after the time of Julius Caesar, as the name Pharaoh was the common name of the kings of Egypt.",
+            "The phrase used here - 'the household of Caesar' - may refer to the relatives of the emperor; and it is certainly possible that some of them may have been converted to Christianity."
+        ],
+        "Marvin Vincent": [
+            "Of Caesar's household. Probably the slaves and freedmen attached to the palace. "
+        ],
+        "John Calvin": [
+            "It is no common evidence of divine mercy, that the gospel had made its way into that sink of all crimes and iniquities.",
+            "It is also the more to be admired, in proportion as it is a rare thing for holiness to reign in the courts of sovereigns.",
+            "The conjecture formed by some, that Seneca is here referred to among others, has no appearance of foundation; for he never gave any evidence, even the smallest, of his being a Christian."
+        ],
+        "Philip Schaff": [
+            "Though unknown, they were now brethren in Christ, and so could not be without interest in one another.",
+            "The reason why they specially send a salutation may be that they, more than any others, had heard of all the love which the Philippians felt toward the apostle.",
+            "And these converts, brought into closest communion with St. Paul, would have special desire to show their sense of what had been done to give consolation to an affliction, which themselves would see, but could do little to lighten."
+        ],
+        "John Gill": [
+            "Christ was made known to some there likewise; though Nero, the then reigning emperor, was a very wicked prince, and his court a very debauched one, yet the grace of God reached some there.",
+            "Who these were cannot be said; as for the conjecture that Seneca the philosopher, Nero's master, was one of them, it is without foundation.",
+            "There is nothing in his writings, or in any account of him, any more than in the former, that shows him to be a Christian."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Among the salutations in the book of Philippians, a mention is made of all the saints and they that are of Caesar's household. These individuals, possibly slaves belonging to the imperial household, were converted to Christianity through the influence of the apostle Paul. The connection between Philippi, a Roman colony, and Caesar's household may have formed a tie between the citizens of both cities, especially those who shared a common faith in Christ. The inclusion of Caesar's household in the salutation demonstrates the reach and impact of the gospel, even in the depths of depravity. While it is unclear who specifically from Caesar's household were converted, these unknown brethren sought to express their love and support for Paul. Their presence and conversion serve as a testament to the power of God's grace, breaking through the darkest places and transforming hearts.",
+            "wordCount": 145,
+            "quoteTokenProportion": 32.95,
+            "qualityScore": 1.9120572000070706,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.92,
+            "commentatorTierSimilarities": [
+                40.07,
+                37.23,
+                22.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Among the salutations in the book of Philippians, all the saints and they that are of Caesar's household are mentioned. These individuals, possibly slaves belonging to the imperial household, were converted to Christianity through the influence of the apostle Paul. The connection between Philippi, a Roman colony, and Caesar's household may have formed a tie between the citizens of both cities who shared a common faith. The inclusion of Caesar's household in the salutation demonstrates the reach and impact of the gospel, even in the depths of depravity.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.0078672166990836,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.1,
+            "commentatorTierSimilarities": [
+                44.01,
+                34.01,
+                21.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The salutations in Philippians include all the saints and those of Caesar's household. These individuals, likely slaves and dependents of Nero, were converted through Paul's teaching while he was imprisoned. Their mention demonstrates the tie between the citizens of Philippi, a Roman colony, and those of the imperial household. Despite the darkness and wickedness of Nero's court, God's grace reached even there. Though the specific identities of those from Caesar's household remain unknown, their inclusion in the salutation showcases the far-reaching impact of the gospel.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.8318777180133012,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
+            "commentatorTierSimilarities": [
+                43.72,
+                30.88,
+                25.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The book of Philippians includes greetings to all the saints and those of Caesar's household. These could be slaves and dependents attached to the palace. The connection between Philippi, a Roman colony, and the imperial household could explain their mention. The presence of believers in Nero's court shows the extraordinary reach of the gospel, even in the midst of corruption. The specific identities of those in Caesar's household are unclear, but their inclusion in the salutation underscores the transformative power of God's grace.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.7676890804234833,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                43.94,
+                31.15,
+                24.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the book of Philippians, there are greetings extended to all the saints as well as they that are of Caesar's household. These individuals, possibly slaves and freedmen connected to the emperor's palace, were likely converted to Christianity through Paul's teachings during his imprisonment. The mention of Caesar's household in the salutation showcases the astonishing impact of the gospel, even within the immoral setting of Nero's court. While the specific members of the imperial household who became believers remain unknown, their inclusion emphasizes the wide-reaching influence of God's grace.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.023090461081191,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+            "commentatorTierSimilarities": [
+                40.76,
+                32.84,
+                26.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

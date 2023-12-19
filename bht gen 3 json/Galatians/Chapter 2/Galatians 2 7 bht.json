@@ -1,0 +1,151 @@
+{
+    "timestamp": "12-19-2023 14:14:38",
+    "verseRef": "Galatians 2:7",
+    "bestBHT": {
+        "bht": "Instead of supporting Paul, the other apostles left him to fight his own battle, essentially saying, You do your thing and we'll do ours. However, they saw that Paul had been entrusted with the task of preaching the gospel to the Gentiles, just as Peter had been entrusted with preaching to the Jews. This distinction was not a difference in the message itself, but rather a division of labor. Rather than disagreeing with Paul's approach, the other apostles gave their approval and recognized that he had been chosen for this specific task.",
+        "wordCount": 94,
+        "quoteTokenProportion": 50.77,
+        "qualityScore": 2.0570644612756337,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+        "commentatorTierSimilarities": [
+            31.76,
+            38.34,
+            29.9
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Instead of strengthening the hands of Paul, they left him to fight his own battle... They said, 'Take your own course: preach the Gospel of the uncircumcision to Gentiles, and we will preach the Gospel of the circumcision to Jews.'\"  ",
+            "They saw that I was entrusted with the gospel of the uncircumcision, as Peter with that of the circumcision; therefore they had only to accede to the appointment of God.\"  ",
+            "But his own Epistles are sufficient testimonies that, in his hands at least, the Gospel of the circumcision did not differ in any essential point from that of the uncircumcision."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So far from adding any new light to ME,",
+            "\tTHEY gave in THEIR",
+            "\tadhesion to the new path\" (Galatians 2:7). ",
+            "So far from censuring, they gave a hearty",
+            "\tapproval to my independent course\" (Galatians 2:7).",
+            "Peter had originally opened the door to the Gentiles",
+            "\t. . . But in the ultimate apportionment of the spheres of labor, the Jews",
+            "\twere assigned to him\" (Galatians 2:7)."
+        ],
+        "Albert Barnes": [
+            "Paul had received this as his unique office when he was converted and called to the ministry.",
+            "It is meant that it was the main business of Paul to preach to the Gentiles, or that this was especially entrusted to him.",
+            "Paul selects Peter here particularly, doubtless because he was the oldest of the apostles, and in order to show that he was himself regarded as on a level in regard to the apostleship with the most aged and venerable."
+        ],
+        "Marvin Vincent": [
+            "The gospel of the uncircumcision [...] denotes a distinction of sphere, and not a difference of type.",
+            "The gospel which was to be preached to the uncircumcised - the Gentiles.",
+            "It denotes a distinction of sphere, and not a difference of type."
+        ],
+        "John Calvin": [
+            "To 'give the right hands of fellowship' means here, to have a partnership settled by mutual agreement.",
+            "He constantly urges that he was made an apostle by the gift and appointment of God, but adds here that he was acknowledged as such by the apostles themselves.",
+            "The apostles uniformly offered their labors and services, following the distribution of their respective duties based on Divine revelation."
+        ],
+        "Philip Schaff": [
+            "That I am (not was) intrusted. I have been and am still intrusted.\" ",
+            "The gospel is the same, but the sphere of labor is different.",
+            "Paul generally commenced to preach in the synagogue because it furnished the most convenient locality and the natural, historical connection for the announcement of the gospel."
+        ],
+        "Archibald T. Robertson": [
+            "This clear-cut agreement between the leaders 'denotes a distinction of sphere, and not a difference of type' (Lightfoot).",
+            "Both divisions in the work preach the same 'gospel' (not like Galatians 1:6, the Judaizers).",
+            "It seems hardly fair to the Three to suggest that they at first championed the cause of the Judaizers in the face of Paul's strong language in verse Galatians 2:5."
+        ],
+        "John Gill": [
+            "They saw that the Gospel of the uncircumcision was committed unto me, as the Gospel of the circumcision was to Peter.",
+            "The Apostle Paul was ordained a minister of the Gentiles [...] Peter was principally employed among the Jews [...] the subject of both their ministrations was the Gospel.",
+            "This being observed by the apostles at Jerusalem, they came into an agreement that one part should discharge their ministry among the Gentiles, and the other among the Jews."
+        ],
+        "John Wesley": [
+            "But when they saw...I was entrusted with the gospel of the uncircumcision.\" ",
+            "By the effects which I laid before them.\" ",
+            "That is, with the charge of preaching it to the uncircumcised heathens."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Instead of supporting Paul, the other apostles left him to fight his own battle, essentially saying, You do your thing and we'll do ours. However, they saw that Paul had been entrusted with the task of preaching the gospel to the Gentiles, just as Peter had been entrusted with preaching to the Jews. This distinction was not a difference in the message itself, but rather a division of labor. Rather than disagreeing with Paul's approach, the other apostles gave their approval and recognized that he had been chosen for this specific task.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 2.0570644612756337,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+            "commentatorTierSimilarities": [
+                31.76,
+                38.34,
+                29.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The other apostles didn't offer support to Paul, telling him to preach to the Gentiles while they focused on the Jews. However, they acknowledged that Paul had been entrusted with the task of sharing the gospel with the uncircumcised. This wasn't a difference in the content of the gospel, but a division of labor. Rather than opposing Paul, they approved of his independent course and recognized that God had appointed him to preach to the Gentiles.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.309004328421766,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.11,
+            "commentatorTierSimilarities": [
+                32.14,
+                37.02,
+                30.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Rather than strength, the other apostles left Paul to fight his own battle, separating their focus on the Jewish people from Paul's preaching to the Gentiles. However, they recognized that Paul was entrusted with the gospel for the uncircumcised while Peter carried the message to the circumcised. Their support for Paul's independent course affirmed that both divisions in the work preached the same gospel, highlighting a distinction of sphere rather than a difference of type. This agreement among the leaders underscores Paul's calling and authority to preach to the Gentiles.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.3110653062619813,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+            "commentatorTierSimilarities": [
+                34.51,
+                35.95,
+                29.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The other apostles left Paul to fight alone, focusing on preaching to the Jews while he preached to the Gentiles. However, they acknowledged that Paul was entrusted with the Gospel for the uncircumcised, while Peter was responsible for the circumcised. This distinction in spheres of labor, not in the essence of the Gospel itself, demonstrated their agreement and support for Paul's independent course. Thus, their recognition of Paul's calling affirmed his authority to preach to the Gentiles.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.3113629014539816,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.19,
+            "commentatorTierSimilarities": [
+                32.12,
+                37.42,
+                30.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Instead of strengthening Paul, the other apostles essentially told him, You do your thing and we'll do ours. However, they recognized that Paul had been entrusted with the Gospel for the Gentiles, while Peter had been entrusted with the Gospel for the Jews. This distinction in spheres of labor, rather than a difference in the message itself, highlighted their agreement with and approval of Paul's independent course. Thus, their acknowledgment of Paul's calling affirmed his authority to preach to the Gentiles.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.170387419776687,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.51,
+            "commentatorTierSimilarities": [
+                31.68,
+                38.07,
+                30.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

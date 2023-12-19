@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:15:17",
+    "verseRef": "Luke 5:14",
+    "bestBHT": {
+        "bht": "After healing the man with leprosy, Jesus commanded him not to disclose the miracle, but rather go directly to the priest and follow the prescribed cleansing process. This instruction was given with authority, resembling military orders or medical advice. The man's compliance with the instructions would serve as a testimony to the priests, validating the miraculous healing. The use of the pronoun them indicates that this testimony was not limited to a particular group, but intended for general witnesses. Similar instructions are found in Mark and Matthew, suggesting their shared source.",
+        "wordCount": 92,
+        "quoteTokenProportion": 33.82,
+        "qualityScore": 1.096271996093424,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.79,
+        "commentatorTierSimilarities": [
+            45.9,
+            0.0,
+            54.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He charged [\u03c0\u03b1\u03c1\u03b7\u03b3\u03b3\u03b5\u03b9\u03bb\u03b5\u03bd] . A strong word, often, of military orders. Aristotle uses it of a physician: to prescribe.",
+            "No one [\u03bc\u03b7\u03b4\u03b5\u03bd\u03b9] . The conditional negative: no one that he might chance to meet.",
+            "Go, shew thyself. A lively change from the narrative to direct address."
+        ],
+        "Archibald T. Robertson": [
+            "To tell no man...Here in the direct form he follows Mark 1:43; Matthew 8:4. See discussion there about the direction to go to the priest to receive a certificate showing his cleansing, like our release from quarantine.",
+            "The use of \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 (them) here is 'according to sense,' as we say, for it has no antecedent in the context, just to people in general.",
+            "But this identical phrase with absence of direct reference occurs in Mark and Matthew, pretty good proof of the use of one by the other. Both Matthew 8:4; Luke 5:14 follow Mark 1:44."
+        ],
+        "John Gill": [
+            "And he charged him to tell no man.... but go show thyself to the priest.\" ",
+            "To the priests: and offer for thy cleansing, according as Moses has commanded, for a testimony unto them.",
+            "For a testimony unto them."
+        ],
+        "John Wesley": [
+            "Leviticus 14:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Jesus healed the man with leprosy, He sternly instructed him to not tell anyone but to go and show himself to the priest. This command was given with great authority, like military orders or a prescription from a physician. The man was to go immediately and demonstrate his cleansing before the priests, just as the law of Moses commanded. This act would serve as a testimony to them, validating the miraculous healing that had taken place. The use of the pronoun them indicates that this testimony was not just for a specific group, but for anyone who needed to witness the power of God. The similar instructions given in Mark and Matthew confirm the interdependence of these accounts.",
+            "wordCount": 119,
+            "quoteTokenProportion": 39.24,
+            "qualityScore": 1.0881272825705626,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.52,
+            "commentatorTierSimilarities": [
+                42.68,
+                0.0,
+                57.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After healing the man with leprosy, Jesus charged him with a strong word, instructing him not to tell anyone about the miracle but to go and present himself to the priest as a testimony according to the law of Moses. This direct address to the man indicated a sense of urgency and importance. The use of the pronoun them in the phrase a testimony unto them suggests that the testimony was not limited to a specific group but intended for all to witness the power of God. This instruction is echoed by both Mark and Matthew, demonstrating the interconnectedness of these accounts.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.1069169869358526,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.15,
+            "commentatorTierSimilarities": [
+                54.43,
+                0.0,
+                45.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After healing the man with leprosy, Jesus strictly commanded him not to share the miracle, but rather to go straight to the priest and offer the prescribed cleansing sacrifices as a testimony. The forceful language used in this command conveyed a sense of urgency and importance. By following this directive, the man would be fulfilling the requirements outlined in the Law of Moses, serving as a testimony to the priests and showcasing the miraculous healing that had taken place. This instruction is echoed in the accounts of Mark and Matthew, underscoring their interconnectedness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.0202262245232936,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.27,
+            "commentatorTierSimilarities": [
+                42.3,
+                0.0,
+                57.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus charged the man He healed of leprosy not to reveal the miracle but to go directly to the priest and present himself as a testimony. This command was given with authority, compared to military or medical orders. The man was to follow the ceremonial requirements of the Law of Moses, offering the prescribed sacrifices. By doing so, he would serve as a testimony to the priests and demonstrate the power of God's healing. This instruction is found in the parallel accounts of Mark and Matthew, highlighting their shared source.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.0461350025558087,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.13,
+            "commentatorTierSimilarities": [
+                39.46,
+                0.0,
+                60.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After healing the man with leprosy, Jesus commanded him not to disclose the miracle, but rather go directly to the priest and follow the prescribed cleansing process. This instruction was given with authority, resembling military orders or medical advice. The man's compliance with the instructions would serve as a testimony to the priests, validating the miraculous healing. The use of the pronoun them indicates that this testimony was not limited to a particular group, but intended for general witnesses. Similar instructions are found in Mark and Matthew, suggesting their shared source.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.096271996093424,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.79,
+            "commentatorTierSimilarities": [
+                45.9,
+                0.0,
+                54.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:21:47",
+    "verseRef": "Luke 18:34",
+    "bestBHT": {
+        "bht": "The disciples were unaware of what Jesus had plainly spoken to them, as if the meaning had been completely hidden from their understanding. Their lack of perception and comprehension is emphasized, as they failed to grasp the significance of His words. Their preconceived ideas and expectations hindered them from comprehending the prophecies and spiritual truths. It is remarkable how they remained in ignorance, unable to reconcile Jesus' teachings with their limited understanding of the Messiah's kingdom.",
+        "wordCount": 77,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.9730652568424563,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.95,
+        "commentatorTierSimilarities": [
+            25.53,
+            38.84,
+            35.63
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All was as yet hidden from them, and it seems not to have been till very shortly before the event itself that they had any real expectation of its happening.",
+            "The supposition that they were two miracles is perfectly monstrous: and would at once destroy the credit of St. Matthew as a truthful narrator.",
+            "If farther proof of their identity were wanting to any one, we might find it in the fact that so many expressions are common to Mark and Luke: compare the wording of the two accounts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Evangelist seems unable to say strongly enough how entirely hidden from them at that time was the sense of these exceeding plain statements.",
+            "No doubt to add weight to their subsequent testimony, which from this very circumstance was prodigious, and with all the simple-hearted irresistible.",
+            "One thing is plain, there could have been no collusion among the authors of these Gospels, else they would have taken care to remove these 'spots on the sun.'"
+        ],
+        "Albert Barnes": [
+            "Though they were 'plainly' revealed, yet such were their prejudices and their unwillingness to believe them that they did not understand them.",
+            "To us now these things appear plain, and we may, hence, learn that those things which to us appear most mysterious may yet appear perfectly plain.",
+            "We should learn to trust in God, and 'believe' just what he has spoken."
+        ],
+        "Marvin Vincent": [
+            "Saying [\u03c1\u03b7\u03bc\u03b1] . See on ch. Luke 1:37. ",
+            "Were said [\u03bb\u03b5\u03b3\u03bf\u03bc\u03b5\u03bd\u03b1] . Or, more correctly, which were being said to them at the moment. ",
+            "- 43.; Luke 19:1. Compare Matthew 20:29-34. Mark 10:46-52."
+        ],
+        "John Calvin": [
+            "What stupidity was this, not to understand what Christ said to them in a plain and familiar manner...\" ",
+            "But it is proper also to bear in mind... the reason why they were held in such gross ignorance... they had formed the expectation of a joyful and prosperous advancement...",
+            "Hence we infer with what madness the minds of men are seized through a false imagination..."
+        ],
+        "Philip Schaff": [
+            "They understood none of these things.",
+            "They understood the words, but what was predicted they did not understand.",
+            "Their spiritual blindness is emphasized by the connection with the healing of blind Bartimeus."
+        ],
+        "Archibald T. Robertson": [
+            "They kept on not perceiving.",
+            "They understood none of these things.",
+            "It was a puzzling experience."
+        ],
+        "John Gill": [
+            "Not one of them... every article of his sufferings and death were unintelligible by them... shows their great ignorance of the prophecies of the Old Testament concerning these things.",
+            "And this saying, or 'thing'... the whole of this affair was hid from them.",
+            "Neither knew they the things which were spoken; the meaning of them."
+        ],
+        "John Wesley": [
+            "They understood none of these things.",
+            "But as they could not reconcile this to their preconceived opinion of the Messiah.",
+            "Having their thoughts still taken up with the temporal kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were completely unaware of what was to come, as if the events were hidden from them until the last moment. Some even propose that the idea of two separate miracles is preposterous, highlighting the importance of St. Matthew's credibility as a reliable narrator. The accounts of Mark and Luke also share many similarities, further proving their authenticity. Clearly, the disciples had no inkling of the true meaning behind Jesus' words, and this lack of understanding emphasizes their spiritual blindness. Their minds were clouded by their own expectations of a glorious and prosperous advancement, leading to their ignorance of the prophecies concerning Christ's suffering. It's truly astonishing how they failed to comprehend such plain and familiar teachings, underscoring the extent of their confusion and the magnitude of the revelation they would eventually bear witness to.",
+            "wordCount": 139,
+            "quoteTokenProportion": 34.34,
+            "qualityScore": 1.8456753208987742,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.71,
+            "commentatorTierSimilarities": [
+                31.9,
+                34.93,
+                33.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples remained utterly oblivious to what lay ahead, as if the truth was deliberately hidden from them until the eleventh hour. The suggestion that there were two miracles is simply absurd and would undermine Matthew's credibility. Comparing the accounts of Mark and Luke, it becomes evident that the disciples were completely ignorant of the true meaning behind Jesus' words. Their inability to grasp the significance of these plain and familiar teachings highlights their spiritual blindness and their failure to understand the prophecies concerning Christ's suffering.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.8846922153533123,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                33.17,
+                34.33,
+                32.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples remained oblivious to what was to come, as if it was hidden from them until the last moment. Some propose there were two miracles, which would discredit Matthew as a truthful narrator. The accounts of Mark and Luke show similarities, proving their authenticity. The disciples failed to comprehend the true meaning behind Jesus' words, emphasizing their spiritual blindness. Their ignorance of the prophecies highlights their great lack of understanding. It's astonishing how they couldn't reconcile this with their preconceived notions, their minds still fixated on a temporal kingdom.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.8398525688759375,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                31.28,
+                34.42,
+                34.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were completely unaware of what was to come, as if the events were hidden from them until the last moment. Some propose that the idea of two separate miracles is preposterous, highlighting the importance of St. Matthew's credibility as a reliable narrator. The accounts of Mark and Luke also share many similarities, further proving their authenticity. Clearly, the disciples had no inkling of the true meaning behind Jesus' words, emphasizing their spiritual blindness and their failure to understand the prophecies concerning Christ's suffering.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.7643505205141339,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                36.96,
+                33.05,
+                30.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were unaware of what Jesus had plainly spoken to them, as if the meaning had been completely hidden from their understanding. Their lack of perception and comprehension is emphasized, as they failed to grasp the significance of His words. Their preconceived ideas and expectations hindered them from comprehending the prophecies and spiritual truths. It is remarkable how they remained in ignorance, unable to reconcile Jesus' teachings with their limited understanding of the Messiah's kingdom.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9730652568424563,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.95,
+            "commentatorTierSimilarities": [
+                25.53,
+                38.84,
+                35.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:20:40",
+    "verseRef": "Luke 17:2",
+    "bestBHT": {
+        "bht": "Treating these little ones with care pays off, as noted by one source, which draws a connection to the admonition against causing others to stumble. Another source highlights the grave consequences, describing the imagery of being violently hurled into the sea with a millstone. Ultimately, prioritizing the well-being of weaker believers proves profitable, underscoring the importance of considering their welfare.",
+        "wordCount": 61,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 1.156978389433796,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.81,
+        "commentatorTierSimilarities": [
+            27.33,
+            37.2,
+            35.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] See Matt. xviii. 6, 7, and notes. these little ones] Perhaps the publicans and sinners of ch. xv. 1; perhaps also, repeated with reference to what took place, Matt. 1. c."
+        ],
+        "Marvin Vincent": [
+            "It were better [\u03bb\u03c5\u03c3\u03b9\u03c4\u03b5\u03bb\u03b5\u03b9]. The verb means to pay what is due, and is equivalent to our phrase, it pays.",
+            "The correct reading here is liqov mulikov, a millstone; not a great millstone as Matthew.",
+            "Thrown [\u03b5\u03c1\u03c1\u03b9\u03c0\u03c4\u03b1\u03b9]. Hurled: with an underlying sense of violence, called out by so great an outrage."
+        ],
+        "Philip Schaff": [
+            "Luke 17:2. Gain. Peculiar to Luke. The reference to the effect of the behavior of the Pharisees is sustained by the mention of little ones.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "It were well for him... It is profitable for him.\" ",
+            "If a millstone were hanged... It is a first-class condition, determined as fulfilled.\" ",
+            "Were thrown... all three verbs vivid and expressive."
+        ],
+        "John Gill": [
+            "It were better for him that a millstone,....",
+            " :- and",
+            " :-."
+        ],
+        "John Wesley": [
+            "Little ones \u2014 Weak believers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It pays to treat these little ones with care, suggests one commentary, noting the connection to earlier teachings about not causing others to stumble. Another commentary emphasizes the intensity and violence implied by the phrase hurled into the sea with a millstone, emphasizing the severity of the consequences. Ultimately, it is profitable to take the welfare of weaker believers seriously, for their well-being should be a priority.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.1748085756542612,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.41,
+            "commentatorTierSimilarities": [
+                33.71,
+                32.38,
+                33.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It pays to treat these little ones with care, suggests one commentary, noting the connection to earlier teachings about not causing others to stumble. Another commentary emphasizes the severity of the consequences, highlighting the violent imagery of being hurled into the sea with a millstone. Ultimately, it is profitable to prioritize the well-being of weaker believers, for their welfare should be a priority.",
+            "wordCount": 64,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.1799116364223272,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.58,
+            "commentatorTierSimilarities": [
+                32.99,
+                34.37,
+                32.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It pays to treat these little ones with care, suggests one source, relating the verse to teachings about causing others to stumble. Another source emphasizes the severity of the consequences, highlighting the violent imagery of being hurled into the sea with a millstone. Ultimately, prioritizing the well-being of weaker believers is profitable and should be a priority.",
+            "wordCount": 58,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.188121009069237,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.85,
+            "commentatorTierSimilarities": [
+                32.69,
+                29.68,
+                37.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It pays to treat these little ones with care, suggests one source, alluding to the connection with not causing others to stumble. Another source emphasizes the severity of the consequences, highlighting the violent imagery of being hurled into the sea with a millstone. Ultimately, it is profitable to prioritize the well-being of weaker believers, for their welfare should be a priority.",
+            "wordCount": 62,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.1311753369533781,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.96,
+            "commentatorTierSimilarities": [
+                29.51,
+                31.28,
+                39.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Treating these little ones with care pays off, as noted by one source, which draws a connection to the admonition against causing others to stumble. Another source highlights the grave consequences, describing the imagery of being violently hurled into the sea with a millstone. Ultimately, prioritizing the well-being of weaker believers proves profitable, underscoring the importance of considering their welfare.",
+            "wordCount": 61,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.156978389433796,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.81,
+            "commentatorTierSimilarities": [
+                27.33,
+                37.2,
+                35.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

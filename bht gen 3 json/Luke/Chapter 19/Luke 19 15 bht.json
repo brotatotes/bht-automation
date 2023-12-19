@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:21:49",
+    "verseRef": "Luke 19:15",
+    "bestBHT": {
+        "bht": "The servant's pound gained ten pounds, and his humble admission exemplifies the proportional reward of ten cities. The use of a napkin for money adds a cultural context to this parable. It emphasizes the varying degrees of future gracious reward based on present fidelity. This illustrates the significance of faithfulness in utilizing the bestowed gifts. Ultimately, the parable highlights the nature of the Prince's return and the servant's business, highlighting the importance of using gifts faithfully.",
+        "wordCount": 79,
+        "quoteTokenProportion": 24.07,
+        "qualityScore": 1.4459116457781074,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.42,
+        "commentatorTierSimilarities": [
+            39.51,
+            37.12,
+            23.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thy pound hath gained ten pounds; the humility with which this is stated, where no account of each man\u2019s own ability is taken as in Matthew, and then the proportion of the reward,\u2014ten cities,\u2014so according with.",
+            "the nature of what the Prince went to receive, and the occasion of his return.",
+            "It has been shewn by rabbinical citations that the Jews used the napkin, or handkerchief, for wrapping and keeping their money in."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15-26. (See on :-.) ",
+            "\t",
+            "ten . . . five",
+            "\tcities\u2014different degrees of future gracious reward,",
+            "\tproportioned to the measure of present fidelity."
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 25:19."
+        ],
+        "Marvin Vincent": [
+            "Had gained by trading [\u03b4\u03b9\u03b5\u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b5\u03c5\u03c3\u03b1\u03c4\u03bf] . Only here in New Testament. See on ver. 13."
+        ],
+        "Philip Schaff": [
+            "He commanded these servants to be called, etc. This first, before the judgment upon his enemies.",
+            "The inquiry is more strictly: what business they had carried on? So our Lord inquires of those servants on whom He has bestowed the same official gift, not what success they have had, but how they have used it; faithfulness is the main thing.",
+            "In spite of hostility, He returned as king; as our Lord will."
+        ],
+        "Archibald T. Robertson": [
+            "On the coming back again as to him.",
+            "Past perfect active indicative without augment.",
+            "Second aorist active subjunctive."
+        ],
+        "John Gill": [
+            "the time is fixed and certain, though unknown, and will be sudden and unexpected; but will not be till after the Gospel has had a general spread all over the world",
+            "having received the kingdom of glory for all his saints",
+            "these summons will be given, this account taken, and inquiry made, that these things which are known to him, might be made manifest to all, and every man have praise of God"
+        ],
+        "John Wesley": [
+            "When he was returned \u2014 In his glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The servant's pound had gained ten pounds, a humble acknowledgment of his success. The reward of ten cities in proportion to his gain is fitting. The use of the napkin for money, as seen in Jewish customs, is significant. This parable emphasizes the varying degrees of future gracious reward as a reflection of present fidelity. The first-tier commentary also provides insight into the nature of the Prince's return and the servant's business. Ultimately, this passage highlights the importance of faithfulness in using the gifts bestowed upon us.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.496860133873979,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.11,
+            "commentatorTierSimilarities": [
+                36.29,
+                36.76,
+                26.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servant's pound gained ten pounds, and his humble admission exemplifies the proportional reward of ten cities. The use of a napkin for money adds a cultural context to this parable. It emphasizes the varying degrees of future gracious reward based on present fidelity. This illustrates the significance of faithfulness in utilizing the bestowed gifts. Ultimately, the parable highlights the nature of the Prince's return and the servant's business, highlighting the importance of using gifts faithfully.",
+            "wordCount": 79,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.4459116457781074,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.42,
+            "commentatorTierSimilarities": [
+                39.51,
+                37.12,
+                23.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servant's pound had gained ten pounds, displaying his humility. The reward of ten cities is proportionate and symbolic. The use of a napkin for money in Jewish customs brings cultural context. This parable highlights the varying degrees of future reward based on fidelity. It emphasizes the significance of faithfulness in using bestowed gifts. The nature of the Prince's return and the servant's business are key elements. Ultimately, this passage stresses the importance of faithful stewardship of the given talents.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.372259232931989,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.97,
+            "commentatorTierSimilarities": [
+                38.38,
+                39.14,
+                22.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The servant's pound had gained ten pounds, reflecting humility and proportional reward. The use of a napkin for money adds cultural significance. This parable highlights the varying degrees of future reward based on fidelity, emphasizing the importance of faithful stewardship. The nature of the Prince's return and the servant's business are key elements to consider. Ultimately, this passage emphasizes the significance of utilizing bestowed gifts faithfully.",
+            "wordCount": 69,
+            "quoteTokenProportion": 21.57,
+            "qualityScore": 1.37749659667505,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.14,
+            "commentatorTierSimilarities": [
+                39.14,
+                40.32,
+                20.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servant's pound had gained ten pounds, embodying humility and proportional reward. The use of a napkin for money adds cultural significance. The parable underscores the varying degrees of future reward based on fidelity, stressing the importance of faithful stewardship. The nature of the Prince's return and the servant's business are crucial factors to consider. Ultimately, this emphasizes the significance of utilizing bestowed gifts faithfully.",
+            "wordCount": 68,
+            "quoteTokenProportion": 22.0,
+            "qualityScore": 1.3514998537799265,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.28,
+            "commentatorTierSimilarities": [
+                39.6,
+                39.2,
+                21.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

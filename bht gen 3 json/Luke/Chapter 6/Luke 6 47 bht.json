@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:15:54",
+    "verseRef": "Luke 6:47",
+    "bestBHT": {
+        "bht": "I will show you to whom he is like, to be a disciple and follower, coming to me, hearing my sayings, and doing them. This description can be better understood by referencing Matthew 7:24 and the context of being closely connected to a plain below the mountain where the Apostles are represented as immediately about him.",
+        "wordCount": 55,
+        "quoteTokenProportion": 58.7,
+        "qualityScore": 1.964335928220728,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+        "commentatorTierSimilarities": [
+            37.94,
+            33.74,
+            28.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "I will shew you to whom he is like. Peculiar to Luke. See on Matthew 7:24."
+        ],
+        "Philip Schaff": [
+            "This verse is to be closely connected with Luke 6:16.",
+            "This refers more naturally to a plain below the mountain.",
+            "The Apostles are here represented as immediately about Him."
+        ],
+        "Archibald T. Robertson": [
+            "Hears and does (\u03b1\u03ba\u03bf\u03c5\u03c9\u03bd \u03ba\u03b1 \u03c0\u03bf\u03b9\u03c9\u03bd). Present active participles. So in Matthew 7:24. (Present indicative.)",
+            "I will show you (\u03c5\u03c0\u03bf\u03b4\u03b5\u03b9\u03be\u03c9 \u03c5\u03bc\u03b9\u03bd). Only in Luke, not Matthew. "
+        ],
+        "John Gill": [
+            "Whosoever cometh to me,.... To be a disciple and follower:",
+            "and heareth my sayings, and doth them;",
+            "I will show you to whom he is like; or 'to what thing he is like';",
+            "though what follows seems better to agree with person than thing."
+        ],
+        "John Wesley": [
+            "Matthew 7:24."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I will show you to whom he is like, to be a disciple and follower, coming to me, hearing my sayings, and doing them. This verse is closely connected to a plain below the mountain where the Apostles are represented as immediately about him. This description can be better understood by referencing Matthew 7:24.",
+            "wordCount": 53,
+            "quoteTokenProportion": 56.82,
+            "qualityScore": 1.9861190634521684,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+            "commentatorTierSimilarities": [
+                36.22,
+                36.01,
+                27.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I will show you to whom he is like, to be a disciple and follower, coming to me, hearing my sayings, and doing them. This description can be better understood by referencing Matthew 7:24 and the context of being closely connected to a plain below the mountain where the Apostles are represented as immediately about him.",
+            "wordCount": 55,
+            "quoteTokenProportion": 58.7,
+            "qualityScore": 1.964335928220728,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                37.94,
+                33.74,
+                28.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who come to Jesus, hear his teachings, and put them into practice are like a wise person who builds their house on a strong foundation. This connection between hearing and doing is highlighted in Luke's Gospel and further emphasized in Matthew's account. The disciples, as represented by the Apostles, are the ones immediately following Jesus and embodying this teaching. It's important to note the emphasis on both hearing and doing, as it is the combination of these actions that leads to the wise building of one's life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.3681820961539524,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.84,
+            "commentatorTierSimilarities": [
+                42.49,
+                30.03,
+                27.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who come to Jesus, hear his teachings, and put them into practice are like a wise person who builds their house on a strong foundation. The disciples, as represented by the Apostles, are the ones immediately following Jesus and embodying this teaching. It's important to note the emphasis on both hearing and doing, as it is the combination of these actions that leads to the wise building of one's life.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.2338214457676027,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.37,
+            "commentatorTierSimilarities": [
+                38.5,
+                30.85,
+                30.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who come to Jesus, hear his sayings, and do them are like a wise person who builds their house on a strong foundation. The connection between hearing and doing is emphasized in Luke's Gospel. The disciples, represented by the Apostles, are the ones immediately about Jesus and exemplify this teaching. The combination of hearing and doing is crucial for building a solid life. This verse is also closely connected to Luke 6:16.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.46322484076434,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.99,
+            "commentatorTierSimilarities": [
+                37.72,
+                39.32,
+                22.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

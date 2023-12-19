@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:24:28",
+    "verseRef": "Luke 24:49",
+    "bestBHT": {
+        "bht": "Jesus declares the fulfillment of the promise of the Father as He sends the Holy Spirit. The disciples are to be invested and clothed with supernatural power from on high, waiting for this experience to come. Through this promise, they will be endowed with the power and authority to carry out their mission, fortified and inspired with courage. It is through the Holy Spirit, the promise from the Father, that they will be equipped to fulfill their calling.",
+        "wordCount": 78,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.102102610989135,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.24,
+        "commentatorTierSimilarities": [
+            23.17,
+            40.52,
+            36.31
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The procession of the Holy Spirit from the Son is clearly here declared, as well as that from the Father.",
+            "The present, I send, is not equivalent to a future, but implies that the actual work is done, and the state brought in, by which that sending is accomplished.",
+            "This, as Stier remarks, was the true and complete clothing of the nakedness of the Fall."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I send\u2014the present tense, to intimate its nearness.",
+            "promise of my Father\u2014that is, what My Father hath promised; the Holy Ghost, of which Christ is the authoritative Dispenser.",
+            "endued\u2014invested, or clothed with; implying, as the parallels show, their being so penetrated and acted upon by conscious supernatural power."
+        ],
+        "Albert Barnes": [
+            "The promise of my Father - The promise which the Father had made to them 'through' the Savior.",
+            "The promise was, that they should be aided by the power of the Holy Spirit.",
+            "Endued with power from on high - The power which would be given them by the descent of the Holy Spirit - the power of speaking with tongues, of working miracles, and of preaching the gospel with the attending blessing and aid of the Holy Spirit."
+        ],
+        "Marvin Vincent": [
+            "I send [\u03b5\u03b3\u03c9 \u03b5\u03be\u03b1\u03c0\u03bf\u03c3\u03c4\u03b5\u03bb\u03bb\u03c9] . Rev., better, send forth, giving the force of ejx. I emphatic.",
+            "Endued with power. The Rev. has properly substituted the simpler clothed, which, to the English reader, conveys the exact figure in the word.",
+            "This metaphorical sense of clothed is found in classical Greek. Aristophanes has clothes with audacity; Homer, clothed with strength; Plutarch, clothes with nobility and wealth."
+        ],
+        "John Calvin": [
+            "There is no reason why you should despond, because I will send you from heaven that power which I know that you do not possess.",
+            "To invest feeble men with heavenly power, is a part of that glory which God swears that he will not give to another: and, therefore, if it belongs to Christ, it follows that he is that God.",
+            "We are taught by their example, that we ought to attempt nothing but as the Lord calls us to it."
+        ],
+        "Philip Schaff": [
+            "The promise of my Father upon you. This means the Holy Spirit.",
+            "But tarry ye in the city. A quiet, retired waiting is meant.",
+            "Ye be clothed... An abiding, characterizing influence is meant."
+        ],
+        "Archibald T. Robertson": [
+            "Put on yourselves power from on high as a garment.",
+            "They are to wait till this experience comes to them.",
+            "This is 'the promise of the Father.'"
+        ],
+        "John Gill": [
+            "By which is meant the promise of the Spirit, called the promise of the Father, because he was promised by the Father to be sent, and poured on the saints in the times of the Messiah.",
+            "And this promise of the Father was to be sent in a very short time, in ten days time, as accordingly it was.",
+            "The Spirit of God is a spirit of might, and of power, as well as of knowledge, of understanding, of counsel, of love, and of a sound mind; whereby they were to be fortified, and inspired with courage and greatness of soul."
+        ],
+        "John Wesley": [
+            "Behold I send the promise \u2014 Emphatically so called; the Holy Ghost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the promise of the Father being fulfilled as Jesus declares His sending of the Holy Spirit. This sending is not a future event, but signifies that the work has been accomplished and the state brought in by which the sending is accomplished. The disciples are to be invested and clothed with power from on high, an abiding influence that will enable them to carry out their calling, for they are to wait until this experience comes to them. It is through this promise of the Father, the Holy Spirit, that they will be endowed with supernatural power and equipped for their mission.",
+            "wordCount": 106,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.9791183505033496,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                25.37,
+                39.25,
+                35.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The procession of the Holy Spirit from the Son is clearly declared in the promise fulfilled by Jesus. He emphasizes the nearness of its fulfillment and the disciples being invested and clothed with supernatural power. They are to wait until this experience comes to them, as it is the promise of the Father, the Holy Spirit. Through this abiding influence, they will be equipped to carry out their mission, fortified with courage and greatness of soul.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.016236222076734,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.38,
+            "commentatorTierSimilarities": [
+                23.8,
+                40.38,
+                35.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The promise of the Father, the Holy Ghost, will be fulfilled as Jesus sends the disciples power from on high. This sending is not a future event, but signifies the completion of the work and the state brought in for the sending to be accomplished. The disciples are to be invested and clothed with supernatural power, waiting until this experience comes to them. It is through this promise of the Father that they will be endowed with supernatural power, enabling them to fulfill their calling.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.921195013433632,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                27.01,
+                37.19,
+                35.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus declares the fulfillment of the promise of the Father as He sends the Holy Spirit. The disciples are to be invested and clothed with supernatural power from on high, waiting for this experience to come. Through this promise, they will be endowed with the power and authority to carry out their mission, fortified and inspired with courage. It is through the Holy Spirit, the promise from the Father, that they will be equipped to fulfill their calling.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.102102610989135,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.24,
+            "commentatorTierSimilarities": [
+                23.17,
+                40.52,
+                36.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus fulfills the promise of the Father by sending the Holy Spirit to the disciples. This sending signifies the completion of the work and the state brought in for the sending to be accomplished. The disciples are to be invested and clothed with supernatural power from on high, waiting for this experience to come. Through this promise, they will be endowed with the power and authority to execute their mission. It is through the Holy Spirit, the promise from the Father, that they will be empowered to fulfill their calling.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.9723022564163304,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+            "commentatorTierSimilarities": [
+                24.48,
+                40.41,
+                35.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

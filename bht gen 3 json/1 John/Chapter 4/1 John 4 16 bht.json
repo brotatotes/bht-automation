@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 15:49:05",
+    "verseRef": "1 John 4:16",
+    "bestBHT": {
+        "bht": "True faith is a faith of knowledge and experience, a knowledge of faith. It is an understanding that God is Love. Through this faith, believers become a sphere where the love of God operates, as God dwells in us. Love is inherently connected with faith, as wherever God abides, love ought to be there. Through the same Spirit, we come to know and believe in the all-encompassing love that God has for us.",
+        "wordCount": 74,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 2.312189528184725,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.22,
+        "commentatorTierSimilarities": [
+            27.35,
+            29.74,
+            42.91
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "True faith is, according to St. John, a faith of knowledge and experience: true knowledge is a knowledge of faith.",
+            "God is Love, and he that abideth in love abideth in God and God [abideth] in him.",
+            "This saying is of Love absolute."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "True faith, according to John, is a faith of knowledge and experience: true knowledge is a knowledge of faith.\" ",
+            "In our case.\" ",
+            "Dwelleth."
+        ],
+        "Albert Barnes": [
+            "God is love.\" ",
+            "What truth is there on which the mind can dwell with more pleasure; what is there that is better fitted to win the heart to holiness; what that will do more to sustain the soul in the sorrows and trials of this life?",
+            "Love would remove all the corrupt passions, the crimes, the jealousies, the wars on the earth, and would diffuse around the globe the bliss of heaven."
+        ],
+        "Marvin Vincent": [
+            "The love which God hath. On this use of ecein to have, see on John 16:22. Compare John 8:35. ",
+            "To us [\u03b5\u03bd \u03b7\u03bc\u03b9\u03bd] . Rev., in us. Compare God abideth in Him. ",
+            "Dwelleth in love, etc. See John 14:9, John 14:10. Rev., abideth."
+        ],
+        "John Calvin": [
+            "We have known by believing;...such knowledge is not attained but by faith.",
+            "The paternal love of God is found in Christ, and that nothing certain is known of Christ, except by those who know themselves to be the children of God by his grace.",
+            "By faith God dwells in us, and God is love; then, wherever God abides, love ought to be there. Hence it follows that love is necessarily connected with faith."
+        ],
+        "Archibald T. Robertson": [
+            "We know (\u03b5\u03b3\u03bd\u03c9\u03ba\u03b1\u03bc\u03b5\u03bd). Perfect active indicative, 'we have come to know and still know' as in John 6:9...",
+            "Believers are the sphere (\u03b5\u03bd \u03b7\u03bc\u03b9\u03bd, in our case) in which the love of God operates...",
+            "God is love (\u03bf \u03b8\u03b5\u03bf\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7 \u03b5\u03c3\u03c4\u03b9\u03bd). Repeated from verse 1 John 4:8..."
+        ],
+        "John Gill": [
+            "And we have known and believed...the love that God hath to us.\" ",
+            "God is love",
+            "He that dwelleth in love...dwelleth in God, and God in him."
+        ],
+        "John Wesley": [
+            "And we know and believe \u2014 By the same Spirit, the love that God hath to us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "True faith is a faith of knowledge and experience, a knowledge of faith. It is an understanding that God is Love, and for those who abide in love, God abides in them. This saying speaks of Love absolute, for God Himself is Love. Believers are the sphere in which the love of God operates, and it is through faith that God dwells in us. Love is inherently connected with faith, as wherever God abides, love ought to be there. Through the same Spirit, we come to know and believe in the love that God has for us, a love that transcends and encompasses all.",
+            "wordCount": 104,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 2.3864290734298055,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.69,
+            "commentatorTierSimilarities": [
+                27.63,
+                31.62,
+                40.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True faith is a faith of knowledge and experience, a knowledge of faith. It is an understanding that God is Love, and for those who abide in love, God abides in them. Through faith, believers become a sphere where the love of God operates, as God dwells in us. Love is inherently connected with faith, as wherever God abides, love ought to be there. Through the same Spirit, we come to know and believe in the all-encompassing love that God has for us.",
+            "wordCount": 84,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 2.288419306126683,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.43,
+            "commentatorTierSimilarities": [
+                27.76,
+                29.83,
+                42.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True faith is a faith of knowledge and experience, a knowledge of faith. It is an understanding that God is Love, and for those who abide in love, God abides in them. Through faith, believers become a sphere where the love of God operates, as God dwells in us. Love is inherently connected with faith, as wherever God abides, love ought to be there. Through the same Spirit, we come to know and believe in the all-encompassing love that God has for us.",
+            "wordCount": 84,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 2.288419306126683,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.43,
+            "commentatorTierSimilarities": [
+                27.76,
+                29.83,
+                42.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True faith is a faith of knowledge and experience, a knowledge of faith. It is an understanding that God is Love. Through this faith, believers become a sphere where the love of God operates, as God dwells in us. Love is inherently connected with faith, as wherever God abides, love ought to be there. Through the same Spirit, we come to know and believe in the all-encompassing love that God has for us.",
+            "wordCount": 74,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 2.312189528184725,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.22,
+            "commentatorTierSimilarities": [
+                27.35,
+                29.74,
+                42.91
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

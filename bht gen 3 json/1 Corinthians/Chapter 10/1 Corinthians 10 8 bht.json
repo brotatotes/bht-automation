@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:10:06",
+    "verseRef": "1 Corinthians 10:8",
+    "bestBHT": {
+        "bht": "The sin of Baal-peor, although idolatry, exhibited itself as fornication, which directly applies to the Corinthians who engaged in both idolatry and sexual immorality. The connection between idolatry and fornication was strong, particularly in Corinth where prostitution was part of Aphrodite's worship. The punishment for this vice should alarm us, revealing the abhorrence of impure lusts to God. Fornication is a grave offense, as seen in the death of over twenty-three thousand people in a single day as a consequence of their actions.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.8205095788493382,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.87,
+        "commentatorTierSimilarities": [
+            47.23,
+            24.93,
+            27.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The subtilties of Commentators in order to escape the inference, are discreditable alike to themselves and the cause of sacred Truth.",
+            "Although the sin of Baal-peor was, strictly speaking, idolatry, yet the form which it exhibited was that of fornication, as incident to idolatrous feasting.",
+            "Thus it becomes even more directly applicable to the case of the Corinthians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Fornication was generally, as in this case, associated at the idol feasts with spiritual fornication, that is, idolatry.",
+            "If this were a real discrepancy, it would militate rather against inspiration of the subject matter and thought, than against verbal inspiration.",
+            "Whichever be the true way of reconciling the seeming discrepant statements, at least the ways given above prove they are not really irreconcilable."
+        ],
+        "Albert Barnes": [
+            "At all events, Paul has not exceeded the truth. There were at least 23,000 that fell, though there might have been more.\" ",
+            "To 'Corinthianize' was a term synonymous among the ancients with licentiousness.",
+            "Christians, therefore, were in a special manner exposed to it; and hence, the anxiety of the apostle to warn them against it."
+        ],
+        "John Calvin": [
+            "The punishment of this vice, also, ought to alarm us, and lead us to bear in mind, how loathsome impure lusts are to God.",
+            "As there were, therefore, about twenty-four thousand that were overthrown by the Lord\u2019s hand \u2014 that is, above twenty-three, Moses has set down the number above the mark, and Paul, the number below it.",
+            "Let us learn, accordingly, that fornication is no light offense, which was punished on that occasion by God so severely and indeed in a variety of ways."
+        ],
+        "Philip Schaff": [
+            "Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.\" ",
+            "Four and twenty thousand, says Numbers 25:9; but as the actual number would probably be between the two, the thing is here stated in round numbers."
+        ],
+        "Archibald T. Robertson": [
+            "And let us cease practicing fornication as some were already doing.",
+            "The connection between idolatry and fornication was very close.",
+            "It was terribly true of Corinth where prostitution was part of the worship of Aphrodite."
+        ],
+        "John Gill": [
+            "They judging it to be no evil.",
+            "And fell in one day three and twenty thousand.",
+            "Moses says there died so many, including the heads of the people that were hanged up against the sun, and all that perished by the sword."
+        ],
+        "John Wesley": [
+            "And fell in one day three and twenty thousand.\" ",
+            "Beside the princes who were afterwards hanged, and those whom the judges slew.",
+            "So that there died in all four and twenty thousand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sin of Baal-peor, although idolatry, took the form of fornication, which is directly applicable to the case of the Corinthians who were engaging in both idolatry and sexual immorality. The connection between idolatry and fornication was very close, especially in Corinth where prostitution was part of the worship of Aphrodite. The punishment for this vice should alarm us and remind us of how abhorrent impure lusts are to God. Let us learn that fornication is a serious offense, as demonstrated by the severe punishment inflicted upon the Israelites, resulting in the death of over twenty-three thousand people in a single day.",
+            "wordCount": 104,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.8357385358121046,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                47.68,
+                24.24,
+                28.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sin of Baal-peor, although idolatry, took the form of fornication, which is applicable to the Corinthians engaging in idolatry and sexual immorality. The connection between idolatry and fornication was close, especially in Corinth where prostitution was part of Aphrodite's worship. The punishment for this vice should alarm us, reminding us of how impure lusts are abhorrent to God. Let us learn that fornication is a serious offense; the severe punishment inflicted on the Israelites resulted in the death of over twenty-three thousand people in a single day.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.8190482973727766,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.83,
+            "commentatorTierSimilarities": [
+                47.07,
+                24.58,
+                28.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sin in Corinth mirrored the sin of Baal-peor, which combined idolatry and fornication. The connection between idolatry and sexual immorality was particularly strong in Corinth, where prostitution was part of Aphrodite's worship. We should be alarmed by the punishment for this vice, understanding how detestable impure lusts are to God. Fornication is a grave offense, as demonstrated by the severe punishment inflicted on the Israelites, resulting in the death of over twenty-three thousand people in a single day.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.7740041274096572,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                46.06,
+                24.58,
+                29.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sin of Baal-peor, although idolatry, manifested as fornication, making it directly applicable to the situation in Corinth. The link between idolatry and fornication was strong, particularly in Corinth where prostitution was part of their idol worship. We must be mindful of the severe punishment for this vice, as it reveals the abhorrence of impure lusts to God. Let us learn from this example that fornication is a serious offense, as seen in the death of over twenty-three thousand people in one day.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.79916173498543,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                48.19,
+                24.93,
+                26.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sin of Baal-peor, although idolatry, exhibited itself as fornication, which directly applies to the Corinthians who engaged in both idolatry and sexual immorality. The connection between idolatry and fornication was strong, particularly in Corinth where prostitution was part of Aphrodite's worship. The punishment for this vice should alarm us, revealing the abhorrence of impure lusts to God. Fornication is a grave offense, as seen in the death of over twenty-three thousand people in a single day as a consequence of their actions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8205095788493382,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.87,
+            "commentatorTierSimilarities": [
+                47.23,
+                24.93,
+                27.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

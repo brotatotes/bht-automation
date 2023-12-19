@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:01:27",
+    "verseRef": "1 Thessalonians 5:13",
+    "bestBHT": {
+        "bht": "Esteem your ministers and leaders very highly, not just because of personal attachment, but because of the high nature of their work in furthering your salvation and the kingdom of Christ.They deserve your reverential love for their work, not just for their position. Be at peace among yourselves, avoiding party rivalries and strife, as this only undermines the unity. The ministers deserve respect and love for their faithful service and cultivate a good understanding, brotherly love, and friendship with them. Let there be no divisions among yourselves, but strive for harmony and peace.",
+        "wordCount": 94,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.8709643209104998,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+        "commentatorTierSimilarities": [
+            32.85,
+            31.13,
+            36.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Very highly is best taken with in Jove: it will not form a suitable qualification for the verb esteem, as that word is used in the original.",
+            "For their work's sake may mean, because of the nature of their work, viz. that it is the Lord's work, for your souls: or, on account of their activity in their office, as a recompense for their work.",
+            "This exhortation, be at peace among yourselves, seems to be suggested by the foregoing, as enforcing peaceful and loving subordination without party strife: see the mention of the unruly below."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The high nature of their work alone, the furtherance of your salvation and of the kingdom of Christ, should be a sufficient motive to claim your reverential love.\" ",
+            "The word 'work' teaches ministers that, while claiming the reverence due to their office, it is not a sinecure, but a 'work'.",
+            "Let there not only be peace between ministers and their flocks, but also no party rivalries among yourselves, one contending in behalf of some one favorite minister, another in behalf of another."
+        ],
+        "Albert Barnes": [
+            "The office of a minister of religion demands respect. They who are faithful in that office have a claim on the kind regards of their fellow-men.",
+            "It is a work whose only tendency, when rightly performed, is to do good. It injures no man, but contributes to the happiness of all.",
+            "A man who sincerely devotes himself to such a work has a claim on the kind regards of his fellow-men."
+        ],
+        "Marvin Vincent": [
+            "Their esteem for their superintendents is not to rest only on personal attachment or respect for their position, but on intelligent and sympathetic appreciation of their work.\" ",
+            "It is a good and much-needed lesson for the modern congregation no less than for the Thessalonian church.\" ",
+            "In love qualifies both words."
+        ],
+        "John Calvin": [
+            "For as the doctrine of the gospel is lovely, so it is befitting that the ministers of it should be loved.",
+            "For Paul, in my opinion, had in view to oppose the artifices of Satan, who ceases not to use every endeavor to stir up either quarrels, or disagreements, or enmities, between people and pastor.",
+            "Hence we see daily how pastors are hated by their Churches for some trivial reason, or for no reason whatever, because this desire for the cultivation of peace, which Paul recommends so strongly, is not exercised as it ought."
+        ],
+        "Philip Schaff": [
+            "Little good can be effected in a church in which the ministers are neither respected nor loved.\" ",
+            "This ecclesiastical organization is new, it brings you into new and delicate relations with persons of various education and habits; there will be difficulties and great need of patience, forbearance, yieldingness of spirit.",
+            "See that you live at peace."
+        ],
+        "Archibald T. Robertson": [
+            "Get acquainted with them and esteem the leaders.\" ",
+            "We need wise leadership today, but still more wise following.\" ",
+            "An army of captains and colonels never won a battle."
+        ],
+        "John Gill": [
+            "And to esteem them very highly,.... Or, as the Ethiopic version renders it, 'honour them abundantly'; for such are worthy of double honour, and to be had in reputation.\" ",
+            "They should be honourably thought of, and be high in the affections of the saints, who should esteem them better than themselves, or others in the community.\" ",
+            "Keep up a good understanding, and cultivate love and friendship with them; 'embrace them with brotherly love', as the Ethiopic version renders the words, understanding them also as relating to ministers."
+        ],
+        "John Wesley": [
+            "Esteem them very highly \u2014 Literally, more than abundantly, in love...",
+            "The inexpressible sympathy that is between true pastors and their flock is intimated...",
+            "For their work's sake \u2014 The principal ground of their vast regard for them. But how are we to esteem them who do not work at all?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Esteem your leaders and ministers very highly, not just because of personal attachment or respect for their position, but because of the high nature of their work in furthering your salvation and the kingdom of Christ. They deserve your reverential love and sympathetic appreciation for the work they do. Be at peace among yourselves, avoiding party rivalries and strife, as this only undermines the unity and peace within the church. The ministers deserve respect and love for their faithful service, and it is the duty of the congregation to cultivate a good understanding, brotherly love, and friendship with them. Wise leadership and wise followership are both needed in the church, so let there be no divisions among yourselves, but strive for harmony and peace.",
+            "wordCount": 124,
+            "quoteTokenProportion": 43.04,
+            "qualityScore": 1.9612550511300264,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                31.79,
+                31.66,
+                36.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Esteem your ministers and leaders very highly, not just because of personal attachment, but because of the high nature of their work in furthering your salvation and the kingdom of Christ.They deserve your reverential love for their work, not just for their position. Be at peace among yourselves, avoiding party rivalries and strife, as this only undermines the unity. The ministers deserve respect and love for their faithful service and cultivate a good understanding, brotherly love, and friendship with them. Let there be no divisions among yourselves, but strive for harmony and peace.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.8709643209104998,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                32.85,
+                31.13,
+                36.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Esteem your ministers and leaders very highly, not just because of personal attachment or respect for their position, but because of the high nature of their work in furthering your salvation and the kingdom of Christ. They deserve your reverential love and sympathetic appreciation for their work. Be at peace among yourselves, avoiding party rivalries and strife. The ministers deserve respect and love for their faithful service. Cultivate a good understanding, brotherly love, and friendship with them. Strive for harmony and peace, avoiding divisions within the church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.8176082004728977,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                30.95,
+                32.12,
+                36.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Esteem your ministers and leaders very highly, not just because of personal attachment, but for the high nature of their work in furthering your salvation and the kingdom of Christ. They deserve your reverential love and sympathetic appreciation for their work. Be at peace among yourselves, avoiding party rivalries and strife. The ministers deserve respect and love for their faithful service and cultivate a good understanding, brotherly love, and friendship with them. Strive for harmony and peace, avoiding divisions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.7998649890026392,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                31.75,
+                32.23,
+                36.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Esteem your ministers and leaders very highly, not just because of personal attachment or respect for their position, but because of the high nature of their work in furthering your salvation and the kingdom of Christ. They deserve your reverential love and sympathetic appreciation for their work. Be at peace among yourselves, avoiding party rivalries and strife. The ministers deserve respect and love for their faithful service. Cultivate a good understanding, brotherly love, and friendship with them. Strive for harmony and peace, avoiding divisions within the church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.8176082004728977,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                30.95,
+                32.12,
+                36.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

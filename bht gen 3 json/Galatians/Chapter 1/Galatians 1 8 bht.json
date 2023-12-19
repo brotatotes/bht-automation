@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:13:49",
+    "verseRef": "Galatians 1:8",
+    "bestBHT": {
+        "bht": "Paul's strong declaration warns against any gospel other than the one he and his fellow apostles preached, even if it comes from an angel. The truth of the gospel cannot be swayed by new revelations or charismatic preachers. Paul's certainty stems from the unchanging foundation of Christ's death and resurrection, making it clear that no one, not even an angel, can alter the truth of the gospel.",
+        "wordCount": 70,
+        "quoteTokenProportion": 46.0,
+        "qualityScore": 2.5965823488425075,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.68,
+        "commentatorTierSimilarities": [
+            33.81,
+            34.11,
+            32.08
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "even though we, or an angel from heaven, preach to you any gospel other than what we preached to you, let him be accursed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Even though we,\" namely, I and the brethren with me.\u201d",
+            "A new revelation, even though seemingly accredited by miracles, is not to be received if it contradict the already existing revelation.",
+            "Not that he means, the apostles really supported the Judaizers: but he wishes to show, when the truth is in question, respect of persons is inadmissible."
+        ],
+        "Albert Barnes": [
+            "No matter who taught anything else; no matter though it be alleged that he had changed his mind; no matter even though he should preach another gospel; and no matter though an angel from heaven should declare any other mode of salvation, it was to be held as a fixed and settled position, that the true gospel had been preached to them at first.",
+            "The mere rank, character, talent, eloquence, or piety of a preacher does not of necessity give his doctrine a claim to our belief, or prove that his gospel is true.",
+            "Any other doctrine than what is proclaimed in the Bible on the subject of justification is to be rejected and treated with abhorrence, no matter what the rank, talent, or eloquence of him who defends it."
+        ],
+        "Marvin Vincent": [
+            "Any gospel which is different from the one gospel, is both beside and contrary to.",
+            "In LXX always curse, except Leviticus 27:28, and the apocryphal books, where it is always gift or offering.",
+            "The sense of excommunication, introduced by patristic writers, does not appear in New Testament."
+        ],
+        "John Calvin": [
+            "That the Galatians, who were otherwise disposed to obey the gospel, might not wander hither and thither, and 'find no rest for the sole of their foot,' (Genesis 8:9,) Paul enjoins them to stand steadfastly by his doctrine.",
+            "He demands such unhesitating belief of his preaching, that he pronounces a curse on all who dared to contradict it.",
+            "When he pronounces a curse on angels who should teach any other doctrine though his argument is derived from an impossibility, it is not superfluous. This exaggerated language must have contributed greatly to strengthen the confidence in Paul\u2019s preaching."
+        ],
+        "Philip Schaff": [
+            "It is impossible to express more strongly and solemnly the conviction of the unerring truth of the gospel as preached by Paul, the zeal for its purity, and the aversion to every heresy.",
+            "The gospel admits of no rival, either in the form of foreign additions or in the form of changes.",
+            "It is a solemn judgment of condemnation as in the name of God."
+        ],
+        "Archibald T. Robertson": [
+            "Preachers have turned away from Christ, alas, and preached 'humanism' or some other new-fangled notion.",
+            "Paul is dogmatic and positive here, for he knows that he is standing upon solid ground, the fact of Christ dying for us and rising again.",
+            "No angel can change Paul now."
+        ],
+        "John Gill": [
+            "It was not possible, that he, or any of his fellow apostles, who had been so clearly led and so fully established in the Gospel of Christ, and of which they had had such a powerful and comfortable experience in their souls, could ever preach one different from it.",
+            "And therefore how should the false apostles, and those who followed them, ever think to escape, since even these would not, should they preach any other Gospel unto you than that which we have preached unto you.",
+            "Let him be ejected from the ministry of the word, degraded from his office, and cast out of the church; let him be no more a minister, nor a member of it; and let him be abhorred of men, and accursed of Christ."
+        ],
+        "John Wesley": [
+            "But if we \u2014 I and all the apostles.",
+            "Or an angel from heaven \u2014 If it were possible.",
+            "Preach another gospel, let him be accursed \u2014 Cut off from Christ and God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Anyone, even an angel, who preaches a different gospel than what Paul preached must be condemned. Paul and his fellow apostles were unwavering in their commitment to the truth of the gospel and understood that no one, regardless of their authority or position, could change it. False teachings and humanistic ideas have caused some preachers to stray from the true gospel, but Paul confidently stands upon the firm foundation of Christ's death and resurrection. His conviction is so strong that he pronounces a curse on anyone who dares to contradict his preaching. The gospel is unchangeable and cannot be compromised by any additions or alterations.",
+            "wordCount": 106,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 2.3765151981485877,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.36,
+            "commentatorTierSimilarities": [
+                30.61,
+                35.64,
+                33.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Anyone, even an angel, who preaches a different gospel than what Paul and his fellow apostles preached is to be accursed. The truth of the gospel is unwavering, and no one, regardless of their authority or position, can change it. False teachings and new-fangled notions have led some preachers astray, but Paul stands firmly on the solid ground of Christ's death and resurrection. His dogmatic and positive language reflects his unwavering conviction and underscores the inadmissibility of any gospel that deviates from the one true message.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.471510355717186,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.52,
+            "commentatorTierSimilarities": [
+                32.24,
+                35.83,
+                31.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is imperative to reject any gospel that contradicts what has already been preached, even if it claims to be a new revelation or is supported by miracles. Respect of persons is inadmissible when the truth is at stake. The curse Paul pronounces on those who teach a different gospel serves to emphasize the unchanging nature of the true gospel. No angel, preacher, or humanistic notion can alter or replace the foundational truth of Christ's sacrifice and resurrection.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.163888531129822,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.29,
+            "commentatorTierSimilarities": [
+                33.35,
+                35.21,
+                31.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul adamantly warns against accepting any gospel other than what he and his fellow apostles preached, even if it comes from an angel or is accompanied by miracles. The existence of a new revelation does not justify rejecting the already established one. Respect for individuals must not overshadow the pursuit of truth. Any gospel that deviates from the one true gospel is both beside and contrary to it. Paul's unwavering confidence in his preaching stems from the solid ground of Christ's death and resurrection.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.189327715344529,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.14,
+            "commentatorTierSimilarities": [
+                33.64,
+                35.37,
+                30.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's strong declaration warns against any gospel other than the one he and his fellow apostles preached, even if it comes from an angel. The truth of the gospel cannot be swayed by new revelations or charismatic preachers. Paul's certainty stems from the unchanging foundation of Christ's death and resurrection, making it clear that no one, not even an angel, can alter the truth of the gospel.",
+            "wordCount": 70,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.5965823488425075,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.68,
+            "commentatorTierSimilarities": [
+                33.81,
+                34.11,
+                32.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

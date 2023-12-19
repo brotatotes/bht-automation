@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:17:26",
+    "verseRef": "Luke 10:8",
+    "bestBHT": {
+        "bht": "When Jesus sent out his disciples, he advised them to eat whatever food was set before them in the cities they entered. This seemingly ordinary instruction reminds preachers of the importance of common politeness and appreciation. It is a lesson that all teachers of young preachers know to be necessary. The guidance was given to both the Twelve and the Seventy, emphasizing its relevance for all disciples. It teaches humility, reminding them to accept and be grateful for even the simplest provisions offered to them.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.2336279931024632,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.36,
+        "commentatorTierSimilarities": [
+            86.41,
+            0.0,
+            13.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Such things as are set before you...from time to time...Every preacher needs this lesson of common politeness.\" ",
+            "These directions may seem perfunctory and even commonplace, but every teacher of young preachers knows how necessary they are.\" ",
+            "Hence they were given both to the Twelve and to the Seventy."
+        ],
+        "John Gill": [
+            "And into whatsoever city ye enter...eat such things as are set before you; though ever so mean, accept of them.\" ",
+            "Do not think anything too good for you, or that you are burdensome and chargeable, but eat as if it were your own.\" ",
+            "But feed upon it without any scruple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus sent out his disciples, he instructed them to eat whatever food was provided for them in the cities they entered. This seemingly ordinary instruction reflects a lesson in common politeness and humility. Even though the food may be simple or humble, the disciples were urged to graciously accept and partake in it. This guidance holds importance for all preachers, emphasizing the need to appreciate and be content with what is given, without considering themselves burdensome. The Twelve and the Seventy were both provided with these directions, highlighting the significance of this teaching for all disciples.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.160682188537922,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.94,
+            "commentatorTierSimilarities": [
+                75.17,
+                0.0,
+                24.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus sent out his disciples, He advised them to eat whatever was offered to them in the cities they visited, teaching them the value of common courtesy. Although seemingly mundane, this guidance holds relevance in its reminder for all preachers to appreciate even the simplest provisions, displaying humility and gratitude. This instruction was given to both the Twelve and the Seventy, underscoring its universal importance for all disciples.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.1416835623626422,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.3,
+            "commentatorTierSimilarities": [
+                87.37,
+                0.0,
+                12.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus sent out his disciples, he instructed them to eat whatever food was set before them in the cities they entered. Though it may seem like a common and perfunctory instruction, it holds great importance for preachers. Accepting and partaking in the provided food with gratitude exemplifies humility and a polite attitude. This advice was given to both the Twelve and the Seventy, emphasizing its necessity for all disciples. Accepting even the simplest of meals demonstrates appreciation and contentment, without considering oneself a burden.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.0417357461457672,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.98,
+            "commentatorTierSimilarities": [
+                67.3,
+                0.0,
+                32.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus instructed his disciples to eat whatever food was offered to them in the cities they visited. This seemingly commonplace advice holds an important lesson for preachers. By accepting and appreciating even the simplest provisions, disciples display humility and gratitude. The guidance was given to both the Twelve and the Seventy, highlighting its universal significance for all followers. It encourages believers not to perceive themselves as burdens or be picky about what is provided, but rather to be content and thankful for what they receive.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.030436422928992,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.61,
+            "commentatorTierSimilarities": [
+                75.09,
+                0.0,
+                24.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus sent out his disciples, he advised them to eat whatever food was set before them in the cities they entered. This seemingly ordinary instruction reminds preachers of the importance of common politeness and appreciation. It is a lesson that all teachers of young preachers know to be necessary. The guidance was given to both the Twelve and the Seventy, emphasizing its relevance for all disciples. It teaches humility, reminding them to accept and be grateful for even the simplest provisions offered to them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.2336279931024632,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.36,
+            "commentatorTierSimilarities": [
+                86.41,
+                0.0,
+                13.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

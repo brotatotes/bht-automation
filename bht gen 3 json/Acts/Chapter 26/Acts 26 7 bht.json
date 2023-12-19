@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:36:53",
+    "verseRef": "Acts 26:7",
+    "bestBHT": {
+        "bht": "The accusation hurled at Paul of sedition is merely a pretext, for the true difference lies in the hope and promise that Paul had already achieved, while the Jews had yet to reach it. Paul speaks of the twelve tribes, symbolizing the unity and worship of the scattered Jewish nation, anchored in the ancient promise and hope of its coming fulfillment. This Messianic hope, a thread woven throughout Jewish history, sadly remains tattered for those who fail to recognize Jesus as the Messiah. Through Jesus, Paul found the beginning of the promise fulfilled and eternal life with God.",
+        "wordCount": 98,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 2.286842442301074,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.38,
+        "commentatorTierSimilarities": [
+            31.65,
+            40.23,
+            28.11
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There was a difference between Paul and the Jews, which lies beneath the surface of this verse, but is yet not brought out.",
+            "He had already arrived at the accomplishment of this hope, to which they, with all their sacrifices and zeal, were as yet only earnestly tending.",
+            "It was concerning this hope (in what sense appears not yet) that he was accused by the Jews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The apostle rises into language as catholic as the thought\u2014representing his despised nation, all scattered thought it now was, as twelve great branches of one ancient stem, in all places of their dispersion offering to the God of their fathers one unbroken worship, reposing on one great 'promise' made of old unto their fathers, and sustained by one 'hope' of 'coming' to its fulfilment.",
+            "[Paul] rises into language as catholic as the thought\u2014representing his despised nation, all scattered though it now was, as twelve great branches of one ancient stem, in all places of their dispersion offering to the God of their fathers one unbroken worship, reposing on one great 'promise' made of old unto their fathers, and sustained by one 'hope' of 'coming' to its fulfilment.",
+            "The charge of sedition is not so much as alluded to throughout this speech. It was indeed a mere pretext."
+        ],
+        "Albert Barnes": [
+            "Unto which promise - To the fulfillment of which promise they hope to come; that is, they hope and believe that the promise will be fulfilled, and that they will partake of its benefits.",
+            "But the name, 'the twelve tribes,' as used to designate the Jewish people, would be still retained. Compare James 1:1. Paul here says that the hope referred to had been that of the Jewish nation.",
+            "And on this ground he put his defense - that he held only what the mass of the nation had believed, and that he maintained this in the only consistent and defensible manner that God had, in fact, raised up the Messiah, and had thus given assurance that the dead would rise."
+        ],
+        "Marvin Vincent": [
+            "Twelve tribes [\u03b4\u03c9\u03b4\u03b5\u03ba\u03b1\u03c6\u03c5\u03bb\u03bf\u03bd] . Only here in New Testament. A collective term, embracing the tribes as a whole.\" ",
+            "Instantly [\u03b5\u03bd \u03b5\u03ba\u03c4\u03b5\u03bd\u03b5\u03b9\u03b1] . Only here in New Testament. Lit., in intensity.\" ",
+            "Come [\u03ba\u03b1\u03c4\u03b1\u03bd\u03c4\u03b7\u03c3\u03b1\u03b9] . Lit., to arrive at, as if at a goal."
+        ],
+        "John Calvin": [
+            "To what end do those of our nation, who worship God carefully, and spend both days and nights in the duties of godliness, sigh in their prayers, save only that they may at length come unto eternal life?",
+            "When the grace of redemption is set before men, the gate of the kingdom of heaven is set open therewithal.",
+            "If we will prove that we think as the true Church thinketh, we must begin with the prophets and apostles; then those must be gathered unto them whose godliness is known and manifest."
+        ],
+        "Philip Schaff": [
+            "The apostle, on the contrary, represents the whole body of the twelve tribes as alike serving God (with the special service of worship) day and night.",
+            "This fact was certainly recognised by both Paul and James some eighteen centuries ago. It is therefore inaccurate to speak, as is usually the practice, of the lost ten tribes.",
+            "In the Crucified and Risen Jesus of Nazareth, Paul knew that the beginning of the promise was reached, that the long-looked-for hope was accomplished, and that eternal life with God had begun for himself and all who recognised this Jesus as Messiah. Had He not vanquished death? Was He not the first-born of the new race who, through the gates of death, had entered into life?"
+        ],
+        "Archibald T. Robertson": [
+            "Paul's use of this word for the Jewish people, like James 1:1 (\u03c4\u03b1\u03b9\u03c2 \u03b4\u03c9\u03b4\u03b5\u03ba\u03b1 \u03c6\u03c5\u03bb\u03b1\u03b9\u03c2, the twelve tribes), shows that Paul had no knowledge of any 'lost ten tribes.'\" (Commentary)",
+            "There is a certain national pride and sense of unity in spite of the dispersion.\" (Commentary)",
+            "This Messianic hope had been the red thread running through Jewish history. Today, alas, it is a sadly worn thread for Jews who refuse to see the Messiah in Jesus.\" (Commentary)"
+        ],
+        "John Gill": [
+            "Our twelve tribes, instantly serving God day and night hope to come; and enjoy the Messiah, and all blessings along with him; and the happy state of the resurrection and eternal life.",
+            "The people of Israel were distinguished into twelve tribes, according to the names of the twelve patriarchs, the sons of Jacob... there were many of the several tribes, who either were left in the land, or returned along with the two tribes, and were mixed with them.",
+            "He here represents the Israelites as a worshipping assembly, serving God continually, night and day, as they were by their representatives, the priests and stationary men in the temple; and that with intenseness, ardour, and fervency, as the word rendered 'instantly' signifies being in a longing and earnest expectation of the coming of the Messiah, and of his world to come, and of the resurrection of the dead, and a future state of happiness."
+        ],
+        "John Wesley": [
+            "Our twelve tribes \u2014 For a great part of the ten tribes also had at various times returned from the east to their own country.\" ",
+            "Worshipping continually night and day \u2014 That is, this is what they aim at in all their public and private worship."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews, accused Paul of being seditious, yet Paul's defense focused on a deeper difference between him and the Jews, which was their hope and promise. He spoke of the twelve tribes, representing the unity and resilience of their scattered nation, offering unwavering worship, sustained by the ancient promise and hope of its fulfillment. Paul's use of the term twelve tribes emphasized the national pride and unity, dispelling the notion of any lost ten tribes. This hope had been the thread through Jewish history, but unfortunately, many Jews fail to see Jesus as the fulfillment of this Messianic hope. In Jesus, Paul found the beginning of the promise and the assurance of eternal life.",
+            "wordCount": 116,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1508914174538645,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.86,
+            "commentatorTierSimilarities": [
+                30.13,
+                39.87,
+                30.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The difference between Paul and the Jews lies in their hope and promise of the coming fulfillment. Paul refers to the twelve tribes, symbolizing the unity and worship of their scattered nation. This represents a national pride and sense of unity, dispelling the idea of lost tribes. The Messianic hope, deeply rooted in Jewish history, finds its fulfillment in Jesus, the one who conquered death and ushered in eternal life. Unfortunately, many Jews fail to recognize Jesus as the fulfillment of their hope.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.063522864489153,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+            "commentatorTierSimilarities": [
+                30.01,
+                37.76,
+                32.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's defense against accusations by the Jews focused on a deeper difference - the hope and promise that he had already accomplished, while they were still earnestly tending towards it. He spoke of the twelve tribes, representing the unity and worship of the scattered Jewish nation, sustained by the ancient promise and hope of its fulfillment. This hope, running through Jewish history, is unfortunately lost on those who refuse to see Jesus as the Messiah. In Jesus, Paul found the beginning of the promise fulfilled, eternal life with God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.2038810973504677,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.62,
+            "commentatorTierSimilarities": [
+                30.92,
+                40.53,
+                28.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The accusation hurled at Paul of sedition is merely a pretext, for the true difference lies in the hope and promise that Paul had already achieved, while the Jews had yet to reach it. Paul speaks of the twelve tribes, symbolizing the unity and worship of the scattered Jewish nation, anchored in the ancient promise and hope of its coming fulfillment. This Messianic hope, a thread woven throughout Jewish history, sadly remains tattered for those who fail to recognize Jesus as the Messiah. Through Jesus, Paul found the beginning of the promise fulfilled and eternal life with God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.286842442301074,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.38,
+            "commentatorTierSimilarities": [
+                31.65,
+                40.23,
+                28.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's defense against accusations by the Jews uncovered a deeper difference - his hope and fulfillment had already been accomplished, while the Jews were still earnestly seeking it. He spoke of the twelve tribes, representing the unity and worship of the scattered Jewish nation, sustained by the ancient promise and hope of its fulfillment. This Messianic hope, running through Jewish history, remains worn for those who refuse to recognize Jesus as the Messiah, the one who conquered death and brought eternal life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.2825862592109143,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.24,
+            "commentatorTierSimilarities": [
+                30.75,
+                40.06,
+                29.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

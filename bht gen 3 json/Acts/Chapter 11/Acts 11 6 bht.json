@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:29:30",
+    "verseRef": "Acts 11:6",
+    "bestBHT": {
+        "bht": "The protagonist's focused observation and deep reflection, conveyed by terms like fastened my eyes, ponder, and saw in a flash, highlight the profound importance of the vision. While the vision itself was not a tangible reality, but rather a symbolic representation, the protagonist's attentive consideration points to a desire to seek understanding. The vision's meaning was not explicitly displayed on the sheet, but rather stood or walked upon it, requiring the protagonist to carefully ponder its significance and implications.",
+        "wordCount": 82,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.2534998480940729,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+        "commentatorTierSimilarities": [
+            17.84,
+            36.75,
+            45.41
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "I considered. See on Matthew 8:3; Luke 22:24, Luke 22:27."
+        ],
+        "Philip Schaff": [
+            "This, again, is an addition of value, both because of the animation it communicates to this narrative, and because the argument is strengthened by the fact that he deliberately inspected and reflected on what he saw in the trance.",
+            "It adds to the emphasis of the surprise felt by him on contemplating a multitude of all kinds of animals, and hearing a command giving sanction for his eating of them indiscriminately."
+        ],
+        "Archibald T. Robertson": [
+            "When I had fastened my eyes...to stretch the eyes towards, first aorist active participle here.\" ",
+            "I considered...to put the mind down on, to ponder, I was pondering.\" ",
+            "And saw...saw in a flash."
+        ],
+        "John Gill": [
+            "Not of his body, but of his mind; for this was only in vision presented to him, when he was as Paul was, not knowing whether in the body or out of it.",
+            "Being intent upon this object, he considered in his mind what it was, and what it should mean...",
+            "Not portrayed upon the sheet, but standing or walking upon it..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 11:6, the narrator describes how the protagonist, likely Paul, carefully observed and reflected on a vision he had. The use of words like fastened my eyes, ponder, and saw in a flash suggest that he deeply contemplated what he was seeing. This added attention and reflection emphasize the surprise and significance of the vision. While the full meaning may not have been immediately clear, the protagonist's mental focus and consideration indicate that he was trying to discern the purpose behind the vision. The vision itself was not a physical reality, but rather a symbolic representation of a message or direction.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.264139497160007,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.38,
+            "commentatorTierSimilarities": [
+                17.69,
+                37.46,
+                44.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the protagonist's attentive and deliberate observation, as indicated by phrases like fastened my eyes, ponder, and saw in a flash, underscores the significance of the vision. The protagonist's careful consideration and reflection suggest a desire to comprehend the meaning behind the vision, even though it was not portrayed literally on the sheet. This vision served as a symbolic representation, presented to the protagonist's mind rather than his physical body, prompting him to contemplate its significance and message.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.3329613929805342,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.66,
+            "commentatorTierSimilarities": [
+                16.7,
+                35.96,
+                47.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The protagonist's focused observation and deep reflection, conveyed by terms like fastened my eyes, ponder, and saw in a flash, highlight the profound importance of the vision. While the vision itself was not a tangible reality, but rather a symbolic representation, the protagonist's attentive consideration points to a desire to seek understanding. The vision's meaning was not explicitly displayed on the sheet, but rather stood or walked upon it, requiring the protagonist to carefully ponder its significance and implications.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2534998480940729,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+            "commentatorTierSimilarities": [
+                17.84,
+                36.75,
+                45.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this instance, the protagonist partakes in a visual experience, described as diligently fixing their gaze, contemplating, and perceiving in an instant. Although the vision does not manifest physically, it presents a symbolic and figurative representation. The protagonist's focused scrutiny indicates a quest for comprehension. While the vision's import is not explicitly conveyed through the sheet itself, it is symbolically portrayed through standing or walking upon it, necessitating the protagonist's thoughtful consideration of its meanings and implications.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.0338914141452613,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.72,
+            "commentatorTierSimilarities": [
+                11.35,
+                40.51,
+                48.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The protagonist demonstrates a deep level of attentiveness and reflection, as depicted by their act of intently fixing their gaze, pondering, and perceiving the vision instantaneously. Although the vision does not manifest physically, it is portrayed in a symbolic manner. The protagonist's deliberate scrutiny suggests a genuine desire to discern the purpose and significance behind the vision. While the exact meaning may not be evident from the physical sheet itself, it is symbolically conveyed by entities standing or walking upon it, prompting the protagonist to contemplate its implications and interpretations.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.1036989844220801,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.04,
+            "commentatorTierSimilarities": [
+                14.77,
+                35.7,
+                49.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

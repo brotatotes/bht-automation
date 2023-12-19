@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:18:37",
+    "verseRef": "Luke 11:40",
+    "bestBHT": {
+        "bht": "He who made the outside also made the inside, so why focus solely on cleansing the external when the internal also needs to be purified? Simply washing the outer surface of a cup or platter while neglecting to clean the inside would be pointless. It is important to understand that true righteousness goes beyond appearances and rituals. Instead, it involves having a genuine inner transformation and a compassionate spirit towards others. Cleansing must extend to both the outward and inward aspects, for inward righteousness with a brotherly spirit leads to a truly clean and pleasing life.",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.612212169799685,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+        "commentatorTierSimilarities": [
+            32.06,
+            25.6,
+            42.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Did not He, who made the outside, make the inside also?",
+            "If His works have become unclean and polluted through sin, what is the use of only partially purging them?",
+            "Must not the cleansing, to be good for anything, extend to the whole?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "40. that which is without,",
+            "\t&amp;c.\u2014that is, He to whom belongs the outer life, and right to",
+            "\tdemand its subjection to Himself\u2014is the inner man less His?"
+        ],
+        "Albert Barnes": [
+            "Ye fools - How unwise and wicked is your conduct!",
+            "Your conduct is not merely 'foolish,' but it is a cloak for sin - designed to countenance wickedness.",
+            "Did not he ... Did not God, who made the 'body,' make also the 'soul?' You Pharisees take great pains to cleanse the 'body,' under a pretence of pleasing 'God.' Did 'he' not also make the 'mind?' and is it not of as much importance that 'that' should be pure, as that the body should?"
+        ],
+        "Philip Schaff": [
+            "Such a partial cleansing is no cleansing: all such religious acts are supposed to have reference to God, to holiness before Him.",
+            "He made the inside as well as the outside, the ceremonial purification of the latter without the real sanctification of the former is folly as well as wickedness.",
+            "The folly of such a contradiction is shown."
+        ],
+        "Archibald T. Robertson": [
+            "Instead of devoting so much attention to the outside.",
+            "Have inward righteousness with a brotherly spirit and the outward becomes 'clean'.",
+            "Properly understood, this is not irony and is not Ebionism, but good Christianity."
+        ],
+        "John Gill": [
+            "Whoever washes a cup or platter, but washes and makes clean the inside, as well as the outside?\" ",
+            "You who are so very careful to have your cups and platters clean, should be as careful what you put in them, that they are clean also.",
+            "The purity of the [soul] should be regarded, as well as that of the [body]."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He who made the outside also made the inside, so why focus solely on cleansing the external when the internal also needs to be purified? Simply washing the outer surface of a cup or platter while neglecting to clean the inside would be pointless. It is important to understand that true righteousness goes beyond appearances and rituals. Instead, it involves having a genuine inner transformation and a compassionate spirit towards others. Cleansing must extend to both the outward and inward aspects, for inward righteousness with a brotherly spirit leads to a truly clean and pleasing life.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.612212169799685,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                32.06,
+                25.6,
+                42.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He who made the outside also made the inside, so why focus solely on cleansing the external when the internal also needs to be purified? Simply washing the outer surface while neglecting the inside would be pointless. It is important to understand that true righteousness goes beyond appearances and rituals. Instead, it involves having a genuine inner transformation and a compassionate spirit towards others. Cleansing must extend to both the outward and inward aspects, for inward righteousness with a brotherly spirit leads to a truly clean and pleasing life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5958988432433399,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.41,
+            "commentatorTierSimilarities": [
+                34.93,
+                26.99,
+                38.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If the one who made the outside also made the inside, then why focus only on purifying the external while neglecting the internal? It is futile to cleanse only the surface without addressing the deeper impurities. True righteousness goes beyond mere appearances and external rituals. Instead, it requires a thorough purification of both the outward and inward aspects of our being. When we pursue inner righteousness accompanied by a spirit of kindness towards others, our lives become truly cleansed and pleasing to God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.5957641899650026,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.4,
+            "commentatorTierSimilarities": [
+                34.38,
+                32.64,
+                32.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why focus solely on cleansing the external when the internal also needs to be purified? True righteousness requires a thorough purification of both the outward appearance and the inner being. It is not enough to superficially wash the outside while neglecting the inside. This process of cleansing must extend to every aspect of our lives, encompassing both our actions and our attitudes. When we embrace inner righteousness and demonstrate a compassionate spirit towards others, our lives become truly clean and pleasing in the eyes of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.5509615272849695,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.91,
+            "commentatorTierSimilarities": [
+                32.23,
+                27.96,
+                39.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Why focus solely on cleansing the external when the internal also needs to be purified? True righteousness requires a thorough cleansing of both the outward appearance and the inner being. It is insufficient to merely wash the outside while neglecting the inside. This cleansing must encompass every facet of our lives, including our actions and attitudes. When we pursue inner righteousness with a compassionate spirit towards others, our lives become truly clean and pleasing to God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5795316078792294,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+            "commentatorTierSimilarities": [
+                33.32,
+                28.89,
+                37.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

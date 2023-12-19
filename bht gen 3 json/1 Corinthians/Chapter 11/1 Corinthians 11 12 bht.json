@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:11:53",
+    "verseRef": "1 Corinthians 11:12",
+    "bestBHT": {
+        "bht": "In Corinthians 11:12, the Christian life is in accordance with God's original ordinance. Just as woman was taken out of man and man is born through woman, they depend on one another, both ultimately relying on God. The glory and dignity of motherhood are highlighted, emphasizing the art of motherhood as a part of God's creation. The authority of man over woman and the subjection of woman to man are not human constructs but established by God's wise counsel, to be humbly accepted by both.",
+        "wordCount": 87,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 2.016136661094527,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.38,
+        "commentatorTierSimilarities": [
+            37.41,
+            27.87,
+            34.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And in this, the Christian life accords with the original ordinance of God.",
+            "For as the woman is (was taken, Gen. ii. 21 f.) out of the man, so the man (is born, in the propagation of the human race) by means of the woman.",
+            "They are dependent on one another, but both on HIM: the Christian life, therefore, which unites them in Christ, is agreeable to God\u2019s ordinance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the woman was formed out of the man, even so is man born by means of woman.",
+            "All things (including both man and woman) are from God as their source.",
+            "They depend mutually each on the other, and both on him."
+        ],
+        "Albert Barnes": [
+            "The sexes are dependent on each other, and should therefore cultivate an indissoluble union.",
+            "All things were created and arranged by him.",
+            "The woman should therefore be contented, and the man should not assume any improper superiority, since the whole arrangement and appointment is of God."
+        ],
+        "John Calvin": [
+            "For this remains a settled point \u2014 that it is not good for man to be alone (Genesis 2:18.)",
+            "God is the Source of both sexes, and hence both of them ought with humility to accept and maintain the condition which the Lord has assigned to them.",
+            "He again sets forth nature as the mistress of decorum, and what was at that time in common use by universal consent and custom \u2014 even among the Greeks \u2014 he speaks of as being natural."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 11:12. For as the woman is of (\u2018out of\u2019) the man, so also is the man by (\u2018through\u2019) the woman in his birth; but all things are of God.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Ever since the first creation man has come into existence by means of the woman.\" ",
+            "The glory and dignity of motherhood.\" ",
+            "The Fine Art of Motherhood."
+        ],
+        "John Gill": [
+            "there is no reason why the woman should be despised, or the man should be lifted up with himself above her, since they are so dependent upon, and so useful to each other.",
+            "The authority of the man over the woman, and the subjection of the woman to the man, are of God, and according to his constitution and appointment.",
+            "These are not things of human constitution, but are settled by the wise counsel of God, and therefore to be cheerfully submitted to, as the best order of things."
+        ],
+        "John Wesley": [
+            "And as the woman was at first taken out of the man, so also the man is now, in the ordinary course of nature, by the woman.",
+            "But all things are of God - The man, the woman, and their dependence on each other.",
+            "The man, the woman, and their dependence on each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Corinthians 11:12, we see the Christian life aligning with God's original design. Just as woman was formed out of man and man is born through woman, they depend on one another but ultimately on God. This reminds us of the glory and dignity of motherhood, highlighting the fine art of motherhood as a beautiful part of God's creation. The sexes are meant to be in an indissoluble union, as all things, including man and woman, are from God. It is important to recognize that the authority of man over woman and the subjection of woman to man are not human constructs, but rather established by God's wise counsel. Therefore, both man and woman should humbly accept and maintain the roles assigned to them by the Lord.",
+            "wordCount": 129,
+            "quoteTokenProportion": 46.34,
+            "qualityScore": 1.9845609337406291,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+            "commentatorTierSimilarities": [
+                33.55,
+                30.32,
+                36.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Corinthians 11:12, the Christian life is in accordance with God's original ordinance. Just as woman was taken out of man and man is born through woman, they depend on one another, both ultimately relying on God. The glory and dignity of motherhood are highlighted, emphasizing the art of motherhood as a part of God's creation. The authority of man over woman and the subjection of woman to man are not human constructs but established by God's wise counsel, to be humbly accepted by both.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.016136661094527,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.38,
+            "commentatorTierSimilarities": [
+                37.41,
+                27.87,
+                34.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Corinthians 11:12, the Christian life aligns with God's original design. Woman was formed out of man, and man is born through woman; they depend on each other, but both ultimately rely on God. This underscores the significance of motherhood, highlighting it as a fine art of God's creation. The authority of man over woman and the subjection of woman to man are not human constructs but are established by God's wise counsel, to be humbly accepted by both.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.947445072247028,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.09,
+            "commentatorTierSimilarities": [
+                37.34,
+                27.56,
+                35.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Corinthians 11:12, the Christian life aligns with God's original design. As woman was formed from man and man is born through woman, the interdependence of both sexes is evident. They rely on each other, but ultimately their dependence is on God. The glory and dignity of motherhood are celebrated, highlighting it as a beautiful art form of divine creation. The authority of man over woman and the subjection of woman to man are not human constructs, but established by God's wise counsel to be respectfully embraced.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.842773329010795,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                36.83,
+                27.26,
+                35.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Corinthians 11:12, the Christian life adheres to God's original ordinance. Since woman was taken out of man and man is born through woman, they are inextricably linked, dependent on one another, and ultimately dependent on God. The beauty and honor of motherhood are emphasized, emphasizing it as a precious art form embedded in God's creation. The authority of man over woman and the subjection of woman to man are not man-made constructs, but divinely ordained and should be accepted with humility.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.9060837604348484,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                36.12,
+                28.09,
+                35.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

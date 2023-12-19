@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:13:33",
+    "verseRef": "Luke 1:66",
+    "bestBHT": {
+        "bht": "People couldn't help but wonder what the future held for this child as they observed the supernatural events surrounding his birth. They recognized the hand of the Lord, a sign of divine aid and favor, marking him out for some great work. With the special care and providence of God evident in his life, it was clear that this child was destined for a significant role. The hand of the Lord, symbolizing God's power and blessing, was upon him in a way that left no doubt about his extraordinary purpose.",
+        "wordCount": 92,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.6285423352355424,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+        "commentatorTierSimilarities": [
+            20.79,
+            29.01,
+            50.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For also...\" A remark inserted by the Evangelist himself.",
+            "The for refers back to the question just asked.",
+            "And they might well enquire thus, for..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "66. hand of the Lord was with him\u2014by",
+            "\tspecial tokens marking him out as one destined to some great work",
+            "\t(1 Kings 18:46; 2 Kings 3:15;",
+            "\tActs 11:21)."
+        ],
+        "Albert Barnes": [
+            "Such were the remarkable circumstances of his birth that they apprehended that he would be distinguished as a prophet, or that great events would result from his life.",
+            "The word 'hand' is used to denote 'aid, protection, favor.' We stretch out the hand to aid those whom we wish to help.",
+            "The expression here means that God 'aided' him, 'protected' him, or showed him favor."
+        ],
+        "Philip Schaff": [
+            "What then shall this child be?",
+            "For indeed.",
+            "The hand, etc."
+        ],
+        "Archibald T. Robertson": [
+            "With all these supernatural happenings they predicted the marvellous career of this child.\" ",
+            "They laid them up as Mary did.",
+            "The hand of the Lord. Luke's explanation in addition to the supernatural events."
+        ],
+        "John Gill": [
+            "Surely he must be designed in providence to be put into some high station, and some eminent work and service; since so many, and such great things, have gone before, and attended his birth.",
+            "The hand of the Lord was with him; which may intend the special care, and peculiar providence of God in preserving his life, giving him health, causing him to grow strong and robust, and in stature of body, and in endowments of mind.",
+            "The hand of the Lord, with the Jews, is the Holy Ghost."
+        ],
+        "John Wesley": [
+            "The hand of the Lord \u2014 The peculiar power and blessing of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With all the supernatural events surrounding his birth, it comes as no surprise that people were filled with wonder about the future of this child. They recognized that the hand of the Lord was with him, a sign of divine aid and favor, marking him out for some great work. The miraculous circumstances inspired them to ponder what this child would become. Surely, with the special care and providence of God evident in his life, he was destined for a significant role, as many remarkable things had already accompanied his birth. The hand of the Lord, a symbol of God's power and blessing, was upon him.",
+            "wordCount": 107,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.5659149745895027,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.41,
+            "commentatorTierSimilarities": [
+                21.35,
+                29.48,
+                49.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "People couldn't help but wonder what the future held for this child as they observed the supernatural events surrounding his birth. They recognized the hand of the Lord, a sign of divine aid and favor, marking him out for some great work. With the special care and providence of God evident in his life, it was clear that this child was destined for a significant role. The hand of the Lord, symbolizing God's power and blessing, was upon him in a way that left no doubt about his extraordinary purpose.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.6285423352355424,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                20.79,
+                29.01,
+                50.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In light of the supernatural events surrounding his birth, it is no wonder that people pondered what the future held for this child. They recognized the hand of the Lord, a sign of divine aid and favor, marking him for a significant work. With the special care and providence of God evident in his life, it was clear that he was destined for something extraordinary. The hand of the Lord, symbolizing God's power and blessing, was upon him, inspiring awe and anticipation for his remarkable journey.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5735449011724967,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                20.19,
+                27.22,
+                52.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It was natural for people to wonder about the future of this child given the supernatural events surrounding his birth. They recognized the hand of the Lord, a sign of divine aid and favor, marking him out for a great work. The special care and providence of God evident in his life indicated that he was destined for something remarkable. The hand of the Lord, symbolizing God's power and blessing, was upon him, inspiring anticipatory awe for the incredible path that lay ahead.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.584395292055155,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.02,
+            "commentatorTierSimilarities": [
+                21.3,
+                27.24,
+                51.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With all the supernatural events attending this child's birth, it is no wonder that people wondered about his future. They recognized the hand of the Lord, a sign of divine aid and favor, marking him for great things. The special care and providence of God evident in his life pointed to an extraordinary destiny. The hand of the Lord, symbolizing God's power and blessing, was upon him, inspiring anticipation and excitement for the remarkable calling that awaited him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.5747634585593975,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+            "commentatorTierSimilarities": [
+                21.87,
+                26.37,
+                51.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

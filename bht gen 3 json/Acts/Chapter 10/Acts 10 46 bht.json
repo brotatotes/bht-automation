@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:29:22",
+    "verseRef": "Acts 10:46",
+    "bestBHT": {
+        "bht": "Having the living discipleship imparted to them and visibly stamped upon them, what objection can there be to admitting them, by the seal of baptism, into the full fellowship of the Church? This sudden manifestation of the Holy Spirit's power on uncircumcised Gentiles was probably necessary to convince Peter and the six brethren of the circumcision that God had opened the door wide to Gentiles. They heard them speak with tongues and magnify God, expressing their praise and thanksgiving for God's grace and mercy bestowed on them.",
+        "wordCount": 89,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.9071578913940805,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+        "commentatorTierSimilarities": [
+            44.02,
+            21.3,
+            34.68
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Mark, he does not say, They have received the Spirit, what need have they for water? but, Having the living discipleship imparted to them and visibly stamped upon them, what objection can there be to admitting them, by the seal of baptism, into the full fellowship of the Church?",
+            "Can any man forbid water . . . which have received the Holy Ghost, &amp;c.",
+            "what objection can there be to admitting them, by the seal of baptism, into the full fellowship of the Church?"
+        ],
+        "Albert Barnes": [
+            "Speak with tongues - In other languages than their own native tongue, Acts 2:4.",
+            "And magnify God - And praise God."
+        ],
+        "John Calvin": [
+            "They had variety of tongues given them, so that they did glorify God with many tongues.",
+            "The tongues were given them not only for necessity... but also to be an ornament and worship to the gospel.",
+            "Ambition did afterward corrupt this second use... which they had received to set forth the dignity of the heavenly wisdom."
+        ],
+        "Philip Schaff": [
+            "Acts 10:46. They heard them speak with tongues. It is not said here, as in Acts 2:4, that they spoke with other tongues. See note above on Acts 10:44.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They heard (\u03b7\u03ba\u03bf\u03c5\u03bf\u03bd). Imperfect active, were hearing, kept on hearing.",
+            "Speak (\u03bb\u03b1\u03bb\u03bf\u03c5\u03bd\u03c4\u03c9\u03bd). Present active participle, speaking, for they kept it up.",
+            "This sudden manifestation of the Holy Spirit's power on uncircumcised Gentiles was probably necessary to convince Peter and the six brethren of the circumcision that God had opened the door wide to Gentiles."
+        ],
+        "John Gill": [
+            "For they heard them speak with tongues... and magnify God.\" ",
+            "They spoke greatly in the praise of God, and gave thanks for his rich grace and mercy bestowed on them.",
+            "Then answered Peter; as follows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Having the living discipleship imparted to them and visibly stamped upon them, it is clear that there is no objection to admitting them into the full fellowship of the Church through the seal of baptism. This sudden manifestation of the Holy Spirit's power on uncircumcised Gentiles was necessary to convince Peter and the others that God had opened the door wide to Gentiles. They heard them speak with tongues and magnify God, an outward expression of their praise and thanksgiving for God's grace and mercy bestowed upon them.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8638702363511208,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                43.17,
+                21.6,
+                35.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having the living discipleship visibly stamped upon them, there is no objection to admitting them into the full fellowship of the Church through baptism. This sudden manifestation of the Holy Spirit's power on Gentiles was necessary to convince Peter and others that God had opened the door wide to them. They heard them speak with tongues and magnify God, expressing their praise and thanksgiving for God's grace and mercy.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.841335147690596,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                40.89,
+                22.51,
+                36.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Having the living discipleship visibly stamped upon them, there is no objection to admitting them into the full fellowship of the Church through baptism. This sudden manifestation of the Holy Spirit's power on Gentiles was necessary to convince Peter and others that God had opened the door wide to them. They heard them speak with tongues and magnify God, expressing their praise and thanksgiving for God's grace and mercy.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.841335147690596,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                40.89,
+                22.51,
+                36.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sudden manifestation of the Holy Spirit's power on uncircumcised Gentiles was necessary to convince Peter and the other disciples that God had opened the door wide to them. They heard the Gentiles speak with tongues and magnify God, expressing their praise and thanksgiving for God's grace and mercy. Having the living discipleship visibly stamped upon them, there was no objection to admitting them into the full fellowship of the Church through the seal of baptism.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.87553048419941,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                43.3,
+                21.6,
+                35.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Having the living discipleship imparted to them and visibly stamped upon them, what objection can there be to admitting them, by the seal of baptism, into the full fellowship of the Church? This sudden manifestation of the Holy Spirit's power on uncircumcised Gentiles was probably necessary to convince Peter and the six brethren of the circumcision that God had opened the door wide to Gentiles. They heard them speak with tongues and magnify God, expressing their praise and thanksgiving for God's grace and mercy bestowed on them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9071578913940805,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                44.02,
+                21.3,
+                34.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

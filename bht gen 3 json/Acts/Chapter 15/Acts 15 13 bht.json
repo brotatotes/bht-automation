@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:31:40",
+    "verseRef": "Acts 15:13",
+    "bestBHT": {
+        "bht": "James, the representative of the strictest adherence to the pure standard of legal morality, silenced the disputers alongside Peter and gave his judgment in favor of the freedom of the Gentiles. As the head of the church in Jerusalem, his decision carried weight despite his conservative reverence for Jewish usages. James, holding an authority not less than Peter, recommended a few general restrictive rules for the Gentiles to observe while maintaining their worldly relations. His unique distinction as the brother of the Lord and faithful observance of the Mosaic law made him well-suited for this role.",
+        "wordCount": 97,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 2.2495262906883946,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.14,
+        "commentatorTierSimilarities": [
+            34.37,
+            38.88,
+            26.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For he is, among all the sacred writers of the New Test., the representative of the strictest adherence to and loftiest appreciation of the pure standard of legal morality.",
+            "All that the law was, from its intrinsic holiness, justice, and goodness, capable of being to Christians, he would be sure to attribute to it.",
+            "And therefore when his judgment, as well as that of Peter, is given in favour of the freedom of the Gentiles, the disputers, even of the Pharisaic party, are silenced."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whoever this James was (see on :-), he was the acknowledged head of the church at Jerusalem.",
+            "His decision, though given as his own judgment only, could not be of great weight with the opposing party, from his conservative reverence for all Jewish usages within the circle of Israelitish Christianity."
+        ],
+        "Albert Barnes": [
+            "This whole transaction shows that Peter had no such authority in the church as the papists pretend, for otherwise his opinion would have been followed without debate.",
+            "James had an authority not less than that of Peter.",
+            "It is possible that he might have been next in age and it seems morally certain that he remained for a considerable part of his life in Jerusalem."
+        ],
+        "Marvin Vincent": [
+            "James. See Introduction to Catholic Epistles."
+        ],
+        "John Calvin": [
+            "And assuredly Eusebius, in the beginning of his Second Book, is not afraid to call James, whosoever he were, the Bishop of the Apostles.",
+            "Because we can do nothing but depart farther and farther from him, until such time as his fatherly look prevent us of his own accord.",
+            "The salvation of the Gentiles is grounded in the power or name of God, and that God did respect no other thing in calling them but his own glory."
+        ],
+        "Philip Schaff": [
+            "James, the so-called brother of the Lord...occupied a peculiar position of authority among the Jerusalem Christians.\" ",
+            "He possessed two qualifications which marked him out for this peculiar distinction, his relationship after the flesh to the risen Jesus, and his faithful observance of the Mosaic law and ordinances.\" ",
+            "His view, as president of the Council, was: that these strangers ought not to be troubled with these burdens; only, for love\u2019s sake not to offend too deeply the tender consciences of scrupulous Jews...he recommended a very few general restrictive rules of life, which these Gentiles might honestly observe without breaking off or even endangering their relations with the world in which they lived and worked."
+        ],
+        "Archibald T. Robertson": [
+            "after the becoming silent (ingressive aorist active of the articular infinitive) as to them",
+            "It was expected that James, as President of the Conference, would speak last.",
+            "More likely he was asked to preside because of his great gifts and character as chief of the elders."
+        ],
+        "John Gill": [
+            "And after they had held their peace... James answered; or rose up, as the Syriac version reads, he stood up and began to speak.\" (Commentary)",
+            "This was James the son of Alphaeus, one of the twelve apostles, sometimes called the brother of the Lord... he was now bishop or pastor of the church at Jerusalem, is not certain; nor whether he was president in this council.\" (Commentary)",
+            "He began his oration thus, saying, men and brethren, hearken to me; the titles he uses, and the manner of desiring audience, were what were common with the Jews.\" (Commentary)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "James, the representative of the strictest adherence to the pure standard of legal morality, along with Peter, silenced the disputers and gave his judgment in favor of the freedom of the Gentiles. As the acknowledged head of the church in Jerusalem, his decision carried weight, despite his conservative reverence for Jewish usages. James, occupying a position of authority among the Jerusalem Christians, recommended a few general restrictive rules for the Gentiles to observe without severing their relations with the world. His unique distinction as the brother of the Lord and his faithful observance of the Mosaic law made him well-suited for this role.",
+            "wordCount": 104,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 2.2551397272938645,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.32,
+            "commentatorTierSimilarities": [
+                34.49,
+                38.33,
+                27.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "James, the representative of the strictest adherence to the pure standard of legal morality, silenced the disputers alongside Peter and gave his judgment in favor of the freedom of the Gentiles. As the head of the church in Jerusalem, his decision carried weight despite his conservative reverence for Jewish usages. James, holding an authority not less than Peter, recommended a few general restrictive rules for the Gentiles to observe while maintaining their worldly relations. His unique distinction as the brother of the Lord and faithful observance of the Mosaic law made him well-suited for this role.",
+            "wordCount": 97,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.2495262906883946,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.14,
+            "commentatorTierSimilarities": [
+                34.37,
+                38.88,
+                26.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "James, the representative of the strictest adherence to the pure standard of legal morality, alongside Peter, silenced the disputers, even those from the Pharisaic party. As the acknowledged head of the church in Jerusalem, his decision held weight, despite his conservative reverence for Jewish usages. James, occupying a position of authority among the Jerusalem Christians, recommended a few general restrictive rules for the Gentiles that they could honestly observe without severing their relations with the world. His unique distinction as the brother of the Lord and faithful observance of the Mosaic law made him well-suited for this role.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 2.231386347235875,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.53,
+            "commentatorTierSimilarities": [
+                34.63,
+                39.09,
+                26.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "James, the representative of strict adherence to the pure standard of legal morality, silenced the disputers alongside Peter. As the head of the church in Jerusalem, his decision held weight despite his conservative reverence for Jewish usages. James recommended a few general restrictive rules for the Gentiles to follow without severing their worldly relations. His unique distinction as the brother of the Lord and faithful observance of the Mosaic law made him well-suited for this role, ensuring the harmony between Jewish and Gentile believers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 2.160959659568919,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.19,
+            "commentatorTierSimilarities": [
+                34.98,
+                37.93,
+                27.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "James, the representative of the strictest adherence to the pure standard of legal morality, alongside Peter, silenced the disputers and gave his judgment in favor of the freedom of the Gentiles. As the acknowledged head of the church at Jerusalem, his decision carried weight despite his conservative reverence for Jewish usages. James, occupying a position of authority among the Jerusalem Christians, recommended a few general restrictive rules for the Gentiles to observe without severing their relations with the world. His distinction as the brother of the Lord and faithful observance of the Mosaic law made him well-suited for this role.",
+            "wordCount": 101,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 2.2712915552777426,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.86,
+            "commentatorTierSimilarities": [
+                34.82,
+                38.02,
+                27.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

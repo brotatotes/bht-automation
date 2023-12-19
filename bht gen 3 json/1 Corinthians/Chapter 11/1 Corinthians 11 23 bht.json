@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:12:04",
+    "verseRef": "1 Corinthians 11:23",
+    "bestBHT": {
+        "bht": "For I received from the Lord (by special revelation)... If the Apostle had referred only to the Evangelic tradition or writings, he would not have used the first person singular, but would have said, we received. His object is to show the unworthiness of such conduct from the dignity of the holy supper. It is not my own invention, but the Lord's institution. Though about to receive such an injury from man, He gave this pledge of His amazing love to man. He instituted the Eucharist while His betrayal was going on.",
+        "wordCount": 93,
+        "quoteTokenProportion": 50.77,
+        "qualityScore": 1.9242615036749373,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+        "commentatorTierSimilarities": [
+            40.29,
+            27.42,
+            32.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For I received from the Lord (by special revelation)... That the Lord Jesus, &c.\" ",
+            "If the Apostle had referred only to the Evangelic tradition or writings (?) he would not have used the first person singular, but would have said, 'we received.'",
+            "There is an appearance of fixed order, especially in these opening words, which indicates that this had already become a familiar formula."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His object is to show the unworthiness of such conduct from the dignity of the holy supper.\" ",
+            "It is not my own invention, but the Lord's institution.\" ",
+            "Though about to receive such an injury from man, He gave this pledge of His amazing love to man."
+        ],
+        "Albert Barnes": [
+            "He did not, therefore, denounce them even for their irregularity and gross disorder; he did not use harsh, violent, vituperative language, but he expected to reform the evil by a mild and tender statement of the truth.\" ",
+            "The reason why he here says that he had received it directly from the Lord is, doubtless, that he might show them that it was of divine authority.\" ",
+            "He wished evidently to bring before their minds the deeply affecting circumstances of his death; and thus to show them the utter impropriety of their celebrating the ordinance with riot and disorder."
+        ],
+        "Marvin Vincent": [
+            "I received...giving the weight of personal authority to the statement.\" ",
+            "Paul does not always observe the distinction...are decisive of the sense of an immediate communication from Christ to Paul.\" ",
+            "He instituted the Eucharist while His betrayal was going on."
+        ],
+        "John Calvin": [
+            "For the institution of Christ is a sure rule, so that if you turn aside from it but a very little, you are out of the right course.",
+            "In these words he intimates, that there is no authority that is of any avail in the Church, but that of the Lord alone.",
+            "Such actions of Christ as are not intended for our imitation, should not be reckoned as belonging to his institution."
+        ],
+        "Philip Schaff": [
+            "Language could not make it more clear than it is here, that the memorial design of this institution is the primary one.",
+            "The emphatic 'I' (\u03b9\u03b3\u03ce) clearly implies that the revelation came direct from Christ to the apostle himself.",
+            "Knowing, as Luke doubtless did, that the apostle had his account of it from the Lord Himself, we venture to insert the word 'given,' though in italics, in place of either 'broken' or no word at all."
+        ],
+        "Archibald T. Robertson": [
+            "For I received of the Lord (\u03b5\u03b3\u03bf \u03b3\u03b1\u03c1 \u03c0\u03b1\u03c1\u03b5\u03bb\u03b1\u03b2\u03bf\u03bd \u03b1\u03c0\u03bf \u03c4\u03bf\u03c5 \u039a\u03c5\u03c1\u03b9\u03bf\u03c5). Direct claim to revelation from the Lord Jesus on the origin of the Lord's Supper.",
+            "He could easily have read I Corinthians before he wrote his Gospel.",
+            "He was betrayed (\u03c0\u03b1\u03c1\u03b5\u03b4\u03b9\u03b4\u03b5\u03c4\u03bf). Imperfect passive indicative (irregular form for \u03c0\u03b1\u03c1\u03b5\u03b4\u03b9\u03b4\u03bf\u03c4\u03bf, Robertson, Grammar, p. 340)."
+        ],
+        "John Gill": [
+            "The divine authority of the Lord's supper is here expressed; it was not only instituted by him as Lord, having all power and authority in and over his churches, to appoint what ordinances he pleases",
+            "whatever he received from Christ, whether a doctrine or an ordinance, he faithfully delivered to the churches, from whom he kept back nothing that was profitable",
+            "it was in the night when he came in search of him with officers, and a band of soldiers, and when he betrayed him and delivered him into their hands; and that same night, a little before, our Lord instituted and celebrated the ordinance of the supper with his disciples"
+        ],
+        "John Wesley": [
+            "I received \u2014 By an immediate revelation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For I received from the Lord (by special revelation)... That the Lord Jesus, &c. If the Apostle had referred only to the Evangelic tradition or writings, he would not have used the first person singular, but would have said, we received. His object is to show the unworthiness of such conduct from the dignity of the holy supper. It is not my own invention, but the Lord's institution. Though about to receive such an injury from man, He gave this pledge of His amazing love to man. I received...giving the weight of personal authority to the statement. He instituted the Eucharist while His betrayal was going on.",
+            "wordCount": 109,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.918249493460574,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.12,
+            "commentatorTierSimilarities": [
+                40.31,
+                27.42,
+                32.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For I received from the Lord (by special revelation)... If the Apostle had referred only to the Evangelic tradition or writings, he would not have used the first person singular, but would have said, we received. His object is to show the unworthiness of such conduct from the dignity of the holy supper. It is not my own invention, but the Lord's institution. Though about to receive such an injury from man, He gave this pledge of His amazing love to man. He instituted the Eucharist while His betrayal was going on.",
+            "wordCount": 93,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.9242615036749373,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                40.29,
+                27.42,
+                32.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle Paul declares that he received from the Lord Himself the instructions regarding the institution of the Lord's Supper. This affirmation of divine authority emphasizes the significance of the holy supper and the impropriety of celebrating it with disorder. Despite knowing that betrayal awaited Him, Jesus chose this moment to demonstrate His immense love for humanity. This personal revelation from Christ to Paul sets the foundation for the Eucharist, established amid the unfolding events of His betrayal.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.9499187981714217,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                33.96,
+                35.2,
+                30.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For I received from the Lord (by special revelation) the instructions regarding the institution of the Lord's Supper. It is not my own invention, but the Lord's institution. Though about to receive such an injury from man, He gave this pledge of His amazing love to man. He instituted the Eucharist while His betrayal was going on. This personal revelation from Christ to Paul sets the foundation for the significance of the holy supper and highlights the impropriety of celebrating it with disorder.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.9184404761852747,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+            "commentatorTierSimilarities": [
+                37.85,
+                28.29,
+                33.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For I received from the Lord (by special revelation) the instructions regarding the institution of the Lord's Supper. It is not my own invention, but the Lord's institution. Though about to receive such an injury from man, He gave this pledge of His amazing love to man. He instituted the Eucharist while His betrayal was going on. This personal revelation from Christ to Paul sets the foundation for the significance of the holy supper.",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.915625737487153,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                39.2,
+                26.08,
+                34.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

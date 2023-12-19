@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:38:54",
+    "verseRef": "1 Peter 1:18",
+    "bestBHT": {
+        "bht": "We are redeemed not with perishable things like silver or gold, but with the precious blood of Christ. This redemption highlights the holiness and justice of God, demonstrating the high cost of our freedom from sin. The blood of Christ serves as a ransom for our vain behavior, setting us free to live a holy life. Our redemption is not obtained through anything corruptible; it is by the immeasurable value of Christ's sinless life. Therefore, let us be motivated to forsake our former foolish ways and pursue holiness in response to this priceless sacrifice.",
+        "wordCount": 95,
+        "quoteTokenProportion": 37.68,
+        "qualityScore": 2.2175330644064015,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.07,
+        "commentatorTierSimilarities": [
+            29.87,
+            36.98,
+            33.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Knowing that not with corruptible things, silver or gold, were ye redeemed out of your vain behaviour, but with precious blood, as of a lamb blameless and spotless, [even the blood] of Christ.",
+            "This consideration is urged through vv. 18-21.",
+            "The question, with what particular lamb Christ is here compared, will be found discussed in the main on John i. 29."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We who are bought by the blood of Christ, not heaven.",
+            "The blood of Christ is not in Scripture said to buy heaven for us: heaven is the 'inheritance' given to us as sons, by the promise of God.",
+            "Holiness is the natural fruit of redemption 'from our vain conversation'; for He by whom we are redeemed is also He for whom we are redeemed."
+        ],
+        "Albert Barnes": [
+            "There is no more effectual way to induce true Christians to consecrate themselves entirely to God, than to refer them to the fact that they are not their own, but have been purchased by the blood of Christ.",
+            "The word here means that they were rescued from sin and death by the blood of Christ, as the valuable consideration on account of which it was done.",
+            "The idea here is, that a price far more valuable than any amount of silver or gold had been paid for the redemption of the people of God, and that they were under proportionate obligation to devote themselves to his service."
+        ],
+        "Marvin Vincent": [
+            "The verb carries the idea of a ransom - price.",
+            "Lit., with silver or gold money; the words meaning, respectively, a small coin of silver or of gold.",
+            "Handed down from your fathers."
+        ],
+        "John Calvin": [
+            "There is hence nothing which ought so much to stimulate us to the practice of holiness, as the memory of this price of our redemption.",
+            "For the sake of amplifying he mentions these things in contrast, so that we may know that the whole world, and all things deemed precious by men, are nothing to the excellency and value of this price.",
+            "In vain is pretended in this case the authority of the Fathers or an ancient custom. For the Prophet Ezekiel cried to the Jews, 'Walk ye not in the statutes of your fathers.'"
+        ],
+        "Philip Schaff": [
+            "A redemption is in view which is expressed by a verb that is found in the N. T. only in other two passages (Titus 2:14; Luke 24:21), although several terms connected with it occur not unfrequently. It has radically the sense of redeeming by payment of a ransom price.",
+            "The terms apply in the New Testament to ransoming from the bondage of evil (Titus 2:14), as well as from the penalty of evil. Here the ransom price is stated first negatively as not \u2018corruptible\u2019 (or \u2018perishable\u2019) things, not even the most valuable of these, such as silver or gold.",
+            "What could set them free from the despotism of a life, poor as the life might be, which not only ran the course of natural inclination, but laid upon them those strong bonds of birth, respect for the past, relationship, habit, example? Nothing but a new moral power, Peter reminds them, which it cost something incalculably more precious than silver or gold to bring in, namely, the sinless life of the Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "The appeal is to an elementary Christian belief, the holiness and justice of God with the added thought of the high cost of redemption.",
+            "The ransom is the blood of Christ. Peter here amplifies the language in Isaiah 52:3.\" ",
+            "Slaves were set free by silver and gold."
+        ],
+        "John Gill": [
+            "The redemption of a soul, which is of more worth than a world, requires a greater price than gold and silver.",
+            "Seeing redemption is not obtained by anything corruptible, nothing corrupt in principle, or practice should be indulged.",
+            "They (the saints) ought not therefore to be the servants of men, no, not of these fathers, but of God and Christ."
+        ],
+        "John Wesley": [
+            "Your vain conversation \u2014 Your foolish, sinful way of life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are reminded in this verse that we were not redeemed by corruptible things, such as silver or gold, but by the precious blood of Christ. The blood of Christ serves as a ransom that sets us free from our vain behavior and bondage to sin. The high cost of our redemption emphasizes the holiness and justice of God, and urges us to live a life of consecration and devotion to Him. Our redemption is not obtained by anything perishable or worldly, but by the sinless life of the Messiah, which is of immeasurable value. Thus, the memory of this priceless sacrifice should be a constant motivation for us to pursue holiness and walk away from our former foolish and sinful ways.",
+            "wordCount": 122,
+            "quoteTokenProportion": 37.66,
+            "qualityScore": 2.293077798044304,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.59,
+            "commentatorTierSimilarities": [
+                28.68,
+                38.36,
+                32.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are reminded that we were not redeemed with corruptible things like silver or gold, but with the precious blood of Christ. Our vain behavior and bondage to sin are set free by the ransom of His sinless life. This redemption highlights the holiness and justice of God. The invaluable price of our redemption should motivate us to consecrate ourselves and live a life devoted to Him. We should remember that our redemption is not obtained by anything perishable, but by the immeasurable value of Christ's sacrifice.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.2034060781805156,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+            "commentatorTierSimilarities": [
+                30.12,
+                37.52,
+                32.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are reminded that our redemption is not achieved through corruptible things like silver or gold, but through the precious blood of Christ. His blood serves as a ransom, freeing us from our futile ways. This emphasizes the holiness and justice of God, underscoring the high cost of our redemption. We are called to live a life of holiness and dedicate ourselves to Him who redeemed us. The priceless sacrifice of Christ's sinless life should motivate us to turn away from our former foolish and sinful behavior.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.16098240617346,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.19,
+            "commentatorTierSimilarities": [
+                30.81,
+                35.81,
+                33.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are redeemed not with perishable things like silver or gold, but with the precious blood of Christ. This redemption highlights the holiness and justice of God, demonstrating the high cost of our freedom from sin. The blood of Christ serves as a ransom for our vain behavior, setting us free to live a holy life. Our redemption is not obtained through anything corruptible; it is by the immeasurable value of Christ's sinless life. Therefore, let us be motivated to forsake our former foolish ways and pursue holiness in response to this priceless sacrifice.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 2.2175330644064015,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.07,
+            "commentatorTierSimilarities": [
+                29.87,
+                36.98,
+                33.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are reminded that we were not redeemed with perishable things like silver or gold, but with the precious blood of Christ. This precious blood serves as a ransom for our vain behavior and sets us free from the bondage of sin. The high cost of our redemption reflects the holiness and justice of God. By recognizing this priceless sacrifice, we are encouraged to devote ourselves to a life of holiness and gratitude, turning away from our former foolish and sinful ways.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.182068347638248,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.89,
+            "commentatorTierSimilarities": [
+                29.73,
+                37.29,
+                32.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

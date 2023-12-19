@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:13:12",
+    "verseRef": "1 Corinthians 14:33",
+    "bestBHT": {
+        "bht": "God, the God of peace, requires assemblies conducted in His name to be peaceful and orderly. This proper conclusion calls for orderly reverence as a mark of churches. An atmosphere of quarrel does not align with God's reign, as he desires a peace characterized by the truth of God as its bond. In all the churches of the saints, women are expected to maintain silence, emphasizing the significance of peace and order among His people.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.3284642448428294,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.76,
+        "commentatorTierSimilarities": [
+            36.89,
+            28.49,
+            34.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is the God of peace, not confusion: therefore those assemblies which are His, must be peacefully and orderly conducted."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In all the churches of the saints God is a God of peace; let Him not among you be supposed to be a God of confusion.\" ",
+            "As in all churches of the saints, let your women keep silence in your churches."
+        ],
+        "Albert Barnes": [
+            "God is not the author of confusion. His religion cannot tend to produce disorder. It is calm, peaceful, thoughtful."
+        ],
+        "Marvin Vincent": [
+            "Confusion. See on commotions, Luke 21:9; and unruly, James 3:8. Compare 2 Corinthians 6:5.",
+            "As in all the churches of the saints.",
+            "The old arrangement is retained by Rev. and by Westcott and Hort, though the latter regard the words and the spirits - of peace as parenthetical."
+        ],
+        "John Calvin": [
+            "Whenever, therefore, there is a disposition to quarrel, there, it is certain, God does not reign.",
+            "We must understand by this a peace of which the truth of God is the bond.",
+            "For accursed is that peace of which revolt from God is the bond, and blessed are those contentions by which it is necessary to maintain the kingdom of Christ."
+        ],
+        "Philip Schaff": [
+            "God is not a God of confusion, but of peace.\" ",
+            "As in all the churches of the saints and so surely in yours.",
+            "Let the women keep silence, etc."
+        ],
+        "Archibald T. Robertson": [
+            "God is not a God of disorder, but of peace. We need this reminder today.",
+            "Orderly reverence is a mark of the churches.",
+            "This is a proper conclusion of his argument."
+        ],
+        "John Gill": [
+            "God is not the author of confusion.",
+            "He is the author of peace, harmony, unity, and concord among his prophets and teachers.",
+            "God is the God of peace, he calls for, requires, disposes, and approves of peace and order among all his people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, we are reminded that God is a God of peace, not confusion. Thus, it is important for the assemblies conducted in His name to be peaceful and orderly. This is a proper conclusion of the argument made, as we see that orderly reverence is a mark of the churches. God does not reign where there is a disposition to quarrel, but rather in a peace that is characterized by the truth of God as its bond.",
+            "wordCount": 79,
+            "quoteTokenProportion": 56.0,
+            "qualityScore": 2.258454497253035,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.43,
+            "commentatorTierSimilarities": [
+                34.87,
+                28.79,
+                36.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we are reminded that God is a God of peace and not confusion. Therefore, it is crucial for the assemblies conducted in His name to be peaceful and orderly. This is evident in all the churches of the saints, where women are encouraged to maintain silence. The call for orderly reverence signifies God's desire for peace and order among His people, and serves as a reminder for us today.",
+            "wordCount": 73,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 2.267526758441974,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.74,
+            "commentatorTierSimilarities": [
+                36.38,
+                30.98,
+                32.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are reminded that God, being the God of peace, requires assemblies conducted in His name to be peaceful and conducted in an orderly manner. This is a proper conclusion, as we can observe the mark of churches being orderly reverence. God does not reign in an atmosphere of quarrel, but instead desires a peace characterized by the truth of God as its bond. In all the churches of the saints, it is expected that women maintain silence, further emphasizing the importance of peace and order among God's people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.3007101241544534,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.84,
+            "commentatorTierSimilarities": [
+                35.72,
+                28.91,
+                35.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, the God of peace, requires assemblies conducted in His name to be peaceful and orderly. This proper conclusion calls for orderly reverence as a mark of churches. An atmosphere of quarrel does not align with God's reign, as he desires a peace characterized by the truth of God as its bond. In all the churches of the saints, women are expected to maintain silence, emphasizing the significance of peace and order among His people.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.3284642448428294,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.76,
+            "commentatorTierSimilarities": [
+                36.89,
+                28.49,
+                34.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In all the churches of the saints, God is a God of peace. This calls for peaceful and orderly assemblies that reflect His nature. It is a proper conclusion to the argument made, as orderly reverence is a characteristic of the churches. The importance of maintaining peace and order is emphasized by the expectation for women to keep silence. Let us remember that God reigns in an atmosphere of peace, where disputes and quarrels are absent.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.144940251923112,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.66,
+            "commentatorTierSimilarities": [
+                37.55,
+                30.88,
+                31.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

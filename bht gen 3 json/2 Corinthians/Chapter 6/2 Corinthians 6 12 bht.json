@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:16:27",
+    "verseRef": "2 Corinthians 6:12",
+    "bestBHT": {
+        "bht": "Any constraint you may feel towards me is not because my heart lacks affection towards you, but it is a result of your own lack of affection towards me. It is your love that is contracted while my heart is wide enough to receive you all. My adversaries may have caused some of you to tighten up your affections, but know that there is no restraint in my heart towards you.",
+        "wordCount": 71,
+        "quoteTokenProportion": 60.47,
+        "qualityScore": 2.126961005511049,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+        "commentatorTierSimilarities": [
+            38.48,
+            25.74,
+            35.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Any constraint ye feel towards me, or narrowness of heart, is not from want of largeness of heart on my part towards you, but from want of it on your part towards me.",
+            "Bowels\u2014that is, affections.",
+            "Not straitened in us\u2014that is, for want of room in our hearts to take you in."
+        ],
+        "Albert Barnes": [
+            "Ye are not straitened in us...There is no lack of room in our affections toward you.\" ",
+            "But ye are straitened in your own bowels...they were straitened, or were confined in their affections for him.\" ",
+            "He had not received from them the demonstrations of attachment which he had a right to expect."
+        ],
+        "Marvin Vincent": [
+            "It is not that our hearts are too narrow to take you in.",
+            "Straitened in antithesis with enlarged.",
+            "It is your love that is contracted."
+        ],
+        "John Calvin": [
+            "Ye are not straitened in us.",
+            "My mouth is opened, so that I deal familiarly with you, my very heart would willingly pour itself forth.",
+            "It is owing to their corrupt judgment, that the things that he utters are not relished by them."
+        ],
+        "Archibald T. Robertson": [
+            "Ye are not straitened in us... There is no restraint in me (my heart).\" ",
+            "My adversaries may have caused some of you to tighten up your affections.\" ",
+            "\u03c3\u03c0\u03bb\u03b1\u03b3\u03c7\u03bd\u03b1 for affection as in James 5:11; 1 Peter 3:8."
+        ],
+        "John Gill": [
+            "You are not brought into straits and difficulties by us; we do not afflict and distress you, or fill you with anguish and trouble...",
+            "You have room enough in our hearts, our hearts are so enlarged with love to you, that they are large enough to hold you all.",
+            "He had a heart to hold them all without being straitened for room; and among all them they could scarce find room enough in their hearts and affections for him."
+        ],
+        "John Wesley": [
+            "Ye are not straitened in us \u2014 Our heart is wide enough to receive you all.",
+            "But ye are straitened in your own bowels \u2014 Your hearts are shut up, and so not capable of the blessings ye might enjoy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Any constraint or narrowness of heart that you feel towards me is not because I lack a wide heart toward you, but rather because you lack it towards me. It is not that my heart is too narrow to take you in, but rather that your love is contracted. My adversaries may have caused some of you to tighten up your affections. Nevertheless, my heart is wide enough to receive you all without being straitened for room.",
+            "wordCount": 77,
+            "quoteTokenProportion": 66.67,
+            "qualityScore": 2.0604579969045997,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
+            "commentatorTierSimilarities": [
+                37.83,
+                25.68,
+                36.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Any constraint you may feel towards me is not because my heart lacks affection towards you, but it is a result of your own lack of affection towards me. It is your love that is contracted while my heart is wide enough to receive you all. My adversaries may have caused some of you to tighten up your affections, but know that there is no restraint in my heart towards you.",
+            "wordCount": 71,
+            "quoteTokenProportion": 60.47,
+            "qualityScore": 2.126961005511049,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+            "commentatorTierSimilarities": [
+                38.48,
+                25.74,
+                35.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Any constraint or narrowness of heart that you may feel towards me is not because of a lack of love on my part towards you, but rather because of a lack of love on your part towards me. My heart is wide enough to take you all in, but it is your affections that are contracted. Perhaps my adversaries have influenced some of you to withhold your love from me.",
+            "wordCount": 70,
+            "quoteTokenProportion": 70.73,
+            "qualityScore": 1.9049715808415537,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                39.5,
+                25.72,
+                34.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Any constraint or narrowness of heart that you may feel towards me is not because my heart is not open towards you, but because your hearts are closed towards me. My affections, or bowels, are not limited, but your love and affection are contracted. It is not that my heart is too narrow to take you in, but rather it is your love that is limited. You have room enough in my heart, as it is wide enough to receive you all, but your hearts are shut up, and not capable of fully embracing the blessings that could be yours.",
+            "wordCount": 100,
+            "quoteTokenProportion": 58.49,
+            "qualityScore": 2.0379064783865886,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+            "commentatorTierSimilarities": [
+                35.09,
+                24.57,
+                40.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Any constraint or narrowness of heart that you may feel towards me is not because my heart is not open towards you, but because your hearts are closed towards me. It is not that my heart is too narrow to take you in, but rather it is your love that is limited. You have room enough in my heart, as it is wide enough to receive you all, but your hearts are shut up, and not capable of fully embracing the blessings that could be yours.",
+            "wordCount": 86,
+            "quoteTokenProportion": 63.27,
+            "qualityScore": 2.0431646049109036,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.28,
+            "commentatorTierSimilarities": [
+                36.2,
+                20.61,
+                43.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

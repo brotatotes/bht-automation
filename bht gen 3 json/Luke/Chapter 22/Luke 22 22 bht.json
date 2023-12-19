@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:22:49",
+    "verseRef": "Luke 22:22",
+    "bestBHT": {
+        "bht": "I must walk today and tomorrow, referring to Jesus' ministerial journey through suffering towards glory. As it hath been determined, this fact does not absolve Judas of his guilt. Woe unto that man by whom he is betrayed, for he will face everlasting torments in his own place. (44 words)",
+        "wordCount": 49,
+        "quoteTokenProportion": 48.94,
+        "qualityScore": 1.512394337562176,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+        "commentatorTierSimilarities": [
+            56.41,
+            0.0,
+            43.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I must walk (the Greek word is the same) today and tomorrow.",
+            "This is used of our Lord's ministerial progress.",
+            "His progress through suffering to glory."
+        ],
+        "Archibald T. Robertson": [
+            "As it hath been determined...this fact does not absolve Judas of his guilt..."
+        ],
+        "John Gill": [
+            "And truly the son of man goeth,.... That is, dies, which is going the way of all the earth.\" ",
+            "the death of Christ, the manner of it, and the means by which it was brought about, were all predetermined by God; yet this did not, in the least, excuse the sin of those concerned in it, nor exempt them from punishment.",
+            "woe unto that man by whom he is betrayed; who not only came to an untimely end, and died an infamous death by his own hands, but went to his own place, the place of everlasting torments allotted him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of Jesus' ministerial progress, as he walks the path of suffering towards glory. His death, predetermined by God, does not absolve Judas of his guilt. It is a woe to the one who betrays him, for he will face everlasting torment in his own place. (50 words)",
+            "wordCount": 49,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.4883546131094871,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.83,
+            "commentatorTierSimilarities": [
+                51.43,
+                0.0,
+                48.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I must walk today and tomorrow, referring to Jesus' ministerial journey through suffering towards glory. As it hath been determined, this fact does not absolve Judas of his guilt. Woe unto that man by whom he is betrayed, for he will face everlasting torments in his own place. (44 words)",
+            "wordCount": 49,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 1.512394337562176,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                56.41,
+                0.0,
+                43.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus speaks of his ministerial progress, acknowledging that he must walk today and tomorrow. This journey involves his path of suffering leading to eventual glory. It is important to note that even though God has predetermined this course, it does not absolve Judas of his guilt for betraying Jesus. The consequences for his betrayal are severe, as he will face everlasting torment in his assigned place. (64 words)",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.2995170758205716,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.55,
+            "commentatorTierSimilarities": [
+                51.54,
+                0.0,
+                48.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus refers to his ministerial progress, stating that he must walk today and tomorrow, which signifies his journey through suffering towards glory. It is crucial to recognize that although God has predetermined this path, it does not excuse Judas from his guilt for betraying Jesus. Woe awaits the one who betrays him, as they will ultimately face everlasting torment in their designated place. (61 words)",
+            "wordCount": 64,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.2020516317414827,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.31,
+            "commentatorTierSimilarities": [
+                45.33,
+                0.0,
+                54.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus acknowledges his ministerial progress, stating that he must walk today and tomorrow, symbolizing his journey from suffering to glory. It is worth noting that while God has predetermined this course, it does not absolve Judas of his guilt for betraying Jesus. The consequences for betrayal are severe, as the betrayer will face everlasting torment in their assigned place. (58 words)",
+            "wordCount": 60,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.277083127774354,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.81,
+            "commentatorTierSimilarities": [
+                54.1,
+                0.0,
+                45.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

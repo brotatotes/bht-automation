@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:32:20",
+    "verseRef": "Acts 16:18",
+    "bestBHT": {
+        "bht": "Paul's reaction to the distressing situation was not mere annoyance, but a deep sense of holy indignation and sorrow. He was grieved to witness the power possessed by the enemy of salvation and the malicious intent behind the woman's testimony. Both grieved at her condition and indignant towards the evil spirit's continued manifestations, Paul commanded the spirit to leave in the name of Jesus. This instantaneous cure highlighted the authority given to the apostles, demonstrating their ability to cast out demons.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 2.1043213165890973,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+        "commentatorTierSimilarities": [
+            33.28,
+            30.57,
+            36.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not mere annoyance is expressed by this word, but rather holy indignation and sorrow at what he saw and heard.\" ",
+            "The Christian soldier was goaded to the attack, but the mere satisfaction of anger was not the object.",
+            "Any more than the result, of the stroke."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Grieved to see such power possessed by the enemy of man's salvation.",
+            "Grieved to observe the malignant design with which this high testimony was borne to Christ."
+        ],
+        "Albert Barnes": [
+            "Paul was grieved, probably: Throughout the Roman empire the inspiration of the priestesses of Apollo was believed in, and temples were everywhere reared to perpetuate and celebrate the delusion.",
+            "Against this extensive system of imposture and fraud Christianity must oppose itself; and this was a favorable instance to expose the delusion, and to show the power of the Christian religion over all the arts and powers of imposture.",
+            "The mere fact that in a very few instances - of which this was one - they spoke the truth, did not make it improper for Paul to interpose. That fact would only tend to perpetuate the delusion, and to make his interposition more proper and necessary."
+        ],
+        "Marvin Vincent": [
+            "Grieved [\u03b4\u03b9\u03b1\u03c0\u03bf\u03bc\u03b7\u03b8\u03b5\u03b9\u03c2] . Not strong enough. Rather, worn out.",
+            "Both grieved at the sad condition of the woman, and thoroughly annoyed and indignant at the continued demonstrations of the evil spirit which possessed her.",
+            "Compare ch. 4 2."
+        ],
+        "John Calvin": [
+            "He did not conceive any grief or indignation, save only that he saw that the stability of Satan would increase, unless he did betimes prevent it.",
+            "Christ, in giving the authority and power to Christ alone, doth declare that he is only a minister; that done, he doth openly set Christ against the devil, to the end that, by the conflict, all men may see that they be deadly enemies.",
+            "For it was profitable that many should be awaked who had been given to such gross seducing, that being well purged, they might come to the true faith."
+        ],
+        "Philip Schaff": [
+            "I command thee in the name of Jesus Christ to come out of her.\" ",
+            "'In My Name,' said the Lord (Mark 16:17), 'shall they cast out devils.'\" ",
+            "It is noticeable how differently such acts as these were performed by the Master and His servants. Christ worked His miracles in His own sovereign power; the apostles worked theirs only in the name of Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "The strange conduct gave Paul and the rest an unpleasant prominence in the community.",
+            "Paul was grieved, annoyed, indignant. He wanted no testimony from a source like this any more than he did the homage of the people of Lystra.",
+            "The cure was instantaneous. Paul, like Jesus, distinguished between the demon and the individual."
+        ],
+        "John Gill": [
+            "This she was suffered to do, time after time; not that the apostle and his friends wanted such a testimony, or that it was of any use to them; but that the expulsion of the evil spirit might be more manliest, and more taken notice of.",
+            "Paul being grieved; at the unhappy condition the maid was in, being possessed with such a spirit: and that the people were so imposed upon and deluded by it; and that it should be thought that there was any combination and agreement between that and him.",
+            "I command thee in the name of Jesus Christ to come out of her, and he came out the same hour; this is an instance of that power which Christ gave to his apostles to cast out devils in his name, Matthew 10:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul was more than just annoyed when confronted with the situation described in this verse. He was filled with a holy indignation and sorrow at what he witnessed and heard. His aim was not to satisfy his anger or seek revenge, but to combat the enemy's hold on mankind and thwart their malicious intentions. Paul's grief stemmed from seeing the woman's distressing condition and being thoroughly disturbed by the evil spirit's continued manifestations. He wanted no testimony from such a source, just as he rejected the adoration of the people in Lystra. Similar to Jesus, Paul made a clear distinction between the demon and the individual. With authority derived from the name of Jesus, he commanded the spirit to come out of her, echoing the power given to the apostles by the Lord himself.",
+            "wordCount": 138,
+            "quoteTokenProportion": 36.56,
+            "qualityScore": 1.899091680186614,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.49,
+            "commentatorTierSimilarities": [
+                31.19,
+                32.93,
+                35.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's reaction to the situation was far more than simple annoyance. He felt a deep sense of holy indignation and sorrow as he observed the power of the enemy and the evil intent behind the testimony given by the possessed woman. Not only was he grieved by her condition, but he was also thoroughly annoyed and indignant at the ongoing demonstration of the evil spirit. Fueled by a desire to combat the enemy and protect the woman, Paul commanded the spirit to leave in the name of Jesus, showcasing the power bestowed upon the apostles to cast out demons.",
+            "wordCount": 100,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.0243170021709185,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
+            "commentatorTierSimilarities": [
+                34.22,
+                29.11,
+                36.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The incident stirred more than annoyance in Paul. It evoked a deep sense of holy indignation and sorrow, for he saw the power possessed by the enemy of man's salvation and the malignant design behind the woman's testimony. Grieved at her condition and greatly annoyed by the evil spirit's persistent demonstrations, Paul separated the demonic influence from the individual, commanding the spirit to come out in the name of Jesus. The instantaneous cure served as a powerful declaration of the authority given to the apostles to cast out demons.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 2.0603250942713074,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
+            "commentatorTierSimilarities": [
+                33.74,
+                31.75,
+                34.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's reaction to the distressing situation was not mere annoyance, but a deep sense of holy indignation and sorrow. He was grieved to witness the power possessed by the enemy of salvation and the malicious intent behind the woman's testimony. Both grieved at her condition and indignant towards the evil spirit's continued manifestations, Paul commanded the spirit to leave in the name of Jesus. This instantaneous cure highlighted the authority given to the apostles, demonstrating their ability to cast out demons.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.1043213165890973,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                33.28,
+                30.57,
+                36.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's response went beyond annoyance, as he felt a holy indignation and sorrow when faced with the power of the enemy and the woman's testimony. He was grieved to observe the malicious intentions and the continued manifestations of the evil spirit. Fueled by a desire to combat the enemy and protect the woman, Paul commanded the spirit to leave in the name of Jesus. This instant healing demonstrated the authority given to the apostles to cast out demons in the name of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.0637177117026733,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                31.06,
+                32.11,
+                36.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

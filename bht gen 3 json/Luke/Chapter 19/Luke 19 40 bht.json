@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:22:01",
+    "verseRef": "Luke 19:40",
+    "bestBHT": {
+        "bht": "The entrance of Jesus into the city was a significant event that necessitated the acclaim of the multitude, as it fulfilled prophecy and added to His regal dignity. The stones crying out symbolized the unparalleled importance of His coming, and attempting to silence the celebration would be inappropriate. With utmost earnestness, Jesus declared that if the people remained silent, the stones themselves would cry out, demonstrating that God's power would not go unacknowledged.",
+        "wordCount": 74,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 1.7699892565458342,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.19,
+        "commentatorTierSimilarities": [
+            25.41,
+            48.57,
+            26.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "40.] A proverbial expression\u2014but probably not without reference to Habakuk ii. 11."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Lord had discouraged all demonstrations in His favor, but on this one occasion He seems to yield His whole soul to the wide and deep acclaim with a mysterious satisfaction.\" ",
+            "He regarded the acclaim as so necessary a part of the regal dignity in which as Messiah He for this last time entered the city.",
+            "If not offered by the vast multitude, it would have been wrung out of the stones rather than be withheld."
+        ],
+        "Albert Barnes": [
+            "The stones would ...cry out - It is 'proper' that they should celebrate my coming. Their acclamations 'ought' not to be suppressed.",
+            "So joyful is the event which they celebrate - the coming of the Messiah - that it is not fit that I should attempt to impose silence on them.",
+            "The expression here seems to be 'proverbial,' and is not to be taken literally...The sense is, that his coming was an event of so much importance that it 'ought' to be celebrated in some way, and 'would' be celebrated."
+        ],
+        "Archibald T. Robertson": [
+            "If these shall hold their peace... The stones will cry out... A proverb for the impossible happening.\" ",
+            "The use of \u03b5\u03b1\u03bd rather than \u03b5 cuts no figure in the case.\" ",
+            "The kind of condition is determined by the mode which is here indicative."
+        ],
+        "John Gill": [
+            "this he spake with great earnestness, fervour, and courage",
+            "it was impossible it should be otherwise; it would be intolerable if it was not",
+            "God, who is able out of stones to raise up children to Abraham, would make the stones speak, or turn stones into men, who should rise up and praise the Lord"
+        ],
+        "John Wesley": [
+            "If these should hold their peace, the stones, which lie before you, would cry out.\" ",
+            "God would raise up some still more unlikely instruments to declare his praise.\" ",
+            "For the power of God will not return empty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse is a proverbial expression, possibly referring to Habakkuk 2:11. Jesus, as the Messiah, saw the acclaim of the vast multitude as a necessary part of His regal dignity and the fulfillment of prophecy. It was an impossible occurrence, but the condition in this case was indicative, not subjunctive. The stones crying out symbolized the importance of His coming and the joyous event of the Messiah's arrival. This proclamation was so significant that suppressing it would be unfitting. God's power would not go unanswered, and He could even turn stones into men to declare His praise.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.519898820670493,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                29.85,
+                40.62,
+                29.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's entrance into the city was met with vast acclaim, and He saw it as vital to His regal dignity and fulfilling prophecy. The stones crying out represented the significance of His coming, an event that should not be silenced. The condition stated is not impossible but rather indicative, emphasizing the importance of this proclamation. God's power would not go unanswered; He could even transform stones into men to praise Him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.5853752635419087,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.06,
+            "commentatorTierSimilarities": [
+                29.4,
+                42.1,
+                28.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The entrance of Jesus into the city was a significant event that necessitated the acclaim of the multitude, as it fulfilled prophecy and added to His regal dignity. The stones crying out symbolized the unparalleled importance of His coming, and attempting to silence the celebration would be inappropriate. With utmost earnestness, Jesus declared that if the people remained silent, the stones themselves would cry out, demonstrating that God's power would not go unacknowledged.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.7699892565458342,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.19,
+            "commentatorTierSimilarities": [
+                25.41,
+                48.57,
+                26.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus regarded the acclaim of the multitude as essential to His regal dignity and the fulfillment of prophecy. The stones crying out would signify the immense significance of His coming, and suppressing the celebration would be unwarranted. He spoke with great earnestness that if the people remained silent, the stones themselves would cry out, illustrating the unfailing power of God.",
+            "wordCount": 60,
+            "quoteTokenProportion": 32.56,
+            "qualityScore": 1.7002592943285766,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+            "commentatorTierSimilarities": [
+                26.99,
+                45.37,
+                27.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The acclaim of the multitude during Jesus's entrance into the city was seen by Him as necessary for His regal dignity and fulfilling prophecy. The stones crying out indicated the immense importance of His arrival, which should not be silenced. Jesus fervently declared that if the people were to hold their peace, the stones themselves would cry out, demonstrating the unyielding power of God.",
+            "wordCount": 65,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.6315631210536887,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.59,
+            "commentatorTierSimilarities": [
+                27.65,
+                41.77,
+                30.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

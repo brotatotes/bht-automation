@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:33:13",
+    "verseRef": "Acts 17:22",
+    "bestBHT": {
+        "bht": "Acknowledging the Athenians' extreme reverence and devotion to religious worship, Paul aims to guide their sentiment rightly by revealing the true object and aim of their worship. In this masterpiece of apostolic wisdom, he eloquently refutes the philosophies of the Epicureans and Stoics, proclaiming the religion of the future in contrast to the dying religion of the past. Paul's discourse reflects his desire to engage their attention, speaking with clarity and freedom as he unveils the Great Unknown, the true God whom they ignorantly worship.",
+        "wordCount": 86,
+        "quoteTokenProportion": 24.14,
+        "qualityScore": 2.15529551160028,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.0,
+        "commentatorTierSimilarities": [
+            35.2,
+            30.83,
+            33.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is what the Apostle elsewhere says, that he became to those not under the law as not under the law, that he might win those not under the law.",
+            "It was given to the Apostle in this hour, what he should speak; this is plainly to be seen in the following discourse...a masterpiece of apostolic wisdom.",
+            "He who is (by your own involuntary confession) unknown to you Athenians (religious though you are),...now commandeth all men (by me His minister) to repent, that they may know Him, and to believe in the Man whom He hath raised from the dead, that they may stand in the judgment, which He hath committed to Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I perceive that in all things ye are too superstitious\u2014rather...in all respects extremely reverential or much given to religious worship.",
+            "This prefatory allusion to the position he occupied shows the writer's wish to bring the situation vividly before us.",
+            "The authorized translation would imply that only too much superstitition was wrong, and represents the apostle as repelling his hearers in the very first sentence; whereas the whole discourse is studiously courteous."
+        ],
+        "Albert Barnes": [
+            "No happier instance can be found of cool, collected argumentation than is furnished in this discourse.",
+            "It properly means 'reverence for the gods'...and in this sense it accords with our word 'superstitious.'",
+            "The meaning of the expression is...that it is a characteristic of the people to honor the gods, to rear altars to them, and to recognize the divine agency in times of trial."
+        ],
+        "Marvin Vincent": [
+            "Paul would have been unlikely to begin his address with a charge which would have awakened the anger of his audience. What he means to say is, You are more divinity-fearing than the rest of the Greeks.",
+            "This propensity to reverence the higher powers is a good thing in itself, only, as he shows them, it is misdirected, not rightly conscious of its object and aim.",
+            "Paul proposes to guide the sentiment rightly by revealing him whom they ignorantly worship."
+        ],
+        "John Calvin": [
+            "We see how miserable their condition is who have not the certain light of the truth, because they do both always doubt in themselves, and lose their labor before God.",
+            "Notwithstanding, we must note that the unbelievers, whilst that they sometimes make themselves blind through voluntary stubbornness, and are sometimes amidst divers and manifold doubts, [yet] strive and fight with themselves.",
+            "Finally, though superstition be not always fearful, yet forasmuch as it is inwrapt in divers errors, it disquieteth men\u2019s minds, and doth prick them with divers blind torments."
+        ],
+        "Philip Schaff": [
+            "It was the proclamation of the religion of the future (though they guessed it not then) in the face of the dying religion of the past.",
+            "This 'revelation' was his high mission, to tell them of that 'Great Unknown' whose existence and whose majesty this solitary, nameless altar, at least, showed they suspected.",
+            "Surely we must never seek for Him in any earthly representation, however beautiful and costly, never in any image hewn by man, be it of marble, of silver, or of gold."
+        ],
+        "Archibald T. Robertson": [
+            "Paul does not speak as a man on trial, but as one trying to get a hearing for the gospel of Christ.",
+            "\u0394\u03b5\u03b9\u03c3\u03b9\u03b4\u03b1\u03b9\u03bc\u03c9\u03bd is a neutral word (from \u03b4\u03b5\u03b9\u03b4\u03c9, to fear, and \u03b4\u03b1\u03b9\u03bc\u03c9\u03bd, deity). The Greeks used it either in the good sense of pious or religious or the bad sense of superstitious.",
+            "The way one takes this adjective here colours Paul's whole speech before the Council of Areopagus."
+        ],
+        "John Gill": [
+            "I perceive that in all things ye are too superstitious; or 'more religious', than any other persons, in other places.\" ",
+            "They had more gods, and more altars, and more festivals, and were more diligent and studious in the worship of the gods, than others.",
+            "This manner of addressing them, both as citizens of Athens, and as very religious persons, and who, as such, greatly exceeded all others, must greatly tend to engage their attention to him."
+        ],
+        "John Wesley": [
+            "Paul in his divinely philosophical discourse, begins with the first, and goes on to the last things, both which were new things to them.",
+            "He points out the origin and the end of all things, concerning which they had so many disputes, and equally refutes both the Epicurean and Stoic.",
+            "With what clearness and freedom does he speak! Paul against Athens!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul begins his address by acknowledging and commending the Athenians for their religious devotion and reverence, as they are known to be extremely reverential and given to religious worship. However, Paul goes on to explain that this propensity to worship is misdirected, as they are ignorant of the true object and aim of their worship. Paul's intention is to guide their sentiment rightly by revealing the true God whom they unknowingly worship. He does not speak as a man on trial, but rather as one trying to get a hearing for the gospel of Christ. This discourse is a masterpiece of apostolic wisdom, where Paul argues with cool and collected reasoning, refuting both the Epicurean and Stoic philosophies. It is a proclamation of the religion of the future in the face of the dying religion of the past, as Paul unveils the Great Unknown, whose majesty is not to be found in any earthly representation but in the truth revealed through Christ.",
+            "wordCount": 163,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.1135660130073237,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.62,
+            "commentatorTierSimilarities": [
+                38.08,
+                30.64,
+                31.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul begins his address by commending the Athenians for their religious devotion and reverence, as they are extremely reverential and given to religious worship. However, their propensity to worship is misdirected, as they are ignorant of the true object and aim. Paul seeks to guide them rightly by revealing the true God whom they unknowingly worship. This discourse is a masterpiece of apostolic wisdom, where Paul argues with cool and collected reasoning, refuting both the Epicurean and Stoic philosophies, and proclaiming the religion of the future in the face of the dying religion of the past.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.070413891891743,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                35.98,
+                29.18,
+                34.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Acknowledging the Athenians' extreme reverence and devotion to religious worship, Paul aims to guide their sentiment rightly by revealing the true object and aim of their worship. In this masterpiece of apostolic wisdom, he eloquently refutes the philosophies of the Epicureans and Stoics, proclaiming the religion of the future in contrast to the dying religion of the past. Paul's discourse reflects his desire to engage their attention, speaking with clarity and freedom as he unveils the Great Unknown, the true God whom they ignorantly worship.",
+            "wordCount": 86,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 2.15529551160028,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.0,
+            "commentatorTierSimilarities": [
+                35.2,
+                30.83,
+                33.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul begins his address by acknowledging the Athenians' extreme reverence and devotion to religious worship, stating that he perceives them to be too superstitious or more divinity-fearing than the rest of the Greeks. However, he aims to guide their sentiment rightly, revealing the true object and aim of their worship. In this apostolic masterpiece, Paul refutes the philosophies of the Epicureans and Stoics, proclaiming the religion of the future in contrast to the dying religion of the past. He unveils the Great Unknown, the true God whom they unknowingly worship.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.0957512348983567,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.02,
+            "commentatorTierSimilarities": [
+                34.61,
+                31.85,
+                33.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his address to the Athenians, Paul graciously acknowledges their extreme reverence for religious worship, stating that he perceives them to be too superstitious or extremely reverential. However, he seeks to guide their sentiment rightly, revealing the true object and aim of their worship. This masterful discourse refutes the philosophies of the Epicureans and Stoics, while proclaiming the religion of the future in contrast to the dying religion of the past. Paul eloquently unveils the Great Unknown, the true God whom they unknowingly worship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.135398644988248,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                34.48,
+                31.93,
+                33.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

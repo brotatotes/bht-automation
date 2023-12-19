@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:21:27",
+    "verseRef": "Galatians 6:6",
+    "bestBHT": {
+        "bht": "Believers are encouraged to share in the necessities of the saints, including providing for the needs of their ministers who teach catechetically. This partnership encompasses all morally good things and promotes salvation. By partaking in this fellowship, disciples not only relieve the burdens of their teachers but also establish a sense of community centered around moral goodness and salvation. It is crucial to recognize the importance of supporting those who feed our souls, as neglecting their earthly needs obstructs the spread of the gospel and deprives the Church of godly ministers.",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.9264224317128686,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+        "commentatorTierSimilarities": [
+            35.34,
+            29.34,
+            35.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But the two senses come nearly to the same: he who shares in the necessities of the saints, can only do so by making that necessity partly his own, i.e. by depriving himself to that extent, and communicating to them.\" ",
+            "From the mention of bearing one another\u2019s burdens, he naturally passes to one way, and one case, in which those burdens may be borne\u2014viz. by relieving the necessities of their ministers.",
+            "The word, in its very usual sense of the Gospel,\u2014the word of life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "BUT I do not intend that he should not think of others, and especially of the wants of his ministers.",
+            "Impart a share unto his teacher: literally, 'him that teacheth catechetically.'",
+            "In every kind of the good things of this life, according as the case may require."
+        ],
+        "Albert Barnes": [
+            "Let him that is taught in the word - In the word of God; that is, the gospel.",
+            "Communicate unto him - Let him share with him who teaches; let there be a common participation of all good things.",
+            "In all good things - In everything that is needful for their comfortable subsistence."
+        ],
+        "Marvin Vincent": [
+            "But, although each man is thus individualized as regards his burdens, Christian fellowship in all morally good things is to be maintained between the teacher and the taught.",
+            "The exhortation therefore is, that the disciple should make common cause with the teacher in everything that is morally good and that promotes salvation.",
+            "Hold fellowship with; partake with. Not impart to. The word is used of giving and receiving material aid: of moral or spiritual participation: of participation in outward conditions: in sufferings."
+        ],
+        "John Calvin": [
+            "How disgraceful is it to defraud of their temporal support those by whom our souls are fed! \u2014 to refuse an earthly recompense to those from whom we receive heavenly benefits!",
+            "It is one of the tricks of Satan to defraud godly ministers of support, that the Church may be deprived of such ministers.",
+            "To supply their real necessities, let believers cheerfully devote any part of their property that may be required for the services of devout and holy teachers."
+        ],
+        "Philip Schaff": [
+            "Let him that is taught (or, orally instructed) in the word (of God) share with him that teacheth, in all good things (temporal possessions of every kind).\" ",
+            "their relation is a partnership, a communion of interests.\" ",
+            "Who sows grain will reap grain, who sows tares will reap tares; who sows plentifully will reap plentifully, who sows sparingly will reap sparingly."
+        ],
+        "Archibald T. Robertson": [
+            "The active (\u03c4\u03c9 \u03ba\u03b1\u03c4\u03b7\u03c7\u03bf\u03c5\u03bd\u03c4) joined with the passive is interesting as showing how early we find paid teachers in the churches.\" ",
+            "For this late and rare verb \u03ba\u03b1\u03c4\u03b7\u03c7\u03b5\u03c9, see on Luke 1:4; Acts 18:25; 1 Corinthians 14:19. It occurs in the papyri for legal instruction.\" ",
+            "There was a teaching class thus early (1 Thessalonians 5:12; 1 Corinthians 12:28; Ephesians 4:11; 1 Thessalonians 5:17)."
+        ],
+        "John Gill": [
+            "He that is taught in this, is... one that has been taught to know himself, and his lost state by nature; to know Christ, and salvation by him; to know the truths of the Gospel, and to deny ungodliness, and worldly lusts, and to live soberly, righteously, and godly.\" ",
+            "It may include everyone that is only outwardly taught, that is but an external hearer.\" ",
+            "Temporal things are good as they are of God, and in themselves, and when rightly used answer good purposes."
+        ],
+        "John Wesley": [
+            "Let him that is taught impart to him that teacheth all such temporal good things as he stands in need of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are taught the word of God should share with those who teach them, for in doing so they make the needs of their teachers their own. This partnership extends to all aspects of life, encompassing both spiritual and material support. By participating in this fellowship, disciples not only alleviate the burdens of their ministers, but also cultivate a sense of community centered around the pursuit of moral goodness and salvation. It is essential to recognize the significance of providing for those who nourish our souls, as neglecting their earthly needs hinders the spread of the gospel and deprives the Church of godly ministers. Therefore, believers should willingly devote a portion of their resources to support the devoted and holy teachers who guide them in their faith.",
+            "wordCount": 128,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 1.914878050205726,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                34.17,
+                29.98,
+                35.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are encouraged to share in the necessities of the saints, including providing for the needs of their ministers who teach catechetically. This partnership encompasses all morally good things and promotes salvation. By partaking in this fellowship, disciples not only relieve the burdens of their teachers but also establish a sense of community centered around moral goodness and salvation. It is crucial to recognize the importance of supporting those who feed our souls, as neglecting their earthly needs obstructs the spread of the gospel and deprives the Church of godly ministers.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.9264224317128686,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+            "commentatorTierSimilarities": [
+                35.34,
+                29.34,
+                35.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are exhorted to bear one another's burdens by participating in the needs of the saints and supporting their ministers. The partnership between disciple and teacher extends to all morally good things that promote salvation. By making common cause in material aid and spiritual participation, disciples not only alleviate the burdens of their teachers but also establish fellowship and communal support. Neglecting the support of ministers hinders the Church and deprives it of the benefits of their heavenly teachings. Therefore, believers should willingly devote their resources to supply the necessities of their devoted and holy teachers.",
+            "wordCount": 97,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.883950665943071,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                39.16,
+                25.53,
+                35.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are called to share in the necessities of the saints, which includes supporting their ministers. By making the needs of their teachers their own, disciples actively participate in the burdens of their spiritual leaders. This partnership extends to both material and spiritual aspects, promoting fellowship and the pursuit of moral goodness. Neglecting to provide for their ministers hinders the spread of the gospel and deprives the Church of godly teachers. Therefore, believers should willingly devote a portion of their resources to support the devoted and holy teachers who guide them in their faith.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.8493438324110136,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.83,
+            "commentatorTierSimilarities": [
+                38.06,
+                27.34,
+                34.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are encouraged to share in the necessities of the saints, including providing for the needs of their ministers who teach catechetically. This partnership encompasses all morally good things and promotes salvation. By partaking in this fellowship, disciples not only relieve the burdens of their teachers but also establish a sense of community centered around moral goodness and salvation. It is crucial to recognize the importance of supporting those who feed our souls, as neglecting their earthly needs obstructs the spread of the gospel and deprives the Church of godly ministers.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.9264224317128686,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+            "commentatorTierSimilarities": [
+                35.34,
+                29.34,
+                35.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

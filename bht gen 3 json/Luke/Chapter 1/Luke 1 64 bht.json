@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:13:39",
+    "verseRef": "Luke 1:64",
+    "bestBHT": {
+        "bht": "Zacharias, who had been struck dumb for his disbelief, saw the fulfillment of the angel's words as his mouth was immediately opened. This miraculous restoration of speech was not only a physical healing but also a sign of his complete faith in the vision. Zacharias seized the opportunity to offer praise and bless God, expressing gratitude for his son's birth and his own restoration. Through this miraculous event, the significance of John's birth became evident, as it was a promised and extraordinary occurrence.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.794908014861418,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+        "commentatorTierSimilarities": [
+            18.83,
+            35.86,
+            45.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "64.] For now first had the angel\u2019s words, \u201cthou shalt call his name John,\u201d ver. 13, received their fulfillment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "64. mouth opened immediately\u2014on",
+            "\tthus palpably showing his full faith in the vision, for disbelieving",
+            "\twhich he had been struck dumb (Luke 1:13;",
+            "\tLuke 1:20)."
+        ],
+        "Albert Barnes": [
+            "His mouth was opened ... - That is, he was enabled to speak.",
+            "For one act of disbelief all this calamity had come upon him, and it had not come without effect.",
+            "With true gratitude he offered praise to God for the birth of a son, and for his restoration to the blessings of speech."
+        ],
+        "Marvin Vincent": [
+            "Immediately [\u03c0\u03b1\u03c1\u03b1\u03c7\u03c1\u03b7\u03bc\u03b1]. Occurring nineteen times in the New Testament, and seventeen of these in Luke.\" ",
+            "Thirteen of the seventeen are in connection with miracles of healing, or the infliction of disease or death.\" ",
+            "Used in a similar way by medical writers."
+        ],
+        "John Calvin": [
+            "God puts honor on the birth of his prophet by restoring speech to his father: for there can be no doubt that this benefit was delayed till that day with the express object and design of fixing the eyes of men upon John.\" ",
+            "Zacharias spake, blessing God He did so, not only for the purpose of testifying his gratitude, but to inform his relatives and neighbors, that this punishment had been inflicted on him, because he had been too slow to believe.",
+            "Thus it became universally known, that the birth of the child was not an accidental or ordinary event, but had been promised by an announcement from heaven."
+        ],
+        "Philip Schaff": [
+            "The word loosed is properly supplied in the E. V.",
+            "Blessing God. \u2018His first use of his recovered faculty is not to utter a complaint, but a doxology: a proof that the cure had taken place in his soul also.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Immediately (\u03c0\u03b1\u03c1\u03b1\u03c7\u03c1\u03b7\u03bc\u03b1). Nineteen times in the N.T., seventeen in Luke.",
+            "Opened (\u03b1\u03bd\u03b5\u03c9\u03b9\u03c7\u03b8\u03b7). First aorist passive indicative with double augment.",
+            "The verb suits 'mouth,' but not 'tongue' (\u03b3\u03bb\u03c9\u03c3\u03c3\u03b1). It is thus a zeugma with tongue. Loosed or some such verb to be supplied."
+        ],
+        "John Gill": [
+            "And his mouth was opened immediately... his tongue loosed... and he spake and praised God.\" ",
+            "As soon as ever the child was named, and so all things accomplished which the angel had foretold.",
+            "He spake and praised God... for God's gracious regards to his church and people, in these instances."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon receiving the angel's words, Zacharias had been struck dumb for his disbelief. But now, at the fulfillment of the angel's prophecy, his mouth was opened immediately, signifying his full faith in the vision. This occurrence, happening in connection with a miracle, emphasizes the divine intervention in restoring Zacharias' speech. His first act after regaining his ability to speak was to offer praise and bless God, showing his gratitude for the birth of his son and his restoration to the blessings of speech. This miraculous event drew attention to the significance of John's birth, marking it as a promised and extraordinary event.",
+            "wordCount": 105,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.7545976668566354,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.68,
+            "commentatorTierSimilarities": [
+                20.1,
+                34.61,
+                45.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the fulfillment of the angel's prophecy, Zacharias' mouth was opened immediately, demonstrating his faith. This miracle of restored speech was not without purpose, for it drew attention to the birth of his son as a significant event. Zacharias, grateful for the blessing, praised God and expressed his gratitude. This act of praise, his first after regaining speech, showcased the transformation that had occurred in his soul. Through this miraculous incident, God's gracious regard for His people was evident.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.7197934521054041,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                15.88,
+                36.7,
+                47.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Zacharias, who had been struck dumb for his disbelief, saw the fulfillment of the angel's words as his mouth was immediately opened. This miraculous restoration of speech was not only a physical healing but also a sign of his complete faith in the vision. Zacharias seized the opportunity to offer praise and bless God, expressing gratitude for his son's birth and his own restoration. Through this miraculous event, the significance of John's birth became evident, as it was a promised and extraordinary occurrence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.794908014861418,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                18.83,
+                35.86,
+                45.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After being struck dumb for his disbelief, Zacharias witnessed the fulfillment of the angel's prophecy as his mouth was immediately opened. This restoration of speech not only signified his faith but also served to draw attention to the extraordinary significance of John's birth. Grateful for his son's arrival and his own restored blessings, Zacharias praised and blessed God, emphasizing the divine favor extended to His people through these remarkable events. This miraculous event affirmed the promised nature of John's birth, recognized as a heavenly revelation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.739283046459467,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                19.81,
+                33.84,
+                46.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Zacharias, who had been struck dumb for his disbelief, experienced the fulfillment of the angel's words when his mouth was opened immediately. This restoration of speech served as a tangible display of his faith in the vision. In response, Zacharias expressed gratitude by praising and blessing God. The reopening of his mouth not only announced the birth of his son but also showcased the divine purpose behind the event, inviting wider recognition that John's birth was a momentous occasion with heavenly origins.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7223051180905378,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.61,
+            "commentatorTierSimilarities": [
+                19.29,
+                36.81,
+                43.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:16:51",
+    "verseRef": "2 Corinthians 7:5",
+    "bestBHT": {
+        "bht": "After our arrival in Macedonia, there was no relief for us. Our flesh had no rest, constantly engaged in battles with adversaries both within and outside the church. Fears burdened us, particularly for the Corinthian believers, as we anticipated the influence of false brethren. Amidst the afflictions and anxieties we faced, the joy you provided remained steadfast, overflowing in our lives and bringing solace.",
+        "wordCount": 64,
+        "quoteTokenProportion": 36.0,
+        "qualityScore": 1.8986622229498198,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+        "commentatorTierSimilarities": [
+            35.18,
+            34.93,
+            29.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For indeed, after our coming to Macedonia, our flesh had no rest, without, fightings, within, fears.\" ",
+            "No further distinction must be drawn\u2014for the words 'within were fears,' evidently shew that 'flesh' must be taken in a wide sense.",
+            "It is best, as St. Paul speaks of our flesh, to understand without of the state of things without him personally, contentions with adversaries, either within or without the church, and within of that within him personally, fears."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "My 'flesh' had no rest... from 'fightings' with adversaries 'without'.\" ",
+            "From fears for the Corinthian believers 'within' the Church, owing to 'false brethren'.",
+            "He, by the term 'flesh,' excepts his spiritual consolations."
+        ],
+        "Albert Barnes": [
+            "We were exceedingly distressed and agitated. We had no rest.\" ",
+            "We had no rest in any quarter. We were obliged to enter into harassing labors and strifes there, and we were full of anxiety in regard to you.",
+            "He felt great solicitude on the subject. His fears were probably that they would be indisposed to exercise the discipline on the offender; or lest the severity of the discipline required should alienate them from him; or lest the party under the influence of the false teachers should prevail."
+        ],
+        "Marvin Vincent": [
+            "Rest [\u03b1\u03bd\u03b5\u03c3\u03b9\u03bd] . Rev., relief. See on liberty, Acts 24:23."
+        ],
+        "John Calvin": [
+            "I was pressed on every side... All this, however, has not prevented the joy that you have afforded me from prevailing over it, and even overflowing.",
+            "There were not merely avowed enemies that were hostile to him, but... the servants of God must of necessity feel alarmed, and be racked with anxieties.",
+            "The servants of Christ, undoubtedly, have scarcely at any time exemption from fears, and Paul was seldom free from outward fightings; but as he was at that time more violently oppressed, he makes use of the plural number \u2014 fightings and fears, meaning that he required to fight in many ways, and against various enemies, and that he had at the same time many kinds of fear."
+        ],
+        "Philip Schaff": [
+            "For even when we were come into Macedonia, our flesh had no relief, but we were troubled on every side.\" ",
+            "Without were fightings, within were fears.\" ",
+            "For his work, his converts, his reputation."
+        ],
+        "Archibald T. Robertson": [
+            "Had no relief (\u03bf\u03c5\u03b4\u03b5\u03bc\u03b9\u03b1\u03bd \u03b5\u03c3\u03c7\u03b7\u03ba\u03b5\u03bd \u03b1\u03bd\u03b5\u03c3\u03b9\u03bd). Perfect active indicative precisely as in 2 Corinthians 2:13 which see, 'has had no relief' (dramatic perfect).",
+            "Afflicted (\u03b8\u03bb\u03b9\u03b2\u03bf\u03bc\u03b5\u03bd\u03bf). Present passive participle of \u03b8\u03bb\u03b9\u03b2\u03c9 as in 2 Corinthians 4:8, but with anacoluthon, for the nominative case agrees not with the genitive \u03b7\u03bc\u03c9\u03bd nor with the accusative \u03b7\u03bc\u03b1\u03c2 in verse 2 Corinthians 7:6. It is used as if a principal verb as in 2 Corinthians 9:11; 2 Corinthians 11:6; Romans 12:16 (Moulton, Prolegomena, p. 182; Robertson, Grammar, pp. 1132-35).",
+            "Within were fears (\u03b5\u03c3\u03c9\u03b8\u03b5\u03bd \u03c6\u03bf\u03b2\u03bf). Same construction. 'Mental perturbations' (Augustine) as in 2 Corinthians 11:28."
+        ],
+        "John Gill": [
+            "Without were fightings, within were fears.",
+            "Their outward conversation in this life is a warfare.",
+            "There is, as it were, a company of two armies within them, sin and grace, flesh and spirit, opposing each other."
+        ],
+        "John Wesley": [
+            "Had no rest from without \u2014 From the heathens.",
+            "Were fightings \u2014 Furious and cruel oppositions.",
+            "Were fears \u2014 Lest they should be seduced."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After coming to Macedonia, there was no rest for us. Externally, we faced fights with adversaries, whether within or outside the church. Internally, fears plagued us, particularly for the Corinthian believers, as we worried about the influence of false brethren. The term flesh in this context refers to our own personal state of being, separate from our spiritual consolations. Our afflictions were ongoing, causing distress and agitation, and our anxieties were numerous. Despite these challenges, the joy that you brought us prevailed, overflowing in our lives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7091531006607852,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.17,
+            "commentatorTierSimilarities": [
+                34.26,
+                35.74,
+                30.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After our arrival in Macedonia, there was no relief for us. Our flesh had no rest, constantly engaged in battles with adversaries both within and outside the church. Fears burdened us, particularly for the Corinthian believers, as we anticipated the influence of false brethren. Amidst the afflictions and anxieties we faced, the joy you provided remained steadfast, overflowing in our lives and bringing solace.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.8986622229498198,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                35.18,
+                34.93,
+                29.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After reaching Macedonia, we found no relief. Our flesh had no rest, as we encountered fights both internally and externally. Fears plagued us, specifically regarding false brethren and the Corinthian believers. The struggles and anxieties were unceasing, causing distress and agitation. However, the joy you brought us outweighed these challenges, overflowing in our lives.",
+            "wordCount": 54,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.6663336232246833,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                29.81,
+                38.14,
+                32.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon arriving in Macedonia, we found no relief for our restless flesh. The absence of rest stemmed from the battles we faced outside, engaged with adversaries and internal doubts. Fears plagued us, particularly regarding false brethren and concerns for the Corinthian believers. These afflictions brought ongoing distress and agitation. Nevertheless, your presence and the joy you provided surpassed these tribulations, saturating our lives with overflowing solace.",
+            "wordCount": 66,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.7324601393754988,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+            "commentatorTierSimilarities": [
+                32.42,
+                34.81,
+                32.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After our journey to Macedonia, we experienced no relief for our weary flesh. Fights and contentions awaited us in the external sphere, while fears pervaded our inner being. We grappled with adversaries both inside and outside the church, bearing the weight of anxieties for the Corinthian believers. This state of constant affliction caused distress and left us agitated. However, your presence brought us immeasurable joy, surpassing the challenges we faced and filling our lives to overflow with solace.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7192500929418073,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                30.72,
+                39.75,
+                29.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

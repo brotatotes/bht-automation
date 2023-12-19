@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:01:46",
+    "verseRef": "Romans 3:28",
+    "bestBHT": {
+        "bht": "We reckon that a man is justified by faith apart from the works of the law. This unique principle of the Christian religion is applicable to both Jew and Gentile. Through faith, we receive a righteousness that makes the sinner just, while boasting is excluded. It is important to emphasize that this righteousness is not attained by works, but by faith alone. This way of salvation differentiates itself from all other works, showing that no other means are sufficient for justification.",
+        "wordCount": 81,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.3197180388445044,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.47,
+        "commentatorTierSimilarities": [
+            32.93,
+            30.94,
+            36.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For we reckon...that a man is justified by faith apart from...the works of the law...and therefore boasting is excluded.",
+            "We reckon...that a man is justified by faith apart from...the works of the law.",
+            "A man is justified by faith apart from...the works of the law."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But that God should encourage such a spirit in sinners, by any procedure of His, is incredible. This therefore stamps falsehood upon every form of 'justification by works'...",
+            "Our faith receives a righteousness that makes the sinner just...",
+            "This and no other way of salvation is adapted alike to Jew and Gentile."
+        ],
+        "Albert Barnes": [
+            "Is regarded and treated as righteous, by believing in the Lord Jesus Christ.",
+            "This is the grand uniqueness of the Christian religion.",
+            "If this doctrine is held entire, all others will be held with it."
+        ],
+        "John Calvin": [
+            "They indeed allow that man is justified by faith; but not by faith alone; yea, they place the efficacy of justification in love, though in words they ascribe it to faith. But Paul affirms in this passage that justification is so gratuitous, that he makes it quite evident, that it can by no means be associated with the merit of works.",
+            "What James says, that man is not justified by faith alone, but also by works, does not at all militate against the preceding view. The reconciling of the two views depends chiefly on the drift of the argument pursued by James.",
+            "For the question with him is not, how men attain righteousness before God, but how they prove to others that they are justified...he must prove his righteousness by his works."
+        ],
+        "Philip Schaff": [
+            "Glorying is excluded by the law of faith, for (we have already proved and hence) we reckon, etc.",
+            "By faith apart from the works of the law. This principle has already been established...",
+            "The emphasis rests on 'faith,' which 'is the alone instrument of justification; yet it is not alone in the person justified, but is ever accompanied with all other saving graces, and is no dead faith, but worketh by love.'"
+        ],
+        "Archibald T. Robertson": [
+            "We reckon therefore (\u03bb\u03bf\u03b3\u03b9\u03b6\u03bf\u03bc\u03b5\u03b8\u03b1 \u03bf\u03c5\u03bd). Present middle indicative.",
+            "The accusative and infinitive construction occurs after \u03bb\u03bf\u03b3\u03b9\u03b6\u03bf\u03bc\u03b5\u03b8\u03b1 here.",
+            "Paul restates verses Romans 3:21."
+        ],
+        "John Gill": [
+            "that a man is justified by faith without the deeds of the law.",
+            "The means is 'by faith', not habitually or actually considered; that is, either as an habit and principle infused into us, or as an act performed by us; but either organically, as it is a means of receiving Christ's righteousness; or objectively, as it denotes Christ the object of it.",
+            "but by faith without works joined to it, in the affair of justification; or by the righteousness of Christ imputed by God the Father, without any consideration of them, and received by faith, and relied upon by the believer, without any regard unto them."
+        ],
+        "John Wesley": [
+            "A man is justified by faith - And even by this, not as it is a work, but as it receives Christ.\" ",
+            "It has something essentially different from all our works whatsoever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We reckon that a man is justified by faith apart from the works of the law. This is the grand uniqueness of the Christian religion, a way of salvation that is adapted to both Jew and Gentile. By this principle, our faith receives a righteousness that makes the sinner just, and boasting is excluded. The efficacy of justification cannot be associated with the merit of works, as Paul clearly states. Faith alone is the means of justification, not habitually or actually considered, but organically, as it is a means of receiving Christ's righteousness. It has something essentially different from all our works whatsoever, and no other way of salvation is sufficient.",
+            "wordCount": 112,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.252906634118471,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.25,
+            "commentatorTierSimilarities": [
+                31.76,
+                30.66,
+                37.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We reckon that a man is justified by faith apart from the works of the law. This is the grand uniqueness of the Christian religion, adapted to both Jew and Gentile. By faith, our righteousness stems from receiving Christ's righteousness, making the sinner just. Faith alone, not habitually or actually considered, is the means of justification. It has something essentially different from all our works, and no other way of salvation is sufficient.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.2898784937678345,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.48,
+            "commentatorTierSimilarities": [
+                32.27,
+                31.37,
+                36.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We reckon that a man is justified by faith apart from the works of the law. This unique principle of the Christian religion is applicable to both Jew and Gentile. Through faith, we receive a righteousness that makes the sinner just, while boasting is excluded. It is important to emphasize that this righteousness is not attained by works, but by faith alone. This way of salvation differentiates itself from all other works, showing that no other means are sufficient for justification.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.3197180388445044,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.47,
+            "commentatorTierSimilarities": [
+                32.93,
+                30.94,
+                36.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We reckon that a man is justified by faith apart from the works of the law. This unique principle is applicable to both Jew and Gentile. Through faith, we receive a righteousness that makes the sinner just, while boasting is excluded. It is important to emphasize that this righteousness is not attained by works, but by faith alone. This way of salvation differentiates itself from all other works, showing that no other means are sufficient for justification.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.2607510372004347,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.51,
+            "commentatorTierSimilarities": [
+                33.56,
+                30.36,
+                36.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We reckon that a man is justified by faith apart from the works of the law. This is the grand uniqueness of the Christian religion, adapted equally to Jew and Gentile. By faith, our righteousness receives Christ's righteousness, making the sinner just. Faith alone, not habitually or actually considered, is the means of justification. No other way of salvation suffices, as it has something essentially different from all our works.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.291781666165596,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.54,
+            "commentatorTierSimilarities": [
+                32.58,
+                31.14,
+                36.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

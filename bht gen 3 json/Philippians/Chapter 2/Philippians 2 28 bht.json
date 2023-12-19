@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 13:53:59",
+    "verseRef": "Philippians 2:28",
+    "bestBHT": {
+        "bht": "The Apostle's delicate affection is revealed in his hope that the Philippians' joy upon seeing Epaphroditus will lessen his own sorrow. He sends Epaphroditus diligently, eager to ease his concern for the Philippians and to see their joy restored. St. Paul truly prioritizes the well-being of the Philippians, even at his own disadvantage. Knowing that the Philippians will be rejoicing in Epaphroditus' return, the Apostle can find solace and his sorrow can be lessened.",
+        "wordCount": 76,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 1.8419058280859275,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+        "commentatorTierSimilarities": [
+            39.57,
+            29.21,
+            31.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The that I may be the less sorrowful is one of the Apostle\u2019s delicate touches of affection.",
+            "If they rejoiced in seeing Epaphroditus, his own trouble would be thereby lessened."
+        ],
+        "Albert Barnes": [
+            "I send him therefore the more carefully - With more diligence, or speed; I was the more ready to send him.",
+            "That I may be the less sorrowful - That is, on account of my solicitude for you; that I may know that your minds are at ease, and that you rejoice in his being among you."
+        ],
+        "John Calvin": [
+            "To such a degree did he prefer the welfare of the Philippians to his own advantage...",
+            "...he rejoices on occasion of his departure, because it grieved him that, on his account, he was taken away from the flock that was intrusted to him...",
+            "...he was reluctant to avail himself of his services, though otherwise agreeable to him, when it was at the expense of loss to them."
+        ],
+        "Philip Schaff": [
+            "Diligently' indicates that St. Paul had allowed no time to elapse after the recovery of Epaphroditus before he sent him away.",
+            "Ye may again have joy,' which is fled from you since ye heard the tidings of his sickness.",
+            "When their messenger was among them once more, the weight on the mind of St. Paul would be lightened."
+        ],
+        "Archibald T. Robertson": [
+            "Ye may rejoice... That I may be the less sorrowful.\" ",
+            "Beautiful expression of Paul's feelings for the Philippians and for Epaphroditus."
+        ],
+        "John Gill": [
+            "I sent him therefore the more carefully,.... Or in greater haste, and as soon as possible: that when ye see him again ye may rejoice...",
+            "This must greatly increase their joy, to see him again after he had been so long from them, and under such a disorder, which had made them to fear they should never see him more.",
+            "When he should hear of his safe arrival among them, and of their joyful reception of him to their mutual satisfaction, which would be an alleviation of the apostle's sorrow in his present circumstances; for he did not expect to be wholly without sorrow while in this life."
+        ],
+        "John Wesley": [
+            "That I may be the less sorrowful \u2014 When I know you are rejoicing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle, in expressing his affection for the Philippians, hopes that their joy in seeing Epaphroditus will alleviate his own sorrow. He sends Epaphroditus diligently, eager to ease his concern for the Philippians and to see their joy restored. St. Paul truly prioritizes the well-being of the Philippians, even at his own disadvantage. Knowing that the Philippians will be rejoicing in Epaphroditus' return, the Apostle can find solace and his sorrow can be lessened.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.8158916837279255,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                38.35,
+                29.32,
+                32.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle's delicate affection is revealed in his hope that the Philippians' joy upon seeing Epaphroditus will lessen his own sorrow. Knowing that their rejoicing will ease his concern, St. Paul carefully and eagerly sends Epaphroditus to them. He prioritizes the welfare of the Philippians above his own advantage, reluctant to have Epaphroditus away from them even though he is agreeable to him. By seeing their joyful reception and knowing of their mutual satisfaction, the Apostle's present circumstances of sorrow can find some alleviation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7110075615208737,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                35.1,
+                29.15,
+                35.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle's affection is evident as he hopes that the Philippians' joy in seeing Epaphroditus will alleviate his sorrow. St. Paul diligently sends Epaphroditus to them, prioritizing their welfare over his own advantage. He finds solace in knowing that their rejoicing will alleviate his present sorrow. By witnessing their joyful reception and mutual satisfaction, his sorrowful circumstances can be lessened.",
+            "wordCount": 61,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.6654807944192935,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                35.56,
+                28.11,
+                36.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle's affection is reflected in his hope that the Philippians' joy upon seeing Epaphroditus will lessen his own sorrow. He eagerly and diligently sends Epaphroditus to them, prioritizing their welfare over his own advantage. St. Paul finds solace in knowing that their rejoicing will alleviate his present sorrow. Witnessing their joyful reception and mutual satisfaction will lessen his sorrowful circumstances.",
+            "wordCount": 62,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.650286310281691,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+            "commentatorTierSimilarities": [
+                35.22,
+                28.39,
+                36.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle's delicate affection is revealed in his hope that the Philippians' joy upon seeing Epaphroditus will lessen his own sorrow. He sends Epaphroditus diligently, eager to ease his concern for the Philippians and to see their joy restored. St. Paul truly prioritizes the well-being of the Philippians, even at his own disadvantage. Knowing that the Philippians will be rejoicing in Epaphroditus' return, the Apostle can find solace and his sorrow can be lessened.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.8419058280859275,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                39.57,
+                29.21,
+                31.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

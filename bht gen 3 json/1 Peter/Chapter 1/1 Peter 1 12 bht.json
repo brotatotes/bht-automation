@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:38:47",
+    "verseRef": "1 Peter 1:12",
+    "bestBHT": {
+        "bht": "The prophets of old not only had the future revealed to them, but they also knew that these revelations were not just for themselves, but for our benefit in Gospel times. Despite having the honor of Christ's Spirit speaking in them, their privileges are brought forth by contrast with ours to encourage us to even greater earnestness. Angels long to understand the means by which sinners are transformed; their intense desire to know is seen in their intense interest and inquiry into the things of the Gospel.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 1.8532314204834894,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+        "commentatorTierSimilarities": [
+            25.53,
+            35.27,
+            39.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not only was the future revealed to them, but this also, that these revelations of the future were given them not for themselves, but for our good in Gospel times.\" ",
+            "Our immense privileges are thus brought forth by contrast with theirs, notwithstanding that they had the great honor of Christ's Spirit speaking in them; and this, as an incentive to still greater earnestness on our part than even they manifested.",
+            "Angels have only the contrast between good and evil, without the power of conversion from sin to righteousness: witnessing such conversion in the Church, they long to penetrate the knowledge of the means whereby it is brought about."
+        ],
+        "Albert Barnes": [
+            "Their messages had reference mainly to future times, and that the full benefit of them would be experienced only in distant ages.",
+            "They were reaping the benefit of all the labors of the prophets.",
+            "They were, in many respects, more favored than even those holy men had been."
+        ],
+        "Marvin Vincent": [
+            "The term is applicable to any kind of service, official or not.\" ",
+            "The word commonly denotes intense desire.\"  ",
+            "A very graphic word, meaning to stoop sideways."
+        ],
+        "John Calvin": [
+            "We see how highly they extolled the kingdom of Christ, how assiduous they were in adorning it, how diligently they stimulated all to seek it; but they were by death deprived of the privilege of seeing it as it now is.\" ",
+            "They indeed tasted by faith of those things which the Lord has by their hands transmitted to be enjoyed by us; and they also partook of Christ as the real food of their souls.\" ",
+            "To this I answer, that things are open to us as far as we see them in the mirror of the word; but our knowledge is not said to be higher than that of angels; Peter only means that such things are promised to us as angels desire to see fulfilled."
+        ],
+        "Philip Schaff": [
+            "It was discovered to them that in regard to certain things which the Spirit communicated they were dealing with things meant for others, and this fact (pointing, as it did, to the mystery of a place for the Gentile world sooner or later in Israel\u2019s grace) stimulated their inquiry.\" ",
+            "The things which thus were the subject of prophetic interest and inquiry, are now referred to as having also formed the burden of the preaching of those who carried the Gospel into those Gentile territories, Pontus, Galatia, etc.",
+            "The intensity of this interest is expressed by the strong term desire, or long the word used by Christ Himself in view of His hastening passion, \u2018With desire I have desired to eat this passover with you before I suffer\u2019 (Luke 22:15)."
+        ],
+        "Archibald T. Robertson": [
+            "The connexion between study and inspiration is a great mystery.",
+            "We do the best that we can and only skirt the shore of knowledge.",
+            "The interest of angels in the Incarnation."
+        ],
+        "John Gill": [
+            "Not that they were ignorant of the things they searched into, and were revealed unto them, and they prophesied of; as the Jews sometimes say of them, 'that they prophesied and knew not what they prophesied of.'",
+            "though they were both profitable to themselves, and others that lived with them, yet they are more so to the saints under the Gospel dispensations, who are able to compare prophesies and facts together",
+            "things they are highly delighted with, take pleasure in the contemplation of, and desire to have a greater knowledge of, and acquaintance with"
+        ],
+        "John Wesley": [
+            "They did not so much by those predictions serve themselves, or that generation, as they did us, who now enjoy what they saw afar off.",
+            "Confirmed by the inward, powerful testimony of the Holy Ghost, as well as the mighty effusion of his miraculous gifts.",
+            "What the Holy Ghost taught concerning Christ the very angels long to know."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prophets of old not only had the future revealed to them, but they also knew that these revelations were not just for themselves, but for our benefit in Gospel times. Despite having the honor of Christ's Spirit speaking in them, their privileges are brought forth by contrast with ours to encourage us to even greater earnestness. Angels, who only know the contrast between good and evil without the power of conversion, long to understand the means by which sinners are transformed. Their intense desire to know is seen in their intense interest and inquiry into the things of the Gospel. Thus, our knowledge and experience of the kingdom of Christ is something that even angels desire to see fulfilled.",
+            "wordCount": 121,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 1.7768203696146125,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.42,
+            "commentatorTierSimilarities": [
+                26.79,
+                33.09,
+                40.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prophets of old not only had the future revealed to them, but they also knew that these revelations were not just for themselves, but for our benefit in Gospel times. Despite having the honor of Christ's Spirit speaking in them, their privileges are brought forth by contrast with ours to encourage us to even greater earnestness. Angels long to understand the means by which sinners are transformed; their intense desire to know is seen in their intense interest and inquiry into the things of the Gospel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.8532314204834894,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                25.53,
+                35.27,
+                39.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophets of old were not only given the future revelations, but they knew that these revelations were meant for our benefit in Gospel times. Their privilege of having Christ's Spirit speaking in them is contrasted with our immense privileges, serving as an incentive for us to be even more earnest. Angels, though not able to experience conversion, yearn to understand the means by which sinners are transformed. Their intense desire is evident in their fervent interest and inquiry into the things of the Gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.7460689626795314,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.4,
+            "commentatorTierSimilarities": [
+                26.2,
+                36.01,
+                37.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophets of old were privileged to receive future revelations that were not solely for themselves, but for our benefit in Gospel times. This serves as an incentive for us to be even more earnest than they were, despite having Christ's Spirit speaking in them. Angels have an intense desire to understand the means by which sinners are converted, as they witness this transformation in the Church. Their fervent interest and inquiry into the Gospel reflect their longing to delve deeper into this mystery.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.754803622919551,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+            "commentatorTierSimilarities": [
+                24.96,
+                37.08,
+                37.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophets of old not only had the future revealed to them, but they also knew that these revelations were not just for themselves, but for our benefit in Gospel times. Despite having the honor of Christ's Spirit speaking in them, their privileges are brought forth by contrast with ours to encourage greater earnestness. Angels desire to understand the means by which sinners are transformed and have an intense interest in the Gospel. Our knowledge and experience of the kingdom of Christ is something that even angels long to see fulfilled.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.7703070522371598,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                26.99,
+                32.69,
+                40.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

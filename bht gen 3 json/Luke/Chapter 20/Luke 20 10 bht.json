@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:22:06",
+    "verseRef": "Luke 20:10",
+    "bestBHT": {
+        "bht": "Messengers were sent to give him of the fruit of the vineyard, representing the good works that should have been produced. However, the people not only mocked and despised these messengers, but also failed to bear any fruit. As a result, they were unable to provide an account of their fruitfulness to the Lord. This highlights the significance of living a fruitful life, demonstrating righteousness through our actions, and bringing glory to God with our good works.",
+        "wordCount": 77,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 1.3319058313923757,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.63,
+        "commentatorTierSimilarities": [
+            26.61,
+            0.0,
+            73.39
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "10. beat, c.\u2014 ( :-) that is, the prophets, extraordinary messengers raised up",
+            "\tfrom time to time. (See on :-.)"
+        ],
+        "Marvin Vincent": [
+            "Of the fruit. See on Mark 12:2."
+        ],
+        "Archibald T. Robertson": [
+            "At the season (\u03ba\u03b1\u03b9\u03c1\u03c9). The definite season for the fruit like \u03bf \u03ba\u03b1\u03b9\u03c1\u03bf\u03c2 \u03c4\u03c9\u03bd \u03ba\u03b1\u03c1\u03c0\u03c9\u03bd (Matthew 21:34).",
+            "That they should give (\u03b9\u03bd\u03b1 \u03b4\u03c9\u03c3\u03bf\u03c5\u03c3\u03b9\u03bd). Future indicative with \u03b9\u03bd\u03b1 for purpose like the aorist subjunctive, though not so frequent."
+        ],
+        "John Gill": [
+            "that they should give him of the fruit of the vineyard; that is, that they, bringing forth good fruit in their lives and conversations, whereby it might appear that they were trees of righteousness, and the planting of the Lord.",
+            "the Jews not only mocked these messengers of the Lord, and despised their words, but misused them... so that they had no account to give of their fruitfulness in good works, but the contrary.",
+            "he, or they observing them, might give an account of them to the Lord, to the glory of his name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage tells of messengers who were sent at different times to deliver important messages, like the prophets in the Old Testament. These messengers were sent to receive fruit from the vineyard, symbolizing the good works and righteousness of the people. However, the people disregarded and mistreated these messengers and did not produce the desired fruit. Consequently, they were unable to give an account of their actions to the Lord, which was a reflection of their unfruitfulness in good works. This highlights the importance of producing good works in one's life to bring glory to God.",
+            "wordCount": 97,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.2679579284376947,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.5,
+            "commentatorTierSimilarities": [
+                28.39,
+                0.0,
+                71.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Messengers were sent, like the prophets of the Old Testament, to collect the fruit symbolizing the righteous deeds of the people. But they were mocked and mistreated instead, bearing no fruit. Consequently, they could not give an account of their unfruitfulness to the Lord, reflecting their failure to produce good works. This emphasizes the significance of living a fruitful life, for it brings glory to God.",
+            "wordCount": 66,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.2072610496189888,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.48,
+            "commentatorTierSimilarities": [
+                26.55,
+                0.0,
+                73.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Messengers were sent, that they should give him of the fruit of the vineyard - that is, to bear good fruit in their lives and actions as a testament to their righteousness. However, the people not only mocked and despised these messengers, but also failed to fulfill their purpose. As a result, they had no account to give of their fruitfulness in good works. This serves as a reminder of the importance of living a fruitful life and using our abilities to bring glory to the Lord.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.2668615246577088,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.47,
+            "commentatorTierSimilarities": [
+                23.77,
+                0.0,
+                76.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Messengers were sent to give him of the fruit of the vineyard, representing the good works that should have been produced. However, the people not only mocked and despised these messengers, but also failed to bear any fruit. As a result, they were unable to provide an account of their fruitfulness to the Lord. This highlights the significance of living a fruitful life, demonstrating righteousness through our actions, and bringing glory to God with our good works.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.3319058313923757,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.63,
+            "commentatorTierSimilarities": [
+                26.61,
+                0.0,
+                73.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Messengers were sent to collect the fruit of the vineyard as a sign of the people's righteousness reflected in their good works. Sadly, these messengers were mocked and mistreated, and the people failed to fulfill their purpose. Consequently, they had no account to give for their lack of fruitfulness in good works. This passage emphasizes the importance of producing good works in one's life, as it brings glory to God and serves as evidence of our faithfulness.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.1630671283451284,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.02,
+            "commentatorTierSimilarities": [
+                22.22,
+                0.0,
+                77.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

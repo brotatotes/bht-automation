@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:23:30",
+    "verseRef": "Luke 23:8",
+    "bestBHT": {
+        "bht": "The wicked tyrant Herod, driven by his own pride and curiosity, had long hoped to witness a miraculous spectacle from Jesus. His joy was frivolous and unkingly, as he desired to use Jesus as a mere object of amusement. However, his delight in seeing Jesus treated with contempt and disdain was cruel and unreasonable. Yet, despite Herod's wicked desires, Jesus would not succumb to being a mere stage-player or performer, and Herod's hopes for a miraculous display would ultimately be in vain.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.8348606889051986,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+        "commentatorTierSimilarities": [
+            19.57,
+            41.78,
+            38.65
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Fine sport thou expectedst, as the Philistines with Samson ( :-), O coarse, crafty, cruel tyrant!",
+            "But thou hast been baulked before (see on :-), and shalt be again.",
+            "But thou hast been baulked before (see on :-), and shalt be again."
+        ],
+        "Marvin Vincent": [
+            "Of a long time [\u03b5\u03be \u03b9\u03ba\u03b1\u03bd\u03bf\u03c5] . See on ch. Luke 7:6. ",
+            "Hoped [\u03b7\u03bb\u03c0\u03b9\u03b6\u03b5\u03bd] . Imperfect; was hoping - all this long time. ",
+            "Miracle [\u03c3\u03b7\u03bc\u03b5\u03b9\u03bf\u03bd] . See on Matthew 11:20; and compare Acts 2:22, Rev."
+        ],
+        "John Calvin": [
+            "Hence it is evident how greatly wicked men are intoxicated, or rather bewitched, by their own pride.",
+            "It was therefore most unreasonable cruelty to take pleasure in seeing him treated with contempt and disdain.",
+            "We need not wonder, therefore, if God conceal his glory from wicked men, who wished that he should contribute to their amusement, like some stage-player."
+        ],
+        "Philip Schaff": [
+            "This joy of Herod seems all the more frivolous and unkingly, if we suppose that the case of Jesus was actually offered to his jurisdiction.",
+            "The original indicates that this hope was contemporaneous with the continued desire.",
+            "Jesus was to him what a skilful juggler is to a seated court an object of curiosity."
+        ],
+        "Archibald T. Robertson": [
+            "Became glad... He was still hoping.\" ",
+            "He had long ago gotten over his fright that Jesus was John the Baptist come to life again.\" ",
+            "He wanted to see a miracle happening like a stunt of a sleight-of-hand performer."
+        ],
+        "John Gill": [
+            "And when Herod saw Jesus, he was exceeding glad...to have a sight of him, was a great indulgence to his curiosity.",
+            "he was desirous to see him of a long season...that he might know whether he was John or not.",
+            "he hoped to have seen some miracle done by him...to gratify his curiosity and spark further inquiry."
+        ],
+        "John Wesley": [
+            "He had been long desirous to see him \u2014 Out of mere curiosity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The cruel tyrant Herod had been hoping for a long time to see a miracle from Jesus, not out of sincere belief, but merely to satisfy his curiosity. He had already dismissed the idea that Jesus was John the Baptist, and his joy at the opportunity to see Jesus was frivolous and unkingly. Herod's desire to witness Jesus perform like a skilled juggler reveals how wicked men can be intoxicated by their own pride. It was incredibly cruel for Herod to take pleasure in seeing Jesus treated with contempt, as he sought to have Jesus contribute to his own amusement like a stage-player. Yet, in the end, Herod's wicked desire to use Jesus as a spectacle would be in vain.",
+            "wordCount": 123,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 1.7953943421269867,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+            "commentatorTierSimilarities": [
+                20.98,
+                43.57,
+                35.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The wicked and cruel tyrant Herod had been hoping for a long time to see a miracle from Jesus, not out of true belief but to satisfy his curiosity. It was unreasonable for him to take pleasure in seeing Jesus treated with contempt, seeking to use him as a spectacle. This desire revealed the intoxication of wicked men by their own pride. However, despite Herod's frivolous joy, his hopes of witnessing a miraculous spectacle from Jesus would ultimately be in vain.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7301516129518064,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                20.75,
+                38.46,
+                40.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wicked tyrant Herod had long hoped for a miracle from Jesus, not out of belief but to satisfy his curiosity. His joy was frivolous and unkingly, as he sought to use Jesus as a spectacle. This desire illustrated how wicked men are intoxicated by their own pride. However, Herod's cruel pleasure in seeing Jesus treated with contempt would prove in vain. Despite his hopes, Jesus would not perform like a mere stage-player for Herod's amusement.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.7083290918918743,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.14,
+            "commentatorTierSimilarities": [
+                20.61,
+                40.96,
+                38.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wicked tyrant Herod, driven by his own pride and curiosity, had long hoped to witness a miraculous spectacle from Jesus. His joy was frivolous and unkingly, as he desired to use Jesus as a mere object of amusement. However, his delight in seeing Jesus treated with contempt and disdain was cruel and unreasonable. Yet, despite Herod's wicked desires, Jesus would not succumb to being a mere stage-player or performer, and Herod's hopes for a miraculous display would ultimately be in vain.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8348606889051986,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+            "commentatorTierSimilarities": [
+                19.57,
+                41.78,
+                38.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Driven by his own curiosity and pride, the wicked Herod had long hoped for a miraculous spectacle from Jesus. His frivolous joy in seeing Jesus treated with contempt and disdain was cruel and unreasonable. Desiring to use Jesus as an object of amusement, Herod's pleasure in witnessing such a spectacle would ultimately be in vain. Though wicked men may be intoxicated by their own pride, Jesus, refusing to be a mere stage-player, would not cater to Herod's desires.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.6739342494283793,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "commentatorTierSimilarities": [
+                17.61,
+                40.41,
+                41.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

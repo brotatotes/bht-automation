@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:36:14",
+    "verseRef": "Acts 25:3",
+    "bestBHT": {
+        "bht": "Driven by deep hostility, Paul's adversaries plotted to have him executed without a fair trial. They even planned an ambush along the way to Jerusalem, determined to carry out their wicked intentions. However, God's providence thwarted their schemes, as He had promised Paul to bear witness in Rome. This divine intervention influenced Festus to deny their request, demonstrating the malicious motives of Paul's enemies, the peril he faced, and the protective care of Providence over him.",
+        "wordCount": 79,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.7990599525558113,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+        "commentatorTierSimilarities": [
+            23.07,
+            37.14,
+            39.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Favor is explained to mean condemnation.",
+            "They were making, contriving, the ambush already.",
+            "The country was at this time... full of sicarii (assassins)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They had the insolence to ask him to have the prisoner executed even without a trial.",
+            "How deep must have been their hostility, when two years after the defeat of their former attempt, they thirst as keenly as ever for his blood!",
+            "Their plea for having the case tried at Jerusalem, where the alleged offense took place, was plausible enough, but from Acts 25:10 it would seem that Festus had been made acquainted with their causeless malice."
+        ],
+        "Albert Barnes": [
+            "Desired the favor of Festus, that they might accomplish their wicked purpose on Paul.",
+            "Their real motive is immediately stated.",
+            "But God had promised him that he should bear witness to the truth at Rome\u2026and his providence was remarkable in thus influencing the mind of the Roman governor, and defeating the plans of the Jewish council."
+        ],
+        "Marvin Vincent": [
+            "Laying wait [\u03b5\u03bd\u03b5\u03b4\u03c1\u03b1\u03bd \u03c0\u03bf\u03b9\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2] . Lit., making or arranging an ambush."
+        ],
+        "Philip Schaff": [
+            "From the detailed account, it seems that two formal requests were made to him by the priests and influential men at Jerusalem.",
+            "Failing to persuade the Roman governor to condemn Paul, they determined... to lay an ambuscade and to assassinate the hated Nazarene teacher.",
+            "No doubt, when the request was urged, the band of Sicarii (assassins) was already hired, and the very place where the murder was to be carried out fixed upon."
+        ],
+        "Archibald T. Robertson": [
+            "A favour to themselves (middle voice), not to Paul, but 'against' (\u03ba\u03b1\u03c4', down, against) him.",
+            "That he would send for (\u03bf\u03c0\u03c9\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c0\u03b5\u03bc\u03c8\u03b7\u03c4\u03b1). First aorist middle subjunctive of \u03bc\u03b5\u03c4\u03b1\u03c0\u03b5\u03bc\u03c0\u03c9 (see Acts 24:24; Acts 24:26) with final particle \u03bf\u03c0\u03c9\u03c2 like \u03b9\u03bd\u03b1. Aorist tense for single case.",
+            "On the way (\u03ba\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03bf\u03b4\u03bf\u03bd). Down along, up and down along the way. Plenty of opportunity would occur between Caesarea and Jerusalem for ambush and surprise attacks."
+        ],
+        "John Gill": [
+            "They asked what would be a favour to them, and a prejudice to him.",
+            "Their scheme was, that if they could have prevailed upon Festus to have sent for Paul to Jerusalem...to have laid in wait for him in the way as he came, and to have killed him.",
+            "The whole of this shows the malice of these men, the badness of their cause, the indefatigableness and diligence to attain their end, the danger the apostle was in, and the care of Providence over him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The hostility towards Paul was so deep that not even two years after a failed assassination attempt, his enemies were still thirsty for his blood. They cunningly requested that Festus have Paul executed without a trial, and even suggested that the case be tried in Jerusalem, where their plot to ambush and assassinate him could easily be carried out. However, God's providence was at work, as He had promised that Paul would bear witness to the truth in Rome, and influenced the mind of Festus to deny their request. This showcases the malice of Paul's enemies, the danger he faced, and the careful protection of Providence over him.",
+            "wordCount": 110,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.8299153612670909,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                21.35,
+                36.68,
+                41.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The intense hostility towards Paul was evident in the persistence of his enemies, who were willing to go to extreme measures to eliminate him. They shamelessly requested that Festus condemn Paul without a trial, even suggesting a trial in Jerusalem where they planned to ambush and kill him. However, God's promise to Paul to bear witness in Rome prevailed, as His providence influenced Festus to deny their request. This situation highlights the malice of Paul's adversaries, his perilous situation, and the divine protection guiding his journey.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.7852829748511927,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.7,
+            "commentatorTierSimilarities": [
+                20.28,
+                37.15,
+                42.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The deep-seated hostility towards Paul was evident when his enemies repeatedly attempted to have him executed. They shamelessly asked Festus to condemn Paul without a trial, hoping to execute their wicked plan of ambush and assassination. However, God's providence was at work, as He had promised Paul that he would testify in Rome. This divine intervention influenced Festus to reject their request, highlighting the malicious intent of Paul's adversaries and the protective care of Providence over him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.795833864146967,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+            "commentatorTierSimilarities": [
+                20.05,
+                36.53,
+                43.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The adversaries of Paul were driven by an intense hostility towards him, so much so that they sought his condemnation without a fair trial. Their audacity extended to planning an ambush along the way to Jerusalem, intending to execute him. However, God's providence intervened, as He had promised Paul that he would bear witness to the truth in Rome. This divine influence guided Festus to deny their request, revealing the malicious intentions of Paul's enemies, the danger he faced, and the protection provided by Providence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.776580034751425,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                22.81,
+                36.92,
+                40.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Driven by deep hostility, Paul's adversaries plotted to have him executed without a fair trial. They even planned an ambush along the way to Jerusalem, determined to carry out their wicked intentions. However, God's providence thwarted their schemes, as He had promised Paul to bear witness in Rome. This divine intervention influenced Festus to deny their request, demonstrating the malicious motives of Paul's enemies, the peril he faced, and the protective care of Providence over him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.7990599525558113,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                23.07,
+                37.14,
+                39.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

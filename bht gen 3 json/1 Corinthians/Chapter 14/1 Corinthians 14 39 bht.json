@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 15:13:17",
+    "verseRef": "1 Corinthians 14:39",
+    "bestBHT": {
+        "bht": "Believers are encouraged to earnestly desire the gift of prophecy and not to forbid speaking in tongues. The Apostle Paul valued prophecy over tongues, highlighting its significance and usefulness. While speaking in foreign languages shouldn't be despised, prophecy is the gift that should be most sought after. By desiring the most edifying gift, believers can actively contribute to the growth and edification of the church.",
+        "wordCount": 66,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.9092787192860428,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.82,
+        "commentatorTierSimilarities": [
+            30.25,
+            40.61,
+            29.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "39.] The words earnestly desire and forbid not express the different estimations in which he held the two gifts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "39. covet\u2014earnestly desire.",
+            "\tStronger than \"forbid not\"; marking how much higher he",
+            "\testeemed \"prophecy\" than \"tongues."
+        ],
+        "Albert Barnes": [
+            "It was 'desirable' that a man should wish to be able to speak, under the teaching of the Holy Spirit, in such a manner as to edify the church.",
+            "Do not suppose that the power of speaking foreign languages is useless, or is to be despised, or that it is to be prohibited.",
+            "'In its own place' it is a valuable endowment; and on proper occasions the talent should be exercised."
+        ],
+        "John Calvin": [
+            "Prophecy is to be preferred to other gifts, because it is the most useful gift of all, while at the same time other gifts ought not to be despised.",
+            "He intimates, that prophecy is worthy of being eagerly and ardently aspired at by all.",
+            "He exhorts them not to envy others the rarer gift, which is not so much to be desired; nay more, to allow them the praise that is due to them, divesting themselves of all envy."
+        ],
+        "Philip Schaff": [
+            "If bent on the possession and exercise of spiritual gifts, let prophecy be that which ye most covet.\" ",
+            "Forbid not to speak with tongues though an inferior gift; for that would be to 'quench the Spirit'.",
+            "Desire earnestly to prophesy: 'If bent on the possession and exercise of spiritual gifts.'"
+        ],
+        "John Gill": [
+            "The apostle now draws to a conclusion, and reassumes the exhortation he gave in the beginning of the chapter.\" ",
+            "Pressing the members of this church to desire the gift of prophecy, that being the most eligible and preferable to others, particularly to speaking with tongues, since it was the most useful and edifying.\" ",
+            "And forbid not to speak with tongues; such as have that gift, and are desirous of exercising it, provided they observe the rules prescribed, and have an interpreter."
+        ],
+        "John Wesley": [
+            "Therefore \u2014 To sum up the whole."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the commentator expresses the higher esteem the Apostle Paul held for the gift of prophecy compared to the gift of tongues. He encourages believers to earnestly desire the gift of prophecy, while not forbidding the use of tongues. The commentator explains that speaking in foreign languages has its value and should not be despised or prohibited, but prophecy should be the gift that is most coveted. The Apostle Paul's exhortation emphasizes the importance of desiring the most useful and edifying gift for the benefit of the church.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.987036956989515,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+            "commentatorTierSimilarities": [
+                31.3,
+                38.97,
+                29.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, believers are encouraged to earnestly desire the gift of prophecy and not to forbid the use of tongues. The Apostle Paul highly esteemed prophecy over tongues, emphasizing its value and importance. While speaking in foreign languages is not to be despised, prophecy should be the gift that is most coveted. By desiring the most useful and edifying gift, believers can contribute to the growth and edification of the church community.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9143600108560541,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                30.85,
+                39.91,
+                29.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are urged to eagerly desire the gift of prophecy, while not forbidding the use of tongues. The distinction becomes clear as the commentator indicates the higher value placed on prophecy compared to tongues. While speaking in foreign languages should not be disregarded, prophecy is the gift that should be most coveted, as it is useful and edifying for the church community. By aspiring towards the most preferable gift, believers can actively contribute to the growth and edification of the church body.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8129578416883447,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "commentatorTierSimilarities": [
+                29.14,
+                41.1,
+                29.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are encouraged to earnestly desire the gift of prophecy and not to forbid speaking in tongues. The Apostle Paul valued prophecy over tongues, highlighting its significance and usefulness. While speaking in foreign languages shouldn't be despised, prophecy is the gift that should be most sought after. By desiring the most edifying gift, believers can actively contribute to the growth and edification of the church.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9092787192860428,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.82,
+            "commentatorTierSimilarities": [
+                30.25,
+                40.61,
+                29.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are urged to earnestly desire the gift of prophecy, recognizing its superiority compared to speaking in tongues. While tongues should not be forbidden, prophecy should be coveted and sought after with zeal. It is the most valuable and beneficial gift for the church, promoting edification and spiritual growth. By prioritizing prophecy, believers can contribute significantly to the building up of the community of faith.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.620360824591497,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.22,
+            "commentatorTierSimilarities": [
+                26.79,
+                42.87,
+                30.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

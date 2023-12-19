@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:22:00",
+    "verseRef": "Colossians 4:13",
+    "bestBHT": {
+        "bht": "The cities of Laodicea, Hierapolis, and Colossae were all connected in their vulnerability to earthquakes and their association with Epaphras' labor and zeal. Epaphras had devoted himself to their spiritual welfare, guarding them against false teachings and promoting their growth in the grace of the Gospel. His desire was that they would walk in a manner worthy of the Gospel and find harmony among themselves. The presence of Epaphras in these cities demonstrates his deep affection and commitment to the believers, likely playing a crucial role in their conversion and spiritual development.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.6612592817002234,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.58,
+        "commentatorTierSimilarities": [
+            19.56,
+            23.58,
+            56.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Laodicea was a city of Phrygia Magna, large and rich, on the river Lycus, formerly called Diospolis, and afterwards Rhoas.\" ",
+            "In A.D. 62, Laodicea, with Hierapolis and Colossae, was destroyed by an earthquake, to which visitations the neighborhood was very subject.\" ",
+            "Hierapolis: Famed for mineral springs, which are still flowing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "a great zeal\u2014The oldest manuscripts and Vulgate have 'much labor.'\" ",
+            "for you\u2014lest you should be seduced (Colossians 2:4); a motive why you should be anxious for yourselves.",
+            "them that are in Laodicea . . . Hierapolis\u2014churches probably founded by Epaphras, as the Church in Colosse was."
+        ],
+        "Albert Barnes": [
+            "A great zeal for you - A great desire to promote your welfare.",
+            "Laodicea was the capital of Phrygia, and not far from Colossae, There was a church there.",
+            "From the allusion to it here, it would seem that there were Christians there in the time of Paul, though there is no mention of a church there."
+        ],
+        "Marvin Vincent": [
+            "Zeal [\u03b6\u03b7\u03bb\u03bf\u03bd] . Read ponon labor, which occurs elsewhere only in Revelation 16:10, Revelation 16:11; Revelation 21:4, in the sense of pain.",
+            "Hierapolis owed its celebrity to its warm mineral springs, its baths, and its trade in dyed wools.",
+            "It was a center of the worship of the Phrygian goddess Cybele, whose rites were administered by mutilated priests known as Galli, and of other rites representing different oriental cults."
+        ],
+        "Philip Schaff": [
+            "For I bear him witness. The Apostle confirms the message, as an attesting witness.",
+            "Hath much labor for you. \u2018Zeal\u2019 is poorly supported, but was substituted for \u2018labor, since the latter is an unusual word in the New Testament.",
+            "Them in Laodicea, and them in Hierapolis. See Introduction, \u00a7 1. \u2018Certainly Epaphras had labored also in these neighboring cities as founder of the churches, or at least as an eminent teacher\u2019 (Meyer)."
+        ],
+        "Archibald T. Robertson": [
+            "The third of the three cities in the Lycus Valley which had not seen Paul's face.",
+            "Probably Epaphras had evangelized all three cities and all were in peril from the Gnostics.",
+            "It was across the valley from Laodicea."
+        ],
+        "John Gill": [
+            "He hath a great zeal for you; for their spiritual welfare, that the Gospel might continue with them, and they in that, against false teachers, and their attempts to subvert them.",
+            "That they might grow in the grace of the Gospel, and walk worthy of it, and be at peace among themselves.",
+            "Epaphras had a like zeal and affections as for the Colossians, and to whom very likely he had been useful, either in conversion or edification, or both."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Laodicea, the city of Phrygia Magna, was renowned for its wealth and its susceptibility to earthquakes. Hierapolis, located nearby, was known for its mineral springs. These cities, along with Colossae, were evident of the great labor and zeal of Epaphras, who likely evangelized all three. The peril of false teachers and the need for spiritual welfare prompted Epaphras to labor tirelessly for the growth and preservation of the Gospel among these believers. His desire was that they would walk worthy of the grace of the Gospel and be at peace with one another, just as he had witnessed the progression and faithfulness of their spiritual journey.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.6757629524510018,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.06,
+            "commentatorTierSimilarities": [
+                29.16,
+                28.22,
+                42.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Laodicea, a wealthy city in Phrygia, was often struck by earthquakes. Hierapolis boasted mineral springs and dyed wool trade. Both cities, along with Colossae, were part of Epaphras' labor and zeal to protect the believers from false teachers. His desire was that they would grow in the grace of the Gospel and be at peace among themselves. Epaphras showed the same zeal and affection for the Colossians, having likely played a significant role in their conversion and edification.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.6796458608790548,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.19,
+            "commentatorTierSimilarities": [
+                26.49,
+                26.46,
+                47.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The cities of Laodicea, Hierapolis, and Colossae were all connected in their vulnerability to earthquakes and their association with Epaphras' labor and zeal. Epaphras had devoted himself to their spiritual welfare, guarding them against false teachings and promoting their growth in the grace of the Gospel. His desire was that they would walk in a manner worthy of the Gospel and find harmony among themselves. The presence of Epaphras in these cities demonstrates his deep affection and commitment to the believers, likely playing a crucial role in their conversion and spiritual development.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6612592817002234,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.58,
+            "commentatorTierSimilarities": [
+                19.56,
+                23.58,
+                56.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Laodicea, Hierapolis, and Colossae were all susceptible to earthquakes, but it was Laodicea that suffered the most destruction. These cities were associated with Epaphras' great labor and zeal. He worked tirelessly for the wellbeing of the believers, safeguarding them from false teachings and encouraging their growth in the grace of the Gospel. Epaphras' deep affection and commitment to the believers is evident in his presence and influence in these cities, contributing significantly to their conversion and spiritual development.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.630909938126711,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+            "commentatorTierSimilarities": [
+                25.14,
+                26.52,
+                48.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Laodicea, a prosperous city in Phrygia Magna, was prone to earthquakes and had a specific mention in connection to the verse. It, along with Hierapolis and Colossae, were linked to the zealous labor of Epaphras. His dedication to their spiritual welfare was fueled by his concern for their protection against false teachings and his desire to promote their growth in the grace of the Gospel. Epaphras' significant role suggests his influence in their conversion and edification.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.6371765729206968,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.78,
+            "commentatorTierSimilarities": [
+                24.08,
+                28.79,
+                47.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

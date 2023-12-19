@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:13:46",
+    "verseRef": "Luke 2:5",
+    "bestBHT": {
+        "bht": "Mary, Joseph's espoused wife, accompanied him to Bethlehem so they could both be registered. It is likely that Mary herself was a descendant of David, as she belonged to the house of David. Despite being heavily pregnant, Mary obediently made the journey, showing her submission to civil authorities. While the verse doesn't clarify whether Mary had the prophecy about Bethlehem in mind, it underscores the significance of both Joseph and Mary's names being registered, affirming their part in God's plan.",
+        "wordCount": 84,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 1.8797089217937457,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+        "commentatorTierSimilarities": [
+            36.01,
+            36.64,
+            27.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No stress must be laid on espoused, as if she were only the betrothed wife of Joseph at this time.",
+            "She had been taken to his house before this.",
+            "The history in our text happening during the time indicated by Matt. i. 25."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. espoused wife\u2014now, without",
+            "\tdoubt, taken home to him, as related in Matthew 1:18;",
+            "\tMatthew 25:6."
+        ],
+        "Marvin Vincent": [
+            "Went up with Mary, denoting merely the fact of her accompanying him.",
+            "To enroll himself with Mary, implying that both their names must be registered.",
+            "Great with child [\u03b5\u03b3\u03ba\u03c5\u03c9] . See on Chapter Luke 1:24. Only here in New Testament."
+        ],
+        "Philip Schaff": [
+            "In her peculiar condition she would cling to him, especially as all had been cleared up between them.",
+            "Perhaps the prophecy respecting Bethlehem was in her mind.",
+            "The verse sheds no light on the question, whether she too were of the house of David."
+        ],
+        "Archibald T. Robertson": [
+            "If so, that means that Mary's family register was in Bethlehem also and that she also belonged to the house of David.",
+            "There is no real reason for doubting that Mary herself was a descendant of David and that is the obvious way to understand Luke's genealogy of Jesus in Luke 3:23-38).",
+            "Otherwise she could not have travelled with Joseph."
+        ],
+        "John Gill": [
+            "Whom also he had married, though he had not known her in a carnal way.\" ",
+            "Being great with child; very near her time, and yet, though in such circumstances, was obliged by this edict, to come to Bethlehem.\" ",
+            "This was an instance, and an example, of obedience to civil magistrates."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary, who was now Joseph's wife and not just his betrothed, accompanied him to Bethlehem to be registered. It is reasonable to assume that Mary herself was also a descendant of David since she belonged to the house of David. Despite being heavily pregnant, she obeyed the edict and made the journey to Bethlehem. This shows her obedience to civil authorities. This verse does not answer the question of whether Mary had the prophecy about Bethlehem in mind. However, it does emphasize the importance of both Joseph and Mary's names being registered, indicating their involvement in God's plan.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.7763540637130186,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                31.6,
+                36.24,
+                32.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary, Joseph's espoused wife, accompanied him to Bethlehem so they could both be registered. It is likely that Mary herself was a descendant of David, as she belonged to the house of David. Despite being heavily pregnant, Mary obediently made the journey, showing her submission to civil authorities. While the verse doesn't clarify whether Mary had the prophecy about Bethlehem in mind, it underscores the significance of both Joseph and Mary's names being registered, affirming their part in God's plan.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.8797089217937457,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                36.01,
+                36.64,
+                27.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary, now Joseph's wife, accompanied him to Bethlehem for registration, indicating that both their names needed to be registered. It is probable that Mary herself was from the house of David, as suggested by Luke's genealogy. Despite being heavily pregnant, Mary's obedience to the edict highlights her submission to civil authorities. While the verse doesn't address whether Mary had the prophecy regarding Bethlehem in mind, it emphasizes the significance of Joseph and Mary's involvement in God's plan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8541180694613542,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                35.26,
+                36.15,
+                28.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary, now Joseph's wife, went with him to Bethlehem to register. This indicates that both of their names needed to be registered. It is likely that Mary herself was from the house of David, as suggested by Luke's genealogy. Despite being heavily pregnant, Mary obediently undertook the journey, demonstrating her submission to civil authorities. Although the verse does not provide clarity on whether Mary had the prophecy of Bethlehem in mind, it underscores the significance of Joseph and Mary's involvement in God's plan.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.7278957379613369,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.79,
+            "commentatorTierSimilarities": [
+                37.08,
+                36.27,
+                26.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary, now Joseph's wife, accompanied him to Bethlehem for registration. This suggests that both of their names were required to be registered. It is probable that Mary herself was a descendant of David, as indicated by Luke's genealogy. Despite being heavily pregnant, Mary obediently journeyed to Bethlehem, demonstrating her submission to civil authorities. While the verse does not explicitly mention whether Mary had the prophecy of Bethlehem in mind, it highlights the significance of Joseph and Mary's participation in God's overarching plan.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.7600592832543214,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                36.13,
+                35.82,
+                28.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

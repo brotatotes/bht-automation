@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:22:01",
+    "verseRef": "Luke 19:12",
+    "bestBHT": {
+        "bht": "During the time of Jesus, the kings of the Herodian family made journeys to Rome to receive their 'Kingdom.' The parable of the nobleman going into a far country to receive a kingdom highlights that Jesus went away to heaven before fully setting up His kingdom on earth. Just as Herod was made king in Rome, Jesus went away to be invested with royalty and will return at His second coming to establish His personal and glorious kingdom.",
+        "wordCount": 78,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.2951091229273466,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.65,
+        "commentatorTierSimilarities": [
+            34.64,
+            29.26,
+            36.11
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The kings of the Herodian family made journeys to Rome, to receive their 'Kingdom.'",
+            "The Jews sent after him a protest, which however was not listened to by Augustus.",
+            "The situation was appropriate; for at Jericho was the royal palace which Archelaus had built with great magnificence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "a far country\u2014said to put down the notion that He was just on His way to set up His kingdom, and to inaugurate it by His personal presence.",
+            "to receive . . . a kingdom\u2014be invested with royalty; as when Herod went to Rome and was there made king; a striking expression of what our Lord went away for and received, 'sitting down at the right hand of the Majesty on high.'",
+            "to return\u2014at His second coming."
+        ],
+        "Albert Barnes": [
+            "A certain nobleman - A prince; a man descended from kings, and having a title, therefore, to succeed in the kingdom.",
+            "This expression is derived from the state of things in Judea in the time of the Saviour.",
+            "By the nobleman, here, is undoubtedly represented the Messiah, the Lord Jesus Christ; by his going into a far country is denoted his going to heaven, to the right hand of his Father, 'before' he should 'fully' set up his kingdom and establish his reign among men."
+        ],
+        "John Calvin": [
+            "But it is proper to observe the difference between Matthew and Luke; for, while the former touches only on one point, the latter embraces two.",
+            "...he tells them that they must long and steadily endure many toils, before they enjoy that glory for which they pant too earnestly.",
+            "Since, therefore, the apostles foolishly aimed at the shadow of a kingdom, our Lord declares that he must go to seek a distant kingdom, that they may learn to endure delay."
+        ],
+        "Philip Schaff": [
+            "This \u2018well-born\u2019 man represents the Lord Jesus; an indirect intimation of His kingly descent and dignity.",
+            "The Lord was to go to heaven, the home of God; in the moral sense, \u2018a far country.\u2019",
+            "Our Lord will certainly \u2018return.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "To take to himself a kingdom (\u03bb\u03b1\u03b2\u03b5\u03b9\u03bd \u03b5\u03b1\u03c5\u03c4\u03c9 \u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03b9\u03b1\u03bd). Second aorist active infinitive of \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9 with the dative reflexive \u03b5\u03b1\u03c5\u03c4\u03c9 where the middle voice could have been used.",
+            "Apparently this parable has the historical basis of Archelaus who actually went from Jerusalem to Rome on this very errand to get a kingdom in Palestine and to come back to it.",
+            "This happened while Jesus was a boy in Nazareth and it was a matter of common knowledge."
+        ],
+        "John Gill": [
+            "He may truly be said to be 'noble'; not only as the word may signify, as it sometimes does, a person of great authority and power, and of great generosity and goodness, but one of a noble birth.",
+            "Hither Christ went at his ascension; he came from heaven at his incarnation, by the assumption of human nature; he stayed here awhile, till he had done his work he came about, and then went up to heaven; where he is received, and from whence he is expected again.",
+            "To show that his personal glorious kingdom on earth, or his kingdom in its greatest glory here, will not be till he comes a second time; and to engage diligence in his servants in the meantime; and to keep up the faith, hope, and expectation of his coming again."
+        ],
+        "John Wesley": [
+            "He went into a far country to receive a kingdom \u2014 Christ went to heaven, to receive his sovereign power as wan, even all authority in heaven and earth. Matthew 25:14; Mark 13:34."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the time of Jesus, the kings of the Herodian family would journey to Rome to receive their Kingdom. History recounts that the Jews had sent a protest against this, but it was ignored by Augustus Caesar. It is in this context that Jesus tells the parable of a nobleman who goes into a far country to receive a kingdom. This is to dispel the notion that Jesus was on His way to set up His kingdom at that time. Just as Herod went to Rome to be invested with royalty, Jesus went away to heaven to receive His sovereign power. However, He will return at His second coming to establish His personal and glorious kingdom on earth.",
+            "wordCount": 118,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.064919618124329,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.0,
+            "commentatorTierSimilarities": [
+                35.04,
+                28.83,
+                36.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the time of Jesus, the kings of the Herodian family would journey to Rome to receive their Kingdom. Just as Herod went to Rome to be invested with royalty, Jesus went away to heaven to receive His sovereign power. This parable dispels the notion that Jesus was on His way to establish His kingdom at that time. However, He will return at His second coming to establish His personal and glorious kingdom on earth.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.1526446242283246,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.92,
+            "commentatorTierSimilarities": [
+                34.18,
+                28.41,
+                37.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the time of Jesus, the kings of the Herodian family made journeys to Rome to receive their 'Kingdom.' The situation was appropriate at Jericho, as it had the royal palace built by Archelaus with great magnificence. Jesus tells the parable of a nobleman going into a far country to receive a kingdom, signifying His going to heaven before fully setting up His kingdom on earth. Just as Herod was made king in Rome, Jesus went away to be invested with royalty and will return at His second coming to establish His personal and glorious kingdom.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.16184911058604,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                37.46,
+                28.59,
+                33.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the time of Jesus, the kings of the Herodian family made journeys to Rome to receive their 'Kingdom.' The parable of the nobleman going into a far country to receive a kingdom highlights that Jesus went away to heaven before fully setting up His kingdom on earth. Just as Herod was made king in Rome, Jesus went away to be invested with royalty and will return at His second coming to establish His personal and glorious kingdom.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.2951091229273466,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.65,
+            "commentatorTierSimilarities": [
+                34.64,
+                29.26,
+                36.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the time of Jesus, the kings of the Herodian family made journeys to Rome to receive their 'Kingdom.' This parable of a nobleman going into a far country to receive a kingdom illustrate that Jesus went away to heaven before fully setting up His kingdom on earth. Just as Herod was made king in Rome, Jesus went away to be invested with royalty. He will return at His second coming to establish His personal and glorious kingdom.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1681424125623527,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.43,
+            "commentatorTierSimilarities": [
+                34.68,
+                29.94,
+                35.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

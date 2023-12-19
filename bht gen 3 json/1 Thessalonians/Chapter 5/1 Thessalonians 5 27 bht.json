@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:01:30",
+    "verseRef": "1 Thessalonians 5:27",
+    "bestBHT": {
+        "bht": "The author passionately urges the brethren to assemble and publicly read the Epistle. This solemn adjuration reflects the writer's deep sense of the importance of this divinely inspired message. It is crucial for the entire community, including women, children, and those unable to read, to be present and hear the Epistle read aloud. The writer's earnest appeal suggests a concern about the potential misuse of their authority, highlighting the need for all to be informed of their views. The Epistle was intended for the entire church, emphasizing their collective engagement in its reading and comprehension.",
+        "wordCount": 97,
+        "quoteTokenProportion": 26.56,
+        "qualityScore": 1.8194261573507888,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+        "commentatorTierSimilarities": [
+            38.16,
+            30.13,
+            31.72
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The meaning of this adjuration is, that an assembly of all the brethren should be held, and the Epistle then and there publicly read.",
+            "I should account for it, not by supposing any distrust of the elders, nor by the other hypotheses which he suggests, but by the earnestness of spirit incidental to the solemn conclusion of an Epistle of which he is conscious that it conveys to them the will and special word of the Lord.",
+            "all] i.e. in Thessalonica, assembled together."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The earnestness of his adjuration implies how solemnly important he felt this divinely inspired message to be.",
+            "The 'all' includes women and children, and especially those who could not read it themselves.",
+            "The laity were all to hear them read, even the very young."
+        ],
+        "Albert Barnes": [
+            "I put you under oath by the Lord.\" ",
+            "It is equivalent to binding persons by an oath.",
+            "Injunctions of this kind occurring in the Epistles, look as if the apostles regarded themselves as under the influence of inspiration, and as having authority to give infallible instructions to the churches."
+        ],
+        "Marvin Vincent": [
+            "I charge [\u03b5\u03bd\u03bf\u03c1\u03ba\u03b9\u03b6\u03c9] . N. T. o. Rev. stronger and more literal, I adjure.\" ",
+            "This strong appeal may perhaps be explained by a suspicion on Paul 's part that a wrong use might be made of his name and authority (see 2 Thessalonians 2:2).\" ",
+            "It was important that his views should be made known to all."
+        ],
+        "John Calvin": [
+            "For there will always be found some who say that it is of no advantage to publish generally things that otherwise they recognize as very excellent.",
+            "At least, whatever artifice or pretext Satan may have at that time contrived, in order that the Epistle might not come to the knowledge of all, we may gather from Paul\u2019s words with what earnestness and keenness he sets himself in opposition to it.",
+            "Hence it appears, that those are more refractory than even devils themselves, who in the present day prohibit the people of God from reading the writings of Paul, inasmuch as they are no way moved by so strict an adjuration."
+        ],
+        "Philip Schaff": [
+            "I charge you by the Lord. Why this vehemence of adjuration? Was there a danger that the letter would not be read? No better reason can be given than that Paul\u2019s affectionate anxiety for the spiritual welfare of his converts broke out in this earnest request that his counsels should be delivered to them all.\" ",
+            "It is, however, matter of congratulation that in this, the first of Paul\u2019s extant Epistles, there should occur this urgent injunction that what he had written should be publicly read.\" ",
+            "Bengel remarks that what Paul so urgently enjoined is precisely that which the Church of Rome as earnestly prohibits."
+        ],
+        "Archibald T. Robertson": [
+            "I adjure you by the Lord.\" ",
+            "That this epistle be read unto all the brethren.",
+            "Clearly Paul wrote for the church as a whole and wished the epistles read aloud at a public meeting."
+        ],
+        "John Gill": [
+            "It is in the form of an oath, and a very solemn one; and shows that oaths may be used on certain and solemn occasions.\" ",
+            "The apostle in a very solemn manner adjures, that it be read publicly to the whole church whom it concerned, that all might hear, and learn, and receive some advantage from it.\" ",
+            "From whence we may learn, as is observed by many interpreters, that the sacred Scriptures, neither one part nor another, nor the whole of them, are to be kept from private Christians, but may be read, and heard, and used by all."
+        ],
+        "John Wesley": [
+            "I charge you by the Lord \u2014 Christ, to whom proper divine worship is here paid.",
+            "That this epistle \u2014 The first he wrote.",
+            "Be read to all the brethren \u2014 That is, in all the churches."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The author of the Epistle to the Thessalonians is earnestly imploring the brethren to gather together and publicly read his letter. This adjuration is a clear indication of the solemn importance that the author attaches to this divinely inspired message. It is essential that every member of the community, men, women, children, and even those who cannot personally read, is present to hear the words being read aloud. The author's strong appeal suggests a concern that his authority and message might be misused, thus emphasizing the necessity for his views to be made known to all. It is evident that the author wrote with the intention of reaching the entire church and desired their collective engagement in hearing and understanding the epistle.",
+            "wordCount": 123,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9608469610229458,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.54,
+            "commentatorTierSimilarities": [
+                35.52,
+                31.84,
+                32.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writer of the Epistle to the Thessalonians is fervently urging the brethren to assemble and publicly read his letter. This adjuration conveys the intense significance the writer places on this divinely inspired message. It is crucial that the entire community, including women, children, and those unable to read, is present to hear the epistle read aloud. The writer's strong appeal suggests a concern about the potential misuse of his authority and emphasizes the need for all to be informed of his views. The writer aimed to reach the entire church and hoped for their collective involvement in hearing and comprehending the epistle.",
+            "wordCount": 104,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.8875683489693729,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                37.01,
+                31.57,
+                31.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The author passionately implores the brethren to gather and publicly read the Epistle. This earnest adjuration underscores the deep importance attached to this divinely inspired message. It is essential for the entire community, including women, children, and those who cannot read, to be present and hear the Epistle being read aloud. The writer's strong appeal suggests a concern about the potential misuse of their authority, emphasizing the necessity for all to grasp their views. The Epistle was intended for the entire church, urging their collective engagement in its reading and understanding.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.816215164415778,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                38.03,
+                30.86,
+                31.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The author passionately urges the brethren to assemble and publicly read the Epistle. This solemn adjuration reflects the writer's deep sense of the importance of this divinely inspired message. It is crucial for the entire community, including women, children, and those unable to read, to be present and hear the Epistle read aloud. The writer's earnest appeal suggests a concern about the potential misuse of their authority, highlighting the need for all to be informed of their views. The Epistle was intended for the entire church, emphasizing their collective engagement in its reading and comprehension.",
+            "wordCount": 97,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.8194261573507888,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+            "commentatorTierSimilarities": [
+                38.16,
+                30.13,
+                31.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The author passionately implores the brethren to gather and publicly read the Epistle. This earnest adjuration reflects the writer's deep sense of the importance of this divinely inspired message. It is essential for the entire community, including women, children, and those unable to read, to be present and hear the Epistle being read aloud. The writer's strong appeal suggests a concern about the potential misuse of their authority, emphasizing the necessity for all to be informed of their views. The Epistle was intended for the entire church, urging their collective engagement in its reading and understanding.",
+            "wordCount": 98,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.818570429196427,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                38.2,
+                30.67,
+                31.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

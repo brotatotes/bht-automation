@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:21:48",
+    "verseRef": "Luke 19:36",
+    "bestBHT": {
+        "bht": "As Jesus rode into Bethphage, the crowd continuously spread their clothes in the way as a symbolic act of reverence. This unique and singular action, witnessed only here in the New Testament, displayed their ongoing adoration and recognition of Jesus as their King. The spreading of their garments was a tangible expression of their eager anticipation and deep respect for Jesus, as they eagerly joined him from Jericho and Jerusalem, united in their celebration of his arrival.",
+        "wordCount": 77,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.1684396863688775,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.19,
+        "commentatorTierSimilarities": [
+            40.44,
+            0.0,
+            59.56
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "29-38. Bethphage\u2014\"house",
+            "\tof figs,\" a village which with Bethany lay along the further",
+            "\tside of Mount Olivet, east of Jerusalem."
+        ],
+        "Marvin Vincent": [
+            "Spread [\u03c5\u03c0\u03b5\u03c3\u03c4\u03c1\u03c9\u03bd\u03bd\u03c5\u03bf\u03bd] . Only here in New Testament."
+        ],
+        "Archibald T. Robertson": [
+            "They spread (\u03c5\u03c0\u03b5\u03c3\u03c4\u03c1\u03c9\u03bd\u03bd\u03c5\u03bf\u03bd). Imperfect active describing the continued spreading as they went on.",
+            "H\u03c5\u03c0\u03bf\u03c3\u03c4\u03c1\u03c9\u03bd\u03bd\u03c5\u03c9 is a late form of the old verb \u03c5\u03c0\u03bf\u03c3\u03c4\u03bf\u03c1\u03b5\u03bd\u03bd\u03c5\u03bc.",
+            "Here only in the N.T."
+        ],
+        "John Gill": [
+            "They spread their clothes in the way.",
+            "Men put off their clothes and cast them in the way, that he might pass over then.",
+            "The multitude...came with him from Jericho...or that met him from Jerusalem, or both."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus rode into Bethphage, the crowd spread their clothes in the way as a gesture of honor and respect. This act of spreading their clothes continued throughout their journey, symbolizing their ongoing adoration and recognition of Jesus as King. It was a unique and significant action, seen only in this instance in the New Testament. The spreading of their clothes served as a tangible expression of the crowd's anticipation and reverence for Jesus, as they eagerly joined him from Jericho and Jerusalem.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.1539900246465533,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.71,
+            "commentatorTierSimilarities": [
+                37.12,
+                0.0,
+                62.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus entered Bethphage, the crowd spread their clothes in the way as an ongoing act of homage. This unique and singular action, witnessed only in this instance in the New Testament, showcased their continuous adoration for Jesus. By spreading their clothes, the multitude demonstrated their anticipation and reverence for him as they journeyed together, joined by individuals from both Jericho and Jerusalem. Their gesture served as a visible manifestation of their deep respect and eager recognition of Jesus as their King.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.1287103976853645,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.87,
+            "commentatorTierSimilarities": [
+                36.94,
+                0.0,
+                63.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus approached Bethphage, people spread their clothes along the way, forming a continuous act of honor and admiration. This noteworthy and exclusive demonstration of respect, found solely in this New Testament passage, conveyed an unending display of reverence for Jesus. The crowd eagerly joined him from Jericho and Jerusalem, their garments serving as a visible manifestation of their deep veneration and expectant acknowledgment of Jesus as their chosen King.",
+            "wordCount": 70,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 1.1078074766538228,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.18,
+            "commentatorTierSimilarities": [
+                40.75,
+                0.0,
+                59.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus rode into Bethphage, the crowd continuously spread their clothes in the way as a symbolic act of reverence. This unique and singular action, witnessed only here in the New Testament, displayed their ongoing adoration and recognition of Jesus as their King. The spreading of their garments was a tangible expression of their eager anticipation and deep respect for Jesus, as they eagerly joined him from Jericho and Jerusalem, united in their celebration of his arrival.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.1684396863688775,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.19,
+            "commentatorTierSimilarities": [
+                40.44,
+                0.0,
+                59.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus made his way into Bethphage, the crowd unfolded their clothes, forming a continuous path of honor and homage. This distinctive and exceptional act, recorded solely in this particular passage, illustrated their unwavering adoration for Jesus. The act of spreading their garments resonated with their fervent anticipation and genuine reverence for Jesus, evidenced by their enthusiastic pilgrimage from Jericho and Jerusalem. Their unified demonstration served as a visible testament of their profound reverence and hopeful acknowledgement of Jesus as their anointed King.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.014343671836923,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.07,
+            "commentatorTierSimilarities": [
+                41.43,
+                0.0,
+                58.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:31:14",
+    "verseRef": "Acts 14:12",
+    "bestBHT": {
+        "bht": "Barnabas, described as a person of noble appearance and bearing, was given the title of Jupiter, while Paul, with his weak bodily presence, was called Mercurius. These names were commonly associated with Hermes, the god of eloquence. Barnabas's imposing stature and Paul's eloquent speech made them fitting representations of these deities. Despite Paul not being physically impressive, his manner and address were winning, allowing him to be received as an angel of God, like Mercury in reality.",
+        "wordCount": 79,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 2.258345567353821,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.43,
+        "commentatorTierSimilarities": [
+            29.25,
+            37.78,
+            32.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Barnabas seems to me to have been a person of noble appearance and bearing.",
+            "His bodily presence is weak.",
+            "Titles like this were commonly given to Hermes, the god of eloquence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. they called Barnabas,",
+            "\tJupiter\u2014the father of the gods, from his commanding mien",
+            "\t(CHRYSOSTOM thinks). ",
+            "\t",
+            "and Paul, Mercurius\u2014the",
+            "\tgod of eloquence and the messenger and attendant of Jupiter, in the",
+            "\theathen mythology."
+        ],
+        "Albert Barnes": [
+            "Jupiter was the most powerful of all the gods of the ancients... His common appellation was, The Father of gods and men.\" ",
+            "Mercury, called by the Greeks Hermes, was a celebrated god of antiquity... He was regarded as the god of eloquence; and as light, rapid, and quick in his movements.",
+            "Because he was the chief speaker - The office of Mercury was to deliver the messages of the gods; and as Paul only had been discoursing, he was supposed to be Mercury."
+        ],
+        "Marvin Vincent": [
+            "He represents, so to speak, the utilitarian side of the human mind.... In the limitation of his faculties and powers, in the low standard of his moral habits, in the abundant activity of his appetites, in his indifference, his ease, his good nature, in the full-blown exhibition of what Christian theology would call conformity to the world, he is, as strictly as the nature of the case admits, a product of the invention of man.",
+            "Barnabas was called Jupiter, possibly because his personal appearance was more imposing than Paul's (see 2 Corinthians 10:1, 2 Corinthians 10:10), and also because Jupiter and Mercury were commonly represented as companions in their visits to earth.",
+            "The Greek names of these deities were Zeus and Hermes. As the herald of the gods, Mercury is the God of skill in the use of speech and of eloquence in general, for the heralds are the public speakers in the assemblies and on other occasions."
+        ],
+        "Philip Schaff": [
+            "Barnabas they imagined to be Jupiter (Zeus), most likely from his older and more venerable appearance.",
+            "The less imposing figure of Paul better represented the attendant deity Mercury (Hermes), the persuasive, eloquent speaker.",
+            "While to outward appearance he must have looked like some commonplace travelling Jew, his manner and address must have been singularly winning."
+        ],
+        "Archibald T. Robertson": [
+            "Because Barnabas was the older and the more imposing in appearance.",
+            "Paul admits that he was not impressive in looks.",
+            "Whether Paul was alluding to his experience in Lystra or not in Galatians 4:14, certainly they did receive him as an angel of God, as if 'Mercury' in reality."
+        ],
+        "John Gill": [
+            "And they called Barnabas Jupiter... because Barnabas was the oldest man, of the tallest stature, and largest bulk, and made the best figure.",
+            "And Paul Mercurius... because he was the chief speaker; Mercury was the god of eloquence... Paul being chiefly concerned in preaching and speaking to the people.",
+            "The Jews had a doctor in their schools, whom they called 'the chief of the speakers'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Barnabas was seen as resembling Jupiter due to his noble appearance and commanding presence, while Paul was referred to as Mercurius because of his eloquence and ability as a persuasive speaker. This association with Greek deities was likely based on the fact that Jupiter and Mercury were often depicted as companions. Despite Paul's admission of not having an impressive physical appearance, his manner and address were undoubtedly winning over the people. Ultimately, Barnabas's imposing stature and Paul's skill in speech allowed them to effectively fulfill their respective roles as messengers of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 2.1145735156445022,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+            "commentatorTierSimilarities": [
+                27.24,
+                37.93,
+                34.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Barnabas, with his noble appearance and commanding mien, was given the title of Jupiter, while Paul, known for his eloquence and being the chief speaker, was called Mercurius. This association with Greek gods was fitting, as Jupiter and Mercury were often portrayed as companions. Despite Paul's admission of his unimpressive physical appearance, his skills in speech and manner won over the people. Together, Barnabas's imposing stature and Paul's persuasive speaking allowed them to effectively fulfill their roles as messengers of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.1230775854228288,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                25.78,
+                36.56,
+                37.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Barnabas, described as a person of noble appearance and bearing, was given the title of Jupiter, while Paul, with his weak bodily presence, was called Mercurius. These names were commonly associated with Hermes, the god of eloquence. Barnabas's imposing stature and Paul's eloquent speech made them fitting representations of these deities. Despite Paul not being physically impressive, his manner and address were winning, allowing him to be received as an angel of God, like Mercury in reality.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.258345567353821,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.43,
+            "commentatorTierSimilarities": [
+                29.25,
+                37.78,
+                32.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Barnabas, distinguished by his noble appearance and bearing, was given the title of Jupiter, while Paul, with his weak bodily presence, earned the name Mercurius. These labels were commonly linked to Hermes, the god of eloquence. Barnabas's imposing demeanor, possibly emphasized in comparison to Paul, made him suitable for the name Jupiter. Paul, despite his unimpressive looks, possessed persuasive speaking abilities like Mercury. Together, they embodied the roles of these deities, fulfilling their mission as messengers of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.0737013929467105,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                28.97,
+                39.0,
+                32.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Barnabas, distinguished by his noble appearance and bearing, was given the title of Jupiter, while Paul, with his weak bodily presence, earned the name Mercurius. These labels were commonly linked to Hermes, the god of eloquence. Barnabas's imposing demeanor, possibly emphasized in comparison to Paul, made him suitable for the name Jupiter. Paul, despite his unimpressive looks, possessed persuasive speaking abilities like Mercury. Together, they embodied the roles of these deities, fulfilling their mission as messengers of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.0737013929467105,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                28.97,
+                39.0,
+                32.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

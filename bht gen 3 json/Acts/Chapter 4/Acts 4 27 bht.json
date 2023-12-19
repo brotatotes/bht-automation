@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:26:23",
+    "verseRef": "Acts 4:27",
+    "bestBHT": {
+        "bht": "The fulfillment of God's prophecy is evident in the acknowledgment of Jesus as the Servant of Jehovah. Jesus is the completion of all servants of the Lord, as what is said of them is true of Him. Peter and the disciples interpret the prophecy as directly fulfilled in their conduct towards Jesus. Luke recounts the reconciliation between Herod and Pilate during Jesus' trial. Jesus, anointed as King Messiah, was consecrated with the Holy Spirit. The gathering of Herod, Pilate, Gentiles, and Israel resulted in the mocking and crucifixion of Jesus, fulfilling the prophecy.",
+        "wordCount": 94,
+        "quoteTokenProportion": 29.09,
+        "qualityScore": 1.9329885359107368,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.61,
+        "commentatorTierSimilarities": [
+            47.1,
+            16.56,
+            36.34
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The for implies an acknowledgment of the truth of God in the fulfilment of the prophecy: Thou art the God who hast, &c., for these events have happened accordingly.",
+            "The appellation here given to our Lord is not 'child,' but Servant, as before, ch. iii. 26.",
+            "Jesus, the Servant of Jehovah, is the antitype and completion of David, and of all other servants of the Lord: what is said of them only partially and hyperbolically, is said literally and entirely of Him."
+        ],
+        "Albert Barnes": [
+            "Thy holy child Jesus...The word 'child' is commonly applied to infants, or to sons and daughters in very early life.",
+            "Both Herod...Luke 23:1-12.",
+            "With the Gentiles...The Jews, who were excited to this by the rulers, Matthew 27:20."
+        ],
+        "Marvin Vincent": [
+            "Didst anoint [\u03b5\u03c7\u03c1\u03b9\u03c3\u03b1\u03c2] . See on Christ, Matthew 1:1."
+        ],
+        "John Calvin": [
+            "Lord, thou hast spoken it and we have in truth tried [experienced] the same to be true.",
+            "...the faithful confess that their rage was all but vain.",
+            "...we must note therewithal what anointing this was, for we know that he was not anointed with visible oil, but with the Holy Ghost."
+        ],
+        "Philip Schaff": [
+            "Acts 4:27. In this city. These words answer to the statement of Psalms 2:6: \u2018 Upon my holy hill of Zion, I have set my King.\u2019",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Luke alone (Luke 23:12) tells of the reconciliation between Herod and Pilate at the trial of Jesus.",
+            "So Peter and the rest interpret this prophecy as directly fulfilled in their conduct towards Jesus Christ.",
+            "Whom thou didst anoint (\u03bf\u03bd \u03b5\u03c7\u03c1\u03b9\u03c3\u03b1\u03c2). As in verse Acts 4:26 (cf. Luke 4:18; Isaiah 61:1). Inaugurated as King Messiah."
+        ],
+        "John Gill": [
+            "He is called the 'child' of God, because the human nature of Christ was taken into union with the second person, who is the Son of God.",
+            "Christ was, in some sense, anointed to be prophet, priest, and King, from eternity, being so early set up as Mediator, or called unto, and invested with that office.",
+            "Both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together... yet all gathered, consented, and agreed together to mock, scourge, and crucify this innocent and holy person."
+        ],
+        "John Wesley": [
+            "Whom thou hast anointed \u2014 To be king of Israel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The events that occurred were a direct fulfillment of God's prophecy, acknowledging Jesus as the Servant of Jehovah. Jesus is the completion of all other servants of the Lord, as what is said of them is said literally and entirely of Him. Luke accounts for the reconciliation between Herod and Pilate during the trial of Jesus, while Peter and the others interpret the prophecy as directly fulfilled in their conduct towards Christ. Jesus was anointed as King Messiah. This anointing, however, was not with visible oil but with the Holy Spirit. It is important to note that being called the child of God refers to the human nature of Christ being united with the Son of God. The gathering of Herod, Pontius Pilate, the Gentiles, and the people of Israel resulted in the mocking, scourging, and crucifixion of this innocent and holy person, fulfilling the prophecy spoken of in this city.",
+            "wordCount": 152,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.86198833834548,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                44.05,
+                16.8,
+                39.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fulfillment of God's prophecy is evident in the acknowledgment of Jesus as the Servant of Jehovah. Jesus is the completion of all servants of the Lord, with what is said of them being literally true of Him. The reconciliation between Herod and Pilate during Jesus' trial is described by Luke. The anointing of Jesus as King Messiah was not with visible oil but with the Holy Spirit. The gathering of Herod, Pilate, the Gentiles, and the people of Israel resulted in the mocking, scourging, and crucifixion of Jesus, fulfilling the prophecy.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9024063500118562,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.6,
+            "commentatorTierSimilarities": [
+                47.16,
+                15.94,
+                36.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophecy of God's truth being fulfilled in the events that occurred with Jesus is acknowledged by the use of the word for. Jesus is referred to as the Servant of Jehovah, the completion of David and other servants of the Lord. Luke mentions the reconciliation between Herod and Pilate during Jesus' trial. As the anointed King Messiah, Jesus was consecrated not with visible oil, but with the Holy Spirit. The gathering of Herod, Pilate, the Gentiles, and the people of Israel resulted in the mocking, scourging, and crucifixion of Jesus, fulfilling the prophecy.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.920016184990665,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.18,
+            "commentatorTierSimilarities": [
+                46.19,
+                16.72,
+                37.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophecy is acknowledged in the fulfillment of God's truth and the events that unfolded with Jesus, the Servant of Jehovah. Jesus is the completion of all servants of the Lord, with what was said of them applying to Him entirely. Luke recounts the reconciliation between Herod and Pilate during Jesus' trial. Jesus, as the anointed King Messiah, was consecrated with the Holy Spirit. The gathering of Herod, Pilate, the Gentiles, and the people of Israel resulted in mocking, scourging, and crucifying Jesus, fulfilling the prophecy.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.9201561768478828,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.19,
+            "commentatorTierSimilarities": [
+                44.91,
+                17.45,
+                37.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fulfillment of God's prophecy is evident in the acknowledgment of Jesus as the Servant of Jehovah. Jesus is the completion of all servants of the Lord, as what is said of them is true of Him. Peter and the disciples interpret the prophecy as directly fulfilled in their conduct towards Jesus. Luke recounts the reconciliation between Herod and Pilate during Jesus' trial. Jesus, anointed as King Messiah, was consecrated with the Holy Spirit. The gathering of Herod, Pilate, Gentiles, and Israel resulted in the mocking and crucifixion of Jesus, fulfilling the prophecy.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.9329885359107368,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.61,
+            "commentatorTierSimilarities": [
+                47.1,
+                16.56,
+                36.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

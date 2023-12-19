@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:06:24",
+    "verseRef": "Romans 7:17",
+    "bestBHT": {
+        "bht": "Paul's powerful words in this verse unveil the intense conflict that resides within him. He clarifies that it is not his entire self that carries out sinful deeds, but rather the sin dwelling within him. By portraying this paradox, Paul underscores the coexistence and animosity between the flesh and the spirit. He does not negate the moral responsibility of believers, but rather underscores the need to confront and renounce sin while wholeheartedly honoring God's law with their renewed inner selves.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.0472323089537907,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.41,
+        "commentatorTierSimilarities": [
+            34.84,
+            33.11,
+            32.05
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So now (the now is not said of time, but is used logically, 'seeing that things are so') it is no longer (again, not a chronological, but a logical sequence, 'it can no more be said, that') I that perform (see above, on ver. 15) it, but sin that dwelleth in me.",
+            "Here the 'I' is not the complex responsible self, by which the evil deed is wrought, and which incurs the guilt of working it: but the self of the WILL in its higher sense, the 'inner man' of ver. 22.",
+            "The not bearing this in mind has led to error in interpretation and doctrine: for example, when it is supposed that the Christian is not responsible for his sins committed against his spiritual will and higher judgment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To explain this and the following statements, as many do (even BENGEL and THOLUCK), of the sins of unrenewed men against their better convictions, is to do painful violence to the apostle's language, and to affirm of the unregenerate what is untrue.\" ",
+            "That coexistence and mutual hostility of 'flesh' and 'spirit' in the same renewed man, which is so clearly taught in Romans 8:4, c., and in Romans 8:4- :, &amp;c., is the true and only key to the language of this and the following verses.",
+            "His sole object in thus expressing himself was to bring more vividly before his readers the conflict of two opposite principles, and how entirely, as a new man\u2014honoring from his inmost soul the law of God\u2014he condemned and renounced his corrupt nature, with its affections and lusts, its stirrings and its outgoings, root and branch."
+        ],
+        "Albert Barnes": [
+            "He means to say that he does not approve or love it in his present state, but that it is the result of his native propensities and passions.",
+            "In his heart, and conscience, and habitual feeling, he did not choose to commit sin, but abhorred it.",
+            "The sense is, that he is strongly influenced by sin on the one hand, and by the Spirit on the other."
+        ],
+        "Marvin Vincent": [
+            "Now - no more [\u03bd\u03c5\u03bd\u03b9 - \u03bf\u03c5\u03ba\u03b5\u03c4\u03b9] . Not temporal, pointing back to a time when it was otherwise, but logical, pointing to an inference.\" ",
+            "After this statement you can no more maintain that, etc.",
+            "I [\u03b5\u03b3\u03c9] . My personality proper; my moral self - consciousness which has approved the law (ver. 16) and has developed vague desires for something better."
+        ],
+        "John Calvin": [
+            "for the faithful are carried along in their obedience to God with such fervour of spirit that they deny the flesh.\" ",
+            "Paul here denies that he is wholly possessed by sin; nay, he declares himself to be exempt from its bondage",
+            "he had the law of God engraven within him"
+        ],
+        "Philip Schaff": [
+            "It is no longer I that perform it, i.e., \u2018what I wish not.\u2019 I am a slave under sin, what \u2018I perform, I know not\u2019.\" ",
+            "The desire is powerless; the \u2018I\u2019 is enslaved.\" ",
+            "There is no sign of release, no assertion of power to do good of which the \u2018I\u2019 approves."
+        ],
+        "Archibald T. Robertson": [
+            "But sin that dwelleth in me...Not my true self, my higher personality, but my lower self due to my slavery to indwelling sin.\" ",
+            "Paul does not mean to say that his whole self has no moral responsibility by using this paradox.\" ",
+            "To be saved from sin, a man must at the same time own it and disown it\" (Denney)."
+        ],
+        "John Gill": [
+            "It was not he as spiritual, as born again, as a new man, a new creature, that did it.\" ",
+            "Sin that dwelleth in me; the old man, the carnal I, the evil present with him, the law in his members.",
+            "Which not only existed in him, and wrought in him, and that at times very strongly, but dwelt in him, had its abode in him, as it has in all regenerate persons, and will have, as long as they are in the body."
+        ],
+        "John Wesley": [
+            "It is no more I that can properly be said to do it.",
+            "Sin that dwelleth in me makes, as it were, another person, and tyrannizes over me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 7:17, the apostle Paul passionately expresses the struggle between two opposing principles within himself. He clarifies that it is not his entire self, his true and higher personality, that commits the sinful actions, but rather the sin that dwells within him. By using this paradox, Paul emphasizes that he is not denying his moral responsibility, but rather highlighting the conflict between his regenerated self, which honors the law of God, and his corrupt nature. This conflict within the believer is a vivid portrayal of the coexistence and mutual hostility of the flesh and the spirit. It is important to recognize that Paul's intention is not to absolve believers of their accountability for sin but to underscore the necessity of owning and disowning sin in order to be saved from it. As Paul affirms, For the faithful are carried along in their obedience to God with such fervor of spirit that they deny the flesh.",
+            "wordCount": 156,
+            "quoteTokenProportion": 35.87,
+            "qualityScore": 2.0022702381083537,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.92,
+            "commentatorTierSimilarities": [
+                36.27,
+                31.04,
+                32.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the apostle Paul vividly depicts the internal conflict between two opposing principles within himself. He emphasises that it is not his entire self that is responsible for committing sinful actions, but rather the sin that resides within him. By illustrating the coexistence and hostility between the flesh and the spirit, Paul reveals the struggle experienced by believers. It is essential to understand that Paul does not absolve believers of moral responsibility; instead, he underscores the need to confront and renounce sin while striving for obedience to God's law.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.9941201089022864,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.65,
+            "commentatorTierSimilarities": [
+                35.54,
+                31.48,
+                32.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his letter to the Romans, Paul vividly portrays the inner conflict experienced by believers. He clarifies that it is not his entire self, but rather the sin dwelling within him, that is responsible for committing sinful actions. This tension between the flesh and the spirit is a constant struggle for those who have been regenerated. Paul is not suggesting that believers are exempt from moral responsibility; rather, he highlights the necessity of acknowledging and rejecting sin in order to be saved from its bondage.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9416643227124277,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                33.76,
+                33.28,
+                32.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's words in this passage reveal the intense battle between two opposing forces within him. He stresses that it is not his entire self that is responsible for committing sin, but rather the sin that has taken up residence in him. By expressing this paradox, Paul emphasizes the coexistence and mutual hostility of the flesh and the spirit. He does not absolve believers of their moral responsibility, but rather highlights the need to confront and renounce sin while honoring God's law with their renewed selves.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.994080342828457,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.64,
+            "commentatorTierSimilarities": [
+                34.8,
+                33.36,
+                31.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's powerful words in this verse unveil the intense conflict that resides within him. He clarifies that it is not his entire self that carries out sinful deeds, but rather the sin dwelling within him. By portraying this paradox, Paul underscores the coexistence and animosity between the flesh and the spirit. He does not negate the moral responsibility of believers, but rather underscores the need to confront and renounce sin while wholeheartedly honoring God's law with their renewed inner selves.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.0472323089537907,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.41,
+            "commentatorTierSimilarities": [
+                34.84,
+                33.11,
+                32.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

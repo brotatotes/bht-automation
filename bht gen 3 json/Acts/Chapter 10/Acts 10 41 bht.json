@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:29:40",
+    "verseRef": "Acts 10:41",
+    "bestBHT": {
+        "bht": "After His resurrection, Jesus intentionally ate and drank with His disciples to provide important testimony to the reality and identity of His risen Body. These eyewitnesses were specifically chosen by God and had personally witnessed Jesus after He rose from the dead. The absence of a public recognition of Jesus during this time actually strengthens the evidence, showing that the witnesses were not trying to exaggerate or make their case stronger. This certainty of the resurrection was meant to exercise the faith of believers and encourage them to believe the gospel over what their eyes saw.",
+        "wordCount": 96,
+        "quoteTokenProportion": 36.23,
+        "qualityScore": 2.051272316825692,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+        "commentatorTierSimilarities": [
+            34.9,
+            34.9,
+            30.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But this is most improbable from the construction of the sentence, besides that the fact of their having eaten and drunk with Him after His Resurrection gives most important testimony to the reality and identity of His risen Body.",
+            "And there is no real difficulty in it: Luke xxiv. 41, 43 and John xxi. 12 give us instances;",
+            "Even if the drinking with Him, is to be pressed, it is no contradiction to Luke xxii. 18, which only refers to one particular kind of drinking."
+        ],
+        "Albert Barnes": [
+            "Not to all the people - Not to the nation at large, for this was not necessary in order to establish the truth of his resurrection.",
+            "Chosen of God - Appointed by God, or set apart by his authority through Jesus Christ.",
+            "Who did eat and drink ... - And by doing this he furnished the clearest possible proof that he was truly risen; that they were not deceived by an illusion of the imagination or by a phantom."
+        ],
+        "Marvin Vincent": [
+            "Chosen before [\u03c0\u03c1\u03bf\u03ba\u03b5\u03c7\u03b5\u03b9\u03c1\u03bf\u03c4\u03bf\u03bd\u03b7\u03bc\u03b5\u03bd\u03bf\u03b9\u03c2] . Only here in New Testament.",
+            "The simple verb ceirotonew, to appoint, occurs Acts 14:23; 2 Corinthians 8:19; and originally means to stretch out the hand for the purpose of giving a vote.",
+            "The compound pronoun marks them more strongly as belonging to the class of eye - witnesses."
+        ],
+        "John Calvin": [
+            "And yet, assuredly God used this moderation to a good end. For the certainty of the resurrection was proved by many and firm testimonies, and this was profitable to exercise the faith of the godly, to believe the gospel rather than their eyes.\" ",
+            "Yea, rather, we must endeavor ourselves that our unworthiness and unthankfulness do not darken so great kindness of the Son of God toward us.\" ",
+            "That meat which is taken for the sustenance of the body is concocted and afterward digested; but we know that Christ took this meat to feed our faith, and in this use was it spent."
+        ],
+        "Philip Schaff": [
+            "The very fact that no such public recognition of His person is recorded, though at first it might have seemed to detract from the evidence of His resurrection, but serves to enhance it, by showing how free the witnesses of this event were from a disposition to exaggerate or make their case stronger than it was in fact.",
+            "Witnesses, namely those who had been previously appointed by God.",
+            "The facts here stated belong to the period of the Great Forty Days. Both St. Luke and St. John give instances."
+        ],
+        "Archibald T. Robertson": [
+            "Peter is evidently stating the thing as it happened and not trying to make a convincing story by saying that both friends and foes saw him after his resurrection.",
+            "But at any rate Peter makes it clear that it was no hallucination or ghost, but Jesus himself whom they saw after he rose from the dead.",
+            "Furneaux dares to think that the disciples misunderstood Jesus about eating after the resurrection. But that is to deny the testimony merely because we cannot explain the transition state of the body of Jesus."
+        ],
+        "John Gill": [
+            "Not to all the people,.... Of the Jews, who crucified him; nor to the whole body of the Christians, though at one time to a large number, even five hundred brethren at once...\" ",
+            "even to us, who did eat and drink with him after he rose from the dead; namely, to the apostles, with whom he familiarly conversed by times, for the space of forty days after his resurrection...\" ",
+            "and though drinking is not mentioned, it is included in eating, as in Luke 7:36 wherefore there is no need to connect the last clause, 'after he rose from the dead', with the latter part of the preceding verse, as some do, on that account."
+        ],
+        "John Wesley": [
+            "Not now to all the people \u2014 As before his death.\" ",
+            "to us who did eat and drink with him.\" ",
+            "conversed familiarly and continually with him, in the time of his ministry."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Jesus' resurrection, He appeared to His disciples and others, eating and drinking with them to prove the reality and identity of His risen Body, as opposed to being a ghost or illusion. These eyewitnesses were carefully chosen by God and belonged to a class of individuals who had personally witnessed Jesus' resurrection. The fact that there was no public recognition of Jesus during this time serves to enhance the authenticity of their testimonies. This certainty of the resurrection was crucial for exercising the faith of believers and choosing to believe the gospel rather than relying solely on what their eyes saw.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.0360597247103875,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                34.76,
+                35.98,
+                29.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After His resurrection, Jesus intentionally ate and drank with His disciples to provide important testimony to the reality and identity of His risen Body. These eyewitnesses were specifically chosen by God and had personally witnessed Jesus after He rose from the dead. The absence of a public recognition of Jesus during this time actually strengthens the evidence, showing that the witnesses were not trying to exaggerate or make their case stronger. This certainty of the resurrection was meant to exercise the faith of believers and encourage them to believe the gospel over what their eyes saw.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 2.051272316825692,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+            "commentatorTierSimilarities": [
+                34.9,
+                34.9,
+                30.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After His resurrection, Jesus ate and drank with His disciples, providing significant testimony to the reality and identity of His risen Body. These eyewitnesses were chosen by God and belonged to a class of individuals who had seen Jesus after He rose from the dead. The absence of public recognition of Jesus during this time actually enhances the evidence, as it demonstrates the witnesses' lack of exaggeration. This certainty of the resurrection was crucial for strengthening the faith of believers and encouraging them to trust the truth of the gospel over their own eyes.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.9273479277032244,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.43,
+            "commentatorTierSimilarities": [
+                34.24,
+                35.93,
+                29.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Jesus' resurrection, He ate and drank with His disciples, providing powerful testimony to the reality and identity of His risen Body. These eyewitnesses were carefully chosen by God and belonged to a class of individuals who had personally witnessed Jesus' resurrection. The absence of public recognition further strengthens their testimonies, showcasing their sincerity and lack of exaggeration. This certainty of the resurrection was vital for strengthening the faith of believers and encouraging them to prioritize the truth of the gospel over their own limited perspectives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7508948793413666,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                34.92,
+                35.87,
+                29.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After His resurrection, Jesus ate and drank with His disciples, providing vital testimony to the reality and identity of His risen Body. These eyewitnesses, specifically chosen and appointed by God, were members of a class who had personally witnessed Jesus after He rose from the dead. The absence of public recognition during this time only serves to enhance the authenticity of their testimonies, as it demonstrates their sincerity and the absence of exaggeration. This certainty of the resurrection was crucial for strengthening the faith of believers and emphasizing the truth of the gospel.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8300887877965435,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                34.33,
+                34.97,
+                30.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

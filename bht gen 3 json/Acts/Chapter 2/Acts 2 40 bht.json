@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:25:30",
+    "verseRef": "Acts 2:40",
+    "bestBHT": {
+        "bht": "The Apostle's command is often misunderstood as a call for individuals to save themselves, but it is actually a call to let God save them. Peter's plea to save yourselves from this untoward generation is a warning against the nation's impenitence. The condensed version of Peter's message emphasizes the importance of separation from wicked influences and taking action to secure personal salvation. It reminds us of the early Christian Church's beginnings and the need to align ourselves with Christ and His people.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.9555848302905585,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+        "commentatorTierSimilarities": [
+            35.97,
+            36.25,
+            27.77
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostle\u2019s command is improperly rendered in A.V. \u2018save yourselves\u2019 it is strictly passive,\u2014be saved,\u2014 \u2018let: us save you\u2019\u2014 \u2018let God by us save you.\u2019\" ",
+            "In saying this crooked generation, St. Peter alludes to Deut. xxxii. 5."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Save yourselves from this untoward generation\u2014as if Peter already foresaw the hopeless impenitence of the nation at large, and would have his hearers hasten in for themselves and secure their own salvation.",
+            "BEAUTIFUL BEGINNINGS OF THE CHRISTIAN CHURCH."
+        ],
+        "Albert Barnes": [
+            "Save yourselves - This expression here denotes, preserve yourselves from the influence, opinions, and fate of this generation. It implies that they were to use diligence and effort to deliver themselves.",
+            "He calls upon them to put forth their own power and effort to be saved. Unless they put forth their own strength, they will never be saved.",
+            "Those who are awakened should resolve at once to break off from their evil companions, and unite themselves to Christ and his people."
+        ],
+        "Marvin Vincent": [
+            "Did he testify. The preposition dia gives the force of solemnly, earnestly.",
+            "Save yourselves. More strictly, be ye saved.",
+            "Untoward. Lit., crooked. [...] Untoward, therefore, meant intractable, perverse."
+        ],
+        "John Calvin": [
+            "They could not be Christ\u2019s unless they would depart from his professed enemies.",
+            "He commandeth his hearers to separate themselves from them, lest they entangle themselves in their wicked and pestiferous fellowship.",
+            "For it were not sufficient to have Christ set before us, unless we were also taught to flee those things which do lead us away from him."
+        ],
+        "Philip Schaff": [
+            "Save yourselves from this untoward generation.",
+            "Be ye saved (by God), Lasset each rotten.",
+            "From that wicked Jewish people who had filled up the cup of their iniquity by the murder of the Holy One and Just, and who were doomed to destruction."
+        ],
+        "Archibald T. Robertson": [
+            "With many other words... showing that Luke does not pretend to give all that Peter said.\" ",
+            "He testified... should be translated 'protested solemnly' to the Jews.",
+            "Save yourselves... Be ye saved."
+        ],
+        "John Gill": [
+            "Luke does not give the sermons of the apostles at length, but a compendium, or specimen of them, and some of the more remarkable things in them.",
+            "The apostle exhorts to separate from them, and not partake of their sins, lest they should also of their plagues.",
+            "Save yourselves from this untoward generation."
+        ],
+        "John Wesley": [
+            "In such an accepted time we should add line upon line, and not leave off, till the thing is done.",
+            "Save yourselves from this perverse generation \u2014 Many of whom were probably mocking still."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle's command in Acts 2:40 is often misunderstood, as it is not a call for individuals to save themselves, but rather a call to allow God to save them. Peter's use of the term crooked generation refers back to an intractable and perverse people mentioned in Deuteronomy. By urging his listeners to save themselves, Peter implies that he already foresaw the nation's impenitence and wanted his audience to take action to secure their own salvation. Luke's account is not comprehensive, but gives a condensed version of Peter's message. Ultimately, Peter's message highlights the need for individuals to separate from the wicked influences around them and unite themselves with Christ and his people.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.94187712883606,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+            "commentatorTierSimilarities": [
+                36.93,
+                34.71,
+                28.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle's command that is often misunderstood in this passage is not a call for individuals to save themselves, but rather a call to allow God to save them. Peter urges his listeners to save themselves from this perverse and intractable generation, highlighting the need for individuals to separate from wicked influences and unite themselves with Christ and his people. This condensed version of Peter's message reminds us of the beautiful beginnings of the Christian Church and the importance of taking action to secure our own salvation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.107735389844347,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+            "commentatorTierSimilarities": [
+                35.13,
+                35.8,
+                29.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle's command in this verse is often misunderstood as a call for individuals to save themselves. However, it is actually a call to let God save them. Peter's urgent plea to save yourselves from this untoward generation is a warning against the intractable and perverse nation at large. The condensed version of Peter's message emphasizes the need for individuals to separate from wicked influences and take action to secure their own salvation. It serves as a reminder of the importance of responding to the message and aligning ourselves with Christ and His people.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.917033756566552,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.08,
+            "commentatorTierSimilarities": [
+                33.47,
+                37.16,
+                29.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle's command in Acts 2:40 is often misunderstood. It is not a call for individuals to save themselves, but rather a call to allow God to save them. Peter urges his listeners to save themselves from this untoward and intractable generation by separating from their wicked influences. This condensed message emphasizes the need for individual action to secure personal salvation. It is a reminder of the beautiful beginnings of the Christian Church and highlights the importance of aligning oneself with Christ and His people.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7911163034969086,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                34.39,
+                37.61,
+                28.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle's command is often misunderstood as a call for individuals to save themselves, but it is actually a call to let God save them. Peter's plea to save yourselves from this untoward generation is a warning against the nation's impenitence. The condensed version of Peter's message emphasizes the importance of separation from wicked influences and taking action to secure personal salvation. It reminds us of the early Christian Church's beginnings and the need to align ourselves with Christ and His people.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9555848302905585,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                35.97,
+                36.25,
+                27.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

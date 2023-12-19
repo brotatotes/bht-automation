@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:07:09",
+    "verseRef": "1 Corinthians 7:31",
+    "bestBHT": {
+        "bht": "We are to use the world, not to take our fill of its pursuits, as the time is short and the form of this world is already beginning to pass away. While fulfilling our obligations in this worldly sphere, our desires should revolve around God as the center. Instead of seeking happiness in the things of this world, we should use them in a moderate and temperate manner, knowing that they are all mere show and appearance, transient and fluid.",
+        "wordCount": 80,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.5829296435696478,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.97,
+        "commentatorTierSimilarities": [
+            33.05,
+            31.55,
+            35.4
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "using it to the full...intense and greedy use which turns the legitimate use into a fault.\" ",
+            "the form of this world is already beginning to pass away.\" ",
+            "This shews that the time is short:\u2014the form of this world is already beginning to pass away."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We are to use it, 'not to take our fill' of its pursuits as our chief aim.",
+            "As the planets while turning on their own axis, yet revolve round the sun; so while we do our part in our own worldly sphere, God is to be the center of all our desires.",
+            "Paul inculcates not so much the outward denial of earthly things, as the inward spirit whereby the married and the rich, as well as the unmarried and the poor, would be ready to sacrifice all for Christ's sake."
+        ],
+        "Albert Barnes": [
+            "It is right so to use the world, for it was made for these purposes.",
+            "We are not to use it to EXCesS; we are not to make it a mere matter of indulgences.",
+            "The form, the fashion of the world is like a splendid, gilded pageant. It is unreal and illusive."
+        ],
+        "John Calvin": [
+            "Paul directs us to a sober and frugal use of things, such as may not impede or retard our course, but may allow of our always hastening forward toward the goal.",
+            "There is nothing that is firm or solid; for it is a mere show or outward appearance.",
+            "The term fashion is tacitly opposed to substance."
+        ],
+        "Archibald T. Robertson": [
+            "Those that use the world... As not abusing it... For the fashion of this world passeth away.\" ",
+            "\u03a3\u03c7\u03b7\u03bc\u03b1 is the habitus, the outward appearance.",
+            "\u03a0\u03b1\u03c1\u03b1\u03b3\u03b5... means 'passes along' like a moving panorama (movie show!)."
+        ],
+        "John Gill": [
+            "Such as have a large affluence of the things of this world, should use them in a moderate and temperate manner; should not squander them away extravagantly, or spend them on their lusts, and use them intemperately, which is to abuse them.\" ",
+            "All that looks glorious and beautiful in the present world, as riches, honour, c. are all mere show and appearance, having nothing solid and substantial in them and are all fluid and transitory, are passing away.",
+            "There is nothing firm and permanent; in a little time, all will be at an end, the world itself, as to its present form, and all that is in it; when there will be no more marrying, nor giving in marriage, no more buying and selling, no more of the present changes and vicissitudes of prosperity and adversity, of joy and sorrow; these scenes will be all removed, and quite a new face of things appear."
+        ],
+        "John Wesley": [
+            "And they that use this world, as not abusing it \u2014 Not seeking happiness in it, but in God: using every thing therein only in such a manner and degree as most tends to the knowledge and love of God.",
+            "For the whole scheme and fashion of this world - This marrying, weeping, rejoicing, and all the rest, not only will pass, but now passeth away, is this moment flying off like a shadow.",
+            "is this moment flying off like a shadow."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are instructed to use the world, not to indulge in its pursuits as our chief aim, for the form and fashion of this world are already beginning to pass away. While we carry out our duties in this worldly sphere, our desires should revolve around God as the center. It is not so much about denying outward earthly things, but having an inward spirit that is willing to sacrifice all for the sake of Christ. The world is like a splendid, gilded pageant, illusive and unreal, with nothing solid or substantial. Therefore, we should use the things of this world soberly and frugally, always hastening forward toward the goal, knowing that all the glorious and beautiful things it offers are passing away moment by moment.",
+            "wordCount": 126,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6368521870105466,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.77,
+            "commentatorTierSimilarities": [
+                30.7,
+                37.93,
+                31.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are to use the world, not to take our fill of its pursuits, as the time is short and the form of this world is already beginning to pass away. While fulfilling our obligations in this worldly sphere, our desires should revolve around God as the center. Instead of seeking happiness in the things of this world, we should use them in a moderate and temperate manner, knowing that they are all mere show and appearance, transient and fluid.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5829296435696478,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.97,
+            "commentatorTierSimilarities": [
+                33.05,
+                31.55,
+                35.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are reminded that the time is short and the form of this world is passing away. Therefore, we should use the world, not in an excessive and greedy manner that turns its legitimate use into a fault. While we fulfill our worldly responsibilities, our desires should be centered on God. The things of this world are like a moving panorama, transient and illusory. We should use them with sobriety and moderation, not squandering them or seeking happiness in them. Instead, our focus should be on the knowledge and love of God, as everything in this world, with its glory and beauty, is passing away like a shadow.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.4311202584446086,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.93,
+            "commentatorTierSimilarities": [
+                30.52,
+                34.4,
+                35.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In light of the passing nature of this world, we are urged to use it without excessive indulgence. The ephemeral form of this world is already beginning to fade, making it clear that time is short. While we carry out our daily endeavors, we are reminded to center our desires on God rather than the pursuit of worldly pleasures. Our use of the things in this world should be moderate and temperate, recognizing that they are but a passing show with no lasting substance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.4871951081939805,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.79,
+            "commentatorTierSimilarities": [
+                30.62,
+                35.83,
+                33.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the form of this world is passing away, we are called to use it without excess or abuse. Our desires ought to revolve around God, not in seeking happiness from worldly pursuits. Whether we have much or little, we should be ready to sacrifice all for the sake of Christ. The things of this world are mere show and appearance, lacking substance and permanence. Therefore, let us use them soberly and frugally, always striving towards our ultimate goal.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.516566336932243,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.77,
+            "commentatorTierSimilarities": [
+                28.8,
+                36.87,
+                34.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

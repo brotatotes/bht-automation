@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:17:03",
+    "verseRef": "Luke 9:14",
+    "bestBHT": {
+        "bht": "There were five thousand men, arranged in companies of a hundred and fifty. In addition, there were women and children who were unarranged. The word used for these companies is also used in classical Greek for a couch used for reclining at a table. The purpose of arranging them in this way was to make it easier to count and distribute food to them.",
+        "wordCount": 64,
+        "quoteTokenProportion": 52.27,
+        "qualityScore": 1.3963110462971788,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.77,
+        "commentatorTierSimilarities": [
+            41.27,
+            0.0,
+            58.73
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Mark gives 'by hundreds and by fifties' with his usual precision.",
+            "Besides these companies, there were the women and children unarranged.",
+            "See on John vi. 10."
+        ],
+        "Marvin Vincent": [
+            "The plural, in companies. Lit., table - companies.",
+            "The word is also used in classical Greek of a couch for reclining at table.",
+            "Only here in New Testament. See on Mark 6:39."
+        ],
+        "Archibald T. Robertson": [
+            "There were 5,000 men, a hundred companies of fifty each.\" ",
+            "Recline, lie down.",
+            "A row of persons reclining at meals."
+        ],
+        "John Gill": [
+            "For they were about five thousand men,.... Beside women and children.",
+            "Make them to sit down by fifties in a company; and by hundreds also.",
+            "Which was done partly, for the more easy numbering of them, and partly and chiefly for the more convenient distribution of food to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There were five thousand men, arranged in companies of a hundred and fifty. In addition, there were women and children who were unarranged. The word used for these companies is also used in classical Greek for a couch used for reclining at a table. The purpose of arranging them in this way was to make it easier to count and distribute food to them.",
+            "wordCount": 64,
+            "quoteTokenProportion": 52.27,
+            "qualityScore": 1.3963110462971788,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.77,
+            "commentatorTierSimilarities": [
+                41.27,
+                0.0,
+                58.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus miraculously fed the multitude in Luke 9:14, they were organized into precise groups, by hundreds and by fifties. In addition to these orderly groups, there were also women and children present. The Greek word used to describe the arrangement of the people at the meal is table-companies, which refers to rows of individuals reclining as they ate. In total, there were 5,000 men, divided into a hundred companies of fifty each. This organization allowed for an easier count of the people and a more convenient distribution of food.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.2070637631722656,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.48,
+            "commentatorTierSimilarities": [
+                35.34,
+                0.0,
+                64.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus miraculously fed a multitude of people and arranged them in orderly groups, with hundreds and fifties as St. Mark precisely noted. Women and children were also present but not arranged. The Greek word used for this arrangement gives the sense of reclining at a table. There were 5,000 men, divided into a hundred companies of fifty each, for the purpose of easier counting and convenient distribution of food.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.2823846287645573,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.98,
+            "commentatorTierSimilarities": [
+                41.17,
+                0.0,
+                58.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus miraculously fed a multitude of people, dividing them into precise groups of hundreds and fifties. The Greek word used for this arrangement suggests a reclined position at the table. While the men were counted, women and children were present as well. The total number of men in these groups was 5,000, organized into a hundred companies of fifty each. This organizational structure allowed for an easier enumeration of people and facilitated the distribution of food among them.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.1878847546156561,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.84,
+            "commentatorTierSimilarities": [
+                37.58,
+                0.0,
+                62.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus miraculously fed the multitude, they were divided into groups of hundreds and fifties. The Greek word used to describe this arrangement refers to reclining at a table, indicating a relaxed setting for the meal. In addition to the men, there were also women and children present. The total number of men in these organized groups was 5,000, with a hundred companies consisting of fifty individuals each. This careful arrangement made it easier to count the people and efficiently distribute the food among them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.211675219573011,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.63,
+            "commentatorTierSimilarities": [
+                36.33,
+                0.0,
+                63.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

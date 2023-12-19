@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:28:51",
+    "verseRef": "Acts 9:10",
+    "bestBHT": {
+        "bht": "Ananias, a devout man with a good reputation in Damascus, was chosen by the Lord to assist in Saul's conversion. Paul, in different retellings of this event, focused on different aspects and selectively omitted details, such as Ananias being a disciple and receiving a command from the Lord. While opinions differ on the supernatural nature of the vision, it is clear that God had a purpose in selecting Ananias and revealing His will to him. Ananias faithfully and promptly responded to the Lord's call, displaying his readiness to listen and obey.",
+        "wordCount": 93,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.7226236112510946,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+        "commentatorTierSimilarities": [
+            29.52,
+            31.74,
+            38.74
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Paul adds, ch. xxii. 12, with particularity, as defending himself before the Jews, that Ananias was 'a devout man according to the law, having a good report of all the Jews which dwelt there:' saying nothing of the command received by him, nor that he was a disciple.\" (quote 1)",
+            "In ch. xxvi., speaking before the Roman governor, he does not mention him.\" (quote 2)",
+            "I may add, that in ch. viii., where the preparation of heart was already found in the eunuch, Philip only was supernaturally prepared for the interview.\" (quote 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10-16. a certain disciple . . .",
+            "\tnamed Ananias\u2014See on Acts 9:2.",
+            "\t",
+            "to him said the Lord\u2014that",
+            "\tis, Jesus. (See Acts 9:13; Acts 9:14;",
+            "\tActs 9:17)."
+        ],
+        "Albert Barnes": [
+            "There was wisdom in sending such a Christian to Saul, as it might do much to conciliate the minds of the Jews there toward him.",
+            "The Lord Jesus is alone mentioned in all this transaction. And as he had commenced the work of converting Saul, it is evident that he is intended here.",
+            "The main idea is that he revealed his will to him in the case. The word 'vision' is often used in speaking of the 'communications' made to the prophets."
+        ],
+        "John Calvin": [
+            "We have said before that this man was rather chosen than any of the apostles, that Paul, having laid away the swelling of his arrogancy, might learn to hear the least, and that he [might] come down from too great loftiness even unto the lowest degree.",
+            "Therefore it was requisite that he should have some certain testimony of his calling, that there should happy success be promised to his labor, that he might take that in hand with a joyful and valiant mind which the Lord commanded.",
+            "God doth lighten the minds of his children so, that they assure themselves that they need not to fear legerdemain."
+        ],
+        "Philip Schaff": [
+            "The Lord who here appears to Ananias is not God the Father, but Jesus Christ.",
+            "We know too little of the laws which regulate the rare communications of the higher spiritual world with us men.",
+            "These words: \u2018Arise, and go into the street,\u2019 etc., simply direct him to leave his home, and proceed to a certain spot where he could find Saul."
+        ],
+        "Archibald T. Robertson": [
+            "Nomen et omen (Knowling). This Ananias had the respect of both Jews and Christians in Damascus (Acts 22:12).",
+            "Zeller and others scout the idea of the historicity of this vision as supernatural. Even Furneaux holds that 'it is a characteristic of the Jewish Christian sources to point out the Providential ordering of events by the literary device of a vision,' as 'in the early chapters of Matthew's and Luke's Gospels.'",
+            "One MS. of the old Latin Version does omit the vision to Ananias and that is basis enough for those who deny the supernatural aspects of Christianity."
+        ],
+        "John Gill": [
+            "And there was a certain disciple at Damascus.... Who perhaps came hither upon the persecution at Jerusalem, or rather might have lived here some time; Acts 9:13",
+            "but it is certain he was not one of the first seven; others affirm he was a presbyter, and some report that he was afterwards bishop of Damascus, and died a martyr there; but these are things not to be depended on",
+            "and he said, behold, I am here, Lord; in like manner as Samuel did, when a child, when the Lord called to him; showing his readiness to hearken to his voice, to do his will, and obey his orders, be they what they would."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Ananias, a devout man with a good reputation among both Jews and Christians in Damascus, was chosen by the Lord to play a crucial role in the conversion of Saul. Interestingly, when Paul himself recounted this encounter before different audiences, he sometimes left out certain details, such as the fact that Ananias was a disciple and the command he received from the Lord. This suggests that Paul wanted to emphasize different aspects of the story depending on his audience. Despite differing opinions on the supernatural aspects of this vision, it is clear that God had a purpose in choosing Ananias and revealing His will to him. Ananias obediently followed the Lord's instructions, demonstrating his readiness to heed His voice and do His will.",
+            "wordCount": 124,
+            "quoteTokenProportion": 36.14,
+            "qualityScore": 1.788099800310072,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                28.58,
+                33.59,
+                37.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Ananias, a respected disciple in Damascus, was chosen by the Lord to assist in Saul's conversion. Paul, when recounting this event, omitted details about Ananias being both a disciple and receiving a command from the Lord. While opinions vary on the supernatural aspects, it is evident that Ananias played a significant role in God's plan. His readiness to obey is evident in his response to the Lord's call. Ananias' obedience and willingness to do God's will highlights his faithfulness in carrying out the Lord's instructions.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.6935266456973455,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.65,
+            "commentatorTierSimilarities": [
+                30.59,
+                30.93,
+                38.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Ananias, a devout man with a good reputation among both Jews and Christians in Damascus, was chosen by the Lord to play a crucial role in the conversion of Saul. Interestingly, when Paul himself recounted this encounter before different audiences, he sometimes left out certain details, such as the fact that Ananias was a disciple and the command he received from the Lord. Despite differing opinions on the supernatural aspects of this vision, it is clear that God had a purpose in choosing Ananias and revealing His will to him. Ananias obediently followed the Lord's instructions, demonstrating his readiness to heed His voice and do His will.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.8500174480900873,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.85,
+            "commentatorTierSimilarities": [
+                28.31,
+                33.26,
+                38.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Ananias, a respected disciple in Damascus, was chosen by the Lord to assist in Saul's conversion. Paul, when recounting this event, omitted details about Ananias being both a disciple and receiving a command from the Lord. While opinions vary on the supernatural aspects, it is evident that Ananias played a significant role in God's plan. His readiness to obey is seen when he responded, Behold, I am here, Lord. Ananias' obedience and willingness to do God's will exemplify his faithful commitment to carrying out the Lord's instructions.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6894858220277533,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.52,
+            "commentatorTierSimilarities": [
+                29.67,
+                31.1,
+                39.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Ananias, a devout man with a good reputation in Damascus, was chosen by the Lord to assist in Saul's conversion. Paul, in different retellings of this event, focused on different aspects and selectively omitted details, such as Ananias being a disciple and receiving a command from the Lord. While opinions differ on the supernatural nature of the vision, it is clear that God had a purpose in selecting Ananias and revealing His will to him. Ananias faithfully and promptly responded to the Lord's call, displaying his readiness to listen and obey.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.7226236112510946,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                29.52,
+                31.74,
+                38.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

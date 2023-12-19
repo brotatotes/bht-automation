@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:16:40",
+    "verseRef": "Luke 8:1",
+    "bestBHT": {
+        "bht": "Jesus, the Prince of itinerant preachers, traveled through towns and villages, proclaiming the message of the Kingdom. The twelve apostles accompanied Him on this journey, witnessing His preaching and sharing the glad tidings of the kingdom of God. Jesus spread the good news and proclaimed the doctrines of the Gospel dispensation, such as the free remission of sins, justification by His righteousness, and complete salvation. He also emphasized the inward holiness, peace, and joy found in the kingdom of grace, surpassing the righteousness of the Scribes and Pharisees, which grants entry into the kingdom of glory.",
+        "wordCount": 96,
+        "quoteTokenProportion": 26.98,
+        "qualityScore": 1.6599284045279545,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+        "commentatorTierSimilarities": [
+            25.39,
+            31.97,
+            42.64
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the Prince of itinerant preachers scattering far and wide the seed of the Kingdom.",
+            "through town and village.",
+            "travelled, made a progress."
+        ],
+        "Albert Barnes": [
+            "Preaching and showing the glad tidings of the kingdom of God - That the kingdom of God was about to come, or that his reign in the gospel was about to be set up over people.",
+            "The twelve - The twelve apostles.",
+            "Every city and village - Of Galilee."
+        ],
+        "Marvin Vincent": [
+            "Afterward [\u03b5\u03bd \u03c4\u03c9 \u03ba\u03b1\u03b8\u03b5\u03be\u03b7\u03c2] . Rev., soon afterward.",
+            "Preaching [\u03ba\u03b7\u03c1\u03c5\u03c3\u03c3\u03c9\u03bd] . Or proclaiming, as a herald.",
+            "And the twelve were with him."
+        ],
+        "John Calvin": [
+            "Though they held an inferior rank, they are said to have been Christ\u2019s assistants.",
+            "It is not said that the Church which he elected was found by him to be without spot and blemish, but that he cleansed it with his blood, and made it pure and fair.",
+            "They willingly endure to be humbled, in order to become a mirror, by which he may be illustriously displayed."
+        ],
+        "Philip Schaff": [
+            "From town to town, from village to village, in unwearied activity.",
+            "One word in the Greek, hence \u2018preaching\u2019 does not govern \u2018glad tidings.\u2019",
+            "Went about with him, since this is joined closely with the previous clause."
+        ],
+        "Archibald T. Robertson": [
+            "Soon afterwards... that gives no definite data as to the time, only that this incident in Luke 8:1-3 follows that in Luke 7:36-50.\" ",
+            "Went about... to make one's way through (\u03b4\u03b9\u03b1, \u03bf\u03b4\u03bf\u03c2), common in late Greek writers. In the N.T. here only and Acts 17:1.",
+            "Through cities and villages... The clause is amphibolous and goes equally well with \u03b4\u03b9\u03c9\u03b4\u03b5\u03c5\u03b5\u03bd or with \u03ba\u03b7\u03c1\u03c5\u03c3\u03c3\u03c9\u03bd (heralding) \u03ba\u03b1 \u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2 (evangelizing, gospelizing)."
+        ],
+        "John Gill": [
+            "publishing the doctrines and mysteries of [the Gospel dispensation], such as free and full remission of sins for his own sake, justification by his righteousness, acceptance in him the beloved Son of God, and complete salvation by him as the Saviour of his people, than which nothing could be more welcome news, or better tidings.",
+            "pointing out the ordinances of that dispensation, and showing who were the proper subjects of them, and directing and encouraging such to submit unto them; as also signifying what the kingdom of grace lies in, not in meats and drinks, or any outward things, but in inward holiness, peace, and joy.",
+            "what gives a right unto [the kingdom of glory], even a better righteousness than that of the Scribes and Pharisees, and which was no other than his own."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of Jesus as the Prince of itinerant preachers, traveling through towns and villages, proclaiming the message of the Kingdom. The twelve apostles were with Him on this journey, witnessing His preaching and showing the glad tidings of the kingdom of God. In His unwearied activity, Jesus went from city to city, village to village, spreading the good news and publishing the doctrines and mysteries of the Gospel dispensation. This message included the free remission of sins, justification, acceptance in Him, and complete salvation. Jesus also pointed out the ordinances of the kingdom of grace and what it truly entails: inward holiness, peace, and joy. Ultimately, Jesus's preaching and teaching revealed the righteousness that grants entry to the kingdom of glory, a righteousness that surpasses that of the Scribes and Pharisees.",
+            "wordCount": 134,
+            "quoteTokenProportion": 25.61,
+            "qualityScore": 1.5917943136509236,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.27,
+            "commentatorTierSimilarities": [
+                23.79,
+                33.29,
+                42.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, as the Prince of itinerant preachers, traveled through towns and villages proclaiming the message of the Kingdom. The twelve apostles were with Him, witnessing His preaching and showing the glad tidings of the kingdom of God. In His unwearied activity, Jesus went from place to place, spreading the good news and publishing the doctrines and mysteries of the Gospel dispensation. This included the free remission of sins, justification, acceptance in Him, complete salvation, and the inward holiness, peace, and joy of the kingdom of grace. Jesus's teaching revealed the righteousness that grants entry to the kingdom of glory, surpassing that of the Scribes and Pharisees.",
+            "wordCount": 107,
+            "quoteTokenProportion": 22.39,
+            "qualityScore": 1.6337761808915061,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                23.77,
+                32.36,
+                43.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, the Prince of itinerant preachers, journeyed through towns and villages proclaiming the message of the Kingdom. Accompanied by the twelve apostles, He tirelessly traveled, spreading the good news and publishing the doctrines of the Gospel. This included the free remission of sins, justification by His righteousness, acceptance in Him as the beloved Son of God, and complete salvation. Jesus also taught about the inward holiness, peace, and joy found in the kingdom of grace, surpassing the righteousness of the Scribes and Pharisees to grant entry into the kingdom of glory.",
+            "wordCount": 91,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.6237589365008103,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                24.62,
+                29.89,
+                45.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, the Prince of itinerant preachers, traveled through towns and villages, proclaiming the message of the Kingdom. The twelve apostles accompanied Him on this journey, witnessing His preaching and sharing the glad tidings of the kingdom of God. Jesus spread the good news and proclaimed the doctrines of the Gospel dispensation, such as the free remission of sins, justification by His righteousness, and complete salvation. He also emphasized the inward holiness, peace, and joy found in the kingdom of grace, surpassing the righteousness of the Scribes and Pharisees, which grants entry into the kingdom of glory.",
+            "wordCount": 96,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.6599284045279545,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+            "commentatorTierSimilarities": [
+                25.39,
+                31.97,
+                42.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, the Prince of itinerant preachers, traveled through towns and villages, proclaiming the message of the Kingdom. Accompanied by the twelve apostles, He spread the good news and published the doctrines of the Gospel dispensation. His preaching included the free remission of sins, justification by His righteousness, acceptance in Him as the beloved Son of God, and complete salvation. Jesus also highlighted the inward holiness, peace, and joy found in the kingdom of grace, surpassing the righteousness of the Scribes and Pharisees, granting entry into the kingdom of glory.",
+            "wordCount": 89,
+            "quoteTokenProportion": 22.41,
+            "qualityScore": 1.6244688362506994,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                25.29,
+                29.97,
+                44.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:16:59",
+    "verseRef": "Luke 9:9",
+    "bestBHT": {
+        "bht": "Concerned by the growing fame of Jesus, Herod sought to confirm whether Jesus was John the Baptist whom he had beheaded. The rumors of Jesus' miracles and teachings disturbed Herod, who had sent Him to Pilate as a prisoner. Herod desired more than a casual glimpse of Jesus; he sought to see Him and be satisfied in his doubts. He anxiously hoped that by seeing Jesus, he could reassure himself that he had truly killed John and not someone else.",
+        "wordCount": 80,
+        "quoteTokenProportion": 48.15,
+        "qualityScore": 1.9184938162293692,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+        "commentatorTierSimilarities": [
+            46.65,
+            0.0,
+            53.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] The repetition of \u201cI\u201d (which is emphatic in the original) implies personal concern and alarm at the growing fame of Jesus: see notes on Matthew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "desired to see him\u2014but did not",
+            "as a prisoner He was sent to him by Pilate just before His death",
+            "ON THE RETURN OF THE TWELVE JESUS RETIRES WITH THEM TO BETHSAIDA, AND THERE MIRACULOUSLY FEEDS FIVE THOUSAND"
+        ],
+        "Marvin Vincent": [
+            "He desired [\u03b5\u03b6\u03b7\u03c4\u03b5\u03b9] . Rev., he sought. He did more than desire. ",
+            "- 17. Compare Mark 6:30-44."
+        ],
+        "Archibald T. Robertson": [
+            "He sought to see Jesus.",
+            "The rumours disturbed Herod.",
+            "He was sure that he had put him to death."
+        ],
+        "John Gill": [
+            "Surely this cannot be John, for I have beheaded him! and yet who should it be?\" ",
+            "He began to fear that it was he [John],",
+            "He desired to see him: that he might be satisfied whether it was he or not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Concerned and alarmed by the growing fame of Jesus, Herod sought to see Him, perhaps hoping to confirm that Jesus was not John the Baptist whom he had beheaded. The rumors of Jesus' miracles and teachings disturbed Herod, who had sent Him to Pilate as a prisoner right before His death. Herod may have feared that John's spirit was now embodied in Jesus, and he sought reassurance that he had truly killed John and not someone else. In his anxiety, he desired more than just a casual glimpse of Jesus; he sought to see Him, to be satisfied in his doubts.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.8751706215119404,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+            "commentatorTierSimilarities": [
+                46.82,
+                0.0,
+                53.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Concerned by the growing fame of Jesus, Herod sought to confirm whether Jesus was John the Baptist whom he had beheaded. The rumors of Jesus' miracles and teachings disturbed Herod, who had sent Him to Pilate as a prisoner. Herod desired more than a casual glimpse of Jesus; he sought to see Him and be satisfied in his doubts. He anxiously hoped that by seeing Jesus, he could reassure himself that he had truly killed John and not someone else.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.9184938162293692,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+            "commentatorTierSimilarities": [
+                46.65,
+                0.0,
+                53.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Alarmed by Jesus' increasing renown, Herod earnestly desired to see Him, perhaps wishing to confirm that He was not the resurrected John the Baptist. The reports of Jesus' miraculous works and teachings unsettled Herod, who had previously sent Him as a prisoner to Pilate. Herod's seeking went beyond mere curiosity; he longed to behold Jesus, seeking resolution for his own uncertainties. In his anxiety, he sought assurance, desiring clarity regarding whether he had truly executed John or someone else.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.749163951224089,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                47.94,
+                0.0,
+                52.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Concerned and alarmed by the growing fame of Jesus, Herod earnestly sought to see Him, perhaps in an effort to confirm that he had indeed killed John the Baptist. As rumors of Jesus' miraculous works and teachings circulated, Herod became troubled, fearing that John's spirit now resided in Him. Herod's desire went beyond a mere passing interest; he actively sought to see Jesus, hoping that by doing so, he could find satisfaction and reassurance in his conviction that he had dealt with John accordingly.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7840810038247668,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                50.23,
+                0.0,
+                49.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Alarmed by Jesus' fame, Herod sought to see Him, possibly to confirm he had killed John the Baptist. Troubled by rumors of Jesus' miracles and teachings, Herod desired more than a glimpse; he earnestly sought satisfaction and reassurance. This desire stemmed from his fear that John's spirit resided in Jesus. Compelled by anxiety, Herod's seeking signified his longing for confirmation and a resolution to his doubts regarding the identity and fate of John.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.7270713721961202,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                48.47,
+                0.0,
+                51.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

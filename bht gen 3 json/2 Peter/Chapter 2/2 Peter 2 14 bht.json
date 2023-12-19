@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:40:43",
+    "verseRef": "2 Peter 2:14",
+    "bestBHT": {
+        "bht": "These individuals are like a vivid picture, unable to see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices, causing them to be cursed individuals. This serves as a warning against the dangers of allowing our eyes to become avenues for lust, and emphasizes the importance of having a stable faith that guards against the deceitful arts and destructive allurements of the ungodly.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.7167296225627222,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.42,
+        "commentatorTierSimilarities": [
+            28.87,
+            37.07,
+            34.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "full of an adulteress,\" as though they carried about adulteresses always dwelling in their eyes: the eye being the avenue of lust [HORNEIUS]. BENGEL makes the adulteress who fills their eyes, to be \"alluring desire.",
+            "that cannot be made to cease from sin.",
+            "children of curse,\" that is, devoted to the curse. Cursing and covetousness, as in Balaam's case, often go together: the curse he designed for Israel fell on Israel's foes and on himself. True believers bless, and curse not, and so are blessed."
+        ],
+        "Albert Barnes": [
+            "The wanton glance is a principal occasion of exciting the sin; and there is much often in dress, and mien, and gesture, to charm the eye and to deepen the debasing passion.",
+            "Those who are not strong in Christian principle, or who are naturally fluctuating and irresolute... [they] allure them to sin.",
+            "The idea here is that these persons had made this their study, and had learned the ways in which men could be induced to part with their money under religious pretences."
+        ],
+        "Marvin Vincent": [
+            "Eyes. Another illustration of Peter's emphasis on sight. It is the instrument of evil no less than of good.\" ",
+            "That cannot cease.\" ",
+            "An heart they have exercised. Better, Rev., having a heart exercised."
+        ],
+        "John Calvin": [
+            "He reminds the faithful to beware of their hidden and deceitful arts; for he compares their impostures to hooks which may catch the unwary to their destruction.\" ",
+            "Let there be then a stability of faith, and we shall be safe from the artifices of the ungodly.",
+            "He may be understood to mean, that they were so either actively or passively, that is, that they brought a curse with them wherever they went, or that they deserved a curse."
+        ],
+        "Philip Schaff": [
+            "having eyes full of an adulteress...having eyes for nothing else but an adulteress, or revealing in their very eyes the adulterous object of their desire.",
+            "and that cannot be made to cease from sin...restlessness and persistence.",
+            "enticing unstable souls...to allure by holding out a bait to one."
+        ],
+        "Archibald T. Robertson": [
+            "Vivid picture of a man who cannot see a woman without lascivious thoughts toward her.",
+            "Insatiable lust.",
+            "Rhetorical metaphor from the gymnasium."
+        ],
+        "John Gill": [
+            "Having eyes full of adultery",
+            "A heart they have exercised with covetous practices",
+            "Cursed children"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These individuals are described as having eyes full of an adulteress, meaning that their eyes are constantly filled with lustful desires. They cannot cease from sin, engaging in insatiable lust that they exercise with their hearts. They are like a vivid picture of a person who cannot see a woman without lascivious thoughts toward her. This verse serves as a warning against the danger of allowing our eyes to become avenues for lust and desires that lead us astray. It emphasizes the importance of having a stable faith and not being allured by the deceitful arts of the ungodly, who seek to curse and destroy the unwary.",
+            "wordCount": 107,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.7904527326263433,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                34.5,
+                37.96,
+                27.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These individuals are like a vivid picture, unable to see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices, causing them to be cursed individuals. This serves as a warning against the dangers of allowing our eyes to become avenues for lust, and emphasizes the importance of having a stable faith that guards against the deceitful arts and destructive allurements of the ungodly.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7167296225627222,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.42,
+            "commentatorTierSimilarities": [
+                28.87,
+                37.07,
+                34.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals are like a vivid picture of someone who cannot see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices, causing them to be cursed individuals. This warns against the dangers of allowing our eyes to become avenues for lust and emphasizes the importance of having a stable faith that guards against the deceitful arts and destructive allurements of the ungodly.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.7120136291080712,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                29.26,
+                36.78,
+                33.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals are like a vivid picture of someone who cannot see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices. This warns against the dangers of allowing our eyes to become avenues for lust and emphasizes the importance of having a stable faith. It serves as a reminder to be cautious of the deceitful arts and destructive allurements of the ungodly.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.5753499426458095,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "commentatorTierSimilarities": [
+                28.48,
+                35.94,
+                35.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These individuals are like a vivid picture of someone who cannot see a woman without their eyes being filled with adulterous desire. Their insatiable lust and lack of restraint lead them to persistently engage in sinful behavior. Their hearts are exercised with covetous practices. This warns against the dangers of allowing our eyes to become avenues for lust and emphasizes the importance of having a stable faith. It serves as a reminder to be cautious of the deceitful arts and destructive allurements of the ungodly.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.5753499426458095,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "commentatorTierSimilarities": [
+                28.48,
+                35.94,
+                35.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

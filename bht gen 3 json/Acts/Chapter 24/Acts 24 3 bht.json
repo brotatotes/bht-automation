@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:35:48",
+    "verseRef": "Acts 24:3",
+    "bestBHT": {
+        "bht": "We always accept it, not only here in your presence but also at all times and in all places, most noble Felix. The Jews, even though they deemed you the embodiment of cruelty, lust, and greed, commended your conduct and spoke well of you to flatter your ego. However, this was nothing more than a refinement of flattery. They observed with pleasure the provident care you took of their nation, claiming that many reforms and amendments occurred through your providence.",
+        "wordCount": 80,
+        "quoteTokenProportion": 53.12,
+        "qualityScore": 1.5301578011418477,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.22,
+        "commentatorTierSimilarities": [
+            26.53,
+            34.68,
+            38.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We receive it, i.e. not only here in thy presence, but also at all times and in all places. A refinement of flattery.",
+            "The world would here mean the Roman empire.",
+            "Nazarenes. This is the only place in the New Testament where the Christians are so called."
+        ],
+        "Albert Barnes": [
+            "We accept it always...with gratitude.\" ",
+            "Always...we do not commend you merely when you are present.\" ",
+            "In this there was probably sincerity...but at the same time...proud, avaricious, and cruel."
+        ],
+        "Marvin Vincent": [
+            "Very worthy deeds [\u03ba\u03b1\u03c4\u03bf\u03c1\u03b8\u03c9\u03bc\u03b1\u03c4\u03c9\u03bd]. From katorqow, to set upright. Hence, a success consequent on right judgment; a right action.\" ",
+            "obtaining much peace through thee, and amendments taking place for this nation through thy providence.\" ",
+            "Providence [\u03c0\u03c1\u03bf\u03bd\u03bf\u03b9\u03b1\u03c2]. Forethought. Previdentia Augusti (the providence of the emperor) was a common title on the coins of the emperors."
+        ],
+        "Philip Schaff": [
+            "We accept it always, and in all places, most noble Felix.\" ",
+            "Not only here in thy presence and at this moment do we acknowledge our deep debt of gratitude as a nation to thee; but also at all times and in all places do we speak in grateful terms of thee.\" ",
+            "The name of Felix was among Jews everywhere a byword for cruelty, lust, and greed."
+        ],
+        "Archibald T. Robertson": [
+            "In all ways and in all places.",
+            "But these adverbs most likely go with the preceding clause about 'reforms' rather than as here translated with 'we accept' (\u03b1\u03c0\u03bf\u03b4\u03b5\u03c7\u03bf\u03bc\u03b5\u03b8\u03b1).",
+            "But 'with all gratitude' (\u03bc\u03b5\u03c4\u03b1 \u03c0\u03b1\u03c3\u03b7\u03c2 \u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03b9\u03b1\u03c2) does naturally go with \u03b1\u03c0\u03bf\u03b4\u03b5\u03c7\u03bf\u03bc\u03b5\u03b8\u03b1."
+        ],
+        "John Gill": [
+            "The sense is, that the Jews observed with pleasure the provident care the governor took of their nation, and at all times spoke well of him.",
+            "And wherever they came commended his conduct, and owned the favours they received from him, and the blessings they enjoyed under his government.",
+            "But this was all a farce, mere artifice, and wretched flattery."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We always accept it, not only here in your presence but also at all times and in all places, most noble Felix. The Jews, even though they deemed you the embodiment of cruelty, lust, and greed, commended your conduct and spoke well of you to flatter your ego. They observed with pleasure the provident care you took of their nation, claiming that many reforms and amendments occurred through your providence. However, this was nothing more than a refinement of flattery, a distorted perception of your actions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 1.5293398520267545,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.19,
+            "commentatorTierSimilarities": [
+                27.27,
+                34.5,
+                38.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We always accept it, not only here in your presence but also at all times and in all places, most noble Felix. The Jews, even though they deemed you the embodiment of cruelty, lust, and greed, commended your conduct and spoke well of you to flatter your ego. However, this was nothing more than a refinement of flattery, a distorted perception of your actions. They observed with pleasure the provident care you took of their nation, claiming that many reforms and amendments occurred through your providence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 1.5293398520267545,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.19,
+            "commentatorTierSimilarities": [
+                27.27,
+                34.5,
+                38.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We always accept it, not only here in your presence but also at all times and in all places, most noble Felix. The Jews, even though they deemed you the embodiment of cruelty, lust, and greed, commended your conduct and spoke well of you to flatter your ego. However, this was nothing more than a refinement of flattery, a distorted perception of your actions. They observed with pleasure the provident care you took of their nation, claiming that many reforms and amendments occurred through your providence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 1.5293398520267545,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.19,
+            "commentatorTierSimilarities": [
+                27.27,
+                34.5,
+                38.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We receive it, not only here in your presence but also at all times and in all places, most noble Felix. The Jews, despite their negative opinion of you, would commend your conduct and express gratitude towards you, even though their flattery was insincere. They saw your actions as a providential care for their nation, attributing many reforms and improvements to your governance. However, this affirmation was merely a facade, a shallow attempt to curry favor with you.",
+            "wordCount": 78,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.4710177787384693,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "commentatorTierSimilarities": [
+                28.81,
+                35.14,
+                36.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We always accept it, not only here in your presence but also at all times and in all places, most noble Felix. The Jews, even though they deemed you the embodiment of cruelty, lust, and greed, commended your conduct and spoke well of you to flatter your ego. However, this was nothing more than a refinement of flattery. They observed with pleasure the provident care you took of their nation, claiming that many reforms and amendments occurred through your providence.",
+            "wordCount": 80,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 1.5301578011418477,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.22,
+            "commentatorTierSimilarities": [
+                26.53,
+                34.68,
+                38.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

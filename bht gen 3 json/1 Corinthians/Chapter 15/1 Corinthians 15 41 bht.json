@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:14:21",
+    "verseRef": "1 Corinthians 15:41",
+    "bestBHT": {
+        "bht": "In discussing the resurrection bodies, Paul emphasizes that the analogy of different sources of light is not meant to imply a hierarchy of glorification, but rather highlights the uniqueness and diversity of these bodies. Just as celestial bodies differ in glory, so too will the bodies of the saints in the resurrection differ from one another. This comparison underscores the individuality and beauty of the glorified bodies, while affirming the transformation of our current bodies into something magnificent and incorruptible.",
+        "wordCount": 80,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.4984162709069766,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.41,
+        "commentatorTierSimilarities": [
+            24.94,
+            34.14,
+            40.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is no allusion whatever here, as some have imagined, to different degrees of glorification of the bodies of the blessed; the introduction of such an idea confuses the whole analogical reasoning.\" (Commentary)",
+            "Even various fountains of light, so similar in its aspect and properties, differ; the sun from the moon and the stars: the stars (and much more vividly would this be felt under the pure sky of the East than here) from one another.\" (Commentary)",
+            "Why not then a body here from a resurrection-body, both bodies, but different?\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the various fountains of light, which is so similar in its aspect and properties, differ (the sun from the moon, and the moon from the stars; and even one star from another star, though all seem so much alike).",
+            "There is nothing unreasonable in the doctrine that our present bodies differ from our resurrection bodies, though still continuing bodies.",
+            "Compare the same simile, appropriate especially in the clear Eastern skies (Daniel 12:3; Matthew 13:43). Also that of seed in the same parable (Matthew 13:24; Galatians 6:7; Galatians 6:8)."
+        ],
+        "Albert Barnes": [
+            "They not only differed from those on earth, but they differed from each other.",
+            "The idea here is, therefore, not only that the bodies of the saints in heaven shall differ from those on earth, but that they shall differ among themselves, in a sense somewhat like the difference of the splendor of the sun, the moon, and the different stars.",
+            "Since we see so great differences in fact in the works of God, why should we doubt that he is able to make the human body different from what it is now, and to endow it with immortal and eternal perfection?"
+        ],
+        "Marvin Vincent": [
+            "Glory [\u03b4\u03bf\u03be\u03b1] . Lustre; beauty of form and color.",
+            "These seven colors were those employed by the Orientals to denote the seven great heavenly bodies.",
+            "There is no allusion to the different degrees of glory among the risen saints."
+        ],
+        "John Calvin": [
+            "Not only is there a difference between heavenly bodies and earthly, but even the heavenly bodies have not all the same glory.",
+            "He removes, then, every idea of absurdity, by instituting this comparison: The substance of the sun and moon is the same, but there is a great difference between them in point of dignity and excellence.",
+            "I do not teach that anything will take place at the resurrection but what is already presented before the eyes of all."
+        ],
+        "Philip Schaff": [
+            "There is simply the amazing variety observable in the spangled vault above us, suggesting the reasonableness of expecting that the resurrection body will differ greatly from the mortal body, consistently with its essential identity.\" ",
+            "So also is the resurrection of the dead. It is sown. Observe the word 'sown' here, not 'buried,' for the similitude of seed cast into the earth is purposely continued, in corruption going quickly to decay, it is raised in incorruption undecaying."
+        ],
+        "Archibald T. Robertson": [
+            "A beautiful illustration of Paul's point.",
+            "Stars differ in magnitude and brilliancy.",
+            "It is one of the great words of the N.T."
+        ],
+        "John Gill": [
+            "There is one glory of the sun... and another glory of the moon... and another glory of the stars... for one star differeth from another star in glory.",
+            "The only design of which, as the above, is to show, that as not only celestial and terrestrial bodies differ from each other, but even heavenly ones, so at the resurrection, the bodies of the saints then will differ in glory from their present ones.",
+            "Admitting there was any truth in this, it is not the truth of this text; the only design of which... is to show, that as not only celestial and terrestrial bodies differ from each other, but even heavenly ones, so at the resurrection, the bodies of the saints then will differ in glory from their present ones."
+        ],
+        "John Wesley": [
+            "Yea, and the heavenly bodies themselves differ from each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 15:41, the apostle Paul uses the analogy of different sources of light to explain the concept of varying degrees of glory for the resurrection bodies. He clarifies that this does not imply a hierarchy or hierarchy of glorification, but rather emphasizes the uniqueness and diversity of these bodies. Just as the sun, moon, and stars possess their own distinct qualities and brilliance, so too will the resurrected bodies of the saints differ from one another. This comparison highlights the beauty and individuality that will be seen in our glorified bodies, while also reinforcing the idea that our current bodies will be transformed into something far more glorious and incorruptible.",
+            "wordCount": 110,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.281818155609599,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.21,
+            "commentatorTierSimilarities": [
+                25.97,
+                34.47,
+                39.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In discussing the resurrection bodies, Paul emphasizes that the analogy of different sources of light is not meant to imply a hierarchy of glorification, but rather highlights the uniqueness and diversity of these bodies. Just as celestial bodies differ in glory, so too will the bodies of the saints in the resurrection differ from one another. This comparison underscores the individuality and beauty of the glorified bodies, while affirming the transformation of our current bodies into something magnificent and incorruptible.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.4984162709069766,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.41,
+            "commentatorTierSimilarities": [
+                24.94,
+                34.14,
+                40.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's analogy of different sources of light in 1 Corinthians 15:41 does not suggest varying degrees of glorification for the resurrection bodies of the saints. Rather, it emphasizes the uniqueness and diversity of these bodies, much like the sun, moon, and stars differ in their aspect and properties. The comparison serves to illustrate the individuality and beauty that will be seen in our glorified bodies, while assuring us that our current bodies will be transformed into something magnificent and incorruptible.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.313490523014858,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.26,
+            "commentatorTierSimilarities": [
+                27.44,
+                33.9,
+                38.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The analogy in the verse does not imply differing levels of glorification. The comparison of various sources of light, sun, moon, and stars, highlights the uniqueness and diversity present in the resurrection bodies of believers. Just as these celestial bodies differ from one another, the bodies of the resurrected saints will also vary in glory. This analogy underscores the individuality and beauty that will be seen in our transformed bodies, assuring us of the magnificence and incorruptibility that awaits us.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.2026457687699064,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.58,
+            "commentatorTierSimilarities": [
+                26.26,
+                33.37,
+                40.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The analogy used by Paul in Corinthians rejects the idea of different levels of glorification for the resurrection bodies of believers. Instead, it emphasizes the uniqueness and diversity that will be seen in these bodies. Much like the sun, moon, and stars differ from one another in their aspect and properties, so too will the bodies of the resurrected saints vary in glory. This comparison highlights the individuality and beauty that will be present in our transformed bodies, assuring us of their ultimate magnificence and incorruptibility.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.1609376657434645,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.19,
+            "commentatorTierSimilarities": [
+                25.68,
+                34.43,
+                39.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

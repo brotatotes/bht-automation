@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:39:05",
+    "verseRef": "1 Peter 2:14",
+    "bestBHT": {
+        "bht": "Even the most corrupt governments maintain some semblance of equity, as any form of government is preferable to anarchy. As Christians, we must recognize the importance of upholding the authority of rulers. Whether they are appointed by the king or ordained by God, these magistrates are entrusted with the task of avenging evil and commending those who do good. Thus, we are called to submit to their rule, understanding that their purpose is to repress wrongdoing and protect and praise righteousness within society.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 1.7878766206552381,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.79,
+        "commentatorTierSimilarities": [
+            27.27,
+            32.64,
+            40.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "No tyranny ever has been so unprincipled as that some appearance of equity was not maintained in it; however corrupt a government be, God never suffers it to be so much so as not to be better than anarchy.",
+            "Tyranny harasses many, but anarchy overwhelms the whole state.",
+            "Every government recognizes the excellence of truly Christian subjects."
+        ],
+        "Albert Barnes": [
+            "One of the leading ends of government.",
+            "It is a part of their business to reward in a suitable manner those who are upright and virtuous as citizens.",
+            "It is as important a part of the functions of magistracy to protect the innocent, as it is to punish the wicked."
+        ],
+        "Marvin Vincent": [
+            "By him. The king; not the Lord.",
+            "Better, vengeance, as Rev. Compare Luke 18:7; Romans 12:19.",
+            "Them that do well [\u03b1\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u03c9\u03bd] . Only here in New Testament."
+        ],
+        "John Calvin": [
+            "There is then a common reason, which extols the authority of all magistrates, that they rule by the command of God, and are sent by him.\" ",
+            "Since God keeps the world in order by the ministry of magistrates, all they who despise their authority are enemies to mankind.\" ",
+            "There has never been a tyranny, (nor can one be imagined,) however cruel and unbridled, in which some portion of equity has not appeared; and further, some kind of government, however deformed and corrupt it may be, is still better and more beneficial than anarchy."
+        ],
+        "Philip Schaff": [
+            "These governors should have our submission, because they are the king\u2019s delegates.",
+            "The object, with a view to which they are sent with their delegated powers, is itself a reason for yielding them respect and subjection.",
+            "The idea of their office is the repression of the evil, and the protection and praise of the good."
+        ],
+        "Archibald T. Robertson": [
+            "Even Pilate received his authority ultimately 'from above' (John 18:11).\" ",
+            "For vengeance on evil-doers (\u03b5\u03b9\u03c2 \u03b5\u03ba\u03b4\u03b9\u03ba\u03b7\u03c3\u03b9\u03bd \u03ba\u03b1\u03ba\u03bf\u03c0\u03bf\u03b9\u03c9\u03bd).\" ",
+            "For praise to them that do well (\u03b5\u03c0\u03b1\u03b9\u03bd\u03bf\u03bd \u03b1\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u03c9\u03bd)."
+        ],
+        "John Gill": [
+            "Or unto governors... as unto them that are sent by him either by the king, the Roman emperor, by whom they were sent, from whom they received their commission, and derived their authority, under whom they acted, and to whom they were accountable; or by God, by whom they are ordained, and whose ministers they are..."
+        ],
+        "John Wesley": [
+            "Or to subordinate governors, or magistrates."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, in His wisdom, allows even corrupt governments to maintain a semblance of equity, for any form of government is better than anarchy. As Christians, we are called to recognize the authority of our rulers, understanding that they have been appointed by God to execute justice and protect those who do good. Just as Pilate's authority came from above, so too does the authority of all magistrates. It is their duty to administer both punishment to evildoers and praise to those who walk in righteousness. We should therefore submit to their rule, for in doing so, we demonstrate our obedience to God and contribute to the order and welfare of society.",
+            "wordCount": 112,
+            "quoteTokenProportion": 46.84,
+            "qualityScore": 1.8061041271593088,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.39,
+            "commentatorTierSimilarities": [
+                28.22,
+                30.84,
+                40.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No tyranny is so corrupt that it lacks some appearance of equity; any government is better than anarchy. As Christians, we acknowledge the worth of genuinely virtuous citizens. All rulers, whether appointed by the king or ordained by God, hold their authority from above. It is their duty to take vengeance on evildoers and give praise to those who do well. We must, therefore, submit to their rule, recognizing that their role is to suppress evil and protect and commend the good in society.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.77006664998023,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                32.37,
+                32.1,
+                35.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even the most corrupt governments maintain some semblance of equity, as any form of government is preferable to anarchy. As Christians, we must recognize the importance of upholding the authority of rulers. Whether they are appointed by the king or ordained by God, these magistrates are entrusted with the task of avenging evil and commending those who do good. Thus, we are called to submit to their rule, understanding that their purpose is to repress wrongdoing and protect and praise righteousness within society.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.7878766206552381,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.79,
+            "commentatorTierSimilarities": [
+                27.27,
+                32.64,
+                40.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In any government, even amidst corruption, a facade of equity is maintained, for even the most flawed system is superior to anarchy. As Christians, we should acknowledge the worth of virtuous citizens and the authority given to rulers by God or the king. It is their responsibility to seek vengeance on wrongdoers and offer praise to those who do good. Therefore, we ought to submit to their rule, recognizing that their purpose is to suppress evil and protect and honor goodness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.7819965913871365,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                30.16,
+                36.17,
+                33.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Every government, no matter how corrupt, upholds some measure of equity, as it is better to have any form of government than to experience anarchy. As Christians, we must recognize and appreciate the value of genuinely righteous citizens. Whether rulers are appointed by the king or ordained by God, they ultimately hold their authority from above. It is their duty to execute vengeance on evildoers and offer praise to those who walk in goodness. Therefore, we should submit to their authority, understanding that their purpose is to suppress wickedness, protect the innocent, and commend righteousness within society.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.7436461101891574,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+            "commentatorTierSimilarities": [
+                29.6,
+                34.68,
+                35.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

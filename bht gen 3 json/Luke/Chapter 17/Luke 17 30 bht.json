@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:20:55",
+    "verseRef": "Luke 17:30",
+    "bestBHT": {
+        "bht": "The prophetic revelation of the coming of the Son of Man can be found in the indicated verse. It draws a parallel to the days of Noah and Lot, when people lived in a state of complacency and carnality, oblivious to the imminent danger. These times are described as moments of idleness and laxity, preceding the unexpected arrival of the day of judgment, much like a thief in the night.",
+        "wordCount": 70,
+        "quoteTokenProportion": 29.17,
+        "qualityScore": 1.438438304066336,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.17,
+        "commentatorTierSimilarities": [
+            38.56,
+            0.0,
+            61.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Is revealed (\u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03c5\u03c0\u03c4\u03b5\u03c4\u03b1). Prophetic and futuristic present passive indicative. "
+        ],
+        "John Gill": [
+            "As in the days of Noah and Lot, men lived in great carnality and security, thoughtless and fearless of danger.",
+            "Such will be the times of indolence and supineness, before the coming of the day of the Lord to judgment.",
+            "That day will come, as a thief in the night."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 17:30, it is said that the coming of the Son of Man will be revealed. This reveals a prophetic and futuristic indication, emphasizing the importance and significance of this event. Just as in the days of Noah and Lot, people were living in a state of great carnality and security, unaware and unprepared for the impending danger. Similarly, these are the times of indolence and supineness before the coming of the judgment day of the Lord, which will arrive unexpectedly, like a thief in the night.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5352902086649793,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.39,
+            "commentatorTierSimilarities": [
+                41.6,
+                0.0,
+                58.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The coming of the Son of Man is prophetic and futuristic, as it is revealed in Luke 17:30. Much like the days of Noah and Lot, people lived without a sense of caution or fear, indulging in a life of indulgence and security. This reflects the times of indolence and complacency before the judgment day of the Lord, coming unexpectedly like a thief in the night.",
+            "wordCount": 65,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 1.619286214021446,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+            "commentatorTierSimilarities": [
+                39.33,
+                0.0,
+                60.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophetic and futuristic revelation in Luke 17:30 unveils the coming of the Son of Man. Similar to the days of Noah and Lot, individuals led lives of carnality and complacency, oblivious to the impending danger. These are times marked by idleness and apathy before the day of the Lord's judgment arrives unexpectedly, like a thief in the night.",
+            "wordCount": 59,
+            "quoteTokenProportion": 23.26,
+            "qualityScore": 1.5060016598456303,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.42,
+            "commentatorTierSimilarities": [
+                40.09,
+                0.0,
+                59.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The coming of the Son of Man is prophetically unveiled in the passage. It parallels the days of Noah and Lot, where people lived in a state of indulgence and security, ignorant of the impending danger. These times are characterized by apathy and indolence, preceding the sudden arrival of the judgment day of the Lord, comparable to a thief appearing unexpectedly.",
+            "wordCount": 61,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.1641875220861215,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.05,
+            "commentatorTierSimilarities": [
+                31.31,
+                0.0,
+                68.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophetic revelation of the coming of the Son of Man can be found in the indicated verse. It draws a parallel to the days of Noah and Lot, when people lived in a state of complacency and carnality, oblivious to the imminent danger. These times are described as moments of idleness and laxity, preceding the unexpected arrival of the day of judgment, much like a thief in the night.",
+            "wordCount": 70,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.438438304066336,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.17,
+            "commentatorTierSimilarities": [
+                38.56,
+                0.0,
+                61.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

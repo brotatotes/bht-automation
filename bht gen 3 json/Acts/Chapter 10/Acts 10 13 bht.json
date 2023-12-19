@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:29:06",
+    "verseRef": "Acts 10:13",
+    "bestBHT": {
+        "bht": "On the housetop, Peter heard a voice from heaven calling him by name, as God had done with Moses, Samuel, Cornelius, and St. Paul. The voice commanded Peter to kill and eat, using the same words found in Acts 11:7. This divine revelation indicated that both the sheet of unclean creatures and the voice were from God. By removing the distinction between clean and unclean creatures, God abolished the law, allowing Peter to preach the Gospel to all people without discrimination.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.1446635276189991,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.4,
+        "commentatorTierSimilarities": [
+            1.58,
+            53.18,
+            45.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "9-16. upon the housetop\u2014the",
+            "\tflat roof, the chosen place in the East for cool retirement. ",
+            "\t",
+            "the sixth hour\u2014noon."
+        ],
+        "John Calvin": [
+            "The voice came from heaven as did the sheet, that Peter might know that both came from God.",
+            "Neither had the sight done him any good, unless God had with this voice made clean those things which were before unclean.",
+            "God doth take away by this voice the law concerning the choice of beasts, that he may also teach that he rejecteth no people."
+        ],
+        "Philip Schaff": [
+            "Rise, Peter. He may have been reposing, or he may have been on his knees in prayer. The voice addresses him by name, as in the cases of Moses (Exodus 3:4), Samuel (1 Samuel 3:10), Cornelius (Acts 10:3), and St. Paul (Acts 9:4).",
+            "Kill and eat. In Acts 11:7, in the Authorised Version, we have \u2018slay and eat,\u2019 but in the Greek original the words are the same."
+        ],
+        "John Gill": [
+            "He is bid to kill and eat of all the creatures without distinction, which were represented to him in the sheet; and the design of this was to teach him, that both the distinction between clean and unclean creatures in the law was now abolished.",
+            "Men might lawfully eat of whatsoever they pleased.",
+            "That he might and should without any difference converse with all sorts of men, Jews and Gentiles, circumcised and uncircumcised, and preach the Gospel to one as to another, and maintain a church communion and fellowship with all equally alike."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter was upon the housetop, a chosen place for cool retirement in the East, at noon. Suddenly, a voice addressed him by name, just as it had done with Moses, Samuel, Cornelius, and St. Paul. The voice commanded Peter to kill and eat, using the same words as in Acts 11:7. This revelation from heaven was a sign that both the sheet of unclean creatures and the voice were from God. By instructing Peter to disregard the distinction between clean and unclean creatures, God was abolishing the law. This meant that Peter could now converse and preach the Gospel to all people, both Jews and Gentiles, without discrimination.",
+            "wordCount": 107,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.095987730349685,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.79,
+            "commentatorTierSimilarities": [
+                7.72,
+                48.5,
+                43.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon the housetop, Peter was addressed by a voice from heaven, as Moses, Samuel, Cornelius, and St. Paul had been. The voice commanded Peter to kill and eat, the same words found in Acts 11:7. This divine revelation affirmed that both the sheet of unclean creatures and the voice were from God. By disregarding the distinction between clean and unclean creatures, God was abolishing the law, allowing Peter to preach the Gospel to all people without discrimination.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.1334616990320465,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.03,
+            "commentatorTierSimilarities": [
+                1.51,
+                53.63,
+                44.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the housetop, Peter heard a voice from heaven calling him by name, as God had done with Moses, Samuel, Cornelius, and St. Paul. The voice commanded Peter to kill and eat, using the same words found in Acts 11:7. This divine revelation indicated that both the sheet of unclean creatures and the voice were from God. By removing the distinction between clean and unclean creatures, God abolished the law, allowing Peter to preach the Gospel to all people without discrimination.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.1446635276189991,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.4,
+            "commentatorTierSimilarities": [
+                1.58,
+                53.18,
+                45.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While on the housetop, Peter heard a voice from heaven. This voice addressed him by name, following the pattern seen with Moses, Samuel, Cornelius, and St. Paul. It commanded Peter to kill and eat, using the same words as Acts 11:7. This heavenly revelation confirmed that both the sheet of unclean animals and the voice originated from God. By disregarding the distinction between clean and unclean creatures, God abolished the law, enabling Peter to preach the Gospel to all people without discrimination.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.0917066750424556,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.64,
+            "commentatorTierSimilarities": [
+                2.84,
+                52.63,
+                44.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the housetop, a voice from heaven called Peter by name, as God did with Moses, Samuel, Cornelius, and St. Paul. The voice commanded Peter to kill and eat, using the same words as Acts 11:7. This divine revelation confirmed that both the sheet of unclean creatures and the voice were from God. God abolished the law's distinction between clean and unclean creatures, allowing Peter to preach the Gospel to all people without discrimination.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.1346280479397723,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.07,
+            "commentatorTierSimilarities": [
+                1.67,
+                52.56,
+                45.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

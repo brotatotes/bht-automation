@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:32:16",
+    "verseRef": "Ephesians 4:7",
+    "bestBHT": {
+        "bht": "In the body of Christ, each believer is bestowed a unique gift from Christ to be used for the benefit of the entire Church. This grace is not self-generated but given by Christ in varying measures. The unity of the Church is not compromised by the diversity of gifts and offices but rather reflects the one grace of God manifesting itself in different ways. Believers are called to depend on one another and contribute their individual gifts for the collective support and growth of the body of Christ.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.636033195779147,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.99,
+        "commentatorTierSimilarities": [
+            35.44,
+            34.12,
+            30.45
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "None is overlooked:\u2014each has his part in the distribution of the gifts of the One Spirit, which part he is bound to use for the wellbeing of the whole.",
+            "To each one of us was given [the] grace... according to the measure of the gift of Christ.",
+            "Christ's gift; the gift bestowed by Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Each one of us has assigned to him his own particular gift, to be used for the good of the whole: none is overlooked none therefore can be dispensed with for the edifying of the Church.",
+            "Unto each one of us was the grace given according to the measure of the gift of Christ.",
+            "The amount 'of the gift of Christ'."
+        ],
+        "Albert Barnes": [
+            "Grace is bestowed upon all true Christians, and all have enough to enable them to live a life of holiness.",
+            "It is a 'gift.' It is 'bestowed' on us. It is not what is originated by ourselves.",
+            "That measure is the gift of Christ, or what is given in Christ. It comes through him. It is what he has purchased; what he has obtained by his merits."
+        ],
+        "Marvin Vincent": [
+            "In the general unity the individual is not overlooked, and unity is consistent with variety of gifts and offices.",
+            "Unity is consistent with variety of gifts and offices.",
+            "The one grace of God, manifesting itself in the different gifts."
+        ],
+        "John Calvin": [
+            "No member of the body of Christ is endowed with such perfection as to be able, without the assistance of others, to supply his own necessities.",
+            "A certain proportion is allotted to each; and it is only by communicating with each other, that all enjoy what is sufficient for maintaining their respective places in the body.",
+            "Being thus dependent on each other, they find it necessary to throw their individual gifts into the common stock, and thus to render mutual aid."
+        ],
+        "Philip Schaff": [
+            "The grace' refers, not to the spiritual gift itself, but rather to the one grace, bestowed by Christ, and manifesting itself in various ways, so that each one has his peculiar gift.",
+            "This grace is bestowed according to the measure of the gift of Christ, i.e., 'in proportion to the amount of the gift which Christ gives.'",
+            "The gift does not obliterate natural, corporate, local, temporal, individual, differences, but purifies and ennobles them. Temperament and natural mental powers, talents and inclinations, are only refined, directed, moved, and used for the Lord\u2019s kingdom and our own salvation."
+        ],
+        "Archibald T. Robertson": [
+            "According to the measure of the gifts of Christ.\" ",
+            "Each gets the gift that Christ has to bestow for his special case.\" ",
+            "See 1 Corinthians 12:4; Romans 12:4-6."
+        ],
+        "John Gill": [
+            "Which may refer to the saints in common, and may be interpreted of justifying, pardoning, adopting, sanctifying, and persevering grace, bestowed upon them all, freely and liberally, not grudgingly, nor niggardly, and without motive and condition in them...",
+            "...every member of Christ, and minister of his, receive more or less grace and gifts from him; and that what they receive is all of free grace, and in measure...",
+            "...though they may have gifts differing one from another, yet all are useful; so that there is no room for pride, envy, and contempt, which would break in upon the unity of the Spirit..."
+        ],
+        "John Wesley": [
+            "According to the measure of the gift of Christ \u2014 According as Christ is pleased to give to each."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Ephesians 4:7, each believer is given a specific gift from Christ for the edification and wellbeing of the entire body of believers. This means that no one is overlooked or dispensable in the grand scheme of the Church. While unity is emphasized, variety in gifts and offices is also important, as it reflects the individuality of each believer. This grace, bestowed upon all true Christians, allows them to live a life of holiness and is not originated from themselves. It is Christ who bestows this grace, and each believer receives it in proportion to the amount of the gift which Christ gives. Therefore, it is necessary for believers to depend on one another, sharing their individual gifts for the mutual aid and support of the body of Christ.",
+            "wordCount": 128,
+            "quoteTokenProportion": 40.79,
+            "qualityScore": 2.421037931873143,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.84,
+            "commentatorTierSimilarities": [
+                33.12,
+                35.3,
+                31.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the distribution of the gifts of the One Spirit, each believer has a crucial part to play in the edification of the Church. None is overlooked or dispensable, as unity is compatible with diverse gifts and offices. This grace, bestowed by Christ, enables believers to live a holy life, and it is not self-originated. Each believer receives the grace in proportion to the gift given by Christ, emphasizing the importance of depending on one another and sharing individual gifts for mutual support in the body of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.5593388031989983,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.44,
+            "commentatorTierSimilarities": [
+                36.07,
+                33.53,
+                30.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the body of Christ, each believer is bestowed a unique gift from Christ to be used for the benefit of the entire Church. This grace is not self-generated but given by Christ in varying measures. The unity of the Church is not compromised by the diversity of gifts and offices but rather reflects the one grace of God manifesting itself in different ways. Believers are called to depend on one another and contribute their individual gifts for the collective support and growth of the body of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.636033195779147,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.99,
+            "commentatorTierSimilarities": [
+                35.44,
+                34.12,
+                30.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the body of Christ, each believer is bestowed a unique gift from Christ to be used for the benefit of the entire Church. This grace is not self-generated but given by Christ in varying measures. The unity of the Church is not compromised by the diversity of gifts and offices but rather reflects the one grace of God manifesting itself in different ways. Believers are called to depend on one another and contribute their individual gifts for the collective support and growth of the body of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.636033195779147,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.99,
+            "commentatorTierSimilarities": [
+                35.44,
+                34.12,
+                30.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the body of Christ, each believer is given a particular gift from Christ for the good of the entire Church; no one is overlooked or dispensable. The unity of the Church is harmoniously maintained alongside the diversity of gifts and positions. This grace, bestowed by Christ, enables believers to live a holy life and is not self-originated. Each believer receives this grace in proportion to the gift given by Christ. Consequently, believers must depend on one another and share their individual gifts for the mutual aid and support of the body of Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.6319650660038123,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.85,
+            "commentatorTierSimilarities": [
+                35.03,
+                33.44,
+                31.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

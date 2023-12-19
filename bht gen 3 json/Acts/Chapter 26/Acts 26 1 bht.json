@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:36:27",
+    "verseRef": "Acts 26:1",
+    "bestBHT": {
+        "bht": "As Agrippa presided, Paul, with his hand still chained, stretched it out in the formal attitude of an orator. Despite Festus being the one in control, Agrippa, as a king, took charge and permitted Paul to speak in his own defense. Paul took the opportunity to proclaim the name of Christ before kings and presented himself as the apostle and messenger of God. His speech aimed to address the accusations by recounting the history that led him to deliver his solemn message.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.7635048576808807,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+        "commentatorTierSimilarities": [
+            31.41,
+            32.8,
+            35.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The stretching out of the hand by a speaker was a formal attitude usual with orators.",
+            "Apuleius describes it very precisely. The hand was stretched out with the two lower fingers shut, and the rest straightened.",
+            "St. Paul's hand was chained."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1-3. Agrippa said\u2014Being a king",
+            "\the appears to have presided. ",
+            "\t",
+            "Paul stretched forth the",
+            "\thand\u2014chained to a soldier ( :-, and see on Acts 26:1)."
+        ],
+        "Albert Barnes": [
+            "Then Paul stretched forth the hand - This was the usual posture of orators or public speakers.\" ",
+            "The long and loose robe, or outer garment, was fastened usually with a hook or clasp on the right shoulder, and thus left the arm at full liberty.\" ",
+            "His design in speaking before Agrippa was, doubtless..."
+        ],
+        "Philip Schaff": [
+            "The prisoner Paul, it must not be forgotten, on this occasion was not pleading before his judges: the appeal to C\u00e6sar, which had been allowed, had removed him from all provincial jurisdiction.",
+            "He answered\u2019 with arguments not dissimilar at first sight to those used by him when he was arrested in the temple...but now he relates the history not with the view of asserting his own innocence of any of the charges alleged against him, but to show the grounds upon which he delivered his solemn message.",
+            "He now passes by these accusations, and...he takes the highest ground, and holds himself up as the apostle and messenger of God."
+        ],
+        "Archibald T. Robertson": [
+            "As if Agrippa were master of ceremonies instead of Festus.",
+            "Paul is allowed to speak in his own behalf.",
+            "He is now bearing the name of Christ 'before kings'."
+        ],
+        "John Gill": [
+            "thou art permitted to speak for thyself;...until he had leave",
+            "Paul stretched forth the hand as orators used to do...to show the freedom of his mind",
+            "answered for himself;...in order to remove the charges brought against him"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Agrippa presided, Paul, with his hand still chained, stretched it out in the formal attitude of an orator. Even though Festus is the one who should be in control, Agrippa, being a king, takes charge and allows Paul to speak in his own defense. Paul seizes this opportunity to bear the name of Christ before kings. His intention is not to assert his innocence but to provide the grounds for his message. He elevates himself as the apostle and messenger of God, answering the accusations by sharing the history that led him to deliver this solemn message.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.6362270115149533,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.75,
+            "commentatorTierSimilarities": [
+                31.33,
+                33.43,
+                35.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Agrippa presided, Paul, with his hand still chained, stretched it out in the formal attitude of an orator. Even though Festus is the one who should be in control, Agrippa, being a king, takes charge and allows Paul to speak in his own defense. Paul seizes this opportunity to bear the name of Christ before kings. He elevates himself as the apostle and messenger of God, answering the accusations by sharing the history that led him to deliver this solemn message.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.7466575420484682,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.42,
+            "commentatorTierSimilarities": [
+                34.73,
+                31.31,
+                33.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 26:1, as Agrippa presided, Paul, his hand still chained, stretched it out in the formal attitude of an orator. This gesture signified the freedom of his mind despite his physical restraints. Though Festus should have been in control, Agrippa took charge and allowed Paul to speak in his own defense. Paul seized the opportunity to bear the name of Christ before kings, presenting himself as the apostle and messenger of God, answering the accusations by sharing the history that led him to deliver his solemn message.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.7076842616638623,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.12,
+            "commentatorTierSimilarities": [
+                30.82,
+                31.24,
+                37.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Agrippa took charge and Paul, still with a chained hand, stretched it out in the formal posture of an orator, he asserted his freedom of mind despite his physical constraints. Though Festus should have been in control, Agrippa allowed Paul to speak in his own defense. Paul seized the opportunity to declare the name of Christ before kings, assuming the role of the apostle and messenger of God. In his speech, he presented the history that led him to deliver his solemn message, addressing the accusations against him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6509889110219051,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.24,
+            "commentatorTierSimilarities": [
+                28.21,
+                35.0,
+                36.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Agrippa presided, Paul, with his hand still chained, stretched it out in the formal attitude of an orator. Despite Festus being the one in control, Agrippa, as a king, took charge and permitted Paul to speak in his own defense. Paul took the opportunity to proclaim the name of Christ before kings and presented himself as the apostle and messenger of God. His speech aimed to address the accusations by recounting the history that led him to deliver his solemn message.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7635048576808807,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+            "commentatorTierSimilarities": [
+                31.41,
+                32.8,
+                35.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

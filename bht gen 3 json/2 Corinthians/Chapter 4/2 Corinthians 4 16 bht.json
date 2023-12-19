@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:16:03",
+    "verseRef": "2 Corinthians 4:16",
+    "bestBHT": {
+        "bht": "Though our outward man is decaying, our inner man is being renewed day by day. Our spiritual life, which testifies the life of Jesus in our mortal bodies, is continually nourished with fresh grace. The present burden of affliction we carry works out an eternal weight of glory. Our physical bodies may be wearing away, but our true being, the life that manifests Jesus, is being renewed with fresh grace, faith, and hope day by day. Though our outward selves may perish, the growth in grace of our inner selves persists.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 2.1517778561274827,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.89,
+        "commentatorTierSimilarities": [
+            41.89,
+            31.36,
+            26.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "though even our outward man is being wasted away, yet our inner (man) is being renewed day by day",
+            "our spiritual life, the life which testifies the life of Jesus, even in our mortal bodies, is continually fed with fresh accessions of grace",
+            "the present light (burden) of our affliction worketh out for us an eternal weight of glory"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the flesh... is wearing away",
+            "our spiritual and true being, the 'life' which even in our mortal bodies 'manifests the life of Jesus'",
+            "is being renewed... with fresh 'grace,' 'faith,' and hope"
+        ],
+        "Albert Barnes": [
+            "The purpose of trying to save as many as possible would make toil easy, privations welcome, and would be so accompanied by the grace of God, as to gird the soul with strength, and fill it with abundant consolations.",
+            "We are sustained, encouraged, emboldened by having such an object in view.",
+            "In an effort to do good, and to promote the salvation of man, the soul will be sustained in trials, and will be comforted and invigorated even when the body is weary, grows old, decays, and dies."
+        ],
+        "Marvin Vincent": [
+            "Perish implies destruction: the idea is that of progressive decay.\" ",
+            "Is renewed: the process of renewal going on along with the process of decay.",
+            "Day by day: A Hebrew form of expression."
+        ],
+        "John Calvin": [
+            "There is no cause why we should lose heart, or sink down under the burden of the cross.",
+            "The Lord, on that account, by taking away from us, by little and little, the things that we are engrossed with, calls us back to meditate on a better life.",
+            "In the sons of God, on the other hand, a decay of this nature is the beginning, and, as it were, the cause of production."
+        ],
+        "Philip Schaff": [
+            "Wherefore on all the foregoing grounds we faint not...",
+            "...though our outward man is decaying, yet the inward man is renewed day by day...",
+            "...under a growing experience of 'the power' of His resurrection."
+        ],
+        "Archibald T. Robertson": [
+            "Here the decay of the bodily organism is set over against the growth in grace of the man himself.",
+            "Our outward man, our inward man.",
+            "Day by day."
+        ],
+        "John Gill": [
+            "We do not give out from the work of the ministry because of them, but go on cheerfully therein.",
+            "Our bodies are almost worn out with fatigue, labour, and sorrow; our earthly tabernacles are tottering, and just ready to fall in pieces.",
+            "The internal hidden man of the heart, the new man is in a prosperous condition; our souls are in good health; the work of God is comfortably carried on in us."
+        ],
+        "John Wesley": [
+            "Therefore \u2014 Because of this grace, we faint not.",
+            "The outward man \u2014 The body.",
+            "The inward man \u2014 The soul."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though our outward man is decaying, our inner man is being renewed day by day. Even as our bodies grow weak and suffer affliction, our spiritual life continues to receive fresh grace and experience growth in faith, hope, and the manifestation of the life of Jesus. This process of decay and renewal is a daily one, as our physical bodies waste away but our true being flourishes. We do not lose heart or falter in our work, for the purpose of saving souls sustains us and equips us with strength and consolation. Thus, we press on, confident in the power of Christ's resurrection working within us.",
+            "wordCount": 107,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 2.0086383753338453,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+            "commentatorTierSimilarities": [
+                35.01,
+                34.79,
+                30.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though our outward man is decaying, our inner man is being renewed day by day. Our spiritual life, which testifies the life of Jesus in our mortal bodies, is continuously fed with fresh grace, faith, and hope. Even as our earthly tabernacles tire and crumble, the work of God in us prospers. The purpose of saving souls sustains us, emboldens us, and fills us with abundant consolations. Therefore, we do not lose heart or grow weary, for the power of Christ's resurrection works within us.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.016843048949995,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                33.15,
+                35.35,
+                31.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though our outward man is decaying, our inner man is being renewed day by day. Our spiritual life, which testifies the life of Jesus, is continually fed with fresh accessions of grace. The present burden of affliction we carry works for our eternal glory. Our bodies may be wearing away, but our true being, the life that manifests Jesus, is being renewed with fresh grace, faith, and hope day by day. Though our physical selves may perish, the growth in grace of our inner selves persists.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1512142422394223,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.87,
+            "commentatorTierSimilarities": [
+                42.09,
+                31.12,
+                26.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though our outward man is being wasted away, our inner man is being renewed day by day. Our spiritual life, which testifies the life of Jesus in our mortal bodies, is continually nourished with fresh grace. The present burden of affliction we bear works out an eternal weight of glory for us. Our physical bodies may be decaying, but our spiritual being, the life that reflects Jesus, is constantly renewed with fresh faith, hope, and grace. This renewal process occurs daily, as our outer body deteriorates and our inner self thrives.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.1095768338220298,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+            "commentatorTierSimilarities": [
+                42.54,
+                29.38,
+                28.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though our outward man is decaying, our inner man is being renewed day by day. Our spiritual life, which testifies the life of Jesus in our mortal bodies, is continually nourished with fresh grace. The present burden of affliction we carry works out an eternal weight of glory. Our physical bodies may be wearing away, but our true being, the life that manifests Jesus, is being renewed with fresh grace, faith, and hope day by day. Though our outward selves may perish, the growth in grace of our inner selves persists.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.1517778561274827,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.89,
+            "commentatorTierSimilarities": [
+                41.89,
+                31.36,
+                26.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:00:15",
+    "verseRef": "Romans 2:21",
+    "bestBHT": {
+        "bht": "How ironic it is to see the one who preaches against stealing caught in the act of stealing. The preacher may have eloquent words, yet fails to practice what they teach. This reminds us of the condemnation of the Rabbins for the sin of adultery. It is truly shocking to have teachers who lack in knowledge themselves. Let this be a warning against boasting in our gospel knowledge while living in uncleanness. May we not be mere babblers, but instead, let us embody the truth that we proclaim.",
+        "wordCount": 88,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.5720224049547302,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+        "commentatorTierSimilarities": [
+            35.88,
+            23.96,
+            40.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17-24. Behold\u2014\"But if",
+            "\tis, beyond doubt, the true reading here. (It differs but in a single",
+            "\tletter from the received reading, and the sense is the same)."
+        ],
+        "Albert Barnes": [
+            "He who is a teacher of others may be expected to be learned himself.",
+            "They ought to be found to be possessed of superior knowledge.",
+            "We expect a man to set an example of what he means by his public instruction."
+        ],
+        "Marvin Vincent": [
+            "Thou that preachest [\u03bf \u03ba\u03b7\u03c1\u03c5\u03c3\u03c3\u03c9\u03bd] . See on Matthew 4:17. Stealing is so gross a vice that one may openly denounce it."
+        ],
+        "John Calvin": [
+            "He exposes himself to no ordinary measure of reproach, who not only renders useless the gifts of God, which are otherwise valuable and excellent, but by his wickedness vitiates and contaminates them.\" ",
+            "We must take heed, lest it should be turned against us at this day: and indeed it may be well applied to many, who, boasting of some extraordinary knowledge of the gospel, abandon themselves to every kind of uncleanness, as though the gospel were not a rule of life.\" ",
+            "Let us remember what sort of judgment impends over such prattlers, (logod\u0153dalis \u2014 word-artificers,) who make a show of God\u2019s word by mere garrulity."
+        ],
+        "Philip Schaff": [
+            "Therefore' sums up what has been previously said. 'Being such an one, to thee, I say,' etc.\" ",
+            "The questions imply surprise at such a state of things, and rebuke it.\" ",
+            "In this charge there is probably a reference 'to the passionate and treacherous method of transacting business adopted by the Jews; James 4:13.'"
+        ],
+        "Archibald T. Robertson": [
+            "The preaching (\u03ba\u03b5\u03c1\u03c5\u03c3\u03c3\u03c9\u03bd) was fine, but the practice? A home-thrust.",
+            "The Talmud charges the crime of adultery upon the three most illustrious Rabbins."
+        ],
+        "John Gill": [
+            "Though they taught others, they did not teach themselves; they were blind leaders of the blind; they were ignorant... of the more excellent things of Moses, and the prophets, they pretended to explain.\" ",
+            "And such teachers they own were among them.\" ",
+            "Thou that preach at a man should not steal, dost thou steal?"
+        ],
+        "John Wesley": [
+            "Thou dost not teach thyself \u2014 He does not teach himself who does not practise what he teaches.",
+            "Dost thou steal, commit adultery, commit sacrilege \u2014 Sin grievously against thy neighbour, thyself, God.",
+            "Thou that abhorrest idols \u2014 Which all the Jews did, from the time of the Babylonish captivity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "How ironic it is that the one who preaches against stealing is found stealing! The preacher, though eloquent in his words, fails to practice what he teaches. This calls to mind the condemnation of the Rabbins in the Talmud for the sin of adultery. It is a shocking state of affairs to have those who are supposed to be teachers of others lacking in knowledge themselves. The questions in this verse express surprise and rebuke at such hypocrisy. Let this serve as a warning to us as well, lest we boast in our knowledge of the gospel but abandon ourselves to every kind of uncleanness. May we not be mere word-artificers, making a show of God's word through empty babble, but rather let us live out the truth we proclaim.",
+            "wordCount": 132,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.603342747773878,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.65,
+            "commentatorTierSimilarities": [
+                34.46,
+                26.01,
+                39.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "How ironic it is to see the one who preaches against stealing caught in the act of stealing. The preacher may have eloquent words, yet fails to practice what they teach. This reminds us of the condemnation of the Rabbins for the sin of adultery. It is truly shocking to have teachers who lack in knowledge themselves. Let this be a warning against boasting in our gospel knowledge while living in uncleanness. May we not be mere babblers, but instead, let us embody the truth that we proclaim.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.5720224049547302,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+            "commentatorTierSimilarities": [
+                35.88,
+                23.96,
+                40.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "How unfortunate it is to witness the hypocrisy of a preacher who denounces stealing while engaging in the act themselves. This brings to mind the condemnation of the Rabbins for their involvement in adultery. It is truly surprising to find such teachers lacking in knowledge. Let this serve as a cautionary reminder against empty words and boasting in gospel knowledge while neglecting a life of purity. Instead, let us strive to live out the truth we proclaim and not be mere practitioners of empty rhetoric.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5019103879981408,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.28,
+            "commentatorTierSimilarities": [
+                34.53,
+                26.66,
+                38.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "How ironic it is to observe a preacher who openly denounces stealing yet is caught stealing themselves. We are reminded of the Talmud's charge against the illustrious Rabbins for their involvement in adultery. Such hypocrisy is indeed surprising, considering that teachers should possess superior knowledge and set an example for others. This serves as a strong rebuke against those who claim knowledge of the gospel yet live lives contrary to it. May we avoid being mere word-artificers and be diligent in practicing what we preach.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.5668801050248176,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                32.05,
+                28.87,
+                39.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "How ironic it is to find a preacher who publicly condemns stealing, yet secretly engages in the very act themselves. This calls to mind the Talmud's accusation of adultery against the renowned Rabbins. The surprising nature of this hypocrisy exposes the need for teachers to possess not just knowledge, but also live out what they teach. Let us heed this rebuke and avoid the trap of boasting in our gospel knowledge while neglecting a life of integrity. May our actions align with our words, lest we become mere prattlers and fail to honor God's truth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.5396034883883,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.53,
+            "commentatorTierSimilarities": [
+                35.29,
+                21.93,
+                42.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

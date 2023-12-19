@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:13:35",
+    "verseRef": "1 Corinthians 15:1",
+    "bestBHT": {
+        "bht": "I am constrained to declare the whole gospel which I preached to you in reproach, as if it is necessary to make it known to them afresh. Now I make known unto you the gospel which I preached unto you, which also ye received, by which also ye are saved - on what footing I placed it, namely, on the fact of Christ's resurrection. If the resurrection is taken away, they have no religion left, no assurance of faith, and in short, have no faith remaining.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.258537972536476,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.44,
+        "commentatorTierSimilarities": [
+            34.64,
+            31.16,
+            34.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I make known... the (whole) gospel; not merely the Death and Resurrection of Christ, which were primary parts of it...\" ",
+            "...the reproach still continues; as if he had said, 'I am constrained to begin again, and declare to you the whole gospel which I preached to you.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Moreover, 'Now I declare, I make known.'\" ",
+            "It implies some degree of reproach that it should be now necessary to make it known to them afresh.",
+            "Wherein ye stand. This is your present actual privilege, if ye suffer not yourselves to fall from your high standing."
+        ],
+        "Albert Barnes": [
+            "I declare unto you...the main and leading truth of the gospel.\" ",
+            "Here it does not mean that he was communicating to them any new truth, but he wished to remind them of it; to state the arguments for it, and to impress it deeply on their memories.\" ",
+            "It is well, often, to remind Christians of the truths which were preached to them when they were converted, and which were instrumental in their conversion."
+        ],
+        "Marvin Vincent": [
+            "I declare [\u03b3\u03bd\u03c9\u03c1\u03b9\u03b6\u03c9] . Reproachfully, as having to declare the Gospel anew."
+        ],
+        "John Calvin": [
+            "It is of this exclusively that he treats in this chapter.",
+            "Blindness of this kind is a just judgment from God, so that those who do not rest satisfied with the truth of God, are tossed hither and thither by the delusions of Satan.",
+            "If the resurrection is taken away, they have no religion left them, no assurance of faith, and in short, have no faith remaining."
+        ],
+        "Philip Schaff": [
+            "Now I make known unto you, brethren, the gospel which I preached unto you, which also ye received, by which also ye are saved (Gr. \u2018being saved,\u2019 see on 1 Corinthians 1:18), I make known, I say, in what words I preached it unto you that is, \u2018on what footing I placed it,\u2019 namely, on the fact of Christ\u2019s resurrection.\" ",
+            "If ye hold it fast, except ye believed in vain (2 Corinthians 6:1).",
+            "The construction of the sentence is involved, but this seems clearly the sense."
+        ],
+        "Archibald T. Robertson": [
+            "I make known (\u03b3\u03bd\u03c9\u03c1\u03b9\u03b6\u03c9). See on 1 Corinthians 12:3 for this common verb. As if in reproach.\" ",
+            "The gospel which I preached unto you (\u03c4\u03bf \u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03bf\u03bd \u03bf \u03b5\u03c5\u03b7\u03b3\u03b3\u03b5\u03bb\u03b9\u03c3\u03b1\u03bc\u03b7\u03bd \u03c5\u03bc\u03b9\u03bd). Cognate accusative, 'the gospel which I gospelized unto you.'",
+            "Note repetition of relative (\u03bf, \u03b5\u03bd \u03c9\u03b9, \u03b4 \u03bf\u03c5, and \u03c4\u03b9\u03bd like relative) without \u03ba\u03b1 (and), asyndeton."
+        ],
+        "John Gill": [
+            "The resurrection of Christ from the dead made a considerable part in the ministry of the apostles, to the grief of the Sadducees among the Jews, to the scorn of the Gentile philosophers, and to the faith, hope, and comfort of Christians.",
+            "This is the sum and substance of the word of faith, or doctrine of the Gospel, upon which the whole depends.",
+            "It would be an idle story, faith would be a vain thing, and hoping and believing Christians of all the most miserable."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am constrained to begin again, and declare to you the whole gospel which I preached to you. This implies some degree of reproach, as if it is necessary to make it known to them afresh. It is well, often, to remind Christians of the truths which were preached to them when they were converted, and which were instrumental in their conversion. Now I make known unto you, brethren, the gospel which I preached unto you, which also ye received, by which also ye are saved, I make known, I say, in what words I preached it unto you - on what footing I placed it, namely, on the fact of Christ's resurrection. If the resurrection is taken away, they have no religion left them, no assurance of faith, and in short, have no faith remaining.",
+            "wordCount": 136,
+            "quoteTokenProportion": 48.61,
+            "qualityScore": 2.0703585705023744,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                31.98,
+                35.57,
+                32.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I am constrained to declare the whole gospel which I preached to you in reproach, as if it is necessary to make it known to them afresh. Now I make known unto you the gospel which I preached unto you, which also ye received, by which also ye are saved - on what footing I placed it, namely, on the fact of Christ's resurrection. If the resurrection is taken away, they have no religion left, no assurance of faith, and in short, have no faith remaining.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.258537972536476,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.44,
+            "commentatorTierSimilarities": [
+                34.64,
+                31.16,
+                34.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I am constrained to declare the whole gospel, not merely the Death and Resurrection of Christ, which were primary parts of it. I make known afresh to you the gospel which I preached, reminding you of the truths instrumental in your conversion. Now I make known unto you the gospel which I preached unto you, by which also ye are saved - on what footing I placed it, namely, on the fact of Christ's resurrection. Without the resurrection, faith is vain and Christians are most miserable.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.2095089420697467,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.81,
+            "commentatorTierSimilarities": [
+                33.4,
+                33.9,
+                32.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I am compelled to declare the whole gospel, not just the Death and Resurrection of Christ, which were crucial parts of it. It is necessary to make these truths known afresh, as if in reproach. I remind you of the instrumental truths that led to your conversion. Now I make known unto you the gospel which I preached, emphasizing the fact of Christ's resurrection as its foundation. Without the resurrection, faith becomes empty, leaving believers without assurance and hope, and making them the most miserable of all.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.9499964896262005,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                33.78,
+                33.37,
+                32.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I am constrained to begin again and declare the whole gospel, not just the Death and Resurrection of Christ. It is necessary to make it known afresh, as if in reproach. Now I make known unto you the gospel which I preached, emphasizing the fact of Christ's resurrection as its foundation. Without the resurrection, faith becomes empty, leaving believers without assurance, faith, and hope. The resurrection of Christ is crucial to the ministry of the apostles and the faith and comfort of Christians.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.9430099068018367,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.95,
+            "commentatorTierSimilarities": [
+                34.26,
+                27.96,
+                37.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

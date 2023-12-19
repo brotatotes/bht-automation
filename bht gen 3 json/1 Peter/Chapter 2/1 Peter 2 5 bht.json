@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:26",
+    "verseRef": "1 Peter 2:5",
+    "bestBHT": {
+        "bht": "Believers, as living stones, form a spiritual house that serves as God's temple. All believers function as a holy priesthood, offering spiritual sacrifices of prayer, praise, and self-denying service in the cause of Christ. These sacrifices are accepted by God through Jesus Christ, who both consecrates believers as priests and ensures the acceptance of their offerings. The metaphor of a house built of living stones depicts the stability, growth, and activity of the ideal church, highlighting the direct access believers have to God through Jesus Christ.",
+        "wordCount": 88,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 2.215900437893345,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.02,
+        "commentatorTierSimilarities": [
+            29.18,
+            33.81,
+            37.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Being God's spiritual temple, they form a holy priesthood to Him, approaching and serving before Him in virtue of that Living and Holy One, whose mystic Body they are.",
+            "Nowhere is this more clearly declared by inference, than here.",
+            "The one, once-for-all devotion of the body, as in Rom. xii. 1, to God as His...acceptable to God through Jesus Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is 'THE SON,' 'High Priest,' 'King,' 'Lamb'; they, 'sons,' 'priests,' 'kings,' 'sheep,' 'lambs.'\" ",
+            "All believers alike, and not merely ministers, are now the dwelling of God and priests unto God.",
+            "Our sacrifices are those of prayer, praise, and self-denying services in the cause of Christ."
+        ],
+        "Albert Barnes": [
+            "The purpose of the apostle here is to compare the church to a beautiful temple - such as the temple in Jerusalem, and to show that it is complete in all its parts, as that was.",
+            "The special abode of God on the earth was now removed from that temple to the Christian church.",
+            "Our prayers and praises are in themselves so imperfect, and proceed from such polluted lips and hearts, that they can be acceptable only through him as our intercessor before the throne of God."
+        ],
+        "Marvin Vincent": [
+            "The metaphor of a house built of living stones is violent, and sufficiently characteristic of Peter; yet it pictures, in a very striking way, the union of stability, growth, and activity in the ideal church.\" ",
+            "But, as Salmond remarks, 'In Paul we have even bolder instances of apparent confusion of metaphors.'",
+            "The force of ajna, up, appears in the fact of the altar being raised. The word is often used of carrying from a lower to a higher place."
+        ],
+        "John Calvin": [
+            "We must further observe, that he constructs one house from the whole number of the faithful...all ought to be so fitted together, that they may form one universal temple.",
+            "For by how much the more excellent is the reality than the types, by so much the more all things excel in the kingdom of Christ.",
+            "Then Peter here obviates that want of faith which we may have respecting the acceptableness of our works, when he says, that they are accepted, not for the merit of their own excellency, but through Christ."
+        ],
+        "Philip Schaff": [
+            "The one thing it affirms is that all Christians as such, and without distinction, constitute a priestly fraternity corresponding to the community of priests established under the Law, and realizing the complete idea of a priesthood which the former college, with its limitation in numbers, and its sharp separation from the people, and its ritual service, imperfectly and distantly exhibited.\" ",
+            "Their service is to offer \u2018sacrifices,\u2019 and these, in conformity with the service itself, must be not material but \u2018spiritual.\u2019",
+            "To Him to whom we owe our first consecration as priests to God, we owe also the continued acceptance of all that we offer in our priestly ministry."
+        ],
+        "Archibald T. Robertson": [
+            "Peter just carried it a bit farther and Paul uses a temple for believers in one place (1 Corinthians 3:16) and for the kingdom of God in general (Ephesians 2:22), as does the author of Hebrews (Hebrews 3:6). This \"spiritual house\" includes believers in the five Roman provinces of 1 Peter 1:1 and shows clearly how Peter understood the metaphor of Christ in Matthew 16:18 to be not a local church, but the church general (the kingdom of Christ).\" ",
+            "At any rate, Peter has the same idea of Revelation 1:6 (\u03b9\u03b5\u03c1\u03b5\u03b9\u03c2, priests) that all believers are priests (Hebrews 4:16) and can approach God directly.",
+            "Only these are 'spiritual' (\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03b1\u03c2) as pictured also in Hebrews 13:15."
+        ],
+        "John Gill": [
+            "Saints likewise are compared to stones; they lie in the same quarry, and are the same by nature as the rest of mankind, till dug out and separated from thence by the powerful and efficacious grace of God.",
+            "These living stones being laid, and cemented together, in a Gospel church state, become the house of God in a spiritual sense, in distinction from the material house of the tabernacle, and temple of old.",
+            "Now such...are acceptable to God by Jesus Christ; through whom they are offered up; for it is through him the saints have access to God, present themselves to him, and their services; and both persons and services are only accepted in Christ, and for his sake, and in virtue of his sacrifice, which is always of a sweet smelling savour to God."
+        ],
+        "John Wesley": [
+            "Ye \u2014 Believers. As living stones \u2014 Alive to God through him.",
+            "Are built up \u2014 In union with each other. A spiritual house \u2014 Being spiritual yourselves, and an habitation of God through the Spirit.",
+            "An holy priesthood \u2014 Consecrated to God, and 'holy as he is holy.' To offer up - Your souls and bodies, with all your thoughts, words, and actions, as spiritual sacrifices to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers, united as living stones within the church, form a spiritual house that serves as God's temple. In this temple, all believers function as a holy priesthood, offering spiritual sacrifices of prayer, praise, and self-denying service in the cause of Christ. These sacrifices are accepted by God only through the intercessory work of Jesus Christ, who not only consecrates believers as priests but also ensures the acceptance of their offerings. The metaphor of a house built of living stones emphasizes the stability, growth, and activity of the ideal church. This concept of believers as priests is seen throughout the New Testament, highlighting the direct access believers have to God through Jesus Christ. As part of this spiritual house, believers are called to offer themselves, their thoughts, words, and actions as spiritual sacrifices to God.",
+            "wordCount": 136,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.210763017972992,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.85,
+            "commentatorTierSimilarities": [
+                29.82,
+                34.28,
+                35.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers, as living stones, form a spiritual house that serves as God's temple. All believers function as a holy priesthood, offering spiritual sacrifices of prayer, praise, and self-denying service in the cause of Christ. These sacrifices are accepted by God through Jesus Christ, who both consecrates believers as priests and ensures the acceptance of their offerings. The metaphor of a house built of living stones depicts the stability, growth, and activity of the ideal church, highlighting the direct access believers have to God through Jesus Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.215900437893345,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.02,
+            "commentatorTierSimilarities": [
+                29.18,
+                33.81,
+                37.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers, united as living stones, form a spiritual temple and a holy priesthood. They offer spiritual sacrifices that are acceptable to God through Jesus Christ. This metaphor of a house built of living stones highlights the stability, growth, and activity of the ideal church. As priests, believers offer prayers, praise, and self-denying services as sacrifices to God. Through this spiritual house, believers have direct access to God, approaching Him in the same way the high priest did in the Old Testament.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.1291875871446315,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.14,
+            "commentatorTierSimilarities": [
+                30.06,
+                33.27,
+                36.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers, like living stones, come together to form a spiritual temple and a holy priesthood before God. They offer spiritual sacrifices, such as prayer, praise, and self-denying service, which are acceptable to God through Jesus Christ. This metaphor of a house built of living stones signifies the stability, growth, and activity of the ideal church. All believers, not just ministers, now serve as God's dwelling and priests unto Him. Through Jesus Christ, believers have direct access to God and can approach Him without intermediaries.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0911810754347986,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.87,
+            "commentatorTierSimilarities": [
+                30.45,
+                32.54,
+                37.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers, united as living stones within the church, form a spiritual house that serves as God's temple. In this temple, all believers function as a holy priesthood, offering spiritual sacrifices of prayer, praise, and self-denying service in the cause of Christ. These sacrifices are accepted by God only through the intercessory work of Jesus Christ, who consecrates believers as priests and ensures the acceptance of their offerings. The metaphor of a house built of living stones emphasizes the stability, growth, and activity of the ideal church.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.186022231627555,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+            "commentatorTierSimilarities": [
+                29.0,
+                35.37,
+                35.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

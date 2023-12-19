@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:18:19",
+    "verseRef": "2 Corinthians 11:24",
+    "bestBHT": {
+        "bht": "The apostle Paul endured severe punishment from the Jews, receiving thirty-nine stripes five times, just one short of the maximum allowed by the Law of Moses. The Jews adhered strictly to this limit in their cruel treatment. Despite the absence of explicit mentions of these floggings in the Acts and the Epistles, their historical accuracy is evident in the meticulous agreement with Jewish usage. Through it all, Paul faced immense suffering from the hands of the Jews but remained steadfast, continuing his mission to spread the Gospel.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.632794282573462,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+        "commentatorTierSimilarities": [
+            29.73,
+            32.45,
+            37.82
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "At the hands of the Jews five times received I forty save one.\" ",
+            "For fear of exceeding this number they kept within it.",
+            "St. Paul might well number it among the deaths, for it was no rare occurrence for the criminal to die under its infliction."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ordained that not more than forty stripes should be inflicted.",
+            "To avoid exceeding this number, they gave one short of it: thirteen strokes with a treble lash.",
+            "This is one of those minute agreements with Jewish usage, which a forger would have not been likely to observe."
+        ],
+        "Albert Barnes": [
+            "It is admitted that the particulars here referred to cannot be extracted out of the Acts of the Apostles...this proves that this Epistle was not framed from the history.\" ",
+            "Though the Acts of the Apostles be silent concerning many of the instances referred to, yet that silence may be accounted for on the plan and design of the history.\" ",
+            "The Law of Moses Deuteronomy 25:3 expressly limited the number of stripes that might be inflicted to 40. In no case might this number be exceeded."
+        ],
+        "John Calvin": [
+            "The statement of the number is expressive of extreme severity.",
+            "Hence the statement of the number is expressive of extreme severity.",
+            "The Jews in modern times make use of the same number of stripes \u2014 thirty-nine \u2014 in punishing offenders."
+        ],
+        "Philip Schaff": [
+            "Of the Jews five times received I forty stripes save one.",
+            "The rule, not to exceed forty, was very strict, and for a merciful reason.",
+            "The mode of infliction with thongs, partly on the naked breast, and partly on the two naked shoulders was very severe, and not infrequently was followed by death."
+        ],
+        "Archibald T. Robertson": [
+            "Five times received I forty stripes save one.",
+            "The Acts and the Epistles are silent about these Jewish floggings.",
+            "Thirty-nine lashes was the rule for fear of a miscount."
+        ],
+        "John Gill": [
+            "with how many stripes do they beat him? (a criminal,) it is answered, \u05d0\u05e8\u05d1\u05e2\u05d9\u05dd \u05d7\u05e1\u05e8 \u05d0\u05d7\u05ea, 'with forty save one'; as it is said, 'with the number forty'; that is, which is next to forty...\" ",
+            "they could not have given him another stroke, without giving him three stripes more, which would have made it forty two, and so have exceeded, which the law forbids...",
+            "according to their own canons, they could if they would have mitigated this punishment of the apostle's; but such was their cruelty and malice, that they carried it to the utmost height they could."
+        ],
+        "John Wesley": [
+            "Five times I received from the Jews forty stripes save one \u2014 Which was the utmost that the law allowed.",
+            "With the Romans he sometimes pleaded his privilege as a Roman; but from the Jews he suffered all things.",
+            "From the Jews he suffered all things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the hands of the Jews, the apostle Paul endured the punishment of receiving thirty-nine stripes five times. It was stipulated by the Law of Moses that no more than forty stripes be inflicted, and the Jews took great care to adhere to this limit. The severity of this punishment cannot be overstated, as it was delivered with a treble lash, causing great pain and often leading to death. The fact that the Acts and the Epistles do not explicitly mention these Jewish floggings is evidence of their historical accuracy, as these minute details would not likely be observed by a forger. Paul's sufferings at the hands of the Jews were numerous and severe, but despite it all, he remained steadfast in his faith and continued to spread the Gospel.",
+            "wordCount": 132,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.7249397431074063,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                29.76,
+                34.61,
+                35.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul faced extreme severity at the hands of the Jews, enduring the punishment of receiving thirty-nine stripes five times, just one short of the maximum allowed by the Law of Moses. This punishment, inflicted with a treble lash, caused great pain and sometimes even led to death. The historical accuracy of these floggings is evident by their absence in the Acts and the Epistles, as such meticulous details would not likely be observed by a forger. Paul's sufferings at the hands of the Jews were numerous and intense, yet he remained steadfast in his faith.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.5854463212941305,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.06,
+            "commentatorTierSimilarities": [
+                28.02,
+                35.65,
+                36.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul endured severe punishment from the Jews, receiving thirty-nine stripes, just one shy of the maximum allowed by the Law of Moses. The infliction of these lashes with a treble lash was harsh and often resulted in death. The absence of these floggings in the Acts and the Epistles attests to their historical accuracy, as they are minute details that a forger likely would not include. Despite the intense suffering at the hands of the Jews, Paul remained dedicated to spreading the Gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.577292748661319,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+            "commentatorTierSimilarities": [
+                31.85,
+                36.09,
+                32.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Facing extreme severity from the Jews, the apostle Paul endured the punishment of receiving thirty-nine stripes, just one short of the maximum allowed by the Law of Moses. Inflicted with a treble lash on the naked body, such floggings often resulted in death. The historical accuracy of these floggings is indicated by the absence of explicit mentions in the Acts and the Epistles, as a forger would likely overlook such meticulous details. Despite the cruel treatment, Paul's faith remained unwavering, and he persevered in his mission to spread the Gospel.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.5496449874988616,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                28.76,
+                38.65,
+                32.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul endured severe punishment from the Jews, receiving thirty-nine stripes five times, just one short of the maximum allowed by the Law of Moses. The Jews adhered strictly to this limit in their cruel treatment. Despite the absence of explicit mentions of these floggings in the Acts and the Epistles, their historical accuracy is evident in the meticulous agreement with Jewish usage. Through it all, Paul faced immense suffering from the hands of the Jews but remained steadfast, continuing his mission to spread the Gospel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.632794282573462,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+            "commentatorTierSimilarities": [
+                29.73,
+                32.45,
+                37.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

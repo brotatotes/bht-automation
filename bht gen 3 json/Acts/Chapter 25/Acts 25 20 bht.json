@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:36:18",
+    "verseRef": "Acts 25:20",
+    "bestBHT": {
+        "bht": "In his perplexity, the Roman judge proposed that the judgment be handed over to the Jews themselves, hiding his true motives behind an alleged display of modesty. This suggestion aimed to please his guest, Agrippa, as well as gain popularity among the Jews. His doubts and uncertainty about the nature of the questions led him to relinquish the decision-making process to those who would best understand them, the Jewish sanhedrim.",
+        "wordCount": 71,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.5720927013252652,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+        "commentatorTierSimilarities": [
+            25.52,
+            38.82,
+            35.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "See the real reason why he proposed this.",
+            "He now conceals, and alleges his modesty in referring such matters to the judgment of the Jews themselves.",
+            "This would be pleasing to his guest Agrippa."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. because I doubted of such manner",
+            "\tof questions\u2014The \"I\" is emphatic. \"I,\" as a",
+            "\tRoman judge, being at a loss how to deal with such matters."
+        ],
+        "Albert Barnes": [
+            "Because I doubted of such manner of questions... because I was ignorant of their nature and bearing.\" ",
+            "It is obvious, that if Paul was not found guilty of any violation of the laws, he should have been at once discharged.",
+            "Some interpreters understand this as affirming that he was not satisfied about the question of Paul\u2019s innocence, or certain whether he ought to be set at liberty or not."
+        ],
+        "Philip Schaff": [
+            "No doubt he did wish to be informed more fully concerning the real ground of the bitter enmity which existed between Paul and the Sanhedrim.",
+            "He felt, whatever the grave point at issue was, it was one of the burning questions which was then agitating the unhappy and distracted province over which he had just been appointed ruler.",
+            "But he kept in the background another powerful motive which had influenced him in his proposition to the apostle to remove the scene of trial, and to substitute Jewish for Roman forms of law in his case, viz. his own desire to acquire popularity among the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "Being perplexed (\u03b1\u03c0\u03bf\u03c1\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c2). Present middle participle of the common verb \u03b1\u03c0\u03bf\u03c1\u03b5\u03c9 (\u03b1 privative and \u03c0\u03bf\u03c1\u03bf\u03c2 way), to be in doubt which way to turn...",
+            "The Textus Receptus has \u03b5\u03b9\u03c2 after here, but critical text has only the accusative which this verb allows (Mark 6:20) as in Thucydides and Plato.",
+            "This is the question put to Paul in verse Acts 25:9 though \u03b8\u03b5\u03bb\u03b5\u03b9\u03c2 is there used."
+        ],
+        "John Gill": [
+            "Or was ignorant of them, and knew not what to make of them, or to say to them, and was at an entire loss what to do in this affair.",
+            "I asked him whether he would go to Jerusalem, and there be judged of these matters.",
+            "Before the Jewish sanhedrim, who best understood them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because the Roman judge found himself at a loss as to how to handle the peculiar matters brought forth in the case, he decided to refer the decision-making process to the Jews themselves in an attempt to appease his guest, Agrippa. This decision, however, was not without ambiguity or ulterior motives; it seemed that by proposing this solution, the judge hoped to acquire popularity among the Jews and gain a deeper understanding of the bitter enmity between Paul and the Sanhedrim. Ultimately, his doubts and ignorance about the nature and implications of the questions at hand led him to shift the burden of judgment to those who were best equipped to interpret and decide upon them.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.586699658848048,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+            "commentatorTierSimilarities": [
+                22.41,
+                45.12,
+                32.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Roman judge found himself at a loss, unsure how to proceed with the peculiar matters in the case. To appease Agrippa, he proposed that the judgment be left to the Jews themselves. However, this decision was not solely based on modesty; the judge had the ulterior motive of seeking popularity among the Jews and understanding the deep enmity between Paul and the Sanhedrim. His doubts and ignorance led him to defer to those who were better equipped to understand and address the questions at hand.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.5535445337784763,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.0,
+            "commentatorTierSimilarities": [
+                24.59,
+                39.98,
+                35.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Roman judge, uncertain about how to handle the intricate matters of the case, proposed that the judgment be referred to the Jews themselves. This decision was not simply an act of modesty, but a means to please his guest, Agrippa. However, there were underlying motives as well. The judge wished to gain popularity among the Jews and desired to comprehend the intense animosity between Paul and the Sanhedrim. His doubts and uncertainty about the nature of the questions led him to yield to the expertise of those who best understood them.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.3608078648548303,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.59,
+            "commentatorTierSimilarities": [
+                26.49,
+                42.19,
+                31.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Roman judge, being at a loss about how to handle the complex matters of the case, proposed to refer the judgment to the Jews themselves. Not only was this an act of modesty, but it also aimed to please his guest, Agrippa. However, there were deeper motives at play. The judge sought popularity among the Jews and desired to understand the intense enmity between Paul and the Sanhedrim. His doubts and ignorance about the questions led him to defer to those who had a better understanding of them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.433347251309462,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.0,
+            "commentatorTierSimilarities": [
+                27.4,
+                40.62,
+                31.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his perplexity, the Roman judge proposed that the judgment be handed over to the Jews themselves, hiding his true motives behind an alleged display of modesty. This suggestion aimed to please his guest, Agrippa, as well as gain popularity among the Jews. His doubts and uncertainty about the nature of the questions led him to relinquish the decision-making process to those who would best understand them, the Jewish sanhedrim.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.5720927013252652,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+            "commentatorTierSimilarities": [
+                25.52,
+                38.82,
+                35.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

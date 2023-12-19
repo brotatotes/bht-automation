@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:23:19",
+    "verseRef": "Luke 23:24",
+    "bestBHT": {
+        "bht": "Pilate gave sentence, pronouncing the final decision as requested by the people. The use of the unique verb gave sentence highlights Pilate's resolution, indicating that he determined to grant their request and fulfill what they asked for.",
+        "wordCount": 38,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.9836743150763867,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+        "commentatorTierSimilarities": [
+            53.73,
+            0.0,
+            46.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Gave sentence [\u03b5\u03c0\u03b5\u03ba\u03c1\u03b9\u03bd\u03b5\u03bd] . Pronounced the final sentence. Only here in New Testament. ",
+            "- 33. Compare Matthew 27:31-34; Mark 14:20-23."
+        ],
+        "Archibald T. Robertson": [
+            "Gave sentence (\u03b5\u03c0\u03b5\u03ba\u03c1\u03b9\u03bd\u03b5\u03bd). Pronounced the final sentence. The usual verb for the final decision. Only here in the N.T. "
+        ],
+        "John Gill": [
+            "And Pilate gave sentence... that it should be as they required.\" ",
+            "Resolved, determined, and gave out.\" ",
+            "They should have their request, what they asked for."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate pronounced the final sentence, giving in to the demands of the people. This decision is emphasized by the use of the unique verb gave sentence. Pilate's resolution to grant their request is clear, as he conceded to their desires and resolved to give them what they asked for.",
+            "wordCount": 50,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.7663930140103101,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                51.25,
+                0.0,
+                48.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate, having pronounced the final sentence, gave in to the demands of the people according to their request. This decision is highlighted by the use of the unique verb gave sentence. Pilate's resolution to grant their request is evident, as he resolved to give them what they asked for.",
+            "wordCount": 50,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7428383297102013,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                48.08,
+                0.0,
+                51.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, having pronounced the final sentence, gave in to the demands of the people and granted their request. The use of the rare verb gave sentence emphasizes Pilate's decision. He resolved to fulfill what they asked for and determined that it should be as they required.",
+            "wordCount": 47,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6556475587246517,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+            "commentatorTierSimilarities": [
+                42.24,
+                0.0,
+                57.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate gave sentence, pronouncing the final decision as requested by the people. The use of the unique verb gave sentence highlights Pilate's resolution, indicating that he determined to grant their request and fulfill what they asked for.",
+            "wordCount": 38,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9836743150763867,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+            "commentatorTierSimilarities": [
+                53.73,
+                0.0,
+                46.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, having pronounced the final sentence, gave in to the demands of the people according to their request. This decision is highlighted by the use of the unique verb gave sentence. Pilate's resolution to fulfill their request is evident, as he resolved to give them what they asked for.",
+            "wordCount": 50,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7240360558986356,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                48.26,
+                0.0,
+                51.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:21:32",
+    "verseRef": "Galatians 6:2",
+    "bestBHT": {
+        "bht": "To fulfill the law of Christ, we must bear one another's burdens, carrying their weights that exceed their strength. This extends to all the burdens we can help each other with, including moral infirmities and errors. By doing so, we supply what is lacking and show love, the only burden of the law of Christ. This command emphasizes the importance of aiding and sympathizing with each other, forgiving, praying, and correcting with meekness. In this way, we demonstrate our discipleship and fulfill the law of Christ.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.086294222547445,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+        "commentatorTierSimilarities": [
+            26.26,
+            37.27,
+            36.47
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "You want to become disciples of that Law which imposes heavy burdens on men: if you will bear burdens, bear ONE ANOTHER\u2019 S burdens, and thus fulfil (by this act fulfil) the law of Christ,\u2014a far higher and better law, whose only burden is love.",
+            "As to the burdens, the more general the meaning we give to the word, the better it will accord with the sense of the command.",
+            "The matter mentioned in the last verse led on to this: but this grasps far wider, extending to all the burdens which we can, by help and sympathy, bear for one another."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Bear one another's burdens,\" literally, \"weights.\" Distinguished by BENGEL from \"burden,\" Galatians 6:4 (a different Greek word, \"load\"): \"weights\" exceed the strength of those under them; \"burden\" is proportioned to the strength.",
+            "So fulfil\u2014or as other old manuscripts read, 'so ye will fulfil,' Greek, 'fill up,' 'thoroughly fulfil.'",
+            "The law of Christ\u2014namely, 'love' (Galatians 5:14). Since ye desire 'the law,' then fulfil the law of Christ, which is not made up of various minute observances, but whose sole 'burden' is 'love'."
+        ],
+        "Albert Barnes": [
+            "Bear with each other; help each other in the divine life. We should aid each other in regard to these, and help one another to overcome them.",
+            "The law of Christ would not allow us to reproach the offender, or to taunt him, or to rejoice in his fall. We should help him to take up his load of infirmities, and sustain him by our counsels, our exhortations, and our prayers.",
+            "Christians, conscious of their infirmities, have a right to the sympathy and the prayers of their brethren. They should not be cast off to a cold and heartless world; a world rejoicing over their fall, and ready to brand them as hypocrites."
+        ],
+        "Marvin Vincent": [
+            "The emphasis is on one another's, in contrast with the selfishness which leaves others to take care of themselves.",
+            "The primary reference in burdens is to moral infirmities and errors, and the sorrow and shame and remorse which they awaken in the offender.",
+            "The verb denotes, not the filling up of a perfect vacancy, as the simple plhroun, but the supplying of what is lacking to fulness; the filling up of a partial void."
+        ],
+        "John Calvin": [
+            "We must not indulge or overlook the sins by which our brethren are pressed down, but relieve them, \u2014 which can only be done by mild and friendly correction.",
+            "All would choose to lay upon believers the task of bearing their burdens. But as the apostle had immediately before exhorted us to restore a brother, the manner in which Christians are required to bear one another\u2019s burdens cannot be mistaken.",
+            "He who has not this has nothing. On the other hand, he tells us, that, when every one compassionately assists his neighbor, the law of Christ is fulfilled; by which he intimates that every thing which does not proceed from love is superfluous."
+        ],
+        "Philip Schaff": [
+            "Bear ye one another\u2019s burdens, all sorts of troubles, cares, errors, and infirmities.",
+            "Sin and error should be resisted and rebuked in a spirit of charity and meekness.",
+            "With all our faults we ought to esteem and love one another as brethren in Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Bear ye one another's burdens.\" ",
+            "Keep on bearing.\" ",
+            "Then give help in carrying it."
+        ],
+        "John Gill": [
+            "Saints bear one another's burdens... by gently reproving them, by comforting them... by sympathizing with them... by praying... and by forgiving them themselves.\" ",
+            "The law of Christ is the law of love to one another... it is his new commandment, which he has strengthened and enforced by his own example in dying for his people.",
+            "By fulfilling the law of Christ, it is meant, doing it, acting in obedience to it, and not a perfect fulfilling it, which cannot be done by sinful creatures."
+        ],
+        "John Wesley": [
+            "Bear ye one another's burdens \u2014 Sympathize with, and assist, each other, in all your weaknesses, grievances, trials.",
+            "And so fulfil the law of Christ \u2014 The law of Christ (an uncommon expression) is the law of love: this our Lord peculiarly recommends.",
+            "This he makes the distinguishing mark of his disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you will bear burdens, bear one another\u2019s burdens, and thus fulfill the law of Christ\u2014a far higher and better law, whose only burden is love. The command to 'bear one another\u2019s burdens' extends to all the burdens which we can, by help and sympathy, bear for one another. This includes moral infirmities, errors, and the sorrow and shame they awaken. It is about supplying what is lacking to fulness, with the emphasis on 'one another\u2019s,' in contrast to selfishness. Christians should aid each other, not reproach or taunt one another. Instead, we should help them take up their load and sustain them with our counsels, exhortations, and prayers, esteeming and loving one another as brethren in Christ. By fulfilling the law of Christ, it is meant, doing it, acting in obedience to it, and not a perfect fulfilling it, which cannot be done by sinful creatures. This is the distinguishing mark of His disciples.",
+            "wordCount": 159,
+            "quoteTokenProportion": 46.32,
+            "qualityScore": 2.022594600662253,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+            "commentatorTierSimilarities": [
+                26.56,
+                38.17,
+                35.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you will bear burdens, bear one another's burdens, and thus fulfill the law of Christ. This includes moral infirmities and errors, and the sorrow and shame they awaken. It is about supplying what is lacking to fulness, with the emphasis on 'one another's,' in contrast to selfishness. Christians should aid each other, esteeming and loving one another as brethren in Christ. By fulfilling the law of Christ, it is meant, doing it, acting in obedience to it, and not a perfect fulfilling it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.045632647371323,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                26.85,
+                37.7,
+                35.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To fulfill the law of Christ, we must bear one another's burdens, helping each other in the divine life. This involves aiding one another in regards to troubles, cares, errors, and infirmities. We should resist and rebuke sins and errors with charity and meekness, offering mild and friendly correction. By doing so, we show love to one another and fulfill the law of Christ. In this way, we become true disciples, esteeming and loving each other as brethren in Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0350696321831467,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.01,
+            "commentatorTierSimilarities": [
+                20.92,
+                44.44,
+                34.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To fulfill the law of Christ, we must bear one another's burdens, carrying their weights that exceed their strength. This extends to all the burdens we can help each other with, including moral infirmities and errors. By doing so, we supply what is lacking and show love, the only burden of the law of Christ. This command emphasizes the importance of aiding and sympathizing with each other, forgiving, praying, and correcting with meekness. In this way, we demonstrate our discipleship and fulfill the law of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.086294222547445,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+            "commentatorTierSimilarities": [
+                26.26,
+                37.27,
+                36.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To fulfill the law of Christ, we must bear one another's burdens, helping each other in the divine life. This involves aiding one another in regards to troubles, cares, errors, and infirmities. We should resist and rebuke sins and errors with charity and meekness, offering mild and friendly correction. By doing so, we show love to one another and fulfill the law of Christ. In this way, we become true disciples, esteeming and loving each other as brethren in Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0350696321831467,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.01,
+            "commentatorTierSimilarities": [
+                20.92,
+                44.44,
+                34.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

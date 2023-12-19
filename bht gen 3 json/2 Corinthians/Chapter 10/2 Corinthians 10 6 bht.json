@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:17:52",
+    "verseRef": "2 Corinthians 10:6",
+    "bestBHT": {
+        "bht": "Paul's aim in addressing the Corinthian Church is to stress the significance of obedience without singling out specific individuals. He assumes that most of the church will act obediently, allowing rebels an opportunity to join the obedient before enacting punishment. Paul holds punishment in readiness but waits until all chances for obedience have been given. The goal is to complete the number of obedient believers before dealing with the disobedient.",
+        "wordCount": 71,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 2.2106055932847575,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.84,
+        "commentatorTierSimilarities": [
+            35.01,
+            31.72,
+            33.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He does not mention any persons\u2014not the disobedient, but every (case of) disobedience...",
+            "and throws out your obedience into strong relief, as charitably embracing all, or nearly all, those to whom he was writing.",
+            "(but perhaps some will not thus be subjected. In that case we are ready to inflict punishment on them: but not till every opportunity has been given them to join the ranks of the obedient) when your obedience (stress on your) shall have been fulfilled."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Having ourselves (that is, being) in readiness to exact punishment for all disobedience... We have this in store for the disobedient: it will be brought into action in due time.",
+            "He charitably assumes that most of the Corinthian Church will act obediently... in order, therefore, to give all an opportunity of joining the obedient, he will not prematurely exact punishment, but wait until the full number of those gathered out to Christ has been 'completed,' and the remainder have been proved incorrigible.",
+            "He had acted already so at Corinth... compare Exodus 32:34; Matthew 13:28-30."
+        ],
+        "Albert Barnes": [
+            "Clothed as I am with this power; aiming to subdue all things to Christ, though the weapons of my warfare are not carnal, and though I am modest or timid when I am with you, I am prepared to take any measures of severity required by my apostolic office\" ",
+            "I may inflict deserved punishment on those who have violated the laws of Christ.",
+            "The church was to discountenance the enemies of the Redeemer; to show an entire readiness to sustain the apostle, and to unite with him in the effort to maintain the discipline of Christ\u2019s house."
+        ],
+        "Marvin Vincent": [
+            "To avenge all disobedience, etc.\" ",
+            "After most have surrendered and thus fulfilled their obedience, some rebels may remain.",
+            "These will be punished."
+        ],
+        "John Calvin": [
+            "Power had been given him \u2014 not merely for constraining voluntary disciples to subjection to Christ, but also for inflicting vengeance upon the rebellious.",
+            "Let it, however, be always understood, that it is when the minister fights with spiritual armor.",
+            "For as he had threatened to inflict punishment upon the rebellious, that he may not seem to provoke them, he declares that another duty had been enjoined upon him with regard to them \u2014 simply that of making them obedient to Christ."
+        ],
+        "Philip Schaff": [
+            "The sound and healthy party in the church whom the apostle identifies with the church itself are here distinguished from the refractory spirits who required stringent measures of repression.",
+            "But the right condition of the former was to be his first care, that is, their thorough recognition of his apostolic authority, which would be evinced by their 'obedience' to his instructions.",
+            "After that he would deal with the unruly."
+        ],
+        "Archibald T. Robertson": [
+            "Holding in readiness.",
+            "Disobedience... failing to hear, refusing to heed.",
+            "Paul expects that the whole church will become obedient to Christ's will soon."
+        ],
+        "John Gill": [
+            "Not with the temporal sword, as the civil magistrate, but with the spiritual one.",
+            "Censures and excommunication, which a faithful minister of the Gospel...has at hand, and a power to make use of, for the reclaiming of disobedient persons.",
+            "He only waited a proper time...being unwilling, as yet, to use the awful authority he had from Christ, lest any of the dear children of God...should suffer with the refractory and incorrigible."
+        ],
+        "John Wesley": [
+            "Being in readiness to avenge all disobedience \u2014 Not only by spiritual censure, but miraculous punishments.",
+            "When your obedience is fulfilled \u2014 When the sound part of you have given proof of your obedience.",
+            "I am in no danger of punishing the innocent with the guilty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul's intention in 2 Corinthians 10:6 is not to single out individual persons who are disobedient, but rather to emphasize the importance of obedience for the entire Corinthian Church. He assumes that most of the church will act obediently and gives them an opportunity to join the ranks of the obedient before inflicting punishment on the remaining rebels. Paul desires the full number of obedient believers to be completed before taking action against the disobedient. He holds in readiness the punishment for disobedience, but only when every opportunity for obedience has been given.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.3264027115890618,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.69,
+            "commentatorTierSimilarities": [
+                35.68,
+                30.59,
+                33.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In addressing the Corinthian Church, Paul does not name specific individuals, but rather focuses on disobedience in general. He highlights the importance of obedience and desires that the majority of the church will act obediently. Before punishing the remaining rebels, Paul allows for an opportunity for them to join the ranks of the obedient. Only when every opportunity for obedience has been given does he hold in readiness the punishment for disobedience. The aim is for the full number of obedient believers to be completed before taking action against the disobedient.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.1530213855150455,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.93,
+            "commentatorTierSimilarities": [
+                36.71,
+                29.75,
+                33.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, in addressing the Corinthian Church, does not specify individuals, but emphasizes disobedience as a whole. He focuses on the significance of obedience, seeking the majority of the church to act dutifully. Before taking action against the remaining rebels, he allows an opportunity for them to join the ranks of the obedient. Only when every chance for obedience has been extended does he hold in readiness the punishment for disobedience. The goal is for the complete number of obedient believers to be fulfilled before dealing with the disobedient.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.1011795402594213,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                35.6,
+                31.42,
+                32.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's intention in addressing the Corinthian Church is to focus on disobedience as a whole without naming specific individuals. He emphasizes the importance of obedience, assuming that most of the church will act dutifully. Paul desires to give every opportunity for the rebels to join the ranks of the obedient before inflicting punishment. He holds the punishment in readiness, but only when all chances for obedience have been exhausted. The goal is for the complete number of obedient believers to be fulfilled before dealing with the disobedient.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.144190804017093,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.64,
+            "commentatorTierSimilarities": [
+                35.19,
+                31.55,
+                33.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's aim in addressing the Corinthian Church is to stress the significance of obedience without singling out specific individuals. He assumes that most of the church will act obediently, allowing rebels an opportunity to join the obedient before enacting punishment. Paul holds punishment in readiness but waits until all chances for obedience have been given. The goal is to complete the number of obedient believers before dealing with the disobedient.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.2106055932847575,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.84,
+            "commentatorTierSimilarities": [
+                35.01,
+                31.72,
+                33.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:36:21",
+    "verseRef": "Acts 26:2",
+    "bestBHT": {
+        "bht": "I esteem it a favor and a privilege to be permitted to make my defense before one acquainted with Jewish customs and opinions. I think myself happy because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews. He doubted not but he should do it to the entire satisfaction of the king. The accusations which were made against him all had reference to these hopes and onlooks, and no one but a learned Jew could possibly understand them. Agrippa felt this.",
+        "wordCount": 92,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.3016303717806503,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.62,
+        "commentatorTierSimilarities": [
+            20.17,
+            52.51,
+            27.33
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "I think myself happy - I esteem it a favor and a privilege to be permitted to make my defense before one acquainted with Jewish customs and opinions.",
+            "Paul now rejoiced to know that he was before one who, from his acquaintance with the Jewish customs and belief, would be able to appreciate his arguments.",
+            "His defense is, consequently, made up chiefly of a most eloquent statement of the facts just as they had occurred."
+        ],
+        "Marvin Vincent": [
+            "Happy [\u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03bd] . See on blessed, Matthew 5:3. ",
+            "Answer [\u03b1\u03c0\u03bf\u03bb\u03bf\u03b3\u03b5\u03b9\u03c3\u03b8\u03b1\u03b9] . See on 1 Peter 3:15."
+        ],
+        "John Calvin": [
+            "The more expert a man is in the Scripture, the more attentive must he be when the question is about religion.",
+            "It is meet that we be so careful for the worship of God, that it do not grieve us to hear those things which belong to the defining thereof.",
+            "And chiefly when we have learned the principle, so that we may readily judge, if we list to take heed."
+        ],
+        "Philip Schaff": [
+            "I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews.\" ",
+            "Paul says not one word in praise of the young sovereign: he simply with courtesy prefaces his earnest and impassioned words...\" ",
+            "The accusations which were made against him (the prisoner Paul) all had reference to these hopes and onlooks, and no one but a learned Jew could possibly understand the charges made against him, or the defence he was about to make."
+        ],
+        "Archibald T. Robertson": [
+            "I think myself happy (\u03b7\u03b3\u03b7\u03bc\u03b1 \u03b5\u03bc\u03b1\u03c5\u03c4\u03bf\u03bd \u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03bd).\" ",
+            "He says only what he can truthfully speak.",
+            "Literally, 'being about to make my defence.'"
+        ],
+        "John Gill": [
+            "It had been his unhappiness hitherto, that his case was not understood.",
+            "He being versed in things of this kind, was capable of informing, counselling, directing, and assisting the judge.",
+            "He doubted not but he should do it to the entire satisfaction of the king."
+        ],
+        "John Wesley": [
+            "King Agrippa \u2014 There is a peculiar force in thus addressing a person by name. Agrippa felt this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I esteem it a favor and a privilege to be permitted to make my defense before one acquainted with Jewish customs and opinions. I think myself happy because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews. He doubted not but he should do it to the entire satisfaction of the king. The accusations which were made against him all had reference to these hopes and onlooks, and no one but a learned Jew could possibly understand them. Agrippa felt this.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.3016303717806503,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.62,
+            "commentatorTierSimilarities": [
+                20.17,
+                52.51,
+                27.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I esteem it a favor and a privilege to make my defense before one acquainted with Jewish customs and opinions. I think myself happy because I shall answer for myself before thee touching all the things whereof I am accused of the Jews. The accusations against me all had reference to these hopes and onlooks, and no one but a learned Jew could possibly understand them. Agrippa felt this.",
+            "wordCount": 69,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.435246625272096,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.06,
+            "commentatorTierSimilarities": [
+                24.0,
+                57.09,
+                18.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I esteem it a favor and a privilege to make my defense before one acquainted with Jewish customs and opinions. I think myself happy because I shall answer for myself before thee touching all the things whereof I am accused of the Jews. The accusations against me all had reference to these hopes and onlooks, and no one but a learned Jew could possibly understand them. Agrippa felt this.",
+            "wordCount": 69,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.435246625272096,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.06,
+            "commentatorTierSimilarities": [
+                24.0,
+                57.09,
+                18.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I think myself happy to be able to make my defense before someone knowledgeable about Jewish customs and opinions. I esteem it a favor and a privilege. I am accused of certain things by the Jews and I am glad to have the opportunity to address them. The accusations against me are related to our shared hopes and beliefs, and only someone who understands them can truly comprehend the charges. Agrippa understands this.",
+            "wordCount": 73,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.2241844842985945,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.05,
+            "commentatorTierSimilarities": [
+                21.76,
+                59.5,
+                18.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I esteem it a favor and a privilege to be able to make my defense before someone acquainted with Jewish customs and opinions. I think myself happy because I shall answer for myself before thee, touching all the things whereof I am accused by the Jews. The accusations against me are deeply tied to our shared hopes and beliefs, and only a learned Jew can truly grasp their significance. Agrippa, being versed in these matters, understands the weight of these charges.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.3760370633029906,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.1,
+            "commentatorTierSimilarities": [
+                19.99,
+                59.71,
+                20.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

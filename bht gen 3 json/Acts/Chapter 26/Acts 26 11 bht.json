@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:36:42",
+    "verseRef": "Acts 26:11",
+    "bestBHT": {
+        "bht": "Driven by a zealous determination, I relentlessly persecuted the Christians, punishing them in synagogues and striving to make them blaspheme. Fueled by malice and hatred, I pursued them even in foreign cities. However, my own conversion and repentance serve as a powerful reminder that even the most vehement opposition to the Gospel can be transformed into unwavering devotion. Those who persecute the followers of Christ should take heed and repent before it is too late, lest they suffer the consequences of their actions.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.7646736262453544,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+        "commentatorTierSimilarities": [
+            30.19,
+            32.32,
+            37.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "punished them] viz. by scourging; comp. Matt. x. 17.\" ",
+            "I compelled them to blaspheme does not imply that any did blaspheme.",
+            "The persecuting the Christians even to foreign cities forms the transition to the narrative following."
+        ],
+        "Albert Barnes": [
+            "It was not to make them blaspheme or reproach God, but to deny that Jesus was the Messiah, and to reproach him as a deceiver and an impostor.",
+            "None but a madman will persecute people on account of their religious opinions; and all persecutions have been conducted like this, with the violence, the fury, and the ungovernable temper of maniacs.",
+            "Unto foreign cities; cities out of Judea. The principal instance of this was his going to Damascus; but there is no evidence that he did not intend also to visit other cities out of Judea and bring the Christians there, if he found any, to Jerusalem."
+        ],
+        "Philip Schaff": [
+            "I punished them oft in every synagogue.\" - Some would try and explain away the sorrowful thoughts suggested by this \"memory,\" by supposing that all Saul did was to try to induce them to deny the faith they once said they loved; but it would be very hazardous to conclude that, among the many of different sexes, of varied ranks and ages, none swerved from their fidelity to Christ.",
+            "Being exceedingly mad against them.\" - No language seems too strong for the brave Christian advocate to use concerning himself and his former conduct towards those men and women, whose brother and fellow-believer he now professed himself to be.",
+            "Even unto strange cities.\" - He had done the Sanhedrim's work well and thoroughly in the 'home' district, and as far even as foreign cities."
+        ],
+        "Archibald T. Robertson": [
+            "Punishing (\u03c4\u03b9\u03bc\u03c9\u03c1\u03c9\u03bd). Old word \u03c4\u03b9\u03bc\u03c9\u03c1\u03b5\u03c9 originally to render help, to succor (\u03c4\u03b9\u03bc\u03c9\u03c1\u03bf\u03c2, from \u03c4\u03b9\u03bc\u03b7 and \u03bf\u03c5\u03c1\u03bf\u03c2), then to avenge (for honour).",
+            "I strove to make them blaspheme (\u03b7\u03bd\u03b1\u03b3\u03ba\u03b1\u03b6\u03bf\u03bd \u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03b5\u03b9\u03bd). Conative imperfect active of \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03b6\u03c9, old verb from \u03b1\u03bd\u03b1\u03b3\u03ba\u03b7 (necessity, compulsion).",
+            "I persecuted (\u03b5\u03b4\u03b9\u03c9\u03ba\u03bf\u03bd). Imperfect active again, repeated attempts. The old verb \u03b4\u03b9\u03c9\u03ba\u03c9 was used to run after or chase game and then to chase enemies. The word 'persecute' is the Latin persequor, to follow through or after."
+        ],
+        "John Gill": [
+            "And I punished them oft in every synagogue.... and compelled them to blaspheme...",
+            "being exceeding mad against them; full of malice, envy, and hatred",
+            "I persecuted them even to strange cities; particularly Damascus..."
+        ],
+        "John Wesley": [
+            "I compelled them \u2014 That is, some of them; to blaspheme - This is the most dreadful of all!\" ",
+            "Repent, ye enemies of the Gospel.",
+            "If Spira, who was compelled, suffered so terribly, what will become of those who compel, like Saul, but do not repent like him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Driven by an intense determination, Saul relentlessly pursued the Christians, even going so far as to persecute them in foreign cities. His zealous actions included punishing them in synagogues, striving to make them blaspheme, and compelling them to deny their faith in Jesus. The depths of Saul's fury and madness were evident in his relentless pursuit of those he considered his enemies. Yet, even in the midst of his vehemence, one cannot help but reflect on the possibility that some may have faltered in their allegiance to Christ under the pressure imposed by Saul. But, as we consider Saul's own conversion and repentance, we are reminded that even the most vehement opposition to the Gospel can be transformed into unwavering devotion. May this serve as a cautionary tale for those who would persecute the followers of Christ, urging them to repent before it is too late.",
+            "wordCount": 148,
+            "quoteTokenProportion": 42.16,
+            "qualityScore": 1.6542524769414637,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.35,
+            "commentatorTierSimilarities": [
+                27.83,
+                38.38,
+                33.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Driven by a zealous determination, Saul relentlessly persecuted the Christians, even in foreign cities. Punishing them in synagogues, he strove to compel them to blaspheme and deny their faith. In his madness and fury, Saul's actions were fueled by malice, envy, and hatred. Yet, amidst his fervor, one cannot dismiss the possibility that some may have faltered under the pressure imposed by Saul. However, Saul's own conversion and repentance serve as a reminder that even the staunchest opposition to the Gospel can be transformed into unwavering devotion.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.628082449984202,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.48,
+            "commentatorTierSimilarities": [
+                28.19,
+                35.02,
+                36.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Driven by a zealous determination, I relentlessly persecuted the Christians, punishing them in synagogues and striving to make them blaspheme. Fueled by malice and hatred, I pursued them even in foreign cities. However, my own conversion and repentance serve as a powerful reminder that even the most vehement opposition to the Gospel can be transformed into unwavering devotion. Those who persecute the followers of Christ should take heed and repent before it is too late, lest they suffer the consequences of their actions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.7646736262453544,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+            "commentatorTierSimilarities": [
+                30.19,
+                32.32,
+                37.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Driven by an intense determination, I relentlessly persecuted the Christians, even going so far as to persecute them in foreign cities. Punishing them in synagogues, striving to make them blaspheme, and compelling them to deny their faith in Jesus. The depths of my fury and madness were evident in my relentless pursuit. Yet, even in the midst of my vehemence, one cannot help but reflect on the possibility that some may have faltered in their allegiance to Christ under the pressure imposed by me.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.6030300349661966,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.64,
+            "commentatorTierSimilarities": [
+                29.8,
+                34.59,
+                35.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Compelled by my unwavering determination, I relentlessly persecuted the Christians, punishing them in synagogues and striving to make them blaspheme. Driven by malice and fueled by hatred, I pursued them even in foreign cities. However, my own conversion and subsequent repentance serve as a stark reminder that even the most vehement opposition to the Gospel can be transformed into unwavering devotion. Let this serve as a warning to those who would persecute the followers of Christ: repent before it is too late.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7489872291222865,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                31.55,
+                30.85,
+                37.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

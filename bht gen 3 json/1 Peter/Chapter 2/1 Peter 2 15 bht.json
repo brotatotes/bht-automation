@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:39:16",
+    "verseRef": "1 Peter 2:15",
+    "bestBHT": {
+        "bht": "The will of God is for believers to do good and put to silence the ignorance of those who speak against them as evil-doers. By living lives of integrity and righteousness, believers can muzzle the accusations of their enemies. It is important to remember that their ignorance should elicit pity rather than anger. By fulfilling God's purpose and confounding their adversaries, believers confound their adversaries and promote favorable sentiments towards Christianity.",
+        "wordCount": 73,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 2.0195029676703102,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.49,
+        "commentatorTierSimilarities": [
+            31.35,
+            31.7,
+            36.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For (ground of the submission enjoined: correlative with, but not going so far as, the purpose announced in ver. 12) so (after this manner, in this direction and wise: viz. as follows) is ( \u2018se trouve\u2019) the will (thing willed, concrete result of the will) of God.\" ",
+            "That doing good (so literally, the participle carrying the reason with it: by doing good) ye put to silence the ignorance (not simply ignorance of this or that fact, but a state of lack of knowledge or understanding, habitual ignorance.\" ",
+            "The foolish men (above designated; those viz. who speak against you as evil-doers: not, 'of foolish men' in general, as A.V.)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "to muzzle,\" \"to stop the mouth.",
+            "Their ignorance should move the believer's pity, not his anger.",
+            "Maintain such a walk that they shall have no charge against you, except touching your faith; and so their minds shall be favorably disposed towards Christianity."
+        ],
+        "Albert Barnes": [
+            "For so is the will of God - That is, it is in accordance with the divine will that in this way you should put them to silence.",
+            "Yet, though there might be malice at the bottom, the charges were really based on ignorance.",
+            "One of the best ways of meeting the accusations of our enemies is to lead a life of strict integrity."
+        ],
+        "Marvin Vincent": [
+            "Put to silence [\u03c6\u03b9\u03bc\u03bf\u03c5\u03bd] . A very graphic word, meaning to muzzle or gag.\" ",
+            "Ignorance [\u03b1\u03b3\u03bd\u03c9\u03c3\u03b9\u03b1\u03bd] . In classical Greek it is an ignorance arising from not coming into contact with the person or thing to be known.\" ",
+            "Of foolish men [\u03c4\u03c9\u03bd \u03b1\u03c6\u03c1\u03bf\u03bd\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd] . Of the foolish men; the article referring to those just mentioned, who speak against them as evil - doers."
+        ],
+        "John Calvin": [
+            "For he not only calls the unbelieving foolish, but also points out the reason why they slandered, even because they were ignorant of God.",
+            "We hence conclude, that a right understanding cannot exist without the knowledge of God.",
+            "...he means that no occasion of slandering ought to be given to the unbelieving, however much they may desire it."
+        ],
+        "Philip Schaff": [
+            "The 'well-doing,' which might mean doing deeds of kindness or mercy, has here the more general sense of rectitude or dutifulness of conduct.",
+            "The verb 'silence' means literally to muzzle, and might be rendered 'gag.'",
+            "The fact, therefore, that it was God's purpose to make the good lives of His servants a means of silencing the oppositions of their enemies, was a further reason for proving themselves loyal citizens and submissive subjects."
+        ],
+        "Archibald T. Robertson": [
+            "By well-doing (\u03b1\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u03bf\u03c5\u03bd\u03c4\u03b1\u03c2).",
+            "The ignorance of foolish men (\u03c4\u03b7\u03bd \u03c4\u03c9\u03bd \u03b1\u03c6\u03c1\u03bf\u03bd\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd \u03b1\u03b3\u03bd\u03c9\u03c3\u03b9\u03b1\u03bd).",
+            "Disgraceful ignorance (in both instances)."
+        ],
+        "John Gill": [
+            "By living soberly, righteously, and godly; by having the conversation honest among the Gentiles, agreeably to the law of God, and as becomes the Gospel of Christ.\" ",
+            "The apostle signified, that it was the declared will of God that his people should so behave in civil life, that their enemies should be entirely confounded, and silenced, and have nothing to say against them.\" ",
+            "The word signifies to be muzzled, to have the mouth shut up, as with a bit or bridle."
+        ],
+        "John Wesley": [
+            "The ignorance \u2014 Of them who blame you, because they do not know you: a strong motive to pity them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The will of God is for believers to do good, which will silence the ignorance of foolish men who speak against them as evil-doers. By living lives of integrity and righteousness, believers have the opportunity to muzzle the accusations of their enemies. It is important to remember that the ignorance of these individuals should elicit pity rather than anger. The purpose behind this instruction is to maintain a blameless walk that will promote favorable sentiments towards Christianity. Ultimately, it is the declared will of God that His people behave in such a way that their adversaries are confounded and silenced, having nothing to say against them. By living according to the principles of sobriety, righteousness, and godliness, believers show that their conduct is in accordance with God's law and the teachings of Christ.",
+            "wordCount": 135,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.9170332046331051,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.08,
+            "commentatorTierSimilarities": [
+                30.77,
+                32.56,
+                36.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The will of God is for believers to do good and silence the ignorance of those who speak against them. By living virtuously, believers can muzzle the accusations of their enemies and show pity instead of anger. This demonstrates that a right understanding comes from the knowledge of God. By leading lives of integrity and righteousness, believers confound their adversaries and exemplify the teachings of Christ. Their blameless conduct promotes favorable sentiments towards Christianity and fulfills God's purpose.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8512907769848326,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "commentatorTierSimilarities": [
+                29.81,
+                31.76,
+                38.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The will of God is for believers to do good and put to silence the ignorance of those who speak against them as evil-doers. By living lives of integrity and righteousness, believers can muzzle the accusations of their enemies. This demonstrates that their ignorance should elicit pity rather than anger. It is important to remember that a right understanding cannot exist without the knowledge of God. By leading lives that are in accordance with God's law and the teachings of Christ, believers fulfill God's purpose and confound their adversaries, promoting favorable sentiments towards Christianity.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9392330221772167,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.82,
+            "commentatorTierSimilarities": [
+                30.8,
+                29.94,
+                39.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The will of God is for believers to do good and silence the ignorance of those who speak against them. By living lives of integrity and righteousness, believers can muzzle the accusations of their enemies. It is important to remember that their ignorance should elicit pity, not anger. A right understanding is only possible through the knowledge of God. By fulfilling God's purpose and confounding their adversaries, believers exemplify the teachings of Christ and promote favorable sentiments towards Christianity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8986335657605773,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                30.77,
+                29.31,
+                39.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The will of God is for believers to do good and put to silence the ignorance of those who speak against them as evil-doers. By living lives of integrity and righteousness, believers can muzzle the accusations of their enemies. It is important to remember that their ignorance should elicit pity rather than anger. By fulfilling God's purpose and confounding their adversaries, believers confound their adversaries and promote favorable sentiments towards Christianity.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.0195029676703102,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.49,
+            "commentatorTierSimilarities": [
+                31.35,
+                31.7,
+                36.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

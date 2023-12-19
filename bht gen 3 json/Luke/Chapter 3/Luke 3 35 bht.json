@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:14:34",
+    "verseRef": "Luke 3:35",
+    "bestBHT": {
+        "bht": "In examining the biblical account, we encounter the mention of Saruch, who is also referred to as Serouch. As stated in the provided quote, Saruch was the father of Ragau, or Reu, as explained in the second-tier quote. Additionally, the third-tier source reveals that Phaleg, also known as Peleg, is identified as Heber or Eber. These intricate details enhance our understanding of the ancestral lineage and emphasize the significance of tracing one's roots.",
+        "wordCount": 76,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.0782303092210785,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.19,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Which was the son of Saruch,.... The Septuagint call him Serouch.\" (Luke 3:35)",
+            "which was the son of Ragau; so the Septuagint, the same with Reu.\" (Luke 3:35)",
+            "which was the son of Phaleg; the same with Peleg, Genesis 11:18 the Septuagint reads as here: 'which was the son of Heber', or Eber.\" (Luke 3:35)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The son of Serouch, also known as Saruch, was Ragau or Reu, which is mentioned in the Septuagint. Ragau's son was Phaleg or Peleg, who is also referred to as Heber or Eber in the Septuagint and Genesis 11:18. These genealogical details highlight the lineage and ancestry of the individuals mentioned in Luke 3:35.",
+            "wordCount": 53,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.599329528491045,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.77,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The genealogical account in Luke 3:35 reveals that Saruch, also known as Serouch, was the father of Ragau or Reu, as stated in the Septuagint. Moreover, Ragau was the father of Phaleg or Peleg, who is referred to as Heber or Eber in the Septuagint and Genesis 11:18. These intricate details provide insight into the lineage and ancestry of the individuals mentioned in this verse.",
+            "wordCount": 63,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 2.4395665319607938,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.46,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of Saruch, also known as Serouch, in the first-tier commentary, highlights the lineage presented in this passage. Ragau, known as Reu, is identified as the son of Serouch, drawing from the second-tier commentary. Additionally, the mention of Phaleg or Peleg, referred to as Heber or Eber, comes from the third-tier commentary and enriches our understanding of the family history being described. These connections help to illuminate the ancestral background of the individuals discussed.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.18113602774457,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.62,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tracing of lineage in Luke 3:35 sheds light on the generations that precede. The first-tier commentary mentions Saruch, who is also known as Serouch. Drawing from the second-tier commentary, Serouch is identified as the father of Ragau, or Reu. Additionally, the third-tier commentary highlights that Phaleg, also known as Peleg, is referred to as Heber or Eber. These ancestral connections deepen our understanding of the family history being depicted.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.151749612885373,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In examining the biblical account, we encounter the mention of Saruch, who is also referred to as Serouch. As stated in the provided quote, Saruch was the father of Ragau, or Reu, as explained in the second-tier quote. Additionally, the third-tier source reveals that Phaleg, also known as Peleg, is identified as Heber or Eber. These intricate details enhance our understanding of the ancestral lineage and emphasize the significance of tracing one's roots.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.0782303092210785,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.19,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

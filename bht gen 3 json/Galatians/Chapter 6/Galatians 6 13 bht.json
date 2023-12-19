@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:21:28",
+    "verseRef": "Galatians 6:13",
+    "bestBHT": {
+        "bht": "These proponents of circumcision, who themselves fail to keep the law, exhibit hypocrisy. Their focus on circumcision is driven by a desire to evade persecution and flaunt their external change, rather than a sincere commitment to the law. They selectively choose circumcision as a means to boast and seek acclaim, neglecting the weightier matters of the law such as judgment, mercy, and faith. Their insistence on circumcision exposes their insincerity and lack of genuine devotion to God's commands.",
+        "wordCount": 79,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.6349504754574955,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.95,
+        "commentatorTierSimilarities": [
+            35.89,
+            30.67,
+            33.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For (proof that they wish only to escape persecution) not even they who are being circumcised themselves keep the law...",
+            "But wish you to be circumcised, that in your flesh they may make their boast...",
+            "In this way they escaped the scandal of the Cross at the hands of the Jews, by making in fact their Christian converts into Jewish proselytes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For not even do they who submit to circumcision, keep the law themselves, but they wish you to be circumcised...\" (Galatians 6:13). ",
+            "They arbitrarily selected circumcision out of the whole law, as though observing it would stand instead of their non-observance of the rest of the law.\" ",
+            "That they may glory in your flesh, namely, in the outward change... which they have effected in bringing you over to their own Jewish-Christian party."
+        ],
+        "Albert Barnes": [
+            "Paul insists on it that if they were circumcised, and depended on that for salvation, they were under obligation to keep the whole law. But they did not.",
+            "No person perfectly observes the whole law of God.",
+            "They may glory in your flesh - In having you as converts, and in persuading you to be circumcised, that they may show their zeal for the Law, and thus escape persecution."
+        ],
+        "Marvin Vincent": [
+            "The persons referred to are the same as those in ver. 12. The participle tells nothing as to the antecedents of these persons, whether Jewish or heathen. It is general, those who are receiving circumcision.",
+            "Hence, if circumcision develops no justifying results, it is apparent that their insistence on circumcision proceeds not from moral, but from fleshly motives.",
+            "They desire only that you, like them, should make a fair show in the flesh."
+        ],
+        "John Calvin": [
+            "It is not from a strong attachment to the law that they bind you with the yoke of ceremonies; for, even with their own circumcision, they do not keep the law.",
+            "He rather insinuates against them a charge of insincerity, because, except when it suited their own designs, they found themselves at liberty to despise the law.",
+            "They wish to triumph over you, and to gratify their own desire of applause, by offering up your mutilated flesh to the false zealots of the law, as a token of peace and harmony."
+        ],
+        "Philip Schaff": [
+            "For not even they who are circumcised keep the law (in all its details, comp. Galatians 5:3).",
+            "The advocates of circumcision are not sincere in their zeal, but want to gratify their vanity in making proselytes.",
+            "Comp. Matthew 23:15."
+        ],
+        "Archibald T. Robertson": [
+            "They who receive circumcision.\" ",
+            "Those who are having themselves circumcised.",
+            "They who have been circumcised."
+        ],
+        "John Gill": [
+            "But neither they themselves that are circumcised,.... That is, the pleaders for, and preachers of circumcision, whether they themselves were actually circumcised, or not; it means those that were of the circumcision, on that side of the question, whether heartily or not.",
+            "These men were so zealous for the lighter matters of the law, the rites and ceremonies of it, as circumcision, c. they disregarded the weightier and more material parts of it, as judgment, mercy, and faith these they kept not, nor attended to.",
+            "Their view in bringing persons to submit to circumcision was, that they might have occasion to glory among the Jews, and boast to them of the numbers of proselytes they brought, and of the service they did to Judaism, and so increase their fame and glory among them."
+        ],
+        "John Wesley": [
+            "For neither they themselves keep the whole law \u2014 So far are they from a real zeal for it.",
+            "But yet they desire to have you circumcised, that they may glory in your flesh - That they may boast of you as their proselytes.",
+            "And make a merit of this with the other Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the hypocrisy of those who advocate for circumcision but do not keep the law themselves. They embrace circumcision as a superficial means to escape persecution and gain the approval of the Jews, boasting in the outward change it brings rather than embracing the true transformation of the heart. Their focus on circumcision is driven by vanity and a desire for personal glory, not a genuine zeal for God's law. They seek to bind others to the yoke of ceremonies so that they can triumph over them and receive applause. However, their insistence on circumcision reveals their insincerity and lack of true commitment to the law.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.4411988185805678,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.51,
+            "commentatorTierSimilarities": [
+                34.25,
+                30.26,
+                35.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These commentators point out the hypocrisy of those who advocate for circumcision but fail to uphold the entirety of the law. Their emphasis on circumcision is driven not by genuine zeal for God's commandments, but by a desire to escape persecution and boast in their outward conformity. Their focus on the physical act of circumcision reveals their insincerity and lack of true commitment. They seek to bind others with ceremonies, using them as a means to display their own glory, rather than fostering a genuine transformation of the heart.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3577741235542664,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.74,
+            "commentatorTierSimilarities": [
+                34.55,
+                30.7,
+                34.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals who promote circumcision while failing to keep the law themselves expose their hypocrisy. Their insistence on circumcision is not motivated by a genuine attachment to the law, but by a desire to show off and gain favor among the Jews. They prioritize external appearances, seeking praise and glory for their ability to convert others to their Jewish-Christian party. By focusing on circumcision, they divert attention from the weightier matters of the law and neglect true righteousness, mercy, and faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.4391850474132593,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.44,
+            "commentatorTierSimilarities": [
+                34.99,
+                30.11,
+                34.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals who advocate for circumcision, yet fail to uphold the entirety of the law, reveal their hypocrisy. Their emphasis on circumcision is not driven by a genuine commitment to God's commandments, but rather by a desire to escape persecution and boast in outward appearances. They seek to bind others to ceremonial practices, using them as a means to generate personal glory. However, their insistence on circumcision exposes their insincerity and lack of true dedication to the law.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.431399644214517,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.18,
+            "commentatorTierSimilarities": [
+                34.97,
+                30.76,
+                34.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These proponents of circumcision, who themselves fail to keep the law, exhibit hypocrisy. Their focus on circumcision is driven by a desire to evade persecution and flaunt their external change, rather than a sincere commitment to the law. They selectively choose circumcision as a means to boast and seek acclaim, neglecting the weightier matters of the law such as judgment, mercy, and faith. Their insistence on circumcision exposes their insincerity and lack of genuine devotion to God's commands.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.6349504754574955,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.95,
+            "commentatorTierSimilarities": [
+                35.89,
+                30.67,
+                33.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

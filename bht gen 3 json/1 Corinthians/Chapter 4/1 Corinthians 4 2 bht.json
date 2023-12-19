@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:02:59",
+    "verseRef": "1 Corinthians 4:2",
+    "bestBHT": {
+        "bht": "Faithfulness is essential for stewards, whether in earthly matters or in serving as God's steward. While stewards on earth are subject to investigation, God's steward does not await judgment from man but from the Lord's coming. Hence, fidelity is the fundamental requirement in all human relationships, demanding honesty and trustworthiness in handling responsibilities. The emphasis is on serving the Lord, not seeking the approval or glory of men. It is not sufficient to merely hold the position of a steward; one must display upright stewardship and a genuine devotion to serving God and advancing Christ's kingdom.",
+        "wordCount": 100,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 2.0526220799317407,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+        "commentatorTierSimilarities": [
+            28.63,
+            37.5,
+            33.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Moreover it is required in (the case of) stewards (literally, it is sought for: enquiry is made in the case of stewards) here [on earth]... that a man be found (proved to be) faithful.\" ",
+            "Though in the case of stewards enquiry was necessarily made here below, yet he, God\u2019s steward, awaited no such enquiry from the day of man's judgment, but one at the coming of the Lord.",
+            "He, God's steward, awaited no such enquiry from the day of man's judgment, but one at the coming of the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though here below, in the case of stewards, inquiry is made, that one man be found (that is, proved to be) faithful; yet God's steward awaits no such judgment of man, in man's day, but the Lord's judgment in His great day.\" ",
+            "Another argument against the Corinthians for their partial preferences of certain teachers for their gifts: whereas what God requires in His stewards is faithfulness.\" ",
+            "God's stewards await not man's judgment to test them, but the testing which shall be in the day of the Lord."
+        ],
+        "Albert Barnes": [
+            "The fidelity required of stewards seems to be adverted to here, in order to show that the apostles acted from a higher principle than a desire to please man, or to be regarded as at the head of a party...\" ",
+            "Eminently in that office fidelity is required as an indispensable and cardinal virtue. Fidelity to the master, faithfulness to his trust, as the virtue which by way of eminence is demanded there.\" ",
+            "A minister should be faithful for obvious reasons. Because: ..."
+        ],
+        "Marvin Vincent": [
+            "It is required [\u03b6\u03b7\u03c4\u03b5\u03b9\u03c4\u03b1\u03b9] . Lit., it is sought for; thus agreeing with found in the following clause."
+        ],
+        "John Calvin": [
+            "It is not enough to be a steward if there be not an upright stewardship.",
+            "In his view, it is not even enough that there is a legitimate call, unless the person who is called conducts himself in the office with fidelity.",
+            "For every one that teaches the truth is not necessarily faithful, but only he who desires from the heart to serve the Lord and advance Christ's kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "Here (\u03c9\u03b4\u03b5). Either here on earth or in this matter. It is always local.",
+            "Moreover (\u03bb\u03bf\u03b9\u03c0\u03bf\u03bd). Like \u03bb\u03bf\u03b9\u03c0\u03bf\u03bd in 1 Corinthians 1:16 which see, accusative of general reference, as for what is left, besides.",
+            "Fidelity is the essential requirement in all such human relationships, in other words, plain honesty in handling money like bank-clerks or in other positions of trust like public office."
+        ],
+        "John Gill": [
+            "Moreover, it is required in stewards... that a man be found faithful.\" ",
+            "... which is his greatest glory, when he preaches the pure Gospel of Christ without any human mixtures.",
+            "... when he seeks not to please men, but God; and not his own glory, and the applause of men, but the honour of Christ, and the good of souls."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 4:2, it is emphasized that faithfulness is of utmost importance for stewards of God. While earthly stewards are subject to human judgment, God's steward is not to await the judgment of man, but rather the judgment of the Lord's great day when he will be tested. Fidelity is the essential requirement in all human relationships, demanding plain honesty and trustworthiness. The fidelity required of stewards is not merely to please man or seek personal glory, but to faithfully serve the Lord and advance Christ's kingdom. Therefore, it is not enough to hold the title of a steward; one must conduct themselves in the office with upright stewardship and a sincere desire to serve God and fulfill their calling.",
+            "wordCount": 122,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 2.1196771272583987,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.82,
+            "commentatorTierSimilarities": [
+                27.46,
+                38.71,
+                33.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the context of stewardship, faithfulness is a fundamental requirement. While stewards on earth are subject to human scrutiny, God's steward awaits judgment not from man, but from the Lord's great day. This emphasizes the need for honesty and trustworthiness in all relationships. It is crucial for stewards to faithfully serve God and advance His kingdom, rather than seeking personal glory or the approval of others. Merely holding the title of a steward is insufficient; one's conduct and sincere desire to serve God are of utmost importance.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.9693838157142798,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                28.49,
+                38.69,
+                32.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fidelity is a crucial requirement for stewards. Although on earth, stewards are subject to scrutiny, God's steward awaits judgment not from man, but from the Lord's great day. This highlights the importance of honesty and trustworthiness in all relationships. It is vital for stewards to faithfully serve God and advance His kingdom, rather than seeking personal glory or the approval of others. Merely holding the title of a steward is inadequate; conduct and a sincere desire to serve God are essential.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9808166193952108,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                27.81,
+                40.09,
+                32.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faithfulness is essential for stewards, whether in earthly matters or in serving as God's steward. While stewards on earth are subject to investigation, God's steward does not await judgment from man but from the Lord's coming. Hence, fidelity is the fundamental requirement in all human relationships, demanding honesty and trustworthiness in handling responsibilities. The emphasis is on serving the Lord, not seeking the approval or glory of men. It is not sufficient to merely hold the position of a steward; one must display upright stewardship and a genuine devotion to serving God and advancing Christ's kingdom.",
+            "wordCount": 100,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.0526220799317407,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                28.63,
+                37.5,
+                33.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In stewardship, faithfulness is required. While earthly stewards are subject to inquiry and judgment, God's stewards await no such judgment from man but the Lord's coming. Fidelity is essential in all human relationships, emphasizing honesty and trustworthiness. Stewards should serve the Lord, not seeking human approval or personal glory. Holding the stewardship title alone is insufficient; one must conduct themselves with upright stewardship and a genuine desire to serve the Lord and promote Christ's kingdom.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9420226910012255,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+            "commentatorTierSimilarities": [
+                25.49,
+                40.53,
+                33.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

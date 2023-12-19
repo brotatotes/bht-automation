@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:31:32",
+    "verseRef": "Acts 15:5",
+    "bestBHT": {
+        "bht": "Passing through Phenice and Samaria, the believers brought great joy to the brethren by proclaiming the conversion of the Gentiles. This triumph saved Christianity from the bondage of Jewish ceremonialism. Paul and John, the great spirits in Christian history, stood firm against Judaizers and compromisers, with Paul specifically defending the inclusion of Gentiles in the Church. The party in Jerusalem sought to impose Jewish rites on the converts, but Paul held his ground in emphasizing that the fulfillment of the law lies in Christ alone.",
+        "wordCount": 85,
+        "quoteTokenProportion": 27.12,
+        "qualityScore": 1.895175900505871,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.36,
+        "commentatorTierSimilarities": [
+            38.13,
+            31.92,
+            29.94
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Being brought on their way by the church\u2014a kind of official escort.",
+            "They passed through Phenice and Samaria, declaring the conversion of the Gentiles, and they caused great joy to the brethren.",
+            "As the converts in those parts were Jewish, their spirit contrasts favorably with that of others of their nation."
+        ],
+        "Albert Barnes": [
+            "The correct exposition is probably what refers it to the latter.",
+            "The use of the words 'rose up' implies that.",
+            "It would seem here as if this party in Jerusalem resolved still to abide by the Law, and to impose those rites on the Christian converts."
+        ],
+        "Marvin Vincent": [
+            "Arose. In the assembly. ",
+            "Sect. See on heresies, 2 Peter 2:1."
+        ],
+        "John Calvin": [
+            "For though they had given Christ their names, yet there remained relics of their former nature.",
+            "We know how proud the Pharisees were, how haughty, how lofty their looks were.",
+            "They were likewise puffed up with pride, so that they did tyrannously covet to make all other men subject to their decrees."
+        ],
+        "Philip Schaff": [
+            "He, on the other hand, was giving his lifework to show that the work and office of the chosen people was a thing of the past, was labouring to merge the Church of Israel in the Church of the world, was using all his vast learning and powers to prove that the found and cherished Messiah belonged to the Isles of the Gentiles as much as He did to the Holy Land of Promise...",
+            "These striking differences in the great Jewish schools at this period are well shown in Josephus (Ant. xx. 2 ), when, in the story of the conversion to Judaism of Izates King of Adiabene, the king\u2019s teacher Ananias instructed him \u2018that he might become a Jew without submitting to circumcision, and that if he worshipped God he performed the really important duty of the law;\u2019 but another strict and zealous doctor, Eleazar, the same history tells us, said to King Izates, \u2018How long wilt thou continue uncircumcised? hast thou not read what the law says concerning circumcision? art thou not aware of how great impiety thou art guilty by neglecting it?\u2019",
+            "Rabbi Hillel, on the other hand, threw the weight of his great influence into the counsels of the more moderate Jews. \u2018Love all men,\u2019 once said this famous rabbi, \u2018and bring all men into fellowship with the law; do not do to another what thou wouldst be unwilling should be done to thee. This is the whole law; everything else is only a comment on it.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "It was a diplomatic triumph of the first order and saved Christianity from the bondage of Jewish ceremonial sacramentalism.",
+            "So far as we know this is the only time that Paul and John met face to face, the great spirits in Christian history after Jesus our Lord.",
+            "Titus as a Greek was a red flag to the Judaizers and to the compromisers, but Paul stood his ground."
+        ],
+        "John Gill": [
+            "Which was the strictest sect of religion among the Jews.",
+            "The observance of which they reckoned was absolutely necessary to salvation.",
+            "Certain Pharisees that came thither from Judea, rose up and asserted the necessity of the Gentiles being circumcised, and of their keeping the law of Moses in order to their being saved."
+        ],
+        "John Wesley": [
+            "For even believers are apt to retain their former turn of mind, and prejudices derived therefrom.",
+            "The law of Moses \u2014 The whole law, both moral and ritual."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers, being brought on their way by the church, traveled through Phenice and Samaria, declaring the conversion of the Gentiles and causing great joy to the brethren. This was a remarkable occasion that proved to be a diplomatic victory in saving Christianity from the bondage of Jewish ceremonial sacramentalism. Paul and John, two great spirits in Christian history, stood their ground amidst opposition. The party in Jerusalem sought to impose the rites of the law on the Christian converts, while Paul worked tirelessly to merge the Church of Israel with the Church of the world and showed that the Messiah belonged to all nations. It is important to remember that even believers can retain their former mindset and prejudices, but the fulfillment of the law lies in Christ alone.",
+            "wordCount": 130,
+            "quoteTokenProportion": 31.76,
+            "qualityScore": 1.822625836945285,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.94,
+            "commentatorTierSimilarities": [
+                36.28,
+                30.88,
+                32.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The believers, brought on their way by the church, journeyed through Phenice and Samaria, bringing joy to the brethren with their message of the conversion of the Gentiles. This triumph saved Christianity from the bondage of Jewish ceremonialism. Paul and John, significant figures in Christian history, faced opposition from those who sought to impose the rites of the law on the converts. However, Paul remained steadfast, emphasizing that the fulfillment of the law lies in Christ alone.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.7537560396407912,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+            "commentatorTierSimilarities": [
+                37.11,
+                28.05,
+                34.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers, being brought on their way by the church, passed through Phenice and Samaria, causing great joy to the brethren as they declared the conversion of the Gentiles. This was a diplomatic triumph that saved Christianity from the bondage of Jewish ceremonial sacramentalism. Paul and John, the great spirits in Christian history, stood their ground against Judaizers and compromisers. The party in Jerusalem sought to impose the rites of the law on the Christian converts, but Paul remained firm in his conviction that the work of the chosen people was a thing of the past, and that the Messiah belonged to all nations.",
+            "wordCount": 104,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.9494617346555594,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.16,
+            "commentatorTierSimilarities": [
+                38.51,
+                30.55,
+                30.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Passing through Phenice and Samaria, the believers brought great joy to the brethren by proclaiming the conversion of the Gentiles. This triumph saved Christianity from the bondage of Jewish ceremonialism. Paul and John, the great spirits in Christian history, stood firm against Judaizers and compromisers, with Paul specifically defending the inclusion of Gentiles in the Church. The party in Jerusalem sought to impose Jewish rites on the converts, but Paul held his ground in emphasizing that the fulfillment of the law lies in Christ alone.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.895175900505871,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.36,
+            "commentatorTierSimilarities": [
+                38.13,
+                31.92,
+                29.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers, accompanied by the church, brought joy to the brethren as they proclaimed the conversion of the Gentiles while passing through Phenice and Samaria. This momentous occasion saved Christianity from the constraints of Jewish ceremonialism. Paul and John, renowned figures in Christian history, resolutely stood up against Judaizers and compromisers. Though some in Jerusalem sought to impose Jewish rites on the converts, Paul firmly defended the notion that the fulfillment of the law is found solely in Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7744882440591012,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                37.05,
+                30.71,
+                32.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

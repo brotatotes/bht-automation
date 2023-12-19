@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:23:47",
+    "verseRef": "Luke 23:27",
+    "bestBHT": {
+        "bht": "The women in the crowd at the crucifixion, though not the devoted Galilean women, showed a natural sympathy by lamenting the cruel and shameful death of Jesus. Luke's Gospel, known as the Gospel of Womanhood, emphasizes the absence of hostile women towards Christ. Their grief, expressed through loud crying and lamentation, reveals a hidden seed of piety that would bear fruit in time. This event illustrates God's active judgment against wickedness and reinforces the genuine concern and sorrow for Jesus' unjust death.",
+        "wordCount": 84,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.2517456449417972,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.96,
+        "commentatorTierSimilarities": [
+            31.16,
+            21.55,
+            47.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "27-31. women\u2014not the precious",
+            "\tGalilean women (Luke 23:49), but",
+            "\tpart of the crowd."
+        ],
+        "John Calvin": [
+            "And though the faith of those women was weak, yet it is probable that there was a hidden seed of piety, which afterwards in due time produced fruit.",
+            "Luke\u2019s design was to inform us, that when the wickedness of men breaks out into unrestrained disorder, God does not indolently look on, but sits as a judge in heaven, to punish them soon for their unjust cruelty.",
+            "We ought not to despise his vengeance, because he delays it till the proper time, but that we ought to dread it before he appears."
+        ],
+        "Philip Schaff": [
+            "The ordinary crowd at an execution.",
+            "Such a crowd would be largely made up of women.",
+            "This does not of itself indicate any real attachment to Him. It was the natural sympathy usual to the sex at such a time."
+        ],
+        "Archibald T. Robertson": [
+            "In the Gospels there is no instance of a woman being hostile to Christ\" (Plummer).",
+            "Luke's Gospel is appropriately called the Gospel of Womanhood\" (Luke 1:39-56; Luke 2:36-38; Luke 7:11-15; Luke 7:37-50; Luke 8:1-3; Luke 10:38-42; Luke 11:27; Luke 13:11-16).",
+            "Lamented (\u03b5\u03b8\u03c1\u03b7\u03bd\u03bf\u03c5\u03bd). Imperfect active of \u03b8\u03c1\u03b7\u03bd\u03b5\u03c9, old verb from \u03b8\u03c1\u03b5\u03bf\u03bc\u03b1, to cry aloud, lament."
+        ],
+        "John Gill": [
+            "those that are executed by the sanhedrim, \u05de\u05ea\u05d0\u05d1\u05dc\u05d9\u05df \u05e2\u05dc\u05d9\u05d4\u05df \u05d0\u05d9\u05df, 'they do not mourn for them'; but their near relations come and ask the peace of, or salute the witnesses, and they salute the judges, to show, that they have not any thing in their hearts against them, seeing they have passed a true sentence; but though they do not use mourning, lo, they grieve for them; for there is no grief but in the heart.",
+            "all that are put to death by the government, although they are executed by the order of the king, and the law gives power to slay them, lo, 'they mourn for them'; and they do not restrain any thing from them, and their substance goes to the king, and they are buried in the sepulchres of their fathers; but all that are put to death by the sanhedrim, 'they do not mourn for them'; but they grieve for them; for there is no grief but in the heart; and they are not buried with their fathers, till their flesh is consumed; and their substance goes to their heirs.",
+            "some expressed their concern and sorrow through a natural tenderness of spirit, and from a principle of humanity, being grieved that so useful and innocent a person, as Christ appeared to be, should be put to such a cruel and shameful death; and others from a spirit of gratitude, they, or their friends, having received cures from him, being healed by him of sicknesses, or dispossessed of devils; and others from a spiritual, as well as natural affection for him; among whom were his own mother and his mother's sister, and Mary Magdalene, and other women that followed him out of Galilee."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the crucifixion, the women in the crowd, though not necessarily His devoted followers, were moved to lament and mourn for Jesus. This is in line with Luke's emphasis on womanhood throughout his gospel and the absence of instances of women displaying hostility towards Jesus. These women, though their faith may have been weak, showed a hidden seed of piety that would later bear fruit. It is important to note that even in the face of wickedness and cruelty, God does not idly stand by, but sits as a judge in heaven, ready to deliver his vengeance in due time. The grief expressed by the women, whether through tenderness of spirit, gratitude for past miracles, or spiritual affection for Jesus, reveals their genuine concern and sorrow for His unjust death.",
+            "wordCount": 131,
+            "quoteTokenProportion": 37.23,
+            "qualityScore": 1.2265694025621334,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.13,
+            "commentatorTierSimilarities": [
+                26.97,
+                21.77,
+                51.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The women in the crowd at the crucifixion, not necessarily His devoted followers, demonstrated a natural sympathy and lamented the cruel and shameful death of Jesus. Luke's emphasis on womanhood throughout his Gospel aligns with the absence of women displaying hostility towards Jesus. Although these women may have had weak faith, they possessed a hidden seed of piety that would eventually produce fruit. This event highlights that God does not passively observe wickedness but rather sits as a judge in heaven, prepared to punish cruel acts. The sincere grief expressed by the women reveals their genuine concern and sorrow for the unjust death of Jesus.",
+            "wordCount": 106,
+            "quoteTokenProportion": 35.8,
+            "qualityScore": 1.257855744548868,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.17,
+            "commentatorTierSimilarities": [
+                27.34,
+                23.91,
+                48.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The women in the crowd at the crucifixion, though not the devoted Galilean women, lamented the cruel death of Jesus. Luke's Gospel highlights the absence of women being hostile to Christ, reflecting its title as the Gospel of Womanhood. The Greek word for lamented indicates a loud crying and lamentation. These women, with their weak faith, nevertheless showed a hidden seed of piety that would bear fruit in due time. This event demonstrates that God does not passively watch, but judges and punishes unjust cruelty.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.1984019754597375,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.19,
+            "commentatorTierSimilarities": [
+                33.48,
+                22.5,
+                44.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The women in the crowd at the crucifixion, though not the devoted Galilean women, lamented the cruel death of Jesus. Luke's Gospel highlights the absence of women being hostile to Christ. The Greek word for lamented suggests a loud crying and lamentation. These women, with their weak faith, revealed a hidden seed of piety that would bear fruit in due time. This event demonstrates God's active judgment against unjust cruelty, prompting genuine concern and sorrow for Jesus' unjust death.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.2076156369562392,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.5,
+            "commentatorTierSimilarities": [
+                35.61,
+                20.54,
+                43.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The women in the crowd at the crucifixion, though not the devoted Galilean women, showed a natural sympathy by lamenting the cruel and shameful death of Jesus. Luke's Gospel, known as the Gospel of Womanhood, emphasizes the absence of hostile women towards Christ. Their grief, expressed through loud crying and lamentation, reveals a hidden seed of piety that would bear fruit in time. This event illustrates God's active judgment against wickedness and reinforces the genuine concern and sorrow for Jesus' unjust death.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.2517456449417972,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.96,
+            "commentatorTierSimilarities": [
+                31.16,
+                21.55,
+                47.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

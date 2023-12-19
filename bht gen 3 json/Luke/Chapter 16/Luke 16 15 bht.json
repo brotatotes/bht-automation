@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:20:38",
+    "verseRef": "Luke 16:15",
+    "bestBHT": {
+        "bht": "They justify themselves before men, putting on a show of righteousness, but God sees through their pretense. Even though they may be esteemed highly by others, their supposed righteousness is an abomination to God. Jesus scorns their pious pretensions, exposing the hidden vices they conceal. Their pride and justification of themselves only feeds covetousness and derides the Gospel. While they may think themselves righteous and convince others of likewise, God knows their hearts and views their actions as detestable.",
+        "wordCount": 79,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.9224471280671231,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+        "commentatorTierSimilarities": [
+            22.02,
+            41.27,
+            36.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Justify yourselves before men\u2014a contrast to 'I have sinned before thee,' ch. xv. 18.",
+            "Abomination in the sight of God, to 'joy in the presence of the angels of God,' ch. xv. 10."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15. justify yourselves\u2014make a",
+            "\tshow of righteousness. ",
+            "\t",
+            "highly esteemed among",
+            "\tmen\u2014generally carried away by plausible appearances. (See",
+            "\t1 Samuel 16:7; Luke 14:11)."
+        ],
+        "Marvin Vincent": [
+            "Abomination. See on Matthew 24:15."
+        ],
+        "John Calvin": [
+            "Christ affirms that this venom breaks out from a concealed ulcer; just as if one were to tell the mitred prelates of our own day, that their hostility to the Gospel arises from the severity with which it attacks their hidden vices.",
+            "But God knoweth your hearts...God, who knoweth the hearts, is well acquainted with the vices which they conceal from the view of the world.",
+            "What is highly esteemed by men is abomination in the sight of God...Christ pronounces that they are not only vain and worthless, but are even detestable."
+        ],
+        "Philip Schaff": [
+            "Ye are they that justify yourselves, declare yourselves to be righteous in the sight of men; but God knoweth your hearts.",
+            "For that which is lofty among men, i.e., considered so by men, is abomination in the sight of God.",
+            "Because He knows the heart, He judges differently from men, and precisely what men regard most highly He regards least."
+        ],
+        "Archibald T. Robertson": [
+            "They were past-masters at that and were doing it now by upturned noses.",
+            "An abomination in the sight of God.",
+            "There is withering scorn in the use of this phrase by Jesus to these pious pretenders."
+        ],
+        "John Gill": [
+            "Ye are they which justify yourselves before men... but God knoweth your hearts.\" ",
+            "What is highly esteemed among men... is abomination in the sight of God.",
+            "Their zeal for the ceremonies of the law, and the traditions of the elders."
+        ],
+        "John Wesley": [
+            "Ye are they who justify yourselves before men.",
+            "Pride, wherewith you justify yourselves, feeds covetousness, derides the Gospel, and destroys the law.",
+            "Ye think yourselves righteous, and persuade others to think you so."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These individuals are experts at justifying themselves in the eyes of men, but Jesus exposes the truth about their hearts. Though they may be highly esteemed among men, their righteousness is an abomination in the sight of God. Their piety is merely a fa\u00e7ade, as Jesus scorns their pretentiousness. They try to hide their vices from the world, but God knows their hearts and sees the detestable nature of their actions. What men consider praiseworthy, God regards as shameful. These individuals may think themselves righteous and persuade others to think the same, but in reality, their pride only feeds covetousness and derides the Gospel.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.958636527468403,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                18.83,
+                46.01,
+                35.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They justify themselves before men, putting on a show of righteousness, but God sees through their pretense. Even though they may be esteemed highly by others, their supposed righteousness is an abomination to God. Jesus scorns their pious pretensions, exposing the hidden vices they conceal. Their pride and justification of themselves only feeds covetousness and derides the Gospel. While they may think themselves righteous and convince others of likewise, God knows their hearts and views their actions as detestable.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9224471280671231,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                22.02,
+                41.27,
+                36.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals justify themselves before men, making a show of righteousness, but in reality, their actions are an abomination in the sight of God. Their pretentiousness is met with withering scorn from Jesus, who exposes their hidden vices. They may be highly esteemed among men, but God knows their hearts and their true intentions. Their prideful justification feeds covetousness and dismisses the message of the Gospel. Despite their efforts to appear righteous, they can't hide from the discerning eyes of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8832846769335485,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                20.01,
+                43.43,
+                36.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals are masters at justifying themselves before men, putting on an outward display of righteousness. However, their actions are detestable to God, and Jesus scorns their pious pretenses. While they may be highly esteemed by others, in reality, their hearts are known by God, who sees through their fa\u00e7ade. Their prideful self-justification only serves to feed covetousness and undermines the significance of the Gospel. Whether they deceive themselves or others, they cannot escape the scrutiny of God and the truth about their true intentions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.748102343090304,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                18.51,
+                43.5,
+                37.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These self-righteous individuals excel at justifying themselves in front of others, earning the admiration of men. However, Jesus reveals the truth about their hearts, exposing the hollowness of their righteous fa\u00e7ade. Despite their high standing among people, their actions are an abomination to God. Jesus employs scathing language to condemn their hypocritical nature. Their attempt to hide their vices from the world is futile, as God sees beyond their outward appearance. What may be considered praiseworthy by society is deemed detestable by God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.7507117190290802,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.55,
+            "commentatorTierSimilarities": [
+                20.88,
+                44.42,
+                34.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:14:28",
+    "verseRef": "Luke 2:40",
+    "bestBHT": {
+        "bht": "As the child Jesus grew in stature, His soul also grew in wisdom in proportion to His bodily growth, as the divine nature revealed its own wisdom. His mental development and the grace of God manifested, as He became a solitary flower, blossoming at twelve years of age. This growth was a perfect humanity developing perfectly, unimpeded by any defects. Jesus set an example for all children, being subject to His parents, increasing in favor with God and man.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.1473355243936467,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+        "commentatorTierSimilarities": [
+            28.2,
+            40.76,
+            31.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The body advances in stature, and the soul in wisdom... the divine nature revealed its own wisdom in proportion to the measure of the bodily growth.\" ",
+            "Becoming filled: see ver. 52 and note there.",
+            "The divine nature revealed its own wisdom in proportion to the measure of the bodily growth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His mental development kept pace with His bodily, and 'the grace of God,' the divine favor, rested manifestly and increasingly upon Him.\" ",
+            "Solitary flowered out of the wonderful enclosed garden of the thirty years, plucked precisely there where the swollen bud, at a distinctive crisis (at twelve years of age), bursts into flower.\" ",
+            "To mark that is assuredly the design and the meaning of this record."
+        ],
+        "Albert Barnes": [
+            "Jesus had a human soul, and that soul was subject to all the proper laws of a human spirit. It therefore increased in knowledge, strength, and character.",
+            "He was wise, pure, pleasing God, and deeply skilled in the knowledge of the divine law.",
+            "He set a lovely example for all children; was subject to his parents, and increased in favor with God and man."
+        ],
+        "Marvin Vincent": [
+            "The Jews marked the stages of a child's development by nine different terms.",
+            "The child becoming firm and strong.",
+            "The ripened one, or warrior."
+        ],
+        "John Calvin": [
+            "Christ received, in his human nature, according to his age and capacity, an increase of the free gifts of the Spirit, that 'out of his fullness' he may pour them out upon us; for we draw grace out of his grace.",
+            "There is no doubt whatever, that it was the design of God to express in plain terms, how truly and completely Christ, in taking upon him our flesh, did all that was necessary to effect his brotherly union with men.",
+            "Luke thus declares, that whatever wisdom exists among men, and receives daily accessions, flows from that single fountain, from the Spirit of God."
+        ],
+        "Philip Schaff": [
+            "Growth of body is mentioned first, a point not to be overlooked.",
+            "Our Lord in His genuine human development, grew strong as he grew in body, had a healthy physical growth.",
+            "This being filled with wisdom was an increase of knowledge in proportion to His physical growth, including... an increasing consciousness of God as His Father, an awakening of His own divine-human consciousness."
+        ],
+        "Archibald T. Robertson": [
+            "The intellectual, moral, and spiritual growth of the Child, like the physical, was real. His was a perfect humanity developing perfectly, unimpeded by hereditary or acquired defects.\" ",
+            "It was the first instance of such a growth in history. For the first time a human infant was realizing the ideal of humanity.\" ",
+            "The grace of God... In full measure."
+        ],
+        "John Gill": [
+            "In body, in strength, and in stature; which shows that it was a true body Christ assumed, and like ours, which did not come to its maturity at once, but by degrees.",
+            "His understanding was clear, his judgment solid, and his memory strong and retentive, his will, and the desires of it, were to that which is good, and his affections cleaved unto it.",
+            "Filled with wisdom; and knowledge as man...in which he increased gradually, as his body grew, and the faculties of his soul opened under the influences of his deity, and the power of his Spirit."
+        ],
+        "John Wesley": [
+            "And the child grew...and waxed strong in spirit - The powers of his human mind daily improved; filled with wisdom...",
+            "By the light of the indwelling Spirit, which gradually opened itself in his soul...",
+            "the grace of God was upon him - That is, the peculiar favour of God rested upon him, even as man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the child Jesus grew in stature, His soul also grew in wisdom, for the divine nature revealed its own wisdom in proportion to the measure of His bodily growth. His mental and spiritual development kept pace with His physical growth, and the grace of God rested manifestly and increasingly upon Him. It was a perfect humanity developing perfectly, unimpeded by any defects, and He became a solitary flower, bursting into full bloom at the distinctive crisis of twelve years of age. This growth was unprecedented in history, as for the first time a human infant was realizing the ideal of humanity. In this way, Jesus set a lovely example for all children, being subject to His parents and increasing in favor with God and man.",
+            "wordCount": 126,
+            "quoteTokenProportion": 34.52,
+            "qualityScore": 2.154335224748557,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                28.33,
+                40.37,
+                31.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the child Jesus grew in stature, His soul also grew in wisdom in proportion to His bodily growth, as the divine nature revealed its own wisdom. His mental development and the grace of God manifested, as He became a solitary flower, blossoming at twelve years of age. This growth was a perfect humanity developing perfectly, unimpeded by any defects. Jesus set an example for all children, being subject to His parents, increasing in favor with God and man.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1473355243936467,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+            "commentatorTierSimilarities": [
+                28.2,
+                40.76,
+                31.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the child Jesus grew in stature, His soul also grew in wisdom, for the divine nature revealed its own wisdom in proportion to the measure of His bodily growth. His mental and spiritual development kept pace with His physical growth, and the grace of God rested manifestly and increasingly upon Him. It was a perfect humanity developing perfectly, unimpeded by any defects, and He became a solitary flower, bursting into full bloom at the distinctive crisis of twelve years of age. This growth was unprecedented in history, as for the first time a human infant was realizing the ideal of humanity. In this way, Jesus set a lovely example for all children, being subject to His parents and increasing in favor with God and man.",
+            "wordCount": 126,
+            "quoteTokenProportion": 34.52,
+            "qualityScore": 2.154335224748557,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                28.33,
+                40.37,
+                31.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus grew in stature, His soul also expanded in wisdom, as the divine nature revealed its own wisdom proportionate to His bodily growth. His mental development paralleled His physical growth, and the grace of God increasingly rested upon Him. It was a remarkable case of perfect humanity unfolding flawlessly, unhindered by any hereditary or acquired flaws. This growth marked a significant milestone in history, as Jesus became the embodiment of the ideal human being. He served as a splendid example by submitting to His parents and gaining favor with God and man.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.0779490050090583,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.43,
+            "commentatorTierSimilarities": [
+                27.39,
+                41.0,
+                31.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus grew in stature, His soul also grew in wisdom, as the divine nature revealed its own wisdom in proportion to the measure of His bodily growth. His mental development and the grace of God rested manifestly and increasingly upon Him. This growth was a perfect humanity developing perfectly, unimpeded by any defects. Jesus set an example for all children, being subject to His parents and increasing in favor with God and man. His growth marked a significant milestone in the history of humanity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.0933021794426985,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                28.54,
+                41.61,
+                29.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

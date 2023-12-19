@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:16:12",
+    "verseRef": "2 Corinthians 5:11",
+    "bestBHT": {
+        "bht": "As ministers, it is crucial for us to use the fear of the Lord to persuade men, not to rouse enmity. We must be conscious of the fear of the Lord and convince others of our integrity. We try to persuade through the best arguments from the Word of God and our personal experiences, seeking the glory of God and the good of souls.",
+        "wordCount": 64,
+        "quoteTokenProportion": 42.5,
+        "qualityScore": 2.2161247147793697,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.03,
+        "commentatorTierSimilarities": [
+            38.27,
+            31.27,
+            30.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The fear of the Lord.",
+            "Ministers should use the terrors of the Lord to persuade men, not to rouse their enmity.",
+            "It is as knowing the terror (or fear) of the Lord that we persuade men."
+        ],
+        "Albert Barnes": [
+            "The knowledge that there would be a judgment, and that the wicked would be sent to hell, was a powerful motive for Paul to endeavor to 'persuade' people to escape from wrath.\" ",
+            "To declaim constantly on hell-fire and perdition; to appeal merely to the fears of people, is not the way in which Paul and the Saviour preached the gospel.",
+            "The true effect is, to produce tenderness, deep feeling, and love; to prompt to the language of persuasion and of tender entreaty; to lead people to weep over dying sinners rather than to denounce them."
+        ],
+        "Marvin Vincent": [
+            "Not that which is terrible in the Lord, but being conscious of fearing the Lord.\" ",
+            "Convince of our integrity."
+        ],
+        "John Calvin": [
+            "To know the terror of the Lord, then, is to be influenced by this consideration \u2014 that an account must one day be rendered before the judgment-seat of Christ; for the man who seriously considers this must of necessity be touched with fear, and shake off all negligence.",
+            "It is not enough that an individual conducts himself honorably and assiduously among men if his heart is not right in the sight of God.",
+            "Let the man who would have credit given him bring forward such works as may afford confirmation to his statements."
+        ],
+        "Philip Schaff": [
+            "Knowing therefore the fear of the Lord the Lord Christ who is to be our Judge, we (in the exercise of our ministry) persuade men.",
+            "We are made manifest unto God (who knoweth our hearts), and I hope that we are made manifest also in your consciences.",
+            "To [your consciences] we willingly leave all charges against ourselves and our work."
+        ],
+        "Archibald T. Robertson": [
+            "The fear of the Lord (\u03c4\u03bf\u03bd \u03c6\u03bf\u03b2\u03bf\u03bd \u03c4\u03bf\u03c5 \u039a\u03c5\u03c1\u03b9\u03bf\u03c5). Many today regard this a played-out motive, but not so Paul.",
+            "We persuade (\u03c0\u03b5\u03b9\u03b8\u03bf\u03bc\u03b5\u03bd). Conative present active, we try to persuade. It is always hard work.",
+            "Unto God (\u03b8\u03b5\u03c9). Dative case. God understands whether men do or not."
+        ],
+        "John Gill": [
+            "Knowing therefore the terror of the Lord,.... Or the fear of the Lord; by which is meant either the grace of the fear of the Lord, implanted in the hearts of the apostles",
+            "They endeavour to persuade them by the best arguments they are masters of, taken from the word of God, and their own experience",
+            "we can appeal to him that it is his glory, and the good of souls, we have in view in all our ministrations"
+        ],
+        "John Wesley": [
+            "Knowing therefore the terror of the Lord, we the more earnestly persuade men to seek his favour.\" ",
+            "And as God knoweth this, so, I trust, ye know it in your own consciences."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As ministers, it is crucial for us to use the fear of the Lord as a means of persuasion instead of inciting hostility. We are aware of the terror that exists within the Lord, but it is not a fear that instills dread. It is a conscious reverence and understanding of fearing the Lord. Our aim is to convince others of our integrity and ultimately to persuade them by relying on the best arguments from the Word of God and our personal experiences. We are not simply seeking to win the favor of men, but we are earnestly seeking the glory of God and the good of souls.",
+            "wordCount": 108,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.077348254736698,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                37.73,
+                30.67,
+                31.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As ministers, it is crucial for us to use the fear of the Lord to persuade men, not to rouse enmity. We must be conscious of the fear of the Lord and convince others of our integrity. We try to persuade through the best arguments from the Word of God and our personal experiences, seeking the glory of God and the good of souls.",
+            "wordCount": 64,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 2.2161247147793697,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.03,
+            "commentatorTierSimilarities": [
+                38.27,
+                31.27,
+                30.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Knowing the fear of the Lord, we as ministers seek to persuade men by using the terrors of the Lord. However, we are not attempting to incite fear or terror, but rather to convey a deep reverence and understanding of fearing the Lord. Our goal is to convince others of our integrity and persuade them by presenting the best arguments from the Word of God and our personal experiences. In doing so, we strive for the glory of God and the good of souls.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.085551363694176,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                36.08,
+                31.62,
+                32.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We, as ministers, are aware of the fear of the Lord and use it to persuade men. Our intention is not to instill dread, but to convey a deep reverence and understanding of fearing the Lord. Through the best arguments from the Word of God and our experiences, we seek to convince others of our integrity. Our ultimate aim is the glory of God and the good of souls.",
+            "wordCount": 69,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.005872108500563,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+            "commentatorTierSimilarities": [
+                35.58,
+                32.06,
+                32.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As ministers, it is crucial to utilize the fear of the Lord in order to persuade others, rather than arousing enmity. We should be aware of the terror of the Lord and have a conscious understanding of fearing Him. Through our integrity, we seek to convince others by utilizing the best arguments from the Word of God and our own experiences. Our ultimate purpose is to seek the glory of God and the well-being of souls.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.0088786061622015,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+            "commentatorTierSimilarities": [
+                34.33,
+                31.76,
+                33.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "timestamp": "12-19-2023 16:16:43",
+    "verseRef": "Luke 9:8",
+    "bestBHT": {
+        "bht": "Some believed that Elijah had appeared, who had been taken up to heaven and was expected to return before the Messiah's coming. Others believed that one of the former prophets had risen again, possibly Samuel or David. However, it is important to note that Elijah could not have risen again because he did not die.",
+        "wordCount": 56,
+        "quoteTokenProportion": 59.09,
+        "qualityScore": 2.413073584771223,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.57,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "And of some, that Elias had appeared,.... Who had been translated, body and soul, to heaven, and whom the Jews expected a little before the coming of the Messiah.",
+            "and of others, that one of the old prophets was risen again; that is, one of the former prophets.",
+            "So that by one of the old prophets, may be meant one of those that were before the times of Elias, as Samuel or David."
+        ],
+        "John Wesley": [
+            "That Elijah had appeared \u2014 He could not rise again, because he did not die."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "Some believed that Elijah had appeared, who had been taken up to heaven and was expected to return before the Messiah's coming. Others believed that one of the former prophets had risen again, possibly Samuel or David. However, it is important to note that Elijah could not have risen again because he did not die.",
+            "wordCount": 56,
+            "quoteTokenProportion": 59.09,
+            "qualityScore": 2.413073584771223,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.57,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

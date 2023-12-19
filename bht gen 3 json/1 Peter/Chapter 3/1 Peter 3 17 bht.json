@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:39:33",
+    "verseRef": "1 Peter 3:17",
+    "bestBHT": {
+        "bht": "It is better to suffer for doing well, if it is the will of God. Patient endurance not only silences calumny but has its own value. If we suffer unjustly and yet continue to do good, we can prove ourselves to be true Christians. Our inclination may not desire suffering, but it is better that we endure it without deserving it, as it allows us to demonstrate our faith and reliance on God.",
+        "wordCount": 73,
+        "quoteTokenProportion": 56.6,
+        "qualityScore": 2.2060074978338235,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+        "commentatorTierSimilarities": [
+            31.96,
+            33.18,
+            34.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is better to suffer [for] doing well, if the will of God should will [it so].",
+            "Go thou forth in Faith and Love: cometh the Cross, then take it up; cometh it not, then seek it not."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is better that you did not deserve it, in order that doing well and yet being spoken against, you may prove yourself a true Christian.",
+            "Those who honor God's will as their highest law have the comfort to know that suffering is God's appointment.",
+            "Our inclination does not wish it."
+        ],
+        "Albert Barnes": [
+            "God often sees it to be necessary that his people should suffer. There are effects to be accomplished by affliction which can be secured in no other way.",
+            "Some of the happiest results on the soul of a Christian, some of the brightest traits of character, are the effect of trials.",
+            "If we suffer for our faults, in addition to the outward pain of body, we shall endure the severest pangs which man can suffer - those which the guilty mind inflicts on itself."
+        ],
+        "Marvin Vincent": [
+            "If the will of God be so [\u03b5\u03b9 \u03b8\u03b5\u03bb\u03bf\u03b9 \u03c4\u03bf \u03b8\u03b5\u03bb\u03b7\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5] . More literally, as Rev., preserving the play upon the word will, if the will of God should so will."
+        ],
+        "John Calvin": [
+            "It is much better, if they sustained any loss in defending a good cause, to suffer thus unjustly than to be punished for their evil deeds.",
+            "There is a sufficient defense in a good conscience, whatever evils may happen, and must be endured.",
+            "The faithful have always this comfort in their miseries, that they know that they have God as their witness, and that they also know that they are led by him to the contest, in order that they may under his protection give a proof of their faith."
+        ],
+        "Philip Schaff": [
+            "For it is better to suffer, if the will of God should will it, doing well than doing evil.\" ",
+            "The present is introduced in immediate connection not with the credit attaching to a particular kind of conduct, but with what is essential to the keeping of a good conscience under the sense of wrong, and to the possibility of giving a right account of the Christian hope to inquirers or revilers.",
+            "Their sufferings, instead of being embittered, should be softened and relieved by the consciousness that they are undeserved, and by the assurance that they will work together for their good."
+        ],
+        "Archibald T. Robertson": [
+            "Patient endurance not only silences calumny, is Christlike, but it has a value of its own.",
+            "For a like pleonasm see John 7:17.",
+            "For well-doing than for evil-doing."
+        ],
+        "John Gill": [
+            "For all things are ordered by the will of God, even all the sufferings and afflictions of the saints...",
+            "...which is a reason why they ought to be patiently submitted to, and bore...",
+            "Better it is, more honourable and profitable, that ye suffer for well doing..."
+        ],
+        "John Wesley": [
+            "It is infinitely better, if it be the will of God, ye should suffer. His permissive will appears from his providence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is better to suffer for doing well, if it is the will of God. Those who honor God's will have the comfort of knowing that suffering is God's appointment. Patient endurance not only silences calumny but has its own value. If we suffer unjustly, doing well and yet being spoken against, we may prove ourselves true Christians. Though our inclination does not wish it, it is better that we did not deserve it, in order to demonstrate our faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 2.1930717878327908,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.26,
+            "commentatorTierSimilarities": [
+                33.72,
+                32.37,
+                33.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is better to suffer for doing well, if it is the will of God. Those who honor God's will have the comfort of knowing that suffering is God's appointment. Patient endurance not only silences calumny but has its own value. If we suffer unjustly, doing well and yet being spoken against, we may prove ourselves true Christians. Our inclination does not wish it, but it is better that we did not deserve it, in order to demonstrate our faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 55.36,
+            "qualityScore": 2.1837829445669525,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.95,
+            "commentatorTierSimilarities": [
+                33.75,
+                32.42,
+                33.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is better to suffer for doing well, if it is the will of God. Patient endurance not only silences calumny but has its own value. If we suffer unjustly and yet continue to do good, we can prove ourselves to be true Christians. Our inclination may not desire suffering, but it is better that we endure it without deserving it, as it allows us to demonstrate our faith and reliance on God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 56.6,
+            "qualityScore": 2.2060074978338235,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+            "commentatorTierSimilarities": [
+                31.96,
+                33.18,
+                34.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is better to suffer for doing well if it is the will of God. One should go forth in faith and love, not seeking the cross but willing to bear it when it comes. Suffering, even when unjust, is an opportunity to prove oneself as a true Christian and honor God's will as the highest law. Patient endurance not only silences calumny, but it has its own inherent value. The faithful can find comfort in knowing that their sufferings are part of God's plan and will ultimately work together for their good.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 2.230207414804961,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.49,
+            "commentatorTierSimilarities": [
+                31.91,
+                33.39,
+                34.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is better to suffer for doing well if it is the will of God. Go forth in faith and love, embracing the cross when it comes. Suffering, even when undeserved, is an opportunity to prove oneself as a true Christian. Patient endurance not only silences calumny but also holds intrinsic value. The faithful can find comfort in knowing that their sufferings are part of God's plan and will ultimately work for their good.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.081591634041776,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.55,
+            "commentatorTierSimilarities": [
+                32.7,
+                33.49,
+                33.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:14:07",
+    "verseRef": "Luke 2:31",
+    "bestBHT": {
+        "bht": "The inclusive nature of God's salvation is evident in how it extends to all the peoples, not just the Jews, but also the Gentiles. Luke's Gospel emphasizes this universality, reaching out to people from all walks of life. The Messiah, as a beacon of light, brings his grace to the entire world, drawing people from every nation. By acknowledging Christ's presence and salvation on a global scale, we are reminded of the magnificence and far-reaching impact of his divine appointment.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.5695251120925293,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.53,
+        "commentatorTierSimilarities": [
+            28.77,
+            31.53,
+            39.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "all the peoples, mankind at large.\" ",
+            "then in thick darkness.",
+            "already Thine, and now, in the believing portion of it, to be so more gloriously than ever."
+        ],
+        "Albert Barnes": [
+            "Before the face of all people - Whom thou hast provided for all people, or whom thou dost design to \u201creveal\u201d to all people."
+        ],
+        "Marvin Vincent": [
+            "Of all people...refers equally to the Gentiles.\" ",
+            "The universality of Luke's Gospel.",
+            " ",
+            "All peoples."
+        ],
+        "John Calvin": [
+            "Christ had been divinely appointed, that all nations might enjoy his grace.",
+            "He would shortly afterwards be placed in an elevated situation, and would draw upon him the eyes of all.",
+            "If Simeon, when holding a little child in his arms, could stretch his mind to the utmost boundaries of the world, and acknowledge the power of Christ to be everywhere present, how much more magnificent ought our conceptions regarding him to be now that he has been set up as a, 'standard to the people,' and has revealed himself to the whole world."
+        ],
+        "Archibald T. Robertson": [
+            "Of all the peoples (\u03c0\u03b1\u03bd\u03c4\u03c9\u03bd \u03c4\u03c9\u03bd \u03bb\u03b1\u03c9\u03bd). Not merely Jews.",
+            "Another illustration of the universality of Luke's Gospel",
+            "The second strophe of the song according to Plummer showing what the Messiah will be to the world after having shown what the Messiah is to Simeon."
+        ],
+        "John Gill": [
+            "In his eternal purposes and decrees, having chosen and foreordained Christ, and appointed him to be his salvation, to the ends of the earth.",
+            "In his counsel and covenant of grace wherein it was agreed, determined, and concluded on, that he should be the Saviour of his people.",
+            "He was to be lifted up on the cross, as the serpent was lifted up by Moses, in the wilderness, to draw all his elect to him, of every nation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is clear from the commentary that Luke 2:31 is highlighting the inclusivity and universal nature of God's salvation. The phrase all the peoples emphasizes that this is not limited to one group, but encompasses all of mankind. This extends beyond just the Jews, as emphasized by the statement that it refers equally to the Gentiles. The universality of Luke's Gospel is evident, as it reaches out to people from all walks of life. The verse speaks of the Messiah being a source of light to the world, with the understanding that his grace is available to all nations. It is a reminder for us to expand our perspectives and recognize the magnitude of Christ's presence and salvation, for he has been revealed to the entire world.",
+            "wordCount": 129,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.4509327706006627,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.59,
+            "commentatorTierSimilarities": [
+                31.77,
+                28.23,
+                40.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The inclusive nature of God's salvation is evident in how it extends to all the peoples, not just the Jews, but also the Gentiles. Luke's Gospel emphasizes this universality, reaching out to people from all walks of life. The Messiah, as a beacon of light, brings his grace to the entire world, drawing people from every nation. By acknowledging Christ's presence and salvation on a global scale, we are reminded of the magnificence and far-reaching impact of his divine appointment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5695251120925293,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.53,
+            "commentatorTierSimilarities": [
+                28.77,
+                31.53,
+                39.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The scope of God's salvation is not limited to a specific group, but encompasses all the peoples and extends beyond the Jews to include the Gentiles. Luke's Gospel beautifully showcases this inclusivity, emphasizing its universal nature. The Messiah's role as a light to the world is evident, as he brings his grace to all nations. By recognizing the global significance of Christ's appointment and his far-reaching impact, we can fully grasp the magnitude of his presence and the extent of his salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3589271224127022,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.53,
+            "commentatorTierSimilarities": [
+                31.33,
+                19.67,
+                49.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The all-encompassing nature of God's salvation is vividly portrayed in the verse. It emphasizes that this salvation is not limited to a particular group but extends to all the peoples. Luke's Gospel showcases the universality of this message, including the Gentiles. The Messiah, as a source of light, brings his grace to the entire world. Through this verse, we are reminded of the global impact and significance of Christ's mission, as he reveals himself to people from all nations and backgrounds.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.4091818270049519,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.2,
+            "commentatorTierSimilarities": [
+                31.73,
+                25.4,
+                42.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The inclusivity of God's salvation is evident in reaching out to all the peoples beyond the Jewish community, encompassing the Gentiles as well. Luke's Gospel beautifully portrays this universal nature, extending Christ's light and grace to the entire world. There is a recognition of the magnitude of Christ's presence and salvation, as he becomes a standard for people of every nation to look to. This verse emphasizes the far-reaching impact of God's divine appointment and the revelation of Christ to the whole world.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.45459925176936,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.71,
+            "commentatorTierSimilarities": [
+                27.85,
+                27.39,
+                44.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

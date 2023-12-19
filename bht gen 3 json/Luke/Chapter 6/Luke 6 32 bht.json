@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:15:45",
+    "verseRef": "Luke 6:32",
+    "bestBHT": {
+        "bht": "What grace or gratitude is there to you? This is no fruit, nor evidence of grace, nor any exercise of the true grace of love. It is greatly observable that our Lord has so little regard for one of the highest instances of natural virtue, namely, the returning love for love, that he does not account it even to deserve thanks. For even sinners love those who love them, so what reward can be expected for such treatment?",
+        "wordCount": 78,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 1.955438647846475,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+        "commentatorTierSimilarities": [
+            42.23,
+            0.0,
+            57.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "32.] This verse again belongs to ver. 28, not to ver. 31; see Matt. v. 46 ff. 33 ff.) thank corresponds to \u201creward,\u201d Matthew (see note on Matt. v. 12)."
+        ],
+        "Marvin Vincent": [
+            "What thank [\u03c0\u03bf\u03b9\u03b1] . ? What kind of thanks? Not what is your reward, but what is its quality? On thank [\u03c7\u03b1\u03c1\u03b9\u03c2] , see on chapter Luke 1:30."
+        ],
+        "Archibald T. Robertson": [
+            "What thank have ye? (\u03c0\u03bf\u03b9\u03b1 \u03c5\u03bc\u03b9\u03bd \u03c7\u03b1\u03c1\u03b9\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd;). What grace or gratitude is there to you? Matthew 5:46 has \u03bc\u03b9\u03c3\u03b8\u03bf\u03bd (reward). "
+        ],
+        "John Gill": [
+            "what thank have ye?.... Or, 'what grace have ye?' this is no fruit, nor evidence of grace, nor any exercise of the true grace of love;",
+            "nor is it any favour conferred upon the object loved, which deserves the respect shown, nor can any reward be expected for such treatment:",
+            "for sinners also love those who love them: men that are destitute of the grace of God, profligate sinners, even the worst of them, such as publicans, do this;"
+        ],
+        "John Wesley": [
+            "It is greatly observable, our Lord has so little regard for one of the highest instances of natural virtue, namely, the returning love for love, that he does not account it even to deserve thanks.",
+            "For even sinners, saith he, do the same: men who do not regard God at all.",
+            "Therefore he may do this, who has not taken one step in Christianity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What kind of thanks or gratitude do you have if you only love those who love you back? It is no evidence of true grace or love, and it does not deserve any reward. Even sinners can do the same, so it is not a distinguishing quality of a believer. Our Lord does not hold the returning love for love in high regard, as even sinners can do it. This is something anyone can do, whether they have taken steps in Christianity or not.",
+            "wordCount": 84,
+            "quoteTokenProportion": 61.11,
+            "qualityScore": 1.5748848261254018,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
+            "commentatorTierSimilarities": [
+                37.08,
+                0.0,
+                62.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What kind of gratitude do you have if you only love those who love you back? It is no evidence of true grace or love, and it does not deserve any reward. Even sinners can do the same, so it is not a distinguishing quality of a believer. Our Lord does not hold the returning love for love in high regard, as even sinners can do it.",
+            "wordCount": 67,
+            "quoteTokenProportion": 62.22,
+            "qualityScore": 1.6441654157153676,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                37.56,
+                0.0,
+                62.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What grace or gratitude is there to you? This is no fruit, nor evidence of grace, nor any exercise of the true grace of love. It is greatly observable that our Lord has so little regard for one of the highest instances of natural virtue, namely, the returning love for love, that he does not account it even to deserve thanks. For even sinners love those who love them, so what reward can be expected for such treatment? Loving those who love you is something anyone, even those without the grace of God, can do.",
+            "wordCount": 95,
+            "quoteTokenProportion": 56.67,
+            "qualityScore": 1.8948571467205055,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+            "commentatorTierSimilarities": [
+                40.39,
+                0.0,
+                59.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "What grace or gratitude is there to you? This is no fruit, nor evidence of grace, nor any exercise of the true grace of love. It is greatly observable that our Lord has so little regard for one of the highest instances of natural virtue, namely, the returning love for love, that he does not account it even to deserve thanks. For even sinners love those who love them, so what reward can be expected for such treatment?",
+            "wordCount": 78,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.955438647846475,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                42.23,
+                0.0,
+                57.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "What grace is there to you? This verse challenges us to consider the quality of our gratitude and love, rather than merely seeking reward. Loving those who love us is expected, even among sinners who lack the grace of God. Our Lord emphasizes that returning love for love does not even merit thanks, as it is a basic display of natural virtue. It is important to recognize that such actions can be done by those who have not yet embraced Christianity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 1.7085421735130093,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                44.1,
+                0.0,
+                55.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

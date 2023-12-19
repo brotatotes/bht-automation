@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:30:35",
+    "verseRef": "Acts 13:12",
+    "bestBHT": {
+        "bht": "Amazed at the divine power accompanying the teaching of the Apostle, the deputy gives himself up to it. Being astonished at the doctrine of the Lord and the miraculous blindness that immediately followed, Sergius Paulus believes. His faith is not seen simply as a revenue-seeking belief, but rather, his joining the Christian brotherhood is evidence that the gospel was not confined to the poor and obscure. The word doctrine here denotes the wonderful effects connected with the teaching. While we do not know the exact fruit or duration of this conversion, Sergius Paulus' baptism is a natural inference.",
+        "wordCount": 99,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.1864543838995183,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+        "commentatorTierSimilarities": [
+            29.17,
+            33.76,
+            37.07
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Hesitating as he had been before between the teaching of the sorcerer and that of the Apostle, he is amazed at the divine power accompanying the latter, and gives himself up to it.",
+            "It is not said that he was baptized: but the supposition is not thereby excluded: see ver. 48; ch. xvii. 12, 34; xviii. 8, first part."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord\u2014so marvellously attested.",
+            "What fruit, if any, followed this remarkable conversion, or how long after it the missionaries remained at Paphos, we know not.",
+            "AT PERGA JOHN MARK FORSAKES THEM\u2014AT ANTIOCH IN PISIDIA, PAUL PREACHES WITH GLORIOUS EFFECT\u2014THE JEWS, ENRAGED, EXPEL THEM OUT OF THEM COASTS."
+        ],
+        "Albert Barnes": [
+            "There seems no reason to doubt that his faith was what is connected with eternal life; and if so, it is an evidence that the gospel was not always confined to the poor, and to those in obscure ranks of life.",
+            "The word 'doctrine' here seems to denote, not the 'teaching' or 'instruction,' but the wonderful effects which were connected with the doctrine.",
+            "He might have been also deeply impressed and amazed at the purity and sublimity of the truths which were now expanded to his view."
+        ],
+        "Marvin Vincent": [
+            "Astonished [\u03b5\u03ba\u03c0\u03bb\u03b7\u03c3\u03c3\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . See on Matthew 7:28."
+        ],
+        "John Calvin": [
+            "The reverence of doctrine is the beginning of faith.\" ",
+            "If God do now miraculously strengthen in the minds of many the faith of the gospel, which is shaken with so many and such strong engines.",
+            "Let us not murmur against him, or reason the matter with him, as if our condition were worse, if he do not daily show such miracles as we would desire."
+        ],
+        "Philip Schaff": [
+            "\u2018Believed\u2019 is the ordinary expression used in the early Christian records for turning to the Lord and joining the Church.",
+            "The proconsul of Cyprus is another instance of men of high rank joining the Christian brotherhood in very early times.",
+            "That Sergius Paulus was baptized is the natural inference."
+        ],
+        "Archibald T. Robertson": [
+            "But it was the teaching about the Lord (\u03c4\u03bf\u03c5 \u03ba\u03c5\u03c1\u03b9\u03bf\u03c5, objective genitive) by which he was astonished.\" ",
+            "The blindness came 'immediately' (\u03c0\u03b1\u03c1\u03b1\u03b5\u03c1\u03b7\u03bc\u03b1) upon the judgment pronounced by Paul.\" ",
+            "One will believe what he wills about Sergius Paulus, but I do not see that Luke leaves him in the category of Simon Magus who 'believed' (Acts 8:13) for revenue only."
+        ],
+        "John Gill": [
+            "being astonished at the doctrine of the Lord",
+            "there are many astonishing things in the doctrine of faith",
+            "being filled with admiration at the striking of Elymas with blindness, he was induced to believe the doctrine of Christ"
+        ],
+        "John Wesley": [
+            "Being astonished at the doctrine of the Lord \u2014 Confirmed by such a miracle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Amazed at the divine power accompanying the teaching of the Apostle, the deputy gives himself up to it. Being astonished at the doctrine of the Lord and the miraculous blindness that immediately followed, Sergius Paulus believes. His faith is not seen simply as a revenue-seeking belief, but rather, his joining the Christian brotherhood is evidence that the gospel was not confined to the poor and obscure. The word doctrine here denotes the wonderful effects connected with the teaching. While we do not know the exact fruit or duration of this conversion, Sergius Paulus' baptism is a natural inference.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.1864543838995183,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                29.17,
+                33.76,
+                37.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amazed at the divine power accompanying the teaching of the Apostle, the deputy gives himself up to it. Being astonished at the doctrine of the Lord and the miraculous blindness that immediately followed, Sergius Paulus believes. His faith is not seen simply as a revenue-seeking belief, but rather, his joining the Christian brotherhood is evidence that the gospel was not confined to the poor and obscure. The word doctrine here denotes the wonderful effects connected with the teaching. Sergius Paulus' baptism is a natural inference.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.18147351692759,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.87,
+            "commentatorTierSimilarities": [
+                28.3,
+                35.05,
+                36.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amazed at the divine power accompanying the teaching of the Apostle, the deputy gives himself up to it. Being astonished at the doctrine of the Lord and the miraculous blindness that immediately followed, Sergius Paulus believes. His faith is evidence that the gospel was not confined to the poor and obscure. The word doctrine here denotes the wonderful effects connected with the teaching. Sergius Paulus' baptism is a natural inference.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.1843091042171694,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.97,
+            "commentatorTierSimilarities": [
+                28.53,
+                34.13,
+                37.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The deputy is amazed at the divine power accompanying the teaching of the Apostle and gives himself up to it. Being astonished at the doctrine of the Lord and the miraculous blindness that immediately followed, Sergius Paulus believes. His joining the Christian brotherhood is evidence that the gospel was not confined to the poor and obscure. The word doctrine here denotes the wonderful effects connected with the teaching. Sergius Paulus' baptism is a natural inference.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1628694967913358,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+            "commentatorTierSimilarities": [
+                28.46,
+                36.51,
+                35.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The deputy hesitates between the teaching of the sorcerer and that of the Apostle, but is amazed at the divine power accompanying the latter. He gives himself up to it, being astonished at the doctrine of the Lord. The miraculous blindness that immediately follows confirms the power of the teaching. Sergius Paulus' belief goes beyond a mere revenue-seeking faith, as his baptism is a natural inference. This conversion of a man of high rank is an early example of the gospel's reach beyond the poor and obscure.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.111807986695184,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+            "commentatorTierSimilarities": [
+                29.76,
+                31.44,
+                38.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

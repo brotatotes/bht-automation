@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:18:12",
+    "verseRef": "Luke 11:13",
+    "bestBHT": {
+        "bht": "When we pray, God answers us with His best gift\u2014the Holy Spirit. This gift is the bread of the parable, and the Father from Heaven imparts it to us. The Holy Spirit is the Gift of gifts, descending on the Church through Christ and encompassing all other good gifts. So, we should ask our heavenly Father for the best gift of all\u2014the Holy Spirit.",
+        "wordCount": 66,
+        "quoteTokenProportion": 51.22,
+        "qualityScore": 2.0086048437180253,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+        "commentatorTierSimilarities": [
+            36.24,
+            0.0,
+            63.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God\u2019s answers to our prayers consist of neither useless nor mischievous things, but of His best gift\u2014His Holy Spirit\u2014in all the various and fitting manifestations of His guidance, and consolation, and teaching, in our lives.",
+            "This is (because this takes of and imparts to us by leading us continually to Him who is) the 'bread' of the parable;\u2014the 'father of the family' is the Father from Heaven, with whom however the night is as the day, who never slumbers nor sleeps.",
+            "Notice that when we address God (Matt. vi. 9), He is 'Our Father (which is) in heaven'\u2014when He answers us, He is the Father from heaven. In the former case, we go up into Him and His abode; in the latter He comes down to us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the Holy Spirit\u2014in Matthew (Matthew 7:11), 'good gifts'; the former, the Gift of gifts descending on the Church through Christ, and comprehending the latter.",
+            "BLIND AND DUMB DEMONIAC HEALED\u2014CHARGE OF BEING IN LEAGUE WITH HELL, AND REPLY\u2014DEMAND OF A SIGN, AND REPLY.",
+            "See on Matthew 7:11-"
+        ],
+        "Marvin Vincent": [
+            "Being [\u03c5\u03c0\u03b1\u03c1\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2] . See on James 2:15. ",
+            "Heavenly Father. Lit., the Father, he who is from Heaven. ",
+            ", 15, 17 - 23. Compare Matthew 12:22-37."
+        ],
+        "Archibald T. Robertson": [
+            "Know how to give...the Holy Spirit as the great gift that the Father is ready to bestow.\" ",
+            "Jesus is fond of 'how much more'...by how much more, instrumental case."
+        ],
+        "John Gill": [
+            "If ye then being evil know how to give good gifts unto your children,... How much more shall your heavenly Father give the Holy Spirit to them that ask him?\" ",
+            "...the gifts and graces of the Holy Spirit, in distinction from, and as preferable to the good things given by earthly parents, to their children."
+        ],
+        "John Wesley": [
+            "How beautiful is the gradation! A friend: a father: God!",
+            "Give the Holy Spirit - The best of gifts, and that which includes every good gift.",
+            "A friend: a father: God!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When we pray, God does not give us useless or harmful things, but rather His best gift\u2014the Holy Spirit. This gift is like the bread in the parable, and the Father from Heaven is the one who imparts it to us. We address God as Our Father in heaven when we pray to Him, and when He answers us, He comes down to us as the Father from heaven. The Holy Spirit is the Gift of gifts, descending on the Church through Christ and encompassing all other good gifts. Jesus emphasizes the greatness of this gift by saying, how much more God will give the Holy Spirit to those who ask Him. So, knowing how to give good gifts to our children, we should ask our heavenly Father for the best gift of all\u2014the Holy Spirit.",
+            "wordCount": 138,
+            "quoteTokenProportion": 54.93,
+            "qualityScore": 2.0093710695378286,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                35.89,
+                0.0,
+                64.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When we pray, God answers us with His best gift\u2014the Holy Spirit. This gift is like the bread in the parable, and the Father from Heaven imparts it to us. When we address God as Our Father in heaven, we go up to Him, and when He answers us, He comes down to us as the Father from heaven. The Holy Spirit is the Gift of gifts, descending on the Church through Christ and encompassing all other good gifts. So, we should ask our heavenly Father for the best gift of all\u2014the Holy Spirit.",
+            "wordCount": 96,
+            "quoteTokenProportion": 54.9,
+            "qualityScore": 1.9902728168127144,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+            "commentatorTierSimilarities": [
+                37.49,
+                0.0,
+                62.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When we pray, God answers us with His best gift\u2014the Holy Spirit. This gift is the bread of the parable, and the Father from Heaven imparts it to us. The Holy Spirit is the Gift of gifts, descending on the Church through Christ and encompassing all other good gifts. So, we should ask our heavenly Father for the best gift of all\u2014the Holy Spirit.",
+            "wordCount": 66,
+            "quoteTokenProportion": 51.22,
+            "qualityScore": 2.0086048437180253,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+            "commentatorTierSimilarities": [
+                36.24,
+                0.0,
+                63.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When we pray to God, we can trust that His answers are never useless or harmful, but are always His best gift to us \u2013 the Holy Spirit. Just as a father provides for his family, God, our Father, who never slumbers nor sleeps, comes down to us and imparts to us the bread of life through His Holy Spirit. This is the Gift of gifts that descends on the Church through Christ, encompassing all the good gifts and graces that God is ready to bestow upon those who ask. Truly, how much more blessed are we to have a heavenly Father who gives us the Holy Spirit, the ultimate gift that surpasses all earthly gifts.",
+            "wordCount": 115,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.0253168413866263,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.68,
+            "commentatorTierSimilarities": [
+                36.03,
+                0.0,
+                63.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we pray, God's answers are not useless or harmful, but His best gift \u2013 the Holy Spirit. He is the Father from heaven who never slumbers nor sleeps and provides us with the bread of life. In addressing God as Our Father in heaven, we go up to Him, but when He answers, He comes down to us. Through Christ, we receive the Gift of gifts, the Holy Spirit, which encompasses all good gifts and graces. How much more blessed are we to have a heavenly Father who gives us the Holy Spirit, surpassing all earthly gifts.",
+            "wordCount": 98,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 1.9692583529374459,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                37.92,
+                0.0,
+                62.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:34:41",
+    "verseRef": "Acts 21:17",
+    "bestBHT": {
+        "bht": "Paul and his companions were received with joy by the Christians in Jerusalem, the brethren, who gladly welcomed them upon their arrival. This warm reception from Paul's personal friends may have been a cause for celebration, as they had been long absent. Despite various reports circulating about Paul's ministry among the Gentiles, the believers in Jerusalem did not treat them with coldness or indifference. It is important to exercise discernment and not hastily believe false reports about faithful ministers.",
+        "wordCount": 81,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.7451421316291915,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+        "commentatorTierSimilarities": [
+            33.11,
+            27.59,
+            39.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17\u2014XXIII. 35.] PAUL AT JERUSALEM: MADE PRISONER AND SENT TO C\u00c6SAREA 17. the brethren] The Christians generally: not the Apostles and elders; James and the elders are not mentioned till ver. 18."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17-19. the brethren received us",
+            "\tgladly\u2014the disciples generally, as distinguished from the",
+            "\tofficial reception recorded in :-."
+        ],
+        "Albert Barnes": [
+            "The brethren - Christians.",
+            "Received us gladly - They had been long absent.",
+            "It was a matter of joy that they had now returned in safety."
+        ],
+        "John Calvin": [
+            "We must shut our ears against false reports, that we may believe nothing concerning the faithful ministers of the Word, but that which we know to be true.",
+            "This moderation must we observe diligently, that we be not too hasty to believe wicked reports, especially when those who have given some testimony of their honesty, and whom we have tried to serve God faithfully, are burdened with crimes unknown to us, or else doubtful.",
+            "Satan knoweth that nothing is more fit to lay waste the kingdom of Christ, than discord and disagreement among the faithful, he ceaseth not to spread abroad false speeches, which may cause one to suspect another."
+        ],
+        "Philip Schaff": [
+            "St. Paul now arrives at Jerusalem for the fifth time since he left it on that never-to-be-forgotten journey to Damascus to persecute the believers in Jesus.",
+            "This is the last recorded visit that he made to the Holy City.",
+            "The brethren received us gladly."
+        ],
+        "Archibald T. Robertson": [
+            "We having come.",
+            "Received...to receive from.",
+            "Perhaps this first glad welcome was from Paul's personal friends in Jerusalem."
+        ],
+        "John Gill": [
+            "the brethren received us gladly; readily, willingly, and cheerfully...",
+            "they did not treat them with an air of coldness and indifference...",
+            "notwithstanding the various reports which had been brought them, concerning the ministry of the apostle among the Gentiles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Christians in Jerusalem, the brethren, joyfully received Paul and his companions upon their arrival. This warm welcome may have come from Paul's personal friends in the city. Despite the various reports that were circulating about Paul's ministry among the Gentiles, the believers in Jerusalem did not treat them with coldness or indifference. It is important to not hastily believe false reports about faithful ministers, but rather to discern the truth from what we know to be true. The enemy seeks to sow discord and suspicion among believers, so we must be cautious not to easily believe slanderous rumors about those who have shown themselves to be faithful servants of God.",
+            "wordCount": 113,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.6519095250288636,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                32.02,
+                25.6,
+                42.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon their arrival in Jerusalem, Paul and his companions were warmly received by the Christians, the brethren, gladly and willingly. This initial reception may have come from Paul's personal friends in the city. Despite the various reports circulating about Paul's ministry among the Gentiles, the believers in Jerusalem did not treat them with coldness or indifference. It is crucial to discern the truth about faithful ministers, rather than hastily believing false reports. Satan seeks to spread false speeches that can cause suspicion among believers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.6108885780849187,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                32.4,
+                26.34,
+                41.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul and his companions were received with joy by the Christians in Jerusalem, the brethren, who gladly welcomed them upon their arrival. This warm reception from Paul's personal friends may have been a cause for celebration, as they had been long absent. Despite various reports circulating about Paul's ministry among the Gentiles, the believers in Jerusalem did not treat them with coldness or indifference. It is important to exercise discernment and not hastily believe false reports about faithful ministers.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7451421316291915,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                33.11,
+                27.59,
+                39.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon their arrival in Jerusalem, Paul and his companions were warmly received by the Christians, the brethren. This initial reception may have come from Paul's personal friends in the city. Despite the various reports that were circulating about Paul's ministry among the Gentiles, the believers in Jerusalem did not treat them with coldness or indifference. It is important to not hastily believe false reports about faithful ministers, but rather to discern the truth from what we know to be true.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.7366257537414076,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                35.92,
+                27.07,
+                37.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Christians in Jerusalem, the brethren, joyfully received Paul and his companions upon their arrival. This warm welcome may have come from Paul's personal friends in the city. Despite the various reports that were circulating about Paul's ministry among the Gentiles, the believers in Jerusalem did not treat them with coldness or indifference. It is important to not hastily believe false reports about faithful ministers, but rather to discern the truth from what we know to be true.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.7250994055416882,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                34.39,
+                27.89,
+                37.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

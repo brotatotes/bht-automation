@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 14:01:18",
+    "verseRef": "1 Thessalonians 5:7",
+    "bestBHT": {
+        "bht": "As Christians, our conduct should be in the open and not require the veil of night. Sleeping during the day and being drunk during the day are signs of indolence and shamelessness, unfit for those who profess to be day people. Nighttime is when drunken revelries occur, but as children of the day, we should not partake in such behavior. Instead, we should be watchful and productive, fulfilling our duties in the light of day, letting our actions bear scrutiny.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 2.2285198277003206,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.44,
+        "commentatorTierSimilarities": [
+            25.89,
+            36.65,
+            37.46
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Explanation of the assertion regarding 'the rest' above from the common practice of men.",
+            "The expressions are not to be taken in a spiritual sense, as Chrysostom and others, but literally."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We Christians profess to be day people, not night people; therefore our work ought to be day work, not night work; our conduct such as will bear the eye of day, and such has no need of the veil of night.",
+            "To sleep by day would imply great indolence; to be drunken by day, great shamelessness.",
+            "Our conduct should be such has no need of the veil of night."
+        ],
+        "Albert Barnes": [
+            "Night is the time for sleep. The day is the time for action, and in the light of day people should be employed.",
+            "It is in accordance with the character of those who are of the night, that is, sinners, to be sunk in stupidity and carnal security, as if they were asleep.",
+            "The actions of Christians ought always to be such that they may be performed in open day and in the view of all the world. The Christian should do nothing which may not be done under the full blaze of day."
+        ],
+        "Marvin Vincent": [
+            "Be drunken [\u03bc\u03b5\u03b8\u03c5\u03c3\u03ba\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . Lit. who are made drunk or get drunk.\" ",
+            "In N. T. always of intoxication.\" ",
+            "In LXX, the Hebrews shekar strong drink is several times rendered by mequsma; Jude 1:13:4, Jude 1:7; 1 Samuel 1:11, 1 Samuel 1:15."
+        ],
+        "Philip Schaff": [
+            "They that sleep, sleep in the night. Every man has a natural shame of being found asleep in the day-time...\" ",
+            "If even nature thus teaches us to be ashamed of sleeping through the hours God gives us for wakeful work, let us, who are of the day, watch.\" ",
+            "When a man begins not only to exceed at night, when weariness or conviviality might tempt him, but, even before the day\u2019s work is well begun, is found unfit for any duty, he is, humanly speaking, hopeless."
+        ],
+        "Archibald T. Robertson": [
+            "They that be drunken are drunken in the night.\" ",
+            "No real difference in meaning between \u03bc\u03b5\u03b8\u03c5\u03c3\u03ba\u03c9 and \u03bc\u03b5\u03b8\u03c5\u03c9, to be drunk, except that \u03bc\u03b5\u03b8\u03c5\u03c3\u03ba\u03c9 (inceptive verb in -\u03c3\u03ba\u03c9) means to get drunk.",
+            "Night is the favourite time for drunken revelries."
+        ],
+        "John Gill": [
+            "Sleep is only for such who are in darkness, and are children of the night; and not proper to be indulged by such who are children of the day, and of the light.",
+            "Drunkenness is a work of darkness, and therefore men given to excessive drinking love darkness rather than light, and choose the night for their purpose.",
+            "Equally shameful it is, that enlightened persons should be inebriated, either with the cares of this life, or with an over weening opinion of themselves."
+        ],
+        "John Wesley": [
+            "They usually sleep and are drunken in the night - These things do not love the light."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Christians, we are called to be day people, not night people. Our conduct should always be such that it can be seen in the light of day, without the need for the cover of darkness. Sleeping during the day implies laziness, while being drunk during the day implies shamelessness. Both of these behaviors are not fitting for those who belong to the day and the light. Nighttime is when people typically engage in drunken revelries, but as Christians, we should not partake in such activities. We should be awake and alert, ready to fulfill our duties in the light of day. Let us not be found asleep or unfit for any duty, but instead, let us be watchful and productive, honoring the call to be children of the day and the light, and not of the night and darkness.",
+            "wordCount": 140,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.1613895964336987,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.21,
+            "commentatorTierSimilarities": [
+                22.31,
+                37.42,
+                40.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Christians, our conduct should be in the open and not require the veil of night. Sleeping during the day and being drunk during the day are signs of indolence and shamelessness, unfit for those who profess to be day people. Nighttime is when drunken revelries occur, but as children of the day, we should not partake in such behavior. Instead, we should be watchful and productive, fulfilling our duties in the light of day, letting our actions bear scrutiny.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.2285198277003206,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.44,
+            "commentatorTierSimilarities": [
+                25.89,
+                36.65,
+                37.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Christians, we are called to be day people, not night people. Our conduct should always be such that it can be seen in the light of day, without the need for the cover of darkness. Sleeping during the day implies great indolence, while being drunk during the day implies great shamelessness. Both of these behaviors are not fitting for those who belong to the day and the light. Nighttime is when people typically engage in drunken revelries, but as Christians, we should not partake in such activities. Let us not be found unfit for any duty, but instead, let us be watchful and productive as children of the day and the light.",
+            "wordCount": 113,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.1655962840771896,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.35,
+            "commentatorTierSimilarities": [
+                23.88,
+                36.58,
+                39.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christians should live as day people, not night people. Our conduct should bear scrutiny and not require the veil of darkness. Sleeping during the day suggests laziness, while being drunk during the day implies shamelessness. Such behaviors are not fitting for those who profess to be of the day and the light. Nighttime is favored for drunken revelries. As children of the day, we should be watchful, productive, and honor our responsibilities in the full light, with actions that can stand in the open.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0617098205821964,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.89,
+            "commentatorTierSimilarities": [
+                26.28,
+                33.79,
+                39.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Christians, we are called to live as day people and not succumb to the ways of the night. Sleeping during the day reveals indolence, while being drunk during the day demonstrates shamelessness. Instead, our conduct should be transparent and not necessitate the cover of darkness. Nighttime is often associated with drunken revelries, but as children of the day, we should refrain from such behaviors. Let us be watchful, productive, and uphold our responsibilities in the light, avoiding actions that require hiding in the darkness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.1202541344785732,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.84,
+            "commentatorTierSimilarities": [
+                25.02,
+                34.73,
+                40.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

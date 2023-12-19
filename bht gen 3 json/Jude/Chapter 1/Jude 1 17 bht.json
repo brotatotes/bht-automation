@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 17:15:32",
+    "verseRef": "Jude 17",
+    "bestBHT": {
+        "bht": "Beloved, remember the words spoken by the apostles. These words, both written and orally delivered, are a preservative from error and a relief in times of persecution or heresy. Jude does not exclude himself from the number of apostles, and he urges his readers to be fortified by these predictions. Let the memory of the apostles' teachings guide and protect you from falsehood and deceit, as they serve as a reminder of ancient prophecies and admonitions from those close to Christ.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.8015564953224148,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.24,
+        "commentatorTierSimilarities": [
+            32.84,
+            31.18,
+            35.98
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But ye, beloved... remember the words which were before spoken by the Apostles of our Lord Jesus Christ.",
+            "This can hardly be cited as evidence on one side or the other on the question whether St. Jude himself was an Apostle.",
+            "And whichever view is taken as to the genuineness or otherwise of 2 Peter, there could be no intention by such an expression to exclude either the real or the pretended St. Peter from the number of the Apostles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "speaking already before now.",
+            "For Peter uses the very same formula in reminding the contemporaries of himself and the other apostles.",
+            "Jude does not exclude himself from the number of the apostles here."
+        ],
+        "John Calvin": [
+            "To a most ancient prophecy he now adds the admonitions of the apostles, the memory of whom was recent.",
+            "As to the verb \u03bc\u03bd\u1f75\u03c3\u03b8\u03b7\u03c4\u03b5, it makes no great difference, whether you read it as declarative or as an exhortation; for the meaning remains the same.",
+            "Being fortified by the prediction he quotes, they ought to be terrified."
+        ],
+        "Philip Schaff": [
+            "Nor has any new thing happened to you. All this was foreseen and foretold.",
+            "You yourselves know it; you have only to \u2018remember the words spoken before by the apostles.\u2019",
+            "Most, indeed, of these passages are written, not spoken; but the writing is really the putting into permanent form of what in substance had been orally delivered."
+        ],
+        "Archibald T. Robertson": [
+            "Remember ye (\u03c5\u03bc\u03b5\u03b9\u03c2 \u03bc\u03bd\u03b7\u03c3\u03b8\u03b7\u03c4\u03b5). First aorist passive (deponent) imperative of \u03bc\u03b9\u03bc\u03bd\u03b7\u03c3\u03ba\u03c9 with genitive \u03c1\u03b7\u03bc\u03b1\u03c4\u03c9\u03bd (words).\" ",
+            "The rest as in II Peter, but in simpler and more exact structure and with the absence of \u03c4\u03c9\u03bd \u03b1\u03b3\u03b9\u03c9\u03bd \u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03c9\u03bd (the holy prophets)."
+        ],
+        "John Gill": [
+            "But, beloved,.... Or \"my beloved\", as the Syriac and Arabic versions read; or \"our brethren\", as the Ethiopic version;",
+            "and also to engage their attention and regard to the following exhortation",
+            "a remembrance of which is a preservative from error, and a relief in the worst of times, whether of persecution, or heresy."
+        ],
+        "John Wesley": [
+            "By the apostles \u2014 He does not exempt himself from the number of apostles. For in the next verse he says, they told you, not us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beloved, remember the words spoken before by the apostles of our Lord Jesus Christ. These words, not only written but also orally delivered, serve as a reminder of the ancient prophecies and admonitions from those who were close to Christ. Jude does not exclude himself from the number of apostles and urges his readers to be fortified by these predictions, which should both terrify and engage their attention. In times of persecution or heresy, a remembrance of these words acts as a preservative from error and a source of relief. Let the memory of the apostles' teachings guide you and protect you from falsehood and deceit.",
+            "wordCount": 106,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.7438781651254853,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.33,
+            "commentatorTierSimilarities": [
+                33.71,
+                29.9,
+                36.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beloved, remember the words spoken by the apostles. These words, both written and orally delivered, are a preservative from error and a relief in times of persecution or heresy. Jude does not exclude himself from the number of apostles, and he urges his readers to be fortified by these predictions. Let the memory of the apostles' teachings guide and protect you from falsehood and deceit, as they serve as a reminder of ancient prophecies and admonitions from those close to Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.8015564953224148,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.24,
+            "commentatorTierSimilarities": [
+                32.84,
+                31.18,
+                35.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beloved, let us recall the words previously spoken by the apostles. These words, written and spoken, serve as a preservative in times of persecution or heresy. It is important to note that Jude does not exclude himself from the apostles. As we remember these teachings, we fortify ourselves with predictions that both terrify and demand our attention. The apostles' admonitions act as a shield against error and provide solace. Let us hold fast to their teachings, for they were close to Christ and bore witness to His truth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.6028086446458802,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.64,
+            "commentatorTierSimilarities": [
+                35.75,
+                26.56,
+                37.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beloved, remember the words spoken before by the apostles of our Lord Jesus Christ. Let us not forget the ancient prophecies and admonitions from those who were close to Christ. These words, both written and orally delivered, serve as a preservative in times of persecution and heresy. Jude reminds us that he does not exclude himself from the number of apostles. Therefore, let us cling to these teachings as they act as a shield against error and provide comfort and guidance in challenging times.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6261586355014672,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.41,
+            "commentatorTierSimilarities": [
+                36.54,
+                27.86,
+                35.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beloved, recall the words spoken before by the apostles of our Lord Jesus Christ. These teachings, both written and orally delivered, are a safeguard against error and a source of solace during times of persecution or heresy. It is important to note that Jude does not exclude himself from the number of apostles. By remembering their admonitions and prophecies, we fortify ourselves and give careful attention to their predictions. Let us hold steadfastly to the apostles' teachings, for they were intimately connected to Christ and bear witness to His truth.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.655098353611004,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.37,
+            "commentatorTierSimilarities": [
+                36.3,
+                26.53,
+                37.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

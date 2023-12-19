@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:00:02",
+    "verseRef": "1 Thessalonians 4:3",
+    "bestBHT": {
+        "bht": "The will of God is that you be sanctified, which means living a life of purity, abstaining from vices that degrade the soul. Fornication was not considered a sin among the Gentiles, but as Christians, we are called to a higher standard. We must internalize sanctification by aligning our will with God's and cultivating holiness within, while also demonstrating it through righteous living. Thus, it is vital that we refrain from sexual immorality and impurity, as this aligns with God's will and purpose for us.",
+        "wordCount": 87,
+        "quoteTokenProportion": 49.23,
+        "qualityScore": 2.3399790181891893,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.14,
+        "commentatorTierSimilarities": [
+            28.6,
+            38.03,
+            33.37
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The will of God... your sanctification is in apposition with the will of God, as a matter patent to all, the will of God respecting us being known to be, our sanctification.",
+            "Therefore sanctification must be taken in the most general sense, and that which is afterwards introduced, as forming a part of our sanctification.",
+            "Your sanctification... i.e. the sanctification of you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Since 'this is the will of God,' let it be your will also.",
+            "Fornication\u2014not regarded as a sin at all among the heathen, and so needing the more to be denounced.",
+            "His 'commandments' were 'by (the authority of) the Lord Jesus'."
+        ],
+        "Albert Barnes": [
+            "It is the will or command of God that you should be holy.",
+            "The word here rendered 'sanctification'...means here 'purity of life,' and particularly abstinence from those vices which debase and degrade the soul.",
+            "The first work of sanctification is in overcoming the propensities to evil in our nature, and checking and subduing the unholy habits which we had formed before we became Christians; the second part of the work consists in cultivating the positive principles of holiness in the soul."
+        ],
+        "Marvin Vincent": [
+            "In Thessalonica, besides the ordinary licentious customs of the Gentiles, immorality was fostered by the Cabeiric worship.",
+            "Sensuality in the guise of religion was rife.",
+            "About the time of Paul, a political sanction was given to this worship by deifying the Emperor as Cabeirus."
+        ],
+        "John Calvin": [
+            "For this end ye are Christians \u2014 this the gospel aims at \u2014 that ye may sanctify yourselves to God.\" ",
+            "Where the knowledge of God reigns, lusts must be subdued.\" ",
+            "He would, therefore, have us keep our body pure from all uncleanness."
+        ],
+        "Philip Schaff": [
+            "The reason why the precepts had been given and were to be kept, was that God desired their sanctification.",
+            "What God wills and intends, He also makes provision for: hence the encouragement the Christian has in knowing that all his efforts after holiness are in accordance with that will which accomplishes all it designs.",
+            "This is the particular virtue in which their sanctification was to be manifested. And here and elsewhere emphasis is laid upon purity of life, because licentiousness was bred in the bone of the converts from heathenism, and fornication was in Greece considered a venial transgression."
+        ],
+        "Archibald T. Robertson": [
+            "Paul makes a sharp and pointed stand here for the Christian idea of sanctification as being 'the will of God'.\" ",
+            "Pagan religion did not demand sexual purity of its devotees, the gods and goddesses being grossly immoral.\" ",
+            "Priestesses were in the temples for the service of the men who came."
+        ],
+        "John Gill": [
+            "Sanctification is internal or external. Internal sanctification is the work of the Spirit of God, a flexion of the will to the will of God, and a settlement of the affections on divine things. External sanctification lies in holiness of life and conversation.\" ",
+            "This is the will of God, the will of His purpose and decree, that he wills the salvation of any by Jesus Christ, he also wills their sanctification in heart and life, and here and hereafter.",
+            "Abstaining from fornication is a branch of external holiness, and it is particularly mentioned because this sin was common among the Gentiles and not esteemed a sin by them."
+        ],
+        "John Wesley": [
+            "Sanctification \u2014 Entire holiness of heart and life: particular branches of it are subjoined.",
+            "That ye abstain from fornication \u2014 A beautiful transition from sanctification to a single branch of the contrary.",
+            "Nothing is so seemingly distant, or below our thoughts, but we have need to guard against it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The will of God is your sanctification, which includes purity of life and abstinence from vices that degrade the soul. It is emphasized because licentiousness was common among the Gentiles and not seen as a sin. The pagan religion did not demand sexual purity, and even had priestesses in the temples for the service of men who came. However, as Christians, we are called to a higher standard. The sanctification God desires is both internal and external, involving a flexion of the will to the will of God and a settlement of the affections on divine things. Therefore, let us abstain from fornication and any form of impurity, knowing that this is the will and purpose of God for us.",
+            "wordCount": 120,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.2243941279674377,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.3,
+            "commentatorTierSimilarities": [
+                29.96,
+                37.42,
+                32.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The will of God is for your sanctification, which involves purity of life and abstinence from the vices that degrade the soul. Among the Gentiles, fornication was not seen as a sin, leading to licentiousness. However, as Christians, we are called to a higher standard. This sanctification is both internal, through aligning our will with God's, and external, living a holy life. Thus, we are encouraged to abstain from fornication and impurity, knowing that this is God's will and purpose for us.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.1969909465816446,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.39,
+            "commentatorTierSimilarities": [
+                27.71,
+                37.39,
+                34.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The will of God is for your sanctification, which involves purity of life and abstinence from the vices that degrade the soul. Among the Gentiles, fornication was not seen as a sin, leading to licentiousness. However, as Christians, we are called to a higher standard. This sanctification is both internal and external, through aligning our will with God's and living a holy life. Thus, we must abstain from fornication and impurity, knowing that this is God's will and purpose for us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.2019270651023173,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.55,
+            "commentatorTierSimilarities": [
+                27.81,
+                37.22,
+                34.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The will of God is for your sanctification, which involves purity of life and abstinence from the vices that degrade the soul. Fornication was not seen as a sin among the Gentiles, but as Christians, we are called to a higher standard. This sanctification is both internal and external, aligning our will with God's and living a holy life. Thus, we must abstain from fornication and impurity, knowing that this is God's will and purpose for us.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 2.3188833779615035,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.44,
+            "commentatorTierSimilarities": [
+                26.98,
+                37.87,
+                35.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The will of God is that you be sanctified, which means living a life of purity, abstaining from vices that degrade the soul. Fornication was not considered a sin among the Gentiles, but as Christians, we are called to a higher standard. We must internalize sanctification by aligning our will with God's and cultivating holiness within, while also demonstrating it through righteous living. Thus, it is vital that we refrain from sexual immorality and impurity, as this aligns with God's will and purpose for us.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 2.3399790181891893,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.14,
+            "commentatorTierSimilarities": [
+                28.6,
+                38.03,
+                33.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

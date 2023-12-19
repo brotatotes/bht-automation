@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:30:59",
+    "verseRef": "Acts 13:47",
+    "bestBHT": {
+        "bht": "Paul recognized that the prophecy referred to Christ, and thus he saw himself as fulfilling his Lord's destiny by turning to the Gentiles. The rejection of the Jews clarified for Paul the prophet's words about the Gentiles, prompting him to see himself as carrying out God's will. One must acknowledge, however, that God's people have been sluggish in executing His plans for salvation since the Gospel has yet to reach even half of the inhabitants of the earth.",
+        "wordCount": 82,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.3264312676431302,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.69,
+        "commentatorTierSimilarities": [
+            43.74,
+            21.83,
+            34.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "47.] They refer the word thee in the prophecy not to themselves as teachers, but to Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These and other predictions must have been long before this brought vividly home to Paul's mind...",
+            "Messiah from which Paul inferred that he was but following out this destination of his Lord...",
+            "Transferring to the Gentiles those 'unsearchable riches' which were now by the Jews rejected and despised."
+        ],
+        "Albert Barnes": [
+            "For so ... - Paul, as usual, appeals to the Scriptures to justify his course.",
+            "I have set thee ... - I have constituted or appointed thee.",
+            "To be a light - See the notes on John 1:4."
+        ],
+        "John Calvin": [
+            "But we must note, that many things which the Scripture attributeth to Christ do appertain unto his ministers.",
+            "Therefore the whole substance of our salvation is in Christ\u2019s person; but inasmuch as he worketh by his ministers, by resigning to them his office, he doth also impart with [to] them his titles.",
+            "For if the knowledge of God alone bring to us salvation, it is likewise the only resurrection from destruction of eternal death, for us to be illuminated into the faith of Christ, after that we be delivered from the darkness of ignorance."
+        ],
+        "Philip Schaff": [
+            "I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.",
+            "They could see, then, in their own sacred oracles, that the work of Messiah was not by any means to be confined to the Jews.",
+            "A far grander field was to be subjected to the influence of His blessed Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "The conviction of Paul's mind was now made clear by the fact of the rejection by the Jews. He could now see more clearly the words of the prophet about the Gentiles.",
+            "So Paul is carrying out the will of God in turning to the Gentiles.",
+            "It is a long time from Paul to now, not to say from Isaiah to now, and not yet has the gospel been carried to half of the people of earth. God's people are slow in carrying out God's plans for salvation."
+        ],
+        "John Gill": [
+            "I have set thee to be a light of the Gentiles; to enlighten the Gentiles that sit in darkness, by the preaching of the Gospel to them, and the Spirit of God attending it.",
+            "It was therefore an unspeakable mercy to them, that Christ was appointed to be a light to them...and that salvation is alone in him.",
+            "Thus what was decreed and resolved on by God the Father, and was declared by him to his Son, is applied to his ministers and ambassadors, who represented him...who by them was to go, and did go to the Gentiles, and enlighten them with the light of the Gospel, and became salvation to them."
+        ],
+        "John Wesley": [
+            "For so hath the Lord commanded us \u2014 By sending us forth, and giving us an opportunity of fulfilling what he had foretold.",
+            "I have set thee \u2014 The Father speaks to Christ. Isaiah 49:6."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prophecy in Acts 13:47 refers to Christ, not the teachers themselves. Paul, having studied the Scriptures, realized that he was following his Lord's destiny by turning to the Gentiles. The rejection of the Jews made it even clearer to Paul that the words of the prophet were about the Gentiles, and he saw himself as carrying out the will of God by bringing the Gospel to them. However, it is worth noting that God's people have been slow in carrying out His plans for salvation, as the Gospel has not yet reached even half of the people on earth.",
+            "wordCount": 101,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.2733830846914476,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.93,
+            "commentatorTierSimilarities": [
+                44.94,
+                21.37,
+                33.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, following the prophecy, inferred that he was fulfilling the destiny of his Lord by turning to the Gentiles. The rejection of the Jews made it clear to him that the prophet's words were about the Gentiles. Paul saw himself as carrying out God's will by bringing the rejected riches of the Jews to the Gentiles. This highlights the tendency of God's people to be slow in fulfilling His plans for salvation, as the Gospel has not reached even half the people on earth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.317881115946598,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.41,
+            "commentatorTierSimilarities": [
+                45.15,
+                23.15,
+                31.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, recognizing that the prophecy in Acts 13:47 referred to Christ, understood that it was his Lord's destiny he was following by turning to the Gentiles. The rejection of the Jews clarified the prophet's words about the Gentiles, leading Paul to realize he was carrying out God's will. However, it is worth acknowledging that God's people have often been slow in carrying out His plans for salvation, as evidenced by the fact that the Gospel has not yet reached a significant portion of the world's population.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2819948931476546,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.22,
+            "commentatorTierSimilarities": [
+                44.24,
+                21.59,
+                34.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, understanding that the prophecy referred to Christ, saw himself fulfilling his Lord's destiny by turning to the Gentiles. The rejection of the Jews made the prophet's words about the Gentiles even clearer to him. Paul believed that he was carrying out God's will and bringing the rejected riches of the Jews to the Gentiles. However, it is noteworthy that God's people have been slow in fulfilling His plans for salvation, as the Gospel has not yet reached half of the world's population.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.295616949322099,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.67,
+            "commentatorTierSimilarities": [
+                44.51,
+                22.68,
+                32.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul recognized that the prophecy referred to Christ, and thus he saw himself as fulfilling his Lord's destiny by turning to the Gentiles. The rejection of the Jews clarified for Paul the prophet's words about the Gentiles, prompting him to see himself as carrying out God's will. One must acknowledge, however, that God's people have been sluggish in executing His plans for salvation since the Gospel has yet to reach even half of the inhabitants of the earth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.3264312676431302,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.69,
+            "commentatorTierSimilarities": [
+                43.74,
+                21.83,
+                34.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

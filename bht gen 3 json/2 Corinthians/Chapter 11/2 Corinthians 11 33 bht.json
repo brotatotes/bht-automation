@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 15:18:14",
+    "verseRef": "2 Corinthians 11:33",
+    "bestBHT": {
+        "bht": "Paul's account of being let down in a basket through a window provides a unique glimpse into his humility and the sacrifices he made for his faith. The basket, likely a rope-basket, symbolizes the lowly and challenging nature of this experience. This incident serves as a reminder for us to remain steadfast in our devotion to Christ, even in the midst of difficult circumstances. As Paul's example demonstrates, our faith may require us to endure suffering and hardships, but trusting in God's providence will sustain us.",
+        "wordCount": 90,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.299654629959977,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.56,
+        "commentatorTierSimilarities": [
+            23.86,
+            47.81,
+            28.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The basket here spoken of probably was a \u201crope-basket,\u201d a net."
+        ],
+        "Albert Barnes": [
+            "There is great danger of being corrupted from the simplicity that is in Christ.\" ",
+            "Our religion has cost much suffering.",
+            "We should be willing to suffer now."
+        ],
+        "Marvin Vincent": [
+            "Through a window [\u03b4\u03b9\u03b1 \u03b8\u03c5\u03c1\u03b9\u03b4\u03bf\u03c2].",
+            "Diminutive of qura a door.",
+            "Basket [\u03c3\u03b1\u03c1\u03b3\u03b1\u03bd\u03b7]. Lit., braided work; a rope - basket or hamper."
+        ],
+        "Philip Schaff": [
+            "The catalogue given by the apostle in this chapter of his labours and sufferings in the service of Christ 'represents... a life hitherto without precedent in the history of the world.'",
+            "Even among those who are themselves so 'constrained,' there are few who come within any measurable distance of our apostle; but the one principle animating them and him alike must never be lost sight of.",
+            "In view of all this, including his 'anxiety for all the churches,' well might Calvin exclaim, 'What a picture of a complete minister, to embrace in his care and consideration not one church, nor ten, nor thirty, but all at once.'"
+        ],
+        "Archibald T. Robertson": [
+            "Through a window...the only N.T. example.\" ",
+            "Was I let down...the very word used by Luke.\" ",
+            "In a basket...a humiliating experience for Paul."
+        ],
+        "John Gill": [
+            "And through a window in a basket was I let down",
+            "he was let down by the wall side, 'in a basket or net'",
+            "This deliverance he mentions with thankfulness to God, and as an instance of divine Providence in the preservation of him"
+        ],
+        "John Wesley": [
+            "Through a window \u2014 Of an house which stood on the city wall."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see Paul describing a humbling experience where he was let down through a window in a basket. The basket was likely a rope-basket, a form of braided work. This is the only example in the New Testament of someone being let down in this way, emphasizing the unique and possibly humiliating nature of the situation. Through this incident, we can glean insight into the cost and suffering that Paul endured for the sake of his faith. It serves as a reminder for us to remain steadfast and uncompromising in our devotion to Christ, even in the face of adversity.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.4365500788525338,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.11,
+            "commentatorTierSimilarities": [
+                33.3,
+                34.01,
+                32.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's account of being let down in a basket through a window provides a unique glimpse into his humility and the sacrifices he made for his faith. The basket, likely a rope-basket, symbolizes the lowly and challenging nature of this experience. This incident serves as a reminder for us to remain steadfast in our devotion to Christ, even in the midst of difficult circumstances. As Paul's example demonstrates, our faith may require us to endure suffering and hardships, but trusting in God's providence will sustain us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.299654629959977,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.56,
+            "commentatorTierSimilarities": [
+                23.86,
+                47.81,
+                28.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul recounts a humbling incident where he was let down through a window in a basket. This unique, possibly humiliating experience highlights the depth of Paul's devotion to his faith. It serves as a reminder that following Christ may come with sacrifices and suffering. Paul's example encourages us to remain steadfast, even in the face of adversity, trusting in God's providence to sustain us. This extraordinary display of Paul's ministry and care for all churches showcases the immense dedication required in serving Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.2714736905779895,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.62,
+            "commentatorTierSimilarities": [
+                21.25,
+                48.55,
+                30.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's recounting of being let down in a basket through a window showcases his humility and the extent he was willing to suffer for his faith. This unique and possibly humiliating experience highlights the sacrifices and challenges that come with following Christ. It serves as a reminder to remain steadfast in our devotion, even in difficult circumstances. Paul's example demonstrates the depth of his ministry, caring not just for one church but for all. It is a powerful testament to the dedication required in serving Christ faithfully.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.2456622137204694,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.76,
+            "commentatorTierSimilarities": [
+                18.83,
+                61.45,
+                19.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's humble account of being let down through a window in a basket underscores the sacrifices and suffering he endured for his faith. This unique and potentially embarrassing experience serves as a reminder for us to remain steadfast in our devotion to Christ, even in challenging circumstances. Paul's exceptional commitment to his ministry, encompassing care for multiple churches, sets a remarkable example for us all. It demonstrates the deep level of dedication required in serving Christ faithfully throughout our lives.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.2305193091118074,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.26,
+            "commentatorTierSimilarities": [
+                15.2,
+                62.9,
+                21.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

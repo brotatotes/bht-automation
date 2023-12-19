@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:47:46",
+    "verseRef": "1 John 2:28",
+    "bestBHT": {
+        "bht": "Abide in Christ so that when He is revealed, we can confidently approach Him without shame. This means not fleeing from His presence, which would cause shame. Believers of all stages and ages are called to abide in Him, being rooted and grounded. The reference to the second coming of Christ reminds us that it could happen at any time. Therefore, we should abide in Him, having faith, hope, and love, so that we will not be put to shame before Him at His coming.",
+        "wordCount": 85,
+        "quoteTokenProportion": 56.67,
+        "qualityScore": 2.114725485101311,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.66,
+        "commentatorTierSimilarities": [
+            33.03,
+            31.66,
+            35.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Abide in Him... in order that if He should be manifested... we may have confidence, and may not shrink with shame from Him at His coming.",
+            "The preposition from... expresses the flying from His presence, which the shame would suggest.",
+            "He who has not abode in the Lord, will flee from Him with shame and confusion when He appears."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "little sons,\" as in believers of every stage and age.",
+            "abide in him\u2014Christ.",
+            "shrink back from Him ashamed."
+        ],
+        "Albert Barnes": [
+            "Abide in him; that, when he shall appear - In the end of the world, to receive his people to himself.",
+            "It means that they would not be overwhelmed and confounded at the coming of the Saviour, by its being then found that all their hopes were fallacious.",
+            "Many will thus be ashamed in the last day, Matthew 7:21-23; but it is one of the promises made to those who truly believe on the Saviour, that they shall never be ashamed or confounded."
+        ],
+        "John Calvin": [
+            "Faith is not a naked and frigid apprehension of Christ, but a lively and real sense of his power, which produces confidence.",
+            "The nature of confidence is well expressed when he says that it can boldly sustain the presence of Christ.",
+            "A godly confidence delights to look on God. Hence it is, that the godly calmly wait for Christ, nor do they dread his coming."
+        ],
+        "Philip Schaff": [
+            "But throughout this Epistle the human side is never forgotten, while all is referred finally to the indwelling of the Son.",
+            "The \u2018coming\u2019 of the Lord is His coming to judgment; but St. John here uses, and here only, a gracious word that signifies His presence.",
+            "We are exhorted to \u2018abide in Him;\u2019 and whether we meet Him or are brought with Him, the confidence will be the same."
+        ],
+        "Archibald T. Robertson": [
+            "And now (\u03ba\u03b1 \u03bd\u03c5\u03bd). John tenderly repeats the exhortation, 'keep on abiding in him.'",
+            "A clear reference to the second coming of Christ which may be at any time.",
+            "'From him,' as if shrinking away from Christ in guilty surprise."
+        ],
+        "John Gill": [
+            "The apostle... exhorts to abide in Christ, that is, in the exercise of faith on him, of hope in him, and love to him.",
+            "They will not be put to shame by him; nor will they be ashamed of their confidence, faith, hope, and expectation.",
+            "They will have what they have expressed confidence in, and will have their expectations answered, and not disappointed, by having such souls as their joy and crown of rejoicing."
+        ],
+        "John Wesley": [
+            "Abide in him, that we \u2014 A modest expression.",
+            "May not be ashamed before him at his coming \u2014 O how will ye, Jews, Socinians, nominal Christians, be ashamed in that day!",
+            "Abide in him, that we may not be ashamed before him at his coming."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abide in Christ, for when He is revealed, we can approach Him with confidence, unashamed. The idea of shrink[ing] from His presence emphasizes the shame that would come from fleeing from Him. All believers, regardless of their stage in life, are encouraged to abide in Christ, being rooted and grounded in Him. This passage refers to the second coming of Christ, which could happen at any time. Our hope is that we abide in Him so that we may not be put to shame or feel guilty surprise when He appears. In this, we find the nature of confidence - the ability to boldly sustain the presence of Christ and delight in looking towards God, eagerly awaiting His coming. As believers, we are urged to abide in Christ, remaining in a posture of faith, hope, and love towards Him, so that we may not be ashamed before Him at His coming.",
+            "wordCount": 151,
+            "quoteTokenProportion": 43.53,
+            "qualityScore": 2.14882292639473,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.79,
+            "commentatorTierSimilarities": [
+                30.76,
+                31.39,
+                37.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abide in Christ, for when He is manifested, we may approach Him with confidence, not shrinking in shame. Believers of all stages and ages are urged to abide in Him, remaining rooted and grounded. This verse refers to the second coming of Christ, which may occur at any time. As believers, our hope is to not be put to shame or feel guilty surprise when He appears. Confidence is boldly sustaining His presence, delighting in looking towards God, eagerly awaiting His coming. We are encouraged to abide in Christ, staying in a posture of faith, hope, and love, to avoid shame before Him at His coming.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.146940689590626,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                31.48,
+                30.52,
+                38.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abide in Christ so that when He is revealed, we can confidently approach Him without shame. This means not fleeing from His presence, which would cause shame. Believers of all stages and ages are called to abide in Him, being rooted and grounded. The reference to the second coming of Christ reminds us that it could happen at any time. Therefore, we should abide in Him, having faith, hope, and love, so that we will not be put to shame before Him at His coming.",
+            "wordCount": 85,
+            "quoteTokenProportion": 56.67,
+            "qualityScore": 2.114725485101311,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.66,
+            "commentatorTierSimilarities": [
+                33.03,
+                31.66,
+                35.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abide in Christ to approach Him with confidence when He is revealed. Fleeing from His presence would bring shame, so believers of all stages and ages are encouraged to remain rooted in Him. The mention of Christ's second coming carries the reminder that it could happen at any moment. Therefore, we should stay in Him, living out our faith, hope, and love, to avoid being put to shame before Him when He comes.",
+            "wordCount": 74,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.108080096855791,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.43,
+            "commentatorTierSimilarities": [
+                30.51,
+                32.6,
+                36.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abide in Christ to confidently approach Him without shame when He is revealed. Believers should not flee from His presence, as it would lead to shame. All believers, regardless of age and stage, are called to abide in Christ, remaining firmly rooted in Him. This verse points to the second coming of Christ, which could happen at any time. Our hope is to abide in Him, exercising faith, hope, and love, so that we will not be ashamed when He appears.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.179669591562643,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.81,
+            "commentatorTierSimilarities": [
+                32.93,
+                30.15,
+                36.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

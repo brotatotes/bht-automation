@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:31:03",
+    "verseRef": "Acts 14:2",
+    "bestBHT": {
+        "bht": "When Paul preached, there were some Jews who refused to believe, disobeying God's word. His message won over both Jews and Gentiles, but displeased the rabbis. The unbelieving Jews incited the Gentiles, causing them to persecute and resist the believers. This opposition arose because the idea of Jews and Gentiles being united in one holy brotherhood was strangely hateful to those who prided themselves in their exclusive privileges as God's chosen people.",
+        "wordCount": 74,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.9751143596253093,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+        "commentatorTierSimilarities": [
+            25.95,
+            32.96,
+            41.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] which believed not, viz. when Paul preached. Ver. 3 gives the sequel of ver. 1,\u2014ver. 4, of ver. 2."
+        ],
+        "Albert Barnes": [
+            "And made their minds evil-affected - Irritated, or exasperated them.",
+            "Against the brethren - One of the common appellations by which Christians were known."
+        ],
+        "John Calvin": [
+            "Those Jews which believed not are persecuted now afresh, and that by the Jews, for they were like firebrands to inflame the minds of the Gentiles.\" ",
+            "For it is to be thought that the Gentiles could abide to hear the gospel preached, unless they had been incensed to resist by these fans.",
+            "Under the name brethren, Luke comprehendeth, in my judgment, all the godly; to wit, that they were vexed and troubled whosoever embraced the gospel, as if some pernicious sect had risen to spread discord, to trouble the peace of the city, to shake the public state."
+        ],
+        "Philip Schaff": [
+            "Of the numerous persecutions recorded in the \u2018Acts,\u2019 there were only two which were not occasioned by the Jews.",
+            "The Jews saw that all those privileges which belonged to the covenant people, and of which they were so jealously proud, would cease altogether to be their peculiar heritage if the Gentiles were admitted on the same terms into the kingdom of God.",
+            "To these unhappy men, the thought that \u2018believing Jews\u2019 and \u2018believing Gentiles\u2019 should constitute one holy brotherhood, was strangely hateful."
+        ],
+        "Archibald T. Robertson": [
+            "To disbelieve the word of God is to disobey God.",
+            "Evidently Paul preached the same message as in Antioch for it won both Jews and Gentiles, and displeased the rabbis.",
+            "Certainly the picture of Paul herein drawn cannot be considered authentic though a true tradition may underlie it: 'bald, bowlegged, strongly built, small in stature, with large eyes and meeting eyebrows and longish nose; full of grace; sometimes looking like a man, sometimes having the face of an angel.'"
+        ],
+        "John Gill": [
+            "But the unbelieving Jews stirred up the Gentiles... and made their minds evil affected against the brethren.\" ",
+            "These stirred up the Gentiles, who had no knowledge of, nor faith in this matter.",
+            "They... made their minds evil affected against the brethren."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Paul preached in Acts 14:2, there were some Jews who refused to believe the word of God and therefore disobeyed God. Paul's preaching was so powerful that it won over both Jews and Gentiles, but it also displeased the rabbis. The Jews who disbelieved became like firebrands, incensing the Gentiles to persecute and resist the believers. The Gentiles, who were initially open to hearing the gospel, were influenced by the Jews to become hostile towards the brethren, causing discord and trouble in the city. This opposition arose because the idea of Jews and Gentiles being united as one holy brotherhood was strangely hateful to those who took pride in their exclusive privileges as God's chosen people.",
+            "wordCount": 118,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9478647118223014,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.11,
+            "commentatorTierSimilarities": [
+                25.94,
+                32.02,
+                42.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Paul preached, there were some Jews who refused to believe the word of God. To disbelieve the word of God is to disobey God. However, Paul's message won over both Jews and Gentiles, displeasing the rabbis. The unbelieving Jews became like firebrands, inciting the Gentiles to persecute and resist the believers, causing discord and trouble. The opposition arose because the idea of Jews and Gentiles being united as one holy brotherhood was strangely hateful to those who took pride in their exclusive privileges as God's chosen people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8719682994936162,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+            "commentatorTierSimilarities": [
+                31.15,
+                30.28,
+                38.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Paul preached, there were some Jews who refused to believe, disobeying God's word. His message won over both Jews and Gentiles, but displeased the rabbis. The unbelieving Jews incited the Gentiles, causing them to persecute and resist the believers. This opposition arose because the idea of Jews and Gentiles being united in one holy brotherhood was strangely hateful to those who prided themselves in their exclusive privileges as God's chosen people.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.9751143596253093,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                25.95,
+                32.96,
+                41.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Paul preached, some Jews disbelieved and disobeyed God's word. His message won both Jews and Gentiles, but displeased the rabbis. The unbelieving Jews incited the Gentiles, causing them to persecute and resist the believers. The opposition arose because the thought of Jews and Gentiles being united in one holy brotherhood was strangely hateful to those who were proud of their exclusive privileges as God's chosen people.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.930097960550937,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                25.9,
+                32.91,
+                41.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Paul preached, there were Jews who refused to believe the word of God, thereby disobeying Him. His message won over both Jews and Gentiles, but it also displeased the rabbis. The unbelieving Jews became like firebrands, inflaming the minds of the Gentiles to persecute and oppose the believers. This opposition arose because the idea of Jews and Gentiles uniting as one holy brotherhood was fiercely despised by those who took pride in their exclusive privileges as God's chosen people.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.9291018479456947,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.48,
+            "commentatorTierSimilarities": [
+                25.84,
+                32.46,
+                41.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

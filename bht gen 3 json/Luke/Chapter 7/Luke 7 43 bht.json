@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:16:21",
+    "verseRef": "Luke 7:43",
+    "bestBHT": {
+        "bht": "I suppose, accordingly, that the man in the parable who had been forgiven more debts would show more love and gratitude towards the one who forgave him, as opposed to the one who was forgiven less. The question being asked in this context is not about who will be the better Christian, but rather who will display a greater outward manifestation of gratitude. Jesus confirms this assessment, stating that the man's judgment is correct, for it is only after being forgiven that either person will truly begin to love the one who forgave them.",
+        "wordCount": 95,
+        "quoteTokenProportion": 54.69,
+        "qualityScore": 1.403744202486114,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+        "commentatorTierSimilarities": [
+            15.0,
+            39.36,
+            45.64
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "I suppose ... - He saw not \u201cthe point\u201d of our Lord\u2019s parable. By thus saying, therefore, he condemned himself, and prepared the way for our Lord\u2019s reproof."
+        ],
+        "Marvin Vincent": [
+            "I suppose [\u03c5\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9] . The verb literally means to take up by getting under. It might be rendered, accordingly, I take it."
+        ],
+        "Philip Schaff": [
+            "I suppose. We are to understand, \u2018that is, if they feel as they ought.\u2019\" ",
+            "But the sense of sin is represented by the debt, and the question does not necessarily mean: which will be the better Christian? but rather, which will be the more affectionate, self-sacrificing in outward manifestations of gratitude?"
+        ],
+        "Archibald T. Robertson": [
+            "Here with an air of supercilious indifference.",
+            "The more.",
+            "Correctly."
+        ],
+        "John Gill": [
+            "I suppose, that he to whom he forgave most...",
+            "and he said unto him; that is, Jesus said...",
+            "thou hast rightly judged; this is a right and true judgment of the case..."
+        ],
+        "John Wesley": [
+            "Neither of them will love him at all, before he has forgiven them.",
+            "An insolvent debtor, till he is forgiven, does not love, but fly his creditor."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I suppose, accordingly, that the man in the parable who had been forgiven more debts would show more love and gratitude towards the one who forgave him, as opposed to the one who was forgiven less. The question being asked in this context is not about who will be the better Christian, but rather who will display a greater outward manifestation of gratitude. Jesus confirms this assessment, stating that the man's judgment is correct, for it is only after being forgiven that either person will truly begin to love the one who forgave them.",
+            "wordCount": 95,
+            "quoteTokenProportion": 54.69,
+            "qualityScore": 1.403744202486114,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+            "commentatorTierSimilarities": [
+                15.0,
+                39.36,
+                45.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I suppose that the man in the parable who was forgiven more debts would show a greater display of love and gratitude towards the one who forgave him. Jesus confirms this, stating that the man's judgment is correct, as neither person will truly begin to love the one who forgave them until they have been forgiven. The question here is not about who will be the better Christian, but about who will exhibit a more outward manifestation of gratitude.",
+            "wordCount": 80,
+            "quoteTokenProportion": 55.36,
+            "qualityScore": 1.3419351382877753,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.96,
+            "commentatorTierSimilarities": [
+                12.82,
+                38.36,
+                48.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I take it that the man in question here saw Jesus' parable with an air of indifference and did not fully grasp its meaning. This is evident in his response, which revealed his lack of understanding and prepared the way for Jesus' rebuke. The comparison made in the parable was not about who would be the better Christian, but rather who would show a greater affection and self-sacrifice in expressing gratitude. Jesus acknowledged that the man had rightly judged the situation, and emphasized that neither of the debtors would love the creditor until they had been forgiven. In a similar way, we too should recognize the magnitude of our sin and the forgiveness we have received, leading us to express our love and gratitude towards our Savior.",
+            "wordCount": 128,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.3224606338191296,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.31,
+            "commentatorTierSimilarities": [
+                13.6,
+                51.95,
+                34.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I suppose the man in question here did not fully grasp the point of Jesus' parable, displaying an air of indifference. However, Jesus acknowledged that he had rightly judged the situation. The parable was not about determining who would be the better Christian, but rather about showing a greater affection and self-sacrifice in expressing gratitude. It is clear that neither of the debtors would love the creditor until they had been forgiven, and similarly, we should recognize the magnitude of our sin and the forgiveness we have received, prompting us to express our love and gratitude towards our Savior.",
+            "wordCount": 100,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.3522303603764851,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.3,
+            "commentatorTierSimilarities": [
+                14.54,
+                50.14,
+                35.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I take it that the man in question here saw Jesus' parable with an air of indifference, not fully grasping its meaning. Yet, Jesus acknowledged that he had made a right judgment. The parable was not meant to determine who would be the better Christian, but rather who would show a greater affection and self-sacrifice in expressing gratitude. Both debtors needed to be forgiven before they could truly love the creditor. Similarly, we should recognize our own sin and the forgiveness we have received, leading us to respond with deep love and gratitude towards our Savior.",
+            "wordCount": 97,
+            "quoteTokenProportion": 49.33,
+            "qualityScore": 1.3216104199558074,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.29,
+            "commentatorTierSimilarities": [
+                15.31,
+                42.61,
+                42.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

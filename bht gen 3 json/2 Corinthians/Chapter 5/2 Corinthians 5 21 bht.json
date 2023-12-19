@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 15:16:21",
+    "verseRef": "2 Corinthians 5:21",
+    "bestBHT": {
+        "bht": "Jesus, the unspeakable gift of God, became sin for us on the Cross, representing the collective consequence of sin. The innocent was punished as if guilty, so that the guilty might be rewarded as if innocent. This was God's purpose, so that we might obtain His righteousness. Through Christ's sacrifice, we are reconciled to God, and there is no return to favor with Him except through Christ alone. We are made the righteousness of God, not by our own works, but by being judged in connection with Christ's righteousness which we have put on by faith.",
+        "wordCount": 99,
+        "quoteTokenProportion": 59.38,
+        "qualityScore": 2.3349530391176145,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.98,
+        "commentatorTierSimilarities": [
+            34.0,
+            23.78,
+            42.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The unspeakable gift of God, to bring about the reconciliation.",
+            "He made (to be) sin for us... He, on the Cross, was the Representative of Sin",
+            "That we might become the Righteousness of God in Him"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The sin of the world is one, therefore the singular, not the plural, is used; though its manifestations are manifold.",
+            "At His death on the cross the sin-bearing for us was consummated.",
+            "The innocent was punished voluntarily as if guilty, that the guilty might be gratuitously rewarded as if innocent."
+        ],
+        "Albert Barnes": [
+            "When all other appeals fail this is effectual; and this is in fact the strong argument by which the mass of those who become Christians are induced to abandon their opposition and to become reconciled to God.",
+            "No other knowledge is so desirable as this. Nothing will produce so much comfort as this. Nothing will contribute so much to make him firm, decided, and consistent in his Christian walk as this.",
+            "Heaven is his home; and it is his privilege to desire to be there. Here he is in a world of trial and of sin. There he shall be in a world of joy and of holiness. Here he dwells in a frail, suffering, decaying body. There he shall be clothed with immortality."
+        ],
+        "Marvin Vincent": [
+            "Made to be sin... Not a sin-offering, nor a sinner, but the representative of sin.",
+            "On Him, representatively, fell the collective consequence of sin.",
+            "The one used here implies the fact of sinlessness as present to the consciousness of the person concerning whom the fact is stated."
+        ],
+        "John Calvin": [
+            "According to Paul, there is no return to favor with God, except what is founded on the sacrifice of Christ alone.",
+            "Sin is here contrasted with righteousness, when Paul teaches us, that we were made the righteousness of God, on the ground of Christ\u2019s having been made sin.",
+            "We are now righteous in him \u2014 not in respect of our rendering satisfaction to the justice of God by our own works, but because we are judged of in connection with Christ\u2019s righteousness, which we have put on by faith, that it might become ours."
+        ],
+        "Philip Schaff": [
+            "So far from God requiring to be moved by the death of Christ to compassionate and provide salvation for a sinful world, it was God Himself who spontaneously sent His Son on this errand into our world.",
+            "To be 'made sin' cannot mean to be made personally sinful, either in act or inclination... 'It is to be noted that the word 'sin' here... necessarily includes in itself the notion of guilt, but guilt not His own... hence the guilt which through His death was to be removed from men was transferred to Him, and so the justification of men is imputative.'",
+            "Both are equally imputative; in both cases the act is purely judicial."
+        ],
+        "Archibald T. Robertson": [
+            "Definite claim by Paul that Jesus did not commit sin, had no personal acquaintance with it.\" ",
+            "God 'treated as sin' the one 'who knew no sin.'",
+            "This is God's purpose in what he did and in what Christ did. Thus alone can we obtain God's righteousness."
+        ],
+        "John Gill": [
+            "He was made sin itself by imputation; the sins of all his people were transferred unto him, laid upon him, and placed to his account; he sustained their persons, and bore their sins; and having them upon him, and being chargeable with, and answerable for them, he was treated by the justice of God as if he had been not only a sinner, but a mass of sin.\" ",
+            "He knew no sin so as to approve of it, and like it; he hates, abhors, and detests it; he never was conscious of any sin to himself; he never knew anything of this kind by, and in himself; nor did he ever commit any, nor was any ever found in him, by men or devils, though diligently sought for.",
+            "Just as Christ is made sin, or a sinner, by the imputation of the sins of others to him; so they are made righteousness, or righteous persons, through the imputation of his righteousness to them; and in no other way can the one be made sin, or the other righteousness."
+        ],
+        "John Wesley": [
+            "He made him a sin offering, who knew no sin \u2014 A commendation peculiar to Christ.",
+            "For us \u2014 Who knew no righteousness, who were inwardly and outwardly nothing but sin; who must have been consumed by the divine justice, had not this atonement been made for our sins.",
+            "That we might be made the righteousness of God through him \u2014 Might through him be invested with that righteousness, first imputed to us, then implanted in us, which is in every sense the righteousness of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, the unspeakable gift of God, became sin for us on the Cross. He represented sin, taking upon Himself the collective consequence of sin. Though sin is singular, its manifestations are manifold. Yet Jesus, the innocent, was willingly punished as if guilty, so that the guilty might be freely rewarded as if innocent. This was God's purpose in what He did and what Christ did - to enable us to obtain God's righteousness. It is through Christ's sacrifice that we are reconciled to God, and there is no return to favor with God except through the sacrifice of Christ alone. We are made the righteousness of God, not through our own works, but by being judged in connection with Christ's righteousness which we have put on by faith.",
+            "wordCount": 131,
+            "quoteTokenProportion": 57.69,
+            "qualityScore": 2.356115502988584,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.68,
+            "commentatorTierSimilarities": [
+                35.01,
+                24.1,
+                40.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, the unspeakable gift of God, became sin for us on the Cross, representing the collective consequence of sin. The innocent was punished as if guilty, so that the guilty might be rewarded as if innocent. This was God's purpose, so that we might obtain His righteousness. Through Christ's sacrifice, we are reconciled to God, and there is no return to favor with Him except through Christ alone. We are made the righteousness of God, not by our own works, but by being judged in connection with Christ's righteousness which we have put on by faith.",
+            "wordCount": 99,
+            "quoteTokenProportion": 59.38,
+            "qualityScore": 2.3349530391176145,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.98,
+            "commentatorTierSimilarities": [
+                34.0,
+                23.78,
+                42.23
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

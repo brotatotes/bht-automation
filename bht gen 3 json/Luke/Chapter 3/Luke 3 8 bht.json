@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:14:24",
+    "verseRef": "Luke 3:8",
+    "bestBHT": {
+        "bht": "Do not begin to make excuses, saying 'We have Abraham as our father.' The emphasis on the word begin demonstrates that even the attempt to justify oneself is futile. The statement is a reminder to not trust in one's ancestry or membership in a religious community, but rather to produce genuine fruit that reflects true repentance. It is a powerful declaration that God is not limited by human lineage, for He can even raise up children from stones if He desires. The urgency is clear \u2013 this change of heart must happen without delay.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.47,
+        "qualityScore": 1.202053004809264,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.31,
+        "commentatorTierSimilarities": [
+            53.07,
+            0.0,
+            46.93
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8. begin not to say] He cuts off even the attempt to excuse themselves."
+        ],
+        "Marvin Vincent": [
+            "He anticipates even attempt at excuse.",
+            "The word stands first in the sentence, 'We have Abraham to our father,' and is therefore emphatic.",
+            "These stones."
+        ],
+        "John Gill": [
+            "Bring forth therefore fruits worthy of repentance... such as will show it to be true and genuine.\" ",
+            "God is able of these stones to raise up children unto Abraham.\" ",
+            "When the creation of Adam out of the earth, and the production of such a numerous offspring... are considered."
+        ],
+        "John Wesley": [
+            "Trust not in your being members of the visible Church.",
+            "God now requires a change of heart.",
+            "That without delay."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not begin to make excuses, saying 'We have Abraham as our father.' The emphasis on the word begin demonstrates that even the attempt to justify oneself is futile. The statement is a reminder to not trust in one's ancestry or membership in a religious community, but rather to produce genuine fruit that reflects true repentance. It is a powerful declaration that God is not limited by human lineage, for He can even raise up children from stones if He desires. The urgency is clear \u2013 this change of heart must happen without delay.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.202053004809264,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.31,
+            "commentatorTierSimilarities": [
+                53.07,
+                0.0,
+                46.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not begin to say, 'We have Abraham as our father,' for even the attempt to excuse oneself is futile. This emphasis on not making excuses highlights the need for genuine repentance, demonstrated through fruitful actions. It is a reminder not to rely solely on religious affiliation or heritage, for God's power is not limited to human lineage alone. The urgency of this message is evident, as an immediate change of heart is required without delay.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.1483714906471811,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.53,
+            "commentatorTierSimilarities": [
+                56.77,
+                0.0,
+                43.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not begin to excuse yourselves, saying 'We have Abraham as our father,' for this attempt fails to address the need for true repentance. The emphasized word begin underlines the futility of making such excuses. It serves as a reminder to not place trust solely in one's lineage or membership in a religious community. Instead, there is a requirement to produce authentic fruit that reflects a genuine change of heart. The verse also emphasizes God's power and ability to raise up children from unexpected sources if necessary. This necessitates an urgent and immediate response.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 0.9936895673220363,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.38,
+            "commentatorTierSimilarities": [
+                51.42,
+                0.0,
+                48.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not begin to excuse yourselves, saying 'We have Abraham as our father,' for even the attempt to excuse is futile. This verse emphasizes the urgency of true repentance and the need to produce genuine fruit as evidence. Trusting in ancestral or religious affiliation is insufficient, as God's power is not limited by human lineage. This verse challenges us to recognize that a change of heart is required without delay. It echoes the reminder that God can even raise up children from unexpected sources, should the need arise.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.1218268785501597,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.64,
+            "commentatorTierSimilarities": [
+                46.31,
+                0.0,
+                53.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not make excuses, saying 'We have Abraham as our father,' for even this attempt is futile. The urgency of genuine repentance is emphasized, as it requires producing fruits that demonstrate its authenticity. This verse cautions against relying solely on heritage or religious affiliation, for God's power is not limited by human lineage. It serves as a reminder to promptly change one's heart, recognizing that God has the ability to raise children from unexpected sources if necessary.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.0240076134359408,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.39,
+            "commentatorTierSimilarities": [
+                46.69,
+                0.0,
+                53.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:34:03",
+    "verseRef": "Acts 19:29",
+    "bestBHT": {
+        "bht": "In Ephesus, the immense theater - the largest known from ancient times - became the site of a tumultuous gathering. Gaius and Aristarchus were simultaneously seized as the crowd rushed into the theater. Seeking refuge from the chaos, Paul found asylum with Aquila and Priscilla, who would later be praised for risking their lives for him. Paul courageously chose to confront the mob in the theater, fully aware that doing so meant certain death. This event illustrates the power of mob psychology, with the entire city united in their purpose against Paul and his message.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.29,
+        "qualityScore": 1.7373314256561687,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+        "commentatorTierSimilarities": [
+            39.17,
+            25.09,
+            35.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "having caught] It is not implied that they seized Gaius and Aristarchus before they rushed into the theatre: but rather that the two acts were simultaneous.",
+            "The resort of the populace on occasions of excitement.",
+            "The theatre of Ephesus is said to be the largest known of any that have remained to us from antiquity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If it was in the house of Aquila and Priscilla that he found an asylum, that would explain Romans 16:3; Romans 16:4, where he says of them that 'for his life they laid down their own necks.'\"  ",
+            "A vast pile, whose ruins are even now a wreck of immense grandeur."
+        ],
+        "Albert Barnes": [
+            "Confusion - Tumult; disorder.",
+            "With one accord - Tumultuously; or with one mind or purpose.",
+            "Into the theatre - The theaters of the Greeks were not only places for public exhibitions, but also for holding assemblies, and often for courts, elections, etc. The people, therefore, naturally rushed there, as being a suitable place to decide this matter."
+        ],
+        "Marvin Vincent": [
+            "The theater. The site of which can still be traced. It is said to have been capable of seating fifty - six thousand persons.\" ",
+            "Having seized [\u03c3\u03c5\u03bd\u03b1\u03c1\u03c0\u03b1\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2] . Lit., 'having seized along with [\u03c3\u03c5\u03bd] :' carried them along with the rush.\" ",
+            "Companions in travel [\u03c3\u03c5\u03bd\u03b5\u03ba\u03b4\u03b7\u03bc\u03bf\u03c5\u03c2] . Only here and 2 Corinthians 8:19. The word is compounded of sun, along with, ejk, forth, and dhmov, country or land, and means, therefore, one who has gone forth with another from his country."
+        ],
+        "John Calvin": [
+            "Like as if a thousand houses should be set on fire at a sudden, so all the city was on an uproar in one moment; and when such a tempest is once raised, it is not easily stayed.",
+            "The Lord doth uphold the ministers of his word with an excellent comfort, when as they be tossed amidst diverse storms and garboils.",
+            "We must sail as it were in a tempestuous sea; yet that we must suffer this infamy, as if we ourselves were the procurers of trouble?"
+        ],
+        "Philip Schaff": [
+            "And the whole city was filled with confusion.",
+            "We can well understand how easily, when it was reported that a hitherto despised company of foreign Jews... were engaged in a conspiracy to discredit the worship of the goddess which was the source of the fame and wealth of their city, a vast crowd of Ephesians of all ranks and callings would rapidly be gathered together.",
+            "The theatre of Ephesus was of vast size, and capable of accommodating, according to the usual computation, at least 20,000 persons."
+        ],
+        "Archibald T. Robertson": [
+            "The appearance of such a body in the crowded agora of an excitable city",
+            "A case of mob psychology (mob mind), with one accord",
+            "Paul wanted to go and face the mob in the theatre, knowing that it meant certain death"
+        ],
+        "John Gill": [
+            "They rushed with one accord into the theatre; where the public plays were acted in honour of the goddess Diana, and where, among other things, men were set to fight with wild beasts.",
+            "A theatre is a spectacle or show, so called, because in them fights were shown, plays were acted, games exercised, and battles fought between men and men, and between men and beasts, and between beasts and beasts.",
+            "Of this theatre at Ephesus I have not met with any account; whether it was in the temple, or without, is not certain; very likely it might be a part of it, or adjoin unto it."
+        ],
+        "John Wesley": [
+            "They rushed with one accord \u2014 Demetrius and his company, into the theatre.\" ",
+            "Where criminals were wont to be thrown to the wild beasts, dragging with them Gaius and Aristarchus.\" ",
+            "Probably they hoped to oblige them to fight with the wild beasts, as some think St. Paul had done before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the city of Ephesus, a tumultuous crowd gathered in the theater, a vast and grand structure capable of seating thousands of people. At the same time, Gaius and Aristarchus were seized and dragged to the theater amidst the chaos. It was in this theater that Paul had sought refuge with Aquila and Priscilla, and their willingness to lay down their lives for him is mentioned in Romans 16:3-4. Although the city was filled with confusion, Paul felt compelled to go and confront the mob, even if it meant certain death. The theater, often used for public assemblies, elections, and courts, became the focal point for the crowd and their accusations against Paul and his companions. This situation in Ephesus exemplifies the power of mob psychology, with the entire city united in purpose against Paul and his message.",
+            "wordCount": 137,
+            "quoteTokenProportion": 34.52,
+            "qualityScore": 1.8060842037614102,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.39,
+            "commentatorTierSimilarities": [
+                33.15,
+                32.39,
+                34.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the bustling city of Ephesus, a massive and impressive theater, capable of seating thousands of people, became the center of an uproar as a crowd rushed in with one accord. Gaius and Aristarchus were seized and brought into this chaotic scene. Seeking safety, Paul had taken refuge with Aquila and Priscilla, who would later be commended for risking their lives for him. Despite the confusion, Paul was willing to face the mob in the theater, fully aware that it would likely lead to his own demise. The theater served not only as a place for public displays but also for assemblies, courts, and elections, making it a suitable location for the people to gather and confront Paul. This event highlights the power of mob psychology, as the entire city united against Paul and his teachings.",
+            "wordCount": 136,
+            "quoteTokenProportion": 33.7,
+            "qualityScore": 1.6928865339734345,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                33.61,
+                31.53,
+                34.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Ephesus, the immense theater - the largest known from ancient times - became the site of a tumultuous gathering. Gaius and Aristarchus were simultaneously seized as the crowd rushed into the theater. Seeking refuge from the chaos, Paul found asylum with Aquila and Priscilla, who would later be praised for risking their lives for him. Paul courageously chose to confront the mob in the theater, fully aware that doing so meant certain death. This event illustrates the power of mob psychology, with the entire city united in their purpose against Paul and his message.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.7373314256561687,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+            "commentatorTierSimilarities": [
+                39.17,
+                25.09,
+                35.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the bustling city of Ephesus, the grand theater, known for its majestic ruins and seating capacity of up to 56,000 people, became the epicenter of chaos. The crowd rushed into the theater with one accord, simultaneously seizing Gaius and Aristarchus. Seeking refuge, Paul found safety with Aquila and Priscilla, who risked their lives for him. Despite the confusion, Paul resolved to face the mob in the theater, fully aware that it would likely result in his own death. This incident exemplifies the power of mob psychology as the entire city rallied against Paul and his message.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7261968857534176,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.74,
+            "commentatorTierSimilarities": [
+                35.81,
+                28.52,
+                35.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the vast theater of Ephesus, where thousands could be seated, a chaotic scene unfolded as the crowd rushed in with one accord. Gaius and Aristarchus were seized amidst the confusion. Taking refuge in the home of Aquila and Priscilla, Paul found safety. However, he boldly chose to confront the mob in the theater, even though it meant facing certain death. This event showcases the power of mob psychology, with the entire city united in their opposition against Paul and his teachings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.6973776503433036,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                34.36,
+                29.87,
+                35.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:23:18",
+    "verseRef": "Luke 22:71",
+    "bestBHT": {
+        "bht": "The people at Jesus' trial questioned His identity as the Son of God, the Messiah. The significance of their inquiry is emphasized, as it would be impossible to ask without evidence. If Jesus is not who He claimed to be, then they were right, but if He is indeed the Christ, then they were eternally wrong. Disregarding His claim is to side with those who put Him to death. His words were considered blasphemous and deserving of death by His accusers.",
+        "wordCount": 81,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 1.5941831965305562,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+        "commentatorTierSimilarities": [
+            33.2,
+            39.82,
+            26.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How would it have been possible that these words should have been said, if no 'witness' had been brought forward at this examination?",
+            "If the very same question had been asked at the termination of the former one?"
+        ],
+        "Philip Schaff": [
+            "As far as the death of Christ had a human judicial ground, that ground was His own claim to be the Son of God.",
+            "Either His claim was correct, or the Jews were right in putting Him to death.",
+            "To ignore His claim is to side with His murderers."
+        ],
+        "Archibald T. Robertson": [
+            "They were right if Jesus is not what he claimed to be.",
+            "They were eternally wrong for he is the Christ, the Son of man, the Son of God.",
+            "They made their choice and must face Christ as Judge."
+        ],
+        "John Gill": [
+            "What need we any further witness?... for we ourselves have heard of his own mouth.\" ",
+            "His blasphemy, and what amounts to a sufficient charge of that kind.",
+            "Upon which they all pronounced him worthy of death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These words were spoken by the people at Jesus' trial, questioning whether He is the Son of God, the Messiah. The first tier commentary emphasizes the significance of their words, asking how they would have said this without any evidence. They were right if Jesus wasn't who He claimed to be, but they were eternally wrong because He truly is the Christ. The second tier commentary expands on this, stating that to ignore Jesus' claim is to side with those who crucified Him. And finally, the third tier commentary quotes the people themselves, stating that they considered His words blasphemous and worthy of death.",
+            "wordCount": 105,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.5176772972205554,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.81,
+            "commentatorTierSimilarities": [
+                38.36,
+                33.82,
+                27.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These words were spoken at Jesus' trial to question His identity as the Son of God, the Messiah. The significance of their inquiry is highlighted, as it would be illogical to ask without any evidence. The people were right if Jesus was not who He claimed to be, but they were mistaken, for He is indeed the Christ. Ignoring His claim is akin to aligning with His executioners, who saw His words as blasphemous and deserving of death.",
+            "wordCount": 78,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.5382506087323575,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                36.74,
+                39.26,
+                23.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people at Jesus' trial questioned His identity as the Son of God, the Messiah. The significance of their inquiry is emphasized, as it would be impossible to ask without evidence. If Jesus is not who He claimed to be, then they were right, but if He is indeed the Christ, then they were eternally wrong. Disregarding His claim is to side with those who put Him to death. His words were considered blasphemous and deserving of death by His accusers.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.5941831965305562,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                33.2,
+                39.82,
+                26.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people at Jesus' trial questioned His identity as the Son of God. Their inquiry highlights the need for evidence. If Jesus is not the Christ, they were right, but if He is, they were eternally wrong. Dismissing His claim is aligning with those who put Him to death. His words were considered blasphemous, leading to the pronouncement of Him as worthy of death.",
+            "wordCount": 64,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5207040798496392,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.91,
+            "commentatorTierSimilarities": [
+                32.7,
+                39.21,
+                28.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people at Jesus' trial questioned His identity as the Son of God. Their words carry weight as it implies the need for evidence. If Jesus is not who He claimed to be, they were right; however, if He is the Christ, they were eternally wrong. Disregarding His claim aligns with those who crucified Him. His words were deemed blasphemous, resulting in the verdict of death.",
+            "wordCount": 66,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.5553902494839895,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.06,
+            "commentatorTierSimilarities": [
+                35.34,
+                36.09,
+                28.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

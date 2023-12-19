@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:13:25",
+    "verseRef": "1 Corinthians 14:34",
+    "bestBHT": {
+        "bht": "In the church, women are not permitted to speak or teach, as it goes against the principle of submission to their husbands and the law of the Old Testament. It is considered a shameful act and contradicts the subordination that women are called to. This command from Paul is unequivocal and should not be disregarded, as it is rooted in the authority of the apostle himself. The reasoning behind this prohibition is that women exercising authority in teaching would disrupt the proper order of male leadership.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.8948038355957308,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.34,
+        "commentatorTierSimilarities": [
+            34.63,
+            29.97,
+            35.4
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "(1 Timothy 2:11; 1 Timothy 2:12). For women to speak in public would be an act of independence, as if they were not subject to their husbands.",
+            "For 'under obedience,' translate, 'in subjection' or 'submission,' as the Greek is translated.",
+            "the law\u2014a term applied to the whole Old Testament; here, Ephesians 5:24."
+        ],
+        "Albert Barnes": [
+            "He had discoursed of speaking foreign languages, and of prophecy; and the evident sense is, that in regard to all these they were to keep silence, or were not to engage in them.\" ",
+            "It is probable that, on pretence of being inspired, the women had assumed the office of public teachers.",
+            "No rule in the New Testament is more positive than this; and however plausible may be the reasons which may be urged for disregarding it, and for suffering women to take part in conducting public worship, yet the authority of the apostle Paul is positive, and his meaning cannot be mistaken."
+        ],
+        "John Calvin": [
+            "Paul\u2019s reasoning, however, is simple \u2014 that authority to teach is not suitable to the station that a woman occupies, because, if she teaches, she presides over all the men, while it becomes her to be under subjection.",
+            "It is the dictate of common sense, that female government is improper and unseemly.",
+            "If the woman is under subjection, she is, consequently, prohibited from authority to teach in public."
+        ],
+        "Philip Schaff": [
+            "Let the women keep silence in the churches: for it is not permitted unto them to speak; but let them be in subjection, as also saith the law referring probably to Genesis 3:16...",
+            "...of which idea all subsequent passages of the same import are but repetitions and expansions."
+        ],
+        "Archibald T. Robertson": [
+            "In church the women are not allowed to speak (\u03bb\u03b1\u03bb\u03b5\u03b9\u03bd) nor even to ask questions.\" ",
+            "He calls it a shame (\u03b1\u03b9\u03c3\u03c7\u03c1\u03bf\u03bd) as in 1 Corinthians 11:6 (cf. Ephesians 5:12; Titus 1:11).",
+            "Certainly women are still in subjection (\u03c5\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03b5\u03c3\u03b8\u03c9\u03c3\u03b1\u03bd) to their husbands (or ought to be)."
+        ],
+        "John Gill": [
+            "For it is not permitted unto them to speak; that is, in public assemblies, in the church of God, they might not speak with tongues, nor prophesy, or preach, or teach the word.",
+            "They might speak their experiences to the church, or give an account of the work of God upon their souls; they might speak to one another in psalms, hymns, and spiritual songs.",
+            "The reason why women are not to speak in the church, or to preach and teach publicly, or be concerned in the ministerial function, is, because this is an act of power, and authority; of rule and government, and so contrary to that subjection which God in his law requires of women unto men."
+        ],
+        "John Wesley": [
+            "Let your women be silent in the churches \u2014 Unless they are under an extraordinary impulse of the Spirit.",
+            "But to be in subjection \u2014 To the man whose proper office it is to lead and instruct the congregation.",
+            "Genesis 3:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the church, women are not permitted to speak or teach, as it goes against the principle of submission to their husbands and the law of the Old Testament. It is considered a shameful act and contradicts the subordination that women are called to. This command from Paul is unequivocal and should not be disregarded, as it is rooted in the authority of the apostle himself. The reasoning behind this prohibition is that women exercising authority in teaching would disrupt the proper order of male leadership.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8948038355957308,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.34,
+            "commentatorTierSimilarities": [
+                34.63,
+                29.97,
+                35.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the church, women are not allowed to speak or teach publicly since it would be an act of independence, disregarding their submission to their husbands and the law of the Old Testament. It would be considered shameful and goes against the role women are meant to fulfill. The apostle Paul's command is clear and should not be ignored, as it is founded on his authority. Allowing women to exercise authority in teaching would disrupt the proper order of male leadership.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.771917685989639,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                35.8,
+                28.25,
+                35.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the church, women are not permitted to speak or teach as it contradicts their submission to their husbands and the law of the Old Testament. This command from Paul is rooted in his authority and should be followed. Allowing women to exercise authority in teaching disrupts the proper order of male leadership. It is considered shameful and goes against the role women are meant to fulfill. The prohibition is clear and should not be disregarded.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.5809158046783016,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.91,
+            "commentatorTierSimilarities": [
+                35.38,
+                28.58,
+                36.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the church, women are not allowed to speak or teach publicly as it would signify independence, disregarding their submission to their husbands and the law of the Old Testament. This prohibition from Paul is rooted in his authority and should be upheld. Allowing women to exercise authority in teaching disrupts the proper order of male leadership. It is considered a shame and contrary to the role women are meant to fulfill. The reason behind the restriction is that teaching carries authority and contradicts the subordination that God requires of women to men.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.741158982007709,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                35.26,
+                27.88,
+                36.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the church, women are not permitted to speak or teach publicly as it would signify independence, disregarding their submission to their husbands and the law. This prohibition by Paul should be upheld, as it disrupts the proper order of male leadership. It is considered a shame and goes against the role women are meant to fulfill. Teaching is an act of authority that contradicts the subordination of women to men as required by God's law.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7743714607190015,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                34.2,
+                28.46,
+                37.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

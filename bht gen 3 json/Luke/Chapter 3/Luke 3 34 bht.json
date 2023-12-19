@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:14:38",
+    "verseRef": "Luke 3:34",
+    "bestBHT": {
+        "bht": "The genealogical list in question has a unique variation wherein Cainan is inserted between Salah and Arphaxad, a discrepancy only found in the Greek version of the Old Testament. This insertion has sparked discussions regarding the corruption of the Hebrew text by the Jews, the possibility of inaccuracy in the Greek version, or even the accidental insertion by a transcriber that made its way into the Greek text. The resolution to this discrepancy hinges on how one interprets the wider differences between the chronological records of the Hebrew Bible and the Greek version.",
+        "wordCount": 93,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.620619019813077,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+        "commentatorTierSimilarities": [
+            0.0,
+            95.38,
+            4.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The only variation is the insertion here of Cainan (Luke 3:36), between \u2018Salah\u2019 (1 Chronicles 1:18: \u2018Shelah\u2019) and \u2018Arphaxad.\u2019 This agrees with the LXX. (Genesis), but with no other Old Testament record.\" (Quote 1)",
+            "Explanations: 1. That the Jews corrupted the Hebrew in these chronological passages; 2. That the LXX. is incorrect, though followed here; 3. Less probably that the transcriber inserted it here by mistake, and from this passage it got into the LXX.\" (Quote 2)",
+            "Whether (1.) or (2.) be adopted must depend upon the view taken of the whole chronological difference between the Hebrew Bible and the Greek version.\" (Quote 3)"
+        ],
+        "John Gill": [
+            ":-"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Luke 3:34 is an interesting verse, with only one variation in its genealogical list. The insertion of Cainan between Salah and Arphaxad is not found in any other Old Testament record, except the Greek version. There are several possible explanations for this discrepancy: corruption of the Hebrew text by the Jews, incorrectness of the Greek version, or an accidental insertion by a transcriber that later found its way into the Greek version. The choice between these explanations depends on one's view of the overall chronological difference between the Hebrew Bible and the Greek version.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4809632162467177,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.58,
+            "commentatorTierSimilarities": [
+                0.0,
+                99.64,
+                0.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The genealogical list in question reveals only one inconsistency - the inclusion of Cainan between Salah and Arphaxad. This variation is unique to the Greek version of the Old Testament and is not found elsewhere. The possible explanations for this deviation include corruption of the Hebrew text by the Jews, inaccuracy in the Greek version, or an inadvertent error made by a transcriber that was later incorporated into the Greek text. The decision between these explanations depends on how one views the overall chronological disparities between the Hebrew Bible and the Greek version.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.4319636016426591,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+            "commentatorTierSimilarities": [
+                0.0,
+                95.01,
+                4.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The genealogical list in question has a unique variation wherein Cainan is inserted between Salah and Arphaxad, a discrepancy only found in the Greek version of the Old Testament. This insertion has sparked discussions regarding the corruption of the Hebrew text by the Jews, the possibility of inaccuracy in the Greek version, or even the accidental insertion by a transcriber that made its way into the Greek text. The resolution to this discrepancy hinges on how one interprets the wider differences between the chronological records of the Hebrew Bible and the Greek version.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.620619019813077,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                0.0,
+                95.38,
+                4.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The genealogical list in question contains a unique variation, with the inclusion of Cainan between Salah and Arphaxad, a discrepancy present only in the Greek version. The potential explanations for this inconsistency involve the corruption of the Hebrew text by the Jews, the possibility of inaccuracy in the Greek version, or an accidental insertion by a transcriber that made its way into the Greek text. Resolving this discrepancy depends on one's interpretation of the broader chronological differences between the Hebrew Bible and the Greek version.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5366038411200462,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.43,
+            "commentatorTierSimilarities": [
+                0.0,
+                96.77,
+                3.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The genealogical list in question raises an intriguing case of variation with the insertion of Cainan between Salah and Arphaxad, a unique phenomenon found solely in the Greek version. Three potential explanations for this divergence are outlined: the possibility of corruption in the Hebrew text by the Jews, the potential inaccuracies in the Greek version, and the chance that a transcriber inadvertently inserted Cainan, which later found its way into the Greek text. Understanding this discrepancy necessitates considering the wider chronological disparities between the Hebrew Bible and the Greek version.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.521371618399062,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.93,
+            "commentatorTierSimilarities": [
+                0.0,
+                90.85,
+                9.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

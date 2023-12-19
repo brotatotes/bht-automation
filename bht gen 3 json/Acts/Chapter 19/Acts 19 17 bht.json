@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:33:36",
+    "verseRef": "Acts 19:17",
+    "bestBHT": {
+        "bht": "In Ephesus, the seven sons of Sceva, one of the chief priests, attempted to cast out evil spirits by invoking the name of Jesus, but were overpowered. This incident became known throughout the city, and fear fell upon all. The name of the Lord Jesus was magnified, as the miracles performed in His name by Paul were real and attested to the truth of his teaching. It was a notable victory over the powers of evil, emphasizing the greatness and power of Christ.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.846706196927087,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+        "commentatorTierSimilarities": [
+            26.08,
+            40.1,
+            33.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "14-17. seven sons of . . . Sceva . .",
+            "\t. chief of the priests\u2014head, possibly, of one of the",
+            "\ttwenty-four courts."
+        ],
+        "Albert Barnes": [
+            "The name of the Lord Jesus was magnified - Acquired increasing honor.",
+            "The transaction showed that the miracles performed in the name of the Lord Jesus by Paul were real, and were performed in attestation of the truth of the doctrine which he taught.",
+            "They who pretended to be able to do it only exposed themselves to the rage of evil spirits."
+        ],
+        "Marvin Vincent": [
+            "Was known [\u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf \u03b3\u03bd\u03c9\u03c3\u03c4\u03bf\u03bd] . More correctly, became known."
+        ],
+        "John Calvin": [
+            "The fruit of that vengeance which God brought upon those who did wickedly abuse the name of Christ is this, in that they were all touched with reverence, lest they should contemn that doctrine.",
+            "God doth invite us by all his judgments to come thus far, that they may terrify us from sinning.",
+            "There is more heavy and grievous punishment prepared for deceivers, who, with their enchantments, profane the name of Christ wittingly."
+        ],
+        "Philip Schaff": [
+            "And fear fell on them all, and the name of the Lord Jesus was magnified.",
+            "In Ephesus, where hidden arts were so extensively practised, and where so many were deceived and captivated by pretended dealings with the supernatural, such a scene as the one just related would be likely to have made a deep impression.",
+            "The feeling of an undefined dread at this power in a name the name, too, the stranger Paul the tentmaker was constantly alluding to in his well-known teaching in the school of Tyrannus stole over the hearts of many in Ephesus."
+        ],
+        "Archibald T. Robertson": [
+            "Was magnified (\u03b5\u03bc\u03b5\u03b3\u03b1\u03bb\u03c5\u03bd\u03b5\u03c4\u03bf). Imperfect passive. To make great. It was a notable victory over the powers of evil in Ephesus. "
+        ],
+        "John Gill": [
+            "And fear fell on them all; on the enemies of Christ and his Gospel, so that others were deterred from making such an attempt for the future.",
+            "Christ is great in himself, and he is magnified and made great, when he is declared to be so, and is treated as such.",
+            "Christ is great in himself, and he is magnified and made great, when he is declared to be so, and is treated as such."
+        ],
+        "John Wesley": [
+            "And the name of the Lord Jesus was magnified \u2014 So that even the malice of the devil wrought for the furtherance of the Gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Ephesus, the seven sons of Sceva, one of the chief priests, attempted to cast out evil spirits by invoking the name of Jesus. However, the demons recognized their lack of authority and overpowered them. This incident became known throughout the city, and fear fell upon all. The name of the Lord Jesus was magnified, as it was evident that the miracles performed in His name by Paul were genuine, demonstrating the truth of his teaching. This event served as a notable victory against the powers of evil in Ephesus, leaving a lasting impression on those who witnessed it. It emphasized the greatness and power of Christ, as even the malice of the devil inadvertently contributed to the advancement of the Gospel.",
+            "wordCount": 122,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.7231256434528217,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                24.93,
+                38.63,
+                36.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Ephesus, the seven sons of Sceva, one of the chief priests, attempted to cast out evil spirits by invoking the name of Jesus, but were overpowered. This incident became known throughout the city, and fear fell upon all. The name of the Lord Jesus was magnified, as the miracles performed in His name by Paul were real and attested to the truth of his teaching. It was a notable victory over the powers of evil, emphasizing the greatness and power of Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.846706196927087,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                26.08,
+                40.1,
+                33.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Ephesus, the seven sons of Sceva, one of the chief priests, attempted to cast out evil spirits by invoking the name of Jesus. However, they were overpowered, and the incident became known throughout the city. Fear fell upon all, and the name of the Lord Jesus was magnified. This notable victory over the powers of evil in Ephesus demonstrated the authenticity of the miracles performed in Jesus' name by Paul. It served as a powerful testimony to the truth of his teaching and furthered the cause of the Gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7755108307799472,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                24.46,
+                41.19,
+                34.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Ephesus, the seven sons of Sceva, one of the chief priests, attempted to cast out evil spirits in the name of Jesus. However, they were overpowered, and the incident became widely known. Fear fell upon all, and the name of the Lord Jesus was magnified. This served as a significant victory against the powers of evil in Ephesus, highlighting the authenticity of Paul's miracles performed in Jesus' name. It was a powerful testament to the truth of his teaching and had a profound impact on the spread of the Gospel message.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8197827227240002,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                26.0,
+                39.84,
+                34.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Ephesus, the seven sons of Sceva, one of the chief priests, attempted to cast out evil spirits in the name of Jesus. However, they were overpowered, leading to fear among the people. This resulted in the name of the Lord Jesus being magnified, as it became evident that the miracles performed in His name by Paul were authentic, confirming the truth of his teaching. This notable victory over the powers of evil in Ephesus emphasized the greatness and power of Christ, contributing to the advancement of the Gospel.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.755408224929763,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.71,
+            "commentatorTierSimilarities": [
+                24.93,
+                39.05,
+                36.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:33:03",
+    "verseRef": "Acts 18:13",
+    "bestBHT": {
+        "bht": "The accusation against Paul was that he acted contrary to the law, specifically the Mosaic law and Roman law, with the intention of introducing new deities and teaching people to worship in an unlawful and irregular way. However, the accusation lacked evidence and was false, as Moses himself wrote about Christ and commanded the Israelites to listen to him. The Jews may have been cautious when dealing with Gallio, a Roman proconsul, but their accusations were baseless, and Paul's actions did not violate any legitimate laws.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.180296652126794,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.84,
+        "commentatorTierSimilarities": [
+            24.96,
+            38.56,
+            36.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "13. contrary to the law] Against the Mosaic law:\u2014the exercise of which, as a \u2018lawful religion,\u2019 was allowed to the Jews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "13. contrary to the\u2014Jewish ",
+            "\t",
+            "law\u2014probably in not",
+            "\trequiring the Gentiles to be circumcised."
+        ],
+        "Albert Barnes": [
+            "Contrary to the law - Evidently intending contrary to all law - the laws of the Romans and of the Jews.",
+            "It was easy for them to maintain that he taught contrary to the laws of the Romans and their acknowledged religion.",
+            "Their design seems to have been to accuse him of teaching people to worship God in an unlawful and irregular way, a way unknown to any of the laws of the empire."
+        ],
+        "Philip Schaff": [
+            "The \u2018law\u2019 here alluded to was the law not of the Jews, but of the Empire.",
+            "The offence consisted in the attempt to promulgate a religion which was not sanctioned by the imperial government.",
+            "Paul was accused of introducing new deities as objects of worship."
+        ],
+        "Archibald T. Robertson": [
+            "Perhaps they fear to go too far with Gallio, for they are dealing with a Roman proconsul, not with the politarchs of Thessalonica.\" ",
+            "The Jewish religion was a religio licita and they were allowed to make proselytes, but not among Roman citizens.",
+            "The accusation as made did not show it nor did they produce any evidence to do it."
+        ],
+        "John Gill": [
+            "Meaning either to the law of the Romans, which forbad the bringing in of any new gods, without the leave of the senate...",
+            "Or rather to the law of Moses: the Arabic version reads, 'our law'...",
+            "Though this was false, for Moses in his law wrote of Christ, and ordered the children of Israel to hearken to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews accused Paul of acting contrary to the law, possibly referring to both the Mosaic law and the law of the Roman Empire. They seemed to fear going too far with Gallio, a Roman proconsul, and potentially violating Roman religious laws. The accusation lacked evidence, and Paul was accused of introducing new deities and teaching people to worship in an unlawful and irregular way. However, it was false, for Moses himself wrote of Christ and instructed the Israelites to listen to him. The Jews' intention may have been to accuse Paul of teaching against the laws of the Romans and their recognized religion, but their accusations were baseless.",
+            "wordCount": 109,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 2.1298256835274216,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.16,
+            "commentatorTierSimilarities": [
+                25.09,
+                40.15,
+                34.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The accusation against Paul was that he acted contrary to the law, specifically the Mosaic law and Roman law, with the intention of introducing new deities and teaching people to worship in an unlawful and irregular way. However, the accusation lacked evidence and was false, as Moses himself wrote about Christ and commanded the Israelites to listen to him. The Jews may have been cautious when dealing with Gallio, a Roman proconsul, but their accusations were baseless, and Paul's actions did not violate any legitimate laws.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.180296652126794,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.84,
+            "commentatorTierSimilarities": [
+                24.96,
+                38.56,
+                36.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews accused Paul of acting against the law, potentially referring to both the Mosaic law and the law of the Roman Empire. However, their accusations lacked evidence and were false. They intended to accuse Paul of introducing new deities and teaching an unlawful and irregular way of worship. Nonetheless, Moses himself wrote about Christ and instructed the Israelites to listen to him, making their accusations baseless. Their cautious approach towards dealing with Gallio, a Roman proconsul, perhaps restrained them from making stronger accusations without proper evidence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7376521390125261,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+            "commentatorTierSimilarities": [
+                25.72,
+                40.26,
+                34.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews leveled an accusation against Paul for acting contrary to the law, possibly alluding to both the Mosaic law and the law of the Roman Empire. Despite lacking evidence, they sought to incriminate Paul for introducing new deities and teaching an illegal and unconventional mode of worship. In truth, their accusations were groundless, for Moses himself wrote about Christ and commanded the Israelites to obey him. Perhaps the Jews were cautious due to their encounter with Gallio, a Roman proconsul, which limited the extent of their accusations without substantial proof.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0001091323313784,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                26.75,
+                38.82,
+                34.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews accused Paul of acting contrary to the law, possibly referring to both the Mosaic law and the law of the Roman Empire. Their intent seemed to be to accuse him of introducing new deities and promoting an unlawful and irregular form of worship. However, their accusations lacked evidence. It is important to note that Moses himself wrote about Christ in the law and commanded the Israelites to listen to him, making their accusations unfounded.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.83442617114884,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                24.34,
+                39.7,
+                35.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

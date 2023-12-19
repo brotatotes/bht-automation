@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:14:42",
+    "verseRef": "Galatians 2:16",
+    "bestBHT": {
+        "bht": "Justification happens solely through faith in Jesus Christ, not by works of the law. Paul emphasizes the opposing nature of faith and works, law and promise. He rejects the idea of a theological fiction of imputed righteousness and confirms that justification is by faith alone. Works belong to a legal dispensation, while faith in Christ Jesus is the way to be made right with God. Paul and other Jews recognized that faith was necessary for salvation and justification.",
+        "wordCount": 78,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.477442569144606,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.71,
+        "commentatorTierSimilarities": [
+            38.34,
+            27.42,
+            34.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The works of the law\" are those which have the law for their object\u2014which are wrought to fulfil the law.",
+            "But only (in no other way save) through faith in Jesus Christ,\" as the MEAN and instrument of justification.",
+            "He rests his argument on this as an axiom in theology... The law and the promise; Doing and believing; Works and faith; Wages and the gift; The curse and the blessing\u2014are represented as diametrically opposed."
+        ],
+        "Albert Barnes": [
+            "Knowing - We who are Jews by nature, or by birth. This cannot mean that all the Jews knew this, or that he who was a Jew knew it as a matter of course, for many Jews were ignorant of it, and many opposed it.",
+            "It is impossible for man to vindicate himself from this charge. He can neither show that the things charged have not been committed, nor that, having been committed, he had a right to do them.",
+            "In virtue of all this, the offender, by believing on him, may be treated as if he had not sinned; and this constitutes justification."
+        ],
+        "Marvin Vincent": [
+            "The meaning to declare or pronounce righteous cannot be consistently carried through Paul's writings in the interest of a theological fiction of imputed righteousness.\" ",
+            "Paul means that justification is by faith alone.\" ",
+            "Works are characteristic of a legal dispensation. Paul often puts 'works' alone as representing legal righteousness."
+        ],
+        "John Calvin": [
+            "Not by works, but by the Gift of Christ alone.",
+            "Let it therefore remain settled, that the proposition is so framed as to admit of no exception, 'that we are justified in no other way than by faith,' or, 'that we are not justified but by faith,' or, which amounts to the same thing, 'that we are justified by faith alone.'",
+            "By the works of the law shall no flesh be justified. This is the foundation of a freely bestowed righteousness, when we are stripped of a righteousness of our own."
+        ],
+        "Philip Schaff": [
+            "Yet knowing that a man is not justified by works of law (law-works, Gesetzeswerke), but only through faith in Jesus Christ, we ourselves also became believers in Christ Jesus.",
+            "'By works of law,' the whole law, moral as well as ceremonial.",
+            "Shall no flesh be justified, lit., \u2018shall all flesh not be justified,\u2019 or \u2018find no justification.\u2019 An expressive Hebraism. The negation attaches to the verb, and not to the noun."
+        ],
+        "Archibald T. Robertson": [
+            "The two ways of getting right with God are here set forth: by faith in Christ Jesus, by the works of the law.",
+            "We Jews believed, had to believe, were not saved or justified till we did believe.",
+            "Paul uses \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03c5\u03bd\u03b7 in two senses: justification, on the basis of what Christ has done and obtained by faith, and sanctification, actual goodness as the result of living with and for Christ."
+        ],
+        "John Gill": [
+            "Men are not justified by faith, either as an habit, or an act; not by it as an habit or principle, this would be to confound justification and sanctification; nor as an act, for as such it is a man's own, and then justification would be by a man's works, contrary to the Scripture.",
+            "These Jews did not believe in Christ, in order by their believing to procure their justification before God, and acceptance with him, but that they might receive, by faith, this blessing from the Lord in their own conscience, and enjoy the comfort of it, and all that spiritual peace which results from it, and which they could not find in the works of the law.",
+            "By the works of the law shall no flesh be justified."
+        ],
+        "John Wesley": [
+            "Knowing that a man is not justified by the works of the law \u2014 Not even of the moral, much less the ceremonial, law.",
+            "But by the faith of Jesus Christ \u2014 That is, by faith in him.",
+            "Consider the demands of the law, and the fate of human nature, it is evident, that by the works of the law - By such an obedience as it requires, shall no flesh living \u2014 No human creature, Jew or Gentile, be justified."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Justification is not achieved through works of the law, but only through faith in Jesus Christ. Paul emphasizes the opposition between faith and works, law and promise, doing and believing. He firmly establishes that justification is not a result of a theological fiction of imputed righteousness, but rather a reality obtained solely through faith. Works are characteristic of a legal dispensation, while faith in Christ Jesus is the means of being made right with God. The Jews, including Paul, came to believe that they were not saved or justified until they had faith. Ultimately, Paul distinguishes between justification and sanctification, highlighting that both faith and actual goodness play significant roles in the life of a believer.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.4320475376420347,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.21,
+            "commentatorTierSimilarities": [
+                39.29,
+                26.64,
+                34.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Justification happens solely through faith in Jesus Christ, not by works of the law. Paul emphasizes the opposing nature of faith and works, law and promise. He rejects the idea of a theological fiction of imputed righteousness and confirms that justification is by faith alone. Works belong to a legal dispensation, while faith in Christ Jesus is the way to be made right with God. Paul and other Jews recognized that faith was necessary for salvation and justification.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.477442569144606,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.71,
+            "commentatorTierSimilarities": [
+                38.34,
+                27.42,
+                34.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Justification is through faith in Jesus Christ, not by works of the law. Paul contrasts faith and works, law and promise, highlighting the opposition between them. He firmly establishes that justification is not a theological fiction of imputed righteousness, but a reality obtained only through faith. Works are characteristic of a legal dispensation, while faith in Christ Jesus is the means of being made right with God. The Jews, including Paul, recognized that faith was essential for salvation and justification.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.4465235067760647,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.69,
+            "commentatorTierSimilarities": [
+                38.95,
+                26.73,
+                34.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Justification is by faith alone, not through works of the law. Paul emphasizes the opposition between faith and works, law and promise, highlighting that they are diametrically opposed. Works are characteristic of a legal dispensation, while faith in Jesus Christ is the means of being justified. The Jews, including Paul, recognized that faith was necessary for salvation and justification. In understanding justification, one must recognize its distinction from sanctification, the actual goodness that comes from living with and for Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.402431231185451,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.22,
+            "commentatorTierSimilarities": [
+                38.89,
+                27.25,
+                33.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Justification is not achieved through works of the law, but only through faith in Jesus Christ. Paul emphasizes the opposition between faith and works, law and promise. He firmly establishes that justification is not a result of a theological fiction of imputed righteousness, but rather a reality obtained solely through faith. Works are characteristic of a legal dispensation, while faith in Christ Jesus is the means of being made right with God. The Jews, including Paul, came to believe that they were not saved or justified until they had faith. Ultimately, Paul distinguishes between justification and sanctification, highlighting that both faith and actual goodness play significant roles in the life of a believer.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.4113204410062705,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.52,
+            "commentatorTierSimilarities": [
+                39.41,
+                26.45,
+                34.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

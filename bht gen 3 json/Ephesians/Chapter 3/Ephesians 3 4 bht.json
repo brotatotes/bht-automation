@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:28:23",
+    "verseRef": "Ephesians 3:4",
+    "bestBHT": {
+        "bht": "Within the Epistle of Ephesians, there is an urging to deeply read and comprehend its mysteries, particularly the revelation of Christ Himself. Through perceiving the preacher's discernment of the mystery of Christ, readers can gain insight into the plan of salvation and the inclusion of Gentiles. The Apostle Paul considered this knowledge to be of great worth and emphasized the importance of understanding it. By immersing themselves in this Epistle, readers can acquire knowledge and greater understanding of this mystery.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 2.049187201319828,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+        "commentatorTierSimilarities": [
+            35.89,
+            31.93,
+            32.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "When ye read, deep as are the mysteries of this Epistle, the way for all to understand them is to read it.\" ",
+            "By perceiving his understanding of the mysteries, they, too, will be enabled to understand.\" ",
+            "The 'mystery' is Christ Himself, once hidden, but now revealed."
+        ],
+        "Albert Barnes": [
+            "By the bare reading of which you may understand the view which I entertain of the plan of salvation, and the knowledge which I have of God\u2019s method of saving people.\" ",
+            "It means the hitherto concealed doctrine that through the Messiah, the Gentiles were to be received to the same privileges as the Jews, and that the plan of salvation was to be made equally free for all.\" ",
+            "Paul evidently supposed that the knowledge which he had on that subject was of eminent value; that it was possessed by few; that it was important to understand it."
+        ],
+        "Marvin Vincent": [
+            "Whereby [\u03c0\u03c1\u03bf\u03c2 \u03bf] . Lit., agreeably to which, namely, what he had written. ",
+            "Mystery of Christ. The mystery which is Christ. See on Colossians 1:26; Romans 11:25."
+        ],
+        "John Calvin": [
+            "If we duly consider Paul\u2019s earnestness, \u2014 his watchfulness and care, \u2014 his zeal and fervor, \u2014 his kindness and readiness in assisting brethren, \u2014 we shall be led to regard it as highly probable that he would write many epistles.",
+            "Let us rest assured, that what is left is enough for us, and that the smallness of the remaining number is not the result of accident; but that the body of Scripture, which is in our possession, has been adjusted by the wonderful counsel of God.",
+            "The frequent mention of this point shews the necessity that the calling of ministers should be firmly believed both by themselves and by their people."
+        ],
+        "Philip Schaff": [
+            "In accordance with which, i.e., what he had written was to be the measure, or standard, by which they could determine his knowledge.",
+            "Ye can perceive. \u2018Can\u2019 (E. V., incorrectly: \u2018may\u2019) is the emphatic word, and \u2018perceive\u2019 is preferable to \u2018understand,\u2019 referring to an immediate perception, as if it were a single act.",
+            "The mystery had been revealed, hence the Apostle had an \u2018understanding\u2019 in regard to it, as could be perceived by his readers. He does not refer to his labors among them, since he has in mind what he has written."
+        ],
+        "Archibald T. Robertson": [
+            "When ye read (\u03b1\u03bd\u03b1\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03bf\u03bd\u03c4\u03b5\u03c2). This Epistle will be read in public.",
+            "My understanding in the mystery of Christ (\u03c4\u03b7\u03bd \u03c3\u03c5\u03bd\u03b5\u03c3\u03b9\u03bd \u03bc\u03bf\u03c5 \u03b5\u03bd \u03c4\u03c9 \u03bc\u03c5\u03c3\u03c4\u03b7\u03c1\u03b9\u03c9 \u03c4\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5).",
+            "Every sermon reveals the preacher's grasp of 'the mystery of Christ.' If he has no insight into Christ, he has no call to preach."
+        ],
+        "John Gill": [
+            "Ye may understand my knowledge in the mystery of Christ of his person, office, and grace..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the book of Ephesians, there is a call to deep reading and understanding of the mysteries within the Epistle. The central mystery being the revelation of Christ Himself, once hidden but now revealed. Through the reading of this Epistle, one can gain insight into the preacher's understanding of the mystery of Christ. It is important to grasp this mystery, as it pertains to the plan of salvation and the inclusion of Gentiles in the same privileges as Jews. The Apostle Paul believed that his knowledge on this subject was of eminent value and had written about it as a measure for others to gauge his understanding. By perceiving his insight in the mystery of Christ, readers can also be enabled to comprehend it themselves.",
+            "wordCount": 126,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.1537839421011933,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.95,
+            "commentatorTierSimilarities": [
+                38.24,
+                30.94,
+                30.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the Epistle of Ephesians, there is a call for deep reading and understanding of the mysteries within. By grasping the revelation of Christ Himself, once hidden and now revealed, readers can perceive the preacher's insight into the mystery of Christ. This understanding pertains to the plan of salvation, including the inclusion of Gentiles in the same privileges as Jews. The Apostle Paul believed that his knowledge on this subject was highly valuable. Through the reading of the Epistle, others can gain knowledge and understanding as well.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.9097516022511938,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
+            "commentatorTierSimilarities": [
+                35.05,
+                34.61,
+                30.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Epistle of Ephesians, there is a call for deep reading and understanding of the mysteries within. By grasping Christ Himself, once hidden and now revealed, readers can perceive the preacher's insight into the mystery of Christ. This understanding pertains to the plan of salvation, including the inclusion of Gentiles in the same privileges as Jews. The Apostle Paul believed his knowledge on this subject was highly valuable. Through reading the Epistle, others can gain knowledge and understanding as well.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.9065718355700383,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+            "commentatorTierSimilarities": [
+                35.39,
+                33.73,
+                30.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Within the Epistle of Ephesians, there is an urging to deeply read and comprehend its mysteries, particularly the revelation of Christ Himself. Through perceiving the preacher's discernment of the mystery of Christ, readers can gain insight into the plan of salvation and the inclusion of Gentiles. The Apostle Paul considered this knowledge to be of great worth and emphasized the importance of understanding it. By immersing themselves in this Epistle, readers can acquire knowledge and greater understanding of this mystery.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.049187201319828,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                35.89,
+                31.93,
+                32.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the Epistle of Ephesians, reading and comprehending its deep mysteries, particularly the revelation of Christ Himself, is emphasized. By perceiving the preacher's understanding of the mystery of Christ, readers can gain knowledge of the plan of salvation and the inclusion of Gentiles. The Apostle Paul regarded this knowledge as highly valuable and stressed its importance. By engaging with this Epistle, readers can obtain insight and understanding into the mystery and its implications for their faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.0200459372373705,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+            "commentatorTierSimilarities": [
+                35.31,
+                30.71,
+                33.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

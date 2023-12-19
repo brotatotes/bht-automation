@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:56:28",
+    "verseRef": "Philippians 3:20",
+    "bestBHT": {
+        "bht": "As citizens of the heavenly Kingdom, our state and feelings are wholly different from those of the earthly realm. Our citizenship is in the Kingdom of God, the heavenly Jerusalem, which exists in heaven and has been established there from of old. We eagerly await the second coming of Christ, our Savior, who will rescue us from perdition. Just as the Israelites looked to the heavens, expecting Aaron's return, we must set our hearts and minds on heavenly things and not be consumed by the concerns of this world.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 2.2059687011987394,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+        "commentatorTierSimilarities": [
+            36.74,
+            29.22,
+            34.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "our state and feelings are wholly alien from theirs",
+            "the state to which we belong, of which we by faith are citizens; meaning the Kingdom of God, the heavenly Jerusalem",
+            "neither is our end perdition, because One is coming to rescue us from it"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We are but pilgrims on earth; how then should we 'mind earthly things?'",
+            "Roman citizenship was then highly prized; how much more should the heavenly citizenship?",
+            "Our High Priest is gone up into the Holy of Holies not made with hands, there to atone for us; and as the Israelites stood outside the tabernacle, expecting Aaron's return, so must we look unto the heavens expecting Christ thence."
+        ],
+        "Albert Barnes": [
+            "It is a characteristic of Christians, in contradistinction from those who are the 'enemies of the cross,' that their conversation is in heaven.",
+            "The Christian confidently expects it. His Saviour has been taken away from the earth, and is now in heaven, but it is a great and standing article of his faith that that same Saviour will again come, and take the believer to himself.",
+            "It is a glorious truth - for what a sad world would this be, and what a sad prospect would be before the Christian, if the Saviour were never to come to raise his people from their graves, and to gather his redeemed to himself!"
+        ],
+        "Marvin Vincent": [
+            "The state of which we are citizens is in heaven.",
+            "It exists now in heaven, having been established there of old.",
+            "We await as Savior the Lord, etc."
+        ],
+        "John Calvin": [
+            "Our conversation is in heaven...nothing is to be reckoned of any value except God\u2019s spiritual kingdom.",
+            "We must, nevertheless, be conversant with heaven in mind and affection...we must be dead to the world that Christ may live in us.",
+            "Christ, who is our blessedness and glory, is in heaven: let our souls, therefore, dwell with him on high...the coming of Christ is to be desired...as it will bring salvation to them."
+        ],
+        "Philip Schaff": [
+            "Our citizenship stands first in the sentence. The verb rendered \u2018is\u2019 is a strong verb, and indicates that the home is there already, though we have not yet reached it.",
+            "Christ has gone before and has prepared mansions (i.e. resting-places) for His people, in which they shall abide continually, being pilgrims no longer.",
+            "The verb is always used in the New Testament of that longing for salvation which is expected at the coming of Christ. But this is a longing which, as faith assures those who feel it, will be gratified at last."
+        ],
+        "Archibald T. Robertson": [
+            "But Christians are citizens of a kingdom not of this world.",
+            "Paul's heart is in heaven.",
+            "Paul's eagerness for the second coming of Christ as the normal attitude of the Christian colonist whose home is heaven."
+        ],
+        "John Gill": [
+            "Our conversation is in heaven... we behave ourselves here below, as citizens of that city above.",
+            "Their hearts are where their treasure is.",
+            "The saints look for [Jesus]... not merely as a Judge... but as a Saviour."
+        ],
+        "John Wesley": [
+            "Our conversation \u2014 The Greek word is of a very extenslve meaning: our citizenship, our thoughts, our affections, are already in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As citizens of the heavenly Kingdom, our state and feelings are completely different from those who belong to the earthly realm. We await the Savior, Jesus Christ, to rescue us from perdition, eagerly expecting His return just as the Israelites anticipated Aaron's entrance into the tabernacle. Our hearts are in heaven, and we must focus our minds and affections on heavenly things, not becoming entangled with the cares of this world. Our citizenship is not to be taken lightly; just as Roman citizenship was highly esteemed, how much more valuable is our heavenly citizenship? Therefore, let us eagerly await the second coming of Christ, for it is our blessed hope and the normal attitude of those whose true home is in heaven.",
+            "wordCount": 123,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 2.1515967261522455,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                33.88,
+                31.24,
+                34.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As citizens of the heavenly Kingdom, our state and feelings are completely different from those who belong to the earthly realm. We await the Savior, Jesus Christ, to rescue us from perdition, eagerly expecting His return just as the Israelites anticipated Aaron's entrance into the tabernacle. Our hearts are in heaven, and we must focus our minds and affections on heavenly things, not becoming entangled with the cares of this world. Our citizenship is not to be taken lightly; just as Roman citizenship was highly esteemed, how much more valuable is our heavenly citizenship?",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.0827066487998533,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.59,
+            "commentatorTierSimilarities": [
+                34.45,
+                29.21,
+                36.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As citizens of the heavenly Kingdom, our state and feelings are wholly alien from those of the earthly realm. Our citizenship is in the Kingdom of God, the heavenly Jerusalem, which exists in heaven and has been established there from of old. We eagerly await the second coming of Christ, our Savior, who will rescue us from perdition and gather us to Himself. Just as the Israelites looked to the heavens, expecting Aaron's return, we must set our hearts and minds on heavenly things and not be consumed by the concerns of this world. Our true home is in heaven, and our hope lies in the imminent arrival of our Lord Jesus Christ.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 2.213722830980428,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.95,
+            "commentatorTierSimilarities": [
+                35.73,
+                29.58,
+                34.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As citizens of the heavenly Kingdom, our state and feelings are wholly different from those of the earthly realm. Our citizenship is in the Kingdom of God, the heavenly Jerusalem, which exists in heaven and has been established there from of old. We eagerly await the second coming of Christ, our Savior, who will rescue us from perdition. Just as the Israelites looked to the heavens, expecting Aaron's return, we must set our hearts and minds on heavenly things and not be consumed by the concerns of this world.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.2059687011987394,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+            "commentatorTierSimilarities": [
+                36.74,
+                29.22,
+                34.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As citizens of the heavenly Kingdom, our state and feelings are completely different from those who belong to the earthly realm. Our hearts are in heaven, and we eagerly await the second coming of Christ, our Savior, who will rescue us from perdition. We must focus our minds and affections on heavenly things, not becoming entangled with the cares of this world. Our citizenship is not to be taken lightly; just as Roman citizenship was highly prized, how much more valuable is our heavenly citizenship?",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.088940567212745,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.8,
+            "commentatorTierSimilarities": [
+                34.56,
+                27.95,
+                37.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

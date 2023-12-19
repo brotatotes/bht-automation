@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:34:52",
+    "verseRef": "Acts 21:22",
+    "bestBHT": {
+        "bht": "The multitude must needs come together, as a multitude of Judaizers will certainly hear and gather in a hostile and tumultuous manner to discuss the proceedings. The question arises: What is to be done about it? It is certain that the multitude, consisting mostly of foreign Jews who have come to keep Pentecost in Jerusalem, will be watching Paul and his actions closely, eager to see if the allegations against him are just. In order to prevent any unnecessary offense or excitement, efforts must be made to pacify the gathering multitude.",
+        "wordCount": 91,
+        "quoteTokenProportion": 47.69,
+        "qualityScore": 1.7496943238596665,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+        "commentatorTierSimilarities": [
+            24.56,
+            40.18,
+            35.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There must be a meeting of the whole church: but a multitude (of these Judaizers) will certainly come together.",
+            "They will meet and discuss your proceeding in a hostile manner."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20-25. they glorified the Lord,",
+            "\t&amp;c.\u2014constrained to justify his course, notwithstanding the",
+            "\tJewish complexion of the Christianity of Jerusalem."
+        ],
+        "Albert Barnes": [
+            "What is it therefore? - What is to be done? What is it proper to do to avoid the effects of the evil report which has been circulated?\" ",
+            "The multitude - The multitude of Jews. Must needs come together - There will be inevitably a tumultuous assemblage.",
+            "It was, therefore, the part of friendship to him and to the cause to devise some proper plan to prevent, if possible, the anticipated excitement."
+        ],
+        "Marvin Vincent": [
+            "What is it therefore? How does the matter lie?"
+        ],
+        "John Calvin": [
+            "For if he had eschewed the light and sight of people, the sinister suspicion might have been increased.\" ",
+            "Nevertheless, we see how modestly the elders behaved themselves in nourishing concord, when as they prevent the offense of the people in time.",
+            "But this moderation must be kept in the Church, that the pastors be in great authority, and yet that they rule not proudly as lords, neither despise the rest of the body."
+        ],
+        "Philip Schaff": [
+            "Seeing, now, this is the state of things, that you, Paul, are looked upon by a large number of our countrymen with jealous suspicion and dislike, let us consider what is best under the circumstances for you to do...\" (Act 21:22).",
+            "For it if certain that out of all these multitudes of foreign Jews come up to keep Pentecost in Jerusalem, a great number will always be watching you and your actions...\" (Act 21:22).",
+            "...to see whether what they have heard alleged against you be just, for the news of your arrival will be soon noised abroad\" (Act 21:22)."
+        ],
+        "Archibald T. Robertson": [
+            "What is to be done about it?",
+            "They will certainly hear.",
+            "The multitude must needs come together."
+        ],
+        "John Gill": [
+            "The multitude must needs come together; either the whole church at Jerusalem, or the great confluence of people, even of believing Jews, that were come from all parts thither.\" ",
+            "There is no hindering of their coming together, to see the apostle, and to hear what he has to say to the objections against him, and complaints of him.\" ",
+            "They will come open mouthed, and be loud in their complaints, and it will be difficult to pacify them; there is danger in the case, the consequence may be bad."
+        ],
+        "John Wesley": [
+            "What is to be done? The multitude must needs come together...",
+            "They will certainly gather together in a tumultuous manner...",
+            "...unless they be some way pacified."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The situation at hand is one that necessitates a meeting of the whole church, as a multitude of Judaizers are sure to come together to discuss the proceedings in a hostile manner. Despite the Jewish complexion of the Christianity in Jerusalem, there is a need to justify Paul's course of action. Therefore, the question arises: What is to be done about it? It is certain that the multitude, mostly foreign Jews who have come to keep Pentecost in Jerusalem, will be watching Paul closely, eager to see if the allegations against him are true. In light of this, it is crucial to prevent any unnecessary excitement or offense among the people. The moderation and concord displayed by the elders should be the example followed, and though it may be difficult, every effort must be made to pacify the gathering multitude and avoid a tumultuous situation.",
+            "wordCount": 146,
+            "quoteTokenProportion": 43.16,
+            "qualityScore": 1.6672195527021278,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                23.95,
+                40.98,
+                35.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The situation requires a meeting of the whole church, as a multitude of Judaizers will meet and discuss the proceedings in a hostile manner. The question arises: What is to be done? It is certain that the multitude, mostly foreign Jews who have come to keep Pentecost in Jerusalem, will be watching Paul closely, eager to see if the allegations against him are true. Therefore, it is crucial to prevent unnecessary excitement or offense and make efforts to pacify the gathering multitude to avoid a tumultuous situation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.6690722251496881,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "commentatorTierSimilarities": [
+                26.38,
+                41.31,
+                32.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The situation at hand necessitates a meeting of the whole church, as a multitude of Judaizers will certainly come together in a hostile manner to discuss the proceedings. Although the Christianity in Jerusalem has a strong Jewish influence, there is a need to justify Paul's course of action. The question arises: What is to be done about it? It is certain that the multitude, comprised mostly of foreign Jews who have come for Pentecost, will be closely watching Paul to ascertain the truth of the allegations against him. Thus, the utmost effort must be made to prevent unnecessary excitement or offense among the people and pacify the gathering multitude.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 1.6804099769861431,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                26.25,
+                40.11,
+                33.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The situation requires a meeting of the whole church, as a hostile multitude of Judaizers will come together to discuss the proceedings. The question is: What is to be done? The multitude, consisting of foreign Jews who have come for Pentecost in Jerusalem, will closely observe Paul to verify the allegations against him. Therefore, it is crucial to prevent unnecessary excitement and pacify the gathering to avoid a tumultuous situation.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.6068612919178706,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.77,
+            "commentatorTierSimilarities": [
+                28.41,
+                40.42,
+                31.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The multitude must needs come together, as a multitude of Judaizers will certainly hear and gather in a hostile and tumultuous manner to discuss the proceedings. The question arises: What is to be done about it? It is certain that the multitude, consisting mostly of foreign Jews who have come to keep Pentecost in Jerusalem, will be watching Paul and his actions closely, eager to see if the allegations against him are just. In order to prevent any unnecessary offense or excitement, efforts must be made to pacify the gathering multitude.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.7496943238596665,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+            "commentatorTierSimilarities": [
+                24.56,
+                40.18,
+                35.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:18:02",
+    "verseRef": "Luke 11:17",
+    "bestBHT": {
+        "bht": "A house divided against itself falleth, a graphic picture of what happens when a kingdom is divided against itself. Jesus knew that they were trying to tempt him and saw their thoughts, just as Matthew records in his Gospel. The divided kingdom, like a family in which one part is opposed to the other, brings desolation and ruin to everyone involved. Just as one tumbling house knocks down its neighbor, a kingdom divided against itself is brought to ruin and desolation, like the kingdom of Satan would be if there was a division within it.",
+        "wordCount": 95,
+        "quoteTokenProportion": 53.23,
+        "qualityScore": 1.8378398053525016,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+        "commentatorTierSimilarities": [
+            57.71,
+            0.0,
+            42.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] knowing their thoughts: so Matthew also, ver. 25."
+        ],
+        "Marvin Vincent": [
+            "A house divided against itself falleth.\" ",
+            "The divided kingdom is brought to desolation, and its families and households in their party strifes are brought to ruin.\" ",
+            "One house shall fall upon another."
+        ],
+        "Archibald T. Robertson": [
+            "Knowing their thoughts... Jesus knew that they were trying to tempt him.",
+            "And a house divided against a house falleth... a graphic picture of what happens when a kingdom is divided against itself.",
+            "One tumbling house knocking down its neighbour, a graphic picture of what happens when a kingdom is divided against itself."
+        ],
+        "John Gill": [
+            "Every kingdom divided against itself is brought to desolation...so it would in the kingdom of Satan, was there in it a division.",
+            "A family, in which one part is opposed to the other, issues in the ruin of both.",
+            "An house divided from the foundation falls."
+        ],
+        "John Wesley": [
+            "A house \u2014 That is, a family."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A house divided against itself falleth, a graphic picture of what happens when a kingdom is divided against itself. Jesus knew that they were trying to tempt him and saw their thoughts, just as Matthew records in his Gospel. The divided kingdom, like a family in which one part is opposed to the other, brings desolation and ruin to everyone involved. Just as one tumbling house knocks down its neighbor, a kingdom divided against itself is brought to ruin and desolation, like the kingdom of Satan would be if there was a division within it. Even a house, if divided from the foundation, falls.",
+            "wordCount": 104,
+            "quoteTokenProportion": 53.03,
+            "qualityScore": 1.866142336738602,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                52.9,
+                0.0,
+                47.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A house divided against itself falleth, a graphic picture of what happens when a kingdom is divided against itself. Jesus knew that they were trying to tempt him and saw their thoughts, just as Matthew records in his Gospel. The divided kingdom, like a family in which one part is opposed to the other, brings desolation and ruin to everyone involved. Just as one tumbling house knocks down its neighbor, a kingdom divided against itself is brought to ruin and desolation, like the kingdom of Satan would be if there was a division within it.",
+            "wordCount": 95,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.8378398053525016,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                57.71,
+                0.0,
+                42.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A house divided against itself falleth, illustrating the consequences of a kingdom being divided against itself. Jesus could discern their thoughts, revealing that they were attempting to tempt him. Similar to a family with opposing factions, divisions within a kingdom result in desolation and ruin. Just as one tumbling house can knock down its neighbor, a kingdom that lacks unity crumbles into ruin, mirroring the potential fate of Satan's kingdom if it were divided.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.589110796202643,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+            "commentatorTierSimilarities": [
+                56.3,
+                0.0,
+                43.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A house divided against itself falleth, a graphic picture of what happens when a kingdom is divided against itself. Jesus knew that they were trying to tempt him and saw their thoughts, just as Matthew records in his Gospel. The divided kingdom, like a family in which one part is opposed to the other, brings desolation and ruin to everyone involved. Just as one tumbling house knocks down its neighbor, a kingdom divided against itself is brought to ruin and desolation, like the kingdom of Satan would be if there was a division within it.",
+            "wordCount": 95,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.8378398053525016,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                57.71,
+                0.0,
+                42.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A house divided against itself falleth, illustrating the consequences of a kingdom being divided against itself. Jesus could discern their thoughts and knew they were trying to tempt him. Divisions within a kingdom result in desolation and ruin, similar to a family with opposing factions. Just as one tumbling house can knock down its neighbor, a kingdom lacking unity crumbles into ruin. This is a graphic depiction of what would happen if there was a division within the kingdom of Satan.",
+            "wordCount": 81,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.548737345184492,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.84,
+            "commentatorTierSimilarities": [
+                55.99,
+                0.0,
+                44.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

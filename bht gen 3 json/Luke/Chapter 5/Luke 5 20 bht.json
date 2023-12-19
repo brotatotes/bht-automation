@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:15:18",
+    "verseRef": "Luke 5:20",
+    "bestBHT": {
+        "bht": "The paralytic man's friends demonstrated their faith when they brought him to Jesus for healing. Jesus acknowledged their faith and forgave the man's sins, recognizing that his physical ailment may have been related to his sin. The man had faith as well, and it was through this collective faith that Jesus offered forgiveness and restoration. This account highlights the importance of faith not only for physical healing but also for the healing of the soul, as Jesus had compassion for both aspects of the man's well-being.",
+        "wordCount": 90,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7329642434925547,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+        "commentatorTierSimilarities": [
+            60.71,
+            0.0,
+            39.29
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "20.] On their faith see note on Matthew, ver. 2; also on are forgiven."
+        ],
+        "Archibald T. Robertson": [
+            "Their faith (\u03c4\u03b7\u03bd \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd \u03b1\u03c5\u03c4\u03c9\u03bd). In all three Gospels.",
+            "Are forgiven (\u03b1\u03c6\u03b5\u03c9\u03bd\u03c4\u03b1)...Possibly this man's malady was due to his sin as is sometimes true (John 5:14).",
+            "The man had faith along with that of the four, but he was still a paralytic when Jesus forgave his sins."
+        ],
+        "John Gill": [
+            "When he saw their faith...he said unto him.\" ",
+            "Man, thy sins are forgiven thee.",
+            "He had healing both for soul and body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The paralytic man's friends demonstrated their faith when they brought him to Jesus for healing. Jesus acknowledged their faith and forgave the man's sins, recognizing that his physical ailment may have been related to his sin. The man had faith as well, and it was through this collective faith that Jesus offered forgiveness and restoration. This account highlights the importance of faith not only for physical healing but also for the healing of the soul, as Jesus had compassion for both aspects of the man's well-being.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7329642434925547,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+            "commentatorTierSimilarities": [
+                60.71,
+                0.0,
+                39.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The paralytic man's friends exhibited faith by bringing him to Jesus for healing. Recognizing this faith, Jesus forgave the man's sins, perhaps indicating a connection between his sin and his paralysis. However, the man himself also possessed faith, despite his disability. This collective faith prompted Jesus to provide both physical and spiritual healing. Thus, this story emphasizes the significance of faith in both the restoration of the body and the redemption of the soul.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.5108569137319483,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.58,
+            "commentatorTierSimilarities": [
+                60.69,
+                0.0,
+                39.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The paralytic man's friends had faith, which Jesus acknowledged when He forgave the man's sins. It is possible that the man's illness was a consequence of his sin. However, the man himself also had faith, even in his paralyzed state, and it was through the collective faith of all involved that Jesus offered forgiveness and healing. This account demonstrates the importance of faith for both physical and spiritual restoration, as Jesus showed compassion for the well-being of both the body and soul.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.701479626630772,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+            "commentatorTierSimilarities": [
+                62.09,
+                0.0,
+                37.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The faith of the paralytic man's friends led them to bring him to Jesus for healing. Jesus responded to their faith by forgiving the man's sins, implying a possible link between his sin and his paralysis. However, the man himself also possessed faith, remaining a paralytic when Jesus forgave him. This collective faith prompted Jesus to provide both physical and spiritual healing, emphasizing the vital role of faith in both the restoration of the body and the redemption of the soul.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.746434234088731,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "commentatorTierSimilarities": [
+                62.31,
+                0.0,
+                37.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The paralytic man's friends had faith, which Jesus acknowledged when He forgave the man's sins. The man's paralysis could have been a result of his sin, as Jesus had healing for both body and soul. Despite the man's condition, he also possessed faith when Jesus forgave him. This collective faith prompted Jesus to provide both physical and spiritual healing, highlighting the importance of faith in the restoration of the body and the redemption of the soul.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.8110926821696096,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+            "commentatorTierSimilarities": [
+                57.77,
+                0.0,
+                42.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:18:27",
+    "verseRef": "Luke 12:12",
+    "bestBHT": {
+        "bht": "In times of crisis, it takes courage to trust God without fear, relying on Him to guide us. However, this should not lead to neglecting preparation, especially in preaching. It is necessary to discern what needs to be said and rely on the Holy Spirit to provide the words and understanding required. The Holy Spirit teaches us and equips us with both the words and matter necessary to effectively convey the message.",
+        "wordCount": 72,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 1.4594322367788568,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.87,
+        "commentatorTierSimilarities": [
+            42.71,
+            0.0,
+            57.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "It is simply a word for courage in a crisis to play the man for Christ and to trust the issue with God without fear.",
+            "This is no excuse for neglect in pulpit preparation.",
+            "It is necessary to say what things it is necessary to say."
+        ],
+        "John Gill": [
+            "For the Holy Ghost shall teach you, shall give both words and matter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In times of crisis, it takes courage to stand firm in our faith and trust in God without fear. We are called to be bold for Christ and rely on Him to guide us and give us the words to say. However, this does not mean we can neglect proper preparation, especially in our preaching. It is important to discern what needs to be said, relying on the Holy Spirit to teach us and provide us with the necessary words and understanding.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.3966591395643464,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.78,
+            "commentatorTierSimilarities": [
+                51.92,
+                0.0,
+                48.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In moments of crisis, we are encouraged to demonstrate courage and trust in God, relying on Him without fear. This requires us to have faith and take a stand for Christ. Yet, our responsibility to preach the Gospel should not be neglected, as preparation is essential. We need to discern what needs to be said and rely on the Holy Spirit to give us the words and understanding necessary for the task at hand.",
+            "wordCount": 74,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.420787401889005,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.58,
+            "commentatorTierSimilarities": [
+                52.13,
+                0.0,
+                47.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In times of crisis, it is important to display courage and trust in God, without any fear, knowing that He will guide us. However, it is crucial to remember that this does not excuse negligence in the preparation of our teachings. We must still take the time to properly prepare and discern what needs to be said. By relying on the Holy Spirit, He will equip us with the words and understanding we need to effectively communicate the message of the gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.334430889346495,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.71,
+            "commentatorTierSimilarities": [
+                55.81,
+                0.0,
+                44.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In times of crisis, we must demonstrate courage and trust in God, relying on Him without fear. However, it is necessary to recognize that this does not warrant neglecting preparation, especially when it comes to preaching. It is important to discern what needs to be said and rely on the Holy Spirit, who will grant us both the words and the understanding required. His guidance ensures that we effectively communicate the message we need to convey.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.3287023608804838,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.52,
+            "commentatorTierSimilarities": [
+                54.37,
+                0.0,
+                45.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In times of crisis, it takes courage to trust God without fear, relying on Him to guide us. However, this should not lead to neglecting preparation, especially in preaching. It is necessary to discern what needs to be said and rely on the Holy Spirit to provide the words and understanding required. The Holy Spirit teaches us and equips us with both the words and matter necessary to effectively convey the message.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.4594322367788568,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.87,
+            "commentatorTierSimilarities": [
+                42.71,
+                0.0,
+                57.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

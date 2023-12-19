@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 13:58:58",
+    "verseRef": "1 Thessalonians 4:2",
+    "bestBHT": {
+        "bht": "Remember the commandments that were given to you, not from ourselves, but by the authority of the Lord Jesus. These charges were delivered to you by the Lord Himself, and they carry His paramount authority. Paul, in writing to this church, emphasized the divine authority behind these commandments and the importance of understanding that he spoke on behalf of the Lord. These commandments include instructions on faith, love, worship, and conduct. Let us diligently follow His teachings, for disobedience to His will carries consequences.",
+        "wordCount": 84,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.0113279947454292,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+        "commentatorTierSimilarities": [
+            26.89,
+            33.01,
+            40.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Takes up the 'as ye received of us' of the former verse, and appeals to their memory in its confirmation.",
+            "See similar appeals in Gal. iv. 13; 1 Cor. xv. 1.",
+            "By the Lord Jesus, i.e. coming from Him, by His order and appointment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By the Lord Jesus\u2014by His authority and direction, not by our own.",
+            "He uses the strong term, 'commandments,' in writing to this Church not long founded, knowing that they would take it in a right spirit, and feeling it desirable that they should understand he spake with divine authority.",
+            "'The Lord' marks His paramount authority, requiring implicit obedience."
+        ],
+        "Albert Barnes": [
+            "For ye know what commandments - It was but a short time since Paul was with them, and they could not but recollect the rules of living which he had laid down.",
+            "By the Lord Jesus - By the authority of the Lord Jesus.",
+            "Some of those rules, or commandments, the apostle refers to, probably, in the following verses."
+        ],
+        "Marvin Vincent": [
+            "Commandments [\u03c0\u03b1\u03c1\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b1\u03c2] . Better, charges. Only four times in N. T. ",
+            "The verb paraggellein to command or charge is frequent.",
+            "Used in Class of military orders."
+        ],
+        "Philip Schaff": [
+            "For ye know. I give you no new code of morals, but beseech you to live up to the instructions I formerly gave you.\" ",
+            "I refer you to my original teaching, \u2018for ye know,\u2019 etc.\" ",
+            "It was the Lord Jesus who moved the apostle to deliver these commandments. Christ was the agent in the matter."
+        ],
+        "Archibald T. Robertson": [
+            "What charge (\u03c4\u03b9\u03bd\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b1\u03c2). Plural, charges or precepts, command (Acts 16:24), prohibition (Acts 5:28), right living (1 Timothy 1:5). Military term in Xenophon and Polybius. "
+        ],
+        "John Gill": [
+            "Such as those of faith and love, the ordinances of the Gospel, baptism, and the Lord's supper, and all such as relate to the worship and service of God, to the discipline of Christ's house, to their behaviour one towards another, and their conduct in the world.",
+            "Which were delivered to them, not as from themselves, and by their own authority, but by the Lord Jesus; in his name, and by his authority, and as ordered by him.",
+            "For he that knows his Lord's will, and does it not, shall be beaten with many stripes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Remember the commandments that were given to you, not from ourselves, but by the authority of the Lord Jesus. These charges were delivered to you by the Lord Himself, and they carry His paramount authority. Paul, in writing to this new church, emphasized the divine authority behind these commandments and the importance of understanding that he spoke on behalf of the Lord. These commandments encompass various aspects of living a righteous life, including faith, love, worship, and conduct within the community. It is crucial to recognize that these instructions were not arbitrary, but ordained by the Lord Jesus Himself. Therefore, let us diligently follow His teachings, for disobedience to His will carries consequences.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.9526387298515977,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.27,
+            "commentatorTierSimilarities": [
+                25.71,
+                33.63,
+                40.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Remember the commandments that were given to you, not from ourselves, but by the authority of the Lord Jesus. These charges were delivered to you by the Lord Himself, and they carry His paramount authority. Paul, in writing to this church, emphasized the divine authority behind these commandments and the importance of understanding that he spoke on behalf of the Lord. These commandments include instructions on faith, love, worship, and conduct. Let us diligently follow His teachings, for disobedience to His will carries consequences.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0113279947454292,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+            "commentatorTierSimilarities": [
+                26.89,
+                33.01,
+                40.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Remember the commandments given by the Lord Jesus, not from ourselves. Paul, writing to the Thessalonians, appealed to their memory to confirm that these commandments came with divine authority. These charges encompass various aspects of righteous living, including faith, love, worship, and conduct within the community. The use of the term commandments underscores the importance of understanding the Lord's paramount authority and the need for obedience. By following these instructions, we honor the Lord and avoid the consequences of disobedience.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9541742034375202,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                26.99,
+                34.67,
+                38.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Remember the commandments that were given to you by the Lord Jesus, not from ourselves. Paul appeals to their memory, reminding the Thessalonians that these charges carry divine authority and should be followed with a right spirit. This includes instructions on faith, love, worship, and conduct both within the Church and in the world. In writing to this new church, Paul emphasizes the importance of understanding that he speaks on behalf of the Lord, and disobedience to His will has consequences.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9080442045507335,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                26.9,
+                32.87,
+                40.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Remember the commandments given to you by the Lord Jesus, not from ourselves. Paul appeals to their memory, reminding the Thessalonians that these commandments carry divine authority. They include instructions on various aspects of righteous living, such as faith, love, worship, and conduct within the community. By emphasizing the Lord's paramount authority, Paul aims to ensure their understanding of the importance of obedience. As recipients of these divine charges, it is crucial to follow them diligently, for disobedience to the Lord's will bears consequences.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8717215696722609,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+            "commentatorTierSimilarities": [
+                26.14,
+                34.99,
+                38.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

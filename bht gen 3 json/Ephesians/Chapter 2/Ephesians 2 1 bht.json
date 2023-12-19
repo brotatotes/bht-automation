@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:29:33",
+    "verseRef": "Ephesians 2:1",
+    "bestBHT": {
+        "bht": "You also, who were dead in your trespasses and sins, were spiritually lifeless. By God's grace, He has rescued you from destruction and quickened you together with Christ to demonstrate the magnitude of His power. The union of our souls with God is the true and only life, and outside of Christ, we are altogether dead because sin reigns in us. But God, in His great mercy, has made us alive, just as He raised Christ from the dead, and He continues to work in us by the same almighty power.",
+        "wordCount": 92,
+        "quoteTokenProportion": 49.15,
+        "qualityScore": 2.226778691895973,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.38,
+        "commentatorTierSimilarities": [
+            30.8,
+            28.81,
+            40.4
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "You also (now, ye are selected and put into prominence, from among the recipients of God\u2019s grace implied in vv. 19\u201323 of the former chapter, See below), who were (this clearly marks the state in which they were at the time when God quickened them: this in ver. 5 is brought prominently forward) dead...",
+            "[your] trespasses and sins (where the two words, trespasses and sins, occur together, the distinction seems to be, that the former indicate involuntary acts in which the limit of right is overstepped, the latter, conscious habits of doing wrong.",
+            "As to the way in which this verse is to be brought into the construction of the context, the simplest view seems to be the usual one, that the Apostle began with you also, in the accusative, intending to govern it by \u201cquickened together with Christ\u201d (ver. 5), but was led away by the relative clauses..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And you \u2014 'You also,' among those who have experienced His mighty power in enabling them to believe (Ephesians 1:19-23).",
+            "Dead \u2014 spiritually. A living corpse: without the gracious presence of God's Spirit in the soul, and so unable to think, will, or do aught that is holy.",
+            "Sin is the death of the soul. Alienated from the life of God. Translate, as Greek, 'in your trespasses,' expressing a FALL or LAPSE, such as the transgression of Adam whereby he fell. 'Sin' implies innate corruption and ALIENATION from God exhibited in acts of sin."
+        ],
+        "Albert Barnes": [
+            "The words 'hath he quickened' mean, hath he made alive, or made to live.",
+            "It affirms a fact - that in relation to real spiritual life they were, in consequence of sin, like a dead man in regard to the objects which are around him.",
+            "The sinner sees no beauty there; and no human power can arouse him to act for God, anymore than human power can rouse the sleeping dead, or open the sightless eyeballs on the light of day."
+        ],
+        "Marvin Vincent": [
+            "The magnitude of God's power toward believers as exhibited in Christ's resurrection.",
+            "God quickened you as He did Christ.",
+            "Trespasses, special acts. Sins, all forms and phases of sin: more general."
+        ],
+        "John Calvin": [
+            "Ye were formerly lost; but now God, by his grace, has rescued you from destruction.",
+            "As to the first, he says that they were dead; and states, at the same time, the cause of the death \u2014 trespasses and sins.",
+            "Let this, then, be held as a fixed principle, that the union of our soul with God is the true and only life; and that out of Christ we are altogether dead, because sin, the cause of death, reigns in us."
+        ],
+        "Philip Schaff": [
+            "'Who were dead' is inexact. Spiritual, not physical, death is referred to.",
+            "The former word refers to special transgressions, viewed as misdeeds, faults, failures (and is usually rendered 'trespass'); the latter, in the singular, is used of sin as a power or principle, or in an abstract sense, but, in the plural, as here, embraces all sins, in thought, word, or deed.",
+            "\u2018By,\u2019 or \u2018on account of,\u2019 seem preferable to \u2018through.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The verb for did he quicken does not occur till verse Ephesians 2:5 and then with \u03b7\u03bc\u03b1\u03c2 (us) instead of \u03c5\u03bc\u03b1\u03c2 (you).",
+            "There is a like ellipsis or anacoluthon in Colossians 1:21; Colossians 1:22, only there is no change from \u03c5\u03bc\u03b1\u03c2 to \u03b7\u03bc\u03b1\u03c2.",
+            "Present active participle referring to their former state. Spiritually dead."
+        ],
+        "John Gill": [
+            "those who are quickened with Christ, and by the power and grace of God, are described in their natural and unregenerate estate.",
+            "man must be in himself unacceptable to God, infectious and hurtful to his fellow creatures, and incapable of helping himself.",
+            "the Scripture says, 'turn and live'."
+        ],
+        "John Wesley": [
+            "And he hath quickened you \u2014 In the nineteenth and twentieth verses of the preceding chapter, St. Paul spoke of God's working in them by the same almighty power whereby he raised Christ from the dead.\" ",
+            "Who were dead \u2014 Not only diseased, but dead; absolutely void of all spiritual life; and as incapable of quickening yourselves, as persons literally dead.\" ",
+            "In trespasses and sins-Sins seem to be spoken chiefly of the gentiles, who knew not God; trespasses, of the Jews, who had his law, and yet regarded it not, Ephesians 2:5."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You also, who were dead in your trespasses and sins, were spiritually lifeless, without the gracious presence of God's Spirit in your souls. The distinction between trespasses and sins is that the former indicates involuntary acts that overstep the limit of right, while the latter refers to conscious habits of doing wrong. By God's grace, He has rescued you from destruction and quickened you together with Christ, demonstrating the magnitude of His power toward believers. The union of our souls with God is the true and only life, and outside of Christ, we are altogether dead because sin reigns in us. But God, in His great mercy, has made us alive, just as He raised Christ from the dead, and He continues to work in us by the same almighty power.",
+            "wordCount": 133,
+            "quoteTokenProportion": 45.12,
+            "qualityScore": 2.248779334990151,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.11,
+            "commentatorTierSimilarities": [
+                32.69,
+                28.7,
+                38.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You also, who were dead in your trespasses and sins, were spiritually lifeless. By God's grace, He has rescued you from destruction and quickened you together with Christ to demonstrate the magnitude of His power. The union of our souls with God is the true and only life, and outside of Christ, we are altogether dead because sin reigns in us. But God, in His great mercy, has made us alive, just as He raised Christ from the dead, and He continues to work in us by the same almighty power.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.226778691895973,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.38,
+            "commentatorTierSimilarities": [
+                30.8,
+                28.81,
+                40.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You also, who were dead in your trespasses and sins, were spiritually lifeless, without the gracious presence of God's Spirit in your souls. By God's grace, He has rescued you from destruction and quickened you together with Christ, demonstrating the magnitude of His power toward believers. The union of our souls with God is the true and only life, and outside of Christ, we are altogether dead because sin reigns in us. But God, in His great mercy, has made us alive, just as He raised Christ from the dead, and He continues to work in us by the same almighty power.",
+            "wordCount": 104,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.2614079387476362,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.53,
+            "commentatorTierSimilarities": [
+                31.68,
+                27.74,
+                40.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You also, who were dead in your trespasses and sins, were spiritually lifeless, without the gracious presence of God's Spirit in your souls. By God's grace, He has rescued you from destruction and quickened you together with Christ, demonstrating the magnitude of His power toward believers. The union of our souls with God is the true and only life, and outside of Christ, we are altogether dead because sin reigns in us. But God, in His great mercy, has made us alive, just as He raised Christ from the dead, and He continues to work in us by the same almighty power.",
+            "wordCount": 104,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.2614079387476362,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.53,
+            "commentatorTierSimilarities": [
+                31.68,
+                27.74,
+                40.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "You also, who were dead in your trespasses and sins, were spiritually lifeless, without the gracious presence of God's Spirit in your souls. By God's grace, He has rescued you from destruction and quickened you together with Christ, demonstrating the magnitude of His power toward believers. The union of our souls with God is the true and only life, and outside of Christ, we are altogether dead because sin reigns in us. But God, in His great mercy, has made us alive, just as He raised Christ from the dead, and He continues to work in us by the same almighty power.",
+            "wordCount": 104,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.2614079387476362,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.53,
+            "commentatorTierSimilarities": [
+                31.68,
+                27.74,
+                40.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

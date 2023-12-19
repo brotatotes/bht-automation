@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:28:32",
+    "verseRef": "1 Timothy 3:16",
+    "bestBHT": {
+        "bht": "Great is the mystery of godliness, the truth which pertains to godliness. Christ, to whom \u03bf\u03c2 refers, is the mystery of Godliness. He was manifested in the flesh, the divine scheme embodied in Christ, once hidden but now revealed to us who believe. He lived on the border-line between the natural and the spiritual world, and the powers of the spiritual world were continually crossing the line and revealing themselves in him. The indwelling of the Spirit of Christ is the test and vindication of belonging to Christ, showing our connection to him.",
+        "wordCount": 94,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.535834088561903,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.66,
+        "commentatorTierSimilarities": [
+            44.03,
+            27.54,
+            28.43
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Great is the mystery of godliness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Confessedly great is the mystery of godliness: (namely), HE WHO was manifested in (the) flesh (He who) was justified in the Spirit.\" ",
+            "the divine scheme embodied in CHRIST, once hidden from, but now revealed to, us who believe.\" ",
+            "There is set before us the whole dignity of Christ's person. If He were not essentially superhuman, how could the apostle emphatically declare that He was manifested in (the) flesh?"
+        ],
+        "Albert Barnes": [
+            "The meaning here is not that the proposition which he affirms was mysterious in the sense that it was unintelligible, or impossible to be understood; but that the doctrine respecting the incarnation and the work of the Messiah, which had been so long 'kept hidden' from the world, was a subject of the deepest importance.\" ",
+            "The expressions which follow in this verse refer to God 'as' thus manifested in the flesh; to the Saviour as he appeared on earth, regarded as a divine and human being. It was the fact that he thus appeared and sustained this character, which made the things which are immediately specified so remarkable, and so worthy of attention.\" ",
+            "The Redeemer ascended to heaven, having finished his great work; but how little interest do the mass of mankind feel in this! He will come again to judge the world; but the race moves on, regardless of this truth; unalarmed at the prospect of meeting him; feeling no interest in the assurance that he 'has' come and died for sinners, and no apprehension in view of the fact that he will come again, and that they must stand at his bar."
+        ],
+        "Marvin Vincent": [
+            "The mystery of godliness is the truth which pertains or belongs to godliness. It is not the property of worldly wisdom.\" ",
+            "He seemed to live on the border - line between the natural and the spiritual world, and the powers of the spiritual world were continually crossing the line and revealing themselves in him.\" ",
+            "The indwelling of the Spirit of Christ is the test and vindication of belonging to Christ."
+        ],
+        "John Calvin": [
+            "First, we have here an express testimony of both natures; for he declares at the same time that Christ is true God and true man.",
+            "Thus, by this single passage, the true and orthodox faith is powerfully defended against Arius, Marcion, Nestorius, and Eutyches.",
+            "But this great efficacy of the preached gospel was no ordinary miracle, when Christ, overcoming all obstacles, subdued to the obedience of faith those who seemed to be altogether incapable of being tamed."
+        ],
+        "Philip Schaff": [
+            "The \u2018mystery\u2019 here, as there, is the truth once hidden, but now revealed, in a creed, but yet also even more in a Person.",
+            "The Truth is the Person.",
+            "The progress of His kingdom in the world is but the partial manifestation of the glory of the kingdom in Heaven."
+        ],
+        "Archibald T. Robertson": [
+            "The revealed secret of true religion, the mystery of Christianity, the Person of Christ.",
+            "Christ, to whom \u03bf\u03c2 refers, is the mystery of Godliness.",
+            "In a wonderful way this stanza of a hymn presents the outline of the life of Christ."
+        ],
+        "John Gill": [
+            "What follows is so, the incarnation of Christ, his birth of a virgin, the union of the two natures, divine and human, in his person; this is a mystery, which though revealed, and so to be believed, is not to be discerned nor accounted for, nor the modus of it to be comprehended by reason.",
+            "God was manifest in the flesh; not God essentially considered, or Deity in the abstract, but personally; and not the first nor the third Person; for of neither of them can this or the following things be said; but the second Person, the Word, or Son of God; see 1 John 3:8 who existed as a divine Person, and as a distinct one from the Father and Spirit, before his incarnation.",
+            "Received up into glory; he was raised from the dead, and had a glory put upon his risen body; he ascended in a glorious manner to heaven, in a cloud, and in chariots of angels, and was received there with a welcome by his Father; and is set down at his right hand, and crowned with glory and honour, and glorified with the glory he had with him before the world was."
+        ],
+        "John Wesley": [
+            "The mystery of godliness...is the pillar and ground of all the truth taught in his church.",
+            "God was manifest in the flesh...for three and thirty years.",
+            "The first point is, He was manifested in the flesh; the last, He was taken up into glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Great is the mystery of godliness, the truth which pertains to godliness. This mystery is the revealed secret of true religion, the mystery of Christianity embodied in Christ. Christ, who is the mystery of godliness, was manifested in the flesh. His incarnation, his birth of a virgin, his union of the divine and human natures in his person, are all part of this great mystery. He lived on the border between the natural and spiritual world, and the powers of the spiritual world were constantly revealing themselves in him. He is the test and vindication of belonging to him, for the indwelling of the Spirit of Christ in us shows our connection to him. His life, from his birth to his ascension, is beautifully captured in this stanza of a hymn. In a wonderful way, the life of Christ is a glimpse into the glory of the kingdom of Heaven.",
+            "wordCount": 150,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 2.3423387920798353,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.22,
+            "commentatorTierSimilarities": [
+                42.18,
+                27.99,
+                29.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Great is the mystery of godliness, the truth which pertains to godliness. This mystery is the revealed secret of true religion, the mystery of Christianity embodied in Christ. Christ, who is the mystery of godliness, was manifested in the flesh. He lived on the border between the natural and spiritual world, and the powers of the spiritual world revealed themselves in him. He is the test and vindication of belonging to him, for the indwelling of the Spirit of Christ shows our connection to him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 2.5079430221455397,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.73,
+            "commentatorTierSimilarities": [
+                45.44,
+                26.34,
+                28.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Great is the mystery of godliness, the truth which pertains to godliness. Christ, the mystery of godliness, was manifested in the flesh. He lived on the border between the natural and spiritual world, and the powers of the spiritual world revealed themselves in him. The indwelling of the Spirit of Christ is the test and vindication of belonging to him. This revealed secret of true religion is the essence of Christianity, embodied in the person of Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 2.5020711066600407,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.53,
+            "commentatorTierSimilarities": [
+                45.48,
+                25.9,
+                28.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Great is the mystery of godliness, the truth which pertains to godliness. Christ, to whom \u03bf\u03c2 refers, is the mystery of Godliness. He was manifested in the flesh, the divine scheme embodied in Christ, once hidden but now revealed to us who believe. He lived on the border-line between the natural and the spiritual world, and the powers of the spiritual world were continually crossing the line and revealing themselves in him. The indwelling of the Spirit of Christ is the test and vindication of belonging to Christ, showing our connection to him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.535834088561903,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.66,
+            "commentatorTierSimilarities": [
+                44.03,
+                27.54,
+                28.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Great is the mystery of godliness, embodied in Christ. He was manifested in the flesh, living on the border between the natural and spiritual world. The powers of the spiritual world continually revealed themselves in him. The indwelling of the Spirit of Christ is the test and vindication of belonging to him. This revealed secret of true religion is the essence of Christianity, hidden before but now unveiled to those who believe. Christ, the mystery of Godliness, is the central figure in this grand hymn of his life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.360021294486698,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.81,
+            "commentatorTierSimilarities": [
+                44.61,
+                26.57,
+                28.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

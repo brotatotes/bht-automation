@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:15:43",
+    "verseRef": "Jude 15",
+    "bestBHT": {
+        "bht": "The Lord will come with His holy ones to execute judgment and convict the impious sinners for their works and harsh words against Him. Enoch's prophecy, written in ancient Hebrew poetry, warns about the consequences of ungodliness, presumption, and speaking against God's children. The purpose of the Lord's coming is not to convince, but to pronounce a just sentence based on the evidence of guilt. The vengeance upon the wicked serves as a reminder for the elect to remain in fear and watchfulness.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8172238398419727,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+        "commentatorTierSimilarities": [
+            34.68,
+            30.92,
+            34.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to execute judgment upon all, and to convict all the impious concerning all their works of impiety which they impiously did, and concerning all the hard things which impious sinners spoke against Him.\" ",
+            "And He came with ten thousands of His holy ones, to hold judgment: on them, and destroy the impious, and fight with all carnal men for all things which sinners and impious men have done and wrought against Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Enoch\u2019s prophecy is composed in Hebrew poetic parallelism, the oldest specimen extant.",
+            "Lamech presumes on impunity in polygamy and murder (just as Cain the murderer seemed to escape with impunity).",
+            "They who speak against God\u2019s children are regarded by God as speaking against Himself."
+        ],
+        "Albert Barnes": [
+            "The purpose of the coming of the Lord will not be to convince men in that sense, though it is undoubtedly true that the wicked will see that their lives have been wrong; but it will be to pronounce a sentence on them as the result of the evidence of their guilt.",
+            "All that are ungodly among them - All that are not pious; all that have no religion.",
+            "The doctrine of the final judgment, if this was uttered by Enoch, was an early doctrine in the world. It was held even in the first generations of the race. It was one of those great truths early communicated to man to restrain him from sin, and to lead him to prepare for the great events which are to occur on the earth."
+        ],
+        "John Calvin": [
+            "But the vengeance suspended over the wicked ought to keep the elect in fear and watchfulness.",
+            "Their corrupters did much evil, not only by their wicked life, but also by their impure and false speech.",
+            "Their words were hard, on account of the refractory audacity, by which, being elated, they acted insolently."
+        ],
+        "Philip Schaff": [
+            "The characteristic of the antediluvians, as of those whom Jude addresses, is ungodliness: four times is this quality named, first and last and midst, in the description.",
+            "The double meaning of the Greek word is only half represented by \u2018convince,\u2019 and only half by \u2018convict;\u2019 both meanings are in the word, though the second meaning is the predominant one here.",
+            "The book contains many absurdities ( e.g. the women with whom the angels had intercourse brought forth giants six thousand feet high, who first devoured all the produce of the earth, and then began to devour men themselves); and it differs in several particulars from Jude\u2019s statements."
+        ],
+        "Archibald T. Robertson": [
+            "To do justice.\" ",
+            "Harsh, rough things.",
+            "Four times in this verse as a sort of refrain: ungodly, ungodliness, they acted impiously."
+        ],
+        "John Gill": [
+            "To execute judgment upon all... in the most strict and righteous manner.",
+            "to convince all that are ungodly... by that clear evidence, and full light, in which things will be set.",
+            "of all their ungodly deeds... which they lived in the commission of, and continually practiced in a vile manner, publicly, and in defiance of heaven."
+        ],
+        "John Wesley": [
+            "To execute judgment \u2014 Enoch herein looked beyond the flood.",
+            "Sinners, in general. And to convict all the ungodly, in particular, of all the grievous things which ungodly sinners (a sinner is bad; but the ungodly who sin without fear are worse) have spoken against him.",
+            "Though they might not think, all those speeches were against him, Jude 1:8,10, though they might not think, all those speeches were against him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the Lord's coming to execute judgment and convict the impious sinners for their works and harsh words against Him. Enoch's prophecy, written in ancient Hebrew poetry, warns of the consequences of ungodliness and presumption on impunity. Those who speak against God's children are considered to speak against God Himself. The purpose of the Lord's coming is not to convince but to pronounce a just sentence based on the evidence of guilt. The antediluvians, like those Jude addresses, were characterized by their ungodliness. The vengeance upon the wicked should keep the elect in fear and watchfulness.",
+            "wordCount": 103,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.742251801882854,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.27,
+            "commentatorTierSimilarities": [
+                33.81,
+                32.0,
+                34.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord will come to execute judgment and convict the impious sinners for their works and harsh words against Him. Enoch's prophecy, written in ancient Hebrew poetry, warns of the consequences of ungodliness and presumption on impunity. Those who speak against God's children are considered to speak against God Himself. The purpose of the Lord's coming is not to convince but to pronounce a just sentence based on the evidence of guilt. The vengeance upon the wicked should keep the elect in fear and watchfulness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7701944249213617,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                34.81,
+                30.0,
+                35.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord will come with His holy ones to execute judgment and convict the impious sinners for their works and harsh words against Him. Enoch's ancient Hebrew prophecy warns about the consequences of ungodliness, presumption, and speaking against God's children. The purpose of the Lord's coming is not to convince, but to pronounce a just sentence based on the evidence of guilt. The vengeance upon the wicked should serve as a reminder for the elect to remain in fear and watchfulness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.7953516503105464,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+            "commentatorTierSimilarities": [
+                33.96,
+                31.47,
+                34.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord will come to execute judgment and convict the impious sinners for their ungodly works and harsh words spoken against Him. Enoch's early doctrine of the final judgment emphasizes the consequences of ungodliness. Speaking against God's children is considered speaking against God Himself. The purpose of the Lord's coming is to pronounce a just sentence based on evidence of guilt, rather than to convince. The vengeance upon the wicked should serve as a warning for the elect to remain in fear and watchfulness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6964445103016201,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.75,
+            "commentatorTierSimilarities": [
+                32.97,
+                30.67,
+                36.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord will come with His holy ones to execute judgment and convict the impious sinners for their works and harsh words against Him. Enoch's prophecy, written in ancient Hebrew poetry, warns about the consequences of ungodliness, presumption, and speaking against God's children. The purpose of the Lord's coming is not to convince, but to pronounce a just sentence based on the evidence of guilt. The vengeance upon the wicked serves as a reminder for the elect to remain in fear and watchfulness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8172238398419727,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                34.68,
+                30.92,
+                34.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

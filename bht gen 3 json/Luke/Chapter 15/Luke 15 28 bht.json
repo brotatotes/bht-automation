@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:20:26",
+    "verseRef": "Luke 15:28",
+    "bestBHT": {
+        "bht": "Just as a father pities his children, the Lord also pities those who fear Him. The elder brother's deep-seated wrath and refusal to join the celebration display his long-standing resentment and suspicion of his father's favor towards his wayward sibling. Despite the anger, the father continues to entreat the elder brother, urging him to come inside. Through this parable, Jesus highlights the injustice of questioning another's forgiveness and complaining about their brother receiving mercy. This challenges the self-righteous and their rejection of grace and salvation.",
+        "wordCount": 91,
+        "quoteTokenProportion": 29.03,
+        "qualityScore": 1.8346768924563128,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+        "commentatorTierSimilarities": [
+            29.3,
+            38.35,
+            32.36
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Like as a father pitieth his children, so the Lord pitieth them that fear Him.",
+            "As it is the elder brother who now errs, so it is the same paternal compassion which had fallen on the neck of the younger that comes forth and pleads with the elder."
+        ],
+        "Marvin Vincent": [
+            "He was angry [\u03c9\u03c1\u03b3\u03b9\u03c3\u03b8\u03b7] . Not with a mere temporary fit of passion, but, as the word imports, with a deep - seated wrath."
+        ],
+        "John Calvin": [
+            "By these words he reproaches hypocrites with intolerable pride, which makes it necessary that the Father should entreat them not to envy the compassion manifested to their brethren.",
+            "And in order to take away every excuse from wicked severity, he not only introduces hypocrites as speaking, whose false boasting might be confuted, but even affirms that, though any man had discharged, in the most perfect manner, all the duties of piety towards the Father, yet he has no just reason to complain because his brother obtains pardon.",
+            "The design of Christ is, to show that it would be unjust in any man to murmur on account of his brother having been received into favor, even though he were not inferior in holiness to the angels."
+        ],
+        "Philip Schaff": [
+            "The father left the feast of joy to kindly urge the elder brother.",
+            "This represents the long-suffering of God toward the self-righteous, the efforts to bring them to a better mind.",
+            "The parable itself, spoken to the Pharisees (Luke 15:3), was an entreaty to the elder brother."
+        ],
+        "Archibald T. Robertson": [
+            "But he became angry, he flew into a rage. This was the explosion as the result of long resentment towards the wayward brother and suspicion of the father's partiality for the erring son.",
+            "Would not go in. Imperfect tense (was not willing, refused) and aorist active (ingressive) infinitive.",
+            "Entreated. Imperfect tense, he kept on beseeching him."
+        ],
+        "John Gill": [
+            "The preaching of a crucified Christ, and of free and full salvation by him, is highly displeasing and provoking to self-righteous persons.",
+            "They are angry at it, that it should be free, that election to salvation should be of grace, that justification should be freely by the grace of God...",
+            "They did not believe Jesus to be the Messiah, nor did they receive, but reject him; nor did they give any credit to the doctrines, nor submit to the ordinances of that dispensation."
+        ],
+        "John Wesley": [
+            "He was angry, and would not go in \u2014 How natural to us is this kind of resentment!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Just as a father shows compassion to his children, the Lord also shows compassion to those who fear Him. In this verse, the elder brother becomes angry and refuses to join the celebration for his younger brother's return. This deep-seated wrath is a result of long-standing resentment and suspicion of his father's favor towards his wayward sibling. Despite the elder brother's anger, the father kindly urges him to join the feast, continuously beseeching him. The parable itself serves as an entreaty to the self-righteous and a representation of God's long-suffering towards them. Jesus aims to show that it is unjust for anyone to criticize another's forgiveness and to complain about their brother receiving mercy. This message of grace and salvation can be provocative for those who adhere to a self-righteous mindset.",
+            "wordCount": 141,
+            "quoteTokenProportion": 34.88,
+            "qualityScore": 1.8966100939773947,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "commentatorTierSimilarities": [
+                27.1,
+                41.16,
+                31.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just as a father shows compassion to his children, the Lord also shows compassion to those who fear Him. In this story, the elder brother becomes angry and refuses to join the celebration for his younger brother's return. This deep-seated wrath is a result of long-standing resentment and suspicion of his father's favor towards his wayward sibling. Despite the elder brother's anger, the father kindly urges him to join the feast, continuously beseeching him. Jesus aims to show that it is unjust for anyone to criticize another's forgiveness and complain about their brother receiving mercy.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.9896455443784271,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                30.27,
+                38.91,
+                30.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just as a father pities his children, the Lord also pities those who fear Him. The elder brother's anger and refusal to join the celebration stem from long-standing resentment and suspicion of his father's favor towards his wayward sibling. Despite the anger, the father persistently entreats the elder brother to come inside. Jesus aims to demonstrate the injustice of criticizing and complaining about someone else's forgiveness. This message challenges the self-righteous and their rejection of grace and salvation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.7459784228575894,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.4,
+            "commentatorTierSimilarities": [
+                30.07,
+                36.23,
+                33.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as a father pities his children, the Lord also pities those who fear Him. The elder brother's deep-seated wrath and refusal to join the celebration display his long-standing resentment and suspicion of his father's favor towards his wayward sibling. Despite the anger, the father continues to entreat the elder brother, urging him to come inside. Through this parable, Jesus highlights the injustice of questioning another's forgiveness and complaining about their brother receiving mercy. This challenges the self-righteous and their rejection of grace and salvation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.8346768924563128,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                29.3,
+                38.35,
+                32.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Just as a father pities his children, the Lord also pities those who fear Him. The elder brother's anger and refusal to join the celebration stem from long-standing resentment and suspicion of his father's favor towards his wayward sibling. Despite the anger, the father persistently entreats the elder brother to come inside, pleading with him. Jesus intends to demonstrate the injustice of criticizing and complaining about someone else's forgiveness. This message challenges the self-righteous and their rejection of grace and salvation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7724980545928575,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.28,
+            "commentatorTierSimilarities": [
+                30.31,
+                35.65,
+                34.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

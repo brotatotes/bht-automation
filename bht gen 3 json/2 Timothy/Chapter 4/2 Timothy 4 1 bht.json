@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 17:31:19",
+    "verseRef": "2 Timothy 4:1",
+    "bestBHT": {
+        "bht": "I charge thee before God and by His appearing, for His kingdom is real now, though not visible, but it shall be both real and visible. I testify and conjure you to remember that He is the one who is going to judge, and it is by His appearing that this judgment shall take place. The word quick signifies that He will be the judge of both the living and the dead. Let this thought of the future judgment and His glorious reign strengthen your fidelity in the discharge of your duties as a minister of the New Testament.",
+        "wordCount": 99,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 1.8257345360375972,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+        "commentatorTierSimilarities": [
+            32.9,
+            28.81,
+            38.28
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I charge thee before God... and by His appearing.\"  ",
+            "His kingdom is real now, but not visible... It shall then be both real and visible.\"  ",
+            "Now he reigns in the midst of His enemies expecting till they shall be overthrown... Then He shall reign with His adversaries prostrate."
+        ],
+        "Albert Barnes": [
+            "The word 'quick' means 'living'... the idea is, that he would be alike the judge of all who were alive when he should come, and of all who had died.\" ",
+            "What is there which will more conduce to fidelity in the discharge of duty, than the thought that we must soon give up a solemn account of the manner in which we have performed it?",
+            "At his second advent, the extent and majesty of his kingdom will be fully displayed... It will be seen that the earth and the heavens are under his sway, and that all things there acknowledge him as their sovereign Lord."
+        ],
+        "Marvin Vincent": [
+            "I charge [\u03b4\u03b9\u03b1\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u03bc\u03b1\u03b9] . See on 1 Timothy 5:21.\" ",
+            "Rend. 'and by his appearing,' ejpifaneian thus depending on diamarturomai, and the accusative being the ordinary accusative of conjuration, with which by must be supplied.\" ",
+            "For ejpifaneia appearing, see on 1 Timothy 6:14; 2 Thessalonians 2:8. For, basileia kingdom, see on Luke 6:20."
+        ],
+        "John Calvin": [
+            "But Paul, after having spoken of the usefulness of Scripture, infers not only that all ought to read it, but that teachers ought to administer it, which is the duty enjoined on them.",
+            "he who, neglecting the assistance of the living voice, shall satisfy himself with the silent Scripture, will find how grievous an evil it is to disregard that way of learning which has been enjoined by God and Christ.",
+            "Here, as in a very weighty matter, Paul adds a solemn charge, exhibiting to Timothy, God as the avenger, and Christ as the judge, if he shall cease to discharge his office of teaching."
+        ],
+        "Philip Schaff": [
+            "I charge thee therefore...I adjure."
+        ],
+        "Archibald T. Robertson": [
+            "I charge thee (\u03b4\u03b9\u03b1\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u03bc\u03b1). Rather, 'I testify.'\" ",
+            "Who shall judge (\u03c4\u03bf\u03c5 \u03bc\u03b5\u03bb\u03bb\u03bf\u03bd\u03c4\u03bf\u03c2 \u03ba\u03c1\u03b9\u03bd\u03b5\u03b9\u03bd). 'The one going or about to judge.'",
+            "And by his appearing (\u03ba\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c6\u03b1\u03bd\u03b5\u03b9\u03b1\u03bd). Accusative of conjuration (verbs of swearing)."
+        ],
+        "John Gill": [
+            "I charge thee therefore before God,.... Whose word the Scriptures are, and by whom they are inspired; who had made Timothy an able minister of the New Testament, and to whom he was accountable for his ministry.",
+            "The time when this will be, is, at his appearing, and his kingdom; which may be considered as an hendyadis, expressive of one and the same thing; and so the Syriac version renders it, 'at the revelation of his kingdom'.",
+            "Christ has a kingdom now, and ever had, which is not of this world, but is of a spiritual nature; and which will be more manifest in that latter day, by the spread of the Gospel, the numerous instances of conversion, and the revival of powerful religion and godliness, which we commonly call the spiritual reign of Christ."
+        ],
+        "John Wesley": [
+            "I charge thee therefore \u2014 This is deduced from the whole preceding chapter.",
+            "At his appearing and his kingdom \u2014 That is, at his appearing in the kingdom of glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I charge thee before God and by His appearing, for His kingdom is real now, though not visible, but it shall be both real and visible. He reigns in the midst of His enemies, awaiting their overthrow, and then He shall reign with His adversaries prostrate. I testify and conjure you to remember that He is the one who is going to judge, and it is by His appearing that this judgment shall take place. The word quick signifies that He will be the judge of both the living and the dead. The majesty and extent of His kingdom will be fully displayed at His second advent, where all things will acknowledge Him as their sovereign Lord. Let this thought of the future judgment and His glorious reign strengthen your fidelity in the discharge of your duties as a minister of the New Testament.",
+            "wordCount": 144,
+            "quoteTokenProportion": 42.35,
+            "qualityScore": 1.8071565916901013,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.43,
+            "commentatorTierSimilarities": [
+                33.68,
+                28.27,
+                38.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I charge thee before God and by His appearing, for His kingdom is real now, though not visible, but it shall be both real and visible. I testify and conjure you to remember that He is the one who is going to judge, and it is by His appearing that this judgment shall take place. The word quick signifies that He will be the judge of both the living and the dead. Let this thought of the future judgment and His glorious reign strengthen your fidelity in the discharge of your duties as a minister of the New Testament.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.8257345360375972,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+            "commentatorTierSimilarities": [
+                32.9,
+                28.81,
+                38.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I charge thee before God, conjure you to remember that He is the one who is going to judge, and it is by His appearing that this judgment shall take place. The word quick signifies that He will be the judge of both the living and the dead. Let this thought of the future judgment and His glorious reign strengthen your fidelity as a minister. His kingdom will be fully displayed at His second advent, where all things will acknowledge Him as their sovereign Lord.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.7479668424314694,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                30.66,
+                31.56,
+                37.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I charge thee before God and by His appearing, for His kingdom is real now, though not visible. He reigns in the midst of His enemies, awaiting their overthrow. I testify and conjure you to remember that He is the one who is going to judge, by His appearing in the kingdom of glory. The word quick signifies that He will judge both the living and the dead. Let this thought strengthen your fidelity as a minister of the New Testament.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.758067424138026,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                35.04,
+                27.2,
+                37.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I charge thee before God and by His appearing, for His kingdom is real now, though not visible. He reigns in the midst of His enemies, awaiting their overthrow. I testify and conjure you to remember that He is the one who is going to judge, by His appearing in the kingdom of glory. The word quick signifies that He will judge both the living and the dead. Let this thought strengthen your fidelity as a minister of the New Testament.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.758067424138026,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                35.04,
+                27.2,
+                37.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

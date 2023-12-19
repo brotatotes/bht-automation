@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 13:59:19",
+    "verseRef": "1 Thessalonians 3:8",
+    "bestBHT": {
+        "bht": "It revives us in our affliction to hear of your steadfastness. We are in full strength and freshness of life, and we do not feel the sorrows and tribulations with which the outer world surrounds us. Our joy is vivid knowing your firm standing in the Lord. We live, in the sense of having the full strength and enjoyment of life, when those to whom we preach maintain a close walk with God. Our life and comfort depend on your stability in the faith and your correct Christian walk.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.8400801208859683,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+        "commentatorTierSimilarities": [
+            20.61,
+            43.24,
+            36.15
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We are in full strength and freshness of life, we do not feel the sorrows and tribulations with which the outer world surrounds us.",
+            "Since now we live... if ye stand fast in the Lord.",
+            "There were deficiencies in their faith, requiring filling up."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It revives us in our affliction to hear of your steadfastness.",
+            "The vivid joy which the missionaries 'now' feel, will continue if the Thessalonians continue steadfast.",
+            "They still needed exhortation, therefore he subjoins the conditional clause, 'if ye,' &c."
+        ],
+        "Albert Barnes": [
+            "My life and comfort depend on your stability in the faith, and your correct Christian walk.",
+            "Life consists not merely in living, but in the enjoyment of health.",
+            "They feel that they have something that may be called life, and that is worth living for, when those to whom they preach maintain a close walk with God."
+        ],
+        "Marvin Vincent": [
+            "Stand fast. The sense of firm standing is derived from the context, and does not inhere in the word.\" ",
+            "In Mark 3:31; Mark 11:25, it means simply to stand.\" ",
+            "It does not occur earlier than N. T."
+        ],
+        "John Calvin": [
+            "For zeal for God and Christ glowed in his holy breast to such a degree that it in a manner swallowed up all other anxieties.\" ",
+            "We live, that is, we are in good health, if you persevere in the Lord.\" ",
+            "By this all pastors are admonished what sort of connection ought to subsist between them and the Church \u2014 that they reckon themselves happy when it goes well with the Church, although they should be in other respects encompassed with many miseries."
+        ],
+        "Philip Schaff": [
+            "Now refers to the change of feeling occasioned by the arrival of Timothy.\" ",
+            "We live, i.e. we have the full strength and enjoyment of life: this is enough for us; we no longer feel cramped and depressed by our own troubles."
+        ],
+        "Archibald T. Robertson": [
+            "If ye stand fast.\" ",
+            "Condition of first class, \u03b5\u03b1\u03bd and present active indicative.",
+            "of \u03c3\u03c4\u03b7\u03ba\u03c9, late form from perfect \u03b5\u03c3\u03c4\u03b7\u03ba\u03b1 of \u03b9\u03c3\u03c4\u03b7\u03bc, to place."
+        ],
+        "John Gill": [
+            "Before they were dead men, lifeless, disconsolate, dispirited, carrying about with them the dying of the Lord Jesus, and death working in them, and they, as it were, under the sentence of that, being killed all the day long for Christ's sake; but now, upon this news, in the midst of all their sore trials and troubles, their spirits revived, and they became alive and cheerful.\" ",
+            "It was like life from the dead unto them.",
+            "They were steady in the exercise of grace upon him, and stood fast in the liberty wherewith he had made them free, and continued steadfastly in the doctrines and ordinances of the Gospel."
+        ],
+        "John Wesley": [
+            "Now we live \u2014 Indeed; we enjoy life: so great is our affection for you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It revives us in our affliction to hear of your steadfastness. We are in full strength and freshness of life, and we do not feel the sorrows and tribulations with which the outer world surrounds us. Our joy is vivid knowing your firm standing in the Lord. We live, in the sense of having the full strength and enjoyment of life, when those to whom we preach maintain a close walk with God. Our life and comfort depend on your stability in the faith and your correct Christian walk.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8400801208859683,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                20.61,
+                43.24,
+                36.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It revives us to hear of your steadfastness. We are in full strength and freshness of life, not feeling the sorrows of the world. Our joy is vivid knowing your firm standing in the Lord. We live when those we preach to maintain a close walk with God. Our life depends on your stability in the faith and Christian walk.",
+            "wordCount": 60,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 1.7328039013477787,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+            "commentatorTierSimilarities": [
+                21.47,
+                42.05,
+                36.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It revives us to hear of your steadfastness. We are in full strength and freshness of life, not feeling the sorrows and tribulations that surround us. Our joy is revived by knowing your firm standing in the Lord. We enjoy life when those we preach to maintain a close walk with God. Our life and comfort depend on your stability in the faith and your correct Christian walk.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.795305233726339,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+            "commentatorTierSimilarities": [
+                20.85,
+                42.82,
+                36.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The vivid joy which the missionaries 'now' feel, will continue if the Thessalonians continue steadfast. We live, i.e. we have the full strength and enjoyment of life. It revives us in our affliction to hear of your steadfastness. Our joy is vivid knowing your firm standing in the Lord. Our life and comfort depend on your stability in the faith and your correct Christian walk.",
+            "wordCount": 66,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.7988697437212577,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+            "commentatorTierSimilarities": [
+                22.72,
+                41.56,
+                35.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The steadfastness of the Thessalonians revives the joy of the missionaries. They feel a sense of full strength and enjoyment of life when those they preach to continue to stand firm in the Lord. The missionaries find comfort and are encouraged by the stability of the Thessalonians in the faith and in their Christian walk. Their own life and well-being are intertwined with the faithfulness of the Thessalonians.",
+            "wordCount": 69,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.7337477468601836,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.99,
+            "commentatorTierSimilarities": [
+                20.46,
+                41.76,
+                37.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:34:55",
+    "verseRef": "Acts 21:35",
+    "bestBHT": {
+        "bht": "As the tumultuous scene unfolds on the steps leading up into the tower, the violence of the people becomes evident. The stairs, connecting the temple to the castle of Antonia, were the site of this great commotion. The soldiers had to carry him in their arms, to protect him from being torn apart by the angry crowd. Situated on a high rock, the castle of Antonia was fortified with tall towers and sharp weapons. This incident reveals the intense emotions and desperate measures taken to secure his safety.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.4544002679541495,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.7,
+        "commentatorTierSimilarities": [
+            16.32,
+            48.32,
+            35.36
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The steps leading up into the tower.",
+            "From the place where the galleries joined, there were upon the right and left two pair of stairs.",
+            "For as the temple commanded the city, so Antonia the temple."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "35, 36. Away with him\u2014as",
+            "\tbefore of his Lord (Luke 23:18;",
+            "\tJohn 19:15)."
+        ],
+        "Albert Barnes": [
+            "The stairs which led from the temple to the castle of Antonia.",
+            "It was on these stairs, as the soldiers were returning, that the tumult was so great.",
+            "The violence of the people - The rush of the multitude."
+        ],
+        "Archibald T. Robertson": [
+            "Upon the stairs (\u03b5\u03c0 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b1\u03b2\u03b1\u03b8\u03bc\u03bf\u03c5\u03c2). From \u03b1\u03bd\u03b1, up, and \u03b2\u03b1\u03b9\u03bd\u03c9, to go.",
+            "So it was (\u03c3\u03c5\u03bd\u03b5\u03b2\u03b7). Second aorist active of \u03c3\u03c5\u03bc\u03b2\u03b1\u03b9\u03bd\u03c9, to happen (see on Acts 20:19) with infinitive clause as subject here as often in the old Greek.",
+            "He was borne (\u03b2\u03b1\u03c3\u03c4\u03b1\u03b6\u03b5\u03c3\u03b8\u03b1 \u03b1\u03c5\u03c4\u03bf\u03bd). Accusative of general reference with this subject infinitive, present passive of \u03b2\u03b1\u03c3\u03c4\u03b1\u03b6\u03c9, to take up with the hands, literally as here."
+        ],
+        "John Gill": [
+            "In order to have knowledge of all things, we went up to a castle adjoining to the city, which is situated in a very high place, fortified with very high towers, built with large stones, as we supposed for the preservation of the places about the temple.",
+            "For in the towers of the castle lay very sharp darts and various instruments, and the place was upon a very great eminence.",
+            "Such was the rage of the people against him, that the soldiers were obliged to take him up in their arms, and carry him, in order to secure him from being tore in pieces by them."
+        ],
+        "John Wesley": [
+            "The castle of Antonia was situate on a rock fifty cubits high.",
+            "At that corner of the outward temple, where the western and northern porticos joined.",
+            "To each of which there were stairs descending from it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the tumultuous scene unfolds on the steps leading up into the tower, the violence of the people becomes evident. The stairs, connecting the temple to the castle of Antonia, were the site of this great commotion. The soldiers had to carry him in their arms, to protect him from being torn apart by the angry crowd. Situated on a high rock, the castle of Antonia was fortified with tall towers and sharp weapons. This incident reveals the intense emotions and desperate measures taken to secure his safety.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4544002679541495,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.7,
+            "commentatorTierSimilarities": [
+                16.32,
+                48.32,
+                35.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the tumultuous scene unfolded on the steps that led up into the tower, the violence of the people became evident. Situated on a rock fifty cubits high, the castle of Antonia commanded a majestic view. Soldiers had to carry him in their arms to protect him from being torn apart by the raging crowd. Such was the rage of the people against him that desperate measures had to be taken to secure his safety.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.3547136281753331,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.39,
+            "commentatorTierSimilarities": [
+                15.46,
+                46.36,
+                38.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The stairs leading up into the tower witnessed the unfolding of a tumultuous scene, with the violence of the people becoming increasingly evident. The castle of Antonia, situated on a high rock and fortified with tall towers, commanded a commanding view of the city. In order to secure his safety from the enraged crowd, the soldiers were compelled to take him up in their arms, shielding him from harm. This incident serves as a stark reminder of the intense emotions and extreme measures taken to ensure his protection.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.3512272229035935,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.27,
+            "commentatorTierSimilarities": [
+                17.73,
+                45.9,
+                36.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the steps leading up into the tower, a chaotic scene unfolded as the violence of the people became unmistakable. The castle of Antonia, perched atop a high rock and fortified with formidable towers, offered a commanding presence over the city. To safeguard him from harm, the soldiers were compelled to carry him in their arms, shielding him from the wrathful crowd. This gripping incident highlights the intensity of emotions and the extreme measures taken to ensure his safety amidst the tumult.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.3104469463163892,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.92,
+            "commentatorTierSimilarities": [
+                17.82,
+                46.48,
+                35.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A tumultuous scene erupted on the steps leading up to the tower, revealing the violence of the people. Situated on a high rock and fortified with towering structures, the castle of Antonia held a commanding position over the city. To preserve his safety amidst the rage of the crowd, the soldiers were compelled to carry him in their arms. This incident serves as a poignant reminder of the intense emotions and extreme actions necessitated to protect him from harm.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.2920268745512473,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.3,
+            "commentatorTierSimilarities": [
+                18.54,
+                44.18,
+                37.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

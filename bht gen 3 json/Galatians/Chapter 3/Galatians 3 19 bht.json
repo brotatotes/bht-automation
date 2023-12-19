@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:17:30",
+    "verseRef": "Galatians 3:19",
+    "bestBHT": {
+        "bht": "The law was not given as an independent entity but as a part of a greater whole, leading to the fulfillment of the entire scheme of justification and salvation through Christ. It was added to bring out the true nature of transgressions, to reveal sin, and to prepare the way for the redemption and fulfillment of the promise. The law served as a temporary and limited dispensation, given through the mediator Moses and the agency of angels, highlighting its distinctiveness from the direct and personal communication offered in the gospel.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.3080947069822333,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.08,
+        "commentatorTierSimilarities": [
+            31.21,
+            40.76,
+            28.03
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The law, though misunderstood by the Judaizers as doing so, was really added for a different purpose, namely, 'because of (or as the Greek, 'for the sake of') the transgressions,' that is, to bring out into clearer view the transgressions of it.",
+            "The law was a preparatory dispensation for the Jewish nation, intervening between the promise and its fulfillment in Christ.",
+            "God delegated the law to angels as something rather alien to Him and severe. He reserved 'the promise' to Himself and dispensed it according to His own goodness."
+        ],
+        "Albert Barnes": [
+            "The Law was not useless, but...it was given by God for great and important purposes, and especially for purposes closely connected with the fulfillment of the promise made to Abraham and the work of the Mediator.",
+            "The Law was given to show the true nature of transgressions, or to show what was sin. It was not to reveal a way of justification, but it was to disclose the true nature of sin; to deter people from committing it; to declare its penalty; to convince people of it, and thus to be 'ancillary' to, and preparatory to the work of redemption through the Redeemer.",
+            "The essential idea of Paul here is, that the whole arrangement of the Mosaic economy, including all his laws, was with reference to the Messiah. It was a part of a great and glorious whole. It was not an independent thing. It did not stand by itself...It was not a whole in itself, but it was a part of a glorious whole, and led to the completion and fulfillment of the entire scheme by which the race could be justified and brought to heaven."
+        ],
+        "Marvin Vincent": [
+            "In order to set upon already existing sins the stamp of positive transgression of law.",
+            "Its office was, in revealing sin as positive transgression, to emphasize the objective, actual, contrary fact of righteousness according to the divine ideal, and to throw sin into contrast with that grand ideal.",
+            "The agency of angels indicates the limitations of the older dispensation; its character as a dispensation of the flesh."
+        ],
+        "John Calvin": [
+            "He means that the law was published in order to make known transgressions, and in this way to compel men to acknowledge their guilt.",
+            "The whole of that administration, I reply, was temporal, and was given for the purpose of preserving among the ancient people an attachment to the faith of Christ.",
+            "We are thus to understand, that, since the beginning of the world, God has held no intercourse with men, but through the agency of his eternal Wisdom or Son."
+        ],
+        "Philip Schaff": [
+            "It was superadded because of the transgressions. It was not the original scheme, but a subsequent addition to the promise for an interimistic educational purpose to prepare the way for the fulfilment of the promise in Christ by the development of the disease of sin which is necessary to its cure.",
+            "The disease of sin must reach the crisis before the restoration could take place, and so far we may say that God willed the development of sin with the view to its complete suppression by the future redemption.",
+            "There were thus two intervening links between Jehovah and the people, a human mediator (Moses), and superhuman agents of God (the angels). This double agency may have been mentioned here either for the purpose of lowering the law in comparison with the gospel where God spoke in his Son directly to men and invites them to commune with Him without the mediation of man or angel; or for the purpose of enhancing the solemnity of the enactment of the law as a preparation for the gospel."
+        ],
+        "Archibald T. Robertson": [
+            "It was added because of transgressions...to make transgressions palpable...thereby pronouncing them to be from that time forward transgressions of the law.",
+            "Till the seed should come...Christ he means by \u03c4\u03bf \u03c3\u03c0\u03b5\u03c1\u03bc\u03b1 as in verse Galatians 3:16.",
+            "By the hand of a mediator...Here of Moses, but also of Christ."
+        ],
+        "John Gill": [
+            "it was added because of transgressions; the law was given, to lay a restraint on men, by forbidding such and such things, on pain of death; and also for the detecting, discovering, and making known transgressions.",
+            "there can be no justification by [the law], and yet it is not useless and insignificant",
+            "the whole Mosaic economy was no more"
+        ],
+        "John Wesley": [
+            "The moral law was added to the promise to discover and restrain transgressions, to convince men of their guilt, and need of the promise, and give some check to sin.",
+            "And this law passeth not away; but the ceremonial law was only introduced till Christ, the seed to or through whom the promise was made, should come.",
+            "And it was ordained by angels in the hand of a mediator - It was not given to Israel, like the promise to Abraham, immediately from God himself; but was conveyed by the ministry of angels to Moses, and delivered into his hand as a mediator between God and them, to remind them of the great Mediator."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The law was added for the sake of bringing to light the transgressions that were present. It served as a preparatory dispensation between the promise made to Abraham and its fulfillment in Christ. God gave the law to angels as a means of highlighting its severe and foreign nature. Through the law, sin was revealed as a positive transgression, emphasizing the contrast between sin and the divine ideal of righteousness. It was added because of transgressions, making them palpable and pronouncing them to be transgressions of the law. The law was in place until the arrival of Christ, the promised seed, who would fulfill the promise. Furthermore, the law was given through the mediator Moses, and by the agency of angels, highlighting its limited nature as a dispensation of the flesh.",
+            "wordCount": 131,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2547551953636393,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+            "commentatorTierSimilarities": [
+                36.38,
+                34.18,
+                29.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The law was added to bring transgressions into clearer view and serve as a preparatory dispensation between the promise and its fulfillment in Christ. It was delegated to angels and reserved for a mediator, Moses. The law revealed sin as a positive transgression, highlighting the contrast with divine righteousness. It was meant to emphasize the objective reality of sin and make it palpable. Once Christ, the promised seed, came, the law's role was fulfilled, showing its temporary nature and limitations.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.152974572076154,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.93,
+            "commentatorTierSimilarities": [
+                36.91,
+                34.85,
+                28.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The law was not given as an independent entity but as a part of a greater whole, leading to the fulfillment of the entire scheme of justification and salvation through Christ. It was added to bring out the true nature of transgressions, to reveal sin, and to prepare the way for the redemption and fulfillment of the promise. The law served as a temporary and limited dispensation, given through the mediator Moses and the agency of angels, highlighting its distinctiveness from the direct and personal communication offered in the gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3080947069822333,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.08,
+            "commentatorTierSimilarities": [
+                31.21,
+                40.76,
+                28.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The law was given to reveal the transgressions and highlight the contrast between sin and divine righteousness. It served as a preparatory dispensation, intervening between the promise to Abraham and its fulfillment in Christ. Through the law, sin was made palpable and its transgressions were pronounced as such. The law was temporary, added alongside the promise, until the arrival of the promised seed, who is Christ. It was given by the hand of a mediator, Moses, as well as through the agency of angels, emphasizing its limited and fleshly nature.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.237653979207642,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.74,
+            "commentatorTierSimilarities": [
+                35.6,
+                35.06,
+                29.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The law was added to make known and enforce the reality of transgressions, exposing sin as a positive violation of the divine ideal. It was a preparatory dispensation between the promise to Abraham and its fulfillment in Christ. Acting as a temporary measure, the law was given through the mediator Moses and the agency of angels, underscoring its limitations and association with the flesh. It served its purpose until the arrival of Christ, the promised seed, bringing about the completion of the whole divine plan.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.1969089220240887,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.39,
+            "commentatorTierSimilarities": [
+                34.22,
+                37.75,
+                28.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

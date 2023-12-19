@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:31:05",
+    "verseRef": "Acts 14:24",
+    "bestBHT": {
+        "bht": "They crossed from Perga to Attaleia, preaching in Perga along the way. Although it is unclear why they didn't revisit Cyprus, it is possible that no permanent Gentile churches were founded there. They then journeyed through Pamphylia on their way back to Antioch of Syria, spreading the Word wherever they had the opportunity. Throughout their travels, they were diligent in spreading the Gospel, not neglecting any region they passed through.",
+        "wordCount": 71,
+        "quoteTokenProportion": 47.17,
+        "qualityScore": 1.6184403749081675,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+        "commentatorTierSimilarities": [
+            44.75,
+            21.57,
+            33.68
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Throughout Pisidia - See the note at Acts 13:14.",
+            "They came to Pamphylia - See the notes on Acts 13:13. These places they had visited before."
+        ],
+        "John Calvin": [
+            "Being now about to return to Antioch of Syria, whence they were sent away, they go through Pamphylia, which is the middle region toward the mount Taurus.\" ",
+            "And whereas Luke saith, that they preach the Word in the one only, we may thereby guess that they had not opportunity offered them everywhere to teach.",
+            "Which they were wont to neglect or let pass nowhere."
+        ],
+        "Archibald T. Robertson": [
+            "They crossed from Perga to Attaleia, the port of Perga, sixteen miles down the Cestus, and capital of Pamphylia, to find a ship for Antioch in Syria.",
+            "Now they stopped and preached in Perga which they had apparently not done before.",
+            "We do not know why they did not revisit Cyprus, perhaps because no permanent Gentile churches were founded there."
+        ],
+        "John Gill": [
+            "And after they had passed throughout Pisidia,.... The country where Antioch, the last place mentioned, was; see Acts 13:14 they came to Pamphylia; Acts 13:14- : Acts 13:14- :"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They crossed from Perga to Attaleia, preaching in Perga along the way. Although it is unclear why they didn't revisit Cyprus, it is possible that no permanent Gentile churches were founded there. They then journeyed through Pamphylia on their way back to Antioch of Syria, spreading the Word wherever they had the opportunity. Throughout their travels, they were diligent in spreading the Gospel, not neglecting any region they passed through.",
+            "wordCount": 71,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.6184403749081675,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                44.75,
+                21.57,
+                33.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They journeyed from Perga to Attaleia, preaching in Perga en route. While it remains uncertain why they didn't return to Cyprus, a possibility is the absence of established Gentile churches there. As they continued their travels, they arrived in Pamphylia before finally heading back to Antioch of Syria. Along the way, they diligently preached the Word, ensuring that no region was overlooked or neglected.",
+            "wordCount": 65,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.454003910586222,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.69,
+            "commentatorTierSimilarities": [
+                45.04,
+                19.21,
+                35.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Embarking on a journey from Perga to Attaleia, the port of Perga and the capital of Pamphylia, they sought a ship to Antioch in Syria. It was during this time that they took the opportunity to preach in Perga, which had previously been left out. The reason behind not revisiting Cyprus remains unknown, with speculation pointing to the lack of permanent Gentile churches there. As they passed through Pamphylia to return to Antioch of Syria, they remained diligent in spreading the Word, making sure no region was overlooked or ignored.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4643107817396819,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.03,
+            "commentatorTierSimilarities": [
+                50.08,
+                11.77,
+                38.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They crossed from Perga to Attaleia, preaching in Perga along the way. It is unclear why they didn't revisit Cyprus, perhaps due to the absence of permanent Gentile churches there. Journeying through Pamphylia, they diligently spread the Word, ensuring that no region was overlooked. Their ultimate destination was Antioch of Syria, from where they were initially sent out.",
+            "wordCount": 59,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4277689073597606,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.82,
+            "commentatorTierSimilarities": [
+                44.52,
+                21.18,
+                34.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Embarking on a journey from Perga to Attaleia, the capital of Pamphylia, they diligently preached in Perga, where they had not done so before. The reason for not revisiting Cyprus remains uncertain, possibly due to the lack of established Gentile churches. Passing through Pamphylia on their way to Antioch of Syria, they were committed to spreading the Word, ensuring no region was neglected.",
+            "wordCount": 63,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4442911579832152,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+            "commentatorTierSimilarities": [
+                50.68,
+                14.09,
+                35.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

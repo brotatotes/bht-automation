@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:25:45",
+    "verseRef": "Acts 3:7",
+    "bestBHT": {
+        "bht": "Just as Christ did, Peter not only used words but also physical actions to bring about healing. By taking the man by the right hand, Peter not only displayed compassion but also encouraged the man to rise and walk. Luke, known for his medical training, provides precise details about the weakness in the man's feet and ankle bones. The immediate restoration of strength confirms that a miraculous power was at work. This event highlights the inseparable connection between Christ's words and His healing actions.",
+        "wordCount": 86,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.6532295543608542,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+        "commentatorTierSimilarities": [
+            29.34,
+            43.42,
+            27.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thus also did Christ: He often cured by a word, often by an act; often also He put forth His hand, when the objects were weak in faith,\u2014that the healing might not seem to take place of itself.\" - Chrysostom ",
+            "He took him by the right hand... his feet and ancle-bones received strength.\" ",
+            "Luke, the physician, had made himself acquainted with the peculiar kind of weakness, and described it accordingly."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And he took . . . and lifted him up\u2014precisely what his Lord had done to his own mother-in-law.",
+            "his feet\u2014\"soles.",
+            "and ankle bones, &amp;c.\u2014the technical language of a physician."
+        ],
+        "Albert Barnes": [
+            "He took hold of his hand. To take hold of the hand in such an ease was an offer of aid, an indication that Peter was sincere, and was an inducement to him to make an effort.",
+            "This may be employed as a beautiful illustration of the manner of God when he commands people to repent and believe. He does not leave them alone; he extends help, and aids their efforts.",
+            "The fact that strength was immediately imparted; that the feet, long lame, were now made strong, was a full and clear proof of miraculous power."
+        ],
+        "Marvin Vincent": [
+            "He took [\u03c0\u03b9\u03b1\u03c3\u03b1\u03c2] . The verb means originally to press or squeeze; and hence implies taking hold with a firm grasp.",
+            "Feet [\u03b2\u03b1\u03c3\u03b5\u03b9\u03c2] . A peculiar, technical word, used by Luke only, and described by Galen as the part of the foot lying beneath the leg, upon which the leg directly rests...",
+            "Received strength [\u03b5\u03c3\u03c4\u03b5\u03c1\u03b5\u03c9\u03b8\u03b7\u03c3\u03b1\u03bd] . Used by Luke only. Compare 'the churches were established...' and the kindred noun sterewma, steadfastness..."
+        ],
+        "Philip Schaff": [
+            "To the word of command, Peter, following his Master\u2019s example in such cases (see Mark 9:27), grasps him by the right hand, thus encouraging him to obey the command to arise.\" ",
+            "On the use of such outward instrumentality, Chrysostom remarks: \u2018So, too, Christ did; ofttimes would He heal with a word, ofttimes with an act; frequently, too, He would stretch out His hand where their faith was too weak, that it (the miracle of healing) might not seem to have worked of itself\u2019.\" ",
+            "Commentators remark on the accuracy and exactness of the description. They are the words of one who had received the professional training of a physician."
+        ],
+        "Archibald T. Robertson": [
+            "Took him by the right hand...Peter had to pull him up on his feet before he would try to walk.",
+            "Doric form \u03c0\u03b9\u03b1\u03b6\u03c9 for \u03c0\u03b9\u03b5\u03b6\u03c9.",
+            "Genitive of the part affected."
+        ],
+        "John Gill": [
+            "And he took him by the right hand... and lift him up; believing he was cured, and that it might be manifest.\" ",
+            "The word him is expressed in the Alexandrian copy... which is a supplement in our translation.",
+            "His disorder might be of the paralytic kind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 3:7, Peter demonstrates compassion and mirroring Christ's actions by physically assisting the man who was disabled from birth. Just as Jesus often healed through both words and actions, Peter grabs the man's right hand, helping him up and providing the assurance of healing. Luke, being a physician, offers a precise account of the man's condition by describing the weakness in his feet and ankle bones. The immediate restoration of strength in the man's limbs testifies to the miraculous power at work. By grasping his hand, Peter encourages him to obey the command to rise, following Christ's example of using outward instrumentality to enhance faith. This scene exemplifies the tenderness and power of Christ's healing ministry, where miracles were not mere coincidences but intentional acts of mercy and restoration.",
+            "wordCount": 135,
+            "quoteTokenProportion": 29.55,
+            "qualityScore": 1.7362923644885595,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                27.91,
+                45.6,
+                26.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Peter emulates Christ's healing ministry by not only speaking words of restoration but also physically assisting the man who had been unable to walk since birth. By taking hold of the man's right hand and lifting him up, Peter demonstrates compassion and provides assurance of healing. Luke, a physician, describes the weakness in the man's feet and ankle bones with precision, highlighting the accuracy of his account. The immediate impartation of strength to the man's limbs serves as undeniable proof of the miraculous power at work. This scene underscores the intimate connection between words and actions in the ministry of Christ.",
+            "wordCount": 108,
+            "quoteTokenProportion": 31.08,
+            "qualityScore": 1.692086090563931,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                28.5,
+                44.03,
+                27.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just as Christ did, Peter not only used words but also physical actions to bring about healing. By taking the man by the right hand, Peter not only displayed compassion but also encouraged the man to rise and walk. Luke, known for his medical training, provides precise details about the weakness in the man's feet and ankle bones. The immediate restoration of strength confirms that a miraculous power was at work. This event highlights the inseparable connection between Christ's words and His healing actions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.6532295543608542,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+            "commentatorTierSimilarities": [
+                29.34,
+                43.42,
+                27.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, following the example of Christ, employed both words and actions to bring about healing. By taking hold of the man's right hand, Peter demonstrated care and reassurance, prompting the man to make an effort and rise. Luke, being a physician, offers a precise description of the weakness in the man's feet and ankle bones. The immediate restoration of strength stands as clear evidence of the miraculous power involved. This incident exemplifies the interplay between spoken and enacted healing, aligning with Christ's healing ministry.",
+            "wordCount": 87,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.640361017682986,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.88,
+            "commentatorTierSimilarities": [
+                28.52,
+                44.25,
+                27.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, like Christ, employed both words and actions to bring about healing. By taking hold of the man's right hand, Peter offered aid, encouragement, and inducement to rise. Luke's detailed description of the man's feet and ankle bones highlights his medical knowledge. The immediate restoration of strength testified to the undeniable miraculous power at work. This event serves as a reminder of the inseparable connection between Christ's spoken commands and the acts of healing, reflecting the compassion and divine authority of Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 20.97,
+            "qualityScore": 1.5739217960938525,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.68,
+            "commentatorTierSimilarities": [
+                28.25,
+                46.9,
+                24.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

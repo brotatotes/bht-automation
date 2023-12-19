@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:37:14",
+    "verseRef": "Acts 27:27",
+    "bestBHT": {
+        "bht": "As the ship drifted up and down in the Adria, the sailors, after suspecting they were nearing some country and hearing the sound of breakers, grew uneasy. It had been fourteen nights since they left Fair Havens, and they judged, from the peculiar sound of the breakers, that some land was drawing near to them. The vivid nautical language used in the narrative adds a graphic character to their experience.",
+        "wordCount": 70,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 1.8675189924136648,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+        "commentatorTierSimilarities": [
+            34.89,
+            35.23,
+            29.88
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Peloponnesus is bounded on the W. and S. by the Adriatic Sea.",
+            "No ship can enter it from the east without passing within a quarter of a mile of the point of Koura.",
+            "With north-easterly gales, the sea breaks upon it with such violence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "when the fourteenth night was come\u2014from the time they left Fair Havens.",
+            "as we were driven\u2014drifting up and down in Adria\u2014the Adriatic, that sea which lies between Greece and Italy.",
+            "about midnight the shipmen deemed\u2014no doubt from the peculiar sound of the breakers\u2014that they drew near some country\u2014\"that some land was approaching them.\" This nautical language gives a graphic character to the narrative."
+        ],
+        "Albert Barnes": [
+            "The fourteenth night - From the time when the tempest commenced.",
+            "In Adria - In the Adriatic Sea ... including the Sicilian and Ionian Sea.",
+            "Deemed - Judged. Probably by the appearance of the sea."
+        ],
+        "Marvin Vincent": [
+            "Deemed [\u03c5\u03c0\u03b5\u03bd\u03bf\u03bf\u03c5\u03bd]. Better, as Rev., suspected or surmised.",
+            "That they drew near to some country. Lit., that some land is drawing near to them."
+        ],
+        "Philip Schaff": [
+            "Two points must be carefully noted here. In the first place, the word \u03b4\u03b9\u03b1\u03c6\u03b5\u03c1\u03bf\u03bc\u03b5 \u0301 \u03bd\u03c9\u03bd does not necessarily mean that they were driven to and fro; nor is there any reason to suppose that the wind was perpetually changing its course.",
+            "The direction of the ship\u2019s way, though of course it varied slightly as she \u2018came up and fell off,\u2019 during the changing moods of the gale, did not deviate far from a straight line.",
+            "These sailors suspected that they were \u2018fetching\u2019 some land near to them. But now we must inquire into the reason why they suspected this. It was the middle of the night; hence the thought could not have been suggested by anything which they saw."
+        ],
+        "Archibald T. Robertson": [
+            "As we were driven to and fro... Continued to be tossed to and fro in the rough seas.\" ",
+            "The fourteenth night is reckoned from the time they left Fair Havens.",
+            "The sailors heard the sound of breakers and grew uneasy."
+        ],
+        "John Gill": [
+            "The Adriatic sea is now called by the Turks the gulf of Venice, and the straits of Venice, and sometimes the Venetian sea.",
+            "And the sea itself is often, by the poets, called Adria, as here, and is represented as a very troublesome sea.",
+            "They had a notion of some city near; and... thought to know in what country, or place they were."
+        ],
+        "John Wesley": [
+            "The fourteenth night \u2014 Since they left Crete, Acts 27:18,19.",
+            "In the Adriatic sea \u2014 So the ancients called all that part of the Mediterranean, which lay south of Italy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the ship continued to be tossed to and fro in the Adria, the sailors grew uneasy when they heard the sound of breakers about midnight. With north-easterly gales and the violent breaking of the sea on the Peloponnesus, they suspected that some land was drawing near to them. Judging by the peculiar sound of the breakers, they surmised that they were approaching a country. This nautical language used in the narrative adds a graphic character to their experience. It had been fourteen nights since they left Fair Havens, and the sailors began to suspect that they were nearing some city or place.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9278624639756905,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                34.96,
+                33.97,
+                31.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Driven by the relentless north-easterly gales, the ship continued to drift in the rough seas of the Adriatic. On the fourteenth night since departing Fair Havens, the beleaguered shipmen, hearing the menacing sound of breakers, grew uneasy. The sailors, judging by the peculiar sound of the breakers, surmised that they were drawing near to some land. This apprehension was further heightened by their suspicion that they were nearing a city or place. The intense description of their experience adds a vividness to the narrative.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.730461210962901,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.88,
+            "commentatorTierSimilarities": [
+                33.29,
+                35.25,
+                31.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Driven by north-easterly gales, the ship was tossed to and fro in the rough seas of the Adriatic for fourteen nights. In the darkness, the shipmen, hearing the sound of breakers, suspected that they were approaching land. Their unease grew as they surmised that they were drawing near to some country or city. The vivid language used in the narrative gives a graphic portrayal of their perilous journey.",
+            "wordCount": 69,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.7994517684502065,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.17,
+            "commentatorTierSimilarities": [
+                35.0,
+                33.56,
+                31.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Driven by the relentless north-easterly gales, the ship continued to be tossed to and fro in the rough seas of the Adriatic. As the fourteenth night approached since they left Fair Havens, the shipmen, sensing land near, grew uneasy upon hearing the distinct sound of breakers. Their suspicion was heightened as they suspected they were drawing close to some country or city. The vivid nautical language utilized in the narrative brings a striking realism to their harrowing experience.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.8201486974887082,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                34.29,
+                35.3,
+                30.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the ship drifted up and down in the Adria, the sailors, after suspecting they were nearing some country and hearing the sound of breakers, grew uneasy. It had been fourteen nights since they left Fair Havens, and they judged, from the peculiar sound of the breakers, that some land was drawing near to them. The vivid nautical language used in the narrative adds a graphic character to their experience.",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.8675189924136648,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+            "commentatorTierSimilarities": [
+                34.89,
+                35.23,
+                29.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

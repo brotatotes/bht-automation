@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:00:45",
+    "verseRef": "1 Corinthians 2:7",
+    "bestBHT": {
+        "bht": "The hidden wisdom of God, superior to worldly wisdom, is revealed to us through a mystery. This wisdom, ordained by God before the world, is beyond the understanding of human intellect. It remains hidden even when brought forward, only discernible to those who receive divine revelation. By listening to the gospel, we partake in the honor that the fathers did not have, experiencing the glory of God's wisdom. The gospel contains glorious mysteries that show the trinity of God and reveal His deep thoughts and purposes.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.337330396521968,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.06,
+        "commentatorTierSimilarities": [
+            30.95,
+            33.37,
+            35.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But we speak GOD\u2019s wisdom (emphasis on the word God\u2019s:\u2014the wisdom which God possesses and has revealed) in a mystery.",
+            "We have 'my understanding in the mystery of Christ.'",
+            "The hitherto hidden wisdom...which God foreordained before the worlds unto our glory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ordinarily we use 'mystery' in reference to those from whom the knowledge is withheld; the apostles, in reference to those to whom it is revealed.",
+            "It is hidden before it is brought forward, and when it is brought forward it still remains hidden to those that are imperfect.",
+            "This infinitely antedates worldly wisdom in antiquity. It was before not only the wisdom of the world, but eternally before the world itself and its ages."
+        ],
+        "Albert Barnes": [
+            "We proclaim the divine wisdom hidden in a mystery.",
+            "The word properly denotes that which is 'concealed' or 'hidden'; that which has not yet been made known.",
+            "One design of that plan was to raise the redeemed to 'glory, and honor, and immortality.'"
+        ],
+        "Marvin Vincent": [
+            "In a mystery. Connect with we speak.\" ",
+            "The in [\u03b5\u03bd] has a kind of instrumental force: by means of a mystery.",
+            "By delivering a doctrine hidden from the human understanding and revealed to us by God."
+        ],
+        "John Calvin": [
+            "For the gospel so far transcends the perspicacity of human intellect, that to whatever height those who are accounted men of superior intellect may raise their view, they never can reach its elevated height, while in the meantime they despise its meanness, as if it were prostrate at their feet.",
+            "If God has appointed nothing in vain, it follows, that we will be no losers by listening to the gospel which he has appointed for us, for he accommodates himself to our capacity in addressing us.",
+            "In this expression, too, he seems to draw a comparison between us and the fathers, our heavenly Father not having vouchsafed to them that honor which he reserved for the advent of his Son."
+        ],
+        "Philip Schaff": [
+            "but we speak God\u2019s wisdom in a mystery...a wisdom long hidden from view, but now disclosed.",
+            "In the same sense our Lord uses the word.",
+            "even the wisdom that hath been hidden, which God fore-ordained before the worlds unto our glory."
+        ],
+        "Archibald T. Robertson": [
+            "God's wisdom is eternal and superior to the wisdom of any age or time.\" ",
+            "God's wisdom is alone absolute.\" ",
+            "It was no afterthought or change of plan."
+        ],
+        "John Gill": [
+            "The Gospel is the sole produce of divine wisdom, and in which there is a glorious display of it; even in those doctrines which are the most charged with folly.",
+            "The Gospel is full of mysteries; there is the mystery of God, of a trinity of persons in the divine essence...",
+            "The Gospel lay hid in God, in the thoughts of his heart, in the deep things of his mind, the counsels of his will, and purposes of his grace..."
+        ],
+        "John Wesley": [
+            "We speak the mysterious wisdom of God, which was hidden for many ages from all the world, and is still hidden even from 'babes in Christ;' much more from all unbelievers.",
+            "Which God ordained before the world \u2014 So far is this from coming to nought, like worldly wisdom.",
+            "For our glory \u2014 Arising from the glory of our Lord, and then to be revealed when all worldly glory vanishes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks about the divine wisdom of God that is revealed to us through a mystery. This wisdom, which God has possessed from eternity, far surpasses worldly wisdom and was ordained even before the creation of the world. It is a wisdom that is hidden before it is brought forward, remaining concealed to those who are imperfect. The gospel, as the sole product of divine wisdom, contains glorious mysteries that cannot be comprehended by human intellect alone. By listening to the gospel, we can partake in the honor that even the fathers did not have, experiencing the revelation of God's wisdom for our own glory.",
+            "wordCount": 107,
+            "quoteTokenProportion": 47.95,
+            "qualityScore": 2.3793319553147416,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.45,
+            "commentatorTierSimilarities": [
+                31.19,
+                33.63,
+                35.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The hidden wisdom of God, superior to worldly wisdom, is revealed to us through a mystery. This wisdom, ordained by God before the world, is beyond the understanding of human intellect. It remains hidden even when brought forward, only discernible to those who receive divine revelation. By listening to the gospel, we partake in the honor that the fathers did not have, experiencing the glory of God's wisdom. The gospel contains glorious mysteries that show the trinity of God and reveal His deep thoughts and purposes.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.337330396521968,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.06,
+            "commentatorTierSimilarities": [
+                30.95,
+                33.37,
+                35.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are privileged to speak the wisdom of God, a wisdom hidden and revealed through a divine mystery. This wisdom, predestined by God before the world, surpasses worldly wisdom and remains veiled to those who are imperfect. The gospel, a product of divine wisdom, contains mysterious doctrines that defy human understanding. By embracing the gospel, we partake in the glory destined for us, surpassing any earthly honor. The gospel reveals the depth of God's thoughts, his trinity, and his eternal purposes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.2363439121250694,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.7,
+            "commentatorTierSimilarities": [
+                29.78,
+                33.08,
+                37.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We proclaim the hidden wisdom of God, a divine mystery that surpasses worldly understanding. This wisdom, foreordained by God long before the creation, remains hidden even as we speak it. It exceeds human intellect and is revealed to us by God Himself. The gospel, a product of divine wisdom, contains glorious mysteries that go beyond human comprehension. By listening to the gospel, we partake in the honor and glory that surpasses any earthly achievements.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.265294032413312,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.66,
+            "commentatorTierSimilarities": [
+                30.31,
+                34.93,
+                34.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We speak God's hidden wisdom - the eternal wisdom that surpasses worldly understanding and was ordained by Him before the creation of the world. This wisdom remains concealed before it is brought forward, remaining hidden to those who are imperfect. The gospel, a divine revelation, consists of glorious mysteries that go beyond human comprehension. By embracing the gospel, we participate in the honor and glory that far exceeds any worldly achievements or wisdom. It is through the gospel that God's profound thoughts and purposes are made known to us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.1892600036876813,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.13,
+            "commentatorTierSimilarities": [
+                30.08,
+                33.3,
+                36.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

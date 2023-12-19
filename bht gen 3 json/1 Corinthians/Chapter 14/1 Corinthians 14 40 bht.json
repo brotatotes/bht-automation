@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:13:31",
+    "verseRef": "1 Corinthians 14:40",
+    "bestBHT": {
+        "bht": "To ensure proper church governance and worship, it is crucial that all things are done decently and in order. This encompasses executing tasks in the right time and proportion, with a focus on maintaining decorum and avoiding confusion. Emphasizing the clarity and intelligibility of expressions, worship should be a meaningful and edifying experience for all. The principle of decency and order extends to various aspects of church life, including the function of women. By adhering to this guiding principle, believers create an environment conducive to reverence, understanding, and spiritual growth.",
+        "wordCount": 90,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.6396510664304365,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+        "commentatorTierSimilarities": [
+            32.67,
+            42.14,
+            25.2
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "40.] But, i.e. only provided, that... in order] i.e. in right time and in due proportion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let all things be done decently.\" ",
+            "Church government is the best security for Christian liberty.\" ",
+            "Desiring prophecy, and not forbidding tongues."
+        ],
+        "Albert Barnes": [
+            "Let all things be done decently and in order - Let all things be done in an 'appropriate' and 'becoming' manner; 'decorously,' as becomes the worship of God.",
+            "There might be a thousand questions started about the modes and forms of worship, and the customs in the churches, and much difficulty might occur in many of these questions; but here was a simple and plain rule, which might be easily applied.",
+            "Nor can that service be accepable to God which is not understood by those who offer it; which conveys no idea to their minds, and which cannot, therefore, be the homage of the heart."
+        ],
+        "John Calvin": [
+            "That decorum should be observed \u2014 that confusion should be avoided.",
+            "The Lord has left external rites in our choice with this view \u2014 that we may not think that his worship consists wholly in these things.",
+            "we may readily infer from this, that the latter are not to be looked upon as human traditions, inasmuch as they are founded upon this general injunction, and have a manifest approval, as it were, from the mouth of Christ himself."
+        ],
+        "Philip Schaff": [
+            "Let all things be done decently and in good order alike as to time, manner, and measure.\" ",
+            "Is edification the great thing to be aimed at in the public services of the Church? Surely, then, whatever is uttered should be intelligible to the worshippers.",
+            "While everything in oratory, argument, and emotion which is fitted to carry home more powerfully the great truths and duties of the Gospel, is to be encouraged as gifts consecrated to the Master\u2019s use all mere display of such gifts is not only out of place, but offensive alike to the eyes of God\u2019s glory and the better feelings and even good taste of the hearers."
+        ],
+        "Archibald T. Robertson": [
+            "Decently and in order. That is surely a good rule for all matters of church life and worship.",
+            "It applies also to the function of women in church service."
+        ],
+        "John Gill": [
+            "Let all things be done decently and in order.\" ",
+            "Do not encourage animosities, factions, and parties; despise not the faithful ministers of the word, but honour and obey them in the Lord.",
+            "Keep the ordinances as they have been delivered, particularly that of the Lord's supper; observe the rules prescribed for prophesying and speaking with tongues, and so all these things will be done according to the order of the Gospel."
+        ],
+        "John Wesley": [
+            "Decently \u2014 By every individual.",
+            "In order \u2014 By the whole church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the context of church governance and worship, this verse serves as a guiding principle for conducting oneself in a manner that is appropriate and orderly. It reminds believers that the way they carry out their service should be characterized by decency and decorum. The verse also emphasizes the importance of understanding and intelligibility in worship, as offerings and expressions of faith should convey clear meaning and be of edifying value to all participants. This call for orderliness and decency applies not only to the function of women but to all aspects of church life. By adhering to this principle, believers can ensure that their worship is pleasing to God and conducive to the spiritual growth of the community.",
+            "wordCount": 119,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.6996855655242444,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.86,
+            "commentatorTierSimilarities": [
+                28.31,
+                44.42,
+                27.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the context of church governance and worship, believers are reminded to conduct themselves in an appropriate and orderly manner. This involves observing decorum and avoiding confusion, as well as ensuring that expressions of faith are understood and edifying to all. By adhering to this principle, worship becomes a meaningful and intelligible experience, contributing to the spiritual growth and harmony of the community. This call for decency and orderliness applies to various aspects of church life, demonstrating the importance of maintaining a balanced and respectful approach to worship and service.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.6307075899835568,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                25.1,
+                47.03,
+                27.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When it comes to matters of church life and worship, the key is to conduct oneself in a decent and orderly manner. This means avoiding confusion, adhering to appropriate customs and practices, and prioritizing the understanding and edification of all participants. By embracing this principle, believers ensure that their worship is pleasing to God and conducive to the spiritual growth of the community. It applies to various aspects, including the function of women and the intelligibility of expressions of faith. Ultimately, it underscores the importance of maintaining a balanced and respectful approach to worship and service.",
+            "wordCount": 96,
+            "quoteTokenProportion": 23.81,
+            "qualityScore": 1.5773305797713233,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+            "commentatorTierSimilarities": [
+                27.73,
+                46.07,
+                26.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In matters of church worship and functioning, it is imperative to maintain decency and orderliness. This involves conducting oneself in a suitable and appropriate manner, avoiding confusion and ensuring clarity of communication. Worshippers should prioritize edification and understanding, allowing for an intelligible and meaningful experience for all. The principle of decency and order applies to the participation of women, as well as other aspects of church life. By adhering to this guideline, believers create an atmosphere of reverence, harmony, and growth within the community.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.58264548928365,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.97,
+            "commentatorTierSimilarities": [
+                29.64,
+                44.08,
+                26.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To ensure proper church governance and worship, it is crucial that all things are done decently and in order. This encompasses executing tasks in the right time and proportion, with a focus on maintaining decorum and avoiding confusion. Emphasizing the clarity and intelligibility of expressions, worship should be a meaningful and edifying experience for all. The principle of decency and order extends to various aspects of church life, including the function of women. By adhering to this guiding principle, believers create an environment conducive to reverence, understanding, and spiritual growth.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.6396510664304365,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+            "commentatorTierSimilarities": [
+                32.67,
+                42.14,
+                25.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

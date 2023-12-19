@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:16:52",
+    "verseRef": "2 Corinthians 7:2",
+    "bestBHT": {
+        "bht": "Make room for us and open your hearts to us, for we have wronged no man, ruined no man, and cheated no man. We have not corrupted you with false doctrine or sought to amass wealth for ourselves. Therefore, do not allow any corrupt affections or negative thoughts to hinder you from receiving our teachings. Instead, welcome us with love and respect, both into your hearts and homes, as Gospel ministers ought to be received.",
+        "wordCount": 75,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 2.080930500449839,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+        "commentatorTierSimilarities": [
+            29.33,
+            35.11,
+            35.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Receive, make room for...wronged no man...ruined no man...cheated no man.\" ",
+            "In how many ways of which history says nothing, may such ruining of others be laid to the charge of Paul?",
+            "How easily might his severe visitation of sin, his zeal for eleemosynary collections, his habit of lodging with members of the churches, and the like, have been thus unfavorably characterized!"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We wronged none by an undue exercise of apostolic authority.",
+            "We have corrupted none, namely, by beguilements and flatteries, while preaching 'another Gospel.'",
+            "We have defrauded none by 'making a gain' of you."
+        ],
+        "Albert Barnes": [
+            "Receive us - Tyndale renders this: 'understand us.' The word used here (\u03c7\u03c9\u03c1\u03b7\u0301\u03c3\u03b1\u03c4\u03b5 cho\u0304re\u0304sate) means properly, give space, place, or room; and it means here evidently, make place or room for us in your affections; that is, admit or receive us as your friends.\" ",
+            "We have wronged no man - We have done injustice to no man. This is given as a reason why they should admit him to their full confidence and affection.",
+            "We have corrupted no man - This means that he had corrupted no man in his morals, either by his precept or his example."
+        ],
+        "Marvin Vincent": [
+            "Make room for us.\" ",
+            "Open your hearts to us.\" ",
+            "Enlarge your hearts to take us in, as our heart is enlarged."
+        ],
+        "John Calvin": [
+            "Be ye enlarged, that is, 'Do not allow corrupt affections, or unfavorable apprehensions, to prevent this doctrine from making its way into your minds, and obtaining a place within you.'",
+            "He declares that there is no reason why they should have their minds alienated, inasmuch as he had not given them occasion of offense in any thing.",
+            "These are three things by which, for the most part, pastors are wont to alienate the minds of the people from them \u2014 when they conduct themselves in an overbearing manner, and, making their authority their pretext, break forth into tyrannical cruelty or unreasonableness, \u2014 or when they draw aside from the right path those to whom they ought to have been guides, and infect them with the corruption of false doctrine, \u2014 or when they manifest an insatiable covetousness, by eagerly desiring what belongs to another."
+        ],
+        "Philip Schaff": [
+            "Open your hearts to us (Gr. \u2018Make room for us,\u2019 in your hearts), (see on 2 Corinthians 6:11-13);",
+            "we wronged no man (when we were with you), we corrupted no man, we took advantage of no man",
+            "referring to the cruel insinuations by which it was sought to poison the minds of his converts against him."
+        ],
+        "Archibald T. Robertson": [
+            "Open your hearts to us. He wishes no further tightness of heart in them.",
+            "We wronged no man. A thing that every preacher ought to be able to say.",
+            "We corrupted no man. We ruined no one. It may refer to money, or morals, or doctrine."
+        ],
+        "John Gill": [
+            "Receive us, into your affections, let us have a place in your hearts, as you have in ours: Gospel ministers ought to be received with love and respect, both into the hearts and houses of the saints.",
+            "Their doctrines are to be received in the love of them, and with faith and meekness.",
+            "We have not sought yours, but you; not to amass wealth to ourselves, but that we might be useful to your souls, for your spiritual good, and serviceable to the glory of Christ."
+        ],
+        "John Wesley": [
+            "Receive us \u2014 The sum of what is said in this, as well as in the tenth and following chapters.",
+            "We have hurt no man \u2014 In his person.",
+            "We have corrupted no man \u2014 In his principles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Receive, make room for, and open your hearts to us, for we have wronged no man, ruined no man, and cheated no man. Do not allow corrupt affections or unfavorable apprehensions to prevent our doctrine from making its way into your minds. We have not conducted ourselves in an overbearing manner or infected you with false doctrine. Rather, we seek to be useful to your souls and serviceable to the glory of Christ. Thus, receive us with love and respect, both into your hearts and houses, for Gospel ministers ought to be received in such a manner.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.9592103374663936,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                28.85,
+                33.22,
+                37.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Receive and make room for us, opening your hearts to us. We have wronged no man, ruined no man, and cheated no man. Do not allow corrupt affections or unfavorable apprehensions to prevent our doctrine from making its way into your hearts and minds. We have not conducted ourselves in an overbearing manner or infected you with false doctrine. Rather, we seek to be useful to your souls and serviceable to the glory of Christ. Thus, receive us with love and respect.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.855153147192265,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.03,
+            "commentatorTierSimilarities": [
+                31.39,
+                32.67,
+                35.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Make room for us and open your hearts to us, for we have wronged no man, ruined no man, and cheated no man. We have not corrupted you with false doctrine or sought to amass wealth for ourselves. Therefore, do not allow any corrupt affections or negative thoughts to hinder you from receiving our teachings. Instead, welcome us with love and respect, both into your hearts and homes, as Gospel ministers ought to be received.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.080930500449839,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+            "commentatorTierSimilarities": [
+                29.33,
+                35.11,
+                35.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Open your hearts to us, making room for us, as we have wronged no man, ruined no man, and cheated no man. Let not corrupt affections or unfavorable apprehensions block our message from entering your minds. We have not conducted ourselves arrogantly, spread false teachings, or harbored a covetousness for personal gains. Instead, we seek to be useful to your souls and honor Christ. Therefore, receive us warmly with love and respect, embracing us in both your hearts and homes, for this is fitting for ministers of the Gospel.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.9477831715354608,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.11,
+            "commentatorTierSimilarities": [
+                30.86,
+                34.43,
+                34.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Open your hearts to us, making room for us, as we have wronged no man, ruined no man, and cheated no man. Let not unfavorable apprehensions hinder the reception of our message. We have not spread false teachings or sought personal gains. Instead, we aim to be useful to your souls and honor Christ. Therefore, receive us warmly with love and respect, embracing us in both your hearts and homes, as befitting Gospel ministers.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.8578731454794561,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                32.89,
+                32.85,
+                34.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

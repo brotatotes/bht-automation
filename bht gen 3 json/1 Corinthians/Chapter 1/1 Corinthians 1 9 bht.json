@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:00:28",
+    "verseRef": "1 Corinthians 1:9",
+    "bestBHT": {
+        "bht": "The fellowship of His Son is the glory of the sons of God. They are called according to His purpose and faithful to His promises. They are called into the fellowship of Jesus, to be fellow heirs with Christ. It is high fellowship with Christ both here and hereafter, and it is a pledge of God's willingness to save them to the uttermost. As believers, they should think of themselves as members of Christ and trust that God, who is faithful to His past benefits, will confirm them in grace and preserve them blameless.",
+        "wordCount": 95,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.174501840568784,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.64,
+        "commentatorTierSimilarities": [
+            33.48,
+            31.85,
+            34.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fellowship of His Son, as Meyer well remarks, is the glory of the sons of God, Rom. viii. 21: for they will be joint-heirs with Christ, glorified together.\" ",
+            "The mention of fellowship may perhaps have been intended to prepare the way, as was before done in ver. 2, for the reproof which is coming.\" ",
+            "See how he is always riveting them close with the name of Christ. He makes mention, not of any apostle or teacher, but evermore of Him who is their desire, as if he were endeavoring to bring back men after a debauch to their sound state. For nowhere in any other epistle is the name of Christ so often repeated."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "faithful\u2014to His promises\" (Philippians 1:6; 1 Thessalonians 5:24).",
+            "called\u2014according to His purpose\" (Romans 8:28).",
+            "unto . . . fellowship of . . . Jesus\u2014to be fellow heirs with Christ\" (Romans 8:28- :), like Him sons of God and heirs of glory (Romans 8:30; 2 Thessalonians 2:14; 1 Peter 5:10; 1 John 1:3). CHRYSOSTOM remarks that the name of Christ is oftener mentioned in this than in any other Epistle, the apostle designing thereby to draw them away from their party admiration of particular teachers to Christ alone."
+        ],
+        "Albert Barnes": [
+            "God is faithful... He will not commence anything which he will not perfect and finish.\" ",
+            "The evidence that they will persevere depends on the fidelity of God... his faithfulness of character would render it certain that they would be kept to eternal life.\" ",
+            "From all this, the argument of the apostle is, that as they partake with Christ in these high privileges, and hopes, and promises, they will be kept by a faithful God unto eternal life."
+        ],
+        "Marvin Vincent": [
+            "Faithful [\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2] . Emphatic, and therefore first in the sentence. See on 1 John 1:9; Revelation 1:5; Revelation 3:14. Compare 2 Timothy 2:13. ",
+            "Ye were called [\u03b5\u03ba\u03bb\u03b7\u03b8\u03b7\u03c4\u03b5] . See on Romans 4:17. ",
+            "Fellowship [\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03b1\u03bd] . See on 1 John 1:3; Acts 2:42; Luke 5:10."
+        ],
+        "John Calvin": [
+            "From God\u2019s past benefits we ought always to hope well as to the future.",
+            "It is the part of Christian candor to hope well of all who have entered on the right way of salvation, and are still persevering in that course.",
+            "Having been called into the fellowship of Christ, he ought, in so far as assurance of salvation is concerned, to think of himself no otherwise than as a member of Christ."
+        ],
+        "Philip Schaff": [
+            "God is faithful, to do this.\" ",
+            "Not into fellowship with Him, but into the participation of Him, in all His fullness.",
+            "The first topic occupies the four opening chapters."
+        ],
+        "Archibald T. Robertson": [
+            "God is faithful... God will do what he has promised.\" ",
+            "God is the agent of their call... also the ground or reason for their call.",
+            "It is high fellowship with Christ both here and hereafter."
+        ],
+        "John Gill": [
+            "These words contain arguments, assuring the saints of their confirmation in grace, and of their being preserved blameless to the day of Christ, taken from the faithfulness of God.\" ",
+            "Whatever he has said, he will do it; he will never suffer his faithfulness to fail.",
+            "They may assure themselves of them; and also from his having called them by his grace...He effectually calls by his grace, he glorifies."
+        ],
+        "John Wesley": [
+            "God is faithful \u2014 To all his promises.",
+            "To him that hath shall be given.",
+            "A pledge of his willingness to save you unto the uttermost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fellowship of His Son is the glory of the sons of God, for they will be joint-heirs with Christ, glorified together. The mention of fellowship prepares the way for reproof and shows that they are to be riveted close to the name of Christ. They are called according to His purpose, faithful to His promises. They are called into the fellowship of Jesus, to be fellow heirs with Christ. It is high fellowship with Christ both here and hereafter, and it is a pledge of God's willingness to save them to the uttermost.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.1526261828970323,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.92,
+            "commentatorTierSimilarities": [
+                36.84,
+                30.35,
+                32.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fellowship of His Son is the glory of the sons of God. They are called according to His purpose and faithful to His promises. They are called into the fellowship of Jesus, to be fellow heirs with Christ. It is high fellowship with Christ both here and hereafter, and it is a pledge of God's willingness to save them to the uttermost. As believers, they should think of themselves as members of Christ and trust that God, who is faithful to His past benefits, will confirm them in grace and preserve them blameless.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.174501840568784,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.64,
+            "commentatorTierSimilarities": [
+                33.48,
+                31.85,
+                34.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 1 Corinthians 1:9, the fellowship of His Son is the glory of the sons of God, as they are joint-heirs with Christ and glorified together. The mention of fellowship paves the way for reproof, emphasizing the importance of being riveted closely to the name of Christ. They are called according to His purpose, faithful to His promises. This fellowship signifies high communion with Christ both in the present and the future, assuring believers of their confirmation in grace and preservation until the day of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.9925816127955387,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                35.93,
+                29.38,
+                34.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fellowship of His Son, which is the glory of the sons of God, showcases their joint heirship with Christ as they are glorified together. By frequently mentioning the name of Christ, the apostle aims to draw the believers away from their admiration of specific teachers and back to their devotion to Christ. As faithful recipients of God's promises, they are called into the fellowship of Jesus, becoming fellow heirs with Him and experiencing high communion with Christ both in the present and hereafter.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.1510072285059954,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.86,
+            "commentatorTierSimilarities": [
+                37.42,
+                31.72,
+                30.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fellowship of His Son is the glory of the sons of God, for they will be joint-heirs with Christ, glorified together. They are called into the fellowship of Jesus, to be fellow heirs with Him, and this signifies high communion with Christ both here and hereafter. By frequently mentioning the name of Christ, the apostle aims to draw them away from their party admiration of particular teachers and back to their devotion to Christ alone. God's faithfulness assures their confirmation in grace and preservation until the day of Christ.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.0864666078055008,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.72,
+            "commentatorTierSimilarities": [
+                35.89,
+                31.23,
+                32.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

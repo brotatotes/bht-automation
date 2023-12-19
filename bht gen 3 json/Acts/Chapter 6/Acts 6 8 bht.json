@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:27:04",
+    "verseRef": "Acts 6:8",
+    "bestBHT": {
+        "bht": "Stephen, full of faith and grace, was a whirlwind of power, working signs and wonders among the people. Some attribute this power to the laying on of apostles' hands, while others credit his intense faith. Fearlessly denouncing the emptiness of Judaism, Stephen diligently spread the gospel, enduring opposition and reproach. Through the grace of God, he demonstrated great signs and miracles, exemplifying the glory of the gospel amidst trials and opposition.",
+        "wordCount": 71,
+        "quoteTokenProportion": 32.65,
+        "qualityScore": 2.0403989957806465,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.18,
+        "commentatorTierSimilarities": [
+            24.04,
+            38.39,
+            37.57
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is the first instance of any, not an Apostle, working signs and wonders.",
+            "The power was perhaps conferred by the laying on of the Apostles\u2019 hands.",
+            "I should rather refer the power to the eminence of Stephen\u2019s faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. And Stephen, &amp;c.\u2014The",
+            "\tforegoing narrative seems to be only an introduction to what follows.",
+            "\t",
+            "full of faith\u2014rather,",
+            "\t\"of grace,\" as the best manuscripts read."
+        ],
+        "Albert Barnes": [
+            "Full of faith - Full of 'confidence' in God, or trusting entirely to his promises.",
+            "And power - The power which was evinced in working miracles.",
+            "Wonders - This is one of the words commonly used in the New Testament to denote miracles."
+        ],
+        "Marvin Vincent": [
+            "Did [\u03b5\u03c0\u03bf\u03b9\u03b5\u03b9] . Imperfect : was working wonders during the progress of the events described in the previous verse."
+        ],
+        "John Calvin": [
+            "The glory of the gospel was always joined with the cross and divers troubles.",
+            "For so soon as the force and grace of the Spirit doth show itself, the fury of Satan is by and by provoked.",
+            "Stephen was diligent and courageous in spreading abroad the doctrine of the gospel."
+        ],
+        "Philip Schaff": [
+            "Stephen soon became in the eyes of the Jews the foremost among the Nazarene heretics by his fearless denunciation of the emptiness of Judaism as practised by Pharisee as well as Sadducee.\" (Acts 6:8)",
+            "The better reading here is \u03f0\u03ac\u03c1\u03b9\u03c4\u03bf\u03c2, grace, not to be understood as \u2018favour with the people,\u2019 but as \u2018favour with God,\u2019 the effects of which grace were those Divine powers which enabled him to work those signs and wonders.\" (Acts 6:8)",
+            "It is better to refer the special power by which Stephen worked these great wonders to the intenseness of his faith, rather than to the special grace which, in common with the other six, he received by the imposition of the apostles\u2019 hands.\" (Acts 6:8)"
+        ],
+        "Archibald T. Robertson": [
+            "He was called in verse Acts 6:5 'full of faith and the Holy Spirit.' Here he is termed 'full of grace and power.'\" ",
+            "The grace of God gave him the power and so 'he kept on doing great wonders and signs among the people.'\" ",
+            "He was a sudden whirlwind of power in the very realm of Peter and John and the rest."
+        ],
+        "John Gill": [
+            "He is said to be full of faith, as before, Acts 6:5 the Alexandrian copy, and four of Beza's copies read, 'full of grace'; and so do the Vulgate Latin and Syriac versions; the Ethiopic version reads, 'full of the grace of God': he had an uncommon share of it; it was exceeding abundant in him.",
+            "He was full of power to preach the Gospel, and teach it the people, which he did with authority; to defend it, and oppose the adversaries of it; to bear reproach and indignities for it, and even death itself.",
+            "He did great wonders and miracles among the people; openly before them, such as speaking with divers tongues, healing diseases, casting out devils, &amp;c."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Stephen, full of faith and grace, was the first non-apostle to work signs and wonders. Some attribute his power to the laying on of apostles' hands, while others believe it stemmed from the eminence of his faith. Stephen, called full of faith and the Holy Spirit, was a sudden whirlwind of power in the presence of Peter and John. He fearlessly denounced the emptiness of Judaism practiced by the Pharisees and Sadducees, spreading the gospel with diligence and courage. Satan's fury was provoked by the manifestation of the grace of the Spirit, yet Stephen remained resolute in his preaching, teaching, defense, and bearing of reproach. Through the power bestowed upon him, Stephen continued to perform great wonders and miracles, a testament to the glory of the gospel amidst trials and opposition.",
+            "wordCount": 133,
+            "quoteTokenProportion": 28.75,
+            "qualityScore": 2.0295662191504773,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                26.12,
+                35.33,
+                38.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stephen, full of faith and grace, became a whirlwind of power, working signs and wonders among the people. Some attribute this power to the laying on of apostles' hands, but others believe it was due to the eminence of Stephen's faith. He fearlessly denounced the emptiness of Judaism in the eyes of the Pharisees and Sadducees, spreading the gospel diligently and courageously. Despite Satan's fury, Stephen steadfastly preached, taught, defended, and endured reproach. Through God's grace, he conducted great miracles, exhibiting the glory of the gospel amidst trials.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.9791891320052777,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                24.88,
+                36.26,
+                38.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen, full of faith and grace, was a sudden whirlwind of power in the presence of Peter and John. His intensity of faith, along with the grace of God, enabled him to work great signs and wonders. Fearlessly denouncing the emptiness of Judaism, Stephen diligently spread the gospel, courageously facing opposition. Satan's fury was provoked by Stephen's manifestation of the Spirit's grace, yet he remained resolute in his preaching, teaching, defense, and endurance of reproach. Through the power bestowed upon him, Stephen displayed the glory of the gospel by performing miraculous signs.",
+            "wordCount": 95,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.9733693986524448,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.96,
+            "commentatorTierSimilarities": [
+                24.58,
+                35.04,
+                40.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephen, full of faith, grace, and power, worked signs and wonders among the people. Some attribute this power to the laying on of apostles' hands, while others credit the intensity of his faith. Fearlessly denouncing the emptiness of Judaism, he diligently spread the gospel, enduring opposition and reproach. Through the manifestation of the grace of the Spirit, Stephen displayed the glory of the gospel and performed miraculous signs. Satan's fury was provoked, but Stephen remained resolute in his mission, showcasing the power of God through his actions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.9581147584521554,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+            "commentatorTierSimilarities": [
+                25.21,
+                36.0,
+                38.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stephen, full of faith and grace, was a whirlwind of power, working signs and wonders among the people. Some attribute this power to the laying on of apostles' hands, while others credit his intense faith. Fearlessly denouncing the emptiness of Judaism, Stephen diligently spread the gospel, enduring opposition and reproach. Through the grace of God, he demonstrated great signs and miracles, exemplifying the glory of the gospel amidst trials and opposition.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.0403989957806465,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.18,
+            "commentatorTierSimilarities": [
+                24.04,
+                38.39,
+                37.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:16:10",
+    "verseRef": "2 Corinthians 4:17",
+    "bestBHT": {
+        "bht": "The lightness of affliction is contrasted with the weight of the glory, revealing that temporary afflictions work towards an eternal weight of glory. Despite afflictions appearing heavy and long-lasting, they are actually light and momentary in comparison to the boundless blessings of eternal glory. By focusing on the unseen and eternal, afflictions are transformed into means of obtaining eternal glory. This beautiful description highlights the transformative power of faith, encouraging believers to endure temporary hardships with the hope of experiencing everlasting glory.",
+        "wordCount": 83,
+        "quoteTokenProportion": 29.09,
+        "qualityScore": 2.269630223079824,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.81,
+        "commentatorTierSimilarities": [
+            27.26,
+            38.3,
+            34.44
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The lightness of affliction\" contrasts beautifully with the \"weight of the glory.\" ",
+            "Which is but for the present passing moment.",
+            "The glory exceeds beyond all measure the affliction."
+        ],
+        "Albert Barnes": [
+            "The trials which Paul endured, to many persons would have seemed to be anything else but light... yet these trials... he speaks of as the lightest conceivable thing when compared with that eternal glory which awaited him.",
+            "The affliction was light; but the crown, the robe, the adornings in the glorious world were not trifles, or baubles, but solid, substantial, weighty.",
+            "In this exceedingly interesting passage, which is worthy of the deepest study of Christians, Paul has set in most beautiful and emphatic contrast the trials of this life and the glories of heaven."
+        ],
+        "Marvin Vincent": [
+            "Our light affliction which is but for a moment [\u03c4\u03bf \u03c0\u03b1\u03c1\u03b1\u03c5\u03c4\u03b9\u03ba\u03b1 \u03b5\u03bb\u03b1\u03c6\u03c1\u03bf\u03bd \u03c4\u03b7\u03c2 \u03b8\u03bb\u03b9\u03c8\u03b5\u03c9\u03c2 \u03b7\u03bc\u03c9\u03bd].",
+            "Worketh [\u03ba\u03b1\u03c4\u03b5\u03c1\u03b3\u03b1\u03b6\u03b5\u03c4\u03b1\u03b9]. Works out : achieves.",
+            "A far more exceeding and eternal weight of glory [\u03ba\u03b1\u03b8 \u03c5\u03c0\u03b5\u03c1\u03b5\u03b2\u03bf\u03bb\u03b7\u03bd \u03b5\u03b9\u03c2 \u03c5\u03c0\u03b5\u03c1\u03b2\u03bf\u03bb\u03b7\u03bd \u03b1\u03b9\u03c9\u03bd\u03b9\u03bf\u03bd \u03b2\u03b1\u03c1\u03bf\u03c2 \u03b4\u03bf\u03be\u03b7\u03c2]."
+        ],
+        "John Calvin": [
+            "The afflictions and vexations of the pious have little or nothing of bitterness, if compared with the boundless blessings of everlasting glory.",
+            "This comparison makes that light which previously seemed heavy, and makes that brief and momentary which seemed of boundless duration.",
+            "The momentary lightness of afflictions worketh out in us an eternal weight of life."
+        ],
+        "Philip Schaff": [
+            "For our light affliction, which is but for the moment only temporary and but momentary, worketh for us more and more exceedingly an eternal weight of glory.",
+            "Looking as we do, not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+            "But looking on them, as we do, in the light of 'the things that are unseen and eternal,' their character is entirely changed, and instead of heavy, they seem to be 'light;' far from tedious and protracted, they seem but 'for the moment,' and in place of doing us any real harm, we find them 'working for us more and exceedingly an eternal weight of glory.'"
+        ],
+        "Archibald T. Robertson": [
+            "The for the moment lightness.",
+            "According to excess unto excess.",
+            "Affliction vs. glory, lightness vs. weight, for the moment vs. eternal."
+        ],
+        "John Gill": [
+            "The present state is a state of 'affliction'...Afflictions are appointed for them by their heavenly Father...they are always for their good, spiritual and eternal...and lie in their way to heaven...",
+            "Their affliction is represented as 'light' which though it is not in itself, but often very grievous and heavy to be borne, especially when any soul trouble is added to it; yet is light, when the saint is supported by the arm of the Lord, indulged with his presence, and favoured with the discoveries of his love.",
+            "Now afflictions may be said to work eternal glory for the saints, not by way of merit...but they work as means of enjoying it, as the word and ordinances do; the Spirit of God makes use of them, as of the other, to work up the saints for that selfsame thing, glory."
+        ],
+        "John Wesley": [
+            "The beauty and sublimity of St. Paul's expressions here, as descriptive of heavenly glory, opposed to temporal afflictions, surpass all imagination.",
+            "Cannot be preserved in any translation or paraphrase, which after all must sink infinitely below the astonishing original."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse juxtaposes the lightness of affliction with the weight of the glory, emphasizing the temporary nature of affliction and the eternal nature of glory. Although affliction may seem heavy and lasting, it actually works towards achieving an eternal weight of glory. By focusing on the unseen and eternal aspects of life, afflictions become light and momentary, ultimately leading to a boundless and everlasting glory. This passage invites Christians to endure temporary afflictions by keeping in mind the immeasurable blessings of eternal glory that await them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.1996796323303327,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.48,
+            "commentatorTierSimilarities": [
+                28.43,
+                38.67,
+                32.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The contrast between the lightness of affliction and the weight of glory is highlighted in this passage. The afflictions endured in the present moment pale in comparison to the surpassing and eternal glory that awaits believers. These afflictions serve a purpose, working towards achieving an everlasting weight of glory. By fixing their gaze on the unseen and eternal, believers can view afflictions as light and momentary, leading them closer to the boundless blessings of eternal glory.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.182927000047444,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.92,
+            "commentatorTierSimilarities": [
+                30.3,
+                37.43,
+                32.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The lightness of affliction is contrasted with the weight of the glory, revealing that temporary afflictions work towards an eternal weight of glory. Despite afflictions appearing heavy and long-lasting, they are actually light and momentary in comparison to the boundless blessings of eternal glory. By focusing on the unseen and eternal, afflictions are transformed into means of obtaining eternal glory. This beautiful description highlights the transformative power of faith, encouraging believers to endure temporary hardships with the hope of experiencing everlasting glory.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.269630223079824,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.81,
+            "commentatorTierSimilarities": [
+                27.26,
+                38.3,
+                34.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The lightness of affliction in comparison to the weight of the glory illuminates the temporary nature of afflictions and the surpassing nature of eternal glory. Though afflictions may seem heavy and enduring, they actually work towards achieving an eternal weight of glory. By focusing on the unseen and eternal, afflictions become light and momentary, leading to the incomparable blessings of everlasting glory. This passage invites believers to bear temporary hardships by keeping in mind the immeasurable rewards of eternal glory that await them.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.217423836763225,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.07,
+            "commentatorTierSimilarities": [
+                27.85,
+                38.49,
+                33.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The contrast between the lightness of affliction and the weight of the glory highlights the temporary nature of afflictions and the surpassing nature of eternal glory. Despite the appearance of heavy and enduring afflictions, they actually work towards achieving an eternal weight of glory. By focusing on the unseen and eternal, afflictions become light and momentary, leading to the incomparable blessings of everlasting glory. This encourages believers to endure temporary hardships, finding strength and hope in the promise of eternal glory.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 2.1846458775329722,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.98,
+            "commentatorTierSimilarities": [
+                29.1,
+                38.71,
+                32.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

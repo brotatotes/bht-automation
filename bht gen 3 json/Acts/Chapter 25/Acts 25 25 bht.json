@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:36:06",
+    "verseRef": "Acts 25:25",
+    "bestBHT": {
+        "bht": "Taking everything into account, Festus found that Paul had not done anything worthy of death and had appealed to Augustus. Festus was influenced by these reasons in his decision. This restates what was mentioned previously, and it leads Festus to send Paul to Caesar. It is clear that Festus recognized that Paul's actions did not call for the punishment of death.",
+        "wordCount": 62,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.2287619231299916,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.2,
+        "commentatorTierSimilarities": [
+            53.59,
+            0.0,
+            46.41
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25. that he had committed nothing worthy of death, and seeing that he himself....] These reasons did really coexist as influencing Festus\u2019s determination."
+        ],
+        "Archibald T. Robertson": [
+            "But I found.",
+            "That he had committed nothing worthy of death.",
+            "Verse Acts 25:25 repeats the statement in verse Acts 25:21."
+        ],
+        "John Gill": [
+            "But when I found that he had committed nothing worthy of death....\" ",
+            "And that he himself hath appealed unto Augustus...\" ",
+            "I have determined to send him..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Festus, after carefully considering the situation, concluded that Paul had done nothing deserving of death and that he had appealed to Caesar. These reasons were significant factors in Festus's decision-making process. The verse in Acts 25:25 reiterates the statement made in verse Acts 25:21. Therefore, Festus determined to send Paul to Caesar, acknowledging that his actions did not warrant capital punishment.",
+            "wordCount": 61,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.1878663539126042,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.84,
+            "commentatorTierSimilarities": [
+                63.1,
+                0.0,
+                36.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After careful consideration, Festus reached the conclusion that Paul had committed nothing deserving of death and that he had appealed to Augustus. Festus found these reasons compelling in his determination. This reaffirms the statement made earlier and leads Festus to the decision to send Paul to Caesar, recognizing that his actions did not warrant capital punishment.",
+            "wordCount": 56,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.4367124991230116,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.11,
+            "commentatorTierSimilarities": [
+                57.15,
+                0.0,
+                42.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Taking everything into account, Festus found that Paul had not done anything worthy of death and had appealed to Augustus. Festus was influenced by these reasons in his decision. This restates what was mentioned previously, and it leads Festus to send Paul to Caesar. It is clear that Festus recognized that Paul's actions did not call for the punishment of death.",
+            "wordCount": 62,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2287619231299916,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.2,
+            "commentatorTierSimilarities": [
+                53.59,
+                0.0,
+                46.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Festus, the governor, concluded that the accused had done nothing deserving of death. He acknowledged that the defendant had appealed to Caesar, and based on these two factors, Festus decided to send him to Rome. It is clear that Festus truly believed that there were no valid grounds for a death sentence and that the defendant's plea to Caesar warranted further examination.",
+            "wordCount": 63,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.2396166848814503,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.56,
+            "commentatorTierSimilarities": [
+                53.66,
+                0.0,
+                46.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The governor, Festus, acknowledged that he had found no fault in the accused that would warrant a sentence of death. Recognizing that the defendant had appealed to Caesar, Festus made the decision to send him to Rome for further evaluation. It is evident that Festus genuinely believed in the innocence of the accused and saw the importance of honoring his appeal to Caesar, leading to his determination to send him on to Rome.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.1840966496222485,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.71,
+            "commentatorTierSimilarities": [
+                45.14,
+                0.0,
+                54.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

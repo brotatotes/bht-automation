@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 13:58:15",
+    "verseRef": "1 Thessalonians 2:6",
+    "bestBHT": {
+        "bht": "The glory Paul and his associates sought did not come from human sources or the desire for personal gain. They could have asserted their apostolic authority and burdened the Thessalonians, but they chose not to. Instead, they willingly worked to provide for themselves. Paul's humility and refusal to exploit his position demonstrate his commitment to the Gospel, refraining from seeking glory or acclaim in the way that false teachers and Pharisees did.",
+        "wordCount": 73,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 1.9294871958530173,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+        "commentatorTierSimilarities": [
+            30.13,
+            34.18,
+            35.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The glory which they sought was not at all to come out of human sources.\" ",
+            "The words are separated from the mention of covetousness by the new idea beginning at ver. 6, to which, and not to the former clause, this is subordinated.",
+            "They are equivalent to, when we might have stood on our dignity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Many teach heretical novelties, though not for fain, yet for 'glory.' Paul and his associates were free even from this motive.\" ",
+            "Translate, 'when we might have borne heavily upon you,' by pressing you with the weight of self-glorifying authority, and with the burden of our sustenance.\" ",
+            "ALFORD'S translation, which excludes reference to his right of claiming maintenance ('when we might have stood on our dignity'), seems to me disproved by 1 Thessalonians 2:9, which uses the same Greek word unequivocally for 'chargeable'."
+        ],
+        "Albert Barnes": [
+            "The love of applause was not that which influenced them.",
+            "Though they had uncommon advantages, as the apostles of Christ, for setting up a dominion or securing an ascendancy over others, yet they had not availed themselves of it.",
+            "Rather than be oppressive in this respect, he had chosen to forego his right, and to maintain himself by his own labor."
+        ],
+        "Marvin Vincent": [
+            "Of men. To extract glory from men.",
+            "The better rendering here is to be in authority.",
+            "Paul means that his position as an apostle would have warranted him in asserting authority or standing on his dignity, which he did not do."
+        ],
+        "John Calvin": [
+            "For Paul says that he was so far removed from vain pomp, from boasting, from arrogance, that he even waived his just claim, so far as the maintenance of authority was concerned.",
+            "From this it appears how far removed he was from haughtiness.",
+            "He had refrained from all show of dignity, as though he had been some minister of the common rank."
+        ],
+        "Philip Schaff": [
+            "Nor of men sought we glory.",
+            "We might have stood upon the dignity of our office.",
+            "He might have allowed respect to be shown him in the form of providing for his daily wants; but he did not seek such or any glory."
+        ],
+        "Archibald T. Robertson": [
+            "Upon the repudiation of covetousness follows naturally the repudiation of worldly ambition.",
+            "He widens the negation to include those outside of the church circles.",
+            "They were entitled to pay as 'Christ's apostles,' though they had not asked for it."
+        ],
+        "John Gill": [
+            "They did not seek after it as the Pharisees and false teachers did, who received honour one of another, and sought not that which comes from God only."
+        ],
+        "John Wesley": [
+            "Nor from others \u2014 Who would have honoured us more, if we had been burdensome - That is, taken state upon ourselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Paul emphasizes that the glory and authority he sought did not come from human sources or the desire for personal gain. He could have asserted his apostolic authority and demanded support, but he chose not to burden the Thessalonians or seek worldly recognition. Instead, he willingly worked with his own hands to provide for himself. Paul's humility and refusal to exploit his position demonstrates his sincere commitment to the Gospel and love for the Thessalonians, as he refrained from seeking glory or acclaim in the way that false teachers and Pharisees did.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9314921045754572,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                27.77,
+                35.48,
+                36.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The glory and authority Paul sought did not come from human sources or the desire for personal gain. He chose not to burden the Thessalonians or seek worldly recognition. Instead, he willingly worked with his own hands. Paul's humility and refusal to exploit his position demonstrates his commitment to the Gospel, refraining from seeking glory or acclaim as false teachers did.",
+            "wordCount": 62,
+            "quoteTokenProportion": 28.26,
+            "qualityScore": 1.8967283761738218,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                26.44,
+                36.53,
+                37.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The glory Paul and his associates sought did not come from human sources or the desire for personal gain. They could have asserted their apostolic authority and burdened the Thessalonians, but they chose not to. Instead, they willingly worked to provide for themselves. Paul's humility and refusal to exploit his position demonstrate his commitment to the Gospel, refraining from seeking glory or acclaim in the way that false teachers and Pharisees did.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.9294871958530173,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+            "commentatorTierSimilarities": [
+                30.13,
+                34.18,
+                35.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The glory sought by Paul and his associates was not derived from human sources or the pursuit of personal gain. They could have asserted their apostolic authority and burdened the Thessalonians, but they chose not to. Instead, they willingly labored to support themselves. In doing so, Paul displayed humility and a sincere commitment to the Gospel, abstaining from seeking glory or recognition in the same way that false teachers and Pharisees did, who sought honor from one another rather than from God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.8912016265542273,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                29.36,
+                33.03,
+                37.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul and his associates did not seek glory or authority from human sources or for personal gain. They could have asserted their apostolic authority on the Thessalonians and burdened them, but they chose not to. Instead, they worked to provide for themselves without being a burden. This demonstrates their humility and commitment to the Gospel, standing apart from false teachers who sought recognition and honor from one another rather than from God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.8619042905412626,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                28.83,
+                32.23,
+                38.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

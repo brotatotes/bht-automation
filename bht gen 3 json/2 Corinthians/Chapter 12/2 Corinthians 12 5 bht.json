@@ -1,0 +1,98 @@
+{
+    "timestamp": "12-19-2023 15:18:20",
+    "verseRef": "2 Corinthians 12:5",
+    "bestBHT": {
+        "bht": "He will boast of such a person, so favored, so exalted, but this merely by the way, not his subject. His glorying in his other self, to which the revelations were vouchsafed, was not in order to give glory to his fleshly self, but to bring out in contrast the 'infirmities' of the latter, that Christ might have all the glory.",
+        "wordCount": 61,
+        "quoteTokenProportion": 58.14,
+        "qualityScore": 2.5411334440673645,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.83,
+        "commentatorTierSimilarities": [
+            43.27,
+            33.33,
+            23.4
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He will boast of such a person, so favoured, so exalted; but this merely by the way: it is not his subject."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Self is put in the background, except in respect to his infirmities.",
+            "His glorying in his other self, to which the revelations were vouchsafed, was not in order to give glory to his fleshly self.",
+            "but to bring out in contrast the 'infirmities' of the latter, that Christ might have all the glory."
+        ],
+        "Albert Barnes": [
+            "Of such an one will I glory - Of such a man it would be right to boast.",
+            "I can indeed justly boast of my being caught up to heaven as of a thing the whole glory of which pertains to him who has thus exalted me; but of myself, or of anything in me, I will not boast.",
+            "It is not expedient for me to boast of myself. 'You would allow me to boast of such a man as I have referred to; I admit that it is not proper for me to boast directly of myself.'"
+        ],
+        "John Calvin": [
+            "I have just ground for glorying, but I do not willingly avail myself of it.\" ",
+            "It is more in accordance with my design, to glory in my infirmities.\" ",
+            "They shall feel that they have to do with a man, whom God has illustriously honored, and raised up on high, with a view to his exposing their follies."
+        ],
+        "Philip Schaff": [
+            "On behalf of such a one will I glory; but on mine own behalf I will not glory, save in my weaknesses.",
+            "So entirely does he wish himself to be regarded as passive in this whole exalted scene, and his Master\u2019s hand as exclusively in it...",
+            "he separates his personal self from the abstract 'man in Christ' who had this experience, as if they had been two different persons."
+        ],
+        "Archibald T. Robertson": [
+            "As if there were two Pauls.",
+            "He will only glory in the things mentioned above, the things of his weaknesses.",
+            "In a sense there were."
+        ],
+        "John Gill": [
+            "Though he could, and might, and did glory in the Lord, who had done such great things for him; as that he was in Christ, and knew himself to be so, had been rapt up into heaven, and heard things unutterable; yet he would not glory of these things as from himself, as owing to any merit or worthiness of his, but as instances of mere favour, grace, and goodness.\" ",
+            "If he gloried of anything of himself in his present state and condition, it should be of his weaknesses.\" ",
+            "Not his sinful ones, for these he mourned over, and was humbled before God and man under a sense of; but his many pressing difficulties of life, heavy reproaches, very great afflictions, and violent persecutions he endured for Christ's sake."
+        ],
+        "John Wesley": [
+            "Of such an one I will \u2014 I might, glory; but I will not glory of myself - As considered in myself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "He will boast of such a person, so favored, so exalted, but this merely by the way, not his subject. His glorying in his other self, to which the revelations were vouchsafed, was not in order to give glory to his fleshly self, but to bring out in contrast the 'infirmities' of the latter, that Christ might have all the glory. In a sense there were two Pauls. He will only glory in the things mentioned above, the things of his weaknesses.",
+            "wordCount": 82,
+            "quoteTokenProportion": 55.77,
+            "qualityScore": 2.1718029203325857,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.55,
+            "commentatorTierSimilarities": [
+                45.18,
+                30.75,
+                24.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He will boast of such a person, so favored, so exalted, but this merely by the way, not his subject. His glorying in his other self, to which the revelations were vouchsafed, was not in order to give glory to his fleshly self, but to bring out in contrast the 'infirmities' of the latter, that Christ might have all the glory.",
+            "wordCount": 61,
+            "quoteTokenProportion": 58.14,
+            "qualityScore": 2.5411334440673645,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.83,
+            "commentatorTierSimilarities": [
+                43.27,
+                33.33,
+                23.4
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

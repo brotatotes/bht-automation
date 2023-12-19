@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:19:15",
+    "verseRef": "Luke 12:50",
+    "bestBHT": {
+        "bht": "Jesus equates baptism with His impending death, describing it as a baptism of blood. He expresses His deep anguish and intense pressure leading to the Cross, with the world lit up in flames and Himself bathed in blood. He longs for His suffering to be passed, recognizing that it must be endured for the redemption of humanity. This baptism of blood must be accomplished before Jesus can establish His kingdom.",
+        "wordCount": 70,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.9190866128383766,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+        "commentatorTierSimilarities": [
+            34.6,
+            26.34,
+            39.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Baptism is equivalent to Death.",
+            "The Lord's Baptism was His death, in which the Body inherited from the first Adam was buried, and the new Body raised again.",
+            "Here we have then...a 'beginning of the passion' of our Lord; the first utterance of that deep anguish, which afterwards broke forth so plentifully."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But . . . a baptism, c.\u2014clearly, His own bloody baptism, first to take place.",
+            "how . . . straitened\u2014not, 'how do I long for its accomplishment,' as many understand it, thus making it but a repetition of - but 'what a pressure of spirit is upon Me.'",
+            "till it be accomplished\u2014till it be over. Before a promiscuous audience, such obscure language was fit on a theme like this; but oh, what surges of mysterious emotion in the view of what was now so near at hand does it reveal!"
+        ],
+        "Albert Barnes": [
+            "Am I straitened - How do I earnestly desire that it were passed!\" ",
+            "Since these sufferings 'must' be endured, how anxious am I that the time should come!\" ",
+            "Such were the feelings of the Redeemer in view of his approaching dying hour."
+        ],
+        "Marvin Vincent": [
+            "Am I straitened. See on ch. Luke 4:38, and compare 2 Corinthians 5:14; Philippians 1:23. Wyc., constrained."
+        ],
+        "John Calvin": [
+            "He compares death\u2014as in other passages\u2014to baptism, because the children of God, after having been immersed for a time by the death of the body, shortly afterwards rise again to life, so that death is nothing else than a passage through the midst of the waters.",
+            "He says that he is sorely pressed till that baptism has been accomplished, that he may encourage every one of us, by his example, both to bear the cross and to prefer death.",
+            "Not that any man can have a natural preference for death, or for any abatement of present happiness, but because, when we contemplate on the farther bank the glory, and the blessed and immortal rest of heaven, we not only suffer death with patience, but are even carried forward by eager desire where faith and hope lead us."
+        ],
+        "Philip Schaff": [
+            "Before my wish will be fulfilled.",
+            "Before we could be baptized with the Holy Spirit, this must come, for only thus was this new power bought for us.",
+            "'What a weight is on me.' Anxiety, trouble of spirit, the human reluctance in view of fearful sufferings, here appear."
+        ],
+        "Archibald T. Robertson": [
+            "The world is lit up with flames and Christ is bathed in blood.\" ",
+            "We catch a glimpse of the tremendous passion in his soul that drove him on.",
+            "The urge of the Cross is upon Jesus at the moment of these words."
+        ],
+        "John Gill": [
+            "The sufferings of Christ were so many and large, that he was as it were covered with them.",
+            "These words express both the trouble and distress Christ was in, at the apprehension of his sufferings as man.",
+            "They signify his restless desire to have [his sufferings] accomplished...that thereby the justice of God might be satisfied, the law might be fulfilled, and the salvation of his people be obtained."
+        ],
+        "John Wesley": [
+            "I have a baptism to be baptized with \u2014 I must suffer first, before I can set up my kingdom.",
+            "And how I long to fight my way through all!",
+            "I must suffer first, before I can set up my kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Baptism is equivalent to death, and in Luke 12:50, Jesus refers to His own baptism as His impending death on the cross. These words reveal the beginning of the deep anguish and intense pressure that Jesus feels as He approaches His crucifixion. The world is illuminated with flames and Christ is bathed in blood. He is driven by a tremendous passion and an urge to fulfill the mission of the Cross. Jesus earnestly desires that His suffering would be passed, but He knows that it must be endured for the redemption of mankind. His baptism of blood must be accomplished before He can establish His kingdom.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.8509755786610684,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.89,
+            "commentatorTierSimilarities": [
+                36.67,
+                22.88,
+                40.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus equates baptism with His impending death and describes His deep anguish and pressure leading to the Cross. The world is aflame and Christ is drenched in blood, driven by a tremendous passion. He earnestly desires that His suffering would be passed, but recognizes that it must be endured for the redemption of mankind. His baptism of blood is a necessary prerequisite for establishing His kingdom.",
+            "wordCount": 66,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.8519209359393458,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.92,
+            "commentatorTierSimilarities": [
+                34.17,
+                24.27,
+                41.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus refers to His impending death as baptism and reveals the beginning of His deep anguish and intense pressure as He approaches the Cross. The world is lit up with flames and Christ is bathed in blood, driven by a tremendous passion. He earnestly desires that His suffering would be passed, but He knows it must be endured for the redemption of mankind. His baptism of blood must be accomplished before He can establish His kingdom.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9123957154090094,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                34.05,
+                25.62,
+                40.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus refers to His impending death as baptism, expressing His deep anguish and pressure as He approaches the Cross. The world is lit up with flames and Christ is bathed in blood, driven by a tremendous passion. He earnestly desires that His suffering would be passed, but knows it must be endured for the redemption of mankind. His baptism of blood must be accomplished before He can establish His kingdom.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.9148801456975368,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                33.91,
+                25.84,
+                40.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus equates baptism with His impending death, describing it as a baptism of blood. He expresses His deep anguish and intense pressure leading to the Cross, with the world lit up in flames and Himself bathed in blood. He longs for His suffering to be passed, recognizing that it must be endured for the redemption of humanity. This baptism of blood must be accomplished before Jesus can establish His kingdom.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9190866128383766,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+            "commentatorTierSimilarities": [
+                34.6,
+                26.34,
+                39.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

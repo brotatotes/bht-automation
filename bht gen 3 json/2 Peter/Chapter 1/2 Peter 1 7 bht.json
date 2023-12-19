@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:40:09",
+    "verseRef": "2 Peter 1:7",
+    "bestBHT": {
+        "bht": "Our godliness should not manifest as moroseness or a solitary lifestyle, but rather as kindness, generosity, and courteousness. We are called to have a universal kindness towards all, showing love to one another as well as to everyone we encounter. Love is the pinnacle of our Christian character, and it should extend to both believers and non-believers alike. These qualities of brotherly kindness and love are evidence of our genuine faith and the power of godliness at work in us.",
+        "wordCount": 81,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 2.087091956044257,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.74,
+        "commentatorTierSimilarities": [
+            32.2,
+            33.05,
+            34.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "not suffering your godliness to be moroseness, nor a sullen solitary habit of life, but kind and generous and courteous",
+            "universal kindness of thought, word, and act towards all: a catholic large-heartedness",
+            "So that these two last correspond to the 'love for one another and to all'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not suffering your godliness to be moroseness, nor a sullen solitary habit of life, but kind, generous, and courteous.\" ",
+            "Your natural affection and brotherly kindness are to be sanctified by godliness.",
+            "From brotherly kindness we are to go forward to love."
+        ],
+        "Albert Barnes": [
+            "And to godliness brotherly kindness - Love to Christians as such.",
+            "There is to be a special affection for Christians as of the same family; there is to be a true and warm love, however, for all the race.",
+            "Love to all mankind."
+        ],
+        "Philip Schaff": [
+            "Our love, it is meant, strongly as it should beat within the Christian household, ought not to be confined to that, but should enlarge itself into a catholic interest in all men.",
+            "The one begins where the other ends. With Paul, love stands at the head, and naturally so. For Paul is drawing a picture of what the spiritual character is in contrast with the \u2018works of the flesh\u2019 and in our relations to our fellow-men.",
+            "It is enough to notice how these graces are made to blend into each other, each being in the other \u2018like adjoining colours of the rainbow, mingled with it, and exhibited along with it\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "Love for Christ as the crown of all.",
+            "Love is the climax as Paul has it.",
+            "By deliberate choice."
+        ],
+        "John Gill": [
+            "Without [brotherly kindness], godliness, or external worship, or a profession of religion, is a vain show.",
+            "[Brotherly kindness] is both the evidence of regeneration, and of the truth and power of real godliness.",
+            "Charity is more extensive in its objects and acts than brotherly kindness or love. As faith leads the van, charity brings up the rear, and is the greatest of all."
+        ],
+        "John Wesley": [
+            "No sullenness, sternness, moroseness: 'sour godliness,' so called, is of the devil.",
+            "Mild, sweet, serene, and tender is her mood, Nor grave with sternness, nor with lightness free: Against example resolutely good, Fervent in zeal, and warm in charity.",
+            "The pure and perfect love of God and of all mankind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our godliness should not manifest as moroseness or a solitary lifestyle, but rather as kindness, generosity, and courtesy. We are called to have a universal kindness towards all, showing love to one another as well as to everyone we encounter. Love is the pinnacle of our Christian character, and it should extend to both believers and non-believers alike. Love is not only a strong affection within the Christian community, but it should also encompass a compassionate interest in all people. These qualities of brotherly kindness and love are evidence of our genuine faith and the power of godliness at work in us.",
+            "wordCount": 103,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.0945188832752963,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+            "commentatorTierSimilarities": [
+                32.04,
+                34.52,
+                33.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our godliness is not meant to be sullen or solitary, but rather kind, generous, and courteous. It encompasses a universal kindness and love towards all people, both within and outside of the Christian community. Love is the ultimate expression of our faith, and it extends to believers and non-believers alike. This loving kindness is evidence of our genuine faith and the transformative power of godliness in our lives.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.041779071939981,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+            "commentatorTierSimilarities": [
+                33.02,
+                30.0,
+                36.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our godliness should not manifest as moroseness or a solitary lifestyle, but rather as kindness, generosity, and courteousness. We are called to have a universal kindness towards all, showing love to one another as well as to everyone we encounter. Love is the pinnacle of our Christian character, and it should extend to both believers and non-believers alike. These qualities of brotherly kindness and love are evidence of our genuine faith and the power of godliness at work in us.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.087091956044257,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.74,
+            "commentatorTierSimilarities": [
+                32.2,
+                33.05,
+                34.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our godliness is not meant to be a sullen and solitary existence, but rather a life characterized by kindness, generosity, and courteousness. It involves showing universal kindness and love to all individuals, both within and outside of the Christian community. Love is the culmination of our Christian character, extending to believers and non-believers alike. Our brotherly kindness and love demonstrate the authenticity of our faith and the transformative power of godliness within us.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 2.020135981186422,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+            "commentatorTierSimilarities": [
+                31.31,
+                32.72,
+                35.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our godliness is not intended to be a morose, solitary lifestyle, but rather a reflection of kindness, generosity, and courtesy. We are called to demonstrate a universal kindness and love towards everyone we encounter, extending our affection to both fellow believers and the wider world. Love is the crowning virtue, the pinnacle of our Christian character, permeating our relationships and actions. Genuine faith is evidenced by the warmth of brotherly kindness and love, indicating the transformative power of godliness in our lives.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.043639688213525,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+            "commentatorTierSimilarities": [
+                32.44,
+                30.48,
+                37.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

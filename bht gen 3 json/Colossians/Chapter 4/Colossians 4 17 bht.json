@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:22:01",
+    "verseRef": "Colossians 4:17",
+    "bestBHT": {
+        "bht": "Church congregations possess remarkable authority to exercise discipline over their teachers, showing that Scripture benefits both clergy and laity. Archippus is urged to diligently fulfill his ministry as it draws to a close. This emphasizes the importance of constant watchfulness, as the ministry carries great responsibility to both Christ and His people. The ministry is a laborious and painful service that requires ministers to remain receptive to admonishment from the congregation and to demonstrate teachability.",
+        "wordCount": 75,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 2.03862050766217,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.13,
+        "commentatorTierSimilarities": [
+            31.02,
+            36.62,
+            32.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The authority hereby implied on the part of the congregation to exercise reproof and discipline over their teachers is remarkable.",
+            "The hierarchical turn given to the passage by some... belongs to a later age.",
+            "Look to the ministry which thou receivedst in the Lord... that thou fulfill it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This proves that Scripture belongs to the laity as well as the clergy; and that laymen may profitably admonish the clergy in particular cases when they do so in meekness.",
+            "The word, 'fulfil,' accords with his ministry being near its close.",
+            "The element in which every work of the Christian, and especially the Christian minister, is to be done."
+        ],
+        "Albert Barnes": [
+            "Quote 1: \"It is always proper to caution even the most faithful and self-denying servants of the Lord to 'take heed,' or see to it, that they perform their duties with fidelity.",
+            "Quote 2: \"The office of the ministry is such, and the temptations to unfaithfulness are so great, that we need constant watchfulness.",
+            "Quote 3: \"That thou fulfil it - That there be nothing wanting, or lacking, in any of the departments of labor which you are called to perform."
+        ],
+        "John Calvin": [
+            "The ministers of the word are endowed with signal authority, but such at the same time as is not exempt from laws.",
+            "It is necessary that they should shew themselves teachable if they would duly teach others.",
+            "Without doubt he felt some twinges of [human infirmity] in himself, inasmuch as he was so very urgent that all pious persons should be mindful of his distresses."
+        ],
+        "Philip Schaff": [
+            "Take heed to the ministry, etc...Archippus might have been a 'deacon,' though the word does not necessarily suggest this; or he may have been the most prominent elder in the Colossian congregation.\" ",
+            "Meyer rightly calls attention to the anti-hierarchical tone of this verse; the New Testament Church was an evangelical Church of the people.",
+            "Official gifts bring responsibility, both to Christ and to His people. What we receive in the Lord, but increases the need of watchfulness on our part."
+        ],
+        "Archibald T. Robertson": [
+            "Take heed. Keep an eye on.\" ",
+            "Clearly Archippus had a call 'in the Lord' as every preacher should have.\" ",
+            "That thou fulfill it. Present active subjunctive of \u03c0\u03bb\u03b7\u03c1\u03bf\u03c9, 'that thou keep on filling it full.' It is a life-time job."
+        ],
+        "John Gill": [
+            "Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.\" ",
+            "The 'ministry' he had, was not that of the office of a deacon, but of a preacher of the word.",
+            "Hence it appears, that when ministers are negligent in the discharge of their duty, the church has a power to admonish and exhort them to a diligent performance of it."
+        ],
+        "John Wesley": [
+            "Take heed - It is the duty of the flock to try them that say they are apostles to reject the false, and to warn, as well as to receive, the real.",
+            "The ministry - Not a lordship, but a service; a laborious and painful work; an obligation to do and suffer all things; to be the least, and the servant, of all.",
+            "In the Lord - Christ by whom, and for whose sake, we receive the various gifts of the Holy Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Church congregations have a remarkable authority to reprove and discipline their teachers, which implies that Scripture belongs to the laity as well as the clergy, and laymen have the right to admonish the clergy. Archippus is urged to fulfill his ministry diligently, with the word fulfill indicating that his ministry is nearing its close. This verse emphasizes the importance of constant watchfulness in the ministry, as the office carries great responsibility to both Christ and His people. Ultimately, the ministry is a service, a laborious and painful work in which ministers must remain teachable and receptive to admonishment from the congregation.\n",
+            "wordCount": 101,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 2.1203908108633556,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.84,
+            "commentatorTierSimilarities": [
+                30.14,
+                37.15,
+                32.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Church congregations have the authority to exercise reproof and discipline over their teachers, indicating that Scripture belongs to both clergy and laity. Archippus is urged to fulfill his ministry diligently as it nears its close. This verse emphasizes the importance of constant watchfulness and the responsibility of ministers to both Christ and His people. The ministry is a service, a laborious and painful work, where ministers must remain teachable and receptive to admonishment from the congregation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.060067615728273,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+            "commentatorTierSimilarities": [
+                31.05,
+                36.46,
+                32.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Church congregations have remarkable authority to admonish and exercise discipline over their teachers, revealing that Scripture is beneficial for both clergy and laity. Archippus is encouraged to diligently fulfill his ministry, indicating that his time in the role is drawing to a close. This passage emphasizes the need for constant vigilance in the ministry, as it carries significant responsibility to Christ and His people. Ultimately, the ministry is a service, a laborious and arduous undertaking, where ministers must remain open to learning and receptive to admonishment from the congregation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 2.0420505536229623,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.24,
+            "commentatorTierSimilarities": [
+                31.24,
+                36.1,
+                32.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Church congregations possess the remarkable authority to reprove and discipline their teachers, demonstrating that Scripture belongs to the laity as well as the clergy. Archippus is called to diligently fulfill his ministry as it nears its end. This verse underscores the need for constant watchfulness and the weighty responsibility of ministers toward Christ and His people. The ministry is a demanding and challenging service that calls for a teachable spirit and a willingness to accept admonishment from the congregation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.0520593642063956,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.57,
+            "commentatorTierSimilarities": [
+                31.21,
+                37.04,
+                31.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Church congregations possess remarkable authority to exercise discipline over their teachers, showing that Scripture benefits both clergy and laity. Archippus is urged to diligently fulfill his ministry as it draws to a close. This emphasizes the importance of constant watchfulness, as the ministry carries great responsibility to both Christ and His people. The ministry is a laborious and painful service that requires ministers to remain receptive to admonishment from the congregation and to demonstrate teachability.",
+            "wordCount": 75,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.03862050766217,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.13,
+            "commentatorTierSimilarities": [
+                31.02,
+                36.62,
+                32.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

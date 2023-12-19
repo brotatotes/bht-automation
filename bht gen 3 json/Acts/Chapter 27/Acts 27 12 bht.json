@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:37:12",
+    "verseRef": "Acts 27:12",
+    "bestBHT": {
+        "bht": "The harbor of Lutro, also known as Phenix, was not well situated for anchorage and was unfit for wintering due to its vulnerability to the southwest and northwest winds. The majority of the ship's company agreed with the master and owner, and they recommended seeking a more suitable port like Phoenix, which offered shelter from the south and east winds. This harbor was unexpectedly revealed, like a change of scenery, with the town of Loutro appearing within the basin.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.8813270959088986,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+        "commentatorTierSimilarities": [
+            24.0,
+            31.02,
+            44.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The harbour of Lutro satisfies these conditions: and is otherwise even more decisively pointed out as being the spot, by the mention in the Geographers of the island Clauda as connected with it.",
+            "During the Greek war, when cruising with Lord Cochrane,...... chased a pirate schooner, as they thought, right upon the rocks; suddenly he disappeared, and when rounding in after him,\u2014like a change of scenery, the little basin, its shipping, and the town of Loutro, revealed themselves.",
+            "From these data and others mentioned in my Greek Test., it is almost demonstrated that the port of Ph\u0153nice is the present port of Lutro."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Phenice\u2014\"Phenix,\" now called Lutro.",
+            "If this means that it was open to the west, it would certainly not be good anchorage!",
+            "It is thought therefore to mean that a wind from that quarter would lead into it, or that it lay in an easterly direction from such a wind."
+        ],
+        "Albert Barnes": [
+            "The fair havens, Acts 27:8. Was not commodious to winter in - Not safe or convenient to remain there.",
+            "It appears, therefore, that the majority of persons on board concurred with Paul in the belief that it was not advisable to attempt the navigation of the sea until the dangers of the winter had passed by.",
+            "Of this harbor Mr. Urquhart, in a letter to James Smith, Esq., whose work on this voyage of Paul has obtained so wide a reputation, says, 'Lutro is an admirable harbor. You open it like a box; unexpectedly the rocks stand apart, and the town appears within ... Excepting Lutro, all the roadsteads looking to the southward are perfectly exposed to the south or east.'"
+        ],
+        "Marvin Vincent": [
+            "Not commodious [\u03b1\u03bd\u03b5\u03c5\u03b8\u03b5\u03c4\u03bf\u03c5] . Lit., not well situated.",
+            "According to the Rev., kata means down: 'looking down the southwest and northwest winds,' i.e., in the direction toward which they blow, viz., northeast and southeast.",
+            "For full discussion of the point, see Smith, 'Voyage and Shipwreck of St. Paul'; Hackett, 'Commentary on Acts'; Conybeare and Howson, 'Life and Epistles of St. Paul.'"
+        ],
+        "Philip Schaff": [
+            "The harbour was not commodious to winter in. It was in its very nature ( \u03c5 \u0314 \u03c0\u03b1 \u0301 \u03c1\u03c7\u03bf\u03bd\u03c4\u03bf\u03c2 ) not commodious for this purpose.",
+            "The majority gave their opinion ( \u1f14\u03b8\u03b5\u03bd\u03c4\u03bf \u03b2\u03bf\u03c5\u03bb\u03b7 \u0300 \u03bd ) in favour of quitting it, if possible.",
+            "This is just the difference between a chart and a map. The recommendation of Phoenix, as a good harbour for wintering, is precisely this, that it was sheltered from the two above-mentioned winds; and this is quite in harmony with the use of the Greek preposition \u03ba\u03b1\u03c4\u03b1 \u0300 ."
+        ],
+        "Archibald T. Robertson": [
+            "The harbour being unfit... for wintering",
+            "We vote for going on the chance that we may be able",
+            "looking northeast and southeast"
+        ],
+        "John Gill": [
+            "Perhaps it might be an open road or bay, and having nothing to shelter from the boisterous waves, was a place very improper for a ship to be in, in stormy weather; for in open places, as bays and roads, the sea tumbles in very violently in bad weather: this was a haven fit for fair weather only, and therefore might be so called.",
+            "The major part of the ship's company were of the same opinion with the master and owner of it, and advised as well as they, to sail from the Fair Havens in quest of a better port.",
+            "This place is called Phenice; and Ptolomy makes mention both of the city and haven of Phoenix, as on the south side of the island of Crete: and whereas it is here said to lie towards the south west and north west, this may be reconciled to that, as well as to itself; for the haven considered in general lay towards the south, but having its windings and turnings, with respect to them it lay towards both the south west and the north west, and so was a very commodious haven to winter in."
+        ],
+        "John Wesley": [
+            "Which is a haven \u2014 Having a double opening, one to the southwest, the other to the northwest."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Bible verse references a harbor called Lutro, also known as Phenix, that was not well situated for anchorage, especially during winter. It faced the southwest and northwest winds, which meant that it was vulnerable to storms and not a suitable place for the ship to winter. The majority of the ship's company agreed with the master and owner and advised sailing from the harbor in search of a better port. This harbor was, however, unexpectedly revealed like a change of scenery, with the town of Loutro appearing within the basin. The recommendation for another harbor, such as Phoenix, was based on the fact that it offered shelter from the south and east winds, making it a more secure place for the ship to wait out the winter.",
+            "wordCount": 129,
+            "quoteTokenProportion": 32.91,
+            "qualityScore": 1.8695742741349097,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                21.84,
+                35.48,
+                42.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The harbor of Lutro, also known as Phenix, was not well situated for anchorage and was unfit for wintering due to its vulnerability to the southwest and northwest winds. The majority of the ship's company agreed with the master and owner, and they recommended seeking a more suitable port like Phoenix, which offered shelter from the south and east winds. This harbor was unexpectedly revealed, like a change of scenery, with the town of Loutro appearing within the basin.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.8813270959088986,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+            "commentatorTierSimilarities": [
+                24.0,
+                31.02,
+                44.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Bible verse speaks of Lutro, a harbor known as Phenix, which was not a well-situated place for anchorage. It was deemed unfit for wintering due to its exposure to the southwest and northwest winds, making it vulnerable to storms. The majority of the ship's company agreed with the master and owner, voting to leave the harbor in search of a safer port. Lutro, like a hidden treasure, revealed itself unexpectedly, with the town of Loutro appearing within its sheltered basin.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.695116242884189,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.7,
+            "commentatorTierSimilarities": [
+                24.35,
+                34.41,
+                41.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The harbor of Lutro, also called Phenix, was not well situated or commodious for anchorage, especially during winter. It faced the southwest and northwest winds and was considered unfit for wintering. The ship's company, majority in agreement with the master and owner, voted to leave the harbor and search for a better port. Lutro, unexpectedly revealed like a change of scenery, presented the town of Loutro within its protected basin. An alternative harbor was recommended for its shelter from the south and east winds.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.7676160840793111,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                24.92,
+                33.48,
+                41.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Lutro, known as Phenix, was an ill-suited harbor for anchorage, especially during winter due to its exposure to the southwest and northwest winds. The ship's company, following the advice of the master and owner, advocated leaving the harbor in search of a better port. Lutro surprisingly revealed itself, like a change of scenery, with the town of Loutro appearing within its sheltered basin. Another harbor like Phoenix was suggested because of its protection from the south and east winds, making it a more suitable option for wintering.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.768062862527343,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                23.08,
+                33.23,
+                43.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:18:44",
+    "verseRef": "2 Corinthians 12:11",
+    "bestBHT": {
+        "bht": "I have become a fool in boasting, compelled by your insistence. I am not inferior to those esteemed apostles who excessively promote themselves. I did not seek to commend myself, but I had to recount my sufferings to prove my worth. It is unfortunate that I had to resort to self-glorification, when you should have commended me.",
+        "wordCount": 58,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 1.956041082354496,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+        "commentatorTierSimilarities": [
+            47.17,
+            30.14,
+            22.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I am BECOME a fool, viz. by this boasting, which I have now concluded, It is still ironical...\" ",
+            "ye compelled me, it was no doing of mine, for I, &c.",
+            "for I was nothing behind these overmuch apostles, even though I am nothing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am become a fool.",
+            "It is YE who have compelled me; for I ought to have been commended by you.",
+            "Those overmuch apostles."
+        ],
+        "Albert Barnes": [
+            "It is folly to do it, and I would not have entered on it unless I had been driven to it by my circumstances and the necessity which was imposed on me of speaking of myself.",
+            "If anyone, therefore, is disposed to imitate Paul in speaking of himself and what he has done, let him do it only when he is in circumstances like Paul, and when the honor of religion and his usefulness imperiously demand it.",
+            "Those who are most favored in the Christian life, and most honored by God, should not he unwilling to take a low place, and to regard and speak of themselves as nothing."
+        ],
+        "Marvin Vincent": [
+            "I am become a fool in glorying. Ironical. By the record I have presented I stand convicted of being foolish.",
+            "You ought to have saved me the necessity of recounting my sufferings, and thus commending myself as not inferior to those preeminent apostles."
+        ],
+        "John Calvin": [
+            "Let me be compared with any one of the Apostles, I have no fear, that I shall be found inferior.",
+            "We are ungrateful to God, if we allow his gifts, of which we are witnesses, to be disparaged or contemned.",
+            "Paul was not disposed to claim anything as his own, but simply gloried in the Lord."
+        ],
+        "Philip Schaff": [
+            "In nothing was I behind the very chiefest apostles, though I am nothing.",
+            "In myself I am nothing, but as an apostle of Christ, I am compelled to affirm, in face of the detraction to which I am subjected, that not even the chiefest of the apostles has outstripped me.",
+            "Stronger language still is used in the First Epistle, yet along with the most affecting expressions of utter unworthiness in himself."
+        ],
+        "Archibald T. Robertson": [
+            "He has been swept on by the memory of the ecstasy.",
+            "I ought now to be commended by you instead of having to glorify myself.",
+            "Even boasting himself against those false apostles causes a reaction of feeling that he has to express."
+        ],
+        "John Gill": [
+            "They were not only the occasion of his glorying, but they had forced him to it by their conduct; for he was obliged either to take this method for the vindication of his character, and preserve his future usefulness, or else to suffer the false apostles to triumph over him.\" ",
+            "They ought not only to have turned a deaf ear to them, and to have checked and reproved them, and so have put a stop to their calumnies; but they should have spoke in commendation of him, and have declared how faithfully he had preached the Gospel to them.",
+            "Though I be nothing; which may be considered either as a declaration of his own thoughts of himself, and an humble acknowledgment of his own nothingness; that he was nothing as a man, as an Hebrew, a Pharisee, with respect to his external privileges and righteousness, not more and better than others; and nothing as an apostle and a Christian of himself, but was wholly and entirely what he was by the grace of God."
+        ],
+        "John Wesley": [
+            "Though I am nothing \u2014 Of myself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I have become a fool in boasting about myself, an ironical act brought about by your insistence and not my own. I should not have had to boast, for I am not inferior to those esteemed apostles who have been excessive in their self-promotion. My intention was not to commend myself, but it was necessary for me to recount my sufferings so that you would see that I am on par with these preeminent apostles. It is unfortunate that I had to resort to such self-glorification, but if you had commended me as you should have, I would not have needed to prove myself in this way.",
+            "wordCount": 109,
+            "quoteTokenProportion": 59.7,
+            "qualityScore": 2.1546970362163003,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.98,
+            "commentatorTierSimilarities": [
+                40.75,
+                34.5,
+                24.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I have become a fool in boasting, compelled by your insistence. I am not inferior to those esteemed apostles who excessively promote themselves. I did not seek to commend myself, but I had to recount my sufferings to prove my worth. It is unfortunate that I had to resort to self-glorification, when you should have commended me.",
+            "wordCount": 58,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.956041082354496,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+            "commentatorTierSimilarities": [
+                47.17,
+                30.14,
+                22.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By recounting his sufferings and boasting in his ministry, the apostle Paul sarcastically declares himself a fool. It was not his intention to glorify himself, but the Corinthians had forced him to do so by their indifference towards Paul's commendation. Despite being seen as inferior to the so-called overmuch apostles, Paul sees himself as nothing and acknowledges that his worth comes solely from God's grace. He expects the Corinthians to silence those false apostles and commend him instead, recognizing his dedication to preaching the Gospel to them. Paul urges believers not to boast in themselves but to take a low place, focusing on the glory of the Lord.",
+            "wordCount": 111,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.937070394402911,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "commentatorTierSimilarities": [
+                25.18,
+                39.9,
+                34.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By recounting his sufferings and boasting in his ministry, the apostle Paul sarcastically declares himself a fool. He expected the Corinthians to silence those false apostles and commend him for his dedication to preaching the Gospel. Despite being seen as inferior to the overmuch apostles, Paul acknowledges his own unworthiness and emphasizes that his worth comes only from God's grace. He urges believers to take a humble position, not boasting in themselves, but focusing on glorifying the Lord.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.8797289160704223,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                26.01,
+                38.74,
+                35.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By recounting his sufferings and boasting in his ministry, the apostle Paul sarcastically declares himself a fool. He acknowledges his unworthiness and emphasizes that his worth comes only from God's grace. Paul expected the Corinthians to silence those false apostles and commend him for his dedication to preaching the Gospel. He urges believers to take a humble position, not boasting in themselves, but focusing on glorifying the Lord.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.771232135710398,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                25.55,
+                38.97,
+                35.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

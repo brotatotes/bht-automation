@@ -1,0 +1,149 @@
+{
+    "timestamp": "12-19-2023 16:29:35",
+    "verseRef": "Acts 10:30",
+    "bestBHT": {
+        "bht": "Four days ago, until this hour, I was keeping the ninth hour of prayer. The vividness with which Cornelius describes what had happened to himself is striking. It was exactly four days since he had seen the vision, and he was fasting as well as praying on this occasion. In this moment, a man appeared before him in bright clothing, a token of heavenly glory. The supernatural splendor of this encounter is seen in the shining garment, which symbolized the divine majesty. The angel, given a true body by God, stood before Cornelius to deliver a message.",
+        "wordCount": 97,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.7829558509466215,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+        "commentatorTierSimilarities": [
+            27.45,
+            40.14,
+            32.41
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the hour at which he was then speaking, which probably was the sixth, the hour of the mid-day meal",
+            "In Luke xxiii. 11, where the same word is used in the original, the brightness was in the colour",
+            "here, probably, in some supernatural splendour"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "30-33. Four days ago\u2014the",
+            "\tmessengers being despatched on the first; on the second reaching",
+            "\tJoppa (Acts 10:9); starting for",
+            "\tC\u00e6sarea on the third; and on the fourth arriving."
+        ],
+        "Albert Barnes": [
+            "Four days ago\" - See the notes on Acts 10:23.",
+            "Until this hour\" - The ninth hour, or three o\u2019clock, p. m. See Acts 10:3.",
+            "A man\" - Called, in Acts 10:3, an angel. He had the appearance of a man. Compare Mark 16:5."
+        ],
+        "Marvin Vincent": [
+            "Four days ago, until this hour, I was keeping the ninth hour of prayer.",
+            "The best texts omit.",
+            "Lit., praying during the ninth hour."
+        ],
+        "John Calvin": [
+            "The brain of a man that is fasting...doth not easily admit any strong imaginations.",
+            "(690)",
+            "The shining garment was a token of heavenly glory, and, as it were a sign of the divine Majesty.",
+            "(692)",
+            "God, to whom it belongeth to create all things, gave to the angel a true body, and did clothe the same with a most gorgeous garment.",
+            "(693)"
+        ],
+        "Philip Schaff": [
+            "Four days ago. It was exactly four days since Cornelius had seen the vision.",
+            "We learn that Cornelius was fasting as well as praying on this occasion.",
+            "Here, again, are three particulars, all of which may be classed together under the general head of the vividness with which Cornelius describes what had happened to himself."
+        ],
+        "Archibald T. Robertson": [
+            "Four days ago (\u03b1\u03c0\u03bf \u03c4\u03b5\u03c4\u03b1\u03c1\u03c4\u03b7\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1\u03c2). From the fourth day, reckoning backwards from this day.",
+            "I was keeping the ninth hour of prayer (\u03b7\u03bc\u03b7\u03bd \u03c4\u03b7\u03bd \u03b5\u03bd\u03b1\u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2). Periphrastic middle imperfect and accusative of extension of time (all the ninth hour)."
+        ],
+        "John Gill": [
+            "Four days ago I was fasting unto this hour...",
+            "And at the ninth hour I prayed in my house...",
+            "And behold a man stood before me in bright clothing..."
+        ],
+        "John Wesley": [
+            "Four days ago I was fasting",
+            "The first of these days he had the vision",
+            "On the fourth, came to Cesarea"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Four days ago, until this hour, I was keeping the ninth hour of prayer. The vividness with which Cornelius describes what had happened to himself is striking. It was exactly four days since he had seen the vision, and he was fasting as well as praying on this occasion. In this moment, a man appeared before him in bright clothing, a token of heavenly glory. The supernatural splendor of this encounter is seen in the shining garment, which symbolized the divine majesty. The angel, given a true body by God, stood before Cornelius to deliver a message.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7829558509466215,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                27.45,
+                40.14,
+                32.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Four days ago, until this hour, I was keeping the ninth hour of prayer. Cornelius vividly describes his experience, emphasizing the time that has passed since he saw the vision and the fact that he was fasting. In this intense moment, a man appeared with supernatural splendor, symbolized by the bright clothing. This angelic encounter showcased the divine majesty and the true body created by God. The appearance of the angel before Cornelius was a significant moment, carrying a profound message.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7427961659014972,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                28.84,
+                39.12,
+                32.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Four days ago, until this hour, I was keeping the ninth hour of prayer. Cornelius describes his experience vividly, highlighting the passage of time since the vision and his act of fasting. In this extraordinary encounter, a man appeared in supernatural splendor, clothed in brightness that represented heavenly glory. The angel's presence and message were profound, demonstrating the true body given by God. Cornelius's account reveals the intensity and significance of this divine encounter.",
+            "wordCount": 76,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.704013326309045,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                30.23,
+                39.5,
+                30.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Four days ago, until this hour, I was keeping the ninth hour of prayer. Cornelius vividly recounts his experience, emphasizing the time elapsed since the vision and his act of fasting. In this extraordinary moment, a man appeared in supernatural splendor, clothed in brightness that symbolized heavenly glory. The angel's presence and message carry great importance, showcasing the true body bestowed by God. Cornelius's description captures the intensity and significance of this divine encounter.",
+            "wordCount": 76,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.6819038966392594,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                31.86,
+                37.76,
+                30.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Four days ago, until this hour, I was keeping the ninth hour of prayer. Cornelius vividly describes his fasting and prayer, emphasizing the time that has passed since he saw the vision. In this extraordinary moment, a man appeared in supernatural splendor, clothed in brightness symbolizing heavenly glory. The angel's presence and message are profound, reflecting the true body given by God. Cornelius's account captures the intensity and significance of this divine encounter, conveying the vividness with which he shares his experience.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.6953720749018895,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.71,
+            "commentatorTierSimilarities": [
+                31.28,
+                38.5,
+                30.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

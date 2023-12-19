@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:23:27",
+    "verseRef": "Luke 23:10",
+    "bestBHT": {
+        "bht": "When Jesus stood before Herod, the accusations against him were likely combined, vehemently accusing him of blasphemy and treason. The accusers broke loose with their accusations, like a pack of hounds with full voice. Herod showed no interest in a real investigation, treating the case with contempt. The chief priests and Scribes feared that Herod might release Jesus if he performed a miracle. The accusers stood before Herod, relentlessly accusing Jesus of the same charges with increasing bitterness. This encounter exemplified the unjust accusations and hostility faced by Jesus during his trial.",
+        "wordCount": 92,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 2.1979015065616596,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.42,
+        "commentatorTierSimilarities": [
+            23.29,
+            33.61,
+            43.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] The accusations, of worldly kingship and of blasphemy, would Probably be here united, as Herod was a Jew, and able to appreciate the latter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. stood and vehemently accused",
+            "\thim\u2014no doubt both of treason before the king, and",
+            "\tof blasphemy, for the king was a Jew."
+        ],
+        "Albert Barnes": [
+            "Vehemently accused him - Violently or unjustly accused him, endeavoring to make it appear that he had been guilty of sedition in Herod\u2019s province."
+        ],
+        "Marvin Vincent": [
+            "Vehemently [\u03b5\u03c5\u03c4\u03bf\u03bd\u03c9\u03c2] . Only here and Acts 18:28, of the preaching of Apollos. Originally the word means well - strung; hence, in medical language, of a well - toned body."
+        ],
+        "Philip Schaff": [
+            "Pilate had sent them there.",
+            "There is no hint that Herod took any steps toward real investigation.",
+            "Finding his curiosity was not to be gratified, he treats the case with contempt."
+        ],
+        "Archibald T. Robertson": [
+            "They stood by while Herod quizzed Jesus and when he refused to answer, they broke loose with their accusations like a pack of hounds with full voice.",
+            "Full voice.",
+            "Well tuned."
+        ],
+        "John Gill": [
+            "The chief priests and Scribes... fearing, lest Herod should be disposed to let him go, should he gratify him by working a miracle.\" ",
+            "Stood; before Herod; so witnesses, and accusers, used to do.",
+            "Vehemently accused him; of the same things they had accused him before Pilate, with great bitterness and constancy, increasing, and aggravating the charges against him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus stood before Herod, the accusations against him were likely combined, accusing him both of claiming to be a king and of committing blasphemy. The accusers vehemently and forcefully presented their charges, like a well-tuned instrument playing at full voice. Herod, however, did not take the accusations seriously and treated the case with contempt, showing no interest in conducting a real investigation. The chief priests and Scribes were likely concerned that Herod might release Jesus if he performed a miracle for him. The accusers stood before Herod, following the customary practice of witnesses and accusers, consistently and relentlessly accusing Jesus of the same charges with increasing bitterness. This encounter served as another occasion for the unjust accusations and hostility faced by Jesus during his trial.",
+            "wordCount": 127,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 2.1729141976561865,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.59,
+            "commentatorTierSimilarities": [
+                22.69,
+                32.82,
+                44.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus stood before Herod, the accusations against him were likely combined, vehemently accusing him of blasphemy and treason. The accusers broke loose with their accusations, like a pack of hounds with full voice. Herod showed no interest in a real investigation, treating the case with contempt. The chief priests and Scribes feared that Herod might release Jesus if he performed a miracle. The accusers stood before Herod, relentlessly accusing Jesus of the same charges with increasing bitterness. This encounter exemplified the unjust accusations and hostility faced by Jesus during his trial.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.1979015065616596,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.42,
+            "commentatorTierSimilarities": [
+                23.29,
+                33.61,
+                43.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus stood before Herod, the accusers vehemently accused him of blasphemy and treason, presenting their charges with great bitterness and constancy. Like a well-tuned instrument playing at full voice, they stood by while Herod quizzed Jesus, hoping to confirm their accusations. However, Herod treated the case with contempt, showing no real interest in conducting a proper investigation. The fear among the chief priests and Scribes was that Herod might release Jesus if he performed a miracle. This encounter further highlighted the unjust accusations leveled against Jesus during his trial.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 2.131407423866797,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.21,
+            "commentatorTierSimilarities": [
+                23.28,
+                33.35,
+                43.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus stood before Herod, the accusers vehemently accused him of both treason and blasphemy, presenting their charges with great bitterness and constancy. Their accusations broke forth like a pack of hounds with full voice. However, Herod treated the case with contempt, showing no real interest in conducting a genuine investigation. The fear among the chief priests and Scribes was that Herod might release Jesus if he performed a miracle. This encounter exemplified the relentless and unjust accusations faced by Jesus during his trial.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.040099570496292,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+            "commentatorTierSimilarities": [
+                24.12,
+                32.32,
+                43.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus stood before Herod, the accusers vehemently accused him of treason and blasphemy, presenting their charges with great bitterness and constancy. The accusations were like a pack of hounds with full voice. However, Herod treated the case with contempt, showing no interest in a genuine investigation. The chief priests and Scribes feared that Herod might release Jesus if he performed a miracle. This encounter exemplified the unfounded and hostile accusations endured by Jesus during his trial.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.0811278080888074,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.54,
+            "commentatorTierSimilarities": [
+                23.92,
+                32.93,
+                43.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

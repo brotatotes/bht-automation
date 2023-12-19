@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:34:21",
+    "verseRef": "Acts 20:33",
+    "bestBHT": {
+        "bht": "Paul's emphasis on not pursuing personal gain in preaching showcases his dedication to the sincerity of his mission. He clearly states that he did not seek material wealth, in contrast to false teachers who manipulated the word of God for their own financial gain. Paul's choice to support himself through manual labor serves as a powerful demonstration of his commitment to authentic ministry. He sets an example for all ministers, urging them to prioritize the proclamation of the Gospel over the pursuit of earthly riches.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.5246918874494177,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.04,
+        "commentatorTierSimilarities": [
+            26.08,
+            36.42,
+            37.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "33.] See 1 Sam. xii. 3; and for similar avowals by Paul himself, 1 Cor. ix. 11, 12; 2 Cor. xi. 8, 9; xii. 13."
+        ],
+        "Albert Barnes": [
+            "I seek not yours, but you.",
+            "Deceivers often thus impose upon people for the purpose of amassing wealth; and one of the incidental but striking proofs of the truth of the Christian religion is here furnished in the appeal which the apostle Paul made to his hearers, that this had not been his motive.",
+            "The circumstances of the case, therefore, prove that the object of the apostle was not to amass wealth. And this fact is an important proof of the truth of the religion which he defended."
+        ],
+        "Marvin Vincent": [
+            "Raiment. Mentioned along with gold and silver because it formed a large part of the wealth of orientals.",
+            "They traded in costly garments, or kept them stored up for future use.",
+            "This fact accounts for the allusions to the destructive power of the moth."
+        ],
+        "John Calvin": [
+            "He did covet no man's goods; but did rather get his living with the work of his hands.\" ",
+            "No man can be a good minister of the word, but he must also contemn money.\" ",
+            "Those corrupt the word of God, to win the favor of men, who are altogether filthily given to get gain."
+        ],
+        "Philip Schaff": [
+            "I seek not yours, but you.",
+            "Rather than even receive gifts which would supply him with the necessaries of life, this scholar, teacher, and missionary would work for himself.",
+            "'But thou, O man of God, flee these things.' Be thou above coveting these dangerous, soul-destroying riches."
+        ],
+        "Archibald T. Robertson": [
+            "No man's silver or gold or apparel... Paul did not preach just for money.",
+            "One of the slanders against Paul was that he was raising this collection, ostensibly for the poor, really for himself.",
+            "He includes 'apparel' because oriental wealth consisted largely in fine apparel."
+        ],
+        "John Gill": [
+            "I have coveted no man's silver, or gold, or apparel.\" ",
+            "Not merely in vindication of himself, and his character, from all charge or suspicion of avarice; but chiefly for the instruction of these elders, and all others of the same office, not to indulge the sin of covetousness.",
+            "To point out the character of false teachers that would come in, or spring up among them, who would make merchandise of them."
+        ],
+        "John Wesley": [
+            "I have coveted \u2014 Here the apostle begins the other branch of his farewell discourse, like old Samuel, 1 Samuel 12:3, taking his leave of the children of Israel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 20:33, Paul emphasizes that he did not preach for the sake of money or material possessions. This was a common slander against him, but Paul declares that he sought not the wealth of others but their salvation. He was not motivated by personal gain, unlike false teachers who corrupted the word of God to win favor and acquire wealth. Paul's aversion to covetousness and his willingness to support himself through manual labor demonstrate his commitment to the genuine preaching of the Gospel, urging all ministers to shun the pursuit of earthly riches. His example serves as a powerful testament to the truth and integrity of his mission.",
+            "wordCount": 109,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.6989660528492112,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "commentatorTierSimilarities": [
+                29.61,
+                34.63,
+                35.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul emphasizes that he did not preach for material gain. He declares that he sought not the wealth of others but their salvation, unlike false teachers who corrupted the word of God to acquire riches. Paul's willingness to support himself through manual labor demonstrates his commitment to the genuine preaching of the Gospel. His example serves as a powerful testament to the truth and integrity of his mission and urges all ministers to shun the pursuit of earthly wealth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.6056071497325277,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.73,
+            "commentatorTierSimilarities": [
+                28.13,
+                34.45,
+                37.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's declaration in this verse highlights his pure intentions in preaching the Gospel. He emphasizes that he did not seek wealth or material possessions, in contrast to false teachers who corrupted God's word for personal gain. Paul's willingness to support himself through labor is a testament to his commitment to the authenticity of his ministry. His example serves as a powerful reminder for all ministers to avoid the allure of earthly riches and prioritize spreading the truth of the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5737442612743755,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                29.17,
+                35.24,
+                35.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's emphasis on not pursuing personal gain in preaching showcases his dedication to the sincerity of his mission. He clearly states that he did not seek material wealth, in contrast to false teachers who manipulated the word of God for their own financial gain. Paul's choice to support himself through manual labor serves as a powerful demonstration of his commitment to authentic ministry. He sets an example for all ministers, urging them to prioritize the proclamation of the Gospel over the pursuit of earthly riches.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5246918874494177,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.04,
+            "commentatorTierSimilarities": [
+                26.08,
+                36.42,
+                37.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul unequivocally declares that his motivation in preaching was not rooted in acquiring wealth or material possessions. False teachers, however, sought personal gain by distorting the word of God. Paul's willingness to support himself through labor is a testament to his unwavering commitment to authentic ministry. His example serves as a potent reminder to ministers to avoid the allure of earthly riches and prioritize the genuine proclamation of the Gospel. This unequivocal stand underscores the integrity and sincerity of his mission.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.4953961583984507,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.06,
+            "commentatorTierSimilarities": [
+                28.38,
+                36.91,
+                34.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:23:18",
+    "verseRef": "Luke 22:51",
+    "bestBHT": {
+        "bht": "During the moment Jesus is being held, He speaks the words Suffer ye thus far, possibly implying permission to touch the wounded person's ear. The accuracy of the narrative is strengthened by the absence of the initial laying hold of Jesus in Luke, but mentioned in Matthew and Mark. Only Luke documents this remarkable surgical miracle, revealing Jesus' compassion and underscoring the importance of practicing goodness towards adversaries. Whether Jesus picks up the ear remains uncertain, as His ability to heal transcends physical restoration. This incident serves as a reminder to endure violence for the sake of Christ.",
+        "wordCount": 99,
+        "quoteTokenProportion": 28.38,
+        "qualityScore": 1.6780415811971645,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+        "commentatorTierSimilarities": [
+            44.38,
+            27.98,
+            27.63
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Suffer ye thus far I understand as addressed [...] to those who were holding Him;\u2014His hands were held,\u2014and He says, Suffer, permit me, thus far: i.e. to touch the ear of the wounded person.\" ",
+            "If this interpretation be correct, it furnishes an additional token of the truthfulness of our narrative; for the previous laying hold of Jesus has not been mentioned here, but in Matthew (ver. 50) and Mark (ver. 46).",
+            "His hands were held,\u2014and He says, Suffer, permit me, thus far: i.e. to touch the ear of the wounded person."
+        ],
+        "Marvin Vincent": [
+            "Suffer ye thus far... permit them to go so far as to seize me.\" ",
+            "The expression thus corresponds with Matthew 26:52.",
+            "Healed. Only Luke records the healing."
+        ],
+        "John Calvin": [
+            "By his foolish zeal Peter had brought grievous reproach on his Master and his doctrine.",
+            "There can be no doubt, that this was a contrivance by which Satan attempted to involve the Gospel in eternal disgrace.",
+            "Such is the spirit of giddiness by which Satan maddens the reprobate, when the Lord has given them over to blindness."
+        ],
+        "Philip Schaff": [
+            "Suffer ye thus far. Probably addressed to the disciples: Let them go on and fulfil this their design of taking me.\" ",
+            "Ft is a mild reproof of the hasty use of the sword, and thus agrees with Matthew 26:52; John 18:11.",
+            "The first seems more in keeping with the occasion, representing our Lord as making good the loss occasioned by the hasty zeal of Peter."
+        ],
+        "Archibald T. Robertson": [
+            "If addressed to Peter and the other disciples it means that they are to suffer this much of violence against Jesus. This is probably the idea.",
+            "Whether Jesus picked up the piece of the ear and put it back is not said. He could have healed the wound without that.",
+            "This miracle of surgery is given alone by Luke."
+        ],
+        "John Gill": [
+            "suffer ye thus far; or to them both, to Peter to stop his hand, to proceed no further, but put up his sword",
+            "he went to the wounded man, and he touched his ear and healed him",
+            "also his great humanity, by which example be confirmed his precept of doing good to enemies"
+        ],
+        "John Wesley": [
+            "Suffer me at least to have my hands at liberty thus far, while I do one more act of mercy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, surrounded by those who held Him, utters the words Suffer ye thus far. This may indicate His request to touch the ear of the wounded person, showcasing His power to heal. The accuracy of this account is seen as it aligns with Matthew and Mark's mention of Jesus being seized prior to this incident. It is noteworthy that only Luke records this healing miracle. The interpretation that Jesus is addressing His disciples suggests that they are to suffer this much violence against Him. Whether or not Jesus picks up the piece of the ear is not mentioned, as He has the ability to heal without physically restoring it. This act demonstrates Jesus' compassion as He fulfills His command to do good to enemies.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 1.7208496257603074,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                43.5,
+                27.95,
+                28.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, held by those around Him, speaks the words Suffer ye thus far as if to permit Him to touch the wounded person's ear. This adds credibility to the narrative by omitting the previous mention of Jesus being seized here in Luke but including it in Matthew and Mark. Only Luke records this unique healing miracle, and it is suggested that Jesus may be instructing His disciples to endure this level of violence against Him. It is not explicitly stated whether Jesus picks up the ear or not, emphasizing His ability to heal without physical restoration. His act of healing illustrates His compassion and emphasizes the importance of doing good to one's enemies.",
+            "wordCount": 115,
+            "quoteTokenProportion": 38.75,
+            "qualityScore": 1.8081396579173021,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                42.89,
+                29.31,
+                27.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Surrounded by those who held Him, Jesus says, Suffer ye thus far, possibly allowing Him to touch the injured person's ear. The accuracy of this account is confirmed by the mention of Jesus being seized in Matthew and Mark. Luke alone records this remarkable healing miracle, highlighting Jesus' compassion and the importance of acting kindly towards enemies. It remains unclear whether He picks up the ear, as His ability to heal surpasses physical restoration. This event serves as a reminder to endure violence for His sake.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6109984698868374,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.91,
+            "commentatorTierSimilarities": [
+                44.46,
+                26.69,
+                28.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the moment Jesus is being held, He speaks the words Suffer ye thus far, possibly implying permission to touch the wounded person's ear. The accuracy of the narrative is strengthened by the absence of the initial laying hold of Jesus in Luke, but mentioned in Matthew and Mark. Only Luke documents this remarkable surgical miracle, revealing Jesus' compassion and underscoring the importance of practicing goodness towards adversaries. Whether Jesus picks up the ear remains uncertain, as His ability to heal transcends physical restoration. This incident serves as a reminder to endure violence for the sake of Christ.",
+            "wordCount": 99,
+            "quoteTokenProportion": 28.38,
+            "qualityScore": 1.6780415811971645,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "commentatorTierSimilarities": [
+                44.38,
+                27.98,
+                27.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, held by those around Him, says, Suffer ye thus far, perhaps granting Himself permission to touch the wounded person's ear. This omission of the previous holding of Jesus in Luke but inclusion in Matthew and Mark adds credibility to the narrative. Luke is the only Gospel that records this miraculous act of healing. It is suggested that Jesus is instructing His disciples to endure this level of violence against Him. Whether He physically picks up the ear is unspecified, as He can heal without that action. This act affirms Jesus' command to do good to enemies.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.6771078196873346,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                44.12,
+                26.3,
+                29.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

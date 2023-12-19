@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:13:34",
+    "verseRef": "Galatians 2:10",
+    "bestBHT": {
+        "bht": "Paul's consistent and eager commitment to remember the poor, specifically the distressed Jewish Christians in Judea, was manifest in his habitual actions. This act of benevolence not only demonstrated Paul's zeal for good works, but also emphasized the contrast between his loving spirit and the hostility exhibited by those promoting Judaizing beliefs. By actively caring for the material needs of fellow believers, especially the poor, Paul sought to foster unity and gratitude within the church, highlighting the connection between Gentile and Jewish Christians as recipients of the gospel.",
+        "wordCount": 90,
+        "quoteTokenProportion": 27.69,
+        "qualityScore": 2.0856803923368767,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+        "commentatorTierSimilarities": [
+            21.3,
+            42.86,
+            35.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "which very thing I was also forward to do,\u2014viz., then and always: it was my habit.",
+            "He uses the singular, because the plural could not correctly be predicated of the whole time to which the verb refers.",
+            "The proofs of this forwardness on his part may be found, Rom. xv. 15\u201327; 1 Cor. xvi. 1\u20134; 2 Cor. viii. ix.; Acts xxiv. 17: which, though they probably happened after the date of our Epistle, yet shew the bent of his habitual wishes on this point."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "remember the poor\u2014of the Jewish Christians in Judea, then distressed.",
+            "the same\u2014the very thing.",
+            "Paul was zealous for good works, while denying justification by them."
+        ],
+        "Albert Barnes": [
+            "It might have been alleged that Paul was disposed to forget his own countrymen altogether; that he regarded himself as so entirely the apostle of the Gentiles that he would become wholly alienated from those who were his 'kinsmen according to the flesh.'",
+            "Nothing could be better adapted to allay this than for him to pledge himself to feel a deep interest in the poor saints among the Jewish converts; to remember them in his prayers; and to endeavor to secure contributions for their needs.",
+            "One of the proper ways of securing union in the church is to have the poor with them and depending on them for support; and hence, every church has some poor persons as one of the bonds of union."
+        ],
+        "Marvin Vincent": [
+            "Only. With only this stipulation.",
+            "We should remember [\u03bc\u03bd\u03b7\u03bc\u03bf\u03bd\u03b5\u03c5\u03c9\u03bc\u03b5\u03bd]. The only instance in N. T. of this verb in the sense of beneficent care.",
+            "The expression is peculiarly emphatic, and brings out the contrast between Judaising hostility and Paul's spirit of loving zeal."
+        ],
+        "John Calvin": [
+            "That we should remember the poor.\" ",
+            "It is evident that the brethren who were in Judea labored under extreme poverty.",
+            "It was proper that they should receive assistance from the Gentiles, who owed to them the inestimable benefit of the gospel."
+        ],
+        "Philip Schaff": [
+            "Charity should thus not only afford temporal relief to the needy, but be a moral bond of union also between the Jewish and the Gentile Christians and furnish a proof of the gratitude of the latter for the unspeakable gift of the gospel which they received from the former.",
+            "The exercise of Christian liberality and benevolence for the poor, for missions and all the general operations of the Church, is as much a duty and ought to be as steady a habit, as prayer, or any other exercise of piety.",
+            "If pure Christianity is to be revived in Bible Lands it must be done by the faith and the money of the Churches of Europe and America."
+        ],
+        "Archibald T. Robertson": [
+            "One item was emphasized.",
+            "That we should keep on remembering.",
+            "It was complete victory for Paul and Barnabas."
+        ],
+        "John Gill": [
+            "Only they would that we should remember the poor,.... Not in a spiritual sense, as some have thought, though these the apostle was greatly mindful of; but properly and literally the poor as to the things of this world.\" ",
+            "the \"remembering\" of them not only intends giving them actual assistance according to their abilities, which was very small, but mentioning their case to the several Gentile churches, and stirring them up to a liberal contribution.",
+            "it was a clear case that there was an entire agreement between them, in principle and practice, and that he did not receive his Gospel from them."
+        ],
+        "John Wesley": [
+            "Of the poor \u2014 The poor Christians in Judea, who had lost all they had for Christ's sake."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul was eager and consistent in his commitment to remember the poor, specifically the Jewish Christians in Judea who were struggling. This wasn't a temporary or occasional act of kindness, but a constant habit of Paul's. He emphasized the importance of this by using the singular form of the verb, indicating that his forwardness was consistent throughout. This act of remembering the poor was not simply a demonstration of charity, but also a way to foster unity and gratitude within the church. It served as a reminder that the Gentile Christians were indebted to the Jewish Christians for bringing them the gospel. By actively caring for the material needs of their fellow believers, the Gentiles could show their gratitude and strengthen the bonds of unity in the church.",
+            "wordCount": 130,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 1.904847185917863,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                21.15,
+                39.34,
+                39.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's consistent and eager commitment to remember the poor, specifically the distressed Jewish Christians in Judea, was manifest in his habitual actions. This act of benevolence not only demonstrated Paul's zeal for good works, but also emphasized the contrast between his loving spirit and the hostility exhibited by those promoting Judaizing beliefs. By actively caring for the material needs of fellow believers, especially the poor, Paul sought to foster unity and gratitude within the church, highlighting the connection between Gentile and Jewish Christians as recipients of the gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 2.0856803923368767,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                21.3,
+                42.86,
+                35.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's unwavering commitment to remember the poor, specifically the distressed Jewish Christians in Judea, was reflected in his consistent forwardness and habit of seeking their welfare. By doing so, he demonstrated his zealousness for good works while firmly denying that justification comes through them. This act of charitable care not only displayed Paul's loving zeal, but also served as a reminder of the bond between Gentile and Jewish believers, and the importance of expressing gratitude for the gospel received. It was an expression of unity and a complete victory for Paul and Barnabas.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.9162098505121468,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                25.25,
+                38.6,
+                36.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's habitual and eager commitment to remember the poor, specifically the distressed Jewish Christians in Judea, showcased his zealousness for good works while denying justification by them. This act of loving zeal emphasized the stark contrast between the Judaising hostility and Paul's spirit. By actively caring for the material needs of their fellow believers, the Gentile Christians could express gratitude for the gospel received from the Jewish Christians, fostering unity in the church. For Paul and Barnabas, it was a resounding victory.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.9361441868165206,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.72,
+            "commentatorTierSimilarities": [
+                25.54,
+                38.48,
+                35.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's consistent and fervent dedication to remember the poor, particularly the distressed Jewish Christians in Judea, revealed his strong commitment to good works while affirming that justification does not come through them. This act of benevolence accentuated the stark contrast between the hostility of the Judaizers and Paul's loving zeal. By actively supporting their material needs, the Gentile Christians demonstrated gratitude for the gospel received from the Jewish Christians and forged a sense of unity within the church. The outcome was a decisive triumph for Paul and Barnabas.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.858738665044621,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                24.22,
+                39.25,
+                36.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

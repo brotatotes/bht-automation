@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:30:15",
+    "verseRef": "2 Timothy 2:13",
+    "bestBHT": {
+        "bht": "Even if we are faithless or unbelieving, Christ remains faithful and true to His nature and word. God cannot be unfaithful or deny Himself. Our lack of faith does not change His faithfulness or the certainty of His promises. He remains committed to His covenant engagements and will bring believers to glory. Our salvation does not depend on our acts of believing or our own faithfulness, but on the unwavering and unchanging faithfulness of Christ.",
+        "wordCount": 75,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 2.246011332130057,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.02,
+        "commentatorTierSimilarities": [
+            32.83,
+            33.21,
+            33.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "If we are unbelievers (literally, 'unfaithful'), He remains faithful.\" ",
+            "He cannot be unfaithful to His word that He will deny those who deny Him, though we be not faithful to our profession of faith in Him.\" ",
+            "Three things are impossible to God, to die, to lie, and to be deceived."
+        ],
+        "Albert Barnes": [
+            "If we are unbelieving and unfaithful, Christ will remain true to his word, and we cannot hope to be saved.",
+            "It would be a denial of his very nature to save those who are unfaithful.",
+            "The electing purpose of God, indeed, makes salvation sure; but it is only for those who lead righteous lives."
+        ],
+        "Marvin Vincent": [
+            "If we believe not...are faithless or untrue to him.",
+            "True to his own nature, righteous character, and requirements.",
+            "To do this would be to deny himself."
+        ],
+        "John Calvin": [
+            "Let them desert Christ who will, yet they take nothing from him; for when they perish, he remaineth unchanged.",
+            "Christ is not like us, to swerve from his truth.",
+            "Our faith is founded on the eternal and unchangeable truth of Christ, in order that it may not waver through the unsteadfastness or apostasy of men."
+        ],
+        "Philip Schaff": [
+            "If we lose our faith. He still remains faithful.",
+            "We may turn a deaf ear to them, refuse to believe them, but they will be found true at last.",
+            "The faithfulness of Christ is pledged to the words of judgment as well as those of promise."
+        ],
+        "John Gill": [
+            "This unbelief of theirs will not make void his faith or faithfulness.\" ",
+            "Christ is faithful to all his covenant engagements for them, to bring them to glory, and to every word of promise concerning their happiness.\" ",
+            "His salvation is an everlasting and unchangeable one; nor do the saints' interest in it, and security by it, depend upon their acts of believing, or their frames, but upon the firmness and unchangeableness of Christ, the object of faith."
+        ],
+        "John Wesley": [
+            "If we believe not \u2014 That is, though some believe not, God will make good all his promises to them that do believe.",
+            "He cannot deny himself \u2014 His word cannot fail."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even if we are unbelievers or unfaithful, Christ remains faithful because it is impossible for Him to be unfaithful to His word or deny Himself. Our lack of faith or unfaithfulness does not change His nature or His righteous character. He is true to His own nature, requirements, and promises. It would go against His very nature to save those who are unfaithful or untrue to Him. Even if we deny Him or are faithless, He will not deny Himself or His faithfulness to His covenant engagements for us. His salvation is everlasting and unchangeable, and our security in it does not depend on our acts of believing or our frames, but on the firmness and unchangeableness of Christ.",
+            "wordCount": 119,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 2.295579168403023,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.67,
+            "commentatorTierSimilarities": [
+                35.41,
+                32.18,
+                32.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even if we are unbelievers or unfaithful, Christ remains faithful to His word and His own nature. It is impossible for Him to be unfaithful, lie, or be deceived. Our lack of faith or faithlessness does not affect His unwavering commitment to His promises and the requirements of righteousness. He cannot deny Himself or His covenant engagements for us. Our security in His salvation does not rely on our acts of believing, but on His unchangeable character and the firmness of His promises.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.204673105110838,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.65,
+            "commentatorTierSimilarities": [
+                35.3,
+                30.57,
+                34.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even if we are faithless or unbelieving, Christ remains faithful and true to His nature and word. God cannot be unfaithful or deny Himself. Our lack of faith does not change His faithfulness or the certainty of His promises. He remains committed to His covenant engagements and will bring believers to glory. Our salvation does not depend on our acts of believing or our own faithfulness, but on the unwavering and unchanging faithfulness of Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.246011332130057,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.02,
+            "commentatorTierSimilarities": [
+                32.83,
+                33.21,
+                33.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even if we are unbelievers or unfaithful, Christ remains faithful to His word and His own nature. It is impossible for Him to be unfaithful, lie, or be deceived. Our lack of faith or faithlessness does not affect His unwavering commitment to His promises and the requirements of righteousness. He cannot deny Himself or His covenant engagements for us. Our security in His salvation does not rely on our acts of believing, but on His unchangeable character and the firmness of His promises.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.204673105110838,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.65,
+            "commentatorTierSimilarities": [
+                35.3,
+                30.57,
+                34.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite our unbelief or faithlessness, Christ remains faithful to His word and true to His nature. He cannot be unfaithful, lie, or be deceived. Our lack of faith does not alter His unwavering commitment and righteousness. He will not deny Himself or His covenant engagements. Our security in everlasting salvation does not depend on our acts of belief, but on Christ's unchanging character and the firmness of His promises. He remains faithful, even when we are not.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.1200481698987286,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.83,
+            "commentatorTierSimilarities": [
+                34.62,
+                31.72,
+                33.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

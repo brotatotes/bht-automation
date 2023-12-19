@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:00:15",
+    "verseRef": "1 Corinthians 1:7",
+    "bestBHT": {
+        "bht": "The Corinthians were advised not to fall behind in any gift of grace and eagerly expect the revealing of Jesus Christ. It was important for them to eagerly anticipate His coming, which would be a demonstration of their not lacking in any spiritual blessing. While concerns arose about the Corinthians being inferior in certain gifts, they were encouraged to maintain an earnest desire for the second coming of Christ, similar to the longing for His appearance in 2 Timothy 4:8.",
+        "wordCount": 78,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 2.2345261230852502,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.64,
+        "commentatorTierSimilarities": [
+            27.85,
+            31.25,
+            40.91
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "so that ye come not behind (others) in any gift [of grace];\u2014gift [of grace] here has its widest sense, of that which is the effect of grace,\u2014not meaning \u2018spiritual gifts,\u2019 in the narrower sense, as in ch. xii. 4.",
+            "waiting for the revealing of our Lord Jesus Christ] which is the greatest proof of maturity and richness of the spiritual life; implying the coexist-ence and co-operation of faith, whereby they believed the promise of Christ,\u2014hope, whereby they looked on to its fulfillment,\u2014and love, whereby that anticipation was lit up with earnest desire.",
+            "compare the words, \u201cto all them that love His appear-ing,\u201d 2 Tim. iv. 8."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ye come behind\u2014are inferior to other Christians elsewhere.",
+            "in no gift\u2014not that all had all gifts, but different persons among them had different gifts.",
+            "waiting for . . . coming of . . . Christ\u2014The crowning proof of their 'coming behind in no gift.'"
+        ],
+        "Albert Barnes": [
+            "Ye come behind - \u03c5\u0314\u03c3\u03c4\u03b5\u03c1\u03b5\u03b9\u0342\u03c3\u03b8\u03b1\u03b9 hustereisthai. You are not missing, or deficient... that they abounded in everything.",
+            "In no gift - In no favor, or gracious endowment... that they possessed, in rich abundance, all those endowments which were bestowed on Christians.",
+            "Waiting for - Expecting, or looking for this coming with glad and anxious desire... an evidence of a high state of piety."
+        ],
+        "Marvin Vincent": [
+            "Contrast with were enriched.",
+            "Here of spiritual blessings generally.",
+            "Denoting assiduous waiting."
+        ],
+        "John Calvin": [
+            "The Lord has not merely honored you with the light of the gospel, but has eminently endowed you with all those graces that may be of service to the saints for helping them forward in the way of salvation.",
+            "The saints are never in such abundance as not to feel in want of graces to some extent, so that they must always of necessity be 'hungering and thirsting.'",
+            "So that ye are in want of no gift in the meantime while you are waiting for the day of perfected revelation, by which Christ our wisdom will be fully manifested."
+        ],
+        "Philip Schaff": [
+            "The faith of His first coming, to put away sin by the sacrifice of Himself, and the hope of His second appearing without sin unto salvation to them that look for Him.",
+            "These were the two wings on which Christians were taught to mount up as eagles in their spiritual life.",
+            "Christians were taught to mount up as eagles in their spiritual life."
+        ],
+        "Archibald T. Robertson": [
+            "Come behind (\u03c5\u03c3\u03c4\u03b5\u03c1\u03b5\u03b9\u03c3\u03b8\u03b1) is to be late (\u03c5\u03c3\u03c4\u03b5\u03c1\u03bf\u03c2), old verb seen already in Mark 10:21; Matthew 19:20. It is a wonderful record here recorded.\" ",
+            "But in 2 Corinthians 8:7-11; 2 Corinthians 9:1-7 Paul will have to complain that they have not paid their pledges for the collection, pledges made over a year before, a very modern complaint.",
+            "It is an eager expectancy of the second coming of Christ here termed revelation like the eagerness in \u03c0\u03c1\u03bf\u03c3\u03b4\u03b5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf in Titus 2:13 for the same event."
+        ],
+        "John Gill": [
+            "So that ye come behind in no gift,.... Ordinary or extraordinary; a detail of the gifts which were bestowed on them is made in 1 Corinthians 12:8; by which it appears that they were not inferior in gifts to any of the churches.",
+            "waiting for the coming; or 'the revelation' of our Lord Jesus Christ; who will appear a second time, come in great glory, will raise the dead, and judge both quick and dead; when gifts will cease and be of no more use, and when they must all be accounted for.",
+            "and therefore, till that time comes, should be diligently made use of, and improved to the interest and service of Christ; who will surely come again, and call his servants and churches to an account for the talents he has intrusted them with; and whose coming is to be believed, loved, looked, and hoped for by all, that love him in sincerity and truth."
+        ],
+        "John Wesley": [
+            "Waiting \u2014 With earnest desire. For the glorious revelation of our Lord Jesus Christ - A sure mark of a true or false Christian, to long for, or dread, this revelation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians were reminded to eagerly anticipate the revealing of their Lord Jesus Christ as evidence of their spiritual maturity and depth of faith. They were encouraged to cultivate a rich spiritual life characterized by the coexistence and co-operation of faith, hope, and love. However, there were concerns that the Corinthians were lagging behind in their spiritual gifts compared to other believers, although it did not imply that everyone had the same gifts. Nevertheless, the Corinthians were urged to continue waiting in anticipation for the coming of Christ, which would be the ultimate proof of their lacking in no spiritual gift. This eagerness for Christ's second coming was likened to the intense longing depicted in the desire for His appearance in 2 Timothy 4:8.",
+            "wordCount": 124,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.033188880495131,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                29.24,
+                32.32,
+                38.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians were encouraged not to fall behind in any gift of grace, indicating the wide range of blessings bestowed upon them. They were urged to eagerly await the revealing of Christ, a sign of their spiritual maturity and expectation. However, there were concerns that they were inferior to other Christians elsewhere and lacking in certain gifts. Yet, they were called to eagerly anticipate the coming of Christ, which would be the ultimate proof of their not lacking in any spiritual blessing.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.1761973458579718,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.7,
+            "commentatorTierSimilarities": [
+                28.27,
+                34.75,
+                36.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians were reminded not to be deficient in any spiritual gift and to eagerly await the revealing of their Lord Jesus Christ. The Corinthians were urged to cultivate a rich spiritual life characterized by faith, hope, and love. Though there were concerns that they were inferior to other believers elsewhere, the Corinthians were encouraged to eagerly anticipate the coming of Christ, which would be the ultimate proof of their spiritual maturity. This longing for Christ's second coming was compared to the intense desire for His appearance in 2 Timothy 4:8.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1452734393859787,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.67,
+            "commentatorTierSimilarities": [
+                26.95,
+                32.9,
+                40.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians were advised not to fall behind in any gift of grace and eagerly expect the revealing of Jesus Christ. It was important for them to eagerly anticipate His coming, which would be a demonstration of their not lacking in any spiritual blessing. While concerns arose about the Corinthians being inferior in certain gifts, they were encouraged to maintain an earnest desire for the second coming of Christ, similar to the longing for His appearance in 2 Timothy 4:8.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.2345261230852502,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.64,
+            "commentatorTierSimilarities": [
+                27.85,
+                31.25,
+                40.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians were urged not to be deficient in any spiritual gift, eagerly awaiting the revealing of Jesus Christ. Though there were concerns that they were inferior to other believers, they were encouraged to eagerly anticipate Christ's coming, the ultimate proof of their not lacking in any spiritual blessing. This eager expectation of His second coming was likened to the intense desire for His appearance expressed in 2 Timothy 4:8.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.146378807462511,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+            "commentatorTierSimilarities": [
+                28.43,
+                31.25,
+                40.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

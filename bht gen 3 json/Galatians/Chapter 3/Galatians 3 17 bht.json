@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:18:23",
+    "verseRef": "Galatians 3:17",
+    "bestBHT": {
+        "bht": "The promise made to Abraham, confirmed by God, remains unaffected by the Law given four hundred and thirty years later. The duration between the promise and the Law serves to emphasize the authority of the promise. The promise is based on grace and faith, while the Law operates on works. In Christ, the promise for all nations persists, regardless of the Law. The Law cannot nullify or limit the promise, which extends to both Jews and Gentiles.",
+        "wordCount": 77,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 2.2700970380403214,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.82,
+        "commentatorTierSimilarities": [
+            24.9,
+            37.14,
+            37.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The covenant which was previously ratified by God, the Law, which took place four hundred and thirty years after, does not abrogate, as to do away the promise.",
+            "But in the Septuagint version (and Samaritan Pentateuch) we read, Exod. xii. 40, 'The sojourning of the children of Israel which they sojourned in the land of Egypt, and in the land of Canaan, they and their fathers, was four hundred and thirty years.'",
+            "Thus it will appear that the Septuagint, Samaritan Pentateuch, and St. Paul, have the right chronology."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is what I mean, by what I said.",
+            "The dispensation of the promise began with the call of Abraham.",
+            "The promise would become [nullified], if the power of conferring the inheritance be transferred from it to the law."
+        ],
+        "Albert Barnes": [
+            "The covenant which was confirmed before of God - By God, in his promise to Abraham. It was confirmed before the giving of the Law.",
+            "The promise to Abraham was of the nature of a compact. But no law given by one of the parties to a treaty or compact can disannul it.",
+            "Two men make a contract with solemn pledges and promises. No act of one of the parties can change that, or alter the conditions."
+        ],
+        "Marvin Vincent": [
+            "Now I mean this. Not strictly the conclusion from vv. 15, 16, since Paul does not use this phrase in drawing a conclusion.",
+            "It is rather the application, for which the way was prepared in verse 16, of the analogy of verse 15 to the inviolable stability of God 's covenant.",
+            "The greatness of the interval increases the authority of the promise."
+        ],
+        "John Calvin": [
+            "A promise was given to Abraham four hundred and thirty years before the publication of the law; therefore the law which came after could not disannul the promise.",
+            "If you do not understand that the promise is free, there will be no force in the statement; for the law and the promise are not at variance but on this single point, that the law justifies a man by the merit of works, and the promise bestows righteousness freely.",
+            "He tells us that God made two covenants with men; one through Abraham, and another through Moses. The former, being founded on Christ, was free; and therefore the law, which came after, could not enable men to obtain salvation otherwise than by grace, for then, 'it would make the promise of none effect.'"
+        ],
+        "Philip Schaff": [
+            "The law is only an intervening link between the promise and its fulfilment.",
+            "The older an agreement the stronger is its authority.",
+            "The Hebrew text would strengthen the argument."
+        ],
+        "Archibald T. Robertson": [
+            "Now I mean this.",
+            "The point is in \u03c0\u03c1\u03bf and \u03c5\u03c0\u03bf \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5 (by God) and in \u03bc\u03b5\u03c4\u03b1 (after) as Burton shows.",
+            "The longer the covenant had been in force the more impressive is his statement."
+        ],
+        "John Gill": [
+            "The covenant that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul.",
+            "This is said to be 'in Christ', with respect to Christ.",
+            "The law, which was so long after the confirming of the covenant to Abraham, could not make it null and void."
+        ],
+        "John Wesley": [
+            "The covenant which was before confirmed of God...concerning the blessing all nations.\" ",
+            "Through Christ, the law...Doth not disannul, so as to make the promise of no effect.",
+            "With regard to all nations, if only the Jewish were to receive it; yea, with regard to them also, if it was by works, so as to supersede it, and introduce another way of obtaining the blessing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The covenant of the Law, which came after the promise given to Abraham, does not nullify or eliminate that promise. The confirmation of this can be found in the Septuagint version, which aligns with Paul's references to the four hundred and thirty years. The duration of time between the promise to Abraham and the giving of the Law only serves to emphasize the authority and stability of the promise. The Law, while serving as an intervening link, does not have the power to alter or annul the covenant made with Abraham. This distinction is crucial because the promise is based on grace and faith, whereas the Law operates on the merit of works. In Christ, the fulfillment of the promise is secured, and the Law does not render it ineffective. The covenant made with Abraham encompasses the blessing for all nations, and the Law cannot supersede or replace it, nor can it limit it solely to the Jewish people.",
+            "wordCount": 160,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 2.2343990251601786,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.63,
+            "commentatorTierSimilarities": [
+                25.77,
+                35.76,
+                38.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The covenant made with Abraham, confirmed by God, predates and is not invalidated by the Law given four hundred and thirty years later. The duration between the promise and the Law underscores the authority of the promise. The promise is based on grace and faith, in contrast to the Law's reliance on works. In Christ, the promise for all nations remains intact, unaffected by the Law. The Law cannot override or restrict the scope of the promise, encompassing both Jews and Gentiles.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.211484797154843,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+            "commentatorTierSimilarities": [
+                24.43,
+                37.13,
+                38.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The promise made to Abraham, confirmed by God, remains unaffected by the Law given four hundred and thirty years later. The duration between the promise and the Law serves to emphasize the authority of the promise. The promise is based on grace and faith, while the Law operates on works. In Christ, the promise for all nations persists, regardless of the Law. The Law cannot nullify or limit the promise, which extends to both Jews and Gentiles.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.2700970380403214,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.82,
+            "commentatorTierSimilarities": [
+                24.9,
+                37.14,
+                37.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The covenant ratified by God with Abraham, which predates the Law given four hundred and thirty years later, remains unaffected by it. The longer the covenant was in force, the more profound its impact. While the Law operates on works, the promise is based on grace and faith. In Christ, the promise for all nations stands firm, unaffected by the Law. The Law cannot invalidate or diminish the scope of the promise, which extends to both Jews and Gentiles.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.1153060804232555,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.67,
+            "commentatorTierSimilarities": [
+                25.37,
+                34.64,
+                39.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The promise given to Abraham, confirmed by God, is not nullified by the Law enforced four hundred and thirty years later. The great interval between the promise and the Law intensifies the authority of the promise. The promise is founded on grace and faith, whereas the Law operates on the basis of works. In Christ, the promise for all nations remains unaffected by the Law. The Law cannot render the promise ineffective, nor restrict it exclusively to the Jews.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.265150384245353,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.66,
+            "commentatorTierSimilarities": [
+                24.9,
+                36.67,
+                38.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:15:44",
+    "verseRef": "Luke 6:25",
+    "bestBHT": {
+        "bht": "The present and future are contrasted in this teaching. Those who are filled with confidence in earthly blessings while rejecting heavenly ones will experience hunger and emptiness. On the other hand, those who indulge in temporary and worldly pleasures will eventually mourn and weep in darkness. This serves as a sober reminder that those who pursue temporary gratification will find themselves lacking true satisfaction, while those who prioritize the eternal treasures of God's kingdom will experience everlasting joy and fulfillment.",
+        "wordCount": 81,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 1.587325359755245,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.12,
+        "commentatorTierSimilarities": [
+            51.26,
+            0.0,
+            48.74
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Mourn and weep [\u03c0\u03b5\u03bd\u03b8\u03b7\u03c3\u03b5\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03ba\u03bb\u03b1\u03c5\u03c3\u03b5\u03c4\u03b5] . See on Matthew 5:4."
+        ],
+        "John Calvin": [
+            "Woe to you who are filled.\" ",
+            "Because they are lifted up by confidence in the blessings of the present life, and reject those blessings which are of a heavenly nature.",
+            "By those who laugh he means those who have given themselves up to Epicurean mirth, who are plunged in carnal pleasures, and spurn every kind of trouble which would be found necessary for maintaining the glory of God."
+        ],
+        "Archibald T. Robertson": [
+            "The joys and sorrows in these two verses are turned round, measure for measure reversed.",
+            "The Rich Man and Lazarus (Luke 16:19-31) illustrate these contrasts in the present and the future."
+        ],
+        "John Gill": [
+            "for ye shall hunger; not that they shall truly and spiritually desire an interest in Christ, and his righteousness, or heaven and eternal life hereafter; but they shall be in starving and famishing circumstances.",
+            "and whilst the saints are feeding upon the joys and glories of the other world, compared to a banquet, they shall be without, and have no share in these things.",
+            "for ye shall mourn and weep; shall be cast into outer darkness, where are weeping, waiting, and gnashing of teeth; and for all the fire they have kindled, and sparks they have encompassed themselves with, and danced in and about, this they shall have at the hand of God, they shall lie down in sorrow, and ever continue in it."
+        ],
+        "John Wesley": [
+            "Full \u2014 Of meat and drink, and worldly goods.",
+            "That laugh \u2014 That are of a light trifling spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, there is a stark contrast between the joys and sorrows, as well as the present and the future. Those who are filled with confidence in the blessings of the present life and reject heavenly blessings will experience hunger and lack. Similarly, those who indulge in carnal pleasures and reject the troubles necessary for God's glory will eventually mourn and weep in outer darkness. This verse serves as a warning that those who value earthly pleasures over spiritual treasures will ultimately be left empty and sorrowful, while those who seek God's kingdom will find true satisfaction and joy.",
+            "wordCount": 102,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.805044077963647,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                50.19,
+                0.0,
+                49.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, there is a reciprocal transformation between joy and sorrow, with the rich experiencing the sorrow of hunger while those who laugh in temporal pleasure will mourn in darkness. This serves as a cautionary reminder that those who prioritize earthly blessings will eventually be left devoid of true satisfaction, while those who seek the heavenly treasures of God's kingdom will find everlasting joy and fulfillment. There is an unyielding correlation between our choices in this life and the consequences that await us in the future.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5309883354267007,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+            "commentatorTierSimilarities": [
+                50.18,
+                0.0,
+                49.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The joys and sorrows described here are contrasted, illustrating a reciprocal reversal of circumstances. Those who are confident in the blessings of this world and reject heavenly blessings will eventually find themselves hungry and lacking. Similarly, those who indulge in earthly pleasures, devoid of spiritual understanding, will experience sorrow and weeping. This verse serves as a warning that those who prioritize temporal pleasures over the pursuit of God's kingdom will ultimately be left empty and sorrowful, while those who prioritize spiritual treasures will find true satisfaction and joy.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.6349442817484268,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+            "commentatorTierSimilarities": [
+                47.91,
+                0.0,
+                52.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The present and future are contrasted in this teaching. Those who are filled with confidence in earthly blessings while rejecting heavenly ones will experience hunger and emptiness. On the other hand, those who indulge in temporary and worldly pleasures will eventually mourn and weep in darkness. This serves as a sober reminder that those who pursue temporary gratification will find themselves lacking true satisfaction, while those who prioritize the eternal treasures of God's kingdom will experience everlasting joy and fulfillment.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.587325359755245,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.12,
+            "commentatorTierSimilarities": [
+                51.26,
+                0.0,
+                48.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This teaching portrays a stark contrast between the present and the future. Those who put their confidence in the blessings of this world while rejecting heavenly blessings will find themselves hungry and lacking. Similarly, those who indulge in earthly pleasures and avoid the difficulties needed for God's glory will ultimately mourn and weep in darkness. This verse reminds us that those who prioritize temporary pleasures over spiritual treasures will end up empty and sorrowful, whereas those who seek God's kingdom will find lasting satisfaction and joy.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5599620864495853,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.21,
+            "commentatorTierSimilarities": [
+                50.94,
+                0.0,
+                49.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:27:38",
+    "verseRef": "Acts 7:46",
+    "bestBHT": {
+        "bht": "David desired to build a permanent habitation for God as a favor, but this request was denied after initially being granted. The vow he made referred to finding a tabernacle in the Psalms. The prophets, including Amos, questioned the sincerity of the sacrifices offered to God, reminding the people that they were not offered with a willing heart. David's aspiration was not for a mere tent, but for a grand and lasting dwelling place. Eventually, God received a house when Solomon built it.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.7810210703274425,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.56,
+        "commentatorTierSimilarities": [
+            24.79,
+            37.32,
+            37.88
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "asked permission] See 2 Sam. vii. 2 ff., in which this request is made through Nathan the Prophet, and at first conceded by Nathan, though afterwards, on a revelation made from God, denied:\u2014not \u2018desired,\u2019 as A.V.\" ",
+            "The vow (a species of prayer) Kere referred to, is defined by the expression 'find a tabernacle,' to be that mentioned Ps. cxxxii."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As . . . written in the book of the prophets\u2014the twelve minor prophets, reckoned as one: the passage is from Amos 5:25.",
+            "Have ye offered to me . . . sacrifices?\u2014The answer is, Yes, but as if ye did it not.",
+            "Neither did ye offer to Me only, nor always, nor with a perfect and willing heart."
+        ],
+        "Albert Barnes": [
+            "Who found favour ... - God granted him great prosperity, and delivered him from his enemies.",
+            "To find a tabernacle - To prepare a permanent dwelling-place for the 'ark' and for the visible symbols of the divine presence.",
+            "David sought to build a house that would be permanent, where the ark might be deposited."
+        ],
+        "Marvin Vincent": [
+            "Desired: more correctly, asked.\" ",
+            "It was not a tabernacle or tent which David proposed to build, but a house.\" ",
+            "Rev., rightly, habitation."
+        ],
+        "Archibald T. Robertson": [
+            "Asked for himself (as a favour to himself)."
+        ],
+        "John Gill": [
+            "David, who had an interest in the free favour and love of God, was chosen of God, a man after his own heart, and raised up to do his will...\" ",
+            "David having a deep sense of the love of God to him, and the grace of God wrought in his heart, was exceeding desirous of finding a place for the building of an house, or fixed habitation for God...",
+            "David determines not to go to his house, nor up to his bed, nor give sleep, to his eyes, nor slumber to his eyelids, till he had found out a place for the habitation of the God of Jacob."
+        ],
+        "John Wesley": [
+            "God remained without any temple till Solomon built him a house.",
+            "Observe how wisely the word is chosen with respect to what follows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "David desired to build a permanent house for God, asking for permission as a favor. This request was initially granted, as seen in the Book of Samuel, but later denied by Nathan due to a revelation from God. The vow referenced here is linked to finding a tabernacle, as mentioned in the Psalms. The passage in the book of the prophets, taken from Amos, questions if sacrifices were truly offered to God with a sincere and willing heart. David's desire was not for a mere tent, but for a grand habitation. Although God had not yet dwelled in a fixed temple, it was not until Solomon's time that a house was finally built for Him.",
+            "wordCount": 117,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.7659802450627287,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.06,
+            "commentatorTierSimilarities": [
+                27.16,
+                34.6,
+                38.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "David sought permission from God to build a permanent house, or habita-tion, asking as a favor. Initially, Nathan granted this request, but it was later denied due to a revelation from God. The vow mentioned refers to finding a tabernacle as described in the Psalms. The prophets, specifically Amos, questioned the sincerity and willingness behind the sacrifices offered to God. David's desire was not for a simple tent, but for a grand and lasting dwelling place. Eventually, a house was built for God by Solomon.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.7573918492664289,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                25.35,
+                36.02,
+                38.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "David's desire to build a permanent dwelling place for God was initially granted, but later denied. The vow he made referred to finding a tabernacle as mentioned in the Psalms. The prophets, including Amos, questioned the sincerity of the sacrifices offered to God. David's intention was not for a simple tent, but for a grand habitation. Eventually, Solomon built a house for God.",
+            "wordCount": 65,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 1.764394048984172,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                24.44,
+                36.96,
+                38.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "David desired to build a permanent habitation for God as a favor, but this request was denied after initially being granted. The vow he made referred to finding a tabernacle in the Psalms. The prophets, including Amos, questioned the sincerity of the sacrifices offered to God, reminding the people that they were not offered with a willing heart. David's aspiration was not for a mere tent, but for a grand and lasting dwelling place. Eventually, God received a house when Solomon built it.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.7810210703274425,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.56,
+            "commentatorTierSimilarities": [
+                24.79,
+                37.32,
+                37.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "David sought permission to build a permanent dwelling for God as a favor, initially granted but later denied. The vow referred to finding a tabernacle as in the Psalms. The prophets questioned the sincerity of sacrifices, emphasizing the lack of a willing heart. David desired a grand and lasting habitation, not a simple tent. Eventually, Solomon built a house for God.",
+            "wordCount": 61,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.7108831822739874,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                23.98,
+                37.94,
+                38.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

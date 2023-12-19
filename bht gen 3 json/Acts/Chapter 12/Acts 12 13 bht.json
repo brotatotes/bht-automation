@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:30:05",
+    "verseRef": "Acts 12:13",
+    "bestBHT": {
+        "bht": "Amidst fervent prayers, a maid named Rhoda rushed to the door of the house to discern the identity of the voice she recognized. Her swift response and joyful haste indicated she was more than a menial servant\u2014she was a devoted disciple. God, who remembers the names of the lowly and forgets mighty conquerors, cherished Rhoda's name as a testimony to her faithfulness. As she stood at the threshold, listening intently, she exemplified the importance of distinguishing between friend and foe, as fear kept the door closed due to the persecution of the Jews.",
+        "wordCount": 95,
+        "quoteTokenProportion": 25.4,
+        "qualityScore": 1.450600001707473,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+        "commentatorTierSimilarities": [
+            32.88,
+            34.68,
+            32.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "13. came to hearken\u2014not to",
+            "\topen; for neither was it a time nor an hour of night for that, but to",
+            "\tlisten who was there."
+        ],
+        "Albert Barnes": [
+            "The house was entered through such a porch or vestibule, and it was the door opening into this which is here intended.\" ",
+            "A damsel - A girl.",
+            "Named Rhoda - This is a Greek name signifying a rose."
+        ],
+        "Marvin Vincent": [
+            "The narrative implies that she was more than a mere menial, if a servant at all.\" ",
+            "Her prompt recognition of Peter's voice, and her joyful haste, as well as the record of her name, indicate that she was one of the disciples gathered for prayer.",
+            "God, who leaves in oblivion names of mighty conquerors, treasures up that of a poor girl, for his church in all ages"
+        ],
+        "Philip Schaff": [
+            "Peter\u2019s knock startled and alarmed the anxious, troubled assembly. It suggested fresh arrests and new cares and anxieties.",
+            "The door was most probably that small outer door by which one entered through the large gate from the street into the court or area where the house was.",
+            "The names of plants and flowers were favourite names for the daughters of Israel. So Susannah signifies \u2018a lily,\u2019 Esther \u2018a myrtle,\u2019 Tamar \u2018a palm.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Genitive absolute with aorist active participle of \u03ba\u03c1\u03bf\u03c5\u03c9, common verb to knock or knock at. So from the outside (Luke 13:25).\" ",
+            "To answer (\u03c5\u03c0\u03b1\u03ba\u03bf\u03c5\u03c3\u03b1). To listen under before opening. First aorist active infinitive of \u03c5\u03c0\u03b1\u03ba\u03bf\u03c5\u03c9, common verb to obey, to hearken.",
+            "A maid (\u03c0\u03b1\u03b9\u03b4\u03b9\u03c3\u03ba\u03b7). Portress as in John 18:17. A diminutive of \u03c0\u03b1\u03b9\u03c2, a female slave (so on an ostracon of second century A.D., Deissmann, Light from the Ancient East, p. 200)."
+        ],
+        "John Gill": [
+            "The door was kept shut, for fear of the Jews, lest they should be disturbed.",
+            "She came out to the door, and listened, to try if she could know who it was, a friend or a foe, before she opened.",
+            "The Jewish women often had their names, in the Hebrew tongue, from flowers and trees."
+        ],
+        "John Wesley": [
+            "The gate \u2014 At some distance from the house; to hearken - If any knocked."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Amidst the fervent prayers of the disciples gathered in a house, a maid named Rhoda scrambled to the door, eager to discern the identity of the visitor whose voice she recognized. Her swift response and sheer delight at hearing Peter's voice revealed that she was more than a lowly servant; she was a dedicated disciple. In a beautiful contrast to the forgettable names of mighty conquerors, Rhoda's name was treasured by God, an eternal testament to her faithfulness. As she stood at the threshold, listening intently, she demonstrated the urgent need to discern friend from foe, for the door was kept shut out of fear, a consequence of the Jews' relentless persecution.",
+            "wordCount": 114,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.4911785357045753,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.92,
+            "commentatorTierSimilarities": [
+                34.44,
+                32.32,
+                33.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amidst fervent prayers, a maid named Rhoda rushed to the door of the house to discern the identity of the voice she recognized. Her swift response and joyful haste indicated she was more than a menial servant\u2014she was a devoted disciple. God, who remembers the names of the lowly and forgets mighty conquerors, cherished Rhoda's name as a testimony to her faithfulness. As she stood at the threshold, listening intently, she exemplified the importance of distinguishing between friend and foe, as fear kept the door closed due to the persecution of the Jews.",
+            "wordCount": 95,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.450600001707473,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+            "commentatorTierSimilarities": [
+                32.88,
+                34.68,
+                32.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of fervent prayer, a maid named Rhoda swiftly approached the door of the house, recognizing the voice outside. Her prompt response and joyful anticipation indicated that she was not just a mere servant, but rather a devoted disciple of Christ. God, who values the humble and whose memory transcends mighty conquerors, treasured Rhoda's name as a testament to her faithfulness. As she listened at the threshold, she exemplified the need to discern friend from foe, as fear of persecution kept the door closed.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.4013576788510003,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.94,
+            "commentatorTierSimilarities": [
+                34.34,
+                33.73,
+                31.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of fervent prayer, a maid named Rhoda hurried to the door of the house upon hearing a familiar voice. Her quick recognition and joyful eagerness revealed that she was more than a mere servant; she was a devoted disciple. God, who cherishes the names of the lowly instead of mighty conquerors, holds Rhoda's name in eternal remembrance as a testimony to her faithfulness. As she stood at the threshold, listening intently, she embodied the importance of discerning friend from foe in the face of persecution and fear.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.3757128272589156,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.09,
+            "commentatorTierSimilarities": [
+                36.6,
+                31.74,
+                31.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of fervent prayer, a maid named Rhoda hurried to the door, recognizing a familiar voice. Her immediate response and joyful haste indicated that she was more than a mere servant; she was a devoted disciple gathered for prayer. God, who preserves the names of the humble instead of mighty conquerors, treasures Rhoda's name as a reminder of her faithfulness throughout the ages. As she listened at the threshold, she demonstrated the necessity of discerning friend from foe in the midst of fear and persecution.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.363298244441218,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.67,
+            "commentatorTierSimilarities": [
+                38.97,
+                31.7,
+                29.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

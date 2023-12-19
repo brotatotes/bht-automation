@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:31:36",
+    "verseRef": "Acts 15:10",
+    "bestBHT": {
+        "bht": "To tempt God is to put obstacles in His evidently determined course. Peter's reference in this context is not about outward observance of ceremonies but about the imposition of the law as a condition of salvation on the consciences of the disciples. The burden of the law is far more grievous and impossible to bear than mere ceremonies. Thus, to put this yoke upon the Gentile believers would be to oppose God's will and to demand new proofs of His already clear purpose. Why then tempt God by standing in the way of His declared plan?",
+        "wordCount": 98,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 2.0497109935645774,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+        "commentatorTierSimilarities": [
+            31.73,
+            32.78,
+            35.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "tempt God, by putting obstacles in the way of His evidently determined course.",
+            "Peter could not be so much referring to the mere outward observance of ceremonies...but to the imposition of the law, as a condition of salvation, on the consciences of the disciples.",
+            "the words, 'which neither our fathers nor we were able to bear,' will refer, not to the burdensomeness of ceremonies, but to the far more grievous burden of legal death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why tempt God\u2014by standing in the way of His declared purpose.",
+            "To put a yoke upon the neck of the disciples...bound to keep the whole law.",
+            "It was not then the mere yoke of burdensome ceremonies, but of an obligation which the more earnest and spiritual men became, the more impossible they felt it to fulfill."
+        ],
+        "Albert Barnes": [
+            "Why, since he has shown his determination to accept them without such rites, do you provoke him by attempting to impose on his own people rites without his authority, and against his manifest will?",
+            "To introduce observances which he had shown it was his purpose should now be abolished.",
+            "One design of the gospel was to set people free from such rites and ceremonies."
+        ],
+        "Marvin Vincent": [
+            "Were able [\u03b9\u03c3\u03c7\u03c5\u03c3\u03b1\u03bc\u03b5\u03bd] . See on Luke 14:30; Luke 16:3."
+        ],
+        "John Calvin": [
+            "God is tempted when there is laid upon men\u2019s consciences a sorer burden than they are able to bear, and by this means the salvation of men\u2019s souls is sore shaken.",
+            "The force of Christ\u2019s satisfaction is translated unto the works of men.",
+            "The souls of the godly must not be tied with the yoke of the law, because by this means it should of necessity come to pass that they should be drowned in eternal destruction."
+        ],
+        "Philip Schaff": [
+            "To impose new obligations upon these Gentile churches founded by Paul and Barnabas would be nothing else than tempting or trying God by demanding new proofs of His will.",
+            "Now to determine that these Gentile believers must, before they could be admitted into the Church, submit to the burdensome Mosaic law, would be to throw a doubt upon God\u2019s former decision.",
+            "His appeal here has been well paraphrased: \u2018Men and brethren, speak the truth, and candidly tell me, have you kept the law?\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "By implying that God had made a mistake this time, though right about Cornelius. It is a home-thrust.",
+            "Paul's very image for the yoke of bondage of the Mosaic law in Galatians 5:1.",
+            "Peter speaks as the spiritual emancipator. He had been slow to see the meaning of God's dealings with him at Joppa and Caesarea, but he has seen clearly by now."
+        ],
+        "John Gill": [
+            "It is no other than tempting God, a manifest opposition to him, and what must give him offence, to debate about a point so clear.",
+            "Especially to attempt to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear.",
+            "This yoke was intolerable and insupportable, and not to be put upon the necks of the Gentile believers; who here are called disciples, being taught the doctrine of the Gospel, and the way of salvation; which was not by circumcision, nor by any works of the law, but by the grace of Christ."
+        ],
+        "John Wesley": [
+            "Now therefore \u2014 Seeing these things are so: why tempt ye God? - Why do ye provoke him to anger, by putting so heavy a yoke on their neck?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To tempt God is to put obstacles in His way and contradict His purpose. In Acts 15:10, Peter refers not to mere outward observance of ceremonies, but to the imposition of the law as a condition of salvation on the consciences of the disciples. The burden of legal death, unable to be borne by anyone, was far more grievous than the burdensome ceremonies. An attempt to put this yoke upon the disciples, particularly the Gentile believers, would be a clear opposition to God's clear will. So, why tempt God by standing in the way of His declared purpose and demanding new proofs of His will?",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.073678320233226,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                31.06,
+                33.87,
+                35.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To tempt God is to obstruct His purpose. Peter's reference in Acts 15:10 goes beyond outward observances; it addresses the imposition of the law on the consciences of disciples. The burden of legal death was impossible to bear, far more severe than mere ceremonies. Attempting to place this yoke on the Gentile believers would oppose God's will. So, why provoke Him and demand further proof when His purpose is already clear?",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.870423435623879,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                31.2,
+                32.03,
+                36.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To tempt God is to put obstacles in His evidently determined course. Peter's reference in this context is not about outward observance of ceremonies but about the imposition of the law as a condition of salvation on the consciences of the disciples. The burden of the law is far more grievous and impossible to bear than mere ceremonies. Thus, to put this yoke upon the Gentile believers would be to oppose God's will and to demand new proofs of His already clear purpose. Why then tempt God by standing in the way of His declared plan?",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.0497109935645774,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+            "commentatorTierSimilarities": [
+                31.73,
+                32.78,
+                35.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To tempt God is to obstruct His purpose by putting obstacles in His determined course. In Acts 15:10, Peter's reference goes beyond mere outward ceremonies to the imposition of the law as a condition of salvation on the disciples' consciences. The burden of legal death, which nobody could bear, surpassed the burdensome ceremonies. Thus, imposing this yoke on Gentile believers goes against God's will and demands new proofs of His already clear purpose. Why then tempt God by opposing His declared plan?",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.0174426209613596,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                32.02,
+                32.95,
+                35.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By putting obstacles in God's evidently determined course, one tempts Him. In this particular context, Peter's reference is not about mere outward observance of ceremonies, but about imposing the law as a condition of salvation on the disciples' consciences. The burden of legal death is far more grievous and impossible to bear compared to mere ceremonies. To impose this yoke upon Gentile believers would be to oppose God's will and demand new proofs of His already clear purpose. So, why stand in the way of God's declared plan and prompt His anger?",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 2.002616973483521,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.93,
+            "commentatorTierSimilarities": [
+                30.47,
+                32.53,
+                36.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 16:15:03",
+    "verseRef": "Luke 5:13",
+    "bestBHT": {
+        "bht": "Jesus encounters a man suffering from leprosy and is filled with compassion for him. He responds to the man's plea to be cleansed by saying, I will, be thou clean. In this simple statement, Jesus demonstrates both his willingness to heal and his authority to bring immediate relief. Through his compassion and miraculous power, Jesus removes the leprosy from the man, offering him mercy and freedom from his affliction.",
+        "wordCount": 70,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 1.0160530037225708,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.13,
+        "commentatorTierSimilarities": [
+            42.76,
+            0.0,
+            57.24
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "I will [\u03b8\u03b5\u03bb\u03c9] . See on Matthew 1:19. ",
+            "Be thou clean [\u03ba\u03b1\u03b8\u03b1\u03c1\u03b9\u03c3\u03b8\u03b7\u03c4\u03b9] . Rev., more accurately, gives the force of the passive voice, be thou made clean."
+        ],
+        "John Gill": [
+            "Having compassion on him, and commiserating his sad case.",
+            "I will, be thou clean.",
+            "Immediately the leprosy departed from him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus encounters a man suffering from leprosy and is filled with compassion for him. He responds to the man's plea to be cleansed by saying, I will, be thou clean. In this simple statement, Jesus demonstrates both his willingness to heal and his authority to bring immediate relief. Through his compassion and miraculous power, Jesus removes the leprosy from the man, offering him mercy and freedom from his affliction.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.0160530037225708,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.13,
+            "commentatorTierSimilarities": [
+                42.76,
+                0.0,
+                57.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Filled with compassion, Jesus encounters a man afflicted with leprosy and responds, I will, be thou clean. Through these words, Jesus displays not only his willingness to heal but also his authority to bring about an instantaneous transformation. Miraculously, the leprosy immediately departs from the man, relieving him of his distressing condition.",
+            "wordCount": 52,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.0124028720846197,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.01,
+            "commentatorTierSimilarities": [
+                39.91,
+                0.0,
+                60.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With great compassion, Jesus comes across a man suffering from leprosy and shows his willingness to help by saying, I will, be thou clean. His words hold the power to bring about an immediate change, as the leprosy departs from the man. Through his profound sympathy and remarkable authority, Jesus offers the man deliverance from his tormenting affliction.",
+            "wordCount": 58,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 0.9130674495824165,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.7,
+            "commentatorTierSimilarities": [
+                39.11,
+                0.0,
+                60.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moved by compassion, Jesus encounters a man in the throes of leprosy and responds with an affirming declaration, I will, be thou clean. In these words, Jesus demonstrates his desire to bring about healing and restoration for the afflicted individual. With his compassion as a catalyst, Jesus exercises his divine authority, causing the leprosy to immediately depart from the man. Through this act of mercy, Jesus offers solace and brings about a momentous transformation for the suffering individual.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 0.9313441930142424,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.31,
+            "commentatorTierSimilarities": [
+                45.74,
+                0.0,
+                54.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a moment of profound compassion, Jesus encounters a man plagued by leprosy and responds, I will, be thou clean. These words not only reveal Jesus' willingness to restore the man's well-being, but also highlight his authority to bring about an instantaneous change. In an incredible display of mercy, the leprosy promptly departs from the man, freeing him from his affliction and offering a glimpse of Jesus' divine power.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 0.9404538060853727,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.61,
+            "commentatorTierSimilarities": [
+                47.26,
+                0.0,
+                52.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

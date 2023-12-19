@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:29:55",
+    "verseRef": "Acts 12:9",
+    "bestBHT": {
+        "bht": "Unaware of the reality, Peter followed the angel's instructions, not fully comprehending that he was being freed from prison. He thought it was simply a vision, as if his mind was playing tricks on him, rather than a tangible experience. Oblivious to the true nature of his deliverance, Peter willingly obeyed the angel's command, without questioning or reasoning, and emerged from the prison cell to follow wherever the angel led him. The astonishing nature of the events made Peter unsure if it was all real or if he was caught in a dream or trance.",
+        "wordCount": 97,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.496906408626633,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.11,
+        "commentatorTierSimilarities": [
+            19.61,
+            33.49,
+            46.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] went out, viz. from the chamber or cell."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. wist not that it was true; but",
+            "\tthought he saw a vision\u2014So little did the apostle look for",
+            "\tdeliverance!"
+        ],
+        "Albert Barnes": [
+            "And wist not - Knew not.",
+            "That it was true - That it was real.",
+            "But thought he saw a vision - He supposed that it was a representation made to his mind similar to what he had seen before."
+        ],
+        "John Calvin": [
+            "True is taken in this place for that which is done naturally and after the manner of men.",
+            "Furthermore, though he think that it is a vision, yet doth he willingly obey; whereby his obedience is proved.",
+            "Being content with the commandment of the angel alone, he doth not inquire nor reason what he must do, but doth that which he is commanded to do."
+        ],
+        "Archibald T. Robertson": [
+            "Wist not (\u03bf\u03c5\u03ba \u03b7\u03b9\u03b4\u03b5). Past perfect of \u03bf\u03b9\u03b4\u03b1 used as imperfect, did not know.\" ",
+            "Followed (\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5). Imperfect active, kept on following as the angel had directed (verse Acts 12:8).\" ",
+            "Peter will soon know whether he is still in the cell or not as we find out that a dream is only a dream when we wake up."
+        ],
+        "John Gill": [
+            "He came out from between the two soldiers, and out of that apartment in the prison, in which he was, and followed the angel where he led him.",
+            "He did not know whether this was matter of fact, or whether it was, not represented to him in a visionary way, as what could be, or would be done.",
+            "Imagined he was in a dream or a trance, and only saw these things in a vision, and that they were not really done, the whole was so amazing and astonishing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Unaware of the reality of his situation, Peter followed the angel's instructions, not fully comprehending that he was being freed from prison. He thought it was simply a vision, as if his mind was playing tricks on him, rather than a tangible experience. Oblivious to the true nature of his deliverance, Peter willingly obeyed the angel's command, without questioning or reasoning, and emerged from the prison cell to follow wherever the angel led him. The astonishing nature of the events made Peter unsure if it was all real or if he was caught in a dream or trance.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4878856873353168,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.81,
+            "commentatorTierSimilarities": [
+                18.93,
+                34.29,
+                46.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Unaware of the reality, Peter obediently followed the angel's instructions, thinking it was a mere vision. He emerged from the prison cell, uncertain if it was all real or just an astonishing dream. Peter's willingness to obey without questioning demonstrated his trust in the commandment of the angel. The events unfolding before him were beyond his expectations, leading him to wonder if he was caught in a dream or trance. Nevertheless, Peter followed the angel, unaware of the true nature of his deliverance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.4128124863116571,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.32,
+            "commentatorTierSimilarities": [
+                23.52,
+                29.18,
+                47.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Unaware of the reality, Peter obediently followed the angel's instructions, thinking it was a mere vision. The astonishing nature of the events made him uncertain if it was all real, or if he was caught in a dream or trance. Peter's willingness to obey without questioning demonstrated his trust in the commandment of the angel. Uncertain of the true nature of his deliverance, Peter emerged from the prison cell, following wherever the angel led him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.3879314098231266,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.49,
+            "commentatorTierSimilarities": [
+                24.29,
+                27.26,
+                48.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Unaware of the reality, Peter obediently followed the angel's instructions, thinking it was a mere vision. The astonishing nature of the events made him uncertain if it was all real, or if he was caught in a dream or trance. Peter's willingness to obey without questioning demonstrated his trust in the commandment of the angel. Uncertain of the true nature of his deliverance, Peter emerged from the prison cell, following wherever the angel led him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.3879314098231266,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.49,
+            "commentatorTierSimilarities": [
+                24.29,
+                27.26,
+                48.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Unaware of the reality, Peter followed the angel's instructions, not fully comprehending that he was being freed from prison. He thought it was simply a vision, as if his mind was playing tricks on him, rather than a tangible experience. Oblivious to the true nature of his deliverance, Peter willingly obeyed the angel's command, without questioning or reasoning, and emerged from the prison cell to follow wherever the angel led him. The astonishing nature of the events made Peter unsure if it was all real or if he was caught in a dream or trance.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.496906408626633,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.11,
+            "commentatorTierSimilarities": [
+                19.61,
+                33.49,
+                46.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:21:29",
+    "verseRef": "Luke 18:25",
+    "bestBHT": {
+        "bht": "This proverbial expression suggests that it is extremely difficult, if not impossible, for a rich man to enter the kingdom of God. The choice of using the term belonh for the surgical needle instead of the term \u03c1\u03b1\u03c6\u03b9\u03c2 is notable, as the latter is regarded as barbarous. It is likely that this saying was well-known during that time, as it appears in the Talmud concerning an elephant passing through the eye of a needle. Ultimately, this serves to highlight the challenges that wealth can present in attaining salvation.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.1831411770138944,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.68,
+        "commentatorTierSimilarities": [
+            77.58,
+            0.0,
+            22.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "25. easier for a camel, &amp;c.\u2014a",
+            "\tproverbial expression denoting literally a thing impossible, but",
+            "\tfiguratively, very difficult."
+        ],
+        "Marvin Vincent": [
+            "To go through the eye of a needle [\u03b4\u03b9\u03b1 \u03c4\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b2\u03b5\u03bb\u03bf\u03bd\u03b7\u03c2 \u03b5\u03b9\u03c3\u03b5\u03bb\u03b8\u03b5\u03b9\u03bd] . Rev., more literally, to enter in through a needle 's eye.\" ",
+            "Both Matthew and Mark use another word for needle [\u03c1\u03b1\u03c6\u03b9\u03c2] ; see on Mark 10:25. Luke alone has belonh, which, besides being an older term, is the peculiar word for the surgical needle.",
+            "The other word is condemned by the Greek grammatrians as barbarous."
+        ],
+        "Archibald T. Robertson": [
+            "Through a needle's eye (\u03b4\u03b9\u03b1 \u03c4\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b2\u03b5\u03bb\u03bf\u03bd\u03b7\u03c2). Both words are old.",
+            "This is probably a current proverb for the impossible.",
+            "The Talmud twice speaks of an elephant passing through the eye of a needle as being impossible."
+        ],
+        "John Gill": [
+            "These words were spoken to the disciples again, and were a second address to them, after they had shown astonishment at the former.",
+            "and",
+            "a second address to them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is said that it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God. This is not meant to be taken literally, but figuratively, to suggest something that is very difficult or even impossible. Luke uses the term belonh for the surgical needle, which is an older and more accurate word. In fact, the other word for needle, \u03c1\u03b1\u03c6\u03b9\u03c2, is even condemned as barbarous by Greek grammarians. This saying may have been a current proverb at the time, as the Talmud also mentions the impossibility of an elephant passing through the eye of a needle. Ultimately, this statement serves as a reminder to the disciples, emphasizing the challenges that wealth can present when it comes to entering the kingdom of God.",
+            "wordCount": 136,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.433116980160206,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.99,
+            "commentatorTierSimilarities": [
+                76.52,
+                0.0,
+                23.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is figuratively stated that it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God. Luke employs the term belonh for the surgical needle, which is considered the older and more accurate word, while the other term for needle, \u03c1\u03b1\u03c6\u03b9\u03c2, is criticized as barbarous. This proverbial saying may have been common at the time, as the Talmud also mentions the impossibility of an elephant passing through the eye of a needle. It serves to remind the disciples of the challenges that wealth presents in attaining eternal life.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.3950496434452129,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.73,
+            "commentatorTierSimilarities": [
+                73.97,
+                0.0,
+                26.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Figuratively, it is said that it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God. Luke chooses the term belonh for the surgical needle, as it is the older and more accurate word, while the other term for needle, \u03c1\u03b1\u03c6\u03b9\u03c2, is considered barbarous. This proverbial expression likely reflects a common saying of the time, with the Talmud even mentioning the impossibility of an elephant passing through the eye of a needle. It serves to emphasize the difficulties wealth can pose in receiving salvation.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.449176716753418,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.53,
+            "commentatorTierSimilarities": [
+                80.21,
+                0.0,
+                19.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This proverbial expression suggests that it is extremely difficult, if not impossible, for a rich man to enter the kingdom of God. The choice of using the term belonh for the surgical needle instead of the term \u03c1\u03b1\u03c6\u03b9\u03c2 is notable, as the latter is regarded as barbarous. It is likely that this saying was well-known during that time, as it appears in the Talmud concerning an elephant passing through the eye of a needle. Ultimately, this serves to highlight the challenges that wealth can present in attaining salvation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.1831411770138944,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.68,
+            "commentatorTierSimilarities": [
+                77.58,
+                0.0,
+                22.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This popular expression illustrates the immense difficulty, if not outright impossibility, for a wealthy person to enter the kingdom of God. The choice of the term belonh for the surgical needle, rather than the criticized \u03c1\u03b1\u03c6\u03b9\u03c2, is significant. This saying, which may have been widely known at the time, even appears in the Talmud referring to an elephant passing through a needle's eye. Ultimately, this emphasizes the challenges posed by wealth when it comes to achieving eternal life.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.1746095814084998,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.4,
+            "commentatorTierSimilarities": [
+                82.01,
+                0.0,
+                17.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "timestamp": "12-19-2023 15:17:31",
+    "verseRef": "2 Corinthians 9:15",
+    "bestBHT": {
+        "bht": "Thanks be to God for His unspeakable gift, which is the gift of His own Son. It is impossible to apply such a term to any gift short of that one. If we have received from God His unspeakable gift, what great thing is it if we give a few perishing gifts for His sake? These abrupt thanksgivings are common in Paul's writings. Indeed, words fail Paul to describe the gift of Christ to and for us. May we show our thankfulness by highly prizing and valuing this gift.",
+        "wordCount": 90,
+        "quoteTokenProportion": 53.23,
+        "qualityScore": 2.381286561467563,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.52,
+        "commentatorTierSimilarities": [
+            33.13,
+            31.95,
+            34.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He concludes with an ascription, in the spirit also of a thankful recipient, of unfeigned thanks to Him, who hath enriched us by the gift of His only Son, which brings with it that of all things else (Rom. viii. 32), and is, in all its wonders of grace and riches of mercy, truly ineffable.",
+            "It is impossible to apply such a term, so emphatically placed as here, to any gift short of THAT ONE.",
+            "And the ascription, as coming from Paul\u2019s fervent spirit, is very natural in this connexion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "his unspeakable gift\u2014the gift of His own Son, which includes all other inferior gifts",
+            "If we have received from God 'His unspeakable gift,' what great thing is it, if we give a few perishing gifts for His sake?",
+            "we give a few perishing gifts for His sake?"
+        ],
+        "Albert Barnes": [
+            "Your benefactions are indeed valuable; and for them, for the disposition which you have manifested, and for all the good which you will be enabled thus to accomplish, we are bound to give thanks to God.",
+            "No words can properly express the greatness of the gift thus bestowed on man. It is higher than the mind can conceive; higher than language can express.",
+            "Man has no prospect of being happy when he dies but in virtue of the 'unspeakable gift' of God."
+        ],
+        "Marvin Vincent": [
+            "These abrupt thanksgivings are common in Paul's writings.\" ",
+            "Unspeakable [\u03b1\u03bd\u03b5\u03ba\u03b4\u03b9\u03b7\u03b3\u03b7\u03c4\u03c9]. Lit., not to be told throughout."
+        ],
+        "Philip Schaff": [
+            "Thanks be unto God for his unspeakable gift.",
+            "He compares the contribution to no less than the gifts of God Himself, as though it were itself an especial gift of God, and could only be expressed by the same word (\u2018grace,\u2019 \u2018blessing\u2019).",
+            "His ardour in the cause thus belongs to the same impassioned love for his country and people, which shows itself with hardly less vehemence, though in a more general form, in the Epistle to the Romans: 'I could wish myself accursed from Christ for my brethren\u2019s suites\u2019 (Romans 9:7); \u2018My heart\u2019s desire and prayer to God is, that they might be saved\u2019 (Romans 10:1); \u2018Hath God cast away His people? God forbid; for I also am an Israelite\u2019 (Romans 11:1-2)."
+        ],
+        "Archibald T. Robertson": [
+            "Thanks be to God... For his unspeakable gift.\" ",
+            "One of Paul's gems flashed out after the somewhat tangled sentence...like a gleam of light that clears the air.\" ",
+            "Words fail Paul to describe the gift of Christ to and for us."
+        ],
+        "John Gill": [
+            "Thanks be unto God for his unspeakable gift.\" ",
+            "Thankful we should be for it; and our thankfulness should be shown by highly prizing and valuing this gift.",
+            "Freely and bountifully to communicate temporal good things to the poor members of Christ, for whom God and Christ have an equal love, as for themselves."
+        ],
+        "John Wesley": [
+            "His unspeakable gift \u2014 His outward and inward blessings, the number and excellence of which cannot he uttered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Thanks be to God for His unspeakable gift, the gift of His own Son, which includes all other inferior gifts. It is impossible to apply such a term to any gift short of that one. If we have received from God His unspeakable gift, what great thing is it if we give a few perishing gifts for His sake? These abrupt thanksgivings are common in Paul's writings. Indeed, words fail Paul to describe the gift of Christ to and for us. May we show our thankfulness by highly prizing and valuing this gift, and by freely and bountifully communicating temporal good things to the poor members of Christ.",
+            "wordCount": 109,
+            "quoteTokenProportion": 47.3,
+            "qualityScore": 2.3864276537402103,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.69,
+            "commentatorTierSimilarities": [
+                33.15,
+                31.87,
+                34.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thanks be to God for His unspeakable gift, which is the gift of His own Son. It is impossible to apply such a term to any gift short of that one. If we have received from God His unspeakable gift, what great thing is it if we give a few perishing gifts for His sake? These abrupt thanksgivings are common in Paul's writings. Indeed, words fail Paul to describe the gift of Christ to and for us. May we show our thankfulness by highly prizing and valuing this gift.",
+            "wordCount": 90,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 2.381286561467563,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.52,
+            "commentatorTierSimilarities": [
+                33.13,
+                31.95,
+                34.92
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

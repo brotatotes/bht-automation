@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:40:06",
+    "verseRef": "1 Peter 4:19",
+    "bestBHT": {
+        "bht": "When Christians suffer, it is a sign of God's favor, and they can trust Him and take comfort in their sufferings. They should commit their souls into the hands of their faithful Creator, who will not overlook them and is within His covenant. This surrender to God is coupled with the active practice of doing good, as faith restores the spiritual relationship between creature and Creator.",
+        "wordCount": 67,
+        "quoteTokenProportion": 50.94,
+        "qualityScore": 2.2891341354012282,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.45,
+        "commentatorTierSimilarities": [
+            31.69,
+            36.33,
+            31.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If the sufferings of Christians as Christians are a sign of God\u2019s favour towards them, in subjecting them to his judgments, with a view to their not perishing with the ungodly world, then have they every reason to trust Him in those sufferings, and to take comfort.\" ",
+            "Let also them who suffer (also, as well as all other persons) according to (in pursuit of, along the course of) the will of God commit (deliver [subjectively] into the hands of, and confidently leave) their souls in well-doing unto a faithful Creator.\" ",
+            "In God being our Creator, without whom not a hair falls to the ground, we have an assurance that we are not overlooked by Him: in His being a faithful Creator, whose covenant truth is pledged to us, it is implied that we are within that covenant, suffering according to His will and as His children."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not only under ordinary circumstances, but also in time of suffering, let believers commit.",
+            "God's will that the believer should suffer is for his good.",
+            "Faith restores [the spiritual relation between creature and Creator]; so that the believer, living to the will of God, rests implicitly on his Creator's faithfulness."
+        ],
+        "Albert Barnes": [
+            "Let them that suffer according to the will of God...commit the keeping of their souls - to him...let them commit all their interests to him.\" ",
+            "A man who is engaged always in well-doing, may safely commit all his interest to God.",
+            "God may be trusted, or confided in, in all His attributes, and in all the relations which He sustains as Creator, Redeemer, Moral Governor, and Judge... we may be assured that he will faithfully pursue it to the end...we may still go to Him as our Creator, and may pray that even yet the high and noble ends for which we were made may be accomplished in us."
+        ],
+        "Marvin Vincent": [
+            "Commit [\u03c0\u03b1\u03c1\u03b1\u03c4\u03b9\u03b8\u03b5\u03c3\u03b8\u03c9\u03c3\u03b1\u03bd] . Give in charge as a deposit.",
+            "The surrender to God is to be coupled with the active practice of good."
+        ],
+        "John Calvin": [
+            "Let them deliver themselves and their life to the safe keeping of God.",
+            "He faithfully keeps and defends whatever is under his protection or power.",
+            "Lest the faithful should retaliate the wrongs done to them, but that they might on the contrary contend with the ungodly, who injured them, by well-doing."
+        ],
+        "Philip Schaff": [
+            "The sense, therefore, is, \u2018let those also who have to suffer, strange as it may seem to them that they should have to suffer, commit their souls,\u2019 etc.",
+            "Their souls are regarded as a deposit which they should be willing to leave confidently in God\u2019s hands.",
+            "'To do well and to suffer well should be the only care of those who are called upon to suffer; God Himself will take care of all else' (Bengel)."
+        ],
+        "Archibald T. Robertson": [
+            "Commit their souls...the word used by Jesus as he died.\" ",
+            "In well-doing...only here in N.T., from \u03b1\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u03b5\u03c9.\" ",
+            "Picking up the thread of consolation again."
+        ],
+        "John Gill": [
+            "Seeing the state and condition of the saints in this world, at worst, and which is but for a time, is infinitely preferable to the dreadful state and condition of disobedient persons, ungodly men, and sinners, and which will endure to all eternity.",
+            "These [sufferings] are not the effects of chance, or merely owing to the malice and wickedness of men, or to any second cause only; but they are the will of God, are by his appointment, under his direction, and by his order, and for their good, and his own glory.",
+            "They should commit their cause to God, who, as he is the Creator, is the Governor of the universe, and will judge righteously; and when they are even called to lay down their lives for his sake, they shall not lose them."
+        ],
+        "John Wesley": [
+            "Commit to him their souls \u2014 (Whatever becomes of the body) as a sacred depositum.",
+            "In well doing \u2014 Be this your care, to do and suffer well: He will take care of the rest.",
+            "As unto a faithful Creator \u2014 In whose truth, love, and power, ye may safely trust."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Christians suffer, it is a sign of God's favor, as they are being subjected to His judgments to save them from perishing with the ungodly. Therefore, they have every reason to trust Him and take comfort in their sufferings. They should commit their souls into the hands of their faithful Creator, knowing that they are not overlooked and that they are within His covenant. This surrender to God should be coupled with the active practice of doing good. Even in the midst of suffering, believers should commit themselves to well-doing, knowing that God's will for them to suffer is ultimately for their good. In this way, faith restores the spiritual relationship between creature and Creator, allowing the believer to rest implicitly on God's faithfulness.",
+            "wordCount": 129,
+            "quoteTokenProportion": 46.91,
+            "qualityScore": 2.3054528680797572,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.0,
+            "commentatorTierSimilarities": [
+                32.44,
+                37.09,
+                30.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Christians suffer, it is a sign of God's favor, as they are being subjected to His judgments to save them from perishing with the ungodly. Therefore, they have every reason to trust Him and take comfort in their sufferings. They should commit their souls into the hands of their faithful Creator, knowing that they are not overlooked and that they are within His covenant. This surrender to God should be coupled with the active practice of doing good, as faith restores the spiritual relationship between creature and Creator.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 2.2223311480652734,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.23,
+            "commentatorTierSimilarities": [
+                30.88,
+                36.7,
+                32.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Christians suffer, it is a sign of God's favor, and they can trust Him and take comfort in their sufferings. They should commit their souls into the hands of their faithful Creator, who will not overlook them and is within His covenant. This surrender to God is coupled with the active practice of doing good, as faith restores the spiritual relationship between creature and Creator.",
+            "wordCount": 67,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 2.2891341354012282,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.45,
+            "commentatorTierSimilarities": [
+                31.69,
+                36.33,
+                31.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers who suffer according to God's will can take comfort and trust in Him, knowing that their suffering is not in vain. They are to commit their souls to the faithful Creator, who not only created them but also made a covenant with them. This surrender to God should be coupled with the active practice of good. Even in the midst of suffering, believers are called to do well and to leave all their interests in the hands of God. They can confidently deliver themselves, their lives, and their cause to His safekeeping, knowing that He faithfully keeps and defends His children.",
+            "wordCount": 103,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 2.238107242886584,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.76,
+            "commentatorTierSimilarities": [
+                30.87,
+                37.72,
+                31.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers who suffer according to God's will can find comfort and trust in Him, committing their souls to the faithful Creator who made a covenant with them. They are encouraged to do well and leave their interests in God's hands, knowing that He will faithfully protect and defend them. By surrendering themselves to Him and practicing good, believers can find assurance that their suffering is not in vain and that God will ultimately take care of them.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.485973970163432,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.0,
+            "commentatorTierSimilarities": [
+                29.24,
+                38.14,
+                32.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

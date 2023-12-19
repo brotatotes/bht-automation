@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:22:30",
+    "verseRef": "Luke 21:16",
+    "bestBHT": {
+        "bht": "Jesus forewarns his disciples that they will face betrayal and the risk of death, not only from strangers but also from their own loved ones. The examples of James, who was put to death (Acts 12:2), and Stephen, who was stoned to death (Acts 7:59-60), highlight the grave consequences of their faithfulness. It is said that all of the Apostles, besides John, eventually faced martyrdom. This solemn warning reminds us of the immense sacrifice and unwavering commitment that following Jesus may demand.",
+        "wordCount": 80,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.3004511148883184,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.58,
+        "commentatorTierSimilarities": [
+            29.16,
+            32.33,
+            38.51
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "even by... \u2018not only by strangers\u2019 Bengel.",
+            "some of you\u2014i. e. of the Apostles.",
+            "One of the four who heard this discourse was put to death, Acts xii. 2."
+        ],
+        "Philip Schaff": [
+            "Luke 21:16. Some of you. James, one of those present, was soon put to death (Acts 12:2).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Shall they cause to be put to death (\u03b8\u03b1\u03bd\u03b1\u03c4\u03c9\u03c3\u03bf\u03c5\u03c3\u03b9\u03bd). Future active of \u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c9, to put to death or to make to die (causative). Either makes sense here. Old and common verb. "
+        ],
+        "John Gill": [
+            "And ye shall be betrayed both by parents, and brethren,.... and kinsfolks, and friends.",
+            "Some of you shall they cause to be put to death as Stephen was stoned to death, and James, the brother of John, Herod killed with the sword.",
+            "Indeed all of them were put to death, except John, before the destruction of Jerusalem."
+        ],
+        "John Wesley": [
+            "Matthew 10:21."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 21:16, Jesus warns his disciples that they will face betrayal, even from their own loved ones. As Bengel points out, this betrayal will not only come from strangers but also from their closest relationships, as indicated by the mention of parents, brethren, kinsfolks, and friends. This warning rings true, as we see through the examples of James who was put to death (Acts 12:2), and Stephen who was stoned to death (Matthew 10:21, Acts 7:59-60). In fact, according to some commentators, all of the Apostles, except for John, were eventually martyred. This verse serves as a reminder that following Jesus may come at a great cost, even requiring the ultimate sacrifice.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 1.225162661430822,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.08,
+            "commentatorTierSimilarities": [
+                22.2,
+                32.26,
+                45.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus warns his disciples in Luke 21:16 that they will face betrayal, even from their loved ones. This betrayal may lead to their death, as demonstrated by the martyrdom of James (Acts 12:2) and Stephen (Acts 7:59-60). According to some, all the Apostles, except for John, were eventually killed. Following Jesus comes at a tremendous cost, requiring complete devotion even in the face of betrayal and persecution.",
+            "wordCount": 64,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.2492546943015075,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.88,
+            "commentatorTierSimilarities": [
+                22.84,
+                36.49,
+                40.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus forewarns his disciples of the inevitable betrayal and denial they will face, not only from strangers but also from their own family and close relationships. The examples of James, who was put to death (Acts 12:2), and Stephen, who was stoned to death (Acts 7:59-60), demonstrate the grave consequences the disciples may experience. These sacrifices emphasize the high cost of discipleship, as all the Apostles, except for John, were martyred before the destruction of Jerusalem, prompting us to consider the unwavering commitment required to follow Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.2707359365204922,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.6,
+            "commentatorTierSimilarities": [
+                25.85,
+                30.52,
+                43.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus warns his disciples of the potential betrayal and even death they may face, not only from strangers but also from their own loved ones. The martyrdom of James (Acts 12:2) and Stephen (Acts 7:59-60) serve as examples of the severe consequences some may face for their faith. In fact, according to some sources, all of the Apostles, except for John, were eventually put to death. This cautionary message emphasizes the great sacrifice and commitment required to follow Jesus faithfully.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.2147640990590256,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.73,
+            "commentatorTierSimilarities": [
+                26.6,
+                32.02,
+                41.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus forewarns his disciples that they will face betrayal and the risk of death, not only from strangers but also from their own loved ones. The examples of James, who was put to death (Acts 12:2), and Stephen, who was stoned to death (Acts 7:59-60), highlight the grave consequences of their faithfulness. It is said that all of the Apostles, besides John, eventually faced martyrdom. This solemn warning reminds us of the immense sacrifice and unwavering commitment that following Jesus may demand.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.3004511148883184,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.58,
+            "commentatorTierSimilarities": [
+                29.16,
+                32.33,
+                38.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

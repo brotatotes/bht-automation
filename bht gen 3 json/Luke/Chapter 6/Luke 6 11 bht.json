@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:15:47",
+    "verseRef": "Luke 6:11",
+    "bestBHT": {
+        "bht": "After Jesus healed a man with a withered hand on the Sabbath, the Pharisees and Herodians were filled with a senseless rage and wicked folly. Their wicked folly became a senseless rage, a madness, as they couldn't answer Jesus and were determined to destroy Him. Their rage was fueled by pride, obstinacy, malice, and disappointed self-confidence. This incident exposed their envy at Jesus' success and their inability to accept him or his methods.",
+        "wordCount": 75,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.9130709316794579,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+        "commentatorTierSimilarities": [
+            27.77,
+            42.43,
+            29.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It does not appear that this word can ever mean, asin A.V. 'madness,' or as some explain it, rage of a senseless kind.",
+            "The proper meaning, 'senselessness,' 'wicked folly,' must be kept to.",
+            "communed\u2014viz. the Pharisees and Herodians: Mark, ver. 6, where see note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word denotes senseless rage at the confusion to which our Lord had put them, both by word and deed.",
+            "Not so much whether to get rid of Him, but how to compass it.",
+            "THE TWELVE APOSTLES CHOSEN\u2014GATHERING MULTITUDES\u2014GLORIOUS HEALING."
+        ],
+        "Albert Barnes": [
+            "Pride, obstinacy, malice, and disappointed self-confidence were 'all' combined, therefore, in producing madness.",
+            "Men are often enraged because others do good in a way which 'they' do not approve of.",
+            "Because he [God] has not accommodated himself to 'their' views of what is right, and done it in the way which 'they' would have prescribed, they are enraged, and filled with envy at people more successful than themselves."
+        ],
+        "Marvin Vincent": [
+            "Anoia, madness, is, properly, want of understanding.",
+            "The word thus implies senseless rage, as distinguished from intelligent indignation.",
+            "12 - 16. Compare Matthew 10:2-4; Mark 3:13-19."
+        ],
+        "Philip Schaff": [
+            "Luke 6:11. Filled with madness. Literally, \u2018unwisdom,\u2019 foolishness. It is implied that their wicked folly became a senseless rage.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They were filled with madness... rage that is kin to insanity.\" ",
+            "They bolted out of the synagogue and outside plotted even with the Herodians how to destroy Jesus.",
+            "Already nearly two years before the end we see the set determination to destroy Jesus."
+        ],
+        "John Gill": [
+            "And they were filled with madness, both at the cure, and because they could not answer him.\" ",
+            "Nor properly fix a charge upon him, or accuse him before the people, without bringing their resentments on them.",
+            "And communed one with another what they might do with Jesus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Jesus healed a man with a withered hand on the Sabbath, the Pharisees and Herodians were filled with a senseless rage and wicked folly. They were enraged because Jesus exposed their confusion and put them in a position of disgrace. Their madness was not only rooted in their inability to answer Jesus, but also in their deep determination to destroy Him. This incident highlighted their pride, obstinacy, malice, and disappointed self-confidence, which ultimately fueled their senseless rage against Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8906387225252113,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.21,
+            "commentatorTierSimilarities": [
+                28.27,
+                38.65,
+                33.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Jesus healed a man with a withered hand on the Sabbath, the Pharisees and Herodians were filled with a senseless rage and wicked folly. Their wicked folly became a senseless rage, a madness, as they couldn't answer Jesus and were determined to destroy Him. Their rage was fueled by pride, obstinacy, malice, and disappointed self-confidence. This incident exposed their envy at Jesus' success and their inability to accept him or his methods.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9130709316794579,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                27.77,
+                42.43,
+                29.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After Jesus healed a man with a withered hand on the Sabbath, the Pharisees and Herodians were filled with a senseless rage and wicked folly. Their madness was rooted in their inability to answer Jesus and their determination to destroy Him. Their pride, obstinacy, malice, and disappointed self-confidence fueled this senseless rage. This incident exposed their envy at Jesus' success and highlighted their refusal to accept him or his methods.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.8197140853675402,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                26.86,
+                39.91,
+                33.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees and Herodians, after witnessing Jesus heal a man with a withered hand on the Sabbath, were filled with a senseless rage and wicked folly. Their madness stemmed from their inability to answer Jesus and their deep determination to destroy Him. This incident revealed their envy of Jesus' success and their refusal to accept him or his methods. Their pride, obstinacy, malice, and disappointed self-confidence fueled their senseless rage.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8489515278326367,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+            "commentatorTierSimilarities": [
+                26.46,
+                39.35,
+                34.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After Jesus healed a man with a withered hand on the Sabbath, the Pharisees and Herodians were filled with a senseless rage and wicked folly. Their wicked folly became a senseless rage, a madness, as they couldn't answer Jesus and were determined to destroy Him. Their rage was fueled by pride, obstinacy, malice, and disappointed self-confidence. This incident highlighted their envy at Jesus' success and their refusal to accept him or his methods.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9019454073322235,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.58,
+            "commentatorTierSimilarities": [
+                27.44,
+                42.95,
+                29.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

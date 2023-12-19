@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 14:58:31",
+    "verseRef": "1 Corinthians 1:16",
+    "bestBHT": {
+        "bht": "Paul mentions baptizing Stephanas and his family, leaving room for the possibility of baptizing others he may have forgotten. The practice of infant baptism since early times suggests that households like Stephanas' likely included infants. Stephanas and his family were among the first converts in Achaia, justifying Paul's personal attention to their baptism. This emphasizes that while baptism holds significance, it is not essential for the remission of sin or forgiveness. The inclusion of this exceptional case highlights the diversity of baptism practices and challenges the notion of absolute writer omniscience.",
+        "wordCount": 92,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.970255563776498,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.85,
+        "commentatorTierSimilarities": [
+            38.72,
+            22.64,
+            38.65
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He subsequently recollects having baptized Stephanas and his family...and he leaves an opening for any others whom he may possibly have baptized and have forgotten it.\" ",
+            "The last clause is important as against those who maintain the absolute omniscience of the inspired writers on every topic which they handle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The history of the Church favors this view, as infant baptism was the usage from the earliest ages.\" ",
+            "It is likely that such 'households' included infants.\" ",
+            "The household of Stephanas [...] among the first converted there."
+        ],
+        "Albert Barnes": [
+            "Whether there were any infants in the family, does not appear."
+        ],
+        "Marvin Vincent": [
+            "And I baptized also. Another exceptional case occurs to him which he conscientiously adds. The de and has a slightly corrective force."
+        ],
+        "Archibald T. Robertson": [
+            "Paul calls him a first-fruit of Achaia (1 Corinthians 16:15) and so earlier than Crispus and he was one of the three who came to Paul from Corinth (1 Corinthians 16:17), clearly a family that justified Paul's personal attention about baptism.",
+            "Besides (\u03bb\u03bf\u03b9\u03c0\u03bf\u03bd). Accusative of general reference, 'as for anything else.' Added to make clear that he is not meaning to omit any one who deserves mention.",
+            "Paul casts no reflection on baptism, for he could not with his conception of it as the picture of the new life in Christ (Romans 6:2-6), but he clearly denies here that he considers baptism essential to the remission of sin or the means of obtaining forgiveness."
+        ],
+        "John Gill": [
+            "No argument can be formed from the baptism of his household in favour of infant baptism, since it must be first proved that he had any infants in his family, and that these were baptized.",
+            "And if they were not the same, yet it is clear that this household of Stephanas consisted of adult, converted, and very useful persons; they were the firstfruits of Achaia, and had addicted themselves to the ministry of the saints.",
+            "He could not tell but that some persons might have removed thither, and become members of the church in that place, who had been baptized by him elsewhere."
+        ],
+        "John Wesley": [
+            "I know not \u2014 That is, it does not at present occur to my memory, that I baptized any other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 1:16, Paul recalls baptizing Stephanas and his family, while acknowledging the possibility of baptizing others that he may have forgotten. This challenges the notion of the absolute omniscience of the inspired writers. Moreover, the historical practice of infant baptism from the earliest ages suggests that households, like Stephanas', likely included infants. Stephanas' household is noted for being among the first converted in the area of Achaia, and it seems that his family justified Paul's personal attention regarding baptism. Paul's inclusion of this exceptional case does not diminish the significance of baptism but emphasizes that it is not essential for the remission of sin or forgiveness. While it is uncertain if Stephana's household included infants, their conversion, dedication to ministry, and adult status indicate the importance of their baptism.",
+            "wordCount": 132,
+            "quoteTokenProportion": 34.52,
+            "qualityScore": 1.9323762659203056,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                36.51,
+                26.89,
+                36.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul mentions baptizing Stephanas and his family, leaving room for the possibility of baptizing others he may have forgotten. The practice of infant baptism since early times suggests that households like Stephanas' likely included infants. Stephanas and his family were among the first converts in Achaia, justifying Paul's personal attention to their baptism. This emphasizes that while baptism holds significance, it is not essential for the remission of sin or forgiveness. The inclusion of this exceptional case highlights the diversity of baptism practices and challenges the notion of absolute writer omniscience.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.970255563776498,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.85,
+            "commentatorTierSimilarities": [
+                38.72,
+                22.64,
+                38.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul recalls baptizing Stephanas and his family, leaving room for the possibility that he may have baptized others whom he forgot. The historical practice of infant baptism suggests that households like Stephanas' likely included infants. Stephanas' family, being among the first converts, received Paul's personal attention regarding baptism. This highlights that while baptism holds significance, it is not essential for forgiveness or the remission of sin. The inclusion of this exceptional case challenges the notion of absolute writer omniscience.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.9494639053993865,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.16,
+            "commentatorTierSimilarities": [
+                37.11,
+                27.09,
+                35.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul acknowledges baptizing Stephanas and his household while also alluding to the possibility of baptizing others that he may have forgotten. According to historical evidence, infant baptism was practiced from early on, indicating that households like Stephanas' likely included children. Stephanas and his family were among the first converts and received special attention from Paul concerning their baptism. This emphasizes that although baptism is significant, it is not essential for forgiveness or the remission of sin. The inclusion of this exceptional case challenges the idea of the writers' absolute knowledge.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.883219327876246,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                37.97,
+                24.86,
+                37.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul mentions baptizing Stephanas and his family, while indicating the possibility of baptizing others that he may have forgotten. The practice of infant baptism, evident since early times, suggests that households like Stephanas' likely included infants. Stephanas' family, among the first converts, received special attention regarding their baptism. This underlines that while baptism is significant, it is not essential for forgiveness or the remission of sin. The inclusion of this exceptional case challenges the notion of absolute writer knowledge.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.9313598256024034,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                35.75,
+                29.37,
+                34.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:15:25",
+    "verseRef": "2 Corinthians 2:6",
+    "bestBHT": {
+        "bht": "The punishment inflicted on the individual in question remains uncertain, but it likely involved excommunication or voluntary abstinence from communion. The goal of this punishment was to bring about repentance and salvation, rather than driving the individual to despair. The majority of the church participated in this disciplinary action, either through a formal and public excommunication or by abstaining from communion with the offender. Paul's compassionate approach demonstrates the importance of administering church discipline with fairness and empathy, aiming at the restoration of relationships within the body of believers.",
+        "wordCount": 90,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 2.0330174231160107,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+        "commentatorTierSimilarities": [
+            34.22,
+            32.67,
+            33.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This punishment: what it was, we are unable with certainty to say...excommunication as forming at least a part of it.",
+            "But it was not a formal and public, only a voluntary individual abstinence from communion with him.",
+            "So that on the contrary you (should) rather (than continue the punishment) forgive and comfort him...by the increase of sorrow which will come on the continuance of his punishment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sufficient\u2014without increasing it, which would only drive him to despair, whereas the object of the punishment was, 'that (his) spirit might be saved' in the last day.",
+            "Rather, it expresses estrangement from such a one who had caused such grief to the Church, and scandal to religion.",
+            "His being 'delivered to Satan for the destruction of the flesh'; not only excommunication, but bodily disease."
+        ],
+        "Albert Barnes": [
+            "The punishment which they had inflicted on him was 'sufficient.' It had accomplished all that he had desired. It had humbled him, and brought him to repentance.",
+            "He never once mentions his name, nor does he mention his crime. He speaks of him only in the soft terms of 'such a one' and 'any one.'",
+            "The expression proves beyond a doubt that the whole body of the society was concerned in the act of the excommunication, and that is a proper way of administering discipline."
+        ],
+        "Marvin Vincent": [
+            "Many [\u03c4\u03c9\u03bd \u03c0\u03bb\u03b5\u03b9\u03bf\u03bd\u03c9\u03bd] . Rev., correctly, the many : the majority of the Church."
+        ],
+        "John Calvin": [
+            "In his showing indulgence even to one who was deserving of severer punishment, the Corinthians have a striking instance to convince them, how much he disliked excessive harshness.",
+            "This passage ought to be carefully observed, as it shows us, with what equity and clemency the discipline of the Church ought to be regulated, in order that there may not be undue severity.",
+            "Paul is satisfied with the repentance of the offender, that a reconciliation may take place with the Church."
+        ],
+        "Philip Schaff": [
+            "Sufficient to such a man is this punishment inflicted by the many either 'the majority,' in which case the decision was not unanimous, some dissenting, for reasons not hard to seek.\" ",
+            "Or (taking 'the many' to refer to the publicity of the act) in presence of the gathered congregation, as directed expressly in 1 Corinthians 5:4."
+        ],
+        "Archibald T. Robertson": [
+            "Punishment (\u03b5\u03c0\u03b9\u03c4\u03b9\u03bc\u03b9\u03b1). Late word for old Greek to \u03b5\u03c0\u03b9\u03c4\u03b9\u03bc\u03b9\u03bf\u03bd (so papyri), from \u03b5\u03c0\u03b9\u03c4\u03b9\u03bc\u03b1\u03c9, to show honour to, to award, to adjudge penalty.\" ",
+            "By the many (\u03c5\u03c0\u03bf \u03c4\u03c9\u03bd \u03c0\u03bb\u03b5\u03b9\u03bf\u03bd\u03c9\u03bd). By the more, the majority.\" ",
+            "If Paul refers to the case in 2 Corinthians 2:1, they had taken his advice and expelled the offender."
+        ],
+        "John Gill": [
+            "In inflicting this punishment, or laying on this censure in the public manner they did, they were certainly right, and to be commended.",
+            "In case of gross enormities, there ought to be a public excommunication; and that this is to be done by the vote, and with the consent of the whole church, or the major part of it.",
+            "When the person thus dealt with has given the church satisfaction as to the truth and genuineness of his repentance, the censure ought to be taken off and he be cordially received into the communion of the church again."
+        ],
+        "John Wesley": [
+            "With what a remarkable tenderness does St. Paul treat this offender!",
+            "He never once mentions his name.",
+            "Nor does he here so much as mention his crime."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The punishment inflicted on the individual in this verse is unclear, but it appears to be some form of excommunication or voluntary individual abstinence from communion. The goal of this punishment was not to destroy the individual, but rather to bring about repentance and ultimate salvation. It is evident that the majority of the church was involved in the decision to administer this punishment, and it was done publicly for the purpose of discipline and the restoration of the individual. It is noteworthy how Paul shows tenderness and forgiveness towards the offender, not even mentioning his name or the specific crime committed. This passage serves as a reminder that church discipline should be carried out with equity, clemency, and the goal of reconciliation.",
+            "wordCount": 123,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 2.0589724821577278,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+            "commentatorTierSimilarities": [
+                30.5,
+                34.1,
+                35.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The punishment inflicted on the individual is uncertain, yet it likely involved excommunication or voluntary abstinence from communion. The majority of the church participated in this disciplinary action to bring about repentance and salvation. Paul's approach is tender, not mentioning the offender's name or crime. This demonstrates the importance of administering church discipline with fairness, compassion, and the aim of restoring relationships. It serves as a valuable reminder of how the church should handle disciplinary matters to ensure the well-being of its members and the unity of the body of Christ.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.804742620868423,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "commentatorTierSimilarities": [
+                32.46,
+                29.59,
+                37.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The punishment inflicted on the individual in question remains uncertain, but it likely involved excommunication or voluntary abstinence from communion. The goal of this punishment was to bring about repentance and salvation, rather than driving the individual to despair. The majority of the church participated in this disciplinary action, either through a formal and public excommunication or by abstaining from communion with the offender. Paul's compassionate approach demonstrates the importance of administering church discipline with fairness and empathy, aiming at the restoration of relationships within the body of believers.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.0330174231160107,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                34.22,
+                32.67,
+                33.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The punishment given to the individual is unclear, but it likely involved excommunication or voluntary abstinence from communion. The majority of the church participated in this disciplinary action for the purpose of discipline and restoration. Paul's gentle handling of the situation, not mentioning the offender's name or crime, showcases his disapproval of excessive harshness in church discipline. This passage serves as a reminder of the importance of administering discipline with equity and clemency, aiming at reconciliation and the well-being of the church community.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.9698392283172055,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                31.16,
+                31.8,
+                37.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The punishment given to the individual is unclear, but it likely involved excommunication or voluntary abstinence from communion. The majority of the church participated in this disciplinary action for the purpose of discipline and restoration. Paul's gentle handling of the situation, not mentioning the offender's name or crime, showcases his disapproval of excessive harshness in church discipline. This serves as a reminder of the importance of administering discipline with equity and clemency, aiming at reconciliation and the well-being of the church community.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9533766572444802,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.29,
+            "commentatorTierSimilarities": [
+                31.39,
+                31.6,
+                37.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

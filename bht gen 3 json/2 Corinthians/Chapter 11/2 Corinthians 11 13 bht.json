@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:18:04",
+    "verseRef": "2 Corinthians 11:13",
+    "bestBHT": {
+        "bht": "These false apostles, dishonest workmen, change themselves into apostles of Christ. They are deceitful, crafty, and hypocritical, seeking their own gain while pretending to be servants of Christ. However, their true nature will be revealed, for they are not true apostles at all. To avoid being deceived by them, we must thoroughly evaluate and discern their intentions, as they possess great cunning and are capable of deceiving even the most devoted followers of Christ.",
+        "wordCount": 74,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 2.2058030385593455,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.68,
+        "commentatorTierSimilarities": [
+            27.68,
+            37.11,
+            35.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Such men are false apostles, dishonest workmen, changing themselves into apostles of Christ.",
+            "By a fair comparison between us, this mask will be stript off.",
+            "By the abundance of my sufferings, and distinctions vouchsafed by the Lord, my Apostolicity will be fully proved, and their Pseud-apostolism shewn."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "False apostles... are no apostles at all.\" ",
+            "Pretending to be 'workmen' for the Lord, and really seeking their own gain.\" ",
+            "Unwilling they should be thought like him."
+        ],
+        "Albert Barnes": [
+            "They have no claim to the apostolic office. They are deceivers.",
+            "People who practice various arts to impose on others. They were crafty, and fraudulent, and hypocritical.",
+            "Pretending to be apostles. Hypocritical and deceitful, they yet pretended to have been sent by Christ."
+        ],
+        "Marvin Vincent": [
+            "Transforming themselves [\u03bc\u03b5\u03c4\u03b1\u03c3\u03c7\u03b7\u03bc\u03b1\u03c4\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . Rev., better, fashioning, thus preserving the distinctive force of schma outward fashion, which forms part of the compound verb. See on Matthew 17:2; 1 Corinthians 4:6."
+        ],
+        "John Calvin": [
+            "For it was necessary to pull off the mask, which obscured the glory of God.",
+            "Hence they require to be carefully and thoroughly sifted, lest we should receive persons as servants of Christ, as soon as any appearance of excellence is discovered.",
+            "There was a dangerous profanation of virtue in pretending to burn with greater zeal than all the servants of Christ."
+        ],
+        "Philip Schaff": [
+            "For such men are false apostles, deceitful workers, fashioning themselves into apostles of Christ.",
+            "He now tears off the mask, giving his opponents their true name in which character they but copy their real master.",
+            "As next verse says."
+        ],
+        "Archibald T. Robertson": [
+            "False apostles (\u03c8\u03b5\u03c5\u03b4\u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf). From \u03c8\u03b5\u03c5\u03b4\u03b7\u03c2, false, and \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2.",
+            "Deceitful (\u03b4\u03bf\u03bb\u03b9\u03bf). Old word from \u03b4\u03bf\u03bb\u03bf\u03c2 (lure, snare), only here in N.T.",
+            "Fashioning themselves (\u03bc\u03b5\u03c4\u03b1\u03c3\u03c7\u03b7\u03bc\u03b1\u03c4\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf). Present middle (direct) participle of the old verb \u03bc\u03b5\u03c4\u03b1\u03c3\u03c7\u03b7\u03bc\u03b1\u03c4\u03b9\u03b6\u03c9."
+        ],
+        "John Gill": [
+            "They were not called and sent forth by Christ... they could not prove their mission by true and real miracles; nor had they any seals of their apostleship.\" ",
+            "They pretended to work, but did not; and to work for Christ, when they only served themselves, and their own bellies... and lay in wait to deceive men.",
+            "They were masters of so much art and cunning, that, if it was possible, they would have deceived the very elect."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These false apostles, deceitful workers, who fashion themselves into apostles of Christ, are nothing more than impostors. They seek their own gain and pretend to be servants of Christ, trying to deceive others with their deceitful tactics. But their mask will ultimately be torn off, exposing their true nature. They are not true apostles and lack the authenticity and authority that comes with being called and sent forth by Christ. It is important to carefully discern and sift through these individuals, for they are masters of deception, seeking to mislead even the elect if possible.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.0929904242077844,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.93,
+            "commentatorTierSimilarities": [
+                26.23,
+                36.34,
+                37.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These false apostles, deceitful workers, who fashion themselves into apostles of Christ, are nothing more than impostors. They seek their own gain and pretend to be servants of Christ, trying to deceive others with their deceitful tactics. But their mask will be torn off, exposing their true nature as they are not true apostles. It is important to carefully discern and sift through these individuals, for they are masters of deception, seeking to mislead even the elect if possible.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.1947743738173595,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.32,
+            "commentatorTierSimilarities": [
+                27.06,
+                36.16,
+                36.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These false apostles, dishonest workmen, change themselves into apostles of Christ. They are deceitful, crafty, and hypocritical, seeking their own gain while pretending to be servants of Christ. However, their true nature will be revealed, for they are not true apostles at all. To avoid being deceived by them, we must thoroughly evaluate and discern their intentions, as they possess great cunning and are capable of deceiving even the most devoted followers of Christ.",
+            "wordCount": 74,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.2058030385593455,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.68,
+            "commentatorTierSimilarities": [
+                27.68,
+                37.11,
+                35.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These false apostles, dishonest workmen, change themselves into apostles of Christ, seeking their own gain while pretending to be servants of Christ. They are deceitful and crafty, fashioning themselves into apostles despite lacking authenticity. We must carefully and thoroughly sift through them, as they possess great cunning and are capable of deceiving even the most sincere believers. Their true nature will eventually be exposed, and we must remain discerning to avoid being misled by their deceitful tactics.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.069215038308594,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                26.34,
+                35.93,
+                37.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These false apostles, deceitful workers, are nothing more than impostors, fashioning themselves into apostles of Christ while seeking their own gain. However, their true nature will be revealed, for they are not true apostles at all. To avoid being deceived, it is crucial to carefully discern and sift through these individuals, as they possess great cunning and are capable of deceiving even the most devoted followers of Christ. Their mask will ultimately be torn off, exposing their deceptive nature and revealing their lack of authenticity as true messengers of Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.1445853343301127,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.65,
+            "commentatorTierSimilarities": [
+                27.68,
+                35.42,
+                36.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:12:44",
+    "verseRef": "1 Corinthians 13:10",
+    "bestBHT": {
+        "bht": "When that which is perfect, the full-grown and mature state, arrives, the partial and fragmentary knowledge we now possess will be abolished, forgotten, and lost in the superior and perfect glory of the eternal world. The imperfection of our knowledge will be removed, giving way to the enduring and vanishing away the temporary. At death and in the last day, when perfect knowledge of God and Christ is attained, the imperfect methods and reception of knowledge will cease.",
+        "wordCount": 79,
+        "quoteTokenProportion": 34.0,
+        "qualityScore": 1.7110658759946134,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+        "commentatorTierSimilarities": [
+            12.29,
+            40.85,
+            46.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When that which is perfect (entire\u2014universal) shall have come, this partial shall be abolished\u2014superseded.",
+            "The same idea is otherwise expressed.",
+            "See Eph. iv. 11\u201313, where the same idea is otherwise expressed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. that which is in",
+            "\tpart\u2014fragmentary and isolated."
+        ],
+        "Albert Barnes": [
+            "When anything which is perfect is seen or enjoyed, then that which is imperfect is forgotten, laid aside, or vanishes.",
+            "In heaven - a state of absolute perfection - that which is 'in part,' or which is imperfect, shall be lost in superior brightness.",
+            "All imperfection will vanish. And all that we here possess that is obscure shall be lost in the superior and perfect glory of that eternal world."
+        ],
+        "John Calvin": [
+            "When the goal has been reached, then the helps in the race will be done away.",
+            "Perfection, when it will arrive, will put an end to everything that aids imperfection.",
+            "Hence we infer, that the whole of this discussion is ignorantly applied to the time that is intermediate."
+        ],
+        "Philip Schaff": [
+            "the partial of necessity giving place to the perfect, the temporary to the enduring.\" ",
+            "the change that takes place from childhood to manhood, in ideas, in interests, in occupations."
+        ],
+        "Archibald T. Robertson": [
+            "That which is perfect, the full-grown, the mature.",
+            "The perfect, the full-grown, the mature.",
+            "H\u03bf\u03c4\u03b1\u03bd \u03b5\u03bb\u03b8\u03b7 is second aorist subjunctive with \u03bf\u03c4\u03b1\u03bd, temporal clause for indefinite future time."
+        ],
+        "John Gill": [
+            "When perfect knowledge of God, of Christ, and of the mysteries of the kingdom of heaven shall take place... in that which is to come.",
+            "The imperfection of knowledge shall be removed; the imperfect manner of communicating knowledge, and of receiving and acquiring it, will cease.",
+            "Imperfect knowledge will vanish away, or rather will be perfected, or be swallowed up in perfect knowledge; the imperfection of it will disappear; and it will be no more taught and received in part; the whole of truth will be clearly known."
+        ],
+        "John Wesley": [
+            "But when that which is perfect is come \u2014 At death and in the last day.",
+            "That which is in part shall vanish away \u2014 Both that poor, low, imperfect, glimmering light, which is all the knowledge we now can attain to.",
+            "And these slow and unsatisfactory methods of attaining, as well as of imparting it to others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the full-grown, perfect state arrives, the partial, fragmentary knowledge we now possess will be abolished and forgotten, for that which is imperfect will be lost in the superior and perfect glory of the eternal world. The imperfection of our knowledge will be removed, and the temporary will give way to the enduring. The change that takes place from childhood to manhood, in ideas, interests, and occupations, is a glimpse of this transformation. At death and in the last day, when perfect knowledge of God and Christ is achieved, the imperfect methods and reception of knowledge will cease.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6654016614580907,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                12.66,
+                45.67,
+                41.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When that which is perfect, the full-grown and mature state, arrives, the partial and fragmentary knowledge we now possess will be abolished, forgotten, and lost in the superior and perfect glory of the eternal world. The imperfection of our knowledge will be removed, giving way to the enduring and vanishing away the temporary. This transformation is reminiscent of the change from childhood to adulthood, where ideas, interests, and occupations evolve. At death and in the last day, when perfect knowledge of God and Christ is attained, the imperfect methods and reception of knowledge will cease altogether.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.640891644168876,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                14.0,
+                44.15,
+                41.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When that which is perfect, the full-grown and mature state, arrives, the partial and fragmentary knowledge we now possess will be abolished, forgotten, and lost in the superior and perfect glory of the eternal world. The imperfection of our knowledge will be removed, giving way to the enduring and vanishing away the temporary. At death and in the last day, when perfect knowledge of God and Christ is attained, the imperfect methods and reception of knowledge will cease.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.7110658759946134,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                12.29,
+                40.85,
+                46.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the perfect, full-grown, and mature state comes, the fragmentary and isolated knowledge we have now will be superseded and abolished. The partial and imperfect will be lost in the superior and perfect glory of the eternal world. The change from childhood to manhood, in ideas, interests, and occupations, reflects this transformation. At death and in the last day, when perfect knowledge of God and Christ is achieved, the imperfect methods and reception of knowledge will cease.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.6524406564180616,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.29,
+            "commentatorTierSimilarities": [
+                17.24,
+                45.85,
+                36.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When that which is perfect, the full-grown and mature state, arrives, the fragmentary and isolated knowledge we have now will be abolished and superseded. The imperfection of our knowledge will be removed, replaced by the enduring and vanishing away the temporary. This transformation can be likened to the change from childhood to manhood, where ideas, interests, and occupations evolve. At death and in the last day, when perfect knowledge of God and Christ is attained, the imperfect methods and reception of knowledge will cease.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.5989297537454648,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.51,
+            "commentatorTierSimilarities": [
+                16.15,
+                42.27,
+                41.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

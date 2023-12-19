@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:03:51",
+    "verseRef": "1 Corinthians 3:21",
+    "bestBHT": {
+        "bht": "For you to glory in men is lowering yourselves from your high position as heirs of all things. All men, including your teachers, belong to Christ and therefore to you, by your union with Him. He makes them and all things work together for good. Therefore, let no one glory in men, for that is degrading to those who are heirs of all things. Instead, let no one exalt one preacher above another or reject others when they all belong to you. Remember, let no one glory in men and boast in the Lord, for all things are yours.",
+        "wordCount": 99,
+        "quoteTokenProportion": 57.89,
+        "qualityScore": 2.086412402698084,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+        "commentatorTierSimilarities": [
+            29.94,
+            34.78,
+            35.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This boasting in men is explained in ch. iv. 6 to mean, 'not to be puffed up each for one against another.'\" (21 words)",
+            "For all things are your\u2019s] \u2018For such boasting is a degradation to those who are heirs of all things, and for whom all, whether ministers or events, or the world itself, are working together...\" (38 words)",
+            "see Rom. viii. 28; and iv. 13\" (6 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that glorieth, let him glory in THE LORD.",
+            "For you to glory thus in men, is lowering yourselves from your high position as heirs of all things.",
+            "All men (including your teachers) belong to Christ, and therefore to you, by your union with Him; He makes them and all things work together for your good."
+        ],
+        "Albert Barnes": [
+            "Since all were ministers or servants of God; since God was the source of all good influences; since, whatever might be the pretensions to wisdom among people, it was all foolishness in the sight of God, the inference was clear, that no man should glory in man.",
+            "Let no man glory in men.",
+            "In Paul, in Apollos, in life, death, etc. they had a common interest, and no one should boast that he had any special proprietorship in any of these things."
+        ],
+        "Marvin Vincent": [
+            "All things are yours.",
+            "In Christ, death becomes a possession.",
+            "Death...the right of way between things present and things to come."
+        ],
+        "John Calvin": [
+            "There is nothing that is more vain than man, how little security there is in leaning upon an evanescent shadow!",
+            "We must not glory in men, inasmuch as the Lord thus takes away from mankind universally every ground of glorying.",
+            "Any supremacy of man, by which the glory of Christ is impaired, involves sacrilege."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 3:21. Wherefore, let no one glory in men in one preacher as opposed to another. For all things are yours.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Wherefore let no one glory in men.\" ",
+            "The conclusion from the self-conceit condemned.",
+            "The spirit of glorying in party is a species of self-conceit and inconsistent with glorying in the Lord."
+        ],
+        "John Gill": [
+            "Therefore let no man glory in men...for all things are yours;",
+            "...they ought not to behave in such manner to the best of ministers, nor to glory in anyone above another;",
+            "...it was very wrong to set up one above, or against another, or for any party to engross anyone minister, when he belonged to them all; and great weakness to reject others, when they had a common right and property in them."
+        ],
+        "John Wesley": [
+            "Let none glory in men... For all things are yours.\" ",
+            "We are not your lords, but rather your servants.\" ",
+            "We in particular."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let no one boast in men, for this kind of boasting is a degradation to those who are heirs of all things. As believers, all men, including our teachers, belong to Christ and therefore to us through our union with Him. Christ makes them and all things work together for our good, for all things are ours. So, why should we lower ourselves by glorifying individuals when we have the privilege of glorying in the Lord? Let us not fall into the trap of self-conceit and the spirit of party, but instead find our true glory in the all-encompassing blessings and inheritance we have in Christ.",
+            "wordCount": 108,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.859244325652583,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.16,
+            "commentatorTierSimilarities": [
+                30.95,
+                33.49,
+                35.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let no one boast in men, for this kind of boasting is a degradation to those who are heirs of all things. As believers, all men belong to Christ and, therefore, to us through our union with Him. Christ makes them and all things work together for our good, for all things are ours. So, why should we lower ourselves by glorifying individuals when we have the privilege of glorying in the Lord? Let us find our true glory in the all-encompassing blessings we have in Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 55.93,
+            "qualityScore": 1.872348718073476,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                29.99,
+                34.56,
+                35.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let no one boast in men, for this kind of boasting is a degradation to those who are heirs of all things. As believers, all men belong to Christ, and He makes them and all things work together for our good. So, why should we lower ourselves by glorifying individuals when we have the privilege of glorying in the Lord? Let us find our true glory in the all-encompassing blessings we have in Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 1.9185977799942044,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+            "commentatorTierSimilarities": [
+                28.73,
+                36.0,
+                35.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For you to glory in men is lowering yourselves from your high position as heirs of all things. All men, including your teachers, belong to Christ and therefore to you, by your union with Him. He makes them and all things work together for your good. Therefore, let no one glory in men, for such boasting is a degradation to those who are heirs of all things and for whom all, whether ministers or events, or the world itself, are working together. Let no one exalt one preacher above another, for in Paul, in Apollos, in life, death, and all things, you have a common interest. Remember that you are not to set up one minister against another or reject others when they belong to you all. Instead, let no one glory in men and boast in the Lord, for all things are yours.",
+            "wordCount": 144,
+            "quoteTokenProportion": 53.16,
+            "qualityScore": 2.087456884578265,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+            "commentatorTierSimilarities": [
+                29.56,
+                35.23,
+                35.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For you to glory in men is lowering yourselves from your high position as heirs of all things. All men, including your teachers, belong to Christ and therefore to you, by your union with Him. He makes them and all things work together for good. Therefore, let no one glory in men, for that is degrading to those who are heirs of all things. Instead, let no one exalt one preacher above another or reject others when they all belong to you. Remember, let no one glory in men and boast in the Lord, for all things are yours.",
+            "wordCount": 99,
+            "quoteTokenProportion": 57.89,
+            "qualityScore": 2.086412402698084,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+            "commentatorTierSimilarities": [
+                29.94,
+                34.78,
+                35.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:17:49",
+    "verseRef": "Luke 10:24",
+    "bestBHT": {
+        "bht": "David and Solomon, through their longing for the coming Redeemer, foreshadowed the present time for believers. Their words reveal a deep desire for salvation, even though they were unable to fully experience it. In contrast, present believers have the privilege of witnessing and hearing what prophets and kings yearned for. This highlights the surpassing blessings and revelation experienced by the Church today, as they see and hear the teachings and miracles of Christ. It is a testament to the fulfillment of prophecy and the eager anticipation of the past saints.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.4938640694580185,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.01,
+        "commentatorTierSimilarities": [
+            51.42,
+            0.0,
+            48.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "David united both these, also Solomon.",
+            "The last words of David [...] certainly are a prophecy of the Redeemer.",
+            "This is all my salvation, and all my desire, though he make it not to grow."
+        ],
+        "John Calvin": [
+            "The condition of the Church, at the present day, is justly pronounced to be preferable to that of the holy fathers, who lived under the Law; because to them was exhibited, under shadows and figures only, what is now openly manifested in the shining face of Christ.",
+            "Let us therefore learn, that they breathed after Christ, like hungry persons, and yet possessed a serene faith; so that they did not murmur against God, but kept their minds in patient expectation till the full time of revelation.",
+            "And indeed it was impossible that, under the burden of that curse by which the human race is crushed, they should be otherwise than altogether inflamed with the desire of a promised deliverance."
+        ],
+        "Archibald T. Robertson": [
+            "Which ye see (\u03b1 \u03c5\u03bc\u03b5\u03b9\u03c2 \u03b2\u03bb\u03b5\u03c0\u03b5\u03c4\u03b5). The expression of \u03c5\u03bc\u03b5\u03b9\u03c2 makes \"ye\" very emphatic in contrast with the prophets and kings of former days. "
+        ],
+        "John Gill": [
+            "For I tell you that many prophets and kings...",
+            "...have desired to see those things which ye see, and have not seen them, and to hear those things which ye hear, and have not heard them...",
+            "...meaning himself, doctrines, and miracles..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the significance of the present time for the believers. The reference to David and Solomon acknowledges their longing for the coming of the Redeemer. Their words express their deep desire for salvation, even though they were unable to witness it fully. This contrasts with the present believers who have the privilege of seeing and hearing the things that the prophets and kings yearned for. The Church now stands in a position of greater understanding and revelation compared to the days of old. The verse emphasizes the fulfillment of prophecy through Christ, evidenced in his teachings and miracles. The hunger and patient faith of the saints of old are to be admired, as they eagerly awaited the arrival of the promised Messiah and the redemption he would bring. Ultimately, the verse affirms the surpassing blessings and revelation experienced by the believers of today.",
+            "wordCount": 145,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3953911766615938,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.74,
+            "commentatorTierSimilarities": [
+                53.69,
+                0.0,
+                46.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "David and Solomon, through their longing for the coming Redeemer, foreshadowed the present time for believers. Their words reveal a deep desire for salvation, even though they were unable to fully experience it. In contrast, present believers have the privilege of witnessing and hearing what prophets and kings yearned for. This highlights the surpassing blessings and revelation experienced by the Church today, as they see and hear the teachings and miracles of Christ. It is a testament to the fulfillment of prophecy and the eager anticipation of the past saints.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4938640694580185,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.01,
+            "commentatorTierSimilarities": [
+                51.42,
+                0.0,
+                48.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The words of David and Solomon serve as a prophecy of the Redeemer, expressing their deep desire for salvation. This longing for the promised deliverance is also seen in the hunger and patient faith of the saints of old. They eagerly awaited the revelation of Christ, even though they could only experience it in shadows and figures. Today, believers have the privilege of seeing and hearing the teachings and miracles of Christ, surpassing the understanding of the prophets and kings of old. Their anticipation is now fulfilled.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.33390346515718,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+            "commentatorTierSimilarities": [
+                51.4,
+                0.0,
+                48.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The present time for believers is significant, as it fulfills the longings and prophecies of David and Solomon. Their words express a deep desire for salvation and the coming of the Redeemer. These desires were held by the saints of old who eagerly anticipated the revelation of Christ. However, it is the present believers who have the privilege of seeing and hearing the teachings and miracles of Jesus, surpassing the understanding and experiences of the prophets and kings. The fulfillment of prophecy is evident in the revelation of Christ and His message.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.4800462365230134,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.55,
+            "commentatorTierSimilarities": [
+                55.37,
+                0.0,
+                44.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "David and Solomon's longing for the coming Redeemer prophetically points to the present time for believers. Their words express a deep desire for salvation, despite not being able to fully witness it. In contrast, present believers are privileged to see and hear what previous kings and prophets yearned for. Their hunger and patient faith in the promised deliverance are admirable. The verse highlights the surpassing revelation and blessings experienced by the Church now, with Christ's teachings and miracles serving as a fulfillment of prophecy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.4310459185378333,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.93,
+            "commentatorTierSimilarities": [
+                51.25,
+                0.0,
+                48.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

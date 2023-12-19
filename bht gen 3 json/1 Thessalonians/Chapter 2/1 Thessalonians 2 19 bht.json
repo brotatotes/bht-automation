@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:58:55",
+    "verseRef": "1 Thessalonians 2:19",
+    "bestBHT": {
+        "bht": "The Apostle Paul expresses his hope and joy in the Thessalonians, stating that they are his crown of rejoicing before Jesus at His appearing. His hope is not based on their conversion compensating for his past persecution of the Church, but stems from his desire to be found with the fruits of his labor at the day of the Lord. The Thessalonians are his glory and joy, and their acceptance as true Christians by the Lord Jesus Christ at His coming will be the brightest point in their future.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.4804830730906238,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.82,
+        "commentatorTierSimilarities": [
+            39.72,
+            36.24,
+            24.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostle, after having asked and answered the question, 'what is our hope?&c.,' breaks off, and specifies that wherein this hope and joy mainly consisted, viz. the glorious prospect of their being found in the Lord at his appearing.\" ",
+            "But he does not look forward to this as anticipating a reward for the conversion of the Thessalonians, or that their conversion will compensate for his having persecuted the Church before, but from generous desire to be found at that day with the fruits of his labour.\" ",
+            "And that they might be his boast and he theirs before the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Are not even ye our hope, joy, and crown of rejoicing before Jesus, when He shall come?\" ",
+            "The 'hope' here meant is his hope (in a lower sense), that these his converts might be found in Christ at His advent.",
+            "Paul's chief 'hope' was JESUS CHRIST."
+        ],
+        "Albert Barnes": [
+            "It was an evidence that he was a faithful servant of God, and that he would be rewarded in heaven.",
+            "The source of joy here and in heaven.",
+            "When the Lord Jesus appears at the end of the world, then our highest source of happiness and honor will be your conversion and salvation."
+        ],
+        "Marvin Vincent": [
+            "Hope. Used of the object of hope.",
+            "Joy - crown [\u03c7\u03b1\u03c1\u03b1 - \u03c3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03c2].",
+            "The Thessalonians were 'a chaplet of victory of which Paul might justly make his boast in the day of the Lord' (Ellicott)."
+        ],
+        "John Calvin": [
+            "Unless I forget myself, I must necessarily desire your presence, for ye are our glory and joy.",
+            "We must infer from this, that Christ's ministers will, on the last day, according as they have individually promoted His kingdom, be partakers of glory and triumph.",
+            "Let them therefore now learn to rejoice and glory in nothing but the prosperous issue of their labors, when they see that the glory of Christ is promoted by their instrumentality."
+        ],
+        "Philip Schaff": [
+            "I thus earnestly long to see you, for there is nothing which affords the same prospect, or the same present enjoyment, or the same substantial satisfaction, as my Christian children in your church.",
+            "The brightest point in our future is your acceptance as true Christians by the Lord Jesus Christ at His coming.",
+            "As the victor can point to his garland in proof that he has fought a good fight, so the apostle felt thorough satisfaction in the Thessalonians as evidence that his labours had not been in vain."
+        ],
+        "Archibald T. Robertson": [
+            "Crown of glorying (\u03c3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03c2 \u03ba\u03b1\u03c5\u03c7\u03b7\u03c3\u03b5\u03c9\u03c2). When a king or conqueror came on a visit he was given a chaplet of glorying.",
+            "The Thessalonians, Paul says, will be his crown, glory, joy when Jesus comes.",
+            "The word in the papyri is almost technical for the arrival of a king or ruler who expects to receive his 'crown of coming.'"
+        ],
+        "John Gill": [
+            "They were persons whom they hoped well of, and of whom their hope was steadfast; as of their election of God, of their redemption by Christ, of their effectual calling, of their perseverance in faith and holiness, notwithstanding all reproach and persecution; and of meeting the Lord, and being together with him for ever.",
+            "They continued to be their joy, inasmuch as they stood fast in the Lord, walked on in the truth, and had their conversations as became the Gospel of Christ; and they were persuaded would be their joy hereafter, at the second coming of Christ.",
+            "To judge the quick and dead, when both they and these should meet him, and stand before him with confidence, being clothed with his righteousness, and clad with robes of immortality and glory."
+        ],
+        "John Wesley": [
+            "Ye also \u2014 As well as our other children."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle Paul expresses his hope and joy in the Thessalonians, stating that they are his crown of rejoicing before Jesus at His appearing. His hope is not based on their conversion compensating for his past persecution of the Church, but stems from his desire to be found with the fruits of his labor at the day of the Lord. He views them as evidence of his faithful service to God and the source of his happiness here and in heaven, longing to see them as nothing else brings him the same prospect, present enjoyment, and satisfaction. The Thessalonians are his glory and joy, and their acceptance as true Christians by the Lord Jesus Christ at His coming will be the brightest point in their future.",
+            "wordCount": 126,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 2.426700885317998,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.03,
+            "commentatorTierSimilarities": [
+                37.39,
+                38.36,
+                24.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle Paul breaks off from discussing hope and specifies that his hope and joy consist in the Thessalonians being found in the Lord at His appearing. He desires to be with them at that day, boasting about them before the Lord. The Thessalonians are his hope, joy, and crown of rejoicing, and their acceptance as true Christians by Jesus will be the brightest point in their future. Their conversion is the evidence of Paul's faithful service to God, and he longs to see them as nothing else brings him the same prospect, enjoyment, and satisfaction.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.25845154242815,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.43,
+            "commentatorTierSimilarities": [
+                39.47,
+                37.72,
+                22.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle Paul expresses his hope and joy in the Thessalonians, stating that they are his crown of rejoicing before Jesus at His appearing. His hope is not based on their conversion compensating for his past persecution of the Church, but stems from his desire to be found with the fruits of his labor at the day of the Lord. The Thessalonians are his glory and joy, and their acceptance as true Christians by the Lord Jesus Christ at His coming will be the brightest point in their future.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.4804830730906238,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.82,
+            "commentatorTierSimilarities": [
+                39.72,
+                36.24,
+                24.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle Paul finds hope and joy in the Thessalonians, seeing them as his crown of rejoicing before Jesus at His appearing. He desires to be found with the fruits of his labor at the day of the Lord and boasts about them before God. Their acceptance as true Christians by Jesus will be the brightest point in their future. This hope is not to compensate for his past persecution but comes from his generous desire to see their conversion and be with them at the coming of Christ Jesus.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.2734865909936746,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.93,
+            "commentatorTierSimilarities": [
+                38.67,
+                37.07,
+                24.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle Paul's hope and joy lie in the Thessalonians being found in the Lord at His appearing. They are his crown of rejoicing and the evidence of his faithful service to God. He longs to see them, as nothing brings him the same prospect, enjoyment, and satisfaction as his Christian children in their church. Their acceptance by the Lord Jesus Christ at His coming is the brightest point in their future, symbolizing victory and glory for Paul and the fruit of his labor.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.267564793183353,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.74,
+            "commentatorTierSimilarities": [
+                36.1,
+                37.38,
+                26.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

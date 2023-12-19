@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:56:37",
+    "verseRef": "Philippians 4:15",
+    "bestBHT": {
+        "bht": "In the beginning of the Gospel, the Philippians were the only church that opened an account with Paul in regards to giving and receiving. While they were the ones who gave, Paul was the one who received. This did not make it any less of an account of giving-and-receiving. We should not wait for others in doing good works, but rather go forward, even if we are alone. The Philippians demonstrated a grateful and beneficent spirit from the moment the Gospel was preached to them, and their past favors were greatly commended.",
+        "wordCount": 94,
+        "quoteTokenProportion": 58.46,
+        "qualityScore": 1.889717252145275,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.17,
+        "commentatorTierSimilarities": [
+            36.16,
+            31.0,
+            32.84
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in the beginning of the gospel] i.e. of your receiving the Gospel: he places himself in their situation; dates from (so to speak) their Christian era.",
+            "no church communicated with me as to (in) an account of giving and receiving... ye alone opened such an account with me.",
+            "It is true the Philippians had all the giving, the Apostle all the receiving: the debtor side was vacant in their account, the creditor side in his: but this did not make it any the less an account of 'giving-and-receiving,' categorically so called."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We are not to wait for others in a good work, saying, 'I will do so, when others do it.' We must go forward, though alone.",
+            "The giving was all on your part; the receiving was all on mine.",
+            "Arrange as Greek, 'Ye also know (as well as I do myself).'"
+        ],
+        "Albert Barnes": [
+            "At the time when I first preached the gospel to you; or when the gospel began its benign influence on your hearts.",
+            "No church so participated with me in my sufferings and necessities, as to send to my relief.",
+            "All that is implied here is, that he specially commends the Philippians for their attention to him."
+        ],
+        "Marvin Vincent": [
+            "On his first European circuit, going by way of Athens to Corinth, where he was joined by Silvanus and Timothy."
+        ],
+        "John Calvin": [
+            "We must also, after Paul\u2019s example, take heed lest the pious, on seeing us too much inclined to receive from others, should on good grounds reckon us to be insatiable.",
+            "What base ingratitude, and how very unseemly, to treat such an Apostle with neglect, to whom they knew themselves to be under obligation beyond their power to discharge!",
+            "On the other hand, how great the forbearance of this holy man, to bear with their inhumanity with so much gentleness and indulgence, as not to make use of one sharp word by way of accusing them!"
+        ],
+        "Philip Schaff": [
+            "The name stands emphatically in the original, and is inserted as a mark of deep regard, as he might say, \u2018the church of my special joy.\u2019",
+            "This seems to show, what we might almost have gathered from the Acts (Acts 17:14), that the congregation of Philippi took charge of St. Paul in his whole journey through Macedonia, and were the brethren who sent him sway to the sea, and conducted him, and supplied the means for his journey to Athens.",
+            "And he is willing, nay glad, that it should stand so: he would not have it wiped out or lessened; for what they, of their free will, have given unto him, has been given unto God, and will receive its reward at His hands; and it is at the same time an outward sign of the work of grace and faith in their souls grace because they are conscious of how much they owe for the consolations of the Gospel; faith because they bestow, looking for nothing again, but giving unto the Lord."
+        ],
+        "Archibald T. Robertson": [
+            "No other church opened an account with Paul.",
+            "Paul had to keep books then with no other church.",
+            "Not even Antioch contributed anything but good wishes and prayers for Paul's work."
+        ],
+        "John Gill": [
+            "they not only communicated now, but also had done formerly...he not only commends them for their present kindness to him, but for their past favours.",
+            "as soon as ever the Gospel was preached to them, they showed a grateful and beneficent spirit",
+            "they had in return communicated their carnal things; so that there was a proper account kept, which was not observed by other churches, and which was greatly to the commendation of this."
+        ],
+        "John Wesley": [
+            "In the beginning of the gospel \u2014 When it was first preached at Philippi.",
+            "In respect of giving \u2014 On your part.",
+            "And receiving \u2014 On mine."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the beginning of the Gospel, the Philippians were the only church that opened an account with Paul in regards to giving and receiving. While they were the ones who gave, Paul was the one who received. This did not make it any less of an account of giving-and-receiving. We should not wait for others in doing good works, but rather go forward, even if we are alone. The Philippians demonstrated a grateful and beneficent spirit from the moment the Gospel was preached to them, and their past favors were greatly commended.",
+            "wordCount": 94,
+            "quoteTokenProportion": 58.46,
+            "qualityScore": 1.889717252145275,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.17,
+            "commentatorTierSimilarities": [
+                36.16,
+                31.0,
+                32.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the early days of the Gospel, the Philippians were the only ones who opened an account with Paul for giving and receiving. While the giving was on their part, the receiving was on Paul's part. This account of giving-and-receiving is significant, for it showcases the Philippians' grateful and generous nature. They were not only generous in the present, but they had also shown a beneficent spirit from the beginning. This commendable behavior sets them apart from other churches and demonstrates their deep appreciation for the Gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.8471442811556984,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                31.62,
+                32.45,
+                35.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the early days of the Gospel, the Philippians stood out by being the only church that opened an account of giving-and-receiving with Paul. While they were the ones who gave, Paul was the one who received. This act of generosity not only showed their grateful and beneficent spirit, but it also reflected their deep appreciation for the Gospel. Their past favors and continued support set them apart from other churches and highlighted their unwavering commitment to God's work.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9271388637988216,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+            "commentatorTierSimilarities": [
+                30.14,
+                34.44,
+                35.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "From the beginning of the Gospel, the Philippians proved to be exceptional in their generosity towards Paul. They were the only church that opened an account of giving-and-receiving, with the giving being on their part and the receiving on Paul's. Their selflessness and gratitude were evident in their past acts of kindness and support, which set them apart from other churches. Their unwavering commitment to God's work and their profound appreciation for the Gospel is truly commendable.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.9561417254961189,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+            "commentatorTierSimilarities": [
+                27.47,
+                36.15,
+                36.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the early days of the Gospel, the Philippians displayed their exceptional generosity by being the sole church to open an account of giving-and-receiving with Paul. While they provided the giving, Paul received. Their actions were not driven by the expectation of reciprocation, rather it exemplified their gratitude for the consolations of the Gospel and their faith in the Lord. Their past acts of kindness and unwavering commitment to support Paul's work spoke volumes about their deep appreciation for the Gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9757105162433621,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.03,
+            "commentatorTierSimilarities": [
+                27.83,
+                35.47,
+                36.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

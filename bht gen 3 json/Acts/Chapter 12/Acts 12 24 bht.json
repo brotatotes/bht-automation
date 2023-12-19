@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:30:10",
+    "verseRef": "Acts 12:24",
+    "bestBHT": {
+        "bht": "The book of Acts reveals the progress and prosperity of the church of God, even in the face of opposition. The word of God grew and multiplied, a testament to its enduring power. The death of the king who sought to crush the Christians served as a reminder that the Church of Christ continued to thrive. These events provide encouragement and consolation to the Christian Church in every age, reminding us that the faithful will always outlive their enemies and that God's word will prevail against all obstacles to bring increase and heavenly blessings.",
+        "wordCount": 95,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 2.0117004175357813,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+        "commentatorTierSimilarities": [
+            25.24,
+            41.7,
+            33.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] Similarly, ch. v. 12 ff.; vi. 7; ix. 31, a general statement of the progress and prosperity of the church of God forms the transition from one portion of the history to another."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not only was the royal representative ignominiously swept from the stage, but the cause which he and his Jewish instigators sought to crush was only furthered and glorified.",
+            "How full of encouragement and consolation is all this to the Christian Church in every age!",
+            "The word grew, &amp;c."
+        ],
+        "Albert Barnes": [
+            "Great success attended it. The persecutions had now ceased; and notwithstanding all the attempts which had been made to crush it, stir the church increased and flourished.",
+            "The liberation of Peter and the death of Herod would contribute to extend it. It was a new evidence of divine interposition in behalf of the church; it would augment the zeal of Christians.",
+            "It would. humble their enemies, and would fill those with fear who had attempted to oppose and crush the church of God."
+        ],
+        "John Calvin": [
+            "Though the faithful be accounted as sheep appointed to be slain, yet the Church doth always overlive her enemies.",
+            "Though the word of God seem oftentimes to be oppressed with the wicked tyranny of men, yet it getteth up the head again by and by.",
+            "God will do that, in all ages, which he then did, to the end the gospel may at length break through all impediments of the enemies, and that the more the Church is diminished, it may the more increase through the heavenly blessing."
+        ],
+        "Philip Schaff": [
+            "But the word of God grew and multiplied.",
+            "In strong contrast to the mournful end of the powerful enemy of the Christians, the Church of Christ kept on increasing in numbers and in power.",
+            "These few rejoicing words sound like the Christians\u2019 victory hymn: the powerful king who hated the Christians and their God is eaten of worms, while the Church of Christ holds on unchecked its quiet but triumphal way."
+        ],
+        "Archibald T. Robertson": [
+            "Grew and multiplied (\u03b7\u03c5\u03be\u03b1\u03bd\u03b5\u03bd \u03ba\u03b1 \u03b5\u03c0\u03bb\u03b7\u03b8\u03c5\u03bd\u03b5\u03c4\u03bf). Imperfect active and passive. Cf. Acts 6:1. The reaction from the death of James and the imprisonment of Peter. "
+        ],
+        "John Gill": [
+            "The word of God grew and multiplied.\" ",
+            "The number of those who were converted by it, and embraced and professed it, increased.",
+            "After his death, it still gained more ground, met with less opposition, and was more freely professed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The book of Acts declares that the church of God continued to grow and flourish, even in the face of persecution and opposition. This passage provides encouragement to the Christian Church in all ages, reminding us that no matter the circumstances, the word of God will continue to expand and multiply. The death of the powerful king who sought to crush the Christians served as a stark contrast to the increasing numbers and power of the Church of Christ. This victory hymn of the Christians reminds us that the faithful will always outlive their enemies, and though the word of God may seem oppressed at times, it will ultimately break through all obstacles and continue to increase, receiving heavenly blessing.",
+            "wordCount": 120,
+            "quoteTokenProportion": 31.08,
+            "qualityScore": 2.0583838505851477,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.78,
+            "commentatorTierSimilarities": [
+                25.24,
+                42.75,
+                32.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The church of God in the book of Acts experienced remarkable growth and prosperity, even in the face of persecution. The word of God continued to expand and multiply, despite any attempts to suppress it. This brings encouragement and consolation to the Christian Church in every age. The death of the powerful king who opposed the Christians served as a stark contrast to the increasing numbers and power of the Church of Christ. These events proclaim a victorious hymn, assuring that the faithful always outlive their enemies, and that God's word will overcome all obstacles to increase and receive divine blessing.",
+            "wordCount": 102,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 1.9784913993894497,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.13,
+            "commentatorTierSimilarities": [
+                24.83,
+                42.78,
+                32.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The book of Acts reveals the progress and prosperity of the church of God, even in the face of opposition. The word of God grew and multiplied, a testament to its enduring power. The death of the king who sought to crush the Christians served as a reminder that the Church of Christ continued to thrive. These events provide encouragement and consolation to the Christian Church in every age, reminding us that the faithful will always outlive their enemies and that God's word will prevail against all obstacles to bring increase and heavenly blessings.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.0117004175357813,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                25.24,
+                41.7,
+                33.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The church of God, depicted in the book of Acts, defied persecution and grew prosperously. The word of God flourished, expanding and multiplying despite attempts to suppress it. This triumph of the Christian Church throughout history provides solace and inspiration. The demise of the powerful king who opposed the Christians contrasted sharply with the Church of Christ's increasing numbers and influence. The faithful always surpass their enemies, and God's word, though often oppressed, ultimately prevails and thrives, its growth unstoppable, gaining ground, facing less opposition, and freely embraced and professed.",
+            "wordCount": 92,
+            "quoteTokenProportion": 24.24,
+            "qualityScore": 1.94614514895063,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.05,
+            "commentatorTierSimilarities": [
+                23.57,
+                43.32,
+                33.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite opposition, the church of God in Acts grew and multiplied. The word of God expanded, demonstrating its enduring power. Even in the face of persecution, the Christians flourished, bearing witness to the providential work of God. This account serves as an encouraging and consoling message to the Christian Church across generations. The downfall of the tyrannical king who hated the Christians stands in stark contrast to the continuous growth and triumph of the Church of Christ, which perseveres unimpeded and is embraced by an increasing number of believers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.8336781854732997,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                21.82,
+                45.61,
+                32.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

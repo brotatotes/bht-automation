@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:27:58",
+    "verseRef": "Acts 7:56",
+    "bestBHT": {
+        "bht": "Stephen, filled with the Holy Spirit, assures them that the exaltation of the Son of Man, which they would witness with dismay, was already begun and actual. He echoes the words of Jesus Himself, referring to Him as the Son of Man. Stephen sees into the glory of the kingdom of heaven, where Jesus stands ready to assist, plead for, and receive His faithful martyr.",
+        "wordCount": 65,
+        "quoteTokenProportion": 42.55,
+        "qualityScore": 2.37965434989946,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.46,
+        "commentatorTierSimilarities": [
+            36.13,
+            30.77,
+            33.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is the only time that our Lord is by human lips called the SON OF MAN after His Ascension.\" ",
+            "Stephen, full of the Holy Ghost, speaking now not of himself at all (ver. 55), but entirely by the utterance of the Spirit, repeats the very words, Matt. xxvi. 64, in which Jesus Himself, before this council, had foretold His glorification.",
+            "He assures them that that exaltation of the SON OF MAN, which they should hereafter witness to their dismay, was already begun and actual."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is the only time that our Lord is by human lips called THE SON OF MAN after His ascension.\" ",
+            "Stephen, full of the Holy Ghost, speaking now not of himself at all, but entirely by the Spirit.\" ",
+            "...assuring them that that exaltation of the SON OF MAN which they should hereafter witness to their dismay, was already begun and actual."
+        ],
+        "Albert Barnes": [
+            "I see the heavens opened - A figurative expression, denoting that he was permitted to see 'into' heaven.\" ",
+            "A figurative expression, denoting that he was permitted to see what was there, as if the firmament was divided.",
+            "The eye was permitted to penetrate the eternal world."
+        ],
+        "Marvin Vincent": [
+            "I see [\u03b8\u03b5\u03c9\u03c1\u03c9] . See on Luke 10:18. ",
+            "The Son of man. A title never applied to Christ by any of the apostles or evangelists, except here by Stephen. See on Luke 6:22."
+        ],
+        "John Calvin": [
+            "Stephen had new quickness of sight granted him, which pierced through all lets, even unto the invisible glory of the kingdom of heaven.",
+            "The glory of God appeared not unto Stephen wholly as it was, but according to man's capacity. For that infiniteness cannot be comprehended with the measure of any creature.",
+            "I see that man whom ye thought ye had quite extinguished by death enjoying the government of heaven; therefore, gnash with your teeth as much as you list: there is no cause why I should fear to fight for him even unto blood."
+        ],
+        "Philip Schaff": [
+            "The Son of man. This Messianic name, which first appears in the vision of Daniel, was a title which Christ often gave to Himself when on earth.",
+            "Why standing? The Lord is always described as sitting... Chrysostom\u2019s beautiful thought best answers this question, why Stephen saw Jesus standing and not sitting at the right hand of God: \u2018He had risen from the throne to succour His persecuted servant, and to receive him to Himself.\u2019",
+            "Usually our Lord is described as the Judge of quick and dead, and then as a Judge He sits enthroned at the right hand of the Father; but here our Lord appears in glory, not now sitting as Judge, but standing ready to assist, ready to plead for, ready to receive His faithful martyr."
+        ],
+        "Archibald T. Robertson": [
+            "Opened (\u03b4\u03b9\u03b7\u03bd\u03bf\u03b9\u03b3\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2). Perfect passive predicate participle of \u03b4\u03b9\u03b1\u03bd\u03bf\u03b9\u03b3\u03bd\u03c5\u03bc (cf. Matthew 3:16; Luke 3:21).",
+            "The son of man (\u03c4\u03bf\u03bd \u03c5\u03b9\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5). Elsewhere in the N.T. in Christ's own words.",
+            "Here Stephen may refer to the words of Jesus as preserved in Matthew 26:64."
+        ],
+        "John Gill": [
+            "he calls Jesus 'the son of man'; a name by which he often called himself in his state of humiliation",
+            "this Stephen said to show that God was on his side, and to let them know what honour was done him",
+            "he was an eyewitness of Jesus, and of his being alive, and in glory"
+        ],
+        "John Wesley": [
+            "I see the Son of man standing \u2014 As if it were just ready to receive him.\" ",
+            "Otherwise he is said to sit at the right hand of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Stephen, full of the Holy Spirit, assures them that the exaltation of the Son of Man, which they would witness and be dismayed by, had already started. In calling Jesus the Son of Man, Stephen echoes the words spoken by Jesus Himself before this council, emphasizing the authority and glory of Jesus. Stephen, speaking by the utterance of the Spirit and not of himself, pierces through all obstacles and sees into the glory of the kingdom of heaven, where Jesus stands ready to assist, plead for, and receive His faithful martyr.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.3422105503422967,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.22,
+            "commentatorTierSimilarities": [
+                36.83,
+                30.08,
+                33.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stephen, full of the Holy Spirit, assures them that the exaltation of the Son of Man, which they would witness to their dismay, had already begun. He echoes the words spoken by Jesus Himself, referring to Jesus as the Son of Man. Stephen's vision pierces through all obstacles and allows him to see into the glory of the kingdom of heaven, where Jesus stands ready to assist, plead for, and receive His faithful martyr.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.31345247644949,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.26,
+            "commentatorTierSimilarities": [
+                36.5,
+                31.33,
+                32.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen, speaking by the utterance of the Spirit and not of himself, assures them that the exaltation of the Son of Man, which they would witness and be dismayed by, was already begun and actual. He echoes the very words of Jesus Himself, calling Him the Son of Man. Stephen's vision allows him to see into the glory of the kingdom of heaven, where Jesus stands ready to assist, plead for, and receive His faithful martyr.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.360023159429037,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.81,
+            "commentatorTierSimilarities": [
+                35.24,
+                32.04,
+                32.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephen, filled with the Holy Spirit, proclaims to them that the exaltation of the Son of Man, which they would soon witness, had already begun. He echoes the words of Jesus Himself, declaring Him to be \u201cthe Son of Man.\u201d By the revelation of the Spirit, Stephen sees into the glory of the kingdom of heaven, where Jesus stands ready to assist, intercede, and receive His loyal martyr.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 2.3588838078406695,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.77,
+            "commentatorTierSimilarities": [
+                36.15,
+                30.45,
+                33.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stephen, filled with the Holy Spirit, assures them that the exaltation of the Son of Man, which they would witness with dismay, was already begun and actual. He echoes the words of Jesus Himself, referring to Him as the Son of Man. Stephen sees into the glory of the kingdom of heaven, where Jesus stands ready to assist, plead for, and receive His faithful martyr.",
+            "wordCount": 65,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 2.37965434989946,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.46,
+            "commentatorTierSimilarities": [
+                36.13,
+                30.77,
+                33.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

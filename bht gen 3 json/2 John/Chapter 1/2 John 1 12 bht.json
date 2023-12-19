@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 17:15:20",
+    "verseRef": "2 John 12",
+    "bestBHT": {
+        "bht": "A heart full of love pours itself out more freely face to face, than by letter. Your joy will be complete in hearing from me in person the joyful Gospel truths which I now defer communicating till I see you. I would not write the many things I have to say now, but I trust to come to you and speak face to face, so that our joy may be full.",
+        "wordCount": 71,
+        "quoteTokenProportion": 60.38,
+        "qualityScore": 1.6453907144300133,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.05,
+        "commentatorTierSimilarities": [
+            43.03,
+            32.32,
+            24.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "A heart full of love pours itself out more freely face to face, than by letter.",
+            "Your joy will be complete in hearing from me in person the joyful Gospel truths which I now defer communicating till I see you.",
+            "On other occasions his writing the glad truths was for the same purpose."
+        ],
+        "Albert Barnes": [
+            "Having many things to write unto you - That I would wish to say.",
+            "The material designated by the word used by John (\u03c7\u03b1\u0301\u03c1\u03c4\u03b7\u03c2 charte\u0304s) was the Egyptian papyrus.",
+            "But I trust to come unto you, and speak face to face - Margin, as in Greek, 'mouth to mouth.'"
+        ],
+        "Archibald T. Robertson": [
+            "I would not (\u03bf\u03c5\u03ba \u03b5\u03b2\u03bf\u03c5\u03bb\u03b7\u03b8\u03b7\u03bd). Epistolary aorist (first passive indicative).",
+            "The \u03c7\u03b1\u03c1\u03c4\u03b7\u03c2 was a leaf of papyrus prepared for writing by cutting the pith into strips and pasting together, old word (Jeremiah 43:23), here only in N.T.",
+            "To come (\u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1). Second aorist middle infinitive of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1 after \u03b5\u03bb\u03c0\u03b9\u03b6\u03c9, I hope."
+        ],
+        "John Gill": [
+            "The Scriptures did not contain the whole of doctrine and of the will of God.",
+            "That our joy may be full.",
+            "Fulness, or a large measure of spiritual joy, may be here intended."
+        ],
+        "John Wesley": [
+            "Having many things to write, I was not minded to write now \u2014 Only of these, which were then peculiarly needful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A heart full of love pours itself out more freely face to face, than by letter. Your joy will be complete in hearing from me in person the joyful Gospel truths which I now defer communicating till I see you. On other occasions his writing the glad truths was for the same purpose. I would not write the many things I have to say now, but I trust to come to you and speak face to face, so that our joy may be full.",
+            "wordCount": 84,
+            "quoteTokenProportion": 60.32,
+            "qualityScore": 1.612831491067292,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.97,
+            "commentatorTierSimilarities": [
+                46.13,
+                29.23,
+                24.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A heart full of love pours itself out more freely face to face, than by letter. Your joy will be complete in hearing from me in person the joyful Gospel truths which I now defer communicating till I see you. I would not write the many things I have to say now, but I trust to come to you and speak face to face, so that our joy may be full.",
+            "wordCount": 71,
+            "quoteTokenProportion": 60.38,
+            "qualityScore": 1.6453907144300133,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.05,
+            "commentatorTierSimilarities": [
+                43.03,
+                32.32,
+                24.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A heart full of love pours itself out more freely face to face, than by letter. Your joy will be complete in hearing from me in person the joyful Gospel truths which I now defer communicating till I see you. I would not write everything in this letter, but hope to come and speak to you face to face. The material designated by the word used by John was the Egyptian papyrus. This decision to wait to share certain things in person shows that there is more to the whole of doctrine and the will of God than what is contained in the Scriptures.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.4773256982205387,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.46,
+            "commentatorTierSimilarities": [
+                38.72,
+                37.03,
+                24.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A heart full of love pours itself out more freely face to face, than by letter. Your joy will be complete in hearing from me in person the joyful Gospel truths which I now defer communicating till I see you. I would not write everything in this letter, but hope to come and speak to you face to face. The material designated by the word used by John was the Egyptian papyrus. This decision to wait to share certain things in person shows that there is more to the whole of doctrine and the will of God than what is contained in the Scriptures.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.4773256982205387,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.46,
+            "commentatorTierSimilarities": [
+                38.72,
+                37.03,
+                24.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A heart full of love pours itself out more freely face to face, than by letter. Your joy will be complete in hearing from me in person the joyful Gospel truths which I now defer communicating till I see you. I would not write everything in this letter, but hope to come and speak to you face to face. The material designated by the word used by John was the Egyptian papyrus. This decision to wait to share certain things in person shows that there is more to the whole of doctrine and the will of God than what is contained in the Scriptures.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.4773256982205387,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.46,
+            "commentatorTierSimilarities": [
+                38.72,
+                37.03,
+                24.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

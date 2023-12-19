@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:53:40",
+    "verseRef": "Philippians 1:1",
+    "bestBHT": {
+        "bht": "In this letter, Paul expresses his affectionate remembrances towards the members of the church at Philippi. The absence of hierarchical views is evident as the officers are mentioned alongside the members, emphasizing their equal status. The plural form of bishops implies multiple leaders within the church, while the deacons are responsible for both physical and spiritual care. This letter underscores the significant role of Christ Jesus in the lives and relationships of believers.",
+        "wordCount": 73,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 2.0023225934251654,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.92,
+        "commentatorTierSimilarities": [
+            34.88,
+            29.06,
+            36.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "] \"Certainly no official character is intended to be given by it, as some have thought: for of all the Epistles, this is the least official.",
+            "] \"The ecclesiastical offices were now more plainly distinguished than at the time when the two former of those Epistles were written.",
+            "] \"The simple juxtaposition of the officers with the members of the Church, and indeed their being placed after those members, shews, as it seems to me, the absence of hierarchical views such as those in the Epistles of the apostolic fathers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The mention of his name implies merely that Timothy joined in affectionate remembrances to them.",
+            "Paul does not call himself 'an apostle,' as in the inscriptions of other Epistles; for the Philippians needed not to be reminded of his apostolic authority.",
+            "The plural number shows there was more than one bishop or presbyter, and more than one deacon in the Church at Philippi."
+        ],
+        "Albert Barnes": [
+            "There is no intimation whatever that a minister like a prelatical bishop had ever been appointed there, and that the incumbent of the office was absent, or that the office was now vacant.",
+            "The church was organized by the apostle Paul himself, and there can be no doubt that it was organized on the 'truly primitive and apostolic plan.'",
+            "It follows, therefore, that in this church there were only two orders of officers; and further that it is right and proper to apply the term 'bishop' to the ordinary ministers of the churches."
+        ],
+        "Marvin Vincent": [
+            "The christian Church has inherited the title and the privileges of the Jewish nation. Hence it is eqnov agion a holy nation.",
+            "It was therefore an appropriate starting - point for the Gospel in Europe, a field in which it could demonstrate its power to deal with all differences of nation, faith, sex, and social standing.",
+            "The work of the deacons was, primarily, the relief of the sick and poor; but spiritual ministrations naturally developed in connection with their office."
+        ],
+        "John Calvin": [
+            "For they had persevered in the calling of God steadfastly, and in an even tenor.",
+            "And this is one of the passages which Jerome quotes for proving this in his epistle to Evagrius.",
+            "I acknowledge, indeed, that, as the minds and manners of men are, there cannot be order maintained among the ministers of the word, without one presiding over the others."
+        ],
+        "Philip Schaff": [
+            "When Christ is the master, the service, though there is no promise that it shall be easy at all times, is perfect freedom. So there is pride in being called the slave of such a Lord.",
+            "This title \u2018saints\u2019 or \u2018holy ones\u2019 is given in the New Testament to all those who are \u2018being saved\u2019 (Acts 2:47), i.e., who have entered on the way of salvation.",
+            "The duties of the office were described by the term \u2018overseer,\u2019 i.e., bishop; but as a title that word was not so common in the earliest days of Christianity, and is never found so used in Scripture."
+        ],
+        "Archibald T. Robertson": [
+            "In Christ Jesus. The centre for all Christian relations and activities for Paul and for us.",
+            "With the bishops. 'Together with bishops,' thus singled out from 'all the saints.' It is an old word from \u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c0\u03c4\u03bf\u03bc\u03b1, to look upon or after, to inspect, so the overseer or superintendent.",
+            "And deacons. Technical sense here of the other church officers as in 1 Timothy 3:8-13, not the general use as in Matthew 22:13. The origin of the office is probably seen in Acts 6:1-6."
+        ],
+        "John Gill": [
+            "Paul and Timotheus, the servants of Jesus Christ.... It shows indeed great humility in the apostle to join with him one so young, and so much inferior to him on all accounts; though it must be observed, that Timothy was not a partner with him in composing the epistle; he only joined in the salutation to this church, and approved of the letter to it, and might be the amanuensis of the apostle; but had no hand in the epistle itself, which was dictated by Paul under divine inspiration.\" ",
+            "The persons to whom this epistle is inscribed are here described by the place of their abode, Philippi, and by the various characters they bore in the church; which was at this time very numerous, consisting of many members, and of proper officers, and are both taken notice of here.",
+            "The officers of this church were 'the bishops and deacons'.... The 'deacons' were such as served tables, the Lord's table, the minister's table, and the poor's table; took care of the secular affairs of the church, received and disbursed moneys, kept the church's accounts, and provided everything necessary for its temporal good."
+        ],
+        "John Wesley": [
+            "St. Paul, writing familiarly to the Philippians, does not style himself an apostle.\" ",
+            "The apostolic epistles were sent more directly to the churches, than to the pastors of them.",
+            "The word bishops here includes all the presbyters at Philippi, as well as the ruling presbyters: the names bishop and presbyter, or elder, being promiscuously used in the first ages."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse from Philippians, Paul addresses the members of the church at Philippi, highlighting their close relationship and emphasizing his affectionate remembrances towards them. It is interesting to note that Paul does not assert his apostolic authority in this letter, indicating that the Philippians were already familiar with his position. The mention of bishops and deacons suggests the presence of church officers within the community. This passage demonstrates the inclusive nature of the Christian Church and its ability to transcend societal divisions. The work of the deacons encompasses both physical and spiritual care for the community. Overall, this verse sets the tone for the letter, showcasing the centrality of Christ Jesus in the lives and relationships of believers.",
+            "wordCount": 119,
+            "quoteTokenProportion": 31.17,
+            "qualityScore": 2.1172676534024966,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.74,
+            "commentatorTierSimilarities": [
+                34.07,
+                30.53,
+                35.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this letter, Paul addresses the members of the church at Philippi, expressing his affectionate remembrances towards them. The absence of hierarchical views is evident as the officers are mentioned alongside the members, emphasizing their equal status. The plural form of bishops suggests multiple leaders within the church, while deacons played a role in both the physical and spiritual care of the community. Ultimately, this letter highlights the central role of Christ Jesus in the life and relationships of believers.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.9910513136448413,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.54,
+            "commentatorTierSimilarities": [
+                35.21,
+                28.38,
+                36.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this letter, Paul expresses his affectionate remembrances towards the members of the church at Philippi. The absence of hierarchical views is evident as the officers are mentioned alongside the members, emphasizing their equal status. The plural form of bishops implies multiple leaders within the church, while the deacons are responsible for both physical and spiritual care. This letter underscores the significant role of Christ Jesus in the lives and relationships of believers.",
+            "wordCount": 73,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.0023225934251654,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.92,
+            "commentatorTierSimilarities": [
+                34.88,
+                29.06,
+                36.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In addressing the church at Philippi, Paul shows his deep affection for the members. It is noteworthy that Paul does not assert his apostolic authority but rather emphasizes his personal relationship with the believers. The mention of bishops and deacons suggests the presence of church officers in Philippi, reflecting a non-hierarchical structure. The work of the deacons encompasses both physical and spiritual care. Overall, this verse highlights the inclusive nature of the Christian Church and the central role of Christ Jesus in the lives of believers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.097848655465344,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.09,
+            "commentatorTierSimilarities": [
+                34.34,
+                30.45,
+                35.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this letter, Paul expresses his deep affection for the members of the church at Philippi. Notably, he refrains from asserting his apostolic authority, indicating their familiarity with his position. The mention of bishops and deacons implies the presence of church officers, highlighting a non-hierarchical structure. The work of the deacons encompasses both physical and spiritual care. Ultimately, this passage underscores the inclusive nature of the Christian Church and the central role of Christ Jesus in believers' lives.",
+            "wordCount": 79,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 2.0057798741056603,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+            "commentatorTierSimilarities": [
+                34.67,
+                30.1,
+                35.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

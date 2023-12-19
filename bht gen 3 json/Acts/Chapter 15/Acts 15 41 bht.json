@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:31:53",
+    "verseRef": "Acts 15:41",
+    "bestBHT": {
+        "bht": "Paul and Barnabas made a deliberate arrangement to divide the region of their first mission between them. This second missionary tour allowed Paul to visit the churches already planted and later brought him to Europe. Despite their contention and separation, their preaching to different people furthered the spread of the gospel. Paul confirmed the churches in Syria and Cilicia, instructing them in the Gospel and its truths.",
+        "wordCount": 67,
+        "quoteTokenProportion": 32.61,
+        "qualityScore": 1.96166250332476,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+        "commentatorTierSimilarities": [
+            35.59,
+            27.99,
+            36.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "41. Syria and Cilicia] See note, ver. 23. Here we finally lose sight of Barnabas in the sacred record."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is very likely that Paul and Barnabas made a deliberate and amicable arrangement to divide the region of their first mission between them.",
+            "If Barnabas visited Salamis and Paphos, and if Paul (traveling westward), after passing through Derbe, Lystra, and Iconium, went as far as Antioch in Pisidia, the whole circuit of the proposed visitation was actually accomplished.",
+            "This second missionary tour appears to have proceeded at first solely from the desire of visiting the churches already planted. In the end, however, it took a much wider sweep, for it brought the apostle to Europe."
+        ],
+        "Albert Barnes": [
+            "In regard to this unhappy contention between Paul and Barnabas, and their separation from each other, we may make the following remarks: (1) That no apology or vindication of it is offered by the sacred writer. It was undoubtedly improper and evil.",
+            "There is reason to think that this contention was overruled for the furtherance of the gospel. They went to different places, and preached to different people.",
+            "This account proves that there was no collusion or agreement among the apostles to impose upon mankind. Had there been such an agreement, and had the books of the New Testament been an imposture, the apostles would have been represented as perfectly harmonious, and as united in all their views and efforts."
+        ],
+        "Philip Schaff": [
+            "Their existence, however, at this early period, testifies to the marvellous and rapid spread of the gospel of Jesus Christ during the first years which followed the Ascension.",
+            "Nothing in detail is known of the foundation and early history of these congregations.",
+            "And he went through Syria and Cilicia, confirming the churches."
+        ],
+        "Archibald T. Robertson": [
+            "So Paul went forth on his second mission tour with heart-aches and high hopes mingled together.",
+            "He took the opposite course from the first tour, leaving Cyprus to Barnabas and Mark.",
+            "This second tour will occupy Luke's story in Acts through Acts 18:22."
+        ],
+        "John Gill": [
+            "confirming the churches; in the Gospel, and the truths and ordinances of it, he had before instructed them in",
+            "the decrees of the assembly at Jerusalem; which seems very agreeable, since the letters were directed and sent to the brethren of the Gentiles in Syria and Cilicia",
+            "Beza's ancient copy adds, 'delivering the commandments of the elders'; and the Vulgate Latin version, 'bidding' them to keep the commandments of the apostles and elders"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul and Barnabas had a deliberate and amicable arrangement to divide the region of their first mission between them. This second missionary tour brought Paul to Europe and occupied Luke's story in Acts. Despite their contention and separation, this allowed them to go to different places and preach to different people, furthering the spread of the gospel. Paul confirmed the churches in Syria and Cilicia, instructing them in the Gospel and the truths and ordinances of it.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.0120934016706205,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
+            "commentatorTierSimilarities": [
+                34.82,
+                27.79,
+                37.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul and Barnabas made a deliberate and amicable arrangement to divide the region of their first mission between them. This second missionary tour brought the apostle to Europe. Despite their contention and separation, this allowed them to go to different places and preach to different people, furthering the spread of the gospel. Paul confirmed the churches in Syria and Cilicia, instructing them in the Gospel and its truths.",
+            "wordCount": 68,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.9241586244692646,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                35.04,
+                28.68,
+                36.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul and Barnabas made a deliberate arrangement to divide their first mission's region between them. This second tour took Paul from Derbe to Iconium and eventually to Europe. Despite their contention, their separation allowed them to preach to different people, spreading the gospel. Paul confirmed the churches in Syria and Cilicia, instructing them in the Gospel and its truths.",
+            "wordCount": 60,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 1.8964414201951634,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "commentatorTierSimilarities": [
+                38.34,
+                27.13,
+                34.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul and Barnabas made a deliberate arrangement to divide the region of their first mission between them. This second missionary tour allowed Paul to visit the churches already planted and later brought him to Europe. Despite their contention and separation, their preaching to different people furthered the spread of the gospel. Paul confirmed the churches in Syria and Cilicia, instructing them in the Gospel and its truths.",
+            "wordCount": 67,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.96166250332476,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                35.59,
+                27.99,
+                36.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul and Barnabas arranged to divide the region they had previously visited, with Paul embarking on his second missionary tour. This journey took a wider sweep as it brought him to Europe after confirming the churches in Syria and Cilicia. Despite their contention and separation, their preaching to different people furthered the spread of the gospel. Paul's heart was filled with both ache and hope as he embarked on this tour, leaving Cyprus to Barnabas and Mark.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.9283630110092909,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                42.32,
+                26.68,
+                31.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

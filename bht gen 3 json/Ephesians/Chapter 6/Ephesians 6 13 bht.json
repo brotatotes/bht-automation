@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 15:34:03",
+    "verseRef": "Ephesians 6:13",
+    "bestBHT": {
+        "bht": "Take up the entire armor of God, that you may be able to withstand in the evil day, to stand firm at your post. We must have our armor always on, ready against the evil day, for the fight that demands everything. With Divine strength and equipment, we can overcome and stand victorious against our foes, the wiles and stratagems of Satan. Having done all, we must still keep on our armor, watching and praying to endure to the end and stand before the Son of Man.",
+        "wordCount": 87,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.3204391342261843,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+        "commentatorTierSimilarities": [
+            28.25,
+            30.81,
+            40.94
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Take up the entire armour of God.\" ",
+            "That ye may be able to withstand in the evil day.",
+            "To stand firm at your post."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "You have only to 'take up' and put it on.",
+            "We must have our armor always on, to be ready against the evil day.",
+            "Done all...necessary to the fight, and becoming a good soldier."
+        ],
+        "Albert Barnes": [
+            "In the evil day - The day of temptation; the day when you are violently assaulted.",
+            "And having done all, to stand - ...to overcome...The idea seems to be, that they were to overcome or vanquish all their foes, and thus to stand firm.",
+            "The whole language here is taken from war; and the idea is, that every foe was to be subdued - no matter how numerous or formidable they might be. Safety and triumph could be looked for only when every enemy was slain."
+        ],
+        "Marvin Vincent": [
+            "Take unto you [\u03b1\u03bd\u03b1\u03bb\u03b1\u03b2\u03b5\u03c4\u03b5]. Lit., take up, as one takes up armor to put it on.",
+            "Let your baptism abide as your shield; your faith as your helmets; your love as your spear; your patience as your whole armor.",
+            "Everything which the crisis demands."
+        ],
+        "John Calvin": [
+            "Though our enemy is so powerful, Paul does not infer that we must throw away our spears, but that we must prepare our minds for the battle.",
+            "If we only put on the whole armor of God, and fight valiantly to the end, we shall certainly stand.",
+            "There will be no danger which may not be successfully met by the power of God; nor will any who, with this assistance, fight against Satan, fail in the day of battle."
+        ],
+        "Philip Schaff": [
+            "Against such superhuman foes we need not only Divine strength but Divine equipment, defensive and offensive.",
+            "The war is perpetual; the fight rages less on one day, more on another. It is the evil day, on the approach of death, or during life.",
+            "To stand, i.e., either to stand firm until the combat is over, or, to stand victorious after it is over."
+        ],
+        "Archibald T. Robertson": [
+            "That ye may be able to withstand (\u03b9\u03bd\u03b1 \u03b4\u03c5\u03bd\u03b7\u03b8\u03b7\u03c4\u03b5 \u03b1\u03bd\u03c4\u03b9\u03c3\u03c4\u03b7\u03bd\u03b1).",
+            "And having done all to stand (\u03ba\u03b1 \u03b1\u03c0\u03b1\u03bd\u03c4\u03b1 \u03ba\u03b1\u03c4\u03b5\u03c1\u03b3\u03b1\u03c3\u03b1 \u03bc\u03b5\u03bd\u03bf \u03c3\u03c4\u03b7\u03bd\u03b1).",
+            "After the fight (wrestle) is over to stand (\u03c3\u03c4\u03b7\u03bd\u03b1) as victor in the contest."
+        ],
+        "John Gill": [
+            "That ye may be able to stand against the wiles and stratagems of Satan, against his power and might, to oppose his schemes, and resist his temptations.\" ",
+            "That ye may be able to meet the evil one; to face him, and give him battle, being accoutred with the whole armour of God.\" ",
+            "Having took and put on the whole armour of God, in order to stand, and withstand the enemy."
+        ],
+        "John Wesley": [
+            "The evil day is either at the approach of death, or in life; may be longer or shorter and admits of numberless varieties.",
+            "And having done all, to stand \u2014 That ye may still keep on your armour, still stand upon your guard, still watch and pray.",
+            "Thus ye will be enabled to endure unto the end, and stand with joy before the face of the Son of Man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Take up the entire armor of God, that you may be able to withstand in the evil day, to stand firm at your post. You have only to 'take up' and put on the armor, which includes your baptism as your shield, your faith as your helmet, your love as your spear, and your patience as your whole armor. This is necessary for the fight against the wiles and stratagems of Satan, and after the fight is over, you must stand as victor in the contest, enduring to the end and standing with joy before the face of the Son of Man.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.260897005549216,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.52,
+            "commentatorTierSimilarities": [
+                32.13,
+                28.17,
+                39.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Take up the entire armor of God, that you may be able to withstand in the evil day, to stand firm at your post. We must have our armor always on, ready against the evil day, for the fight that demands everything. With Divine strength and equipment, we can overcome and stand victorious against our foes, the wiles and stratagems of Satan. Having done all, we must still keep on our armor, watching and praying to endure to the end and stand before the Son of Man.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.3204391342261843,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+            "commentatorTierSimilarities": [
+                28.25,
+                30.81,
+                40.94
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:25:21",
+    "verseRef": "Acts 2:30",
+    "bestBHT": {
+        "bht": "David, as a prophet inspired by the Holy Spirit, knew that God had sworn to set one of his descendants on the throne. These words, though not directly from the Old Testament, capture the essence of the original Hebrew text. This prophecy by David is remarkable because it implies that the Messiah would possess a nature beyond the flesh. In this sense, the Messiah sits on the eternal throne of David, ruling over believers. David's words, written in the Spirit, provide a trustworthy connection between his descendant and the concept of the Messiah, as believed by the Jews.",
+        "wordCount": 99,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 2.0365294438526775,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.06,
+        "commentatorTierSimilarities": [
+            29.05,
+            44.21,
+            26.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "a prophet, in the stricter sense, a foreteller of future events by the inspiration of the Holy Spirit.",
+            "knowing that God had sworn.",
+            "The words in this case are not cited from the LXX, but rendered from the Hebrew."
+        ],
+        "Albert Barnes": [
+            "That David was inspired is clear, 2 Samuel 23:2. Many of the prophecies relating to the Messiah are found in the Psalms of David.",
+            "Expressions like these are very remarkable. If the Messiah was only a man, they would be unmeaning. They are never used in relation to a mere man and they imply that the speaker or writer supposed that there pertained to the Messiah a nature which was not according to the flesh.",
+            "In this sense the Messiah sits on the throne of David. He is his descendant and successor. He has an empire over all the friends of the Most High. And as that kingdom is destined to fill the earth, and to be eternal in the heavens, so it may be said that it is a kingdom which shall have no end."
+        ],
+        "Marvin Vincent": [
+            "According to the flesh, he would raise up Christ. The best texts omit. Render as Rev., he would set one upon his throne."
+        ],
+        "John Calvin": [
+            "It were wickedness to measure their speeches according to the common manner and order which we use in measuring the speeches of other men, forasmuch as they go beyond the long courses of years, having the Spirit for their director.",
+            "What notable or extraordinary thing soever they did utter, the Jews were commonly persuaded that it did agree with Christ.",
+            "The sacred name of God is set forth unto us, that his words may carry the greater credit."
+        ],
+        "Philip Schaff": [
+            "\u2018In the stricter sense, a foreteller of future events by the inspiration of the Holy Spirit\u2019 (Alford).",
+            "Jesus Himself expressly speaks of David writing \u2018in the Spirit\u2019 (Matthew 22:43).",
+            "We may conclude with certainty that the psalmist king did connect that descendant of his, of whom he spoke \u2018in the Spirit\u2019 in such strange grand terms, with the idea of the Messiah."
+        ],
+        "John Gill": [
+            "Who could foretell things to come, as he did many things concerning the sufferings and death of Christ, and the circumstances attending it, concerning his resurrection, ascension, and session at the right hand of God.\" ",
+            "Though the Jews do not allow him, nor Solomon, nor Daniel, to be strictly and properly prophets, they make a difference between prophecy, and the Holy Spirit.",
+            "He would raise up Christ; would send him forth, according to the human nature; for this phrase respects not his resurrection from the dead, but his incarnation or exhibition in the flesh."
+        ],
+        "John Wesley": [
+            "Psalm 89:4, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "David, a prophet inspired by the Holy Spirit, knew that God had sworn to set one of his descendants on the throne. While the words in this verse are not directly from the Old Testament, they are rendered from Hebrew. This prophecy of David is remarkable because it implies that the Messiah would possess a nature beyond the flesh. In this sense, the Messiah sits on the eternal throne of David, ruling over all believers. David, writing in the Spirit, connected his descendant with the idea of the Messiah. Therefore, we can trust the words of the prophets, whose speeches were guided by the Holy Spirit and whose notable speeches concerning Christ were believed by the Jews.",
+            "wordCount": 117,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.028593501786318,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                29.44,
+                43.84,
+                26.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "David, as a prophet inspired by the Holy Spirit, knew that God had sworn to set one of his descendants on the throne. These words, though not directly from the Old Testament, capture the essence of the original Hebrew text. This prophecy by David is remarkable because it implies that the Messiah would possess a nature beyond the flesh. In this sense, the Messiah sits on the eternal throne of David, ruling over believers. David's words, written in the Spirit, provide a trustworthy connection between his descendant and the concept of the Messiah, as believed by the Jews.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.0365294438526775,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.06,
+            "commentatorTierSimilarities": [
+                29.05,
+                44.21,
+                26.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "David, a prophet inspired by the Holy Spirit, knew that God had sworn to set one of his descendants on the throne. Even though the specific words in this verse are not drawn from the Old Testament, they accurately convey the sentiment of the original Hebrew text. This prophecy by David is extraordinary because it suggests that the Messiah would possess a nature that surpassed human flesh. As a result, the Messiah reigns on David's eternal throne, governing over believers. David's words, crafted under divine inspiration, establish a strong connection between his lineage and the concept of the Messiah, as acknowledged by the Jewish people.",
+            "wordCount": 107,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 2.005362771965451,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.02,
+            "commentatorTierSimilarities": [
+                29.64,
+                43.05,
+                27.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "David, a prophet inspired by the Holy Spirit, knew that God had sworn to set one of his descendants on the throne. While these words are not cited from the LXX, they are rendered from the original Hebrew. The prophecy of David holds significance as it implies that the Messiah would possess a nature beyond the flesh, establishing a connection between his lineage and the idea of the Messiah. Therefore, we can trust the words of the prophets, guided by the Holy Spirit, whose remarkable speeches concerning Christ were believed by the Jews.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9700675345641199,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.85,
+            "commentatorTierSimilarities": [
+                31.41,
+                41.25,
+                27.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "David, recognized as a prophet inspired by the Holy Spirit, knew that God had sworn to establish one of his descendants on the throne. Although these specific words are not derived from the LXX, they accurately represent the original Hebrew. The significance of David's prophecy lies in the implication that the Messiah would possess a nature beyond the limitations of humanity. This spiritual connection to David's lineage allows the Messiah to reign eternally over believers. Thus, we can trust the prophetic words spoken by those guided by the Holy Spirit, whose teachings about Christ were accepted by the Jews.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.8741124716090916,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                28.22,
+                44.02,
+                27.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

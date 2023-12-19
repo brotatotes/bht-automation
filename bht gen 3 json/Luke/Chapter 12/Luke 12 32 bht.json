@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:19:10",
+    "verseRef": "Luke 12:32",
+    "bestBHT": {
+        "bht": "Do not fear, little flock, for you are dear to the Shepherd's heart. Remember how seemingly insignificant and feeble you may appear, but grasp the eternal love enfolding you, the everlasting arms supporting you, and the glorious inheritance that awaits. Take solace in knowing that your heavenly Father delights in granting you this kingdom, underscoring that He will also provide for your earthly needs. So, cast aside anxieties and focus on the immeasurable riches of the kingdom, generously bestowed by your Father's good pleasure.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.9554091564497333,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+        "commentatorTierSimilarities": [
+            35.78,
+            30.11,
+            34.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "32. little flock] Thus He sets himself forth as their Shepherd (John x. 1 ff.), and them (as in Isa. xli. 10\u201314) as a weak and despised people."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Little flock\" - How sublime and touching a contrast between this tender and pitying appellation and the \"good pleasure\" of the Father to give them the Kingdom.",
+            "[The term \"Little flock\"] recalling the insignificance and helplessness of that then literal handful of disciples, the other holding up to their view the eternal love that encircled them, the everlasting arms that were underneath them, and the high inheritance awaiting them!",
+            "The kingdom\"; grand word; then why not \"bread\"? Well might He say, \"Fear not!"
+        ],
+        "Albert Barnes": [
+            "The figure was beautiful. In Judea it was a common employment to attend flocks. The shepherd was with them, defended them, provided for them, led them to green pastures and beside still waters.",
+            "His flock was small. Few 'really' followed him, compared with the multitude who professed to love him.",
+            "God was their Friend. He would provide for them. It was his purpose to give them the kingdom, and they had nothing to fear."
+        ],
+        "John Calvin": [
+            "Fear not, little flock...how would God refuse worthless and perishing food to those whom he has adopted as heirs of his kingdom?",
+            "He expressly calls his own people a little flock, to hinder them from thinking that they are of less value in the sight of God because, on account of their small numbers, they are held in little estimation before the world.",
+            "When Christ plainly declares, that God hath given us the kingdom, and for no other reason, but because it so pleased him, it is perfectly manifest, that it is not obtained by any merits of works."
+        ],
+        "Philip Schaff": [
+            "The fear forbidden, is that which interferes with proper seeking of the kingdom of God.",
+            "Such encouragement was needed by the disciples, who were outwardly weak: little flock.",
+            "Because of the 'good pleasure,' they would obtain the heavenly riches; fear about spiritual things being thus removed, there ought to be none about temporal things."
+        ],
+        "Archibald T. Robertson": [
+            "Little flock (\u03c4\u03bf \u03bc\u03b9\u03ba\u03c1\u03bf\u03bd \u03c0\u03bf\u03b9\u03bc\u03bd\u03b9\u03bf\u03bd)... \u03a0\u03bf\u03b9\u03bc\u03bd\u03b9\u03bf\u03bd (flock) is a contraction from \u03c0\u03bf\u03b9\u03bc\u03b5\u03bd\u03b9\u03bf\u03bd from \u03c0\u03bf\u03b9\u03bc\u03b7\u03bd (shepherd) instead of the usual \u03c0\u03bf\u03b9\u03bc\u03bd\u03b7 (flock). So it is not a diminutive and \u03bc\u03b9\u03ba\u03c1\u03bf\u03bd is not superfluous, though it is pathetic.",
+            "For it is your Father's good pleasure (\u03bf\u03c4 \u03b5\u03c5\u03b4\u03bf\u03ba\u03b7\u03c3\u03b5\u03bd \u03bf \u03c0\u03b1\u03c4\u03b7\u03c1 \u03c5\u03bc\u03c9\u03bd).",
+            "This verse has no parallel in Matthew."
+        ],
+        "John Gill": [
+            "Fear not little flock... these words are true of all the saints in all ages of time...\" (24 words)",
+            "These are subject to many fears... and these fears arise from a body of sin, from the temptations of Satan, the hidings of God's face, and the prevalence of unbelief...\" (35 words)",
+            "It is your Father's good pleasure to give you the kingdom; not only the Gospel... but the kingdom of glory... a gift unto them, not obtained by any deserts or works of theirs...\" (42 words)"
+        ],
+        "John Wesley": [
+            "It is your Father's good pleasure to give you the kingdom.\" ",
+            "How much more food and raiment?",
+            "And since ye have such an inheritance, regard not your earthly possessions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not fear, for you are a cherished and vulnerable group, akin to a little flock diligently tended by a compassionate Shepherd. He addresses you with such tenderness and calls out to the disciples, reminding them of the immense love that envelops them, the unyielding support that upholds them, and the glorious inheritance that awaits them. Let this grand proclamation of the kingdom resonate deeply within you, boosting your faith and banishing all anxiety. Take comfort in the affirmation that your heavenly Father delights in bestowing upon you this kingdom, and be reassured that if He provides for your eternal needs, He will surely provide for your earthly ones as well. So, dismiss any anxieties about material provisions and instead fix your gaze upon the riches of the kingdom, for it is your Father's good pleasure to bequeath it to you.",
+            "wordCount": 142,
+            "quoteTokenProportion": 35.79,
+            "qualityScore": 1.9123692323809254,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                33.87,
+                32.2,
+                33.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not fear, little flock, for you are dear to the Shepherd's heart. Remember how seemingly insignificant and feeble you may appear, but grasp the eternal love enfolding you, the everlasting arms supporting you, and the glorious inheritance that awaits. Take solace in knowing that your heavenly Father delights in granting you this kingdom, underscoring that He will also provide for your earthly needs. So, cast aside anxieties and focus on the immeasurable riches of the kingdom, generously bestowed by your Father's good pleasure.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9554091564497333,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                35.78,
+                30.11,
+                34.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not fear, little flock, for you are cherished and vulnerable. Reflect on the contrast between your insignificance and the Father's good pleasure to grant you the kingdom. You are like a small, weak group that the Shepherd lovingly tends. Submitting to fear obstructs your pursuit of God's kingdom. Remember that your heavenly Friend will provide for you, removing all anxieties. The disciples needed this encouragement, despite their outward weakness. So, release your apprehensions about both spiritual and earthly matters and focus on the certainty of the heavenly riches awaiting you.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.745825111536409,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.39,
+            "commentatorTierSimilarities": [
+                31.64,
+                36.27,
+                32.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Fear not, for you are a little flock, a cherished and vulnerable group tenderly shepherded by Christ. Though you may seem small and insignificant, know that the Father takes great pleasure in bestowing upon you the kingdom. This assurance should dispel any anxiety regarding your earthly needs, for if God provides for your eternal inheritance, how much more will He meet your temporal needs? Fix your gaze on the glorious promises of the kingdom, setting aside all fears, and trust in your heavenly Father's abundant provision.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.8622067423011264,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+            "commentatorTierSimilarities": [
+                31.63,
+                31.53,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not fear, little flock, for you are precious and weak, yet under the tender care of the Shepherd. Despite your small numbers, the Father's good pleasure is to grant you the kingdom. Trust that He will provide for all your needs, both spiritual and earthly, removing fears that hinder the pursuit of God's kingdom. Take comfort in the certainty of your heavenly inheritance, freely given by God's grace, and prioritize eternal riches above earthly possessions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9487011551145967,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.14,
+            "commentatorTierSimilarities": [
+                32.15,
+                31.13,
+                36.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

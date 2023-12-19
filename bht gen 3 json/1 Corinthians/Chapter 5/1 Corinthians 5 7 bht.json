@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:04:02",
+    "verseRef": "1 Corinthians 5:7",
+    "bestBHT": {
+        "bht": "Let there be no leaven of evil in believers who are the 'unleavened lump.' In no part of our time is the leaven of evil to be admitted. Dispense therefore with the evil leaven that has grown old and has gone sour, and be changed into new leaven which is Jesus Christ. Put away the old leaven, the corruption of nature, and make a fresh start as a new community with the contamination removed. Christians should continually search and purify their hearts, treating others as they would wish them to be.",
+        "wordCount": 91,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 2.162916432568383,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+        "commentatorTierSimilarities": [
+            38.59,
+            30.78,
+            30.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This indicating the state by profession the normal state, as a fact, and the grounding of exhortations on it, is common enough with our Apostle.\" ",
+            "The ordinances of the old law are to him not points on whose actual observance to ground spiritual lessons, but things passed in, their literal acceptance, and become spiritual verities in Christ.",
+            "The Corinthians are the living loaves of bread, as believers are the living stones of the spiritual temple."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So Christians are continually to search and purify their hearts.",
+            "Let there be no leaven of evil in you who are the 'unleavened lump.'",
+            "In no part of our time is the leaven of evil to be admitted."
+        ],
+        "Albert Barnes": [
+            "Put away; free yourselves from... the old leaven... that you may be a new lump... as you are unleavened.\" ",
+            "Our 'paschal lamb,'... is sacrificed for us... when he was offered, the paschal offering was designed to cease.\" ",
+            "Christ was offered 'as a sacrifice for sin'... his offering was designed to take the place of the paschal sacrifice."
+        ],
+        "Marvin Vincent": [
+            "Leaven. Not the sinful man, but evil of every kind, in accordance with the more general statement of the leavening, power of evil in ver. 6.",
+            "Dispense, therefore, with the evil leaven that has grown old [\u03c0\u03b1\u03bb\u03b1\u03b9\u03c9\u03b8\u03b5\u03b9\u03c3\u03b1\u03bd] and that has gone sour [\u03b5\u03bd\u03bf\u03be\u03b9\u03c3\u03b1\u03c3\u03b1\u03bd] , and be changed into new leaven which is Jesus Christ.",
+            "New [\u03bd\u03b5\u03bf\u03bd] . See on Matthew 26:29."
+        ],
+        "John Calvin": [
+            "Old leaven receives that name on the same principle as the old man, for the corruption of nature takes the precedence in us, previously to our being renewed in Christ.\" ",
+            "Christ, says Paul, is our Passover. He was sacrificed once, and on this condition, that the efficacy of that one oblation should be everlasting.\" ",
+            "What remains now is, that we eat, not once a-year, but continually."
+        ],
+        "Philip Schaff": [
+            "Purge out the old leaven...put away in the person of this flagrant offender, that corrupt element, 'the old man,' which at their conversion they had 'put off.'"
+        ],
+        "Archibald T. Robertson": [
+            "Purge out...before the whole church is contaminated.",
+            "Make a fresh start as a new community with the contamination removed.",
+            "They are a new creation, exemplifying Kant's maxim that you should treat a man as if he were what you would wish him to be."
+        ],
+        "John Gill": [
+            "The apostle would have removed from them; this is properly the act of excommunication.",
+            "That they might appear to be what they professed to be, new men, new creatures in Christ.",
+            "Christ is 'our passover', the Christians' passover; the Jewish passover was a type of Christ."
+        ],
+        "John Wesley": [
+            "Purge out therefore the old leaven \u2014 Both of sinners and of sin.\" ",
+            "That ye may be a new lump, as ye are unleavened \u2014 That is, that being unleavened ye may be a new lump, holy unto the Lord.",
+            "For our passover is slain for us \u2014 The Jewish passover, about the time of which this epistle was wrote, 1 Corinthians 5:11, was only a type of this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let there be no leaven of evil in you who are the 'unleavened lump.' In no part of our time is the leaven of evil to be admitted. Dispense, therefore, with the evil leaven that has grown old and that has gone sour, and be changed into new leaven which is Jesus Christ. Put away the old leaven, the corruption of nature, and make a fresh start as a new community with the contamination removed. Christ is 'our passover', the Christians' passover, and just as the Jewish passover was a type of Christ, Christians should continually search and purify their hearts, treating others as they would wish them to be.",
+            "wordCount": 110,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.180730303943138,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.85,
+            "commentatorTierSimilarities": [
+                35.93,
+                30.52,
+                33.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let there be no leaven of evil in believers who are the 'unleavened lump.' In no part of our time is the leaven of evil to be admitted. Dispense therefore with the evil leaven that has grown old and has gone sour, and be changed into new leaven which is Jesus Christ. Put away the old leaven, the corruption of nature, and make a fresh start as a new community with the contamination removed. Christians should continually search and purify their hearts, treating others as they would wish them to be.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.162916432568383,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+            "commentatorTierSimilarities": [
+                38.59,
+                30.78,
+                30.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are called to remove the leaven of evil from their lives and be transformed by the new leaven that is Jesus Christ. They are to purge out the old leaven and make a fresh start as a new community, free from contamination. By continually searching and purifying their hearts, they exemplify what it means to be a new creation in Christ. This transformation aligns with the principle of treating others as they would wish them to be, reflecting the nature of Christ, who is our Passover sacrifice.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.1349662257083857,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.33,
+            "commentatorTierSimilarities": [
+                30.89,
+                34.8,
+                34.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are urged to remove any leaven of evil present in their lives and be transformed by the new leaven which is Jesus Christ. By purging out the old leaven and starting afresh, they become a new community, untainted by contamination. Continual self-examination and purification of the heart are essential for believers to exemplify their identity as new creations in Christ. This transformation is rooted in the principle of treating others as they would desire to be treated, reflecting the sacrificial nature of Christ, who is our Passover.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.078320492502267,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                31.56,
+                33.71,
+                34.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let believers rid themselves of the leaven of evil and embrace the new leaven that is Jesus Christ. By removing the old leaven and starting anew, they become a fresh community, untainted by contamination. Constant searching and purifying of hearts are necessary to reflect their identity as new creations in Christ. This transformation stems from the principle of treating others as desired, echoing the sacrificial nature of Christ, who is our Passover.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.036267009334657,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.05,
+            "commentatorTierSimilarities": [
+                32.13,
+                32.89,
+                34.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

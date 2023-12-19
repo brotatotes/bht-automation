@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:33:30",
+    "verseRef": "Ephesians 4:29",
+    "bestBHT": {
+        "bht": "Let every corrupt saying not come forth from your mouth, but whatever is good for building up of the present need. Corrupt and insipid speech, like profanity and lies, should be avoided. Instead, speak words that edify and supply help to those in need. As Christians, we should strive for purity in our conversation, reflecting the purity of our Master and God. Our words have the power to bring grace and comfort to those who hear. Let us speak words that are always good and edifying, promoting repentance, faith, and holiness.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.9192738950520538,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+        "commentatorTierSimilarities": [
+            31.33,
+            30.69,
+            37.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let every corrupt saying not come forth from your mouth, but whatever is good for building up of the present need.\" ",
+            "(The need is the deficiency; the part which needs to be built up, the defect to be supplied by edification.)",
+            "It may give grace to them that hear."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Corrupt\u2014literally, 'insipid,' without 'the salt of grace' ( :-), so worthless and then becoming corrupt: included in 'foolish talking' ( :-). Its opposite is 'that which is good to edifying.'\" ",
+            "'Words should be as nails fastened in a sure place, words suiting the present time and the present person, being 'for the edifying of the occasion' ( :-).'",
+            "The word spoken 'gives grace to the hearers' when God uses it as His instrument for that purpose."
+        ],
+        "Albert Barnes": [
+            "A Christian should be pure in his conversation. His Master was pure. His God is pure. The heaven to which he goes is pure. The religion which he professes is pure.",
+            "If those with whom he associates have not sufficient respect for themselves and him to abstain from such corrupt and corrupting allusions, he should at once leave them.",
+            "Speech is an invaluable gift; a blessing of inestimable worth. We may so speak as 'always' to do good to others."
+        ],
+        "Marvin Vincent": [
+            "That which is good, whatever it be.",
+            "Discourse that is good, whatever it be.",
+            "Edifying as the need may be."
+        ],
+        "John Calvin": [
+            "No filthy speech. He first forbids believers to use any filthy language, including under this name all those expressions which are wont to be employed for the purpose of inflaming lust.",
+            "He enjoins them to frame their discourse for edification... if any (speech) be good to the use of edifying, which means simply, if it be useful.",
+            "The edification of use will thus mean the progress of our edification, for to edify is to carry forward... it may impart grace to the hearers, meaning by the word grace, comfort, advice, and everything that aids the salvation of the soul."
+        ],
+        "Philip Schaff": [
+            "Let no corrupt communication... It is implied that such things naturally rise to the lips, but they should never be spoken.",
+            "Good (i.e., fitting, though possibly suggesting the moral quality) for the building up of the need... the requirement is adaptation to place and time, and to the person whose edification is sought.",
+            "That it may give grace... Profitable conversation is so rare, because our social intercourse has no such exalted aim as this."
+        ],
+        "Archibald T. Robertson": [
+            "Corrupt, rotten, putrid, like fruit, fish, here the opposite of good.\" ",
+            "For the build-up of the need, for supplying help when there is need.\" ",
+            "Let no other words come out."
+        ],
+        "John Gill": [
+            "Let no corrupt communication proceed out of your mouth...such as profane oaths, curses, and imprecations, unchaste words, angry ones, proud, haughty, and arrogant expressions, lies, perjury...",
+            "...good men will be cautious what they say, otherwise their religion is in vain...",
+            "...that it may minister grace unto the hearers; may be grateful and acceptable to them, or may minister the grace of God to them; that is, the doctrine of grace, the Gospel of the grace of God..."
+        ],
+        "John Wesley": [
+            "That which is good \u2014 Profitable to the speaker and hearers.",
+            "To the use of edifying \u2014 To forward them in repentance, faith, or holiness.",
+            "That it may minister grace \u2014 Be a means of conveying more grace into their hearts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let your words always be good for building up those in need, and never let corrupt, insipid speech come out of your mouth. Instead, speak words that bring grace to those who hear. Avoid foolish talking and instead focus on discourse that is good and edifying for the occasion. Such speech is like nails firmly fastened in place, supplying help and meeting the deficiency. As Christians, we should strive to be pure in our conversation, following the example of our pure Master and reflecting the purity of our God and the heavenly home we are headed towards. Our words have the power to do immense good, so let us be mindful to use speech that always does good to others and builds them up.",
+            "wordCount": 124,
+            "quoteTokenProportion": 38.75,
+            "qualityScore": 1.8953484190555931,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.36,
+            "commentatorTierSimilarities": [
+                30.45,
+                32.76,
+                36.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let your words be good for building up those in need, never corrupt; speak grace to those who hear. Avoid insipid, corrupt speech, and instead provide discourse that is good and edifying. Such speech supplies help and meets the deficiency. As Christians, we should be pure in conversation, reflecting the purity of our Master and God. Our words have the power to do immense good, always building up and never tearing down. Let us use speech that does good to others and edifies them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.8652955197408225,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.36,
+            "commentatorTierSimilarities": [
+                30.38,
+                33.15,
+                36.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let every corrupt saying not come forth from your mouth, but whatever is good for building up of the present need. Corrupt and insipid speech, like profanity and lies, should be avoided. Instead, speak words that edify and supply help to those in need. As Christians, we should strive for purity in our conversation, reflecting the purity of our Master and God. Our words have the power to bring grace and comfort to those who hear. Let us speak words that are always good and edifying, promoting repentance, faith, and holiness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9192738950520538,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+            "commentatorTierSimilarities": [
+                31.33,
+                30.69,
+                37.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let your words be good for building up those in need, never corrupt. Avoid insipid, corrupt speech and instead provide discourse that supplies help and meets the deficiency. As Christians, we should be pure in our conversation, reflecting the purity of our Master and God. Our words hold great power, capable of bringing grace and comfort to those who hear. Let us speak words that always edify, promoting repentance, faith, and holiness, and conveying the Gospel of the grace of God to others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8799361916885156,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.85,
+            "commentatorTierSimilarities": [
+                28.59,
+                32.88,
+                38.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let your words be good for building up those in need, never corrupt. Avoid insipid, corrupt speech and instead provide discourse that supplies help and meets the deficiency. As Christians, we should be pure in our conversation, reflecting the purity of our Master and God. Our words hold great power, bringing grace and comfort to those who hear. Speak words that always edify and promote repentance, faith, and holiness. Let your speech be a means of conveying more grace into the hearts of others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8486287180804122,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "commentatorTierSimilarities": [
+                29.07,
+                31.22,
+                39.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

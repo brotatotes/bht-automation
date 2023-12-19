@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:23:31",
+    "verseRef": "Luke 23:5",
+    "bestBHT": {
+        "bht": "They strenghthened and became more fierce in their charge against him, urging anew the charge of perverting the people and stirring up sedition. They cried out louder and exerted themselves with great fury and violence, increasing their charges and accusing him of teaching seditious principles in Galilee and throughout Judea. Perhaps they mentioned Galilee to alarm Pilate, knowing its reputation for sedition and rebellion.",
+        "wordCount": 64,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.9030162453399861,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+        "commentatorTierSimilarities": [
+            22.52,
+            23.14,
+            54.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Possibly they thought of the matter mentioned ch. xiii. 1, in introducing Galilee into their charge.\" ",
+            "The opening words may mean, they strengthened, redoubled, the charge\u2014or perhaps, they became urgent, they were the more fierce.",
+            "They were the more fierce, as in text."
+        ],
+        "Albert Barnes": [
+            "The more fierce - The more urgent and pressing.",
+            "Stirreth up the people - Excites them to tumult and sedition.",
+            "From Galilee to this place - To Jerusalem - that is, throughout the whole country."
+        ],
+        "Marvin Vincent": [
+            "They were more energetic and emphatic.",
+            "The increased urgency is shown by the use of a stronger word.",
+            "They were more fierce and stirreth up."
+        ],
+        "Philip Schaff": [
+            "And they were the more argent.",
+            "They strengthened their charge, urging anew the charge of perverting the people: He stirreth up the people, etc.",
+            "But they were disappointed."
+        ],
+        "Archibald T. Robertson": [
+            "But they were the more urgent (\u03bf \u03b4\u03b5 \u03b5\u03c0\u03b9\u03c3\u03c7\u03c5\u03bf\u03bd). Imperfect active of \u03b5\u03c0\u03b9\u03c3\u03c7\u03c5\u03c9, to give added (\u03b5\u03c0) strength (\u03b9\u03c3\u03c7\u03c5\u03c9). And they kept insisting. Evidently Pilate had taken the thing too lightly.",
+            "He stirred up the people (\u03b1\u03bd\u03b1\u03c3\u03b5\u03b9\u03b5 \u03c4\u03bf\u03bd \u03bb\u03b1\u03bf\u03bd). This compound is rare, though old (Thucydides), to shake up (back and forth). This is a more vigorous repetition of the first charge (verse Luke 23:2, 'perverting our nation').",
+            "Beginning from Galilee (\u03b1\u03c1\u03be\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2 \u03b1\u03c0\u03bf \u03c4\u03b7\u03c2 \u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u03b9\u03b1\u03c2). These very words occur in the address of Peter to the group in the house of Cornelius (Acts 10:37). The idiomatic use of \u03b1\u03c1\u03be\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2 appears also in Acts 1:22. Galilee (Grote) was the mother of seditious men (see Josephus)."
+        ],
+        "John Gill": [
+            "They cried out louder, and exerted themselves with great fury and violence, and added strength to their clamour, and increased their charges.",
+            "He stirreth up the people; to sedition and rebellion.",
+            "He taught seditious principles not only in Galilee, but all the way from thence throughout Judea, and even in their chief city, and had drawn many disciples after him every where."
+        ],
+        "John Wesley": [
+            "He stirreth up the people, beginning from Galilee \u2014 Probably they mentioned Galilee to alarm Pilate, because the Galileans were notorious for sedition and rebellion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They strenghthened and became more fierce in their charge against him, urging anew the charge of perverting the people and stirring up sedition. They cried out louder and exerted themselves with great fury and violence, increasing their charges and accusing him of teaching seditious principles in Galilee and throughout Judea. Perhaps they mentioned Galilee to alarm Pilate, knowing its reputation for sedition and rebellion.",
+            "wordCount": 64,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.9030162453399861,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+            "commentatorTierSimilarities": [
+                22.52,
+                23.14,
+                54.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They became more fierce, urgent, and energetic in their charge against him as they stirred up the people and insisted with greater intensity. Their accusations of perverting the people and inciting rebellion were strong and persistent. They even mentioned Galilee, a region known for its association with seditious individuals, in an attempt to further alarm Pilate. Their passionate and forceful accusations left no room for doubt or hesitation.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.7752786721155305,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                28.34,
+                25.95,
+                45.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "They were the more fierce and stirreth up, as they urged and insisted with increased urgency, making a stronger and more vigorous repetition of their charge of perverting the nation. The mention of Galilee was likely intended to alarm Pilate, as Galilee had a reputation for producing seditious individuals. The accusers were relentless in their efforts to demonstrate that this individual had not only incited unrest in Galilee, but had also drawn disciples after him throughout Judea and even in Jerusalem.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7644108786392385,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                27.93,
+                21.1,
+                50.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They were the more fierce and stirreth up, as they urged and insisted with increased urgency, making a stronger and more vigorous repetition of their charge of perverting the nation. The mention of Galilee was likely intended to alarm Pilate, as Galilee had a reputation for producing seditious individuals. The accusers were relentless in their efforts to demonstrate that this individual had not only incited unrest in Galilee but had also drawn disciples after him throughout Judea and even in Jerusalem.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7644108786392385,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                27.93,
+                21.1,
+                50.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They became more fierce and urgent in their charge against him, as they insisted and stirred up the people with increased strength. They were relentless in their accusations of perverting the nation and inciting sedition. Mentioning Galilee likely aimed to alarm Pilate, for it was known as a breeding ground for rebellion. Their repeated claims emphasized that this individual had not only caused unrest in Galilee but also attracted disciples throughout Judea, including Jerusalem. The accusers sought to instill fear and conviction in Pilate's mind.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.674668375466427,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.02,
+            "commentatorTierSimilarities": [
+                25.35,
+                23.81,
+                50.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

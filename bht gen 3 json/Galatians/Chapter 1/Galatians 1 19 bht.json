@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 14:14:41",
+    "verseRef": "Galatians 1:19",
+    "bestBHT": {
+        "bht": "This interpretation of James, the Lord's brother, as an apostle can be supported by other references and considerations. While brother could possibly refer to a cousin or kinsman, it is more likely to mean a step-brother relationship with Jesus. This understanding challenges the Roman church's belief in the perpetual virginity of Mary and Joseph. Nevertheless, James held a significant position in the early church, with authority on par with the twelve apostles, reaffirming his important role and prominence within the community.",
+        "wordCount": 84,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 2.380253606633235,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.48,
+        "commentatorTierSimilarities": [
+            30.07,
+            36.5,
+            33.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This verse admits of two interpretations, between which other considerations must decide.",
+            "We must then adopt (2): which is besides in consonance with other notices respecting the term Apostle, and the person here mentioned.",
+            "I reserve the subject for full discussion in the Introduction to the Epistle of James."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "James remained in charge of the mother church, as its bishop.",
+            "James was the Lord's brother, not in our strict sense, but in the sense, 'cousin,' or 'kinsman'.",
+            "It is not likely there would be two pairs of brothers named alike, of such eminence as James and Jude; the likelihood is that the apostles James and Jude are also the writers of the Epistles, and the brethren of Jesus."
+        ],
+        "Albert Barnes": [
+            "That the James here referred to was an apostle is clear. The whole construction of the sentence demands this supposition.",
+            "It is probable that this was the James referred to here, as it is evident from the Acts of the Apostles that he was a prominent man among the apostles in Jerusalem.",
+            "The word 'brother' may, according to Scriptural usage, be understood as denoting a near kinsman."
+        ],
+        "Marvin Vincent": [
+            "I saw none save James. Not, I saw none other of the apostles, but I saw James.\" ",
+            "The Lord's brother means that James was a son of Joseph and Mary.\" ",
+            "The explanations which differ from that of Helvidius have grown, largely, out of the desire to maintain the perpetual virginity of Mary."
+        ],
+        "John Calvin": [
+            "Almost all the ancients are agreed that he was one of the disciples, whose surname was 'Oblias' and 'The Just,' and that he presided over the church at Jerusalem.",
+            "Nor is there any force in the defense offered by Jerome, that the word Apostle is sometimes applied to others besides the twelve; for the subject under consideration is the highest rank of apostleship, and we shall presently see that he was considered one of the chief pillars.",
+            "The rest of the apostles, there is reason to believe, were scattered through various countries; for they did not idly remain in one place."
+        ],
+        "Philip Schaff": [
+            "The exceptive words 'but only,' (or, 'if not,' 'save,' 'unless it be') do not necessarily imply that this James was one of the twelve Apostles, and identical with James the younger...but it intimates rather...that he was, like Barnabas...an Apostle only in the wider sense, who, owing to his character, position, and relationship to the Lord, enjoyed apostolical authority.\" ",
+            "'Brother' is not cousin...but either a uterine brother, i.e., a younger son of Joseph and Mary...or a son of Joseph from a previous marriage, and hence a step-son of Mary and a step-brother of Jesus...The cousin-theory of the Roman church...is exegetically untenable, and was suggested chiefly by a doctrinal and ascetic bias in favor of the perpetual virginity of Mary and Joseph.",
+            "The natural meaning of the term 'brother,' of which there is no exception in the New Testament, and scarcely in the Old;... the fact that these brothers and sisters appear in the Gospels constantly in close connection with the holy family...they are always distinguished from the Twelve."
+        ],
+        "Archibald T. Robertson": [
+            "James, brother of the Lord, is here termed an apostle, though not one of the twelve as Barnabas is later so called.",
+            "Paul is showing his independence of and equality with the twelve in answer to the attacks of the Judaizers.",
+            "James the son of Zebedee was still living at that time."
+        ],
+        "John Gill": [
+            "This James was James the less, the son of Mary the wife of Cleophas... and so our Lord and this James were brothers' children, as was supposed.",
+            "Persons in such a relation, and even uncles and nephews, were called brethren by the Jews.",
+            "Christ had brethren or relations according to the flesh, distinct from his disciples and apostles, and his brethren among them."
+        ],
+        "John Wesley": [
+            "But other of the apostles I saw none, save James the brother (that is, the kinsman) of the Lord.\" ",
+            "Therefore when Barnabas is said to have 'brought him into the apostles,' Acts 9:27, only St. Peter and St James are meant."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse, Galatians 1:19, can be interpreted in two ways, one of which seems more fitting. James, the Lord's brother, is referred to as an apostle in this verse, signaling his prominence and authority within the early church. Some argue that this James was not one of the twelve apostles, but rather an apostle in a wider sense, similar to Barnabas. The term brother could mean a near kinsman, like a cousin or kinsman. However, it is more likely that brother refers to a son of Joseph and Mary, making James the younger step-brother of Jesus. This understanding opposes the Roman church's belief in the perpetual virginity of Mary and Joseph. Regardless, James, whether an apostle in the narrower or wider sense, played a significant role in the church and was given authority equal to the twelve apostles.",
+            "wordCount": 140,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 2.4780903380777897,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.74,
+            "commentatorTierSimilarities": [
+                29.88,
+                37.83,
+                32.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage can be interpreted in two ways, but it is more fitting that James, the Lord's brother, is referred to as an apostle. While some argue that James was not one of the twelve apostles, it is likely that he held apostolic authority in a broader sense. The term brother could mean a near kinsman, such as a cousin or kinsman. However, it is more probable that brother indicates a step-brother relationship with Jesus. Regardless, James held a significant role in the early church with authority equal to the twelve apostles.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.5209038665471173,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.16,
+            "commentatorTierSimilarities": [
+                28.92,
+                38.25,
+                32.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This verse raises two possible interpretations, but it seems more fitting to view James, the Lord's brother, as an apostle. Some argue that James was not one of the twelve apostles, but likely held apostolic authority in a broader sense. The term brother could denote a close relative like a cousin. However, it is more likely that brother refers to a step-brother relationship with Jesus. Regardless, James played a significant role in the early church with authority equal to the twelve apostles.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.488083594950039,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.07,
+            "commentatorTierSimilarities": [
+                29.68,
+                37.4,
+                32.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This interpretation of James, the Lord's brother, as an apostle can be supported by other references and considerations. While brother could possibly refer to a cousin or kinsman, it is more likely to mean a step-brother relationship with Jesus. This understanding challenges the Roman church's belief in the perpetual virginity of Mary and Joseph. Nevertheless, James held a significant position in the early church, with authority on par with the twelve apostles, reaffirming his important role and prominence within the community.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.380253606633235,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.48,
+            "commentatorTierSimilarities": [
+                30.07,
+                36.5,
+                33.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse presents two possible interpretations, but it seems more fitting to view James, the Lord's brother, as an apostle. The term brother could signify a close kinsman, like a cousin, or it could refer to a step-brother relationship. However, it is probable that brother implies a son of Joseph and Mary, making James the younger step-brother of Jesus. Regardless, James held a crucial position in the early church, with authority comparable to the twelve apostles, highlighting his significance within the community.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.5468546723929295,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.02,
+            "commentatorTierSimilarities": [
+                30.12,
+                37.98,
+                31.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

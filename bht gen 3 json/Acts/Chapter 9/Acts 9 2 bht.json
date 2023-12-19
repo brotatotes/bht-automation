@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:28:33",
+    "verseRef": "Acts 9:2",
+    "bestBHT": {
+        "bht": "Damascus, the oldest city in the world, was a center of Jewish settlement and known for its numerous proselyte wives. The phrase The Way had become a well-known expression among Christians, signifying their faith in Jesus Christ. Driven by his religious fervor, Paul desired official authorization to persecute followers of this way, specifically targeting women. He obtained this authority from the priests and the Sanhedrin, embarking on a journey to Damascus, a city with a strong Jewish presence and a refuge for some persecuted disciples who continued to worship in its synagogues.",
+        "wordCount": 93,
+        "quoteTokenProportion": 33.82,
+        "qualityScore": 1.9583906087720195,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+        "commentatorTierSimilarities": [
+            33.37,
+            37.64,
+            28.99
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Damascus is probably the oldest existing city in the world.",
+            "Many Jews were settled there, and the majority of the wives of the citizens were proselytes.",
+            "The expression 'THE WAY' had evidently become a well-known one among Christians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "desired . . . letters\u2014of authorization.",
+            "the most ancient city perhaps in the world, and lying in the center of a verdant and inexhaustible paradise.",
+            "Thrice are women specified as objects of his cruelty, as an aggravated feature of it."
+        ],
+        "Albert Barnes": [
+            "This shows the intensity of his wish to persecute the Christians, that he was willing to ask for such an employment.",
+            "The Jews were scattered into nearly all the regions surrounding Judea, and it is natural to suppose that many of them would be found in Damascus.",
+            "The Sanhedrin at Jerusalem claimed jurisdiction over religious opinions, and their authority would naturally be respected by foreign Jews."
+        ],
+        "Marvin Vincent": [
+            "Of this way [\u03c4\u03b7\u03c2 \u03bf\u03b4\u03bf\u03c5] . Rev., more correctly, 'the way.' A common expression in the Acts for the Christian religion : 'the characteristic direction of life as determined by faith on Jesus Christ' (Meyer).\" ",
+            "Women. Paul three times alludes to his persecution of women as an aggravation of his cruelty (ch. Acts 8:3; Acts 9:2; Acts 22:4)."
+        ],
+        "John Calvin": [
+            "He setteth forth before us a fierce and cruel beast who had not only liberty given him to rage, but had also his power increased to devour and destroy godly men, as if a madman had a sword put into his hand.",
+            "Paul\u2019s purpose was quite to put out the name of Christ by destroying all the godly cruelly."
+        ],
+        "Philip Schaff": [
+            "The religion of Jesus had been preached most probably by individual believers, driven away from Jerusalem at the time of the persecution, but no doubt Damascus Jews had been among the converted on the first Pentecost.",
+            "Of this way. This expression is a favourite one with the author of the \u2018Acts.\u2019 It signifies the religion of Jesus... It was to these first followers of the Crucified the way the way that leads to heaven.",
+            "The way, as Bengel tells us, we must walk, not loiter over."
+        ],
+        "Archibald T. Robertson": [
+            "Paul says that he received his authority to go to Damascus from the priests and 'the estate of the elders,' that is the Sanhedrin.\" ",
+            "This old city is the most enduring in the history of the world...Here the Jews were strong in numbers and here some disciples had found refuge from Saul's persecution in Judea and still worshipped in the synagogues.",
+            "Jesus called himself 'the way,' the only way to the Father."
+        ],
+        "John Gill": [
+            "Damascus was a very ancient city; it was in the times of Abraham; his servant Eliezer is said to be of it.",
+            "Some think it has its name from blood, and that it signifies a 'sack' or bag, or, as Jerom explains, a cup of blood.",
+            "To these synagogues, and the chief men of them, was Saul recommended for assistance and direction, that if he found any of this way, he might bring them bound to Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Damascus, the oldest city in the world, was a hub of activity populated by Jews and their proselyte wives. The phrase The Way had become synonymous with the Christian religion and was well-known among believers. Paul, driven by his religious zeal, sought letters of authorization to persecute followers of this way, specifically women. With the authority given by the Sanhedrin, Paul set off to Damascus, a stronghold of the Jews and a place where some disciples had sought refuge. Little did he know that Jesus, whom he persecuted, had declared himself as the way, the only path to the Father.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.9245376882657885,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                31.43,
+                37.74,
+                30.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Damascus, believed to be the oldest city in the world, housed numerous Jews, including proselyte wives. The phrase The Way had gained recognition among Christians, signifying their faith in Jesus Christ. Driven by his fervor, Paul sought authorization to persecute followers of this faith, particularly women. He received this authority from the priests and the Sanhedrin, with whom the jurisdiction over religious opinions resided. Unbeknownst to Paul, Damascus was a haven for some disciples who worshipped in synagogues, not realizing that Jesus Himself proclaimed to be the way to the Father.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.941647992989706,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                32.75,
+                38.47,
+                28.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Damascus, the oldest city in the world, was a hub of activity populated by Jews and their proselyte wives. The phrase The Way had become synonymous with the Christian religion and was well-known among believers. Paul, driven by his religious zeal, sought letters of authorization to persecute followers of this way, specifically women. With the authority given by the Sanhedrin, Paul set off to Damascus, a stronghold of the Jews and a place where some disciples had sought refuge. Little did he know that Jesus, whom he persecuted, had declared himself as the way, the only path to the Father.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.9245376882657885,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                31.43,
+                37.74,
+                30.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Damascus, the most ancient city in the world, was home to a large Jewish population. The term The Way had become widely recognized among Christians, representing their distinctive faith. Driven by his religious zeal, Paul sought official authorization to persecute adherents of this faith, particularly women, with approval from the priests and Sanhedrin. Unbeknownst to him, Damascus was a refuge for some disciples who worshipped in synagogues, unaware that Jesus Himself proclaimed to be the way to the Father.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8988900024423616,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                32.12,
+                38.94,
+                28.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Damascus, the oldest city in the world, was a center of Jewish settlement and known for its numerous proselyte wives. The phrase The Way had become a well-known expression among Christians, signifying their faith in Jesus Christ. Driven by his religious fervor, Paul desired official authorization to persecute followers of this way, specifically targeting women. He obtained this authority from the priests and the Sanhedrin, embarking on a journey to Damascus, a city with a strong Jewish presence and a refuge for some persecuted disciples who continued to worship in its synagogues.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.9583906087720195,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                33.37,
+                37.64,
+                28.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

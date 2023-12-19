@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:26:24",
+    "verseRef": "Acts 4:36",
+    "bestBHT": {
+        "bht": "Barnabas, known as the son of prophecy, was a Levite who owned land and generously sacrificed it for the cause of Christ. He was called the son of consolation because of his ministry of encouragement and exhortation. Barnabas, also referred to as Joses, gave his all to serve the Lord and his fellow believers. This act of selflessness earned him the nickname Barnabas, which means son of consolation or exhortation. His noble example demonstrates the spirit of generosity that characterized the early believers.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.7881658085697207,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+        "commentatorTierSimilarities": [
+            32.41,
+            31.44,
+            36.15
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Barnabas, in Hebrew 'the son of prophecy,'\u2014and the interpretation has been generally made good by taking the word rendered by the A.V. 'consolation,' in the sense of exhortation.",
+            "The Levites might possess land at all times within the precincts of the Levitical cities.",
+            "For the state of Cyprus at this time, see notes on ch. xi. 19; 4\u20137."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Joses, &amp;c.\u2014This is specified merely as an eminent example of that spirit of generous sacrifice which pervaded all.",
+            "son of consolation\u2014no doubt so surnamed from the character of his ministry.",
+            "a Levite\u2014who, though as a tribe having no inheritance, might and did acquire property as individuals (Deuteronomy 18:8)."
+        ],
+        "Albert Barnes": [
+            "He gave himself, his property, his all, to the service of the Lord Jesus.",
+            "The practice of giving surnames, as expressive of character, was not uncommon.",
+            "The case of Barnabas is that of a man who had property when he entered the ministry, and who gave up all for the Lord Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "The apostles gave him the nickname Barnabas by which later he was known because of this noble deed.",
+            "The meaning of the nickname is given by Luke as 'son of consolation or exhortation.'",
+            "Encouragement is the chief idea in \u03c0\u03b1\u03c1\u03b1\u03ba\u03bb\u03b7\u03c3\u03b9\u03c2 though exhortation, comfort, consolation are used to render it."
+        ],
+        "John Gill": [
+            "Joses Barnabas\"; for so it follows, who by the apostles was surnamed Barnabas: his name before his conversion was \"Joses\", or \"Joseph\", or \"Josiah\".",
+            "The son of consolation\"; or \"of exhortation\"; from the excellent gift and talent he had at exhorting.",
+            "A Levite of the tribe of Levi, and of the priestly race: and of the country of Cyprus\"; or \"by birth\", or \"nation, a Cyprian\"."
+        ],
+        "John Wesley": [
+            "A son of consolation.",
+            "Not only on account of his so largely assisting the poor with his fortune.",
+            "But also of those peculiar gifts of the Spirit, whereby he was so well qualified both to comfort and to exhort."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Barnabas, known as the son of prophecy, was a Levite who owned land and generously sacrificed it for the cause of Christ. He was called the son of consolation because of his ministry of encouragement and exhortation. Barnabas, also referred to as Joses, gave his all to serve the Lord and his fellow believers. This act of selflessness earned him the nickname Barnabas, which means son of consolation or exhortation. His noble example demonstrates the spirit of generosity that characterized the early believers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7881658085697207,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                32.41,
+                31.44,
+                36.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Barnabas, known as the son of prophecy, was a Levite who owned land and sacrificed it for Christ. He was called the son of consolation due to his ministry of encouragement. Barnabas, also known as Joses, gave his all to serve the Lord and his fellow believers. This act of selflessness earned him the nickname Barnabas, meaning son of consolation or exhortation. His example showcases the generous spirit of the early believers (Acts 4:36).",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.762168488575671,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                32.72,
+                32.45,
+                34.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Barnabas, also known as Joses, was a Levite who owned land and selflessly sacrificed it for the cause of Christ. He earned the nickname Barnabas, meaning son of consolation or exhortation, due to his ministry of encouragement. His noble act exemplified the generous and sacrificial spirit of the early believers. This was a significant display of his dedication to serving the Lord and his fellow believers.",
+            "wordCount": 66,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7032923517144334,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                31.37,
+                34.62,
+                34.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Barnabas, called the son of prophecy, was a Levite with land who generously sacrificed it for Christ. His nickname, Barnabas, means son of consolation or exhortation. This exemplified his ministry of encouragement. Barnabas, also known as Joses, gave everything to serve the Lord and fellow believers. His selflessness displayed the generous spirit of the early followers.",
+            "wordCount": 56,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.5860818394519056,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                33.89,
+                31.04,
+                35.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Barnabas, known as the son of prophecy, was a Levite who owned land and sacrificed it for the cause of Christ. He was called the son of consolation because of his ministry of encouragement and exhortation. Barnabas, also referred to as Joses, gave his all to serve the Lord and his fellow believers. This act of selflessness earned him the nickname Barnabas, which means son of consolation or exhortation. His noble example demonstrates the spirit of generosity that characterized the early believers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.7826870152507261,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+            "commentatorTierSimilarities": [
+                32.35,
+                31.66,
+                35.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

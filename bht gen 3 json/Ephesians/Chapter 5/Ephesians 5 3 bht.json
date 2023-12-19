@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:33:20",
+    "verseRef": "Ephesians 5:3",
+    "bestBHT": {
+        "bht": "But fornication, and all impurity, or covetousness, let it not be even named among you, as becometh saints. Let not the thing be even talked of, for such conversation would be unbecoming the holy ones of God. The two are so closely allied that the Greek for 'covetousness' is used sometimes in Scripture for sins of impurity. It is 'unbecoming' for a saint to be sensual or covetous. None of them should be talked about unnecessarily. Keep at the utmost distance from it, as becometh saints.",
+        "wordCount": 86,
+        "quoteTokenProportion": 56.9,
+        "qualityScore": 2.0566671971314943,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+        "commentatorTierSimilarities": [
+            35.2,
+            25.96,
+            38.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But fornication, and all impurity, or covetousness, let it not be even named among you, as becometh saints.\" ",
+            "Let not the thing be even talked of.\" ",
+            "Such conversation would be unbecoming the holy ones of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let it not be even named",
+            "The two are so closely allied that the Greek for 'covetousness' (pleonexia) is used sometimes in Scripture, and often in the Greek Fathers, for sins of impurity.",
+            "The common principle is the longing to fill one's desire with material objects of sense, outside of God."
+        ],
+        "Albert Barnes": [
+            "The covetous man, according to Paul, is to be ranked with the sensual, and with idolaters... Is this the estimate in which the vice is held now?",
+            "Who is a covetous man? A man who, in the pursuit of gold, neglects his soul, his intellect, and his heart.",
+            "The time 'may' come, therefore, when the covetous man will be regarded as deserving the same rank in the public estimation with the most vicious, and when to covet will be considered as much opposed to the spirit of the gospel as any of the vices here named."
+        ],
+        "Marvin Vincent": [
+            "Or covetousness. Or sets this sin emphatically by itself. ",
+            "Let it. It refers to each of the sins."
+        ],
+        "John Calvin": [
+            "Three things are here enumerated, which the apostle desires Christians to hold in such abhorrence, that they shall not even be named, or, in other words, shall be entirely unknown among them.\" ",
+            "By uncleanness he means all base and impure lusts; so that this word differs from fornication, only as the whole class differs from a single department.",
+            "To this precept he adds the authoritative declaration, that he demands nothing from them which becometh saints, \u2014 manifestly excluding from the number and fellowship of the saints all fornicators, and impure and covetous persons."
+        ],
+        "Philip Schaff": [
+            "Fornication; to be taken in its strict sense, since this was scarcely accounted a sin among the heathen of that time.",
+            "'Covetousness' is 'greed, avarice, unconquerable love of appropriation, morbid lust of acquisition, carrying in itself a violation of almost every precept of the Decalogue.'",
+            "'It' refers to each of the sins mentioned. None of them should be talked about unnecessarily."
+        ],
+        "Archibald T. Robertson": [
+            "In bad company surely. Debasing like sensuality.",
+            "It is 'unbecoming' for a saint to be sensual or covetous."
+        ],
+        "John Gill": [
+            "The first of these, which is simple 'fornication', is the sin which is committed between single or unmarried persons; and is contrary to the law of God, is a work of the flesh, and is against a man's own body.",
+            "All uncleanness takes in adultery, incest, sodomy, and every unnatural lust.",
+            "Neither one or other of them; the sense is, that they should not be committed; so that there might be no occasion to speak of them, even though with abhorrence, as if there were no such vices in being."
+        ],
+        "John Wesley": [
+            "But let not any impure love be even named or heard of among you - Keep at the utmost distance from it, as becometh saints."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But fornication, and all impurity, or covetousness, let it not be even named among you, as becometh saints. Let not the thing be even talked of. Such conversation would be unbecoming the holy ones of God. The two are so closely allied that the Greek for 'covetousness' is used sometimes in Scripture, and often in the Greek Fathers, for sins of impurity. It is 'unbecoming' for a saint to be sensual or covetous. None of them should be talked about unnecessarily. Keep at the utmost distance from it, as becometh saints.",
+            "wordCount": 91,
+            "quoteTokenProportion": 56.67,
+            "qualityScore": 1.9461070067988273,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.05,
+            "commentatorTierSimilarities": [
+                38.64,
+                24.22,
+                37.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But fornication, and all impurity, or covetousness, let it not be even named among you, as becometh saints. Let not the thing be even talked of, for such conversation would be unbecoming the holy ones of God. The two are so closely allied that the Greek for 'covetousness' is used sometimes in Scripture for sins of impurity. It is 'unbecoming' for a saint to be sensual or covetous. None of them should be talked about unnecessarily. Keep at the utmost distance from it, as becometh saints.",
+            "wordCount": 86,
+            "quoteTokenProportion": 56.9,
+            "qualityScore": 2.0566671971314943,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+            "commentatorTierSimilarities": [
+                35.2,
+                25.96,
+                38.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "But fornication, and all impurity, or covetousness, let it not be even named among you, as becometh saints. Such conversation would be unbecoming the holy ones of God. The Greek for 'covetousness' is used for sins of impurity. It is 'unbecoming' for a saint to be sensual or covetous. None of them should be talked about unnecessarily. Keep at the utmost distance from it, as becometh saints.",
+            "wordCount": 67,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 2.002740729672544,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.93,
+            "commentatorTierSimilarities": [
+                38.33,
+                24.73,
+                36.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse emphasizes the need for purity and righteousness among believers. Fornication, impurity, and covetousness are mentioned as sins that should not even be named or talked about within the community of saints. The commentators explain that covetousness is closely linked to impurity, as both involve a desire for sensual pleasures and an attachment to material possessions. They emphasize that these sins are debasing and unbecoming of those who are set apart for God. The severity of these sins is highlighted by the comparison of the covetous man to idolaters and the warning that the public estimation of covetousness may come to match that of other gross vices. Overall, the verse calls believers to distance themselves from any hint of immorality and to uphold a standard of holiness that reflects their identity as saints.",
+            "wordCount": 134,
+            "quoteTokenProportion": 36.05,
+            "qualityScore": 1.995372543771853,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                27.96,
+                34.65,
+                37.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are urged to reject immorality and greed, distancing themselves from discussions and even mentions of such sins. The sins of fornication, impurity, and covetousness are closely linked, characterized by a longing for sensual pleasure and a love for material possessions. These vices are seen as debasing and unfitting for those who belong to God. The severity of covetousness is underscored by its comparison to idolatry, and it is suggested that society may one day regard covetousness with the same repugnance as other gross sins. As saints, believers are called to uphold a standard of purity and righteousness that reflects their holiness.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.952567548278187,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                28.15,
+                34.89,
+                36.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

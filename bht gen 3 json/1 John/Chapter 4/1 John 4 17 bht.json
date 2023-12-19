@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:49:14",
+    "verseRef": "1 John 4:17",
+    "bestBHT": {
+        "bht": "Love is perfected in our fellowship with God, where His love dwells within us and we dwell in Him. This communion enables us to have confidence in the day of judgment, as we partake in the righteousness and boldness that come from our oneness with Christ. Through our likeness to Him, we are empowered to stand fearlessly before God, reassured of His paternal love. As we manifest Christ and bear His image in this world, we eagerly anticipate the day of judgment, free from fear and filled with boldness.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.18366049861404,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.95,
+        "commentatorTierSimilarities": [
+            36.92,
+            31.94,
+            31.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Love dwelling in us advances to its consummation 'with us' that is, as it is concerned with us.\" ",
+            "Herein is our love perfected, namely, in God dwelling in us, and our dwelling in God, involving as its result 'that we can have confidence (or boldness) in the day of judgment.'\" ",
+            "Our oneness with Him even now in His exalted position above, so that all that belongs to Him of righteousness, belongs to us also by perfect imputation and progressive impartation, is the ground of our love being perfected so that we can have confidence in the day of judgment."
+        ],
+        "Albert Barnes": [
+            "The love that is within us, or in us, is made perfect.",
+            "He who has true love to God will have nothing to fear in the day of judgment.",
+            "We have the same traits of character which the Saviour had, and, resembling him, we need not be alarmed at the prospect of meeting him."
+        ],
+        "Marvin Vincent": [
+            "Love has its fulfillment in freeing us from fear, and inspiring us with boldness even in view of the final judgment.",
+            "The true idea is that love is perfected in fellowship. The love of God is perfected with us, in communion with us, through our abiding in Him and He in us.",
+            "Likeness to Christ is the ground of boldness."
+        ],
+        "John Calvin": [
+            "Herein is our love made perfect...when we resemble God as children their father.",
+            "It is an invaluable benefit, that we can dare boldly to stand before God...assured of his paternal love.",
+            "In order that we may be deemed his children...the image of God, when it appears in us, is as it were the seal of his adoption."
+        ],
+        "Archibald T. Robertson": [
+            "God works with man\" (Westcott).",
+            "Love is a heavenly visitant\" (David Smith).",
+            "We are in this world to manifest Christ."
+        ],
+        "John Gill": [
+            "the saints will have boldness in it: while evil men and devils tremble at the thoughts of it now, they rejoice and are glad; they love it, look for it, long for it, and hasten to it; and will stand fearless, and without the least dread",
+            "they justly conclude they shall not enter into condemnation, and therefore are not afraid of the awful judgment",
+            "as he is the Son of God, so are they the sons of God; he by nature, they by grace and adoption; as he is loved by God with an everlasting and unchangeable love, with a love of complacency and delight, so are they loved by him with the same kind of love, even while they are in this world"
+        ],
+        "John Wesley": [
+            "Hereby... our love made perfect... boldness in the day of judgment.",
+            "As he... so are we... in this world.",
+            "By this communion... we may have... boldness in the day of judgment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Love is perfected in fellowship with God, where His love dwells in us and we dwell in Him. Through this communion, we are filled with confidence, even in the face of the day of judgment. Our oneness with God, our likeness to Christ, is the foundation for this boldness. We no longer fear the final judgment because we are secure in God's love. As children of God, we bear His image and are reassured of His paternal love. The saints rejoice and eagerly anticipate the day of judgment, standing fearless before God, while the wicked tremble. In this world, we are called to manifest Christ and experience the transformative power of love.",
+            "wordCount": 113,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.00565557753604,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+            "commentatorTierSimilarities": [
+                35.83,
+                32.42,
+                31.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Love finds its consummation through fellowship, as God's love dwells in us and we dwell in Him. This unity leads to confidence in the day of judgment, as we partake in the righteousness and boldness that come from being one with Christ. Love frees us from fear and inspires us to boldly stand before God's judgment. We are called to manifest Christ in this world and, as His children, experience the invaluable benefit of standing before God with assurance of His paternal love.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.149057180106312,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.8,
+            "commentatorTierSimilarities": [
+                37.48,
+                31.85,
+                30.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Love reaches its fulfillment through our communion with God, where His love dwells within us and we reside in Him. This fellowship allows us to be confident in the day of judgment, as we are united with Christ and share in His righteousness. In this world, our boldness comes from our likeness to Christ, as we manifest Him and bear His image. As children of God, we are reassured of His paternal love, and this assurance empowers us to fearlessly stand before Him, eagerly awaiting the day of judgment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.1259625990613893,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.03,
+            "commentatorTierSimilarities": [
+                37.44,
+                30.93,
+                31.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Love is perfected in our fellowship with God, where His love dwells within us and we dwell in Him. This communion enables us to have confidence in the day of judgment, as we partake in the righteousness and boldness that come from our oneness with Christ. Through our likeness to Him, we are empowered to stand fearlessly before God, reassured of His paternal love. As we manifest Christ and bear His image in this world, we eagerly anticipate the day of judgment, free from fear and filled with boldness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.18366049861404,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.95,
+            "commentatorTierSimilarities": [
+                36.92,
+                31.94,
+                31.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Love is perfected in fellowship with God, as His love dwells in us and we in Him. Through this communion, we can confidently face the day of judgment, knowing that we share in Christ's righteousness. Our boldness comes from our likeness to Him, for we are loved by God with the same everlasting love. As we manifest Christ in this world, we eagerly await the day of judgment, rejoicing and standing fearlessly before God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.154993738578512,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.99,
+            "commentatorTierSimilarities": [
+                38.11,
+                31.23,
+                30.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:15:15",
+    "verseRef": "Luke 5:7",
+    "bestBHT": {
+        "bht": "In amazement and fear, the disciples beckoned to their partners, who were at a distance, using signs to convey their need for help. As they began to sink under the weight of the abundance of fish caught, they were in desperate need of assistance. The disciples were not able to communicate their distress vocally due to the distance between the boats. It was only through their fellow fishermen coming to their aid that they were rescued from the depths, illustrating the power of unity and participation in common blessings.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.6805500526221098,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+        "commentatorTierSimilarities": [
+            30.86,
+            22.57,
+            46.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They beckoned, on account of the distance.",
+            "Not being able to speak from their amazement and fear."
+        ],
+        "Albert Barnes": [
+            "Perhaps they were at a considerable distance, so that they could not be easily heard.",
+            "It was with some one of this sort, I suppose, that Simon had toiled all night without catching anything, but which, when let down at the command of Jesus, inclosed so great a multitude that the net broke, and they filled two ships with the fish until they began to sink.",
+            "Indeed, every kind of fishing is uncertain. A dozen times the angler jerks out a naked hook; the hand-net closes down on nothing; the drag-net brings in only weeds; the bag comes up empty. And then again, every throw is successful - every net is full."
+        ],
+        "Marvin Vincent": [
+            "They made signs because of the distance of the other boat; hardly, as has been suggested, because they were too much amazed to speak.",
+            "Help [\u03c3\u03c5\u03bb\u03bb\u03b1\u03b2\u03b5\u03c3\u03b8\u03b1\u03b9]. Lit., take hold with. Compare Philippians 4:3.",
+            "Began to sink [\u03b2\u03c5\u03b8\u03b9\u03b6\u03c9\u03c3\u03b8\u03b1\u03b9]. Only here and 1 Timothy 6:9, of drowning men in destruction. From buqov, the depth."
+        ],
+        "Philip Schaff": [
+            "Fishermen\u2019s signals require little explanation.",
+            "Their fellows, i.e., the sons of Zebedee (Luke 5:10). Not necessarily \u2018partners.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Simon alone had been ordered to put out into the deep. So they used signs.",
+            "\u03bc\u03b5\u03c4\u03bf\u03c7\u03bf\u03c2, from \u03bc\u03b5\u03c4\u03b5\u03c7\u03c9, to have with, means participation with one in common blessings.",
+            "Consecutive use of \u03c9\u03c3\u03c4\u03b5 and the infinitive (present tense, inchoative use, beginning to sink)."
+        ],
+        "John Gill": [
+            "And they beckoned unto their partners... who were at some distance from them, probably lay at anchor near the shore, not having put out to sea when the other vessel did, and so were not within call...",
+            "that they should come and help them; take up the net, and take the fish out of it...",
+            "so that they began to sink; or 'were almost immersed'... the vessels were so heavy laden, with the vast quantity of fish that was taken, that they were just ready to sink with their burden."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Amazed and fearful, the disciples beckoned to their partners who were at a distance, using signs to convey their need for help. As they began to sink under the weight of the abundance of fish caught, they were in desperate need of assistance. The disciples were not able to communicate their distress vocally due to the distance between the boats. It was only through their fellow fishermen coming to their aid that they were rescued from the depths, illustrating the power of unity and participation in common blessings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.670045291139534,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                30.42,
+                22.56,
+                47.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Unable to speak from their amazement and fear, the disciples signaled for help, beckoning their partners who were at a distance. The weight of the vast quantity of fish they had caught in their nets caused them to begin sinking, prompting their urgent need for assistance. Through the use of signs, they conveyed their desperate situation. It was in this moment that their fellow fishermen came to their aid, demonstrating the importance of unity and the sharing of common blessings.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5645631367040345,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.36,
+            "commentatorTierSimilarities": [
+                28.77,
+                24.66,
+                46.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In awe and unable to speak, the disciples used gestures to beckon their partners who were out of earshot. The abundance of fish they had caught was so immense that their boats began to sink under its weight. They required the help of their fellow fishermen to rescue them from the depths. This incident serves as a powerful reminder of the significance of unity and sharing in the blessings that come from working together.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.466687853866878,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.11,
+            "commentatorTierSimilarities": [
+                27.85,
+                24.75,
+                47.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amazed and unable to speak, the disciples made signs to their partners in another boat, who were too far away to be heard. The weight of the tremendous catch of fish caused their boat to begin sinking. The disciples relied on the participation and assistance of their fellow fishermen to save them from being overwhelmed by the situation. This event highlights the significance of unity and shared blessings, emphasizing the importance of working together in times of difficulty.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.4389285639027811,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.19,
+            "commentatorTierSimilarities": [
+                28.16,
+                22.92,
+                48.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In amazement and fear, the disciples beckoned to their partners, who were at a distance, using signs to convey their need for help. As they began to sink under the weight of the abundance of fish caught, they were in desperate need of assistance. The disciples were not able to communicate their distress vocally due to the distance between the boats. It was only through their fellow fishermen coming to their aid that they were rescued from the depths, illustrating the power of unity and participation in common blessings.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6805500526221098,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                30.86,
+                22.57,
+                46.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:17:59",
+    "verseRef": "Galatians 4:9",
+    "bestBHT": {
+        "bht": "The Galatians, who had never been Jews before, were turning back to the rudiments of the world, both Jewish and Gentile worship, and abandoning the freedom found in the worship of the true God. God, in His electing love, had first known and loved them, making their fall from His grace even more heinous. These systems of worship, based on outward forms and sense, were incapable of bestowing what God had done and given through sending His Son. It is absurd for those who have been made free by the gospel to return to any form of servitude or bondage.",
+        "wordCount": 100,
+        "quoteTokenProportion": 47.22,
+        "qualityScore": 2.166034458967286,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.36,
+        "commentatorTierSimilarities": [
+            30.37,
+            40.81,
+            28.82
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Galatians did not so much acquire the knowledge of God, as they were taken into knowledge, recognized, by Him.",
+            "No change of the meaning of known must be resorted to, as 'approved,' 'loved.'",
+            "These Galatians had never been Jews before: but they had been before under the rudiments of the world, under which generic term both Jewish and Gentile worship was comprised: so that they were turning back again to these rudiments."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They did not first know and love God, but God first, in His electing love, knew and loved them as His.\"  ",
+            "God's great grace in this made their fall from it the more heinous.\"  ",
+            "Both systems consisted in outward worship and cleaved to sensible forms. Both were in bondage to the elements of sense, as though these could give the justification and sanctification which the inner and spiritual power of God alone could bestow."
+        ],
+        "Albert Barnes": [
+            "Since they had been made free from their ignoble servitude in the worship of false gods, and had been admitted to the freedom found in the worship of the true God, it was absurd that they should return again to that which was truly slavery or bondage...",
+            "Or rather are known of God... it was all owing to him that they had been brought to an acquaintance with himself.",
+            "The main idea is, that it is absurd for people who have been made free by the gospel to go back again into any kind of servitude or bondage."
+        ],
+        "Marvin Vincent": [
+            "If God knows a man, that fact implies an activity of God which passes over to the man, so that he, as the subject of God 's knowledge, comes into the knowledge of God.",
+            "How [\u03c0\u03c9\u03c2]. 'A question full of wonder' (Bengel).",
+            "The two adjectives express the utter impotence of these 'elements' to do and to bestow what was done and given by God in sending his Son into the world."
+        ],
+        "John Calvin": [
+            "No language can express the base ingratitude of departing from God, when he has once been known.\" ",
+            "They could not turn again to ceremonies which they had never practiced. The expression is figurative, and merely denotes, that to fall again into wicked superstition, as if they had never received the truth of God, was the height of folly.",
+            "The false apostles, on the other hand, neglecting the promises, endeavored to oppose the ceremonies to Christ, as if Christ alone were not sufficient."
+        ],
+        "Philip Schaff": [
+            "Formerly the Galatians were left to themselves and, as it were, ignored by God. Then their knowledge of God was not their own merit, but a free gift of God.",
+            "Man\u2019s knowledge of God is very imperfect and has no value except as far as it flows from God\u2019s perfect knowledge and recognition of man.",
+            "Even Judaism is merely a poor elementary school and a system of slavery, as compared with the riches and freedom of the gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Now that ye have come to know God...come to know by experience through faith in Christ.\" ",
+            "The weak and beggarly rudiments...still in their utter impotence from the Pharisaic legalism and the philosophical and religious quests of the heathen.",
+            "It is pitiful today to see some men and women leave Christ for will o' the wisps of false philosophy."
+        ],
+        "John Gill": [
+            "God having caused light to shine in their dark hearts; and having given them the light of the knowledge of himself in the face of Christ.\" ",
+            "That knowledge which he has of them is particular, distinct, and complete; and is to be understood, not of his omniscience in general, so all men are known by him; but of his special knowledge, joined with affection, approbation, and care.",
+            "The Galatians are said to turn again to these not that they were before in the observation of them, except the Jews, but because there was some likeness between these, and the ceremonies with which they carried on the service of their idols."
+        ],
+        "John Wesley": [
+            "Weak, utterly unable to purge your conscience from guilt, or to give that filial confidence in God.",
+            "Poor \u2014 incapable of enriching the soul with such holiness and happiness as ye are heirs to.",
+            "Ye desire to be again in bondage \u2014 Though of another kind; now to these elements, as before to those idols."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Galatians, who had never been Jews before, were turning back to the rudiments of the world, both Jewish and Gentile worship, and abandoning the freedom found in the worship of the true God. God, in His electing love, had first known and loved them, making their fall from His grace even more heinous. These systems of worship, based on outward forms and sense, were incapable of bestowing what God had done and given through sending His Son. It is absurd for those who have been made free by the gospel to return to any form of servitude or bondage, whether it be the legalism of Pharisaic or the empty quests of false philosophy.",
+            "wordCount": 114,
+            "quoteTokenProportion": 46.25,
+            "qualityScore": 2.1712717719490593,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.54,
+            "commentatorTierSimilarities": [
+                31.08,
+                39.67,
+                29.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Galatians, who had never been Jews before, were turning back to the rudiments of the world, both Jewish and Gentile worship, and abandoning the freedom found in the worship of the true God. God, in His electing love, had first known and loved them, making their fall from His grace even more heinous. These systems of worship, based on outward forms and sense, were incapable of bestowing what God had done and given through sending His Son.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.16559364269244,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.35,
+            "commentatorTierSimilarities": [
+                33.55,
+                35.8,
+                30.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Galatians, who had never been Jews before, were turning back to the rudiments of the world, both Jewish and Gentile worship, abandoning the freedom found in the worship of the true God. God, in His electing love, had first known and loved them. The systems of worship they were turning to were incapable of bestowing what God had done and given through sending his Son. It is absurd for those who have been made free by the gospel to return to any form of servitude or bondage, whether it be the legalism of Pharisaic or the empty quests of false philosophy.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.1425365597388355,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.58,
+            "commentatorTierSimilarities": [
+                30.89,
+                40.3,
+                28.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Galatians, having never been Jews before, were turning back to the rudiments of the world, both Jewish and Gentile worship, abandoning the freedom found in the worship of the true God. God, in His electing love, had first known and loved them, making their fall from His grace even more heinous. These systems of worship, based on outward forms and sense, were incapable of bestowing what God had done and given through sending His Son.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.151566571426545,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                33.29,
+                35.89,
+                30.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Galatians, who had never been Jews before, were turning back to the rudiments of the world, both Jewish and Gentile worship, and abandoning the freedom found in the worship of the true God. God, in His electing love, had first known and loved them, making their fall from His grace even more heinous. These systems of worship, based on outward forms and sense, were incapable of bestowing what God had done and given through sending His Son. It is absurd for those who have been made free by the gospel to return to any form of servitude or bondage.",
+            "wordCount": 100,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 2.166034458967286,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.36,
+            "commentatorTierSimilarities": [
+                30.37,
+                40.81,
+                28.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

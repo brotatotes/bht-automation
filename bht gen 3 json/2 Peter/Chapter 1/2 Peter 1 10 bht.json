@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:40:20",
+    "verseRef": "2 Peter 1:10",
+    "bestBHT": {
+        "bht": "To make our calling and election secure, we must diligently seek confirmation of our faith through a godly and holy life. Our part is to exercise the graces and fulfill the duties mentioned before, so that others can be assured of our status as the called and chosen of God. By living in accordance with God's will and persevering in our faith, we can stand firm and avoid falling away from salvation. Religion demands our utmost efforts and the assurance of salvation comes through sincere dedication and obedience.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.8054684133521706,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.37,
+        "commentatorTierSimilarities": [
+            22.58,
+            41.0,
+            36.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Give diligence...to make for yourselves your calling and election secure."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To make\" absolutely and finally is God's part, and would be in the active.",
+            "The ensuring of our election is spoken of not in respect to God, whose counsel is steadfast and everlasting, but in respect to our part.",
+            "We know His calling before His election, thereby calling is put first."
+        ],
+        "Albert Barnes": [
+            "Religion is of sufficient importance to claim our highest diligence, and to arouse us to the most earnest efforts to obtain the assurance of salvation.",
+            "The meaning here is, that they were to obtain such evidences of personal piety as to put the question whether they were 'called' and 'chosen,' so far as their own minds were concerned, to rest; or so as to have undoubted evidence on this point.",
+            "Whatever may be the secret purpose of God in regard to us, the only evidence that we have that we shall be saved is to be found in the fact that we are sincere Christians, and are honestly endeavoring to do his will."
+        ],
+        "Marvin Vincent": [
+            "Give the more diligence.",
+            "The only instance of this form of address in Peter, who commonly uses beloved.",
+            "Lit., stumble, and so Rev. Compare James 3:2."
+        ],
+        "John Calvin": [
+            "He infers, that there ought to be more labor and diligence, because he had said before, that faith ought not to be barren.",
+            "If any one prefers to regard the two words as meaning the same thing, I do not object; for the Scripture sometimes merges the difference which exists between two terms.",
+            "The import of what is said is, that the children of God are distinguished from the reprobate by this mark, that they live a godly and a holy life, because this is the design and end of election."
+        ],
+        "Philip Schaff": [
+            "The meaning then is = the case being as it has been explained...let these grave considerations of what is to be gained by the one course and what is to be lost by the other, make you all the more diligent...",
+            "But the fact that the \u2018election\u2019 is named after the \u2018calling,\u2019 and the awkwardness of speaking of the immutable decree of God as capable of being made sure by us, indicate that what is in view here is not the eternal election, but the historical, that is to say, the actual separation of the readers from their old life, and their introduction into the kingdom of Christ.",
+            "For, doing these things, ye shall never stumble. It is true, therefore, that it indicates a \u2018step short of falling\u2019 (Plumptre). It is so represented in Paul\u2019s question, \u2018Have they stumbled that they should fall...speaks of a stumbling or offending which is not hopeless. Here, however, it manifestly refers to the final issue of a forfeiture of salvation..."
+        ],
+        "Archibald T. Robertson": [
+            "Become diligent the more.",
+            "To make for yourselves.",
+            "Ye shall never stumble."
+        ],
+        "John Gill": [
+            "Diligence is to be used by the saints, to make their calling and election sure to others.\" ",
+            "By the exercise of the graces and the discharge of the duties before mentioned, the men of the world may be certified and assured that they are the called and chosen of God.",
+            "While they were exercising those graces and doing those duties, they should not fall; for these are the means of final perseverance."
+        ],
+        "John Wesley": [
+            "Wherefore \u2014 Considering the miserable state of these apostates.",
+            "Be the more diligent \u2014 By courage, knowledge, temperance, etc.",
+            "If ye are thus diligent to make your election firm, ye shall never finally fall."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are called to diligently make our calling and election secure. While God's part is to ensure our election, our part is to seek confirmation of our own faith through a godly and holy life. By living in accordance with God's will and exercising our faith, we can have assurance of our salvation. The exhortation to be diligent is a reminder that religion is of utmost importance and requires our highest efforts. By doing so, not only can we strengthen our own faith, but we can also bear witness to others of our calling and chosen status in Christ. Through our diligent pursuit of godliness, we can stand firm and never stumble on the path of faith.",
+            "wordCount": 119,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.825087309754081,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.03,
+            "commentatorTierSimilarities": [
+                28.38,
+                41.21,
+                30.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are to diligently make our calling and election secure. Our part is to seek confirmation of our faith through a godly and holy life. By living according to God's will and exercising our faith, we can have assurance of our salvation. Religion is of the highest importance and requires our earnest efforts. Through our diligence, we can not only strengthen our own faith but also bear witness to others of our calling and chosen status in Christ. By pursuing godliness, we can stand firm and never stumble in our faith.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7130100218331075,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+            "commentatorTierSimilarities": [
+                31.19,
+                39.36,
+                29.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To make our calling and election secure, we must diligently seek confirmation of our faith through a godly and holy life. Our part is to exercise the graces and fulfill the duties mentioned before, so that others can be assured of our status as the called and chosen of God. By living in accordance with God's will and persevering in our faith, we can stand firm and avoid falling away from salvation. Religion demands our utmost efforts and the assurance of salvation comes through sincere dedication and obedience.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8054684133521706,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.37,
+            "commentatorTierSimilarities": [
+                22.58,
+                41.0,
+                36.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To secure our calling and election, we are called to give diligence and strive for a godly life. Our part is to exercise the graces, fulfill the duties, and live a holy life that confirms our faith. This diligence is crucial because religion is of the highest importance, demanding our utmost efforts. Through our diligent pursuit of godliness, we not only strengthen our own faith but also serve as a testimony to others of our chosen status in Christ. By remaining diligent, we can stand firm and avoid falling away from salvation.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.7230775588814744,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.63,
+            "commentatorTierSimilarities": [
+                23.91,
+                41.11,
+                34.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By diligently seeking confirmation of our faith through a godly and holy life, we can secure our calling and election. It is important to understand that while God's part is to ensure our election, we must actively participate in the process. Our diligent pursuit of godliness not only strengthens our own faith but also serves as a witness to others of our chosen status in Christ. Through our efforts, we can stand firm and avoid stumbling on the path of faith, ensuring our perseverance and salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6981199958315445,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.8,
+            "commentatorTierSimilarities": [
+                26.51,
+                42.72,
+                30.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

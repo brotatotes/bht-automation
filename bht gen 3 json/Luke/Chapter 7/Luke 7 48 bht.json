@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:16:28",
+    "verseRef": "Luke 7:48",
+    "bestBHT": {
+        "bht": "In the midst of active duty and warm affections, forgiveness often springs up unexpectedly, unsought and eluding those who mope and are paralyzed. Jesus assures the weeping, loving penitent that their sins are forgiven, bringing stillness to their anguish and peace to their troubled soul. This declaration not only demonstrates Christ's divine authority as Lord of the conscience but acts as a new and formal personal assurance, reinforcing the constant interplay between Divine grace and Christian gratitude.",
+        "wordCount": 78,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 1.9162550395193858,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+        "commentatorTierSimilarities": [
+            31.42,
+            39.81,
+            28.77
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "An unsought assurance, usually springing up unexpected in the midst of active duty and warm affections.",
+            "Often it flies from those who mope and are paralyzed for want of it."
+        ],
+        "Albert Barnes": [
+            "Thy sins are forgiven - What a gracious assurance to the weeping, loving penitent!",
+            "How that voice, spoken to the troubled sinner, stills his anguish, allays his troubled feelings, and produces peace to the soul!",
+            "Here, then, Jesus gave indubitable proof that he was God as well as man; that he was Lord of the conscience as well as the pitying friend."
+        ],
+        "John Calvin": [
+            "Nor ought we to wonder, that the voice of Christ again pronounces an absolution of the woman, who had already tasted his grace, and who was even convinced that he was her only refuge of salvation.",
+            "Thus, at the present day, faith is previously necessary, when we pray that the Lord would forgive our sins; and yet this is not a useless or superfluous prayer, but the object of it is, that the heavenly Judge may more and more seal his mercy on our hearts, and in this manner may give us peace.",
+            "Though this woman had brought with her a confident reliance on that grace which she had obtained, yet this promise was not superfluous, but contributed greatly to the confirmation of her faith."
+        ],
+        "Philip Schaff": [
+            "Thy sins are forgiven. This does not forbid the view that a previous sense of pardon moved the woman to acts of love. It is rather a new assurance, a more formal personal declaration.",
+            "Christians have a sense of pardon awakening gratitude, but ever need more assurance of it, ever hope for and desire more; that is our faith.",
+            "This is the constant and blessed action and reaction of Divine grace and Christian gratitude it awakens."
+        ],
+        "Archibald T. Robertson": [
+            "Are forgiven (\u03b1\u03c6\u03b5\u03c9\u03bd\u03c4\u03b1). As in verse Luke 7:47. Remain forgiven, Jesus means, in spite of the slur of the Pharisee. "
+        ],
+        "John Gill": [
+            "Thy sins are forgiven; which was said, partly on account of the Pharisee, to let him see, that he knew this woman, what she was, and had been...",
+            "That she might have a fresh discovery of the forgiveness of her sins, for her comfort under the severe censure of the Pharisee...",
+            "To show that he was not only a prophet that had extraordinary knowledge of persons, and their characters, but that he was the most high God, to whom belonged the prerogative of pardoning sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of active duty and warm affections, an unsought assurance of forgiveness often springs up unexpectedly. It eludes those who mope and are paralyzed without it. Jesus assures the weeping, loving penitent that their sins are forgiven, bringing stillness to their anguish and peace to their troubled soul. This declaration not only demonstrates Christ's divine authority as Lord of the conscience, but it also acts as a new and formal personal assurance, reinforcing the constant interplay between Divine grace and Christian gratitude.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.7871657017638989,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.77,
+            "commentatorTierSimilarities": [
+                35.94,
+                37.39,
+                26.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of active duty and warm affections, an unsought assurance of forgiveness often springs up unexpectedly. Jesus assures the weeping, loving penitent that their sins are forgiven, bringing stillness to their anguish and peace to their soul. This declaration not only demonstrates Christ's divine authority but also acts as a new and formal personal assurance, reinforcing the constant interplay between Divine grace and Christian gratitude.",
+            "wordCount": 68,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8830391170203662,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                31.45,
+                39.7,
+                28.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst the busyness of life and the depth of emotions, an unexpected assurance of forgiveness can emerge. It may elude those who wallow in self-pity and inaction. Jesus assures the repentant and tearful sinner that their sins are forgiven, granting solace and tranquility. This pronouncement reveals Christ's divine authority, serving as a formal affirmation and strengthening the inseparable bond between God's grace and the grateful hearts of believers.",
+            "wordCount": 71,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.6830595333599763,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+            "commentatorTierSimilarities": [
+                30.97,
+                39.15,
+                29.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of active duty and warm affections, an unsought assurance of forgiveness often springs up unexpectedly. Jesus assures the weeping, loving penitent that their sins are forgiven, bringing stillness to their anguish and peace to their soul. This declaration not only demonstrates Christ's divine authority as Lord of the conscience, but it also acts as a new and formal personal assurance, reinforcing the constant interplay between Divine grace and Christian gratitude.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.909143805298218,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.82,
+            "commentatorTierSimilarities": [
+                30.7,
+                39.86,
+                29.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of active duty and warm affections, forgiveness often springs up unexpectedly, unsought and eluding those who mope and are paralyzed. Jesus assures the weeping, loving penitent that their sins are forgiven, bringing stillness to their anguish and peace to their troubled soul. This declaration not only demonstrates Christ's divine authority as Lord of the conscience but acts as a new and formal personal assurance, reinforcing the constant interplay between Divine grace and Christian gratitude.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.9162550395193858,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                31.42,
+                39.81,
+                28.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

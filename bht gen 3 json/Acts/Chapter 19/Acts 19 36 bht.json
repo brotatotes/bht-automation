@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:33:40",
+    "verseRef": "Acts 19:36",
+    "bestBHT": {
+        "bht": "The city's identity was deeply rooted in its established constitution, and it seemed ludicrous to imagine a group of transient speakers overthrowing it. What was the purpose behind inciting such a commotion then? Rather than acting rashly, they should have exercised restraint and composure to avoid any unintended consequences. The undeniable legends they believed in served to appease the enraged crowd. It was necessary for them to remain quiet and refrain from impulsive actions, so as to not endanger the city's relationship with Rome.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.3799454747395954,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.23,
+        "commentatorTierSimilarities": [
+            37.08,
+            35.91,
+            27.01
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "such was notoriously the constitution and fixed character of the city, with which its very existence was all but bound up.",
+            "Did they suppose that all this was going to be overturned by a set of itinerant orators? Ridiculous!",
+            "What did they mean, then, by raising such a stir?"
+        ],
+        "Albert Barnes": [
+            "There is no occasion for this tumult.",
+            "Be quiet - Be appeased.",
+            "To do nothing rashly - To do nothing in a heated, inconsiderate manner."
+        ],
+        "Marvin Vincent": [
+            "Quiet. The verb means to let down or lower; and so is applied, metaphorically, to keeping one's self in check; repressing.",
+            "Rash. Lit., headlong.",
+            "The verb [quiet] means to let down or lower; and so is applied, metaphorically, to keeping one's self in check."
+        ],
+        "Philip Schaff": [
+            "Ye ought to be quiet.",
+            "The \u2018town-clerk\u2019 seems to be throughout his harangue intensely anxious.",
+            "That his city should not through any riotous behaviour incur the displeasure of Rome."
+        ],
+        "Archibald T. Robertson": [
+            "Cannot be gainsaid... Undeniable... These legends were accepted as true and appeased the mob.",
+            "Ye ought... It is necessary.",
+            "Rash... Better look before you leap."
+        ],
+        "John Gill": [
+            "Seeing then that these things cannot be spoken against",
+            "It was impossible that they, or any men, should be capable of saying anything against the truth of these things",
+            "Ye ought to be quiet and do nothing rashly"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The city in question held its constitution and character close, even though it seemed absurd to think that a group of traveling speakers could bring about any significant change. So what motivated them to cause such a commotion? Instead, they should have restrained themselves and refrained from impulsive actions. It was necessary for them to be calm and cautious, as the legends they believed in were considered undeniable and satisfied the angry mob. They needed to think before acting rashly.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.3781095087791533,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.17,
+            "commentatorTierSimilarities": [
+                35.86,
+                28.21,
+                35.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The city's identity and very survival were closely tied to its long-standing constitution and character, making it almost impossible for them to fathom that a group of itinerant orators could disrupt their way of life. This begs the question: Why did they go to such lengths to create chaos? Rather than resorting to rash and impulsive behavior, they should have exercised restraint and composure. The undeniable nature of the legends they held dear appeased the angry mob, making it crucial for them to be calm and avoid acting recklessly.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.289038488644711,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.2,
+            "commentatorTierSimilarities": [
+                41.09,
+                33.19,
+                25.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The city's very existence was intertwined with its fixed character and constitution, making it absurd to believe that a few itinerant speakers could bring about overturn. So why did they cause such a stir? They should have repressed their impulsive actions and looked before leaping. The legends they held onto were unquestionable, which eased the anger of the mob. It was necessary for them to be quiet and not act rashly, guarding against any potential repercussions from Rome.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.3407928376400808,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.92,
+            "commentatorTierSimilarities": [
+                38.18,
+                27.54,
+                34.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The city's identity was deeply rooted in its established constitution, and it seemed ludicrous to imagine a group of transient speakers overthrowing it. What was the purpose behind inciting such a commotion then? Rather than acting rashly, they should have exercised restraint and composure to avoid any unintended consequences. The undeniable legends they believed in served to appease the enraged crowd. It was necessary for them to remain quiet and refrain from impulsive actions, so as to not endanger the city's relationship with Rome.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.3799454747395954,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.23,
+            "commentatorTierSimilarities": [
+                37.08,
+                35.91,
+                27.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The city depended on its established character and constitution, so it was absurd to think that transient speakers could bring about any significant change. The reason behind their uproar remains unclear. Instead of acting rashly, it was vital for them to exercise restraint and composure. The unquestionable legends they held onto were enough to satisfy the furious mob. They needed to remain quiet and refrain from impulsive actions to prevent any negative consequences with Rome.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.3007270550963077,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+            "commentatorTierSimilarities": [
+                35.49,
+                34.61,
+                29.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

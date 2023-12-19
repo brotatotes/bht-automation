@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:28:15",
+    "verseRef": "1 Timothy 3:15",
+    "bestBHT": {
+        "bht": "The living God is the foundation of our trust and the fountain of truth. The Church, as a part of the one great house of God, supports and preserves the word of truth. Our conduct as members of God's family upholds the truth, and it is in the Church, the dwelling place of God, that we learn how to behave. The Church stands in contrast to the idols of the world, as the pillar and support of the truth. Ultimately, the Church is the sanctuary of the living God, embracing His everlasting truth.",
+        "wordCount": 94,
+        "quoteTokenProportion": 34.04,
+        "qualityScore": 2.3009783890319886,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.85,
+        "commentatorTierSimilarities": [
+            40.26,
+            28.99,
+            30.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The living God forms a striking contrast to the lifeless idol, Diana of Ephesus. He is the fountain of 'truth,' and the foundation of our 'trust'.",
+            "Labor directed to a particular Church is service to the one great house of God, of which each particular Church is a part, and each Christian a lively stone.",
+            "The Church is 'the pillar of the truth,' as the continued existence (historically) of the truth rests on it; for it supports and preserves the word of truth."
+        ],
+        "Albert Barnes": [
+            "That thou mayest know how thou oughtest to behave thyself...It refers rather to the church as a body of believers, and to converse with them.",
+            "The church is called the 'house of God,' because it is that in which he dwells...it is the church of Christ, among his people.",
+            "The stability of the truth on earth is dependent on the church...the knowledge of the great system of redemption is preserved on earth unshaken, because the church is preserved."
+        ],
+        "Marvin Vincent": [
+            "The reference is not to Timothy's conduct as the A. V. impliest but rather to the instructions which he is to give to church members. Rend. how men ought to behave.\" ",
+            "Christians are called naov qeou sanctuary of God...and the apostles are oijkonomoi household stewards.\" ",
+            "The idea is that the church is the pillar, and, as such, the prop or support of the truth."
+        ],
+        "John Calvin": [
+            "There are good reasons why God bestows this name on his Church; for not only has he received us to be his children by the grace of adoption, but he also dwelleth in the midst of us.",
+            "No ordinary enhancement is derived from this appellation. Could it have been described in loftier language? Is anything more venerable, or more holy, than that everlasting truth which embraces both the glory of God and the salvation of men?",
+            "For, if the Church 'is the pillar of truth,' it follows that the Church is not with them [the Papists], when the truth not only lies buried, but is shockingly torn, and thrown down, and trampled underfoot."
+        ],
+        "Philip Schaff": [
+            "The true Bethel, in which through the Spirit. God manifests His presence.",
+            "St. Paul is never weary of dwelling on the thought from every point of view.",
+            "The words admit grammatically of three possible constructions."
+        ],
+        "Archibald T. Robertson": [
+            "It is conduct as members of God's family that Paul has in mind.\" ",
+            "The church of the living God, the pillar and ground of the truth.\" ",
+            "Probably it means stay or support rather than foundation or ground."
+        ],
+        "John Gill": [
+            "Let it be observed that these things are written, that thou mayest know how thou oughtest to behave thyself in the house of God.",
+            "It is called the house of God, because as an edifice, it is of his building and repairing, and in which he dwells; and as a family, is what he provides for.",
+            "And of this house it is said, which is the church of the living God; in opposition to, and distinction from the houses and temples of idols, which are inanimate and senseless creatures; whereas the true God is the living God."
+        ],
+        "John Wesley": [
+            "That thou mayest know how to behave \u2014 This is the scope of the epistle.",
+            "In the house of God \u2014 Who is the master of the family.",
+            "Which is \u2014 As if he had said, By the house of God, I mean the church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The living God is the foundation of our trust and the fountain of truth. The Church, as a part of the one great house of God, is a pillar and support of the truth. The stability of the truth on earth is dependent on the church, as it supports and preserves the word of truth. It is through our conduct as members of God's family that the truth is upheld. The Church, the dwelling place of God, is where His presence is made manifest, and it is in this house of God that we learn how we ought to behave ourselves. The Church, as the pillar and support of the truth, stands in contrast to the idols of the world that tear down and trample on the truth. Ultimately, the Church is the sanctuary of the living God and the place where His everlasting truth is embraced.",
+            "wordCount": 148,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.238664503191492,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.78,
+            "commentatorTierSimilarities": [
+                39.5,
+                29.28,
+                31.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The living God is the foundation of our trust and the fountain of truth. The Church, as a part of the one great house of God, supports and preserves the word of truth. Our conduct as members of God's family upholds the truth, and it is in the Church, the dwelling place of God, that we learn how to behave. The Church stands in contrast to the idols of the world, as the pillar and support of the truth. Ultimately, the Church is the sanctuary of the living God, embracing His everlasting truth.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 2.3009783890319886,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.85,
+            "commentatorTierSimilarities": [
+                40.26,
+                28.99,
+                30.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Church, as the living God's sanctuary, is the pillar and support of the lasting truth. It stands in contrast to lifeless idols, such as Diana of Ephesus. As members of God's household, we are called to conduct ourselves in a manner that upholds the truth. The Church, as part of the one great house of God, plays a vital role in supporting and preserving the word of truth. It is in the Church that we learn how to behave, guided by the living God who dwells within it.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.131386214551088,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.21,
+            "commentatorTierSimilarities": [
+                38.81,
+                29.59,
+                31.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Church, known as the living God's sanctuary, serves as the pillar and support of the enduring truth. In contrast to lifeless idols, like Diana of Ephesus, the Church upholds and preserves the word of truth. Our behavior as members of God's family contributes to the maintenance of this truth. The Church, as part of the one great house of God, possesses the responsibility of supporting and preserving the word of truth. It is within this divine dwelling place that we learn and practice how to conduct ourselves in a manner that pleases God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.03047422997554,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.85,
+            "commentatorTierSimilarities": [
+                39.0,
+                28.83,
+                32.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Church is the sanctuary of the living God and the pillar and support of the truth. It contrasts with lifeless idols like Diana of Ephesus, as it upholds and preserves the word of truth. Our behavior as members of God's family plays a crucial role in maintaining this truth. The Church, as part of the great house of God, is tasked with supporting and preserving the word of truth. It is within this sacred space that we learn how to conduct ourselves in a manner that honors God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.027606779952305,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.76,
+            "commentatorTierSimilarities": [
+                39.66,
+                28.33,
+                32.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

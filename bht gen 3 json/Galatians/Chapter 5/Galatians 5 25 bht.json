@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 14:21:10",
+    "verseRef": "Galatians 5:25",
+    "bestBHT": {
+        "bht": "Let us live in practice according to the inner principle of our spiritual life, walking by the Spirit and making our steps with the help and guidance of the Spirit. Our conduct should reflect the higher element of the Holy Spirit that we live in. Yielding to His influences and submitting to His guidance, we demonstrate that the Spirit of God dwells in us. If we are truly alive to God through His Spirit, let us faithfully follow His guidance in all areas of our lives.",
+        "wordCount": 86,
+        "quoteTokenProportion": 35.42,
+        "qualityScore": 2.5183754460673144,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.08,
+        "commentatorTierSimilarities": [
+            31.73,
+            32.67,
+            35.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "If we live BY the Spirit, let us also walk BY the Spirit.",
+            "Let our life in practice correspond to the ideal inner principle of our spiritual life.",
+            "'Life by (or 'in') the Spirit' is not an occasional influence of the Spirit, but an abiding state."
+        ],
+        "Albert Barnes": [
+            "We who are Christians profess to be under the influences of the Holy Spirit. By his influences and agency is our spiritual life.",
+            "Let us then act in this manner, and as if we believed this. Let us yield ourselves to his influences, and show that we are controlled by that Spirit.",
+            "It is an earnest exhortation to Christians to yield wholly to the agency of the Holy Spirit on their hearts, and to submit to his guidance."
+        ],
+        "Marvin Vincent": [
+            "Such being your principle of life, adapt your conduct (walk) to it.",
+            "Walk by the Spirit, the dative being instrumental as ver. 16.",
+            "Paul uses it [walk] very graphically, of falling into line with Abraham's faith."
+        ],
+        "John Calvin": [
+            "The death of the flesh is the life of the Spirit.",
+            "If the Spirit of God lives in us, let him govern our actions.",
+            "The Spirit of God cannot dwell in us without manifesting himself by the outward effects."
+        ],
+        "Philip Schaff": [
+            "If we live in the higher element of the Holy Spirit, we must also show it by a corresponding conduct.",
+            "To live and to walk are related here as condition and action, or as the inward and the outward life.",
+            "The dative in Greek here denotes the rule or direction."
+        ],
+        "Archibald T. Robertson": [
+            "By the Spirit let us also walk (\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4 \u03ba\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03c9\u03bc\u03b5\u03bd). Present subjunctive (volitive) of \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03c9, \"Let us also go on walking by the Spirit.\" Let us make our steps by the help and guidance of the Spirit. "
+        ],
+        "John Gill": [
+            "Sin has not only brought on men a corporeal death, and made them liable to an eternal one, but has also induced upon them a spiritual or moral death.\" ",
+            "Only the blessed Spirit is the spirit of life from Christ; who entering into them, frees them from the law of sin and death, and implants a principle of spiritual life in them.",
+            "By the Spirit; by his help and assistance, according to the rule of his word, and under his influence and direction as a guide."
+        ],
+        "John Wesley": [
+            "If we live by the Spirit \u2014 If we are indeed raised from the dead, and are alive to God, by the operation of his Spirit.",
+            "Let us walk by the Spirit \u2014 Let us follow his guidance, in all our tempers, thoughts, words, and actions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let our life in practice correspond to the ideal inner principle of our spiritual life. By the Spirit, let us also walk, making our steps by the help and guidance of the Spirit. If we live in the higher element of the Holy Spirit, we must also show it by a corresponding conduct. Let us yield ourselves to his influences and submit to his guidance. The Spirit of God cannot dwell in us without manifesting himself by the outward effects. If we are indeed alive to God by the operation of his Spirit, let us follow his guidance in all aspects of our lives.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.3441364826589037,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.28,
+            "commentatorTierSimilarities": [
+                33.3,
+                31.3,
+                35.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us live in practice according to the inner principle of our spiritual life, walking by the Spirit and making our steps with the help and guidance of the Spirit. Our conduct should reflect the higher element of the Holy Spirit that we live in. Yielding to His influences and submitting to His guidance, we demonstrate that the Spirit of God dwells in us. If we are truly alive to God through His Spirit, let us faithfully follow His guidance in all areas of our lives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 2.5183754460673144,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.08,
+            "commentatorTierSimilarities": [
+                31.73,
+                32.67,
+                35.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us align our practical life with the inner principle of our spiritual life by walking in step with the Spirit. This means making our steps in accordance with the help and guidance of the Spirit. If we truly live in the higher element of the Holy Spirit, our conduct should reflect it. By yielding to His influences and submitting to His guidance, we show that the Spirit of God is dwelling in us. As those alive to God through His Spirit, let us faithfully follow His guidance in every aspect of our lives.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.418599970568561,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.76,
+            "commentatorTierSimilarities": [
+                33.01,
+                32.11,
+                34.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us live out our faith by walking in step with the Spirit, aligning our actions with the inner principle of our spiritual life. This calls for making our steps with the help and guidance of the Spirit, yielding ourselves to His influences and submitting to His guidance. By doing so, we demonstrate that the Spirit of God dwells within us and manifests Himself through our outward actions. As those who are alive to God through His Spirit, let us faithfully follow His guidance in every area of our lives.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.4091101338830123,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.44,
+            "commentatorTierSimilarities": [
+                32.69,
+                30.92,
+                36.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To live by the Spirit means to let our life in practice correspond to the ideal inner principle of our spiritual life. Therefore, we should walk by the Spirit, making our steps by the help and guidance of the Spirit. By doing so, we align our conduct with our spiritual reality. Our outward actions should reflect our inner state of being under the influence of the Holy Spirit. If we truly live in the higher element of the Spirit, our behavior will bear witness to it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.387919036127416,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.74,
+            "commentatorTierSimilarities": [
+                35.62,
+                31.75,
+                32.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

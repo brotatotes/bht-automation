@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:12:56",
+    "verseRef": "Luke 1:37",
+    "bestBHT": {
+        "bht": "For with God nothing shall be impossible, for no word of His shall be void of power. Every word of God carries divine power and cannot be powerless. Those who imagine God's power to be beyond His word wander from the truth. With God, nothing is impossible because it is consistent with His nature, perfections, counsels, purposes, and promises.",
+        "wordCount": 60,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.230883215413392,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.52,
+        "commentatorTierSimilarities": [
+            28.03,
+            34.26,
+            37.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "37. For, &amp;c.\u2014referring to",
+            "\twhat was said by the angel to Abraham in like case ( :-), to strengthen her faith."
+        ],
+        "Marvin Vincent": [
+            "With God nothing shall be impossible.\" ",
+            "No word of God shall be void of power.\" ",
+            "Every word of God shall not be powerless."
+        ],
+        "John Calvin": [
+            "For no word shall be impossible with God... nothing is impossible with God.\" ",
+            "We ought always, in- deed, to hold it as a maxim, that they wander widely from the truth who, at their pleasure, imagine the power of God to be something beyond his word.",
+            "But he who has the power of God firmly and thoroughly fixed in his heart will easily surmount the other obstacles which present themselves to faith."
+        ],
+        "Philip Schaff": [
+            "No word from God shall be without power.",
+            "This affirms, not only God\u2019s almightiness, but even more fully His absolute faithfulness to His promises.",
+            "The denial of what is miraculous is the denial of both almightiness and faithfulness."
+        ],
+        "Archibald T. Robertson": [
+            "No word (\u03bf\u03c5\u03ba \u03c1\u03b7\u03bc\u03b1). \u03a1\u03b7\u03bc\u03b1 brings out the single item rather than the whole content (\u03bb\u03bf\u03b3\u03bf\u03c2). So in verse Luke 1:38. "
+        ],
+        "John Gill": [
+            "For with God nothing shall be impossible.",
+            "That is consistent with his nature and perfections, with his counsels, purposes, and promises.",
+            "Every thing that he has said, purposed, or promised, he is able to do, and will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For with God nothing shall be impossible, for no word of His shall be void of power. This affirms not only God's almightiness, but also His absolute faithfulness to His promises. Every word of God carries divine power and cannot be powerless. We should firmly hold the maxim that those who imagine God's power to be beyond His word greatly wander from the truth. When we have the power of God firmly fixed in our hearts, we can easily overcome the obstacles that challenge our faith. With God, nothing is impossible because it is consistent with His nature, His perfections, His counsels, His purposes, and His promises.",
+            "wordCount": 109,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.033044142440814,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                24.05,
+                38.17,
+                37.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For with God nothing shall be impossible, for no word of His shall be void of power. This affirms God's almightiness and absolute faithfulness to His promises. Every word of God carries divine power and cannot be powerless. We should firmly hold the maxim that those who imagine God's power to be beyond His word wander from the truth. When we have the power of God firmly fixed in our hearts, we can easily overcome the obstacles that challenge our faith. With God, nothing is impossible because it is consistent with His nature, perfections, counsels, purposes, and promises.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.0399465148215032,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+            "commentatorTierSimilarities": [
+                24.02,
+                37.7,
+                38.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For with God nothing shall be impossible, for no word of His shall be void of power. This affirms God's almightiness and absolute faithfulness to His promises. We should firmly hold the maxim that those who imagine God's power to be beyond His word wander from the truth. With God, nothing is impossible because it is consistent with His nature, perfections, counsels, purposes, and promises.",
+            "wordCount": 67,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 2.1619912536063777,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.23,
+            "commentatorTierSimilarities": [
+                23.19,
+                38.66,
+                38.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For with God nothing shall be impossible, for no word of His shall be void of power. This affirms God's almightiness and His absolute faithfulness to His promises. Every word of God carries divine power and cannot be powerless. Those who imagine God's power to be beyond His word greatly wander from the truth. When we have the power of God firmly fixed in our hearts, we can easily overcome the obstacles that challenge our faith. With God, nothing is impossible.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.0535786776250378,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.62,
+            "commentatorTierSimilarities": [
+                25.64,
+                36.81,
+                37.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For with God nothing shall be impossible, for no word of His shall be void of power. Every word of God carries divine power and cannot be powerless. Those who imagine God's power to be beyond His word wander from the truth. With God, nothing is impossible because it is consistent with His nature, perfections, counsels, purposes, and promises.",
+            "wordCount": 60,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.230883215413392,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.52,
+            "commentatorTierSimilarities": [
+                28.03,
+                34.26,
+                37.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

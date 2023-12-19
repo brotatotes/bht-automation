@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:33:04",
+    "verseRef": "Acts 18:14",
+    "bestBHT": {
+        "bht": "If it were a matter of wrong or wicked lewdness, Paul would have needed no defense. Gallio recognized that there was no wrongdoing involved and reasoned that it would be fitting to hear the Jews patiently. This suggests that Gallio, like other noble Romans, viewed the Christians as an offshoot of the Jewish race, and therefore approached the accusation with a fair and impartial mindset.",
+        "wordCount": 65,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.536617171319285,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.44,
+        "commentatorTierSimilarities": [
+            21.58,
+            32.97,
+            45.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "14. If it were a matter of wrong or",
+            "\twicked lewdness\u2014any offense punishable by the magistrate."
+        ],
+        "Albert Barnes": [
+            "About to open his mouth - In self-defense, ever ready to vindicate his conduct.",
+            "Or wicked lewdness - Any flagrant and gross offence... an act of a veteran offender.",
+            "Reason would ... - Greek: 'I would bear with you according to reason.' There would be propriety or fitness in my hearing and trying the case."
+        ],
+        "Marvin Vincent": [
+            "Lewdness [\u03c1\u03b1\u03b4\u03b9\u03bf\u03c5\u03c1\u03b3\u03b7\u03bc\u03b1] . See on mischief, ch. 13 10. Rev., villainy."
+        ],
+        "Philip Schaff": [
+            "One so high in favour as the proconsul of Achaia, who had been necessarily thrown in contact with so many of the chief personages of the Empire, was, of course, well acquainted with the outlines of the history of these Christians.",
+            "Gallio, in common with other noble Romans, regarded them simply as an offshoot of the great Jewish race, as dissenters, perhaps, from some of the ancestral superstitions.",
+            "If what you allege this stranger to have done partook of the nature either of 'wrong' or of 'wicked lewdness', then I would have gravely considered the charge; but, by your own showing, nothing of the nature of crime is involved in your accusation."
+        ],
+        "Archibald T. Robertson": [
+            "Paul needed no defence.",
+            "Wrong (\u03b1\u03b4\u03b9\u03ba\u03b7\u03bc\u03b1). Injuria. Old word, a wrong done one.",
+            "Wicked villainy (\u03c1\u03b1\u03b9\u03b4\u03b9\u03bf\u03c5\u03c1\u03b3\u03b7\u03bc\u03b1). A crime, act of a criminal, from \u03c1\u03b1\u03b9\u03b4\u03b9\u03bf\u03c5\u03c1\u03b3\u03bf\u03c2 (\u03c1\u03b1\u03b9\u03b4\u03b9\u03bf\u03c2, easy, \u03b5\u03c1\u03b3\u03bf\u03bd, work), one who does a thing with ease, adroitly, a 'slick citizen.'"
+        ],
+        "John Gill": [
+            "Gallio said unto the Jews, if it was matter of wrong; of injury to any man's person or property... or wicked lewdness... O ye Jews, reason would that I should bear with you.\" ",
+            "His sense is, that it would be according to right reason, and agreeably to his office as a judge, to admit them and their cause, and try it, and hear them patiently, and what was to be said on both sides of the question...",
+            "What the charges were, and the proof of them, and what the defendant had to say for himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If it were a matter of wrong or wicked lewdness\u2014an offense punishable by the magistrate\u2014Paul would have needed no defense. Gallio, the proconsul of Achaia, would have gravely considered the charges if they involved crime or injury to a person or property. However, as it was, he recognized that there was no such wrongdoing involved and reasoned that it would be fitting to hear the Jews patiently. This suggests that Gallio, like other noble Romans, viewed the Christians as an offshoot of the Jewish race, and therefore approached the accusation with a fair and impartial mindset.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.51983896639968,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                18.05,
+                34.62,
+                47.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If it were a matter of wrong or wicked lewdness, Paul would have needed no defense. Gallio recognized that there was no wrongdoing involved and reasoned that it would be fitting to hear the Jews patiently. This suggests that Gallio, like other noble Romans, viewed the Christians as an offshoot of the Jewish race, and therefore approached the accusation with a fair and impartial mindset.",
+            "wordCount": 65,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.536617171319285,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.44,
+            "commentatorTierSimilarities": [
+                21.58,
+                32.97,
+                45.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If it were a matter of wrong or wicked lewdness, Paul would have needed no defense. Gallio recognized that there was no wrongdoing involved and reasoned that it would be fitting to hear the Jews patiently. This suggests that Gallio approached the accusation with a fair and impartial mindset, viewing the Christians as an offshoot of the Jewish race",
+            "wordCount": 59,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.5274062010727654,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+            "commentatorTierSimilarities": [
+                20.91,
+                32.23,
+                46.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If it were a matter of wrong or wicked lewdness\u2014an offense punishable by the magistrate\u2014Paul would have needed no defense. Gallio recognized that there was no wrongdoing involved and reasoned that it would be fitting to hear the Jews patiently. This suggests that Gallio approached the accusation with a fair and impartial mindset, viewing the Christians as an offshoot of the Jewish race.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.516098146760445,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.75,
+            "commentatorTierSimilarities": [
+                19.38,
+                33.86,
+                46.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If it were a matter of wrong or wicked lewdness\u2014any offense punishable by the magistrate\u2014Paul would have needed no defense. Gallio recognized that there was no wrongdoing involved and reasoned that it would be fitting to hear the Jews patiently. This suggests that Gallio approached the accusation with a fair and impartial mindset, viewing the Christians as an offshoot of the Jewish race.",
+            "wordCount": 65,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.5290087131520296,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                19.82,
+                33.18,
+                47.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

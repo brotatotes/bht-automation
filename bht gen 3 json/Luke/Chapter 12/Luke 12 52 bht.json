@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:19:05",
+    "verseRef": "Luke 12:52",
+    "bestBHT": {
+        "bht": "The completing impact of this separating fire is seen on the great day, as it was destined to pervade human hearts and bring about transformation. The fire of truth and faith can cause divisions within households, as the irreconcilable enmity between the Spirit of Christ and the spirit of the world becomes clear. Believers may find themselves at odds with non-believers, and this separation is a recognition of the powerful, dividing effect that the fire of truth and faith can have.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.3640859355898511,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.7,
+        "commentatorTierSimilarities": [
+            49.9,
+            0.0,
+            50.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We have the separating effect of this fire in its completion at the great day.",
+            "The separating effect of this fire.",
+            "The completing impact of this fire at the great day."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To cause this element of life to take up its abode on earth, and wholly to pervade human hearts with its warmth, was the lofty destiny of the Redeemer\" [OLSHAUSEN: so CALVIN, STIER, ALFORD, c.].",
+            "And what should I have to desire if it were once already kindled?\" [BENGEL and BLOOMFIELD]."
+        ],
+        "John Gill": [
+            "For from henceforth there shall be five in one house...",
+            "...this should be the effect of it; that supposing a family consisting of the above number, they should be divided from one another.",
+            "three against two, and two against three; three that did not believe in Christ, against two that did believe in him; or two that did not believe, against three that did; or three that did, against two that did not; or two that did, against three that did not."
+        ],
+        "John Wesley": [
+            "There shall be five in one house, three against two, and two against three \u2014 There being an irreconcilable enmity between the Spirit of Christ and the spirit of the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fire of separation will have a completing impact when it manifests fully on the great day, as it was intended to permeate human hearts and bring about transformation. This fire will cause divisions even within households, as the irreconcilable enmity between the Spirit of Christ and the spirit of the world becomes apparent. Those who believe in Christ may find themselves at odds with those who do not, and vice versa. This separation is not necessarily a cause for despair, but rather a recognition of the dividing effect that the fire of truth and faith can have.",
+            "wordCount": 98,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.221396155753762,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.95,
+            "commentatorTierSimilarities": [
+                42.23,
+                0.0,
+                57.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fire of separation will have a completing impact on the great day, as it was intended to pervade human hearts and bring about transformation. This fire may cause divisions in households, as the irreconcilable enmity between the Spirit of Christ and the spirit of the world becomes apparent. Believers may find themselves at odds with non-believers and vice versa. This separation is a recognition of the dividing effect that the fire of truth and faith can have.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.243087051540679,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.68,
+            "commentatorTierSimilarities": [
+                46.48,
+                0.0,
+                53.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The completing impact of this separating fire is seen on the great day, as it was destined to pervade human hearts and bring about transformation. The fire of truth and faith can cause divisions within households, as the irreconcilable enmity between the Spirit of Christ and the spirit of the world becomes clear. Believers may find themselves at odds with non-believers, and this separation is a recognition of the powerful, dividing effect that the fire of truth and faith can have.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3640859355898511,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.7,
+            "commentatorTierSimilarities": [
+                49.9,
+                0.0,
+                50.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The separating fire of truth and faith will have a completing impact on the great day, as it fulfills its destiny to pervade human hearts and bring about transformation. This fire may cause divisions even within households, as the irreconcilable enmity between the Spirit of Christ and the spirit of the world becomes evident. Believers and non-believers may find themselves at odds with one another, highlighting the powerful and dividing effect of the fire of truth and faith.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.26907064553625,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.54,
+            "commentatorTierSimilarities": [
+                47.62,
+                0.0,
+                52.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The separating effect of the fire of truth and faith is evident as it brings about transformation and completion on the great day. This fire has the power to permeate human hearts and fulfill its purpose. Even within households, divisions may arise between believers and non-believers, revealing the irreconcilable enmity between the Spirit of Christ and the spirit of the world. The fire of truth and faith holds the power to separate and divide, reflecting the profound impact it can have on individuals and relationships.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.1876108581471125,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.83,
+            "commentatorTierSimilarities": [
+                52.64,
+                0.0,
+                47.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:31:32",
+    "verseRef": "Acts 14:26",
+    "bestBHT": {
+        "bht": "After their wondrous eighteen-month journey, the missionaries returned to Antioch, the center from where their apostolic commission had spread. Filled with the grace of God, they had a wondrous story to tell and sought the favor and protection of God. In Antioch, they reported back to the Christian Church, recommended to the grace of God. Through prayer, they called upon God's grace to assist and succeed them in their labor, and despite afflictions and persecutions, they fulfilled their work faithfully.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 1.851631088336201,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+        "commentatorTierSimilarities": [
+            27.15,
+            36.49,
+            36.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "26.] from whence, as being the centre whence their apostolic commission had spread."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "26. sailed to Antioch, from whence",
+            "\tthey had been recommended\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "To the grace of God - His favor and protection had been implored for them in their perilous undertaking.",
+            "It shows that the act by which they were set apart to this Acts 13:1-3 was not an ordination to the ministerial office. It was an appointment to a missionary tour.",
+            "In the conduct of Paul and Barnabas we have an example for missionaries in founding churches, and in regard to their own trials and persecutions."
+        ],
+        "John Calvin": [
+            "Their preaching was no man\u2019s work, but a work of the grace of God.",
+            "And the word grace is referred as well unto the power and efficacy of the Spirit, as also unto all the rest of the signs of favor; because all those gifts be free which God bestoweth upon his servants.",
+            "They prayed God that he would show forth his grace to further the labors of his servants."
+        ],
+        "Philip Schaff": [
+            "It was from the Christian Church in Antioch that the Apostles Barnabas and Paul had received their commission to preach in the Gentile churches.",
+            "They now returned to the same church to give a formal account of their mission.",
+            "The famous Syrian Antioch is here meant."
+        ],
+        "Archibald T. Robertson": [
+            "They sailed away to Antioch... They had been gone some eighteen months.",
+            "The grace of God had been with them.",
+            "They now had a wondrous story to tell."
+        ],
+        "John Gill": [
+            "From this place they first set out on their travels; here they were separated by the order of the Holy Ghost to the work of the ministry, and by them they were sent forth.\" ",
+            "After they had in prayer commended them to God, and to his grace to assist them, and succeed them, as well as to fit them for the work.\" ",
+            "They fulfilled...with great integrity and faithfulness, and with much success, though through many afflictions and persecutions."
+        ],
+        "John Wesley": [
+            "Recommended to the grace \u2014 Or favour, of God, for the work which they had fulfilled.",
+            "This shows the nature and design of that laying on of hands.",
+            "Which was mentioned Acts 13:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The missionaries sailed back to Antioch, the center from which their apostolic commission had spread. They returned after eighteen months of wondrous journeys, bearing a wondrous story and filled with the grace of God. Their appointment was not to the ministerial office, but to a missionary tour, exemplifying the conduct expected of missionaries in founding churches and enduring trials. In Antioch, they would give a formal account of their mission to the same Christian Church that had commissioned them. It was by the grace of God, through the power and efficacy of the Spirit, that they preached and prayed for assistance and success in their labor. They fulfilled their work with integrity and faithfulness, despite afflictions and persecutions, all the while recommended to the favor and grace of God. This was the nature and design of the laying on of hands, as referenced earlier in Acts 13:3.",
+            "wordCount": 146,
+            "quoteTokenProportion": 34.44,
+            "qualityScore": 1.780052935516157,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.53,
+            "commentatorTierSimilarities": [
+                25.59,
+                38.31,
+                36.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The missionaries sailed back to Antioch, the centre of their apostolic commission, after eighteen months of wondrous journeys filled with the grace of God. Their appointment was not to the ministerial office, but to a missionary tour, exemplifying the conduct expected of missionaries in founding churches and enduring trials. In Antioch, they gave a formal account of their mission, recommended to the favor and grace of God. Their preaching and prayers were fueled by the power and efficacy of the Spirit, seeking assistance and success in their labor.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.8192014247765318,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.83,
+            "commentatorTierSimilarities": [
+                23.9,
+                42.79,
+                33.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After their wondrous missionary journeys, filled with the grace of God, the missionaries sailed back to Antioch, the center of their apostolic commission. Their return to the Christian Church in Antioch allowed them to give a formal account of their mission, recommended to the favor and grace of God. Through their preaching, aided by the power of the Spirit and marked by integrity and faithfulness, they sought assistance and success in their labor. They fulfilled their work, enduring afflictions and persecution, all while commended to the grace of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.7888837296147546,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                21.89,
+                38.53,
+                39.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sailing back to Antioch, the missionaries returned to the center from where their apostolic commission had spread. Filled with the grace of God after their wondrous journey, they had a story to tell. In Antioch, they gave a formal account of their mission, recommended to the favor and grace of God. Through prayer, they sought the power and efficacy of the Spirit for assistance and success. Their integrity and faithfulness were evident as they fulfilled their work, despite afflictions and persecutions.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7322465911637175,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.94,
+            "commentatorTierSimilarities": [
+                27.13,
+                35.41,
+                37.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After their wondrous eighteen-month journey, the missionaries returned to Antioch, the center from where their apostolic commission had spread. Filled with the grace of God, they had a wondrous story to tell and sought the favor and protection of God. In Antioch, they reported back to the Christian Church, recommended to the grace of God. Through prayer, they called upon God's grace to assist and succeed them in their labor, and despite afflictions and persecutions, they fulfilled their work faithfully.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.851631088336201,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                27.15,
+                36.49,
+                36.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

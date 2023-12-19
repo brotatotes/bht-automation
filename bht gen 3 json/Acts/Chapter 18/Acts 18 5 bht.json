@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:33:09",
+    "verseRef": "Acts 18:5",
+    "bestBHT": {
+        "bht": "When Silas and Timotheus returned from Macedonia, they found Paul in a state of more than ordinary anxiety, absorbed in the work of testifying to the Jews. His power as a preacher was felt to lie in the demonstration of the Spirit, and he was relieved of anxiety by the arrival of his friends. The coming of Silas and Timothy set Paul free from tent-making for a while so that he began to devote himself with fresh consecration to preaching, with the goal of showing the Jews that Jesus of Nazareth is the Messiah.",
+        "wordCount": 95,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.3285078501241365,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.76,
+        "commentatorTierSimilarities": [
+            38.08,
+            31.48,
+            30.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When Silas and Timotheus returned from Macedonia, they found Paul anxiously occupied in discoursing to the Jews.",
+            "It seems to be implied, that they found him in a state of more than ordinary anxiety, more than usually absorbed in the work of testifying to the Jews.",
+            "A crisis in the work being imminent, which resulted in their rejection of the word of life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul was pressed with the word\" - expressing not only his zeal and assiduity in preaching it, but some inward pressure which at this time he experienced in the work.",
+            "His power as a preacher was more than ever felt to lie in demonstration of the Spirit.",
+            "Such emotions are known only to the ministers of Christ, and, even of them, only to such as 'travail in birth until Christ be formed in' their hearers."
+        ],
+        "Albert Barnes": [
+            "Paul was pressed - Was urged; was borne away by an unusual impulse. It was deeply impressed on him as his duty.",
+            "In spirit - In his mind; in his feelings. His love to Christ was so great, and his conviction of the truth so strong.",
+            "The presence of Silas and Timothy animated him; and the certainty of aid in his work urged him to zeal in making known the Saviour."
+        ],
+        "Marvin Vincent": [
+            "Paul was engrossed by the word.",
+            "He was relieved of anxiety by the arrival of his friends.",
+            "He was stimulated to greater activity in the work of preaching the word."
+        ],
+        "Philip Schaff": [
+            "Paul was constrained by the word...their presence gave him a new impulse: he was able to work with better heart than when all alone he had to toil for his daily bread, and then, all weary and solitary, to meet the various checks and discouragements which so often perplex God\u2019s true servants in their work.",
+            "The word translated 'was pressed' is a singular one; it was used once very solemnly by the Lord Himself...The word tells of an intense Divine impulse, urging to a work which brooks no delay or hesitation.",
+            "It is not improbable that the assistance Timotheus brought him from his dear converts at Thessalonica in part, at least, freed him from the necessity of hard, unremitting labor."
+        ],
+        "Archibald T. Robertson": [
+            "The coming of Silas and Timothy with the gifts from Macedonia set Paul free from tent-making for a while so that he began to devote himself with fresh consecration to preaching.\" ",
+            "He was now also assisted by Silas and Timothy.",
+            "His witness is to show to the Jews that Jesus of Nazareth is the Messiah."
+        ],
+        "John Gill": [
+            "Not from Berea in Macedonia, for from hence they came to the apostle while at Athens, and from whence he sent them, at least Timothy, to Thessalonica, to know the state of the saints there.",
+            "His soul was filled with trouble and sorrow when he observed the nonrepenitence and unbelief, the contradiction and blasphemy of the greater part of the Jews.",
+            "He continued to produce more testimonies out of the writings of Moses, and the prophets, to prove that Jesus of Nazareth was the Christ, or Messiah, prophesied of in those writings."
+        ],
+        "John Wesley": [
+            "And when Silas and Timotheus were come from Macedonia.\" ",
+            "But now at length both Silas and Timotheus came to the apostle at Corinth.",
+            "Every Christian ought diligently to observe any such pressure in his own spirit, and if it agree with Scripture, to follow it: if he does not he will feel great heaviness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Silas and Timotheus returned from Macedonia, they found Paul in a state of more than ordinary anxiety and absorption, being pressed with the word and experiencing an inward pressure in his work of testifying to the Jews. His power as a preacher was felt to lie in the demonstration of the Spirit, and it was only known to ministers of Christ who were fervently engaged in forming Christ in their hearers. The arrival of Silas and Timothy brought relief to Paul's anxiety, stimulated him to greater activity in preaching, and set him free from tent-making, enabling him to devote himself fully to the work. They also assisted him in showing the Jews that Jesus of Nazareth is the Messiah.",
+            "wordCount": 122,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 2.232857843452889,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                37.27,
+                31.96,
+                30.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Silas and Timotheus returned from Macedonia, they found Paul anxiously occupied in discoursing to the Jews, in a state of more than ordinary anxiety. His power as a preacher was more than ever felt to lie in demonstration of the Spirit, and he was relieved of anxiety by the arrival of his friends. The coming of Silas and Timothy set Paul free from tent-making for a while so that he began to devote himself with fresh consecration to preaching, assisted by them in showing the Jews that Jesus of Nazareth is the Messiah.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.3201827495487266,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+            "commentatorTierSimilarities": [
+                38.71,
+                30.9,
+                30.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Silas and Timotheus returned from Macedonia, they found Paul anxiously occupied in discoursing to the Jews, in a state of more than ordinary anxiety. His power as a preacher was more than ever felt to lie in demonstration of the Spirit, and he was relieved of anxiety by the arrival of his friends. The coming of Silas and Timothy set Paul free from tent-making for a while so that he began to devote himself with fresh consecration to preaching, assisted by them in showing the Jews that Jesus of Nazareth is the Messiah.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.3201827495487266,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+            "commentatorTierSimilarities": [
+                38.71,
+                30.9,
+                30.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Silas and Timotheus returned from Macedonia, they found Paul in a state of more than ordinary anxiety, absorbed in the work of testifying to the Jews. His power as a preacher was felt to lie in the demonstration of the Spirit, and he was relieved of anxiety by the arrival of his friends. The coming of Silas and Timothy set Paul free from tent-making for a while so that he began to devote himself with fresh consecration to preaching, with the goal of showing the Jews that Jesus of Nazareth is the Messiah.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.3285078501241365,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.76,
+            "commentatorTierSimilarities": [
+                38.08,
+                31.48,
+                30.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Silas and Timotheus returned from Macedonia, they found Paul anxiously occupied in discoursing to the Jews, in a state of more than ordinary anxiety, absorbed in the work of testifying to the Jews. His power as a preacher was felt to lie in the demonstration of the Spirit, and he was relieved of anxiety by the arrival of his friends. The coming of Silas and Timothy set Paul free from tent-making for a while so that he began to devote himself with fresh consecration to preaching, assisted by them in showing the Jews that Jesus of Nazareth is the Messiah.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.3099083783994856,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.14,
+            "commentatorTierSimilarities": [
+                38.79,
+                31.18,
+                30.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

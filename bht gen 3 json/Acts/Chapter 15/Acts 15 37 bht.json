@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:31:55",
+    "verseRef": "Acts 15:37",
+    "bestBHT": {
+        "bht": "Barnabas was determined to take John, also known as Mark, with them on their journey, showing his strong desire and commitment. Mark, who was Barnabas' nephew, had previously been a companion to them. It is likely that Barnabas' affection for his nephew played a significant role in his decision. Despite Mark's past shortcomings, Barnabas welcomed him again as a fellow-laborer. The guidance of Barnabas helped shape Mark into a courageous Christian leader. This account also reveals the passionate disagreement between Barnabas and Paul, highlighting the need for wisdom and humility in the church.",
+        "wordCount": 95,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.7097663185436645,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+        "commentatorTierSimilarities": [
+            26.36,
+            41.64,
+            32.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "37. Barnabas determined to take with",
+            "\tthem John . . . Mark\u2014his nephew ( :-)."
+        ],
+        "Albert Barnes": [
+            "And Barnabas determined - Greek: willed, or was disposed to.\" ",
+            "John ... - See the notes on Acts 12:12. He had been with them before as a traveling companion.",
+            "He was the son of a sister of Barnabas Colossians 4:10, and it is probable that Barnabas\u2019 affection for his nephew was the main reason for inducing him to wish to take him with him in the journey."
+        ],
+        "John Calvin": [
+            "Seeing that the heat of the contention was so great and vehement in these holy men, who had long time accustomed themselves to suffer all things, what shall befall us, whose affections being not as yet so brought to obey God, do oftentimes rage \u2212 (166) without modesty?",
+            "Surely he ought to have borne with such a holy and courageous woman, lest immoderate rigor should alienate her.",
+            "We ought to make more account of the truth than of the favor of all the whole world; but it is convenient that we ponder wisely what great weight there is in the matter which is in hand."
+        ],
+        "Philip Schaff": [
+            "The old kindness of heart which prompted him in old days to seek out Saul, the former persecutor of the followers of Jesus, and to plead his cause with the Jewish Christian leaders at Jerusalem, now induced him to forget Mark\u2019s former faint-heartedness, and to welcome him again as a fellow-labourer in the Master\u2019s cause.",
+            "In the all-seeing wisdom of God, the stern severity of Paul and the gentle love of Barnabas, on the one side seem to have deeply humbled, and on the other to have preserved from despondency, the hitherto weak and vacillating spirit of the young disciple.",
+            "He [Mark] became, under the tutelage of Barnabas, subsequently one of the brave Christian leaders of the first days."
+        ],
+        "Archibald T. Robertson": [
+            "Barnabas willed, wished and stuck to it.",
+            "\u03a3\u03c5\u03bd\u03c0\u03b1\u03c1\u03b1\u03bb\u03b1\u03b2\u03b5\u03b9\u03bd is second aorist active infinitive of the double compound \u03c3\u03c5\u03bd\u03c0\u03b1\u03c1\u03b1\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9.",
+            "Nowhere else in the N.T. Barnabas used the ingressive aorist in his suggestion."
+        ],
+        "John Gill": [
+            "And Barnabas determined... he had a mind, a very great desire, to take with them John, whose surname was Mark...",
+            "of whom see Acts 12:12 he being his sister's son, Colossians 4:10...",
+            "him they brought with them to Antioch, when they returned from Jerusalem thither, where they had been sent by the church at Antioch..."
+        ],
+        "John Wesley": [
+            "Barnabas counselled to take John \u2014 His kinsman."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Barnabas was determined and steadfast in his decision to take John, also known as Mark, with him on their journey, showing his strong desire and commitment. Mark, who was Barnabas' nephew, had previously been a companion to them. It is likely that Barnabas' affection for his nephew played a significant role in his decision. Despite Mark's past shortcomings, Barnabas welcomed him again as a fellow-laborer. The guidance of Barnabas helped shape Mark into a courageous Christian leader. This account also reveals the passionate disagreement between Barnabas and Paul, highlighting the need for wisdom and humility in the church.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.6913242201402743,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.58,
+            "commentatorTierSimilarities": [
+                26.31,
+                41.86,
+                31.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Barnabas was determined to take John, also known as Mark, with them on their journey. This decision reflected Barnabas' strong desire and commitment to his nephew. Despite Mark's past shortcomings and faint-heartedness, Barnabas welcomed him again as a fellow-laborer. Under Barnabas' tutelage, Mark became a brave Christian leader. This account also reveals the passionate disagreement between Barnabas and Paul, reminding us of the need for wisdom and humility in the church.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.6658593615141393,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.73,
+            "commentatorTierSimilarities": [
+                28.04,
+                40.48,
+                31.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Barnabas was determined to take John, also known as Mark, with them on their journey, showing his strong desire and commitment. Mark, who was Barnabas' nephew, had previously been a companion to them. It is likely that Barnabas' affection for his nephew played a significant role in his decision. Despite Mark's past shortcomings, Barnabas welcomed him again as a fellow-laborer. The guidance of Barnabas helped shape Mark into a courageous Christian leader. This account also reveals the passionate disagreement between Barnabas and Paul, highlighting the need for wisdom and humility in the church.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7097663185436645,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "commentatorTierSimilarities": [
+                26.36,
+                41.64,
+                32.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Barnabas was determined to take John, also known as Mark, with them on their journey, reflecting his strong desire and commitment. Mark had been a previous companion to them and was Barnabas' nephew, which likely influenced his decision. Despite Mark's past weaknesses, Barnabas welcomed him as a fellow-laborer, instrumental in helping him become a brave Christian leader. The passionate disagreement between Barnabas and Paul highlights the need for wisdom and humility within the church.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.70165617242505,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+            "commentatorTierSimilarities": [
+                24.09,
+                43.15,
+                32.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Barnabas was determined to take John, also known as Mark, with them on their journey, showing his strong desire and commitment. Mark, who was Barnabas' nephew, had previously been a companion to them. It is likely that Barnabas' affection for his nephew played a significant role in his decision. Despite Mark's past shortcomings, Barnabas welcomed him again as a fellow-laborer. The guidance of Barnabas helped shape Mark into a courageous Christian leader. This account also reveals the passionate disagreement between Barnabas and Paul, highlighting the need for wisdom and humility in the church.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7097663185436645,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "commentatorTierSimilarities": [
+                26.36,
+                41.64,
+                32.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

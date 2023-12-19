@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:38:43",
+    "verseRef": "1 Peter 1:8",
+    "bestBHT": {
+        "bht": "Believers are urged to rejoice with an indescribable and already glorified joy, rooted in love for Jesus and grounded in faith. Although the disciples had seen Jesus in the flesh, their relationship with Him now transcends the physical realm. Even those who have not seen Him can love and believe in Him, experiencing a joy that surpasses understanding. This joy is exclusive to true Christians and cannot be comprehended by those outside the faith.",
+        "wordCount": 74,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0580730595642622,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.77,
+        "commentatorTierSimilarities": [
+            29.72,
+            36.59,
+            33.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "ye [then] rejoice with joy unspeakable and [already] glorified\" (present categoric, as before: ... joy unspeakable and [already] glorified)",
+            "It fixes the reference of the verb to that time when hope shall have passed into enjoyment, and joy shall be crowned with glory\" (It fixes the reference of the verb to that time when hope shall have passed into enjoyment, and joy shall be crowned with glory)",
+            "receiving [present], as you then, in a blessed eternity, will be receiving the end of your faith, salvation of (your) souls\" (receiving [present], as you then, in a blessed eternity, will be receiving the end of your faith, salvation of (your) souls)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They are more 'blessed that have not seen and yet have believed,' than they who believed because they have seen.\" ",
+            "Though the apostles had seen Him, they now ceased to know Him merely after the flesh.\" ",
+            "The Christian's joy is bound up with love to Jesus: its ground is faith; it is not therefore either self-seeking or self-sufficient."
+        ],
+        "Albert Barnes": [
+            "It is possible to love one whom we have not seen...we may love a benefactor, from whom we have received important benefits, whom we have never beheld.",
+            "There has been a love for him [Jesus] stronger than that for a father, or mother, or wife, or sister, or home, or country.",
+            "The people of the world often suppose that religion makes its professors sad and melancholy...but this arises from several causes entirely independent of their religion. That true religion does make its possessors happy, anyone may easily satisfy himself by asking any number of sincere Christians."
+        ],
+        "Marvin Vincent": [
+            "Full of glory [\u03b4\u03b5\u03b4\u03bf\u03be\u03b1\u03c3\u03bc\u03b5\u03bd\u03b7] . Lit., glorified, as Rev., in margin.",
+            "Receiving [\u03ba\u03bf\u03bc\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . The verb originally means to take care of or provide for; thence to receive hospitably or entertain; to bring home with a view to entertaining or taking care of.",
+            "Hence, to carry away so as to preserve, to save, rescue, and so to carry away as a prize or booty."
+        ],
+        "John Calvin": [
+            "Faith is not to be measured by sight...it is the demonstration of invisible things.\" ",
+            "Faith does not lay hold on the bare name of Christ...but regards what he is to us and what blessings he brings.",
+            "It is an incomparable benefit...that consciences are not only at peace before God, but confidently exult in the hope of eternal life."
+        ],
+        "Philip Schaff": [
+            "Neither the writer himself, who once had seen Christ in the flesh, nor the readers who had not had that privilege, could now see Him, of whom it is said that \u2018then were the disciples glad when they saw the Lord\u2019 (John 20:20). Yet they had Him as the object of their love and faith, and in that they had enough to make their clouded life bright.\" ",
+            "Faith, indeed, is distinguished from that vision that is in glory; but it is the vision of the kingdom of grace, it is the eye of the new creature, that quick-sighted eye, that pierces all the visible heavens, and sees above them.",
+            "There is an inseparable intermixture of love with belief... If you ask, How shall I do to love? I answer, Believe. If you ask, How shall I believe? I answer, Love."
+        ],
+        "Archibald T. Robertson": [
+            "Not having seen, on whom, believing on.",
+            "Ye rejoice greatly, with joy.",
+            "Unspeakable, full of glory."
+        ],
+        "John Gill": [
+            "Whom having not seen, ye love... they loved him above all creatures and things, and all of him, and that belong unto him...",
+            "yet these regenerate ones, and lovers of Christ, believed in him... venturing their souls upon him, committing their all unto him, expecting all from him, both grace and glory...",
+            "a joy in believing on him, which is better experienced than expressed; a joy that not only strangers intermeddle not with, know nothing of, which entirely passes their understanding..."
+        ],
+        "John Wesley": [
+            "Having not seen \u2014 In the flesh."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Peter 1:8, believers are urged to rejoice with an indescribable and already glorified joy. This joy is not self-seeking or self-sufficient, but is rooted in love for Jesus and grounded in faith. Although the disciples had seen Jesus in the flesh, their relationship with Him transcended the physical realm. Now, even those who have not seen Him can love and believe in Him, receiving the end result of their faith: the salvation of their souls. This love and belief in Jesus brings a joy that cannot be adequately expressed, a joy that is experienced by true Christians and cannot be understood by outsiders.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.0334122119745466,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.95,
+            "commentatorTierSimilarities": [
+                30.03,
+                37.12,
+                32.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are called to rejoice with an indescribable and already glorified joy. This joy is rooted in love for Jesus and grounded in faith. Even though the disciples had seen Jesus in the flesh, their relationship with Him now goes beyond the physical realm. Those who have not seen Him can still love and believe in Him, experiencing a joy that cannot be adequately expressed. This joy is unique to true Christians and cannot be comprehended by those outside the faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 2.0123213003720553,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.25,
+            "commentatorTierSimilarities": [
+                31.66,
+                35.84,
+                32.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are urged to rejoice with an indescribable and already glorified joy, rooted in love for Jesus and grounded in faith. Although the disciples had seen Jesus in the flesh, their relationship with Him now transcends the physical realm. Even those who have not seen Him can love and believe in Him, experiencing a joy that surpasses understanding. This joy is exclusive to true Christians and cannot be comprehended by those outside the faith.",
+            "wordCount": 74,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0580730595642622,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.77,
+            "commentatorTierSimilarities": [
+                29.72,
+                36.59,
+                33.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 1 Peter 1:8, believers are urged to rejoice with an indescribable and already glorified joy. This joy is based on a future hope that will transform into a present reality, where joy will be crowned with glory. It is a joy that is intimately connected to love for Jesus and grounded in faith. Even though the apostles had physically seen Jesus, they now knew Him beyond His earthly appearance. This joy in believing is beyond comprehension and experienced only by those who have not seen but have placed their trust in Him. By receiving the end of their faith, the salvation of their souls, believers can truly rejoice with a joy that is unspeakable and full of glory.",
+            "wordCount": 117,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0047934832489926,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                37.9,
+                30.71,
+                31.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are called to rejoice with an indescribable and already glorified joy, rooted in faith and love for Jesus. This joy is not limited to those who physically saw Jesus; rather, it is experienced by those who believe without seeing. It is a joy that surpasses understanding, reserved for those who place their trust in Him. Through this faith, believers receive the culmination of their faith\u2014the salvation of their souls\u2014and find themselves filled with an unspeakable and glorious joy.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.0554923326041,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                35.4,
+                31.69,
+                32.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:31:58",
+    "verseRef": "Acts 15:23",
+    "bestBHT": {
+        "bht": "This is the first mention of elders in the New Testament, and it is significant that the term is given importance by adding brethren to it. It is noteworthy that this Greek form of salutation is used in the letter, which is also found in James 1:1. The inclusion of churches in Cilicia suggests that Paul may have preached the gospel there to Gentiles, according to the vision he had in the temple. Overall, this letter highlights the unity and expansion of the early Christian community, demonstrating the widespread impact of Paul's ministry.",
+        "wordCount": 93,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 2.1052674926396935,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+        "commentatorTierSimilarities": [
+            37.58,
+            30.94,
+            31.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In this, the first official mention of elders, it is very natural that the import of the term should be thus given by attaching brethren to it.",
+            "The word used is the Greek form of salutation: and the only other place where it occurs in an apostolic document (we have it in the letter of the chief captain Lysias, ch. xxiii. 26) is in James i. 1, which has been remarked as a coincidence serving to shew his hand in the drawing up of this Epistle.",
+            "This mention of churches in Cilicia, coupled with the fact of Paul\u2019s stay at Tarsus (ch. ix. 30\u2013xi. 25: see also Gal. i. 21), makes it probable that Paul preached the gospel there, and to Gentiles, in accordance with the vision which he had in the temple (ch. xxii. 21)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is the first mention in the New Testament history of writing as an element in its development.",
+            "But whereas there it is the deep difference between Israel and the Gentiles which is proclaimed, here it is the obliteration of that difference through faith in the Lord Jesus.",
+            "showing that churches then existed in Cilicia as well as Syria, which owed their existence, in all likelihood, to Paul's labors during the interval between his return to Tarsus and his departure in company with Barnabas for Antioch."
+        ],
+        "Albert Barnes": [
+            "And wrote letters - Greek: 'Having written.' It does not mean that they wrote more than one epistle.",
+            "By them - Greek: by their hand.",
+            "And Cilicia - See the notes on Acts 6:9. Cilicia was adjacent to Syria. Paul and Barnabas had traveled through it, and it is probable that the same difficulty would exist there which had disturbed the churches in Syria."
+        ],
+        "Marvin Vincent": [
+            "Greeting [\u03c7\u03b1\u03b9\u03c1\u03b5\u03b9\u03bd] . The usual Greek form of salutation.",
+            "It occurs nowhere else in the salutation of a New Testament epistle save in the Epistle of James (i. 1).",
+            "It appears in the letter of Claudius Lysias (ch. 23 26)."
+        ],
+        "Philip Schaff": [
+            "The apostles and elders constituted the Council, as far as the deliberative voice and definitive sentence were concerned; and therefore the decree was promulgated in their names.",
+            "This geographical notice of the peoples mentioned specially in the decree of the Council gives us some idea how widely the preaching of Paul and his companions had extended, and how great had been the harvest of the Lord already in those early days.",
+            "In Cilicia, too, the native country of Paul, congregations of believers in the Crucified had sprung up, and apparently were already flourishing communities."
+        ],
+        "Archibald T. Robertson": [
+            "This letter is the writing out of the judgment of James and apparently written by him as the President.",
+            "The apostles and elders send the epistle, but call themselves 'brothers to brothers', Fratres Fratibus Salutem.",
+            "The customary formula in the beginning of letters, the absolute infinitive (usually \u03c7\u03b1\u03b9\u03c1\u03b5\u03b9\u03bd) with the nominative absolute."
+        ],
+        "John Gill": [
+            "the apostles, and elders, and brethren... they are severally set in their proper place and order...",
+            "the brethren, or private members of the church; who are called so, because they are of one family, and have one Father...",
+            "the brethren or members of the several churches in these parts, who were Gentiles, are particularly sent to..."
+        ],
+        "John Wesley": [
+            "The whole conduct of this affair plainly shows that the Church in those days had no conception of St. Peter's primacy, or of his being the chief judge in controversies.",
+            "For the decree is drawn up, not according to his, but the Apostle James's proposal and direction.",
+            "St. Peter's name is not mentioned at all, either in the order for sending to Jerusalem on the question, Acts 15:2, or in the address of the messengers concerning it, Acts 15:4, or in the letter which was written in answer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 15:23, the first official mention of elders in the Bible, the term is given significance by attaching brethren to it. This reference to churches in Cilicia suggests that Paul likely preached the gospel there to Gentiles, in line with his vision in the temple. Additionally, this verse marks the first mention of writing as a means of communication in the New Testament. The letter is written in the customary Greek form of salutation and bears similarities to the salutation found in James 1:1. The mention of Cilicia further emphasizes the wide reach of Paul's preaching, as congregations of believers had already blossomed there. Overall, the use of the term elders and the inclusion of Cilicia in the letter highlight the unity and growth of the early Christian community.",
+            "wordCount": 129,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.076228341755521,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+            "commentatorTierSimilarities": [
+                37.4,
+                31.46,
+                31.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the first official mention of elders, the term is given significance by attaching brethren to it. This is the first instance of writing as an element in the New Testament. The reference to churches in Cilicia suggests that Paul likely preached the gospel there to Gentiles, in accordance with his vision in the temple. These details highlight the unity and growth of the early Christian community, as seen through the wide reach of Paul's ministry.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9753412138569648,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+            "commentatorTierSimilarities": [
+                36.05,
+                30.24,
+                33.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This is the first mention of elders in the New Testament, and it is significant that the term is given importance by adding brethren to it. It is noteworthy that this Greek form of salutation is used in the letter, which is also found in James 1:1. The inclusion of churches in Cilicia suggests that Paul may have preached the gospel there to Gentiles, according to the vision he had in the temple. Overall, this letter highlights the unity and expansion of the early Christian community, demonstrating the widespread impact of Paul's ministry.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.1052674926396935,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+            "commentatorTierSimilarities": [
+                37.58,
+                30.94,
+                31.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mention of elders in Acts 15:23 is significant as it attaches brethren to the term. This Greek salutation is also found in James 1:1, indicating a connection to James. The reference to churches in Cilicia suggests that Paul likely preached to Gentiles there, aligning with his vision in the temple. This letter demonstrates the unity and expansion of the early Christian community and the widespread impact of Paul's ministry in establishing flourishing congregations in various regions.",
+            "wordCount": 76,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.0047914173129464,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                35.39,
+                32.11,
+                32.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of elders is significant as it attaches brethren to the term. This Greek salutation is found elsewhere as well, establishing a connection to James. The presence of churches in Cilicia suggests that Paul likely preached to Gentiles in the region, in line with his vision in the temple. Overall, this letter highlights the unity and growth of the early Christian community, with Paul's ministry playing a crucial role in establishing flourishing congregations in various regions.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9062134248652003,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                35.41,
+                31.65,
+                32.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

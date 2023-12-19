@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:13:08",
+    "verseRef": "Luke 1:43",
+    "bestBHT": {
+        "bht": "The word Lord, as applied to the unborn babe, can no otherwise be explained than as uttered in the spirit of prophecy, expressing the divine nature of our Lord. The mother of my Lord, but not 'My Lady' - the expression is adopted. The virgin is said to be the mother of our Lord and so may be called the mother of God; because she was parent of that child, who is truly Lord and God... Elizabeth praises Mary while attributing everything to God, affirming that she felt something divine.",
+        "wordCount": 89,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 2.0894904850898652,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.82,
+        "commentatorTierSimilarities": [
+            30.09,
+            35.99,
+            33.92
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word Lord, as applied to the unborn babe, can no otherwise be explained than as uttered in the spirit of prophecy...\" ",
+            "expressing the divine nature of our Lord",
+            "the expression is adopted"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "43. \"The mother of my",
+            "\tLord\"\u2014but not \"My Lady\" (compare Luke 20:42;",
+            "\tJohn 20:28)\" [BENGEL]."
+        ],
+        "Albert Barnes": [
+            "And whence is this to me? - An expression of humility. Why is it that the mother of my Lord should come to me, as if to honor me?",
+            "Mother of my Lord - The word 'Lord' sometimes denotes 'divinity,' and sometimes superior, master, teacher, or governor.",
+            "It is clear only that Elizabeth used it as denoting great dignity and honor."
+        ],
+        "John Calvin": [
+            "She thinks very highly of the favors bestowed by God on Mary, and gives them just commendation, but yet does not praise them more highly than was proper, which would have been a dishonor to God.",
+            "Elisabeth, again, while she praises her, is so far from hiding the Divine glory, that she ascribes everything to God.",
+            "By mentioning the sudden movement of the babe which she carried in her womb, she unquestionably intended to affirm that she felt something supernatural and divine."
+        ],
+        "Archibald T. Robertson": [
+            "The mother of my Lord (\u03b7 \u03bc\u03b7\u03c4\u03b7\u03c1 \u03c4\u03bf\u03c5 \u039a\u03c5\u03c1\u03b9\u03bf\u03c5 \u03bc\u03bf\u03c5). See Psalms 110:1."
+        ],
+        "John Gill": [
+            "How comes it to pass, that such notice is taken of me, such an honour is done me...",
+            "[Elisabeth] esteems it a wonderful favour, that she should be indulged with a visit from her, who had already conceived the Messiah...",
+            "The virgin is said to be the mother of our Lord, and so may be called the mother of God; because she was parent of that child, which was in union with Him, who is truly Lord and God..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word Lord, as applied to the unborn babe, can no otherwise be explained than as uttered in the spirit of prophecy, expressing the divine nature of our Lord. The mother of my Lord, but not 'My Lady' - the expression is adopted. How comes it to pass, that such notice is taken of me, such an honour is done me... The virgin is said to be the mother of our Lord, and so may be called the mother of God; because she was parent of that child, which was in union with Him, who is truly Lord and God... While Elizabeth praises Mary and acknowledges the favor bestowed upon her by God, she does not hide the Divine glory but attributes everything to God. By mentioning the supernatural movement of the babe in her womb, Elizabeth affirms that she felt something divine.",
+            "wordCount": 142,
+            "quoteTokenProportion": 46.99,
+            "qualityScore": 1.8911587343399425,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                26.6,
+                35.11,
+                38.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word Lord, as applied to the unborn babe, can no otherwise be explained than as uttered in the spirit of prophecy, expressing the divine nature of our Lord. The mother of my Lord, but not 'My Lady' - the expression is adopted. How comes it to pass that such notice is taken of me, such an honor is done me... The virgin is said to be the mother of our Lord and so may be called the mother of God; because she was parent of that child, who is truly Lord and God... Elizabeth praises Mary while attributing everything to God, affirming that she felt something divine.",
+            "wordCount": 107,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.966878813323735,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.74,
+            "commentatorTierSimilarities": [
+                27.47,
+                37.85,
+                34.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word Lord, as applied to the unborn babe, can no otherwise be explained than as uttered in the spirit of prophecy, expressing the divine nature of our Lord. The mother of my Lord, but not 'My Lady' - the expression is adopted. The virgin is said to be the mother of our Lord and so may be called the mother of God; because she was parent of that child, who is truly Lord and God... Elizabeth praises Mary while attributing everything to God, affirming that she felt something divine.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.0894904850898652,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.82,
+            "commentatorTierSimilarities": [
+                30.09,
+                35.99,
+                33.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The word Lord, as applied to the unborn babe, can no otherwise be explained than as uttered in the spirit of prophecy, expressing the divine nature of our Lord. The mother of my Lord, but not 'My Lady' - the expression is adopted. How comes it to pass that such notice is taken of me, such an honor is done me... The virgin is said to be the mother of our Lord and so may be called the mother of God; because she was parent of that child, who is truly Lord and God... Elizabeth praises Mary while attributing everything to God, affirming the divine nature and dignity of the unborn babe.",
+            "wordCount": 111,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.9887698156011733,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                28.33,
+                38.07,
+                33.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The word Lord, as applied to the unborn babe, can no otherwise be explained than as uttered in the spirit of prophecy, expressing the divine nature of our Lord. The mother of my Lord, but not 'My Lady' - the expression is adopted. How comes it to pass that such notice is taken of me, such an honor is done me... The virgin is said to be the mother of our Lord and so may be called the mother of God; because she was parent of that child, who is truly Lord and God... Elizabeth praises Mary while acknowledging the divine nature and dignity of the unborn babe.",
+            "wordCount": 107,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.9925480163802942,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                28.76,
+                38.47,
+                32.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

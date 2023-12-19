@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:09:01",
+    "verseRef": "Titus 3:4",
+    "bestBHT": {
+        "bht": "When the kindness and love of our Saviour God appeared, He saved us not by our righteous works, but out of His compassion. It is to God's kindness and love, not our own merits, that we owe our salvation. Through the renewal of the Holy Spirit, we are taught to have love and meekness towards all, mirroring God's benevolent kindness towards mankind. This manifestation of God's kindness and love is seen in the Incarnation of Christ, revealing His grace and salvation for humanity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 48.15,
+        "qualityScore": 2.7854546322679488,
+        "qualityScoreNormalizedComparedToV2BHTs": 83.96,
+        "commentatorTierSimilarities": [
+            34.73,
+            34.35,
+            30.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But when the goodness and love towards men of our Saviour God was manifested, not by virtue of works wrought in righteousness which we did, but according to His compassion He saved us.\" ",
+            "The font is the 'laver of regeneration,' because it is the vessel consecrated to the use of that Sacrament whereby... the new life unto God is conveyed.",
+            "The renewal of the Holy Spirit... is here treated as potentially involved in God's act of saving us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is to the 'kindness and love of God,' not to their own merits, that they owe salvation.",
+            "teaching us to have such 'love (benevolence) toward man,' 'showing all meekness unto all men,' even as God had 'toward man'; opposed to the 'hateful and hating' characteristics of unrenewed men, whose wretchedness moved God's benevolent kindness.",
+            "of our Saviour God, namely, the Father, who 'saved us' 'through Jesus Christ our Saviour'; appeared, was made to appear; was manifested."
+        ],
+        "Albert Barnes": [
+            "When the love of God was manifested in the plan of salvation, he saved us from this state God appeared.",
+            "The act of redeeming us was one of great kindness, or goodness.",
+            "The plan of salvation was founded on love to man, and was the highest expression of that love."
+        ],
+        "Marvin Vincent": [
+            "Kindness [\u03c7\u03c1\u03b7\u03c3\u03c4\u03bf\u03c4\u03b7\u03c2] . Only here in Pastorals. Elsewhere only in Paul.",
+            "Love [\u03c6\u03b9\u03bb\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03b9\u03b1] . Love is too vague. It is love toward men; comp. verse 2.",
+            "Not only has the saving grace of God appeared unto all, but it has revealed itself as kindness and love to man as man."
+        ],
+        "John Calvin": [
+            "But since there is a complete sense in the words of Paul, there is no necessity for making any addition. He classes himself along with others, in order that the exhortation may be more efficacious.",
+            "Thus the goodness of God is said to have appeared, when he exhibited a pledge of it, and gave actual demonstration, that not in vain did he so often promise salvation to men.",
+            "He therefore means that the grace of God 'appeared' both to himself and to others, when they were enlightened in the knowledge of the gospel."
+        ],
+        "Philip Schaff": [
+            "Two very human words are selected to describe God\u2019s grace in its manifestation, because Paul is enforcing kindness among men.",
+            "God our Saviour; rather, \u2018our Saviour God.\u2019",
+            "Appeared looks back to Titus 2:11. The Divine character is the root of salvation, not human merit."
+        ],
+        "Archibald T. Robertson": [
+            "The kindness (\u03b7 \u03c7\u03c1\u03b7\u03c3\u03c4\u03bf\u03c4\u03b7\u03c2). See Romans 2:4 for this very word used of God as here.",
+            "His love toward man (\u03b7 \u03c6\u03b9\u03bb\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03b9\u03b1). 'The philanthrophy of God our Saviour.'",
+            "Appeared (\u03b5\u03c0\u03b5\u03c6\u03b1\u03bd\u03b7). See Titus 2:11 and here as there the Incarnation of Christ."
+        ],
+        "John Gill": [
+            "When these persons were in the full career of sin, and so had done no preparatory works, or had any previous qualifications and dispositions for the grace of God, the kindness and love of God our Saviour toward man appeared.",
+            "By 'God our Saviour' is not meant the Lord Jesus Christ, though he is commonly designed by our Saviour... but it appears from Titus 3:6 that God our Saviour here, is distinguished from Jesus Christ our Saviour there; and therefore here must be understood of God the Father.",
+            "His special love and grace shown in his kindness in Christ Jesus; that good will to men the angels sung of at Christ's incarnation; or that free favour and love of God towards elect men, which is sovereign and special, from everlasting to everlasting, unchangeable and unspeakable, which is better than life."
+        ],
+        "John Wesley": [
+            "When the love of God appeared \u2014 By the light of his Spirit to our inmost soul."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the goodness and love towards men of our Saviour God was manifested, not by virtue of works wrought in righteousness, but according to His compassion, He saved us through Jesus Christ our Saviour. This salvation is not based on our own merits, but on the kindness and love of God. It is through the renewal of the Holy Spirit that we are taught to have love towards all men, showing meekness, in contrast to the traits of the unrenewed. It is God's philanthropy and kindness that appeared, demonstrated by the Incarnation of Christ, which serves as a pledge of His goodness and salvation towards mankind.",
+            "wordCount": 107,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.6821312143653717,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.52,
+            "commentatorTierSimilarities": [
+                34.26,
+                34.02,
+                31.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the goodness and love of our Saviour God was manifested, not by our righteous works, but by His compassion, He saved us. We owe our salvation to God's kindness and love, not our own merits. Through the renewal of the Holy Spirit, we are taught to love and show meekness to all, just as God showed towards us. This manifestation of God's kindness and love was seen in the Incarnation of Christ, a sign of His grace and salvation for humanity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 2.7335160049425236,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.23,
+            "commentatorTierSimilarities": [
+                33.53,
+                34.56,
+                31.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the goodness and love towards men of our Saviour God was manifested, not by virtue of works wrought in righteousness, but according to His compassion He saved us. It is to the 'kindness and love of God,' not to their own merits, that they owe salvation. The kindness and love of God appeared, demonstrated by the Incarnation of Christ. Through Jesus Christ our Saviour, God's kindness and love towards mankind is revealed as the foundation of our redemption.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.747039820935285,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.68,
+            "commentatorTierSimilarities": [
+                35.21,
+                33.84,
+                30.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the kindness and love of our Saviour God appeared, He saved us not by our righteous works, but out of His compassion. It is to God's kindness and love, not our own merits, that we owe our salvation. Through the renewal of the Holy Spirit, we are taught to have love and meekness towards all, mirroring God's benevolent kindness towards mankind. This manifestation of God's kindness and love is seen in the Incarnation of Christ, revealing His grace and salvation for humanity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.7854546322679488,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.96,
+            "commentatorTierSimilarities": [
+                34.73,
+                34.35,
+                30.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the kindness and love of our Saviour God appeared, He saved us not by our righteous works, but out of His compassion. It is to God's kindness and love, not our own merits, that we owe our salvation. Through the renewal of the Holy Spirit, we are taught to have love and meekness towards all, reflecting God's benevolent kindness. This manifestation of God's love and kindness is revealed through the Incarnation of Christ, demonstrating His grace and salvation for humanity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.768347225082816,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.39,
+            "commentatorTierSimilarities": [
+                34.59,
+                34.31,
+                31.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

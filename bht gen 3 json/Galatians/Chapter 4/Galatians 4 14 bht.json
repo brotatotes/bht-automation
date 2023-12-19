@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:18:34",
+    "verseRef": "Galatians 4:14",
+    "bestBHT": {
+        "bht": "Paul's mention of his temptation or bodily trial is not intended to convey a tendency towards evil, but rather a physical affliction. This delicate expression reveals his status as a messenger of God, much like an angel. Remarkably, the Galatians did not despise or reject Paul because of his infirmities. Instead, they received him with utmost reverence, as if they were welcoming an angel from heaven or even Christ Himself. This profound reception demonstrated their devotion to Jesus and their recognition of Paul as a faithful minister of God's Word.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 2.0315744969386262,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+        "commentatorTierSimilarities": [
+            30.93,
+            35.42,
+            33.65
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression, which has been altered into 'my temptation,' is one of those exquisite and delicate touches, which belong so peculiarly to St. Paul\u2019s mind.",
+            "Besides the freedom of angels from fleshly weakness, there is doubtless an allusion to their office as messengers\u2014and to His saying, who is above the angels, Luke x. 16.",
+            "No inference can be drawn from these expressions being used of the Galatians\u2019 reception of him, that they were already Christians when he first visited them: the words are evidently not to be pressed as intended to be accurate in point of chronology; they mean, not, \u2018as you would have received,\u2019&c., but, \u2018as you would (now) receive.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "My infirmity, which was, or might have been, a 'temptation,' or trial, to you, ye despised not, that is, ye were not tempted by it to despise me and my message.\" ",
+            "Temptation does not mean here, as we now use the word, tendency to an evil habit, but BODILY TRIAL.",
+            "An angel is free from the flesh, infirmity, and temptation."
+        ],
+        "Albert Barnes": [
+            "I was afflicted with various calamities and infirmities, but that this did not hinder their receiving me as an angel from heaven.",
+            "The highest proof of attachment to a minister, is to receive him as the Saviour would be received.",
+            "It showed their attachment to the Lord Jesus, that they received his apostle as they would have received the Saviour himself."
+        ],
+        "Marvin Vincent": [
+            "Ye did not despise nor reject me, but received me.",
+            "Ye did not set at nought, from nothing.",
+            "To receive as an angel is to receive with great veneration."
+        ],
+        "John Calvin": [
+            "He calls it a temptation or trial, because it was a thing not unknown or hidden, and he did not himself attempt to conceal it.",
+            "In this light every true minister of Christ ought to be regarded... they too are the messengers of God, by whose mouth God speaks to us.",
+            "If they wish to obtain the honors of angels, let them perform the duty of angels: if they wish that we should listen to them as to Christ, let them convey to us faithfully his pure word."
+        ],
+        "Philip Schaff": [
+            "Your trial\u2019 is better supported than \u2018my trial.\u2019 The infirmity of Paul tried the patience and love of the Galatians and tempted them to scorn and reject both him and the gospel which he preached.",
+            "For the natural man is always disposed to judge from outward appearance.",
+            "But ye received me as an angel of God, (even) as Christ Jesus, who is much superior to any angel."
+        ],
+        "Archibald T. Robertson": [
+            "Your temptation (or trial) in my flesh.",
+            "Nor rejected... to spurn, to loathe.",
+            "Not a mere 'messenger' of God, but a very angel, even as Christ Jesus."
+        ],
+        "John Gill": [
+            "nor the apostle on the account of it, nor his ministry; they thought never the worse of him, nor of the Gospel he preached, because of this",
+            "with all that reverence and respect, that high esteem, veneration, and affection, as if one of the celestial inhabitants had been sent down from heaven",
+            "they looked upon him under that character, and regarded him as such, even as Christ Jesus"
+        ],
+        "John Wesley": [
+            "And ye did not slight my temptation \u2014 That is, ye did not slight or disdain me for my temptation, my \"thorn in the flesh."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the apostle Paul refers to his temptation or infirmity, he is not using the term in the modern sense of evil inclination, but rather to describe a bodily trial. This delicate expression suggests Paul's freedom from fleshly weaknesses and his function as a messenger of God, even like an angel. The Galatians, however, did not despise or reject him because of his infirmities. Instead, they received him with great veneration, as they would have received an angel from heaven or even Christ Jesus himself. This reception reflected their attachment to the Lord Jesus and their acknowledgement of Paul as a true minister of Christ, whose words conveyed the very message of God.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 2.123884016197038,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.96,
+            "commentatorTierSimilarities": [
+                30.98,
+                35.37,
+                33.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Paul speaks of his temptation, he is referring to his bodily trials, not a tendency to evil. This delicate expression highlights his freedom from weakness and his role as a messenger, akin to an angel. Yet, the Galatians did not reject or despise Paul because of his infirmities. Instead, they received him with great veneration, as if welcoming an angel from heaven or Christ Himself. This showed their attachment to Jesus and their recognition of Paul as a true minister of God's message.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.0231024627637817,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+            "commentatorTierSimilarities": [
+                30.58,
+                35.11,
+                34.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's mention of his temptation or bodily trial is not intended to convey a tendency towards evil, but rather a physical affliction. This delicate expression reveals his status as a messenger of God, much like an angel. Remarkably, the Galatians did not despise or reject Paul because of his infirmities. Instead, they received him with utmost reverence, as if they were welcoming an angel from heaven or even Christ Himself. This profound reception demonstrated their devotion to Jesus and their recognition of Paul as a faithful minister of God's Word.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.0315744969386262,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+            "commentatorTierSimilarities": [
+                30.93,
+                35.42,
+                33.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's reference to his temptation serves to describe his physical trial rather than a propensity for evil. This delicate expression reflects his freedom from bodily weaknesses and his role as a divine messenger, comparable to an angel. Yet, the Galatians did not despise or reject Paul due to his infirmities. On the contrary, they received him with deep reverence, as if embracing an angelic being from heaven or even Christ Himself. This profound reception reflected their devotion to Jesus and their acknowledgment of Paul as a sincere minister proclaiming God's message.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 2.0039694247656183,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.97,
+            "commentatorTierSimilarities": [
+                30.72,
+                34.48,
+                34.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's mention of his temptation should not be understood as an inclination towards evil, but rather as a bodily trial. This delicate language highlights his freedom from physical weaknesses and his role as a messenger of God, similar to an angel. However, the Galatians did not scorn or reject Paul because of his infirmities. Instead, they received him with great respect and reverence, as if they were welcoming an angelic inhabitant descended from heaven or even Christ Himself. This profound reception demonstrated their devotion to Jesus and their recognition of Paul as a faithful minister.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.9743047543157353,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.99,
+            "commentatorTierSimilarities": [
+                29.55,
+                34.07,
+                36.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:35:37",
+    "verseRef": "Acts 22:30",
+    "bestBHT": {
+        "bht": "The power of the Roman tribune to order a Sanhedrim trial for Paul is notable, as the council's usual meeting place was in a different location from where they gathered to hear his case. Lysias, seeking certainty about Paul's accusation, commanded the chief priests and council to appear, rendering it their responsibility to examine and judge the matter. This move was necessary for Paul's safety and for the sake of justice, as it offered an opportunity for the accusations against him to be made known.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.8760351880447101,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+        "commentatorTierSimilarities": [
+            23.04,
+            38.74,
+            38.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It seems remarkable that the tribune in command should have had the power to summon the Sanhedrim.\" ",
+            "According to tradition the Sanhedrim ceased to hold their sessions in the temple, about twenty-six years before this period.",
+            "Their present council-room was in the upper city, near the foot of the bridge leading across the ravine from the western cloister of the temple."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Note here the power to order a Sanhedrim to try this case, assumed by the Roman officers and acquiesced in on their part.",
+            "the power to order a Sanhedrim to try this case",
+            "the Roman officers commanded the chief priests and all their council to appear"
+        ],
+        "Albert Barnes": [
+            "Paul was still a prisoner; and if suffered to go at liberty among the Jews, his life would have been in danger.",
+            "This was necessary for the safety of Paul and for the ends of justice.",
+            "He brought the prisoner to their bar, that they might have an opportunity to accuse him, and that thus the chief captain might learn the real nature of the charge against him."
+        ],
+        "Marvin Vincent": [
+            "Brought Paul down. To the meeting-place of the Sanhedrim.",
+            "Probably not their usual place of assembly, which lay within the wall of partition.",
+            "Lysias and his soldiers would not have been allowed to pass."
+        ],
+        "Philip Schaff": [
+            "In spite of his being convinced that Paul was a Roman, the captain of the thousand garrisoning Jerusalem was uneasy respecting his prisoner; he could not but believe him guilty of some very grave offence...",
+            "Treason and rebellion against the Empire filled the very air then of Jud\u00e6a; who then was this malefactor?",
+            "After ceasing to sit in \u2018Gazith,\u2019 they adopted as their council chamber a room in the city, near the bridge leading across the ravine from the western cloister of the temple."
+        ],
+        "Archibald T. Robertson": [
+            "To know the certainty.\" ",
+            "Commanded.\" ",
+            "Lysias is determined to find out the truth about Paul."
+        ],
+        "John Gill": [
+            "Because he would have known the certainty wherefore he was accused of the Jews; which, as yet, he could not come at, some saying one thing, and some another.\" ",
+            "And this [commanding the chief priests and all the council to appear] he the rather did, because, though he could not come at the certainty of the charge and accusation, he perceived it was a matter of religion, and so belonged to them to examine and judge of.",
+            "And set him before them; or 'among them'; in the midst of them, to answer to what charges should be brought against him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The power of the Roman tribune to summon the Sanhedrin for a trial seems remarkable, especially considering that the council had moved their sessions from the temple to a different location in the upper city. This would not have been their usual place of assembly, but Lysias and his soldiers were able to bring Paul there nonetheless. Lysias was determined to uncover the truth about Paul's accusations, and by commanding the chief priests and the council to appear, he hoped to get to the bottom of the matter. It was important to bring Paul before the Sanhedrin to hear the charges against him, both for his safety and for the sake of justice.",
+            "wordCount": 114,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.9342111881669166,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
+            "commentatorTierSimilarities": [
+                23.0,
+                37.81,
+                39.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The power of the Roman tribune to order a Sanhedrim trial for Paul is notable, as the council's usual meeting place was in a different location from where they gathered to hear his case. Lysias, seeking certainty about Paul's accusation, commanded the chief priests and council to appear, rendering it their responsibility to examine and judge the matter. This move was necessary for Paul's safety and for the sake of justice, as it offered an opportunity for the accusations against him to be made known.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8760351880447101,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+            "commentatorTierSimilarities": [
+                23.04,
+                38.74,
+                38.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The remarkable power of the Roman tribune to summon the Sanhedrim ignites curiosity about the trial. It is interesting that the council's usual meeting place in the temple had been relocated, which leads to questions about why Paul was brought to a different location. Lysias, compelled by a desire to uncover the truth, commanded the appearance of the chief priests and council, indicating his determination to ascertain the certainty behind Paul's accusations. This move was crucial for ensuring Paul's safety and the pursuit of justice.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6952237432026238,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.71,
+            "commentatorTierSimilarities": [
+                27.9,
+                42.46,
+                29.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The power of the Roman tribune to summon the Sanhedrin for trial is remarkable, especially considering their change in meeting location. Lysias, determined to uncover the truth and find out the certainty of Paul's charges, commanded the appearance of the chief priests and council. This move was crucial for Paul's safety and for the pursuit of justice. It provided an opportunity for the accusations against him to be investigated and clarified, as various accounts had been circulating.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.637814520513373,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+            "commentatorTierSimilarities": [
+                23.85,
+                40.14,
+                36.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The power of the Roman tribune to order a Sanhedrin trial for Paul reveals intriguing circumstances, as the council's usual sessions had moved away from the temple. Lysias, driven by a quest for certainty, commanded the chief priests and council to appear, recognizing that the matter pertained to religion and fell under their jurisdiction. This action was necessary for the safety of Paul and for the pursuit of truth and justice. Bringing Paul before the Sanhedrin would allow him to answer the charges brought against him amidst conflicting reports.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.8056876296451227,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                24.12,
+                39.3,
+                36.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

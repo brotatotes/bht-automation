@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:31:26",
+    "verseRef": "Acts 14:14",
+    "bestBHT": {
+        "bht": "St. Paul, who often calls himself an apostle in his Epistles, and Barnabas, referred to as an apostle here, are deeply affected by the people's attempt to offer them sacrifices, showing their delicate sensibility to anything that affects the honor of God. Their immediate and passionate response, leaping forth and crying out, reflects their grief and horror at the dishonor done to God. This incident serves as an example of the holy anger that the servants of God should feel when witnessing the profaning of His glory.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.9694489854949953,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+        "commentatorTierSimilarities": [
+            26.42,
+            35.16,
+            38.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Paul constantly claims for himself the title [apostle] in his Epistles...\" (28 words)",
+            "It seems to have been borne in this higher sense also by James the Lord\u2019s brother...\" (18 words)",
+            "So that there were, widening the word beyond the Twelve, fifteen Apostles, usually so called.\" (16 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Barnabas is put first here, apparently as having been styled the 'Jupiter' of the company.",
+            "This was something more than that abhorrence of idolatry which took possession of the Jews as a nation from the time of the Babylonish captivity: it was that delicate sensibility to everything which affects the honor of God which Christianity, giving us in God a reconciled Father, alone can produce.",
+            "Making the Christian instinctively feel himself to be wounded in all dishonor done to God, and filling him with mingled horror and grief when such gross insults as this are offered to him."
+        ],
+        "Albert Barnes": [
+            "Barnabas is called an apostle because he was sent forth by the church on a particular message, not because he had been chosen to the special work of the apostleship.",
+            "They rent their clothes... as an expression of their abhorrence of what the people were doing, and of their deep grief.",
+            "Offering worship to human beings."
+        ],
+        "Marvin Vincent": [
+            "Ran in [\u03b5\u03b9\u03c3\u03b5\u03c0\u03b7\u03b4\u03b7\u03c3\u03b1\u03bd] . A feeble translation, even if this reading is retained. The verb means to leap or spring.",
+            "The best texts read ejxephdhsan, sprang forth, probably from the gate of their house, or from the city gate, if the sacrifice was prepared in front of it.",
+            "Crying out [\u03ba\u03c1\u03b1\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2] . Inarticulate shouts to attract attention."
+        ],
+        "John Calvin": [
+            "This is holy anger, wherewith the servants of God must be inflamed so often as they see his glory profaned and overthrown by the sacrileges of men.",
+            "Therefore, we must take good heed that we suffer not that honor to be given us which may darken the glory of God; but rather so soon as there appeareth any profaning of God\u2019s glory, let this heat break out, whereof we have an example in Paul and Barnabas.",
+            "Moreover, there can be no greater injury done to them, than when the honor which is taken from God is given to them; which must needs be when any divine thing is ascribed and given them."
+        ],
+        "Philip Schaff": [
+            "Paul and Barnabas are styled apostles... set apart by the solemn act of the Church of Antioch, acting under the express direction of the Holy Ghost...\" ",
+            "They rent their clothes... the ordinary Jewish mode of expressing horror at hearing or seeing anything that was impious.\" ",
+            "The preparations were all complete, and the victims crowned with their garlands for the sacrifice, before the unsuspecting apostles were aware of the idolatrous homage which was intended for them."
+        ],
+        "Archibald T. Robertson": [
+            "Such elaborate preparation 'with the multitudes' spread rumours.",
+            "They rent their garments as if an act of sacrilege was about to be committed.",
+            "It was all a sign of grief and horror with loud outcries."
+        ],
+        "John Gill": [
+            "Barnabas is here called an apostle, as in Acts 14:4 and is placed before Paul, not as being greater than he, but because of the opinion these Heathens had of him.",
+            "They ran in among the people; in great haste, showing great concern of mind, and much indignation and resentment, at what they were about to do.",
+            "Crying out; aloud, and with great vehemence, that all might hear, and to express the greater dislike of the action."
+        ],
+        "John Wesley": [
+            "They sprang in among the people, crying out \u2014 As in a fire, or other sudden and great danger."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 14:14, St. Paul and Barnabas are referred to as apostles, a title that Paul claims for himself in his Epistles. James the Lord's brother is also mentioned as bearing this higher sense of the title. Barnabas is listed first, possibly due to his previous reputation, and their reaction to the people's attempt to offer them sacrifices reveals their deep grief and horror at the dishonor done to God. Their response was immediate and passionate, as they sprang forth and cried out, showing great concern and indignation. This incident serves as an example of the holy anger God's servants should feel when they see His glory profaned.",
+            "wordCount": 110,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 1.7868507883231874,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "commentatorTierSimilarities": [
+                29.24,
+                34.98,
+                35.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "St. Paul and Barnabas are referred to as apostles, a title claimed by Paul in his Epistles. Barnabas is listed first due to his previous reputation. Their reaction to the people's attempt to offer them sacrifices reveals their deep grief and horror at the dishonor done to God. They sprang forth and cried out, showing great concern and indignation. This incident serves as an example of the holy anger God's servants should feel when they see His glory profaned.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6469314038497944,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+            "commentatorTierSimilarities": [
+                28.22,
+                34.67,
+                37.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "St. Paul, who often calls himself an apostle in his Epistles, and Barnabas, referred to as an apostle here, are deeply affected by the people's attempt to offer them sacrifices, showing their delicate sensibility to anything that affects the honor of God. Their immediate and passionate response, leaping forth and crying out, reflects their grief and horror at the dishonor done to God. This incident serves as an example of the holy anger that the servants of God should feel when witnessing the profaning of His glory.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9694489854949953,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                26.42,
+                35.16,
+                38.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "St. Paul and Barnabas, both referred to as apostles, are deeply affected by the people's attempt to offer them sacrifices, revealing their delicate sensibility to the honor of God. Their immediate and passionate response, leaping forth and crying out, reflects their grief and horror at this dishonor. Through their actions, they exemplify the holy anger that God's servants should feel when witnessing the profaning of His glory. This incident serves as a powerful reminder to not allow honor to be given to them that may overshadow the glory of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.855200088999435,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.03,
+            "commentatorTierSimilarities": [
+                25.93,
+                33.81,
+                40.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "St. Paul and Barnabas, called apostles here, react passionately to the people's attempt to offer them sacrifices, showing their deep grief and horror at the dishonor done to God. Their immediate response, leaping forth and crying out, reflects their delicate sensibility to anything that affects the honor of God. This incident demonstrates the holy anger that should inflame the servants of God when they see His glory profaned by sacrileges. It serves as a reminder to not let honor given to them overshadow the glory of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8962617783389262,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                25.7,
+                34.2,
+                40.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

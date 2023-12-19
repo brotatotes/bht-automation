@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:01:17",
+    "verseRef": "Romans 3:29",
+    "bestBHT": {
+        "bht": "God is not just the God of the Jews, but also of the Gentiles. This is deeply rooted in the law itself, and even Abraham's faith takes precedence over his Jewish identity. The doctrine of justification by faith is crucial for a Universal Religion, which demonstrates its truth. This truth opens the way for the kingdom of Christ to reach the whole world. Salvation and righteousness must be extended to all nations because God desires to be the Savior of both Jews and Gentiles.",
+        "wordCount": 85,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.148633862074768,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.78,
+        "commentatorTierSimilarities": [
+            33.24,
+            35.31,
+            31.46
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He will shew that God is not (the God) of Jews alone, but of Gentiles.\" ",
+            "It lies in the very root and kernel of the law itself.",
+            "Abraham's faith, and not this fact, has become the leading subject."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The way of salvation must be one equally suited to the whole family of fallen man...",
+            "...the doctrine of justification by faith is the only one that lays the basis of a Universal Religion...",
+            "...this therefore is another mark of its truth."
+        ],
+        "John Calvin": [
+            "It was a great matter that this point should be urged, in order that a free passage might be made for the kingdom of Christ through the whole world.\" ",
+            "He does not then ask simply or expressly, whether God was the Creator of the Gentiles, which was admitted without any dispute; but whether he designed to manifest himself as a Savior also to them.",
+            "If it be true that God designs to make all the nations of the earth partakers of his mercy, then salvation, and righteousness, which is necessary for salvation, must be extended to all."
+        ],
+        "Philip Schaff": [
+            "Or is God the God of Jews only?...\u2018Belong to Jews only\u2019 is the full sense.",
+            "The Jews made this claim, and it would hold good, if justification were by works of the law.",
+            "Hence all this establishes the position of Romans 3:28, that a man is justified by faith."
+        ],
+        "Archibald T. Robertson": [
+            "Of Gentiles also (\u03ba\u03b1 \u03b5\u03b8\u03bd\u03c9\u03bd). Jews overlooked it then and some Christians do now. "
+        ],
+        "John Gill": [
+            "God is the God both of Jews and Gentiles; not only as the Creator, preserver, and Governor of them, but as he is their covenant God.",
+            "God is their covenant God...by the covenant of grace; as appears by his loving them in Christ, choosing them in him, putting them into his hands, providing blessings of grace for them in him, and sending his Son to redeem them.",
+            "All which may lead us to observe the distinguishing grace of God, the happiness of our state and condition, and what encouragement we have for faith and hope in God."
+        ],
+        "John Wesley": [
+            "Surely of the gentiles also \u2014 As both nature and the scriptures show."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God is not only the God of the Jews, but also of the Gentiles. This truth is embedded in the very essence of the law itself. Even Abraham's faith, not his Jewish heritage, becomes the central focus. The doctrine of justification by faith is the foundation for a Universal Religion, which strengthens the credibility of this truth. It is essential to emphasize this, as it paves the way for the kingdom of Christ to encompass the entire world. Salvation and righteousness must be extended to all nations because God desires to be the Savior of both Jews and Gentiles. This underscores the grace and love of God, giving us great encouragement for our faith and hope in Him.",
+            "wordCount": 119,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.9057249023648049,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                32.71,
+                33.9,
+                33.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God is not just the God of the Jews, but also of the Gentiles. This is deeply rooted in the law itself, and even Abraham's faith takes precedence over his Jewish identity. The doctrine of justification by faith is crucial for a Universal Religion, which demonstrates its truth. This truth opens the way for the kingdom of Christ to reach the whole world. Salvation and righteousness must be extended to all nations because God desires to be the Savior of both Jews and Gentiles.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.148633862074768,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.78,
+            "commentatorTierSimilarities": [
+                33.24,
+                35.31,
+                31.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The truth of Romans 3:29 is that God is not only the God of the Jews, but also of the Gentiles. This truth is deeply rooted in the law itself and emphasizes the central role of faith, particularly that of Abraham. The doctrine of justification by faith is significant in establishing a Universal Religion, which further confirms its validity. Understanding that salvation and righteousness should be extended to all nations highlights God's desire to be the Savior of both Jews and Gentiles alike.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.173758663269609,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.62,
+            "commentatorTierSimilarities": [
+                32.68,
+                36.18,
+                31.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The message conveyed by this verse is that God's sovereignty extends beyond the Jews to the Gentiles as well. This concept is fundamental to the law itself. By placing emphasis on Abraham's faith rather than his Jewish heritage, the verse underscores the importance of universal salvation. The doctrine of justification by faith is significant in fostering a Universal Religion, providing further evidence of its truth. It is clear that God desires to be the Savior of both Jews and Gentiles, offering hope and encouragement to all.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9698901900901178,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                32.46,
+                36.35,
+                31.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The truth emerges that God is the God not of Jews alone, but also of Gentiles. It is an integral part of the law itself, as illustrated by Abraham's faith superseding his Jewish identity. Justification by faith serves as the foundation for a Universal Religion, further affirming its veracity. This fact grants unhindered access for the kingdom of Christ to encompass the entire world. God's desire to be the Savior to both Jews and Gentiles underscores His grace and provides encouragement for faith and hope.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.0349990730045153,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+            "commentatorTierSimilarities": [
+                32.73,
+                34.69,
+                32.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

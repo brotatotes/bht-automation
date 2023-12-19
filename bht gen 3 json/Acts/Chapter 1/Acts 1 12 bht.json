@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:24:42",
+    "verseRef": "Acts 1:12",
+    "bestBHT": {
+        "bht": "The journey from Jerusalem to the Mount of Olives, a Sabbath day's journey of about three-quarters of a mile according to Jewish tradition, is emphasized by Luke. The specific distance mentioned suggests its significance in his Jewish source, providing credibility to the historical account. This detail highlights the adherence to Sabbath restrictions during the Ascension and enriches our understanding of the disciples' journey.",
+        "wordCount": 65,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.307734417804789,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.07,
+        "commentatorTierSimilarities": [
+            36.52,
+            35.37,
+            28.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In so careful a writer (see Luke i. 3), there must be some reason why this minute specification of distance should be here inserted, when no such appears in the Gospel.",
+            "It seems to me that these things must have happened on a Sabbath: for the Evangelist would not have thus stated the distance... except they had had their journey limited by its being the Sabbath day.",
+            "This of course must be a mere conjecture; but it will not be impugned by the fact of the Ascension being kept by the Church in after ages on a Thursday."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12-14. a sabbath day's journey\u2014about",
+            "\ttwo thousand cubits."
+        ],
+        "Albert Barnes": [
+            "From the mount called Olivet - From the Mount of Olives.",
+            "A sabbath-day's journey - As far as might be lawfully traveled by a Jew on the Sabbath.",
+            "Mount Olivet was only 5 furlongs from Jerusalem, and Bethany was 15 furlongs."
+        ],
+        "Marvin Vincent": [
+            "A Sabbath-day's journey, according to Jewish tradition, was about three-quarters of a mile."
+        ],
+        "John Calvin": [
+            "They might have been more commodiously asunder, yet might they not part company before they had received the Spirit.",
+            "In that he noteth here the distance of place, it bringeth credit unto the history.",
+            "A Sabbath-day\u2019s journey was two miles, and that account doth well agree with the place of John 11:18, where he saith, 'that Jerusalem was distant from Bethany almost fifteen furlongs;'"
+        ],
+        "Philip Schaff": [
+            "From the mount called Olivet, which is from Jerusalem a Sabbath day\u2019s journey.",
+            "This discrepancy is, however, only apparent; for the suburb of Jerusalem called Bethphage, which lay between the city and Bethany, was legally counted as part of Jerusalem.",
+            "So the distance for the Sabbath day\u2019s journey would be reckoned from the point where the suburb Bethphage ended, to the spot on the Mount of Olives in the Bethany district where the ascension took place."
+        ],
+        "Archibald T. Robertson": [
+            "Here only in the N.T., usually \u03c4\u03bf \u03bf\u03c1\u03bf\u03c2 \u03c4\u03c9\u03bd \u0395\u03bb\u03b1\u03b9\u03c9\u03bd (the Mount of Olives), though some MSS. have Olivet in Luke 19:29; Luke 21:37.",
+            "Luke only says here that Olivet is a Sabbath day's journey from Jerusalem, not that Jesus was precisely that distance when he ascended.",
+            "Why Luke mentions this item for Gentile readers in this form is not known, unless it was in his Jewish source."
+        ],
+        "John Gill": [
+            "This is the hill which in 1 Kings 11:7 is said to be 'before Jerusalem'; and accordingly Jarchi interprets it of the Mount of Olives.",
+            "A sabbath day's journey, according to the Jews, was two thousand cubits from any city or town...",
+            "Hence, in some copies it is here inserted, 'such being the distance that the Jews could walk'; that is, were allowed to walk by their canons."
+        ],
+        "John Wesley": [
+            "A Sabbath-day's journey \u2014 The Jews generally fix this to two thousand cubits, which is not a mile."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On a Sabbath day's journey, the disciples traveled from Jerusalem to the Mount of Olives, where Jesus ascended. The precise distance is emphasized in the Gospel, indicating that the journey was limited by the Sabbath restrictions. Although this is a conjecture, it aligns with the tradition of the Church celebrating the Ascension on a Thursday. According to Jewish tradition, a Sabbath-day's journey was about three-quarters of a mile, which corresponds to the distance from Jerusalem to the Mount of Olives. The mention of this detail by Luke, specifically for Gentile readers, suggests its significance in his Jewish source. It is worth noting that the discrepancy of exact location might be due to the inclusion of Bethphage as part of Jerusalem. Overall, the distance and location mentioned in this verse lend credibility to the historical account.",
+            "wordCount": 139,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 2.2562712996345606,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.36,
+            "commentatorTierSimilarities": [
+                33.28,
+                37.06,
+                29.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples embarked on a journey from Jerusalem to the Mount of Olives, known as a Sabbath day's journey. This distance, approximately three-quarters of a mile according to Jewish tradition, was carefully highlighted by the meticulous writer Luke. The choice to mention the specific distance, especially for non-Jewish readers, suggests its significance in his Jewish source. The inclusion of this detail adds credibility to the historical account and highlights the adherence to Sabbath restrictions during the Ascension. This emphasis on distance serves to enrich our understanding of the disciples' journey.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.1481537664601955,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.77,
+            "commentatorTierSimilarities": [
+                35.4,
+                33.94,
+                30.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The journey from Jerusalem to the Mount of Olives, a Sabbath day's journey of about three-quarters of a mile according to Jewish tradition, is emphasized by Luke. The specific distance mentioned suggests its significance in his Jewish source, providing credibility to the historical account. This detail highlights the adherence to Sabbath restrictions during the Ascension and enriches our understanding of the disciples' journey.",
+            "wordCount": 65,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.307734417804789,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.07,
+            "commentatorTierSimilarities": [
+                36.52,
+                35.37,
+                28.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples made a weekend journey of about three-quarters of a mile from Jerusalem to the Mount of Olives, a location called Olivet. Luke meticulously highlights this Sabbath day's journey, likely limited by Sabbath day regulations. The inclusion of the specific distance adds credibility to the historical account and may have been mentioned to indicate the adherence to Jewish customs. This detail enriches our understanding of the disciples' journey as they traveled to witness the Ascension.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.124162246467054,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.97,
+            "commentatorTierSimilarities": [
+                33.68,
+                37.46,
+                28.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples embarked on a Sabbath journey from Jerusalem to the Mount of Olives, a distance of about three-quarters of a mile based on Jewish tradition. Luke's careful mention of this specific distance suggests its importance in his Jewish source, lending credibility to the historical account. This emphasis on the journey highlights the disciples' adherence to Sabbath regulations during the Ascension, providing insight into their actions. The mention of Olivet as the location enriches our understanding of the disciples' experience on that significant day.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.143715820519409,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.62,
+            "commentatorTierSimilarities": [
+                35.97,
+                35.37,
+                28.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

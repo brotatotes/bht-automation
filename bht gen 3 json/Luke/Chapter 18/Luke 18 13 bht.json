@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:21:59",
+    "verseRef": "Luke 18:13",
+    "bestBHT": {
+        "bht": "The poor publican, unlike the Pharisee who thanks God for not being like others, stands afar off, smiting himself for anguish and self-reproach. He acknowledges his sins humbly, focusing solely on his own guilt as the sinner. With eyes cast down, he confesses his sins and implores God's mercy, disavowing confidence in his own works. The publican's honest confession demonstrates his deep understanding of his need for God's pardoning grace and mercy.",
+        "wordCount": 76,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.1320553833494933,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.23,
+        "commentatorTierSimilarities": [
+            25.82,
+            31.73,
+            42.45
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Far from the Pharisee;\u2014a contrast in spirit to the other's thanks that he was not as other men, is furnished by the poor Publican in his humility acknowledging this by an act.\" ",
+            "There is a slight but true difference also in the original, in the word rendered stood of the Pharisee\u2014'being put in position' (answering to 'being seated' of the other usual posture) and standing of the publican,\u2014coming in merely and remaining, in no studied place or posture.\" ",
+            "The definite article rather implies, not comparison with others, but intense self-abasement: 'sinner that I am.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "standing afar off\u2014as unworthy to draw near; but that was the way to get near.",
+            "smote, c.\u2014kept smiting for anguish and self-reproach.",
+            "be merciful\u2014'be propitiated,' a very unusual word in such a sense, only once else used in the New Testament, in the sense of 'making reconciliation' by sacrifice. There may therefore, be some allusion to this here, though not likely."
+        ],
+        "Albert Barnes": [
+            "The publican stood on the other side of the same court if he was a Jew, or in the court of the Gentiles if he was a pagan, as far as possible from the temple, being conscious of his unworthiness to approach the sacred place where God had his holy habitation.",
+            "Men who are conscious of guilt always fix their eyes on the ground.",
+            "The publican was willing to do this in any place; in the presence of any persons; amid the multitudes of the temple, or alone. He felt most that 'God' was a witness of his actions, and he was willing, therefore, to confess his sins before him."
+        ],
+        "Marvin Vincent": [
+            "Standing [\u03b5\u03c3\u03c4\u03c9\u03c2] . In a timid attitude: merely standing, not posturing as the Pharisee.\" ",
+            "Lift up his eyes. As worshippers ordinarily.",
+            "A sinner [\u03c4\u03c9 \u03b1\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u03c9] . With the definite article, 'the sinner.' 'He thinks about no other man' (Bengel)."
+        ],
+        "John Calvin": [
+            "Humility lies in not refusing to acknowledge our sins... in making an honest confession of guilt.\" ",
+            "He who acknowledges that he is guilty and convicted, and then proceeds to implore pardon, disavows all confidence in works.\" ",
+            "God will not be gracious to any but those who betake themselves with trembling to his mercy alone."
+        ],
+        "Philip Schaff": [
+            "Standing. Simply standing, not putting himself into an attitude or position.",
+            "Would not lift up, etc. This hints that the Pharisee had done so, doubtless lifting up his hands also, as was the custom.",
+            "To me a sinner. There is no comparison with others. He thinks of himself as though he were the great and only sinner."
+        ],
+        "Archibald T. Robertson": [
+            "Standing afar off...At a distance from the Pharisee, not from the sanctuary.",
+            "Would not lift...refused to lift.",
+            "The main point in the contrast lies in this article. The Pharisee thought of others as sinners. The publican thinks of himself alone as the sinner, not of others at all."
+        ],
+        "John Gill": [
+            "And it might be, that this poor man might stand at a greater distance than was required, that he might not displease the Pharisee, who, he knew, would resent it, should he stand near him.",
+            "This showed in the publican, that the guilt of his sins lay heavy on him; that he could not look up; that shame filled him with blushing; that sorrow caused his countenance to fall; and that fear of divine wrath, and displeasure, possessed him; and that he looked upon himself as unworthy of the smiles of heaven.",
+            "The first thing a sensible sinner wants, is an application of pardoning grace and mercy; and forgiveness springs from mercy; and because the mercy of God is free and abundant, therefore pardon is so: but this is not to be expected from an absolute God, or God out of Christ."
+        ],
+        "John Wesley": [
+            "The publican standing afar off... would not so much as lift up his eyes to heaven.",
+            "Touched with shame, which is more ingenuous than fear."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The poor publican in Luke 18:13 humbly acknowledges his sins and stands afar off, smiting himself for anguish. In contrast to the Pharisee, who thanks God that he is not like others, the publican recognizes himself as the sinner, focusing solely on his own guilt. He is conscious of his unworthiness to draw near, standing timidly without posturing. With eyes cast down, he confesses his sins and implores God's mercy, disavowing any confidence in his own works. The publican's humility and honest confession demonstrate his deep understanding of his need for God's pardoning grace and mercy.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 2.148319192387311,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.77,
+            "commentatorTierSimilarities": [
+                28.11,
+                31.83,
+                40.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The poor publican in contrast to the Pharisee stands afar off, smiting himself for anguish and self-reproach. He acknowledges his sins humbly, focusing solely on his own guilt as the sinner. With eyes cast down, he confesses his sins, disavowing confidence in his own works as he implores God's mercy. The publican's honest confession demonstrates his deep understanding of his need for God's pardoning grace and mercy.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.119885374922778,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.83,
+            "commentatorTierSimilarities": [
+                26.59,
+                31.0,
+                42.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The poor publican, unlike the Pharisee who thanks God for not being like others, stands afar off, smiting himself for anguish and self-reproach. He acknowledges his sins humbly, focusing solely on his own guilt as the sinner. With eyes cast down, he confesses his sins and implores God's mercy, disavowing confidence in his own works. The publican's honest confession demonstrates his deep understanding of his need for God's pardoning grace and mercy.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.1320553833494933,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.23,
+            "commentatorTierSimilarities": [
+                25.82,
+                31.73,
+                42.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The poor publican in contrast to the Pharisee stands afar off, smiting himself for anguish and self-reproach. He acknowledges his sins humbly, focusing solely on his own guilt as the sinner. With eyes cast down, he confesses his sins, disavowing confidence in his own works as he implores God's mercy. The publican's honest confession demonstrates his deep understanding of his need for God's pardoning grace and mercy.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.119885374922778,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.83,
+            "commentatorTierSimilarities": [
+                26.59,
+                31.0,
+                42.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The poor publican in contrast to the Pharisee stands afar off, smiting himself for anguish and self-reproach. He acknowledges his sins humbly as the sinner, focusing solely on his own guilt. With eyes cast down, he confesses his sins and implores God's mercy, disavowing confidence in his own works. The publican's honest confession demonstrates his deep understanding of his need for God's pardoning grace and mercy.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.101185446839424,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                26.46,
+                30.88,
+                42.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:35:04",
+    "verseRef": "Ephesians 6:21",
+    "bestBHT": {
+        "bht": "Tychicus, a beloved brother and faithful servant in the Lord, was sent by Paul to the Ephesians so that they may know about his affairs and how he was faring. As a minister in the Lord, Tychicus was well-known and trusted, making his statements about Paul's situation more believable. Despite facing the constant reality of death, Paul's care for the churches remained unwavering. Tychicus, a faithful minister in the Lord, would faithfully relay all things concerning Paul, providing the Ephesians with valuable information and fostering a sense of unity among believers.",
+        "wordCount": 94,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.7520239647405136,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+        "commentatorTierSimilarities": [
+            32.38,
+            27.17,
+            40.44
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But that ye also may know the matters concerning me, how I fare.",
+            "Tychicus shall make known all to you, the beloved brother and faithful servant in the Lord.",
+            "He ministered in the Lord, Christ's work being the field on which his labour was bestowed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "that ye also\u2014as I have been discussing things relating to you, so that ye also may know about me",
+            "my affairs\u2014Greek, 'the things concerning me.'",
+            "minister\u2014that is, servant. in the Lord\u2014in the Lord's work."
+        ],
+        "Albert Barnes": [
+            "But that ye also may know my affairs - May understand my condition, my feelings, and in what I am engaged. To them it could not but be a subject of deep interest.",
+            "And how I do - Greek, 'What I do; that is how I am employed.",
+            "Tychicus - Tychicus was of the province of Asia, in Asia Minor, of which Ephesus was the capital; see Acts 20:4."
+        ],
+        "Marvin Vincent": [
+            "A beloved brother. Tychicus is referred to as well known.",
+            "Tychicus. See on Colossians 4:7.",
+            "That ye also may know, etc. Compare Cicero to Atticus: 'Send us some letter-carrier, that both you may know how it goes with us, and that we may know how you fare and what you are going to do' (v. 18)."
+        ],
+        "John Calvin": [
+            "The holy solicitude which Paul felt about the interests of religion, or, to use his own language, 'the care of all the churches,' was thus strikingly evinced.",
+            "When death stood constantly before his eyes, neither the dread of death, nor anxiety about himself, prevented him from making provision for the most distant churches.",
+            "Tychicus is commended, that his statements may be more fully believed. A faithful minister in the Lord."
+        ],
+        "Philip Schaff": [
+            "The things concerning me, how I fare, not, 'what I do,' for he did but one thing (Meyer). The two phrases point respectively to his external circumstances, and to his demeanor therein.",
+            "The beloved brother; a fellow-Christian, probably known to them (Acts 20:4).",
+            "And faithful minister in the Lord; 'faithful,' 'trusty,' but without reference to the trustworthiness of his message, which is taken for granted."
+        ],
+        "Archibald T. Robertson": [
+            "That ye also may know (\u03b9\u03bd\u03b1 \u03b5\u03b9\u03b4\u03b7\u03c4\u03b5 \u03ba\u03b1 \u03c5\u03bc\u03b5\u03b9\u03c2). Final clause with \u03b9\u03bd\u03b1 and second perfect subjunctive active of \u03bf\u03b9\u03b4\u03b1. For Tychicus, see Colossians 4:7. "
+        ],
+        "John Gill": [
+            "The apostle's life and actions would bear the light, and what he did was worthy of imitation, and must be both delightful and useful to know.",
+            "He also styles him a 'faithful minister in the Lord'; he was a 'minister' in the work and service of the Lord, in things pertaining to him... and a greater character he could not well have.",
+            "Therefore it need not be doubted but that he would faithfully relate all things concerning the apostle, and what he said might be depended on as truth."
+        ],
+        "John Wesley": [
+            "Ye also \u2014 As well as others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Tychicus, a beloved brother and faithful servant in the Lord, was sent by Paul to the Ephesians so that they may know about his affairs and how he was faring. As a minister in the Lord, Tychicus was well-known and trusted, making his statements about Paul's situation more believable. Despite facing the constant reality of death, Paul's care for the churches remained unwavering. Tychicus, a faithful minister in the Lord, would faithfully relay all things concerning Paul, providing the Ephesians with valuable information and fostering a sense of unity among believers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7520239647405136,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                32.38,
+                27.17,
+                40.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Tychicus, the beloved brother and faithful servant in the Lord, was sent by Paul to inform the Ephesians about his affairs and how he was faring. As a minister in the Lord, Tychicus was well known and trustworthy. Despite the looming presence of death, Paul's concern for the churches never wavered. Tychicus, a faithful minister, would faithfully relay all things concerning Paul, fostering unity among believers and providing valuable insights to the Ephesians about Paul's situation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.6634750857816336,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+            "commentatorTierSimilarities": [
+                33.07,
+                26.91,
+                40.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Tychicus, a beloved brother and faithful servant in the Lord, was sent by Paul to the Ephesians so that they may know about his affairs and how he was faring. As a minister in the Lord, Tychicus was well-known and trusted, making his statements about Paul's situation more believable. Despite facing the constant reality of death, Paul's care for the churches remained unwavering. Tychicus, a faithful minister in the Lord, would faithfully relay all things concerning Paul, providing the Ephesians with valuable information and fostering a sense of unity among believers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7520239647405136,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                32.38,
+                27.17,
+                40.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Tychicus, a beloved brother and faithful servant in the Lord, was sent to the Ephesians by Paul to update them on his affairs and well-being. As a minister in the Lord, Tychicus was well-known and trustworthy. Despite the constant presence of death, Paul's devotion to the churches never wavered. Tychicus, a faithful minister, would accurately convey all things concerning Paul, providing the Ephesians with reliable information and fostering unity among believers.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.6705489939034392,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.89,
+            "commentatorTierSimilarities": [
+                31.75,
+                27.36,
+                40.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Tychicus, the beloved brother and faithful servant in the Lord, was sent by Paul to the Ephesians so that they may be informed about his affairs and well-being. As a minister in the Lord's work, Tychicus was well known and trusted. Despite facing the reality of death, Paul's care for the churches never faltered. Tychicus, a faithful minister, would diligently relay all things concerning Paul, providing the Ephesians with valuable information and fostering unity among believers.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.7148497633683366,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+            "commentatorTierSimilarities": [
+                33.81,
+                27.4,
+                38.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

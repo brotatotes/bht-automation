@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:18:07",
+    "verseRef": "2 Corinthians 10:12",
+    "bestBHT": {
+        "bht": "Paul criticizes the Corinthians for their foolishness in measuring themselves against their own standards and seeking applause from their own party. By comparing themselves only to those similar to them, they inflate their self-importance and lack wisdom. In contrast, Paul refuses to join this self-centered behavior and recognizes the folly of seeking self-praise. Exposing their ignorance, he urges the Corinthians to abandon their pursuit of personal glory and instead cultivate humility.",
+        "wordCount": 74,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.9715521069627902,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.9,
+        "commentatorTierSimilarities": [
+            31.4,
+            38.64,
+            29.96
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For we do not venture... to number ourselves with... those who commend themselves.\" (12.)",
+            "Measuring themselves by themselves, and comparing themselves with themselves, are not wise.\" (12.)",
+            "Calvin well illustrates the sense... by seeking the applause of his own party.\" (12.)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The one-eyed is easily king among the blind.",
+            "Instead of measuring themselves by the public standard, they measure themselves by one made by themselves: they do not compare themselves with others who excel them, but with those like themselves: hence their high self-esteem.",
+            "With all their boasted 'wisdom,' they are anything but 'wise.'"
+        ],
+        "Albert Barnes": [
+            "To do this, Paul says, required greater boldness than he possessed, and on this point he yielded to them the palm. The satire here is very delicate, and yet very severe, and was such as would doubtless be felt by them.",
+            "They looked continually on their own accomplishments, and did not look at the excellences of others. They thus formed a disproportionate opinion of themselves, and undervalued all others.",
+            "Their views are the standard of orthodoxy; their modes of worship are the standard of the proper manner of devotion; their habits and customs are in their own estimation perfect; and their own characters are the models of excellence, and they see little or no excellence in those who differ from them."
+        ],
+        "Marvin Vincent": [
+            "Make ourselves of the number [\u03b5\u03b3\u03ba\u03c1\u03b9\u03bd\u03b1\u03b9 \u03b5\u03b1\u03c5\u03c4\u03bf\u03c5\u03c2] . Rev., better, to number ourselves. Lit., to judge ourselves to be among : to place in the same category with."
+        ],
+        "John Calvin": [
+            "I am satisfied ... for I would not dare to put myself on a footing with your Apostles, who are the heralds of their own excellence.",
+            "The man that has but one eye sees well enough among the blind: the man that is dull of hearing hears distinctly enough among the totally deaf.",
+            "It is the just punishment of the ambitious, that by their silliness they expose themselves to ridicule, and in place of glory, which they are immoderately desirous of, they incur disgrace."
+        ],
+        "Philip Schaff": [
+            "For we are not bold to number or compare ourselves with certain of them that commend themselves: but they themselves measuring themselves by themselves, and comparing themselves with themselves, are not wise.",
+            "Were we as bold as to class ourselves with those self-satisfied, supercilious teachers, who set themselves up as the one standard by which the pretension and character of all Christian teachers are to be tried, then our empty words and weak deeds might be justly held up in contrast.",
+            "But such shew a want of all understanding."
+        ],
+        "Archibald T. Robertson": [
+            "Setting themselves up as the standards of orthodoxy these Judaizers always measure up to the standard while Paul falls short.",
+            "Paul is not keen to fall into the trap set for him.",
+            "These men do not see their own picture so obvious to others."
+        ],
+        "John Gill": [
+            "But they measuring themselves by themselves, and comparing themselves among themselves, are not wise, or 'understand not'; how foolish they are, how ridiculous they make themselves.",
+            "They do not understand what they say, nor whereof they affirm; they do not understand themselves, what they really are.",
+            "Just the reverse is this, to what is said in Philo the Jew, 'I have learned to measure the nothingness of myself', and to contemplate thy exceeding great bounties; and moreover, perceive myself to be dust and ashes, or if there is any thing more abject.'"
+        ],
+        "John Wesley": [
+            "For we presume not \u2014 A strong irony.",
+            "To equal ourselves \u2014 As partners of the same office.",
+            "Or to compare ourselves \u2014 As partakers of the same labour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 10:12, Paul addresses the Corinthians by criticizing those who boast in their own accomplishments and compare themselves only to others who are like them. He rebukes their self-centeredness, highlighting their lack of wisdom and understanding. Instead of measuring themselves against a public standard, they create their own standard and commend themselves. Paul, on the other hand, refuses to fall into the trap of self-praise, recognizing the folly of such behavior. By exposing their distorted self-perception, Paul reveals their ignorance and calls them out for their lack of understanding. Rather than seeking their own glory, Paul urges the Corinthians to humbly consider themselves and their deeds.",
+            "wordCount": 109,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.912962952821395,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                32.66,
+                39.02,
+                28.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul cautions against the folly of those who measure themselves by their own standards and seek recognition from their own party. By comparing themselves only to others who are like them, they inflate their own self-worth and lack wisdom. Instead, Paul encourages the Corinthians to evaluate themselves based on a broader standard and avoid the temptation to seek their own glory. By exposing their ignorance, Paul demonstrates the importance of humility and self-reflection in one's actions and character.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.042834970141727,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.27,
+            "commentatorTierSimilarities": [
+                33.32,
+                39.1,
+                27.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul admonishes the Corinthians for their unwise behavior of comparing and commending themselves, instead of measuring themselves against a broader standard. By creating their own self-centered standard, they inflate their egos and fail to grasp their own foolishness. In contrast, Paul humbly acknowledges his limitations and refuses to fall into the trap of self-praise. He exposes the Corinthians' distorted self-perception, revealing their lack of understanding. Paul urges them to reject self-glory and instead adopt a posture of humility and self-reflection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8533138115995023,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                31.19,
+                41.44,
+                27.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul criticizes the Corinthians for their foolishness in measuring themselves against their own standards and seeking applause from their own party. By comparing themselves only to those similar to them, they inflate their self-importance and lack wisdom. In contrast, Paul refuses to join this self-centered behavior and recognizes the folly of seeking self-praise. Exposing their ignorance, he urges the Corinthians to abandon their pursuit of personal glory and instead cultivate humility.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9715521069627902,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.9,
+            "commentatorTierSimilarities": [
+                31.4,
+                38.64,
+                29.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul reproves the Corinthians for their unwise practice of measuring themselves exclusively by their own standards and seeking commendation from their own group. Instead of comparing themselves to those who excel them, they measure themselves against those who are similar to them, resulting in an inflated self-esteem. Paul discerns their folly and warns against falling into the trap of seeking self-approval. By highlighting their lack of wisdom, he encourages them to abandon their pursuit of personal glory and adopt a more humble perspective.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9069346667513427,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                35.23,
+                37.0,
+                27.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

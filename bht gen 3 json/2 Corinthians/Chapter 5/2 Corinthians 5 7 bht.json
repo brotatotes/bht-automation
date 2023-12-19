@@ -1,0 +1,100 @@
+{
+    "timestamp": "12-19-2023 15:15:55",
+    "verseRef": "2 Corinthians 5:7",
+    "bestBHT": {
+        "bht": "As believers, we walk by faith, not by the appearance of heavenly things. Our life is governed by our faith in our immortal hope, rather than the outward specious appearance of present things. Although we may not see God or the glories of heaven, we perceive them through faith and confidently expect what is to come. Faith is the means by which we navigate this life, trusting in the unseen realities that are revealed to us. In the next life, our faith will be rewarded with vision.",
+        "wordCount": 87,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 2.5626375176656877,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.55,
+        "commentatorTierSimilarities": [
+            37.09,
+            31.94,
+            30.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We walk by means of faith, not by means of appearance.",
+            "Faith, not the actual appearance of heavenly things themselves, is the means whereby we hold on our way.",
+            "A sure sign that we are absent from those heavenly things."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our life is governed by faith in our immortal hope; not by the outward specious appearance of present things.",
+            "God has appointed in this life faith for our great duty, and in the next, vision for our reward.",
+            "Not by appearance. Our life is governed by faith in our immortal hope."
+        ],
+        "Albert Barnes": [
+            "To walk by faith, is to live in the confident expectation of things that are to come; in the belief of the existence of unseen realities; and suffering them to influence us as if they were seen.",
+            "The Christian lives and acts as if there were a God, and as if he saw him.",
+            "The Christian lives, and thinks, and acts as if there were a heaven, and as if he now saw its glories."
+        ],
+        "Marvin Vincent": [
+            "Faith is contrasted with the actual appearance of heavenly things.",
+            "The word is not used actively in the sense of vision.",
+            "The correct rendering is appearance."
+        ],
+        "John Calvin": [
+            "The reason why he is not seen by us is, that we walk by faith. Now it is on good grounds that faith is opposed to sight, because it perceives those things that are hid from the view of men \u2014 because it reaches forth to future things, which do not as yet appear.",
+            "For such is the condition of believers, that they resemble the dead rather than the living \u2014 that they often seem as if they were forsaken by God \u2014 that they always have the elements of death shut up within them. Hence they must necessarily hope against hope.",
+            "For we see, indeed, but it is through a glass, darkly; that is, in place of the reality we rest upon the word."
+        ],
+        "Archibald T. Robertson": [
+            "By sight (\u03b4\u03b9\u03b1 \u03b5\u03b9\u03b4\u03bf\u03c5\u03c2). Rather, by appearance. "
+        ],
+        "John Gill": [
+            "Faith is a grace which answers many useful purposes; it is the eye of the soul, by which it looks to Christ for righteousness, peace, pardon, life, and salvation.\" ",
+            "Faith is the hand by which it receives him, and the foot by which it goes to him, and walks in him as it has received him.\" ",
+            "Faith is expressive, not of a weak, but of a strong steady faith of glory and happiness, and of interest in it."
+        ],
+        "John Wesley": [
+            "We cannot clearly see him in this life, wherein we walk by faith only.",
+            "An evidence, indeed, that necessarily implies a kind of 'seeing him who is invisible.'",
+            "As far beneath what we shall have in eternity, as it is above that of bare, unassisted reason."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 5:7, it is emphasized that as believers, we walk by faith rather than by appearance. This means that our life is not governed by the outward specious appearance of present things, but by our faith in the unseen heavenly realities. Our faith serves as a sure sign that we are absent from those heavenly things, yet it enables us to confidently expect and live in anticipation of them. We may not see God or the glories of heaven with our physical eyes, but we perceive and grasp hold of them through the lens of faith, trusting in the word of God. In this life, our faith is the means by which we navigate, and in the next life, vision will be our reward.",
+            "wordCount": 124,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.382910896960831,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.57,
+            "commentatorTierSimilarities": [
+                33.43,
+                32.92,
+                33.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As believers, we walk by faith, not by the appearance of heavenly things. Our life is governed by our faith in our immortal hope, rather than the outward specious appearance of present things. Although we may not see God or the glories of heaven, we perceive them through faith and confidently expect what is to come. Faith is the means by which we navigate this life, trusting in the unseen realities that are revealed to us. In the next life, our faith will be rewarded with vision.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.5626375176656877,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.55,
+            "commentatorTierSimilarities": [
+                37.09,
+                31.94,
+                30.97
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:04:51",
+    "verseRef": "1 Corinthians 4:13",
+    "bestBHT": {
+        "bht": "In their ministry, Paul and the apostles faced extreme suffering and were treated as the refuse of the earth. They were defamed, reviled, and slandered, enduring public slander and personal abuse. Despite this, they responded with gentleness, entreated God for their defamers, and did not retaliate. Their experiences mirrored those who were considered the filth of the world, the offscouring of all things. In the face of such severe trials, their faith remained strong, exemplifying humility, grace, and steadfastness in the midst of persecution.",
+        "wordCount": 84,
+        "quoteTokenProportion": 28.33,
+        "qualityScore": 1.553384131419934,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.99,
+        "commentatorTierSimilarities": [
+            26.23,
+            34.23,
+            39.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We are become as it were the refuse of the whole earth.",
+            "The original word means that which is removed by a thorough purification, the offal or refuse.",
+            "The offscouring of all things, means much the same as the former designation,\u2014but the expression is more contemptuous."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Defamed, we entreat\u2014namely, God for our defamers.\" ",
+            "We reply gently.\" ",
+            "Filth\u2014'the refuse,' the sweepings or rubbish thrown out after a cleaning."
+        ],
+        "Albert Barnes": [
+            "Being defamed - Greek, Blasphemed, that is, spoken of and to, in a harsh, abusive, and reproachful manner... It is usually applied to God, but it may also be used of people.",
+            "They besought them to examine more candidly their claims instead of reviling them; and to save their souls by embracing the gospel instead of destroying them by rejecting it with contempt and scorn.",
+            "The whole force of the expression may be met by the supposition that he uses it in the sense of that filth or dirt which is collected by the process of cleansing or scouring anything, as being vile, contemptible, worthless."
+        ],
+        "Marvin Vincent": [
+            "Defamed [\u03b4\u03c5\u03c3\u03c6\u03b7\u03bc\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03b9] . Publicly slandered; while reviled refers to personal abuse.",
+            "This tremendous piece of irony justifies the numerous allusions which have been made to Paul 's vehemence and severity.",
+            "'His words, indeed, seem to be those of a simple, and, as it were, an innocent and rustic man, who knows neither how to frame nor to avoid wiles; but whithersoever you look, there are thunderbolts' (Jerome)."
+        ],
+        "John Calvin": [
+            "he is held in abomination by the whole world, like a man set apart for expiation",
+            "like offscourings, he is nauseous to all",
+            "he does not mean to say by the former comparison that he is all expiatory victim for sins, but simply means, that in respect of disgrace and reproaches he differs nothing from the man on whom the execrations of all are heaped up"
+        ],
+        "Philip Schaff": [
+            "Being defamed, we intreat in the sense of returning soft words for calumnies.",
+            "We are made as the filth of the world, the off scouring of all things, even until now.",
+            "As these are the strongest conceivable figures, so the element of duration, as extending through his whole apostolic life, is added to intensify the statement."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is opening his very heart now after the keen irony above.",
+            "It was the custom in Athens during a plague to throw to the sea some wretch in the hope of appeasing the gods.",
+            "But it is a bold figure here with Paul of a piece with \u03c0\u03b5\u03c1\u03b9\u03ba\u03b1\u03b8\u03b1\u03c1\u03bc\u03b1\u03c4\u03b1."
+        ],
+        "John Gill": [
+            "Being defamed, we entreat, being blasphemed, as the word signifies, being evil spoken of, our good name taken away, and characters hurt; we entreat or pray to God for them, that he would convince them of their evil, give them repentance unto life, and remission of their sins.\" ",
+            "We are made as the filth of the world, and the offscouring of all things unto this day.\" ",
+            "All which shows that they were far from reigning as kings; and whilst this was their case, who were at the head of the interest of Christ, it must be a vain conceit of the Corinthians, that they reigned as kings without them."
+        ],
+        "John Wesley": [
+            "We are made as the filth of the world, and offscouring of all things.\" ",
+            "Such were those poor wretches among the heathens, who were taken from the dregs of the people, to be offered as expiatory sacrifices to the infernal gods.",
+            "They were loaded with curses, affronts, and injuries, all the way they went to the altars."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As believers, we can find comfort in understanding the depth of the suffering endured by Paul and his fellow apostles. They were treated as the refuse of the whole earth, compared to offal or refuse that is removed by thorough purification. In their ministry, they were defamed, slandered, and reviled. Yet, despite these harsh circumstances, Paul and the apostles did not respond with hostility. Rather, they entreated God on behalf of their defamers, seeking their repentance and forgiveness. This tremendous display of humility and grace speaks to the strength of their faith. Their experiences mirrored those who were treated as the filth of the world, the offscouring of all things, carrying the weight of curses, affronts, and injuries. The irony and severity of their suffering justified the allusions made to their vehemence. It is in this context that we witness Paul opening his heart, enduring trials and persecution with steadfastness and perseverance.",
+            "wordCount": 152,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5638507105782922,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.34,
+            "commentatorTierSimilarities": [
+                29.4,
+                33.86,
+                36.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In their ministry, Paul and the apostles faced extreme suffering and were treated as the refuse of the earth. They were defamed, reviled, and slandered, enduring public slander and personal abuse. Despite this, they responded with gentleness, entreated God for their defamers, and did not retaliate. Their experiences mirrored those who were considered the filth of the world, the offscouring of all things. In the face of such severe trials, their faith remained strong, exemplifying humility, grace, and steadfastness in the midst of persecution.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.553384131419934,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.99,
+            "commentatorTierSimilarities": [
+                26.23,
+                34.23,
+                39.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In their ministry, Paul and the apostles were treated as the refuse of the earth, enduring slander, defamation, and personal abuse. They exemplified gentleness and entreated God for their defamers. Their experiences paralleled those who were considered the filth of the world, the offscouring of all things. Despite the severity of their suffering, they remained steadfast in their faith, responding to persecution with humility and grace. Through their enduring trials, Paul and the apostles displayed unwavering dedication, serving as an inspiration to believers in all generations.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.5377365176517483,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.47,
+            "commentatorTierSimilarities": [
+                24.25,
+                34.43,
+                41.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul and the apostles endured great suffering as they were treated as the refuse of the earth. They faced public slander, personal abuse, and were defamed by others. Yet, in response, they did not retaliate with hostility but rather, entreated God for their defamers. Their experiences reflect those who were considered the filth of the world, the offscouring of all things. Despite the intensity of their trials, they remained steadfast in their faith, exhibiting humility, grace, and unwavering dedication to their mission.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.526011435784282,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+            "commentatorTierSimilarities": [
+                26.38,
+                33.89,
+                39.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul and the apostles faced harsh treatment, being seen as the refuse of the world. They experienced defamation, slander, and personal abuse, enduring public curses and insults. However, they responded with gentleness, seeking the repentance and forgiveness of their defamers. Their suffering was likened to being the filth of the world, the offscouring of all things. Yet, throughout their apostolic lives, they remained steadfast, demonstrating humility, grace, and unwavering faith amidst intense persecution. Their example serves as a powerful testament to the endurance of believers in the face of opposition.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.5507410911123474,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.9,
+            "commentatorTierSimilarities": [
+                26.46,
+                35.0,
+                38.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:23:04",
+    "verseRef": "Luke 22:30",
+    "bestBHT": {
+        "bht": "To those who have been with Jesus through trials and temptations, He appoints a kingdom as their way to it is His way. The promise of honor awaits the loyal, who will eat, drink, and enjoy their reign with Him in the appointed kingdom. They will sit on thrones, not necessarily twelve, and their enjoyment is a direct promise. This picture of honor and dignity is applicable not only to the twelve apostles, but also to all of Christ's servants and disciples, who will experience spiritual powers, honors, and delights.",
+        "wordCount": 91,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 1.6175473413647241,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+        "commentatorTierSimilarities": [
+            25.23,
+            28.77,
+            46.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His way, which the Father appointed to Him, is to His Kingdom\u2014but it is through temptations.",
+            "To these, who have been with Him in these trials, He appoints a kingdom,\u2014but His way to it must be their way.",
+            "The sudden address to Simon may perhaps have been occasioned by some remark of his,\u2014or, which I think more probable, may have been made in consequence of some part taken by him in the preceding strife for precedence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "30. eat and drink, &amp;c.\u2014(See",
+            "\tLuke 22:16 and see on Luke 22:16- :, &amp;c.)."
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 19:28."
+        ],
+        "Philip Schaff": [
+            "That ye may eat, etc. The enjoyments of their reign, with Him in the kingdom appointed by His father, are thus set forth.\" ",
+            "And ye shall lit. A direct promise.",
+            "On thrones, etc. Not 'twelve thrones,' as Matthew 19:28, possibly on account of Judas. Notice the appropriateness of this verse, first in view of the feast before them; second, in view of the greatness which they anticipated, though so blind as to its character."
+        ],
+        "Archibald T. Robertson": [
+            "The picture seems to be that given in Matthew 19:28 when Jesus replied to Peter's inquiry.",
+            "It is not clear how literally this imagery is to be taken.",
+            "But there is the promise of honour for the loyal among these in the end."
+        ],
+        "John Gill": [
+            "In the ultimate glory, when the Lamb shall feed them, and shall lead them to fountains of water; and they shall never hunger nor thirst more, but shall have fulness of joy, and be satiated with pleasures that will never fade nor end.",
+            "Expressive of the great honour and dignity they were raised to, both in this, and the other world, from a low and mean estate, being before as beggars on the dunghill, now among princes, and on thrones, even on the same throne with Christ.",
+            "Doctrinally and ministerially; accusing the Jews, and arraigning them for the crucifixion of Christ; passing sentence upon them, and condemning them, and declaring that they should be damned for their disbelief and rejection of him."
+        ],
+        "John Wesley": [
+            "That ye may enjoy the highest happiness, as guests, not as servants.",
+            "These expressions seem to be primarily applicable to the twelve apostles.",
+            "...and secondarily, to all Christ's servants and disciples, whose spiritual powers, honors, and delights, are here represented in figurative terms."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To those who have been with Jesus through trials and temptations, He appoints a kingdom as their way to it is His way. The promise of honor awaits the loyal, who will eat, drink, and enjoy their reign with Him in the appointed kingdom. They will sit on thrones, not necessarily twelve, and their enjoyment is a direct promise. This picture of honor and dignity is applicable not only to the twelve apostles, but also to all of Christ's servants and disciples, who will experience spiritual powers, honors, and delights in figurative terms. Ultimately, they will be satiated with pleasures that never fade or end.",
+            "wordCount": 106,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.5459493643925297,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.75,
+            "commentatorTierSimilarities": [
+                24.77,
+                28.11,
+                47.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To those who have been with Jesus through trials and temptations, He appoints a kingdom as their way to it is His way. The promise of honor awaits the loyal, who will eat, drink, and enjoy their reign with Him in the appointed kingdom. They will sit on thrones, not necessarily twelve, and their enjoyment is a direct promise. This picture of honor and dignity is applicable not only to the twelve apostles, but also to all of Christ's servants and disciples, who will experience spiritual powers, honors, and delights.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.6175473413647241,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+            "commentatorTierSimilarities": [
+                25.23,
+                28.77,
+                46.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To those who have endured trials and temptations with Jesus, He appoints a kingdom, but the way to it must be their way. The promise of honor awaits the loyal, who will eat, drink, and enjoy their reign with Him in the appointed kingdom. They will sit on thrones, receiving the highest happiness as guests. This promise extends not only to the twelve apostles but also to all of Christ's servants and disciples, who will experience spiritual powers, honors, and delights beyond imagination.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.5207360258904643,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.91,
+            "commentatorTierSimilarities": [
+                25.0,
+                24.59,
+                50.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To those who have endured trials and temptations with Jesus, He appoints a kingdom. The promise of honor awaits the loyal, who will eat, drink, and enjoy their reign with Him. They will sit on thrones, receiving the highest happiness as guests. This promise extends to all of Christ's servants and disciples, who will experience spiritual powers, honors, and delights. They will be satiated with pleasures that never fade or end, experiencing the ultimate joy and dignity granted by Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.4777134139096446,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.48,
+            "commentatorTierSimilarities": [
+                23.34,
+                23.84,
+                52.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To those who have been with Jesus in trials, He appoints a kingdom. The loyal will eat, drink, and enjoy their reign with Him. They will sit on thrones, receiving happiness as guests. This promise extends to all of Christ's servants and disciples. They will experience spiritual powers, honors, and delights, being satiated with pleasures that never fade or end. The picture given in Matthew 19:28 is one of Jesus responding to Peter's inquiry, but it is not clear how literally this imagery is to be taken.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.5180127216857608,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.82,
+            "commentatorTierSimilarities": [
+                26.55,
+                31.95,
+                41.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

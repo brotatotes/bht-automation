@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:14:32",
+    "verseRef": "Luke 3:27",
+    "bestBHT": {
+        "bht": "Salathiel in Luke's genealogy is linked to Jeconias in Matthew's genealogy. The possibility of a Levirate marriage or Salathiel marrying Neri's daughter may explain the difference in genealogies. While the two genealogies may not coincide, these variations make sense during the beginning of the captivity. Furthermore, some scholars suggest that Salathiel is the same person as Shealthiel.",
+        "wordCount": 60,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.0759636742181737,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.12,
+        "commentatorTierSimilarities": [
+            28.28,
+            45.34,
+            26.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "27.] of Salathiel... of Neri: in Matt. i. 12, \u201cJeconias begat Salathiel.\u201d"
+        ],
+        "Philip Schaff": [
+            "We may assume a Levirate marriage, or the marriage of Salathiel with a daughter of Neri.",
+            "Here the two genealogies probably, but not certainly, coincide.",
+            "Just at that point of the history (the beginning of the captivity) such things would be most likely to occur."
+        ],
+        "John Gill": [
+            "Which was the son of Rhesa, called, by the above writer, Rhesa Mesullam...and said, by him, to govern sixty six years.\" ",
+            "which was the son of Zorobabel who governed fifty eight years.",
+            "which was the son of Salathiel; the same with Shealthiel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Salathiel, mentioned in Luke 3:27, is connected to Jeconias in Matthew's genealogy. Some commentators suggest the possibility of a Levirate marriage or Salathiel marrying a daughter of Neri, which could explain the difference in genealogies. While the two genealogies may not necessarily coincide, it is worth noting that such variations might occur during the beginning of the captivity. Other scholars highlight that Salathiel is the same person as Shealthiel.",
+            "wordCount": 69,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.0739933652686415,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.05,
+            "commentatorTierSimilarities": [
+                31.06,
+                43.72,
+                25.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Salathiel in Luke's genealogy is linked to Jeconias in Matthew's genealogy. The possibility of a Levirate marriage or Salathiel marrying Neri's daughter may explain the difference in genealogies. While the two genealogies may not coincide, these variations make sense during the beginning of the captivity. Furthermore, some scholars suggest that Salathiel is the same person as Shealthiel.",
+            "wordCount": 60,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.0759636742181737,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.12,
+            "commentatorTierSimilarities": [
+                28.28,
+                45.34,
+                26.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Salathiel, connected to Jeconias in Matthew's genealogy, is mentioned in Luke's genealogy. The potential of a Levirate marriage or Salathiel marrying Neri's daughter could account for the disparity in genealogies. Although the two genealogies may not precisely align, these discrepancies are plausible during the early stages of captivity. Additionally, it is proposed by some experts that Salathiel is the same individual as Shealthiel.",
+            "wordCount": 66,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 0.9578132524807903,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.19,
+            "commentatorTierSimilarities": [
+                32.16,
+                43.76,
+                24.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Salathiel, linked to Jeconias in Matthew's genealogy, appears in Luke's genealogy. The possibility of a Levirate marriage or Salathiel marrying Neri's daughter provides a potential explanation for the divergent genealogical accounts. Though the two genealogies may not exactly coincide, such variations could be expected during the early period of captivity. Moreover, some scholars suggest that Salathiel and Shealthiel are one and the same.",
+            "wordCount": 66,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 0.9908241017030334,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.29,
+            "commentatorTierSimilarities": [
+                27.12,
+                49.09,
+                23.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Salathiel, mentioned alongside Jeconias in Matthew's genealogy, is also found in Luke's genealogy. Some suggest that a Levirate marriage or Salathiel marrying Neri's daughter may explain the difference in genealogies. While the two genealogies may not precisely align, such variations are reasonable during the beginning of the captivity. It is also proposed by some scholars that Salathiel is actually Shealthiel.",
+            "wordCount": 63,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.0548053527621057,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.42,
+            "commentatorTierSimilarities": [
+                31.79,
+                42.28,
+                25.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

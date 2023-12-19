@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:15:21",
+    "verseRef": "3 John 4",
+    "bestBHT": {
+        "bht": "There is no greater joy for an apostle than to hear that his children, the members of the church, walk in truth. This joy surpasses any other, and it is shared by all true Christian pastors.",
+        "wordCount": 36,
+        "quoteTokenProportion": 57.58,
+        "qualityScore": 2.1446062658998946,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.65,
+        "commentatorTierSimilarities": [
+            23.81,
+            41.62,
+            34.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I have no greater joy than this, that I hear of my children walking in the truth.\" ",
+            "The expression children here seems rather to favour the idea that the 'Kyria' of the 2nd Epistle is a Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "my",
+            "\tchildren",
+            "\t\u2014 members of the Church: confirming the view that the \u201celect",
+            "\tlady\u201d is a Church."
+        ],
+        "Albert Barnes": [
+            "I have no greater joy than to hear that my children walk in truth.",
+            "This is such language as would be used by an aged apostle when speaking of those who had been converted by his instrumentality, and who looked up to him as a father.",
+            "The highest joy that a Christian parent can have is to know that his children, whether at home or abroad, adhere to the truths of religion, and live in accordance with the requirements of the gospel of Christ."
+        ],
+        "Marvin Vincent": [
+            "Greater joy than this have I not.",
+            "My own children.",
+            "Walking."
+        ],
+        "Archibald T. Robertson": [
+            "Greater (\u03bc\u03b5\u03b9\u03b6\u03bf\u03c4\u03b5\u03c1\u03b1\u03bd). A double comparative with -\u03c4\u03b5\u03c1\u03bf\u03c2 added to \u03bc\u03b5\u03b9\u03b6\u03c9\u03bd, like our 'lesser' and like \u03bc\u03b1\u03bb\u03bb\u03bf\u03bd \u03ba\u03c1\u03b5\u03b9\u03c3\u03c3\u03bf\u03bd (more better) in Philippians 1:23.",
+            "Joy (\u03c7\u03b1\u03c1\u03b1\u03bd). B reads \u03c7\u03b1\u03c1\u03b9\u03bd (grace).",
+            "Walking in truth (\u03b5\u03bd \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03bf\u03c5\u03bd\u03c4\u03b1). As in 2 John 1:4, which see."
+        ],
+        "John Gill": [
+            "I have no greater joy...than to hear that my children walk in truth.",
+            "Nothing that causes greater joy.",
+            "Those whose conversion he had been the instrument of."
+        ],
+        "John Wesley": [
+            "I have no greater joy than this.\" ",
+            "Such is the spirit of every true Christian pastor.",
+            "To hear that my children walk in the truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There is no greater joy for an apostle than to see the members of the church, whom he considers his own children, walking in truth. The apostle expresses his immense happiness when he hears that his spiritual children adhere to the teachings of the Gospel and live according to the principles of the faith. This joy is even greater because it surpasses any other kind of joy, and it is a sentiment shared by all true Christian pastors who desire nothing more than to see those they have influenced walking in the truth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 2.0670635493347875,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+            "commentatorTierSimilarities": [
+                24.72,
+                47.61,
+                27.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There is no greater joy for an apostle than to see the members of the church, whom he considers his own children, walking in truth. The apostle expresses his immense happiness when he hears that his spiritual children adhere to the teachings of the Gospel and live according to the principles of the faith. This joy is even greater because it surpasses any other kind of joy, and it is a sentiment shared by all true Christian pastors.",
+            "wordCount": 78,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.9981630941783468,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+            "commentatorTierSimilarities": [
+                24.61,
+                47.21,
+                28.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "There is no greater joy for an apostle than to hear that his children, the members of the church, walk in truth. This joy surpasses any other, and it is shared by all true Christian pastors.",
+            "wordCount": 36,
+            "quoteTokenProportion": 57.58,
+            "qualityScore": 2.1446062658998946,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.65,
+            "commentatorTierSimilarities": [
+                23.81,
+                41.62,
+                34.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer of this verse expresses intense joy in hearing that members of the church are walking in the truth. The term children can be interpreted as referring to the church, which further supports the idea of the elect lady being a church. The use of the term walking emphasizes the importance of action and lifestyle in living out the truth. This joy is not just any joy, but a joy that surpasses all others. It is the highest joy that a Christian parent, or in this case, a spiritual leader, can experience, knowing that those they have guided adhere to the truths of the faith and live according to the gospel.",
+            "wordCount": 112,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7515820081880626,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.58,
+            "commentatorTierSimilarities": [
+                27.45,
+                46.31,
+                26.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The utmost joy for the writer is the news of the church members walking in truth. The term children possibly suggests the church as the elect lady. It is a joy that surpasses all others, causing immense delight. This joy is experienced by a Christian parent and a true Christian pastor alike, to know that those they have guided are steadfast in their commitment to the faith. Walking in truth signifies the importance of action and living in alignment with the gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7078662716572617,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.13,
+            "commentatorTierSimilarities": [
+                29.39,
+                40.66,
+                29.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

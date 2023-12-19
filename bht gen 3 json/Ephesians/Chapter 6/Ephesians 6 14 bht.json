@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:35:03",
+    "verseRef": "Ephesians 6:14",
+    "bestBHT": {
+        "bht": "To be a strong Christian soldier, we must stand firm, not yielding or fleeing. The girdle of truth brings consistency and unity to our character, while the breastplate of righteousness safeguards our hearts from the attacks of Satan. By putting on the girdle of truth and the breastplate of righteousness, we are ready to stand our ground, remain obedient, and be secure from condemnation through the righteousness of Christ.",
+        "wordCount": 69,
+        "quoteTokenProportion": 38.64,
+        "qualityScore": 2.1472100908653102,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+        "commentatorTierSimilarities": [
+            32.16,
+            35.9,
+            31.95
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Standing, that is, maintaining our ground, not yielding or fleeing, is the grand aim of the Christian soldier."
+        ],
+        "Albert Barnes": [
+            "The \"girdle, or sash,\" was always with the ancients an important part of their dress, in war as well as in peace... The \"girdle\" seems sometimes to have been a cincture of iron or steel, and designed to keep every part of the armor in its place, and to gird the soldier on every side.",
+            "Truth preserves a man from those lax views of morals, of duty and of religion, which leave him exposed to every assault. It makes the soul sincere, firm, constant, and always on its guard.",
+            "The breast-plate defended the vital parts of the body; and the idea here may be that the integrity of life, and righteousness of character, is as necessary to defend us from the assaults of Satan, as the coat of mail was to preserve the heart from the arrows of an enemy."
+        ],
+        "Marvin Vincent": [
+            "The principal terms in this description of the christian armor are taken from the Septuagint of Isaiah.",
+            "Truth gives unity to the different virtues, and determinateness and consistency to character.",
+            "The breastplate covers the vital parts, as the heart."
+        ],
+        "John Calvin": [
+            "Truth, which means sincerity of mind, is compared to a girdle... Our attention is thus directed to the fountain of sincerity; for the purity of the gospel ought to remove from our minds all guile, and from our hearts all hypocrisy.",
+            "Secondly, he recommends righteousness, and desires that it should be a breastplate for protecting the breast... He enjoins us to be adorned, first, with integrity, and next with a devout and holy life.",
+            "Paul\u2019s design was to touch briefly on the most important points required in a Christian, and to adapt them to the comparison which he had already used."
+        ],
+        "Philip Schaff": [
+            "Having girt your loins with truth. Putting on the girdle was the first act in arming. \u2018An ungirded soldier would be a contradiction in terms\u2019 (Meyer).",
+            "In the Christian, armor \u2018truth\u2019 is the girdle. By this is not meant the word of God, which is mentioned in Ephesians 6:17, nor sincerity, nor mere truthfulness (in the sense of telling the truth); nor does the figure suggest a mere ornament. It refers to the state of heart answering to God\u2019s truth, the agreement of our convictions with what God has revealed.",
+            "Having put on the breastplate of righteousness. The breastplate was in many respects the most important piece of defensive armor, since it protected the heart and lungs. 'Righteousness' here cannot mean our own righteousness, but that which God provides, since the whole armor is from Him. But righteousness from Him is both imputed and inwrought; He both justifies and sanctifies His people."
+        ],
+        "Archibald T. Robertson": [
+            "Take your stand therefore\" (in view of the arguments made).",
+            "having girded your own loins.",
+            "Same metaphor of righteousness as breastplate."
+        ],
+        "John Gill": [
+            "Stand therefore,.... Keep your ground, do not desert the army, the church of Christ, nor his cause; continue in the station in which you are placed, keep your post, be upon your watch, stand upon your guard.",
+            "By which is meant the Gospel, and the several doctrines of it...it is a means of keeping them close to God and Christ, and of strengthening them against the assaults and attacks of Satan.",
+            "The righteousness of Christ...is a guard against, and repels the accusations and charges of Satan, and is a security from all wrath and condemnation."
+        ],
+        "John Wesley": [
+            "With truth \u2014 Not only with the truths of the gospel, but with 'truth in the inward parts;' for without this all our knowledge of divine truth will prove but a poor girdle 'in the evil day.'",
+            "And as a girded man is always ready to go on, so this seems to intimate an obedient heart, a ready will.",
+            "The righteousness of a spotless purity, in which Christ will present us faultless before God, through the merit of his own blood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To be a strong Christian soldier, we must stand firm and unmoved in the face of opposition. This requires us to gird ourselves with truth, which gives consistency and unity to our character. The breastplate of righteousness is essential for protecting our vital parts, just as integrity and righteousness safeguard our hearts from the attacks of the enemy. By putting on the girdle of truth and the breastplate of righteousness, we are ready to stand our ground and remain obedient to God's commands. Through the righteousness of Christ, we are secure from condemnation and accusations, and He will present us as faultless before God.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.9068028699070971,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                30.65,
+                34.68,
+                34.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To be a strong Christian soldier, we must stand firm, not yielding or fleeing, and maintain our ground. This means girding ourselves with truth, which brings consistency and unity to our character. The breastplate of righteousness is crucial, defending our vital parts and preserving our hearts. By putting on the girdle of truth and the breastplate of righteousness, we are ready to stand our ground, remain obedient, and be secure from condemnation through the righteousness of Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.000348129806774,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                34.68,
+                34.04,
+                31.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Maintaining our ground and not yielding or fleeing is the grand aim of the Christian soldier. The girdle of truth is essential, providing consistency and unity to our character. The breastplate of righteousness protects our vital parts, such as the heart, from the attacks of Satan. By putting on the girdle of truth and the breastplate of righteousness, we are ready to stand firm and be obedient to God. Through the righteousness of Christ, we are guarded against accusations and secure from condemnation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9870549168458027,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+            "commentatorTierSimilarities": [
+                34.57,
+                33.68,
+                31.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To be a strong Christian soldier, we must stand firm, not yielding or fleeing. The girdle of truth brings consistency and unity to our character, while the breastplate of righteousness safeguards our hearts from the attacks of Satan. By putting on the girdle of truth and the breastplate of righteousness, we are ready to stand our ground, remain obedient, and be secure from condemnation through the righteousness of Christ.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 2.1472100908653102,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+            "commentatorTierSimilarities": [
+                32.16,
+                35.9,
+                31.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Maintaining our ground and not yielding or fleeing is the main goal of the Christian soldier. To achieve this, we must gird ourselves with truth, which gives character consistency and unity. The breastplate serves to protect our vital parts, just like integrity safeguards the heart. By putting on the girdle of truth and the breastplate of righteousness, we are prepared to stand firm and obedient. Through the righteousness of Christ, we find security against condemnation and accusations.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8942084607205805,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                35.07,
+                33.54,
+                31.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

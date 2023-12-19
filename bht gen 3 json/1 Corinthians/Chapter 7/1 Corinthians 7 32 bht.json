@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:07:16",
+    "verseRef": "1 Corinthians 7:32",
+    "bestBHT": {
+        "bht": "I wish you to be free from worldly cares and undistracted, not troubled by the concerns of this life, so that you may sit loose to the world and instead focus on the things of the Lord. As an unmarried person, you have the advantage of being without distracting cares, enabling you to give your main attention to the advancement of the Redeemer's kingdom. Let go of the wicked carefulness that consumes people's thoughts and live in godly carelessness, pleasing the Lord with devoted attention to His work.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 2.1218156909649926,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.89,
+        "commentatorTierSimilarities": [
+            24.13,
+            51.32,
+            24.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But I wish you to be without worldly cares (undistracted).\" ",
+            "Since the time is so short, and that, in order that we Christians may sit loose to the world.",
+            "This touches on the subject."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I would have you to be not merely 'without trouble,' but 'without distracting cares'\".",
+            "If he uses aright the advantages of his condition\"."
+        ],
+        "Albert Barnes": [
+            "Without carefulness - (\u03b1\u0313\u03bc\u03b5\u03c1\u03b9\u0301\u03bc\u03bd\u03bf\u03c5\u03c2 amerimnous). Without anxiety, solicitude, care; without such a necessary attention to the things of this life as to take off your thoughts and affections from heavenly objects.\" ",
+            "careth for the things that belong to the Lord - His attention is not distracted by the cares of this life; his time is not engrossed, and his affections alienated by an attendance on the concerns of a family, and especially by solicitude for them in times of trial and persecution.\" ",
+            "He can give his main attention to the things of religion. He is at leisure to give his chief thoughts and anxieties to the advancement of the Redeemer\u2019s kingdom."
+        ],
+        "Marvin Vincent": [
+            "This wicked carefulness of men, when they seek how to live - like as if there were no God at all.",
+            "Rev., free from cares.",
+            "In godly carelessness."
+        ],
+        "John Calvin": [
+            "Marriage brings along with it hindrances, from which I should wish you to be free and exempt.",
+            "He desires all to enjoy this liberty. He does not mean, however, that it is invariably so in unmarried life.",
+            "But Paul's meaning is this \u2014 that an unmarried person is free, and is not hindered from thinking of the things of God."
+        ],
+        "Archibald T. Robertson": [
+            "Free from cares (\u03b1\u03bc\u03b5\u03c1\u03b9\u03bc\u03bd\u03bf\u03c5\u03c2). Old compound adjective (\u03b1 privative and \u03bc\u03b5\u03c1\u03b9\u03bc\u03bd\u03b1, anxiety).",
+            "The things of the Lord (\u03c4\u03b1 \u03c4\u03bf\u03c5 \u039a\u03c5\u03c1\u03b9\u03bf\u03c5). The ideal state.",
+            "How he may please the Lord (\u03c0\u03c9\u03c2 \u03b1\u03c1\u03b5\u03c3\u03b7 \u03c4\u03c9 \u039a\u03c5\u03c1\u03b9\u03c9). Deliberative subjunctive with \u03c0\u03c9\u03c2 retained in an indirect question."
+        ],
+        "John Gill": [
+            "I would have you without carefulness.",
+            "Such persons are more at leisure, and can more conveniently attend to these things.",
+            "When these things are attended to in faith and fear, from a principle of love, and with a view to the glory of God, the good of their own souls and others, they are well pleasing to the Lord."
+        ],
+        "John Wesley": [
+            "Now I would have you \u2014 For this flying moment.",
+            "Without carefulness \u2014 Without any incumbrance of your thoughts.",
+            "The unmarried man \u2014 If he understand and use the advantage he enjoys-Careth only for the things of the Lord, how he may please the Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I wish you to be free from worldly cares and undistracted, not troubled by the concerns of this life and instead focusing on the things of the Lord. In this short time we have, as Christians, it is important for us to let go of the anxieties and distractions that come from seeking the comforts and securities of the world. As an unmarried person, you have the freedom and leisure to devote your thoughts and affections to the advancement of the kingdom of God, without the hindrances that come with marriage and family. Therefore, let us live in godly carelessness, pleasing the Lord and being well-pleasing to Him by attending to the things of God with faith, love, and the desire for His glory.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 2.0327812086545167,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.93,
+            "commentatorTierSimilarities": [
+                19.74,
+                53.93,
+                26.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I wish you to be free from worldly cares and undistracted, not troubled by the concerns of this life and instead focusing on the things of the Lord. In this short time we have as Christians, it is important to let go of the anxieties and distractions that come from seeking the comforts of the world. As an unmarried person, you have the freedom to devote yourself to the things of God. Live in godly carelessness, pleasing the Lord by attending to His kingdom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9550163966203185,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.35,
+            "commentatorTierSimilarities": [
+                23.86,
+                48.56,
+                27.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I wish you to be free from worldly cares and undistracted, not troubled by the concerns of this life, so that you may sit loose to the world and instead focus on the things of the Lord. As an unmarried person, you have the advantage of being without distracting cares, enabling you to give your main attention to the advancement of the Redeemer's kingdom. Let go of the wicked carefulness that consumes people's thoughts and live in godly carelessness, pleasing the Lord with devoted attention to His work.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1218156909649926,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.89,
+            "commentatorTierSimilarities": [
+                24.13,
+                51.32,
+                24.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I desire that you be free from the distractions of worldly cares, for our time is short and we should not be consumed by the concerns of this life. As Christians, we ought to sit loose to the world and not be hindered from thinking of the things of God. For those who are unmarried, there is freedom to give primary attention to the things of the Lord, without the encumbrances of family and household responsibilities. Embrace this liberty and live in godly carelessness, seeking to please the Lord above all else.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.9604610844188142,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.53,
+            "commentatorTierSimilarities": [
+                23.53,
+                48.44,
+                28.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I wish for you to be free from worldly cares and undistracted, without the anxieties that come from seeking how to live. Our time on earth is short, so as believers, we should not be consumed by the concerns of this life but rather sit loose to the world. As an unmarried individual, you have the advantage of being free from hindrances, allowing you to give your main attention to the things of the Lord and please Him. Live in godly carelessness, attending to the things of God wholeheartedly.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.923456682369399,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.3,
+            "commentatorTierSimilarities": [
+                26.9,
+                44.57,
+                28.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

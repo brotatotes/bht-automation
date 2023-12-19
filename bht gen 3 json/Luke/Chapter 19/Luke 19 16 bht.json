@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:21:49",
+    "verseRef": "Luke 19:16",
+    "bestBHT": {
+        "bht": "In this scenario, each servant was given a pound, but only one servant truly worked and gained besides the original sum. The servant who had authority was told to be having authority, emphasizing the responsibility given to him. Despite the value of a pound, a whole city couldn't even be bought for that amount. The servant who gained ten pounds acknowledged the sovereignty of Christ and recognized that the gifts he had were ultimately Christ's.",
+        "wordCount": 77,
+        "quoteTokenProportion": 47.17,
+        "qualityScore": 1.359097302763185,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.53,
+        "commentatorTierSimilarities": [
+            29.75,
+            28.58,
+            41.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Hath gained [\u03c0\u03c1\u03bf\u03c3\u03b7\u03c1\u03b3\u03b1\u03c3\u03b1\u03c4\u03bf]... hath worked besides the original sum.",
+            "Have thou authority [\u03b9\u03c3\u03b8\u03b9 \u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03b1\u03bd \u03b5\u03c7\u03c9\u03bd] ... Be thou having authority.\" ",
+            "A city for a pound, yet not even a cottage could be bought for a pound."
+        ],
+        "Philip Schaff": [
+            "Thy pound; not \u2018I have gained\u2019 (Matt.). In the latter case, the trust was according to ability, here it was the same in every case; there the gain was proportioned to the trust, but here there was no such proportion; hence the more modest answer.",
+            "This also favors the view which interprets the \u2018pound\u2019 as the one official gift, with varied results.",
+            "Hade ten pounds more, i.e., in addition to itself."
+        ],
+        "Archibald T. Robertson": [
+            "Hath made (\u03c0\u03c1\u03bf\u03c3\u03b7\u03c1\u03b3\u03b1\u03c3\u03b1\u03c4\u03bf). Only here in the N.T. Note \u03c0\u03c1\u03bf\u03c3- in addition, besides, more. "
+        ],
+        "John Gill": [
+            "saying, Lord; acknowledging the sovereignty and dominion of Christ over them",
+            "thy pound hath gained ten pounds; it had been increased tenfold",
+            "This servant owns, that the gifts he had were Christ's"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Each servant in this passage was given a pound, but only one servant truly worked and gained besides the original sum. The servant who had authority was told to be having authority, emphasizing the responsibility given to him. Despite the value of a pound, a whole city couldn't even be bought for that amount. The servant who gained ten pounds acknowledged the sovereignty of Christ and recognized that the gifts he had were ultimately Christ's.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.3661694047312152,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.77,
+            "commentatorTierSimilarities": [
+                30.06,
+                27.33,
+                42.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Each servant in this scenario was entrusted with a pound, but only one servant worked and gained beyond the initial sum. The servant who possessed authority was instructed to continue having authority, highlighting the significance of the responsibility bestowed upon him. Although a pound may seem valuable, it is revealed that it would not have even been sufficient to purchase a cottage. The servant who achieved the most remarkable increase acknowledged the sovereignty and dominion of Christ, recognizing that the gifts he possessed ultimately belonged to Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.1383807173569118,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.19,
+            "commentatorTierSimilarities": [
+                27.7,
+                26.45,
+                45.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, each servant received a pound, yet only one servant went beyond the initial sum through his work. The servant entrusted with authority was instructed to continue having authority, emphasizing the significance of his responsibility. Despite the perceived value of a pound, it would not have been sufficient to buy even a small cottage. The servant who achieved the greatest increase acknowledged the sovereignty of Christ and recognized that the gifts he possessed ultimately belonged to Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.1922098334963012,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.98,
+            "commentatorTierSimilarities": [
+                32.0,
+                26.58,
+                41.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this scenario, each servant was given a pound, but only one servant truly worked and gained besides the original sum. The servant who had authority was told to be having authority, emphasizing the responsibility given to him. Despite the value of a pound, a whole city couldn't even be bought for that amount. The servant who gained ten pounds acknowledged the sovereignty of Christ and recognized that the gifts he had were ultimately Christ's.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.359097302763185,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.53,
+            "commentatorTierSimilarities": [
+                29.75,
+                28.58,
+                41.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, each servant received a pound, yet only one servant went beyond the initial sum through his work. The servant entrusted with authority was instructed to continue having authority, emphasizing the significance of his responsibility. Despite the perceived value of a pound, it would not have been sufficient to buy even a small cottage. The servant who achieved the greatest increase acknowledged the sovereignty of Christ and recognized that the gifts he possessed ultimately belonged to Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.1922098334963012,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.98,
+            "commentatorTierSimilarities": [
+                32.0,
+                26.58,
+                41.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

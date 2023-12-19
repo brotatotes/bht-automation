@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 15:16:54",
+    "verseRef": "2 Corinthians 8:3",
+    "bestBHT": {
+        "bht": "The Corinthians demonstrated incredible generosity and selflessness in their giving, going above and beyond what was expected of them. They willingly gave of themselves, choosing to provide for others even though they themselves were in need. Their giving was not only according to their ability, but even beyond it. It is truly admirable how they strived to give so much, even when their means were limited. This level of selflessness and generosity reveals a heart that is larger than one's own possessions, a willingness to give unasked and demonstrate a truly generous disposition.",
+        "wordCount": 94,
+        "quoteTokenProportion": 52.31,
+        "qualityScore": 1.9656908435682692,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+        "commentatorTierSimilarities": [
+            28.89,
+            30.07,
+            41.04
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For according to their power, I testify, and beyond their power, voluntarily,"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "According to their power . . . yea, and beyond their power, THEY GAVE.",
+            "Not only not being besought, but themselves beseeching us.",
+            "THEY GAVE of themselves."
+        ],
+        "Albert Barnes": [
+            "For to their power - To the utmost of their ability.",
+            "Yea, and beyond their power - Beyond what could have been expected; or beyond what it would have been thought possible in their condition.",
+            "Of themselves - Acting from choice, self-moved, voluntarily, of their own accord."
+        ],
+        "Marvin Vincent": [
+            "They were willing [\u03b1\u03c5\u03b8\u03b1\u03b9\u03c1\u03b5\u03c4\u03bf\u03b9] . The adjective stands alone. Only here and ver. 17. Lit., self - chosen, and so Rev., of their own accord."
+        ],
+        "John Calvin": [
+            "It was a great thing \u2014 to strive up to the measure of their ability; and hence, to exert themselves beyond their ability, showed a rare, and truly admirable excellence.",
+            "The Macedonians, on the other hand, making no account of themselves, and almost losing sight of themselves, concerned themselves rather as to providing for others.",
+            "In fine, those that are in straitened circumstances are willing beyond their ability, if they lay out anything upon others from their slender means."
+        ],
+        "Archibald T. Robertson": [
+            "Beyond their power (\u03c0\u03b1\u03c1\u03b1 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03bd). \"Alongside\" with accusative like \u03c5\u03c0\u03b5\u03c1 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03bd in 2 Corinthians 1:8.",
+            "\u03ba\u03b1\u03c4\u03b1 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03bd (according to actual ability). Paul commends this high pressure collection because of the emergency.",
+            "Of their own accord (\u03b1\u03c5\u03b8\u03b1\u03b9\u03c1\u03b5\u03c4\u03bf). Old verbal adjective (\u03b1\u03c5\u03c4\u03bf\u03c3, \u03b1\u03b9\u03c1\u03b5\u03c4\u03bf\u03c2 from \u03b1\u03b9\u03c1\u03b5\u03bf\u03bc\u03b1, to choose), of their own initiative, voluntary."
+        ],
+        "John Gill": [
+            "They gave according to their ability, to the utmost of it, which is the most that can be desired, or be given.",
+            "Their hearts were larger than their purses; they would gladly have done more than they had ability to do.",
+            "To give unasked discovers a very generous and beneficent disposition."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians demonstrated incredible generosity and selflessness in their giving, going above and beyond what was expected of them. They willingly gave of themselves, choosing to provide for others even though they themselves were in need. Their giving was not only according to their ability, but even beyond it. It is truly admirable how they strived to give so much, even when their means were limited. This level of selflessness and generosity reveals a heart that is larger than one's own possessions, a willingness to give unasked and demonstrate a truly generous disposition.",
+            "wordCount": 94,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 1.9656908435682692,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                28.89,
+                30.07,
+                41.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians displayed an extraordinary level of generosity and selflessness in their giving. Not only did they give according to their abilities, but they went beyond their means to provide for others. Their giving was voluntary, demonstrating their willingness to go the extra mile in helping those in need. Despite their own limitations, they prioritized the well-being of others and acted out of a selfless and benevolent disposition. Their example serves as an inspiration for us to give generously and without hesitation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.8588422976251684,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                30.69,
+                29.52,
+                39.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians displayed remarkable generosity by going above and beyond their capabilities to give. Their giving was voluntary, driven by their own initiative and selflessness. They willingly provided for others, even when they themselves were in need. This selfless act of giving not only shows their generosity but also their willingness to help others without being asked. It is truly inspiring how they exceeded their limits to benefit those in need.",
+            "wordCount": 71,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.913263753008682,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                31.68,
+                30.19,
+                38.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers in Corinth displayed an extraordinary level of generosity and selflessness in their giving. Not only did they give according to their own power, but they went beyond their means to give voluntarily. They were not compelled or persuaded to give, but rather, they took the initiative to give of themselves. This demonstrates a rare and admirable excellence, as they strived to meet the needs of others even when it seemed impossible in their own circumstances. Their hearts were larger than their resources, reflecting a truly generous and self-sacrificial spirit. They demonstrated a genuine desire to give, without needing to be asked, revealing their generous and beneficent disposition.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.959300364581661,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                32.19,
+                29.24,
+                38.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians gave generously, not only according to their means, but even beyond what was expected of them. Their giving was entirely voluntary and self-initiated, demonstrating their exceptional level of generosity. They did not hesitate to give, even when it seemed beyond their ability. This selflessness and willingness to provide for others reveals a rare and admirable excellence. Their hearts were larger than their purses, as they desired to give more than their own resources allowed. Their unasked giving displays their generous and beneficent disposition.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8834532782631535,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                29.96,
+                29.29,
+                40.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

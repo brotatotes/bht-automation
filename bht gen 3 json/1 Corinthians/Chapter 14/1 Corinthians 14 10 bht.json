@@ -1,0 +1,85 @@
+{
+    "timestamp": "12-19-2023 15:12:40",
+    "verseRef": "1 Corinthians 14:10",
+    "bestBHT": {
+        "bht": "There are various kinds of voices in the world, each with its own distinct mode of speech and meaning. None of these voices are without signification; they all carry a definite message. Every language has its purpose and significance, conveying ideas and bringing understanding to those who comprehend it. The multitude of voices we hear reminds us to speak in a way that can be understood, just as every word in a language has a meaning that cannot be conveyed without a voice.",
+        "wordCount": 83,
+        "quoteTokenProportion": 52.54,
+        "qualityScore": 2.5130466414739336,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.9,
+        "commentatorTierSimilarities": [
+            30.13,
+            36.64,
+            33.23
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "none, i.e. none of them, no kind of voice. is without signification; or, is inarticulate."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It may chance\" (:-) - speaking by conjecture or perhaps.",
+            "So much\" - used generally for a definite number left undefined.",
+            "None is without its own voice, or mode of speech, distinct from the rest."
+        ],
+        "Albert Barnes": [
+            "There are perhaps, or for example, very many kinds of voices in the world; and all are significant.\" ",
+            "None are used by those who speak them without meaning; none speak them without designing to convey some intelligible idea to their hearers.\" ",
+            "They should speak them only when and where they would be understood."
+        ],
+        "Marvin Vincent": [
+            "Voices - without signification [\u03c6\u03c9\u03bd\u03c9\u03bd - \u03b1\u03c6\u03c9\u03bd\u03c9\u03bd] . The translation loses the word - play. So many kinds of voices, and no kind is voiceless. By voices are meant languages."
+        ],
+        "John Calvin": [
+            "The whole order of nature, therefore, as appointed by God, invites us to observe a distinction.",
+            "Every language is intelligible to some nation or other; and it is only to persons who are ignorant of it, that its words are destitute of signification.",
+            "It shows us, in a manner, that we must speak so as to be understood."
+        ],
+        "Philip Schaff": [
+            "There are so many kinds of voices in the world, and no kind is without signification without definite meaning.",
+            "There are so many kinds of voices in the world.",
+            "No kind is without signification without definite meaning."
+        ],
+        "Archibald T. Robertson": [
+            "It may be (\u03b5 \u03c4\u03c5\u03c7\u03bf). Condition of fourth class (\u03b5 and aorist optative of \u03c4\u03c5\u03b3\u03c7\u03b1\u03bd\u03c9), if it should happen.",
+            "Without signification (\u03b1\u03c6\u03c9\u03bd\u03bf\u03bd). Old adjective (\u03b1 privative and \u03c6\u03c9\u03bd\u03b7). Without the faculty of speech.",
+            "Without the faculty of speech (1 Corinthians 12:2; Acts 8:32; 2 Peter 2:16)."
+        ],
+        "John Gill": [
+            "There are, it may be, so many kinds of voices... and none of them is without signification.\" ",
+            "Every language, and every word in a language, has a meaning in it, an idea annexed to it.",
+            "which it conveys to him that understands it, and that cannot be done without a voice ordinarily speaking."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "There are various kinds of voices in the world, each with its own distinct mode of speech and meaning. None of these voices are without signification; they all carry a definite message. Every language has its purpose and significance, conveying ideas and bringing understanding to those who comprehend it. The multitude of voices we hear reminds us to speak in a way that can be understood, just as every word in a language has a meaning that cannot be conveyed without a voice.",
+            "wordCount": 83,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.5130466414739336,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.9,
+            "commentatorTierSimilarities": [
+                30.13,
+                36.64,
+                33.23
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

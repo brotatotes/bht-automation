@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:17:52",
+    "verseRef": "2 Corinthians 10:17",
+    "bestBHT": {
+        "bht": "The only legitimate boasting consists in the Lord, the Source of all grace and success in the ministry, as opposed to boasting in another's line. The only true boasting is in the Lord, as Paul quotes Proverbs 27:2 to emphasize. We must ascribe all valuable things to Him and place our glory at His disposal alone, acknowledging that only He has the right to judge us. Our true glory is found in the Lord Jesus Christ, the author of all gifts.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 2.276489827134959,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.03,
+        "commentatorTierSimilarities": [
+            38.74,
+            30.51,
+            30.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The only legitimate boasting must consist: viz. in the Lord, the Source of all grace and strength and success in the ministry.\" ",
+            "He sets forth to them, in contrast to this boasting themselves in another\u2019s line, which was the practice of his adversaries.\" ",
+            "In the Lord, the Source of all grace and strength and success in the ministry."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In contrast to his opponents' practice of boasting in another's line or sphere, Paul declares the only true boasting is in the Lord.",
+            "The only true boasting is in the Lord.",
+            "The only true boasting is in the Lord."
+        ],
+        "Albert Barnes": [
+            "Let him glory in the Lord - In this serious and weighty admonition, Paul designs, doubtless, to express the manner in which he was accustomed to glory, and to furnish an admonition to the Corinthians.",
+            "If they had anything valuable they should regard the Lord as the author of it.",
+            "If we glory it should be in the Lord. We should ascribe our talents, wealth, health, strength, and salvation to him."
+        ],
+        "John Calvin": [
+            "To glory in the Lord, however, is used here in a different sense from what it bears in the first chapter of the former Epistle (1 Corinthians 1:31) and in Jeremiah 9:24.",
+            "Here, however, it means \u2014 to place our glory at the disposal of God alone, and reckon everything else as of no value.",
+            "Let us know that to God alone must be reserved the right of passing judgment upon us; for we are not competent judges in our own cause."
+        ],
+        "Philip Schaff": [
+            "But he that glorieth, let him glory in the Lord.",
+            "So often had he to speak of 'glorying' that he here finds it needful to remind his readers and himself.",
+            "The one object of all legitimate glorying is 'the Lord'."
+        ],
+        "Archibald T. Robertson": [
+            "Paul quotes Proverbs 27:2. "
+        ],
+        "John Gill": [
+            "Not in himself, nor in his outward circumstances of life, or inward endowments of mind... but in the Lord Jesus Christ, as the author and donor of all gifts, natural and spiritual.\" ",
+            "In his wisdom, righteousness, sanctification, and redemption; and in his judgment and approbation of men and things.\" ",
+            "Glorieth, let him glory in the Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The only legitimate boasting consists in the Lord, the Source of all grace, strength, and success in the ministry, in contrast to others who boast in another's line or sphere. Paul quotes Proverbs 27:2 to emphasize that the only true boasting is in the Lord. It is an admonition for us to ascribe all valuable things, such as talents, wealth, health, and salvation, to Him. We must place our glory at the disposal of God alone, recognizing that only He has the right to judge us. Our glory should not be found in ourselves or in outward circumstances, but in the Lord Jesus Christ - the author and giver of all gifts.",
+            "wordCount": 111,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 2.1724016633983543,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.57,
+            "commentatorTierSimilarities": [
+                34.88,
+                31.17,
+                33.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The only legitimate boasting consists in the Lord, the Source of all grace and success in the ministry, as opposed to boasting in another's line. The only true boasting is in the Lord, as Paul quotes Proverbs 27:2 to emphasize. We must ascribe all valuable things to Him and place our glory at His disposal alone, acknowledging that only He has the right to judge us. Our true glory is found in the Lord Jesus Christ, the author of all gifts.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.276489827134959,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.03,
+            "commentatorTierSimilarities": [
+                38.74,
+                30.51,
+                30.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The only legitimate boasting must consist in the Lord, the Source of all grace and success in the ministry, contrasted with the practice of boasting in another's line. The only true boasting is in the Lord, as Paul quotes Proverbs 27:2. We should ascribe our talents and accomplishments to Him, recognizing that He is the author of all blessings. Our true glory is found in the Lord Jesus Christ, who gives us wisdom, righteousness, sanctification, and redemption.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.2541952335950084,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.29,
+            "commentatorTierSimilarities": [
+                40.59,
+                28.8,
+                30.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The only legitimate boasting must consist in the Lord, the Source of all grace and strength and success in the ministry. In contrast to boasting in another's line or sphere, Paul declares that the only true boasting is in the Lord. Let us ascribe our talents, wealth, health, and salvation to Him. Our glory should be placed at the disposal of God alone, recognizing that He is the competent judge. Our true boasting is found in the Lord Jesus Christ, as the author and donor of all gifts, natural and spiritual.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.045596090430866,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                34.87,
+                31.43,
+                33.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The only true boasting must consist in the Lord, the Source of all grace and success in the ministry, contrasting with the practice of boasting in another's line. Paul quotes Proverbs 27:2, emphasizing that the only legitimate glory should be given to God alone. Our talents, wealth, health, and salvation should be attributed to Him, recognizing His role as the competent judge. Our true pride is found in the Lord Jesus Christ, the author and giver of all gifts, both natural and spiritual.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.1154994137234824,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.68,
+            "commentatorTierSimilarities": [
+                37.72,
+                29.95,
+                32.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

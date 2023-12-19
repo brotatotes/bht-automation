@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:24:25",
+    "verseRef": "Luke 24:26",
+    "bestBHT": {
+        "bht": "The sufferings were the appointed way by which Christ should enter into His glory. It was essentially fitting that Christ should suffer, as it was foretold and necessary for the fulfillment of prophecies. The very things about His death that troubled them were the strongest proof of His identity as the Messiah. It was necessary for Christ to suffer those things in order to manifest God's justice, honor His law, and secure the redemption of humanity. Ought not Christ to have suffered and enter into His glory?",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.5505030630580015,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.14,
+        "commentatorTierSimilarities": [
+            30.46,
+            37.87,
+            31.66
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sufferings were the appointed way by which Christ should enter into His glory.",
+            "It was not the entering into His glory, but the suffering, about which they wanted persuading."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ought not Christ...to suffer...and enter...into His glory."
+        ],
+        "Albert Barnes": [
+            "Ought not Christ ... - Ought not the 'Messiah.' Was there not evidence that he would do it?\" ",
+            "The 'necessity' of his suffering these things referred to 'here' was that it was foretold that he 'would.'",
+            "The reason why it was predicted, and why it was necessary that it should occur, was that it was proper that God should manifest his justice, and do honor to his law, and secure the due regard for his government, while he pardoned the guilty."
+        ],
+        "Marvin Vincent": [
+            "In the eternal order of things, and in fulfilment of the eternal counsel of God as expressed in the prophecies, it was essentially fitting that Christ should suffer.",
+            "Beloved, it not the Christ to suffer?",
+            "It was essentially fitting."
+        ],
+        "John Calvin": [
+            "Christ did not, therefore, assert in three words, that Christ ought to have suffered, but explained at great length that he had been sent in order that he might expiate, by the sacrifice of his death, the sins of the world.",
+            "Christ is deprived of the honor due to him if he is not reckoned to be a sacrifice for sins, the only way by which he could enter into his glory was that humiliation or emptying out of which the Redeemer had arisen.",
+            "Hardly one person in ten thinks of the grace which has been brought to us by his death."
+        ],
+        "Philip Schaff": [
+            "Behooved it not (according to these prophecies) the Christ (of whom they speak) to suffer these things (which have made you sad), and (according to the prophets, by just such sufferings) to enter into his glory?\" ",
+            "The ground of these prophecies lies in a deeper necessity. If we may thus speak of it, the necessity of such sufferings, on His way to glory, for our redemption.",
+            "They needed most instruction about the necessity of such sufferings. Many doubting, unbelieving hearts need such instruction still: they talk of Christ\u2019s glory, and forget that the appointed way thither was through suffering."
+        ],
+        "Archibald T. Robertson": [
+            "The very things about the death of Jesus that disturbed them so were the strongest proof that he was the Messiah of the Old Testament.\" ",
+            "Was it not necessary?\" ",
+            "Behooved it not?"
+        ],
+        "John Gill": [
+            "Christ suffered many things in his personal character, being traduced as a sinful and wicked man, and a friend and encourager of sinners; as a man of immoral principles and practices...",
+            "He suffered greatly in his soul, partly from the temptations of Satan; and partly from the treatment of his own disciples, through the frowardness of their spirits...",
+            "Of all these there was a necessity; he ought to have suffered these things, as he did; the counsels and purposes of God, the covenant transactions and agreement he himself entered into with his Father, the prophecies of the Old Testament, and his own predictions concerning these things, together with the salvation of his people, in a way consistent with the justice of God, and the honour of his law, made them necessary."
+        ],
+        "John Wesley": [
+            "Ought not Christ [...] to have suffered these things? - These very sufferings which occasion your doubts, are the proofs of his being the Messiah.",
+            "And to enter into his glory \u2014 Which could be done no other way."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sufferings were the appointed way by which Christ should enter into His glory. Ought not Christ to suffer and enter into His glory? In the eternal order of things, and in fulfillment of the eternal counsel of God as expressed in the prophecies, it was essentially fitting that Christ should suffer. The very things about the death of Jesus that disturbed them so were the strongest proof that he was the Messiah. It was necessary and behooved Christ to suffer these things in order to enter into his glory. The reason for this necessity was to manifest God's justice, honor his law, and secure the due regard for his government while pardoning the guilty.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.5210446516133924,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.16,
+            "commentatorTierSimilarities": [
+                31.63,
+                38.0,
+                30.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sufferings were the appointed way by which Christ should enter into His glory. Ought not Christ to suffer and enter into His glory? It was essentially fitting that Christ should suffer. The very things about the death of Jesus that disturbed them so were the strongest proof that he was the Messiah. It was necessary and behooved Christ to suffer these things in order to enter into his glory. The reason for this necessity was to manifest God's justice, honor his law, and secure the due regard for his government while pardoning the guilty.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.5454293871523,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.98,
+            "commentatorTierSimilarities": [
+                32.9,
+                37.82,
+                29.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sufferings were the appointed way for Christ to enter into His glory. It was necessary and fitting for Him to suffer in order to fulfill the eternal counsel of God and the prophecies. The very things about His death that disturbed them were the strongest proof that He was the Messiah. The reason for this necessity was to manifest God's justice, honor His law, and secure the due regard for His government while pardoning the guilty. Ought not Christ to have suffered these things and enter into His glory?",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.474809157578264,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.63,
+            "commentatorTierSimilarities": [
+                30.57,
+                37.65,
+                31.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sufferings were the appointed way by which Christ should enter into His glory. It was essentially fitting that Christ should suffer, as it was foretold and necessary for the fulfillment of prophecies. The very things about His death that troubled them were the strongest proof of His identity as the Messiah. It was necessary for Christ to suffer those things in order to manifest God's justice, honor His law, and secure the redemption of humanity. Ought not Christ to have suffered and enter into His glory?",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.5505030630580015,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.14,
+            "commentatorTierSimilarities": [
+                30.46,
+                37.87,
+                31.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sufferings were the appointed way by which Christ should enter into His glory. It was essentially fitting that Christ should suffer, as it was foretold and necessary for the fulfillment of prophecies. The very things about His death that troubled them were the strongest proof of His identity as the Messiah. It was necessary for Christ to suffer those things in order to manifest God's justice, honor His law, and secure the redemption of humanity. Ought not Christ to have suffered and enter into His glory?",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.5505030630580015,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.14,
+            "commentatorTierSimilarities": [
+                30.46,
+                37.87,
+                31.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

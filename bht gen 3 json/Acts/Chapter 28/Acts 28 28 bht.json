@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:37:45",
+    "verseRef": "Acts 28:28",
+    "bestBHT": {
+        "bht": "The message of God\u2019s salvation, rejected by the Jews, is now sent to the Gentiles. Paul had witnessed the success of spreading the word among the Gentiles and anticipates the same outcome in the future. This shift fulfills God's plan for salvation to reach all nations. The gospel becomes the means by which people can be saved regardless of their background. It is a testament to Paul's unwavering faith and zeal in spreading the knowledge of God\u2019s saving grace. Through this transfer, God's salvation is extended to the Gentile world.",
+        "wordCount": 95,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.1022343115742745,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.24,
+        "commentatorTierSimilarities": [
+            27.14,
+            33.68,
+            39.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This the message of God\u2019s salvation, i.e. \u2018there is no other for those who reject this.\u2019\" ",
+            "They will also (besides having it sent to them) hear it.\" ",
+            "What Paul had learned by experience in many cities of Asia and Europe, viz. that the sowing of the word among the Gentiles was attended with more success, this he now anticipates also for the future."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The salvation of God is sent to the Gentiles, and they will hear.\" - Bengel",
+            "This departure to the Gentiles\" - Bengel",
+            "Thus in Asia, Greece, and Italy\" - Bengel"
+        ],
+        "Albert Barnes": [
+            "The salvation of God - The knowledge of God\u2019s mode of saving people.",
+            "If the gospel was rejected by one class of people he was ready to offer it to another.",
+            "How happy would it be if all Christians had the same unwavering faith and zeal as Paul."
+        ],
+        "John Calvin": [
+            "That the salvation whereof they were the proper, at least the principal heirs, should be translated unto strangers.",
+            "There is no cause why the Jews should complain if the Gentiles be admitted into the void possession after that they have forsaken it.",
+            "He signifieth that the doctrine which they refuse shall profit others."
+        ],
+        "Archibald T. Robertson": [
+            "This salvation (\u03c4\u03bf\u03c5\u03c4\u03bf \u03c4\u03bf \u03c3\u03c9\u03c4\u03b7\u03c1\u03b9\u03bf\u03bd). Adjective from \u03c3\u03c9\u03c4\u03b7\u03c1 (Saviour), saving, bringing salvation. Common in the old Greek.",
+            "The neuter as here often in LXX (as Psalms 67:2) as substantive like \u03c3\u03c9\u03c4\u03b7\u03c1\u03b9\u03b1 (cf. Luke 3:6).",
+            "They will also hear (\u03b1\u03c5\u03c4\u03bf \u03ba\u03b1 \u03b1\u03ba\u03bf\u03c5\u03c3\u03bf\u03bd\u03c4\u03b1). \u0391\u03c5\u03c4\u03bf as opposed to the rejection by the Jews, 'vivid and antithetical' (Page)."
+        ],
+        "John Gill": [
+            "That the salvation of God is sent unto the Gentiles.",
+            "That Gospel which proclaims this, and is the power of God unto it, to them that believe, is sent to the Gentile world, by God himself.",
+            "When the Gentiles, which knew not God, received the Gospel and are saved."
+        ],
+        "John Wesley": [
+            "The salvation of God is sent to the Gentiles \u2014 Namely, from this time. Before this no apostle had been at Rome. St. Paul was the first."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The message of God\u2019s salvation is sent to the Gentiles, as Paul had witnessed their receptiveness in various regions. The salvation that the Jews had rejected will now be offered to others who will hear and accept it. This shift to the Gentiles is significant, as it fulfills God's plan for salvation to reach all nations. The gospel becomes the means by which people can be saved, regardless of their background. It is a testament to Paul's unwavering faith and zeal in spreading the knowledge of God\u2019s mode of saving people. Through this transfer, God's salvation is extended to the Gentile world, fulfilling His ultimate purpose.",
+            "wordCount": 111,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.1606689543782203,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.18,
+            "commentatorTierSimilarities": [
+                26.97,
+                34.37,
+                38.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The message of God\u2019s salvation, rejected by the Jews, is now sent to the Gentiles who will hear and accept it. Paul had observed the success of spreading the word among Gentiles in various cities, and he anticipates the same outcome in the future. This shift to the Gentiles fulfills God's plan for salvation to reach all nations, reflecting His power in transforming lives. Paul's unwavering faith and zeal in sharing the gospel exemplify the importance of spreading the knowledge of God's saving grace to all people.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.0966553261843894,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.05,
+            "commentatorTierSimilarities": [
+                26.6,
+                33.78,
+                39.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's salvation, which the Jews rejected, is now being sent to the Gentiles. Paul had witnessed the success of spreading the word among the Gentiles in various regions and anticipates the same outcome in the future. This shift reflects God's plan for salvation to reach all nations. Paul's unwavering faith and zeal in sharing the gospel exemplify the importance of spreading the knowledge of God's saving grace to people from all backgrounds. Through this transfer, God's salvation is extended to the Gentile world, fulfilling His ultimate purpose.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.0979235247393517,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                27.34,
+                33.16,
+                39.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rejection of the Jews prompts the sending of God's salvation to the Gentiles, who will hear and accept it. Paul's experience in various cities highlights the success of spreading the word among the Gentiles, leading him to anticipate future growth. This shift to the Gentiles fulfills God's purpose, indicating that the message of salvation is not limited to a specific group but encompasses all nations. Paul's unwavering faith and zeal affirm the importance of sharing the knowledge of God's saving grace with diverse audiences, allowing them to experience salvation.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.049612840335384,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+            "commentatorTierSimilarities": [
+                28.21,
+                32.03,
+                39.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The message of God\u2019s salvation, rejected by the Jews, is now sent to the Gentiles. Paul had witnessed the success of spreading the word among the Gentiles and anticipates the same outcome in the future. This shift fulfills God's plan for salvation to reach all nations. The gospel becomes the means by which people can be saved regardless of their background. It is a testament to Paul's unwavering faith and zeal in spreading the knowledge of God\u2019s saving grace. Through this transfer, God's salvation is extended to the Gentile world.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.1022343115742745,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.24,
+            "commentatorTierSimilarities": [
+                27.14,
+                33.68,
+                39.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:16:28",
+    "verseRef": "2 Corinthians 6:9",
+    "bestBHT": {
+        "bht": "As God's ministers, we endure trials and persecution, facing the unknown and being ignored by the world. However, we are not truly unknown or ignored, for we are fully recognized by those who have heard our message and experienced its transformative power. Our lives may be compared to those who are dying, yet we are unexpectedly and triumphantly alive, thanks to God's intervention. We are chastened by him, but not killed, as our work is not yet done.",
+        "wordCount": 80,
+        "quoteTokenProportion": 45.28,
+        "qualityScore": 1.863788967956785,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+        "commentatorTierSimilarities": [
+            22.82,
+            35.52,
+            41.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and, behold, we live, is much stronger, more triumphant, than 'and living' would have been.",
+            "the as expresses just what it does in 'being, as we are'... viz. 'as God's ministers.'",
+            "The Lord hath chastened me sore: but He hath not given me over unto death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Unknown by men, yet acknowledged by God.",
+            "Behold calls attention to the fact as something beyond all expectation.",
+            "Chastened...not killed\u2014realizing Psalms 118:18."
+        ],
+        "Albert Barnes": [
+            "Though among strangers; though having no introduction from the great and the noble, yet they endeavored so to act as to convince the world that they were the ministers of God.",
+            "Though obscure in our origin, we are not obscure now. Though suspected of dark designs, yet our principles are all well known to the world.",
+            "They bore their trials with patience; submitted to these exposures without a complaint; and ascribed their preservation to the interposition of God."
+        ],
+        "Marvin Vincent": [
+            "Chastened. See ch. 2 Corinthians 12:7-9, and compare Psalms 118:18."
+        ],
+        "Philip Schaff": [
+            "as unknown by the great indifferent world, and yet well known by all who take the trouble to hear us, and specially by all who have felt the quickening power of our preaching.",
+            "We ever speak openly to the world; in secret have we said nothing.",
+            "as dying, and behold, we live... as chastened, and not killed."
+        ],
+        "Archibald T. Robertson": [
+            "As unknown and yet well known.",
+            "As ignored and yet fully recognized.",
+            "And behold, we live."
+        ],
+        "John Gill": [
+            "As unknown, and yet well known... they were not owned, esteemed, and approved of by them, but slighted, despised, hated, and persecuted.\" ",
+            "As dying, and behold we live... we live a spiritual life, a life of grace from Christ, a life of faith on him, and communion with him.",
+            "As chastened and not killed... God chastens by them, but does not as yet give over to death, because our time is not yet come, and our work not yet done."
+        ],
+        "John Wesley": [
+            "For the world knoweth us not, as it knew him not.",
+            "Yet well known - To God, and to those who are the seals of our ministry.",
+            "As dying, yet behold - Suddenly, unexpectedly, God interposes, and we live."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As God's ministers, we endure trials and persecution, facing the unknown and being ignored by the world. However, we are not truly unknown or ignored, for we are fully recognized by those who have heard our message and experienced its transformative power. Our lives may be compared to those who are dying, yet we are unexpectedly and triumphantly alive, thanks to God's intervention. We are chastened by him, but not killed, as our work is not yet done. The world may not fully know or understand us, but we are well known and acknowledged by God and those who have been touched by our ministry.",
+            "wordCount": 107,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.8824311064636798,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                22.98,
+                35.63,
+                41.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As God's ministers, we endure trials and persecution, facing the unknown and being ignored by the world. However, we are not truly unknown or ignored, for we are fully recognized by those who have heard our message and experienced its transformative power. Our lives may be compared to those who are dying, yet we are unexpectedly and triumphantly alive, thanks to God's intervention. We are chastened by him, but not killed, as our work is not yet done.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.863788967956785,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                22.82,
+                35.52,
+                41.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As ministers of God, we experience trials and persecution, often being overlooked and despised by the world. However, we are not truly unknown or ignored. Those who have heard our message and felt its profound impact recognize us fully. Our lives may resemble those on the brink of death, yet we are unexpectedly and triumphantly alive through God's intervention. He disciplines us, but does not allow us to be destroyed, for our purpose in His work is not yet complete.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.6590924099214073,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+            "commentatorTierSimilarities": [
+                24.22,
+                34.88,
+                40.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As ministers of God, we face trials, persecution, and the unknown. Though unrecognized by the world, we are known and acknowledged by those who have experienced the power of our message. Our lives may seem like we are dying, but we are unexpectedly and triumphantly alive, thanks to God's intervention. He chastens us, yet we are not destroyed, for our work is not yet finished. Despite being disregarded, we are recognized by God and those who have been touched by our ministry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.7909055737067725,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                24.59,
+                32.83,
+                42.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As ministers of God, we endure trials and persecution, facing the unknown and being ignored by the world. However, we are not truly unknown or ignored, for we are fully recognized by those who have heard our message and experienced its transformative power. Our lives may resemble those who are dying, yet we are unexpectedly and triumphantly alive, thanks to God's intervention. He chastens us but does not allow us to be destroyed, for our work is not yet complete.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.7712663252063212,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                22.79,
+                35.91,
+                41.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

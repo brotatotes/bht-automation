@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:26:02",
+    "verseRef": "Acts 3:26",
+    "bestBHT": {
+        "bht": "Peter, inspired by the Spirit, reveals that the true blessing the Messiah brings is not worldly prosperity, but rather the turning away from sin. By confronting his listeners with their guilt in crucifying the Lord, Peter offers the assurance of forgiveness and a glorious future to those who turn to Him. He warns them from their own Scriptures to submit to Christ and receive the blessings of salvation. This blessing is not confined to the Jews, but extends to all, as the glory of the Lord shines upon everyone.",
+        "wordCount": 89,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.2617814515332455,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.54,
+        "commentatorTierSimilarities": [
+            30.36,
+            34.88,
+            34.76
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Spirit in Peter overleapt the bounds of his subsequent prejudice with regard to the admission of the Gentiles:\u2014he never had any such prejudice, but only against their admission uncircumcised, and as Gentiles.",
+            "Again, not His Son, but His Servant.",
+            "He came blessing you (His coming was an act of blessing)\u2014in (as the conditional element of the blessing)\u2014turning every one from your iniquities: thus conferring on yon the best of blessings."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Hitherto we have all been looking too much for a Messiah who should shed outward blessings upon the nation generally, and through it upon the world. But we have learned other things, and now announce to you that the great blessing with which Messiah has come laden is the turning away of every one of you from his iniquities.",
+            "With what divine skill does the apostle, founding on resistless facts, here drive home to the conscience of his auditors their guilt in crucifying the Lord of Glory; then soothe their awakened minds by assurances of forgiveness on turning to the Lord, and a glorious future...",
+            "ending all with warnings, from their own Scriptures, to submit to Him if they would not perish, and calls to receive from Him the blessings of salvation."
+        ],
+        "Albert Barnes": [
+            "To bless you - To make you happy; to fulfill the promise made to Abraham.",
+            "The highest blessing that can be conferred upon people is to be turned from sin. Sin is the source of all woes, and if people are turned from that, they will be happy.",
+            "Christ blesses no one in sin, or while loving sin, but by turning them from sin."
+        ],
+        "Marvin Vincent": [
+            "His Son Jesus. The best texts omit Jesus. Render servant for son, and see on ver. 13. "
+        ],
+        "John Calvin": [
+            "We must always remember this, that all mankind is accursed, and, therefore, there is a singular remedy promised us, which is performed by Christ alone.",
+            "Christ was raised up then, when he fulfilled the function enjoined him by his Father, but the same thing is done daily when he is offered by the gospel, that he may excel amongst us.",
+            "Christ doth not do away the sins of the faithful, to the end they may grant liberty to themselves to sin under this color; but he maketh them therewith all new men."
+        ],
+        "Philip Schaff": [
+            "St. Peter here clearly recognises definitely that upon others as well as Israel, the glory of the Lord has risen.",
+            "The act of blessing not done once and for all, but a continuing one on the part of the Lord Jesus from His throne in heaven.",
+            "The promised blessing will come not to the man who merely professes an orthodox belief, but to the man who, receiving Jesus, lives the life which Jesus loves."
+        ],
+        "Archibald T. Robertson": [
+            "The Jews were first in privilege and it was through the Jews that the Messiah was to come for 'all the families of the earth.'\" ",
+            "The Messiah as God's Servant.",
+            "Present active participle to express purpose, blessing you."
+        ],
+        "John Gill": [
+            "Which may be understood, either of the incarnation of Christ, and his exhibition in the flesh...",
+            "...he was sent in the ministry of the word, and came by his Spirit, first to the Jews, among whom the Gospel was first preached for a while, and was blessed to the conversion of many thousands among them...",
+            "...in this the blessing lay, and is rightly in our version ascribed to Christ, and to the power of his grace, in the ministration of the Gospel and not to themselves..."
+        ],
+        "John Wesley": [
+            "To bless you, by turning you from your iniquities \u2014 Which is the great Gospel blessing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Peter, filled with the Spirit, proclaims that the blessing brought by the Messiah is not external and material, but rather the turning away from iniquities. With divine wisdom, Peter confronts his audience with their guilt in crucifying the Lord of Glory, while assuring them of forgiveness upon turning to the Lord. He warns them of the consequences of rejecting Him, emphasizing the need to submit and receive the blessings of salvation. This blessing is not limited to the Jews but extends to all, as the glory of the Lord has risen upon others as well. By blessing the people with the purpose of turning them from sin, Christ offers the highest form of happiness and fulfillment.",
+            "wordCount": 118,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 2.1469316465819057,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                29.36,
+                37.16,
+                33.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Peter, led by the Spirit, declares that the great blessing brought by the Messiah is not material prosperity, but rather the transformation of lives through the turning away from iniquities. Peter urges his audience to acknowledge their guilt in crucifying the Lord, while offering the assurance of forgiveness upon repentance. He warns them of the consequences of rejecting Him and emphasizes the need to submit to Christ in order to receive the blessings of salvation. This blessing extends to all people, as the glory of the Lord shines upon everyone.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.1141406041553767,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.64,
+            "commentatorTierSimilarities": [
+                29.53,
+                35.0,
+                35.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Peter, empowered by the Spirit, proclaims that the true blessing brought by the Messiah is not superficial, but rather the deliverance from sin. By confronting his listeners with the reality of their complicity in crucifying the Lord of Glory, Peter guides their awakened minds towards the assurance of forgiveness and a glorious future. He warns them from their own Scriptures to submit to Christ and receive the blessings of salvation. This blessing extends to all, surpassing any prejudices and bringing about the transformation of lives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.038556629320719,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.12,
+            "commentatorTierSimilarities": [
+                30.93,
+                32.6,
+                36.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, inspired by the Spirit, reveals that the true blessing the Messiah brings is not worldly prosperity, but rather the turning away from sin. By confronting his listeners with their guilt in crucifying the Lord, Peter offers the assurance of forgiveness and a glorious future to those who turn to Him. He warns them from their own Scriptures to submit to Christ and receive the blessings of salvation. This blessing is not confined to the Jews, but extends to all, as the glory of the Lord shines upon everyone.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2617814515332455,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.54,
+            "commentatorTierSimilarities": [
+                30.36,
+                34.88,
+                34.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, filled with the Spirit, declares that the true blessing brought by the Messiah is not earthly prosperity, but rather the turning away from sin. He confronts his audience with the undeniable guilt of crucifying the Lord of Glory, yet offers them the assurance of forgiveness and a glorious future if they turn to Him. Warning from their own Scriptures, he implores them to submit to Christ and receive the blessings of salvation. This blessing is not limited to a particular group, but extends to all, transforming lives through the power of grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.1594671624629145,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.14,
+            "commentatorTierSimilarities": [
+                29.71,
+                34.55,
+                35.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

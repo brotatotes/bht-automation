@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:30:07",
+    "verseRef": "2 Timothy 1:12",
+    "bestBHT": {
+        "bht": "Amidst his sufferings, Paul declared his unwavering trust in Jesus Christ, a strong Savior that a feeble faith could hold onto. Recognizing the two precious deposits entrusted by God, the revelation and believers, Paul was convinced that God's strength enabled him to remain faithful and unashamed. He saw his soul as a valuable deposit secured in the unbreakable bank of heaven. This understanding instilled in Paul a confident hope of eternal life, serving as his refuge against the unjust judgments of men.",
+        "wordCount": 83,
+        "quoteTokenProportion": 28.12,
+        "qualityScore": 1.7950264511663998,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+        "commentatorTierSimilarities": [
+            32.5,
+            30.72,
+            36.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I suffer even these things\"; the sufferings attendant on my being a prisoner.",
+            "I know WHOM I have believed; a feeble faith may clasp a strong Saviour.",
+            "There is one deposit (His revelation) committed by God to us, which we ought to keep and transmit to others; there is another committed by God to us, which we should commit to His keeping, namely, ourselves and our heavenly portion."
+        ],
+        "Albert Barnes": [
+            "For I know whom I have believed - Margin, 'trusted.' The idea is, that he understood the character of that Redeemer to whom he had committed his eternal interests, and knew that he had no reason to be ashamed of confiding in him.",
+            "A man has nothing of higher value to intrust to another than the interests of his soul, and there is no other act of confidence like that in which he intrusts the keeping of that soul to the Son of God.",
+            "This act of committing the soul, with all its interests, to the Saviour, is the true source of peace in the trials of life."
+        ],
+        "Marvin Vincent": [
+            "That which I have committed... that fair deposit... It was the gospel.",
+            "The paraqhkh or thing committed to him was the same as that which he had committed to Timothy.",
+            "I am convinced that God is strong to enable him to be faithful."
+        ],
+        "John Calvin": [
+            "It is an inconceivable consolation, when we are able to bring a good conscience in opposition to the unjust judgments of men.",
+            "This is the only place of refuge, to which all believers ought to resort, whenever the world reckons them to be condemned and ruined men; namely, to reckon it enough that God approves of them.",
+            "Let us always remember that Paul does not pursue philosophical speculations in the shade, but, having the reality before his eyes, solemnly declares, how highly valuable is a confident hope of eternal life."
+        ],
+        "Philip Schaff": [
+            "I am not ashamed of his work. Why should Timothy be ashamed of him?",
+            "In whom I have placed my trust.",
+            "God would guard His own work."
+        ],
+        "Archibald T. Robertson": [
+            "I am not ashamed.\" ",
+            "Paul knows Jesus Christ whom he has trusted.",
+            "My deposit, as in a bank, the bank of heaven which no burglar can break."
+        ],
+        "John Gill": [
+            "Nevertheless I am not ashamed; neither of the Gospel, and the truths and ordinances of it, for which he suffered; but he continued to own and confess it constantly, and to preach it boldly; none of these things moved him from it...\" ",
+            "For I know whom I have believed. A spiritual knowledge of Christ is necessary to faith in him...and the least measure of it is saving, and has eternal life connected with it...",
+            "And I am persuaded that he is able to keep that which I have committed unto him against that day...And what might induce the apostle, and so any other believer, to conclude the ability of Christ to keep the souls of those that are committed to him, are, his proper deity, he having all the fulness of the Godhead, or the perfections of deity dwelling in him..."
+        ],
+        "John Wesley": [
+            "That which I have committed to him \u2014 My soul.",
+            "Until that day \u2014 Of his final appearing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, as a prisoner, endured suffering, but he was not ashamed because he knew exactly whom he had believed in. His faith, though feeble, clung to a strong Savior. Paul, like a faithful guardian, had a deposit entrusted to him - the gospel, and he had committed it to Timothy. He was convinced that God, who had the power to enable him to be faithful, would guard this precious deposit. Paul unabashedly declared his confidence in Jesus Christ, the one in whom he had placed his trust. For he knew that his soul, this fair deposit, was securely held in the bank of heaven, impervious to any thief's attack.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.838208163019639,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                36.4,
+                33.59,
+                30.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, amidst his sufferings as a prisoner, confidently proclaimed that he knew the object of his faith. His trust rested in Jesus Christ, a Savior of great strength that even a feeble faith could hold onto. Paul understood that there were two types of deposits: the revelation committed by God to be cherished and shared, and the believers committed by God to be entrusted to His safekeeping. He was convinced that God's strength allowed him to remain faithful and unashamed. In this secure deposit, his soul, Paul found unwavering confidence, an impregnable bank protected by the mighty power of Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.7732608582651985,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.3,
+            "commentatorTierSimilarities": [
+                34.74,
+                32.06,
+                33.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst his sufferings, Paul declared his unwavering trust in Jesus Christ, a strong Savior that a feeble faith could hold onto. Recognizing the two precious deposits entrusted by God, the revelation and believers, Paul was convinced that God's strength enabled him to remain faithful and unashamed. He saw his soul as a valuable deposit secured in the unbreakable bank of heaven. This understanding instilled in Paul a confident hope of eternal life, serving as his refuge against the unjust judgments of men.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.7950264511663998,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                32.5,
+                30.72,
+                36.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of suffering, Paul knew precisely in whom he had placed his trust - Jesus Christ, the strong Savior. Though his faith may have been feeble, Paul was not ashamed, for he understood the value of committing his eternal interests to the Son of God. This act of entrusting his soul to Jesus brought peace in life's trials. Paul's unshakable confidence arose from the assurance that his precious deposit, his soul, was securely guarded by the unfailing power of Christ until the day of His final appearing.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.7706700932795258,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "commentatorTierSimilarities": [
+                27.94,
+                36.77,
+                35.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst his suffering as a prisoner, Paul declared his unwavering trust in Jesus Christ, a strong Savior who could be relied upon even by a feeble faith. He recognized the significance of the deposits entrusted to him: the revelation of God's truth and the believers themselves. Paul's conviction stemmed from the assurance that God's strength would enable him to remain faithful and unashamed. He regarded his soul as a valuable deposit secure in the unassailable bank of heaven, protected by the power of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.7622123310632256,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.94,
+            "commentatorTierSimilarities": [
+                33.62,
+                30.57,
+                35.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

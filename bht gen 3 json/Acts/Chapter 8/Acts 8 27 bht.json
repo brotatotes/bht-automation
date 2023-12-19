@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:28:25",
+    "verseRef": "Acts 8:27",
+    "bestBHT": {
+        "bht": "The Gospel in Acts is breaking down barriers, allowing those previously excluded from the congregation to receive baptism and inherit the promises of believers. The Ethiopian eunuch, as a Gentile proselyte who had come to Jerusalem, demonstrates the reach of Christianity beyond traditional boundaries. This encounter with Philip highlights the transformative power of the Gospel and suggests the eunuch's role in spreading Christianity to Ethiopia. The influence of Egypt is evident in the adoption of the Egyptian language in Ethiopia and the historical connection in transmitting the faith.",
+        "wordCount": 89,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.9115602847661721,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+        "commentatorTierSimilarities": [
+            50.82,
+            24.89,
+            24.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The walls of partition were one after another being thrown down: the Samaritans were already in full possession of the Gospel: it was next to be shewn that none of those physical incapacities which excluded from the congregation of the Lord under the old covenant, formed any bar to Christian baptism and the inheritance among believers.\" ",
+            "The stress of the narrative in ch. x consists in the miscellaneous admission of all the Gentile company of Cornelius, and their official reception into the church by that Apostle to whom was especially given the power.",
+            "If even the plain revelation by which the reception of Cornelius and his company was commanded failed finally to convince Peter, so that long after this he vacillated (Gal. ii. 11, 12), it is no argument for the eunuch not being a Gentile, that his conversion and baptism did not remove the prejudices of the Jewish Christians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "an eunuch of great authority\u2014Eunuchs were generally employed for confidential offices in the East, and to some extent are still.\" ",
+            "Candace\u2014the family name of the queens of Upper Egypt, like Pharaoh, C\u00e6sar, c. (as appears from classic authors).\" ",
+            "had come to Jerusalem to worship\u2014that is, to keep the recent feast of Pentecost, as a Gentile proselyte to the Jewish faith."
+        ],
+        "Albert Barnes": [
+            "Ethiopia proper lay south of Egypt, on the Nile, and was bounded north by Egypt, that is, by the cataracts near Syene; east by the Red Sea, and perhaps part by the Indian Ocean; south by unknown regions in the interior of Africa; and west by Libya and the deserts.\" ",
+            "Eunuchs were commonly employed in attendance on the females of the harem; but the word is often used to denote 'any confidential officer, or counselor of state.' It is evidently so used here.",
+            "The treasurer was an officer of high trust and responsibility."
+        ],
+        "Marvin Vincent": [
+            "The monuments prove beyond all question that the Ethiopians borrowed from Egypt their religion and their habits of civilization.\" ",
+            "They even adopted the Egyptian as the language of religion and of the court, which it continued to be till the power of the Pharaohs had fallen.",
+            "It was through Egypt, too, that Christianity passed into Ethiopia, even in the age of the apostles, as is shown by the eunuch of Queen Candace."
+        ],
+        "John Calvin": [
+            "Therefore, whosoever committeth the success to God, and goeth on forward thither whither he biddeth him, he shall at length try that all that falleth out well which is taken in hand at his appointment.",
+            "And if such a small sparkle of the knowledge of the law did so shine in him, what a shame were it for us to choke the perfect light of the gospel with unfaithful silence?",
+            "Whereas it is said that the law was abolished by Christ, as concerning the ceremonies, it is thus to be understood, that where Christ showeth himself plainly, those rites vanish away which prefigured him when he was absent."
+        ],
+        "Philip Schaff": [
+            "This man was not, as some have suggested, a Jew who lived in Ethiopia, but most probably was a heathen convert to Judaism, and now was returning home from a pilgrimage to the chief shrine of his adopted religion.",
+            "Candace was the ordinary name of the female rulers of Meroe, the north part of Ethiopia.",
+            "The title Candace was the customary title of the sovereign, as Pharaoh had been in Egypt, and C\u00e6sar continued to be in Rome."
+        ],
+        "Archibald T. Robertson": [
+            "Eunuchs were not allowed to be Jews in the full sense, but only proselytes of the gate. But Christianity is spreading to Samaritans and to eunuchs.",
+            "Candace. Not a personal name, but like Pharaoh and Ptolemy, the title of the queens of Ethiopia. This eunuch apparently brought the gospel to Ethiopia.",
+            "Treasure. Persian word, common in late Greek and Latin for the royal treasure, here only in the N.T."
+        ],
+        "John Gill": [
+            "he made no dispute about the matter, though he was directed only part of his way, and had no account of what he went about, or was to do",
+            "a note of admiration is prefixed, to observe to us what was remarkable in providence that just at this time, and in this way, such a man should be travelling; and what was still a greater wonder of grace, that such an one should be the object of God's peculiar favour",
+            "this great person said to be under Candace queen of the Ethiopians; that is, of those Ethiopians who inhabited the island of Meroe; for Candace, or Candaoce, as Pliny reads it, was a common name of the queens of that island"
+        ],
+        "John Wesley": [
+            "Chief officers were anciently called eunuchs, though not always literally such; because such used to be chief ministers in the eastern courts.",
+            "Candace, queen of the Ethiopians \u2014 So all the queens of Ethiopia were called."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of an Ethiopian eunuch who had come to Jerusalem to worship as a Gentile proselyte to the Jewish faith. The first-tier commentaries highlight the significance of this event, demonstrating that the Gospel was breaking down barriers and showing that physical incapacities which excluded individuals from the old covenant did not bar them from Christian baptism and the inheritance among believers. The eunuch, a person of great authority, was likely a Gentile convert to Judaism and was returning home after a pilgrimage. The mention of Candace, the title for the queens of Ethiopia, suggests that this eunuch played a role in bringing Christianity to Ethiopia. This encounter reveals the expansion of Christianity beyond traditional boundaries and emphasizes the transformative power of the Gospel.",
+            "wordCount": 126,
+            "quoteTokenProportion": 28.92,
+            "qualityScore": 1.9974026883065288,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+            "commentatorTierSimilarities": [
+                44.11,
+                28.0,
+                27.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The first-tier commentaries on this passage show that the Gospel was breaking down barriers, allowing individuals who were previously excluded from the congregation to receive Christian baptism and inherit the promises of believers. The Ethiopian eunuch, a person of authority, visited Jerusalem as a Gentile proselyte, demonstrating the reach of Christianity even beyond traditional boundaries. His encounter with Philip highlights the transformative power of the Gospel and suggests that he may have played a significant role in spreading Christianity to Ethiopia, showing the influence of Egypt in transmitting the faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.9645008767374637,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                49.25,
+                24.61,
+                26.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gospel in Acts is breaking down barriers, allowing those previously excluded from the congregation to receive baptism and inherit the promises of believers. The Ethiopian eunuch, as a Gentile proselyte who had come to Jerusalem, demonstrates the reach of Christianity beyond traditional boundaries. This encounter with Philip highlights the transformative power of the Gospel and suggests the eunuch's role in spreading Christianity to Ethiopia. The influence of Egypt is evident in the adoption of the Egyptian language in Ethiopia and the historical connection in transmitting the faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.9115602847661721,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+            "commentatorTierSimilarities": [
+                50.82,
+                24.89,
+                24.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Ethiopian eunuch, a Gentile proselyte who had come to Jerusalem to worship, symbolizes the breaking down of barriers in Acts. This encounter showcases that physical incapacities that once excluded individuals from the community no longer bar them from Christian baptism and inheritance among believers. The significance of the eunuch's high authority and potential role in bringing Christianity to Ethiopia highlights the transformative power of the Gospel, which transcends traditional boundaries and reveals the expansion of Christianity beyond expected limits.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.822816215496208,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.95,
+            "commentatorTierSimilarities": [
+                49.57,
+                22.45,
+                27.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Ethiopian eunuch, a Gentile convert to Judaism, represents the dismantling of barriers in Acts. His presence at Jerusalem reveals that physical disabilities are no longer obstacles to Christian baptism and inclusion among believers. With his position of authority, he likely played a crucial role in spreading Christianity to Ethiopia. This encounter demonstrates the transformative power of the Gospel, transcending traditional boundaries, and extending its reach to unexpected places. The influence of Egypt is evident in the adoption of Egyptian language and the historical connection in transmitting the faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.6591510967061618,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+            "commentatorTierSimilarities": [
+                50.11,
+                27.53,
+                22.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

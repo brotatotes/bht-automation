@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:21:21",
+    "verseRef": "Luke 18:29",
+    "bestBHT": {
+        "bht": "Christ graciously acknowledges the completeness and acceptableness of the surrender made by those who have forsaken their homes, families, and personal comforts for the Gospel's sake. This surrender encompasses every form of self-sacrifice and is not only for their own sake but also for the sake of Christ and the Gospel. It highlights the profound sacrifice and commitment that believers are called to make for the Kingdom of God. It teaches us to understand the Kingdom of God and the significance of leaving behind everything for Christ's sake and the sake of the Gospel.",
+        "wordCount": 97,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 1.2888619127314533,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.2,
+        "commentatorTierSimilarities": [
+            35.63,
+            0.0,
+            64.37
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "graciously acknowledging at once the completeness and the acceptableness of the surrender as a thing already made.\" ",
+            "to take in every form of self-sacrifice.",
+            "for MY sake and the Gospel's."
+        ],
+        "John Gill": [
+            "Verily I say unto you, there is no man... that hath left house, or 'houses'... or parents, or brethren, or wife, or children, for the kingdom of God's sake.\" ",
+            "That is, for Christ's sake, and for the sake of his Gospel.",
+            "And which teaches us how to understand the kingdom of God here, and elsewhere."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who have forsaken their homes, families, and personal comforts for the sake of the Gospel are graciously acknowledged by Christ, who sees their complete surrender and accepts it. This surrender encompasses all forms of self-sacrifice and is done not just for their own sake, but for the sake of Christ and the Gospel itself. This verse highlights the profound sacrifice and commitment that believers are called to make for the Kingdom of God, which encompasses a radical reordering of priorities and a willingness to forsake even the closest human ties for the sake of Christ and His message.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.2371221916031863,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.48,
+            "commentatorTierSimilarities": [
+                40.78,
+                0.0,
+                59.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who have forsaken their homes, families, and personal comforts for the sake of the Gospel are graciously acknowledged by Christ, who sees their complete surrender and accepts it. This surrender encompasses all forms of self-sacrifice and is done not just for their own sake, but for the sake of Christ and the Gospel itself. This verse highlights the profound sacrifice and commitment that believers are called to make for the Kingdom of God, which entails forsaking even the closest human ties for the sake of Christ and His message.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.221027635132357,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.94,
+            "commentatorTierSimilarities": [
+                38.87,
+                0.0,
+                61.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ recognizes and accepts the complete surrender of those who have given up their homes, families, and personal comforts for the sake of the Gospel. This surrender encompasses all forms of self-sacrifice and is not only for their own sake but also for the sake of Christ and the Gospel. It emphasizes the incredible sacrifice and commitment believers are called to make for the Kingdom of God, even if it means letting go of their closest relationships for the sake of spreading Christ's message.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.2731534951107526,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.68,
+            "commentatorTierSimilarities": [
+                39.45,
+                0.0,
+                60.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ graciously acknowledges the completeness and acceptableness of the surrender made by those who have forsaken their homes, families, and personal comforts for the Gospel's sake. This surrender encompasses every form of self-sacrifice and is not only for their own sake but also for the sake of Christ and the Gospel. It highlights the profound sacrifice and commitment that believers are called to make for the Kingdom of God. It teaches us to understand the Kingdom of God and the significance of leaving behind everything for Christ's sake and the sake of the Gospel.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.2888619127314533,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.2,
+            "commentatorTierSimilarities": [
+                35.63,
+                0.0,
+                64.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ graciously acknowledges and accepts the surrender of those who have forsaken their homes, families, and personal comforts for the sake of the Gospel. This surrender encompasses all forms of self-sacrifice and demonstrates a profound commitment to the Kingdom of God. It involves letting go of earthly attachments, for Christ's sake and the sake of the Gospel, and requires a radical reordering of priorities. This verse underscores the significance of sacrificing everything for the sake of spreading the message of Christ and participating in the Kingdom of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.1387353764038846,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.21,
+            "commentatorTierSimilarities": [
+                38.24,
+                0.0,
+                61.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

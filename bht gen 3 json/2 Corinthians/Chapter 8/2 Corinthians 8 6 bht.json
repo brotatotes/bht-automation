@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:17:08",
+    "verseRef": "2 Corinthians 8:6",
+    "bestBHT": {
+        "bht": "We besought Titus to complete among you the act of grace, as he had already begun it during his previous visit. We were moved by the generosity of the Macedonians and wanted to encourage you, the wealthy Corinthians, to not be outdone in your giving. We desired that Titus would ensure that this contribution, which exemplifies love and beneficence, would be finished among you. We were astonished by the eagerness and liberality of the poor Macedonians, and we want the Corinthians to demonstrate the same level of enthusiasm in their giving.",
+        "wordCount": 91,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.1268571760164363,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+        "commentatorTierSimilarities": [
+            30.19,
+            36.88,
+            32.93
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So that we besought Titus, that as he had before begun it, so he would also complete among you this grace also.",
+            "This grace also, as well as other graces.",
+            "Exhortations and inducements to perform this act of charity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As we saw the Macedonians' alacrity in giving, we could not but exhort Titus, that as we collected in Macedonia, so he in Corinth should complete the work of collecting which he had already begun there.\" ",
+            "Lest ye, the wealthy people of Corinth, should be outdone in liberality by the poor Macedonians.\" ",
+            "Complete among you this act of grace or beneficence on your part."
+        ],
+        "Albert Barnes": [
+            "We were encouraged by this unexpected success among the Macedonians. We were surprised at the extent of their liberality.\" ",
+            "Lest you should be outstripped in liberality by the comparatively poor Macedonian Christians, we were anxious that you should perform what you had promised and contemplated.",
+            "The same grace also refers to the contribution which he wished to be made."
+        ],
+        "Marvin Vincent": [
+            "Had made a beginning before: on his first visit to Corinth.",
+            "Should complete among you the act of love, the contribution already begun.",
+            "In addition to whatever else He has yet to complete among you."
+        ],
+        "John Calvin": [
+            "That we should exhort Titus. Now this is an exhortation that is of greater force, when they learn that they are expressly summoned to duty.\" (667)",
+            "Nor was it offensive to the Macedonians, that he was desirous to have the Corinthians as partners in beneficence.\" (667)",
+            "In the mean time an apology is made for Titus, that the Corinthians may not think that he pressed too hard upon them, as if he had not confidence in their good disposition.\" (667)"
+        ],
+        "Philip Schaff": [
+            "Insomuch that we desired Titus, that as he had made a beginning before... so he would complete in you this grace also.",
+            "when he went with others to Corinth",
+            "and availed himself of that opportunity to bring the proposal for this collection before them"
+        ],
+        "Archibald T. Robertson": [
+            "Use of \u03b5\u03b9\u03c2 \u03c4\u03bf and the infinitive for result with accusative of general reference.",
+            "First aorist active indicative of the double compound verb \u03c0\u03c1\u03bf-\u03b5\u03bd-\u03b1\u03c1\u03c7\u03bf\u03bc\u03b1, still found only here and verse 2 Corinthians 8:10, to make a start before others.",
+            "First aorist (effective) active subjunctive of \u03b5\u03c0\u03b9\u03c4\u03b5\u03bb\u03b5\u03c9, to finish, with perfective use of \u03b5\u03c0 in composition."
+        ],
+        "John Gill": [
+            "Observing the very great readiness, cheerfulness, and liberality of the poor Macedonians in this matter, the apostles could do no other than desire Titus to forward, hasten, and accomplish a like liberal contribution among the Corinthians...",
+            "...that as he had already moved this affair to the Corinthians while he was with them, and had made some progress in it, though what, through one thing or another, it had been retarded, and lay in some measure neglected; that he might be desired to go again, on purpose to complete so good a work, so acceptable to God, and so useful to the poor saints...",
+            "...since they had not only the example of the Macedonian churches, but it was even at their request that Titus was desired to go upon this errand..."
+        ],
+        "John Wesley": [
+            "As he had begun \u2014 When he was with you before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We besought Titus to complete among you the act of grace, as he had already begun it during his previous visit. We were moved by the generosity of the Macedonians and wanted to encourage you, the wealthy Corinthians, to not be outdone in your giving. We desired that Titus would ensure that this contribution, which exemplifies love and beneficence, would be finished among you. We were astonished by the eagerness and liberality of the poor Macedonians, and we want the Corinthians to demonstrate the same level of enthusiasm in their giving.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.1268571760164363,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+            "commentatorTierSimilarities": [
+                30.19,
+                36.88,
+                32.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We besought Titus to complete among you the act of grace, as he had already begun it during his previous visit. We were moved by the generosity of the Macedonians and wanted to encourage you to not be outdone in your giving. We desired that Titus would ensure that this contribution, which exemplifies love and beneficence, would be finished among you. We were astonished by the eagerness and liberality of the poor Macedonians, and we want the Corinthians to demonstrate the same level of enthusiasm in their giving.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.102124994943683,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.24,
+            "commentatorTierSimilarities": [
+                30.15,
+                38.01,
+                31.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We besought Titus to complete among you the act of grace, as he had already begun it during his previous visit. We desired that he would ensure the Corinthians' contribution, which exemplifies love and beneficence, would be finished. We were moved by the generosity of the Macedonians and wanted to encourage the Corinthians to not be outdone in their giving. We were astonished by the eagerness and liberality of the poor Macedonians and hope the Corinthians would show the same enthusiasm.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.0818724122000685,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+            "commentatorTierSimilarities": [
+                29.36,
+                37.5,
+                33.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We appealed to Titus to complete among you the act of grace, as he had already begun it during his earlier visit. We were motivated by the astonishing generosity of the poor Macedonians, as we did not want the Corinthians to be surpassed in their liberality. We urged Titus to ensure that this act of love and beneficence would be fulfilled in your midst. We were inspired by the eagerness and cheerfulness displayed by the Macedonians and hope that the Corinthians would emulate their enthusiasm.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.046938107714934,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.4,
+            "commentatorTierSimilarities": [
+                28.87,
+                37.78,
+                33.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We implored Titus to complete among you this act of grace, just as he had already begun it during his previous visit. We were prompted by the incredible willingness and generosity displayed by the Macedonians, as we did not want the Corinthians to be outdone in their giving. We encouraged Titus to ensure that this contribution, which exemplifies love and beneficence, would be accomplished among you. We were astounded by the eagerness and liberality of the poor Macedonians and hoped that the Corinthians would match their enthusiasm.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.084722306456147,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                28.75,
+                38.67,
+                32.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

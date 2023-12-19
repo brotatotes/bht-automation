@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:19:55",
+    "verseRef": "Luke 14:35",
+    "bestBHT": {
+        "bht": "It is of no use for either the land or the dunghill; it must be utterly cast out, just like other useless things such as a mere external profession of religion or professors and ministers without the grace of God. These graceless individuals are not beneficial but rather hurtful to the church and the world, warranting their exclusion from the kingdom of heaven. With the repeated saying of having ears to hear, it is important that this point is understood and heeded by all.",
+        "wordCount": 84,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 1.471608341182405,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.27,
+        "commentatorTierSimilarities": [
+            24.98,
+            24.5,
+            50.52
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "it is of no use for either of those purposes, but must be utterly cast out."
+        ],
+        "Philip Schaff": [
+            "Neither for the land, nor for the dunghill. Fuller than Matthew 5:13: \u2018good for nothing.\u2019 It is not useful directly or indirectly.",
+            "Men east it out (emphatically), because it is thus useless.",
+            "He that hath ears to hear, etc. This common formula calls attention to the importance of what had been said, implying that it has an application to all the hearers, and admonishing them to make that application to their own hearts."
+        ],
+        "Archibald T. Robertson": [
+            "Dunghill (\u03ba\u03bf\u03c0\u03c1\u03b9\u03b1\u03bd). Later word in the Koine vernacular. Here only in the N.T., though in the LXX.",
+            "Men cast it out (\u03b5\u03be\u03c9 \u03b2\u03b1\u03bb\u03bb\u03bf\u03c5\u03c3\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf). Impersonal plural.",
+            "Another repeated saying is the one here about having ears to hear (Luke 8:8; Luke 14:35; Matthew 11:15; Matthew 13:43)."
+        ],
+        "John Gill": [
+            "And just such useless things, are a mere external profession of religion, and professors of it, and ministers of the word, without the grace of God; they are of no use, but hurtful to the church, and to the world.",
+            "Such graceless professors and ministers, are to be cast out of the churches of Christ now, and will be excluded the kingdom of heaven hereafter.",
+            "He that hath ears to hear, let him hear; this being a point of great importance and consequence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is of no use for either the land or the dunghill; it must be utterly cast out, just like other useless things such as a mere external profession of religion or professors and ministers without the grace of God. These graceless individuals are not beneficial but rather hurtful to the church and the world, warranting their exclusion from the kingdom of heaven. With the repeated saying of having ears to hear, it is important that this point is understood and heeded by all.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.471608341182405,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.27,
+            "commentatorTierSimilarities": [
+                24.98,
+                24.5,
+                50.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is of no use for either the land or the dunghill; it must be utterly cast out, just like a mere external profession of religion or graceless individuals without the grace of God. They are not beneficial but rather hurtful to the church and the world, warranting their exclusion from the kingdom of heaven. With the repeated saying of having ears to hear, it is important that this point is understood and heeded by all.",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.4518777422553775,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.62,
+            "commentatorTierSimilarities": [
+                27.94,
+                26.32,
+                45.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Like a useless thing that is cast out, it is of no use for either the land or the dunghill. This applies to a mere external profession of religion, as well as graceless professors and ministers without the grace of God. Such individuals are more harmful than beneficial to the church and the world. They will be cast out of the churches of Christ and excluded from the kingdom of heaven. Understanding the significance of this, it is important for those who have ears to hear to pay attention and take it to heart.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.3379666415060287,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+            "commentatorTierSimilarities": [
+                25.47,
+                24.37,
+                50.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Like a useless thing that is cast out, a mere external profession of religion, as well as graceless professors and ministers without the grace of God, are of no use for either the land or the dunghill. These individuals are more harmful than beneficial to the church and the world, warranting their exclusion from the kingdom of heaven. Understanding the importance of this, it is crucial for those with ears to hear to pay attention and take it to heart.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.329464137002977,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.55,
+            "commentatorTierSimilarities": [
+                19.73,
+                26.6,
+                53.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Like a useless thing that is cast out, a mere external profession of religion, as well as graceless professors and ministers without the grace of God, are of no use for either the land or the dunghill. These individuals are more harmful than beneficial to the church and the world, warranting their exclusion from the kingdom of heaven. Understanding the importance of this, it is crucial for those with ears to hear to pay attention and take it to heart.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.329464137002977,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.55,
+            "commentatorTierSimilarities": [
+                19.73,
+                26.6,
+                53.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

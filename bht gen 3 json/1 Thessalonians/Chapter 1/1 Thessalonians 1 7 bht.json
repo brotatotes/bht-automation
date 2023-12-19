@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 13:57:51",
+    "verseRef": "1 Thessalonians 1:7",
+    "bestBHT": {
+        "bht": "The Thessalonians' Christian character made them stand out among believers, serving as a model for churches in Macedonia and Achaia. Their past conduct became a pattern for all believers, demonstrating the mark of their faith through good works and acts of benevolence. The church in Thessalonica's influence extended beyond their city, impacting other churches in the community and even reaching distant lands. Their courage and zeal set a rule of constancy for other believers to follow, earning them the honor of being an example for other churches in the region.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.8947156528704197,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.34,
+        "commentatorTierSimilarities": [
+            27.29,
+            44.38,
+            28.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Further specification of the eminence of the Thessalonians\u2019 Christian character.",
+            "the only church in Europe which was in Christ before the Thessalonian was the Philippian.",
+            "Macedonia and Achaia, the two Roman provinces, comprehending Northern and Southern Greece."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their past conduct is an ensample to all believers now.",
+            "The Macedonian Church of Philippi was the only one in Europe converted before the Thessalonians.",
+            "He means their past conduct is an ensample to all believers now."
+        ],
+        "Albert Barnes": [
+            "They became, as it were, a model or pattern after which the piety of others should be moulded, or showed what the piety of others ought to be.",
+            "The influence of a city church may be felt, and will usually be felt afar on the other churches of a community - just as, in all other respects, a city has an important influence on the country at large.",
+            "A revival of religion in such a place will extend its influence afar to other places, and appropriate zeal among the friends of the Redeemer there may have an important effect on sea-ports, and towns, and lands far remote."
+        ],
+        "Marvin Vincent": [
+            "An ensample [\u03c4\u03c5\u03c0\u03bf\u03bd] . See on 1 Peter 5:3.",
+            "Macedonia and Achaia. Shortly after 146 B. C., all Greece south of Macedonia and Epirus was formed into a Roman province under the name of Achaia, and Macedonia with Epirus into another province called Macedonia."
+        ],
+        "John Calvin": [
+            "It is a great thing to get so decidedly the start of those who had entered upon the course before us.\" ",
+            "He says, then, that the courage of the Thessalonians had been so illustrious, that other believers had borrowed from them a rule of constancy.\" ",
+            "The plural number expresses, in my opinion, something more than if he had said that that Church as a body had been set forward for imitation, for the meaning is, that there were as many patterns as there were individuals."
+        ],
+        "Philip Schaff": [
+            "Ye became an ensample... The true followers became themselves in turn patterns for others.\" ",
+            "All that believe, i.e. all the believers, whether their conversion preceded or followed that of the Thessalonians.\" ",
+            "In Macedonia and Achaia. These two provinces at this time included the whole of Greece, the former being the northern, and the latter the southern portion of it."
+        ],
+        "Archibald T. Robertson": [
+            "So that ye became... an ensample.\" ",
+            "\u03a4\u03c5\u03c0\u03bf\u03c2 is an old word from \u03c4\u03c5\u03c0\u03c4\u03c9, to strike, and so the mark of a blow, print... Then the figure formed by the blow, image... Then the mould or form... Then an example or pattern.",
+            "It was a great compliment for the church in Thessalonica to be already a model for believers in Macedonia and Achaia."
+        ],
+        "John Gill": [
+            "They were patterns of good works; and of suffering afflictions to other believers, even to all that knew them, or heard of them.\" ",
+            "They were even ensamples to them to copy after.",
+            "These saints at Thessalonica set them an example in many things, and particularly in acts of beneficence and liberality."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Thessalonians were commended for their Christian character, being a model for believers in Macedonia and Achaia. Their past conduct served as an example to all believers, and it was a great compliment for the church in Thessalonica to be a model for other churches in the region. They became an ensample, a pattern for others to follow, demonstrating the mark of their faith through good works and even in acts of beneficence and liberality. The influence of their piety extended beyond their city, impacting other churches in the community and even reaching distant lands. All believers, whether in Macedonia or Achaia, were inspired by their zeal, admiring their courage and borrowing from it a rule of constancy.",
+            "wordCount": 118,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9549010698512537,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+            "commentatorTierSimilarities": [
+                28.67,
+                41.54,
+                29.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians' Christian character was exceptional, serving as an example for believers in Macedonia and Achaia. Their past conduct became a model for all believers, showcasing their faith through good works and acts of benevolence. The church in Thessalonica's influence extended beyond their city, impacting other churches in the community and even reaching distant lands. Their zeal and courage were admired by all, setting a rule of constancy for other believers to follow. The church in Thessalonica was honored to be a pattern for other churches in the region.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8319107123902234,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
+            "commentatorTierSimilarities": [
+                28.19,
+                41.81,
+                30.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians' Christian character made them stand out among believers, serving as a model for churches in Macedonia and Achaia. Their past conduct became a pattern for all believers, demonstrating the mark of their faith through good works and acts of benevolence. The church in Thessalonica's influence extended beyond their city, impacting other churches in the community and even reaching distant lands. Their courage and zeal set a rule of constancy for other believers to follow, earning them the honor of being an example for other churches in the region.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8947156528704197,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.34,
+            "commentatorTierSimilarities": [
+                27.29,
+                44.38,
+                28.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Thessalonians' Christian character was admired, as they became a model for believers in Macedonia and Achaia. Their conduct served as an example for all believers, demonstrating the mark of their faith through good works and acts of benevolence. The influence of their piety extended beyond their city, impacting other churches in the community and even reaching distant lands. Their courage and zeal set a rule of constancy, earning them the honor of being an example for other churches in the region.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.841360321562456,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                27.19,
+                42.48,
+                30.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians' Christian character was exceptional, serving as an example for believers in Macedonia and Achaia. Their conduct became a model for all believers, demonstrating the mark of their faith through good works and acts of benevolence. The church in Thessalonica's influence extended beyond their city, impacting other churches in the community and even reaching distant lands. Their courage and zeal were admired, setting a rule of constancy for other believers to follow. The church in Thessalonica was honored to be an example for other churches in the region.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.8304039546641588,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.2,
+            "commentatorTierSimilarities": [
+                28.66,
+                41.68,
+                29.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:56:41",
+    "verseRef": "Philippians 3:9",
+    "bestBHT": {
+        "bht": "Paul acknowledges that his righteousness, according to the law, is insufficient and defective. Instead, he seeks a righteousness obtained through faith in Christ, which is perfect and glorious. By being found in Christ and united with Him in both time and eternity, Paul finds a true and intimate relationship that surpasses mere profession. This righteousness is a gift from God, received through His grace, contrasting his own righteousness under the law. It emphasizes the distinction between human effort and the righteousness that comes from God through faith.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.4117041808084787,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.53,
+        "commentatorTierSimilarities": [
+            29.68,
+            37.37,
+            32.96
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "not having mine own righteousness, which is of the law, but that which is through the faith of Christ.\" (100 words)",
+            "not having as my righteousness that righteousness which is of the law, but that which is through faith in Christ.\" (98 words)",
+            "the righteousness which is of God on my faith.\" (10 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Once lost, I have been 'found,' and I hope to be perfectly 'found' by Him.",
+            "Thus God's providence fitly prepared him for the work of overthrowing all idea of legal justification.",
+            "The righteousness of faith, in Paul's sense, is the righteousness or perfect holiness of Christ appropriated by faith, as the objective ground of confidence for the believer, and also as a new subjective principle of life."
+        ],
+        "Albert Barnes": [
+            "The idea is, that when the investigations of the great day should take place in regard to the ground of salvation, it might be found that he was united to the Redeemer and depended solely on his merits for salvation.",
+            "He now saw that no one complied perfectly with the holy law of God, and that all dependence on such a righteousness was vain.",
+            "The idea of Paul is, that he now saw that it was far more desirable to be saved by righteousness obtained from God than by his own. That obtained from God was perfect, and glorious, and sufficient; that which he had attempted to work out was defective, impure, and wholly insufficient to save the soul."
+        ],
+        "Marvin Vincent": [
+            "Paul says, not having any righteousness which can be called mine.",
+            "The change of prepositions, through faith, and of the law, as turning on the distinction between faith represented as the medium, and the law as the source of justification.",
+            "Of God. Contrasted with my own."
+        ],
+        "John Calvin": [
+            "For here that saying is admirably in point \u2014 'I had been lost, if I had not been lost.'",
+            "He shows more fully, how great the riches of Christ, because we obtain and find all things in him.",
+            "Paul here makes a comparison between two kinds of righteousness... The one he speaks of as belonging to the man, while he calls it at the same time the righteousness of the law; the other, he tells us, is from God, is obtained through faith, and rests upon faith in Christ."
+        ],
+        "Philip Schaff": [
+            "In this way the finding would refer to the union with Christ, both in time and in eternity.",
+            "The righteousness here spoken of is described as proceeding out of the law, that is, from the perfect observance thereof... Yet the Jews... had a zeal of God, but not according to knowledge.",
+            "Here the righteousness is defined as the gift of God; could it have been secured in the law, it would have been man\u2019s own earning and desert; but since that may not be, it is given to the faithful of God\u2019s grace."
+        ],
+        "Archibald T. Robertson": [
+            "Be found in him (\u03b5\u03c5\u03c1\u03b5\u03b8\u03c9 \u03b5\u03bd \u03b1\u03c5\u03c4\u03c9).",
+            "Through faith in Christ (\u03b4\u03b9\u03b1 \u03c0\u03b9\u03c3\u03c4\u03b5\u03c9\u03c2 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5).",
+            "Explained further by \u03b5\u03c0 \u03c4\u03b7 \u03c0\u03b9\u03c3\u03c4\u03b5 (on the basis of faith)."
+        ],
+        "John Gill": [
+            "For the loss of carnal privileges, he found in Christ spiritual blessings; and for the loss of his own righteousness, another, and a better, even the righteousness of God.\" ",
+            "He means not a nominal being in Christ, or a being in him by profession, but a real one.\" ",
+            "This righteousness is as a garment put upon faith, or put upon him by God, who has true faith in Christ."
+        ],
+        "John Wesley": [
+            "That inward righteousness which is through faith - Which can flow from no other fountain.",
+            "The righteousness which is from God \u2014 From his almighty Spirit, not by my own strength, but by faith alone.",
+            "Here also the apostle is far from speaking of justification only."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By proclaiming that he does not possess a righteousness of his own derived from the law, but rather a righteousness obtained through faith in Christ, Paul expresses the recognition that his own attempts to work out righteousness were defective and insufficient. The righteousness that he seeks is one that proceeds from God, perfect and glorious, instead of his own imperfect and impure righteousness. Through faith in Christ, he hopes to be perfectly found in Him, united in both time and eternity. This righteousness is not a nominal profession, but a real and intimate relationship with Christ. It is a righteousness that rest upon faith, a gift from God obtained through His grace. Thus, Paul emphasizes the contrast between his own righteousness through the law and the righteousness from God through faith in Christ.",
+            "wordCount": 133,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.5135501113986845,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.92,
+            "commentatorTierSimilarities": [
+                29.14,
+                37.0,
+                33.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Recognizing the insufficiency of his own righteousness derived from the law, Paul seeks a righteousness obtained through faith in Christ. This righteousness is far more desirable, being perfect and glorious, compared to his own defective and impure righteousness. Through faith, Paul hopes to be perfectly found in Christ, uniting with Him both in time and eternity. This righteousness is not merely a nominal profession, but a real and intimate relationship with Christ. It is a gift from God obtained through His grace, contrasting Paul's own righteousness through the law.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.410406748659355,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.49,
+            "commentatorTierSimilarities": [
+                29.01,
+                37.92,
+                33.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Recognizing the limitations of his own righteousness derived from the law, Paul seeks a righteousness obtained through faith in Christ. This righteousness is far more desirable, being perfect and glorious, compared to his own defective and impure righteousness. Through faith, Paul hopes to be perfectly found in Christ, uniting with Him both in time and eternity. This righteousness is not a nominal profession, but a real and intimate relationship with Christ. It is a gift from God obtained through His grace, contrasting Paul's own righteousness through the law.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.406864607857056,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.37,
+            "commentatorTierSimilarities": [
+                29.19,
+                37.76,
+                33.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul acknowledges that his righteousness, according to the law, is insufficient and defective. Instead, he seeks a righteousness obtained through faith in Christ, which is perfect and glorious. By being found in Christ and united with Him in both time and eternity, Paul finds a true and intimate relationship that surpasses mere profession. This righteousness is a gift from God, received through His grace, contrasting his own righteousness under the law. It emphasizes the distinction between human effort and the righteousness that comes from God through faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.4117041808084787,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.53,
+            "commentatorTierSimilarities": [
+                29.68,
+                37.37,
+                32.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul recognizes that his own righteousness, derived from the law, is deficient and inadequate. He seeks an alternative righteousness obtained through faith in Christ, acknowledging the superiority of this righteousness over his own flawed attempts. By being found in Christ, Paul experiences a genuine and deep connection, not a mere profession. This righteousness is a precious gift from God, graciously bestowed, contrasting with his own righteousness grounded in the law. It emphasizes the distinction between human effort and the righteousness that comes from God through faith.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2972401264073117,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.72,
+            "commentatorTierSimilarities": [
+                29.6,
+                36.61,
+                33.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

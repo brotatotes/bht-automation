@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 13:53:22",
+    "verseRef": "Philippians 1:17",
+    "bestBHT": {
+        "bht": "There were some who proclaimed Christ insincerely, not purely, out of partisanship, with mixed and impure motives, and out of self-seeking. However, their efforts to bring affliction to Paul in his bonds did not succeed. On the other hand, there were those who preached Christ out of love, with pure motives, and knowing that Paul was appointed to defend the gospel. They understood their duty to alleviate his sorrows and carry forward the cause, valuing the Gospel above all else.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.7893676482934175,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+        "commentatorTierSimilarities": [
+            26.82,
+            40.21,
+            32.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "but the former out of self-seeking",
+            "insincerely, thinking to raise up tribulation for (me in) my bonds",
+            "they do not succeed in their purpose"
+        ],
+        "Albert Barnes": [
+            "But the other of love - From pure motives, and from sincere affection to me.",
+            "To alleviate his sorrows, and to carry forward the great cause to defend which he was particularly appointed, they engaged in the work which he could not now do, and went forth to vindicate the gospel, and to make its claims better known.",
+            "The sense is, that he was appointed to be a defender of the gospel, and that they being well convinced of this, went forth to promulgate and defend the truth."
+        ],
+        "Marvin Vincent": [
+            "I am set [\u03ba\u03b5\u03b9\u03bc\u03b1\u03b9]. Or appointed. See on Luke 2:34. Compare 1 Thessalonians 3:3.\" ",
+            "They who are of love do so knowing that I am set, etc.: they who are of faction proclaim Christ not sincerely, etc.",
+            "There seems no sufficient reason for altering A. V. and Rev."
+        ],
+        "John Calvin": [
+            "Those who truly loved Christ reckoned that it would be a disgrace to them if they did not associate themselves with Paul as his companions, when maintaining the cause of the gospel.",
+            "We must act in such a manner, as to give a helping hand, as far as possible, to the servants of Christ when in difficulty.",
+            "What excuse shall we have, if we shall be traitors to his cause, or what may we expect, if we betray it by our silence, but that he shall in return desert our cause, who is our sole Advocate, or Patron, with the Father?"
+        ],
+        "Philip Schaff": [
+            "The word rendered 'faction' properly implies 'self-seeking.'",
+            "Their motive was not a pure one, though they might call themselves preachers of Christ.",
+            "They were men actuated by a spirit of self-seeking, and could perhaps only understand St. Paul's work in the light of their own."
+        ],
+        "Archibald T. Robertson": [
+            "Not sincerely (\u03bf\u03c5\u03c7 \u03b1\u03b3\u03bd\u03c9\u03c2). 'Not purely,' that is with mixed and impure motives.",
+            "Of faction (\u03b5\u03be \u03b5\u03c1\u03b9\u03b8\u03b5\u03b9\u03b1\u03c2). Out of partisanship.",
+            "To raise up affliction for my bonds (\u03b8\u03bb\u03b9\u03c8\u03b9\u03bd \u03b5\u03b3\u03b5\u03b9\u03c1\u03b5\u03b9\u03bd \u03c4\u03bf\u03b9\u03c2 \u03b4\u03b5\u03c3\u03bc\u03bf\u03b9\u03c2 \u03bc\u03bf\u03c5). Now that Paul is down they jump on him in mean and nagging ways."
+        ],
+        "John Gill": [
+            "Those that were truly brethren in the Lord, who had received the grace of God in truth, to whom the Gospel was come in power, and who had a spiritual and experimental knowledge of Christ, and of the mysteries of his grace; these preached Christ of love.\" ",
+            "Out of love to the Gospel of Christ, which with them was the pearl of great price, and every truth of it more valuable than gold, silver, and precious stones.",
+            "And out of love to the souls of others, knowing their miserable estate by nature, and the danger they were in, and therefore preached Christ as the only way of salvation, whereby they could escape the wrath to come."
+        ],
+        "John Wesley": [
+            "But the others out of love \u2014 To Christ and me.",
+            "Knowing \u2014 Not barely, supposing.",
+            "He remained at Rome as an ambassador in a place where he is employed on an important embassy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There were some who proclaimed Christ insincerely, with impure motives and out of self-seeking. However, their efforts did not succeed in causing affliction for Paul in his bonds. On the other hand, there were those who preached Christ out of love and with pure motives, knowing that Paul was appointed to defend the gospel. They saw it as their duty to alleviate his sorrows and to carry forward the cause that he was appointed for. These true brethren in the Lord preached Christ of love, valuing the Gospel above all else and desiring to save souls from the wrath to come. Despite the opposition and mean-spiritedness of some, Paul remained steadfast, acting as an ambassador for Christ in the place where he was appointed.",
+            "wordCount": 126,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 1.685666751869364,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "commentatorTierSimilarities": [
+                23.4,
+                41.26,
+                35.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There were some who proclaimed Christ insincerely, not purely, out of partisanship, with mixed and impure motives, and out of self-seeking. However, their efforts to bring affliction to Paul in his bonds did not succeed. On the other hand, there were those who preached Christ out of love, with pure motives, and knowing that Paul was appointed to defend the gospel. They understood their duty to alleviate his sorrows and carry forward the cause, valuing the Gospel above all else.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.7893676482934175,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.84,
+            "commentatorTierSimilarities": [
+                26.82,
+                40.21,
+                32.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some proclaimed Christ insincerely, out of self-seeking and with impure motives, but they did not succeed in causing affliction for Paul in his bonds. However, there were others who preached Christ out of love, knowing that Paul was appointed and understanding their duty to carry forward the cause. These true brethren in the Lord valued the Gospel above all else, preaching Christ with pure motives to save souls from the wrath to come. Despite opposition, Paul remained steadfast as an ambassador for Christ, fulfilling his appointed role.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.742469073924544,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.28,
+            "commentatorTierSimilarities": [
+                23.16,
+                38.07,
+                38.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There were some who proclaimed Christ insincerely, with impure motives and out of self-seeking, but their efforts to cause affliction for Paul in his bonds did not succeed. However, there were others who preached Christ out of love, with pure motives, knowing that Paul was appointed to defend the gospel. These true brethren in the Lord valued the Gospel above all else, preaching Christ to save souls from the wrath to come. Despite opposition, Paul remained steadfast as an ambassador for Christ, fulfilling his appointed role.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7234347994500854,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                22.02,
+                38.23,
+                39.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While some proclaimed Christ out of self-seeking with impure motives, their attempts to cause affliction for Paul in his bonds were unsuccessful. However, there were others who preached Christ sincerely out of love, recognizing Paul's appointed role to defend the gospel. These true brethren in the Lord valued the Gospel and proclaimed it with pure motives, desiring to save souls from impending wrath. Despite opposition, Paul remained as an ambassador for Christ, faithfully fulfilling his appointed mission.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6855377484436556,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "commentatorTierSimilarities": [
+                22.75,
+                39.8,
+                37.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

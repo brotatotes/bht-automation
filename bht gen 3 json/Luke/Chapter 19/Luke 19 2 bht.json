@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:21:44",
+    "verseRef": "Luke 19:2",
+    "bestBHT": {
+        "bht": "Zacchaeus, meaning pure in Hebrew, was a Jew and the chief among the publicans, responsible for collecting taxes, particularly from the balsam trade in Jericho. Though despised and infamous, some publicans, like Zacchaeus, were wealthy. Not many rich were called, but God chose the poor. Zacchaeus had acquired ill-gotten riches and Jericho's role as a trading point highlights his position. Despite the difficulty for rich men to enter God's kingdom, Zacchaeus's encounter with Jesus shows it's not impossible.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.669212251387345,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+        "commentatorTierSimilarities": [
+            23.14,
+            39.92,
+            36.94
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Zacch\u00e6us signifies in Hebrew, 'pure;\u2019",
+            "He was not a Gentile, as Tertullian supposed, but a Jew, see ver. 9.",
+            "chief among the publicans] Probably an administrator of the revenue derived from balsam, which was produced in abundance in the neighbourhood."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2-4. chief among the",
+            "\tpublicans\u2014farming a considerable district, with others under",
+            "\thim. ",
+            "\t",
+            "rich\u2014Ill-gotten riches",
+            "\tsome of it certainly was. (See on :-.)"
+        ],
+        "Albert Barnes": [
+            "The publicans, therefore, were not all foreigners.",
+            "Though this class of people was despised and often infamous, yet it seems that they were sometimes wealthy.",
+            "Not many rich were called, but God chiefly chose the poor of this world."
+        ],
+        "Marvin Vincent": [
+            "Named [\u03bf\u03bd\u03bf\u03bc\u03b1\u03c4\u03b9 \u03ba\u03b1\u03bb\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c2] . Lit., called by name. Compare ch. 1 61. ",
+            "Zacchaeus. Saccai, \"the just."
+        ],
+        "Philip Schaff": [
+            "Zaccheus. The name is the Hebrew word meaning \u2018pure,\u2019 with a Greek ending attached to it.\" ",
+            "He was therefore of Jewish origin.",
+            "The practice of farming out the revenues to the Roman knights encouraged extortion."
+        ],
+        "Archibald T. Robertson": [
+            "Jericho was an important trading point for balsam and other things.\" ",
+            "Zacchaeus was the head of the tax collections in this region, a sort of commissioner of taxes.",
+            "He probably had other publicans serving under him."
+        ],
+        "John Gill": [
+            "We often read of \u05e8\u05d1\u05d9 \u05d6\u05db\u05d0\u05d9, 'Rabbi Zaccai', or 'Zacchaeus'... So that this man, as appears by his name, was a Jew.",
+            "What sort of tax Zacchaeus was concerned in collecting, is not certain... he was a principal man in this employ, and had got great riches by it.",
+            "Though the instances of rich men being called by grace are few, yet there have been some; and the rather this circumstance is mentioned, because it had been observed in the preceding chapter, how difficult, but not impossible, as this instance proves, it was for rich men to enter into the kingdom of God."
+        ],
+        "John Wesley": [
+            "The chief of the publicans \u2014 What we would term, commissioner of the customs. A very honourable as well as profitable place."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Zacchaeus, whose name means pure, was a Jew and the chief among the publicans, responsible for collecting taxes, particularly from the balsam trade in Jericho. Although despised and often infamous, some publicans, like Zacchaeus, were wealthy. Yet, not many rich were called by God, who chiefly chose the poor. Zacchaeus, as a prominent figure in tax collection, had acquired ill-gotten riches. However, despite the difficulty for rich men to enter God's kingdom, Zacchaeus's encounter with Jesus demonstrates that it is not impossible. Jericho's role as a trading point further highlights the significance of Zacchaeus's position.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 1.600418429207047,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+            "commentatorTierSimilarities": [
+                22.46,
+                36.01,
+                41.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Zacchaeus, meaning pure in Hebrew, was a Jew and the chief among the publicans, responsible for collecting taxes, particularly from the balsam trade in Jericho. Though despised and infamous, some publicans, like Zacchaeus, were wealthy. Not many rich were called, but God chose the poor. Zacchaeus had acquired ill-gotten riches and Jericho's role as a trading point highlights his position. Despite the difficulty for rich men to enter God's kingdom, Zacchaeus's encounter with Jesus shows it's not impossible.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.669212251387345,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "commentatorTierSimilarities": [
+                23.14,
+                39.92,
+                36.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Zacchaeus, whose name means pure, was a Jewish tax collector, specifically the chief among the publicans responsible for collecting taxes from the balsam trade in Jericho. While despised, some publicans were wealthy, like Zacchaeus who had gained ill-gotten riches. Not many rich were called, but God chose the poor. Zacchaeus's encounter with Jesus reveals that despite the difficulty for rich men to enter God's kingdom, it is not impossible. Jericho's significance as a trading point highlights Zacchaeus's influential role.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.6092762068046422,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.85,
+            "commentatorTierSimilarities": [
+                23.82,
+                38.31,
+                37.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Zacchaeus, meaning pure in Hebrew, was a Jewish tax collector. As the chief among the publicans in Jericho, he oversaw the collection of taxes, particularly from the lucrative balsam trade. Though despised, some tax collectors were wealthy, much like Zacchaeus, who had amassed ill-gotten riches. While it was challenging for the rich to enter God's kingdom, Zacchaeus's encounter with Jesus shows that it is not impossible. Jericho's role as a prominent trading point emphasizes Zacchaeus's significant position in tax collection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.5974614590912928,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.46,
+            "commentatorTierSimilarities": [
+                25.92,
+                30.69,
+                43.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Zacchaeus, whose name means pure, was a wealthy Jewish tax collector, responsible for collecting taxes from the balsam trade in Jericho. Despite being despised, he held a prominent position as the chief among the publicans. While the rich faced difficulty in entering God's kingdom, Zacchaeus's encounter with Jesus demonstrates that it is not impossible. Operating in a significant trading hub like Jericho, Zacchaeus's role as a tax collector holds great influence and provides insight into his accumulation of wealth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5078872811929065,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                22.93,
+                27.29,
+                49.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

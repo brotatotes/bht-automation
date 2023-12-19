@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:34:06",
+    "verseRef": "Acts 20:3",
+    "bestBHT": {
+        "bht": "During his stay in Corinth, Paul faced a conspiracy against his life by his Jewish enemies, compelling him to change his plan of sailing to Palestine. Instead, he decided to return through Macedonia, which would allow him to visit the faithful disciples in Berea, Thessalonica, and Philippi one last time before bidding farewell to Corinth. This alteration in his route demonstrated Paul's prudence in evading the plot against him and safeguarding both himself and the churches where he ministered.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 2.123554435594577,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+        "commentatorTierSimilarities": [
+            34.47,
+            35.94,
+            29.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This stay was made at Corinth, most probably: see 1 Cor. xvi. 6, 7: and was during the winter; see below on ver. 6.",
+            "During it the Epistle to the Romans was written: see Introduction to Rom.\u00a74.",
+            "This purpose, of going from Corinth to Palestine by sea, is implied ch. xix. 21, and 1 Cor. xvi. 3\u20137."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though the province only is here mentioned, it is the city of CORINTH that is meant, as the province of 'Macedonia' meant the city of Philippi.",
+            "He had intended to embark, probably at Cenchrea, the eastern harbor of the city, for Palestine, on his route to Jerusalem, the third part of his plan. But having detected some conspiracy against his life by his bitter Jewish enemies as at Damascus and Jerusalem, he changed his plan and determined 'to return' as he had come, 'through Macedonia.'",
+            "As he was never more to return to Corinth, so this route would bring him, for the last time, face to face with the attached disciples of Berea, Thessalonica, and Philippi."
+        ],
+        "Albert Barnes": [
+            "And there abode - Why he remained here is unknown.",
+            "And when the Jews laid wait for him - There was a design formed against him by the Jews, which they sought to execute.",
+            "He purposed ... - He resolved to avoid the snare which they had laid for him, and to return by the same way in which he had come into Greece."
+        ],
+        "Marvin Vincent": [
+            "Sail [\u03b1\u03bd\u03b1\u03b3\u03b5\u03c3\u03b8\u03b1\u03b9] . Better, as Rev., set sail. See on Luke 8:22; and compare Luke 5:3."
+        ],
+        "John Calvin": [
+            "Let all the servants of Christ set this mirror before their eyes, that they may never faint through the wearisomeness of straits.",
+            "We must have regard of our life so far forth that we throw not ourselves headlong into the midst of dangers.",
+            "And we see how precious his life was to the faithful when... they do for his sake take a hard and sharp journey not without great charges."
+        ],
+        "Philip Schaff": [
+            "During the 'three months' of his stay at Corinth, St. Paul wrote the great epistle to the Roman Church. The Galatian letter possibly was written, too, at this time; but it seems more likely that this shorter letter, in which the main arguments of the letter to the Church of Rome were first sketched out, was written during the stay at Ephesus in the course of the preceding year.",
+            "All through his busy, anxious life their [the Jews'] terrible and sleepless hostility dogged his footsteps...they made use of certain fanatics of their race, and attempted by violent means to cut short the detested career of him they persisted in looking upon as the bitterest foe to the Jewish traditions.",
+            "It was most likely that the Jews on this occasion, becoming aware of St. Paul\u2019s intention to sail from Cenchrea, one of the ports of Corinth, watched the harbour in order to surprise him and kill him."
+        ],
+        "Archibald T. Robertson": [
+            "During this period Paul may have written Galatians as Lightfoot argued and certainly did Romans.\" ",
+            "Please note that this plot is by the Jews, not the Judaizers whom Paul discusses so vehemently in Acts 20:2.\" ",
+            "The Jews had heard of Paul's plan to sail for Syria and intended in the hurly-burly either to kill him at the docks in Cenchreae or to push him overboard from the crowded pilgrim ship bound for the passover."
+        ],
+        "John Gill": [
+            "And when the Jews laid wait for him...to take the money from him, which he had collected in Macedonia, and in Greece, for the poor saints at Jerusalem, or to take away his life, or both...",
+            "Upon which he purposed to return through Macedonia...",
+            "This wicked design being made known to him, obliged him, in point of prudence, and both for his own safety, and the good of the churches, to alter his scheme, and steer his course another way, to the disappointment of his enemies..."
+        ],
+        "John Wesley": [
+            "An ambush being laid for him \u2014 In his way to the ship."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During his stay at Corinth, Paul intended to sail for Palestine but decided to instead return through Macedonia due to a conspiracy against his life by his Jewish enemies. This route would allow him to face the disciples of Berea, Thessalonica, and Philippi one last time before leaving Corinth for good. The Jews had gotten wind of Paul's plan and sought to either kill him at the docks in Cenchreae or push him overboard from the pilgrim ship. It is during this period that Paul may have written Galatians and certainly wrote Romans. This plot was orchestrated by the Jews, not the Judaizers, showing their relentless hostility towards Paul. However, Paul's prudence and desire to protect both himself and the churches compelled him to alter his plans, disappoint his enemies, and set sail through Macedonia instead.",
+            "wordCount": 138,
+            "quoteTokenProportion": 38.95,
+            "qualityScore": 2.18448924175524,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.97,
+            "commentatorTierSimilarities": [
+                37.5,
+                37.25,
+                25.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During his stay at Corinth, Paul had intended to sail for Palestine, but due to a conspiracy against his life by his Jewish enemies, he changed his plans and decided to return through Macedonia instead. The Jews sought to kill Paul, either at the docks or on the pilgrim ship. It is during this time that Paul may have written Galatians and certainly wrote Romans. His prudence led him to alter his route, protecting himself and the churches from the hostile intentions of his enemies.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.089831339622548,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.83,
+            "commentatorTierSimilarities": [
+                35.97,
+                37.99,
+                26.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During his stay at Corinth, Paul's plan to sail to Palestine was thwarted by a conspiracy against his life plotted by his Jewish enemies. Instead, he chose to return through Macedonia, allowing him to meet one last time with the devoted disciples of Berea, Thessalonica, and Philippi. The Jews aimed to kill him at the docks in Cenchreae or by pushing him overboard from the crowded ship. However, Paul's wise decision to alter his course ensured his safety and the fulfillment of his ministry.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0250752399441967,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+            "commentatorTierSimilarities": [
+                32.34,
+                37.81,
+                29.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During his stay at Corinth, Paul's plan to sail for Palestine was hindered by a conspiracy devised by his Jewish adversaries. In order to ensure his safety and evade the plot against his life, he chose to return through Macedonia instead. This strategic change of route would allow Paul to have a final encounter with the devoted disciples from Berea, Thessalonica, and Philippi. By altering his plans, Paul demonstrated prudence and thwarted the intentions of his enemies, ensuring the continuation of his ministry.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.965322614445217,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.69,
+            "commentatorTierSimilarities": [
+                34.0,
+                36.08,
+                29.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During his stay in Corinth, Paul faced a conspiracy against his life by his Jewish enemies, compelling him to change his plan of sailing to Palestine. Instead, he decided to return through Macedonia, which would allow him to visit the faithful disciples in Berea, Thessalonica, and Philippi one last time before bidding farewell to Corinth. This alteration in his route demonstrated Paul's prudence in evading the plot against him and safeguarding both himself and the churches where he ministered.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.123554435594577,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                34.47,
+                35.94,
+                29.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

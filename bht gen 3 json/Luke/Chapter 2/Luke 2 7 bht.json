@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 16:14:08",
+    "verseRef": "Luke 2:7",
+    "bestBHT": {
+        "bht": "Ancient tradition states that Jesus was born in a cave or grotto, which is not inconsistent with the biblical text. The fact that Mary is referred to as Jesus' firstborn implies that she had other children. The birthplace being a cave or grotto aligns with the idea that caves were used as stables in rocky areas. This underscores the modesty of Jesus' birth, as he was laid in a manger or stall where shepherds watched the flocks destined for sacrifice, emphasizing his humility and the significance of his birth.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 2.0346738517590452,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.99,
+        "commentatorTierSimilarities": [
+            32.7,
+            38.79,
+            28.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Although the term may undoubtedly be used of an only child, such use is necessarily always connected with the expectation of others to follow.\" ",
+            "The combination of this consideration with the fact, that brethren of our Lord are brought forward in this Gospel in close connexion with His mother, makes it as certain as an implied fact can be, that those brethren were the children of Mary herself.\" ",
+            "Ancient tradition states the birthplace of our Lord to have been a cave: and this tradition is nowise inconsistent with our text\u2014for caves are used in most rocky countries as stables."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The ancient tradition, that our Lord was born in a grotto or cave, is quite consistent with this, the country being rocky.",
+            "The hope and glory of all lands",
+            "   Is come to the world's aid.",
+            "But some 'guests went and came' not 'rudely,' but reverently. God sent visitors of His own to pay court to the new-born King."
+        ],
+        "Albert Barnes": [
+            "The obvious meaning of the Bible is that she had; and if this be the case, the word 'firstborn' is here to be taken in its common signification.",
+            "There was nothing special in the manner in which the infant Jesus was treated.",
+            "He did not inherit a princely estate. He was not cradled, as many are, in a palace. He had no rich friends. He had virtuous, pious parents, of more value to a child than many riches."
+        ],
+        "Marvin Vincent": [
+            "There was near Bethlehem, on the road to Jerusalem, a tower known as Migdal Eder, or the watch tower of the flock. Here was the station where shepherds watched the flocks destined for sacrifice in the temple.",
+            "The beautiful significance of the revelation of the infant Christ to shepherds watching the flocks destined for sacrifice needs no comment.",
+            "May not the singular number fall in with what has just been said? - the flock, the temple flock, specially devoted to sacrifice."
+        ],
+        "John Calvin": [
+            "We see here not only the great poverty of Joseph, but the cruel tyranny which admitted of no excuse.",
+            "We see, at the same time, what sort of beginning the life of the Son of God had, and in what cradle he was placed.",
+            "When he was thrown into a stable, and placed in a manger, and a lodging refused him among men, it was that heaven might be opened to us."
+        ],
+        "Philip Schaff": [
+            "Her first born son. This implies that Mary had other children... It is unlikely that an only child would be thus termed",
+            "Our Lord was born in a stable. This was purposed by God... His self-abasement is thus illustrated, the nature of His kingdom suggested, the lesson of humility enforced.",
+            "The fact that changed the world was accomplished in a stable; but the world\u2019s emperor must send forth a universal decree that this humble birth might be in accordance with prophecy; for He who lay in the manger there was King of kings."
+        ],
+        "Archibald T. Robertson": [
+            "There is not a particle of evidence for the notion that Mary refused to bear other children because she was the mother of the Messiah.",
+            "Wrapped in swaddling clothes...Frequent in medical works.",
+            "In a crib in a stall whether in a cave (Justin Martyr) or connected with the inn we do not know."
+        ],
+        "John Gill": [
+            "Jesus is called Mary's firstborn, because she had none before him; though she might not have any after him; for the first that opened the matrix, was called the firstborn, though none followed after, and was holy to the Lord.",
+            "This shows the meanness of our Lord's birth, and into what a low estate he came; and that now, as afterwards, though Lord of all, yet had not where to lay his head in a proper place; and expresses his amazing grace, in that he was rich, yet for our sakes became poor.",
+            "And it may be, both his own father and Mary's father were dead, and therefore were obliged to put up at an inn; and in this there was no room for them, because of the multitude that were come thither to be enrolled: and this shows their poverty and meanness, and the little account that was made of them."
+        ],
+        "John Wesley": [
+            "She laid him in the manger \u2014 Perhaps it might rather be translated in the stall.",
+            "They were lodged in the ox stall, fitted up on occasion of the great concourse, for poor guests.",
+            "Now also, there is seldom room for Christ in an inn."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Ancient tradition states that Jesus was born in a cave or grotto, which is not inconsistent with the biblical text. In close connection with this is the fact that Jesus is referred to as Mary's firstborn. This implies that Mary had other children, and the combination of this with the expectation of others to follow is significant. The birthplace of Jesus being a cave or grotto aligns with the idea that caves were often used as stables in rocky countries. Thus, the meanness of Jesus' birth is emphasized, as he was laid in a manger or stall in the stable where shepherds watched the flocks destined for sacrifice in the temple. This revelation to the shepherds further signifies the humility and self-abasement of Jesus, while also highlighting the significance of his birth.",
+            "wordCount": 134,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0295921723211263,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.83,
+            "commentatorTierSimilarities": [
+                31.84,
+                39.6,
+                28.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Ancient tradition states that Jesus was born in a cave or grotto, which is not inconsistent with the biblical text. The fact that Mary is referred to as Jesus' firstborn implies that she had other children. The birthplace being a cave or grotto aligns with the idea that caves were used as stables in rocky areas. This underscores the modesty of Jesus' birth, as he was laid in a manger or stall where shepherds watched the flocks destined for sacrifice, emphasizing his humility and the significance of his birth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.0346738517590452,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.99,
+            "commentatorTierSimilarities": [
+                32.7,
+                38.79,
+                28.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "According to ancient tradition, Jesus was born in a cave or grotto, which is consistent with the biblical text. The mention of Mary as Jesus' firstborn suggests that she had other children. This aligns with the understanding that caves were commonly used as stables in rocky regions. Jesus' modest birth in a manger or stall, where shepherds tended the flocks destined for sacrifice, highlights his humility. This revelation to the shepherds further emphasizes the significance of his birth and the depth of his grace.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.908771259360798,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                32.3,
+                38.99,
+                28.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is believed that Jesus was born in a cave, as ancient tradition states that the birthplace of our Lord was a cave, which is consistent with the biblical text. This tradition is not incompatible with the idea of caves being used as stables in rocky regions. The reference to Jesus as Mary's firstborn implies that she had other children, and the fact that he was laid in a manger or stall emphasizes the modesty of his birth and his humble beginnings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.009654702978094,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "commentatorTierSimilarities": [
+                32.7,
+                38.15,
+                29.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "According to ancient tradition, Jesus was born in a cave, which is consistent with the biblical text. The mention of Mary as Jesus' firstborn implies that she had other children. This aligns with the understanding that caves were commonly used as stables in rocky regions. Jesus' modest birth in a manger or stall, where shepherds tended the flocks destined for sacrifice, highlights his humility. This revelation to the shepherds further emphasizes the significance of his birth and the depth of his grace.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9159674705681882,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                31.64,
+                39.94,
+                28.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

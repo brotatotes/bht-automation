@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:25:59",
+    "verseRef": "Acts 3:22",
+    "bestBHT": {
+        "bht": "The prophecy spoken by Moses, understood by the Jews to point to the Messiah, is fulfilled in Christ as the Prophet who intimately communicates with God. Peter confidently declares that Christ is the One who fulfills this role and emphasizes the necessity of hearing and obeying Him. Christ surpasses Moses in both person and office, as the greater Prophet who brings revelation, teaches the way, and acts as the Redeemer. Through His unique relationship with God, Christ embodies the prophetic role in a profound and unparalleled manner.",
+        "wordCount": 87,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 2.2164564958253803,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.04,
+        "commentatorTierSimilarities": [
+            33.11,
+            33.64,
+            33.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That the words, as spoken by Moses, seem to point to the whole line of prophets sent by God, is not any objection to their being applied to Christ, but rather necessitates, and entirely harmonizes with, that application.",
+            "The Jews therefore rightly understood it (though not always consistent in this, comp. John i. 21 with vi. 14) of the Messiah.",
+            "And none of the whole prophetic body entirely answered to the words like unto me, but Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "a prophet . . . like unto me\u2014particularly in intimacy of communication with God",
+            "Peter takes it for granted that, in the light of all he had just said, it would be seen at once that One only had any claim to be that Prophet.",
+            "him shall ye hear in all things, &amp;c.\u2014This part of the prediction is emphatically added, in order to shut up the audience to the obedience of faith, on pain of being finally 'cut off' from the congregation of the righteous."
+        ],
+        "Albert Barnes": [
+            "The object of the passage is not to prove that the heavens must receive him, but that he was truly the Messiah.",
+            "The promise, therefore, pertains to the serges or, prophets which God would raise up; or it is a promise that God would send his prophets, as occasion might demand, to instruct and counsel the nation.",
+            "The resemblance between Moses and the Messiah should not be pressed too far. The Scriptures have not traced it further than to the fact that both were raised up by God to communicate his will to the Jewish people, and therefore one should be heard as well as the other."
+        ],
+        "John Calvin": [
+            "He intreateth in this place of the authority of doctrine; and this was the best way to bring the Jews to be Christ\u2019s disciples.",
+            "God will never suffer you to be destitute of prophets, of whom you may learn whatsoever shall be profitable for you to know.",
+            "This testimony doth so appertain unto the other prophets, that yet notwithstanding it doth chiefly commend Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Like unto me (\u03c9\u03c2 \u03b5\u03bc\u03b5). As me, literally; Moses (Deuteronomy 18:14-18) claims that God raised him up as a prophet and that another and greater one will come, the Messiah.",
+            "The Jews understood Moses to be a type of Christ (John 1:21).",
+            "God spoke to Moses face to face (Exodus 33:11) and he was the greatest of the prophets (Deuteronomy 34:10)."
+        ],
+        "John Gill": [
+            "But of a single prophet, and so the Targums or Onkelos and Jonathan understood it; but not to be applied to Joshua, as some, or to Jeremiah as others, or to David; but to the Messiah, and which is the Lord Jesus Christ, who answers to all the characters.",
+            "He was a prophet in every sense, who brought a revelation of the divine will, taught the way, and explained the Scriptures of truth perfectly, and foretold things to come; he was raised up by the Lord God of Israel, and was anointed by his Spirit, and sent by him, and that to the people of the Jews, to the lost sheep of the house of Israel.",
+            "Moses, under God, was an instrument of redeeming the people of Israel out of Egypt, and Christ, he is the Redeemer of his people from sin, Satan, and the law, and all their enemies."
+        ],
+        "John Wesley": [
+            "The Lord shall raise you up a prophet like unto me \u2014 And that in many particulars.",
+            "Those who could not bear the voice of God, yet desired to hear that of Moses. Much more do those who are wearied with the law, desire to hear the voice of Christ.",
+            "But though he was like Moses, yet he was infinitely superior to him, in person, as well as in office."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words spoken by Moses, pointing to the line of prophets and understood by the Jews to refer to the Messiah, find their fulfillment in Christ as the ultimate Prophet who intimately communicates with God. Peter confidently declares that Christ is the One who fulfills the role of the Prophet, and he emphasizes the necessity of hearing and obeying Him in all things. Just as God raised up Moses as a prophet, Christ is the greater Prophet who brings revelation, teaches the way, and fulfills the role of the Redeemer. While Moses and Christ share similarities, Christ surpasses Moses in both person and office.",
+            "wordCount": 104,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.4011400238197695,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.18,
+            "commentatorTierSimilarities": [
+                33.64,
+                33.16,
+                33.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prophecy given by Moses, often understood by the Jews as referring to the Messiah, finds its ultimate fulfillment in Christ. Peter confidently speaks of Christ as the One who fulfills the role of the Prophet and emphasizes the importance of hearing and obeying Him. Christ, like Moses, is a prophet, but infinitely superior in person and office. He brings revelation, teaches the way, and acts as the Redeemer. Through His intimate connection with God, Christ embodies the prophetic role in a profound and unmatched way.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.094005476495338,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.97,
+            "commentatorTierSimilarities": [
+                33.25,
+                32.49,
+                34.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophecy spoken by Moses, understood by the Jews to point to the Messiah, is fulfilled in Christ as the Prophet who intimately communicates with God. Peter confidently declares that Christ is the One who fulfills this role and emphasizes the necessity of hearing and obeying Him. Christ surpasses Moses in both person and office, as the greater Prophet who brings revelation, teaches the way, and acts as the Redeemer. Through His unique relationship with God, Christ embodies the prophetic role in a profound and unparalleled manner.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.2164564958253803,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.04,
+            "commentatorTierSimilarities": [
+                33.11,
+                33.64,
+                33.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 3:22, Peter confidently applies Moses' words to Christ, recognizing Him as the ultimate fulfillment of the prophecy. The Jews correctly understood the prophecy to refer to the Messiah. Christ resembles Moses as a prophet who intimately communicates with God, surpassing him in both person and office. Through His role as the Prophet, Christ brings revelation, teaches the way, and acts as the Redeemer. Peter emphasizes the importance of listening and obeying Him in all things.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.1268522474790994,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+            "commentatorTierSimilarities": [
+                34.72,
+                32.21,
+                33.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophecy of Moses, anticipated by the Jews to be fulfilled in the Messiah, finds its realization in Christ as the ultimate Prophet. Peter asserts that Christ is the true fulfillment of this prophecy, surpassing Moses in both character and authority. As the Prophet, Christ intimately communicates with God, bringing divine revelation, teaching the way, and acting as the Redeemer. Peter underscores the significance of heeding and obeying Christ's teachings, as failure to do so results in exclusion from the righteous community.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.20857869928471,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.78,
+            "commentatorTierSimilarities": [
+                33.58,
+                34.1,
+                32.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

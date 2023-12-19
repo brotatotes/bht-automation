@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:06:19",
+    "verseRef": "Romans 7:16",
+    "bestBHT": {
+        "bht": "In this passage, the apostle Paul grapples with the conflict between his desires and the law, yet declares his agreement with the moral excellence of the law. He demonstrates that his inward inclination conforms to the righteousness of the law, even though his actions may contradict his intentions. Paul's struggle against evil proves his disdain for it and his love for the law that condemns it. This ongoing battle reveals his genuine devotion to God and urges believers to pursue righteousness with sincere hearts.",
+        "wordCount": 85,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.116082848893183,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.7,
+        "commentatorTierSimilarities": [
+            27.69,
+            37.68,
+            34.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If I do that which I desire not, I consent unto the law that it is good.",
+            "The law and I are as one in proscribing the thing.",
+            "My wish and the law tend the same way."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But if what I would not that I do.\" ",
+            "The judgment of my inner man going along with the law.\" ",
+            "I consent unto the law that it is good."
+        ],
+        "Albert Barnes": [
+            "The very struggle with evil shows that it is not loved, or approved, but that the Law which condemns it is really loved.",
+            "The fact of struggling against evil, the desire to be free from it, and to overcome it, the anxiety and grief which it causes, is an evidence that we do not love it, and that therefore we are the friends of God.",
+            "Perhaps nothing can be a more decisive test of piety than a long-continued and painful struggle against evil passions and desires in every form, and a panting of the soul to be delivered from the power and dominion of sin."
+        ],
+        "Marvin Vincent": [
+            "I consent [\u03c3\u03c5\u03bc\u03c6\u03b7\u03bc\u03b9] . Lit., speak together with; concur with, since the law also does not desire what I do.",
+            "Good [\u03ba\u03b1\u03bb\u03bf\u03c2] . See on John 10:11, John 10:32; Matthew 26:10; James 2:7. Morally excellent."
+        ],
+        "John Calvin": [
+            "When my heart acquiesces in the law, and is delighted with its righteousness, (which certainly is the case when it hates the transgression of it,) it then perceives and acknowledges the goodness of the law.\" ",
+            "No evil ought to be imputed to the law; nay, that it would be salutary to men, were it to meet with upright and pure hearts.",
+            "The godly man consents to the law with the real and most cheerful desire of his heart; for he wishes nothing more than to mount up to heaven."
+        ],
+        "Philip Schaff": [
+            "Even this negative attitude proves the character of the law.",
+            "\u2018I agree with,\u2019 marks an acquiescence in the high moral character of the law.",
+            "\u2018My conduct, therefore, so far as my desire is opposed to it, appears according to this contradiction, as a proof that I concur with the law that it is beautiful, i.e., morally good."
+        ],
+        "Archibald T. Robertson": [
+            "My wanting (\u03b8\u03b5\u03bb\u03c9) to do the opposite of what I do proves my acceptance of God's law as good (\u03ba\u03b1\u03bb\u03bf\u03c2).",
+            "I consent unto the law (\u03c3\u03c5\u03bd\u03c6\u03b7\u03bc \u03c4\u03c9 \u03bd\u03bf\u03bc\u03c9).",
+            "My wanting (\u03b8\u03b5\u03bb\u03c9) to do the opposite of what I do proves my acceptance of God's law as good (\u03ba\u03b1\u03bb\u03bf\u03c2)."
+        ],
+        "John Gill": [
+            "Since what he did, though it was contrary to the law of God, yet was what he did not will nor allow of, but hated, it must be a clear point, that he consented to the law, that it was good...",
+            "It must be a clear point that he consented to the law, that it was good; lovely and amiable...",
+            "The law forbad those things which were hateful and commanded those things which were desirable to a good man..."
+        ],
+        "John Wesley": [
+            "It is good \u2014 This single word implies all the three that were used before, Romans 7:12, \"holy, just, and good."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 7:16, the apostle Paul wrestles with the tension between his desires and the law. He speaks of his consent to the law, acknowledging its goodness and moral excellence. Despite his actions contradicting his desires, Paul's inner conviction aligns with the righteousness of the law. This struggle against evil shows his rejection of it and his love for the law that condemns it. This ongoing battle and yearning for freedom from sin is indicative of a genuine devotion to God. Through this, Paul demonstrates that the law is not to be blamed, but rather, if followed with a pure heart, it leads to righteousness and spiritual growth.",
+            "wordCount": 108,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.154152565817564,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                27.35,
+                37.2,
+                35.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the apostle Paul grapples with the conflict between his desires and the law, yet declares his agreement with the moral excellence of the law. He demonstrates that his inward inclination conforms to the righteousness of the law, even though his actions may contradict his intentions. Paul's struggle against evil proves his disdain for it and his love for the law that condemns it. This ongoing battle reveals his genuine devotion to God and urges believers to pursue righteousness with sincere hearts.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.116082848893183,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.7,
+            "commentatorTierSimilarities": [
+                27.69,
+                37.68,
+                34.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Romans 7:16, Paul affirms his agreement with the goodness and moral excellence of the law. He acknowledges the tension between his desires and his actions, but declares his inner conviction aligns with the righteousness of the law. This struggle against evil showcases his rejection of sin and his love for the law that condemns it. Paul's ongoing battle against sinful desires demonstrates his sincere devotion to God, urging believers to embrace righteousness with wholeheartedness.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.125720839783879,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.02,
+            "commentatorTierSimilarities": [
+                26.38,
+                38.17,
+                35.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in Romans 7:16, expresses his agreement with the law, acknowledging its moral excellence and goodness. Though his actions may contradict his desires, his inner conviction aligns with the righteousness of the law. This struggle against evil demonstrates his rejection of sin and his love for the law that condemns it. Paul's ongoing battle reflects his genuine devotion to God, urging believers to pursue righteousness with sincerity. By accepting the law's beauty and aspiring for holiness, one can experience growth and spiritual transformation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.0641959489055406,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.98,
+            "commentatorTierSimilarities": [
+                28.28,
+                36.94,
+                34.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in Romans 7:16, affirms his consent to the law and acknowledges its moral excellence, describing his inward conviction aligning with its righteousness. He recognizes the contradiction between his desires and actions but emphasizes his rejection of sin and love for the law that condemns it. Paul's ongoing struggle signifies his genuine devotion to God, urging believers to pursue righteousness with sincerity. Embracing the law's beauty and aspiring for holiness can lead to personal growth and spiritual transformation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.9700277605933794,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                27.04,
+                36.29,
+                36.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

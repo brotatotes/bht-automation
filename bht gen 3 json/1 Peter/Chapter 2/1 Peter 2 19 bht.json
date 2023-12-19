@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:39:15",
+    "verseRef": "1 Peter 2:19",
+    "bestBHT": {
+        "bht": "Enduring grief and unjust treatment for the sake of conscience toward God is praiseworthy in God's eyes. It involves patiently bearing up under the burden of suffering, guided by an inner consciousness of one's relation to God as a son. This conscious sense of duty to God, rather than men, is what makes the endurance graceful and thankworthy. By having a pure desire to please God, one can endure with gladness of heart, knowing that suffering for the sake of conscience toward God is an expression of grace.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.315617532900304,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.33,
+        "commentatorTierSimilarities": [
+            34.95,
+            30.27,
+            34.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "thankworthy\u2014A course out of the common, and especially praiseworthy in the eyes of God",
+            "for conscience toward God\u2014literally, 'consciousness of God': from a conscientious regard to God, more than to men.",
+            "endure\u2014Greek, 'patiently bear up under': as a superimposed burden"
+        ],
+        "Albert Barnes": [
+            "This is graceful indeed.",
+            "If he feels that God, by his providence, has placed him in the circumstances in which he is, and that it is a duty which he owes to him to bear every trial incident to that condition with a submissive spirit.\u201d",
+            "Our proper business in life is, to do the will of God; to evince the right spirit, however others may treat us; and to show, even under excessive wrong, the sustaining power and the excellence of true religion."
+        ],
+        "Marvin Vincent": [
+            "The idea is not conscientiousness in the ordinary sense, but the conscious sense of one's relation to God; his consciousness of God.",
+            "Thus one suffers patiently, not from a conscientious sense of duty, but from an inner consciousness of his relation to God as a son.",
+            "...which involves his suffering with him no less than his being glorified with him."
+        ],
+        "John Calvin": [
+            "To testify that it was acceptable to God, when any one from conscience towards God persevered in doing his duty, though unjustly and unworthily treated, was at that time very necessary.",
+            "For conscience towards God means this, that one performs his duty, not from a regard to men, but to God.",
+            "Moreover, he who considers that he has to do with God, must necessarily endeavor to overcome evil with good."
+        ],
+        "Philip Schaff": [
+            "Endurance, therefore, is not of itself a 'thankworthy' thing. In the case of any one, slave or other, it is so only if it is endurance of wrong, and only if it is animated by one\u2019s sense of his relation to God.",
+            "The motive which gives nobility to endurance is put in the foreground. By this 'consciousness of God' is meant neither exactly the 'conscience toward God'... but that consciousness which we have of God, which at once inspires the sense of duty and elevates the idea of duty.",
+            "It is the 'understanding applied to the distinction of good and evil, as reason is the same applied to the distinction of truth and falsehood."
+        ],
+        "Archibald T. Robertson": [
+            "For this thing (neuter singular \u03c4\u03bf\u03c5\u03c4\u03bf, obedience to crooked masters) is grace\" (\u03c7\u03b1\u03c1\u03b9\u03c2 is feminine, here \"thanks\" as in Romans 7:25).\" ",
+            "Suffering is not a blessing in and of itself, but, if one's duty to God is involved (Acts 4:20), then one can meet it with gladness of heart.",
+            "This is the whole point, made clear already by Jesus in Matthew 5:10-12, where Jesus has also 'falsely' (\u03c8\u03b5\u03c5\u03b4\u03bf\u03bc\u03b5\u03bd\u03bf)."
+        ],
+        "John Gill": [
+            "For this is thankworthy,.... Or 'grace'; this is a fruit and effect of grace, an instance of it.",
+            "if a man for conscience towards God; or, 'for a good conscience'... for the knowledge of God in Christ; for the Gospel of Christ, and a profession of it.",
+            "endure grief... and that with patience, and without murmuring, and with resignation to the will of God."
+        ],
+        "John Wesley": [
+            "For conscience toward God \u2014 From a pure desire of pleasing him.",
+            "Grief \u2014 Severe treatment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "One should thankworthy endure grief and unjust treatment for the sake of conscience toward God. It is not simply about fulfilling a duty, but about having a conscious sense of one's relationship with God. This conscious sense involves suffering with Christ and glorifying with Him. Suffering patiently from a conscientious regard to God, rather than men, shows an inner consciousness of one's sonship to God. It is not an easy task, but when one's duty to God is involved, it can be met with gladness of heart. This endurance, animated by a sense of one's relation to God, is what makes it graceful and praiseworthy.",
+            "wordCount": 109,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.256579092989953,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.37,
+            "commentatorTierSimilarities": [
+                34.76,
+                31.19,
+                34.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Enduring grief and unjust treatment for the sake of conscience toward God is praiseworthy in God's eyes. It involves patiently bearing up under the burden of suffering, guided by an inner consciousness of one's relation to God as a son. This conscious sense of duty to God, rather than men, is what makes the endurance graceful and thankworthy. By having a pure desire to please God, one can endure with gladness of heart, knowing that suffering for the sake of conscience toward God is an expression of grace.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.315617532900304,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.33,
+            "commentatorTierSimilarities": [
+                34.95,
+                30.27,
+                34.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Suffering patiently for conscience toward God is not just a duty, but a conscious sense of one's relationship to God. Enduring with gladness of heart, even in the face of unjust treatment, shows an inner consciousness of sonship to God. This suffering with Christ, rather than from a mere sense of duty or obedience, is what makes it thankworthy and graceful. By bearing burdens and enduring grief for the sake of conscience toward God, one exemplifies a true understanding of good and evil and shows the sustaining power of true religion.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.259552261379749,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.47,
+            "commentatorTierSimilarities": [
+                34.47,
+                31.46,
+                34.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To endure grief and unjust treatment patiently for the sake of conscience toward God is praiseworthy and an expression of grace. It involves consciously bearing up under a burden and suffering with Christ, guided by an inner consciousness of one's relationship to God as a son. This endurance is not a mere sense of duty, but a result of understanding and applying the distinction between good and evil. By having a pure desire to please God, one can meet suffering with gladness of heart, exemplifying the sustaining power of true religion.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.100737443992804,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.19,
+            "commentatorTierSimilarities": [
+                32.62,
+                32.99,
+                34.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The conscious sense of one's relationship to God and the patient endurance of grief and unjust treatment for conscience toward God is praiseworthy and an expression of grace. By having a pure desire to please God and an understanding of good and evil, one can bear burdens and suffer with gladness of heart. This enduring and conscious sense of duty to God, rather than men, is what makes it thankworthy and graceful, showcasing the sustaining power of true religion.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.227487917865946,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.4,
+            "commentatorTierSimilarities": [
+                30.34,
+                35.37,
+                34.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

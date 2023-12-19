@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:18:48",
+    "verseRef": "Luke 11:45",
+    "bestBHT": {
+        "bht": "The man mentioned is not a common Pharisee, but a lawyer responsible for interpreting the law. He may have felt implicated in Jesus' criticism of the Pharisees. Jesus reproached the Pharisees, and the lawyer took it as an outrageous insult to their learned status. Jesus issued three woes to the lawyers just as he did to the Pharisees. Sinners often perceive faithfulness as reproach, unable to differentiate between the two. Jesus did not abuse them but dealt faithfully by speaking the unvarnished truth, which can elicit anger or recoil. The lawyer might have tried to shelter his character behind his office, implying that any criticism was blasphemy against God-appointed officials like himself. Ultimately, by reproaching the Pharisees, Jesus indirectly reproached the lawyers as well, realizing that what was criminal for one group applied to the other.",
+        "wordCount": 137,
+        "quoteTokenProportion": 42.55,
+        "qualityScore": 1.9849332490941791,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.34,
+        "commentatorTierSimilarities": [
+            34.03,
+            33.48,
+            32.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This man appears to have been not a common Pharisee merely, but besides, a lawyer, whose duty it especially was to interpret the law.",
+            "Perhaps he found himself involved in the censure of ver. 42; or generally among the other Pharisees."
+        ],
+        "Albert Barnes": [
+            "Sinners often consider 'faithfulness' as 'reproach' - they know not how to separate them.",
+            "Jesus did 'not' reproach or abuse them. He dealt faithfully with them; reproved them; told them the unvarnished truth.",
+            "Such faithfulness is rare; but when it 'is' used, we must expect that people will flinch, perhaps be enraged."
+        ],
+        "Marvin Vincent": [
+            "The lawyer converts Jesus' reproach into an insult; the word meaning to outrage or affront.",
+            "Even us, the learned."
+        ],
+        "Philip Schaff": [
+            "The man was not a Sadducee, but a Pharisee, and probably felt that the censure applied to him.",
+            "He would shelter his character behind his office!",
+            "Doubtless he would imply, as his successors have done: in touching us, the God-appointed officials, you are blaspheming."
+        ],
+        "Archibald T. Robertson": [
+            "Thou reproachest us also.\" ",
+            "The verb \u03c5\u03b2\u03c1\u03b9\u03b6\u03c9 is an old one and common for outrageous treatment, a positive insult.",
+            "Jesus proceeds to give the lawyers three woes as he had done to the Pharisees."
+        ],
+        "John Gill": [
+            "Thus saying, thou reproachest us also; us lawyers, or Scribes also; both by mentioning their names, and accusing the Pharisees of the same things, which they must be conscious to themselves they were equally guilty of.",
+            "If the one were criminal, the others were also.",
+            "What thou sayest, does it not injure us?"
+        ],
+        "John Wesley": [
+            "One of the lawyers \u2014 That is scribes; expounders of the law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man mentioned in this verse is not just a common Pharisee, but also a lawyer who had the responsibility of interpreting the law. He may have found himself implicated in the criticism Jesus directed towards the Pharisees. When Jesus reproached the Pharisees, the lawyer took it as an offense, perceiving it as an outrageous insult to their learned status. Jesus goes on to issue three woes to the lawyers, just as he had done with the Pharisees. Sinners tend to see faithfulness as reproach, unable to distinguish between the two. Nonetheless, Jesus did not abuse or revile them, but rather dealt faithfully with them by speaking the unvarnished truth. Such frankness is rare, but it is to be expected that people will react with anger or recoil when confronted with it. The lawyer may have attempted to shelter his character behind his office, implying that any criticism directed towards him was tantamount to blasphemy against God-appointed officials like himself. Ultimately, by reproaching the Pharisees, Jesus indirectly reproached the lawyers as well, since whatever was deemed criminal for one group was also applicable to the other.",
+            "wordCount": 187,
+            "quoteTokenProportion": 43.22,
+            "qualityScore": 1.877678118903865,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.77,
+            "commentatorTierSimilarities": [
+                34.86,
+                35.77,
+                29.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man mentioned is not a common Pharisee, but a lawyer responsible for interpreting the law. He may have felt implicated in Jesus' criticism of the Pharisees. Jesus reproached the Pharisees, and the lawyer took it as an outrageous insult to their learned status. Jesus issued three woes to the lawyers just as he did to the Pharisees. Sinners often perceive faithfulness as reproach, unable to differentiate between the two. Jesus did not abuse them but dealt faithfully by speaking the unvarnished truth, which can elicit anger or recoil. The lawyer might have tried to shelter his character behind his office, implying that any criticism was blasphemy against God-appointed officials like himself. Ultimately, by reproaching the Pharisees, Jesus indirectly reproached the lawyers as well, realizing that what was criminal for one group applied to the other.",
+            "wordCount": 137,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.9849332490941791,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.34,
+            "commentatorTierSimilarities": [
+                34.03,
+                33.48,
+                32.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man in question is not an ordinary Pharisee, but a lawyer tasked with interpreting the law. Perhaps feeling targeted by Jesus' critique of the Pharisees, the lawyer perceived it as an affront to their learned status. Responding with the accusation that Jesus was insulting them, the lawyer intended to protect his character behind his office. Jesus proceeded to deliver three woes to the lawyers, similar to what he had done with the Pharisees. Sinners often view faithfulness as reproach, blurring the distinction between the two. Despite not resorting to abuse, Jesus faithfully spoke the unadulterated truth, which can provoke rage or resistance. In reproaching the Pharisees, Jesus implicitly reproached the lawyers as well, acknowledging that their actions were equally condemnable.",
+            "wordCount": 121,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 1.9507321466645071,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.2,
+            "commentatorTierSimilarities": [
+                34.29,
+                33.16,
+                32.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man addressed in this passage is not an ordinary Pharisee but a lawyer entrusted with interpreting the law. Feeling implicated by Jesus' criticism of the Pharisees, the lawyer regarded it as an outrageous insult to their esteemed position. In response, he accused Jesus of affronting them, seeking to shield his character behind his official role. Jesus proceeded to issue three woes to the lawyers, just as he had done with the Pharisees. Sinners often perceive faithfulness as reproach, struggling to distinguish between the two. Jesus, however, did not resort to abuse but faithfully spoke the unfiltered truth, which can trigger anger or aversion. By reproaching the Pharisees, Jesus indirectly reproached the lawyers as well, acknowledging their shared guilt.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.885315507592665,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                33.87,
+                36.12,
+                30.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man mentioned here is not an ordinary Pharisee, but a lawyer whose duty was to interpret the law. Possibly feeling implicated in Jesus' critique of the Pharisees, the lawyer considered it an outrageous insult to their learned status. In response, he accused Jesus of affronting them, intending to shield his character behind his official role. Jesus proceeded to pronounce three woes to the lawyers, similar to his condemnation of the Pharisees. Sinners often perceive faithfulness as reproach, struggling to discern between them. Jesus, however, faithfully spoke the unvarnished truth, which can provoke anger or recoil. By reproaching the Pharisees, Jesus indirectly reproached the lawyers, who shared the same guilt.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.9208464644245566,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                34.24,
+                34.79,
+                30.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

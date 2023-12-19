@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 14:20:34",
+    "verseRef": "Galatians 5:23",
+    "bestBHT": {
+        "bht": "The fruits of the Spirit, specifically meekness and temperance, highlight the virtues of humility and self-restraint. These qualities reveal that if one is led by the Spirit, they are not under the law, as the law does not condemn such virtues. In fact, the law itself commands love and supports these fruits. By displaying meekness and temperance, a Christian embodies the influence of the Holy Spirit, demonstrating moderation and self-control in their actions and attitudes.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 1.7702719330017658,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+        "commentatorTierSimilarities": [
+            29.64,
+            33.22,
+            37.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "meekness,\u2014again, towards God and man: and temperance,\u2014the holding-in of the lusts and desires.",
+            "This verse substantiates 'ye are not under the law'\u2014for if you are led by the Spirit, these are its fruits in you.",
+            "against these the law has nothing to say"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Greek root implies self-restraint as to one's desires and lusts.",
+            "Not persons, but things, as in :-.",
+            "The law itself commands love; so far is it from being 'against such'."
+        ],
+        "Albert Barnes": [
+            "The influences of the Holy Spirit on the heart make a man moderate in all indulgences; teach him to restrain his passions, and to govern himself; to control his evil propensities, and to subdue all inordinate affection.",
+            "A Christian must be a temperate man; and if the effect of his religion is not to produce this, it is false and vain.",
+            "No one was ever injured by the strictest temperance, by total abstinence from ardent spirits, and from wine as a beverage; no man is certainly safe who does not abstain."
+        ],
+        "Marvin Vincent": [
+            "Meekness [\u03c0\u03c1\u03b1\u03c5\u03c4\u03b7\u03c2] . See on meek, Matthew 5:5.",
+            "Temperance [\u03b5\u03b3\u03ba\u03c1\u03b1\u03c4\u03b5\u03b9\u03b1] . Only here by Paul. He alone uses ejgkrateuesqai to have continency...",
+            "There is no law [\u03bf\u03c5\u03ba \u03b5\u03c3\u03c4\u03b9\u03bd \u03bd\u03bf\u03bc\u03bf\u03c2] . Against such virtues there is no law to condemn them."
+        ],
+        "John Calvin": [
+            "where the Spirit reigns, the law has no longer any dominion.",
+            "By moulding our hearts to his own righteousness, the Lord delivers us from the severity of the law.",
+            "He thus ridicules the false apostles [...] who, while they enforced subjection to the law, were not less eager to release themselves from its yoke."
+        ],
+        "John Gill": [
+            "Meekness,.... Humility and lowliness of mind, of which Christ is an eminent example and pattern.",
+            "The fruits of the Spirit are opposed to the works of the flesh.",
+            "Against such fruits, graces, and good things; these being perfectly agreeable to the law of God, which is holy, just, and good, and spiritual."
+        ],
+        "John Wesley": [
+            "Meekness \u2014 Holding all the affections and passions in even balance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse showcases the fruits of the Spirit, which include meekness and temperance. Meekness refers to humility and lowliness of mind, while temperance emphasizes self-restraint in desires and lusts. These virtues demonstrate that if one is led by the Spirit, they are not under the law, as the law has nothing to condemn in these qualities. They align with the commandment to love, showing that the law itself supports such virtues. By displaying these fruits, a Christian exemplifies the influence of the Holy Spirit and demonstrates moderation and self-control.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7765745932817416,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                30.06,
+                33.94,
+                36.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fruits of the Spirit, specifically meekness and temperance, highlight the virtues of humility and self-restraint. These qualities reveal that if one is led by the Spirit, they are not under the law, as the law does not condemn such virtues. In fact, the law itself commands love and supports these fruits. By displaying meekness and temperance, a Christian embodies the influence of the Holy Spirit, demonstrating moderation and self-control in their actions and attitudes.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.7702719330017658,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                29.64,
+                33.22,
+                37.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Meekness and temperance are prominent among the fruits of the Spirit, representing humility, self-restraint, and moderation. These virtues demonstrate that if led by the Spirit, one is no longer under the law's jurisdiction, as the law has nothing against them. In fact, the law even commands love, thereby supporting these qualities. By exhibiting meekness and temperance, believers reflect the impact of the Holy Spirit and exhibit self-control and moderation in their thoughts, actions, and desires.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.6128292990100523,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.97,
+            "commentatorTierSimilarities": [
+                30.0,
+                32.1,
+                37.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fruits of the Spirit highlighted in Galatians 5:23 include meekness and temperance, which entail humility, self-restraint, and moderation. These virtues signify that if one is guided by the Spirit, they are not bound by the law's restrictions, as the law does not condemn such qualities. In fact, the law itself promotes love and is in alignment with these virtues. By exhibiting meekness and temperance, individuals exemplify the influence of the Holy Spirit, demonstrating self-control and moderation in their attitudes, actions, and desires.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7525686958289803,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.61,
+            "commentatorTierSimilarities": [
+                29.45,
+                34.41,
+                36.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fruits of the Spirit include meekness and temperance, representing humility, self-restraint, and moderation. These virtues show that if one is led by the Spirit, they are free from the law's condemnation. In fact, the law itself supports such qualities. By displaying meekness and temperance, believers reflect the influence of the Holy Spirit, demonstrating self-control and moderation in their attitudes and actions, and aligning themselves with the commandment to love.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.6915791238208784,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.59,
+            "commentatorTierSimilarities": [
+                29.77,
+                33.29,
+                36.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

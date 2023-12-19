@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:29:43",
+    "verseRef": "Ephesians 1:11",
+    "bestBHT": {
+        "bht": "The prevalent idea presented in this passage is that God has chosen His people for an inheritance in Christ, a plan that was established in His infinite wisdom and sovereign will. The Church existed in God's eternal mind before creation, being designated and assigned as a heritage. This divine purpose extends to both Jews and Gentiles, who have obtained a glorious inheritance in heaven through their belief in Christ. The emphasis is on God's sovereignty and the predetermined nature of salvation, highlighting His control over the entire process.",
+        "wordCount": 90,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.932907406745433,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.61,
+        "commentatorTierSimilarities": [
+            28.99,
+            29.7,
+            41.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the prevalent idea of Israel in the Old Test. 1s a people whom the Lord chose for His inheritance",
+            "the realization in time of the election in Christ spoken of before",
+            "the counsel here answers to the 'good pleasure,' ver. 5,\u2014the definite shape which the will, assumes when decided to action\u2014implying in this case the union of sovereign will with infinite wisdom"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We were made to have an inheritance\" [WAHL].",
+            "We were made an inheritance.\" [BENGEL, ELLICOTT]",
+            "The Church existed in the mind of God eternally, before it existed in creation."
+        ],
+        "Albert Barnes": [
+            "The word which is rendered 'obtained our inheritance' - \u03ba\u03bb\u03b7\u03c1\u03bf\u0301\u03c9 kle\u0304roo\u0304 - means literally 'to acquire by lot,' and then to obtain, to receive.\" ",
+            "Every leaf, flower, rose-bud, spire of grass; every sun-beam, and every flash of lightning; every cataract and every torrent, all declare his agency; and there is not an object that we see that does not bespeak the control of an All-present God.",
+            "In every instance, we are to believe that there is a good reason for what [God] does, and one which we may be permitted yet to see, and in which we shall wholly acquiesce."
+        ],
+        "Marvin Vincent": [
+            "In Him. Resuming emphatically: in Christ.\" ",
+            "The literal sense is we were designated as a heritage.",
+            "We were made a heritage."
+        ],
+        "John Calvin": [
+            "The condition of all godly persons is the same with yours; for we who were first called by God owe our acceptance to his eternal election.",
+            "Thus, he shows, that, from first to last, all have obtained salvation by free grace, because they have been freely adopted according to eternal election.",
+            "In no respect, therefore, are men admitted to share in this praise, as if they brought anything of their own. God looks at nothing out of himself to move him to elect them, for the counsel of his own will is the only and actual cause of their election."
+        ],
+        "Philip Schaff": [
+            "The word of truth. The word of the Apostle\u2019s preaching, here defined according to its character and contents.\" ",
+            "The gospel of your salvation. In apposition with \u2018the word of truth,\u2019 defining the apostolic preaching, according to the contents it imparts, setting forth the power of saving which God has joined with the gospel.\" ",
+            "Ye were sealed. While the participles do not necessarily imply antecedent action, the sequence indicated is: hearing, believing, and receiving the seal of the Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "In him (\u03b5\u03bd \u03b1\u03c5\u03c4\u03c9). Repeats the idea of \u03b5\u03bd \u03c4\u03c9 \u03a7\u03c1\u03b9\u03c3\u03c4\u03c9 of verse Ephesians 1:10.",
+            "We were made a heritage (\u03b5\u03ba\u03bb\u03b7\u03c1\u03c9\u03b8\u03b7\u03bc\u03b5\u03bd). First aorist passive of \u03ba\u03bb\u03b7\u03c1\u03bf\u03c9, an old word, to assign by lot (\u03ba\u03bb\u03b7\u03c1\u03bf\u03c2), to make a \u03ba\u03bb\u03b7\u03c1\u03bf\u03c2 or heritage.",
+            "Purpose (\u03c0\u03c1\u03bf\u03b8\u03b5\u03c3\u03b9\u03bd). Common substantive from \u03c0\u03c1\u03bf\u03c4\u03b9\u03b8\u03b7\u03bc, a setting before as in Acts 11:23; Acts 27:13."
+        ],
+        "John Gill": [
+            "Or rather to have an inheritance in him by lot, meaning the incorruptible and eternal inheritance of glory and happiness in heaven.",
+            "This is said to be obtained by lot, as the word signifies, in allusion to the land of Canaan, which was divided by lot to the children of Israel; and to show that it is not by works of righteousness done by men, but by the sovereign disposal of God.",
+            "Predestination is not only to sonship, but to an inheritance; it not only secures the grace of adoption, but prepares and provides a heavenly portion."
+        ],
+        "John Wesley": [
+            "Through whom we \u2014 Jews.\" ",
+            "Also have obtained an inheritance \u2014 The glorious inheritance of the heavenly Canaan.",
+            "The unalterable decree, 'He that believeth shall be delivered;' which will is not an arbitrary will, but flowing from the rectitude of his nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prevailing thought in this verse is the concept of God's chosen people finding their inheritance in Christ. This inheritance is not something that is earned or achieved by works, but rather a divine plan that was predetermined in the counsel of God's will. The Church, as the people of God, existed in His eternal mind before it was even created. The language used emphasizes the idea of being designated and assigned as a heritage. This divine purpose and predestination extends to both Jews and Gentiles who have obtained the glorious inheritance of heaven through their belief in Christ. Ultimately, this verse highlights the all-encompassing sovereignty of God in bringing about salvation.",
+            "wordCount": 115,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.8359870315438118,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.39,
+            "commentatorTierSimilarities": [
+                31.02,
+                28.3,
+                40.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prevalent idea presented in this passage is that God has chosen His people for an inheritance in Christ, a plan that was established in His infinite wisdom and sovereign will. The Church existed in God's eternal mind before creation, being designated and assigned as a heritage. This divine purpose extends to both Jews and Gentiles, who have obtained a glorious inheritance in heaven through their belief in Christ. The emphasis is on God's sovereignty and the predetermined nature of salvation, highlighting His control over the entire process.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.932907406745433,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.61,
+            "commentatorTierSimilarities": [
+                28.99,
+                29.7,
+                41.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The concept expressed in this portion is that God's people have been chosen by Him to receive an inheritance in Christ. This shows His plan, established in His wisdom and will, to unite His sovereign choice with infinite wisdom. The Church was in the mind of God eternally before being created. The language signifies that believers have been designated and assigned as a heritage. Ultimately, this verse underscores God's complete control and predetermination in bringing about salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.764503849497074,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                33.04,
+                31.14,
+                35.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's people are chosen by Him for an inheritance in Christ, reflecting His plan. The Church existed eternally in the mind of God before creation. The language used suggests believers have been designated and assigned as a heritage. This emphasizes the divine purpose and predestination in both Jews and Gentiles, who have obtained an inheritance in heaven through their belief in Christ. The passage highlights the sovereignty of God and His control over salvation, emphasizing His wisdom and will in the process.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7916514589328476,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.91,
+            "commentatorTierSimilarities": [
+                33.34,
+                28.78,
+                37.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's chosen people are destined to receive an inheritance in Christ, reflecting His divine plan and the union of His will with wisdom. The Church existed eternally in the mind of God before being brought into existence. Believers are designated and assigned as a heritage, emphasizing the predetermined purpose and predestination for both Jews and Gentiles. Through their faith in Christ, they obtain a glorious inheritance in heaven. This verse underscores the sovereignty of God, His control over salvation, and the unalterable decree of His will.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8148101080343984,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+            "commentatorTierSimilarities": [
+                30.0,
+                28.38,
+                41.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

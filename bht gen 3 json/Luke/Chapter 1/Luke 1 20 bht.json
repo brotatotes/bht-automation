@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:13:20",
+    "verseRef": "Luke 1:20",
+    "bestBHT": {
+        "bht": "The dumbness experienced by Zacharias was not solely punishment, but also a fulfilled sign. It is impossible to judge the degree of his unbelief, but his silence served as an explanation and a miraculous punishment that led to reflection. The Greek word used implies he was both unable to speak and hear, relying on signs from friends. Despite opposition, the Lord fulfills promises, teaching us the severity of unbelief.",
+        "wordCount": 69,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.8377060153976337,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+        "commentatorTierSimilarities": [
+            23.16,
+            40.24,
+            36.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We must not consider this dumbness solely as a punishment; it was also a sign.",
+            "It is impossible for us to say what the degree of unbelief in Zacharias was, and therefore we can be no judges as to his being deserving of the punishment.",
+            "This is not a repetition, but an explanation of the ground and reason of his silence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He asked a sign, and now he got it.",
+            "dumb\u2014speechless.",
+            "the power of speech (Luke 1:64)."
+        ],
+        "Albert Barnes": [
+            "There is no sin in the sight of God more aggravated than unbelief.",
+            "When God speaks; man should believe; nor can he that 'will not' believe escape punishment.",
+            "God speaks only truth, and we should believe Him. God speaks only what is for our good, and it is right that we should suffer if we do not credit what He says."
+        ],
+        "Marvin Vincent": [
+            "Thou shalt be silent [\u03b5\u03c3\u03b7 \u03c3\u03b9\u03c9\u03c0\u03c9\u03bd] . Lit., thou shalt be being silent.",
+            "My words, which, incredible as they seem to you, are of a kind which shall be fulfilled.",
+            "The preposition implies exactness: at the completion of the appointed time...the right point of time when circumstances shall concur."
+        ],
+        "John Calvin": [
+            "Faith has its silence to lend an ear to the Word of God.",
+            "When our faith is weak, and we throw out many obstacles, the truth of God, in continuing to flow toward us, must of necessity break through them with a kind of violence.",
+            "It does sometimes happen that, notwithstanding the opposition made by unbelievers, the Lord bestows and fulfills what he had promised to them."
+        ],
+        "Philip Schaff": [
+            "This dumbness was miraculous.",
+            "The punishment doubtless became a healing medicine for the soul of Zacharias, thus constrained to silent reflection.",
+            "An assertion of the truthfulness of angelic messages in general, and a justification of the punishment of the priest\u2019s unbelief when an angel spoke to him in the holy place."
+        ],
+        "Archibald T. Robertson": [
+            "Thou shalt be silent...Not able to speak...",
+            "His dumbness will continue...",
+            "The words were to become reality in due season."
+        ],
+        "John Gill": [
+            "Silence is sometimes voluntary; but this was what he could not help.\" ",
+            "He was struck both deaf and dumb, as appears from his friends making signs to him.",
+            "We learn from hence, what an evil unbelief is, and how much resented by God, and how much it becomes us to take heed, that it prevails not in us."
+        ],
+        "John Wesley": [
+            "The Greek word signifies deaf, as well as dumb: and it seems plain, that he was as unable to hear, as he was to speak...\" (Luke 1:20)",
+            "His friends were obliged to make signs to him, that he might understand them...\" (Luke 1:20)",
+            "Thou shalt be dumb...\" (Luke 1:20)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The dumbness experienced by Zacharias in Luke 1:20 should not be viewed solely as punishment, but also as a sign. While it is difficult to determine the extent of Zacharias' unbelief and whether he deserved such punishment, it is clear that his request for a sign was fulfilled through his temporary silence. This silence was not just a repetition, but rather an explanation of the reason behind his inability to speak. It was a miraculous punishment that served as a healing medicine for his soul, compelling him to reflect in silence. Despite the opposition of unbelievers, the Lord still bestows and fulfills his promises. The Greek word used implies that Zacharias was not only unable to speak, but also unable to hear, and thus relied on his friends to communicate through signs. This teaches us the severity of unbelief and the importance of heeding against it.",
+            "wordCount": 145,
+            "quoteTokenProportion": 42.53,
+            "qualityScore": 1.7636557922601845,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+            "commentatorTierSimilarities": [
+                22.3,
+                39.12,
+                38.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The dumbness experienced by Zacharias was not solely punishment, but also a fulfilled sign. It is impossible to judge the degree of his unbelief, but his silence served as an explanation and a miraculous punishment that led to reflection. The Greek word used implies he was both unable to speak and hear, relying on signs from friends. Despite opposition, the Lord fulfills promises, teaching us the severity of unbelief.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8377060153976337,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                23.16,
+                40.24,
+                36.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Zacharias' dumbness should not be seen as solely punishment, but also as a sign. The Greek word used suggests he was both deaf and dumb, relying on signs for communication. The silence served as an explanation and a miraculous punishment that prompted reflection. Despite opposition, the Lord fulfills promises, highlighting the gravity of unbelief.",
+            "wordCount": 54,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7361144901650585,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                23.23,
+                41.03,
+                35.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Zacharias' dumbness goes beyond mere punishment; it is a sign of something significant. The Greek word used implies that he was both deaf and dumb, relying on signs from others. This silence serves as an explanation and a miraculous punishment that leads him to reflection. Despite the opposition, the Lord fulfills his promises, revealing the gravity of unbelief.",
+            "wordCount": 58,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.7852548999719247,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.7,
+            "commentatorTierSimilarities": [
+                22.99,
+                41.59,
+                35.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Zacharias' dumbness, which is portrayed as a punishment, also bears a significant message. The Greek word used indicates that he was both deaf and mute, relying on signs in order to communicate. This silence serves as an explanation and a miraculous penalty that prompts introspection. Despite encountering opposition, the Lord proves faithful in fulfilling his promises, ultimately highlighting the solemnity of unbelief.",
+            "wordCount": 62,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.611132189236899,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.91,
+            "commentatorTierSimilarities": [
+                20.89,
+                43.07,
+                36.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

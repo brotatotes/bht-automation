@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:12:34",
+    "verseRef": "1 Corinthians 12:15",
+    "bestBHT": {
+        "bht": "Should the foot say, Because I am not the hand, I am not of the body, would it then not be part of the body? Each member should not belittle themselves or allow others to demean them because each member has their own unique function within the body. Just as in life, individuals compare themselves to those closest to them in gifts rather than those far superior. We cannot change the fact that we are all dependent on the body.",
+        "wordCount": 80,
+        "quoteTokenProportion": 64.81,
+        "qualityScore": 1.758567928981364,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.81,
+        "commentatorTierSimilarities": [
+            34.95,
+            31.13,
+            33.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Is it therefore not of the body?\" ",
+            "They thus have more of the vigour and abruptness of the Apostle's style.",
+            "Belonging to the body as an aggregate."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The humbler members ought not to disparage themselves, or to be disparaged by others more noble.",
+            "The foot and hand represent men of active life; the ear and eye, those of contemplative life.",
+            "As in life each compares himself with those whom he approaches nearest in gifts, not those far superior."
+        ],
+        "Albert Barnes": [
+            "The idea here is, that as the foot and the ear could not pretend that they were not parts of the body, and even not important, because they were not the eye, etc.",
+            "No Christian, however humble his endowments, could pretend that he was useless because he was not more highly gifted and did not occupy a more elevated rank.",
+            "The same figure and illustration which Paul here uses occurs also in pagan writers."
+        ],
+        "John Calvin": [
+            "Should a dissension break out in the body, so that the feet would refuse to discharge their office to the rest of the body, and the belly in like manner, and the eyes, and the hands, what would be the effect? Would not the result be \u2014 the destruction of the whole body?",
+            "Each member ought to rest satisfied with its own place and station, and not envy the others.",
+            "These things are said of the natural body, but they must be applied to the members of the Church, lest ambition or misdirected emulation and envy should be the occasion of bad feeling among us."
+        ],
+        "Philip Schaff": [
+            "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?\" ",
+            "The grammatical principle is undoubtedly correct; but since very much depends in such cases on how the statement is concerned by the writer, we incline to think that the real sense is conveyed quite as correctly by the interrogative form as by the affirmative.",
+            "And if legitimate at all, there can be little doubt that it is most accordant with the lively style and strain of the argument."
+        ],
+        "Archibald T. Robertson": [
+            "I am independent of the body, not dependent on the body.",
+            "Thinking or saying so does not change the fact.",
+            "The two negatives (\u03bf\u03c5--\u03bf\u03c5\u03ba) do not here destroy one another. Each retains its full force."
+        ],
+        "John Gill": [
+            "One that is in the lowest station in the church, a doorkeeper in the house of God; one that is really the least of saints, as well as thinks himself so; and has the smallest degree of heavenly affection, and knowledge of spiritual light and understanding.",
+            "One that liberally imparts to the necessities of others, who has it both in his hand and heart, and is ready to communicate; one that is full of good works, of charity towards men, and piety towards God; who does all things, Christ strengthening him, natural, civil, moral, and evangelical; yea, even miracles and mighty deeds are done by his hand.",
+            "It does not follow that so it is, for Christ, the head of the church, regards such as members; he admires the 'beauty' of his church's 'feet', and has provided for the covering, ornament, and security of them... he regards their prayers, and takes notice and accepts of their meanest services; and they are, and should be considered as members of the body, by the rest and by themselves."
+        ],
+        "John Wesley": [
+            "The foot is elegantly introduced as speaking of the hand; the ear, of the eye; each, of a part that has some resemblance to it.",
+            "So among men each is apt to compare himself with those whose gifts some way resemble his own, rather than with those who are at a distance, either above or beneath him.",
+            "Is it therefore not of the body \u2014 Is the inference good? Perhaps the foot may represent private Christians; the hand, officers in the church; the eye, teachers; the ear, hearers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Should the foot say, I am not the hand, so I am not important, would that change the fact that it is still a part of the body? No, the foot cannot detach itself from the body and claim independence. In the same way, no Christian should belittle themselves or be looked down upon by others just because they have different gifts or roles within the church. Each member, regardless of their position, is integral to the functioning of the body and should be content with their place. Comparing ourselves to those who are more gifted or influential does not change our value in the eyes of Christ.",
+            "wordCount": 108,
+            "quoteTokenProportion": 60.0,
+            "qualityScore": 1.7313507729935989,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.91,
+            "commentatorTierSimilarities": [
+                30.38,
+                34.32,
+                35.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Should the foot say, I am not the hand, so I am not important, would that change the fact that it is still a part of the body? No, the foot cannot detach itself from the body and claim independence. Each member, regardless of their position, is integral to the functioning of the body and should be content with their place. Comparing ourselves to those who are more gifted or influential does not change our value in the eyes of Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 60.71,
+            "qualityScore": 1.7404801476883272,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.21,
+            "commentatorTierSimilarities": [
+                31.48,
+                35.6,
+                32.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just as the foot cannot detach itself from the body and claim independence, no Christian should belittle themselves or be looked down upon by others based on their gifts or roles in the church. Each member, regardless of their position, is integral to the functioning of the body and should be content with their place. Comparing ourselves to those who are more gifted or influential does not change our value in the eyes of Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 55.17,
+            "qualityScore": 1.7271284427341294,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                29.96,
+                30.0,
+                40.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Should the foot say, Because I am not the hand, I am not of the body, would it then not be part of the body? Each member should not belittle themselves or allow others to demean them because each member has their own unique function within the body. Just as in life, individuals compare themselves to those closest to them in gifts rather than those far superior. We cannot change the fact that we are all dependent on the body.",
+            "wordCount": 80,
+            "quoteTokenProportion": 64.81,
+            "qualityScore": 1.758567928981364,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.81,
+            "commentatorTierSimilarities": [
+                34.95,
+                31.13,
+                33.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Should a dissension break out in the body, so that one part refuses to acknowledge its importance and belittles itself or is belittled by others, what would be the effect? Each member ought to rest satisfied with its own place and station, and not envy the others. In this analogy, the foot and hand represent those with active roles, while the ear and eye represent those with contemplative roles. Even though they may compare themselves to those with similar gifts, their significance and value should not be diminished. Christ, the head of the church, regards each member, admires their beauty, and accepts their prayers and services.",
+            "wordCount": 106,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.5258922342092975,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+            "commentatorTierSimilarities": [
+                28.62,
+                25.66,
+                45.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

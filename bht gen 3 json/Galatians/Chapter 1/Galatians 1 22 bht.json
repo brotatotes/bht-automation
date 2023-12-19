@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 14:12:39",
+    "verseRef": "Galatians 1:22",
+    "bestBHT": {
+        "bht": "The apostle Paul explains that he was largely unknown in the churches of Judea, even though they were the main focus of the apostles' work. During his time in Syria and Cilicia, he remained unfamiliar to them, and the same was true in the province of Judea apart from Jerusalem. Paul clarifies that he had not received instruction from the apostles nor was he indebted to the Christians in Judea for his knowledge of the Christian faith.",
+        "wordCount": 77,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.256714850540453,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.38,
+        "commentatorTierSimilarities": [
+            25.66,
+            41.57,
+            32.77
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "So far was I from being a disciple of the apostles...",
+            "...that I was even unknown in the churches of Judea...",
+            "...which were the chief scene of their labors."
+        ],
+        "Albert Barnes": [
+            "Paul had visited Jerusalem only, and he had formed no acquaintance with any of the churches in the other parts of Judea.",
+            "He regarded himself at the first as called to preach particularly to the Gentiles, and he did not remain even to form an acquaintance with the Christians in Judea.",
+            "He had neither been instructed by the apostles, nor was he indebted to the Christians in Judea for his knowledge of the Christian religion."
+        ],
+        "Marvin Vincent": [
+            "Was still unknown, the imperfect denoting that he remained unknown during his stay in Syria and Cilicia.",
+            "The province, as distinguished from Jerusalem, where he must have been known as the persecutor of the church.",
+            "Which were in Christ."
+        ],
+        "John Calvin": [
+            "If the churches of Judea who had only heard respecting him, were led to give glory to God for the astonishing change which he had wrought in Paul, how disgraceful was it that those who had beheld the fruits of his amazing labors should not have acted a similar part!",
+            "If the mere report was enough for the former, why did not the facts before their eyes satisfy the latter?",
+            "This appears to be added for the sake of shewing more strongly the wickedness and malignity of his slanderers."
+        ],
+        "Philip Schaff": [
+            "And was still unknown by face, by sight, personally.",
+            "Jud\u00e6a is here the district without the capital, as Italy is often distinguished from Rome.",
+            "The congregation of Jerusalem must be excepted; for there Paul was known from his visit mentioned in Galatians 1:18, and from his former life when he studied at the feet of Gamaliel and persecuted the Christians."
+        ],
+        "Archibald T. Robertson": [
+            "And I was still unknown.",
+            "By face.",
+            "For he had once scattered the church there and had revisited them before coming to Tarsus."
+        ],
+        "John Gill": [
+            "This is said to prevent what might be objected, that though the apostle had not received the Gospel he preached from any of the apostles at Jerusalem; yet he might have had it from the churches that were in the land of Judea, and from some of the principal men in them.",
+            "The Apostle and Evangelist Matthew is generally thought to have exercised his ministry chiefly in Judea, and to have continued there long; here he wrote his Gospel for the sake of the Jews that believed.",
+            "The Arabic version reads it, 'the churches of Judea which believe in Christ'; which though not a literal translation, gives the true sense of the passage, and distinguishes those churches from the synagogues or assemblies of the Jews which did not believe in Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul emphasizes that he was not initially known or associated with the churches in Judea, which were the primary places of the apostles' work. He was still unknown during his time in Syria and Cilicia and even in the province of Judea, aside from Jerusalem where he had previously persecuted the church. This lack of familiarity extended to his face, as he had once scattered the church in that region before revisiting them. He had not received instruction from the apostles nor was he indebted to the Christians in Judea for his knowledge of the Christian faith. The churches in Judea had only heard about him, yet they glorified God for the transformative change in Paul. This highlights the discrepancy between their response of praise and the skepticism of those who had witnessed the remarkable fruits of Paul's labor.",
+            "wordCount": 142,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.046556837109108,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                25.78,
+                38.86,
+                35.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul explains that he was largely unknown in the churches of Judea, even though they were the main focus of the apostles' work. During his time in Syria and Cilicia, he remained unfamiliar to them, and the same was true in the province of Judea apart from Jerusalem. Paul clarifies that he had not received instruction from the apostles nor was he indebted to the Christians in Judea for his knowledge of the Christian faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.256714850540453,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.38,
+            "commentatorTierSimilarities": [
+                25.66,
+                41.57,
+                32.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul humbly acknowledges that he was relatively unknown in the churches of Judea, which were the primary places where the apostles had labored. His unfamiliarity extended to his time in Syria and Cilicia, as well as the province of Judea, apart from Jerusalem. Paul clarifies that he had not received instruction from the apostles, nor did he owe his knowledge of the Christian faith to the believers in Judea. Despite this, the churches in Judea gave glory to God for the remarkable transformation in Paul's life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.0598759858827234,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.83,
+            "commentatorTierSimilarities": [
+                24.88,
+                41.04,
+                34.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul humbly admits that he was unknown to the churches in Judea, as his ministry was not focused there. He clarifies that he had not received instruction from the apostles nor relied on the believers in Judea for his knowledge of the faith. His lack of familiarity extended not only to his face but also to the churches themselves. Despite this, the churches in Judea glorified God for the astounding change that had taken place in Paul's life.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.9956268982220624,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.7,
+            "commentatorTierSimilarities": [
+                25.04,
+                39.5,
+                35.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul acknowledges his relative obscurity among the churches in Judea, where the apostles had primarily labored. He clarifies that he did not receive instruction from the apostles or owe his knowledge of the Christian faith to the believers in Judea. During his time in Syria and Cilicia, as well as the province of Judea, apart from Jerusalem, Paul remained largely unknown. However, the churches in Judea still offered praise to God for the remarkable transformation in Paul's life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.039179793794453,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "commentatorTierSimilarities": [
+                24.57,
+                41.75,
+                33.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

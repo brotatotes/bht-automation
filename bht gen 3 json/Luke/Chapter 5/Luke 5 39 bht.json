@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:15:47",
+    "verseRef": "Luke 5:39",
+    "bestBHT": {
+        "bht": "The Jewish people were accustomed to the old system and were resistant to embracing the grace and freedom of the Gospel. This teaches eager converts not to be disheartened if they cannot immediately influence others. The Pharisees, satisfied with the old, refuse to recognize any value in the new. In the face of opposition, we should persevere and not grow weary, continuing to share the excellence of what is new and true.",
+        "wordCount": 72,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 1.7099145526635293,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+        "commentatorTierSimilarities": [
+            26.66,
+            41.71,
+            31.63
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The persons who had drunk the old wine are the Jews, who had long been habituated to the old system;\u2014the new is the new wine of the grace and freedom of the Gospel.",
+            "Observe that there is no objective comparison whatever here between the old and new wine; the whole stress is on desireth and for he saith, and the import of better is subjective:\u2014in the view of him who utters it.",
+            "Stier observes, that the saying is a lesson for ardent and enthusiastic converts not to be disappointed, if they cannot at once instil their spirit into others about them."
+        ],
+        "Marvin Vincent": [
+            "Better [\u03c7\u03c1\u03b7\u03c3\u03c4\u03bf\u03c4\u03b5\u03c1\u03bf\u03c2] . The best texts read crhstov, good. See on Matthew 11:30. ===Luke 6:0 ",
+            "CHAPTER VI ",
+            "- 5. Compare Matthew 12:1-8; Mark 2:23-28."
+        ],
+        "John Calvin": [
+            "Though commentators have tortured it in a variety of ways, I take it simply as a warning to the Pharisees not to attach undue importance to a received custom.",
+            "For how comes it that wine, the taste of which remains unaltered, is not equally agreeable to every palate, but because custom and habit form the taste?",
+            "Hence it follows, that Christ\u2019s manner of acting towards his disciples is not less worthy of approbation, because it has less show and splendor: as old wine, though it does not foam with the sharpness of new wine, is not less agreeable on that account, or less fitted for the nourishment of the body."
+        ],
+        "Philip Schaff": [
+            "And no man having drank old wine desireth new; for he saith, The old is good.\" - This verse gives completeness to our Lord\u2019s discourse and contains the final answer to the objection raised in Luke 5:33.",
+            "There is no comparison between the relative excellence of new and old wine, but simply a statement of the wish (\u2018desireth\u2019) of one accustomed to drinking old wine.\" - The one accustomed to the old wine, says: the old is pleasant, good enough for me, I have no desire to try the new.",
+            "Even if men oppose the new and the true, because they are content with the old, and will not take the trouble to examine what is new, much less to recognize any excellence in it, let us not grow weary.\" - Let us not grow weary, even if others oppose the new and true because they are content with the old and refuse to recognize any excellence in what is new."
+        ],
+        "Archibald T. Robertson": [
+            "The prejudiced person will not even try the new, or admit that it has any merits.",
+            "He knows that the old is pleasant, and suits him; and that is enough; he is not going to change.",
+            "This is Christ's picture of the reactionary Pharisees."
+        ],
+        "John Gill": [
+            "This is a proverbial expression, and which Luke only records; which may be applied to natural men, who having drunk the old wine of their carnal lusts and pleasures, do not desire the new wine of the Gospel.",
+            "carnal lusts may be signified by old wine, both for the antiquity of them, being as old as men themselves, and therefore called the old man, and for the gratefulness of them to them.",
+            "Scribes and Pharisees, who have drank of the old wine of the law, and the traditions of the elders, do not desire the new wine of the Gospel, but prefer the former to it."
+        ],
+        "John Wesley": [
+            "And no man having drunk old wine \u2014 And beside, men are not wont to be immediately freed from old prejudices."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ's statement in this verse carries a deeper meaning about the Jews who were accustomed to the old system and were resistant to the new wine of the grace and freedom of the Gospel. It is a lesson for fervent converts not to be discouraged if they cannot immediately impart their spirit to others around them. The reactionary Pharisees are depicted as those who are content with the old and refuse to try or acknowledge the merits of the new. This verse reminds us not to grow weary when faced with opposition to the truth and to remain steadfast in sharing the excellence of what is new.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.95908752534895,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                25.6,
+                41.49,
+                32.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ's statement is a lesson for enthusiastic converts not to be disappointed if they can't immediately instill their spirit into others. The reactionary Pharisees are content with the old and refuse to acknowledge the merits of the new. This verse reminds us not to grow weary when faced with opposition to the truth and to remain steadfast in sharing the excellence of what is new. The Jews were accustomed to the old system and were resistant to the new wine of the grace and freedom of the Gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9242838942757121,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                26.43,
+                41.19,
+                32.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews, who had long been accustomed to the old system, were resistant to the new wine of the Gospel. This verse serves as a lesson for fervent converts not to be discouraged if they cannot immediately impart their spirit to others. The reactionary Pharisees, content with the old, refuse to acknowledge the merits of the new. Despite opposition, we are reminded to persevere in sharing the excellence of what is new and true.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.8089062493511334,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                24.55,
+                42.58,
+                32.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jewish people were accustomed to the old system and were resistant to embracing the grace and freedom of the Gospel. This teaches eager converts not to be disheartened if they cannot immediately influence others. The Pharisees, satisfied with the old, refuse to recognize any value in the new. In the face of opposition, we should persevere and not grow weary, continuing to share the excellence of what is new and true.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.7099145526635293,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                26.66,
+                41.71,
+                31.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews, who had long been habituated to the old system, were resistant to the new wine of the grace and freedom of the Gospel. This verse serves as a lesson for ardent and enthusiastic converts not to be disappointed if they cannot at once instill their spirit into others about them. The reactionary Pharisees, who are content with the old and refuse to try the new, are depicted in Christ's picture. Despite opposition, we should not grow weary but continue to share the excellence of what is new and true.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.9430628713933253,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.95,
+            "commentatorTierSimilarities": [
+                26.09,
+                41.06,
+                32.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

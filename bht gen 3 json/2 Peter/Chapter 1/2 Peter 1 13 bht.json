@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:40:26",
+    "verseRef": "2 Peter 1:13",
+    "bestBHT": {
+        "bht": "As I come to realize the brevity of my time in this earthly tabernacle, it is my solemn duty to stir you up and keep you spiritually awake. The intensity of Satan's opposition should motivate us to make the most of our limited time. Our bodies, like a temporary tent, remind us of the transient nature of our existence. Let us, therefore, diligently remind and rouse each other to faithfully persevere, especially as we approach the end of our earthly journey and prepare for eternity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.838759074883432,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+        "commentatorTierSimilarities": [
+            28.95,
+            38.67,
+            32.38
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But (notwithstanding this previously conceded fact, that you know and stand firm in the truth) I think it right (why, follows, ver. 14), as long as I am in this tabernacle (see for the sense 2 Cor. v. 1 ff.; and below), to stir you up..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The zeal of Satan against it, the more intense as his time is short, ought to stimulate Christians on the same ground.",
+            "I therefore need to make the most of my short time for the good of Christ's Church.",
+            "The more intense as his time is short."
+        ],
+        "Albert Barnes": [
+            "It is my appropriate duty; a duty which is felt the more as the close of life draws near.",
+            "The body is called a tabernacle, or tent, as that in which the soul resides for a little time.",
+            "Religion becomes more important to a man\u2019s mind always as he draws near the close of life, and feels that he is soon to enter the eternal world."
+        ],
+        "Marvin Vincent": [
+            "Tabernacle [\u03c3\u03ba\u03b7\u03bd\u03c9\u03bc\u03b1\u03c4\u03b9]. A figurative expression for the body, used also by Paul... the word... carries the idea of brief duration - a frail tent, erected for a night.\" ",
+            "The word, as well as the entire phrase, carries the idea of brief duration - a frail tent, erected for a night. Compare ver. 14.",
+            "To stir you up by putting you in remembrance [\u03b4\u03b9\u03b5\u03b3\u03b5\u03b9\u03c1\u03b5\u03b9\u03bd \u03c5\u03bc\u03b1\u03c2 \u03b5\u03bd \u03c5\u03c0\u03bf\u03bc\u03bd\u03b7\u03c3\u03b5\u03b9] . Lit., to stir you up in reminding."
+        ],
+        "John Calvin": [
+            "He expresses more clearly how useful and how necessary is admonition, because it is needful to arouse the faithful, for otherwise torpor will creep in from the flesh.\" ",
+            "I must diligently employ my time... the Lord has made known to me that my life in this world will not be long.",
+            "It is not commonly given to us to foresee our end; but they who are advanced in years, or weakened by illness... ought to be more sedulous and diligent, so that they may in due time perform what the Lord has given them to do."
+        ],
+        "Philip Schaff": [
+            "Their danger, on the contrary, is so grave that he must speak to them as long as life lasts... with the special object of stirring them up, or rousing them... and keeping them, by continuous reminders, awake to all that spiritually concerns them.\" ",
+            "The body is here figuratively described as a tent or \u2018tabernacle\u2019... conveying the idea that the body is the mere tenement of the man, and a fragile one, erected for a night\u2019s sojourn and quickly taken down.\" ",
+            "Here, according to Bengel, \u2018the immortality of the soul, the briefness of its abode in a mortal body, and the ease of departure in the faith, are implied.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Peter considers this to be his solemn duty, 'right' (\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03bd).",
+            "Peter feels the nearness of death and the urgency upon him.",
+            "'To keep on rousing you up' by way of reminding you."
+        ],
+        "John Gill": [
+            "Yea, I think it meet,....or just.",
+            "as long as I am in this tabernacle: or 'body',... pitched for a time, and, ere long, to be taken down.",
+            "to stir you up; to the lively exercise of grace, and constant performance of duty: by putting you in remembrance..."
+        ],
+        "John Wesley": [
+            "In this tabernacle \u2014 Or tent. How short is our abode in the body! How easily does a believer pass out of it!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is my appropriate duty, as the close of life draws near, to stir you up and remind you of the truth. The zeal of Satan against the church should serve as a reminder of the urgency and importance of our faith. The body is like a frail tent, quickly taken down, and thus, we must make the most of our short time to rouse one another up in reminding and keep awake to all that spiritually concerns us. Religion becomes more important to our minds as we draw near the close of life, knowing that we are soon to enter the eternal world.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9905767704081843,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                28.5,
+                44.82,
+                26.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the end of my life approaches, it is my duty to stir you up and remind you of the truth. The urgency and intensity of Satan's opposition to the church should serve as a motivation for us all. We are like a frail tent, easily taken down, and therefore, we must make the most of our limited time to keep one another awake in our faith. Religion becomes increasingly important as we near the end of our earthly lives and prepare for the eternal world.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.7669004903068108,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.09,
+            "commentatorTierSimilarities": [
+                30.72,
+                41.8,
+                27.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is my duty, as the end of my life draws near, to stir you up and remind you of the truth. The urgency of Satan's opposition to the church should motivate us. Our bodies are like fragile tents, reminding us of the brevity of our earthly existence. We must make the most of our limited time to remain faithful and keep one another spiritually awake. As we approach the end of our lives, the importance of our faith becomes even more evident as we prepare for the eternal world.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.737073288191707,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                28.73,
+                43.04,
+                28.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As my time in this temporary body draws to a close, it is my duty to rouse and remind you of the truth. The intensity of Satan's opposition should serve as a wake-up call, urging us to make the most of our fleeting existence. Like a frail tent, our bodies are but temporary dwellings. Therefore, let us fervently stir each other up, continuously reminding one another of what truly matters. Our faith becomes increasingly vital as we near the end, preparing for the everlasting realm.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.7399786771381112,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                30.38,
+                39.41,
+                30.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As I come to realize the brevity of my time in this earthly tabernacle, it is my solemn duty to stir you up and keep you spiritually awake. The intensity of Satan's opposition should motivate us to make the most of our limited time. Our bodies, like a temporary tent, remind us of the transient nature of our existence. Let us, therefore, diligently remind and rouse each other to faithfully persevere, especially as we approach the end of our earthly journey and prepare for eternity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.838759074883432,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+            "commentatorTierSimilarities": [
+                28.95,
+                38.67,
+                32.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

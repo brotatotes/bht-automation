@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:17:22",
+    "verseRef": "2 Corinthians 8:23",
+    "bestBHT": {
+        "bht": "The brother, having heard from Titus, had a high opinion of their mission's success. They are apostles sent by the churches, my partner and fellow-worker. They bring honor to Christ as messengers of the churches, their walk and work advancing His glory. They were chosen and sent forth by the churches, tasked with the ministration to the poor saints. Through their preaching of the gospel, they not only bring honor to Christ but also exhibit their commitment to His glory.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.1449104369174536,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.66,
+        "commentatorTierSimilarities": [
+            29.16,
+            38.61,
+            32.23
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The brother had, by what he had heard from Titus, conceived a high opinion of the probable success of their mission.",
+            "Whether concerning Titus, he is my partner and (especially) my fellow-worker toward you.",
+            "They are Apostles of the churches, the glory of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "fellow worker towards you.",
+            "apostles in the less strict sense.",
+            "sent by the churches, as we are by the Lord."
+        ],
+        "Albert Barnes": [
+            "He is my partner ... - He partakes with me in preaching the gospel, and in establishing and organizing churches; compare Titus 1:5. To the Corinthians this fact would be a sufficient commendation of Titus.",
+            "They are the messengers of the churches - They have the entire confidence of the churches, having been selected and appointed by them to a work of labor and responsibility; compare Philippians 2:25. The words here rendered \u201cmessengers of the churches,\u201d are in the original 'apostles of the churches,' (\u03b1\u0313\u03c0\u03bf\u0301\u03c3\u03c4\u03bf\u03bb\u03bf\u03b9 \u03b5\u0313\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03c9\u0342\u03bd apostoloi ekkle\u0304sio\u0304n).",
+            "And the glory of Christ - That is, they have a character so well known and established for piety; they are so eminent Christians and do such honor to the Christian name and calling, that they may be called the glory of Christ."
+        ],
+        "John Calvin": [
+            "They are called also the glory of Christ, for this reason, that as he alone is the glory of believers, so he ought also to be glorified by them in return.",
+            "Hence, all that excel in piety and holiness are the glory of Christ, because they have nothing but by Christ\u2019s gift.",
+            "They had been appointed by the Churches to undertake that office."
+        ],
+        "Philip Schaff": [
+            "\u2018They are an honour to Christ;\u2019 their walk and work bring glory to Him.\" ",
+            "Whether any inquire about Titus... he is my partner, and my fellow-worker to you-ward.",
+            "They are the messengers of the churches, they are the glory of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "He endorses Titus up to the hilt. He is 'my partner' and 'fellow-worker'.\" ",
+            "Messengers of the churches. Apostles in the general sense of 'sent ones' by the churches.",
+            "Financial agents, please observe. The glory of Christ."
+        ],
+        "John Gill": [
+            "he is my partner; he had been his companion in his travels, a partner with him in preaching the Gospel, as well as in the troubles and persecutions he had met with; and was one with whom he had had sweet communion and fellowship.",
+            "they are the messengers of the churches; they were chosen and sent forth by the churches, not only to preach the Gospel, but particularly to take care of the ministration to the poor saints.",
+            "the churches were the glory of Christ, in whom he is glorified, where his glory is seen, and his presence enjoyed;... faithfully performed the work of Christ, in all things sought his glory and not their own; and in and by whom his glory was displayed, and held forth to others."
+        ],
+        "John Wesley": [
+            "My partner \u2014 In my cares and labours.",
+            "The glory of Christ \u2014 Signal instruments of advancing his glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The brother who had heard from Titus conceived a high opinion of the probable success of their mission. They are apostles in the less strict sense; sent by the churches, as we are by the Lord. He endorses Titus up to the hilt. He is my partner and fellow-worker. They are the messengers of the churches, chosen and sent forth by them to take care of the ministration to the poor saints. They are an honor to Christ; their walk and work bring glory to Him. They partake in preaching the gospel and are the glory of Christ, signal instruments of advancing His glory.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.021235287907217,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                31.8,
+                37.37,
+                30.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The brother who had heard from Titus conceived a high opinion of their mission's success. They are apostles in the less strict sense, sent by the churches. He endorses Titus as his partner and fellow-worker. They are the messengers of the churches, chosen to take care of the ministration to the poor saints. They bring honor to Christ and advance His glory through their walk, work, and preaching of the gospel.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.081553701896823,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.55,
+            "commentatorTierSimilarities": [
+                33.5,
+                37.41,
+                29.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The opinion of the brother who had heard from Titus regarding the probable success of their mission was high. They are apostles in the less strict sense, sent by the churches, like how we are sent by the Lord. He fully endorses Titus as his partner and fellow-worker. They are chosen messengers of the churches, entrusted with the ministration to the poor saints. Through their walk, work, and preaching of the gospel, they bring honor to Christ and advance His glory.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.0676055277137824,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+            "commentatorTierSimilarities": [
+                33.8,
+                37.59,
+                28.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The brother, having heard from Titus, had a high opinion of their mission's success. They are apostles sent by the churches, my partner and fellow-worker. They bring honor to Christ as messengers of the churches, their walk and work advancing His glory. They were chosen and sent forth by the churches, tasked with the ministration to the poor saints. Through their preaching of the gospel, they not only bring honor to Christ but also exhibit their commitment to His glory.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1449104369174536,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.66,
+            "commentatorTierSimilarities": [
+                29.16,
+                38.61,
+                32.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The brother, impressed by what he heard from Titus, had a high opinion of their mission's success. They are apostles sent by the churches, as we are sent by the Lord. He fully endorses Titus as his partner and fellow-worker. They are messengers of the churches, chosen and sent forth to take care of the ministration to the poor saints. Through their walk, work, and preaching of the gospel, they bring honor to Christ and advance His glory.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.0666699774921673,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.06,
+            "commentatorTierSimilarities": [
+                32.37,
+                37.63,
+                30.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

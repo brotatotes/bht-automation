@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:33:31",
+    "verseRef": "Acts 19:5",
+    "bestBHT": {
+        "bht": "These disciples in Ephesus had previously been baptized, but it is uncertain if that baptism was considered valid within the new economy. Paul recognized the need for them to be truly baptized in the name of the Father, Son, and Holy Spirit, specifically on the authority of the Lord Jesus. This baptism marked their transition into the fullness of the new Christian dispensation and demonstrated their understanding that John's baptism was provisional. They willingly embraced the higher doctrines of Christianity while retaining their previous beliefs.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.717679109806106,
+        "qualityScoreNormalizedComparedToV2BHTs": 81.7,
+        "commentatorTierSimilarities": [
+            35.69,
+            35.78,
+            28.54
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Was it the ordinary practice to rebaptize those who had been baptized either by John or by the disciples (John iv. 1 f.) before baptism became, by the effusion of the Holy Spirit, 'the bath of regeneration?' This we cannot definitely answer.",
+            "But, in matter of fact, such a baptism as this was a baptism into the name of the Father, Son, and Holy Ghost. As Jews, these men were already servants of the living God\u2014and by putting on the Son, they received in a new and more gracious sense the Father also.",
+            "And in the sequel of their baptism, the imposition of hands, they sensibly became recipients of God the Holy Ghost. Where such manifestations were present, the form of words might be wanting; but with us, who have them not, it is necessary and imperative."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When they heard this, they were baptized into the whole fulness of the new economy, as now opened up to their believing minds.",
+            "They were baptized, not by Paul himself.",
+            "They were baptized in the name of the Lord Jesus."
+        ],
+        "Albert Barnes": [
+            "It is evident that these persons were rebaptized by the direction of Paul.\" ",
+            "If the obvious interpretation of the passage be the true one, it follows that the baptism of John was not strictly Christian baptism. It was the baptism of repentance; a baptism designed to prepare the way for the introduction of the kingdom of the Messiah.\" ",
+            "The disciples of John were rebaptized, not because baptism is designed to be repeated, but because they never had been, in fact, baptized in the manner prescribed by the Lord Jesus."
+        ],
+        "John Calvin": [
+            "That that diversity was falsely and wickedly by them believed, it appeareth by this, in that it was a pledge and token of the same adoption, and of the same newness of life, which we have at this day in our baptism; and, therefore, we do not read that Christ did baptize those again who came from John unto him.",
+            "But this opinion needeth no long refutation, because to the end they may persuade that these two baptisms be diverse, they must needs show first wherein the one differeth from the other; but a most excellent likelihood answereth on both parts, and also the agreement and conformity of the parts, which causeth us to confess that it is all one baptism.",
+            "Furthermore, as I confess that this laying on of hands was a sacrament, so I say that those fell through ignorance who did continually imitate the same. For seeing that all men agree in this, that it was a grace which was to last only for a time, which was showed by that sign, it is a perverse and ridiculous thing to retain the sign since the truth is taken away."
+        ],
+        "Philip Schaff": [
+            "The willingness on the part of these followers of John the Baptist to be baptized anew in the name of the Lord Jesus, tells us that they had committed no error in doctrine, no mistake in looking upon their master John as Messiah.",
+            "They confessed by submitting to the Christian rite that the baptism of John was simply provisional and preparatory.",
+            "And so these passed in Ephesus [...] from the imperfect to the perfect Christianity, giving up nothing of their former belief, only adding to it the higher doctrines."
+        ],
+        "Archibald T. Robertson": [
+            "Hence Paul had them baptized, not so much again, as really baptized this time, in the name or on the authority of the Lord Jesus...\" ",
+            "Proper understanding of 'Jesus' involved all the rest including the Trinity (Father, Son, and Holy Spirit).",
+            "Luke does not give a formula, but simply explains that now these men had a proper object of faith (Jesus) and were now really baptized."
+        ],
+        "John Gill": [
+            "When they heard of the Messiah, and that Jesus was he, and that it became them to believe in him.\" ",
+            "His baptism was administered in the name of the Lord Jesus.",
+            "Having been already baptized in the name of the Lord Jesus."
+        ],
+        "John Wesley": [
+            "They were baptized twice; but not with the same baptism.\" ",
+            "John did not administer that baptism which Christ afterward commanded, that is, in the name of the Father, Son, and Holy Ghost.",
+            "Paul only laid his hands upon them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These disciples in Ephesus had been previously baptized, either by John the Baptist or his disciples, but it is unclear whether this was considered a valid baptism within the new economy of the Holy Spirit. However, Paul recognized that they needed to be truly baptized in the name of the Father, Son, and Holy Spirit and specifically on the authority of the Lord Jesus. This baptism not only signified their belief in Jesus, but also marked their transition into the fullness of the new Christian dispensation. It is worth noting that Paul did not baptize them himself, but rather had them baptized in the name of the Lord Jesus. Their willingness to be rebaptized demonstrated their understanding that John's baptism was provisional and preparatory, and they willingly embraced the higher doctrines of Christianity without forsaking their previous beliefs.",
+            "wordCount": 139,
+            "quoteTokenProportion": 42.35,
+            "qualityScore": 2.9980877818843092,
+            "qualityScoreNormalizedComparedToV2BHTs": 91.02,
+            "commentatorTierSimilarities": [
+                35.76,
+                35.17,
+                29.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These disciples in Ephesus had previously been baptized, but it is unclear if that baptism was considered valid within the new economy. Paul recognized the need for them to be truly baptized in the name of the Father, Son, and Holy Spirit on the authority of the Lord Jesus. This baptism signified their belief in Jesus and marked their transition into the fullness of the new Christian dispensation. They willingly embraced the higher doctrines of Christianity while adding to their previous beliefs.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.7078326917075124,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.37,
+            "commentatorTierSimilarities": [
+                36.07,
+                35.02,
+                28.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These disciples in Ephesus had previously been baptized, but it is uncertain if that baptism was considered valid within the new economy. Paul recognized the need for them to be truly baptized in the name of the Father, Son, and Holy Spirit, specifically on the authority of the Lord Jesus. This baptism marked their transition into the fullness of the new Christian dispensation and demonstrated their understanding that John's baptism was provisional. They willingly embraced the higher doctrines of Christianity while retaining their previous beliefs.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.717679109806106,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.7,
+            "commentatorTierSimilarities": [
+                35.69,
+                35.78,
+                28.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These disciples in Ephesus had previously received a baptism, but it is unclear if it was valid within the new economy. Paul recognized the need for them to be baptized in the name of the Father, Son, and Holy Spirit, specifically on the authority of the Lord Jesus. This marked their transition into the fullness of the new Christian dispensation, as they embraced the higher doctrines of Christianity while adding to their previous beliefs.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.623713248908773,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.58,
+            "commentatorTierSimilarities": [
+                36.09,
+                35.74,
+                28.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These disciples in Ephesus had been baptized before, but the validity of their baptism was uncertain within the new economy. Paul acknowledged the need for them to be baptized in the name of the Father, Son, and Holy Spirit, particularly on the authority of the Lord Jesus. This baptism signified their belief in Jesus and marked their transition into the fullness of the new Christian dispensation. They willingly embraced the higher doctrines of Christianity, while also retaining their prior beliefs.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.6919320096097836,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.85,
+            "commentatorTierSimilarities": [
+                36.15,
+                35.06,
+                28.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

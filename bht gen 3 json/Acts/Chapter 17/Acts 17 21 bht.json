@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:32:45",
+    "verseRef": "Acts 17:21",
+    "bestBHT": {
+        "bht": "The Athenians were known for their insatiable thirst for novelty, always seeking out the latest news and ideas. Their craving for what was fresher than the new was a defining characteristic, with their own writers criticizing them for this frivolity. They spent their time telling or hearing some new thing, as if the previous new thing had quickly grown stale. This constant pursuit of newer and more extravagant experiences consumed their lives, even infecting the strangers who visited Athens. Nothing was ever enough for these itching and frivolous Athenians.",
+        "wordCount": 89,
+        "quoteTokenProportion": 42.65,
+        "qualityScore": 1.9414980279662042,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+        "commentatorTierSimilarities": [
+            38.28,
+            29.38,
+            32.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The character here given of the Athenians is also that which we find in their own historians and orators.",
+            "One remarkable one is found in Demosthenes, where in stirring them up against Philip, he says...",
+            "Are ye content to be always going about the marketplace asking one another, What new thing is reported? Can any thing be stranger than that a Macedonian man should&c. &c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "All the Athenians . . . spent their time in nothing else but to tell or hear some new thing\u2014literally, 'newer thing,' as if what was new becoming presently stale, they craved something still more new.\" ",
+            "This lively description of the Athenian character is abundantly attested by their own writers."
+        ],
+        "Albert Barnes": [
+            "For all the Athenians - This was their general character.",
+            "The learned and subtle Athenians gave themselves much to speculation, and employed themselves in examining the various new systems of philosophy that were proposed.",
+            "This is well known to have been the character of the people of Athens at all times."
+        ],
+        "Marvin Vincent": [
+            "New things at once became of no account; newer things were being sought for.",
+            "Their own orators and poets lashed them for this peculiarity.",
+            "You despise what is familiar, while you are worshippers of every new extravagance."
+        ],
+        "Philip Schaff": [
+            "New things were ever becoming stale, and newer things were sought for.",
+            "The very latest news.",
+            "Is there any news?"
+        ],
+        "Archibald T. Robertson": [
+            "They had time for... new thing.\" ",
+            "Something fresher than the new.",
+            "The new soon became stale with these itching and frivolous Athenians."
+        ],
+        "John Gill": [
+            "For all the Athenians,.... The natives of Athens, who were born and lived there, and were inhabitants of the city, and free of it: and strangers which were there; who came there from several parts of the world, to get wisdom and knowledge, to learn the several arts and sciences.",
+            "spent their time in nothing else but either to tell or to hear some new thing; that is, they did so for the most part; and this was the complexion and taste of the generality of them.",
+            "The Jewish doctors, at this time, were much of the same cast in their divinity schools; the usual question asked, when they met one another, was, \u05de\u05d4 \u05d7\u05d3\u05d5\u05e9, 'what new thing' have you in the divinity school today."
+        ],
+        "John Wesley": [
+            "And the strangers sojourning there \u2014 And catching the distemper of them.\" ",
+            "Some new thing \u2014 The Greek word signifies some newer thing.",
+            "New things quickly grew cheap, and they wanted those that were newer still."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Athenians had a relentless hunger for novelty and always sought after the latest news and ideas. They craved something fresher than the new, as what was current soon became stale to them. This insatiable desire for the newest and most extravagant things was deeply ingrained in their character, as their own historians and orators attested. Their constant pursuit of novelty consumed their time, as they were either telling or hearing some new thing. Even the strangers who came to Athens were infected by this obsession, catching the same distemper. It seems that for the Athenians, nothing was ever enough; they always wanted something newer and more exciting.",
+            "wordCount": 108,
+            "quoteTokenProportion": 46.84,
+            "qualityScore": 1.9041665041924494,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "commentatorTierSimilarities": [
+                35.74,
+                33.62,
+                30.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Athenians were known for their insatiable thirst for novelty, always seeking out the latest news and ideas. Their craving for what was fresher than the new was a defining characteristic, with their own writers criticizing them for this frivolity. They spent their time telling or hearing some new thing, as if the previous new thing had quickly grown stale. This constant pursuit of newer and more extravagant experiences consumed their lives, even infecting the strangers who visited Athens. Nothing was ever enough for these itching and frivolous Athenians.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.9414980279662042,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                38.28,
+                29.38,
+                32.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Athenians were known for their relentless pursuit of novelty, constantly seeking out the latest news and ideas. Their insatiable desire for something fresher than the new became a defining characteristic, with their own writers and orators criticizing them for their fickleness. They spent all their time either sharing or hearing about some new thing, never satisfied with what they already knew. This obsession with the newest and most extravagant experiences consumed the lives of both the Athenians and those who came to visit them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.881627263236056,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                37.45,
+                31.28,
+                31.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Athenians were notorious for their constant pursuit of novelty. They spent their time telling or hearing some new thing, always seeking out what was fresher than the new. Their insatiable hunger for the latest news and ideas became a defining characteristic. This frivolous obsession with the newest and most extravagant experiences was criticized by their own writers and orators. Even the strangers who visited Athens were infected by this relentless desire for novelty. For the Athenians, nothing was ever enough; they always craved something newer and more exciting.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.862020256257313,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                37.11,
+                32.08,
+                30.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Athenians had an unquenchable thirst for novelty, constantly seeking out the latest news and ideas. Their insatiable desire for what was fresher than the new was deeply ingrained in their character, as their own historians and writers attested. They spent their time telling or hearing some new thing, always in search of something newer and more extravagant. This endless pursuit of novelty consumed their lives, extending even to the strangers who visited Athens. The Athenians were driven by an insatiable craving for constant newness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.899068674650988,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.49,
+            "commentatorTierSimilarities": [
+                37.32,
+                33.61,
+                29.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

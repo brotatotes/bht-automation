@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:32:41",
+    "verseRef": "Acts 17:20",
+    "bestBHT": {
+        "bht": "The apostle Paul encountered opposition from the Epicureans and Stoics, whose ideologies centered on pleasure and pride. The people criticized him as a 'babbler' and were perplexed by the unfamiliar gods he preached \u2013 Jehovah and the Risen Savior. They desired to understand the meaning behind these 'strange things' and asked Paul for clarification. Their curiosity stemmed from a genuine longing to comprehend the essence, purpose, and implications of Paul's teachings.",
+        "wordCount": 71,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.4740057630810859,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.35,
+        "commentatorTierSimilarities": [
+            25.47,
+            43.34,
+            31.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The two enemies it has ever had to contend with are the two ruling principles of the Epicureans and Stoics\u2014Pleasure and Pride.",
+            "What will this babbler say?\u2014The word, which means 'a picker-up of seeds,' bird-like, is applied to a gatherer and retailer of scraps of knowledge, a prater; a general term of contempt for any pretended teacher.",
+            "The strange gods were Jehovah and the Risen Saviour, ordained to judge the world."
+        ],
+        "Albert Barnes": [
+            "Certain strange things - Literally, something pertaining to a foreign country or people. Here it means something unusual or remarkable - something different from what they had been accustomed to hear from their philosophers.",
+            "What these things mean - We would understand more clearly what is affirmed respecting Jesus and the resurrection."
+        ],
+        "Marvin Vincent": [
+            "Strange [\u03be\u03b5\u03bd\u03b9\u03b6\u03bf\u03bd\u03c4\u03b1] . A participle : surprising. Compare 1 Peter 4:4, 1 Peter 4:12."
+        ],
+        "Archibald T. Robertson": [
+            "\u03be\u03b5\u03bd\u03b9\u03b6\u03bf\u03bd\u03c4\u03b1 \u03b3\u03b1\u03c1 \u03c4\u03b9\u03bd\u03b1 \u03b5\u03b9\u03c3\u03c6\u03b5\u03c1\u03b5\u03b9\u03c2\" - \"For thou bringest certain strange things (\u03be\u03b5\u03bd\u03b9\u03b6\u03bf\u03bd\u03c4\u03b1 \u03b3\u03b1\u03c1 \u03c4\u03b9\u03bd\u03b1 \u03b5\u03b9\u03c3\u03c6\u03b5\u03c1\u03b5\u03b9\u03c2).\" ",
+            "\u03b2\u03bf\u03c5\u03bb\u03bf\u03bc\u03b5\u03b8\u03b1 \u03bf\u03c5\u03bd \u03b3\u03bd\u03c9\u03bd\u03b1\" - \"We would know therefore (\u03b2\u03bf\u03c5\u03bb\u03bf\u03bc\u03b5\u03b8\u03b1 \u03bf\u03c5\u03bd \u03b3\u03bd\u03c9\u03bd\u03b1).",
+            "repeating \u03b3\u03bd\u03c9\u03bd\u03b1 (the essential point)\" - \"repeating \u03b3\u03bd\u03c9\u03bd\u03b1 (the essential point)."
+        ],
+        "John Gill": [
+            "For thou bringest certain strange things to our ears,.... Strange doctrines and strange deities, such as they had never heard of before.\" ",
+            "we would know therefore what these things mean.\" ",
+            "they desire he would explain these things to them, and let them know the rise, and ground, and nature, and end, and design of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul's message in Acts 17:20 challenged the prevailing beliefs of the Epicureans and Stoics, which were rooted in pleasure and pride. The people regarded Paul and his teachings with contempt, calling him a babbler - someone who gathers and retails scraps of knowledge. To them, the gods of Jehovah and the Risen Savior seemed strange, as they were unfamiliar with the concept of a resurrected deity. Curious about these new ideas, they asked Paul to explain the meaning behind his teachings, expressing their desire to understand the nature, purpose, and significance of what he was proclaiming.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.5443410091780858,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.69,
+            "commentatorTierSimilarities": [
+                25.97,
+                44.06,
+                29.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul encountered opposition from the Epicureans and Stoics, whose ideologies centered on pleasure and pride. The people criticized him as a 'babbler' and were perplexed by the unfamiliar gods he preached \u2013 Jehovah and the Risen Savior. They desired to understand the meaning behind these 'strange things' and asked Paul for clarification. Their curiosity stemmed from a genuine longing to comprehend the essence, purpose, and implications of Paul's teachings.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.4740057630810859,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.35,
+            "commentatorTierSimilarities": [
+                25.47,
+                43.34,
+                31.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prevailing doctrines of pleasure and pride perpetuated by the Epicureans and Stoics stood in opposition to Paul's teachings in Acts 17:20. While deemed a contemptuous 'babbler' by the people, Paul introduced them to unfamiliar deities - Jehovah and the Risen Savior. Intrigued by these 'strange things,' they sought a deeper understanding, yearning for an explanation of the meaning and significance contained within Paul's message.",
+            "wordCount": 65,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.4569915498703612,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.79,
+            "commentatorTierSimilarities": [
+                26.41,
+                45.09,
+                28.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 17:20, the apostle Paul encountered opposition from the Epicureans and Stoics, who adhered to the principles of pleasure and pride. Considered a contemptuous babbler, Paul introduced them to the unfamiliar gods of Jehovah and the Risen Savior. Intrigued by these strange things, the people expressed their desire to comprehend the meaning behind Paul's teachings and sought clarification. Their eagerness to understand reflected a genuine curiosity about the origins, essence, and purpose of these new beliefs.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.439679141809603,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.21,
+            "commentatorTierSimilarities": [
+                25.76,
+                44.38,
+                29.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The opposition faced by Paul in Acts 17:20 can be traced back to the countering principles of pleasure and pride upheld by the Epicureans and Stoics. Described as a 'babbler,' Paul's teachings introduced the people to unfamiliar gods, namely Jehovah and the Risen Savior, which they found perplexing. Eager to grasp the meaning of these 'strange things,' they sought clarification from Paul, indicating a genuine desire to comprehend the nature, significance, and motive behind his message.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.4128955634433042,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.32,
+            "commentatorTierSimilarities": [
+                26.06,
+                45.43,
+                28.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

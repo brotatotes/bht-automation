@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:09:05",
+    "verseRef": "Titus 3:1",
+    "bestBHT": {
+        "bht": "Christians are reminded to be in subjection to governments, authorities, and magistrates, and to obey them. This duty, though well-known, is prone to be forgotten. The doctrine of baptismal regeneration, often misunderstood, is firmly supported by Holy Scripture. Those who oppose this doctrine are at odds with the clear testimony of the Bible. Amidst the opposition faced by Christianity and the rebellious tendencies of certain groups, it is important to remember the recognized Christian principle of submission to ruling powers. Willful obedience is implied in being ready towards every good work.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 1.8470764590763888,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+        "commentatorTierSimilarities": [
+            38.26,
+            27.56,
+            34.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Put them in mind (as of a duty previously and otherwise well known, but liable to be forgotten) to be in subjection to governments, to authorities, to obey magistrates, to be ready towards every good work.",
+            "BAPTISMAL REGENERATION' is the distinguishing doctrine of the new covenant: but let us take care that we know and bear in mind what 'baptism' means: not the mere ecclesiastical act, not the mere fact of reception by that act among God\u2019s professing people; but that, completed by the divine act, manifested by the operation of the Holy Ghost in the heart and through the life.",
+            "It should be a caution to those persons who revile this doctrine, entirely mistaking its purport and tendency, that they have the most direct and emphatic testimony of Holy Scripture against them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Put them in mind\u2014as they are in danger of forgetting their duty, though knowing it.",
+            "The opposition of Christianity to heathenism, and the natural disposition to rebellion of the Jews under the Roman empire... might lead many to forget practically what was a recognized Christian principle in theory, submission to the powers that be.",
+            "Willful obedience is implied in 'ready to every good work.'"
+        ],
+        "Albert Barnes": [
+            "Put them in mind to be subject ... - See the duty here enjoined, explained in the notes at Romans 13:1, following.",
+            "Principalities and powers - See these words explained in the notes at Romans 8:38.",
+            "To be ready to every good work - 'To be prepared for' (\u03b5\u0314\u03c4\u03bf\u03b9\u0301\u03bc\u03bf\u03c5\u03c2 hetoimous); prompt to perform all that is good; Notes, Philippians 4:8."
+        ],
+        "Marvin Vincent": [
+            "Principalities which are authorities. Arch beginning = that which begins : the leader, principality.",
+            "Exousia right, authority.",
+            "The phrase N. T. o. Etoimov ready, only here in Pastorals."
+        ],
+        "John Calvin": [
+            "We are all by nature desirous of power; and the consequence is, that no one willingly is subject to another.",
+            "That subjection to princes, and that obedience to magistrates, which he demands, is extended to edicts, and laws, and other parts of civil government.",
+            "He who desires to have them removed, or shakes off their yoke, is an enemy of equity and justice, and is therefore devoid of all humanity."
+        ],
+        "Philip Schaff": [
+            "The primitive Church, drawn mainly from the discontented classes, the poor and the servile, taught the equality and dignity of all men a doctrine which might readily ferment into a spirit of repugnance to all authority.",
+            "It included also large numbers of Jews, the most seditious of the subjects of the Empire.",
+            "The leaders of the new body deemed it prudent frequently to counsel submission."
+        ],
+        "Archibald T. Robertson": [
+            "To be in subjection to rulers, to authorities, to be obedient... No \u03ba\u03b1 (and) between the two substantives or the two verbs.\" ",
+            "\u03a0\u03b5\u03b9\u03b8\u03b1\u03c1\u03c7\u03b5\u03b9\u03bd (to obey), old verb (from \u03c0\u03b5\u03b9\u03b8\u03bf\u03bc\u03b1\u03b9, \u03b1\u03c1\u03c7\u03b7), in N.T. only here and Acts 27:21.",
+            "Pauline phrase (2 Corinthians 9:8; 2 Timothy 2:21; 2 Timothy 3:17), here adjective \u03b5\u03c4\u03bf\u03b9\u03bc\u03bf\u03c2 (2 Corinthians 9:5), there verb."
+        ],
+        "John Gill": [
+            "Put them in mind to be subject to principalities and powers... and to obey magistrates; inferior ones; in all things that are according to the laws of God, and right reason..."
+        ],
+        "John Wesley": [
+            "Remind them...To be subject...To principalities...And powers...And to obey.",
+            "All the Cretan Christians...Passively, not resisting.",
+            "Them actively, so far as conscience permits."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Put them in mind to be in subjection to governments, to authorities, to obey magistrates. This duty may be well known, but it is prone to be forgotten. The doctrine of baptismal regeneration, while often misunderstood, has strong scriptural support. Those who revile this doctrine will find themselves at odds with the testimony of Holy Scripture. Submission to the powers that be is a recognized Christian principle, but amidst the opposition of Christianity to heathenism and the natural inclination of the Jews towards rebellion, it is easy to forget. However, it is important to remember that willful obedience is implied in being ready towards every good work.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.782620448258371,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                39.57,
+                29.58,
+                30.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Put them in mind to be in subjection to governments, authorities, and magistrates, and to obey them. This duty, though well known, tends to be forgotten. Baptismal regeneration is a central doctrine, but it is crucial to understand its true meaning and not just the outward act or initiation into a church. The testimony of Holy Scripture stands against those who reject this doctrine. Christians should remember the principle of submission to rulers, even amidst the challenges of opposing heathenism and the rebellious tendencies of certain Jewish factions. Willful obedience is essential in being ready for every good work.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.7714481450004023,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                36.67,
+                29.33,
+                34.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Put them in mind to be in subjection to governments, authorities, and magistrates, and to obey them. This duty, though well known, tends to be forgotten. Baptismal regeneration is a central doctrine, but it is crucial to understand its true meaning and not just the outward act of initiation. The testimony of Holy Scripture stands against those who reject this doctrine. Christians should remember the principle of submission to rulers, even amidst the challenges of opposing heathenism and the rebellious tendencies of certain Jewish factions. Willful obedience is essential in being ready for every good work.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.7661436726984743,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                36.47,
+                29.84,
+                33.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christians are reminded to be in subjection to governments, authorities, and magistrates, and to obey them. This duty, though well-known, is prone to be forgotten. The doctrine of baptismal regeneration, often misunderstood, is firmly supported by Holy Scripture. Those who oppose this doctrine are at odds with the clear testimony of the Bible. Amidst the opposition faced by Christianity and the rebellious tendencies of certain groups, it is important to remember the recognized Christian principle of submission to ruling powers. Willful obedience is implied in being ready towards every good work.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.8470764590763888,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                38.26,
+                27.56,
+                34.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christians are urged to be in subjection to governments, authorities, and magistrates, and to obey them. This reminder is necessary as this duty, although well-known, tends to be forgotten. The doctrine of baptismal regeneration, often misunderstood, is strongly supported by Holy Scripture. Those who reject this doctrine go against the clear testimony of the Bible. Amidst the challenges of opposing heathenism and the rebellious tendencies of certain groups, it is important to remember the recognized Christian principle of submission to ruling powers. Willful obedience is crucial in being prepared for every good work.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.815603513459843,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "commentatorTierSimilarities": [
+                36.27,
+                30.48,
+                33.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

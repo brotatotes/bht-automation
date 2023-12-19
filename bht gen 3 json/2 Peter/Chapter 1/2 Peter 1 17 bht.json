@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:40:26",
+    "verseRef": "2 Peter 1:17",
+    "bestBHT": {
+        "bht": "He received honor and glory from God the Father, as a voice came from the excellent glory saying, This is my beloved Son, in whom I am well pleased. This voice, which came from the cloud when Christ was transfigured on the mount, confirmed that Jesus is the Messiah, the Son of God. The brightness of the cloud and the utterance of these words demonstrated the divine honor and inexpressible glory bestowed upon Jesus, revealing the Father's love and approval of Him.",
+        "wordCount": 83,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 2.2026986323946574,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.58,
+        "commentatorTierSimilarities": [
+            26.58,
+            32.07,
+            41.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For (justification of the above assertion that we were admitted witnesses of His majesty) having received (the construction is an interrupted one: so in the original) from God the Father honour and glory.",
+            "This is my beloved Son, in whom (literally, on whom) I am well pleased (the words are as in Matt. xvii. 5, where however we have \u201cin whom\u201d for \u201con whom,\u201d and \u201chear him\u201d is added.",
+            "It is worth notice, that the words are in an independent form here. on whom is what is culled a pregnant construction,\u2014 'on whom my pleasure has lighted and abides'."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "received . . . honour\u2014in the voice that spake to Him.",
+            "glory\u2014in the light which shone around Him.",
+            "from the excellent glory\u2014rather as Greek, 'by (that is, uttered by) the magnificent glory (that is, by God: as His glorious manifested presence is often called by the Hebrews 'the Glory,' compare 'His Excellency,' Deuteronomy 33:26; Psalms 21:5).'"
+        ],
+        "Albert Barnes": [
+            "He was honored by God in being thus addressed.",
+            "The magnificent splendor; the bright cloud which overshadowed them.",
+            "This demonstrated that he was the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Excellent [\u03bc\u03b5\u03b3\u03b1\u03bb\u03bf\u03c0\u03c1\u03b5\u03c0\u03bf\u03c5\u03c2] . Or sublime. Only here in the New Testament.",
+            "The phrase excellent glory refers to the bright cloud which overshadowed the company on the transfiguration mount, like the shekinah above the mercy-seat.",
+            "The phrase excellent glory refers to the bright cloud which overshadowed the company on the transfiguration mount, like the shekinah above the mercy-seat."
+        ],
+        "John Calvin": [
+            "For when Christ is acknowledged by us to be him whom the Father has sent, this is our highest wisdom.",
+            "When he says, 'This is,' the expression is very emphatical, intimating, that he was the Messiah who had been so often promised.",
+            "In the other part of the sentence, he announces Christ as his own Son, in whom his whole love dwells and centres."
+        ],
+        "Philip Schaff": [
+            "The thing dwelt on is not the splendour of Christ\u2019s own appearance on the occasion, but the tribute which came by the voice.",
+            "The voice is called \u2018such a voice,\u2019 that is to say, \u2018such as I am now to record,\u2019 or perhaps \u2018a voice so wonderful in kind.\u2019",
+            "It may be represented thus \u2018My Son, My beloved One, this is, in whom I am well pleased.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "For he received (\u03bb\u03b1\u03b2\u03c9\u03bd \u03b3\u03b1\u03c1).",
+            "When there came such a voice to him (\u03c6\u03c9\u03bd\u03b7\u03c2 \u03b5\u03bd\u03b5\u03c7\u03b8\u03b5\u03b9\u03c3\u03b7\u03c2 \u03b1\u03c5\u03c4\u03c9 \u03c4\u03bf\u03b9\u03b1\u03c3\u03b4\u03b5).",
+            "From the excellent glory (\u03c5\u03c0\u03bf \u03c4\u03b7\u03c2 \u03bc\u03b5\u03b3\u03b1\u03bb\u03bf\u03c0\u03c1\u03b5\u03c0\u03bf\u03c5\u03c2 \u03b4\u03bf\u03be\u03b7\u03c2)."
+        ],
+        "John Gill": [
+            "Not as an inferior from a superior, for he was equal in glory with the Father, and was, and is, the brightness of his Father's glory.",
+            "This voice was not that at his baptism... nor that of which mention is made in John 12:28... but that voice which came from the cloud, when Christ was transfigured on the mount.",
+            "The following words were articulately pronounced, 'this is my beloved Son, in whom I am well pleased'."
+        ],
+        "John Wesley": [
+            "He received divine honour and inexpressible glory - Shining from heaven above the brightness of the sun.",
+            "When there came such a voice from the excellent glory \u2014 That is, from God the Father.",
+            "Matthew 17:5."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He received honor and glory from God the Father; a voice came from the excellent glory saying, This is my beloved Son, in whom I am well pleased. The voice was not that at his baptism or the one mentioned in John 12:28, but the voice that came from the cloud when Christ was transfigured on the mount, shining with a brightness surpassing the sun. This voice declared that Jesus is the Messiah, the Son of God, in whom the Father's whole love dwells and centers. This recognition of Christ as the one sent by the Father is our highest wisdom.",
+            "wordCount": 101,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.1076732590080534,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+            "commentatorTierSimilarities": [
+                24.26,
+                31.78,
+                43.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He received honor and glory from God the Father; a voice came from the excellent glory saying, This is my beloved Son, in whom I am well pleased. The voice was not that at his baptism or the one mentioned in John 12:28, but the voice that came from the cloud when Christ was transfigured on the mount, shining with a brightness surpassing the sun. This voice declared that Jesus is the Messiah, the Son of God, in whom the Father's whole love dwells and centers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.1957061078193947,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+            "commentatorTierSimilarities": [
+                25.26,
+                32.51,
+                42.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He received honor and glory from God the Father, as a voice came from the excellent glory saying, This is my beloved Son, in whom I am well pleased. This voice, which came from the cloud when Christ was transfigured on the mount, confirmed that Jesus is the Messiah, the Son of God. The brightness of the cloud and the utterance of these words demonstrated the divine honor and inexpressible glory bestowed upon Jesus, revealing the Father's love and approval of Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.2026986323946574,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.58,
+            "commentatorTierSimilarities": [
+                26.58,
+                32.07,
+                41.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He received honor and glory from God the Father, as a voice came from the excellent glory saying, This is my beloved Son, in whom I am well pleased. This voice, which came from the cloud when Christ was transfigured on the mount, confirmed that Jesus is the Messiah, the Son of God. The brightness of the cloud and the utterance of these words demonstrated the divine honor and inexpressible glory bestowed upon Jesus, revealing the Father's love and approval of Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.2026986323946574,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.58,
+            "commentatorTierSimilarities": [
+                26.58,
+                32.07,
+                41.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus received honor and glory from God the Father, as a voice came from the excellent glory saying, This is my beloved Son, in whom I am well pleased. The voice, which came from the cloud when Christ was transfigured, affirmed that Jesus is the Messiah and the Son of God. This divine recognition revealed the deep love and approval of the Father towards Jesus, showcasing the divine honor and inexpressible glory bestowed upon Him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.1021250330495143,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.24,
+            "commentatorTierSimilarities": [
+                25.94,
+                31.77,
+                42.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

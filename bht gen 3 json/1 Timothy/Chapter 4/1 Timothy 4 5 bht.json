@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:28:58",
+    "verseRef": "1 Timothy 4:5",
+    "bestBHT": {
+        "bht": "Food is sanctified by the word of God and intercession, just as the Lord's Supper sanctifies the elements. The thanksgiving prayer at the table brings the meal into harmony with God, transforming it from its naturally alien position to its true relationship with the new life. Our thanksgiving should be rooted in the words of Scripture, just as the ancient grace in the Apostolic Constitutions consists of Scripture. Through faith, the use of God's gifts can be advantageous and lawful, but we must approach food with knowledge and calling on the name of God.",
+        "wordCount": 96,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.3110557377402845,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+        "commentatorTierSimilarities": [
+            37.29,
+            26.48,
+            36.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is sanctified by means of the word of God and intercession.\" ",
+            "The thanksgiving itself, or some part of it, is in some sense the word of God.\" ",
+            "Such utterance of God\u2019s revealed will, bringing as it would the assembled family and their meal into harmony with Him, might well be said to sanctify the meats on the table for their use."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Just as in the Lord's Supper, the thanksgiving prayer sanctifies the elements, separating them from their naturally alien position in relation to the spiritual world, and transferring them to their true relation to the new life.\" ",
+            "So in every use of the creature, thanksgiving prayer has the same effect, and ought always to be used.",
+            "The Apostolic Constitutions [7.49], give this ancient grace, almost wholly consisting of Scripture, 'Blessed art thou, O Lord, who feedest me from my youth, who givest food to all flesh: Fill our hearts with joy and gladness, that we, having all sufficiency, may abound unto every good work in Christ Jesus our Lord, through whom glory, honour, and might, be to thee for ever. Amen.'"
+        ],
+        "Albert Barnes": [
+            "It would be profane or unholy if he had forbidden it; it is made holy or proper for our use by his permission.",
+            "No command of 'man' can make it unholy or improper.",
+            "By prayer we are enabled to receive it with gratitude, and everything that we eat or drink may thus be made a means of grace."
+        ],
+        "Marvin Vincent": [
+            "Thanksgiving to God has a sanctifying effect.",
+            "The food in itself has no moral quality...but acquires a holy quality by its consecration to God.",
+            "Scripture contains the Word of God, and the thanksgiving at table was in the words of Scripture."
+        ],
+        "John Calvin": [
+            "But it ought to be observed, that this word must be embraced by faith, in order that it may be advantageous; for, although God himself sanctifies all things by the Spirit of his mouth, yet we do not obtain that benefit but by faith.",
+            "Common sense, indeed, pronounces, that the wealth of the world is naturally intended for our use; but, since dominion over the world was taken from us in Adam, everything that we touch of the gifts of God is defiled by our pollution; and, on the other hand, it is unclean to us, till God graciously come to our aid, and by ingrafting us into his Son, constitutes us anew to be lords of the world, that we may lawfully use as our own all the wealth with which he supplies us.",
+            "Hence it ought to be inferred that the use of all the gifts of God is unclean, unless it be accompanied by true knowledge and calling on the name of God; and that it is a beastly way of eating, when we sit down at table without any prayer; and, when we have eaten to the full, depart in utter forgetfulness of God."
+        ],
+        "Philip Schaff": [
+            "Sanctified. Better, \u2018consecrated.\u2019",
+            "Such formulae, so far as they are now extant, were for the most part a tesselated mosaic of scriptural phrases.",
+            "The word rendered \u2018prayer\u2019 is that translated \u2018 intercession\u2019 in 1 Timothy 2:1, and implies a prayer offered by the head of the household for all members of it, that they might receive the food before them according to the Divine purpose in bestowing it."
+        ],
+        "Archibald T. Robertson": [
+            "It is sanctified (\u03b1\u03b3\u03b9\u03b1\u03b6\u03b5\u03c4\u03b1). Present passive indicative of \u03b1\u03b3\u03b9\u03b1\u03b6\u03c9, here 'rendered holy' rather than 'declared holy.'",
+            "Through the word of God and prayers (\u03b4\u03b9\u03b1 \u03bb\u03bf\u03b3\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5 \u03ba\u03b1 \u03b5\u03bd\u03c4\u03b5\u03c5\u03be\u03b5\u03c9\u03c2).",
+            "Paul seems to refer to Genesis 1. It is almost a hendiadys 'by the use of Scripture in prayer.'"
+        ],
+        "John Gill": [
+            "By virtue of this word of God, every creature may be made use of, that is fit for food.",
+            "It is not by bread or meat only, but through the word of God commanding a blessing on what is eaten, that man lives.",
+            "And so did the Essenes among the Jews, and the Christians in Tertullian's time; and the practice is highly necessary and commendable, nor ought it to be disused."
+        ],
+        "John Wesley": [
+            "It is sanctified by the word of God \u2014 Creating all, and giving it to man for food.",
+            "And by prayer \u2014 The children of God are to pray for the sanctification of all the creatures which they use.",
+            "And not only the Christians, but even the Jews, yea, the very heathens used to consecrate their table by prayer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that food is sanctified by the word of God and intercession, and that this sanctification is similar to how the Lord's Supper transforms the elements. The thanksgiving prayer at the table brings the meal into harmony with God and separates the food from its naturally alien position, transferring it to its true relationship with the new life. The act of thanksgiving has a sanctifying effect, giving the food a holy quality. Just as the Apostolic Constitutions give an ancient grace consisting of Scripture, our thanksgiving should also be rooted in the words of Scripture. Ultimately, through faith, the use of all the gifts of God can be made advantageous and lawful for us, but it is essential that we approach food with knowledge and calling on the name of God.",
+            "wordCount": 135,
+            "quoteTokenProportion": 40.45,
+            "qualityScore": 2.2385536965305803,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.77,
+            "commentatorTierSimilarities": [
+                38.22,
+                26.58,
+                35.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Food is sanctified by the word of God and intercession, just as the Lord's Supper sanctifies the elements. The thanksgiving prayer at the table brings the meal into harmony with God, transforming it from its naturally alien position to its true relationship with the new life. This act of thanksgiving has a sanctifying effect, giving the food a holy quality. Our thanksgiving should be rooted in the words of Scripture, just as the ancient grace in the Apostolic Constitutions consists of Scripture. Through faith, the use of God's gifts can be advantageous and lawful, but we must approach food with knowledge and calling on the name of God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 2.2405027375664543,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.84,
+            "commentatorTierSimilarities": [
+                38.76,
+                26.55,
+                34.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Food is sanctified by the word of God and intercession, just as the Lord's Supper sanctifies the elements. The thanksgiving prayer at the table brings the meal into harmony with God, transforming it from its naturally alien position to its true relationship with the new life. Our thanksgiving should be rooted in the words of Scripture, just as the ancient grace in the Apostolic Constitutions consists of Scripture. Through faith, the use of God's gifts can be advantageous and lawful, but we must approach food with knowledge and calling on the name of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.3110557377402845,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+            "commentatorTierSimilarities": [
+                37.29,
+                26.48,
+                36.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Food is made holy by the word of God and intercession. The thanksgiving prayer at the table aligns the meal with God, transforming it from its alien state to its true relationship with the new life. Our gratitude, rooted in Scriptural words, possesses a sanctifying power. Through faith, the use of God's gifts becomes beneficial and lawful, but we must approach food with knowledge and invoke the name of God. Thus, our meals are sanctified by the scriptural word and prayer, separating them from their natural state and consecrating them to God's purpose.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.227326229852455,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.4,
+            "commentatorTierSimilarities": [
+                36.97,
+                27.13,
+                35.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Food is sanctified by the word of God and intercession. The thanksgiving prayer at the table brings the meal into harmony with Him, transferring it from its naturally alien position to its true relation to the new life. This act of thanksgiving has a sanctifying effect, giving the food a holy quality. Our gratitude should be rooted in the words of Scripture, just as the ancient grace in the Apostolic Constitutions consists mostly of Scripture. Through faith, the use of all the gifts of God can be advantageous and lawful, but we must recognize the importance of prayer and the invocation of God's name in our approach to food.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.2272879147919404,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.4,
+            "commentatorTierSimilarities": [
+                38.78,
+                27.16,
+                34.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

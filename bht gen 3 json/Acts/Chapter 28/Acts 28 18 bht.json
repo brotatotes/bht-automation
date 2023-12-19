@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:37:27",
+    "verseRef": "Acts 28:18",
+    "bestBHT": {
+        "bht": "The officials who had examined me, such as Felix and Festus, had wished to let me go, for they found no reason to charge me with a crime worthy of death. They had acquitted me of sedition and wrong-doing, just as other great Roman officials like Sergius Paulus, Gallio, Claudius Lysias, and Agrippa had done. Their acquittals demonstrated that there was no cause of death in my case, as the various examinations revealed no evidence of any crime that would warrant such a punishment.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.685821846734686,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+        "commentatorTierSimilarities": [
+            28.49,
+            37.17,
+            34.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18. would have (wished to) let me go] This may have been at ch. xxv. 8. The possibility of such a release is asserted by Agrippa, ch. xxvi. 32."
+        ],
+        "Albert Barnes": [
+            "When they had examined me ... - Acts 24:10-27; Acts 25:0; Acts 26:31-32.",
+            "No cause of death - No crime worthy of death."
+        ],
+        "Philip Schaff": [
+            "All the great Roman officials...had acquitted him of sedition and wrong-doing.",
+            "He was thinking of Sergius Paulus, Gallio, Claudius Lysias, Felix, Festus and Agrippa.",
+            "Especially the last two names, the Roman governor and the Jewish king, who so unwillingly had sent him to Rome to be judged before the imperial tribunal."
+        ],
+        "Archibald T. Robertson": [
+            "When they had examined me of the judicial examinations by Felix and Festus.",
+            "This is a correct statement as the words of both Felix and Festus show.",
+            "Because of the being no cause of death in me in my case, usual word for crime or charge of crime."
+        ],
+        "John Gill": [
+            "Would have let [me] go; released him from his bonds, and set him at liberty to go where he pleased.\" ",
+            "Because there was no cause of death in me; no crime proved upon him, which was worthy of death.\" ",
+            "And this was the sense of Lysias the chief captain, and of Felix and Festus the Roman governors, and of King Agrippa."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The officials who had examined me, such as Felix and Festus, had wished to let me go, for they found no reason to charge me with a crime worthy of death. They had acquitted me of sedition and wrong-doing, just as other great Roman officials like Sergius Paulus, Gallio, Claudius Lysias, and Agrippa had done. Their acquittals demonstrated that there was no cause of death in my case, as the various examinations revealed no evidence of any crime that would warrant such a punishment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.685821846734686,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+            "commentatorTierSimilarities": [
+                28.49,
+                37.17,
+                34.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The officials, including Felix and Festus, who had examined me, would have let me go as there was no crime worthy of death found in my case. Like other Roman officials, such as Sergius Paulus, Claudius Lysias, and Agrippa, they had acquitted me of any wrongdoing. Their acquittals demonstrated that there was no cause for my execution, as the examinations had failed to provide evidence of any crime that would warrant such a punishment.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6660175477849373,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.74,
+            "commentatorTierSimilarities": [
+                30.08,
+                35.29,
+                34.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The officials, including Felix and Festus, desired to release me since there was no cause of death in my case, no crime that warranted such punishment. They had acquitted me, just like other Roman officials had done before, such as Sergius Paulus, Claudius Lysias, and Agrippa. Their acquittals made it clear that there was no reason for my execution, as the examinations had failed to find any evidence of wrongdoing deserving such a severe penalty.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.6026993099869917,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.63,
+            "commentatorTierSimilarities": [
+                32.01,
+                33.72,
+                34.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The officials, like Felix and Festus, wished to let me go, acknowledging that there was no cause of death in my case. They had acquitted me, as other Roman officials had done before, such as Sergius Paulus, Claudius Lysias, and Agrippa. Their acquittals highlighted that there was no legitimate reason for my execution, as the examinations had failed to reveal any wrongdoing deserving of such severe punishment.",
+            "wordCount": 67,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.623573834958018,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                33.28,
+                32.61,
+                34.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The officials, including Felix and Festus, desired to release me as there was no crime deserving of death found in my case. Their acquittal, along with that of other Roman officials like Sergius Paulus, Claudius Lysias, and Agrippa, demonstrated that there was no justification for my execution. The examinations conducted had failed to uncover any evidence of wrongdoing that would merit such a severe punishment.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.552684432383061,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.97,
+            "commentatorTierSimilarities": [
+                32.4,
+                34.17,
+                33.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

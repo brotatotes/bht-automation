@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:21:23",
+    "verseRef": "Luke 18:42",
+    "bestBHT": {
+        "bht": "By speaking a word and bestowing power, Jesus fulfilled the blind man's desire to see, whereby he said, Thy faith hath saved thee. This indicates that faith is not only instrumental in obtaining temporal salvation but could also potentially lead to spiritual and eternal salvation. The centrality of faith in the attainment and experience of salvation is evident, as faith serves as the means by which one obtains and embraces the author of salvation, Jesus Christ.",
+        "wordCount": 77,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.3648533204669184,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.97,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Be it to thee as thou desirest, look up and see: thus by a word speaking, and power going along with it, without making use of any means, he fulfilled his desire.",
+            "Thy faith hath saved thee; or has obtained salvation for thee, a temporal salvation; and it may be also a spiritual and an eternal one.",
+            "For that is the concern faith has in salvation; it is the means of obtaining and enjoying it: Christ, the object of faith, is the author of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With a simple word spoken and power accompanying it, Jesus fulfilled the blind man's desire to see. Jesus tells him, Your faith has saved you, suggesting that his faith played a role in not only obtaining temporal salvation but possibly even spiritual and eternal salvation as well. This highlights the significance of faith in obtaining and experiencing salvation, with Christ as the object of this faith and the author of salvation.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.047444155624653,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By speaking a word and bestowing power upon it, Jesus granted the blind man's request to have his sight restored, showing that his faith had saved him. This faith not only brought about temporal salvation but also possibly spiritual and eternal salvation. Faith plays a crucial role in the attainment and enjoyment of salvation, as it is through faith that one can obtain and embrace the author of salvation, Jesus Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.1429917941002086,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.6,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With a word spoken and power accompanying it, Jesus fulfilled the blind man's desire to see. Thy faith hath saved thee, suggests that faith plays a role in obtaining both temporal and possibly spiritual and eternal salvation. This emphasizes the importance of faith in attaining and enjoying salvation, where Christ is the object of faith and the author of salvation.",
+            "wordCount": 61,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 2.21100211898341,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.86,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By speaking a word and bestowing power, Jesus fulfilled the blind man's desire to see, whereby he said, Thy faith hath saved thee. This indicates that faith is not only instrumental in obtaining temporal salvation but could also potentially lead to spiritual and eternal salvation. The centrality of faith in the attainment and experience of salvation is evident, as faith serves as the means by which one obtains and embraces the author of salvation, Jesus Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.3648533204669184,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.97,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through a simple word spoken and the accompanying power, Jesus fulfilled the blind man's longing to see. He affirmed, Thy faith hath saved thee. This underlines how faith plays a role in gaining salvation, not only in its temporal sense but possibly even in its spiritual and eternal dimensions. Faith is the channel through which one obtains and enjoys salvation, with Jesus Christ serving as both the object of faith and the one who brings about salvation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.839870518522199,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:35:09",
+    "verseRef": "Acts 22:27",
+    "bestBHT": {
+        "bht": "The officer's question, art thou a Roman?, shows his disbelief towards Paul's claim. The emphasized pronoun thou highlights this incredulity, as it seemed unimaginable that someone like Paul could possess Roman citizenship. While being from Tarsus did not guarantee Roman citizenship, Paul's affirmation of his status confirmed his credibility. This compelled the officer to dig deeper and uncover the truth of the matter.",
+        "wordCount": 66,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 1.5353859912350925,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.39,
+        "commentatorTierSimilarities": [
+            36.29,
+            32.7,
+            31.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "27-29. art thou a Roman?\u2014showing",
+            "\tthat this being of Tarsus, which he had told him before ( :-) did not necessarily imply that he was a Roman citizen."
+        ],
+        "Philip Schaff": [
+            "'Thou art thou a Roman?'",
+            "The haughty officer, proud of his nationality, could scarcely believe that the poor accused and probably insignificant-looking Jew before him was a citizen of Rome.",
+            "The pronoun is strangely emphatic."
+        ],
+        "Archibald T. Robertson": [
+            "Art thou a Roman? (\u03a3\u03c5 \u03a1\u03bf\u03bc\u03b1\u03b9\u03bf\u03c2 \u03b5\u03b9?).",
+            "Thou (emphatic position) a Roman? It was unbelievable. "
+        ],
+        "John Gill": [
+            "To Paul: tell me, art thou a Roman?\" ",
+            "The chief captain desires that he would tell him the whole truth of the matter.\" ",
+            "He said yea; that he was one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "27-29. The question asked by the officer, art thou a Roman? reveals his incredulity towards Paul's claim. The fact that Paul was from Tarsus did not automatically make him a Roman citizen. The officer's emphasis on the pronoun thou highlights his doubt, as he could not believe that someone like Paul could possess such a status. Ultimately, Paul confirms that he is indeed a Roman citizen, displaying his credibility and necessitating the officer to uncover the truth behind the matter.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.4936794193315626,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.01,
+            "commentatorTierSimilarities": [
+                36.49,
+                31.45,
+                32.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The officer's question, art thou a Roman?, shows his disbelief towards Paul's claim. The emphasized pronoun thou highlights this incredulity, as it seemed unimaginable that someone like Paul could possess Roman citizenship. While being from Tarsus did not guarantee Roman citizenship, Paul's affirmation of his status confirmed his credibility. This compelled the officer to dig deeper and uncover the truth of the matter.",
+            "wordCount": 66,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.5353859912350925,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.39,
+            "commentatorTierSimilarities": [
+                36.29,
+                32.7,
+                31.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The interrogator's response to Paul's claim, art thou a Roman?, reflects his astonishment at the idea. The emphasized pronoun thou suggests the officer's difficulty in accepting that someone like Paul could hold Roman citizenship. Despite being from Tarsus, Paul attests to his status as a Roman citizen, which ultimately necessitates further investigation. The officer's skepticism underscores the significance of this revelation and the need to ascertain the truth of the matter.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.5027600152464662,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.31,
+            "commentatorTierSimilarities": [
+                34.44,
+                33.19,
+                32.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The officer's question, art thou a Roman? conveys his incredulity towards Paul's claim. The emphasized pronoun thou highlights the officer's difficulty believing that a seemingly insignificant Jew like Paul could possess Roman citizenship. Paul's affirmative response confirms his status, compelling the officer to delve into the matter to ascertain the truth. The officer's skepticism underscores the significance of Paul's claim and the need to uncover the full details of his case.",
+            "wordCount": 77,
+            "quoteTokenProportion": 22.92,
+            "qualityScore": 1.4587687948257102,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.85,
+            "commentatorTierSimilarities": [
+                33.48,
+                32.32,
+                34.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The officer's disbelief is evident in his question to Paul: art thou a Roman? The emphasized pronoun thou reveals his incredulity that someone like Paul could be a Roman citizen. While Paul's origin in Tarsus did not automatically grant him Roman citizenship, his affirmation confirms his status. This revelation prompts the officer to seek the truth behind Paul's claim. The officer's skepticism underscores the importance of uncovering the full details of the matter.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.5155995247825529,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "commentatorTierSimilarities": [
+                34.25,
+                31.65,
+                34.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

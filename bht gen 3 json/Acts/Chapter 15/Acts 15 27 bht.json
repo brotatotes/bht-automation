@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:31:34",
+    "verseRef": "Acts 15:27",
+    "bestBHT": {
+        "bht": "The chosen men, the same ones mentioned above and who went out from us, will tell you the same things by word of mouth that were written in the contents of the Epistle. They will confirm and explain these things to you, restoring the harmony that was disturbed by those who troubled you with words. Through their own statements, they will express their indignation at the attempt to bring the Christian Church under judicial and legal bondage, bringing unity and clarity to the Church.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.9881862833283224,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+        "commentatorTierSimilarities": [
+            32.54,
+            40.76,
+            26.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the same things as above, the contents of the Epistle (and any explanation required)",
+            "not, as Neander, \u2018the same things as Paul and Barnabas have preached'",
+            "by mouth, as opposed to \u2018by letter,\u2019 decides against this interpretation"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Certain which went out from us have troubled you with words\u2014without authority or even knowledge of the church at Jerusalem.\"  ",
+            "Such strong language is evidently designed to express indignation at this attempt, by an unauthorized party, to bring the whole Christian Church under judicial and legal bondage."
+        ],
+        "Albert Barnes": [
+            "The same things - The same things that we wrote to you They will confirm all by their own statements."
+        ],
+        "Philip Schaff": [
+            "These notable envoys would certify that the letter had actually proceeded from a unanimous resolve of the Church at Jerusalem, and that Barnabas and Saul were thus honored and beloved there...\" ",
+            "They would give fuller information respecting the decrees, and answer every inquiry that might be made, as living epistles confirmed by the letter, and confirming it in return...",
+            "Thus by their word they should restore again the harmony which those unsent members of their Church had disturbed."
+        ],
+        "Archibald T. Robertson": [
+            "Who themselves also shall tell you the same things by word of mouth."
+        ],
+        "John Gill": [
+            "The chosen men before mentioned.",
+            "Who shall also tell you the same things by mouth.",
+            "Which would both confirm and explain things unto them."
+        ],
+        "John Wesley": [
+            "Who will tell you the same things \u2014 Which we have written."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The contents of the Epistle, the same things that were written before, will be confirmed and explained by these notable envoys. They will give fuller information about the decrees and restore the harmony that was disturbed by unauthorized parties. By their word, they will express indignation at the attempt to bring the Christian Church under legal bondage. These chosen men will tell you the same things that were written and bring unity to the Church through their own statements.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8336281941263577,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                32.27,
+                46.65,
+                21.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The same things that were written before, the contents of the Epistle, will be confirmed and explained by these notable envoys. They will give fuller information about the decrees and restore the harmony that was disturbed by unauthorized parties. By their word, they will express indignation at the attempt to bring the Christian Church under legal bondage. These chosen men will tell you the same things that were written and bring unity to the Church through their own statements.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.826572568392956,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                32.33,
+                46.36,
+                21.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The contents of the Epistle, the same things that were written before, will be confirmed and explained by these notable envoys. They will give fuller information about the decrees and restore the harmony that was disturbed by unauthorized parties. By their word, they will express indignation at the attempt to bring the Christian Church under legal bondage. These chosen men will tell you the same things that were written and bring unity to the Church through their own statements.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8336281941263577,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                32.27,
+                46.65,
+                21.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The same things that were written before, the contents of the Epistle, will be confirmed and explained by these notable envoys. They will give fuller information about the decrees and restore the harmony that was disturbed by unauthorized parties. By their word, they will express indignation at the attempt to bring the Christian Church under legal bondage. These chosen men will tell you the same things that were written and bring unity to the Church through their own statements.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.826572568392956,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                32.33,
+                46.36,
+                21.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chosen men, the same ones mentioned above and who went out from us, will tell you the same things by word of mouth that were written in the contents of the Epistle. They will confirm and explain these things to you, restoring the harmony that was disturbed by those who troubled you with words. Through their own statements, they will express their indignation at the attempt to bring the Christian Church under judicial and legal bondage, bringing unity and clarity to the Church.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.9881862833283224,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                32.54,
+                40.76,
+                26.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

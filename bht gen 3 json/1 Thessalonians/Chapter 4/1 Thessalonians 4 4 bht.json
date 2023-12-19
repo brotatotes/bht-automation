@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 13:59:26",
+    "verseRef": "1 Thessalonians 4:4",
+    "bestBHT": {
+        "bht": "In this context, sanctification is explained as abstaining from fornication and conducting marital relations in holiness and honor. Each person is instructed to possess their own wife in sanctification and honor, treating her with respect and purity. The metaphorical acquiring his own vessel refers to acquiring one's own wife, highlighting the importance of having one's own spouse to avoid temptations and maintain purity. By approaching the marriage bed with chastity, the sanctity of the marital union is preserved.",
+        "wordCount": 80,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 2.2890721902728486,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.45,
+        "commentatorTierSimilarities": [
+            31.12,
+            33.79,
+            35.09
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sanctification has been explained to consist in abstaining from fornication. And now this fornication comes to be specified, wherein it consists, and how it may be guarded against: viz. in carrying on the divinely-appointed commerce of the sexes in holiness and honour.",
+            "Thus the context would be satisfied, and the emphatic position of his own...and acquire would retain its proper meaning: that each of you should know how to acquire his own vessel (for this purpose) in sanctification and honour.",
+            "This interpretation is that of some of the principal among the ancients, including Augustine, and of many of the principal moderns."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "know\u2014by moral self-control.\" ",
+            "how to acquire (get for himself) his own vessel\" ",
+            "in sanctification"
+        ],
+        "Albert Barnes": [
+            "The word 'vessel' here probably refers to the body... because it is that which contains the soul, or in which the soul is lodged.",
+            "The word vessel... was used by the latter Hebrews to denote a wife, as the vessel of her husband.",
+            "The injunction then is, that we should preserve the body pure... that we should honor it as a noble work of God, to be employed for pure purposes."
+        ],
+        "Marvin Vincent": [
+            "That every one of you should know how to possess his vessel...render, that every one of you treat his own wife honorably.\" ",
+            "Neither in LXX nor Class. does it mean body...Here, metaphorically, for wife.",
+            "On the contrary, let each one treat honorably his own wife."
+        ],
+        "Philip Schaff": [
+            "Each was to possess a wife of his own. As to the Corinthians (1 Corinthians 7:2), Paul says, \u2018To avoid fornication, let every man have his own wife.\u2019",
+            "Let every man get a wife of his own, that thus neither the public prostitute nor another man\u2019s spouse may be a temptation to him.",
+            "Impurity and shame are always connected with ill-regulated appetites and lawless passions; men are therefore to marry that they may be pure and without shame."
+        ],
+        "Archibald T. Robertson": [
+            "Learn the habit of purity.\" ",
+            "The man shall acquire his own wife 'in sanctification and honour.'",
+            "When the husband comes to the marriage bed, he should come as a chaste man to a chaste wife."
+        ],
+        "John Gill": [
+            "Now for a man to possess his vessel in this sense, is to enjoy his wife, and to use that power he has over her in a becoming manner.",
+            "For marriage is honourable when the bed is kept undefiled; and which may be defiled, not only by taking another into it, and which is not possessing the wife in sanctification and honour, it is the reverse, for it is a breaking through the rules of chastity and honour.",
+            "For, by fornication, a man sins against his own body; and by adultery he gets a wound, and a dishonour, and a reproach that will not be wiped away; and by sodomy, and such like unnatural lusts, men dishonour their own bodies between themselves."
+        ],
+        "John Wesley": [
+            "That every one know \u2014 For this requires knowledge, as well as chastity.",
+            "To possess his vessel \u2014 His wife.",
+            "Remembering, marriage is not designed to inflame, but to conquer, natural desires."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Thessalonians 4:4, the concept of sanctification is explained as abstaining from fornication, specifically in the context of the appropriate conduct within the divine institution of marriage. This requires treating one's own spouse with sanctification and honor, respecting the marriage bed as a place of purity and maintaining moral self-control. The idea of acquiring his own vessel metaphorically refers to acquiring one's own wife, emphasizing the importance of each person having their own spouse to avoid temptations and maintaining purity. Ultimately, this verse encourages believers to approach the marriage bed with chastity, honoring the sanctity of the marital relationship.",
+            "wordCount": 101,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 2.266058940410239,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.69,
+            "commentatorTierSimilarities": [
+                30.43,
+                34.98,
+                34.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the focus is on the importance of sanctification within the context of marriage. It emphasizes the need for spouses to treat one another with honor and purity. Each person is encouraged to acquire their own spouse in sanctification, using moral self-control and knowing how to possess their own vessel, metaphorically referring to their wife. The aim is to approach the marriage bed with chastity, ensuring that it remains a place of purity and honor.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.237930918818452,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.75,
+            "commentatorTierSimilarities": [
+                31.51,
+                33.72,
+                34.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, sanctification is explained as abstaining from fornication and carrying on marital relations in holiness and honor. Each person is encouraged to acquire their own spouse in sanctification, and by doing so, they treat their own wife honorably. The emphasis is on moral self-control and the importance of maintaining purity within the marriage relationship. By approaching the marriage bed with chastity, husbands and wives uphold the sacredness of their union.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.222649290819165,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.24,
+            "commentatorTierSimilarities": [
+                32.49,
+                32.99,
+                34.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sanctification within marriage is explained as abstaining from fornication and conducting the divine institution of spousal relations in holiness and honor. The emphasis is on each person's responsibility to possess their own wife in sanctification and honor, treating her with respect and purity. This concept of acquiring his own vessel metaphorically refers to acquiring one's own wife and emphasizes the importance of each person having their own spouse to avoid temptations and maintain purity within the marital relationship. It highlights the significance of approaching the marriage bed with chastity, honoring the sanctity of the marital union.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.240248869480463,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.83,
+            "commentatorTierSimilarities": [
+                30.47,
+                33.94,
+                35.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this context, sanctification is explained as abstaining from fornication and conducting marital relations in holiness and honor. Each person is instructed to possess their own wife in sanctification and honor, treating her with respect and purity. The metaphorical acquiring his own vessel refers to acquiring one's own wife, highlighting the importance of having one's own spouse to avoid temptations and maintain purity. By approaching the marriage bed with chastity, the sanctity of the marital union is preserved.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.2890721902728486,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.45,
+            "commentatorTierSimilarities": [
+                31.12,
+                33.79,
+                35.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

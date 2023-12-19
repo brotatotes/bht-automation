@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:29:28",
+    "verseRef": "Acts 10:24",
+    "bestBHT": {
+        "bht": "Cornelius and his near friends, fearers of the true God, eagerly awaited Peter's teaching, being influenced by Cornelius' vision. These near friends, not just relatives but intimate friends, were bound to him by necessary and natural ties. Cornelius, as a man of influence, desired all he knew to hear the gospel, prioritizing their spiritual welfare. He focused on this singular purpose, setting aside secular matters, and eagerly expected Peter's arrival, ready to receive his words of grace.",
+        "wordCount": 79,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 2.0098698739806204,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.17,
+        "commentatorTierSimilarities": [
+            28.04,
+            35.21,
+            36.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These near friends of Cornelius...must have been influenced by his vision to wait for the teaching of Peter.",
+            "These near friends of Cornelius...must have been fearers of the true God.",
+            "These near friends of Cornelius...like himself, must have been fearers of the true God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "implying that he had been long enough at C\u00e6sarea to form relationships there",
+            "he had intimate friends there whose presence he was not ashamed to invite",
+            "to a religious meeting of the most solemn nature"
+        ],
+        "Albert Barnes": [
+            "His kinsmen - His relatives, or the connections of his family. A man may often do vast good by calling his kindred and friends to hear the gospel."
+        ],
+        "Marvin Vincent": [
+            "Near [\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03b9\u03bf\u03c5\u03c2] . The word originally means necessary; hence of those who are bound by necessary or natural ties; blood - relations.",
+            "But as relatives or kinsmen is expressed by suggeneiv, this must be taken in the sense of intimate friends.",
+            "A meaning which it has in later Greek writers."
+        ],
+        "John Calvin": [
+            "When God revealeth himself unto us we must not choke the light of his knowledge with sloth or fear, but we must rather endeavor that our faith may shine before others to give light, and to show the way to them.",
+            "If others be made co-heirs with us, it shall rather increase our glory.",
+            "This is the true study of godliness, when as together with zeal there appeareth such plainness, that we are not ashamed to depend upon the mouth of God."
+        ],
+        "Philip Schaff": [
+            "The phrase seems to imply, if not impatience, yet serious anxiety, mingled with confidence.",
+            "His good influence was widely diffused around him, and he was desirous that all whom he knew should share the blessing granted to himself.",
+            "This kindly, simple-hearted, and loving believer, is shown to us more and more as the centre and head of a considerable circle of pious Gentiles in Caesarea, which city was now to be favored by being the seat of the first Gentile church."
+        ],
+        "Archibald T. Robertson": [
+            "Was waiting (\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03b4\u03bf\u03ba\u03c9\u03bd). Periphrastic imperfect active, in eager expectation and hope, directing the mind (\u03b4\u03bf\u03ba\u03b1\u03c9) towards (\u03c0\u03c1\u03bf\u03c2) anything.\" ",
+            "Near (\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03b9\u03bf\u03c5\u03c2). Only instance in the N.T. of this sense of \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03b9\u03bf\u03c2 from \u03b1\u03bd\u03b1\u03b3\u03ba\u03b7, necessity, what one cannot do without, necessary (1 Corinthians 12:22), duty (Acts 13:46), or blood relations as here.",
+            "The ancient Greek writers combined these two words (\u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03b9\u03c2, kinsmen, \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03b9\u03bf\u03c5\u03c2, necessary friends) as here. It was a homogeneous group of Gentiles close to Cornelius and predisposed to hear Peter favourably."
+        ],
+        "John Gill": [
+            "It would be well if this was always the case of the hearers of the word, to assemble before their ministers come; and be waiting for them, and in full expectation of them, and ready to receive them, and the words of grace which drop from their lips.",
+            "This shows the true grace of God in him, which wherever it is, puts a man on seeking after the spiritual and eternal welfare of all with whom he is concerned, and especially his relatives and friends."
+        ],
+        "John Wesley": [
+            "Cornelius was waiting for them \u2014 Not engaging himself in any secular business during that solemn time, but being altogether intent on this one thing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Cornelius, along with his near friends who were influenced by his vision and shared his fear of the true God, eagerly awaited the arrival of Peter. These near friends were not just blood relatives, but rather intimate friends who were bound by necessary and natural ties. Cornelius, being a man of influence and a center of pious Gentiles in Caesarea, desired that all whom he knew should have the opportunity to hear the gospel. He devoted himself to seeking the spiritual and eternal welfare of his relatives and friends, reflecting the true grace of God in him. He set aside secular matters, directing his mind towards the teaching of Peter, and was ready to receive him and the words of grace that would be spoken.",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.9893798345401295,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.49,
+            "commentatorTierSimilarities": [
+                26.71,
+                37.17,
+                36.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Cornelius and his near friends, fearers of the true God, eagerly awaited Peter's teaching, being influenced by Cornelius' vision. These near friends, not just relatives but intimate friends, were bound to him by necessary and natural ties. Cornelius, as a man of influence, desired all he knew to hear the gospel, prioritizing their spiritual welfare. He focused on this singular purpose, setting aside secular matters, and eagerly expected Peter's arrival, ready to receive his words of grace.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.0098698739806204,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.17,
+            "commentatorTierSimilarities": [
+                28.04,
+                35.21,
+                36.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Cornelius and his near friends, who, like himself, feared the true God, were influenced by his vision and awaited Peter's teaching. These near friends were not just blood relations, but rather intimate friends who were bound by necessary and natural ties. Reflecting the true grace of God in him, Cornelius prioritized seeking the spiritual and eternal welfare of his relatives and friends. He directed his mind towards the teaching of Peter, eagerly expecting his arrival, ready to receive the words of grace that would be spoken.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.956437501357748,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.39,
+            "commentatorTierSimilarities": [
+                29.38,
+                33.84,
+                36.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Cornelius and his near friends, who were influenced by his vision and feared the true God, eagerly awaited Peter's teaching. These near friends, being intimate and necessary companions, were bound not just by blood relations but also by their shared devotion. Reflecting God's grace, Cornelius prioritized the spiritual welfare of his relatives and friends. With eager expectation, he directed his mind towards the teaching of Peter, ready to receive the words of grace that would be spoken.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9813453645463106,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                28.83,
+                34.84,
+                36.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Cornelius and his close friends, influenced by his vision and fearers of the true God, waited eagerly for Peter's teaching. These near friends, bound by necessary and natural ties, were intimate companions rather than just blood relatives. Reflecting the true grace of God, Cornelius prioritized the spiritual and eternal welfare of his relatives and friends. With hopeful anticipation, he directed his focus towards Peter's arrival and was prepared to receive the words of grace that would be spoken.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.936606297863385,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                27.84,
+                35.64,
+                36.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

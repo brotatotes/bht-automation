@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 15:14:30",
+    "verseRef": "2 Corinthians 1:2",
+    "bestBHT": {
+        "bht": "Our preaching concerning Christ is affirmed and substantiated as truth by the agency of the Lord Himself. Through Christ, all the promises of God find their affirmation and fulfillment. The salutation Grace be to you is a common Christian greeting found in the Apostle Paul's letters, emphasizing the unifying power of the Christian faith.",
+        "wordCount": 55,
+        "quoteTokenProportion": 37.21,
+        "qualityScore": 1.6773988501807573,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+        "commentatorTierSimilarities": [
+            46.83,
+            26.63,
+            26.54
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Christ as preached, i.e. our preaching concerning Christ, is made yea, finds its reality, in Christ Himself.",
+            "Christ preached as the Son of God by us, has become yea in Him, has been affirmed and substantiated as verity by the agency of the Lord Himself.",
+            "For how many soever be the promises of God, in Him is the yea (the affirmation and fulfilment of them all); wherefore also through Him is the Amen, for glory to God by our (the Apostles') means."
+        ],
+        "Albert Barnes": [
+            "Grace be to you ... - This is the usual Christian salutation; see the Romans 1:7 note; 1 Corinthians 1:3 note."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 1:2. Grace, etc. See on 1 Corinthians 1:3.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Identical with 1 Corinthians 1:3 which see. "
+        ],
+        "John Gill": [
+            "Grace be to you,.... This salutation is the same with that in the former epistle, and is common to all his epistles;",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 1:2, the preaching about Christ finds its reality in Christ Himself. Through Him, the promises of God are affirmed and fulfilled. The salutation of Grace be to you is a common Christian greeting that appears in many of the Apostle Paul's letters.",
+            "wordCount": 44,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.680123476606645,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.21,
+            "commentatorTierSimilarities": [
+                43.2,
+                30.36,
+                26.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the message about Christ, we affirm and substantiate His reality. Through Him, all the promises of God find their yea, their affirmation and fulfillment. The salutation Grace be to you is a common greeting in the Apostle Paul's letters, demonstrating the unifying nature of the Christian faith.",
+            "wordCount": 49,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.632863821150469,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+            "commentatorTierSimilarities": [
+                44.54,
+                25.55,
+                29.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our preaching concerning Christ is affirmed and substantiated as truth by the agency of the Lord Himself. Through Christ, all the promises of God find their affirmation and fulfillment. The salutation Grace be to you is a common Christian greeting found in the Apostle Paul's letters, emphasizing the unifying power of the Christian faith.",
+            "wordCount": 55,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.6773988501807573,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                46.83,
+                26.63,
+                26.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 2 Corinthians 1:2, the preaching concerning Christ is affirmed and substantiated in Christ Himself. Through Him, all the promises of God find their affirmation and fulfillment. The salutation Grace be to you is a familiar Christian greeting that appears in various letters written by the Apostle Paul, underscoring the unifying nature of the Christian faith.",
+            "wordCount": 54,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.783755285038191,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+            "commentatorTierSimilarities": [
+                43.56,
+                31.29,
+                25.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The message about Christ is affirmed and substantiated in Christ Himself. In Him, all the promises of God find their affirmation and fulfillment. The familiar salutation Grace be to you appears in various letters written by the Apostle Paul, reflecting the unifying essence of the Christian faith.",
+            "wordCount": 47,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.6435133609123025,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+            "commentatorTierSimilarities": [
+                45.69,
+                27.05,
+                27.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

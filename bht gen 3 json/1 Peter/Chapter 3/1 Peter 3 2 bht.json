@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:39:17",
+    "verseRef": "1 Peter 3:2",
+    "bestBHT": {
+        "bht": "Peter advises wives to embody a scrupulously pure and chaste character, contrasting the worldly behavior of other women. This purity extends beyond physical cleanliness, representing a lifestyle of modesty and proper behavior. By maintaining reverence for God and honoring their husbands, wives can have a profound impact on unbelievers, demonstrating the transformative power of Christianity. This virtuous conduct can effectively reflect the grace of God and attract others to the faith.",
+        "wordCount": 71,
+        "quoteTokenProportion": 27.78,
+        "qualityScore": 1.7309497926334663,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.9,
+        "commentatorTierSimilarities": [
+            21.12,
+            48.91,
+            29.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Scrupulously pure, as opposed to the noisy,",
+            "ambitious character of worldly women.",
+            "Behold\u2014on narrowly looking into it, literally, 'having closely observed.'",
+            "Chaste\u2014pure, spotless, free from all impurity."
+        ],
+        "Albert Barnes": [
+            "The word chaste here (\u03b1\u0314\u03b3\u03bd\u03b7\u0300\u03bd hagne\u0304n) refers to purity of conduct in all respects, and not merely to chastity properly so called.",
+            "A wife may be strictly chaste, and yet there may be many other things in her conduct and temper which would mar the beauty of her piety, and prevent any happy influence on the mind of her husband.",
+            "It is a delicate, timorous grace, afraid of the least air, or shadow of anything that hath but a resemblance of wronging it, in carriage, or speech, or apparel."
+        ],
+        "Marvin Vincent": [
+            "While they behold [\u03b5\u03c0\u03bf\u03c0\u03c4\u03b5\u03c5\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2] . See on ch. 1 Peter 2:12. Conversation. See on ch. 1 Peter 1:15. Rev., behavior. ",
+            "Coupled with fear [\u03b5\u03bd \u03c6\u03bf\u03b2\u03c9] . Lit., in fear."
+        ],
+        "John Calvin": [
+            "For minds, however alienated from the true faith, are subdued, when they see the good conduct of believers.",
+            "They form an estimate of [the doctrine of Christ] by our life.",
+            "It cannot, then, be but that they will commend Christianity, which teaches purity and fear."
+        ],
+        "Philip Schaff": [
+            "The behaviour is styled chaste, not in the limited sense of the English adjective, but as covering purity, modesty, and whatever makes wifely conduct not only correct but winsome.\" ",
+            "What is meant is not exactly 'the fear of God,' but rather a sensitive respect for the husband and the married relation, the chastity or purity of behaviour is exhibited as associated necessarily with the dutiful spirit that recoils from everything inconsistent with the woman's and the wife's position.",
+            "Nothing could better express what is meant by this 'fear,' therefore, than Leighton's well-known description of it as 'a delicate and timorous grace, afraid of the least air or shadow of anything that hath but a resemblance of wronging it, in courage, or speech, or apparel.'"
+        ],
+        "Archibald T. Robertson": [
+            "Beholding (\u03b5\u03c0\u03bf\u03c0\u03c4\u03b5\u03c5\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2). First aorist active participle of \u03b5\u03c0\u03bf\u03c0\u03c4\u03b5\u03c5\u03c9, for which see 1 Peter 2:12.\" ",
+            "Chaste (\u03b1\u03b3\u03bd\u03b7\u03bd). Pure because 'in fear' (\u03b5\u03bd \u03c6\u03bf\u03b2\u03c9), no word in the Greek for 'coupled,' fear of God.\" ",
+            "Fear (reverence for) of the husband is urged."
+        ],
+        "John Gill": [
+            "Cheerful subjection, strong affection, and inviolable attachment to them, and strict regard to the honour of the marriage state...\" ",
+            "Reverence of their husbands, giving them due honour, and showing all proper respect...\" ",
+            "With the fear of God, which being before their eyes, and upon their hearts, engages them to such an agreeable conversation."
+        ],
+        "John Wesley": [
+            "Joined with a loving fear of displeasing them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Peter 3:2, the Apostle Peter urges wives to be scrupulously pure and chaste, conducting themselves in a way that is honorable and respectful. This behavior is not just limited to physical purity, but encompasses all aspects of their conduct and character. It is a delicate and timorous grace, afraid of anything that might compromise their integrity. This behavior is not only pleasing to God, but also has a profound impact on unbelieving husbands, who are won over by observing the exemplary conduct of believers. Therefore, by maintaining purity and showing reverence for their husbands, wives can demonstrate the transformative power of Christianity and ultimately bring glory to God.",
+            "wordCount": 108,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7438974445058304,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.33,
+            "commentatorTierSimilarities": [
+                21.2,
+                49.42,
+                29.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Peter advises wives to exhibit a scrupulously pure and chaste behavior that goes beyond mere physical purity. It is a delicate and timorous grace, always cautious to avoid anything that may compromise their integrity. This conduct, coupled with a reverent fear of God and respect for their husbands, has the power to influence unbelieving spouses and ultimately bring honor to God. By embracing this virtuous behavior, wives can serve as a powerful testimony to the transformative power of Christianity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8390495291658553,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                21.13,
+                46.37,
+                32.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 1 Peter 3:2, Peter encourages wives to embody a scrupulously pure and chaste demeanor, extending beyond physical purity. This includes behavior marked by delicate timidity, avoiding even the slightest compromise to their integrity. By exhibiting reverence for God, coupled with respect for their husbands, wives can have a profound impact on unbelieving spouses, showcasing the transformative power of Christianity. Embracing this virtuous conduct allows wives to become a compelling testament to the beauty and influence of living a life dedicated to honoring God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.7256658487345846,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
+            "commentatorTierSimilarities": [
+                21.73,
+                46.37,
+                31.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, Peter instructs wives to maintain a scrupulously pure and chaste lifestyle, far removed from the worldly ambitions of other women. This purity extends beyond mere physical cleanliness, encompassing a behavior marked by modesty and correct conduct. By coupling this with a reverent fear of God and honoring their husbands, wives can have a profound impact on unbelievers, who will be positively influenced by their exemplary conduct. The aim is to demonstrate the transformative power of Christianity through living a life of virtuous behavior.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.7742982720735383,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                22.79,
+                47.67,
+                29.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter advises wives to embody a scrupulously pure and chaste character, contrasting the worldly behavior of other women. This purity extends beyond physical cleanliness, representing a lifestyle of modesty and proper behavior. By maintaining reverence for God and honoring their husbands, wives can have a profound impact on unbelievers, demonstrating the transformative power of Christianity. This virtuous conduct can effectively reflect the grace of God and attract others to the faith.",
+            "wordCount": 71,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.7309497926334663,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.9,
+            "commentatorTierSimilarities": [
+                21.12,
+                48.91,
+                29.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

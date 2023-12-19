@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:29:02",
+    "verseRef": "Acts 10:5",
+    "bestBHT": {
+        "bht": "God directed Cornelius to send for Simon in Joppa. The explicit mention of Joppa strengthens the authenticity of the story. God typically uses human agents, rather than angels, to convey spiritual knowledge. The angel's purpose was to guide Cornelius to an apostle who would fulfill that role. As disciples of Christ, we should value and listen attentively to Gospel ministers, as they are the ordinary means of spiritual growth and understanding. Their ministry is esteemed for its excellence and usefulness in bringing people closer to God.",
+        "wordCount": 87,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.2400670295285272,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.58,
+        "commentatorTierSimilarities": [
+            14.76,
+            40.25,
+            45.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "5. send to Joppa . . . for one",
+            "\tSimon, &amp;c.\u2014(See on :-)."
+        ],
+        "John Calvin": [
+            "God thrusteth the ministers of his word daily upon the unwilling...",
+            "...the angel giveth place to Peter, that he may execute the office committed unto him by Christ.",
+            "Therefore, whosoever will be the disciple of Christ, and be illuminated by the (heavenly) light of the heavenly wisdom, let him not grudge to use attentiveness and docility toward the external voice of men..."
+        ],
+        "Philip Schaff": [
+            "We should notice, too, with what definite force Joppa is incidentally named in Acts 10:8; Acts 10:23, and Acts 11:5. This is all part of the explicit assertion of the facts of the story as literally true.",
+            "The exact designation of the man who was to bring the Gospel to Cornelius is an essential part of the transaction. The Divine direction is perceptible in every act and every word recorded.",
+            "Cornelius was to be brought to the knowledge of Christ by the instrumentality of a man, not directly by the angel who appeared to him. This is in harmony with God\u2019s usual method of working in spiritual things."
+        ],
+        "Archibald T. Robertson": [
+            "Fetch (\u03bc\u03b5\u03c4\u03b1\u03c0\u03b5\u03bc\u03c8\u03b1). First aorist middle (indirect, for one's self) imperative of \u03bc\u03b5\u03c4\u03b1\u03c0\u03b5\u03bc\u03c0\u03c9, usual voice in ancient Greek with this verb in sense of sending another for one's own sake."
+        ],
+        "John Gill": [
+            "the angel was not sent to instruct Cornelius himself, but to direct him to an apostle of Christ, and minister of the Gospel, who should do it",
+            "not angels, but men, are employed in the ministry of the word, which is the ordinary means of spiritual knowledge, and of increasing it",
+            "the excellency and usefulness of the Gospel ministry and ministers, and what dignity is put upon them, what use should be made of them, and in what esteem they should be had"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 10:5, God instructs Cornelius to send for a man named Simon in Joppa. The explicit mention of Joppa in Acts 10:8, 10:23, and 11:5 emphasizes the literal truth of the story. It is significant that Cornelius is to be brought to the knowledge of Christ through the instrumentality of a man rather than directly by the angel. This aligns with God's usual method of working in spiritual matters. The angel's purpose was not to personally instruct Cornelius, but to direct him to an apostle who would fulfill that role. Therefore, those who desire to be disciples of Christ should attentively and obediently listen to the external voice of the Gospel ministers, as they are employed as the ordinary means of spiritual knowledge and growth. The Gospel ministry and ministers should be esteemed for their excellence and usefulness in bringing people to a deeper understanding of God's Word.",
+            "wordCount": 148,
+            "quoteTokenProportion": 34.83,
+            "qualityScore": 1.3873904408430922,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.47,
+            "commentatorTierSimilarities": [
+                12.42,
+                45.23,
+                42.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Acts, God directs Cornelius to send for a man named Simon in Joppa. The mention of Joppa throughout the narrative highlights the story's literal truth. The involvement of a human intermediary aligns with God's typical approach in spiritual matters. The angel's role was to guide Cornelius to an apostle who would bring him knowledge of Christ. Thus, those who desire to follow Christ should value and listen attentively to Gospel ministers as the ordinary means of spiritual growth and understanding.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3352181768210174,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.74,
+            "commentatorTierSimilarities": [
+                15.95,
+                44.59,
+                39.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God instructed Cornelius to send for a man in Joppa named Simon. The inclusion of Joppa in Acts reinforces the truth of the narrative. Cornelius was to be led to the knowledge of Christ through a human agent, aligning with God's usual pattern. The angel's purpose was to direct Cornelius to an apostle who would impart spiritual wisdom. Therefore, those who seek to be disciples of Christ should attentively and humbly heed the external voices of Gospel ministers as the means of spiritual growth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.3669790211615165,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.8,
+            "commentatorTierSimilarities": [
+                17.34,
+                42.97,
+                39.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts, God instructed Cornelius to send for Simon in Joppa. The inclusion of Joppa throughout the narrative underscores the factual nature of the account. God's customary method involves using human agents to impart spiritual knowledge, as seen in this instance. The angel's role was to guide Cornelius to an apostle who would provide instruction. Therefore, those seeking to follow Christ should value and attentively listen to the Gospel ministers, who serve as the ordinary means of spiritual growth and understanding.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.3256048836769172,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.42,
+            "commentatorTierSimilarities": [
+                18.07,
+                42.7,
+                39.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God directed Cornelius to send for Simon in Joppa. The explicit mention of Joppa strengthens the authenticity of the story. God typically uses human agents, rather than angels, to convey spiritual knowledge. The angel's purpose was to guide Cornelius to an apostle who would fulfill that role. As disciples of Christ, we should value and listen attentively to Gospel ministers, as they are the ordinary means of spiritual growth and understanding. Their ministry is esteemed for its excellence and usefulness in bringing people closer to God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.2400670295285272,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.58,
+            "commentatorTierSimilarities": [
+                14.76,
+                40.25,
+                45.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

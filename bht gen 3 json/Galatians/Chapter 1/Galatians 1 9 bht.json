@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 14:13:15",
+    "verseRef": "Galatians 1:9",
+    "bestBHT": {
+        "bht": "If anyone is preaching a gospel contrary to what the Galatians received, Paul firmly asserts the seriousness of the matter by repeating his statement and calling down a curse upon such individuals. This is not a hypothetical scenario, but a fact that Paul assumes. He deliberately affirms that anyone who furnishes the Galatians with a gospel other than what they had already received should be accursed. Paul's resolute stand demonstrates his unwavering commitment to the truth and his refusal to compromise.",
+        "wordCount": 82,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.932667276015232,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+        "commentatorTierSimilarities": [
+            23.49,
+            41.48,
+            35.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As we have said before... I also now say again.\" ",
+            "If any one is preaching to you, other than that which ye received, let him be accursed.",
+            "An assumption of the fact."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If any man preacheth unto you any gospel BESIDE that which...",
+            "Observe the indicative, not the subjunctive or conditional mood, is used, 'preacheth,' literally, 'furnisheth you with any gospel.'",
+            "The fact is assumed, not merely supposed as a contingency..."
+        ],
+        "Albert Barnes": [
+            "The sentiment of Galatians 1:8 is here repeated on account of its importance.",
+            "He would leave no doubt as to his meaning. He would not have it supposed that he had uttered the sentiment in Galatians 1:8 hastily.",
+            "The teachers of the new system, therefore, were really in opposition to the once avowed sentiments of the Galatians; to what they knew to be true."
+        ],
+        "Marvin Vincent": [
+            "As we said before.",
+            "Not to be referred to the preceding verse.",
+            "Now in the following clause points to an earlier time."
+        ],
+        "John Calvin": [
+            "He uniformly insists, that they must not regard the gospel as something unknown, existing in the air, or in their own imaginations.",
+            "Nothing can be more inconsistent with the nature of faith than a feeble, wavering assent.",
+            "From the nature of the case, it is manifest that any spurious doctrine whatever is at variance with Paul\u2019s preaching; so that these cavils will avail them nothing."
+        ],
+        "Philip Schaff": [
+            "Before refers not to Galatians 1:8, which is too near, but to the last visit of Paul to Galatia.",
+            "Preach \u03b5\u03c5\u0313\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u0301\u03b6\u03b5\u03c4\u03b1\u03b9 implies the actual fact, not the mere possibility, as the hypothetical should preach (\u03b5\u03c5\u0313\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u0301\u03b6\u03b7\u03c4\u03b1\u03b9, Galatians 1:8), and thus attacks more directly the Galatian pseudo-apostles."
+        ],
+        "Archibald T. Robertson": [
+            "Paul knows that he has just made what some will consider an extreme statement. But it is a deliberate one and not mere excitement.",
+            "He will stand by it to the end.",
+            "He calls down a curse on any one who proclaims a gospel to them contrary to that which they had received from him."
+        ],
+        "John Gill": [
+            "If any, men, or angels, be they of what name, figure, rank, or office whatever, preach any other Gospel unto you, than that ye have received...",
+            "Let him be accursed; which he repeats, for the more solemn asseveration and confirmation of it...",
+            "...was said by him in the most serious and solemn manner, upon the most thoughtful and mature consideration of the affair."
+        ],
+        "John Wesley": [
+            "He speaks upon mature deliberation; after pausing, it seems, between the two verses.",
+            "All those brethren knew the truth of the gospel.",
+            "St. Paul knew the Galatians had received the true gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If anyone is preaching a gospel different from what the Galatians had received, Paul emphasizes the seriousness of the situation by repeating his statement and invoking a curse upon such a person. This is not a mere assumption or hypothetical scenario; Paul firmly affirms that anyone who preaches a gospel contrary to what he had taught should be accursed. He is deliberate in his words, knowing that some may consider his statement extreme, but he stands by it with conviction. By repeating his message, he leaves no doubt as to his meaning and shows that he will not waver in his stance. The false teachers in Galatia were contradicting the truth that the Galatians had already known.",
+            "wordCount": 117,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.951408007588645,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                22.54,
+                41.57,
+                35.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If anyone is preaching a gospel contrary to what the Galatians received, Paul firmly asserts the seriousness of the matter by repeating his statement and calling down a curse upon such individuals. This is not a hypothetical scenario, but a fact that Paul assumes. He deliberately affirms that anyone who furnishes the Galatians with a gospel other than what they had already received should be accursed. Paul's resolute stand demonstrates his unwavering commitment to the truth and his refusal to compromise.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.932667276015232,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+            "commentatorTierSimilarities": [
+                23.49,
+                41.48,
+                35.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul reiterates his previous statement, emphasizing the severity of the situation. If anyone dares to preach a different gospel than what the Galatians had received from him, Paul emphatically declares that they should be accursed. This is not a mere assumption or hypothetical scenario; it is a fact that Paul asserts with utmost seriousness. His deliberate choice of words underscores his unwavering commitment to the truth, leaving no room for doubt or compromise.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7719032318104495,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                24.13,
+                38.71,
+                37.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul firmly emphasizes the seriousness of the situation by reiterating his previous statement. If someone has the audacity to preach a different gospel than what the Galatians had received, Paul declares that they should be cursed. This is not a mere assumption or hypothetical scenario; it is a fact that Paul states with the utmost gravity. His deliberate words demonstrate his unwavering dedication to the truth and his refusal to compromise. He is resolute in his stance, leaving no room for doubt or alternate teachings.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6871574977175405,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+            "commentatorTierSimilarities": [
+                22.81,
+                38.81,
+                38.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul reiterates the seriousness of the situation by restating his previous statement, warning that anyone who preaches a different gospel than what the Galatians received should be accursed. This is not a mere assumption or hypothetical scenario, but a statement based on firm conviction. Paul deliberately chooses his words to convey the gravity of the matter, firmly standing by his declaration without wavering. His resolute stance reflects his unwavering commitment to the truth and his refusal to tolerate any contradiction or compromise.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.696809238166086,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+            "commentatorTierSimilarities": [
+                24.59,
+                37.32,
+                38.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

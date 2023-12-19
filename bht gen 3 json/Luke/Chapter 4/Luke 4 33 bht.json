@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:15:07",
+    "verseRef": "Luke 4:33",
+    "bestBHT": {
+        "bht": "The man with an unclean demon cried out with a loud voice, echoing the frequency with which impurity is associated with evil spirits. Luke's addition of the epithet unclean to the word demon is unique. The phrase a loud voice indicates that the demon screamed upon encountering Jesus, driven by its impulse. This portrays the power of the devil and underscores the significance of the title Holy One of God, possibly a common way of referring to Jesus at that time.",
+        "wordCount": 82,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 1.9496256727648205,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.17,
+        "commentatorTierSimilarities": [
+            47.26,
+            0.0,
+            52.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The two accounts are very closely cognate\u2014being the same narrative, only slightly deflected.",
+            "Not more, certainly, than might have arisen from oral repetition by two persons, at some interval of time, of what they had received in the same words."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "33. unclean\u2014The frequency with",
+            "\twhich this character of impurity is applied to evil spirits is",
+            "\tworthy of notice. ",
+            "\t",
+            "cried out, c.\u2014(See",
+            "\tMatthew 8:29 Mark 3:11)."
+        ],
+        "Marvin Vincent": [
+            "A spirit of an unclean devil. Where the rendering should be demon. This is the only case in which Luke adds to that word the epithet unclean."
+        ],
+        "John Calvin": [
+            "This mode of expression, which Luke employs, conveys the idea, that the man was driven by the impulse of the devil.",
+            "The demoniacs speak, the devils, who have received permission to tyrannise, speak in them and by them.",
+            "The title, Holy One of God, was probably taken from a manner of speaking, which was, at that time, in ordinary and general use."
+        ],
+        "Archibald T. Robertson": [
+            "Luke's phrase here is unique in this combination.",
+            "Luke's Gospel uses \u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03b9\u03bf\u03bd twenty-two times and \u03b1\u03ba\u03b1\u03b8\u03b1\u03c1\u03c4\u03bf\u03bd as an epithet, once of \u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03b9\u03bf\u03bd as here and once of \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1.",
+            "With a loud voice (\u03c6\u03c9\u03bd\u03b7 \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7). Not in Mark. Really a scream caused by the sudden contact of the demon with Jesus."
+        ],
+        "John Gill": [
+            "which had a spirit of an unclean devil",
+            "who was possessed with the devil, who is by nature and practice unclean",
+            "And cried out with a loud voice"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes a moment when a man with an unclean demon cried out with a loud voice. This combination of words, unclean demon, is unique to Luke's Gospel and highlights the impurity of evil spirits. The use of the phrase loud voice suggests that the sudden contact with Jesus caused the demon to scream. This mode of expression conveys the idea that the man was driven by the impulse of the devil. The title Holy One of God may have been a common way of referring to Jesus during that time. In this account, the demon is the one speaking through the possessed man, emphasizing the authority and power of the devil in their speech.",
+            "wordCount": 117,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.8296626271098853,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+            "commentatorTierSimilarities": [
+                43.56,
+                0.0,
+                56.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man with an unclean demon cried out with a loud voice, echoing the frequency with which impurity is associated with evil spirits. Luke's addition of the epithet unclean to the word demon is unique. The phrase a loud voice indicates that the demon screamed upon encountering Jesus, driven by its impulse. This portrays the power of the devil and underscores the significance of the title Holy One of God, possibly a common way of referring to Jesus at that time.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.9496256727648205,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.17,
+            "commentatorTierSimilarities": [
+                47.26,
+                0.0,
+                52.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man, possessed by an unclean demon, cried out with a loud voice. The combination of unclean demon is unique to Luke's Gospel, emphasizing the impurity of evil spirits. The phrase loud voice suggests the demon's scream upon encountering Jesus. This highlights the power of the devil and the significance of the title Holy One of God, likely a common way of referring to Jesus. The demon's speech through the possessed man demonstrates its authority and impurity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8350008190033775,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                44.86,
+                0.0,
+                55.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man, driven by an impulse of the devil, cried out with a loud voice, revealing his possession by an unclean demon. Luke's unique phrase unclean demon underscores the impurity associated with evil spirits. The scream of the demon upon encountering Jesus signifies its power. The title Holy One of God likely comes from a common manner of speaking during that time, depicting Jesus's holiness. The demon's speech through the possessed man showcases the authority and impurity of the devil.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8326316374175553,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.28,
+            "commentatorTierSimilarities": [
+                43.91,
+                0.0,
+                56.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The possessed man, with an unclean demon, cried out loudly - a unique combination of words found only in Luke's Gospel. The intensity of the demon's scream upon encountering Jesus showcases its power. The use of the title Holy One of God likely reflects a common expression of that time, emphasizing the holiness of Jesus. Through the possessed man, the demon speaks to demonstrate its authority and impurity. The frequency with which impurity is associated with evil spirits is noteworthy in this account.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.7402749983961412,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.21,
+            "commentatorTierSimilarities": [
+                48.98,
+                0.0,
+                51.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

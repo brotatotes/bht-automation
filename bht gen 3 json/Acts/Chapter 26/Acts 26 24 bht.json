@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 16:37:01",
+    "verseRef": "Acts 26:24",
+    "bestBHT": {
+        "bht": "Festus, unfamiliar with Paul's character, accused him of madness due to the contrast of their dispositions. Festus believed that Paul's extensive learning had turned him insane. Although Paul's eloquence in Greek and knowledge of sacred writings were unfamiliar to the Romans, it was his deep religious earnestness that provoked this sudden exclamation. Festus failed to recognize that Paul's fervor was not a result of intellectual pursuits, but rather the power of God's truth that animated him in his proclamation of the Gospel.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 2.0230920266120718,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+        "commentatorTierSimilarities": [
+            29.09,
+            37.39,
+            33.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Festus was probably not so well acquainted as his predecessor with the character of the nation over which he had recently been called to preside.",
+            "His self-love suggests to him, that one who presents such a contrast to his own apathy, must be mad.",
+            "They are the words of angry passion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul, thou art beside thyself, much learning doth make thee mad\u2014\"is turning thy head.",
+            "The union of flowing Greek, deep acquaintance with the sacred writings of his nation, reference to a resurrection and other doctrines to a Roman utterly unintelligible, and, above all, lofty religious earnestness, so strange to the cultivated, cold-hearted skeptics of that day\u2014may account for this sudden exclamation.",
+            "The union of flowing Greek, deep acquaintance with the sacred writings of his nation, reference to a resurrection and other doctrines to a Roman utterly unintelligible, and, above all, lofty religious earnestness, so strange to the cultivated, cold-hearted skeptics of that day\u2014may account for this sudden exclamation."
+        ],
+        "Albert Barnes": [
+            "Thou art beside thyself - Thou art deranged; thou art insane. The reasons why Festus thought Paul mad were, probably:",
+            "(1) His great earnestness and excitement on the subject.",
+            "The really sober and rational part of the world they who fear God and keep his commandments; they who believe that eternity is before them, and who strive to live for it - are thus charged with insanity by those who are really deluded, and who are thus living lives of madness and folly.",
+            "The tendency of long-continued and intense application to produce mental derangement is everywhere known."
+        ],
+        "Marvin Vincent": [
+            "The much knowledge with which thou art busied.",
+            "Thy much learning.",
+            "Is turning thee to madness."
+        ],
+        "John Calvin": [
+            "This outcry which Festus doth make doth show how much the truth of God prevaileth with the reprobate; to wit, though it be never so plain and evident, yet is it trodden under foot by their pride.",
+            "Though he cannot mock and openly contemn him, yet he is so far from being moved or inwardly touched, that he counteth him a man which is frenzy [frenzied] and of mad curiosity.",
+            "And they think that we be mad because we move questions concerning hidden matters, and so become troublesome both to ourselves and also to others."
+        ],
+        "Philip Schaff": [
+            "Paul, thou art beside thyself; much learning doth make thee mad.",
+            "He (Festus) was unable to comprehend the earnestness of St. Paul, so unlike the indifference with which religious and moral subjects were regarded by the upper classes at Rome.",
+            "The convenient hypothesis that much learning had produced this result, may have occurred to him on hearing Paul quote prophecies in proof of his assertions."
+        ],
+        "Archibald T. Robertson": [
+            "Thou art mad... Thou art going mad.",
+            "Thy much learning doth turn thee to madness.",
+            "Paul's 'much learning'... was turning his head to madness."
+        ],
+        "John Gill": [
+            "This is no unusual thing for the ministers of the Gospel to be reckoned madmen, and the doctrines they preach madness and folly.",
+            "And as this sometimes is the case, that much reading, and hard study, do cause men to be beside themselves, he thought it was Paul's case.",
+            "Men of great wit and learning, and who are closely engaged in study, whether in philosophy, or politics, or poetry, or in technical affairs, are inclined to be melancholy, and phrenetic."
+        ],
+        "John Wesley": [
+            "Festus said, Paul, thou art beside thyself \u2014 To talk of men's rising from the dead!",
+            "And no wonder: he saw that nature did not act in Paul; but the grace that acted in him he did not see.",
+            "And therefore he took all this ardour which animated the apostle for a mere start of learned phrensy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Festus, lacking knowledge about the nation and unfamiliar with the depth of Paul's understanding and earnestness, thought Paul was mad due to his contrasting passion and fervor. The combination of eloquent Greek, deep knowledge of sacred writings, along with references to resurrection and other foreign doctrines, were incomprehensible to a Roman audience. Festus believed that Paul's extensive learning had turned him mad. However, Festus failed to recognize that it was not worldly wisdom but the power of God's truth that animated Paul, leading to this unfounded accusation.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.9085436041281811,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+            "commentatorTierSimilarities": [
+                28.95,
+                36.9,
+                34.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Festus, unfamiliar with the nation and Paul's depth, dismissed him as mad due to the contrast in their apathy. The combination of Greek eloquence, Bible knowledge, and references to resurrection confused the skeptical Romans. Festus believed Paul's extensive learning had turned him mad, failing to see that it was not worldly wisdom but the power of God's truth that animated him. Thus, he falsely accused Paul of madness, unaware of the authenticity in his fervent proclamation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.9474192560503218,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.09,
+            "commentatorTierSimilarities": [
+                29.25,
+                36.31,
+                34.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Festus, not well acquainted with the nation or Paul's character, thought he was mad because of his passionate and fervent nature. Festus believed that Paul's extensive learning had turned him to madness. However, Festus failed to see that it was not worldly wisdom, but the power of God's truth, that animated Paul. Despite being seen as mad by some, Paul's earnestness and commitment to proclaiming the Gospel were driven by his deep understanding and unwavering faith in God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9553789124416006,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                27.27,
+                36.5,
+                36.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Festus, unfamiliar with Paul's character, accused him of madness due to the contrast of their dispositions. Festus believed that Paul's extensive learning had turned him insane. Although Paul's eloquence in Greek and knowledge of sacred writings were unfamiliar to the Romans, it was his deep religious earnestness that provoked this sudden exclamation. Festus failed to recognize that Paul's fervor was not a result of intellectual pursuits, but rather the power of God's truth that animated him in his proclamation of the Gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.0230920266120718,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+            "commentatorTierSimilarities": [
+                29.09,
+                37.39,
+                33.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Festus, unfamiliar with Paul's character and the nation, accused him of madness due to their contrasting disposition. Festus believed that Paul's extensive learning had turned him insane. However, Festus failed to understand that it was not worldly wisdom but the power of God's truth that animated Paul. Despite the accusations of madness, Paul's passionate proclamation of the Gospel was driven by his deep understanding and unwavering faith in God, highlighting the spiritual ignorance and skepticism of those around him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.924551065639026,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                27.26,
+                37.82,
+                34.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

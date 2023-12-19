@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:31:52",
+    "verseRef": "Acts 16:2",
+    "bestBHT": {
+        "bht": "Timothy's fitness for ministry was affirmed through the Spirit's manifestations and his confession of faith. Paul and the presbytery recognized his gifts and laid hands on him for the work, while the approval of the local church was essential for licensing and ordaining a preacher. Timothy's education and knowledge of Scripture equipped him well, and his good reputation and character were carefully examined by Paul. The commendation from both believers and those outside the church confirmed his suitability for ministry.",
+        "wordCount": 83,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.8274728778186524,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+        "commentatorTierSimilarities": [
+            40.16,
+            34.42,
+            25.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Some of these testimonies were probably intimations of the Spirit respecting his fitness for the work.\" ",
+            "He was set apart for the work by the laying on of the hands of Paul and of the presbytery.",
+            "He had made a good confession before many witnesses."
+        ],
+        "Albert Barnes": [
+            "Timothy had been religiously educated.",
+            "He was carefully trained in the knowledge of the holy Scriptures.",
+            "Timothy...was therefore the better qualified for his work."
+        ],
+        "Philip Schaff": [
+            "Nothing seems to have been left out by Paul in his diligent inquiry into the character and fitness of his young associate.",
+            "During the interval which elapsed between the first and second visit, the young Timothy had doubtless worked for the cause of Christ well and earnestly, and had won himself that \u2018good report\u2019 which Paul on inquiry about him received of the brethren.",
+            "Some, too, of those mysterious prophetic utterances, not unfrequent in the first days of the Church\u2019s history, were spoken over the young disciple at his ordination; perhaps also a similar manifestation of the Spirit had taken place when he was first received into the congregation of the faithful."
+        ],
+        "Archibald T. Robertson": [
+            "Already he had so borne himself that his gifts and graces for the ministry were recognized.",
+            "It is a wise precaution that the approval of the local church is necessary for the licensing and the ordaining of a preacher.",
+            "If God has called a man for the work signs of it will be manifest to others."
+        ],
+        "John Gill": [
+            "Timothy... to whose piety, virtue, and good conversation witness was borne.\" ",
+            "It is necessary that ministers of the Gospel should have a good report of them that are without, so likewise of them that are within.\" ",
+            "The testimony of the latter is preferable to that of the former."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Timothy's fitness for the ministry was recognized through various signs and testimonies. His spiritual gifts and graces were evident to others, and he had already made a faithful confession. Paul and the presbytery laid hands on Timothy, setting him apart for the work, and the approval of the local church was sought. Timothy's religious education and training in the Scriptures further equipped him for his calling. Paul thoroughly investigated Timothy's character and reputation before commissioning him for ministry. It was important for Timothy to have a good report both from those outside the church and within the congregation. The testimony of fellow believers carried weight in affirming Timothy's suitability for the work.",
+            "wordCount": 116,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.7240980946970297,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                37.74,
+                34.64,
+                27.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Timothy's fitness for ministry was recognized through signs of the Spirit and his confession of faith. Paul and the presbytery laid hands on him, affirming his calling. The approval of the local church was important in licensing and ordaining ministers. Timothy's religious education and training in Scriptures prepared him for the task, while his good reputation and character were carefully examined by Paul. His commendation from both believers and those outside the church solidified his suitability for ministry.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.6960241006047554,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.73,
+            "commentatorTierSimilarities": [
+                40.34,
+                33.46,
+                26.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Timothy's fitness for ministry was evident through the Spirit's manifestations and his confession of faith. Both Paul and the presbytery recognized his gifts and laid hands on him for the work. The approval of the local church was a crucial factor in licensing and ordaining a preacher. Timothy's education and knowledge of Scriptures equipped him well, and his good reputation and character were carefully assessed. The commendation from both believers and those outside the church affirmed his suitability for ministry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.6988594564965505,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "commentatorTierSimilarities": [
+                41.64,
+                32.77,
+                25.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Timothy's fitness for ministry was acknowledged through the Spirit's manifestations and his confession of faith. Paul and the presbytery recognized his gifts, laying hands on him for the work. The approval of the local church was crucial for licensing and ordaining a preacher. Timothy's education and knowledge of Scriptures prepared him for his calling. His good reputation and character were carefully assessed by Paul. The commendation from believers and those outside the church affirmed his suitability for ministry.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.6834368063366079,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                40.9,
+                34.62,
+                24.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Timothy's fitness for ministry was affirmed through the Spirit's manifestations and his confession of faith. Paul and the presbytery recognized his gifts and laid hands on him for the work, while the approval of the local church was essential for licensing and ordaining a preacher. Timothy's education and knowledge of Scripture equipped him well, and his good reputation and character were carefully examined by Paul. The commendation from both believers and those outside the church confirmed his suitability for ministry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.8274728778186524,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                40.16,
+                34.42,
+                25.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

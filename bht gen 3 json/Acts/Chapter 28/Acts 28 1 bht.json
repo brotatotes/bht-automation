@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:37:32",
+    "verseRef": "Acts 28:1",
+    "bestBHT": {
+        "bht": "The recognition of Malta as the island where Paul and his companions landed is affirmed by thorough examination and expert opinions, leaving little room for doubt. Known for its honey production and as a refuge for various peoples, Malta was a fruitful and pleasant place. Though not many may have directly benefited, the power of the gospel was evident even among unbelievers. The incident with the viper biting Paul could have been part of God's divine plan to bring glory to His gospel.",
+        "wordCount": 84,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.4559056748786825,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+        "commentatorTierSimilarities": [
+            22.16,
+            33.6,
+            44.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The whole course of the narrative has gone to show that this can be no other than MALTA.",
+            "The idea itself, when compared with the facts, is preposterous enough.",
+            "Its supporters are obliged to place Fair Havens on the north side of Crete."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The opinion that this island was not Malta to the south of Sicily, but Meleda in the Gulf of Venice... may now be affirmed, at rest.\" ",
+            "(quote 1)",
+            "Examination of all the places on the spot, and of all writings and principles bearing on the question, by gentlemen of the highest qualification, particularly SMITH... having set the question, it may now be affirmed, at rest.\" ",
+            "(quote 2)"
+        ],
+        "Albert Barnes": [
+            "They knew - Either from their former acquaintance with the island, or from the information of the inhabitants.",
+            "It was celebrated formerly for producing large quantities of honey, and is supposed to have been called Melita from the Greek word signifying honey.",
+            "It is about 20 miles in length from east to west, and 12 miles in width from north to south, and about 60 miles in circumference."
+        ],
+        "Marvin Vincent": [
+            "They knew. The best texts read we knew : ascertained or recognized : with a reference to ver. 39."
+        ],
+        "John Calvin": [
+            "After that, Luke declareth that they were courteously entertained of the barbarians, that they kindled a fire that they might dry their clothes, and refresh their joints.",
+            "And though there were not many which did profit thereby, yet the majesty of the gospel did shine even among the unbelievers.",
+            "The Lord did direct her [the viper] by his secret counsel to bite Paul, because he saw it would turn to the glory of his gospel."
+        ],
+        "Philip Schaff": [
+            "The information would be obtained immediately on landing.",
+            "We have seen above (Acts 27:29; Acts 27:41) that irresistible arguments converge to the conclusion that it was on the island of Malta that St. Paul was wrecked.",
+            "Under these circumstances of weather described above, St. Paul\u2019s ship could not have reached this Dalmatian island without a miracle."
+        ],
+        "Archibald T. Robertson": [
+            "Then we recognized.",
+            "Melita. Not \u039c\u03b9\u03bb\u03b5\u03c4\u03b5\u03bd\u03b7 as only B reads, a clerical error.",
+            "Page notes that the island was Malta as is shown from the name, the location, the presence of a ship from Alexandria bound for Rome wintering there"
+        ],
+        "John Gill": [
+            "It has its name from \u05de\u05dc\u05d8, 'to escape', it being formerly a refuge to the Phoenicians...",
+            "Perhaps it might be so called from its being a refuge for pirates.",
+            "It was a very pleasant and fruitful island, bringing forth great plenty of wheat, rye, flax, cummin, cotton, figs, wine, roses, thyme, lavender, and many other sweet and delightful herbs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After their shipwreck, Paul and his companions recognized the island they had landed on as Malta. This identification is supported by careful examination and expert opinions, dispelling any doubts about its location. The island of Malta, known for its production of honey, had a history of being a refuge for various peoples. Although not many may have profited from Paul's visit, the majesty of the gospel still shone through even among the unbelievers. The incident with the viper biting Paul may have been divinely orchestrated to bring glory to the gospel. Overall, Malta was a pleasant and fruitful island, abundant with various crops and aromatic herbs.",
+            "wordCount": 107,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.4267572543879998,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.78,
+            "commentatorTierSimilarities": [
+                20.96,
+                38.59,
+                40.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After recognizing Malta as the island they had arrived on, Paul and his companions found themselves in a place known for its production of honey. The identification of Malta is supported by extensive examination and expert opinions, dismissing any doubts about its location. While not many may have benefited from the visit, the gospel's majesty still radiated even among non-believers. The incident with the viper biting Paul could have been deliberately directed by God to bring glory to His gospel. Malta, a pleasant and fruitful island, yielded abundant crops and fragrant herbs.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.4243807015233032,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.7,
+            "commentatorTierSimilarities": [
+                23.09,
+                36.67,
+                40.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The recognition of Malta as the island where Paul and his companions landed is affirmed by thorough examination and expert opinions, leaving little room for doubt. Known for its honey production and as a refuge for various peoples, Malta was a fruitful and pleasant place. Though not many may have directly benefited, the power of the gospel was evident even among unbelievers. The incident with the viper biting Paul could have been part of God's divine plan to bring glory to His gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.4559056748786825,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+            "commentatorTierSimilarities": [
+                22.16,
+                33.6,
+                44.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After recognizing Malta as the island they had landed on, Paul and his companions found themselves in a place known for its production of honey. This identification is supported by careful examination and expert opinions, confirming the location. Malta was not only a pleasant and fruitful island, but it also served as a refuge for various peoples, including pirates. The incident with the viper biting Paul could have been directed by God to bring honor to the gospel. The majesty of the gospel was evident even among those who did not believe.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.4366292331396018,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.11,
+            "commentatorTierSimilarities": [
+                24.21,
+                36.77,
+                39.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Recognizing Malta as the island they had arrived on, Paul and his companions discovered themselves in a place renowned for its honey production. This identification is firmly supported by meticulous examination and expert opinions, conclusively affirming the location. Malta, a pleasant and fruitful island, had historical significance as a refuge for various individuals, including pirates. The incident with the viper biting Paul may have been divinely orchestrated to bring glory to the gospel. Even among the unbelievers, the majesty of the gospel was manifest.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4255384053592945,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.74,
+            "commentatorTierSimilarities": [
+                23.46,
+                34.49,
+                42.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

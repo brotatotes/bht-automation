@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:27:41",
+    "verseRef": "1 Timothy 1:7",
+    "bestBHT": {
+        "bht": "These individuals desire to be teachers of the law, but their understanding is limited. They confidently speak about matters they do not fully comprehend, demonstrating their ignorance. Their error lies in their misuse and misinterpretation of the law, adding immoral and false interpretations to it. They are unaware of what they are saying or the significance of their confident affirmations. Their pride and haughtiness in claiming authority over the law reflect their lack of true understanding, fulfilling the proverb that Ignorance is rash.",
+        "wordCount": 83,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.8687248772404803,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+        "commentatorTierSimilarities": [
+            25.61,
+            36.97,
+            37.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They are would-be teachers, not really so.",
+            "Their error was not in maintaining the obligation of the law, but in abusing it by fabulous and immoral interpretations of, and additions to, it.",
+            "They understand as little about the one as the other."
+        ],
+        "Albert Barnes": [
+            "Understanding neither what they say.\" ",
+            "They do not understand the true nature and design of that law.",
+            "They made affirmations of what they knew nothing of, and though they made confident observations, yet they often pertained to things about which they had no knowledge."
+        ],
+        "Marvin Vincent": [
+            "Since they desire.",
+            "Though they understand.",
+            "They know not what they say, nor what kind of things they are of which they speak so confidently."
+        ],
+        "John Calvin": [
+            "He does not reprove those who openly attack the instruction of the law, but those who boast of belonging to the rank of teachers of it.",
+            "We see in the present day with what pride and haughtiness the schools of the Sorbonne pronounce their authoritative decisions.",
+            "The Apostle declares that in all these is fulfilled what is said in a well-known ancient proverb, 'Ignorance is rash;' as he says that, 'puffed up by their carnal mind, they intrude into things which they know not.'"
+        ],
+        "Philip Schaff": [
+            "Desiring (i.e. pretending) to be teachers of the law.",
+            "The word shews clearly that it was still the Jewish element of which St. Paul was most in dread.",
+            "They talked much, with a braggart confidence, of the law, and yet never dreamt of applying it as a rule of life in their own practice."
+        ],
+        "Archibald T. Robertson": [
+            "Though they understand, which things, neither what, nor whereof.\" ",
+            "Concessive participle of \u03bd\u03bf\u03b5\u03c9, old verb.\" ",
+            "It may be regarded as the use of an indirect question for variety."
+        ],
+        "John Gill": [
+            "Desiring to be teachers of the law...and of being thought to have skill in interpreting the law, and good talents in expounding it.\" ",
+            "Understanding neither what they say, nor whereof they affirm: they did not understand the law...they as foolishly answered.",
+            "Generally speaking so it is, that those who can prove least assert most, and that with the greatest assurance."
+        ],
+        "John Wesley": [
+            "Understanding neither the very things they speak, nor the subject they speak of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These individuals in 1 Timothy 1:7 are pretending to be teachers of the law, yet they have little understanding of what they say or the subjects they confidently affirm. Their error lies in their abuse of the law, as they manipulate and misinterpret its obligations. While they desire to be seen as knowledgeable, their lack of understanding is evident. They are truly oblivious to the true nature and purpose of the law, which is meant to guide and inform the lives of believers. Their excessive confidence in their incomplete knowledge echoes a well-known proverb: Ignorance is rash.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8047093825517555,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "commentatorTierSimilarities": [
+                25.2,
+                37.13,
+                37.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These individuals, who desire to be teachers of the law, are not truly qualified for the role. Their error lies in their abuse and misinterpretation of the law, as they make confident pronouncements without understanding the true nature and design of the law. They speak boldly about things they have no knowledge of, lacking comprehension both of what they say and the subjects they affirm. Their misguided confidence exposes their ignorance, proving the truth of the proverb, Ignorance is rash.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.7728120775871803,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "commentatorTierSimilarities": [
+                23.09,
+                36.94,
+                39.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals, who desire to be teachers of the law, are not truly qualified for the role. Their error lies in their abuse and misinterpretation of the law, as they make confident pronouncements without understanding the true nature and design. They speak boldly without knowledge, lacking comprehension both of what they say and the subjects they affirm. Their misguided confidence exposes their ignorance, proving the truth of the proverb, Ignorance is rash.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.778759143264812,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.49,
+            "commentatorTierSimilarities": [
+                23.5,
+                36.15,
+                40.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals are aspiring teachers of the law, yet they lack a true understanding of their own assertions. They make extravagant claims, but their knowledge is lacking. They are ignorant of the very things they talk about, speaking confidently and confidently, about something they do not fully comprehend. Their desire to be seen as knowledgeable is apparent, but their ignorance betrays them. The proverb Ignorance is rash aptly describes their misguided confidence and lack of understanding.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.8395925396311545,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.51,
+            "commentatorTierSimilarities": [
+                25.18,
+                35.54,
+                39.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These individuals desire to be teachers of the law, but their understanding is limited. They confidently speak about matters they do not fully comprehend, demonstrating their ignorance. Their error lies in their misuse and misinterpretation of the law, adding immoral and false interpretations to it. They are unaware of what they are saying or the significance of their confident affirmations. Their pride and haughtiness in claiming authority over the law reflect their lack of true understanding, fulfilling the proverb that Ignorance is rash.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8687248772404803,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                25.61,
+                36.97,
+                37.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

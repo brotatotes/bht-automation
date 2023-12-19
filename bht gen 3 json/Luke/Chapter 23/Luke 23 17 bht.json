@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:23:17",
+    "verseRef": "Luke 23:17",
+    "bestBHT": {
+        "bht": "During the Passover feast, it was customary to release a prisoner, as custom had made it necessary. This unique tradition, not observed at every feast but specifically during the Passover, sheds light on the context and provides a deeper understanding of the governor's offer to release a prisoner to the crowd.",
+        "wordCount": 52,
+        "quoteTokenProportion": 44.74,
+        "qualityScore": 0.6376166778959726,
+        "qualityScoreNormalizedComparedToV2BHTs": 12.55,
+        "commentatorTierSimilarities": [
+            0.0,
+            1.37,
+            98.63
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "See the notes at Matthew 27:15."
+        ],
+        "John Gill": [
+            "Custom had made it necessary.",
+            "It was a custom to release.",
+            "Not at each feast, or every feast, only at the passover."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Custom dictated that during the Passover feast, it was customary for the governor to release a prisoner of the people's choosing. This tradition had become a necessary part of the celebration, happening not at every feast, but specifically during the Passover. This sheds light on the context of Luke 23:17, providing a deeper understanding of the significance of Pilate's offer to release a prisoner to the crowd.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 0.4312443401636548,
+            "qualityScoreNormalizedComparedToV2BHTs": 5.68,
+            "commentatorTierSimilarities": [
+                0.0,
+                -4.34,
+                104.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the Passover feast, it was customary for the governor to release a prisoner, as custom had made it necessary. This unique tradition, not observed at every feast but specifically during the Passover, held great significance. It provides valuable context for understanding the governor's offer to release a prisoner to the crowd in the verse.",
+            "wordCount": 56,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 0.5876444858480929,
+            "qualityScoreNormalizedComparedToV2BHTs": 10.88,
+            "commentatorTierSimilarities": [
+                0.0,
+                11.58,
+                88.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the Passover feast, it was customary for the governor to release a prisoner, as custom had made it necessary. This unique tradition, not observed at every feast but specifically during the Passover, held great significance. It sheds light on the context, providing a deeper understanding of the governor's offer to release a prisoner to the crowd.",
+            "wordCount": 58,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 0.5078812524791128,
+            "qualityScoreNormalizedComparedToV2BHTs": 8.23,
+            "commentatorTierSimilarities": [
+                0.0,
+                3.19,
+                96.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the Passover feast, it was customary to release a prisoner, as custom had made it necessary. This unique tradition, not observed at every feast but specifically during the Passover, sheds light on the context and provides a deeper understanding of the governor's offer to release a prisoner to the crowd.",
+            "wordCount": 52,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 0.6376166778959726,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.55,
+            "commentatorTierSimilarities": [
+                0.0,
+                1.37,
+                98.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the Passover feast, it was customary to release a prisoner, as custom had made it necessary. This unique tradition sheds light on the context and provides a deeper understanding of the governor's offer to release a prisoner to the crowd during this specific occasion.",
+            "wordCount": 46,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 0.45586324232272263,
+            "qualityScoreNormalizedComparedToV2BHTs": 6.5,
+            "commentatorTierSimilarities": [
+                0.0,
+                -15.01,
+                115.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:12:54",
+    "verseRef": "Philemon 8",
+    "bestBHT": {
+        "bht": "For love's sake, in the element of Christ where boldness is found, it is fitting to beseech rather than command. Through his love, the apostle prefers to entreat, acknowledging his authority but waiving it for the time, so that Philemon may freely decide what is proper in this circumstance. This request, as a prayer, is conduct suitable to the Christian character, and the apostle has confidence that God will guide Philemon in discerning his duty.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.266249074694345,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.69,
+        "commentatorTierSimilarities": [
+            23.72,
+            40.17,
+            36.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For love's sake.\" ",
+            "In Christ, as usual, the element in which the boldness found place.\" ",
+            "That which is fitting, a delicate hint, that the reception of Onesimus was to be classed under this category."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Because of my love to thee, I prefer to 'beseech,' rather than 'enjoin,' or authoritatively command.",
+            "I might ... enjoin\u2014in virtue of the obligation to obedience which Philemon lay under to Paul, as having been converted through his instrumentality.",
+            "in Christ\u2014the element in which his boldness has place."
+        ],
+        "Albert Barnes": [
+            "He means that he was invested with authority by the Lord Jesus, and would have a right, as an apostle, to enjoin what ought to be done in the case.",
+            "The word 'convenient' here (\u03c4\u03bf\u0300 \u03b1\u0313\u03bd\u03b7\u0342\u03ba\u03c9 to ane\u0304ko\u0304), means that which would be fit or proper in the case.",
+            "The apostle implies here that what he was about to ask, was proper to be done in the circumstances, but he does not put it on that ground, but rather asks it as a personal layout."
+        ],
+        "Marvin Vincent": [
+            "I have all boldness.\" (Commentary)",
+            "ParjrJhsia boldness is opposed to fear, John 7:13; to ambiguity or reserve, John 11:14.\" (Commentary)",
+            "The modern sense merges the idea of essential fitness. The verb ajnhkw originally means to come up to; hence of that which comes up to the mark; fitting.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "Though I have authority so that I might justly command thee, yet thy love makes me prefer to entreat thee.",
+            "...thy love makes me prefer to entreat thee.",
+            "I have great confidence in Christ to command thee."
+        ],
+        "Philip Schaff": [
+            "Here St. Paul expresses confidence that his prayers for Philemon will not be unanswered. God will show to him what his duty in this matter is, and so the apostle does not command.",
+            "He does not ignore the right which he had to speak with authority, he only waives it for the time, that what Philemon does may be done of his free will.",
+            "Conduct suitable and becoming the Christian character."
+        ],
+        "Archibald T. Robertson": [
+            "That which is befitting.",
+            "For idea in \u03b1\u03bd\u03b7\u03ba\u03c9, see Colossians 3:18; Ephesians 5:4.",
+            "I rather beseech."
+        ],
+        "John Gill": [
+            "Or use much freedom of speech in the name of Christ, as an ambassador of his, and great authority as his apostle.\" ",
+            "Which became him as a believer in Christ, and a minister of the Gospel; which was his duty, and was obligatory upon him, agreeable to the doctrines of Christ.",
+            "Upon this foot the apostle could have commanded him, as he did in other cases, but he chose not to address him in an authoritative way, but by way of entreaty."
+        ],
+        "John Wesley": [
+            "I might be bold in Christ \u2014 Through the authority he hath given me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For love's sake, in the element of Christ where boldness is found, it is fitting to beseech rather than command. The apostle, through his love for Philemon, prefers to entreat him instead of imposing his authority. It is not a denial of his authority, but rather an exercise of personal layout. This request, though befitting and proper in the circumstances, is presented as a prayer for Philemon to freely willfully decide. It is conduct suitable and becoming of a Christian, and the apostle has confidence that God will guide Philemon in discerning his duty.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.055163105821584,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+            "commentatorTierSimilarities": [
+                22.55,
+                40.49,
+                36.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For love's sake, in the element of Christ where boldness is found, it is fitting to beseech rather than command. Through his love, the apostle prefers to entreat, acknowledging his authority but waiving it for the time, so that Philemon may freely decide what is proper in this circumstance. This request, as a prayer, is conduct suitable to the Christian character, and the apostle has confidence that God will guide Philemon in discerning his duty.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.266249074694345,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.69,
+            "commentatorTierSimilarities": [
+                23.72,
+                40.17,
+                36.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For love's sake, in the element of Christ where boldness is found, it is fitting to beseech rather than command. Through his love, the apostle prefers to entreat Philemon instead of imposing his authority. This is not a denial of his authority but an exercise of personal layout. This request, though befitting and proper, is presented as a prayer, allowing Philemon to freely decide what is suitable and becoming of a Christian. The apostle has confidence that God will guide Philemon in discerning his duty.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.017256288005863,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.41,
+            "commentatorTierSimilarities": [
+                23.13,
+                38.33,
+                38.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For love's sake, in the element of Christ where boldness is found, it is fitting to beseech rather than command. Through his love, the apostle prefers to entreat Philemon instead of imposing his authority, acknowledging his right to speak with authority but choosing to appeal personally. This request, though befitting and proper, is presented as a prayer, allowing Philemon to freely decide what is suitable and becoming of a Christian. The apostle has confidence that God will guide Philemon in discerning his duty.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1235683313287677,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                23.47,
+                39.02,
+                37.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For love's sake, in the element of Christ where boldness is found, it is fitting to beseech rather than command. Through his love, the apostle prefers to entreat Philemon instead of imposing his authority, acknowledging his right to speak with authority but choosing to appeal personally. This request, though befitting and proper, is presented as a prayer, allowing Philemon to freely decide what is suitable and becoming of a Christian. The apostle has confidence in God's guidance for Philemon's discernment of his duty.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.121369952367993,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+            "commentatorTierSimilarities": [
+                24.02,
+                38.78,
+                37.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:34:09",
+    "verseRef": "Acts 20:13",
+    "bestBHT": {
+        "bht": "Paul made the decision to walk from Troas to Assos. While the reason for his desire to be alone is not explicitly stated, it is possible that he wanted to spend extra time with his disciples in Troas and have a period of solitude for personal reflection and meditation. By choosing to travel on foot, Paul had the opportunity to enjoy the company of his Christian brethren a little longer and engage in deep conversation with God. The distance he chose to walk was twenty miles, less than half the distance by sea.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.0400302719766,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+        "commentatorTierSimilarities": [
+            35.53,
+            38.11,
+            26.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Assos...a sea-port...built on a high cliff above sea, with a precipitous descent.\" ",
+            "Paul's reason is not given for wishing to be alone: probably he had some apostolic visit to make.",
+            "Paul's reason is not given for wishing to be alone: probably he had some apostolic visit to make."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In sailing southward from Troas to Assos, one has to round Cape Lecture, and keeping due east to run along the northern shore of the Gulf of Adramyttium, on which it lies.",
+            "This is a sail of nearly forty miles; whereas by land, cutting right across, in a southeasterly direction, from sea to sea, by that excellent Roman road which then existed, the distance was scarcely more than half.",
+            "The one way Paul wished his companions to take, while he himself, longing perhaps to enjoy a period of solitude, took the other, joining the ship, by appointment, at Assos."
+        ],
+        "Albert Barnes": [
+            "The distance to it from Troas by land was about 20 miles, while the voyage round Cape Lecture was nearly twice as far, and accordingly Paul chose to go to it on foot.",
+            "Choosing or preferring to go on foot.",
+            "Most of his journeys were probably performed in this way."
+        ],
+        "Marvin Vincent": [
+            "To go afoot... There is no good reason for changing this to by land... The A. V. preserves the etymology of the Greek verb.\" ",
+            "The distance was twenty miles; less than half the distance by sea."
+        ],
+        "John Calvin": [
+            "I think that he did then eschew the sea for his health\u2019s sake.",
+            "They were ready and willing to do their duty; but Paul was so far from requiring things straitly \u2212 at their hands, that of his own accord and courtesy he did remit those duties which they were ready to do; yea, setting aside his own commodity, he commanded them to do that which was for their comfort.",
+            "It is well known that the city Assos is by the describers of countries attributed to Troas."
+        ],
+        "Philip Schaff": [
+            "He wished, perhaps, to secure a few more hours with his disciples at Troas, and also a quiet, solitary time of meditation as he went alone by the road to the point where he had fixed to join the ship and his friends.\" ",
+            "He doubtless, in these solitary hours, pondered over the subjects of that famous farewell address he was about to deliver to his friends, the elders of the Ephesian congregation he loved so dearly.\" ",
+            "Assos is called by Pliny Apollonia; it was a seaport of Mysia, and thus was reckoned in Proconsular Asia. Its modern name is Beahrahm."
+        ],
+        "Archibald T. Robertson": [
+            "To take in Paul.\" ",
+            "He had appointed... to go by land.",
+            "Certainly he was entitled to a little time alone."
+        ],
+        "John Gill": [
+            "And we went before to ship... and sailed unto Assos...\" ",
+            "No mention is made of the Gospel being preached here, or of any church until the eighth century...\" ",
+            "What was his reason for going by foot thither, is not very evident; whether that he might have the opportunity of conversing with the disciples of Troas, who might accompany him thither; or whether that he might be alone, and have leisure for private meditation, and free converse with God."
+        ],
+        "John Wesley": [
+            "Being himself to go on foot \u2014 That he might enjoy the company of his Christian brethren a little longer.",
+            "although he had passed the night without sleep",
+            "and though Assos was of difficult and dangerous access by land."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul chose to go on foot from Troas to Assos, a sea-port built on a high cliff above the sea. This journey was around twenty miles, much shorter than the nearly forty mile sail by sea. The reason for Paul's desire to be alone is not explicitly stated, but it is possible that he had an apostolic visit to make. By choosing to walk, Paul may have wanted to spend extra time with his disciples in Troas and have a period of solitude for meditation as he made his way to Assos. It is clear that Paul valued these moments alone, as he was entitled to some time of personal reflection.",
+            "wordCount": 113,
+            "quoteTokenProportion": 48.1,
+            "qualityScore": 2.0406778201008544,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                38.96,
+                36.1,
+                24.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul decided to walk from Troas to Assos, a sea-port situated on a steep cliff above the sea. Despite an alternative route of sailing, he preferred this journey on foot, which was roughly half the distance. The reason for Paul's wish to be alone is not explicitly mentioned, but it could be inferred that he wanted to spend extra time with his fellow believers in Troas or engage in personal contemplation along the way. Paul valued these moments of solitude and reflection, demonstrating his entitlement to some time alone.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.007377944256327,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                38.4,
+                38.28,
+                23.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul chose to walk from Troas to Assos, a sea-port built on a high cliff above the sea. This decision allowed him to have some time alone, perhaps for personal reflection and meditation. It is speculated that Paul may have wanted to spend additional hours with his disciples in Troas and enjoy moments of solitude as he made his way to Assos. His desire for solitude is understandable, considering the demanding nature of his apostolic duties.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.854139169778565,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                34.41,
+                38.87,
+                26.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul decided to travel on foot from Troas to Assos, a sea-port situated on a high cliff above the sea. This choice provided him with an opportunity to spend some time alone, possibly engaging in personal contemplation and meditation. It is likely that Paul desired extra hours with his disciples in Troas and sought solitude as he journeyed to Assos. His preference for solitude reflects his appreciation for moments of introspection and connection with God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.8393436016251914,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.5,
+            "commentatorTierSimilarities": [
+                32.3,
+                41.73,
+                25.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul made the decision to walk from Troas to Assos. While the reason for his desire to be alone is not explicitly stated, it is possible that he wanted to spend extra time with his disciples in Troas and have a period of solitude for personal reflection and meditation. By choosing to travel on foot, Paul had the opportunity to enjoy the company of his Christian brethren a little longer and engage in deep conversation with God. The distance he chose to walk was twenty miles, less than half the distance by sea.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.0400302719766,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+            "commentatorTierSimilarities": [
+                35.53,
+                38.11,
+                26.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

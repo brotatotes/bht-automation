@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:36:34",
+    "verseRef": "Acts 26:4",
+    "bestBHT": {
+        "bht": "My manner of life, from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews. Paul makes a precise appeal to the Jews, emphasizing their longstanding familiarity with his behavior and reputation in Jerusalem. By highlighting how well they knew him as a Pharisee and the strictness of his lifestyle, Paul seeks to dispel any false rumors or suspicions that may have clouded their judgment, establishing his innocence before King Agrippa.",
+        "wordCount": 78,
+        "quoteTokenProportion": 49.21,
+        "qualityScore": 1.997488387823041,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.76,
+        "commentatorTierSimilarities": [
+            24.67,
+            44.38,
+            30.95
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "from my youth, which was at the first . . . at Jerusalem, know all the Jews",
+            "which knew me from the beginning\u2014plainly showing that he received his education",
+            "even from early youth, at Jerusalem"
+        ],
+        "Albert Barnes": [
+            "My manner of life - My opinions, principles, and conduct.",
+            "From my youth - Paul was born in Tarsus; but at an early period he had been sent to Jerusalem for the purpose of education in the school of Gamaliel, Acts 22:3.",
+            "Which was at the first - Which was from the beginning; the early part of which; the time when the opinions and habits are formed."
+        ],
+        "Marvin Vincent": [
+            "My manner of life, etc. The repeated articles give additional precision to the statement : \"the manner of life, that which was from my youth; that which was from the beginning."
+        ],
+        "John Calvin": [
+            "But because he was wrongfully accused and burdened with many crimes, lest king Agrippa should envy the cause... he doth first avouch his innocency.\" ",
+            "Paul doth first drive away the clouds of an evil opinion which were gathered of false reports, that he may be heard of pure and well purged ears.\" ",
+            "For we know that when a sinister suspicion hath once possessed the minds of men, all their senses are so shut up that they can admit nothing."
+        ],
+        "Philip Schaff": [
+            "My manner of life from my youth, which was at first among mine own nation at Jerusalem, know all the Jews.\" ",
+            "He proceeds now to state how long the Jews had known him from his early youth; when they had learned to know him \u2018at Jerusalem;\u2019 and also what they knew of him that he was a Pharisee, living the strictest of lives.",
+            "He appeals, thus, to all the Jews. This general term included specially the Jews dwelling in Jerusalem and Jud\u00e6a, and the members of the Sanhedrim these, in fact were his accusers on the present occasion."
+        ],
+        "Archibald T. Robertson": [
+            "With \u03bc\u03b5\u03bd \u03bf\u03c5\u03bd Paul passes from the captatio benevolentiae 'to the narratio or statement of his case'.",
+            "\u03b2\u03b9\u03c9\u03c3\u03b9\u03c2 is from \u03b2\u03b9\u03bf\u03c9 and that from \u03b2\u03b9\u03bf\u03c2.",
+            "This is the only instance of \u03b2\u03b9\u03c9\u03c3\u03b9\u03c2 yet found except... a reference given in Ramsay's Cities and Bishoprics of Phrygia, Vol II, p. 650."
+        ],
+        "John Gill": [
+            "My manner of life, from my youth...his behaviour among men...and of being observed and taken notice of by men.\" ",
+            "The first part of his life was spent in Jerusalem, the metropolis of Judea, and among the Jews there; the more learned and knowing part of them.",
+            "His course of life must be well known to them, as he says, this know all the Jews; that had any knowledge of him, and conversation with him."
+        ],
+        "John Wesley": [
+            "From my youth, which was from the beginning \u2014 That is, which was from the beginning of my youth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "My manner of life, from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews. With precision, Paul appeals to the Jews, the very ones who had known him from the beginning, to testify to his innocence and his strict Pharisaic lifestyle. He clarifies that they were well acquainted with his behavior and reputation, having observed him closely throughout his time in Jerusalem. By highlighting the familiarity his accusers had with him, Paul seeks to dispel any false rumors or suspicions that may have clouded their judgment.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.8170623958896344,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                24.56,
+                43.36,
+                32.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "My manner of life, from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews. Paul makes a precise appeal to the Jews, emphasizing their longstanding familiarity with his behavior and reputation in Jerusalem. By highlighting how well they knew him as a Pharisee and the strictness of his lifestyle, Paul seeks to dispel any false rumors or suspicions that may have clouded their judgment, establishing his innocence before King Agrippa.",
+            "wordCount": 78,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.997488387823041,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.76,
+            "commentatorTierSimilarities": [
+                24.67,
+                44.38,
+                30.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "My manner of life, from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews. Paul appeals to the Jews, emphasizing their familiarity with his behavior from the beginning, specifically during his time in Jerusalem. By highlighting their knowledge of his strict Pharisaic lifestyle, Paul aims to dispel any false reports that may have tainted their perception of him. This serves as an attempt to establish his innocence before King Agrippa and to ensure that he is heard with pure and unbiased ears.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.8174827761302246,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                24.82,
+                43.44,
+                31.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "My manner of life, from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews. Paul appeals to the Jews, emphasizing their familiarity with his behavior from the beginning, specifically during his time in Jerusalem. By highlighting their knowledge of his strict Pharisaic lifestyle, Paul aims to dispel any false reports that may have tainted their perception of him. This serves as an attempt to establish his innocence before King Agrippa.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.8151290378179814,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                25.75,
+                42.65,
+                31.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "My manner of life, from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews. Paul emphasizes that the Jews knew him well, especially during his time in Jerusalem, and were familiar with his strict Pharisaic lifestyle. By highlighting their knowledge of his behavior from the beginning, he seeks to dispel any false reports or suspicions that may have tainted their perception of him. This serves as his attempt to establish his innocence before King Agrippa and to ensure an unbiased hearing.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.7949714392779135,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                24.96,
+                42.77,
+                32.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

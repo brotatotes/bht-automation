@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:29:38",
+    "verseRef": "Acts 11:3",
+    "bestBHT": {
+        "bht": "These objectors have no qualms about demanding an explanation from Peter, even though he is the foremost among the apostles. Interestingly, Peter does not insinuate any disrespect towards his authority in response to this demand, which is evidence that such authority was unknown to both the complainers and himself. The objection is not about Peter preaching to the Gentiles, but rather about him going into the house of Cornelius and eating with them, thus violating his supposed obligations as a Jew. This act of eating with uncircumcised men is viewed contemptuously by the objectors.",
+        "wordCount": 94,
+        "quoteTokenProportion": 54.29,
+        "qualityScore": 1.9587403437339326,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+        "commentatorTierSimilarities": [
+            47.8,
+            22.43,
+            29.76
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "These objectors scruple not to demand from Peter, though the first among the apostles, an explanation of his conduct.\" ",
+            "There is...no insinuation on Peter's part of disrespect towards his authority in that demand\u2014a manifest proof that such authority was unknown both to the complainers and to himself."
+        ],
+        "Albert Barnes": [
+            "And didst eat with them - See the notes on Acts 10:13-14."
+        ],
+        "Marvin Vincent": [
+            "Men uncircumcised [\u03b1\u03bd\u03b4\u03c1\u03b1\u03c2 \u03b1\u03ba\u03c1\u03bf\u03b2\u03c5\u03c3\u03c4\u03b9\u03b1\u03bd \u03b5\u03c7\u03bf\u03bd\u03c4\u03b1\u03c2] . An indignant expression. See Ephesians 2:11."
+        ],
+        "John Calvin": [
+            "Doctrine, indeed, if it be of God, is placed above the chance and die of man\u2019s judgment; but because the Lord will have prophecy judged, his servants must not refuse this condition, that they prove themselves to be such as they will be accounted.\" ",
+            "This is assuredly wonderful goodness of God, who maketh men ministers of life, who have nothing but matter of death in themselves, and which are not only subject to death in themselves, but are also deadly to others.",
+            "The filthy unthankfulness of the world betrayeth itself in this point, which, loathing true and certain salvation offered unto it, and forsaking it when it lieth at the feet, doth imagine divers and vain salvations, in seeking which, it had rather gape being hungry, than to be filled with the grace of God which meeteth it and is present."
+        ],
+        "Philip Schaff": [
+            "It was not the communicating the Gospel to the Gentiles which they grudged, but the communicating it in such a way as to do violence to the most cherished principles of the past."
+        ],
+        "Archibald T. Robertson": [
+            "Thou wentest in (\u03b5\u03b9\u03c3\u03b7\u03bb\u03b8\u03b5\u03c2). Direct form, but Westcott and Hort have it \u03b5\u03b9\u03c3\u03b7\u03bb\u03b8\u03b5\u03bd (he went in), indirect form. So with \u03c3\u03c5\u03bd\u03b5\u03c6\u03b1\u03b3\u03b5\u03c2 (didst eat) and \u03c3\u03c5\u03bd\u03b5\u03c6\u03b1\u03b3\u03b5\u03bd (did eat). The direct is more vivid.",
+            "Men uncircumcised (\u03b1\u03bd\u03b4\u03c1\u03b1\u03c2 \u03b1\u03ba\u03c1\u03bf\u03b2\u03c5\u03c3\u03c4\u03b9\u03b1\u03bd \u03b5\u03c7\u03bf\u03bd\u03c4\u03b1\u03c2). 'Men having uncircumcision.' It is a contemptuous expression.",
+            "They did not object to Peter's preaching to the Gentiles, but to his going into the house of Cornelius and eating with them, violating his supposed obligations as a Jew."
+        ],
+        "John Gill": [
+            "Saying, thou wentest into men uncircumcised,.... Into the houses of such, and lodged with them, and familiarly conversed with them.\" ",
+            "and didst eat with them; which, according to the traditions of the Jews, were unlawful...",
+            "they say nothing about his preaching to them, and baptizing them, because these were so manifestly agreeable to the commission of Christ in Matthew 28:19, and yet how these could be without the other, is not easy to say."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These objectors have no qualms about demanding an explanation from Peter, even though he is the foremost among the apostles. Interestingly, Peter does not insinuate any disrespect towards his authority in response to this demand, which is evidence that such authority was unknown to both the complainers and himself. The objection is not about Peter preaching to the Gentiles, but rather about him going into the house of Cornelius and eating with them, thus violating his supposed obligations as a Jew. This act of eating with uncircumcised men is viewed contemptuously by the objectors.",
+            "wordCount": 94,
+            "quoteTokenProportion": 54.29,
+            "qualityScore": 1.9587403437339326,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                47.8,
+                22.43,
+                29.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These objectors demand an explanation from Peter, despite his position as the foremost among the apostles. Peter does not show any disrespect towards his authority in response, which indicates that both the complainers and himself were unaware of such authority. The objection is not about Peter preaching to the Gentiles, but rather about him going into the house of Cornelius and eating with them, which violates his supposed obligations as a Jew. The act of eating with uncircumcised men is viewed contemptuously by the objectors.",
+            "wordCount": 85,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.9053189514221458,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "commentatorTierSimilarities": [
+                48.81,
+                22.35,
+                28.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The objectors scruple not to demand an explanation from Peter, though he is the foremost among the apostles. This demand is proof that such authority was unknown to both the complainers and himself. The objection is not about Peter preaching to the Gentiles, but about him going into the house of Cornelius and eating with them, violating his supposed obligations as a Jew. The act of eating with uncircumcised men is viewed contemptuously by the objectors.",
+            "wordCount": 76,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.802105556401212,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "commentatorTierSimilarities": [
+                51.09,
+                19.19,
+                29.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There were people who questioned Peter's actions and demanded an explanation, showing that they did not recognize his authority. Their objection was not to Peter preaching to the Gentiles, but rather to him entering the home of Cornelius and eating with them, which they considered a violation of Jewish customs. The phrase men uncircumcised was used in a contemptuous manner to express their indignation. These objectors did not mention Peter's preaching and baptizing the Gentiles, as these actions were in accordance with Christ's commission. It is clear that their objection was rooted in their attachment to past traditions rather than a refusal of the Gospel being shared with the Gentiles.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9038920498779268,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "commentatorTierSimilarities": [
+                41.3,
+                27.0,
+                31.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "There were objectors who demanded an explanation from Peter, disregarding his authority as the first among the apostles. Their objection was not to Peter preaching to the Gentiles, but to his act of going into the house of Cornelius and eating with them, which they considered a violation of Jewish customs. The expression men uncircumcised was used contemptuously to express their indignation. Their objection was rooted in their attachment to past traditions rather than a refusal of the Gospel being shared with the Gentiles.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.9403611758600885,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+            "commentatorTierSimilarities": [
+                43.36,
+                27.23,
+                29.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

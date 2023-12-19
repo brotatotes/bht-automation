@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:19:12",
+    "verseRef": "Luke 13:10",
+    "bestBHT": {
+        "bht": "In an undisclosed time and place, Jesus was diligently teaching, utilizing every opportunity to instruct people in the Gospel. One of these occasions took place in a synagogue, likely in Perea, on the sacred Sabbath day. Though the exact details of the event's timing and location may be indefinite, this episode serves as a testament to Jesus' commitment to spreading his teachings across various settings, such as the countless synagogues in Jerusalem.",
+        "wordCount": 73,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.1382050029579065,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.19,
+        "commentatorTierSimilarities": [
+            18.76,
+            34.34,
+            46.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] Time and place alike indefinite."
+        ],
+        "John Calvin": [
+            "I have resolved to place in immediate connection some events which are detailed by Luke alone, without a direct reference to dates.",
+            "For on that point, as we have formerly mentioned, the Evangelists did not care much about exactness.",
+            "We shall afterward find a more suitable time for returning to the Harmony of the Three Evangelists."
+        ],
+        "Philip Schaff": [
+            "Luke 13:10. In one of the synagogues. In Perea, as we suppose.",
+            "\t",
+            " On the sabbath day. This is the main point, whenever and wherever the incident occurred.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "He was teaching (\u03b7\u03bd \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03c9\u03bd). Periphrastic imperfect active. "
+        ],
+        "John Gill": [
+            "Jesus... took all opportunities of instructing men in the truths of the Gospel.\" ",
+            "In Jerusalem... there were three hundred and ninety-four synagogues; and other writers increase their number, and say, there were four hundred and eighty.",
+            "It was on the sabbath; which was now in force, and was religiously observed by Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In an undisclosed time and place, Jesus was teaching, taking advantage of every opportunity to instruct people in the truths of the Gospel. One of these occasions was in a synagogue, most likely in Perea. The significance of this event lies in the fact that it happened on the Sabbath day, a moment of religious devotion and observance. While the exactness of the event's timing and location may not be of utmost importance to the Gospel writers, it underscores the fact that Jesus utilized various settings, such as the countless synagogues in Jerusalem, to deliver his teachings with the utmost diligence.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.0253452762216402,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.44,
+            "commentatorTierSimilarities": [
+                11.85,
+                38.71,
+                49.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In an undisclosed time and place, Jesus was teaching, taking advantage of every opportunity to instruct people in the truths of the Gospel. One of these occasions was in a synagogue, most likely in Perea. The significance of this event lies in the fact that it happened on the Sabbath day, a moment of religious devotion and observance. While the exactness of the event's timing and location may not be of utmost importance to the Gospel writers, it underscores the fact that Jesus utilized various settings, such as the countless synagogues in Jerusalem.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.0086325522281605,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.88,
+            "commentatorTierSimilarities": [
+                10.41,
+                39.27,
+                50.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In an undisclosed time and place, Jesus was diligently teaching, utilizing every opportunity to instruct people in the Gospel. One of these occasions took place in a synagogue, likely in Perea, on the sacred Sabbath day. Though the exact details of the event's timing and location may be indefinite, this episode serves as a testament to Jesus' commitment to spreading his teachings across various settings, such as the countless synagogues in Jerusalem.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.1382050029579065,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.19,
+            "commentatorTierSimilarities": [
+                18.76,
+                34.34,
+                46.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In an indefinite time and place, Jesus was actively teaching in a synagogue, demonstrating his commitment to instructing people in the truths of the Gospel. Though the details of the event may be unknown, it took place on the Sabbath day, signifying the religious observance and devotion present in the moment. While the specifics of the location and timing may not be of great importance to the Gospel writers, it is evident that Jesus took advantage of various settings, including the numerous synagogues in Jerusalem, to share his teachings.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.086231403135275,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.46,
+            "commentatorTierSimilarities": [
+                18.07,
+                31.38,
+                50.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In an indefinite time and place, Jesus was actively teaching in a synagogue, on the Sabbath day. Though the specifics of the event may be unknown, his commitment to instructing people in the truths of the Gospel is evident. This reflects his approach of utilizing various settings, including the numerous synagogues in Jerusalem, to share his teachings with diligence and purpose. The significance of the Sabbath underscores the religious observance and devotion present in this moment while emphasizing Jesus' dedication to spreading the Good News.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.0729703295923951,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.02,
+            "commentatorTierSimilarities": [
+                17.93,
+                35.94,
+                46.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:26:43",
+    "verseRef": "Acts 5:35",
+    "bestBHT": {
+        "bht": "Take heed to yourselves and carefully consider what you intend to do as touching these men. Do not act rashly or hastily lay hands on them, for it may bring disgrace and danger upon you. Reflect on the fate of Theudas and other insurrectionists before taking extreme measures. Take time to deliberate and consult on the matter, avoiding the wrath of God and the ill-will of others. Decide thoughtfully on the appropriate punishment, whether that be imprisonment, scourging, or death, and refrain from acting out of anger or passion.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.5445540200926309,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.7,
+        "commentatorTierSimilarities": [
+            15.43,
+            29.83,
+            54.74
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words as touching these men may be joined either with take heed to yourselves, or with what ye intend to do.",
+            "The latter would give the more usual construction.",
+            "And seems the more probable of the two."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Theudas\u2014not the same with a deceiver of that name whom JOSEPHUS mentions as heading an insurrection some twelve years after this.\" ",
+            "Such insurrections were frequent.",
+            "But some other of whom he [Josephus] makes no mention."
+        ],
+        "Philip Schaff": [
+            "Gamaliel here, as a wise and far-seeing man, persuades the angry and unreasoning zealots in the council, who would have taken the lives of the teachers of the new sect, to consider well what they were doing.",
+            "He argued, if these things, which then so powerfully exercised their thoughts, were merely derived from a human source, like the matter of Theudas and Judas of Galilee, they would soon simply fade away into contempt and be forgotten.",
+            "Let them pause then awhile before they proceeded to any extreme measures."
+        ],
+        "Archibald T. Robertson": [
+            "Take heed (\u03c0\u03c1\u03bf\u03c3\u03b5\u03c7\u03b5\u03c4\u03b5 \u03b5\u03b1\u03c5\u03c4\u03bf\u03b9\u03c2). Hold your mind (\u03bd\u03bf\u03c5\u03bd, unexpressed) for or on yourselves (dative case), the usual idiom. "
+        ],
+        "John Gill": [
+            "Take heed to yourselves; do not act a rash and precipitant part; do not give way to passion and wrath, and hastily lay hands on these men, and destroy them; lest ye bring yourselves into disgrace and danger.\" ",
+            "Take time to consider of the matter, and deliberately consult what ye intend to do as touching these men; what punishment to inflict upon them, whether imprisonment, scourging, or death; do nothing rashly.",
+            "Do not bring upon yourselves the ill-will and resentment of men, and the wrath of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Take heed to yourselves and carefully consider what you intend to do regarding these men. Do not act rashly or give in to anger, lest you bring disgrace and danger upon yourselves. It is crucial to take time to deliberate and consult before deciding on the appropriate punishment, whether it be imprisonment, scourging, or death. By doing so, you avoid arousing ill-will and resentment from others and prevent incurring the wrath of God. Just as Theudas and other insurrectionists were soon forgotten, it is wise to pause and reflect before taking extreme measures.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5150603599818975,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.72,
+            "commentatorTierSimilarities": [
+                15.26,
+                30.93,
+                53.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Take heed to yourselves and consider your actions carefully in response to these men. Do not act rashly or let anger guide your decisions, as it may lead to disgrace and danger. Instead, take the time to deliberate and consult on what punishment should be inflicted upon them, whether that be imprisonment, scourging, or death. By avoiding hasty actions, you can prevent the resentment of others and the wrath of God from falling upon you. Reflect on the fate of Theudas and other forgotten insurrectionists before taking extreme measures.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.4591217050717058,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.86,
+            "commentatorTierSimilarities": [
+                14.33,
+                30.71,
+                54.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Take heed to yourselves and carefully consider what you intend to do regarding these men. Do not act rashly or give in to anger, lest you bring disgrace and danger upon yourselves. It is crucial to take time to deliberate and consult before deciding on the appropriate punishment, whether it be imprisonment, scourging, or death. By doing so, you avoid arousing ill-will and resentment from others and prevent incurring the wrath of God. Reflect on the fate of Theudas and other insurrectionists before taking extreme measures.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.4674797332775034,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+            "commentatorTierSimilarities": [
+                15.4,
+                28.42,
+                56.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Take heed to yourselves and consider what you intend to do regarding these men. Do not act rashly or hastily lay hands on them, as it may bring disgrace and danger upon yourselves. Reflect on the fate of Theudas and other insurrectionists before taking extreme measures. By deliberating and consulting on the matter, you can avoid arousing ill-will and the wrath of God. Take time to decide on the appropriate punishment, whether it be imprisonment, scourging, or death, and avoid acting out of anger or passion.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.527510061755818,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+            "commentatorTierSimilarities": [
+                15.75,
+                28.66,
+                55.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Take heed to yourselves and carefully consider what you intend to do as touching these men. Do not act rashly or hastily lay hands on them, for it may bring disgrace and danger upon you. Reflect on the fate of Theudas and other insurrectionists before taking extreme measures. Take time to deliberate and consult on the matter, avoiding the wrath of God and the ill-will of others. Decide thoughtfully on the appropriate punishment, whether that be imprisonment, scourging, or death, and refrain from acting out of anger or passion.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.5445540200926309,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.7,
+            "commentatorTierSimilarities": [
+                15.43,
+                29.83,
+                54.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

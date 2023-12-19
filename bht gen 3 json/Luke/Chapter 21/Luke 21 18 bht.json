@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:22:32",
+    "verseRef": "Luke 21:18",
+    "bestBHT": {
+        "bht": "Jesus assures his disciples that despite the challenges they may face, they will be protected and preserved in their spiritual life. This promise goes beyond physical safety, encompassing the well-being of their souls. God's warning precedes judgment, and even in the midst of betrayal, hatred, and persecution, the disciples will not suffer permanent harm. Death itself is not a loss, but rather an exchange for eternal happiness. This precious promise assures them that all things will work together for their ultimate good.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.2719653333290408,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.64,
+        "commentatorTierSimilarities": [
+            37.38,
+            26.56,
+            36.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18.] Not literally, but really true; not corporeally, but in that real and only life which the disciple of Christ possesses."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This precious promise is far above immunity from mere bodily harm.\" ",
+            "Sad illustrations of the effect of abounding iniquity in cooling the love of faithful disciples we have in the Epistle of James.\" ",
+            "God never sends judgment without previous warning."
+        ],
+        "Philip Schaff": [
+            "And not a hair of your head shall perish.\" ",
+            "Some would add: \u2018as long as you are needed for the service of Christ;\u2019 others refer it to the safety of the mass of Christians at the time of the destruction of Jerusalem.\" ",
+            "But the fact that Luke 21:16 points to the death of some makes a reference to the spiritual life more probable."
+        ],
+        "John Gill": [
+            "Though they should be betrayed by their friends, and hated, and persecuted, and imprisoned by their enemies, yet they should be no losers in the main; all things should work together for their good.",
+            "Though even they should be put to death, yet that would be to their advantage, since instead of a temporal, troublesome life, they should enjoy an eternal and happy one.",
+            "This cannot be understood of entire preservation from all corporeal damages and hurt; seeing it is, before declared, that they should be put into prisons, and some of them put to death."
+        ],
+        "John Wesley": [
+            "Not a hair of your head \u2014 A proverbial expression, shall perish - Without the special providence of God. And then, not before the time, nor without A full reward."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 21:18, Jesus assures his disciples that they will be protected and preserved, not in a literal sense, but in the spiritual life they possess. This promise goes beyond mere bodily safety and encompasses the well-being of their souls. It is a pledge that, despite the trials and tribulations they may face, they will ultimately be rewarded and gain eternal happiness. God, in His mercy, never sends judgment without warning, and even in the face of betrayal, hatred, and persecution, the disciples will not suffer any permanent harm. Though some may face death, this is not a loss, but a gain, as they will exchange a temporal and troublesome life for an eternal and blissful one.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4385556333460197,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.17,
+            "commentatorTierSimilarities": [
+                34.08,
+                25.1,
+                40.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus assures his disciples in this verse that they will be protected and preserved, not in a literal sense, but in the spiritual life they possess. This promise extends beyond bodily safety and includes the well-being of their souls. They can take comfort in the fact that God never sends judgment without warning. Even though they may face betrayal, persecution, and even death, they will not suffer permanent harm. Instead, they will be rewarded with eternal happiness, exchanging a temporal and troublesome life for an everlasting one.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.4018579718050705,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.95,
+            "commentatorTierSimilarities": [
+                36.25,
+                25.45,
+                38.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' assurance to his disciples in this passage goes beyond physical safety, encompassing the preservation of their souls in their life with Christ. This promise is not limited to mere protection from bodily harm; it extends to the overall well-being of his followers. The disciples are reminded that even in the midst of increasing iniquity and the challenges that come with it, God always provides warning before sending judgment. Despite potential betrayal, hatred, persecution, and even death, their ultimate gain is an eternal and joyful life.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4373125210556585,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.13,
+            "commentatorTierSimilarities": [
+                42.65,
+                27.83,
+                29.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus assures his disciples in Luke 21:18 that they will be protected and preserved, not in a literal sense, but in the spiritual life they possess. This promise extends beyond mere bodily safety and includes the well-being of their souls. Despite potential betrayal, persecution, and even death, their advantage lies in the eternal and joyful life they will gain. God, in His mercy, provides warning before sending judgment. This assurance serves as a reminder that through trials and tribulations, there is a greater reward awaiting the faithful.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.3393182547445255,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.88,
+            "commentatorTierSimilarities": [
+                40.45,
+                27.04,
+                32.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus assures his disciples that despite the challenges they may face, they will be protected and preserved in their spiritual life. This promise goes beyond physical safety, encompassing the well-being of their souls. God's warning precedes judgment, and even in the midst of betrayal, hatred, and persecution, the disciples will not suffer permanent harm. Death itself is not a loss, but rather an exchange for eternal happiness. This precious promise assures them that all things will work together for their ultimate good.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.2719653333290408,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.64,
+            "commentatorTierSimilarities": [
+                37.38,
+                26.56,
+                36.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

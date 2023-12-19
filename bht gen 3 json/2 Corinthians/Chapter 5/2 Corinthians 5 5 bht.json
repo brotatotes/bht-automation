@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:16:02",
+    "verseRef": "2 Corinthians 5:5",
+    "bestBHT": {
+        "bht": "The Apostle's fervent wish is for believers' mortal part to be swallowed up by life, a transformation that God has prepared and destined them for through redemption, justification, and sanctification. This desire for immortality is instilled in believers by God Himself, and the Holy Spirit serves as the earnest, the pledge and assurance of the eternal inheritance and the catalyst for this longing. God, through His Spirit and grace, works in believers, fitting them for the change from corruption to incorruption, ultimately bringing about their glorious transformation.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 2.0657250108101612,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.03,
+        "commentatorTierSimilarities": [
+            36.08,
+            36.09,
+            27.83
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This great end, the having the mortal part swallowed up by life, is justified as the object of the Apostle\u2019s fervent wish.",
+            "He which wrought us unto this very purpose is God, who gave unto us the earnest of the Holy Spirit.",
+            "The Apostle... is shewing that the end itself... is, under whatever form brought about, that for which all the preparation, by grace, of Christians, is carried on."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Wrought us\u2014framed us by redemption, justification, and sanctification.",
+            "For the selfsame thing\u2014'unto' it; namely, unto what is mortal of us being swallowed up in life.",
+            "It is the Spirit (as 'the first-fruits') who creates in us the groaning desire for our coming deliverance and glory."
+        ],
+        "Albert Barnes": [
+            "God has destined us to this change from corruption to incorruption; he has adapted us to it; he has formed us for it.",
+            "It was not by any native inclination, or strength, or power which they had, but it was all to be traced to God.",
+            "He has given to us the Holy Spirit as the pledge or assurance of the eternal inheritance."
+        ],
+        "Marvin Vincent": [
+            "Through the various operations of His Spirit and the processes of His discipline, God has worked us out for this change.\" ",
+            "The process includes the dissolution of what is mortal no less than the renewal. The one is a step to the other.",
+            "Of the Spirit is appositional, the Spirit as the earnest."
+        ],
+        "John Calvin": [
+            "We must, therefore, be fitted for it by God.",
+            "It is God who forms in us this desire, and, lest our courage should give way or waver, the Holy Spirit is given us as an earnest.",
+            "There would, however, be nothing unsuitable in extending the word fitted, so as to denote that renovation of life, with which God adorns his people even in this life."
+        ],
+        "Philip Schaff": [
+            "This 'groaning' is not the mere feeling which nature forces out from many a weary spirit, especially under the manifold ills of life; it is that instinct of the new nature, 'wrought of God,' which is eternal life itself begun in the souls of all that believe.\" ",
+            "The earnest of all that this will yet be we have in the Spirit given unto us.",
+            "This last thought is one the apostle often dwells on."
+        ],
+        "John Gill": [
+            "By the curious workmanship of his Spirit and grace upon them.",
+            "His counsels are immutable, and he is a rock, and his work is perfect.",
+            "Who also hath given us the earnest of the Spirit."
+        ],
+        "John Wesley": [
+            "Now he that hath wrought us to this very thing \u2014 This longing for immortality.",
+            "Is God \u2014 For none but God, none less than the Almighty, could have wrought this in us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle's fervent wish is for the mortal part of believers to be swallowed up by life, a transformation that God has prepared and destined them for. Through redemption, justification, and sanctification, God has worked believers out for this change. By the various operations of His Spirit and the processes of His discipline, God has formed in believers the groaning desire for their coming deliverance and glory. The Holy Spirit serves as the earnest or pledge of the eternal inheritance and is the one who creates this desire in believers. This change from corruption to incorruption is a workmanship of God's Spirit and grace upon believers, fitting them for their ultimate transformation.",
+            "wordCount": 114,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.0401336703280055,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.18,
+            "commentatorTierSimilarities": [
+                37.07,
+                35.24,
+                27.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle's fervent wish is for believers to be transformed, with the mortal part being swallowed up by life. God has prepared and destined believers for this change through redemption, justification, and sanctification. By the various operations of His Spirit and the processes of His discipline, God has created in believers the groaning desire for their coming deliverance and glory. The Holy Spirit acts as the earnest, serving as a pledge of the eternal inheritance and the one who forms this desire within believers, fitting them for their transformation in God's perfect workmanship.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.025157419354932,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.68,
+            "commentatorTierSimilarities": [
+                39.35,
+                33.51,
+                27.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle's wish is for believers to be transformed, their mortal part swallowed up by life. God, through redemption, justification, and sanctification, has prepared believers for this change. By the various operations of His Spirit and His discipline, God has worked in believers the groaning desire for their coming deliverance and glory. The Holy Spirit acts as the earnest, a pledge of the eternal inheritance and the one who creates this desire within believers, fitting them for their transformation in God's workmanship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.0004548734019654,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+            "commentatorTierSimilarities": [
+                39.67,
+                33.42,
+                26.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle's fervent wish is for believers' mortal part to be swallowed up by life, a transformation that God has prepared and destined them for through redemption, justification, and sanctification. This desire for immortality is instilled in believers by God Himself, and the Holy Spirit serves as the earnest, the pledge and assurance of the eternal inheritance and the catalyst for this longing. God, through His Spirit and grace, works in believers, fitting them for the change from corruption to incorruption, ultimately bringing about their glorious transformation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.0657250108101612,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.03,
+            "commentatorTierSimilarities": [
+                36.08,
+                36.09,
+                27.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle passionately desires the mortal part of believers to be swallowed up by life, an ultimate transformation for which God has prepared and formed them through redemption, justification, and sanctification. By His Spirit and discipline, God has created within believers a groaning desire for deliverance and future glory. The Holy Spirit serves as the earnest, a pledge of the eternal inheritance and the source of this longing. Through His workmanship, God fits believers for the change from corruption to incorruption, shaping them for their glorious transformation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.988774678281557,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                35.58,
+                36.37,
+                28.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

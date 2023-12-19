@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:32:26",
+    "verseRef": "Acts 16:25",
+    "bestBHT": {
+        "bht": "In the depths of their suffering, Paul and Silas found solace by blending their prayers and songs of praise. Their vocal expressions of worship, possibly from the Psalms, demonstrated the powerful spirit of the Church and served as a means to potentially convert their fellow prisoners. Their unwavering faith and joy were so palpable that it captivated those around them, offering a profound example of the value of a clear conscience and unwavering devotion, transcending the hardships they faced.",
+        "wordCount": 79,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 2.042684937138582,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.26,
+        "commentatorTierSimilarities": [
+            38.16,
+            22.68,
+            39.17
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not as A.V., 'prayed and sang praises,'\u2014but, as in margin, in their prayers, were singing praises, or, praying, sing praises.\" ",
+            "The distinction of modern times between prayer and praise, arising from our attention being directed to the shape rather than to the essence of devotion, was unknown in these days.\" ",
+            "Their legs in the stocks pained them not, whose souls were in heaven.\" - Tertullian"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though their bodies were still bleeding and tortured in the stocks, their spirits, under 'the expulsive power of a new affection,' rose above suffering, and made the prison wails resound with their song.",
+            "In these midnight hymns, by the imprisoned witnesses for Jesus Christ, the whole might of Roman injustice and violence against the Church is not only set at naught, but converted into a foil to set forth more completely the majesty and spiritual power of the Church.",
+            "And if the sufferings of these two witnesses of Christ are the beginning and the type of numberless martyrdoms which were to flow upon the Church from the same source, in like manner the unparalleled triumph of the Spirit over suffering was the beginning and the pledge of a spiritual power which we afterwards see shining forth so triumphantly and irresistibly in the many martyrs of Christ who were given up as a prey to the same imperial might of Rome."
+        ],
+        "Albert Barnes": [
+            "The Christian may find more true joy in a prison than the monarch on his throne.",
+            "The enemies of Christians cannot destroy their peace. They may incarcerate the body, but they cannot bind the spirit.",
+            "We see the value of a good conscience. Nothing else can give peace; and amidst the wakeful hours of the night, whether in a dungeon or on a bed of sickness, it is of more value than all the wealth of the world."
+        ],
+        "Marvin Vincent": [
+            "The praying and the praise are not described as distinct acts.",
+            "Their singing of hymns was their prayer.",
+            "Their singing of hymns was probably Psalms."
+        ],
+        "Philip Schaff": [
+            "Peter sleeps in prison between the two soldiers; Paul and Silas sing in the stocks: they cannot raise their hands or bend their knees in prayer, but they can lift up their heart and voice to heaven. Such is the power of joy in the Holy Ghost.",
+            "The limbs do not feel the stocks when the heart is in heaven.",
+            "The feet of those who publish peace are never more beautiful than when they are bound in fetters and in iron."
+        ],
+        "Archibald T. Robertson": [
+            "Praying they were singing (simultaneously, blending together petition and praise).\" ",
+            "Paul and Silas probably used portions of the Psalms... with occasional original outbursts of praise.",
+            "It was a new experience for the prisoners and wondrously attractive entertainment to them."
+        ],
+        "John Gill": [
+            "When others were asleep, and all things were still and quiet; and they prayed doubtless for themselves, for their deliverance in God's time and way, and for support under their present afflictions.",
+            "This showed not only that they were cheerful, notwithstanding the stripes that were laid upon them, and though their feet were made fast in the stocks, and they were in the innermost prison, in a most loathsome and uncomfortable condition; and though they might be in expectation of greater punishment, and of death itself; but also that they were thankful and glorified God, who had counted them worthy to suffer for his name's sake.",
+            "And from hence it appears, that their prayer was not merely mental; nor was their singing praises only a making melody in their hearts, but were both vocal; and it might be chiefly for the sake of the prisoners, that they both prayed and praised in this manner, that they might hear and be converted; or at least be convicted of the goodness of the cause, for which the apostles suffered."
+        ],
+        "John Wesley": [
+            "Paul and Silas sung a hymn to God \u2014 Notwithstanding weariness, hunger stripes, and blood.",
+            "And the prisoners heard \u2014 A song to which they were not accustomed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of their suffering, Paul and Silas found solace in their prayers and songs of praise, blending together petition and praise. Their spirits rose above their physical pain and their imprisonment became a platform to showcase the majesty and spiritual power of the Church. Their hymns, possibly from the Psalms, were not just acts of worship, but also a means to reach the hearts of the prisoners and potentially convert them. Their joy and faith were so evident that it attracted the attention of the other prisoners, who were moved by this wondrously attractive entertainment. The power of their joy in the Holy Ghost was palpable, with their spirits soaring while their bodies were bound in the stocks. Through their example, we are reminded of the value of a good conscience that surpasses all earthly riches and grants an unshakable peace even in the darkest times.",
+            "wordCount": 148,
+            "quoteTokenProportion": 34.74,
+            "qualityScore": 2.020721042039037,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                36.72,
+                28.33,
+                34.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of great suffering, Paul and Silas found solace by blending their prayers and songs of praise, offering vocal expressions of worship to God. Their hymns, possibly from the Psalms, not only served as acts of worship but also acted as a means to potentially convert the other prisoners. Their joy and faith were so evident that it attracted the attention of those around them, who were moved by their wondrously attractive entertainment. By demonstrating the power of a good conscience and unwavering faith, Paul and Silas showed that true peace surpasses all earthly wealth or circumstances.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.997009789495329,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+            "commentatorTierSimilarities": [
+                37.96,
+                23.17,
+                38.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul and Silas, despite their physical suffering and imprisonment, found comfort in their prayers and songs of praise. Their hymns, potentially from the Psalms, offered a unique blend of petition and adoration. Through their worship, they not only demonstrated the power of the Church over Roman persecution but also potentially converted those who heard their heartfelt expressions. Their joy and unwavering faith were so striking that even their fellow prisoners were captivated by their incredible display. Their example reminds us of the value of a clear conscience and the transcendent peace it brings, regardless of external circumstances.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.955371228241551,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                38.25,
+                24.39,
+                37.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the depths of their suffering, Paul and Silas found solace by blending their prayers and songs of praise. Their vocal expressions of worship, possibly from the Psalms, demonstrated the powerful spirit of the Church and served as a means to potentially convert their fellow prisoners. Their unwavering faith and joy were so palpable that it captivated those around them, offering a profound example of the value of a clear conscience and unwavering devotion, transcending the hardships they faced.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.042684937138582,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.26,
+            "commentatorTierSimilarities": [
+                38.16,
+                22.68,
+                39.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of their suffering, Paul and Silas found solace in their prayers and songs of praise, blending together petition and praise. Their spirits rose above their physical pain and their imprisonment became a platform to showcase the majesty and spiritual power of the Church. Their hymns, possibly from the Psalms, were not just acts of worship, but also a means to reach the hearts of the prisoners and potentially convert them. Their joy and faith were so evident that it attracted the attention of the other prisoners, who were moved by this wondrously attractive entertainment. The power of their joy in the Holy Ghost was palpable, with their spirits soaring while their bodies were bound in the stocks. Through their example, we are reminded of the value of a good conscience that surpasses all earthly riches and grants an unshakable peace even in the darkest times.",
+            "wordCount": 148,
+            "quoteTokenProportion": 34.74,
+            "qualityScore": 2.020721042039037,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                36.72,
+                28.33,
+                34.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

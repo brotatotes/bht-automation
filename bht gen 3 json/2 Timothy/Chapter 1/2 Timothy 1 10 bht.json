@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:29:56",
+    "verseRef": "2 Timothy 1:10",
+    "bestBHT": {
+        "bht": "By the appearing of our Savior, Jesus Christ, who abolished death, not only in its essence but in all its aspects and consequences, the gospel brings light to the mystery of life, revealing a true and immortal life. Through the Incarnation of our Lord, Christ has illuminated the higher life of man, nullifying the death of the body and bringing to light the resurrection of the body and the unchangeable life of immortality.",
+        "wordCount": 73,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.205124403571654,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+        "commentatorTierSimilarities": [
+            30.84,
+            29.05,
+            40.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The Greek article before 'death' implies that Christ abolished death, not only in some particular instance, but in its very essence, being, and idea, as well as in all its aspects and consequences.",
+            "The death of the body meanwhile is but temporary, and is made no account of by Christ and the apostles.",
+            "Before the Gospel revelation from God, man, by the light of nature, under the most favorable circumstances, had but a glimmering idea of the possibility of a future being of the soul, but not the faintest idea of the resurrection of the body."
+        ],
+        "Albert Barnes": [
+            "The purpose to save us was long concealed in the divine mind, but the Saviour came that he might make it known.",
+            "It is there that all ambiguity and doubt are removed, and that the evidence is so clearly stated as to leave no doubt on the subject.",
+            "The gospel thus has truths not found in any other system, and contains what man never would have discovered of himself."
+        ],
+        "Marvin Vincent": [
+            "There is an implication that the divine counsel was hidden until the fitting time.\" ",
+            "He made of none effect.\" ",
+            "Brought to light."
+        ],
+        "John Calvin": [
+            "The reason why Abel, Noah, Abraham, Moses, David, and all believers, obtained the same faith with us, was, that they placed their confidence in this 'appearance.'",
+            "Thus, when he says that 'grace hath been revealed to us by the appearing of Christ,' he does not exclude from communion with that grace the fathers who are made partakers with us of this appearing by the same faith.",
+            "It is a high and remarkable commendation of the gospel, that it 'bringeth life to light.' To life he adds immortality; as if he had said, 'a true and immortal life.'"
+        ],
+        "Philip Schaff": [
+            "Remarkable as the only passage in the New Testament in which the word \u03b5\u0313\u03c0\u03b9\u03c6\u03b1\u03bd\u03b5\u03b9\u0301\u03b1 (= manifestation) is applied to the Incarnation of our Lord.",
+            "He has illumined the true, higher life of man, which was previously clouded by the lower.",
+            "The Gospel of that death pours light upon the mystery of life."
+        ],
+        "Archibald T. Robertson": [
+            "By the appearing... Only here of the Incarnation (except the verb, Titus 2:11; Titus 3:4), but for the second coming see Titus 2:13.",
+            "Who abolished death... the very phrase in 1 Corinthians 15:26; Hebrews 2:14.",
+            "Life and incorruption... The opposite of \u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c2, 'life and immortality' (unchangeable life)."
+        ],
+        "John Gill": [
+            "The grace according to which the elect of God are saved and called... is now made manifest in the clearness, freeness, and abundance of it by the appearance of Christ, as a Saviour in human nature...\" ",
+            "he has abolished corporeal death with regard to his people, as a penal evil, he has took away its sting, and removed its curse, and made it a blessing to them; and he has utterly, with respect to them, abolished the second death, so as that it shall have no power over them...",
+            "Christ was the first that rose again from the dead to an immortal life; the path of life was first shown to him, and brought to light by him... and in which is so fully attested the resurrection of Christ, and of many of the saints with him, as well as the general resurrection at the last day..."
+        ],
+        "John Wesley": [
+            "By the appearing of our Saviour \u2014 This implies his whole abode upon earth.",
+            "Who hath abolished death \u2014 Taken away its sting, and turned it into a blessing.",
+            "And hath brought life and immortality to light \u2014 Hath clearly revealed by the gospel that immortal life which he hath purchased for us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By the appearing of our Savior, Jesus Christ, He has abolished death in its essence and all its aspects. This revelation of grace not only removes ambiguity and doubt, but it pours light upon the mystery of life, bringing to light a true and immortal life. This gospel revelation of life and incorruption was hidden until the fitting time, and through the Incarnation of our Lord, Christ has illumined the higher life of man. By His appearing, He has abolished death as a penal evil, taking away its sting and turning it into a blessing. Through the gospel, Christ has brought to light the resurrection of the body and the unchangeable life of immortality.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0258834259344054,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                28.15,
+                31.49,
+                40.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By the appearing of our Savior, Jesus Christ, He abolished death in its very essence and all its consequences. This gospel revelation brings light to the mystery of life, revealing a true and immortal life. Through the Incarnation of our Lord, Christ has illuminated the higher life of man, turning death into a blessing. Through the gospel, Christ has brought to light the resurrection of the body and the unchangeable life of immortality.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 2.0636016982831986,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                28.69,
+                31.46,
+                39.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By the appearing of our Savior, Jesus Christ, who abolished death, not only in its very essence, but also in all its aspects and consequences, the gospel brings light to the mystery of life, revealing a true and immortal life. Through the Incarnation of our Lord, Christ has illuminated the higher life of man, nullifying the death of the body and bringing to light the resurrection of the body and the unchangeable life of immortality.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.1924459153104845,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.24,
+            "commentatorTierSimilarities": [
+                30.95,
+                28.93,
+                40.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By the appearing of our Savior, Jesus Christ, He has abolished death, not only in its very essence but also in all aspects and consequences. This gospel revelation brings light to the mystery of life, revealing a true and immortal life. Through the Incarnation of our Lord, Christ has illuminated the higher life of man, turning death into a blessing. Through the gospel, Christ has brought to light the resurrection of the body and the unchangeable life of immortality.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0497457814449707,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                28.68,
+                31.92,
+                39.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By the appearing of our Savior, Jesus Christ, who abolished death, not only in its essence but in all its aspects and consequences, the gospel brings light to the mystery of life, revealing a true and immortal life. Through the Incarnation of our Lord, Christ has illuminated the higher life of man, nullifying the death of the body and bringing to light the resurrection of the body and the unchangeable life of immortality.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.205124403571654,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+            "commentatorTierSimilarities": [
+                30.84,
+                29.05,
+                40.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

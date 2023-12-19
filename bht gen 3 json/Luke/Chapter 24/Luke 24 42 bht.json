@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:24:11",
+    "verseRef": "Luke 24:42",
+    "bestBHT": {
+        "bht": "After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence, being given a piece of broiled fish, which was common fare for them as fishermen. While some manuscripts omit the words and of an honeycomb, they provide further details about the meal. This inclusion or omission does not affect the significance of the meal in which Jesus demonstrated his physical resurrection.",
+        "wordCount": 69,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 1.4032084005334466,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.0,
+        "commentatorTierSimilarities": [
+            21.47,
+            19.21,
+            59.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was done farther to convince them of his real corporeity.",
+            "The omission of the words and of an honeycomb in the best MSS. is remarkable: see var. readd.",
+            "The words could hardly have been an interpolation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "42. honeycomb\u2014common frugal",
+            "\tfare, anciently."
+        ],
+        "Marvin Vincent": [
+            "Broiled. Only here in New Testament. ",
+            "Of an honey - comb. The best texts omit."
+        ],
+        "Philip Schaff": [
+            "These words are omitted in many ancient authorities, and rejected by some modern editors.",
+            "We prefer to retain them, since there are a number of reasons to account for their being left out.",
+            "There are more reasons to account for their being put in by the copyists."
+        ],
+        "Archibald T. Robertson": [
+            "\u039f\u03c0\u03c4\u03bf\u03c2 is a verbal from \u03bf\u03c0\u03c4\u03b1\u03c9, to cook, to roast, to broil. Common word, but only here in the N.T.\" ",
+            "The best old documents omit 'and a honeycomb' (\u03ba\u03b1 \u03b1\u03c0\u03bf \u03bc\u03b5\u03bb\u03b9\u03c3\u03c3\u03b9\u03bf\u03c5 \u03ba\u03b7\u03c1\u03b9\u03bf\u03c5)."
+        ],
+        "John Gill": [
+            "And they gave him a piece of a broiled fish... which was left by them at supper, of which they had been eating; for being fishermen, most of them, this was agreeable food to them.",
+            "And of an honeycomb; not to eat with the fish, but after it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence. In this encounter, he was given a piece of broiled fish, a common and frugal fare, which was particularly appealing to the disciples who were fishermen. Although the words and of an honeycomb are omitted in the best manuscripts, they provide further details about the meal. The honeycomb was not meant to be eaten with the fish, but rather was served after it. Some argue for their inclusion based on various reasons, while others believe they were inserted by copyists. Ultimately, the presence or absence of these words does not change the significance of the meal in which Jesus demonstrated his physical resurrection.",
+            "wordCount": 121,
+            "quoteTokenProportion": 46.34,
+            "qualityScore": 1.395327815929722,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.74,
+            "commentatorTierSimilarities": [
+                18.83,
+                22.77,
+                58.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence, being given a piece of broiled fish, which was common fare for them as fishermen. While some manuscripts omit the words and of an honeycomb, they provide further details about the meal. This inclusion or omission does not affect the significance of the meal in which Jesus demonstrated his physical resurrection.",
+            "wordCount": 69,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.4032084005334466,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.0,
+            "commentatorTierSimilarities": [
+                21.47,
+                19.21,
+                59.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence. Being given a piece of broiled fish, which was common fare for them as fishermen, further emphasized this point. The significance of the words and of an honeycomb may be debated due to their omission in some manuscripts, but they provide additional details about the meal. Ultimately, whether included or not, the meal showcased Jesus' physical resurrection.",
+            "wordCount": 75,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.3952971345690015,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.74,
+            "commentatorTierSimilarities": [
+                20.66,
+                20.08,
+                59.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence. Being given a piece of broiled fish, which was common fare for them as fishermen, further emphasized this point. The words and of an honeycomb may be debated due to their omission in some manuscripts, but they provide additional details about the meal. Whether included or not, the meal showcased Jesus' physical resurrection and served as a powerful confirmation of his true bodily form.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.3898773793441483,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.56,
+            "commentatorTierSimilarities": [
+                20.95,
+                20.33,
+                58.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After his resurrection, Jesus appeared to his disciples and ate with them to prove his real corporeal presence. Given a piece of broiled fish, which was common fare for fishermen, highlighted this reality. The inclusion or exclusion of and of an honeycomb may spark debate, but it adds details to the meal. In the end, whether present or not, the meal unequivocally demonstrated Jesus' physical resurrection, confirming his genuine bodily form.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.205570134641967,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.43,
+            "commentatorTierSimilarities": [
+                19.95,
+                12.62,
+                67.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

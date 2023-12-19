@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:16:06",
+    "verseRef": "Luke 7:6",
+    "bestBHT": {
+        "bht": "As Jesus was on His way, the centurion sent messengers to meet Him, saying, Lord, my servant is lying at home paralyzed and in terrible agony. Though the centurion recognized that he himself was not worthy for Jesus to enter his house, he did not let this stop him from seeking help. He acknowledged his own unworthiness, believing it to be too great of an honor for Christ to come to his house. Yet, without hesitation, Jesus went with the messengers, not allowing the centurion's sense of unworthiness to hinder His compassion and desire to bring healing.",
+        "wordCount": 98,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 1.264707920353413,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.39,
+        "commentatorTierSimilarities": [
+            20.37,
+            39.77,
+            39.86
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The imperfect tense is explained by what follows. He was going, was on the way, when he was met by the second messenger from the centurion.",
+            "Trouble [\u03c3\u03ba\u03c5\u03bb\u03bb\u03bf\u03c5] . Lit., worry.",
+            "Worthy [\u03b9\u03ba\u03b1\u03bd\u03bf\u03c2] . Lit., sufficient."
+        ],
+        "Philip Schaff": [
+            "Went with them. There was no delay as in the case of the Syro-Phenician woman, because there was not the same necessity either for bringing out the faith of the person who asked the favor, or for thus giving a lesson to the disciples, to remove prejudice.",
+            "Friends. 'A very delicate and thoroughly natural touch - no intercessors, for these he needed no longer, but intimate friends of his family, who can in some measure take his place in greeting the highly honored Guest.'\" (Van Oosterzee.)",
+            "On the message itself, and the subsequent words of our Lord, see Matthew 8:8-13."
+        ],
+        "Archibald T. Robertson": [
+            "He started to go along with them.\" ",
+            "Trouble not thyself. (\u039c\u03b7 \u03c3\u03ba\u03c5\u03bb\u03bb\u03bf\u03c5). Present middle (direct use) imperative of \u03c3\u03ba\u03c5\u03bb\u03bb\u03c9, old verb originally meaning to skin, to mangle, and then in later Greek to vex, trouble, annoy.",
+            "For I am not worthy that (\u03bf\u03c5 \u03b3\u03b1\u03c1 \u03b9\u03ba\u03b1\u03bd\u03bf\u03c2 \u03b5\u03b9\u03bc \u03b9\u03bd\u03b1). The same word \u03b9\u03ba\u03b1\u03bd\u03bf\u03c2, not \u03b1\u03be\u03b9\u03bf\u03c2, as in Matthew 8:8, which see for discussion, from \u03b9\u03ba\u03c9, \u03b9\u03ba\u03b1\u03bd\u03c9, to fit, to reach, be adequate for."
+        ],
+        "John Gill": [
+            "and without any reluctancy, he at once complied, made no hesitation, or difficulty about it, but went with them very freely",
+            "stop, go no further; for I am not worthy that thou shouldst enter under my roof",
+            "he thought it too great a stoop for Christ to come into his house, and too high a favour for him to enjoy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus was on His way, the centurion sent messengers to meet Him, saying, Lord, my servant is lying at home paralyzed and in terrible agony. Though the centurion recognized that he himself was not worthy for Jesus to enter his house, he did not let this stop him from seeking help. He acknowledged his own unworthiness, believing it to be too great of an honor for Christ to come to his house. Yet, without hesitation, Jesus went with the messengers, not allowing the centurion's sense of unworthiness to hinder His compassion and desire to bring healing.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.264707920353413,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.39,
+            "commentatorTierSimilarities": [
+                20.37,
+                39.77,
+                39.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "While on His way, Jesus was met by messengers from a centurion. The centurion expressed his concern for his servant, who was suffering greatly. Despite the centurion's acknowledgement of his own unworthiness, he did not let it deter him from seeking help. Jesus, without any hesitation, complied and went along with the messengers. Although the centurion believed it would be too great of a privilege for Christ to enter his home, Jesus showed compassion and a willingness to heal.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.053968971229665,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.39,
+            "commentatorTierSimilarities": [
+                24.37,
+                38.77,
+                36.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus was on His way, the centurion's messengers met Him, troubled by the condition of the centurion's paralyzed servant. The centurion humbly recognized his own unworthiness for Jesus to enter his home, yet he did not let this hinder his plea for help. Promptly and without any reluctance, Jesus agreed to accompany the messengers. Despite the centurion's belief that it would be a great stoop for Christ to come into his house, Jesus displayed His compassion and readiness to bestow grace upon him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.1910923992509976,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.95,
+            "commentatorTierSimilarities": [
+                23.13,
+                41.44,
+                35.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Troubled by the condition of his paralyzed servant, the centurion's messengers met Jesus on His way, expressing their concern. Aware of his own unworthiness, the centurion did not hinder himself from seeking help from Jesus. Without hesitation, Jesus agreed to go with them. Although the centurion believed it would be a great stoop for Christ to enter his home, Jesus displayed His compassion and readiness to bestow His favor upon him.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.1528445533196197,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.68,
+            "commentatorTierSimilarities": [
+                24.48,
+                39.6,
+                35.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus was on His way, He was met by messengers from the centurion, troubled regarding the condition of his paralyzed servant. Though the centurion recognized his own unworthiness and expressed his hesitation for Jesus to enter his house, Jesus did not let this impede His compassion. Jesus promptly complied and went with the messengers, displaying His willingness to help and bestow grace upon the centurion and his servant.",
+            "wordCount": 69,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.1875476249901629,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.83,
+            "commentatorTierSimilarities": [
+                25.04,
+                45.81,
+                29.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

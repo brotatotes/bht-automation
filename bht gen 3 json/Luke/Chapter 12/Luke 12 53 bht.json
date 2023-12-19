@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:18:59",
+    "verseRef": "Luke 12:53",
+    "bestBHT": {
+        "bht": "According to the scripture, families will be divided, including fathers opposing sons and daughters-in-law estranging themselves from mothers-in-law. This division stems from the rejection of Christ and leads to conflict and alienation within households. The fulfillment of this prophecy serves as a reminder of the inherent discord between Christ and those who reject Him. The rejection of Christ results in an unwavering enmity towards those who embrace Him, illustrating the magnitude of the division it creates.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.1824138016956403,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.66,
+        "commentatorTierSimilarities": [
+            51.46,
+            0.0,
+            48.54
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The father shall be divided, etc. But the verb is in the plural. ",
+            "Rightly, as Rev., \"They shall be divided, the father against the son,\" etc. Daughter - in - law. See on Matthew 10:35."
+        ],
+        "John Gill": [
+            "The father shall be divided against the.... Shall oppose him, differ with him, and be alienated from him, and so the other relations as follow; :-,",
+            " :-."
+        ],
+        "John Wesley": [
+            "For those who reject me will be implacable toward their very nearest relations who receive me.",
+            "At this day also is this scripture fulfilled.",
+            "Now likewise there is no concord between Christ and Belial."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of division within families, where even father and son, mother and daughter, and mother-in-law and daughter-in-law will be divided. This division represents the rejection of Christ, causing deep opposition and alienation within families. This fulfillment of scripture signifies the lack of harmony between Christ and those who oppose Him. The intense and unyielding enmity towards those who receive Christ is a stark reminder of the divide that rejecting Him creates.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.2225648633433475,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.99,
+            "commentatorTierSimilarities": [
+                53.31,
+                0.0,
+                46.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Families will be divided, with even fathers opposing their sons and daughters-in-law alienating themselves from mothers-in-law, as stated in the scripture. This division arises from the rejection of Christ, resulting in conflict and estrangement within households. The fulfillment of this prophecy highlights the fundamental discord between Christ and those who refuse Him. The rejection of Christ breeds an unyielding hostility towards those who accept Him, emphasizing the significant division it brings.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.131474578196418,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.97,
+            "commentatorTierSimilarities": [
+                51.06,
+                0.0,
+                48.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "According to the scripture, families will be divided, including fathers opposing sons and daughters-in-law estranging themselves from mothers-in-law. This division stems from the rejection of Christ and leads to conflict and alienation within households. The fulfillment of this prophecy serves as a reminder of the inherent discord between Christ and those who reject Him. The rejection of Christ results in an unwavering enmity towards those who embrace Him, illustrating the magnitude of the division it creates.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.1824138016956403,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.66,
+            "commentatorTierSimilarities": [
+                51.46,
+                0.0,
+                48.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the scripture reveals, families will experience division, with fathers opposing sons and daughters-in-law becoming estranged from mothers-in-law. Such division arises from the rejection of Christ and leads to conflict and alienation within family units. This prophecy's realization emphasizes the inherent discord between Christ and those who deny Him. The rejection of Christ gives rise to an enduring hostility towards those who embrace Him, underscoring the significant divisions that rejection breeds.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.0304681888142413,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.61,
+            "commentatorTierSimilarities": [
+                47.99,
+                0.0,
+                52.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Family divisions will arise, with fathers and sons facing opposition and daughters-in-law becoming estranged from mothers-in-law, as stated in the scripture. These divisions stem from the rejection of Christ, leading to conflict and alienation within families. The fulfillment of this scriptural prophecy highlights the inherent discord between Christ and those who refuse Him. The rejection of Christ results in an unyielding enmity towards those who receive Him, emphasizing the deep divisions that rejection brings.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.1196075339048415,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.57,
+            "commentatorTierSimilarities": [
+                50.11,
+                0.0,
+                49.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

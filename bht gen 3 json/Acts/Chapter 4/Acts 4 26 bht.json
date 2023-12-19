@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:26:34",
+    "verseRef": "Acts 4:26",
+    "bestBHT": {
+        "bht": "In Acts, there is a conflict between those who stand with the Messiah and those who oppose him. The opposition to the Messiah is opposition to God himself. To despise and oppose the Messiah is to despise and oppose the one who appointed him. This conflict is not just temporal but holds greater significance. The true king, the Lord's Anointed, has replaced earthly rulers. Those who resist the gospel and set themselves against Christ are waging war against God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 44.9,
+        "qualityScore": 1.5319737477340383,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.28,
+        "commentatorTierSimilarities": [
+            19.1,
+            40.65,
+            40.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "23-30. being let go, they went to",
+            "\ttheir own company\u2014Observe the two opposite classes,",
+            "\trepresenting the two interests which were about to come into deadly",
+            "\tconflict."
+        ],
+        "Albert Barnes": [
+            "Opposition to the Messiah is opposition to Yahweh... He that despises him despises God.",
+            "To despise him, or to oppose him, is to despise and oppose him who appointed him to this work, to contemn his counsels, and to set him at naught.",
+            "No man is safe who opposes God; and no man can have evidence that God will approve him who does not embrace the Messiah, whom He has appointed to redeem the world."
+        ],
+        "John Calvin": [
+            "The Spirit teacheth by this word, that all those do make war against God which refuse to submit themselves to Christ.",
+            "We refuse to obey him so often as we rebel against Christ, as the Lord himself saith in John, 'He which honoreth not the Son, honoreth not the Father.'",
+            "The use of this doctrine is double, for it armeth us against all the terrors of the flesh, because we must not fear, lest they get the victory of God which withstand the gospel. Again, we must beware, lest, through the contempt of godly doctrine, we advance ourselves against God to our own destruction."
+        ],
+        "Philip Schaff": [
+            "The picture is half ideal, half actual; it concerns itself with the present, but with that only so far as it is typical of greater things to come.",
+            "The true king, who to the prophet\u2019s mind is to fulfil all his largest hopes, has taken the place of the visible and earthly king.",
+            "The Lord in the Psalm corresponds to the Maker of heaven and earth, to whom the prayer is addressed; and the Lord\u2019s Anointed, to \u2018Thy holy child Jesus.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Set themselves in array (\u03c0\u03b1\u03c1\u03b5\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd). Literally, stood by.",
+            "Against his Anointed (\u03ba\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5 \u03b1\u03c5\u03c4\u03bf\u03c5). Against his Messiah, his Christ. "
+        ],
+        "John Gill": [
+            "These stood, or rose up in an hostile manner, and set themselves against, and opposed themselves to the Messiah, Jesus of Nazareth.",
+            "And this opposition, and these conspiracies and consultations, were against the Lord: Jehovah, the Father of Christ, who sent him, and anointed him; so that what was done against Christ, was done against the Lord, their views and designs, their interest and glory, being the same.",
+            "Against his Christ; or anointed one, who was anointed by him, with the Holy Ghost, from his birth, and at his baptism, to be prophet, priest, and King."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the book of Acts, we see two opposing forces coming into conflict: those who stand with the Messiah and those who oppose him. The opposition to the Messiah is no ordinary opposition; it is opposition to God himself. To despise and oppose the Messiah is to despise and oppose the one who appointed him and to reject the redemption offered through him. This conflict is not just a temporal one, but it signifies something greater to come. The true king, the Lord's Anointed, has taken the place of earthly rulers. Those who resist the gospel and set themselves against Christ are waging war against God. It is important for us to submit to Christ and embrace him, for no one is safe who opposes God.",
+            "wordCount": 127,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.5507343864701273,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.9,
+            "commentatorTierSimilarities": [
+                15.96,
+                41.05,
+                42.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the book of Acts, we see two opposing forces coming into conflict: those who stand with the Messiah and those who oppose him. The opposition to the Messiah is no ordinary opposition; it is opposition to God himself. To despise and oppose the Messiah is to despise and oppose the one who appointed him and reject the redemption offered through him. This conflict signifies something greater to come. The Lord's Anointed has taken the place of earthly rulers. Those who resist the gospel and set themselves against Christ are waging war against God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.5225662856282003,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.97,
+            "commentatorTierSimilarities": [
+                17.93,
+                39.74,
+                42.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts, there is a conflict between those who stand with the Messiah and those who oppose him. The opposition to the Messiah is opposition to God himself. To despise and oppose the Messiah is to despise and oppose the one who appointed him. This conflict is not just temporal but holds greater significance. The true king, the Lord's Anointed, has replaced earthly rulers. Those who resist the gospel and set themselves against Christ are waging war against God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.5319737477340383,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.28,
+            "commentatorTierSimilarities": [
+                19.1,
+                40.65,
+                40.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts, we see a clash between two forces - those who align with the Messiah and those who oppose him. The opposition to the Messiah goes beyond ordinary opposition; it encompasses opposition to God Himself. Rejection of the Messiah means rejecting the one who appointed him and refusing the redemption he brings. This conflict carries deeper symbolism and points to a greater purpose. The true king, the Lord's Anointed, supersedes earthly rulers. Those who resist the gospel and stand against Christ are essentially waging war against God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.4581569701584929,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.83,
+            "commentatorTierSimilarities": [
+                16.26,
+                40.83,
+                42.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts, a conflict arises between those who stand with the Messiah and those who oppose him. But this opposition is not just to the Messiah, it is opposition to God Himself. To despise and oppose the Messiah is to despise and oppose the one who appointed him, rejecting the redemption he offers. This conflict holds greater significance and represents a larger truth. The Lord's Anointed has taken the place of earthly rulers, and those who resist the gospel and oppose Christ are in direct conflict with God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.5139954090700924,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                14.91,
+                42.91,
+                42.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:40:00",
+    "verseRef": "1 Peter 4:16",
+    "bestBHT": {
+        "bht": "If a believer suffers contemptuously as a Christian, let them not be ashamed but instead glorify God in this name. The term Christian arose as a new epoch in the Church's life, marking its missions to the Gentiles. This name was initially used as a term of reproach but was adopted and gloried in by believers. To suffer for the name of Christ is not a shame but an honor, as it signifies being counted worthy. Therefore, let the believer magnify God for this privilege of suffering for Christ. (79 words, 65.8% from quotes)",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.0967188457926964,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.06,
+        "commentatorTierSimilarities": [
+            33.71,
+            31.98,
+            34.31
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But if (he suffer) as (being) a Christian (the word appears here, as in Acts xxvi. 28, to be used as carrying contempt, from the mouth of an adversary), let him not be ashamed.\" ",
+            "let him glorify God in this name (viz. that of Christian: at, or in, the fact that he is counted worthy to suffer by such a name.",
+            "This seems better than to take name as meaning 'behalf,' A.V., regard, matter, as most Commentators)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "At first believers had no distinctive name, but were called among themselves 'brethren,' 'disciples,' 'those of the way,' 'saints,' by the Jews in contempt, 'Nazarenes.'\" (Commentary)",
+            "The rise of the new name marked a new epoch in the Church's life, a new stage of its development, namely, its missions to the Gentiles.\" (Commentary)",
+            "To suffer for one's own faults is no honor\u2014for Christ, is no shame.\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "He is to regard his religion as every way honorable, and all that fairly results from it in time and eternity as in every respect desirable.",
+            "A man should be ashamed only of that which is wrong. He should glory in that which is right, whatever may be the consequences to himself.",
+            "We are never to be ashamed of our religion, whatever results may follow from our attachment to it."
+        ],
+        "Marvin Vincent": [
+            "A Christian. Only three times in the New Testament...as a nickname or a term of reproach.",
+            "Hence Peter's idea is, if any man suffer from the contumely...",
+            "...of those who contemptuously style him Christian."
+        ],
+        "John Calvin": [
+            "And truly it is no common kindness from God, that he calls us, freed and exempted from the common punishment of our sins, to so honorable a warfare as to undergo for the testimony of his Gospel either exiles, or prisons, or reproaches, or even death itself.",
+            "But when he says, as a Christian, he regards not so much the name as the cause.",
+            "For how much soever the saints may acknowledge their own faults, yet as in persecutions they regard a different end, such as the Lord sets before them, they feel that their guilt is blotted out and abolished before God. On this behalf, then, they have reason to glorify God."
+        ],
+        "Philip Schaff": [
+            "But if (any man suffers) as a Christian; that is, in the character of a Christian, or on account of his being a Christian.\" ",
+            "The name which was thus made for the Church by those outside it, was soon adopted by Christians themselves, and gloried in as their most proper title, while it as soon became a term of obloquy with others.\" ",
+            "Those who were called to suffer for being Christians were to regard that not as a shameful thing, but as an honourable, and they were to suffer not in the spirit which took honour to themselves, but in that which gave all the glory to the God who counted them worthy of such a vocation."
+        ],
+        "Archibald T. Robertson": [
+            "It is word of Latin formation coined to distinguish followers of Christ from Jews and Gentiles.",
+            "By A.D. 64 the name Christian was in common use in Rome.",
+            "Peter is not ashamed now. In this name (\u03b5\u03bd \u03c4\u03c9 \u03bf\u03bd\u03bf\u03bc\u03b1\u03c4 \u03c4\u03bf\u03c5\u03c4\u03c9). Of Christian as in Mark 9:41, 'because ye are Christ's.'"
+        ],
+        "John Gill": [
+            "Because he is one, and professes himself to be one.",
+            "but let him, as his Lord and master did, endure the cross, and despise the shame.",
+            "but let him glorify God on this behalf: that he bestows this gift upon him to suffer for Christ."
+        ],
+        "John Wesley": [
+            "Let him glorify God \u2014 Who giveth him the honour so to suffer, and so great a reward for suffering."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If a believer suffers contemptuously as a Christian, he should not be ashamed, but rather take pride in glorifying God through this name. The term Christian emerged as a distinguishing marker for followers of Christ, representing a new era in the Church's development, particularly its missions to the Gentiles. This name, initially used as a reproach, eventually became a title embraced by believers. To suffer for this name is not a disgrace, but an honor, for it denotes bearing witness to Christ. Therefore, let the believer magnify God for granting them the privilege to suffer for the sake of Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.232754372434722,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                33.13,
+                33.2,
+                33.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a believer suffers contemptuously as a Christian, he should not be ashamed, but rather take pride in glorifying God through this name. The term Christian emerged as a distinguishing marker for followers of Christ, representing a new era in the Church's development. This name, initially used as a reproach, eventually became a title embraced by believers. To suffer for this name is not a disgrace, but an honor, for it denotes bearing witness to Christ. Therefore, let the believer magnify God for granting them the privilege to suffer for Christ's sake. (80 words, 52% from quotes)",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.0502868463391053,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.51,
+            "commentatorTierSimilarities": [
+                33.4,
+                33.09,
+                33.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If a believer suffers contemptuously as a Christian, he should not be ashamed, but rather take pride in glorifying God through this name. This term emerged as a distinguishing marker, signifying a new stage of the Church's development and its missions to the Gentiles. The name Christian, originally used as a term of reproach, soon became a title embraced by believers. Suffering for this name carries honor, as it represents bearing witness to Christ. Thus, it is fitting for the believer to magnify God for granting them the privilege of suffering for Christ. (78 words, 52.5% from quotes)",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.0118990305698468,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
+            "commentatorTierSimilarities": [
+                32.85,
+                32.19,
+                34.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If a believer suffers contemptuously as a Christian, let them not be ashamed but instead glorify God in this name. The term Christian arose as a new epoch in the Church's life, marking its missions to the Gentiles. This name was initially used as a term of reproach but was adopted and gloried in by believers. To suffer for the name of Christ is not a shame but an honor, as it signifies being counted worthy. Therefore, let the believer magnify God for this privilege of suffering for Christ. (79 words, 65.8% from quotes)",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.0967188457926964,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.06,
+            "commentatorTierSimilarities": [
+                33.71,
+                31.98,
+                34.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If a believer suffers contemptuously as a Christian, let them not be ashamed but rather take pride in glorifying God through this name. The term Christian emerged as a distinguishing marker for followers of Christ, symbolizing a new era in the Church's development and its missions to the Gentiles. Initially used as a reproach, this name was eventually embraced by believers. Suffering for this name is not a disgrace, but an honor, for it signifies bearing witness to Christ. Thus, believers should magnify God for granting them the privilege to suffer for Christ's sake. (98 words, 61.2% from quotes)",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.0351994193032574,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.01,
+            "commentatorTierSimilarities": [
+                33.47,
+                33.18,
+                33.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

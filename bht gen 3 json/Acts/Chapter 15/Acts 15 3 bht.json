@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:31:29",
+    "verseRef": "Acts 15:3",
+    "bestBHT": {
+        "bht": "The apostles, brought on their way by the church, caused great joy among the brethren as they declared the conversion of Gentiles. This joyful response from the believers signifies their support for the broader teaching of Paul and Barnabas, opposing the Jewish interpretation of the law. The traveling apostles spread the good news of turning people from darkness to light, leading to a bold rejoicing among the godly who subscribed to their doctrine and the calling of the Gentiles. Such rejoicing is fitting, as even angels celebrate the conversion of sinners.",
+        "wordCount": 91,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 2.218503442884537,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.11,
+        "commentatorTierSimilarities": [
+            26.06,
+            42.15,
+            31.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Being brought on their way by the church... causing great joy to them.\" ",
+            "It shows that the mind of the church was with them, not with the Judaizers.\" ",
+            "This was also the case in Ph\u0153nicia and Samaria, as is shown by 'all the brethren'."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "being brought on their way by the church\u2014a kind of official escort.\" ",
+            "they passed through Phenice and Samaria, declaring the conversion of the Gentiles.",
+            "they caused great joy to the brethren."
+        ],
+        "Albert Barnes": [
+            "It was customary for the Christians to attend the apostles in their travels.",
+            "These remarkable events they would naturally communicate with joy to the Christians with whom they would have contact in their journey.",
+            "Where Christians are themselves awake, and engaged in the service of Christ, they rejoice at the news of the conversion of sinners."
+        ],
+        "Marvin Vincent": [
+            "Being brought on their way [\u03c0\u03c1\u03bf\u03c0\u03c1\u03bc\u03c6\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2] . Lit., having been sent forth; under escort as a mark of honor.",
+            "Declaring. See on ch. Acts 13:41.",
+            "In the various towns along their route."
+        ],
+        "John Calvin": [
+            "They come not to plead their cause before their judges; but that they may, with common consent and judgment, on both sides, approve that which was commanded by God touching the abolishing of ceremonies.",
+            "Thence cometh the boldness of rejoicing; to this end tendeth the joy of the godly, whereby they subscribe both to the doctrine of Paul and also the calling of the Gentiles.",
+            "\u2018Reos,\u2019 as men accused, defenders."
+        ],
+        "Philip Schaff": [
+            "This notice was inserted, no doubt, to show that the majority, at least, of the Christians in Antioch were opposed to the Jewish interpretation of the law, and held with the broader teaching of such men as Barnabas and Paul.",
+            "The mention of the great joy caused to the brethren of Phenice and Samaria by the recital of the Gentile conversions is also inserted by the writer of the \u2018Acts,\u2019 to show that the general sympathy was on the side of those who urged Gentile freedom."
+        ],
+        "Archibald T. Robertson": [
+            "Being brought on their way by the church... They were given a grand send-off by the church in Antioch.",
+            "The conversion... The turning.",
+            "They caused great joy... They were raising a constant paean of praise as they proceeded toward Jerusalem."
+        ],
+        "John Gill": [
+            "declaring the conversion of the Gentiles; in the several places where they had been, as in Syria, Pisidia, Pamphylia, and Lycaonia, how by their ministry they were turned from darkness to light, from Satan unto God, from their superstition and idolatry to the worship of the true God, and to faith in Christ Jesus.",
+            "if angels rejoice, much more should saints rejoice at the conversion of sinners, let them be who or where they will; and where there is true grace, there will be joy when this is the case.",
+            "and though Phoenicia was seized upon, and wasted by the Arabians and Persians, in the seventh century; yet we read, in the eighth century, of Adeodatus, a bishop of Berytus, who baptized many converted Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostles were sent forth by the church, causing great joy among the brethren they encountered on their journey. This demonstrates that the church supported their mission and sided with those who advocated for Gentile freedom. As they traveled through various towns, they declared the conversion of the Gentiles, spreading the good news and turning people from darkness to light. Their message brought about a bold rejoicing among the godly, who subscribed to the doctrine of Paul and the calling of the Gentiles. It is fitting that saints rejoice at the conversion of sinners, for if even angels rejoice, how much more should they?",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.1516648204134046,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                27.16,
+                40.05,
+                32.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostles, brought on their way by the church, caused great joy among the brethren as they declared the conversion of Gentiles. This joyful response from the believers signifies their support for the broader teaching of Paul and Barnabas, opposing the Jewish interpretation of the law. The traveling apostles spread the good news of turning people from darkness to light, leading to a bold rejoicing among the godly who subscribed to their doctrine and the calling of the Gentiles. Such rejoicing is fitting, as even angels celebrate the conversion of sinners.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 2.218503442884537,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.11,
+            "commentatorTierSimilarities": [
+                26.06,
+                42.15,
+                31.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles, under the church's official escort, caused great joy as they declared the conversion of the Gentiles. This highlights the church's support for them and their opposition to the Judaizers. Along their journey, they spread the good news and turned people from darkness to light. The godly rejoiced boldly, subscribing to Paul's doctrine and the calling of the Gentiles. Even angels rejoice, and wherever there is true grace, there will be joy at the conversion of sinners.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0145535187302466,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.33,
+            "commentatorTierSimilarities": [
+                28.91,
+                36.65,
+                34.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostles, being brought on their way by the church, caused great joy among the brethren as they journeyed and declared the conversion of the Gentiles. This grand send-off by the church in Antioch displayed their support and marked them as a unified front against the Judaizers. Throughout their travels, they shared the good news, turning people from darkness to light. The godly rejoiced with boldness as they embraced Paul's doctrine and the inclusion of the Gentiles. The conversion of sinners brings immense joy to both angels and saints alike.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.064972486495871,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.0,
+            "commentatorTierSimilarities": [
+                28.77,
+                39.12,
+                32.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostles, brought on their way by the church and under an official escort, caused great joy among the brethren as they journeyed through various towns and declared the conversion of the Gentiles. This demonstrates the church's support for their mission and opposition to the Judaizers. The godly rejoiced boldly, embracing Paul's doctrine and the calling of the Gentiles. The conversion of sinners brings joy not only to angels but also to saints, reflecting the true grace at work in their lives.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.0933847924550335,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                27.41,
+                39.23,
+                33.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

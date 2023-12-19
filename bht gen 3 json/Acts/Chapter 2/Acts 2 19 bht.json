@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:25:19",
+    "verseRef": "Acts 2:19",
+    "bestBHT": {
+        "bht": "The wonders and signs mentioned are prodigies and portents, not bloodshed and devastation. These calamities, like the burning of towns and rising pillars of smoke, serve as a warning before the destruction of Jerusalem. Despite the impending destruction, there is hope for those who call upon the name of the Lord. In the midst of miseries, we must learn humility and rely on God's grace.",
+        "wordCount": 66,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.7202129896574456,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.54,
+        "commentatorTierSimilarities": [
+            26.04,
+            35.87,
+            38.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not, \u2018bloodshed and wasting by fire,\u2019 as commonly interpreted.",
+            "Not devastations, but prodigies, are foretold.",
+            "Bloody and fiery appear:\u2014pillars of smoke, as in the Hebrew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. I will show wonders,",
+            "\t&amp;c.\u2014referring to the signs which were to precede the",
+            "\tdestruction of Jerusalem (see on :-)."
+        ],
+        "Albert Barnes": [
+            "The word in the Hebrew, \u05de\u05d5\u05e4\u05ea\u05d9\u05dd mowpatiym, means properly 'prodigies; wonderful occurrences; miracles performed by God or his messengers,' Exodus 4:21; Exodus 7:3, Exodus 7:9; Exodus 11:9; Deuteronomy 4:34, etc.",
+            "The day of the Lord is the day when God will manifest himself in a special manner; a day when he will so strikingly be seen in his wonders and his judgments that it may be called his day.",
+            "The calamities denoted here are those represented by scenes of war, such as the burning of towns and the rising of pillars of smoke."
+        ],
+        "Marvin Vincent": [
+            "I will shew [\u03b4\u03c9\u03c3\u03c9] . Lit., I will give. ",
+            "Wonders [\u03c4\u03b5\u03c1\u03b1\u03c4\u03b1] . Or portents. See on Matthew 11:20. ",
+            "Signs. See on Matthew 11:20."
+        ],
+        "John Calvin": [
+            "For as the sun and moon are unto us witnesses of God\u2019s fatherly favor towards us, whilst that by course they give light to the earth; so, on the other side, the prophet saith, that they shall be messengers to foreshow God\u2019s wrath and displeasure.\" ",
+            "But this serveth greatly to the setting forth of grace, that whereas all things do threaten destruction, yet whosoever doth call upon the name of the Lord is sure to be saved.",
+            "We must first be tamed by many miseries, that we may learn humility. For through great prosperity men do set up the horns of pride."
+        ],
+        "Archibald T. Robertson": [
+            "Wonders (\u03c4\u03b5\u03c1\u03b1\u03c4\u03b1). Apparently akin to the verb \u03c4\u03b7\u03c1\u03b5\u03c9, to watch like a wonder in the sky, miracle (\u03bc\u03b9\u03c1\u03b1\u03c7\u03c5\u03bb\u03c5\u03bc), marvel, portent.",
+            "In the New Testament the word occurs only in the plural and only in connection with \u03c3\u03b7\u03bc\u03b5\u03b9\u03b1 (signs) as here and in verse Acts 2:43.",
+            "A chiasm as these words illustrate bloodshed and destruction by fire as signs here on earth."
+        ],
+        "John Gill": [
+            "This may refer either to the appearance of angels, and of an extraordinary star at the birth of Christ; or rather to comets and blazing stars, and particularly to that comet which, in the form of a flaming sword, hung over Jerusalem, and the forms of armies in the heavens engaged together, which were seen before, and portended the destruction of that city.",
+            "by blood is meant not the blood of Christ, either his bloody sweat in the garden, or what he shed on the cross, but the blood of the Jews, shed in war, and in internal seditions and murders.",
+            "And by 'vapours of smoke' or, as in the Hebrew text, 'pillars of smoke', ascending in upright columns, like palm trees, are intended literally, the vast quantities of smoke that would arise from such burnings; so that the very heavens would be clouded and darkened with them, and sun and moon appear in the following form."
+        ],
+        "John Wesley": [
+            "Great revelations of grace are usually attended with great judgments on those who reject it.",
+            "Terrible indeed were those prodigies in particular which preceded the destruction of Jerusalem.",
+            "Blood \u2014 War and slaughter. Fire \u2014 Burnings of houses and towns, involving all in clouds of smoke."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of wonders and signs, not of bloodshed and devastation. These wonders are prodigies and portents that are meant to foreshow God's wrath and displeasure. They may manifest as pillars of smoke and scenes of war, such as the burning of towns. These calamities were particularly terrible and served as a warning before the destruction of Jerusalem. However, amidst all the impending destruction, there is hope. Those who call upon the name of the Lord will be saved, despite the threatening signs of destruction. This verse reminds us that even in the midst of miseries, we must learn humility and rely on God's grace.",
+            "wordCount": 108,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.7087823918859364,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.16,
+            "commentatorTierSimilarities": [
+                25.08,
+                37.23,
+                37.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The wonders and signs in this passage are prodigies and portents, not bloodshed and devastation. They are meant to foreshow God's wrath and displeasure. These calamities, such as the burning of towns and rising pillars of smoke, serve as a warning before the destruction of Jerusalem. Despite the impending destruction, there is hope for those who call upon the name of the Lord. In the face of miseries, we are reminded to learn humility and rely on God's grace.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7291417482988702,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.84,
+            "commentatorTierSimilarities": [
+                24.5,
+                37.29,
+                38.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wonders and signs mentioned are prodigies and portents, not bloodshed and devastation. These calamities, like the burning of towns and rising pillars of smoke, serve as a warning before the destruction of Jerusalem. Despite the impending destruction, there is hope for those who call upon the name of the Lord. In the midst of miseries, we must learn humility and rely on God's grace.",
+            "wordCount": 66,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7202129896574456,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.54,
+            "commentatorTierSimilarities": [
+                26.04,
+                35.87,
+                38.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wonders and signs, not bloodshed and devastation, are prodigies and portents that foreshow God's wrath and displeasure. These calamities, like the burning of towns and rising pillars of smoke, serve as a warning before the destruction of Jerusalem. Despite the impending destruction, those who call upon the name of the Lord will be saved. In the midst of miseries, we must learn humility. Through great revelations of grace, there are often great judgments on those who reject it. However, amidst all the impending destruction, there is hope.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.599392173442126,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.52,
+            "commentatorTierSimilarities": [
+                25.0,
+                33.07,
+                41.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The wonders and signs mentioned in the verse are prodigies and portents that serve as a warning before the destruction of Jerusalem. These calamities, like burning towns and rising pillars of smoke, foreshow God's wrath and displeasure. However, amidst the impending destruction, there is hope for those who call upon the name of the Lord. In the face of miseries, we are reminded to learn humility and rely on God's grace. Great revelations of grace are often accompanied by judgments on those who reject it.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.7296189561579367,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                23.41,
+                36.58,
+                40.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

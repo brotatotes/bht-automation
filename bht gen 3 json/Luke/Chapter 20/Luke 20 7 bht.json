@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:22:02",
+    "verseRef": "Luke 20:7",
+    "bestBHT": {
+        "bht": "Jesus, in the presence of crooked and cringing hypocrites, responds with a powerful silence. He refuses to answer their question, instead turning it back upon themselves and revealing their ignorance. Despite their attempts to deceive, Jesus maintains his composure and dignity. These individuals, driven by self-interest, opt for feigned ignorance rather than acknowledging the truth, fearing the potential consequences. This encounter serves as a reminder to examine our own hearts and intentions, emphasizing the importance of integrity and sincerity in our interactions.",
+        "wordCount": 83,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.4977078868394438,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.14,
+        "commentatorTierSimilarities": [
+            55.21,
+            0.0,
+            44.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Crooked, cringing hypocrites! No wonder Jesus gave you no answer.\" ",
+            "But what dignity and composure does our Lord display as He turns their question upon themselves!"
+        ],
+        "Archibald T. Robertson": [
+            "That they knew not (\u03bc\u03b7 \u03b5\u03b9\u03b4\u03b5\u03bd\u03b1). Accusative and infinitive in indirect assertion again with the negative \u03bc\u03b7 rather than \u03bf\u03c5. "
+        ],
+        "John Gill": [
+            "They chose rather to sacrifice their consciences than their interest.",
+            "Pretend ignorance rather than profess the truth.",
+            "When they saw they should be put to confusion, or be exposed to the resentments of the people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What a powerful and confrontational response Jesus gives to these crooked and hypocritical individuals! Instead of answering their question, He turns it back on them, exposing their lack of understanding. He maintains His dignity and composure throughout this encounter. The commentators highlight the deliberate ignorance of these individuals, showing that they would rather sacrifice their own consciences than admit the truth. The knowledge that they would be exposed or face the people's anger pushed them to pretend ignorance rather than speak the truth. Jesus' response serves as a reminder that our own hearts and intentions should always be examined before we question others.",
+            "wordCount": 104,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.3967014364519286,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.78,
+            "commentatorTierSimilarities": [
+                46.1,
+                0.0,
+                53.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in the face of the crooked and hypocritical, responds with an empowering silence, refusing to give them an answer and instead turning the question back on them. His composed demeanor exposes their lack of understanding, choosing ignorance over truth to protect themselves from being exposed or facing the people's resentment. This encounter challenges us to examine our own hearts before we question others, reminding us of the importance of integrity and sincerity in our actions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.431124132236779,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.93,
+            "commentatorTierSimilarities": [
+                49.68,
+                0.0,
+                50.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the presence of these crooked and cringing hypocrites, Jesus confronts them by abstaining from giving an answer and instead turning the question against themselves. His composed and dignified response reveals their ignorance and lack of understanding. These individuals, driven by self-interest, choose to feign ignorance rather than acknowledge the truth, fearing the consequences of being exposed or facing the people's anger. This powerful encounter urges us to reflect on our own hearts and motives, emphasizing the significance of sincerity and integrity in our words and actions.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4601202139145413,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.89,
+            "commentatorTierSimilarities": [
+                54.02,
+                0.0,
+                45.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the presence of these crooked and cringing hypocrites, Jesus responds with a powerful silence, refusing to provide them with an answer. Instead, he turns their question back upon themselves, exposing their ignorance and lack of understanding. This dignified and composed reaction challenges us to examine our own hearts, reminding us of the importance of integrity and sincerity in our words and actions. These individuals, driven by self-interest, choose to hide behind ignorance rather than confront the truth, fearing the potential consequences of their deceit.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.4894516607777037,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+            "commentatorTierSimilarities": [
+                50.63,
+                0.0,
+                49.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in the presence of crooked and cringing hypocrites, responds with a powerful silence. He refuses to answer their question, instead turning it back upon themselves and revealing their ignorance. Despite their attempts to deceive, Jesus maintains his composure and dignity. These individuals, driven by self-interest, opt for feigned ignorance rather than acknowledging the truth, fearing the potential consequences. This encounter serves as a reminder to examine our own hearts and intentions, emphasizing the importance of integrity and sincerity in our interactions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.4977078868394438,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.14,
+            "commentatorTierSimilarities": [
+                55.21,
+                0.0,
+                44.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

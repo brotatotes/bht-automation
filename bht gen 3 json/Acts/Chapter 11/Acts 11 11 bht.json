@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:29:29",
+    "verseRef": "Acts 11:11",
+    "bestBHT": {
+        "bht": "Behold the remarkable coincidence as three men arrive at the house where the speaker is, immediately after his visionary experience. The visible presence of God's hand in this arrival cannot be ignored, as it carries an overpowering force that even the apostles and elders could not easily resist. The speaker emphasizes the significance of this arrival and highlights that he had received an express order from the Spirit to go with these men to Cornelius's house. Truly, this divine encounter was orchestrated by God's hand.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 1.157192448296141,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.82,
+        "commentatorTierSimilarities": [
+            0.0,
+            58.11,
+            41.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "He notes, and calls his hearers to note, the startling coincidence of this arrival. The exclamation \u2018Behold!\u2019 has its significance.",
+            "But that which it is essential for the \u2018apostles and elders\u2019 to mark is the visible presence of God\u2019s hand in the transaction. This was an argument, the overpowering force of which they could not easily resist.",
+            "The words \u2018unto me\u2019 are emphatic."
+        ],
+        "John Gill": [
+            "And behold, immediately,.... The moment the vision was over...",
+            "...there were three men already come unto the house where I was...",
+            "...he had also the express order of the Spirit, for his going with them to Cornelius's house..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold the remarkable coincidence of God's hand in the arrival of three men to the house where the speaker of this verse was. The significance of this arrival cannot be ignored, as it is an argument that carries an overpowering force. Moreover, the speaker emphasizes that he had received an express order from the Spirit to go with these men to Cornelius's house. Immediately after the vision that provided this instruction, the three men were already there, making it evident that God's hand was at work in this divine encounter.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.1592772554920867,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.89,
+            "commentatorTierSimilarities": [
+                0.0,
+                49.59,
+                50.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold the visible presence of God's hand in the coincidental arrival of three men immediately after the speaker's vision. This arrival carries an overwhelming force that could not easily be resisted by the apostles and elders. Not only does the speaker highlight the significance of the arrival, but he also underscores that he had received an explicit order from the Spirit to go with these men to Cornelius's house. This divine encounter was unmistakably orchestrated by God's divine intervention.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.078528632318707,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.25,
+                41.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold the remarkable coincidence as three men arrive at the speaker's house immediately after his visionary experience. The speaker highlights the significance of this arrival, emphasizing the visible presence of God's hand at work. The overpowering force of this divine intervention could not easily be ignored, as it became a compelling argument for the apostles and elders. Moreover, the speaker emphasizes that he had received an express order from the Spirit to accompany these men to Cornelius's house, further emphasizing the divine orchestration of this encounter.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.1051640006018792,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.09,
+            "commentatorTierSimilarities": [
+                0.0,
+                61.56,
+                38.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold the visible presence of God's hand as three men arrive at the speaker's house immediately after his visionary experience. This remarkable coincidence brings forth an overpowering force that cannot be ignored by the apostles and elders. The speaker underscores the significance of this arrival, while also highlighting the emphasis placed on his explicit order from the Spirit to accompany these men to Cornelius's house. The divine intervention in this encounter is evident, clearly showing the hand of God at work.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.1420433284868445,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.32,
+            "commentatorTierSimilarities": [
+                0.0,
+                63.76,
+                36.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold the remarkable coincidence as three men arrive at the house where the speaker is, immediately after his visionary experience. The visible presence of God's hand in this arrival cannot be ignored, as it carries an overpowering force that even the apostles and elders could not easily resist. The speaker emphasizes the significance of this arrival and highlights that he had received an express order from the Spirit to go with these men to Cornelius's house. Truly, this divine encounter was orchestrated by God's hand.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.157192448296141,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.82,
+            "commentatorTierSimilarities": [
+                0.0,
+                58.11,
+                41.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

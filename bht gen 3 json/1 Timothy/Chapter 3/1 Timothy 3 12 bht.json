@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 17:27:25",
+    "verseRef": "1 Timothy 3:12",
+    "bestBHT": {
+        "bht": "Let deacons be husbands of one wife, ruling well over children and their own houses. Having children to rule is considered a qualification, indicating the importance of moral character and domestic condition. The practical side of Christianity is emphasized for deacons as a criterion of efficiency, while personal dignity is more stressed for bishops. Deacons are expected to set an example of being chaste and honorable in their family life, keeping their children and household under holy discipline, refuting the misunderstanding of referring to domestic servants.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.9832980309203074,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.29,
+        "commentatorTierSimilarities": [
+            38.15,
+            29.02,
+            32.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let the deacons be husbands of one wife, ruling well over children and their own houses.",
+            "The having children to rule is to be considered as a qualification for deacons.",
+            "General directions respecting those in the diaconate, with regard to their domestic condition and duties."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is no article in the Greek, 'ruling children'; implying that he regarded the having children to rule as a qualification.\" ",
+            "The practical side of Christianity is the one most dwelt on in the Pastoral Epistles, in opposition to the heretical teachers; moreover, as the miraculous gifts began to be withdrawn, the safest criterion of efficiency would be the previous moral character of the candidate, the disposition and talent for the office being presupposed.\" ",
+            "Less stress is laid on personal dignity in the case of the deacon than in that of the bishop."
+        ],
+        "Albert Barnes": [
+            "Let the deacons be the husbands of one wife - notes, 1 Timothy 3:2.",
+            "Ruling their children and their own houses well - notes, 1 Timothy 3:4-5."
+        ],
+        "John Calvin": [
+            "\u2026each of them \u2014 satisfied within having but one wife \u2014 shall set an example of a chaste and honorable father of a family\u2026\" (Quote 1)",
+            "\u2026shall keep his children and his whole house under holy discipline.\" (Quote 2)",
+            "And this refutes the error of those who understand this passage as referring to domestic servants.\" (Quote 3)"
+        ],
+        "Philip Schaff": [
+            "1 Timothy 3:12. After the parenthetic digression, the list of qualifications for the deacons is continued, the conditions of good reputation being identical with those for the bishops.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Of one wife (\u03bc\u03b9\u03b1\u03c2 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03c2). At a time as in verse 1 Timothy 3:2.",
+            "Ruling well (\u03c0\u03c1\u03bf\u03b9\u03c3\u03c4\u03b1\u03bc\u03b5\u03bd\u03bf \u03ba\u03b1\u03bb\u03c9\u03c2). As in 1 Timothy 3:4. "
+        ],
+        "John Gill": [
+            "Let the deacons be the husbands of one wife,.... :-",
+            "ruling their children and their own houses well. These qualifications are the same with those of the bishop or elder;",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse instructs that deacons should be husbands of one wife, ruling well over children and their own houses. The having of children is considered a qualification for being a deacon, indicating that the candidate's previous moral character and domestic condition are important factors. The emphasis with deacons is more on the practical side of Christianity rather than personal dignity, whereas bishops have more emphasis on personal dignity. The qualifications for deacons are identical to those for bishops, with good reputation being a key condition. A deacon is expected to set an example of being chaste and honorable in their family life, keeping their children and household under holy discipline. This refutes the misunderstanding that this passage refers to domestic servants.",
+            "wordCount": 122,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.8809143073249286,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+            "commentatorTierSimilarities": [
+                35.84,
+                31.41,
+                32.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let deacons be husbands of one wife, ruling well over children and their own houses. Having children to rule is considered a qualification, indicating the importance of moral character and domestic condition. The practical side of Christianity is emphasized for deacons as a criterion of efficiency, while personal dignity is more stressed for bishops. Deacons are expected to set an example of being chaste and honorable in their family life, keeping their children and household under holy discipline, refuting the misunderstanding of referring to domestic servants.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.9832980309203074,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
+            "commentatorTierSimilarities": [
+                38.15,
+                29.02,
+                32.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Deacons should be husbands of one wife, ruling their children and houses well. This domestic qualification is considered important for deacons, as it reflects their previous moral character and suitability for the office. The practical aspect of Christianity is emphasized for deacons, as their efficiency is measured by their moral character rather than supernatural gifts. Unlike bishops, deacons have less stress on personal dignity. They are expected to set an example of being chaste and honorable in their family life, keeping their children and household under holy discipline.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8329979307970574,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                37.37,
+                30.0,
+                32.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Deacons must be husbands of one wife, ruling well over children and their own houses. The having of children to rule is regarded as a qualification, reflecting the significance of the candidate's moral character and domestic condition. The Pastoral Epistles highlight the practical aspect of Christianity and the importance of a candidate's moral character, especially as supernatural gifts began to decline. While deacons have less emphasis on personal dignity compared to bishops, they are expected to set an example of being chaste and honorable in their family, maintaining holy discipline over their children and household.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.8927682035103188,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.28,
+            "commentatorTierSimilarities": [
+                37.81,
+                30.0,
+                32.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Deacons, as per the instruction in the verse, should be husbands of one wife, ruling well over children and their houses. Having children to rule is seen as a qualification, highlighting the importance of the candidate's moral character and domestic condition for the office. The Pastoral Epistles stress the practical side of Christianity and consider the previous moral character of the candidate as a safer criterion for efficiency. While personal dignity is less emphasized for deacons compared to bishops, they are expected to exemplify chastity and honor in their family life, maintaining holy discipline over their children and household.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.9373958287953224,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                38.45,
+                30.73,
+                30.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

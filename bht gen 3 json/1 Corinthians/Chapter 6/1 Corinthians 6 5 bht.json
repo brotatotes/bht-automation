@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:04:29",
+    "verseRef": "1 Corinthians 6:5",
+    "bestBHT": {
+        "bht": "Is it so, among you who boast of wisdom, that there is not even one wise person to settle disputes between brethren? How disgraceful it is to bring such matters before pagan tribunals instead of finding a qualified believer to arbitrate them. This reflects poorly on your community, diminishing the honor you give to unbelievers. The apostle's words are meant to shame and urge you to reflect on the state of affairs in your midst.",
+        "wordCount": 76,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 1.9280712953766805,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+        "commentatorTierSimilarities": [
+            24.45,
+            32.82,
+            42.73
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Is there so completely a lack of all wise men among you...?\" ",
+            "Are you come to this, that you are obliged to set any to judge at all?\" ",
+            "Have you no wise man among you, who shall be able to decide (as arbitrator) between his brethren?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Are you in such a helpless state?",
+            "Not even one, amidst so many reputed among you for wisdom.",
+            "Judge between brother and brother."
+        ],
+        "Albert Barnes": [
+            "I declare that which is a reproach to you, that your matters of dispute are carried before pagan tribunals.\" ",
+            "Can it be that in the Christian church - the church collected in refined and enlightened Corinth - there is not a single member so wise, intelligent and prudent that his brethren may have confidence in him?",
+            "Can this be the case in a church that boasts so much of its wisdom, and that prides itself so much in the number and qualifications of its intelligent members?"
+        ],
+        "Marvin Vincent": [
+            "Lit., I speak to you with a view to shame; i.e., to move you to shame.\" ",
+            "To decide; by arbitration."
+        ],
+        "John Calvin": [
+            "Let it at least be considered by you, how disgraceful it is to you that there is not so much as one among you who is qualified to settle an affair amicably among brethren.\" ",
+            "He calls them back from disgrace.\" ",
+            "He does not wish them, then, to form so unfavorable an opinion of their society, as to take away from all their brethren an honor which they allow to unbelievers."
+        ],
+        "Philip Schaff": [
+            "Is it so, that there is not one wise man among you? who, etc.: \u2018Abounding in gifts, and boasting of your wisdom, are ye incompetent to settle your own small disputes?\u2019\" ",
+            "The principle of arbitration is here suggested; but courts of arbitration are a modern invention."
+        ],
+        "Archibald T. Robertson": [
+            "In N.T. only here and 1 Corinthians 15:34.\" ",
+            "One wise man (\u03c3\u03bf\u03c6\u03bf\u03c2). From sarcasm to pathos Paul turns.\" ",
+            "The use of \u03b1\u03b4\u03b5\u03bb\u03c6\u03bf\u03c2 has a sharp reflection on them for their going to heathen judges to settle disputes between brothers in Christ."
+        ],
+        "John Gill": [
+            "Not that they did set such persons to judge, but that they did not; and instead of so doing went to law with their brethren before the unjust.",
+            "Is it so that there is not a wise man among you? This also the apostle speaks to their shame, who had so much gloried in their wisdom, and boasted of their parts and abilities to the contempt of others.",
+            "No, not one that shall be able to judge between his brethren?"
+        ],
+        "John Wesley": [
+            "Is there not one among you, who are such admirers of wisdom, that is wise enough to decide such causes?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Is it possible that among the Corinthians, who boasted of their wisdom and intelligence, there was not a single wise person who could settle disputes between their brethren? How shameful it is that they chose to bring their grievances before pagan tribunals rather than finding a wise believer to arbitrate them. The lack of an arbitrator among them reflects poorly on their community and undermines the honor they bestow upon unbelievers. The apostle calls them out and urges them to consider the disgraceful state they find themselves in.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.858432248361642,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                22.24,
+                32.3,
+                45.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Is it possible that among the Corinthians, there is not a single wise person to settle disputes between brethren? How shameful it is to bring grievances before pagan tribunals, rather than finding a wise believer to arbitrate them. The lack of an arbitrator reflects poorly on their community and undermines the honor they give to unbelievers. The apostle calls them out and urges them to consider the disgraceful state they find themselves in.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.8568131609093719,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.08,
+            "commentatorTierSimilarities": [
+                23.27,
+                33.53,
+                43.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Is it so, among you who boast of wisdom, that there is not even one wise person to settle disputes between brethren? How disgraceful it is to bring such matters before pagan tribunals instead of finding a qualified believer to arbitrate them. This reflects poorly on your community, diminishing the honor you give to unbelievers. The apostle's words are meant to shame and urge you to reflect on the state of affairs in your midst.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.9280712953766805,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+            "commentatorTierSimilarities": [
+                24.45,
+                32.82,
+                42.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Is it so that among the Corinthians, who pride themselves on their wisdom and intelligence, there is not even one wise person capable of settling disputes among brethren? How disgraceful it is to seek judgment from pagan tribunals rather than relying on a qualified believer to arbitrate. This reflects poorly on your community and undermines the respect you claim to have for unbelievers. The apostle's intention is to shame you and prompt reflection on the sorry state of affairs within your midst.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.917123543265967,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.09,
+            "commentatorTierSimilarities": [
+                24.65,
+                34.79,
+                40.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Is it so among the Corinthians that, despite their boasting of wisdom, there is not even one wise person capable of settling disputes among brethren? It is disgraceful to turn to pagan tribunals instead of seeking arbitration from a qualified believer. This reflects poorly on the community and undermines their claimed respect for unbelievers. The apostle's words aim to shame and prompt reflection on the unfortunate state of affairs within their midst.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7577699407145544,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+            "commentatorTierSimilarities": [
+                23.07,
+                36.15,
+                40.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:12:52",
+    "verseRef": "Philemon 11",
+    "bestBHT": {
+        "bht": "Onesimus, whose name signifies profit, was once unprofitable and had wronged his master. However, through the transformative power of Christianity, he is now profitable to Paul as a Christian brother and to Philemon as a servant. Paul's use of a mild expression highlights the hope and potential inherent in Christianity for even the most hopeless cases. This appeal to Philemon lies in the fact that Paul expects to benefit from Onesimus' changed attitude, thus demonstrating the ability of Christianity to turn a formerly useless individual into a valuable asset.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.010292051083953,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+        "commentatorTierSimilarities": [
+            28.32,
+            36.15,
+            35.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The name Onesimus signifies profitable.",
+            "The profit must not be limited to the sense of outward profit, but extended to a spiritual meaning as well.",
+            "Profitable to me, as the fruit of my ministry,\u2014to thee as a servant, and also as a Christian brother."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not only was he 'unprofitable,' but positively injurious, having 'wronged' his master. Paul uses a mild expression.",
+            "Without godliness a man has no station.",
+            "Profitable in spiritual, as well as in temporal things."
+        ],
+        "Albert Barnes": [
+            "It is possible that there may be an allusion here to the meaning of the name 'Onesimus,' which denotes 'profitable'...and that now he would be found to do so.",
+            "But now profitable to thee - The Greek here is \u03b5\u03c5\u0313\u0301\u03c7\u03c1\u03b7\u03c3\u03c4\u03bf\u03bd euchre\u0304ston, but the meaning is about the same as that of the word Onesimus. It denotes very useful.",
+            "Paul had doubtless found him useful to him as a Christian brother in his bonds, and it is easy to conceive that, in his circumstances, he would greatly desire to retain him with him."
+        ],
+        "Marvin Vincent": [
+            "Unprofitable servant, Matthew 25:30. These plays upon proper names are common both in Greek and Roman literature.",
+            "Christianity knows nothing of hopeless cases. It professes its ability to take the most crooked stick and bring it straight, to flash a new power into the blackest carbon, which will turn it into a diamond.",
+            "A strong appeal to Philem. lies in the fact that Paul is to reap benefit from Onesimus in his new attitude as a Christian brother."
+        ],
+        "Philip Schaff": [
+            "Which in time past was to thee unprofitable. Alluding not only to the loss which Philemon had suffered by his slave absconding, but also to the bad service which a disaffected slave, ready to run away as soon as an opportunity offered, would have rendered to his master for a long time before.\" ",
+            "The returning runaway would come back in the spirit which St. Paul inculcates elsewhere, teaching that Christian slaves should count their own masters worthy of all honour (1 Timothy 6:1).",
+            "Men were a long while in learning the lesson against slavery, even good men finding no wrong in it, provided slaves were well cared for."
+        ],
+        "Archibald T. Robertson": [
+            "The once to thee useless one.\" ",
+            "Play (pun) on the meaning of the name Onesimus as once 'useless'.\" ",
+            "Still further play on the name Onesimus by \u03b5\u03c5\u03c7\u03c1\u03b7\u03c3\u03c4\u03bf\u03bd (verbal adjective from \u03b5\u03c5 and \u03c7\u03c1\u03b1\u03bf\u03bc\u03b1, to use)."
+        ],
+        "John Gill": [
+            "So every man, in his state of unregeneracy, is an unprofitable man, Romans 3:12 unprofitable to God, to men, and to themselves...",
+            "...they are not only said to be unprofitable, but are represented as good for nothing...",
+            "Such an one is profitable to himself; his godliness is gain unto him, it having both the promise of this life, and of that which is to come..."
+        ],
+        "John Wesley": [
+            "Now profitable \u2014 None should be expected to be a good servant before he is a good man. He manifestly alludes to his name, Onesimus, which signifies profitable."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Onesimus, whose name signifies profitable, was once unprofitable and had wronged his master. However, through the transformative power of Christianity, he is now profitable both to Paul as a Christian brother and to Philemon as a servant. This change of heart is significant, as it reflects the ability of Christianity to take the most unlikely individuals and bring forth good from them. In fact, Onesimus being profitable to Paul in his new identity as a Christian brother is a strong appeal to Philemon. The play on the name Onesimus, meaning useless, further emphasizes the extraordinary transformation that has taken place.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.9729331620477635,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                28.52,
+                34.76,
+                36.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Onesimus, whose name signifies profit, was once unprofitable and had wronged his master, but through the transformative power of Christianity, he is now profitable both to Paul as a Christian brother and to Philemon as a servant. This change reflects the ability of Christianity to take the most unlikely individuals and bring forth good from them. The play on his name, meaning useless, further emphasizes this extraordinary transformation.",
+            "wordCount": 68,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.9369054315990883,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+            "commentatorTierSimilarities": [
+                28.15,
+                34.82,
+                37.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Onesimus, whose name signifies profit, was once unprofitable and had wronged his master. However, through the transformative power of Christianity, he is now profitable to Paul as a Christian brother and to Philemon as a servant. Paul's use of a mild expression highlights the hope and potential inherent in Christianity for even the most hopeless cases. This appeal to Philemon lies in the fact that Paul expects to benefit from Onesimus' changed attitude, thus demonstrating the ability of Christianity to turn a formerly useless individual into a valuable asset.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.010292051083953,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+            "commentatorTierSimilarities": [
+                28.32,
+                36.15,
+                35.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Onesimus, whose name signifies profit, was once unprofitable and had wronged his master. However, through the transformative power of Christianity, he is now profitable to Paul as a Christian brother and to Philemon as a servant. This change reflects the ability of Christianity to take the most unlikely individuals and bring forth good from them. The play on his name, meaning useless, further emphasizes this extraordinary transformation.",
+            "wordCount": 67,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.922370850337229,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                27.91,
+                34.39,
+                37.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Onesimus, which means profitable, was initially unprofitable and had wronged his master. Nevertheless, through the impact of Christianity, he has become profitable to Paul as a fellow believer and to Philemon as a servant. This remarkable change demonstrates how Christianity can take someone who was once deemed useless and transform them into a valuable asset. Such a transformation serves as a powerful appeal to Philemon, highlighting the remarkable effectiveness of the Christian faith in bringing about positive change in the lives of individuals.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.8090569279405946,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                26.61,
+                33.26,
+                40.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:35:41",
+    "verseRef": "Acts 23:34",
+    "bestBHT": {
+        "bht": "Felix, the governor, sought to ascertain the province from which Paul hailed, as it would determine where he should be tried. Upon discovering that Paul was from Cilicia, Felix promptly decided to conduct his trial in Caesarea. Though the reasons behind Felix's decision to keep a Cilician in Judea remain unknown, his inquiry demonstrated his meticulousness. It was essential to confirm that the crimes Paul was accused of had occurred in Judea, particularly the accusation of defiling the temple.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.6732347281433386,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+        "commentatorTierSimilarities": [
+            26.98,
+            41.76,
+            31.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "34, 35. asked of what province he",
+            "\twas\u2014the letter describing him as a Roman citizen."
+        ],
+        "Albert Barnes": [
+            "Of what province he was - Greek: of what heparchy \u03b5\u0313\u03c0\u03b1\u03c1\u03c7\u03b9\u0301\u03b1\u03c2 eparchias he was.",
+            "He knew from the letter of Lysias that he was a Roman, but he was not informed of what place or province he was.",
+            "Tarsus, the birthplace of Paul, was in this province, Acts 21:39."
+        ],
+        "Marvin Vincent": [
+            "Of what province [\u03b5\u03ba \u03c0\u03bf\u03b9\u03b1\u03c2 \u03b5\u03c0\u03b1\u03c1\u03c7\u03b9\u03b1\u03c2] . Rather, \"from what kind of a province;\" whether senatorial or imperial. See Introduction to Luke. Cilicia was an imperial province."
+        ],
+        "Philip Schaff": [
+            "Felix deemed it expedient to inquire respecting the nationality of the prisoner, as it might have been desirable to have sent him at once to the seat of the government of some other procurator or proconsul.",
+            "When he heard he was from Cilicia, he determined to try him at once in C\u00e6sarea.",
+            "The political motives which induced him to retain a Cilician in Jud\u00e6a are to us now unknown."
+        ],
+        "Archibald T. Robertson": [
+            "When he had read it (\u03b1\u03bd\u03b1\u03b3\u03bd\u03bf\u03c5\u03c2). Second aorist active participle of \u03b1\u03bd\u03b1\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9, to know again, to read.",
+            "Of what province he was (\u03b5\u03ba \u03c0\u03bf\u03b9\u03b1\u03c2 \u03b5\u03c0\u03b1\u03c1\u03c7\u03b5\u03b9\u03b1\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd). Tense of \u03b5\u03c3\u03c4\u03b9\u03bd (is) retained in indirect question.",
+            "Cilicia, like Judea, was under the control of the propraetor of Syria (imperial province)."
+        ],
+        "John Gill": [
+            "This showed care and diligence in him.",
+            "He asked of what province he was.",
+            "But that the crimes he was charged with were committed in Judea, particularly that of profaning the temple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Felix, the governor, asked Paul of what province he was, wanting to ascertain whether he was from a senatorial or imperial province. This information was crucial for Felix to determine if Paul should be tried in Jerusalem or sent elsewhere for his trial. When Felix learned that Paul was from Cilicia, he immediately decided to have him tried in Caesarea instead. The reasons behind Felix's decision to keep a Cilician in Judea remain unknown, but his inquiry demonstrated his diligence in handling the case. Ultimately, it was necessary to establish that the crimes Paul was accused of had taken place in Judea, particularly the accusation of profaning the temple.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.733410823750626,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                27.89,
+                41.54,
+                30.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Felix, the governor, asked Paul about the province he hailed from, as it was essential to determine the appropriate jurisdiction for his trial. After discovering that Paul was from Cilicia, Felix promptly decided to have him tried in Caesarea. Though Felix's reasons for keeping a Cilician in Judea remain unknown, his inquiry demonstrated his thoroughness. It was crucial to establish that the crimes Paul was charged with had occurred in Judea, particularly the alleged desecration of the temple.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6626610261195998,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                26.12,
+                39.68,
+                34.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Felix, the governor, inquired about the province Paul belonged to in order to establish the jurisdiction for his trial. Upon learning that Paul was from Cilicia, Felix promptly decided to try him in Caesarea. While the motives behind Felix's choice to retain a Cilician in Judea remain unknown, his inquiry showcased his diligence. It was crucial to verify that the crimes Paul was accused of had taken place in Judea, especially the alleged profanation of the temple.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.6343713249104788,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.69,
+            "commentatorTierSimilarities": [
+                27.74,
+                40.42,
+                31.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Felix, the governor, sought to ascertain the province from which Paul hailed, as it would determine where he should be tried. Upon discovering that Paul was from Cilicia, Felix promptly decided to conduct his trial in Caesarea. Though the reasons behind Felix's decision to keep a Cilician in Judea remain unknown, his inquiry demonstrated his meticulousness. It was essential to confirm that the crimes Paul was accused of had occurred in Judea, particularly the accusation of defiling the temple.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6732347281433386,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                26.98,
+                41.76,
+                31.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Felix, the governor, wanted to determine Paul's province to decide where his trial should take place. When he learned that Paul was from Cilicia, he immediately chose to hold the trial in Caesarea. The reasons for Felix's decision to keep a Cilician in Judea remain unknown, but his inquiry showed diligence. It was essential to establish that Paul's alleged crimes had occurred in Judea, especially the charge of desecrating the temple.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.6289218962780907,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                26.28,
+                40.62,
+                33.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

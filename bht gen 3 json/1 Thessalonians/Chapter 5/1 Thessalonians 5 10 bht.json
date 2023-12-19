@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 14:01:16",
+    "verseRef": "1 Thessalonians 5:10",
+    "bestBHT": {
+        "bht": "Christ died for us in order to secure for us a life that cannot be interrupted or destroyed by death. Whether we are awake or asleep, alive or in our graves, we will live together with him. Those who have died before his return suffer no disadvantage, for Christ has ensured that we will live with him. His death was meant to bestow upon us his perpetual and endless life, giving us the assurance of salvation and the hope of his second coming.",
+        "wordCount": 83,
+        "quoteTokenProportion": 52.63,
+        "qualityScore": 2.112568983651218,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+        "commentatorTierSimilarities": [
+            20.51,
+            39.27,
+            40.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "died for us\u2014Greek, 'in our behalf.'",
+            "whether we wake or sleep\u2014whether we be found at Christ's coming awake, that is, alive, or asleep, that is, in our graves.",
+            "together\u2014all of us together; the living not preceding the dead in their glorification 'with Him' at His coming."
+        ],
+        "Albert Barnes": [
+            "He designed by his death that we should ultimately live with him; and this effect of his death could be secured only as it was an atoning sacrifice.",
+            "The object here is to show that the one class would have no advantage over the other.",
+            "Those who 'wake and those who sleep' - those who are alive and those who are dead - meaning that they would be 'together' or would be with the Lord 'at the same time;' there would be no priority or precedence."
+        ],
+        "Marvin Vincent": [
+            "Who died. Frequently the resurrection is coupled with the death of Christ by Paul, as ch. 4 14; Philippians 3:10; Colossians 2:12; Colossians 3:1-4. Not so here; but the thought of resurrection is supplied in live together with him.\" ",
+            "Wake or sleep. Whether we are alive or dead at Christ's appearing. Comp. Romans 14:9. Kaqeudein in N. T. always literally of sleep, except here, and possibly Ephesians 5:14. In Mark 5:39; Luke 8:52, it is contrasted with death.",
+            "In LXX in the sense of death, Psalms 87:5; Daniel 12:2; 2 Samuel 7:12."
+        ],
+        "John Calvin": [
+            "If he died with this view \u2014 that he might make us partakers of his life, there is no reason why we should be in doubt as to our salvation.",
+            "The sum is this \u2014 that Christ died with this view, that he might bestow upon us his life, which is perpetual and has no end.",
+            "Christ himself, into whose body we are ingrafted, quickens us by his power, and the Spirit that dwelleth in us is life, because of justification."
+        ],
+        "Philip Schaff": [
+            "Christ died for our sake, and especially to secure for us this grand advantage, viz. that whether we wake or sleep, we should live together with him.",
+            "He reminds them that the very object of Christ in dying was to secure to His people a life which no death could interrupt or destroy.",
+            "Those who have died before His return suffer no disadvantage, for He has secured that whether we wake or sleep, whether, i.e., we live or die, we should live with Him."
+        ],
+        "Archibald T. Robertson": [
+            "These prepositions often interchanged in N.T. MSS."
+        ],
+        "John Gill": [
+            "Christ died for his people, who were dead in trespasses and sins, that they might live spiritually a life of sanctification from him, and a life of justification on him, and by him; and that they might live a life of communion with him; and that they might live eternally with him, in soul and body, in heaven, and reign with him there, and partake of his glory.\" ",
+            "The consideration of the death of Christ, and this end of it, which will certainly be answered, serves greatly to encourage hope of salvation by him, and faith in him, and an earnest expectation of his second coming.",
+            "Those for whom Christ died are always safe, sleeping or waking, whatever they are about and employed in, and in whatsoever situation and condition they are in this world."
+        ],
+        "John Wesley": [
+            "Whether we wake or sleep \u2014 Be alive or dead at his coming."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ died for us, in our behalf, so that whether we are awake or asleep, alive or in our graves, we will live together with him. The death of Christ is inseparably linked with the resurrection, but here the emphasis is on the idea of living together with him. It is through his death that he secures for us a life that cannot be interrupted or destroyed by death. Whether we are awake or asleep at his coming, those who have died before will suffer no disadvantage, for Christ has ensured that we will live with him. Indeed, Christ died with the purpose of bestowing upon us his perpetual and endless life. This understanding of Christ's death should dispel any doubts about our salvation and encourage our hope in him.",
+            "wordCount": 131,
+            "quoteTokenProportion": 55.26,
+            "qualityScore": 2.0874550167042276,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+            "commentatorTierSimilarities": [
+                21.64,
+                37.86,
+                40.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ died for us, in our behalf, so that whether we are awake or asleep, alive or in our graves, we will live together with him. It is through his death that he secures for us a life that cannot be interrupted or destroyed by death. Those who have died before will suffer no disadvantage, for Christ has ensured that we will live with him. Christ died with the purpose of bestowing upon us his perpetual and endless life. This understanding should dispel any doubts about our salvation and encourage our hope in him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 58.73,
+            "qualityScore": 1.9989898040571576,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                19.97,
+                38.93,
+                41.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ died for us in order to secure for us a life that cannot be interrupted or destroyed by death. Whether we are awake or asleep, alive or in our graves, we will live together with him. Those who have died before his return suffer no disadvantage, for Christ has ensured that we will live with him. His death was meant to bestow upon us his perpetual and endless life, giving us the assurance of salvation and the hope of his second coming.",
+            "wordCount": 83,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 2.112568983651218,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+            "commentatorTierSimilarities": [
+                20.51,
+                39.27,
+                40.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ died for us, in our behalf, so that whether we are awake or asleep, alive or in our graves, we will live together with him. It is through his death that he secures for us a life that cannot be interrupted or destroyed by death. Those who have died before will suffer no disadvantage, for Christ has ensured that we will live with him. Christ died with the purpose of bestowing upon us his perpetual and endless life. This understanding should dispel any doubts about our salvation and encourage our hope in him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 58.73,
+            "qualityScore": 1.9989898040571576,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                19.97,
+                38.93,
+                41.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ died for us, in our behalf, so that whether we are awake or asleep, alive or in our graves, we will live together with him. Through his death, he secures for us an uninterrupted and eternal life. Those who have died before his return will not be disadvantaged, for they too will live with him. Christ's purpose in his death was to bestow upon us his perpetual and endless life, assuring our salvation and inspiring hope in his second coming.",
+            "wordCount": 82,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 2.0854467383827147,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                21.64,
+                37.68,
+                40.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

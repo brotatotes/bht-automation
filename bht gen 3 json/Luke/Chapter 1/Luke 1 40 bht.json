@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:12:50",
+    "verseRef": "Luke 1:40",
+    "bestBHT": {
+        "bht": "With her first glance at Elizabeth, Mary recognized the truth of the sign given to her by the angel. The bond of sympathy between the two mothers was palpable as Mary greeted Elizabeth, using the customary tokens of affectionate salutation. This visit held significant importance for Mary, as she came to pay her respects to Elizabeth, focusing primarily on her. The act of salutation between women was not out of the ordinary, signifying a heartfelt gesture of connection and sisterhood.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.183057111689076,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.93,
+        "commentatorTierSimilarities": [
+            35.02,
+            27.46,
+            37.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "40. saluted Elisabeth\u2014now",
+            "\treturned from her seclusion ( :-)."
+        ],
+        "Albert Barnes": [
+            "Saluted Elizabeth - Expressed great joy and gratification at seeing her, and used the customary tokens of affectionate salutation."
+        ],
+        "Marvin Vincent": [
+            "With her first glance at Elizabeth she recognized the truth of the sign that had been given her by the angel..."
+        ],
+        "Philip Schaff": [
+            "Luke 1:40. The unnamed city in \u2018the hill-country\u2019 was the home of Zacharias and Elisabeth.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Saluted (\u03b7\u03c3\u03c0\u03b1\u03c3\u03b1\u03c4\u03bf). Her first glance at Elisabeth showed the truth of the angel's message. The two mothers had a bond of sympathy. "
+        ],
+        "John Gill": [
+            "Mary saluted Elisabeth, because she came to pay the visit to her, and it was with her she was principally concerned.",
+            "One woman might salute another; and especially Mary saluted Elisabeth.",
+            "It was not usual for women to salute men, nor men to salute women."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With her first glance at Elizabeth, Mary recognized the truth of the sign given to her by the angel. The bond of sympathy between the two mothers was palpable as Mary greeted Elizabeth. Mary's salutation expressed great joy and gratification at seeing her, using the customary tokens of affectionate salutation. This visit held significant importance for Mary, as she came to pay her respects to Elizabeth, focusing primarily on her. The act of salutation between women was not out of the ordinary, and it was a heartfelt gesture of connection and sisterhood.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.1670569993190223,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.4,
+            "commentatorTierSimilarities": [
+                32.68,
+                30.2,
+                37.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With her first glance at Elizabeth, Mary recognized the truth of the sign given to her by the angel. The bond of sympathy between the two mothers was palpable as Mary greeted Elizabeth. Mary's salutation expressed great joy and gratification at seeing her, using the customary tokens of affectionate salutation. This visit held significant importance for Mary, as she came to pay her respects to Elizabeth, focusing primarily on her. The act of salutation between women was not out of the ordinary and served as a heartfelt gesture of connection and sisterhood.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.1618035133497604,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                32.54,
+                30.33,
+                37.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With her first glance at Elizabeth, Mary recognized the truth of the sign given to her by the angel. The bond of sympathy between the two mothers was palpable as Mary greeted Elizabeth. Mary's salutation expressed great joy and gratification at seeing her, using the customary tokens of affectionate salutation. This visit held significant importance for Mary as she came to pay her respects to Elizabeth, focusing primarily on her. The act of salutation between women was not out of the ordinary, signifying a heartfelt gesture of connection and sisterhood.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.165360031978954,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.34,
+            "commentatorTierSimilarities": [
+                32.84,
+                30.14,
+                37.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With her first glance at Elizabeth, Mary recognized the truth of the sign given to her by the angel. The bond of sympathy between the two mothers was palpable as Mary greeted Elizabeth, using the customary tokens of affectionate salutation. This visit held significant importance for Mary, as she came to pay her respects to Elizabeth, focusing primarily on her. The act of salutation between women was not out of the ordinary, signifying a heartfelt gesture of connection and sisterhood.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.183057111689076,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.93,
+            "commentatorTierSimilarities": [
+                35.02,
+                27.46,
+                37.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With her first glance at Elizabeth, Mary recognized the truth of the sign given to her by the angel. The bond of sympathy between the two mothers was evident as Mary greeted Elizabeth. Mary's salutation expressed great joy and gratification at seeing her, using the customary tokens of affectionate salutation. This visit held significant importance for Mary, as she came to pay her respects to Elizabeth, focusing primarily on her. The act of salutation between women was a heartfelt gesture of connection and sisterhood.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1774668721662693,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.74,
+            "commentatorTierSimilarities": [
+                33.02,
+                29.68,
+                37.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

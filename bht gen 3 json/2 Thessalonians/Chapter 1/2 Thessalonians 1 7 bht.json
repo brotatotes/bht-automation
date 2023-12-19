@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:37:52",
+    "verseRef": "2 Thessalonians 1:7",
+    "bestBHT": {
+        "bht": "In the face of their shared suffering, the believers can find solace in the idea of a relaxing of the strings of endurance. A rest is promised by the Lord Jesus upon His revelation, a rest that will turn weariness into strength and broken words into perfect praise. This anticipated rest reflects God's care for the afflicted, to be enjoyed in the company of the apostles and fellow believers. It is a hopeful and joyous reward for enduring persecution for righteousness' sake.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.7359009664633898,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.06,
+        "commentatorTierSimilarities": [
+            26.83,
+            34.49,
+            38.68
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "relaxing of the strings of endurance now so tightly drawn.",
+            "the writers, who are troubled like yourselves.",
+            "the angels who are the ministers by whom He makes His might to be recognized."
+        ],
+        "Albert Barnes": [
+            "It will be a righteous thing for God to give to you who are persecuted rest in the last day.",
+            "The future happiness of believers is often represented under the image of rest.",
+            "It always augments the anticipated joy of heaven to reflect that we are to share its blessedness with them."
+        ],
+        "Marvin Vincent": [
+            "Rest. With this exception only in Paul.",
+            "With us. According to Paul's habit of identifying his experience with that of his Christian readers.",
+            "When the Lord Jesus shall be revealed. Lit. in the revelation of the Lord Jesus."
+        ],
+        "John Calvin": [
+            "The pious may understand that God is so much the more concerned as to their afflictions in proportion to the dreadfulness of the judgment that awaits his enemies.",
+            "The metaphor, however, of flame and fire, is abundantly common in Scripture, when the anger of God is treated of.",
+            "By the angels of his power, he means those in whom he will exercise his power; for he will bring the angels with him for the purpose of displaying the glory of his kingdom."
+        ],
+        "Philip Schaff": [
+            "Their rest is not the rest of a stone, cold and lifeless, but of wearied humanity.",
+            "Now is their weariness changed into refreshment, their weakness into excellence of strength, their wasting into a spirit ever new, their broken words into the perfection of praise, their weeping into a chant of bliss.",
+            "Paul does not present death to them as their release, but the second coming of Christ; which indicates that he considered it possible, if not even probable, that this would occur during their lifetime."
+        ],
+        "Archibald T. Robertson": [
+            "They shared suffering with Paul (verse 2 Thessalonians 1:5) and so they will share (\u03bc\u03b5\u03b8') the rest."
+        ],
+        "John Gill": [
+            "This is another branch of the justice of God, in rendering to them who are afflicted and persecuted for righteousness sake, 'rest'; a relaxation or rest from persecutions.",
+            "And this will be enjoyed in company with the apostles, and other believers; and as it is some alleviation to the sufferings and afflictions of saints now, that the same are accomplished in others, so it will enhance the heavenly glory, rest, and felicity, that they will be partners and sharers in it with the apostles of Christ Jesus.",
+            "Christ, ever since a cloud received him out of the sight of the apostles up to heaven, has been, as it were, hid, and has not been seen with corporeal eyes by men on earth ever since, but by a very few, as Stephen, and the Apostle Paul."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Thessalonians 1:7, the writer speaks of the relaxing of the strings of endurance now so tightly drawn. The believers, who are troubled like the writer, will find comfort in knowing that rest will come from the Lord Jesus when He is revealed. This rest is not a stone-cold and lifeless rest, but a refreshment that transforms weariness into strength and broken words into perfect praise. The pious will understand that God is concerned for their afflictions, and this rest will be enjoyed in the company of the apostles and other believers. It is a hopeful and joyful anticipation shared by those who have suffered persecution for righteousness' sake.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.7521676017322108,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                29.94,
+                32.61,
+                37.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of their shared suffering, the troubled believers can find solace in the thought of the relaxing of the strings of endurance now so tightly drawn. Rest awaits them when the Lord Jesus is revealed. This rest will be a transformation, turning weariness into strength and broken words into perfect praise. God's concern for the afflicted is evident, as they will enjoy this rest in the presence of the apostles and fellow believers. It is a hopeful anticipation, a joyful reward for those who have endured persecution for righteousness' sake.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.67024435263587,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+            "commentatorTierSimilarities": [
+                27.52,
+                35.11,
+                37.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst their shared suffering, the believers can find comfort in the prospect of a relaxing of the strings of endurance. A rest is promised by the Lord Jesus when He is revealed, a rest that will transform weariness into strength and broken words into perfect praise. It is a rest that reflects God's concern for the afflicted, to be enjoyed alongside the apostles and fellow believers. This anticipation serves as a hopeful and joyous reward for those enduring persecution for righteousness' sake.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.6999963887873935,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+            "commentatorTierSimilarities": [
+                25.77,
+                35.04,
+                39.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of their shared suffering, the believers can find solace in the idea of a relaxing of the strings of endurance. A rest is promised by the Lord Jesus upon His revelation, a rest that will turn weariness into strength and broken words into perfect praise. This anticipated rest reflects God's care for the afflicted, to be enjoyed in the company of the apostles and fellow believers. It is a hopeful and joyous reward for enduring persecution for righteousness' sake.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.7359009664633898,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.06,
+            "commentatorTierSimilarities": [
+                26.83,
+                34.49,
+                38.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst their shared suffering, the believers discover hope in the promise of a relaxing of the strings of endurance. When the Lord Jesus is revealed, a rest awaits them that will transform weariness to strength and broken words to perfect praise. This anticipated rest reveals God's concern for the afflicted and will be experienced alongside the apostles and fellow believers. It serves as a joyful reward for enduring persecution for the sake of righteousness.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.7335560837782893,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                27.84,
+                33.61,
+                38.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

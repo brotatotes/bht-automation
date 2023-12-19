@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:31:13",
+    "verseRef": "Acts 13:48",
+    "bestBHT": {
+        "bht": "Those who were ordained to eternal life believed in the word of the Lord, causing great joy among the Gentiles. The Gentiles were overjoyed to discover that they too were included in the salvation offered by Christ. This divine ordination to eternal life was not a result of their belief, but rather the cause of it. The Gentiles gladly received the gospel and glorified the word of the Lord, understanding that their acceptance of Christ was a matter of both divine arrangement and apostolic effort.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.1887464238596,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.12,
+        "commentatorTierSimilarities": [
+            29.02,
+            35.27,
+            35.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By whom so disposed, is not here declared: nor need the word be in this place further particularized.",
+            "To find in this text pre-ordination to life asserted, is to force both the word and the context to a meaning which they do not contain.",
+            "Dr. Wordsworth well observes, that it would be interesting to enquire what influence such renderings as this of 'pre-ordained' in the Vulgate version had on the minds of men like St. Augustine and his followers in the Western Church, in treating the great questions of free will, election, reprobation, and final perseverance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "they were glad\u2014to perceive that their accession to Christ was a matter of divine arrangement as well as apostolic effort.",
+            "and glorified the word of the Lord\u2014by a cordial reception of it.",
+            "and as many as were ordained to eternal life believed\u2014a very remarkable statement, which cannot, without force, be interpreted of anything lower than this, that a divine ordination to eternal life is the cause, not the effect, of any man's believing."
+        ],
+        "Albert Barnes": [
+            "The Gentiles rejoiced that from the mouths of Jews themselves they now heard a different doctrine.",
+            "They honored it as a message from God; they recognized and received it as the Word of God.",
+            "It was nothing but God\u2019s disposing them to embrace eternal life."
+        ],
+        "John Calvin": [
+            "For doubtless it was small confirmation of their faith, because salvation was promised to them by the coming of Christ, whereby it did also come to pass that they did with more earnest desire and reverence embrace the gospel.",
+            "And here we must note the restraint, [reservation,] when he saith that they believed, (but) not all in general, but those who were ordained unto life.",
+            "If faith, wherein consisteth salvation, which is unto us a witness of the free adoption of God, which coupleth us to Christ, and maketh his life ours, whereby we possess God with his righteousness, and, finally, whereby we receive the grace of sanctification, be grounded without us in the eternal counsel of God; what good things so ever we have, we must needs acknowledge that we have received it of the grace of God, which doth prevent us of its own accord."
+        ],
+        "Philip Schaff": [
+            "These Heathens openly expressed their joy and gratitude when they found from Paul that even in the sacred and jealously guarded oracles of the Hebrew race, they too...were all included in the grand scheme of salvation by Messiah.",
+            "Preserving then rigidly the rendering of the English Version, we have to determine what meaning should be attached to the words \u2018ordained to eternal life.\u2019 Those \u2018ordained\u2019 are they of whom Holy Scripture so often speaks as \u2018The Chosen,\u2019 \u2018The Called of God\u2019 all spiritual life...being from Him and His eternal counsel alone.",
+            "But, on the other hand, this and similar clear declarations of God\u2019s sovereignty in no wise exclude man\u2019s perfect freewill. We have equally plain authoritative statements that God willeth all to be saved; and He teaches us none shall perish except by wilful rejection of the truth."
+        ],
+        "Archibald T. Robertson": [
+            "The joy of the Gentiles was to see how they could receive the higher blessing of Judaism without circumcision and other repellent features of Jewish ceremonialism.\" ",
+            "It was triumph with the Gentiles, but defeat with the Jews.\" ",
+            "By no manner of legerdemain can it be made to mean 'those who believe were appointed.' It was saving faith that was exercised only by those who were appointed unto eternal life, who were ranged on the side of eternal life, who were thus revealed as the subjects of God's grace by the stand that they took on this day for the Lord."
+        ],
+        "John Gill": [
+            "They were glad; not that the Jews were likely to have the Gospel taken away from them, and be utterly deprived of it, but that it was to be preached to them.",
+            "To glorify the word of the Lord, is an unusual phrase.",
+            "Faith is not the cause, or condition of the decree of eternal life, but a means fixed in it, and is a fruit and effect of it."
+        ],
+        "John Wesley": [
+            "As many as were ordained to eternal life... through the preaching of the Gospel.",
+            "During this sermon those believed, says the apostle, to whom God then gave power to believe.",
+            "They believed, whose hearts the Lord opened."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who were ordained to eternal life believed in the word of the Lord, causing great joy among the Gentiles. The Gentiles were overjoyed to discover that they too were included in the salvation offered by Christ. This divine ordination to eternal life was not a result of their belief, but rather the cause of it. The Gentiles gladly received the gospel and glorified the word of the Lord, understanding that their acceptance of Christ was a matter of both divine arrangement and apostolic effort. This verse emphasizes the sovereignty of God in choosing those who would believe, reminding us that faith is a result of His divine ordination and the opening of our hearts to His truth.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.1425327757699986,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.58,
+            "commentatorTierSimilarities": [
+                28.56,
+                35.53,
+                35.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who were ordained to eternal life believed in the word of the Lord, causing great joy among the Gentiles. The Gentiles were overjoyed to discover that they too were included in the salvation offered by Christ. This divine ordination to eternal life was not a result of their belief, but rather the cause of it. The Gentiles gladly received the gospel and glorified the word of the Lord, understanding that their acceptance of Christ was a matter of both divine arrangement and apostolic effort.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.1887464238596,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.12,
+            "commentatorTierSimilarities": [
+                29.02,
+                35.27,
+                35.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who were ordained to eternal life believed in the word of the Lord, causing great joy among the Gentiles. The Gentiles rejoiced that they too, as non-Jews, could receive the blessing of Judaism without having to adhere to all the Jewish ceremonial practices. This verse highlights the divine arrangement and appointment to eternal life that precedes belief. The Gentiles recognized and embraced the gospel as a message from God, bringing honor and glory to the word of the Lord.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.1321836506646457,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+            "commentatorTierSimilarities": [
+                28.79,
+                37.64,
+                33.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who were ordained to eternal life believed in the word of the Lord, causing great joy among the Gentiles. The Gentiles were filled with gladness as they realized that their acceptance of Christ was not only a result of the apostolic effort, but also a divine arrangement. They honored and glorified the word of the Lord, receiving it as a message from God Himself. This verse emphasizes that the divine ordination to eternal life is the cause, not the effect, of one's belief.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.158373735762325,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.11,
+            "commentatorTierSimilarities": [
+                28.92,
+                35.94,
+                35.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who were ordained to eternal life believed in the word of the Lord, causing great joy among the Gentiles. The Gentiles rejoiced to see how they could embrace the higher blessing of Judaism without the burdensome rituals of Jewish ceremonialism. Their acceptance of the gospel was a matter of divine arrangement and apostolic effort. This verse underscores that the ordination to eternal life is the cause, not the result, of one's belief. Through their reception of the word of the Lord, the Gentiles exponentially glorified the divine message.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.0706019730083645,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+            "commentatorTierSimilarities": [
+                30.45,
+                35.11,
+                34.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

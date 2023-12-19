@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 17:12:59",
+    "verseRef": "Philemon 12",
+    "bestBHT": {
+        "bht": "Receive him as dear to you as your own heart. The Apostle Paul writes to Philemon, speaking of Onesimus, whom he affectionately considers as his own son. This expression of deep affection aims to soften Philemon's heart and encourage forgiveness. Paul urges Philemon to receive Onesimus not just as a servant, but as a beloved person. By doing so, Paul demonstrates the transformative power of love and forgiveness, both for Philemon and for the broader community of believers.",
+        "wordCount": 79,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 1.867579533375316,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+        "commentatorTierSimilarities": [
+            21.53,
+            37.82,
+            40.65
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "mine own heart\u2014 'as dear to me as mine own heart.'",
+            "an anacoluthon: the Apostle goes off into the relative clause, and loses sight, as so often, of the construction with which he began.",
+            "taking it up again at ver. 17."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "mine",
+            "\town bowels",
+            "\t\u2014 as dear to me as my own heart [Alford]. Compare :-,",
+            "\t\u201cas myself.\u201d The object of my most intense affection as that of a",
+            "\tparent for a child."
+        ],
+        "Albert Barnes": [
+            "Paul had no power to send Onesimus back to his master unless he chose to go.",
+            "It may be added, therefore, that this passage should not be adduced to prove that we ought to send back runaway slaves to their former masters against their own consent.",
+            "If he had merely said 'receive him,' Philemon might have thought only of him as he formerly was. Paul, therefore, adds, 'that is, mine own bowels' - 'one whom I so tenderly love that he seems to carry my heart with him wherever he goes.'"
+        ],
+        "Marvin Vincent": [
+            "I have sent again [\u03b1\u03bd\u03b5\u03c0\u03b5\u03bc\u03c8\u03b1]. Rev., sent back. The epistolary aorist...\" ",
+            "That Onesimus accompanied the letter appears from Colossians 4:7-9.\" ",
+            "Thou therefore receive. Omit, and render aujton him as Rev., in his own person; his very self."
+        ],
+        "John Calvin": [
+            "Nothing could have been more powerful for assuaging the wrath of Philemon; for if he had refused to forgive his slave, he would thus have used cruelty against 'the bowels' of Paul.",
+            "This is remarkable kindness displayed by Paul, that he did not hesitate to receive, as it were into his bowels, a contemptible slave, and thief, and runaway, so as to defend him from the indignation of his master.",
+            "And, indeed, if the conversion of a man to God were estimated by us, at its proper value, we too would embrace, in the same manner, those who should give evidence that they had truly and sincerely repented."
+        ],
+        "Philip Schaff": [
+            "No doubt the discipline of Onesimus\u2019 return was food both for master and slave, [...] to Philemon also it was a benefit that he should be called on to exercise forgiveness for a serious wrong, while the more tender conduct which would be shown towards Onesimus in the future, would do something, if not much, toward loosening the bonds of any other slaves among the congregation at Coloss\u00e6.",
+            "But St. Paul everywhere else uses the word rendered \u2018bowels\u2019 for the seat of the feelings and emotions, so that it is better to interpret the words here as an expression of deep affection.",
+            "Some, taking the literal rendering of the Authorised Version, have considered this expression as equivalent to \u2018my own child.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "I have sent back. As it will look when Onesimus arrives.",
+            "In his own person. 'Himself,' intensive pronoun with whom.",
+            "My very heart. He almost loves Onesimus as his own son."
+        ],
+        "John Gill": [
+            "thou therefore receive him, that is, mine own bowels",
+            "his bowels yearned for him, and he suggests by this expression, that should he reject him, it would give him the utmost pain and uneasiness",
+            "he entreats him to receive him again into his house and family, into his service, and into his heart and affections"
+        ],
+        "John Wesley": [
+            "Receive him, that is, my own bowels \u2014 Whom I love as my own soul.\" ",
+            "Such is the natural affection of a father in Christ toward his spiritual children."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Receive him, not as a mere servant, but as someone dear and cherished, even as dear as one's own heart. The Apostle Paul, in his letter to Philemon, emphasizes the deep affection he has for Onesimus, considering him as a beloved member of his own family. He uses vivid language, referring to Onesimus as one whom he loves intensely, even comparing it to the love of a parent for a child. By urging Philemon to receive Onesimus not just as a servant but as a beloved person, Paul appeals to his emotions and highlights the importance of forgiveness and reconciliation. This act of forgiveness not only serves as an example for Philemon but also fosters the growth of love and unity among the congregation.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8543082491034473,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                19.44,
+                39.72,
+                40.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Receive him as dear to you as your own heart. The Apostle Paul writes to Philemon, speaking of Onesimus, whom he affectionately considers as his own son. This expression of deep affection aims to soften Philemon's heart and encourage forgiveness. Paul urges Philemon to receive Onesimus not just as a servant, but as a beloved person. By doing so, Paul demonstrates the transformative power of love and forgiveness, both for Philemon and for the broader community of believers.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.867579533375316,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+            "commentatorTierSimilarities": [
+                21.53,
+                37.82,
+                40.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul appeals to Philemon to receive Onesimus with great love and affection, just as dear as one's own heart. This language of endearment showcases the deep bond between Paul and Onesimus, comparing it to the love of a parent for their child. By urging Philemon to welcome Onesimus in his own person, Paul emphasizes the importance of forgiveness and reconciliation. This act of forgiveness not only benefits Philemon and Onesimus but also serves as an example to the entire congregation, promoting unity and love among believers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.81737909969018,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                19.32,
+                42.38,
+                38.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Receive him as dear to you as your own heart, for Onesimus is a beloved one to me, almost like a son. The Apostle Paul urges Philemon to embrace Onesimus, not only as a servant but as a cherished individual. This language of deep affection emphasizes the transformative power of forgiveness and reconciliation. By demonstrating this generosity, Philemon not only benefits his relationship with Onesimus, but also sets an example for the entire community to follow, promoting unity and love among believers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7864309814176162,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                21.24,
+                37.91,
+                40.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Receive him as dear to you as your own heart, for this is how I regard him. The Apostle Paul urges Philemon to embrace Onesimus not simply as a servant, but as a beloved individual. The language of deep affection in this passage highlights the transformative power of forgiveness and reconciliation. By receiving Onesimus in this way, Philemon not only strengthens their relationship, but also serves as a model for the rest of the community, fostering unity and love among believers.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7863530909718746,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                22.22,
+                37.54,
+                40.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

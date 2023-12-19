@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:16:55",
+    "verseRef": "Luke 9:5",
+    "bestBHT": {
+        "bht": "If anyone does not receive you, shake off the very dust from your feet as a testimony against them. This act signifies the finality of rejection and serves as a powerful witness against those who refuse to accept the message. When encountering hostility or rejection, the disciples were instructed to declare the Kingdom of God is near and move on, leaving the dust of that place behind. This action, first mentioned in Matthew 10:14, emphasizes the seriousness of rejecting the message of salvation.",
+        "wordCount": 82,
+        "quoteTokenProportion": 48.39,
+        "qualityScore": 1.3442182318408196,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.04,
+        "commentatorTierSimilarities": [
+            39.79,
+            0.0,
+            60.21
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Shake off. See on Matthew 10:14."
+        ],
+        "Archibald T. Robertson": [
+            "As many as receive you not (\u03bf\u03c3\u03bf \u03b1\u03bd \u03bc\u03b7 \u03b4\u03b5\u03c7\u03c9\u03bd\u03c4\u03b1 \u03c5\u03bc\u03b1\u03c2). Indefinite relative plural with \u03b1\u03bd and present middle subjunctive and the negative \u03bc\u03b7.",
+            "Here Matthew 10:14 has the singular (whosoever) and Mark 6:11 has 'whatsoever place.'",
+            "For a testimony against them (\u03b5\u03b9\u03c2 \u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b9\u03bf\u03bd \u03b5\u03c0' \u03b1\u03c5\u03c4\u03bf\u03c5\u03c2). Note use of \u03b5\u03c0' \u03b1\u03c5\u03c4\u03bf\u03c5\u03c2 where Mark 6:11 has simply the dative \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 (disadvantage), really the same idea."
+        ],
+        "John Gill": [
+            "And whosoever will not receive you... shake off the very dust from your feet, for a testimony against them.\" ",
+            "Shake off the very dust from your feet\" ",
+            "For a testimony against them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If anyone does not receive you, shake off the very dust from your feet as a testimony against them. This act signifies the finality of rejection and serves as a powerful witness against those who refuse to accept the message. When encountering hostility or rejection, the disciples were instructed to declare the Kingdom of God is near and move on, leaving the dust of that place behind. This action, first mentioned in Matthew 10:14, emphasizes the seriousness of rejecting the message of salvation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.3442182318408196,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.04,
+            "commentatorTierSimilarities": [
+                39.79,
+                0.0,
+                60.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If anyone does not receive you, shake off the very dust from your feet as a testimony against them. This act signifies the finality of rejection and serves as a powerful witness. The disciples were to declare the Kingdom of God is near and move on, leaving the dust behind. This action emphasizes the seriousness of rejecting the message of salvation.",
+            "wordCount": 61,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 1.0663995735328062,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.8,
+            "commentatorTierSimilarities": [
+                31.4,
+                0.0,
+                68.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If anyone does not receive you, shake off the very dust from your feet as a testimony against them. This act signifies the finality of rejection and serves as a powerful witness. The disciples were instructed to declare the Kingdom of God is near and move on, leaving the dust of that place behind. This action emphasizes the seriousness of rejecting the message of salvation.",
+            "wordCount": 65,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.0641189708492422,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.73,
+            "commentatorTierSimilarities": [
+                31.19,
+                0.0,
+                68.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If anyone does not receive you, shake off the very dust from your feet as a testimony against them. This act signifies the finality of rejection and serves as a powerful witness. The disciples were instructed to declare the Kingdom of God is near and move on, leaving the dust of that place behind. This action emphasizes the seriousness of rejecting the message of salvation.",
+            "wordCount": 65,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.0641189708492422,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.73,
+            "commentatorTierSimilarities": [
+                31.19,
+                0.0,
+                68.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If anyone does not receive you, shake off the very dust from your feet as a testimony against them. This act signifies the finality of rejection and serves as a powerful witness. The disciples were instructed to declare the Kingdom of God is near and move on, leaving the dust of that place behind. This action emphasizes the seriousness of rejecting the message of salvation.",
+            "wordCount": 65,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.0641189708492422,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.73,
+            "commentatorTierSimilarities": [
+                31.19,
+                0.0,
+                68.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

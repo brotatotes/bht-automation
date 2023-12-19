@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:13:54",
+    "verseRef": "1 Corinthians 15:30",
+    "bestBHT": {
+        "bht": "The practice of constantly risking our lives, and standing in jeopardy every hour, as the preachers do, would be absurd and foolish if there is no resurrection. We voluntarily encounter death because we have hope for a better life beyond this world. This magnanimity of soul, in despising death, would be ascribed to rashness rather than firmness if the saints perished at death, for it is nonsensical to act such a part if there is no resurrection.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.2256360995777884,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.34,
+        "commentatorTierSimilarities": [
+            32.84,
+            35.82,
+            31.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not only the practice of those just spoken of, but his own, and that of those like him, who lived a life of perpetual exposure to death, were absurd if there be no resurrection.",
+            "The argument here applies only to the future existence of the soul.",
+            "The practice of those who lived a life of perpetual exposure to death is absurd if there is no resurrection."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A gradation from those who could only for a little time enjoy this life, to us, who could enjoy it longer, if we had not renounced the world for Christ.\" "
+        ],
+        "Albert Barnes": [
+            "Why do we constantly risk our lives, and encounter danger of every kind?...such efforts would be vain, useless, foolish, unless there was to be a glorious resurrection.",
+            "They had no other object in encountering these dangers than to make known the truths connected with that glorious future state.",
+            "It would not be supposed that we would encounter these perils constantly, unless we were sustained with the hope of the resurrection."
+        ],
+        "John Calvin": [
+            "If our resurrection and ultimate felicity are in this world, why do we of our own accord abandon it, and voluntarily encounter death?",
+            "To no purpose would we stand in peril every hour, if we did not look for a better life, after death has been passed through.",
+            "This magnanimity of soul, I say, in despising death, would be ascribed to rashness rather than firmness, if the saints perished at death, for it is a diabolical madness to purchase by death an immortal fame."
+        ],
+        "Philip Schaff": [
+            "Why do we also (we preachers) stand in jeopardy every hour?\" ",
+            "If their conduct, supposing there is no resurrection, is folly, are we preachers, in hourly peril of our lives, any wiser?"
+        ],
+        "Archibald T. Robertson": [
+            "Why do we also stand in jeopardy every hour?\" (\u03c4 \u03ba\u03b1 \u03b7\u03bc\u03b5\u03b9\u03c2 \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03c5\u03bf\u03bc\u03b5\u03bd \u03c0\u03b1\u03c3\u03b1\u03bd \u03c9\u03c1\u03b1\u03bd?) We also as well as those who receive baptism which symbolizes death.",
+            "There are perils in Ephesus of which we do not know (2 Corinthians 1:8) whatever may be true as to an Ephesian imprisonment.",
+            "The accusative of time (\u03c0\u03b1\u03c3\u03b1\u03bd \u03c9\u03c1\u03b1\u03bd) naturally means all through every hour (extension)."
+        ],
+        "John Gill": [
+            "Not only they that have suffered martyrdom for the faith of Christ, and for this article of it, have acted very injudiciously and indiscreetly.",
+            "Who in his senses would act such a part, if there is no resurrection of the dead?",
+            "Such, as they must be of all men the most miserable, so of all men the most stupid."
+        ],
+        "John Wesley": [
+            "Why are we \u2014 The apostles.",
+            "Also in danger every hour \u2014 It is plain we can expect no amends in this life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The practice of constantly risking our lives, and standing in jeopardy every hour, as the preachers do, would be absurd and foolish if there is no resurrection. It would be a vain and useless effort if there was no glorious future state after death. However, we voluntarily encounter death because we have hope for a better life beyond this world. This magnanimity of soul, in despising death, would be ascribed to rashness rather than firmness if the saints perished at death, for it is nonsensical to act such a part if there is no resurrection of the dead.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.152356277859335,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.91,
+            "commentatorTierSimilarities": [
+                33.95,
+                35.16,
+                30.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The practice of constantly risking our lives, and standing in jeopardy every hour, as the preachers do, would be absurd and foolish if there is no resurrection. We voluntarily encounter death because we have hope for a better life beyond this world. This magnanimity of soul, in despising death, would be ascribed to rashness rather than firmness if the saints perished at death, for it is nonsensical to act such a part if there is no resurrection.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.2256360995777884,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.34,
+            "commentatorTierSimilarities": [
+                32.84,
+                35.82,
+                31.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The practice of those who lived a life of perpetual exposure to death, such as the apostles, is absurd if there is no resurrection. Why do they constantly risk their lives and encounter danger of every kind? It would not be supposed that they would encounter these perils constantly, unless they were sustained with the hope of the resurrection. If their conduct, supposing there is no resurrection, is folly, are they any wiser? Such magnanimity in despising death would be ascribed to rashness rather than firmness if the saints perished at death. To no purpose would they stand in peril every hour if they did not look for a better life after death.",
+            "wordCount": 113,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.146208368982074,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.7,
+            "commentatorTierSimilarities": [
+                29.01,
+                40.7,
+                30.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The practice of those who lived a life of perpetual exposure to death, such as the apostles, is absurd if there is no resurrection. It would not be supposed that they would encounter perils constantly unless they were sustained with the hope of the resurrection. If their conduct, supposing there is no resurrection, is folly, are they any wiser? Such magnanimity in despising death would be ascribed to rashness rather than firmness if the saints perished at death.",
+            "wordCount": 78,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.210020292686367,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.82,
+            "commentatorTierSimilarities": [
+                30.95,
+                38.69,
+                30.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Why do we constantly risk our lives and encounter danger every hour? The practice of those who lived a life of perpetual exposure to death is absurd if there is no resurrection. Our conduct, supposing there is no resurrection, is folly, are we preachers, in hourly peril of our lives, any wiser? To no purpose would we stand in peril every hour, if we did not look for a better life, after death has been passed through. This magnanimity of soul, I say, in despising death, would be ascribed to rashness rather than firmness, if the saints perished at death, for it is a diabolical madness to purchase by death an immortal fame.",
+            "wordCount": 113,
+            "quoteTokenProportion": 48.68,
+            "qualityScore": 2.2914236627304945,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.53,
+            "commentatorTierSimilarities": [
+                31.3,
+                39.82,
+                28.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

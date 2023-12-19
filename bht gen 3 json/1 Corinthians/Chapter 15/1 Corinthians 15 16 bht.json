@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 15:13:23",
+    "verseRef": "1 Corinthians 15:16",
+    "bestBHT": {
+        "bht": "The repetition in this section emphasizes the significance of the argument being made, reinforcing the unanswerable force of the reasoning presented. By restating the truth that if there is no resurrection, it follows that the Lord Jesus was not raised, this repetition highlights the importance of this truth. Additionally, it draws attention to the absurdities that would arise if this truth were not the case.",
+        "wordCount": 65,
+        "quoteTokenProportion": 41.86,
+        "qualityScore": 1.6665162154624573,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+        "commentatorTierSimilarities": [
+            22.56,
+            41.93,
+            35.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16.] Repetition of the inference in ver. 13, for precision\u2019s sake."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. The repetition implies the",
+            "\tunanswerable force of the argument."
+        ],
+        "Albert Barnes": [
+            "For if the dead rise not ... It was a great and momentous truth which would 'bear' repetition, that if there was no resurrection, as some held, then it would follow that the Lord Jesus was not raised up.",
+            "It is repeated here, evidently, because of its importance.",
+            "The Lord Jesus was not raised up."
+        ],
+        "Archibald T. Robertson": [
+            "Repeats the position already taken in verse 1 Corinthians 15:13. "
+        ],
+        "John Gill": [
+            "For if the dead rise not, then is not Christ raised.\" ",
+            "This is a repetition of the argument in 1 Corinthians 15:13 made partly to show the importance of it.",
+            "and partly to observe other absurdities, following upon the conclusion of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The repetition of the argument in this verse emphasizes the unanswerable force of the reasoning presented. It underscores the significance of the truth that if there is no resurrection, then it would follow that the Lord Jesus was not raised. This repetition is made not only to highlight the importance of this truth but also to draw attention to the absurdities that would result if it were not the case.",
+            "wordCount": 70,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.7215054410728636,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+            "commentatorTierSimilarities": [
+                25.04,
+                42.68,
+                32.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The repetition seen in this passage serves to underscore the significance of the argument being made. It emphasizes the unanswerable force of the reasoning presented, highlighting the truth that if there is no resurrection, then it would follow that the Lord Jesus was not raised. This repetition is not only meant to draw attention to the importance of this truth but also to emphasize the absurdities that would ensue if it were not the case.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.6288954988973767,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                24.51,
+                40.77,
+                34.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The repetition in this section emphasizes the significance of the argument being made, reinforcing the unanswerable force of the reasoning presented. By restating the truth that if there is no resurrection, it follows that the Lord Jesus was not raised, this repetition highlights the importance of this truth. Additionally, it draws attention to the absurdities that would arise if this truth were not the case.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.6665162154624573,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                22.56,
+                41.93,
+                35.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The repeated premise in this verse reinforces the undeniable strength of the argument being presented. It serves to emphasize the importance of the truth that if there is no resurrection, then it logically follows that the Lord Jesus was not raised. This forceful repetition highlights the significance of this truth and brings attention to the nonsensical implications that would follow if it were not the case.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7039540264673376,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                25.26,
+                40.98,
+                33.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The repetition in this section underscores the unanswerable force of the argument, reinforcing the significance of the truth being conveyed. By restating that if there is no resurrection, then it follows that the Lord Jesus was not raised, this repetition highlights the importance of this truth. Moreover, it draws attention to the absurdities that would result if this truth were to be rejected.",
+            "wordCount": 63,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.659703279336536,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+            "commentatorTierSimilarities": [
+                23.83,
+                40.88,
+                35.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

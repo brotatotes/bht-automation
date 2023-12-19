@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:22:19",
+    "verseRef": "Colossians 4:10",
+    "bestBHT": {
+        "bht": "Mark, referred to as a fellow-prisoner, was at the center of a dispute between Paul and Barnabas due to his past unfaithfulness. However, Paul now commends Mark wholeheartedly, explaining that the rift has been resolved and that Mark has made amends. This recommendation highlights the kinship between Mark and Barnabas and explains Barnabas' favorable view of Mark's defection. The terms fellow-prisoner, fellow-servant, and fellow-worker could be applied to both Mark and others associated with Paul. Paul's commendation of Mark is genuine and reflects his lack of malice towards him.",
+        "wordCount": 95,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 2.0204187170345955,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.52,
+        "commentatorTierSimilarities": [
+            41.78,
+            30.07,
+            28.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Fellow-prisoner\" belongs to the same image of warfare, as \"fellow-soldier.",
+            "Mark... accompanied Paul and Barnabas in part of their first missionary journey, and because he turned back from them at Perga, was the subject of dispute between them on their second journey.",
+            "It is very possible, that in consequence of the rejection of John Mark on that occasion by St. Paul, the Pauline portion of the churches may have looked upon him with suspicion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Greek for 'fellow prisoner' is literally, fellow captive, an image from prisoners taken in warfare, Christians being 'fellow soldiers' whose warfare is 'the good fight of faith.'\" ",
+            "The family belonged to Cyprus; this accounts for Barnabas' choice of Cyprus as the first station on their journey, and for Mark's accompanying them readily so far, it being the country of his family.",
+            "Hence, though Paul had not personally visited the Colossian Church, they knew of the past unfaithfulness of Mark; and needed this recommendation of him, after the temporary cloud on him, so as to receive him, now that he was about to visit them as an evangelist."
+        ],
+        "Albert Barnes": [
+            "He, together with Gaius, had been seized in the tumult at Ephesus and treated with violence, but he adhered to the apostle in all his troubles, and attended him all his perils.",
+            "They afterward became reconciled, and Paul mentions Mark here with affection. He sent for him when he sent Tychicus to Ephesus, and it seems that he had come to him in obedience to his request.",
+            "Paul retained no malice, and now commended, in the warmest manner, one from whom he was formerly constrained to separate."
+        ],
+        "Marvin Vincent": [
+            "All the three terms fellow-prisoner, fellow-servant, fellow-worker - might be applied to both.",
+            "Reasons unknown to us may easily have determined the use of one word or the other, independently of the question as to the particular time when they were in imprisonment.",
+            "This incidental notice explains why Barnabas should have taken a more favorable view of Mark's defection than Paul."
+        ],
+        "John Calvin": [
+            "From this it appears that there were others that were associated with Paul, after he was brought to Rome.",
+            "They were careful in furnishing attestations, that they might distinguish good men from false brethren \u2014 from pretenders, from impostors, and multitudes of vagrants.",
+            "The same care is more than simply necessary at the present day, both because good teachers are coldly received, and because credulous and foolish men lay themselves too open to be deceived by impostors."
+        ],
+        "Philip Schaff": [
+            "Aristarchus my fellow-prisoner saluteth you.",
+            "And Mark. Doubtless the Evangelist.",
+            "If he come unto you, receive him."
+        ],
+        "Archibald T. Robertson": [
+            "But now cordially commended because he had made good again.",
+            "The cousin of Barnabas...this kinship explains the interest of Barnabas in Mark.",
+            "Paul's commendation of Mark is hearty and unreserved."
+        ],
+        "John Gill": [
+            "He was a constant companion of the apostle, and one of his fellow labourers, as in Philemon 1:24 and now a prisoner with him at Rome.",
+            "He is also mentioned 2 Timothy 4:11.",
+            "Barnabas being so great a man as he was, and so well known, it added some credit to Mark, that he was a relation of his."
+        ],
+        "John Wesley": [
+            "Aristarchus my fellowprisoner \u2014 Such was Epaphras likewise for a time, Philemon 1:23.",
+            "Ye have received directions \u2014 Namely, by Tychicus, bringing this letter.",
+            "The ancients adapted their language to the time of reading the letter; not, as we do, to the time when it was written."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse mentions Mark, referred to as a fellow-prisoner, who had been the subject of dispute between Paul and Barnabas due to his past unfaithfulness. However, Paul now commends Mark wholeheartedly, explaining that the rift has been resolved and that Mark has made amends. It is likely that the Colossian Church was aware of Mark's past and needed this recommendation to receive him as an evangelist. This recommendation also highlights the kinship between Mark and Barnabas and explains Barnabas' favorable view of Mark's defection. The use of the terms fellow-prisoner, fellow-servant, and fellow-worker can be applied to both Mark and others associated with Paul. Paul's commendation of Mark is genuine and shows his lack of malice towards him.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.008467237665905,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                41.2,
+                30.2,
+                28.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mark, referred to as a fellow-prisoner, was at the center of a dispute between Paul and Barnabas due to his past unfaithfulness. However, Paul now commends Mark wholeheartedly, explaining that the rift has been resolved and that Mark has made amends. This recommendation highlights the kinship between Mark and Barnabas and explains Barnabas' favorable view of Mark's defection. The terms fellow-prisoner, fellow-servant, and fellow-worker could be applied to both Mark and others associated with Paul. Paul's commendation of Mark is genuine and reflects his lack of malice towards him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.0204187170345955,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.52,
+            "commentatorTierSimilarities": [
+                41.78,
+                30.07,
+                28.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mark, who was once the subject of dispute between Paul and Barnabas due to his past unfaithfulness, is now commended wholeheartedly by Paul. This recommendation is significant as it assures the Colossian Church that the rift has been resolved and that Mark has made amends. The mention of Mark being a fellow-prisoner emphasizes the imagery of Christians as fellow soldiers in the battle of faith. It is evident that Paul's commendation of Mark is sincere, reflecting a lack of malice and a desire for reconciliation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.925618918309827,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.37,
+            "commentatorTierSimilarities": [
+                41.75,
+                29.75,
+                28.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark, once the subject of dispute between Paul and Barnabas due to his past unfaithfulness, is now wholeheartedly commended by Paul. This emphasizes the resolution of their rift and Mark's amends. The recommendation serves to reassure the Colossian Church of Mark's trustworthiness as he prepares to visit them as an evangelist. The use of the term fellow-prisoner highlights the image of Christians as fellow soldiers engaged in the battle of faith. Paul's hearty commendation reveals his genuine goodwill towards Mark, demonstrating reconciliation and forgiveness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.8118380755029726,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                43.76,
+                29.73,
+                26.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mark, who was once the subject of dispute between Paul and Barnabas, is now commended wholeheartedly by Paul. This recommendation highlights the resolution of their rift and Mark's amends. It assures the Colossian Church that Mark's past unfaithfulness is no longer a concern and that he is now worthy to be received as an evangelist. The term fellow-prisoner symbolizes the shared struggle of Christians as fellow soldiers in the battle of faith. Paul's sincere commendation reflects his genuine goodwill towards Mark, revealing reconciliation and forgiveness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.7919354457119803,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.92,
+            "commentatorTierSimilarities": [
+                41.26,
+                30.59,
+                28.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

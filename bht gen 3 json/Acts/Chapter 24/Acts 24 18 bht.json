@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:36:05",
+    "verseRef": "Acts 24:18",
+    "bestBHT": {
+        "bht": "In the midst of my vow, engaged in the sacred service of the temple, and presenting my offerings, I was found purified and quiet by certain Jews from Asia. They falsely accused me of raising a tumult and polluting the temple, yet they failed to produce legal officers or any substantiation for their charges. Contrary to their claims, I neither gathered a crowd nor caused a stir, but instead conducted myself in a manner that was honorable and befitting the worship and service of the temple.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.962435355794391,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+        "commentatorTierSimilarities": [
+            17.81,
+            34.97,
+            47.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Amidst which they found me purified in the temple, none who detected me in the act of raising a tumult.\" ",
+            "This would leave it to be inferred that no legal officers had apprehended him, but certain private individuals, illegally.",
+            "Who besides had not come forward to substantiate any charge against him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "found me purified in the temple\u2014not polluting it, therefore, by my own presence",
+            "neither gathering a crowd nor raising a stir",
+            "why are they not here to substantiate it?"
+        ],
+        "Albert Barnes": [
+            "They found me engaged in the sacred service of completing the observance of my vow.",
+            "Not having introduced a multitude with me - in a quiet and peaceful manner."
+        ],
+        "Marvin Vincent": [
+            "Whereupon [\u03b5\u03bd \u03bf\u03b9\u03c2] . More correctly, in which (occupation); while so engaged.",
+            "The best texts, however, read ejn ai=v, in which, the pronoun agreeing in gender with offerings.",
+            "The sense, according to this, is, as Rev., margin, in presenting which (offerings)."
+        ],
+        "Philip Schaff": [
+            "The reading of the greater number of the more trustworthy MSS. here is \u1f10\u03bd \u03b1\u1f37\u03c2 instead of the received text \u03b5 \u0313 \u03bd \u03bf\u1f37\u03c2. This feminine form of the relative pronoun agrees with \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03b1\u03c2, offerings; and thus the meaning of Paul\u2019s words was as follows: \u2018These busybody strangers from Asia [Ephesus] found me in the temple certainly, but, far from profaning it, positively engaged in performing the rites and ceremonies which belonged to the fulfilment of a Nazarite\u2019s vow.\u2019",
+            "In the midst of which occupations they\u2019 (that is, the Jews) \u2018found me purified\u2019 (as a Nazarite) \u2018in the temple, neither with multitude nor with tumult; but certain Jews from Asia.\u2019 Here a verb is wanting to make the sense perfect.",
+            "The explanation of the omission is found, no doubt, in the speaker\u2019s earnestness, Luke having given us the very words (and no more) of this remarkable defence."
+        ],
+        "Archibald T. Robertson": [
+            "Purified in the temple... the very opposite of the charges made.",
+            "Not with a crowd.",
+            "Till they made the stir, all was quiet."
+        ],
+        "John Gill": [
+            "Certain Jews from Asia found me purified in the temple; and therefore could not be said to profane it.\" ",
+            "Not profaning the temple, as they pretended, but acting according to the worship and service of it.",
+            "Neither with a multitude; for there were but four men with him; nor with tumult; making any noise and riot, or stirring up persons to sedition and rebellion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of completing my vow and engaged in the sacred service of the temple, I was found by certain Jews from Asia who falsely accused me of raising a tumult and polluting the temple. However, they failed to produce any legal officers or substantiate their charges against me. Far from gathering a crowd or causing a stir, I was quietly offering my prayers and presenting my offerings. In fact, they found me purified in the temple, the very opposite of the charges made against me, and I was not profaning it in any way.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.832496728290962,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                22.63,
+                34.6,
+                42.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of my vow, engaged in the sacred service of the temple, and presenting my offerings, I was found purified and quiet by certain Jews from Asia. They falsely accused me of raising a tumult and polluting the temple, yet they failed to produce legal officers or any substantiation for their charges. Contrary to their claims, I neither gathered a crowd nor caused a stir, but instead conducted myself in a manner that was honorable and befitting the worship and service of the temple.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.962435355794391,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "commentatorTierSimilarities": [
+                17.81,
+                34.97,
+                47.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst completing my vow and engaged in the sacred service of the temple, I was found purified by certain Jews from Asia, who falsely accused me of raising a tumult and polluting the temple. However, they failed to substantiate their charges or produce legal officers. In reality, I was quietly presenting my offerings, not gathering a crowd or causing any disturbance. Their accusations were baseless, as I was behaving in a manner that upheld the sanctity of the temple.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.7343467999589586,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.01,
+            "commentatorTierSimilarities": [
+                23.68,
+                33.71,
+                42.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Engaged in the sacred service of the temple, presenting my offerings and completing my vow, I was found purified by certain Jews from Asia. Though they accused me of raising a tumult and polluting the temple, they failed to substantiate their charges or produce any legal authorities. In reality, I was quietly going about my worship, without gathering a crowd or causing any disturbance. Their accusations were baseless, as I was behaving in a manner that upheld the sanctity and proper worship of the temple.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8375668920570978,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                18.81,
+                34.63,
+                46.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the temple, engaged in the sacred service, I was found purified by certain Jews from Asia. Despite their false accusations of raising a tumult and polluting the temple, they failed to substantiate their claims or produce any legal officers. In truth, I was quietly presenting my offerings, not gathering a crowd or causing any disruption. Their accusations lacked credibility, as I conducted myself in a manner that honored the sanctity and proper worship of the temple.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.801604783073496,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+            "commentatorTierSimilarities": [
+                20.46,
+                33.77,
+                45.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:12:59",
+    "verseRef": "Philemon 6",
+    "bestBHT": {
+        "bht": "May your faith be shown through acts of love and generosity towards others, proving its genuineness and efficacy. The Apostle Paul's desire is for your faith to bear fruit, demonstrating its power and transformative nature. As you share your faith with others and meet their needs, you not only display the goodness of God, but also deepen your knowledge and understanding of His blessings. Let your faith become effective through tangible actions that testify to the transformative work of Christ in your life and bring honor to His name.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 2.273664671411678,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.94,
+        "commentatorTierSimilarities": [
+            27.08,
+            34.65,
+            38.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The mixing of prayer and thanksgiving in that clause does not exclude the idea of intercessory prayer.",
+            "To join 'that the communication... of every good thing' with ver. 5, is flat in the extreme, and perfectly inconceivable as a piece of St. Paul's writing.",
+            "In order that the communication of thy faith may become effectual in the thorough knowledge of every good thing which is in us to Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the communication of thy faith \u2014 the imparting of it and its fruits",
+            "the liberality to others flowing from thy faith",
+            "that thy faith may by acts be proved to be 'a faith which worketh by love.'"
+        ],
+        "Albert Barnes": [
+            "The meaning is, that he desired that Philemon would so make common the proper fruits of faith by his good deeds toward others, that all might acknowledge it to be genuine and efficacious.",
+            "The truth which is taught in this passage, therefore, is, that when faith exists in the heart, it is very desirable that it should impart its proper fruits toward others in such a way that all may see that it is operative, and may recognize its power.",
+            "We should wish that he may have all the credit and honor which the goodness of his heart is entitled to."
+        ],
+        "Marvin Vincent": [
+            "The active sympathy and charity growing out of your faith.",
+            "His liberality and love will result in perfect knowledge of God's good gifts.",
+            "He that gives for Christ's sake becomes enriched in the knowledge of Christ."
+        ],
+        "John Calvin": [
+            "That his faith, exercising itself by good works, might be proved to be true, and not unprofitable.",
+            "He calls it 'the communication of faith,' because it does not remain inactive and concealed within, but is manifested to men by actual effects.",
+            "Everything in us that is good makes known our faith."
+        ],
+        "Philip Schaff": [
+            "Good works, the fruits of faith, build up the Christian character to greater perfection.",
+            "The word [knowledge], a favourite one with St. Paul and St. Peter, is not the simple word for \u2018knowledge,\u2019 but implies a continual growth therein, a constant learning, and approach to perfect knowledge.",
+            "The full drift of his prayer is, that Philemon\u2019s faith may teach him still more to do good to the brethren, and thus showing its true influence, may lead him to know to the full unto what goodness both he and the rest of the Christians, his fellows, may attain in Christ Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "Connected with \u03bc\u03bd\u03b5\u03b9\u03b1\u03bd \u03c0\u03bf\u03b9\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c2.",
+            "Partnership like Philippians 1:5 in (objective genitive, \u03c0\u03b9\u03c3\u03c4\u03b5\u03c9\u03c2).",
+            "Common adjective, like \u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c2 (at work), in N.T. only here, 1 Corinthians 16:9; Hebrews 4:12."
+        ],
+        "John Gill": [
+            "An account of it, of its actings and exercises, of the joy of it, and of the peace a soul is filled with through believing, may be given to the mutual comfort and edification of saints.\" ",
+            "Communicating to the necessities of others, as flowing from faith; and these words are to be connected with Philemon 1:4 as a part of the apostle's prayers.",
+            "Every good thing that is communicated, or done in faith, which is effectual to any good purpose, should be owned as done by the grace and strength of Christ, and be done to his saints, as if done to himself, and be directed to his glory."
+        ],
+        "John Wesley": [
+            "I pray that the communication of thy faith may become effectual - That is, that thy faith may be effectually communicated to others, who see and acknowledge thy piety and charity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May your faith be evident through your acts of love and generosity towards others, so that all may witness the true power and authenticity of your faith. The Apostle Paul's prayer is that your faith may be proven to be genuine and fruitful, displaying itself through good works and selfless giving. By sharing your faith with others and meeting their needs, you not only demonstrate the transforming power of Christ in your life, but also gain a deeper knowledge and understanding of the blessings and goodness of God. Let your faith be a living testimony, impacting others and bringing glory to the name of Christ.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.3109110852612984,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+            "commentatorTierSimilarities": [
+                26.52,
+                33.56,
+                39.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May your faith be shown through acts of love and generosity towards others, proving its genuineness and efficacy. The Apostle Paul's desire is for your faith to bear fruit, demonstrating its power and transformative nature. As you share your faith with others and meet their needs, you not only display the goodness of God, but also deepen your knowledge and understanding of His blessings. Let your faith become effective through tangible actions that testify to the transformative work of Christ in your life and bring honor to His name.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.273664671411678,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.94,
+            "commentatorTierSimilarities": [
+                27.08,
+                34.65,
+                38.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the manifestation of your faith be seen in your acts of love and generosity towards others, proving its authenticity and effectiveness. The Apostle Paul's prayer is that your faith may produce tangible results, demonstrating its transformative power. By sharing your faith and meeting the needs of others, you not only show the goodness of God but also grow in your understanding of His blessings. Let your faith be active and impactful, providing evidence of Christ's work in your life and bringing glory to His name.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.2432863820369735,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.93,
+            "commentatorTierSimilarities": [
+                27.44,
+                32.19,
+                40.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May your faith be authentically demonstrated through your acts of love and generosity towards others, proving its efficacy and transforming power. The Apostle Paul's prayer is that your faith may result in tangible outcomes, providing evidence of the active synergy between your faith and good deeds. By sharing your faith and meeting the needs of others, you not only exhibit the goodness of God but also deepen your understanding of His blessings. Let your faith be a living testimony that impacts others and brings glory to His name.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.248471868234689,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.1,
+            "commentatorTierSimilarities": [
+                26.45,
+                33.12,
+                40.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May your faith be made evident through your acts of love and generosity, serving as proof of its authenticity and effectiveness. The Apostle Paul desires for your faith to produce tangible results, demonstrating its transformative power. Through sharing your faith and meeting the needs of others, you not only reveal the goodness of God but also gain a deeper knowledge of His blessings. Let your faith be active and impactful, providing a testimony of Christ's work in your life and bringing honor to His name.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.2328299216453136,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                27.78,
+                32.86,
+                39.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

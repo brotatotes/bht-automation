@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:04:10",
+    "verseRef": "1 Corinthians 5:9",
+    "bestBHT": {
+        "bht": "In a lost letter to the Corinthians, Paul had cautioned them against associating with covetous individuals and extortioners, emphasizing the importance of refraining from close and habitual contact with such people. The command not to company with fornicators highlights the need for believers to exercise caution in their relationships, as maintaining intimate connections with those involved in immoral activities can bring disrepute to the faith. Discernment is crucial, as believers should limit their close interactions with individuals whose behavior goes against God's standards.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.7795164141037838,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.51,
+        "commentatorTierSimilarities": [
+            21.43,
+            35.06,
+            43.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I wrote unto you in my letter (not this present epistle,\u2014for there is nothing in the preceding part of this Epistle which can by any possibility be so interpreted.",
+            "but, a former epistle, which has not come down to us.",
+            "covetous and extortioners are joined by and, as belonging to the same class\u2014that of persons greedy of money."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That Paul does not refer to the present letter is proved by the fact that no direction 'not to company with fornicators' occurs in the previous part of it.",
+            "His letters (plural; not applying to merely one) confirm this.",
+            "Paul probably wrote a former brief reply to inquiries of the Corinthians: our first Epistle, as it enters more fully into the same subject, has superseded the former, which the Holy Spirit did not design for the guidance of the Church in general, and which therefore has not been preserved."
+        ],
+        "Albert Barnes": [
+            "It is not true that Paul had in any former part of this Epistle given this direction. He had commanded them to remove an incestuous person, and such a command might seem to imply that they ought not to keep company with such a person; but it was not a general command not to have contact with them.\" ",
+            "It is altogether probable that Paul would write more letters than we have preserved. We have but fourteen of his remaining. Yet he labored many years; founded many churches; and had frequent occasion to write to them.\" ",
+            "If it be objected that this may affect the doctrine of the inspiration of the New Testament, since it is not to be supposed that God would suffer the writings of inspired men to be lost, we may reply... It does not prove that these are not from God. If a man loses a guinea it does not prove that those which he has not lost are counterfeit or worthless."
+        ],
+        "Marvin Vincent": [
+            "The reference is probably to a former letter now lost.",
+            "To company [\u03c3\u03c5\u03bd\u03b1\u03bd\u03b1\u03bc\u03b9\u03b3\u03bd\u03c5\u03c3\u03b8\u03b1\u03b9] : Only here and 2 Thessalonians 3:14.",
+            "It denotes, therefore, not only close, but habitual, intercourse."
+        ],
+        "John Calvin": [
+            "He reminds the Corinthians of what he had already enjoined upon them \u2014 that they should refrain from intercourse with the wicked.\" ",
+            "Let all that wish to be reckoned brethren, either live holily and becomingly, or be excommunicated from the society of the pious, and let all the good refrain from intercourse and familiarity with them.\" ",
+            "This exception, however, increases the criminality of remissness, inasmuch as they cherished in the bosom of the Church an openly wicked person; for it is more disgraceful to neglect those of your own household than to neglect strangers."
+        ],
+        "Philip Schaff": [
+            "What Epistle is here referred to?... The only alternative is, that there is here a reference to some previously-written letter to that church not now preserved.\" ",
+            "Nor is this unworthy of Inspiration, as is evident from the Old Testament prophetic writings, which are very far from containing all that the prophets uttered by inspiration.",
+            "Certain it is that the Corinthians sent written questions to the apostle on points of practical difficulty, and even on this very subject (1 Corinthians 7:1); and if one of these related to what intercourse, if any, they should keep up with their heathen friends and fellow-citizens, and a messenger was then going to Corinth who could take his answer, how naturally might he send a hasty reply by him, with the promise to write more fully thereafter!"
+        ],
+        "Archibald T. Robertson": [
+            "I wrote unto you in my epistle. Not the epistolary aorist, but a reference to an epistle to the Corinthians earlier than this one, one not preserved to us.",
+            "To have no company with fornicators. It is a pertinent question today how far modern views try to put a veneer over the vice in men and women.",
+            "What a 'find' it would be if a bundle of papyri in Egypt should give it back to us?"
+        ],
+        "John Gill": [
+            "No doubt the apostle wrote other epistles to the Corinthians, besides those that are in being; nor does such a supposition at all detract from the perfection of Scripture.",
+            "This prohibition does not regard unclean copulation, or a joining with them in the sin of fornication, they had been used to in a state of unregeneracy, for some sort of companying with fornicators is allowed of in the next verse; whereas no degree of a sinful mixture with them would ever be tolerated.",
+            "It is to be understood of a civil society and familiar conversation with them; which might bring a reproach upon religion, be a stumbling to weak Christians, and be of dangerous consequence to themselves and others."
+        ],
+        "John Wesley": [
+            "I wrote to you in a former epistle \u2014 And, doubtless, both St. Paul and the other apostles wrote many things which are not extant now.",
+            "Not to converse \u2014 Familiarly; not to contract any intimacy or acquaintance with them, more than is absolutely necessary."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds the Corinthians of what Paul had previously written to them in another letter, which unfortunately has been lost. Paul had cautioned against the company of those who are covetous and greedy for money, including extortioners. The reference to not to company with fornicators does not mean a total avoidance of contact, but rather a prohibition of close and habitual interaction with them. It is important for believers to be cautious of their associations, as maintaining close relationships with ungodly individuals can not only bring disrepute to the faith but also be detrimental to their own spiritual well-being.",
+            "wordCount": 101,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.9296794626126754,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+            "commentatorTierSimilarities": [
+                27.36,
+                34.96,
+                37.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a previous letter to the Corinthians, now lost, Paul warned them against associating with covetous and extortionist individuals. The command not to company with fornicators does not imply a complete avoidance of contact, but rather a prohibition of close and habitual interaction. Believers should be cautious of their associations, as maintaining intimate relationships with the ungodly can bring disrepute to the faith. It is important to exercise discernment and limit close interactions with those whose lifestyles contradict God's standards.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.7373710728941396,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+            "commentatorTierSimilarities": [
+                22.22,
+                34.76,
+                43.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a lost letter to the Corinthians, Paul had cautioned them against associating with covetous individuals and extortioners, emphasizing the importance of refraining from close and habitual contact with such people. The command not to company with fornicators highlights the need for believers to exercise caution in their relationships, as maintaining intimate connections with those involved in immoral activities can bring disrepute to the faith. Discernment is crucial, as believers should limit their close interactions with individuals whose behavior goes against God's standards.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.7795164141037838,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.51,
+            "commentatorTierSimilarities": [
+                21.43,
+                35.06,
+                43.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a letter to the Corinthians that has not been preserved, Paul had warned against associating with covetous and greedy individuals. The command not to company with fornicators does not imply complete avoidance, but rather a prohibition of close and habitual interaction. Believers should exercise caution in their associations, as maintaining intimate relationships with ungodly individuals can bring disrepute to the faith. Discernment is vital, as believers should limit close interactions with those whose actions contradict God's standards.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.748966595771055,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                24.2,
+                34.22,
+                41.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a lost letter to the Corinthians, Paul had cautioned against associating with covetous and greedy individuals, as well as with fornicators. The command not to company with fornicators does not mean a complete avoidance of contact, but rather a prohibition of close and habitual interaction. It is important for believers to exercise discernment in their relationships, as maintaining close associations with ungodly individuals can bring disrepute to the faith. Therefore, believers should be cautious and limit their close interactions with those whose actions go against God's standards.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.7591961387381976,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.84,
+            "commentatorTierSimilarities": [
+                23.47,
+                33.11,
+                43.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

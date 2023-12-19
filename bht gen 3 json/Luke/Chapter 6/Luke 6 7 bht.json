@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:15:34",
+    "verseRef": "Luke 6:7",
+    "bestBHT": {
+        "bht": "The Scribes and Pharisees were watching Jesus closely, eager to see if He would heal on the Sabbath. Their intent was to find an accusation against Him, just as they had done before with His disciples. Their vigilant observation reflected their determination to build a case against Him, certain that their presence alone would prevent any fraudulent action on the part of Jesus.",
+        "wordCount": 63,
+        "quoteTokenProportion": 54.9,
+        "qualityScore": 1.6846179220500428,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.36,
+        "commentatorTierSimilarities": [
+            27.7,
+            0.0,
+            72.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Watched whether, &amp;c.\u2014In Matthew (Matthew 12:9) this is put as an ensnaring question of theirs to our Lord, who accordingly speaks to the state of their hearts (Matthew 12:9- :), just as if they had spoken it out."
+        ],
+        "Marvin Vincent": [
+            "They kept watching.\" (5 words)",
+            "Whether he is healing.\" (4 words)",
+            "Emphasizing the eagerness\" (3 words)"
+        ],
+        "Archibald T. Robertson": [
+            "Watched him... were watching for themselves on the side.\" ",
+            "Watching either assiduously like the physician at the bedside or insidiously with evil intent as here.",
+            "They were determined to make a case against Jesus. They felt sure that their presence would prevent any spurious work on the part of Jesus."
+        ],
+        "John Gill": [
+            "And the Scribes and Pharisees watched him, whether he would heal on the sabbath day: there being such an object before him.\" ",
+            "That they might find an accusation against him; as they had before against his disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders watched Jesus closely, eagerly emphasizing whether He would heal on the Sabbath, either with the diligence of a physician or with sinister intent. They were determined to make a case against Him, confident that their presence alone would deter any spurious work by Jesus. Their vigilant watchfulness reflected their previous efforts to accuse Him and his disciples.",
+            "wordCount": 60,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.5212251539242114,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.92,
+            "commentatorTierSimilarities": [
+                32.8,
+                0.0,
+                67.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Scribes and Pharisees closely watched Jesus, whether He would heal on the Sabbath day. Their intent was to find an accusation against Him, just as they had done previously with His disciples. Their careful observation and eager scrutiny of His actions on the Sabbath reflected their determination to build a case against Him.",
+            "wordCount": 54,
+            "quoteTokenProportion": 48.84,
+            "qualityScore": 1.6380510533409134,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+            "commentatorTierSimilarities": [
+                24.25,
+                0.0,
+                75.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders kept a close watch on Jesus, eagerly emphasizing if He would heal on the Sabbath. Their keen eye reflected either the diligence of a physician at a bedside or the evil intention of finding an accusation against Him, as they had done before with His disciples. Confident in their presence, they were determined to prevent any spurious work by Jesus, firmly believing that their vigilance would make a compelling case against Him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.5858985622441368,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+            "commentatorTierSimilarities": [
+                33.02,
+                0.0,
+                66.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Scribes and Pharisees were watching Jesus closely, eager to see if He would heal on the Sabbath. Their intent was to find an accusation against Him, just as they had done before with His disciples. Their vigilant observation reflected their determination to build a case against Him, certain that their presence alone would prevent any fraudulent action on the part of Jesus.",
+            "wordCount": 63,
+            "quoteTokenProportion": 54.9,
+            "qualityScore": 1.6846179220500428,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.36,
+            "commentatorTierSimilarities": [
+                27.7,
+                0.0,
+                72.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees and Scribes were eagerly and insidiously watching Jesus, observing whether he would dare to heal on the Sabbath. Their presence served as a desperate attempt to catch him in wrongdoing, as they were determined to build a case against him. Their intent was clear: to find an accusation against Jesus, just as they had done before with his disciples. It was a demonstration of their skepticism and desire to hinder any seemingly miraculous work from Jesus.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.551612722711536,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                29.72,
+                0.0,
+                70.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:39:00",
+    "verseRef": "1 Peter 2:6",
+    "bestBHT": {
+        "bht": "The exhortation here is substantiated by Old Testament prophecy, declaring that in Zion, a chosen and honored cornerstone will be placed. Those who believe in Him will not be put to shame. This is confirmed in Scripture, drawing attention to God's eternal counsel. Christ is the precious cornerstone, the foundation of the structure, upon which believers are safely laid and not intimidated by enemies. They will be secure in their person and state, now and for eternity.",
+        "wordCount": 78,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.783835461310328,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+        "commentatorTierSimilarities": [
+            32.58,
+            27.41,
+            40.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The exhortation of the previous verses is substantiated in its form and its assertions by Old Test. prophecy.\" ",
+            "Behold, I place in Zion a chief corner stone, chosen, had in honour.",
+            "He that believeth on Him shall not be ashamed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Because it is contained in Scripture.",
+            "Behold, calling attention to the glorious announcement of His eternal counsel.",
+            "Christ is said to be, to believers, 'precious.'"
+        ],
+        "Albert Barnes": [
+            "A chief cornerstone - The principal stone on which the corner of the edifice rests.",
+            "Elect - Chosen of God, or selected for this purpose.",
+            "And he that believeth on him shall not be confounded - Shall not be ashamed."
+        ],
+        "Marvin Vincent": [
+            "It is contained [\u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03b5\u03b9]... Hence, to contain or comprehend.",
+            "The best texts reject the article... in scripture; margin, in a scripture.",
+            "Behold I lay, etc. See Romans 9:33."
+        ],
+        "John Calvin": [
+            "There is no building up of the Church without Christ; for there is no other foundation but he.",
+            "Whosoever turns away from him in the least degree, will find his foundation a precipice.",
+            "To be ashamed (pudefieri) means the same thing. Peter has retained the real sense of the Prophet, though he has followed the Greek version."
+        ],
+        "Philip Schaff": [
+            "The reason why they are to be built up into a spiritual house with the view to being a holy priesthood offering spiritual sacrifices, lies in its having been God\u2019s will, as that is expressed in Scripture, to make Christ the foundation of His Church with that object.",
+            "The corner-stone is that stone in the foundation on which the angle of the building rests, and which is all-important to the stability of the building and the coherence of its parts.",
+            "The best interpreters are practically at one in recognising the doctrinal bearings of this brief but important section. Peter here expresses what Bishop Lightfoot holds Paul\u2019s language also to express, 'the fundamental idea of the Christian Church, in which a universal priesthood has supplanted the exclusive ministrations of a select tribe or class.'"
+        ],
+        "Archibald T. Robertson": [
+            "\u03b1\u03ba\u03c1\u03bf\u03b3\u03c9\u03bd\u03b9\u03b1\u03b9\u03bf\u03bd (a chief corner stone), a word apparently invented by Isaiah (from \u03b1\u03ba\u03c1\u03bf\u03c2, highest, and \u03b3\u03c9\u03bd\u03b9\u03b1\u03b9\u03bf\u03c2, Attic word for corner stone).\" ",
+            "Peter and Paul make it 'the primary foundation stone at the structure' (W. W. Lloyd).",
+            "Shall not be put to shame (\u03bf\u03c5 \u03bc\u03b7 \u03ba\u03b1\u03c4\u03b1\u03b9\u03c3\u03c7\u03c5\u03bd\u03b8\u03b7)."
+        ],
+        "John Gill": [
+            "Christ is here called a chief corner stone...and is precious both to God and man, on that account.\" ",
+            "He that believeth on him shall not be confounded...he shall be safe now, being laid on this stone; nor shall he be removed from it, or intimidated by any enemy.",
+            "His person and state will be safe, though many of his works may be burnt up."
+        ],
+        "John Wesley": [
+            "He that believeth shall not be confounded \u2014 In time or in eternity. Isaiah 28:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The exhortation in this verse is supported by Old Testament prophecies, specifically Isaiah, which declare that in Zion, a chief cornerstone will be placed, chosen and honored by God. Those who believe in Him will not be put to shame. This is confirmed by Scripture itself, drawing attention to the glorious announcement of God's eternal counsel. Christ is the precious cornerstone to believers and the foundation stone upon which the entire structure is built. Believers who trust in Him will not be confounded or ashamed, as they are safely laid on this stone and will not be intimidated by any enemy. They will be secure in their person and state, both now and for eternity.",
+            "wordCount": 116,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.8421314702377805,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.59,
+            "commentatorTierSimilarities": [
+                30.02,
+                30.74,
+                39.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The exhortation here is substantiated by Old Testament prophecy, declaring that in Zion, a chosen and honored cornerstone will be placed. Those who believe in Him will not be put to shame. This is confirmed in Scripture, drawing attention to God's eternal counsel. Christ is the precious cornerstone, the foundation of the structure, upon which believers are safely laid and not intimidated by enemies. They will be secure in their person and state, now and for eternity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.783835461310328,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+            "commentatorTierSimilarities": [
+                32.58,
+                27.41,
+                40.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The exhortation in this passage is supported by Old Testament prophecy, stating that a chief cornerstone will be placed in Zion, chosen and honored by God. Those who believe in Him will not be ashamed. This is confirmed by Scripture itself, emphasizing the glorious announcement of God's eternal plan. Christ is the precious cornerstone to believers, the foundation upon which the structure is built. Believers who trust in Him will not be confounded or intimidated by any enemy. Their person and state will be secure, now and for eternity.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7972237966813003,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                30.2,
+                30.54,
+                39.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The exhortation here is substantiated by Old Testament prophecy, declaring that in Zion, a chosen and honored cornerstone will be placed. Believers in Him will not be ashamed. This is confirmed by Scripture, emphasizing the glorious announcement of God's eternal plan. Christ is the precious cornerstone, the foundation upon which the structure is built. Believers who trust in Him will not be confounded or intimidated by any enemy. Their person and state will be secure, now and for eternity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.770547829464833,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                31.81,
+                28.98,
+                39.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse is a testament to the fulfillment of Old Testament prophecies, which declare the placement of a chosen and honored cornerstone in Zion. Believers in Him will not be put to shame, as Scripture confirms. Christ is the precious cornerstone, upon which the whole structure is built. His believers find security in Him, remaining unconfounded and unshaken by any enemy. Their safety lies in being firmly laid on this cornerstone, with their person and state preserved both in the present and for eternity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7735029580949702,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+            "commentatorTierSimilarities": [
+                30.8,
+                31.25,
+                37.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

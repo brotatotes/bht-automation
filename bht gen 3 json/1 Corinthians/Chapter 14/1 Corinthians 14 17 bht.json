@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 15:12:59",
+    "verseRef": "1 Corinthians 14:17",
+    "bestBHT": {
+        "bht": "The Apostle does not criticize the act of thanksgiving in tongues itself, as it is good and inspired by the Spirit. However, the problem arises when it is not done for the edification of others. This refers to the private individual who prays and gives thanks in a language that the rest of the congregation cannot understand. While their prayers may be heartfelt and skillful, they do not benefit others who cannot comprehend them. In contrast, the prayers of the Christian Church are seen as blessings and expressions of gratitude.",
+        "wordCount": 90,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.4196519531796743,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.55,
+        "commentatorTierSimilarities": [
+            37.36,
+            26.47,
+            36.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is not the act of thanksgiving in a tongue that the Apostle blames, for that is of itself good, being dictated by the spirit.",
+            "The doing it not to the edification of others.",
+            "The private man spoken of before."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The prayers of the Christian Church also were called blessings and giving of thanks.\" (17 words)",
+            "This illustrates Colossians 4:2; 1 Thessalonians 5:17; 1 Thessalonians 5:18.\" (12 words)",
+            "The Church's Lord's Prayer, repeated often and made the foundation on which the other prayers are built.\" (20 words)"
+        ],
+        "Albert Barnes": [
+            "You do it with the heart; and it is accepted by God as your offering.",
+            "The other, who cannot understand it, cannot be benefited by it."
+        ],
+        "Philip Schaff": [
+            "For thou verily givest thanks well, but the other is not edified.\" ",
+            "Your own part may be done out of a full heart, but all in vain to your hearers."
+        ],
+        "John Gill": [
+            "For thou verily givest thanks well,.... In very proper words, and pertinent expressions, with great affection and devotion, suitable to the service.\" ",
+            "but the other is not edified; the rest of the people, who do not understand the language in which thanks are given.\" ",
+            "the rest of the people [...] receives no manner of profit by it, because he does not understand what is said."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When it comes to speaking in tongues, the Apostle does not criticize the act of thanksgiving itself, as it is a good thing inspired by the Spirit. However, what he finds fault with is when it is done without regard for edifying others. This pertains to the private individual who prays and gives thanks in a language that is not understood by the rest of the congregation. They may offer their prayers with sincerity and skill, but if the others cannot comprehend what is being said, they will not benefit from it. In contrast, the prayers of the Christian Church are seen as a form of blessing and giving thanks, which aligns with other biblical references to the importance of prayer and gratitude.",
+            "wordCount": 123,
+            "quoteTokenProportion": 45.12,
+            "qualityScore": 1.3446147023781587,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.05,
+            "commentatorTierSimilarities": [
+                36.44,
+                25.74,
+                37.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When it comes to speaking in tongues, the Apostle does not criticize the act of thanksgiving itself, for it is good and inspired by the Spirit. However, the issue lies in not using this gift to edify others. This applies to the private individual who prays and gives thanks in a language not understood by the rest of the congregation. While their prayers may be sincere and skillful, it is all in vain if the hearers cannot comprehend them. This highlights the significance of the Church's prayers as blessings and expressions of gratitude.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.2980223221556382,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.5,
+            "commentatorTierSimilarities": [
+                35.31,
+                27.54,
+                37.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle does not condemn giving thanks in tongues, as it is a commendable act prompted by the Spirit. However, he emphasizes the importance of edification for others. Referring to speaking in tongues without interpretation, he discusses the private individual who prays and gives thanks in a language that is not understood by the rest of the congregation. Although heartfelt and skillful, such prayers do not benefit others who cannot understand them. This underscores the value of prayers within the Christian Church as blessings and expressions of gratitude.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.3445253401462858,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.05,
+            "commentatorTierSimilarities": [
+                38.06,
+                23.34,
+                38.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The issue at hand is not the act of giving thanks in tongues, which is praiseworthy and guided by the Spirit. Rather, the concern lies in the lack of edification for others. This pertains to the private individual who prays and offers thanks in a language that is not understood by the rest of the congregation. Even though their prayers may be genuine and eloquent, they are useless to those who cannot comprehend them. In contrast, the prayers of the Christian Church are considered as blessings and expressions of gratitude.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.3399170572760433,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.9,
+            "commentatorTierSimilarities": [
+                35.67,
+                25.81,
+                38.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle does not criticize the act of thanksgiving in tongues itself, as it is good and inspired by the Spirit. However, the problem arises when it is not done for the edification of others. This refers to the private individual who prays and gives thanks in a language that the rest of the congregation cannot understand. While their prayers may be heartfelt and skillful, they do not benefit others who cannot comprehend them. In contrast, the prayers of the Christian Church are seen as blessings and expressions of gratitude.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.4196519531796743,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.55,
+            "commentatorTierSimilarities": [
+                37.36,
+                26.47,
+                36.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

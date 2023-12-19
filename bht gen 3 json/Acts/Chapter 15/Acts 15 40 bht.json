@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:31:59",
+    "verseRef": "Acts 15:40",
+    "bestBHT": {
+        "bht": "After the dispute between Paul and Barnabas, Paul chose Silas as his companion, who was recommended by the church at Antioch. The majority of Antioch Christians sided with Paul, showing their sympathy towards him. Silas, also known as Silvanus, received a solemn official sanction to his mission and was commended by prayer to the grace of God. The grace of God is mighty, overcoming all opposition and preserving us in the midst of the world's snares and our own weaknesses. Paul and Barnabas later reconciled, with John being admitted as a companion in Paul's labors.",
+        "wordCount": 97,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 2.2935588606374577,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.6,
+        "commentatorTierSimilarities": [
+            31.64,
+            32.15,
+            36.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He may perhaps have come down again to Antioch in Peter's company.",
+            "We find a Silvanus (which is the same name) in 1 Pet. v. 12.",
+            "The bearer of that epistle to the congregations of Asia Minor."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "[The Church at Antioch] does not follow from the historian's silence that Barnabas was not so recommended, too.",
+            "This is the last mention of Barnabas in the history, whose sole object now is to relate the proceedings of Paul.",
+            "Nor does it seem quite fair to conclude from this that the Church at Antioch took that marked way of showing their sympathy with Paul in opposition to Barnabas."
+        ],
+        "Albert Barnes": [
+            "Being recommended - Being commended by prayer to God. See notes on Acts 14:26."
+        ],
+        "Marvin Vincent": [
+            "Recommended. Which was not the case with Barnabas, leading to the inference that the church at Antioch took Paul 's side in the dispute. "
+        ],
+        "Philip Schaff": [
+            "A leader in the Jerusalem Church, and one who stood high in the opinion of the apostles and elders of the mother Church, he was able, from his own personal knowledge, to bear his testimony to the perfect accord which reigned between Paul and the older apostles.",
+            "The feeling of the majority of the Antioch Christians in the matter of the dispute between Paul and Barnabas was evidently with the former.",
+            "He was especially commended by the brethren to the grace of God, thus receiving a solemn official sanction to his mission."
+        ],
+        "Archibald T. Robertson": [
+            "Choosing for himself, as the successor of Barnabas, not of Mark who had no place in Paul's plans at this time.",
+            "The sympathy of the church at Antioch is with Paul rather than with Barnabas in the cleavage that has come.",
+            "He is the Silas or Silvanus of the epistles."
+        ],
+        "John Gill": [
+            "And Paul chose Silas.... To be his companion and assistant; this being the design of the Holy Ghost\" (Acts 15:40).",
+            "The apostle having such a recommendation by the brethren of the church at Antioch, when he departed from them\" (Acts 15:40).",
+            "Nothing of this kind being said with respect to Barnabas, have induced some to think, that the church took the part of the apostle against Barnabas\" (Acts 15:40)."
+        ],
+        "John Wesley": [
+            "But Paul departed... being recommended by the brethren to the grace of God.\" ",
+            "O how mighty is the grace of God! which in the midst of the world, in the midst of sin, among so many snares of Satan, and in spite of the incredible weakness and depravity of nature, yet overcomes all opposition, sanctifies, sustains, and preserves us to the end!\" ",
+            "It appears not only that Paul and Barnabas were afterward thoroughly reconciled, but also that John was again admitted by St. Paul as a companion in his labours."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the dispute between Paul and Barnabas, Paul chose Silas as his companion and assistant, perhaps coming down again to Antioch in Peter's company. Silas, also known as Silvanus, was recommended by the church at Antioch and had the sympathy and support of the majority of the Antioch Christians. He was commended by prayer to the grace of God, receiving a solemn official sanction to his mission. While the historian's silence does not indicate that Barnabas was not similarly recommended, it seems that the church at Antioch took Paul's side in the disagreement. Despite this division, Paul and Barnabas were later reconciled, with John being admitted as a companion in Paul's labors. The grace of God is truly powerful, enabling us to overcome opposition and preserving us in the midst of the world and its snares.",
+            "wordCount": 140,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.2988649403102452,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.78,
+            "commentatorTierSimilarities": [
+                33.26,
+                30.95,
+                35.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the dispute between Paul and Barnabas, Paul chose Silas as his companion, who was recommended by the church at Antioch. The majority of Antioch Christians sided with Paul, showing their sympathy towards him. Silas, also known as Silvanus, received a solemn official sanction to his mission and was commended by prayer to the grace of God. The grace of God is mighty, overcoming all opposition and preserving us in the midst of the world's snares and our own weaknesses. Paul and Barnabas later reconciled, with John being admitted as a companion in Paul's labors.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.2935588606374577,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.6,
+            "commentatorTierSimilarities": [
+                31.64,
+                32.15,
+                36.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the dispute, Paul chose Silas as his companion, recommended by the church at Antioch. The majority of Antioch Christians sided with Paul, showing their sympathy towards him. Silas, also known as Silvanus, received a solemn official sanction and was commended by prayer to the grace of God. The grace of God is mighty, overcoming all opposition and preserving us amidst the world's snares. Paul and Barnabas later reconciled, with John being admitted as a companion in Paul's labors.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.2360633236255913,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.69,
+            "commentatorTierSimilarities": [
+                31.29,
+                33.12,
+                35.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the dispute, Paul chose Silas as his companion, recommended by the church at Antioch. The majority of Antioch Christians sided with Paul, showing their sympathy towards him. Silas received a solemn official sanction and was commended by prayer to the grace of God. The grace of God is mighty, overcoming all opposition and preserving us amidst the world's snares. Paul and Barnabas later reconciled, with John being admitted as a companion in Paul's labors.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.231444041146616,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.54,
+            "commentatorTierSimilarities": [
+                31.08,
+                33.28,
+                35.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the dispute, Paul chose Silas as his companion, recommended by the church at Antioch. The majority of Antioch Christians showed their sympathy towards Paul, indicating that they took his side in the disagreement. Silas, also known as Silvanus, received a solemn official sanction and was commended by prayer to the grace of God. The grace of God is mighty, overcoming opposition and preserving believers amidst the snares of the world. Although there was division, Paul and Barnabas were later reconciled, and John was again admitted as a companion in Paul's work.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.263492540342088,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.6,
+            "commentatorTierSimilarities": [
+                30.66,
+                33.66,
+                35.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

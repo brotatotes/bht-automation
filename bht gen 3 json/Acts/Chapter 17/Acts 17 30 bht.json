@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:33:11",
+    "verseRef": "Acts 17:30",
+    "bestBHT": {
+        "bht": "In the times of ignorance, God overlooked the idolatry and ignorance of the nations. However, with the coming of Jesus Christ, a new light has dawned, and God now commands all people everywhere to repent. This command highlights the duty of all humans to obey God's commandments. Repentance is not a choice, but a necessary response to God's revelation. It is through repentance that people can turn from their idols and worship the one true God. The call to repentance extends to all nations, as God desires all people to know Him and turn from their sinful ways.",
+        "wordCount": 100,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 2.1053692526426806,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+        "commentatorTierSimilarities": [
+            27.68,
+            37.1,
+            35.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In this assurance lie treasures of mercy for those who lived in the times of ignorance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the times of this ignorance God winked at\u2014literally (and far better), 'overlooked,' that is, bore with, without interposing to punish it",
+            "but now\u2014that a new light was risen upon the world",
+            "all men every where to repent\u2014a tacit allusion to the narrow precincts of favored Judaism, within which immediate and entire repentance was ever urged"
+        ],
+        "Albert Barnes": [
+            "He passed over those times without punishing them, as if he did not see them.",
+            "The barrier was broken down, and the call to repentance was sent abroad into all the earth.",
+            "If God commands all people to repent, we may observe: That it is their duty to do it. There is no higher obligation than to obey the command of God."
+        ],
+        "Marvin Vincent": [
+            "Winked at [\u03c5\u03c0\u03b5\u03c1\u03b9\u03b4\u03c9\u03bd] . Only here in New Testament. Originally, to overlook; to suffer to pass unnoticed. So Rev., overtooked."
+        ],
+        "John Calvin": [
+            "Men do never make an end of erring, until God do help them.",
+            "We ought not too curiously and boldly to demand and require the cause why [God] put away darkness no sooner.",
+            "Most men think that they have a fair color for their error, so they have their fathers to keep them company, or so they get some patronage or defense by long custom; yea, they would willingly creep out here, that they may not obey the word of God."
+        ],
+        "Philip Schaff": [
+            "God had allowed those ages of ignorance to pass by without any special revelation or stern rebuke.",
+            "He had left them alone to the teachings of nature and the promptings of their own consciences.",
+            "God now commandeth...now He called men to repentance, to a change of mind and heart."
+        ],
+        "Archibald T. Robertson": [
+            "The times of ignorance (\u03c4\u03bf\u03c5\u03c2 \u03c7\u03c1\u03bf\u03bd\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03b3\u03bd\u03bf\u03b9\u03b1\u03c2). The times before full knowledge of God came in Jesus Christ.",
+            "God has all the time objected to the polytheism of the heathen, and now he has made it plain.",
+            "Repent (\u03bc\u03b5\u03c4\u03b1\u03bd\u03bf\u03b5\u03b9\u03bd). Present active infinitive of \u03bc\u03b5\u03c4\u03b1\u03bd\u03bf\u03b5\u03c9 in indirect command, a permanent command of perpetual force."
+        ],
+        "John Gill": [
+            "And the times of this ignorance God winked at... he overlooked them, and took no notice of them, and gave them no revelation to direct them, nor prophets to instruct them, and left them to their stupidity and ignorance.",
+            "He hath given orders, that the doctrine of repentance, as well as remission of sins, should be preached to all nations... and that it becomes them to repent of their idolatries, and turn from their idols, and worship the one, only, living and true God.",
+            "Repentance being represented as a command, does not suppose it to be in the power of men, or contradict evangelical repentance, being the free grace gift of God, but only shows the need men stand in of it, and how necessary and requisite it is."
+        ],
+        "John Wesley": [
+            "God overlooked \u2014 As one paraphrases, 'The beams of his eye did in a manner shoot over it.' He did not appear to take notice of them, by sending express messages to them as he did to the Jews.",
+            "But now \u2014 This day, this hour, saith Paul, puts an end to the Divine forbearance, and brings either greater mercy or punishment.",
+            "Now he commandeth all men every where to repent - There is a dignity and grandeur in this expression, becoming an ambassador from the King of heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the times before full knowledge of God came in Jesus Christ, God overlooked the ignorance of the nations, allowing them to continue in their idolatry and ignorance. However, now that a new light has dawned upon the world, God commands all people everywhere to repent and turn to Him. This command emphasizes the duty that all humans have to obey God's commandments. Repentance is not merely an option, but a necessary response to the truth of God's revelation. It is through repentance that people can turn from their idols and worship the one, true God. The call to repentance extends to all nations, as God desires that all people come to know Him and turn away from their sinful ways.",
+            "wordCount": 123,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 2.0983643263037504,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                26.47,
+                37.31,
+                36.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the times of ignorance, God overlooked the idolatry and ignorance of the nations. However, with the coming of Jesus Christ, a new light has dawned, and God now commands all people everywhere to repent. This command highlights the duty of all humans to obey God's commandments. Repentance is not an option, but a necessary response to God's revelation. It is through repentance that people can turn from their idols and worship the one true God. The call to repentance extends to all nations, as God desires all people to know Him and turn from their sinful ways.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0891315407868376,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.8,
+            "commentatorTierSimilarities": [
+                27.5,
+                37.03,
+                35.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the times of ignorance, God overlooked the idolatry and ignorance of the nations. However, with the coming of Jesus Christ, a new light has dawned, and God now commands all people everywhere to repent. This command highlights the duty of all humans to obey God's commandments. Repentance is not a choice, but a necessary response to God's revelation. It is through repentance that people can turn from their idols and worship the one true God. The call to repentance extends to all nations, as God desires all people to know Him and turn from their sinful ways.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.1053692526426806,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+            "commentatorTierSimilarities": [
+                27.68,
+                37.1,
+                35.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the times before Jesus Christ, God overlooked the ignorance and idolatry of the nations, allowing them to continue in their ways. However, with the arrival of a new light, God commands all people everywhere to repent. This command emphasizes the duty of all humans to obey God's commandments. Repentance is not optional but a necessary response to God's revelation. Through repentance, people can turn away from their idols and worship the one true God. This call to repentance extends to all nations, as God desires everyone to know Him and turn from their sinful ways.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.0918400798807673,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+            "commentatorTierSimilarities": [
+                26.15,
+                37.75,
+                36.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the times of ignorance, God overlooked the idolatry and ignorance of the nations. However, with the coming of Jesus Christ, a new light has dawned, and God now commands all people everywhere to repent. This command highlights the duty of all humans to obey God's commandments. Repentance is not optional but a necessary response to God's revelation. Through repentance, people can turn from their idols and worship the one true God. The call to repentance extends to all nations, as God desires all people to know Him and turn from their sinful ways.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0949701302651675,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                27.84,
+                36.83,
+                35.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

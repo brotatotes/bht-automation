@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:37:18",
+    "verseRef": "Acts 27:37",
+    "bestBHT": {
+        "bht": "On the fourteenth day, Paul, looked up to by all, urged the passengers to partake in a meal. The number of individuals on the ship was no small number, as it totaled 276, including sailors, soldiers, and prisoners. While the exact ship size is unknown, the significance of this number cannot be overlooked. It may seem impossible for all 276 men to have escaped the shipwreck unharmed. Yet, it is evident that God's hand was at work, ensuring their safe arrival ashore despite the odds.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.5067790330769788,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.44,
+        "commentatorTierSimilarities": [
+            25.24,
+            34.99,
+            39.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "37.] Explanatory of all: i.e. \u2018and this was no small number; for we were,\u2019&c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul\u2014now looked up to by all the passengers as the man to direct them.",
+            "besought them all to take meat\u2014'partake of a meal.'",
+            "saying, This is the fourteenth day ye have tarried\u2014'waited for a breathing time.'"
+        ],
+        "John Calvin": [
+            "Luke doth not show how many men did swim to the shore, but how many men were then in the ship.",
+            "In man\u2019s judgment, it is a thing impossible that two hundred threescore and sixteen men should escape to land, having suffered shipwreck, without loss of any man\u2019s life.",
+            "God did plainly stretch forth his hand out of heaven, seeing all those came to shore safe and sound which had cast themselves into the sea."
+        ],
+        "Philip Schaff": [
+            "Having mentioned the fact that all on board took some food, he is led to state the total number.",
+            "We must call to mind that these people were afterwards conveyed from Malta to Puteoli in the Castor and Pollux, in addition to her own crew and passengers."
+        ],
+        "Archibald T. Robertson": [
+            "If the number 276 seems large, it is to be remembered that we do not know the size of the ship.",
+            "The number included sailors, soldiers, and prisoners.",
+            "A muster or roll call may have been made."
+        ],
+        "John Gill": [
+            "This account of the number is given to show, that the historian, who was one of them, had an exact knowledge of all in the ship.",
+            "None of them perished, since their number was so precisely known.",
+            "There must be a wonderful interposition of divine power to bring them all safe to land."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the fourteenth day of their journey, Paul, now the leader of the passengers, urged everyone to eat and regain their strength for what lay ahead. The number of people on the ship was no small number, totaling 276. This included sailors, soldiers, prisoners, and others. It is worth noting that the exact size of the ship is unknown, but this number was considered significant. Some may find it impossible that all 276 men escaped the shipwreck unharmed, but it is clear that God's hand was at work, ensuring their safe arrival on shore. This precise account of the number serves to highlight the historian's meticulous knowledge of all those on board, emphasizing the remarkable divine intervention that brought them all to land unscathed.",
+            "wordCount": 124,
+            "quoteTokenProportion": 29.27,
+            "qualityScore": 1.5290848332134939,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                25.53,
+                34.64,
+                39.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the fourteenth day of their journey, Paul, the esteemed leader, encouraged all the passengers to partake in a meal and regain their strength. The ship carried a considerable number of individuals, totaling 276. This group included sailors, soldiers, prisoners, and others. Although the exact size of the ship is unknown, this quantity was significant. Despite the perceived impossibility, the safe arrival of all 276 men on shore after the shipwreck is a testament to God's extraordinary intervention. This precise account of the number attests to the historian's meticulous knowledge and highlights the remarkable divine power that ensured their safety.",
+            "wordCount": 100,
+            "quoteTokenProportion": 23.19,
+            "qualityScore": 1.3772911554160427,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.14,
+            "commentatorTierSimilarities": [
+                24.64,
+                36.4,
+                38.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the fourteenth day, Paul, looked up to by all, urged the passengers to partake in a meal. The number of individuals on the ship was no small number, as it totaled 276, including sailors, soldiers, and prisoners. While the exact ship size is unknown, the significance of this number cannot be overlooked. It may seem impossible for all 276 men to have escaped the shipwreck unharmed. Yet, it is evident that God's hand was at work, ensuring their safe arrival ashore despite the odds.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.5067790330769788,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.44,
+            "commentatorTierSimilarities": [
+                25.24,
+                34.99,
+                39.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the fourteenth day, Paul, esteemed as their leader, urged the passengers to partake in a meal. The number of individuals on the ship was no small number, totaling 276, including sailors, soldiers, and prisoners. While the exact ship size remains unknown, this significant count highlights the historian's meticulous knowledge of all aboard. It may seem impossible for all 276 men to have escaped the shipwreck unharmed, but God's divine intervention ensured their safe arrival ashore, defying all odds.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5019438658202287,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.28,
+            "commentatorTierSimilarities": [
+                24.46,
+                36.59,
+                38.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the fourteenth day, the passengers looked to Paul as their reliable guide and he encouraged everyone to have a meal and replenish their strength. The number of individuals on the ship was substantial, totaling 276. This count encompassed sailors, soldiers, prisoners, and others. Although we do not know the exact size of the ship, it is clear that this was no small number. Despite the seemingly impossible feat, all 276 men miraculously reached the shore unharmed, showcasing the remarkable hand of God ensuring their safe deliverance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.4890146655924892,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.85,
+            "commentatorTierSimilarities": [
+                25.83,
+                34.56,
+                39.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

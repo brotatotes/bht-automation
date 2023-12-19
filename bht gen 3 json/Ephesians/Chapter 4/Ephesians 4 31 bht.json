@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:33:04",
+    "verseRef": "Ephesians 4:31",
+    "bestBHT": {
+        "bht": "Let go of all bitterness, wrath, and anger, for these emotions are born out of a bitter disposition and can lead to malice, hidden fires that can be the most formidable. Such enmities are most savage when they are cherished within and make no show to those who are outside. Bitterness begets wrath; wrath begets anger; anger begets clamor, evil-speaking, slander, and surmises of evil. Malice is the secret root of all. Therefore, we must put away bitterness, anger, and clamor, making a clean sweep of them.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 2.303939493827259,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.95,
+        "commentatorTierSimilarities": [
+            35.04,
+            35.6,
+            29.36
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let all bitterness (not only of speech, but of disposition), and wrath, and anger ( 'wrath is a temporary, anger a chronic bearing of malice.'\" ",
+            "Both are effects of bitterness, considered as a rooted disposition.",
+            "We know, that those enmities are most savage which are cherished within and make no show to those who are without."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Bitterness begets wrath; wrath, anger; anger, clamor; and clamor, the more chronic evil-speaking, slander, insinuations, and surmises of evil.",
+            "Malice is the secret root of all: fires fed within, and not appearing to by-standers from without, are the most formidable.",
+            "Fires fed within, and not appearing to by-standers from without, are the most formidable."
+        ],
+        "Albert Barnes": [
+            "All cherished, unreasonable anger.",
+            "Christians are to be calm and serious.",
+            "Every kind and sort of evil is to be put away, and you are to manifest only that which is good."
+        ],
+        "Marvin Vincent": [
+            "Bitterness [\u03c0\u03b9\u03ba\u03c1\u03b9\u03b1] Bitter frame of mind Wrath.",
+            "Anger [\u03b8\u03c5\u03bc\u03bf\u03c2] Violent outbreak.",
+            "Malice [\u03ba\u03b1\u03ba\u03b9\u03b1] . The root of all the rest."
+        ],
+        "John Calvin": [
+            "He again condemns anger; but, on the present occasion, views in connection with it those offenses by which it is usually accompanied, such as noisy disputes and reproaches.",
+            "The correction of all the rest will be greatly aided by the removal of malice.",
+            "By this term he expresses that depravity of mind which is opposed to humanity and justice, and which is usually called malignity."
+        ],
+        "Philip Schaff": [
+            "Let all bitterness, ill-temper of every kind, as 'the prevailing temperament and frame of mind' (Ellicott).",
+            "And wrath, and anger; the former denotes the excitement, the passionate display of temper; the latter the settled habit, probably directed in malice against a person. Both are the results of 'bitterness.'",
+            "And clamor and evil speaking (lit., 'blasphemy'). The former is the wrathful passionate outcry of strife; the other, the slander and reviling of settled anger. The last always breaks the sixth and ninth commandments, usually the seventh, and is akin, as the term indicates, to an infraction of the third also."
+        ],
+        "Archibald T. Robertson": [
+            "Bitterness (\u03c0\u03b9\u03ba\u03c1\u03b9\u03b1). Old word from \u03c0\u03b9\u03ba\u03c1\u03bf\u03c2 (bitter), in N.T. only here and Acts 8:23; Romans 3:14; Hebrews 12:15.",
+            "Clamour (\u03ba\u03c1\u03b1\u03c5\u03b3\u03b7). Old word for outcry (Matthew 25:6; Luke 1:42). See Colossians 3:8 for the other words.",
+            "Be put away (\u03b1\u03c1\u03b8\u03b7\u03c4\u03c9). First aorist passive imperative of \u03b1\u03b9\u03c1\u03c9, old verb, to pick up and carry away, to make a clean sweep."
+        ],
+        "John Gill": [
+            "bitterness\" sometimes designs the corruption of nature, which is the gall of bitterness, and bond of iniquity; and sometimes actual sins and transgressions, even those of God's own people, which are evil and bitter things; and sometimes heretical doctrines, which are roots of bitterness; and sometimes sinful words spoken by the saints, one against another; and here perhaps it signifies, the first offence taken in the mind, against any person, upon any account, which should at once be put away, and not encouraged.",
+            " ",
+            "wrath: heat of spirit, which follows upon bitterness, or upon the spirit being embittered and offended.",
+            "And clamour and evil speaking; such as brawlings, contentions, contumelies, reproaches, slanders, c. arising from an embittered, wrathful, and angry disposition: these should all be put away from you, with all malice being the deeds of the old man, unbecoming such as are born again, and grieving to the Spirit of God."
+        ],
+        "John Wesley": [
+            "Let all bitterness \u2014 The height of settled anger, opposite to kindness.",
+            "And wrath \u2014 Lasting displeasure toward the ignorant, and them that are out of the way, opposite to tenderheartedness.",
+            "And clamour \u2014 Or bawling. 'I am not angry,' says one; 'but it is my way to speak so.' Then unlearn that way: it is the way to hell."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "Let go of all bitterness, wrath, and anger, for these emotions are born out of a bitter disposition and can lead to malice, hidden fires that can be the most formidable. Such enmities are most savage when they are cherished secretly within, not showing to those on the outside. Bitterness gives birth to wrath, which in turn gives birth to anger, creating a cycle of evil-speaking, slander, and assumptions of evil. Malice is the root of all these emotions. Therefore, we must put away all bitterness, anger, and clamor, making a clean sweep of them. Christians are called to be calm, serious, and to manifest only what is good, putting away every kind of evil.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 2.2958561371694852,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.68,
+            "commentatorTierSimilarities": [
+                32.46,
+                37.5,
+                30.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let go of all bitterness, wrath, and anger, for these emotions are effects of a bitter disposition. Enmities driven by bitterness can become savage when nurtured in secret. Bitterness begets wrath, which begets anger, leading to chronic evil-speaking, slander, and assumptions of evil. Malice is the root of all these emotions. Therefore, we must put away bitterness, anger, and clamor, making a clean sweep of them. Christians are called to manifest only what is good, putting away every kind of evil.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.3281914336879437,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.75,
+            "commentatorTierSimilarities": [
+                33.53,
+                36.59,
+                29.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let go of all bitterness, wrath, and anger, for these emotions are born out of a bitter disposition and can lead to malice, hidden fires that can be the most formidable. Such enmities are most savage when they are cherished secretly within, not showing to those on the outside. Bitterness gives birth to wrath, which in turn gives birth to anger, creating a cycle of evil-speaking, slander, and assumptions of evil. Malice is the root of all these emotions. Therefore, we must put away all bitterness, anger, and clamor, making a clean sweep of them.",
+            "wordCount": 96,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.321063233648129,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.52,
+            "commentatorTierSimilarities": [
+                33.87,
+                35.47,
+                30.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let go of all bitterness, wrath, and anger, for these emotions are born out of a bitter disposition and can lead to malice, hidden fires that can be the most formidable. Such enmities are most savage when they are cherished within and make no show to those who are outside. Bitterness begets wrath; wrath begets anger; anger begets clamor, evil-speaking, slander, and surmises of evil. Malice is the secret root of all. Therefore, we must put away bitterness, anger, and clamor, making a clean sweep of them.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.303939493827259,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.95,
+            "commentatorTierSimilarities": [
+                35.04,
+                35.6,
+                29.36
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

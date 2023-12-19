@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:18:01",
+    "verseRef": "Luke 10:36",
+    "bestBHT": {
+        "bht": "In Jesus' response to the lawyer's question, he shifts the focus from defining who the neighbor is to identifying the one who demonstrates love as a neighbor. By telling the story of the Good Samaritan, Jesus challenges the lawyer's prejudice and forces him to commend the despised Samaritan's actions. Jesus highlights the mutual nature of neighborship and compels the lawyer to consider who acted as a true neighbor to the wounded man. This parable serves to disarm prejudice, capture the lawyer's attention, and emphasize the importance of love and compassion.",
+        "wordCount": 94,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 2.137164917362218,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+        "commentatorTierSimilarities": [
+            34.16,
+            35.0,
+            30.83
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The neighbour Jews became strangers, the stranger Samaritan became neighbour, to the wounded traveller.\" ",
+            "It is not place, but love, which makes neighbourhood.\" ",
+            "The reason of this is to be found,\u2014partly in the relation of neighbourship being mutual, so that if this man is my neighbour, I am his also."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Turning the question from, 'Whom am I to love as my neighbour?' to 'Who is the man that shows that love?'",
+            "Compelling the lawyer to give a reply very different from what he would like\u2014not only condemning his own nation, but those of them who should be the most exemplary.",
+            "Making him commend one of a deeply hated race. And he does it, but it is almost extorted."
+        ],
+        "Albert Barnes": [
+            "Jesus in this beautiful narrative showed him who and what a neighbor was, and he did this in a way that disarmed his prejudice, deeply affected him in regard to his own duty, and evinced the beauty of religion.",
+            "Here we see the beauty of a parable and its use. It disarmed prejudice, fixed the attention, took the mind gently yet irresistibly, and prevented the possibility of cavil or objection.",
+            "Compare, also, the address of Nathan to David, 2 Samuel 12:1-7."
+        ],
+        "Marvin Vincent": [
+            "The neighbor Jews became strangers. The stranger Samaritan became neighbor to the wounded traveler.",
+            "More correctly, has become neighbor.",
+            "Jesus throws himself back to the time of the story. So Rev., proved neighbor."
+        ],
+        "Philip Schaff": [
+            "Our Lord takes the matter out of the reach of previous circumstances of nationality and religion, and compels a reply on the ground of what had been done.",
+            "The relation of 'neighbor' is a mutual one, and also, because He wished to hold up the active duty of the despised Samaritan.",
+            "Our Lord inverts the question, because the relation of 'neighbor' is a mutual one."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus has changed the lawyer's standpoint and has put it up to him to decide which of 'these three' acted like a neighbour to the wounded man.",
+            "Objective genitive, became neighbour to the one, etc.",
+            "Jesus has changed the lawyer's standpoint and has put it up to him to decide which of 'these three' acted like a neighbour to the wounded man."
+        ],
+        "John Gill": [
+            "Which now of these three, thinkest thou, was neighbour to him that fell among the thieves?\" ",
+            "the priest and Levite that passed by, and took no notice of him, and gave him no relief, neither by words nor actions;",
+            "or the Samaritan, that did all the above kind and generous things to him?"
+        ],
+        "John Wesley": [
+            "Which of these was the neighbour to him that fell among the robbers \u2014 Which acted the part of a neighbour?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 10:36, Jesus compels the lawyer to answer a question that challenges his preconceived notions about love and neighborliness. By telling the story of the Good Samaritan, Jesus exposes the lawyer's own nation as strangers while considering an enemy, the Samaritan, as a neighbor. Jesus forces the lawyer to commend the Samaritan's actions, putting him in a difficult position. This parable disarms prejudice, fixing the lawyer's attention and preventing objections. Jesus highlights the mutual nature of neighborship and the active duty of the despised Samaritan. The question Jesus poses shifts the focus from who should be loved as a neighbor to who demonstrates love as a neighbor.",
+            "wordCount": 110,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.9519198578405326,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "commentatorTierSimilarities": [
+                34.6,
+                35.39,
+                30.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus challenges the lawyer's understanding of neighborliness in Luke 10:36. By presenting the story of the Good Samaritan, Jesus upends societal expectations, making the Jew-Samaritan relationship mutually defining. The lawyer is compelled to commend the despised Samaritan's actions, as Jesus shifts the focus from who should be loved as a neighbor to who demonstrates love as a neighbor. This parable disarms prejudice, captures the lawyer's attention, and emphasizes the active duty of the despised Samaritan in acting as a neighbor.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.9679906985552762,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.78,
+            "commentatorTierSimilarities": [
+                34.5,
+                35.06,
+                30.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus turns the lawyer's question of Whom am I to love as my neighbor? into an inquiry of Who is the man that shows that love? In Luke 10:36, Jesus uses the parable of the Good Samaritan to challenge the lawyer's prejudice and commend the despised Samaritan's actions. By highlighting the mutual nature of neighborship and compelling the lawyer to decide which character acted as a true neighbor, Jesus subverts societal expectations and emphasizes the importance of love and compassion.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.9962892219028538,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                37.23,
+                32.83,
+                29.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Jesus' response to the lawyer's question, he shifts the focus from defining who the neighbor is to identifying the one who demonstrates love as a neighbor. By telling the story of the Good Samaritan, Jesus challenges the lawyer's prejudice and forces him to commend the despised Samaritan's actions. Jesus highlights the mutual nature of neighborship and compels the lawyer to consider who acted as a true neighbor to the wounded man. This parable serves to disarm prejudice, capture the lawyer's attention, and emphasize the importance of love and compassion.",
+            "wordCount": 94,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.137164917362218,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+            "commentatorTierSimilarities": [
+                34.16,
+                35.0,
+                30.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus uses the parable of the Good Samaritan to challenge the lawyer's understanding of neighborliness. By presenting the despised Samaritan as the one who acts as a true neighbor, Jesus confronts the lawyer's prejudice and compels him to commend the Samaritan's actions. This story disarms prejudice, captures the lawyer's attention, and emphasizes the mutual nature of neighborship. Jesus shifts the focus from defining who the neighbor is to recognizing the one who demonstrates love and compassion.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 2.0401173700858375,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+            "commentatorTierSimilarities": [
+                33.2,
+                36.43,
+                30.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

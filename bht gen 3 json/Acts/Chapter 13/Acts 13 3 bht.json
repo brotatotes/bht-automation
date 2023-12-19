@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:30:30",
+    "verseRef": "Acts 13:3",
+    "bestBHT": {
+        "bht": "Before beginning their missionary journey, Barnabas and Saul engaged in a solemn fasting and special prayer, following the tradition of the early Church in times of ordination. This act of fasting and prayer was a way to recommend themselves to the grace of God for the work they were called to fulfill. The laying on of hands served as a symbol of their consecration, with the belief that they were being sent forth by the Holy Spirit to carry out their appointed mission.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 2.120052028354823,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.83,
+        "commentatorTierSimilarities": [
+            31.26,
+            37.16,
+            31.57
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was a new fasting and special prayer for Barnabas and Saul.",
+            "Fasting and prayer have ever been connected with the solemn times of ordination by the Christian church.",
+            "The fasts...for the special purpose of ordinations were probably not introduced till the fourth or even fifth century."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "recommending them to the grace of God for the work which they had to fulfill.",
+            "So clothed, their mission is thus described: 'They being sent forth by the Holy Ghost.' Have we not here for all time the true principle of appointment to sacred offices?",
+            "ARRIVING IN CYPRUS THEY PREACH IN THE SYNAGOGUES OF SALAMIS\u2014AT PAPHOS, ELYMAS IS STRUCK BLIND, AND THE GOVERNOR OF THE ISLAND IS CONVERTED."
+        ],
+        "Albert Barnes": [
+            "The first formal mission to the Gentiles was an important event in the church, and they engaged in this appointment with deep solemnity and with humbling themselves before God.",
+            "The primitive church felt the need of divine direction and aid in the great work. Two missionaries were to be sent forth among strangers, to be exposed to perils by sea and land; and the commencement of the enterprise demanded prayer.",
+            "The act of laying hands on any person was practiced not only in ordination, but in conferring a favor, and in setting apart for any purpose. It means in this case that they appointed them to a particular field of labor, and by laying hands on them they implored the blessing of God to attend them."
+        ],
+        "John Calvin": [
+            "In appointing a public fast, which used to be done in hard matters and of great importance, they provoke both themselves and others unto an earnest ferventness in prayer.",
+            "The laying on of hands which Luke reckoneth up...was a kind of consecration...that the Church might offer them to God, and that they might with their consent declare that this office was enjoined them by God.",
+            "The calling was properly God\u2019s alone, but the external ordaining did belong to the Church, and that according to the heavenly oracle."
+        ],
+        "Philip Schaff": [
+            "This their final consecration took place on another occasion. Ewald suggests it was performed at one of the usual public assemblies held always on the first day of the week.",
+            "This act at Antioch in the year 45 was the solemn ordination of Paul and Barnabas to the apostleship.",
+            "They ranked then with the original Twelve who had been chosen by Christ; so Paul writes to the Corinthian church \u2018how he was not behind the very chiefest of the apostles.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Not ordination to the ministry, but a solemn consecration to the great missionary task\" (Commentary).",
+            "The church in Antioch did not make financial contribution to the campaign, but only goodwill\" (Commentary).",
+            "It was Philippi that first gave money to Paul's campaigns\" (Commentary)."
+        ],
+        "John Gill": [
+            "when they fasted and prayed, not for direction, who they were to set apart and send; but that they might have every needful gift and qualification for the work, and be succeeded in it.",
+            "this was a gesture and ceremony used among the Jews, when they wished any blessing or happiness to attend any persons",
+            "they sent them away; to do the work they were called unto; not in an authoritative way, but in a friendly manner they parted with them, and bid them farewell."
+        ],
+        "John Wesley": [
+            "Then having fasted \u2014 Again. Thus they did also, Acts 14:23."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Before embarking on their missionary journey, Barnabas and Saul partook in a solemn and new fasting and prayer at the recommendation of the Antioch church. Fasting and prayer were customary in the ordination process of the early Church, signifying a consecration to their specific missionary task and a reliance on God's guidance. The laying on of hands marked their appointment to their designated mission field, invoking God's blessing and showcasing their status as apostles. This act of sending them forth by the Holy Spirit affirmed the true principle of appointment to sacred offices.",
+            "wordCount": 95,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 2.0356150651362777,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                32.08,
+                38.53,
+                29.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Before embarking on their missionary journey, Barnabas and Saul engaged in a solemn fasting and prayer, following the tradition of the early Church in ordaining individuals for specific tasks. Their consecration through the laying on of hands signified their appointment to their designated mission field, seeking God's blessing and mirroring the appointment of the original Twelve. This act of being sent forth by the Holy Spirit upheld the true principle of appointment to sacred offices, highlighting the divine calling that superseded any external ordination.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 2.0356744661293664,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                29.9,
+                40.88,
+                29.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Before embarking on their missionary journey, Barnabas and Saul entered into a solemn and new fasting and special prayer, a practice often associated with the sacred times of ordination in the early Church. Through this act, they were recommending themselves to the grace of God for the work they had been called to fulfill. The laying on of hands served as a symbol of their consecration and appointment, invoking God's blessing upon them as they were sent forth by the Holy Spirit.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.0873331372488795,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.74,
+            "commentatorTierSimilarities": [
+                30.77,
+                37.13,
+                32.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Before setting off on their missionary journey, Barnabas and Saul participated in a solemn and new fasting and special prayer. This practice of fasting and prayer was often connected to the important times of ordination within the early Church. By engaging in these acts, they were showing their commitment to the work they were called to fulfill and seeking the grace of God. The laying on of hands served as a symbol of their consecration and appointment, demonstrating their readiness to be sent forth by the Holy Spirit.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9929563131225179,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                30.07,
+                36.98,
+                32.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Before beginning their missionary journey, Barnabas and Saul engaged in a solemn fasting and special prayer, following the tradition of the early Church in times of ordination. This act of fasting and prayer was a way to recommend themselves to the grace of God for the work they were called to fulfill. The laying on of hands served as a symbol of their consecration, with the belief that they were being sent forth by the Holy Spirit to carry out their appointed mission.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.120052028354823,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.83,
+            "commentatorTierSimilarities": [
+                31.26,
+                37.16,
+                31.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

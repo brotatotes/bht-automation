@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:10:53",
+    "verseRef": "Romans 16:25",
+    "bestBHT": {
+        "bht": "The preaching of Christ, making known of Him, and the revelation of the mystery that was hidden from eternity in the counsels of God is the focal point. This mystery, which remained a secret since the beginning, is now being revealed. It concludes with a doxology that emphasizes the conversion of the Gentiles and the establishment of believers in the Gospel. God's power is highlighted as the one that upholds and confirms them in their faith.",
+        "wordCount": 77,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.9845964840443608,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+        "commentatorTierSimilarities": [
+            33.07,
+            34.53,
+            32.4
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the preaching of Christ, i.e. making known of Christ, as the verb is used",
+            "the mystery of the Gospel is often said to have been thus hidden From eternity in the counsels of God",
+            "according to the revelation"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "to stablish\u2014confirm, or uphold you, according to my gospel, and the preaching of Jesus Christ",
+            "according to the revelation of the mystery",
+            "which was kept secret since the world began"
+        ],
+        "Albert Barnes": [
+            "God only can keep Christians in the path of salvation; and it was well to bring that truth prominently into view at the close of the Epistle.",
+            "The doctrines which he [Paul] had advanced were just those which were suited to strengthen and confirm them, - the doctrine of justification, of election, of perseverance, and of the protection and favor of God to both Jews and Gentiles.",
+            "The word here seems to refer to the principal doctrines of the gospel; its main truths, which had been concealed, especially from the entire Gentile world, but which were now made known."
+        ],
+        "Marvin Vincent": [
+            "This is the only epistle of Paul which closes with a doxology.",
+            "The particular mystery of the conversion of the Gentiles, which is emphasized in Ephesians 3:3-9; Colossians 1:26, is included, but the reference is not to be limited to this.",
+            "Kept in silence."
+        ],
+        "Philip Schaff": [
+            "Who is able to stablish you. Comp. marginal references. This description of God is appropriate in this Epistle.",
+            "According to my gospel. It is difficult to determine the exact sense and connection of this phrase, but it seems best to join it with \u2018stablish,\u2019 with the sense \u2018in reference to my gospel,\u2019 that you may remain steadfastly faithful to the teaching I have set forth.",
+            "Of the mystery. The article is wanting in the Greek, but what follows explains \u2018mystery\u2019 as the specific one on which the Apostle delighted to dwell."
+        ],
+        "Archibald T. Robertson": [
+            "Verses Romans 16:25-27 conclude the noble Epistle with the finest of Paul's doxologies.",
+            "According to my gospel (\u03ba\u03b1\u03c4\u03b1 \u03c4\u03bf \u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03bf\u03bd \u03bc\u03bf\u03c5). Same phrase in Romans 2:16; 2 Timothy 2:8. Not a book, but Paul's message as here set forth.",
+            "The preaching (\u03c4\u03bf \u03ba\u03b7\u03c1\u03c5\u03b3\u03bc\u03b1). The proclamation, the heralding."
+        ],
+        "John Gill": [
+            "God is here described by his power, and the particular instance of it is the establishing of his people; that is, in the Gospel, as the Syriac version reads the next clause, and in the profession of it, with grace in their hearts, and in the exercise of it, and more lively and cheerful discharge of duty.",
+            "The Gospel, than which nothing has a greater tendency to, and is better calculated for, and with a divine blessing always issues in the establishment of the saints.",
+            "The whole Gospel, and all the truths of it, which is often in Scripture called a 'mystery', because the reason of many of its important doctrines does not clearly appear to the carnal reason of men; and the 'modus' of several of them will ever remain inexplicable by us."
+        ],
+        "John Wesley": [
+            "To establish you \u2014 Both Jews and gentiles.",
+            "According to my gospel, and the preaching of Jesus Christ \u2014 That is, according to the tenor of the gospel of Jesus Christ, which I preach.",
+            "According to the revelation of the mystery \u2014 Of the calling of the gentiles, which, as plainly as it was foretold in the Prophets, was still hid from many even of the believing Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse talks about the preaching of Christ and the revelation of the mystery that was hidden from eternity in the counsels of God. It is stated that this mystery was kept secret since the world began. The doxology in this epistle is emphasized, as it concludes the noble Epistle with the finest of Paul's doxologies. The passage mentions being established in the Gospel and the preaching of Jesus Christ. It is said that these doctrines were suited to strengthen and confirm the believers. Ultimately, it is God's power that establishes His people and keeps them in the path of salvation.",
+            "wordCount": 103,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.010444984667554,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                33.54,
+                34.25,
+                32.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The preaching of Christ, making known of Him, and the revelation of the mystery that was hidden from eternity in the counsels of God is the focal point. This mystery, which remained a secret since the beginning, is now being revealed. It concludes with a doxology that emphasizes the conversion of the Gentiles and the establishment of believers in the Gospel. God's power is highlighted as the one that upholds and confirms them in their faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.9845964840443608,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+            "commentatorTierSimilarities": [
+                33.07,
+                34.53,
+                32.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The preaching of Christ and the revelation of the mystery that was hidden from eternity in the counsels of God is mentioned in the verse. The mystery, kept secret since the world began, is now being revealed. The doxology in this epistle is emphasized, as it concludes with the finest of Paul's doxologies. Believers are encouraged to be established in the Gospel and the preaching of Jesus Christ. Ultimately, it is God's power that upholds and confirms them in their faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9957009368062764,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.7,
+            "commentatorTierSimilarities": [
+                35.28,
+                32.26,
+                32.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The revelation of the mystery, hidden from eternity, and the preaching of Christ are central in this passage. The doxology that concludes Paul's epistle emphasizes the conversion of the Gentiles. Believers are urged to be established in the Gospel and the preaching of Jesus Christ. It is through God's power that they can be upheld and confirmed in their faith. This mystery, kept secret since the world began, is now being revealed to both Jews and Gentiles.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0864886170028116,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.72,
+            "commentatorTierSimilarities": [
+                32.82,
+                31.96,
+                35.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The revelation of the mystery and the preaching of Christ are focal points. The mystery, hidden since the world began, is now being revealed. The doxology that concludes this noble epistle emphasizes the conversion of the Gentiles. Believers are encouraged to be established in the Gospel and the preaching of Jesus Christ. God's power upholds and confirms them in their faith. This mystery, which has been kept secret, is now being revealed to both Jews and Gentiles.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.9198631075740447,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.18,
+            "commentatorTierSimilarities": [
+                34.07,
+                31.14,
+                34.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:17:15",
+    "verseRef": "Luke 9:36",
+    "bestBHT": {
+        "bht": "When the voice was past and the cloud disappeared, the disciples found Jesus alone, with Moses and Elijah gone. They kept it close, feeling that such things were unmeant for the general gaze, and in awe obeyed that command. In those days, they held their peace and told no one what they had seen until Christ was risen from the dead.",
+        "wordCount": 61,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.6833597374602516,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.31,
+        "commentatorTierSimilarities": [
+            23.31,
+            21.0,
+            55.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "36.] St. Luke gives the result of our Lord\u2019s command to them: the command itself is related in Matthew ver. 9, and Mark ver. 9."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their work is done, and they have disappeared from the scene, feeling no doubt with their fellow servant the Baptist, 'He must increase, but I must decrease.'\" ",
+            "The cloud too is gone, and the naked majestic Christ, braced in spirit, and enshrined in the reverent affection of His disciples, is left\u2014to suffer!",
+            "kept it close\u2014feeling, for once at least, that such things were unmeet as yet for the general gaze."
+        ],
+        "Marvin Vincent": [
+            "When the voice was past [\u03b5\u03bd \u03c4\u03c9 \u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1\u03b9 \u03c4\u03b7\u03bd \u03c6\u03c9\u03bd\u03b7\u03bd]. Lit., in the coming to pass of the voice.\" ",
+            "Compare Matthew 17:14-21; Mark 9:14-29.",
+            "Rev., when the voice came, with A. V. in margin."
+        ],
+        "Philip Schaff": [
+            "Luke 9:36. And they held their peace. The result of the command mentioned by Matthew and Mark.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "On the coming as to the voice\" ",
+            "Should be rendered 'alone' there also.",
+            "Luke notes that they in awe obeyed that command."
+        ],
+        "John Gill": [
+            "Jesus was found alone; by his disciples; Moses and Elias being gone, and he in the same form in which he was before his transfiguration.",
+            "And they kept it close; as Christ strictly charged them, when coming down from the mount with them.",
+            "And told no man in those days any of those things which they had seen; no, not any of their fellow disciples, until that Christ was risen from the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the voice was past and the cloud disappeared, the disciples found Jesus alone, with Moses and Elijah gone. They obeyed His command to keep what they had seen to themselves, feeling that such things were not yet meant for everyone to know. In those days, they held their peace and told no one what they had witnessed on the mountaintop, understanding the importance of waiting until after Christ's resurrection to share these incredible experiences.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.6646920416421456,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                24.41,
+                22.29,
+                53.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the voice was past and the cloud disappeared, the disciples found Jesus alone, with Moses and Elijah gone. They kept it close, feeling that such things were unmeant for the general gaze, and in awe obeyed that command. In those days, they held their peace and told no one what they had seen until Christ was risen from the dead.",
+            "wordCount": 61,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6833597374602516,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.31,
+            "commentatorTierSimilarities": [
+                23.31,
+                21.0,
+                55.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the voice was past and the cloud disappeared, the disciples found Jesus alone, with Moses and Elijah gone. They felt it unmeet for the general gaze and kept it close, in accordance with His command. Luke notes that they obeyed in awe, holding their peace and not sharing what they had seen until after Christ's resurrection.",
+            "wordCount": 58,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.8300125086337298,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                27.67,
+                26.98,
+                45.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the voice came to pass and the cloud vanished, the disciples discovered Jesus alone, with Moses and Elijah having departed. They faithfully obeyed His command to keep it close, recognizing that such things were not yet fit for widespread knowledge. Luke emphasizes their awe-struck obedience and how they held their peace, refraining from sharing the sight they had witnessed until after Christ's resurrection.",
+            "wordCount": 66,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.749765569317701,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+            "commentatorTierSimilarities": [
+                26.15,
+                28.71,
+                45.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the voice had passed and the cloud disappeared, the disciples found Jesus alone, having obeyed His command to keep it close, recognizing the unmeet nature of sharing such things publicly. They held their peace, not revealing what they had seen, until after Christ's resurrection. Their awe and reverence compelled them to keep the experience to themselves.",
+            "wordCount": 58,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.6476126800179238,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                28.0,
+                23.14,
+                48.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

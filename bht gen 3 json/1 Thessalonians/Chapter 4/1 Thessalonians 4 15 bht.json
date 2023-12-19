@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:00:28",
+    "verseRef": "1 Thessalonians 4:15",
+    "bestBHT": {
+        "bht": "The hope of the Thessalonians, and all believers, rests not on mere conjecture, but on the sure foundation of the word of the Lord. Through Christ Himself, we have learned that the living shall not precede the dead in Christ at His glorious coming. Each generation, represented by the plural we, bears witness to this blessed hope, anticipating the resurrection of the saints and the joy of being caught up together to meet the Lord. Let us therefore eagerly await His return, not fearing death, but eagerly longing for the coming of our Lord.",
+        "wordCount": 94,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 2.263242948775914,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.59,
+        "commentatorTierSimilarities": [
+            32.05,
+            34.22,
+            33.73
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That is, we say it not of ourselves, but having learned it from Christ.",
+            "For we cannot for a moment accept the evasion of Theodoret...but must take the words in their only plain grammatical meaning.",
+            "There is no reason to fear, that we shall...gain an advantage over...and fail of the prize."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Each successive generation in its time and place represents the generation which shall actually survive till His coming.",
+            "It is a sad fall from this blessed hope, that death is looked for by most men, rather than the coming of our Lord.",
+            "The 'we' is an affectionate identifying of ourselves with our fellows of all ages, as members of the same body, under the same Head, Christ Jesus."
+        ],
+        "Albert Barnes": [
+            "For this we say unto you by the word of the Lord - By the command or inspired teaching of the Lord.",
+            "The meaning here is, that they who would be alive at the coming of the Lord Jesus, would not be 'changed' and received up into glory before those who were in their graves were raised up.",
+            "The apostle, therefore, states that no such disadvantage could follow, for the matter of fact was, that the dead would rise first."
+        ],
+        "Marvin Vincent": [
+            "The plural we indicates that Paul himself expected to be alive at the parousia.\" ",
+            "Shall not prevent in the older sense of anticipate, be beforehand with.\" ",
+            "The living shall not share the blessings of the advent sooner than the dead in Christ."
+        ],
+        "John Calvin": [
+            "We are not the first witnesses of the resurrection, but instead of this the Master himself declared it.",
+            "The order of the resurrection will begin with them: we shall accordingly not rise without them.",
+            "He means by this to arouse the Thessalonians to wait for it, nay more, to hold all believers in suspense, that they may not promise themselves some particular time."
+        ],
+        "Philip Schaff": [
+            "The account of the Lord\u2019s Second Advent which follows is one of those revelations which human reasoning could not even help the apostle to predict. It must be revealed directly.\" ",
+            "What the words do imply is the possibility, but not the expectation, that some or all of them might see the day of the Son of man before dying.",
+            "Shall in no wise precede, i.e. shall not anticipate or be beforehand with."
+        ],
+        "Archibald T. Robertson": [
+            "By the word of the Lord (\u03b5\u03bd \u03bb\u03bf\u03b3\u03c9 \u039a\u03c5\u03c1\u03b9\u03bf\u03c5)... Jesus may have spoken on this subject though it has not been preserved to us.\" ",
+            "Ye that are alive (\u03b7\u03bc\u03b5\u03b9\u03c2 \u03bf \u03b6\u03c9\u03bd\u03c4\u03b5\u03c2). Paul here includes himself, but this by no means shows that Paul knew that he would be alive at the Parousia of Christ.",
+            "Shall in no wise precede (\u03bf\u03c5 \u03bc\u03b7 \u03c6\u03b8\u03b1\u03c3\u03c9\u03bc\u03b5\u03bd)... Hence there was no ground for uneasiness about the dead in Christ."
+        ],
+        "John Gill": [
+            "What he was about to say, was not a fancy and conjecture of his own, the fruit and produce of his own brain, but what he could assert upon a sure foundation, upon the best and greatest authority, even the word of the Lord.",
+            "From hence it appears, that there will be saints alive at Christ's second coming; he will have a seed to serve him till he comes again.",
+            "They shall not get the start of them, and be in the arms of Jesus, and enjoy his presence when he comes, before the dead in Christ, which might be thought, but this will not be the case; for the dead saints will rise before the living ones are changed, and both will be caught up together to meet the Lord."
+        ],
+        "John Wesley": [
+            "By the word of the Lord \u2014 By a particular revelation.",
+            "Believers of all ages and nations make up, as it were, one body.",
+            "Not that St. Paul hereby asserted (though some seem to have imagined so) that the day of the Lord was at hand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The hope of the Thessalonians, and all believers, rests not on mere conjecture, but on the sure foundation of the word of the Lord. Through Christ Himself, we have learned that the living shall not precede the dead in Christ at His glorious coming. Each generation, represented by the plural we, bears witness to this blessed hope, anticipating the resurrection of the saints and the joy of being caught up together to meet the Lord. Let us therefore eagerly await His return, not fearing death, but eagerly longing for the coming of our Lord.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.263242948775914,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.59,
+            "commentatorTierSimilarities": [
+                32.05,
+                34.22,
+                33.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Each generation, represented by the plural we, bears witness to the hope of the Thessalonians, and all believers, resting not on mere conjecture, but on the sure foundation of the word of the Lord. Through Christ Himself, we have learned that the living shall not precede the dead in Christ at His coming. Let us eagerly await His return, not fearing death, but eagerly longing for the glorious reunion of the saints and the joy of being caught up together to meet the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.2504795268104427,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.17,
+            "commentatorTierSimilarities": [
+                33.22,
+                33.52,
+                33.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The hope of believers, including the Thessalonians, lies in the certainty of the word of the Lord. The living will not precede the dead in Christ at His coming, as generations past and present eagerly anticipate the resurrection and the joy of being caught up together to meet the Lord. This blessed hope, taught by Christ Himself, unites believers across time as one body, encouraging them to eagerly await the glorious return of their Lord without fear.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.238892496525179,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.78,
+            "commentatorTierSimilarities": [
+                30.39,
+                35.57,
+                34.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the word of the Lord, believers have learned the truth behind their hope\u2014the living shall not precede the dead in Christ at His coming. This cherished hope unites believers of all generations as one body, and it should inspire eager anticipation for the glorious return of the Lord. The certainty of this hope, rooted in the teachings of Christ Himself, encourages believers to await His coming without fear, longing for the day when they will be caught up together with the saints to meet their Lord.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.2299638561243875,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.49,
+            "commentatorTierSimilarities": [
+                30.81,
+                34.99,
+                34.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The hope of believers lies in the certainty of the word of the Lord. The living will not precede the dead in Christ at His coming. This cherished hope unites believers as one body, encouraging an eager anticipation for the glorious return of the Lord. The certainty of this hope, rooted in the teachings of Christ Himself, inspires believers to await His coming without fear, longing for the day when they will be caught up together with the saints to meet their Lord.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.1237119558422473,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                30.52,
+                36.04,
+                33.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

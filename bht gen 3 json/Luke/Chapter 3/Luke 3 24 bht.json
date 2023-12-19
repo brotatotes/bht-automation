@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:14:30",
+    "verseRef": "Luke 3:24",
+    "bestBHT": {
+        "bht": "In this section, Matthat and Salathiel are mentioned, and scholars debate whether they are different individuals despite being referred to as both father and son. Matthan, the grandfather of Joseph, is distinct from Matthat. Some argue for the omission of Matthat and Salathiel, while others connect Matthat to the renowned King Jannai. The identities of these figures remain uncertain, and their names are common in Hebrew. The debate surrounding their identities invites further exploration and discussion.",
+        "wordCount": 76,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.3285513312461248,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.52,
+        "commentatorTierSimilarities": [
+            24.08,
+            45.94,
+            29.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "24-30. son of Matthat, &amp;c.\u2014(See",
+            "\ton :-). In :-, Salathiel is called the son, while in :-, he is called the father of Zerubbabel. But they are",
+            "\tprobably different persons."
+        ],
+        "Philip Schaff": [
+            "Luke 3:24. Matthat. In our view not the same as Matthan, the grandfather of Joseph (Matthew 1:15). A number of very common Hebrew names occur, as might be expected."
+        ],
+        "John Gill": [
+            "These two, Grotius says, are omitted in the ancient exemplars; and he thinks they ought to be left out.",
+            "Frequent mention is made, in the Jewish writings, of 'king Jannai', who is said to be the same with king Jochanan, or John...",
+            "This Joseph, according to the same chronicle, is called Joseph the second, and surnamed Arsis, and was greatly honoured by Ptolemy, and governed sixty years."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse mentions Matthat and Salathiel, who some believe are different individuals despite being referred to as both father and son. Matthat is likely not the same as Matthan, the grandfather of Joseph. The names mentioned are common Hebrew names. Some commentators believe that Matthat and Salathiel should be omitted from the text, while others connect Matthat to the renowned King Jannai. Overall, there is some ambiguity and debate regarding the identities of these individuals mentioned in the verse.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5758135382694016,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.74,
+            "commentatorTierSimilarities": [
+                21.67,
+                48.8,
+                29.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage introduces Matthat and Salathiel, who may actually be different people even though they are described as father and son. While Matthan, the grandfather of Joseph, is mentioned in Matthew, he is not the same as Matthat. These names are quite common in Hebrew. Some scholars argue for the removal of Matthat and Salathiel from the text, while others connect Matthat to the renowned King Jannai. The identities of these individuals remain a subject of debate and uncertainty.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.4098047902158601,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.22,
+            "commentatorTierSimilarities": [
+                22.45,
+                47.83,
+                29.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this section, Matthat and Salathiel are mentioned, and there is speculation that they might actually be distinct individuals despite their familial relationship. It is worth noting that the Matthat referred to in Luke's account is likely not the same individual as Matthan, who was the grandfather of Joseph according to the book of Matthew. These names are quite common in Hebrew. Some scholars suggest the omission of Matthat and Salathiel, while others connect Matthat to the well-known King Jannai. The precise identities of these figures continue to be a matter of debate and ambiguity.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.3480564295164466,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.17,
+            "commentatorTierSimilarities": [
+                20.18,
+                49.65,
+                30.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this section, Matthat and Salathiel are mentioned, and scholars debate whether they are different individuals despite being referred to as both father and son. Matthan, the grandfather of Joseph, is distinct from Matthat. Some argue for the omission of Matthat and Salathiel, while others connect Matthat to the renowned King Jannai. The identities of these figures remain uncertain, and their names are common in Hebrew. The debate surrounding their identities invites further exploration and discussion.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.3285513312461248,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.52,
+            "commentatorTierSimilarities": [
+                24.08,
+                45.94,
+                29.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Within this context, there is a mention of Matthat and Salathiel, two individuals who some scholars believe to be different despite their familial connection. It is noted that Matthan, the grandfather of Joseph, is distinct from Matthat. There is a suggestion among commentators to potentially exclude the mention of Matthat and Salathiel from the text. Alternatively, there is a connection drawn between Matthat and the notable King Jannai. Therefore, the precise identities of these individuals remain a subject of ongoing debate and speculation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.1625237561896957,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.0,
+            "commentatorTierSimilarities": [
+                20.45,
+                45.14,
+                34.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:37:39",
+    "verseRef": "Acts 28:24",
+    "bestBHT": {
+        "bht": "The diverse responses to the Gospel have been repeated throughout history, where earnest seekers, frivolous worldlings, and prejudiced bigots all gather. Witnessing this, we see how some hearts are persuaded while others remain in disbelief. The Apostle Paul, endowed with great spiritual grace, exhausted his patience pleading and testifying. Despite his efforts, some hearts were blinded and hardened, while others truly believed in Christ with all their being. This difference in response is not due to the power or free will of man, but to the distinguishing grace of God.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.43,
+        "qualityScore": 1.564966049849665,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+        "commentatorTierSimilarities": [
+            29.5,
+            27.2,
+            43.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "What simplicity and candor are in this record of a result repeated from age to age where the Gospel is presented to a promiscuous assemblage of sincere and earnest inquirers after truth, frivolous worldlings, and prejudiced bigots!"
+        ],
+        "Albert Barnes": [
+            "And some believed ... - See the notes on Acts 14:4."
+        ],
+        "John Calvin": [
+            "We know that the apostle was endued with such grace of the Spirit, that he ought to have moved stones; and yet he could not, after long disputing and testifying, win all men unto Christ.",
+            "Wherefore, let us not marvel, if the unbelief of many do at this day resist the plain doctrine of the gospel, and if many remain obstinate, to whom the truth of Christ is no less made manifest than the sun at noon-day.",
+            "Moreover, those return from Paul blind and blockish, who came unto him willingly, as if they had been desirous to learn."
+        ],
+        "Philip Schaff": [
+            "The number of those who rejected the salvation of the Messiah evidently far exceeded the number of those who were convinced by Paul\u2019s pleading.",
+            "The melancholy and indignant tone of the apostle\u2019s words, with which he closed the memorable day of argument and exhortation, only too plainly tell us of a loving patience at last exhausted.",
+            "They are the words of one giving up a hopeless struggle."
+        ],
+        "Archibald T. Robertson": [
+            "Some began to be persuaded.",
+            "Some continued to disbelieve."
+        ],
+        "John Gill": [
+            "this was not a mere historical faith, or a bare assent to the truth of the things spoken, nor a mere profession of faith in them, but a believing in Christ with the heart",
+            "these were not of Christ's sheep, their eyes were blinded, and their hearts were hardened, as was prophesied of them",
+            "this difference among them, some believing and some not believing, was not owing to the power and free will of man, as if some of themselves would, and did believe, and others would not, but to the distinguishing grace of God"
+        ],
+        "John Wesley": [
+            "And some believed the things that were spoken \u2014 With the heart, as well as understanding."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The record of different responses to the Gospel is one that has been seen throughout history. In Acts 28:24, we witness a diverse crowd of individuals, ranging from sincere seekers of truth to hardened skeptics. Despite Paul's eloquent pleading and impassioned testimony, some hearts were open to the message while others remained firmly unconvinced. This verse serves as a reminder that even the most gifted messengers may face resistance, their patience eventually exhausted. It is a testimony to the power of God's grace that, amidst the rejection, some were able to truly believe in their hearts.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.5312602260570276,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.26,
+            "commentatorTierSimilarities": [
+                31.5,
+                28.22,
+                40.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The diverse responses to the Gospel have been repeated throughout history, where earnest seekers, frivolous worldlings, and prejudiced bigots all gather. Witnessing this, we see how some hearts are persuaded while others remain in disbelief. The Apostle Paul, endowed with great spiritual grace, exhausted his patience pleading and testifying. Despite his efforts, some hearts were blinded and hardened, while others truly believed in Christ with all their being. This difference in response is not due to the power or free will of man, but to the distinguishing grace of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.564966049849665,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                29.5,
+                27.2,
+                43.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 28:24, we witness a diverse crowd of individuals, ranging from sincere seekers of truth to hardened skeptics. Despite Paul's eloquent pleading and impassioned testimony, some hearts were open to the message while others remained firmly unconvinced. This verse serves as a reminder that even the most gifted messengers may face resistance, their patience eventually exhausted. It is a testimony to the power of God's grace that, amidst the rejection, some were able to truly believe in their hearts.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5547018364653904,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.04,
+            "commentatorTierSimilarities": [
+                30.34,
+                27.62,
+                42.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The record of different responses to the Gospel is one that has been seen throughout history. In this account, we see the presence of sincere and earnest truth-seekers, frivolous worldlings, and prejudiced bigots. Paul's passionate plea moved some towards belief while others remained in unbelief. The Apostle's words, filled with both melancholy and indignation, reveal his exhausted patience in the face of hardened hearts. It is a testament to the power of God's grace that amidst the resistance, some genuinely embraced faith in their hearts.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.5621039017395675,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.28,
+            "commentatorTierSimilarities": [
+                32.67,
+                30.47,
+                36.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The response to the Gospel is varied, with sincere seekers, worldlings, and prejudiced bigots present. Paul's passionate plea led some to believe while others persisted in unbelief. This difference in response is not due to human power or free will, but to God's distinguishing grace. Despite Paul's spiritual grace, he couldn't convince everyone. Some hearts were blinded and hardened, while others were receptive. Those who believed embraced the Gospel with heart and understanding, moving beyond mere historical faith or profession.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4583525332148919,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.83,
+            "commentatorTierSimilarities": [
+                27.02,
+                28.14,
+                44.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

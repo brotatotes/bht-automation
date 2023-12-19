@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 16:15:23",
+    "verseRef": "Luke 5:25",
+    "bestBHT": {
+        "bht": "Upon being healed by Jesus, the paralyzed man who had been lying on his mat glorified God without reservation. Luke carefully chooses his words, describing the man as imperfect, upon which he had been lying down. This phrase underscores the transformative power of Jesus' healing. The man's response, glorifying God, is not surprising given the incredible miracle he experienced.",
+        "wordCount": 60,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.468823397864946,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.18,
+        "commentatorTierSimilarities": [
+            60.85,
+            0.0,
+            39.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Imperfect, upon which he had been lying down. Luke uses this phrase instead of repeating \u03ba\u03bb\u03b9\u03bd\u03b9\u03b4\u03b9\u03bf\u03bd (verse Luke 5:24).",
+            "Glorifying God. As one can well imagine."
+        ],
+        "John Gill": [
+            "and went to his business",
+            "he glorified God",
+            "he glorified Jesus Christ as God"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man who was previously paralyzed and lying on his mat was suddenly restored by Jesus' healing power, causing him to rise up and glorify God. Luke uses the phrase imperfect, upon which he had been lying down to emphasize the miraculous transformation that took place. This man's response of glorifying God in such a remarkable way is natural and to be expected, for an incredible miracle has just occurred.",
+            "wordCount": 71,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.3452911221658967,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.07,
+            "commentatorTierSimilarities": [
+                62.23,
+                0.0,
+                37.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon being healed by Jesus, the paralyzed man who had been lying on his mat glorified God without reservation. Luke carefully chooses his words, describing the man as imperfect, upon which he had been lying down. This phrase underscores the transformative power of Jesus' healing. The man's response, glorifying God, is not surprising given the incredible miracle he experienced.",
+            "wordCount": 60,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.468823397864946,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.18,
+            "commentatorTierSimilarities": [
+                60.85,
+                0.0,
+                39.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The miraculous healing performed by Jesus caused the previously paralyzed man to rise up from the mat on which he had been lying. Luke's choice of words, imperfect, upon which he had been lying down, emphasizes the profound transformation that occurred. In response to this extraordinary event, the man could not help but glorify God. Such a remarkable display of divine power naturally evokes awe and praise.",
+            "wordCount": 68,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.0810804334250315,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.29,
+            "commentatorTierSimilarities": [
+                63.83,
+                0.0,
+                36.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man who was previously paralyzed and lying on his mat was suddenly restored by Jesus' healing power, causing him to rise up and glorify God. Luke uses the phrase imperfect, upon which he had been lying down to emphasize the miraculous transformation that took place. This man's response of glorifying God in such a remarkable way is natural and to be expected, for an incredible miracle has just occurred.",
+            "wordCount": 71,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.3452911221658967,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.07,
+            "commentatorTierSimilarities": [
+                62.23,
+                0.0,
+                37.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man, formerly paralyzed and lying on his mat, experienced a profound change as Jesus healed him. Luke's vivid choice of words highlights the astonishing nature of this miracle, describing the man as imperfect, upon which he had been lying down. In light of such a transformative event, the man responded by offering glory and praise to God. This powerful display of divine intervention invokes a natural and fervent expression of adoration.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.0887659067471152,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.55,
+            "commentatorTierSimilarities": [
+                57.71,
+                0.0,
+                42.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

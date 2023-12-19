@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:13:26",
+    "verseRef": "Luke 1:13",
+    "bestBHT": {
+        "bht": "Zacharias had long since ceased looking for an answer to his prayer for a son, but God heard and answered. The name John, meaning Jehovah's gracious gift, reflects the grace of God in answering Zacharias' prayer. Although the specific prayer is uncertain, the doubt Zacharias expressed suggests he had given up hope. Nevertheless, we can find consolation knowing that God's grace is not to be feared and that the prayers of the righteous are accepted, even when the answer seems delayed or impossible.",
+        "wordCount": 85,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.298872250780835,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.78,
+        "commentatorTierSimilarities": [
+            36.07,
+            26.62,
+            37.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He had then prayed for a son\u2014but as appears below, long since\u2014for he now had ceased to look for an answer to his prayer.",
+            "Many Commentators have thought his prayer was for the salvation of Israel by the appearance of the Messiah: but the former view appears more probable.",
+            "John\u2014i. e. God is favorable: we have it under the form of Johanan, 2 Kings xxv. 23; 1 Chron. iii. 24; 2 Chron. xxviii. 12."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thy prayer is heard\u2014doubtless for offspring, which by some presentiment he even yet had not despaired of.",
+            "John\u2014the same as 'Johanan,' so frequent in the Old Testament, meaning 'Jehovah's gracious gift.'"
+        ],
+        "Albert Barnes": [
+            "Thy prayer is heard - That is, thy prayer for offspring.",
+            "No prospect was more gloomy to them than that of dying childless, so that their 'name should perish.'",
+            "Special pains, therefore, had been taken in the law to keep up the names of families by requiring a man to marry his brother\u2019s wife."
+        ],
+        "Marvin Vincent": [
+            "The prayer, which thou no longer offerest, was heard.",
+            "Is heard [\u03b5\u03b9\u03c3\u03b7\u03ba\u03bf\u03c5\u03c3\u03b8\u03b7] . If we render the aorist literally, was heard, we avoid the question as to what prayer is referred to.",
+            "John. Meaning God is favorable, or Jehovah showeth grace."
+        ],
+        "John Calvin": [
+            "The glory of God, it ought to be observed, is not so appalling to the saints as to swallow them up entirely with dread, but only to cast them down from a foolish confidence, that they may behold him with humility.",
+            "We ought, therefore, to accept this consolation, with which the angel soothes Zacharias, that we have no reason to fear, when God is gracious to us.",
+            "The name was given, I think, to the Baptist in order to heighten the authority of his office... The force and weight of the name are increased by its date; for it was before he was born that God inscribed on him this token of his favor."
+        ],
+        "Philip Schaff": [
+            "The doubt of Zacharias (Luke 1:18) indicates that he had ceased to pray for a son.",
+            "The answer includes both the public and private blessing.",
+            "John, \u2018God graciously gave.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Is heard (\u03b5\u03b9\u03c3\u03b7\u03ba\u03bf\u03c5\u03c3\u03b8\u03b7). First aorist passive indicative. A sort of timeless aorist, 'was heard' when made, and so 'is heard' now.",
+            "John (\u0399\u03c9\u03b1\u03bd\u03b7\u03bd). The word means that God is gracious. The mention of the name should have helped Zacharias to believe.",
+            "Certainly Luke has preserved the earliest Christian hymns in their oldest sources. He is the first critic of the sources of the Gospels and a scholarly one."
+        ],
+        "John Gill": [
+            "For thy prayer is heard; which he had many years ago put up for a son; prayer is sometimes immediately heard, and answered; and sometimes an answer is deferred a long time, to try the faith and patience of the saints, and to discover the more the wisdom, power, and goodness of God.",
+            "And thy wife Elisabeth shall bear thee a son; who had been always barren, and was called so... a fit name for one that was filled with the gifts and graces of the Spirit; and was the harbinger of the Messiah, who is full of grace and truth; and the ushered in the Messiah's kingdom, which is a dispensation of grace."
+        ],
+        "John Wesley": [
+            "Let us observe with pleasure, that the prayers of pious worshippers come up with acceptance before God; to whom no costly perfume is so sweet, as the fragrancy of an upright heart.",
+            "An answer of peace was here returned, when the case seemed to be most helpless. Let us wait patiently for the Lord, and leave to his own wisdom the time and manner wherein he will appear for us.",
+            "John signifies the grace or favour of Jehovah. A name well suiting the person, who was afterward so highly in favour with God, and endued with abundance of grace; and who opened a way to the most glorious dispensation of grace in the Messiah's kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Zacharias had prayed for a son, but had long since ceased expecting an answer. His prayer was likely for offspring rather than the salvation of Israel. The name John, meaning God is favorable or Jehovah's gracious gift, reflects the grace of God in answering Zacharias' prayer. Although the exact prayer is unclear, Zacharias' doubt suggests he had given up hope. Nevertheless, God heard and answered his prayer, giving him a son in the barrenness of his wife Elisabeth. This name not only suited the person of John, who was favored by God and filled with grace, but also served to enhance the authority of his office. We can find consolation in the fact that when God is gracious to us, we have no reason to fear. The prayers of the righteous are accepted by God, even when the answer seems delayed or impossible.",
+            "wordCount": 144,
+            "quoteTokenProportion": 43.01,
+            "qualityScore": 2.19216663559346,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.23,
+            "commentatorTierSimilarities": [
+                35.78,
+                27.8,
+                36.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Zacharias had ceased to expect an answer to his prayer for a son, but God heard and answered him. The name John, meaning God is favorable or Jehovah's gracious gift, reflects the grace displayed in Zacharias' answered prayer. Though the specific prayer is unclear, the doubt Zacharias expressed suggests he had given up hope. Nevertheless, we can find consolation in knowing that God's grace is not to be feared. The righteous's prayers are accepted by God, even if the answer is delayed or seems impossible.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.238700818889936,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.78,
+            "commentatorTierSimilarities": [
+                36.09,
+                27.19,
+                36.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Zacharias had long since ceased looking for an answer to his prayer for a son, but God heard and answered. The name John, meaning Jehovah's gracious gift, reflects the grace of God in answering Zacharias' prayer. Although the specific prayer is uncertain, the doubt Zacharias expressed suggests he had given up hope. Nevertheless, we can find consolation knowing that God's grace is not to be feared and that the prayers of the righteous are accepted, even when the answer seems delayed or impossible.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.298872250780835,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.78,
+            "commentatorTierSimilarities": [
+                36.07,
+                26.62,
+                37.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Zacharias had ceased expecting an answer to his prayer for a son, but God heard and answered. The name John, meaning God is favorable or Jehovah's gracious gift, reflects the grace displayed in Zacharias' answered prayer. Though the specific prayer is unclear, Zacharias' doubt suggests he had given up hope. Nevertheless, we can find consolation in knowing that God's grace is not to be feared. The prayers of the righteous are accepted by God, even if the answer is delayed or seems impossible.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.276109872777851,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.02,
+            "commentatorTierSimilarities": [
+                36.02,
+                27.3,
+                36.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Zacharias had long ceased expecting an answer to his prayer for a son, but God heard and answered him. The name John, meaning God is favorable or Jehovah's gracious gift, reflects the grace of God in answering Zacharias' prayer. The specific prayer is unclear, but Zacharias' doubt suggests he had given up hope. However, we can find consolation in knowing that God's grace is not to be feared. The prayers of the righteous are accepted by God, even if the answer is delayed or seems impossible.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.267431399933863,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.73,
+            "commentatorTierSimilarities": [
+                35.99,
+                27.32,
+                36.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

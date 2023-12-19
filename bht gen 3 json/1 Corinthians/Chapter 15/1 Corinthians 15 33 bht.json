@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:14:12",
+    "verseRef": "1 Corinthians 15:33",
+    "bestBHT": {
+        "bht": "Beware of the deception of the denial of the resurrection, for evil communications can corrupt good manners. The Corinthians, influenced by the belief that sin resides only in the body, were in danger of being corrupted by the immorality of their society. It is crucial to guard against the influence of evil company, as it can pollute our minds and corrupt our morals. Let us not be led astray by false philosophies, but remain firm in our faith, hope, and love.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.1590779146697043,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.13,
+        "commentatorTierSimilarities": [
+            32.06,
+            30.02,
+            37.92
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The tendency of the denial of the resurrection, represented by the Epicurean maxim just quoted.",
+            "Be not deceived, as in ch. vi. 9, introduces a warning against oral self-deception.",
+            "Evil communications corrupt good manners."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Evil communications corrupt good manners.",
+            "Their notion seems to have been that the resurrection is merely spiritual, that sin has its seat solely in the body.",
+            "Intimacy with the profligate society around was apt to corrupt the principles of the Corinthians."
+        ],
+        "Albert Barnes": [
+            "Be not deceived - By your false teachers, and by their smooth and plausible arguments.",
+            "The sentiment of the passage is, that the contact of evil-minded men, or that the close friendship and conversation of those who hold erroneous opinions, or who are impure in their lives, tends to corrupt the morals, the heart, the sentiments of others.",
+            "We have less horror at vice by becoming familiar with it; we look with less alarm on error when we hear it often expressed; we become less watchful and cautious when we are constantly with the frivilous, the worldly, the unprincipled, and the vicious."
+        ],
+        "Marvin Vincent": [
+            "Evil company doth corrupt good manners.",
+            "Alas for the ill-luck in mortals that brings this honest man into company with those who have less regard for religion.",
+            "In every matter, indeed, nothing is worse than evil-fellowship."
+        ],
+        "John Calvin": [
+            "Nothing is more pestilential than corrupt doctrine and profane disputations, which draw us off, even in the smallest degree, from a right and simple faith.",
+            "Evil communications have more effect than we might suppose, in polluting our minds and corrupting our morals.",
+            "Let us...guard against evil communications, as we would against the most deadly poison, because, insinuating themselves secretly into our minds, they straightway corrupt our whole life."
+        ],
+        "Archibald T. Robertson": [
+            "Do not be led astray by such a false philosophy of life.",
+            "Evil companionships.",
+            "Good morals here."
+        ],
+        "John Gill": [
+            "evil communications corrupt good manners.",
+            "This is a sentence taken out of Menander, an Heathen poet, showing how dangerous is the conversation of evil men, and what an influence bad principles communicated and imbibed, have on the lives and practices of men.",
+            "This the apostle cites not out of ostentation, or to show his reading, learning, and acquaintance with such sort of writers; but partly to observe, that this was a truth obvious by the light of nature, and partly because such a testimony might be more regarded by the Corinthians."
+        ],
+        "John Wesley": [
+            "Be not deceived \u2014 By such pernicious counsels as this.",
+            "Evil communications corrupt good manners \u2014 He opposes to the Epicurean saying, a well-known verse of the poet Menander.",
+            "Evil communications - Discourse contrary to faith, hope, or love, naturally tends to destroy all holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of being deceived by the denial of the resurrection, for evil company has the power to corrupt good morals. The Corinthians, influenced by a false philosophy, believed that sin resided only in the body and that the resurrection was merely spiritual. However, associating closely with the immoral society around them was prone to corrupting their principles. It is crucial to guard against the influence of evil communication, as it has the potential to pollute our minds and corrupt our entire lives. Let us not be led astray by such false teachings and instead remain steadfast in our faith, hope, and love.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.9491132454487028,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.15,
+            "commentatorTierSimilarities": [
+                30.71,
+                32.16,
+                37.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware of being deceived by the Epicurean denial of the resurrection, as evil communications have the power to corrupt good manners. The Corinthians, influenced by the philosophy that sin resides solely in the body, were in danger of being swayed by the immoral society around them. It is crucial to guard against evil company, which can pollute our minds and corrupt our morals. Let us not be led astray by false teachings but remain steadfast in our faith, hope, and love.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.1561358328616986,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                32.07,
+                30.34,
+                37.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of the deception of the denial of the resurrection, for evil communications can corrupt good manners. The Corinthians, influenced by the belief that sin resides only in the body, were in danger of being corrupted by the immorality of their society. It is crucial to guard against the influence of evil company, as it can pollute our minds and corrupt our morals. Let us not be led astray by false philosophies, but remain firm in our faith, hope, and love.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.1590779146697043,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.13,
+            "commentatorTierSimilarities": [
+                32.06,
+                30.02,
+                37.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of deception regarding the denial of resurrection, as evil communications corrupt good manners. The Corinthians, influenced by the belief that resurrection is purely spiritual and sin is confined to the body, were at risk of being led astray by their immoral surroundings. It is important to guard against the corrupting influence of evil company, which can pollute the mind and corrupt one's entire life. Do not be deceived by false philosophies, but remain steadfast in faith, hope, and love.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1387907860360227,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.46,
+            "commentatorTierSimilarities": [
+                31.6,
+                30.79,
+                37.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of being deceived by the denial of the resurrection, as evil communications have the power to corrupt good manners. The Corinthians believed in a spiritual resurrection and that sin resided solely in the body, but their association with the immoral society around them threatened to corrupt their principles. Let us guard against the influence of evil company, which pollutes the mind and corrupts our entire lives. Do not be led astray by false philosophies, but remain steadfast in faith, hope, and love.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1508843575479197,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.86,
+            "commentatorTierSimilarities": [
+                31.42,
+                31.41,
+                37.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

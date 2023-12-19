@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:16:08",
+    "verseRef": "Luke 7:19",
+    "bestBHT": {
+        "bht": "Two certain disciples of John called unto Jesus, asking Him if He was the one they were expecting, or if they should look for someone else. John, who was imprisoned at the time, sent his disciples to Jesus with this question, not because he doubted that Jesus was the Messiah, but to remove any doubts they might have had. This interaction shows that despite being imprisoned, John still had a connection with his followers, and his disciples sought clarification from Jesus, who was referred to as the Lord.",
+        "wordCount": 88,
+        "quoteTokenProportion": 57.38,
+        "qualityScore": 1.7290199707222882,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+        "commentatorTierSimilarities": [
+            23.59,
+            25.54,
+            50.87
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Two [\u03b4\u03c5\u03bf \u03c4\u03b9\u03bd\u03b1\u03c2] . Lit, two certain ones. Rev., in margin, certain two. Art thou. The thou is emphatic. See on Matthew 11:3."
+        ],
+        "Philip Schaff": [
+            "This shows that the imprisonment did not shut him off from intercourse with His followers.",
+            "To the Lord.",
+            "Eleven times is this title applied to Jesus in this Gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Calling unto him (\u03c0\u03c1\u03bf\u03c3\u03ba\u03b1\u03bb\u03b5\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2). First aorist middle (indirect) participle.",
+            "Two (\u03b4\u03c5\u03bf \u03c4\u03b9\u03bd\u03b1\u03c2). Certain two. Not in Matthew 11:2.",
+            "Saying (\u03bb\u03b5\u03b3\u03c9\u03bd). John saying by the two messengers. The message is given precisely alike in Matthew 11:3, which see."
+        ],
+        "John Gill": [
+            "And John calling unto him two of his disciples... Sent them unto Jesus, saying, art thou he that should come, or look we for another?\" ",
+            "Not that he doubted that Jesus was the Messiah; nor was it for his own satisfaction so much that he sent these disciples of his with this question, but for theirs.\" ",
+            "And to remove all doubt and hesitation from them about Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Two certain disciples of John called unto Jesus, asking Him if He was the one they were expecting, or if they should look for someone else. John, who was imprisoned at the time, sent his disciples to Jesus with this question, not because he doubted that Jesus was the Messiah, but to remove any doubts they might have had. This interaction shows that despite being imprisoned, John still had a connection with his followers, and his disciples sought clarification from Jesus, who was referred to as the Lord.",
+            "wordCount": 88,
+            "quoteTokenProportion": 57.38,
+            "qualityScore": 1.7290199707222882,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                23.59,
+                25.54,
+                50.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Two certain disciples of John called unto Jesus, asking Him if He was the one they were expecting, or if they should look for someone else. John, who was imprisoned at the time, sent his disciples to Jesus with this question, not because he doubted Jesus' messiahship, but to clear any doubts his disciples may have had. This interaction highlights the continued connection between John and his followers during his imprisonment, as his disciples sought clarification from Jesus, who was addressed as the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 55.0,
+            "qualityScore": 1.7157924578659647,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+            "commentatorTierSimilarities": [
+                24.31,
+                26.19,
+                49.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Two disciples of John, while he was in prison, approached Jesus and asked if He was the one they were waiting for or if they should expect someone else. John sent his disciples to seek this answer, not because he doubted Jesus' identity as the Messiah, but to remove any hesitations or uncertainties from their minds. Despite his imprisonment, John maintained a connection with his followers, and his disciples turned to Jesus, addressing Him as the Lord.",
+            "wordCount": 77,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 1.677656552929938,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                22.73,
+                26.4,
+                50.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John, despite being imprisoned, sends two of his disciples to Jesus, asking if he is truly the Messiah. This question is not because John doubts Jesus' identity, but rather to remove any uncertainty from the minds of his disciples. The fact that he calls upon Jesus in this way highlights the ongoing connection between John and his followers, proving that his imprisonment did not sever their relationship. In doing so, John honors Jesus as the Lord and recognizes His authority. This passage also emphasizes the significance of the title the Lord, which is applied to Jesus eleven times in the Gospel of Luke.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.6641845531625583,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.68,
+            "commentatorTierSimilarities": [
+                22.43,
+                33.79,
+                43.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John, despite being imprisoned, calls two of his disciples to Jesus to ask if He is the promised Messiah or if they should expect another. Although John already believed in Jesus as the Messiah, his intention was to remove all doubt and hesitation from the minds of his disciples. This interaction highlights the continuity of John's connection with his followers even while in prison. Moreover, it emphasizes Jesus' authority by addressing Him as the Lord, a title used for Him eleven times in Luke's Gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.5022880017836473,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.29,
+            "commentatorTierSimilarities": [
+                22.75,
+                30.68,
+                46.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

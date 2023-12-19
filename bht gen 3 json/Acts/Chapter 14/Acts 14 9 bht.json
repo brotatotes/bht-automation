@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:31:08",
+    "verseRef": "Acts 14:9",
+    "bestBHT": {
+        "bht": "The countenance of the crippled man revealed his faith to be healed, catching the attention of the discerning Apostle Paul. While intently listening to Paul's preaching, the man showed eagerness and hope. Inspired by the sight of this suffering individual, Paul emphasized the healing miracles of Jesus, emphasizing His present power. Stirred by the Spirit, Paul commanded the man to stand upright, resulting in an immediate and astonishing healing. The man's countenance and attentive hearing authenticated his faith, leading to both physical and spiritual restoration.",
+        "wordCount": 87,
+        "quoteTokenProportion": 21.43,
+        "qualityScore": 2.3799103027735278,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.47,
+        "commentatorTierSimilarities": [
+            35.52,
+            30.71,
+            33.77
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His countenance, read by the Apostle\u2019s gift of spiritual discernment, gave token of faith to be healed.",
+            "The imperfect tense here in the original is important. He was listening to Paul's preaching.",
+            "Stedfastly beholding him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Steadfastly beholding him...and perceiving that he had faith to be healed.",
+            "Paul may have been led by the sight of this cripple to dwell on the Saviour's miracles of healing, and His present power.",
+            "The Spirit of the glorified Physician came all upon Paul, and 'with a loud voice' he bade him 'stand upright upon his feet.' The effect was instantaneous."
+        ],
+        "Albert Barnes": [
+            "Fixing his eyes intently on him.",
+            "He had heard Paul, and perhaps the apostle had dwelt particularly on the miracles with which the gospel had been attested.",
+            "Had faith to be healed."
+        ],
+        "Marvin Vincent": [
+            "Heard [\u03b7\u03ba\u03bf\u03c5\u03b5] . The force of the imperfect should be given here. He was hearing while Paul preached."
+        ],
+        "John Calvin": [
+            "But forasmuch as God was determined to show a token of his grace in the cripple, he prepared his mind before, and made him capable of this that should come upon him.",
+            "And this kind of faith is likewise particular which giveth place to miracles, which many of God\u2019s children do want, who are, notwithstanding, indued with the Spirit of adoption.",
+            "We know how doubtful and how deceitful a thing the countenance of man is, therefore there could no sure judgment be given thereby of faith, which hath God alone to be witness thereof."
+        ],
+        "Philip Schaff": [
+            "Perceiving that he had faith to be healed.",
+            "Something in the sufferer\u2019s face which moved him to utter the commanding words which possessed such strange awful power.",
+            "This conviction the apostle read in the upturned face of the afflicted one who lay helpless at his feet."
+        ],
+        "Archibald T. Robertson": [
+            "This man was 'no mendicant pretender,' for his history was known from his birth.",
+            "Paul saw a new hope in the man's eyes and face.",
+            "He had faith."
+        ],
+        "John Gill": [
+            "He was one of his hearers, and faith came to him by hearing.",
+            "Paul beholding the lame man, as Peter looked on the man he cured.",
+            "Perceiving that he had faith to be healed; as he might by his looks, his gestures, his attention in hearing."
+        ],
+        "John Wesley": [
+            "He had faith to be healed \u2014 He felt the power of God in his soul; and thence knew it was sufficient to heal his body also."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle Paul, gifted with spiritual discernment, saw in the countenance of the cripple a sign of faith that could lead to healing. The man had been listening intently to Paul's preaching, and Paul, moved by the man's hopeful eyes and face, perceived his faith. Perhaps the sight of this crippled man reminded Paul of Jesus' miracles, prompting him to speak with conviction and authority. The glorified Physician's Spirit came upon Paul, and with a loud voice, he commanded the man to stand upright on his feet, resulting in an immediate healing. This man's faith, evidenced in his countenance and his attentive listening, allowed him to receive both spiritual and physical restoration.",
+            "wordCount": 116,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.4507552989956682,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.83,
+            "commentatorTierSimilarities": [
+                34.61,
+                29.61,
+                35.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle Paul, through his spiritual discernment, noticed in the man's countenance a sign of faith that could lead to healing. This man had been intently listening to Paul's preaching and his eyes and face reflected a new hope. Paul, moved by this, spoke with conviction and commanded the man to stand upright upon his feet. The immediate healing that followed demonstrated the power of faith and the work of the Spirit. The man's countenance and attentive listening were evidence of his faith that allowed him to be restored both spiritually and physically.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.356221498392009,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.68,
+            "commentatorTierSimilarities": [
+                33.83,
+                30.37,
+                35.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through his gift of spiritual discernment, the Apostle Paul perceived in the countenance of the crippled man a display of faith, which stirred hope within him. This man had been actively listening to Paul's preaching, demonstrating his attentive engagement. Guided by the sight of this man's infirmity, Paul emphasized the healing miracles of Jesus and His present power. As Paul commanded him to stand, the Holy Spirit descended upon him, resulting in an instantaneous and astonishing healing. The man's countenance and attentive hearing revealed his faith, leading to his restoration.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.377578749538955,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.39,
+            "commentatorTierSimilarities": [
+                35.26,
+                29.68,
+                35.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The countenance of the crippled man showed faith to be healed, as discerned by the Apostle Paul. Engrossed in Paul's preaching, he received the message with attentive listening. With the image of the suffering man before him, Paul was reminded of Jesus' healing miracles and His present power. Moved by the Spirit, Paul instructed the man to rise, resulting in an immediate restoration. This man's faith displayed through his countenance and attentive hearing allowed him to receive not only physical healing but also spiritual transformation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.3182496477742074,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.42,
+            "commentatorTierSimilarities": [
+                35.51,
+                29.84,
+                34.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The countenance of the crippled man revealed his faith to be healed, catching the attention of the discerning Apostle Paul. While intently listening to Paul's preaching, the man showed eagerness and hope. Inspired by the sight of this suffering individual, Paul emphasized the healing miracles of Jesus, emphasizing His present power. Stirred by the Spirit, Paul commanded the man to stand upright, resulting in an immediate and astonishing healing. The man's countenance and attentive hearing authenticated his faith, leading to both physical and spiritual restoration.",
+            "wordCount": 87,
+            "quoteTokenProportion": 21.43,
+            "qualityScore": 2.3799103027735278,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.47,
+            "commentatorTierSimilarities": [
+                35.52,
+                30.71,
+                33.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

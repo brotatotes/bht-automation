@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:34:28",
+    "verseRef": "Acts 20:31",
+    "bestBHT": {
+        "bht": "During his ministry, the apostle continuously warned and admonished the people day and night with tears, fully aware of the dangers they would face. His heartfelt exhortations were not in vain, as the angel to the Church of Ephesus acknowledged their works, labor, and patience. The apostle's constant vigilance and unwavering determination to keep the flock safe from false teachings serve as a powerful example for all ministers of the Gospel, encouraging them to emulate his dedication to preserving the truth.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.6728688737929307,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.97,
+        "commentatorTierSimilarities": [
+            17.22,
+            39.67,
+            43.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This passage being precise and definite, must be the master-key to those others (as in ch. xix.) which give wide and indefinite notes of time.",
+            "It seems at first sight to preclude the idea of a journey (as some think) to Crete and Corinth having taken place during this period.",
+            "This apparent inference may require modifying by other circumstances."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And if this was an apostle's part, how much more a pastor's!",
+            "What an appeal to be able to make!",
+            "I ceased not to warn every one night and day with tears."
+        ],
+        "Albert Barnes": [
+            "Therefore watch...be on your guard. Observe the approach of danger, and set yourselves against it.",
+            "Remember...recall my counsels and admonitions in reference to these dangers.",
+            "With tears...expressive of his deep feeling, and his deep interest in their welfare."
+        ],
+        "Marvin Vincent": [
+            "Watch. To warn.\" ",
+            "It's fundamental idea is the well-intentioned seriousness with which one would influence the mind and disposition of another by advice, admonition, warning, putting right, according to circumstances."
+        ],
+        "John Calvin": [
+            "They have need of great attention to beware; and that it is an unseemly thing that they should be wearied who had seen his singular patience by the space of three years.",
+            "He speaketh of his tears, which did add no small efficacy to his exhortations.",
+            "Their studies must be kindled, not only with this speech which he now maketh, but that it is meet that they remember those often exhortations which he did continually beat in by the space of three years, and that with many tears."
+        ],
+        "Philip Schaff": [
+            "By the space of three years I ceased not to warn every one night and day with tears.\" ",
+            "The approving words to the angel to the Church of Ephesus... tell us that the earnest wishes and the affectionate pleadings of the apostle were not in vain.",
+            "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars: and hast borne, and hast patience, and for my name\u2019s sake hast laboured, and hast not fainted."
+        ],
+        "Archibald T. Robertson": [
+            "Stay awake.",
+            "I did not cease admonishing, night and day.",
+            "Forewarned is to be forearmed."
+        ],
+        "John Gill": [
+            "To nip the buds of heresy and schism, as soon as they appear.",
+            "He was constantly and continually cautioning them against false teachers, and their doctrines, in the most tender and affectionate manner; shedding tears at the thoughts of what mischief would be done, and how many souls would be ruined by them.",
+            "A lively idea of the apostle, and his ministry, of his affection, zeal, and diligence, very worthy of the imitation of all the preachers of the Gospel."
+        ],
+        "John Wesley": [
+            "I ceased not to warn every one night and day \u2014 This was watching indeed! Who copies after this example?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During his ministry, the apostle tirelessly warned and admonished the people day and night, fully aware of the dangers that they would face. He deeply cared for their well-being, as seen in the tears he shed while pleading with them. His heartfelt exhortations were not in vain, as the angel to the Church of Ephesus acknowledged their works, labor, and patience. The apostle's constant vigilance and unwavering determination to keep the flock safe from false teachings and spiritual harm serve as a powerful example for all pastors and ministers. Let us take heed of his earnestness and emulate his dedication to preserving the truth of the Gospel.",
+            "wordCount": 109,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.6368965125172128,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.77,
+            "commentatorTierSimilarities": [
+                18.68,
+                41.47,
+                39.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During his ministry, the apostle continuously warned and admonished the people day and night with tears, fully aware of the dangers they would face. His heartfelt exhortations were not in vain, as the angel to the Church of Ephesus acknowledged their works, labor, and patience. The apostle's constant vigilance and unwavering determination to keep the flock safe from false teachings serve as a powerful example for all ministers of the Gospel, encouraging them to emulate his dedication to preserving the truth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6728688737929307,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.97,
+            "commentatorTierSimilarities": [
+                17.22,
+                39.67,
+                43.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During his ministry, the apostle ceaselessly warned and admonished the people day and night, expressing deep concern for their well-being. His heartfelt pleas were not in vain, as seen in the commendations given to the Church of Ephesus. The apostle's unwavering dedication to safeguarding against false teachings serves as a powerful example for all ministers of the Gospel. Let us imitate his fervor and unwavering commitment to preserving the truth, diligently watching and protecting the souls entrusted to our care.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.544921338273213,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.71,
+            "commentatorTierSimilarities": [
+                18.82,
+                40.0,
+                41.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During his ministry, the apostle ceaselessly warned and admonished the people day and night with tears, expressing deep concern for their well-being. He tirelessly watched over them, recognizing the dangers they faced and earnestly pleading for their protection. His efforts were not in vain, as evident in the commendations given to the Church of Ephesus. The apostle's unwavering dedication and vigilance serve as a powerful example for all ministers, reminding us to be diligent in safeguarding the truth and guiding our flock with love and earnestness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6067412374049876,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.77,
+            "commentatorTierSimilarities": [
+                17.86,
+                44.07,
+                38.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During his ministry, the apostle ceaselessly warned and admonished the people day and night with tears, carefully watching over their spiritual well-being. His heartfelt pleas were not in vain, as evident in the commendations given to the Church of Ephesus. The apostle's unwavering dedication to protecting the flock from false teachings serves as a powerful example for all ministers, reminding us to be diligent in preserving the truth and earnestly guiding those entrusted to our care. Let us emulate his fervor and vigilance in our shepherding responsibilities.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.567207839491135,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.45,
+            "commentatorTierSimilarities": [
+                21.46,
+                40.1,
+                38.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

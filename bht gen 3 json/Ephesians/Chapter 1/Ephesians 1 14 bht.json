@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:29:47",
+    "verseRef": "Ephesians 1:14",
+    "bestBHT": {
+        "bht": "The Holy Spirit is the earnest, sealing us until the day of complete redemption. It is the pledge and assurer of God's promises to us, serving as the first installment of our heavenly inheritance. Through the Spirit, we are renewed, comforted, and sanctified, knowing that the full redemption of our bodies and the possession of our inheritance are yet to come. We are God's purchased possession, obtained by the blood of Christ, and this redemption is the ultimate triumph of His glory. All of this is to the praise of His glorious wisdom and power.",
+        "wordCount": 97,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.3981429830259335,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.08,
+        "commentatorTierSimilarities": [
+            31.0,
+            36.98,
+            32.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Spirit is the 'firstfruits,' the pledge and assurer to us of 'the things granted to us by God,' which eye hath not seen, &c.",
+            "The purpose expressed is that of the sealing, not of the earnest. These two final clauses express the great purpose of all\u2014not any mere intermediate matter\u2014nor can the Holy Spirit be said to be any such intermediate gift.",
+            "This, the thorough and final redemption of the Church which He hath acquired to Himself, is the greatest triumph of His glory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Earnest\u2014the first installment paid as a pledge that the rest will follow.",
+            "Unto the redemption... the full 'redemption of the body'... from every infirmity.",
+            "God's people purchased... by the blood of Christ... His peculiar possession."
+        ],
+        "Albert Barnes": [
+            "We have the Holy Spirit as the pledge that that shall be ours, and the Holy Spirit will be imparted to us until we enter on that inheritance.",
+            "The Holy Spirit, renewing and sanctifying us, comforting us in trials, and sustaining us in afflictions, is the pledge that the redemption is yet to be wholly ours.",
+            "Unto the praise of his glory."
+        ],
+        "Marvin Vincent": [
+            "Earnest.",
+            "Of the purchased possession...the thing acquired, or a possession.",
+            "Unto the praise of His glory; God's purpose as it respects Himself."
+        ],
+        "John Calvin": [
+            "The Spirit, then, is the earnest of our inheritance of eternal life, until the redemption, that is, until the day of complete redemption is arrived.",
+            "The significance of a pledge lasts no longer than till both parties have fulfilled the bargain.",
+            "The frequent mention of the glory of God ought not to be regarded as superfluous, for what is infinite cannot be too strongly expressed."
+        ],
+        "Philip Schaff": [
+            "The present gift of the Spirit is such a pledge of fuller blessing.",
+            "Believers obtain the certainty that they are heirs and have an inheritance in eternity, not through an assurance from without, but chiefly through the reality of the possession, not at once in its entire extent, but in an earnest.",
+            "This section began with an ascription of 'blessing,' it ends with this refrain which makes 'praise' the ultimate end of the entire scheme of redemption. Our free ascription of praise is for what He has done and for what He is."
+        ],
+        "Archibald T. Robertson": [
+            "God's gift of the Holy Spirit is the pledge and first payment for the final inheritance in Christ.",
+            "God has purchased us back to himself.",
+            "The sealing extends to the redemption and to the glory of God."
+        ],
+        "John Gill": [
+            "The Spirit of God certifies the right to the heavenly inheritance, as well as gives a meetness for it; he is the firstfruits of eternal glory and happiness, and of the same kind with it.",
+            "Being once given into the heart as an earnest, he always continues, he never removes more, or is ever taken away.",
+            "This shows the perpetuity of the Spirit's inhabitation, and grace, the final perseverance of the saints, and the security of the inheritance to them."
+        ],
+        "John Wesley": [
+            "Who, thus sealing us, is an earnest - Both a pledge and a foretaste of our inheritance.",
+            "Till the redemption of the purchased possession \u2014 Till the church, which he has purchased with his own blood, shall be fully delivered from all sin and sorrow, and advanced to everlasting glory.",
+            "To the praise of his glory \u2014 Of his glorious wisdom, power, and mercy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Holy Spirit is the earnest and seal of our inheritance, the pledge that God has given to assure us of the blessings and promises to come. It is not merely an intermediate gift, but a testament to God's ultimate purpose of redemption and glory. Through the Spirit, we are renewed, sanctified, and comforted, knowing that the full redemption of our bodies and the complete possession of our inheritance are yet to come. The Spirit is the first installment, the down payment, that ensures the fulfillment of God's plan. We, God's purchased possession, are sealed until the day of complete redemption and to the praise of His glorious wisdom, power, and mercy.",
+            "wordCount": 115,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.4295302550138462,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.12,
+            "commentatorTierSimilarities": [
+                30.81,
+                37.09,
+                32.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Holy Spirit is the earnest and seal of the believers' inheritance, assuring the things granted to us by God. Through the Spirit, we are comforted, sanctified, and sustained until we enter our heavenly inheritance. The Spirit is the first installment that guarantees the full redemption of our bodies and the possession of our inheritance. We are God's purchased possession, obtained by the blood of Christ, and this redemption of the Church is the greatest triumph of His glory. All of this is to the praise of His glorious wisdom, power, and mercy.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.381841464987925,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.54,
+            "commentatorTierSimilarities": [
+                30.23,
+                37.39,
+                32.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Holy Spirit is the earnest of our inheritance, the pledge and assurer of the things granted to us by God. This sealing extends to the thorough and final redemption of the Church, which is the greatest triumph of His glory. The Spirit is the first installment paid as a pledge, ensuring that the rest will follow. Through the Spirit, we have obtained the certainty that we are God's purchased possession, redeemed by the blood of Christ. All of this is to the praise of His glorious wisdom, power, and mercy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.3763991393689414,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.36,
+            "commentatorTierSimilarities": [
+                32.42,
+                36.92,
+                30.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Holy Spirit serves as the assurance and pledge of our heavenly inheritance, sealing us until the day of complete redemption. This gift from God is not a mere intermediary, but a testament to His great purpose of redeeming the Church. The Spirit is the first installment, the down payment, guaranteeing the full redemption of our bodies and the possession of our inheritance. Through the Spirit, we are sanctified and renewed, knowing that we are God's purchased possession, acquired by the precious blood of Christ. All of this magnifies the praise of His glorious wisdom and power.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.3129451609501706,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.25,
+            "commentatorTierSimilarities": [
+                31.7,
+                37.14,
+                31.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Holy Spirit is the earnest, sealing us until the day of complete redemption. It is the pledge and assurer of God's promises to us, serving as the first installment of our heavenly inheritance. Through the Spirit, we are renewed, comforted, and sanctified, knowing that the full redemption of our bodies and the possession of our inheritance are yet to come. We are God's purchased possession, obtained by the blood of Christ, and this redemption is the ultimate triumph of His glory. All of this is to the praise of His glorious wisdom and power.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.3981429830259335,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.08,
+            "commentatorTierSimilarities": [
+                31.0,
+                36.98,
+                32.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

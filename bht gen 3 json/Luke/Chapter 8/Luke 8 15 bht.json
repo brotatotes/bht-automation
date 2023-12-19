@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:16:40",
+    "verseRef": "Luke 8:15",
+    "bestBHT": {
+        "bht": "Those who receive the word of God in earnest, with an honest and good heart, are the ones spoken of here, such as Nathanael, who was true and sincere. They are willing to be taught and humble enough to receive the word, holding it fast and keeping it faithfully. This kind of hearer bears good fruit with patience, showing that they have spiritual life and a genuine intention to follow God's word.",
+        "wordCount": 73,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 1.7248930760076981,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+        "commentatorTierSimilarities": [
+            42.29,
+            0.0,
+            57.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All men have receptivity enough to make it matter of condemnation to them that they receive it not in earnest, and bring not forth fruit.",
+            "Some being false-hearted, hating the truth, deceiving themselves,\u2014others being earnest and simple-minded, willing to be taught, and humble enough to receive \u2018with meekness the engrafted word.",
+            "It is of these that our Lord here speaks; of this kind was Nathanael, the Israelite indeed in whom was no guile."
+        ],
+        "Marvin Vincent": [
+            "These are they which [\u03bf\u03c5\u03c4\u03bf\u03b9 \u03b5\u03b9\u03c3\u03b9\u03bd \u03bf\u03b9\u03c4\u03b9\u03bd\u03b5\u03c2] . Which denotes them as belonging to a class. Hence Rev., rightly, such as.",
+            "Honest and good heart. Peculiar to Luke. Honest; lit., fair, noble. Honest, not in the popular sense, but in the sense of the Latin honestus; noble, virtuous, worthy.",
+            "Keep (katecousin). Much better Rev., hold it fast, giving the force of the compound verb."
+        ],
+        "Archibald T. Robertson": [
+            "Certainly Luke adds new moral qualities not in the Hellenic phrase.",
+            "The best fruits require time, cultivation, patience.",
+            "That is the proof of spiritual life."
+        ],
+        "John Gill": [
+            "The seed that fell on good ground design such hearers, which in an honest and good heart, having heard the word, keep it: who hear with an honest and good intention, and faithfully keep it, and hold it fast.",
+            "Who hear with an honest and good intention, and faithfully keep it, and hold it fast.",
+            "Bring forth fruit with patience; with great constancy, suffering much for the sake of it; and the more they suffer, the more fruitful they are."
+        ],
+        "John Wesley": [
+            "Who \u2014 keep it - Not like the highway side: And bring forth fruit - Not like the thorny ground: With perseverance - Not like the stony."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who receive the word of God in earnest, with an honest and good heart, are the ones spoken of here, such as Nathanael, who was true and sincere. They are willing to be taught and humble enough to receive the word, holding it fast and keeping it faithfully. This kind of hearer bears good fruit with patience, showing that they have spiritual life and a genuine intention to follow God's word. The best fruits require time, cultivation, and perseverance, unlike those who lack sincerity or who are easily swayed by the world.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.7197023743589632,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "commentatorTierSimilarities": [
+                39.64,
+                0.0,
+                60.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who receive the word of God in earnest, with an honest and good heart, are the ones spoken of here, such as Nathanael, who was true and sincere. They are willing to be taught and humble enough to receive the word, holding it fast and keeping it faithfully. This kind of hearer bears good fruit with patience, showing that they have spiritual life and a genuine intention to follow God's word.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.7248930760076981,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                42.29,
+                0.0,
+                57.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The seed falling on good ground refers to those who receive the word of God sincerely, with an honest and good heart. These individuals are willing to be taught and humble enough to receive the engrafted word. Like Nathanael, they are true and sincere. They hold the word fast and keep it faithfully, bearing good fruit with patience as proof of their spiritual life. This type of hearer is different from those lacking sincerity or easily swayed by the world.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.5725137824346809,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                42.73,
+                0.0,
+                57.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The seed falling on good ground refers to those who receive the word of God in earnest and with an honest and good heart. These individuals, such as Nathanael, are sincere and willing to be taught, unlike those who deceive themselves or have a false-hearted nature. They hold the word fast, keeping it faithfully and bearing good fruit. This requires patience, cultivation, and perseverance, proving their spiritual life and genuine intention to follow God's word.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.6450382999122235,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.04,
+            "commentatorTierSimilarities": [
+                37.38,
+                0.0,
+                62.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The seed falling on good ground refers to those who receive the word of God in earnest, with an honest and good heart. Such individuals, like Nathanael, are sincere, noble, and virtuous, displaying a genuine intention to follow God's word. They hold the word fast and keep it faithfully, bearing good fruit with patience as proof of their spiritual life. Unlike those lacking in sincerity or easily influenced by the world, these hearers cultivate their faith, demonstrating the importance of time, cultivation, and perseverance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.7054109660855628,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                39.83,
+                0.0,
+                60.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

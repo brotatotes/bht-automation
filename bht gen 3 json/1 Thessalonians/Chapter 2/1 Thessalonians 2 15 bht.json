@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 13:59:16",
+    "verseRef": "1 Thessalonians 2:15",
+    "bestBHT": {
+        "bht": "The Jews in Thessalonica exhibited a hostile hatred towards others, driving out the apostles through persecution and rejecting Jesus as their Lord. Their conduct, including killing Jesus, highlighted their opposition to all men and their failure to please God. Their actions demonstrated a blatant disregard for the teachings and example of Jesus, whom they should have welcomed and obeyed. By hindering the spread of the gospel, they revealed their selfish desire to keep salvation for themselves and prevent others from receiving it.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.1456432595263877,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.68,
+        "commentatorTierSimilarities": [
+            30.49,
+            36.53,
+            32.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The arrangement of the words in the original is peculiar, throwing 'the Lord' into strong emphasis\u2014Jesus who was their Lord, whom they ought to have welcomed and obeyed.",
+            "Drove out us by persecution, viz., from among you.",
+            "Jesus who was their Lord, whom they ought to have welcomed and obeyed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This enhances the glaring enormity of their sin, that in killing Jesus they killed the LORD.\" ",
+            "They do not make it their aim to please God.\" ",
+            "They have a hostile hatred of all other men."
+        ],
+        "Albert Barnes": [
+            "It was characteristic of the Jews to be engaged in the work of persecution, and that they should not regard it as strange that they who had put their own Messiah to death, and slain the prophets, should now be found persecuting the true children of God.",
+            "It was important for the apostle to show that their conduct demonstrated that they had no such claims [to being the special people of God]. Their opposition to the Thessalonians, therefore, was no proof that God was opposed to them.",
+            "They do not merely differ from other people in customs and opinions - which might be harmless - but they keep up an active opposition to all other people... it was not opposition evinced in their own country, but they carried it with them wherever they went."
+        ],
+        "Marvin Vincent": [
+            "Persecuted [\u03b5\u03ba\u03b4\u03b9\u03c9\u03be\u03b1\u03bd\u03c4\u03c9\u03bd] . Rev. more literally and correctly, drave out.\" ",
+            "Contrary to all men.\" ",
+            "Juvenal (Sat. 14 102 f.) says that they observe and respect whatever Moses has taught in his mystical volume; not to show the way except to one who practices the same rites, and to show the well only to the circumcised."
+        ],
+        "John Calvin": [
+            "Lest this disguise should dazzle the eyes of any one, he strips the Jews of all honor, so as to leave them nothing but odium and the utmost infamy.",
+            "Behold the virtues for which they deserve praise among the good and pious! \u2014 they killed their own prophets and at last the Son of God...",
+            "...they are, in this manner, filling up the measure of their fathers, as Christ speaks."
+        ],
+        "Philip Schaff": [
+            "Who killed both the Lord Jesus.",
+            "Contrary to all men jealous that salvation should be for the world and not for themselves only."
+        ],
+        "Archibald T. Robertson": [
+            "Paul, as Peter (Acts 2:23), lays the guilt of the death of Christ on the Jews.",
+            "It is Paul's vivid description of the scene told in Acts 17:5 when the rabbis and the hoodlums from the agora chased him out of Thessalonica by the help of the politarchs.",
+            "Paul knew only too well the middle wall of partition between Jew and Gentile as he shows in 1 Thessalonians 2:2 and which only the Cross of Christ can break down."
+        ],
+        "John Gill": [
+            "And have persecuted us; the apostles of Christ; have drove us out of our own country, and pursued us from place to place, and caused us to flee from one city to another.",
+            "And they please not God: though they reckoned themselves his chosen people, the favourites of heaven, and whom God delighted in; but neither their persons nor their actions were pleasing to him.",
+            "And are contrary to all men; not only Christians, but Heathens; to all the Gentiles, who are called all men, the nations of the world, the world, and the whole world; they were contrary to these, both in their religious and civil principles, and had an aversion to them."
+        ],
+        "John Wesley": [
+            "They please not God \u2014 Nor are they even careful to please him, notwithstanding their fair professions.",
+            "And are contrary to all men \u2014 Are common enemies of mankind.",
+            "But in particular, by their endeavoring to hinder their hearing or receiving the gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews in Thessalonica, in their persecution of the apostles, displayed a blatant disregard for Jesus as their Lord, whom they should have welcomed and obeyed. Their actions were not only contrary to all men, but also demonstrated a hostile hatred for others. By driving the apostles out through persecution, they showed that they did not make it their aim to please God. Their opposition to the Thessalonians was not an indication of divine disapproval but rather exposed their own lack of claims to being the special people of God. Their conduct, which included killing Jesus, mirrored the sins of their ancestors, filling up the measure of their fathers. Ultimately, the enmity of the Jews stemmed from their desire to hinder the spread of the gospel and prevent others from receiving salvation.",
+            "wordCount": 132,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 2.095901845779183,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.03,
+            "commentatorTierSimilarities": [
+                29.97,
+                37.4,
+                32.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews in Thessalonica displayed a hostile hatred for others, driving out the apostles through persecution. They did not make it their aim to please God, but instead pursued their own selfish interests. Their actions, including killing Jesus, mirrored the sins of their fathers and demonstrated their opposition to all men. Their conduct was a blatant disregard for Jesus as their Lord, whom they should have welcomed and obeyed. By hindering the spread of the gospel, they revealed their desire to keep salvation for themselves and prevent others from receiving it.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.072758099929783,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+            "commentatorTierSimilarities": [
+                31.28,
+                35.88,
+                32.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews in Thessalonica exhibited a hostile hatred towards others, driving out the apostles through persecution and rejecting Jesus as their Lord. Their conduct, including killing Jesus, highlighted their opposition to all men and their failure to please God. Their actions demonstrated a blatant disregard for the teachings and example of Jesus, whom they should have welcomed and obeyed. By hindering the spread of the gospel, they revealed their selfish desire to keep salvation for themselves and prevent others from receiving it.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1456432595263877,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.68,
+            "commentatorTierSimilarities": [
+                30.49,
+                36.53,
+                32.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews in Thessalonica not only persecuted the apostles, but also displayed a hostile hatred towards others, driving out the messengers of the gospel through their persecution. Their conduct exemplified a failure to please God and a rejection of Jesus as their Lord. By opposing all men and hindering the spread of the gospel, they revealed their selfish desire to keep salvation for themselves and prevent others from receiving it. Their actions echoed the sins of their ancestors, reflecting a deep-seated opposition to the message of salvation for all.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.038939553118084,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "commentatorTierSimilarities": [
+                30.05,
+                35.7,
+                34.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews in Thessalonica not only drove out the apostles through persecution but also exhibited a hostile hatred towards others, contrary to all men. Their refusal to please God and rejection of Jesus as their Lord clearly demonstrated their disregard for the teachings and example of Christ. By hindering the spread of the gospel, they revealed their selfish desire to keep salvation exclusive to themselves. Their conduct mirrored the sins of their ancestors and emphasized their opposition to the message of salvation for all.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.069920177140866,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.17,
+            "commentatorTierSimilarities": [
+                29.58,
+                36.98,
+                33.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

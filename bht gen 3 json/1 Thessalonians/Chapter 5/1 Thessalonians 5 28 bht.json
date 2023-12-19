@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 14:01:15",
+    "verseRef": "1 Thessalonians 5:28",
+    "bestBHT": {
+        "bht": "Paul's closing words in this letter emphasize the importance of grace, which he begins and ends with. The omission of Amen in some manuscripts likely indicates the Church's response after hearing the Epistle read. The subscription stating that the letter was written from Athens is a later addition, as Paul actually wrote it from Corinth. Instead of the customary farewell, Paul chooses to use the noble word grace. Similar shorter forms of this benediction can be found in other letters, while a full Trinitarian benediction is found elsewhere in the New Testament.",
+        "wordCount": 94,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.7501822148598196,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+        "commentatorTierSimilarities": [
+            44.91,
+            22.33,
+            32.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Paul ends as he began with 'grace'.\" ",
+            "The oldest manuscripts omit 'Amen', which probably was the response of the Church after the public reading of the Epistle.",
+            "The subscription is a comparatively modern addition. The Epistle was not, as it states, written from Athens, but from Corinth."
+        ],
+        "Albert Barnes": [
+            "It is a subject of express divine command that the people should have access to the Holy Scriptures.",
+            "There is great iniquity in all those decisions and laws which are designed to keep the Scriptures from the common people.",
+            "There is no more decided enemy of the progress of the human race in intelligence, purity, and freedom, than he who prevents the free circulation of this holy volume."
+        ],
+        "Philip Schaff": [
+            "1 Thessalonians 5:28. The grace. That is, the free favour, the unmerited kindness. This is the usual closing benediction with which Paul concludes his letters.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Paul prefers this noble word to the customary \u03b5\u03c1\u03c1\u03c9\u03c3\u03b8\u03b5 (Farewell, Be strong).\" ",
+            "A bit shorter form in 1 Corinthians 16:23; Romans 16:20 and still shorter in Colossians 4:18; 1 Timothy 6:21; Titus 3:15; 2 Timothy 4:22.",
+            "The full Trinitarian benediction we find in 2 Corinthians 13:13."
+        ],
+        "John Gill": [
+            "The grace of our Lord Jesus Christ be with you, Amen.\" ",
+            "This is the apostle's usual salutation in all his epistles.\" ",
+            "The subscription to this epistle is not genuine."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul's closing words in 1 Thessalonians 5:28 emphasize the importance of grace, which he both begins and ends with. The omission of Amen in some manuscripts was likely the Church's response after hearing the Epistle read. The subscription indicating that the letter was written from Athens is a later addition, as it was actually written from Corinth. Instead of the typical farewell, Paul chooses to use the noble word grace. Similar shorter forms of this benediction can be found in other letters, while a full Trinitarian benediction is found in 2 Corinthians 13:13.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.7656570575666957,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                46.72,
+                22.82,
+                30.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's closing words in this letter emphasize the importance of grace, which he begins and ends with. The omission of Amen in some manuscripts likely indicates the Church's response after hearing the Epistle read. The subscription stating that the letter was written from Athens is a later addition, as Paul actually wrote it from Corinth. Instead of the customary farewell, Paul chooses to use the noble word grace. Similar shorter forms of this benediction can be found in other letters, while a full Trinitarian benediction is found elsewhere in the New Testament.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.7501822148598196,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+            "commentatorTierSimilarities": [
+                44.91,
+                22.33,
+                32.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul concludes his letter with an emphasis on grace, a theme he both begins and ends with. The absence of Amen in some manuscripts likely reflects the response of the Church after the public reading of his Epistle. The subscription, stating that the letter was written from Athens, is a later addition; in reality, Paul wrote it from Corinth. Instead of the customary farewell, Paul uses the word grace to leave a lasting impression. This benediction can also be found in other letters, with variations in length and wording.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6448660562163988,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.03,
+            "commentatorTierSimilarities": [
+                44.72,
+                23.11,
+                32.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's closing words in this letter highlight the significance of grace, which he both begins and ends with. Although some manuscripts exclude Amen, it is believed to be the response of the Church upon hearing the Epistle read. Contrary to the subscription that claims it was written from Athens, the letter was actually composed in Corinth. Instead of the customary farewell, Paul opts for the dignified word grace. Similar abbreviated versions of this benediction can be found in his other letters, while a fuller Trinitarian blessing is found elsewhere in the Bible.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.7288813955618019,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                44.81,
+                23.47,
+                31.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's concluding words in this letter emphasize the significance of grace, which he both begins and ends with. The absence of Amen in some manuscripts is likely the Church's response after hearing the Epistle read. The subscription that claims the letter was written from Athens is a later addition, as it was indeed penned from Corinth. Departing from the conventional farewell, Paul opts for the word grace. Similar shorter forms of this benediction are found in his other letters, while a more comprehensive Trinitarian blessing can be found elsewhere in Scripture.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7267584121395452,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.76,
+            "commentatorTierSimilarities": [
+                44.41,
+                23.19,
+                32.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

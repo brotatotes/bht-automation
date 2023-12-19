@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:28:47",
+    "verseRef": "Acts 9:16",
+    "bestBHT": {
+        "bht": "I will show him what great things he must suffer for that Name. Paul's experience illustrates the fulfillment of this prophecy as he testifies about the sufferings he endured. Suffering became a crucial part of Paul's calling, and he embraced it as an honor and privilege. Over the course of his ministry, Paul encountered weariness, pain, hunger, imprisonment, and even death for the sake of Christ. Through these trials, Paul learned the depth and magnitude of the sufferings he would face, ultimately becoming a living example of enduring hardships for the name of Jesus.",
+        "wordCount": 96,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 1.9936576606042333,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.63,
+        "commentatorTierSimilarities": [
+            33.08,
+            36.97,
+            29.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16. I will shew him...] The fulfilment of this is testified by Paul himself, ch. xx. 23, 25: see also xxi. 11."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I will show him what great things he must suffer for that Name, he shall count it his honor and privilege.",
+            "Much he has done against that Name; but now, when I show him what great things he must suffer for that Name.",
+            "He shall count it his honor and privilege."
+        ],
+        "Albert Barnes": [
+            "I will show him ...\": This seems to be added to encourage Ananias. He had feared Saul. The Lord now informs him that Saul, hitherto his enemy, would ever after be his friend.",
+            " ",
+            "He would not merely profess repentance, but would manifest the sincerity of it by encountering trials and reproaches for his sake.",
+            "The prediction here was fully accomplished, Acts 20:23; 2 Corinthians 11:23-27; 2 Timothy 1:11-12."
+        ],
+        "Marvin Vincent": [
+            "How great things [\u03bf\u03c3\u03b1] . Rev., more correctly, how many."
+        ],
+        "John Calvin": [
+            "I will accustom him to suffer troubles: to endure reproaches, and to abide all manner [of] conflicts, that nothing may terrify him, and keep him back from doing his duty.",
+            "The more every man hath profited in his [Christ's] school, the more able is he to bear the cross.",
+            "No man is fit to preach the gospel, seeing the world is set against it, save only he which is armed to suffer."
+        ],
+        "Philip Schaff": [
+            "For I will show him how great things he must suffer for my name\u2019s sake.",
+            "The more acutely an apostle suffered for the glory of his Master\u2019s name, the more ardently he toiled for his Master\u2019s cause.",
+            "They may not, and this was Paul\u2019s experience, have been able to foresee the exact nature, or to foretell the place and circumstances of the moment of bitter trial, but the suffering seems generally before it came to have flung its dark shadow over the life of men like Paul and his companions."
+        ],
+        "Archibald T. Robertson": [
+            "He must suffer... covering the whole career of Saul. Suffering is one element in the call that Saul receives.\" ",
+            "He will learn 'how many things' are included in this list by degrees and by experience.",
+            "But it was the 'gift' of Christ to Paul to go on suffering."
+        ],
+        "John Gill": [
+            "For I will show him,.... In vision, and by prophecy, either now, or hereafter; or by facts, as they come upon him.\" ",
+            "How great things he must suffer for my name's sake; such as weariness, pain, and watchings, hunger, thirst, fastings, cold, and nakedness, perils on various accounts, and from different quarters, stripes, scourges, imprisonment, shipwreck, stoning, and death.",
+            "Ananias had no reason to be afraid to go to him, and converse with him, and do unto him as he was directed."
+        ],
+        "John Wesley": [
+            "I will take care of the rest; will show him.",
+            "In fact, through the whole course of his ministry.",
+            "So far will he be now from persecuting others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I will show him what great things he must suffer for that Name. The fulfillment of this prophecy is seen in Paul's own testimony and experiences throughout his ministry. Suffering became a defining aspect of Paul's calling and he counted it as an honor and privilege to endure hardships for the sake of Christ. Through trials, Paul learned the depths of suffering for the name of Jesus and it became a gift bestowed upon him. The extent of his suffering was not fully known from the beginning, but Paul gradually learned how many things were included in the list of his sufferings. This prediction was fully realized in Paul's life as he encountered trials, reproaches, and various conflicts for the sake of the gospel.",
+            "wordCount": 127,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.9648009491627478,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                33.13,
+                37.54,
+                29.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I will show him what great things he must suffer for that Name. Paul's journey of suffering became a testament to his calling, recounted by Paul himself in his ministry. Suffering was not just an occasional hardship but a constant companion, a gift from Christ that he willingly embraced. The full extent of Paul's sufferings was not initially known, but he gradually learned how many things were included in the list of trials he would face. Through his suffering, Paul found honor and privilege in carrying the name of Jesus.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.9639701006640968,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+            "commentatorTierSimilarities": [
+                34.9,
+                36.29,
+                28.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I will show him what great things he must suffer for that Name. Paul's experience illustrates the fulfillment of this prophecy as he testifies about the sufferings he endured. Suffering became a crucial part of Paul's calling, and he embraced it as an honor and privilege. Over the course of his ministry, Paul encountered weariness, pain, hunger, imprisonment, and even death for the sake of Christ. Through these trials, Paul learned the depth and magnitude of the sufferings he would face, ultimately becoming a living example of enduring hardships for the name of Jesus.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.9936576606042333,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.63,
+            "commentatorTierSimilarities": [
+                33.08,
+                36.97,
+                29.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I will show him what great things he must suffer for that Name. Paul's testimony confirms the fulfillment of this prophecy, as he recounted the sufferings he endured for the sake of Christ. Suffering became an integral part of Paul's calling, and he considered it a privilege and honor. Paul experienced a multitude of trials and hardships, including weariness, pain, hunger, imprisonment, and even death. Through these sufferings, he gained a deeper understanding of the cost and sacrifice involved in proclaiming the name of Jesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9436106179577162,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.97,
+            "commentatorTierSimilarities": [
+                34.77,
+                35.39,
+                29.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I will show him what great things he must suffer for that Name. Paul's own testimony confirms the fulfillment of this prophecy, as he acknowledged the many sufferings he endured for the sake of Christ. Suffering became an essential element of Paul's calling, a gift bestowed upon him by Christ. The exact nature and extent of his sufferings were gradually revealed to him, but Paul embraced them with honor and considered it a privilege to endure hardships for the name of Jesus. His life serves as a testament to the depth of suffering he experienced for the sake of the gospel.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.0159350509125615,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                33.37,
+                37.07,
+                29.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

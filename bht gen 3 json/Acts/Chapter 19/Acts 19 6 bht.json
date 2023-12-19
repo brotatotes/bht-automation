@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:33:19",
+    "verseRef": "Acts 19:6",
+    "bestBHT": {
+        "bht": "When Paul laid his hands upon them, they immediately began speaking in tongues, just as the believers did in Jerusalem at Pentecost and in Caesarea before baptism. This speaking in tongues and prophesying served as undeniable proof that the Holy Spirit had come upon these twelve disciples, confirming their commitment to Jesus as the Messiah. The visible presence of the Holy Spirit through supernatural gifts was a direct result of their baptism, and the gift of speaking in tongues was an ecstatic utterance of rapturous devotion rather than a proficiency in a language they had not studied.",
+        "wordCount": 97,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 2.287546027927805,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+        "commentatorTierSimilarities": [
+            29.11,
+            35.94,
+            34.95
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] See ch. viii. 17; x. 46, and note on ch. ii. 4: and on the fact that they prophesied, ch. xi. 27, note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. And when Paul had laid his hands",
+            "\tupon them . . . they spake with tongues, &amp;c.\u2014See on :-."
+        ],
+        "Albert Barnes": [
+            "And when Paul laid his hands ... - See the notes on Acts 8:17.",
+            "And they spake with tongues - See the notes on Acts 2:4; Acts 10:46.",
+            "And prophesied - See the notes on Acts 2:17; Acts 11:27."
+        ],
+        "Philip Schaff": [
+            "The immediate effect of their baptism, after that Paul had laid his hands upon them, was the visible presence of the Holy Ghost among them manifesting itself in the form of supernatural gifts.",
+            "We have very little knowledge of the gift of speaking with tongues.",
+            "It was therefore no power of speaking in a language which had not been studied in the ordinary way, but it was clearly an ecstatic utterance of rapturous devotion."
+        ],
+        "Archibald T. Robertson": [
+            "This act of laying on of the hands was done in Samaria by Peter and John and in Damascus in the case of Paul and was followed as here by the descent of the Holy Spirit in supernatural power.",
+            "They spake with tongues. Inchoative imperfect, began to speak with tongues as in Jerusalem at Pentecost and as in Caesarea before the baptism.",
+            "The speaking with tongues and prophesying was external and indubitable proof that the Holy Spirit had come on these twelve uninformed disciples now fully won to the service of Jesus as Messiah."
+        ],
+        "John Gill": [
+            "The Holy Ghost came on them; in his extraordinary gifts, whose special grace they had before an experience of.",
+            "They spake with tongues; with other tongues, or in other languages, which they had never learned, or had been used to.",
+            "Prophesied; preached, having an extraordinary gift at once, of explaining the prophecies of the Old Testament, and also foretold things to come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Paul laid his hands upon them, they immediately began speaking in tongues, just as the believers did in Jerusalem at Pentecost and in Caesarea before baptism. This speaking in tongues and prophesying served as undeniable proof that the Holy Spirit had come upon these twelve disciples, confirming their commitment to Jesus as the Messiah. The visible presence of the Holy Spirit through supernatural gifts was a direct result of their baptism, and the gift of speaking in tongues was an ecstatic utterance of rapturous devotion rather than a proficiency in a language they had not studied.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.287546027927805,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+            "commentatorTierSimilarities": [
+                29.11,
+                35.94,
+                34.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Paul laid his hands on them, the disciples began speaking in tongues, similar to the instances in Samaria and Damascus. This outward manifestation of the Holy Spirit's presence was a clear sign of their commitment to Jesus as the Messiah. Speaking in tongues and prophesying were indisputable proofs of the Holy Spirit's empowering. This supernatural gift was not the ability to speak unknown languages, but rather an ecstatic expression of fervent devotion. It served as confirmation that the Holy Spirit had descended upon the disciples, equipping them for their newfound faith.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9616418134063287,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                27.73,
+                34.78,
+                37.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Paul laid his hands on them, the disciples began speaking in tongues as a visible manifestation of the Holy Spirit's presence and power. This miraculous ability to speak in unknown languages was a distinct sign that the Holy Spirit had come upon them, illustrating their unwavering devotion to Jesus as the Messiah. Speaking in tongues and prophesying were undeniable evidence of the Holy Spirit's work in their lives, demonstrating their readiness to serve Christ wholeheartedly.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.2156451606723335,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                28.64,
+                35.64,
+                35.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Paul laid his hands on them, the disciples immediately began speaking in tongues, demonstrating the supernatural power of the Holy Spirit. This act of laying on hands, followed by speaking in tongues, was evidence that the Holy Spirit had come upon these disciples, confirming their allegiance to Jesus as the Messiah. Speaking in tongues was not the ability to speak unknown languages, but rather an ecstatic utterance of rapturous devotion. This outward sign of the Spirit's presence was a clear indication that these disciples were now fully committed to serving Jesus.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.144064527101299,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+            "commentatorTierSimilarities": [
+                28.61,
+                37.54,
+                33.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After Paul laid his hands on them, the disciples began speaking in tongues as a visible demonstration of the Holy Spirit's power. This manifestation of speaking in tongues, similar to events in Samaria and Damascus, served as undeniable proof that the Holy Spirit had come upon them. It was an external and unmistakable sign that these formerly uninformed disciples were now fully dedicated to Jesus as the Messiah. This extraordinary act confirmed their newfound faith and readiness to serve in the name of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.942086421915513,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                29.03,
+                33.88,
+                37.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

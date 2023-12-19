@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:13:00",
+    "verseRef": "Philemon 16",
+    "bestBHT": {
+        "bht": "Now that Onesimus had become a believer, he was lifted to a higher level in the eyes of the apostle and should be regarded as more than just a slave. Philemon should no longer view him merely as a servant or slave, but as a brother in the Lord. Paul recognizes Onesimus as a brother first, being the spiritual son of the same God. He emphasizes that Onesimus is now a whole man, beyond just a slave, and that Philemon should derive higher benefits from him.",
+        "wordCount": 86,
+        "quoteTokenProportion": 53.7,
+        "qualityScore": 2.629295968718158,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.76,
+        "commentatorTierSimilarities": [
+            35.3,
+            36.42,
+            28.28
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And that, in a different relation from the one before subsisting.",
+            "No longer as a slave (though he be one), but above a slave.",
+            "Of all other men...but how much more 'to thee,' with whom he stands in so near and lasting a relation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No longer as a mere servant or slave (though still he is that), but above a servant, so that thou shalt derive from him not merely the services of a slave, but higher benefits: a servant 'in the flesh,' he is a brother 'in the Lord.'\" (15 words)",
+            "Lest Philemon should dislike Onesimus being called 'brother,' Paul first recognizes him as a brother, being the spiritual son of the same God.\" (19 words)",
+            "Much more unto thee \u2014 to whom he stands in so much nearer and more lasting relation.\" (17 words)"
+        ],
+        "Albert Barnes": [
+            "Whatever may have been his former relation, and whatever subsequent relation he may have sustained, that he should be regarded as a beloved Christian brother; that the leading conception in regard to him should be that he was a fellow-heir of salvation, a member of the same redeemed church, a candidate for the same heaven.",
+            "Paul did not send him back in order that he might be a slave, or with a view that the shackles of servitude should be riveted on him. There is not the slightest evidence that he forced him to return, or that he advised him to do it, or even that he expressed a wish that he would; and when he did send him, it was not as a slave, but as a beloved brother in the Lord.",
+            "If Philemon followed the spirit of this Epistle, he would not consider Onesimus to be a slave, but if he sustained the relation of a servant at all, it would be as a voluntary member of his household, where, in all respects, he would be regarded and treated, not as a 'chattel,' or a 'thing,' but as a Christian brother."
+        ],
+        "Marvin Vincent": [
+            "However Philemon may regard Onesimus, as a fact he is now no longer as a slave.\" ",
+            "More than a slave - a whole man.\" ",
+            "Beloved most to Paul, how much more than most to Philemon, since he belonged to him in a double sense, as a slave and as a Christian brother."
+        ],
+        "John Calvin": [
+            "Hence he infers that Philemon is much more closely related to him, because both of them had the same relationship in the Lord according to the Spirit, but, according to the flesh, Onesimus is a member of his family.",
+            "Here we behold the uncommon modesty of Paul, who bestows on a worthless slave the title of a brother, and even calls him a dearly beloved brother to himself.",
+            "From the same source proceeds a profitable doctrine, that the elect of God are sometimes brought to salvation by a method that could not have been believed, contrary to general expectation, by circuitous windings, and even by labyrinths."
+        ],
+        "Philip Schaff": [
+            "He has become, though a bond-servant, the Lord\u2019s freeman. And this is to be free indeed.",
+            "now that Onesimus had become a believer, he was lifted, in the eyes of the apostle, to a higher level",
+            "He knows how an act of Christian love, bestowed as he is sure this will be, makes the recipient an object of still greater affection"
+        ],
+        "Archibald T. Robertson": [
+            "No longer as a slave.\" ",
+            "But beyond a slave.\" ",
+            "In the flesh Philemon had the brother for a slave; in the Lord he had the slave for a brother."
+        ],
+        "John Gill": [
+            "Not now as a servant,.... That is, not only as a servant, for a servant he was, and was to be received as such...",
+            "a brother beloved, specially to me; a brother in Christ, and to be beloved on that account...",
+            "But how much more unto thee, both in the flesh and in the Lord? both in a natural and civil sense... and, in a spiritual sense, being in the Lord..."
+        ],
+        "John Wesley": [
+            "In the flesh \u2014 As a dutiful servant.",
+            "In the Lord \u2014 As a fellow-Christian."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Now that Onesimus had become a believer, he was lifted to a higher level in the eyes of the apostle and should be regarded as more than just a slave. Philemon should no longer view him merely as a servant or slave, but as a brother in the Lord. Paul recognizes Onesimus as a brother first, being the spiritual son of the same God. He emphasizes that Onesimus is now a whole man, beyond just a slave, and that Philemon should derive higher benefits from him. Even though he stands in a near and lasting relation to Philemon, he should be seen as more than just a slave, but as someone beloved and valuable.",
+            "wordCount": 114,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.6495736573032618,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.44,
+            "commentatorTierSimilarities": [
+                36.29,
+                36.14,
+                27.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Now that Onesimus had become a believer, he was lifted to a higher level in the eyes of the apostle and should be regarded as more than just a slave. Philemon should no longer view him merely as a servant or slave, but as a brother in the Lord. Paul recognizes Onesimus as a brother first, being the spiritual son of the same God. He emphasizes that Onesimus is now a whole man, beyond just a slave, and that Philemon should derive higher benefits from him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 2.629295968718158,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.76,
+            "commentatorTierSimilarities": [
+                35.3,
+                36.42,
+                28.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Now that Onesimus had become a believer, he was lifted to a higher level in the eyes of the apostle and should be regarded as more than just a slave. Paul recognizes Onesimus as a brother first, being the spiritual son of the same God. He emphasizes that Onesimus is now a whole man, beyond just a slave, and that Philemon should derive higher benefits from him.",
+            "wordCount": 67,
+            "quoteTokenProportion": 56.52,
+            "qualityScore": 2.5039980084344187,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.6,
+            "commentatorTierSimilarities": [
+                34.98,
+                38.58,
+                26.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Now that Onesimus had become a believer, he was lifted to a higher level in the eyes of the apostle and should be regarded as more than just a slave. Philemon should no longer view him merely as a servant or slave, but as a brother in the Lord. Paul recognizes Onesimus as a brother first, being the spiritual son of the same God. He emphasizes that Onesimus is now a whole man, beyond just a slave, and that Philemon should derive higher benefits from him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 2.629295968718158,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.76,
+            "commentatorTierSimilarities": [
+                35.3,
+                36.42,
+                28.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Now that Onesimus had become a believer, he was lifted to a higher level in the eyes of the apostle. Philemon should no longer view him merely as a servant or slave, but as a brother in the Lord. Paul recognizes Onesimus as a brother first, emphasizing his change in status and the deeper benefits Philemon can receive from him. Onesimus is more than just a slave; he is a whole man, beloved by Paul, making him all the more valuable to Philemon.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 2.5191734700159234,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.1,
+            "commentatorTierSimilarities": [
+                33.89,
+                37.55,
+                28.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

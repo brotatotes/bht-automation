@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:26:44",
+    "verseRef": "Acts 5:32",
+    "bestBHT": {
+        "bht": "The apostles boldly testified to their obedience to God and their role as witnesses of Jesus' resurrection and the events that followed. Their witness included the confirmation of miracles performed by the Holy Spirit, which served as an undeniable attestation of the truth of their message. By proclaiming themselves as witnesses of these things, they emphasized their firsthand experience of Jesus' death and ascension and the power of the Holy Spirit. Their obedience and testimony were intended to invite others to likewise obey and embrace the message of salvation.",
+        "wordCount": 89,
+        "quoteTokenProportion": 28.3,
+        "qualityScore": 2.3612872525494533,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.85,
+        "commentatorTierSimilarities": [
+            24.43,
+            43.19,
+            32.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to them that obey him... generally, to all that obey Him, by this word recalling the opening of the speech, and binding all together.",
+            "We are acting in obedience to God, and for the everlasting good of our common Israel: and otherwise we cannot do.",
+            "And a solemn invitation is implied 'Be ye obedient likewise.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "32, 33. we are his witnesses . . .",
+            "\tand the Holy Ghost\u2014They as competent human witnesses to facts,",
+            "\tand the Holy Ghost as attesting them by undeniable miracles."
+        ],
+        "Albert Barnes": [
+            "And we are his witnesses...of the resurrection of the Lord Jesus, and of the events which had followed it.",
+            "He meant to include everything pertaining to the life, teachings, and death of the Lord Jesus.",
+            "The descent of the Holy Spirit to endow them with remarkable gifts...was an unanswerable attestation of the truth of these doctrines and of the Christian religion."
+        ],
+        "Marvin Vincent": [
+            "Witnesses. See on Acts 1:22. ",
+            "Obey. See on ver. 29."
+        ],
+        "John Calvin": [
+            "Seeing they are brought forth by God to be witnesses, they may not give back, but they must publish things which he hath commanded.",
+            "They confirm their calling by the effect; for this was a seal to approve their doctrine, seeing that God gave the Holy Spirit to those which believed.",
+            "The reward wherewith our want of faith is rewarded at this day is far unlike; for the most part being destitute of the Spirit of God doth neither see nor understand anything."
+        ],
+        "Philip Schaff": [
+            "And we are his witnesses of these things. 'His,' as appointed by Him, as chosen by Him when on earth. 'Of these things,' viz. the death on the accursed tree and the ascension from earth, they were eye-witnesses.\" ",
+            "but they were witnesses in a yet higher sense of their Master's exaltation, as conscious of the Holy Ghost, which He promised should descend upon them when once He had ascended, and which, in accordance with the promise, fell on them at Pentecost and gave them their new grand powers.\" ",
+            "The Holy Ghost, too, is joined with them as a witness. His solemn testimony is publicly borne by those miracles performed by the apostles through His power."
+        ],
+        "Archibald T. Robertson": [
+            "We are witnesses.",
+            "Things.",
+            "And so is the Holy Ghost."
+        ],
+        "John Gill": [
+            "And we are his witnesses of these things.",
+            "and so is also the Holy Ghost.",
+            "whom God hath given to them that obey him."
+        ],
+        "John Wesley": [
+            "And also the Holy Ghost \u2014 A much greater witness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostles proclaimed that they were witnesses of Jesus' resurrection and the events that followed, as well as the recipients of the Holy Spirit's miraculous power. By stating that they were witnesses of these things, they were acknowledging their firsthand experience of Jesus' death and ascension, as well as their awareness of the Holy Spirit's presence. The Holy Spirit's role as a witness was demonstrated through the apostles' miraculous deeds empowered by Him. All of this was a testimony to the truth of their message and the divine calling they had received. Their obedience to God and the proclamation of these truths were meant as an invitation for others to also be obedient and embrace the message of salvation.",
+            "wordCount": 122,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.254028370872658,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.29,
+            "commentatorTierSimilarities": [
+                23.51,
+                43.52,
+                32.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostles boldly testified to their obedience to God and their role as witnesses of Jesus' resurrection and the events that followed. Their witness included the confirmation of miracles performed by the Holy Spirit, which served as an undeniable attestation of the truth of their message. By proclaiming themselves as witnesses of these things, they emphasized their firsthand experience of Jesus' death and ascension and the power of the Holy Spirit. Their obedience and testimony were intended to invite others to likewise obey and embrace the message of salvation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.3612872525494533,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.85,
+            "commentatorTierSimilarities": [
+                24.43,
+                43.19,
+                32.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles proclaimed themselves as witnesses who were obedient to God, testifying to the resurrection of Jesus and the events that followed. They highlighted their firsthand experience of Jesus' death and ascension, as well as the undeniable miracles performed by the Holy Spirit as a testament to the truth of their message. In stating that they were witnesses of these things, they emphasized their divine calling and invited others to obediently embrace the message of salvation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.318875343366183,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.44,
+            "commentatorTierSimilarities": [
+                23.22,
+                45.35,
+                31.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostles boldly proclaimed their obedience to God and their role as witnesses to the resurrection of Jesus and the events that followed. They emphasized their firsthand experience of Jesus' death and ascension, along with the undeniable miracles performed by the Holy Spirit as evidence of the truth of their message. By labeling themselves as witnesses of these things, they emphasized their divine appointment and invited others to join them in obedience and acceptance of the salvation message.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.289287722426426,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.46,
+            "commentatorTierSimilarities": [
+                24.05,
+                45.23,
+                30.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostles boldly testified of their obedience to God, stating that they were witnesses of these things - referring to Jesus' death and ascension, as well as the miraculous manifestations of the Holy Spirit. By emphasizing their firsthand experience and the undeniable miracles, they provided compelling evidence for the truth of their message. Their obedience and proclamation served as an invitation for others to follow suit, to obey God, and to embrace the message of salvation.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.155700330436188,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.02,
+            "commentatorTierSimilarities": [
+                24.98,
+                42.61,
+                32.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

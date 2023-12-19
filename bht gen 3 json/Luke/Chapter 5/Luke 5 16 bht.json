@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:15:21",
+    "verseRef": "Luke 5:16",
+    "bestBHT": {
+        "bht": "Jesus frequently withdrew to solitary places to pray, even when the multitudes were coming together, demonstrating his commitment to seeking communion with the Father. In the midst of the enthusiasm and excitement of the crowds, Jesus purposely withdrew to find rest and rejuvenation through prayer. This picture of Jesus emphasizes his understanding of the necessity to find solitude and connection with God, highlighting the value he placed on intimate communion with the Father, even amidst the demands of ministry.",
+        "wordCount": 79,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 1.6554985595224325,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+        "commentatorTierSimilarities": [
+            52.03,
+            0.0,
+            47.97
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16.] and praying is peculiar to Luke, as often: see ch. iii. 21; vi. 12; ix. 18; xi. 1. This verse breaks off the sequence of the narrative."
+        ],
+        "Marvin Vincent": [
+            "The multitudes were coming together, but he was engaged in retirement and prayer, so that he was inaccessible.",
+            "The word occurs only in Luke, the usual New Testament word for withdraw being ajnacwrew.",
+            "See Matthew 2:12; Matthew 12:15; Mark 3:7."
+        ],
+        "Archibald T. Robertson": [
+            "But he himself was with drawing in the desert places and praying.",
+            "The more the crowds came as a result of the leper's story, the more Jesus turned away from them to the desert regions and prayed with the Father.",
+            "It is a picture of Jesus drawn with vivid power. The wild enthusiasm of the crowds was running ahead of their comprehension of Christ and his mission and message."
+        ],
+        "John Gill": [
+            "And he withdrew himself into the wilderness, that he might have rest from the fatigues of preaching and healing diseases.",
+            "Being alone, he might have an opportunity for private prayer to God.",
+            "What he now prayed for, is not known; sometimes he prayed for his disciples, and for all that should believe."
+        ],
+        "John Wesley": [
+            "He withdrew \u2014 The expression in the original implies, that he did so frequently."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 5:16, we see a distinct characteristic of Luke's gospel: Jesus often withdrew to pray. Even when the crowds were coming together and seeking him, Jesus sought solitude in the desert places to commune with his Father. This was not a mere escape from fatigue, but a deliberate act to find rest and rejuvenation in prayer. In the midst of the clamor and wild enthusiasm of the crowds, Jesus understood the importance of retreating to seek guidance and strength from God. This vivid picture of Jesus emphasizes the value he placed on intimate communion with the Father, even when surrounded by the demands of ministry.",
+            "wordCount": 106,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.685683442824764,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "commentatorTierSimilarities": [
+                57.39,
+                0.0,
+                42.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we see that Jesus frequently withdrew to pray in solitude. Despite the growing crowds and their excitement, Jesus intentionally sought out deserted places to commune with God. This act of withdrawing demonstrated his understanding of the need for rest and rejuvenation through prayer. It is a powerful depiction of Jesus' priority to connect with the Father privately, even amidst the overwhelming demands of his ministry.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.555198840053304,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+            "commentatorTierSimilarities": [
+                49.65,
+                0.0,
+                50.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even amidst the increasing crowds and their enthusiasm, Jesus made it a practice to retreat to solitary places for prayer. This deliberate act of withdrawing showcased his recognition of the importance of finding rest and spiritual rejuvenation through communion with God. It is a poignant portrayal of Jesus prioritizing his personal connection with the Father, even amidst the overwhelming demands of his ministry.",
+            "wordCount": 63,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.4887235696603454,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "commentatorTierSimilarities": [
+                52.78,
+                0.0,
+                47.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus frequently withdrew to solitary places to pray, even when the multitudes were coming together, demonstrating his commitment to seeking communion with the Father. In the midst of the enthusiasm and excitement of the crowds, Jesus purposely withdrew to find rest and rejuvenation through prayer. This picture of Jesus emphasizes his understanding of the necessity to find solitude and connection with God, highlighting the value he placed on intimate communion with the Father, even amidst the demands of ministry.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.6554985595224325,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+            "commentatorTierSimilarities": [
+                52.03,
+                0.0,
+                47.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of increasing crowds, Jesus made it a habit to withdraw to deserted places for prayer. This deliberate act demonstrated his understanding of the need for rest and renewal through communion with God. Despite the clamor and enthusiasm of the masses, Jesus recognized the importance of seeking solitude to connect intimately with the Father. It is a vivid depiction of Jesus prioritizing his personal relationship with God, even amidst the demands and excitement of his ministry.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.4659924513681175,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.09,
+            "commentatorTierSimilarities": [
+                52.78,
+                0.0,
+                47.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

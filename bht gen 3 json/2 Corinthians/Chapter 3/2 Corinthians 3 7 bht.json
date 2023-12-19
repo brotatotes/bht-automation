@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:15:37",
+    "verseRef": "2 Corinthians 3:7",
+    "bestBHT": {
+        "bht": "The law, engraved on stones, brought death and knowledge of sin, in contrast to the life-giving Spirit of the Gospel. The glory that shone from Moses' face on Sinai represented the transitory nature of the law, in comparison to the permanent, increasing glory of the Gospel. While the law brings death, the Gospel brings life and freedom. The splendor of the law testified to its divine authority, but the Gospel, being superior, shines forth with even greater glory.",
+        "wordCount": 79,
+        "quoteTokenProportion": 29.79,
+        "qualityScore": 2.2903255897389005,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.49,
+        "commentatorTierSimilarities": [
+            26.36,
+            35.98,
+            37.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the ministration of death, in letters (of that death which the law, the code of literal and formal precept, brought in), engraven on stones\" ",
+            "so that the sons of Israel could not fix their eyes on (they were afraid to come nigh him, Exod. xxxiv. 30\u2014so that could not is not said of physical inability, but of inability from fear) the face of Moses on account of the glory of his face, which was transitory",
+            "how shall not rather the ministration of the Spirit (by these words is meant the ministration of life in the Spirit, as formally opposed to the other:\u2014but it is not so expressed, because the Spirit is the principle of life, whereas the Law only led to death) be (future, because the glory will not be accomplished till the manifestation of the kingdom) in glory?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The ministration of death\u2014in letters,\" alludes to the literal precepts of the law as only bringing us the knowledge of sin and \"death,\" in contrast to \"the Spirit\" in the Gospel bringing us \"life.",
+            "The opposition between 'the letters' and 'the Spirit' confirms this.",
+            "The 'glory of Moses' countenance' on Sinai passed away when the occasion was over: a type of the transitory character of the dispensation which he represented, as contrasted with the permanency of the Christian dispensation."
+        ],
+        "Albert Barnes": [
+            "That the phrase 'ministration of death' refers to the Mosaic institutions, the connection sufficiently indicates.",
+            "The ministry of the gospel is more glorious than even the ministry of Moses, when he was admitted near to God on the holy mountain.",
+            "The glory of Moses, and of his dispensation, was a fading glory; but that the glory of the gospel would be permanent, and increasing forever."
+        ],
+        "Marvin Vincent": [
+            "The law meant death to the sinner.",
+            "A glory passed from God to Moses, so that his face became shining.",
+            "Being done away or brought to naught."
+        ],
+        "John Calvin": [
+            "The law was rendered illustrious by many miracles...that splendour was a token of the glory of the law. He now draws an argument from the less to the greater \u2014 that it is befitting, that the glory of the gospel should shine forth with greater lustre, inasmuch as it is greatly superior to the law.",
+            "The gospel, bringing [man] to Christ, opens the gate of life. Thus, in one word, we find that it is an accidental property of the law, that is perpetual and inseparable, that it killeth; for as the Apostle says elsewhere, 'All that remain under the law are subject to the curse.'",
+            "So great was the splendor of the law, that the Jews could not endure it. What, then, must we think of the gospel, the dignity of which is as much superior to that of the law, as Christ is more excellent than Moses?"
+        ],
+        "Philip Schaff": [
+            "But if the ministration of death that of the law, which by reason of our inability to keep it, becomes to us a ministration of death..."
+        ],
+        "Archibald T. Robertson": [
+            "The letter kills.\" ",
+            "Came with glory.",
+            "Look steadfastly."
+        ],
+        "John Gill": [
+            "as the work of the tables was the work of God, and wonderfully made...the law was engraven 'in stones'",
+            "this law, though thus written and engraven, and glorious, it was 'the ministration of death'",
+            "this glory was put there to bear a testimony to the divine authority of the law...and also to command awe and respect"
+        ],
+        "John Wesley": [
+            "The ministration of death - That is, the Mosaic dispensation, which proves such to those who prefer it to the gospel...\" (Commentary)",
+            "The most considerable part of which was engraven on those two stones was attended with so great glory.\" (Commentary)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the contrast between the ministration of death, in letters, engraved on stones and the ministration of the Spirit in glory. It refers to the literal and formal precepts of the law, which brought knowledge of sin and death, as opposed to the life-giving Spirit of the Gospel. The glory that shone from Moses' face on Sinai, representing the transitory character of his dispensation, pales in comparison to the permanent and increasing glory of the Gospel. While the law brings death and condemnation, the Gospel brings life and freedom. The splendor of the law was a testimony to its divine authority, but the Gospel, being superior to the law, shines forth with even greater glory.",
+            "wordCount": 119,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.2948555271400446,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.64,
+            "commentatorTierSimilarities": [
+                27.91,
+                35.71,
+                36.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The law, engraved on stones, brought death and knowledge of sin, in contrast to the life-giving Spirit of the Gospel. The glory that shone from Moses' face on Sinai represented the transitory nature of the law, in comparison to the permanent, increasing glory of the Gospel. While the law brings death, the Gospel brings life and freedom. The splendor of the law testified to its divine authority, but the Gospel, being superior, shines forth with even greater glory.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 2.2903255897389005,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.49,
+            "commentatorTierSimilarities": [
+                26.36,
+                35.98,
+                37.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ministration of death, in letters engraved on stones, refers to the literal precepts of the law bringing knowledge of sin and death. Moses' shining face on Sinai represented the transitory character of his dispensation. The law meant death to the sinner, whereas the ministration of the Spirit brings life. The glory of the law, although a testimony to its divine authority, pales in comparison to the Gospel, which shines forth with even greater brightness as it brings the gate of life to mankind.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.2238384641755298,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.28,
+            "commentatorTierSimilarities": [
+                30.38,
+                36.79,
+                32.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ministration of death, engraved on stones, represents the literal precepts of the law that brought knowledge of sin and death. Moses' radiant face on Sinai exemplified the transient nature of his dispensation. The law meant death to sinners, while the ministration of the Spirit brings life. The glory of the law, though reflecting its divine authority, is surpassed by the Gospel's greater splendor. The Gospel shines forth with increasing glory, offering the gate of life to humanity, far surpassing the law's fading glory.",
+            "wordCount": 86,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 2.1782030981530274,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.77,
+            "commentatorTierSimilarities": [
+                27.59,
+                37.07,
+                35.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ministration of death, referring to the literal and formal precepts of the law engraved on stones, contrasts with the ministration of the Spirit in glory. Moses' transient glory on Sinai represented the temporary nature of his dispensation when compared to the permanency of the Gospel. The law brought knowledge of sin and death, while the Gospel brings life. The law's glory, though a testimony to its divine authority, fades in comparison to the Gospel's greater splendor, which offers life and freedom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 2.2465354183417,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.04,
+            "commentatorTierSimilarities": [
+                28.24,
+                36.51,
+                35.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

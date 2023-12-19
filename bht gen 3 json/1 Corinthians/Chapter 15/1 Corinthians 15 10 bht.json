@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:13:45",
+    "verseRef": "1 Corinthians 15:10",
+    "bestBHT": {
+        "bht": "By acknowledging the overwhelming measure of divine grace working through him, the apostle Paul humbly recognizes that his own efforts were insignificant compared to the prominence of God's grace. Paul attributes his transformation and apostolic labors solely to the grace of God, expressing gratitude for being made an apostle despite his past as a persecutor. Through this self-awareness, Paul magnifies the remarkable impact of divine grace, both humbling himself and emphasizing the extraordinary operation of God's grace in his life.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.428705433095783,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.09,
+        "commentatorTierSimilarities": [
+            34.05,
+            38.75,
+            27.2
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "With the humiliating conviction of his own unworthiness is united the consciousness of that higher Power which worked on and in him,\u2014and this introduces his chastened self-consciousness of the extent and success of his apostolic labours.",
+            "The position of these words, and the repetition of 'his grace' afterwards, shew the emphatic prominence which he assigns to the divine Grace.",
+            "The Grace of God worked with him in so overwhelming a measure, compared to his own working, that it was no longer the work of himself but of divine Grace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The repetition implies the prominence which God's grace had in his mind, as the sole cause of his marvellous conversion and subsequent labors.",
+            "Translate as the Greek, 'His grace which was (showed) towards me.'",
+            "The 'not I, but grace,' implies that though the human will concurred with God when brought by His Spirit into conformity with His will, yet 'grace' so preponderated in the work, that his own co-operation is regarded as nothing, and grace as virtually the sole agent."
+        ],
+        "Albert Barnes": [
+            "By the 'favor' or mercy of God. What I have is to be traced to him, and not to any native tendency to goodness, or any native inclination to his service, or to any merit of my own.",
+            "The reason why Paul here introduces the subject seems to be this...to express his gratitude that so great a sinner had been made an apostle.",
+            "I would remember my former state; would remember that I was a persecutor; would remember that all my disposition to labor, and all my ability, and all my success, are to be traced to the mere favor and mercy of God."
+        ],
+        "Marvin Vincent": [
+            "Was not [\u03bf\u03c5 \u03b5\u03b3\u03b5\u03bd\u03b7\u03b8\u03b7] . Rev., better, was not found : did not turn out to be."
+        ],
+        "John Calvin": [
+            "That he might not seem to glory to no purpose in mere words, while devoid of reality, he says, that he affirms nothing that is not openly apparent.\" ",
+            "For I take labor here to mean the fruit of his labor that appeared.\" ",
+            "A remarkable passage certainly, both for laying low the pride of man, and for magnifying the operation of Divine grace in us."
+        ],
+        "Philip Schaff": [
+            "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain...",
+            "With perfect freedom does he at once abuse himself for what he had done against Christ in the days of his ignorance...",
+            "[Paul] claim[s] through grace to have after the change outstripped all the apostles in self-denying labours for Christ."
+        ],
+        "Archibald T. Robertson": [
+            "What I am (\u03bf \u03b5\u03b9\u03bc). Not, who (\u03bf\u03c2), but what (\u03bf), neuter singular. His actual character and attainments.\" ",
+            "All 'by the grace of God' (\u03c7\u03b1\u03c1\u03b9\u03c4 \u03b8\u03b5\u03bf\u03c5).\" ",
+            "Genius is work, Carlyle said. Take Paul as a specimen."
+        ],
+        "John Gill": [
+            "But by the grace of God I am what I am.",
+            "For what qualifies men for the preaching of the Gospel is not human learning, nor natural parts, nor internal grace, neither separately nor altogether, but peculiar gifts, which lie in an understanding of the Scriptures, and the doctrines of the Gospel, and in an aptitude to explain and teach them to the edification of others.",
+            "He attributes all to the grace of God, and nothing to himself."
+        ],
+        "John Wesley": [
+            "I laboured more than they all \u2014 That is, more than any of them, from a deep sense of the peculiar love God had shown me.\" ",
+            "Yet, to speak more properly, it is not I, but the grace of God that is with me.\" ",
+            "This it is which at first qualified me for the work, and still excites me to zeal and diligence in it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By emphasizing the divine grace that worked through him, the apostle Paul humbly acknowledges that his own efforts were insignificant compared to the overwhelming measure of grace bestowed upon him. He attributes his transformation and apostolic labors not to his own abilities, but solely to the grace of God. Through this self-awareness, Paul expresses gratitude for being made an apostle despite his past as a persecutor. He emphasizes that his character, attainments, and labors are all a result of the grace of God. It is not his own merit, but the peculiar gifts of understanding and aptitude for teaching the Gospel that qualify him for preaching. In recognizing the preeminence of divine grace, Paul both humbles himself and magnifies the operation of God's grace in him.",
+            "wordCount": 128,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 2.2421135471033713,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.89,
+            "commentatorTierSimilarities": [
+                33.1,
+                37.61,
+                29.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul acknowledges with humility that his own efforts were insignificant compared to the overwhelming measure of divine grace bestowed upon him. He attributes his transformation and apostolic labors to the grace of God, emphasizing that his character, attainments, and labors are a result of God's grace. Paul expresses gratitude for being made an apostle despite his past as a persecutor. Through recognizing the preeminence of divine grace, Paul both humbles himself and magnifies the operation of God's grace in him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.273036209510299,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.92,
+            "commentatorTierSimilarities": [
+                34.82,
+                38.88,
+                26.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Acknowledging the prominence of divine grace in his life, the apostle Paul humbly recognizes that his own efforts couldn't compare to the overwhelming measure of grace bestowed upon him. He attributes his transformation and apostolic labors solely to the grace of God, expressing gratitude for being made an apostle despite his former role as a persecutor. By magnifying the operation of God's grace within him, Paul both humbles himself and highlights the remarkable impact of divine grace.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.3957349956699723,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.0,
+            "commentatorTierSimilarities": [
+                34.32,
+                37.55,
+                28.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By acknowledging the overwhelming measure of divine grace working through him, the apostle Paul humbly recognizes that his own efforts were insignificant compared to the prominence of God's grace. Paul attributes his transformation and apostolic labors solely to the grace of God, expressing gratitude for being made an apostle despite his past as a persecutor. Through this self-awareness, Paul magnifies the remarkable impact of divine grace, both humbling himself and emphasizing the extraordinary operation of God's grace in his life.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.428705433095783,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.09,
+            "commentatorTierSimilarities": [
+                34.05,
+                38.75,
+                27.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul humbly acknowledges the overwhelming measure of divine grace in his life, recognizing that his own efforts were insignificant compared to the prominence of God's grace. He attributes his transformation and apostolic labors solely to the grace of God, expressing gratitude for being made an apostle despite his past as a persecutor. Magnifying the remarkable impact of divine grace, Paul humbles himself and emphasizes the extraordinary operation of God's grace in his life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.3997106849201364,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.13,
+            "commentatorTierSimilarities": [
+                34.3,
+                37.76,
+                27.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

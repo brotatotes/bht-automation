@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:17:52",
+    "verseRef": "Galatians 3:23",
+    "bestBHT": {
+        "bht": "We were kept in ward, shut up under the law, in order to the faith about to be revealed. The faith of Jesus Christ, which did not exist until Christ came, was as yet an element of life hidden in the counsel of God. The law served as the warder, the Lord or despot, keeping us under moral captivity until the time when faith should come. The office of the law as a jailer was designed to be only temporary, until the faith was first revealed at the coming of Christ and the gospel.",
+        "wordCount": 94,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.63799847160588,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.05,
+        "commentatorTierSimilarities": [
+            37.18,
+            33.52,
+            29.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "we were kept in ward, shut up under the law, in order to the faith about to be revealed.",
+            "the faith of Jesus Christ, which did not exist until Christ came",
+            "as long as there was no such thing as faith in Christ, this faith was not yet revealed, was as yet an element of life hidden in the counsel of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "kept\u2014Greek, 'kept in ward': the effect of the 'shutting up' (Galatians 3:22; Galatians 4:2; Romans 7:6).",
+            "with a view to the faith, c. We were, in a manner, morally forced to it, so that there remained to us no refuge but faith.",
+            "which should afterwards, &amp;c.\u2014'which was afterwards to be revealed.'"
+        ],
+        "Albert Barnes": [
+            "Faith here denotes the Christian religion, because faith is its distinguishing characteristic.",
+            "The Law condemned every other mode, and the Law condemned all who attempted to be justified in any other way.",
+            "Their only hope was in that system which was to be revealed through the Messiah, the system which extended forgiveness on the ground of faith in his atoning blood."
+        ],
+        "Marvin Vincent": [
+            "The office of the law as a jailer was designed to be only temporary, until the time when faith should come.",
+            "The law is conceived, not as the prison, but as the warder, the Lord or despot, the power of sin, by whom those who belong to sin are kept under lock and key - under moral captivity, without possibility of liberation except through faith.",
+            "The faith was first revealed at the coming of Christ and the gospel."
+        ],
+        "John Calvin": [
+            "Faith denotes the full revelation of those things which, during the darkness of the shadows of the law, were dimly seen; for he does not intend to say that the fathers, who lived under the law, did not possess faith.",
+            "The law did not restrain them from faith; but, that they might not wander from the fold of faith, it kept possession of themselves.",
+            "Though the dawn is not equal to the splendor of noon, yet, as it is sufficient to direct a journey, travelers do not wait till the sun is fully risen."
+        ],
+        "Philip Schaff": [
+            "Before the faith came, the faith in Jesus Christ just mentioned...existed only as a latent element of life.",
+            "We were shut up and kept in ward under the law for the faith about to be revealed.",
+            "The word 'faith' usually means the subjective state of the heart, the exercise of trust...but in Galatians 3:22-23 it seems to pass over into the objective sense, i.e., the dispensation of faith, the gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Before the coming (second aorist active infinitive of \u03b5\u03c1\u03c7\u03bf\u03bc\u03b1, definite event) as to the Faith\" (note article, meaning the faith in verse Galatians 3:22 made possible by the historic coming of Christ the Redeemer), the faith in Christ as Saviour (verse Galatians 3:22).",
+            "We were kept in ward under the law (\u03c5\u03c0\u03b5\u03c1 \u03bd\u03bf\u03bc\u03bf\u03bd \u03b5\u03c6\u03c1\u03bf\u03c5\u03c1\u03bf\u03c5\u03bc\u03b5\u03b8\u03b1). Imperfect passive of \u03c6\u03c1\u03bf\u03c5\u03c1\u03b5\u03c9, to guard (from \u03c6\u03c1\u03bf\u03c5\u03c1\u03bf\u03c2, a guard). It was a long progressive imprisonment.",
+            "Unto the faith which should afterwards be revealed (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03bc\u03b5\u03bb\u03bb\u03bf\u03c5\u03c3\u03b1\u03bd \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03c5\u03c6\u03b8\u03b7\u03bd\u03b1). 'Unto the faith (verse Galatians 3:22 again) about to be revealed.' \u039c\u03b5\u03bb\u03bb\u03c9 and the first aorist passive infinitive (regular idiom)."
+        ],
+        "John Gill": [
+            "It is much better to understand it of the doctrine of faith, which though preached to Adam, and by Noah, and to Abraham, and by Isaiah, and others, yet not so clearly, largely, and fully, as by Jesus Christ and his apostles so that the times of the Gospel may be called the times of faith, in comparison of the times of the law.",
+            "The law kept them close to the discharge of their duty, and held them fast as prisoners; and which is more fully expressed in the next clause, shut up.",
+            "In this uncomfortable condition they continued, unto the faith which should afterwards be revealed; that is, until Christ the object of faith came, who was to be revealed, or made manifest in the flesh."
+        ],
+        "John Wesley": [
+            "But before faith \u2014 That is, the gospel dispensation.",
+            "Came, we were kept \u2014 As in close custody.",
+            "Shut up unto the faith which was to be revealed \u2014 Reserved and prepared for the gospel dispensation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Before the faith in Jesus Christ came, we were kept in ward, shut up under the law. The law acted as our jailer, keeping us under lock and key, without any possibility of liberation except through faith. The faith of Jesus Christ, the Christian religion, was not yet revealed until Christ came. The law served as a temporary guardian, forcing us to come to faith and revealing the need for the faith that was to be revealed through the Messiah. Though it was not equal to the splendor of the gospel, the law directed us on our journey until the full revelation of faith in Christ.",
+            "wordCount": 106,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.591001894038145,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.49,
+            "commentatorTierSimilarities": [
+                34.66,
+                34.83,
+                30.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Before the faith in Jesus Christ came, we were kept in ward, shut up under the law. The law acted as our jailer, keeping us under lock and key, without any possibility of liberation except through faith. The faith of Jesus Christ, the Christian religion, was not yet revealed until Christ came. The law served as a temporary guardian, forcing us to come to faith and revealing the need for the faith that was to be revealed through the Messiah.",
+            "wordCount": 80,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 2.5763623034768797,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.0,
+            "commentatorTierSimilarities": [
+                35.3,
+                35.39,
+                29.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We were kept in ward, shut up under the law, in order to the faith about to be revealed. The faith of Jesus Christ, which did not exist until Christ came, was as yet an element of life hidden in the counsel of God. The law served as the warder, the Lord or despot, keeping us under moral captivity until the time when faith should come. The office of the law as a jailer was designed to be only temporary, until the faith was first revealed at the coming of Christ and the gospel.",
+            "wordCount": 94,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.63799847160588,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.05,
+            "commentatorTierSimilarities": [
+                37.18,
+                33.52,
+                29.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We were kept in ward, shut up under the law, until the faith about to be revealed. The faith of Jesus Christ, hidden in the counsel of God, did not exist until Christ came. The law acted as a jailer, keeping us under moral captivity, with no liberation except through faith. The law's purpose as a temporary guardian was to lead us to the faith that was ultimately revealed with the coming of Christ and the gospel.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.5650045830701362,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.63,
+            "commentatorTierSimilarities": [
+                36.11,
+                34.3,
+                29.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Before the faith in Jesus Christ came, we were kept in ward, shut up under the law. The law acted as our jailer, keeping us under lock and key, without any possibility of liberation except through faith. The faith of Jesus Christ, the Christian religion, was not yet revealed until Christ came. The law served as a temporary guardian, forcing us to come to faith and revealing the need for the faith that was to be revealed through the Messiah. Though it was not equal to the splendor of the gospel, the law directed us on our journey until the full revelation of faith in Christ.",
+            "wordCount": 106,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.591001894038145,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.49,
+            "commentatorTierSimilarities": [
+                34.66,
+                34.83,
+                30.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

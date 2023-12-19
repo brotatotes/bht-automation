@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:31:16",
+    "verseRef": "2 Timothy 3:13",
+    "bestBHT": {
+        "bht": "As the end approaches, persecutions will increase and deceivers will become more prevalent. Those who have already deceived others are more easily swayed by the errors of others and continue to mislead and deceive. This diffusion of evil intensifies as the seducers, like modern impostors, constantly deceive and lead others astray. Sadly, these seducers not only deceive themselves but also have the ability to deceive others, causing great tragedy. It is important for godly teachers to be prepared for the ongoing warfare of spreading truth amidst the deceit and not be discouraged by the persistence of their adversaries.",
+        "wordCount": 98,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.8825479446352087,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+        "commentatorTierSimilarities": [
+            30.64,
+            30.75,
+            38.61
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Reason why persecutions must be expected, and these becoming worse and worse as the end approaches.",
+            "He who has once begun to deceive others, is the less easily able to recover himself from error, and the more easily embraces in turn the errors of others.",
+            "Not contradictory to that verse: there the diffusion of the evil was spoken of; here its intensity."
+        ],
+        "Albert Barnes": [
+            "if men are not converted, they are always growing worse, and sinking deeper into iniquity.",
+            "He was to anticipate in them the operation of the general law in regard to bad men and seducers - that they would grow worse and worse.",
+            "The worst victims of delusion are those who attempt to delude others."
+        ],
+        "Marvin Vincent": [
+            "Seducers...impostors or deceivers.",
+            "Shall wax worse and worse...shall proceed to the worse.",
+            "Deceiving...leading astray."
+        ],
+        "John Calvin": [
+            "One worthless person will always be more effectual in destroying, than ten faithful teachers in building, though they labor with all their might.",
+            "It is not because falsehood, in its own nature, is stronger than truth, or that the tricks of Satan exceed the energy of the Spirit of God; but because men, being naturally inclined to vanity and errors, embrace far more readily what agrees with their natural disposition.",
+            "It is highly necessary for godly teachers to be reminded of this, that they may be prepared for uninterrupted warfare, and may not be discouraged by delay, or yield to the haughtiness and insolence of adversaries."
+        ],
+        "Philip Schaff": [
+            "Again we have an oscillation of thought, and the immediate advance of evil becomes prominent.\" ",
+            "The chasm would grow wider till the final issue.",
+            "Seducers. Better, \u2018 magicians,\u2019 \u2018 sorcerers,\u2019 with reference to Jannes and Jambres."
+        ],
+        "Archibald T. Robertson": [
+            "Impostors...deceivers, jugglers. Here only in the N.T. Modern impostors know all the tricks of the trade.",
+            "Shall wax worse and worse...shall cut forward to the worse stage.",
+            "The tragedy of it all is that these seducers are able to deceive others as well as themselves."
+        ],
+        "John Gill": [
+            "True professors of religion must expect persecution, seeing as there ever were, so there ever will be such sort of men, who will not grow better, but worse and worse.",
+            "The church of Rome is never to be expected to be better, but worse; at the time of the fall of Babylon she will be an habitation of devils, the hold of every foul spirit, and the cage of every unclean and hateful bird.",
+            "Deceiving: not God, but themselves and others even all nations, excepting the elect of God; which they do by their good words and fair speeches, and by their show of devotion and religion, and by their pretended miracles and lying wonders."
+        ],
+        "John Wesley": [
+            "He who has once begun to deceive others is both the less likely to recover from his own error...",
+            "He who has once begun to deceive others... is... the more ready to embrace the errors of other men.",
+            "Deceiving and being deceived."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the end approaches, persecutions will increase and deceivers will become more prevalent. Those who have already deceived others are more easily swayed by the errors of others and continue to mislead and deceive. This diffusion of evil intensifies as the seducers, like modern impostors, constantly deceive and lead others astray. Sadly, these seducers not only deceive themselves but also have the ability to deceive others, causing great tragedy. It is important for godly teachers to be prepared for the ongoing warfare of spreading truth amidst the deceit and not be discouraged by the persistence of their adversaries.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.8825479446352087,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+            "commentatorTierSimilarities": [
+                30.64,
+                30.75,
+                38.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the end approaches, persecutions will increase and deceivers will become more prevalent. Those who have deceived others are easily led astray by the errors of others, intensifying the diffusion of evil. Like modern impostors, these seducers deceive and lead others astray, tragically being able to deceive not only themselves but also those around them. It is crucial for godly teachers to be prepared for ongoing warfare and not be discouraged by the persistence of adversaries in spreading truth.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.7937879231181908,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.99,
+            "commentatorTierSimilarities": [
+                30.1,
+                29.96,
+                39.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As deceivers continue to deceive and lead others astray, the diffusion of evil intensifies, especially as the end approaches. These seducers, similar to modern impostors, have mastered the art of deception and possess the ability to not only deceive themselves but also others. It is crucial for godly teachers to be aware of this reality and to remain prepared for the ongoing warfare against falsehood. Despite the hardships and opposition they may face, they must not be discouraged, for their mission is to spread truth amidst the prevailing deceit.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.6840712918041425,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "commentatorTierSimilarities": [
+                30.68,
+                27.33,
+                41.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the end approaches, deceivers will increase in number and intensify their deception. These seducers, resembling modern impostors, possess the ability to deceive others and themselves. The diffusion of evil grows stronger as they lead others astray, using tactics like good words, fair speeches, and fake miracles. It is essential for godly teachers to remain prepared for ongoing warfare against these deceivers and not be discouraged by their persistence. By staying steadfast in spreading truth, they can counteract the prevailing deceit and bring light amidst darkness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.6818253651796646,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                29.36,
+                31.1,
+                39.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the end approaches, persecutions escalate and deceivers become more cunning. Those who have deceived others are easily swayed by the errors of others, intensifying the spread of evil. These seducers, like modern impostors, have mastered the art of deception, manipulating others with their false words, pretense of devotion, and counterfeit miracles. It is crucial for godly teachers to understand this reality and be prepared for the ongoing battle against falsehood without being discouraged. Their mission is to confront and bring truth amidst the prevailing deception.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.7008717117892012,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.9,
+            "commentatorTierSimilarities": [
+                30.14,
+                29.91,
+                39.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

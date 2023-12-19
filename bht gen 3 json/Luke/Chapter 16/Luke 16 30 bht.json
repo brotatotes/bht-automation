@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:21:03",
+    "verseRef": "Luke 16:30",
+    "bestBHT": {
+        "bht": "This plea reveals the ineffectiveness of relying on miracles alone to convince those determined not to believe. Genuine repentance is what truly matters, not wealth, poverty, alms, or influence. The hardened hearts of the Pharisees, unswayed even by the resurrection of Lazarus, illustrate the need for a true change of heart. Repentance is not something to be reserved for others; it is the essential lacking element in every person. Therefore, the focus should be on embracing repentance and heeding the word of God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.6313580324864823,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.58,
+        "commentatorTierSimilarities": [
+            38.39,
+            22.22,
+            39.39
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Nay\u2014not, \u2018they will not hear them:\u2019 he could not tell that, and besides, it would have taken away much of the ground of the answer of Abraham.",
+            "The word deprecates leaving their salvation in such uncertainty, as the chance of their hearing Moses and the prophets seems to him to imply.",
+            "Leave it not so, when it might be at once and for ever done by sending them one from the dead."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Nay\u2014giving the lie to Abraham.",
+            "The greatest miracle will have no effect on those who are determined not to believe.",
+            "A real Lazarus soon 'rose from the dead,' but the sight of him by crowds of people, inclined thereby to Christ, only crowned the unbelief and hastened the murderous plots of the Pharisees against the Lord of glory; nor has His own resurrection, far more overpowering, yet won over that 'crooked and perverse nation.'"
+        ],
+        "Albert Barnes": [
+            "They have heard them so long in vain, that there is no prospect now that they will attend to the message.",
+            "But if one should go to them directly from the eternal world they would hear him.",
+            "The novelty of the message would attract their attention, and they would listen to what he would say."
+        ],
+        "John Calvin": [
+            "The doctrine of the Law is little esteemed by the world, the Prophets are neglected, and no man submits to hear God speaking in his own manner.",
+            "Faith does not depend on miracles, or any extraordinary sign, but is the peculiar gift of the Spirit, and is produced by means of the word.",
+            "There is not the slightest reason, therefore, to expect that those means, which withdraw us from obedience to the word, will be of any service to us."
+        ],
+        "Philip Schaff": [
+            "Nay, father Abraham. This scarcely means: they will not hear them, but rather, Nay, but make the matter more sure.",
+            "The advocate of more decided 'spiritual manifestations' is a lost and still impenitent soul.",
+            "Without real discernment as to the best means of grace."
+        ],
+        "Archibald T. Robertson": [
+            "It is not wealth, not poverty, not alms, not influence, but repentance that is needed.",
+            "He had thought repentance was for others, not for all.",
+            "Repentance is the one thing lacking."
+        ],
+        "John Gill": [
+            "This way he suggests, was not so right, and would not succeed; for he knew his brethren were a rebellious, and stiffnecked people, and would not hear Moses and the prophets, notwithstanding all their outward boast of them, and pretensions of regard to them.\" ",
+            "but alas! repentance is not of man's will, but a gift of God's grace; nor could these men repent, because in a judicial way their eyes were shut, their ears were stopped, and their hearts were hardened.",
+            "though Christ came in person to them, and preached, as never man did, with power and authority, and confirmed his doctrine with miracles, yet they repented not, nor did they when he arose from the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse expresses the desperate plea of one who wishes to prevent their loved ones from facing the eternal consequences of their unbelief. The speaker acknowledges that even if someone were to rise from the dead, it would not be enough to convince those who are determined not to believe. The commentary emphasizes the necessity of repentance and the futility of relying on wealth, poverty, alms, or influence to save oneself. The first-tier commentator reminds us that repentance is not limited to others, but is a prerequisite for all. Even the miraculous resurrection of Lazarus did not sway the hearts of the unbelieving Pharisees, illuminating the deep-rooted obstinacy of those who resist belief. The verse challenges us to prioritize repentance and not to rely on external signs or manifestations as a substitute for truly hearing and embracing the word of God.",
+            "wordCount": 143,
+            "quoteTokenProportion": 34.41,
+            "qualityScore": 1.7273824724742297,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.78,
+            "commentatorTierSimilarities": [
+                33.75,
+                26.97,
+                39.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The desperate plea in these words highlights the futility of solely relying on miracles or external signs to convince unbelievers. Even if someone were to rise from the dead, it would not sway those who are determined not to believe. Rather, repentance is the crucial missing piece. The verse cautions against the false hope of material wealth, poverty, alms, or influence as means of salvation. The stubborn hearts of the Pharisees remained unmoved even by the miraculous resurrection of Lazarus. It emphasizes the need for genuine repentance, reminding us that it is a gift of God's grace.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.6736909910806521,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                36.09,
+                27.05,
+                36.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This plea emphasizes the importance of genuine repentance rather than relying on external signs or manifestations. Even if someone were to rise from the dead, it wouldn't convince those who are determined not to believe. The verse highlights that repentance is the fundamental requirement, regardless of wealth, poverty, alms, or influence. The stubborn hearts of the Pharisees, unmoved by the resurrection of Lazarus, reveal the need for a genuine change of heart. Repentance, ultimately a gift of God's grace, is what truly matters.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.6739903388560957,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "commentatorTierSimilarities": [
+                36.11,
+                26.19,
+                37.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This plea exposes the fruitlessness of relying solely on miracles or external signs to change the hearts of unbelievers. Even if someone were to rise from the dead, it would not sway those who are resolute in their unbelief. Instead, repentance is the essential missing element. The verse cautions against placing hopes of salvation in material wealth, poverty, alms, or influence. The unyielding hearts of the Pharisees, undeterred even by the resurrection of Lazarus, highlight the necessity of genuine repentance as a gift of God's grace.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6582897559610468,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.48,
+            "commentatorTierSimilarities": [
+                35.97,
+                26.67,
+                37.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This plea reveals the ineffectiveness of relying on miracles alone to convince those determined not to believe. Genuine repentance is what truly matters, not wealth, poverty, alms, or influence. The hardened hearts of the Pharisees, unswayed even by the resurrection of Lazarus, illustrate the need for a true change of heart. Repentance is not something to be reserved for others; it is the essential lacking element in every person. Therefore, the focus should be on embracing repentance and heeding the word of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6313580324864823,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.58,
+            "commentatorTierSimilarities": [
+                38.39,
+                22.22,
+                39.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

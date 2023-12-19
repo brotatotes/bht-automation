@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:06:03",
+    "verseRef": "1 Corinthians 6:12",
+    "bestBHT": {
+        "bht": "I will not be deprived of my freedom by any practice, declares the Apostle Paul. While all things may be lawful, not all are beneficial. Paul emphasizes the importance of exercising power over things rather than being controlled by them. This understanding of liberty is not to be mistaken for license, as there are many things that can harm others. Paul is determined to maintain self-control and not become a slave to any practice, even if it seems harmless but could compromise his spiritual journey.",
+        "wordCount": 86,
+        "quoteTokenProportion": 57.58,
+        "qualityScore": 2.045882269067469,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.37,
+        "commentatorTierSimilarities": [
+            31.24,
+            42.41,
+            26.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All things are lawful unto me are the bona fide words of the Apostle himself, not, as some have understood them, the saying of an opponent cited by him.",
+            "The sentiment is a true Christian axiom: all things being of course understood, as it evidently was even by the abusers of the doctrine, of things (supposed by them) indifferent.",
+            "The assertion is equivalent to I will not be deprived of my freedom by any practice;\u2014i. e. indulge in any practice which shall mar this liberty and render it no real freedom, making me be one under power, instead of one exercising it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "All things are in my power, but I will not be brought under the power of any of them.",
+            "The 'power' ought to be in the hands of the believer, not in the things which he uses.",
+            "Unlawful things ruin thousands; 'lawful' things (unlawfully used), ten thousands."
+        ],
+        "Albert Barnes": [
+            "All things are lawful... I will not be brought under the power.",
+            "Even admitting that certain things were in themselves right, yet his grand purpose was 'not to be the slave of habit,' not to be subdued by any practice that might corrupt his mind, fetter his energies, or destroy his freedom.",
+            "The man that has not courage and firmness enough to act on this rule should doubt his piety. If he is a voluntary slave to some idle and mischievous habit, how can he be a Christian!"
+        ],
+        "Marvin Vincent": [
+            "All things are in my power, but I shall not be brought under the power of any.",
+            "Will - be brought under the power",
+            "This kinship of the two words explains the play upon them."
+        ],
+        "John Calvin": [
+            "It is not enough that this or that is allowed us, to be made use of indiscriminately; for we must consider what is profitable to our brethren, whose edification it becomes us to study.",
+            "We are lords of all things; only we must not abuse that lordship in such a way as to drag out a most miserable bondage, being, through intemperance and inordinate lusts, under subjection to outward things, which ought to be under subjection to us.",
+            "The excessive moroseness of those who grudge to yield up anything for the sake of their brethren has this effect, that they unadvisedly put halters of necessity around their own necks."
+        ],
+        "Philip Schaff": [
+            "All things are lawful for me, but not all things are expedient.",
+            "In things indifferent... the Gospel has made all things clean, and I can use my liberty without scruple.",
+            "I must consider whether that which in itself is perfectly lawful is at the same time expedient."
+        ],
+        "Archibald T. Robertson": [
+            "But even here liberty is not license.",
+            "Many things, harmless in themselves in the abstract, do harm to others in the concrete.",
+            "Paul is determined not to be a slave to anything harmless in itself. He will maintain his self-control."
+        ],
+        "John Gill": [
+            "but I will not be brought under the power of any",
+            "he will use them, or not use them, at his pleasure",
+            "however lawful this might be in itself, yet it was not expedient"
+        ],
+        "John Wesley": [
+            "All things are lawful for me, but all things are not always expedient.\" ",
+            "Particularly when anything would offend my weak brother; or when it would enslave my own soul.\" ",
+            "For though all things are lawful for me, yet I will not be brought under the power of any."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I will not be deprived of my freedom by any practice, declares the Apostle Paul in 1 Corinthians 6:12, emphasizing the true Christian axiom that while all things may be lawful, not all are beneficial. Paul asserts that he will not allow himself to be brought under the power of anything, recognizing that the believer should exercise power over things, rather than being controlled by them. This understanding of liberty is not to be mistaken for license, as there are many things that, although harmless in the abstract, can bring harm to others in reality. Paul is determined to maintain self-control and not become a slave to any practice, even those that may seem harmless but could compromise his spiritual journey.",
+            "wordCount": 120,
+            "quoteTokenProportion": 53.01,
+            "qualityScore": 2.1263251233092655,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+            "commentatorTierSimilarities": [
+                32.6,
+                40.41,
+                27.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I will not be deprived of my freedom by any practice, declares the Apostle Paul, emphasizing the true Christian axiom that while all things may be lawful, not all are beneficial. Paul asserts that he will not allow himself to be brought under the power of anything, recognizing that the believer should exercise power over things, rather than being controlled by them. This understanding of liberty is not to be mistaken for license, as there are many things that, although harmless in the abstract, can bring harm to others in reality. Paul is determined to maintain self-control and not become a slave to any practice, even those that may seem harmless but could compromise his spiritual journey.",
+            "wordCount": 118,
+            "quoteTokenProportion": 53.66,
+            "qualityScore": 2.1560299328169257,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                32.42,
+                40.8,
+                26.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I will not be deprived of my freedom by any practice, declares the Apostle Paul. While all things may be lawful, not all are beneficial. Paul emphasizes the importance of exercising power over things rather than being controlled by them. This understanding of liberty is not to be mistaken for license, as there are many things that can harm others. Paul is determined to maintain self-control and not become a slave to any practice, even if it seems harmless but could compromise his spiritual journey.",
+            "wordCount": 86,
+            "quoteTokenProportion": 57.58,
+            "qualityScore": 2.045882269067469,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.37,
+            "commentatorTierSimilarities": [
+                31.24,
+                42.41,
+                26.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I will not be deprived of my freedom by any practice, declares the Apostle Paul. While all things may be lawful, not all are beneficial. Paul emphasizes the importance of exercising power over things rather than being controlled by them. This understanding of liberty is not to be mistaken for license, as there are many things that can harm others. Paul is determined to maintain self-control and not become a slave to any practice, even if it seems harmless but could compromise his spiritual journey.",
+            "wordCount": 86,
+            "quoteTokenProportion": 57.58,
+            "qualityScore": 2.045882269067469,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.37,
+            "commentatorTierSimilarities": [
+                31.24,
+                42.41,
+                26.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I will not be deprived of my freedom by any practice, declares the Apostle Paul. While all things may be lawful, not all are beneficial. Paul emphasizes the importance of exercising power over things rather than being controlled by them. This understanding of liberty is not to be mistaken for license, as Paul recognizes the potential harm that can come from indulging in indulging in practices that may be harmless in themselves, but can negatively impact others. Paul's resolve is to maintain self-control and not become a slave to any practice that may hinder his spiritual growth.",
+            "wordCount": 99,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.0282284429677313,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                30.53,
+                41.95,
+                27.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

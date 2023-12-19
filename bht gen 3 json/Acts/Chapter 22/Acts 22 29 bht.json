@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:35:22",
+    "verseRef": "Acts 22:29",
+    "bestBHT": {
+        "bht": "The chief captain was afraid after realizing that he had bound a Roman citizen, fearing the consequences of his actions. The soldiers were about to torture Paul by scourging him, but upon hearing that he was a Roman, they immediately stopped and backed off. It is notable that the old magical power of the words Civis Romanus sum still held weight, as Paul's status as a Roman citizen had a significant impact, prompting fear and causing the soldiers to cease their actions.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.8523758618751907,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+        "commentatorTierSimilarities": [
+            19.07,
+            38.12,
+            42.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The centurion believed Paul\u2019s word, because a false claim of this nature, being easily exposed, and punishable with death, was almost an unprecedented thing.\" (Hackett)",
+            "His fear was on account of his first false step; but it was now too late to reverse it.\" (Commentary)",
+            "The same reason which leads him to continue it now, operates afterwards when the hearing was delayed.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "29. chief captain also was afraid,",
+            "\t&amp;c.\u2014See on Acts 22:1."
+        ],
+        "Albert Barnes": [
+            "They saw that by scourging him they would have Violated the Roman law, and exposed themselves to its penalty.",
+            "Who were about to torture him by scourging him.",
+            "It is a heinous sin to bind a Roman citizen; it is wickedness to beat him; it is next to parricide to kill him, and what Shall I say to crucify him?"
+        ],
+        "Philip Schaff": [
+            "It is noticeable how the word rendered \u2018should have examined\u2019 had acquired the sense of \u2018examining by torture.\u2019",
+            "The old magical power of the words, Civis Romanus sum, \u2018 I am a Roman citizen,\u2019 was by no means gone when Paul spoke to the soldiers of the tower of Antonia.",
+            "There is no doubt but that the statement of Acts 22:29, which states how \u2018the chief captain was afraid\u2019 because he had bound a Roman, refers not to the fact simply of his being fettered, but to his having been fastened to the pillar to receive the blows of the rods."
+        ],
+        "Archibald T. Robertson": [
+            "Departed from him...stood off from him at once.\" ",
+            "Was afraid...became afraid. He had reason to be.\" ",
+            "That he was a Roman...indirect assertion with tense of \u03b5\u03c3\u03c4\u03b9\u03bd retained."
+        ],
+        "John Gill": [
+            "By scourging; namely, the soldiers, who under the inspection of the centurion, and by the order of the chief captain, were binding him with thongs to scourge him, and thereby extort from him his crime...",
+            "...but hearing that he was a Roman, either of their own accord, or rather at the order of their officers, either the centurion or chief captain, or both, left binding him, and went their way...",
+            "And the chief captain also was afraid after he knew that he was a Roman; lest he should be called to an account for his conduct, and his commission should be taken from him: chiefly, and because he had bound him..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The centurion believed Paul's word because making a false claim like that would have been easily exposed and punishable by death. The chief captain, having made the first false step, was now afraid but it was too late to reverse it. He continued to be afraid because the same reason that led him to initiate the false accusation of Paul as a non-Roman citizen still remained. The soldiers were about to torture Paul through scourging, but when they heard he was a Roman citizen, they immediately backed off, fearing the consequences of their actions.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.8120517200292308,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                29.67,
+                34.21,
+                36.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief captain became afraid because a false claim like Paul's was easily exposed and punishable by death, and it was now too late to reverse his initial false step. The soldiers were about to torture Paul through scourging, but when they discovered he was a Roman citizen, they immediately backed off, fearing the consequences of violating Roman law.",
+            "wordCount": 60,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8308688262484654,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.22,
+            "commentatorTierSimilarities": [
+                24.93,
+                37.77,
+                37.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief captain was afraid after realizing that he had bound a Roman citizen, fearing the consequences of his actions. The soldiers were about to torture Paul by scourging him, but upon hearing that he was a Roman, they immediately stopped and backed off. It is notable that the old magical power of the words Civis Romanus sum still held weight, as Paul's status as a Roman citizen had a significant impact, prompting fear and causing the soldiers to cease their actions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8523758618751907,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                19.07,
+                38.12,
+                42.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief captain's fear stemmed from the fact that he had bound a Roman citizen, which had severe consequences. The soldiers, who were about to torture Paul through scourging, immediately ceased their actions upon learning about his Roman citizenship. The power of the words Civis Romanus sum still held sway, as Paul's status prompted fear and caused the soldiers to back off.",
+            "wordCount": 64,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6694500354047708,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "commentatorTierSimilarities": [
+                18.66,
+                38.8,
+                42.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief captain became afraid after he knew that he had bound a Roman, fearing the consequences of his conduct and the possible loss of his commission. The soldiers, who were in the process of binding Paul for scourging, immediately stopped and left upon hearing about his Roman citizenship. The power of the words Civis Romanus sum was still influential, as it instilled fear in the soldiers and forced them to abandon their intended actions.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6870771818685024,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+            "commentatorTierSimilarities": [
+                18.64,
+                32.92,
+                48.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

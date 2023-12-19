@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:18:14",
+    "verseRef": "2 Corinthians 11:31",
+    "bestBHT": {
+        "bht": "In this declaration, Paul asserts that his words are true, appealing to God's knowledge of his honesty. He solemnly swears that he is not lying, underscoring the significance of his sufferings and hardships. Despite the seeming foolishness of his experiences, Paul boldly stands by his oath before God, the ultimate source of happiness for all beings.",
+        "wordCount": 57,
+        "quoteTokenProportion": 38.64,
+        "qualityScore": 1.5690267372681763,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+        "commentatorTierSimilarities": [
+            28.95,
+            32.81,
+            38.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "This solemn asseveration refers to what follows.",
+            "He appeals to God for its truth.",
+            "It may ALSO refer to the revelation in 2 Corinthians 12:1, standing in beautiful contrast to his humiliating escape from Damascus."
+        ],
+        "Albert Barnes": [
+            "The solemn appeal which he here makes to God is made in view of what he had just said of his sufferings, not of what follows... The reason of this asseveration is probably that the transactions to which he had referred were known to but few, and perhaps not all of them to even his best friends.",
+            "His trials and calamities had been so numerous and extraordinary that his enemies would say that they were improbable, and that all this had been the mere fruit of exaggeration.",
+            "If all appeals to God were made on as important occasions as this, and with the same profound veneration and reverence, such appeals would never be improper."
+        ],
+        "Marvin Vincent": [
+            "Blessed, etc. See on Romans 9:5, and compare Romans 1:25."
+        ],
+        "John Calvin": [
+            "But if, while yet a raw recruit, he was exercised in such beginnings, what shall we think of him, when a veteran soldier?",
+            "His singular perseverance, however, shone forth chiefly in this \u2014 that, after escaping from so severe a persecution, he did not cease to stir up the whole world against him, by prosecuting fearlessly the Lord\u2019s work.",
+            "We must always, in connection with laws, have an eye to reason and equity. This consideration will exempt Paul entirely from blame."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 11:31. The God and Father of the Lord Jesus [1] knoweth that I lie not.",
+            "\t",
+            " [1] Such is the true reading.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The list seems so absurd and foolish that Paul takes solemn oath about it.",
+            "For the doxology see Romans 1:25; Romans 9:5.",
+            "I am not lying."
+        ],
+        "John Gill": [
+            "God...knoweth that I lie not; in anyone single instance he had mentioned, nor in what he was about to declare.",
+            "God is his 'God' as Mediator, and head of the elect, to whom as to them he is a covenant God.",
+            "He [God] is the source of all happiness to his creatures."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This passage in 2 Corinthians 11:31 is a solemn asseveration made by Paul, appealing to God for its truth. It could refer not only to what Paul has just mentioned about his sufferings, but also to the revelation in 2 Corinthians 12:1, contrasting his escape from Damascus. The list of Paul's trials may seem absurd, but he solemnly swears that he is not lying. This appeal to God is made in light of his extraordinary and numerous trials, and perhaps to counter any accusations of exaggeration. By calling on God as the God and Father of the Lord Jesus, Paul is emphasizing that his statements are truthful and that God is the source of all happiness to His creatures.",
+            "wordCount": 116,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.6786490090586963,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.16,
+            "commentatorTierSimilarities": [
+                35.85,
+                33.5,
+                30.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In 2 Corinthians 11:31, Paul passionately appeals to God, affirming the truth of what he is about to share. He solemnly declares that he is not lying, emphasizing the seriousness of his sufferings and trials. Despite the seemingly absurd nature of his experiences, Paul stands firm in his oath before God. By addressing God as the God and Father of the Lord Jesus, he reminds us that ultimate truth and happiness are found in Him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.5735652647672658,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                30.43,
+                32.48,
+                37.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this declaration, Paul asserts that his words are true, appealing to God's knowledge of his honesty. He solemnly swears that he is not lying, underscoring the significance of his sufferings and hardships. Despite the seeming foolishness of his experiences, Paul boldly stands by his oath before God, the ultimate source of happiness for all beings.",
+            "wordCount": 57,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.5690267372681763,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+            "commentatorTierSimilarities": [
+                28.95,
+                32.81,
+                38.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This solemn asseveration made by Paul in 2 Corinthians 11:31 is a powerful appeal to God for the truth of what he is about to declare. He passionately asserts that he is not lying, invoking God's knowledge of his sincerity. Paul's trials and sufferings had been numerous and extraordinary, causing some to doubt their credibility. However, he firmly stands by his oath, acknowledging that ultimate happiness and truth are found in God, who is the Father of the Lord Jesus.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6193786324671346,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+            "commentatorTierSimilarities": [
+                31.75,
+                34.67,
+                33.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this solemn asseveration, Paul appeals to God, emphasizing the authenticity of his forthcoming statement. He passionately declares that he is not lying, underscoring the significance of his sufferings and hardships. Despite the seeming absurdity, Paul earnestly stands by his oath before God, who is the ultimate source of happiness for all beings.",
+            "wordCount": 53,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.5313265994301304,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.26,
+            "commentatorTierSimilarities": [
+                31.56,
+                30.61,
+                37.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

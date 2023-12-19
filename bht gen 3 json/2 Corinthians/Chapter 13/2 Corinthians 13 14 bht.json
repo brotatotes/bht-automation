@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:18:59",
+    "verseRef": "2 Corinthians 13:14",
+    "bestBHT": {
+        "bht": "This concluding benediction is notable for its profound recognition of the Three Persons in the Holy Trinity. The grace of our Lord Jesus Christ is given priority, as it is through His grace that we come to know the love of God the Father. This blessing is not selective, but is invoked upon every portion and individual of the Corinthian Church. Through the grace of Christ and the fellowship of the Holy Spirit, believers are able to experience the unity and fullness of God's divine nature.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.063495545838525,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+        "commentatorTierSimilarities": [
+            42.66,
+            28.2,
+            29.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "CONCLUDING BENEDICTION; remarkable for the distinct recognition of the Three Persons in the Holy Trinity.",
+            "The grace of our Lord Jesus Christ is put first; 'for by the grace of Christ men come 'to the love of the Father.'",
+            "And this blessing he invokes, not on a few individuals, or any one section of the Corinthian Church, but expressly on every portion and every individual of those with whom, throughout these two Epistles, he had so earnestly and so variously argued and contended."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The grace of Christ\" comes first, for it is only by it we come to \"the love of God\" the Father.",
+            "Whoever has \"the fellowship of the Holy Ghost,\" has also \"the grace of our Lord Jesus Christ,\" and \"the love of God\"; and vice versa.",
+            "The doctrine of the Trinity was not revealed clearly and fully till Christ came, and the whole scheme of our redemption was manifested in Him, and we know the Holy Three in One more in their relations to us than in their mutual relations to one another."
+        ],
+        "Albert Barnes": [
+            "If so, it is right to offer worship to the Lord Jesus and to the Holy Spirit.",
+            "The Holy Spirit is a person, or has a distinct personality.",
+            "The passage, therefore, furnishes a proof of the doctrine of the Trinity that has not yet been answered, and, it is believed, cannot be."
+        ],
+        "Marvin Vincent": [
+            "The grace, etc. The most complete benediction of the Pauline epistles.\" ",
+            "In most of the epistles the introductory benedictions are confined to grace and peace.\" ",
+            "In the closing benedictions uniformly grace."
+        ],
+        "John Calvin": [
+            "The term grace does not here mean unmerited favor, but is taken by metonymy, to denote the whole benefit of redemption.",
+            "For God, viewed in himself, loved us before the creation of the world, and redeemed us for no other reason than this \u2014 because he loved us. As for us, on the other hand, as we see in ourselves nothing but occasion of wrath, that is, sin, we cannot apprehend any love of God towards us without a Mediator.",
+            "The fellowship of the Holy Spirit is added, because it is only under his guidance, that we come to possess Christ, and all his benefits."
+        ],
+        "Philip Schaff": [
+            "Remarkable it is that an Epistle written under a tempest of conflicting emotions, breathing in some places indignation, reproach, and sadness, [...] the one which the Christian Church in every land and of every age has found, and will find as long as the world lasts, the most available for public use, as a close to its worship.\" ",
+            "Observe the characteristic features in the agency of each of the Persons in the Godhead as here assigned them.",
+            "This is that 'communion of the Holy Ghost' which is here invoked."
+        ],
+        "John Gill": [
+            "This passage contains no inconsiderable proof of a trinity of persons in the Godhead, to whom distinct things are here ascribed, and of them asked, equal objects of prayer and worship.",
+            "Meaning either the love of Christ...is the ground and foundation of all he has done and underwent for his people.",
+            "Or else that communion and fellowship which the Spirit of God leads the saints into with the Father...and with the Son."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The benediction of 2 Corinthians 13:14 is remarkable because it recognizes the Three Persons in the Holy Trinity. The grace of our Lord Jesus Christ comes first, as it is through His grace that we come to the love of God the Father. This blessing is invoked not just on a few individuals, but on every portion and individual of the Corinthian Church. The doctrine of the Trinity was fully revealed in Christ, and we know the Holy Three in One more in their relations to us than in their mutual relations to one another. This benediction is the most complete of the Pauline epistles, signifying the importance of grace in our lives.",
+            "wordCount": 111,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.1145336661393186,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+            "commentatorTierSimilarities": [
+                44.49,
+                27.28,
+                28.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The concluding benediction in this passage is a remarkable recognition of the Three Persons in the Holy Trinity. It begins with the emphasis on the grace of our Lord Jesus Christ, for it is through His grace that we come to the love of God the Father. This blessing is not limited to a select few, but is invoked upon every individual and portion of the church. It is through the grace of Christ and the fellowship of the Holy Spirit that we experience the love of God and the fullness of the Trinity.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.1876187640409483,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.08,
+            "commentatorTierSimilarities": [
+                43.0,
+                28.47,
+                28.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This benediction in 2 Corinthians 13:14 is unique in its recognition of the Three Persons of the Holy Trinity. The grace of our Lord Jesus Christ takes precedence, for by His grace, we are brought to the love of God the Father. It is significant that this blessing is not limited to a specific group, but extended to every individual within the Corinthian Church. Through the grace of Christ, the fellowship of the Holy Spirit is bestowed upon us, enabling us to experience the love of God and the unity of the Trinity.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.1265403578278903,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+            "commentatorTierSimilarities": [
+                41.29,
+                28.51,
+                30.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The benediction found in this passage beautifully acknowledges the three distinct Persons of the Holy Trinity. It starts with the emphasis on the grace of our Lord Jesus Christ, through which we are led to the love of God the Father. This blessing is not restricted to certain individuals, but extends to every portion and individual within the Corinthian Church. Through the grace of Christ and the fellowship of the Holy Spirit, believers can experience the fullness and unity of the Trinity in their lives.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.1100556827720474,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.5,
+            "commentatorTierSimilarities": [
+                41.64,
+                29.48,
+                28.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This concluding benediction is notable for its profound recognition of the Three Persons in the Holy Trinity. The grace of our Lord Jesus Christ is given priority, as it is through His grace that we come to know the love of God the Father. This blessing is not selective, but is invoked upon every portion and individual of the Corinthian Church. Through the grace of Christ and the fellowship of the Holy Spirit, believers are able to experience the unity and fullness of God's divine nature.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.063495545838525,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+            "commentatorTierSimilarities": [
+                42.66,
+                28.2,
+                29.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

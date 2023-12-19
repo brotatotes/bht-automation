@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:23:41",
+    "verseRef": "Luke 23:12",
+    "bestBHT": {
+        "bht": "The unexpected unity between Pilate and Herod in their opposition to Christ demonstrates the world's contempt towards God's children. This temporary alliance, driven by Pilate's respect for Herod's authority, sheds light on the indifference and indecision that led to Jesus' crucifixion. The omission of this event in John's Gospel raises questions about the consistency of the Gospel accounts. It serves as a reminder of the lengths to which the wicked will go to oppose faith and how their values hold little significance in the eyes of God.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.572793633964048,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.64,
+        "commentatorTierSimilarities": [
+            23.81,
+            38.52,
+            37.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The prosent feeling of Pilate was anything but hostile to the person of Christ.",
+            "Herod, by his treatment of Him, shews that he thought Him beneath his judicial notice.",
+            "Let the student ask himself, How could St. John, if he composed his Gospel with that of St. Luke before him, have here given us a narrative in which so important a fact as this is not only not related, but absolutely cannot find any place of insertion?"
+        ],
+        "Albert Barnes": [
+            "It is true, however, that wicked people, at variance in other things, are often united in opposing and ridiculing Christ and his followers.",
+            "Enmities of long standing are sometimes made up, and the most opposite characters brought together, simply to oppose religion.",
+            "Made friends together - Their reconciliation seems to have been the civility and respect which Pilate showed to Herod in this case."
+        ],
+        "John Calvin": [
+            "From the fact that Christ was the occasion of reconciling two wicked men, let us learn how much the children of God, and religion itself, are disdained by the world.",
+            "When wicked men on both sides deliver up the children of God to death, it is not by what they consider to be a valuable price that they purchase mutual friendship, but what appears to them to be of no value whatever they not unwillingly surrender, just as if a person were to throw a crust of bread to a dog.",
+            "Having first been reconciled to God, we ought to assist each other, by a devout and holy agreement, to follow righteousness, and to labor to discharge the duties of brotherly affection and of mutual humanity."
+        ],
+        "Philip Schaff": [
+            "If the cause of the quarrel was some question of jurisdiction...we see a reason why a reconciliation now took place.",
+            "The indecision of the one and the indifference of the other conspired to nail our Lord to the cross.",
+            "It is easy to harmonize this account with those of Matthew and Mark, but more difficult to insert the occurrence in John's narrative."
+        ],
+        "Archibald T. Robertson": [
+            "Before they were at enmity between themselves (\u03c0\u03c1\u03bf\u03c5\u03c0\u03b7\u03c1\u03c7\u03bf\u03bd \u03b3\u03b1\u03c1 \u03b5\u03bd \u03b5\u03c7\u03b8\u03c1\u03b1 \u03bf\u03bd\u03c4\u03b5\u03c2 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03b1\u03c5\u03c4\u03bf\u03c5\u03c2).\" ",
+            "A periphrastic imperfect of the double compound \u03c0\u03c1\u03bf\u03c5\u03c0\u03b5\u03c1\u03c7\u03c9, an old verb, to exist (\u03c5\u03c0\u03b1\u03c1\u03c7\u03c9) previously (\u03c0\u03c1\u03bf-), here alone in the N.T., with \u03bf\u03bd\u03c4\u03b5\u03c2 (participle of \u03b5\u03b9\u03bc) added."
+        ],
+        "John Gill": [
+            "For it pleased Herod, that Pilate should show such a regard to his authority and power, as to send one that belonged to his jurisdiction to take cognizance of his case.",
+            "Pilate, on the other hand, was pleased with Herod, that though he was one that was under his jurisdiction, and so had a right of trying the cause, and either absolve or condemn, yet chose not to use this his power, but referred the case to the Roman governor.",
+            "But now matters were made up by this step of Pilate's, in sending Christ to him, supposed to be a Galilean, and so of Herod's jurisdiction; which was tacitly acknowledging his former conduct to be wrong, and showed a regard to Herod's authority."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse illustrates an intriguing dynamic between Pilate and Herod, as their enmity is momentarily set aside in their united opposition to Christ. This unexpected reconciliation highlights the manner in which wicked individuals can join forces to oppose and mock Christ and His followers. Furthermore, it is fascinating to consider how the indecisiveness of Pilate and the indifference of Herod ultimately played a role in Jesus being crucified. This narrative also raises questions about the consistency of the Gospel accounts and how this event is omitted in the Gospel of John. Ultimately, this passage serves as a reminder of how the world disdains the children of God and the ways in which individuals may be willing to surrender what they deem valueless in order to satisfy their own agendas.",
+            "wordCount": 129,
+            "quoteTokenProportion": 30.12,
+            "qualityScore": 1.5945316108890677,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.36,
+            "commentatorTierSimilarities": [
+                23.57,
+                38.72,
+                37.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The unexpected harmony between Pilate and Herod in their opposition to Christ is a powerful testament to the united front wicked people can form against God and his followers. This unlikely alliance, born out of deceit and mockery, portrays the disdain that the world holds for the children of God. The account also invites contemplation on the discrepancy between the Gospels and highlights John's omission of this significant event. Ultimately, the narrative illuminates the depths to which worldly individuals will go to satisfy their own agendas, sacrificing what they view as insignificant in the process.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.4708445781283965,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "commentatorTierSimilarities": [
+                25.14,
+                39.69,
+                35.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The unexpected union of Pilate and Herod against Christ underscores the world's disdain for God's children and exposes the lengths to which the wicked will go to oppose religion. Their reconciliation, driven by Pilate's regard for Herod's authority, reveals the indifference and indecision that led to Jesus' crucifixion. This narrative poses a challenge in reconciling the accounts of Matthew, Mark, and Luke with the absence of this incident in John's Gospel. It serves as a reminder that the values the world holds dear are often inconsequential in the eyes of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.6238945473577298,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+            "commentatorTierSimilarities": [
+                24.06,
+                39.57,
+                36.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The unexpected unity between Pilate and Herod in their opposition to Christ demonstrates the world's contempt towards God's children. This temporary alliance, driven by Pilate's respect for Herod's authority, sheds light on the indifference and indecision that led to Jesus' crucifixion. The omission of this event in John's Gospel raises questions about the consistency of the Gospel accounts. It serves as a reminder of the lengths to which the wicked will go to oppose faith and how their values hold little significance in the eyes of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.572793633964048,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.64,
+            "commentatorTierSimilarities": [
+                23.81,
+                38.52,
+                37.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The peculiar union between Pilate and Herod reveals the world's scorn for believers and the extent to which the wicked will conspire against God's people. Their reconciliation, fueled by Pilate's deference to Herod's authority, exposes the indifference and irresolution that contributed to Jesus' crucifixion. This narrative challenges the harmony of the Gospel accounts, particularly the absence of this incident in John's Gospel. It serves as a sobering reminder that the values cherished by the world hold little value in the eyes of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.4808357863689994,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.58,
+            "commentatorTierSimilarities": [
+                23.46,
+                38.07,
+                38.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

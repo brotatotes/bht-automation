@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:06:15",
+    "verseRef": "Romans 7:13",
+    "bestBHT": {
+        "bht": "The sinfulness of sin is revealed when it misuses and perverts the good commandment into a cause of death. Sin is shown in its real character as sin when it turns God's holy and good law into a provocative force for the very things it forbids. The law of God serves as a test to expose the true energy of evil and the enormous turpitude of sin. It works to bring out the deep depravity within a person and reveals the excesses of sin, showcasing its real nature.",
+        "wordCount": 89,
+        "quoteTokenProportion": 29.63,
+        "qualityScore": 2.702288020991273,
+        "qualityScoreNormalizedComparedToV2BHTs": 81.19,
+        "commentatorTierSimilarities": [
+            27.44,
+            35.45,
+            37.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "but sin [became death to me] that it might appear (be shewn to be) sin, (by) working death to me through that which is good",
+            "The misuse and perversion of good is one of the tests whereby the energy of evil is detected",
+            "sin, by its perversion of the [good] commandment into a cause [evil] of death, was shewn in its real character as sin"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Does the blame of my death lie with the good law? Away with such a thought.",
+            "That its enormous turpitude might stand out to view, through its turning God's holy, just, and good law into a provocative to the very things it forbids.",
+            "We regard this whole description of his inward struggles and progress rather as the finished result of all his past recollections and subsequent reflections on his unregenerate state, which he throws into historical form only for greater vividness."
+        ],
+        "Albert Barnes": [
+            "The Law of God is often applied to a man\u2019s conscience, that he may see how deep and desperate is his depravity. No man knows his own heart until the Law thus crosses his path, and shows him what he is.",
+            "The sentiment of the whole is, that the tendency of the Law is to excite the dormant sin of the bosom into active existence, and to reveal its true nature. It is desirable that that should be done, and as that is all that the Law accomplishes, it is not adapted to sanctify the soul.",
+            "Because it is one part of God\u2019s plan to develope the secret feelings of the heart, and to show to all creatures what they are."
+        ],
+        "Marvin Vincent": [
+            "Exceeding [\u03ba\u03b1\u03b8 \u03c5\u03c0\u03b5\u03c1\u03b2\u03bf\u03bb\u03b7\u03bd] . An adverbial phrase. Lit., according to excess. The noun uJperbolh means a casting beyond. The English hyperbole is a transcription."
+        ],
+        "John Calvin": [
+            "He denies, that death proceeds from the law, though death through its means is brought on us by sin.",
+            "Sin is in a manner regarded as just before it is discovered by the law; but when it is by the law made known, then it really obtains its own name of sin.",
+            "The more outrageous does [sin's] enormity appear, when it converts life into death; and thus every excuse is taken away from it."
+        ],
+        "Philip Schaff": [
+            "Working death to me through that which is good. This was the mode in which sin was made to appear sin: by making use of what is good to produce death in men, it reveals more fully its own hideous character.",
+            "As it is the sovereign right of good to overrule evil results for good, so it is the curse of sin to pervert the effects of what is good to evil.",
+            "Such is the design of the law, so far as the salvation of sinners is concerned. It does not prescribe the conditions of salvation. Neither is the law the means of sanctification. It cannot make us holy. On the contrary, its operation is to excite and exasperate sin to render its power more dreadful and destructive."
+        ],
+        "Archibald T. Robertson": [
+            "The sinfulness of sin is revealed in its violations of God's law.\" ",
+            "The excesses of sin reveal its real nature.",
+            "Only then do some people get their eyes opened."
+        ],
+        "John Gill": [
+            "Nor is it any objection to the goodness of the law, that it is a ministration of condemnation and death to sinners; for 'lex non damnans, non est lex', a law without a sanction or penalty, which has no power to condemn and punish, is no law, or at least a law of no use and service.",
+            "Moreover, he goes on to open the true end and reason of sin, by the law working death in his conscience.",
+            "This end was to be, and is answered by it, yea, that sin by the commandment might become exceeding sinful; that the corruption of nature might not only be seen and known to be sin, but exceeding sinful."
+        ],
+        "John Wesley": [
+            "But it was sin, which was made death to me, inasmuch as it wrought death in me even by that which is good - By the good law.\" ",
+            "So that sin by the commandment became exceeding sinful \u2014 The consequence of which was, that inbred sin, thus driving furiously in spite of the commandment, became exceeding sinful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes that sin, by perverting the good commandment, reveals its true character as sin. The law of God serves as a mirror that exposes the deep depravity within a person. While the law does not provide salvation or sanctification, it exposes the heinousness of sin and its ability to use good things for destructive purposes. The law works to awaken and aggravate sin in order to demonstrate its power and bring about death. In this way, sin is shown to be sinful to an extreme degree.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.4582977094044924,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.08,
+            "commentatorTierSimilarities": [
+                25.96,
+                35.0,
+                39.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The passage highlights that sin, when it perverts the good commandment, reveals its true nature. The law of God acts as a mirror, exposing the deep depravity within a person. While the law does not bring salvation or sanctification, it uncovers the sin's heinousness, its ability to twist good things into destructive forces. The law provokes and intensifies sin, displaying its power and leading to death. In this way, sin is shown to be exceedingly sinful.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.4058754535861118,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.34,
+            "commentatorTierSimilarities": [
+                26.18,
+                34.37,
+                39.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sinfulness of sin is revealed when it misuses and perverts the good commandment into a cause of death. Sin is shown in its real character as sin when it turns God's holy and good law into a provocative force for the very things it forbids. The law of God serves as a test to expose the true energy of evil and the enormous turpitude of sin. It works to bring out the deep depravity within a person and reveals the excesses of sin, showcasing its real nature.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.702288020991273,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.19,
+            "commentatorTierSimilarities": [
+                27.44,
+                35.45,
+                37.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sinfulness of sin is revealed when it perverts the good commandment, exposing its true character. Sin misuses and turns God's holy law into a provocative force for the very acts it forbids. The law serves as a test to detect the energy of evil and showcases the enormity of sin. It reveals the excesses of sin and uncovers the deep depravity within. Through the law, sin is shown to be exceedingly sinful, using what is good to bring about destruction.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.5556854989174296,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.32,
+            "commentatorTierSimilarities": [
+                27.19,
+                34.41,
+                38.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sinfulness of sin is revealed when it perverts the good commandment and turns it into a cause of death. Sin is shown in its real character as sin when it uses what is good to produce death and provoke the very things it forbids. The law of God serves as a powerful mirror, uncovering the deep depravity within and exposing the true nature of sin. Through the law, sin becomes exceedingly sinful, using goodness to bring about destruction.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.69273015998051,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.87,
+            "commentatorTierSimilarities": [
+                25.67,
+                34.99,
+                39.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

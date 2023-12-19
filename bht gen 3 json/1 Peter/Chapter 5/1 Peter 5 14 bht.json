@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:40:05",
+    "verseRef": "1 Peter 5:14",
+    "bestBHT": {
+        "bht": "Greet one another in a kiss of love, a sign of affectionate salutation that represents the union and communion of those in Christ. This practice, although once abused, is a demonstration of true love and affection. May peace, flowing from salvation, be with all who are in Christ Jesus, for love and holiness are inseparable. This greeting extends to all who take Christ as Lord and Savior, and it is the greatest of all secret orders and ties.",
+        "wordCount": 78,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 2.1065000672422194,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+        "commentatorTierSimilarities": [
+            35.6,
+            33.71,
+            30.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Salute one another in (as the medium of salutation) a kiss of love.",
+            "Peace be to you all that are in Christ, in union and communion with Him.",
+            "That are in Christ\" is quite in St. Paul\u2019s manner: compare Rom. viii. 8; xvi. 7; 2 Cor. v. 17."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Love and holiness are inseparable.",
+            "Peace...flowing from salvation.",
+            "Be with you all that are in Christ Jesus."
+        ],
+        "Albert Barnes": [
+            "Greet ye one another with a kiss of charity - A kiss of love; a common method of affectionate salutation in the times of the apostles.\" ",
+            "Peace be with you all that are in Christ Jesus - That are true Christians.",
+            "See the Ephesians 6:23 note; Philippians 4:7 note."
+        ],
+        "Marvin Vincent": [
+            "Kiss of charity. Compare 1 Corinthians 16:20. "
+        ],
+        "John Calvin": [
+            "Of the kiss of love we have spoken elsewhere.\" ",
+            "He bids this to be the kiss of love, so that the sincerity of the heart might correspond with the external act.\" ",
+            "The sincerity of the heart might correspond with the external act."
+        ],
+        "Philip Schaff": [
+            "What Peter speaks of here as the \u2018kiss of love\u2019 is always spoken of by Paul as the \u2018holy kiss'\".",
+            "The practice of saluting with a kiss was as common in the ancient East, and specially among the Jews, as is the custom of saluting with hand-shaking in the modern West.",
+            "The closing words \u2018in Christ\u2019 are peculiarly Pauline in tone."
+        ],
+        "Archibald T. Robertson": [
+            "With a kiss of love.\" ",
+            "The abuse of this custom led to its confinement to men with men and women with women and to its final abandonment.",
+            "This is the greatest of all secret orders and ties, one that is open to all who take Christ as Lord and Saviour."
+        ],
+        "John Gill": [
+            "and intends such a kiss, as is not only opposite to everything that is lascivious and impure, but is expressive of true love and affection, and is hearty and sincere\" ",
+            "The apostle wishing peace, temporal, spiritual, and eternal.\" ",
+            "The apostle wishing that this might be the case, and believing that it would be."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Greet one another in a kiss of love, a gesture that represents the union and communion of those in Christ. This kiss of charity is a sign of affectionate salutation that was common in the apostles' time. It is not just a superficial act, but one that should come from a sincere and loving heart. This practice, although once abused, is a demonstration of true love and affection. May peace, flowing from salvation, be with all who are in Christ Jesus, for love and holiness go hand in hand. This greeting of peace extends to all who take Christ as Lord and Savior, and it is the greatest of all secret orders and ties.",
+            "wordCount": 114,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 2.085788659547795,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                32.42,
+                34.24,
+                33.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Greet one another in a kiss of love, a sign of affectionate salutation that was common in the apostles' time. This kiss of charity is not just a superficial act, but one that should come from a sincere and loving heart. It represents the union and communion of those in Christ. May peace, flowing from salvation, be with all who are in Christ Jesus, for love and holiness are inseparable. This greeting extends to all who take Christ as Lord and Savior, and it is the greatest of all secret orders and ties.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.0981245721307213,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                34.95,
+                34.79,
+                30.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Greet one another in a kiss of love, a sign of affectionate salutation that represents the union and communion of those in Christ. This practice, although once abused, is a demonstration of true love and affection. May peace, flowing from salvation, be with all who are in Christ Jesus, for love and holiness are inseparable. This greeting extends to all who take Christ as Lord and Savior, and it is the greatest of all secret orders and ties.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.1065000672422194,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+            "commentatorTierSimilarities": [
+                35.6,
+                33.71,
+                30.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Greet one another in a kiss of love, a gesture that represents the union and communion of those in Christ. This kiss of charity is a sign of affectionate salutation that was common in the apostles' time. It is not just a superficial act, but one that should come from a sincere and loving heart. This practice is a demonstration of true love and affection. May peace, flowing from salvation, be with all who are in Christ Jesus, for love and holiness go hand in hand. This greeting extends to all who take Christ as Lord and Savior, and it is the greatest of all secret orders and ties.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.088252094797792,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.78,
+            "commentatorTierSimilarities": [
+                32.48,
+                34.13,
+                33.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Greet one another in a kiss of love, a sign of affectionate salutation that represents the union and communion of those in Christ. This practice, although once abused, is a demonstration of true love and affection. May peace, flowing from salvation, be with all who are in Christ Jesus, for love and holiness are inseparable. This greeting extends to all who take Christ as Lord and Savior, and it is the greatest of all secret orders and ties.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.1065000672422194,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+            "commentatorTierSimilarities": [
+                35.6,
+                33.71,
+                30.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

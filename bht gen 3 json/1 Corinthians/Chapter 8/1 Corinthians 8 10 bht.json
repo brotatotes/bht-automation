@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:09:34",
+    "verseRef": "1 Corinthians 8:10",
+    "bestBHT": {
+        "bht": "The knowledgeable should be mindful of their influence on weaker believers who look up to them. By participating in idol feasts, they inadvertently embolden the weak to act against their consciences. This ironic building up undo ruin is detrimental, as it leads the weak down a path they believe to be wrong. Instead of showing love and consideration, these actions display defiance towards the unenlightened, causing distress to their souls. It is important to remember that one's actions can have a significant impact on others, especially those who are not as knowledgeable or certain in their beliefs.",
+        "wordCount": 98,
+        "quoteTokenProportion": 43.24,
+        "qualityScore": 1.8197856222441726,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+        "commentatorTierSimilarities": [
+            31.59,
+            32.25,
+            36.16
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words thee which hast knowledge seem to imply that the weak brother is aware of this, and looks up to thee as such.\" ",
+            "The word rendered emboldened is literally edified, built up, not without a certain irony.\" ",
+            "A building up undo ruin, as Calvin calls it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The very knowledge which thou pridest thyself on ( :-), will lead the weak after thy example to do that against his conscience.",
+            "His conscience, seeing he is weak.",
+            "You ought to have built up your brother in good: but by your example your building him up is the emboldening him to violate his conscience."
+        ],
+        "Albert Barnes": [
+            "You will be presumed to be partaking of this feast in honor of the idol. You will thus encourage him, and he will partake of it with a conscientious regard to the idol.",
+            "Those entertainments were either in the temple of the idol, or at the house of him who gave it.",
+            "He will see you in the very temple, partaking of a feast in honor of the idol; and he will infer not only that it is right, but that it is a matter of conscience with you, and will follow your example."
+        ],
+        "Marvin Vincent": [
+            "Idol's temple. Only here in the New Testament.",
+            "Be emboldened. Lit., be built up. The A. V. misses the irony of the expression.",
+            "His apparent advance is really detrimental."
+        ],
+        "John Calvin": [
+            "For he reproves them, as I have said, because they emboldened the ignorant to hurry on, contrary to conscience, to attempt what they did not think it lawful for them to do.\" ",
+            "To be built up means here \u2014 to be confirmed. Now that is a ruinous kind of building, that is not founded on sound doctrine.\" ",
+            "Be it so, that thou hast knowledge; he who seeth thee, though he is not endowed with knowledge, is notwithstanding confirmed by thine example to venture upon the same thing, while he would never have taken such a step if he had not had one to take the lead."
+        ],
+        "Philip Schaff": [
+            "The word here used (in the Greek of the Old Testament) is used only for heathen temple, to mark its idolatrous character.",
+            "The word employed for the temple of the living God being studiously avoided on such a subject.",
+            "Will not his conscience, if (or \u2018while\u2019) he is weak, be emboldened... to eat things sacrificed unto idols?"
+        ],
+        "Archibald T. Robertson": [
+            "This bravado at a sacrificial banquet is in itself idolatrous as Paul will show.\" ",
+            "But our weak brother will be emboldened (\u03bf\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03b7\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1, future passive indicative, will be built up) to go on and do what he still believes to be wrong, to eat things sacrificed to idols.\" ",
+            "Defiance is flung in the face of the unenlightened brother instead of loving consideration."
+        ],
+        "John Gill": [
+            "If such an one should observe one that is famous for his superior abilities, learning, and knowledge, sit at meat in the idol's temple...",
+            "Shall not the conscience of him that is weak; in knowledge, who is not clearly instructed in the doctrine of Christian liberty, but has some doubts upon his mind whether it is lawful to eat such meats...",
+            "...wound his weak conscience, destroy his peace, and distress his soul."
+        ],
+        "John Wesley": [
+            "For if any one see thee who hast knowledge...sitting down to an entertainment in an idol temple.\" ",
+            "Will not the conscience of him that is weak...be encouraged by thy example.",
+            "To eat...with a doubting conscience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who have knowledge ought to be mindful of their weaker brothers and sisters who look up to them. By participating in feasts in idol's temples, they are actually emboldening them to act against their own consciences. This is a form of building up undo ruin. The irony is that what may seem like progress or enlightenment is actually harmful, leading the weak down a path they believe to be wrong. Instead of loving consideration, these actions display defiance towards the unenlightened and cause distress to their souls. It is important to remember that one's actions can have a significant impact on others, especially those who are not as knowledgeable or certain in their beliefs.",
+            "wordCount": 117,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 1.7547713275400691,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+            "commentatorTierSimilarities": [
+                31.34,
+                33.92,
+                34.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The knowledgeable should be cautious of their influence on weaker believers who admire them. When the enlightened participate in idol feasts, they inadvertently encourage the weak to act against their consciences. This paradoxical building up undo ruin is detrimental rather than edifying. It's ironic that what seems like progress actually leads the weak astray. Instead of showing love and consideration, these actions defy and distress the unenlightened, affecting their souls. We must bear in mind that our conduct can significantly impact others, particularly those with limited knowledge or uncertainties in their faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7197470042233083,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "commentatorTierSimilarities": [
+                35.07,
+                28.54,
+                36.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who possess knowledge must be mindful of their influence on weaker believers who look up to them. Participating in feasts in idol's temples, though it may seem like progress, actually emboldens the weak to act against their consciences. This kind of building up undo ruin is ironic and detrimental. Rather than showing love and consideration, these actions defy and distress the unenlightened, causing harm to their souls. It is crucial to remember the impact our actions can have on others, especially those who are not as knowledgeable or certain in their beliefs.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.7453003492076378,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                30.45,
+                33.16,
+                36.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The knowledgeable should be mindful of their influence on weaker believers who look up to them. By participating in idol feasts, they inadvertently embolden the weak to act against their consciences. This ironic building up undo ruin is detrimental, as it leads the weak down a path they believe to be wrong. Instead of showing love and consideration, these actions display defiance towards the unenlightened, causing distress to their souls. It is important to remember that one's actions can have a significant impact on others, especially those who are not as knowledgeable or certain in their beliefs.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.8197856222441726,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                31.59,
+                32.25,
+                36.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who possess knowledge should be cautious of their influence on weaker believers. By participating in idol feasts, they unwittingly encourage the weak to act against their consciences. This ironic act of building up undo ruin is actually detrimental, leading the weak astray. Instead of showing love and consideration, these actions display defiance towards the unenlightened, causing distress to their souls. We must remember that our choices can significantly impact others, especially those who are not as knowledgeable or certain in their own beliefs.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.7555852019201659,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                32.04,
+                30.47,
+                37.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:30:06",
+    "verseRef": "Acts 12:6",
+    "bestBHT": {
+        "bht": "That very night, Peter was bound by two chains and guarded by four soldiers, emphasizing the severity of his imprisonment. However, what the guards and the bloodthirsty priests failed to realize was that Peter found solace and peace in his sleep, untroubled by the impending danger. Little did they know that divine intervention was on its way during the fourth watch of the night. This miraculous deliverance serves as a testament to the unwavering faith and trust in God that Peter possessed, allowing him to rest fearlessly even in the darkest hour.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.0003412960006868,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+        "commentatorTierSimilarities": [
+            24.85,
+            36.19,
+            38.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the same night] emphatic: that very night, viz. which preceded the day of trial.",
+            "The practice of attaching a prisoner to one keeper or more by a chain is alluded to by several ancient authors.",
+            "In the account of the imprisonment of Herod Agrippa himself by Tiberius, Jos. Antt. xviii. 6. 7, we read of the soldier who was chained with him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thus long were the disciples kept waiting; their prayers apparently unavailing, and their faith, as would seem from the sequel, waxing feeble.\" ",
+            "Ye think your prey secure, bloodthirsty priests and thou obsequious tyrant who, to 'please the Jews,' hast shut in this most eminent of the servants of Christ within double gates, guarded by double sentinels, while double keepers and double chains seem to defy all rescue!",
+            "Meanwhile, 'Peter is sleeping!' In a few hours he expects a stingless death; 'neither counts he his life dear unto him, so that he may finish his course with joy and the ministry which he has received of the Lord Jesus.' In this frame of spirit he has dropped asleep, and lies the picture of peace."
+        ],
+        "Albert Barnes": [
+            "Here is an instance of remarkable composure, and an illustration of the effects of peace of conscience and of confidence in God.",
+            "There is nothing that will give quiet rest and gentle sleep so certainly as a conscience void of offence; and in the midst of imminent dangers, he who confides in God may rest securely and calmly.",
+            "But God can deliver in spite of all the precautions of people; and it is easy for him to overcome the most cunning devices of his enemies."
+        ],
+        "Marvin Vincent": [
+            "Would have brought. Rev., correctly, was about to bring. ",
+            "Kept [\u03b5\u03c4\u03b7\u03c1\u03bf\u03c5\u03bd] . See on reserved, 1 Peter 1:4. The imperfect, were keeping."
+        ],
+        "John Calvin": [
+            "When the Lord doth purpose to deliver his, he taketh his time oftentimes in the last and farthest point of necessity.\" ",
+            "They did not so much pray for Peter\u2019s life, as that the Lord would arm him with invincible fortitude, for the glory of the gospel.",
+            "Hereby it appeareth that it was a mere divine kind of deliverance, and it was profitable for Peter to be thus taught by these signs, that he might with more assurance forthwith declare unto men the grace of God thus known."
+        ],
+        "Philip Schaff": [
+            "Peter was not missed by the guards till sunrise about six o\u2019clock.",
+            "It was, then, in the fourth watch, some time between three and six o\u2019clock, that the angel entered the prison chamber.",
+            "Peter was chained to two soldiers, while the other two kept a useless watch at the prison-room door."
+        ],
+        "Archibald T. Robertson": [
+            "The same night, on that (very) night.\" ",
+            "Was sleeping, Periphrastic middle imperfect.\" ",
+            "Two guards outside before the door and two inside, according to Roman rule."
+        ],
+        "John Gill": [
+            "Fearless of death, being in a good cause, and having nothing to ruffle and disturb his mind; and though he was in a prison ... God gave him, his beloved, sleep.",
+            "Bound with two chains; one on one hand, and one on the other, each of which were fastened to the soldiers; such security was made, that he might not get away from them.",
+            "The keepers before the door kept the prison; or watched it, that nobody went in, or came out."
+        ],
+        "John Wesley": [
+            "Peter was sleeping \u2014 Easy and void of fear; between two soldiers - Sufficiently secured to human appearance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "That very night, Peter found himself in an incredible situation. Bound by two chains, connected to two guards, and with two more guarding the prison door, it seemed impossible for him to escape. Yet, in the midst of these precautions, Peter was sleeping soundly. His peace and confidence in God allowed him to rest securely, even in the face of imminent danger. Little did the guards know that an angel was about to enter the prison chamber during the fourth watch, between three and six o\u2019clock. God's divine deliverance was at hand, teaching Peter that his steadfast trust in God would lead him to declare the grace of God with even more assurance. Truly, when the Lord chooses to save his people, he does so at the last and farthest point of necessity.",
+            "wordCount": 135,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.7984227808888695,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                23.03,
+                38.08,
+                38.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "That very night, Peter was bound with two chains and guarded by four soldiers, making escape seemingly impossible. Despite this, Peter found peace and rested soundly, fearless of death. Little did he know, an angel was about to intervene during the fourth watch. God's divine deliverance was at hand, demonstrating that when the Lord chooses to save his people, it is often in the direst of circumstances. Peter's unwavering trust in God allowed him to find rest even in the midst of great danger.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.8434854950428878,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.64,
+            "commentatorTierSimilarities": [
+                21.63,
+                37.49,
+                40.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "That very night, Peter was bound by two chains and guarded by four soldiers, emphasizing the severity of his imprisonment. However, what the guards and the bloodthirsty priests failed to realize was that Peter found solace and peace in his sleep, untroubled by the impending danger. Little did they know that divine intervention was on its way during the fourth watch of the night. This miraculous deliverance serves as a testament to the unwavering faith and trust in God that Peter possessed, allowing him to rest fearlessly even in the darkest hour.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0003412960006868,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                24.85,
+                36.19,
+                38.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "That very night, Peter found himself in an impossible situation, bound by chains and guarded by four soldiers. Yet, amidst these precautions, Peter slept peacefully, undisturbed by the imminent threat. It was during this time that divine intervention would take place, as an angel appeared to deliver Peter from his imprisonment. This remarkable event not only demonstrated the power of God's deliverance but also showcased Peter's unwavering faith and the peace that comes from trusting in the Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.843791802528044,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.65,
+            "commentatorTierSimilarities": [
+                22.72,
+                37.01,
+                40.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "That very night, Peter was bound by two chains and guarded by four soldiers, making his situation seem impossible. However, Peter's unwavering faith and trust in God allowed him to rest fearlessly, undisturbed by the impending danger. Little did the guards know that divine intervention was about to take place during the fourth watch. This miraculous deliverance not only showcased the power of God's intervention but also served as a testimony to the peace and assurance that comes from placing one's trust in the Lord.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.8523229997382225,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                22.06,
+                38.24,
+                39.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

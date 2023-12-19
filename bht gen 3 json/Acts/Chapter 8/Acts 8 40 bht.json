@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:28:31",
+    "verseRef": "Acts 8:40",
+    "bestBHT": {
+        "bht": "After baptizing the Ethiopian eunuch, Philip found himself in Azotus, one of the Philistine cities. From there, he continued his journey, preaching the gospel as he made his way to C\u00e6sarea, where he established his home and missionary headquarters. Philip's diligent spreading of the name of godliness was evident as he sowed the seeds of the gospel in all the cities he encountered along the way. His stay in C\u00e6sarea allowed him to engage with the Jewish Rabbins and their schools of learning, furthering his impact as a missionary.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.7479802853163289,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+        "commentatorTierSimilarities": [
+            30.96,
+            29.29,
+            39.75
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            " AZOTUS or ASHDOD (Josh. xiii. 3; 1 Sam. v. 5 al.) was one of the five principal cities of the Philistines, never, though nominally in Judah, thoroughly subjugated by the Jews.",
+            "At present it is a small village, retaining the name Esdud, but there are no remains.",
+            "all the cities] viz. Ekron, Jamnia, Joppa, Apollonia, on the direct road: or, if he deviated somewhat for the purpose, Lydda also (which seems implied ch. ix. 32)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Philip was found\u2014that is, 'found himself,' 'made his appearance': an expression confirming the miraculous manner of his transportation.",
+            "till he came to C\u00e6sarea\u2014fifty-five miles northwest of Jerusalem, on the Mediterranean, just south of Mount Carmel; and so named by Herod, who rebuilt it, in honor of C\u00e6sar Augustus.",
+            "As the chariot of the Gospel rolls on, other agents are raised up, each suited to his work. But 'he that soweth and he that reapeth shall rejoice together.'"
+        ],
+        "Albert Barnes": [
+            "The word is often used in this sense...In all these places the word is used in the sense of to be, or to be present.",
+            "It was a place of great strength and consequence.",
+            "Perhaps... there has not been in the history of the world an example of any city that in so short a space of time rose to such an extraordinary height of splendor as did this of Caesarea."
+        ],
+        "John Calvin": [
+            "This is surely rare and wonderful stoutness, that he spreadeth the name of godliness in his journey.\" (Commentary)",
+            "He began to take his journey on foot after the manner of men, sowing the seed of the gospel wheresoever he became.\" (Commentary)",
+            "We may thereby conjecture that he staid at Cesarea for a time.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "But Philip was found at Azotus. Azotus, better known as Ashdod, one of the principal Philistine cities, near to the sea-coast.\" ",
+            "C\u00e6sarea became Philip\u2019s home. He probably made it for many years the centre of missionary enterprises.",
+            "Here, after some twenty years, we find him still, when Saul, now breathing threatenings and slaughter against the disciples of the Lord, was welcomed, together with St. Luke, the reputed writer of these \u2018Acts,\u2019 by this same Philip the deacon and his four prophet daughters, as the great and honoured Christian missionary."
+        ],
+        "Archibald T. Robertson": [
+            "He preached the gospel.\" ",
+            "Till he came to Caesarea.",
+            "Where he made his home and headquarters thereafter."
+        ],
+        "John Gill": [
+            "He preached in all the cities; that lay in his way; which shows his zeal and diligence.",
+            "This place was famous for Jewish Rabbins and their schools of learning.",
+            "Here Philip seems to have stopped, and stayed awhile."
+        ],
+        "John Wesley": [
+            "But Philip was found at Azotus \u2014 Probably none saw him, from his leaving the eunuch, till he was there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Philip, after baptizing the Ethiopian eunuch, found himself in Azotus, one of the Philistine cities. From there, he continued his journey, preaching the gospel as he made his way to C\u00e6sarea. Once in C\u00e6sarea, Philip established it as his home and headquarters, becoming a renowned Christian missionary. He sowed the seeds of the gospel wherever he went, showing his zeal and diligence. It is noteworthy that he stopped and stayed in C\u00e6sarea for some time, possibly engaging with the Jewish Rabbins and their schools of learning that were prominent in the area. The chariot of the Gospel continues to roll on, as God raises up different agents, each suited to their work, to spread the name of godliness.",
+            "wordCount": 118,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.643304846723971,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.98,
+            "commentatorTierSimilarities": [
+                31.45,
+                29.2,
+                39.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After baptizing the Ethiopian eunuch, Philip found himself in Azotus, one of the Philistine cities. From there, he continued his journey, preaching the gospel as he made his way to C\u00e6sarea. Once in C\u00e6sarea, Philip made it his home and headquarters, becoming a renowned Christian missionary. He zealously spread the name of godliness and sowed the seeds of the gospel in all the cities along his way. His stay in C\u00e6sarea afforded him the opportunity to engage with the Jewish Rabbins and their schools of learning, furthering his impact as a missionary.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.703518411555995,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                31.18,
+                28.98,
+                39.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After baptizing the Ethiopian eunuch, Philip found himself in Azotus, one of the Philistine cities. From there, he continued his journey, preaching the gospel as he made his way to C\u00e6sarea, where he established his home and missionary headquarters. Philip's diligent spreading of the name of godliness was evident as he sowed the seeds of the gospel in all the cities he encountered along the way. His stay in C\u00e6sarea allowed him to engage with the Jewish Rabbins and their schools of learning, furthering his impact as a missionary.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7479802853163289,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                30.96,
+                29.29,
+                39.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After baptizing the Ethiopian eunuch, Philip was found in Azotus, one of the Philistine cities. Continuing his journey, he preached the gospel in all the cities along the way, making his home and headquarters in C\u00e6sarea. Philip's zeal and diligence in spreading the name of godliness were evident as he sowed the seeds of the gospel. His stay in C\u00e6sarea allowed him to engage with the Jewish Rabbins and their schools of learning, adding to his esteemed reputation as a Christian missionary.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.6912338549312427,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.58,
+            "commentatorTierSimilarities": [
+                31.09,
+                29.1,
+                39.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After baptizing the Ethiopian eunuch, Philip found himself in Azotus, one of the Philistine cities. From there, he continued his journey, preaching the gospel as he made his way to C\u00e6sarea, establishing it as his home and headquarters. Philip's zeal and diligence in spreading the name of godliness were evident as he sowed the seeds of the gospel in the cities along his route. His stay in C\u00e6sarea also allowed him to engage with the Jewish Rabbins and their schools of learning, furthering his impact as a missionary.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7006255305324456,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                31.4,
+                27.81,
+                40.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

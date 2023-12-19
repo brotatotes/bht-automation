@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 16:33:08",
+    "verseRef": "Acts 18:6",
+    "bestBHT": {
+        "bht": "In the face of fierce opposition, Paul made a resolute gesture by shaking out his raiment, symbolizing his complete renunciation of those who resisted him, as God would soon reject them. He firmly declared that the guilt of their own destruction lay solely on their heads, while he himself claimed innocence and fulfillment of his duty. This decisive action aimed to prompt repentance among the Jews and stir up a sense of emulation among the Gentiles, underscoring the grave consequences of rejecting God's word.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.7362322486107962,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+        "commentatorTierSimilarities": [
+            11.79,
+            43.49,
+            44.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The term blood is used as in ch. xx. 26.",
+            "The image and nearly the words, are from Ezek. xxxiii. 4.",
+            "I shall henceforth with a clear conscience go to the Gentiles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. Your blood be upon your own",
+            "\theads, c.\u2014See Ezekiel 33:4",
+            "Ezekiel 33:9. ",
+            "\t",
+            "from henceforth I will go",
+            "\tunto the Gentiles\u2014Compare Ezekiel 33:9- :."
+        ],
+        "Albert Barnes": [
+            "He shook his raiment to show that he was resolved henceforward to have nothing to do with them; perhaps, also, to express the fact that God would soon slake them off, or reject them.\" ",
+            "Your blood ... - The guilt of your destruction is your own. You only are the cause of the destruction that is coming upon you.",
+            "I am clean - I am not to blame for your destruction. I have done my duty."
+        ],
+        "Marvin Vincent": [
+            "Opposed themselves [\u03b1\u03bd\u03c4\u03b9\u03c4\u03b1\u03c3\u03c3\u03bf\u03bc\u03b5\u03bd\u03c9\u03bd] . Implying an organized or concerted resistance. See on resisteth, 1 Peter 5:5."
+        ],
+        "John Calvin": [
+            "God is sorer displeased with contempt of his word than with any wickedness.",
+            "Men be quite past hope when they tread under foot, or drive from them, the only remedy of all evils and maladies.",
+            "The Jews must be deprived of their own inheritance, that it may be given to the Gentiles, and so be wounded, partly that being stricken with fear, yea, being cast down, they might come to soundness of mind; partly that the emulation or striving of the Gentiles might prick them forward unto repentance."
+        ],
+        "Philip Schaff": [
+            "The more than usually violent opposition of the Jews...was no doubt stirred up by the intense earnestness of Paul in his work...\" ",
+            "He shook his raiment...Paul desired to show his complete renunciation of those Jews 'displeasing to God, and enemies to all mankind.'",
+            "I am pure, he would say, free from guilt and responsibility, although you, in your blind perverseness, perish."
+        ],
+        "Archibald T. Robertson": [
+            "He shook out his raiment...a very exasperating gesture.\" ",
+            "Your blood be upon your own heads...a solemn disclaimer of responsibility.",
+            "I am clean...Paul had done his duty."
+        ],
+        "John Gill": [
+            "He shook his raiment; his outer garment, and the dust off from it, as a testimony against them.\" ",
+            "Your blood be upon your heads; meaning, that they were the authors of their own ruin and destruction.\" ",
+            "I am clean; meaning from their blood... and they were answerable for all their impenitence, unbelief, and blasphemy."
+        ],
+        "John Wesley": [
+            "He shook his raiment \u2014 To signify he would from that time refrain from them: and to intimate, that God would soon shake them off as unworthy to be numbered among his people.",
+            "I am pure \u2014 None can say this but he that has borne a full testimony against sin.",
+            "From henceforth I will go to the Gentiles \u2014 But not to them altogether. He did not break off all intercourse with the Jews even at Corinth. Only he preached no more in their synagogue."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite the intense opposition from the Jews, Paul remained firm and resolute in his mission. By shaking out his raiment, he expressed his complete renunciation of those who opposed him, signifying that God would soon reject them. He solemnly declared that the guilt of their own destruction was solely upon their heads and proclaimed his own innocence, having done his duty. In renouncing the Jews and turning towards the Gentiles, Paul sought to prompt them to repentance and to kindle a sense of emulation among the Gentiles. By taking this decisive action and distance himself from the opposition, Paul emphasized that contempt for God's word is a grievous offense.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.6437323146458915,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.0,
+            "commentatorTierSimilarities": [
+                13.92,
+                41.49,
+                44.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, facing vehement opposition from the Jews, shook out his raiment, symbolizing his complete disassociation with them, as God was soon to reject them. He firmly declared that the guilt of their destruction rested solely upon their heads, while asserting his own innocence and fulfillment of duty. This decisive act aimed to provoke repentance among the Jews and ignite a sense of emulation in the Gentiles. Ultimately, it served to underscore the immense gravity of despising God's word.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.6928415197467577,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                12.34,
+                42.54,
+                45.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, amidst intense opposition, shook out his raiment as a sign of complete renunciation, conveying that God would soon reject those who opposed him. He solemnly asserted that their own guilt would be upon their heads while emphasizing his own innocence and fulfillment of duty. By turning towards the Gentiles, Paul aimed to prompt repentance and ignite emulation among them. This resolute action served to highlight the severe consequences of disregarding God's word.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.649834688396466,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.2,
+            "commentatorTierSimilarities": [
+                13.48,
+                41.49,
+                45.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of vehement opposition, Paul shook out his raiment, a gesture that expressed his firm resolve to separate himself from those who opposed him. By doing so, he indicated that God would soon reject them. He solemnly proclaimed that the guilt of their own destruction would rest solely on their heads, while he himself claimed innocence and a fulfilled duty. Paul's decisive action encouraged repentance among the Jews and provoked emulation among the Gentiles, serving as a stark reminder of the gravity of rejecting God's word.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.6543823079562507,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.35,
+            "commentatorTierSimilarities": [
+                15.09,
+                41.15,
+                43.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of fierce opposition, Paul made a resolute gesture by shaking out his raiment, symbolizing his complete renunciation of those who resisted him, as God would soon reject them. He firmly declared that the guilt of their own destruction lay solely on their heads, while he himself claimed innocence and fulfillment of his duty. This decisive action aimed to prompt repentance among the Jews and stir up a sense of emulation among the Gentiles, underscoring the grave consequences of rejecting God's word.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.7362322486107962,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                11.79,
+                43.49,
+                44.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:56:52",
+    "verseRef": "Philippians 4:12",
+    "bestBHT": {
+        "bht": "Paul had learned the secret of contentment, knowing how to be brought low and how to abound. This wisdom was not easily acquired, as it required both humility in times of prosperity and endurance in times of adversity. God tests His people through transitions from one extreme to another, and Paul's experiences of poverty and wealth prepared him for any circumstance. With this knowledge, he found contentment in Christ, giving glory to God in all things.",
+        "wordCount": 77,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.7568796071875172,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+        "commentatorTierSimilarities": [
+            21.82,
+            41.77,
+            36.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I know (by this teaching) also (this expresses that, besides the general finding of competence in all circumstances, he specially has been taught to suffer humiliation and to bear abundance) how to be brought low.",
+            "I know also (also as before, or as an addition to that clause) how to abound (to be uplifted, as Wiesinger remarks, would be the proper general opposite: but he chooses the special one, which fits the matter of which he is treating): in every thing and in all things.",
+            "I have been taught the lesson (initiated: but no stress to be laid, as by Bengel, 'I have been taught by secret discipline, unknown to the world:') both to be satiated and to hunger, both to abound and to be in need."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "abased\u2014in low circumstances\" ",
+            "in each, and in all things\" ",
+            "instructed\u2014in the secret"
+        ],
+        "Albert Barnes": [
+            "It requires as much grace to keep the heart right in prosperity, as it does in adversity, and perhaps more. Adversity, of itself, does something to keep the mind in a right state; prosperity does nothing.",
+            "This was then, as it is now, no easy lesson to learn; and it is not improper to suppose that, when Paul says that he had 'been instructed' in this, even he means to say that it was only by degrees that he had acquired it.",
+            "God tries his people, not by a steady course of prosperity, or by long-continued and uniform adversity, but by transition from the one to the other; and it often happens that the grace which would have been sufficient for either continued prosperity or adversity, would fail in the transition from the one to the other."
+        ],
+        "Marvin Vincent": [
+            "I have learned the secret.\" ",
+            "The metaphor is from the initiatory rites of the pagan mysteries.",
+            "To be full."
+        ],
+        "John Calvin": [
+            "Prosperity is wont to puff up the mind beyond measure, and adversity, on the other hand, to depress.",
+            "If a man knows to make use of present abundance in a sober and temperate manner, with thanksgiving, prepared to part with everything whenever it may be the good pleasure of the Lord, giving also a share to his brother, according to the measure of his ability, and is also not puffed up, that man has learned to excel, and to abound.",
+            "This is a peculiarly excellent and rare virtue, and much superior to the endurance of poverty."
+        ],
+        "Philip Schaff": [
+            "I know how to be abased...In this sort of abasement he continually trained himself.",
+            "and I know also how to abound...in such wise as to glorify God thereby.",
+            "He had known both lots, and was prepared for either, just as it pleased God to send."
+        ],
+        "Archibald T. Robertson": [
+            "I know how... to be humbled, to overflow.\" ",
+            "Have I learned the secret... of the pagan mystery-religions.\" ",
+            "To be filled... to be hungry."
+        ],
+        "John Gill": [
+            "I know both how to be abased,.... Or 'humbled'; to be treated with indignity and contempt, to be trampled upon by man, to suffer hardships and distress...\" ",
+            "I know how to abound; or 'to excel'; to be in the esteem of men, and to have an affluence of the things of this world...",
+            "I am instructed; or 'initiated', as he was by the Gospel; and, ever since he embraced it, was taught this lesson of contentment..."
+        ],
+        "John Wesley": [
+            "I know how to be abased...and to abound.\" ",
+            "I am instructed...unknown to all but Christians.\" ",
+            "Both to be full and to be hungry...both to abound and to want."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I have been taught the secret of contentment in all circumstances, whether brought low or abounding in everything. This lesson is not easy to learn, as it requires grace to keep the heart right in both prosperity and adversity. God often tests His people by transitioning them from one to the other, and it is during these transitions that our faith can falter. But Paul, having experienced both extreme poverty and wealth, learned to be content no matter the situation. He knew how to be humbled and how to abound, always giving glory to God. He was initiated into this secret, unknown to the world, and it became a rare virtue for him. Paul knew the extremes of being abased and being filled, being hungry and being satisfied, and through it all, he found his contentment in Christ.",
+            "wordCount": 138,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.7661276488401856,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                23.43,
+                39.94,
+                36.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul had been initiated into the secret of finding contentment, whether in times of abundance or in times of scarcity. It was not an easy lesson to learn, as it required grace to keep the heart right amidst both prosperity and adversity. God often tests His people through transitions, moving them from one extreme to another. Paul understood what it meant to be brought low and how to abound, finding his contentment in Christ regardless of his circumstances. He knew the depth of being abased and the satisfaction of being filled, and through it all, he glorified God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.6781009809376721,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "commentatorTierSimilarities": [
+                19.2,
+                44.95,
+                35.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In every circumstance, whether humbled or abounding, Paul had been taught the secret of contentment. This lesson is not easily acquired, as it requires grace to keep the heart right in both adversity and prosperity. God tests His people through transitions, moving them from one extreme to another. Paul experienced both poverty and abundance and learned to be content in all situations. He knew the depths of being brought low and the heights of overflowing, always giving glory to God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.6828371906874593,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+            "commentatorTierSimilarities": [
+                21.76,
+                42.18,
+                36.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Having been instructed in the secret of contentment, Paul knew how to find satisfaction in every circumstance. He had experienced both being brought low and abounding in all things, learning to be content whether hungry or full. This lesson was not easily learned, as it required grace to keep the heart right in times of prosperity and adversity. The transitions from one extreme to another are often where our faith is tested, but Paul has shown us the way to be content, giving glory to God in all situations.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.7548128058732964,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+            "commentatorTierSimilarities": [
+                23.99,
+                41.5,
+                34.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul had learned the secret of contentment, knowing how to be brought low and how to abound. This wisdom was not easily acquired, as it required both humility in times of prosperity and endurance in times of adversity. God tests His people through transitions from one extreme to another, and Paul's experiences of poverty and wealth prepared him for any circumstance. With this knowledge, he found contentment in Christ, giving glory to God in all things.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.7568796071875172,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+            "commentatorTierSimilarities": [
+                21.82,
+                41.77,
+                36.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

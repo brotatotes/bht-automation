@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:28:26",
+    "verseRef": "Acts 8:33",
+    "bestBHT": {
+        "bht": "This account reveals the injustice and humiliation Jesus experienced during his crucifixion. His judgment was taken away as he endured oppressive and unrighteous treatment. Despite his innocence, he was dragged to punishment and denied justice. The wickedness of his contemporaries is highlighted, emphasizing the unjust manner in which he was treated. However, this injustice served a greater purpose, as his death became the means by which he ascended to heaven, bringing about salvation and eternal life. It is a powerful reminder of the immense sacrifice Jesus made for humanity.",
+        "wordCount": 89,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.889072242421019,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+        "commentatorTierSimilarities": [
+            30.22,
+            34.15,
+            35.63
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This stands in the Hebrew \u2018He was taken away by distress and judgment\u2019 (so in the margin of the A.V.): i.e. as Lowth, \u2018by an oppressive judgment.\u2019\" ",
+            "his generation] i.e. the age in which he shall live\u2014 \u2018the wickedness of his contemporaries.\u2019",
+            "The fathers, and Bede and some modern Commentators, explain \u2018His generation\u2019 of His eternal Sonship and His miraculous Incarnation. But the Hebrew does not seem to bear this out."
+        ],
+        "Albert Barnes": [
+            "The word 'from prison' may mean, as has been remarked, however, from 'oppression,' and this does not differ materially from 'humiliation'; and in this sense the Septuagint understood it.",
+            "His judgment - Justice, a just sentence, was denied him, and he was cruelly condemned.",
+            "Who shall stand up for him, declaring who he is? Who will appear for him? Who will vindicate him?'"
+        ],
+        "Marvin Vincent": [
+            "Humiliation. See on Matthew 11:29. ",
+            "Generation. His contemporaries. Who shall declare their wickedness ?"
+        ],
+        "John Calvin": [
+            "For Christ\u2019s judgment was exalted in his humility or casting down; because at such time as he might seem to be cast down and oppressed, the Father maintained his cause.\" ",
+            "Therefore the meaning of the words is, that Christ must first have suffered death, before the Father should exalt him unto the glory of his kingdom; which doctrine must be translated unto the whole body of the Church; because all the godly ought wonderfully to be lifted up with the hand of God, that they be not swallowed up of death.\" ",
+            "But this was done by the wonderful counsel of God, that hell should be a ladder, whereby Christ should ascend into heaven; that reproach should be unto him a passage into life; that the joyful brightness of salvation should appear out of the horror and darkness of the cross; that blessed immortality should flow from the deep pit of death."
+        ],
+        "Philip Schaff": [
+            "By an oppressive, unrighteous, judicial proceeding he was dragged to punishment.",
+            "Jesus appeared in a form so humble, a man so poor and insignificant, that Pilate, though convinced of His innocence, thought it not worth while to hazard anything to preserve His life.",
+            "Its beginning and end were alike incomprehensible best described in His sacred words addressed to His own in that last evening: \u2018I came forth from the Father, and am come into the world; again, I leave the world, and go unto the Father\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "Justice was withheld, done away with, in his death, as it certainly was in the death of Christ.",
+            "It is not clear what the meaning is here either in the Hebrew or the LXX.",
+            "The idea is that justice was withheld, done away with, in his death."
+        ],
+        "John Gill": [
+            "In his humiliation his judgment was taken away.",
+            "When he was taken and bound by the Jews, and detained by them a prisoner, and arraigned before the high priest, and at Pilate's bar, and false witnesses suborned, which was his time of humiliation and affliction; when he was reproached, blasphemed, buffeted, and spit, upon, justice was not done him, right did not take place, but was removed from him, and he was treated in a most unjust and unrighteous manner.",
+            "His life is taken from the earth, not in a common, but in a judicial way; in the most cruel, barbarous, and unjust manner, in a violent way; though not without his Father's will, and his own consent; and though his life was taken from the earth, he now lives in heaven, and that for evermore."
+        ],
+        "John Wesley": [
+            "In his humiliation his judgment was taken away \u2014 That is, when he was a man, he had no justice shown him.\" ",
+            "To take away a person's judgment, is a proverbial phrase for oppressing him.",
+            "And who shall declare, or count his generation \u2014 That is, who can number his seed, Isaiah 53:10; which he hath purchased by laying down his life?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the commentary highlights the injustice and humiliation that Jesus experienced during his crucifixion. It emphasizes that justice was withheld and taken away, as he was dragged to punishment in an oppressive and unrighteous manner. Despite being innocent, Jesus was not vindicated or given a fair judgment. His generation, meaning the wickedness of his contemporaries, further adds to the depth of his suffering. However, this injustice served a greater purpose, as his death became a means for him to ascend into heaven and bring about salvation and immortality. This verse reminds us of the immense sacrifice and injustice that Jesus endured for our sake.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.9412168160370578,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.89,
+            "commentatorTierSimilarities": [
+                32.3,
+                32.28,
+                35.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, it is revealed that Jesus experienced great injustice and humiliation during his crucifixion. His judgment was taken away, as he was unjustly treated and condemned despite his innocence. The wickedness of his contemporaries is highlighted, emphasizing the unfounded accusations and mistreatment he endured. However, this injustice served a greater purpose, as his death became a means for him to ascend into heaven, bringing salvation and immortality to all. It is a powerful reminder of the immense sacrifice Jesus made for humanity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8548670933604974,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+            "commentatorTierSimilarities": [
+                30.37,
+                33.11,
+                36.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, we see that Jesus faced unjust treatment and humiliation during his crucifixion. His judgment was taken away, and he was subjected to oppression and cruelty. Despite his innocence, he was condemned and denied justice. The wickedness of his contemporaries is emphasized, highlighting the unfairness of his trial. However, this injustice served a greater purpose, as his death allowed him to ascend into heaven, bringing salvation and immortality. It serves as a powerful reminder of Jesus's profound sacrifice for humanity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8532775747381793,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                29.94,
+                33.92,
+                36.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This account reveals the injustice and humiliation Jesus experienced during his crucifixion. His judgment was taken away as he endured oppressive and unrighteous treatment. Despite his innocence, he was dragged to punishment and denied justice. The wickedness of his contemporaries is highlighted, emphasizing the unjust manner in which he was treated. However, this injustice served a greater purpose, as his death became the means by which he ascended to heaven, bringing about salvation and eternal life. It is a powerful reminder of the immense sacrifice Jesus made for humanity.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.889072242421019,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                30.22,
+                34.15,
+                35.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, Jesus endured injustice and humiliation during his crucifixion. His judgment was taken away as he faced oppressive treatment and an unjust trial. The wickedness of his contemporaries is emphasized, underscoring the unfairness of his situation. However, this injustice served a greater purpose, as his death allowed him to ascend to heaven, bringing salvation and immortality for all. It is a poignant reminder of the immense sacrifice Jesus willingly made for the sake of humanity's redemption.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8449812140659632,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.69,
+            "commentatorTierSimilarities": [
+                29.95,
+                33.11,
+                36.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

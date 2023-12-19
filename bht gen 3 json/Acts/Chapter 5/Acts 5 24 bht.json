@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:26:38",
+    "verseRef": "Acts 5:24",
+    "bestBHT": {
+        "bht": "Summoned to meet the Sanhedrin, the designated High Priest was full of doubt and perplexity, uncertain about the potential outcome. Little did they know that this grain of mustard seed would grow into the greatest tree on earth, overshadowing the tree of Judaism. Their hesitation and anxious thoughts stemmed from their uncertainty of whether this phenomenon was driven by divine power or magic art. The suspense and unease surrounding this extraordinary event consumed their minds, leaving them pondering what the future held.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.5840176951945457,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.01,
+        "commentatorTierSimilarities": [
+            23.93,
+            29.81,
+            46.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the context points out the priest thus designated to be the High Priest.",
+            "He appears to have been summoned to meet the Sanhedrim, perhaps as the offence had taken place within his jurisdiction.",
+            "whereunto this would grow, i.e. to what this would come, is the correct translation of the original."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24-26. they doubted\u2014\"were",
+            "\tin perplexity."
+        ],
+        "Albert Barnes": [
+            "The captain of the temple - See the notes on Acts 4:1.",
+            "Doubted of them - They were in 'perplexity' about these things.",
+            "Their efforts to resist them had been in vain. They need 'not' have doubted; but sinners are not disposed to be convinced of the truth of religion."
+        ],
+        "Marvin Vincent": [
+            "They doubted [\u03b4\u03b9\u03b7\u03c0\u03bf\u03c1\u03bf\u03c5\u03bd] . See on Luke 9:5. Rev., were much perplexed, giving the force of dia, thoroughly at a loss. Compare Luke 24:4. Luke 24:1 Luke 24:4"
+        ],
+        "Philip Schaff": [
+            "For the word rendered high priest here, in the original Greek we find only \u03b9 \u0314 \u03b5\u03c1\u03bf\u03c5 \u0342, priest that is, the priest just mentioned in Acts 5:21, and who we have explained was Annas.",
+            "As before, the Jewish priest in command of the Levite guard of the Temple. This 'priestly' captain was most probably himself one of the 'chief priests,' and in consequence had a seat in the Sanhedrim.",
+            "The strange unexplained escape filled them with terror; but this new incident would only serve to excite the popular mind, already so much moved in favour of the new sect."
+        ],
+        "Archibald T. Robertson": [
+            "They were much perplexed. They continued puzzled.",
+            "Whereunto this would grow. As to what this would become.",
+            "If they had only known how this grain of mustard seed would grow into the greatest tree on earth and how dwarfed the tree of Judaism would be beside it!"
+        ],
+        "John Gill": [
+            "they doubted of them, whereunto this would grow; they did not doubt of the truth of the things their officers told them, but they were amazed at them, and hesitated in their minds about them, and were anxiously thoughtful;",
+            "what this would, or should be, or how this should be done; that the prison doors should be shut, and yet the prisoners gone;",
+            "they were in suspense and anxiety of mind, what to impute it to; whether to a divine and supernatural power, or to magic art; and were uneasy in their minds what would be the issue of so strange and surprising an event."
+        ],
+        "John Wesley": [
+            "They doubted what this should be \u2014 They were even at their wits' end. The world, in persecuting the children of God, entangle themselves in numberless difficulties."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The priest designated as the High Priest had been summoned to meet the Sanhedrin due to the offense occurring within his jurisdiction. They were in perplexity, thoroughly at a loss about what this would become. If they had only known how this grain of mustard seed would grow into the greatest tree on earth and how dwarfed the tree of Judaism would be beside it! They doubted, hesitated in their minds, and were anxiously thoughtful about the truth of the things their officers had told them. In their suspense and anxiety, they were unsure whether to attribute this to a divine and supernatural power or to magic art, and were uneasy about the outcome of such a strange and surprising event.",
+            "wordCount": 121,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.647278179078692,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+            "commentatorTierSimilarities": [
+                26.36,
+                27.96,
+                45.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The designated High Priest, summoned to meet the Sanhedrin, found themselves in perplexity, thoroughly at a loss about what this would become. If only they had known how this mustard seed would grow into the greatest tree on earth, overshadowing the tree of Judaism beside it! They doubted and were anxiously thoughtful, hesitating in their minds about the truth of what their officers had told them. Would this be attributed to divine power or magic art? Their uncertainty fueled their uneasiness about the ultimate outcome.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.5405038296282154,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+            "commentatorTierSimilarities": [
+                26.86,
+                28.06,
+                45.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Summoned to meet the Sanhedrin, the designated High Priest found themselves in perplexity, thoroughly at a loss about the potential outcome. Little did they know that this seemingly insignificant seed would grow into the greatest tree on earth, while overshadowing the tree of Judaism beside it. Overwhelmed with doubt, they hesitated and were anxiously thoughtful, unsure of whether to attribute this phenomenon to divine power or magic art. Their uncertainty and uneasiness about the future only heightened their already tense situation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.5639941196304075,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.35,
+            "commentatorTierSimilarities": [
+                25.32,
+                31.19,
+                43.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Summoned to meet the Sanhedrin, the designated High Priest was at a loss about the potential outcome of this situation. Unbeknownst to them, this grain of mustard seed would grow into the greatest tree on earth while overshadowing the tree of Judaism. Their doubt and perplexity led to hesitation and anxious thoughts, as they were unsure whether to credit this phenomenon to divine power or magic art. The uncertainty surrounding this event only served to heighten their uneasiness and anticipation of what would come next.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.5552820592954704,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.06,
+            "commentatorTierSimilarities": [
+                26.71,
+                30.88,
+                42.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Summoned to meet the Sanhedrin, the designated High Priest was full of doubt and perplexity, uncertain about the potential outcome. Little did they know that this grain of mustard seed would grow into the greatest tree on earth, overshadowing the tree of Judaism. Their hesitation and anxious thoughts stemmed from their uncertainty of whether this phenomenon was driven by divine power or magic art. The suspense and unease surrounding this extraordinary event consumed their minds, leaving them pondering what the future held.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.5840176951945457,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.01,
+            "commentatorTierSimilarities": [
+                23.93,
+                29.81,
+                46.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

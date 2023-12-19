@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:15:43",
+    "verseRef": "Jude 23",
+    "bestBHT": {
+        "bht": "In our efforts to show compassion towards those who have gone astray, it is crucial to fear the potential dangers that come with their errors, lest we too become tainted. We are called to hate not only the sins themselves but even the slightest associations with them. This includes avoiding anything that has been contaminated by the wickedness of sinners. By snatching them out of the fire, we must proceed with caution, as we have the responsibility to rescue them without allowing ourselves to be defiled in the process.",
+        "wordCount": 89,
+        "quoteTokenProportion": 53.73,
+        "qualityScore": 1.8594973741289473,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+        "commentatorTierSimilarities": [
+            27.86,
+            37.7,
+            34.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But in showing such compassion, they were to maintain a wholesome fear of their deadly error, for fear they themselves should become defiled by it.\" ",
+            "Hating not merely fleshly pollution itself, but even the traces and outskirts of it; even that, be it what it may, which has its mark and stain upon it.\" ",
+            "Hating (not, 'seeing that ye hate,' nor 'though ye hate:' the present participle simply falls under and expands the former clause, thus forming part of the command) even the (or, 'their') garment which has received defilement from the flesh."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The three classes are: (1) those who contend with you (accusative case in oldest manuscripts), whom you should convict; (2) those who are as brands already in the fire, of which hell-fire is the consummation: these you should try to save by snatching them out; (3) those who are objects of compassion, whom accordingly you should compassionate (and help if occasion should offer), but at the same time not let pity degenerate into connivance at their error. Your compassion is to be accompanied 'with fear' of being at all defiled by them.",
+            "Even hatred has its legitimate field of exercise. Sin is the only thing which God hates: so ought we.",
+            "The very garment of sinners metaphorically, that is, anything brought into contact with their pollution, is to be avoided. Christians who received at baptism the white garment in token of purity, are not to defile it by any approach to what is defiled."
+        ],
+        "Albert Barnes": [
+            "Save with fear - That is, by appeals adapted to produce fear. The idea seems to be that the arguments on which they relied were to be drawn from the dangers of the persons referred to, or from the dread of future wrath.",
+            "Every method is to be employed, in its proper place, that we 'by all means may save some.'",
+            "While we endeavor to save the 'sinner,' we cannot too deeply loathe his 'sins;' and in approaching some classes of sinners there is need of as much care to avoid being defiled by them, as there would be to escape the plague if we had any transaction with one who had it."
+        ],
+        "Marvin Vincent": [
+            "Snatching them out of the fire. The writer has in mind Zechariah 3:2, a brand plucked from the burning. Compare Amos 4:11.",
+            "With fear [\u03b5\u03bd \u03c6\u03bf\u03b2\u03c9] . Lit., in fear; i e., of the contagion of sin while we are rescuing them.",
+            "Spotted [\u03b5\u03c3\u03c0\u03b9\u03bb\u03c9\u03bc\u03b5\u03bd\u03bf\u03bd] . Only here and James 3:6. See on 2 Peter 2:13."
+        ],
+        "John Calvin": [
+            "He would have the faithful not only to beware of contact with vices, but that no contagion might reach them, he reminds them that everything that borders on vices and is near to them ought to be avoided.",
+            "The passage will also become clearer...that we should hate not only the flesh, but also the garment, which, by a contact with it, is infected.",
+            "He...bids all preparations and all accessories, as they say, to be cut off."
+        ],
+        "Archibald T. Robertson": [
+            "Snatching them out of the fire.",
+            "Do Christians?",
+            "Spotted."
+        ],
+        "John Gill": [
+            "And others save with fear... by declaring the terrors of the Lord, and of hell, and of everlasting damnation.",
+            "pulling [them] out of the fire... out of the fire of hell, of which they are in great danger.",
+            "hating even the garment spotted by the flesh... all ways and means should be used to save them; and this is one way, by showing a dislike unto, and a resentment at their wicked way of living."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In showing compassion towards those who have gone astray, it is important to maintain a healthy fear of the dangers associated with their errors, lest we ourselves become defiled. We must hate not only the sins themselves, but even the slightest traces and connections to them. This includes avoiding any contact with the garments of sinners, metaphorically meaning anything that has been tainted by their corruption. Snatching sinners out of the fire, as we are called to do, requires us to act with fear of being contaminated by their sins. We are to save them by appealing to their fears and highlighting the consequences of their actions. In this way, we can rescue them from the imminent danger they face.",
+            "wordCount": 120,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.8131162235088847,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+            "commentatorTierSimilarities": [
+                27.56,
+                37.12,
+                35.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In our efforts to show compassion towards those who have gone astray, it is crucial to fear the potential dangers that come with their errors, lest we too become tainted. We are called to hate not only the sins themselves but even the slightest associations with them. This includes avoiding anything that has been contaminated by the wickedness of sinners. By snatching them out of the fire, we must proceed with caution, as we have the responsibility to rescue them without allowing ourselves to be defiled in the process.",
+            "wordCount": 89,
+            "quoteTokenProportion": 53.73,
+            "qualityScore": 1.8594973741289473,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+            "commentatorTierSimilarities": [
+                27.86,
+                37.7,
+                34.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In our compassion towards those who wander from the truth, we must heed the warning to fear the contamination their errors carry, lest we ourselves become defiled. We are commanded not only to hate sin, but even the garments touched by its stain. As we strive to rescue those on the brink of destruction, we must do so with a sense of urgency and caution, avoiding any connection that could taint our own purity. In doing so, we fulfill our duty to save while guarding against defilement.",
+            "wordCount": 87,
+            "quoteTokenProportion": 51.47,
+            "qualityScore": 1.7981291657984206,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+            "commentatorTierSimilarities": [
+                27.76,
+                38.11,
+                34.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In our compassion towards the lost, it is vital to acknowledge the risk of being influenced by their sins. We are called to hate not only the sins themselves, but also any proximity to them. This includes avoiding anything that has been tainted by sinners. While we strive to rescue them from destruction, we must do so with caution, being mindful of the potential contamination. With fear and discernment, we can fulfill our duty of rescue without compromising our own purity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 56.45,
+            "qualityScore": 1.6653840850218407,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                28.0,
+                38.58,
+                33.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In our compassion towards those in error, we must be cautious of the potential defilement we may encounter. We are commanded not just to hate the sin itself, but even the slightest traces of it, avoiding any contamination. As we strive to rescue them from the dangers they face, we must act with fear and discernment, ensuring that our compassion does not lead us to condone or become defiled by their errors. Our duty is to save, while carefully guarding our own purity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.7600546619551696,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                28.07,
+                40.78,
+                31.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

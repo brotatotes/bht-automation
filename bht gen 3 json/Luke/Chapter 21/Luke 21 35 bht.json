@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:22:34",
+    "verseRef": "Luke 21:35",
+    "bestBHT": {
+        "bht": "The impending judgment will come suddenly, like a snare that entraps unsuspecting prey. It will affect all who dwell on the face of the whole earth, including the land of Judea. The destruction of the Jewish nation will be swift, unavoidable, and universal. The judgment will catch those who are sitting securely off guard, revealing their carelessness and sense of ease. Just as a bird is suddenly trapped in a snare and unable to escape, so will be the fate of those facing the impending judgment.",
+        "wordCount": 86,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.1274483653748477,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.83,
+        "commentatorTierSimilarities": [
+            26.04,
+            28.99,
+            44.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "35.] There is meaning in sit; on them who are sitting securely."
+        ],
+        "Marvin Vincent": [
+            "As a snare. Join with the previous sentence : \"come suddenly as a snare.\" Compare entangle, Matthew 22:15."
+        ],
+        "Philip Schaff": [
+            "Luke 21:35. For it shall come in upon all, etc.. It is to be a universal surprise, a universal judgment. The idea of sitting securely is implied in the word dwell.",
+            "\t"
+        ],
+        "John Gill": [
+            "In which a bird is suddenly taken, and cannot get out again.",
+            "The destruction of the Jewish nation should be sudden and unavoidable, and universal.",
+            "It should come on all them that dwell upon the face of the whole earth: or land of Judea; and so it was."
+        ],
+        "John Wesley": [
+            "That sit \u2014 Careless and at ease."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the coming judgment that will surprise and entangle those who are sitting securely. It will come suddenly, like a snare that entraps its prey. This judgment is not limited to a particular group or place but will be universal. The idea of sitting securely implies a sense of complacency and lack of concern for the impending destruction. It will come upon all who dwell upon the face of the whole earth, or in this case, the land of Judea. The destruction of the Jewish nation was indeed sudden, unavoidable, and universal.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.148144920354385,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.52,
+            "commentatorTierSimilarities": [
+                22.13,
+                34.25,
+                43.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The coming judgment will surprise and entangle those who are sitting securely, coming suddenly like a snare. This universal judgment will not spare anyone, affecting all who dwell upon the face of the whole earth, or specifically, the land of Judea. The destruction of the Jewish nation was indeed sudden, unavoidable, and universal, catching them off guard. Their complacency and sense of security made them vulnerable to the unexpected and devastating consequences of their actions.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.1003595456598614,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.93,
+            "commentatorTierSimilarities": [
+                23.12,
+                35.72,
+                41.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The judgment that is to come will catch those who are sitting securely off guard, just as a snare captures its prey unexpectedly. This imminent and widespread judgment will affect everyone, without exception, encompassing all who reside not only in the land of Judea but also on the face of the entire earth. The destruction of the Jewish nation was indeed sudden, inescapable, and universal, surprising those who were complacent and at ease in their lives.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.1079713945619307,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.18,
+            "commentatorTierSimilarities": [
+                17.28,
+                42.31,
+                40.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The impending judgment will come suddenly, like a snare that entraps unsuspecting prey. It will not discriminate, affecting all who dwell on the face of the whole earth, including the land of Judea. The destruction of the Jewish nation will be swift, unavoidable, and universal. The judgment will catch those who are sitting securely off guard, revealing their carelessness and sense of ease. Just as a bird is suddenly trapped in a snare and unable to escape, so will be the fate of those facing the impending judgment.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.1128996808631002,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.35,
+            "commentatorTierSimilarities": [
+                26.26,
+                28.38,
+                45.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The impending judgment will come suddenly, like a snare that entraps unsuspecting prey. It will affect all who dwell on the face of the whole earth, including the land of Judea. The destruction of the Jewish nation will be swift, unavoidable, and universal. The judgment will catch those who are sitting securely off guard, revealing their carelessness and sense of ease. Just as a bird is suddenly trapped in a snare and unable to escape, so will be the fate of those facing the impending judgment.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.1274483653748477,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.83,
+            "commentatorTierSimilarities": [
+                26.04,
+                28.99,
+                44.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

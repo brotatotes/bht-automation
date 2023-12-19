@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:12:20",
+    "verseRef": "1 Corinthians 11:30",
+    "bestBHT": {
+        "bht": "The Corinthians' improper celebration of the Lord's Supper led to sickness and frequent deaths among them. These physical weaknesses and deaths were God's way of chastening them for their salvation, bringing their minds to a right state. The severity of their afflictions serves as a warning that an improper discharge of duties can invite God's displeasure and the loss of His favor. It urges us to examine our own conduct, correct our faults, and avoid calamities through obedience and reverence.",
+        "wordCount": 83,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.8451443208604101,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.69,
+        "commentatorTierSimilarities": [
+            25.19,
+            39.42,
+            35.39
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Experimental proof of the assertion that he eateth and drinketh judgment to himself, from the present sicknesses and frequent deaths among the Corinthian believers.",
+            "We may distinguish weaklings, persons whose powers have failed spontaneously, from invalids, persons whose powers are enfeebled by sickness.",
+            "Both words refer to physical, not moral weaknesses."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "sickly, who has lost his strength by disease.\"\t",
+            "sleep\u2014are being lulled in death: not a violent death; but one the result of sickness.",
+            "sent as the Lord's chastening for the individual's salvation, the mind being brought to a right state on the sick bed."
+        ],
+        "Albert Barnes": [
+            "God had sent among them bodily distempers as an expression of the divine displeasure and judgment for their improper mode of celebrating the Lord\u2019s Supper.",
+            "God often visits his own people with trial; and though they are his children, yet this does not exempt them from affliction and discipline on account of their imperfections, errors, and sins.",
+            "The general principle is, that an improper discharge of any duty will expose us to his displeasure, and to the certain loss of all those favors which might have resulted from a proper discharge of the duty."
+        ],
+        "Marvin Vincent": [
+            "Quite enough have died.\" ",
+            "Sleep. Better, are sleeping. Here simply as a synonym for are dead.\" ",
+            "Without the peculiar restful sense which christian sentiment so commonly conveys into it."
+        ],
+        "John Calvin": [
+            "He says, then, that many lay sick \u2014 that many were kept long in a languishing condition, and that many had died, in consequence of that abuse of the Supper, because they had offended God.",
+            "If in Paul\u2019s times an ordinary abuse of the Supper could kindle the wrath of God against the Corinthians, so that he punished them thus severely, what ought we to think as to the state of matters at the present day?",
+            "And assuredly, we must not expect a termination to our calamities, until we have removed the occasion of them, by correcting our faults."
+        ],
+        "Philip Schaff": [
+            "Physical weakness, sickness, and death are undoubtedly meant here.",
+            "Possibly some marked calamitous visitations of that church may be in view.",
+            "The nature of which, however, it were in vain to conjecture."
+        ],
+        "Archibald T. Robertson": [
+            "Sufficient number are already asleep in death because of their desecration of the Lord's table.\" ",
+            "Paul evidently had knowledge of specific instances.\" ",
+            "A few would be too many."
+        ],
+        "John Gill": [
+            "Because of their unworthy participation of the Lord's supper, many in the Corinthian church were attended with bodily infirmities and diseases.\" ",
+            "Either by way of fatherly chastisement and correction in such who were truly the Lord's people, though they had behaved unworthily.",
+            "Though the Lord might resent so far their unworthy conduct and behaviour at his table, as to remove them out of this world by death, yet their souls may be saved in the day of the Lord Jesus."
+        ],
+        "John Wesley": [
+            "For this cause \u2014 Which they had not observed.",
+            "Many sleep \u2014 In death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Due to their improper celebration of the Lord's Supper, many in the Corinthian church were afflicted with physical weaknesses, sickness, and even death, as acts of divine displeasure and judgment. The sickly and the sleeping referred to those who had lost their strength and were lulled into death, not violently but as a result of sickness. Through their afflictions, God was chastening them for their salvation, in hopes of bringing their minds to a right state. It is clear that a sufficient number had already perished, and their desecration of the Lord's table was a contributing factor. This serves as a warning to us today that an improper discharge of any duty can expose us to God's displeasure and the loss of His favor.",
+            "wordCount": 127,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.8729599337823108,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+            "commentatorTierSimilarities": [
+                26.73,
+                38.0,
+                35.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Many in the Corinthian church experienced physical weaknesses, sickness, and even death due to their improper celebration of the Lord's Supper. They had offended God and brought His judgment upon themselves through their unworthy participation. These afflictions served as a chastisement for their salvation, aiming to bring their minds to a right state. It is a cautionary example for us today, reminding us that our improper discharge of duties can result in God's displeasure and the loss of His favor.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.7873803192437778,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.77,
+            "commentatorTierSimilarities": [
+                22.8,
+                40.88,
+                36.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthian believers faced sickness and frequent deaths because they ate and drank judgment to themselves through their improper celebration of the Lord's Supper. These physical weaknesses and deaths were acts of divine displeasure and chastening, intended to bring them to a right state. The severity of their afflictions serves as a warning that an improper discharge of duties exposes us to God's wrath and the loss of His favor. This calls us to examine our own conduct and correct our faults to avoid calamities and receive His grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.8210122396117927,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                23.58,
+                40.51,
+                35.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians' improper celebration of the Lord's Supper resulted in physical weaknesses, sickness, and death among the believers. God sent these afflictions as a form of judgment and chastisement, aiming to bring their minds to a right state. The severity of their suffering serves as a cautionary tale, reminding us that an improper discharge of duties can invoke God's displeasure and the loss of His favor. By examining their faults and correcting them, we can avoid calamities and experience His salvation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8142820390737162,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.67,
+            "commentatorTierSimilarities": [
+                24.66,
+                40.46,
+                34.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians' improper celebration of the Lord's Supper led to sickness and frequent deaths among them. These physical weaknesses and deaths were God's way of chastening them for their salvation, bringing their minds to a right state. The severity of their afflictions serves as a warning that an improper discharge of duties can invite God's displeasure and the loss of His favor. It urges us to examine our own conduct, correct our faults, and avoid calamities through obedience and reverence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8451443208604101,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.69,
+            "commentatorTierSimilarities": [
+                25.19,
+                39.42,
+                35.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

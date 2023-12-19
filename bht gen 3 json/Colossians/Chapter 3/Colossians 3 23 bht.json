@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 15:21:43",
+    "verseRef": "Colossians 3:23",
+    "bestBHT": {
+        "bht": "Whatever work you do, do it with all your heart and soul, not out of obligation, but willingly and with a positive attitude. Work diligently and enthusiastically, as if you were working for the Lord Himself, because this is the ultimate test of worthwhile service. Do not be a people-pleaser, seeking approval or rewards from others, but let your service be genuine and from the heart, always having the best interest of those you serve at heart.",
+        "wordCount": 78,
+        "quoteTokenProportion": 52.73,
+        "qualityScore": 1.674432412738163,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.02,
+        "commentatorTierSimilarities": [
+            32.33,
+            39.26,
+            28.41
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Whatsoever ye do, work at it\" (or \"labor at\" it).",
+            "Not from servile constraint, but with hearty good will."
+        ],
+        "Marvin Vincent": [
+            "Ye do - work; the latter being the stronger term as opposed to idleness.",
+            "Heartily... With a personal interest.",
+            "The apostle uses both heart and soul... with good disposition."
+        ],
+        "Philip Schaff": [
+            "Whatsoever, however small, ye do, in this relation, work from the heart.\" ",
+            "'From the heart,' or 'soul,' is equivalent to 'heartily,' but should be rendered in correspondence with Ephesians 6:6. 'With good heart, not from servile necessity, but of a free mind and choice' (Chrysostom).",
+            "Every thing should be done as for Christ, as service rendered for Him, in view of the relation to Him."
+        ],
+        "Archibald T. Robertson": [
+            "Whatsoever ye do... in Ephesians 6:7 Paul adds \u03bc\u03b5\u03c4' \u03b5\u03c5\u03bd\u03bf\u03b9\u03b1\u03c2 (with good will) in explanation of \u03b5\u03ba \u03c8\u03c5\u03c7\u03b7\u03c2.\" ",
+            "Heartily (\u03b5\u03ba \u03c8\u03c5\u03c7\u03b7\u03c2). From the soul and not with mere eye service. In Ephesians 6:7 Paul adds \u03bc\u03b5\u03c4' \u03b5\u03c5\u03bd\u03bf\u03b9\u03b1\u03c2 (with good will) in explanation of \u03b5\u03ba \u03c8\u03c5\u03c7\u03b7\u03c2.",
+            "As unto the Lord (\u03c9\u03c2 \u03c4\u03c9 \u039a\u03c5\u03c1\u03b9\u03c9). Even when unto men. This is the highest test of worthwhile service."
+        ],
+        "John Gill": [
+            "Do it heartily, not by mere force and necessity, grudgingly, and with murmurings, but from the heart, and with good will.",
+            "Having a true, real, and hearty affection for their masters, having their good and interest at heart, and a delight in their service.",
+            "As to the Lord, and not unto men."
+        ],
+        "John Wesley": [
+            "Heartily \u2014 Cheerfully, diligently.",
+            "Menpleasers are soon dejected and made angry: the single-hearted are never displeased or disappointed.",
+            "They have another aim, which the good or evil treatment of those they serve cannot disappoint."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whatever work you do, do it with all your heart and soul, not out of obligation, but willingly and with a positive attitude. Work diligently and enthusiastically, as if you were working for the Lord Himself, because this is the ultimate test of worthwhile service. Do not be a people-pleaser, seeking approval or rewards from others, but let your service be genuine and from the heart, always having the best interest of those you serve at heart.",
+            "wordCount": 78,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.674432412738163,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.02,
+            "commentatorTierSimilarities": [
+                32.33,
+                39.26,
+                28.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whatever task or work we find ourselves engaged in, we are reminded to approach it with diligence and genuine enthusiasm, not out of a sense of obligation or duty. Our labor should not be empty or half-hearted, but rather done from the depths of our soul and with a personal interest. This high standard of service is not limited to our fellow human beings, but extends to the Lord Himself. Even when serving others, our mindset should be as if we are serving Christ, with a sincere affection and a desire to promote their good and interests. In doing so, we are not easily discouraged or discontented, for our focus is not on pleasing men, but on fulfilling the work set before us with cheerfulness and dedication.",
+            "wordCount": 128,
+            "quoteTokenProportion": 44.71,
+            "qualityScore": 1.424700061917267,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.71,
+            "commentatorTierSimilarities": [
+                30.4,
+                36.54,
+                33.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In every task we undertake, we are called to work diligently and with genuine enthusiasm, not out of obligation but with a willing heart. Our purpose should be marked by a personal interest and a strong commitment. We are reminded to approach our work, whatever it may be, with a sincere affection and a desire to serve as if we are serving the Lord Himself. By doing so, we can find joy and contentment in our labor, unaffected by the opinions or treatment of others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.3003987544350653,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.58,
+            "commentatorTierSimilarities": [
+                27.48,
+                39.44,
+                33.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In all our endeavors, we are urged to labor diligently and enthusiastically, not just going through the motions but putting our heart and soul into our work. Our service should be done with a genuine willingness and good disposition, not driven by a sense of compulsion. This standard of wholeheartedness applies not only to our human interactions but also to our service rendered unto the Lord. By approaching all tasks with a deep affection and a commitment to excellence, we demonstrate the highest form of worthwhile service.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.3686913232858378,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.85,
+            "commentatorTierSimilarities": [
+                29.31,
+                40.45,
+                30.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Whatever tasks we find ourselves engaged in, we are encouraged to approach them with sincere dedication and enthusiasm. Our work should not be done out of mere obligation, but with a genuine desire and goodwill. Whether it is labor or service, we are reminded to put our heart and soul into it, not just going through the motions. This level of commitment applies even when serving others, as we should view our service as unto the Lord Himself, placing the highest value on our work.",
+            "wordCount": 85,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 1.4793185281007126,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.53,
+            "commentatorTierSimilarities": [
+                30.92,
+                41.34,
+                27.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

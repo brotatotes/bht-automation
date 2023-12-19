@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:28:15",
+    "verseRef": "Acts 8:35",
+    "bestBHT": {
+        "bht": "Philip, opening his mouth, boldly and with full mouth, began a long and weighty discourse on Christ, expounding on the connection between Jesus of Nazareth and the Messiah. Scholars who fail to find Jesus in the Old Testament miss the mark, as Jesus himself saw his fulfillment in its words. Philip's teaching centered on Christ's birth, obedience, sacrifice, and the promise of his return, emphasizing that Christ is the embodiment of the Gospel.",
+        "wordCount": 75,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 1.9842609643982134,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+        "commentatorTierSimilarities": [
+            27.75,
+            33.22,
+            39.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Philip opened his mouth\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "Opened his mouth - See Matthew 5:2.\" ",
+            "At the same scripture - Taking this as a 'text' to be illustrated.\" ",
+            "Preached unto him Jesus - Showed him that Jesus of Nazareth exactly corresponded to the description of the prophet, and that therefore he referred to the Messiah, and that the Messiah was Jesus of Nazareth."
+        ],
+        "Marvin Vincent": [
+            "Opened his mouth. Indicating a solemn announcement. Compare Matthew 5:2."
+        ],
+        "John Calvin": [
+            "Philip, opening his mouth. To open the mouth is taken in Scripture for, to begin a long speech concerning some grave and weighty matter.",
+            "Luke\u2019s meaning is, that Philip began to intreat [discourse] of Christ, as it were, with full mouth.",
+            "Where we translate it, that he preached Christ, Luke saith that he preached the gospel. The sense is, that he taught that of Christ which he uttered in his gospel himself, and commanded to be taught; whereby we gather, that when Christ is known, we have the sum of the gospel."
+        ],
+        "Philip Schaff": [
+            "Then Philip opened his mouth.\" ",
+            "Philip showed the strange and marvellous correspondence between the many descriptions of the Messiah of the prophets and the now well-known life of Jesus of Nazareth.",
+            "Beginning his inspired teaching with an exposition of the passage of Isaiah which the Ethiopian was then reading."
+        ],
+        "Archibald T. Robertson": [
+            "Philip needed no better opening than this Messianic passage in Isaiah.",
+            "There are scholars who do not find Jesus in the Old Testament at all, but Jesus himself did (Luke 24:27) as Philip does here.",
+            "Scientific study of the Old Testament (historical research) misses its mark if it fails to find Christ the Center of all history."
+        ],
+        "John Gill": [
+            "Then Philip opened his mouth,.... With freedom and boldness, and spoke clearly and distinctly, and expounded the passage to him.",
+            "he showed him how that he was born of a virgin, made under the law, and yielded perfect obedience to it in his life; and that he suffered and died for the sins of his people, and made satisfaction for them, and brought in an everlasting righteousness to justify them before God.",
+            "he would come a second time to judge both quick and dead; and in the mean while had left rules for the gathering, and forming, and governing his churches; and had appointed persons to preach his Gospel, and to administer the ordinances of baptism, and the supper of the Lord, which were to continue till his second coming."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Philip, inspired by the Messianic passage in Isaiah, opened his mouth to deliver a solemn announcement. Just as Jesus himself found fulfillment in the Old Testament, Philip sees a clear connection between Jesus of Nazareth and the prophecies of the Messiah. It is crucial for scholars to recognize Christ as the central figure in history. As Philip began his exposition on the passage from Isaiah, he boldly proclaimed the Gospel, highlighting Christ's birth, obedience, sacrifice for sins, and the promise of his return. Through his teaching, Philip emphasized that Christ is the embodiment of the Gospel.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9678751184868797,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+            "commentatorTierSimilarities": [
+                31.27,
+                33.75,
+                34.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Philip, inspired by the Messianic announcement, boldly opened his mouth to expound on the connection between Jesus of Nazareth and the prophecies of the Messiah. Scholars must recognize Christ as the center of history. Philip's teaching focused on Christ's birth, obedience, sacrifice for sins, and the promise of his return. Through this, he emphasized that Christ embodies the Gospel.",
+            "wordCount": 61,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8151945588909804,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+            "commentatorTierSimilarities": [
+                29.74,
+                34.3,
+                35.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Philip, opening his mouth, boldly and with fullness, began a long and weighty discourse on Christ, expounding on the connection between Jesus of Nazareth and the prophecies of the Messiah. Scholars who fail to find Jesus in the Old Testament miss the mark, as Jesus himself saw his fulfillment in its words. Philip's teaching centered on Christ's birth, obedience, sacrifice, and the promise of his return, highlighting that Christ is the embodiment of the Gospel.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.9775811673468002,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.1,
+            "commentatorTierSimilarities": [
+                27.77,
+                34.06,
+                38.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Philip, inspired by the Messianic passage in Isaiah, opened his mouth to deliver a solemn announcement. Just as Jesus himself found fulfillment in the Old Testament, Philip sees a clear connection between Jesus of Nazareth and the prophecies of the Messiah. It is crucial for scholars to recognize Christ as the central figure in history. As Philip began his exposition on the passage from Isaiah, he boldly proclaimed the Gospel, highlighting Christ's birth, obedience, sacrifice for sins, and the promise of his return. Through his teaching, Philip emphasized that Christ is the embodiment of the Gospel.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9678751184868797,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+            "commentatorTierSimilarities": [
+                31.27,
+                33.75,
+                34.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Philip, opening his mouth, boldly and with full mouth, began a long and weighty discourse on Christ, expounding on the connection between Jesus of Nazareth and the Messiah. Scholars who fail to find Jesus in the Old Testament miss the mark, as Jesus himself saw his fulfillment in its words. Philip's teaching centered on Christ's birth, obedience, sacrifice, and the promise of his return, emphasizing that Christ is the embodiment of the Gospel.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.9842609643982134,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                27.75,
+                33.22,
+                39.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

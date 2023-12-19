@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:16:16",
+    "verseRef": "2 Corinthians 5:4",
+    "bestBHT": {
+        "bht": "Our desire is not to be unclothed, but to be clothed with our heavenly body. Faith does not divest us of all natural feeling, but subordinates it to higher feeling. We long for the new spiritual body to come down upon us while still alive, as a new garment is thrown over an old one, and to have our mortal part absorbed and transformed into life. We groan because of the natural shrinking from death that would deprive us of the body, but our personality consisting of soul and body will survive.",
+        "wordCount": 92,
+        "quoteTokenProportion": 51.56,
+        "qualityScore": 2.264618102378636,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.64,
+        "commentatorTierSimilarities": [
+            38.96,
+            33.25,
+            27.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "in that we desire not to have ourselves unclothed (of our present body), but clothed upon (with our heavenly body).",
+            "that what is mortal (our mortal part) may be swallowed up of (absorbed and transformed into) life.",
+            "Faith does not divest us of all natural feeling, but subordinates it to higher feeling."
+        ],
+        "Albert Barnes": [
+            "We desire to be clothed with that body. We desire to be in heaven, and to be clothed with immortality.",
+            "It was not, therefore, a mere desire to be released from sufferings; it was an earnest wish to be admitted to the glories of the future world, and partake of the happiness which we would enjoy there.",
+            "The body here is mortal; the body there will be immortal; and Paul desired to pass away from the mortal state to one that shall be immortal, a world where there shall be no more death."
+        ],
+        "Marvin Vincent": [
+            "Therefore he desires, instead of dying, to have the new being come down upon him while still alive, investing him with the new spiritual organism (clothed upon), as a new garment is thrown over an old one, and absorbing (swallowed up) the old, sensuous life.",
+            "The oppression of soul (groan) is not from pains and afflictions of the body, nor from the fear of death, but from the natural shrinking from death, especially if death is to deprive him of the body (unclothe) only to leave him without a new and higher organism.",
+            "Swallowed up. A new metaphor."
+        ],
+        "John Calvin": [
+            "The groaning of believers...arises from this \u2014 that they know, that they are here in a state of exile from their native land, and that they know, that they are here shut up in the body as in a prison.",
+            "For he admits, that we have naturally an aversion to the quitting of this life, considered in itself, as no one willingly allows himself to be striped of his garments. Afterwards, however, he adds, that the natural horror of death is overcome by confidence.",
+            "For as flesh and blood cannot inherit the kingdom of God, it is necessary, that what is corruptible in our nature should perish, in order that we may be thoroughly renewed, and restored to a state of perfection."
+        ],
+        "Philip Schaff": [
+            "It is not that we are weary of a body, as if it were a mere cage from which it were bliss simply to make our escape.",
+            "But we long that the mortality with which it is smitten, with all the ills which that carries with it, may pass away.",
+            "We may find ourselves wearing a form instinct with a life that cannot die."
+        ],
+        "Archibald T. Robertson": [
+            "Paul does not wish to be a mere disembodied spirit without his spiritual garment.",
+            "Only what is mortal perishes; the personality, consisting of soul and body, survives.",
+            "See on 2 Corinthians 1:22 for 'the earnest of the spirit.'"
+        ],
+        "John Gill": [
+            "The filth of [the body of sin and death] is nauseous, grievous, and intolerable; the guilt of it oftentimes lies very heavy on the conscience; the weight of it presses hard, and is a great hinderance to them in running their Christian race.",
+            "They are also frequently burdened with Satan's temptations, with blasphemous thoughts, solicitations to sin, the fears of death, the pangs of it, and what will follow upon it; though God is faithful, who will not suffer them to be tempted above that they are able to bear; however, these temptations are great burdens, and occasion many a groan.",
+            "Mortality, that quality to which [the body] is subject by sin, might be no more...the suddenness of the change, in an instant, in a moment, in the twinkling of an eye, and that without any pain, or such agonies as usually attend death; and also the utter, final, and total abolition of mortality."
+        ],
+        "John Wesley": [
+            "Faith does not understand that philosophical contempt of what the wise Creator has given.",
+            "But clothed upon \u2014 With the glorious, immortal, incorruptible, spiritual body.",
+            "That what is mortal \u2014 This present mortal body. May be swallowed up of life \u2014 Covered with that which lives forever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our desire as believers is not to be stripped of our present body, but to be clothed with our heavenly body. This is because faith does not eliminate our natural feelings, but rather elevates them to a higher realm. Instead of dying and being left without a new and higher organism, we long for the new spiritual body to come down upon us while we are still alive, absorbing and transforming our mortal part into life. We groan not because of the pains and afflictions of the body, nor the fear of death, but primarily because of the natural reluctance to be stripped of our current body without being immediately clothed with the new one. We desire to be swallowed up by life, to have our mortal body completely swallowed up by the immortal body, as our personality consisting of soul and body survives.",
+            "wordCount": 144,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 2.3185874745853967,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.43,
+            "commentatorTierSimilarities": [
+                35.25,
+                35.1,
+                29.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our desire is not to be unclothed, but to be clothed with our heavenly body. Faith does not eliminate our natural feelings, but subordinates them to higher feeling. We long for the new spiritual body to be thrown over our old one, absorbing and transforming our mortal part into life. We groan not because of the pains and afflictions of the body, nor the fear of death, but because of the natural reluctance to be stripped of our current body without being immediately clothed with the new one.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.153431155397838,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.94,
+            "commentatorTierSimilarities": [
+                37.27,
+                33.17,
+                29.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our desire is not to be unclothed, but to be clothed with our heavenly body. Faith does not eliminate our natural feelings, but subordinates them to higher feeling. We long for the new spiritual body to be thrown over our old one, absorbing and transforming our mortal part into life. We groan not because of the pains and afflictions of the body, nor the fear of death, but because of the natural reluctance to be stripped of our current body without being immediately clothed with the new one.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.153431155397838,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.94,
+            "commentatorTierSimilarities": [
+                37.27,
+                33.17,
+                29.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our desire is not to be unclothed, but to be clothed with our heavenly body. Faith does not divest us of all natural feeling, but subordinates it to higher feeling. We long for the new spiritual body to come down upon us while still alive, as a new garment is thrown over an old one, and to have our mortal part absorbed and transformed into life. We groan because of the natural shrinking from death that would deprive us of the body, but our personality consisting of soul and body will survive.",
+            "wordCount": 92,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 2.264618102378636,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.64,
+            "commentatorTierSimilarities": [
+                38.96,
+                33.25,
+                27.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our desire is not to be unclothed, but to be clothed with our heavenly body. Faith does not divest us of all natural feeling, but subordinates it to higher feeling. We long for the new spiritual body to come down upon us while still alive, investing us with a new and higher organism, as a new garment is thrown over an old one, and swallowing up the old, sensuous life. We groan not from the fear of death, but from the natural reluctance to be stripped of our body without a new and higher organism.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.169814928680818,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.49,
+            "commentatorTierSimilarities": [
+                38.57,
+                33.43,
+                28.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

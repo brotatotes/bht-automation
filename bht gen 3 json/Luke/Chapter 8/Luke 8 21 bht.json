@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:16:29",
+    "verseRef": "Luke 8:21",
+    "bestBHT": {
+        "bht": "Those who hear the word of God and do it are like family to Jesus, for he values spiritual ties over temporal family bonds. Our relationship with God is not dependent on human parentage, but on our faith and obedience to His word. To be a child of God, one must not only listen to His teachings, but also live according to His commandments and follow His will. Family ties may be important in this world, but it is the spiritual ties we form with God and His followers that are everlasting.",
+        "wordCount": 92,
+        "quoteTokenProportion": 51.67,
+        "qualityScore": 1.4492781422272925,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.53,
+        "commentatorTierSimilarities": [
+            56.68,
+            0.0,
+            43.32
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Mother to me and brothers to me are those who c.\" ",
+            "No one is a child of God because of human parentage.\" ",
+            "Family ties are at best temporal, spiritual ties are eternal."
+        ],
+        "John Gill": [
+            "My mother and my brethren are these; which hear the word of God.",
+            "And do it; behave in their lives and conversations agreeably to it.",
+            "And observe the precepts and ordinances in it; elsewhere called the will of God his Father."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who hear the word of God and do it are like family to Jesus, for he values spiritual ties over temporal family bonds. Our relationship with God is not dependent on human parentage, but on our faith and obedience to His word. To be a child of God, one must not only listen to His teachings, but also live according to His commandments and follow His will. Family ties may be important in this world, but it is the spiritual ties we form with God and His followers that are everlasting.",
+            "wordCount": 92,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 1.4492781422272925,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.53,
+            "commentatorTierSimilarities": [
+                56.68,
+                0.0,
+                43.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who hear the word of God and do it are like family to Jesus, for he values spiritual ties over temporal family bonds. Our relationship with God is not dependent on human parentage, but on our faith and obedience to His word. To be a child of God, one must not only listen to His teachings but also live according to His commandments and follow His will. Family ties may be important, but it is the spiritual ties we form with God and His followers that are everlasting.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.4449439054216549,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.39,
+            "commentatorTierSimilarities": [
+                56.7,
+                0.0,
+                43.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For Jesus, the true definition of family goes beyond blood relations. Those who hear the word of God and put it into practice become a part of His spiritual family. The connection we have with God is not determined by our human lineage, but by our faith and obedience to His teachings. While earthly family ties are temporary, it is the eternal spiritual ties formed through a relationship with God that hold true significance.",
+            "wordCount": 74,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.297125138814557,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.47,
+            "commentatorTierSimilarities": [
+                55.61,
+                0.0,
+                44.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mother and brothers are not solely defined by biological bond, rather those who hear and obey the word of God are considered family in a deeper sense. Human parentage does not determine one's status as a child of God, for spiritual ties are everlasting while family ties are fleeting. Therefore, our true kinship lies in our relationship with God and our commitment to living according to His teachings and commandments.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.5749302715431341,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
+            "commentatorTierSimilarities": [
+                62.51,
+                0.0,
+                37.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who hear and obey the word of God are not only considered family, but also fulfill the role of mother and brothers. Human parentage does not determine one's status as a child of God, for spiritual ties are eternal while family ties are temporal. Thus, our true kinship lies in our relationship with God and our adherence to His teachings and laws.",
+            "wordCount": 64,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.5949512950935418,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                58.62,
+                0.0,
+                41.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

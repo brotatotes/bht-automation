@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:34:53",
+    "verseRef": "Acts 21:23",
+    "bestBHT": {
+        "bht": "The elders devise a plan for Paul to address the vow of the four men, Christian Jews, who have taken a Nazarite vow. By associating himself with them, Paul shows his respect for Jewish customs. The elders' advice is given to avoid prejudice against Paul, but some ponder if his compliance is an excessive deference to others' opinions.",
+        "wordCount": 58,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.9982704343295015,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+        "commentatorTierSimilarities": [
+            23.66,
+            42.56,
+            33.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "23. a vow] A vow of Nazarites. This vow must not he confounded, historically or analogically, with that of ch. xviii. 18: see note there, and Num. vi. 2\u201321."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23. we have four men\u2014Christian",
+            "\tJews, no doubt. ",
+            "\t",
+            "which have a vow\u2014perhaps",
+            "\tkept ready on purpose."
+        ],
+        "Albert Barnes": [
+            "The fact shows that the Christians at Jerusalem did not disregard the institutions of Moses, and had not been so far enlightened in the doctrines of Christianity as to forsake yet the ceremonial rites of the Jews.",
+            "It is evident that the vow which they had taken was that of the Nazarite, and that as the time of their vow was about expiring, they were about to be shaven, in accordance with the custom usual on such occasions.",
+            "Paul could join [these men], and thus show decisively that he did not intend to undervalue or disparage the laws of Moses when those laws were understood as mere ceremonial observances."
+        ],
+        "Marvin Vincent": [
+            "A vow. The Nazarite vow. See Numbers 6:1-21."
+        ],
+        "John Calvin": [
+            "The elders seem...to be fallen unto a foolish pampering [indulgence] through too much love of their nation.",
+            "Though these four be reckoned among the faithful, yet their vow was superstitious.",
+            "Paul did that which he saith of himself elsewhere, because he made himself a companion of those which followed the law, as if he himself were in subjection to the law (1 Corinthians 9:20)."
+        ],
+        "Philip Schaff": [
+            "It is curious to observe how, in the Christian brotherhood of the Holy City, the old Jewish customs were still rigidly observed.",
+            "Thus the advice to Paul to associate himself with these men came from one a perpetual Nazarite himself.",
+            "Such a deed of benevolence was looked upon by the more earnest Jews as an act of special merit."
+        ],
+        "Archibald T. Robertson": [
+            "The elders had thought out a plan of procedure by which Paul could set the whole matter straight.",
+            "Either Paul or Aquila had such a vow on leaving Cenchreae.",
+            "It was considered a work of piety to relieve needy Jews from the expenses connected with this vow, as Paul does here."
+        ],
+        "John Gill": [
+            "This is said not as commanding, but as advising; and not to what was a duty, and necessary to be done as such, but as a point of prudence.",
+            "There were four men who were of the church at Jerusalem, believers in Christ, but weak ones, who were zealous of the law, and bigots to it.",
+            "Who had voluntarily vowed a vow of the Nazarites."
+        ],
+        "John Wesley": [
+            "To obviate their prejudice against thee: do this that we say to thee.",
+            "Doubtless they meant this advice well: but could Paul follow it in godly sincerity?",
+            "Was not the yielding so far to the judgment of others too great a deference to be paid to any mere men?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 21:23, we see that the elders have devised a plan for Paul to rectify the situation regarding the vow of the four men, who were most likely Christian Jews. These men, possibly already prepared for this purpose, had taken a Nazarite vow, and it was customary for them to be shaven at the end of this vow. By associating himself with these men, Paul demonstrates that he does not disregard the customs and ceremonial rites of the Jews. Such acts of benevolence, relieving needy Jews from the expenses of their vows, were viewed as pious endeavors. The elders' advice, though not a command, was given in light of prudence and to prevent any prejudice against Paul. However, some commentators question whether Paul's compliance was an excessive deference to the opinions of others.",
+            "wordCount": 134,
+            "quoteTokenProportion": 47.25,
+            "qualityScore": 2.034761994849588,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+            "commentatorTierSimilarities": [
+                24.45,
+                42.47,
+                33.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the elders come up with a plan for Paul to address the vow of the four men, who were likely Christian Jews. These men had taken a Nazarite vow and were about to complete it. By joining them, Paul demonstrates his respect for Jewish customs and traditions. The advice of the elders was given in the spirit of prudence to prevent any bias against Paul. However, some question whether Paul's compliance was an undue deference to the opinions of others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.898520484503511,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                25.59,
+                39.25,
+                35.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The elders devise a plan for Paul to address the vow of the four men, Christian Jews, who have taken a Nazarite vow. By associating himself with them, Paul shows his respect for Jewish customs. The elders' advice is given to avoid prejudice against Paul, but some ponder if his compliance is an excessive deference to others' opinions.",
+            "wordCount": 58,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9982704343295015,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+            "commentatorTierSimilarities": [
+                23.66,
+                42.56,
+                33.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 21:23, the elders propose a plan for Paul to address the vow made by four Christian Jews who had taken a Nazarite vow. By joining them, Paul demonstrates his regard for Jewish customs and traditions. The elders' advice is given to prevent any bias against Paul, though some question if this implicates an excessive deference to the opinions of others.",
+            "wordCount": 61,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.9755619014102215,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.03,
+            "commentatorTierSimilarities": [
+                26.24,
+                41.87,
+                31.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The elders present a plan for Paul to address the vow of four Christian Jews who had made a Nazarite vow. By joining them, Paul displays his respect for Jewish customs. The elders' advice is given to avoid prejudice against Paul, but some question if his compliance is an excessive deference to the opinions of others.",
+            "wordCount": 56,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.9812734320604504,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                24.83,
+                41.86,
+                33.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

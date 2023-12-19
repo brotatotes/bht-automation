@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:34:59",
+    "verseRef": "Ephesians 6:1",
+    "bestBHT": {
+        "bht": "Obedience to parents is grounded in the righteousness of character produced by the Holy Spirit, motivating the Christian's work in spiritual conflict. It is a submission that goes beyond reason, willingly subjecting to the rightful authority of parents. This obedience is not only influenced by natural affection but also by religious duty. The obedience takes place within the realm of being in the Lord, and it is an acknowledgement of both natural law and God's commandments. Thus, obedience to parents is deemed right and just, both by the light of nature and the commandments of God.",
+        "wordCount": 98,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.249450278916965,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.13,
+        "commentatorTierSimilarities": [
+            31.1,
+            37.45,
+            31.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Truth is the band and expediter of the Christian\u2019s work in the conflict, without which all his armour would be but encumbrance.",
+            "The righteousness spoken of is that of Rom. vi. 13\u2014the purity and uprightness of Christian character which is the result of the work of the Spirit of Christ.",
+            "The inwrought righteousness of Christ, not merely the imputed righteousness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Obedience is more unreasoning and implicit; submission is the willing subjection of an inferior in point of order to one who has a right to command.",
+            "Both parents and children being Christians 'in the Lord,' expresses the element in which the obedience is to take place, and the motive to obedience.",
+            "Even by natural law we should render obedience to them from whom we have derived life."
+        ],
+        "Albert Barnes": [
+            "The love which God has implanted in the heart of a parent for a child secures, in general, the administration of this domestic government in such a way as not to injure the child.",
+            "No child that is disobedient to a parent will be obedient to God; and that child that is most obedient to a father and mother will be most likely to become a Christian, and an heir of heaven.",
+            "No parent has a right to forbid a child to pray, to read the Bible, to worship God, or to make a profession of religion."
+        ],
+        "Marvin Vincent": [
+            "The children being with their parents in the Lord, are to be influenced by religious duty as well as by natural affection.",
+            "Belonging essentially to the very nature of the relation."
+        ],
+        "John Calvin": [
+            "Obedience is the evidence of that honor which children owe to their parents, and is therefore more earnestly enforced.",
+            "Besides the law of nature, which is acknowledged by all nations, the obedience of children is enforced by the authority of God.",
+            "For we are not at liberty to dispute, or call in question, the appointment of him whose will is the unerring rule of goodness and righteousness."
+        ],
+        "Philip Schaff": [
+            "Obey your parents in the Lord. 'Obey' is stronger than 'submit yourselves;' the sphere or element of the obedience is 'in the Lord.' The phrase, which qualifies the verb, is regarded by some as limiting the obedience to Christian commands, but the whole context implies that both parents and children are 'in Christ.'\" ",
+            "The baptismal rite does not create, but signifies and seals, the relation to Christ. The children are thus publicly acknowledged as 'in Christ,' and believing parents thus promise to regard and train them as Christian children, whose personal piety is to be looked for in faith, as it is prayed for in faith.",
+            "The natural obligation, which is recognized by all systems of morals, comes first; the enforcement through the revealed law of God is added."
+        ],
+        "Archibald T. Robertson": [
+            "Right (\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03bd). In Colossians 3:20 it is \u03b5\u03c5\u03b1\u03c1\u03b5\u03c3\u03c4\u03bf\u03bd (well-pleasing). "
+        ],
+        "John Gill": [
+            "Children should be subject and obedient in all things lawful, just, and good in everything that is not sinful and unlawful.",
+            "And this obedience should be hearty and sincere, and not merely verbal, and in show and appearance, nor mercenary.",
+            "It appears to be right by the light of nature, by which even the very Heathens have taught it; and it is equitable from reason that so it should be; and it is just by the law of God, which commands nothing but what is holy, just, and good."
+        ],
+        "John Wesley": [
+            "The will of the parent is a law to the child.",
+            "In the Lord - For his sake.",
+            "For this is right - Manifestly just and reasonable."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Obedience to parents is a manifestation of the Christian's work in the spiritual battle, where truth serves as the motivating force. This obedience is rooted in the righteousness produced by the indwelling Spirit, not just the righteousness imputed to us. It is an unreasoning and submissive submission, influenced by both religious duty and natural affection. The obedience takes place within the context of being in the Lord, highlighting the sphere in which it operates. Ultimately, obedience to parents is not only a command of natural law but also an acknowledgment of God's authority. Such obedience is deemed right and just, both by the light of nature and the commandments of God.",
+            "wordCount": 113,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.147056048042976,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                32.74,
+                35.9,
+                31.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Obedience to parents is grounded in the righteousness of character produced by the Holy Spirit, motivating the Christian's work in spiritual conflict. It is a submission that goes beyond reason, willingly subjecting to the rightful authority of parents. This obedience is not only influenced by natural affection but also by religious duty. The obedience takes place within the realm of being in the Lord, and it is an acknowledgement of both natural law and God's commandments. Thus, obedience to parents is deemed right and just, both by the light of nature and the commandments of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.249450278916965,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.13,
+            "commentatorTierSimilarities": [
+                31.1,
+                37.45,
+                31.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Obedience to parents is rooted in the righteousness produced by the Holy Spirit, serving as the driving force in the Christian's spiritual battle. It is an unreasoning and submissive submission, motivated by both religious duty and natural affection. The obedience takes place within the context of being in the Lord, highlighting the sphere in which it operates. Ultimately, obedience to parents is not only a command of natural law but also an acknowledgement of God's authority. Such obedience is deemed right and just, both by the light of nature and the commandments of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.160852943366093,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.19,
+            "commentatorTierSimilarities": [
+                32.23,
+                36.23,
+                31.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Obedience to parents is influenced by the righteousness of character resulting from the work of the Holy Spirit. It is a willing and submissive submission, driven by both natural affection and religious duty. The obedience takes place in the realm of being in the Lord, highlighting the sphere in which it operates. Obedience to parents is not only a command of natural law but also an acknowledgment of God's authority. It is deemed right and just by the light of nature and the commandments of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.1247201581900006,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.99,
+            "commentatorTierSimilarities": [
+                32.6,
+                35.08,
+                32.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Obedience to parents stems from the righteousness produced by the Spirit of Christ. It entails a willing and submissive submission, influenced by both natural affection and religious duty. Such obedience takes place within the realm of being in the Lord, signifying the sphere in which it operates. It is a recognition of God's authority and a fulfillment of the commandments of natural law. Ultimately, obedience to parents is seen as right and just, aligning with the principles of goodness and righteousness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0820885241741314,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+            "commentatorTierSimilarities": [
+                32.54,
+                34.98,
+                32.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

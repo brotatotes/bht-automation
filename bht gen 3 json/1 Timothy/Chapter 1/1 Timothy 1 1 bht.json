@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:28:22",
+    "verseRef": "1 Timothy 1:1",
+    "bestBHT": {
+        "bht": "By the commandment of God, this Epistle is proclaimed as a divine decree. The title God our Savior highlights the Father's role in salvation. The phrase Jesus Christ which is our hope distinctively emphasizes that Christ is the substance and foundation of our hope. As an apostle under orders, Paul confirms his authority, appointed directly by God Himself. This epistle carries the weight of its authority to be regarded and received. According to the authoritative appointment of God, Christ remains our hope in whom salvation rests.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 2.1167075720434623,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+        "commentatorTierSimilarities": [
+            29.68,
+            34.62,
+            35.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is a more direct predication of divine command than 'by the will of God' in the earlier Epistles.",
+            "The whole style of these Epistles partakes more of this character, as was natural in the decline of life.",
+            "I am persuaded that in many such expressions in these Epistles, we are to seek rather a psychological than a pragmatical explanation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "by the commandment of God\u2014the authoritative injunction, as well as the commission, of God.",
+            "God our Saviour\u2014The Father.",
+            "our hope."
+        ],
+        "Albert Barnes": [
+            "Saviour is as applicable to God the Father as to the Lord Jesus Christ, since God is the great Author of salvation.",
+            "The apostle Paul had received his commission directly from him (Lord Jesus Christ).",
+            "Our hope."
+        ],
+        "Marvin Vincent": [
+            "This formal announcement of apostleship is strange in a private letter.",
+            "The saving of men appears as God's direct will and act, as Christ's work.",
+            "The phrase 'Jesus Christ which is our hope' is unique in the New Testament."
+        ],
+        "John Calvin": [
+            "He confirms his apostleship by the appointment or command of God; for no man can make himself to be an apostle, but he whom God hath appointed is a true apostle, and worthy of the honor.\" ",
+            "Justly, therefore, is the glory of our salvation ascribed to him [God], for how comes it that we are saved? It is because the Father loved us in such a manner that he determined to redeem and save us through the Son.\" ",
+            "He calls Christ our hope; and this appellation is strictly applicable to him; for then do we begin to have good hope, when we look to Christ, since in him alone dwells all that on which our salvation rests."
+        ],
+        "Philip Schaff": [
+            "According to the commandment. Characteristic of the Pastoral Epistles.",
+            "The new feature in St. Paul\u2019s later language is that he thinks of the Father as essentially a Saviour.",
+            "Christ Jesus our hope. At once the ground of hope...and the object of hope."
+        ],
+        "Archibald T. Robertson": [
+            "Paul means to say that he is an apostle under orders.",
+            "The designation of God as Saviour is peculiar to Luke 1:47; Judges 1:25; 1 Timothy 1:3; 1 Timothy 2:3; 1 Timothy 4:10; Titus 1:3; Titus 2:10; Titus 3:4.",
+            "Like Colossians 1:27. More than the author and object of hope, 'its very substance and foundation'."
+        ],
+        "John Gill": [
+            "His name was well known to Timothy, and very dear to him; and so was his office as an apostle...that what he delivers in this epistle might come with its proper weight and authority, and be regarded.\" ",
+            "He resolved upon it, and appointed his people to it, and determined upon saving them by his Son, whom he pitched upon to be his salvation; he drew the scheme of it by his infinite wisdom, and sent his Son into the world to execute it.",
+            "He himself: and there is good ground to hope for pardon through his blood, which was shed for it; and for justification by his righteousness, which is freely wrought out, and freely imputed; and for salvation by him, since it is in him, and in no other."
+        ],
+        "John Wesley": [
+            "Familiarity is to be set aside where the things of God are concerned.",
+            "According to the commandment of God - The authoritative appointment of God the Father.",
+            "And Christ our hope - That is, the author, object, and ground, of all our hope."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By the commandment of God, this Epistle is proclaimed as a divine decree. Its unique style reflects the decline of life and reveals a psychological rather than pragmatic explanation. The title God our Savior highlights the Father's role in salvation. The phrase Jesus Christ which is our hope distinctively emphasizes that Christ is the substance and foundation of our hope. As an apostle under orders, Paul confirms his authority, appointed directly by God Himself. This epistle carries the weight of its authority to be regarded and received. Familiarity is set aside when it comes to matters of God, and according to the authoritative appointment of God, Christ remains our hope in whom salvation rests.",
+            "wordCount": 115,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.01371490434597,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.3,
+            "commentatorTierSimilarities": [
+                31.03,
+                33.2,
+                35.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By the commandment of God, this Epistle is proclaimed as a divine decree. The title God our Savior highlights the Father's role in salvation. The phrase Jesus Christ which is our hope distinctively emphasizes that Christ is the substance and foundation of our hope. As an apostle under orders, Paul confirms his authority, appointed directly by God Himself. This epistle carries the weight of its authority to be regarded and received. According to the authoritative appointment of God, Christ remains our hope in whom salvation rests.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.1167075720434623,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+            "commentatorTierSimilarities": [
+                29.68,
+                34.62,
+                35.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This Epistle is proclaimed by the commandment of God, reflecting its status as a divine decree. The phrase God our Savior highlights the Father's role in salvation, emphasizing His direct involvement. The unique phrase Jesus Christ which is our hope underscores Christ as the foundation of our hope. As an apostle under orders, Paul confirms his authority, appointed directly by God Himself. This epistle carries the weight of its authority and should be regarded and received. Our hope resides in Christ, through whom salvation rests.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.0950127824354814,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                29.78,
+                35.01,
+                35.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This Epistle is proclaimed by the commandment of God, reflecting its status as a divine decree. The phrase God our Savior highlights the Father's role in salvation. The unique phrase Jesus Christ which is our hope underscores Christ as the foundation of our hope. Paul's authority as an apostle is confirmed, appointed directly by God Himself. This epistle carries the weight of its authority and should be regarded and received. Our hope resides in Christ, through whom salvation rests.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.1093936106015008,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+            "commentatorTierSimilarities": [
+                29.7,
+                35.62,
+                34.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This Epistle is proclaimed by the commandment of God, reflecting its status as a divine decree. The phrase God our Savior highlights the Father's role in salvation. The unique phrase Jesus Christ which is our hope underscores Christ as the foundation of our hope. Paul confirms his authority as an apostle, appointed directly by God Himself. This epistle carries the weight of its authority and should be regarded and received. Our hope resides in Christ, through whom salvation rests.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.1118434401926516,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+            "commentatorTierSimilarities": [
+                29.66,
+                35.49,
+                34.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

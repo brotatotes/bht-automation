@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:31:55",
+    "verseRef": "Acts 16:4",
+    "bestBHT": {
+        "bht": "To establish and strengthen the faith of believers, Paul visited the elders of the church in Antioch and emphasized his loyalty to the decisions made in Jerusalem. By delivering the decrees to the churches in cities like Iconium and Pisidian Antioch, he provided them with guidance on matters such as abstinence from things offered to idols, blood, things strangled, and fornication. This charter of freedom for the Gentiles aimed to foster unity and peace among the churches, ensuring the permanence of the apostolic conclusions. As a result, the churches increased in number and were established in the faith.",
+        "wordCount": 98,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 1.8546077447055986,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+        "commentatorTierSimilarities": [
+            41.81,
+            23.86,
+            34.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He might at Iconium see the elders of the church of Antioch...\" ",
+            "If he went to Antioch, he might regain his route into Phrygia and Galatia...",
+            "crossing the hills east of that city."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And so were the churches established in the faith, and increased in number daily."
+        ],
+        "Albert Barnes": [
+            "The decrees... implied an obligation on the Christians to submit to that decision, since they had submitted the matter to them.",
+            "The same principles, also, would be applicable everywhere, and the decision, therefore, at Jerusalem became conclusive.",
+            "To keep... that were ordained."
+        ],
+        "John Calvin": [
+            "The best and strongest bond to keep and foster peace among the churches, was to keep that which was set down by the apostles.",
+            "Paul meant nothing less than to ensnare men\u2019s consciences in the snare of necessity, for he is not contrary to himself.",
+            "Therefore we attempt nothing at this day which is contrary to or disagreeing with Paul."
+        ],
+        "Philip Schaff": [
+            "Acts 16:4. The cities. This would probably include Iconium and Pisidian Antioch.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "This is a proof of Paul's loyalty to the Jerusalem compact.",
+            "A charter of Gentile freedom.",
+            "Emphasizing the permanence of the conclusions reached by the apostles and elders in Jerusalem."
+        ],
+        "John Gill": [
+            "They delivered them the decrees for to keep.",
+            "They gave the churches, in these cities, the sentiments, and determinations to be observed and followed by them.",
+            "Concerning the abstinence of the Gentiles from things offered to idols, and from blood, and from things strangled, and from fornication."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights how Paul continued his journey and visited different cities to strengthen the faith of the believers. By visiting the elders of the church in Antioch, he demonstrated his loyalty to the decisions made in Jerusalem and emphasized the importance of following the decrees. This not only established and increased the number of churches, but also served as a charter of freedom for the Gentiles. The purpose of delivering these decrees was to ensure unity and peace among the churches, and to guide them in matters such as abstaining from things offered to idols, blood, things strangled, and fornication.",
+            "wordCount": 101,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.727185075994503,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                36.53,
+                26.59,
+                36.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's journey to various cities, including Iconium and Pisidian Antioch, aimed to strengthen the faith of believers and uphold the decisions made in Jerusalem. This demonstrated his loyalty and emphasized the importance of following the decrees laid out by the apostles and elders. By delivering these decrees, he fostered unity and peace among the churches, providing guidance on abstinence from things offered to idols, blood, things strangled, and fornication. These measures established churches, promoted growth, and ensured the permanence of the apostolic conclusions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.6724168710280152,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.95,
+            "commentatorTierSimilarities": [
+                35.41,
+                26.14,
+                38.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To establish and strengthen the faith of believers, Paul visited the elders of the church in Antioch and emphasized his loyalty to the decisions made in Jerusalem. By delivering the decrees to the churches in cities like Iconium and Pisidian Antioch, he provided them with guidance on matters such as abstinence from things offered to idols, blood, things strangled, and fornication. This charter of freedom for the Gentiles aimed to foster unity and peace among the churches, ensuring the permanence of the apostolic conclusions. As a result, the churches increased in number and were established in the faith.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.8546077447055986,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                41.81,
+                23.86,
+                34.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his journey to different cities, Paul's visits to the elders of the church in Antioch underscored his commitment to the decisions made in Jerusalem. Delivering the decrees in cities like Iconium and Pisidian Antioch was crucial for establishing and expanding the churches. These decrees served as a charter of Gentile freedom, emphasizing the permanence of the apostolic conclusions and providing guidance on matters of faith. They aimed to ensure unity, peace, and growth among the believers by addressing issues like abstinence from idol offerings, blood, strangling, and fornication.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.6447433149069974,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.03,
+            "commentatorTierSimilarities": [
+                36.61,
+                27.7,
+                35.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's visits to the elders in Antioch and his delivery of the decrees in cities like Iconium and Pisidian Antioch underscored his loyalty to the decisions made in Jerusalem. By establishing and increasing the number of churches, these actions served as a charter of Gentile freedom. The decrees provided guidance for the believers, emphasizing the permanence of the apostolic conclusions and promoting unity among the churches. They addressed important matters such as abstinence from things offered to idols, blood, things strangled, and fornication.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.6694297078831408,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "commentatorTierSimilarities": [
+                34.41,
+                28.12,
+                37.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

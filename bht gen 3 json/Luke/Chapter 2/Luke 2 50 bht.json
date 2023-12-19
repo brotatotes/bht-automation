@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:14:18",
+    "verseRef": "Luke 2:50",
+    "bestBHT": {
+        "bht": "Even Mary, who had been prepared and guided for this moment, did not fully comprehend the significance of Jesus referring to God as his Father. Joseph's absence from the narrative after this event suggests that he may have passed away, leaving Mary and Jesus as the main figures. It is striking how the people around Jesus, including his parents, were still slow to fully grasp his divine nature and purpose. This lack of understanding highlights the profound mystery and depth of Scripture. We too, like Mary and Joseph, may not fully comprehend the magnitude of Jesus' words and actions.",
+        "wordCount": 100,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.8895478810483974,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.17,
+        "commentatorTierSimilarities": [
+            30.94,
+            37.58,
+            31.48
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They understood not the deeper sense of these wonderful words.",
+            "The unfolding of His childhood had been so gradual and natural, that even they had not been forcibly reminded by any strong individual notes, of that which He was, and which now showed itself.",
+            "It is a remarkable instance of the blindness of the rationalistic Commentators to the richness and depth of Scripture narrative, that they hold this understood not to be altogether inconceivable, as coming after the angelic announcement to Mary."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The marvel of this condescension lies in its coming after such a scene, and such an assertion of His higher Sonship.",
+            "From this time we have no more mention of Joseph. The next we hear is of his \"mother and brethren\" (:-); whence it is inferred, that between this time and the commencement of our Lord's public life, Joseph died\" [ALFORD].",
+            "Having now served the double end of being the protector of our Lord's Virgin\u2014mother, and affording Himself the opportunity of presenting a matchless pattern of subjection to both parents."
+        ],
+        "Albert Barnes": [
+            "It is remarkable that they did not understand Jesus in this, but it shows how slow persons are to believe.\" ",
+            "Even his parents, after all that had taken place, did not seem to comprehend that 'he' was to be the Saviour of people.\" ",
+            "If they did, they understood it in a very imperfect manner."
+        ],
+        "Marvin Vincent": [
+            "The saying [\u03c4\u03bf \u03c1\u03b7\u03bc\u03b1] . See on chapter Luke 1:37."
+        ],
+        "Archibald T. Robertson": [
+            "Even Mary with all her previous preparation and brooding was not equal to the dawning of the Messianic consciousness in her boy.\" ",
+            "A new era has come when Jesus calls God 'Father,' not \u0394\u03b5\u03c3\u03c0\u03bf\u03c4\u03b5\u03c2.",
+            "Even we do not yet fully understand what Jesus the boy here said."
+        ],
+        "John Gill": [
+            "And they understood not the saying,.... What he meant by his Father's house, or his Father's business, and the necessity of his being there, and about that.",
+            "which he spake unto them; at that time, and as above related."
+        ],
+        "John Wesley": [
+            "It is observable that Joseph is not mentioned after this time; whence it is probable, he did not live long after."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even Mary, who had been prepared and guided for this moment, did not fully comprehend the significance of Jesus referring to God as his Father. Joseph's absence from the narrative after this event suggests that he may have passed away, leaving Mary and Jesus as the main figures. It is striking how the people around Jesus, including his parents, were still slow to fully grasp his divine nature and purpose. This lack of understanding highlights the profound mystery and depth of Scripture. We too, like Mary and Joseph, may not fully comprehend the magnitude of Jesus' words and actions.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8895478810483974,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.17,
+            "commentatorTierSimilarities": [
+                30.94,
+                37.58,
+                31.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even Mary, with all her previous preparation, did not fully understand the significance of Jesus referring to God as his Father. The subsequent absence of Joseph suggests that he may have died. It is remarkable how those surrounding Jesus, including his parents, did not fully grasp his divine nature and purpose. This lack of understanding demonstrates the depth and richness of Scripture. We, too, may struggle to fully comprehend the profound implications of Jesus' words and actions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.801471916463425,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.24,
+            "commentatorTierSimilarities": [
+                30.86,
+                38.46,
+                30.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even Mary, who had been prepared and guided for this moment, did not fully comprehend the significance of Jesus referring to God as his Father. Joseph's absence from the narrative after this event suggests that he may have passed away, leaving Mary and Jesus as the main figures. It is striking how the people around Jesus, including his parents, were still slow to fully grasp his divine nature and purpose. This lack of understanding highlights the profound mystery and depth of Scripture. We too, like Mary and Joseph, may not fully comprehend the magnitude of Jesus' words and actions.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8895478810483974,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.17,
+            "commentatorTierSimilarities": [
+                30.94,
+                37.58,
+                31.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even Mary, with all her previous preparation, did not fully understand the significance of Jesus referring to God as his Father. The subsequent absence of Joseph suggests that he may have died. It is remarkable that even those close to Jesus, such as his parents, did not fully grasp his divine nature and purpose. This lack of understanding demonstrates the depth and richness of Scripture. We, too, may struggle to fully comprehend the profound implications of Jesus' words and actions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8056810203407463,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                31.09,
+                38.6,
+                30.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even Mary, with all her previous preparation, did not fully understand the significance of Jesus referring to God as his Father. The people around Jesus, including his parents, were slow to grasp his divine nature and purpose. This lack of understanding highlights the rich and deep narrative of Scripture. We too may not fully comprehend the magnitude of Jesus' words and actions, just as Mary and Joseph did not. The mystery of his mission unfolds gradually, inviting us to seek a deeper understanding.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.810880493639389,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.55,
+            "commentatorTierSimilarities": [
+                31.96,
+                41.4,
+                26.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

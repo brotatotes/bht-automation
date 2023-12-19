@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:08:52",
+    "verseRef": "Titus 2:8",
+    "bestBHT": {
+        "bht": "Christians are called to be teachers of good, showing virtues like love, discretion, and purity. Their words should be healthful, pure, and uncorrupted. By speaking in this manner, believers can silence their detractors and prevent the word of God from being maligned. Their goal is to live in such a way that is unimpeachable, with conduct and words that cannot be condemned. They should avoid corrupt speech and instead use words that reflect the wholesome teachings of Jesus and the Gospel, protecting the honor of God's name.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.715594530333841,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+        "commentatorTierSimilarities": [
+            22.05,
+            39.02,
+            38.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not slanderers, not enslaved to much wine, teachers of that which is good.",
+            "That they school the young women to be lovers of their husbands, lovers of their children, discreet, chaste workers at home, good.",
+            "In subjection to their own husbands, that the word of God be not ill-spoken of."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "may be ashamed\u2014put to confusion by the power of truth and innocence.",
+            "no evil thing\u2014in our acts, or demeanor.",
+            "of you\u2014So one of the oldest manuscripts. Other very old manuscripts read, 'of US,' Christians."
+        ],
+        "Albert Barnes": [
+            "He was to use language that would be spiritually 'healthful' (\u03c5\u0314\u03b3\u03b9\u03b7\u0342 hugie\u0304); that is, true, pure, uncorrupted.",
+            "That cannot be condemned - Such as cannot be shown to be weak, or unsound; such that no one could find fault with it.",
+            "That he that is of the contrary part may be ashamed ... - Ashamed that he has opposed such views."
+        ],
+        "Marvin Vincent": [
+            "That cannot be condemned.\" ",
+            "He that is of the contrary part.\" ",
+            "May be ashamed."
+        ],
+        "John Calvin": [
+            "He therefore enjoins that his words shall be pure and free from all corruption.\" ",
+            "That thou mayest shew thyself unblamable in gravity, in integrity, and in sound words.",
+            "The consequence is, that, through our fault, the sacred name of God is exposed to insult."
+        ],
+        "Archibald T. Robertson": [
+            "Sound (\u03c5\u03b3\u03b9\u03b7, Attic usually \u03c5\u03b3\u03b9\u03b1 in accusative singular), elsewhere in Pastorals participle \u03c5\u03b3\u03b9\u03b1\u03bd\u03c9\u03bd (verse Titus 2:1).",
+            "He that is of the contrary part (\u03bf \u03b5\u03be \u03b5\u03bd\u03b1\u03bd\u03c4\u03b9\u03b1\u03c2).",
+            "May be ashamed (\u03b9\u03bd\u03b1 \u03b5\u03bd\u03c4\u03c1\u03b1\u03c0\u03b7). Final clause with \u03b9\u03bd\u03b1 and second aorist passive subjunctive of \u03b5\u03bd\u03c4\u03c1\u03b5\u03c0\u03c9, to turn, in middle and passive to turn one on himself and so be ashamed (to blush) as in 2 Thessalonians 3:14; 1 Corinthians 4:14."
+        ],
+        "John Gill": [
+            "The wholesome words of our Lord Jesus should be used, and the doctrines of the Gospel be expressed... not in the enticing words of man's wisdom.\" ",
+            "No filthiness, nor foolish talking and jesting, which are not convenient, and are rightly condemned.",
+            "Having no evil thing to say of you."
+        ],
+        "John Wesley": [
+            "Wholesome speech \u2014 In private conversation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christians are called to be teachers of what is good, to exhibit qualities such as love, discretion, and purity. By speaking healthful words, believers can silence their detractors and prevent the word of God from being maligned. The aim is to live in a way that is blameless and unimpeachable, so that no one can find fault with their conduct or their words. Christians should avoid corrupt speech and instead use words that are pure and unassailable, reflecting the wholesome teachings of Jesus and the Gospel. In doing so, they will not only preserve their own integrity but also protect the honor of God's name.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6613640246374115,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.58,
+            "commentatorTierSimilarities": [
+                22.74,
+                37.66,
+                39.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christians are called to be teachers of good, showing virtues like love, discretion, and purity. Their words should be healthful, pure, and uncorrupted. By speaking in this manner, believers can silence their detractors and prevent the word of God from being maligned. Their goal is to live in such a way that is unimpeachable, with conduct and words that cannot be condemned. They should avoid corrupt speech and instead use words that reflect the wholesome teachings of Jesus and the Gospel, protecting the honor of God's name.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.715594530333841,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+            "commentatorTierSimilarities": [
+                22.05,
+                39.02,
+                38.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christians should be teachers of what is good, showing virtues like love and purity. By speaking healthful and pure words, they can silence their detractors and prevent the word of God from being maligned. Their conduct and words should be unimpeachable, reflecting the wholesome teachings of Jesus and the Gospel. They should avoid corrupt speech and instead use words that protect the honor of God's name. Living in this manner, Christians can show themselves blameless and avoid bringing shame to the message they proclaim.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6892643465170445,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+            "commentatorTierSimilarities": [
+                23.72,
+                36.47,
+                39.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christians are to be teachers of good, instructing others in virtues such as love, purity, and discretion. Their words should be healthful, pure, and uncorrupted. By using such words, believers can silence their detractors and prevent the word of God from being maligned. Their conduct and words should be unimpeachable\u2014free from evil, filthiness, and foolishness. By speaking with integrity and sound words, Christians can protect the honor of God's name and show themselves blameless, bearing witness to the teachings of Jesus and the Gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6144796537343764,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.02,
+            "commentatorTierSimilarities": [
+                23.96,
+                35.08,
+                40.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christians are called to be teachers of good, embodying virtues like love, discretion, and purity. By speaking healthful and pure words, they can silence their detractors and protect the word of God from being maligned. Their conduct and words should be unimpeachable, avoiding evil acts and demeanor. The aim is to live in a way that leaves no room for accusation. Christians should use words that reflect the teachings of Jesus and the Gospel and avoid corrupt speech. By doing so, they can preserve their own integrity and protect the honor of God's name.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.5007098281151032,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.24,
+            "commentatorTierSimilarities": [
+                24.94,
+                32.08,
+                42.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:28:14",
+    "verseRef": "1 Timothy 1:20",
+    "bestBHT": {
+        "bht": "If one's religion better not his morals, his moral deficiencies will corrupt his religion. The rain which falls pure from heaven will not continue pure if it be received in an unclean vessel. Though the apostles had the power of excommunication, accompanied with bodily inflictions, it does not follow that fallible ministers now have any power, save that of excluding from church fellowship notorious bad livers. This severe discipline of apostolic authority, apparently exclusion and more than mere abandonment, was to teach them not to blaspheme.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 1.9374325427378434,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+        "commentatorTierSimilarities": [
+            38.2,
+            31.81,
+            29.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "If one's religion better not his morals, his moral deficiencies will corrupt his religion.",
+            "The rain which falls pure from heaven will not continue pure if it be received in an unclean vessel.",
+            "Though the apostles had the power of excommunication, accompanied with bodily inflictions, it does not follow that fallible ministers now have any power, save that of excluding from church fellowship notorious bad livers."
+        ],
+        "Albert Barnes": [
+            "The instructions of Satan tend rather to teach his followers to blaspheme, and none in his school fail to be apt scholars.",
+            "It cannot be supposed that they were open and bold blasphemers, for such could not have maintained a place in the church, but rather that they held doctrines which the apostle regarded as amounting to blasphemy; that is, doctrines which were in fact a reproach on the divine character.",
+            "Let us be careful that we hold no views about God which are reproachful to him, and which, though we do not express it in words, may lead us to blaspheme him in our hearts."
+        ],
+        "Marvin Vincent": [
+            "Have delivered unto Satan.\" ",
+            "May be taught by punishment or disciplined.\" ",
+            "See on 1 Corinthians 5:5."
+        ],
+        "John Calvin": [
+            "And hearing it, let us keep possession of our faith by a good conscience, that we may hold it safe to the last.",
+            "For, since in the Church Christ holds the seat of his kingdom, out of the Church there is nothing but the dominion of Satan. Accordingly, he who is cast out of the Church must be placed, for a time, under the tyranny of Satan, until, being reconciled to the Church, he returns to Christ.",
+            "The power of doing injury is taken from them when they are branded with public infamy, so that none are so simple as not to know that these are irreligious and detestable men, and therefore their society is shunned by all."
+        ],
+        "Philip Schaff": [
+            "From St. Paul\u2019s point of view, this was to overturn the faith.\" ",
+            "The act so spoken of involves... the thought that Satan, when permitted, exercises a power to inflict disease and pain on the bodies of men... It might be connected, as in the case at Corinth, with excommunication, but was not necessarily identical with it.",
+            "The word is used probably to express the horror felt at the association of the name of God or Christ with a doctrine which overthrew the faith and led to impurity of life."
+        ],
+        "Archibald T. Robertson": [
+            "He and Alexander are the chief 'wreckers' of faith in Ephesus.",
+            "It is a severe discipline of apostolic authority, apparently exclusion and more than mere abandonment.",
+            "That they might be taught not to blaspheme."
+        ],
+        "John Gill": [
+            "He seemingly before had [a good conscience]; for his profane and vain babblings increased to more ungodliness.\" ",
+            "Not by excommunication, which is the act of a church, and not of a single person; but by an apostolical power he had of delivering the bodies of men into the hands of Satan, by him to be tortured and afflicted.\" ",
+            "That being chastised, corrected, or disciplined, they might not blaspheme, as they had before done; either by words, contradicting, reviling, and scoffing at the doctrine of the resurrection; or by their unbecoming lives and conversations, giving themselves great liberty in sinning."
+        ],
+        "John Wesley": [
+            "I have delivere to Satan, that they may learn not to blaspheme."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If one's religion fails to improve their morals, their moral deficiencies will corrupt their religion. Just as rain that is pure from heaven will not remain pure if received in an unclean vessel, so too will faith become tainted when held by those who engage in sinful behavior. While the apostles possessed the power of excommunication and bodily inflictions, this does not imply that fallible ministers today hold the same authority. However, they do possess the power to exclude notorious wrongdoers from church fellowship. In the case at hand, the individuals mentioned were the chief wreckers of faith in Ephesus. This severe discipline, possibly including exclusion and abandonment, was meant to teach them not to blaspheme. Blasphemous teachings and impure lives undermined the faith and were seen as reproachful to God. It is crucial to hold views about God that are not offensive to Him, as even unexpressed thoughts can lead to blasphemy in the heart.",
+            "wordCount": 157,
+            "quoteTokenProportion": 36.04,
+            "qualityScore": 1.8299614736097047,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                30.91,
+                36.34,
+                32.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If one's religion better not his morals, his moral deficiencies will corrupt his religion. The rain which falls pure from heaven will not continue pure if it be received in an unclean vessel. Though the apostles had the power of excommunication, accompanied with bodily inflictions, it does not follow that fallible ministers now have any power, save that of excluding from church fellowship notorious bad livers. This severe discipline of apostolic authority, apparently exclusion and more than mere abandonment, was to teach them not to blaspheme.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.9374325427378434,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                38.2,
+                31.81,
+                29.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If one's religion fails to improve their morals, their moral deficiencies will corrupt their religion. Just as rain that is pure from heaven will not remain pure if received in an unclean vessel, so too will faith become tainted when held by those who engage in sinful behavior. While the apostles possessed the power of excommunication and bodily inflictions, this does not imply that fallible ministers today hold the same authority. However, they do possess the power to exclude notorious wrongdoers from church fellowship. This severe discipline was meant to teach them not to blaspheme.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.8270984603070675,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
+            "commentatorTierSimilarities": [
+                32.95,
+                32.78,
+                34.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If one's religion better not his morals, his moral deficiencies will corrupt his religion. The rain which falls pure from heaven will not continue pure if it be received in an unclean vessel. Though the apostles had the power of excommunication, accompanied with bodily inflictions, it does not follow that fallible ministers now have any power, save that of excluding from church fellowship notorious bad livers. This severe discipline of apostolic authority, apparently exclusion and more than mere abandonment, was to teach them not to blaspheme.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.9374325427378434,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                38.2,
+                31.81,
+                29.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If one's religion fails to improve their morals, their moral deficiencies will corrupt their religion. Just as rain that is pure from heaven will not remain pure if received in an unclean vessel, faith becomes tainted when held by those who engage in sinful behavior. While the apostles had the power of excommunication and bodily inflictions, fallible ministers today can only exclude notorious wrongdoers from church fellowship. This severe discipline, possibly including exclusion and abandonment, was meant to teach them not to blaspheme and to uphold the purity of the faith.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.8968256124250933,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                33.79,
+                33.91,
+                32.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

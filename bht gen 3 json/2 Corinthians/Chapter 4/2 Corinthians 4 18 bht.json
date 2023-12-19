@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:16:05",
+    "verseRef": "2 Corinthians 4:18",
+    "bestBHT": {
+        "bht": "We are reminded not to be swayed or seduced by the visible things of this world, whether they bring hardship or comfort. Instead, our focus should be on the unseen, on the eternal realities that will become visible when our journey of faith is complete. The temporary nature of the seen should not deter or discourage us, for it is in looking beyond these temporal things and fixing our gaze on the glories of the future that we find the strength and encouragement to endure affliction and pursue a life that is pleasing to God.",
+        "wordCount": 95,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 2.098485125262453,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.12,
+        "commentatorTierSimilarities": [
+            26.44,
+            40.64,
+            32.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All things that are seen, whether they be torment, or ease: so as to be neither relaxed by the one, nor borne down by the other.",
+            "Many things which are not seen, shall become visible when the pilgrimage of faith is over.",
+            "Whether they be reigning in glory, or suffering in torment: that he may deter them by the one, and encourage them by the other."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We mind not the things seen, whether affliction or refreshment come, so as to be seduced by the latter, or deterred by the former.",
+            "Not seen\u2014not 'the invisible things' of Philippians 3:19, but the things which, though not seen now, shall be so hereafter.",
+            "Temporal\u2014rather, 'for a time'; in contrast to eternal. The Greek is rightly translated in the similar passage, 'the pleasures of sin for a season.'"
+        ],
+        "Albert Barnes": [
+            "The design of this is, to show in what way the afflictions which they endured became in their view light and momentary. It was by looking to the glories of the future world, and thus turning away the attention from the trials and sorrows of this life.",
+            "If we can turn away the mind from them and contemplate future glory; if we can compare them with eternal blessedness, and feel that they will introduce us to perfect and everlasting happiness, they will appear to be transitory, and will be easily borne.",
+            "No man's conscience is at peace from the fact that he does not repent, and love God and obey the gospel. His heart may love sin; but his conscience cannot approve it. That is at peace only in doing the work of God; and that can find self-approbation only when it submits to him, and embraces the gospel of his Son."
+        ],
+        "Marvin Vincent": [
+            "Seen - not seen. Compare the beautiful passage in Plato's \"Phaedo,\" 79. "
+        ],
+        "John Calvin": [
+            "If we carry forward our thoughts to the eternity of the heavenly kingdom, a thousand years begin to appear to us to be like a moment.",
+            "We are imposed upon by the view of present things, because there is nothing there that is not temporal; and that, consequently, there is nothing for us to rest upon but confidence in a future life.",
+            "The eye of faith penetrates beyond all our natural senses, and faith is also on that account represented as a looking at things that are invisible."
+        ],
+        "Archibald T. Robertson": [
+            "While we look not (\u03bc\u03b7 \u03c3\u03ba\u03bf\u03c0\u03bf\u03c5\u03bd\u03c4\u03c9\u03bd \u03b7\u03bc\u03c9\u03bd). Genitive absolute with participle of \u03c3\u03ba\u03bf\u03c0\u03b5\u03c9 from \u03c3\u03ba\u03bf\u03c0\u03bf\u03c2, goal.\" ",
+            "Temporal (\u03c0\u03c1\u03bf\u03c3\u03ba\u03b1\u03b9\u03c1\u03b1). Rather temporary, for a season (\u03c0\u03c1\u03bf\u03c2 \u03ba\u03b1\u03b9\u03c1\u03bf\u03bd).\" ",
+            "See 1 Corinthians 13:12; Hebrews 11:1."
+        ],
+        "John Gill": [
+            "To 'look' at these things is to desire them, set the affections on them, and to make the enjoyment of them a man's chief scope and aim.",
+            "A believer is not to stand looking and poring upon his afflictions; for while he does so, they work impatience, murmurings, repinings, unbelief, etc.",
+            "But when and while he looks off of these to Christ, and to what he has done and suffered, and to the glories of another world, and to the recompense of reward, he not only finds himself supported under his present afflictions... but he also finds his heart seeking after, and his affections set upon, and his faith, hope, and expectation raised in the views of things above."
+        ],
+        "John Wesley": [
+            "The things that are seen \u2014 Men, money, things of earth.",
+            "The things that are not seen \u2014 God, grace, heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are called to fix our gaze not on the seen, whether it be torment or ease, but on the things that are not seen. The things that are visible may try to distract us or discourage us, but we are not to be swayed by their temporary nature. Instead, we are to keep our focus on the eternal, on the things that are not seen now but will become visible when our faith journey is complete. It is in looking beyond the temporal and setting our affections on the invisible that we find the strength and encouragement to endure affliction and to pursue a life that is pleasing to God.",
+            "wordCount": 111,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.020975782374624,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.54,
+            "commentatorTierSimilarities": [
+                27.67,
+                37.25,
+                35.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are not to be seduced or deterred by the visible world, whether in times of affliction or refreshment. Instead, our focus should be on the unseen, on the eternal realities that will become visible when our faith journey is complete. The temporal things of this world may try to sway us, but it is in looking beyond them to the glories of the future and the recompense of reward that we find the strength to endure and the hope to persevere.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.080356215799943,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.51,
+            "commentatorTierSimilarities": [
+                28.03,
+                40.3,
+                31.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are instructed not to be swayed by the temporary, whether it be the hardships or the pleasures of this world. Instead, our focus should be on the unseen, on the eternal realities that will be revealed in due time. By turning our attention away from the trials and sorrows of this life and fixing our gaze on the future glory, we can find comfort and strength. It is in comparison to the everlasting blessings that the afflictions of this world become light and momentary.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.992672978311861,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+            "commentatorTierSimilarities": [
+                23.48,
+                46.15,
+                30.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are urged not to be deceived or discouraged by the visible things of this world, whether they bring affliction or ease. Instead, we need to keep our focus on the invisible things, the eternal realities that are not yet seen but will be revealed in due time. The temporary nature of the seen should not seduce or deter us. Rather, we are to set our affections on the unseen, looking forward to the glories of another world and the recompense of reward that awaits us.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.8974562564253925,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                28.6,
+                38.19,
+                33.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are reminded not to be swayed or seduced by the visible things of this world, whether they bring hardship or comfort. Instead, our focus should be on the unseen, on the eternal realities that will become visible when our journey of faith is complete. The temporary nature of the seen should not deter or discourage us, for it is in looking beyond these temporal things and fixing our gaze on the glories of the future that we find the strength and encouragement to endure affliction and pursue a life that is pleasing to God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.098485125262453,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.12,
+            "commentatorTierSimilarities": [
+                26.44,
+                40.64,
+                32.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

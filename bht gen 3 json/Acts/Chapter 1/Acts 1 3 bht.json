@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:24:44",
+    "verseRef": "Acts 1:3",
+    "bestBHT": {
+        "bht": "During a span of forty days, Jesus was occasionally seen by his disciples, providing irresistible evidence of his resurrection. These appearances confirmed the truth of the gospel and solidified the disciples' understanding of Jesus as both a friend and companion. Through shared meals and miraculous acts, Jesus emphasized the continuity of his mission. This period holds significant value as the only specified interval between resurrection and ascension. By presenting infallible proofs, Jesus ensured that the disciples became authentic witnesses to his resurrection, establishing the foundation for the gospel's authority.",
+        "wordCount": 90,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 2.185992755115868,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.02,
+        "commentatorTierSimilarities": [
+            31.66,
+            39.99,
+            28.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He was occasionally seen by them during a period of forty days.",
+            "He was not always with them as before the Resurrection.",
+            "Certainly, not future events in their detail,\u2014as the next portion of the narrative shews us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the resurrection of the Lord Jesus\" was the great burden of apostolic preaching...the resistless evidence of their own senses... (3-5).",
+            "This primary sense of the word 'passion' has fallen into disuse; but it is nobly consecrated in the phraseology of the Church to express the Redeemer's final endurances\" (3-5).",
+            "the things pertaining to the kingdom of God\u2014till now only in germ, but soon to take visible form; the earliest and the latest burden of His teaching on earth\" (3-5)."
+        ],
+        "Albert Barnes": [
+            "The resurrection of Jesus was the great fact on which the truth of the gospel was to be established.",
+            "He appeared to them as he had always done, as a friend, companion, and benefactor; he ate with them, performed a miracle before them, was engaged in the same work as he was before he suffered.",
+            "And as his heart was occupied with the same purposes which endued his attention before he suffered, we are taught by this that we should aim at the same great work in all the circumstances of our being."
+        ],
+        "Marvin Vincent": [
+            "The original meaning is to place beside, and so commend to the attention. Hence, to set before the mind; present, shew.",
+            "The word is akin to tekmar a fixed boundary, goal, end; and hence a fixed or sure sign or token.",
+            "The only passage where the interval between the resurrection and the ascension is given."
+        ],
+        "John Calvin": [
+            "The resurrection...a thing most necessary to be known, and without the which the whole gospel falleth flat to the ground, neither remaineth there any more faith.",
+            "The gospel loseth his whole authority, unless we know and be also fully persuaded that Christ being alive, speaketh unto us from the heavens.",
+            "Christ did principally intreat of the corruption of mankind; of the tyranny of sin...and also of the means to obtain salvation; of the remission of sins; of the denying of the flesh; of spiritual righteousness; of hope of eternal life, and of like such things."
+        ],
+        "Philip Schaff": [
+            "This is the only place where the interval between the resurrection and ascension is specified.",
+            "The irresistible, incontrovertible proofs which Jesus gave to His disciples of His resurrection...",
+            "During that period from time to time He appeared to them, and then disappeared, 'proving to them His humanity by eating and drinking with them, yet weaning them, by vanishing suddenly, from dwelling on His corporal presence..."
+        ],
+        "Archibald T. Robertson": [
+            "The early disciples including Paul never doubted the fact of the Resurrection, once they were convinced by personal experience.",
+            "Luke does not hesitate to apply the definite word 'proofs' to the evidence for the Resurrection of Christ after full investigation on the part of this scientific historian.",
+            "Certainly with Jesus the term 'kingdom' applies to the present and the future and covers so much that it is not strange that the disciples with their notions of a political Messianic kingdom (Acts 1:6) were slow to comprehend the spiritual nature of the reign of God."
+        ],
+        "John Gill": [
+            "he raised himself from the dead, and hereby declared himself to be the Son of God with power, which cannot be said of others",
+            "he appeared often to his apostles: ... and they must be proper and sufficient witnesses of his resurrection\" ",
+            "he gave to them, by many infallible proofs; or by many signs and tokens, and which were most sure and unquestionable arguments of his being alive"
+        ],
+        "John Wesley": [
+            "Being seen by them forty days \u2014 That is, many times during that space.",
+            "And speaking of the things pertaining to the kingdom of God \u2014 Which was the sum of all his discourses with them before his passion also."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During a period of forty days, Jesus appeared intermittently to his disciples, providing them with undeniable evidence of his resurrection, thus solidifying the truth of the gospel. These appearances were not solely to demonstrate his humanity by eating and drinking with them, but also to emphasize the continuation of his divine purpose and work on earth. Through these encounters, Jesus spoke about the kingdom of God, a concept that initially perplexed his disciples, who still held onto their notions of a political Messianic kingdom. Nevertheless, the disciples, including Paul, were convinced of the Resurrection after personally experiencing these infallible proofs presented by Jesus. It is crucial for us to grasp the significance of Christ's resurrection, as it forms the foundation of our faith, attests to his role as the Son of God, and brings to light essential teachings about the state of humanity, sin, salvation, righteousness, and eternal life.",
+            "wordCount": 150,
+            "quoteTokenProportion": 33.67,
+            "qualityScore": 2.1743050369207815,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.64,
+            "commentatorTierSimilarities": [
+                31.59,
+                36.64,
+                31.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For a span of forty days, Jesus was periodically seen by his disciples, offering them observable evidence of his resurrection. These appearances validated the truth of the gospel and provided unambiguous confirmation of Jesus being alive. The primary purpose behind these encounters was to discuss matters pertaining to the kingdom of God, which encompassed teachings on sin, salvation, righteousness, and the hope of eternal life. By presenting these infallible proofs, Jesus ensured that his disciples became reliable witnesses to his resurrection, establishing the necessary foundation for the authority of the gospel message.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.175596185705176,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+            "commentatorTierSimilarities": [
+                30.11,
+                36.07,
+                33.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During a span of forty days, Jesus was occasionally seen by his disciples, providing irresistible evidence of his resurrection. These appearances confirmed the truth of the gospel and solidified the disciples' understanding of Jesus as both a friend and companion. Through shared meals and miraculous acts, Jesus emphasized the continuity of his mission. This period holds significant value as the only specified interval between resurrection and ascension. By presenting infallible proofs, Jesus ensured that the disciples became authentic witnesses to his resurrection, establishing the foundation for the gospel's authority.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.185992755115868,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.02,
+            "commentatorTierSimilarities": [
+                31.66,
+                39.99,
+                28.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For forty days, Jesus was intermittently seen by his disciples, providing undeniable evidence of his resurrection. These appearances validated the truth of the gospel and affirmed the disciples' understanding of Jesus as both a friend and a benefactor. By partaking in meals and performing miracles, Jesus conveyed the continuation of his divine purpose. This specific timeframe is the only one mentioned between the resurrection and ascension. Through infallible proofs, Jesus ensured that the disciples would serve as credible witnesses to his resurrection, establishing the authority of the gospel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.1577607377020662,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.09,
+            "commentatorTierSimilarities": [
+                30.85,
+                39.48,
+                29.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During a period of forty days, Jesus occasionally appeared to his disciples to provide them with undeniable evidence of his resurrection. These appearances not only affirmed the truth of the gospel but also reinforced the disciples' understanding of Jesus as a friend and companion. Through shared meals and miraculous acts, Jesus demonstrated the continuation of his divine mission. This specific duration is explicitly mentioned as the interval between the resurrection and ascension. By presenting infallible proofs, Jesus ensured that the disciples became reliable witnesses to his resurrection, establishing the foundation for the authority of the gospel message.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.171164597791733,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.53,
+            "commentatorTierSimilarities": [
+                31.34,
+                39.92,
+                28.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

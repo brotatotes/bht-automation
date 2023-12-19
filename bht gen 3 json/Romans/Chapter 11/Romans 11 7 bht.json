@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:08:14",
+    "verseRef": "Romans 11:7",
+    "bestBHT": {
+        "bht": "Israel, in its search for righteousness, has not obtained what it seeks. However, the elect among them have found it. The rest, who were hardened in their hearts, became blinded to the truth. The election refers to those chosen by God, the remnant who have obtained His favor. The hardened ones, or the non-elect, have been forsaken by God and are incapable of obtaining anything but a curse. The salvation and favor of God do not depend on human efforts, but solely on His grace.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9385132175617041,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.8,
+        "commentatorTierSimilarities": [
+            30.89,
+            33.86,
+            35.25
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What then... That which Israel is in search of, this it found not, but the election found it.",
+            "We have seen that God hath not cast off his own chosen nation, but that even now there is a remnant.",
+            "He asks to bring out an answer which may set in view the rest who were hardened."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Israel hath not obtained that which he seeketh for. [...] this he found not; but the election found it.\" ",
+            "the rest were hardened, or judicially given over to the 'hardness of their own hearts.'",
+            "the elect remnant of Israel found it."
+        ],
+        "Albert Barnes": [
+            "Israel hath not obtained...they have, as a people, failed of obtaining his favor at all, and will be rejected.",
+            "The elect, the reserved, the chosen part of the people, have obtained the favor of God.",
+            "The great mass of the people...were blinded...It means that they were blind and obstinate."
+        ],
+        "Marvin Vincent": [
+            "Obtained [\u03b5\u03c0\u03b5\u03c4\u03c5\u03c7\u03b5\u03bd] . The simple verb tugcanw means originally to hit the mark; hence to fall in with, light upon, attain.",
+            "The election [\u03b7 \u03b5\u03ba\u03bb\u03bf\u03b3\u03b7] . Abstract for concrete. Those elected; like hJ peritomh the circumcision for those uncircumcised (Ephesians 2:11. Compare thn katatomhn the concision, Philippians 3:3).",
+            "Were blinded [\u03b5\u03c0\u03c9\u03c1\u03c9\u03b8\u03b7\u03c3\u03b1\u03bd] . Rev., correctly, hardened, though the word is used of blindness when applied to the eyes, as Job 17:7, Sept. See on hardness, Mark 3:5. Compare sklhrunei hardeneth, Romans 9:18."
+        ],
+        "John Calvin": [
+            "It hence follows, that the cause of salvation exists not in men, but depends on the good pleasure of God alone.",
+            "For what Paul means with regard to the reprobate is, \u2014 that the beginning of their ruin and condemnation is from this \u2014 that they are forsaken by God.",
+            "The ungodly are indeed, for their sins, visited by God\u2019s judgment with blindness; but if we seek for the source of their ruin, we must come to this, \u2014 that being accursed by God, they cannot by all their deeds, sayings, and purposes, get and obtain anything but a curse."
+        ],
+        "Philip Schaff": [
+            "That which Israel (as a mass) is seeking for, now as formerly; chaps. Romans 9:31; Romans 10:3 show that \u2018righteousness\u2019 is the object sought. Zealous searching is not necessarily indicated here.",
+            "But the election ('the remnant,' abstractly and vivaciously termed 'the election,' rather than 'the elect') obtained it.",
+            "The word denotes in its primary meaning: 'to deprive an organ of its natural sensibility; in the moral: to take from the heart the faculty of being touched by what is good or divine, from the intelligence the faculty of discerning between the true and the false, the good and the evil."
+        ],
+        "Archibald T. Robertson": [
+            "What then? Since God did not push Israel away, what is true?\" ",
+            "The election. Abstract for concrete (the elect).\" ",
+            "Were hardened. First aorist passive indicative of \u03c0\u03c9\u03c1\u03bf\u03c9, late verb, to cover with thick skin."
+        ],
+        "John Gill": [
+            "God has not cast away all the people of the Jews, nor any whom he foreknew.",
+            "They sought for life and righteousness by their obedience to the law, but did not obtain.",
+            "The non-elect... obtained no mercy, grace, faith, life, righteousness, and eternal salvation, but were 'blinded'."
+        ],
+        "John Wesley": [
+            "Israel in general hath not obtained justification; but those of them only who believe.",
+            "And the rest were blinded \u2014 By their own wilful prejudice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Israel, in its search for righteousness, has not obtained what it seeks. However, the elect among them have found it. The rest, who were hardened in their hearts, became blinded to the truth. The election refers to those chosen by God, the remnant who have obtained His favor. The hardened ones, or the non-elect, have been forsaken by God and are incapable of obtaining anything but a curse. This shows that salvation is not dependent on man, but solely on the grace and good pleasure of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9271095870015746,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+            "commentatorTierSimilarities": [
+                30.44,
+                33.49,
+                36.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Israel, in its search for righteousness, has not obtained what it seeks. However, the elect among them have found it. The rest, who were hardened in their hearts, became blinded to the truth. The election refers to those chosen by God, the remnant who have obtained His favor. The hardened ones, or the non-elect, have been forsaken by God and are incapable of obtaining anything but a curse. This shows that salvation is not dependent on man, only on the grace of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.9147711010236739,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                31.18,
+                33.15,
+                35.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Israel, in its search for righteousness, has not obtained what it seeks. However, the elect among them have found it. The rest, who were hardened in their hearts, became blinded to the truth. The election refers to those chosen by God, the remnant who have obtained His favor. The hardened ones, or the non-elect, have been forsaken by God and are incapable of obtaining anything but a curse. This shows that salvation depends solely on God's grace, not on human efforts.",
+            "wordCount": 83,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.9249545053143131,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                31.39,
+                33.05,
+                35.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Israel, in its search for righteousness, has not obtained what it seeks. However, the elect among them have found it. The rest, who were hardened in their hearts, became blinded to the truth. The election refers to those chosen by God, the remnant who have obtained His favor. The hardened ones, or the non-elect, have been forsaken by God and are incapable of obtaining anything but a curse. The salvation and favor of God do not depend on human efforts, but solely on His grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9385132175617041,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.8,
+            "commentatorTierSimilarities": [
+                30.89,
+                33.86,
+                35.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Israel sought righteousness but did not obtain it, while the elect found it. The non-elect, hardened in heart, were blinded. The election refers to those chosen by God, the remnant who obtained His favor. This shows that salvation depends not on humanity but on God's grace alone.",
+            "wordCount": 49,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 2.0299199810323083,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+            "commentatorTierSimilarities": [
+                31.64,
+                33.52,
+                34.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

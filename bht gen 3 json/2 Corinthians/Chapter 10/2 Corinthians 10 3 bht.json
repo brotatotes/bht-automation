@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:17:44",
+    "verseRef": "2 Corinthians 10:3",
+    "bestBHT": {
+        "bht": "Though we walk in the flesh, our battle is not fought according to it. We do not use earthly methods or worldly resources in our fight against sin, idolatry, and evil. Our warfare is spiritual, carried out with the power of truth and the guidance of the Holy Spirit. As soldiers of Christ, we do not stoop to the level of those who war in the flesh. We face the devil and his agents, even when they disguise themselves as representatives of heaven, armed with courage and the spiritual weapons at our disposal.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.9613421851522124,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+        "commentatorTierSimilarities": [
+            33.83,
+            35.74,
+            30.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "We walk IN the flesh, but not 'ACCORDING TO the flesh.'\" ",
+            "Though we WALK in it, we do not WAR according to it.\" ",
+            "They who accuse us of walking after the flesh, shall find [to their cost] that we do not war after the flesh; therefore compel us not to use our weapons."
+        ],
+        "Albert Barnes": [
+            "Though we walk in the flesh... The best of people are subject to these needs and frailties; the best of people are liable to err.",
+            "We do not war after the flesh... The warfare in which he was engaged was with sin, idolatry, and all forms of evil.",
+            "The Christian looks for his conquests only by the force and the power of truth, and by the agency of the Spirit of God."
+        ],
+        "Marvin Vincent": [
+            "In the flesh. Being human, and subject to human conditions.",
+            "War [\u03c3\u03c4\u03c1\u03b1\u03c4\u03b5\u03c5\u03bf\u03bc\u03b5\u03b8\u03b1]. Serve as soldiers: carry on our campaign.",
+            "After the flesh. Or according to (Rev.). Quite a different thing from being in the flesh."
+        ],
+        "John Calvin": [
+            "Walking in the flesh means here \u2014 living in the world.",
+            "Those war according to the flesh, who attempt nothing but in dependence upon worldly resources, in which alone, too, they glory.",
+            "For they carry an inestimable treasure in earthen vessels, as he had previously said."
+        ],
+        "Archibald T. Robertson": [
+            "In the flesh. But that is a very different thing from walking according to the standards of the flesh as his enemies charged.",
+            "We war. Paul admits that he fights, but only the devil and his agents even if wearing the livery of heaven.",
+            "Paul knew the Roman army well. He knows how to use the military metaphor."
+        ],
+        "John Gill": [
+            "Every Christian's life is a warfare with Satan, and his principalities and powers, with the world, the men and lusts of it, and with the corruptions of their own hearts.",
+            "The life of a minister of the Gospel...to fight the good fight of faith, endure hardness as a good soldier of Christ, and with the weapons he is furnished with to war a good warfare.",
+            "Which is not done 'after the flesh'; in such a manner as the men of the world wage war with one another; or upon carnal principles; or with carnal selfish views; or in a weak way and manner; but in a spiritual way, with all simplicity and disinterested views, with great courage and intrepidity of mind."
+        ],
+        "John Wesley": [
+            "Though we walk in the flesh... yet we do not war against the world and the devil.\" ",
+            "After the flesh... by any carnal or worldly methods.\" ",
+            "Though the apostle here... it is his own authority which he is vindicating."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though as humans we walk in this physical world, we do not wage war in the same manner. The accusation that we walk according to the flesh is unfounded, as the battle we fight is not fought with earthly weapons or worldly resources. Instead, our fight is against sin, idolatry, and all forms of evil, aiming for conquests by the force of truth and the power of the Spirit of God. Our existence in the flesh does not define our actions; rather, we engage in a spiritual warfare, armed with courage and the weapons provided to us. As soldiers in Christ's army, we do not stoop to the level of those who war according to the flesh, for our fight is against the devil and his agents, even when they disguise themselves as representatives of heaven. Thus, while we live in this world, we do not wage our battles in the ways of the world, but with the spiritual weapons bestowed upon us.",
+            "wordCount": 164,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0022396503827617,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.92,
+            "commentatorTierSimilarities": [
+                33.5,
+                35.5,
+                31.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though we walk in the flesh, we do not war according to it. Our battle is not fought with earthly weapons or worldly resources, but it is a spiritual warfare against sin and evil. We seek conquests through the power of truth and the Holy Spirit. As soldiers of Christ, we do not stoop to the level of those who wage war in the flesh, but we fight against the devil and his agents, even when disguised as representatives of heaven. Our existence in the flesh does not define us; instead, we engage in a battle equipped with spiritual weapons and with great courage.",
+            "wordCount": 104,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.057415290665023,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.75,
+            "commentatorTierSimilarities": [
+                34.09,
+                35.9,
+                30.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though we walk in the flesh, we do not war according to it. Our battle is not fought with earthly weapons or worldly resources, but through the force and power of truth and the Spirit of God. We strive to conquer sin and all forms of evil. As soldiers in Christ's army, we do not engage in the same carnal warfare as those who war after the flesh. Our fight is with the devil and his agents, even if they wear the livery of heaven. We wage this spiritual warfare with courage and reliance on the weapons provided to us.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.0009860631520695,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+            "commentatorTierSimilarities": [
+                34.91,
+                35.14,
+                29.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though we walk in the flesh, our battle is not fought according to it. We do not use earthly methods or worldly resources in our fight against sin, idolatry, and evil. Our warfare is spiritual, carried out with the power of truth and the guidance of the Holy Spirit. As soldiers of Christ, we do not stoop to the level of those who war in the flesh. We face the devil and his agents, even when they disguise themselves as representatives of heaven, armed with courage and the spiritual weapons at our disposal.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9613421851522124,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+            "commentatorTierSimilarities": [
+                33.83,
+                35.74,
+                30.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though we walk in the flesh, we do not war according to it. Our battle is not fought with earthly weapons or worldly methods, but with the force of truth and the power of the Spirit. We strive to conquer sin, idolatry, and all forms of evil. As soldiers of Christ, we face the devil and his agents, even when they present themselves as representatives of heaven. Armed with courage and spiritual weapons, ours is a spiritual warfare, separate from the ways of the world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9591152798700122,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                32.22,
+                37.55,
+                30.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

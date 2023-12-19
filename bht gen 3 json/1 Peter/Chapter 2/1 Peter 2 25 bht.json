@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:39:22",
+    "verseRef": "1 Peter 2:25",
+    "bestBHT": {
+        "bht": "You were like straying sheep, habitually going astray, but through the atonement made by Christ, we have returned now unto the Shepherd and Bishop of your souls. The Apostle transfers the name of the elders of the churches to the great Head of the Church, emphasizing His role as the overseer and guide for His people. Jesus, the Good Shepherd and Bishop, seeks and brings us back when we wander away, ensuring the safety and salvation of our souls as long as we follow Him.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.188184892483256,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.1,
+        "commentatorTierSimilarities": [
+            32.77,
+            30.41,
+            36.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye were straying like sheep: but ye have returned now unto the Shepherd and Bishop of your souls.\" ",
+            "The Apostle transfers the well-known name of the elders of the churches, Episcopoi, to the great Head of the Church, of whom they were all the servants and representatives.\" ",
+            "The Shepherd and Bishop of your souls."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For\u2014Assigning their natural need of healing.",
+            "now\u2014Now that the atonement for all has been made, the foundation is laid for individual conversion: so 'ye are returned,' or 'have become converted to,' &amp;c.",
+            "Shepherd and Bishop\u2014The designation of the pastors and elders of the Church belongs in its fullest sense to the great Head of the Church, 'the good Shepherd.' As the 'bishop' oversees (as the Greek term means), so 'the eyes of the Lord are over the righteous' ( :-). He gives us His spirit and feeds and guides us by His word."
+        ],
+        "Albert Barnes": [
+            "(1) \"He is the Bishop of the soul in a sense quite distinct from any care which he manifests for the body.",
+            "(2) \"There is nothing more safe than the human soul is when it is committed in faith to the keeping of the Son of God.",
+            "(3) \"We had all wandered away...In that state he pitied us, sought us out, brought us back...and we shall be safe as long as we follow where he leads."
+        ],
+        "Marvin Vincent": [
+            "ye were like straying sheep.\" ",
+            "the ye were should be construed with the participle going astray, the verb and the participle together denoting habitual action or condition.",
+            "ye were going astray like sheep."
+        ],
+        "John Calvin": [
+            "The meaning then is, that we are all going astray from the way of salvation, and proceeding in the way of ruin, until Christ brings us back from this wandering.",
+            "For all who are not ruled by Christ, are wandering like lost sheep in the ways of error.",
+            "There is then no cause to fear, but that he will faithfully watch over the safety of those who are in his fold and under his care."
+        ],
+        "Philip Schaff": [
+            "The readers are compared simply to sheep, not to wandering sheep. That is to say, they are said themselves to have been once wanderers, and in that state of estrangement from God to have been like sheep, helpless, foolish, and heedless.\" ",
+            "On the ground of such instances...it seems necessary to give the verb the middle sense here, although it might seem more in harmony with the context to render it 'are returned,' so as to bring out more clearly what had been done for them.",
+            "The title \u2018Shepherd,\u2019 indeed, is used of God in the Old Testament...But it is also applied to Messiah there, while in the New Testament it is not only claimed for Himself by Christ, but is given to Him again by Peter."
+        ],
+        "Archibald T. Robertson": [
+            "For ye were going astray like sheep...to wander away.\" ",
+            "But are now returned...to turn, to return.\" ",
+            "Jesus called himself the Good Shepherd...Here alone is Christ called our 'Bishop'...Jesus is also \u0391\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2 (Hebrews 3:1) and he deserves all other titles of dignity that we can give him."
+        ],
+        "John Gill": [
+            "God's elect are sheep before conversion; not that they have the agreeable properties of sheep, as to be meek, harmless, innocent, clean, and profitable, for they are the reverse of all this.",
+            "Saints are passive, and not active in first conversion; they are turned, not by the power of their own free will, but by the power of God's free grace.",
+            "He is the 'Bishop' or 'Overseer' of the souls of his people, though not to the exclusion of their bodies: he has took the oversight of them willingly, and looks well to his flock, inspects into their cases, and often visits them, and never forsakes them; nor will he leave them till they receive the end of their faith, the salvation of their souls."
+        ],
+        "John Wesley": [
+            "The bishop \u2014 The kind observer, inspector, or overseer of your souls."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You were straying like sheep, but you have returned now unto the Shepherd and Bishop of your souls. The Apostle uses the well-known name of the elders of the churches, Episcopoi, to describe the great Head of the Church, who was their servant and representative. This Shepherd and Bishop, the good Shepherd, oversees and guides His flock. We were like straying sheep, habitually going astray, but through the atonement made by Christ, we have returned to Him. Jesus is the Good Shepherd who seeks, pities, and brings us back when we wander away. In Him, we find safety for our souls and protection under His care.",
+            "wordCount": 107,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.0301564635714078,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+            "commentatorTierSimilarities": [
+                35.2,
+                30.18,
+                34.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You were like straying sheep, habitually going astray, but through the atonement made by Christ, we have returned now unto the Shepherd and Bishop of your souls. The Apostle transfers the name of the elders of the churches to the great Head of the Church, emphasizing His role as the overseer and guide for His people. Jesus, the Good Shepherd and Bishop, seeks and brings us back when we wander away, ensuring the safety and salvation of our souls as long as we follow Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.188184892483256,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.1,
+            "commentatorTierSimilarities": [
+                32.77,
+                30.41,
+                36.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You were going astray like sheep, but through the atonement made by Christ, you have returned now unto the Shepherd and Bishop of your souls. The Apostle uses the well-known name of the elders of the churches, Episcopoi, to describe the great Head of the Church, who was their servant and representative. As the Good Shepherd and Bishop, Jesus oversees and guides His flock, seeking and bringing back those who wander away. In Him, we find safety for our souls and protection under His care.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.0127299078346486,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                33.57,
+                29.43,
+                37.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You were going astray like sheep, but through the atonement made by Christ, you have returned now unto the Shepherd and Bishop of your souls. The Apostle assures that although we were like wandering sheep, we have been brought back by the Great Shepherd and Bishop of our souls. Jesus, the Good Shepherd, not only overseers and guides His flock, but He also seeks and brings back those who have strayed. In Him, our souls find safety and security, protected by His loving care.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.138864628790313,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.46,
+            "commentatorTierSimilarities": [
+                31.55,
+                31.09,
+                37.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "You were like straying sheep, going astray habitually, but through the atonement made by Christ, you have returned now unto the Shepherd and Bishop of your souls. The Apostle highlights the role of the Great Head of the Church, who is both the Shepherd and Bishop, overseeing and guiding His people. We were once like helpless and foolish sheep, wandering away from God. Yet, Jesus, the Good Shepherd, seeks and brings us back from our wandering, providing safety and restoration for our souls.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.1395686474060946,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.48,
+            "commentatorTierSimilarities": [
+                32.79,
+                31.6,
+                35.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

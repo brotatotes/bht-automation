@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:13:59",
+    "verseRef": "Galatians 1:4",
+    "bestBHT": {
+        "bht": "Christ's sacrifice was a voluntary act of love to accomplish the Atonement and deliver us from the present evil world. Through His sacrifice, we are torn away from the power of sin and made citizens of a better world. His sacrifice fully and forever accomplished our redemption, so we need not turn to human means of salvation or return to the bondage of the law. In Christ alone, we can find atonement for sin and perfect righteousness, for He is the source of salvation.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.437908587586029,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.4,
+        "commentatorTierSimilarities": [
+            26.7,
+            36.2,
+            37.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He thus, by the way, reminds the Galatians, who wished to return to the bondage of the law, of the great object of the Atonement, which they had forgotten.",
+            "And this, not as the Lord merely of His works, but as our Father, bound to us in the ties of closest love\u2014for our good, as well as to fulfill His own eternal purpose.",
+            "Not so that we may trifle with such rescuing purpose of Christ by mixing it with other schemes and fancies, seeing that it is according to a procedure prescribed by Him, who doeth all things after the counsel of His own will."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Son, not the Father, gave Himself for us in order to do so, and make us citizens of a better world.",
+            "The Galatians in desiring to return to legal bondage are, he implies, renouncing the deliverance which Christ wrought for us.",
+            "The present age opposes the 'glory' of God, and is under the authority of the Evil One."
+        ],
+        "Albert Barnes": [
+            "No one compelled him to come; no one could compel him. It is not too much to say, that God could not, and would not compel any innocent and holy being to undertake the great work of the atonement.",
+            "He knew just what sorrows were to be endured - how long, how keen, how awful. And yet, knowing this, he came resolved and prepared to endure all those woes, and to drink the bitter cup to the dregs.",
+            "If there had not been this benevolence in his bosom, man must have perished forever. He could not have saved himself; and he had no power or right to compel another to suffer on his behalf; and even God would not lay this mighty burden on any other, unless he was entirely willing to endure it."
+        ],
+        "Marvin Vincent": [
+            "Gave himself for our sins.\" ",
+            "Out of the world, the present (world which is) evil.",
+            "The course and current of this world's affairs as corrupted by sin."
+        ],
+        "John Calvin": [
+            "The best remedy for purifying our minds from any kind of errors or superstitions, is to keep in remembrance our relation to Christ, and the benefits which he has conferred upon us.",
+            "No other satisfactions can lawfully be brought into comparison with that sacrifice of himself which Christ offered to the Father; that in Christ, therefore, and in him alone, atonement for sin, and perfect righteousness, must be sought.",
+            "Christ, therefore, died for our sins, in order to redeem or separate us from the world."
+        ],
+        "Philip Schaff": [
+            "He holds up at once before the Galatians, who were returning to the bondage of the law, the picture of the dying Saviour, who, by the one sacrifice on the cross, fully and forever accomplished our redemption, so that we need not resort to any human means of salvation or go back to a preparatory dispensation.",
+            "That he might deliver us. Lit, tear away, from a power, the expression used by the Lord of Paul\u2019s own deliverance. 'It strikes the key-note of the Epistle. The gospel is a rescue, an emancipation from a state of bondage'.",
+            "According to the will of God, from whom the whole plan and process of redemption proceeds, so that all the glory belongs to Him, and not to man. The sacrifice of the Son was not forced, or even commanded, by the Father, but strictly voluntary, as is implied in the preceding words: 'Who gave himself for our sins.'"
+        ],
+        "Archibald T. Robertson": [
+            "The gospel is a rescue, an emancipation from a state of bondage.",
+            "Out of the age the existing one being evil.",
+            "Not according to any merit in us."
+        ],
+        "John Gill": [
+            "He did not merely give, 'sua, his own things', what were his properly, but, 'se, himself'; not the world, and the fulness of it, gold, silver, and such like corruptible things; no, nor men for them, and people for their lives; nor angels, his creatures, and ministering spirits, but his own self, his life, his flesh, his blood, his body, and soul, his whole human nature, and this as in union with himself, a divine person, the eternal Son of God.\" ",
+            "This oblation of himself upon the cross, was not for any sin of his own, who had none, nor for the sins of angels, of whom he was no Redeemer aud Saviour, but 'for our sins'; not the sins of the apostles, or of the Jews only, nor yet of all mankind, but of God's elect, called the friends of Christ, his sheep and church, for whom he gave himself.\" ",
+            "Christ gave himself a sacrifice for the sins of his people, that as in consequence of this they might be delivered and saved from the damning power, so from the governing power and influence of all that is evil in this present world; as from Satan, the god of it, who has usurped a power over it; from the lusts that are predominant in it; from the vain conversation of the men of it; from the general conflagration of it at the last day, and from the perdition of ungodly men, and their eternal destruction in hell."
+        ],
+        "John Wesley": [
+            "That he might deliver us from the present evil world \u2014 From the guilt, wickedness, and misery wherein it is involved, and from its vain and foolish customs and pleasures.",
+            "According to the will of God \u2014 Without any merit of ours.",
+            "St. Paul begins most of his epistles with thanksgiving; but, writing to the Galatians, he alters his style, and first sets down his main proposition, That by the merits of Christ alone, giving himself for our sins, we are justified: neither does he term them, as he does others, either saints,\" elect,\" or churches of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ gave Himself for our sins to accomplish the great object of the Atonement, reminding us that His sacrifice was not forced by the Father but was a voluntary act of love. This sacrifice tore us away from the power of the present evil world, delivering us and making us citizens of a better world. By His sacrifice, Christ fully and forever accomplished our redemption, so we need not turn to human means of salvation or return to the bondage of the law. It is through Christ alone that we can find atonement for sin and perfect righteousness, for He alone is the source of salvation.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.3924373501347542,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.89,
+            "commentatorTierSimilarities": [
+                26.53,
+                36.86,
+                36.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ's sacrifice was a voluntary act of love to accomplish the Atonement and deliver us from the present evil world. Through His sacrifice, we are torn away from the power of sin and made citizens of a better world. His sacrifice fully and forever accomplished our redemption, so we need not turn to human means of salvation or return to the bondage of the law. In Christ alone, we can find atonement for sin and perfect righteousness, for He is the source of salvation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.437908587586029,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.4,
+            "commentatorTierSimilarities": [
+                26.7,
+                36.2,
+                37.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's voluntary sacrifice accomplished the great object of the Atonement, reminding us not to mix it with other schemes or fancies. He gave Himself for our sins, tearing us away from the power of the present evil world. Through His sacrifice, we are delivered from the bondage of the law and made citizens of a better world. In Christ alone, we find atonement and perfect righteousness, for the whole plan of redemption originates from the will of God, not from any merit in ourselves.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.3341779597744825,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.95,
+            "commentatorTierSimilarities": [
+                28.74,
+                34.54,
+                36.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ voluntarily gave Himself for our sins, accomplishing the great purpose of the Atonement while reminding us not to trifle with His rescuing purpose by mixing it with other schemes. His sacrifice tore us away from the corrupting influence of the present evil world and delivered us from bondage. In Him alone, we find our emancipation, our redemption. This was not according to our merit, but strictly voluntary, according to the will of God, who deserves all the glory for His plan of redemption.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.277157778801441,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.06,
+            "commentatorTierSimilarities": [
+                30.52,
+                34.64,
+                34.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ's voluntary sacrifice accomplished the great object of the Atonement and tore us away from the power of the present evil world. Through His sacrifice, we are delivered from the bondage of the law and made citizens of a better world. In Christ alone, we find atonement for sin and perfect righteousness, for the whole plan of redemption originates from the will of God. His sacrifice was not based on our merit, but on His own voluntary act of love.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.3058322317066224,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.01,
+            "commentatorTierSimilarities": [
+                27.27,
+                36.36,
+                36.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

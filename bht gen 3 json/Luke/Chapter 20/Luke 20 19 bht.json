@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:22:11",
+    "verseRef": "Luke 20:19",
+    "bestBHT": {
+        "bht": "The religious leaders, fearing the people, attempted to entangle Jesus with complex questions about tribute and the resurrection. However, their fear only fueled their rage, leaving them unable to seize Him at that moment. Jesus' parable had made it apparent to the people that it was directed against these very leaders. Their mistreatment of God's servants and their intention to kill the Messiah foreshadowed their own downfall, as the kingdom of God would be taken away from them.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 1.47890672523032,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+        "commentatorTierSimilarities": [
+            23.78,
+            35.56,
+            40.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19. and they feared the people] The copula, and, introduces the state of mind in which this their attempt was made: and they did so in fear of the people."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. the same hour\u2014hardly able",
+            "\tto restrain their rage. ",
+            "\t",
+            " :-. ENTANGLING",
+            "\tQUESTIONS ABOUT TRIBUTE",
+            "\tAND THE RESURRECTION\u2014THE",
+            "\tREPLIES."
+        ],
+        "Philip Schaff": [
+            "And they feared the people; and hence could not take Him.\" ",
+            "The people perceived that he had spoken this parable against them.",
+            "The chief priests are spoken of."
+        ],
+        "Archibald T. Robertson": [
+            "Vivid picture here where Mark 12:12; Matthew 21:46 has 'to seize'."
+        ],
+        "John Gill": [
+            "They had a good will to it, being exceedingly gravelled with the question he put to them concerning John's baptism, which confounded them, and put them to silence.",
+            "Lest they should rise and stone them.",
+            "They were the husbandmen that had used the servants of God so ill, and would put to death the son of God, the Messiah; and who would at length be destroyed themselves, and the kingdom of God be taken from them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 20:19, the religious leaders attempted to entangle Jesus with tricky questions about tribute and the resurrection, but they were fearful of the people's reaction. Their attempt to trap Him was met with their own fear and rage, and they were unable to seize Him in that moment. This vivid picture highlights the tension and power dynamics at play. The people were perceptive enough to recognize that Jesus spoke against the religious leaders in His parable. These leaders, who had mistreated God's servants and intended to put the Messiah to death, would ultimately be destroyed, and the kingdom of God would be taken from them.",
+            "wordCount": 107,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.4070278031446044,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.13,
+            "commentatorTierSimilarities": [
+                27.58,
+                33.95,
+                38.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of Jesus' challenging questions, the religious leaders sought to entangle Him by asking about tribute and the resurrection. Their motive, however, was driven by fear of the people's reaction. Yet, their fear only intensified their rage, and they were unable to seize Him in that moment. The people, too, recognized that Jesus was speaking against the religious leaders through His parable. These leaders, who mistreated God's servants and planned to kill the Messiah, would ultimately face their own destruction, allowing the kingdom of God to be taken from them.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4376982510998886,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.15,
+            "commentatorTierSimilarities": [
+                24.32,
+                39.3,
+                36.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders, fearing the people, attempted to entangle Jesus with complex questions about tribute and the resurrection. However, their fear only fueled their rage, leaving them unable to seize Him at that moment. Jesus' parable had made it apparent to the people that it was directed against these very leaders. Their mistreatment of God's servants and their intention to kill the Messiah foreshadowed their own downfall, as the kingdom of God would be taken away from them.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.47890672523032,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+            "commentatorTierSimilarities": [
+                23.78,
+                35.56,
+                40.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In an attempt to entangle Jesus, the religious leaders posed intricate questions about tribute and the resurrection, driven by their fear of the people's reaction. But their fear ultimately fueled their rage in that very moment, leaving them unable to seize Him. The people, having grasped the meaning behind Jesus' parable, perceived that it was aimed at these leaders who had mistreated God's servants and were planning to kill the Messiah. Consequently, the kingdom of God would be stripped from them, bringing upon their own destruction.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.4249909911819147,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
+            "commentatorTierSimilarities": [
+                23.86,
+                34.62,
+                41.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their attempt to ensnare Jesus, the religious leaders confronted Him with intricate questions about tribute and the resurrection, driven by their fear of the people. However, their fear only served to intensify their rage, leaving them unable to apprehend Him at that moment. The people grasped that Jesus' parable was a direct critique of these very leaders who had mistreated God's servants and were plotting to kill the Messiah. Consequently, they would face their own demise, as the kingdom of God would be taken away from them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.4123369023809274,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.3,
+            "commentatorTierSimilarities": [
+                22.55,
+                35.12,
+                42.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

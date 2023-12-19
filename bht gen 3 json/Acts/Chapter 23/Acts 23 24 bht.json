@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:35:41",
+    "verseRef": "Acts 23:24",
+    "bestBHT": {
+        "bht": "Antonius Felix, the governor to whom Paul was being sent, was described as wielding kingly power with the disposition of a slave, engaging in acts of cruelty and lust. His procuratorship was riddled with disturbances, including false messiahs, assassins, robbers, and civil contests. As Paul journeyed to Felix, he was provided with beasts, such as horses or mules, for transportation. Despite his energy and talent, Felix ruled with the power of a tyrant but with the temperament of a slave, tarnishing his reputation as a corrupt and oppressive governor.",
+        "wordCount": 89,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 2.048830497982643,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.46,
+        "commentatorTierSimilarities": [
+            27.28,
+            40.88,
+            31.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Antonius Felix wielded kingly power with the disposition of a slave, disgracing it by every kind of cruelty and lust.",
+            "His procuratorship was one series of disturbances, false messiahs, assassins, and robbers, and civil contests.",
+            "This letter seems to be given (translated from the Latin) as written, not merely according to its general import: from what source, is impossible to say."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. beasts . . . set Paul on\u2014as",
+            "\trelays, and to carry baggage. ",
+            "\t",
+            "unto Felix, the governor\u2014the",
+            "\tprocurator. See on Acts 23:2."
+        ],
+        "Albert Barnes": [
+            "The word translated 'beasts' \u03ba\u03c4\u03b7\u0301\u03bd\u03b7 kte\u0304ne\u0304 is of a general character, and may be applied either to horses, camels, or donkeys.\" ",
+            "His name was Antonius Felix. He was a freedman of Antonia, the mother of the Emperor Claudius.\" ",
+            "He was an unrighteous governor, a base, mercenary, and bad man."
+        ],
+        "Marvin Vincent": [
+            "Beasts [\u03ba\u03c4\u03b7\u03bd\u03b7] . See on Luke 10:34."
+        ],
+        "Philip Schaff": [
+            "Felix and his brother Pallas were originally slaves, and then freedmen in the house of a noble Roman lady, Antonia, mother of the Emperor Claudius.",
+            "He was notoriously avaricious, cruel, and licentious, but withal a man of great energy and talent, wielding, however, as Tacitus tells us, \u2018the power of a tyrant with the temper of a slave.\u2019",
+            "According to Josephus, he was one of the most corrupt and oppressive governors ever despatched from Rome to rule over Jud\u00e6a."
+        ],
+        "Archibald T. Robertson": [
+            "Beasts (\u03ba\u03c4\u03b7\u03bd\u03b7). For riding as here or for baggage. See on Luke 10:34. Asses or horses, but not war-horses.",
+            "The extreme precaution of Lysias is explained in some Latin MSS. as due to fear of a night attack with the result that he might be accused to Felix of bribery.",
+            "Felix was a brother of Pallas, the notorious favourite of Claudius. Both had been slaves and were now freedmen. Felix was made procurator of Judea by Claudius A.D. 52."
+        ],
+        "John Gill": [
+            "And provide them beasts,.... Horses or mules; the Syriac version reads in the singular number, 'a beast': and one being sufficient for Paul, here may be a change of number.",
+            "Felix married three persons successively, that were of royal families; hence Suetonius calls him the husband of three queens.",
+            "Josephus calls him Claudius Felix, which name he took from the Emperor Claudius, who from so low and mean condition raised him to such honour and dignity; his name Felix signifies 'happy'."
+        ],
+        "John Wesley": [
+            "Provide beasts \u2014 If a change should be necessary, to set Paul on - So we read of his riding once; but not by choice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Antonius Felix, the governor to whom Paul was being sent, was a disgraceful and cruel ruler. His procuratorship was marred by disturbances, false messiahs, assassins, and civil contests. He held kingly power, yet wielded it with the disposition of a slave. As Paul was being transported to Felix, he was provided with beasts, either horses or mules, to carry him and his baggage. Felix, a notorious and corrupt governor, had a reputation for avarice, cruelty, and licentiousness. Despite being a man of great energy and talent, he ruled with the power of a tyrant but with the temperament of a slave.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.952002546765796,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                26.44,
+                43.75,
+                29.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Antonius Felix, the governor to whom Paul was being sent, was a disgraceful and cruel ruler. He held kingly power but had the disposition of a slave, abusing his authority with acts of cruelty and lust. His procuratorship was filled with disruptions, including false messiahs, assassins, robbers, and civil unrest. As Paul was being transported to Felix, he was provided with beasts, such as horses or mules, to carry him and his belongings. Despite his energy and talent, Felix ruled with tyranny and corruption, tarnishing his position of power.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.9531478489590692,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.28,
+            "commentatorTierSimilarities": [
+                27.09,
+                41.28,
+                31.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Antonius Felix, the governor to whom Paul was sent, was known for his cruel and lustful behavior. His rule was marked by disturbances, false messiahs, assassinations, and civil conflicts. As Paul journeyed to Felix, he was provided with beasts, whether horses or mules, to transport him and his belongings. Despite his power, Felix's disposition was more akin to that of a slave, disgracing his position with his actions. He and his brother, both former slaves, rose to prominence in the Roman Empire, with Felix becoming procurator of Judea.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.9166065547737985,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.07,
+            "commentatorTierSimilarities": [
+                26.47,
+                40.84,
+                32.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The governor to whom Paul was being sent, Antonius Felix, was a ruler who abused his power, bringing about cruelty and lust. His procuratorship was filled with disturbances, such as false messiahs, assassinations, and civil contests. As Paul made his journey to Felix, he was provided with beasts, whether horses or mules, for transportation. Despite having great energy and talent, Felix ruled with the temperament of a slave, overshadowing his position by his avarice, cruelty, and licentiousness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9584666993707285,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                27.29,
+                38.76,
+                33.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Antonius Felix, the governor to whom Paul was being sent, was described as wielding kingly power with the disposition of a slave, engaging in acts of cruelty and lust. His procuratorship was riddled with disturbances, including false messiahs, assassins, robbers, and civil contests. As Paul journeyed to Felix, he was provided with beasts, such as horses or mules, for transportation. Despite his energy and talent, Felix ruled with the power of a tyrant but with the temperament of a slave, tarnishing his reputation as a corrupt and oppressive governor.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.048830497982643,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.46,
+            "commentatorTierSimilarities": [
+                27.28,
+                40.88,
+                31.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:08:52",
+    "verseRef": "1 Corinthians 9:11",
+    "bestBHT": {
+        "bht": "The reciprocal relationship between Paul and the Corinthians is underscored, emphasizing the value of the spiritual blessings he imparts to them. The contrast between the intangible treasures of the Spirit and the tangible nourishment of the flesh illuminates the nature of their transaction. Paul, as their spiritual sower, rightly expects material support in return for the precious gifts he has sown among them. The importance of supporting ministers in their sacred duties is emphasized for the benefit of society and the fulfillment of their spiritual work.",
+        "wordCount": 86,
+        "quoteTokenProportion": 26.42,
+        "qualityScore": 1.4608539591593865,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+        "commentatorTierSimilarities": [
+            25.42,
+            39.09,
+            35.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The we (both times strongly emphatic:\u2014we need sorely some means of marking in our English Bibles, for ordinary readers, which words have the emphasis)",
+            "It is one of those elaborately antithetical sentences which the great Apostle wields so powerfully in argument.",
+            "The first are so called as belonging to the spirit of man (some say, as coming from the Spirit of God: but it is better to keep the antithesis exact and perspicuous), the second as serving for the nourishment of the flesh."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "WE, the same persons who have sown to you the infinitely more precious treasures of the Spirit, may at least claim in return what is the only thing you have to give.",
+            "the goods that nourish the flesh",
+            "your carnal things"
+        ],
+        "Albert Barnes": [
+            "We impart blessings of more value than we receive. We receive a supply of our temporal needs. We impart to you, under the divine blessing, the gospel, with all its hopes and consolations.",
+            "Ministers, like physicians, lawyers, and farmers, should be allowed to attend mainly to the great business of their lives, and to their appropriate work... No physician, no farmer, no mechanic, could accomplish much, if his attention was constantly turned off from his appropriate business to engage in something else.",
+            "It might be added, that society is benefited in a 'pecuniary' way by the service of a faithful minister to a far greater extent than the amount of compensation which he receives... The promotion of order, peace, sobriety, industry, education, and regularity in business, and honesty in contracting and in paying debts, saves much more to the community at large than the cost of the support of the gospel."
+        ],
+        "John Calvin": [
+            "Though food and clothing are not of the same nature with a minister\u2019s labors, what injury do you sustain, if you recompense what is inestimable with a thing that is small and contemptible?",
+            "For in proportion to the superiority of the soul above the body, does the word of the Lord excel outward sustenance, inasmuch as it is the food of the soul.",
+            "The minister of the word, if he would receive fruit corresponding to his labor, ought to demand nothing that is carnal."
+        ],
+        "Archibald T. Robertson": [
+            "Is it a great matter? (\u03bc\u03b5\u03b3\u03b1;). The copula \u03b5\u03c3\u03c4\u03b9\u03bd has to be supplied.",
+            "Note two conditions of first class with \u03b5, both assumed to be true.",
+            "This point comes out sharply also in Galatians 6:6."
+        ],
+        "John Gill": [
+            "The preachers of the Gospel are compared to sowers of seed; the seed they sow is the word of God, which is like to seed, for its smallness and despicableness in the eyes of carnal men... the Gospel is most choice and excellent to true believers.",
+            "sowing requires skill and art, and so preaching the Gospel does, and that more than human; and is constantly in its returning season to be attended to, notwithstanding the winds and clouds.",
+            "once more, as the sower, when he has cast his seed into the earth, waits long and with patience for its springing up and increase, so do the faithful dispensers of the Gospel."
+        ],
+        "John Wesley": [
+            "Is it a great matter if we shall reap as much of your carnal things \u2014 As is needful for our sustenance?\" ",
+            "Do you give us things of greater value than those you receive from us?",
+            "Do you give us things of greater value than those you receive from us?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the reciprocal relationship between the Corinthians and the Apostle Paul, emphasizing the value of the spiritual blessings he imparts to them compared to the temporal goods they provide. The use of antithetical language underscores the contrast between the intangible treasures of the Spirit and the tangible nourishment of the flesh. The first-tier commentary suggests that the Corinthians owe a debt of gratitude to Paul, as he sowed precious spiritual gifts among them and has a legitimate claim to their material support. The second-tier commentary expands on this idea, highlighting the importance of allowing ministers to focus on their sacred duties and noting the societal benefits of supporting the gospel ministry. Through these insights, the verse underscores the significance of reciprocating material support for those who labor in the spiritual realm.",
+            "wordCount": 135,
+            "quoteTokenProportion": 27.38,
+            "qualityScore": 1.4671348509040159,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.12,
+            "commentatorTierSimilarities": [
+                26.84,
+                38.41,
+                34.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reciprocal relationship between Paul and the Corinthians is highlighted, emphasizing the value of the spiritual blessings he imparts to them. The antithetical language underscores the contrast between the intangible treasures of the Spirit and the tangible nourishment of the flesh. The recipients owe a debt of gratitude to Paul as he sowed precious spiritual gifts among them, and they are urged to provide material support in return. Supporting ministers in their sacred duties benefits society and allows them to focus on their important work.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.4207105956823731,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.58,
+            "commentatorTierSimilarities": [
+                25.15,
+                40.41,
+                34.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The reciprocal relationship between Paul and the Corinthians is emphasized, highlighting the value of the spiritual blessings he imparts to them. The contrast between the intangible treasures of the Spirit and the tangible nourishment of the flesh is evident. Paul sowed valuable spiritual gifts among the Corinthians and has a legitimate claim to their material support. Supporting ministers in their sacred duties benefits society and allows them to focus on their important work.",
+            "wordCount": 73,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.409682484415997,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.21,
+            "commentatorTierSimilarities": [
+                27.65,
+                37.15,
+                35.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The reciprocal relationship between Paul and the Corinthians is underscored, emphasizing the value of the spiritual blessings he imparts to them. The contrast between the intangible treasures of the Spirit and the tangible nourishment of the flesh illuminates the nature of their transaction. Paul, as their spiritual sower, rightly expects material support in return for the precious gifts he has sown among them. The importance of supporting ministers in their sacred duties is emphasized for the benefit of society and the fulfillment of their spiritual work.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 1.4608539591593865,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+            "commentatorTierSimilarities": [
+                25.42,
+                39.09,
+                35.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The reciprocal relationship between Paul and the Corinthians reveals the value of the spiritual blessings he imparts to them. The contrast between the intangible treasures of the Spirit and the tangible nourishment of the flesh accentuates the nature of their exchange. Paul expects material support as the sower of spiritual gifts among them. Supporting ministers in their sacred duties benefits society and allows them to focus on their important work.",
+            "wordCount": 70,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 1.3768478767499972,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.12,
+            "commentatorTierSimilarities": [
+                26.55,
+                36.05,
+                37.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

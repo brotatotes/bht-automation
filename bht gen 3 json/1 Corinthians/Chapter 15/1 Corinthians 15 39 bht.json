@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:14:15",
+    "verseRef": "1 Corinthians 15:39",
+    "bestBHT": {
+        "bht": "Paul affirms that our resurrection bodies will be genuine flesh, not illusory. He indicates that just as there is a diversity of flesh and bodies in the world, the same can be expected for our resurrected bodies. The argument holds true even if evolution is proven true. The resurrection entails a transformation from our earthly bodies to glorified bodies, devoid of weaknesses and mortality.",
+        "wordCount": 64,
+        "quoteTokenProportion": 47.83,
+        "qualityScore": 2.030137366504384,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+        "commentatorTierSimilarities": [
+            34.4,
+            31.56,
+            34.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He implies by the word that our resurrection bodies shall be in some sense really flesh, not mere phantoms of air.",
+            "As the kinds of flesh, however widely differing from one another, do not cease to be flesh, so the kinds of bodies, however differing from one another, are still bodies.",
+            "All this is to illustrate the difference of the new celestial body from its terrestrial seed, while retaining a substantial identity."
+        ],
+        "Albert Barnes": [
+            "There are many kinds of bodies; that all are not alike; that while they are bodies, yet they partake of different qualities, forms, and properties; and that, therefore, it is not absurd to suppose that God may transform the human body into a different form.",
+            "Why, the argument is, why should it be regarded as impossible? Why is it to be held that the human body may not undergo a transformation, or that it will be absurd to suppose that it may be different in some respects from what it is now?",
+            "The body of the worm; the chrysalis, and the butterfly is the same. It is the same animal still. Yet how different the gaudy and frivolous butterfly from the creeping and offensive caterpillar! So there may be a similar change in the body of the believer, and yet be still the same."
+        ],
+        "Marvin Vincent": [
+            "All flesh is not the same flesh.\" ",
+            "There is a great variety of organization among bodies which we know: it may fairly be inferred that there may be a new and different organization in those which we do not know.\" ",
+            "Flesh is the body of the earthly, living being, including the bodily form."
+        ],
+        "John Calvin": [
+            "Whatever diversity we see in any particular kind is a sort of prelude of the resurrection.",
+            "God clearly shows that it is no difficult thing with him to renew our bodies by changing the present condition of things.",
+            "Who that contemplates, with the mind of a philosopher, this current transformation, and knows that two years before the insect mounts into the air, even while it is living in water, it has the rudiments of wings, can deny that the body of a dead man may, at some future period, be again invested with vigor and activity, and soar to regions for which some latent organization may have peculiarly fitted it?"
+        ],
+        "Philip Schaff": [
+            "All flesh is not the same flesh.\" ",
+            "Neither are they, any more than those of the vegetable world, all of one type.",
+            "There is one flesh of men, and another flesh of beasts, and another flesh of birds, and another of fishes."
+        ],
+        "Archibald T. Robertson": [
+            "Variety exists along with kinship.",
+            "Progress is shown in the different kingdoms.",
+            "Even if evolution should prove to be true, Paul's argument remains valid."
+        ],
+        "John Gill": [
+            "All flesh is not the same flesh... all flesh is flesh, as to the nature and substance of it... yet not of equal worth, value, and excellency.\" ",
+            "The intent of this simile is only to show, that the resurrection of the dead will be in real flesh, in their own flesh, in the selfsame flesh, as to substance, with which they were clothed when on earth; but that it will, as to its qualities, be different from it.",
+            "Being free from all weakness, frailty, corruption, and mortality."
+        ],
+        "John Wesley": [
+            "Even earthy bodies differ from earthy, and heavenly bodies from heavenly.",
+            "What wonder then, if heavenly bodies differ from earthy?",
+            "The bodies which rise from those that lay in the grave."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 15:39, Paul emphasizes that our resurrection bodies will be real flesh, not mere illusions. He illustrates this by highlighting the variety of flesh on Earth, suggesting that there may be a new and different organization in our resurrected bodies. Just as there are different types of flesh and bodies in this world, there will be a substantial difference between our terrestrial bodies and our celestial bodies. Paul's argument remains valid, even if evolution is proven to be true. Ultimately, the resurrection promises a transformation of our earthly bodies into glorified bodies, free from weakness, corruption, and mortality.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.0961098500306563,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.04,
+            "commentatorTierSimilarities": [
+                35.41,
+                31.84,
+                32.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul affirms that our resurrection bodies will be genuine flesh, not illusory. He indicates that just as there is a diversity of flesh and bodies in the world, the same can be expected for our resurrected bodies. The argument holds true even if evolution is proven true. The resurrection entails a transformation from our earthly bodies to glorified bodies, devoid of weaknesses and mortality.",
+            "wordCount": 64,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.030137366504384,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+            "commentatorTierSimilarities": [
+                34.4,
+                31.56,
+                34.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul assures us that our resurrection bodies will indeed be real flesh, not just mere apparitions. He draws a parallel between the diverse types of flesh and bodies we observe on Earth, suggesting that our future bodies will possess a different organization while still maintaining a substantial identity. Even if the concept of evolution is proven true, it does not undermine Paul's argument. Instead, the resurrection promises a magnificent transformation from our earthly bodies to glorified bodies, free from all weaknesses and mortality.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.0163698213123453,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.39,
+            "commentatorTierSimilarities": [
+                34.62,
+                31.65,
+                33.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul assures us that our resurrection bodies will indeed be real flesh, not mere phantoms. He compares the varied types of flesh and bodies found on Earth to the potential diversity of our resurrected bodies. Even if evolution is true, it does not diminish the validity of Paul's argument. Instead, the resurrection offers a profound transformation from our earthly bodies to glorified bodies, free from weaknesses and mortality.",
+            "wordCount": 69,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.010792826716026,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.2,
+            "commentatorTierSimilarities": [
+                34.4,
+                31.51,
+                34.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul emphasizes that our resurrection bodies will be real flesh, not illusory. He illustrates this by highlighting the variety of flesh on Earth, suggesting a different organization in our glorified bodies. Paul's argument remains valid even if evolution is true. The resurrection promises a transformation from our earthly bodies to glorified bodies, free from weaknesses, corruption, and mortality.",
+            "wordCount": 59,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.9667794117647015,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.74,
+            "commentatorTierSimilarities": [
+                35.78,
+                30.12,
+                34.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

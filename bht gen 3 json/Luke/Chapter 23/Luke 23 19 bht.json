@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:23:23",
+    "verseRef": "Luke 23:19",
+    "bestBHT": {
+        "bht": "The accused were regarded as heroic by some because of their act of rebellion against the government. However, their motives were not aligned with Jesus but were driven by personal gain and violence. According to the quotes, they engaged in sedition and murder, which led to their imprisonment and impending execution. The uncommon form used in the accusation emphasizes the severity of their crimes.",
+        "wordCount": 64,
+        "quoteTokenProportion": 40.43,
+        "qualityScore": 1.1567575172022024,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.81,
+        "commentatorTierSimilarities": [
+            42.58,
+            0.0,
+            57.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Who [\u03bf\u03c3\u03c4\u03b9\u03c2] . Classifying him. One of such a kind as that he had been imprisoned, etc."
+        ],
+        "Archibald T. Robertson": [
+            "If Jesus had raised insurrection against Caesar, these accusers would have rallied to his standard.",
+            "They cared nought for this. In fact, the murderer was counted a hero like bandits and gangsters today with some sentimentalists.",
+            "Periphrastic aorist passive indicative of \u03b2\u03b1\u03bb\u03bb\u03c9, a quite unusual form."
+        ],
+        "John Gill": [
+            "He had made an insurrection in it, in opposition to the government, in order to have thrown off the yoke, and to have asserted and maintained their liberties, as a free people.",
+            "Or rather to have seized and plundered the properties of other people, since he is represented elsewhere as a robber.",
+            "For these things, sedition, and murder, he was cast into prison; where he lay till this feast, in order to be executed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that the accused had engaged in a rebellious act against the government in order to assert their freedom, making them a hero in the eyes of some. However, their motivations were not in support of Jesus, but rather for personal gain and violence. This is evident from the fact that they were counted as a robber and murderer, and were imprisoned in preparation for execution. The usage of the periphrastic aorist passive indicative of \u03b2\u03b1\u03bb\u03bb\u03c9 in the commentary points to the uncommon form of the accusation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.2106235479981735,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.6,
+            "commentatorTierSimilarities": [
+                46.36,
+                0.0,
+                53.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The accused in this passage were considered a hero by some due to their act of rebellion against the government. However, it is important to note that their motives were not aligned with Jesus, but rather with personal gain and violence. The commentary suggests that the accused engaged in sedition and murder, resulting in their imprisonment and imminent execution. The unusual form of the accusation highlights the gravity of their crimes.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.1126535116882064,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.34,
+            "commentatorTierSimilarities": [
+                45.07,
+                0.0,
+                54.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The accused were regarded as heroic by some because of their act of rebellion against the government. However, their motives were not aligned with Jesus but were driven by personal gain and violence. According to the quotes, they engaged in sedition and murder, which led to their imprisonment and impending execution. The uncommon form used in the accusation emphasizes the severity of their crimes.",
+            "wordCount": 64,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.1567575172022024,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.81,
+            "commentatorTierSimilarities": [
+                42.58,
+                0.0,
+                57.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The accused in this verse were praised by certain individuals for their act of rebellion, although their true intentions were not in support of Jesus. Instead, they were driven by self-interest and violence, being described as robbers and murderers. As a result of their actions, they were imprisoned and awaited execution. The usage of an unusual form in the accusation highlights the seriousness of the charges brought against them.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.246797753317897,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.8,
+            "commentatorTierSimilarities": [
+                47.13,
+                0.0,
+                52.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The accused individuals in this context were seen as heroes by some due to their participation in a rebellion against the government. However, it is important to note that their motives were not aligned with Jesus. Instead, their actions stemmed from self-interest and a propensity towards violence. Described as robbers and murderers, they were imprisoned and awaited execution. The usage of an unusual form in the accusation serves to underscore the gravity of the charges leveled against them.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.062133087729643,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.66,
+            "commentatorTierSimilarities": [
+                46.36,
+                0.0,
+                53.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

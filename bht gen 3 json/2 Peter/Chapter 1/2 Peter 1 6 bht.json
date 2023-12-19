@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:40:17",
+    "verseRef": "2 Peter 1:6",
+    "bestBHT": {
+        "bht": "Let discriminating knowledge bear fruit through self-control and patient endurance. It is not merely stoical endurance, but endurance united with trust in God. Self-control moves weakness and imparts strength, preventing the mind from weakening due to incontinence. Patient endurance should be accompanied by godliness, a continual sense of God's presence, and a filial fear and confidence in Him. By cultivating these virtues, believers can bear all conditions and events, love others, and practice true piety.",
+        "wordCount": 78,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.008528039971678,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+        "commentatorTierSimilarities": [
+            38.9,
+            31.41,
+            29.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let such discriminating knowledge not be without its fruit, of steady holding in hand of the passions and tempers.\" ",
+            "In your self-restraint, patient endurance.\" ",
+            "It is not to be mere brute Stoical endurance, but united with God-fearing and God-trusting."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Incontinence weakens the mind; continence, or self-control, moves weakness and imparts strength.",
+            "And in your patient endurance godliness; it is not to be mere stoical endurance, but united to [and flowing from] God-trusting.",
+            "Let there be the practical fruit of self-control as to one's lusts and passions."
+        ],
+        "Albert Barnes": [
+            "We are to allow none of them to obtain control over us.",
+            "Everything is to be confined within proper limits.",
+            "True piety."
+        ],
+        "Marvin Vincent": [
+            "Patience...the heroic, brave patience with which a Christian not only bears but contends.",
+            "That virtue which qualifieth us to bear all conditions and all events, by God's disposal incident to us, with such apprehensions and persuasions of mind, such dispositions and affections of heart, such external deportment and practices of life as God requireth and good reason directeth.",
+            "He follows this with the broader affection which should characterize Christians, and which Paul lauds in 1 Corinthians 13:0, the love of men as men."
+        ],
+        "Philip Schaff": [
+            "The virtue of self-control is so related to 'knowledge,' that the one should not be in exercise apart from the other. Extravagance is the child of ignorance.",
+            "It [patient endurance] is a quality never ascribed to God Himself. Where He is spoken of as the 'God of patience,' it is in the sense of the Giver of patience to others.",
+            "Christian self-control is to be practiced in and along with the spirit of patient endurance, which saves it from harshness and fitfulness, confirms it into constancy, and mellows it into tenderness and humility."
+        ],
+        "Archibald T. Robertson": [
+            "Temperance (\u03c4\u03b7\u03bd \u03b5\u03b3\u03ba\u03c1\u03b1\u03c4\u03b5\u03b9\u03b1\u03bd). Self-control. Old word (from \u03b5\u03b3\u03ba\u03c1\u03b1\u03c4\u03b7\u03c2, \u03b5\u03bd and \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2, one holding himself in as in Titus 1:8), in N.T. only here, Acts 24:25; Galatians 5:23. The opposite of the \u03c0\u03bb\u03b5\u03bf\u03bd\u03b5\u03be\u03b9\u03b1 of the heretics.",
+            "Patience (\u03c4\u03b7\u03bd \u03c5\u03c0\u03bf\u03bc\u03bf\u03bd\u03b7\u03bd). For which see James 1:3.",
+            "Godliness (\u03c4\u03b7\u03bd \u03b5\u03c5\u03c3\u03b5\u03b2\u03b5\u03b9\u03b1\u03bd). For which see verse 2 Peter 1:3."
+        ],
+        "John Gill": [
+            "Avoiding all excess in eating and drinking, and all impure and unclean lusts; for it signifies nothing what a man knows, or professes to know, if his life is a scene of intemperance and debauchery.",
+            "Moreover, this may include abstinence, not only from hurtful lusts, but from the use of things indifferent, when the peace and comfort of a weak brother are endangered; for then to knowledge must be added love, otherwise that knowledge will not be right, at least not rightly used.",
+            "and under affliction from the hand of God, that there be no murmuring nor repining; and under reproaches and persecutions from men, that they faint not, and are not discouraged by them; and in the expectation of the heavenly glory."
+        ],
+        "John Wesley": [
+            "The more knowledge you have, the more renounce your own will; indulge yourself the less.",
+            "Christian temperance implies the voluntary abstaining from all pleasure which does not lead to God.",
+            "And to patience godliness \u2014 Its proper support: a continual sense of God's presence and providence, and a filial fear of, and confidence in, him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let discerning knowledge be accompanied by the practical fruit of self-control, restraining passions and tempers. This self-restraint should be combined with patient endurance, not just as stoical endurance, but as endurance united with trust in God. Self-control moves weakness and imparts strength, preventing the weakening of the mind through incontinence. In addition, patient endurance should be accompanied by godliness, characterized by a continual sense of God's presence and providence, and a filial fear of and confidence in him. By exercising these virtues, Christians are able to bear all conditions and events, while also loving others as men and practicing true piety. This Christian temperance includes voluntary abstaining from pleasures that do not lead to God, avoiding excess in all things. Overall, by cultivating these virtues, believers can navigate through life with a steady hand and a firm foundation in God.",
+            "wordCount": 144,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.9318089553990836,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.57,
+            "commentatorTierSimilarities": [
+                35.3,
+                28.78,
+                35.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let the discriminating knowledge be accompanied by the practical fruit of self-control, restraining passions and tempers. Self-restraint should be combined with patient endurance, not just as stoical endurance, but as endurance united with trust in God. Self-control moves weakness and imparts strength, preventing the weakening of the mind through incontinence. Patient endurance should be accompanied by godliness, characterized by a continual sense of God's presence and providence, and a filial fear of and confidence in him. By exercising these virtues, Christians can bear all conditions and events, loving others as men and practicing true piety.",
+            "wordCount": 99,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.9777756871746628,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.1,
+            "commentatorTierSimilarities": [
+                37.99,
+                29.59,
+                32.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let discriminating knowledge bear fruit through self-control and patient endurance. It is not merely stoical endurance, but endurance united with trust in God. Self-control moves weakness and imparts strength, preventing the mind from weakening due to incontinence. Patient endurance should be accompanied by godliness, a continual sense of God's presence, and a filial fear and confidence in Him. By cultivating these virtues, believers can bear all conditions and events, love others, and practice true piety.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.008528039971678,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                38.9,
+                31.41,
+                29.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let the fruit of discerning knowledge manifest in the practicality of self-control and patient endurance, not mere stoical endurance but united with trust in God. Self-control empowers, moving weakness and imparting strength to a mind weakened by incontinence. Accompanying patient endurance is godliness, which involves a constant awareness of God's presence, His providence, and a reverential fear and confident reliance on Him. These virtues enable believers to navigate through life's challenges, exhibiting love towards others and demonstrating true piety.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.9868331293532369,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.4,
+            "commentatorTierSimilarities": [
+                36.8,
+                30.16,
+                33.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let discerning knowledge bear fruit in the practicality of self-control and patient endurance. Self-control moves weakness, imparts strength, and prevents the mind from weakening due to incontinence. Accompanied by godliness, marked by a constant awareness of God's presence and providence, as well as a reverential fear and confident reliance on Him, these virtues empower believers to navigate life's challenges, exhibiting love towards others and demonstrating true piety.",
+            "wordCount": 71,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.9124376017651497,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                36.88,
+                30.31,
+                32.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

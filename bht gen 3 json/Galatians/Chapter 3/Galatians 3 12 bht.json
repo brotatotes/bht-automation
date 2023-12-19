@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 14:15:54",
+    "verseRef": "Galatians 3:12",
+    "bestBHT": {
+        "bht": "In the discussion of the law and faith, it is evident that they are fundamentally different. The law, characterized by its demand for obedience, does not require faith, grace, or mercy. Paul emphasizes that the law is useless without actually being followed, regardless of one's reliance on it. The law disregards a person's faith and centers solely on their actions. Consequently, it becomes clear that justification cannot be achieved through the law, as it is not founded on faith.",
+        "wordCount": 81,
+        "quoteTokenProportion": 46.43,
+        "qualityScore": 2.308213881451502,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.09,
+        "commentatorTierSimilarities": [
+            28.59,
+            36.27,
+            35.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But in the law no man is justified with God is evident.",
+            "The just by faith shall live.",
+            "The law is not of faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. doeth\u2014Many depended on the",
+            "\tlaw although they did not keep it; but without doing, saith Paul, it",
+            "\tis of no use to them (Romans 2:13;",
+            "\tRomans 2:17; Romans 2:23;",
+            "\tRomans 10:5)."
+        ],
+        "Albert Barnes": [
+            "The Law is not a matter of faith; it does not relate to faith; it does not require faith; it deals in other matters, and it pertains to another system than to faith.",
+            "This is the language of the Law, and this is what the Law teaches. It does not make provision for faith, but it requires unwavering and perpetual obedience if man would obtain life by it.",
+            "The Law requires unwavering and perpetual obedience, if man would obtain life by it."
+        ],
+        "John Calvin": [
+            "The contradiction between the law and faith lies in the matter of justification.",
+            "The difference lies in this, that man, when he fulfils the law, is reckoned righteous by a legal righteousness.",
+            "But since God promises life to the doers of the law, why does Paul affirm that they are not righteous? The reply to this objection is easy. There are none righteous by the works of the law, because there are none who do those works."
+        ],
+        "Archibald T. Robertson": [
+            "The law is not of faith (\u03bf \u03bd\u03bf\u03bc\u03bf\u03c2 \u03bf\u03c5\u03ba \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03ba \u03c0\u03b9\u03c3\u03c4\u03b5\u03c9\u03c2). Law demands complete obedience and rests not on mercy, faith, grace. "
+        ],
+        "John Gill": [
+            "The law does not consist of faith in Christ, nor does it require it, and that a man should live by it upon his righteousness; it is the Gospel that reveals the righteousness of Christ, and directs and encourages men to believe in him and be saved.",
+            "The law does not take any notice of a man's faith; nor has it anything to do with a man as a believer, but as a doer, in the point of justification.",
+            "Since eternal life is a promise made before the world began, is provided for in an everlasting covenant, is revealed in the Gospel, and is the pure gift of God's grace through Christ, it seems that it never was the will of God that it should be obtained by the works of the law."
+        ],
+        "John Wesley": [
+            "And the law is not of faith \u2014 But quite opposite to it: it does not say, Believe; but, Do. Leviticus 18:5"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Galatians 3:12, Paul makes clear that the law and faith are fundamentally different. The law does not require faith, as it demands complete obedience and does not rest on mercy, grace, or faith. While some may depend on the law without truly keeping it, Paul emphasizes the uselessness of the law without actually doing it. The law lacks any regard for a person's faith or belief, focusing solely on their actions. Therefore, it is evident that justification cannot be achieved through the law, as it is not of faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.4877124166120406,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.06,
+            "commentatorTierSimilarities": [
+                29.4,
+                34.69,
+                35.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the debate between the law and faith, Galatians 3:12 affirms the stark contrast between the two. The law, which demands complete obedience and lacks faith, rests solely on works and not on grace or faith. Paul highlights that the law does not concern itself with a person's belief and focuses on their actions instead. Consequently, it becomes apparent that justification cannot be attained through the law. The law is not rooted in faith, making it ineffectual for salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.3164922707975655,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.36,
+            "commentatorTierSimilarities": [
+                29.19,
+                34.61,
+                36.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the discussion of the law and faith, it is evident that they are fundamentally different. The law, characterized by its demand for obedience, does not require faith, grace, or mercy. Paul emphasizes that the law is useless without actually being followed, regardless of one's reliance on it. The law disregards a person's faith and centers solely on their actions. Consequently, it becomes clear that justification cannot be achieved through the law, as it is not founded on faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.308213881451502,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.09,
+            "commentatorTierSimilarities": [
+                28.59,
+                36.27,
+                35.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The distinction between the law and faith is evident in Galatians 3:12. The law does not involve faith; it demands complete obedience without the need for grace or mercy. Paul emphasizes that simply depending on the law without actually keeping it is futile. The law disregards faith and focuses solely on actions. Therefore, it is clear that justification cannot be attained through the law, as it is devoid of faith.",
+            "wordCount": 69,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 2.4479857347690923,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.74,
+            "commentatorTierSimilarities": [
+                29.62,
+                35.02,
+                35.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The law and faith stand in stark contrast, as Galatians 3:12 reveals. The law does not require faith; instead, it necessitates unwavering and perpetual obedience. It operates in a different realm than faith, dealing with matters unrelated to it. Unlike faith, the law does not rest on mercy, grace, or belief. The law is ineffectual without action, and its focus lies solely on a person's deeds rather than their faith. Hence, it is clear that the law cannot bring about justification through belief.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.3743267274611055,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.29,
+            "commentatorTierSimilarities": [
+                28.22,
+                36.67,
+                35.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

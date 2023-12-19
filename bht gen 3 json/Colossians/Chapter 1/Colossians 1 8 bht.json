@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:19:04",
+    "verseRef": "Colossians 1:8",
+    "bestBHT": {
+        "bht": "The Apostle commends the Colossians for their love in the Spirit, grounded in the Holy Spirit. This love is a gift of the Spirit and is a fruit of the hope they have in Christ. It is important to note that their love is not a mere natural affection, but a love worked in their hearts by the agency of the Holy Spirit. It is a spiritual love, consecrated to the service of piety and not dependent on external causes. This love is the first and chief fruit of the Spirit, manifesting in their love for all the saints.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 2.748940203883669,
+        "qualityScoreNormalizedComparedToV2BHTs": 82.74,
+        "commentatorTierSimilarities": [
+            34.74,
+            29.08,
+            36.18
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This love is emphatically a gift, and in its full reference the chief gift, of the Spirit.",
+            "This love of the Colossians he lays stress on, as a ground for thankfulness, a fruit of the hope laid up for them.",
+            "He now proceeds, gently and delicately at first, to touch on matters needing correction."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "your love\u2014 ( :-); \"to all the saints.\" ",
+            "the sphere or element IN which alone true love is found",
+            "Love is the first and chief fruit of the Spirit"
+        ],
+        "Albert Barnes": [
+            "The love wrought in you by the Holy Spirit.",
+            "It was not mere natural affection.",
+            "Love worked in their hearts by the agency of the Holy Spirit."
+        ],
+        "Marvin Vincent": [
+            "Declared [\u03b4\u03b7\u03bb\u03c9\u03c3\u03b1\u03c2] . Or made manifest. See on 1 Corinthians 1:11. In the Spirit. Connect with your love. Compare Galatians 5:22."
+        ],
+        "John Calvin": [
+            "Love in the Spirit I take to mean, spiritual love, according to the view of Chrysostom.",
+            "Now, spiritual love is of such a nature as has no view to the world, but is consecrated to the service of piety.",
+            "Carnal friendships depend on external causes."
+        ],
+        "Philip Schaff": [
+            "Your love in the Spirit. This \u2018love\u2019 is that spoken of in Colossians 1:4, but here described as to its source and sphere; it was in the fellowship of the Holy Spirit.\" ",
+            "The Apostle commends where he can, even when he must also rebuke.\" ",
+            "The mystical (Gnostic) errorists in every age have frequently deserved similar praise, but this should not hide, or excuse (still less be turned into argument in favor of) their errors."
+        ],
+        "Archibald T. Robertson": [
+            "Epaphras told Paul about their 'love in the Spirit,' grounded in the Holy Spirit.",
+            "Their love in the Spirit, grounded in the Holy Spirit.",
+            "Love in the Spirit, grounded in the Holy Spirit."
+        ],
+        "John Gill": [
+            "This, he says, was in the Spirit; it was spiritual love, to distinguish it from a carnal and worldly one.",
+            "They loved him for the spiritual grace that was in him, the spiritual gifts bestowed on him, the spiritual service he was engaged in, and the spiritual usefulness he was of.",
+            "Their affections were knit unto him: or this their love was 'in the Holy Spirit', as the Ethiopic version reads it; it was a fruit of the Spirit of God."
+        ],
+        "John Wesley": [
+            "Your love in the Spirit \u2014 Your love wrought in you by the Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle commends the Colossians for their love in the Spirit, grounded in the Holy Spirit. This love is a gift of the Spirit and is a fruit of the hope they have in Christ. It is important to note that their love is not a mere natural affection, but a love worked in their hearts by the agency of the Holy Spirit. It is a spiritual love, consecrated to the service of piety and not dependent on external causes. This love is the first and chief fruit of the Spirit, manifesting in their love for all the saints.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.748940203883669,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.74,
+            "commentatorTierSimilarities": [
+                34.74,
+                29.08,
+                36.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Colossians are commended for their love in the Spirit, a gift and chief fruit of the Spirit. This love is grounded in the Holy Spirit and is a result of their hope in Christ. It is a spiritual love, distinct from worldly affections, and is not dependent on external causes. Their love is manifested in their affection for all the saints.",
+            "wordCount": 62,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.622979274577342,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.55,
+            "commentatorTierSimilarities": [
+                35.47,
+                27.17,
+                37.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Colossians are praised for their love in the Spirit, which is a gift and the foremost fruit of the Spirit. This love, rooted in the Holy Spirit, is a result of their hope in Christ and is manifested in their affection for all the saints. It is a spiritual love that is consecrated to the service of piety and does not rely on worldly influences. Their love, worked in their hearts by the agency of the Holy Spirit, demonstrates their genuine faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.5991505397552563,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.76,
+            "commentatorTierSimilarities": [
+                34.21,
+                29.18,
+                36.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Colossians receive praise for their love in the Spirit, a gift and chief fruit of the Spirit, grounded in the Holy Spirit. This love is a result of their hope in Christ and is manifested in their affection for all the saints. It is spiritual in nature, consecrated to the service of piety and unaffected by worldly influences. Their love, produced by the work of the Holy Spirit in their hearts, serves as a demonstration of their genuine faith.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 2.492613812711511,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.22,
+            "commentatorTierSimilarities": [
+                34.82,
+                28.08,
+                37.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Colossians are commended for their love in the Spirit, which is a gift and fruit of the Holy Spirit. Their love, grounded in the Spirit, is a result of their hope in Christ. It is a spiritual love, consecrated to the service of piety, and not motivated by worldly influences. Their love is manifested in their affection for all the saints, reflecting the work of the Holy Spirit in their hearts.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.6917545197613455,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.84,
+            "commentatorTierSimilarities": [
+                34.74,
+                27.61,
+                37.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

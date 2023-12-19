@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 16:18:24",
+    "verseRef": "Luke 12:9",
+    "bestBHT": {
+        "bht": "Those who deny Christ will be denied by Him in the presence of the angels of God and the Father in heaven. This denial is reserved for those who persist in their denial, living and dying as deniers of Christ. Consequently, they will not be granted admission into heaven but will be sent to everlasting burnings, where they will experience torment with fire and brimstone in the presence of the holy angels.",
+        "wordCount": 72,
+        "quoteTokenProportion": 46.81,
+        "qualityScore": 1.751809530595801,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+        "commentatorTierSimilarities": [
+            38.08,
+            0.0,
+            61.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Shall be denied.\" ",
+            "Instead of 'in the presence of the angels of God' Matthew 10:33 has 'before my Father who is in heaven.'"
+        ],
+        "John Gill": [
+            "That is, that continues to deny Christ, and lives and dies a denier of him.",
+            "They will be denied by Christ as belonging to him; they will be denied admission into heaven.",
+            "They will be sent into everlasting burnings, and be ever tormented with fire and brimstone, in the presence of the holy angels."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who deny Christ will themselves be denied by Him, both in the presence of the angels of God and before the Father in heaven. This denial is not limited to a momentary act, but applies to those who persist in their denial of Christ, living and dying as deniers of Him. As a result, they will not be admitted into heaven but instead will be consigned to everlasting burnings and tormented with fire and brimstone in the presence of the holy angels.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.7099735007628976,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                37.79,
+                0.0,
+                62.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who deny Christ will be denied by Him, both in the presence of the angels of God and before the Father in heaven. This denial is not limited to a momentary act, but applies to those who persist in their denial of Christ, living and dying as deniers of Him. As a result, they will not be admitted into heaven but will be sent into everlasting burnings, tormented with fire and brimstone in the presence of the holy angels.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.7342470446437568,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.01,
+            "commentatorTierSimilarities": [
+                38.46,
+                0.0,
+                61.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who deny Christ will themselves be denied by Him. This denial extends to both the presence of the angels of God and the Father in heaven. It is not a momentary act, but rather pertains to those who persist in their denial of Christ, living and dying as deniers of Him. Consequently, they will not be granted entry into heaven but instead will be condemned to everlasting burnings and subjected to the torment of fire and brimstone in the presence of the holy angels.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.5985851414857728,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+            "commentatorTierSimilarities": [
+                38.55,
+                0.0,
+                61.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who deny Christ will themselves be denied by Him, both in the presence of the angels of God and before the Father in heaven. This denial is not limited to a momentary act, but applies to those who persist in their denial of Christ, living and dying as deniers of Him. As a result, they will not be admitted into heaven but will be sent into everlasting burnings, tormented with fire and brimstone in the presence of the holy angels.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.7247971665571102,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                38.03,
+                0.0,
+                61.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who deny Christ will be denied by Him in the presence of the angels of God and the Father in heaven. This denial is reserved for those who persist in their denial, living and dying as deniers of Christ. Consequently, they will not be granted admission into heaven but will be sent to everlasting burnings, where they will experience torment with fire and brimstone in the presence of the holy angels.",
+            "wordCount": 72,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 1.751809530595801,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+            "commentatorTierSimilarities": [
+                38.08,
+                0.0,
+                61.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

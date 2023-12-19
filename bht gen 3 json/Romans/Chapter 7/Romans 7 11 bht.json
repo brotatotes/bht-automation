@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:06:01",
+    "verseRef": "Romans 7:11",
+    "bestBHT": {
+        "bht": "Sin, having found an occasion, completely made me lose my way and deceived me. This reference to the Tempter deceiving Eve points to the effect of the fall as the act of the Tempter. Sin, like a thief, leads a person astray into some bypath and then murders them. This universal experience of sin's deception and deadly effect has been reproduced in every age, as sinners realize they had been hastening to death, loathing and abominating themselves when they perceive the turpitude of sin.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.0938732306886134,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+        "commentatorTierSimilarities": [
+            24.32,
+            36.66,
+            39.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "sin, having found an occasion, deceived me, and through it slew me.",
+            "there is a plain reference to the Tempter deceiving Eve.",
+            "but there is an allusion again to the effect of the fall as the act of the Tempter."
+        ],
+        "Albert Barnes": [
+            "His corrupt and rebellious propensities, excited by the Law, led him astray; caused him more and more to sin; practiced a species of deception on him by urging him on headlong, and without deliberation, into aggravated transgression.",
+            "In this sense, all sinners are deceived. Their passions urge them on, deluding them, and leading them further and further from happiness, and involving them, before they are aware, in crime and death.",
+            "No being in the universe is more deladed than a sinner in the indulgence of evil passions."
+        ],
+        "Marvin Vincent": [
+            "Deceived [\u03b5\u03be\u03b7\u03c0\u03b1\u03c4\u03b7\u03c3\u03b5\u03bd] . Rev., beguiled Only in Paul. Compare 2 Corinthians 11:3; 2 Thessalonians 2:3."
+        ],
+        "John Calvin": [
+            "As we begin then only to perceive our erroneous course, when the Lord loudly reproves us, Paul says rightly, that we are led out of the way, when sin is made evident by the law.",
+            "Sinners, who before went on heedlessly, loathe and abominate themselves when they perceive, through the light which the law throws on the turpitude of sin, that they had been hastening to death.",
+            "The law of itself does not bring death, but this happens through something else, and this is as it were adventitious."
+        ],
+        "Philip Schaff": [
+            "The word 'sin' is herein more emphatic than in Romans 7:8. It was not in the 'law,' but 'sin' that wrought this sad result.",
+            "Thus what applies to Satan, that he was first man's tempter, and then his accuser, applies likewise to sin.",
+            "The experience here portrayed has been reproduced in every age: this is the universal effect of God's law upon sinful man whose conscience is not yet dead."
+        ],
+        "Archibald T. Robertson": [
+            "First aorist active indicative of \u03b5\u03be\u03b1\u03c0\u03b1\u03c4\u03b1\u03c9, old verb, completely (\u03b5\u03be) made me lose my way (\u03b1 privative, \u03c0\u03b1\u03c4\u03b5\u03c9, to walk).",
+            "Only in Paul in N.T.",
+            "'Killed me off,' made a clean job of it."
+        ],
+        "John Gill": [
+            "Sin, which is a transgression of the law, is that which deceives or leads out of the way, as the word signifies, and then kills.",
+            "The metaphor is taken from a thief or a robber, who leads a man out of the way into some bypath, and then murders him.",
+            "Though the law is a killing letter, the ministration of condemnation and death, yet it is not the cause of it; but sin...is that which deceives or leads out of the way, as the word signifies, and then kills."
+        ],
+        "John Wesley": [
+            "Deceived me \u2014 While I expected life by the law, sin came upon me unawares and slew all my hopes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Sin, having found an occasion, completely made me lose my way, deceived me, and through it, made a clean job of it by slaying me. This reference to the Tempter deceiving Eve points to the effect of the fall as the act of the Tempter. Sin, like a thief, leads a person astray into some bypath and then murders them. This universal experience of sin's deception and deadly effect has been reproduced in every age. The law, while not the cause of death, exposes the turpitude of sin, making sinners loathe and abominate themselves as they realize they had been hastening to death.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 2.0510711046203722,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                23.24,
+                37.03,
+                39.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sin, having found an occasion, completely made me lose my way and deceived me. This reference to the Tempter deceiving Eve points to the effect of the fall as the act of the Tempter. Sin, like a thief, leads a person astray into some bypath and then murders them. This universal experience of sin's deception and deadly effect has been reproduced in every age. The law exposes the turpitude of sin, making sinners realize they had been hastening to death.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.0531011005001307,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                23.22,
+                36.8,
+                39.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sin, having found an occasion, completely made me lose my way and deceived me. This reference to the Tempter deceiving Eve points to the effect of the fall as the act of the Tempter. Sin, like a thief, leads a person astray into some bypath and then murders them. This universal experience of sin's deception and deadly effect has been reproduced in every age, as sinners realize they had been hastening to death, loathing and abominating themselves when they perceive the turpitude of sin.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.0938732306886134,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+            "commentatorTierSimilarities": [
+                24.32,
+                36.66,
+                39.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sin, having found an occasion, deceived me and through it, slew me. This allusion to the Tempter's deception of Eve emphasizes the effect of the fall. Sin, like a robber, leads a person astray and then kills them. This experience of being deceived and led astray by sin has been universal throughout time. The law exposes the foulness of sin, causing sinners to look upon themselves with disgust as they realize they were headed towards death.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.8757940631028143,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.71,
+            "commentatorTierSimilarities": [
+                25.5,
+                35.71,
+                38.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sin, having found an occasion, beguiled and completely made me lose my way. This reference to the Tempter's deception of Eve presents the effect of the fall as the act of the Tempter. Sin, like a thief, leads a person into a bypath and then murders them. This universal experience of sin's deception and deadly effect has been observed throughout history. The law exposes the wickedness of sin, prompting sinners to despise and abhor themselves as they recognize their journey towards death.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.957134238665809,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.42,
+            "commentatorTierSimilarities": [
+                22.53,
+                37.9,
+                39.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

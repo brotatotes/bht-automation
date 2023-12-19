@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:27:00",
+    "verseRef": "Acts 5:36",
+    "bestBHT": {
+        "bht": "It is highly unlikely that St. Luke would have fabricated the words attributed to Gamaliel, especially considering the historical accuracy of Luke's other writings and his connection to St. Paul, who was a pupil of Gamaliel. Gamaliel's reference to impostors named Simon and Judas, who incited rebellion, adds credibility to his advice to let the apostles go. This cautionary tale serves as a reminder that those who advance themselves unadvisedly often face unfortunate consequences by the just judgment of God. While Gamaliel's mention of Theudas might have been historically contested, it serves to demonstrate that impostors and troublemakers often failed in their attempts. In the face of persecution and unmerited suffering, the apostles' unwavering dedication is truly commendable. Their steadfastness is all the more remarkable, considering the exemplary faith they exhibited after Gamaliel's advice of caution.",
+        "wordCount": 140,
+        "quoteTokenProportion": 33.7,
+        "qualityScore": 1.5016609591362498,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+        "commentatorTierSimilarities": [
+            29.22,
+            30.91,
+            39.87
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We are plainly in no position to charge St. Luke with having put into the mouth of Gamaliel words which he could not have uttered.",
+            "Such impostors were too frequent, for any one to be able to say that there was not one of this name, which was by no means uncommon, at the time specified.",
+            "It is exceedingly improbable, considering the time and circumstances of the writing of the Acts, and the evident supervision of them by St. Paul, the pupil of Gamaliel, that a gross historical mistake should have been here put into his mouth."
+        ],
+        "Albert Barnes": [
+            "For before those days - The 'advice' of Gamaliel was to permit these men to go on.",
+            "Of this man nothing more is known than is here recorded.",
+            "Claiming to be an eminent prophet probably, or the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Joined themselves [\u03c0\u03c1\u03bf\u03c3\u03b5\u03ba\u03bf\u03bb\u03bb\u03b7\u03b8\u03b7] . The best texts read prosekliqh, were inclined; i e., leaned to, or took sides with."
+        ],
+        "John Calvin": [
+            "Men have unlucky success when as they advance themselves un-advisedly; and that cometh to pass by the just judgment of God.\" ",
+            "Gamaliel rehearsed not the act within a day or two after. Therefore that space of time is complete whereof I spake. Wherefore the constancy of the apostles was the more excellent, who, though they be so evil rewarded for those long pains which they had endured, yet are they not discouraged, neither do they cease to hold on as they had begun.",
+            "Yet he speaketh doubtfully, because he provideth only for quietness, all inquiry being set apart. This is only to be allowed in his speech, that he feareth [deterreth] the wicked from wicked boldness, because there is nothing more to be feared than to strive against God."
+        ],
+        "Philip Schaff": [
+            "He does not speak of ancient records, though he might have done so, but of more recent histories, which are most powerful to induce belief.",
+            "This is one of the so-called historical inaccuracies of the \u2018Acts.\u2019",
+            "It cannot for one moment be conceded that in the speech of Gamaliel, reported by the author of the \u2018Acts,\u2019 a grave historical error exists, considering that the whole writing of the \u2018Acts\u2019 was evidently supervised by St. Paul, the pupil of Gamaliel."
+        ],
+        "Archibald T. Robertson": [
+            "Josephus gives an account of four men named Simon who followed each other within forty years, and of three named Judas within ten years, who were all instigators of rebellion\" (Hackett).",
+            "To be somebody (\u03b5\u03b9\u03bd\u03b1 \u03c4\u03b9\u03bd\u03b1). Indirect assertion with the infinitive and the accusative of general reference\" (\u03b5\u03b1\u03c5\u03c4\u03bf\u03bd) and \u03c4\u03b9\u03bd\u03b1, predicate accusative. \u03a4\u03b9\u03bd\u03b1 could be \"anybody\" or \"somebody\" according to context, clearly \"somebody\" of importance here.",
+            "Were dispersed (\u03b4\u03b9\u03b5\u03bb\u03c5\u03b8\u03b7\u03c3\u03b1\u03bd). First aorist passive indicative (effective aorist) of \u03b4\u03b9\u03b1\u03bb\u03c5\u03c9, old verb to dissolve, to go to pieces."
+        ],
+        "John Gill": [
+            "This instance Gamaliel produces, to show that impostors and seditious persons, such as the apostles were thought to be, seldom succeeded, but generally failed in their attempts, and were blasted.",
+            "the waters would divide and leave them passage to go over dryfoot; but Cuspius Fadus, who then had the administration of Judea, sent out some troops of horse, before they were aware, and killed many of them, and took divers others, and brought them in triumph to Jerusalem, with the head of Theudas.",
+            "Just as Theucharis is put for Theocharis, and Theudosia for Theodosia: but it seems rather to be an Hebrew name; and so Jerom i took it to be, who renders it 'praise': but who the man was is not certain; however, he rose up, as Gamaliel says, and made an insurrection."
+        ],
+        "John Wesley": [
+            "Before these days \u2014 He prudently mentions the facts first, and then makes the inference."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is highly unlikely that St. Luke would have fabricated the words attributed to Gamaliel, especially considering the historical accuracy of Luke's other writings and his connection to St. Paul, who was a pupil of Gamaliel. Gamaliel's reference to impostors named Simon and Judas, who incited rebellion, adds credibility to his advice to let the apostles go. This cautionary tale serves as a reminder that those who advance themselves unadvisedly often face unfortunate consequences by the just judgment of God. While Gamaliel's mention of Theudas might have been historically contested, it serves to demonstrate that impostors and troublemakers often failed in their attempts. In the face of persecution and unmerited suffering, the apostles' unwavering dedication is truly commendable. Their steadfastness is all the more remarkable, considering the exemplary faith they exhibited after Gamaliel's advice of caution.",
+            "wordCount": 140,
+            "quoteTokenProportion": 33.7,
+            "qualityScore": 1.5016609591362498,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+            "commentatorTierSimilarities": [
+                29.22,
+                30.91,
+                39.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is highly improbable that St. Luke would have included historically inaccurate information in the words attributed to Gamaliel, given the oversight of St. Paul, a pupil of Gamaliel, in the writing of Acts. Gamaliel's reference to impostors named Simon and Judas who incited rebellion lends credibility to his advice to let the apostles go. This cautionary tale highlights the potential consequences of unwise actions, as the just judgment of God often befalls those who advance themselves without guidance. The steadfastness of the apostles in the face of persecution and suffering is even more remarkable.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.532397870833731,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.29,
+            "commentatorTierSimilarities": [
+                31.96,
+                33.71,
+                34.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is highly improbable that St. Luke would have put into Gamaliel's mouth words he could not have uttered, considering the supervision of Acts by St. Paul, Gamaliel's pupil. Gamaliel's mention of impostors named Simon and Judas who incited rebellion lends credibility to his advice to let the apostles go. This cautionary tale showcases the consequences of unwise actions, as the just judgment of God often befalls those who advance themselves without guidance. The steadfastness of the apostles in the face of persecution is commendable.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.543723621429081,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.67,
+            "commentatorTierSimilarities": [
+                33.71,
+                32.35,
+                33.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The words attributed to Gamaliel can be trusted, as it is highly unlikely that St. Luke would make a historical mistake concerning his pupil, especially considering the supervision of Acts by St. Paul. Gamaliel's cautionary tale about impostors named Simon and Judas who incited rebellion adds credibility to his advice to let the apostles go. This story reminds us of the potential consequences of unwise actions, as God's just judgment often befalls those who advance themselves without guidance. The unwavering dedication of the apostles in the face of persecution is truly commendable.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.5630983824036355,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.32,
+            "commentatorTierSimilarities": [
+                31.42,
+                34.92,
+                33.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The words ascribed to Gamaliel in Acts can be trusted since St. Luke would not have inserted an unlikely historical error, given his connection to St. Paul, who was Gamaliel's student. Gamaliel's account of impostors named Simon and Judas who incited rebellion strengthens his advice to release the apostles. This narrative reminds us of the perils of ill-considered actions as divine judgment often befalls those who foolishly advance themselves. The apostles' unwavering commitment amidst persecution is truly admirable.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.52298618631395,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.98,
+            "commentatorTierSimilarities": [
+                32.51,
+                35.37,
+                32.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

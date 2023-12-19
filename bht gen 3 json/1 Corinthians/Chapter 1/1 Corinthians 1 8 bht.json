@@ -1,0 +1,151 @@
+{
+    "timestamp": "12-19-2023 15:01:40",
+    "verseRef": "1 Corinthians 1:8",
+    "bestBHT": {
+        "bht": "On the day of the Lord Jesus Christ's appearing, God will confirm and preserve believers until the end. This confirmation is made in Christ, assuring their blamelessness and unreprovable status. The saints will be without any danger or risk after that day, and their blamelessness will be unimpeachable. They are to remain firm amidst trials and efforts to shake their faith, being kept from falling away. This confirmation is part of God's design to present the church as a glorious and pure entity on the Day of Judgment.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.670084782117193,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+        "commentatorTierSimilarities": [
+            21.6,
+            32.04,
+            46.36
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The day of the Lord Jesus Christ is the day of his appearing.",
+            "The also besides shews this.",
+            "The end of the world, not merely 'to the end of your lives.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Who\u2014God, :- (not Jesus Christ, 1 Corinthians 1:7,",
+            "\tin which case it would be 'in His day').",
+            "unto the end\u2014namely,",
+            "\t'the coming of Christ.'",
+            "blameless in the day of . . .",
+            "\tChrist\u2014 (1 Thessalonians 5:23). After",
+            "\tthat day there is no danger (Ephesians 4:30;",
+            "\tPhilippians 1:6)."
+        ],
+        "Albert Barnes": [
+            "He shall make you 'firm' amidst all your trials, and all the efforts which may be made to shake your faith.",
+            "They should be kept, and should not be suffered to fall away and perish.",
+            "It is the design of God so to keep his people...that the church may be presented 'a glorious church, without spot or wrinkle' on the Day of Judgment."
+        ],
+        "Marvin Vincent": [
+            "Blameless [\u03b1\u03bd\u03b5\u03b3\u03ba\u03bb\u03b7\u03c4\u03bf\u03c5\u03c2]. Used by Paul only. In apposition with you. Rev., unreprovable.\" ",
+            "The kindred verb ejgkalew occurs only in Acts and Romans. See on Romans 8:33. It means to accuse publicly, but not necessarily before a tribunal.",
+            "Hence the word here points to appearance at God's bar."
+        ],
+        "John Calvin": [
+            "Though the expectation of a salvation to come keeps you still in suspense, you ought nevertheless to feel assured that the Lord will never forsake you, but will on the contrary increase what he has begun in you.\" ",
+            "Our calling \u2014 that we may appear pure and unreproachable in the presence of Christ.",
+            "It goes well with us if we are every day making progress in penitence, and are being purged from the sins that expose us to the displeasure of God."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 1:8. who shall also confirm you unto the end. . . unreproveable in the day of our Lord Jesus Christ, the decisive day of His second coming (Romans 2:16; 2 Corinthians 5:10).",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Shall confirm... The relative \u03bf\u03c2 (who) points to Christ.",
+            "Unto the end... final preservation of the saints.",
+            "That ye be unreproveable... 'Unimpeachable, for none will have the right to impeach.'"
+        ],
+        "John Gill": [
+            "This confirmation is made in him;...in order that the saints might be blameless in the day of Christ...\" ",
+            "It is...God the Father...to whom the apostle gives thanks, and continues to do so unto this verse; in which he assures the saints of confirmation in grace by God...",
+            "...their establishment in the person of Christ, and in the doctrines of grace; and of the permanency of the grace of the Spirit in them, and of their perseverance in faith and holiness unto the end..."
+        ],
+        "John Wesley": [
+            "Confirm you to the end.",
+            "In the day of Christ.",
+            "Then it will be eminently the day of Christ, and of his glory in the saints."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the day of the Lord Jesus Christ's appearing, God, not Jesus Christ, will preserve believers until the end. This means that they will be blameless and unreprovable in the day of Christ, without any danger or risk after that day. This blamelessness is seen as unreprovable, unimpeachable, for none will have the right to accuse them. The confirmation and preservation of the saints is in Christ, and it is God who assures them of this confirmation in grace. This confirmation is made in order for the saints to be blameless in the day of Christ, the day of His second coming. Thus, believers are to be firm amidst trials and efforts to shake their faith, being kept and not allowed to fall away. This confirmation is part of God's design to present the church as a glorious and pure entity on the Day of Judgment, appearing without spot or wrinkle in the presence of Christ's glory.",
+            "wordCount": 160,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.7705080499806924,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                25.03,
+                28.98,
+                45.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the day of the Lord Jesus Christ's appearing, God will confirm and preserve believers until the end, making them blameless and unreprovable. This confirmation is made in Christ, and it is God who assures them of this preservation in grace. The saints will be without any danger or risk after that day, and their blamelessness will be unimpeachable. They are to be firm amidst trials and efforts to shake their faith, being kept and not allowed to fall away. This confirmation is part of God's design to present the church as a glorious and pure entity on the Day of Judgment.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7273800212025319,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.78,
+            "commentatorTierSimilarities": [
+                20.71,
+                33.34,
+                45.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the day of the Lord Jesus Christ's appearing, God will confirm believers until the end, making them blameless in His presence. This confirmation is made in Christ, assuring their preservation in grace. The saints will be without any danger after that day, and their blamelessness will be unimpeachable. They are to be firm amidst trials, being kept from falling away. This confirmation is part of God's design to present the church as a glorious and pure entity on the Day of Judgment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.6609613826754552,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.57,
+            "commentatorTierSimilarities": [
+                24.51,
+                28.65,
+                46.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the day of the Lord Jesus Christ's appearing, God will confirm and preserve believers until the end. This confirmation is made in Christ, assuring their blamelessness and unreprovable status. The saints will be without any danger or risk after that day, and their blamelessness will be unimpeachable. They are to remain firm amidst trials and efforts to shake their faith, being kept from falling away. This confirmation is part of God's design to present the church as a glorious and pure entity on the Day of Judgment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.670084782117193,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                21.6,
+                32.04,
+                46.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the day of the Lord Jesus Christ's appearing, believers will be confirmed until the end and made blameless and unreprovable. This confirmation is in Christ and assures their preservation in grace. After that day, there will be no danger or risk, and their blamelessness will be unimpeachable. They are to stay firm amidst trials, being kept from falling away. This confirmation is part of God's design to present a glorious and pure church on the Day of Judgment.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6096620167037146,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+            "commentatorTierSimilarities": [
+                23.21,
+                31.6,
+                45.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

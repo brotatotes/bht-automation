@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:04:50",
+    "verseRef": "1 Corinthians 6:8",
+    "bestBHT": {
+        "bht": "Instead of enduring wrong patiently as commanded by the Lord, you, on the contrary, do wrong and defraud your brethren. This is a grave offense that shows a deep depravity when one overcomes the ties of love and kindness to harm those who are near. It is a sad corruption that prevails among you, disregarding the sacred brotherhood within the body of Christ. Instead of bearing with one another and showing love, you inflict harm and deception upon your fellow believers, blinded by a base desire for personal gain.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.9626459512823646,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.6,
+        "commentatorTierSimilarities": [
+            36.61,
+            37.37,
+            26.02
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "You on the contrary do wrong, and defraud, and that (your) brethren.",
+            "The YE is emphatic, and the account of it is to be found in an ellipsis after the end of ver. 7, to the effect, \u2018as our Lord commanded us His disciples,\u2019 or \u2018as it behoves the followers of Christ.\u2019",
+            "As our Lord commanded us His disciples, as it behoves the followers of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye, whom your Lord commanded to return good for evil, on the contrary, 'do wrong (by taking away) and defraud'.\" ",
+            "Not only do ye not bear, but ye inflict wrongs."
+        ],
+        "Albert Barnes": [
+            "Instead of enduring wrong patiently and cheerfully, they were themselves guilty of injustice and fraud.",
+            "The offence in such cases is aggravated, not because it is in itself any worse to injure a Christian than another man, but because it shows a deeper depravity when a man overcomes all the ties of kindness and love, and injures those who are near to him.",
+            "It is for this reason that parricide, infanticide, etc. are regarded everywhere as crimes of special atrocity, because a child or a parent must have severed all the tenderest cords of virtue before it could be done."
+        ],
+        "John Calvin": [
+            "Hence we see for what reason he has inveighed against them with so much bitterness \u2014 because there prevailed among them such a base desire of gain, that they did not even refrain from injuring one another.",
+            "For if it is wrong not to bear injuries patiently, how much worse is it to inflict them?",
+            "Now all of us are brethren that call upon one Father in heaven (Matthew 23:9.) At the same time, if any one acts an unprincipled part towards strangers, Paul does not palliate the crime; but he teaches that the Corinthians were utterly blinded in making sacred brotherhood a matter of no moment."
+        ],
+        "Archibald T. Robertson": [
+            "But (adversative \u03b1\u03bb\u03bb\u03b1, on the contrary) you (emphatic) do the wronging and the robbing\" (active voices) \"and that your brethren\" (\u03ba\u03b1 \u03c4\u03bf\u03c5\u03c4\u03bf \u03b1\u03b4\u03b5\u03bb\u03c6\u03bf\u03c5\u03c2).",
+            "The very climax of wrong-doings, to stoop to do this with one's brethren in Christ."
+        ],
+        "John Gill": [
+            "They did wrong; and instead of suffering themselves to be defrauded, they defrauded others.\" ",
+            "Neither party, not the plaintiff, nor the defendant, sought anything more or less than to wrong, trick, and defraud each other.",
+            "Such a sad corruption and degeneracy prevailed among them."
+        ],
+        "John Wesley": [
+            "Nay, ye do wrong \u2014 Openly.",
+            "And defraud \u2014 Privately. O how powerfully did the mystery of iniquity already work!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Instead of following the command of our Lord to do good to those who wrong us, you, on the contrary, engage in wrongdoing and defraud your brothers and sisters. This is the height of injustice, especially when it is done to those within the body of Christ. Instead of patiently enduring wrongs, you inflict harm upon one another. It is a sad corruption and degeneracy that has taken hold among you, disregarding the sacred brotherhood you share as children of God. You not only do wrong openly but also defraud others secretly, blinded by your base desire for gain.",
+            "wordCount": 99,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.8802662681019577,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+            "commentatorTierSimilarities": [
+                38.2,
+                33.08,
+                28.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Instead of following our Lord's command to return good for evil, you, on the contrary, do wrong and defraud your brethren. This is the climax of wrongdoings, stooping so low as to harm your own brothers and sisters. It is a sad corruption and degeneracy that has infiltrated your community, disregarding the sacred brotherhood among you. You not only openly commit wrongdoing, but also secretly defraud others. This base desire for gain blinds you to the importance of sacred brotherhood.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.772304788825052,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                41.94,
+                28.86,
+                29.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Instead of bearing patiently with wrongs and treating others with kindness, you, on the contrary, engage in wrongdoing and defraud your fellow believers. This goes against the command of our Lord and shows a deep depravity when you harm those who are close to you. It is a grave offense to commit injustice and fraud against your brothers and sisters in Christ. This corruption within your midst demonstrates a lack of regard for the sacred bond of brotherhood.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.915873838177327,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                37.75,
+                36.48,
+                25.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Instead of enduring wrong patiently as commanded by the Lord, you, on the contrary, do wrong and defraud your brethren. This is a grave offense that shows a deep depravity when one overcomes the ties of love and kindness to harm those who are near. It is a sad corruption that prevails among you, disregarding the sacred brotherhood within the body of Christ. Instead of bearing with one another and showing love, you inflict harm and deception upon your fellow believers, blinded by a base desire for personal gain.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9626459512823646,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.6,
+            "commentatorTierSimilarities": [
+                36.61,
+                37.37,
+                26.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Instead of patiently enduring wrongs, you, on the contrary, do wrong and defraud your brothers and sisters. This is a grave offense, showing a deep depravity in overcoming the ties of kindness and love to harm those near to you. It is a sad corruption that prevails among you, disregarding the sacred brotherhood within the body of Christ. Instead of bearing with one another and showing love, you inflict harm and deception upon your fellow believers, blinded by a base desire for personal gain.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9110721007601854,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                34.71,
+                38.53,
+                26.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

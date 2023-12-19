@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 15:14:11",
+    "verseRef": "1 Corinthians 15:45",
+    "bestBHT": {
+        "bht": "Man was made a living soul, endowed with an animal soul by God, while Christ, the last Adam, became a life-giving spirit. He is the crown of humanity, with the ability to give us a new body - a spiritual body that will be more refined and filled with life at the resurrection. Through our union with the second Adam, we can receive the resurrection-life and become partakers of his life-bestowing Spirit, undoing the evil done by the first and restoring our nature from ruin.",
+        "wordCount": 87,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 2.4430754533543615,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.57,
+        "commentatorTierSimilarities": [
+            33.5,
+            32.87,
+            33.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words quoted serve therefore rather for the illustration of man being a soul than for a proof of the existence of the spiritual body.",
+            "The principal periods selected are His Incarnation, His Resurrection, and His Ascension. But it seems to me that the question is not one to be pressed: in the union of the two natures, the second Adam was constituted a life-bestowing Spirit, and is such now in heaven, yet having the resurrection-body.",
+            "The life implied in the word life-giving, is the resurrection-life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Man became (was made to become) a living soul, that is, endowed with an animal soul, the living principle of his body.",
+            "He is so called in Job 19:25; see on Job 19:25- : (compare Job 19:25- :). In contrast to 'the last,' Paul calls 'man' (Genesis 2:7) 'the FIRST Adam.'",
+            "As the natural or animal-souled body is the fruit of our union with the first Adam, an animal-souled man, so the spiritual body is the fruit of our union with the second Adam, who is the quickening Spirit."
+        ],
+        "Albert Barnes": [
+            "The first man Adam was made a living soul - This is quoted exactly from the translation by the Septuagint, except that the apostle has added the words 'first' and 'Adam.'",
+            "That Christ is here intended is apparent, and has been usually admitted by commentators. Christ here seems to be called Adam because he stands in contradistinction from the first Adam.",
+            "A vivifying spirit; a spirit giving or imparting life. Not a being having mere vital functions, or an animated nature, but a being who has the power of imparting life."
+        ],
+        "Marvin Vincent": [
+            "A living soul [\u03c8\u03c5\u03c7\u03b7\u03bd \u03b6\u03c9\u03c3\u03b1\u03bd] . See Genesis 2:7. Here yuch passes into its personal sense - an individual personality (see Romans 11:4), yet retaining the emphatic reference to the yuch as the distinctive principle of that individuality in contrast with the pneuma spirit following.",
+            "Last Adam. Christ. Put over against Adam because of the peculiar relation in which both stand to the race : Adam as the physical, Christ as the spiritual head.",
+            "Quickening spirit [\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1 \u03b6\u03c9\u03bf\u03c0\u03bf\u03b9\u03bf\u03c5\u03bd] . Rev., life - giving. Not merely living, but imparting life."
+        ],
+        "John Calvin": [
+            "It is a much greater thing to be life, or the source of life, than simply to live.",
+            "Christ came to restore our nature from ruin and raise it up to a better condition than ever.",
+            "All men were created in the first man, because, whatever God designed to give to all, he conferred upon that one man, so that the condition of mankind was settled in his person."
+        ],
+        "Philip Schaff": [
+            "The last Adam,\" as a name for the promised Messiah, is not unknown to the rabbinical writers... but His becoming the second Head of humanity, who would more than undo the evil done by the first, was never dreamt of by them.",
+            "The last Adam became a life-giving spirit.",
+            "The promised Messiah... would more than undo the evil done by the first."
+        ],
+        "Archibald T. Robertson": [
+            "God breathed a soul into 'the first man.'\" (\u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf \u03b5\u03b9\u03c2 \u03c8\u03c5\u03c7\u03b7\u03bd \u03b6\u03c9\u03c3\u03b1\u03bd)",
+            "The last Adam became a life-giving spirit.\" (\u03bf \u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03c2 \u0391\u03b4\u03b1\u03bc \u03b5\u03b9\u03c2 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1 \u03b6\u03c9\u03bf\u03c0\u03bf\u03b9\u03bf\u03c5\u03bd)",
+            "Christ is the crown of humanity and has power to give us the new body."
+        ],
+        "John Gill": [
+            "the first man Adam\": he was the first man that was made, and the first parent of mankind, and the head and representative of all his posterity...",
+            "the last Adam was made a quickening spirit: by \"the last Adam\" is meant Jesus Christ...",
+            "it is to be understood of his spiritual body, of his body, not as it was made of the virgin, for that was a natural, or an animal one; it was conceived and bred, and born as animal bodies are; it grew and increased, and was nourished with meat and drink, and sleep and rest; and was subject to infirmities, and to death itself, as our bodies be; but it is to be understood of it as raised from the dead, when it was made a spiritual body..."
+        ],
+        "John Wesley": [
+            "The first Adam was made a living soul \u2014 God gave him such life as other animals enjoy.\" ",
+            "But the last Adam, Christ, is a quickening spirit - As he hath life in himself, so he quickeneth whom he will.\" ",
+            "Giving a more refined life to their very bodies at the resurrection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Man was made a living soul, endowed with an animal soul, by God breathing life into the first man. Christ, the last Adam, became a life-giving spirit - not merely living, but imparting life. He is the crown of humanity, with the power to give us a new body - a spiritual body that will be more refined and filled with life at the resurrection. In contrast to the first Adam, who represents the physical head of humanity, Christ stands as the spiritual head, undoing the evil done by the first and restoring our nature from ruin. Through our union with the second Adam, we can receive the resurrection-life and become partakers of his life-bestowing Spirit.",
+            "wordCount": 117,
+            "quoteTokenProportion": 48.65,
+            "qualityScore": 2.5297703881448212,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.45,
+            "commentatorTierSimilarities": [
+                33.73,
+                33.07,
+                33.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Man was made a living soul, endowed with an animal soul by God, while Christ, the last Adam, became a life-giving spirit. He is the crown of humanity, with the ability to give us a new body - a spiritual body that will be more refined and filled with life at the resurrection. Through our union with the second Adam, we can receive the resurrection-life and become partakers of his life-bestowing Spirit, undoing the evil done by the first and restoring our nature from ruin.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 2.4430754533543615,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.57,
+            "commentatorTierSimilarities": [
+                33.5,
+                32.87,
+                33.63
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "timestamp": "12-19-2023 14:18:36",
+    "verseRef": "Galatians 5:8",
+    "bestBHT": {
+        "bht": "The persuasion to subject yourselves to the Jewish law does not proceed from him who called you to freedom in Christ. This new persuasion then has come from some other quarter; and if you wish to have it thought that your calling is from God, beware of lending an ear to those who thrust upon you their new inventions. This your present persuasion cometh not from God, who called you to his kingdom and glory.",
+        "wordCount": 75,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 2.4585522805937243,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.09,
+        "commentatorTierSimilarities": [
+            31.28,
+            21.16,
+            47.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The persuasion cometh not from Him that calleth you.",
+            "The persuasion does not spring from God.",
+            "The persuasion is not originated by God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The persuasion which you are yielding.\" (Galatians 5:8)",
+            "This persuasion does not emanate from Him.\" (Galatians 5:8)",
+            "The calling is the rule of the whole race.\" (Galatians 5:8)"
+        ],
+        "Albert Barnes": [
+            "This belief that it is necessary to obey the laws of Moses...in order to be saved.",
+            "Not of him that calleth you...it could not be traced to God, though they who taught it pretended to be commissioned by him."
+        ],
+        "Marvin Vincent": [
+            "The persuasion which the Judaising teachers exert over you.",
+            "Obedience to the truth is the result of the persuasive power of the truth.",
+            "The persuasion to subject yourselves to the Jewish law does not proceed from him who called you to freedom in Christ."
+        ],
+        "John Calvin": [
+            "Having formerly combated them by arguments, he at length pronounces, with a voice of authority, that their persuasion came not from God.",
+            "God is never inconsistent with himself, and he it is who by my preaching called you to salvation.",
+            "This new persuasion then has come from some other quarter; and if you wish to have it thought that your calling is from God, beware of lending an ear to those who thrust upon you their new inventions."
+        ],
+        "Philip Schaff": [
+            "Of him that calleth you, God... The Father draws to the Son by the Spirit through the gospel.",
+            "The Father draws to the Son by the Spirit through the gospel.",
+            "The prize of the high calling of God in Christ Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "This persuasion (\u03b7 \u03c0\u03b5\u03b9\u03c3\u03bc\u03bf\u03bd\u03b7). \"The art of persuasion,\" the effort of the Judaizers to persuade you. Only here and in ecclesiastical writers. "
+        ],
+        "John Gill": [
+            "This persuasion cometh not of him that calleth you.\" ",
+            "This is not of God, who had called them into the grace of Christ; nor of Christ, who had called them to the knowledge of himself, and communion with him; nor of the Spirit of Christ, who had called them with an holy calling, and who still continued to call them to repentance; nor of any faithful minister of the Gospel.",
+            "Such a conceit as this could never be of God, nor any evangelical minister, but must be of Satan or his emissaries, the false apostles."
+        ],
+        "John Wesley": [
+            "This your present persuasion cometh not from God, who called you - to his kingdom and glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "The persuasion that some Galatians were yielding to, the belief that they must obey the Jewish law to be saved, did not come from God, who called them to freedom in Christ. This new persuasion was not consistent with their calling from God, and it certainly did not originate from Him. It was important for the Galatians to be aware of who was influencing them, as this belief did not align with the truth of the gospel. Instead, they were being persuaded by the false apostles who sought to impose their own inventions on them. They needed to stay faithful to the calling they had received from God, which was to the grace of Christ and the knowledge of Him.",
+            "wordCount": 120,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.0679315344655764,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.1,
+            "commentatorTierSimilarities": [
+                29.16,
+                32.88,
+                37.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The persuasion to subject yourselves to the Jewish law does not proceed from him who called you to freedom in Christ. This new persuasion then has come from some other quarter; and if you wish to have it thought that your calling is from God, beware of lending an ear to those who thrust upon you their new inventions. This your present persuasion cometh not from God, who called you to his kingdom and glory.",
+            "wordCount": 75,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 2.4585522805937243,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.09,
+            "commentatorTierSimilarities": [
+                31.28,
+                21.16,
+                47.56
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

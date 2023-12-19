@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:13:21",
+    "verseRef": "Luke 1:18",
+    "bestBHT": {
+        "bht": "The birth of John paralleled the supernatural birth of Isaac in the Old Testament, yet Abraham's faith contrasted greatly with Zacharias' unbelief. While Zacharias demanded a sign to believe the promise, Abraham did not stagger at God's promise but remained strong in faith. Similarly, Mary believed without a sign. Zacharias' skepticism and desire for proof resulted in his temporary loss of speech. His lack of faith, unlike Abraham and Mary, caused him to falter in accepting the promised favor.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.972053782118265,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+        "commentatorTierSimilarities": [
+            33.29,
+            31.22,
+            35.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The birth of John, involving human generation, but prophetically announced, and supernatural, answers to the birth of Isaac in the O.T.",
+            "But Abraham\u2019s faith was a strong contrast to the unbelief of Zacharias: see Rom. iv. 19.",
+            "The Levites (see Num. iv. 3; viii. 24, 25) became superannuated at the age of fifty: but it appears, by extracts from the Rabbinical writings given by Lightfoot, that this was not the case with the priests."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mary believed what was far harder without a sign.",
+            "Abraham, though older, and doubtless Sarah, too, when the same promise was made to him, 'staggered not at the promise of God through unbelief, but was strong in faith, giving glory to God.'",
+            "This was that in which Zacharias failed."
+        ],
+        "Albert Barnes": [
+            "The thing was improbable, and he desired 'evidence' that it would take place.",
+            "The testimony of an 'angel,' and in such a place, should have been proof enough; but people are slow to believe the testimony of heavenly messengers.",
+            "As a consequence of not believing, he was struck mute."
+        ],
+        "Marvin Vincent": [
+            "Whereby [\u03ba\u03b1\u03c4\u03b1 \u03c4\u03b9] . Lit., according to what? It demands a standard of knowledge, a sign. ",
+            "For. I require a sign, for I am old."
+        ],
+        "John Calvin": [
+            "Unquestionably, the Lord beheld in Zacharias something worse than his words may bear, and therefore his anger was kindled against him for throwing back with distrust the promised favor.",
+            "They take a narrow and disparaging view of the works of God, who believe that he will do no more than nature holds out to be probable, as if his hand were limited to our senses or confined to earthly means.",
+            "Let us know, therefore, that those who are perplexed or disturbed by weakness on some particular occasion do not entirely depart or fall off from the faith, and that, though the branches of faith are agitated by various tempests, it does not give way at the root."
+        ],
+        "Philip Schaff": [
+            "Whereby shall I know this? What is the sign according to which I may know this.\" ",
+            "But notice that in Abraham\u2019s case faith was strong, while here the unbelief of Zacharias appears in the sign given him and in what follows.\" ",
+            "For I am an old man. Levites could serve up to the age of fifty years, but there was no such limitation in the case of priests."
+        ],
+        "Archibald T. Robertson": [
+            "It was too good to be true and Zacharias demanded proof...",
+            "He had prayed for this blessing and was now sceptical...",
+            "...like the disciples in the house of Mary about the return of Peter..."
+        ],
+        "John Gill": [
+            "Notwithstanding such an appearance of an angel to him... yet he distrusted and wanted a sign.\" ",
+            "For I am an old man; at least sixty years of age... and my wife well stricken in years.\" ",
+            "A like objection Abraham made, though he afterwards got over it, and was strong in faith, giving glory to God."
+        ],
+        "John Wesley": [
+            "Zacharias said, 'Whereby shall I know this?'",
+            "In how different a spirit did he [Zacharias] blessed virgin say, 'How shall this be?'",
+            "Zacharias disbelieved the fact: Mary had no doubt of the thing; but only inquired concerning the manner of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The birth of John, involving human generation but prophetically announced and supernatural, parallels the birth of Isaac in the Old Testament. However, Abraham's faith stood in stark contrast to the unbelief of Zacharias. While Zacharias demanded a sign to believe the promise, Abraham did not stagger at the promise of God through unbelief but was strong in faith. Mary, on the other hand, believed what was far harder without a sign. It seems that Zacharias failed to have the same faith as Abraham and Mary. His skepticism and demand for proof led to his temporary loss of speech.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.952120593242359,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                34.67,
+                31.9,
+                33.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The birth of John paralleled the supernatural birth of Isaac in the Old Testament, yet Abraham's faith contrasted greatly with Zacharias' unbelief. While Zacharias demanded a sign to believe the promise, Abraham did not stagger at God's promise but remained strong in faith. Similarly, Mary believed without a sign. Zacharias' skepticism and desire for proof resulted in his temporary loss of speech. His lack of faith, unlike Abraham and Mary, caused him to falter in accepting the promised favor.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.972053782118265,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+            "commentatorTierSimilarities": [
+                33.29,
+                31.22,
+                35.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The birth of John was prophetically announced and supernatural, like the birth of Isaac in the Old Testament. However, Zacharias lacked the faith of Abraham. He demanded a sign, unlike Mary who believed without one. This disbelief led to his temporary loss of speech. Zacharias' skepticism and desire for proof demonstrated his failure to fully trust in God's promise, unlike Abraham and Mary who remained strong in faith.",
+            "wordCount": 69,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8887558853710207,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "commentatorTierSimilarities": [
+                33.83,
+                31.88,
+                34.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The birth of John, prophetically announced and supernatural, mirrored the birth of Isaac in the Old Testament. However, Zacharias lacked the faith of Abraham. He demanded a sign, unlike Mary who believed without one. This disbelief led to his temporary loss of speech. Zacharias' skepticism and desire for proof demonstrated his failure to fully trust in God's promise, unlike Abraham and Mary who remained strong in faith.",
+            "wordCount": 68,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8587976266648196,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                33.62,
+                31.25,
+                35.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The birth of John, involving human generation but prophetically announced and supernatural, parallels the birth of Isaac in the Old Testament. However, Abraham's faith stood in stark contrast to the unbelief of Zacharias. While Zacharias demanded a sign to believe the promise, Abraham did not stagger at the promise of God through unbelief but was strong in faith. Mary, on the other hand, believed what was far harder without a sign. It seems that Zacharias failed to have the same faith as Abraham and Mary. His skepticism and demand for proof led to his temporary loss of speech.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.952120593242359,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                34.67,
+                31.9,
+                33.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:17:48",
+    "verseRef": "2 Corinthians 10:2",
+    "bestBHT": {
+        "bht": "I beseech you not to force me to display the boldness that I am inclined to show against those who accuse me of unworthy motives. They judge me based on their own flawed perceptions and assume that I am acting out of self-interest and earthly motivations. Yet, I implore you to live in such a way that I may not have to resort to forceful action, but instead that we may exhibit the humility and gentleness of Christ. Let our fidelity to the truth be evident in our firm stance.",
+        "wordCount": 91,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 1.8676168564103035,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+        "commentatorTierSimilarities": [
+            28.89,
+            41.27,
+            29.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I beseech [you]...that I may not...have to be bold...with the confidence...towards some.\" ",
+            "Those who think...us as walking according to the flesh.\" ",
+            "They thought that Paul...had been deterred from using his authority, of which he made boast in his letters."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I beseech you...that I may not have to be bold...with that confidence...\" ",
+            "I am minded to be.\" ",
+            "His Corinthian detractors judged of him by themselves, as if he were influenced by fleshly motives..."
+        ],
+        "Albert Barnes": [
+            "I entreat you so to act that I may not have occasion to exercise the severity.",
+            "They suppose this; or, they accuse me of it.",
+            "As if we were governed by the weak and corrupt principles of human nature."
+        ],
+        "Marvin Vincent": [
+            "I pray you that you may not make it necessary for me to show, when I am present, that official peremptoriness which I am minded to show against those who charge me with unworthy motives.",
+            "The former signifies to be stout-hearted or resolutely confident in view of one's conscious strength or capacity; the latter, to carry this feeling into action; to dare.",
+            "Hence Rev. is on the right line in the use of courage, from cor heart, through the French coeur. Rev. renders, show courage - be bold."
+        ],
+        "John Calvin": [
+            "It is the duty of a good pastor to allure his sheep peacefully and kindly, that they may allow themselves to be governed, rather than to constrain them by violence.",
+            "Severity must be the last resource... let us never be rigorous, unless we are constrained to it.",
+            "Paul complains of the unreasonableness of those who looked for nothing in him except the flesh, that is, visible appearance, as they speak, or in the usual manner of persons who devote all their efforts to ambition."
+        ],
+        "Philip Schaff": [
+            "By that meekness and gentleness of Christ which I strove to exercise among you, I intreat you not to force me to change my tone.\" ",
+            "So as to show on my return that stern attitude which fidelity to the truth demands against some who look upon us as weaklings, afraid to face them.",
+            "Fidelity to the truth demands... an stern attitude."
+        ],
+        "Archibald T. Robertson": [
+            "I beg the not when present showing courage.\" ",
+            "The example of humility in Christ makes Paul drop 'from magisterial exhortation to earnest entreaty.'\" ",
+            "Another sneering charge as made plain by the use of \u03c9\u03c2 with the participle for the alleged reason."
+        ],
+        "John Gill": [
+            "He entreated them that they would so behave for the future, that he might have no occasion, when he came among them, to use that power and authority they called boldness, which he had received from Christ for edification, and not destruction.",
+            "For though he had said in his former epistle, 1 Corinthians 4:21 'shall I come unto you with a rod or in love? and in the spirit of meekness?' he chose to come in the latter, rather than with the former; namely, not with that confidence wherewith, says he, I think to be bold.",
+            "Who not barely thought so within themselves, but reasoned the matter with others, and would fain persuade them to believe that they did walk in a carnal manner; not that they had the face to say, that they walked after the dictates of corrupt nature, or lived in open vice and profaneness; but that they walked in craftiness, had their conversation in the world with fleshly wisdom, seeking their own worldly interest and secular advantage; which is denied by the apostle."
+        ],
+        "John Wesley": [
+            "Do not constrain me when present to be bold - To exert my apostolical authority.",
+            "Who think of us as walking after the flesh \u2014 As acting in a cowardly or crafty manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I earnestly urge you not to make it necessary for me to show, when I am present, the authoritative boldness that I am inclined to display against those who accuse me unjustly. These detractors judge me based on their own flawed perceptions and assume that I am acting out of self-interest and earthly motives. However, I implore you to live in such a way that I may not have to resort to forceful action, but rather that we may exhibit the humility and gentleness of Christ. Let us not give them any reason to accuse us of weakness, but instead let our fidelity to the truth be evident in our firm stance.",
+            "wordCount": 113,
+            "quoteTokenProportion": 48.72,
+            "qualityScore": 1.897618064540692,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+            "commentatorTierSimilarities": [
+                27.93,
+                38.72,
+                33.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I beseech you not to force me to display the boldness that I am inclined to show against those who accuse me of unworthy motives. They judge me based on their own flawed perceptions and assume that I am acting out of self-interest and earthly motivations. Yet, I implore you to live in such a way that I may not have to resort to forceful action, but instead that we may exhibit the humility and gentleness of Christ. Let our fidelity to the truth be evident in our firm stance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8676168564103035,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+            "commentatorTierSimilarities": [
+                28.89,
+                41.27,
+                29.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I beseech you not to force me to display the boldness that I am inclined to show against those who accuse me of unworthy motives. They judge me based on their own flawed perceptions and assume that I am acting out of self-interest and earthly motivations. Yet, I implore you to live in such a way that I may not have to resort to forceful action, but instead that we may exhibit the humility and gentleness of Christ. Let our fidelity to the truth be evident in our firm stance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8676168564103035,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+            "commentatorTierSimilarities": [
+                28.89,
+                41.27,
+                29.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I fervently plead with you to avoid causing me to assert my boldness against those who wrongfully question my motives. They judge me through their own limited perspective and assume I operate from the flesh. Yet, I implore you to conduct yourselves in a manner that leaves no room for forceful measures. Instead, let us embody the meekness and gentleness of Christ. May our unwavering commitment to the truth be evident in our resolute stance.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.7069918656855134,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
+            "commentatorTierSimilarities": [
+                30.92,
+                39.34,
+                29.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I fervently plead with you not to force me into using the boldness that I am inclined to show against those who accuse me of unworthy motives. They judge me based on their flawed perceptions, assuming that I am acting out of self-interest and earthly motivations. Yet, I implore you to live in a manner that does not necessitate forceful actions, but rather displays the humility and gentleness of Christ. Let our firm stance reveal our unwavering fidelity to the truth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8364030610410316,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                28.26,
+                40.93,
+                30.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

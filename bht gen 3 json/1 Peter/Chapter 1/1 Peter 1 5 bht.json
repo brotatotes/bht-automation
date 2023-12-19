@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:38:40",
+    "verseRef": "1 Peter 1:5",
+    "bestBHT": {
+        "bht": "Our salvation, the positive setting in bliss, is kept in heaven while we, as heirs, are guarded in the world. The continuous process of protection is provided through the power of God and works in conjunction with our faith. We are secure, as Christ prays for our faith not to fail, and our salvation is already obtained through his obedience and sufferings. Although the full enjoyment is yet to be revealed, we can have confidence that our inheritance is reserved and ready for us, held by God's power until the appointed time.",
+        "wordCount": 93,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 2.143938180027556,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+        "commentatorTierSimilarities": [
+            28.18,
+            34.98,
+            36.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What avails it that salvation is laid up for us in heaven, if we are tossed about in the world as in a turbulent sea?",
+            "The causes of our preservation are two; 1. Supreme, the power of God: 2. Subordinate, faith.",
+            "Salvation, though in itself a merely negative idea, involves in itself, and came to mean in the New Test., the positive setting in bliss of the people of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We are guarded in the world as our inheritance is kept in heaven.",
+            "The believer lives spiritually in God, and in virtue of His power, and God lives in him.",
+            "Let none flatter himself he is being guarded by the power of God unto salvation, if he be not walking by faith."
+        ],
+        "Albert Barnes": [
+            "The only reason which any Christians have to suppose they will ever reach heaven, is the fact that God keeps them by his own power.",
+            "As long as we have faith in God, and in his promises, we are safe. When that fails, we are weak; and if it should fail altogether, we could not be saved.",
+            "Man is so weak and feeble, so liable to fall, and so exposed to temptation, that it is in itself every way a thing to be wished that his salvation should be in some safer hands than his own."
+        ],
+        "Marvin Vincent": [
+            "The present participle indicates something in progress, a continuous process of protection. Hence, lit., who are being guarded.\" ",
+            "By, indicating the efficient cause; through, the secondary agency; unto, the result.",
+            "Ready [\u03b5\u03c4\u03bf\u03b9\u03bc\u03b7\u03bd] . Stronger than about to be, or destined to be, implying a state of waiting or preparedness, and thus harmonizing with reserved."
+        ],
+        "John Calvin": [
+            "We are kept while in the world, and at the same time our inheritance is reserved in heaven.",
+            "Though we are in the world exposed to dangers, we are yet kept by faith.",
+            "Salvation is not deferred because it is not yet prepared, but because the time of its revelation is not yet come."
+        ],
+        "Philip Schaff": [
+            "The efficient cause (so Huther, Gerhard, etc.) of this sustained protection, or, as the preposition may be more strictly taken, the sphere within which it moves, the force behind which they are shielded as by a garrison, is nothing weaker than God\u2019s power, a phrase to be understood here in the ordinary sense, and not as a title of the Holy Spirit.\" ",
+            "Thus, with the Lord Himself encompassing them as the \u2018mountains are round about Jerusalem,\u2019 and with the hand of faith clinging to the shelter of His power, the people on earth are secure as is the inheritance in heaven.\" ",
+            "The salvation needs but the lifting of the veil at God\u2019s set time, and that time is on the wing. Christ\u2019s return will announce the close of the \u2018last time\u2019 of the old order, and in a moment uncover what God has prepared in secret."
+        ],
+        "Archibald T. Robertson": [
+            "No other \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03c2 (power) like this.",
+            "'The inheritance is kept; the heirs are guarded' (Bengel).",
+            "Ready (\u03b5\u03c4\u03bf\u03b9\u03bc\u03b7\u03bd). Prepared awaiting God's will."
+        ],
+        "John Gill": [
+            "They are kept, not in and by themselves, the way of man is not in himself; nor in the hands of angels, for no such trust does God put in them; but in the hands of Jesus Christ, where they are safe, and out of which none can pluck them.",
+            "Christ prays for them, that their faith fail not; and from a final and total falling away from grace into sin.",
+            "Salvation is already obtained for them, by the obedience and sufferings of Christ, and is applied to them in conversion, by the Spirit of Christ; but the full enjoyment of it, which is here intended, is reserved for them in heaven; and to this they are kept, being heirs of it, and shall certainly possess it."
+        ],
+        "John Wesley": [
+            "The inheritance is reserved; the heirs are kept for it.",
+            "The power of God...guards us against all our enemies.",
+            "Through faith - through which alone salvation is both received and retained."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our salvation, the positive setting in bliss for the people of God, is reserved in heaven while we are guarded in the world. The power of God is the supreme cause of our preservation, and it works through our faith. As heirs of this inheritance, we are continuously being guarded by God's power, ready and prepared for what He has planned. We cannot rely on our own strength, but rather on the power of God to protect us. Through faith, we receive and retain this salvation, and though we may face dangers in the world, our safekeeping lies in the hands of Jesus Christ. The time for the full enjoyment of our salvation is not yet revealed, but it will be uncovered when Christ returns. In the meantime, we can have confidence that we are being kept by God's power, shielded as by a garrison, safe and secure in Him.",
+            "wordCount": 152,
+            "quoteTokenProportion": 45.35,
+            "qualityScore": 2.1393246291183328,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.47,
+            "commentatorTierSimilarities": [
+                28.41,
+                38.44,
+                33.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our salvation, the positive setting in bliss for the people of God, is reserved in heaven while we are guarded in the world. The power of God is the supreme cause of our preservation, and it works through our faith. As heirs of this inheritance, we are continuously guarded by God's power, ready and prepared for what He has planned. Through faith, we receive and retain this salvation, and our safekeeping lies in the hands of Jesus Christ. The time for the full enjoyment of our salvation is not yet revealed, but it will be uncovered when Christ returns. We are kept by God's power, shielded as by a garrison, safe and secure in Him.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.1175435698754823,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.75,
+            "commentatorTierSimilarities": [
+                28.8,
+                36.38,
+                34.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our salvation, involving the positive setting in bliss and the secure inheritance reserved in heaven, is accompanied by the continuous process of protection in the world. The power of God serves as both the supreme cause and the efficient means of guarding and preserving us. As we walk by faith, we can trust in the hand of Jesus Christ to keep us safe from falling away and to bring us into the full enjoyment of our salvation when the time is right. We are secure in Him, shielded by His power, while we await His glorious return.",
+            "wordCount": 97,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0455626977146846,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                27.5,
+                40.07,
+                32.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our salvation, the positive setting in bliss, is kept in heaven while we, as heirs, are guarded in the world. The continuous process of protection is provided through the power of God and works in conjunction with our faith. We are secure, as Christ prays for our faith not to fail, and our salvation is already obtained through his obedience and sufferings. Although the full enjoyment is yet to be revealed, we can have confidence that our inheritance is reserved and ready for us, held by God's power until the appointed time.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.143938180027556,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+            "commentatorTierSimilarities": [
+                28.18,
+                34.98,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our salvation, the positive setting in bliss, is reserved in heaven while we, as heirs, are guarded in the world. The power of God is the supreme cause of our preservation, working through our faith. We are continuously being guarded, as the present participle suggests, shielded by His power. The inheritance is kept, and we are kept with it, safe and secure. Through faith, we receive and retain this salvation, ready and prepared for its full enjoyment when the time is right.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.9712398024131064,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                31.38,
+                31.92,
+                36.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

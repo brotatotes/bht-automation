@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:21:00",
+    "verseRef": "Colossians 2:18",
+    "bestBHT": {
+        "bht": "Beware of those who deceive you with false humility and the worship of angels. They aim to take away your reward, using their fake humility and self-conceit to judge and control you. Their so-called humility is an act, for they are vainly puffed up with pride. This worship of angels, masked in humility, leads away from true reverence for God. Do not be fooled by their appearance of meekness; they seek to rob you of the prize that awaits those who remain faithful.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 2.3049850255770057,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.98,
+        "commentatorTierSimilarities": [
+            31.36,
+            34.66,
+            33.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let no one of purpose defraud you of your prize in lowliness of mind and worship of the angels.",
+            "This they willingly are ignorant of.",
+            "Insisting on things which he hath seen, vainly puffed up by the mind of his own flesh."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To be umpire in a contest to the detriment of one.",
+            "His 'humility,' so called, is a pleasing of self.",
+            "That the things seen may have been of demoniacal origination, appears from 1 Timothy 4:1, 'Some shall depart from the faith, giving heed to seducing spirits and doctrines of devils.'"
+        ],
+        "Albert Barnes": [
+            "They were desirous of appearing to do this with an humble spirit - even with the modesty of an angel - but still they had pleasure in that profound and dangerous kind of inquiry.",
+            "The danger in the case arose from the fact that they assumed so much the aspect of modest piety; so much the appearance of the lowly devotion of angelic beings.",
+            "The most meek and modest men in appearance are sometimes the most proud and reckless in their investigations of the doctrines of religion."
+        ],
+        "Marvin Vincent": [
+            "Delighting in humility.\" ",
+            "The worship of angels involved a show of humility, an affectation of superior reverence for God.",
+            "The humility is thus characterized as affected, and the teachers as charlatans."
+        ],
+        "John Calvin": [
+            "He admonishes them, therefore, that the false apostles aimed at nothing else than to snatch away from them the palm, inasmuch as they draw them aside from the rectitude of their course.",
+            "But, in my opinion, he rather condemns the contrivance as to the worshipping of angels. It is on this account that he has so carefully applied himself to this in the very commencement of the Epistle, to bring angels under subjection, lest they should obscure the splendor of Christ.",
+            "For whoever depends upon his own reason, inasmuch as the acuteness of the flesh is wholly at work in him, Paul declares him to be puffed up in vain. And truly all the wisdom that men have from themselves is mere wind: hence there is nothing solid except in the word of God and the illumination of the Spirit."
+        ],
+        "Philip Schaff": [
+            "Rob you of the prize. The figure, borrowed from the games, suggests an unfair decision of the umpire in awarding the prize; but it need not be pressed further than to mean depriving the Christian of his \u2018prize,\u2019 which is future blessedness, eternal life.",
+            "Willing,\u2019 or \u2018willingly,\u2019 as we must express it, a qualification of the verb \u2018rob you of the prize,\u2019 but three senses have been given it. (1.) Willingly, of his own choice or impulse; this is almost equivalent to \u2018arbitrarily,\u2019 and agrees best with the exact sense of the Greek word.",
+            "Vainly puffed up; puffed up with pride despite the show of humility, and that without ground."
+        ],
+        "Archibald T. Robertson": [
+            "Rob you of your prize (\u03ba\u03b1\u03c4\u03b1\u03b2\u03c1\u03b1\u03b2\u03b5\u03c5\u03b5\u03c4\u03c9)... here only in the N.T. So here it means to decide or give judgment against.",
+            "By a voluntary humility (\u03b8\u03b5\u03bb\u03c9\u03bd \u03b5\u03bd \u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03bf\u03c6\u03c1\u03bf\u03c3\u03c5\u03bd\u03b7)... finding pleasure in humility.",
+            "Vainly puffed up (\u03b5\u03b9\u03ba\u03b7 \u03c6\u03c5\u03c3\u03b9\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c2)... Powerful picture of the self-conceit of these bombastic Gnostics."
+        ],
+        "John Gill": [
+            "The Christian's reward, or prize he is running for, is the incorruptible and never fading crown of glory, life, and righteousness.",
+            "True humility is an excellent grace; it is the clothing and ornament of a Christian; nor is there anything that makes a man more like Christ, than this grace.",
+            "This shows that his humility was forced, and only in outward appearance, and was not true and genuine."
+        ],
+        "John Wesley": [
+            "Out of pretended humility, they worshipped angels, as not daring to apply immediately to God.",
+            "Yet this really sprung from their being puffed up: (the constant forerunner of a fall, Proverbs 16:18)",
+            "So far was it from being an instance of true humility."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of those who try to deceive you with their false humility and the worship of angels, for they are ignorant of the truth and puffed up by their own selfish desires. These charlatans want to take away your reward, using their false humility as a means to exert control and judgment over you. However, their so-called humility is nothing more than an act, for they are vainly puffed up with pride. This worship of angels, masked in humility, is a dangerous path that leads away from the true reverence and devotion to God. Do not be fooled by their appearance of meekness, for their true intentions are to rob you of the prize that awaits those who remain steadfast in their faith. Their actions, contrary to true humility, are driven by their own self-interest rather than genuine devotion to God.",
+            "wordCount": 143,
+            "quoteTokenProportion": 43.53,
+            "qualityScore": 2.362404085485985,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.89,
+            "commentatorTierSimilarities": [
+                29.09,
+                35.54,
+                35.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware of those who deceive you with false humility and the worship of angels. They aim to take away your reward, using their fake humility and self-conceit to judge and control you. Their so-called humility is an act, for they are vainly puffed up with pride. This worship of angels, masked in humility, leads away from true reverence for God. Do not be fooled by their appearance of meekness; they seek to rob you of the prize that awaits those who remain faithful.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.3049850255770057,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.98,
+            "commentatorTierSimilarities": [
+                31.36,
+                34.66,
+                33.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of those who deceive with false humility and the worship of angels. They aim to rob you of your reward, using their feigned humility as a means of control. However, their humility is merely an act, as they are puffed up with pride. This worship of angels, disguised as humility, strays from true devotion to God. Do not be swayed by their appearance of meekness; they seek to deprive you of the prize that awaits the faithful.",
+            "wordCount": 78,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.281026903925622,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.18,
+            "commentatorTierSimilarities": [
+                31.78,
+                34.45,
+                33.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of those who purposefully deceive with their affected humility and the worship of angels. They willfully ignore the truth and are puffed up by their own fleshly desires. These charlatans seek to defraud you of your reward, displaying false humility while secretly pursuing their own selfish agenda. Their show of humility is a facade, as their actions are driven by pride and self-conceit. They aim to be the arbitrators in your spiritual journey, leading you astray from the true reverence for God. Do not be fooled by their outward appearance of meekness; their intentions are to steal away the prize that awaits the faithful.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.147944412572156,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.76,
+            "commentatorTierSimilarities": [
+                30.92,
+                35.6,
+                33.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of those who deceive with affected humility and the worship of angels. They aim to defraud you of your reward, driven by their own pride and selfish desires. Their supposed humility is a charade, as they are puffed up with self-conceit. These false teachers seek to be your spiritual arbiters, leading you away from true devotion to God. Don't be deceived by their surface humility; their true intention is to rob you of the prize that awaits the faithful.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.182920128966763,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.92,
+            "commentatorTierSimilarities": [
+                32.37,
+                34.25,
+                33.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

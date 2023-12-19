@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 14:01:11",
+    "verseRef": "1 Thessalonians 5:6",
+    "bestBHT": {
+        "bht": "Let us not be like the apathetic world, but rather be wakeful and sober as we watch for Christ's coming. Alert wakefulness and calm assurance will prevent us from being surprised and confused. May we not go on sleeping, but keep awake, casting off the cares of the world and refraining from indulgence. Let us be calm and sober-minded, always prepared to meet the Son of God. With attentive minds, let us look to the Lord and be free from the pressures and lusts of the world.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.0452198166473687,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+        "commentatorTierSimilarities": [
+            31.37,
+            30.54,
+            38.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] the rest\u2014i. e. the careless world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sleep\" here is worldly apathy to spiritual things.",
+            "Watch\" for Christ's coming; literally, \"be wakeful.",
+            "Be sober\" - refraining from carnal indulgence, mental or sensual."
+        ],
+        "Albert Barnes": [
+            "Let us regard it as an event which is certainly to occur, and which may occur at any moment.",
+            "A man who expects soon to see the Son of God coming to judgment, ought to be a sober man.",
+            "Especially should Christians live with such vigilance and soberness as to be always prepared to meet the Son of God."
+        ],
+        "Marvin Vincent": [
+            "Let us watch.",
+            "Be sober.",
+            "Alert wakefulness and calm assurance will prevent their being surprised and confused by the Lord's coming."
+        ],
+        "John Calvin": [
+            "Let us not sleep, says he; that is, let us not, sunk in indolence, become senseless in the world.",
+            "But let us watch, that is, let us look to the Lord with an attentive mind.",
+            "And be sober, that is, casting away the cares of the world, which weigh us down by their pressure, and throwing off base lusts, mount to heaven with freedom and alacrity."
+        ],
+        "Philip Schaff": [
+            "Our position as children of light implies a certain corresponding wakefulness.",
+            "We look and long for His appearing, and do not sleep as other men may who do not desire or expect His coming.",
+            "Watch ye therefore, and pray always that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."
+        ],
+        "Archibald T. Robertson": [
+            "Let us not go on sleeping.",
+            "Let us keep awake.",
+            "To be calm, sober-minded."
+        ],
+        "John Gill": [
+            "let us not sleep as do others.... let us not act that part they do, or be like them",
+            "but let us watch; over ourselves, our hearts, thoughts, affections, words and actions",
+            "and be sober; not only in body, abstaining from excessive eating and drinking, using this world, and the good things of it, so as not to abuse them, or ourselves with them; but also in mind"
+        ],
+        "John Wesley": [
+            "Awake, and keep awake \u2014 Being awakened, let us have all our spiritual senses about us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us not be like the careless world, sinking into apathy towards spiritual things, but rather let us be watchful for Christ's coming and refrain from indulging in worldly pursuits. We are called to be alert and sober-minded, so that we may not be taken by surprise when the Lord returns. As children of light, we should live with vigilance and preparedness, always looking and longing for His appearing. Let us not be lulled into sleep, but instead let us keep awake, casting off the cares of the world and the base lusts that weigh us down, and instead fix our eyes on heaven with freedom and alacrity. May we watch over our hearts, thoughts, affections, words, and actions, being awake and spiritually attentive at all times.",
+            "wordCount": 129,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0104337720220142,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                24.56,
+                32.69,
+                42.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us not be like the careless world, sinking into apathy towards spiritual things, but rather be watchful for Christ's coming and refrain from indulging in worldly pursuits. We are called to be alert and sober-minded, so that we may not be taken by surprise when the Lord returns. As children of light, we should live with vigilance and preparedness, always looking and longing for His appearing. Let us not be lulled into sleep, but instead keep awake, casting off the cares of the world.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.040000148870382,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+            "commentatorTierSimilarities": [
+                26.93,
+                33.94,
+                39.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us not be like the careless world, sinking into apathy towards spiritual things, but rather be watchful for Christ's coming and refrain from indulging in worldly pursuits. We are called to be alert and sober-minded, so that we may not be taken by surprise when the Lord returns. As children of light, we should live with vigilance and preparedness, always looking and longing for His appearing. Let us not be lulled into sleep, but instead keep awake, casting off the cares of the world, and fixing our eyes on heaven with freedom and alacrity.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 2.0168559811798454,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                25.72,
+                34.82,
+                39.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us not be like the apathetic world, but rather be wakeful and sober as we watch for Christ's coming. Alert wakefulness and calm assurance will prevent us from being surprised and confused. May we not go on sleeping, but keep awake, casting off the cares of the world and refraining from indulgence. Let us be calm and sober-minded, always prepared to meet the Son of God. With attentive minds, let us look to the Lord and be free from the pressures and lusts of the world.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.0452198166473687,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                31.37,
+                30.54,
+                38.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us not be like the careless world, sinking into apathy towards spiritual things, but rather be watchful for Christ's coming and refrain from indulging in worldly pursuits. We are called to be alert and sober-minded, so that we may not be taken by surprise when the Lord returns. As children of light, let us keep awake, casting off the cares of the world and fixing our eyes on heaven with freedom and alacrity. May we watch over our hearts, thoughts, affections, words, and actions, being spiritually attentive at all times.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.952057686361583,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                25.56,
+                30.74,
+                43.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

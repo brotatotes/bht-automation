@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:30:53",
+    "verseRef": "2 Timothy 3:1",
+    "bestBHT": {
+        "bht": "In the last days, grievous times shall come. The only modification in the understanding of the premonitory symptoms is that for us, He with whom a thousand years are as one day has spread them over many consecutive ages. These difficult times, preceding Christ's second coming, will be imminent and come unexpectedly, leading to a state of perfection. However, we must not be idle or complacent in these troubling times, but instead, we must always be prepared and resistant.",
+        "wordCount": 80,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0005622528843645,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+        "commentatorTierSimilarities": [
+            35.28,
+            25.54,
+            39.18
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Know this, that in the last days... grievous times shall come.\" ",
+            "The discovery which the lapse of centuries and the ways of Providence have made to us, 'my Lord delayeth His coming,' misleads none but unfaithful servants.\" ",
+            "The only modification in the understanding of the premonitory symptoms is that for us, He with whom a thousand years are as one day has spread them, without changing their substance or their truth, over many consecutive ages."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "last days\u2014preceding Christ's second coming",
+            "difficult times,\" in which it is difficult to know what is to be done",
+            "shall be imminent\"; \"shall come unexpectedly"
+        ],
+        "Albert Barnes": [
+            "The \u2018object\u2019 of this reference to the perilous times which were to occur, was evidently to show the necessity of using every precaution to preserve the purity of the church.",
+            "Times of danger, of persecution, and of trial.",
+            "There can be no doubt that in all these passages the apostle refers to the same events."
+        ],
+        "Marvin Vincent": [
+            "The times immediately preceding Christ's second appearing are meant.",
+            "Perilous times: schwere Zeiten. Kairov denotes a definite, specific season.",
+            "Shall come: or will set in."
+        ],
+        "John Calvin": [
+            "But know this... we ought, on the contrary, to arouse our hearts for resistance.",
+            "In short, he means that there will not be, even under the gospel, such a state of perfection.",
+            "Hence it follows, that there is no time for idleness or for repose."
+        ],
+        "Philip Schaff": [
+            "The words imply, as do many other passages in the New Testament, the belief that the end of the world\u2019s history was not far off, that the then state of the world presented signs of its approach.",
+            "History has baffled that expectation, but the permanent truth remains that, as elsewhere, \u2018prophecy hath springing and germinant accomplishments.\u2019",
+            "Phenomena of evil, like those described by St. Paul, bring on one of those days of the Lord that are preludes of the final judgment."
+        ],
+        "Archibald T. Robertson": [
+            "In the last days.",
+            "Grievous.",
+            "Shall come."
+        ],
+        "John Gill": [
+            "That not only men of bad principles and practices are in the churches now, as before described in the preceding chapter, but that in succeeding ages there would be worse men, if possible.",
+            "The days will be evil because of these evil men: or they will be 'troublesome' times, very afflicting and distressing to pious minds.",
+            "And these times will be 'in the last days' of the apostolic age, and onward to the end of the world."
+        ],
+        "John Wesley": [
+            "In the last days \u2014 The time of the gospel dispensation, commencing at the time of our Lord's death, is peculiarly styled the last days. Grievous - Troublesome and dangerous."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the last days, grievous times shall come. These difficult times, preceding Christ's second coming, will be imminent and come unexpectedly. It is important to understand that the premonitory symptoms of these times have been spread over many consecutive ages, without changing their substance or truth. Paul's reference to these perilous times serves to emphasize the necessity of using every precaution to preserve the purity of the church. While the end of the world's history may not be as near as originally believed, the permanent truth remains that prophecy has continual relevance and brings about days of the Lord that are preludes to the final judgment. These troubling times will be pervasive even in the churches, as worse men will arise with bad principles and practices. Therefore, we must not be idle or complacent, but instead, we must always be prepared and resistant.",
+            "wordCount": 146,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9217524869093152,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "commentatorTierSimilarities": [
+                28.37,
+                33.37,
+                38.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the last days, grievous times shall come. These difficult times, preceding Christ's second coming, will be imminent and come unexpectedly. It is important to understand that the premonitory symptoms of these times have been spread over many consecutive ages. These troubling times will be pervasive even in the churches, as worse men will arise with bad principles and practices. Therefore, we must not be idle or complacent, but instead, we must always be prepared and resistant.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.893054751204112,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                32.31,
+                26.26,
+                41.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the last days, grievous times shall come. The only modification in the understanding of the premonitory symptoms is that for us, He with whom a thousand years are as one day has spread them over many consecutive ages. These difficult times, preceding Christ's second coming, will be imminent and come unexpectedly, leading to a state of perfection. However, we must not be idle or complacent in these troubling times, but instead, we must always be prepared and resistant.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0005622528843645,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+            "commentatorTierSimilarities": [
+                35.28,
+                25.54,
+                39.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Know that in the last days, before Christ's second coming, difficult and perilous times will be imminent. These times, which have been spread out over many ages, will be characterized by evil men and will require constant vigilance and resistance from believers. Although the belief in the imminent end of the world's history may not have been fulfilled in the way they expected, the truth remains that these prophecies have ongoing fulfillment in the evil phenomena that arise throughout history. Therefore, we should not be deceived by the delay of Christ's coming, but instead, we should be diligent in preserving the purity of the church and remaining steadfast in the face of these troublesome and grievous times that continue from the apostolic age to the end of the world.",
+            "wordCount": 132,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.042364983686453,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+            "commentatorTierSimilarities": [
+                25.97,
+                33.72,
+                40.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the last days, preceding Christ's second coming, difficult and grievous times shall come. These times will be spread over many ages, but the need for vigilance and resistance remains. Though the belief in the imminent end of the world's history may not have been fulfilled as expected, the truth stands that prophecies find ongoing fulfillment in the evil phenomena of history. Therefore, believers must not be deceived but remain diligent in preserving the church's purity amidst these troublesome and dangerous times.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9924443257637172,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                26.42,
+                33.57,
+                40.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:14:09",
+    "verseRef": "Luke 2:26",
+    "bestBHT": {
+        "bht": "By the special leading of the Holy Spirit, Simeon had received a revelation that he would not die until he saw the Messiah, the Lord's Anointed. This revelation was a response to his prayers and had great significance. It would be a marvelous sight, shining through the darkness of his imminent death. The Messiah, anointed by Jehovah with the Holy Spirit, was the hope and support of those who believed. Simeon's privilege of seeing Christ by faith before he died would bring comfort and enable him to depart in peace.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.7839512326820646,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+        "commentatorTierSimilarities": [
+            27.05,
+            40.39,
+            32.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Symeon was the subject of an especial indwelling and leading of the Holy Ghost...\" ",
+            "analogous to that higher form of the spiritual life expressed in the earliest days by walking with God...",
+            "God\u2019s saints have often been directed and informed in an extraordinary manner by His Holy Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "implying, beyond all doubt, the personality of the Spirit.",
+            "sweet antithesis!",
+            "How would the one sight gild the gloom of the other!"
+        ],
+        "Albert Barnes": [
+            "Not see death - Should not die. To 'see' death and to 'taste' of death, was a common way among the Hebrews of expressing death itself.\" ",
+            "The Lord\u2019s Christ - Rather 'the Lord\u2019s Anointed.' The word 'Christ' means 'anointed,' and it would have been better to use that word here.",
+            "To us also it will be as great a privilege in our dying hours to have seen Christ by faith as it was to Simeon. It will be the only thing that can support us then - the only thing that will enable us to depart in peace."
+        ],
+        "Marvin Vincent": [
+            "It was revealed [\u03b7\u03bd \u03ba\u03b5\u03c7\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd] . Lit., it was having been revealed; i e., it stood revealed, while he waited for the fulfilment of the revelation.\" ",
+            "The verb means primarily to have dealings with; thence to consult or debate about business matter; and so of an oracle, to give a response to one consulting it.",
+            "The word here implies that the revelation to Simeon had been given in answer to prayer."
+        ],
+        "Philip Schaff": [
+            "Should not see death.",
+            "The Lord\u2019s Christ, i.e., \u2018the Messiah of Jehovah.\u2019",
+            "It is implied that Simeon was very old, and would die soon after."
+        ],
+        "Archibald T. Robertson": [
+            "It had been revealed unto him (\u03b7\u03bd \u03b1\u03c5\u03c4\u03c9 \u03ba\u03b5\u03c7\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd). Periphrastic past perfect passive indicative.",
+            "A Fayum papyrus of 257 B.C. has the substantive \u03c7\u03c1\u03b7\u03bc\u03b1\u03c3\u03c4\u03b9\u03c3\u03bc\u03bf\u03c2 for a divine response.",
+            "Classic Greek idiom after a negative to have subjunctive as here (only example in the N.T.) or the optative after past tense."
+        ],
+        "John Gill": [
+            "that he should not see death... as yet: he should live some time longer; nor should that messenger be sent to remove him, though a man in years, out of time into eternity\" ",
+            "The Messiah is called the Lord's Christ... he was anointed by Jehovah, the Father, and with Jehovah, the Spirit; with the Holy Ghost, the oil of gladness, to be prophet, priest, and king, in the Lord's house.\" ",
+            "Simeon's language exactly agrees with the Targumist... the glory of thy people Israel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Simeon, who had a special indwelling and leading of the Holy Spirit, had received a revelation that he would not die before seeing the Lord's Anointed, the Messiah. This revelation was a direct response to his prayers and carried great significance. It would be a glorious sight that would brighten the gloom of his impending death, for the Messiah, anointed by Jehovah with the Holy Spirit, was the hope and support of those who believed. Simeon's language echoed the Targumist's, emphasizing the Messiah as the glory of the people of Israel. His privilege of seeing Christ by faith before his death would be a source of comfort and enable him to depart in peace.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.8498725176395743,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.85,
+            "commentatorTierSimilarities": [
+                25.67,
+                38.55,
+                35.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Simeon, being guided by the Holy Ghost, had received a revelation that he would not die until he saw the Lord's Anointed, the Messiah. This was a response to his prayers and held immense significance. It would be a remarkable sight that would illuminate the dark circumstances of his impending death. The Messiah, anointed by Jehovah with the Holy Spirit, was the hope and support of believers. Simeon's privilege of seeing Christ by faith before his death would bring comfort and enable him to depart in peace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7513111840252562,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.57,
+            "commentatorTierSimilarities": [
+                26.14,
+                41.18,
+                32.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By the special leading of the Holy Spirit, Simeon had received a revelation that he would not die until he saw the Messiah, the Lord's Anointed. This revelation was a response to his prayers and had great significance. It would be a marvelous sight, shining through the darkness of his imminent death. The Messiah, anointed by Jehovah with the Holy Spirit, was the hope and support of those who believed. Simeon's privilege of seeing Christ by faith before he died would bring comfort and enable him to depart in peace.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.7839512326820646,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                27.05,
+                40.39,
+                32.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Simeon, under the special guidance of the Holy Spirit, had received a revelation that he would not face death until he witnessed the Lord's Anointed, the Messiah. This privileged revelation, granted in response to his prayers, carried immense significance. It would be a wondrous sight that would dispel the darkness of his impending demise. The Messiah, anointed by Jehovah through the Holy Spirit, held the hope and support of believers. Simeon's blessing of beholding Christ through faith before passing away would provide solace and enable him to depart in peace.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.711723890727641,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.26,
+            "commentatorTierSimilarities": [
+                29.12,
+                37.09,
+                33.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simeon, through the leading of the Holy Spirit, had been granted a revelation that he would not experience death until he laid eyes on the Lord's Anointed, the Messiah. This divine message, in response to his earnest prayers, held profound significance. The sight of the Messiah, anointed by Jehovah with the Holy Spirit, would bring radiance and hope amidst the impending darkness of Simeon's passing. By the grace of seeing Christ by faith before his departure, Simeon would find comfort and be able to depart in peace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7691848079893333,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                27.62,
+                38.17,
+                34.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

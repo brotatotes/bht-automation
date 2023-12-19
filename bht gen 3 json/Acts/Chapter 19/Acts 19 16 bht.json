@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:33:44",
+    "verseRef": "Acts 19:16",
+    "bestBHT": {
+        "bht": "In Ephesus, seven sons of a chief priest attempted to cast out an evil spirit in the name of the Jesus whom Paul preaches. The evil spirit, however, leaped and overpowered them, leaving them naked and wounded. This event served as a powerful testimony against the impostors and in favor of Paul and the Lord Jesus, causing fear to fall on the people and leading to the magnification of Jesus' name. It is a striking example of the reality of spiritual possessions and the necessity of genuine faith in Christ.",
+        "wordCount": 90,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.7132362867222597,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.31,
+        "commentatorTierSimilarities": [
+            23.53,
+            42.24,
+            34.23
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The weight of MSS. evidence for this reading is even surpassed by its internal probability.",
+            "There would be every reason, as seven have been before mentioned, for altering it: but no imaginable one for substituting it for that of the common text.",
+            "Whether any similar occurrence happened to the rest, we are not informed: this one is selected as most notorious."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The reality of such possessions could not be more clearly expressed.",
+            "This was so appalling a testimony at once against those profane impostors and in favor of Paul and the Master whom he preached.",
+            "We wonder not that it spread to 'all the Jews and Greeks at Ephesus, that fear fell on them,' and that 'the name of the Lord Jesus was magnified.'"
+        ],
+        "Albert Barnes": [
+            "Leaped on them - Several such instances are recorded of the extraordinary power and rage of those who were possessed with evil spirits, Mark 5:3; Mark 9:29; Luke 9:42."
+        ],
+        "Marvin Vincent": [
+            "Prevailed against [\u03b9\u03c3\u03c7\u03c5\u03c3\u03b5] . See on Luke 14:30; Luke 16:3."
+        ],
+        "John Calvin": [
+            "For as Paul teacheth that we be the temples of God, because the Spirit of God dwelleth in us; so he saith again that Satan worketh effectually in all unbelievers.",
+            "God meant to show such a token, that he might declare that his power is not included in the sound of the voice, and that it is not lawful superstitiously to abuse the name of his Son.",
+            "For the false show and color of miracles is an horrible enchantment to bewitch and besot the unbelievers, that they may be drowned in deeper darkness, because they refused the light of God."
+        ],
+        "Philip Schaff": [
+            "Strong, like the poor man at Gadara (Mark 5:3-4), whom no man could bind...",
+            "Threw himself in a wild fury on the wretched imitators of Paul.",
+            "Leaped on them and mastered them on both sides, that is, when they stood before him, and afterwards from behind when they fled from him."
+        ],
+        "Archibald T. Robertson": [
+            "Second aorist (ingressive) middle participle of \u03b5\u03c6\u03b1\u03bb\u03bb\u03bf\u03bc\u03b1, old verb to spring upon like a panther, here only in the N.T.",
+            "Both (\u03b1\u03bc\u03c6\u03bf\u03c4\u03b5\u03c1\u03c9\u03bd). Papyri examples exist where \u03b1\u03bc\u03c6\u03bf\u03c4\u03b5\u03c1\u03bf means 'all' or more than 'two'. So here \u03b1\u03bc\u03c6\u03bf\u03c4\u03b5\u03c1\u03bf includes all seven.",
+            "Naked (\u03b3\u03c5\u03bc\u03bd\u03bf\u03c5\u03c2). Probably with torn garments,",
+            "Wounded (\u03c4\u03b5\u03c4\u03c1\u03b1\u03c5\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2). Perfect passive participle of \u03c4\u03c1\u03b1\u03c5\u03bc\u03b1\u03c4\u03b9\u03b6\u03c9, old verb to wound, from \u03c4\u03c1\u03b1\u03c5\u03bc\u03b1 (a wound). In the N.T. only here and Luke 20:12."
+        ],
+        "John Gill": [
+            "Being agitated by him: leapt upon them, with great agility and force, and laid hold on them, and struggled with them, and beat and wounded them, and stripped them naked.\" ",
+            "And overcame them, and prevailed against them.",
+            "So that they fled out of that house naked and wounded."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse tells us about an incident in Ephesus where seven sons of a Jewish chief priest attempted to expel an evil spirit in the name of the Jesus whom Paul preaches. However, the evil spirit leaped upon them and overpowered them, causing them to flee the scene naked and wounded. This served as a terrifying testimony against the impostors and in favor of Paul and the Lord Jesus, resulting in fear falling on all the Jews and Greeks in Ephesus, and the magnification of the name of Jesus. It is a powerful reminder of the reality of such possessions and the necessity of genuine faith in Christ.",
+            "wordCount": 108,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.714960288603165,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+            "commentatorTierSimilarities": [
+                24.46,
+                40.37,
+                35.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Ephesus, seven sons of a Jewish chief priest attempted to cast out an evil spirit using the name of Jesus. However, the evil spirit prevailed against them, leaping upon them and overpowering them. This incident became notorious and served as a powerful testimony against the impostors, magnifying the name of Jesus among the Jews and Greeks in Ephesus. It is a vivid illustration of the reality of such possessions and the need for genuine faith in Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.65881931076344,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+            "commentatorTierSimilarities": [
+                23.98,
+                44.18,
+                31.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Ephesus, seven sons of a Jewish chief priest attempted to cast out an evil spirit using the name of Jesus. However, the evil spirit prevailed against them, leaping upon them and overpowering them. This incident became notorious and served as a powerful testimony, magnifying the name of Jesus among the Jews and Greeks in Ephesus. It is a vivid illustration of the reality of such possessions and the need for genuine faith in Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.6385932382108057,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.83,
+            "commentatorTierSimilarities": [
+                24.2,
+                43.95,
+                31.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Ephesus, seven sons of a chief priest tried to cast out an evil spirit in the name of the Jesus whom Paul preaches. However, the evil spirit leaped on them and overpowered them, leaving them naked and wounded. This shocking incident exposed the folly of their imitation of Paul and demonstrated the power of the Lord Jesus. As a result, fear fell on the people, and the name of Jesus was magnified. It serves as a stark reminder of the reality of spiritual possessions and the importance of genuine faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.6753693226100137,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                23.7,
+                40.22,
+                36.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Ephesus, seven sons of a chief priest attempted to cast out an evil spirit in the name of the Jesus whom Paul preaches. The evil spirit, however, leaped and overpowered them, leaving them naked and wounded. This event served as a powerful testimony against the impostors and in favor of Paul and the Lord Jesus, causing fear to fall on the people and leading to the magnification of Jesus' name. It is a striking example of the reality of spiritual possessions and the necessity of genuine faith in Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7132362867222597,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.31,
+            "commentatorTierSimilarities": [
+                23.53,
+                42.24,
+                34.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 17:30:25",
+    "verseRef": "2 Timothy 2:18",
+    "bestBHT": {
+        "bht": "Paul's words were twisted by some who falsely believed that the resurrection was merely a spiritual awakening from sin. This denial of the true meaning of resurrection undermines faith's foundation and leads to error. Those who assert that the resurrection is already past distort the truth and wander from Scripture. This dangerous misconception robs believers of hope and undermines a fundamental article of faith. We must diligently resist such teachings and hold onto the true understanding of resurrection.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.984379202757148,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+        "commentatorTierSimilarities": [
+            26.99,
+            31.09,
+            41.91
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They 'wrested' (:-) Paul's own words (Romans 6:4; Ephesians 2:6; Colossians 2:12) 'to their own destruction,' as though the resurrection was merely the spiritual raising of souls from the death of sin.\" ",
+            "To believe it past (as the Seleucians or Hermians did, according to AUGUSTINE [Epistles, 119.55, To Januarius, 4]), is to deny it in its true sense.\" ",
+            "Trying to subvert 'the foundation' on which alone faith can rest secure."
+        ],
+        "Albert Barnes": [
+            "No man can safely hold a single error, any more than he can safely have one part of his body in a state of mortification.",
+            "Just views of the resurrection undoubtedly lie at the foundation of correct apprehensions of the Christian system.",
+            "On this point, [the error] would appear on all the correlative subjects of Christian belief."
+        ],
+        "Marvin Vincent": [
+            "Have erred [\u03b7\u03c3\u03c4\u03bf\u03c7\u03b7\u03c3\u03b1\u03bd] . See on 1 Timothy 1:6. ",
+            "The resurrection [\u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03b9\u03bd] . Only here in Pastorals."
+        ],
+        "John Calvin": [
+            "By this trick Satan overthrows that fundamental article of our faith concerning the resurrection of the flesh.\" ",
+            "Being an old and worthless dream, and being so severely condemned by Paul, it ought to give us the less uneasiness.",
+            "But when we learn that, from the very beginning of the gospel, the faith of some was subverted, such an example ought to excite us to diligence, that we may seize an early opportunity of driving away from ourselves and others so dangerous a plague."
+        ],
+        "Philip Schaff": [
+            "Saying that the resurrection is past already...they taught that baptism or conversion was the true resurrection.\" ",
+            "In so doing, St. Paul...felt that they were overthrowing men's faith and robbing them of their hope.",
+            "Probably caricaturing St. Paul's own teaching...they came by a roundabout way to the same conclusion as the Sadducee."
+        ],
+        "Archibald T. Robertson": [
+            "The very ones who have erred, missed the mark.",
+            "That the resurrection is past already.",
+            "Overthrow."
+        ],
+        "John Gill": [
+            "They fell from the truth, wandered and departed from it; they did not keep to the Scriptures of truth, but deviated from them.\" ",
+            "Their error was... that there is no other resurrection than the spiritual one, or regeneration, which is a quickening of dead sinners, or the resurrection of them from the death of sin, to a life of grace.",
+            "They overthrow the faith of some; that is, of nominal professors of religion; not of true believers, for true faith cannot be overthrown."
+        ],
+        "John Wesley": [
+            "Saying the resurrection is already past \u2014 Perhaps asserting that it is only the spiritual passing from death unto life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some individuals, by distorting Paul's own words, have wrongly concluded that the resurrection is merely a spiritual awakening from the death of sin. These people, in their misguided attempt to deny the true sense of the resurrection, are in fact undermining the very foundation upon which faith rests. Their error has caused them to deviate from the truth and wander from the Scriptures. By asserting that the resurrection is already past, they are essentially equating it with spiritual transformation or regeneration. Their teachings not only overthrow the faith of some, but also rob believers of the hope that comes from the true understanding of the resurrection. Such a dangerous misconception must be diligently resisted, as it undermines one of the fundamental articles of our faith.",
+            "wordCount": 126,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.9494963684936146,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.16,
+            "commentatorTierSimilarities": [
+                27.19,
+                29.77,
+                43.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's words were twisted by some who falsely believed that the resurrection was merely a spiritual awakening from sin. This denial of the true meaning of resurrection undermines faith's foundation and leads to error. Those who assert that the resurrection is already past distort the truth and wander from Scripture. This dangerous misconception robs believers of hope and undermines a fundamental article of faith. We must diligently resist such teachings and hold onto the true understanding of resurrection.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.984379202757148,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                26.99,
+                31.09,
+                41.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some individuals have erred by twisting Paul's words and denying the true sense of resurrection. By asserting that the resurrection is already past, they undermine the foundation of faith and rob believers of hope. This error leads to a deviation from the truth and a departure from the Scriptures. Such teachings overthrow the faith of some and can be a dangerous plague. We must diligently resist this misconception and uphold the importance of the resurrection as a fundamental article of our faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8839830743518091,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                27.29,
+                31.42,
+                41.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Some have erred by distorting Paul's words to deny the true sense of resurrection, claiming it is merely a spiritual awakening from sin. This undermines faith's foundation, robbing believers of hope. Deviating from the truth revealed in Scripture, these teachings overthrow the faith of many. We must diligently resist such dangerous misconceptions, holding firm to the importance of the resurrection as a fundamental article of faith.",
+            "wordCount": 68,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.8906417375480515,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.21,
+            "commentatorTierSimilarities": [
+                28.5,
+                30.37,
+                41.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By distorting Paul's words, some have erred in denying the true sense of resurrection, asserting it is only a spiritual awakening from sin. This undermines the foundation of faith, robbing believers of hope. Deviating from the truth of Scripture, their teachings overthrow the faith of many. We must diligently resist these dangerous misconceptions, holding firm to the resurrection as a fundamental article of faith.",
+            "wordCount": 65,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.9056738201828536,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                28.35,
+                29.99,
+                41.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 13:58:34",
+    "verseRef": "1 Thessalonians 3:9",
+    "bestBHT": {
+        "bht": "The Thessalonians' vibrant and joyful life is reflected in their earnest desire to offer abundant thanksgiving to God. Their gratitude is a expression of returning God's favors with thanks, acknowledging that it is Him who has bestowed them with joy. Their joy is genuine, sincere, and pure, a joy as in the presence of God. Although they may feel incapable of fully expressing their gratitude, they willingly render again to God, recognizing that He is the cause and foundation of their joy.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.0233716465557654,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+        "commentatorTierSimilarities": [
+            27.96,
+            38.75,
+            33.29
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And this vigour of life shows itself in the earnest desire of abundant thanksgiving.",
+            "Thanks is itself a return for God\u2019s favours.",
+            "This joy...is His joy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For what thanks\u2014what sufficient thanks?",
+            "It is a joy which will bear God's searching eye: a joy as in the presence of God, not self-seeking, but disinterested, sincere, and spiritual.",
+            "A joy as in the presence of God, not self-seeking, but disinterested, sincere, and spiritual."
+        ],
+        "Albert Barnes": [
+            "What thanks can we render to God again...",
+            "an equivalent for the joy which your holy walk has furnished...",
+            "our gratitude for it."
+        ],
+        "John Calvin": [
+            "He intimates how extraordinary is the greatness of his joy, by asking himself what thanks he can render to God.\" ",
+            "He declares that he cannot find an expression of gratitude that can come up to the measure of his joy.\" ",
+            "He says that he rejoices before God, that is, truly and without any pretense."
+        ],
+        "Philip Schaff": [
+            "It was 'joy' that flooded his soul with fresh life: a joy so abundant that no thanksgiving could adequately express it.\" ",
+            "His was a joy which naturally carried him into the presence of God; his exultation over the Thessalonians was all suffused with gratitude to God, who had wrought in them this triumphant increasing faith."
+        ],
+        "Archibald T. Robertson": [
+            "Render again unto God.\" ",
+            "For you.\" ",
+            "Basis again as cause or ground for the joy."
+        ],
+        "John Gill": [
+            "For what thanks can we render to God again or you...but they knew not where to begin, what to render, and when to end."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The vigor of life in the Thessalonians is shown through their earnest desire for abundant thanksgiving to God, recognizing that thanks is itself a return for His favors. This joy they experience is God's joy, a joy that is sincere, spiritual, and unaffected by self-interest. It is a joy that allows them to render again to God, acknowledging Him as the cause and the basis for their joy. The depth of this joy is almost indescribable, leaving them wondering what sufficient thanks they can offer. But they rejoice, sincerely and without pretense, knowing that no matter what gratitude they express, it will never fully measure up to the boundless joy they feel.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.9649370166398632,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.68,
+            "commentatorTierSimilarities": [
+                28.36,
+                38.58,
+                33.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians display a vibrant zeal for life, evident in their ardent desire to offer abundant thanksgiving to God. They understand that gratitude is the proper response to His favors and that this joy they experience is intimately connected to His own joy. They are sincere and genuine, seeking to please God rather than themselves in their expressions of gratitude. Their deep sense of joy stems from their awareness that every good thing comes from God, giving Him the cause and the basis for their rejoicing.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.8634846506894607,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+            "commentatorTierSimilarities": [
+                28.74,
+                39.54,
+                31.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians' vibrant and energetic attitude towards life is demonstrated through their fervent desire for abundant thanksgiving. They recognize that expressing gratitude is a way to reciprocate God's blessings and that their joy is intertwined with His own. Their joy is genuine, sincere, and selfless, as it is rooted in the presence of God and not driven by personal gain. They humbly acknowledge that no amount of thanks can fully repay God for His goodness, but they willingly render again to Him, knowing He is the source of their joy.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.8611168209029212,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                28.6,
+                39.35,
+                32.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Thessalonians' vibrant and joyful life is reflected in their earnest desire to offer abundant thanksgiving to God. Their gratitude is a expression of returning God's favors with thanks, acknowledging that it is Him who has bestowed them with joy. Their joy is genuine, sincere, and pure, a joy as in the presence of God. Although they may feel incapable of fully expressing their gratitude, they willingly render again to God, recognizing that He is the cause and foundation of their joy.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0233716465557654,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+            "commentatorTierSimilarities": [
+                27.96,
+                38.75,
+                33.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians demonstrate their vitality by eagerly desiring to offer abundant thanksgiving, understanding that thanks is the appropriate response to God's blessings. Their joy is not self-centered, but derived from God Himself. They strive to rejoice in God's presence, embodying a deep and genuine joy that is sincere and spiritual. Although they feel inadequate in fully expressing their gratitude, they willingly render thanks to God, recognizing His role as the cause and basis for their joy.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9550108569807314,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.35,
+            "commentatorTierSimilarities": [
+                29.05,
+                37.22,
+                33.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

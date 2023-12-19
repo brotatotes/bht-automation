@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:31:24",
+    "verseRef": "2 Timothy 4:5",
+    "bestBHT": {
+        "bht": "To be faithful in our ministry, we must keep our coolness and presence of mind, speak and act for the truth, and suffer hardships. We are called to be worthy successors, no longer depending on others, but carrying out our own directions. We are urged to watch, endure afflictions, and make full proof of our ministry. This entails being vigilant against error and sin, fulfilling the duties of an evangelist, and allowing our ministry to demonstrate its potential for the welfare of mankind.",
+        "wordCount": 83,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.8595616248586735,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+        "commentatorTierSimilarities": [
+            26.45,
+            35.82,
+            37.73
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Keep thy coolness and presence of mind, that thou be not entrapped into forgetfulness, but discern and use every opportunity of speaking and acting for the truth.",
+            "In all things, suffer hardship, do the work of an Evangelist, fill up the measure of thy ministry.",
+            "I am no longer here to withstand these things: be thou a worthy successor of me, no longer depending on, but carrying out for thyself my directions: follow my steps, inherit their result, and the honour of their end."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be thou a worthy successor of me, no longer depending on me for counsel, but thine own master, and swimming without the corks.",
+            "Watch thou\u2014literally, 'with the wakefulness of one sober.'",
+            "Make full proof of\u2014fulfil in all its requirements, leaving nothing undone."
+        ],
+        "Albert Barnes": [
+            "Be vigilant against error and against sin, and faithful in the performance of duty.",
+            "Do the work of preaching the gospel, or of one appointed to proclaim the glad tidings of salvation. This is the proper business of all ministers.",
+            "Each one should resolve, by the blessing of God, that the ministry, in his hands, shall be allowed, 'by a fair trial,' to show to the utmost what it is adapted to do for the welfare of mankind."
+        ],
+        "Marvin Vincent": [
+            "Watch thou.\" ",
+            "Endure afflictions.\" ",
+            "Make full proof of thy ministry."
+        ],
+        "John Calvin": [
+            "The more grievous the diseases are, the more earnestly Timothy may labor to cure them; and that the nearer dangers are at hand, the more diligently he may keep watch.",
+            "Timothy, by watching, and by patiently enduring afflictions, and by constant teaching, will succeed in having the truth of his ministry established, because from such marks all will acknowledge him to be a good and faithful minister of Christ.",
+            "When the devil has raised his standard, and when scandals and disturbances abound everywhere, we cannot be sufficiently attentive to guard against them, unless we are fortified by patience, and are not discouraged by the adversity which we must endure."
+        ],
+        "Philip Schaff": [
+            "Thou, whatever others may do, shouldst watch.",
+            "Do the work of an evangelist.",
+            "Make full proof of thy ministry."
+        ],
+        "Archibald T. Robertson": [
+            "Be sober in thy head.",
+            "Do the work of an evangelist.",
+            "Fulfil (\u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b7\u03c3\u03bf\u03bd)."
+        ],
+        "John Gill": [
+            "But watch thou in all things....to give the time of night, and notice of approaching danger, and see the laws of Christ put in execution.\" (quote 1)",
+            "Endure afflictions...patiently, cheerfully, and courageously; so as not to be moved by them to desist from the work of the ministry.\" (quote 2)",
+            "Make full proof of thy ministry...particularly when he diligently and constantly attends to his work; cheerfully and patiently suffers for Christ and his Gospel, and lives an agreeable life and conversation.\" (quote 3)"
+        ],
+        "John Wesley": [
+            "The scripture watching, or waiting, implies steadfast faith, patient hope, labouring love, unceasing prayer; yea, the mighty exertion of all the affections of the soul that a man is capable of.",
+            "In all things \u2014 Whatever you are doing, yet in that, and in all things, watch.",
+            "Do the work of an evangelist - Which was next to that of an apostle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Timothy 4:5, we are reminded to keep our coolness and presence of mind, discern and use every opportunity to speak and act for the truth, and to suffer hardships and do the work of an Evangelist. We are encouraged to be worthy successors, no longer depending on others, but carrying out our own directions. We are to watch with wakefulness, endure afflictions, and make full proof of our ministry. This verse calls us to be vigilant against error and sin, faithful in our duties, and to resolve that our ministry will be allowed to show to the utmost what it can do for the welfare of mankind. As we patiently endure, watch diligently, and fulfill the requirements of our ministry, we establish ourselves as good and faithful ministers of Christ. In times of adversity and rising temptations, we must guard against them by fortifying ourselves with patience and not being discouraged. Through steadfast faith, patient hope, laboring love, unceasing prayer, and the exertion of all our affections, we embody the scriptural notion of watching. By doing the work of an evangelist, we align ourselves with the apostles' mission.",
+            "wordCount": 188,
+            "quoteTokenProportion": 36.52,
+            "qualityScore": 1.840127656701119,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                24.22,
+                33.88,
+                41.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are reminded to keep our coolness and presence of mind, discern and use every opportunity to speak for the truth, and suffer hardships. We are called to be worthy successors, no longer depending on others, but carrying out our own directions. We are to watch, endure afflictions, and make full proof of our ministry. This verse encourages us to be vigilant against error and sin, faithful in our duties, and resolved to let our ministry show its potential for the welfare of mankind.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7524372669765684,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.61,
+            "commentatorTierSimilarities": [
+                26.4,
+                34.24,
+                39.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To be faithful in our ministry, we must keep our coolness and presence of mind, speak and act for the truth, and suffer hardships. We are called to be worthy successors, no longer depending on others, but carrying out our own directions. We are urged to watch, endure afflictions, and make full proof of our ministry. This entails being vigilant against error and sin, fulfilling the duties of an evangelist, and allowing our ministry to demonstrate its potential for the welfare of mankind.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8595616248586735,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+            "commentatorTierSimilarities": [
+                26.45,
+                35.82,
+                37.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In fulfilling our ministry, we are reminded to stay composed and discern every opportunity to speak and act for the truth. We are called to be worthy successors, swimming without dependence on others, and to carry out our own directions. With wakefulness, endurance of afflictions, and the fulfillment of our ministry, we establish ourselves as good and faithful ministers of Christ. We must remain vigilant against error and sin, faithfully perform our duties as evangelists, and allow our ministry to showcase its potential for the welfare of mankind.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.7594573069577009,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.84,
+            "commentatorTierSimilarities": [
+                24.51,
+                35.96,
+                39.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To faithfully fulfill our ministry, we must maintain composure and discern each opportunity to speak and act for the truth. As worthy successors, we must no longer rely on others but diligently carry out our own directions. Through vigilance, endurance of afflictions, and the complete fulfillment of our ministry's requirements, we establish ourselves as loyal and effective ministers of Christ. We must remain watchful, steadfast in the work of an evangelist, and allow our ministry to demonstrate its potential for the betterment of humanity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8002147621740647,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+            "commentatorTierSimilarities": [
+                26.19,
+                34.53,
+                39.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

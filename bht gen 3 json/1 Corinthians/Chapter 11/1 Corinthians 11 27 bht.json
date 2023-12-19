@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:12:05",
+    "verseRef": "1 Corinthians 11:27",
+    "bestBHT": {
+        "bht": "Whoever partakes of the bread or cup of the Lord unworthily is guilty of the Body and Blood of the Lord. Such a person proclaims the Death of Christ, yet does so with no regard to that Death as his atonement or a proof of Christ's love. To eat and drink at the Lord's Table as at a common meal is to put an affront upon the body and blood of Christ. If we do not partake of the sacramental symbol of the Lord's death worthily, we share in the guilt of that death.",
+        "wordCount": 97,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 2.5889435499319315,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.42,
+        "commentatorTierSimilarities": [
+            32.89,
+            37.07,
+            30.04
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whoever therefore shall either eat the bread or drink the cup of the Lord unworthily shall be guilty of the Body and Blood of the Lord.\" ",
+            "Such an one proclaims the Death of Christ, and yet in an unworthy spirit - with no regard to that Death as his atonement, or a proof of Christ's love: he proclaims that Death as an indifferent person: he therefore partakes of the guilt of it.",
+            "Chrysostom strikingly says, 'He makes that Death a murder, and not a sacrifice.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Impropriety in only one of the two elements, vitiates true communion in both.",
+            "If we do not partake of the sacramental symbol of the Lord's death worthily, we share in the guilt of that death.",
+            "However unworthy we be, if we examine ourselves so as to find that we penitently believe in Christ's Gospel, we may worthily communicate."
+        ],
+        "Albert Barnes": [
+            "If this be the origin and intention of the Lord\u2019s Supper, then it follows that whoever partakes of it in an improper manner is guilty of his body and blood.",
+            "It is important, therefore, that there should he a correct understanding of this passage. Most persons interpret it as if it were 'unworthy,' and not 'unworthily,' and seem to suppose that it refers to their personal qualifications, to their 'unfitness' to partake of it, rather than to the manner in which it is done.",
+            "To treat with irreverence and profaneness the bread which was an emblem of his broken body, was to treat with irreverence and profaneness the body itself; and in like manner the wine, the symbol of his blood."
+        ],
+        "Marvin Vincent": [
+            "Unworthily [\u03b1\u03bd\u03b1\u03be\u03b9\u03c9\u03c2] . Defined by \"not discerning the Lord 's body,\" ver. 29. ",
+            "Guilty [\u03b5\u03bd\u03bf\u03c7\u03bf\u03c2] . See on Mark 3:29; James 2:10."
+        ],
+        "John Calvin": [
+            "Now, if we would catch the meaning of this declaration, we must know what it is to eat unworthily. Some restrict it to the Corinthians, and the abuse that had crept in among them, but I am of opinion that Paul here, according to his usual manner, passed on from the particular case to a general statement, or from one instance to an entire class.",
+            "As such downright contempt is a token of wanton insult against Christ, there can be no doubt that such a person, whoever he is, receives the Supper to his own destruction.",
+            "I hold it, then, as a settled point, and will not allow myself to be driven from it, that Christ cannot be disjoined from his Spirit. Hence I maintain, that his body is not received as dead, or even inactive, disjoined from the grace and power of his Spirit."
+        ],
+        "Philip Schaff": [
+            "Wherefore whosoever shall eat the bread or drink the cup of the Lord unworthily 'unsuitably;' out of keeping in mind and heart with the design of this ordinance.",
+            "To eat and drink at the Lord\u2019s Table as at a common meal (for that is the case supposed) is certainly to put an affront upon the body and blood of Christ.",
+            "Those who 'sin wilfully after having received the knowledge of the truth,' are said to 'count the blood of the covenant a common thing' ( i.e. nothing differing from other blood)."
+        ],
+        "Archibald T. Robertson": [
+            "Paul does not say or imply that we ourselves must be 'worthy' to partake of the Lord's Supper.\" ",
+            "No one would ever partake on those terms.\" ",
+            "Shall be held guilty of a crime committed against the body and blood of the Lord by such sacrilege."
+        ],
+        "John Gill": [
+            "The Lord's supper may be taken unworthily, when it is partook of by unworthy persons.",
+            "No man is in himself worthy of such an ordinance, none but those whom Christ has made so by the implantation of his grace, and the imputation of his righteousness.",
+            "This bread and cup are ate and drank unworthily, when they are partook of to unworthy ends and purposes; as to qualify for any secular employment, and to gain any worldly advantage."
+        ],
+        "John Wesley": [
+            "Whosoever shall eat this bread unworthily [...] Shall be guilty of profaning that which represents the body and blood of the Lord.",
+            "in an unworthy, irreverent manner; without regarding either Him that appointed it, or the design of its appointment.",
+            "profaning that which represents the body and blood of the Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whoever partakes of the bread or cup of the Lord unworthily is guilty of the Body and Blood of the Lord. Such a person proclaims the Death of Christ, yet does so with no regard to that Death as his atonement or a proof of Christ's love. They make that Death a murder, not a sacrifice. Impropriety in only one of the two elements vitiates true communion in both. To eat and drink at the Lord's Table as at a common meal is to put an affront upon the body and blood of Christ. If we do not partake of the sacramental symbol of the Lord's death worthily, we share in the guilt of that death. However unworthy we may be, if we examine ourselves so as to find that we penitently believe in Christ's Gospel, we may worthily communicate.",
+            "wordCount": 144,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 2.325994502729487,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.68,
+            "commentatorTierSimilarities": [
+                36.57,
+                34.76,
+                28.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whoever partakes of the bread or cup of the Lord unworthily is guilty of the Body and Blood of the Lord. Such a person proclaims the Death of Christ, yet does so with no regard to that Death as his atonement or a proof of Christ's love. They make that Death a murder, not a sacrifice. To eat and drink at the Lord's Table as at a common meal is to put an affront upon the body and blood of Christ. If we do not partake of the sacramental symbol of the Lord's death worthily, we share in the guilt of that death.",
+            "wordCount": 106,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.437001033957843,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.37,
+            "commentatorTierSimilarities": [
+                34.86,
+                36.31,
+                28.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Whoever partakes of the bread or cup of the Lord unworthily is guilty of the Body and Blood of the Lord. Such a person proclaims the Death of Christ, yet does so with no regard to that Death as his atonement or a proof of Christ's love. They make that Death a murder, not a sacrifice. To eat and drink at the Lord's Table as at a common meal is to put an affront upon the body and blood of Christ. If we do not partake of the sacramental symbol of the Lord's death worthily, we share in the guilt of that death.",
+            "wordCount": 106,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.437001033957843,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.37,
+            "commentatorTierSimilarities": [
+                34.86,
+                36.31,
+                28.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Whoever partakes of the bread or cup of the Lord unworthily is guilty of the Body and Blood of the Lord. Such a person proclaims the Death of Christ, yet does so with no regard to that Death as his atonement or a proof of Christ's love. They make that Death a murder, not a sacrifice. To eat and drink at the Lord's Table as at a common meal is to put an affront upon the body and blood of Christ. If we do not partake of the sacramental symbol of the Lord's death worthily, we share in the guilt of that death.",
+            "wordCount": 106,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.437001033957843,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.37,
+            "commentatorTierSimilarities": [
+                34.86,
+                36.31,
+                28.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Whoever partakes of the bread or cup of the Lord unworthily is guilty of the Body and Blood of the Lord. Such a person proclaims the Death of Christ, yet does so with no regard to that Death as his atonement or a proof of Christ's love. To eat and drink at the Lord's Table as at a common meal is to put an affront upon the body and blood of Christ. If we do not partake of the sacramental symbol of the Lord's death worthily, we share in the guilt of that death.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.5889435499319315,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.42,
+            "commentatorTierSimilarities": [
+                32.89,
+                37.07,
+                30.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

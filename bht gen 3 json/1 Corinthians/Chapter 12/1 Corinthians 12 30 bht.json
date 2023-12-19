@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 15:12:15",
+    "verseRef": "1 Corinthians 12:30",
+    "bestBHT": {
+        "bht": "The question of whether everyone possesses the gift of interpretation is mentioned, indicating that this ability is not universally distributed. It is important to distinguish this gift from the anointing with oil for healing, which is specifically performed by church elders. The gift of interpretation is highly coveted but bestowed upon only certain individuals within the church.",
+        "wordCount": 57,
+        "quoteTokenProportion": 45.24,
+        "qualityScore": 1.3868333985515398,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.46,
+        "commentatorTierSimilarities": [
+            44.15,
+            0.0,
+            55.85
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Do all interpret? (\u03bc\u03b7 \u03c0\u03b1\u03bd\u03c4\u03b5\u03c2 \u03b4\u03b9\u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03c5\u03bf\u03c5\u03c3\u03b9\u03bd?). He adds this query to the list in 1 Corinthians 12:28, but it is in 1 Corinthians 12:10. "
+        ],
+        "John Gill": [
+            "When anointing with oil, in order to heal the sick, was in use, it was only performed by the elders of the church, not by the common members of it.\" ",
+            "It was not true in fact, as they well knew; though this was greatly coveted after, as a following chapter of this epistle shows.",
+            "This also was a peculiar gift bestowed on some persons only."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 12:30, the question is posed, Do all interpret? This question is added to the list in verse 28, but its significance is also mentioned in verse 10. The commentators note that not everyone possesses the gift of interpretation, but it is instead bestowed upon specific individuals. This gift is not to be confused with the anointing with oil for healing, which is performed exclusively by the elders of the church. While interpretation was highly desired, it was not a universal gift within the church.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.8583440456507951,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                58.67,
+                0.0,
+                41.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The query of whether everyone possesses the ability to interpret is raised in the passage. This question is mentioned both in the list and in a preceding verse. It is important to note that not all individuals are gifted with interpretation, as only certain individuals receive this ability. It is necessary to distinguish this gift from the practice of anointing with oil for healing, which is exclusively performed by church elders. While interpretation is highly sought after, it is not a gift that is uniformly distributed among all members of the church.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.402392298897723,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.97,
+            "commentatorTierSimilarities": [
+                55.8,
+                0.0,
+                44.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The question of whether everyone possesses the gift of interpretation is mentioned, indicating that this ability is not universally distributed. It is important to distinguish this gift from the anointing with oil for healing, which is specifically performed by church elders. The gift of interpretation is highly coveted but bestowed upon only certain individuals within the church.",
+            "wordCount": 57,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.3868333985515398,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.46,
+            "commentatorTierSimilarities": [
+                44.15,
+                0.0,
+                55.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The query of whether everyone possesses the ability to interpret is raised. This question is mentioned in both the list and a preceding verse, emphasizing that not all individuals are gifted with interpretation. It is crucial to differentiate this gift from the anointing with oil for healing, a practice performed exclusively by church elders. Though interpretation is highly desired, it is not universally bestowed upon all members of the church.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.4431150500758325,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.33,
+            "commentatorTierSimilarities": [
+                55.19,
+                0.0,
+                44.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The significance of the question Do all interpret? is highlighted, as it is mentioned in both the list and a preceding section. Not all possess the gift of interpretation, indicating its selective bestowment upon specific individuals. It is important to differentiate this gift from the anointing with oil for healing, a practice exclusively carried out by church elders. While the desire for the gift of interpretation is common, it is not universally distributed among members of the church.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.2953981711258933,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.42,
+            "commentatorTierSimilarities": [
+                55.33,
+                0.0,
+                44.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

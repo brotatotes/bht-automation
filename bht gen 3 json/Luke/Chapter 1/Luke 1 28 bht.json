@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:13:22",
+    "verseRef": "Luke 1:28",
+    "bestBHT": {
+        "bht": "Mary, highly favored and endowed with grace, found favor with God, not as the Roman Catholic Church falsely claims, full of grace. The angel's greeting to Mary was a declaration of the Divine presence and blessing already with her, not an invitation to worship her. Mary's position as the mother of Jesus did not elevate her above others, as Jesus himself confirmed. The angel's salutation acknowledges the grace she received without implying adoration or exaltation.",
+        "wordCount": 78,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 2.1343127373250166,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.31,
+        "commentatorTierSimilarities": [
+            28.44,
+            37.12,
+            34.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "highly favored, not 'full of grace,' as the Vulgate",
+            "the meaning of the original word in the only other place where it occurs in the N.T.",
+            "It corresponds to 'thou hast found favor with God,' ver. 30."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "highly favoured\u2014a word only once used elsewhere (Ephesians 1:6, 'made accepted'): compare Ephesians 1:6-",
+            "The mistake of the Vulgate's rendering, 'full of grace,' has been taken abundant advantage of by the Romish Church.",
+            "As the mother of our Lord, she was the most 'blessed among women' in external distinction; but let them listen to the Lord's own words."
+        ],
+        "Albert Barnes": [
+            "Hail - This word of salutation is equivalent to 'Peace be with thee,' or 'Joy be with thee;\u2019 a form of speech implying that she was signally favored, and expressing joy at meeting her.",
+            "Highly favoured - By being the mother of the long-expected Messiah - the mother of the Redeemer of mankind.",
+            "Blessed art thou among women - This passage is equivalent to saying 'thou art the most happy of women.'"
+        ],
+        "Marvin Vincent": [
+            "Thou that art highly favored [\u03ba\u03b5\u03c7\u03b1\u03c1\u03b9\u03c4\u03c9\u03bc\u03b5\u03bd\u03b7] . Lit., as Rev. in margin, endued with grace.",
+            "The rendering full of grace, Vulgate, Wyc., and Tynd., is therefore wrong.",
+            "The imperfect tense, 'began to reason.'"
+        ],
+        "John Calvin": [
+            "A conviction of the Divine goodness is the entrance of faith, and the angel properly observes this order, that, after preparing the heart of the virgin by meditation on the grace of God, he may enlarge it to receive an incomprehensible mystery.",
+            "Blessing is here put down as the result and proof of the Divine kindness. The word Blessed does not, in my opinion, mean, Worthy of praise; but rather means, Happy.",
+            "With extraordinary ignorance have the Papists, by an enchanter\u2019s trick, changed this salutation into a prayer, and have carried their folly so far, that their preachers are not permitted, in the pulpit, to implore the grace of the Spirit, except through their Hail, Mary."
+        ],
+        "Philip Schaff": [
+            "To refer it to any human being, makes sheer non-sense of the account.",
+            "She is here presented 'not as the mother of grace, but as the daughter of grace.'",
+            "The Lord is with thee. This might mean \u2018The Lord be with thee;\u2019 an angelic benediction. But it is more probably a declaration of the Divine presence and blessing as already with her."
+        ],
+        "Archibald T. Robertson": [
+            "Highly favoured (\u03ba\u03b5\u03c7\u03b1\u03c1\u03b9\u03c4\u03c9\u03bc\u03b5\u03bd\u03b7). Perfect passive participle of \u03c7\u03b1\u03c1\u03b9\u03c4\u03bf\u03c9 and means endowed with grace (\u03c7\u03b1\u03c1\u03b9\u03c2), enriched with grace.\" ",
+            "The Vulgate gratiae plena 'is right, if it means 'full of grace which thou hast received'; wrong, if it means 'full of grace which thou hast to bestow'.\" ",
+            "The oldest MSS. do not have 'Blessed art thou among women' here, but in verse Luke 1:42."
+        ],
+        "John Gill": [
+            "Hail; all health, happiness, and prosperity attend thee.\" ",
+            "Thou art highly favored; or graciously accepted, or hast obtained grace.\" ",
+            "The Lord is with thee; so the angel to Gideon, Judges 6:12 or 'be with thee'."
+        ],
+        "John Wesley": [
+            "Hail, thou highly favoured; the Lord is with thee; blessed art thou among women.\" ",
+            "Hail is the salutation used by our Lord to the women after his resurrection.",
+            "This salutation gives no room for any pretence of paying adoration to the virgin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary, the mother of Jesus, was highly favored, not full of grace, as some misinterpret. This phrase signifies that she had found favor with God. It is important to correct the mistake of the Vulgate's rendering, as the Roman Catholic Church has exploited it for their own purposes. Although Mary held the esteemed position of being the mother of our Lord, she was not to be exalted above others, as confirmed by Jesus himself. The angel's greeting to Mary serves as an acknowledgement of the grace she had received and a declaration of the Divine presence and blessing already with her. It is not a prayer or invitation to worship her.",
+            "wordCount": 113,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 1.9658851367432058,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.71,
+            "commentatorTierSimilarities": [
+                29.75,
+                38.49,
+                31.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary, highly favored and endowed with grace, found favor with God, not as the Roman Catholic Church falsely claims, full of grace. The angel's greeting to Mary was a declaration of the Divine presence and blessing already with her, not an invitation to worship her. Mary's position as the mother of Jesus did not elevate her above others, as Jesus himself confirmed. The angel's salutation acknowledges the grace she received without implying adoration or exaltation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.1343127373250166,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.31,
+            "commentatorTierSimilarities": [
+                28.44,
+                37.12,
+                34.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary was highly favored and endowed with grace, having found favor with God. The mistaken rendering of full of grace has been exploited by the Roman Catholic Church, but she was not to be exalted above others. The angel's greeting acknowledged the grace she had received and declared the Divine presence and blessing already with her, without implying adoration or worship. Mary's role as the mother of Jesus did not make her the object of worship, as Jesus himself confirmed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.1263568830276864,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+            "commentatorTierSimilarities": [
+                32.27,
+                35.72,
+                32.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary, highly favored and endowed with grace, found favor with God, not as the Vulgate wrongly translates as full of grace. The mistake of this rendering has been exploited by the Roman Catholic Church. While Mary held the esteemed position of being the mother of our Lord, she was not to be exalted above others, as confirmed by Jesus himself. The angel's greeting to Mary acknowledged the grace she had received and declared the Divine presence and blessing already with her, without implying adoration or worship.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.0858667381494387,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+            "commentatorTierSimilarities": [
+                33.94,
+                33.67,
+                32.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary, highly favored and endowed with grace, found favor with God, not as the Vulgate wrongly translates as full of grace. The mistake of this rendering has been exploited by the Roman Catholic Church. While Mary held the esteemed position of being the mother of our Lord, she was not to be exalted above others. The angel's greeting to Mary acknowledged the grace she had received and declared the Divine presence and blessing already with her, without implying adoration or worship.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.083704177043737,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                34.03,
+                33.87,
+                32.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

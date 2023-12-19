@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 15:32:12",
+    "verseRef": "Ephesians 5:7",
+    "bestBHT": {
+        "bht": "Do not become partakers with them warns against falling back into vices that displease God and expose to His wrath. Avoid fellowship with wicked workers and their wicked works. Steer clear of sharing in the sins and acts of disobedience of the sons of disobedience. Don't become like them by keeping unnecessary company, abetting and encouraging sinful practices, or even committing the same things.",
+        "wordCount": 65,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.2714362615582764,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.87,
+        "commentatorTierSimilarities": [
+            26.71,
+            35.54,
+            37.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Be not therefore (since this is so\u2014that God\u2019s wrath comes on them) partakers with them.",
+            "(the distinction \u2018Become not\u2019 is unnecessary and indeed unsuitable: it is not a gradual \u2018becoming,\u2019 but \u2018being,\u2019 like them, which he here dehorts from.",
+            "sharers in that which they have in common, viz. these practices: their present habitude, not, their punishment, which is future)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. Here fellowship with wicked",
+            "\tworkers is forbidden; in Ephesians 5:11,",
+            "\twith their wicked works."
+        ],
+        "Albert Barnes": [
+            "Be not ye therefore partakers with them - Since these things displease God and expose to his wrath, avoid them."
+        ],
+        "Marvin Vincent": [
+            "Be not [\u03b3\u03b9\u03bd\u03b5\u03c3\u03b8\u03b5] . Lit., become not. It is a warning against lapsing into old vices."
+        ],
+        "Philip Schaff": [
+            "Become; not \u2018be,\u2019 but a warning against what might take place.",
+            "Therefore; because of the fact stated in the last clause.",
+            "Partakers with them, i.e., \u2018the sons of disobedience;\u2019 sharing in their sins, which involves sharing in their punishment, but there is no direct reference to the latter."
+        ],
+        "Archibald T. Robertson": [
+            "Partakers with them (\u03c3\u03c5\u03bd\u03bc\u03b5\u03c4\u03bf\u03c7\u03bf \u03b1\u03c5\u03c4\u03c9\u03bd). Late double compound, only here in N.T., joint (\u03c3\u03c5\u03bd) shares with (\u03bc\u03b5\u03c4\u03bf\u03c7\u03bf) them (\u03b1\u03c5\u03c4\u03c9\u03bd). These Gnostics. "
+        ],
+        "John Gill": [
+            "Be not ye therefore partakers with them.",
+            "In their sins, and acts of disobedience.",
+            "By keeping needless company with them; by abetting and encouraging sinful practices; by conniving at them, and not reproving for them; or by committing the same things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not become partakers with them is a warning against falling back into old vices that displease God and expose to His wrath. This emphasizes the importance of avoiding fellowship with wicked workers and their wicked works. It is a call to steer clear of sharing in the sins and acts of disobedience of the sons of disobedience. The admonition is to not become like them by keeping unnecessary company, abetting and encouraging sinful practices, conniving at them, or even committing the same things.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.198271875675864,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.43,
+            "commentatorTierSimilarities": [
+                28.57,
+                36.02,
+                35.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not become partakers with them is a warning against falling back into old vices that displease God and expose to His wrath. This emphasizes the importance of avoiding fellowship with wicked workers and their wicked works. It is a call to steer clear of sharing in the sins and acts of disobedience of the sons of disobedience. The admonition is to not become like them by keeping unnecessary company, abetting and encouraging sinful practices, or even committing the same things.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.166211012383379,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.37,
+            "commentatorTierSimilarities": [
+                28.96,
+                35.92,
+                35.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not become partakers with them warns against falling back into vices that displease God and expose to His wrath. Avoid fellowship with wicked workers and their wicked works. Steer clear of sharing in the sins and acts of disobedience of the sons of disobedience. Don't become like them by keeping unnecessary company, abetting and encouraging sinful practices, or even committing the same things.",
+            "wordCount": 65,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.2714362615582764,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.87,
+            "commentatorTierSimilarities": [
+                26.71,
+                35.54,
+                37.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not become partakers with them is a warning to avoid falling back into old vices that displease God and expose to His wrath. It urges believers to steer clear of fellowship with wicked workers and their sinful practices, for such participation aligns them with the sons of disobedience. This admonition emphasizes the need to refrain from keeping unnecessary company and from abetting or committing the same sins. By heeding this caution, believers can maintain their separation from the world and live righteous lives.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.09895332552967,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.13,
+            "commentatorTierSimilarities": [
+                27.97,
+                37.61,
+                34.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not become partakers with them is a warning to avoid falling back into old vices and sinful practices that displease God and expose to His wrath. Believers are called to abstain from joining the sons of disobedience, refraining from unnecessary company, and abstaining from abetting or committing the same sins. By heeding this caution, believers can maintain their separation from the world and live righteous lives in line with God's will.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.1730974684520503,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.6,
+            "commentatorTierSimilarities": [
+                27.71,
+                38.08,
+                34.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:20:08",
+    "verseRef": "Luke 15:9",
+    "bestBHT": {
+        "bht": "In this parable, we witness the rejoicing and warm welcome of a lost sinner by God, as ministering spirits celebrate the return of a wayward soul. It emphasizes that while a sheep may stray on its own, the loss of a coin requires negligence on the part of its caretakers. The joy over repentance is not singular, as friends and neighbors also join in the celebration. Through this parable, we are reminded of the urgency to value and seek the lost, treating them as hidden treasures.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.5538650274278636,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.01,
+        "commentatorTierSimilarities": [
+            35.11,
+            34.78,
+            30.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the ministering spirits rejoice over every soul that is brought out of the dust of death into God\u2019s treasure-house by the searching of the blessed Spirit.",
+            "We have here the and welcome reception of the returning sinner (sinner under the most aggravating circumstances) in the bosom of his heavenly Father.",
+            "The parable certainly was spoken on the same occasion as the preceding, and relates to the same subject."
+        ],
+        "Marvin Vincent": [
+            "A sheep strays of itself, but a piece of money could only be lost by a certain negligence on the part of such as should have kept it.\" ",
+            "In the one case, the attention is fastened on the condition of the thing lost; in the other, upon the sorrow of the one who has lost."
+        ],
+        "Philip Schaff": [
+            "By using money with a prudence like that of the unjust steward, but under a higher motive and with better means than his, gain for yourselves \u2018friends,\u2019 rather than estates, mansions, etc.\" ",
+            "'Mammon' itself is not to be made a friend, but to be used in making the friends.",
+            "These \u2018friends\u2019 can only \u2018receive\u2019 us into the eternal tabernacles, i.e., in the future state of blessedness. They do not open heaven for anyone, they only welcome there."
+        ],
+        "Archibald T. Robertson": [
+            "Her friends and neighbours...note single article and female friends.",
+            "Which I lost...she lost the coin (note article).",
+            "The shepherd did not lose the one sheep."
+        ],
+        "John Gill": [
+            "If thou seekest her as silver, it is like to a man that has lost a 'shekel,' or beryl rings, within his house he lights up many lamps and many candles, until he lights on them.",
+            "For if a man for the things of the temporary life of this world, lights many lamps and candles, until he lights upon them and finds them.",
+            "The words of the law, since they are the life of this world, and the life of the world to come, shouldest thou not search after them as for hidden treasure?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 15:9, we see the rejoicing and warm welcome of a lost sinner into the presence of our Heavenly Father. Just as the ministering spirits rejoice over every soul that is brought to God, we witness the celebration over the return of a lost sheep. This parable highlights the compassion and love of God, who diligently searches for and welcomes sinners into His treasure-house. It emphasizes that while a sheep may stray on its own, the loss of a coin requires the negligence of those entrusted to care for it. The joy over the repentance of a sinner is not singular, as friends and neighbors also join in the rejoicing. Through this parable, we are reminded of the importance of valuing and seeking the lost, just as we would search for hidden treasure.",
+            "wordCount": 134,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 1.4848597123306946,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.71,
+            "commentatorTierSimilarities": [
+                36.38,
+                33.88,
+                29.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this parable, we witness the rejoicing and warm welcome of a lost sinner by God, as ministering spirits celebrate the return of a wayward soul. It emphasizes that while a sheep may stray on its own, the loss of a coin requires negligence on the part of its caretakers. The joy over repentance is not singular, as friends and neighbors also join in the celebration. Through this parable, we are reminded of the urgency to value and seek the lost, treating them as hidden treasures.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.5538650274278636,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.01,
+            "commentatorTierSimilarities": [
+                35.11,
+                34.78,
+                30.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this parable, we witness the rejoicing and warm welcome of a lost sinner into God's treasure-house by the ministering spirits. It highlights the tender compassion of our Heavenly Father who diligently searches for and embraces sinners. The loss of a coin due to negligence contrasts with a sheep straying on its own, emphasizing the sorrow of the one who has lost. This story also underscores the importance of valuing and seeking the lost, treating them as hidden treasures to be found.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.428938721134204,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.86,
+            "commentatorTierSimilarities": [
+                41.86,
+                26.56,
+                31.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this parable, we witness the rejoicing and warm welcome of a lost sinner into God's treasure-house by the ministering spirits. It highlights the compassion of our Heavenly Father who diligently searches for and embraces sinners. The loss of a coin due to negligence contrasts with a sheep straying on its own, emphasizing the sorrow of the one who has lost. This story also underscores the importance of valuing and seeking the lost, treating them as hidden treasures to be found.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.43451692507227,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.04,
+            "commentatorTierSimilarities": [
+                41.66,
+                26.19,
+                32.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this parable, we witness the rejoicing and warm welcome of a lost sinner into God's treasure-house by the ministering spirits. It emphasizes the compassion of our Heavenly Father who diligently searches for and embraces sinners. The loss of a coin due to negligence contrasts with a sheep straying on its own, highlighting their respective circumstances. This story also underscores the importance of valuing and seeking the lost, treating them as valuable treasures worth pursuing.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.3188355278460935,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.19,
+            "commentatorTierSimilarities": [
+                41.56,
+                26.48,
+                31.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:13:56",
+    "verseRef": "Luke 2:13",
+    "bestBHT": {
+        "bht": "Suddenly, a multitude of the heavenly host, resembling an army celebrating peace, descended upon this earth, resounding with the pure praise of God. Here, the heavenly army announces peace, praising and bearing testimony to the Son of God. Their divine splendor, harmonious song, and innumerable presence should inflame our faith and zeal to praise God. These angels, dwelling in heaven, echo the joyous shouts of the morning stars and the sons of God at the foundation of man's salvation in the incarnation of the Son of God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 27.59,
+        "qualityScore": 1.8108070006584462,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.55,
+        "commentatorTierSimilarities": [
+            32.61,
+            24.77,
+            42.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "suddenly\u2014as if only waiting till their fellow had done.",
+            "heavenly host\u2014or 'army,' an army celebrating peace!",
+            "transferring the occupation of their exalted station to this poor earth, which so seldom resounds with the pure praise of God."
+        ],
+        "Marvin Vincent": [
+            "A multitude of the heavenly host. Host [\u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03b1\u03c2] is literally army. \"Here the army announces peace\" (Bengel). Wyc., heavenly knighthood. Tynd., heavenly soldiers."
+        ],
+        "John Calvin": [
+            "An exhibition of divine splendor had been already made in the person of a single angel. But God determined to adorn his own Son in a still more illustrious manner.\" ",
+            "Among men, the testimony of 'two or three witnesses ' is sufficient to remove all doubt. But here is a heavenly host, with one consent and one voice bearing testimony to the Son of God.",
+            "We are convicted of more than brutal stupidity, if our faith and our zeal to praise God are not inflamed by the song which the angels, with the view of supplying us with the matter of our praise, sang in full harmony."
+        ],
+        "Philip Schaff": [
+            "A multitude of the heavenly host, i.e., angels, who are represented as a host surrounding the throne of God.",
+            "Nothing is said as to whether the song was in the air or on the earth; probably it was heard by the shepherds alone.",
+            "Probably it was heard by the shepherds alone."
+        ],
+        "Archibald T. Robertson": [
+            "Here the army announces peace.\" ",
+            "Praising.\" ",
+            "Construction according to sense."
+        ],
+        "John Gill": [
+            "These are styled an heavenly host, because they dwell in heaven; and to distinguish them from hosts and armies on earth.\" ",
+            "the angels are innumerable; there are thousands, ten thousands, and ten thousand times ten thousand of them.\" ",
+            "And thus, as at the laying of the foundation of the earth, these 'morning stars sang together, and all these sons of God shouted for joy', Job 38:7 they did the same when the foundation of man's salvation was laid in the incarnation of the Son of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Suddenly, like an army celebrating peace, a multitude of the heavenly host transferred their exalted station to this poor earth, resounding with the pure praise of God. Here, the heavenly army announces peace, praising and bearing testimony to the Son of God. With one consent and voice, they provide an exhibition of divine splendor, inflaming our faith and zeal to praise God with the song they sang in full harmony. These angels, dwelling in heaven and innumerable in their thousands, ten thousands, and ten thousand times ten thousand, shouted for joy at the foundation of man's salvation in the incarnation of the Son of God.",
+            "wordCount": 106,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.8301846411638154,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.2,
+            "commentatorTierSimilarities": [
+                31.82,
+                23.95,
+                44.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Suddenly, a multitude of the heavenly host, likened to an army celebrating peace, descended upon this earthly realm, transferring their exalted station to resound with pure praise. With one consent and voice, they announced peace and praised the Son of God. This exhibition of divine splendor inflames faith and zeal, as the angels' harmonious song serves as an undeniable testimony to the foundation of man's salvation in the incarnation of the Son of God, echoing the joyous shouts of the morning stars and the sons of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.6916950728442348,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.59,
+            "commentatorTierSimilarities": [
+                31.33,
+                25.74,
+                42.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Suddenly, a multitude of the heavenly host, resembling an army celebrating peace, descended upon this impoverished earth, resounding with the pure praise of God. With one voice, they proclaimed peace and praised the Son of God. Their divine splendor and harmonious song serve as an undeniable testimony, enflaming our faith and zeal to join in praising God. These angels, dwelling in heaven and numbering in the thousands and ten thousands, echoed the joyous shouts of the morning stars and the sons of God at the foundation of man's salvation in the incarnation of the Son of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.655463135254133,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+            "commentatorTierSimilarities": [
+                28.24,
+                25.55,
+                46.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Suddenly, a multitude of the heavenly host, resembling an army celebrating peace, descended upon this earth, resounding with the pure praise of God. Here, the heavenly army announces peace, praising and bearing testimony to the Son of God. Their divine splendor, harmonious song, and innumerable presence should inflame our faith and zeal to praise God. These angels, dwelling in heaven, echo the joyous shouts of the morning stars and the sons of God at the foundation of man's salvation in the incarnation of the Son of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.8108070006584462,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.55,
+            "commentatorTierSimilarities": [
+                32.61,
+                24.77,
+                42.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Suddenly, a multitude of the heavenly host, resembling an army celebrating peace, descended upon this humble earth, resonating with the pure praise of God. With one voice, they announced peace and praised the Son of God. Enflaming our faith and zeal, their divine splendor and harmonious song serve as an undeniable testimony to the foundation of man's salvation. These angels, dwelling in heaven and countless in number, echoed the joyous shouts of the morning stars and the sons of God at the incarnation of the Son of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.6383349990391967,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.82,
+            "commentatorTierSimilarities": [
+                28.3,
+                26.06,
+                45.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

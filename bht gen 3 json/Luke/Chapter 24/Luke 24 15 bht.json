@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:23:59",
+    "verseRef": "Luke 24:15",
+    "bestBHT": {
+        "bht": "Their minds were so consumed with doubt and uncertainty that they were supernaturally prevented from recognizing Jesus. However, Jesus, in His perfect timing, drew near to them while they were engaged in deep conversation, desiring to guide them in their search for truth. He walked with them, questioning and engaging in their discussion, revealing Himself as the answer to their doubts. Jesus desired to commune with those who sought after Him, overtaking them on their journey and joining them in their pursuit of understanding.",
+        "wordCount": 84,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.8491220144063965,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+        "commentatorTierSimilarities": [
+            23.35,
+            41.36,
+            35.29
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reason why they did not know Him was...that their eyes were supernaturally influenced, so that they could not.\" ",
+            "No change took place in Him\u2014nor apparently in them, beyond a power upon them, which prevented the recognition just so much as to delay it till aroused by the well-known action and manner of His breaking the bread.\" ",
+            "The cause of this was the will of the Lord himself, who would not be seen by them till the time when He saw fit."
+        ],
+        "Albert Barnes": [
+            "The disciples were properly employed. Their minds were anxious about the state of things, and they endeavored to arrive at the truth.",
+            "In this state of things Jesus came to solve their doubts, and to establish them in the belief that he was the Christ.",
+            "Christ will guide those who are sincerely endeavoring to know the truth. They who candidly and seriously endeavor to ascertain what is true and right he will direct."
+        ],
+        "Marvin Vincent": [
+            "The use of the imperfect here is very beautiful.\" ",
+            "Jesus drew near while they were absorbed in their talk.",
+            "He was already walking with them when they observed him."
+        ],
+        "Philip Schaff": [
+            "Jesus himself drew near... Jesus draws near to commune with those who commune of Him.",
+            "Probably coming from behind and overtaking them... He went with them.",
+            "They assume that He had been in Jerusalem... Jesus draws near to commune with those who commune of Him."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus himself (\u03b1\u03c5\u03c4\u03bf\u03c2 \u0399\u03b7\u03c3\u03bf\u03c5\u03c2). In actual person.",
+            "Went with them (\u03c3\u03c5\u03bd\u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u03b5\u03c4\u03bf \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2). Imperfect middle, was going along with them.",
+            "Each questioned the other."
+        ],
+        "John Gill": [
+            "Jesus himself drew near: the Persic version adds, 'suddenly'; he came up at once to them, as if he had been a traveller on the road, and overtook them.",
+            "And it came to pass, that while they communed together.... and reasoned; with one another; about the truth and credibility of the late report.",
+            "and went with them; joined himself in company to them, and travelled with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Their minds were so consumed with doubt and uncertainty that they were supernaturally prevented from recognizing Jesus. However, Jesus, in His perfect timing, drew near to them while they were engaged in deep conversation, desiring to guide them in their search for truth. He walked with them, questioning and engaging in their discussion, revealing Himself as the answer to their doubts. Jesus desired to commune with those who sought after Him, overtaking them on their journey and joining them in their pursuit of understanding.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8491220144063965,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+            "commentatorTierSimilarities": [
+                23.35,
+                41.36,
+                35.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their eyes were supernaturally influenced, preventing them from recognizing Jesus. He came to solve their doubts, guiding them in their search for truth. Jesus drew near while they were engrossed in conversation, desiring to commune with those who sought Him. He joined them on their journey, questioning and engaging in their discussion. Jesus revealed Himself to them, showing that He was the answer to their doubts and uncertainties.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8270805272601995,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
+            "commentatorTierSimilarities": [
+                26.63,
+                40.42,
+                32.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Their eyes were supernaturally influenced, preventing them from recognizing Jesus. In His perfect timing, Jesus drew near to them while they were absorbed in conversation, desiring to commune with those who sought Him. He joined them on their journey, questioning and engaging in their discussion. Jesus revealed Himself to them as the answer to their doubts and uncertainties.",
+            "wordCount": 58,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.8460430591900372,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                27.94,
+                39.29,
+                32.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their eyes were supernaturally influenced, so they did not recognize Jesus at first. He lingered near as they conversed, patiently waiting for the right moment to reveal Himself. As they journeyed together, Jesus engaged in their discussion, questioning and participating in their search for truth. His presence was intentional and purposeful, desiring to guide them and establish their belief in Him. Jesus proved Himself to be the answer, the fulfillment of their doubts and uncertainties.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.7211094188356721,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.57,
+            "commentatorTierSimilarities": [
+                27.28,
+                42.4,
+                30.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their eyes were supernaturally influenced, preventing them from recognizing Jesus. However, Jesus Himself drew near while they were deeply engaged in conversation, joining them on their journey and questioning their thoughts. He desired to commune with those who sought Him, patiently waiting to reveal Himself as the answer to their doubts and uncertainties. Jesus' intentional presence was meant to guide them and establish their belief in Him as the long-awaited Messiah.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.8360667021027925,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.39,
+            "commentatorTierSimilarities": [
+                26.58,
+                42.07,
+                31.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

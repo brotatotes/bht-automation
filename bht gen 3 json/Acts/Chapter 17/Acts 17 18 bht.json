@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:33:05",
+    "verseRef": "Acts 17:18",
+    "bestBHT": {
+        "bht": "In Athens, Paul engages with both the Epicureans and Stoics, embodying opposing ideologies. The Epicureans prioritize pleasure and imperturbability of mind, even though their followers lean towards sensualism. The Stoics, on the other hand, deny divine interference and adhere to a pantheistic worldview. Paul's preaching, specifically about Jesus and the resurrection, challenges these beliefs, leading to mockery. Nevertheless, his message does not go unheard, even in the intellectual city of Athens, illustrating the clash between worldly wisdom and the divine wisdom of the Gospel.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.8282023992765564,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.13,
+        "commentatorTierSimilarities": [
+            30.0,
+            40.53,
+            29.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The 'chief good' of the real Epicureans, far from being a degraded and sensual pleasure, was imperturbability of mind, based upon wisdom\u2014perhaps the best estimate of the highest good formed in the heathen world.\" ",
+            "Their philosophy, while it approached the truth in holding one supreme Governor of all, compromised it, in allowing of any and all ways of conceiving and worshipping Him.\" ",
+            "The word in the original signifies a kind of bird which picks up and devours seeds: whence the Athenians called by this name those who went about picking up trifles in converse and making it their business to retail them: in fact, the name imports one who talks fluently to no purpose, and hints also that his talk is not his own."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The two enemies it has ever had to contend with are the two ruling principles of the Epicureans and Stoics\u2014Pleasure and Pride\" [HOWSON].",
+            "The word, which means 'a picker-up of seeds,' bird-like, is applied to a gatherer and retailer of scraps of knowledge, a prater; a general term of contempt for any pretended teacher.",
+            "Not as if they thought he made these to be two divinities: the strange gods were Jehovah and the Risen Saviour, ordained to judge the world."
+        ],
+        "Albert Barnes": [
+            "Against these positions of the sect Paul directed his main argument in proving that the world was created and governed by God.\" ",
+            "They sought happiness only in indolence, effeminacy, and voluptuousness. Confident in the belief that the world was not under the administration of a God of justice, they gave themselves up to the indulgence of every passion.",
+            "The leading doctrines of both sects were met by him."
+        ],
+        "Marvin Vincent": [
+            "Pleasure was their chief good; and whatever higher sense their founder might have attached to this doctrine, his followers, in the apostle's day, were given to gross sensualism.",
+            "Virtue was its own reward, and vice its own punishment. Pleasure was no good, and pain no evil.",
+            "Babbler [\u03c3\u03c0\u03b5\u03c1\u03bc\u03bf\u03bb\u03bf\u03b3\u03bf\u03c2] . Lit., seed - picker: a bird which picks up seeds in the streets and markets; hence one who picks up and retails scraps of news."
+        ],
+        "John Calvin": [
+            "For it is not always in our choice to make choice of those with whom we will deal; but the Lord doth often suffer stubborn and importunate men to arise to exercise us, that by their gainsaying the truth may more plainly appear.",
+            "And hereby we see more plainly what small agreement there is between the heavenly wisdom and the wisdom of the flesh.",
+            "Those who are desirous to hear that again which they call new, first, they are moved not with any desire to learn, but with vain curiousity; secondly, they think unhonorably of the Word of God, is that the count it profane novelty; yet because they give ear, and that being in doubt until they may know farther of the matter, they are not quite past hope."
+        ],
+        "Philip Schaff": [
+            "The Epicurean, while admitting the existence of gods, regarded them as paying no attention to men and the affairs of this world. They believed in no Providence, in no accountability, in neither reward nor retribution in the life to come.",
+            "The real teaching of the masters of the sect was, that a wise man should enjoy to the uttermost the things of this life, for the soul being material was annihilated after death.",
+            "The Stoics condemned the worship of images and the use of temples, but they in some degree accepted popular mythology by considering the various gods as developments of the universal world-God. These were then Pantheists. They denied any overruling Providence, or, in fact, any interference on the part of Deity in the affairs of the world."
+        ],
+        "Archibald T. Robertson": [
+            "What would this picker up of seeds wish to say, if he should get off an idea? It is a contemptuous tone of supreme ridicule and doubtless Paul heard this comment. Probably the Epicureans made this sneer that Paul was a charlatan or quack.",
+            "He seemeth to be a setter forth of strange gods. This view is put cautiously by \u03b4\u03bf\u03ba\u03b5 (seems). \u039a\u03b1\u03c4\u03b1\u03b3\u03b3\u03b5\u03bb\u03b5\u03c5\u03c2 does not occur in the old Greek, though in ecclesiastical writers, but Deissmann (Light from the Ancient East, p. 99) gives an example of the word \"on a marble stele recording a decree of the Mitylenaens in honour of the Emperor Augustus,\" where it is the herald of the games.",
+            "Because he preached Jesus and the resurrection. Reason for the view just stated. Imperfect middle indicative of \u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b6\u03c9, to 'gospelize.' Apparently these critics considered \u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2 (Resurrection) another deity on a par with Jesus."
+        ],
+        "John Gill": [
+            "The chief happiness of men lies in pleasure.",
+            "A wise and good man is destitute of all passion, and uneasiness of mind, is always the same, and always joyful, and ever happy in the greatest torture, pain being no real evil.",
+            "Because he preached unto them Jesus, and the resurrection."
+        ],
+        "John Wesley": [
+            "The Epicureans entirely denied a providence, and held the world to be the effect of mere chance; asserting sensual pleasure to be man's chief good, and that the soul and body died together.",
+            "The Stoics held, that matter was eternal; that all things were governed by irresistible fate; that virtue was its own sufficient reward, and vice its own sufficient punishment.",
+            "Such is the language of natural reason, full of, and satisfied with itself. Yet even here St. Paul had some fruit; though nowhere less than at Athens."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 17:18, Paul encounters the Epicureans and Stoics in Athens, who represent two opposing philosophies. The Epicureans sought pleasure and happiness through sensual indulgence, denying a divine providence. The Stoics embraced a pantheistic view, denying any interference from a higher power. Paul's preaching of Jesus and the resurrection challenged their beliefs and provoked mockery. These intellectual debates reveal the stark contrast between worldly wisdom and the divine wisdom of the Gospel. Despite the skepticism and differing philosophies, Paul's message did not go unheard, even in the heart of intellectual Athens.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.8007296168170588,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.22,
+            "commentatorTierSimilarities": [
+                28.59,
+                40.7,
+                30.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Athens, Paul encounters the Epicureans and Stoics, who epitomize opposing philosophies. The Epicureans prioritize pleasure and indulgence, rejecting divine providence. Meanwhile, the Stoics embrace a pantheistic perspective, denying divine intervention. Paul's preaching of Jesus and the resurrection challenges their beliefs and elicits ridicule. These debates illuminate the clash between worldly and divine wisdom. Despite skepticism, Paul's message leaves an impact, even in the intellectual realm of Athens.",
+            "wordCount": 70,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.67943973536393,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.18,
+            "commentatorTierSimilarities": [
+                28.97,
+                40.93,
+                30.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Athens, Paul encounters the Epicureans and Stoics, who epitomize opposing philosophies. The primary focus of the Epicureans is pursuing pleasure and imperturbable happiness, often manifesting in sensual indulgence. In contrast, the Stoics deny divine intervention and adhere to a pantheistic worldview. Paul's message challenges their beliefs, particularly his proclamation of Jesus and the resurrection. Despite the mockery he faces, Paul's preaching resonates even in the intellectual hub of Athens, shedding light on the clash between worldly and divine wisdom.",
+            "wordCount": 82,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.8166671271281079,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.75,
+            "commentatorTierSimilarities": [
+                28.47,
+                40.74,
+                30.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Athens, Paul encounters the Epicureans and Stoics, representing opposing philosophies. The Epicureans prioritize imperturbable happiness based on wisdom, often leading to sensual indulgence. Conversely, the Stoics, embracing a pantheistic worldview, deny divine intervention. Paul's message challenges their beliefs, particularly in proclaiming Jesus and the resurrection. Despite facing ridicule, Paul's preaching resonates even in the intellectual realm of Athens, shedding light on the clash between worldly and divine wisdom.",
+            "wordCount": 71,
+            "quoteTokenProportion": 20.75,
+            "qualityScore": 1.780626841764442,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+            "commentatorTierSimilarities": [
+                28.48,
+                40.66,
+                30.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Athens, Paul engages with both the Epicureans and Stoics, embodying opposing ideologies. The Epicureans prioritize pleasure and imperturbability of mind, even though their followers lean towards sensualism. The Stoics, on the other hand, deny divine interference and adhere to a pantheistic worldview. Paul's preaching, specifically about Jesus and the resurrection, challenges these beliefs, leading to mockery. Nevertheless, his message does not go unheard, even in the intellectual city of Athens, illustrating the clash between worldly wisdom and the divine wisdom of the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8282023992765564,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.13,
+            "commentatorTierSimilarities": [
+                30.0,
+                40.53,
+                29.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:14:32",
+    "verseRef": "Luke 2:51",
+    "bestBHT": {
+        "bht": "Jesus, despite His divine nature, willingly humbled Himself and obediently submitted to His earthly parents. This continuous subjection to them demonstrated His habit of faithful obedience, even though He possessed greater knowledge than both parents and teachers. Mary's detailed recollection of these events suggests that she may have played a significant role in recounting these accounts. Jesus' obedience serves as an example for all children to follow, honoring their own parents and demonstrating the value of virtuous industry and humble origins.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.7500104443085651,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+        "commentatorTierSimilarities": [
+            36.26,
+            36.42,
+            27.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The high consciousness which had manifested itself in ver. 49 did not interfere with His self-humiliation, nor render Him independent of His parents.\" ",
+            "This voluntary subjection probably showed itself in working at his reputed father\u2019s trade.",
+            "These words tend to confirm the common belief that these opening chapters, or at least this narrative, may have been derived from the testimony of the mother of the Lord herself."
+        ],
+        "Albert Barnes": [
+            "That obedience to parents is a duty. Jesus has set an example in this that all children should follow.",
+            "It is no dishonor to be a mechanic, or to be brought up in an obscure employment.",
+            "Jesus has conferred honor on virtuous industry, and no man should be ashamed of industrious parents, though poor."
+        ],
+        "Marvin Vincent": [
+            "Not even to the angels fell such an honor as to the parents of Jesus.",
+            "The participle and finite verb, denoting habitual, continuous subjection.",
+            "The preposition dia, through, indicated close, faithful, persistent keeping, through all the circumstances which might have weakened the impression of the events."
+        ],
+        "John Calvin": [
+            "It was for our salvation that Christ took upon him this low estate, \u2014 that the Lord and head of angels voluntarily became subject to mortal creatures.",
+            "Though this subjection, on the part of Christ, arose from no necessity which he could not have avoided, yet, as he had taken upon him human nature on the condition of being subject to parents, and had assumed the character both of a man and of a servant, \u2014 with respect to the office of Redeemer, this was his lawful condition.",
+            "The more cheerfully, on this account, ought every one to bear the yoke which the Lord has been pleased to lay upon him."
+        ],
+        "Philip Schaff": [
+            "Rendering full obedience, probably working at His reputed father\u2019s trade (Mark 6:2).",
+            "In the light of Luke 2:49 this obedience appears as a self-humiliation.",
+            "Mary kept all these sayings in her heart during these years, and from her the Evangelist may have derived his information."
+        ],
+        "Archibald T. Robertson": [
+            "He continued subject unto them, this wondrous boy who really knew more than parents and rabbis, this gentle, obedient, affectionate boy.",
+            "Who can tell the wistful days when Jesus waited at Nazareth for the Father to call him to his Messianic task?",
+            "Surely she has a full heart now. Could she foresee how destiny would take Jesus out beyond her mother's reach?"
+        ],
+        "John Gill": [
+            "And he went down with them... and was subject unto them.",
+            "and showed all dutiful respect unto them.",
+            "These things she treasured up... in her heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even though Jesus had a high consciousness of His divine nature, He willingly humbled Himself and submitted to His earthly parents. He most likely even worked alongside Joseph in his trade. The fact that Mary, the mother of Jesus, could provide such intricate details of these events suggests that this narrative may have been derived from her testimony. Jesus, the Son of God, voluntarily subjected Himself to human parents, bestowing an honor upon them that not even the angels have. His continuous subjection to them demonstrated a habitual obedience and faithful keeping, despite His deep wisdom and knowledge. As Jesus waited in Nazareth for the Father's call to His Messianic task, one can only imagine the wistful days and the fullness of Mary's heart, knowing that destiny would eventually take Jesus beyond her reach. In imitating the obedience of Jesus to His parents, all children are called to honor their own parents. Jesus' humble obedience also brings honor to virtuous industry, showing that no one should be ashamed of their humble origins.",
+            "wordCount": 174,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.734717191973762,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.02,
+            "commentatorTierSimilarities": [
+                37.62,
+                37.52,
+                24.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite His divine nature, Jesus willingly humbled Himself and submitted to His earthly parents. Mary's detailed recollection of these events suggests that she may have provided firsthand testimony. Jesus continuously subjected Himself to His parents, demonstrating a habitual obedience and faithful keeping, despite His profound wisdom. His obedience sets an example for all children to follow, honoring their own parents. Furthermore, Jesus confers honor upon industry and humble origins, showing that no one should be ashamed of their background or occupation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.6698240008895346,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+            "commentatorTierSimilarities": [
+                34.57,
+                38.59,
+                26.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, despite His divine nature, willingly humbled Himself and obediently submitted to His earthly parents. This continuous subjection to them demonstrated His habit of faithful obedience, even though He possessed greater knowledge than both parents and teachers. Mary's detailed recollection of these events suggests that she may have played a significant role in recounting these accounts. Jesus' obedience serves as an example for all children to follow, honoring their own parents and demonstrating the value of virtuous industry and humble origins.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.7500104443085651,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+            "commentatorTierSimilarities": [
+                36.26,
+                36.42,
+                27.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, the Son of God, humbled Himself and willingly submitted to His earthly parents. Despite His deep wisdom and knowledge, He faithfully remained subject to them, demonstrating a continuous pattern of obedience. Mary's intimate knowledge of these events indicates that she may have provided firsthand information. Jesus' example should inspire all children to honor and obey their parents. Additionally, His own humble origins and His work as a tradesman confer honor upon virtuous industry and humble backgrounds, encouraging all individuals to embrace their own circumstances.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.6138286631200027,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.0,
+            "commentatorTierSimilarities": [
+                33.78,
+                38.6,
+                27.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, though fully aware of His divinity, willingly subjected Himself to His earthly parents, exemplifying humility and obedience. Despite His profound wisdom, He faithfully remained subject to them, demonstrating continuous and habitual subjection. Mary's intimate knowledge of these events suggests that she may have provided eyewitness testimony. This serves as an example for all children to honor and obey their parents, while also highlighting the honor and dignity of virtuous labor and humble origins. Jesus' obedience reminds us to embrace our circumstances and yield to the purposes of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.6020188555988084,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.61,
+            "commentatorTierSimilarities": [
+                34.1,
+                37.94,
+                27.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

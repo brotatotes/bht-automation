@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:25:55",
+    "verseRef": "Acts 4:9",
+    "bestBHT": {
+        "bht": "The resurrection of Christ, if a fact, effectually overthrew the Sadducean doctrine. Irritated at the apostles 'preaching through Jesus the resurrection from the dead,' the captain of the Levitical guard and the Sadducees were annoyed at the disturbance created around the temple. The apostles respond by emphasizing the good deed done to an impotent man, highlighting the transformation and healing that took place. Peter's skilled turn in the conversation redirects their focus from questioning the authority behind the miracle to acknowledging the undeniable benefit it brought to the man.",
+        "wordCount": 90,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.4284523293321667,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.84,
+        "commentatorTierSimilarities": [
+            50.57,
+            18.04,
+            31.38
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The resurrection of Christ, if a fact, effectually overthrew the Sadducean doctrine.\" ",
+            "Irritated at the apostles 'preaching through Jesus the resurrection from the dead'",
+            "The captain of the Levitical guard and the Sadducees annoyed at the disturbance created around the temple."
+        ],
+        "Albert Barnes": [
+            "If we this day - If as is the fact; or since we are thus examined.",
+            "The good deed - The act of benevolence; the benefit conferred on an infirm man.",
+            "By what means - This was the real point of the inquiry. The fact that he had been made whole was not denied."
+        ],
+        "John Calvin": [
+            "Peter layeth tyranny to the charge of the priests and the scribes, because they examine them unjustly concerning a benefit which deserveth praise...\" (36 words)",
+            "Peter hath in this place more respect unto the wicked affection of the mind than unto the very order of the question.\" (25 words)",
+            "Peter, being supported with this confidence, doth at the first gird them wittily with a taunting preface, because they sit as judges to condemn good deeds.\" (30 words)"
+        ],
+        "Archibald T. Robertson": [
+            "Concerning a good deed done to an impotent man... Note \u03b5\u03c5\u03b5\u03c1\u03b3\u03b5\u03c3\u03b9\u03b1 (old word, in the N.T. only here and 1 Timothy 6:2), as a benefactor, not a malefactor.",
+            "Skilful turn made by Peter.",
+            "Is made whole... stands whole."
+        ],
+        "John Gill": [
+            "it being done in faith, and to the glory of God, and for the good of the man",
+            "they were dealt very hardly with, to be seized and kept in custody, and be called in question, for doing an action so beneficent and kind",
+            "by what power, and in what name this was done; the answer is ready, and it is as follows"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The resurrection of Christ, if a fact, effectually overthrew the Sadducean doctrine. Irritated at the apostles 'preaching through Jesus the resurrection from the dead,' the captain of the Levitical guard and the Sadducees were annoyed at the disturbance created around the temple. The apostles respond by emphasizing the good deed done to an impotent man, highlighting the transformation and healing that took place. Peter's skilled turn in the conversation redirects their focus from questioning the authority behind the miracle to acknowledging the undeniable benefit it brought to the man.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.4284523293321667,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.84,
+            "commentatorTierSimilarities": [
+                50.57,
+                18.04,
+                31.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The resurrection of Christ effectively challenged the Sadducean doctrine, greatly annoying the Levitical guard and the Sadducees due to the apostles' proclamation of Jesus' resurrection. The apostles redirected their attention to the remarkable healing of a disabled man, highlighting the beneficent act. Peter astutely turned the conversation, shifting the focus from questioning the source of power to acknowledging the undeniable good that resulted from the miracle. The authority behind the miracle remained unchallenged.",
+            "wordCount": 73,
+            "quoteTokenProportion": 20.0,
+            "qualityScore": 1.2200532250859557,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.91,
+            "commentatorTierSimilarities": [
+                44.71,
+                20.35,
+                34.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The resurrection of Christ, if a fact, effectively overthrew the Sadducean doctrine and greatly irritated the Levitical guard and the Sadducees. In response to their questioning, the apostles cleverly emphasized the good deed performed on the impotent man, highlighting the transformative power behind it. Peter skillfully redirected the conversation, shifting the focus from the authority behind the miracle to the undeniable benefit it brought to the man. The authority of the apostles and the legitimacy of the deed remained unchallenged.",
+            "wordCount": 80,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.322099234738099,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+            "commentatorTierSimilarities": [
+                39.98,
+                23.71,
+                36.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The resurrection of Christ, if a fact, effectually overthrew the Sadducean doctrine and greatly annoyed the Levitical guard and the Sadducees. The apostles responded by highlighting the good deed done to the impotent man, showcasing the transformative power behind it. Peter skillfully turned the conversation, shifting the focus from questioning the authority behind the miracle to acknowledging the undeniable benefit it brought to the man. The authority of the apostles and the legitimacy of the deed remained unchallenged.",
+            "wordCount": 78,
+            "quoteTokenProportion": 22.45,
+            "qualityScore": 1.3731723950367314,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.0,
+            "commentatorTierSimilarities": [
+                41.43,
+                23.78,
+                34.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The resurrection of Christ effectively undermined the Sadducean doctrine and stirred annoyance among the Levitical guard and the Sadducees due to the apostles' proclamation of Jesus' resurrection. In response to their inquiry, the apostles deftly emphasized the commendable act performed for the disabled man, highlighting the transformative nature of the deed. Peter skillfully redirected the discussion, shifting the focus from questioning the source of power behind the miraculous act to acknowledging the undeniable benefit it brought to the man. The authority of the apostles and the integrity of the benevolent action remained unchallenged.",
+            "wordCount": 93,
+            "quoteTokenProportion": 20.34,
+            "qualityScore": 1.2913960900335066,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.28,
+            "commentatorTierSimilarities": [
+                37.31,
+                26.83,
+                35.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

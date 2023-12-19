@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:38:52",
+    "verseRef": "1 Peter 1:19",
+    "bestBHT": {
+        "bht": "The blood of Christ, without blemish or spot, is described as precious and exceeding the value of gold or silver. This signifies His purity and perfect suitability as a sacrifice for our redemption from sin. Just as the blood of the paschal lamb brought deliverance for Israel from Egypt, it was through the blood of Christ that we are redeemed. His blood is far more precious than any other, and it is through His sacrifice that we have the fulfillment of the Old Testament symbols and the power to be redeemed from sin.",
+        "wordCount": 93,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 2.4464790091718047,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.69,
+        "commentatorTierSimilarities": [
+            37.23,
+            35.9,
+            26.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "With precious blood, as of a lamb without blemish (in itself) and without spot (contracted by contact with others), (even the blood) of Christ.",
+            "Though very man, He remained pure in Himself ('without blemish'), and uninfected by any impression of sin from without ('without spot'), which would have unfitted Him for being our atoning Redeemer.",
+            "As Israel's redemption from Egypt required the blood of the paschal lamb, so our redemption from sin and the curse required the blood of Christ."
+        ],
+        "Albert Barnes": [
+            "The blood of Christ had a value above silver and gold; it was worth more, to wit: (1) In itself - being a more valuable thing - and, (2) In effecting our redemption. It accomplished what silver and gold could not do.",
+            "The universe had nothing more valuable to offer, of which we can conceive, than the blood of the Son of God.",
+            "The idea was thus kept up from age to age that he, of whom all these victims were the emblems, would be perfectly pure."
+        ],
+        "Marvin Vincent": [
+            "Render, as Rev., with precious blood as of a lamb, etc., even the blood of Christ.",
+            "Without blemish. Representing the Old - Testament phrase for absence of physical defect.",
+            "Without spot. In each case in a moral sense."
+        ],
+        "John Calvin": [
+            "We have in Christ whatever had been shadowed forth by the ancient sacrifices.\" ",
+            "Let us hence learn what benefit the reading of the Law brings us in this respect.",
+            "Peter, by applying this to Christ, teaches us that he was a suitable victim, and approved by God, for he was perfect, without any blemish."
+        ],
+        "Philip Schaff": [
+            "The point of the statement is not to institute a direct comparison between Christ and a lamb, nor to represent the means by which the redemption was effected as comparable in value to the blood of a stainless lamb, but to exhibit the cost of the redemption from the heathen life of sin as nothing less than the surrender of a life of sinless perfection.",
+            "The lamb particularly in Peter\u2019s view here, is variously identified, as e.g. with the Paschal Lamb, with the lamb of Isaiah 53:0, or with the general idea signified by the various lambs of the Old Testament service and realized in Christ.",
+            "The expiatory or sacrificial value of Christ\u2019s death is no doubt at the basis of the statement, and the idea of ransom from sin as a power is not disconnected from the idea of a ransom from sin as a penalty."
+        ],
+        "Archibald T. Robertson": [
+            "The blood of anyone is 'precious' (costly), far above gold or silver, but that of Jesus immeasurably more so.",
+            "Peter sees clearly that it was by the blood of Christ that we are redeemed from sin.",
+            "Without (alpha privative) spot (\u03bc\u03c9\u03bc\u03bf\u03c2) as the paschal lamb had to be (Leviticus 22:21). So Hebrews 9:14."
+        ],
+        "John Gill": [
+            "Christ was prophesied of as a Redeemer under the Old Testament... and the apostle here attributes [redemption] to the blood of Christ...\" ",
+            "This blood of Christ... is as of a lamb without spot and blemish... a very fit person to be a sacrifice for sin, and a Redeemer of his people.\" ",
+            "At that time, and in that month, was redemption obtained by the blood of Christ."
+        ],
+        "John Wesley": [
+            "Without blemish \u2014 In himself.",
+            "Without spot \u2014 From the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the precious blood of Christ, who was without blemish and spot. The commentary emphasizes how Christ, despite being fully human, remained pure and unaffected by sin, making Him the perfect atoning Redeemer. In the same way that the blood of the paschal lamb brought redemption for Israel, it was through the blood of Christ that we are redeemed from sin. The preciousness of Christ's blood far surpasses any earthly value, emphasizing its immeasurable worth. The use of without blemish signifies the absence of physical defect, while without spot denotes moral purity. Through the blood of Christ, we have the full realization of what had been symbolized in the Old Testament sacrifices.",
+            "wordCount": 116,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 2.277601353865438,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.07,
+            "commentatorTierSimilarities": [
+                37.24,
+                33.36,
+                29.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The blood of Christ, without blemish or spot, is described as precious and exceeding the value of gold or silver. This signifies His purity and perfect suitability as a sacrifice for our redemption from sin. Just as the blood of the paschal lamb brought deliverance for Israel from Egypt, it was through the blood of Christ that we are redeemed. His blood is far more precious than any other, and it is through His sacrifice that we have the fulfillment of the Old Testament symbols and the power to be redeemed from sin.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.4464790091718047,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.69,
+            "commentatorTierSimilarities": [
+                37.23,
+                35.9,
+                26.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The blood of Christ, precious and without blemish, signifies His purity as the perfect Redeemer. It surpasses the value of gold or silver and is immeasurably more costly. By His blood, we are redeemed from sin, just as Israel was redeemed through the blood of the paschal lamb. The mention of without spot highlights Christ's moral purity and suitability as a sacrifice. The blood of Christ fulfills the Old Testament symbols and brings about our redemption from the curse of sin.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.2579721099294137,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.42,
+            "commentatorTierSimilarities": [
+                38.08,
+                34.58,
+                27.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blood of Christ, without blemish or spot, is described as precious and exceeding the value of gold or silver. This signifies His purity and perfect suitability as a sacrifice for our redemption from sin. Just as the blood of the paschal lamb brought deliverance for Israel from Egypt, it was through the blood of Christ that we are redeemed. His blood is far more precious than any other, and it is through His sacrifice that we have the fulfillment of the Old Testament symbols and the power to be redeemed from sin.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.4464790091718047,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.69,
+            "commentatorTierSimilarities": [
+                37.23,
+                35.9,
+                26.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The blood of Christ, precious and without blemish or spot, is the means by which we are redeemed from sin. It outvalues gold or silver and signifies His purity and suitability as our Redeemer. Just as the blood of the paschal lamb brought redemption for Israel, Christ's blood brings about our redemption. This perfect sacrifice fulfills the Old Testament symbols and represents the high cost of our redemption from the life of sin. Through His blood, we find the power to be freed from the penalty and power of sin.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.3061079214748297,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.02,
+            "commentatorTierSimilarities": [
+                37.1,
+                35.48,
+                27.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

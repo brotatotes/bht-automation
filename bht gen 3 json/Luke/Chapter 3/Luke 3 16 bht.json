@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:14:33",
+    "verseRef": "Luke 3:16",
+    "bestBHT": {
+        "bht": "John the Baptist humbly acknowledges his own unworthiness in comparison to the coming Messiah. With a beautiful spirit and loyalty, he prepares the people through water baptism, recognizing that the Messiah will far surpass his own ministry. John understands the profound judgment that the Messiah will bring upon the world, likening it to the fire and the fan of the thrashing-floor. This bold Messianic picture reveals John's deep spiritual insight and his recognition of the One who is mightier, leading him to faithfully serve the One who is to come.",
+        "wordCount": 92,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.5827791464216343,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.97,
+        "commentatorTierSimilarities": [
+            56.57,
+            0.0,
+            43.43
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "latchet] the lace, or thong with which the sandal was fastened."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So far from entertaining such a thought as laying claim to the honors of Messiahship, the meanest services I can render to that 'Mightier than I that is coming after me,' are too high an honor for me.",
+            "Beautiful spirit, distinguishing this servant of Christ throughout!",
+            "'The Mightier than I.'"
+        ],
+        "Marvin Vincent": [
+            "One mightier [\u03bf \u03b9\u03c3\u03c7\u03c5\u03c1\u03bf\u03c4\u03b5\u03c1\u03bf\u03c2] . The definite article points to an expected personage.",
+            "Hence better as Rev., he that is mightier.",
+            "Unloose [\u03bb\u03c5\u03c3\u03b1\u03b9] . So also Mark; but Matthew bastasai, to bear."
+        ],
+        "Archibald T. Robertson": [
+            "He was able to take his own measure in comparison with the Messiah and was loyal to him.",
+            "This bold Messianic picture in the Synoptic Gospels shows that John saw the Messiah's coming as a judgment upon the world like fire and the fan of the thrashing-floor.",
+            "He had the spiritual conception also, the baptism in the Holy Spirit which will characterize the Messiah's Mission and so will far transcend the water baptism which marked the ministry of John."
+        ],
+        "John Gill": [
+            "I indeed baptize you with water...but one mightier than I cometh.\" ",
+            "The latchet of whose shoes I am not worthy to unloose.",
+            "He shall baptize you with the Holy Ghost, and with fire."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John the Baptist, in speaking of the coming Messiah, humbly acknowledges his own unworthiness and emphasizes the superiority of the One who is to come. He recognizes that he is not even worthy to untie the latchet of the Messiah's shoes, as he prepares the people through water baptism, while the Messiah will baptize with the Holy Spirit and fire. John's understanding of this distinction shows his beautiful spirit and humility, as he fully comprehends the might and power of the One who is to come, far surpassing him in every way. This bold Messianic picture painted by John reveals his deep spiritual insight into the judgment that the Messiah will bring upon the world, like fire and the fan of the thrashing-floor. Ultimately, John's loyalty to the Messiah is evident through his recognition of his own limited role compared to the greatness of the One who is mightier.",
+            "wordCount": 153,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 1.5565745702300444,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.1,
+            "commentatorTierSimilarities": [
+                54.15,
+                0.0,
+                45.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist, in recognizing the superior might and power of the coming Messiah, humbly acknowledges his own unworthiness to perform even the lowliest of tasks. With a beautiful spirit and loyalty, he prepares the people through water baptism, understanding that the Messiah's mission will far transcend this, characterized by the baptism in the Holy Spirit. John's deep spiritual insight reveals the Messiah's role in bringing judgment upon the world, like fire and the fan of the thrashing-floor, establishing the profound significance of the One who is mightier.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.5100136474864039,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.55,
+            "commentatorTierSimilarities": [
+                49.5,
+                0.0,
+                50.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist, while acknowledging his own unworthiness, humbly recognizes the greatness of the coming Messiah. His beautiful spirit and loyalty are evident as he prepares the people through water baptism, fully grasping that the Messiah's mission will surpass his own. With deep spiritual insight, John depicts the Messiah as One who brings judgment upon the world, like fire and the fan of the thrashing-floor. This understanding highlights the significance of the One who is mightier, emphasizing John's reverence and awe towards Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4897174310149397,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.88,
+            "commentatorTierSimilarities": [
+                57.46,
+                0.0,
+                42.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist humbly acknowledges his own unworthiness in comparison to the coming Messiah. With a beautiful spirit and loyalty, he prepares the people through water baptism, recognizing that the Messiah will far surpass his own ministry. John understands the profound judgment that the Messiah will bring upon the world, likening it to the fire and the fan of the thrashing-floor. This bold Messianic picture reveals John's deep spiritual insight and his recognition of the One who is mightier, leading him to faithfully serve the One who is to come.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.5827791464216343,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.97,
+            "commentatorTierSimilarities": [
+                56.57,
+                0.0,
+                43.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist, fully aware of his own inferiority, humbly admits that he is unworthy even to perform the lowliest task for the coming Messiah. His loyalty to the One who is mightier is evident as he prepares the people through water baptism, understanding that the Messiah's mission will surpass his own. John's deep spiritual insight reveals the Messiah's role in bringing judgment upon the world, like fire and the fan of the thrashing-floor. This recognition highlights the significance and power of the One who is to come.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.4486617944760787,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.51,
+            "commentatorTierSimilarities": [
+                56.1,
+                0.0,
+                43.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:27:01",
+    "verseRef": "Acts 6:12",
+    "bestBHT": {
+        "bht": "They stirred up the people, shaking them together like an earthquake, rushing at Stephen and seizing him with violence. The hostility of the people towards the disciples is evident in their actions. The elders and scribes, members of the Sanhedrin, sought to have public opinion on their side and instigate persecution. Stephen's teaching had caused division, with both parties aligning against him. Despite their hypocrisy and false witness, Stephen became a target for his unwavering commitment to the truth.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.5986473003889574,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+        "commentatorTierSimilarities": [
+            29.2,
+            38.88,
+            31.91
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They might act upon the elders and scribes, the members of the Sanhedrim.",
+            "Came upon him, and seized him.",
+            "Saul, among those from Cilicia, being, as is afterwards implied, among the foremost."
+        ],
+        "Albert Barnes": [
+            "And they stirred up the people - They 'excited' the people, or alarmed their fears...",
+            "The elders - The members of the Sanhedrin, or Great Council.",
+            "Scribes - See the notes on Matthew 2:4."
+        ],
+        "Marvin Vincent": [
+            "They stirred up the people...to move them together.\" ",
+            "This is the first record of the hostility of the people toward the disciples.",
+            "Caught...seized."
+        ],
+        "John Calvin": [
+            "Admit he were a wicked man, and guilty, yet he must not have false witness borne against him.",
+            "But hypocrites, which shroud themselves under zeal, do carelessly grant themselves leave to do that.",
+            "Such hypocrisy did also blind them...for when Satan reigneth, he doth not only prick forward the reprobate unto cruelty, but also blind their eyes, so that they think that they may do whatsoever they will."
+        ],
+        "Philip Schaff": [
+            "It was above all things necessary for the enemies of these Nazarenes to have public opinion on their side.",
+            "The people were now won over to the side of the persecutors of the followers of Jesus by an appeal to their patriotism.",
+            "The teaching of Stephen arrayed both these two great parties against him and his cause."
+        ],
+        "Archibald T. Robertson": [
+            "They stirred up the people (\u03c3\u03c5\u03bd\u03b5\u03ba\u03b9\u03bd\u03b7\u03c3\u03b1\u03bd \u03c4\u03bf\u03bd \u03bb\u03b1\u03bf\u03bd). They shook the people together like an earthquake.",
+            "Came upon him (\u03b5\u03c0\u03b9\u03c3\u03c4\u03b1\u03bd\u03c4\u03b5\u03c2). Second aorist (ingressive) active participle of \u03b5\u03c6\u03b9\u03c3\u03c4\u03b7\u03bc. Rushed at him.",
+            "Seized (\u03c3\u03c5\u03bd\u03b7\u03c1\u03c0\u03b1\u03c3\u03b1\u03bd). Effective aorist active of \u03c3\u03c5\u03bd\u03b1\u03c1\u03c0\u03b1\u03b6\u03c9 as if they caught him after pursuit."
+        ],
+        "John Gill": [
+            "The common people, who were easily wrought upon, and soon incensed and provoked.",
+            "Seized him with violence.",
+            "The great sanhedrim, then sitting at Jerusalem, to whom it belonged to judge of blasphemy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The hostility of the people towards the disciples is evident in Acts 6:12, as they stirred up the people and rushed at Stephen, seizing him with violence. This alarmed the fears of the people, who were easily influenced and provoked. Both the elders and scribes, members of the Sanhedrim, were involved in this persecution, as they sought to have public opinion on their side. The teaching of Stephen had caused a division, with both parties aligning against him and his cause. Despite their hypocrisy and false witness, it was clear that Stephen had become a target for his unwavering commitment to the truth.",
+            "wordCount": 102,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.6059159498689686,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+            "commentatorTierSimilarities": [
+                27.22,
+                40.77,
+                32.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They stirred up the people, shaking them together like an earthquake, rushing at Stephen and seizing him with violence. The hostility of the people towards the disciples is evident in their actions. The elders and scribes, members of the Sanhedrin, sought to have public opinion on their side and instigate persecution. Stephen's teaching had caused division, with both parties aligning against him. Despite their hypocrisy and false witness, Stephen became a target for his unwavering commitment to the truth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.5986473003889574,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+            "commentatorTierSimilarities": [
+                29.2,
+                38.88,
+                31.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen faced hostility as the elders and scribes, members of the Sanhedrin, stirred up and shook the people like an earthquake, rushing towards him and seizing him with violence. The people's fears were alarmed, and the persecution was fueled by an appeal to their patriotism. Stephen's teaching had divided the two great parties against him. Despite their hypocrisy and false witness, Stephen remained steadfast in his commitment to the truth, which made him a target for his unwavering faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.5366568784832992,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.44,
+            "commentatorTierSimilarities": [
+                24.79,
+                43.06,
+                32.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people were stirred up and came upon Stephen, seizing him with violence. The elders and scribes, members of the Sanhedrin, played a significant role in this persecution, seeking to have public opinion on their side. Stephen's teaching had caused division, with both parties aligning against him and his cause. Despite their hypocrisy and false witness, Stephen became a target for his unwavering commitment to the truth.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.5480226652971514,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.81,
+            "commentatorTierSimilarities": [
+                26.66,
+                40.1,
+                33.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The hostility towards the disciples became evident as the people were stirred up and seized Stephen with violence. The elders and scribes, members of the Sanhedrin, played a significant role in this persecution, seeking public support for their actions. Stephen's teaching had caused division, with both parties uniting against him and his cause. Despite their hypocrisy and false witness, Stephen's unwavering commitment to the truth made him a target for their persecution.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5328270739973724,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.31,
+            "commentatorTierSimilarities": [
+                26.18,
+                40.34,
+                33.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

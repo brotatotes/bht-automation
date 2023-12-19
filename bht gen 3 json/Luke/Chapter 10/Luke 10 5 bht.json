@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:17:19",
+    "verseRef": "Luke 10:5",
+    "bestBHT": {
+        "bht": "When entering a house, it is customary to first say Peace to this house, as this is a usual oriental salutation. Extending this greeting signifies our Lord's approval of civil salutations and conveys our desire for the inhabitants' well-being and prosperity. By expressing these blessings, we wish them happiness and prosperity in all aspects, including their temporal, spiritual, and eternal lives.",
+        "wordCount": 63,
+        "quoteTokenProportion": 44.23,
+        "qualityScore": 1.6866938105835143,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+        "commentatorTierSimilarities": [
+            46.0,
+            3.5,
+            50.5
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "See the notes at Matthew 10:13."
+        ],
+        "Marvin Vincent": [
+            "Peace to this house. The usual oriental salutation. See Jude 1:19:20."
+        ],
+        "Philip Schaff": [
+            "Luke 10:5. The previous inquiry (Matthew 10:11), is not mentioned here.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "First say (\u03c0\u03c1\u03c9\u03c4\u03bf\u03bd \u03bb\u03b5\u03b3\u03b5\u03c4\u03b5). Say first. The adverb \u03c0\u03c1\u03c9\u03c4\u03bf\u03bd can be construed with \"enter\" (\u03b5\u03b9\u03c3\u03b5\u03bb\u03b8\u03b7\u03c4\u03b5), but probably with \u03bb\u03b5\u03b3\u03b5\u03c4\u03b5 is right. The word spoken is the usual oriental salutation. "
+        ],
+        "John Gill": [
+            "When ye come into any city, town, or village, first say, peace be to this house: salute the inhabitants in the usual form, saying, peace be to you; wishing them all happiness and prosperity, temporal, spiritual, and eternal.",
+            "This shows our Lord did not disapprove of civil salutations.",
+            "Wishing them all happiness and prosperity, temporal, spiritual, and eternal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When entering a house, it is customary to say Peace to this house, as this was a common oriental salutation. It is important to prioritize this greeting and express well wishes for peace and prosperity to the inhabitants. This reflects the attitude of our Lord, who did not disapprove of civil salutations. It is a way of expressing goodwill and extending blessings to others, wishing them happiness and prosperity in all aspects of their lives.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.4597557012595836,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.88,
+            "commentatorTierSimilarities": [
+                40.23,
+                5.04,
+                54.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon entering a house, the customary greeting of Peace to this house should be offered, as it is a prevalent oriental salutation. This act serves as a means of prioritizing the well-being and prosperity of those dwelling within. Such an attitude mirrors the teachings of our Lord, who encourages the expression of goodwill and blessings through civil salutations. By doing so, we convey our desires for the overall happiness and success of others in both their earthly and spiritual endeavors.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.297497687238395,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.48,
+            "commentatorTierSimilarities": [
+                39.14,
+                7.97,
+                52.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When entering a house, it is customary to say Peace to this house, as it is a common oriental salutation. This greeting demonstrates our Lord's approval of civil salutations and expresses our desire for the well-being and prosperity of the inhabitants. By extending this gesture, we convey our wishes for happiness and prosperity in all aspects of their lives, including temporal, spiritual, and eternal blessings.",
+            "wordCount": 67,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6198441541194508,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.2,
+            "commentatorTierSimilarities": [
+                42.93,
+                4.65,
+                52.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon entering a house, it is customary to say Peace to this house, as this was a common oriental salutation. This act demonstrates our Lord's approval of civil salutations and conveys our desire for the well-being and prosperity of the inhabitants. By extending this gesture, we express our wishes for happiness and prosperity in all aspects of their lives, encompassing both temporal and spiritual blessings.",
+            "wordCount": 67,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.5733465914071787,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                43.09,
+                5.01,
+                51.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When entering a house, it is customary to first say Peace to this house, as this is a usual oriental salutation. Extending this greeting signifies our Lord's approval of civil salutations and conveys our desire for the inhabitants' well-being and prosperity. By expressing these blessings, we wish them happiness and prosperity in all aspects, including their temporal, spiritual, and eternal lives.",
+            "wordCount": 63,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.6866938105835143,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                46.0,
+                3.5,
+                50.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

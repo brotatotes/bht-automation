@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:31:18",
+    "verseRef": "2 Timothy 3:12",
+    "bestBHT": {
+        "bht": "Those who determine to live godly in Christ Jesus shall be persecuted, for it is a mark of the pious and a necessary consequence of living according to His will. The nature of the Christian doctrine, which condemns other religions and requires adherence to seemingly unreasonable precepts, predicts that persecutions will be faced. There is no godliness outside of Christ, and those who desire to live godly lives will be hunted and subjected to various forms of persecution. This is the price of loyal service to Christ, as there is no exception.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.394348866313896,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.95,
+        "commentatorTierSimilarities": [
+            33.8,
+            31.91,
+            34.28
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They who will, must make up their minds to this additional circumstance, viz. persecution.",
+            "All who are minded to live godly in Christ Jesus shall be persecuted.",
+            "Those who determine to live godly in Christ Jesus shall be persecuted."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So far should persecution be from being a stumbling-block to Timothy, he should consider it a mark of the pious.\" ",
+            "There is no godliness or piety out of Christ.",
+            "The nature of its doctrine was no way likely to command success: it condemns all other religions, enjoins precepts ungrateful to flesh and blood, enforces seemingly unreasonable precepts by seemingly incredible promises, and predicts persecutions."
+        ],
+        "Albert Barnes": [
+            "It is undoubtedly true at all times, and will ever be, that they who are devoted Christians - who live as the Saviour did - and who carry out his principles always, will experience some form of persecution.",
+            "If, in any manner, or in any way, he is subjected to disadvantage on account of his religious opinions, and deprived of any immunities and rights to which he would be otherwise entitled, this is persecution.",
+            "Let not a man who will [yield every point in which religion is opposed to the world] suppose that he has any claim to be numbered among the martyrs, or even entitled to the Christian name."
+        ],
+        "Marvin Vincent": [
+            "Whose will is to live, or who are bent on living.",
+            "Godly...only here and Titus 2:12.",
+            "Shall suffer persecution. In this sense only here in Pastorals."
+        ],
+        "John Calvin": [
+            "But it may be said to be natural that the world should hate Christ even in his members.",
+            "In short, let us know that we are Christians on this condition, that we shall be liable to many tribulations and various contests.",
+            "It is not always in one way that Satan persecutes the servants of Christ. But yet it is absolutely unavoidable that all of them shall have the world for their enemy in some form or other."
+        ],
+        "Philip Schaff": [
+            "All that will live godly... the question whether he is or is not, in some way or other, persecuted.",
+            "The general axiom is clearly intended to remind Timothy that there is no test by which a man can satisfy himself whether he lives piously.",
+            "There is no test... so sure as the question whether he is or is not, in some way or other, persecuted."
+        ],
+        "Archibald T. Robertson": [
+            "Those who desire (will, determine) to live godly.",
+            "Paul does not regard his experience as peculiar, but only part of the price of loyal service to Christ.",
+            "Shall be persecuted\" (shall be hunted as wild beasts)."
+        ],
+        "John Gill": [
+            "All that live according to the will of God... are desirous of living after this manner; in whom God has wrought in them both to will and to do, and are concerned when it is otherwise with them...\" ",
+            "It is the will of God... that they may be conformed unto him; it is the way Christ himself went to glory, and through many tribulations his people must enter the kingdom...\" ",
+            "All are more or less afflicted and distressed by wicked men, and are subject to their reproaches and revilings, which are a branch of persecution; and that for professing Christ, and living a godly life in him and under his influence..."
+        ],
+        "John Wesley": [
+            "Art thou resolved? In Christ - Out of Christ there is no godliness.",
+            "Shall suffer persecution \u2014 More or less. There is no exception.",
+            "Either the truth of scripture fails, or those that think they are religious, and are not persecuted, in some shape or other, on that very account, deceive themselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are determined to live godly in Christ Jesus must be prepared for persecution. It is a mark of the pious and a necessary consequence of living according to His will. The nature of the Christian doctrine itself, which condemns other religions and requires adherence to seemingly unreasonable precepts, predicts persecutions. This is the price of loyal service to Christ, and there is no godliness outside of Him. It is a universal truth that those who live godly lives will be hunted and subjected to various forms of persecution, as there is no exception. Any claim to be a true Christian must be measured by the presence of some form of persecution, for Satan will always oppose the servants of Christ.",
+            "wordCount": 122,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.308760203376534,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.11,
+            "commentatorTierSimilarities": [
+                32.91,
+                32.63,
+                34.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who determine to live godly in Christ Jesus shall be persecuted, for it is a mark of the pious and a necessary consequence of living according to His will. The nature of the Christian doctrine, which condemns other religions and requires adherence to seemingly unreasonable precepts, predicts that persecutions will be faced. There is no godliness outside of Christ, and those who desire to live godly lives will be hunted and subjected to various forms of persecution. This is the price of loyal service to Christ, as there is no exception.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.394348866313896,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.95,
+            "commentatorTierSimilarities": [
+                33.8,
+                31.91,
+                34.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who determine to live godly in Christ Jesus shall be persecuted, for it is a mark of the pious and a necessary consequence of living according to His will. The nature of the Christian doctrine, which condemns other religions and requires adherence to seemingly unreasonable precepts, predicts that persecutions will be faced. There is no godliness outside of Christ, and those who desire to live godly lives will be hunted and subjected to various forms of persecution. This is the price of loyal service to Christ, as there is no exception.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.394348866313896,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.95,
+            "commentatorTierSimilarities": [
+                33.8,
+                31.91,
+                34.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who are determined to live godly in Christ Jesus must be prepared for persecution. It is a mark of the pious and a necessary consequence of living according to His will. The nature of the Christian doctrine itself predicts persecutions, as it condemns other religions and requires adherence to seemingly unreasonable precepts. There is no godliness outside of Christ, and those who desire to live godly lives will be hunted and subjected to various forms of persecution. This is the price of loyal service to Christ with no exceptions.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.288071468413145,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.42,
+            "commentatorTierSimilarities": [
+                35.42,
+                30.31,
+                34.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who determine to live godly in Christ Jesus shall be persecuted, for it is a mark of the pious and a necessary consequence of living according to His will. The nature of the Christian doctrine, which condemns other religions and requires adherence to seemingly unreasonable precepts, predicts that persecutions will be faced. There is no godliness outside of Christ, and those who desire to live godly lives will be hunted and subjected to various forms of persecution. This is the price of loyal service to Christ, without any exceptions.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.387921708816104,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.74,
+            "commentatorTierSimilarities": [
+                33.88,
+                31.92,
+                34.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

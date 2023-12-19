@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:18:35",
+    "verseRef": "Galatians 4:16",
+    "bestBHT": {
+        "bht": "Am I become your enemy by telling you the truth? Paul knew that speaking the truth could sometimes make him appear as an enemy to those who did not want to hear it. It is a daring task to unreservedly speak the truth, as it may hit and hurt. But Paul, as a faithful minister of Christ, was willing to take the risk, even if it meant being seen as an adversary by those he was addressing. It is a common occurrence for people to regard a reprover as an enemy, while the righteous appreciate faithful reproof.",
+        "wordCount": 97,
+        "quoteTokenProportion": 51.52,
+        "qualityScore": 2.1734694282198523,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.61,
+        "commentatorTierSimilarities": [
+            32.17,
+            31.44,
+            36.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Am I then become your enemy by speaking the truth to you?",
+            "When did he thus incur their enmity by speaking the truth?",
+            "He probably found the mischief beginning, and spoke plainly against it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Am I then become your enemy (an enemy in your eyes) by telling you the truth?\" ",
+            "The fool and sinner hate a reprover.",
+            "The righteous love faithful reproof."
+        ],
+        "Albert Barnes": [
+            "How apt are we to feel that the man who tells us of our faults is our enemy!",
+            "We love to be flattered, and to have our friends flattered; and we shrink with pain from any exposure, or any necessity for repentance.",
+            "There is nothing more difficult than to regard with steady and unwavering affection the man who faithfully tells us the truth at all times, when that truth is painful."
+        ],
+        "Marvin Vincent": [
+            "So then, I am become your enemy, am I?",
+            "Your enemy. 'Ecqrov enemy, in an active sense...",
+            "'Alhqeuein, only here and Ephesians 4:15, means to speak the truth or to deal truly."
+        ],
+        "John Calvin": [
+            "Though it is a common remark, that truth begets hatred, yet, except through the malice and wickedness of those who cannot endure to hear it, truth is never hateful.",
+            "While he vindicates himself from any blame in the unhappy difference between them, he indirectly censures their ingratitude.",
+            "What can be more unbecoming than that the hatred of truth should change enemies into friends?"
+        ],
+        "Philip Schaff": [
+            "So then have I become your enemy by telling you the truth?",
+            "He puts the conclusion politely and delicately in the form of a question instead of direct assertion.",
+            "In the Judaizing pseudo-Clementine writings Paul is called an \u2018enemy,\u2019 and \u2018lawless\u2019 or \u2018antinomian\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Your enemy (\u03b5\u03c7\u03b8\u03c1\u03bf\u03c2 \u03c5\u03bc\u03c9\u03bd). Active sense of \u03b5\u03c7\u03b8\u03c1\u03bf\u03c2, hater with objective genitive.",
+            "They looked on Paul now as an enemy to them.",
+            "It is always a risky business to speak the truth, the whole truth. It may hit and hurt."
+        ],
+        "John Gill": [
+            "Am I therefore become your enemy... because I tell you the truth.\" ",
+            "Telling the truth in such a manner often brings many enemies to the ministers of Christ.",
+            "Not only the men of the world, profane sinners, but professors of religion, and sometimes such who once loved and admired them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Am I your enemy now because I have spoken the truth to you? When Paul began to address the false teachings in Galatia, he likely saw the hostility beginning and boldly confronted it. It is a risky endeavor to speak the truth, as it may hurt and hit home. But Paul, as a faithful minister of Christ, was willing to risk being perceived as an enemy by those who did not want to hear the truth. It is a common tendency for people to see a reprover as an enemy, while the righteous appreciate faithful reproof. Yet, it is unfortunate that the hatred of truth can turn friends into enemies.",
+            "wordCount": 110,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 2.128973303289094,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                31.7,
+                29.9,
+                38.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Am I become your enemy by telling you the truth? Paul knew that speaking the truth could sometimes make him appear as an enemy to those who did not want to hear it. It is a daring task to unreservedly speak the truth, as it may hit and hurt. But Paul, as a faithful minister of Christ, was willing to take the risk, even if it meant being seen as an adversary by those he was addressing. It is a common occurrence for people to regard a reprover as an enemy, while the righteous appreciate faithful reproof.",
+            "wordCount": 97,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 2.1734694282198523,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.61,
+            "commentatorTierSimilarities": [
+                32.17,
+                31.44,
+                36.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Am I your enemy now because I have spoken the truth to you? When Paul addressed the false teachings in Galatia, he risked becoming their enemy in their eyes. Speaking the truth can be a challenging task, as it may hit and hurt. However, Paul, as a faithful minister of Christ, was willing to face the hostility of those who did not want to hear the truth. It is unfortunate that some see a reprover as an enemy, while the righteous value faithful reproof.",
+            "wordCount": 84,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 2.052647533103406,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                33.65,
+                29.41,
+                36.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Am I your enemy now because I have spoken the truth to you? Paul, as a faithful minister of Christ, had the courage to confront the false teachings in Galatia. Speaking the truth can sometimes result in being perceived as an enemy, as people often dislike hearing uncomfortable truths. However, Paul was willing to endure this risk in order to faithfully proclaim the truth. It is unfortunate that some individuals view a reprover as an adversary, while the righteous appreciate the value of faithful reproof.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.0058474519513205,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+            "commentatorTierSimilarities": [
+                31.95,
+                30.2,
+                37.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Am I your enemy now because I speak the truth to you? When Paul addressed the false teachings in Galatia, he knew there was a risk of becoming their enemy by telling the truth. However, he was willing to take that risk as a faithful minister of Christ. Speaking the truth can easily generate enmity, especially from those who cannot tolerate hearing it. Sadly, some view a reprover as an enemy, while the righteous appreciate faithful reproof.",
+            "wordCount": 77,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.0977262210711545,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.09,
+            "commentatorTierSimilarities": [
+                33.19,
+                29.13,
+                37.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

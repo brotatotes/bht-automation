@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:12:26",
+    "verseRef": "1 Corinthians 12:19",
+    "bestBHT": {
+        "bht": "If each member of the body were the same, there would be no body. Just as a body has many members, so too does the church. This applies to individuals and even those in positions of authority. Without the variety of talents and gifts that each member brings, the church couldn't thrive. God has intentionally assigned different gifts to each member for the benefit of the whole. We should acknowledge and appreciate the diverse talents in the body of Christ, as they contribute to the church's strength and effectiveness.",
+        "wordCount": 91,
+        "quoteTokenProportion": 52.54,
+        "qualityScore": 1.7031062165956463,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.97,
+        "commentatorTierSimilarities": [
+            25.02,
+            42.52,
+            32.46
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If the whole were one member, where would be the body?",
+            "The body... has many members.",
+            "The same \u2018reductio ad absurdum,\u2019 which has heen made in the concrete twice in ver. 17, is now made in the abstract."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. where were the body\u2014which,",
+            "\tby its very idea, \"hath many members\" (1 Corinthians 12:12;",
+            "\t1 Corinthians 12:14), [ALFORD]."
+        ],
+        "Albert Barnes": [
+            "If there were nothing but an eye, an ear, or a limb, there would be no body.\" ",
+            "If there was not variety of talent and endowment in the church, the church could not itself exist.\" ",
+            "A variety of talents and attainments in their proper places is as useful as are the various members of the human body."
+        ],
+        "John Calvin": [
+            "God has not acted at random, or without good reason, in assigning different gifts to the members of the body.",
+            "We ought to submit ourselves the more carefully to the providence of God, which has so suitably arranged everything for our common advantage.",
+            "If God were to fashion our body into a mass of this kind, it would be a useless heap."
+        ],
+        "Archibald T. Robertson": [
+            "The application to members of the church is obvious.",
+            "It is particularly pertinent in the case of a 'church boss.'",
+            "The logic of verse 1 Corinthians 12:17 applies to any member of the body."
+        ],
+        "John Gill": [
+            "And if they were all one member....where would be the body?\" ",
+            "It would not be a body consisting of such proper and suitable members, as now it is.\" ",
+            "The church of Christ would not be that uniform, useful, and consistent community it is."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If every part of the body were the same, there would be no body at all. Just as a body has many members, so too does the church. This applies to each individual member as well, including those who may hold a position of authority. Without the various talents and gifts that each member brings, the church cannot thrive. God has purposefully assigned different gifts to each member for the common good of the body. We must submit ourselves to God's providence and recognize that the diversity of talents and abilities in the body of Christ is what makes it a functioning and impactful community.",
+            "wordCount": 106,
+            "quoteTokenProportion": 56.94,
+            "qualityScore": 1.706931164929666,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
+            "commentatorTierSimilarities": [
+                24.72,
+                40.19,
+                35.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If every part of the body were the same, there would be no body at all. Just as a body has many members, so too does the church. This applies to each individual member as well. Without the variety of talents and gifts that each member brings, the church could not exist. God has purposely assigned different gifts to each member for the common good. We must submit ourselves to God's providence and recognize that the diversity of talents in the body of Christ is what makes it impactful.",
+            "wordCount": 90,
+            "quoteTokenProportion": 60.32,
+            "qualityScore": 1.6683362806088469,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "commentatorTierSimilarities": [
+                24.65,
+                40.88,
+                34.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If each member of the body were the same, there would be no body. Just as a body has many members, so too does the church. This applies to individuals and even those in positions of authority. Without the variety of talents and gifts that each member brings, the church couldn't thrive. God has intentionally assigned different gifts to each member for the benefit of the whole. We should acknowledge and appreciate the diverse talents in the body of Christ, as they contribute to the church's strength and effectiveness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 1.7031062165956463,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.97,
+            "commentatorTierSimilarities": [
+                25.02,
+                42.52,
+                32.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If every part of the body were the same, there would be no body at all. Just as a body has many members, so too does the church. This applies to each individual member as well, including those who may hold a position of authority. Without the various talents and gifts that each member brings, the church cannot thrive. God has purposefully assigned different gifts to each member for the common good. We must submit ourselves to God's providence and recognize that the diversity of talents in the body of Christ is what makes it impactful.",
+            "wordCount": 97,
+            "quoteTokenProportion": 59.42,
+            "qualityScore": 1.6427621503927194,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.96,
+            "commentatorTierSimilarities": [
+                24.37,
+                40.36,
+                35.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If every part of the body were the same, there would be no body at all. Just as a body has many members, so too does the church. This applies to each individual member as well. Without the variety of talents and gifts that each member brings, the church could not exist. God has purposely assigned different gifts to each member for the common good. We must submit ourselves to God's providence and recognize that the diversity of talents in the body of Christ is what makes it impactful.",
+            "wordCount": 90,
+            "quoteTokenProportion": 60.32,
+            "qualityScore": 1.6683362806088469,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "commentatorTierSimilarities": [
+                24.65,
+                40.88,
+                34.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:21:13",
+    "verseRef": "Luke 18:4",
+    "bestBHT": {
+        "bht": "The parable portrays a man who unjustly denies the pleas of a woman seeking justice, exemplifying the extortion of right through persistence. His avenging is driven by self-interest rather than a sense of duty, reflecting the prevalence of iniquity in the world. This man's consistent refusal to act on behalf of the woman showcases his unrepentant and shameless nature. As he contemplates the situation, he audaciously embraces his own recklessness, glorifying his participation in sin.",
+        "wordCount": 77,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 1.3283015243218461,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.51,
+        "commentatorTierSimilarities": [
+            26.97,
+            21.34,
+            51.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The point of this part of the parable is, the extortion of right from such a man by importunity.",
+            "His very avenging was injustice, because he did it from self-regard and not from a sense of duty.",
+            "He, like the steward above, was a man of injustice,\u2014belonging to, being of, the iniquity which prevails in the world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1-5. always\u2014Compare :-, \"night and day.\" ",
+            "\t",
+            "faint\u2014lose heart, or",
+            "\tslacken."
+        ],
+        "Philip Schaff": [
+            "He laid within himself, etc. This soliloquy reveals the utterly abandoned character of the man: he was not ashamed of his own recklessness.",
+            "For a while. Not necessarily, for a long time."
+        ],
+        "Archibald T. Robertson": [
+            "He would not (\u03bf\u03c5\u03ba \u03b7\u03b8\u03b5\u03bb\u03b5\u03bd). Imperfect tense of continued refusal.",
+            "Though (\u03b5 \u03ba\u03b1). Concerning sentence, not \u03ba\u03b1 \u03b5 (even if). "
+        ],
+        "John Gill": [
+            "He would give no ear to her cries, nor take her cause in hand, nor right her wrongs, and clear her of her adversary.\" ",
+            "As he was considering the matter in his own mind, and reflecting on this woman's case and the frequent application she had made to him.",
+            "A monster in iniquity he was, to say so of himself; for though the character belongs to many, there are few that are so impudent in sin, as to take it to themselves, and glory in it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 18:4, the parable depicts a man who unjustly withholds his assistance from a woman seeking justice, exemplifying the extortion of right through importunity. His actions stem from self-regard rather than a sense of duty, making his avenging an act of injustice. This man, belonging to the prevailing iniquity of the world, continuously refuses to address the woman's cries and to set things right. As he considers the matter, he unapologetically revels in his own recklessness, showcasing his utterly abandoned character.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.3949242787655205,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.72,
+            "commentatorTierSimilarities": [
+                25.51,
+                27.01,
+                47.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable in question unveils a man who, driven by self-interest, unjustly denies a woman's plea for justice, reflecting the prevailing extortion of rights. His refusal to aid her derives not from a sense of duty, but rather from his affiliation with the prevailing iniquity of the world. This man, embodying utter abandonment, proudly embraces his own recklessness, as evident in his internal soliloquy. His actions serve as a powerful reminder of the dark depths to which human selfishness can descend.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.309350879707956,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.88,
+            "commentatorTierSimilarities": [
+                25.62,
+                26.6,
+                47.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable highlights a man who withholds justice from a woman seeking redress, illustrating the unjust act of extorting rights. His avenging is characterized by self-interest rather than a sense of duty, showcasing his participation in the prevalent iniquity of the world. This man's continuous refusal to address the woman's pleas reveals his unapologetically reckless nature. As he reflects on the matter, he shamelessly embraces his own abandon and revels in his callousness towards the woman's plight.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.2452512721692122,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.75,
+            "commentatorTierSimilarities": [
+                25.88,
+                19.77,
+                54.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable portrays a man who unjustly denies the pleas of a woman seeking justice, exemplifying the extortion of right through persistence. His avenging is driven by self-interest rather than a sense of duty, reflecting the prevalence of iniquity in the world. This man's consistent refusal to act on behalf of the woman showcases his unrepentant and shameless nature. As he contemplates the situation, he audaciously embraces his own recklessness, glorifying his participation in sin.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.3283015243218461,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.51,
+            "commentatorTierSimilarities": [
+                26.97,
+                21.34,
+                51.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable reveals a man who, driven by self-interest, unjustly withholds assistance from a woman seeking justice, exemplifying the extortion of her rights through relentless pleas. His avenging is characterized by mere injustice, lacking a sense of duty. This man's association with the prevailing iniquity of the world marks him as a person of immorality. Despite the woman's continual appeals for his intervention, he remains resolute in his refusal, shamelessly reveling in his own wickedness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.294937875190193,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.4,
+            "commentatorTierSimilarities": [
+                31.01,
+                20.28,
+                48.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:20:51",
+    "verseRef": "Luke 17:16",
+    "bestBHT": {
+        "bht": "The despised Samaritan, the only one who felt grateful enough to come back and thank Jesus for the blessing, stands out in this incident. This act of worship, colored by deep love and willingness to submit, sets him apart. His humble posture before Jesus reflects his deep sense of the favor he had received from him, prostrating himself in this manner as a religious good man who knew his duty, obligations, and performed them.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.4241384221761781,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.7,
+        "commentatorTierSimilarities": [
+            23.12,
+            31.48,
+            45.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Fell down, etc. This implies love and willingness to submit himself entirely to the Saviour.",
+            "And he was a Samaritan. The others were Jews, it is properly inferred."
+        ],
+        "Archibald T. Robertson": [
+            "The one man who felt grateful enough to come back and thank Jesus for the blessing was a despised Samaritan.",
+            "This touch colours the whole incident.",
+            "The \u03b1\u03c5\u03c4\u03bf\u03c2 has point here."
+        ],
+        "John Gill": [
+            "For being cleansed, he might draw nigh unto Jesus... prostrated himself in this manner before him.",
+            "Having a deep sense of the favour he had received from him, prostrated himself in this manner before him.",
+            "This man behaved as a religious good man, who had a sense of his mercy, knew his duty, and his obligations, and performed them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Samaritan man who displays gratitude and humility by returning to Jesus to thank him stands out in this story. This act of worship, characterized by deep love and submission, sets him apart from the others who failed to express their appreciation. Being a despised Samaritan, his response highlights the significance of his faith and the recognition of the blessing he has received. His humble posture before Jesus reflects his religious devotion and understanding of his duty and obligation to honor and give thanks for the mercy shown to him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.206640634326381,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.46,
+            "commentatorTierSimilarities": [
+                21.54,
+                31.12,
+                47.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The despised Samaritan, the only one who felt grateful enough to return and thank Jesus for the blessing, stands out in this incident. His act of worship, marked with deep love and willingness to submit to the Savior, sets him apart. Being a Samaritan, it emphasizes the significance of his faith. His humble posture before Jesus reflects his deep sense of the favor received and his religious devotion, recognizing his duty and obligations.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.3515624898625327,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.28,
+            "commentatorTierSimilarities": [
+                22.15,
+                34.18,
+                43.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The despised Samaritan, who felt grateful enough to come back and thank Jesus for the blessing, stands out in this incident. This act of worship, colored by deep love and willingness to submit, sets him apart. Being a Samaritan, it emphasizes the significance of his faith. His humble posture before Jesus reflects his deep sense of the favor received, prostrating himself in this manner as a religious good man who knows his duty and obligations and performs them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.3711204154252763,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.93,
+            "commentatorTierSimilarities": [
+                22.86,
+                34.45,
+                42.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The despised Samaritan, the only one who felt grateful enough to come back and thank Jesus for the blessing, stands out in this incident. This act of worship, colored by deep love and willingness to submit, sets him apart. His humble posture before Jesus reflects his deep sense of the favor he had received from him, prostrating himself in this manner as a religious good man who knew his duty, obligations, and performed them.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.4241384221761781,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.7,
+            "commentatorTierSimilarities": [
+                23.12,
+                31.48,
+                45.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The despised Samaritan, the only one who felt grateful enough to come back and thank Jesus for the blessing, stands out in this incident. His act of worship reflects his deep appreciation and understanding of the favor received from Jesus, as he prostrated himself in humble gratitude. Being a religious and dutiful man, he recognized his obligations and fulfilled them through his humble posture and heartfelt thanks.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.3573247481214308,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.47,
+            "commentatorTierSimilarities": [
+                26.13,
+                28.62,
+                45.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

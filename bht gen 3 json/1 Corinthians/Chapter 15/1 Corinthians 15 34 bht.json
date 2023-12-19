@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:14:33",
+    "verseRef": "1 Corinthians 15:34",
+    "bestBHT": {
+        "bht": "Awake from the moral intoxication already affecting you and recover righteousness at risk of being lost. The presence of individuals who lack true knowledge of God within the Corinthian church is a disgraceful state. Shake off your lethargy and do not succumb to the shameful ignorance of God and His word. Embrace the truth, be alarmed by the dangers, and direct your mind to things that are good and holy. Stop sinning, wake up, and awake to righteousness as it is just, right, and proper that you should.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 2.0903890323396572,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.85,
+        "commentatorTierSimilarities": [
+            31.97,
+            32.8,
+            35.24
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Awake out of (your moral) intoxication, already possessing you\" - The commentary urges the readers to awaken from the moral intoxication already affecting them.",
+            "righteously...to recover your righteousness, which you are in danger of losing\" - The commentary emphasizes the need to recover righteousness at risk of being lost.",
+            "Some...have (are affected with) ignorance of God\" - The commentary highlights the presence of individuals who lack true knowledge of God, representing a disgraceful state within the Corinthian church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Greek expresses a continued state of abstinence from sin.",
+            "Paul implies that they who live in sinful pleasures readily persuade themselves of what they wish, namely, that there is to be no resurrection.",
+            "An habitual ignorance: wilful, in that they prefer to keep their sins, rather than part with them, in order to know God."
+        ],
+        "Albert Barnes": [
+            "Arouse from stupidity on this subject; awake from your conscious security; be alarmed, as it is right and proper that you should do, for you are surrounded by dangers, and by those who would lead you into error and vice.",
+            "Do not embrace a doctrine which is not only erroneous, but the tendency of which is to lead into sin.",
+            "To your shame as a church; because you have had abundant opportunities to know the truth, and because it is a subject of deep disgrace that there are any in your bosom who deny the doctrine of the resurrection of the dead, and who are strangers to the grace of God."
+        ],
+        "Marvin Vincent": [
+            "Awake [\u03b5\u03ba\u03bd\u03b7\u03c8\u03b1\u03c4\u03b5]. Only here in the New Testament. It means to awake from a drunken stupor.\" ",
+            "Have not the knowledge (ajgnwsian ecousin). Lit., have an ignorance. Stronger than ajgnoein to be ignorant. They have and hold it.\" ",
+            "For the form of expression, see on have sorrow, John 16:29. The word for ignorance is found only here and 1 Peter 2:15 (see note)."
+        ],
+        "John Calvin": [
+            "Awake righteously \u2014 that is, 'Direct your mind and aim to things that are good and holy.'",
+            "He convicts them of ignorance of God, that they may know that the main thing was wanting in them.",
+            "Now Paul in reproaching them with ignorance of God, strips them entirely of all honor."
+        ],
+        "Philip Schaff": [
+            "Awake to righteousness, and sin not.\" ",
+            "These opinions spring not from honest conviction, but are bred of too intimate association with men of free thought and lax life.",
+            "Only gross ignorance of God can account for sentiments so shameful arising in a Christian community."
+        ],
+        "Archibald T. Robertson": [
+            "Awake up righteously... Wake up as if from drunkenness.\" ",
+            "Stop sinning.\" ",
+            "Ignorance of God, agnosticism. Some today (agnostics) even take pride in it instead of shame."
+        ],
+        "John Gill": [
+            "Awake out of sleep, to watch and be sober, and attend to 'righteousness'",
+            "To the righteousness of Christ, to look unto it, lay hold on it, exercise faith upon it",
+            "Awake righteously... as it becomes you, and as it is just, right, and proper you should"
+        ],
+        "John Wesley": [
+            "Awake \u2014 An exclamation full of apostolical majesty. Shake off your lethargy!",
+            "Sin supposes drowsiness of soul.",
+            "For nothing is more shameful, than sleepy ignorance of God, and of the word and works of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Awake from the moral intoxication already affecting you and recover righteousness at risk of being lost. It is disgraceful that some within the Corinthian church lack true knowledge of God. Stop sinning and wake up as if from drunkenness. Arouse from stupidity, embrace the truth, and be alarmed by the dangers and errors surrounding you. It is a deep disgrace that there are those among you who deny the resurrection of the dead and are ignorant of God. Direct your mind and aim to things that are good and holy, and awake to righteousness. Embrace the righteousness of Christ and lay hold on it with faith. Shake off your lethargy and do not succumb to the shameful ignorance of God and His word.",
+            "wordCount": 123,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 2.081285666045983,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.54,
+            "commentatorTierSimilarities": [
+                31.81,
+                32.97,
+                35.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Awake from the moral intoxication already affecting you and recover righteousness at risk of being lost. Some within the Corinthian church lack true knowledge of God, representing a disgraceful state. Stop sinning and wake up as if from drunkenness. Embrace the truth and be alarmed by the dangers and errors surrounding you. Direct your mind to things that are good and holy, and awake to righteousness. Shake off your lethargy and do not succumb to the shameful ignorance of God and His word.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.083087443897306,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.6,
+            "commentatorTierSimilarities": [
+                32.76,
+                31.84,
+                35.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Awake from the moral intoxication already affecting you and recover righteousness at risk of being lost. Some within the Corinthian church lack true knowledge of God, representing a disgraceful state. Stop sinning and wake up. Embrace the truth and be alarmed by the dangers surrounding you. Direct your mind to things that are good and holy, and awake to righteousness. Shake off your lethargy and do not succumb to the shameful ignorance of God and His word.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.02844873656752,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                32.11,
+                32.39,
+                35.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Awake from the moral intoxication already affecting you and recover righteousness at risk of being lost. The presence of individuals who lack true knowledge of God within the Corinthian church is a disgraceful state. Shake off your lethargy and do not succumb to the shameful ignorance of God and His word. Embrace the truth, be alarmed by the dangers, and direct your mind to things that are good and holy. Stop sinning, wake up, and awake to righteousness as it is just, right, and proper that you should.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.0903890323396572,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.85,
+            "commentatorTierSimilarities": [
+                31.97,
+                32.8,
+                35.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Awake from the moral intoxication already affecting you and recover righteousness at risk of being lost. The presence of individuals who lack true knowledge of God within the Corinthian church is disgraceful. Shake off your lethargy and do not succumb to the shameful ignorance of God and His word. Embrace the truth, be alarmed by the dangers, and direct your mind to things that are good and holy. Stop sinning, wake up, and embrace righteousness as it is just and right for you to do so.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.053152549544535,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                32.0,
+                33.59,
+                34.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

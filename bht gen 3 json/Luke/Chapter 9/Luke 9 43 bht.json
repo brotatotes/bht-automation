@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:17:13",
+    "verseRef": "Luke 9:43",
+    "bestBHT": {
+        "bht": "The multitude, in contrast with the disciples, were all astonished at the divine grandeur of Christ rising upon them daily. They marveled at the mighty power of God revealed in the transfiguration, recognizing the majesty and mightiness of God. This last miracle displayed the great power of God which was manifested in the cure, leaving the disciples in awe. Through this, they were reminded to take their focus off their expectations of a temporal kingdom and glory, and instead be amazed at the mighty power of God.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7920397195139812,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+        "commentatorTierSimilarities": [
+            19.83,
+            30.01,
+            50.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "all\u2014the multitude\u2014in contrast with \u201cyour ears\u201d of ver. 44."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the divine grandeur of Christ rising upon them daily.",
+            "the mighty power of God in this last miracle, the transfiguration.",
+            "the majesty or mightiness of God."
+        ],
+        "Marvin Vincent": [
+            "Astonished [\u03b5\u03be\u03b5\u03c0\u03b7\u03c3\u03c3\u03bf\u03bd\u03c4\u03bf] . See on Matthew 7:28. ",
+            "Mighty power [\u03bc\u03b5\u03b3\u03b1\u03bb\u03b5\u03b9\u03bf\u03c4\u03b7\u03c4\u03b9] . Used only by Luke and at 2 Peter 1:16, on which see note. ",
+            "He did [\u03b5\u03c0\u03bf\u03b9\u03b5\u03b9] . Imperfect. Better, was doing."
+        ],
+        "Philip Schaff": [
+            "And they were all astonished. The multitude in contrast with the disciples.\" ",
+            "At the majesty of God, as displayed in this miracle.",
+            "But while all were marvelling. Quite indefinite. The conversation took place on the private journey to Capernaum, as we learn from the other accounts."
+        ],
+        "John Gill": [
+            "And they were all amazed at the mighty power of God,...which was displayed in this cure.",
+            "The great power of God was manifestly seen in it, to the astonishment of the disciples, who could not cure this child.",
+            "To take off the thoughts of the disciples from a temporal kingdom and glory, they were so much in expectation of, and which every miracle of Christ, and the applause he got thereby among men, strengthened them in."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The multitude, in contrast with the disciples, were all astonished at the divine grandeur of Christ rising upon them daily. They marveled at the mighty power of God revealed in the transfiguration, recognizing the majesty and mightiness of God. This last miracle displayed the great power of God which was manifested in the cure, leaving the disciples in awe. Through this, they were reminded to take their focus off their expectations of a temporal kingdom and glory, and instead be amazed at the mighty power of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7920397195139812,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                19.83,
+                30.01,
+                50.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The multitude, in contrast with the disciples, were all astonished at the divine grandeur of Christ rising upon them daily. They marveled at the mighty power of God revealed in the transfiguration, recognizing the majesty and mightiness of God. This last miracle displayed the great power of God which was manifested in the cure, leaving the disciples in awe. Through this, they were reminded to take their focus off their expectations of a temporal kingdom and glory, and instead be amazed at the mighty power of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7920397195139812,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                19.83,
+                30.01,
+                50.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The multitude was astonished at the divine grandeur of Christ, recognizing the mighty power of God displayed in the transfiguration. The disciples, however, were left in awe by this miraculous cure, reminding them to shift their focus away from their own earthly desires and instead be amazed at the manifest power of God.",
+            "wordCount": 53,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.7567226450156768,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.75,
+            "commentatorTierSimilarities": [
+                20.3,
+                28.04,
+                51.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The multitude marveled at the divine grandeur of Christ as they witnessed the mighty power of God revealed in the transfiguration. This last miracle displayed the great power of God, leaving the disciples astonished. Through this event, they were reminded to redirect their focus from their earthly expectations and ambitions, and to instead be in awe of the immense power of God.",
+            "wordCount": 62,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6911390802800699,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+            "commentatorTierSimilarities": [
+                19.73,
+                30.11,
+                50.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The multitude, in contrast with the disciples, were all astonished at the divine grandeur of Christ rising upon them daily. They marveled at the mighty power of God revealed in the transfiguration, recognizing the majesty and mightiness of God. This last miracle displayed the great power of God which was manifested in the cure, leaving the disciples in awe. Through this, they were reminded to take their focus off their expectations of a temporal kingdom and glory, and instead be amazed at the mighty power of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7920397195139812,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                19.83,
+                30.01,
+                50.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

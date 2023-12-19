@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:26:23",
+    "verseRef": "Acts 5:10",
+    "bestBHT": {
+        "bht": "After lying to the disciples and God Himself, Sapphira immediately fell down at Peter's feet and died, just as her husband had done. The young men who had been burying Ananias arrived and found her lifeless body, burying her alongside her husband. This shocking scene served as a powerful example of God's judgment on deceit and hypocrisy, highlighting the serious consequences of attempting to deceive the Church and the Lord Himself. The death of Sapphira, like Ananias before her, was seen as a supernatural act, demonstrating the divine authority and discipline within the early Church.",
+        "wordCount": 97,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5080348443472595,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+        "commentatorTierSimilarities": [
+            18.29,
+            37.44,
+            44.26
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] when they came in: not implying that they immediately entered, but leaving room for some interval of time: see above."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. buried her by her husband\u2014The",
+            "\tlater Jews buried before sunset of the day of death."
+        ],
+        "Philip Schaff": [
+            "The death of the wife was instantaneous, and took place exactly as the words of Peter had foretold.",
+            "She lay dead in the midst of the assembly.",
+            "The young men who had just returned from the grave of Ananias laid her in that same sad evening by his side."
+        ],
+        "Archibald T. Robertson": [
+            "Immediately (\u03c0\u03b1\u03c1\u03b1\u03c7\u03c1\u03b7\u03bc\u03b1). Hence her death was regarded as supernatural like that of Ananias.",
+            "By her husband (\u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03bd \u03b1\u03bd\u03b4\u03c1\u03b1 \u03b1\u03c5\u03c4\u03b7\u03c2). Face to face to her husband. "
+        ],
+        "John Gill": [
+            "Then fell she down straightway at his feet,.... In like manner, and by the same hand of God as her husband before: and yielded up the ghost; died directly.\" ",
+            "and the young men came in and found her dead; the young men who had been to inter her husband came into the house at that instant, and found her dead upon the floor, at the feet of the Apostle Peter.",
+            "and carrying her forth, buried her by her husband; as it was usual with the Jews to do."
+        ],
+        "John Wesley": [
+            "This is the first time it is mentioned: and here is a native specimen of a New Testament Church.",
+            "A company of men, called by the Gospel, grafted into Christ by baptism.",
+            "Disciplined by the death of Ananias and Sapphira."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After lying to the disciples and God Himself, Sapphira immediately fell down at Peter's feet and died, just as her husband had done. The young men who had been burying Ananias arrived and found her lifeless body, burying her alongside her husband. This shocking scene served as a powerful example of God's judgment on deceit and hypocrisy, highlighting the serious consequences of attempting to deceive the Church and the Lord Himself. The death of Sapphira, like Ananias before her, was seen as a supernatural act, demonstrating the divine authority and discipline within the early Church.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5080348443472595,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                18.29,
+                37.44,
+                44.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sapphira met the same fate as her husband, collapsing at Peter's feet and dying on the spot. The young men who had just buried Ananias discovered her lifeless body and buried her next to him. This incident served as a stern warning against deceit and hypocrisy within the Church, revealing the severe consequences of attempting to deceive God and His people. The swift and supernatural nature of Sapphira's death demonstrated the divine authority and discipline present in the early Christian community.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.4327472646673853,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.98,
+            "commentatorTierSimilarities": [
+                20.06,
+                38.06,
+                41.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After lying, Sapphira promptly fell down dead at Peter's feet, just like her husband. The young men who had buried Ananias discovered her lifeless body and buried her beside him. This incident served as a powerful warning against deceit and hypocrisy within the Church, illustrating the severe consequences of attempting to deceive God and His people. Sapphira's abrupt and supernatural death highlighted the divine authority and discipline that characterized the early Christian community.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.447678801377429,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.48,
+            "commentatorTierSimilarities": [
+                19.95,
+                38.35,
+                41.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Sapphira lied, she immediately fell down dead at Peter's feet, mirroring her husband's fate. The young men who had buried Ananias found her lifeless body and buried her beside him. This event served as a profound cautionary tale, emphasizing the grave repercussions of deceit and hypocrisy within the Church. Sapphira's sudden and remarkable death showcased the divine authority and discipline that pervaded the early Christian community.",
+            "wordCount": 70,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.4658481884348884,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.08,
+            "commentatorTierSimilarities": [
+                19.31,
+                41.48,
+                39.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sapphira met the same fate as her husband, collapsing at Peter's feet and dying on the spot. The young men who had just buried Ananias discovered her lifeless body and buried her next to him. This incident served as a stern warning against deceit and hypocrisy within the Church, revealing the severe consequences of attempting to deceive God and His people. The swift and supernatural nature of Sapphira's death demonstrated the divine authority and discipline present in the early Christian community.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.4327472646673853,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.98,
+            "commentatorTierSimilarities": [
+                20.06,
+                38.06,
+                41.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

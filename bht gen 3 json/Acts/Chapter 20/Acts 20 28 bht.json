@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:34:28",
+    "verseRef": "Acts 20:28",
+    "bestBHT": {
+        "bht": "The elders, also known as bishops, are entrusted with the personal and pastoral care of the Church of Christ. The distinction between these offices was established later, but Paul emphasizes the Church's transcendent sacredness based on the value of Christ's blood. The elders, as overseers, are called to shepherd and tend to the flock, going beyond physical feeding. Paul affirms that ministers are appointed by the Holy Spirit and highlights Jesus as the shepherd and bishop of believers' souls. The ministers must recognize their grave responsibility in guiding the flock purchased with the divine blood of Christ.",
+        "wordCount": 99,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 2.0954228156309087,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.01,
+        "commentatorTierSimilarities": [
+            39.13,
+            36.26,
+            24.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This similitude does not elsewhere occur in Paul\u2019s writings.",
+            "The Apostle calls the elders (presbyters) bishops: for at that time they had both names.",
+            "On the variety of reading here, and the reasons which have led me to adhere to that in the text, see in my Greek Test."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Observe here how the personal is put before the pastoral care.",
+            "The distinction between these offices cannot be certainly traced till the second century, nor was it established till late in that century.",
+            "The transcendent sacredness of the Church of Christ is thus made to rest on the dignity of its Lord and the consequent preciousness of that blood which He shed for it."
+        ],
+        "Albert Barnes": [
+            "... without this all his preaching will be vain.",
+            "A shepherd regards the interest of the tenderest of the fold as much as the strongest.",
+            "The chief consideration that will make ministers faithful and self-denying is, that the church has been bought with a price."
+        ],
+        "Marvin Vincent": [
+            "The elders, by virtue of their office, were overseers.",
+            "The word 'feed' embraces more than feeding; signifying all that is included in the office of a shepherd: tending, or shepherding.",
+            "The verb [purchased] means, originally, to make [\u03c0\u03bf\u03b9\u03b5\u03c9] to remain over and above [\u03c0\u03b5\u03c1\u03b9]: hence to keep or save for one's self; to compass or acquire."
+        ],
+        "John Calvin": [
+            "That man will never be careful for the salvation of other men who will neglect his own. And in vain shall that man prick forward other to live godlily, who will himself show no desire of godliness.",
+            "The more excellent the dignity of that Lord and Master whom we serve is, the more reverence do we give him naturally, and the reverence itself doth sharpen our study and diligence.",
+            "The hierarchy of Papistry is ridiculous, wherein bishops being proud of their (painted sheath and) vain title, do not so much as once meddle with the function of teaching."
+        ],
+        "Philip Schaff": [
+            "For the future the grave responsibility of guiding this precious flock will be yours, elders of the Church of Ephesus yours the care of providing that it be kept from error; and first I press home to you to take heed to your own lives, to the example you set, to the influence you exert.",
+            "We therefore unhesitatingly adopt the words of our English Authorised Version as the correct translation of the original Greek words, and possess in these words a distinct expression of the belief of the Apostolic Church in the absolute Divinity of the Son and of the nature of His work as Redeemer.",
+            "Paul authoritatively taught here that, \u2018As for the Church of God, God purchased it with His own blood.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Paul evidently believed that the Holy Spirit calls and appoints ministers.",
+            "These ministers are thus in Paul's speech called elders, bishops, and shepherds.",
+            "Jesus is termed 'the shepherd and bishop of your souls' in 1 Peter 2:25."
+        ],
+        "John Gill": [
+            "Take heed therefore unto yourselves,.... Since the blood of men may be required of those, who are negligent or partial in their office, and shun to declare the whole counsel of God.",
+            "The people of God are compared to sheep on many accounts; before conversion, for their going astray, when they are as lost sheep; after conversion, for their meek and inoffensive carriage and behaviour, and for their patience in bearing sufferings, to which they are exposed.",
+            "and these sheep being a prey, and from Satan, as from whom they are taken in virtue of the ransom given; but to God, from whom they strayed, against whom they sinned, and whose law they broke; and this price was not silver and gold, nor men, nor people: but Christ himself, his life and blood."
+        ],
+        "John Wesley": [
+            "To do this is the peculiar work of the Holy Ghost.",
+            "How precious is it then in his sight!",
+            "For it is the blood of the only begotten Son of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The elders, also known as bishops, are called to fulfill a personal and pastoral care for the Church of Christ. The distinction between these offices was not established until later, but Paul emphasizes the transcendent sacredness of the Church by emphasizing the preciousness of Christ's blood shed for it. The elders, as overseers, are tasked with shepherding, tending, and feeding the flock. Through his speech, Paul affirms that the Holy Spirit appoints ministers, highlighting Jesus as the shepherd and bishop of their souls. The Church has been purchased with the precious blood of Christ, making the role of ministers in guiding the flock a grave responsibility. Their faithfulness and self-denial should be driven by the understanding that they serve the Lord and Master who bought the Church with His own divine blood.",
+            "wordCount": 134,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.0865085380098485,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.72,
+            "commentatorTierSimilarities": [
+                35.92,
+                37.37,
+                26.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The elders, also called bishops, have a personal and pastoral responsibility for the Church of Christ. Paul emphasizes the preciousness of Christ's blood, shedding light on the transcendent sacredness of the Church. The elders are entrusted with shepherding and feeding the flock, going beyond mere physical nourishment. Through his speech, Paul highlights the Holy Spirit's role in appointing ministers and the significance of Jesus as the shepherd and bishop of believers' souls. The ministers must recognize the grave responsibility of guiding the precious flock purchased with the divine blood of Christ.",
+            "wordCount": 93,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.0489147814317272,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.47,
+            "commentatorTierSimilarities": [
+                35.05,
+                37.96,
+                26.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The elders, also known as bishops, are entrusted with the personal and pastoral care of the Church of Christ. The distinction between these offices was established later, but Paul emphasizes the Church's transcendent sacredness based on the value of Christ's blood. The elders, as overseers, are called to shepherd and tend to the flock, going beyond physical feeding. Paul affirms that ministers are appointed by the Holy Spirit and highlights Jesus as the shepherd and bishop of believers' souls. The ministers must recognize their grave responsibility in guiding the flock purchased with the divine blood of Christ.",
+            "wordCount": 99,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 2.0954228156309087,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.01,
+            "commentatorTierSimilarities": [
+                39.13,
+                36.26,
+                24.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The elders, or bishops, have a personal and pastoral calling to care for the Church of Christ. The distinction between these offices emerged later, but the Church's sanctity is rooted in the preciousness of Christ's shed blood. The elders, as overseers, are charged with shepherding and tending to the flock's needs beyond physical sustenance. Paul affirms the Holy Spirit's role in appointing ministers and emphasizes Jesus as the shepherd and bishop of believers' souls. These ministers bear the weighty responsibility of guiding the flock, purchased with the divine blood of Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 2.030991441549345,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                37.88,
+                35.88,
+                26.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The elders, also known as bishops, have a personal and pastoral duty towards the Church of Christ. Though the distinction between these offices wasn't established until later, the sanctity of the Church is rooted in the preciousness of Christ's shed blood. The elders, as overseers, are called to shepherd and tend to the flock, encompassing more than physical feeding. Paul presents the Holy Spirit as the one who appoints ministers, emphasizing Jesus as the shepherd and bishop of believers' souls. These ministers bear the grave responsibility of guiding the flock purchased with Christ's divine blood.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.0835429497163593,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                39.09,
+                36.12,
+                24.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

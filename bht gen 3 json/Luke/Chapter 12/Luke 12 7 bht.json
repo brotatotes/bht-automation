@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:18:24",
+    "verseRef": "Luke 12:7",
+    "bestBHT": {
+        "bht": "Every individual is precious and known to God. We are called to confess in Him and acknowledge His presence in our lives. Just as every hair on our heads is numbered and accounted for by God, His providence is meticulous and constant. Even the smallest details are under His care. Our worth to Him exceeds that of countless sparrows, highlighting His infinite love and concern for us. (Matthew 10:30)",
+        "wordCount": 68,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.251944173309029,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.97,
+        "commentatorTierSimilarities": [
+            42.39,
+            0.0,
+            57.61
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Confess me. Lit., \"confess in me.\" See on Matthew 10:32."
+        ],
+        "Archibald T. Robertson": [
+            "Numbered (\u03b7\u03c1\u03b9\u03b8\u03bc\u03b7\u03bd\u03c4\u03b1). Perfect passive indicative. Periphrastic form in Matthew 10:30 which see for details about sparrows, etc. "
+        ],
+        "John Gill": [
+            "Not only the several members of their bodies, or the more substantial parts of them, were written in the book of his purposes, according to which they were fashioned in time, but the more minute parts, and less to be regarded, were all told over, and kept in account.",
+            "Even the very hairs of their head, and not one of them could fall to the ground...without the knowledge and will of God; so careful is the providence of God, of all his people.",
+            "If the hairs of their heads are as much regarded as sparrows, their persons and their lives must be of more account, than an infinite number of them."
+        ],
+        "John Wesley": [
+            "Matthew 10:30."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Every individual is precious and known to God. We are called to confess in Him and acknowledge His presence in our lives. Just as every hair on our heads is numbered and accounted for by God, His providence is meticulous and constant. Even the smallest details are under His care. Our worth to Him exceeds that of countless sparrows, highlighting His infinite love and concern for us. (Matthew 10:30)",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.251944173309029,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.97,
+            "commentatorTierSimilarities": [
+                42.39,
+                0.0,
+                57.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every individual is valued and recognized by God. We are called to confess in Him and acknowledge His presence in our lives. Just as every hair on our heads is numbered and accounted for by God, His providence is meticulous and constant. Even the most minute aspects are under His watchful care. Our worth to Him surpasses that of countless sparrows, highlighting His immeasurable love and concern for us. (Matthew 10:30)",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.1724487753904935,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.33,
+            "commentatorTierSimilarities": [
+                40.09,
+                0.0,
+                59.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are urged to confess in God and recognize His presence in our lives. Each and every one of us is significant and known by Him. Just as every hair on our heads is carefully numbered and accounted for by God, His providence is thorough and unwavering. Even the smallest details are under His watchful eye. Our value to Him surpasses that of countless sparrows, illustrating His boundless love and care for us. (Matthew 10:30)",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.2454245531136938,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.75,
+            "commentatorTierSimilarities": [
+                43.53,
+                0.0,
+                56.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are called to confess and acknowledge God in our lives, recognizing His presence and significance. Each individual is precious and known by Him. Just as every hair on our heads is numbered and accounted for, God's providence is meticulous and constant. Even the minutest details are under His watchful care. Our worth to Him exceeds that of countless sparrows, showcasing His infinite love and concern for us. (Matthew 10:30)",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.2236194996797227,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.03,
+            "commentatorTierSimilarities": [
+                42.93,
+                0.0,
+                57.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Every person is instructed to confess in God and acknowledge His presence in their lives. Everyone is valued and recognized by Him. Just as God has taken the time to number and account for every single hair on our heads, His providence is both thorough and unchanging. He pays attention to even the tiniest details. Our worth to Him surpasses that of countless sparrows, displaying His immeasurable love and concern for us. (Matthew 10:30)",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.2081424447357734,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.51,
+            "commentatorTierSimilarities": [
+                39.91,
+                0.0,
+                60.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

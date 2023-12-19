@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:22:04",
+    "verseRef": "Luke 19:37",
+    "bestBHT": {
+        "bht": "With the raising of Lazarus still on their minds and the miracles they had witnessed during their journey, the multitude of disciples expressed a burst of admiration that had not been witnessed before. As they made their way down the southeastern corner of the city, the sight of Mount Zion only added to their enthusiasm. Their shouts of triumph and acclamations filled the air, echoing their praise to God. Inspired by a divine impulse, their words flowed, even if not fully understood by many.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 2.039043358925447,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+        "commentatorTierSimilarities": [
+            25.73,
+            34.97,
+            39.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the whole multitude of the disciples...equivalent to 'the multitudes'\" ",
+            "The 'mighty work,' in the which dwelt, mostly on their minds, was the raising of Lazarus",
+            "all that they had seen during their journey with Him"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The language here is very grand, intended to express a burst of admiration far wider and deeper than ever had been witnessed before.",
+            "A burst of admiration far wider and deeper than ever had been witnessed before.\" ",
+            "Express a burst of admiration far wider and deeper than ever had been witnessed before."
+        ],
+        "Marvin Vincent": [
+            "At this point (the former) the first view is caught of the southeastern corner of the city.",
+            "The temple and the more northern portions are hid by the slope of Olivet on the right.",
+            "What is seen is only Mount Zion, now, for the most part, a rough field, crowned with the mosque of David, and the angle of the western walls, but then covered with houses to its base, and surmounted by the castle of Herod, on the supposed site of the palace of David."
+        ],
+        "Philip Schaff": [
+            "A fitting place for the culmination of their enthusiasm.",
+            "All the miracles performed on this journey, but doubtless with special reference to the raising of Lazarus, from whose home they had just come."
+        ],
+        "Archibald T. Robertson": [
+            "They were going by the southern slope of the Mount of Olives.",
+            "It was a shout of triumph from the multitude with their long pent-up enthusiasm.",
+            "The climax had come, Lazarus, Bartimaeus, and the rest."
+        ],
+        "John Gill": [
+            "The whole multitude of the disciples began to rejoice, and praise God, with a loud voice...\" ",
+            "and made the air ring with their shouts, and acclamations of praise to God"
+        ],
+        "John Wesley": [
+            "Speaking at once, as it seems, from a Divine impulse, words which most of them did not understand.",
+            "The whole multitude began to praise God.",
+            "Words which most of them did not understand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the multitude of disciples made their way down the southeastern corner of the city, their admiration and excitement burst forth. With the raising of Lazarus fresh in their minds, the miracles they had witnessed during their journey with Jesus, and the sight of Mount Zion, their praise to God was profound and resounding. This culmination of enthusiasm was fitting, as they shouted triumphantly, their voices filling the air with acclamations. It was a moment where words flowed from them, spoken in divine inspiration, even if many did not fully comprehend their meaning.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.030633654537601,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.86,
+            "commentatorTierSimilarities": [
+                25.56,
+                36.26,
+                38.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the multitude of disciples made their way down the southeastern corner of the city, their burst of admiration for Jesus was unparalleled. With the raising of Lazarus fresh in their minds and the memory of the miracles they had experienced on their journey, their praise to God was overwhelming. The sight of Mount Zion added to their exaltation. Their shouts of triumph and acclamations resounded, filling the air with joyful noise. In that moment, words flowed from their lips, inspired by a divine impulse, even though many did not fully comprehend their meaning.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.896467377023448,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "commentatorTierSimilarities": [
+                25.97,
+                35.56,
+                38.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the multitude of disciples made their way down the southeastern corner of the city, their burst of admiration for Jesus was unparalleled. With the raising of Lazarus fresh in their minds and the memory of the miracles they had witnessed, their praise to God was overwhelming. The sight of Mount Zion added to their exaltation. Their shouts of triumph and acclamations filled the air with joyful noise. In that moment, words flowed from their lips, inspired by a divine impulse, even if many did not fully comprehend their meaning.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8969040537889483,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                26.28,
+                34.11,
+                39.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With the raising of Lazarus still on their minds and the miracles they had witnessed during their journey, the multitude of disciples expressed a burst of admiration that had not been witnessed before. As they made their way down the southeastern corner of the city, the sight of Mount Zion only added to their enthusiasm. Their shouts of triumph and acclamations filled the air, echoing their praise to God. Inspired by a divine impulse, their words flowed, even if not fully understood by many.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.039043358925447,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "commentatorTierSimilarities": [
+                25.73,
+                34.97,
+                39.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the multitude of disciples made their way down the southeastern corner of the city, their burst of admiration for Jesus was unparalleled. With the raising of Lazarus fresh in their minds and the memory of the miracles they had witnessed, their praise to God was overwhelming. The sight of Mount Zion added to their exaltation. Their shouts of triumph and acclamations filled the air with joyful noise. In that moment, words flowed from their lips, inspired by a divine impulse, even if many did not fully comprehend their meaning.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8969040537889483,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                26.28,
+                34.11,
+                39.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

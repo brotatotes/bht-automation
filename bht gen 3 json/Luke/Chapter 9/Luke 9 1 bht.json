@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:16:48",
+    "verseRef": "Luke 9:1",
+    "bestBHT": {
+        "bht": "Jesus called the twelve together, giving them power and authority over all kinds of devils, enabling them to cast them out and cure diseases. This mission troubled Herod, prompting his desire to see Jesus. The accounts in Mark and Matthew provide further details about the calling together of the twelve.",
+        "wordCount": 50,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.6267185567763556,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.43,
+        "commentatorTierSimilarities": [
+            51.49,
+            0.0,
+            48.51
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Mark\u2019s account agrees nearly exactly with the text.",
+            "The discourse is given at much greater length in Matthew, where see notes.",
+            "MISSION OF THE TWELVE. Matt. x 5\u201312. Mark vi. 7\u2013 13."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1. power and authority\u2014He both",
+            "\tqualified and authorized them. ",
+            "\t",
+            " :-. HEROD TROUBLED",
+            "\tAT WHAT HE",
+            "\tHEARS OF CHRIST",
+            "\tDESIRES TO SEE",
+            "\tHIM. ",
+            "\t",
+            "(See on :-)."
+        ],
+        "Marvin Vincent": [
+            "Called together. Matthew and Mark have called to."
+        ],
+        "Archibald T. Robertson": [
+            "He called the twelve together (\u03c3\u03c5\u03bd\u03ba\u03b1\u03bb\u03b5\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b4\u03c9\u03b4\u03b5\u03ba\u03b1). Mark 6:7; Matthew 10:1 have \u03c0\u03c1\u03bf\u03c3\u03ba\u03b1\u03bb\u03b5\u03c9\u03bc\u03b1, to call to him. Both the indirect middle voice. "
+        ],
+        "John Gill": [
+            "And gave them power and authority over all devils.",
+            "That is, all kinds of devils, particularly to cast them out of the bodies of men, possessed by them.",
+            "And to cure diseases; of all sorts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus called together the twelve disciples and gave them power and authority over all kinds of devils, enabling them to cast them out of people who were possessed. He also empowered them to cure all sorts of diseases. This mission of the twelve would become an important part of their ministry, as they were both qualified and authorized by Jesus to carry out these tasks. The authority they received troubled Herod, causing him to desire to see Jesus for himself. The accounts in Mark and Matthew provide further details about this discourse and the calling together of the twelve.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.4839929160286824,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.69,
+            "commentatorTierSimilarities": [
+                40.25,
+                0.0,
+                59.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus called together the twelve and gave them power and authority over all kinds of devils, enabling them to cast them out and cure diseases. This mission troubled Herod, prompting his desire to see Jesus. The accounts in Mark and Matthew provide additional details about the calling together of the twelve.",
+            "wordCount": 51,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.6174236091302943,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "commentatorTierSimilarities": [
+                51.33,
+                0.0,
+                48.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus called together the twelve and gave them power and authority over all kinds of devils, enabling them to cast them out and cure diseases. This mission troubled Herod, prompting his desire to see Jesus. The accounts in Mark and Matthew provide further details about the calling together of the twelve.",
+            "wordCount": 51,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6207153467191615,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                51.39,
+                0.0,
+                48.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus called the twelve together, equipping and authorizing them with power and authority over various kinds of devils. This enabled them to cast out and cure illnesses. Herod became troubled upon hearing about the works of Christ and expressed a desire to see Him. The accounts in Mark and Matthew offer additional details about the gathering of the twelve disciples.",
+            "wordCount": 60,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.4738797258262832,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.35,
+            "commentatorTierSimilarities": [
+                43.71,
+                0.0,
+                56.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus called the twelve together, giving them power and authority over all kinds of devils, enabling them to cast them out and cure diseases. This mission troubled Herod, prompting his desire to see Jesus. The accounts in Mark and Matthew provide further details about the calling together of the twelve.",
+            "wordCount": 50,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6267185567763556,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.43,
+            "commentatorTierSimilarities": [
+                51.49,
+                0.0,
+                48.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

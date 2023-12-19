@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:24:49",
+    "verseRef": "Acts 1:17",
+    "bestBHT": {
+        "bht": "Judas' portion in the ministry was obtained by divine appointment, chosen through the casting of lots by the Master. Despite his esteemed role, his heinous betrayal of Jesus serves as a stark reminder to believers about the potential for treachery even among those entrusted with great responsibility. This cautionary tale emphasizes the need for vigilance and discernment within the community of believers, as well as the inherent providential nature of God's plan, utilizing even the darkest events to fulfill His purposes.",
+        "wordCount": 82,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.6485678448582641,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+        "commentatorTierSimilarities": [
+            27.18,
+            39.69,
+            33.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because gives the reason of the previous assertion, viz. that Judas held, and had betrayed, that place of high trust of which the prophecy spoke.\" ",
+            "His habitation,\" and \"his bishoprick,\" which occur in the prophecy.\" ",
+            "Had obtained the lot] not literally, but inasmuch as the lot of every man is regarded as being cast and appointed by God."
+        ],
+        "Albert Barnes": [
+            "If it be asked why he chose such a man to be an apostle; why he was made the treasurer of the apostles, and was admitted to the fullest confidence; we may reply, that a most important object was gained in having such a man - a spy - among them.",
+            "If Judas knew anything unfavorable to the character of Jesus, he would have communicated it to the Sanhedrin.",
+            "But that could not be procured, even by gold; and they wore compelled to suborn other men to testify against the Son of God."
+        ],
+        "Marvin Vincent": [
+            "Numbered [\u03ba\u03b1\u03c4\u03b7\u03c1\u03b9\u03b8\u03bc\u03b7\u03bc\u03b5\u03bd\u03bf\u03c2]. Only here in New Testament.",
+            "Received by lot.",
+            "His portion: lit., lot.."
+        ],
+        "John Calvin": [
+            "Surely it was a thing which might make them greatly amazed, that he whom Christ had extolled unto so high dignity should fall headlong into such destruction.\" ",
+            "Which circumstance doth increase the cruelty of the fact, and teacheth the rest to take heed unto themselves.\" ",
+            "But Peter doth here express by name the excellency of his function, that he might make them more attentive and more careful to provide a remedy."
+        ],
+        "Archibald T. Robertson": [
+            "Periphrastic past perfect passive indicative of \u03ba\u03b1\u03c4\u03b1\u03c1\u03b9\u03b8\u03bc\u03b5\u03c9, old verb, but here only in the N.T.\" ",
+            "Received his portion (\u03b5\u03bb\u03b1\u03c7\u03b5\u03bd \u03c4\u03bf\u03bd \u03ba\u03bb\u03b7\u03c1\u03bf\u03bd). Second aorist active indicative of \u03bb\u03b1\u03b3\u03c7\u03b1\u03bd\u03c9, old verb, to obtain by lot as in Luke 1:9; John 19:24, especially by divine appointment as here and 2 Peter 2:1.",
+            "So Peter says that Judas 'obtained by lot the lot of this ministry' (\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03b9\u03b1\u03c2) which he had when he betrayed Jesus. The Master chose him and gave him his opportunity."
+        ],
+        "John Gill": [
+            "For he was numbered with us,.... He was chosen an apostle with: the rest, and was ordained into that office when they were, and was always reckoned one of the twelve, and stands in the catalogue when they are mentioned...",
+            "And had obtained part of this ministry; by lot, as the word signifies; the providence of God so ordering it, according to his eternal purpose and decree, that he was not only called an apostle, and enrolled among them, but he really had a part in that ministry...",
+            "He preached, and baptized, and wrought miracles; and besides all this, carried the bag, was the treasurer, and a sort of a steward in Christ's family, and provided for it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas, though he had obtained his portion in the ministry through divine appointment, ultimately fell into destruction by betraying Jesus. The fact that someone so highly esteemed could turn against the very one who chose him for this sacred role is truly astounding. This serves as a warning to the other apostles and believers to be vigilant and careful in their own lives, guarding against any potential treachery or deceit, for even those we may trust can falter. Furthermore, the inclusion of Judas in the group of apostles and his involvement in the ministry highlights the providential plan of God, who orchestrates even the darkest events for His ultimate purpose.",
+            "wordCount": 110,
+            "quoteTokenProportion": 44.58,
+            "qualityScore": 1.6612878611034394,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.58,
+            "commentatorTierSimilarities": [
+                23.77,
+                42.61,
+                33.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas, having received his portion in the ministry by divine appointment, surprised the others with his treacherous betrayal of Jesus. This shocking turn of events serves as a cautionary tale, reminding believers to be vigilant and cautious, not only in the face of external threats, but also in regard to those within their own ranks. The inclusion of Judas among the apostles underscores God's sovereign plan, working even through the darkest actions to accomplish His purposes.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5996603121004713,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+            "commentatorTierSimilarities": [
+                28.05,
+                39.57,
+                32.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas received his portion in the ministry by divine appointment, having obtained it through the casting of lots as chosen by the Master. However, his ultimate betrayal of Jesus serves as a poignant reminder of the potential for treachery even among those who hold positions of trust. This alarming development should serve as a wake-up call, urging believers to be ever watchful and cautious, safeguarding against any potential deceit or wrongdoing. The inclusion of Judas in the group of apostles highlights God's providential plan, wherein even the darkest events are utilized for His greater purposes.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.5095322367163955,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.53,
+            "commentatorTierSimilarities": [
+                26.82,
+                40.82,
+                32.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas' portion in the ministry was obtained by divine appointment, chosen through the casting of lots by the Master. Despite his esteemed role, his heinous betrayal of Jesus serves as a stark reminder to believers about the potential for treachery even among those entrusted with great responsibility. This cautionary tale emphasizes the need for vigilance and discernment within the community of believers, as well as the inherent providential nature of God's plan, utilizing even the darkest events to fulfill His purposes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.6485678448582641,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                27.18,
+                39.69,
+                33.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas, having received his portion in the ministry through divine appointment via the casting of lots, shocked others with his ultimate betrayal of Jesus. This serves as a stark reminder that even those entrusted with significant responsibility can falter. It highlights the importance of vigilance and caution within the community of believers, guarding against treachery. The inclusion of Judas among the apostles reveals God's providential plan, using even the darkest events to fulfill His purposes.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.5020405359456679,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.29,
+            "commentatorTierSimilarities": [
+                27.52,
+                39.74,
+                32.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

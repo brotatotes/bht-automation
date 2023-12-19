@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:21:54",
+    "verseRef": "Luke 19:39",
+    "bestBHT": {
+        "bht": "These Pharisees, who were perhaps half-hearted followers of the crowd, were offended by the prophetic expressions used and the lofty epithets applied to Jesus, whom they saw as merely a teacher and not the Messiah. They insinuated blasphemy in the disciples' declarations and considered it vanity on Jesus' part to allow such praise. Fearing sedition and tumult, they believed Jesus should have rebuked his disciples for paying him such excessive honor.",
+        "wordCount": 72,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.2727071854965057,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.91,
+        "commentatorTierSimilarities": [
+            54.44,
+            0.0,
+            45.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These Pharisees could hardly in any sense be disciples of Jesus.",
+            "Their spirit was just that of modern Socinianism: the prophetic expressions used, and the lofty epithets applied to Him, who was merely in their view a teacher...",
+            "...offended them."
+        ],
+        "Archibald T. Robertson": [
+            "Luke seems to imply by 'from the multitude' that these Pharisees were in the procession, perhaps half-hearted followers of the mob.",
+            "John 12:19 speaks of Pharisees who stood off from the procession and blamed each other for their failure and the triumph of Jesus.",
+            "These may represent the bolder spirits of their same group who dared to demand of Jesus that he rebuke his disciples."
+        ],
+        "John Gill": [
+            "Not being able to bear such high encomiums of Jesus, and such open and public declarations of his being the Messiah.",
+            "Would insinuate, that it was blasphemy in them to say what they did, and pride and vanity in him to allow of it.",
+            "And that the consequence might be sedition, and tumult; and therefore it became him to check such a disorderly, noisy, evil, and dangerous practice."
+        ],
+        "John Wesley": [
+            "Rebuke thy disciples \u2014 Paying thee this immoderate honour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These Pharisees, who were half-hearted followers of the crowd, took offense at the prophetic expressions and lofty epithets applied to Jesus. Their spirit was akin to modern Socinianism, seeing Jesus as merely a teacher and rejecting the idea that he was the Messiah. Unable to bear such high praise being heaped upon Jesus, they insinuated blasphemy and vanity. They feared that allowing such declarations to go unchecked would lead to sedition and tumult. In their eyes, Jesus should have rebuked his disciples for paying him this immoderate honor.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8901011318510783,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
+            "commentatorTierSimilarities": [
+                52.98,
+                0.0,
+                47.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These Pharisees, who were perhaps half-hearted followers of the crowd, were offended by the prophetic expressions and lofty epithets applied to Jesus. Their spirit resembled modern Socinianism, viewing Jesus merely as a teacher, rejecting the idea of him being the Messiah. They insinuated blasphemy in the disciples' declarations and saw it as vanity in Jesus to allow such praise. Fearing sedition and tumult, they believed Jesus should have rebuked his disciples for paying him such excessive honor.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.1308394109946183,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.19,
+            "commentatorTierSimilarities": [
+                56.02,
+                0.0,
+                43.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These Pharisees, who were perhaps half-hearted followers of the crowd, were offended by the prophetic expressions used and the lofty epithets applied to Jesus, whom they saw as merely a teacher and not the Messiah. They insinuated blasphemy in the disciples' declarations and considered it vanity on Jesus' part to allow such praise. Fearing sedition and tumult, they believed Jesus should have rebuked his disciples for paying him such excessive honor.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.2727071854965057,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.91,
+            "commentatorTierSimilarities": [
+                54.44,
+                0.0,
+                45.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse reveals the Pharisees' discontent with the declarations of Jesus' disciples, who honored him as the Messiah with prophetic expressions and lofty epithets. These Pharisees, who were potentially half-hearted followers of the crowd, were offended by such praise, viewing it as blasphemy and vanity. In their eyes, Jesus should have rebuked his disciples to prevent sedition and tumult. Their rejection of Jesus as the Messiah aligns with the spirit of modern Socinianism, reducing him to a mere teacher.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.1224530309137686,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.91,
+            "commentatorTierSimilarities": [
+                56.33,
+                0.0,
+                43.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, who may have been half-hearted followers of the crowd, were offended by the prophetic expressions and lofty epithets used to honor Jesus. Viewing him as just a teacher, they insinuated blasphemy and vanity in the disciples' declarations and believed Jesus should have rebuked them. Their fear of sedition and tumult led them to criticize the disciples' excessive honor, rejecting the idea that Jesus was the Messiah. This aligns with the mindset of modern Socinianism, which diminishes Jesus to a mere teacher.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.0285207306003694,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                56.9,
+                0.0,
+                43.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

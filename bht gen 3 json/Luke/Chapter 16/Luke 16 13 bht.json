@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:20:30",
+    "verseRef": "Luke 16:13",
+    "bestBHT": {
+        "bht": "While put in trust with worldly riches, our true service should be directed towards God rather than material wealth. Some may outwardly appear to serve God while their hearts are devoted to money, while others openly profess to serve money but inwardly serve God. It is impossible to fully serve two masters who are in uncompromising opposition to each other. This principle emphasizes the necessity of wholeheartedly committing to God and rejecting the allure of worldly riches. We are called to be faithful servants of God, avoiding the temptation to divide our loyalty between Him and the world.",
+        "wordCount": 98,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.6174057657443797,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+        "commentatorTierSimilarities": [
+            33.9,
+            19.6,
+            46.5
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We must, while put in trust with the unrighteous mammon, be serving not it, but God.",
+            "The former were, to outward appearance, the servants of God, but inwardly served Mammon.",
+            "The latter, by profession in the service of Mammon, were, by coming to Jesus, showing that they inwardly served God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Can serve\u2014be entirely at the command of; and this is true even where the services are not opposed.",
+            "Hate . . . love\u2014showing that the two here intended are in uncompromising hostility to each other: an awfully searching principle!"
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 6:24."
+        ],
+        "Marvin Vincent": [
+            "Servant [\u03bf\u03b9\u03ba\u03b5\u03c4\u03b7\u03c2] . Properly, household servant. ",
+            "Serve. See on minister, Matthew 20:26. ",
+            "The other. See on Matthew 6:24. ",
+            "Hold to. See on Matthew 6:24."
+        ],
+        "Archibald T. Robertson": [
+            "Servant (\u03bf\u03b9\u03ba\u03b5\u03c4\u03b7\u03c2). Household (\u03bf\u03b9\u03ba\u03bf\u03c2) servant.",
+            "Either Matthew or Luke has put the \u03bb\u03bf\u03b3\u03b9\u03bf\u03bd in the wrong place or Jesus spoke it twice.",
+            "There is no real reason for objecting to repetition of favourite sayings by Jesus."
+        ],
+        "John Gill": [
+            "No servant can serve two masters,....",
+            " :-."
+        ],
+        "John Wesley": [
+            "And you cannot be faithful to God, if you trim between God and the world, if you do not serve him alone. Matthew 6:24."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "While entrusted with worldly wealth, our ultimate loyalty should be to God rather than material possessions. There are those who outwardly appear to serve God but inwardly serve money, while there are others who openly profess to serve money but inwardly serve God. It is impossible to fully devote oneself to two opposing masters, as they are in constant conflict with one another. This principle is a profound revelation, highlighting the need for an unwavering commitment to God and a rejection of the lure of worldly riches. We are called to be faithful servants of God, setting aside any inclination to divide our allegiance between Him and the world.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.565191766311092,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.39,
+            "commentatorTierSimilarities": [
+                34.04,
+                18.51,
+                47.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Luke 16:13, we are reminded that although we may be entrusted with worldly wealth, our loyalty should be to God and not material possessions. While some may outwardly serve God but inwardly serve money, others openly claim to serve money but truly serve God. This highlights the impossibility of fully devoting oneself to two opposing masters, as they are in constant conflict. It is crucial that we remain faithful to God and reject the temptation to divide our allegiance between Him and the world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.5379539726861653,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.48,
+            "commentatorTierSimilarities": [
+                32.97,
+                19.81,
+                47.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We must not serve worldly riches, but devote ourselves to God. Some may seem to serve God but inwardly prioritize money, while others openly serve money but truly serve God. The principle that we cannot fully serve two conflicting masters is a profound one. It calls for an unwavering commitment to God and a rejection of worldly wealth. We are urged to be faithful servants, setting aside divided loyalty between God and the world.",
+            "wordCount": 74,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.603580974301721,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.66,
+            "commentatorTierSimilarities": [
+                35.33,
+                13.45,
+                51.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While entrusted with worldly wealth, our ultimate loyalty should be to God rather than material possessions. There are those who outwardly appear to serve God but inwardly serve money. It is impossible to fully devote oneself to two opposing masters, as they are in constant conflict. This principle is a profound revelation, highlighting the need for an unwavering commitment to God and a rejection of the lure of worldly riches. We are called to be faithful servants of God, setting aside any inclination to divide our allegiance between Him and the world.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5551905350436916,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+            "commentatorTierSimilarities": [
+                34.26,
+                18.0,
+                47.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While put in trust with worldly riches, our true service should be directed towards God rather than material wealth. Some may outwardly appear to serve God while their hearts are devoted to money, while others openly profess to serve money but inwardly serve God. It is impossible to fully serve two masters who are in uncompromising opposition to each other. This principle emphasizes the necessity of wholeheartedly committing to God and rejecting the allure of worldly riches. We are called to be faithful servants of God, avoiding the temptation to divide our loyalty between Him and the world.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.6174057657443797,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "commentatorTierSimilarities": [
+                33.9,
+                19.6,
+                46.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

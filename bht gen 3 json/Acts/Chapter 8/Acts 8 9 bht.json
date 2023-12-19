@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:28:08",
+    "verseRef": "Acts 8:9",
+    "bestBHT": {
+        "bht": "Simon Magus, a Samaritan from Gitton, was an impostor who practiced sorcery and used his magical arts to deceive and amaze the people. He claimed to be a great power of God, but in reality, he was a fraud exploiting the gullibility of the people. Simon's existence posed a challenge to early Christianity, as he sought to acquire the powers of the believers and spread his superstition. His deceptive influence over the minds of the people made it difficult to uproot the deeply entrenched error he perpetuated.",
+        "wordCount": 88,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.9592380105015241,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+        "commentatorTierSimilarities": [
+            28.35,
+            37.39,
+            34.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Simon is stated by Justin Martyr, himself a Samaritan, to have been 'a Samaritan, from a village called Gitton.' But it has struck me that either Justin, or perhaps more probably Josephus, may have confounded Ghittim with Chittim, i.e. Citium in Cyprus.",
+            "The history of Simon is full of legend and fable. He is said to have studied at Alexandria, and to have originally been, with the heresiarch Dositheus, a disciple of John the Baptist.",
+            "The fathers generally regard him as the founder of Gnosticism: this may be in some sense true: but, from the very little authentic information we possess, it is impossible to ascertain how far he was identified with their tenets."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9-13. used sorcery\u2014magical",
+            "\tarts. ",
+            "\t",
+            "some great one . . . the",
+            "\tgreat power of God\u2014a sort of incarnation of divinity."
+        ],
+        "Albert Barnes": [
+            "Simon Magus was probably a 'Jew' or a 'Samaritan,' who had addicted himself to the arts of magic, and who was much celebrated for it.",
+            "He rejected the Law of Moses.",
+            "It was expressly forbidden the Jews to consult such persons on pain of death."
+        ],
+        "Marvin Vincent": [
+            "Used sorcery [\u03bc\u03b1\u03b3\u03b5\u03c5\u03c9\u03bd]. Only here in New Testament.",
+            "One of the wizards so numerous throughout the East at that time, and multiplied by the general expectation of a great deliverer and the spread of the Messianic notions of the Jews, who practiced upon the credulity of the people by conjuring and juggling and soothsaying.",
+            "Bewitched [\u03b5\u03be\u03b9\u03c3\u03c4\u03c9\u03bd]. Better as Rev., amazed."
+        ],
+        "John Calvin": [
+            "The minds of them all were bewitched with Simon\u2019s jugglings.",
+            "Experience teacheth what a hard matter it is to pluck that error out of the minds of men which hath taken root through long continuance.",
+            "Superstition made them more obstinate in their error, because they counted Simon not only as a prophet of God, but even as the Spirit of God."
+        ],
+        "Philip Schaff": [
+            "An advanced knowledge of natural philosophy, especially of chemistry, gave these clever unscrupulous characters a strange power and influence over men\u2019s minds, an influence they constantly used to further their own selfish ends.",
+            "Simon seems to have been really impressed with the miracles performed by Philip, and at once perceived that these wonder-works were of a very different order from those which his superior knowledge of natural science enabled him to perform.",
+            "Exasperated by his repulse, and the exposure he had suffered at the hands of these believers in Christ, envious too of their powers and also of the consideration which they enjoyed with so many of the people, he endeavoured, by assuming the titles of the Master of Peter and Philip, to win something of the power they possessed, and which he coveted."
+        ],
+        "Archibald T. Robertson": [
+            "In his person Christianity was for the first time confronted with superstition and religious imposture, of which the ancient world was at this period full\" (Furneaux).",
+            "Simon was existing previously practicing magic.\" ",
+            "It is amazing how gullible people are in the presence of a manifest impostor like Simon."
+        ],
+        "John Gill": [
+            "Who, as Justin Martyr says, was a Samaritan, and of a village called Gitton; and so a Jewish writer calls him Simeon, 'the Samaritan', a wizard.",
+            "A man of great wickedness and sophistry plays the hypocrite, feigns himself a believer, and gets in among them.",
+            "He said, 'I am that great one'; that great person, whom Moses spake of as the seed of the \"woman\", under the name of Shiloh, and the character of a prophet."
+        ],
+        "John Wesley": [
+            "A certain man \u2014 using magic - So there was such a thing as witchcraft once! In Asia at least, if not in Europe or America."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Simon Magus, a Samaritan from a village called Gitton, practiced magic and deceived the people with his sorcery. He claimed to be a great power of God, even attempting to imitate the miracles of Peter and Philip. Simon's existence marked the first confrontation between Christianity and religious imposture in the ancient world. He bewitched and amazed the people with his tricks, exploiting their gullibility. Despite being exposed by the believers, Simon was envious of their powers and sought to acquire them for himself. His influence over the minds of the people was rooted in superstition, making it difficult to free them from error. Overall, Simon was a man of great wickedness and sophistry, who pretended to be a believer but was driven by selfish motives.",
+            "wordCount": 126,
+            "quoteTokenProportion": 30.12,
+            "qualityScore": 1.957361794998275,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.42,
+            "commentatorTierSimilarities": [
+                27.75,
+                37.25,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Simon Magus, a Samaritan from Gitton, practiced sorcery and deceit. He claimed to be a manifestation of divinity and used his magical arts to bewitch and amaze the people. Simon's existence marked the first confrontation between Christianity and religious imposture. Despite being exposed by believers, Simon was envious of their powers and sought to acquire them for himself. His influence over the minds of the people was rooted in superstition, making it difficult to free them from error. Simon was a man of wickedness and sophistry, who pretended to be a believer but was driven by selfish motives.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.944096820386323,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+            "commentatorTierSimilarities": [
+                28.64,
+                36.31,
+                35.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Simon Magus, a Samaritan from Gitton, practiced sorcery and deceit, claiming to be a manifestation of divine power. He amazed the people with his magical arts and tricks, exploiting their gullibility. As Christianity encountered religious imposture, Simon's wickedness and sophistry exposed the challenge of eradicating long-rooted error. Envious of the powers of the believers, Simon sought to acquire them for himself. His influence over the minds of the people was fueled by superstition, making it difficult to free them from his deception.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.8822653683869488,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                27.5,
+                38.42,
+                34.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Simon Magus, a Samaritan from Gitton, was an impostor who practiced sorcery and used his magical arts to deceive and amaze the people. He claimed to be a great power of God, but in reality, he was a fraud exploiting the gullibility of the people. Simon's existence posed a challenge to early Christianity, as he sought to acquire the powers of the believers and spread his superstition. His deceptive influence over the minds of the people made it difficult to uproot the deeply entrenched error he perpetuated.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.9592380105015241,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                28.35,
+                37.39,
+                34.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simon Magus, a Samaritan from Gitton, practiced sorcery and deceit, claiming to be a manifestation of divinity. He amazed and deceived the people with his magical arts. This encounter marked the first confrontation between Christianity and religious imposture in the ancient world. Despite being exposed as an impostor by the believers, Simon was envious of their powers and sought to acquire them for himself. His influence over the minds of the people was rooted in superstition, making it challenging to free them from his deception.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8841952543331097,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "commentatorTierSimilarities": [
+                29.15,
+                36.06,
+                34.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

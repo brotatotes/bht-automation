@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:23:04",
+    "verseRef": "Luke 22:54",
+    "bestBHT": {
+        "bht": "Luke, unlike the other Gospel accounts, uniquely mentions the house where Peter followed Jesus at a distance. This specific scene at the high priest's house signifies the fulfillment of Jesus' earlier words, as it reveals that now is the time for his adversaries to act against him. Although this house is distinguished from the high priest's own dwelling, it serves as the backdrop for Peter's denial, as confirmed by the other Gospel writers.",
+        "wordCount": 76,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.530931913496075,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+        "commentatorTierSimilarities": [
+            30.61,
+            39.45,
+            29.94
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Luke 22:54. The high-priest\u2019s home. Undoubtedly Caiaphas is meant, since the other Evangelists agree in making his house the scene of Peter\u2019s denial.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Luke alone mentions 'the house.'",
+            "Imperfect, was following, as Matthew 26:58; John 18:15.",
+            "Curiously Mark 14:54 has the aorist."
+        ],
+        "John Gill": [
+            "This was a confirmation of his last words; for by this it appeared, that now was their time, and power was given to them, as the emissaries of Satan, to act against him.",
+            "But here the high priest did not usually dwell, and it is manifestly distinguished from his own house.",
+            "And Peter followed afar off."
+        ],
+        "John Wesley": [
+            "Matthew 26:57; Mark 14:53; John 18:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Luke alone mentions the house in Luke 22:54, where Peter followed Jesus at a distance. This is confirmed by the other Gospel accounts, which also place Peter's denial at the high priest's house. It is interesting to note that Luke uses the imperfect tense, while Matthew and John use the imperfect and aorist tenses respectively in their accounts. This scene at the high priest's house serves as a confirmation of Jesus' earlier words, as it reveals that now is the time for the adversaries to act against him. Furthermore, it is worth noting that the high priest's house mentioned by Luke is distinct from his own dwelling mentioned in the other accounts.",
+            "wordCount": 115,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.5155791013187043,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "commentatorTierSimilarities": [
+                34.69,
+                35.8,
+                29.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Luke, unlike the other Gospel accounts, uniquely mentions the house where Peter followed Jesus at a distance. This specific scene at the high priest's house signifies the fulfillment of Jesus' earlier words, as it reveals that now is the time for his adversaries to act against him. Although this house is distinguished from the high priest's own dwelling, it serves as the backdrop for Peter's denial, as confirmed by the other Gospel writers.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.530931913496075,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+            "commentatorTierSimilarities": [
+                30.61,
+                39.45,
+                29.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Luke provides a distinctive detail by mentioning the house where Peter followed Jesus. This scene takes place at the high priest's house, which confirms Jesus' previous words and signifies that the adversaries now have the opportunity to act against him. It is important to note that this house is separate from the high priest's own residence, as mentioned in the other Gospel accounts. The fact that Peter followed Jesus at a distance further emphasizes his eventual denial.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.4253413539500137,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.74,
+            "commentatorTierSimilarities": [
+                31.62,
+                37.49,
+                30.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Luke uniquely mentions the house where Peter followed Jesus at a distance, while the other Gospels do not specify the location. This scene takes place at the high priest's house, confirming Jesus' earlier words and showing that now is the time for his adversaries to act against him. It is worth noting that this house is distinct from the high priest's own residence, as mentioned in the other accounts. Peter's decision to follow Jesus from afar highlights his eventual denial.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.4028780387715571,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+            "commentatorTierSimilarities": [
+                31.61,
+                38.58,
+                29.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Luke includes a unique detail by mentioning the house where Peter followed Jesus. This scene takes place at the high priest's house, confirming Jesus' earlier words and revealing that now is the time for his adversaries to act against him. Notably, this house is separate from the high priest's own residence mentioned in other accounts. Peter's choice to follow Jesus from a distance emphasizes his eventual denial.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.402293694335728,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.97,
+            "commentatorTierSimilarities": [
+                32.81,
+                38.02,
+                29.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

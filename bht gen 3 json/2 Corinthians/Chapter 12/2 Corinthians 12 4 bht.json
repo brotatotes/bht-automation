@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:18:36",
+    "verseRef": "2 Corinthians 12:4",
+    "bestBHT": {
+        "bht": "The speaker had a heavenly experience where he heard unspeakable words that he couldn't disclose. These celestial words were highly sublime, surpassing mortal language's capacity. It reminds us that God doesn't reveal all heavenly truths, but imparts enough to support our faith and comfort us. We must not be consumed by curiosity, but focus on what God has graciously revealed.",
+        "wordCount": 63,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 1.8563124852692334,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+        "commentatorTierSimilarities": [
+            29.33,
+            37.94,
+            32.73
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The paradise here spoken of cannot be the Jewish Paradise... but the Paradise of which our Lord spoke on the Cross...\" ",
+            "imparted by God, but not to he divulged to others: and therefore, in this case, intended, we may presume, for the Apostle\u2019s own consolation and encouragement.",
+            "They must have been, of great sublimity: for not all celestial words are ineffable, e.g., Exod. xxxiv. 6, Isa. vi. 3, which nevertheless were highly sublime."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "unspeakable\u2014not in themselves, otherwise Paul could not have heard them; but as the explanation states, 'which it is not lawful . . . to utter'.\" ",
+            "Some heavenly words are communicable (Exodus 34:6; Isaiah 6:3). These were not so.",
+            "A man may hear and know more than he can speak."
+        ],
+        "Albert Barnes": [
+            "The word 'paradise'...denotes in general a garden of pleasure; and in the New Testament is applied to the abodes of the blessed after death, the dwelling-place of God and of happy spirits; or to heaven as a place of blessedness.",
+            "Paul meant to say that he could not attempt by words to do justice to what he saw and heard...there were truths imparted to his mind which he could not hope to convey in any language spoken by people.",
+            "There are great truths which it is not the design of God to reveal to human beings. The object is to communicate enough to win us, to comfort us, to support our faith, not to reveal all. In eternity there must be boundless truths and glories which are not needful for us to know now, and which, on many accounts, it would not be proper to be revealed to man."
+        ],
+        "Marvin Vincent": [
+            "Paradise. See on Luke 23:43. ",
+            "Unspeakable words [\u03b1\u03c1\u03c1\u03b7\u03c4\u03b1 \u03c1\u03b7\u03bc\u03b1\u03c4\u03b1] . An oxymoron, speaking which may not be spoken."
+        ],
+        "John Calvin": [
+            "As every region that is peculiarly agreeable and delightful is called in the Scriptures the garden of God, it came from this to be customary among the Greeks to employ the term paradise to denote the heavenly glory.",
+            "From this, too, we may gather a most useful admonition as to setting bounds to knowledge. We are naturally prone to curiosity. Hence, neglecting altogether, or tasting but slightly, and carelessly, doctrine that tends to edification, we are hurried on to frivolous questions.",
+            "It becomes us so much the more to keep within bounds, so as not to seek to know any thing, but what the Lord has seen it good to reveal to his Church. Let this be the limit of our knowledge."
+        ],
+        "Archibald T. Robertson": [
+            "Paul apparently uses paradise as the equivalent of the third heaven.",
+            "Some Jews (Book of the Secrets of Enoch, chapter viii) make Paradise in the third heaven.",
+            "Paul does not give these words."
+        ],
+        "John Gill": [
+            "It was usual with the Jews to call heaven \u05d2\u05df \u05e2\u05d3\u05df, 'the garden of Eden', or paradise.",
+            "These [unspeakable words] were such as before had never been spoken to any mortal man, and so could never have been spoken by any.",
+            "What the apostle heard was ineffable, and not to be spoken by himself."
+        ],
+        "John Wesley": [
+            "He was caught up into paradise \u2014 The seat of happy spirits in their separate state, between death and the resurrection.",
+            "Things which it is not possible for man to utter \u2014 Human language being incapable of expressing them.",
+            "But this rapture did not precede, but follow after, his being caught up to the third heaven: a strong intimation that he must first discharge his mission, and then enter into glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse alludes to a heavenly experience where the speaker heard unspeakable words that he was not allowed to disclose. The paradise mentioned is not the Jewish paradise, but rather the paradise referred to by Jesus on the Cross. These words were of great sublimity and surpass the capacity of mortal language. It is a reminder that there are heavenly truths and glories that God chooses not to fully reveal to us; instead, He imparts enough to support our faith and comfort us. Our knowledge is limited, and we should not be consumed by curiosity but focus on what God has graciously revealed to us.",
+            "wordCount": 105,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.9440226189814922,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+            "commentatorTierSimilarities": [
+                29.36,
+                38.13,
+                32.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The speaker had a heavenly experience where he heard unspeakable words that he couldn't divulge to others. These celestial words were of great sublimity and surpassed mortal language's capacity. It is a reminder that God chooses not to fully reveal all the heavenly truths and glories to us. Instead, He imparts enough to support our faith and comfort us. We should not be consumed by curiosity but focus on what God has graciously revealed to us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.7850515564257967,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                27.61,
+                39.06,
+                33.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The speaker had a heavenly experience where he heard unspeakable words that he couldn't disclose. These celestial words were highly sublime, surpassing mortal language's capacity. It reminds us that God doesn't reveal all heavenly truths, but imparts enough to support our faith and comfort us. We must not be consumed by curiosity, but focus on what God has graciously revealed.",
+            "wordCount": 63,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.8563124852692334,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+            "commentatorTierSimilarities": [
+                29.33,
+                37.94,
+                32.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The speaker experienced a glimpse of paradise, where he heard unspeakable words. These words, though of great sublimity, were not to be uttered or shared. It is a reminder that there are heavenly truths and glories beyond our comprehension, not meant to be fully revealed. We should resist the temptation of frivolous questions and instead focus on what God has chosen to disclose to His Church. Our knowledge has limits, and it is important to recognize and stay within those bounds.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.668995981572034,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "commentatorTierSimilarities": [
+                30.51,
+                34.25,
+                35.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The speaker encountered a heavenly realm, hearing indescribable words that were not meant to be shared. These words were of great sublimity, surpassing mortal language's capacity. This serves as a reminder that God chooses not to fully reveal all heavenly truths, imparting enough to support our faith, and comfort us. We should curb our curiosity and focus on what God has graciously disclosed. Our knowledge is limited, and it is essential to heed these boundaries to maintain a proper understanding.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.6399143920570145,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.87,
+            "commentatorTierSimilarities": [
+                27.99,
+                38.16,
+                33.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

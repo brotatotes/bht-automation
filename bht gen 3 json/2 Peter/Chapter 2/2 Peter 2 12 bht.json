@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:40:39",
+    "verseRef": "2 Peter 2:12",
+    "bestBHT": {
+        "bht": "But these individuals, as creatures without reason, are born mere animals to be taken and destroyed. They speak evil in matters they are ignorant of, resembling brute beasts. Their corruption leads them to utter perdition and destruction. In contrast to the angels who excel in strength, these individuals are destined for their downfall. Indeed, their actions and behavior reflect their descent into moral corruption, resembling irrational beasts.",
+        "wordCount": 67,
+        "quoteTokenProportion": 36.0,
+        "qualityScore": 2.279494974663187,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.13,
+        "commentatorTierSimilarities": [
+            28.68,
+            33.32,
+            38.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But (contrast to the angels, just mentioned) these, as irrational animals, born naturally for (with a view to) capture and destruction (i. e. not to take and to destroy, but to be taken and destroyed), speaking evil (as they do) in the matter of things which they know not...\" ",
+            "in their corruption (in their practicing, and following out, of this corruption to which they have devoted themselves) shall even perish...",
+            "shall go on till they perish; not only being found in it, living in it, advancing in it, but going on also to its final issue, viz. eternal perdition..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In contrast to angels that 'excel in strength.'",
+            "Born natural, that is, born naturally so: being in their very nature...",
+            "One and the same Greek word expresses corruption, the seed, and destruction, the developed fruit."
+        ],
+        "Albert Barnes": [
+            "These persons, by their fierce and ungovernable passions, appear to be made only for destruction, and rush blindly on to it.",
+            "If a man sinks himself to the level of brutes, he must expect to be treated like brutes.",
+            "Their views will be the means of their ruin; and they render them fit for it, just as much as the fierce passions of the wild animals do."
+        ],
+        "Marvin Vincent": [
+            "But these, as creatures without reason, born mere animals to be taken and destroyed.",
+            "And shall in their destroying surely be destroyed.",
+            "Speak evil, railing."
+        ],
+        "John Calvin": [
+            "He especially compares them to those brute animals, which seem to have come to existence to be ensnared, and to be driven to their own ruin by their own instinct.",
+            "He then says that all excellency was insolently despised by them, because they were become wholly stupefied, so that they differed nothing from beasts.",
+            "But these, as natural unreasoning animals, born for capture and destruction, speaking evil of things which they understand not, shall utterly perish through their own corruption."
+        ],
+        "Philip Schaff": [
+            "But these, as creatures without reason, born mere animals to be taken and destroyed.",
+            "The senseless and malignant reviling indulged in by these men in matters which they are incapable of understanding...shows how like they are to the irrational beasts.",
+            "In the destruction which they bring upon others, they shall yet bring destruction upon themselves."
+        ],
+        "Archibald T. Robertson": [
+            "Brute beasts like wild animals.",
+            "For capture\" and \"for destruction\" just like a beast of prey caught.",
+            "In those things which they are ignorant."
+        ],
+        "John Gill": [
+            "So far are these men from acting like the angels, that they are sunk below their own species, and are like beasts, and become brutish in their knowledge and behaviour...",
+            "...being given up to judicial blindness, and a reprobate mind, call good evil, and evil good, and do things that are not convenient, and which even brute beasts do not...",
+            "...of which they are servants, in their moral corruption, in their filthy and unnatural lusts, which are the cause of their everlasting perdition and destruction, to which they are righteously appointed of God."
+        ],
+        "John Wesley": [
+            "Savage as brute beasts - Several of which in the present disordered state of the world, seem born to be taken and destroyed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These individuals, described as irrational animals, are born with the purpose of being captured and destroyed. They speak evil about things they do not understand, exhibiting their corruption that will ultimately lead to their own demise. In contrast to the angels who excel in strength, they are mere animals, destined for destruction like wild beasts. Their actions and behavior resemble that of brute animals, lacking reason and understanding. Just as these individuals bring destruction upon others, they will bring destruction upon themselves. Their resemblance to irrational beasts highlights their descent into moral corruption and their consequent appointment to eternal perdition and destruction.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.2703283285433296,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.83,
+            "commentatorTierSimilarities": [
+                27.06,
+                35.43,
+                37.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These individuals, born as natural unreasoning animals for capture and destruction, speak evil about things they do not understand. They resemble brute beasts and are destined for their own demise. In contrast to the angels, they lack reason and understanding. Their resemblance to irrational animals highlights their moral corruption and appointment to eternal perdition and destruction.",
+            "wordCount": 56,
+            "quoteTokenProportion": 32.56,
+            "qualityScore": 2.253117134156245,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+            "commentatorTierSimilarities": [
+                28.08,
+                32.88,
+                39.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "But these individuals, as creatures without reason, are born mere animals to be taken and destroyed. They speak evil in matters they are ignorant of, resembling brute beasts. Their corruption leads them to utter perdition and destruction. In contrast to the angels who excel in strength, these individuals are destined for their downfall. Indeed, their actions and behavior reflect their descent into moral corruption, resembling irrational beasts.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.279494974663187,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.13,
+            "commentatorTierSimilarities": [
+                28.68,
+                33.32,
+                38.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals, born as natural unreasoning animals for capture and destruction, speak evil about things they do not understand. They resemble brute beasts and are destined for their own demise. In contrast to the angels, they lack reason and understanding. Their resemblance to irrational animals highlights their moral corruption and appointment to eternal perdition and destruction.",
+            "wordCount": 56,
+            "quoteTokenProportion": 32.56,
+            "qualityScore": 2.253117134156245,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+            "commentatorTierSimilarities": [
+                28.08,
+                32.88,
+                39.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These individuals, described as irrational animals, are born with the purpose of being captured and destroyed. They speak evil about things they do not understand, exhibiting their corruption that will ultimately lead to their own demise. In contrast to the angels who excel in strength, they are mere animals, destined for destruction like wild beasts. Their actions and behavior resemble that of brute animals, lacking reason and understanding. Just as these individuals bring destruction upon others, they will bring destruction upon themselves. Their resemblance to irrational beasts highlights their descent into moral corruption and their consequent appointment to eternal perdition and destruction.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.2703283285433296,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.83,
+            "commentatorTierSimilarities": [
+                27.06,
+                35.43,
+                37.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

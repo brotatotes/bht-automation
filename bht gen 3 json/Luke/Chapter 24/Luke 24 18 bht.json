@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:24:07",
+    "verseRef": "Luke 24:18",
+    "bestBHT": {
+        "bht": "Are you the only one who sojourns as a stranger in Jerusalem and doesn't know what has happened? How could you think they would be talking about anything else? It's astonishing that you alone appear to be ignorant of these well-known facts. Everyone, whether resident or visitor, would have been well acquainted with the significant events surrounding Jesus. It is surprising that you could be oblivious to these things when they were the subject of discussion throughout Jerusalem.",
+        "wordCount": 81,
+        "quoteTokenProportion": 57.81,
+        "qualityScore": 1.924454869262425,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+        "commentatorTierSimilarities": [
+            29.55,
+            33.69,
+            36.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They took Him... for one who had been at Jerusalem at the feast.",
+            "But we must not think of a peculiar dialect as giving that impression.",
+            "Dost thou lodge (sojourn) alone at Jerusalem?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If he knew not the events of the last few days in Jerusalem, he must be a mere sojourner...\" (28 words)",
+            "If he did, how could he suppose they would be talking of anything else?\" (15 words)",
+            "How artless all this!\" (5 words)"
+        ],
+        "Albert Barnes": [
+            "Art thou only a stranger? ... - This is an expression of surprise that he should be unacquainted with an affair that had made so much noise, and that had been attended with so remarkable circumstances.",
+            "The word 'stranger' here denotes one who had come to reside at a place only for a 'time,' not a permanent inhabitant.",
+            "Is everybody so well acquainted with it, and thou hast not heard of it? It is a matter of surprise, and we cannot account for it."
+        ],
+        "Marvin Vincent": [
+            "Are you the only one who sojourns as a stranger in Jerusalem?\" ",
+            "Dost thou alone dwell as a stranger in Jerusalem?",
+            "Thou alone art a pilgrim in Jerusalem."
+        ],
+        "Philip Schaff": [
+            "It is implied not only that even a stranger might be expected to know of these things, but that only one who was ignorant of the whole matter could inquire why they thus talked.\" ",
+            "So absorbing did the events appear to them.",
+            "\u2018Dost thou alone sojourn at Jerusalem and not know,\u2019 etc."
+        ],
+        "Archibald T. Robertson": [
+            "Hast thou been dwelling alone (all by thyself)?\" (\u03c3\u03c5 \u03bc\u03bf\u03bd\u03bf\u03c2 \u03c0\u03b1\u03c1\u03bf\u03b9\u03ba\u03b5\u03b9\u03c2;) ",
+            "And not know?\" (\u03ba\u03b1 \u03bf\u03c5\u03ba \u03b5\u03b3\u03bd\u03c9\u03c2;)",
+            "In Jerusalem everybody was talking about Jesus."
+        ],
+        "John Gill": [
+            "he could not be ignorant of what had been done there a few days past; or if he was, that he must be the only stranger, and the only man, that was so",
+            "the facts referred to were so notorious, that every one must know them, inhabitant or stranger",
+            "he must be the only stranger... that was so"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Are you the only one who has been living as a stranger in Jerusalem and doesn't know what has happened? It is surprising that you could be oblivious to these significant events when everyone in Jerusalem was talking about Jesus. How could you think they would be discussing anything else? It's remarkable that you seem so uninformed. Everyone, whether a resident or a temporary visitor, would have been well acquainted with these notable occurrences. It is astonishing that you alone appear to be ignorant of these well-known facts.",
+            "wordCount": 91,
+            "quoteTokenProportion": 56.72,
+            "qualityScore": 1.8366687010567153,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.41,
+            "commentatorTierSimilarities": [
+                28.23,
+                34.08,
+                37.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Are you the only one who sojourns as a stranger in Jerusalem and doesn't know what has happened? How could you think they would be talking about anything else? It's astonishing that you alone appear to be ignorant of these well-known facts. Everyone, whether resident or visitor, would have been well acquainted with the significant events surrounding Jesus. It is surprising that you could be oblivious to these things when they were the subject of discussion throughout Jerusalem.",
+            "wordCount": 81,
+            "quoteTokenProportion": 57.81,
+            "qualityScore": 1.924454869262425,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                29.55,
+                33.69,
+                36.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Are you the only one who sojourns as a stranger in Jerusalem and doesn't know what has happened? It is surprising that you could be oblivious to these significant events when everyone in Jerusalem was talking about Jesus. How could you think they would be discussing anything else? It's remarkable that you seem so uninformed. Everyone, whether a resident or a temporary visitor, would have been well acquainted with these notable occurrences.",
+            "wordCount": 74,
+            "quoteTokenProportion": 60.0,
+            "qualityScore": 1.8754661548717229,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                29.32,
+                33.7,
+                36.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Are you the only one who doesn't know what happened in Jerusalem? If you've been there recently, surely you must have heard about the events surrounding Jesus. How could you not? Everyone was talking about it. It's surprising that you seem so unaware, especially considering that these events were so widely known. You must be the only stranger in Jerusalem who is not familiar with this. It's astonishing how uninformed you are.",
+            "wordCount": 76,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 1.776176028175899,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.4,
+            "commentatorTierSimilarities": [
+                31.71,
+                33.59,
+                34.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "How artless all this! If he knew not the events of the last few days in Jerusalem, he must be a mere sojourner, a stranger unaware of what had taken place. If he did, how could he suppose they would be talking of anything else? It is a matter of surprise, and we cannot account for it. For in Jerusalem everybody was talking about Jesus, and to be unaware of these events would make him the only stranger, the only one who sojourned in Jerusalem without knowledge.",
+            "wordCount": 87,
+            "quoteTokenProportion": 65.52,
+            "qualityScore": 1.824495850672395,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.01,
+            "commentatorTierSimilarities": [
+                28.8,
+                32.24,
+                38.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:37:02",
+    "verseRef": "Acts 27:13",
+    "bestBHT": {
+        "bht": "With the south wind blowing gently, the crew aboard the ship, confident in their purpose, set sail without a hint of danger. Towing a small boat behind them, they coasted close by Crete, in no fear of being dashed upon the land due to the soft gentle wind. However, little did they know that their expectations would soon be shattered as a sudden change in wind direction brought a violent typhoon upon them, causing chaos and turmoil.",
+        "wordCount": 77,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.2205247135346013,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+        "commentatorTierSimilarities": [
+            29.34,
+            33.45,
+            37.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The wind blew down (from) Crete, 'down the high lands forming the coast.' It is a common expression in lake and coasting navigation, that 'a gust came down the valleys.' And this would be exactly the direction of the wind in question.\" ",
+            "When they had doubled, or perhaps were now doubling, Cape Matala, the wind suddenly changed, and the typhoon came down upon them from the high lands;\u2014at first, as long as they were sheltered, only by fits down the gullies, but as soon as they were in the open bay past the cape, with its full violence.",
+            "The sudden change from a south wind to a violent northerly wind, is a common occurrence in these seas. The term 'typhonic' indicates that it was accompanied by some of the ph\u00e6nomena which might be expected in such a case, viz. the agitation and whirling motion of the clouds caused by the meeting of the opposite currents of air when the change took place, and probably also of the sea, raising it in columns of spray."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "13. when the south wind blew softly,",
+            "\tsupposing they had attained their purpose\u2014With such a wind they",
+            "\thad every prospect of reaching their destination in a few hours."
+        ],
+        "Albert Barnes": [
+            "The wind before had probably been a head-wind, blowing from the west."
+        ],
+        "Marvin Vincent": [
+            "Loosing thence [\u03b1\u03c1\u03b1\u03bd\u03c4\u03b5\u03c2] . Lit., having taken up. It is the nautical phrase for weighing anchor. So Rev."
+        ],
+        "Philip Schaff": [
+            "Supposing that they had attained their purpose. The phrase expresses the utmost confidence.",
+            "A vessel that could sail within seven points of the wind would have no difficulty in rounding Cape Matala.",
+            "In this confidence they were coasting 'close by Crete,' and, as we find afterwards (Acts 27:16), with so little fear that the boat was towing behind."
+        ],
+        "Archibald T. Robertson": [
+            "A south wind having blown gently\" - They were so sure of the wisdom of their decision that they did not even draw up the small boat attached by a rope to the vessel's stern.",
+            "Their purpose, set before them\" - They were so sure of the wisdom of their decision that they did not even draw up the small boat attached by a rope to the vessel's stern.",
+            "They weighed anchor\" - They were so sure of the wisdom of their decision that they did not even draw up the small boat attached by a rope to the vessel's stern."
+        ],
+        "John Gill": [
+            "And when the south wind blew softly... a good wind for them.",
+            "Supposing that they had obtained their purpose... things would succeed according to their wish.",
+            "They came near, or they sailed close by Crete... in no danger of being dashed upon it, it being a soft gentle wind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With the south wind blowing gently, the crew aboard the ship had confidence that they had achieved their objective of reaching their destination. They were so sure of their decision that they did not even bring in the small boat attached to the vessel's stern. As they sailed close by Crete, they believed that they were in no danger and that things would go according to plan. However, little did they know that a sudden change in wind direction was about to occur, bringing a typhoon down upon them with great force.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.190695595608353,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.18,
+            "commentatorTierSimilarities": [
+                32.2,
+                32.78,
+                35.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With the south wind blowing gently, the crew aboard the ship, confident in their purpose, set sail without a hint of danger. Towing a small boat behind them, they coasted close by Crete, in no fear of being dashed upon the land due to the soft gentle wind. However, little did they know that their expectations would soon be shattered as a sudden change in wind direction brought a violent typhoon upon them, causing chaos and turmoil.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.2205247135346013,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+            "commentatorTierSimilarities": [
+                29.34,
+                33.45,
+                37.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crew embarked with a gentle south wind, firmly believing they had achieved their purpose and dismissing any concerns by leaving the small boat attached. They coasted close by Crete, assured of safety due to the mild breeze. However, their confidence was quickly shattered when a sudden change in wind direction brought forth a typhoon, characterized by violent turbulence in the air and sea. The unexpected storm proved that their initial assumptions were misguided, turning their journey into a chaotic struggle.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.9707231557994631,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                28.3,
+                34.61,
+                37.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crew, propelled by a gentle south wind, set sail with unwavering confidence in their purpose and left their attached small boat unattended. Coasting near Crete, they believed they were safe in the embrace of the soft breeze. However, their certainty was shattered by a sudden change in wind direction, unleashing a violent typhoon accompanied by swirling clouds and likely sea spray. The crew found themselves caught in a tumultuous storm that defied their expectations and posed a grave threat to their journey.",
+            "wordCount": 83,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 2.1305587101582395,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                29.27,
+                35.36,
+                35.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crew embarked with a gentle south wind, firmly believing they had achieved their purpose and dismissively leaving the small boat attached. Coasting close by Crete, they assumed safety due to the soft breeze. Nonetheless, their assurances were shattered by a sudden change in wind direction, which brought forth a violent typhoon with swirling clouds and likely sea spray. The crew found themselves caught in an unexpected storm that defied their expectations and posed a grave threat to their journey.",
+            "wordCount": 80,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 2.0637626306274743,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                29.49,
+                34.55,
+                35.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

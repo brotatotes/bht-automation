@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:35:38",
+    "verseRef": "Acts 23:10",
+    "bestBHT": {
+        "bht": "Amidst the dissension between the Pharisees and Sadducees, Paul faced the danger of being torn apart, showing the chaotic nature of the situation. The commandant, absent from the scene, witnessed the quick proceedings where one group sought to seize the prisoner while the other sought to protect him. Divine providence intervened, defeating the conspiracy against Paul and ensuring his safety. As a responsible leader, the commandant dispatched him to Felix in Caesarea, faced with the challenging task of navigating the complex dynamics surrounding Paul's case.",
+        "wordCount": 86,
+        "quoteTokenProportion": 29.03,
+        "qualityScore": 1.6554232492931358,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+        "commentatorTierSimilarities": [
+            38.46,
+            29.29,
+            32.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "should have been pulled in pieces] to be taken literally, not as merely meaning, \u2018should be killed.\u2019",
+            "The Pharisees would strive to lay hold of him to rescue him: the Sadducees, to destroy him, or at all events, to secure him.",
+            "Between them both, there was danger of his being pulled asunder by them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This shows that the commandant was not himself present, and further, that instead of the Sanhedrim trying the cause, the proceedings quickly consisted in the one party attempting to seize the prisoner, and the other to protect him.",
+            "IN THE FORTRESS PAUL IS CHEERED BY A NIGHT VISION\u2014AN INFAMOUS CONSPIRACY TO ASSASSINATE HIM IS PROVIDENTIALLY DEFEATED.",
+            "HE IS DESPATCHED BY NIGHT WITH A LETTER FROM THE COMMANDANT TO FELIX AT C\u00c6SAREA, BY WHOM ARRANGEMENTS ARE MADE FOR A HEARING OF HIS CAUSE."
+        ],
+        "Albert Barnes": [
+            "A great dissension - A great tumult, excitement, or controversy.",
+            "Into the castle - See the notes on Acts 21:34."
+        ],
+        "John Calvin": [
+            "We see again what a cruel mischief contention is, which so soon as it doth once wax hot, hath such violent motions, that even most wise men are not well in their wits.",
+            "Therefore, so soon as any beginning shall show itself, let us study to prevent it in time, lest the remedy be too late in bridling it when it is in the middle, because no fire is so swift as it.",
+            "For though the chief captain defend him so diligently, for no other purpose save only that he may prevent uproars and murder; yet the Lord, who from heaven provided and appointed help for his servant, doth direct his blind hands thither."
+        ],
+        "Philip Schaff": [
+            "The Sadducees endeavouring to seize him as a blasphemer, the Pharisees laying hold on him to rescue and protect him, the apostle was literally in danger of being torn to pieces.",
+            "Claudius Lysias, who was present in the assembly, at once intervened and ordered a guard of his soldiers to interpose and bring the accused again into the Roman barracks in Antonia.",
+            "He felt he was responsible for the safety of one who claimed to be a citizen of Rome."
+        ],
+        "Archibald T. Robertson": [
+            "Literally, 'dissension becoming much.'\" ",
+            "The soldiers were to seize and save Paul from the midst of the rabbis or preachers (in their rage to get at each other).\" ",
+            "Paul was more of a puzzle to Lysias now than ever."
+        ],
+        "John Gill": [
+            "the chief captain fearing lest Paul should be pulled in pieces of them",
+            "the fears of the chief captain were not so much out of affection to Paul, but lest there should be an uproar, which might issue in sedition, and rebellion against the Roman government",
+            "should he suffer him to be destroyed in an illegal manner, he must be accountable for it"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Amidst the fierce dissension between the Pharisees and Sadducees, Paul was at risk of being torn apart by these factions. The commandant, absent from the scene, witnessed a chaotic situation where one group sought to seize the prisoner while the other sought to protect him. The timely intervention of a night vision and a conspiracy exposed and thwarted by divine providence ensured his safety. Recognizing his responsibility for Paul's well-being, the commandant dispatched him to Felix in Caesarea for a fair hearing. Yet, this complex and perilous situation left the commandant perplexed, requiring him to navigate the intricate web of contention surrounding Paul's case.",
+            "wordCount": 107,
+            "quoteTokenProportion": 31.08,
+            "qualityScore": 1.5088023824439347,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.51,
+            "commentatorTierSimilarities": [
+                40.16,
+                28.58,
+                31.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amidst the dissension between the Pharisees and Sadducees, Paul faced the danger of being torn apart, showing the chaotic nature of the situation. The commandant, absent from the scene, witnessed the quick proceedings where one group sought to seize the prisoner while the other sought to protect him. Divine providence intervened, defeating the conspiracy against Paul and ensuring his safety. As a responsible leader, the commandant dispatched him to Felix in Caesarea, faced with the challenging task of navigating the complex dynamics surrounding Paul's case.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.6554232492931358,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+            "commentatorTierSimilarities": [
+                38.46,
+                29.29,
+                32.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the fierce dissension between the Pharisees and Sadducees, Paul found himself at risk of being torn apart by these warring factions. The absence of the commandant and the quick proceedings revealed a chaotic situation where one group sought to seize Paul while the other fought to protect him. But through divine intervention, a night vision and an infamous conspiracy were providentially defeated, ensuring Paul's safety. Recognizing his responsibility, the commandant sent Paul to Caesarea for his case to be heard, leaving him perplexed by the intricate circumstances surrounding Paul's situation.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.6044527602767755,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.69,
+            "commentatorTierSimilarities": [
+                42.33,
+                25.81,
+                31.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the dissension of the Pharisees and Sadducees, Paul was in danger of being pulled apart by these rival factions. The absence of the commandant allowed the chaotic proceedings to unfold, with one group attempting to seize Paul and the other striving to protect him. However, divine intervention in the form of a night vision and the exposure of an assassination plot ensured Paul's safety. In response, the commandant sent Paul to Caesarea for a fair hearing, grappling with the complexity and uncertainties surrounding his case.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.542928962452947,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.64,
+            "commentatorTierSimilarities": [
+                43.75,
+                26.96,
+                29.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of the Pharisees and Sadducees' dissension, Paul faced the imminent threat of being torn apart by these factions. Amidst the absence of the commandant, a chaotic scene unfolded where one party sought to seize the apostle while the other endeavored to protect him. However, divine intervention through a night vision and the foiling of an assassination conspiracy ensured Paul's safety. As a result, the commandant dispatched him to Caesarea for a fair hearing, grappling with the intricate complexities surrounding his case.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.5512844769696765,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.92,
+            "commentatorTierSimilarities": [
+                39.7,
+                30.32,
+                29.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

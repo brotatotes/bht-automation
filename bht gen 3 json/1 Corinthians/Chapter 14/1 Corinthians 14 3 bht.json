@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:12:51",
+    "verseRef": "1 Corinthians 14:3",
+    "bestBHT": {
+        "bht": "He who prophesies speaks to people for their edification, exhortation, and consolation. Prophecy is profitable to all and serves to build them up in Christ, strengthening their faith and encouraging the more fervent discharge of their duties. This gift enables one to communicate with others in a language they understand, providing comfort to distressed minds and addressing their inward corruptions, outward afflictions, and temptations. Neglecting prophecy, which imparts invaluable doctrine and trains us in piety and holiness, would be a great folly indeed.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.7233257512385625,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+        "commentatorTierSimilarities": [
+            23.86,
+            33.48,
+            42.67
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] But (on the other hand) he who prophesieth speaketh to men edification (genus), and (species) exhortation, and (species) consolation. See the definition of prophecy given on ch. xii. 10."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. But\u2014on the other hand. ",
+            "\t",
+            "edification\u2014of which",
+            "\tthe two principal species given are \"exhortation\" to remove",
+            "\tsluggishness, \"comfort\" or consolation to",
+            "\tremove sadness [BENGEL].",
+            "\tOmit \"to."
+        ],
+        "Albert Barnes": [
+            "He that speaks under the influence of inspiration in the common language of his hearers.",
+            "Speaks so as to enlighten and strengthen the church.",
+            "He presents the promises and the 'hopes' of the gospel; the various considerations adapted to administer comfort in the time of trial."
+        ],
+        "Marvin Vincent": [
+            "For edification see on build up, Acts 20:32.",
+            "Exhortation, so American Rev. Rev., comfort. See on Luke 6:24.",
+            "Paramuqia comfort, Rev., consolation, occurs only here in the New Testament."
+        ],
+        "John Calvin": [
+            "Prophecy is profitable to all, while a foreign language is a treasure hid in the earth. What great folly, then, it is to spend all one\u2019s time in what is useless, and, on the other hand, to neglect what appears to be most useful!\" ",
+            "To speak to edification, is to speak what contains doctrine fitted to edify...doctrine, by which we are trained to piety, to faith, to the worship and fear of God, and the duties of holiness and righteousness.\" ",
+            "Prophecy does not mean the gift of foretelling future events."
+        ],
+        "Archibald T. Robertson": [
+            "Edification (\u03bf\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03b7\u03bd). Building up.",
+            "Comfort (\u03c0\u03b1\u03c1\u03b1\u03ba\u03bb\u03b7\u03c3\u03b9\u03bd). Encouragement, calling to one's side.",
+            "Consolation (\u03c0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b9\u03b1\u03bd). Old word (from \u03c0\u03b1\u03c1\u03b1, \u03bc\u03c5\u03b8\u03bf\u03c3, \u03c0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b5\u03bf\u03bc\u03b1 1 Thessalonians 2:12 which see, a stimulating word), nowhere else in N.T., but \u03c0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b9\u03bf\u03bd in Philippians 2:1 with \u03c0\u03b1\u03c1\u03b1\u03ba\u03bb\u03b7\u03c3\u03b9\u03c2 as here. Edification, cheer, incentive in these words."
+        ],
+        "John Gill": [
+            "speaketh unto men to edification; to the building of them up in Christ\" ",
+            "exhortation; to the more vigorous exercise of grace, and the more cheerful and fervent discharge of duty",
+            "and comfort; of distressed minds, either through the temptations of Satan, or divine desertions, or inward corruptions, or outward afflictions"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He who prophesies speaks to people for their edification, exhortation, and consolation. Prophecy is a gift that enables one to communicate with others in a language they understand, presenting the promises and hopes of the gospel while providing comfort in times of trial. It is profitable to all and serves to build up the church by imparting doctrine that trains us in piety, faith, and the worship of God. How foolish it would be to neglect this invaluable tool and instead focus on what is useless!",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.5885881661452728,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.16,
+            "commentatorTierSimilarities": [
+                22.75,
+                37.48,
+                39.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He who prophesies speaks to people for their edification, exhortation, and consolation. Prophecy is profitable to all and serves to build them up in Christ, strengthening their faith and encouraging the more fervent discharge of their duties. This gift enables one to communicate with others in a language they understand, providing comfort to distressed minds and addressing their inward corruptions, outward afflictions, and temptations. Neglecting prophecy, which imparts invaluable doctrine and trains us in piety and holiness, would be a great folly indeed.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.7233257512385625,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                23.86,
+                33.48,
+                42.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He who prophesies speaks for the edification, exhortation, and consolation of others. Prophecy is profitable to all and serves to build them up in Christ. It enables one to communicate in a language that is understood by the hearers, offering comfort to distressed minds and addressing their afflictions and temptations. Neglecting such a valuable gift and focusing on what is useless would be a great folly. Let us embrace prophecy, for it imparts doctrine that trains us in piety and holiness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6127191408242996,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.97,
+            "commentatorTierSimilarities": [
+                25.24,
+                33.11,
+                41.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The one who prophesies speaks to edify, exhort, and console others. Prophecy is profitable and builds up believers in Christ. It allows for effective communication in a language that is understood, providing comfort to troubled minds and addressing their challenges. Neglecting this valuable gift would be foolish and unwise. Let us not overlook the significance and usefulness of prophecy, for it imparts essential doctrine and trains us in piety, faith, and the worship of God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.445157951640097,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.39,
+            "commentatorTierSimilarities": [
+                23.74,
+                33.59,
+                42.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The one who prophesies speaks for the edification, exhortation, and consolation of others. Prophecy is profitable to all and serves to build them up in Christ. By communicating in a language that is understood, it brings comfort to troubled minds and addresses their afflictions and temptations. Neglecting this valuable gift would be a great folly. Let us not overlook the significance and usefulness of prophecy, for it imparts doctrine that trains us in piety, faith, and the worship of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5645597080532485,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.36,
+            "commentatorTierSimilarities": [
+                24.6,
+                31.8,
+                43.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

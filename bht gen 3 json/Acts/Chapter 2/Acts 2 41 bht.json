@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:25:39",
+    "verseRef": "Acts 2:41",
+    "bestBHT": {
+        "bht": "Through Peter's sermon, the simplicity of faith led to a multitude being converted and baptized, forming the early church. The 3,000 added may have included insincere converts and pilgrims. This first baptism was likely done through sprinkling or pouring, not immersion. The emphasis was on the disposition and willingness to obey, rather than dogmas. The power of the gospel to rapidly transform hearts is evident, bringing joy through the forgiveness of sins and the gift of the Holy Spirit.",
+        "wordCount": 79,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.939967699149054,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.85,
+        "commentatorTierSimilarities": [
+            32.91,
+            42.15,
+            24.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The simplicity of faith came first,\u2014the ripeness of knowledge followed.",
+            "Among such a multitude, admitted by a confession which allowed of so wide an interpretation, were probably many persons who brought into the church the seeds of that Judaizing form of Christianity which afterwards proved so hostile to the true faith.",
+            "Almost without doubt, this first baptism must have been administered, as that of the first Gentile converts was, by affusion or sprinkling, not by immersion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The difficulty can only be removed by supposing that they already employed sprinkling, or baptized in houses in large vessels.\" ",
+            "Formal submersion in rivers, or larger quantities of water, probably took place only where the locality conveniently allowed it.",
+            "Fitting inauguration of the new kingdom, as an economy of the Spirit!"
+        ],
+        "Albert Barnes": [
+            "Religion is not compulsion. They who become Christians do it cheerfully; they do it rejoicing in the privilege of becoming reconciled to God through Jesus Christ.",
+            "Their conversion was instantaneous. The demand on them was to yield themselves at once to God.",
+            "This was the first effusion of the Holy Spirit under the preaching of the gospel; and it shows that such scenes are to be expected in the church, and that the gospel is suited to work a rapid and mighty change in the hearts of people."
+        ],
+        "John Calvin": [
+            "Faith must begin with this readiness and willing desire to obey.",
+            "We must neither be slow to obey, nor yet swift to leap back; but we must stick fast, and stand stoutly to that doctrine which we did forthwith embrace.",
+            "Whereas there was a great multitude converted unto Christ with one sermon, an hundred sermons can scarce move a few of us."
+        ],
+        "Philip Schaff": [
+            "This first baptism probably was administered by sprinkling or pouring.",
+            "It is noteworthy that on this occasion \u2018the baptized\u2019 could have received little or no instruction in the faith.",
+            "We may see it was not dogmas (as a preparation for baptism) upon which the apostles laid stress, but the disposition and bent of the mind."
+        ],
+        "Archibald T. Robertson": [
+            "Only those who had already received the word and were converted were baptized.",
+            "Luke means that the 3,000 were added to the 120 already enlisted.",
+            "Furneaux warns us that all the 3,000 may not have been genuine converts and that many of them were pilgrims at the passover who returned home."
+        ],
+        "John Gill": [
+            "what Peter said concerning repentance and baptism, and especially concerning remission of sins, and the gift of the Holy Ghost; and concerning the promise of Christ, and salvation by him, of the pardon of sin, and of the Holy Spirit; which doctrine they received with great joy and gladness, it being suitable to their case; and very 'readily', and 'willingly', as the Syriac and Arabic versions render it",
+            "had there been no more than the twelve apostles, it was but two hundred and fifty men apiece; and there were twelve separate places in the temple, where they might be baptizing at the same time; there were the ten lavers, the molten sea, and the dipping room, so that the work was not so very heavy nor difficult; but besides, there were seventy disciples, who, as they were preachers of the word, were administrators of this ordinance",
+            "they were first baptized, and then added to the church"
+        ],
+        "John Wesley": [
+            "And there were added \u2014 To the hundred and twenty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through Peter's sermon, the simplicity of faith led to a multitude of people being converted, baptized, and added to the church. The 3,000 who responded were likely a mix of sincere converts and pilgrims, whose understanding of the faith may have varied. The baptism itself was likely done through sprinkling or pouring, as immersion may not have been practical for such a large group. In this initial effusion of the Holy Spirit, the focus was not on dogmas or doctrines, but rather on the disposition and willingness to obey. The message of repentance, baptism, remission of sins, and the gift of the Holy Spirit was received with great joy and gladness. We see here the power of the gospel to rapidly transform hearts and the importance of embracing the doctrine of salvation through Christ. Ultimately, the 3,000 who were baptized were added to the existing community of believers, forming a solid foundation for the early church.",
+            "wordCount": 155,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 2.0090039210849877,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+            "commentatorTierSimilarities": [
+                31.97,
+                42.18,
+                25.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through Peter's sermon, the simplicity of faith led to a multitude of people being converted, baptized, and added to the church. The 3,000 admittedly brought into the church diverse interpretations, possibly containing seeds of Judaizing Christianity. The baptism likely involved sprinkling or pouring, not immersion. This first effusion of the Holy Spirit demonstrates the gospel's power to rapidly change hearts and emphasizes the importance of obedience and embracing the doctrine of salvation through Christ. The 3,000 baptized were added to the existing community, forming a solid foundation for the early church.",
+            "wordCount": 91,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.9349872997801694,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "commentatorTierSimilarities": [
+                34.41,
+                40.78,
+                24.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through Peter's sermon, the simplicity of faith led to a multitude of people being converted and baptized, forming the foundation of the early church. The baptism likely involved sprinkling or pouring, not immersion, due to practical reasons. The 3,000 added to the existing community may have included some insincere converts and pilgrims. The emphasis was on the disposition and willingness to obey, rather than dogmas. This rapid transformation showcases the power of the gospel and the joy of receiving the forgiveness of sins and the gift of the Holy Spirit.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.839104765053242,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                33.32,
+                43.0,
+                23.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Peter's sermon, a multitude converted and were baptized, forming the cornerstone of the early church. This initial baptism likely involved sprinkling or pouring, rather than immersion. The 3,000 added to the community may have included insincere converts and pilgrims. The focus was on the disposition and willingness to obey, rather than strict adherence to dogmas. The power of the gospel to rapidly transform hearts is evident, bringing joy through the forgiveness of sins and the gift of the Holy Spirit.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.8163765257766857,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.74,
+            "commentatorTierSimilarities": [
+                32.26,
+                41.98,
+                25.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through Peter's sermon, the simplicity of faith led to a multitude being converted and baptized, forming the early church. The 3,000 added may have included insincere converts and pilgrims. This first baptism was likely done through sprinkling or pouring, not immersion. The emphasis was on the disposition and willingness to obey, rather than dogmas. The power of the gospel to rapidly transform hearts is evident, bringing joy through the forgiveness of sins and the gift of the Holy Spirit.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.939967699149054,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.85,
+            "commentatorTierSimilarities": [
+                32.91,
+                42.15,
+                24.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

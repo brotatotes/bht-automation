@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:11:49",
+    "verseRef": "1 Corinthians 11:16",
+    "bestBHT": {
+        "bht": "Paul reproves the Corinthians for their contentiousness and self-sufficiency, appealing to the universal Christian usage as a valid argument. While Catholic usage is not an infallible test of truth, it does serve as a general test of decency. The testimonies of Tertullian and Chrysostom affirm the prevalence of Paul's injunctions in the churches.",
+        "wordCount": 55,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.803104248230305,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.29,
+        "commentatorTierSimilarities": [
+            39.47,
+            30.19,
+            30.34
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Before what follows, we must supply 'let him know, that.'",
+            "No such custom as that of being contentious.",
+            "He thus cuts off all further disputation on the matter, by appealing to universal Christian usage."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A reproof of the Corinthians' self-sufficiency and disputatiousness.",
+            "The usage of true 'churches of God' is a valid argument in the case of external rites.",
+            "Catholic usage is not an infallible test of truth, but a general test of decency."
+        ],
+        "Albert Barnes": [
+            "If any man, any teacher, or others, 'is disposed' to be strenuous about this, or to make it a matter of difficulty.",
+            "This, therefore, would be a sufficient reason why it should not be done in Corinth, even if the abstract reasoning should not convince them of the impropriety.",
+            "Even, therefore, if the reasoning is not sufficient to silence all cavils and doubts, yet the propriety of uniformity in the habits of the churches, the fear of giving offence should lead you to discountenance and disapprove the custom of your females appearing in public without their veil."
+        ],
+        "Marvin Vincent": [
+            "Not the custom of contentiousness, but that of women speaking unveiled.",
+            "The testimonies of Tertullian and Chrysostom show that these injunctions of Paul prevailed in the churches.",
+            "In the sculptures of the catacombs the women have a close-fitting head-dress, while the men have the hair short."
+        ],
+        "John Calvin": [
+            "A contentious person is one whose humor inclines him to stir up disputes, and does not care what becomes of the truth.",
+            "Such persons Paul does not reckon worthy of being replied to, inasmuch as contention is a pernicious thing, and ought, therefore, to be banished from the Churches.",
+            "Let us therefore carefully mark this passage, that we may not allow ourselves to be carried away with needless disputations, provided at the same time we know how to distinguish contentious persons."
+        ],
+        "Philip Schaff": [
+            "If in the spirit of contradiction a man will not yield to such considerations, let him know at least that he is setting himself against the universal practice, and disturbing the peace of God\u2019s churches.",
+            " ",
+            "To those who, in a narrow spirit, insist on having Divine prescription for the most insignificant details of religious life and public worship, this appeal to 'nature itself,' as a great guide in relation to the decencies of public worship, should read a wholesome lesson.",
+            "Whatever in church organization and public worship is injurious to vital Christianity to spiritual life is to be discountenanced, as sacrificing the end to the means; but within those limits, not a little variety, suggested by national taste or climatic conditions, is surely admissible."
+        ],
+        "Archibald T. Robertson": [
+            "Contentious (\u03c6\u03b9\u03bb\u03bf\u03bd\u03b5\u03b9\u03ba\u03bf\u03c2). Old adjective (\u03c6\u03b9\u03bb\u03bf\u03c3, \u03bd\u03b5\u03b9\u03ba\u03bf\u03c2), fond of strife.",
+            "Custom (\u03c3\u03c5\u03bd\u03b7\u03b8\u03b5\u03b9\u03b1\u03bd). Old word from \u03c3\u03c5\u03bd\u03b7\u03b8\u03b7\u03c2 (\u03c3\u03c5\u03bd, \u03b7\u03b8\u03bf\u03c2), like Latin consuetudo, intercourse, intimacy.",
+            "In the sculptures of the catacombs the women have a close-fitting head-dress, while the men have the hair short."
+        ],
+        "John Gill": [
+            "If anyone will not be satisfied with reasons given... showing that they contend not for truth, but victory, can they but obtain it any way... I shall not think it worth my while to continue the dispute any longer."
+        ],
+        "John Wesley": [
+            "The several churches that were in the apostles' time had different customs in things that were not essential; and that under one and the same apostle, as circumstances, in different places, made it convenient.",
+            "And in all things merely indifferent the custom of each place was of sufficient weight to determine prudent and peaceable men.",
+            "But those who are referred to here by the apostle were contentious, not conscientious, persons."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds the Corinthians to be aware that there is no custom of being contentious. Paul appeals to the universal Christian usage to cut off further disputation and reproves the Corinthians for their self-sufficiency and disputatiousness. The usage of true churches of God is a valid argument, and while Catholic usage is not an infallible test of truth, it is a general test of decency. The testimonies of Tertullian and Chrysostom show that these injunctions of Paul prevailed in the churches.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.885610397141598,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                38.38,
+                30.54,
+                31.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's admonition to the Corinthians points out that there is no custom of being contentious and argues based on the universal Christian usage. He rebukes them for their self-sufficiency and disputatiousness. The usage of true churches of God serves as a valid argument. While Catholic usage is not an infallible test of truth, it is a general test of decency. The presence of these injunctions of Paul in the churches is confirmed by the testimonies of Tertullian and Chrysostom.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.6626182583324929,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+            "commentatorTierSimilarities": [
+                42.94,
+                28.0,
+                29.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's reproof to the Corinthians warns against their contentiousness and self-sufficiency. He appeals to the universal Christian usage as a valid argument in the case of external rites. Although Catholic usage is not an infallible test of truth, it does serve as a general test of decency. Testimonies from Tertullian and Chrysostom affirm the prevalence of Paul's injunctions in the churches.",
+            "wordCount": 64,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.79127613996505,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                41.63,
+                29.55,
+                28.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's reproof to the Corinthians for their contentiousness and self-sufficiency is grounded in the universal Christian usage as a valid argument. He affirms that while Catholic usage is not an infallible test of truth, it serves as a general test of decency. The testimonies of Tertullian and Chrysostom confirm the prevalence of Paul's injunctions in the churches.",
+            "wordCount": 60,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7399845643312863,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                41.53,
+                29.14,
+                29.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul reproves the Corinthians for their contentiousness and self-sufficiency, appealing to the universal Christian usage as a valid argument. While Catholic usage is not an infallible test of truth, it does serve as a general test of decency. The testimonies of Tertullian and Chrysostom affirm the prevalence of Paul's injunctions in the churches.",
+            "wordCount": 55,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.803104248230305,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.29,
+            "commentatorTierSimilarities": [
+                39.47,
+                30.19,
+                30.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

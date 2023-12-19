@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:23:43",
+    "verseRef": "Luke 23:54",
+    "bestBHT": {
+        "bht": "On the day before the Sabbath, the day known as the Preparation, there was a transition from darkness to light as it began to dawn. This time marker indicates that Luke is referring to the twenty-four-hour Jewish day that starts at sunset, rather than the twelve-hour day starting with sunrise. The precise time was likely between five and six in the evening, as this was when the day started to give way to evening. This distinction between the Jewish day and natural day is important in understanding the events that followed.",
+        "wordCount": 94,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.1092325880895917,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.47,
+        "commentatorTierSimilarities": [
+            33.77,
+            36.51,
+            29.72
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "And it was the day of the Preparation, i.e., the day before the Sabbath.",
+            "The word used of the natural day, is applied here to the legal day, which began at sunset.",
+            "The time was probably between five and six in the evening."
+        ],
+        "Archibald T. Robertson": [
+            "The day of the Preparation (\u03b7\u03bc\u03b5\u03c1\u03b1 \u03c0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03b7\u03c2). The technical Jewish phrase for the day before the sabbath...",
+            "Drew on (\u03b5\u03c0\u03b5\u03c6\u03c9\u03c3\u03ba\u03b5\u03bd). Imperfect active, began to dawn or give light...",
+            "Luke is not speaking of the twelve-hour day which began with sunrise, but the twenty-four-hour day which began with sunset."
+        ],
+        "John Gill": [
+            "the lighting of the lamp on the sabbath is not in a man's power...he is obliged to, and every man and woman are bound to have in their houses a lamp lighted up on the sabbath...for this is included in the delight of the sabbath.\" ",
+            "he that lights, ought to light within the day, before the setting of the sun.",
+            "the evangelist might, very agreeably to the way of speaking with the Jews, say, that the sabbath was enlightening, or growing light, though the evening was coming on."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the day before the Sabbath, the day known as the Preparation, there was a transition from darkness to light as it began to dawn. This time marker indicates that Luke is referring to the twenty-four-hour Jewish day that starts at sunset, rather than the twelve-hour day starting with sunrise. The precise time was likely between five and six in the evening, as this was when the day started to give way to evening. This distinction between the Jewish day and natural day is important in understanding the events that followed.",
+            "wordCount": 94,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.1092325880895917,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.47,
+            "commentatorTierSimilarities": [
+                33.77,
+                36.51,
+                29.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the day before the Sabbath, the day of the Preparation, it began to dawn, signifying the transition from darkness to light. Luke specifically uses the Jewish understanding of the day, one that begins at sunset, rather than the natural day starting at sunrise. This distinction is crucial in comprehending the subsequent events. The precise time is estimated to be between five and six in the evening when the day started to give way to evening.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.7364693034566852,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                34.25,
+                35.33,
+                30.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the day before the Sabbath, known as the Preparation, it began to dawn, marking the shift from darkness to light. Luke, utilizing the technical Jewish phrase, distinguishes between the twelve-hour day starting at sunrise and the twenty-four-hour day that commences at sunset. This understanding is crucial in interpreting the subsequent events accurately. The approximate time was between five and six in the evening, as the day transitioned into evening.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.7105405676440517,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.22,
+            "commentatorTierSimilarities": [
+                34.01,
+                35.74,
+                30.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Labelled as the day of the Preparation, it began to dawn as a new day emerged from the darkness. Luke highlights the Jewish custom of reckoning time, where the twenty-four-hour day commenced at sunset rather than sunrise. Understanding this distinction is vital for comprehending the events that unfolded. The timeframe is believed to be around five to six in the evening when the day slowly transitioned into evening.",
+            "wordCount": 70,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.507750521852846,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                36.81,
+                35.36,
+                27.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the day before the Sabbath, known as the Preparation, a new day began to dawn, transitioning from darkness to light. Luke employs the Jewish technical phrase to emphasize the twenty-four-hour day starting at sunset, rather than the twelve-hour day originating from sunrise. This distinction holds significance in understanding the subsequent events. The time in question is estimated to be between five and six in the evening, as the day gradually shifted into evening.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6942326514838797,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.68,
+            "commentatorTierSimilarities": [
+                36.28,
+                33.27,
+                30.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

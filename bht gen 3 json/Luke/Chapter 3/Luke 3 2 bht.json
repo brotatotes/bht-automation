@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:14:37",
+    "verseRef": "Luke 3:2",
+    "bestBHT": {
+        "bht": "Annas, who possibly retained the legitimate high priesthood, had enough influence to appoint his sons as high priests. He could evade Roman appointments by serving as a substitute or deputy high priest. The presence of a deputy high priest, like Caiaphas, was not unusual. John the Baptist, coming forth in this significant era, began his ministry in the wilderness. The word of God came to him, reflecting prophetic inspiration. This sheds light on the complex dynamics within the priesthood and the divine calling of John the Baptist.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.985829332334783,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+        "commentatorTierSimilarities": [
+            36.01,
+            21.96,
+            42.03
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It would appear from this verse... that Annas, as ex-high priest, and possibly retaining in the view of the Jews the legitimate high priesthood, was counted still as having the office.",
+            "He certainly (John xviii. 13) exercised the power\u2014and had influence enough to procure the actual high priesthood for five of his sons, after his own deposition.",
+            "A substitute, or deputy to the high priest (called by the Talmudists Sagan), appears to have been usual\u2014and Annas would thus be able to evade the Roman appointment, and keep the authority."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Both Zadok and Abiathar acted as high priests in David's time, and it seems to have become the fixed practice to have two.\" ",
+            "Such formulas, of course, are never used when speaking of Jesus, because the divine nature manifested itself in Him not at certain isolated moments of His life.",
+            "He was the one everlasting manifestation of the Godhead."
+        ],
+        "Albert Barnes": [
+            "An impostor does not mention names, and times, and places particularly. If he did, it would be easy to ascertain that he was an impostor.",
+            "The sacred writers describe objects and people as if they were perfectly familiar with them. They never appear to be 'guarding' themselves.",
+            "If, therefore, they had been impostors, it would have been easy to detect them. Yet it was never done."
+        ],
+        "Marvin Vincent": [
+            "Came [\u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf] . Lit., arose, or came to pass. John. The Synoptists intrduce him under different titles. Here, the son of Zacharias; Matthew, the Baptist; Mark, the Baptizer."
+        ],
+        "John Calvin": [
+            "Though there was not more than one person who was actually high priest, the sacred office was torn in pieces by ambition and tyranny.",
+            "Hence infer, that there are no regular teachers, but those on whom God has conferred the office; and that it is not enough to have the word of God, if there be not likewise a special calling.",
+            "Indeed, the whole of that tract of the Jordan might be called a wilderness: for the word does not mean 'a solitude,' but 'a rough, and mountainous, and thinly inhabited district.'"
+        ],
+        "Philip Schaff": [
+            "There could be properly but one high-priest, holding office for life; the verse therefore suggests some peculiar state of things.",
+            "The word of God came. The Old Testament formula for prophetic inspiration.",
+            "In the wilderness. See chap. Luke 1:80. The beginning of John\u2019s ministry is referred to."
+        ],
+        "Archibald T. Robertson": [
+            "The great epoch marked by \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf rather than \u03b7\u03bd.",
+            "\u03c1\u03b7\u03bc\u03b1 \u03b8\u03b5\u03bf\u03c5 is some particular utterance of God.",
+            "All three Synoptics locate him 'in the wilderness' (\u03b5\u03bd \u03c4\u03b7 \u03b5\u03c1\u03b7\u03bc\u03c9)."
+        ],
+        "John Gill": [
+            "Annas and Caiaphas being the high priests... there was to be, and was but one high priest at a time...",
+            "It seems most likely therefore, that he was the 'Sagan' of the priests... a ruler and governor over other priests.",
+            "He [John] had lived a solitary life, and had not learnt his doctrine from men, but had his mission, ministry, and baptism, from heaven."
+        ],
+        "John Wesley": [
+            "Annas being high priest, and Caiaphas \u2014 There could be but one high priest, strictly speaking, at once. Annas was the high priest at that time, and Caiaphas his sagan or deputy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse implies that Annas, as the ex-high priest, still held authority and was considered to have the office due to his influence in procuring high priesthood for his sons. This suggests a peculiar state of affairs, as there should only be one high priest. However, the presence of a deputy high priest, like Caiaphas, was not uncommon and allowed individuals like Annas to retain power and evade Roman appointments. John the Baptist, who arose in this significant period, is described as the son of Zacharias, emphasizing his connection to the priestly lineage. His ministry began in the wilderness, highlighting his solitary life and divine calling. The fact that the word of God came to him reflects the formula for prophetic inspiration in the Old Testament. Overall, this verse and its commentaries shed light on the historical and spiritual context of John the Baptist's ministry and the complex dynamics within the priesthood during that time.",
+            "wordCount": 157,
+            "quoteTokenProportion": 29.0,
+            "qualityScore": 2.017913976623203,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                34.36,
+                25.25,
+                40.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Annas, possibly retaining the legitimate high priesthood, had influence enough to procure the high priesthood for his sons. The presence of a deputy high priest, like Caiaphas, was not uncommon, allowing Annas to evade Roman appointments. John the Baptist, son of Zacharias, arose in this significant period, beginning his solitary ministry in the wilderness. The word of God came to him, reflecting the formula for prophetic inspiration. This verse provides insight into the complex dynamics and historical context of John the Baptist's divine calling and the priesthood at that time.",
+            "wordCount": 91,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 2.036537092810513,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.06,
+            "commentatorTierSimilarities": [
+                37.02,
+                25.31,
+                37.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Annas, who possibly retained the legitimate high priesthood, had enough influence to appoint his sons as high priests. He could evade Roman appointments by serving as a substitute or deputy high priest. The presence of a deputy high priest, like Caiaphas, was not unusual. John the Baptist, coming forth in this significant era, began his ministry in the wilderness. The word of God came to him, reflecting prophetic inspiration. This sheds light on the complex dynamics within the priesthood and the divine calling of John the Baptist.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.985829332334783,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "commentatorTierSimilarities": [
+                36.01,
+                21.96,
+                42.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Annas, possibly retaining the legitimate high priesthood, had enough influence to appoint his sons as high priests. He could evade Roman appointments by serving as a substitute or deputy high priest. The presence of a deputy high priest, like Caiaphas, was not unusual. John the Baptist, coming forth in this significant era, began his ministry in the wilderness. The word of God came to him, reflecting prophetic inspiration. This sheds light on the complex dynamics within the priesthood and the divine calling of John the Baptist.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9723191922158239,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+            "commentatorTierSimilarities": [
+                36.08,
+                21.82,
+                42.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Annas, possibly retaining the legitimate high priesthood, had influence enough to procure the high priesthood for his sons. This suggests a peculiar state of affairs, as there should only be one high priest. However, the presence of a deputy high priest, like Caiaphas, allowed Annas to retain power and evade Roman appointments. John the Baptist, the son of Zacharias, began his solitary ministry in the wilderness. The word of God came to him, reflecting prophetic inspiration. Overall, these commentaries shed light on the historical and spiritual context of John the Baptist's ministry.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.9114941542729862,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+            "commentatorTierSimilarities": [
+                35.25,
+                24.66,
+                40.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

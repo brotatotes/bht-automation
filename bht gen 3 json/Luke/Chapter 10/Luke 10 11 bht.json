@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:17:32",
+    "verseRef": "Luke 10:11",
+    "bestBHT": {
+        "bht": "The Kingdom of God had come so close to them that even the dust from the city clung to the ministers of the Gospel. In response to the rejection they faced, the ministers wiped off the dust from their feet as a testimony against them. This act symbolized severing ties and leaving behind the imminent judgment that awaited them, a clear warning that the Kingdom of God had drawn near, despite their refusal to receive it.",
+        "wordCount": 76,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.136784573084221,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.14,
+        "commentatorTierSimilarities": [
+            19.43,
+            0.0,
+            80.57
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "3-12. (See on :-)."
+        ],
+        "Marvin Vincent": [
+            "Dust [\u03ba\u03bf\u03bd\u03b9\u03bf\u03c1\u03c4\u03bf\u03bd] . From koniv, dust, and ornumi, to stir up. Strictly, dust that is raised by walking.",
+            "Cleaveth. See on Matthew 19:5. Frequent in medical language of the uniting of wounds.",
+            "Wipe off [\u03b1\u03c0\u03bf\u03bc\u03b1\u03c3\u03c3\u03bf\u03bc\u03b5\u03b8\u03b1] . See on Luke 5:2. Only here in New Testament."
+        ],
+        "Archibald T. Robertson": [
+            "Shake off even that.",
+            "Hence the orientals took off the sandals on entering a house.",
+            "Fine example of the dative of disadvantage."
+        ],
+        "John Gill": [
+            "Even the very dust of your city, which cleaveth on us, we do wipe against you: for a testimony against them, that they had been with them, and were rejected by them.",
+            "Notwithstanding be ye sure of this; they might assure themselves of this, and which will be an aggravation of their guilt, and increase their punishment another day.",
+            "That the kingdom of God is come nigh unto you; was at their very doors, since the ministers of it, of the Gospel dispensation, the harbingers of the Messiah, who were sent to publish his Gospel, to proclaim him as king, and declare that his kingdom was at hand, had been with them, and they had despised them."
+        ],
+        "John Wesley": [
+            "The kingdom of God is at hand \u2014 Though ye will not receive it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Kingdom of God, represented by the ministers of the Gospel, had come so near to the citizens of the city that even the dust of it clung to them. The ministers, as a testimony against the rejection they faced, wiped off the dust from their feet, a symbol of severing ties and leaving behind the judgment that awaited them. Thus, it was a clear warning that the Kingdom of God had drawn near, and though they refused to receive it, they couldn't escape the consequences of their rejection.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.0747744104955919,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.08,
+            "commentatorTierSimilarities": [
+                14.47,
+                0.0,
+                85.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Kingdom of God had come so close to them that even the dust from the city clung to the ministers of the Gospel. In response to the rejection they faced, the ministers wiped off the dust from their feet as a testimony against them. This act symbolized severing ties and leaving behind the imminent judgment that awaited them, a clear warning that the Kingdom of God had drawn near, despite their refusal to receive it.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.136784573084221,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.14,
+            "commentatorTierSimilarities": [
+                19.43,
+                0.0,
+                80.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Kingdom of God had come near to the city, as evident from the dust that clung to the ministers of the Gospel, symbolizing the close proximity. In response to their rejection, the ministers wiped off the dust from their feet, severing ties and leaving behind a testimony against them. This act served as a clear warning that the Kingdom of God was at hand, despite their refusal to receive it, ensuring that the consequences of their rejection remained unavoidable.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.0941746711210276,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.73,
+            "commentatorTierSimilarities": [
+                18.03,
+                0.0,
+                81.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Kingdom of God had come near to the city, as the dust from it clung to the ministers of the Gospel, symbolizing their close proximity. In response to the rejection they faced, the ministers wiped off the dust from their feet as a testimony against them. This act served as a clear warning that the Kingdom of God was at hand, despite their refusal to receive it, ensuring that the consequences of their rejection remained unavoidable.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.0948270789731316,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.75,
+            "commentatorTierSimilarities": [
+                17.11,
+                0.0,
+                82.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Kingdom of God was so close to the city that even the dust from it clung to the ministers of the Gospel, signifying their nearness. In response to their rejection, the ministers wiped off the dust from their feet as a testimony against them. This act served as a stark warning that the Kingdom of God was at hand, despite their refusal to embrace it, making the consequences of their rejection unavoidable.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.0854000530087466,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.43,
+            "commentatorTierSimilarities": [
+                15.98,
+                0.0,
+                84.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

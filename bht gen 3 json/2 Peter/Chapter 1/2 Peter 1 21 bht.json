@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:40:30",
+    "verseRef": "2 Peter 1:21",
+    "bestBHT": {
+        "bht": "For prophecy was never sent after the will of man, as men spoke from God, being borne by the Holy Spirit. They were passive instruments, borne along in their speech by the divine impulse of the Spirit. Peter emphasizes the divine origin of prophecy, not the interpretation of it, as he warns against those who claim to be prophets without the impulse from God. The holy prophets did not deliver their own inventions but obediently followed the Spirit as their guide.",
+        "wordCount": 81,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 2.2789937699022094,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.12,
+        "commentatorTierSimilarities": [
+            32.28,
+            29.95,
+            37.77
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For prophecy was never (at any time) sent after the will of man.\" ",
+            "Men spoke from God (spoke as with the voice of, as emissaries from, God), being borne (borne along, carried onward, as a ship by the wind) by the Holy Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Was never at any time borne\" (to us).",
+            "Holy,\" if read, will mean because they had the Holy Spirit.",
+            "They were passive, rather than active instruments."
+        ],
+        "Albert Barnes": [
+            "It was not of human origin; not discovered by the human mind.",
+            "They moved in the case only as they were moved; they spake only as the influence of the Holy Ghost was upon them.",
+            "The Bible is given to us to shed light on our way."
+        ],
+        "Marvin Vincent": [
+            "Holy men of God... men spoke from God.",
+            "Render... men spoke from God.",
+            "Being born along... it seems to be a favorite word with Peter."
+        ],
+        "John Calvin": [
+            "The beginning of right knowledge is to give that credit to the holy prophets which is due to God.",
+            "They did not of themselves...deliver their own inventions.",
+            "They...obediently followed the Spirit as their guide, who ruled in their mouth as in his own sanctuary."
+        ],
+        "Philip Schaff": [
+            "For not by man\u2019s will was prophecy borne at any time.",
+            "being borne on by the Holy Ghost, men spake from God.",
+            "they spake because they were so moved."
+        ],
+        "Archibald T. Robertson": [
+            "He is not a self-starter.",
+            "Prophecy is of divine origin, not of one's private origination.",
+            "Peter is not here warning against personal interpretation of prophecy as the Roman Catholics say, but against the folly of upstart prophets with no impulse from God."
+        ],
+        "John Gill": [
+            "The speech of the prophets, when the Holy Spirit clothed them, in all their words was directed by a divine influence, and the prophet could not speak in the choice of his own words.",
+            "Holy men of God...whom he employed as public ministers of his word.",
+            "They (the prophets) were moved by the Holy Ghost; who illuminated their minds, gave them a knowledge of divine things, and a foresight of future ones; dictated to them what they should say or write; and moved upon them strongly, and by a secret and powerful impulse stirred them up to deliver what they did, in the name and fear of God."
+        ],
+        "John Wesley": [
+            "For prophecy came not of old by the will of man \u2014 Of any mere man whatever.",
+            "But the holy men of God \u2014 Devoted to him, and set apart by him for that purpose, spake and wrote.",
+            "Being moved \u2014 Literally, carried. They were purely passive therein."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For prophecy was never sent after the will of man, as men spoke from God, being borne by the Holy Spirit. They were passive instruments, borne along in their speech by the divine impulse of the Spirit. Peter emphasizes the divine origin of prophecy, not the interpretation of it, as he warns against those who claim to be prophets without the impulse from God. The holy prophets did not deliver their own inventions but obediently followed the Spirit as their guide. They were moved by the Holy Ghost, their minds illuminated and their words dictated by divine influence. Prophecy did not come from the will of man, but from the holy men of God who were devoted to Him. They were purely passive in their role as messengers of God's word.",
+            "wordCount": 132,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2767286999619447,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.04,
+            "commentatorTierSimilarities": [
+                30.8,
+                30.97,
+                38.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For prophecy was never sent after the will of man, as men spoke from God, being borne by the Holy Spirit. They were passive instruments, borne along in their speech by the divine impulse of the Spirit. Peter emphasizes the divine origin of prophecy, not the interpretation of it, as he warns against those who claim to be prophets without the impulse from God. The holy prophets did not deliver their own inventions but obediently followed the Spirit as their guide.",
+            "wordCount": 81,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.2789937699022094,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.12,
+            "commentatorTierSimilarities": [
+                32.28,
+                29.95,
+                37.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Prophecy was never a result of human will, but rather men spoke from God, carried along by the Holy Spirit. They were passive instruments, moved by divine influence. Peter's focus is not on personal interpretation of prophecy, but on the folly of self-proclaimed prophets who lack the impulse from God. The holy prophets faithfully followed the guidance of the Spirit, speaking and writing as they were moved. Prophecy does not originate from mere human will, but from the holy men of God who were dedicated to Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2012809291792887,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.53,
+            "commentatorTierSimilarities": [
+                32.73,
+                31.13,
+                36.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For prophecy was never sent after the will of man, as men spoke from God, being borne by the Holy Spirit. They were passive instruments, borne along in their speech by the divine impulse of the Spirit. Peter emphasizes the divine origin of prophecy, not the interpretation of it, as he warns against those who claim to be prophets without the impulse from God. The holy prophets did not deliver their own inventions but obediently followed the Spirit as their guide.",
+            "wordCount": 81,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.2789937699022094,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.12,
+            "commentatorTierSimilarities": [
+                32.28,
+                29.95,
+                37.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophets did not speak on their own accord, but were carried along by the Holy Spirit as they conveyed God's message. Their words were not the result of their own will, but of divine inspiration. Peter emphasizes that prophecy originates from God, not from the personal interpretation of individuals. He warns against those who arrogantly claim to be prophets without the genuine impulse from God. The holy prophets faithfully followed the guidance of the Spirit, speaking and writing under His divine influence.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.126306530145761,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+            "commentatorTierSimilarities": [
+                32.05,
+                29.21,
+                38.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

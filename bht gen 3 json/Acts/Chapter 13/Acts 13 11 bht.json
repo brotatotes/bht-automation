@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:30:38",
+    "verseRef": "Acts 13:11",
+    "bestBHT": {
+        "bht": "The punishment inflicted upon Elymas was a temporary and merciful judgment by the hand of the Lord, designed to lead him to repentance. The gradual deterioration of his sight, from dimness to total darkness, reveals Luke's medical style of description. This rare miracle of punishment serves as an example of God's wrath against those who corrupt or resist the pure doctrine of the gospel. Elymas's temporary blindness confronted him with his own darkness, emphasizing the need to turn towards the light.",
+        "wordCount": 84,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.9972701374719226,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+        "commentatorTierSimilarities": [
+            30.53,
+            35.2,
+            34.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The punishment was only temporary, being accompanied with a gracious purpose to the man himself, to awaken repentance in him.",
+            "In the same precise and gradual manner is the healing of the lame man, ch. iii. 8, described: he stood (first), and walked.",
+            "So here, first a dimness came on him,\u2014then total darkness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The hand of the Lord is upon thee, and thou shalt be blind for a season\u2014the judgment being mercifully designed to lead him to repentance.\" ",
+            "The tradition that it did is hardly to be depended on.",
+            "This is in Luke's medical style."
+        ],
+        "Albert Barnes": [
+            "In all this there was the highest evidence that Paul was under the inspiration of God. He was full of the Holy Spirit; he detected the secret feelings and desires of the heart of Elymas; and he inflicted on him a punishment that could have proceeded from none but God.",
+            "It was, however, in mercy ordained that the blindness should not be permanent and final; and though it was a punishment, it was at the same time benevolent, for nothing would be more likely to lead him to reflection and repentance than such a state of blindness.",
+            "How soon can God bring down the pride of man, and make him as helpless as an infant! How easily can He touch our senses, the organs of our most exquisite pleasures, and wither away all our enjoyments!"
+        ],
+        "Marvin Vincent": [
+            "The first miracle which Paul performed was the infliction of a judgment; and that judgment the same which befell himself when arrested on his way to Damascus.\" ",
+            "Mist [\u03b1\u03c7\u03bb\u03c5\u03c2]. Only here in the New Testament. The word is used by medical writers as a name for a disease of the eyes.",
+            "The mention of the successive stages, first dimness, then total darkness, are characteristic of the physician."
+        ],
+        "John Calvin": [
+            "Behold the hand. The hand is put here to punish... whereby he doth signify that God is the author of this punishment, and that he is only the minister.",
+            "Seeing that the sorcerer essayed to darken the sun, and to take from others the benefit of the light, he was, by good right, cast into horrible darkness.",
+            "This visible punishment which was once laid upon the sorcerer, and such as this, are perpetual examples of God\u2019s wrath against all those who are not afraid either to corrupt and deprave, or openly with slanders to resist the pure doctrine of the gospel."
+        ],
+        "Philip Schaff": [
+            "Miracles of punishment are very rare in the New Testament.",
+            "Elymas was punished for a deliberate using of talents and power to persuade men to be enemies of righteousness, and haters of the pure life loved by the Lord.",
+            "'We are not, however, to suppose that the apostles possessed the power of working miracles at pleasure, but only when they felt a Divine impulse urging them to perform one.'"
+        ],
+        "Archibald T. Robertson": [
+            "The 'hand of the Lord' might be kindly or hostile, but when God's hand touches one's life it may be in judgment as here with Elymas.\" ",
+            "He was an example of the blind leading the blind that was to cease and Sergius Paulus was to be led into the light.\" ",
+            "A mist: Especially a dimness of the eyes, old poetic word and late prose."
+        ],
+        "John Gill": [
+            "And now behold the hand of the Lord is upon thee...",
+            "...and thou shall be blind, not seeing the sun for a season...",
+            "...and immediately there fell on him a mist and darkness..."
+        ],
+        "John Wesley": [
+            "And immediately a mist \u2014 Or dimness within, and darkness without, fell upon him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The punishment inflicted upon Elymas in Acts 13:11 was intended to awaken repentance in him. Gradually, his sight was dimmed and then total darkness enveloped him. This progression mirrors the healing of the lame man in Acts 3:8, where the man first stood and then walked. The blind spell served as a merciful judgment from the hand of the Lord, designed to lead Elymas to repentance. Such miracles of punishment are rare in the New Testament, and they serve as illustrations of God's wrath against those who corrupt or resist the pure doctrine of the gospel. By experiencing temporary blindness, Elymas was confronted with his own darkness and the need to turn towards the light.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.9815800355899134,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
+            "commentatorTierSimilarities": [
+                31.52,
+                35.25,
+                33.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The punishment inflicted upon Elymas was temporary, intended to awaken repentance. It began with a dimness of sight, gradually leading to total darkness. This gradual process reflects Luke's medical style of description. Although the punishment was a judgment, it was ultimately merciful, designed to lead Elymas to repentance. Such miracles of punishment are rare in the New Testament and serve as examples of God's wrath against those who corrupt or resist the pure doctrine of the gospel. Elymas's temporary blindness confronted him with his own darkness, highlighting the need to turn towards the light.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.825545085702907,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.04,
+            "commentatorTierSimilarities": [
+                33.42,
+                34.06,
+                32.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The punishment inflicted upon Elymas was a temporary and merciful judgment by the hand of the Lord, designed to lead him to repentance. The gradual deterioration of his sight, from dimness to total darkness, reveals Luke's medical style of description. This rare miracle of punishment serves as an example of God's wrath against those who corrupt or resist the pure doctrine of the gospel. Elymas's temporary blindness confronted him with his own darkness, emphasizing the need to turn towards the light.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.9972701374719226,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+            "commentatorTierSimilarities": [
+                30.53,
+                35.2,
+                34.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The punishment inflicted upon Elymas served as a temporary, merciful judgment, aiming to lead him towards repentance. The successive stages of dimness and total darkness, described in Luke's medical style, illustrate the gradual progression. This rare miracle of punishment demonstrates God's wrath for those who corrupt or resist the pure gospel. Elymas's temporary blindness compelled him to confront his own darkness and recognize the necessity of seeking the light.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.873108780250933,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+            "commentatorTierSimilarities": [
+                31.91,
+                35.23,
+                32.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The punishment inflicted upon Elymas was intended to awaken repentance in him. Gradually, his sight was dimmed and then total darkness enveloped him. This progression mirrors the healing of the lame man in Acts 3:8, where the man first stood and then walked. The blind spell served as a merciful judgment from the hand of the Lord, designed to lead Elymas to repentance. Such miracles of punishment are rare in the New Testament, and they serve as illustrations of God's wrath against those who corrupt or resist the pure doctrine of the gospel. By experiencing temporary blindness, Elymas was confronted with his own darkness and the need to turn towards the light.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.9755334771440074,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.03,
+            "commentatorTierSimilarities": [
+                31.45,
+                34.81,
+                33.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

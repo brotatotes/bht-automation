@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:25:46",
+    "verseRef": "Acts 4:3",
+    "bestBHT": {
+        "bht": "In the evening, the officials put Peter and John in custody, possibly in one of the chambers of the temple, so that they could not escape until they were brought before the council the next day. This violated the regulation of not holding a trial at night, as seen in the case of Jesus. The decision to hold them in custody until the next day may have been due to the fact that it was the time for the evening prayer or sacrifice, and it was not usual to convene the Sanhedrin at that hour.",
+        "wordCount": 95,
+        "quoteTokenProportion": 49.15,
+        "qualityScore": 1.861915248066679,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+        "commentatorTierSimilarities": [
+            26.73,
+            44.18,
+            29.1
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] it was now eventide, perhaps, from their adjourning the case till the next day, the second evening, beginning with the twelfth hour: see Matt. xiv. 15, and note."
+        ],
+        "Albert Barnes": [
+            "Put them in hold - That is, they took them into 'custody,' or into safe keeping.",
+            "Eventide - Evening. It was not convenient to assemble the council at night.",
+            "This was, moreover, the time for the evening prayer or sacrifice, and it was not usual to assemble the Sanhedrin at that hour."
+        ],
+        "Marvin Vincent": [
+            "In hold [\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c1\u03b7\u03c3\u03b9\u03bd] . A somewhat antiquated rendering. Better, as Rev., in ward. See on 1 Peter 1:4."
+        ],
+        "Philip Schaff": [
+            "When Peter and John went up into the Temple to pray, it was three in the afternoon.",
+            "It was about six o\u2019clock when the captain of the Temple arrested them."
+        ],
+        "Archibald T. Robertson": [
+            "In ward (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c1\u03b7\u03c3\u03b9\u03bd). Probably in one of the chambers of the temple.\" ",
+            "In safe keeping (from \u03c4\u03b7\u03c1\u03b5\u03c9, to guard).\" ",
+            "Now eventide (\u03b5\u03c3\u03c0\u03b5\u03c1\u03b1 \u03b7\u03b4\u03b7). Hence no trial could take place before the next day, a regulation violated in the case of Jesus."
+        ],
+        "John Gill": [
+            "And they laid hands on them... seized them by force, and drew them out of the temple.\" ",
+            "They put them into the hands, and under the care and custody of a set of men... that they might not go away, until they had an opportunity of bringing them before the sanhedrim, to be examined and punished by them.\" ",
+            "It was at the ninth hour, or about three o'clock in the afternoon... so that it must now be evening."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the evening, the officials put Peter and John in custody, possibly in one of the chambers of the temple, so that they could not escape until they were brought before the council the next day. This violated the regulation of not holding a trial at night, as seen in the case of Jesus. The decision to hold them in custody until the next day may have been due to the fact that it was the time for the evening prayer or sacrifice, and it was not usual to convene the Sanhedrin at that hour.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.861915248066679,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                26.73,
+                44.18,
+                29.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the evening, Peter and John were put in custody, most likely in one of the temple chambers, to prevent their escape before their trial the following day. This decision to hold them in custody until the next day went against the regulation of not conducting trials at night, similar to what happened with Jesus. Perhaps the reason for postponing the trial was that it was customary not to convene the Sanhedrin during the time of evening prayer or sacrifice.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.8355502239234358,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                26.46,
+                44.05,
+                29.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the evening, Peter and John were put in custody, possibly in one of the chambers of the temple, to ensure they did not flee before their trial. This action disregarded the rule against holding trials at night, a rule that was violated during the trial of Jesus. The decision to delay the trial until the next day may have been influenced by the customary practice of not gathering the Sanhedrin during the time of evening prayer or sacrifice.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.70475240435696,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.03,
+            "commentatorTierSimilarities": [
+                27.63,
+                45.1,
+                27.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the evening, Peter and John were taken into custody, likely in one of the chambers of the temple, to prevent their escape before their trial. This decision violated the regulation against holding trials at night, similar to the trial of Jesus. The delay in the trial until the next day could be attributed to the customary practice of not convening the Sanhedrin during the evening prayer or sacrifice time.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.6678930737594095,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                28.21,
+                44.6,
+                27.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the evening, Peter and John were put in custody, possibly in one of the chambers of the temple, in order to ensure they could not escape before their trial. This decision went against the rule of not holding trials at night, a rule that was broken during Jesus' trial. The postponement of the trial to the next day may have been due to the customary practice of not assembling the Sanhedrin during the time of evening prayer or sacrifice.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.7070098888141474,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
+            "commentatorTierSimilarities": [
+                27.98,
+                45.76,
+                26.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

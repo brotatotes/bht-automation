@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:20:59",
+    "verseRef": "Luke 17:12",
+    "bestBHT": {
+        "bht": "A company of lepers, bound together by their suffering and disregarding their national distinction, stood at a distance in accordance with the law, due to their uncleanness. Despite their isolation, they had heard that Jesus of Nazareth, renowned for His healing power, approached their village and gathered together with the hope of being cured. Their decision to maintain their distance from Christ was a result of their impurity and their commitment to obeying the law.",
+        "wordCount": 75,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.7045153277274296,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+        "commentatorTierSimilarities": [
+            18.93,
+            30.72,
+            50.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Their misery had broken down the national distinction, and united them in one company.",
+            "On the nature of leprosy and its significance, see on Matt. viii. 2.",
+            "see Levit. xiii. 46: Num. v. 2."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. stood afar off\u2014(Compare",
+            "\tLeviticus 13:45; Leviticus 13:46)."
+        ],
+        "Albert Barnes": [
+            "They were not allowed to enter the village while they were afflicted with leprosy.",
+            "They were unclean, and it was not lawful for them to come near to those who were in health.",
+            "Seeing him, and knowing that they were unclean, they stopped or turned aside, so that they might not expose others to the contagion."
+        ],
+        "Marvin Vincent": [
+            "Lepers. See on ch. Luke 5:12."
+        ],
+        "Philip Schaff": [
+            "Misery had united them, although they were of different races; comp. a similar company, 2 Kings 9:3.",
+            "Who stood afar off. Because of their un-cleanness.",
+            "See on Matthew 8:2; and comp. the Levitical requirements: Leviticus 13:46; Numbers 5:2."
+        ],
+        "Archibald T. Robertson": [
+            "The first healing of a leper (Luke 5:12-16) like this is given by Luke only.",
+            "They stood at a distance (Leviticus 13:45).",
+            "The compound read by B means 'rose up', but they stood at a distance."
+        ],
+        "John Gill": [
+            "Whether in Samaria or Galilee, is not certain; perhaps it bordered on both, since there were both Jews and Samaritans in it...",
+            "Having heard that Jesus of Nazareth was going to such a place, they got together, and met him as he entered in it, in hope of being cured...",
+            "They stood afar off from Christ, by reason of their uncleanness, as they were obliged to by the law..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A group of lepers, afflicted by their contagious and unclean condition, came together despite their societal division, demonstrating the power of misery to unite. Standing at a distance, they followed the Law's command to keep their distance and avoid exposing others. Yet, they had heard of Jesus' healing power and gathered with hope as He entered their vicinity. Their willingness to stay afar off from Christ was a result of their uncleanness and the fear of breaking the law. (Luke 17:12; Leviticus 13:45; 13:46; Numbers 5:2)",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.719875135704982,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                23.8,
+                35.49,
+                40.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A company of lepers, bound together by their suffering and disregarding their national distinction, stood at a distance in accordance with the law, due to their uncleanness. Despite their isolation, they had heard that Jesus of Nazareth, renowned for His healing power, approached their village and gathered together with the hope of being cured. Their decision to maintain their distance from Christ was a result of their impurity and their commitment to obeying the law.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7045153277274296,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+            "commentatorTierSimilarities": [
+                18.93,
+                30.72,
+                50.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A group of lepers, united in their misery, gathered together regardless of their national differences. They stood at a distance, as prescribed by the law, due to their unclean state. However, upon hearing about Jesus of Nazareth's arrival, renowned for His healing abilities, they assembled with the expectation of finding relief. Their decision to keep their distance from Christ was rooted in their impurity and their commitment to adhering to the law's regulations.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6532499443373339,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+            "commentatorTierSimilarities": [
+                20.02,
+                34.45,
+                45.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "United in their suffering, a diverse company of lepers stood at a distance, observing the Torah's requirement for separation due to their unclean status. Nevertheless, they had heard of Jesus' reputation as a healer and came together with hope, even though their impurity drove them to maintain their distance. Their collective misery transcended national boundaries and led them to seek solace from the one who was known to have healed a leper before.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.6573186365800165,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.45,
+            "commentatorTierSimilarities": [
+                19.56,
+                36.05,
+                44.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A company of lepers, burdened by their affliction yet undeterred by national divisions, had to stand far away from others due to their uncleanness. However, upon hearing about Jesus of Nazareth's arrival, renowned for His healing power, they overcame societal barriers and stood together with hope. Their decision to remain at a distance from Christ was driven by both their impurity and their commitment to obeying the law.",
+            "wordCount": 69,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.565168073397291,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                18.27,
+                32.89,
+                48.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

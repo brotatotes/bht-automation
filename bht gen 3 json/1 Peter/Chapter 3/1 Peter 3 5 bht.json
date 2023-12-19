@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:39:26",
+    "verseRef": "1 Peter 3:5",
+    "bestBHT": {
+        "bht": "In the past, holy women adorned themselves with a meek and quiet spirit, finding their beauty in subordination. Their hope was directed towards God, not towards vanity or external adorning. They sought spiritual adorning rather than outward meretricious ornaments and were characterized by a simple trust and hope in God. By imitating their fidelity, others would be counted among the faithful. It was their meekness, quiet spirit, and unblamable behavior that truly adorned them.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.1400620259472545,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.5,
+        "commentatorTierSimilarities": [
+            29.03,
+            36.02,
+            34.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For (enforcing of the same by example) in this manner (i. e. with the ornament of a meek and quiet spirit) formerly the holy women...adorned themselves, being in subjection to their own husbands.\" ",
+            "being thus in subjection, they were adorned with the meek and quiet spirit which belongs to it",
+            "whose hope was directed towards, and rested in, God"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ornament consisted in their subordination.",
+            "Vanity was forbidden as being contrary to female subjection.",
+            "Hope in God is the spring of true holiness."
+        ],
+        "Albert Barnes": [
+            "The reason is, that this characterized the pious and honored females of ancient times - those females who had been most commended of God, and who were most worthy to be remembered on earth.",
+            "They were characterized by simple trust or hope in God, rather than by a fondness for external adorning.",
+            "Piety was understood to consist much in proper respect for others, according to the relations sustained toward them."
+        ],
+        "Marvin Vincent": [
+            "Adorned [\u03b5\u03ba\u03bf\u03c3\u03bc\u03bf\u03c5\u03bd] . Imperfect tense. Were accustomed to adorn."
+        ],
+        "John Calvin": [
+            "He sets before them the example of pious women, who sought for spiritual adorning rather than outward meretricious ornaments.",
+            "Moreover, he returns again to subjection, and confirms it by the example of Sarah, who, according to the words of Moses, called her husband Lord.",
+            "Peter adds, that they who imitated her fidelity would be her daughters, that is, reckoned among the faithful."
+        ],
+        "Philip Schaff": [
+            "They were accustomed to seek in the beauty of wifely character their best adornment, and one chief evidence of their being women of this spirit was the respect and subordination which they exhibited in relation to their husbands.\" ",
+            "Their eye turned Godward, not earthward; their life drew its inspiration not from the present, but from the future; their expectation looked to the performance of God\u2019s promises, not to what things as they were could yield.\" ",
+            "Hence those material adornments which had such transient worth as they did possess only in men\u2019s sight, not in God\u2019s, were not to them what the contagion of custom and fashion threatened to make them to the godly women of Peter\u2019s own time."
+        ],
+        "Archibald T. Robertson": [
+            "Adorned themselves (\u03b5\u03ba\u03bf\u03c3\u03bc\u03bf\u03c5\u03bd \u03b5\u03b1\u03c5\u03c4\u03b1\u03c2). Imperfect active of customary action, 'used to adorn themselves.'\" ",
+            "\u039a\u03bf\u03c3\u03bc\u03b5\u03c9 is old verb from \u03ba\u03bf\u03c3\u03bc\u03bf\u03c2 in the sense in verse 1 Peter 3:3.",
+            "The participle \u03c5\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03bf\u03bc\u03b5\u03bd\u03b1 repeats verse 1 Peter 3:1."
+        ],
+        "John Gill": [
+            "The apostle exhorts and encourages to this inward dress and ornament, from the antiquity of it.",
+            "Such holy and believing women as these are worthy of imitation in their adorning and dress.",
+            "Being in subjection unto their own husbands...recommends them more, both in the sight of God and men."
+        ],
+        "John Wesley": [
+            "The adorning of those holy women, who trusted in God, and therefore did not act thus from servile fear.",
+            "Their meek subjection to their husbands: 2. Their quiet spirit, 'not afraid,' or amazed.",
+            "Their unblamable behaviour, 'doing' all things 'well'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse talks about how in the past, holy women adorned themselves with a meek and quiet spirit and were in subjection to their husbands. Their subordination was seen as an ornament and was contrary to vanity. These women put their hope in God and found true holiness through it. Adorning themselves did not refer to external beauty, but rather to seeking beauty through proper respect for others and exhibiting respect and subordination to their husbands. Their focus was on God and His promises, not on earthly things. By imitating the fidelity and behavior of these women, others would be considered part of the faithful. Their meekness, quiet spirit, and unblamable behavior were what truly adorned them.",
+            "wordCount": 117,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.0767277657659355,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                26.6,
+                36.95,
+                36.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the past, holy women adorned themselves with a meek and quiet spirit, finding their beauty in subordination and hoping in God. Their focus was not on external adornment but on respect for others, particularly their husbands. These women were seen as pious and honored, characterized by their simple trust in God and their future expectations. By imitating their fidelity, others would be counted among the faithful. It was their meekness, quiet spirit, and unblamable behavior that truly adorned them.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.0568890833089934,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+            "commentatorTierSimilarities": [
+                23.59,
+                40.41,
+                36.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the past, holy women adorned themselves with a meek and quiet spirit, finding their beauty in subordination. Their hope was directed towards God, not towards vanity or external adorning. They sought spiritual adorning rather than outward meretricious ornaments and were characterized by a simple trust and hope in God. By imitating their fidelity, others would be counted among the faithful. It was their meekness, quiet spirit, and unblamable behavior that truly adorned them.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.1400620259472545,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.5,
+            "commentatorTierSimilarities": [
+                29.03,
+                36.02,
+                34.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the past, holy women adorned themselves by being in subjection to their own husbands and with a meek and quiet spirit. Their hope rested in God rather than in vanity. They sought spiritual adorning, understanding that their best beauty came from a proper respect for others. These women found inspiration and expectation in God's promises, not in earthly things. By imitating their fidelity, others would be reckoned among the faithful. It was their meek subjection, quiet spirit, and unblamable behavior that truly adorned them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.078596590871858,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                26.33,
+                36.89,
+                36.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the past, holy women adorned themselves with a meek and quiet spirit, finding their beauty in subjection to their husbands and placing their hope in God. Their focus was on seeking spiritual adorning, understanding that their best beauty came from respect for others. By imitating their fidelity, others would be counted among the faithful. It was their meekness, quiet spirit, and unblamable behavior that truly adorned them, reflecting their trust in God and obedience to His ways.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.110420545209026,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+            "commentatorTierSimilarities": [
+                24.16,
+                39.09,
+                36.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:24:13",
+    "verseRef": "Luke 24:46",
+    "bestBHT": {
+        "bht": "Jesus explains that it was necessary for the Christ to suffer, as it is written in the Old Testament, and for him to rise from the dead. His suffering and resurrection were foretold and these events are the foundation of his mission to proclaim repentance and forgiveness to all nations. In his death and resurrection, we find the cause and grounds for our salvation, as they bring about reconciliation with God and the start of a new spiritual life. This fulfillment of prophecy demonstrates God's faithfulness in accomplishing all that He declares through His prophets.",
+        "wordCount": 96,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.9018835484147574,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.58,
+        "commentatorTierSimilarities": [
+            24.39,
+            32.99,
+            42.62
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "46. behoved Christ\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "It behoved - It became; it was proper or necessary that the Messiah should thus suffer. It was predicted of him, and all things have happened as it was foretold."
+        ],
+        "Marvin Vincent": [
+            "Thus is behoved. The best texts omit. Render, as Rev., thus it is written that the Christ should suffer. ",
+            "Christ [\u03c4\u03bf\u03bd \u03c7\u03c1\u03b9\u03c3\u03c4\u03bf\u03bd] . Note the article, the Christ, and see on Matthew 1:1."
+        ],
+        "John Calvin": [
+            "Whatever is written must be fulfilled, for God declared nothing by his prophets but what he will undoubtedly accomplish.",
+            "Since Christ is the end and the soul of the law... whatever we learn without him, and apart from him, is idle and unprofitable.",
+            "In his death and resurrection we ought to seek the cause and grounds of our salvation; because hence arise reconciliation to God, and regeneration to a new and spiritual life."
+        ],
+        "Philip Schaff": [
+            "Luke 24:46. Thus it is written, that the Christ should suffer, etc. Here, as everywhere, suffering and glory are inseparably connected.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Jesus now finds in the Old Testament his suffering, his resurrection, and the preaching of repentance and forgiveness of sins to all nations.\" ",
+            "Note the infinitives \u03c0\u03b1\u03b8\u03b5\u03b9\u03bd, \u03b1\u03bd\u03b1\u03c3\u03c4\u03b7\u03bd\u03b1\u03b9, \u03ba\u03b7\u03c1\u03c5\u03c7\u03b8\u03b7\u03bd\u03b1."
+        ],
+        "John Gill": [
+            "Thus it is written...not what after follows, in so many words, but the matter and substance thereof.",
+            "It behoved Christ to suffer and to rise from the dead the third day; it was necessary, both because of the decree and appointment of God, and because of the prophecies and predictions of the Old Testament.",
+            "Because of the prophecies and predictions of the Old Testament."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus explains that it was necessary for the Christ to suffer, as it is written in the Old Testament, and for him to rise from the dead. His suffering and resurrection were foretold and these events are the foundation of his mission to proclaim repentance and forgiveness to all nations. In his death and resurrection, we find the cause and grounds for our salvation, as they bring about reconciliation with God and the start of a new spiritual life. This fulfillment of prophecy demonstrates God's faithfulness in accomplishing all that He declares through His prophets.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.9018835484147574,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.58,
+            "commentatorTierSimilarities": [
+                24.39,
+                32.99,
+                42.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus affirms that it was necessary for the Christ to suffer and rise from the dead, as the Old Testament predicted. His suffering and resurrection are closely intertwined and serve as the basis for his mission to proclaim repentance and forgiveness to all nations. Through his death and resurrection, we find the cause and grounds for our salvation, as they lead to reconciliation with God and the start of a new spiritual life. This fulfillment of prophecy highlights God's commitment to accomplishing what He declares through His prophets.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8403409319829425,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                23.76,
+                32.77,
+                43.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus affirms the necessity for the Christ to suffer and be raised from the dead, as prophesied in the Old Testament. His suffering and resurrection are inextricably linked, forming the foundation of his mission to proclaim repentance and forgiveness to all nations. Through his death and resurrection, we discover the cause and grounds of our salvation, leading to reconciliation with God and the initiation of a new spiritual life. This fulfillment of prophecy showcases God's unwavering commitment to fulfill what he declares through his prophets.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.797592276248344,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+            "commentatorTierSimilarities": [
+                25.02,
+                31.22,
+                43.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As written in the Old Testament, Jesus explains that it was necessary for the Christ to suffer and rise from the dead. These prophecies of suffering and glory are intricately connected, serving as the core of his mission to proclaim repentance and forgiveness to all nations. In his death and resurrection, we find the cause and foundation of our salvation, resulting in reconciliation with God and the start of a new spiritual life. This fulfillment of prophecy highlights God's steadfast commitment to fulfill what he declares through his prophets.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.8333753021232873,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.3,
+            "commentatorTierSimilarities": [
+                24.32,
+                32.29,
+                43.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus explains that it was necessary for the Christ to suffer, as it is written in the Old Testament, and for him to rise from the dead. These prophecies of suffering and glory are tightly intertwined and form the essence of his mission to proclaim repentance and forgiveness to all nations. Through his death and resurrection, we discover the cause and grounds for our salvation, as they lead to reconciliation with God and the start of a new spiritual life. This fulfillment of prophecy demonstrates God's faithfulness in accomplishing what He declares through His prophets.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.8639569188619944,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                24.06,
+                32.65,
+                43.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:18:23",
+    "verseRef": "Luke 11:33",
+    "bestBHT": {
+        "bht": "The crypt or cellar represents the clarity of inward perception, while the clear ministry of Christ was not hidden but done openly in public places. The light mentioned signifies the Gospel, rejected by the people to their own condemnation. Focusing our gaze solely on Christ and aiming to please God fills our souls with wisdom, holiness, and happiness.",
+        "wordCount": 58,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.4775779762577916,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.47,
+        "commentatorTierSimilarities": [
+            35.79,
+            0.0,
+            64.21
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "33.] a secret place\u2014more properly, a crypt, or covered passage."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "33-36. (See on :-; :-.) But :- here is peculiarly vivid, expressing what pure, beautiful,",
+            "\tbroad perceptions the clarity of the inward eye imparts. ",
+            "\t",
+            " :-. DENUNCIATION OF THE",
+            "\tPHARISEES."
+        ],
+        "Marvin Vincent": [
+            "Secret place [\u03ba\u03c1\u03c5\u03c0\u03c4\u03b7\u03bd] . Rather, a cellar or crypt. which latter is the Greek word transcribed.",
+            "Candlestick. Properly stand.",
+            "Light [\u03c6\u03b5\u03b3\u03b3\u03bf\u03c2] . The word occurs in only two other places : Matthew 24:29; Mark 13:24, on which see notes."
+        ],
+        "Archibald T. Robertson": [
+            "A cellar (\u03b5\u03b9\u03c2 \u03ba\u03c1\u03c5\u03c0\u03c4\u03b7\u03bd). A crypt (same word) or hidden place from \u03ba\u03c1\u03c5\u03c0\u03c4\u03c9, to hide.",
+            "These other words (lamp, \u03bb\u03c5\u03c7\u03bd\u03bf\u03bd, bushel, \u03bc\u03bf\u03b4\u03b9\u03bf\u03bd, stand, \u03bb\u03c5\u03c7\u03bd\u03b9\u03b1\u03bd) have all been discussed previously (Matthew 5:15).",
+            "Luke 11:33 is like Matthew 6:22, which see for details."
+        ],
+        "John Gill": [
+            "Here seem to design the free, open, and clear ministry of Christ.\" ",
+            "Intimating, that Christ and his disciples did not preach in corners, or in private houses, and secret places, but in the streets of the city, and in the temples and synagogues, the public places of worship.",
+            "Therefore the Jews were the more inexcusable, that they did not attend to the ministry of the word; and this would be their condemnation, that light was come among them, and they preferred darkness to it."
+        ],
+        "John Wesley": [
+            "God gives you this Gospel light, that you may repent.",
+            "Let your eye be singly fixed on him, aim only at pleasing God.",
+            "While you do this, your whole soul will be full of wisdom, holiness, and happiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The crypt or covered passage mentioned in Luke 11:33 signifies the clarity of inward perception and the beauty of pure understanding. It represents the open and clear ministry of Christ, demonstrating that he and his disciples did not preach in secret but proclaimed the word of God in public places. The light spoken of in this verse is symbolic of the Gospel, which has come among the people, and their rejection of it will lead to their condemnation. By fixing our gaze solely on Christ and seeking to please God, we can experience a deep wisdom, holiness, and happiness within our souls.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.4791286779215067,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+            "commentatorTierSimilarities": [
+                37.82,
+                0.0,
+                62.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The cellar or crypt mentioned signifies the clarity of inward perception and pure understanding. Christ and his disciples preached openly, not in secret places, demonstrating their commitment to proclaiming the word of God. The light represents the Gospel, which has come among the people, and their rejection of it will lead to condemnation. By fixing our gaze solely on Christ and seeking to please God, our souls will be filled with wisdom, holiness, and happiness.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.4264924097538554,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.77,
+            "commentatorTierSimilarities": [
+                38.3,
+                0.0,
+                61.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crypt or covered cellar is symbolic of the clear ministry of Christ, reflecting his pure, beautiful, and broad perceptions. Christ and his disciples preached openly in the streets, temples, and synagogues, demonstrating their commitment to sharing the word of God in public places. The light mentioned in this passage refers to the Gospel, which the people rejected at their own peril. By fixing our gaze solely on Christ and seeking to please God, our souls will be filled with wisdom, holiness, and happiness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.42608183564659,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.76,
+            "commentatorTierSimilarities": [
+                35.48,
+                0.0,
+                64.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crypt, a cellar or hidden place, represents the clarity of inward perception and pure understanding. Christ and his disciples openly proclaimed the word of God in public places, such as streets, temples, and synagogues. The light mentioned refers to the Gospel, which the people rejected, leading to their condemnation. By fixing our gaze solely on Christ and seeking to please God, our souls will be filled with wisdom, holiness, and happiness.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.430360282485112,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.9,
+            "commentatorTierSimilarities": [
+                36.79,
+                0.0,
+                63.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crypt or cellar represents the clarity of inward perception, while the clear ministry of Christ was not hidden but done openly in public places. The light mentioned signifies the Gospel, rejected by the people to their own condemnation. Focusing our gaze solely on Christ and aiming to please God fills our souls with wisdom, holiness, and happiness.",
+            "wordCount": 58,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4775779762577916,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.47,
+            "commentatorTierSimilarities": [
+                35.79,
+                0.0,
+                64.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

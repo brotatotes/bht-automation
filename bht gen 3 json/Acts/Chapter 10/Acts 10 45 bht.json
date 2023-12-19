@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:29:28",
+    "verseRef": "Acts 10:45",
+    "bestBHT": {
+        "bht": "The believers of the circumcision were astonished because they had not anticipated the pouring out of the Holy Spirit upon the Gentiles. This miraculous event of speaking in tongues, which had previously only been witnessed among the Jews, was now being experienced by both Jews and Gentiles alike. The distinction between Jewish and Gentile Christians is evident as Luke introduces these two groups, with the inclusion of the Gentiles being a surprising revelation for the Jews who had not expected such a universal outpouring.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.148498884130947,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.78,
+        "commentatorTierSimilarities": [
+            31.92,
+            27.78,
+            40.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We do not read that Peter himself was astonished. He had been specially prepared by the vision: they had not.",
+            "The speaking with tongues here is identified with the speaking with other tongues of ch. ii. 4.",
+            "The gift was one and the same throughout."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "45. they of the circumcision . . .",
+            "\twere astonished . . . because that on the Gentiles also was poured",
+            "\tout, &amp;c.\u2014without circumcision."
+        ],
+        "Albert Barnes": [
+            "And they of the circumcision - Who had been Jews.",
+            "Were astonished - Were amazed that Gentiles should be admitted to the same favor as themselves."
+        ],
+        "Marvin Vincent": [
+            "From this point Luke distinguishes Christians into two classes - those of the circumcision and those of the uncircumcision; calling the former Jews, and the latter Gentiles or Greeks.\" ",
+            "Were amazed."
+        ],
+        "John Calvin": [
+            "He calleth them faithful who were as yet possessed with a wicked error.",
+            "So the Lord doth not by and by wipe away all clouds of ignorance from his, and yet they do not darken the praise of faith before God.",
+            "Although we be also taught by this example, how hard a matter it is for us to wind out ourselves out of our errors once conceived, especially when they are of any continuance."
+        ],
+        "Philip Schaff": [
+            "They were almost out of their mind with wonder.",
+            "The expression in the original is very strong.",
+            "As to the persons whose wonder here forms so prominent a part of the scene."
+        ],
+        "Archibald T. Robertson": [
+            "The believing ones of the circumcision, more exactly.",
+            "They stood out of themselves.",
+            "Used metaphorically of the Holy Spirit also in Acts 2:17 (from Joel 2:28), Acts 2:33."
+        ],
+        "John Gill": [
+            "which they before thought was peculiar to the Jews",
+            "which they needed not, had they known that the legal dispensation was now at an end, and the Gospel dispensation had taken place",
+            "in which it had been foretold the Spirit should be poured forth on the dry ground of the Gentiles"
+        ],
+        "John Wesley": [
+            "The believers of the circumcision \u2014 The believing Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers of the circumcision were astonished because they had not realized that the pouring out of the Holy Spirit was not limited to the Jews. The speaking with tongues that occurred here is the same as in Acts 2:4, and this gift was the same for both Jews and Gentiles. Luke now distinguishes between Christians of the circumcision and those of the uncircumcision, or Jews and Gentiles. This inclusion of the Gentiles amazed the Jews, who had not been prepared for such a revelation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 55.77,
+            "qualityScore": 2.2212934232499144,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.2,
+            "commentatorTierSimilarities": [
+                32.33,
+                28.69,
+                38.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The believers of the circumcision were astonished because they had not anticipated the pouring out of the Holy Spirit upon the Gentiles. This miraculous event of speaking in tongues, which had previously only been witnessed among the Jews, was now being experienced by both Jews and Gentiles alike. The distinction between Jewish and Gentile Christians is evident as Luke introduces these two groups, with the inclusion of the Gentiles being a surprising revelation for the Jews who had not expected such a universal outpouring.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.148498884130947,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.78,
+            "commentatorTierSimilarities": [
+                31.92,
+                27.78,
+                40.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers of the circumcision were astonished because they did not expect the pouring out of the Holy Spirit to extend to the Gentiles. The speaking in tongues that occurred here was the same as in Acts 2:4, emphasizing the unity of this gift among believers. Luke now distinguishes between Jewish and Gentile Christians, with the inclusion of the Gentiles surprising the Jews. This unexpected revelation demonstrates the universal nature of the gospel and challenges their previous assumptions about the exclusivity of God's favor.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.8850599837744868,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+            "commentatorTierSimilarities": [
+                32.74,
+                26.66,
+                40.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers who were of the circumcision were astonished because the pouring out of the Holy Spirit extended to the Gentiles, which they had not anticipated. This event of speaking in tongues was the same as the one in Acts 2:4, emphasizing the unity in this gift. Luke now distinguishes between Jewish and Gentile Christians, with the inclusion of the Gentiles surprising the Jews. This revelation challenges their previous assumption about the exclusivity of God's favor and highlights the universal nature of the gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8863434551065934,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+            "commentatorTierSimilarities": [
+                32.84,
+                27.42,
+                39.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers of the circumcision were astonished because they had not realized that the pouring out of the Holy Spirit was not limited to the Jews. The speaking with tongues that occurred here is the same as in Acts 2:4, and this gift was the same for both Jews and Gentiles. Luke now distinguishes between Christians of the circumcision and those of the uncircumcision, or Jews and Gentiles. This inclusion of the Gentiles amazed the Jews, who had not been prepared for such a revelation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 55.77,
+            "qualityScore": 2.2212934232499144,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.2,
+            "commentatorTierSimilarities": [
+                32.33,
+                28.69,
+                38.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:29:41",
+    "verseRef": "2 Timothy 1:1",
+    "bestBHT": {
+        "bht": "This portion of Paul's letter serves as a source of comfort for Timothy in the midst of his troubles and reinforces the promise of eternal life. Paul's apostleship is a means to fulfill this promise, as he was called by the will of God. The promise of life in Christ Jesus empowers Timothy to face his trials boldly and undertake the journey to Rome. It is through Christ that this life is found, encompassing both the present and the future. Paul's ultimate goal is to lead others to Christ, who offers life and salvation.",
+        "wordCount": 97,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 2.196921889291911,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.39,
+        "commentatorTierSimilarities": [
+            34.66,
+            33.38,
+            31.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So that I proclaim to men the eternal life which hath been promised.",
+            "A consolation to Timothy under present troubles.",
+            "The subsequent portion of the Epistle, which is throughout one of confirmation and encouragement."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This Epistle is the last testament and swan-like death song of Paul.\" ",
+            "Paul's apostleship is in order to carry into effect this promise.\" ",
+            "This 'promise of life in Christ' was needed to nerve Timothy to fortitude amidst trials, and to boldness in undertaking the journey to Rome."
+        ],
+        "Albert Barnes": [
+            "By the will of God - Called to be an apostle in accordance with the divine will and purpose.",
+            "According to the promise of life which is in Christ Jesus - In accordance with the great promise of eternal life through the Saviour.",
+            "God has made a promise of life to mankind through faith in the Lord Jesus, and it was with reference to this that he was called to the apostleship."
+        ],
+        "John Calvin": [
+            "He at the same time pronounces a eulogy on his calling, by adding that he was ordained by the will of God. His apostleship, therefore, having God for its author and defender, is beyond all dispute.\" ",
+            "Thus also he points out the design of his apostleship, namely, to bring men to Christ, that in him they may find life.\" ",
+            "He speaks with great accuracy, when he mentions that 'the promise of life' was indeed given, in ancient times, to the fathers. But yet he declares that this life is in Christ, in order to inform us that the faith of those who lived under the Law must nevertheless have looked towards Christ."
+        ],
+        "Philip Schaff": [
+            "According to the promise of life.\" ",
+            "An unusual addition to the opening formula of St. Paul\u2019s letters.",
+            "The promise was near its fulfillment, and he was about to pass through life to death."
+        ],
+        "Archibald T. Robertson": [
+            "According to the promise of the life which is in Christ Jesus.\" ",
+            "With a view to the fulfilment of the promise.",
+            "Life that in Christ Jesus includes the present as well as the future."
+        ],
+        "John Gill": [
+            "Not of men, nor by men, but by Jesus Christ, from whom he was sent.",
+            "It was by the secret determining will of God, that he was from all eternity separated unto the Gospel of Christ.",
+            "Now it is the business of Gospel ministers...to show men the way of life and salvation by Christ alone."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse serves as a consolation to Timothy in the midst of present troubles and affirms the promise of eternal life proclaimed by Paul. Paul's apostleship was in order to fulfill this promise and his calling was by the will of God. The promise of life in Christ Jesus gives Timothy the fortitude and boldness to face trials and even undertake the journey to Rome. This life in Christ encompasses both the present and the future. Ultimately, Paul's apostleship is dedicated to bringing people to Christ so that they may find life in Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.2359026543252254,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.68,
+            "commentatorTierSimilarities": [
+                35.39,
+                31.67,
+                32.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage provides encouragement to Timothy amidst his current difficulties, reminding him of the promise of eternal life. Paul's apostleship was specifically aimed at fulfilling this promise, as it was ordained by the will of God. The promise of life in Christ Jesus serves as a source of strength for Timothy, motivating him to endure trials and embark on his journey to Rome. This promise encompasses both the present and the future, offering hope and assurance in Christ. Ultimately, Paul's ministry is to lead people to Christ, who is the source of life.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.170770690998268,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.52,
+            "commentatorTierSimilarities": [
+                34.95,
+                34.03,
+                31.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This portion of Paul's letter serves as a source of comfort for Timothy in the midst of his troubles and reinforces the promise of eternal life. Paul's apostleship is a means to fulfill this promise, as he was called by the will of God. The promise of life in Christ Jesus empowers Timothy to face his trials boldly and undertake the journey to Rome. It is through Christ that this life is found, encompassing both the present and the future. Paul's ultimate goal is to lead others to Christ, who offers life and salvation.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.196921889291911,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.39,
+            "commentatorTierSimilarities": [
+                34.66,
+                33.38,
+                31.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this verse, Paul offers Timothy consolation during his current troubles, reminding him of the promise of eternal life. Paul's apostleship is dedicated to fulfilling this promise, serving as a testament to God's will. The promise of life in Christ Jesus provides Timothy with the strength to endure trials and embark on his journey to Rome. This promise encompasses both the present and the future, emphasizing the importance of faith in Christ for finding true life. Paul's mission is to guide others to Christ, the source of life and salvation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.26646318606132,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.7,
+            "commentatorTierSimilarities": [
+                36.22,
+                33.94,
+                29.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This portion of Paul's letter speaks to Timothy's consolation amidst present troubles, grounding him in the promise of eternal life. Paul's apostleship is directly tied to fulfilling this promise, reflecting the will of God. The promise of life in Christ Jesus is intended to fortify Timothy with endurance in trials and embolden him to venture to Rome. Through Christ, this promise encompasses both the present and the future, providing abundant life. Ultimately, Paul's apostleship seeks to reveal the way to life and salvation through Christ alone.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.49,
+            "qualityScore": 2.1952550822633636,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.33,
+            "commentatorTierSimilarities": [
+                35.43,
+                32.62,
+                31.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

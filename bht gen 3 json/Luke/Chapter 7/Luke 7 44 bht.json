@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:16:38",
+    "verseRef": "Luke 7:44",
+    "bestBHT": {
+        "bht": "Simon and the woman in this scenario provide a vivid contrast. Simon, as the host, overlooked customary acts of hospitality by failing to provide water for foot washing. On the other hand, the woman, with tears in her eyes, used them as a bath for Jesus' feet. She then wiped them with her hair, a gesture that surpassed the ordinary customs. Her actions signify her profound gratitude and recognition of her great indebtedness to God. Although we may not copy her exact acts, her attitude of humility, gratitude, and extravagant love is worth emulating.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.1884090053462744,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.86,
+        "commentatorTierSimilarities": [
+            10.66,
+            41.26,
+            48.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "44-47. I entered . . . no water\u2014a",
+            "\tcompliment to guests. Was this \"much love?\" Was it any?"
+        ],
+        "Albert Barnes": [
+            "You see what this woman has done to me, compared with what you have done. She has shown me expressions of regard which you, in your own house, have not shown.",
+            "I came at your invitation, where I might expect all the usual rites of hospitality.",
+            "Among Eastern people it was customary, before eating, to wash the feet; and to do this, or to bring water for it, was one of the rites of hospitality."
+        ],
+        "John Calvin": [
+            "What mean those profuse tears, those frequent kisses of the feet, that precious ointment? What mean they but to acknowledge, that she had been weighed down by an enormous burden of condemnation?",
+            "But Christ insists on this single point, that, however wicked the woman may have been, she gave undoubted proofs of her righteousness, by leaving no kind of duty undone to testify her gratitude, and by acknowledging, in every possible way, her vast obligations to God.",
+            "Every one of these things it is our duty to imitate; but the pouring of the ointment was an extraordinary act, which it would be improper to consider as a rule."
+        ],
+        "Philip Schaff": [
+            "'Thine house.' The emphasis rests upon the word 'thy,' thus pointing the rebuke.",
+            "Simon had not been rude and uncivil, but loving little, he had treated our Lord as an ordinary guest.",
+            "Simon did not give water, she gave tears, 'and instead of a linen cloth the thousand hairs of her head.'"
+        ],
+        "Archibald T. Robertson": [
+            "Turning (\u03c3\u03c4\u03c1\u03b1\u03c6\u03b5\u03b9\u03c2). Second aorist passive participle.",
+            "She was behind Jesus.",
+            "In each contrast the first word is the point of defect in Simon: water (Luke 7:44), kiss (Luke 7:45), oil (Luke 7:46)."
+        ],
+        "John Gill": [
+            "thou gavest me no water for my feet: to wash them with, no, not so much as water; a civility very common in those hot countries, where walking without stockings, and only with sandals, they needed often washing; and which was very refreshing, and was not only used to travellers and strangers, but to guests, and was usually done by the servants of the house;",
+            "but she hath washed my feet with tears. The Persic version reads, 'with the tears of her eyes'; which made a bath for his feet;",
+            "and wiped them with the hairs of her head. The Vulgate Latin, Syriac, Persic, and Ethiopic versions read only, 'with her hair', which she used instead of a towel, when Simon neither gave him water to wash with, nor a towel to wipe with."
+        ],
+        "John Wesley": [
+            "It was customary with the Jews to show respect and kindness to their welcome guests.",
+            "By saluting them with a kiss, by washing their feet, and anointing their heads with oil.",
+            "Or some fine ointment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse presents a striking contrast between the actions of Simon and the woman who entered the house. Simon, as the host, had failed to extend the customary acts of hospitality and love towards Jesus. He neglected to provide water for Jesus to wash his feet, a common courtesy in that culture. In stark contrast, the woman, with tears streaming down her face, washed Jesus' feet with her tears and dried them with her hair. She went above and beyond, showing extravagant love and gratitude towards Jesus. This woman's actions demonstrate her acknowledgment of her immense need for forgiveness and her deep gratitude for the forgiveness she had received. While not all of her actions can be taken as a direct command for us to follow, her overall attitude of humility, gratitude, and extravagant love are traits that we should seek to emulate in our own lives.",
+            "wordCount": 148,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 1.2376386928337215,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.49,
+            "commentatorTierSimilarities": [
+                13.41,
+                41.66,
+                44.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the stark contrast between Simon and the woman is evident. Simon, as the host, failed to extend customary acts of hospitality towards Jesus, neglecting to provide water for washing his feet. However, the woman, weeping and humble, goes above and beyond to express her gratitude and love. Her actions serve as a powerful example of acknowledging her immense need for forgiveness and demonstrating her deep gratitude for the forgiveness she received. While we may not emulate her specific actions, we should aim to cultivate an attitude of humility, gratitude, and extravagant love in our own lives.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.138148476323771,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.19,
+            "commentatorTierSimilarities": [
+                8.28,
+                43.77,
+                47.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The stark contrast between Simon and the woman in this verse is striking. While Simon neglected to provide water for washing Jesus' feet, the woman went beyond the usual acts of hospitality. Her tears became a bath for Jesus' feet, and she tenderly wiped them with her hair. Her actions demonstrate her immense gratitude and acknowledgment of her need for forgiveness. Although we may not mimic her exact actions, her humility, gratitude, and extravagant love serve as a powerful example for us all.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.2553390671893476,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.08,
+            "commentatorTierSimilarities": [
+                13.9,
+                39.7,
+                46.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Simon and the woman in this scenario provide a vivid contrast. Simon, as the host, overlooked customary acts of hospitality by failing to provide water for foot washing. On the other hand, the woman, with tears in her eyes, used them as a bath for Jesus' feet. She then wiped them with her hair, a gesture that surpassed the ordinary customs. Her actions signify her profound gratitude and recognition of her great indebtedness to God. Although we may not copy her exact acts, her attitude of humility, gratitude, and extravagant love is worth emulating.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.1884090053462744,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.86,
+            "commentatorTierSimilarities": [
+                10.66,
+                41.26,
+                48.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this scene, Simon's lack of hospitality and the woman's extravagant acts of love create a sharp contrast. Simon neglected to provide water for foot washing, while the woman bathed Jesus' feet with her tears and wiped them with her hair. Her actions serve as a powerful demonstration of gratitude and a deep recognition of the forgiveness she had received. Though not every aspect of her actions is to be imitated, her humility, gratitude, and extravagant love should inspire us to express similar devotion in our own lives.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.185094866176263,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.75,
+            "commentatorTierSimilarities": [
+                9.92,
+                42.1,
+                47.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:14:39",
+    "verseRef": "Luke 3:10",
+    "bestBHT": {
+        "bht": "Deeds of justice and charity are the very first fruits of repentance. John the Baptist had urged the people to bring forth fruits appropriate to repentance, reflecting a genuine change of heart. When asked, What then shall we do? they sought guidance on how to live a life that demonstrated their sincere repentance. The gospel's response differed from mere ceremonial acts, emphasizing the importance of showing judgment, mercy, faith, kindness, and generosity towards others. This highlights the significance of actively living a righteous and compassionate life as a testament to our repentance.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.21,
+        "qualityScore": 1.879302871677019,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+        "commentatorTierSimilarities": [
+            36.61,
+            30.84,
+            32.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Deeds of justice and charity are the very first fruits of repentance.",
+            "Deeds of justice and charity are the very first fruits of repentance.",
+            "Deeds of justice and charity are the very first fruits of repentance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10-14. What shall we do then?\u2014to",
+            "\tshow the sincerity of our repentance. (Also see on :-.)"
+        ],
+        "Albert Barnes": [
+            "John had told them to bring forth fruits appropriate to repentance, or to lead a life which showed that their repentance was genuine.",
+            "They very properly, therefore, asked how it should be done, or what 'would be' such a life.",
+            "What shall we do, then?"
+        ],
+        "Marvin Vincent": [
+            "Asked [\u03b5\u03c0\u03b7\u03c1\u03c9\u03c4\u03c9\u03bd] . Imperfect tense, indicating the frequent repetition of these questions. ",
+            "Coats [\u03c7\u03b9\u03c4\u03c9\u03bd\u03b1\u03c2] . See on Matthew 5:40."
+        ],
+        "John Calvin": [
+            "For hypocrites labor strenuously to prove themselves worshippers of God by the performance of ceremonies, \u2014 paying no regard, however, to true righteousness: for they are either cruel to their neighbors, or addicted to falsehood and dishonesty.",
+            "This is the reason why our Lord pronounces 'judgment, mercy, and faith,' to be 'the weightier matters of the law,' and Scripture everywhere recommends 'justice and judgment.'",
+            "Let the necessity of our brethren affect us powerfully, and let the bounty of God, which is in our hands, stimulate us to acts of kindness and generosity."
+        ],
+        "Philip Schaff": [
+            "What then shall we do?\" - The question of those whose conscience had been aroused.",
+            "But the answers given under the gospel dispensation were different.",
+            "Comp. similar questions, Acts 2:37; Acts 16:30; Acts 22:10."
+        ],
+        "Archibald T. Robertson": [
+            "What then must we do?\" (\u03c4 \u03bf\u03c5\u03bd \u03c0\u03bf\u03b9\u03b7\u03c3\u03c9\u03bc\u03b5\u03bd?) - Deliberative aorist subjunctive. More exactly, What then are we to do, What then shall we do? ",
+            "The \u03bf\u03c5\u03bd refers to the severe things already said by John\" - The \u03bf\u03c5\u03bd refers to the severe things already said by John (Luke 3:7-9). ",
+            "Imperfect tense, repeatedly asked\" - Asked (\u03b5\u03c0\u03b7\u03c1\u03c9\u03c4\u03c9\u03bd). Imperfect tense, repeatedly asked."
+        ],
+        "John Gill": [
+            "And the people asked him... what shall we do?\" ",
+            "Either to escape the wrath and vengeance coming on the nation, and also eternal ruin and destruction.\" ",
+            "What are the things we are to do, or the fruits we are to bring forth, the duties we are to perform, in order to testify the truth and genuineness of our repentance?"
+        ],
+        "John Wesley": [
+            "Cease to do evil, learn to do well.\" ",
+            "The Holy Ghost...teaches us...how to come to Christ, that he may give us rest.",
+            "These are the fruits worthy of repentance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Deeds of justice and charity are the very first fruits of repentance. John the Baptist had urged the people to bring forth fruits appropriate to repentance, showing that their repentance was genuine. They asked, What then shall we do? seeking guidance on how to live a life that reflected their repentant hearts. The answers given under the gospel dispensation were different - instead of focusing on ceremonial acts, they were called to show judgment, mercy, faith, and to act with kindness and generosity towards their brethren. This teaches us that true repentance is not just about words, but about actively living a life that reflects God's righteousness and compassion.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 1.9121400271421787,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.92,
+            "commentatorTierSimilarities": [
+                34.37,
+                33.54,
+                32.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Deeds of justice and charity are the very first fruits of repentance. John the Baptist had told the people to bring forth fruits appropriate to repentance, showing that their repentance was genuine. They asked, What then shall we do? seeking guidance on how to live a life that reflected their repentant hearts. The answers given under the gospel dispensation were different - instead of focusing on ceremonial acts, they were called to show judgment, mercy, faith, and to act with kindness and generosity towards their brethren. This teaches us the importance of actively living a righteous and compassionate life as evidence of our repentance.",
+            "wordCount": 103,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.9212092237191474,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                34.49,
+                33.33,
+                32.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Deeds of justice and charity are the very first fruits of repentance. John the Baptist had urged the people to bring forth fruits appropriate to repentance, reflecting a genuine change of heart. When asked, What then shall we do? they sought guidance on how to live a life that demonstrated their sincere repentance. The gospel's response differed from mere ceremonial acts, emphasizing the importance of showing judgment, mercy, faith, kindness, and generosity towards others. This highlights the significance of actively living a righteous and compassionate life as a testament to our repentance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.879302871677019,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+            "commentatorTierSimilarities": [
+                36.61,
+                30.84,
+                32.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Deeds of justice and charity manifest as the very first fruits of repentance. The people, urged by John the Baptist, sought to bring forth fruits appropriate to genuine repentance, asking What then shall we do? Their desire was to understand how to embody such a life. The gospel's answer diverged from mere religious rituals, calling them to display not only mercy, faith, and judgment, but also kindness and generosity towards others. Hence, authentic repentance requires actively living a righteous and benevolent existence as proof of transformation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.8604614012007756,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                37.43,
+                27.92,
+                34.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Deeds of justice and charity are the first fruits of repentance. John the Baptist had encouraged the people to produce fruits that reflected their genuine repentance. When they asked, What then shall we do? they were seeking guidance on how to live out their repentance. In response, the gospel emphasized the importance of acts of mercy, faith, judgment, kindness, and generosity towards others. This underscores the significance of actively living a life that exemplifies righteousness and compassion as evidence of true repentance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8773217001913984,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.76,
+            "commentatorTierSimilarities": [
+                36.88,
+                30.04,
+                33.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

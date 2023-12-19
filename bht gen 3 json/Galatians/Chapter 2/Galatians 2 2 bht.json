@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:14:15",
+    "verseRef": "Galatians 2:2",
+    "bestBHT": {
+        "bht": "The anxiety felt by Paul as he consulted James, Peter, and John was understandable, as he sought their confirmation that the Gospel he preached to the Gentiles aligned with theirs. To prevent his work from being in vain, he emphasized that he did not nullify the grace of God like the Judaizers. The decision reached by this group would shape the outcome of the public conference, preserving the progress of Paul's mission and comforting his weaker converts.",
+        "wordCount": 78,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.0137798767521087,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.3,
+        "commentatorTierSimilarities": [
+            38.09,
+            30.72,
+            31.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This feeling of anxiety, leading him to take measures to prevent his work from being tumultuously disowned by them, is surely but natural.",
+            "I do not (as thou [Peter] art doing, and the Judaizers) frustrate (or, make void) the grace of God.",
+            "Christ died without cause (not as A.V., \u2018in vain,\u2019 with reference to the result of His death, but gratuitously, causelessly;\u2014 \u2018Christ need not have died\u2019)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Quite consistent with his at the same time, being a deputy from the Church of Antioch, as :- states.",
+            "It was necessary that the Jerusalem apostles should know beforehand that the Gospel Paul preached to the Gentiles was the same as theirs, and had received divine confirmation in the results it wrought on the Gentile converts.",
+            "His running would have been in vain, had circumcision been necessary, since he did not require it of his converts."
+        ],
+        "Albert Barnes": [
+            "He is careful, therefore, to state that he went up by the express command of God.",
+            "He thus satisfied them in regard to his views of the gospel; and showed them that he understood the system of Christianity which had been revealed.",
+            "When a difficulty is to be settled involving great principles, and embracing a great many points, it is better to seek an opportunity of private explanation than to submit it to a general multitude or to public debate."
+        ],
+        "Marvin Vincent": [
+            "To them which were of reputation (toiv dokousin). Lit. to those who seem; are reputed. Men of recognized position, James, Cephas, John.",
+            "In consulting the Christians at Jerusalem Paul had principally in view the formal indorsement of his work by the church and its leaders.",
+            "The investigation was to be for their satisfaction, not for Paul's."
+        ],
+        "John Calvin": [
+            "This ought to have been more than enough to overcome the obstinacy of those who blamed Paul by holding up the names of the apostles.",
+            "They who preach the gospel by the command of God are not uselessly employed, even when no fruit is produced by their labors.",
+            "If many teachers in our own day were as heartily desirous as Paul was to edify the Church, they would take more pains to be agreed among themselves."
+        ],
+        "Philip Schaff": [
+            "This appointment may have been either prompted or confirmed by the inner revelation.",
+            "The decree was a compromise intended for a special emergency, and not for universal and permanent use.",
+            "The non-recognition of the Gentile churches by the mother church of Jerusalem would have interfered also with the progress of his mission and unsettled many of his weaker converts."
+        ],
+        "Archibald T. Robertson": [
+            "I laid before them the gospel which I preach among the Gentiles.",
+            "So far as we know Paul had not met John before, though he had met Peter and James at the other visit.",
+            "The decision reached by this group would shape the decision of the public conference in the adjourned meeting."
+        ],
+        "John Gill": [
+            "He had a secret impulse from the Spirit of God, and a private intimation given him, that it was the will of God he should go up at this time.",
+            "He did not preach one sort of doctrine to the Gentiles, and another to the Jews; but the very self-same truths...",
+            "His end in it was, as he says, lest by any means I should run, or had run in vain."
+        ],
+        "John Wesley": [
+            "I went up \u2014 Not by any command from them, but by an express revelation from God.",
+            "Lest I should run, or should have run, in vain \u2014 Lest I should lose the fruit either of my present or past labours.",
+            "The word run beautifully expresses the swift progress of the gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Galatians 2:2, the anxiety felt by Paul in preventing his work from being disowned by the Judaizers is completely understandable. Unlike Peter and the Judaizers, Paul does not nullify the grace of God; he affirms that Christ gratuitously died, without cause. Paul's purpose in consulting James, Peter, and John is to ensure that the Gospel he preaches to the Gentiles aligns with theirs, and that the results it produces on the Gentile converts are divinely confirmed. By doing so, he avoids the possibility of his running being in vain, had circumcision been deemed necessary. Ultimately, the decision reached by this group would influence the outcome of the public conference.",
+            "wordCount": 110,
+            "quoteTokenProportion": 32.47,
+            "qualityScore": 1.8236970620437756,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.98,
+            "commentatorTierSimilarities": [
+                41.11,
+                25.62,
+                33.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The anxiety Paul felt in Galatians 2:2 is natural, considering he didn't nullify the grace of God like Peter and the Judaizers, who required circumcision. His purpose in consulting James, Peter, and John was to ensure that his Gentile-focused Gospel aligned with theirs, confirmed by divine results. This prevented his running from being in vain, as circumcision would have rendered his work unnecessary. The decision reached by this group would influence the outcome of the public conference, preserving the progress of his mission and his weaker converts.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.837438718885291,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                38.05,
+                30.64,
+                31.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The anxiety felt by Paul as he consulted James, Peter, and John was understandable, as he sought their confirmation that the Gospel he preached to the Gentiles aligned with theirs. To prevent his work from being in vain, he emphasized that he did not nullify the grace of God like the Judaizers. The decision reached by this group would shape the outcome of the public conference, preserving the progress of Paul's mission and comforting his weaker converts.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0137798767521087,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.3,
+            "commentatorTierSimilarities": [
+                38.09,
+                30.72,
+                31.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's anxiety in Galatians 2:2 is natural, considering his need to prevent his work from being disowned by the Judaizers. Unlike Peter and the Judaizers, he does not make void the grace of God. His intent in consulting James, Peter, and John is to ensure his Gentile-focused Gospel aligns with theirs and to seek their formal endorsement. This would prevent his running from being in vain, as circumcision was not required for his converts. The decision reached by this group would shape the outcome of the public conference, preserving the progress of his mission and comforting his weaker converts.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.8485718731600427,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "commentatorTierSimilarities": [
+                39.62,
+                28.62,
+                31.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's anxiety in Galatians 2:2 is natural, as he seeks to prevent his work from being disowned by the Judaizers. Unlike Peter and the Judaizers, he does not nullify the grace of God. By consulting James, Peter, and John, he ensures that his Gentile-focused Gospel aligns with theirs and seeks their formal endorsement. This prevents his running from being in vain, as circumcision is not necessary for his converts. Ultimately, the decision reached by this group shapes the outcome of the public conference, preserving the progress of his mission and reassuring his weaker converts.",
+            "wordCount": 95,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.7992502238055366,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.17,
+            "commentatorTierSimilarities": [
+                39.91,
+                29.64,
+                30.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

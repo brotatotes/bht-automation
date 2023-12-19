@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:14:57",
+    "verseRef": "Luke 4:35",
+    "bestBHT": {
+        "bht": "When Jesus encountered the possessed man, the evil spirits exhibited their power through convulsions and fits. However, Jesus, a physician, carefully noted the absence of bodily harm inflicted on the man. By commanding the spirits to be muzzled, Jesus showcased His authority over them. His ability to subdue the forces of darkness without causing physical injury reveals not only His power but also His compassion for those who suffer under the influence of evil.",
+        "wordCount": 74,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.3096346569690995,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.89,
+        "commentatorTierSimilarities": [
+            56.82,
+            0.0,
+            43.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "35.] hurt him not is here only. St. Mark\u2019s expression, rendered \u201ctorn,\u201d may mean \u2018having convulsed him\u2019\u2014and our text, \u2018without doing him bodily injury.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "35. rebuked them, &amp;c.\u2014(See",
+            "\ton Luke 4:41). ",
+            "\t",
+            "thrown him, &amp;c.\u2014See",
+            "\ton Luke 4:41- :."
+        ],
+        "Marvin Vincent": [
+            "Hold thy peace [\u03c6\u03b9\u03bc\u03c9\u03b8\u03b7\u03c4\u03b9] . Lit., be muzzled or gagged.\" ",
+            "Had thrown [\u03c1\u03b9\u03c8\u03b1\u03bd] . Used in connection with disease by Luke only, and only here. In medical language, of convulsions, fits, etc.\" ",
+            "Hurt him not [\u03bc\u03b7\u03b4\u03b5\u03bd \u03b2\u03bb\u03b1\u03c8\u03b1\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd] . Lit., in no possible way."
+        ],
+        "Archibald T. Robertson": [
+            "First aorist (effective) participle of \u03c1\u03b9\u03c0\u03c4\u03c9, an old verb with violent meaning, to fling, throw, hurl off or down.",
+            "Luke as a physician carefully notes this important detail not in Mark.",
+            "\u0392\u03bb\u03b1\u03c0\u03c4\u03c9, to injure, or hurt, occurs in the N.T. only here and in Mark 16:18, though a very common verb in the old Greek."
+        ],
+        "John Gill": [
+            "Saying, hold thy peace, or 'be thou muzzled', as the word signifies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus encountered the demon-possessed man, the power of the evil spirits was strong, causing convulsions and fits. However, Jesus rebuked them and commanded them to be muzzled, without causing any bodily harm to the man. Luke, being a physician, attentively notes this detail. The verb thrown emphasizes the violent nature of the convulsions, highlighting the supernatural aspect of the situation. This episode showcases Jesus' authority and power over evil forces, as He commanded the demons to be silent and subdued.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.349063351570027,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.2,
+            "commentatorTierSimilarities": [
+                49.94,
+                0.0,
+                50.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When faced with a man possessed by evil spirits, Jesus demonstrated His authority and power by commanding the spirits to be muzzled. Luke, being a physician, carefully noted that the man experienced convulsions and fits, emphasizing the forcefulness of the supernatural encounter. Jesus's command to hold thy peace showcased His ability to subdue and control the spiritual forces at work without causing any harm to the man. This event highlights Jesus's divine authority over evil and reveals His compassion for those who are oppressed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3304811962679954,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.58,
+            "commentatorTierSimilarities": [
+                39.56,
+                0.0,
+                60.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus encountered the possessed man, the evil spirits exhibited their power through convulsions and fits. However, Jesus, a physician, took note of the absence of bodily harm inflicted on the man. By commanding the spirits to be muzzled, Jesus showed His authority over them. His ability to subdue the forces of darkness without causing physical injury reveals not only His power but also His compassion for those who suffer under the influence of evil.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.305051041910123,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.74,
+            "commentatorTierSimilarities": [
+                57.19,
+                0.0,
+                42.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus encountered the possessed man, the evil spirits exhibited their power through convulsions and fits. However, Jesus, a physician, carefully noted the absence of bodily harm inflicted on the man. By commanding the spirits to be muzzled, Jesus showcased His authority over them. His ability to subdue the forces of darkness without causing physical injury reveals not only His power but also His compassion for those who suffer under the influence of evil.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3096346569690995,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.89,
+            "commentatorTierSimilarities": [
+                56.82,
+                0.0,
+                43.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When faced with the possessed man, Jesus demonstrated His authority by commanding the evil spirits to be muzzled. Luke, being a physician, clearly observed that the man experienced convulsions and fits, underscoring the intensity of the supernatural encounter. Jesus\u2019s instruction to hold thy peace showcased His power to subdue the spiritual forces at work without causing harm. This incident highlights Jesus's divine dominion over evil and reflects His compassion for those oppressed.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.346147300245603,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.1,
+            "commentatorTierSimilarities": [
+                41.0,
+                0.0,
+                59.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:28:48",
+    "verseRef": "Acts 9:25",
+    "bestBHT": {
+        "bht": "In a precarious situation during Saul's first visit to Jerusalem after his conversion, the disciples lower him down through a window in the wall, possibly using a basket. This method of escape was common in the East where such windows are seen in Damascus even today. Saul's safety was paramount, and the disciples were guided by divine providence to ensure his preservation. This event reminds us that it is lawful and prudent to use suitable means to escape danger and protect one's life.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.6834112440548954,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+        "commentatorTierSimilarities": [
+            29.37,
+            33.12,
+            37.5
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Further particularized by the addition of 'through a window.'\" ",
+            "Such windows in the walls of cities are common in the East.",
+            "In a basket."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Such overhanging windows in the walls of Eastern cities were common, and are to be seen in Damascus to this day.",
+            "SAUL'S FIRST VISIT TO JERUSALEM AFTER HIS CONVERSION.",
+            "Through a window."
+        ],
+        "Albert Barnes": [
+            "Took him by night ... - This was done through a window in the wall.\" ",
+            "In a basket - This word is used to denote commonly 'the basket in which food was carried.'",
+            "Saul was certain of death if he remained; and as he could secure his life by flight without abandoning any principle of religion, or denying his Lord, it was his duty to do so."
+        ],
+        "Marvin Vincent": [
+            "By the wall [\u03b4\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03c4\u03b5\u03b9\u03c7\u03bf\u03c5\u03c2] . Rev., more accurately, through the wall...",
+            "Either through the window of a house overhanging the wall, or through a window in the wall itself opening to houses on its inner side.",
+            "In Paul's account of this adventure he uses sarganh, a plaited or braided basket of wicker - work; or, as some think, of ropes."
+        ],
+        "John Calvin": [
+            "Therefore, it was no less lawful for the faithful to be let down in a basket than it shall be lawful for any private person to leap over a wall, that he may avoid the sudden invasion of the enemy.",
+            "Nevertheless, we see how the Lord useth to humble those that be his, seeing that Paul is enforced to steal his life from the watchmen of the city if he will save himself.",
+            "He was acquainted betime with the cross with this first exercise."
+        ],
+        "Archibald T. Robertson": [
+            "Paul in 2 Corinthians 11:33 explains \u03b4\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03c4\u03b5\u03b9\u03c7\u03bf\u03c5\u03c2 as being \u03b4\u03b9\u03b1 \u03b8\u03c5\u03c1\u03b9\u03b4\u03bf\u03c2 (through a window) which opened into the house on the inside of the wall as is true today in Damascus as Hackett saw there.",
+            "Lowering him (\u03b1\u03c5\u03c4\u03bf\u03bd \u03c7\u03b1\u03bb\u03b1\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2). First aorist active participle of \u03c7\u03b1\u03bb\u03b1\u03c9, old and common verb in a nautical sense (Acts 27:17; Acts 27:30) as well as otherwise as here.",
+            "In a basket (\u03b5\u03bd \u03c3\u03c6\u03c5\u03c1\u03b9\u03b4). The word used when the four thousand were fed (Mark 8:8; Matthew 15:37)."
+        ],
+        "John Gill": [
+            "The disciples took him by night... and let him down by the wall in a basket.\" (23 words)",
+            "The disciples were directed by the overruling providence of God... to preserve the life of the apostle.\" (24 words)",
+            "It is lawful to make use of all prudent means and proper methods to prevent the designs of wicked men, and escape out of their hands, and preserve life when in danger.\" (30 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 9:25, we see Saul's first visit to Jerusalem after his conversion, and he finds himself in a precarious situation. Knowing that his life is at stake, the disciples lower him down through a window in the wall, likely in a basket. This method of escape was not uncommon in the East, as such overhanging windows in city walls were common. Saul's safety was of utmost importance, and the disciples were guided by the providence of God to preserve his life. This event reminds us that it is lawful and wise to use all prudent means to escape danger and preserve life.",
+            "wordCount": 104,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.6441523885591254,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                28.33,
+                31.96,
+                39.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Saul's first visit to Jerusalem after his conversion led to a life-threatening situation. The disciples took him by night and let him down by the wall in a basket. This method of escape through a window in the city wall was common in the East. The disciples were guided by divine providence to ensure the safety of the apostle's life. This event teaches us that it is lawful and prudent to use suitable means to escape danger and preserve life.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6626425340680835,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                27.04,
+                33.53,
+                39.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Saul's first visit to Jerusalem after his conversion, he found himself in a perilous situation. The disciples, aware of the threat to his life, lowered him down through a window in the wall, possibly in a basket. This method of escape was common in the East, where overhanging windows in city walls are still seen today. Saul's safety was of utmost importance, and the disciples were guided by divine providence to preserve his life. This account highlights the importance of using prudent means to evade danger and protect life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.6243033860165013,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                28.6,
+                33.01,
+                38.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a precarious situation during Saul's first visit to Jerusalem after his conversion, the disciples lower him down through a window in the wall, possibly using a basket. This method of escape was common in the East where such windows are seen in Damascus even today. Saul's safety was paramount, and the disciples were guided by divine providence to ensure his preservation. This event reminds us that it is lawful and prudent to use suitable means to escape danger and protect one's life.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.6834112440548954,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                29.37,
+                33.12,
+                37.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 9:25, Saul's first visit to Jerusalem after his conversion proved to be a dangerous situation. To protect him, the disciples took him by night and let him down through a window in the city wall, possibly using a basket. This method of escape through a window was common in the East. It is a reminder that it is lawful and wise to use all prudent means to avoid danger and safeguard one's life. God's providence was evident in guiding the disciples to preserve Saul's life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6498693174847072,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.2,
+            "commentatorTierSimilarities": [
+                26.3,
+                34.17,
+                39.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

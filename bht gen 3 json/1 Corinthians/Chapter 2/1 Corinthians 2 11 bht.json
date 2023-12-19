@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:00:27",
+    "verseRef": "1 Corinthians 2:11",
+    "bestBHT": {
+        "bht": "Only the spirit of a man truly knows the thoughts and intentions of that man, just as only the Spirit of God knows the things of God. This emphasizes the impossibility of anyone, whether human or angelic, having knowledge of God apart from the Spirit of God. The highest point of contact with the Spirit of God lies within the spirit of man, which distinguishes the personal Holy Spirit in his relation to God the Father. Through the testimony of the Holy Spirit, we can gain a solid assurance and understanding of the hidden wisdom and truths of God.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.8475685584188737,
+        "qualityScoreNormalizedComparedToV2BHTs": 86.02,
+        "commentatorTierSimilarities": [
+            33.76,
+            37.77,
+            28.46
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For who among MEN knoweth the things of a MAN, except the spirit of a man which is in him? So also the things of God knoweth none, save only the Spirit of God.",
+            "He is speaking of the impossibility of any but the Spirit of God conferring a knowledge of the things of God.",
+            "In such comparisons as these especially, we must bear in mind the constant habit of our Apostle, to contemplate the thing adduced, for the time, only with regard to that one point for which he adduces it, to the disregard of all other considerations."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Who of men knoweth the things of a man, save the spirit of that man?",
+            "None knoweth, not angel or man.",
+            "This proves the impossibility of any knowing the things of God, save by the Spirit of God."
+        ],
+        "Albert Barnes": [
+            "No man can know another; that his thoughts and designs can only be known by himself, or by his own spirit; and that unless he chooses to reveal them to others, they cannot ascertain them.",
+            "The passage proves, therefore, that there is a knowledge which the Spirit has of God, which no man, no angel can obtain, just as every man\u2019s spirit has a knowledge of his own plans which no other man can obtain.",
+            "The union, the oneness of the Spirit of God with God, is no more absurd or inexplicable than the union of the spirit of man with the man; or the oneness of the complex person made up of body and soul, which we call man."
+        ],
+        "Marvin Vincent": [
+            "The things of God can be recognized only by the highest element of the human personality.\" ",
+            "They have not entered into the heart, but into the spirit, which is the highest and principal point of contact with the Spirit of God.",
+            "The spirit is the highest and principal point of contact with the Spirit of God."
+        ],
+        "John Calvin": [
+            "The doctrine of the Gospel cannot be understood otherwise than by the testimony of the Holy Spirit.",
+            "Those who have a testimony of this nature from the Holy Spirit have an assurance as firm and solid, as if they felt with their hands what they believe.",
+            "The word of God is a kind of hidden wisdom, the loftiness of which is not reached by the weakness of the human intellect."
+        ],
+        "Philip Schaff": [
+            "For who among men knoweth the things of a man save the spirit of the man which is in him? even so the things of God none knoweth save the Spirit of God.\" ",
+            "The relation of \u2018the Spirit\u2019 to \u2018God\u2019 is here compared to that of a man to his own spirit.",
+            "But like every other comparison, this one must not be pressed beyond its immediate purpose: for in the case of ourselves, we and our own spirit are numerically one; whereas in this very passage and in every other place where the Holy Spirit is spoken of there is observed a distinction of conscious personality between \u2018God\u2019 on the one hand and the \u2018Spirit of God\u2019 on the other."
+        ],
+        "Archibald T. Robertson": [
+            "The self-consciousness of man that resides in the man or woman.",
+            "It is not the mere self-consciousness of God, but the personal Holy Spirit in his relation to God the Father.",
+            "God's Holy Spirit is amply qualified to make the revelation claimed here in verses 1 Corinthians 2:6-10."
+        ],
+        "John Gill": [
+            "These can never be known by another man, no, nor by angels or devils; not by any creature.\" ",
+            "It gives full evidence to the deity of the Holy Ghost, and clearly shows he must be God.",
+            "Who is in him, knows the thoughts of his heart, the counsels of his mind, his purposes and decrees, and what is contained in them."
+        ],
+        "John Wesley": [
+            "For what man knoweth the things of a man...although men are all of one nature, and so may the more easily know one another.\" ",
+            "So the things of God knoweth no one but the Spirit...Who, consequently, is God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Only the spirit of a man truly knows the thoughts and intentions of that man, just as only the Spirit of God knows the things of God. This emphasizes the impossibility of anyone, whether human or angelic, having knowledge of God's thoughts and ways apart from the Spirit of God. The spirit is the highest point of contact with the Spirit of God, and it is through the Holy Spirit that the hidden wisdom and truths of God can be revealed to us. Therefore, the testimony of the Holy Spirit is essential for understanding the deep truths of the Gospel and recognizing the deity of the Holy Spirit.",
+            "wordCount": 109,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.8114270783586033,
+            "qualityScoreNormalizedComparedToV2BHTs": 84.82,
+            "commentatorTierSimilarities": [
+                32.9,
+                37.56,
+                29.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No one can truly understand the thoughts and intentions of another person except for their own spirit, just as only the Spirit of God knows the things of God. This implies that it is impossible for anyone, not even angels or humans, to grasp the knowledge of God without the guidance of the Spirit. The spirit serves as the highest and most crucial connection with the Spirit of God, enabling the revelation of God's hidden wisdom and profound truths. The testimony of the Holy Spirit is vital in comprehending the Gospel's doctrine and affirming the divine nature of the Holy Spirit.",
+            "wordCount": 103,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.6954864980805233,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.96,
+            "commentatorTierSimilarities": [
+                31.6,
+                38.36,
+                30.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Only the spirit of a man truly knows the thoughts and intentions of that man, just as only the Spirit of God knows the things of God. This emphasizes the impossibility of anyone, whether human or angelic, having knowledge of God apart from the Spirit of God. The highest point of contact with the Spirit of God lies within the spirit of man, which distinguishes the personal Holy Spirit in his relation to God the Father. Through the testimony of the Holy Spirit, we can gain a solid assurance and understanding of the hidden wisdom and truths of God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.8475685584188737,
+            "qualityScoreNormalizedComparedToV2BHTs": 86.02,
+            "commentatorTierSimilarities": [
+                33.76,
+                37.77,
+                28.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The knowledge of a man can only be known by his own spirit, just as the things of God can only be understood by the Spirit of God. This highlights the impossibility of anyone, including angels or humans, comprehending the things of God without the guidance of the Spirit. The spirit serves as the highest point of contact with the Spirit of God, allowing for the revelation of God's wisdom and truth. Through the testimony of the Holy Spirit, believers can have a firm assurance of God's existence and guidance.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.756204887915258,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.98,
+            "commentatorTierSimilarities": [
+                33.39,
+                37.64,
+                28.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Just as only the spirit of a man truly knows his thoughts, the things of God can only be understood by the Spirit of God. This illustrates the impossibility of anyone, whether human or angelic, having knowledge of God's ways without the Spirit's revelation. The spirit serves as the highest point of contact with the Spirit of God, enabling the recognition of God's hidden wisdom and truths. Therefore, relying on the testimony of the Holy Spirit is essential for grasping the depths of the Gospel and affirming the deity of the Holy Spirit.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.733401855067382,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.22,
+            "commentatorTierSimilarities": [
+                33.18,
+                37.34,
+                29.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

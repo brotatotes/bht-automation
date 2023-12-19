@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:31:09",
+    "verseRef": "2 Timothy 3:10",
+    "bestBHT": {
+        "bht": "Timothy's mother and grandmother guided him to study Paul's Christian course as a pattern. Paul's purpose in his apostolic function was the glory of God in Christ, not personal gain. He exhibited patient continuance in well-doing despite adversities, with a conduct aligned with the divine purpose. With his long-suffering, charity, and patience, Paul embodied the qualities of a good teacher. Timothy was encouraged to follow Paul's instructions, holding onto his faith, love, and patience, and to emulate Paul's devoted and impactful life.",
+        "wordCount": 89,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.798396634675241,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+        "commentatorTierSimilarities": [
+            31.7,
+            36.37,
+            31.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "His pious mother Eunice and grandmother Lois would recommend him to study fully Paul's Christian course as a pattern.",
+            "My set aim, or resolution, in my apostolic function, and in every action is, not my selfish gain, but the glory of God in Christ.",
+            "Patient continuance in well-doing amidst adversities."
+        ],
+        "Albert Barnes": [
+            "Timothy had an opportunity to follow out; i.e., to examine closely the manner of life of the apostle Paul.",
+            "He sought to prepare the mind of Timothy for the proper endurance of trials, by a reference to his own case.",
+            "Patience - 'A calm temper, which suffers evils without murmuring or discontent.'"
+        ],
+        "Marvin Vincent": [
+            "Manner of life [\u03b1\u03b3\u03c9\u03b3\u03b7] . Or conduct.",
+            "Purpose [\u03c0\u03c1\u03bf\u03b8\u03b5\u03c3\u03b5\u03b9] . See on Acts 11:23; Romans 9:11. In Paul, only of the divine purpose.",
+            "Long - suffering, charity, patience. For long - suffering, see on James 5:7. For charity rend love, and see on Galatians 5:22. For patience, see on 2 Peter 1:6; James 5:7."
+        ],
+        "John Calvin": [
+            "Nor does he speak of doctrine only; for those things which he likewise enumerates add much weight, and he gives to us, in this sentence, a very lively picture of a good teacher.",
+            "Thou hast been long accustomed to follow my instructions; I ask nothing more than that thou shouldst go on as thou hast begun.",
+            "It is his wish, however; that the example of his 'faith, love, and patience' should be constantly before the eyes of Timothy; and for that reason he dwells chiefly on his persecutions, which were best known to him."
+        ],
+        "Philip Schaff": [
+            "Thou didst follow... It half suggests, too, what the English perfect almost excludes, that the apostle was looking on what he speaks of as belonging to a vanished past.\" ",
+            "Doctrine. \u2018Teaching\u2019 in its widest sense.",
+            "Purpose. Here only used by St. Paul of himself, elsewhere of the Divine purpose."
+        ],
+        "Archibald T. Robertson": [
+            "Nine associative-instrumental cases here after the verb.",
+            "The two last items belong to verse 2 Timothy 3:11.",
+            "First aorist active indicative of \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03c9, for which see 1 Timothy 4:6."
+        ],
+        "John Gill": [
+            "His life was agreeable to his doctrine, and ornamental to his profession.",
+            "And as the doctrine of faith, embraced, professed, and preached by him, was well known, so no less conspicuous was the grace of faith in him.",
+            "And also for the success of the Gospel as the husbandman has long patience, and waits long for the former and latter rain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see that Timothy's mother and grandmother were instrumental in guiding him to follow the example of the apostle Paul. Paul had a deep devotion to God and always sought to glorify Him in everything he did. He displayed a remarkable patience and endurance in the face of adversity, which served as an inspiration to Timothy. Paul's purpose was not for personal gain, but for the fulfillment of God's divine plan. His conduct and teachings were in perfect alignment, and his life was a testament to the power of faith, love, and patience. Timothy was encouraged to continue on this path, knowing that Paul's teachings and example would guide him in his own ministry.",
+            "wordCount": 121,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.7020048432152368,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+            "commentatorTierSimilarities": [
+                26.75,
+                37.75,
+                35.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Timothy's mother and grandmother urged him to follow Paul's example, recognizing his commitment to glorifying God and his patient endurance in the face of challenges. Paul's purpose was not for personal gain, but to fulfill God's divine plan. His conduct and teachings were in perfect harmony, showcasing the power of faith, love, and patience. Timothy was encouraged to continue on this path, knowing that Paul's teachings and example would guide him in his own ministry, as he sought to emulate Paul's devoted and impactful life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7244661004070523,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.68,
+            "commentatorTierSimilarities": [
+                29.69,
+                36.85,
+                33.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Timothy was encouraged by his mother and grandmother to follow the pattern of Paul's Christian course. Paul's purpose was centered on the glory of God in Christ, and he exemplified patient continuance in well-doing amidst adversities. His manner of life and teachings were in perfect alignment with the divine purpose. Through his long-suffering, charity, and patience, Paul demonstrated the qualities of a good teacher. Timothy was urged to continue following the instructions he had received, keeping Paul's faith, love, and patience as a constant example before him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.7789617918273803,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.49,
+            "commentatorTierSimilarities": [
+                29.63,
+                36.08,
+                34.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Timothy's pious mother and grandmother recommended that he closely study Paul's Christian course as a pattern. Paul's set aim in his apostolic function was the glory of God in Christ, not selfish gain. He exemplified patient continuance in well-doing amidst adversities, with a manner of life that aligned with the divine purpose. Through long-suffering, charity, and patience, Paul displayed the qualities of a good teacher. Timothy was encouraged to follow the instructions he had received and continue in the faith, love, and patience of Paul.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.7913989532298564,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.91,
+            "commentatorTierSimilarities": [
+                32.09,
+                35.26,
+                32.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Timothy's mother and grandmother guided him to study Paul's Christian course as a pattern. Paul's purpose in his apostolic function was the glory of God in Christ, not personal gain. He exhibited patient continuance in well-doing despite adversities, with a conduct aligned with the divine purpose. With his long-suffering, charity, and patience, Paul embodied the qualities of a good teacher. Timothy was encouraged to follow Paul's instructions, holding onto his faith, love, and patience, and to emulate Paul's devoted and impactful life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.798396634675241,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                31.7,
+                36.37,
+                31.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

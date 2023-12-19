@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:21:07",
+    "verseRef": "Luke 17:22",
+    "bestBHT": {
+        "bht": "During His presence, the Son of Man brought joy and comfort to His followers, but He warned that there would come a time when they would yearn for His return. In the face of calamities and the rise of deceivers, they would anxiously seek a deliverer. Instead of expecting better times, they would look back and long for the former days and the communion they enjoyed with Christ. Ultimately, they would desire one of those days of mercy, fervently wishing for His presence once more.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.8461396132757857,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+        "commentatorTierSimilarities": [
+            31.76,
+            30.33,
+            37.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is among you, who is the Bridegroom,\u2014the Son of Man;\u2014during whose presence ye cannot mourn.",
+            "When He shall be taken from you, you shall wish in vain for one of these days of His presence.",
+            "You shall wish in vain for one of these days of His presence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Days...when, amidst calamities, you will anxiously look for a deliverer, and deceivers will put themselves forward in this character.",
+            "Himself again among them but for one day as we say when all seems to be going wrong and the one person who could keep them right is removed.",
+            "This is said to guard against the mistake of supposing that His visible presence would accompany the manifestation and establishment of His kingdom."
+        ],
+        "Albert Barnes": [
+            "Heavy calamities will befall the Jewish people, and you will desire a deliverer.",
+            "Such will be the calamities of those times, so great will be the afflictions and persecutions, that you will greatly desire 'a deliverer'.",
+            "In view of this, he takes occasion to caution them against being led astray by them."
+        ],
+        "Philip Schaff": [
+            "The one subject is the Lord\u2019s future coming, the sudden personal appearance of the Son of man.",
+            "The disciples might have inferred, as they were wont to do, that our Lord would now establish a temporal kingdom on earth, but he discourages such false hopes.",
+            "They might also long for the former days, for such intercourse with him as they were now enjoying."
+        ],
+        "John Gill": [
+            "Instead of looking forward for happy days, in a temporal sense, they would look back upon the days they have enjoyed with Christ, when he was in person among them, and wish they had one of those days again.\" ",
+            "By these words Christ would have them to understand, that they were not to expect better times, but worse, and that they would be glad of one of the days they now had, and in vain wish for it.\" ",
+            "Sometimes so violent has been the persecution of the saints, that they have not been able, for a long time, to enjoy one of those days openly, and with freedom, though greatly desired by them; which may be considered as a fulfilment, at least in part, of this prediction of our Lord's."
+        ],
+        "John Wesley": [
+            "Ye shall desire to see one of the days of the Son of man \u2014 One day of mercy. or one day wherein you might converse with me, as you do now."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During His presence, the Son of Man brought joy and comfort to His followers, but He warned that there would come a time when they would yearn for His return. In the face of calamities and the rise of deceivers, they would anxiously seek a deliverer. Yet, Jesus cautioned against false hopes of a visible presence accompanying His kingdom. Instead, as heavy calamities befell the Jewish people, they would desire a deliverer, longing for the former days and the communion they enjoyed with Christ. Ultimately, they would long for one of those days of mercy when they could openly and freely experience His presence again.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.8399159679200927,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                33.95,
+                31.66,
+                34.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During His presence, the Son of Man brought joy and comfort to His followers, but He warned that there would come a time when they would yearn for His return. In the face of calamities and the rise of deceivers, they would anxiously seek a deliverer. Yet, Jesus cautioned against false hopes of a visible presence accompanying His kingdom. Instead, as calamities befell the Jewish people, they would desire a deliverer, longing for the former days and the communion they enjoyed with Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.806141081105968,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                35.23,
+                32.68,
+                32.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During His presence, the Son of Man brought joy and comfort to His followers, but He warned that there would come a time when they would yearn for His return. In the face of calamities and the rise of deceivers, they would anxiously seek a deliverer. Instead of expecting better times, they would look back and long for the former days and the communion they enjoyed with Christ. Ultimately, they would desire one of those days of mercy, fervently wishing for His presence once more.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8461396132757857,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "commentatorTierSimilarities": [
+                31.76,
+                30.33,
+                37.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During His presence, the Son of Man provided comfort and guidance to His followers. However, He cautioned that a time would come when they would yearn for His return. Faced with calamities and the emergence of deceivers, they would eagerly seek a deliverer. Jesus warned against false hopes of His visible presence accompanying the establishment of His kingdom. Instead, as the Jewish people experienced heavy calamities, they would long for the former days and the intimate communion they shared with Christ. They would fervently desire one of those days of mercy, longing for His presence once again.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.73905622388031,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                35.11,
+                33.51,
+                31.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son of Man, the Bridegroom, brought a period of joy and respite for His followers. However, He foretold a future when they would yearn for His presence once again. In the midst of calamities and the rise of deceivers, they would anxiously seek a deliverer. Jesus cautioned against false hopes of His visible presence accompanying the establishment of His kingdom. Instead, as the Jewish people faced heavy calamities, they would long for the former days and the deep connection they shared with Christ, fervently desiring His presence once more.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.7398063993028465,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "commentatorTierSimilarities": [
+                35.97,
+                34.67,
+                29.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

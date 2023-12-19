@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:16:44",
+    "verseRef": "Luke 8:32",
+    "bestBHT": {
+        "bht": "In this account, there is a large herd of swine on a mountain where the evil spirits requested Jesus's permission to enter them. It is interesting to note that the term herd is seen only in the New Testament and parallels the works of Homer. However, the presence of the spirits in the swine did not bring them any ease, as they soon went on to destroy the entire herd. This episode demonstrates Jesus's authority over evil spirits and highlights their inevitable destruction, regardless of their dwelling place.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.224574673052917,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.06,
+        "commentatorTierSimilarities": [
+            51.41,
+            0.0,
+            48.59
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Word herd (\u03b1\u03b3\u03b5\u03bb\u03b7) old as Homer, but in N.T. only here and parallels (Mark 5:11; Matthew 8:30).",
+            "Luke shows his fondness for adjective \u03b9\u03ba\u03b1\u03bd\u03bf\u03c2 here again (see verse Luke 8:27) where Mark has \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7 and Matthew \u03c0\u03bf\u03bb\u03bb\u03c9\u03bd."
+        ],
+        "John Gill": [
+            "And there was there an herd of many swine.\" ",
+            "Feeding on the mountain.\" ",
+            "And they besought him that he would suffer them to enter into them; which they could not do, without his leave: and he suffered them."
+        ],
+        "John Wesley": [
+            "To enter into the swine \u2014 Not that they were any easier in the swine than out of them.",
+            "Had it been so, they would not so soon have dislodged themselves, by destroying the herd."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, there is a herd of many swine present, illustrating Luke's fondness for the adjective \u03b9\u03ba\u03b1\u03bd\u03bf\u03c2 which describes a large number. The word herd is a rare term used only in the New Testament and is reminiscent of Homer's writings. The swine are feeding on a mountain, and the evil spirits possessing the man beseeched Jesus to allow them to enter the swine. However, it is noted that entering the swine did not provide any relief for the spirits, as they ultimately destroyed the entire herd. This passage highlights the power of Jesus over evil spirits and shows that their ultimate destruction was inevitable, regardless of their presence in the swine.",
+            "wordCount": 115,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.3668311892777685,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.79,
+            "commentatorTierSimilarities": [
+                57.2,
+                0.0,
+                42.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, a large herd of swine is being fed on a mountain where evil spirits beseeched Jesus to enter them. Interestingly, this term herd is only used in the New Testament and is reminiscent of Homer's works. The presence of the spirits in the swine did not alleviate their distress, as they proceeded to destroy the entire herd. It serves as a powerful demonstration of Jesus's authority over evil spirits and emphasizes that their destruction was inevitable regardless of their dwelling place.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.133282391631812,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.03,
+            "commentatorTierSimilarities": [
+                47.68,
+                0.0,
+                52.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, there is a large herd of swine on a mountain where the evil spirits requested Jesus's permission to enter them. It is interesting to note that the term herd is seen only in the New Testament and parallels the works of Homer. However, the presence of the spirits in the swine did not bring them any ease, as they soon went on to destroy the entire herd. This episode demonstrates Jesus's authority over evil spirits and highlights their inevitable destruction, regardless of their dwelling place.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.224574673052917,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.06,
+            "commentatorTierSimilarities": [
+                51.41,
+                0.0,
+                48.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, a large herd of swine is present on a mountain, where the evil spirits request permission from Jesus to enter them. The use of the term herd is unique to the New Testament, resembling the style of Homer. However, the evil spirits find no relief by entering the swine, ultimately leading to the destruction of the entire herd. This event showcases Jesus's authority over evil spirits and serves as a reminder of their inevitable demise, regardless of their dwelling place.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.0594580869531256,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.57,
+            "commentatorTierSimilarities": [
+                52.86,
+                0.0,
+                47.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, there is a large herd of swine found on a mountain where the evil spirits request permission from Jesus to enter them. Interestingly, the term herd is exclusively used in the New Testament, similar to the works of Homer. However, the spirits' entry into the swine does not alleviate their torment, resulting in the complete destruction of the entire herd. This incident illustrates Jesus's authority over evil spirits and underscores their inevitable ruin, regardless of their chosen habitation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.1360266612816432,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.12,
+            "commentatorTierSimilarities": [
+                53.81,
+                0.0,
+                46.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

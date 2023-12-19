@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:25:20",
+    "verseRef": "Acts 3:3",
+    "bestBHT": {
+        "bht": "As Peter and John, already associated by their Master, were going up, a young man, silently acting, saw this as an opportunity. He asked them for an alms, something freely given to him by God. Though strangers, he concluded that they were Israelites by their entrance into the temple, and prayed them to give him something for his relief and support, as he was accustomed to doing with the multitude.",
+        "wordCount": 70,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.4849267725032622,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.72,
+        "commentatorTierSimilarities": [
+            29.24,
+            29.97,
+            40.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Peter and John\u2014already associated by their Master, first with James... Now we find them constantly together...\" ",
+            "John (yet young) only as a silent actor.\" ",
+            "went up\u2014were going up, were on their way."
+        ],
+        "Albert Barnes": [
+            "There is no evidence that he was acquainted with them or knew who they were.",
+            "He asked of them as he was accustomed to do of the multitude that entered the temple."
+        ],
+        "John Calvin": [
+            "That is given him which he durst never have asked.",
+            "God doth oftentimes prevent us, neither doth he stay until he be provoked.",
+            "The Lord bringeth the same freely and unlooked for."
+        ],
+        "Philip Schaff": [
+            "Acts 3:3. Asked an alms. Meyer, quoting from Vajikra Rabbi, f. Acts 20:3-4, gives us some Jewish forms of begging: \u2018Merere in me,\u2019 \u2018In me benefac tibi,\u2019 etc.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Asked (\u03b7\u03c1\u03c9\u03c4\u03b1). Began to ask, inchoative imperfect. It was his chance. "
+        ],
+        "John Gill": [
+            "Just as they were entering through the gate at which he lay, he looked at them; and though they were strangers to him, he concluded they were Israelites by their going into the temple at that time.",
+            "Prayed them to give him something for his relief and support.",
+            "Asked an alms; of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter and John, who were constantly together, were on their way to the temple when a man, who was accustomed to asking for alms, saw them and asked them for help. Despite the fact that he didn't know them, he looked at them and concluded that they were Israelites. It is remarkable that he had the audacity to ask for help, and even more remarkable that God provided for him when he least expected it.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.4760641870785567,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.42,
+            "commentatorTierSimilarities": [
+                30.3,
+                35.33,
+                34.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter and John, already associated by their Master, were on their way to the temple when a man approached them and began to ask for alms. Although he did not know them, he perceived that they were Israelites. It is astonishing that he had the audacity to request help, and even more astonishing that God graciously provided for him when he least expected it.",
+            "wordCount": 64,
+            "quoteTokenProportion": 53.19,
+            "qualityScore": 1.4781826251523356,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.49,
+            "commentatorTierSimilarities": [
+                32.46,
+                32.43,
+                35.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Peter and John, who were constantly associated by their master, went up and were on their way, a young man who was a silent actor in their company saw this as his chance. He asked them for an alms, which was something given to him freely and unlooked for by God. Though they were strangers to him, he concluded they were Israelites by their going into the temple at that time and prayed them to give him something for his relief and support, just as he was accustomed to do with the multitude that entered the temple.",
+            "wordCount": 98,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.557695013879984,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                29.02,
+                33.63,
+                37.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Peter and John, already associated by their Master, were going up, a young man, silently acting, saw this as his chance. He asked them for an alms, something freely given to him by God. Though strangers to him, he concluded they were Israelites by their entrance into the temple, and prayed them to give him something for his relief and support, as he was accustomed to doing with the multitude.",
+            "wordCount": 71,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 1.5253259447706902,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.06,
+            "commentatorTierSimilarities": [
+                30.67,
+                28.96,
+                40.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Peter and John, already associated by their Master, were going up, a young man, silently acting, saw this as an opportunity. He asked them for an alms, something freely given to him by God. Though strangers, he concluded that they were Israelites by their entrance into the temple, and prayed them to give him something for his relief and support, as he was accustomed to doing with the multitude.",
+            "wordCount": 70,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4849267725032622,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.72,
+            "commentatorTierSimilarities": [
+                29.24,
+                29.97,
+                40.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

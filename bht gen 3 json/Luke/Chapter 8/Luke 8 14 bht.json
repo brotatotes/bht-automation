@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:16:29",
+    "verseRef": "Luke 8:14",
+    "bestBHT": {
+        "bht": "Those who have heard the word but allow the cares, riches, and pleasures of this life to consume them will find themselves choked, as if by diphtheria. This choking both strangles and hinders them from bringing their lives to full fruition. Just as a plant cannot bring its fruit to completion when choked by thorns, these hearers are hindered from bringing their lives to full fruition.",
+        "wordCount": 66,
+        "quoteTokenProportion": 52.0,
+        "qualityScore": 1.6817221071813386,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+        "commentatorTierSimilarities": [
+            34.89,
+            0.0,
+            65.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14.] this life belongs to all three substantives."
+        ],
+        "Marvin Vincent": [
+            "They that have heard, and as they go on their way are choked.",
+            "Implying the impulse under which they pursue their course.",
+            "The verb literally means to bring to an end or accomplishment."
+        ],
+        "Archibald T. Robertson": [
+            "They are choked. Both are true. Diphtheria will choke and strangle the victim.\" ",
+            "Who has not seen the promise of fair flower and fruit choked into yellow withered stalk without fruit?",
+            "Bring no fruit to perfection. To bring to completion. Used of fruits, animals, pregnant women."
+        ],
+        "John Gill": [
+            "The seed that fell among thorns, or were sown on thorny ground, represent such hearers.",
+            "They are choked with cares and riches, and pleasures of this life.",
+            "They are choked, and bring no fruit to perfection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who have heard the word but allow the cares, riches, and pleasures of this life to consume them will find themselves choked. This metaphor suggests the idea of being strangled, as if by diphtheria, in order to emphasize the destructive nature of these worldly distractions. The consequences of this choking are twofold: the potential for growth and fruitfulness is stunted, and the promise of a flourishing life is withered away. Just as a plant cannot bring its fruit to completion when choked by thorns, these hearers are hindered from bringing their lives to full fruition.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.4119346364477043,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.29,
+            "commentatorTierSimilarities": [
+                33.76,
+                0.0,
+                66.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who have heard the word but allow the cares, riches, and pleasures of this life to consume them will find themselves choked, as if by diphtheria. This choking both strangles and hinders them from bringing their lives to full fruition. Just as a plant cannot bring its fruit to completion when choked by thorns, these hearers are hindered from bringing their lives to full fruition.",
+            "wordCount": 66,
+            "quoteTokenProportion": 52.0,
+            "qualityScore": 1.6817221071813386,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                34.89,
+                0.0,
+                65.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These hearers, represented by the seed that fell among thorns or on thorny ground, have heard the word but are choked by the cares, riches, and pleasures of this life. The verb used here implies the impulse under which they pursue their course - they are driven by the things of this world rather than focusing on God's truth. Their pursuit of worldly satisfaction strangles and chokes the potential fruitfulness of the word in their lives. They fail to bring fruit to completion, like a promising flower choked into a withered stalk without fruit.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.527454176791582,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+            "commentatorTierSimilarities": [
+                35.0,
+                0.0,
+                65.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These hearers, represented by the seed that fell among thorns or on thorny ground, are choked by the cares, riches, and pleasures of this life. Their pursuit of worldly satisfaction strangles the potential fruitfulness of the word. They fail to bring fruit to completion, like a flower choked into a withered stalk without fruit.",
+            "wordCount": 54,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.5732860009350835,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                30.87,
+                0.0,
+                69.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These hearers, represented by the seed that fell among thorns or on thorny ground, are choked by the cares, riches, and pleasures of this life. Their pursuit of worldly satisfaction strangles and chokes the potential fruitfulness of the word in their lives. They fail to bring fruit to completion, like a promising flower choked into a withered stalk without fruit.",
+            "wordCount": 60,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6122393376590876,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                30.22,
+                0.0,
+                69.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

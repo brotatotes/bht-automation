@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:39:30",
+    "verseRef": "1 Peter 3:10",
+    "bestBHT": {
+        "bht": "If we wish to love life and see good days, we must be cautious with our words. The sins of the tongue, like speaking evil and deceit, can make life burdensome and jeopardize our eternal well-being. While it is our natural inclination to speak evil, God promises a blessed life to those who are gentle and patient, refraining from evil-speaking and double-tongued words. By avoiding these sins and practicing kindness, we can experience the happy life that God favors the meek and the enduring with.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.168212734363987,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.43,
+        "commentatorTierSimilarities": [
+            29.43,
+            32.49,
+            38.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For he who desireth to love life and to see good days, let him refrain his tongue from evil, and lips that they never speak deceit.\" ",
+            "The difficulties of the citation can hardly be brought before the English reader, I have discussed them in my Greek Test.",
+            "The sins of the tongue, then those of the conduct."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He who loves life (present and eternal), and desires to continue to do so, not involving himself in troubles which will make this life a burden, and cause him to forfeit eternal life.",
+            "Our natural inclination and custom is to speak evil. 'Men commonly think that they would be exposed to the wantonness of their enemies if they did not strenuously vindicate their rights. But the Spirit promises a life of blessedness to none but those who are gentle and patient of evils' [CALVIN].",
+            "First he warns against sins of the tongue, evil-speaking, and deceitful, double-tongued speaking; next, against acts of injury to one's neighbor."
+        ],
+        "Albert Barnes": [
+            "Good days\" are prosperous days; happy days; days of usefulness; days in which we may be respected and loved.",
+            "To refrain the tongue from evil, is to avoid all slander, falsehood; \"obscenity, and profaneness, and to abstain from uttering erroneous and false opinions.",
+            "The words should be an exact representation of the truth."
+        ],
+        "Marvin Vincent": [
+            "Will love [\u03b8\u03b5\u03bb\u03c9\u03bd \u03b1\u03b3\u03b1\u03c0\u03b1\u03bd] . Not the future tense of love, but the verb to will, with the infinitive : he that desires or means to love. Rev., would love."
+        ],
+        "John Calvin": [
+            "The Spirit of God promises a happy life to none except to the meek, and those who endure evils; and we cannot be happy except God prospers our ways; and it is the good and the benevolent, and not the cruel and inhuman, that he will favor.",
+            "The way of obtaining this blessing is to conduct ourselves justly and harmlessly towards all.",
+            "We are to injure none, or cause loss to none, but to endeavor to be kind to all, and to exercise the duties of humanity."
+        ],
+        "Philip Schaff": [
+            "he who desires to love life, and to see good days.",
+            "The sins of speech are comprehensively indicated by the two distinct terms evil and guile.",
+            "He first notices what vices are to be guarded against, to wit, that we are not to be abusive and insolent, then that we are not to be fraudulent and double."
+        ],
+        "Archibald T. Robertson": [
+            "Wishing to love life.",
+            "Let him refrain his lips from speaking guile.",
+            "Let him refrain his tongue from evil."
+        ],
+        "John Gill": [
+            "What man is he that desireth life?",
+            "Let him refrain his tongue from evil.",
+            "Length of days forever and ever."
+        ],
+        "John Wesley": [
+            "For he that desireth to love life, and to see good days \u2014 That would make life amiable and desirable. Psalm 34:12, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we desire to truly love life and experience good days, we must be mindful of the power of our words. The sins of the tongue, such as evil-speaking and deceitful, double-tongued speaking, can easily make our lives burdensome and hinder us from experiencing the blessedness that comes from God. It is our natural inclination to speak evil, but we are called to refrain our lips from speaking guile and our tongue from speaking evil. By doing so, we not only avoid troubles and protect our own well-being, but we also demonstrate the qualities of meekness, endurance, and kindness that God promises to favor.",
+            "wordCount": 107,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.0170286522442806,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.41,
+            "commentatorTierSimilarities": [
+                33.97,
+                33.61,
+                32.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we desire to truly love life and experience good days, we must refrain our tongue from evil and our lips from speaking deceit. The sins of the tongue can make our lives burdensome and cause us to forfeit eternal life. It is our natural inclination to speak evil, but the Spirit promises a life of blessedness to those who are gentle and patient, avoiding evil-speaking and double-tongued speaking. By guarding our speech and practicing kindness, we can obtain the happy life that God promises to the meek and enduring.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.156529601682637,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.05,
+            "commentatorTierSimilarities": [
+                35.25,
+                29.7,
+                35.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If we wish to love life and see good days, we must be cautious with our words. The sins of the tongue, like speaking evil and deceit, can make life burdensome and jeopardize our eternal well-being. While it is our natural inclination to speak evil, God promises a blessed life to those who are gentle and patient, refraining from evil-speaking and double-tongued words. By avoiding these sins and practicing kindness, we can experience the happy life that God favors the meek and the enduring with.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.168212734363987,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.43,
+            "commentatorTierSimilarities": [
+                29.43,
+                32.49,
+                38.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To love and enjoy a fulfilling life, we must guard our words, refraining from speaking evil and using deceitful language. Avoiding sins of the tongue, such as evil-speaking and double-tongued speech, is crucial for experiencing lasting happiness. While it may be our natural inclination to engage in harmful speech, the Spirit promises a blessed life to those who are gentle, patient, and abstain from such sins. Embracing kindness and patience allows us to receive God's favor and live a life of joy and prosperity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.0683713204814698,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.11,
+            "commentatorTierSimilarities": [
+                33.05,
+                30.63,
+                36.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If we desire a truly fulfilling life with good days, we must be cautious with our words. To refrain from speaking evil and using deceitful language is crucial for experiencing happiness. It is our natural inclination to engage in harmful speech, but the Spirit promises a blessed life to those who are gentle, patient, and refrain from such sins. By embracing kindness and patience, we not only avoid troubles but also receive God's favor, leading to a life of joy and prosperity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.010540535194478,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                29.83,
+                32.31,
+                37.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

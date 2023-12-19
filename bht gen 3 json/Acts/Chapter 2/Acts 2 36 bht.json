@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:25:33",
+    "verseRef": "Acts 2:36",
+    "bestBHT": {
+        "bht": "In his closing remarks, Peter confronts his listeners with the undeniable truth that it was they who crucified Jesus. By doing so, Peter intends to stir a deep sense of compunction and lead them towards seeking forgiveness for their sin. Proving that Jesus is the Messiah alone might not have been enough; Peter's aim was to convince them that the crucified Jesus is now exalted at the right hand of God. This powerful message calls for reflection and repentance, recognizing Jesus as both Lord and Christ.",
+        "wordCount": 87,
+        "quoteTokenProportion": 47.76,
+        "qualityScore": 1.7777847594483278,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.45,
+        "commentatorTierSimilarities": [
+            23.63,
+            38.54,
+            37.83
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The final clause sets in the strongest and plainest light the fact to which the discourse testifies\u2014ending with whom ye crucified,\u2014the remembrance most likely to carry compunction to their hearts.",
+            "In the close of his discourse, he again reproaches them with His crucifixion, that they may be touched with the greater compunction of conscience, and may be eager to seek the remedy for their sin.",
+            "Bengel calls this 'the sting at the end' of the discourse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To prove to them merely that Jesus was the Messiah might have left them all unchanged in heart. But to convince them that He whom they had crucified had been by the right hand of God exalted, and constituted the 'LORD' whom David in spirit adored, to whom every knee shall bow, and the CHRIST of God, was to bring them to 'look on Him whom they had pierced and mourn for Him.'",
+            "The sting is at the close.",
+            "To sum up all."
+        ],
+        "Albert Barnes": [
+            "Convinced by the prophecies, by our testimony, and by the remarkable scenes exhibited on the day of Pentecost, let all be convinced that the true Messiah has come and has been exalted to heaven.",
+            "Be assured, or know without any hesitation or possibility of mistake. This is the sum of his argument or his discourse. He had established the points which he purposed to prove, and he now applies it to his hearers.",
+            "There is nothing better suited to make sinners fear and tremble than to show them that, in rejecting Christ, they have rejected God; in refusing to serve him they have refused to serve God."
+        ],
+        "Marvin Vincent": [
+            "Assuredly [\u03b1\u03c3\u03c6\u03b1\u03bb\u03c9\u03c2] . From aj, not, and sfallw, to cause to fall. Hence, firmly, steadfastly."
+        ],
+        "John Calvin": [
+            "Therefore, Peter concludeth, that Jesus: whom they had so spitefully handled, yea, whose name they did so greatly detest: is he whom they ought to acknowledge to be their Lord, and whom they ought to reverence.",
+            "Whosoever will be reckoned among the sons of Jacob, and do also look for the promise, let them know for a surety, that this is he and none other.",
+            "For the putting of him to death was not only full of cruelty and wickedness, but also a testimony of outrageous disloyalty against God, of sacrilege and unthankfulness, and, finally, of apostasy."
+        ],
+        "Philip Schaff": [
+            "The whole of this first apostolic sermon was addressed to Jews.",
+            "He showed from a passage in Joel, well known to his listeners, that the outpouring of the Spirit and its results, which they had just witnessed, was exactly what was foretold for the days of the Messiah.",
+            "This glorious One, now reigning with all power from His throne at the right hand of God, Messiah and King, is no other than that Jesus whom ye crucified."
+        ],
+        "John Gill": [
+            "With certain knowledge\", as the Arabic version renders it; with full assurance of it: this is a case that is plain and clear, a matter of fact that may be depended on; which all the people of Israel, called \"the house of Israel\", a phrase frequently used of that people in the Old Testament, which every individual of that body of men might be assured of.",
+            "...he had made him manifest to be so by the Holy Spirit which he had received, and now poured forth the same, and not another; even him whom they had rejected with so much contempt; whom they had treated in such a scornful and brutish manner; had spit upon, buffeted, and scourged, and at last crucified; and yet, now, even he had all power in heaven, and in earth, given him, and was exalted above every name; that in his name every knee should bow.",
+            "The holy blessed God sought to make Hezekiah the Messiah, or Christ, and Sennacherib Gog and Magog; the property or attribute of justice said before the holy blessed God, Lord of the world, and what was David, the king of Israel, who said so many songs and hymns before thee, and thou didst not make him Christ?"
+        ],
+        "John Wesley": [
+            "Lord \u2014 Jesus, after his exaltation, is constantly meant by this word in the New Testament.\" "
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To conclude his discourse, Peter compels his listeners to confront the fact that it was they who crucified Jesus. By emphasizing this crucial detail, Peter aims to awaken compunction in their hearts and lead them to seek redemption for their sin. Merely proving that Jesus is the Messiah would not suffice in stirring a true change in their souls. Punctuating his speech with the gravity of their actions forces them to face the reality of their transgressions and mourn for the One they pierced. This sting at the end sets the stage for true repentance and a deep recognition of Jesus as both Lord and Christ, exalted by the right hand of God.",
+            "wordCount": 113,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.7873827131460662,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.77,
+            "commentatorTierSimilarities": [
+                27.25,
+                37.75,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To conclude his discourse, Peter reproaches his listeners by reminding them that it was they who crucified Jesus. The intent behind this reminder is to elicit a profound sense of remorse and guilt so that they may be moved to seek a remedy for their sin. By demonstrating that the one they had crucified is now exalted at the right hand of God, Peter urges them to reflect upon their actions and seek redemption. This forceful emphasis on their role in crucifying Jesus serves as a poignant call to repentance and a recognition of Jesus as both Lord and Christ.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.7580749635436859,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                26.05,
+                36.41,
+                37.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To bring a deep conviction to their hearts, Peter concludes his discourse by reproaching his listeners for the crucifixion of Jesus. By reminding them of their role in His death, Peter seeks to stir compunction and lead them to seek redemption. Understanding that the mere acknowledgment of Jesus as the Messiah might not have been sufficient, Peter emphasizes the exaltation of the One whom they had crucified by the right hand of God. This powerfully brings them to look on Him whom they had pierced and mourn for Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.755040328899078,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                27.37,
+                36.35,
+                36.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his closing remarks, Peter confronts his listeners with the undeniable truth that it was they who crucified Jesus. By doing so, Peter intends to stir a deep sense of compunction and lead them towards seeking forgiveness for their sin. Proving that Jesus is the Messiah alone might not have been enough; Peter's aim was to convince them that the crucified Jesus is now exalted at the right hand of God. This powerful message calls for reflection and repentance, recognizing Jesus as both Lord and Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.7777847594483278,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.45,
+            "commentatorTierSimilarities": [
+                23.63,
+                38.54,
+                37.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To compel his listeners to admit their guilt and seek redemption, Peter concludes his discourse by reproaching them for the crucifixion of Jesus. This stern reminder is designed to elicit a deeper sense of remorse and motivate them to find a solution for their sin. Proving that Jesus is the Messiah alone may not have had the desired effect, so Peter emphasizes that the one they crucified has been exalted by God. This poignant conclusion encourages introspection and the recognition of Jesus as both Lord and Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.71115712079067,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                23.85,
+                39.26,
+                36.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

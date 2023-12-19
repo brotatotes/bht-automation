@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:30:57",
+    "verseRef": "Acts 13:39",
+    "bestBHT": {
+        "bht": "Every believer is justified by Christ, not by the law of Moses. The law could not provide justification for sins, but by faith in Jesus, believers are absolved from all charges of the law. This doctrine of grace may be a stumbling block to both Jews, with their ceremonial works, and Greeks, with their philosophical ethics. The design of the law was not to reveal a way of pardon, but that was reserved for the unique purpose of the gospel. In Jesus Christ, all men may find peace and obtain forgiveness of every sin.",
+        "wordCount": 94,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.309742417695235,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.14,
+        "commentatorTierSimilarities": [
+            35.31,
+            34.23,
+            30.46
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "every believer is (habitual present tense) justified.... but not implying that in the law of Moses there might be justification from some sins;\u2014under the law there is no justification",
+            "Christ shall do for you all that the law could not do: leaving it for inference, or for further teaching, that this was absolutely ALL: that the law could do nothing",
+            "to justify from sin was not in any sense, and could not be the office of the law, by which came the knowledge of sin"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By him the believer is absolved from all charges of the law.",
+            "By Christ the believer is justified from all things, whereas the law justifies from nothing.",
+            "The deeper sense of justification, the positive side of it, is reserved for the Epistles, addressed to the justified themselves."
+        ],
+        "Albert Barnes": [
+            "All that believe...are justified...from all things.\" ",
+            "The design of the Law was not to reveal a way of pardon. That was reserved to be the unique purpose of the gospel.",
+            "The law of Moses - The commands and institutions which he, under the direction of God, established."
+        ],
+        "John Calvin": [
+            "Paul showeth how men obtain the righteousness of Christ; to wit, when they receive it by faith; and that which faith doth obtain is not obtained by any merits of works.",
+            "Paul\u2019s opinion is plain, that we are justified by faith alone, which, notwithstanding the Papists oppugn [oppose] and strive against no less obstinately than bitterly.",
+            "There be also other benefits of Christ which we reap by faith; for when he regenerateth us by his Spirit, he restoreth in us the image of God; and after that the old man is crucified he fashioneth us unto newness of life."
+        ],
+        "Philip Schaff": [
+            "Jesus Christ, if ye believe on Him as Messiah, will do for you what the Law could not do.",
+            "In Him shall you be justified from all your sins that is, you shall be freed from the galling chains and fetters of guilt.",
+            "In Jesus Christ the Messiah all men may find peace, and may obtain forgiveness of every sin."
+        ],
+        "Archibald T. Robertson": [
+            "And from all the things from which ye were not able to be justified in this one every one who believes is justified.\" ",
+            "We have here the germ of all that is most characteristic in Paul's later teaching. It is the argument of the Epistle to Galatians and Romans in a sentence.",
+            "This is the doctrine of grace that will prove a stumbling block to the Jews with their ceremonial works and foolishness to the Greeks with their abstract philosophical ethics."
+        ],
+        "John Gill": [
+            "Christ, as God, is not only the justifier of his people, who pronounces them righteous in the sight of God; but his righteousness imputed to them is the matter of their justification, or that by which they are justified.",
+            "And justification by this is complete and perfect; it is from all sin, original and actual, secret and open, greater or lesser sins; sins of presumption and ignorance, of omission or commission.",
+            "And from all sin these are justified of God, as Beza's ancient copy reads, 'for it is God that justifies', Romans 8:33 against whom men have sinned, and whose law they have violated, and whose justice they have affronted, by reason of which they are liable to condemnation; but God justifies them, by imputing the righteousness of his Son to them."
+        ],
+        "John Wesley": [
+            "Every one that believeth is justified from all things \u2014 Has the actual forgiveness of all his sins, at the very time of his believing; from which ye could not be justified.\" ",
+            "Not only ye cannot now; but ye never could. For it afforded no expiation for presumptuous sins.",
+            "Moses and Christ are opposed to each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Every believer is justified by Christ, not by the law of Moses. The law could not provide justification for sins, but by faith in Jesus, believers are absolved from all charges of the law. This doctrine of grace may be a stumbling block to both Jews, with their ceremonial works, and Greeks, with their philosophical ethics. The design of the law was not to reveal a way of pardon, but that was reserved for the unique purpose of the gospel. In Jesus Christ, all men may find peace and obtain forgiveness of every sin.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.309742417695235,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.14,
+            "commentatorTierSimilarities": [
+                35.31,
+                34.23,
+                30.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every believer is justified by Christ and not by the law of Moses. The law does not have the power to justify from sin, and it can do nothing in comparison to what Christ has accomplished. By faith in Jesus, believers are justified from all things, absolved from the charges of the law. This doctrine of grace will be a stumbling block to the Jews with their ceremonial works and appear as foolishness to the Greeks with their philosophical ethics. In Jesus Christ, all men find peace and obtain forgiveness of every sin.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.2680455867217706,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.75,
+            "commentatorTierSimilarities": [
+                36.24,
+                31.53,
+                32.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith in Jesus, believers are justified from all things, absolved from the charges of the law. This doctrine of grace will be a stumbling block to the Jews with their ceremonial works and appear as foolishness to the Greeks with their philosophical ethics. In Jesus Christ, all men find peace and obtain forgiveness of every sin. The law does not have the power to justify from sin, and it can do nothing in comparison to what Christ has accomplished.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.1842393028506732,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.97,
+            "commentatorTierSimilarities": [
+                35.4,
+                32.66,
+                31.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By faith in Jesus, believers are justified from all things, absolved from the charges of the law. The law does not have the power to justify from sin, and it can do nothing in comparison to what Christ has accomplished. This doctrine of grace will prove a stumbling block to the Jews with their ceremonial works and foolishness to the Greeks with their philosophical ethics. In Jesus Christ, all men find peace and obtain forgiveness of every sin.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1980864777669513,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.43,
+            "commentatorTierSimilarities": [
+                35.75,
+                32.38,
+                31.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By faith in Jesus, believers are justified from all things. The law of Moses does not have the power to justify from sin, and it cannot do anything compared to what Christ has done. This doctrine of grace will be a stumbling block to those who rely on ceremonial works and appear foolish to those who value philosophical ethics. In Jesus Christ, all people can find peace and receive forgiveness for all their sins.",
+            "wordCount": 74,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.0771459506564396,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                33.83,
+                31.95,
+                34.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

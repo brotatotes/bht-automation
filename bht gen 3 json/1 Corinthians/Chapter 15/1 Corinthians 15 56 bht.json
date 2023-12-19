@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:14:29",
+    "verseRef": "1 Corinthians 15:56",
+    "bestBHT": {
+        "bht": "Sin and death are intertwined, as the breach of God's law gives death its lawful power. The law exposes the gravity of sin, making it more grievous by clarifying God's will. In man's unrenewed state, he cannot fulfill God's holy law. Death, the consequence of sin, inflicts a mortal wound upon the sinner. The law reveals the strength of sin, demonstrating its damnable and deadly nature. Only by removing sin can we disarm death's harm and be set free.",
+        "wordCount": 84,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 2.4587855206781004,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.09,
+        "commentatorTierSimilarities": [
+            26.01,
+            38.02,
+            35.98
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "56.] See above: and compare Rom. v. 12, and vii."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If there were no sin, there would be no death. Man's transgression of the law gives death its lawful power.",
+            "Without the law sin is not perceived or imputed.",
+            "The law makes sin the more grievous by making God's will the clearer."
+        ],
+        "Albert Barnes": [
+            "There would be no death without sin.",
+            "The fact that people die, is proof that they are sinners.",
+            "The pure and holy law of God... had no power to take away the fear of death."
+        ],
+        "John Calvin": [
+            "Death has no dart with which to wound us except sin, since death proceeds from the anger of God. Now it is only with our sins that God is angry. Take away sin, therefore, and death will no more be able to harm us.",
+            "He compared sin to a sting, with which alone death is armed for inflicting upon us a deadly wound. Let that be taken away, and death is disarmed, so as to be no longer hurtful.",
+            "The law of God imparts to that sting its deadly power, because it does not merely discover our guilt, but even increases it. Sin has been in a manner lulled asleep, but is kindled up by the law, so as to rage furiously."
+        ],
+        "Philip Schaff": [
+            "The sting of death is sin as it inflicts on the sinner a wound which is mortal (Romans 6:23), and the power of sin is the law.",
+            "A law which has 'no power' to avenge the breach of itself is no law at all. But the Divine law has deadly 'power,' since the breach of it is 'death.'",
+            "It will be seen that 'sin' here is viewed in its penal, not its moral character; as criminal, as damnable, as, in its desert, deadly rather than as hateful."
+        ],
+        "Archibald T. Robertson": [
+            "The power of sin (\u03b7 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03b1\u03c2).",
+            "In man's unrenewed state he cannot obey God's holy law.",
+            "See Romans 4:15; Romans 5:20; Romans 6:14; Romans 6:7; Galatians 2:16; Galatians 3:1-5 for Paul's ideas here briefly expressed."
+        ],
+        "John Gill": [
+            "Death has a sting, and which was originally in it, and that is sin; sin is the cause of death, it is what has given rise and being to it.\" ",
+            "The strength of sin, its evil nature, and all the dreadful aggravations of it, and sad consequences upon it, are discovered and made known by the law.\" ",
+            "Sin is the more exceeding sinful, being committed against a known law, and that of the great lawgiver, who is able to save and to destroy."
+        ],
+        "John Wesley": [
+            "The sting of death is sin \u2014 Without which it could have no power.",
+            "But this sting none can resist by his own strength.",
+            "And the strength of sin is the law \u2014 As is largely declared, Romans 7:7, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Sin and death are intimately connected, as the transgression of God's law gives death its power. The law serves to make sin more apparent and egregious, highlighting the gravity of man's disobedience. In an unrenewed state, man is unable to obey the holy law of God. Death, in its essence, is the consequence of sin, and it is sin that inflicts a deadly wound upon the sinner. The law reveals the strength and severity of sin, exposing its consequences and highlighting its damnable nature. Only by removing sin can we disarm death and escape its ultimate harm.",
+            "wordCount": 99,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.354620122361756,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.63,
+            "commentatorTierSimilarities": [
+                25.42,
+                37.34,
+                37.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sin and death are intertwined, as the breach of God's law gives death its lawful power. The law exposes the gravity of sin, making it more grievous by clarifying God's will. In man's unrenewed state, he cannot fulfill God's holy law. Death, the consequence of sin, inflicts a mortal wound upon the sinner. The law reveals the strength of sin, demonstrating its damnable and deadly nature. Only by removing sin can we disarm death's harm and be set free.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.4587855206781004,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.09,
+            "commentatorTierSimilarities": [
+                26.01,
+                38.02,
+                35.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The connection between sin and death is undeniable. Man's transgression of God's law grants death its rightful power. The law not only reveals sin but also intensifies its weight, making God's will clearer. In man's fallen state, he is unable to obey the holy law. Death, the consequence of sin, inflicts a mortal wound. Only by removing sin can we disarm death's harm and find true liberation.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.286302007930213,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.36,
+            "commentatorTierSimilarities": [
+                25.76,
+                38.72,
+                35.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The lethal relationship between sin and death is evident in the power sin holds over our mortality. Man's violation of God's law gives death its lawful authority, and without sin, death would have no capacity to harm. The law acts as a magnifying glass, making sin more visible and heightening its gravity by revealing God's will. In our unregenerate state, we lack the ability to fulfill God's holy law. By eliminating sin, we can disarm death's sting and experience true liberation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.291075267759033,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.52,
+            "commentatorTierSimilarities": [
+                25.21,
+                37.45,
+                37.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The connection between sin and death is undeniably symbiotic. Death derives its power from the transgression of God's law, as sin provides the necessary grounds for its existence. The law serves to illuminate the weightiness of sin, making it glaringly apparent and exacerbating the consequences. In our unregenerate state, we lack the ability to adhere to God's holy law. To render death powerless, sin must be eradicated, liberating us from its grip and allowing us to escape its harmful effects.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.2138039306767707,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.95,
+            "commentatorTierSimilarities": [
+                24.38,
+                38.09,
+                37.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

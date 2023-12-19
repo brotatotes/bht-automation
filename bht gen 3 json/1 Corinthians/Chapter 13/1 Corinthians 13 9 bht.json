@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:12:39",
+    "verseRef": "1 Corinthians 13:9",
+    "bestBHT": {
+        "bht": "Our knowledge and prophesying are merely partial and imperfect, providing us with incomplete insights into divine truth. The value of our imperfect and obscure knowledge pales in comparison to the everlasting and all-encompassing nature of love. Even those with extensive knowledge have only limited and imperfect understanding, facing unanswered difficulties and objections. Consequently, our knowledge and prophecies are transient and incomplete, unable to fully grasp the complexities of future events.",
+        "wordCount": 71,
+        "quoteTokenProportion": 30.61,
+        "qualityScore": 2.03976230857321,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.16,
+        "commentatorTierSimilarities": [
+            26.67,
+            36.76,
+            36.57
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Reason given;\u2014that our knowledge and our prophesying (utterance of divine things) are but partial, embracing but a part:"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9, 10. in part\u2014partially and",
+            "\timperfectly. Compare a similar contrast to the \"perfect man,",
+            "\t\"the measure of the stature of the fulness of Christ\" ( :-)."
+        ],
+        "Albert Barnes": [
+            "Our knowledge here is imperfect and obscure. It may, therefore, all vanish in the eternal world amidst its superior brightness.\" ",
+            "We should not regard that as of such vast value which is imperfect and obscure.",
+            "We ought not to seek so anxiously that which is so imperfect and obscure, and which must soon vanish away; but we should rather seek that love which is permanent, expanding, and eternal."
+        ],
+        "John Calvin": [
+            "It is owing to our imperfection that we at present have knowledge and prophecy.",
+            "Knowledge and prophecy... have place among us so long as that imperfection cleaves to us, to which they are helps.",
+            "The gifts in question are but temporary... the advantage of them is only for a time."
+        ],
+        "Philip Schaff": [
+            "For we know in part even in respect of the supernatural gift of knowledge and we prophesy in part...\" ",
+            "...in necessarily broken, fragmentary utterances...",
+            "...giving at best but imperfect views of Divine truth."
+        ],
+        "Archibald T. Robertson": [
+            "In part (\u03b5\u03ba \u03bc\u03b5\u03c1\u03bf\u03c5\u03c2). See on 1 Corinthians 12:27. As opposed to the whole. "
+        ],
+        "John Gill": [
+            "Though the rule of knowledge is perfect, and all the saints have knowledge, and every truth of the Gospel is known; yet by those that know most, it is known but imperfectly.",
+            "The truth itself may be most clearly discerned, as it is revealed in the word; yet the manner of it, how it is, may not be known; and many difficulties may attend it, and objections be raised to it, which are not easily solved.",
+            "Though all do not prophesy, yet all that do, and that prophesy aright, that is, explain the word of God aright, these preach the Gospel fully, declare the whole counsel of God, and keep back nothing profitable to the saints; yet still their prophesying or explaining the prophecies of the Old Testament, or the mysteries of the Gospel, is but imperfect at best in the present state of things."
+        ],
+        "John Wesley": [
+            "The wisest of men have here but short, narrow, imperfect conceptions, even of the things round about them.\" ",
+            "Even the prophecies which men deliver from God are far from taking in the whole of future events.\" ",
+            "That wisdom and knowledge of God which is treasured up in the scripture revelation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our knowledge and prophesying are but partial and imperfect, only giving us fragmented and imperfect views of divine truth. We should not place such great value on our imperfect and obscure knowledge, but instead seek the permanent and eternal love. The supernatural gift of knowledge and prophecy are temporary, and even those who know the most still have only imperfect understanding. The truth may be clear in the word, but there are still many difficulties and objections that remain unsolved. Therefore, our knowledge and prophecy are incomplete and limited in the present state of things, and even the prophecies delivered from God do not encompass the entirety of future events.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0014559494447983,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.89,
+            "commentatorTierSimilarities": [
+                23.23,
+                37.48,
+                39.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our knowledge and prophesying are only partial and imperfect, providing us with fragmented and incomplete views of divine truth. While we may possess knowledge, it is imperfect and obscure, and its value is not as significant as the permanent and eternal love we should seek. Even those with the greatest understanding have only limited and imperfect comprehension, grappling with difficulties and objections that remain unsolved. Therefore, our knowledge and prophecies are incomplete and temporary, incapable of fully encompassing future events.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9983620822118806,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+            "commentatorTierSimilarities": [
+                25.05,
+                39.57,
+                35.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our knowledge and prophesying are but partial and imperfect, as they only provide us with fragmented and imperfect views of divine truth. While we may possess knowledge, it is imperfect and obscure, and its value is not as significant as the permanent and eternal love we should seek. Even the most knowledgeable individuals have only limited and imperfect understanding, facing difficulties and objections that remain unresolved. Thus, our knowledge and prophecies are incomplete and temporary, as they fail to fully encompass future events.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.023816703598527,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+            "commentatorTierSimilarities": [
+                24.29,
+                38.57,
+                37.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our knowledge and prophesying are only partial and imperfect, giving us imperfect views of divine truth. The value of our imperfect and obscure knowledge is overshadowed by the permanence and eternality of love. Even those with the most knowledge have limited and imperfect understanding, facing unsolved difficulties and objections. Therefore, our knowledge and prophecies are temporary and incomplete, unable to fully comprehend future events.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.027515149756069,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.76,
+            "commentatorTierSimilarities": [
+                24.77,
+                38.29,
+                36.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our knowledge and prophesying are merely partial and imperfect, providing us with incomplete insights into divine truth. The value of our imperfect and obscure knowledge pales in comparison to the everlasting and all-encompassing nature of love. Even those with extensive knowledge have only limited and imperfect understanding, facing unanswered difficulties and objections. Consequently, our knowledge and prophecies are transient and incomplete, unable to fully grasp the complexities of future events.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.03976230857321,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.16,
+            "commentatorTierSimilarities": [
+                26.67,
+                36.76,
+                36.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

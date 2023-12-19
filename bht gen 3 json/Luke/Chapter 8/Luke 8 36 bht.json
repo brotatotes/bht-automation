@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:16:38",
+    "verseRef": "Luke 8:36",
+    "bestBHT": {
+        "bht": "The one who was possessed with devils, expressed in Greek as the demonized, was made whole and saved. Eyewitnesses, who saw what happened, shared the news and explained by what means the demonized individual was healed.",
+        "wordCount": 36,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.9722082713353775,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+        "commentatorTierSimilarities": [
+            43.0,
+            0.0,
+            57.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He that was possessed with devils. Expressed in the Greek by two words, oJ daimonisqeiv, the demonized. ",
+            "Was healed [\u03b5\u03c3\u03c9\u03b8\u03b7] . See on ch. Luke 6:19."
+        ],
+        "Archibald T. Robertson": [
+            "He that was possessed with devils (demons) (only two words in Greek, \u03bf \u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03b9\u03c3\u03b8\u03b5\u03b9\u03c2, the demonized).\" ",
+            "Was made whole (\u03b5\u03c3\u03c9\u03b8\u03b7). First aorist passive indicative of \u03c3\u03c9\u03b6\u03c9 to save from \u03c3\u03c9\u03c2 (safe and sound).\" ",
+            "This is additional information to the news carried to them in verse Luke 8:34."
+        ],
+        "John Gill": [
+            "They also which saw it...told them by what means he that was possessed of the devils was healed.\" ",
+            "The disciples of Christ, or the men of the ship, or persons who lived hard by in the fields, who were eyewitnesses of these several things.",
+            "Eyewitnesses...told them by what means he that was possessed of the devils was healed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The one who was possessed with devils, referred to in Greek as the demonized, was made whole and saved. Eyewitnesses who saw this miraculous healing shared the news, providing additional information about what had happened. These individuals, whether the disciples, the men of the ship, or people living nearby, were able to testify to the means by which the demonized individual was healed.",
+            "wordCount": 63,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.6708696455715257,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.9,
+            "commentatorTierSimilarities": [
+                39.24,
+                0.0,
+                60.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The one who was possessed with devils, expressed in Greek as the demonized, was made whole and saved. Eyewitnesses, who saw what happened, shared the news, providing additional information about the means by which the demonized individual was healed.",
+            "wordCount": 39,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.8902033365846511,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
+            "commentatorTierSimilarities": [
+                44.05,
+                0.0,
+                55.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The individual who was possessed by devils, referred to as the demonized in Greek, experienced healing and restoration. Eyewitnesses who witnessed this miraculous event provided further details regarding the means by which the demonized person was delivered.",
+            "wordCount": 37,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6866857848329302,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                39.56,
+                0.0,
+                60.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The one who was possessed with devils, expressed in Greek as the demonized, was made whole and saved. Eyewitnesses, who saw what happened, shared the news and explained by what means the demonized individual was healed.",
+            "wordCount": 36,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9722082713353775,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+            "commentatorTierSimilarities": [
+                43.0,
+                0.0,
+                57.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The individual who was possessed with devils, referred to in Greek as the demonized, experienced healing and restoration. Eyewitnesses, who saw it happen, shared the news and revealed the means by which the demonized person was healed.",
+            "wordCount": 37,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7802669022587083,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                40.1,
+                0.0,
+                59.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

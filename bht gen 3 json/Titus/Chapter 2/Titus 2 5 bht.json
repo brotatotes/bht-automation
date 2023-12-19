@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:08:49",
+    "verseRef": "Titus 2:5",
+    "bestBHT": {
+        "bht": "Women are called to be keepers at home, as the Greek expresses, being kind, thrifty, and obedient to their husbands. By being discreet, chaste, and obedient, women demonstrate the value of religion and prevent the word of God from being spoken evil of. It is crucial for them to lead a strict and upright life, ensuring that their actions do not bring reproach upon themselves or the gospel.",
+        "wordCount": 68,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 1.3929672758324398,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.66,
+        "commentatorTierSimilarities": [
+            17.22,
+            35.47,
+            47.3
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "keepers at home\u2014as",
+            "\t'guardians of the house,' as the Greek expresses.\" ",
+            "good\u2014kind, beneficent",
+            "\t(Matthew 20:15; Romans 5:7;",
+            "\t1 Peter 2:18). Not churlish and",
+            "\tniggardly, but thrifty as housewives.",
+            "obedient\u2014rather",
+            "\t'submissive,' as the Greek is translated."
+        ],
+        "Albert Barnes": [
+            "Religion is the patron of the domestic virtues, and regards the appropriate duties in a family as those most intimately connected with its own progress in the world.",
+            "Our first duty is at home, and all other duties will be well performed just in proportion as that is.",
+            "The idea is, that religion ought to produce the virtues here spoken of, and that when it does not, it will be reproached as being of no value."
+        ],
+        "Marvin Vincent": [
+            "Workers at home.",
+            "Kindly.",
+            "Subject or in subjection."
+        ],
+        "John Calvin": [
+            "And, indeed, it is probable that he demands such strictness of life as not to bring the gospel into the contempt of the public by their vices.",
+            "When he adds, that the word of God may not be evil spoken of, it is supposed that this relates strictly to women who were married to unbelieving husbands, who might judge of the gospel from the wicked conduct of their wives.",
+            "But what if he does not speak of husbands alone?"
+        ],
+        "Archibald T. Robertson": [
+            "Workers at home\" are usually \"workers at home.",
+            "Kind (\u03b1\u03b3\u03b1\u03b8\u03b1\u03c2). See Romans 5:7. See Colossians 3:18; Ephesians 5:22 for the same use of \u03c5\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03bf\u03bc\u03b1, to be in subjection.",
+            "Note \u03b9\u03b4\u03b9\u03bf\u03b9\u03c2 (their own). See 1 Timothy 6:1 for the same negative purpose clause (\u03b9\u03bd\u03b1 \u03bc\u03b7 \u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03b7\u03c4\u03b1)."
+        ],
+        "John Gill": [
+            "To be discreet,.... Or temperate in eating and drinking... or to be wise and prudent in the whole of their conduct, both at home and abroad.",
+            "Keepers at home: minding their own family affairs, not gadding abroad... a husband ought to restrain his wife from it, and not suffer her to go abroad but about once a month, or twice a month, upon necessity.",
+            "The tortoise... was, with the ancients, an emblem of a good housewife."
+        ],
+        "John Wesley": [
+            "Discreet \u2014 Particularly in the love of their children.",
+            "Chaste \u2014 Particularly in the love of their husbands.",
+            "Obedient to their husbands \u2014 Whose will, in all things lawful, is a rule to the wife."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Women are called to be keepers at home, not simply as housewives, but as guardians of the household. They are to be good, kind, and thrifty, not churlish or niggardly. Submissive to their husbands, women are to work diligently in their own homes, being mindful of their own families. The virtues of discretion, chastity, and obedience are essential for women, both in loving their children and their husbands. By fulfilling these duties, women demonstrate the value and worth of religion, preventing the word of God from being spoken evil of. Therefore, it is crucial for women to maintain a strict and upright life, not bringing reproach upon themselves or the gospel.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.3851152866950307,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.4,
+            "commentatorTierSimilarities": [
+                17.84,
+                39.75,
+                42.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Women are called to be keepers at home, guardians of the house, being kind, thrifty, and submissive. They are to fulfill their duties diligently, being discreet, chaste, and obedient to their husbands. By living out these virtues, women demonstrate the value of religion and prevent the word of God from being spoken evil of. It is essential for them to lead a strict and upright life, ensuring that their actions do not bring reproach upon themselves or the gospel.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.381554106047151,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.28,
+            "commentatorTierSimilarities": [
+                16.4,
+                40.88,
+                42.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Women, as keepers at home, are called to be kind and thrifty, fulfilling their roles as guardians of the house. They are to be obedient and submissive to their husbands, working diligently in their own homes. By being discreet, chaste, and obedient, women demonstrate the value of religion and prevent the word of God from being spoken evil of. It is crucial for them to uphold a strict and upright life, ensuring that their actions do not bring reproach upon themselves or the gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.3804275776146882,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.24,
+            "commentatorTierSimilarities": [
+                18.29,
+                38.34,
+                43.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Women, as keepers at home, are called to be kind and thrifty, fulfilling their roles as guardians of the house. They are to be obedient and submissive to their husbands, working diligently in their own homes. By being discreet, chaste, and obedient, women demonstrate the value of religion and prevent the word of God from being spoken evil of. It is crucial for them to lead a strict and upright life, ensuring that their actions do not bring reproach upon themselves or the gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.3743129773927167,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.04,
+            "commentatorTierSimilarities": [
+                18.17,
+                38.2,
+                43.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Women are called to be keepers at home, as the Greek expresses, being kind, thrifty, and obedient to their husbands. By being discreet, chaste, and obedient, women demonstrate the value of religion and prevent the word of God from being spoken evil of. It is crucial for them to lead a strict and upright life, ensuring that their actions do not bring reproach upon themselves or the gospel.",
+            "wordCount": 68,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.3929672758324398,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.66,
+            "commentatorTierSimilarities": [
+                17.22,
+                35.47,
+                47.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

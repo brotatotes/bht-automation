@@ -1,0 +1,79 @@
+{
+    "timestamp": "12-19-2023 16:26:10",
+    "verseRef": "Acts 5:25",
+    "bestBHT": {
+        "bht": "Behold, the men whom you put in prison are fearlessly standing in the temple, openly and publicly teaching the people in the name of Jesus, which the sanhedrim had forbid them to do.",
+        "wordCount": 33,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 3.347711631836679,
+        "qualityScoreNormalizedComparedToV2BHTs": 102.65,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Behold, the men whom ye put in prison, last night, are standing in the temple; openly and publicly, and without fear.\" (Act 5:25) ",
+            "And teaching the people; in the name of Jesus, which the sanhedrim had forbid them to do.\" (Act 5:25)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "Behold, the men whom you put in prison are standing in the temple, openly and without fear, teaching the people in the name of Jesus, which the sanhedrim had forbid them to do. (Acts 5:25)",
+            "wordCount": 34,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 2.4565769615727064,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold, the men whom you imprisoned are bravely standing in the temple, fearlessly teaching the people in the name of Jesus, despite the prohibition by the sanhedrin.",
+            "wordCount": 27,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.4455753719316338,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold, the men whom you put in prison are fearlessly standing in the temple, openly and publicly teaching the people in the name of Jesus, which the sanhedrim had forbid them to do.",
+            "wordCount": 33,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 3.347711631836679,
+            "qualityScoreNormalizedComparedToV2BHTs": 102.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

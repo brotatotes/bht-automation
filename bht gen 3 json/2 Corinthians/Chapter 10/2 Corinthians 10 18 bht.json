@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:17:53",
+    "verseRef": "2 Corinthians 10:18",
+    "bestBHT": {
+        "bht": "Those who commend themselves are not truly approved, but rather those whom the Lord commends as His chosen instruments. The approval spoken of here is not a temporary or earthly commendation, but rather one that stands the test of trial, like metals tested in fire. In contrast, those who are rejected by the Lord are like reprobate silver. Therefore, let us seek the approval of God alone, which holds more value than the praises of the whole world. May we strive to be approved by the Lord, knowing that His commendation leads to eternal joy.",
+        "wordCount": 95,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 1.9191466495352474,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+        "commentatorTierSimilarities": [
+            34.57,
+            28.74,
+            36.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not the self-commender, but he whom the Lord commends by selecting him as His instrument.\" ",
+            "The epistle of commendation, to be known and read by all men, of souls converted and churches founded.",
+            "Approved, i.e. really and in the end abiding the test of trial."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "whom the Lord commendeth\u2014to whom the Lord has given as His 'Epistle of commendation,' the believers whom he has been the instrument of converting",
+            "is approved\u2014can stand the test of the final trial. A metaphor from testing metals",
+            "those finally rejected by the Lord are termed 'reprobate silver'"
+        ],
+        "Albert Barnes": [
+            "It is no evidence that we shall be saved that we are prone to commend ourselves.",
+            "The weapons of the Christian are not to be carnal, but are to be spiritual.",
+            "How anxious should we be, therefore, to secure the approbation of God; and whatever our fellow-men may say of us, how infinitely desirable is it to be commended then by our heavenly Father."
+        ],
+        "John Calvin": [
+            "Let us... aim exclusively at this \u2014 that we may be approved by God, and may be satisfied to have his approbation alone, as it justly ought to be regarded by us as of more value than all the applauses of the whole world.",
+            "The question here is not as to the judgment of mankind, in respect of the superiority of one to another, but as to the sentence of God himself, who has it in his power to overturn all the decisions that men have pronounced.",
+            "The expression referred to occurs in the writings of Cicero. 'Plato mihi unus est instar omnium;' \u2014 'Plato, even singly, is to me equal to all.'"
+        ],
+        "Philip Schaff": [
+            "For not he that commendeth himself is approved, but he whom the Lord commendeth.\" ",
+            "This addition is intended for the opponents he has had in view throughout all this chapter.",
+            "Feeling it to be in the last degree distasteful, the apostle proceeds to state why it had been forced upon him, and in doing so he is led into such details of his personal history as are of extreme interest, and nowhere else even alluded to such as to make us glad of the unwelcome necessity of self-praise."
+        ],
+        "Archibald T. Robertson": [
+            "Is approved (\u03b4\u03bf\u03ba\u03b9\u03bc\u03bf\u03c2). Accepted (from \u03b4\u03b5\u03c7\u03bf\u03bc\u03b1) by the Lord. The Lord accepts his own recommendation (\u03c3\u03c5\u03bd\u03b9\u03c3\u03c4\u03b7\u03c3\u03b9\u03bd, see on 2 Corinthians 3:1). "
+        ],
+        "John Gill": [
+            "Such may be said to commend themselves, who ascribe that to themselves, which do not belong to them...such persons are neither approved by God, nor good men...\" ",
+            "Now such persons are neither approved by God, nor good men...",
+            "But whom the Lord commendeth...he bears a testimony to them, and shows his approbation of them, and at last will say, well done, good and faithful servant, enter into the joy of thy Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who commend themselves are not truly approved, but rather those whom the Lord commends as His chosen instruments. It is not about self-recommendation, but about being known and recognized as the epistle of commendation, bearing witness to the souls converted and the churches founded. The approval spoken of here is not a temporary or earthly commendation, but rather one that stands the test of trial, like metals tested in fire. In contrast, those who are rejected by the Lord are like reprobate silver. Therefore, let us seek the approval of God alone, which holds more value than the praises of the whole world. It is the judgment of God that truly matters, for He has the power to overturn all human decisions. May we strive to be approved by the Lord, knowing that His commendation leads to eternal joy.",
+            "wordCount": 141,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7995530883514632,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                34.06,
+                28.63,
+                37.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who commend themselves are not truly approved, but rather those whom the Lord commends as His chosen instruments. The approval spoken of here is not a temporary or earthly commendation, but rather one that stands the test of trial, like metals tested in fire. In contrast, those who are rejected by the Lord are like reprobate silver. Therefore, let us seek the approval of God alone, which holds more value than the praises of the whole world. May we strive to be approved by the Lord, knowing that His commendation leads to eternal joy.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.9191466495352474,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+            "commentatorTierSimilarities": [
+                34.57,
+                28.74,
+                36.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The commendation that truly matters is not self-recommendation, but being chosen by the Lord as His instrument. It is about being known and recognized as the epistle of commendation that testifies to the souls converted and churches founded. This approval is not temporary or earthly, but one that stands the test of trial. Those rejected by the Lord are like reprobate silver. Let us strive for God's approval alone, for His commendation holds more value than worldly praises.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.8101763284347914,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.53,
+            "commentatorTierSimilarities": [
+                40.91,
+                26.8,
+                32.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The approval that holds true significance is not self-praise, but rather being commended by the Lord as His chosen instrument. This commendation is not fleeting or worldly, but enduring and able to withstand the trials of testing. Those who are rejected by the Lord are like reprobate silver. Therefore, let us seek the approval of God alone, valuing His commendation above the praises of the entire world. May we strive to be approved by the Lord, knowing that His commendation leads to eternal joy.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8765072470647461,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.74,
+            "commentatorTierSimilarities": [
+                36.61,
+                28.6,
+                34.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The commendation that truly matters is not self-recommendation, but being chosen by the Lord as His instrument. It is about being known and recognized as the epistle of commendation that testifies to the souls converted and churches founded. This approval is not temporary or earthly, but one that stands the test of trial. Those rejected by the Lord are like reprobate silver. Let us strive for God's approval alone, for His commendation holds more value than worldly praises.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.8101763284347914,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.53,
+            "commentatorTierSimilarities": [
+                40.91,
+                26.8,
+                32.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

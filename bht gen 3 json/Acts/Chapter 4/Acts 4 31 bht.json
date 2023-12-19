@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:26:24",
+    "verseRef": "Acts 4:31",
+    "bestBHT": {
+        "bht": "The believers experienced a fresh outpouring of the Holy Spirit as a response to their prayers. This outpouring was accompanied by a visible sign, likely an earthquake, which served as a token of God's presence and power. The entire community was filled anew with the Spirit, enabling them to speak the word of God boldly. The shaking of the place where they gathered together was a tangible confirmation that their prayers had been heard. This event highlights the power of prayer and the importance of seeking God's presence within the community.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 2.046553685061768,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+        "commentatorTierSimilarities": [
+            32.15,
+            36.73,
+            31.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As the first outpouring of the Spirit, so this special one in answer to prayer, was testified by an outward and visible sign.\" (30 words)",
+            "It was on every ground probable that the token of the especial presence of God would be some phenomenon which would be recognized as such by those present.\" (27 words)",
+            "They were all filled with a fresh and renewed outpouring.\" (11 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Place was shaken\u2014glorious token of the commotion which the Gospel was to make.\" ",
+            "The Spirit rested upon the entire community, first, in the very way they had asked, so that they 'spake the word with boldness'.\" ",
+            "The community of goods was but an outward expression of this, and natural in such circumstances."
+        ],
+        "Albert Barnes": [
+            "The event which followed was regarded by them as an evidence that God heard their prayer.",
+            "The language here is suited to express the idea of an earthquake.",
+            "Their being filled with the Holy Spirit here rather denotes their being inspired with confidence or boldness than being endowed with new powers."
+        ],
+        "John Calvin": [
+            "But the fruit followeth, for they are all filled with the Holy Ghost, and endowed with greater boldness.\" ",
+            "For whereas God did declare his power then by shaking the place it was a rare and extraordinary thing.",
+            "This is a perpetual profit of prayer, which is also set before us for an example."
+        ],
+        "Archibald T. Robertson": [
+            "The place was shaken...a token of God's presence and power.",
+            "Were gathered together.",
+            "They spake...after being filled with the Holy Spirit."
+        ],
+        "John Gill": [
+            "the place was shaken where they were assembled together; ... a symbol of the divine presence, and a token that their prayers were heard\" (Acts 4:31).",
+            "they were all filled with the Holy Ghost; with the gifts of the Holy Ghost...and it may be of the whole church\" (Acts 4:31).",
+            "they spoke the word of God with all boldness; ... in which they had a remarkable answer\" (Acts 4:31)."
+        ],
+        "John Wesley": [
+            "They were all filled \u2014 Afresh; and spake the word with boldness - So their petition was granted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers in Acts 4:31 experienced a special outpouring of the Holy Spirit as a result of their prayers. This outpouring was marked by a visible sign, possibly an earthquake, which signified God's presence and power. The entire community was filled with a fresh and renewed outpouring of the Spirit, leading them to speak the word of God with boldness. This boldness was a result of being inspired and confident, rather than an increase in supernatural abilities. The shaking of the place where they were gathered together served as a symbol of God's presence and a confirmation that their prayers had been heard. This event was a testimony to the power of prayer and a reminder of the importance of seeking God's presence in the community.",
+            "wordCount": 128,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 2.001671453190081,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.9,
+            "commentatorTierSimilarities": [
+                31.57,
+                36.6,
+                31.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The believers in this passage experienced a fresh outpouring of the Holy Spirit in response to their prayers. This outpouring was accompanied by a visible sign, which was likely an earthquake, serving as a testimony to God's presence and power. The entire community was filled anew with the Spirit, resulting in boldness to proclaim God's word. The shaking of the place where they were gathered together was a clear indication that their prayers had been heard. This event demonstrates the effectiveness of prayer and the importance of seeking God's presence within the community.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0158134168249817,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                31.99,
+                37.11,
+                30.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers experienced a fresh outpouring of the Holy Spirit, testified by a visible sign - possibly an earthquake - as a manifestation of God's presence and power. This renewed outpouring filled the entire community and empowered them to boldly speak the word of God. The shaking of the place where they were gathered together confirmed that their prayers had been heard. This powerful event serves as a reminder of the efficacy of prayer and the significance of seeking God's presence in the community.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8924855086199597,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                32.11,
+                36.3,
+                31.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers experienced a fresh outpouring of the Holy Spirit as a response to their prayers. This outpouring was accompanied by a visible sign, likely an earthquake, which served as a token of God's presence and power. The entire community was filled anew with the Spirit, enabling them to speak the word of God boldly. The shaking of the place where they gathered together was a tangible confirmation that their prayers had been heard. This event highlights the power of prayer and the importance of seeking God's presence within the community.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.046553685061768,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                32.15,
+                36.73,
+                31.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers experienced a renewed outpouring of the Holy Spirit, evidenced by a visible sign, possibly an earthquake, affirming God's presence. This fresh infilling empowered the entire community to boldly proclaim the word of God. The shaking of the place where they were gathered served as a symbol of divine presence and a confirmation that their prayers were heard. This remarkable answer to prayer demonstrates the perpetual benefit of seeking God's presence and serves as an example for believers to follow.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.9381230873218982,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                31.5,
+                36.63,
+                31.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

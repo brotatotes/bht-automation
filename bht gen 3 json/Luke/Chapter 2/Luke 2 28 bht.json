@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:13:55",
+    "verseRef": "Luke 2:28",
+    "bestBHT": {
+        "bht": "Without needing Mary's explanation, he immediately recognized in the child, without hesitation, that this was the promised Messiah. The act of taking the babe in his arms is significant, as if he proclaimed, This is all my salvation and all my desire. With great joy, he embraced the child, praising God for His goodness in sending the long-awaited Savior and for His faithfulness in fulfilling His promise.",
+        "wordCount": 69,
+        "quoteTokenProportion": 35.42,
+        "qualityScore": 1.551639781260717,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+        "commentatorTierSimilarities": [
+            29.16,
+            26.66,
+            44.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "immediately recognizing in the child, with unhesitating certainty, the promised Messiah, without needing Mary to inform him of what had happened to her.\" ",
+            "The remarkable act of taking the babe in his arms must not be overlooked.",
+            "It was as if he said, 'This is all my salvation and all my desire' (2 Samuel 23:5)."
+        ],
+        "Albert Barnes": [
+            "Blessed God - Thanked or praised God."
+        ],
+        "Archibald T. Robertson": [
+            "Then he (\u03ba\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c2). \u039a\u03b1 as in Luke 2:21. \u0391\u03c5\u03c4\u03bf\u03c2, emphatic subject, he after the parents.",
+            "Arms (\u03b1\u03b3\u03ba\u03b1\u03bb\u03b1\u03c2). Old Greek word, here only in the N.T.",
+            "It means the curve or inner angle of the arm."
+        ],
+        "John Gill": [
+            "That same Spirit that had revealed unto him that he should not die till he saw the Messiah with his bodily eyes; and who by a secret impulse had moved him to go to the temple just at this time made known unto him that that child which Joseph and Mary then brought into the temple to present to the Lord, was the Messiah.",
+            "in a rapture of joy, he took him out of their arms into his own, embracing him with all affection and respect imaginable",
+            "praised him, and gave glory to him, for his great goodness, in sending the promised Messiah, and long wished for Saviour; for his grace and favour, in indulging him with a sight of him; and for his truth and faithfulness in making good his promise to him"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With unhesitating certainty, one immediately recognizes in the child the promised Messiah, as the act of taking the babe in his arms is not to be overlooked. It's as if he proclaims, This is all my salvation and all my desire. In a rapture of joy, he embraces the child with all affection and respect imaginable, praising and giving glory to God for His grace and faithfulness in making good on His promise of sending the long-awaited Savior.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4361231624427113,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.09,
+            "commentatorTierSimilarities": [
+                29.14,
+                22.26,
+                48.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Without needing Mary to inform him, one immediately recognizes in the child, with unhesitating certainty, the promised Messiah. The remarkable act of taking the babe in his arms must not be overlooked. It's as if he proclaims, This is all my salvation and all my desire. In a rapture of joy, he embraces the child, praising and giving glory to God for His grace and faithfulness in making good on His promise of sending the long-awaited Savior.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3929281130694826,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.66,
+            "commentatorTierSimilarities": [
+                34.57,
+                21.11,
+                44.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Immediately recognizing in the child, with unhesitating certainty, the promised Messiah, without needing Mary to inform him, is a remarkable act that cannot be overlooked. It's as if he said, This is all my salvation and all my desire. In a rapture of joy, he took him out of their arms into his own, embracing him with all affection and respect imaginable. He praised God, giving glory for His great goodness in sending the promised Messiah and for His faithfulness in making good His promise.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.4967875043159107,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.11,
+            "commentatorTierSimilarities": [
+                25.21,
+                24.0,
+                50.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Without needing Mary's explanation, he immediately recognized in the child, without hesitation, that this was the promised Messiah. The act of taking the babe in his arms is significant, as if he proclaimed, This is all my salvation and all my desire. With great joy, he embraced the child, praising God for His goodness in sending the long-awaited Savior and for His faithfulness in fulfilling His promise.",
+            "wordCount": 69,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.551639781260717,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                29.16,
+                26.66,
+                44.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With unhesitating certainty, one immediately recognizes in the child the promised Messiah, as the act of taking the babe in his arms is not to be overlooked. It's as if he proclaims, This is all my salvation and all my desire. In a rapture of joy, he embraces the child, praising and giving glory to God for His grace and faithfulness in making good on His promise of sending the long-awaited Savior.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.442932913218535,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.32,
+            "commentatorTierSimilarities": [
+                29.66,
+                22.83,
+                47.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

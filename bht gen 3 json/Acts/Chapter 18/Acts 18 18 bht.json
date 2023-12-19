@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:33:27",
+    "verseRef": "Acts 18:18",
+    "bestBHT": {
+        "bht": "After spending a substantial amount of time in Corinth, Paul decided to leave and head to Syria. Before departing, he fulfilled a personal vow by shaving his head. This act illustrated his adherence to the ceremonial law as a practicing Jew, though he did not impose it on the Gentiles. The vow was likely a result of God's mercy or deliverance. Despite facing challenges, Paul remained steadfast in his mission, even establishing churches in Achaia during his time in Corinth. Aquila and Priscilla played essential roles in Paul's ministry.",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.9489885201470414,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.15,
+        "commentatorTierSimilarities": [
+            35.95,
+            33.6,
+            30.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I agree with Neander that if we consider the matter carefully, there can be no doubt that they can only apply to Paul.",
+            "That he should do so apologetically, to shew that the Apostle still countenanced conformity with the law, is a view which I cannot find justified by any features of this book.",
+            "That he was now so anxious to pay it (ver. 21), consists well with the supposition of its having been long delayed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "During his long residence at Corinth, Paul planted other churches in Achaia.",
+            "Syria\u2014to Antioch, the starting-point of all the missions to the Gentiles, which he feels to be for the present concluded.",
+            "This one at Corinth was voluntary, and shows that even in heathen countries he systematically studied the prejudices of his Jewish brethren."
+        ],
+        "Albert Barnes": [
+            "A 'vow' is a solemn promise made to God respecting anything. The use of vows is observable throughout the Scripture.",
+            "The most remarkable vow among the Jews was that of the Nazarite, by which a man made a solemn promise to God to abstain from wine, and from all intoxicating liquors, to let the hair grow, not to enter any house polluted by having a dead body in it, or attend any funeral.",
+            "It is possible that Paul may have made such a vow in consequence of signal deliverance from some of the numerous perils to which he was exposed."
+        ],
+        "Marvin Vincent": [
+            "Took his leave [\u03b1\u03c0\u03bf\u03c4\u03b1\u03b6\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2] .",
+            "Having shorn his head. Referring to Paul, and not to Aquila.",
+            "He had a vow. A private vow, such as was often assumed by the Jews in consequence of some mercy received or of some deliverance from danger."
+        ],
+        "John Calvin": [
+            "he had rather sting and nettle them, than by departing minister unto them any new occasion of rage.",
+            "As touching the substance of purifying he did not dissemble, and that he used the ceremony which was as yet free, not as if God did require such worship, but that he might somewhat bear with the ignorant.",
+            "when better hope to do good is offered us than we were wont to have, we are drawn unto divers affairs, as it were, by the hand of God, that we may learn to give over ourselves to be governed at his pleasure."
+        ],
+        "Philip Schaff": [
+            "She was a distinguished instance of one of those bright earnest women whose powers were called into action by the work and teaching of Jesus Christ and His chosen friends, one of the pioneers of that devoted band of women-workers who have now for eighteen hundred years done such splendid work for their Lord\u2019s cause in all climes and among all peoples.",
+            "Our knowledge of the exact nature of \u2018vows\u2019 among the Jews at this period is not sufficient for us to describe with any detail the circumstances which attended the carrying out this \u2018vow\u2019 of St. Paul.",
+            "Nor did he ever teach other Jews to despise it; on the contrary, he was only too glad on solemn occasions to show his reverence for it, his love for its ancient precepts."
+        ],
+        "Archibald T. Robertson": [
+            "Vindicated as Paul was, there was no reason for haste in leaving, though he usually left after such a crisis was passed.",
+            "Aquila comes next to the participle, but since mention of Priscilla and Aquila is parenthetical and the two other participles (\u03c0\u03c1\u03bf\u03c3\u03bc\u03b5\u03b9\u03bd\u03b1\u03c3, \u03b1\u03c0\u03bf\u03c4\u03b1\u03be\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2) refer to Paul it seems clear that this one does also.",
+            "Paul as a Jew kept up his observance of the ceremonial law, but refused to impose it on the Gentiles."
+        ],
+        "John Gill": [
+            "And Paul after this tarried there yet a good while.... for this insurrection might follow immediately upon the vision the apostle had; and who by that was encouraged to continue in this city, notwithstanding the treatment he met with; he not doubting of the promise of God, and of his power and faithfulness to fulfil it, though this was a trial of his faith and constancy.",
+            "Having shorn his head in Cenchrea; which some understand not of Paul, but of Aquila, who is the last person spoken of; but the more authentic reading is in the singular number, and is more generally understood of the Apostle Paul; who being about to go into Judea, to the Jew became a Jew, that he might gain some.",
+            "For he had a vow; this, some think, could not be the vow of the Nazarites, for then he should have stayed till he came to Jerusalem, and have shaved his head at the door of the tabernacle of the congregation, and cast the hair into the fire, under the pot in which the peace offerings were boiled b; though he that vowed in the country, was not obliged to this: others think it was such an one as the Jews in travelling used, that they would not shave till they came to such a place; and so the apostle had made a vow that he would shave at Cenchrea; and accordingly did."
+        ],
+        "John Wesley": [
+            "Paul continued many days \u2014 After the year and six months, to confirm the brethren.",
+            "Aquila having shaved his head \u2014 As was the custom in a vow, Acts 21:24; Numbers 6:18.",
+            "At Cenchrea \u2014 A seaport town, at a small distance from Corinth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Paul had spent a considerable amount of time at Corinth, he prepared to leave and traveled on to Syria. Before departing, Paul shaved his head and fulfilled a vow he had made. This act of shaving his head served as a tangible expression of Paul's observance of the ceremonial law, which he held onto as a Jew but did not impose on Gentiles. This vow was personal and voluntary, likely made in response to God's mercy or deliverance. Despite facing opposition and challenges, Paul remained dedicated to his mission of spreading the Gospel, even planting churches in Achaia while in Corinth. He and Aquila, along with his wife Priscilla, remained significant figures in Paul's ministry, and their contributions were indispensable.",
+            "wordCount": 124,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.02998333791961,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+            "commentatorTierSimilarities": [
+                35.23,
+                33.21,
+                31.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After spending a substantial amount of time in Corinth, Paul decided to leave and head to Syria. Before departing, he fulfilled a personal vow by shaving his head. This act illustrated his adherence to the ceremonial law as a practicing Jew, though he did not impose it on the Gentiles. The vow was likely a result of God's mercy or deliverance. Despite facing challenges, Paul remained steadfast in his mission, even establishing churches in Achaia during his time in Corinth. Aquila and Priscilla played essential roles in Paul's ministry.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.9489885201470414,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.15,
+            "commentatorTierSimilarities": [
+                35.95,
+                33.6,
+                30.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After spending a significant amount of time in Corinth, Paul made preparations to leave and continue his journey to Syria. Before departing, he fulfilled a personal vow by shaving his head, demonstrating his observance of the ceremonial law. This vow was voluntary and likely made in response to a specific mercy or deliverance from danger. Despite facing opposition, Paul remained committed to his mission, even planting churches in Achaia. Aquila and Priscilla were instrumental in his ministry, contributing greatly to the spread of the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.908208700182466,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+            "commentatorTierSimilarities": [
+                35.44,
+                34.99,
+                29.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After his stay in Corinth, Paul prepared to depart for Syria. Before leaving, he kept a personal vow by shaving his head, a symbolic action that demonstrated his adherence to the ceremonial law as a Jew. This vow was likely made in response to some form of divine mercy or deliverance. Despite facing challenges, Paul remained dedicated to his mission, even establishing churches in Achaia. Aquila and Priscilla played crucial roles in Paul's ministry and made significant contributions to spreading the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.9271219105265551,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+            "commentatorTierSimilarities": [
+                34.87,
+                35.38,
+                29.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After his time in Corinth, Paul prepared to leave for Syria, fulfilling a personal vow to shave his head before departing. This act symbolized his adherence to the ceremonial law as a Jew but did not impose it on Gentiles. The vow likely resulted from God's mercy or deliverance. Despite opposition, Paul remained committed to his mission, planting churches and working alongside Aquila and Priscilla in ministry. They played a significant role in spreading the Gospel and supporting Paul's efforts.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.9387665552219366,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                35.0,
+                34.69,
+                30.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

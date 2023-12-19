@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:28:05",
+    "verseRef": "Acts 8:29",
+    "bestBHT": {
+        "bht": "Through an unmistakable voice within, the Spirit directed Philip to go near and join the chariot. This vivid word join thyself conveys the idea of being glued to the chariot, suggesting that Philip was to eagerly and closely follow it. By following this divine instruction, it becomes evident that all good thoughts and designs originate from the same source and shows the involvement of the Holy Spirit in this encounter.",
+        "wordCount": 70,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 1.7830547643455268,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+        "commentatorTierSimilarities": [
+            27.73,
+            22.98,
+            49.29
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the Spirit said\u2014by an unmistakable voice within...\" ",
+            "go near and join this chariot\u2014This would reveal to Philip the hitherto unknown object of his journey..."
+        ],
+        "Albert Barnes": [
+            "All good thoughts and designs have the same origin.\" ",
+            "The Holy Spirit is evidently intended here.",
+            "Join him in his chariot. Go and sit with him."
+        ],
+        "Marvin Vincent": [
+            "Join thyself [\u03ba\u03bf\u03bb\u03bb\u03b7\u03b8\u03b7\u03c4\u03b9] . See on Luke 14:15; Luke 10:11; Acts 5:12."
+        ],
+        "Archibald T. Robertson": [
+            "See this vivid word (be glued to, first aorist passive imperative) already in Acts 5:13; Luke 10:11; Luke 15:15.",
+            "Philip probably jumped on the running board on the side of the chariot.",
+            "Join thyself (\u03ba\u03bf\u03bb\u03bb\u03b7\u03b8\u03b7\u03c4). See this vivid word (be glued to, first aorist passive imperative) already in Acts 5:13; Luke 10:11; Luke 15:15."
+        ],
+        "John Gill": [
+            "Then the Spirit said unto Philip... the Holy Spirit... who spoke unto him... directed him.\" ",
+            "Go near, and join thyself to this chariot... follow it, and attend it closely... till an opportunity of conversing with the person in it offered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Spirit spoke to Philip through an unmistakable voice within, revealing to him the previously unknown purpose of his journey - to join this chariot. It is as if Philip was being commanded to be glued to the chariot, eagerly and attentively following it until the opportunity for conversation arose. This divine instruction not only shows that all good thoughts and designs have the same origin, but also emphasizes the involvement of the Holy Spirit in this encounter.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.594949626859857,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                28.18,
+                23.07,
+                48.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Spirit, through an unmistakable voice within, directed Philip to go near and join the chariot. This vivid word join thyself conveys the idea of being glued to the chariot, suggesting that Philip was to eagerly and closely follow it until the time came to engage in conversation. By following this divine instruction, it becomes evident that all good thoughts and designs originate from the same source. Moreover, this episode highlights the involvement of the Holy Spirit in orchestrating this encounter.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.59536280061733,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.39,
+            "commentatorTierSimilarities": [
+                28.34,
+                23.69,
+                47.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit, through an unmistakable voice within, directed Philip to go near and join the chariot. This vivid word join thyself conveys the idea of being glued to the chariot, suggesting that Philip was to eagerly and closely follow it. By following this divine instruction, it becomes evident that all good thoughts and designs originate from the same source. Moreover, this episode highlights the involvement of the Holy Spirit in orchestrating this encounter.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.6244874911257168,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                28.4,
+                24.57,
+                47.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through an unmistakable voice within, the Spirit directed Philip to go near and join the chariot. This vivid word join thyself conveys the idea of being glued to the chariot, suggesting that Philip was to eagerly and closely follow it. By following this divine instruction, it becomes evident that all good thoughts and designs originate from the same source and shows the involvement of the Holy Spirit in this encounter.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.7830547643455268,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                27.73,
+                22.98,
+                49.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Spirit spoke to Philip, directing him to go near and join the chariot. This command to join thyself implies a close and devoted following, as if Philip were to be glued to the chariot itself. By obediently adhering to this divine instruction, Philip would have the opportunity to engage in conversation with the person in the chariot. This episode highlights the involvement of the Holy Spirit in guiding and orchestrating this encounter, demonstrating that all good thoughts and designs originate from the same divine source.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.690334021382947,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+            "commentatorTierSimilarities": [
+                27.55,
+                22.35,
+                50.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

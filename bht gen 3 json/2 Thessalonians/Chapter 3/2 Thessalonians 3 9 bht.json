@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:38:14",
+    "verseRef": "2 Thessalonians 3:9",
+    "bestBHT": {
+        "bht": "Paul asserts his right to receive support but chooses to decline it in order to preserve his independence and set an example of industry. He did not want to be misunderstood or for his preaching to be seen as a law for future ministers. By working with his own hands, Paul wanted to showcase the importance of labor and to shame those who did nothing. Though he had the power to receive support, he wanted to emphasize that it was not because he lacked power that he declined, but rather to maintain their right to claim support when necessary.",
+        "wordCount": 99,
+        "quoteTokenProportion": 47.69,
+        "qualityScore": 1.5989121192801146,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.51,
+        "commentatorTierSimilarities": [
+            22.55,
+            31.9,
+            45.55
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] See 1 Cor. ix. 4. ff., where he treats of his abstinence from this his apostolic power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. (1 Corinthians 9:4-6;",
+            "\tGalatians 6:6.)"
+        ],
+        "Albert Barnes": [
+            "Not because we have not power ... - See the notes on 1 Corinthians 9:6, 1 Corinthians 9:12, 1 Corinthians 9:14."
+        ],
+        "Marvin Vincent": [
+            "Power [\u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03b1\u03bd] . Better, right. See on Mark 2:10; John 1:12."
+        ],
+        "John Calvin": [
+            "As Paul wished by his laboring to set an example, that idle persons might not like drones eat the bread of others...",
+            "There was a danger, lest the Thessalonians, having had from the beginning the preaching of the gospel from Paul\u2019s mouth gratuitously, should lay it down as a law for the future as to other ministers...",
+            "He designed by this means to inflict the greater disgrace, as I have already noticed above, on those that do nothing, for it is an argument from the greater to the less."
+        ],
+        "Philip Schaff": [
+            "His reasons for declining to receive regular assistance, while he thus strongly asserted his right to it, were these: 1st. That he might preserve his independence, and preclude the possibility of misconstruction.",
+            "That he might be an ensample of industry.",
+            "And there are still laymen who use the profits of their industry for the welfare of others, as well as clergymen who give much more than they receive."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is sensitive on his right to receive adequate support.",
+            "He did allow churches to help him where he would not be misunderstood.",
+            "Purpose with \u03b9\u03bd\u03b1 and second aorist active subjunctive of \u03b4\u03b9\u03b4\u03c9\u03bc."
+        ],
+        "John Gill": [
+            "Not because we have not power...This the apostle says to preserve their right of claim, when and where they should think fit to make use of it.",
+            "They did not do this, as conscious that they had no right to demand a supply from them.",
+            "The apostles wrought with their own hands, to set an example, who could not for shame but work, when they saw persons in so high an office, and of such a character, working with labour and travail, night and day, among them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul asserts his right to receive support but chooses to decline it in order to preserve his independence and set an example of industry. He did not want to be misunderstood or for his preaching to be seen as a law for future ministers. By working with his own hands, Paul wanted to showcase the importance of labor and to shame those who did nothing. Though he had the power to receive support, he wanted to emphasize that it was not because he lacked power that he declined, but rather to maintain their right to claim support when necessary.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.5989121192801146,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.51,
+            "commentatorTierSimilarities": [
+                22.55,
+                31.9,
+                45.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, sensitive about his right to receive support, allowed churches to help him to avoid misunderstanding. By declining regular assistance, he aimed to preserve his independence, serve as an example of industry, and prevent the Thessalonians from depending solely on him for future ministers. His manual labor also aimed to shame those who did nothing. While he had the power to receive support, his decision was not due to lacking power, but rather to maintain the ability to claim support when necessary.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.5585653722062314,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+            "commentatorTierSimilarities": [
+                26.82,
+                30.99,
+                42.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul asserts his right to receive support but chooses to decline it in order to preserve his independence and set an example of industry. He did not want to be misunderstood or for his preaching to be seen as a law for future ministers. By working with his own hands, Paul wanted to showcase the importance of labor and to shame those who did nothing. Though he had the power to receive support, he wanted to emphasize that it was not because he lacked power that he declined, but rather to maintain their right to claim support when necessary.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.5989121192801146,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.51,
+            "commentatorTierSimilarities": [
+                22.55,
+                31.9,
+                45.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, sensitive about his right to receive support, allowed churches to help him to avoid misunderstanding. By declining regular assistance, he aimed to preserve his independence, serve as an example of industry, and prevent the Thessalonians from depending solely on him for future ministers. His manual labor also aimed to shame those who did nothing. While he had the power to receive support, his decision was not due to lacking power, but rather to maintain the ability to claim support when necessary.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.5585653722062314,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+            "commentatorTierSimilarities": [
+                26.82,
+                30.99,
+                42.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, aware of his right to support, chose not to rely on it to preserve his independence and set an example of hard work. He did not want his actions to be seen as a law for future ministers or be misunderstood. By engaging in manual labor, Paul aimed to shame those who were idle and highlight the importance of industry. Although he had the power to receive assistance, he emphasized that his decision was not due to lack of power, but rather to maintain the right to claim support when necessary.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.5574710346292293,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.13,
+            "commentatorTierSimilarities": [
+                22.76,
+                30.84,
+                46.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

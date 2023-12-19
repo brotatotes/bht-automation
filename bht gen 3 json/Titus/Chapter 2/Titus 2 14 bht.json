@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:08:52",
+    "verseRef": "Titus 2:14",
+    "bestBHT": {
+        "bht": "He gave Himself, His whole self, the greatest gift ever given, for us, not instead of us, to redeem us from the power, the very being, and the guilt of our sins. We are now His peculiar people, a Church whom He loves and sanctifies, a people for His own possession. His grace brings along with it newness of life, and we are to be zealous of good works as the result of our redemption.",
+        "wordCount": 75,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 1.918786080265193,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+        "commentatorTierSimilarities": [
+            22.34,
+            33.44,
+            44.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The forcible 'Himself, His whole self, the greatest gift ever given,' must not be overlooked.",
+            "An appropriate image in addressing bond-servants.",
+            "Peculiarly His own, as Israel was of old."
+        ],
+        "Albert Barnes": [
+            "Unto himself; that is, they are no longer to be regarded as their own, but as redeemed for his own service, and for the promotion of his glory.",
+            "They were to be regarded as belonging to the Lord Jesus... they belong to the Saviour in contradistinction from belonging to themselves.",
+            "Zealous of good works - As the result of their redemption; that is, this is one object of their having been redeemed."
+        ],
+        "Marvin Vincent": [
+            "Gave himself for us [\u03b5\u03b4\u03c9\u03ba\u03b5\u03bd \u03b5\u03b1\u03c5\u03c4\u03bf\u03bd \u03c5\u03c0\u03b5\u03c1 \u03b7\u03bc\u03c9\u03bd]. Uper on behalf of; not instead of.\" ",
+            "Neither lutron ransom, lutrwsiv redemption, nor lutrwthv redeemer occur in Paul. He has the figure of purchase [\u03b1\u03b3\u03bf\u03c1\u03b1\u03b6\u03b5\u03c3\u03b8\u03b1\u03b9, \u03b5\u03be\u03b1\u03b3\u03bf\u03c1\u03b1\u03b6\u03b5\u03c3\u03b8\u03b1\u03b9].\" ",
+            "A peculiar people (laon periousion). The phrase was originally applied to the people of Israel, but is transferred here to believers in the Messiah - Jews and Gentiles."
+        ],
+        "John Calvin": [
+            "His grace, therefore, necessarily brings along with it 'newness of life,' because they who still are the slaves of sin make void the blessing of redemption.\" ",
+            "A peculiar people, zealous of good works; by which he means that, so far as concerns us, the fruit of redemption is lost, if we are still entangled by the sinful desires of the world.\" ",
+            "And in order to express more fully, that we have been consecrated to good works by the death of Christ, he makes use of the word purify; for it would be truly base in us to be again polluted by the same filth from which the Son of God hath washed us by his blood."
+        ],
+        "Archibald T. Robertson": [
+            "Who gave himself for us.\" ",
+            "That he might redeem us.",
+            "A people for his own possession."
+        ],
+        "John Gill": [
+            "Not another, or another's, but himself; not merely his own things, but his own self; not the world, and the riches of it, not gold and silver...but himself.",
+            "Christ was made sin, and a curse for his people, that he might redeem them from both, and deliver them from the punishment due to sin.",
+            "Christ has a peculiar people among these, a church whom he loves, and for whom he has given himself, that he might sanctify and cleanse them from their sins."
+        ],
+        "John Wesley": [
+            "Who gave himself for us \u2014 To die in our stead.",
+            "That he might redeem us \u2014 Miserable bondslaves, as well from the power and the very being, as from the guilt, of all our sins."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He gave Himself, His whole self, the greatest gift ever given, for us, not instead of us, to redeem us from the power, the very being, and the guilt of our sins. We are now His peculiar people, a Church whom He loves and sanctifies, a people for His own possession. We are no longer our own, but redeemed for His service and for the promotion of His glory. His grace brings along with it newness of life, and we are to be zealous of good works as the result of our redemption. It would be truly base in us to be again polluted by the same filth from which the Son of God has washed us by His blood.",
+            "wordCount": 120,
+            "quoteTokenProportion": 48.65,
+            "qualityScore": 1.8649132901404006,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                21.78,
+                35.44,
+                42.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He gave Himself, His whole self, the greatest gift ever given, for us, not instead of us, to redeem us from the power, the very being, and the guilt of our sins. We are now His peculiar people, a Church whom He loves and sanctifies, a people for His own possession. His grace brings along with it newness of life, and we are to be zealous of good works as the result of our redemption. It would be truly base in us to be again polluted by the same filth from which the Son of God has washed us by His blood.",
+            "wordCount": 102,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 1.827050430641365,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
+            "commentatorTierSimilarities": [
+                22.05,
+                31.67,
+                46.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He gave Himself, His whole self, the greatest gift ever given, for us, not instead of us, to redeem us from the power, the very being, and the guilt of our sins. We are now His peculiar people, a Church whom He loves and sanctifies, a people for His own possession. His grace brings along with it newness of life, and we are to be zealous of good works as the result of our redemption.",
+            "wordCount": 75,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 1.918786080265193,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                22.34,
+                33.44,
+                44.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ, the greatest gift ever given, freely and willingly gave himself for us, not just instead of us, but on behalf of us. His act of giving himself as a ransom and redeemer was to redeem us, a people for his own possession. This act of redemption has consecrated us to good works and calls us to be zealous in doing what is pleasing to him. Our redemption is not merely an external act, but it ought to bring forth a transformation in our lives, causing us to be set apart as a peculiar people, zealous of good works. Through the death of Christ, we have been purged from the filth of sin, and it would be shameful for us to return to the same defilement. Therefore, let us live as those who belong to the Lord Jesus, bringing glory to his name through our actions and service.",
+            "wordCount": 148,
+            "quoteTokenProportion": 43.82,
+            "qualityScore": 1.8826444238540243,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+            "commentatorTierSimilarities": [
+                22.65,
+                36.86,
+                40.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ gave himself, the greatest gift ever given, on behalf of us as a ransom and redeemer, not just instead of us. His act of giving himself was to redeem us, a people for his own possession. Through his death, we have been cleansed from sin and consecrated to good works. Therefore, let us zealously live as those who belong to the Lord Jesus, bringing glory to his name through our actions and service.",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.001098139168174,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.88,
+            "commentatorTierSimilarities": [
+                25.44,
+                35.96,
+                38.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

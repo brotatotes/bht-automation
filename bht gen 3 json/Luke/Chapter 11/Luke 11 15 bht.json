@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:18:13",
+    "verseRef": "Luke 11:15",
+    "bestBHT": {
+        "bht": "The Pharisees responded to Jesus's miracles by accusing him of casting out demons through Beelzebub, the chief of devils. This blasphemous accusation aimed to undermine the credibility of Jesus's power. However, this explanation was entirely absurd and Jesus challenged it by questioning how Satan could cast out Satan. Beelzebub, a term associated with the Philistine deity and even the chief god of the heathens, carried significant meaning. Ultimately, these baseless accusations revealed the Pharisees' skepticism and hostility towards Jesus.",
+        "wordCount": 81,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.5890401409542165,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+        "commentatorTierSimilarities": [
+            29.58,
+            23.79,
+            46.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No inference can here be drawn that these persons were not Pharisees...",
+            "No inference can here be drawn...that the charge proceeded from a different quarter.",
+            "No inference can here be drawn...consequently that the charge proceeded from a different quarter."
+        ],
+        "Marvin Vincent": [
+            "Beelzebub. See on Matthew 10:25."
+        ],
+        "Philip Schaff": [
+            "Luke omits the language of the people which called forth this expression of hostility.\" ",
+            "Matthew\u2019s more definite statement on the latter point would require the mention of the hostile class.\" ",
+            "See on Matthew 12:24."
+        ],
+        "Archibald T. Robertson": [
+            "Dumb (\u03ba\u03c9\u03c6\u03bf\u03bd). See on Matthew 9:32.",
+            "By Beelzebub (\u03b5\u03bd \u0392\u03b5\u03b5\u03b6\u03b5\u03b2\u03bf\u03c5\u03bb). Blasphemous accusation here in Judea as in Galilee (Mark 3:22; Matthew 12:24; Matthew 12:27).",
+            "It was useless to deny the fact of the miracles. So they were explained as wrought by Satan himself, a most absurd explanation."
+        ],
+        "John Gill": [
+            "He casteth out devils through Beelzebub, the chief of devils.\" ",
+            "How can Satan cast out Satan?\" ",
+            "And he answered and said, how can Satan cast out Satan?"
+        ],
+        "John Wesley": [
+            "Beelzebub signifies the lord of flies, a title which the heathens gave to Jupiter, whom they accounted the chief of their gods, and yet supposed him to be employed in driving away flies from their temple and sacrifices.\" ",
+            "The Philistines worshipped a deity under this name, as the god of Ekron: from hence the Jews took the name, and applied it to the chief of the devils.",
+            "Beelzebub signifies the lord of flies, a title which the heathens gave to Jupiter, whom they accounted the chief of their gods."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, in an attempt to discredit Jesus's miracles, accused him of casting out demons by the power of Beelzebub, the chief of devils. This blasphemous accusation was a desperate attempt to explain away the undeniable reality of Jesus's miracles. However, it was a completely absurd explanation, as Jesus himself pointed out, asking how Satan could cast out Satan. The term Beelzebub carries significance, as it referred to the Philistine deity worshipped in Ekron, and as the heathens gave to Jupiter, their chief god. Ultimately, these accusations only served to reveal the skepticism and hostility of the Pharisees towards Jesus.",
+            "wordCount": 102,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.610005872195499,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                30.14,
+                23.38,
+                46.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees responded to Jesus's miracles by accusing him of casting out demons through Beelzebub, the chief of devils. This blasphemous accusation aimed to undermine the credibility of Jesus's power. However, this explanation was entirely absurd and Jesus challenged it by questioning how Satan could cast out Satan. Beelzebub, a term associated with the Philistine deity and even the chief god of the heathens, carried significant meaning. Ultimately, these baseless accusations revealed the Pharisees' skepticism and hostility towards Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5890401409542165,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+            "commentatorTierSimilarities": [
+                29.58,
+                23.79,
+                46.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees sought to discredit Jesus by claiming that he cast out demons through the power of Beelzebub, the chief of devils. This accusation was an absurd attempt to explain away the undeniable miracles Jesus performed. However, Jesus countered their claim by questioning how Satan could cast out Satan. Beelzebub held significance as it was associated with the Philistine deity and even with Jupiter, the chief god worshipped by the heathens. Ultimately, this accusation revealed the Pharisees' hostility and skepticism towards Jesus.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5805733770708406,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.9,
+            "commentatorTierSimilarities": [
+                29.39,
+                22.39,
+                48.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees, in their skepticism and hostility towards Jesus, accused him of casting out demons by the power of Beelzebub, the chief of devils. This absurd and blasphemous explanation aimed to discredit the undeniable miracles Jesus performed. However, Jesus questioned how Satan could cast out Satan, exposing the flawed reasoning of the Pharisees. The term Beelzebub held significance as it referred to the Philistine deity and even to Jupiter, the chief god of the heathens. These baseless accusations revealed the Pharisees' deep-seated opposition to Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.5839100937651944,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.01,
+            "commentatorTierSimilarities": [
+                29.83,
+                23.08,
+                47.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, driven by skepticism and hostility, accused Jesus of casting out demons through the power of Beelzebub, the chief of devils. Their aim was to discredit the miracles of Jesus, but their explanation was deemed absurd as Jesus questioned how Satan could cast out Satan. The term Beelzebub held significance as it was associated with the Philistine deity and even with Jupiter, the chief god of the heathens. Ultimately, these unfounded accusations exposed the Pharisees' opposition and disbelief in Jesus's divine authority.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.5476495707784639,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.8,
+            "commentatorTierSimilarities": [
+                28.72,
+                20.12,
+                51.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

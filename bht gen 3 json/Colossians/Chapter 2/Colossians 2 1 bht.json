@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:20:18",
+    "verseRef": "Colossians 2:1",
+    "bestBHT": {
+        "bht": "Paul wants the Colossians to understand the immense struggle and conflict he has on their behalf. He emphasizes the importance of his bodily presence with the church, dismissing the idea that his spiritual presence is enough. His concern extends beyond the Colossians to the Laodiceans and Hierapolis, where Gnosticism was starting to cause harm. This inward contest of anxiety showcases his care for all the churches in the region. Despite not personally knowing the Colossians, his labor, prayer, writing, and suffering demonstrate his devotion to them and the Gospel of Christ.",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.8598945785238445,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.18,
+        "commentatorTierSimilarities": [
+            32.44,
+            27.09,
+            40.47
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I would have you know how great a conflict I have on behalf of you...\" ",
+            "The tendency of this verse is, to exalt the importance of the Apostle\u2019s bodily presence with a church...",
+            "We must not say, with some, that he shows them how little his bodily presence mattered compared with his presence in the spirit which they always had."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I wish you to know how great a conflict I have for you.",
+            "Paul considered himself a 'debtor' to all the Gentiles.",
+            "Though 'absent in the flesh, I am with you in the Spirit.'"
+        ],
+        "Albert Barnes": [
+            "I wish you knew or fully understood... the solicitude which he had had on their account.",
+            "It refers here to the anxious care, the mental conflict, the earnest solicitude which he had in their behalf.",
+            "For all these he would feel the same solicitude, for they were all exposed to the same danger."
+        ],
+        "Marvin Vincent": [
+            "What great conflict I have [\u03b7\u03bb\u03b9\u03ba\u03bf\u03bd \u03b1\u03b3\u03c9\u03bd\u03b1 \u03b5\u03c7\u03c9] . Rev., how greatly I strive.\" ",
+            "Including all who come under the same category as the Colossians and Laodicaeans. Hence equivalent to all who, like yourselves, have not seen, etc.",
+            "Indicating that the Colossians and Laodicaeans were both personally unknown to Paul."
+        ],
+        "John Calvin": [
+            "He declares his affection towards them, that he may have more credit and authority; for we readily believe those whom we know to be desirous of our welfare.",
+            "It is also an evidence of no ordinary affection, that he was concerned about them in the midst of death, that is, when he was in danger of his life; and that he may express the more emphatically the intensity of his affection and concern, he calls it a conflict.",
+            "By the same proof he confirms his statement, that his ministry is directed to them; for whence springs so anxious a concern as to their welfare, but from this, that the Apostle of the Gentiles was under obligation to embrace in his affection and concern even those who were unknown to him?"
+        ],
+        "Philip Schaff": [
+            "For I would have you know. \u2018For\u2019 introduces an illustration and proof of the \u2018striving\u2019 just spoken of.",
+            "How great (an unusual word, indicating quality as well as extent) a conflict. The term corresponds with 'striving;' it refers to the Apostle\u2019s anxiety, not to his external suffering.",
+            "In the flesh. This qualifies 'face,' = my bodily presence; 'a concrete touch added to enhance the nature of his struggle; it was not for those whom he personally knew and who personally knew him, but for those for whom his interest was purely spiritual and ministerial' (Ellicott)."
+        ],
+        "Archibald T. Robertson": [
+            "The old adjectival relative \u03b7\u03bb\u03b9\u03ba\u03bf\u03c2 (like Latin quantus) is used for age or size in N.T. only here and James 3:5 (twice, how great, how small). It is an inward contest of anxiety like the \u03bc\u03b5\u03c1\u03b9\u03bc\u03bd\u03b1 for all the churches (2 Corinthians 11:28).\" ",
+            "Paul's concern extended beyond Colossae to Laodicea (Colossians 4:16) and to Hierapolis (Colossians 4:13), the three great cities in the Lycus Valley where Gnosticism was beginning to do harm.\" ",
+            "The phrase undoubtedly includes Hierapolis (Colossians 4:13), and a few late MSS. actually insert it here. Lightfoot suggests that Hierapolis had not yet been harmed by the Gnostics as much as Colossae and Laodicea. Perhaps so, but the language includes all in that whole region who have not seen Paul's face in the flesh (that is, in person, and not in picture)."
+        ],
+        "John Gill": [
+            "he would have them know, observe, and assure themselves, that the great conflict, strife, and agony, in which he was engaged, was for them also",
+            "add to all this, the frequent battles he had with the enemy of souls, his wrestlings against principalities and powers, the many temptations of Satan with which he was attacked",
+            "his heart was towards them, he laboured for them, by praying for them, writing to them, suffering all things for their sakes, for the confirmation of them, and of the Gospel of Christ"
+        ],
+        "John Wesley": [
+            "How great a conflict - Of care, desire, prayer.",
+            "As many as have not seen my face - Therefore, in writing to the Colossians, he refrains from those familiar appellations, 'Brethren,' 'Beloved'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I want you to understand the immense struggle and conflict that I have on your behalf. Paul emphasizes the significance of his bodily presence with the church, denying the notion that his spiritual presence was enough. His concern extended beyond the Colossians to the Laodiceans and even to Hierapolis, the cities in the Lycus Valley where Gnosticism was gaining influence. This conflict was an inward contest of anxiety, showing his deep care for all the churches in that region. Paul's affection and concern for the Colossians, whom he had not personally known, was evidence of his devotion to them. His ministry was driven by this intense concern, as he labored, prayed, wrote, and suffered for their sake and the sake of the Gospel of Christ.",
+            "wordCount": 126,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9030276647483229,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+            "commentatorTierSimilarities": [
+                31.99,
+                28.48,
+                39.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul wants the Colossians to understand the magnitude of his conflict on their behalf. He stresses the importance of his bodily presence, rejecting the idea that his spiritual presence alone suffices. His concern extends not only to the Colossians but also to the Laodiceans and Hierapolis, the cities where Gnosticism was starting to cause harm. Paul's inward contest of anxiety reveals his deep care for all the churches in the region. Despite not personally knowing the Colossians, he demonstrates his devotion to them through his labor, prayer, writing, and suffering for their sake and for the sake of the Gospel of Christ.",
+            "wordCount": 103,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.9043480127374397,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "commentatorTierSimilarities": [
+                32.09,
+                27.02,
+                40.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul wants the Colossians to grasp the intense struggle he experiences on their behalf. He emphasizes the significance of his bodily presence with the church, rejecting the idea that his spiritual presence alone is sufficient. His concern extends beyond the Colossians to the Laodiceans and Hierapolis, the cities where Gnosticism was beginning to do harm. This inward contest of anxiety demonstrates his deep care for all the churches in the region. Even though he had not personally known the Colossians, his devotion is evident through his labor, prayer, writing, and suffering for their sake and the sake of the Gospel of Christ.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.8934569856179122,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "commentatorTierSimilarities": [
+                31.22,
+                28.97,
+                39.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul wants the Colossians to understand the immense struggle and conflict he has on their behalf. He emphasizes the importance of his bodily presence with the church, dismissing the idea that his spiritual presence is enough. His concern extends beyond the Colossians to the Laodiceans and Hierapolis, where Gnosticism was starting to cause harm. This inward contest of anxiety showcases his care for all the churches in the region. Despite not personally knowing the Colossians, his labor, prayer, writing, and suffering demonstrate his devotion to them and the Gospel of Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.8598945785238445,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.18,
+            "commentatorTierSimilarities": [
+                32.44,
+                27.09,
+                40.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul wants the Colossians to grasp the magnitude of his conflict on their behalf. He emphasizes the significance of his bodily presence, rejecting the notion that his spiritual presence alone is sufficient. His concern extends beyond the Colossians to the neighboring cities where Gnosticism is gaining influence. This inward contest of anxiety reveals his deep care for all the churches in the region. Despite not personally knowing the Colossians, his labor, prayer, writing, and suffering demonstrate his devotion to them and the Gospel of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8362331759095567,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                32.13,
+                27.28,
+                40.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

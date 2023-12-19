@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:35:16",
+    "verseRef": "Acts 23:13",
+    "bestBHT": {
+        "bht": "A group of more than forty individuals formed a conspiracy, swearing together and planning against Paul's life. Their intention was to carry out their design and take Paul out of the hands of the soldiers. This oath-bound agreement posed a serious threat to Paul's safety, as such a large number of desperate men were determined to see their plan through.",
+        "wordCount": 63,
+        "quoteTokenProportion": 44.68,
+        "qualityScore": 1.3776475356204256,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+        "commentatorTierSimilarities": [
+            21.53,
+            44.74,
+            33.74
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "This large number of desperate men, bound by so solemn an oath, would be likely to be successful, and the life of Paul was therefore in special danger.",
+            "The manner in which they purposed to accomplish their design is stated in Acts 23:15."
+        ],
+        "Marvin Vincent": [
+            "Conspiracy [\u03c3\u03c5\u03bd\u03c9\u03bc\u03bf\u03c3\u03b9\u03b1\u03bd] . Lit., swearing together; conjuration. According to its etymology, conspiracy is a breathing or blowing together (Latin, conspirare). Hence, of concerted thought and action."
+        ],
+        "Archibald T. Robertson": [
+            "More than forty (\u03c0\u03bb\u03b5\u03b9\u03bf\u03c5\u03c2 \u03c4\u03b5\u03c3\u03c3\u03b5\u03c1\u03b1\u03ba\u03bf\u03bd\u03c4\u03b1). Without 'than' (\u03b7) as in verse Acts 23:21; Acts 24:11 and often in the ancient Greek.",
+            "Conspiracy (\u03c3\u03c5\u03bd\u03c9\u03bc\u03bf\u03c3\u03b9\u03b1\u03bd). Old word from \u03c3\u03c5\u03bd\u03bf\u03bc\u03bd\u03c5\u03bc, to swear together. Only here in the N.T."
+        ],
+        "John Gill": [
+            "the word rendered 'conspiracy', signifies an agreement by oath",
+            "such a number of them banded together",
+            "they might have strength sufficient to take Paul out of the hands of the soldiers"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A group of more than forty individuals formed a conspiracy, swearing together and planning against Paul's life. Their intention was to carry out their design and take Paul out of the hands of the soldiers. This oath-bound agreement posed a serious threat to Paul's safety, as such a large number of desperate men were determined to see their plan through.",
+            "wordCount": 63,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.3776475356204256,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+            "commentatorTierSimilarities": [
+                21.53,
+                44.74,
+                33.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A conspiracy, characterized by a breathing or blowing together, was formed by a group of more than forty individuals who swore together. This agreement, established through an oath, presented a significant danger to Paul's life as they planned to overpower the soldiers and seize him. Their sheer numbers and resolute determination made them a formidable force, posing a real threat to Paul's safety.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.2858895537374175,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.1,
+            "commentatorTierSimilarities": [
+                27.1,
+                39.28,
+                33.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A conspiracy, deriving from the word meaning an agreement by oath, was orchestrated by a group of more than forty individuals who joined together in a solemn bond. Their goal was to forcefully take Paul out of the hands of the soldiers, which posed a considerable threat to his life. With their concerted thought and action, this large number of desperate men posed a significant danger to Paul's safety, as they were determined to carry out their plan.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.3058988921035062,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.76,
+            "commentatorTierSimilarities": [
+                22.15,
+                39.47,
+                38.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "More than forty individuals formed a conspiracy, swearing together and planning against Paul's life. This oath-bound agreement posed a serious threat to Paul's safety, as such a large number of desperate men were determined to see their plan through. Their concerted thought and action, along with their resolute determination, made them a formidable force, putting Paul in great danger. They intended to overpower the soldiers and seize Paul, with the strength of their numbers working to their advantage.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.2884984285111087,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.19,
+            "commentatorTierSimilarities": [
+                22.64,
+                42.33,
+                35.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "More than forty individuals conspired against Paul, swearing together and planning his demise. This conspiracy, rooted in their concerted thought and action, posed a grave threat to Paul's life. By banding together with a solemn oath, these desperate men aimed to overpower the soldiers and take Paul from their grasp. Their determination, coupled with their sheer numbers, made them a formidable force, endangering Paul's safety and intensifying the urgency of the situation.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.330901995518383,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.6,
+            "commentatorTierSimilarities": [
+                29.01,
+                40.92,
+                30.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

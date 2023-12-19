@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:12:32",
+    "verseRef": "1 Corinthians 12:17",
+    "bestBHT": {
+        "bht": "The eye, while supremely useful and wonderful, would not suffice on its own without other members. It would be grotesque and absurd if the body consisted solely of an eye. Similarly, it is foolish to expect all members of the church to possess the same gifts, as it would be like trying to make the body all eye. Each member has a unique place and function in the body, and the interdependence between them ensures the body's well-being. Having different gifts and functions is essential for the flourishing of the body as a whole.",
+        "wordCount": 96,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7370970587747718,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+        "commentatorTierSimilarities": [
+            34.63,
+            30.78,
+            34.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] The necessity of the members to one another, and to the body."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17. Superior as the eye",
+            "\tis, it would not do if it were the sole member to the exclusion of",
+            "\tthe rest."
+        ],
+        "Albert Barnes": [
+            "All the parts of the body are useful in their proper place.\" ",
+            "It would be as absurd to require or expect that all the members of the church should have the same endowments, as it would be to attempt to make the body 'all eye.'",
+            "All, therefore, are to be satisfied with their allotment; all are to be honored in their appropriate place."
+        ],
+        "John Calvin": [
+            "If all the members desire the honor that belongs to the eye, the consequence will be, that the whole body will perish; for it is impossible that the body should remain safe and sound, if the members have not different functions, and a mutual correspondence between them.\" ",
+            "Equality interferes with the welfare of the body, because it produces a confusion that entails present ruin.\" ",
+            "What madness, then, would it be, should one member, instead of giving way to another, conspire for its own ruin and that of the body!"
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 12:17. If the whole body were an eye, where were the hearing? If ... hearing, then where were the smelling? How preposterous then this rivalry between different gifts of the one Spirit, different functions of the one body of Christ!",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "The eye is the most wonderful organ and supremely useful.",
+            "And yet how grotesque it would be if there were nothing else but a great round rolling eye!",
+            "The smelling. Here alone in N.T."
+        ],
+        "John Gill": [
+            "If the whole body were an eye...where were the hearing?",
+            "if the church only consisted of ministers of the Gospel...there would be no hearers.",
+            "if it only consisted of hearers...there would be none of a quick understanding, or of a quick smell to discern perverse things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The necessity of the members to one another and to the body is highlighted in this verse. Though the eye is a supremely useful and wonderful organ, it would be grotesque and absurd if it were the sole member, excluding the rest. Just as it would be preposterous for the whole body to be an eye, so too would it be detrimental if all members of the church had the same gifts. Each member has their proper place and function, and the mutual correspondence between them ensures the welfare of the body. If all desired the honor of the eye, the body would perish. Therefore, equality interferes with the body's welfare, as it produces confusion and ruin. Instead, each member should be satisfied with their allotment, as the functions and gifts of the Spirit are diverse yet necessary.",
+            "wordCount": 139,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.7401581886802049,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                31.06,
+                30.5,
+                38.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The eye, while supremely useful and wonderful, would not suffice on its own without other members. It would be grotesque and absurd if the body consisted solely of an eye. Similarly, it is foolish to expect all members of the church to possess the same gifts, as it would be like trying to make the body all eye. Each member has a unique place and function in the body, and the interdependence between them ensures the body's well-being. Having different gifts and functions is essential for the flourishing of the body as a whole.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7370970587747718,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                34.63,
+                30.78,
+                34.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The eye, although incredibly useful, cannot function as the sole member of the body. It would be grotesque if there were nothing else except a large rolling eye. Likewise, it would be absurd to expect all the members of the church to have the same gifts. All members should be content with their allotted roles, recognizing that the diverse functions and gifts of the Spirit are vital for the functioning and well-being of the body.",
+            "wordCount": 76,
+            "quoteTokenProportion": 52.83,
+            "qualityScore": 1.6559769739564443,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                34.37,
+                31.16,
+                34.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 1 Corinthians 12:17, the verse highlights the necessity of the members to one another and to the body. The eye, as the most wonderful and supremely useful organ, cannot function properly without the other parts of the body. It would be grotesque and absurd if the body were all eye and lacking other members. Each part of the body has its own unique function and contribution, just as all members of the church have different gifts and roles. If all members desired the honor of the eye, the body would perish. Therefore, there must be a mutual correspondence and respect among the members to maintain the well-being of the body and the unity of the church.",
+            "wordCount": 116,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.8129527187206729,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "commentatorTierSimilarities": [
+                33.85,
+                31.69,
+                34.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The eye is a remarkable and essential organ, but it would be grotesque if the body consisted only of a rolling eye. Just as the body needs different parts to function harmoniously, the members of the church also possess diverse gifts and functions. There should be no rivalry or desire for the same position, as all members play a vital role in the body of Christ. Equality would lead to confusion and ruin, so there must be a mutual understanding and appreciation for the unique contributions of each member.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.69220386185184,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.61,
+            "commentatorTierSimilarities": [
+                30.74,
+                31.82,
+                37.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

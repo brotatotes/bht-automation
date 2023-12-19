@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:17:09",
+    "verseRef": "Luke 9:29",
+    "bestBHT": {
+        "bht": "Through heartfelt prayers, believers are privileged to experience transfiguring manifestations of God's glory. The deep groanings of their souls transport them to a heavenly realm on earth, illuminating their faces with a celestial radiance. The countenance of God's dear children becomes different and their raiment assumes a brilliant white hue that surpasses the whiteness of snow. This remarkable transformation, reminiscent of the flashing brilliance of lightning, testifies to the extraordinary power of communion with God.",
+        "wordCount": 77,
+        "quoteTokenProportion": 24.56,
+        "qualityScore": 1.327356196626956,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.48,
+        "commentatorTierSimilarities": [
+            50.49,
+            0.0,
+            49.51
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thanks to God, transfiguring manifestations are not quite strangers here.",
+            "Ofttimes in the deepest depths, out of groanings which cannot be uttered, God's dear children are suddenly transported to a kind of heaven upon earth.",
+            "Their prayers fetch down such light, strength, holy gladness, as make their face to shine, putting a kind of celestial radiance upon it."
+        ],
+        "Marvin Vincent": [
+            "Was altered [\u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf] . Lit., became different.",
+            "White [\u03bb\u03b5\u03c5\u03ba\u03bf\u03c2] . In classical Greek very indefinite as an expression of color; being used, not only of the whiteness of the snow, but of gray dust.",
+            "Luke, ejxastraptwn (only here in New Testament), flashing as with the brilliance of lightning."
+        ],
+        "John Gill": [
+            "The fashion of his countenance was altered,.... It became exceeding bright and glorious, it shone like the sun.\" ",
+            "Thus, as Christ was heard and answered, whilst he was yet speaking, so are his people sometimes; and even their countenance is altered, when they are favored with communion with God.\" ",
+            "His raiment was white and glistering; it was as white as the light, as snow, and whiter than any fuller on earth could whiten."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 9:29, we see the transfiguring manifestations of God's glory. Through deep, heartfelt prayers, God's children experience a taste of heavenly joy and are transformed from their innermost depths. Their prayers bring down divine light, strength, and holy gladness that illuminates their faces with celestial radiance. This transformation is indescribable and the brilliance of their countenance flashes like lightning, shining with the radiance of the sun. Their union with God alters not only their spiritual state but also their physical appearance, as their raiment becomes as white and dazzling as snow.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.2949765414820176,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.4,
+            "commentatorTierSimilarities": [
+                48.89,
+                0.0,
+                51.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through earnest prayer, believers experience the transformative power of God's presence. These profound encounters bring heavenly joy, radiant light, and divine strength. The countenance of God's children is altered, shining with a celestial radiance that resembles lightning. Their raiment becomes brilliantly white, imbued with a purity that surpasses any earthly substance. This transfiguration showcases the intimate connection between communion with God and the visible transformation of both the inner and outer being.",
+            "wordCount": 74,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.1721377638642316,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.32,
+            "commentatorTierSimilarities": [
+                49.01,
+                0.0,
+                50.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through heartfelt prayers, believers are privileged to experience transfiguring manifestations of God's glory. The deep groanings of their souls transport them to a heavenly realm on earth, illuminating their faces with a celestial radiance. The countenance of God's dear children becomes different and their raiment assumes a brilliant white hue that surpasses the whiteness of snow. This remarkable transformation, reminiscent of the flashing brilliance of lightning, testifies to the extraordinary power of communion with God. The divine light, strength, and holy gladness they receive through prayer truly alter their spiritual and physical state.",
+            "wordCount": 95,
+            "quoteTokenProportion": 21.43,
+            "qualityScore": 1.3114948398691004,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.95,
+            "commentatorTierSimilarities": [
+                50.49,
+                0.0,
+                49.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through heartfelt prayers, believers are privileged to experience transfiguring manifestations of God's glory. The deep groanings of their souls transport them to a heavenly realm on earth, illuminating their faces with a celestial radiance. The countenance of God's dear children becomes different and their raiment assumes a brilliant white hue that surpasses the whiteness of snow. This remarkable transformation, reminiscent of the flashing brilliance of lightning, testifies to the extraordinary power of communion with God. The divine light, strength, and holy gladness they receive through prayer truly alter their spiritual and physical state.",
+            "wordCount": 95,
+            "quoteTokenProportion": 21.43,
+            "qualityScore": 1.3114948398691004,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.95,
+            "commentatorTierSimilarities": [
+                50.49,
+                0.0,
+                49.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through heartfelt prayers, believers are privileged to experience transfiguring manifestations of God's glory. The deep groanings of their souls transport them to a heavenly realm on earth, illuminating their faces with a celestial radiance. The countenance of God's dear children becomes different and their raiment assumes a brilliant white hue that surpasses the whiteness of snow. This remarkable transformation, reminiscent of the flashing brilliance of lightning, testifies to the extraordinary power of communion with God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.327356196626956,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.48,
+            "commentatorTierSimilarities": [
+                50.49,
+                0.0,
+                49.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

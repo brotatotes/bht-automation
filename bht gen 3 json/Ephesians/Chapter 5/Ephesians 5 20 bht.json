@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:34:05",
+    "verseRef": "Ephesians 5:20",
+    "bestBHT": {
+        "bht": "We are called to constantly give thanks for all things, even adversities, as everything is from God the Father. Our gratitude towards Him should be expressed in the name of Christ, by whom all things, both blessings and distresses, become ours. Through Christ, we have access to approach God, even the Father, and offer our thanks. This attitude of thanksgiving should be a continuous sign of the Spirit's presence within us, reflecting the manifold blessings and mercies we receive from God.",
+        "wordCount": 82,
+        "quoteTokenProportion": 55.17,
+        "qualityScore": 2.0558745559277316,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.7,
+        "commentatorTierSimilarities": [
+            27.82,
+            41.36,
+            30.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "giving thanks (another additional, not explanatory, clause) always for all things",
+            "The name of the Lord is there, where He is named.",
+            "all the Christian would do, he must do in the name of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "thanks . . . for all things\u2014even for adversities; also for blessings, unknown as well as known.\" ",
+            "unto God and the Father\u2014the Fountain of every blessing in Creation, Providence, Election, and Redemption.",
+            "Lord Jesus Christ\u2014by whom all things, even distresses, become ours."
+        ],
+        "Albert Barnes": [
+            "The proper subject of psalms and hymns is thanksgiving and praise.",
+            "Man has much for which to be grateful; and the duty of acknowledging the mercy of God to the race should not be forgotten.",
+            "At the close of life, and in heaven, we shall see occasion to bless God for all his dealings with us."
+        ],
+        "John Calvin": [
+            "He means that this is a pleasure which ought never to lose its relish; that this is an exercise of which we ought never to weary.",
+            "Innumerable benefits which we receive from God yield fresh cause of joy and thanksgiving.",
+            "He reminds believers that it will argue ungodly and disgraceful sloth, if they shall not always give thanks, \u2014 if their whole life shall not be spent in the study and exercise of praising God."
+        ],
+        "Philip Schaff": [
+            "Thankfulness is the constant sign of the Spirit's presence, the tone of the whole Christian life, and that too in all circumstances.",
+            "In the name of our Lord Jesus Christ. In fellowship with this Person, on the ground of what He has done which gives us occasion for thanksgiving.",
+            "To God and the Father, or, 'ever the Father.' Here, however, the reference is quite general: He is the Father, the Father of our Lord and through Him our Father. To Him we give thanks, but always in the name of Christ, for without Christ we would not have Him as our God to thank, still less know Him as the Father."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus had told the disciples to use his name in prayer.\" ",
+            "To God, even the Father, rather, 'the God and Father.'"
+        ],
+        "John Gill": [
+            "Giving thanks always for all things... for things temporal, for our beings, and the preservation of them, and for all the mercies of life... for things spiritual, for Christ, and for all spiritual blessings in him...\" ",
+            "...thanksgivings for them are only acceptable to God as they are offered up by him; nor is there any other way of bringing them to God, but through him...",
+            "...this duty, as it stands connected with the former, shows that praise and thanksgiving are the principal subject matter of psalms, hymns, and spiritual songs, to be sung; and that the manner of singing is with thanksgiving; and that the end of it is to give thanks to God."
+        ],
+        "John Wesley": [
+            "Giving thanks \u2014 At all times and places.",
+            "And for all things - Prosperous or adverse, since all work together for good.",
+            "In the name of, or through, our Lord Jesus Christ - By whom we receive all good things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are called to be constantly thankful to God, giving thanks for all things, both blessings and adversities, as everything comes from Him. The name of the Lord is where He is present, and all that we do must be done in the name of Christ. Our thankfulness is directed towards God the Father, the source of every blessing in creation, providence, election, and redemption. We give thanks in fellowship with the Lord Jesus Christ, who makes all things, even distresses, become ours. It is through Him that we can approach God, even the Father, and offer our gratitude. This attitude of thanksgiving should permeate our lives and be the constant sign of the Spirit's presence within us.",
+            "wordCount": 119,
+            "quoteTokenProportion": 50.65,
+            "qualityScore": 2.078590344441217,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                28.8,
+                40.56,
+                30.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are called to be constantly thankful to God, giving thanks for all things, both blessings and adversities, as everything comes from Him. Our thankfulness is directed towards God the Father, the source of every blessing in creation, providence, election, and redemption. We give thanks in fellowship with the Lord Jesus Christ, who makes all things, even distresses, become ours. It is through Him that we can approach God, even the Father, and offer our gratitude. This attitude of thanksgiving should permeate our lives and be the constant sign of the Spirit's presence within us.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 2.0554003154421734,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+            "commentatorTierSimilarities": [
+                26.98,
+                41.1,
+                31.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are called to constantly give thanks for all things, even adversities, as everything is from God the Father. Our gratitude towards Him should be expressed in the name of Christ, by whom all things, both blessings and distresses, become ours. Through Christ, we have access to approach God, even the Father, and offer our thanks. This attitude of thanksgiving should be a continuous sign of the Spirit's presence within us, reflecting the manifold blessings and mercies we receive from God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 55.17,
+            "qualityScore": 2.0558745559277316,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.7,
+            "commentatorTierSimilarities": [
+                27.82,
+                41.36,
+                30.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are called to always give thanks for all things, both blessings and adversities, recognizing that everything ultimately comes from God the Father. Our gratitude should be expressed in the name of Christ, through whom we have received all good things. It is through Christ that we can approach God, even the Father, and offer our thanks. This continual attitude of thanksgiving should serve as an evidence of the Spirit's presence within us, as we acknowledge and appreciate the numerous blessings and mercies bestowed upon us by God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 2.035828713640132,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                26.18,
+                41.92,
+                31.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are instructed to have an attitude of gratitude, giving thanks always for all things, whether they are blessings or adversities. We are to recognize that everything comes from God the Father, who is the source of every blessing. Our thankfulness is to be expressed in the name of Christ, who enables us to approach God and offer our thanks. This constant expression of gratitude serves as a sign of the Spirit's presence within us, as we acknowledge and appreciate the numerous blessings and mercies bestowed upon us by God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.9531455646279163,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.28,
+            "commentatorTierSimilarities": [
+                24.41,
+                41.65,
+                33.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

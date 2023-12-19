@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:21:01",
+    "verseRef": "Galatians 5:15",
+    "bestBHT": {
+        "bht": "When Christians engage in contentious disputes, it becomes a destructive cycle that devours their strength, health, character, and resources. The ferociousness of their partisan hatred leads to mutual injury, endangering the entire Christian community. This behavior, likened to wild animals biting and devouring each other, can destroy the organic life of the body itself. Let us remember that slandering, accusing, and unjust acts arising from disputes can only lead to the ruin and consumption of the whole body. We must guard against allowing our disagreements to result in mutual destruction.",
+        "wordCount": 90,
+        "quoteTokenProportion": 34.29,
+        "qualityScore": 1.7231822642083667,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+        "commentatorTierSimilarities": [
+            28.87,
+            34.52,
+            36.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Strength of soul, health of body, character, and resources, are all consumed by broils.\" ",
+            "Backbite the character.",
+            "Injuring, extortion."
+        ],
+        "Albert Barnes": [
+            "if you contend with each other;...their contentions would destroy the spirituality and happiness of each other",
+            "their characters would be ruined; and the church be overthrown.",
+            "The readiest way to destroy the spirituality of a church, and to annihilate the influence of religion, is to excite a spirit of contention."
+        ],
+        "Marvin Vincent": [
+            "Bite and devour. Strong expressions of partisan hatred exerting itself for mutual injury.",
+            "Partisan strife will be fatal to the Christian community as a whole.",
+            "The organic life of the body will be destroyed by its own members."
+        ],
+        "John Calvin": [
+            "By biting and devouring (89) he means, I think, slanders, accusations, reproaches, and every other kind of offensive language, as well as acts of injustice arising either from fraud or violence.\" ",
+            "I wish we could always remember, when the devil tempts us to disputes, that the disagreement of members within the church can lead to nothing else than the ruin and consumption of the whole body.\" ",
+            "How distressing, how mad is it, that we, who are members of the same body, should be leagued together, of our own accord, for mutual destruction!"
+        ],
+        "Philip Schaff": [
+            "But if ye bite and devour one another, like wild beasts.\" ",
+            "How applicable this to all sectarian and partisan strifes which turn the church into a battle-field.",
+            "Impair its force against the common enemy!"
+        ],
+        "Archibald T. Robertson": [
+            "If ye bite and devour one another. Two common and old verbs often used together of wild animals, or like cats and dogs.",
+            "That ye be not consumed one of another. Negative final clause with first aorist passive subjunctive of \u03b1\u03bd\u03b1\u03bb\u03b9\u03c3\u03ba\u03c9, old word to consume or spend.",
+            "There is a famous story of two snakes that grabbed each other by the tail and each swallowed the other."
+        ],
+        "John Gill": [
+            "For wolves or dogs to worry sheep is not strange; but for sheep to distress one another is unnatural.",
+            "Beware lest each other's particular peace and comfort be destroyed, which is oftentimes done this way, though a person's state and condition God-ward may be safe.",
+            "No religious community, divided against itself, can stand long; and for want of love, the Lord threatens to remove, and sometimes does remove, the candlestick out of its place."
+        ],
+        "John Wesley": [
+            "Ye bite one another by evil speaking.",
+            "And devour one another by railing and clamour.",
+            "Take heed ye be not consumed one of another by bitterness, strife, and contention, our health and strength, both of body and soul, are consumed, as well as our substance and reputation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Christians engage in contentious disputes, it becomes a destructive cycle that devours their strength, health, character, and resources. The ferociousness of their partisan hatred leads to mutual injury, endangering the entire Christian community. This behavior, likened to wild animals biting and devouring each other, can destroy the organic life of the body itself. Such sectarian and partisan strifes impair the church's ability to unite against the common enemy. Let us remember that slandering, accusing, and unjust acts arising from disputes can only lead to the ruin and consumption of the whole body. We must guard against allowing our disagreements to result in mutual destruction, for a divided religious community cannot stand, and our peace, comfort, and reputation are at stake.",
+            "wordCount": 122,
+            "quoteTokenProportion": 31.87,
+            "qualityScore": 1.789132974204711,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.83,
+            "commentatorTierSimilarities": [
+                26.24,
+                38.15,
+                35.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Christians engage in contentious disputes, it becomes a destructive cycle that devours their strength, health, character, and resources. The ferociousness of their partisan hatred leads to mutual injury, endangering the entire Christian community. This behavior, likened to wild animals biting and devouring each other, can destroy the organic life of the body itself. Let us remember that slandering, accusing, and unjust acts arising from disputes can only lead to the ruin and consumption of the whole body. We must guard against allowing our disagreements to result in mutual destruction.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.7231822642083667,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                28.87,
+                34.52,
+                36.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Christians engage in contentious disputes, it becomes a destructive cycle that devours their strength, health, character, and resources. The ferociousness of their partisan hatred leads to mutual injury, endangering the entire Christian community. This behavior, likened to wild animals biting and devouring each other, can destroy the organic life of the body itself. Let us remember that slandering, accusing, and unjust acts arising from disputes can only lead to the ruin and consumption of the whole body. We must guard against allowing our disagreements to result in mutual destruction.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.7231822642083667,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                28.87,
+                34.52,
+                36.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Christians engage in destructive disputes, their strength, health, and character are consumed. Partisan strife and mutual injury threaten the well-being of the whole community. The organic life of the body is at risk of being destroyed by its own members. Slandering, unjust acts, and division can lead to the ruin and consumption of the entire body. Let us be cautious of allowing our disagreements to result in mutual destruction, as a divided community cannot stand.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.6890093587601345,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+            "commentatorTierSimilarities": [
+                31.39,
+                33.79,
+                34.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Christians engage in contentious disputes, it becomes a destructive cycle that devours their strength, health, character, and resources. The ferociousness of their partisan hatred leads to mutual injury, endangering the entire Christian community. This behavior, likened to wild animals biting and devouring each other, can destroy the organic life of the body itself. Let us remember that slandering, accusing, and unjust acts arising from disputes can only lead to the ruin and consumption of the whole body. We must guard against allowing our disagreements to result in mutual destruction.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.7231822642083667,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                28.87,
+                34.52,
+                36.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

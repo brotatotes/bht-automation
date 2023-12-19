@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:34:52",
+    "verseRef": "Acts 21:14",
+    "bestBHT": {
+        "bht": "One of the passages from which we may not unfairly infer that Paul was resolute in his decision to go despite the warnings. This prediction and that at Tyre were intended to test and deepen Paul's courage. They ceased their attempts to persuade him and were willing for the Lord to have his way.",
+        "wordCount": 55,
+        "quoteTokenProportion": 52.27,
+        "qualityScore": 1.7911835271865302,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+        "commentatorTierSimilarities": [
+            38.18,
+            34.35,
+            27.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The will of the Lord be done.\" ",
+            "One of the passages from which we may not unfairly infer.\" ",
+            "See note on 2 Tim. iv. 18."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Such dramatic methods of announcing important future events would bring the old prophets to remembrance.\" ",
+            "This prediction and that at Tyre were intended, not to prohibit him from going, but to put his courage to the test and when he stood the test, to deepen and mature it."
+        ],
+        "Albert Barnes": [
+            "Would not be persuaded - To remain. He was resolved to go.",
+            "We ceased - We ceased remonstrating with him, and urging him to remain.",
+            "The will of the Lord be done - They were now assured that it was the will of God that he should go, and they were now ready to submit to that will."
+        ],
+        "John Calvin": [
+            "Therefore, they yield lest they resist the Holy Spirit, whereby they understand that Paul is governed.",
+            "And with this bridle must all our affections be kept in, that nothing be so bitter, or doleful, or hard, which the will of God may not mitigate and mollify.",
+            "For so often as any thing which is hard or sharp doth fall out, we give God small honor, unless this cogitation prevail with us, that we must obey him."
+        ],
+        "Philip Schaff": [
+            "We ceased, saying, The will of the Lord be done.",
+            "It seems very probable that this expression of resignation to the Divine will, to which the brethren so reverently bowed, was a quotation from the Lord\u2019s Prayer.",
+            "Oh, how pure and serene is our life when that will alone directs us, and when not a trace of our own will remains behind! With such a frame of mind, we become like unto God."
+        ],
+        "Archibald T. Robertson": [
+            "Paul's will (\u03ba\u03b1\u03c1\u03b4\u03b9\u03b1) was not broken, not even bent.",
+            "We ceased (\u03b7\u03c3\u03c5\u03c7\u03b1\u03c3\u03b1\u03bc\u03b5\u03bd). Ingressive aorist active indicative of \u03b7\u03c3\u03c5\u03c7\u03b1\u03b6\u03c9, old verb to be quiet, silent.",
+            "Since Paul would not let them have their way, they were willing for the Lord to have his way, acquiescence after failure to have theirs."
+        ],
+        "John Gill": [
+            "The will of the Lord be done.\" ",
+            "This will of the Lord...is the rule of all the divine proceedings.\" ",
+            "It becomes saints to be still and acquiesce in it, when things are not so well with them in spiritual affairs as to be wished for...knowing that what is done by the Lord is done well and wisely, and is for the good of them."
+        ],
+        "John Wesley": [
+            "This was not obstinacy, but true Christian resolution.",
+            "We should never be persuaded, either to do evil, or to omit doing any good which is in our power.",
+            "Saying, the will of the Lord be done - Which they were satisfied Paul knew."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The will of the Lord be done. One of the passages from which we may not unfairly infer that Paul was resolute in his decision to go despite the warnings. Such dramatic methods of announcing important future events would bring the old prophets to remembrance. This prediction and that at Tyre were intended to test and deepen Paul's courage. Paul's will was not broken, he stood firm. They ceased their attempts to persuade him and were willing for the Lord to have his way.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.791085949156578,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                38.19,
+                33.0,
+                28.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "One of the passages from which we may not unfairly infer that Paul was resolute in his decision to go despite the warnings. This prediction and that at Tyre were intended to test and deepen Paul's courage. They ceased their attempts to persuade him and were willing for the Lord to have his way.",
+            "wordCount": 55,
+            "quoteTokenProportion": 52.27,
+            "qualityScore": 1.7911835271865302,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                38.18,
+                34.35,
+                27.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's unwavering response to the pleas and warnings of his companions demonstrates his deep trust in the will of the Lord. Despite their earnest attempts to dissuade him, Paul's resolve to proceed with his journey remained unshaken. His steadfastness in the face of adversity was not a result of obstinacy, but rather a true Christian resolution to follow the divine guidance. Recognizing that the will of the Lord is the ultimate standard for all divine proceedings, Paul's companions ceased their efforts to persuade him and acquiesced to the Lord's will. In doing so, they demonstrated their submission to God's plan and a profound trust that what is done by the Lord is done well and wisely.",
+            "wordCount": 121,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.6816169930173777,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                24.02,
+                36.35,
+                39.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's unwavering response to the pleas and warnings of his companions demonstrates his deep trust in the will of the Lord. Despite their attempts to dissuade him, Paul's resolve to proceed with his journey remained unshaken. His steadfastness in the face of adversity was not obstinacy, but rather a true Christian resolution to follow divine guidance. Recognizing that the will of the Lord is the ultimate standard for all divine proceedings, Paul's companions ceased their efforts and acquiesced to the Lord's will, showing their submission and trust in His wisdom.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.732901975367049,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.96,
+            "commentatorTierSimilarities": [
+                26.85,
+                34.42,
+                38.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's unwavering trust in the will of the Lord prevailed even in the face of opposition. Despite the pleas and warnings of his companions, Paul remained resolute in his decision to continue his journey. His steadfastness reflected a true Christian resolution, not obstinacy. Recognizing that the will of the Lord is the ultimate guide in all divine proceedings, Paul's companions ceased their efforts and submitted to God's plan, demonstrating their trust in His wisdom and acknowledging that His will is always done well.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.6654499821800566,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                27.1,
+                33.9,
+                39.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

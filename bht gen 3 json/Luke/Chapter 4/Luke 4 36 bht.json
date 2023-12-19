@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:15:04",
+    "verseRef": "Luke 4:36",
+    "bestBHT": {
+        "bht": "The people were amazed as they witnessed the power and authority of Jesus' words. They recognized that his teaching carried weight and was accompanied by astonishing miracles. They marveled at the word that came from the Lord of spirits and acknowledged that there was something extraordinary about him. The combination of his doctrine and the power of his works left them astounded, as they spoke amongst themselves, trying to comprehend the authority and force behind his words which commanded even the unclean spirits to obey.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.2616771082324796,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.29,
+        "commentatorTierSimilarities": [
+            26.52,
+            0.0,
+            73.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "36. What a word\u2014a word from",
+            "\tthe Lord of spirits.",
+            "",
+            " :-. PETER'S",
+            "\tMOTHER-IN-LAW AND MANY",
+            "\tOTHERS, HEALED.",
+            "\t ",
+            "\t",
+            "(See on :-.)"
+        ],
+        "Marvin Vincent": [
+            "Amazement came upon all.",
+            "Qambov, amazement, is used by Luke only.",
+            "The kindred verb, qambeomai, to be amazed, occurs only once in Luke (Acts 9:6), and three times in Mark."
+        ],
+        "John Calvin": [
+            "They are compelled to acknowledge that there is in Christ something more than man.\" ",
+            "Justly trace the glory and power of the miracle to his doctrine.",
+            "What speech is this, they say, which even the devils themselves are forced to obey?"
+        ],
+        "Archibald T. Robertson": [
+            "Amazement came (\u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf \u03b8\u03b1\u03bc\u03b2\u03bf\u03c2). Mark has \u03b5\u03b8\u03b1\u03bc\u03b2\u03b7\u03b8\u03b7\u03c3\u03b1\u03bd.",
+            "They spake together one with another (\u03c3\u03c5\u03bd\u03b5\u03bb\u03b1\u03bb\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03c2 \u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03c2).",
+            "Either makes good sense. Luke adds here \u03b4\u03c5\u03bd\u03b1\u03bc\u03b5 (with power) to Mark's 'authority' (\u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03b1\u03bd)."
+        ],
+        "John Gill": [
+            "And they were all amazed... what a word is this?\" ",
+            "What sort of doctrine is this which is attended with such power and miracles?",
+            "What is this word that with authority and power it commands the unclean spirits, and they come out?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Amazement filled the hearts of the people as they witnessed the power and authority of Jesus' words. They marveled at the word that came from the Lord of spirits, recognizing that there was something extraordinary about Him. The astonishing miracles performed by Jesus compelled them to acknowledge that His teaching carried weight and commanded even the unclean spirits to obey. The people spoke amongst themselves, astounded by the combination of His doctrine and the power of His works. Truly, this was a word that carried authority and force, showing that Jesus possessed a divine presence and ability beyond that of a mere man.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.2315844052775673,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.29,
+            "commentatorTierSimilarities": [
+                26.43,
+                0.0,
+                73.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people were amazed as they witnessed the power and authority of Jesus' words. They recognized that his teaching carried weight and was accompanied by astonishing miracles. They marveled at the word that came from the Lord of spirits and acknowledged that there was something extraordinary about him. The combination of his doctrine and the power of his works left them astounded, as they spoke amongst themselves, trying to comprehend the authority and force behind his words which commanded even the unclean spirits to obey.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.2616771082324796,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.29,
+            "commentatorTierSimilarities": [
+                26.52,
+                0.0,
+                73.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amazement filled the hearts of the people as they witnessed the power and authority of Jesus' words. They marveled at the word that came from the Lord of spirits, recognizing that there was something extraordinary about Him. The astonishing miracles compelled them to acknowledge that His teaching carried weight and commanded even the unclean spirits. The people spoke amongst themselves, astounded by the combination of His doctrine and the power of His works. This word that carried authority and force revealed Jesus' divine presence and ability.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.2193500294492194,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.89,
+            "commentatorTierSimilarities": [
+                26.18,
+                0.0,
+                73.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people were amazed by the power and authority of Jesus' words, recognizing that there was something extraordinary about Him. The miracles He performed compelled them to acknowledge that His teaching carried weight and commanded even the unclean spirits. They marveled at the combination of His doctrine and the power of His works. As they spoke amongst themselves, they were astounded by the authority and force behind His words, which revealed His divine presence and ability. It was a word that left them in awe.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.2045727700425202,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.4,
+            "commentatorTierSimilarities": [
+                25.87,
+                0.0,
+                74.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people were filled with amazement as they witnessed the power and authority of Jesus' words. His teaching carried weight and compelled even the unclean spirits to obey. They recognized that there was something extraordinary about Him and were astounded by the combination of His doctrine and the power of His works. The astonishing miracles He performed left them in awe, acknowledging His divine presence and ability. The impact of His word was undeniable, demonstrating His authority and commanding attention.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.1390488363140252,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.22,
+            "commentatorTierSimilarities": [
+                26.48,
+                0.0,
+                73.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

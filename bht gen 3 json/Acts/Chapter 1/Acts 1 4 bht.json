@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:24:45",
+    "verseRef": "Acts 1:4",
+    "bestBHT": {
+        "bht": "The disciples were commanded to stay together to manifest the unity of the Church. Although suggestions arose that they should have dispersed, it was essential for them to obey and await the promise of the Holy Spirit. Gathering in Jerusalem, the city where Jesus suffered and where the word of the Lord would be proclaimed, they eagerly anticipated the fulfillment based on God's word. The hope they had was rooted in the promise of the Father, the Holy Spirit.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.9653257047885466,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.69,
+        "commentatorTierSimilarities": [
+            32.04,
+            34.01,
+            33.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They are commanded to remain together, because they were all to be endowed with one Spirit. If they had been dispersed, the unity of the Church would have been less manifestly known.\" ",
+            "The ancient idea, that our Lord commanded the Apostles to remain at Jerusalem for twelve years after the Ascension, is sufficiently refuted by His own words here, and by the subsequent history: compare ch. viii. &c.",
+            "That, in the main, they confined themselves to circuits in Palestine for some years, appears to be true; but surely would not be in compliance with such a command."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "because the Spirit was to glorify the existing economy",
+            "in order that 'out of Zion might go forth the law, and the word of the Lord from Jerusalem'",
+            "the next of its great festivals after the ascension of the Church's Head"
+        ],
+        "Albert Barnes": [
+            "But this passage denotes that he had assembled them together by his authority, for the purpose of giving them a charge respecting their conduct when he should have left them.",
+            "Wait for the promise of the Father - For the fulfillment of the promise respecting the descent of the Holy Spirit made by the Father.",
+            "Which ye have heard of me - Which I have made to you."
+        ],
+        "Marvin Vincent": [
+            "Being assembled together [\u03c3\u03c5\u03bd\u03b1\u03bb\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . From sun, together, and aJlhv thronged or crowded.",
+            "The promise [\u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b1\u03bd] . Signifying a free promise, given without solicitation. This is the invariable sense of the word throughout the New Testament.",
+            "Not many days hence [\u03bf\u03c5 \u03bc\u03b5\u03c4\u03b1 \u03c0\u03bf\u03bb\u03bb\u03b1\u03c2 \u03c4\u03b1\u03c5\u03c4\u03b1\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1\u03c2] . Lit., not after many of these days. Not after many, but after a few."
+        ],
+        "John Calvin": [
+            "And they were commanded to stay together, because they should all have one spirit given them. If they had been dispersed, the unity should not have been so well known.",
+            "They should wait for the promise... it is not lawful for us either to go out or to attempt anything, until the Lord gives the watchword.",
+            "We are taught that we are made partakers of the gifts of God through hope. But we must mark the nature of hope as it is described in this place. For that is not hope which every man feigneth to himself unadvisedly, but that which is grounded on the promise of God."
+        ],
+        "Philip Schaff": [
+            "The translation given in the margin of the Authorised Version, \u2018eating together with them,\u2019 seems the more accurate one.",
+            "The sense of the passage then is: \u2018And as He (Jesus) ate with them; He commanded them,\u2019 etc.",
+            "The promise of the Father refers especially to the promises given through the Old Testament prophets to Israel, such as Isaiah 44:3; Joel 2:28-29."
+        ],
+        "Archibald T. Robertson": [
+            "Salt was the mark of hospitality.",
+            "It is the subjective genitive, the promise given by the Father, that is the Holy Spirit.",
+            "Luke often does this (oratio recta). Note also the ablative case of \u03bc\u03bf\u03c5 (from me)."
+        ],
+        "John Gill": [
+            "this was the last time, when he commanded them that they should not depart from Jerusalem...where the blood of Christ had been shed, and where were his greatest enemies, and where the disciples might have no inclination to have gone, and much less to abide.",
+            "partly for the glorifying of Christ by the effusion of his Spirit on the apostles in the place where he had suffered the most reproach.",
+            "neither of whose words could possibly fall to the ground."
+        ],
+        "John Wesley": [
+            "Wait for the promise of the Father, which ye have heard from me.\" ",
+            "Wait for the promise of the Father.\" ",
+            "Which ye have heard from me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were commanded to stay together after the Ascension, in order to visibly demonstrate the unity of the Church. Though there were suggestions that they should have dispersed to different places, it was clear that their obedience to this command was necessary. The promise of the Father, the Holy Spirit, was to be given to them soon, and it was important for them to wait and gather in Jerusalem, the city where Jesus had shed his blood and where the word of the Lord would go forth. They were to eagerly anticipate the fulfillment of the promise, rooted in the hope that is grounded on God's word.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9138297228149672,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                30.87,
+                34.14,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were commanded to stay together to manifest the unity of the Church. Although suggestions arose that they should have dispersed, it was essential for them to obey and await the promise of the Holy Spirit. Gathering in Jerusalem, the city where Jesus suffered and where the word of the Lord would be proclaimed, they eagerly anticipated the fulfillment based on God's word. The hope they had was rooted in the promise of the Father, the Holy Spirit.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.9653257047885466,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.69,
+            "commentatorTierSimilarities": [
+                32.04,
+                34.01,
+                33.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were commanded to stay together in Jerusalem because their unity as a Church would be evident. Their obedience to this command was vital, even though there were suggestions to disperse. By waiting in Jerusalem, they anticipated the fulfillment of the promise of the Holy Spirit, given by the Father. This promise was grounded in the hope found in God's word. Thus, they gathered, eager to receive the Spirit, in the city where Jesus shed His blood and where the word of the Lord would spread.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.8719262123768292,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+            "commentatorTierSimilarities": [
+                33.13,
+                34.13,
+                32.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were commanded to remain together in Jerusalem, for their unity would clearly manifest the Church. Despite suggestions to disperse, it was crucial for them to obey this command. They eagerly awaited the promise of the Holy Spirit, given by the Father. Their hopeful anticipation was grounded in God's word. So, they gathered in Jerusalem, where Jesus shed His blood and where the word of the Lord would go forth, ready to receive the Spirit.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.781208212959645,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.57,
+            "commentatorTierSimilarities": [
+                31.54,
+                34.87,
+                33.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were commanded to stay together in Jerusalem, as their unity would visibly demonstrate the Church. Although suggestions arose to disperse, their obedience was essential. They eagerly awaited the promise of the Holy Spirit from the Father, grounded in God's word. Thus, they gathered in Jerusalem, where Jesus shed His blood and where the word of the Lord would be proclaimed, eagerly anticipating the fulfillment of the promise.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.9316447683263216,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.57,
+            "commentatorTierSimilarities": [
+                32.98,
+                34.35,
+                32.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:29:25",
+    "verseRef": "Acts 11:8",
+    "bestBHT": {
+        "bht": "The phrase came into my mouth in Acts 11:8 is a different way of expressing the same idea as I ate in Acts 10:14. This variation emphasizes the personal feeling and strong conviction of St. Peter, who never consumed anything that was forbidden by the ceremonial law. Despite initially not being obedient to the heavenly vision, St. Peter's strict observance of the law clearly shows his deep reverence for its rituals and traditions.",
+        "wordCount": 72,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.6714958864780498,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.92,
+        "commentatorTierSimilarities": [
+            44.32,
+            21.19,
+            34.49
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Hath at any time entered into my mouth.",
+            "I have never eaten.",
+            "St. Peter expresses the matter more strongly, and with a personal feeling."
+        ],
+        "Archibald T. Robertson": [
+            "Came into my mouth (\u03b5\u03b9\u03c3\u03b7\u03bb\u03b8\u03b5\u03bd \u03b5\u03b9\u03c2 \u03c4\u03bf \u03c3\u03c4\u03bf\u03bc\u03b1 \u03bc\u03bf\u03c5). Instead of \u03b5\u03c6\u03b1\u03b3\u03bf\u03bd (I ate) in Acts 10:14. Different phrase for the same idea. "
+        ],
+        "John Gill": [
+            "For he took the voice he heard to be the voice of the Lord, and yet he was not obedient to the heavenly vision...",
+            "...which shows what a strict observer he was of the ceremonies of the law, and how much he was prejudiced in favour of them.",
+            "He had not suffered anything to come within his lips; he had not even tasted, and much less ate anything that was forbidden by the ceremonial law, so strictly had he observed it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The phrase came into my mouth in Acts 11:8 is a different way of expressing the same idea as I ate in Acts 10:14. This variation emphasizes the personal feeling and strong conviction of St. Peter, who never consumed anything that was forbidden by the ceremonial law. Despite initially not being obedient to the heavenly vision, St. Peter's strict observance of the law clearly shows his deep reverence for its rituals and traditions.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6714958864780498,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.92,
+            "commentatorTierSimilarities": [
+                44.32,
+                21.19,
+                34.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The phrase used in Acts 11:8, came into my mouth, is a different way of articulating the idea of eating, contrasting with the phrase I ate in Acts 10:14. This change of wording highlights the personal conviction of St. Peter, who strictly adhered to the ceremonial law by never partaking in anything forbidden by it. Although initially hesitant to follow the heavenly vision, St. Peter's stringent observance of the law displays his deep respect for its rituals and traditions.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5185332104118325,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.83,
+            "commentatorTierSimilarities": [
+                45.68,
+                20.76,
+                33.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The shift from I ate to came into my mouth in Acts 11:8 denotes an alternate expression while conveying the same concept as Acts 10:14. This variation highlights St. Peter's unwavering adherence to the ceremonial law, refraining from consuming anything prohibited by it. Although initially hesitant to obey the heavenly vision, St. Peter's resolute commitment to observing the law underscores his deep reverence for its rituals and traditions.",
+            "wordCount": 68,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3826647804671244,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.32,
+            "commentatorTierSimilarities": [
+                47.85,
+                19.16,
+                32.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The phrase came into my mouth in Acts 11:8 signifies a different expression but carries the same meaning as I ate in Acts 10:14. Through this change in wording, St. Peter's personal conviction becomes evident. He strictly adhered to the ceremonial law, abstaining from consuming anything that violated its regulations. Initially resistant to the heavenly vision, St. Peter's strict observance of the law demonstrates his deep respect for its rituals and traditions.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.2293268340017902,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.22,
+            "commentatorTierSimilarities": [
+                40.98,
+                22.38,
+                36.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The phrase came into my mouth in Acts 11:8 is a distinct alternative to I ate in Acts 10:14. This variation emphasizes the personal conviction of St. Peter, who diligently adhered to the ceremonial law by abstaining from any forbidden food. Despite his initial reluctance to accept the heavenly vision, St. Peter's strict observance of the law demonstrates his deep reverence for its customs and traditions.",
+            "wordCount": 65,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.520446359533175,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.9,
+            "commentatorTierSimilarities": [
+                44.24,
+                22.42,
+                33.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

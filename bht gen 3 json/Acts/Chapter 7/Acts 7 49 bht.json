@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:27:42",
+    "verseRef": "Acts 7:49",
+    "bestBHT": {
+        "bht": "The temple built by Solomon was never intended to confine the presence of God, but rather to signify the universal and spiritual nature of Christianity. As Isaiah proclaimed, Heaven is my throne, and earth is my footstool. God's divine presence extends beyond physical structures, encompassing the entire heavens and the earth. Therefore, those who believe God can be confined to a specific building are deceived. Instead, God's true dwelling place is within the hearts of those who seek him spiritually.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.5140485467527864,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+        "commentatorTierSimilarities": [
+            23.46,
+            37.72,
+            38.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Heaven is my throne.\" ",
+            "Earth is my footstool.",
+            "What house...what temple can be large or magnificent enough for the dwelling of Him who made all things?"
+        ],
+        "Marvin Vincent": [
+            "What house. Rev., more correctly, \"what manner of house\" [\u03c0\u03bf\u03b9\u03bf\u03bd] ."
+        ],
+        "John Calvin": [
+            "Therefore, those men are deceived who esteem God or his worship according to their own nature.",
+            "When God doth declare, by the external rites, that he will be present with his, that he may dwell in the midst of them, he commandeth them to lift up their minds, that they may seek him spiritually.",
+            "Hereby we may easily gather, that when he dwelleth amidst those that be his, he is neither tied to the earth, neither comprehended in any place, because they seek him spiritually in heaven."
+        ],
+        "Archibald T. Robertson": [
+            "This interrogative is sometimes scornful as in Acts 4:7; Luke 6:32 (Page).",
+            "Stephen shows by Isaiah that Solomon was right that the temple was not meant to 'confine' God's presence.",
+            "It is a tremendous argument for the universality and spirituality of Christianity free from the shackles of Jewish racial and national limitations."
+        ],
+        "John Gill": [
+            "Heaven is my throne,.... There is the seat of the divine Majesty; there his glory is most conspicuous; there he keeps his court, that is his palace; and there are his attendants, the angels; and from thence are the administrations of his regal power and government, over the whole world.",
+            "and earth is my footstool; which is under his feet, is subject to him, and at his dispose, and which he makes use of at his pleasure.",
+            "what house will ye build me? saith the Lord; or where can any be built for him, since he already takes up the heaven and the earth?"
+        ],
+        "John Wesley": [
+            "Ye stiff necked \u2014 Not bowing the neck to God's yoke; and uncircumcised in heart.\" ",
+            "So far were they from receiving the word of God into their hearts, that they would not hear it even with their ears.",
+            "Ye \u2014 And your fathers, always - As often as ever ye are called, resist the Holy Ghost - Testifying by the prophets of Jesus, and the whole truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What manner of house or temple can confine the all-encompassing presence of God? Stephen, in his discourse, reveals that the temple built by Solomon was not meant to restrict God's dwelling, but rather to symbolize the universality and spirituality of Christianity. As Isaiah declared, Heaven is my throne, and earth is my footstool. God is not limited by physical structures, for he already fills the heavens and the earth. Those who try to contain God within the limits of human constructs are deceived, for his true dwelling place is in the hearts of those who seek him spiritually. It is not through external rites, but through a lifted mind and a receptive heart that we encounter the divine presence. May we not be like the stiff-necked and uncircumcised, who resist the Holy Spirit and refuse to receive the truth of God's word.",
+            "wordCount": 146,
+            "quoteTokenProportion": 35.11,
+            "qualityScore": 1.4102594384910354,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.23,
+            "commentatorTierSimilarities": [
+                24.89,
+                33.55,
+                41.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What manner of house can confine the all-encompassing presence of God? The temple built by Solomon was not meant to restrict God's dwelling, but to symbolize the universality and spirituality of Christianity. As Isaiah declared, Heaven is my throne, and earth is my footstool. God fills the heavens and the earth; those who try to contain him are deceived. His true dwelling place is in the hearts of those who seek him spiritually. May we not be like the stiff-necked and uncircumcised, who resist the Holy Spirit and refuse to receive God's truth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.4974033492332843,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.13,
+            "commentatorTierSimilarities": [
+                25.78,
+                35.69,
+                38.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What manner of house can confine the presence of God? The temple built by Solomon was not meant to restrict God's dwelling, but rather to demonstrate the universality and spirituality of Christianity. As Isaiah declared, Heaven is my throne, and earth is my footstool. God is not limited by physical structures, for he already fills the heavens and the earth. Those who try to contain God within human constructs are deceived. His true dwelling place is in the hearts of those who seek him spiritually.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5050435339369077,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.39,
+            "commentatorTierSimilarities": [
+                25.97,
+                37.37,
+                36.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple built by Solomon was never intended to confine the presence of God, but rather to signify the universal and spiritual nature of Christianity. As Isaiah proclaimed, Heaven is my throne, and earth is my footstool. God's divine presence extends beyond physical structures, encompassing the entire heavens and the earth. Therefore, those who believe God can be confined to a specific building are deceived. Instead, God's true dwelling place is within the hearts of those who seek him spiritually.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.5140485467527864,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                23.46,
+                37.72,
+                38.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The temple built by Solomon was not meant to confine God's presence, but to symbolize the universality and spirituality of Christianity. As Isaiah said, Heaven is my throne, and earth is my footstool. God cannot be limited by physical structures, for he already fills the heavens and the earth. Those who try to contain God within human constructs are deceived. His true dwelling place is in the hearts of those who seek him spiritually. Let us not resist the Holy Spirit, but open our hearts to receive the truth of God's word.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.368906738023115,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.86,
+            "commentatorTierSimilarities": [
+                21.42,
+                36.78,
+                41.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

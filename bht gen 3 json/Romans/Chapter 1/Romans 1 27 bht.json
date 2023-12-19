@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:59:10",
+    "verseRef": "Romans 1:27",
+    "bestBHT": {
+        "bht": "The shame and degradation experienced by those who engage in unnatural lusts is viewed as a retribution for departing from God into idolatry. This consequence of their error is seen as worse than any punishment and serves as a just payment. The prevalence of this vice in the ancient world indicates its intensity, while the unseemliness of these acts is widely recognized. Nature acts as a self-avenging force, imposing payment on their own bodies and souls for this dishonorable behavior.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.805882494791442,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.39,
+        "commentatorTierSimilarities": [
+            30.45,
+            34.45,
+            35.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostle treats this degradation into which they fell, as a consequence of, a retribution for, their departure from God into idolatry.",
+            "This shame, and not its consequences, which are not here treated of, is the recompence of their error, their aberration from the knowledge of God.",
+            "If there had been no hell, nor any punishment threatened, this alone was worse than any punishment. And if even in this they found pleasure, why this very pleasure was an accession of punishment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "and receiving in themselves that recompense of their error which was meet\" ",
+            "alluding to the many physical and moral ways\" ",
+            "under the righteous government of God, vice was made self-avenging"
+        ],
+        "Albert Barnes": [
+            "Perhaps there is no sin which so deeply shows the depravity of man as this; none which would so much induce one 'to hang his head, and blush to think himself a man.'",
+            "The effect of such base and unnatural passions was, to enfeeble the body, to produce premature old age, disease, decay, and an early death.",
+            "It tended to debase the mind; to sink man below the level of the brute; to destroy the sensibility; and to 'sear the conscience as with a hot iron.'"
+        ],
+        "John Calvin": [
+            "They indeed deserved to be blinded, so as to forget themselves, and not to see anything befitting them.",
+            "They who were not ashamed to extinguish, as much as they could, the glory of God, which alone gives us light, deserved to become blind at noonday.",
+            "Deserved to become blind at noonday."
+        ],
+        "Philip Schaff": [
+            "The vice of sodomy was very prevalent in the ancient world. The description here is more intense, corresponding with the prevalence and intensity of the immorality.",
+            "The unnatural lusts and vices were the recompense, the due punishment, of their 'error,' namely, their departure from God into idolatry.",
+            "The unseemliness' points to something well known."
+        ],
+        "Archibald T. Robertson": [
+            "Turned (\u03b5\u03be\u03b5\u03ba\u03b1\u03c5\u03b8\u03b7\u03c3\u03b1\u03bd). First aorist passive indicative, causative aorist, of \u03b5\u03ba\u03ba\u03b1\u03b9\u03c9, old verb, to burn out, to set on fire, to inflame with anger or lust. Here only in N.T.",
+            "Unseemliness (\u03b1\u03c3\u03c7\u03b7\u03bc\u03bf\u03c3\u03c5\u03bd\u03b7\u03bd). Old word from \u03b1\u03c3\u03c7\u03b7\u03bc\u03bf\u03bd (deformed). In N.T. only here and Revelation 16:15.",
+            "This debt will be paid in full (\u03b1\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03bd\u03c4\u03b5\u03c2, pay back as in Luke 6:34, and due as in Luke 23:41). Nature will attend to that in their own bodies and souls."
+        ],
+        "John Gill": [
+            "The very sin of 'sodomy' is here designed, so called from Sodom, the place where we first hear of it... a sin which generally prevails where idolatry and infidelity do.",
+            " ",
+            "Thus God, because men dishonour him with their evil principles and practices, leaves them to reproach their own nature, and dishonour their own bodies.",
+            "God punishes sin with sin; for as the Jews say, 'the reward of the commandment is the commandment, and the reward of transgression is transgression.'"
+        ],
+        "John Wesley": [
+            "Receiving the just recompense of their error \u2014 Their idolatry being punished with that unnatural lust, which was as horrible a dishonour to the body, as their idolatry was to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle Paul in Romans 1:27 describes the degradation and retribution that results from turning away from God into idolatry. The shame and debasement experienced by those who engage in these unnatural lusts is seen as a punishment in itself, worse than any external consequence. This vice was prevalent in the ancient world, indicating the intensity and prevalence of the immorality. The unseemliness of these acts is well-known, and the due payment for their error is exacted in their own bodies and souls. God allows these individuals to experience the consequences of their actions, leading to the dishonor of their own bodies.",
+            "wordCount": 102,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.816834043499215,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.75,
+            "commentatorTierSimilarities": [
+                31.46,
+                34.57,
+                33.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The degradation into unnatural lusts is viewed as a retribution for turning away from God into idolatry. The shame experienced by those who engage in these acts is punishment itself, surpassing any external consequences. This vice was prevalent in the ancient world, indicating its intensity. The unseemliness of these acts is well-known, and nature exacts due payment in their own bodies and souls. God allows them to bear the consequences, leading to the dishonor of their own bodies.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.7371807226074845,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                32.1,
+                31.93,
+                35.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle Paul explains that the degradation and retribution inflicted upon those who engage in unnatural lusts are consequences of their departure from God into idolatry. This shame, which exceeds any punishment, serves as the recompense for their error. The prevalence of this vice in the ancient world reflects the intensity of the immorality involved. The unseemliness of such acts is widely recognized, and the payment for their error is received in their own bodies and souls. God allows them to face the consequences, resulting in the dishonor of their own bodies.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.7881913431264471,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                31.84,
+                31.95,
+                36.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle Paul links the degradation and retribution faced by those who engage in unnatural lusts to their departure from God and the consequences of idolatry. This shame, surpassing any punishment, serves as the recompense for their error. The prevalence of this vice in the ancient world underscores the intensity of the immorality. The unseemliness of these acts is widely recognized, and nature exacts payment in their own bodies and souls. God allows them to face the consequences, leading to the dishonor of their own bodies.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7189740331344465,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.5,
+            "commentatorTierSimilarities": [
+                31.72,
+                33.5,
+                34.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The shame and degradation experienced by those who engage in unnatural lusts is viewed as a retribution for departing from God into idolatry. This consequence of their error is seen as worse than any punishment and serves as a just payment. The prevalence of this vice in the ancient world indicates its intensity, while the unseemliness of these acts is widely recognized. Nature acts as a self-avenging force, imposing payment on their own bodies and souls for this dishonorable behavior.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.805882494791442,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.39,
+            "commentatorTierSimilarities": [
+                30.45,
+                34.45,
+                35.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

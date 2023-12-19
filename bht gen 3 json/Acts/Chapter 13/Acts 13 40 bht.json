@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:30:47",
+    "verseRef": "Acts 13:40",
+    "bestBHT": {
+        "bht": "Beware, therefore, of rejecting the Gospel, since its reception was almost uniformly unfavorable. Paul warns against the anticipated rejection, just as the Jews in Habakkuk's day refused to believe in the impending invasion. This warning is pertinent, especially if anger was observed on the faces of some of the rabbis. Let it be a weighty and seasonable admonition to avoid what is threatened and hold fast to the faith.",
+        "wordCount": 70,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.88629973739443,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+        "commentatorTierSimilarities": [
+            34.91,
+            32.47,
+            32.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The object of preaching the Gospel to the Jews first was for a testimony to them.",
+            "Its reception was almost uniformly unfavourable.",
+            "Against such anticipated rejection he now warns them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "40. Beware, therefore, &amp;c.\u2014By",
+            "\tthis awful warning of the Old Testament the apostle would fain \"shut",
+            "\tthem up unto the faith."
+        ],
+        "Albert Barnes": [
+            "Beware, therefore - Avoid what is threatened.",
+            "It will come on some; and Paul exhorted his hearers to beware lest it should come on them.",
+            "The principle of the passage is, that if they held in contempt the doings of God, they would perish."
+        ],
+        "John Calvin": [
+            "But it was either their sluggishness, or else their willfulness, that caused him to be more angry; like as all those must be cited to appear before God\u2019s judgment-seat who contemn the grace of Christ and the horrible judgment of eternal death must be denounced to those.\" ",
+            "He signifieth, indeed, that there is yet place left for repentance, when he willeth them to take heed; yet, notwithstanding, he telleth them therewithal, that unless they beware in time, the horrible vengeance of God is not far off.\" ",
+            "The place which is cited is taken out of the first chapter of Habakkuk, but because all prophecies were gathered into one volume or body, Paul saith that it is written in the prophets."
+        ],
+        "Philip Schaff": [
+            "The general warnings contained in that volume of the Old Testament Scriptures.\" ",
+            "They are to beware lest the terrible denunciations of the old prophets find their fulfillment in them."
+        ],
+        "Archibald T. Robertson": [
+            "Beware therefore...Lest there come upon you.\" ",
+            "The warning is pertinent. Perhaps Paul noticed anger on the faces of some of the rabbis.",
+            "The Jews of Habakkuk's day had refused to believe in the impending invasion by the Chaldeans, and yet it had come."
+        ],
+        "John Gill": [
+            "Beware therefore,.... Of rejecting the Gospel, and those excellent truths of it; since forgiveness of sin and a justifying righteousness are said to be had in no other way, but in and through Christ.\" ",
+            "Take heed therefore, lest that come upon you, which is spoken of in the Prophets.\" ",
+            "Or in the book of the Prophets, the lesser prophets, which were together in one book, among which Habakkuk stands."
+        ],
+        "John Wesley": [
+            "Beware \u2014 A weighty and seasonable admonition. No reproof is as yet added to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware, therefore, of rejecting the Gospel, since its reception was almost uniformly unfavorable and it was preached as a testimony to the Jews first. Paul warns against the anticipated rejection, just as the Jews in Habakkuk's day refused to believe in the impending invasion. This warning is pertinent, especially if anger was observed on the faces of some of the rabbis. It is a reminder to take heed, lest the terrible denunciations of the old prophets find their fulfillment. The passage from the book of Habakkuk serves as a powerful reminder that contempt for God's doings can lead to destruction. Let this be a weighty and seasonable admonition to avoid what is threatened and hold fast to the faith.",
+            "wordCount": 121,
+            "quoteTokenProportion": 34.94,
+            "qualityScore": 1.9062223477756073,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                30.1,
+                36.31,
+                33.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware, therefore, of rejecting the Gospel, for its reception was almost uniformly unfavorable as it was preached as a testimony to the Jews first. Paul warns against the anticipated rejection, just as the Jews in Habakkuk's day refused to believe in the impending invasion. This warning is pertinent, especially if anger was observed on the faces of some of the rabbis. Let it be a weighty and seasonable admonition to avoid what is threatened and hold fast to the faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8860139902637987,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                35.55,
+                31.85,
+                32.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware, therefore, of rejecting the Gospel, since its reception was almost uniformly unfavorable. Paul warns against the anticipated rejection, just as the Jews in Habakkuk's day refused to believe in the impending invasion. This warning is pertinent, especially if anger was observed on the faces of some of the rabbis. Let it be a weighty and seasonable admonition to avoid what is threatened and hold fast to the faith.",
+            "wordCount": 70,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.88629973739443,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+            "commentatorTierSimilarities": [
+                34.91,
+                32.47,
+                32.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware, therefore, of rejecting the Gospel, for its reception was almost uniformly unfavorable as it was preached as a testimony to the Jews first. Paul warns against the anticipated rejection, just as the Jews in Habakkuk's day refused to believe in the impending invasion. This warning is pertinent, especially if anger was observed on the faces of some of the rabbis. Let it be a weighty and seasonable admonition to avoid what is threatened and hold fast to the faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8860139902637987,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                35.55,
+                31.85,
+                32.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware, therefore, of rejecting the Gospel, since its reception was almost uniformly unfavorable. Paul warns against the anticipated rejection, just as the Jews in Habakkuk's day refused to believe in the impending invasion. This warning is pertinent, especially if anger was observed on the faces of some of the rabbis. Let it be a weighty and seasonable admonition to avoid what is threatened and hold fast to the faith.",
+            "wordCount": 70,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.88629973739443,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+            "commentatorTierSimilarities": [
+                34.91,
+                32.47,
+                32.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

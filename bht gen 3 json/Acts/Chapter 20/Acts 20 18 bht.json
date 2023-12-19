@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:34:13",
+    "verseRef": "Acts 20:18",
+    "bestBHT": {
+        "bht": "Paul's farewell speech is a treasure-house of his own words, idioms, and sentiments, displaying his integrity and fidelity in his ministry. He appeals to the elders and congregation, reminding them of his conduct among them. Paul's deep emotion and high intellectuality shine through, revealing his dedication as a bond-slave of Christ. His honest reflection on his past and present encourages ministers to devote themselves wholly to the work before them, rather than seeking restlessness in new opportunities.",
+        "wordCount": 81,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.680543417320215,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+        "commentatorTierSimilarities": [
+            42.82,
+            29.54,
+            27.63
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The evidence furnished by this speech as to the literal report in the Acts of the words spoken by St. Paul is most important.",
+            "It is a treasure-house of words, idioms, and sentiments, peculiarly belonging to the Apostle himself.",
+            "He reminds the elders of his conduct among them, announces his final separation from them, and commends earnestly to them the flock committed to their charge."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye know . . . after what manner I have been with you at all seasons.\" ",
+            "For the Christian integrity and fidelity of his whole official intercourse with them.\" ",
+            "He appeals to themselves."
+        ],
+        "Albert Barnes": [
+            "No man can read it without being convinced that it came from a heart full of love and kindness; and that it evinces a great and noble purpose to be entirely employed in one great aim and object - the promotion of the glory of God, in the face of danger and of death.",
+            "How happy is it when a minister can thus appeal to those with whom he has labored in proof of his own sincerity and fidelity! How comforting to himself, and how full of demonstration to a surrounding world, of the truth and power of the gospel which is preached!",
+            "It is strong evidence of the holiness of the character of the apostles, and proof that they were not impostors, that they could thus appeal with the utmost assurance to those who had every opportunity of knowing them."
+        ],
+        "John Calvin": [
+            "There is nothing less tolerable in the servants of Christ than ambition and vanity; but forasmuch as all men knew full well what modesty and humility was in the holy man, he needed not to fear lest he should incur the suspicion of vain boasting.",
+            "He doth, indeed, greatly extol his labors, patience, fortitude, and other virtues, but to what end? Surely not that he may purchase commendation at the hands of his auditory, but that his holy exhortation may pierce more deeply, and may stick fast in their minds.",
+            "He did also shoot at another mark, that his integrity and uprightness in dealing might serve afterward to commend his doctrine."
+        ],
+        "Philip Schaff": [
+            "You know, from the first day that I came into Asia, after what manner I have been with you at all seasons.",
+            "The words of Samuel to the people of Israel after the election of King Saul present a most striking parallel to this farewell speech of Paul."
+        ],
+        "Archibald T. Robertson": [
+            "One of the saddest things about the present situation is the restlessness of preachers to go elsewhere instead of devoting themselves wholly to the task where they are.\" ",
+            "It was Paul's glory to be the \u03b4\u03bf\u03c5\u03bb\u03bf\u03c2 (bond-slave) as in Romans 1:1; Philippians 1:1.",
+            "Paul was a man of the deepest emotion along with his high intellectuality."
+        ],
+        "John Gill": [
+            "Ye know, from the first day I came into Asia.",
+            "After what manner I have been with you at all seasons.",
+            "What was his conduct, conversation, and constant manner of life."
+        ],
+        "John Wesley": [
+            "Ye know \u2014 Happy is he who can thus appeal to the conscience of his hearers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This passage in Acts 20:18 serves as a powerful testament to the unwavering dedication and integrity of the apostle Paul. It is evident that his words, filled with unique expressions and sentiments distinct to him, carry great weight and sincerity. Paul emphasizes his deep emotional connection to the elders and the congregation, reminding them of his steadfast commitment to their wellbeing and the flock entrusted to their care. His appeal is not motivated by a desire for praise or recognition, but rather by a heartfelt conviction that his message may resonate more deeply in their souls. Paul's entire ministry is characterized by humility, selflessness, and an unyielding passion for spreading the Gospel. His words not only serve as a strong testimony to his own sincerity and faithfulness, but also as a poignant reminder for all ministers to wholeheartedly dedicate themselves to their current mission, rather than seeking restlessness or new opportunities elsewhere.",
+            "wordCount": 152,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.671193679110679,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "commentatorTierSimilarities": [
+                39.76,
+                34.32,
+                25.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this impactful moment, Paul's words bear a testament to his genuine and unwavering dedication as an apostle. His appeal to the elders and the congregation is not for personal commendation, but rather to emphasize his deep emotional connection, integrity, and faithful ministry among them. Paul's conduct and constant presence have left an indelible mark, reflecting his commitment to the Gospel and the well-being of the flock. This serves as a powerful reminder to stay devoted to our current mission, rather than succumbing to restlessness and pursuing new opportunities.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.6397767591434995,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+            "commentatorTierSimilarities": [
+                38.09,
+                34.87,
+                27.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's words in this passage reveal the genuine and unwavering commitment he had as an apostle. His appeal to the elders and the congregation is not driven by a desire for personal recognition, but rather to emphasize the depth of his emotional connection and the integrity of his ministry among them. He constantly reminds them of his unwavering dedication to their well-being and the flock entrusted to their care. Paul's words serve as a poignant reminder to all ministers to stay devoted to their current mission, rather than being restless for new opportunities.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.7405569367804263,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                40.1,
+                32.44,
+                27.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's powerful words in this farewell speech serve as a testament to his unwavering commitment and sincere ministry. He appeals to the elders and congregation, reminding them of his unwavering devotion, integrity, and love. Paul's heartfelt passion and deep emotional connection shine through as he urges them to continue caring for the flock entrusted to their charge. His words echo the importance of staying dedicated and faithful to one's current mission instead of seeking restlessness or new opportunities elsewhere.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.6284490175418824,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                39.13,
+                32.77,
+                28.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's farewell speech is a treasure-house of his own words, idioms, and sentiments, displaying his integrity and fidelity in his ministry. He appeals to the elders and congregation, reminding them of his conduct among them. Paul's deep emotion and high intellectuality shine through, revealing his dedication as a bond-slave of Christ. His honest reflection on his past and present encourages ministers to devote themselves wholly to the work before them, rather than seeking restlessness in new opportunities.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.680543417320215,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                42.82,
+                29.54,
+                27.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

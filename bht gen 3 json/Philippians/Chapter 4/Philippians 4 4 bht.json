@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 13:56:31",
+    "verseRef": "Philippians 4:4",
+    "bestBHT": {
+        "bht": "Joy is the prominent theme in this portion of Philippians. Christians can rejoice in God's character, law, and promises, finding joy in every moment. Despite discouragement, the call to rejoice in the Lord is repeated, emphasizing its importance. This joy stands apart from the fleeting joy of the world, as it is grounded in the unchanging nature of Christ. Believers can find reason to rejoice, knowing that Christ's grace and blood bring peace and pardon. The continuous emphasis on rejoicing brings comfort to believers and honors Christ.",
+        "wordCount": 89,
+        "quoteTokenProportion": 27.12,
+        "qualityScore": 1.8379064277274673,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+        "commentatorTierSimilarities": [
+            22.49,
+            37.77,
+            39.74
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "4.] AGAIN I will say it] referring to ch. iii. 1, where see note. It is the ground-tone of the Epistle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Joy is the predominant feature of the Epistle.",
+            "Joy is the predominant feature of the Epistle.",
+            "I will say."
+        ],
+        "Albert Barnes": [
+            "It is the privilege of Christians to... rejoice that there is a God and Saviour; they may rejoice in the character, law, and government of God - in his promises, and in communion with him.",
+            "The Christian, therefore, may be, and should be, always a happy man.",
+            "There is not a moment of a Christian\u2019s life in which he may not find joy in the character, law, and promises of God."
+        ],
+        "John Calvin": [
+            "For unquestionably it differs from the joy of the world in this respect \u2014 that we know from experience that the joy of the world is deceptive, frail, and fading, and Christ even pronouces it to be accursed.\" ",
+            "Let this be your strength and stability, to rejoice in the Lord, and that, too, not for a moment merely, but so that your joy in him may be perpetuated.\" ",
+            "The sum, then, is this \u2014 that come what may, believers, having the Lord standing on their side, have amply sufficient ground of joy."
+        ],
+        "Philip Schaff": [
+            "Rejoice in the Lord alway.\" ",
+            "The apostle now takes up the thread of his thoughts from chap. Philippians 3:1.",
+            "When we reflect that the Epistle was written from his prison, we may judge of the comfort which the apostle found in Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Rejoice. Present active imperative as in Philippians 3:1, repeated for emphasis in spite of discouragements.\" ",
+            "Not in the sense of 'Farewell' here."
+        ],
+        "John Gill": [
+            "There is always cause and matter for rejoicing in Christ, even in times of affliction, distress, and persecution.",
+            "His grace is always sufficient; his blood has a continual virtue in it, and always speaks for peace and pardon.",
+            "Rejoice; this is what was continually inculcated by him, as being of great importance and use for the comfort of believers, and the honour of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Joy is the predominant feature of this portion of Philippians, as mentioned multiple times. The repetition of the phrase I will say emphasizes the importance of joy. Christians have the privilege to rejoice in the character, law, and promises of God, finding joy in every moment of their lives. Even in the midst of discouragement, believers are encouraged to rejoice in the Lord always. This call to joy is even more remarkable when we consider that the Epistle was written from Paul's prison. The joy of believers differs from the temporary joy of the world, as it is grounded in the unchanging nature of Christ. No matter the circumstances, believers can find cause for rejoicing in the Lord, knowing that His grace and blood are sufficient for peace and pardon. Rejoicing is continually emphasized for the comfort of believers and the honor of Christ.",
+            "wordCount": 145,
+            "quoteTokenProportion": 34.12,
+            "qualityScore": 1.8121893892370329,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+            "commentatorTierSimilarities": [
+                24.2,
+                36.8,
+                38.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Joy is the prevailing theme of this portion of Philippians. The repetition of I will say emphasizes its importance. Christians have the privilege to rejoice in God's character, law, and promises, finding joy in every moment of life. Even in discouragement, believers are called to rejoice in the Lord always. This joy is distinct from the fleeting joy of the world, rooted in the unchanging nature of Christ. Despite circumstances, believers can find cause for rejoicing, knowing that Christ's grace and blood bring peace and pardon. Rejoicing is continually emphasized for believers' comfort and to honor Christ.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.7856265736004784,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.71,
+            "commentatorTierSimilarities": [
+                24.13,
+                37.12,
+                38.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Joy is the predominant feature of this portion of Philippians. Christians can rejoice in the character, law, and promises of God, finding joy in every moment of life. Despite discouragements, the imperative to rejoice is repeated for emphasis. This joy differs from the world's fleeting joy, as it is grounded in the unchanging nature of Christ. Believers can find cause for rejoicing in the Lord, knowing that His grace and blood bring peace and pardon. Rejoicing is continually emphasized for believers' comfort and the honor of Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.8290120617310373,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.16,
+            "commentatorTierSimilarities": [
+                25.23,
+                37.14,
+                37.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The joy that permeates this portion of Philippians is significant. Christians have the privilege to rejoice in God's character, law, and promises, finding joy in every moment. Despite discouragements, believers are called to rejoice in the Lord always. This joy is different from the world's temporary joy, grounded in the unchanging nature of Christ. In any situation, believers can find cause for rejoicing, knowing that Christ's grace and blood provide peace and pardon. The continual emphasis on rejoicing brings comfort to believers and honors Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.8250578313939758,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+            "commentatorTierSimilarities": [
+                20.33,
+                39.72,
+                39.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Joy is the prominent theme in this portion of Philippians. Christians can rejoice in God's character, law, and promises, finding joy in every moment. Despite discouragement, the call to rejoice in the Lord is repeated, emphasizing its importance. This joy stands apart from the fleeting joy of the world, as it is grounded in the unchanging nature of Christ. Believers can find reason to rejoice, knowing that Christ's grace and blood bring peace and pardon. The continuous emphasis on rejoicing brings comfort to believers and honors Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.8379064277274673,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                22.49,
+                37.77,
+                39.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

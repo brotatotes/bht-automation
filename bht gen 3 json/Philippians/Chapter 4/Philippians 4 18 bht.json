@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 13:56:47",
+    "verseRef": "Philippians 4:18",
+    "bestBHT": {
+        "bht": "Notwithstanding that the gift is not what I desire, I have received it, and been sufficiently supplied. I have all that I want, and more than enough. It is a sacrifice acceptable and well-pleasing to God, a sweet-smelling fragrance in His presence. The gift they have given is not so much for my benefit, but for God\u2019s. It has come up as a memorial before Him, and is regarded as a sacred offering. Their act of kindness has fully satisfied and supplied my needs, and is an offering that pleases both the apostle and God Himself.",
+        "wordCount": 99,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 1.8664144785835535,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.4,
+        "commentatorTierSimilarities": [
+            30.32,
+            37.14,
+            32.54
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But (notwithstanding that the gift is not that which I desire, I have received it, and been sufficiently supplied by it) I have (emphatic,\u2014 \u2018I have no more to ask from you, but have enough\u2019) all (I want), and abound (over and above).",
+            "I am filled (repetition and intensification of 'I abound'), having received at the hands of Epaphroditus the remittance from you, a savour of fragrance.",
+            "A sacrifice acceptable, well-pleasing to God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I have all\" that I want, \"and more than enough.\" Literally, as English Version, \"I abound\" over and above my needs.",
+            "I am filled full.",
+            "Their gift being in faith was not so much to Paul, as to God, before whom it 'came up for a memorial', sweet-smelling in God's presence."
+        ],
+        "Albert Barnes": [
+            "I have received everything. I have all I want, and desire no more.",
+            "This does not mean that it was such an odor to Paul, but to God.",
+            "Kindness done to the ministers of the gospel is regarded as an acceptable offering to God."
+        ],
+        "Marvin Vincent": [
+            "I have [\u03b1\u03c0\u03b5\u03c7\u03c9] . I have received in full. See on Matthew 6:2; Luke 6:24. ",
+            "Odor of a sweet smell. See on 2 Corinthians 2:15, 2 Corinthians 2:16. Frequent in Septuagint, of the odor of sacrifices."
+        ],
+        "John Calvin": [
+            "For what better thing can be desired than that our acts of kindness should be sacred offerings, which God receives from our hands, and takes pleasure in their sweet odour?",
+            "The similitude of sacrifices, however, adds much emphasis, by which we are taught, that the exercise of love which God enjoins upon us, is not merely a benefit conferred upon man, but is also a spiritual and sacred service which is performed to God.",
+            "For the altars, on which sacrifices from our resources ought to be presented, are the poor, and the servants of Christ."
+        ],
+        "Philip Schaff": [
+            "Your bounty has completely supplied my every need. As a gift, it has done what was intended to the full.",
+            "The powerful odor ascending up reached, and was pleasing unto, the Deity.",
+            "It was a sacrifice on their part, and was well-pleasing not to the apostle only, but to Him who could repay the debt."
+        ],
+        "Archibald T. Robertson": [
+            "I have all things... As a receipt in full in appreciation of their kindness.\" ",
+            "An odor of a sweet smell... In Ephesians 5:2 both words come together as here.",
+            "Sacrifice... Well-pleasing."
+        ],
+        "John Gill": [
+            "I have received all things.",
+            "I am full; as much as he desired, he wanted no more, he had enough.",
+            "An odor of a sweet smell, a sacrifice acceptable, well pleasing to God."
+        ],
+        "John Wesley": [
+            "An odour of a sweet smell \u2014 More pleasing to God than the sweetest perfumes to men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Notwithstanding that the gift is not what I desire, I have received it, and been sufficiently supplied. I have all that I want, and more than enough. It is a sacrifice acceptable and well-pleasing to God, a sweet-smelling fragrance in His presence. The gift they have given is not so much for my benefit, but for God\u2019s. It has come up as a memorial before Him, and is regarded as a sacred offering. Their act of kindness has fully satisfied and supplied my needs, and is an offering that pleases both the apostle and God Himself.",
+            "wordCount": 99,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.8664144785835535,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.4,
+            "commentatorTierSimilarities": [
+                30.32,
+                37.14,
+                32.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Notwithstanding that the gift is not what I desire, I have received it and been sufficiently supplied. I have all that I want and abound. It is a sacrifice well-pleasing to God, a sweet-smelling fragrance in His presence. The gift they have given is not solely for my benefit, but for God\u2019s pleasure. It has come up as a memorial before Him, and is regarded as a sacred offering. Their act of kindness has fully satisfied my needs and pleases both the apostle and God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.8234654964740273,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                30.52,
+                36.74,
+                32.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Notwithstanding that the gift is not what I desire, I have received it, and been sufficiently supplied. I have all that I want and abound. It is a sacrifice well-pleasing to God, a sweet-smelling fragrance in His presence. The gift they have given is not solely for my benefit but for God\u2019s pleasure. Their act of kindness has fully satisfied my needs and pleases both the apostle and God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.8973981461928289,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                31.27,
+                35.37,
+                33.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though the gift may not be what I desire, I have received it and am fully supplied. I have all that I want and more. It is a sacrifice that is pleasing and acceptable to God, a sweet-smelling fragrance in His presence. The gift is not just for my benefit, but for the pleasure of God Himself. It is a memorial before Him, regarded as a sacred offering. Their act of kindness has completely satisfied my needs and is a source of joy for both the apostle and God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 1.8209288224139129,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                28.05,
+                36.19,
+                35.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Notwithstanding that the gift is not what I desire, I have received it and been sufficiently supplied. I have all that I want and abound. It is a sacrifice well-pleasing to God, a sweet-smelling fragrance in His presence. The gift they have given is not solely for my benefit but for God\u2019s pleasure. Their act of kindness has fully satisfied my needs and pleases both the apostle and God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.8973981461928289,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                31.27,
+                35.37,
+                33.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

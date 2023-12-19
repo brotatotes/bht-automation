@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:14:27",
+    "verseRef": "Luke 2:34",
+    "bestBHT": {
+        "bht": "Jesus Christ is described as a stone of stumbling and rock of offense at which many should fall due to their unbelief. However, for those who have faith, he becomes a way of rising again. This falling and rising may refer to the same people, as Jesus himself said, He who humbles himself will be exalted. Throughout history, Jesus has been a polarizing figure, attracting and repelling people. He is a sign that causes contradiction in the world, revealing the true thoughts and beliefs of individuals.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9485474422273517,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+        "commentatorTierSimilarities": [
+            41.19,
+            22.56,
+            36.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Fall, as a stone of stumbling and rock of offense... at which they should fall through unbelief.\" ",
+            "Rising again... by faith and holiness.\" ",
+            "The fall and rising up may refer to the same persons; as it is said by our Lord, 'He that humbleth himself shall be exalted.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Perhaps the former of these phrases expresses the two stages of temporary 'fall of many in Israel' through unbelief, during our Lord's earthly career, and the subsequent 'rising again' of the same persons after the effusion of the Spirit at Pentecost threw a new light to them on the whole subject.",
+            "The latter clause describes the determined enemies of the Lord Jesus.",
+            "Such opposite views of Christ are taken from age to age."
+        ],
+        "Albert Barnes": [
+            "The fall - The word 'fall' here denotes 'misery, suffering, disappointment,' or 'ruin.'",
+            "Many that were proud were brought low by his preaching. They fell from the vain and giddy height of their own self-righteousness, and were humbled before God.",
+            "Many of the poor and humble, that were willing to receive him, would obtain pardon of sin and peace - would 'rise' from their sins and sorrows here, and finally ascend to eternal life."
+        ],
+        "Marvin Vincent": [
+            "The fall and rising again...for the rising, because many will be raised up through him to life and glory.",
+            "The falling and the rising.",
+            "A sign of which it is the character to experience contradiction from the world."
+        ],
+        "John Calvin": [
+            "The unbelief of the world is\u2014we know it\u2014a great and serious hinderance; but it must be conquered, if we wish to believe in Christ.",
+            "We see, then, that a good purpose was served by Simeon\u2019s prediction, that Christ was set for the ruin of many in Israel... This is immediately afterwards expressed, when Simeon says that Christ is a sign, which is spoken against... Because unbelievers are rebels against Christ, they clash themselves against him, and hence comes their ruin.",
+            "Let it be also taken into account, that the former ['a stone of stumbling'] is accidental, while the latter ['corner-stone'] is properly and strictly his office. Besides, it deserves our notice, that Christ is not only called the support, but the resurrection of the godly."
+        ],
+        "Philip Schaff": [
+            "The ordinary benediction of a pious old man.",
+            "This further revelation may have been needed to prevent undue elation on the part of Mary.",
+            "This refers to the future, but the present is used of what is characteristic."
+        ],
+        "Archibald T. Robertson": [
+            "He will be a stumbling-block to some who love darkness rather than light, he will be the cause of rising for others.",
+            "Jesus is the magnet of the ages. He draws some, he repels others. This is true of all epoch-making men to some extent.",
+            "Nietzsche regarded Jesus Christ as the curse of the race because he spared the weak."
+        ],
+        "John Gill": [
+            "This child, who is the stone of Israel, is set, or put, or lies, both as a stone of stumbling, and rock of offence.",
+            "He pays all their debts, clothes them with his righteousness, heals all their diseases, redeems them from the slavery of sin, the captivity of Satan, and the bondage and curse of the law.",
+            "Christ is the sign of God's everlasting love to his people, the great proof, evidence, and demonstration of it; and in this respect, is spoken against by many."
+        ],
+        "John Wesley": [
+            "This child is set for the fall and rising again of many.\" ",
+            "He will be a savour of death to some, to unbelievers: a savour of life to others, to believers.",
+            "The event will be, that by means of that contradiction, the inmost thoughts of many, whether good or bad, will be made manifest."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus Christ is described as a stone of stumbling and rock of offense at which many would fall due to their unbelief. However, for those who have faith and pursue holiness, he becomes the means of rising again. This process of falling and rising can refer to the same individuals, as those who humble themselves will be exalted. Throughout history, Jesus has had both devoted followers and determined enemies, with people taking opposite views of him. He is a sign that causes contradiction in the world, attracting some while repelling others. Nietzsche, for example, considered Jesus to be a curse because he challenged and showed mercy to the weak. Ultimately, Jesus serves as a catalyst for revealing the true thoughts and beliefs of individuals.",
+            "wordCount": 124,
+            "quoteTokenProportion": 43.82,
+            "qualityScore": 1.9108118432783496,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                41.18,
+                24.38,
+                34.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus Christ is described as a stone of stumbling and rock of offense at which many should fall due to their unbelief. However, for those who have faith, he becomes a way of rising again. This falling and rising may refer to the same people, as Jesus himself said, He who humbles himself will be exalted. Throughout history, Jesus has been a polarizing figure, attracting and repelling people. He is a sign that causes contradiction in the world, revealing the true thoughts and beliefs of individuals.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9485474422273517,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                41.19,
+                22.56,
+                36.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus Christ is described as a stone of stumbling and rock of offense at which many should fall through unbelief. However, for those who have faith and pursue holiness, he becomes the means of rising again. This falling and rising can refer to the same individuals, as those who humble themselves will be exalted. Throughout history, Jesus has had both devoted followers and determined enemies, with people taking opposite views of him. He is a sign that causes contradiction in the world, attracting some while repelling others.",
+            "wordCount": 87,
+            "quoteTokenProportion": 52.11,
+            "qualityScore": 1.9042568910492506,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "commentatorTierSimilarities": [
+                42.25,
+                22.82,
+                34.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus Christ is depicted as a stone of stumbling and rock of offense causing many to fall due to their lack of belief. Nonetheless, for those who have faith and strive for holiness, he becomes their source of redemption and rising again. This process of falling and rising can apply to the same individuals, as those who humble themselves will be exalted. Throughout history, Jesus elicits polarizing reactions, drawing some closer to the light while repelling others who prefer darkness. He serves as a sign, revealing the true thoughts and intentions of many.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8669490483504938,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.42,
+            "commentatorTierSimilarities": [
+                39.86,
+                24.41,
+                35.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus Christ is likened to a stumbling stone and an offensive rock, causing many to fall due to their unbelief. However, for those who have faith and pursue holiness, he becomes the foundation of their rise. This falling and rising can pertain to the same individuals, as humility leads to exaltation. Across time, Jesus has both dedicated followers and determined adversaries, eliciting opposing views. He is a sign that sparks contradiction and draws individuals towards light or repels them towards darkness. Jesus reveals the inner thoughts and true nature of many people.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.8580912468105995,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                40.22,
+                24.56,
+                35.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

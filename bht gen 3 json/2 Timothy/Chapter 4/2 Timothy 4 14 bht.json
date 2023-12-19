@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:31:26",
+    "verseRef": "2 Timothy 4:14",
+    "bestBHT": {
+        "bht": "Alexander the smith did much evil to the apostle, Paul, and he fervently wished that the Lord would requite him according to his works. This was not a personal desire for revenge, but rather a zealous plea for justice in the cause of the Gospel. It is likely that this Alexander was the same person mentioned in other instances and strongly opposed the teachings of Paul. Paul's wish for the Lord to reward him was driven by his dedication to God's glory, not personal vengeance.",
+        "wordCount": 87,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.9270506364477993,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+        "commentatorTierSimilarities": [
+            31.48,
+            32.89,
+            35.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Alexander the smith...did to me much evil; the Lord shall requite him according to his works.\" ",
+            "The wish expressed in the received text would make no real difficulty: it is not personal revenge, but zeal for the cause of the Gospel which the wish would express.\" ",
+            "For he exceedingly withstood our words."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He may have been the Alexander put forward by the Jews in the tumult at Ephesus.",
+            "Personal revenge certainly did not influence the apostle.",
+            "The oldest manuscripts read, 'shall reward,' or 'requite him.'"
+        ],
+        "Albert Barnes": [
+            "The Lord reward him according to his works; - [...] This need not be regarded as an expression of private feeling; still less should it be understood as expressing a desire of revenge. It is the language of one who wished that God would treat him exactly as he ought to be treated, and might be in accordance with the highest benevolence of any heart.",
+            "It is the aim of every just government that every one should be treated exactly as he deserves; and every good citizen should desire and pray that exact justice may be done to all.",
+            "Why is it wrong to desire or to pray that universal justice may be done, and that every man may be treated as, under all the circumstances of the case, he ought to be treated?"
+        ],
+        "Marvin Vincent": [
+            "Did me much evil [\u03c0\u03bf\u03bb\u03bb\u03b1 \u03bc\u03bf\u03b9 \u03ba\u03b1\u03ba\u03b1 \u03b5\u03bd\u03b5\u03b4\u03b5\u03b9\u03be\u03b1\u03c4\u03bf] . Lit. shewed me much ill - treatment.",
+            "May the Lord reward [\u03b1\u03c0\u03bf\u03b4\u03c9\u03c3\u03b5\u03b9] . More correctly shall reward.",
+            "The same person is probably meant in all three cases."
+        ],
+        "John Calvin": [
+            "But from the beginning, the Lord determined that his Church should not be exempted from this evil, lest our courage should fail when we are tried by any of the same kind.",
+            "The wickedness of such men always obtains credit in the world, so that malicious and impudent ignorance sometimes creates trouble and difficulty greater than the highest abilities accompanied by learning.",
+            "Especially it ought to be observed how detestable a crime it is, to fight with deliberate malice against the true religion."
+        ],
+        "Philip Schaff": [
+            "Enmity against St. Paul is a common element in all three cases.",
+            "As a coppersmith, there may have been a trade connexion with the craftsmen employed by Demetrius.",
+            "The Lord will reward him."
+        ],
+        "Archibald T. Robertson": [
+            "Alexander the coppersmith... Possibly the one in 2 Timothy 1:20, but not the one in Acts 19:33 unless he afterwards became a Christian.",
+            "Did me much evil... Evidently he had some personal dislike towards Paul and possibly also he was a Gnostic.",
+            "Will render... with a very different atmosphere."
+        ],
+        "John Gill": [
+            "Alexander the coppersmith did me much evil.... It was very likely he had lately been at Rome, though now returned to Ephesus, and had done great injury to the apostle's character, and had reproached and reviled him as a man of bad principles and practices.\" ",
+            "His business is mentioned, to distinguish him from any other of that name, and to show the insolence of the man, that though he was an illiterate person, and in such a mean station of life, yet took upon him to resist the apostle and his doctrine.",
+            "The Lord reward him according to his works; which may be considered either as an imprecation upon him, as knowing him to be a wicked blasphemer, and a reprobate person; and which arose, not from private resentment, and on account of the private injury he had done to him; but from a pure zeal for the glory of God, and the honour of his name, without mingling his own spirit and passions with it: or as a prophecy, or declaration of what would be."
+        ],
+        "John Wesley": [
+            "The Lord will reward him \u2014 This he spoke prophetically."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Alexander the smith did much evil to the apostle, Paul, and he fervently wished that the Lord would requite him according to his works. This was not a personal desire for revenge, but rather a zealous plea for justice in the cause of the Gospel. It is likely that this Alexander was the same person mentioned in other instances, someone who strongly opposed the teachings of Paul. His actions showed ill-treatment towards Paul, and it is possible that he harbored a personal dislike or even adhered to Gnostic beliefs. Nevertheless, Paul's wish for the Lord to reward him was driven by his dedication to God's glory, not personal vengeance.",
+            "wordCount": 112,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.9138781230552553,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                31.72,
+                32.01,
+                36.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Alexander the smith did much evil to the apostle, Paul, and he fervently wished that the Lord would requite him according to his works. This was not a personal desire for revenge, but rather a zealous plea for justice in the cause of the Gospel. It is likely that this Alexander was the same person mentioned in other instances and strongly opposed the teachings of Paul. Paul's wish for the Lord to reward him was driven by his dedication to God's glory, not personal vengeance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9270506364477993,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+            "commentatorTierSimilarities": [
+                31.48,
+                32.89,
+                35.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Alexander the smith, who did much evil to Paul, is mentioned in this verse. Paul expresses a wish that the Lord would requite him according to his works, not out of personal revenge, but out of zeal for the cause of the Gospel. It is possible that this Alexander is the same person put forward by the Jews in the tumult at Ephesus. Paul emphasizes that his motive is not driven by personal vendetta, but by his dedication to the Gospel and God's righteous judgement.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.890820111674794,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.21,
+            "commentatorTierSimilarities": [
+                36.39,
+                28.91,
+                34.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Alexander the smith, who caused harm to the apostle Paul, receives a mention here. Paul expresses his desire for the Lord to repay him according to his actions, not out of personal revenge, but out of his zeal for the cause of the Gospel. It is likely that this Alexander is the same person mentioned elsewhere, consistently opposing Paul. Though he faced ill-treatment from Alexander, Paul's wish for divine retribution stems from his dedication to God's glory, not from any personal motives.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.8623779343984874,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                34.0,
+                31.35,
+                34.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Alexander the smith, who caused much evil to Paul, is mentioned here. Paul fervently wishes that the Lord would requite him according to his works, driven not by personal revenge but by zeal for the Gospel. It is likely that this Alexander is the same person mentioned in other instances, one who opposed Paul's teachings. Paul's desire for the Lord to reward him is rooted in his commitment to God's glory, not in seeking personal vengeance.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.8963134432684834,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                32.85,
+                33.0,
+                34.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

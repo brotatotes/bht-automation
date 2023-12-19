@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 17:08:37",
+    "verseRef": "Titus 3:15",
+    "bestBHT": {
+        "bht": "In the final greeting of the letter, Paul acknowledges that an imitator would not have missed his usual salutations and emphasizes the love and grace he wishes upon the Cretan Christians who truly belong to the faith. He distinguishes between those who sincerely love him and those who do not. This epistle is not intended for all believers in Crete, but specifically for those who love and believe in Paul and his teachings. The grace of God is extended to all believers, and Paul desires it to be with them all as they live out their faith.",
+        "wordCount": 97,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.164089137501768,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.3,
+        "commentatorTierSimilarities": [
+            30.89,
+            34.69,
+            34.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "An apocryphal imitator would not have missed the Apostle\u2019s regular formul\u00e6 of salutation.\" ",
+            "Salute those that love us in the faith.",
+            "[God\u2019s] grace be with all of you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Greet them that love us in the faith.",
+            "The grace, namely, of God.",
+            "Not that the Epistle is addressed to all the Cretan Christians, but Titus would naturally impart it to his flock."
+        ],
+        "Albert Barnes": [
+            "Greet them that love us in the faith - In the faith of the gospel, or as Christians.",
+            "Grace be with you all.",
+            "These subscriptions are so utterly destitute of authority... They are no part of the inspired writings."
+        ],
+        "Marvin Vincent": [
+            "Them that love us in the faith.\" ",
+            "In faith.\" ",
+            "Const. in faith with that love us."
+        ],
+        "Philip Schaff": [
+            "Titus 3:15. Them that love, etc., i.e. Cretan Christians who had come to know Paul during his stay in the island."
+        ],
+        "Archibald T. Robertson": [
+            "That love us (\u03c4\u03bf\u03c5\u03c2 \u03c6\u03b9\u03bb\u03bf\u03c5\u03bd\u03c4\u03b1\u03c2 \u03b7\u03bc\u03b1\u03c2). Paul craved the love of his friends as opposed to Titus 2:8. "
+        ],
+        "John Gill": [
+            "All that are with me salute thee...sent their Christian salutation to Titus; he being a person greatly esteemed, and whose praise was in all the churches.",
+            "greet them that love us in the faith...who love us faithfully, sincerely, and uprightly, from their hearts, and not in word and tongue only.",
+            "grace be with you all, Amen...This shows that this epistle was not designed for Titus only, but for the saints at Crete."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the final greeting of his letter, the Apostle Paul emphasizes the authenticity and sincerity of the love and grace he wishes for the Cretan Christians. He distinguishes them from any imitators by highlighting their genuine love and faith in the gospel. Paul recognizes that his words are not addressed to all Christians on the island, but rather to those who truly love and believe in him and the message he brings. The grace of God is extended to all believers, and Paul longs for it to be with them all. This epistle serves as a reminder that love and grace cannot be merely spoken, but must be lived out faithfully and sincerely in the Christian community.",
+            "wordCount": 117,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.199767514355843,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.48,
+            "commentatorTierSimilarities": [
+                28.29,
+                34.03,
+                37.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his farewell greeting, Paul distinguishes true followers of the faith from imitators by emphasizing the authenticity of their love. He directs this greeting specifically to the Cretan Christians who have shown genuine love and faith. It is a reminder that love and grace are not empty words, but are to be lived out faithfully. Paul desires the grace of God to rest upon all believers, extending his blessings to the entire community of faith.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.213081335456358,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.93,
+            "commentatorTierSimilarities": [
+                31.92,
+                32.4,
+                35.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the final greeting of the letter, Paul acknowledges that an imitator would not have missed his usual salutations and emphasizes the love and grace he wishes upon the Cretan Christians who truly belong to the faith. He distinguishes between those who sincerely love him and those who do not. This epistle is not intended for all believers in Crete, but specifically for those who love and believe in Paul and his teachings. The grace of God is extended to all believers, and Paul desires it to be with them all as they live out their faith.",
+            "wordCount": 97,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.164089137501768,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.3,
+            "commentatorTierSimilarities": [
+                30.89,
+                34.69,
+                34.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his final greeting, Paul notes that an imitator would have missed his customary salutations. He highlights the importance of genuine love and faith among the Cretan Christians. This letter is not addressed to all believers, but specifically to those who truly love and support Paul. Paul prays for the grace of God to be upon all of them. The message is a reminder that love and grace should be lived out sincerely and faithfully, not just in words.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.042098976301085,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.24,
+            "commentatorTierSimilarities": [
+                30.98,
+                31.64,
+                37.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This letter's closing greeting distinguishes true believers from mere imitators. Paul emphasizes the significance of genuine love and faith among the Cretan Christians. While the epistle is not addressed to all believers on the island, Paul desires the grace of God to be bestowed upon all of them. This serves as a reminder that love and grace should be expressed sincerely and lived out faithfully, rather than being mere words.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.037119081420449,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.08,
+            "commentatorTierSimilarities": [
+                29.03,
+                32.94,
+                38.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

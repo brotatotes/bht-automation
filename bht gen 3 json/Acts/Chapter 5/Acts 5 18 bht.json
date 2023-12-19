@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:26:27",
+    "verseRef": "Acts 5:18",
+    "bestBHT": {
+        "bht": "The apostles were taken and put in a public ward, possibly not the common prison, but any prison is bad enough. The act of taking them and putting them in prison was done out of jealousy, from a bad motive. This was not just a temporary confinement, but they were placed in the state prison of the city, to ensure their security and to bring disgrace upon them.",
+        "wordCount": 68,
+        "quoteTokenProportion": 51.11,
+        "qualityScore": 1.9154632102793439,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.03,
+        "commentatorTierSimilarities": [
+            28.06,
+            42.78,
+            29.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The common prison - The public prison; or the prison for the keeping of common and notorious offenders."
+        ],
+        "Marvin Vincent": [
+            "Trhsiv is not used in the sense of prison, but is an abstract term meaning ward or keeping.\" ",
+            "There is no article, moreover.",
+            "Rev., therefore, correctly, in public ward."
+        ],
+        "Philip Schaff": [
+            "The apostles. Peter and others of them. It does not necessarily mean the whole twelve.",
+            "In the common prison. This is specially mentioned, that no doubt may rest on the fact of the deliverance by means of an unearthly hand that night.",
+            "It was no mere temporary confinement in the high priest\u2019s house, or in a room of the Temple, but in the state prison of the city."
+        ],
+        "Archibald T. Robertson": [
+            "With jealousy (\u03b6\u03b7\u03bb\u03bf\u03c5). Genitive case. Old word from zeo, to boil, our zeal...but for a bad cause or from a bad motive, jealousy, envy, rivalry results.\" ",
+            "In public ward (\u03b5\u03bd \u03c4\u03b7\u03c1\u03b7\u03c3\u03b5 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b1)...perhaps not the 'common' prison, but any prison is bad enough.",
+            "In verse Acts 5:19 it is called 'the prison' (\u03c4\u03b7\u03c2 \u03c6\u03c5\u03bb\u03b1\u03ba\u03b7\u03c2), the guardhouse."
+        ],
+        "John Gill": [
+            "And laid their hands on the apostles... and put them in the common prison.\" ",
+            "Laid hold on them, and took them, and carried them away; at least their servants did so, by their orders.\" ",
+            "This both for greater security, and for greater disgrace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostles were taken and put in a public ward, possibly not the common prison, but any prison is bad enough. The act of taking them and putting them in prison was done out of jealousy, from a bad motive. This was not just a temporary confinement, but they were placed in the state prison of the city, to ensure their security and to bring disgrace upon them.",
+            "wordCount": 68,
+            "quoteTokenProportion": 51.11,
+            "qualityScore": 1.9154632102793439,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.03,
+            "commentatorTierSimilarities": [
+                28.06,
+                42.78,
+                29.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostles, Peter and others, were seized with jealousy and put in a public ward. This ward, which was not just any prison, but specifically the common prison for notorious offenders, was meant to ensure greater security and disgrace for the apostles. Their confinement was not a temporary arrangement, but rather a serious imprisonment in the state prison of the city. The fact that they were taken by force and carried to the common prison emphasizes the magnitude of their predicament and the miraculous nature of their eventual deliverance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.7586692688477117,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                24.32,
+                45.94,
+                29.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles, specifically Peter and others, were seized out of jealousy and placed in a public ward. This ward, described as the common prison for notorious offenders, was chosen to ensure greater security and shame for the apostles. The fact that they were forcefully taken and transported to this prison highlights the seriousness of their situation and the miraculous nature of their eventual rescue.",
+            "wordCount": 64,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.6180525758399456,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+            "commentatorTierSimilarities": [
+                22.98,
+                43.07,
+                33.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostles, seized with jealousy, were placed in a public ward known as the common prison; a confinement meant for notorious and common offenders. This deliberate choice of imprisonment ensured both greater security and humiliation for the apostles. Their forceful capture and subsequent transfer to the common prison underscored the gravity of their predicament and served as a backdrop for their eventual deliverance, which can only be described as miraculous.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.7480889328166822,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                22.86,
+                43.44,
+                33.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostles, driven by jealousy, were confined in a public ward referred to as the common prison. This prison, designed for notorious offenders, served as a secure and humiliating place of confinement. The forceful apprehension and transfer of the apostles to the common prison amplified the seriousness of their situation and highlighted the extraordinary nature of their eventual deliverance.",
+            "wordCount": 59,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.850460419581671,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "commentatorTierSimilarities": [
+                26.97,
+                47.4,
+                25.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

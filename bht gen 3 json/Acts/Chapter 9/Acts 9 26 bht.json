@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:28:55",
+    "verseRef": "Acts 9:26",
+    "bestBHT": {
+        "bht": "After his conversion, Saul went to Jerusalem to become acquainted with Peter and discuss his future work. The disciples in Jerusalem, not having heard about Saul's transformation and actions in Damascus, were afraid and doubted his sincerity, viewing him as a renegade or spy. Despite their uncertainty, Saul willingly joined himself to the disciples, leaving his apostolic commission to emerge naturally, and desired to be a fellow disciple with them. The Jerusalem Church carefully admitted new members, ensuring they were truly committed to Christ.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 2.1353970733046683,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+        "commentatorTierSimilarities": [
+            35.95,
+            31.62,
+            32.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He went to Jerusalem immediately: the purpose of this journey was to become acquainted with Peter.\" ",
+            "A resolution probably taken during the conspiracy of the Jews against him at Damascus.\" ",
+            "By conference with the Apostles, his sphere of work might be agreed on."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And when Saul was come to Jerusalem...no doubt because he was the leading apostle, and to communicate to him the prescribed sphere of his labors, specially to 'the Gentiles.'\" ",
+            "He assayed to join himself to the disciples\u2014simply as one of them, leaving his apostolic commission to manifest itself.",
+            "They were all afraid of him...the news of his subsequent labors in Damascus perhaps not having reached them."
+        ],
+        "Albert Barnes": [
+            "He did not go to Jerusalem immediately after he escaped from Damascus. He first went into Arabia, where he spent a considerable part, or the whole of three years.",
+            "It is not unnatural, however, to have doubts respecting an open and virulent enemy of the gospel who suddenly professes a change in favor of it.",
+            "Confidence is a plant of slow growth, and starts up, not by a sudden profession, but is the result of a course of life which is worthy of affection and of trust."
+        ],
+        "Marvin Vincent": [
+            "Join himself. See on ch. Acts 5:13; Luke 14:15; Luke 10:11."
+        ],
+        "John Calvin": [
+            "This was true conversion, that whereas he raged horribly before, he doth now valiantly suffer the storms of persecutions.",
+            "He was to be instructed by this means to make more account even of the lowest place amongst the disciples of Christ than of all masterships in corrupt and revolted synagogues.",
+            "But no man is fit to be a teacher in the Church save only he who willingly submitteth himself, that he may be a fellow disciple with other men."
+        ],
+        "Philip Schaff": [
+            "He returned to the capital poor, despised, a proscribed outlaw, his brilliant earthly prospects blasted, only burning to preach the Name of the Crucified.",
+            "'He might,' suggests Howson (St. Paul), 'have again, as he approached the city gates, trodden the very spot where he had so exultantly assisted in the death of Stephen; and he entered then perfectly willing, were it God\u2019s will, to be dragged out through them to the same fate.'",
+            "The Jerusalem Church, therefore, must have been in a state of great uncertainty and perplexity as to the intentions of their ancient and bitter enemy."
+        ],
+        "Archibald T. Robertson": [
+            "They were fearing him... What memories Saul had on this return journey to Jerusalem after three years.",
+            "He returns distrusted by the disciples and regarded by the Pharisees as a renegade and a turncoat.",
+            "They had probably heard of his conversion, but they frankly disbelieved the reports and regarded him as a hypocrite or a spy in a new role to ruin them."
+        ],
+        "John Gill": [
+            "Grace had made a strange alteration in him; those whom he hated, and was exceeding mad against, he now loves.",
+            "It is the duty and interest of every gracious soul to join himself to a church of Christ.",
+            "The primitive churches were very careful in the admission of persons into fellowship with them."
+        ],
+        "John Wesley": [
+            "And coming to Jerusalem \u2014 Three years after, Galatians 1:18. These three years St. Paul passes over, Acts 22:17, likewise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After his conversion, Saul immediately went to Jerusalem, most likely to become acquainted with Peter and discuss his future endeavors in spreading the Gospel. However, the disciples were hesitant and afraid of him, as news of his conversion and subsequent actions in Damascus hadn't reached them yet. They doubted his sincerity and saw him as a renegade or spy. Saul's return to Jerusalem was met with uncertainty and perplexity from the Jerusalem Church, who were unsure of his true intentions. Despite the doubts, Saul willingly submitted himself to the disciples and desired to be a fellow disciple with them. His conversion had brought about a remarkable change within him, as he now loved those whom he had once hated and persecuted. The Jerusalem Church took great care in admitting people into fellowship, ensuring that only those who were truly committed to Christ became part of the community.",
+            "wordCount": 149,
+            "quoteTokenProportion": 37.76,
+            "qualityScore": 2.06331715015361,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+            "commentatorTierSimilarities": [
+                33.91,
+                33.06,
+                33.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After his conversion, Saul immediately went to Jerusalem, probably to become acquainted with Peter and discuss the sphere of his future work. However, the disciples, not having heard of his subsequent labors in Damascus, were afraid of him. They doubted his reports of conversion and saw him as a renegade or spy. Despite the doubts, Saul willingly joined himself to the disciples, leaving his apostolic commission to manifest itself, and desired to be a fellow disciple with others. The Jerusalem Church took great care in admitting people into fellowship, ensuring that only those who were truly committed to Christ became part of the community.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 2.0530237223808214,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.6,
+            "commentatorTierSimilarities": [
+                37.34,
+                30.12,
+                32.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After his conversion, Saul immediately went to Jerusalem, most likely to become acquainted with Peter and discuss his future endeavors in spreading the Gospel. However, the disciples were hesitant and afraid of him, as news of his conversion and subsequent actions in Damascus hadn't reached them yet. They doubted his sincerity and saw him as a renegade or spy. Saul's return to Jerusalem was met with uncertainty and perplexity from the Jerusalem Church, who were unsure of his true intentions. Despite the doubts, Saul willingly submitted himself to the disciples and desired to be a fellow disciple with them. The Jerusalem Church took great care in admitting people into fellowship, ensuring that only those who were truly committed to Christ became part of the community.",
+            "wordCount": 127,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.070109228715368,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.17,
+            "commentatorTierSimilarities": [
+                34.89,
+                32.38,
+                32.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After his conversion, Saul immediately went to Jerusalem, probably to become acquainted with Peter and discuss the sphere of his future work. However, the disciples, not having heard of his subsequent labors in Damascus, were afraid of him. They doubted his reports of conversion and saw him as a renegade or spy. Despite the doubts, Saul willingly joined himself to the disciples, leaving his apostolic commission to manifest itself, and desired to be a fellow disciple with others. The Jerusalem Church took great care in admitting people into fellowship, ensuring that only those who were truly committed to Christ became part of the community.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 2.0530237223808214,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.6,
+            "commentatorTierSimilarities": [
+                37.34,
+                30.12,
+                32.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After his conversion, Saul went to Jerusalem to become acquainted with Peter and discuss his future work. The disciples in Jerusalem, not having heard about Saul's transformation and actions in Damascus, were afraid and doubted his sincerity, viewing him as a renegade or spy. Despite their uncertainty, Saul willingly joined himself to the disciples, leaving his apostolic commission to emerge naturally, and desired to be a fellow disciple with them. The Jerusalem Church carefully admitted new members, ensuring they were truly committed to Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.1353970733046683,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                35.95,
+                31.62,
+                32.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

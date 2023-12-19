@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:38:06",
+    "verseRef": "2 Thessalonians 2:4",
+    "bestBHT": {
+        "bht": "The Antichrist, the concentrated embodiment of sin and lawless iniquity, is described as one who opposes and exalts himself above all else that is considered divine. This figure claims divine honors, asserting his own divine dignity and publicly asserting to be God. Drawing from the historical incident of Caligula's attempt to be worshipped in the Jerusalem temple, the Antichrist seeks to be exalted and worshipped as God. In the ultimate fulfillment of this prophecy, the true worship of God may be drawn away to something human.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 2.0753164208474066,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+        "commentatorTierSimilarities": [
+            37.03,
+            33.6,
+            29.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The previous world kingdoms had each one extraordinary person as its representative head and embodiment... so the fourth and last world kingdom, under which we now live, shall have one final head, the concentrated embodiment of all the sin and lawless iniquity.",
+            "He not merely assumes Christ's character (as the 'false Christs'...), but 'opposes' Christ. The Greek implies one situated on an opposite side.",
+            "Antichrist shall exalt himself above every object of worship, whether on earth as the C\u00e6sar, or in heaven as God... It is the union of all in some one person that shall form the full Antichrist."
+        ],
+        "Albert Barnes": [
+            "No Protestant will doubt that this has been the character of the papacy.",
+            "The assumptions of the papacy have related to the following things: (1) To authority above all the inferior orders of the priesthood - above all pastors, bishops, and primates. (2) Authority above all kings and emperors. (3) To authority over the conscience, in matters which can pertain only to God himself.",
+            "The Pope has claimed higher honors, as the vicegerent of Christ, than was ever rendered in the ancient 'hero worship'."
+        ],
+        "Marvin Vincent": [
+            "That is called God. Above the true God and the false gods. The opposer claims divine honors for himself.",
+            "That is worshipped. An object of adoration, including things as well as persons.",
+            "Shewing. Publicly asserting divine dignity. Rev. setting himself forth as God."
+        ],
+        "John Calvin": [
+            "Hence, as the kingdom of Christ is spiritual, so this tyranny must be upon souls, that it may rival the kingdom of Christ.",
+            "Scripture declares that God is the alone Lawgiver who is able to save and to destroy; the alone King, whose office it is to govern souls by his word.",
+            "He boasts that it is his to bind consciences with such laws as seem good to him, and subject them to everlasting punishment."
+        ],
+        "Philip Schaff": [
+            "Who opposeth who is the adversary of God and all that is good.",
+            "All that men have hitherto called God and worshipped is put aside with contempt, and man takes the place of God.",
+            "In the ultimate fulfilment of the prophecy it may not be the temple of Jerusalem which is thus desecrated; the terms of the prediction will be satisfied if the homage due to God is drawn aside to something human."
+        ],
+        "Archibald T. Robertson": [
+            "He that opposeth and exalteth himself...but not Satan, but an agent of Satan.\" ",
+            "Caius Caligula had made a desperate attempt to have his statue set up for worship in the Temple in Jerusalem. This incident may lie behind Paul's language here.",
+            "Caligula claimed to be God...the deification of the Roman emperor supplied Paul's language here."
+        ],
+        "John Gill": [
+            "who opposes him in his kingly office, styling himself the head and spouse of the church, assuming to himself all power in heaven and in earth",
+            "and it was usual with the Jews to call God the object of worship, by the name of worship itself.",
+            "he as God sitteth in the temple of God; not in the temple of Jerusalem, but in the church of God, so called"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the embodiment of evil in the form of the Antichrist is described as a person who opposes and exalts himself above all that is considered divine. This figure claims divine honors and asserts his own divine dignity, publicly asserting to be God. This language may be influenced by the historical incident where Caligula, the Roman emperor, attempted to have his statue worshipped in the temple in Jerusalem. The Antichrist, like Caligula, seeks to be worshipped and exalted as God, drawing the homage due to God to something human. In the ultimate fulfillment of this prophecy, it may not be the temple of Jerusalem that is desecrated, but rather the true worship that is drawn away from God.",
+            "wordCount": 120,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 2.1369599602764233,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.39,
+            "commentatorTierSimilarities": [
+                36.41,
+                32.49,
+                31.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Antichrist, the concentrated embodiment of sin and lawless iniquity, is described as one who opposes and exalts himself above all else that is considered divine. This figure claims divine honors, asserting his own divine dignity and publicly asserting to be God. Drawing from the historical incident of Caligula's attempt to be worshipped in the Jerusalem temple, the Antichrist seeks to be exalted and worshipped as God. In the ultimate fulfillment of this prophecy, the true worship of God may be drawn away to something human.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.0753164208474066,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+            "commentatorTierSimilarities": [
+                37.03,
+                33.6,
+                29.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Antichrist, the embodiment of evil, is described as one who opposes and exalts himself above all that is divine. This figure claims divine honors and asserts his own divine dignity, publicly asserting to be God. This language may be influenced by the historical incident where Caligula, the Roman emperor, attempted to be worshipped in the temple in Jerusalem. The Antichrist seeks to draw the homage due to God away from Him and towards something human.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.0309321295362466,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                37.86,
+                31.85,
+                30.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Antichrist, the concentrated embodiment of sin, opposes and exalts himself above all that is considered divine. This figure claims divine honors, asserting his own divine dignity and publicly asserting to be God. The language used here may be influenced by the historical incident of Caligula's desperate attempt to be worshipped in the Jerusalem temple. The Antichrist seeks to be exalted and worshipped as God, drawing the worship due to God away from Him and towards something human. This prophecy's ultimate fulfillment may shift the focus of true worship from God to something man-made.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.006170327915495,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.05,
+            "commentatorTierSimilarities": [
+                37.2,
+                33.28,
+                29.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Antichrist, the epitome of sin and lawlessness, positions himself in opposition to and above everything divine. This figure not only assumes Christ's character but also aims to rival and surpass Him. The language used may be influenced by Caligula's audacious attempt to have his statue worshipped in the Jerusalem temple. The Antichrist seeks to exalt himself as God, drawing the worship away from the true God. Ultimately, this prophecy warns of the danger of diverting true worship to something of human origin.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.888526675984725,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "commentatorTierSimilarities": [
+                37.66,
+                32.94,
+                29.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

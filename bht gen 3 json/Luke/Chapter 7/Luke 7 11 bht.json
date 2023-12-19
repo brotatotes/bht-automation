@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:16:16",
+    "verseRef": "Luke 7:11",
+    "bestBHT": {
+        "bht": "In the village of Nain, a small and seldom-mentioned place near Mount Tabor, a widow's son was being carried towards the tombs, the only remaining trace of antiquity in the area. The incident at Nain is a beloved biblical event, and the authenticity of the location is confirmed simply by its name. Jesus, accompanied by his disciples and a crowd, went there after spending the night in Capernaum, showcasing his influence over considerable distances. The resurrection of the young man was witnessed by many, leaving no doubt about its truth, symbolizing the restoration of spiritual life.",
+        "wordCount": 98,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.5403048092721077,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+        "commentatorTierSimilarities": [
+            26.91,
+            33.7,
+            39.39
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Nain\u2014a small village not elsewhere mentioned in Scripture",
+            "only this once probably visited by our Lord",
+            "it lay a little to the south of Mount Tabor, about twelve miles from Capernaum"
+        ],
+        "Albert Barnes": [
+            "A city called Nain - This city was in Galilee, in the boundaries of the tribe of Issachar.",
+            "It is now a small village inhabited by Jews, Muslims, and Christians.",
+            "These are situated mainly on the east of the village, and it was in that direction, I presume, that the widow\u2019s son was being carried on that memorable occasion."
+        ],
+        "Marvin Vincent": [
+            "Nain. Mentioned nowhere else in the Bible.",
+            "The name alone is sufficient to guarantee its authenticity.",
+            "It is in striking accord with the one biblical incident in the history of Nain that renders it dear to the Christian heart, that about the only remains of antiquity are tombs."
+        ],
+        "John Calvin": [
+            "We ought to know, therefore, that this young man, whom Christ raised from the dead, is an emblem of the spiritual life which he restores to us.",
+            "The resurrection of the young man was beheld by so many witnesses, that no doubt could be entertained as to its truth.",
+            "That the dead man was carried out of the city was in accordance with a very ancient custom among all nations."
+        ],
+        "Philip Schaff": [
+            "The name signifies 'the lovely,' but it is now a poor village, with the ruins of old buildings.",
+            "The distance from Capernaum (supposing Tell-h \u00fb m to be the site) is about twenty five miles.",
+            "This shows His influence, as the distance was so considerable."
+        ],
+        "Archibald T. Robertson": [
+            "Soon afterwards (\u03b5\u03bd \u03c4\u03bf \u03b5\u03be\u03b7\u03c2). According to this reading supply \u03c7\u03c1\u03bf\u03bd\u03c9, time.",
+            "That (H\u03bf\u03c4). Not in the Greek, the two verbs \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf and \u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u03b8\u03b7 having no connective (asyndeton).",
+            "Went with him (\u03c3\u03c5\u03bd\u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bd\u03c4\u03bf \u03b1\u03c5\u03c4\u03c9). Imperfect middle picturing the procession of disciples and the crowd with Jesus."
+        ],
+        "John Gill": [
+            "And it came to pass the day after...the next day, on the morrow, after he had cured the centurion's servant in Capernaum, where he staid all night.\" ",
+            "The Persic version reads it, 'Nabetis', or 'Neapolis', the same With Sychem in Samaria, but without reason.",
+            "Much people; from Capernaum, and other parts, that followed him to see his miracles, or for one end or another, though they did not believe in him; at least these were only hearers, and had not entered themselves among the disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the village of Nain, only visited by Jesus on this occasion, a widow's son was being carried towards the tombs, the only remains of antiquity in the area. The procession included Jesus, his disciples, and a crowd. Although Nain was a small and relatively unknown village, the authenticity of this biblical incident is guaranteed by its mention in scripture. The distance from Capernaum, where Jesus had stayed the night after curing the centurion's servant, shows the extent of his influence. The resurrection of the young man was witnessed by many, leaving no doubt as to its truth. This miracle serves as a powerful metaphor for the spiritual life that Jesus restores to us.",
+            "wordCount": 116,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.5504542152099412,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.9,
+            "commentatorTierSimilarities": [
+                28.84,
+                27.85,
+                43.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the small village of Nain, which was only visited by Jesus once, a widow's son was being carried towards the tombs. Although Nain is not mentioned elsewhere in the Bible, its name alone authenticates its existence. The distance of about twelve miles from Capernaum, where Jesus had stayed the previous night after healing the centurion's servant, demonstrates the extent of his influence. The resurrection of the young man was witnessed by many, indisputably attesting to its truth. This miraculous event serves as a powerful symbol of the spiritual life that Jesus restores to us.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.535586245597992,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.4,
+            "commentatorTierSimilarities": [
+                30.82,
+                26.91,
+                42.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the village of Nain, a small and seldom-mentioned place near Mount Tabor, a widow's son was being carried towards the tombs, the only remaining trace of antiquity in the area. The incident at Nain is a beloved biblical event, and the authenticity of the location is confirmed simply by its name. Jesus, accompanied by his disciples and a crowd, went there after spending the night in Capernaum, showcasing his influence over considerable distances. The resurrection of the young man was witnessed by many, leaving no doubt about its truth, symbolizing the restoration of spiritual life.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.5403048092721077,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+            "commentatorTierSimilarities": [
+                26.91,
+                33.7,
+                39.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the village of Nain, a small and seldom-mentioned place, Jesus visited and encountered a widow's son being carried towards the tombs. Nain's mention solely in this incident assures its authenticity. With his disciples and a crowd, Jesus went to Nain after staying in Capernaum the previous night, highlighting his influence over great distances. Witnessed by many, the resurrection of the young man left no doubt as to its truth, serving as a vivid symbol of the spiritual life that Jesus restores to us.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.4741533982843649,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.36,
+            "commentatorTierSimilarities": [
+                31.43,
+                28.52,
+                40.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the village of Nain, a small and rarely mentioned place, Jesus encountered a widow's son being carried to the tombs. Nain's authenticity is evident in its sole appearance in this biblical event. Jesus, accompanied by his disciples and a crowd, traveled there from Capernaum, showcasing his influence over significant distances. The resurrection of the young man was witnessed by many, leaving no doubt about its truthfulness. This powerful miracle serves as a poignant symbol of the spiritual life that Jesus restores to believers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.4856348479952466,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.74,
+            "commentatorTierSimilarities": [
+                28.43,
+                28.68,
+                42.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:20:22",
+    "verseRef": "Luke 16:2",
+    "bestBHT": {
+        "bht": "When the steward hears of the report against him, he is asked to explain and give an account of his actions. This demand to give back what is owed and render an account reminds us of the certainty that we will also have to give up and give an account of our stewardship when we face death. This call for accountability challenges us to reflect on how we have used our gifts and cared for what God has entrusted us with.",
+        "wordCount": 81,
+        "quoteTokenProportion": 57.69,
+        "qualityScore": 1.423010518659519,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.66,
+        "commentatorTierSimilarities": [
+            28.59,
+            40.89,
+            30.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What is the ground of this report?\u2014what occasion has thou given for this being brought to me?",
+            "Give some account of it.",
+            "The interpretation of this announcement to the steward, is the certainty, spoken by God in every one of our consciences, that we must give up, and give an account of, our stewardship at death."
+        ],
+        "Albert Barnes": [
+            "Give an account - Give a statement of your expenses and of your conduct while you have been steward.",
+            "It is true that all will be called to give an account at the day of judgment, but we are not to derive that doctrine from such passages as this.",
+            "Nor are we to interpret this as teaching that our conscience, or the law, or any beings will 'accuse us' in the day of judgment."
+        ],
+        "Marvin Vincent": [
+            "How is it that I hear this? Better as Rev., What is this that I hear?\" ",
+            "Give an account. Lit., 'give back'. Rev., render. The account which is due.",
+            "Thou mayest. More strictly, as Rev., thou canst."
+        ],
+        "Archibald T. Robertson": [
+            "What is this that I hear?\" ",
+            "Give back (and at once).\" ",
+            "This demand does not necessarily mean dismissal if investigation proved him innocent of the charges."
+        ],
+        "John Gill": [
+            "By the prophets, sent one after another; by John the Baptist, by Christ himself, and by his apostles.",
+            "Give an account of thy stewardship: what improvement is made of thy gifts; what care has been taken of my vineyard, the Jewish church; and where are the fruits that might be expected to have been received at your hands.",
+            "This was foretold by the prophets, that God would write a 'Loammi' upon the people of the Jews; that he would cut off three shepherds in one month, and particularly lay aside the idol shepherd, by whom the Pharisees may be meant."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the steward hears the report of his wrongdoing, he is asked to give an account and explain the situation. This demand to give back what is due and render an account reminds us that we too will be called to give up and give an account of our stewardship when we face death. The steward is being questioned on his conduct and expenses, just as we will be questioned on how we have used our gifts and cared for God's vineyard. This demand for accountability is not necessarily a sign of dismissal, but rather a reminder that we must be responsible and faithful in our stewardship.",
+            "wordCount": 108,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.4723909296292683,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.3,
+            "commentatorTierSimilarities": [
+                25.63,
+                44.65,
+                29.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the steward hears of the report against him, he is asked to explain and give an account of his actions. This demand to give back what is owed and render an account reminds us of the certainty that we will also have to give up and give an account of our stewardship when we face death. This call for accountability challenges us to reflect on how we have used our gifts and cared for what God has entrusted us with.",
+            "wordCount": 81,
+            "quoteTokenProportion": 57.69,
+            "qualityScore": 1.423010518659519,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.66,
+            "commentatorTierSimilarities": [
+                28.59,
+                40.89,
+                30.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the steward hears the report, he is asked to give an account of his actions. This demand for accountability is a powerful reminder that we too will have to give up and give an account of our stewardship when we face death. It challenges us to reflect on how we have used our gifts and fulfilled our responsibilities. This call for responsibility does not necessarily imply dismissal, but rather emphasizes the importance of being faithful and trustworthy in our stewardship.",
+            "wordCount": 81,
+            "quoteTokenProportion": 55.17,
+            "qualityScore": 1.2524242287773448,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.99,
+            "commentatorTierSimilarities": [
+                27.97,
+                44.74,
+                27.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the steward hears the report against him, he is asked to give an account of his actions. This demand for accountability is a potent reminder that we must all give up and give an account of our stewardship when we face death. It prompts us to reevaluate how we have utilized our gifts and fulfilled our obligations. This call for responsibility does not automatically lead to dismissal, but rather highlights the significance of being faithful and reliable in our stewardship.",
+            "wordCount": 81,
+            "quoteTokenProportion": 54.24,
+            "qualityScore": 1.2559604052469262,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.1,
+            "commentatorTierSimilarities": [
+                29.58,
+                44.11,
+                26.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the steward hears the report against him, he is asked to give an account of his actions. This demand for accountability serves as a reminder that we too will have to give up and give an account of our stewardship when we face death. It challenges us to reflect on how we have used our gifts and fulfilled our responsibilities. This call for responsibility does not necessarily imply dismissal, but rather emphasizes the importance of being faithful and trustworthy in our stewardship.",
+            "wordCount": 83,
+            "quoteTokenProportion": 57.38,
+            "qualityScore": 1.2608740413522779,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.27,
+            "commentatorTierSimilarities": [
+                27.19,
+                45.31,
+                27.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

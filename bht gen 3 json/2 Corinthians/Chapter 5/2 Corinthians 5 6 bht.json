@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:16:11",
+    "verseRef": "2 Corinthians 5:6",
+    "bestBHT": {
+        "bht": "Being confident always, whether this hope of investiture over the mortal body or the fear of the other alternative be before us, we are confident at all times, as also most of all in the hope of a blessed departure. While we sojourn in our home in the body, we are away from our home in the Lord, living abroad. With the assurance of future glory and the prospect of being with the Lord, we can face trials undauntedly, knowing that our greatest happiness lies beyond the grave.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 2.1500111768866015,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.83,
+        "commentatorTierSimilarities": [
+            33.24,
+            28.15,
+            38.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Being confident then (because it is God\u2019s express purpose to bring us to glory, as in last verse) always...",
+            "always whether this hope of investiture over the mortal body, or the fear of the other alternative, be before us",
+            "whilst in our home in the body, we are absent from our home in the Lord"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Being therefore always confident and knowing.",
+            "We are confident as well at all times, as also most of all in the hope of a blessed departure.",
+            "While we sojourn in our home in the body, we are away from our home in the Lord."
+        ],
+        "Albert Barnes": [
+            "Paul was not dejected, cast down, disheartened, discouraged. He was cheerful and happy. He was patient in his trials, and diligent in his calling.\" ",
+            "This is an instance of the uniform cheerfulness which will be produced by the assured prospect of heaven.",
+            "His great desire and purpose was to be with the Lord; and hence, he cared little how soon the frail tabernacle of the body was taken down, and was cheerful amidst all the labors and sufferings that tended to bring it to the grave."
+        ],
+        "Marvin Vincent": [
+            "To be among one's own people, and not to travel abroad.",
+            "We live abroad.",
+            "There is a play upon the words which might be expressed by at home, from home."
+        ],
+        "John Calvin": [
+            "We are of good courage, because we know that we are absent.\" ",
+            "We, on the other hand, live in the exercise of contentment and go forward to death with alacrity because a better hope is laid up for us.\" ",
+            "He is present with his believing people by the energy of his Spirit; he lives in them, resides in the midst of them, nay more, within them. But in the mean time he is absent from us, inasmuch as he does not present himself to be seen face to face."
+        ],
+        "Philip Schaff": [
+            "Whilst we are at home in the body, we are abroad (or \u2018away from home\u2019) from the Lord (the Lord Christ).",
+            "We walk by faith, not by sight.",
+            "We live by the faith of things yet future."
+        ],
+        "Archibald T. Robertson": [
+            "At home in the body (\u03b5\u03bd\u03b4\u03b7\u03bc\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2 \u03b5\u03bd \u03c4\u03c9 \u03c3\u03c9\u03bc\u03b1\u03c4). Rare verb \u03b5\u03bd\u03b4\u03b7\u03bc\u03b5\u03c9 from \u03b5\u03bd\u03b4\u03b7\u03bc\u03bf\u03c2 (one among his own people as opposed to \u03b5\u03ba\u03b4\u03b7\u03bc\u03bf\u03c2, one away from home).\" ",
+            "Both \u03b5\u03ba\u03b4\u03b7\u03bc\u03b5\u03c9 (more common in the old Greek) and \u03b5\u03bd\u03b4\u03b7\u03bc\u03b5\u03c9 occur in the papyri with the contrast made by Paul here."
+        ],
+        "John Gill": [
+            "Because God has formed us for immortality and glory, and given us his Spirit as the earnest of it, we take heart, are of good courage, do not sink under our burdens, or despair of happiness, but are fully assured of enjoying what we are desirous of.",
+            "Whilst they are in it, they are but pilgrims and strangers; the time of their abode in it is the time of their sojourning: during which time they are absent from the Lord.",
+            "The knowledge and consideration of this, that the present state and situation of the saints, whilst in the body, is a state of pilgrimage, and so of absence from the Lord Christ, and from their Father's house, serves to increase their confidence and assurance, that they shall not long continue so, but in a little time shall be at home, and forever with the Lord."
+        ],
+        "John Wesley": [
+            "Therefore we behave undauntedly \u2014 But most of all when we have death in view; knowing that our greatest happiness lies beyond the grave."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because it is God's express purpose to bring us to glory, we can be confident at all times, whether we are hopeful of our investiture over the mortal body or fearful of the other alternative. Whilst we are in our home in the body, we are absent from our home in the Lord. Despite this pilgrimage and absence from Christ, we live abroad with the knowledge that our greatest happiness lies beyond the grave. We walk by faith, not by sight, and we live by the faith of things yet future. This assurance of the future glory and the prospect of being with the Lord fills us with cheerfulness, patience, and contentment, enabling us to face trials with courage and be undaunted by death.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 2.095636279650617,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.02,
+            "commentatorTierSimilarities": [
+                26.85,
+                35.73,
+                37.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Being confident always, whether we hope for the investiture over the mortal body or fear the alternative, we are reminded that while we are in our home in the body, we are absent from our home in the Lord. Yet, our confidence remains steadfast, for we walk by faith and not by sight, living in the assurance of future glory. This knowledge fills us with cheerfulness, patience, and contentment, allowing us to face trials undauntedly, knowing that our greatest happiness lies beyond the grave.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.052131317788392,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.57,
+            "commentatorTierSimilarities": [
+                24.7,
+                31.66,
+                43.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Being confident in God's purpose to bring us to glory, we can remain cheerful and happy amidst trials and sufferings. While we are at home in the body, we are away from the Lord, but we walk by faith, not by sight. With the assurance of future glory, we are of good courage, knowing that our greatest happiness lies beyond the grave. In the meantime, we live in contentment, strengthened by the presence of the Lord within us.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0612143187172145,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+            "commentatorTierSimilarities": [
+                25.29,
+                35.45,
+                39.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Being confident always, whether we hope for investiture over the mortal body or fear the alternative, we remember that while we are in our home in the body, we are absent from our home in the Lord. Yet our confidence remains steadfast, for we walk by faith, not by sight. This knowledge fills us with cheerfulness, patience, and contentment, allowing us to face trials undauntedly, knowing that our greatest happiness lies beyond the grave.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.0243221323186322,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
+            "commentatorTierSimilarities": [
+                24.81,
+                32.51,
+                42.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Being confident always, whether this hope of investiture over the mortal body or the fear of the other alternative be before us, we are confident at all times, as also most of all in the hope of a blessed departure. While we sojourn in our home in the body, we are away from our home in the Lord, living abroad. With the assurance of future glory and the prospect of being with the Lord, we can face trials undauntedly, knowing that our greatest happiness lies beyond the grave.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.1500111768866015,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.83,
+            "commentatorTierSimilarities": [
+                33.24,
+                28.15,
+                38.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

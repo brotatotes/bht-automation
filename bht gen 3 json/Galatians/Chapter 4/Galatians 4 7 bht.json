@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:18:35",
+    "verseRef": "Galatians 4:7",
+    "bestBHT": {
+        "bht": "Through the triune God, the Father, Son, and Spirit, the redeemed are heirs. They are no longer servants, but children entitled to all the privileges of a son and regarded as an heir through the Redeemer. In the Christian Church, slavery no longer exists, and as sons and heirs, we may be corrected and chastised in a fatherly way, which demonstrates our sonship. We are heirs of all the promises and the all-sufficient God Himself.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.313326069959846,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.26,
+        "commentatorTierSimilarities": [
+            29.3,
+            34.22,
+            36.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Through God combines, on behalf of our race, the whole before-mentioned agency of the Blessed Trinity: the Father hath sent the Son and the Spirit, the Son has freed us from the law, the Spirit has completed our sonship; and thus the redeemed are heirs through the tri-une God Himself, not through the law, nor through fleshly descent.",
+            "In the assertion that they knew not God, there is no inconsistency with Rom. i. 21: there it is the knowledge which the Gentile world might have had: here, the matter of fact is alleged, that they had it not.",
+            "ye served gods which by nature exist not: see 1 Cor. viii. 4; x. 19, 20 and note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Such an individual appropriation of this comforting truth God grants in answer to them who cry, 'Abba, Father.'\" (Galatians 4:7)",
+            "Thus the redeemed are heirs THROUGH the Triune GOD, not through the law, nor through fleshly descent.\" (Galatians 4:7)",
+            "Heir\u2014confirming Galatians 4:4-6; compare Romans 8:17.\" (Galatians 4:7)"
+        ],
+        "Albert Barnes": [
+            "A child of God, adopted into his family, and to be treated as a son.",
+            "Entitled to all the privileges of a son, and of course to be regarded as an heir through the Redeemer, and with him.",
+            "See the sentiment here expressed explained in the note at Romans 8:17."
+        ],
+        "Marvin Vincent": [
+            "Then an heir. Kai marks the logical sequence. Comp. Romans 8:17. The figure is based upon Roman, not upon Jewish, law.",
+            "According to Roman law, all the children, sons and daughters, inherited alike. According to Jewish law, the inheritance of the sons was unequal, and the daughters were excluded, except where there were no male heirs. Thus the Roman law furnished a more truthful illustration of the privileges of Christians.",
+            "Of God through Christ. The correct reading is dia qeou through God, omitting Christ."
+        ],
+        "John Calvin": [
+            "In the Christian Church slavery no longer exists, but the condition of the children is free.",
+            "The ancients were also sons of God, and heirs through Christ, but we hold the same character in a different manner.",
+            "We have Christ present with us, and in that manner enjoy his blessings."
+        ],
+        "Philip Schaff": [
+            "\u2018Son,\u2019 in opposition to \u2018slave,\u2019 but not, of course, to the exclusion of daughter.",
+            "For the Apostle had distinctly declared, Galatians 3:28, that the sexual, as well as other differences, disappear before Christ in the general religious equality.",
+            "And if a son, then an heir through God."
+        ],
+        "Archibald T. Robertson": [
+            "No longer a bondservant... He changes to the singular to drive the point home to each one.\" ",
+            "The spiritual experience has set each one free.",
+            "Each is now a son and heir."
+        ],
+        "John Gill": [
+            "'He that is once a son, is always so, and no more a servant.'",
+            "'They that are the sons of God may be corrected and chastised, as they often are, in a fatherly way; but these corrections are proofs for, and not against their sonship.'",
+            "'If a son, then an heir of God through Christ.'"
+        ],
+        "John Wesley": [
+            "Art no more a servant \u2014 Like those who are under the law.",
+            "But a son \u2014 Of mature age.",
+            "And if a son, then an heir of all the promises, and of the all-sufficient God himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through God combines the agency of the Blessed Trinity: the Father sending the Son and the Spirit, the Son freeing us from the law, and the Spirit completing our sonship. Thus, the redeemed are heirs through the Triune God Himself. In this truth, each one is set free and now a son and heir. We are no longer servants, but children of God, entitled to all the privileges of a son and regarded as an heir through the Redeemer. In the Christian Church, slavery no longer exists, and our condition as children is free. As sons and heirs, we may be corrected and chastised in a fatherly way, but these corrections are proofs of our sonship. We are heirs of all the promises and of the all-sufficient God Himself.",
+            "wordCount": 130,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.144472097973777,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.64,
+            "commentatorTierSimilarities": [
+                29.84,
+                32.49,
+                37.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the triune God, the Father, Son, and Spirit, the redeemed are heirs. They are no longer servants, but children entitled to all the privileges of a son and regarded as an heir through the Redeemer. In the Christian Church, slavery no longer exists, and as sons and heirs, we may be corrected and chastised in a fatherly way, which demonstrates our sonship. We are heirs of all the promises and the all-sufficient God Himself.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.313326069959846,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.26,
+            "commentatorTierSimilarities": [
+                29.3,
+                34.22,
+                36.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through God, the Triune, we are heirs. No longer servants, but children entitled to all the privileges of a son and regarded as an heir through the Redeemer. In the Christian Church, slavery no longer exists. As sons and heirs, we can be corrected and chastised in a fatherly way, proving our sonship. We are heirs of all the promises, and of the all-sufficient God Himself.",
+            "wordCount": 67,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 2.120315872446844,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.84,
+            "commentatorTierSimilarities": [
+                28.29,
+                33.72,
+                38.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the Triune God, the redeemed are heirs, not through the law or fleshly descent, but through God Himself. In the Christian Church, slavery no longer exists, and each individual is set free, no longer a servant but a son and heir. These sons and heirs may be corrected and chastised in a fatherly way, which serves as proof of their sonship. As an heir of all the promises, one can find comfort in knowing that they are entitled to the all-sufficient God Himself.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.2531156694333996,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+            "commentatorTierSimilarities": [
+                31.45,
+                31.97,
+                36.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the Triune God, the redeemed are heirs, not through the law or fleshly descent, but through God Himself. In the Christian Church, slavery no longer exists, and each individual is set free, no longer a servant but a son and heir. These sons and heirs may be corrected and chastised, which serves as proof of their sonship. As an heir of all the promises, one can find comfort in knowing that they are entitled to the all-sufficient God Himself.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.208056455766238,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.76,
+            "commentatorTierSimilarities": [
+                31.41,
+                31.71,
+                36.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:28:49",
+    "verseRef": "Acts 9:20",
+    "bestBHT": {
+        "bht": "Paul wasted no time in proclaiming Jesus as the Son of God and the Messiah. Drawing from the most ancient manuscripts and versions of the New Testament, he preached Jesus, proving his full acknowledgment of Jesus' deity from the very beginning. By establishing the identity of Jesus as the Messiah, Paul aimed to shake the world with his faith. His preaching in the synagogues and bold declaration that Jesus of Nazareth is the Son of God demonstrated his unwavering conviction in the power and truth of Jesus' divine nature.",
+        "wordCount": 89,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 2.874494006884201,
+        "qualityScoreNormalizedComparedToV2BHTs": 86.92,
+        "commentatorTierSimilarities": [
+            37.28,
+            38.18,
+            24.54
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The alteration to 'Christ' has probably, as Meyer suggests, been made from doctrinal considerations, to fix on 'the Son of God' the theological sense.\" ",
+            "That Christ is the Son of God\u2014instead of that which it now bears,\u2014that Jesus is the Son of God.",
+            "i.e. that Jesus of Nazareth, as a matter of fact, is the Son of God, i.e. the Messiah expected under that appellation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "preached Jesus,\" according to all the most ancient manuscripts and versions of the New Testament.",
+            "all that call on this name,\" that is, Jesus.",
+            "proving that this Jesus is very Christ\"."
+        ],
+        "Albert Barnes": [
+            "It was an evidence of the genuineness of his conversion that he was willing at once to avow himself to be the friend of the Lord Jesus.",
+            "He proclaimed that Jesus was the Christ.",
+            "But the question was whether Jesus was the Christ, and was therefore the Son of God, and this Paul showed to the Jews."
+        ],
+        "Marvin Vincent": [
+            "The correct reading is Jesus, the individual or personal name of the Lord.\" ",
+            "Christ was not yet current as his personal name.\" ",
+            "Paul's object was to establish the identity of Jesus the Nazarene with the Messiah."
+        ],
+        "John Calvin": [
+            "He who of late ran headlong against Christ with furious force, doth now not only submit himself meekly unto his will and pleasure but like a stout standard-bearer fighteth even unto the utmost danger to maintain his glory.",
+            "Certain it is that he was not so quickly framed by Ananias\u2019 industry, but that so soon as he had learned the first principles by man\u2019s mouth, he was extolled by God unto higher things afterward.",
+            "Paul teacheth that Jesus of Nazareth is he, which he cannot do, unless he shake off those gross errors which he had conceived of the earthly kingdom of the Messiah."
+        ],
+        "Philip Schaff": [
+            "He preached Jesus, etc. As Paul tells us in chap. Acts 26:19, he was not disobedient to the heavenly vision, but showed first to them at Damascus, and straightway preached in the synagogues.",
+            "With the vision of the risen Jesus ever before him, his first work was to show his countrymen that Jesus, whom the high priest and Sanhedrim crucified in Jerusalem, was the Son of God.",
+            "The Son of God. This was one of the Jewish titles of Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "He did this first preaching in the Jewish synagogues, a habit of his life when possible, and following the example of Jesus.",
+            "By 'the Son of God' Saul means the Messiah of promise and hope, the Messianic sense of the Baptist and of Nathanael.",
+            "Paul boldly calls Jesus the Son of God with full acknowledgment of his deity from the very start. With this faith he can shake the world. There is no power in any other preaching."
+        ],
+        "John Gill": [
+            "He was immediately, as soon as converted, qualified for the work of preaching the Gospel.",
+            "Nor did he confer with flesh and blood, or stand disputing and debating with himself and carnal reason, what was best for him to do.",
+            "He preached that Jesus of Nazareth, the true Messiah, was not a mere man, but a divine person, even the Son of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul's bold preaching in Acts 9:20 established the identity of Jesus as the Son of God and the Messiah, proving his deity from the very start. Paul's conversion was evident in his willingness to immediately proclaim himself as a friend of Jesus and to assert that Jesus was the Christ. He preached in the synagogues, following Jesus' example, and preached that Jesus of Nazareth was not just a man, but a divine person, the Son of God. This message was crucial in helping Paul defy his former error regarding the earthly kingdom of the Messiah and embrace the true identity of Jesus. His uncompromising faith had the power to shake the world, as there is no power in any other preaching.",
+            "wordCount": 122,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.754113034718524,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.91,
+            "commentatorTierSimilarities": [
+                33.54,
+                38.4,
+                28.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul immediately proclaimed Jesus as the Son of God and the Messiah, boldly establishing his true identity from the beginning. He preached in the synagogues, following Jesus' example, and proclaimed that Jesus of Nazareth was not merely a man, but a divine person. This declaration was crucial in dispelling Paul's previous misconceptions about the earthly kingdom of the Messiah and affirming his unwavering faith in the power and deity of Jesus. His preaching had the potential to deeply impact and transform the world, as there is no power in any other message.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.6070641266956547,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.02,
+            "commentatorTierSimilarities": [
+                33.09,
+                37.63,
+                29.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's immediate proclamation was of Jesus as the Son of God and the Messiah. His preaching in the synagogues, following the example set by Jesus, emphasized that Jesus of Nazareth was not simply a man, but a divine person. This declaration shattered Paul's misguided notions about the Messiah's earthly kingdom and firmly established his unwavering faith in the power and deity of Jesus. Paul's preaching possessed immense power, as it centered on the exclusive truth that Jesus is the Son of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.8507510938288827,
+            "qualityScoreNormalizedComparedToV2BHTs": 86.13,
+            "commentatorTierSimilarities": [
+                34.28,
+                38.72,
+                27.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul wasted no time in proclaiming Jesus as the Son of God and the Messiah. Drawing from the most ancient manuscripts and versions of the New Testament, he preached Jesus, proving his full acknowledgment of Jesus' deity from the very beginning. By establishing the identity of Jesus as the Messiah, Paul aimed to shake the world with his faith. His preaching in the synagogues and bold declaration that Jesus of Nazareth is the Son of God demonstrated his unwavering conviction in the power and truth of Jesus' divine nature.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.874494006884201,
+            "qualityScoreNormalizedComparedToV2BHTs": 86.92,
+            "commentatorTierSimilarities": [
+                37.28,
+                38.18,
+                24.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul wasted no time in boldly proclaiming Jesus as the Son of God and the Messiah. His preaching in the synagogues followed the example of Jesus and established the identity of Jesus as the Messiah. By preaching Jesus and proving his deity, Paul sought to shake the world with his faith. His unwavering conviction in the power and truth of Jesus' divine nature enabled him to confidently declare that Jesus of Nazareth is the Son of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.55,
+            "qualityScore": 2.8445111072869147,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.92,
+            "commentatorTierSimilarities": [
+                36.03,
+                38.23,
+                25.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:19:58",
+    "verseRef": "Luke 14:12",
+    "bestBHT": {
+        "bht": "Jesus wanted to show that acts of civility are not proof of true charity, but rather acts of selfishness. He urged his listeners to invite not just their friends and relatives, but also the poor and needy. This challenges us to extend hospitality beyond what is expected and to show selfless love and compassion to others without any expectation of being repaid. The focus should be on genuine kindness and generosity, rather than seeking personal gain or recognition.",
+        "wordCount": 78,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 1.8658302902734485,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+        "commentatorTierSimilarities": [
+            25.36,
+            36.53,
+            38.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Jesus certainly did not mean us to dispense with the duties of ordinary fellowship, but, remitting these to their proper place, inculcates what is better.",
+            "Lest...a recompense be given thee\u2014a fear the world is not afflicted with.",
+            "The meaning, however, is that no exercise of principle is involved in it, as selfishness itself will suffice to prompt to it."
+        ],
+        "Albert Barnes": [
+            "Call not thy friends...he intended, doubtless, to reprove those who sought the society of the wealthy...He meant, also, to commend charity shown to the poor.\" ",
+            "The passage means, therefore, call 'not only' your friends, but call also the poor, etc.\" ",
+            "Lest they feel themselves bound to treat you with the same kindness, and, in so doing, neither you nor they will show any kind spirit, or any disposition to do good beyond what is repaid."
+        ],
+        "Marvin Vincent": [
+            "Dinner - supper. See on Matthew 22:4. Supper [\u03b4\u03b5\u03b9\u03c0\u03bd\u03bf\u03bd] is the principal meal at evening, and corresponding to the modern late dinner.",
+            "Call not thy friends, etc.",
+            "A striking parallel occurs in Plato's 'Phaedrus,' 233. 'And, in general, when you make a feast, invite not your friend, but the beggar and the empty soul, for they will love you, and attend you, and come about your doors, and will be the best pleased, and the most grateful, and will invoke blessings on your head.'"
+        ],
+        "John Calvin": [
+            "Christ did not intend to dissuade us from every thing courteous, but merely to show, that acts of civility, which are customary among men, are no proof whatever of charity.",
+            "If I entertain at supper my relatives or rich friends, the act of civility ought not in itself to be condemned, but, as a proof of charity, it will have no value whatever.",
+            "In a word, the meaning of the passage is, that those who are kind to relatives and friends, but are niggardly towards the poor, are entitled to no commendation; because they do not exercise charity, but consult only their own gain or ambition."
+        ],
+        "Philip Schaff": [
+            "Call not thy friends. \u2018Call,\u2019 here means more than \u2018invite,\u2019 it implies a loud calling, an ostentatious invitation, so that the whole town knows of the entertainment.\" ",
+            "This is not a positive prohibition of entertaining one\u2019s friends and neighbors. Such intercourse is taken for granted. What is forbidden is the thought that this is hospitality, or in itself praiseworthy.",
+            "Feasts, etc., are largely mere matters of business, not of kindness. [...] all expenses for entertainments, for which we expect a return, are expenses for self and not for others."
+        ],
+        "Archibald T. Robertson": [
+            "This is a parable for the host as one had just been given for the guests, though Luke does not term this a parable.",
+            "It is the exclusive invitation of such guests that Jesus condemns.",
+            "Recompense in the form of a return invitation."
+        ],
+        "John Gill": [
+            "Do not invite thy rich friends, rich brethren, and rich kinsmen, as well as not rich neighbours: not that our Lord's meaning is, that such should not be invited at all... but his sense is, that not these only should be invited, to the neglect of poor friends, poor brethren, poor kinsmen, and poor neighbours.",
+            "Lest they also bid thee again; and thee only, and not the poor, to as grand an entertainment, which is commonly done.",
+            "One feasting bout for another, so that there will be no obligation on either side; and this will be all the advantage that will be gained; the return is made here, and there will be no reward hereafter."
+        ],
+        "John Wesley": [
+            "I do not bid thee call thy friends or thy neighbours. Our Lord leaves these offices of humanity and courtesy as they were, and teaches a higher duty.",
+            "But is it not implied herein, that we should be sparing in entertaining those that need it not, in order to assist those that do need, with all that is saved from those needless entertainments?",
+            "Lest a recompense be made - This fear is as much unknown to the world, as even the fear of riches."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus said, Call not thy friends, etc., He wasn't discouraging ordinary fellowship, but emphasizing the importance of going beyond selfish motivations. He wanted to show that acts of civility, while customary, are not proof of true charity. He urged his listeners to invite not only the wealthy and influential, but also the poor and needy, who are often overlooked. Jesus cautioned against expecting any recompense or return invitation, as true charity should be selfless and not motivated by personal gain. In essence, this verse challenges us to extend hospitality beyond the limits of conventionality and social expectations, and to embrace the true spirit of selfless love and compassion towards those in need.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.9,
+            "qualityScore": 1.917422789388388,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.1,
+            "commentatorTierSimilarities": [
+                28.02,
+                35.71,
+                36.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus intended to show that acts of civility, while customary, don't demonstrate true charity. He emphasized the importance of going beyond selfish motivations and inviting not only the wealthy and influential, but also the poor and needy. This verse challenges us to extend hospitality beyond social expectations, embracing the spirit of selfless love and compassion towards those in need, without expecting any recompense or return invitation.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.884167625043449,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "commentatorTierSimilarities": [
+                27.46,
+                34.66,
+                37.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus wanted to show that acts of civility are not proof of true charity, but rather acts of selfishness. He urged his listeners to invite not just their friends and relatives, but also the poor and needy. This challenges us to extend hospitality beyond what is expected and to show selfless love and compassion to others without any expectation of being repaid. The focus should be on genuine kindness and generosity, rather than seeking personal gain or recognition.",
+            "wordCount": 78,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.8658302902734485,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                25.36,
+                36.53,
+                38.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus didn't discourage ordinary fellowship, but emphasized the importance of going beyond self-interest. He challenged his listeners to invite not only friends and wealthy guests, but also the poor. Acts of civility are not proof of true charity, but rather selfishness itself can prompt them. This verse emphasizes the value of selfless hospitality, showing kindness and compassion towards those in need without expecting any recompense or return invitation. Jesus calls us to extend our hospitality beyond social conventions and embrace genuine acts of love towards others.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.8657957365806543,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                28.6,
+                35.66,
+                35.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus didn't discourage ordinary fellowship, but emphasized going beyond selfishness. Acts of civility are not proof of true charity, but can prompt acts of self-interest. He called for inviting not only wealthy guests but also the poor. This verse challenges us to extend hospitality beyond social conventions, showing genuine love and compassion without expecting a return. The emphasis is on selfless kindness rather than personal gain.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.7633600381771615,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.97,
+            "commentatorTierSimilarities": [
+                28.1,
+                34.57,
+                37.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

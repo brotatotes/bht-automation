@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:21:43",
+    "verseRef": "Luke 19:31",
+    "bestBHT": {
+        "bht": "Knowing the hearts of the owners, the Lord Jesus Christ prepares his disciples with an answer, displaying his divine knowledge and authority. The term the Lord signifies the owners' recognition of Jesus. It is probable that these owners already knew Jesus, allowing them to acknowledge his need for the colt.",
+        "wordCount": 50,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.4557157616476497,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+        "commentatorTierSimilarities": [
+            32.2,
+            9.62,
+            58.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "31. the Lord hath need, &amp;c.\u2014He",
+            "\tboth knew all and had the key of the human heart. (See on :-.) Perhaps the owner was a disciple."
+        ],
+        "Marvin Vincent": [
+            "The Lord. See on Matthew 21:3."
+        ],
+        "Philip Schaff": [
+            "Luke 19:31. The village over against you. Bethphage, as we think.",
+            "\t"
+        ],
+        "John Gill": [
+            "As our Lord, being God omniscient, knew this question would be asked by the owners, and therefore prepares his disciples with an answer to it.\" ",
+            "Because the Lord hath need of him.\" ",
+            "Probably the owners of the colt might be such as knew the Lord Jesus Christ, and by this way of speaking of him, knew, at once, who was meant."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Knowing the hearts of all, the Lord Jesus Christ recognized that the owners of the colt would question his disciples' intentions in borrowing it. Anticipating this, he prepared his disciples with an answer, showing not only his omniscience but also his divine authority. The use of the term the Lord signifies the recognition by the owners that Jesus was the one being referred to. It is likely that these owners were already familiar with Jesus and his ministry, allowing them to readily acknowledge his need for the colt.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.3377219377257916,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.82,
+            "commentatorTierSimilarities": [
+                30.57,
+                7.78,
+                61.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Recognizing the hearts of all, the Lord Jesus Christ anticipates the owners questioning his disciples' borrowing of the colt. He prepares his disciples with an answer, displaying both his divine knowledge and authority. The term the Lord signifies the owners' recognition of Jesus as the one referred to. It is probable that these owners were already acquainted with Jesus, enabling them to readily acknowledge his need for the colt.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.3664686801399342,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.78,
+            "commentatorTierSimilarities": [
+                31.99,
+                8.61,
+                59.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Knowing the hearts of all, the Lord Jesus Christ recognized that the owners of the colt would question his disciples' intentions in borrowing it. Anticipating this, he prepared his disciples with an answer, showing not only his omniscience but also his divine authority. The use of the term the Lord signifies the recognition by the owners that Jesus was the one being referred to. It is likely that these owners were already familiar with Jesus and his ministry, allowing them to readily acknowledge his need for the colt.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.3377219377257916,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.82,
+            "commentatorTierSimilarities": [
+                30.57,
+                7.78,
+                61.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Recognizing the hearts of all, the Lord Jesus Christ anticipates the owners questioning his disciples' borrowing of the colt. He prepares his disciples with an answer, displaying both his divine knowledge and authority. The term the Lord signifies the owners' recognition of Jesus as the one referred to. It is probable that these owners were already acquainted with Jesus, enabling them to readily acknowledge his need for the colt.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.3664686801399342,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.78,
+            "commentatorTierSimilarities": [
+                31.99,
+                8.61,
+                59.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Knowing the hearts of the owners, the Lord Jesus Christ prepares his disciples with an answer, displaying his divine knowledge and authority. The term the Lord signifies the owners' recognition of Jesus. It is probable that these owners already knew Jesus, allowing them to acknowledge his need for the colt.",
+            "wordCount": 50,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.4557157616476497,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+            "commentatorTierSimilarities": [
+                32.2,
+                9.62,
+                58.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

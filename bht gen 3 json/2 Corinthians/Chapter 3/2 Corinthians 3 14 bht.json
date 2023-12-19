@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 15:15:35",
+    "verseRef": "2 Corinthians 3:14",
+    "bestBHT": {
+        "bht": "The tragic reality is that there is a veil over the hearts and minds of those who do not see that the Mosaic economy has been done away in Christ. Just as Moses' face was veiled, their minds are blinded and hardened, preventing them from understanding the true meaning of the Old Testament. Even today, the same veil remains unlifted, obscuring the glory of their own Scriptures. However, in Christ, this veil is removed, and He becomes the key to unlocking the true splendor of the law and the Gospel.",
+        "wordCount": 90,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.3129726927209244,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.25,
+        "commentatorTierSimilarities": [
+            29.03,
+            36.55,
+            34.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The opposite to 'looking steadfastly at the end' of the law.",
+            "The veil on Moses' face is further typical of the veil that is on their hearts.",
+            "The same veil... remains untaken away... they do not see THAT it is done away in Christ."
+        ],
+        "Albert Barnes": [
+            "The fact that the Jews were thus stupid and dull is often affirmed in the New Testament.",
+            "A veil seems to be thrown over the Old Testament when they read it, as there was over the face of Moses, so that the glory of their own Scriptures is concealed from their view.",
+            "In the manifestation, or appearance of Jesus the Messiah, the veil is removed. The obscurity which rested on the prophecies and types of the former dispensation is withdrawn; and as the face of Moses could have been distinctly seen if the veil on his face had been removed, so it is in regard to the true meaning of the Old Testament by the coming of the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Their minds themselves were blinded... were hardened.\" ",
+            "There is a veil over their minds when the law is read, as there was over Moses' face.",
+            "The veil remains on their hearts, since it is not revealed to them that the Mosaic economy is done away in Christ."
+        ],
+        "John Calvin": [
+            "That veil with which Moses covered his face, when publishing the law, was the emblem of a stupidity, that would come upon that people, and would continue upon them for a long period.\" (Quote 1)",
+            "The law is in itself bright, but it is only when Christ appears to us in it, that we enjoy its splendor.\" (Quote 2)",
+            "Without Christ, the Sun of righteousness, there is no light even in the law, or in the whole word of God.\" (Quote 3)"
+        ],
+        "Philip Schaff": [
+            "Their minds were hardened, they were of blunted spiritual perception.",
+            "Until this very day at the reading of the old covenant, the same veil remains unlifted.",
+            "Which veil is done away in Christ, He being 'the end of the law,' the key to all its enigmas, the substance of all its shadows."
+        ],
+        "Archibald T. Robertson": [
+            "Their thoughts (\u03bd\u03bf\u03b7\u03bc\u03b1\u03c4\u03b1) literally. \u03a0\u03c9\u03c1\u03bf\u03c9 (first aorist passive indicative here) is late verb from \u03c0\u03c9\u03c1\u03bf\u03c2, hard skin, to cover with thick skin, to petrify.\" ",
+            "This is the tragedy of modern Judaism.",
+            "Unlifted (\u03bc\u03b7 \u03b1\u03bd\u03b1\u03ba\u03b1\u03bb\u03c5\u03c0\u03c4\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd). Present passive participle of \u03b1\u03bd\u03b1\u03ba\u03b1\u03bb\u03c5\u03c0\u03c4\u03c9, old verb, to draw back the veil, to unveil."
+        ],
+        "John Gill": [
+            "Not the Israelites only in Moses's time, but the Jews in the times of the Gospel, had their minds so blinded, that they could not behold the glory of the Gospel, nor Christ the end of the law.\" ",
+            "The veil of blindness, darkness, and ignorance, upon the hearts of the Jews.",
+            "The books of the Old Testament, which were used to be read in their synagogues every sabbath day; the true spiritual meaning of which, as they respect Christ and the Gospel dispensation, they understood not."
+        ],
+        "John Wesley": [
+            "The same veil remaineth on their understanding unremoved - Not so much as folded back, (so the word implies,) so as to admit a little, glimmering light.",
+            "On the public reading of the Old Testament - The veil is not now on the face of Moses or of his writings, but on the reading of them, and on the heart of them that believe not.",
+            "Which is taken away in Christ \u2014 That is, from the heart of them that truly believe on him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "The tragic reality is that there is a veil over the hearts and minds of those who do not see that the Mosaic economy has been done away in Christ. Just as Moses' face was veiled, their minds are blinded and hardened, preventing them from understanding the true meaning of the Old Testament. Even today, the same veil remains unlifted, obscuring the glory of their own Scriptures. However, in Christ, this veil is removed, and He becomes the key to unlocking the true splendor of the law and the entire word of God. Without Him, there is no light or understanding, but through Him, the veil is taken away, allowing us to fully comprehend the beauty and significance of the Gospel.",
+            "wordCount": 121,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.2335497084772316,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.61,
+            "commentatorTierSimilarities": [
+                27.77,
+                36.11,
+                36.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There is a veil over the hearts and minds of those who do not see that the Mosaic economy has been done away in Christ. Even today, the same veil remains unlifted, obscuring the glory of their own Scriptures. However, in Christ, this veil is removed, and He becomes the key to unlocking the true splendor of the law and the entire word of God. Without Him, there is no light or understanding, but through Him, the veil is taken away.",
+            "wordCount": 81,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 2.188032676512127,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.09,
+            "commentatorTierSimilarities": [
+                29.56,
+                34.72,
+                35.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tragic reality is that there is a veil over the hearts and minds of those who do not see that the Mosaic economy has been done away in Christ. Just as Moses' face was veiled, their minds are blinded and hardened, preventing them from understanding the true meaning of the Old Testament. Even today, the same veil remains unlifted, obscuring the glory of their own Scriptures. However, in Christ, this veil is removed, and He becomes the key to unlocking the true splendor of the law and the Gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.3129726927209244,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.25,
+            "commentatorTierSimilarities": [
+                29.03,
+                36.55,
+                34.42
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

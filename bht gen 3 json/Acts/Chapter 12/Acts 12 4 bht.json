@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:30:14",
+    "verseRef": "Acts 12:4",
+    "bestBHT": {
+        "bht": "During the Passover, Herod, in his desire to uphold Jewish customs, did not want to execute a prisoner. So, he delivered Peter to four quaternions of soldiers, each consisting of four soldiers. This was in accordance with the Roman practice of dividing the night into four watches, which the Jews followed. The sixteen soldiers ensured Peter's tight custody. Herod planned to bring him forth for trial after the Passover festival, not wanting to defile the sacred days. This providential delay allowed for the fervent prayers of the church and eventually led to Peter's release.",
+        "wordCount": 96,
+        "quoteTokenProportion": 32.84,
+        "qualityScore": 2.070504315454998,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+        "commentatorTierSimilarities": [
+            33.92,
+            39.78,
+            26.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In military arrangements, Herod seems to have retained the Roman habits, according to which the night was divided into four watches...\" (98 characters)",
+            "It is plain that this number being mentioned is no sign that the custody was only for one night.\" (92 characters)",
+            "Herod...observed rigorously the Jewish customs, would not execute a prisoner during the feast.\" (96 characters)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "delivered him to four quaternions of soldiers\u2014that is, to four parties of four each, corresponding to the four Roman watches\" ",
+            "intending after the Passover; that is, after the whole festival was over\" ",
+            "for during the days of unleavened bread, or the currency of any religious festival, the Jews had a prejudice against trying or putting anyone to death"
+        ],
+        "Albert Barnes": [
+            "During the solemnities of this religious festival, it would have been deemed improper to have engaged in the trial of a supposed criminal.",
+            "The utmost precaution was taken that he should not escape; and Herod thus gave the most ample assurance to the Jews of his intention to secure Peter, and to bring him to trial.",
+            "The providence of God in regard to Peter is thus remarkable. Instead of his being put suddenly to death, as was James, he was reserved for future trial; and thus an opportunity was given for the prayers of the church, and for his consequent release."
+        ],
+        "Marvin Vincent": [
+            "Quaternions. A quaternion was a body of four soldiers; so that there were sixteen guards, four for each of the four night - watches.",
+            "The passover. The whole seven days of the feast.",
+            "Bring him forth [\u03b1\u03bd\u03b1\u03b3\u03b1\u03b3\u03b1\u03b3\u03b5\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd] . Lit., lead him up; i.e., to the elevated place where the tribunal stood, to pronounce sentence of death before the people. See John 19:13."
+        ],
+        "John Calvin": [
+            "Luke doth, in this place, declare by circumstances that Peter was, as it were, shut up in his grave, so that it might seem that he was quite past hope...",
+            "He showeth the cause why he was not forthwith put to death, because it had been an heinous offense to put him to death in the Easter holidays...",
+            "...Herod doth not delay the time as doubtful what to do, but doth only wait for opportunity; yea, he maketh choice of a time, when as his gift may be more plausible, because there came a great multitude together from all parts unto the holy day."
+        ],
+        "Philip Schaff": [
+            "And delivered him to four quaternions of soldiers. That is, to four bands of soldiers, each band consisting of four.\" ",
+            "The Roman practice of dividing the night into four watches of three hours each was generally adopted by the Jews of this period.",
+            "King Herod wished to be considered a strict observer of the law. The more rigid Jews, we learn from the Talmud, deemed it unlawful to defile their solemn feasts with executions."
+        ],
+        "Archibald T. Robertson": [
+            "He put him in prison... This is the third imprisonment of Peter.",
+            "To four quaternions of soldiers... sixteen soldiers in all, the usual Roman custom.",
+            "The passover feast of eight days... Agrippa is more scrupulous than the Sanhedrin was about Jesus."
+        ],
+        "John Gill": [
+            "he put him in prison; in the common prison, very likely where he had been once before\" ",
+            "and delivered him to four quaternions of soldiers to keep him; each quaternion consisted of four soldiers, so that they were in all sixteen\" ",
+            "and it may be, that the reason of all this caution, and strong guard, might be, because it was remembered that he, and the rest of the apostles, when committed to the same prison some years ago, were delivered out of it"
+        ],
+        "John Wesley": [
+            "Four quaternions \u2014 Sixteen men, who watched by turns day and night."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the Passover, Herod carefully observed the Jewish customs, and he did not want to execute a prisoner during the feast. He delivered Peter to four quaternions of soldiers, with each quaternion consisting of four soldiers. The Roman custom of dividing the night into four watches was followed, aligning with the Jewish practice. This ensured that Peter was closely guarded, with a total of sixteen soldiers assigned to him. Herod intended to bring him forth after the Passover festival, so as not to defile the sacred days. The providence of God was evident in Peter's situation, as he was preserved for future trial, giving the church an opportunity to fervently pray for him and ultimately bring about his release.",
+            "wordCount": 120,
+            "quoteTokenProportion": 32.47,
+            "qualityScore": 2.1572638833230577,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+            "commentatorTierSimilarities": [
+                33.79,
+                38.14,
+                28.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the Passover, Herod, in his desire to uphold Jewish customs, did not want to execute a prisoner. So, he delivered Peter to four quaternions of soldiers, each consisting of four soldiers. This was in accordance with the Roman practice of dividing the night into four watches, which the Jews followed. The sixteen soldiers ensured Peter's tight custody. Herod planned to bring him forth for trial after the Passover festival, not wanting to defile the sacred days. This providential delay allowed for the fervent prayers of the church and eventually led to Peter's release.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 2.070504315454998,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+            "commentatorTierSimilarities": [
+                33.92,
+                39.78,
+                26.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the Passover festival, Herod, keen on observing Jewish customs, refrained from executing prisoners. Instead, he delivered Peter to four quaternions of soldiers, four soldiers per group, aligning with the Roman watch system. This careful custody, with a total of sixteen guards, ensured Peter's tight security. Herod intended to bring him forth for trial after the conclusion of the festival, avoiding any defilement of the sacred days. God's providence was evident as Peter's preservation allowed for the prayers of the church and eventual release.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.9484895964958593,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                34.13,
+                38.69,
+                27.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Herod, a strict observer of Jewish customs, did not want to execute Peter during the Passover festival. Thus, he placed him in the custody of four groups of four soldiers each, aligning with the Roman watch system. This arrangement ensured Peter's security with a total of sixteen guards. Herod planned to bring Peter forth for trial after the conclusion of the feast to avoid any offense. This providence allowed the church an opportunity to offer prayers for Peter's release.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.925522135206347,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                34.71,
+                39.84,
+                25.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Herod, desiring to adhere to Jewish customs, refrained from executing Peter during the Passover festival. Instead, he placed him in the custody of four quaternions of soldiers, with a total of sixteen guards. This aligns with the Roman practice of dividing the night into four watches. By doing so, Herod ensured Peter's tight security. After the conclusion of the festival, Herod intended to bring Peter forth for trial, avoiding any defilement of the sacred days. This delay allowed for the church to offer fervent prayers for Peter's release.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.9389169571101075,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                33.63,
+                40.44,
+                25.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

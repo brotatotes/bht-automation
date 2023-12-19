@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:16:10",
+    "verseRef": "Galatians 3:8",
+    "bestBHT": {
+        "bht": "The Scripture wisely foresaw that God would justify the Gentiles through faith, not works, and thus announced in advance to Abraham the good news that all nations would be blessed through him. This shows that the Gospel, with its promise of justification by faith, is not a new doctrine but was taught early on. Abraham's faith serves as a model for all who seek the same blessings of redemption, reconciliation, and eternal life through faith in Christ.",
+        "wordCount": 78,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.4772047856641812,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.71,
+        "commentatorTierSimilarities": [
+            32.81,
+            32.67,
+            34.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Moreover the scripture (as we say, Nature: meaning, the Author of the Scripture), foreseeing that of faith (emphatic,\u2014 \u2018and not of works\u2019) God would justify the Gentiles, announced the good news beforehand to Abraham.",
+            "God is a God that justifieth.",
+            "In thee shall all the Gentiles (or, nations) be blessed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "One great excellency of Scripture is, that in it all points liable ever to be controverted, are, with prescient wisdom, decided in the most appropriate language.",
+            "Thus the Gospel, in its essential germ, is older than the law though the full development of the former is subsequent to the latter.",
+            "The blessing of justification was to Abraham by faith in the promise, not by works. So to those who follow Abraham, the father of the faithful, the blessing, that is, justification, comes purely by faith in Him who is the subject of the promise."
+        ],
+        "Albert Barnes": [
+            "It is agreeable, the meaning is, to the account on the subject in the Old Testament.\" ",
+            "The whole structure and frame of the Old Testament, however, proceeds on the supposition that it would be so.\" ",
+            "Hereof it followeth... that Christ died as well for the sins of Abraham as for us."
+        ],
+        "Marvin Vincent": [
+            "The passage of Scripture is personified.",
+            "The Gentiles are to partake - the imparting of the Spirit as the new life principle and the pledge of future blessedness in Christ.",
+            "Not, through thy posterity, Christ, but in the fact that thou art blessed is involved the blessedness of the Gentiles through faith..."
+        ],
+        "John Calvin": [
+            "By faith they arrive at the blessing, and by faith they must be 'in grafted' into the family of Abraham.\" ",
+            "All must be blessed in the same manner as Abraham; for he is the model, nay, the rule, to be universally observed.\" ",
+            "Now, he obtained the blessing by faith, and in the same manner must it be obtained by all."
+        ],
+        "Philip Schaff": [
+            "The Scripture, personified, as in Galatians 3:22, for the author of the Scripture.",
+            "The promise to Abraham was an anticipation of the gospel, i.e., the good tidings of salvation by Christ.",
+            "The blessing promised includes the whole Christian salvation, which implies justification, i.e., the remission of sins and imputation of Christ\u2019s merit."
+        ],
+        "Archibald T. Robertson": [
+            "This Scripture announced beforehand the gospel on this point of justification by faith.",
+            "It is a crucial passage for Paul's point, showing that the promise to Abraham included all the nations of the earth.",
+            "In thee. 'As their spiritual progenitor' (Lightfoot)."
+        ],
+        "John Gill": [
+            "The Scripture here, by a 'prosopopeia', is represented as foreseeing an event that would come to pass, and accordingly spoke of it before hand, and designs God the author of the Scripture.",
+            "This shows this to be the Gospel, and to be no new doctrine, nor different from what was so early taught; the sum and substance of which lies in these words, 'in thee shall all nations be blessed.'",
+            "But here it designs blessings in Christ, and not temporal, but spiritual ones, even all spiritual blessings; as redemption, reconciliation, peace, pardon, adoption, sanctification, and eternal life, and particularly justification; this is the blessedness more especially intended."
+        ],
+        "John Wesley": [
+            "Foreseeing that God would justify the gentiles also by faith, declared before - So great is the excellency and fulness of the scripture, that all the things which can ever be controverted are therein both foreseen and determined.",
+            "In or through thee - As the father of the Messiah, shall all the nations be blessed.",
+            "Genesis 12:3"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Scripture, in its prescient wisdom, announced beforehand to Abraham that God would justify the Gentiles through faith and not works. This passage personifies Scripture as the voice of God, declaring that all the nations would be blessed through Abraham. The Gospel, though developed later, is rooted in the promise to Abraham, that the blessing of justification would come through faith. This Scripture is crucial for Paul's argument, showing that the promise to Abraham included the salvation of all nations. Abraham serves as the model for all to obtain the blessing of salvation through faith.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.654586561818811,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.6,
+            "commentatorTierSimilarities": [
+                33.86,
+                34.24,
+                31.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Scripture, foreseeing that God would justify the Gentiles by faith and not through works, announced beforehand to Abraham the good news that in him, all the nations would be blessed. This announcement demonstrates the prescient wisdom of Scripture in deciding controversial matters and reveals the Gospel's essential germ that predates the law. The blessing of justification, obtained by faith, is extended to all who follow Abraham, making him the spiritual progenitor and rule to be universally observed in obtaining the same blessing of salvation through faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.456726130888433,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.03,
+            "commentatorTierSimilarities": [
+                34.41,
+                30.42,
+                35.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Scripture wisely foresaw that God would justify the Gentiles through faith, not works, and thus announced in advance to Abraham the good news that all nations would be blessed through him. This shows that the Gospel, with its promise of justification by faith, is not a new doctrine but was taught early on. Abraham's faith serves as a model for all who seek the same blessings of redemption, reconciliation, and eternal life through faith in Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.4772047856641812,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.71,
+            "commentatorTierSimilarities": [
+                32.81,
+                32.67,
+                34.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prescient Scripture anticipated that God would justify the Gentiles through faith, not works, and proclaimed in advance to Abraham the good news that all nations would be blessed in him. The Gospel's essential germ, rooted in the promise to Abraham, emphasizes faith as the means of obtaining the blessing of justification. This crucial passage supports Paul's argument, confirming that the promise to Abraham encompasses the salvation of all nations. Abraham stands as a model for all to follow in obtaining the blessedness of salvation through faith in God's promise.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.5093535143025525,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.78,
+            "commentatorTierSimilarities": [
+                34.45,
+                34.16,
+                31.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prescient Scripture foresaw that God would justify the Gentiles through faith, not works, and announced beforehand to Abraham the good news that all nations would be blessed in him. This passage shows that the promise to Abraham included the salvation of all nations and serves as a foundational element of the Gospel. Abraham becomes the spiritual progenitor and universal model for obtaining the blessing of salvation through faith, encompassing redemption, reconciliation, and eternal life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.55085669664935,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.16,
+            "commentatorTierSimilarities": [
+                32.82,
+                34.18,
+                33.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

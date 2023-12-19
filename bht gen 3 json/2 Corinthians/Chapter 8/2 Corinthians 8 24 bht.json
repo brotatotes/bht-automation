@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:17:20",
+    "verseRef": "2 Corinthians 8:24",
+    "bestBHT": {
+        "bht": "Continue to manifest the proof of your love and our boasting on your behalf in the sight of the churches. It takes courage to stand by representatives of great causes before stingy saints. By doing so, you not only display the sincerity and willingness of your love for Christ and his poor members, but also justify the high testimony we have given of you before the churches. Let it not be in vain that we have boasted of you, as the report given by these messengers will reach even distant churches.",
+        "wordCount": 91,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 2.0926738450376856,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.92,
+        "commentatorTierSimilarities": [
+            30.14,
+            40.34,
+            29.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Shew then (continue to shew) to them the proof of your love...",
+            "... and of our boasting concerning you, in the sight of the churches."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. The oldest manuscripts read",
+            "\t\"[continue] manifesting to them in the face of the",
+            "\tchurches the manifestation of your love, and of our boasting on your",
+            "\tbehalf."
+        ],
+        "Albert Barnes": [
+            "Charity should be voluntary... the first promptings of the heart, before the pleadings of avarice come in, and the heart grows cold by the influence of returning covetousness, are likely to be the most correct.\" (2 Corinthians 8:12)",
+            "If people do not give according to their means they must answer for it to God...the sinner can never have any such excuse. God never required anymore of him than he had power to render.\" (2 Corinthians 8:12)",
+            "Let all Christians so live that it may be honestly said of them they are 'the glory of Christ.' This would be a commendation to all people where they might go; to say this is enough to say of any man.\" (2 Corinthians 8:23)"
+        ],
+        "John Calvin": [
+            "\u201cSee that our brethren behold your love.\u201d",
+            "\u201cTake care, that it be not in vain that I have boasted of you.\u201d",
+            "They would not be alone witnesses, but in consequence of the report given by them, a report would go out even to distant Churches."
+        ],
+        "Philip Schaff": [
+            "Shew ye therefore unto them in the face of the churches the proof of your love, and of our glorying in your behalf.\" ",
+            "By the reception you give to these honoured messengers, shew the love you bear to us and them, and to the cause they come to you in, and thus justify before the churches the high testimony of you which we have borne.",
+            "Justify before the churches the high testimony of you which we have borne."
+        ],
+        "Archibald T. Robertson": [
+            "The proof of your love...There is a word here for pastors and deacons who try to protect the churches from the denominational representatives of kingdom causes.",
+            "In the face of the churches...It requires courage to stand by such representatives of great causes before stingy saints.",
+            "It requires courage to stand by such representatives of great causes."
+        ],
+        "John Gill": [
+            "Since they were persons of so much note and worth, as they ought to be received with great marks of respect and affection.",
+            "The proof of your love; to Christ and his poor members, how hearty and sincere it was.",
+            "And of our boasting on your behalf; how willing and forward they were to this good work, and how liberal they would be."
+        ],
+        "John Wesley": [
+            "Before the churches \u2014 Present by their messengers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Continue to manifest in the face of the churches the proof of your love and our boasting on your behalf. It takes courage to stand by representatives of great causes, especially in front of stingy saints. By doing so, you not only display the sincerity and willingness of your love for Christ and his poor members, but also justify the high testimony we have given of you before the churches. Let it not be in vain that we have boasted of you, as the report given by these messengers will reach even distant churches. Show our brethren the love you bear to us and to the cause they represent, and receive them with respect and affection as the commendation of Christ himself.",
+            "wordCount": 122,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.073689076213882,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                29.44,
+                40.74,
+                29.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Continue to manifest the proof of your love and our boasting on your behalf in the sight of the churches. It takes courage to stand by representatives of great causes before stingy saints. By doing so, you not only display the sincerity and willingness of your love for Christ and his poor members, but also justify the high testimony we have given of you before the churches. Let it not be in vain that we have boasted of you, as the report given by these messengers will reach even distant churches.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.0926738450376856,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.92,
+            "commentatorTierSimilarities": [
+                30.14,
+                40.34,
+                29.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In order to demonstrate the sincerity and depth of your love, continue to manifest the proof of it in the sight of the churches. It requires courage to stand by representatives of significant causes, especially when faced with stingy saints. By doing so, you not only exhibit the authenticity of your love for Christ and his impoverished followers, but also vindicate the high testimonial we have given of you before the churches. Let it not be in vain that we have boasted of you, as the report of these messengers will reach even distant churches.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9798866965977209,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "commentatorTierSimilarities": [
+                30.74,
+                39.62,
+                29.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Continue to manifest the proof of your love and our boasting on your behalf in the sight of the churches. It takes courage to stand by representatives of great causes before stingy saints. By doing so, you not only display the sincerity and willingness of your love for Christ and his poor members, but also justify the high testimony we have given of you before the churches. Let it not be in vain that we have boasted of you; show our brethren the love you bear to us and to the cause they represent.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.0697204520300856,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+            "commentatorTierSimilarities": [
+                32.8,
+                40.48,
+                26.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By manifesting the proof of your love and our boasting on your behalf in the sight of the churches, you reveal the sincerity and depth of your love for Christ and his impoverished followers. It requires courage to stand by representatives of great causes, even when faced with stingy saints. Show our brethren the love you bear to us and the cause they represent, justifying the high testimony we have given of you before the churches. Let it not be in vain; receive these messengers with respect and affection, as their report will reach distant churches.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.06655814260969,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.05,
+            "commentatorTierSimilarities": [
+                29.78,
+                40.28,
+                29.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

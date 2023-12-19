@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:24:57",
+    "verseRef": "Acts 2:12",
+    "bestBHT": {
+        "bht": "The people in this account were perplexed and unsure how to understand the events unfolding before them. They were amazed and puzzled, at a loss to explain what they were witnessing. Some even speculated that it was the result of drunkenness. However, those with understanding were deeply impacted by the sight. Despite the mockery from a few, the devout men were left astonished, in awe of this remarkable miracle. They couldn't fully grasp the significance of what they had just experienced.",
+        "wordCount": 82,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.2967063250897888,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.46,
+        "commentatorTierSimilarities": [
+            19.38,
+            41.61,
+            39.01
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Were in doubt - This expression... denotes 'a state of hesitancy or anxiety about an event.'\" ",
+            "They were all astonished at this; they did not know how to understand it or explain it.",
+            "until some of them supposed that it was merely the effect of new wine."
+        ],
+        "Marvin Vincent": [
+            "Were in doubt [\u03b4\u03b9\u03b7\u03c0\u03bf\u03c1\u03bf\u03c5\u03bd] . Used by Luke only. See on Luke 9:7. Better, as Rev., perplexed."
+        ],
+        "John Calvin": [
+            "Whosoever hath any drop of sound understanding in him must needs be stricken with the only hearing of it.",
+            "How beastly, then, are those men who see it with their eyes, and yet scoff, and go about with their jests to mock the power of God?",
+            "Although Luke doth signify unto us that they were not of the worst sort, or altogether past hope, which did laugh (and mock;) but he meant rather to declare how the common sort was affected when they saw this miracle."
+        ],
+        "Archibald T. Robertson": [
+            "They continued amazed and puzzled.",
+            "What meaneth this?"
+        ],
+        "John Gill": [
+            "And they were all amazed.",
+            "they were at a loss in their minds what should be the cause of this.",
+            "Surely something considerable."
+        ],
+        "John Wesley": [
+            "They were all amazed \u2014 All the devout men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in Acts 2:12 were in a state of perplexity and uncertainty, amazed and puzzled by what they were witnessing. They were struck with wonder and did not know how to interpret or explain the events unfolding before them. Some even suggested it was the result of drunkenness. Anyone with sound understanding would be deeply affected by such a sight, and it is truly beastly for those who scoff and mock the power of God when they witness His miracles. Luke emphasizes that even though some were mocking, he wants to highlight the common reaction of astonishment among the devout men present. This miracle was truly something remarkable, leaving them awestruck and at a loss for words.",
+            "wordCount": 117,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.2907450932871103,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.26,
+            "commentatorTierSimilarities": [
+                23.74,
+                37.63,
+                38.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people in this passage were amazed and puzzled, unsure of how to interpret what was happening before them. Their state of perplexity and uncertainty left them at a loss for words. Some speculated that it was the effect of drunkenness, but those with any understanding would be deeply impacted by what they were witnessing. Despite the mockery of a few, the general reaction among the devout men was astonishment. This miracle was truly remarkable and left them in awe, unable to fully comprehend its significance.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.3270812208280116,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.47,
+            "commentatorTierSimilarities": [
+                20.59,
+                41.16,
+                38.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people in this account were amazed and puzzled, unsure of how to interpret what was happening. Their state of perplexity left them at a loss for words. Some suggested it was the effect of drunkenness, but those with understanding were deeply impacted by what they witnessed. Despite the mockery of a few, the devout men were left astonished. This remarkable miracle left them in awe, unable to fully comprehend its significance.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.273156758916421,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.68,
+            "commentatorTierSimilarities": [
+                19.89,
+                39.68,
+                40.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people in this account were amazed and puzzled, uncertain of how to interpret what they were witnessing. Their state of perplexity left them at a loss, and some even suggested it was due to drunkenness. Yet, those with understanding were deeply affected by what they saw. Despite the mockery of a few, the devout men were left astonished. This remarkable miracle left them in awe, unable to fully comprehend its significance.",
+            "wordCount": 72,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.2904316635052835,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.25,
+            "commentatorTierSimilarities": [
+                19.38,
+                39.97,
+                40.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people in this account were perplexed and unsure how to understand the events unfolding before them. They were amazed and puzzled, at a loss to explain what they were witnessing. Some even speculated that it was the result of drunkenness. However, those with understanding were deeply impacted by the sight. Despite the mockery from a few, the devout men were left astonished, in awe of this remarkable miracle. They couldn't fully grasp the significance of what they had just experienced.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.2967063250897888,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.46,
+            "commentatorTierSimilarities": [
+                19.38,
+                41.61,
+                39.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

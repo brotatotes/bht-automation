@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:22:18",
+    "verseRef": "Luke 20:44",
+    "bestBHT": {
+        "bht": "Jesus's definite exegesis raises the problem of explaining the deity and humanity of the Messiah, echoing the concerns that perplexed the rabbis and still perplex critics today. The inference from David's words in Psalm 110:1 poses the question: how can the Messiah be both Lord and son?",
+        "wordCount": 48,
+        "quoteTokenProportion": 30.56,
+        "qualityScore": 1.919160262991915,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+        "commentatorTierSimilarities": [
+            48.65,
+            0.0,
+            51.35
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "On the basis of this definite piece of exegesis (\u03bf\u03c5\u03bd, therefore) Jesus presses the problem (\u03c0\u03c9\u03c2, how) for an explanation.\" ",
+            "The deity and the humanity of the Messiah in Luke 20:110 are thus set forth.\" ",
+            "The very problems that disturbed the rabbis then and that upset many critics today."
+        ],
+        "John Gill": [
+            "David therefore called him Lord,.... Or, 'my Lord', as the Syriac and Ethiopic versions read; or, 'his Lord', as the Arabic version.",
+            "This is the inference from the words before cited, Psalms 110:1, upon which the following question is asked, how is he then his son?",
+            "In what sense can he be both his Lord and son?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Therefore, in Luke 20:44, Jesus uses a definite piece of exegesis to press the problem of explaining the deity and humanity of the Messiah. This verse presents the very problems that troubled the rabbis then and continue to challenge many critics today. The inference comes from the words of David in Psalm 110:1, where he refers to the Messiah as his Lord. This raises the question of how the Messiah can be both David's Lord and son.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.7288506035591522,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                51.2,
+                0.0,
+                48.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the basis of a definite exegesis, Jesus raises the problem of explaining the deity and humanity of the Messiah. This presents the very problems that troubled the rabbis and continue to challenge critics. The inference comes from David's words, where he refers to the Messiah as Lord. This raises the question of how the Messiah can be both David's Lord and son.",
+            "wordCount": 65,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.657014512139581,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+            "commentatorTierSimilarities": [
+                52.63,
+                0.0,
+                47.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the basis of this definite exegesis, Jesus presses the problem for an explanation of the deity and humanity of the Messiah. The very problems that disturbed the rabbis then and that upset many critics today are set forth in this verse. David's words in Psalm 110:1 imply that the Messiah is addressed as Lord. Thus, the question arises of how the Messiah can be both Lord and son.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.858985567769285,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                54.26,
+                0.0,
+                45.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's exegesis prompts the question of how to explain the deity and humanity of the Messiah. This verse reveals the same problems that troubled the rabbis in the past and continue to trouble modern critics. The words of David in Psalm 110:1 imply that the Messiah is addressed as Lord, leading to the question of how he can be both Lord and son.",
+            "wordCount": 63,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6899016655197825,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+            "commentatorTierSimilarities": [
+                51.25,
+                0.0,
+                48.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's definite exegesis raises the problem of explaining the deity and humanity of the Messiah, echoing the concerns that perplexed the rabbis and still perplex critics today. The inference from David's words in Psalm 110:1 poses the question: how can the Messiah be both Lord and son?",
+            "wordCount": 48,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 1.919160262991915,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+            "commentatorTierSimilarities": [
+                48.65,
+                0.0,
+                51.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

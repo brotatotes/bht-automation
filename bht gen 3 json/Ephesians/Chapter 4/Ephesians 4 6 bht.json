@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:32:13",
+    "verseRef": "Ephesians 4:6",
+    "bestBHT": {
+        "bht": "The grand source of unity among believers lies in the fundamental truth of having one God and Father who holds ultimate sovereignty over all. This universal Fathership, which even the Church inherits in its fullness, is the chief aspect from which all other aspects flow. Through the work of the Father, the Son filling all things, and the witness of the indwelling Spirit, God's power is evident and extends to all lives. This unity goes beyond shared opinions or feelings, as it arises supernaturally from a common principle of life in God.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 2.220822290821827,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+        "commentatorTierSimilarities": [
+            30.31,
+            36.99,
+            32.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "this is the chief thing, because from this all the rest flow.\" ",
+            "the universal Fathership of all men\u2014which indeed the Church only inherits in its fulness, others having fallen out of it by sin,\u2014but which nevertheless is just as absolutely true",
+            "All these are the work of the Father:\u2014it is He who in direct sovereignty is over all\u2014He who is glorified in the filling of all things by the Son:\u2014He who is revealed by the witness of the indwelling Spirit"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'one God over all' (in His sovereignty and by His grace) is the grand source and crowning apex of unity.",
+            "Christ 'who filleth all things'...is 'a propitiation' for all men.",
+            "God is 'Father' both by generation (as Creator) and regeneration."
+        ],
+        "Albert Barnes": [
+            "Were there many gods to be worshipped, there could be no more hope of unity than there is among the worshippers of Mammon and Bacchus, and the various other idols that people set up.",
+            "The fact that all Christians have the same great object of worship should constitute a strong bond of union among themselves - a chain always kept bright.",
+            "The argument here is, that as the same God dwelt in every heart, they ought to be one."
+        ],
+        "Marvin Vincent": [
+            "One God and Father. The fundamental ground of unity.",
+            "Above all [\u03b5\u03c0\u03b9 \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd] . Rev, over : as ruler.",
+            "Through, pervading : in, indwelling."
+        ],
+        "John Calvin": [
+            "By the Spirit of sanctification, God spreads himself through all the members of the church, embraces all in his government, and dwells in all; but God is not inconsistent with himself, and therefore we cannot but be united to him into one body.",
+            "This spiritual unity is mentioned by our Lord... 'Holy Father, keep through thine own name those whom thou hast given me, that they may be one as we are.'",
+            "Paul is now illustrating the mutual relation of believers, which has nothing in common either with wicked men or with inferior animals. To this relation we must limit what is said about God's government and presence."
+        ],
+        "Philip Schaff": [
+            "The deepest ground of unity is found the existence of one God, who has revealed Himself in the redemption of His people.\" ",
+            "The reference to God the Father is not only more grammatical, but much safer.",
+            "The unity of the Church is founded on this doctrine. It is one, because there is to us one God the Father, one Lord, one Spirit. It is a truly mystical union: not a mere union of opinion, of interest, or of feeling; but something supernatural, arising from a common principle of life."
+        ],
+        "Archibald T. Robertson": [
+            "One God for all men.",
+            "Thus by three prepositions (\u03b5\u03c0\u03b9, \u03b4\u03b9\u03b1, \u03b5\u03bd) Paul has endeavoured to express the universal sweep and power of God in men's lives.",
+            "The last 'in all' is certainly masculine and probably all are."
+        ],
+        "John Gill": [
+            "There is but one eternal, infinite, immense, omnipotent, all-sufficient, perfect, and independent Being; and from one first cause of all things, and the relations he stands in to his creatures.",
+            "They have all one covenant God and Father, who has predestinated them to the adoption of children, and who has put them among the children, and adopted them into his family.",
+            "The gracious union there is between him and his people, and of his gracious inhabitation in them by his Spirit."
+        ],
+        "John Wesley": [
+            "One God and Father of all \u2014 That believe.",
+            "Who is above all \u2014 Presiding over all his children, operating through them all by Christ, and dwelling in all by his Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the unity among believers as they share a common God and Father. This unity is the fundamental ground of their oneness, as all other aspects flow from it. The universal Fathership of God is the chief aspect, sovereignly ruling over all and revealing Himself through the Son and Spirit. The prepositions over, through, and in demonstrate the universal sweep and power of God in people's lives. It is the existence of one God, dwelling in every heart, that forms the strongest bond of union among Christians. This unity transcends mere agreement or shared interests; it arises from a supernatural common principle of life.",
+            "wordCount": 107,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 2.1405394170220884,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.51,
+            "commentatorTierSimilarities": [
+                27.56,
+                40.45,
+                31.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The grand source of unity among believers lies in the fundamental truth of having one God and Father who holds ultimate sovereignty over all. This universal Fathership, which even the Church inherits in its fullness, is the chief aspect from which all other aspects flow. Through the work of the Father, the Son filling all things, and the witness of the indwelling Spirit, God's power is evident and extends to all lives. This unity goes beyond shared opinions or feelings, as it arises supernaturally from a common principle of life in God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.220822290821827,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+            "commentatorTierSimilarities": [
+                30.31,
+                36.99,
+                32.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The profound unity among believers stems from the recognition of one God and Father, the grand source of all unity. This universal Fathership, sovereign over all, is the chief aspect from which all other aspects flow. The divine presence, witnessed through the indwelling Spirit, spreads throughout the members of the Church and unites them in a common covenant. This unity transcends human understanding, for it is not based on mere opinion or shared interests, but rather emerges supernaturally from a shared principle of life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0823194384565613,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.58,
+            "commentatorTierSimilarities": [
+                28.83,
+                39.53,
+                31.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The unity among believers is rooted in the recognition of one God and Father, the chief aspect from which all other aspects flow. This universal Fathership, sovereign over all, is the fundamental ground of unity. God's power and presence extend through all lives, operating through the Son and existing by the witness of the indwelling Spirit. This unity is not simply a union of opinion or feeling, but a supernatural bond arising from a shared principle of life, bringing believers together in a mystical union.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.1012218254001365,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                28.6,
+                39.83,
+                31.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fundamental ground of unity among believers lies in the recognition of one God and Father, who is sovereign over all and from whom all other aspects flow. Through the work of the Father, the Son filling all things, and the witness of the indwelling Spirit, God's power and presence pervade all lives. This unity is not based on shared opinions, interests, or feelings, but rather emerges supernaturally from a common principle of life. It is a profound and mystical union, transcending human understanding.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.06084940568023,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.86,
+            "commentatorTierSimilarities": [
+                27.37,
+                38.88,
+                33.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

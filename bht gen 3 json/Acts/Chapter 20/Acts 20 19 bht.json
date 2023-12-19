@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:34:19",
+    "verseRef": "Acts 20:19",
+    "bestBHT": {
+        "bht": "Paul, as a servant of the Lord, served with humility of mind, facing trials and temptations including bitter hostility and constant danger. He wept and labored diligently for the spiritual well-being of his converts, displaying deep concern and love. The early Christians' intense sympathy and love for one another played a significant role in spreading the Gospel, introducing the world to a God who could weep with those in need. These acts of humility, tears, and trials exemplify faithful service to the Lord.",
+        "wordCount": 84,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.655983921470218,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+        "commentatorTierSimilarities": [
+            25.32,
+            39.18,
+            35.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "serving the Lord\" - With the sole exception of the assertion of our Lord, \u2018Ye cannot serve God and mammon,\u2019 Matt. vi. 24; Luke xvi. 13, this peculiar verb ( \u201cto be a bond-servant to\u201d), for \u2018serving God,\u2019 is used by Paul only, and by him seven times.",
+            "with all humility of mind\" - Also a Pauline expression, 2 Cor. viii. 7; xii. 12.",
+            "temptations\" - See especially Gal. iv. 14."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Self-exaltation was unknown to him, and ease of mind.",
+            "He 'sowed in tears,' from anxieties both on account of the converts from whom he 'travailed in birth,' and of the Jews.",
+            "Their bitter hostility was perpetually plotting against him, interrupting his work and endangering his life."
+        ],
+        "Albert Barnes": [
+            "To discharge aright our duties in any vocation is serving the Lord.",
+            "What an admirable model for all who are in the ministry; for all who are endowed with talents and learning; for all who meet with remarkable success in their work! The proper effect of such success, and of such talent, will be to produce true humility.",
+            "A minister of the gospel will feel, and deeply feel for the salvation of his people. He will weep over their condition when he sees them going astray, and in danger of perishing."
+        ],
+        "John Calvin": [
+            "He doth testify, that he fulfilled the apostleship to him committed with humility and modesty; both because, knowing his own infirmity, he did mistrust himself; and also, because, considering the excellency of his calling, he counted himself very unmeet.",
+            "His drift is, that those to whom he speaketh may not faint, through like tribulations; and that, being void of all ambition, they may do their duty carefully and reverently.",
+            "This is the true trial of the servants of Christ, not to be changed as the times change; but to continue like to themselves, and always to keep a straight course."
+        ],
+        "Philip Schaff": [
+            "The intense sympathy and love among the early Christians is most noteworthy. It was something strange and fresh in the old selfish world, and this sweet spirit which seemed after the crucifixion to have taken up its abode in the hearts of men and women, was no doubt one of the most powerful agents in the rapid spread of the new doctrines.",
+            "The revelation that God could so care for men as to weep (John 11:33-35) for them, taught men the glorious beauty of mutual sympathy.",
+            "A God who could \u2018weep with those that weep\u2019 was a sublime conception to which the old heathen world was never able to attain."
+        ],
+        "John Gill": [
+            "Serving the Lord with all humility of mind...",
+            "But laboured with his own hands, and to his own and the necessities of others...",
+            "...his afflictions, which he calls temptations, because they were trials of his faith and patience, were very great."
+        ],
+        "John Wesley": [
+            "See the picture of a faithful servant! The Lord - Whose the church is, with all humility, and with tears, and trials - These are the concomitants of it.\" (34 words)",
+            "Holy tears, from those who seldom weep on account of natural occurrences, are no mean specimen of the efficacy and proof of the truth of Christianity.\" (27 words)",
+            "Yet joy is well consistent therewith, Acts 20:24. The same person may be sorrowful, yet always rejoicing.\" (22 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in his ministry, was devoted to serving the Lord with humility of mind. He fully understood the weight of his calling and recognized his own limitations. Despite facing trials and temptations, including bitter hostility and constant danger, he remained steadfast and fervent. Paul's deep concern for the spiritual well-being of his converts led him to weep and labor diligently on their behalf. His example serves as a model for all who are in positions of responsibility, reminding them of the importance of true humility and genuine care for those entrusted to their care. The early Christians' intense love and sympathy for one another played a significant role in the rapid spread of the Gospel, embodying a sublime concept that the world had never known before - a God who could weep with those who weep. It is through these acts of humility, tears, and trials that the faithful can faithfully serve the Lord.",
+            "wordCount": 155,
+            "quoteTokenProportion": 33.98,
+            "qualityScore": 1.5368995712206144,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.44,
+            "commentatorTierSimilarities": [
+                26.2,
+                37.12,
+                36.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, as a servant of the Lord, served with humility of mind, facing trials and temptations including bitter hostility and constant danger. He wept and labored diligently for the spiritual well-being of his converts, displaying deep concern and love. The early Christians' intense sympathy and love for one another played a significant role in spreading the Gospel, introducing the world to a God who could weep with those in need. These acts of humility, tears, and trials exemplify faithful service to the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.655983921470218,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                25.32,
+                39.18,
+                35.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul fulfilled his apostleship with humility and modesty, aware of his own weakness and unworthiness. He faced trials and temptations, enduring bitter hostility and constant danger. Paul's deep concern for his converts led him to weep and labor diligently for their sake. The intense love and sympathy among early Christians played a crucial role in spreading the Gospel. Through humility, tears, and trials, Paul exemplified faithful service to the Lord, reminding us of the profound impact of genuine care and selflessness in fulfilling our calling.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.5699406138633036,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                28.83,
+                35.89,
+                35.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's ministry was marked by his devoted service to the Lord with humility of mind. He recognized his own limitations and approached his calling with modesty and reverence. Despite facing trials and temptations, including bitter hostility and constant danger, Paul remained steadfast and fervent. His deep concern for the spiritual well-being of his converts led him to weep and labor diligently on their behalf. The early Christians' intense love and sympathy for one another played a significant role in the rapid spread of the Gospel, embodying a sublime concept that the world had never known before.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.5343421113849476,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "commentatorTierSimilarities": [
+                30.16,
+                35.04,
+                34.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul wholeheartedly served the Lord with humility, facing trials and temptations. He understood his own weakness and counted himself unworthy. Despite enduring bitter hostility and constant danger, Paul remained committed and fervent. He wept and labored diligently for the spiritual well-being of his converts, demonstrating deep concern and love. The early Christians' intense sympathy and love for one another played a vital role in spreading the Gospel, introducing the world to a God who could weep with those in need. Humility, tears, and trials characterized Paul's faithful service to the Lord.",
+            "wordCount": 93,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 1.5127131739473212,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.64,
+            "commentatorTierSimilarities": [
+                28.56,
+                34.34,
+                37.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

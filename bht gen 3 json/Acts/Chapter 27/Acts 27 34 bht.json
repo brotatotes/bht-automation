@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:37:13",
+    "verseRef": "Acts 27:34",
+    "bestBHT": {
+        "bht": "I pray you to take some meat, for this is for your health, for there shall not a hair fall from . . . any of you, illustrates a beautiful union of confidence in the divine pledge and care for the whole ship's health and safety. It emphasizes the importance of physical safety, not just spiritual salvation. The phrase there shall not a hair fall from the head of any of you reassures that they would be preserved safe and none of them would be lost.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6674751928851963,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+        "commentatorTierSimilarities": [
+            38.12,
+            33.37,
+            28.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I pray you to take some meat, for this is for your health, for there shall not a hair fall from . . . any of you.\" ",
+            "On this beautiful union of confidence in the divine pledge and care for the whole ship's health and safety.",
+            "See on Acts 27:2."
+        ],
+        "Albert Barnes": [
+            "Not a hair fall from the head...that they would be preserved safe; that none of them would be lost.",
+            "None of them would be lost.",
+            "In their persons they should not experience the least damage."
+        ],
+        "Philip Schaff": [
+            "This is essential for your safety.",
+            "There shall not a hair fall from the head of any of you.",
+            "It was necessary that they should recruit their strength."
+        ],
+        "Archibald T. Robertson": [
+            "For this is for your safety.\" ",
+            "Note \u03c3\u03c9\u03c4\u03b7\u03c1\u03b9\u03b1 in sense of 'safety,' literal meaning, not spiritual salvation.",
+            "Perish. Future middle (intransitive) of \u03b1\u03c0\u03bf\u03bb\u03bb\u03c5\u03bc (-\u03c5\u03c9), to destroy."
+        ],
+        "John Gill": [
+            "To sit down composedly and eat meat cheerfully and freely.",
+            "It was for the health of them all, that they might be better able to bear the shock and fatigue of the shipwreck.",
+            "There shall not a hair fall from the head of any of you, expressing the utmost safety of their lives."
+        ],
+        "John Wesley": [
+            "This is for your preservation \u2014 That ye may be the better able to swim to shore."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I pray you to take some meat, for this is for your health, for there shall not a hair fall from . . . any of you, illustrates a beautiful union of confidence in the divine pledge and care for the whole ship's health and safety. It emphasizes the importance of physical safety, not just spiritual salvation. The phrase there shall not a hair fall from the head of any of you reassures that they would be preserved safe and none of them would be lost. This act of eating meat is essential for their safety and to better bear the shock and fatigue of the shipwreck.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6027554500738876,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.63,
+            "commentatorTierSimilarities": [
+                36.84,
+                30.75,
+                32.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I pray you to take some meat, for this is for your health, for there shall not a hair fall from . . . any of you, illustrates a beautiful union of confidence in the divine pledge and care for the whole ship's health and safety. It emphasizes the importance of physical safety, not just spiritual salvation. The phrase there shall not a hair fall from the head of any of you reassures that they would be preserved safe and none of them would be lost.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6674751928851963,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                38.12,
+                33.37,
+                28.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I pray you to take some meat, for this is for your health, for there shall not a hair fall from . . . any of you, emphasizes the unity of confidence in divine protection and concern for the well-being of all on the ship. It highlights the significance of physical safety, rather than just spiritual salvation. The assurance that there shall not a hair fall from the head of any of you reflects the certainty of their preservation and the absence of any harm. This act of consuming food is crucial for their safety and ability to endure the impending shipwreck.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.4809966460147954,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.59,
+            "commentatorTierSimilarities": [
+                37.15,
+                28.79,
+                34.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I pray you to take some meat, for this is for your health, for there shall not a hair fall from . . . any of you, illustrates the beautiful union of confidence in divine care and the ship's overall safety. It emphasizes the importance of physical well-being, rather than just spiritual salvation. The phrase there shall not a hair fall from the head of any of you assures their preservation and safety. This act of eating meat is essential for their overall safety and ability to withstand the forthcoming shipwreck.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.53775636183164,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.47,
+            "commentatorTierSimilarities": [
+                37.22,
+                27.86,
+                34.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Take some meat for your health, for there shall not a hair fall from any of you. This highlights the union of confidence in divine care and concern for the ship's safety. It underscores the significance of physical well-being alongside spiritual salvation. The assurance that not a single hair will fall from anyone's head guarantees their preservation. Consuming food is essential for safety and endurance during the shipwreck.",
+            "wordCount": 71,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4372138824154885,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.13,
+            "commentatorTierSimilarities": [
+                35.22,
+                30.91,
+                33.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

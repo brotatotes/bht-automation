@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:11:28",
+    "verseRef": "1 Corinthians 11:6",
+    "bestBHT": {
+        "bht": "If a woman chooses to be uncovered in front, she should also be shorn, for it is considered a shame, an unbecoming thing. This act would have an effect on a woman's reputation, proclaiming her as a lewd woman. Therefore, it is important for her to be veiled, covering herself with a veil hanging down from her head, in order to uphold modesty and avoid negative judgment from others.",
+        "wordCount": 70,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0177127219701534,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+        "commentatorTierSimilarities": [
+            30.56,
+            32.41,
+            37.03
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] The argument see above. let her ALSO, besides being unveiled, &c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A woman would not like to be 'shorn' or (what is worse) 'shaven'; but if she chooses to be uncovered (unveiled) in front, let her be so also behind, that is, 'shorn'.\" ",
+            "A shame\u2014an unbecoming thing (compare :-).\" ",
+            "Thus the shaving of nuns is 'a shame'."
+        ],
+        "Albert Barnes": [
+            "Let her lay aside all the usual and proper indications of her sex and rank in life.\" ",
+            "If it is done in one respect, it may with the same propriety be done in all.\" ",
+            "Let her wear the customary attire indicative of modesty and a sense of subordination."
+        ],
+        "Marvin Vincent": [
+            "Shorn or shaven [\u03ba\u03b5\u03b9\u03c1\u03b1\u03c3\u03b8\u03b1\u03b9 \u03b7 \u03be\u03c5\u03c1\u03b1\u03c3\u03b8\u03b1\u03b9] . To have the hair cut close, or to be entirely shaved as with a razor."
+        ],
+        "Archibald T. Robertson": [
+            "Let her also be shorn... Let her cut her hair close. A single act by the woman.",
+            "Clearly Paul uses such strong language because of the effect on a woman's reputation in Corinth by such conduct that proclaimed her a lewd woman.",
+            "Let her be veiled... Let her cover up herself with the veil (down, \u03ba\u03b1\u03c4\u03b1, the Greek says, the veil hanging down from the head)."
+        ],
+        "John Gill": [
+            "If her head is not covered with some sort of covering, as is the custom of the place where she lives, let her hair be cut short; let her wear it as men do theirs; and let her see how she will look, and how she will like that, and how she will be looked upon, and liked by others; everybody will laugh at her, and she will be ashamed of herself.",
+            "As it is accounted in all civilized nations: the very Heathens a speak of it as a thing abominable, and of which there should not be one single dreadful example: then let her be covered; with a veil, or any sort of covering in common use.",
+            "Vid. Apul. Metamorph. l. 2. p. 21."
+        ],
+        "John Wesley": [
+            "If she will throw off the badge of subjection, let her appear with her hair cut like a man's.",
+            "But if it be shameful for a woman to appear thus in public, especially in a religious assembly, let her, for the same reason, keep on her veil."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If a woman chooses to be unveiled in front, she should also be shorn, according to the commentary. However, this would be seen as a shame, an unbecoming thing. It is comparable to the shaving of nuns, which is also considered a shame. The commentary suggests that if her head is not covered, she should cut her hair short and see how she will look and be looked upon by others. The act of not being veiled is seen as a violation of modesty and a sense of subordination, which is why it is important for a woman to cover herself with a veil, especially in a religious assembly.",
+            "wordCount": 109,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8961008871339313,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                36.01,
+                27.07,
+                36.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a woman chooses to be unveiled, she should also be shorn, as it is deemed an unbecoming thing. The act of not being veiled is seen as a violation of modesty and a sense of subordination. It is important for her to cover herself with a veil, especially in a religious assembly, to maintain her reputation and avoid being perceived as a lewd woman.",
+            "wordCount": 65,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 2.028986168859525,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.8,
+            "commentatorTierSimilarities": [
+                29.38,
+                33.48,
+                37.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If a woman chooses to be uncovered in front, she should also be shorn, for it is considered a shame, an unbecoming thing. This act would have an effect on a woman's reputation, proclaiming her as a lewd woman. Therefore, it is important for her to be veiled, covering herself with a veil hanging down from her head, in order to uphold modesty and avoid negative judgment from others.",
+            "wordCount": 70,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0177127219701534,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+            "commentatorTierSimilarities": [
+                30.56,
+                32.41,
+                37.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If a woman chooses to be unveiled in front, she should also allow herself to be shorn or completely shaved, which is considered a shame and an unbecoming act. This strong language is used by Paul to emphasize the negative effect such conduct would have on a woman's reputation in Corinth. It is important for a woman to not only cover her head but also herself with a veil, as this is the customary attire that signifies modesty and a sense of subordination. Without the proper covering, a woman's reputation will suffer, and she will bring upon herself shame and ridicule from others.",
+            "wordCount": 105,
+            "quoteTokenProportion": 51.35,
+            "qualityScore": 2.011235261982546,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.21,
+            "commentatorTierSimilarities": [
+                29.85,
+                33.52,
+                36.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If a woman chooses to be unveiled in front, she should also be shorn or completely shaved, which is considered a shame. Strong language is used by Paul to emphasize the effect such conduct would have on a woman's reputation in Corinth. It is important for a woman to cover not only her head but also herself with a veil, as this signifies modesty and subordination. Without the proper covering, a woman's reputation will suffer, and she will bring upon herself shame from others.",
+            "wordCount": 86,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.9787579003872493,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.13,
+            "commentatorTierSimilarities": [
+                31.31,
+                31.35,
+                37.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

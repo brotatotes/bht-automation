@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:26:32",
+    "verseRef": "Acts 5:22",
+    "bestBHT": {
+        "bht": "The officers, the servants or under-rowers who executed the orders of the Sanhedrin, came to the prison to find the apostles. The doors of the prison were shut tight, but they stood at the doors, like sentinels guarding it. When they opened the doors and searched the prison, they found that the apostles were not there, so they returned to report to the Sanhedrin.",
+        "wordCount": 65,
+        "quoteTokenProportion": 43.59,
+        "qualityScore": 1.6848977336462245,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.36,
+        "commentatorTierSimilarities": [
+            30.32,
+            0.0,
+            69.68
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17-23. sect of the Sadducees\u2014See",
+            "\ton Acts 4:1 for the reason why",
+            "\tthis is specified."
+        ],
+        "Marvin Vincent": [
+            "Officers [\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b1\u03b9] See on Matthew 5:25."
+        ],
+        "Archibald T. Robertson": [
+            "The officers (\u03bf \u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b1). Under-rowers, literally (Matthew 5:25). The servants or officers who executed the orders of the Sanhedrin.",
+            "Shut (\u03ba\u03b5\u03ba\u03bb\u03b5\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd). Perfect passive participle of \u03ba\u03bb\u03b5\u03b9\u03c9. Shut tight.",
+            "Standing at the doors (\u03b5\u03c3\u03c4\u03c9\u03c4\u03b1\u03c2 \u03b5\u03c0 \u03c4\u03c9\u03bd \u03b8\u03c5\u03c1\u03c9\u03bd). Graphic picture of the sentinels at the prison doors."
+        ],
+        "John Gill": [
+            "When they came to the prison, they opened the doors of it, or the keepers for them; for though the angel had opened them for the apostles, yet he shut them again.\" ",
+            "...who upon opening them and searching the prison, for the apostles, could find none of them in it.",
+            "Wherefore they returned; the Arabic version reads, 'to them'; to the sanhedrim."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The officers, the servants or under-rowers who executed the orders of the Sanhedrin, came to the prison to find the apostles. The doors of the prison were shut tight, but they stood at the doors, like sentinels guarding it. When they opened the doors and searched the prison, they found that the apostles were not there, so they returned to report to the Sanhedrin.",
+            "wordCount": 65,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.6848977336462245,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.36,
+            "commentatorTierSimilarities": [
+                30.32,
+                0.0,
+                69.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The officers, the servants or under-rowers who executed the orders of the Sanhedrin, came to the prison and found it shut tight. They stood at the doors, like sentinels guarding it. Upon opening the doors and searching the prison, they discovered that the apostles were not there. Consequently, they returned to report to the Sanhedrin.",
+            "wordCount": 56,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.4867654208742032,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.78,
+            "commentatorTierSimilarities": [
+                29.31,
+                0.0,
+                70.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The officers, the servants who executed the orders of the Sanhedrin, stood at the doors of the prison, which were shut tight. When they opened the doors and searched the prison, they found the apostles missing. As a result, they left the prison and returned to the Sanhedrin to give a report.",
+            "wordCount": 52,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.5616884883976958,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.27,
+            "commentatorTierSimilarities": [
+                26.68,
+                0.0,
+                73.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The under-rowers, the officers who executed the orders of the Sanhedrin, approached the prison and encountered shut doors. They stood at the doors, like sentinels, and upon opening them and searching the prison, they discovered the absence of the apostles. They subsequently returned to the Sanhedrin to deliver their report.",
+            "wordCount": 51,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4566419471887424,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.78,
+            "commentatorTierSimilarities": [
+                28.89,
+                0.0,
+                71.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The officers, the servants or under-rowers who executed the orders of the Sanhedrin, came to the prison to find the apostles. The doors of the prison were shut tight, but they stood at the doors, like sentinels guarding it. When they opened the doors and searched the prison, they found that the apostles were not there, so they returned to report to the Sanhedrin.",
+            "wordCount": 65,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.6848977336462245,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.36,
+            "commentatorTierSimilarities": [
+                30.32,
+                0.0,
+                69.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

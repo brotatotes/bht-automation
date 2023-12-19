@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:30:18",
+    "verseRef": "Acts 12:17",
+    "bestBHT": {
+        "bht": "After Peter's miraculous escape from prison, he sought safety and privacy by going to the house of Mary, where James, the brother of the Lord and the leading presbyter of the Jerusalem Church, resided. Peter beckoned for silence and attention, a gesture he often used in his ministry. This episode highlights the important role that James played in overseeing the Church in Jerusalem and the prudence of Peter in seeking a safe place until the persecution subsided.",
+        "wordCount": 78,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.1832983835005706,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.94,
+        "commentatorTierSimilarities": [
+            38.66,
+            34.04,
+            27.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "James, the brother of the Lord, whom we find presiding over the church at Jerusalem.",
+            "I believe him to have been one of those 'brethren of the Lord' mentioned... that they were His real maternal brethren, sons of Joseph and Mary.",
+            "I see in these words a minute mark of truth in our narrative... the place of Peter\u2019s retreat would very naturally at the time be kept secret."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In the hubbub of joyful and wondering interrogatories there might mingle reflections, thrown out by one against another, for holding out so long against the testimony of Rhoda.",
+            "James is singled out, because he had probably begun to take the oversight of the Church in Jerusalem.",
+            "When told, on a former miraculous liberation from prison, to go and speak unto the people, he did it; but in this case to present himself in public would have been to tempt God by rushing upon certain destruction."
+        ],
+        "Albert Barnes": [
+            "His wish was, not that there should be clamorous joy, but that they should listen in silence to what God had done.",
+            "Religion is calm and peaceful; and its great scenes and surprising deliverances are rather suited to awe the soul to produce calm, sober, and grateful contemplation, than the noise of rejoicing, and the shoutings of exultation.",
+            "The consciousness of the presence of God, and of his mighty power, does not produce rapturous disorder and tumult, but holy, solemn, calm, grateful emotion."
+        ],
+        "Marvin Vincent": [
+            "Beckoning [\u03ba\u03b1\u03c4\u03b1\u03c3\u03b5\u03b9\u03c3\u03b1\u03c2] . Lit., having shaken downward with his hand, in order to bespeak silence and attention.",
+            "It was a familiar gesture of Paul.",
+            "See ch. Acts 21:40; Acts 26:1."
+        ],
+        "John Calvin": [
+            "For though it were requisite that the miracle should be made known to all, yet will Peter worthily for honor\u2019s sake, have his fellows in office to be certified thereof.",
+            "I do not think that a disciple was advanced to that dignity, and the apostles set aside.",
+            "He sought a place which was not so much suspected of the enemy, and that he might not only save himself, but also his hostess and others."
+        ],
+        "Philip Schaff": [
+            "Beckoning onto them with the hand. These are evidently the words of an eye-witness of Peter\u2019s visit to the house of Mary after his escape from prison.",
+            "James the brother of the Lord is here specially mentioned, as he held a peculiar position of authority among the Jerusalem Christians (Acts 15:13).",
+            "The bitter persecution was doubtless stopped after the death of King Herod Agrippa, which took place in the summer of this same year, 44."
+        ],
+        "Archibald T. Robertson": [
+            "Peter was anxious for every precaution and he wanted their instant attention.",
+            "This James the Lord's brother is now the leading presbyter or elder in Jerusalem though there were a number.",
+            "If Peter really left Jerusalem at this time instead of hiding in the city, he probably did some mission work as Paul says that he did."
+        ],
+        "John Gill": [
+            "This is what the Jews call \u05e8\u05de\u05d9\u05d6\u05d4, 'an hint,' which is a beckoning, or making signs, either with the head or hand.\" ",
+            "He ascribes this wonderful deliverance not to the angel, but to the Lord himself.",
+            "He went from Mary's house; 'and went', as the Ethiopic version reads, 'to another house': where another company of saints might be assembled, and where he might be more private and secure."
+        ],
+        "John Wesley": [
+            "He said, Show these things to James - The brother or kinsman of our Lord, and author of the epistle which bears his name.",
+            "He appears to have been a person of considerable weight and importance, probably the chief overseer of that province, and of the Church in Jerusalem in particular.",
+            "He went into another place - Where he might be better concealed till the storm was over."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Peter's miraculous escape from prison, he sought safety and privacy by going to the house of Mary, where James, the brother of the Lord and the leading presbyter of the Jerusalem Church, resided. Peter greeted James and then beckoned for silence and attention, a gesture he often used in his ministry. Peter's actions were not meant to incite clamorous joy, but rather to create a calm and grateful atmosphere for sharing the news of his deliverance. This episode highlights the important role that James played in overseeing the Church in Jerusalem and the prudence of Peter in seeking a safe place where he could continue his mission work until the persecution subsided.",
+            "wordCount": 115,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.16589169402161,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.36,
+            "commentatorTierSimilarities": [
+                37.13,
+                36.27,
+                26.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Peter's miraculous escape from prison, he sought safety and privacy by going to the house of Mary, where James, the brother of the Lord and the leading presbyter of the Jerusalem Church, resided. Peter beckoned for silence and attention, a gesture he often used in his ministry. This episode highlights the important role that James played in overseeing the Church in Jerusalem and the prudence of Peter in seeking a safe place until the persecution subsided.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1832983835005706,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.94,
+            "commentatorTierSimilarities": [
+                38.66,
+                34.04,
+                27.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After Peter's extraordinary deliverance from prison, he found refuge in the house of Mary, under the care of James, the brother of the Lord and the prominent overseer of the Jerusalem Church. Seeking attention and silence, Peter beckoned to the believers, a familiar gesture he used when sharing important news. This incident reveals the significance of James' leadership role and the cautious actions taken by Peter to protect himself and others amidst the ongoing persecution.",
+            "wordCount": 76,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.0167325406013203,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                37.83,
+                33.24,
+                28.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After his miraculous escape from prison, Peter sought refuge at Mary's house, with James, the brother of the Lord, who was serving as the leading presbyter of the Jerusalem Church. Peter, conscious of the need for secrecy, beckoned for silence and attention, using a familiar gesture seen in his previous encounters. This account underscores the important role of James in overseeing the church and highlights Peter's wise decision to avoid putting himself and others at risk by appearing in public.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.0169405712552884,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                39.39,
+                31.68,
+                28.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After his miraculous escape from prison, Peter sought refuge at Mary's house, with James, the brother of the Lord, who was serving as the leading presbyter of the Jerusalem Church. Peter, conscious of the need for secrecy, beckoned for silence and attention, using a familiar gesture seen in his previous encounters. This account underscores the important role of James in overseeing the church and highlights Peter's wise decision to avoid putting himself and others at risk by making a public appearance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.0119053518631818,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
+            "commentatorTierSimilarities": [
+                39.35,
+                31.48,
+                29.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

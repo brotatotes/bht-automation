@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:30:40",
+    "verseRef": "Acts 13:19",
+    "bestBHT": {
+        "bht": "After God had destroyed the seven nations in the land of Canaan, he distributed their land to the Israelites as an inheritance. This distribution was done through the process of casting lots, which allowed each tribe to receive their portion of the land. The four hundred and fifty years mentioned refers to the period from the birth of Isaac to the actual conquest of Canaan. Although these nations were not completely destroyed, they were weakened and subdued, preventing their recovery. The seven nations mentioned were the principal and powerful tribes of Canaan.",
+        "wordCount": 92,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.7496581518682999,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+        "commentatorTierSimilarities": [
+            15.91,
+            40.76,
+            43.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "From the occurrence of manifest references, in these opening verses of the speech, to Deut. i. and Isa. i., combined with the fact that these two chapters form the present lessons in the synagogues on one and the same sabbath, Bengel and Stier conclude that they had been then read.",
+            "It may have been so: but see on ver. 15.",
+            "See Deut. vii. 1; Josh. iii. 10; xxiv. 11."
+        ],
+        "Albert Barnes": [
+            "And when he had destroyed...they were subdued as nations.\" ",
+            "The Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites.\" ",
+            "The lot was often used among the Jews to determine important questions."
+        ],
+        "Marvin Vincent": [
+            "Divided by lot [\u03ba\u03b1\u03c4\u03b5\u03ba\u03bb\u03b7\u03c1\u03bf\u03bd\u03bf\u03bc\u03b7\u03c3\u03b5\u03bd] . The A. V. gives the literal rendering.",
+            "The Rev., gave them their land for an inheritance, is correct, so far as the meaning inheritance is concerned.",
+            "But does not give the sense of distribution which is contained in the word."
+        ],
+        "Philip Schaff": [
+            "Acts 13:19. Seven nations in the land of Chanaan. Compare Deuteronomy 7:1. These \u2018seven\u2019 were the principal and most powerful tribes of Canaan."
+        ],
+        "Archibald T. Robertson": [
+            "When he had destroyed...to tear down, old verb.\" ",
+            "He gave them for an inheritance...to distribute by lot, to distribute as an inheritance.\" ",
+            "The four hundred and fifty years runs therefore from the birth of Isaac to the actual conquest of Canaan and does not cover the period of the Judges."
+        ],
+        "John Gill": [
+            "And when he had destroyed seven nations in the land of Canaan....\" ",
+            "....though they were not utterly destroyed, or everyone of them put to death, or driven out, for some remained to be thorns in the sides of the Israelites; yet they were so wasted and conquered, that they could never recover any more.\" ",
+            "He divided their land to them; every tribe had its portion of it assigned, by lot; see Joshua 14:1."
+        ],
+        "John Wesley": [
+            "Seven nations \u2014 Enumerated Deuteronomy 7:1; about four hundred and fifty years - That is, from the choice of the fathers to the dividing of the land; it was about four hundred and fifty years."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After God had destroyed the seven nations in the land of Canaan, he gave their land as an inheritance to the Israelites. This distribution was done through the process of casting lots, which allowed each tribe to receive their portion of the land. The four hundred and fifty years mentioned here refers to the period from the birth of Isaac to the actual conquest of Canaan, rather than the time of the Judges. Although these nations were not completely annihilated, they were subdued and weakened to the point where they could never regain power. The seven nations mentioned were the principal and most powerful tribes of Canaan.",
+            "wordCount": 107,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.7871888887008347,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.77,
+            "commentatorTierSimilarities": [
+                15.55,
+                41.08,
+                43.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After God had destroyed the seven nations in the land of Canaan, he distributed their land to the Israelites as an inheritance. This distribution was done through the process of casting lots, which allowed each tribe to receive their portion of the land. The four hundred and fifty years mentioned refers to the period from the birth of Isaac to the actual conquest of Canaan. Although these nations were not completely destroyed, they were weakened and subdued, preventing their recovery. The seven nations mentioned were the principal and powerful tribes of Canaan.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7496581518682999,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+            "commentatorTierSimilarities": [
+                15.91,
+                40.76,
+                43.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After God destroyed the seven nations in Canaan, he distributed their land to the Israelites by casting lots. This process ensured that each tribe received their rightful inheritance. The four hundred and fifty years mentioned in this verse refers to the time from the birth of Isaac until the conquest of Canaan, not including the period of the Judges. Although the nations were not completely eradicated, they were sufficiently subdued to prevent their recovery. These seven nations were the most prominent and powerful tribes in Canaan.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7005664157534524,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                16.12,
+                40.04,
+                43.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After God had destroyed the seven nations in Canaan, he distributed their land as an inheritance to the Israelites. This distribution was done by casting lots, ensuring that each tribe received their assigned portion. The mentioned period of four hundred and fifty years refers to the time from Isaac's birth to the actual conquest of Canaan, excluding the period of the Judges. While the nations were not completely eliminated, they were greatly weakened and rendered unable to recover. These seven nations were the most powerful and influential tribes in Canaan.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.70000108476422,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+            "commentatorTierSimilarities": [
+                16.49,
+                39.87,
+                43.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After God destroyed the seven nations in Canaan, he distributed their land to the Israelites as an inheritance. This distribution was facilitated through casting lots, ensuring each tribe received their appointed portion. The four hundred and fifty years mentioned encompasses the time from Isaac's birth to the conquest of Canaan, excluding the period of the Judges. Though not completely eradicated, these nations were greatly weakened and unable to recover. The seven nations were the prominent and powerful tribes of Canaan.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6820015166093765,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                15.55,
+                40.86,
+                43.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:23:01",
+    "verseRef": "Luke 22:28",
+    "bestBHT": {
+        "bht": "Jesus acknowledges the disciples' continued presence and steadfastness in the face of his trials and tribulations. Despite the impending betrayal, Jesus praises their unwavering support and sympathy. They have remained by his side, not faltering in their allegiance, while others have withdrawn. By persevering with Jesus, the disciples not only share in his sufferings but will also partake in his glory. Jesus recognizes their loyalty during his trials, promising them a different kind of fulfillment and honor.",
+        "wordCount": 77,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.674249990803923,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.01,
+        "commentatorTierSimilarities": [
+            25.29,
+            37.59,
+            37.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "28.] These words could hardly have been spoken except on this occasion, when \u201cthe matter concerning me hath an end,\u201d ver. 37."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "28. continued, c.\u2014affecting",
+            "\tevidence of Christ's tender susceptibility to human sympathy and",
+            "\tsupport! (See on :- see",
+            "\tJohn 16:32.)"
+        ],
+        "Albert Barnes": [
+            "My temptations - My trials, my humiliations, and my assaults from the power of Satan and a wicked world."
+        ],
+        "Marvin Vincent": [
+            "Continued [\u03b4\u03b9\u03b1\u03bc\u03b5\u03bc\u03b5\u03bd\u03b7\u03ba\u03bf\u03c4\u03b5\u03c2] . Lit., \"have remained through\" [\u03b4\u03b9\u03b1] ."
+        ],
+        "John Calvin": [
+            "You are they who have continued with me.",
+            "As the apostles had accompanied him, and had remained steadfastly in his temptations, they would also be partakers of his glory.",
+            "I think that he means the contests by which God tried him and the apostles in common."
+        ],
+        "Philip Schaff": [
+            "Our Lord does not reproach them, but praises their steadfastness.",
+            "He speaks of His whole life as one of 'temptations,' in accordance with the Scriptural portrayal of His work on earth."
+        ],
+        "Archibald T. Robertson": [
+            "This is the tragedy of the situation when Jesus is facing the Cross with the traitor at the table and the rest chiefly concerned about their own primacy and dignity.",
+            "In my temptations (\u03b5\u03bd \u03c4\u03bf\u03b9\u03c2 \u03c0\u03b5\u03b9\u03c1\u03b1\u03c3\u03bc\u03bf\u03b9\u03c2 \u03bc\u03bf\u03c5). Probably 'trials' is better here as in James 1:2 though temptations clearly in James 1:13."
+        ],
+        "John Gill": [
+            "Ye are they which have continued with me... in my temptations.\" ",
+            "[They] abode by him, and never departed from him, when others withdrew and walked no more with him.",
+            "He promises both pleasure and honour, though of another sort, than what they were seeking after."
+        ],
+        "John Wesley": [
+            "Ye have continued with me in my temptations \u2014 And all his life was nothing else, particularly from his entering on his public ministry."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse highlights Jesus' acknowledgement of his disciples' faithful companionship throughout the trials and temptations he faced. Despite the imminent betrayal at the table, Jesus commends them for standing by his side. The disciples' unwavering presence is a testament to their support and sympathy for Jesus. They remained steadfast in his tests, trials, and afflictions. Even as others withdrew, these disciples persevered in their allegiance. By remaining with Jesus, they not only shared in his sufferings but would also partake in his glory. Jesus recognizes their loyalty and promises them a different kind of fulfillment and honor.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.648529032794951,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                22.37,
+                38.44,
+                39.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus acknowledges the disciples' continued presence and steadfastness in the face of his trials and tribulations. Despite the impending betrayal, Jesus praises their unwavering support and sympathy. They have remained by his side, not faltering in their allegiance, while others have withdrawn. By persevering with Jesus, the disciples not only share in his sufferings but will also partake in his glory. Jesus recognizes their loyalty during his trials, promising them a different kind of fulfillment and honor.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.674249990803923,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.01,
+            "commentatorTierSimilarities": [
+                25.29,
+                37.59,
+                37.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of impending betrayal, Jesus commends his disciples for their unwavering presence and support during his trials and temptations. While others withdrew, these loyal companions remained steadfastly by his side. By enduring the challenges alongside Jesus, they would not only share in his sufferings but also partake in his forthcoming glory. Despite the tragedy of the situation, Jesus acknowledges the disciples' unwavering allegiance and assures them of a distinct and honorable reward for their steadfastness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.6627127733631668,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                25.05,
+                36.91,
+                38.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus acknowledges the disciples' unwavering presence and support during his trials and temptations. He commends their steadfastness in the midst of impending betrayal, as they remained by his side while others withdrew. By enduring the challenges alongside Jesus, they would share in his sufferings and partake in his forthcoming glory. Jesus recognizes their loyalty and assures them of a distinct and honorable reward for their unwavering commitment.",
+            "wordCount": 67,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5864968533455386,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.09,
+            "commentatorTierSimilarities": [
+                20.82,
+                38.5,
+                40.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of impending betrayal, Jesus recognizes the disciples' steadfast support and sympathy during his trials and temptations. While others withdrew, these faithful companions remained by his side, persevering through the challenges. By enduring alongside Jesus, they not only shared in his sufferings but would also partake in his future glory. Jesus commends their loyalty in the midst of adversity and promises them a unique and honorable reward for their unwavering commitment.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6452636331357113,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.05,
+            "commentatorTierSimilarities": [
+                23.37,
+                38.06,
+                38.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

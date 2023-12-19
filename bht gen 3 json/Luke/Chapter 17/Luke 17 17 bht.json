@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:20:57",
+    "verseRef": "Luke 17:17",
+    "bestBHT": {
+        "bht": "The incident of the ten lepers being cleansed serves as an example of Christ's omniscience, as he knew that only one returned to show gratitude. While the others fulfilled their Jewish duty by going to the priest, they lacked personal gratitude and love. This reflects the reality that many are cleansed by Christ, but only a few truly glorify and give thanks. The small number of faithful believers contrasts with the larger group tainted by corruption. Ingratitude is prevalent, with instances of gratitude being rare, like finding one grateful leper among ten.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 1.1586519022758748,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.87,
+        "commentatorTierSimilarities": [
+            12.61,
+            42.11,
+            45.28
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17, 18. Were there not ten",
+            "\tcleansed\u2014rather, were not the ten cleansed? that is, the",
+            "\twhole of them\u2014an example (by the way) of Christ's omniscience",
+            "\t[BENGEL]."
+        ],
+        "Philip Schaff": [
+            "The incident is prophetic of the reception accorded to Christ by the Jews and heathen respectively.",
+            "Where are the nine? They had doubtless gone to the priest, feeling that this was their chief duty as Jews, and been declared clean.",
+            "Some gratitude they had, but the personal gratitude which takes the form of love they lacked."
+        ],
+        "John Gill": [
+            "They are many, that are cleansed by the blood of Christ; his blood was shed for many, for the remission of sins; and by his righteousness, he justifies many; at least there are many who profess themselves to be cleansed by him, and yet there are but few that glorify him.\" ",
+            "Christ's flock, which is separated from the world, and walks in Gospel order, within the inclosures of it, is but a little flock; they are but a few names in Sardis, who have not defiled themselves, with corruptions in doctrine and discipline.",
+            "Ingratitude is a crime many are guilty of, and it is highly resented by Christ; instances of gratitude are few, but as one in ten."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the ten lepers who were cleansed by Jesus, with only one returning to give thanks. This incident serves as an example of Christ's omniscience, as he knew that only one out of the ten came back to express gratitude. While the other nine fulfilled their duty by going to the priest, they lacked personal gratitude and the love that should have accompanied it. This highlights the sad reality that many are cleansed by the blood of Christ, but only a few truly glorify and express gratitude towards him. It also reflects the small number of true believers within Christ's flock, who remain faithful amidst corruption and defilement. Ingratitude is a prevalent and heavily frowned upon offense, with instances of gratitude being rare, much like the one grateful leper in a group of ten.",
+            "wordCount": 139,
+            "quoteTokenProportion": 43.62,
+            "qualityScore": 1.192065816710194,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.98,
+            "commentatorTierSimilarities": [
+                13.74,
+                39.48,
+                46.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The incident where Jesus cleansed the ten lepers serves as an example of his omniscience, as he knew that only one out of the ten returned to express gratitude. While the others fulfilled their duty by going to the priest, they lacked personal gratitude and love. This highlights the sad reality that many are cleansed by Christ but few truly glorify and thank him. It also highlights the small number of faithful believers amidst corruption. Ingratitude is a common offense, with instances of gratitude being rare, like finding one grateful leper among ten.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.1266703077079685,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.81,
+            "commentatorTierSimilarities": [
+                13.23,
+                41.24,
+                45.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The incident of the ten lepers being cleansed by Jesus exemplifies his omniscience, as he knew that only one out of the ten returned to express gratitude. Despite fulfilling their duty by going to the priest, the nine lacked personal gratitude and love. This reflects the reality that many are cleansed by Christ but few truly glorify and thank him. It also highlights the scarcity of faithful believers amidst corruption. Ingratitude is a prevalent offense, while instances of gratitude are rare, akin to finding one thankful leper among ten.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.1013666847622496,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.96,
+            "commentatorTierSimilarities": [
+                12.73,
+                40.66,
+                46.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The incident of the ten lepers being cleansed serves as an example of Christ's omniscience, as he knew that only one returned to show gratitude. While the others fulfilled their Jewish duty by going to the priest, they lacked personal gratitude and love. This reflects the reality that many are cleansed by Christ, but only a few truly glorify and give thanks. The small number of faithful believers contrasts with the larger group tainted by corruption. Ingratitude is prevalent, with instances of gratitude being rare, like finding one grateful leper among ten.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.1586519022758748,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.87,
+            "commentatorTierSimilarities": [
+                12.61,
+                42.11,
+                45.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The cleansing of the ten lepers by Jesus showcases his omniscience, as he knew that only one returned to offer gratitude. Although the others fulfilled their duty by seeking the priest, they lacked personal thankfulness and love. This highlights the reality that while many are cleansed by Christ, only a few truly glorify and appreciate him. It also draws attention to the scarcity of faithful followers amidst the world's corruption. Ingratitude prevails, with acts of gratitude being uncommon, similar to finding one grateful leper among ten.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.0435698018874353,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.04,
+            "commentatorTierSimilarities": [
+                12.16,
+                42.04,
+                45.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

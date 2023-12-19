@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:18:46",
+    "verseRef": "Galatians 4:26",
+    "bestBHT": {
+        "bht": "The heavenly Jerusalem, representing the Messianic theocracy, is free and serves as the mother of believers, like Sarah. This relationship is assumed by Christians, emphasizing the gospel's freedom from sin and religious customs. Though Paul utilizes the idea of the heavenly Jerusalem, he does not fully endorse the rabbinical teachings. The true Church of God, the spiritual Jerusalem, reflects honor and credit, providing spiritual nourishment to believers. It is the birthplace of those who bear the image of the heavenly one and seek things above.",
+        "wordCount": 86,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 2.206572220853163,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.71,
+        "commentatorTierSimilarities": [
+            32.79,
+            36.09,
+            31.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Jerusalem above is free, which is our mother.",
+            "The heavenly Jerusalem, the new Jerusalem, The expression here will mean, 'the Messianic theocracy, which before the coming of Christ, is the Church, and after it Christ's Kingdom of glory.'",
+            "The emphasis is not on our; nay rather it stands in the least emphatic place, as indicating a relation taken for granted by Christians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "One from Mount Sinai,\" namely, the other covenant from the heavenly mount above, which is (answers in the allegory to) Sarah.",
+            "New Jerusalem, which cometh down out of heaven from my God\" Here \"the Messianic theocracy, which before Christ's second appearing is the Church, and after it, Christ's kingdom of glory.",
+            "Free\u2014as Sarah was; opposed to 'she is in bondage'"
+        ],
+        "Albert Barnes": [
+            "But Jerusalem which is above - The spiritual Jerusalem; the true church of God.",
+            "The word rendered 'above' means properly 'up above,' that which is above; and hence, heavenly, celestial.",
+            "The spirit of the gospel is that of freedom. It is freedom from sin, freedom from the bondage of rites and customs, and it tends to promote universal freedom."
+        ],
+        "John Calvin": [
+            "The heavenly Jerusalem, which derives its origin from heaven, and dwells above by faith, is the mother of believers.",
+            "To the Church, under God, we owe it that we are 'born again, not of corruptible seed, but of incorruptible,' and from her we obtain the milk and the food by which we are afterwards nourished.",
+            "This designation, 'the mother of us all,' reflects the highest credit and the highest honor on the Church."
+        ],
+        "Philip Schaff": [
+            "But the Jerusalem which is above (or, the upper Jerusalem) is free; and she is our mother (mother of us).",
+            "The other covenant, that which is represented by Sarah and her believing offspring, is the true or heavenly Jerusalem, that is not (as the rabbinical teachers imagined) an actual material city in heaven (the exact counterpart of the earthly Jerusalem), but a spiritual city.",
+            "The word \u2018above,\u2019 therefore is not local, but ethical and spiritual; as in the phrase, \u2018the kingdom of heaven,\u2019 to be born \u2018from above.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The Jerusalem that is above (\u03b7 \u03b1\u03bd\u03c9 \u0399\u03b5\u03c1\u03bf\u03c5\u03c3\u03b1\u03bb\u03b7\u03bc).",
+            "Paul uses the rabbinical idea that the heavenly Jerusalem corresponds to the one here to illustrate his point without endorsing their ideas.",
+            "He uses the city of Jerusalem to represent the whole Jewish race (Vincent)."
+        ],
+        "John Gill": [
+            "The church in general, under the Gospel, may be, as it often is, called Jerusalem, because of its name, the vision of peace; being under the government of the Prince of peace.\" ",
+            "The Gospel church state consists of persons, who, in general, are the elect of God, among whom the Lord dwells, as in his temple.",
+            "This heavenly Jerusalem, or Gospel church state, chiefly consists of persons born from above, called with a heavenly calling, and who bear the image of the heavenly one, whose conversation is in heaven, who are seeking things above, and in a little time will be there themselves."
+        ],
+        "John Wesley": [
+            "The other covenant is derived from Jerusalem that is above, which is free - Like Sarah from all inward and outward bondage.",
+            "Like Sarah from all inward and outward bondage.",
+            "All who believe in Christ, are free citizens of the New Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that the heavenly Jerusalem represents the Messianic theocracy, both as the Church before Christ's coming and as Christ's kingdom of glory afterwards. This heavenly Jerusalem is free and can be seen as the mother of believers, similar to Sarah. The emphasis is not on our, as this relationship is assumed by Christians. It is important to note that Paul utilizes the concept of the heavenly Jerusalem without fully endorsing the rabbinical ideas. The spiritual Jerusalem, the true Church of God, represents the freedom that comes from the gospel and the liberation from sin and religious customs. Ultimately, the heavenly Jerusalem is the mother of all believers, sustaining them with spiritual nourishment and reflecting great honor and credit upon the Church.",
+            "wordCount": 125,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 2.381279955207356,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.52,
+            "commentatorTierSimilarities": [
+                34.11,
+                35.43,
+                30.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The heavenly Jerusalem, representing the Messianic theocracy, is free and serves as the mother of believers, like Sarah. This relationship is assumed by Christians, emphasizing the gospel's freedom from sin and religious customs. Though Paul utilizes the idea of the heavenly Jerusalem, he does not fully endorse the rabbinical teachings. The true Church of God, the spiritual Jerusalem, reflects honor and credit, providing spiritual nourishment to believers. It is the birthplace of those who bear the image of the heavenly one and seek things above.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.206572220853163,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.71,
+            "commentatorTierSimilarities": [
+                32.79,
+                36.09,
+                31.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The heavenly Jerusalem, representing the Messianic theocracy, is our mother and is free, just as Sarah was. This spiritual Jerusalem is the true church, promoting freedom from sin and religious bondage. Paul uses this idea but does not endorse the rabbinical teachings. The Church, under God, is the mother of believers, offering nourishment and spiritual sustenance. It reflects great honor and credit, as it consists of those who are born again, seeking heavenly things, and who bear the image of the heavenly one.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.107064682446314,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+            "commentatorTierSimilarities": [
+                31.41,
+                35.47,
+                33.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The heavenly Jerusalem is our mother, representing the Messianic theocracy, which is free and liberated, just as Sarah was. This spiritual Jerusalem, the true church, brings freedom from sin and religious bondage. Paul acknowledges this concept without fully endorsing rabbinical teachings. The Church, under God, is the mother of believers, providing nourishment and sustaining them in their faith. This title reflects honor and credit upon the Church, as it consists of those born again, seeking heavenly things, and reflecting the image of the heavenly one.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.054496392937331,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+            "commentatorTierSimilarities": [
+                31.59,
+                34.17,
+                34.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The heavenly Jerusalem, serving as our mother, symbolizes the Messianic theocracy and is associated with freedom, similar to Sarah. This spiritual Jerusalem represents the true church, offering a release from sin and the bondage of religious customs. Paul borrows from the rabbinical idea but does not fully endorse it. The Church, as our mother, plays a crucial role in our spiritual rebirth and sustenance. This designation reflects honor upon the Church, consisting of those who bear the heavenly image and seek heavenly things.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.9931492939089548,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                31.98,
+                35.31,
+                32.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

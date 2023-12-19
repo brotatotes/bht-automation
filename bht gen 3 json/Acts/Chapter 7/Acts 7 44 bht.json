@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:27:45",
+    "verseRef": "Acts 7:44",
+    "bestBHT": {
+        "bht": "The tabernacle mentioned illustrates that holiness transcends physical boundaries. Known as the tabernacle of witness, it symbolized God's presence among the Israelites. Constructed according to a divine model shown to Moses, it demonstrated God's endorsement. Its existence exacerbated the Israelites' idolatry, emphasizing true worship grounded in God's commandments and spiritual truth. The tabernacle of witness functioned as a tangible representation of God's law and His relationship with His people. By comparing it to the tabernacle of Moloch, Stephen highlights its superior sanctity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 24.14,
+        "qualityScore": 2.0186497748289485,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.46,
+        "commentatorTierSimilarities": [
+            20.15,
+            42.96,
+            36.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to shew that holiness is not confined to locality or building",
+            "the tabernacle of witness",
+            "the fashion"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "44. Our fathers had the tabernacle",
+            "\tof witness in the wilderness\u2014which aggravated the guilt of that",
+            "\tidolatry in which they indulged, with the tokens of the divine",
+            "\tpresence constantly in the midst of them."
+        ],
+        "Albert Barnes": [
+            "The tabernacle of witness - The 'tent' or 'tabernacle' which Moses was commanded to make. It was called a tabernacle of 'witness,' or of 'testimony,' because it was the visible witness or proof of God\u2019s presence with them...",
+            "The name is given either to the 'tent,' to the two tables of stone, or to the ark; all of which were 'witnesses,' or 'evidences' of God\u2019s relation to them as their Lawgiver and guide.",
+            "According to the fashion ... - According to the pattern that was shown to him, by which it was to be made, Exodus 25:9, Exodus 25:40; Exodus 26:30. As God showed him 'a pattern,' it proved that the tabernacle had his sanction."
+        ],
+        "John Calvin": [
+            "For seeing they were well taught what was the right way and order of worshipping God, all cloak and color of ignorance was taken away.",
+            "Therefore God would have the tabernacle to be made like unto the heavenly figure, that the Jews might know that they were not to stay still in the external figures.",
+            "Therefore, as we have said, that God alloweth no worship but that which is grounded in his commandment, so we are taught here that it is requisite in the right use of the commandment, that the spiritual truth be present."
+        ],
+        "Philip Schaff": [
+            "The mention of this Tabernacle of Moloch reminds Stephen that he has not yet spoken of the true Tabernacle, where the Eternal had borne witness of Himself.",
+            "The superior sanctity of the primitive Tabernacle to the Temple, which afterwards rose in all its stately beauty, is here suggested.",
+            "The old Tabernacle which has disappeared was fashioned after a pattern given to Moses in the mount by the Eternal and His angels."
+        ],
+        "Archibald T. Robertson": [
+            "Stephen passes on from the conduct of the Israelites to his other argument that God is not necessarily worshipped in a particular spot.",
+            "According to the type or pattern. \u03a4\u03c5\u03c0\u03bf\u03c2 is from \u03c4\u03c5\u03c0\u03c4\u03c9, to strike, to smite, and is the print of the blow, then the figure formed by a blow or impression, like our type, a model or example.",
+            "That he had seen. Past perfect active of \u03bf\u03c1\u03b1\u03c9, to see."
+        ],
+        "John Gill": [
+            "Our fathers had the tabernacle of witness in the wilderness...of Sinai.",
+            "It is sometimes called Ohel Moed, or 'the tabernacle of the congregation'...because the people of Israel gathered together, and God met with them.",
+            "This tabernacle...was among the Jewish fathers whilst they were in the wilderness; and is mentioned as an aggravation of their sin, that they should now, or afterwards, take up and carry the tabernacle of Moloch."
+        ],
+        "John Wesley": [
+            "Our fathers had the tabernacle of the testimony.",
+            "The testimony was properly the two tables of stone, on which the ten commandments were written.",
+            "The tabernacle of the testimony...according to the model which he had seen."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse shows that holiness is not limited to a specific location or building. The tabernacle mentioned in the verse, known as the tabernacle of witness, served as a physical representation of God's presence among the Israelites. It was made according to a divine pattern shown to Moses on Mount Sinai. The mention of this tabernacle serves as a contrast to the idolatry of the Israelites, highlighting their guilt in worshipping false gods despite having a tangible symbol of God's presence among them. This emphasizes the importance of true worship, grounded in God's commandments and spiritual truth. The tabernacle of witness was a physical representation of God's law, signifying His relationship with His people.",
+            "wordCount": 118,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 1.9752901837407402,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+            "commentatorTierSimilarities": [
+                19.78,
+                43.21,
+                37.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The holiness of God is not confined to a specific place or structure. The tabernacle mentioned in Acts 7:44, known as the tabernacle of witness, was a tangible proof of God's presence among the Israelites. It was made according to a divine pattern shown to Moses, signifying God's approval. The presence of this tabernacle further highlights the guilt of the Israelites in their idolatry. This serves as a reminder of the importance of true worship, grounded in God's commandments and spiritual truth.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.9251307822777628,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                20.53,
+                42.63,
+                36.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tabernacle mentioned in the passage serves as a testament that holiness is not confined to a particular locality or building. It was known as the tabernacle of witness, and its purpose was to provide a visible demonstration of God's presence among the Israelites. This tabernacle was carefully fashioned according to a divine pattern given to Moses, symbolizing God's approval. The mention of this tabernacle signifies the Israelites' guilt in turning to idolatry despite having the tokens of divine presence in their midst. This emphasizes the importance of true worship, grounded in God's commandments and spiritual truth.",
+            "wordCount": 100,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 2.013758051477208,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.3,
+            "commentatorTierSimilarities": [
+                19.77,
+                43.47,
+                36.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tabernacle mentioned in the verse shows that holiness is not confined to a specific place or building. It served as a tangible witness of God's presence among the Israelites in the wilderness. Made according to a divine pattern, the tabernacle symbolized God's approval and underscored the guilt of the Israelites in their idolatry. This highlights the significance of true worship rooted in God's commandments and spiritual truth, rather than external forms. The tabernacle of witness was a powerful reminder of God's relationship with His people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.001703487503211,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.9,
+            "commentatorTierSimilarities": [
+                20.7,
+                42.38,
+                36.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tabernacle mentioned illustrates that holiness transcends physical boundaries. Known as the tabernacle of witness, it symbolized God's presence among the Israelites. Constructed according to a divine model shown to Moses, it demonstrated God's endorsement. Its existence exacerbated the Israelites' idolatry, emphasizing true worship grounded in God's commandments and spiritual truth. The tabernacle of witness functioned as a tangible representation of God's law and His relationship with His people. By comparing it to the tabernacle of Moloch, Stephen highlights its superior sanctity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 2.0186497748289485,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.46,
+            "commentatorTierSimilarities": [
+                20.15,
+                42.96,
+                36.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

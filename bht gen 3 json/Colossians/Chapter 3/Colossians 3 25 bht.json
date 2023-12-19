@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:21:50",
+    "verseRef": "Colossians 3:25",
+    "bestBHT": {
+        "bht": "Believers are called to serve the Lord Christ and leave their wrongs in His hands to bring justice. They are assured that the wrongdoer will receive back the wrong they have done, with no partiality shown. There is no favoritism with God, as He regards both the rich and the poor, the master and the servant, with equal fairness. This highlights God's commitment to avenging all injustices in due time, ensuring that everyone receives what they deserve.",
+        "wordCount": 78,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.9125481622570493,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+        "commentatorTierSimilarities": [
+            35.06,
+            33.97,
+            30.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "regard Christ as their Master, and serve Him\u2014seeing that all their wrongs in this world, if they leave them in His hands, will be in due time righted by Him, the just judge, with whom there is no respect of persons.",
+            "For he that doeth wrong shall receive...that which he did wrongfully...and there is not respect of persons.",
+            "So that in your Christian uprightness and conscientiousness you need not fear that you shall be in the end overborne by the superior power of your masters: there is a judge who will defend and right you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Serve ye the Lord Christ, and leave your wrongs in His hands to put to rights.",
+            "For he that doeth wrong shall receive back the wrong which he hath done, and there is no respect of persons.",
+            "He favors the master no more than the slave."
+        ],
+        "Marvin Vincent": [
+            "If the slave do wrong, he shall be punished; but the master who does wrong will not be excused, for there is no respect of persons.",
+            "Shall receive.",
+            "Respect of persons. In the Old Testament it has, more commonly, a good sense, of kindly reception, favorable regard. In the New Testament always a bad sense, which came to it through the meaning of mask which attached to proswpon face."
+        ],
+        "Philip Schaff": [
+            "But it is disputed whether it is to be applied to the conduct of the masters, or to the servants also. In the former case, it encourages the servants by the fact that their wrongs will be righted; in the latter, it includes the wrong-doing of the servants, their unfaithfulness, as well as the harsh, injurious treatment they suffered.",
+            "Men often talk and act as though God always took the part of the poor and of the laboring class. Yet this view makes Him a respecter of persons.",
+            "But, as God has proven the adaptation of the gospel for all human relations, He will solve these problems also by means of the same gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Shall receive again for the wrong that he hath done... and it is fair and square.\" ",
+            "There is no respect of persons... with men, but not with God.",
+            "This is a general law of life and of God."
+        ],
+        "John Gill": [
+            "God will avenge all such injuries, sooner or later.",
+            "He regards not the rich more than the poor; he makes no difference between bond and free, the servant and the master.",
+            "He will do that which is just and right with regard to them both."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Colossians 3:25, believers are urged to serve the Lord Christ, trusting that He will right the wrongs done to them. They should not fear being overpowered by their masters, for there is a just judge who will defend and vindicate them. This passage emphasizes the accountability and impartiality of God, who does not show favoritism but administers justice to both the wrongdoer and the one wronged. It is a reminder that God will ultimately avenge all injuries, making no distinction between rich and poor, servant and master.",
+            "wordCount": 87,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.9893276765455674,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.49,
+            "commentatorTierSimilarities": [
+                32.37,
+                34.83,
+                32.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are encouraged in their service to regard Christ as their Master, entrusting their wrongs to His righteous judgment. They need not fear being overborne by their masters, for there is a judge who will defend and right them. This verse highlights God's impartiality, showing that there is no favoritism between rich and poor, servant and master. It assures that God will avenge all wrongs, ensuring justice is served for both the wrongdoer and the one wronged.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.9160724151094193,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                33.88,
+                33.51,
+                32.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are called to serve the Lord Christ and leave their wrongs in His hands to bring justice. They are assured that the wrongdoer will receive back the wrong they have done, with no partiality shown. There is no favoritism with God, as He regards both the rich and the poor, the master and the servant, with equal fairness. This highlights God's commitment to avenging all injustices in due time, ensuring that everyone receives what they deserve.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9125481622570493,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                35.06,
+                33.97,
+                30.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are urged to serve the Lord Christ and trust that He will right the wrongs done to them. There is no need to fear being overborne by their masters, for there is a just judge who will defend and right them. This passage emphasizes the impartiality of God, who does not show respect of persons. It assures that God will avenge all injuries, making no distinction between rich and poor, servant and master.",
+            "wordCount": 74,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.022296823008042,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.58,
+            "commentatorTierSimilarities": [
+                33.97,
+                33.56,
+                32.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers in Christ are admonished to consider Him as their Master and faithfully serve Him. They are reassured that any wrongs they encounter in this world will be justly addressed by Him, the righteous judge who shows no partiality. By leaving their grievances in His hands, they can trust in His ability to right the wrongs inflicted upon them. This verse underscores the principle that both the wrongdoer and the one wronged will receive just recompense, highlighting the impartiality of God in His divine judgment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9425056605442486,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                35.35,
+                37.77,
+                26.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

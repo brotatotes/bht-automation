@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:14:11",
+    "verseRef": "Luke 2:22",
+    "bestBHT": {
+        "bht": "After the forty days of purification, Mary and Joseph brought Jesus to Jerusalem to present Him to the Lord. As the first-born son, Jesus was claimed as holy to the Lord, set apart for sacred purposes. It is significant to note that although Mary and Jesus were not truly unclean, they still adhered to the law in humble obedience. This act of presenting the first-born to God serves as a reminder of the deliverance of the first-born of Israel from destruction in Egypt and points to the future redemption through the precious blood of Christ.",
+        "wordCount": 98,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.1371190709878274,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+        "commentatorTierSimilarities": [
+            28.68,
+            40.03,
+            31.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reading his is remarkable, and hardly likely to have been a correction.",
+            "Bengel denies that either the Lord or His mother wanted purification.",
+            "John ii. 6 is certainly no case in point."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The days\" of this purification for a male child were forty in all, on the expiry of which the mother was required to offer a lamb for a burnt offering, and a turtle dove or a young pigeon for a sin offering.",
+            "Being a first-born male, they \"bring him to Jerusalem, to present him to the Lord.\" All such had been claimed as \"holy to the Lord,\" or set apart to sacred uses, in memory of the deliverance of the first-born of Israel from destruction in Egypt, through the sprinkling of blood.",
+            "By that Babe, in due time, we were to be redeemed, \"not with corruptible things as silver and gold, but with the precious blood of Christ."
+        ],
+        "Albert Barnes": [
+            "Among the Hebrews a mother was required to remain at home for about forty days after the birth of a male child and about eighty for a female, and during that time she was reckoned as impure.\" ",
+            "Every first-born male child among the Jews was regarded as 'holy' to the Lord, Exodus 13:2. By their being 'holy unto the Lord' was meant that unto them belonged the office of 'priests.'",
+            "God chose 'the tribe of Levi in the place' of the eldest sons, to serve him in the sanctuary, Numbers 8:13-18. Yet still it was proper to present the child to God, and it was required that it should be done with an offering."
+        ],
+        "Marvin Vincent": [
+            "The mother of a child was levitically unclean for forty days after the birth of a son, and for eighty days after the birth of a daughter.",
+            "Women on this errand commonly rode to the temple on oxen; that the body of so large a beast between them and the ground might prevent any chance of defilement from passing over a sepulchre on the road.",
+            "The first born son of every household must be redeemed of the priest at the price of five shekels of the sanctuary; about two dollars and fifty cents."
+        ],
+        "John Calvin": [
+            "It ought not to appear strange, if the fountain of purity, in order to wash away our stains, chose to be reckoned unclean.\" ",
+            "This law is of itself abundantly sufficient to prove original sin, while it contains a striking proof of the grace of God.",
+            "Hence we ought to learn, how dreadful is the contagion of sin, which defiles, in some measure, the lawful order of nature."
+        ],
+        "Philip Schaff": [
+            "Their purification. This refers to Mary and Joseph, rather than to Mary and the child.",
+            "The presence of Joseph was required by the law respecting the redemption of the first-born.",
+            "The ceremonial uncleanness...affected the husband."
+        ],
+        "Archibald T. Robertson": [
+            "The mother was Levitically unclean for forty days after the birth of a son.",
+            "Every first-born son was thus redeemed by the sacrifice as a memorial of the sparing of the Israelitish families.",
+            "The cost was about two dollars and a half in our money."
+        ],
+        "John Gill": [
+            "Though Mary was not polluted by the conception, bearing, and bringing forth of Jesus, that holy thing born of her; yet inasmuch as she was in the account of the law clean; and though Jesus had no impurity in his nature, yet seeing he was made sin for his people, both came under this law of purification.",
+            "But though the time of her purifying was upon the fortieth day, yet it was not till the day following that she came to the temple with her offering.",
+            "And here Mary appeared with her firstborn son, the true Messiah; and this was the first time of his coming into his temple."
+        ],
+        "John Wesley": [
+            "The days \u2014 The forty days prescribed, Leviticus 12:2,4."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon the expiration of the forty days of the mother's purification after the birth of a son, Mary and Joseph brought Jesus to Jerusalem to present Him to the Lord. This act of presenting the first-born son to the Lord was done in remembrance of the deliverance of the first-born of Israel from destruction in Egypt. As the first-born male, Jesus was claimed as holy to the Lord, set apart for sacred purposes. It is significant to note that although Mary and Jesus were not truly unclean, they still humbled themselves under the law, demonstrating the dreadfulness of sin and the need for redemption.",
+            "wordCount": 108,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.2477375921484732,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+            "commentatorTierSimilarities": [
+                29.32,
+                39.38,
+                31.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After forty days, Mary and Joseph took Jesus to Jerusalem to present Him to the Lord, as was prescribed for all first-born males. Even though Mary and Jesus were not truly unclean, they adhered to the law in humble obedience. This act of presenting the first-born to God was a reminder of how the first-born of Israel were spared in Egypt. It emphasizes the need for redemption and the significance of Jesus, who would later redeem us with His precious blood.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.0603250374956037,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
+            "commentatorTierSimilarities": [
+                29.28,
+                40.03,
+                30.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the forty days of purification, Mary and Joseph brought Jesus to Jerusalem to present Him to the Lord. As the first-born male, Jesus was holy to the Lord. Although Mary and Jesus were not truly unclean, they fulfilled the law's requirements in their humble obedience. This act of presenting the first-born to God served as a symbol of the deliverance of the first-born of Israel from destruction in Egypt. It reminds us of the future redemption that would come through the precious blood of Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9955184724311787,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                29.25,
+                40.18,
+                30.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After forty days, Mary and Joseph took Jesus to Jerusalem to present Him to the Lord, as required by the law. This act of presenting the first-born to God served as a reminder of the deliverance of the first-born of Israel from destruction in Egypt. It was a symbol of Jesus being set apart as holy to the Lord, a foreshadowing of His role as the sacrificial Lamb who would redeem us with His precious blood. Mary and Jesus, though not truly unclean, fulfilled the law in humble obedience.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0643050264881486,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.98,
+            "commentatorTierSimilarities": [
+                29.03,
+                38.73,
+                32.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the forty days of purification, Mary and Joseph brought Jesus to Jerusalem to present Him to the Lord. As the first-born son, Jesus was claimed as holy to the Lord, set apart for sacred purposes. It is significant to note that although Mary and Jesus were not truly unclean, they still adhered to the law in humble obedience. This act of presenting the first-born to God serves as a reminder of the deliverance of the first-born of Israel from destruction in Egypt and points to the future redemption through the precious blood of Christ.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.1371190709878274,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+            "commentatorTierSimilarities": [
+                28.68,
+                40.03,
+                31.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

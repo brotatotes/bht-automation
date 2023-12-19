@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:38:31",
+    "verseRef": "2 Thessalonians 3:3",
+    "bestBHT": {
+        "bht": "The Lord's faithfulness stands in stark contrast to the faithlessness of others. While people may be unreliable, God remains trustworthy and true to His promises. Drawing from the Lord's Prayer, we are reminded of the need to lean on God for protection against the evil one, who actively hinders our noble endeavors. Despite skepticism, we can have assurance in the Lord's faithfulness. Our faith in Him aligns with His dependability towards us, offering solace amidst opposition and instilling confidence that God will shield us from the schemes of the evil one.",
+        "wordCount": 94,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.1305604555013944,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+        "commentatorTierSimilarities": [
+            29.85,
+            39.46,
+            30.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words shew that Paul was anxious for others, rather than for himself.",
+            "But, in contrast with the men just mentioned, the Lord is Christ.",
+            "We may observe that the words are nearly a citation from the Lord\u2019s prayer."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "though many will not believe, the Lord (other very old manuscripts read 'God') is still to be believed in as faithful to His promises",
+            "Faith on the part of man answers to faithfulness on the part of God.",
+            "He has before his mind the Lord's Prayer... 'from the evil one'; the great hinderer of 'every good word and work.'"
+        ],
+        "Albert Barnes": [
+            "Though human beings cannot be trusted, God is faithful to his promises and his purposes.",
+            "Men may be faithless and false, but God never is.",
+            "To a pious mind it affords unspeakably more consolation to reflect that a faithful God is the friend of the cause which we love, than it would were all men, in and out of the church, its friends."
+        ],
+        "Marvin Vincent": [
+            "Possibly, from the evil one.\" ",
+            "General N. T. usage favors the masculine, personal sense.\" ",
+            "The masculine is favored by the Jewish formularies, of which traces appear in the Lord's prayer; by the unanimous tradition of Greek interpreters; by the interpretations of Tertullian and Cyprian, and by the evidence of the Syriac and Sahidic Versions."
+        ],
+        "John Calvin": [
+            "But God is faithful, so as to confirm them against all contrivances of men, by which they will endeavor to shake them.",
+            "There is in God a support that is abundantly secure, so as to keep you from giving way.",
+            "For it were a small thing to be delivered from the cunning or violence of men, if the Lord did not protect us from all spiritual injury."
+        ],
+        "Philip Schaff": [
+            "Men are faithless, but faithful is the Lord.",
+            "Their faithlessness prompts them to hostility; but His faithfulness will alike prevent your faith from failing, and their efforts from being destructive.",
+            "Against the first of these the Lord would protect them by 'stablishing' them; against the second, by 'keeping them from the evil.'"
+        ],
+        "Archibald T. Robertson": [
+            "But faithful is the Lord, with a play on \u03c0\u03b9\u03c3\u03c4\u03b9\u03c2 by \u03c0\u03b9\u03c3\u03c4\u03bf\u03c2 as in Romans 3:3 we have a word-play on \u03b1\u03c0\u03b9\u03c3\u03c4\u03b5\u03c9 and \u03b1\u03c0\u03b9\u03c3\u03c4\u03b9\u03b1.",
+            "The Lord can be counted on, however perverse men may be.",
+            "If masculine here, as is probable, is it 'the Evil One' (Ellicott) or merely the evil man like those mentioned in verse 2 Thessalonians 3:2?"
+        ],
+        "John Gill": [
+            "He has promised many things, and he is faithful that has promised, who also will do them, nor will any good thing he has promised ever fail.",
+            "God will not suffer the righteous to be moved, or to depart from him; he has promised them perseverance, and he is faithful to give it to them.",
+            "For God is faithful, who will not suffer his to be tempted beyond their strength, but will enable them to bear it, and make way for their escape, and deliver out of it; and likewise from evil men, unreasonable and wicked men, so as not to be drawn aside by them, by their principles and practices, by their frowns or flatteries."
+        ],
+        "John Wesley": [
+            "Who will stablish you \u2014 That cleave to him by faith.",
+            "And guard you from the evil one \u2014 And all his instruments."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These words show that even though people may be unfaithful, God is always faithful to His promises. In fact, the Lord is Christ, and He can be trusted no matter what the circumstances may be. The reference to the Lord's Prayer emphasizes the importance of relying on God to protect us from the evil one, who tries to hinder every good word and work. Despite the disbelief of many, the Lord is dependable, and our faith in Him corresponds to His faithfulness to us. So, even when faced with opposition and unbelief, we can find assurance in the fact that God is steadfast and will uphold us, guarding us from the evil one and ensuring that we do not waver in our faith.",
+            "wordCount": 124,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 2.282223786722197,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.22,
+            "commentatorTierSimilarities": [
+                28.77,
+                41.38,
+                29.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In 2 Thessalonians 3:3, the apostle Paul expresses his concern for others, rather than himself. He reminds believers that although people may be unfaithful, the Lord is Christ, and He can always be trusted. The reference to the Lord's Prayer highlights the need to rely on God's faithfulness in protecting us from the evil one, who seeks to hinder our good words and works. Despite disbelief, we can have faith in the Lord, knowing that He is steadfast and will guard us from the evil one's influence.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.25058488424416,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.17,
+            "commentatorTierSimilarities": [
+                32.1,
+                38.66,
+                29.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These words show that even though people may be unfaithful, God is always faithful to His promises. In fact, the Lord is Christ, and He can be trusted no matter what the circumstances may be. The reference to the Lord's Prayer emphasizes the importance of relying on God to protect us from the evil one, who tries to hinder every good word and work. Despite the disbelief of many, the Lord is dependable, and our faith in Him corresponds to His faithfulness to us. So, even when faced with opposition and unbelief, we can find assurance in the fact that God is steadfast and will uphold us, guarding us from the evil one and ensuring that we do not waver in our faith.",
+            "wordCount": 124,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 2.282223786722197,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.22,
+            "commentatorTierSimilarities": [
+                28.77,
+                41.38,
+                29.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord's faithfulness stands in stark contrast to the faithlessness of others. While people may be unreliable, God remains trustworthy and true to His promises. Drawing from the Lord's Prayer, we are reminded of the need to lean on God for protection against the evil one, who actively hinders our noble endeavors. Despite skepticism, we can have assurance in the Lord's faithfulness. Our faith in Him aligns with His dependability towards us, offering solace amidst opposition and instilling confidence that God will shield us from the schemes of the evil one.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.1305604555013944,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                29.85,
+                39.46,
+                30.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though people may be faithless, the Lord is faithful. He can be trusted no matter the circumstances. The Lord's Prayer reminds us to rely on God's faithfulness in safeguarding us from the evil one, who seeks to thwart our good works. Even in the face of disbelief, we can have confidence in the Lord's dependability. Our faith in Him corresponds to His faithfulness to us. Therefore, we can be assured that God will protect us and keep us steadfast, shielding us from the influence of the evil one.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.110118587626336,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.5,
+            "commentatorTierSimilarities": [
+                28.78,
+                41.8,
+                29.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

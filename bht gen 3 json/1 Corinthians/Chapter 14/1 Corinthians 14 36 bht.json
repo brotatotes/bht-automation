@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:13:27",
+    "verseRef": "1 Corinthians 14:36",
+    "bestBHT": {
+        "bht": "Is your church the first and only church from which the gospel word came? Should you not conform to the customs and rules of older churches? Let there be no ambition, obstinacy, pride, or contempt for other churches, but rather a desire to edify. The word of God did not come out from you alone. Consider the practices of other churches and conform to them. Your church is not the only one with the word of God, gifts, and prophesying. Conform to the customs of all the churches.",
+        "wordCount": 88,
+        "quoteTokenProportion": 56.86,
+        "qualityScore": 2.011729830346419,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+        "commentatorTierSimilarities": [
+            25.46,
+            34.89,
+            39.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This question seems to refer to all the points of church custom which he has been noticing...",
+            "...and to be inseparably connected with what follows\u2014the recognition of his apostolic orders...",
+            "...as those of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Are you about to obey me?",
+            "Or, if you set up your judgment above that of other churches.",
+            "I wish to know, do you pretend that your church is the first church from which the gospel word came?"
+        ],
+        "Albert Barnes": [
+            "Is the church at Corinth the 'mother church?' You have adopted customs which are unusual.",
+            "Should you not rather be conformed to them, and observe the rules of the churches which are older than yours?",
+            "Others, therefore, have the same right as you to originate customs and special habits; and as this would be attended with confusion and disorder, you should all follow the same rule."
+        ],
+        "John Calvin": [
+            "Did the word of God come out from you?",
+            "No Church should be taken up with itself exclusively, to the neglect of others...",
+            "Let there be nothing of ambition \u2014 let there be nothing of obstinacy \u2014 let there be nothing of pride and contempt for other Churches \u2014 let there be, on the other hand, a desire to edify \u2014 let there be moderation and prudence."
+        ],
+        "Philip Schaff": [
+            "What? was it for you that the word of God went forth, or came it unto you alone?\" ",
+            "Do other churches need to learn of you how God would have the services of His Church conducted?"
+        ],
+        "John Gill": [
+            "The word of the Lord came out of Zion, and the law or doctrine of the Lord, the word of the Gospel, the doctrine of the grace of God, came out of Jerusalem.",
+            "It would be right to consider what was the practice of the churches in Judea... and to conform thereunto.",
+            "Why should they be singular and different from all others? Other churches had the word of God, had gifts, and prophesying as well as they, and yet had introduced no such custom."
+        ],
+        "John Wesley": [
+            "Are ye of Corinth either the first or the only Christians? If not, conform herein to the custom of all the churches."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Is your church the first and only church from which the gospel word came? Are you putting your judgment above that of other churches? Should you not conformed to the customs and rules of the older churches? Let there be no ambition, obstinacy, pride, or contempt for other churches. Instead, have a desire to edify, be moderate and prudent. The word of God did not come out from you alone. It would be right to consider the practices of other churches and conform to them. Your church is not the only one with the word of God, gifts, and prophesying. Conform to the customs of all the churches.",
+            "wordCount": 108,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.923326025287409,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.29,
+            "commentatorTierSimilarities": [
+                26.42,
+                34.83,
+                38.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Is your church the first and only church from which the gospel word came? Should you not conform to the customs and rules of older churches? Let there be no ambition, obstinacy, pride, or contempt for other churches, but rather a desire to edify. The word of God did not come out from you alone. Consider the practices of other churches and conform to them. Your church is not the only one with the word of God, gifts, and prophesying. Conform to the customs of all the churches.",
+            "wordCount": 88,
+            "quoteTokenProportion": 56.86,
+            "qualityScore": 2.011729830346419,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                25.46,
+                34.89,
+                39.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Are you setting your judgment above that of other churches? Should your church be considered the first church from which the gospel word came? Instead, conform to the customs and rules of older churches. Let there be no ambition, obstinacy, pride, or contempt for other churches. Desire to edify and show moderation and prudence. Remember, the word of God did not come out from you alone. Consider the practices of other churches and conform to them. Don't be singular and different from all others, but follow the customs of all the churches.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.8531868800688804,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                27.09,
+                34.2,
+                38.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Are you setting your judgment above that of other churches? Should your church be considered the first to receive the gospel word? Instead, conform to the customs of older churches. Let there be no ambition, obstinacy, pride, or contempt for other churches. Desire to edify and show moderation and prudence. Remember, the word of God did not come out from you alone. Consider the practices of other churches and conform to them. Don't be singular and different from all others, but follow the customs of all the churches.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.8356719025503865,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                27.31,
+                33.81,
+                38.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Should your church be considered the first and only church from which the gospel word came? Are you setting your judgment above other churches? Instead, conform to the customs and rules of older churches. Let there be no ambition, obstinacy, pride, or contempt for other churches. Desire to edify and exhibit moderation and prudence. Remember, the word of God did not come out from you alone. Consider the practices of other churches and conform to them. Don't be singular and different from all others; follow the customs of all the churches.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.8413656762726256,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                26.8,
+                34.36,
+                38.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:09:19",
+    "verseRef": "1 Corinthians 9:19",
+    "bestBHT": {
+        "bht": "By willingly subjecting himself to the needs and preferences of others, the apostle Paul enslaved himself to all, not for personal gain, but for the sake of gaining as many souls as possible. He was free from the power of others and instead acted as a faithful steward, understanding that his true reward was in the salvation of souls. Paul's selfless approach and willingness to adapt to different cultures and customs serve as a model for ministers who are dedicated to bringing people to Christ.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.6107438862810466,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+        "commentatorTierSimilarities": [
+            29.05,
+            24.96,
+            46.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I enslaved myself to all, that I might gain the largest number.",
+            "This word, that I might GAIN, is THE ANSWER to the question, 'What is my reward?'",
+            "And it is for this reason that the expression, 'that I might gain,' is three times repeated."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "free from all men\u2014that is, from the power of all men.\" ",
+            "gain the more\u2014that is, as many of them ('all men') as possible.",
+            "Gain' is an appropriate expression in relation to a 'reward'"
+        ],
+        "Albert Barnes": [
+            "I am a freeman. And although I have conducted like a slave, yet it has been done voluntarily.",
+            "I have 'enslaved myself' unto all.",
+            "He complied with their customs, and habits, and feelings, as far as it could lawfully be done. He did not needlessly offend them, or run counter to their prejudices."
+        ],
+        "Marvin Vincent": [
+            "Made myself servant [\u03b5\u03b4\u03bf\u03c5\u03bb\u03c9\u03c3\u03b1] . Rev., brought myself under bondage; better, as bringing out the force of doulov bond - servant, from which the word is derived, and thus according with stewardship, ver. 17.",
+            "Gain [\u03ba\u03b5\u03b4\u03b7\u03c3\u03c9] . Carrying out the thought of servant in ver. 18. 'He refuses payment in money that he may make the greater gain in souls. But the gain is that which a faithful steward makes, not for himself, but for his master' (Edwards).",
+            "The word is not, as Godet, to be limited to its purely natural meaning, but is used in the sense of Matthew 18:15; 1 Peter 3:1."
+        ],
+        "John Calvin": [
+            "The general observation is this \u2014 that while he was not under the power of any one, he lived as if he had been subject to the inclination of all, and of his own accord subjected himself to the weak, to whom he was under no subjection.",
+            "He adds the particle as, to intimate that his liberty was not at all impaired on that account, for, however he might accommodate himself to men, he nevertheless remained always like himself inwardly in the sight of God.",
+            "To become all things is to assume all appearances, as the case may require, or to put on different characters, according to the diversity among individuals."
+        ],
+        "Archibald T. Robertson": [
+            "Voluntary bondage, I enslaved myself to all, though free.\" ",
+            "The more (\u03c4\u03bf\u03c5\u03c2 \u03c0\u03bb\u03b5\u03b9\u03bf\u03bd\u03b1\u03c2). Than he could have done otherwise.\" ",
+            "He refuses payment in money that he may make the greater gain in souls."
+        ],
+        "John Gill": [
+            "Though I be free from all men... yet have I made myself servant unto all... that I might gain the more.\" ",
+            "His end was not to amass wealth, to gain riches and treasures of good things to himself, but many souls to Christ.\" ",
+            "The ministers of the word are spiritual merchants, their traffic lies in the souls of men, whom they are studiously and anxiously careful to bring to Christ."
+        ],
+        "John Wesley": [
+            "I made myself the servant of all \u2014 I acted with as self-denying a regard to their interest, and as much caution not to offend them, as if I had been literally their servant or slave.\" ",
+            "Where is the preacher of the gospel who treads in the same steps?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 9:19, the apostle Paul explains that he has willingly enslaved himself to all in order to gain as many people as possible. He emphasizes the repetition of the phrase that I might gain to emphasize that this is his ultimate reward. By becoming a servant to all, he is free from the power of others and able to gain the more, not in material wealth, but in souls for Christ. Paul's willingness to adapt to different customs and behaviors did not compromise his inner freedom before God. His goal was not selfish gain, but the salvation of many souls. In following Paul's example, ministers of the word become spiritual merchants, diligently seeking to bring people to Christ.",
+            "wordCount": 120,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.5808129720207305,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.9,
+            "commentatorTierSimilarities": [
+                35.04,
+                20.63,
+                44.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By willingly subjecting himself to the needs and preferences of others, the apostle Paul enslaved himself to all, not for personal gain, but for the sake of gaining as many souls as possible. He was free from the power of others and instead acted as a faithful steward, understanding that his true reward was in the salvation of souls. Paul's selfless approach and willingness to adapt to different cultures and customs serve as a model for ministers who are dedicated to bringing people to Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6107438862810466,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                29.05,
+                24.96,
+                46.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul willingly became a servant to all, adapting himself to the needs and customs of others, in order to gain as many souls as possible. He was free from the power of men and saw his reward in the salvation of souls rather than material gain. Paul's selflessness and willingness to embody various roles demonstrate his commitment to bringing people to Christ. Ministers of the word can follow his example, becoming spiritual merchants who diligently seek the salvation of many souls.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6060794272484444,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+            "commentatorTierSimilarities": [
+                31.01,
+                21.38,
+                47.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In order to maximize his impact and bring as many people as possible to Christ, the apostle Paul voluntarily made himself a servant to all. He was not bound by the power of others, but focused on the spiritual gain of souls rather than material riches. Paul's selfless dedication to adapting to the needs of others serves as a powerful example for ministers of the word, who strive to be spiritual merchants, diligently working to bring many souls to Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5871231392211886,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                31.07,
+                17.01,
+                51.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul willingly enslaved himself to all, not seeking personal gain, but desiring to gain as many souls as possible. He was free from the power of men, yet acted as a faithful steward, understanding that his ultimate reward was in the salvation of souls. Paul's example teaches ministers of the word to be spiritual merchants, diligently striving to bring people to Christ, even if it means adapting to different customs and behaviors. His selflessness and dedication continue to inspire others in their ministry.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.5841137084949943,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.01,
+            "commentatorTierSimilarities": [
+                30.27,
+                23.98,
+                45.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

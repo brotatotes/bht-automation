@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:59:30",
+    "verseRef": "1 Thessalonians 2:5",
+    "bestBHT": {
+        "bht": "In his preaching to the Thessalonians, Paul appeals to them as witnesses that he did not use flattering words or cloak his covetousness. Instead, he spoke the truth and never hesitated to declare his honest convictions. Paul sought to please God, not men, attesting to his motives by appealing to God. His integrity was evident as he avoided the sins of flattery, avarice, and compromising the truth in his ministry. The Thessalonians knew this and God bore witness to the sincerity of his heart.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.1224726071741906,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.91,
+        "commentatorTierSimilarities": [
+            30.12,
+            39.77,
+            30.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For neither did we become conversant in speech of flattery, as ye know, nor in pretext of avarice.\" ",
+            "God is witness.",
+            "He appeals to them as witnesses that he did not flatter them; but to God, who alone knows the hearts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "used we flattering words\u2014literally, 'become (that is, have we been found) in (the use of) language of flattery'; the resource of those who try to 'please men.'\" ",
+            "as ye know\u2014'Ye know' as to whether I flattered you; as to 'covetousness,' GOD, the Judge of the heart, alone can be 'my witness.'\" ",
+            "cloak of\u2014that is, any specious guise under which I might cloak 'covetousness.'"
+        ],
+        "Albert Barnes": [
+            "He stated simple truth - not refusing to commend people if truth would admit of it, and never hesitating to declare his honest convictions about their guilt and danger.",
+            "One of the principal arts of the deceiver on all subjects is flattery; and Paul says, that when preaching to the Thessalonians he had carefully avoided it.",
+            "That it is right, on important occasions, to appeal to God for the truth of what we say."
+        ],
+        "Marvin Vincent": [
+            "They had not flattered men's self-complacency so as to blind them to their need of the radical work which the gospel demands.\" ",
+            "Paul means that he had not used his apostolic office to disguise or conceal avaricious designs.\" ",
+            "For testimony to his conduct, he appeals to the Thessalonians (as ye know): for testimony to his motives, he appeals to God."
+        ],
+        "John Calvin": [
+            "There is not a surer attestation than the experience of those with whom we speak.",
+            "He that is desirous to please men must of necessity stoop shamefully to flattery, while he that is intent upon duty with an earnest and upright disposition will keep at a distance from all appearance of flattery.",
+            "The servants of Christ should stand aloof from avarice and ambition, for these are the two sources from which the corruption of the whole ministry takes its rise."
+        ],
+        "Philip Schaff": [
+            "Nor introduces proof that he had not striven to please men; for he who seeks to please men, flatters them, which Paul had not done.",
+            "In Greece some men made handsome incomes by teaching new systems of philosophy; but Paul\u2019s preaching was in no sense a means of making money.",
+            "\u2018The Greek commentators pertinently remark, that, in what men could judge of, he appeals to his readers; but, in what they could not so distinctly recognise, he appeals to God\u2019 (Ellicott)."
+        ],
+        "Archibald T. Robertson": [
+            "An Epicurean, Philodemus, wrote a work \u03a0\u03b5\u03c1 \u039a\u03bf\u03bb\u03b1\u03ba\u03b5\u03b9\u03b1\u03c2 (Concerning Flattery).",
+            "Pretext of greediness is Frame's translation.",
+            "In a preacher this sin is especially fatal."
+        ],
+        "John Gill": [
+            "They did not connive at the sins of men, cry Peace, Peace, when there was none, or sow pillows under their armholes, or promise them life, though they should not return from their wicked way; but they with great freedom inveighed against the sins of men, and exhorted them to repentance and reformation.",
+            "They did not blend and mix their doctrine to suit with the tastes of different men, but with all sincerity and plainness preached the truth, as it is in Jesus.",
+            "They did not pretend one thing and mean another; they did not, as the false apostles did, pretend to serve Christ, preach his Gospel, seek the glory of God and the good of souls, and mean themselves, and design their own worldly advantage."
+        ],
+        "John Wesley": [
+            "Flattering words \u2014 This ye know.",
+            "Nor a cloak of covetousness \u2014 Of this God is witness.",
+            "He calls men to witness an open fact; God, the secret intentions of the heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For neither did we become conversant in speech of flattery, as ye know, nor in pretext of avarice. In his preaching to the Thessalonians, Paul appeals to them as witnesses that he did not use flattering words or cloak his covetousness. Instead, he spoke the simple truth, never hesitating to declare his honest convictions about guilt and danger. Paul emphasizes that he sought to please God, not men, and he attests to his motives by appealing to God. He stood firm against the corruption of the ministry, avoiding the sins of flattery, avarice, and compromising the truth. The Thessalonians knew this, and God knew the sincerity of Paul's heart.",
+            "wordCount": 110,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.0719727864802975,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.23,
+            "commentatorTierSimilarities": [
+                31.38,
+                39.98,
+                28.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For neither did we become conversant in speech of flattery, as ye know, nor in pretext of avarice. Paul appeals to the Thessalonians as witnesses that he did not use flattering words or cloak his covetousness. Instead, he spoke the truth and never hesitated to declare his honest convictions. He sought to please God, not men, attesting to his motives by appealing to God. Paul stood against the corruption of ministry, avoiding the sins of flattery, avarice, and compromising the truth, which the Thessalonians knew and God could witness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.1122428729945977,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                33.02,
+                37.16,
+                29.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his preaching to the Thessalonians, Paul appeals to them as witnesses that he did not use flattering words or cloak his covetousness. Instead, he spoke the truth and never hesitated to declare his honest convictions. Paul sought to please God, not men, attesting to his motives by appealing to God. His integrity was evident as he avoided the sins of flattery, avarice, and compromising the truth in his ministry. The Thessalonians knew this and God bore witness to the sincerity of his heart.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1224726071741906,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.91,
+            "commentatorTierSimilarities": [
+                30.12,
+                39.77,
+                30.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For neither did we become conversant in speech of flattery, as ye know, nor in pretext of avarice. Paul appeals to the Thessalonians as witnesses that he did not use flattering words or cloak his covetousness. Instead, he focused on speaking the truth and declaring his honest convictions. Paul aimed to please God, not men, and his motives were attested by appealing to God. He avoided the corruption of ministry, steering clear of flattery, avarice, and compromising the truth. The Thessalonians were aware of this, and God bore witness to the genuineness of Paul's heart.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.060803269019195,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.86,
+            "commentatorTierSimilarities": [
+                32.29,
+                38.6,
+                29.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For neither did we become conversant in speech of flattery, as ye know, nor in pretext of avarice. Paul appeals to the Thessalonians as witnesses that he did not use flattering words or cloak his covetousness. Instead, he spoke the truth and declared his convictions without compromise. Paul's aim was to please God, not men, and his motives were attested by his appeal to God. He fiercely opposed the corruption of the ministry, staying far from flattery, avarice, and the watering down of truth. The Thessalonians knew this, and God served as a witness to Paul's sincerity.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.0282326408643985,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                32.1,
+                38.56,
+                29.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

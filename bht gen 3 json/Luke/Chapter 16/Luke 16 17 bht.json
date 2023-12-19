@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:20:22",
+    "verseRef": "Luke 16:17",
+    "bestBHT": {
+        "bht": "This passage reveals the unwavering nature of the law, stating that not even the tiniest detail, indicated by the term tittle, will be allowed to pass away or be invalidated. The verse highlights that it would be easier for heaven and earth to perish than for the law to be rendered obsolete. This aligns with Jesus' teaching in Matthew 5:18, reiterating that the Gospel does not abolish the law but rather fulfills it.",
+        "wordCount": 72,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.7512969727367587,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.57,
+        "commentatorTierSimilarities": [
+            18.43,
+            29.4,
+            52.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17. it is easier, &amp;c.\u2014(See",
+            "\ton :-)"
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 5:18."
+        ],
+        "Marvin Vincent": [
+            "Tittle. See on Matthew 5:18. ",
+            "THE PARABLE OF DIVES AND LAZARUS. ",
+            "Peculiar to Luke. 19 - 31."
+        ],
+        "Archibald T. Robertson": [
+            "One tittle (\u03bc\u03b9\u03b1\u03bd \u03ba\u03b5\u03c1\u03b5\u03b1\u03bd). See on Matthew 5:18. "
+        ],
+        "John Gill": [
+            "And it is easier for heaven and earth to pass... than one tittle of the law to fail."
+        ],
+        "John Wesley": [
+            "Not that the Gospel at all destroys the law. Matthew 5:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "According to the commentators, this verse emphasizes the unchanging nature of the law. It explains that not even the smallest details of the law, represented by one tittle, will fail or be abolished. The verse implies that it is easier for heaven and earth to pass away than for the law to be invalidated. This concept aligns with the teaching of Jesus in Matthew 5:18, where he clarifies that the Gospel does not abolish the law but rather fulfills it.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6162089471897276,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.08,
+            "commentatorTierSimilarities": [
+                18.06,
+                25.97,
+                55.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage reveals the unwavering nature of the law, stating that not even the tiniest detail, indicated by the term tittle, will be allowed to pass away or be invalidated. The verse highlights that it would be easier for heaven and earth to perish than for the law to be rendered obsolete. This aligns with Jesus' teaching in Matthew 5:18, reiterating that the Gospel does not abolish the law but rather fulfills it.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.7512969727367587,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.57,
+            "commentatorTierSimilarities": [
+                18.43,
+                29.4,
+                52.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This passage underscores the lasting significance of the law, emphasizing that even the slightest detail, referred to as a tittle, will remain in effect and not be nullified. The verse stresses that it would be simpler for heaven and earth to disappear than for any aspect of the law to be invalidated. Jesus echoes this idea in Matthew 5:18, affirming that the Gospel does not remove the relevance of the law but rather brings it to fulfillment.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.6202877472489057,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.22,
+            "commentatorTierSimilarities": [
+                19.29,
+                25.68,
+                55.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse reinforces the enduring nature of the law, emphasizing that not even the smallest detail, known as a tittle, will be abolished or invalidated. It suggests that it would be easier for heaven and earth to disappear than for the law to fail. This aligns with Jesus' teaching in Matthew 5:18, emphasizing that the Gospel does not annul the law but rather fulfills it.",
+            "wordCount": 64,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 1.6455631077616657,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.06,
+            "commentatorTierSimilarities": [
+                17.46,
+                24.94,
+                57.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This passage affirms the unchanging character of the law, highlighting that even the smallest element, referred to as a tittle, will not be invalidated or abolished. The verse presents the idea that it would be simpler for heaven and earth to vanish than for the law to fail. This notion aligns with Jesus' teaching in Matthew 5:18, conveying that the Gospel does not abolish the law but rather fulfills it.",
+            "wordCount": 69,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.6476966816060634,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                19.12,
+                25.15,
+                55.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

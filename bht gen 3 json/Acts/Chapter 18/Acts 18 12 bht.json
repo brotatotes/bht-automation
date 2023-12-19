@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:33:19",
+    "verseRef": "Acts 18:12",
+    "bestBHT": {
+        "bht": "The encounter between Paul and Gallio, the proconsul of Achaia, is significant. Gallio, known for his beloved and pleasant nature, held court at the judgment seat. The Jews, envious of Paul's success, brought him before Gallio to be judged. While Gallio was a cultivated scholar, his understanding of true worship was lacking. The faithful endure false accusations until they can defend themselves.",
+        "wordCount": 63,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 1.6140747169345828,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.01,
+        "commentatorTierSimilarities": [
+            29.6,
+            38.97,
+            31.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No man on earth is so pleasant to me, as this man is to all.",
+            "Gallio, my brother, whom there is none that does not love a little, even those who have not the power of loving more.",
+            "The judgment seat is mentioned three times in the course of this narrative... Probably here and in the case of Pilate (John xix. 13), the former kind of seat is intended."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12-17. when Gallio was the",
+            "\tdeputy\u2014\"the proconsul.\" See on :-. He was brother to the celebrated philosopher SENECA,",
+            "\tthe tutor of Nero, who passed sentence of death on both."
+        ],
+        "Albert Barnes": [
+            "Gallio was the brother of the celebrated philosopher Seneca, and was made proconsul of Achaia in 53 a.d.",
+            "His proper name was Marcus Annaeus Novatus, but, having been adopted into the family of Gallio, a rhetorician, he took his name.",
+            "His brother Seneca ('Praef. Quest.' Nat. 4) describes him as being of the most lovely temper: 'No mortal,' says he, 'was ever so mild to anyone as he was to all: and in him there was such a natural power of goodness, that there was no semblance of art or dissimulation.'"
+        ],
+        "Marvin Vincent": [
+            "Gallio. Brother of the philosopher Seneca (Nero's tutor), and uncle of the poet Lucan, the author of the 'Pharsalia.' Seneca speaks of him as amiable and greatly beloved.",
+            "Deputy. See on ch. Acts 13:7. The verb, to be deputy, occurs only here.",
+            "Judgment - seat. See on ch. Acts 7:5."
+        ],
+        "John Calvin": [
+            "Though the faithful themselves never so uprightly and blamelessly, yet can they not escape false and slanderous reports until they be admitted to purge themselves.",
+            "Now, when the true God is known, and the certain and sure rule of worshipping him is understood, there is nothing more equal than that which God commandeth in his law.",
+            "But nothing is more absurd than to leave the worship of God to men\u2019s choice."
+        ],
+        "Philip Schaff": [
+            "The proconsul had been adopted by the rhetorician L. Junius Gallio, whose name he took, and was generally known as Junius Ann\u00e6us Gallio, brother of Seneca, the famous philosopher and tutor of Nero.",
+            "He [Gallio] appears to have been a cultivated and polished scholar, popular, and even beloved.",
+            "It was the custom of the provincial governors of the Empire to hold their courts on certain fixed days of the week. These sittings were commonly held in the Agora or market-place."
+        ],
+        "Archibald T. Robertson": [
+            "Nemo enim mortalium uni tam dulcis quam hic omnibus (No one of mortals is so pleasant to one person as he is to all).\" ",
+            "They took a stand (\u03b5\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd) against (\u03ba\u03b1\u03c4\u03b1, down on, \u03b5\u03c0, upon), they made a dash or rush at Paul as if they would stand it no longer.",
+            "So for the second time Paul faces a Roman proconsul (Sergius Paulus, Acts 13:7) though under very different circumstances."
+        ],
+        "John Gill": [
+            "Gallio, who was now deputy of it, was brother to L. Annaeus Seneca, the famous philosopher, who was preceptor to Nero; his name at first was M. Annaeus Novatus, but being adopted by L. Junius Gallio, he took the name of the family.",
+            "The Jews made insurrection with one accord against Paul; being provoked that so many of their people, as well as of the Gentiles, were converted by him to the Christian religion, and were baptized.",
+            "and brought him to the judgment seat; of Gallio, the deputy, to be tried and judged by him."
+        ],
+        "John Wesley": [
+            "This Gallio, the brother of the famous Seneca, is much commended both by him and by other writers, for the sweetness and generosity of his temper, and easiness of his behaviour.",
+            "Yet one thing he lacked!",
+            "But he knew it not and had no concern about it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse recounts a significant encounter between Paul and Gallio, the brother of the esteemed philosopher Seneca. Gallio was the proconsul of Achaia and known for his pleasant and beloved nature. He held court at the judgment seat, a noteworthy position mentioned three times in the narrative. The Jews, filled with envy because of Paul's success in converting people to Christianity, brought him before Gallio to be judged. It is worth noting that this was the second time Paul faced a Roman proconsul, but under entirely different circumstances. Although Gallio appears to be a cultivated scholar and a popular figure, he lacked an understanding of the essential truth of worshiping the true God. The faithful must endure false accusations and slanderous reports until they are given the opportunity to defend themselves.",
+            "wordCount": 132,
+            "quoteTokenProportion": 32.29,
+            "qualityScore": 1.6778708729392666,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.13,
+            "commentatorTierSimilarities": [
+                29.83,
+                39.79,
+                30.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The encounter between Paul and Gallio, the proconsul of Achaia, is significant. Gallio, known for his beloved and pleasant nature, held court at the judgment seat three times in total. The Jews, envious of Paul's success in conversions, brought him before Gallio to be judged. This event marked the second time Paul faced a Roman proconsul, highlighting contrasting circumstances. While Gallio was a cultivated scholar and popular figure, his understanding of the worship of the true God was lacking. The faithful endure false accusations until they can defend themselves.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.5943742274074908,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.36,
+            "commentatorTierSimilarities": [
+                31.2,
+                37.37,
+                31.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The encounter between Paul and Gallio, the proconsul of Achaia, is significant. Gallio, known for his beloved and pleasant nature, held court at the judgment seat three times in total. The Jews, envious of Paul's success in conversions, brought him before Gallio to be judged. While Gallio was a cultivated scholar and popular figure, his understanding of the worship of the true God was lacking. The faithful endure false accusations until they can defend themselves.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6084934705228235,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.82,
+            "commentatorTierSimilarities": [
+                29.89,
+                37.03,
+                33.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The account of Paul's encounter with Gallio, the proconsul of Achaia, reveals Gallio's beloved and pleasant nature. As a cultivated scholar, Gallio held court three times in total at the judgment seat. The Jews, filled with envy over Paul's success in conversions, brought him before Gallio for judgment. However, Gallio's understanding of true worship was lacking, despite his popularity. The faithful must remain resilient in the face of false accusations until given the chance to defend themselves.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5519512243222526,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.94,
+            "commentatorTierSimilarities": [
+                31.07,
+                35.88,
+                33.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The encounter between Paul and Gallio, the proconsul of Achaia, is significant. Gallio, known for his beloved and pleasant nature, held court at the judgment seat. The Jews, envious of Paul's success, brought him before Gallio to be judged. While Gallio was a cultivated scholar, his understanding of true worship was lacking. The faithful endure false accusations until they can defend themselves.",
+            "wordCount": 63,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.6140747169345828,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.01,
+            "commentatorTierSimilarities": [
+                29.6,
+                38.97,
+                31.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

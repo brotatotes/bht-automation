@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:35:55",
+    "verseRef": "Acts 23:21",
+    "bestBHT": {
+        "bht": "Deliverance came when they were ready, looking for the promise. These men, bound under an anathema, were determined to carry out their murderous plot, as was not uncommon among the Pharisees. With more than forty men lying in wait, the young man pleads for the chief captain not to yield to them, as their oath forbids them from eating or drinking until they have killed Paul. They hope the chief captain will promise to bring Paul down when the Sanhedrin approaches him.",
+        "wordCount": 82,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 2.015968491016893,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+        "commentatorTierSimilarities": [
+            22.18,
+            32.67,
+            45.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21.] They waited for, not \u201ca promise,\u201d as A.V., but the promise (to that effect)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not till the last moment, when the plot was all prepared, did deliverance come.",
+            "As is so often the case with God's people.",
+            "Deliverance came when they were ready, looking for a promise from thee."
+        ],
+        "Albert Barnes": [
+            "Looking for a promise from thee - Waiting for your consent to bring him down to them."
+        ],
+        "Marvin Vincent": [
+            "If we should wonder how, so early in the morning, after the long discussion in the Sanhedrim, which must have occupied a considerable part of the day, more than forty men should have been found banded together, under an anathema, neither to eat nor to drink till they had killed Paul...",
+            "The Pharisees were avowedly a fraternity or guild; and they, or some of their kindred fraternities, would furnish the ready material for such a band, to whom this additional vow would be nothing new or strange, and, murderous though it sounded, only seem a further carrying out of the principles of their order.",
+            "Again, since the wife and all the children of a member were ipso facto members of the guild, and Paul 's father had been a Pharisee (ver. 6), Paul 's sister also would, by virtue of her birth, belong to the fraternity, even irrespective of the probability that, in accordance with the principles of the party, she would have married into a Pharisaical family."
+        ],
+        "Archibald T. Robertson": [
+            "Do not yield to them (dative) at all.",
+            "For there lie in wait.",
+            "Till they have slain him."
+        ],
+        "John Gill": [
+            "But do not thou yield unto them... for there lie in wait for him more than forty men.\" - The young man urges the chief captain not to yield to them, as more than forty men are lying in wait for Paul.",
+            "which have bound themselves with an oath, that they will neither eat nor drink till they have killed him.\" - These men have bound themselves with an oath not to eat or drink until they have killed Paul.",
+            "looking for a promise from thee; that when the sanhedrim should apply to him...\" - They are looking for a promise from the chief captain that he will bring Paul down when the Sanhedrin approaches him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Deliverance came at the last moment when they were ready, eagerly awaiting the fulfillment of the promise. It is no surprise that these men, bound together under an anathema, were so determined to carry out their murderous plot. Paul's connection to the Pharisees and their principles may have facilitated the formation of this deadly band. With more than forty men lying in wait, the young man pleads with the chief captain not to yield to them, as their oath prohibits them from eating or drinking until they have killed Paul. They are hopeful that the chief captain will promise to bring Paul down to them when the Sanhedrin approaches him.",
+            "wordCount": 111,
+            "quoteTokenProportion": 47.5,
+            "qualityScore": 1.8265377739174025,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+            "commentatorTierSimilarities": [
+                21.74,
+                30.68,
+                47.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Deliverance came when they were ready, looking for the promise. These men, bound under an anathema, were determined to carry out their murderous plot, as was not uncommon among the Pharisees. With more than forty men lying in wait, the young man pleads for the chief captain not to yield to them, as their oath forbids them from eating or drinking until they have killed Paul. They hope the chief captain will promise to bring Paul down when the Sanhedrin approaches him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.015968491016893,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                22.18,
+                32.67,
+                45.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Not until the last moment, when the plot was all prepared, did deliverance come. This was a common occurrence for God's people, receiving deliverance right when they were anticipating the promise. These men, bound under an oath, were determined to carry out their mission. The young man urges the chief captain not to yield to them, as more than forty men are lying in wait for Paul, having sworn not to eat or drink until he is killed. They expect the promise of the chief captain to bring Paul down when approached by the Sanhedrin.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.890904525182926,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.21,
+            "commentatorTierSimilarities": [
+                24.19,
+                30.92,
+                44.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Deliverance came when they were ready, looking for the promise to be fulfilled. The men, bound under an anathema, were determined to carry out their murderous plot, in line with the principles of the Pharisees. More than forty men lay in wait for Paul, having sworn not to eat or drink until he was slain. The young man implores the chief captain not to yield to them, for they expect a promise to bring Paul down when approached by the Sanhedrin.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9817794298610287,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                22.6,
+                32.73,
+                44.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Deliverance came when they were ready, eagerly awaiting the promise. These determined men, bound under an anathema, were resolute in their murderous plot, aligning with the principles of the Pharisees. Over forty men laid in ambush for Paul, swearing an oath to neither eat nor drink until he was slain. The young man urged the chief captain to resist them, aware of their dangerous intent. Their hope lay in the promise from the captain to bring Paul down when approached by the Sanhedrin.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8853054904924935,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                22.12,
+                34.45,
+                43.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

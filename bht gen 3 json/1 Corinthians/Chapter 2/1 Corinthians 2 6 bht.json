@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:01:06",
+    "verseRef": "1 Corinthians 2:6",
+    "bestBHT": {
+        "bht": "Paul speaks of a higher teaching, a wisdom that surpasses worldly wisdom. This wisdom is not the entirety of Christian doctrine but its deeper and more profound principles. Only those with matured Christian experience can understand its true superiority. While rulers and wise individuals of the world may not perceive it as wisdom, it belongs to the enduring and eternal. Gradually, it nullifies the wisdom of these rulers before the final triumph of Christ's kingdom. Rejecting this wisdom exhibits a corrupt understanding, while embracing it acknowledges the highest wisdom.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.416391930113072,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.68,
+        "commentatorTierSimilarities": [
+            35.33,
+            30.04,
+            34.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is a lower, and there is a higher teaching.",
+            "Of the same kind are the considerations treated, Heb. vii.\u2014x.",
+            "By rulers of the world here he does not mean any spiritual beings, as some say: but those in estimation, those in power, those who think worldly matters worth contending for, philosophers and rhetoricians and authors."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Yet the Gospel preaching, so far from being at variance with true 'wisdom,' is a wisdom infinitely higher than that of the wise of the world.\" ",
+            "Wisdom here denotes not the whole of Christian doctrine, but its sublimer and deeper principles.",
+            "Those matured in Christian experience and knowledge alone can understand the true superiority of the Christian wisdom which Paul preached."
+        ],
+        "Albert Barnes": [
+            "But we do not design to admit that we have been really speaking folly. We have been uttering that which is truly wise, but which is seen and understood to be such only by those who are qualified to judge.",
+            "By 'wisdom' here, the apostle means that system of truth which he had explained and defended - the plan of salvation by the cross of Christ.",
+            "Those only who have been fully instructed in the knowledge of the Christian religion will be qualified to see its beauty and its wisdom. The gross and sensual do not see it, and those only who are enlightened by the Holy Spirit are qualified to appreciate its beauty and its excellency."
+        ],
+        "Marvin Vincent": [
+            "They do preach wisdom, though not of a worldly kind, among matured Christians.\" ",
+            "Paul's term for matured Christians.\" ",
+            "This wisdom is the Christian analogue to philosophy in the ordinary sense of the word."
+        ],
+        "John Calvin": [
+            "If my doctrine is disrelished by any of you, those persons give sufficient evidence from that very token, that they possess a depraved and vitiated understanding.",
+            "He intimates that he set before them an elegant specimen of admirable wisdom, lest any one should allege that he boasted of a thing unknown.",
+            "When the kingdom of God is revealed, let the wisdom of this world retire, and what is transient give place to what is eternal."
+        ],
+        "Philip Schaff": [
+            "With reference to Christ\u2019s work, it denotes its \u2018completion\u2019 by His death... with regard to the believer\u2019s standing before God in virtue of that completed work, it expresses his \u2018perfect\u2019 acceptance... and in relation to his stage of advancement in the Christian life, it means his \u2018full\u2019 apprehension of gospel truth...\" ",
+            "This last is clearly the sense here. For only when this stage is reached when the gospel scheme can be grasped as a whole, and be surveyed all round can the \u2018wisdom\u2019 there is in it be fully discovered.",
+            "A wisdom not of this world... that are coming to nought, through the silently but surely undermining power of the Gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is not here drawing a distinction between exoteric and esoteric wisdom as the Gnostics did for their initiates, but simply to the necessary difference in teaching for babes and adults.",
+            "This wisdom does not belong to the passing age of fleeting things, but to the enduring and eternal.",
+            "The gradual nullification of these 'rulers' before the final and certain triumph of the power of Christ in his kingdom."
+        ],
+        "John Gill": [
+            "it was not folly, but wisdom, which he and his fellow ministers preached\" ",
+            "to such the Gospel and the doctrines of it appear to be the highest wisdom\" ",
+            "the highest pitch of wisdom and knowledge in divine things, which the doctors and Rabbins among the Jews attained to in the age before the Messiah's coming; called 'this world' in distinction from the times of the Messiah, which in Jewish language was, 'the world to come'"
+        ],
+        "John Wesley": [
+            "Yet we speak wisdom \u2014 Yea, the truest and most excellent wisdom.",
+            "By wisdom here he seems to mean, not the whole Christian doctrine, but the most sublime and abstruse parts of it.",
+            "But not the wisdom admired and taught by the men of this world, nor of the rulers of this world, Jewish or heathen, that come to nought - Both they and their wisdom, and the world itself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of a higher teaching, a wisdom that surpasses worldly wisdom. This wisdom is not simply the entirety of Christian doctrine, but rather its deeper and more profound principles. It is a wisdom that can only be truly understood and appreciated by those who have matured in Christian experience and knowledge. The preaching of this wisdom may not be perceived as wise by the rulers and the wise of the world, but it is a wisdom that belongs to the enduring and eternal. It gradually nullifies the wisdom of the rulers before the final triumph of the power of Christ in His kingdom. Those who reject this wisdom reveal their depraved understanding, while those who embrace it recognize it as the highest wisdom.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.585848066344341,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.32,
+            "commentatorTierSimilarities": [
+                33.8,
+                31.48,
+                34.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his teaching, Paul distinguishes between a lower and higher wisdom, one that surpasses worldly notions. This higher wisdom is not mere Christian doctrine, but its deeper and more profound principles. Only those who have matured in Christian experience truly understand and appreciate its superiority. This wisdom may not be recognized by the rulers and wise of the world, but it pertains to the enduring and eternal. Gradually, it nullifies the wisdom of these rulers before the certain triumph of Christ's kingdom. Those who reject it display a depraved understanding, while those who embrace it recognize it as the highest wisdom.",
+            "wordCount": 102,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.4237212247341198,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.93,
+            "commentatorTierSimilarities": [
+                35.37,
+                30.38,
+                34.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul speaks of a higher teaching, a wisdom beyond worldly wisdom. It is not merely Christian doctrine, but its deeper principles. Only those matured in Christian experience can grasp its true superiority. While rulers and wise men of the world may not perceive it as wisdom, it belongs to the enduring and eternal. Gradually, it diminishes the wisdom of these rulers before the final triumph of Christ's kingdom. Rejecting this wisdom exposes a corrupt understanding, while embracing it reveals the highest wisdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.3207289584003346,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.5,
+            "commentatorTierSimilarities": [
+                36.31,
+                29.93,
+                33.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul discusses a higher teaching, a wisdom that surpasses worldly understanding. This wisdom goes beyond Christian doctrine to encompass its deeper principles. Only those who have grown in Christian experience can truly grasp its superiority. Although the rulers and wise men of the world may not recognize it as wisdom, it belongs to the enduring and eternal. Over time, it undermines the wisdom of these rulers before the ultimate triumph of Christ's kingdom. Rejecting this wisdom reveals a corrupted understanding, while embracing it unveils the highest wisdom.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.3649516088252076,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.97,
+            "commentatorTierSimilarities": [
+                34.41,
+                31.19,
+                34.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul speaks of a higher teaching, a wisdom that surpasses worldly wisdom. This wisdom is not the entirety of Christian doctrine but its deeper and more profound principles. Only those with matured Christian experience can understand its true superiority. While rulers and wise individuals of the world may not perceive it as wisdom, it belongs to the enduring and eternal. Gradually, it nullifies the wisdom of these rulers before the final triumph of Christ's kingdom. Rejecting this wisdom exhibits a corrupt understanding, while embracing it acknowledges the highest wisdom.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.416391930113072,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.68,
+            "commentatorTierSimilarities": [
+                35.33,
+                30.04,
+                34.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:19:31",
+    "verseRef": "Luke 13:28",
+    "bestBHT": {
+        "bht": "By neglecting to enter through the narrow gate and allowing worldly influences to lead you astray, you risk being separated from the community of believers. Christ's warning is clear that those who follow this path will be cast out and shut out from the kingdom of God, having no part with the faithful forefathers. Being born into a religious family does not guarantee a place in eternal glory; genuine regeneration transcends lineage. Let not the allure of the world deceive you, for on the final day, the consequences of our exclusion will be undeniable.",
+        "wordCount": 95,
+        "quoteTokenProportion": 37.84,
+        "qualityScore": 1.0029481721601194,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.69,
+        "commentatorTierSimilarities": [
+            31.34,
+            0.0,
+            68.66
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "28, 29. (See Matthew 8:11;",
+            "\tMatthew 8:12). Also see on Matthew 8:12- :. ",
+            "\t",
+            "Matthew 8:12- :. MESSAGE TO",
+            "\tHEROD."
+        ],
+        "John Calvin": [
+            "Christ here assures them, that a bastard race, which has departed from the faith and piety of the fathers, has 'no inheritance in the kingdom of God.'\" (Commentary)",
+            "If you neglect (says he) to enter by the strait gate, because you are kept back by the great number of those who are going astray, do you not see that you are separated from the number of believers, and become involved with unbelievers?\" (Commentary)",
+            "If the aspect of the world now dazzles your eyes, the last day will cure you of this folly, but it will be too late: for you shall then know that you, and others like you, are excluded from the kingdom of God, and have no part with Abraham.\" (Commentary)"
+        ],
+        "Archibald T. Robertson": [
+            "There (\u03b5\u03ba\u03b5). Out there, outside the house whence they are driven.",
+            "When ye shall see (\u03bf\u03c4\u03b1\u03bd \u03bf\u03c8\u03b7\u03c3\u03b8\u03b5). First aorist middle subjunctive (of a late aorist \u03c9\u03c8\u03b1\u03bc\u03b7\u03bd) of \u03bf\u03c1\u03b1\u03c9, though \u03bf\u03c8\u03b5\u03c3\u03b8\u03b5 (future middle) in margin of Westcott and Hort, unless we admit here a 'future' subjunctive like Byzantine Greek (after Latin).",
+            "And yourselves cast forth without (\u03c5\u03bc\u03b1\u03c2 \u03b4\u03b5 \u03b5\u03ba\u03b2\u03b1\u03bb\u03bb\u03bf\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2 \u03b5\u03be\u03c9). Present passive participle, continuous action, 'you being cast out' with the door shut."
+        ],
+        "John Gill": [
+            "This will be upon hearing the above sentence and character, 'depart from me', and will be increased,",
+            "when ye shall see Abraham, Isaac, and Jacob.",
+            "A being born of religious parents will neither give right unto, nor meetness for eternal glory; regeneration is not of blood.",
+            "With indignation and contempt, with shame and 'ignominy'...bid to depart, and ordered to be forever separated from them, as only fit company for devils and damned spirits."
+        ],
+        "John Wesley": [
+            "Matthew 8:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When you neglect to enter through the narrow gate because you are influenced by those who have strayed from the faith, you risk being separated from the community of believers and joining the ranks of unbelievers. Christ warns that those who go down this path will be cast out, shut out from the kingdom of God, and will have no part with Abraham, Isaac, and Jacob. It is clear that being born into a religious family does not guarantee a place in eternal glory; true regeneration is not a matter of blood. Therefore, let us not be deceived by the allure of the world, for on that day of reckoning, we will understand the gravity of our exclusion if we have not chosen the strait and narrow path.",
+            "wordCount": 128,
+            "quoteTokenProportion": 45.35,
+            "qualityScore": 1.0123959385194845,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.01,
+            "commentatorTierSimilarities": [
+                27.54,
+                0.0,
+                72.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When you neglect to enter through the narrow gate, swayed by those who have turned away from faith, you risk being separated from the community of believers. Christ warns that those on this path will be cast out, shut out from the kingdom of God, and have no part with Abraham, Isaac, and Jacob. Being born into a religious family does not secure eternal glory; true regeneration is not of blood. Don't be deceived by the world, for on judgment day, the weight of our exclusion will become clear.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 0.9988335436195037,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.56,
+            "commentatorTierSimilarities": [
+                27.82,
+                0.0,
+                72.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When you neglect to enter through the narrow gate, influenced by those who have turned away from faith, you risk being separated from the community of believers. Christ warns that those on this path will be cast out and shut out from the kingdom of God, having no part with Abraham, Isaac, and Jacob. Being born into a religious family doesn't guarantee eternal glory; true regeneration is not of blood. Do not be deceived by the allure of the world, for the day of reckoning will reveal the gravity of our exclusion.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 0.9270494392277349,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.17,
+            "commentatorTierSimilarities": [
+                26.27,
+                0.0,
+                73.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By neglecting to enter through the narrow gate and allowing worldly influences to lead you astray, you risk being separated from the community of believers. Christ's warning is clear that those who follow this path will be cast out and shut out from the kingdom of God, having no part with the faithful forefathers. Being born into a religious family does not guarantee a place in eternal glory; genuine regeneration transcends lineage. Let not the allure of the world deceive you, for on the final day, the consequences of our exclusion will be undeniable.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.0029481721601194,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.69,
+            "commentatorTierSimilarities": [
+                31.34,
+                0.0,
+                68.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When you neglect to enter through the narrow gate due to the influence of those who have strayed from faith, you risk separation from the believers. Christ warns that those on this path will be cast out, shut out from the kingdom of God, and have no part with Abraham, Isaac, and Jacob. Being born into a religious family doesn't guarantee eternal glory; true regeneration is not of blood. Let us not be deceived by the world, for on judgment day, the weight of our exclusion will be known.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 0.9757941500601954,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.79,
+            "commentatorTierSimilarities": [
+                27.71,
+                0.0,
+                72.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:16:40",
+    "verseRef": "Luke 8:30",
+    "bestBHT": {
+        "bht": "The presence of many demons within the afflicted man demonstrates the extreme destruction of his personal and rational being. These words should be understood literally, not figuratively. It is important to distinguish between the abyss, a place of torment, and the lake of fire where the devil will be cast by Christ. Christ's question is not due to ignorance but to highlight the dire condition of the man and showcase His power in delivering him from demonic possession.",
+        "wordCount": 79,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.2524353920722486,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.99,
+        "commentatorTierSimilarities": [
+            52.4,
+            0.0,
+            47.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fact of many demons having entered into this wretched man, sets before us terribly the utter break up of his personal and rational being.",
+            "The words will not bear any figurative rendering, but must be taken literally.",
+            "We must distinguish between the abyss, the inter-mediate place of torment, and the lake of fire, into which the devil will be cast by Christ at the end."
+        ],
+        "Marvin Vincent": [
+            "Many devils were, etc. Compare Mark 5:9."
+        ],
+        "Archibald T. Robertson": [
+            "Legion (\u039b\u03b5\u03b3\u03b9\u03c9\u03bd). See on Mark 5:9. "
+        ],
+        "John Gill": [
+            "This question was put, not out of ignorance in Christ, but for the sake of those that were with him.",
+            "The miserable condition of this man might be the more known.",
+            "His own power might be the more manifest in the dispossession."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fact that many demons had entered into this wretched man reveals the complete destruction of his personal and rational being. These words cannot be interpreted figuratively, but must be taken literally. It is important to distinguish between the abyss, the intermediate place of torment, and the lake of fire, where the devil will be cast by Christ. The question is posed not out of ignorance, but in order to make known the desperate condition of this man and to demonstrate Christ's power in delivering him from possession.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.1668560397304732,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.14,
+            "commentatorTierSimilarities": [
+                47.22,
+                0.0,
+                52.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fact of many demons having entered into this wretched man sets before us terribly the utter break up of his personal and rational being. The words will not bear any figurative rendering, but must be taken literally. We must distinguish between the abyss, the intermediate place of torment, and the lake of fire, into which the devil will be cast by Christ at the end. The question is put, not out of ignorance in Christ, but for the sake of those that were with him, that the miserable condition of this man might be the more known and his own power might be the more manifest in the dispossession.",
+            "wordCount": 110,
+            "quoteTokenProportion": 47.95,
+            "qualityScore": 1.4120450337537327,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.29,
+            "commentatorTierSimilarities": [
+                47.58,
+                0.0,
+                52.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The presence of multiple demons within this afflicted man showcases the complete disintegration of his personal and rational being. It is crucial to interpret these words literally rather than figuratively. The distinction between the abyss, an intermediate place of torment, and the lake of fire where the devil will be cast by Christ is important to consider. This inquiry from Christ is not due to ignorance, but rather to bring awareness to the desperate state of this man and to highlight the power of Christ in delivering him from possession.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.1344894792060134,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.07,
+            "commentatorTierSimilarities": [
+                47.28,
+                0.0,
+                52.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The entrance of numerous demons into this wretched individual signifies a complete breakdown of his personal and rational being. We must take these words literally, rather than figuratively. It is vital to distinguish between the abyss, an intermediate place of torment, and the lake of fire where the devil will be cast by Christ. Christ's question about the possession is not out of ignorance but to bring attention to the desperate condition of this man and demonstrate His power in freeing him from demonic influence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.1640567481516793,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.05,
+            "commentatorTierSimilarities": [
+                50.53,
+                0.0,
+                49.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The presence of many demons within the afflicted man demonstrates the extreme destruction of his personal and rational being. These words should be understood literally, not figuratively. It is important to distinguish between the abyss, a place of torment, and the lake of fire where the devil will be cast by Christ. Christ's question is not due to ignorance but to highlight the dire condition of the man and showcase His power in delivering him from demonic possession.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.2524353920722486,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.99,
+            "commentatorTierSimilarities": [
+                52.4,
+                0.0,
+                47.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

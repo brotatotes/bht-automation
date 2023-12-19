@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:21:48",
+    "verseRef": "Luke 19:35",
+    "bestBHT": {
+        "bht": "The people took off their own garments and set Jesus on them, showing their reverence and love for Him. This act of setting Jesus on the garments was fitting for His state at that time. The disciples were the ones who brought the colt to Jesus, and it was Jesus himself who allowed them to set him on it.",
+        "wordCount": 59,
+        "quoteTokenProportion": 52.63,
+        "qualityScore": 1.8731200598570656,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+        "commentatorTierSimilarities": [
+            37.4,
+            0.0,
+            62.6
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "35. set Jesus on\u2014He allowing",
+            "\tthis, as befitting the state He was for the first and only",
+            "\ttime assuming."
+        ],
+        "Marvin Vincent": [
+            "Their garments. More strictly, their own garments [\u03b5\u03b1\u03c5\u03c4\u03c9\u03bd] , in their reverence and love for their Lord. See on Matthew 25:7."
+        ],
+        "Archibald T. Robertson": [
+            "Set Jesus thereon.\" ",
+            "First aorist active.\" ",
+            "Causative verb from \u03b2\u03b1\u03b9\u03bd\u03c9, to go."
+        ],
+        "John Gill": [
+            "And they brought him to Jesus,.... That is, the colt.",
+            "the disciples, who brought him to Jesus; the Persic version here, as in Matthew 21:7 renders it very wrongly",
+            "and they set Jesus thereon; in order to ride upon him, as he did to Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people took off their own garments and set Jesus on them, showing their reverence and love for Him. This act of setting Jesus on the garments was fitting for His state at that time. The disciples were the ones who brought the colt to Jesus, and it was Jesus himself who allowed them to set him on it.",
+            "wordCount": 59,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 1.8731200598570656,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+            "commentatorTierSimilarities": [
+                37.4,
+                0.0,
+                62.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus entered Jerusalem, the people showed their reverence and love for Him by taking off their own garments and placing them on the colt for Jesus to sit upon. This act of setting Jesus on the colt was significant as it signified the humble state that Jesus was assuming for the first and only time. The disciples, in their devotion to Jesus, brought the colt to Jesus to fulfill the prophecy.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.7774011792816609,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.44,
+            "commentatorTierSimilarities": [
+                30.3,
+                0.0,
+                69.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus entered Jerusalem, the people reverently demonstrated their love for Him by setting Him on the colt, allowing Him to assume a humble state. Their gesture of placing their own garments on the colt was a sign of their deep devotion. The disciples, fulfilling the prophecy, brought the colt to Jesus, providing Him with a means to ride into Jerusalem.",
+            "wordCount": 61,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.521797753889257,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.94,
+            "commentatorTierSimilarities": [
+                27.95,
+                0.0,
+                72.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people displayed their reverence for Jesus as they set Him on the colt, symbolizing the humble state He was assuming for the first time. In their deep love for Him, they even offered their own garments for Jesus to sit upon. The disciples were instrumental in bringing the colt to Jesus, fulfilling the prophecy and allowing Him to ride into Jerusalem.",
+            "wordCount": 62,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7645638600536353,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                32.3,
+                0.0,
+                67.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people demonstrated their reverence for Jesus by setting Him on the colt, allowing Him to assume a humble state. Their love for Him was evident as they offered their own garments for Jesus to sit on. The disciples played a crucial role in bringing the colt to Jesus, fulfilling the prophecy and enabling Him to ride into Jerusalem.",
+            "wordCount": 59,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.730865787453681,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.89,
+            "commentatorTierSimilarities": [
+                32.39,
+                0.0,
+                67.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

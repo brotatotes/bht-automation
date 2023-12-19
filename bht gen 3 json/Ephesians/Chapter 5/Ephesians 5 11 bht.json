@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:33:56",
+    "verseRef": "Ephesians 5:11",
+    "bestBHT": {
+        "bht": "Vices perish and bear no fruit, while virtues abound in the light. Therefore, we must not only refrain from fellowship but also confront and shame the works of darkness. Sin, being darkness, should be reproved and exposed. Our lives should serve as a rebuke to the sinful world, expressing disapproval of wickedness. We must avoid involvement or support of evil, even passive consent is fellowship. Instead, we must reprove works of darkness both through our words and actions, shining the light of righteousness on the darkness.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.0486684613508226,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.46,
+        "commentatorTierSimilarities": [
+            35.58,
+            31.28,
+            33.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Vices finish with themselves and perish; virtues put forth fruit and abound.",
+            "Not only abstain from fellowship with them, but attack them and put them to shame."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sin is 'darkness' and its parent is the prince of darkness.",
+            "Graces, on the other hand, as flourishing in 'the light,' are reproductive, and abound in fruits.",
+            "'Have no fellowship' does not imply that we can avoid all intercourse, but 'avoid such fellowship as will defile yourselves'; just as light, though it touch filth, is not soiled by it; nay, as light detects it, so, 'even reprove sin.'"
+        ],
+        "Albert Barnes": [
+            "The deeds of darkness that produce no 'benefit' to the body or the soul.\" ",
+            "The word 'unfruitful' is used here in contrast with the 'fruit of the Spirit.'",
+            "Their lives should be a standing rebuke of a sinful world, and they should be ever ready to express their disapprobation of its wickedness in every form."
+        ],
+        "Marvin Vincent": [
+            "Works which bring no blessing with them.",
+            "Reprove.",
+            "Works of the flesh, fruit of the Spirit."
+        ],
+        "John Calvin": [
+            "It is not enough that we do not, of our own accord, undertake anything wicked. We must beware of joining or assisting those who do wrong.",
+            "In short, we must abstain from giving any consent, or advice, or approbation, or assistance; for in all these ways we have fellowship.",
+            "Rather than the truth of God shall not remain unshaken, let a hundred worlds perish."
+        ],
+        "Philip Schaff": [
+            "These 'works' are 'unfruitful,' because not leading to salvation.",
+            "'Reprove' points to oral rebuke, such as shows the immorality of such works, quickens the conscience of the person doing them, with a view to his improvement.",
+            "The danger in the application of this command arises from wrong motives in the heart of the reprover, not from any too strict view of the sinfulness of the works of darkness."
+        ],
+        "Archibald T. Robertson": [
+            "Have no fellowship with...works.\" ",
+            "Unfruitful...applied to darkness.\" ",
+            "Reprove...by turning the light on the darkness."
+        ],
+        "John Gill": [
+            "Fellowship is not to be maintained 'with the works of darkness'; which are sins, so called, because they are opposite to light.",
+            "These [works of darkness] are 'unfruitful'; they are of no profit and advantage, they bring forth no fruit, unless it be guilt, fear, shame, corruption, and death.",
+            "Rather reprove [them]; both by words and by deeds, by an agreeable life and conversation."
+        ],
+        "John Wesley": [
+            "Reprove them \u2014 To avoid them is not enough."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that vices are self-destructive and bear no fruit, while virtues flourish in the light and are fruitful. Therefore, we are not only called to abstain from fellowship with the works of darkness, but also to attack them and reproach them with the light of truth. Sin, being darkness itself, should not be tolerated, but rather confronted and exposed. Our lives should serve as a rebuke to the sinful world, expressing disapproval of wickedness in all its forms. We must be careful to avoid any involvement or support of evil, as even a passive consent can be seen as fellowship. Instead, we are called to reprove works of darkness, both through our words and our actions, shining the light of righteousness on the darkness.",
+            "wordCount": 128,
+            "quoteTokenProportion": 44.58,
+            "qualityScore": 2.0619607890688245,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.9,
+            "commentatorTierSimilarities": [
+                33.2,
+                34.11,
+                32.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Vices perish and bear no fruit, while virtues abound in the light. Therefore, we must not only refrain from fellowship but also confront and shame the works of darkness. Sin, being darkness, should be reproved and exposed. Our lives should serve as a rebuke to the sinful world, expressing disapproval of wickedness. We must avoid involvement or support of evil, even passive consent is fellowship. Instead, we must reprove works of darkness both through our words and actions, shining the light of righteousness on the darkness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0486684613508226,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.46,
+            "commentatorTierSimilarities": [
+                35.58,
+                31.28,
+                33.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Vices self-destruct, but virtues thrive and bear fruit. We are called not just to avoid association with the works of darkness, but also to challenge and expose them. Sin is darkness itself, and it is important to reprove and bring it to light. Our lives should serve as a rebuke to the sinful world, expressing our disapproval of wickedness. We should refrain from any involvement or support of evil, as even passive consent constitutes fellowship. Instead, we need to reprove the works of darkness through both our words and actions, shining the light of righteousness.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9743513331312212,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.99,
+            "commentatorTierSimilarities": [
+                34.39,
+                33.17,
+                32.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Vices result in their own destruction, while virtues bear abundant fruit. As children of light, we are called to neither participate in nor condone the works of darkness. Sin, as darkness itself, must be exposed and reproved. Our lives should serve as a constant rebuke to the sinful world, expressing our disapproval of wickedness in all its forms. We must be cautious not to engage or support evil, as even passive consent constitutes fellowship. Instead, we are to confront and reprove the works of darkness with the light of truth, both in our words and actions.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.9750379112168934,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                34.02,
+                34.38,
+                31.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Vices bring about their own demise, while virtues flourish and produce abundant fruit. As children of light, we are called not only to stay away from partnership with the works of darkness, but also to expose and shame them. Sin, being darkness, should be reproved and brought into the light. Our lives should stand as a rebuke to the sinful world, expressing our disapproval of wickedness in all its forms. We should be vigilant in avoiding any involvement or support of evil, as even passive consent implies fellowship. Instead, we are urged to reprove the works of darkness through our words and actions, illuminating them with the light of righteousness.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 2.000468049712106,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+            "commentatorTierSimilarities": [
+                34.86,
+                33.74,
+                31.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

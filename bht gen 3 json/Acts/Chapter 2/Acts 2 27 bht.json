@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:25:17",
+    "verseRef": "Acts 2:27",
+    "bestBHT": {
+        "bht": "The Messiah's unwavering trust is expressed through the proclamation that God will not abandon His soul in the realm of the dead, nor let His body decay in the grave. The use of the term hell signifies the abode where departed souls dwell after death. These words affirm the Messiah's victory over death and their connection to the phrase descended into hell in the Apostles' Creed. Peter confirms this prophecy's application to the Messiah, emphasizing His trust in God's deliverance from death's power.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.7890409769450035,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.83,
+        "commentatorTierSimilarities": [
+            25.7,
+            44.06,
+            30.24
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "27. wilt not leave my soul in",
+            "\thell\u2014in its disembodied state (see on :-). ",
+            "\t",
+            "neither . . . suffer thine",
+            "\tHoly One to see corruption\u2014in the grave."
+        ],
+        "Albert Barnes": [
+            "Thou wilt not leave me in Sheol, neither...",
+            "The word 'hell,' in English, now commonly denotes 'the place of the future eternal punishment of the wicked.'",
+            "The word originally denoting simply 'the state of the dead, the insatiable demands of the grave,' came at last to be extended in its meaning, in proportion as they received new revelations or formed new opinions about the future world."
+        ],
+        "Marvin Vincent": [
+            "Leave [\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03b9\u03c8\u03b5\u03b9\u03c2] . Lit., leave behind. ",
+            "Suffer [\u03b4\u03c9\u03c3\u03b5\u03b9\u03c2] . Lit., give."
+        ],
+        "John Calvin": [
+            "To leave the soul in hell is to suffer the same to be oppressed with destruction.",
+            "For the word anima, or soul, doth not so much signify the spirit being of an immortal essence as the life itself.",
+            "Furthermore, gentleness and meekness is so often commended in the faithful, because it behoveth them to imitate and resemble the nature of their Father."
+        ],
+        "Philip Schaff": [
+            "Because thou wilt not leave my soul in hell. This was the Redeemer\u2019s sure confidence during the days of His earthly life.",
+            "His soul was not to remain in the realm of the dead. Hell, the well-known English translation of \u1f83\u03b4\u03ae ;, the Hebrew \ufb2a \u05b0\u05d0\u05d5\u05dc , is singularly unfortunate, as the word (Greek and Hebrew) simply means \u2018the abode where the souls of the dead dwell\u2019 after body and soul are separated by death.",
+            "Neither wilt thou suffer thine Holy One to see corruption. The Beloved One of God was not to moulder in the grave, was not to share in that part of the curse of Adam which told man he should return to dust."
+        ],
+        "Archibald T. Robertson": [
+            "Hades is the unseen world, Hebrew Sheol, but here it is viewed as death itself 'considered as a rapacious destroyer.'",
+            "The phrase in the Apostles' Creed, 'descended into hell' is from this passage in Acts (Hades, not Gehenna).",
+            "Peter applies these words to the Messiah."
+        ],
+        "John Gill": [
+            "Because thou wilt not leave my soul in hell,....",
+            "neither wilt thou suffer thine Holy One to see corruption.",
+            "which was not true of David, but is of the Messiah."
+        ],
+        "John Wesley": [
+            "But it does not appear, that ever our Lord went into hell.",
+            "Thou wilt not leave my soul in its separate state.",
+            "Thou wilt not leave my soul in hades."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 2:27, it is proclaimed that God will not abandon the soul of the Messiah in the realm of the dead, nor allow His body to decay in the grave. The term hell here suggests the place where the souls of the departed dwell after physical death. This declaration by Peter emphasizes the Messiah's unwavering trust in God, expressing His confidence that He will not be left to the ravages of death. The phrase descended into hell in the Apostles' Creed is associated with this passage, signifying the Messiah's victory over death. Through these words, Peter affirms the application of this prophecy to the Messiah.",
+            "wordCount": 107,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.7494327745600504,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+            "commentatorTierSimilarities": [
+                25.74,
+                43.1,
+                31.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Messiah's unwavering trust is expressed in the proclamation that God will not abandon His soul in the realm of the dead, nor let His body decay in the grave. This verse emphasizes the Messiah's victory over death and the fulfillment of the prophecy. The phrase descended into hell in the Apostles' Creed is associated with this proclamation. By affirming the application of these words to the Messiah, Peter reveals the Messiah's confidence in God's deliverance from death's power.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.6244769341116547,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                27.09,
+                42.09,
+                30.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this portion, it is affirmed that the soul of the Messiah will not be forsaken in the realm of the dead, nor will His body experience decay in the grave. The use of the term hell signifies the abode where departed souls dwell after death. These words further reinforce the Messiah's unshakable trust in God's faithfulness, assuring His victory over death. The reference to the Apostles' Creed's phrase descended into hell highlights the connection to this declaration. Ultimately, Peter attributes this prophecy to the Messiah's triumph over the grave.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7382769003221301,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+            "commentatorTierSimilarities": [
+                24.53,
+                44.0,
+                31.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The assurance given in this verse is that the soul of the Messiah will not be left in the realm of the dead, nor will His body suffer decay in the grave. The term hell here refers to the abode of the departed souls. Peter affirms that these words apply to the Messiah, emphasizing His resolute trust in God's faithfulness and His ultimate victory over death. The connection to the phrase descended into hell in the Apostles' Creed underscores this declaration.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.8176394505982048,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                25.64,
+                42.77,
+                31.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Messiah's unwavering trust is expressed through the proclamation that God will not abandon His soul in the realm of the dead, nor let His body decay in the grave. The use of the term hell signifies the abode where departed souls dwell after death. These words affirm the Messiah's victory over death and their connection to the phrase descended into hell in the Apostles' Creed. Peter confirms this prophecy's application to the Messiah, emphasizing His trust in God's deliverance from death's power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.7890409769450035,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.83,
+            "commentatorTierSimilarities": [
+                25.7,
+                44.06,
+                30.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

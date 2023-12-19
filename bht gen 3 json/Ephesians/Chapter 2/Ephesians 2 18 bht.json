@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 15:27:43",
+    "verseRef": "Ephesians 2:18",
+    "bestBHT": {
+        "bht": "Through Christ, both Jews and Gentiles have access to God and are united in one Spirit. This access is not limited to a select few, but is available to all believers. The oneness of the Spirit, through which we have our access, is followed by oneness in the body of Christ, the Church. It is only through the mediation of Jesus Christ that we are permitted to approach God and address Him as our Father. Thus, the three persons of the Godhead, Christ, the Spirit, and the Father, all share in the work of our redemption.",
+        "wordCount": 96,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 2.332270615491834,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.89,
+        "commentatorTierSimilarities": [
+            36.18,
+            31.99,
+            31.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For through Him we have our access... both of us in one Spirit... to the Father.\" ",
+            "united in... one Spirit.",
+            "the Holy Spirit of God... to the Father."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For it is through Him (John 14:6; John 14:6- :) that we have our access (Ephesians 3:12; Romans 5:2), both of us, in (that is, united in, that is, 'by,' Romans 5:2- :, Greek) one Spirit to the Father,",
+            "The oneness of 'the Spirit,' through which we both have our access, is necessarily followed by oneness of the body, the Church.",
+            "It is also fatal to the theory of sacerdotal priests in the Gospel through whom alone the people can approach God. All alike, people and ministers, can draw nigh to God through Christ, their ever living Priest."
+        ],
+        "Albert Barnes": [
+            "He has secured this result that we have access to God by his death - reconciling us to God by the doctrines which he taught - acquainting us with God; and by his intercession in heaven.",
+            "We are permitted to approach God through him, or in his name.",
+            "We are permitted to come and address God as our Father."
+        ],
+        "Marvin Vincent": [
+            "Access [\u03c0\u03c1\u03bf\u03c3\u03b1\u03b3\u03c9\u03b3\u03b7\u03bd] . See on Romans 5:2. Notice the three persons of the Godhead : through Him (Christ); one Spirit, the Father."
+        ],
+        "John Calvin": [
+            "It was necessary, therefore, to explain the true nature of evangelical peace, which is widely different from a stupefied conscience, from false confidence, from proud boasting, from ignorance of our own wretchedness.",
+            "It is a settled composure, which leads us not to dread, but to desire and seek, the face of God.",
+            "Jews had various means of drawing near to God; now all have but one way, to be led by the Spirit of God."
+        ],
+        "Philip Schaff": [
+            "Only through the mediation of this Person, Jesus Christ.",
+            "The present tense (\u2018we have\u2019) points either to a continued freedom of \u2018access,\u2019 or to the process going on as each one obtains this \u2018introduction.\u2019",
+            "The prepositions are aptly chosen, to discriminate the respective economical relations of the Persons of the Godhead in our salvation."
+        ],
+        "Archibald T. Robertson": [
+            "Through him (\u03b4\u03b9' \u03b1\u03c5\u03c4\u03bf\u03c5).",
+            "We both (\u03bf \u03b1\u03bc\u03c6\u03bf\u03c4\u03b5\u03c1\u03bf).",
+            "The Three Persons all share in the work of redemption."
+        ],
+        "John Gill": [
+            "Being made one, and reconciled unto God, and having the Gospel of peace preached to both, they have through Christ freedom of access and boldness in it.",
+            "And their access to him is 'through' Christ, who has made peace for them, and atonement for their sins; who has satisfied law and justice, and brought in an everlasting righteousness for them.",
+            "This access to God is of a spiritual kind; it is a drawing nigh to God with the heart, and a worshipping him in spirit; and is by faith, and may be with freedom, and should be, with reverence, and ought to be frequent."
+        ],
+        "John Wesley": [
+            "For through him, we both \u2014 Jews and gentiles.",
+            "Have access \u2014 Liberty of approaching, by the guidance and aid of one Spirit to God as our Father.",
+            "Christ, the Spirit, and the Father, the three-one God, stand frequently in the same order."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Through Christ, both Jews and Gentiles have access to God and are united in one Spirit. This access is not limited to a select few, but is available to all believers, as there is no need for sacerdotal priests in the Gospel. The oneness of the Spirit, through which we have our access, is followed by oneness in the body of Christ, the Church. It is only through the mediation of Jesus Christ that we are permitted to approach God and address Him as our Father. This access is not merely physical, but spiritual, requiring faith, reverence, and a drawing near to God with the heart. Thus, the three persons of the Godhead, Christ, the Spirit, and the Father, all share in the work of our redemption.",
+            "wordCount": 127,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 2.305427192011971,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.0,
+            "commentatorTierSimilarities": [
+                34.72,
+                30.9,
+                34.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through Christ, both Jews and Gentiles have access to God and are united in one Spirit. This access is not limited to a select few, but is available to all believers. The oneness of the Spirit, through which we have our access, is followed by oneness in the body of Christ, the Church. It is only through the mediation of Jesus Christ that we are permitted to approach God and address Him as our Father. Thus, the three persons of the Godhead, Christ, the Spirit, and the Father, all share in the work of our redemption.",
+            "wordCount": 96,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.332270615491834,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.89,
+            "commentatorTierSimilarities": [
+                36.18,
+                31.99,
+                31.83
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

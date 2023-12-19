@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:28:34",
+    "verseRef": "Ephesians 3:5",
+    "bestBHT": {
+        "bht": "The mystery of the call of the Gentiles, not fully known in the Old Testament, has been revealed through God's revelation and preaching. This revelation has been made known not only to Paul but also to all the other apostles and prophets of God. The gift of the Spirit in its fullness was reserved for the New Testament, bringing glory to Christ. The purpose of God's salvation, previously hidden, has now been clearly revealed to both Old and New Testament prophets.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.9,
+        "qualityScore": 2.1742542911939995,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.63,
+        "commentatorTierSimilarities": [
+            35.34,
+            31.96,
+            32.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Making known by revelation is the source of making known by preaching.\" ",
+            "The mystery of the call of the Gentiles...was not unknown to the Old Testament prophets...But they did not know it with the same explicit distinctness 'As' it has been now known.",
+            "The gift of 'the Spirit' in its fulness was reserved for the New Testament that Christ might thereby be glorified."
+        ],
+        "Albert Barnes": [
+            "The great purposes of God in regard to the salvation of mankind were not revealed.",
+            "Those who exercised the office of a prophet or inspired teacher in the Christian church...",
+            "There is no evidence that this was designed to be a permanent order of people in the church."
+        ],
+        "Marvin Vincent": [
+            "Other generations [\u03b5\u03c4\u03b5\u03c1\u03b1\u03b9\u03c2] . Other and different. See on Matthew 6:24."
+        ],
+        "John Calvin": [
+            "The calling of the Gentiles, then, was a 'mystery of Christ;' that is, it was to be fulfilled under the reign of Christ.",
+            "The words of Paul must not be understood to mean that there had been no knowledge at all on these subjects.",
+            "The repeal of the ceremonial law, which admitted them within the vail, was not understood."
+        ],
+        "Philip Schaff": [
+            "To any of the sons of men. It includes the Old Testament prophets, but not these alone.",
+            "The contrast between 'now' and 'in other generations' is one of degree. It was not then made to the extent that it has now been revealed.",
+            "Both classes were for the specific work in that age; when the revelation was complete, and the emergency was met, both offices, in their distinctive features, ceased to exist."
+        ],
+        "Archibald T. Robertson": [
+            "In other generations (\u03b5\u03c4\u03b5\u03c1\u03b1\u03b9\u03c2 \u03b3\u03b5\u03bd\u03b5\u03b1\u03b9\u03c2). Locative case of time.",
+            "He had already claimed this revelation for himself (verse Ephesians 3:3).",
+            "Now he claims it for all the other apostles and prophets of God."
+        ],
+        "John Gill": [
+            "which mystery of Christ, and of the Gospel, was not made known to men in general, nor so clearly as under the Gospel dispensation.",
+            "it lay hid in types and shadows, in obscure prophecies and short hints.",
+            "the time, mode, and circumstances of it were but little understood, and comparatively speaking, it was not known."
+        ],
+        "John Wesley": [
+            "In former ages was not so clearly or fully made known to the sons of men.\" ",
+            "To any man, no, not to Ezekiel, so often styled, 'son of man;' nor to any of the ancient prophets.\" ",
+            "Those here spoken of are New Testament prophets."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The mystery of the call of the Gentiles, which was not fully known in the Old Testament, has been revealed by God through revelation and preaching. This revelation has been made known not only to Paul but also to all the other apostles and prophets of God. The gift of the Spirit in its fullness was reserved for the New Testament, bringing glory to Christ. Though the purpose of God's salvation was not fully revealed before, now it has been made known to both the Old and New Testament prophets. This mystery of Christ and the Gospel, which was previously hidden in types, shadows, and obscure prophecies, has now been clearly and fully revealed.",
+            "wordCount": 115,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.1601815763208183,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.17,
+            "commentatorTierSimilarities": [
+                32.88,
+                31.88,
+                35.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mystery of the call of the Gentiles, not fully known in the Old Testament, has been revealed through God's revelation and preaching. This revelation has been made known not only to Paul but also to all the other apostles and prophets of God. The gift of the Spirit in its fullness was reserved for the New Testament, bringing glory to Christ. The purpose of God's salvation, previously hidden, has now been clearly revealed to both Old and New Testament prophets.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.1742542911939995,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.63,
+            "commentatorTierSimilarities": [
+                35.34,
+                31.96,
+                32.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The revelation of the mystery of the call of the Gentiles, not fully known in the Old Testament, has been made explicit through God's revelation and preaching. This revelation was not limited to Paul alone, but extended to other apostles and prophets of God. The fullness of the Spirit was a gift reserved for the New Testament, bringing glory to Christ. The purpose of God's salvation, once hidden, has now been clearly revealed to both Old and New Testament prophets, surpassing the previous limited understanding.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.1337942682576996,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.29,
+            "commentatorTierSimilarities": [
+                33.7,
+                31.96,
+                34.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The revelation of the mystery of the call of the Gentiles, previously not fully known in the Old Testament, has now been made explicit through God's revelation and preaching. This revelation was not only for Paul but was also extended to all the other apostles and prophets of God. The fullness of the Spirit was a gift reserved for the New Testament, bringing glory to Christ. The purpose of God's salvation, once hidden, has now been clearly revealed to both Old and New Testament prophets, surpassing their previous understanding.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.136203292025257,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.37,
+            "commentatorTierSimilarities": [
+                33.86,
+                32.22,
+                33.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mystery of the call of the Gentiles, previously unknown in the Old Testament, has been revealed through God's revelation and preaching. This revelation was not limited to Paul but extended to all the other apostles and prophets of God. The gift of the Spirit in its fullness was reserved for the New Testament, glorifying Christ. The purpose of God's salvation, once hidden, has now been clearly revealed to both Old and New Testament prophets, surpassing their previous understanding.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.1606783144483144,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.18,
+            "commentatorTierSimilarities": [
+                35.06,
+                31.59,
+                33.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:18:49",
+    "verseRef": "Luke 12:1",
+    "bestBHT": {
+        "bht": "Beware of the leaven of the Pharisees, which is hypocrisy. Jesus openly demonstrated His own teachings and saw the need to warn His disciples about the rising tension with His enemies. The multitude that gathered to listen to Him included many thousands who were drawn by the attacks of the rabbis against Jesus. Jesus classified the leaven of the Pharisees as hypocrisy, which was a dominant vice among them. Therefore, He urged His disciples to be on guard against the deceiving nature of hypocrisy and not be ensnared by the cunning tactics of the Pharisees.",
+        "wordCount": 95,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 2.0305747538421635,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.86,
+        "commentatorTierSimilarities": [
+            23.44,
+            32.24,
+            44.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Our Lord had been speaking out more plainly than ever before, as matters were coming to a head between Him and His enemies, and this seems to have suggested to His own mind the warning here.",
+            "He had just Himself illustriously exemplified His own precepts.",
+            "Covered\u2014from the view."
+        ],
+        "Albert Barnes": [
+            "Men\u2019s consciences are on the side of the faithful reprover of their sins.",
+            "Above all things beware.",
+            "Hypocrisy is like leaven or yeast."
+        ],
+        "Marvin Vincent": [
+            "An innumerable multitude [\u03c4\u03c9\u03bd \u03bc\u03c5\u03c1\u03b9\u03b1\u03b4\u03c9\u03bd \u03c4\u03bf\u03c5 \u03bf\u03c7\u03bb\u03bf\u03c5]. The word muriav strictly means a number of ten thousand. It is our word myriad. Hence, generally, of any countless number.",
+            "First of all beware.\" ",
+            "Classifying the leaven : which belongs to the category of hypocrisy."
+        ],
+        "Philip Schaff": [
+            "Leaven of the Pharisees, i.e., their doctrine.",
+            "Which is hypocrisy.",
+            "Their leaven (doctrine) was of such a kind that its essence was hypocrisy."
+        ],
+        "Archibald T. Robertson": [
+            "Many thousands (\u03bc\u03c5\u03c1\u03b9\u03b1\u03b4\u03c9\u03bd)...a very large crowd apparently drawn together by the violent attacks of the rabbis against Jesus.",
+            "Unto his disciples first of all (\u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5 \u03c0\u03c1\u03c9\u03c4\u03bf\u03bd). This long discourse in Luke 12:12 is really a series of separate talks to various groups in the vast crowds around Jesus.",
+            "The leaven of the Pharisees which is hypocrisy (\u03c4\u03b7\u03c2 \u03b6\u03c5\u03bc\u03b7\u03c2 \u03b7\u03c4\u03b9\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b9\u03c3\u03b9\u03c2 \u03c4\u03c9\u03bd \u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03b9\u03c9\u03bd). The occasion was ripe here for this crisp saying. In Matthew 13:33 leaven does not have an evil sense as here, which see. See Matthew 23:13 for hypocrites. Hypocrisy was the leading Pharisaic vice (Bruce) and was a mark of sanctity to hide an evil heart."
+        ],
+        "John Gill": [
+            "before all things, beware of the leaven of the Pharisees, which is hypocrisy",
+            "very aptly is hypocrisy in doctrine and manners, compared to leaven",
+            "when our Lord bids his disciples beware of it, his meaning not only is, that they take heed that they were not infected with it themselves, but that they were not imposed upon by the specious pretences of these artful and designing men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of the leaven of the Pharisees, which is hypocrisy. Jesus, knowing that the tension between Him and His enemies was escalating, wanted to warn His disciples about the danger of the Pharisees' hypocrisy. He emphasized the importance of being on guard against this leaven, which represented the deceptive teachings and practices of the Pharisees. Their hypocrisy, often concealed under a facade of piety, was a notable characteristic of their corrupt hearts. Therefore, Jesus urged His disciples to be vigilant and not be deceived by the enticing disguises of these cunning individuals.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9722536241534678,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+            "commentatorTierSimilarities": [
+                20.65,
+                33.18,
+                46.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware of the leaven of the Pharisees, which is hypocrisy. Jesus openly demonstrated His own teachings and saw the need to warn His disciples about the rising tension with His enemies. The multitude that gathered to listen to Him included many thousands who were drawn by the attacks of the rabbis against Jesus. Jesus classified the leaven of the Pharisees as hypocrisy, which was a dominant vice among them. Therefore, He urged His disciples to be on guard against the deceiving nature of hypocrisy and not be ensnared by the cunning tactics of the Pharisees.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.0305747538421635,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.86,
+            "commentatorTierSimilarities": [
+                23.44,
+                32.24,
+                44.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of the leaven of the Pharisees, which is hypocrisy. Jesus, aware of the intensifying conflict between Him and His adversaries, emphasized the urgency of caution. He wanted His disciples to be vigilant against the deceptive teachings and practices of the Pharisees, whose hypocrisy was concealed behind a mask of righteousness. A vast crowd, drawn by the rabbinical attacks on Jesus, listened as He addressed His disciples. Jesus warned them to guard against being influenced by the seemingly righteous veneer of these cunning Pharisees.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9214414621875906,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+            "commentatorTierSimilarities": [
+                23.68,
+                32.27,
+                44.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of the leaven of the Pharisees, which is hypocrisy. Jesus, in the midst of escalating conflicts with His foes, felt compelled to issue a warning to His followers. The multitude that had gathered included many thousands, likely drawn by the fierce attacks of the rabbis. Jesus classified the leaven of the Pharisees as hypocrisy, a prevalent vice among them. He urged His disciples to be wary, cautioning against the deceptive pretenses of these crafty individuals. The danger lay not only in avoiding personal infection but also in not being deceived by their artful and manipulative schemes.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.8276755168953316,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                24.39,
+                31.04,
+                44.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of the leaven of the Pharisees, which is hypocrisy. Jesus, amidst increasing tensions with His adversaries, felt the need to issue a timely warning. Addressing a vast crowd, He cautioned His disciples against being impacted by the hypocrisy of the Pharisees, who masked their evil intentions with an appearance of sanctity. Jesus emphasized the importance of vigilance, urging His followers not to be deceived by the deceptive tactics employed by these deceitful and cunning individuals.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.9186945205651007,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                22.78,
+                31.71,
+                45.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

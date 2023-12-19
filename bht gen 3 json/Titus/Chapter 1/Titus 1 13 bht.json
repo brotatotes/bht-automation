@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:08:55",
+    "verseRef": "Titus 1:13",
+    "bestBHT": {
+        "bht": "Reproving them sharply, with abrupt and harsh dealing, is necessary for those who have been seduced by false teachers. The testimony of Epimenides, though a Cretan, is true and reveals their perversity. By reproving them sharply, Titus can bring them back to soundness in the faith, cutting off the deception and confronting the root of their errors. This may require appearing rude for the sake of safety and the preservation of the gospel, ensuring their spiritual health is restored.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.6064651043576266,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.76,
+        "commentatorTierSimilarities": [
+            32.3,
+            31.93,
+            35.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Reprove them sharply... mildness has no effect on them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This testimony (though coming from a Cretan) is true.",
+            "Gentleness would not reclaim so perverse offenders.",
+            "Those seduced by false teachers may be brought back to soundness in the faith."
+        ],
+        "Albert Barnes": [
+            "The fact that this was the general Character of the people, was a reason why he should be on his guard in introducing men into the ministry, and in the arrangement of affairs pertaining to the church.",
+            "He was not to be mealy-mouthed, but he was to call things by their right names, and not to spare their faults.",
+            "That they may be sound in the faith - That they may not allow the prevailing vices to corrupt their views of religion."
+        ],
+        "Marvin Vincent": [
+            "Sharply. It signifies abrupt, harsh, summary dealing.\" (Titus 1:13)",
+            "Paul has ajpotomia severity.\" (Titus 1:13)",
+            "From ajpotemnein to cut off.\" (Titus 1:13)"
+        ],
+        "John Calvin": [
+            "It was truly a wonderful purpose of God, that he called a nation so depraved, and so infamous on account of its vices, to be among the first who should partake of the gospel.",
+            "The reason why Titus ought to be more sharp and severe in rebuking them has been already stated, namely, that they are 'evil beasts.'",
+            "Whether the 'soundness' or 'healthfulness' is here contrasted with the diseases which he has mentioned, or whether he simply commands them to remain in the sound faith, is uncertain. I prefer the latter view."
+        ],
+        "Archibald T. Robertson": [
+            "It is necessary to appear rude sometimes for safety, if the house is on fire and life is in danger.",
+            "That they may be sound.",
+            "Testimony (\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b9\u03b1). Of the poet Epimenides. Paul endorses it from his recent knowledge."
+        ],
+        "John Gill": [
+            "The writings of the Heathen poets may be read with profit, and be used to advantage, if carefully and prudently attended to; for what is truth, let it come from whom, or by what means it will, ought to be received.",
+            "Rebukes ought to be given according to the nature of offences, and the circumstances of them, and the offenders... doing, as surgeons do by wounds, though they take the knife, and use it gently, yet cut deep, to the quick, and go to the bottom of the wound, and lay it open.",
+            "Rebukes being to persons infected with bad principles and practices, like physic to sickly constitutions, a means of removing the causes of disorder; and in rebukes, admonitions, and censures, this always ought to be the end proposed, the good of the persons rebuked, admonished, and censured."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To reprove sharply may seem harsh, but at times it is necessary when dealing with those who are unresponsive to gentleness and have been led astray by false teachers. This is precisely the case with the people in Crete, whose character and vices are well-known. However, there is wisdom in Paul endorsing Epimenides' testimony about them, for it reveals the truth of their condition. Titus is thus instructed to reprove them sharply so that they may be brought back to soundness in the faith, their spiritual health restored. In doing so, Titus must be bold, cutting off the deception and confronting the root of their errors. This may require a certain bluntness for the sake of their safety and the preservation of the gospel. After all, rebukes are meant to facilitate healing, acting as a surgical operation that goes deep, exposing the true nature of the wound and aiming for its complete removal.",
+            "wordCount": 154,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.562313796262274,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                24.77,
+                35.24,
+                39.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To reprove them sharply and not be mild is necessary when dealing with those who have been led astray by false teachers, as mildness would have no effect on them. The testimony of Epimenides, though coming from a Cretan, is true and exposes their perversity. By reproving them sharply, Titus can lead them back to soundness in the faith, cutting off the deception and confronting the root of their errors. This may require appearing rude at times for the sake of safety and the preservation of the gospel. Ultimately, the aim is to bring them back to a state of spiritual health.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.5856034720604577,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.06,
+            "commentatorTierSimilarities": [
+                30.3,
+                34.28,
+                35.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Reproving them sharply, with abrupt and summary dealing, is necessary for those who have been seduced by false teachers. The testimony of Epimenides, though a Cretan, is true and reveals their perversity. By reproving them sharply, Titus can bring them back to soundness in the faith, cutting off the deception and confronting the root of their errors. This may at times require appearing rude for the sake of safety and the preservation of the gospel, ensuring their spiritual health is restored.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5989970511748157,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.51,
+            "commentatorTierSimilarities": [
+                32.96,
+                31.68,
+                35.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Reproving them sharply, with abrupt and harsh dealing, is necessary for those who have been seduced by false teachers. The testimony of Epimenides, though a Cretan, is true and reveals their perversity. By reproving them sharply, Titus can bring them back to soundness in the faith, cutting off the deception and confronting the root of their errors. This may require appearing rude for the sake of safety and the preservation of the gospel, ensuring their spiritual health is restored.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6064651043576266,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.76,
+            "commentatorTierSimilarities": [
+                32.3,
+                31.93,
+                35.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Reproving them sharply and not sparing their faults is necessary when dealing with those who have been led astray by false teachers. The testimony of Epimenides, although given by a Cretan, is true and exposes their perversity. By reproving them sharply, Titus can bring them back to soundness in the faith, cutting off the deception and confronting the root of their errors. This may require appearing rude to ensure their safety and the preservation of the gospel. The goal is to restore their spiritual health and protect them from further harm.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.603428153467874,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.66,
+            "commentatorTierSimilarities": [
+                29.06,
+                36.19,
+                34.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:15:26",
+    "verseRef": "Luke 5:37",
+    "bestBHT": {
+        "bht": "The verse reminds us not to place new wine into old bottles, as it will cause the bottles to burst, and the wine will be spilled and rejected. This metaphor speaks to the danger of trying to fit new teachings into outdated belief systems. The imagery underscores the need for open-mindedness and the willingness to embrace fresh revelations. Resisting this can lead to the condemnation of holding onto obsolete ideologies, which will ultimately bring about their own demise.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.1522609055350814,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.66,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "And no man putteth new wine into old bottles...nor the truths of the Gospel now more clearly and newly revealed.\" ",
+            "Else the new wine will burst the bottles, and be spilled...rejected them.",
+            "And the bottles shall perish; their condemnation shall be the greater."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the importance of not forcing new teachings onto old frameworks, symbolized by the imagery of new wine and old bottles. The commentator emphasizes that just as new wine cannot be contained in old bottles, the truths of the Gospel, which are now more clearly revealed, cannot be integrated with outdated beliefs. If one tries to do so, the new teachings will be rejected and the old frameworks will ultimately perish, leading to even greater condemnation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.6114096059359613,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.92,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verse reminds us not to place new wine into old bottles, as it will cause the bottles to burst, and the wine will be spilled and rejected. This metaphor speaks to the danger of trying to fit new teachings into outdated belief systems. The imagery underscores the need for open-mindedness and the willingness to embrace fresh revelations. Resisting this can lead to the condemnation of holding onto obsolete ideologies, which will ultimately bring about their own demise.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.1522609055350814,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The passage illustrates the caution of trying to merge new wine with old bottles, as it would result in the bottles bursting and the wine being spilled and rejected. This imagery serves as a warning against attempting to incorporate new teachings into outdated frameworks. The commentator asserts that the Gospel's truths, which have been more clearly unveiled, cannot be simply assimilated into old belief systems. Failure to recognize this can lead to the condemnation and ultimate disintegration of these antiquated structures.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.0288672393994776,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.55,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The cautionary message of the passage is clear: attempting to combine new wine with old bottles is destined to fail. The imagery conveys the idea that trying to integrate new teachings into outdated belief systems will only result in rejection and destruction. It is crucial to recognize the need for open-mindedness and adaptability when encountering new revelations. Ignoring this can lead to condemnation and the eventual demise of the antiquated frameworks that resist the truths of the Gospel.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.056386663715005,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.47,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse cautions against placing new wine in old bottles, as it will cause the bottles to burst and the wine to be spilled and rejected. This imagery symbolizes the danger of trying to merge new teachings with outdated belief systems. The commentator emphasizes that the Gospel's truths, now more clearly revealed, cannot be integrated into obsolete frameworks. Disregarding this warning can lead to condemnation and the eventual downfall of these antiquated ideologies.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.187233844178798,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.82,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

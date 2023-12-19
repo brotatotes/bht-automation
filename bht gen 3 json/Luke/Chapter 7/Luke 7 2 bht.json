@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:15:58",
+    "verseRef": "Luke 7:2",
+    "bestBHT": {
+        "bht": "A centurion had a valuable servant who was held in honor and highly esteemed by him. This precious servant was on the brink of death, suffering from palsy. It appeared that there was no hope for him through human means, which makes the subsequent cure all the more remarkable.",
+        "wordCount": 49,
+        "quoteTokenProportion": 52.38,
+        "qualityScore": 1.7236975427255083,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+        "commentatorTierSimilarities": [
+            26.91,
+            40.63,
+            32.46
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Who was dear unto him - That is, he was valuable, trusty, and honored."
+        ],
+        "Marvin Vincent": [
+            "A centurion was originally a commander of a hundred men, but in military language, it meant a division of troops, a company, not necessarily of a hundred.",
+            "The duty of the centurion was chiefly confined to the regulation of his own corps, and the care of the watch.",
+            "The word 'dear' does not necessarily imply an affectionate relation between the master and the servant, though such may well have existed. It may mean only that he was a valuable servant."
+        ],
+        "Philip Schaff": [
+            "Who was highly valued by him as his only and faithful servant.",
+            "He was 'held in honor,' the object of his master's attachment.",
+            "The sickness was 'palsy'."
+        ],
+        "Archibald T. Robertson": [
+            "The centurions mentioned in the N.T. all seem to be fine men as Polybius states that the best men in the army had this position.\" (46 words)",
+            "Dear to him (\u03b1\u03c5\u03c4\u03c9 \u03b5\u03bd\u03c4\u03b9\u03bc\u03bf\u03c2). Held in honour, prized, precious, dear.\" (15 words)",
+            "And at the point of death (\u03b7\u03bc\u03b5\u03bb\u03bb\u03b5\u03bd \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03b9\u03bd). Imperfect active of \u03bc\u03b5\u03bb\u03bb\u03c9... He was about to die.\" (24 words)"
+        ],
+        "John Gill": [
+            "Tabi my servant, is not as other servants, \u05db\u05e9\u05e8 \u05d4\u05d9\u05d4, 'he is upright'.\" ",
+            "In all appearance his case was desperate, and there was no help for him by any human means, which makes the following cure, the more remarkable.",
+            "The more remarkable."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A centurion, a commander of a division of troops, had a servant who was held in honor and valued by him. This servant, highly esteemed by the centurion, was very dear to him. Unfortunately, the servant was at the point of death, suffering from palsy, a grave illness. It seemed that there was no hope for the servant, no human means of healing him. Yet, what follows is a remarkable cure, a demonstration of the extraordinary power at work.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.595080834208764,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.38,
+            "commentatorTierSimilarities": [
+                31.51,
+                36.3,
+                32.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A centurion, prized for his position of authority over a division of troops, had a servant who was held in honor and highly valued by him. This dear servant was about to die, on the verge of succumbing to the grave illness of palsy. There seemed to be no human remedy for his desperate condition, making the subsequent cure all the more remarkable.",
+            "wordCount": 63,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.4954977397810922,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+            "commentatorTierSimilarities": [
+                32.33,
+                32.33,
+                35.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A centurion had a valuable servant who was held in honor and highly esteemed by him. This precious servant was on the brink of death, suffering from palsy. It appeared that there was no hope for him through human means, which makes the subsequent cure all the more remarkable.",
+            "wordCount": 49,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 1.7236975427255083,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                26.91,
+                40.63,
+                32.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A centurion, the commander of a division of troops, had a valuable servant who was dear to him. The servant was highly valued and honored by the centurion. The servant was at the point of death, his condition desperate, with no human means of help. Yet, the cure that followed was remarkable.",
+            "wordCount": 52,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7067547699972183,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+            "commentatorTierSimilarities": [
+                31.89,
+                38.2,
+                29.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A centurion, in charge of a division of troops, had a highly valued servant who was dear and held in honor by his master. This servant was at the point of death, with no help in sight by any human means. However, the cure that followed was remarkable given the desperate nature of his condition.",
+            "wordCount": 55,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.6534100223828712,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                33.58,
+                35.54,
+                30.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

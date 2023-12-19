@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:14:38",
+    "verseRef": "Luke 2:49",
+    "bestBHT": {
+        "bht": "In the simplicity and boldness of His holy childhood, Jesus questioned His parents why they were searching for Him when it should have been clear that He would be in His Father's house. His use of the word must highlights His unwavering commitment to His divine purpose. Although He had not yet begun His public work, He recognized that it was His duty to be engaged in the great business for which He came from heaven. Jesus' response emphasizes the importance of prioritizing our obligation to God above all else.",
+        "wordCount": 91,
+        "quoteTokenProportion": 47.76,
+        "qualityScore": 2.0235202531575904,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+        "commentatorTierSimilarities": [
+            25.92,
+            42.94,
+            31.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How is it that ye sought me?... what (reason) is there, that... This is no reproachful question. It is asked in all the simplicity and boldness of holy childhood...",
+            "did ye not know?... it appeared as if that conviction, the expression of which now first breaks forth from HIM, must have been a matter known to them before.",
+            "I must] This is that must, so often used by our Lord of His appointed and undertaken course."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here He felt Himself at home, breathing His own proper air.",
+            "Let ordinary worshippers be content to keep the feast and be gone; but is this all ye have learnt of Me?",
+            "My Father has not been seeking Me; I have been with Him all this time."
+        ],
+        "Albert Barnes": [
+            "Mary should have known that the Son of God was safe; that his heavenly Father would take care of him, and that he could do nothing amiss.",
+            "You had reason to know. You knew my design in coming into the world, and that design was 'superior' to the duty of obeying earthly parents, and they should be willing always to give me up to the proper business for which I live.",
+            "He did not enter, indeed, upon his public work for eighteen years after this; yet still the work of God was 'his' work, and always, even in childhood, it was proper for him to be engaged in the great business for which he came down from heaven."
+        ],
+        "Marvin Vincent": [
+            "Must [\u03b4\u03b5\u03b9] . Lit., it is necessary, or it behoves. A word often used by Jesus concerning his own appointed work, and expressing both the inevitable fulfilment of the divine counsels and the absolute constraint of the principle of duty upon himself.\" ",
+            "About my Father 's business [\u03b5\u03bd \u03c4\u03bf\u03b9\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c4\u03c1\u03bf\u03c2] . Lit., in the things of my Father. The words will bear this rendering; but the Rev. is better, in my Father 's house.",
+            "Jesus, in effect, answers, 'Where is a child to be found but in his Father 's house ?'"
+        ],
+        "John Calvin": [
+            "The duty which he owes to God his Father, ought to be immeasurably preferred to all human duties; and that, consequently, earthly parents do wrong in taking it amiss, that they have been neglected in comparison of God.",
+            "Thus we ought to obey kings, and parents, and masters, but only in subjection to God: that is, we must not, for the sake of men, lessen or take away anything from God.",
+            "Let us learn from this, to receive with reverence, and to lay up in our minds those mysteries of God which exceed our capacity."
+        ],
+        "Philip Schaff": [
+            "But \u2018in all the simplicity and boldness of holy childhood,\u2019 He expresses astonishment that they had not known where He would be and where He ought to be.",
+            "The words: \u2018my Father,\u2019 assert what was implied, or only negatively expressed, in the previous part of the response. He claims God as His Father, and not only justifies His conduct by this claim, but expresses the conviction that they should have recognized it.",
+            "In these days men, after all the light from Christ\u2019s life, after all the evidences of His power in the Christian centuries, fail to understand this saying of His, respecting His own Person."
+        ],
+        "Archibald T. Robertson": [
+            "The mother's reproach of the boy is followed by a confession of negligence on her part and of Joseph (sorrowing).",
+            "The first words of Jesus preserved to us. This crisp Greek idiom without copula expresses the boy's amazement that his parents should not know that there was only one possible place in Jerusalem for him.",
+            "When the boy first became conscious of his peculiar relation to the Father in heaven we do not know. But he has it now at twelve and it will grow within him through the years ahead in Nazareth."
+        ],
+        "John Gill": [
+            "Christ seems to tax them with ignorance, or, at least, forgetfulness of his having a Father in heaven, whose business he came to do on earth.",
+            "The business that Christ came about was to preach the Gospel, and which he afterwards performed with great clearness and fulness, with much power, majesty, and authority, with great constancy and diligence, with much concern for the souls of men.",
+            "But the main, and principal part of his business was, to work out salvation for his people, by fulfilling the law, making reconciliation and atonement for their sins, and obtaining eternal redemption."
+        ],
+        "John Wesley": [
+            "He does not blame them for losing, but for thinking it needful to seek him.",
+            "He could not be lost, nor found anywhere, but doing the will of a higher parent.",
+            "Intimates, that he could not be lost, nor found any where, but doing the will of a higher parent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In all the simplicity and boldness of His holy childhood, Jesus responded to His parents' concern by asking them why they sought Him when it should have been obvious that He would be in His Father's house. Jesus' use of the word must emphasizes His unwavering commitment to His appointed and undertaken course. Though He had not yet begun His public work, He understood that it was His duty to be engaged in the great business for which He came down from heaven. Jesus, in effect, answers His parents by asserting His unique relationship with God as His Father and expressing surprise that they did not understand this. His response serves as a reminder to us to prioritize our duty to God above all other earthly obligations.",
+            "wordCount": 128,
+            "quoteTokenProportion": 45.98,
+            "qualityScore": 2.098876897238638,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.13,
+            "commentatorTierSimilarities": [
+                27.09,
+                41.35,
+                31.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the simplicity and boldness of His holy childhood, Jesus questioned His parents as to why they were searching for Him, when the only place He should be is in His Father's house. His use of the word must highlights His unwavering commitment to His divine purpose. Although He had not yet started His public ministry, He recognized that He was duty-bound to be actively involved in the work He was sent to do. Jesus' response reveals the importance of prioritizing our obligation to God above all else.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.9457201488836198,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.04,
+            "commentatorTierSimilarities": [
+                26.11,
+                43.11,
+                30.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the simplicity and boldness of His holy childhood, Jesus responded to His parents' concern by reminding them that they should have known He would be in His Father's house. His use of the word must emphasizes His unwavering commitment to His appointed and undertaken course. Though He had not yet begun His public work, He understood that it was His duty to be engaged in the great business for which He came down from heaven. Jesus' response serves as a reminder to prioritize our duty to God above all earthly obligations.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.983945596259224,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+            "commentatorTierSimilarities": [
+                26.19,
+                41.24,
+                32.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the simplicity and boldness of His holy childhood, Jesus questioned His parents why they were searching for Him when it should have been clear that He would be in His Father's house. His use of the word must highlights His unwavering commitment to His divine purpose. Although He had not yet begun His public work, He recognized that it was His duty to be engaged in the great business for which He came from heaven. Jesus' response emphasizes the importance of prioritizing our obligation to God above all else.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.0235202531575904,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+            "commentatorTierSimilarities": [
+                25.92,
+                42.94,
+                31.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in the simplicity and boldness of His holy childhood, wondered why His parents were searching for Him, when it should have been evident that He would be in His Father's house. He emphasized the necessity of His appointed work with the use of the word must. Even at this young age, Jesus understood His duty to be engaged in the business for which He came down from heaven. His response prompts us to prioritize our relationship with God above all earthly obligations.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.9462868186384803,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+            "commentatorTierSimilarities": [
+                26.68,
+                40.98,
+                32.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

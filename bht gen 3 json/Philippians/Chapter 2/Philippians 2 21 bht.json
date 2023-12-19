@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:54:39",
+    "verseRef": "Philippians 2:21",
+    "bestBHT": {
+        "bht": "Many seek their own interests, not those of Jesus Christ. It is not a hyperbole to say they all seek their own matters, with only a few sacrificing ease, fame, and gain for the Lord's cause. Most help when it aligns with their own gain. This likely refers to all except Timothy, who sacrificed for the cause. How many of us are like Timothy, willing to leave behind our business and homes for the sake of Christ? Examine your heart - do you seek the things of Jesus or your own gain?",
+        "wordCount": 92,
+        "quoteTokenProportion": 54.1,
+        "qualityScore": 1.8992573863289137,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.49,
+        "commentatorTierSimilarities": [
+            29.43,
+            39.61,
+            30.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For they all seek their own matters, not those of Jesus Christ.",
+            "No weakening of the assertion must be thought of, as that of understanding the word all as hyperbolically put for many, or most.",
+            "Both all and the assertion are absolute."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They all seek their own\u2014opposed to Paul's precept.",
+            "Few come to the help of the Lord's cause, where ease, fame, and gain have to be sacrificed.",
+            "Most help only when Christ's gain is compatible with their own."
+        ],
+        "Albert Barnes": [
+            "How many professing Christians in our cities and towns are there now who would be willing to leave their business and their comfortable homes and go on embassy like this to Philippi?",
+            "They are bound to be willing to sacrifice their own things - to deny themselves of ease, and to be always ready to expose themselves to peril and want if they may be the means of advancing his cause.",
+            "There are few Christians who deny themselves much to promote the kingdom of the Redeemer; few who are willing to lay aside what they regard as their own in order to advance his cause."
+        ],
+        "Marvin Vincent": [
+            "The all; that is, one and all.",
+            "The expression, however, must have limitations.",
+            "It probably means, all except Timothy, that he has at his disposal of those who would naturally be selected for such an office."
+        ],
+        "John Calvin": [
+            "It may seem at first view as if it were no great fault to seek one\u2019s own profit; but how insufferable it is in the servants of Christ, appears from this, that it renders those that give way to it utterly useless.",
+            "For it must necessarily be, that one or other of two dispositions prevails over us \u2014 either that, overlooking ourselves, we are devoted to Christ, and those things that are Christ\u2019s, or that, unduly intent on our own advantage, we serve Christ in a superficial manner.",
+            "An allowance must be given to the ministers of the Church to seek their own interests, so as not to be prevented from seeking the kingdom of Christ; but in that case they will not be represented as seeking their own interests, as a man\u2019s life is estimated according to its chief aim."
+        ],
+        "Philip Schaff": [
+            "For they all seek their own, not the things of Jesus Christ.",
+            "In the \u2018things of Jesus Christ\u2019 we must not only understand all that is connected with the preaching and advancement of the Gospel, but such matters also as most nearly concerned the apostle himself.",
+            "In this we can see the reason why, till the course which events would take was better known, he could not suffer Timothy to leave him."
+        ],
+        "Archibald T. Robertson": [
+            "They all (\u03bf \u03c0\u03b1\u03bd\u03c4\u03b5\u03c2). \"The whole of them.\" Surely Luke was away from Rome at this juncture. "
+        ],
+        "John Gill": [
+            "For all seek their own... chiefly sought their own worldly interest and advantage... they sought for dominion and authority over men... they sought for popular applause... and particularly their own ease and health...\" (100 words)",
+            "not the things which are Jesus Christ; they had no true regard to the Gospel of Christ... nor any hearty affection for the ordinances of Christ... nor for the churches of Christ... [they] cared not if the house of God lay waste...\" (100 words)",
+            "But Timothy was a man of a quite different spirit and complexion...\" (17 words)"
+        ],
+        "John Wesley": [
+            "In that golden age of the church, could St. Paul throughly approve of one only, among all the labourers that were with him?\" ",
+            "And how many do we think can now approve themselves to God?\" ",
+            "They will find few helpers likeminded with themselves, willing naked to follow a naked Master."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many seek their own interests and not the things of Jesus Christ. It is not a hyperbole to say that all seek their own matters, with only a few sacrificing their own ease, fame, and gain for the Lord's cause. Unfortunately, most only help when it aligns with their own gain. This verse likely refers to all except Timothy, who had the willingness to lay aside his own interests to advance the cause of Christ. It is a rare quality to find Christians willing to sacrifice their own comfort for the advancement of the kingdom. How many of us are like Timothy, willing to leave behind our business and comfortable homes to go on an embassy for Christ? Let us examine our own hearts and see if we truly seek the things of Jesus or our own gain.",
+            "wordCount": 139,
+            "quoteTokenProportion": 45.68,
+            "qualityScore": 1.950181197180858,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                24.17,
+                43.73,
+                32.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Many seek their own interests, not those of Jesus Christ. It is not a hyperbole to say they all seek their own matters, with only a few sacrificing ease, fame, and gain for the Lord's cause. Most help when it aligns with their own gain. This likely refers to all except Timothy, who sacrificed for the cause. How many of us are like Timothy, willing to leave behind our business and homes for the sake of Christ? Examine your heart - do you seek the things of Jesus or your own gain?",
+            "wordCount": 92,
+            "quoteTokenProportion": 54.1,
+            "qualityScore": 1.8992573863289137,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.49,
+            "commentatorTierSimilarities": [
+                29.43,
+                39.61,
+                30.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many seek their own interests, not those of Jesus Christ. It is not an exaggeration to say that all seek their own matters, with only a few sacrificing their own ease, fame, and gain for the Lord's cause. Unfortunately, most only help when it aligns with their own gain. This verse likely refers to all except Timothy, who had the willingness to lay aside his own interests to advance the cause of Christ. It is a rare quality to find Christians willing to sacrifice for the advancement of the kingdom. Let us examine our own hearts and see if we truly seek the things of Jesus or our own gain.",
+            "wordCount": 111,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.9656880847710125,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                25.6,
+                42.22,
+                32.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Many seek their own interests, not those of Jesus Christ. It is not a hyperbole to say they all seek their own matters, with only a few sacrificing their own ease, fame, and gain for the Lord's cause. Most help only when Christ's gain is compatible with their own. The expression they all likely means all except Timothy, who had the willingness to lay aside his own interests for the sake of Christ. Few Christians deny themselves to promote Christ's kingdom. Let us examine our hearts and see if we truly seek the things of Jesus or our own gain.",
+            "wordCount": 103,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0615722474384506,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.89,
+            "commentatorTierSimilarities": [
+                28.86,
+                39.4,
+                31.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many seek their own interests, not those of Jesus Christ. It is not an exaggeration to say that all seek their own matters, with only a few sacrificing their own ease, fame, and gain for the Lord's cause. Unfortunately, most help only when it aligns with their own gain. This verse likely refers to all except Timothy, who had the willingness to lay aside his own interests to advance the cause of Christ. It is a rare quality to find Christians willing to sacrifice for the advancement of the kingdom. Let us examine our own hearts and see if we truly seek the things of Jesus or our own gain.",
+            "wordCount": 111,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.9603948822075363,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                25.76,
+                42.05,
+                32.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

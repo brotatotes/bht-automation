@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:27:59",
+    "verseRef": "Acts 8:2",
+    "bestBHT": {
+        "bht": "Devout men, possibly pious Jews impressed by Stephen and secretly inclined to Christianity, buried the martyr's disfigured body with reverence. These men were not Jewish proselytes, but members of the Christian church who showed great respect to the dead body of this holy martyr. Contrary to Jewish tradition, they mourned for Stephen, aware that his sins were atoned for another way. Despite persecution, these godly individuals displayed unwavering faith and a steadfast commitment to their religious duties.",
+        "wordCount": 78,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 2.119451630759685,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+        "commentatorTierSimilarities": [
+            25.29,
+            30.2,
+            44.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whether Jews or Christians, is not certain.",
+            "Ananias is so called, ch. xxii. 12, and he was a Christian.",
+            "Probably they were pious Jews, not yet converts, but hearers and admirers of Stephen."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. and devout men\u2014pious Jews,",
+            "\tprobably, impressed with admiration for Stephen and secretly inclined",
+            "\tto Christianity, but not yet openly declared."
+        ],
+        "Albert Barnes": [
+            "The word used here does not imply of necessity that they were Christians.",
+            "The word translated 'carried' means properly to 'collect,' as fruits, etc.",
+            "This was usual among the Jews at a funeral."
+        ],
+        "Marvin Vincent": [
+            "Stephen [\u03c3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03bd] . Meaning crown. He was the first who received the martyr's crown.",
+            "Devout. See on Luke 2:25.",
+            "Lamentation [\u03ba\u03bf\u03c0\u03b5\u03c4\u03bf\u03bd] . Lit., beating (of the breast). Only here in New Testament."
+        ],
+        "John Calvin": [
+            "Even in the heat of persecution the godly were not discouraged, but being always zealous, they did those duties which did belong to godliness.",
+            "The care they had to bury the martyr was unto them a meditation unto invincible constancy of professing the faith.",
+            "Certain mad fellows would gladly bring in the same dotings into the Church at this day, and yet, notwithstanding, although they require an heart of iron of other men, there is nothing softer or more effeminate than they."
+        ],
+        "Philip Schaff": [
+            "And devout men... were found reverently to bury the martyr's disfigured body.",
+            "These, though not professedly followers of Jesus, still as inquirers, had listened with admiration to the brave and eloquent deacon.",
+            "Chrysostom remarks that Stephen's own dying words were his noblest funeral oration: 'Lord, lay not this sin to their charge.'"
+        ],
+        "Archibald T. Robertson": [
+            "Devout (\u03b5\u03c5\u03bb\u03b1\u03b2\u03b5\u03b9\u03c2). Possibly some non-Christian Jews helped.",
+            "Buried (\u03c3\u03c5\u03bd\u03b5\u03ba\u03bf\u03bc\u03b9\u03c3\u03b1\u03bd). Aorist active indicative of \u03c3\u03c5\u03bd\u03ba\u03bf\u03bc\u03b9\u03b6\u03c9, old verb to bring together, to collect, to join with others in carrying, to bury.",
+            "Lamentation (\u03ba\u03bf\u03c0\u03b5\u03c4\u03bf\u03bd). Late word from \u03ba\u03bf\u03c0\u03c4\u03bf\u03bc\u03b1, to beat the breast, in LXX, Plutarch, etc., only here in the N.T."
+        ],
+        "John Gill": [
+            "These men were not Jewish proselytes, but members of the Christian church; who were eminent for their religion and piety, and who had courage enough, amidst this persecution, to show a respect to the dead body of this holy martyr.",
+            "They did everything preparatory to the funeral, which is chiefly designed by the word here used, rather than the carrying of him out to his grave; though this also they did, and buried him.",
+            "In this they went contrary to the Jewish rule, which forbids lamentation for those that died as malefactors...but these devout men knew that Stephen needed no such atonement, and that his sins were atoned for another way."
+        ],
+        "John Wesley": [
+            "Devout men \u2014 Who feared God more than persecution. And yet were they not of little faith? Else they would not have made so great lamentation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Devout men, possibly pious Jews impressed with admiration for Stephen and secretly inclined to Christianity, were found reverently burying the martyr's disfigured body. These men were not Jewish proselytes, but members of the Christian church who were eminent for their religion and piety. They did everything preparatory to the funeral, showing great respect to the dead body of this holy martyr. In going against the Jewish rule that forbids lamentation for those who died as malefactors, these devout men knew that Stephen needed no such atonement, and that his sins were atoned for another way. Their act of burying Stephen amidst the heat of persecution demonstrated invincible constancy of professing the faith.",
+            "wordCount": 113,
+            "quoteTokenProportion": 31.65,
+            "qualityScore": 2.1244082365506287,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+            "commentatorTierSimilarities": [
+                23.45,
+                32.06,
+                44.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Devout men, possibly pious Jews inclined to Christianity, reverently buried the martyr's disfigured body. These men, members of the Christian church, showed great respect to the dead body of this holy martyr. They went against Jewish rules forbidding lamentation for those who died as malefactors, knowing that Stephen needed no such atonement. Burying him amidst persecution demonstrated invincible constancy of professing the faith. Even in the heat of persecution, the godly were not discouraged, faithfully carrying out their duties of godliness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 2.027860397978663,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.77,
+            "commentatorTierSimilarities": [
+                23.49,
+                31.24,
+                45.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Devout men, possibly pious Jews impressed by Stephen and secretly inclined to Christianity, buried the martyr's disfigured body with reverence. These men were not Jewish proselytes, but members of the Christian church who showed great respect to the dead body of this holy martyr. Contrary to Jewish tradition, they mourned for Stephen, aware that his sins were atoned for another way. Despite persecution, these godly individuals displayed unwavering faith and a steadfast commitment to their religious duties.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 2.119451630759685,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+            "commentatorTierSimilarities": [
+                25.29,
+                30.2,
+                44.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Devout men, possibly pious Jews secretly inclined to Christianity, buried the disfigured body of the martyr with reverence. They, being members of the Christian church, showed great respect for Stephen by going against the Jewish rule that forbids lamentation for those who died as malefactors. Despite facing persecution, these godly individuals demonstrated unwavering faith and dedication to their religious duties. Their act of burying Stephen amidst adversity served as a testament to their invincible constancy in professing their faith.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 2.0602788603155093,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
+            "commentatorTierSimilarities": [
+                23.41,
+                29.81,
+                46.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Devout men, possibly pious Jews impressed with Stephen and secretly inclined to Christianity, reverently buried the martyr. These men were members of the Christian church, demonstrating great respect for Stephen by going against Jewish tradition of not mourning for malefactors. In the face of persecution, these godly individuals displayed unwavering faith and commitment to their religious duties. Their act of burying Stephen amidst adversity reflects their invincible constancy in professing the faith, even when others would require an heart of iron.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.016032753646514,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                24.89,
+                29.12,
+                45.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

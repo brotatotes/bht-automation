@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:27:03",
+    "verseRef": "Acts 7:13",
+    "bestBHT": {
+        "bht": "The repetition of Joseph's name in this passage indicates a patriotic pride associated with his race. The mention of the second time he was made known and the clarity it brought echoes the events recorded in Genesis 45. This significant moment, when Joseph's kindred was revealed to Pharaoh, held a proud memory for Israel. Prior to this, Joseph's family lineage remained unknown, but now it becomes evident.",
+        "wordCount": 69,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 2.0587413506927734,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.79,
+        "commentatorTierSimilarities": [
+            34.6,
+            31.84,
+            33.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Joseph was made known - Genesis 45:4.",
+            "Joseph\u2019s kindred ... - His relatives; his family, Genesis 45:16."
+        ],
+        "Marvin Vincent": [
+            "Joseph 's race. Note the repetition of the name. \"A certain sense of patriotic pride is implied in it."
+        ],
+        "Philip Schaff": [
+            "The name of Joseph is repeated (it occurred before in this verse) with some pride by Stephen.",
+            "The fact of these wandering shepherd ancestors of the Jews being presented at the court of the magnificent Pharaoh of Egypt as the near kinsfolk of that wise and renowned minister Joseph, was evidently a proud memory in Israel.",
+            "...a proud memory in Israel."
+        ],
+        "Archibald T. Robertson": [
+            "At the second time... This second visit is recorded in Genesis 45:1.",
+            "Became manifest... now it was made clear to him.",
+            "In Genesis 41:12 the fact that Joseph was a Hebrew had been incidentally mentioned to Pharaoh..."
+        ],
+        "John Gill": [
+            "And at the second time Joseph was made known to his brethren.\" ",
+            "Joseph's kindred was made known unto Pharaoh.",
+            "It was not known of what family he was, who was his father, or his brethren, but now it was known."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 7:13, the repetition of Joseph's name carries a certain sense of patriotic pride as Stephen emphasizes Joseph's race. This verse refers to the second time Joseph was made known to his brethren, a moment recorded in Genesis 45:4. This event, in which Joseph's kindred was made known to Pharaoh, held a proud memory in Israel. Prior to this revelation, Joseph's family lineage had been unknown, but now it was clear to all.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.208101144911983,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.76,
+            "commentatorTierSimilarities": [
+                30.59,
+                33.2,
+                36.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The repetition of Joseph's name in Acts 7:13 implies a sense of patriotic pride. This reflects the moment in Genesis 45 where Joseph becomes known to his brethren for the second time, revealing his kindred to Pharaoh. This event holds a proud memory in Israel as Joseph's family lineage was previously unknown, but now it becomes clear to all.",
+            "wordCount": 59,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 2.1849748952019805,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.99,
+            "commentatorTierSimilarities": [
+                34.93,
+                33.31,
+                31.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The repetition of Joseph's name in this passage indicates a patriotic pride associated with his race. The mention of the second time he was made known and the clarity it brought echoes the events recorded in Genesis 45. This significant moment, when Joseph's kindred was revealed to Pharaoh, held a proud memory for Israel. Prior to this, Joseph's family lineage remained unknown, but now it becomes evident.",
+            "wordCount": 69,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.0587413506927734,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.79,
+            "commentatorTierSimilarities": [
+                34.6,
+                31.84,
+                33.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The repetition of Joseph's name in Acts 7:13 carries a patriotic sentiment, emphasizing his race. This verse points to the second time Joseph was made known to his brethren, which is recorded in Genesis 45. It was during this moment that Joseph's kindred became manifest to Pharaoh. This event held a proud memory in Israel, as prior to this revelation, Joseph's family lineage had been unknown, but now it was made clear.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.1795555538213334,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.81,
+            "commentatorTierSimilarities": [
+                31.64,
+                31.88,
+                36.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The repetition of Joseph's name underscores a sense of patriotic pride in his race, as mentioned in Acts 7:13. This verse alludes to the second time Joseph was made known to his brethren, a significant event chronicled in Genesis 45. During this occurrence, Joseph's kindred was made manifest to Pharaoh, leaving a lasting impression in Israel's history. Previously, Joseph's family lineage remained undisclosed, but now it was revealed for all to see.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.1112566444979013,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+            "commentatorTierSimilarities": [
+                32.88,
+                31.77,
+                35.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

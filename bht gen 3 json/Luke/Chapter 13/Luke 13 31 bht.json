@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:19:40",
+    "verseRef": "Luke 13:31",
+    "bestBHT": {
+        "bht": "Haunted by guilty fears, Herod desired to get rid of Jesus as he was traveling towards Jerusalem. Recognizing the cunning ruler's intentions, Jesus responded to him with dignified irony. The Pharisees, who themselves were plotting against Jesus, played the role of warning him against Herod's plans. Jesus saw through their hypocrisy but acknowledged the fact that Herod willed or was determined to kill him. Jesus was aware of the plot against him, and in that very hour, he received the message from the Pharisees, which prompted him to hasten his departure as soon as possible.",
+        "wordCount": 97,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 2.1379015330665485,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.43,
+        "commentatorTierSimilarities": [
+            29.94,
+            38.04,
+            32.02
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "31.] In that hour is not necessarily definite."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He was on His way out of Perea, east of Jordan, and in Herod's dominions, 'journeying towards Jerusalem.'\" ",
+            "Haunted by guilty fears, probably, Herod wanted to get rid of Him.",
+            "Our Lord saw through both of them, and sends the cunning ruler a message couched in dignified and befitting irony."
+        ],
+        "Albert Barnes": [
+            "Their coming to him in this manner would have the appearance of friendship, as if they had conjectured or secretly learned that it was Herod\u2019s intention to kill him.",
+            "It might seem probable, therefore, that he intended to take the life of Jesus, and this might appear as a friendly hint to escape him.",
+            "Jesus was eminently popular, and Herod might not dare openly to put him to death; yet he desired his removal, and for this purpose he sent these people, as if in a friendly way, to advise him to retire."
+        ],
+        "Marvin Vincent": [
+            "Herod willeth or is determined to kill thee.\" ",
+            "The meaning is, Herod willeth or is determined to kill thee.",
+            "Rev., would fain, seems rather feeble."
+        ],
+        "John Calvin": [
+            "It deserves our attention, that Christ gives the designation, daughter of Abraham, to one whose body had been enslaved by Satan during eighteen years.",
+            "Here we perceive also what Paul tells us, that some are delivered to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.",
+            "Their design was, to awaken in him such fears as would drive him to some place of concealment; for they expected that, in a short time, his authority would decline, and that his whole doctrine would vanish away."
+        ],
+        "Philip Schaff": [
+            "In that very hour. This is the correct translation.",
+            "To threaten thus without really purposing to carry out the threat, to use Pharisees, his opponents, to report the threat, is the cunning of \u2018that fox.\u2019",
+            "Our Lord was probably in Perea, part of Herod\u2019s territory, and that part too in which John the Baptist had been put to death."
+        ],
+        "Archibald T. Robertson": [
+            "In that very hour (\u03b5\u03bd \u03b1\u03c5\u03c4\u03b7 \u03c4\u03b7 \u03c9\u03c1\u03b1). Luke's favourite notation of time.",
+            "Pharisees (\u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03b9\u03bf). Here we see the Pharisees in a new role, warning Jesus against the machinations of Herod, when they are plotting themselves."
+        ],
+        "John Gill": [
+            "Feared to lay hold on him, and put him to death; partly because of the people, and partly because of the remaining uneasiness and terror of his mind.\" ",
+            "Get thee out and depart hence; in all haste, as soon as possible.",
+            "He is resolved upon it, he has formed a design, and will quickly take methods to execute it."
+        ],
+        "John Wesley": [
+            "Herod is minded to kill thee \u2014 Possibly they gave him the caution out of good will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Haunted by guilty fears, Herod desired to get rid of Jesus as he was traveling towards Jerusalem. Recognizing the cunning ruler's intentions, Jesus responded to him with dignified irony. The Pharisees, who themselves were plotting against Jesus, played the role of warning him against Herod's plans. Jesus saw through their hypocrisy but acknowledged the fact that Herod willed or was determined to kill him. Jesus was aware of the plot against him, and in that very hour, he received the message from the Pharisees, which prompted him to hasten his departure as soon as possible.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.1379015330665485,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.43,
+            "commentatorTierSimilarities": [
+                29.94,
+                38.04,
+                32.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Herod, haunted by guilty fears, wanted to dispose of Jesus as he made his way towards Jerusalem. Recognizing Herod's cunning intentions, Jesus responded ironically, seeing through the Pharisees who warned him against the plot. Jesus knew that Herod was determined to kill him, and in that very hour, received the message from the Pharisees. This prompted him to swiftly depart, hastening his departure as soon as possible.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0674667488846663,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.08,
+            "commentatorTierSimilarities": [
+                28.55,
+                37.35,
+                34.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Haunted by guilty fears, Herod desired to get rid of Jesus as he was journeying towards Jerusalem. Jesus saw through the cunning ruler's intentions and responded ironically to him through the message delivered by the Pharisees. Aware of Herod's determination to kill him, Jesus received the warning in that very hour. Prompted by this, Jesus resolved to swiftly depart and escape from the danger.",
+            "wordCount": 66,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 2.0585426448739943,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.79,
+            "commentatorTierSimilarities": [
+                28.31,
+                37.24,
+                34.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Haunted by guilty fears and determined to get rid of Jesus, Herod wanted to kill him as he journeyed towards Jerusalem. Recognizing Herod's intentions, Jesus responded ironically through the message brought by the Pharisees, who themselves were plotting against him. Aware of the plot, Jesus received the warning in that very hour and concluded that he must swiftly depart and escape from the impending danger.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.0603943146534864,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
+            "commentatorTierSimilarities": [
+                28.15,
+                36.47,
+                35.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Haunted by guilty fears, Herod desired to get rid of Jesus as he was traveling towards Jerusalem. Recognizing the cunning ruler's intentions, Jesus responded to him with dignified irony. The Pharisees, who themselves were plotting against Jesus, played the role of warning him against Herod's plans. Jesus saw through their hypocrisy but acknowledged the fact that Herod willed or was determined to kill him. Jesus was aware of the plot against him and in that very hour, received the message from the Pharisees, which prompted him to hasten his departure as soon as possible.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.137481101880897,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.41,
+            "commentatorTierSimilarities": [
+                30.03,
+                37.98,
+                31.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

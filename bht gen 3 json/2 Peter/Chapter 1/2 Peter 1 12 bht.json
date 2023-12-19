@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:40:23",
+    "verseRef": "2 Peter 1:12",
+    "bestBHT": {
+        "bht": "The writer emphasizes the importance of constantly reminding believers about the truths of the Gospel, despite their firm establishment in the present truth. This present truth refers to the truth possessed by believers through the preaching of the Gospel, known and professed among them. The writer expresses readiness to continuously preserve a loving recollection of these facts and responsibilities, which are crucial for a rich participation in the blessings and glories of Christ's kingdom.",
+        "wordCount": 75,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.182757356683719,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.92,
+        "commentatorTierSimilarities": [
+            28.09,
+            43.67,
+            28.24
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Wherefore (namely, because the doing these things is the only way to a rich participation in the blessings and glories of Christ\u2019s kingdom) I will be sure always to remind you concerning these things.\" ",
+            "Though ye know them, and are confirmed (firmly established) in the truth which is present with you.",
+            "The meaning is, \u2018which is [known and professed] among you\u2019."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I will be sure always to remind you.\" ",
+            "The Gospel truth now present with you: formerly promised to Old Testament believers as about to be, now in the New Testament actually present with, and in, believers, so that they are 'established' in it as a 'present' reality.",
+            "Its importance renders frequent monitions never superfluous."
+        ],
+        "Albert Barnes": [
+            "It is the office of the ministry not only to impart to a people truths which they did not know before, but a large part of their work is to bring to recollection well-known truths.",
+            "A pastor, in order to be useful, need not always aim at originality, or deem it necessary always to present truths which have never been heard of before. He renders an essential service to mankind who 'reminds' them of what they know but are prone to forget.",
+            "Though we may be very firm in our belief of the truth, yet there is a propriety that the grounds of our faith should be stated to us frequently, that they may be always in our remembrance."
+        ],
+        "Marvin Vincent": [
+            "The better reading, however, is mellhsw, I intend, or, as often in classical Greek, with a sense of certainty - I shall be sure, which Rev. adopts, rendering I shall be ready.\" ",
+            "The formula occurs in but one other passage, Matthew 24:6, where it is translated by the simple future, ye shall hear, with an implied sense, as ye surely will hear.",
+            "In the present truth [\u03b5\u03bd \u03c4\u03b7 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b7 \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1] . i e., the truth which is present with you through the instruction of your teachers; not the truth at present under consideration."
+        ],
+        "John Calvin": [
+            "As we seem to distrust either the memory or the attention of those whom we often remind of the same thing, the Apostle makes this modest excuse.\"  ",
+            "In a matter so great, admonitions are never superfluous; and, therefore, they ought never to be deemed vexatious.\" ",
+            "He calls that the present truth, into the possession of which they had already entered by a sure faith."
+        ],
+        "Philip Schaff": [
+            "The entrance into the eternal kingdom of Him who bestows that endowment can be 'richly furnished' only to those who do the things which have been recommended.",
+            "The writer professes his constant readiness to preserve in them a loving recollection of these facts and responsibilities.",
+            "The truth which is meant is neither the truth which specially suits the present time, nor the truth which is at present under consideration, but the truth which is present with you, which has come into their possession through the preaching of the Gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Since they are possessed of faith that conduces to godliness which they are diligently practicing now he insists on the truth...\".",
+            "To keep on reminding you of those things.",
+            "Firmly established in the truth, but all the same Peter is eager to make them stronger."
+        ],
+        "John Gill": [
+            "and it is the duty and business of the ministers of the word frequently to inculcate those things",
+            "for those that know the most, know but in part; and may have their knowledge increased; and those that are the most established in the truths of the Gospel, may be confirmed yet more and more",
+            "by \"the present truth\" may be meant, either the whole scheme of the Gospel, which was now come by Christ, in opposition to the exhibition of it under the former dispensation, by promise and type"
+        ],
+        "John Wesley": [
+            "Everlasting destruction attends your sloth, everlasting glory your diligence.",
+            "I will not neglect always to remind you of these things.",
+            "Though ye are established in the present truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The writer of 2 Peter emphasizes the importance of constantly reminding believers about the truths of the Gospel. Even though they are firm in their beliefs, it is necessary to keep these truths in their remembrance. The present truth refers to the truth that believers have come to possess through the preaching of the Gospel, and this truth is known and professed among them. The writer expresses his readiness to preserve a loving recollection of these facts and responsibilities, as they are crucial for a rich participation in the blessings and glories of Christ's kingdom. The ministry's role includes bringing to recollection well-known truths and grounding believers in the present truth.",
+            "wordCount": 113,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.161842911559183,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                28.53,
+                43.89,
+                27.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writer underscores the necessity of constantly reminding believers about the truths of the Gospel. Though they are firmly established in the present truth, it is crucial to keep these truths in their remembrance. The present truth refers to the truth believers possess through the preaching of the Gospel, known and professed among them. The writer expresses his readiness to preserve a loving recollection of these facts and responsibilities, vital for a rich participation in the blessings and glories of Christ's kingdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.16876742089661,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.45,
+            "commentatorTierSimilarities": [
+                28.43,
+                43.13,
+                28.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The writer emphasizes the importance of continually reminding believers about the truths of the Gospel. Even though they are firmly established in the present truth, it is crucial to keep these truths in their remembrance. The present truth refers to the truth possessed by believers through the preaching of the Gospel, known and professed among them. The writer expresses readiness to ensure a loving recollection of these facts and responsibilities, essential for a rich participation in the blessings and glories of Christ's kingdom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.171772635393018,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.55,
+            "commentatorTierSimilarities": [
+                29.05,
+                42.4,
+                28.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer emphasizes the importance of constantly reminding believers about the truths of the Gospel, despite their firm establishment in the present truth. This present truth refers to the truth possessed by believers through the preaching of the Gospel, known and professed among them. The writer expresses readiness to continuously preserve a loving recollection of these facts and responsibilities, which are crucial for a rich participation in the blessings and glories of Christ's kingdom.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.182757356683719,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.92,
+            "commentatorTierSimilarities": [
+                28.09,
+                43.67,
+                28.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The writer of 2 Peter stresses the significance of constantly reminding believers about the truths of the Gospel. Though they are firmly established in the present truth, it is vital to keep these truths in their remembrance. This present truth refers to the truth known and professed among believers through the preaching of the Gospel. The writer expresses their readiness to preserve a loving recollection of these facts and responsibilities, as it is essential for a rich participation in the blessings and glories of Christ's kingdom.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.1645202566945123,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.31,
+            "commentatorTierSimilarities": [
+                29.13,
+                42.76,
+                28.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

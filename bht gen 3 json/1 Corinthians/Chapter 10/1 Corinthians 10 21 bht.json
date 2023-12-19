@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:11:31",
+    "verseRef": "1 Corinthians 10:21",
+    "bestBHT": {
+        "bht": "It is morally impossible to partake in the true communion of the Lord's Supper and also engage in the idolatrous feasts of demons. The cup of devils represents the pagan feasts, and the table of the Lord refers to the Lord's Supper. Joining in the worship of demons contradicts the devotion owed to Christ. It's an incongruous and impossible fellowship to be both Christ's and the devil's. Thus, it is improper and wicked to drink from the cup of the Lord and the cup of devils.",
+        "wordCount": 91,
+        "quoteTokenProportion": 30.23,
+        "qualityScore": 2.5202722579306935,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.14,
+        "commentatorTierSimilarities": [
+            28.49,
+            33.25,
+            38.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye cannot applies of course to the real spiritual participation of the table of the Lord so as to profit by it: to moral possibility.\" ",
+            "The cup of devils is said, as corresponding to the cup ot which mention has been already made, not as some fancy, referring to the libation at an idol feast.",
+            "From this passage probably, the 'Table of the Lord' became an expression current in all ages of the Christian Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye cannot drink the cup of the Lord\u2014really and spiritually; though ye may outwardly.",
+            "In drinking they had fellowship with the idol.",
+            "The communicant in the Lord's Supper has in it a real communion of, or fellowship in, the body of Christ once sacrificed, and now exalted as the Head of redeemed humanity."
+        ],
+        "Albert Barnes": [
+            "They were solemnly bound to serve and obey Christ, they had devoted themselves to him, and they could not, consistently with these obligations, join in the worship of demons.\" ",
+            "The custom of drinking 'toasts' at feasts and celebrations arose from this practice of pouring out wine, or drinking in honor of the pagan gods; and is a practice that still partakes of the nature of paganism.\" ",
+            "Either the sentiment is unmeaning, or it is a prayer offered to a pagan god, or it is mockery of Yahweh; and in either case it is improper and wicked."
+        ],
+        "Marvin Vincent": [
+            "The cup of devils. Representing the heathen feast.",
+            "The Lord's table. Representing the Lord's Supper.",
+            "The sacredness of the table in heathen worship is apparent from the manner in which it is combined with the altar in solemn formulae."
+        ],
+        "Philip Schaff": [
+            "Ye cannot drink the cup of the Lord, and the cup of the devils.",
+            "It is not only an incongruous and abhorrent fellowship, but it is an impossible fellowship; we cannot be Christ\u2019s and Belial\u2019s at one and the same time.",
+            "If the Lord\u2019s Supper is not a sacrifice, the New Testament language about it is just what we should expect: if it is, that language is unaccountable."
+        ],
+        "Archibald T. Robertson": [
+            "Morally impossible to drink the Lord's cup and the cup of demons, to partake of the Lord's table and the table of demons.",
+            "Here table means, as often, what is on the table.",
+            "The reference is plainly to the Lord's Supper."
+        ],
+        "John Gill": [
+            "Not only they ought not, but they could not rightly, truly, and really drink the cup of wine in the Lord's supper, in the true faith of Christ's bloodshed.",
+            "No man can serve two masters, God and mammon, or God and Baal; nor is there any concord between Christ and Belial, or agreement between the temple of God and idols.",
+            "No man can spiritually, however he may externally partake of the entertainment provided, on the table of the Lord, at his supper instituted and kept in commemoration of him; and also with gust and pleasure, and without any concern for the peace of weak minds, and the honour of God, eat things set upon a table in an idol's temple, and before the idol, and as sacrificed unto it."
+        ],
+        "John Wesley": [
+            "Ye cannot drink the cup of the Lord, and the cup of devils \u2014 You cannot have communion with both."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is morally impossible to partake in the true spiritual communion of the Lord's Supper and also participate in the idolatrous feasts of demons. The cup of devils represents the pagan feasts that the Corinthians were engaging in, and the table of the Lord refers to the Lord's Supper. The table in heathen worship is combined with the altar in solemn formulae, highlighting its sacredness. Joining in the worship of demons goes against the devotion and obedience owed to Christ. It is an incongruous and impossible fellowship to be both Christ's and the devil's. Thus, it is improper and wicked to drink from the cup of the Lord and the cup of devils.",
+            "wordCount": 117,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.454009821230395,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.94,
+            "commentatorTierSimilarities": [
+                29.78,
+                33.16,
+                37.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is morally impossible to partake in the true spiritual communion of the Lord's Supper and also participate in the idolatrous feasts of demons. The cup of devils represents the pagan feasts, and the table of the Lord refers to the Lord's Supper. Joining in the worship of demons goes against the devotion and obedience owed to Christ. It is an incongruous and impossible fellowship to be both Christ's and the devil's. Thus, it is improper and wicked to drink from the cup of the Lord and the cup of devils.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 2.503625287178871,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.59,
+            "commentatorTierSimilarities": [
+                28.18,
+                33.57,
+                38.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is morally impossible to participate in the true communion of the Lord's Supper and also engage in the idolatrous feasts of demons. The cup of devils represents the pagan feasts, and the table of the Lord refers to the Lord's Supper. Joining in the worship of demons goes against the devotion and obedience owed to Christ. It is an incongruous and impossible fellowship to be both Christ's and the devil's. Thus, it is improper and wicked to drink from the cup of the Lord and the cup of devils.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 2.5112760177256535,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.84,
+            "commentatorTierSimilarities": [
+                28.13,
+                33.73,
+                38.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is morally impossible to partake in the true spiritual communion of the Lord's Supper and also participate in the idolatrous feasts of demons. The cup of devils represents the pagan feasts, and the table of the Lord refers to the Lord's Supper. Joining in the worship of demons contradicts the devotion and obedience owed to Christ. It is an incongruous and impossible fellowship to be both Christ's and the devil's. Thus, it is improper and wicked to drink from the cup of the Lord and the cup of devils.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 2.5034460724041243,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.58,
+            "commentatorTierSimilarities": [
+                28.11,
+                33.51,
+                38.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is morally impossible to partake in the true communion of the Lord's Supper and also engage in the idolatrous feasts of demons. The cup of devils represents the pagan feasts, and the table of the Lord refers to the Lord's Supper. Joining in the worship of demons contradicts the devotion owed to Christ. It's an incongruous and impossible fellowship to be both Christ's and the devil's. Thus, it is improper and wicked to drink from the cup of the Lord and the cup of devils.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 2.5202722579306935,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.14,
+            "commentatorTierSimilarities": [
+                28.49,
+                33.25,
+                38.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

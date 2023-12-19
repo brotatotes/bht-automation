@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:36:46",
+    "verseRef": "Acts 26:10",
+    "bestBHT": {
+        "bht": "The significance of the word holy in this context cannot be overlooked, as it carries a deeper meaning in the New Testament and the Septuagint compared to the external practices of pagans. Interestingly, it is the standard word for holiness even in the Old Testament, which emphasizes externality. Paul's confession of voting against the early Christians reveals his past as a persecutor of the saints, emphasizing the mercy of God. His confident and bold tone in this speech before Agrippa and Festus resembles that of a fearless advocate rather than a powerless prisoner.",
+        "wordCount": 94,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.5535742534802943,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.0,
+        "commentatorTierSimilarities": [
+            31.36,
+            42.62,
+            26.01
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "In the history of those transactions, there is no account of any Christian being put to death except Stephen, Acts 7:0. But there is no improbability in supposing that the same thing which had happened to Stephen had occurred in other cases.\" ",
+            "Stephen was the first martyr, and as he was a prominent man his case is particularly recorded.",
+            "It is evident, also, that Paul instigated them in this persecution, and urged them on to deeds of blood and cruelty."
+        ],
+        "Marvin Vincent": [
+            "On this word agiov, holy, which occurs over two hundred times in the New Testament, it is to be noted how the writers of the Greek scriptures, both in the New Testament and, what is more remarkable, in the Septuagint, bring it out from the background in which it was left by classical writers, and give preference to it over words which, in pagan usage, represented conceptions of mere externality in religion.",
+            "Even in the Old Testament, where externality is emphasized, agiov is the standard word for holy.",
+            "The phrase may be taken as expressing merely moral assent and approval."
+        ],
+        "John Calvin": [
+            "He doth not spare his own estimation, but doth willingly utter his own shame, that the mercy of God may the more plainly appear thereby.",
+            "Though Paul might have retained the fame of a courageous man, yet he confesseth he was a madman.",
+            "Though the very denial itself containeth an horrible blasphemy."
+        ],
+        "Philip Schaff": [
+            "Before the Jews he shrank from using any expression of reverential admiration which might arouse his angry countrymen\u2019s wrath against the sect of whom they were already so unreasonably jealous; but now, speaking before men of the world like Agrippa and Festus, he gives these noble martyrs, long since in Paradise, a title of honour which aggravated his own guilt as their persecutor.",
+            "Indeed, as it has been well remarked, the confident, bold tone of the whole of this speech sounds less like the words of a prisoner defending himself, than of a fearless advocate pleading before a tribunal.",
+            "This assertion by Paul of his having voted for the death of certain of the 'saints' in the early Church, has been taken as a proof of his having been, in his Pharisee days, a member of the supreme council of the Sanhedrim. This is possible, but is by no means certain."
+        ],
+        "Archibald T. Robertson": [
+            "I both shut up many (\u03c0\u03bf\u03bb\u03bb\u03bf\u03c5\u03c2 \u03c4\u03b5 \u03ba\u03b1\u03c4\u03b5\u03ba\u03bb\u03b5\u03b9\u03c3\u03b1).",
+            "Having received authority from the chief priests (\u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03b1 \u03c4\u03c9\u03bd \u03b1\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u03c9\u03bd \u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03b1\u03bd \u03bb\u03b1\u03b2\u03c9\u03bd).",
+            "I gave my vote against them (\u03ba\u03b1\u03c4\u03b7\u03bd\u03b5\u03b3\u03ba\u03b1 \u03c8\u03b7\u03c6\u03bf\u03bd)."
+        ],
+        "John Gill": [
+            "He held the clothes of the witnesses while they stoned him.",
+            "He haled men and women out of their houses, and committed them to prison.",
+            "He made havoc of the church of Christ, and destroyed the faith, and those that professed it, as much as in him lay."
+        ],
+        "John Wesley": [
+            "I shut up many of the saints \u2014 Men not only innocent, but good, just, holy.",
+            "I gave my vote against them \u2014 That is, I joined with those who condemned them.",
+            "Perhaps the chief priests did also give him power to vote on these occasions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word holy in Acts 26:10 is worth noting for its significance in the New Testament and the Septuagint, distinguishing it from pagan external religious practices. It is the standard word for holiness even in the Old Testament. The phrase can be understood as merely expressing moral approval. It is interesting to consider that Paul may have been a member of the Sanhedrin, given his assertion of having voted against the early Christians. Paul's acknowledgment of his past actions as a persecutor of the saints serves to highlight the mercy of God. His bold and confident tone in this speech before Agrippa and Festus seems more like that of a fearless advocate than a prisoner defending himself.",
+            "wordCount": 117,
+            "quoteTokenProportion": 32.93,
+            "qualityScore": 1.4889835375293112,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.85,
+            "commentatorTierSimilarities": [
+                32.62,
+                41.39,
+                25.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word holy in this verse is noteworthy, as it is used in the New Testament and the Septuagint to emphasize a deeper meaning than the external religious practices of pagans. It is even the standard word for holiness in the Old Testament. The phrase may be understood as expressing moral approval. Paul's acknowledgement of his past actions as a persecutor of the saints serves to highlight the mercy of God. His confident tone in this speech before Agrippa and Festus sounds more like a fearless advocate than a defenseless prisoner.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.4585121612901273,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.84,
+            "commentatorTierSimilarities": [
+                37.92,
+                37.38,
+                24.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The frequent usage of the word holy in this passage reveals its significance in the New Testament and Septuagint, emphasizing a deeper understanding of holiness compared to pagan religious practices. It is interesting to note that even in the Old Testament, where externality is emphasized, holy remains the standard word for holiness. Paul's confession of voting against the early Christians sheds light on his past actions as a persecutor of the saints and highlights God's mercy. His confident and bold tone throughout his speech reflects his role as a fearless advocate rather than a defenseless prisoner.",
+            "wordCount": 98,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 1.5428391673174136,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.64,
+            "commentatorTierSimilarities": [
+                31.86,
+                41.56,
+                26.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The significance of the word holy in this context cannot be overlooked, as it carries a deeper meaning in the New Testament and the Septuagint compared to the external practices of pagans. Interestingly, it is the standard word for holiness even in the Old Testament, which emphasizes externality. Paul's confession of voting against the early Christians reveals his past as a persecutor of the saints, emphasizing the mercy of God. His confident and bold tone in this speech before Agrippa and Festus resembles that of a fearless advocate rather than a powerless prisoner.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.5535742534802943,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.0,
+            "commentatorTierSimilarities": [
+                31.36,
+                42.62,
+                26.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The word holy in this context holds great significance, as it stands apart from pagan notions of external religion. It is remarkable how the New Testament and the Septuagint elevate this word, even in the Old Testament where external practices are emphasized. Paul's acknowledgment of voting against the early Christians sheds light on his past as a persecutor of the saints, revealing the depth of God's mercy. His confident and bold tone during this speech illustrates his role as a fearless advocate rather than a mere prisoner defending himself.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.4418207730862387,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.28,
+            "commentatorTierSimilarities": [
+                28.62,
+                46.36,
+                25.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

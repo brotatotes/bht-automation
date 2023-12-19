@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:26:50",
+    "verseRef": "Acts 5:28",
+    "bestBHT": {
+        "bht": "The high priest and the council deliberately avoid naming Jesus, a contemptuous refusal to acknowledge Him. The charge against the apostles involves direct disobedience stemming from their zeal in spreading their religion. The enemies of the Gospel impose laws and unjustly punish the innocent. The Sanhedrin willingly took responsibility for Jesus' blood, but retribution for their actions is inevitable. The apostles, in truth, only declare the facts and do not seek to accuse anyone.",
+        "wordCount": 74,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.8618879831885626,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+        "commentatorTierSimilarities": [
+            27.29,
+            39.44,
+            33.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They avoid naming Him whom Peter gloried in holding up.",
+            "In speaking thus, they seem to betray a disagreeable recollection of their own recent imprecation.",
+            "And of the traitor's words as he threw down the money, 'I have sinned in that I have betrayed innocent blood'."
+        ],
+        "Albert Barnes": [
+            "When Chastens are arraigned or persecuted, it is well if the only charge which their enemies can bring against them is that they have been distinguished for zeal and success in propagating their religion.",
+            "To bring 'one's blood' upon another is a phrase signifying to hold or to prove him guilty of murdering the innocent.",
+            "That the apostles 'did' intend to charge them with being guilty of murder is clear; but it is observable that on 'this occasion' they had said nothing of this."
+        ],
+        "Marvin Vincent": [
+            "We straitly charged you with a charge.\" ",
+            "Intend, or ye want.\" ",
+            "The phrase is remarkable as furnishing the first instance of that avoidance of the name of Christ."
+        ],
+        "John Calvin": [
+            "He pretendeth, at the first, doctrine; but we may gather out of the end that he was not so careful for doctrine.",
+            "He abuseth his authority tyrannously, as if the same were not under any laws.",
+            "Now, forasmuch as he doth manifestly play the minister of Satan, he borroweth authority, without shame and color, of the name of Christ."
+        ],
+        "Philip Schaff": [
+            "A concealed dread underlies the whole of the high priest\u2019s accusation.",
+            "The charge against them really was one of direct disobedience to a decree of the Sanhedrim.",
+            "In their public teaching, the high priest and his assessors in the council were charged with the awful accusation of murdering the Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "We straitly charged...with charging...the refusal of Peter and John.\" ",
+            "The Sanhedrin gladly took the blood of Christ on their heads and their children.\" ",
+            "'This man' - contemptuous slur and refusal to call the name of Jesus as in the Talmud later."
+        ],
+        "John Gill": [
+            "Ye have filled Jerusalem with your doctrine.",
+            "They represent as a novel doctrine, devised by the apostles.",
+            "As we have been guilty in shedding his blood, the punishment of it will, one day or other, be inflicted on us."
+        ],
+        "John Wesley": [
+            "See the poor cunning of the enemies of the Gospel. They make laws and interdicts at their pleasure, which those who obey God cannot but break.",
+            "They take occasion thereby to censure and punish the innocent, as guilty.",
+            "The apostles did not desire to accuse any man. They simply declared the naked truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The high priest and the council purposely avoid naming Jesus, reflecting their recollection of their own recent imprecation. They contemptuously refer to Him as this man, showing their refusal to call Him by name. The charge against the apostles is one of direct disobedience, but a concealed dread underlies the accusation. The apostles didn't intend to accuse anyone; they simply declared the truth. The enemies of the Gospel make laws and interdicts, punishing the innocent as guilty. The Sanhedrin gladly took the blood of Christ on their heads, but the punishment for shedding it will be inflicted one day. Overall, the charge against the apostles was a result of their zeal and success in propagating their religion.",
+            "wordCount": 118,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8734926579125808,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                27.01,
+                40.26,
+                32.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The high priest and the council purposely avoid naming Jesus, recalling their recent imprecation. They contemptuously refer to Him as this man, refusing to call Him by name. The charge against the apostles is direct disobedience, but a concealed dread underlies it. The enemies of the Gospel make laws and punish the innocent. The Sanhedrin gladly took the blood of Christ, but punishment will be inflicted one day. The apostles simply declared the truth; they didn't intend to accuse anyone. The charge resulted from their zeal and success in propagating their religion.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.810482285486867,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                27.76,
+                39.42,
+                32.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The high priest and the council purposely avoid naming Jesus, recalling their recent imprecation. They contemptuously refer to Him as this man, refusing to call Him by name. The charge against the apostles is direct disobedience, but a concealed dread underlies it. The enemies of the Gospel make laws and punish the innocent. The Sanhedrin took the blood of Christ, but punishment will be inflicted one day. The apostles declare the truth without intending to accuse anyone, driven by their zeal and success in propagating their religion.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8161639624898225,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                27.61,
+                39.0,
+                33.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The high priest and the council purposely avoid naming Jesus, recalling their recent imprecation. They contemptuously refer to Him as this man, refusing to call Him by name. The charge against the apostles is direct disobedience, driven by their zeal in propagating their religion. The enemies of the Gospel make laws and punish the innocent. The Sanhedrin took the blood of Christ, but punishment will be inflicted one day. The apostles simply declare the truth, without intending to accuse anyone.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8150938266534489,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                28.65,
+                36.93,
+                34.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The high priest and the council deliberately avoid naming Jesus, a contemptuous refusal to acknowledge Him. The charge against the apostles involves direct disobedience stemming from their zeal in spreading their religion. The enemies of the Gospel impose laws and unjustly punish the innocent. The Sanhedrin willingly took responsibility for Jesus' blood, but retribution for their actions is inevitable. The apostles, in truth, only declare the facts and do not seek to accuse anyone.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.8618879831885626,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                27.29,
+                39.44,
+                33.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

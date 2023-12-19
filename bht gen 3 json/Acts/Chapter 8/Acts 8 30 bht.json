@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:28:10",
+    "verseRef": "Acts 8:30",
+    "bestBHT": {
+        "bht": "Approaching the man engrossed in reading, Philip inquired, Understandest thou what thou readest? This question, cleverly playing upon the words, conveyed Philip's doubt about the man's comprehension. The Greek phrase used cannot be fully translated but signifies that if the man truly understood, he wouldn't have condemned. Philip's direct and immediate approach teaches us to heed the promptings of the Spirit without hesitation and engage in humble, Christian conversation, which can have a profound impact on others.",
+        "wordCount": 81,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.442070363589473,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.29,
+        "commentatorTierSimilarities": [
+            40.52,
+            32.9,
+            26.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Understandest thou what thou readest?\"\u2014To one so engaged this would be deemed no rude question.",
+            "The eager appearance of the speaker and the question itself would indicate a readiness to supply any want of insight that might be felt."
+        ],
+        "Albert Barnes": [
+            "It is well to follow the first suggestions of the Spirit; to yield to the clear indications of duty, and to perform it at once.",
+            "To do our duty at once, without hesitation or debate.",
+            "We shall find candid, humble, Christian conversation far more acceptable to strangers, to the rich, and to the great, than we commonly suppose."
+        ],
+        "Marvin Vincent": [
+            "Understandest thou what thou readest; The play upon the words cannot be translated.\" ",
+            "The interrogative particles which begin the question indicate a doubt on Philip's part.",
+            "The play upon the words cannot be translated."
+        ],
+        "Archibald T. Robertson": [
+            "Do you know what you know again (read)?",
+            "\u0391\u03bd\u03b5\u03b3\u03bd\u03c9\u03c3, \u03b1\u03bb\u03bb'\u03bf\u03c5\u03ba \u03b5\u03b3\u03bd\u03c9\u03c3, \u03b5 \u03b3\u03b1\u03c1 \u03b5\u03b3\u03bd\u03c9\u03c3, \u03bf\u03c5\u03ba \u03b1\u03bd \u03ba\u03b1\u03c4\u03b5\u03b3\u03bd\u03c9\u03c2\" (\"You read, but did not understand; for if you had understood, you would not have condemned\").",
+            "The play (\u03c0\u03b1\u03c1\u03b1\u03bd\u03bf\u03bc\u03b1\u03c3\u03b9\u03b1) upon the words in the Greek is very neat\"."
+        ],
+        "John Gill": [
+            "And Philip ran thither to him...hoping he might be an instrument of doing some good."
+        ],
+        "John Wesley": [
+            "In speaking for God, we may frequently come to the point at once, without circumlocution.",
+            "He did not begin about the weather, news, or the like.",
+            "Understandest thou what thou readest?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Philip, sensing the eagerness of the man reading, bravely asked, Understandest thou what thou readest? The play on words in the Greek cannot truly be translated, but Philip's question indicated his doubt about the man's understanding. Philip didn't waste time with small talk; he immediately got to the point and asked if the man knew what he was reading. This shows us the importance of following the promptings of the Spirit and doing our duty without hesitation. By engaging in candid, humble, and Christian conversation, we can have a more significant impact on others than we might realize.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4113903784332564,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.27,
+            "commentatorTierSimilarities": [
+                34.15,
+                40.34,
+                25.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Philip approached the man reading, he asked, Understandest thou what thou readest? This question indicated his doubt about the man's understanding and showed his readiness to provide insight. The Greek play on words cannot be easily translated, but it signifies that if the man truly understood, he wouldn't have condemned. Philip's immediate and direct approach reminds us to follow the promptings of the Spirit without hesitation and engage in humble, Christian conversation, which can have a significant impact on others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.4414108646159713,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.27,
+            "commentatorTierSimilarities": [
+                40.19,
+                34.81,
+                25.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Approaching the man engrossed in reading, Philip inquired, Understandest thou what thou readest? This question, cleverly playing upon the words, conveyed Philip's doubt about the man's comprehension. The Greek phrase used cannot be fully translated but signifies that if the man truly understood, he wouldn't have condemned. Philip's direct and immediate approach teaches us to heed the promptings of the Spirit without hesitation and engage in humble, Christian conversation, which can have a profound impact on others.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.442070363589473,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.29,
+            "commentatorTierSimilarities": [
+                40.52,
+                32.9,
+                26.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Approaching the man absorbed in reading, Philip asked, Understandest thou what thou readest? The Greek play on words cannot be easily translated, but the question expressed Philip's doubt about the man's comprehension. Philip's boldness in getting straight to the point and his readiness to provide insight reminds us to follow the promptings of the Spirit and fulfill our duties without hesitation. Engaging in candid and humble conversation rooted in Christian values can have a profound impact on others, even those we may consider strangers or the influential and affluent.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.4293520576707577,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.87,
+            "commentatorTierSimilarities": [
+                35.74,
+                38.78,
+                25.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Approaching the reader, Philip questioned, Understandest thou what thou readest? The clever Greek wordplay in the question highlights Philip's doubt. If the man truly comprehended, he wouldn't have condemned. Philip's direct and immediate approach encourages us to follow the promptings of the Spirit without hesitation, engaging in humble and candid Christian conversation. Such conversations can have a greater impact on strangers, the rich, and the influential than we often realize.",
+            "wordCount": 73,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.3184073969219452,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.18,
+            "commentatorTierSimilarities": [
+                33.03,
+                38.9,
+                28.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

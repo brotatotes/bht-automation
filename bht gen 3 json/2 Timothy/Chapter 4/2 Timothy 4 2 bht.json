@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:31:21",
+    "verseRef": "2 Timothy 4:2",
+    "bestBHT": {
+        "bht": "As messengers of God's word, we are called to proclaim the truth at all times and in all circumstances, even when faced with adversities or opposition. Our commitment to spread the gospel should extend beyond the confines of the church and be done with a sense of urgency and perseverance. We must be ready and willing to rebuke, reprove, and exhort others in the truth, regardless of the convenience or popularity of our message. Let us remain steadfast and resolute in our mission to faithfully proclaim the word of God to all who will listen.",
+        "wordCount": 96,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.8293263384405432,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.17,
+        "commentatorTierSimilarities": [
+            25.95,
+            40.44,
+            33.61
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "have no defined season, let all time be thy season; not only in peace; not only in security; nor yet when sitting in the church only; even if thou be in perils, even if in prison, even if bound with a chain, even if being led out to die, at every such opportunity, convict, and shrink not from rebuking: for then it is that rebuke is in season...",
+            "But if men continue in the same courses\u2014even after our exhortation, not even then must we abstain from counselling them. For fountains flow, even if no one draw from them: and rivers run, though no one drinks. So too the preacher ought, even if no one attend to him, to fulfil all his own duty...",
+            "For there shall be a time when they (men, i.e. professing Christians, as the context shews) will not endure the healthy doctrine (viz. of the Gospel); but according to their own desires will heap up teachers, having itching ears; and shall avert their ears from the truth, and be turned aside to fables."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Preach\u2014literally, 'proclaim as a herald.'",
+            "The bishops and presbyters had the right and duty to preach, but they sometimes called on deacons, and even laymen, to preach.",
+            "I think with CHRYSOSTOM, there is included also the idea of times whether seasonable or unseasonable to Timothy himself; not merely when convenient, but when inconvenient to thee, night as well as day, in danger as well as in safety, in prison and when doomed to death as well as when at large, not only in church, but everywhere and on all occasions, whenever and wherever the Lord's work requires it."
+        ],
+        "Albert Barnes": [
+            "He was always to be at his post, and was to embrace every opportunity of making known the gospel.",
+            "He is not to confine himself to the appointed times of worship, or to preach only when it will be perfectly convenient for himself, but he is to have such an interest and earnestness in the work, that it will lead him to do it in the face of embarrassments and discouragements, and whenever he can find an opportunity.",
+            "A man, therefore, who merely confines himself to the stated seasons of preaching the gospel, or who merely preaches when it is convenient to himself, should not consider that he has come up to the requirement of the rule laid down by the apostle. He should preach in his private conversation, and in the intervals of his public labors, at the side of the sick bed, and wherever there is a prospect of doing good to any one."
+        ],
+        "Marvin Vincent": [
+            "Be instant [\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03b8\u03b9]. Better, be ready.\" ",
+            "Instant signifies urgent, importunate, persevering.\" ",
+            "In season [\u03b5\u03c5\u03ba\u03b1\u03b9\u03c1\u03c9\u03c2]."
+        ],
+        "John Calvin": [
+            "By these words he recommends not only constancy, but likewise earnestness, so as to overcome all hindrances and difficulties...Consequently the gospel will not long maintain its place, if pastors do not urge it earnestly.",
+            "So far as regards the people, there is constancy and earnestness, when they arouse those who are asleep, when they lay their hands on those who are hurrying in a wrong direction, and when they correct the trivial occupations of the world.",
+            "Both exhortations and reproofs are merely aids to doctrine, and, therefore, have little weight without it...Paul means that reproofs are founded on doctrine, in order that they may not be justly despised as frivolous."
+        ],
+        "Philip Schaff": [
+            "Preach the word. Better, \u2018proclaim,\u2019 do a herald\u2019s work.",
+            "Be instant. In the old English sense, \u2018press on,\u2019 \u2018be urgent,\u2019 with special reference to the work of proclaiming the word of God.",
+            "Reprove, rebuke, exhort. The words, strictly speaking, are in a descending scale of severity, and each act is to be not only \u2018with,\u2019 but in the temper of long-suffering."
+        ],
+        "Archibald T. Robertson": [
+            "Preach the word.",
+            "Be instant in season, out of season.",
+            "Reprove, Rebuke, Exhort."
+        ],
+        "John Gill": [
+            "Be constant and assiduous in the work of the ministry; be always and wholly in it, either preparing for it, or performing it; or doing thos"
+        ],
+        "John Wesley": [
+            "Be instant \u2014 Insist on, urge these things in season, out of season - That is, continually, at all times and places.",
+            "It might be translated, with and without opportunity - Not only when a fair occasion is given: even when there is none, one must be made.",
+            "One must be made."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At all times and in all circumstances, we are called to proclaim the word of God, to reproach, rebuke, and exhort others in the truth. This duty extends beyond the walls of the church and even in the face of adversity. We are to be constant and urgent in our commitment to spreading the gospel, seizing every opportunity and making opportunities when necessary. The message of the gospel must be upheld with a sense of urgency and perseverance, for there will be times when people will turn away from sound doctrine and embrace false teachings. Therefore, let us remain steadfast and unwavering in our proclamation of the truth, always ready and willing to fulfill our duty as messengers of God's word.",
+            "wordCount": 122,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8660034655679034,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                26.56,
+                38.71,
+                34.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In order to fulfill our duty as messengers of God's word, we must proclaim the truth at all times and in all circumstances. This includes reproaching, rebuking, and exhorting others, even when it is inconvenient or difficult. We are called to be constant and urgent, seizing every opportunity and making opportunities when necessary. The message of the gospel must be upheld with a sense of urgency and perseverance, as there will be times when people turn away from sound doctrine. Let us remain steadfast and unwavering in our commitment to proclaiming the truth.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.6852515805137442,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+            "commentatorTierSimilarities": [
+                25.3,
+                35.96,
+                38.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are called to proclaim the truth of God's word at all times and in all circumstances, reproaching, rebuking, and exhorting others. This duty extends beyond the confines of the church and requires constant commitment and urgency. We must seize every opportunity and even create opportunities when necessary to fulfill our responsibility. The message of the gospel must be upheld with perseverance, as there will be times when people embrace false teachings. Let us remain steadfast and resolute in our mission to proclaim the truth fearlessly and faithfully.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.6644650428647774,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                25.35,
+                37.2,
+                37.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As messengers of God's word, we are called to proclaim the truth at all times and in all circumstances, even when faced with adversities or opposition. Our commitment to spread the gospel should extend beyond the confines of the church and be done with a sense of urgency and perseverance. We must be ready and willing to rebuke, reprove, and exhort others in the truth, regardless of the convenience or popularity of our message. Let us remain steadfast and resolute in our mission to faithfully proclaim the word of God to all who will listen.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8293263384405432,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.17,
+            "commentatorTierSimilarities": [
+                25.95,
+                40.44,
+                33.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are called to proclaim the truth of God's word at all times and in all circumstances, even amidst trials and challenges. Our commitment to sharing the gospel should not be limited to convenient moments, but should persist in season and out of season. We must be ready and urgent, reproving and exhorting others in the truth with perseverance. Let us remain steadfast in our duty, regardless of the response or the prevailing desires of people, and faithfully fulfill the work that the Lord has entrusted to us.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7160434674715357,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+            "commentatorTierSimilarities": [
+                26.01,
+                35.41,
+                38.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

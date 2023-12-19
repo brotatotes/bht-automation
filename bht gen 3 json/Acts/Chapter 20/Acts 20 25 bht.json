@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:34:19",
+    "verseRef": "Acts 20:25",
+    "bestBHT": {
+        "bht": "I know that you all, among whom I have gone preaching the kingdom of God, shall see my face no more. If he could regard the elders as the representatives of the various churches, why may he not have regarded the Ephesian elders as representatives of the churches of proconsular Asia? Or perhaps these words have an even wider application, to all who had been the subjects of his former personal ministry. Though this is not an inspired prediction, it is what the apostle Paul, in his peculiar circumstances, fully expected.",
+        "wordCount": 91,
+        "quoteTokenProportion": 56.72,
+        "qualityScore": 1.8232698088102746,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+        "commentatorTierSimilarities": [
+            41.53,
+            25.64,
+            32.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If he could regard the elders as the representatives of the various churches, of which there can be no doubt, why may not he similarly have regarded the Ephesian elders as representatives of the churches of proconsular Asia, and have addressed all in addressing them?",
+            "Or may not these words have even a wider application, viz. to all who had been the subjects of his former personal ministry, in Asia and Europe, now addressed through the Ephesian elders?",
+            "So that he may here ground his expectation of never seeing them again, on the plan of making a journey into the west after seeing Rome, which he mentions Rom. xv. 24, 28, and from which, with bonds and imprisonment and other dangers awaiting him, he might well expect never to return."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I know that ye all shall see my face no more\u2014not an inspired prediction of what was certainly to be, but what the apostle, in his peculiar circumstances, fully expected.\" ",
+            "Whether, therefore, he ever did see them again, is a question to be decided purely on its own evidence."
+        ],
+        "Albert Barnes": [
+            "I have no expectation of seeing you again; I have every reason to suppose that this is my final interview with you.",
+            "The parting of a minister and people is among the most tender and affecting of the separations that occur on earth.",
+            "Making known the nature of the reign of God on earth by the Messiah."
+        ],
+        "Marvin Vincent": [
+            "I know. The I is emphatic : I know through these special revelations to myself (ver. 23)."
+        ],
+        "John Calvin": [
+            "He doth now utter that plainly which he had insinuated covertly.",
+            "For we know what great force the words and speeches of men have which are uttered at their departure or death.",
+            "The doctrine of the gospel is called the kingdom of God now again, which doth begin the kingdom of God in this world, by renewing men after the image of God, until it be made perfect at length in the last resurrection."
+        ],
+        "Philip Schaff": [
+            "We must, however, by no means suppose that even an apostle was gifted at all times with Divine and unerring knowledge.",
+            "Here it is almost certain he was mistaken in his foreboding.",
+            "We can even trace the gradual fading away of these fond hopes of the Christians of the first day, who only came gradually to see that the return of the Master in judgment was no event of the immediate future, but that the time of His coming was hid in the dim far future."
+        ],
+        "Archibald T. Robertson": [
+            "And now, behold. Second time and solemn reminder.",
+            "I know. Emphasis on \u03b5\u03b3\u03c9 which is expressed.",
+            "Among whom I went about. They represented the church in Ephesus and the whole region where Paul laboured."
+        ],
+        "John Gill": [
+            "I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more...",
+            "This is not only a note of asseveration, but of attention, stirring up to observe what is here asserted.",
+            "He knew, and was persuaded, he should visit these parts no more."
+        ],
+        "John Wesley": [
+            "Ye shall see my face no more \u2014 He wisely inserts this, that what follows might make the deeper impression."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I know that you all, among whom I have gone preaching the kingdom of God, shall see my face no more. If he could regard the elders as the representatives of the various churches, why may he not have regarded the Ephesian elders as representatives of the churches of proconsular Asia? Or perhaps these words have an even wider application, to all who had been the subjects of his former personal ministry. Though this is not an inspired prediction, it is what the apostle Paul, in his peculiar circumstances, fully expected. Whether he actually did see them again is a question to be decided purely on its own evidence.",
+            "wordCount": 109,
+            "quoteTokenProportion": 58.02,
+            "qualityScore": 1.8470324208467104,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                43.06,
+                25.85,
+                31.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I know that you all, among whom I have gone preaching the kingdom of God, shall see my face no more. If he could regard the elders as the representatives of the various churches, why may he not have regarded the Ephesian elders as representatives of the churches of proconsular Asia? Or perhaps these words have an even wider application, to all who had been the subjects of his former personal ministry. Though this is not an inspired prediction, it is what the apostle Paul, in his peculiar circumstances, fully expected.",
+            "wordCount": 91,
+            "quoteTokenProportion": 56.72,
+            "qualityScore": 1.8232698088102746,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                41.53,
+                25.64,
+                32.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I know that you all, among whom I have gone preaching the kingdom of God, shall see my face no more. If he could regard the elders as the representatives of the various churches, why may he not have regarded the Ephesian elders as representatives of the churches of proconsular Asia? Or perhaps these words have an even wider application, to all who had been the subjects of his former personal ministry. This is not an inspired prediction, but what the apostle Paul fully expected.",
+            "wordCount": 85,
+            "quoteTokenProportion": 57.14,
+            "qualityScore": 1.8012428334012305,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.23,
+            "commentatorTierSimilarities": [
+                41.14,
+                24.86,
+                33.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I know that you all, among whom I have gone preaching the kingdom of God, shall see my face no more. These words may have a wider application, not just to the Ephesian elders, but to all who had been the subjects of Paul's former personal ministry. This is not an inspired prediction, but what Paul fully expected.",
+            "wordCount": 59,
+            "quoteTokenProportion": 57.14,
+            "qualityScore": 1.7967441209680173,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+            "commentatorTierSimilarities": [
+                40.66,
+                23.8,
+                35.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in addressing the Ephesian elders, may have also viewed them as representatives of the churches in the region, and by speaking to them, he was addressing all those who had been the subjects of his previous ministry. With the expectation of never seeing them again, Paul likely based this on his plan to journey to the west after visiting Rome, where he may face imprisonment and other dangers. While this is not a definite prediction, it is what Paul anticipated under his unique circumstances. The emphasis on I signifies his personal knowledge, possibly through special revelations. This parting with the elders is a tender and affecting separation for both minister and people. Though apostles did not always possess Divine and unerring knowledge, in this instance, it seems Paul may have been mistaken in his expectation. Over time, early Christians came to realize that the return of the Master in judgment was a distant future event, not imminent.",
+            "wordCount": 158,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.7455644120499696,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.38,
+            "commentatorTierSimilarities": [
+                40.79,
+                37.73,
+                21.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

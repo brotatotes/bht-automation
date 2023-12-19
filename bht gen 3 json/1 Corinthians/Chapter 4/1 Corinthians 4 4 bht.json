@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:03:40",
+    "verseRef": "1 Corinthians 4:4",
+    "bestBHT": {
+        "bht": "I know nothing against myself... I am conscious to myself of no unfaithfulness. Yet, this is not a statement of fact, but rather an acknowledgment of my own limitations. Failure to be aware of my own sins does not mean I am innocent, as I am not the judge of myself. The one who judges me is the Lord, who sees and knows all. Therefore, I rely on His judgment and His promise of mercy, rather than my own perception of righteousness.",
+        "wordCount": 82,
+        "quoteTokenProportion": 57.41,
+        "qualityScore": 2.075400511714835,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+        "commentatorTierSimilarities": [
+            38.92,
+            36.64,
+            24.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I know nothing against myself...I know no harm by him.\" ",
+            "I know nothing by myself, yet am I not thereby justified.\" ",
+            "He that judgeth me is the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am conscious to myself of no (ministerial) unfaithfulness."
+        ],
+        "Albert Barnes": [
+            "I am not conscious of evil, or unfaithfulness to myself; that is, in my ministerial life.",
+            "It is not by the consciousness of integrity and faithfulness that I expect to be saved; and it does not follow that I claim to be free from all personal blame.",
+            "He that judgeth me is the Lord - By his judgment I am to abide; and by his judgment I am to receive my eternal sentence, and not by my own view of myself."
+        ],
+        "John Calvin": [
+            "Hence, what appears to us cleanest, is filthy in his eyes. Here we have a beautiful and singularly profitable admonition, not to measure the strictness of God\u2019s judgment by our own opinion; for we are dim-sighted, but God is preeminently discerning.",
+            "Papists abuse this passage for the purpose of shaking the assurance of faith...we teach that we must have recourse to the free promise of mercy, which is offered to us in Christ, that we may be fully assured that we are accounted righteous by God.",
+            "For what tranquillity could our minds enjoy if it were to be determined from our works whether we are well-pleasing to God?"
+        ],
+        "Philip Schaff": [
+            "For I know nothing against myself.",
+            "Yet am I not hereby justified all human judgments being but provisional.",
+            "But he that judgeth me is the Lord the Lord Christ (as will presently appear)."
+        ],
+        "Archibald T. Robertson": [
+            "Not a statement of fact, but an hypothesis to show the unreliability of mere complacent self-satisfaction.",
+            "Failure to be conscious of one's own sins does not mean that one is innocent.",
+            "Who is the judge of the steward of the mysteries of God? It is the Lord 'that judgeth me'."
+        ],
+        "John Gill": [
+            "He honestly declared what he knew to be the mind of God, and concealed nothing that might be useful to men; in this he had a clear conscience, void of offence both towards God and men.",
+            "Such an unstained integrity, in the discharge of his ministerial work, was not the matter of his justification before God, nor did he depend upon it.",
+            "He that knows my heart, and all my ways, will be my judge at the last day; and to his judgment I appeal and submit, and sit easy in the mean while under all the censures and calumnies of men."
+        ],
+        "John Wesley": [
+            "I am not conscious to myself of anything evil; yet am I not hereby justified \u2014 I depend not on this, as a sufficient justification of myself in God's account.",
+            "But he that judgeth me is the Lord \u2014 By his sentence I am to stand or fall."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I know nothing against myself... I am conscious to myself of no unfaithfulness. Yet, this is not a statement of fact, but rather an acknowledgment of my own limitations. Failure to be aware of my own sins does not mean I am innocent, as I am not the judge of myself. The one who judges me is the Lord, who sees and knows all. Therefore, I rely on His judgment and His promise of mercy, rather than relying on my own perception of righteousness. I trust that He will be my judge, both in this life and at the final judgment.",
+            "wordCount": 101,
+            "quoteTokenProportion": 57.81,
+            "qualityScore": 2.071818072084179,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.23,
+            "commentatorTierSimilarities": [
+                36.98,
+                37.39,
+                25.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I know nothing against myself... I am conscious to myself of no unfaithfulness. Yet, this is not a statement of fact, but rather an acknowledgment of my own limitations. Failure to be aware of my own sins does not mean I am innocent, as I am not the judge of myself. The one who judges me is the Lord, who sees and knows all. Therefore, I rely on His judgment and His promise of mercy, rather than my own perception of righteousness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 57.41,
+            "qualityScore": 2.075400511714835,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+            "commentatorTierSimilarities": [
+                38.92,
+                36.64,
+                24.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I know nothing against myself, for I am conscious of no unfaithfulness. Yet, this does not make me justified, as mere complacent self-satisfaction is unreliable. The Lord is the true judge of my actions and character. It is futile for me to rely on my own perception of integrity. Instead, I trust in the Lord's judgment, seeking assurance in His promise of mercy and righteousness. I humbly submit to His authority, knowing that He alone is the ultimate arbiter of my fate.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.0117559778359873,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                35.12,
+                37.23,
+                27.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I know nothing against myself. I am conscious of no unfaithfulness. Yet, I am not justified by this self-perception, as complacent self-satisfaction is unreliable. It is the Lord who judges me, discerning where I may fall short. Therefore, I do not rely on my own integrity, but rather, on the Lord's judgment and His promise of mercy. I submit to His authority, understanding that He alone holds the power to determine my righteousness and my eternal destiny.",
+            "wordCount": 80,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.9668208706982604,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.74,
+            "commentatorTierSimilarities": [
+                36.3,
+                37.33,
+                26.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I am conscious to myself of no unfaithfulness in my ministerial life, but this does not mean that I am justified before the Lord. It is not by my own judgment of myself that I will be saved, but by the judgment of the Lord who is the true judge of the steward of the mysteries of God. Our perception of our own righteousness may be flawed, but God's judgment is perfect. Therefore, we should not rely on our own works or opinions to determine our standing before God, but rather trust in his free promise of mercy in Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 2.232732634602579,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                30.78,
+                34.87,
+                34.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

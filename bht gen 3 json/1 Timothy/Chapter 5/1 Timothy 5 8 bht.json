@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:29:30",
+    "verseRef": "1 Timothy 5:8",
+    "bestBHT": {
+        "bht": "Neglecting the duty to provide for one's own relatives is a plain proof of a lack of love and faith. Even an unbeliever recognizes the obligation, making it worse for a Christian to neglect it. By refusing the natural duties implied by Christian faith, one denies their possession of faith. Faith perfects and strengthens natural duties, demanding works and fruits. Failing in this is worse than being an infidel, as faith does not abolish these duties, but rather fulfills them.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.393067717805846,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.91,
+        "commentatorTierSimilarities": [
+            47.61,
+            28.04,
+            24.35
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "[The faith] does not abolish natural duties, but perfects and confirms them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faith without love and its works is dead; 'for the subject matter of faith is not mere opinion, but the grace and truth of God, to which he that believes gives up his spirit, as he that loves gives up his heart.'\" ",
+            "If in any case a duty of love is plain, it is in relation to one's own relatives; to fail in so plain an obligation is a plain proof of want of love, and therefore of want of faith.\" ",
+            "The Christian who does not provide for his own relatives is worse than an infidel because even an infidel is taught by nature to do so, recognizing the duty; the Christian has less excuse with his greater light than the infidel who may break the laws of nature."
+        ],
+        "Albert Barnes": [
+            "The person referred to is to think beforehand of the probable needs of his own family, and make arrangements to meet them. God thus provides for our needs; that is, he sees beforehand what we shall need, and makes arrangements for those needs by long preparation.",
+            "He who neglected his own immediate family would be more guilty than he who neglected a more remote relative.",
+            "A neglect of any duty is so far a denial of the faith."
+        ],
+        "Marvin Vincent": [
+            "Faith demands works and fruits. By refusing the natural duties which Christian faith implies, one practically denies his possession of faith.\" ",
+            "Faith does not abolish natural duties, but perfects and strengthens them.",
+            "Even an unbeliever will perform these duties from natural promptings."
+        ],
+        "John Calvin": [
+            "There is no piety towards God, when a person can thus lay aside the feelings of humanity.",
+            "This is true for two reasons. First, the further advanced any one is in the knowledge of God, the less is he excused; and therefore, they who shut their eyes against the clear light of God are worse than infidels.",
+            "For, if any one have degenerated from that which is so perfectly natural, he ought to be regarded as a monster."
+        ],
+        "Philip Schaff": [
+            "The precept is general, and in its terms includes the duty of parents to provide for their children as well as that of the children to provide for the parents.\" ",
+            "In contrast to the wasteful wantonness of the spurious widow, to 'exercise forethought' for those connected with her.",
+            "'Worse,' because the heathens as a rule laid stress on filial piety; worse, as sinning more against light and knowledge."
+        ],
+        "Archibald T. Robertson": [
+            "Provideth not for his own (\u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03c9\u03bd \u03bf\u03c5 \u03c0\u03c1\u03bf\u03bd\u03bf\u03b5).\" ",
+            "He hath denied the faith (\u03c4\u03b7\u03bd \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd \u03b7\u03c1\u03bd\u03b7\u03c4\u03b1).\" ",
+            "Worse than an unbeliever (\u03b1\u03c0\u03b9\u03c3\u03c4\u03bf\u03c5 \u03c7\u03b5\u03b9\u03c1\u03c9\u03bd)."
+        ],
+        "John Gill": [
+            "He hath denied the faith; the doctrine of faith, though not in words, yet in works; and is to be considered in the same light, and to be dealt with as an apostate from the Christian religion.",
+            "And is worse than an infidel; for the very Heathens are taught and directed by the light of nature to take care of their poor and aged parents.",
+            "These are worse than the brute creatures, and may be truly said to be without natural affections; such should go to the storks and learn of them, of whom it is reported, that the younger ones will feed the old ones, when they cannot feed themselves; and when weary, and not able to fly, will carry them on their backs."
+        ],
+        "John Wesley": [
+            "He hath denied the faith.\" ",
+            "What has this to do with heaping up money for our children?",
+            "One will go to hell for fear of want; another acts like a heathen."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith does not abolish natural duties, but perfects and confirms them. Without love and its works, faith is dead, for faith is not mere opinion, but the grace and truth of God. Providing for one's own relatives is a plain obligation that demonstrates love and faith. To fail in this duty is to lack love and, consequently, faith. Even an infidel understands the importance of caring for their own, making it all the more unacceptable for a Christian to neglect this duty. By refusing the natural duties implied by Christian faith, one practically denies their possession of faith.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.3390025081780204,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.11,
+            "commentatorTierSimilarities": [
+                50.0,
+                26.47,
+                23.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faith perfects and confirms natural duties, as it demands works and fruits. Neglecting one's own relatives is a clear proof of want of love and faith. Even an unbeliever recognizes the duty to provide for their own, highlighting the greater responsibility of a Christian with greater light and knowledge. By refusing the natural duties associated with Christian faith, one practically denies their possession of faith. Faith does not abolish natural duties but strengthens them, and failing to fulfill these obligations is worse than being an infidel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.357852210484655,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.74,
+            "commentatorTierSimilarities": [
+                49.58,
+                27.28,
+                23.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faith perfects and strengthens natural duties. Neglecting the duty to provide for one's own relatives is a plain proof of a lack of love and faith. Even an unbeliever follows these duties prompted by nature, making it worse for a Christian to neglect them. By refusing the natural duties implied by Christian faith, one practically denies their possession of faith. Faith demands works and fruits, and to fail in this is worse than being an infidel.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.377221863567157,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.38,
+            "commentatorTierSimilarities": [
+                47.54,
+                27.7,
+                24.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The duty to provide for one's own relatives is a plain proof of love and faith, and neglecting it is worse than being an infidel. Faith demands works and fruits, as it does not abolish natural duties but perfects and strengthens them. Failing to fulfill these obligations practically denies one's possession of faith. Even an unbeliever recognizes the importance of caring for their own, highlighting the greater responsibility of a Christian with greater light and knowledge. Refusing the natural duties associated with Christian faith is a denial of faith itself.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.307103253291405,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.05,
+            "commentatorTierSimilarities": [
+                47.98,
+                28.04,
+                23.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Neglecting the duty to provide for one's own relatives is a plain proof of a lack of love and faith. Even an unbeliever recognizes the obligation, making it worse for a Christian to neglect it. By refusing the natural duties implied by Christian faith, one denies their possession of faith. Faith perfects and strengthens natural duties, demanding works and fruits. Failing in this is worse than being an infidel, as faith does not abolish these duties, but rather fulfills them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.393067717805846,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.91,
+            "commentatorTierSimilarities": [
+                47.61,
+                28.04,
+                24.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:23:08",
+    "verseRef": "Luke 22:55",
+    "bestBHT": {
+        "bht": "A fire was kindled all around in the hall or court, creating a bright and blazing fire for everyone to gather around. It is noted that all had taken seats around the fire, with Peter sitting among them, as if he was one of them. We can infer that the fire was made due to the coldness of the night, with the intention of providing warmth and preventing Peter from being easily noticed.",
+        "wordCount": 73,
+        "quoteTokenProportion": 56.86,
+        "qualityScore": 1.4445845384994678,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+        "commentatorTierSimilarities": [
+            27.79,
+            36.72,
+            35.5
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Kindled [\u03c0\u03b5\u03c1\u03b9\u03b1\u03c8\u03b1\u03bd\u03c4\u03c9\u03bd] . Lit., kindled all round [\u03c0\u03b5\u03c1\u03b9] : set in full blaze. ",
+            "Hall. Or court. See on Mark 14:54."
+        ],
+        "Philip Schaff": [
+            "Kindled. Lit., \u2018kindled around;\u2019 a large bright fire was made, we infer.",
+            "All of the Evangelists but Matthew mention the fire, but Mark does not speak of its being kindled.",
+            "Sat down. So Matthew and Mark; out John speaks of his standing."
+        ],
+        "Archibald T. Robertson": [
+            "Kindle around, make a good fire that blazes all over.",
+            "Note \u03c3\u03c5\u03bd- (together), all had taken seats around the fire.",
+            "Imperfect tense, he was sitting, and note \u03bc\u03b5\u03c3\u03bf\u03c2, nominative predicate adjective with the genitive, like John 1:26, good Greek idiom."
+        ],
+        "John Gill": [
+            "It being cold in the night time, though it was at the passover, and the beginning of harvest, the servants and officers of the high priest made a fire in the middle of the hall...",
+            "Peter sat down among them; for the same purpose, and as if he was one of them...",
+            "And which he might do, not only to warm himself, but to prevent his being taken notice of..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the scene is set, we see that a fire was kindled all around in the hall or court, creating a bright and blazing fire for everyone to gather around. It is noted that all had taken seats around the fire, with Peter sitting among them, as if he was one of them. We can infer that the fire was made due to the coldness of the night, with the intention of providing warmth and preventing Peter from being easily noticed.",
+            "wordCount": 81,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.41113834722629,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.26,
+            "commentatorTierSimilarities": [
+                27.31,
+                36.83,
+                35.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the scene is set, a fire was kindled all around in the hall or court, providing warmth in the cold night. Peter sat among the others, trying to blend in and not draw attention to himself. The fire not only served the practical purpose of keeping them warm, but also helped Peter in his attempt to go unnoticed.",
+            "wordCount": 59,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.2496027840011064,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.89,
+            "commentatorTierSimilarities": [
+                22.27,
+                32.94,
+                44.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A fire was kindled all around in the hall or court, providing warmth for those gathered. Peter purposefully sat among them, trying to blend in and avoid being noticed. The fire served the practical purpose of keeping them warm, but it also played a role in Peter's effort to remain inconspicuous.",
+            "wordCount": 52,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.195004375617494,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.08,
+            "commentatorTierSimilarities": [
+                24.23,
+                30.82,
+                44.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A fire was kindled all around in the hall or court, creating a bright and blazing fire for everyone to gather around. It is noted that all had taken seats around the fire, with Peter sitting among them, as if he was one of them. We can infer that the fire was made due to the coldness of the night, with the intention of providing warmth and preventing Peter from being easily noticed.",
+            "wordCount": 73,
+            "quoteTokenProportion": 56.86,
+            "qualityScore": 1.4445845384994678,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+            "commentatorTierSimilarities": [
+                27.79,
+                36.72,
+                35.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The scene unfolds with the disciples gathered around a fire, a fire that blazed all around them, providing warmth and comfort on a cold night. They sat together, united, drawn by the same source of light and heat. Among them was Peter, sitting as if he belonged, as if he was one of them. Perhaps he sought both warmth and camouflage, not wanting to draw attention to himself. The fire, kindled by the servants and officers of the high priest, served a dual purpose, shielding Peter's identity while offering respite from the chill of the evening.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.100958400035862,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.95,
+            "commentatorTierSimilarities": [
+                20.47,
+                32.43,
+                47.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

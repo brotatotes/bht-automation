@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:33:20",
+    "verseRef": "Acts 19:3",
+    "bestBHT": {
+        "bht": "The people in question admitted to being baptized unto John's baptism, signifying repentance and belief in Jesus. However, they lacked understanding of the Holy Spirit, which Paul recognized as a deficiency in their baptism. This encounter highlights the significance of receiving a baptism that encompasses a comprehensive comprehension of the Holy Spirit and the redemptive work of Christ. It serves as a reminder that baptisms should align with a full understanding of the Christian faith.",
+        "wordCount": 76,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 2.355693630013393,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.67,
+        "commentatorTierSimilarities": [
+            21.99,
+            32.54,
+            45.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To what then (if ye did not so much as hear of the Holy Ghost at your first believing) were ye baptized?",
+            "If the question and answer in ver. 2 regarded, as in A.V., the whole interval since their conversion, this enquiry would have been more naturally expressed in the perfect tense.",
+            "Unto what] unto (with a view to, as introductory to) what profession? They answer, Unto (that indicated by) the baptism of John, viz.: repentance, and the believing on Jesus, then to come, but now (see ch. xviii. 25, note) the object of our faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A formidable party in the Church of that city gloried in his type of preaching in preference to Paul's.",
+            "No doubt from the marked infusion of Greek philosophic culture which distinguished it, and which the apostle studiously avoided.",
+            "In the same stage of Christian knowledge as Apollos at first, newly arrived, probably, and having had no communication as yet with the church at Ephesus."
+        ],
+        "Albert Barnes": [
+            "Unto what - Unto what faith or doctrine. What did you profess to believe when you were baptized?",
+            "Unto John\u2019s baptism - See the notes on Acts 18:25."
+        ],
+        "Marvin Vincent": [
+            "Here, at last, he wholly gives place to Christ.",
+            "Unto what."
+        ],
+        "Philip Schaff": [
+            "Unto what as the object of faith and confession then were ye baptized?\" ",
+            "Their knowledge of the effects of His sufferings, of the work of the precious blood, was very dim, very uncertain.",
+            "Of the presence and work of the Holy Spirit they confessed that they knew nothing."
+        ],
+        "Archibald T. Robertson": [
+            "Clearly, Paul felt they had received a poor baptism with no knowledge of the Holy Spirit.",
+            "Last mention of John the Baptist in the N.T.",
+            "They had been dipped in other words, but they had not grasped the significance of the ordinance."
+        ],
+        "John Gill": [
+            "The apostle takes it for granted that they were baptized, since they were not only believers, but disciples...",
+            "Either in whose name they were baptized, since Christian baptism was administered in the name of the Spirit, as well as in the name of the Father and of the Son...",
+            "It seems rather that they were baptized, and that they were baptized in the name of Christ, as John's disciples were, as the apostle affirms in the following words."
+        ],
+        "John Wesley": [
+            "Into what were ye baptized \u2014 Into what dispensation? To the sealing of what doctrine? Into John's baptism - We were baptized by John and believe what he taught."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When confronted by Paul about their baptism, the people in Acts 19:3 respond that they were baptized unto John's baptism, which represented repentance and belief in Jesus. However, it becomes clear that their understanding was incomplete as they had not even heard of the Holy Spirit. Paul recognized their poor baptism and saw this as an opportunity to teach them the fullness of the Christian faith. Through this encounter, the importance of receiving a baptism that aligns with a complete understanding of the Holy Spirit and the work of Christ is emphasized.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.34706631598044,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.38,
+            "commentatorTierSimilarities": [
+                23.65,
+                31.97,
+                44.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people in question admitted to being baptized unto John's baptism, signifying repentance and belief in Jesus. However, they lacked understanding of the Holy Spirit, which Paul recognized as a deficiency in their baptism. This encounter highlights the significance of receiving a baptism that encompasses a comprehensive comprehension of the Holy Spirit and the redemptive work of Christ. It serves as a reminder that baptisms should align with a full understanding of the Christian faith.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.355693630013393,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.67,
+            "commentatorTierSimilarities": [
+                21.99,
+                32.54,
+                45.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Paul questioned the people about their baptism, they acknowledged being baptized unto John's baptism, representing repentance and belief in Jesus. However, they lacked knowledge of the Holy Spirit, indicating a deficient understanding that Paul recognized. This conversation underscores the importance of receiving a baptism that encompasses a comprehensive comprehension of the Holy Spirit and the redemptive work of Christ. It serves as a reminder that baptisms should align with a complete understanding of the Christian faith.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.2675146306449987,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.74,
+            "commentatorTierSimilarities": [
+                23.7,
+                31.98,
+                44.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people admitted to being baptized unto John's baptism, signifying repentance and belief in Jesus. However, they lacked an understanding of the Holy Spirit, which Paul recognized. This emphasizes the significance of receiving a baptism that aligns with a comprehensive comprehension of the Holy Spirit and the redemptive work of Christ. It serves as a reminder that baptisms should reflect a complete understanding of the Christian faith.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.284420430743947,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.3,
+            "commentatorTierSimilarities": [
+                22.9,
+                32.47,
+                44.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people acknowledged being baptized unto John's baptism, a symbol of repentance and belief in Jesus. However, they lacked knowledge of the Holy Spirit, revealing a deficiency in their baptism. Paul recognized this and saw it as an opportunity to teach them the complete understanding of the Christian faith. This encounter emphasizes the importance of receiving a baptism that encompasses a comprehensive comprehension of the Holy Spirit and the redemptive work of Christ.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.272750114498788,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.91,
+            "commentatorTierSimilarities": [
+                22.57,
+                32.89,
+                44.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:13:29",
+    "verseRef": "Luke 1:51",
+    "bestBHT": {
+        "bht": "God displayed His strength by His own arm, showing His mighty power. This revealed the prideful hearts and moral understanding of those who exalted themselves above others. However, God scatters and confounds the proud through His actions. Mary prophetically speaks of what God will accomplish through the Messiah, emphasizing the certainty of His plans. This highlights the stark contrast between God's strength and the arrogance of humanity, demonstrating His ability to humble the proud.",
+        "wordCount": 75,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.4824882782257527,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.64,
+        "commentatorTierSimilarities": [
+            23.71,
+            35.66,
+            40.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The expression in this and the subsequent verses has no particular reference to his mercy to Mary.",
+            "This is the nature of true piety. It does not terminate in thinking of God\u2019s mercy toward ourselves. It thinks of others, and praises God that others also are made partakers of His mercy, and that His goodness is manifested to all His works.",
+            "Those who were lifted up or exalted in their own view. Those who 'thought themselves' to be superior to other men."
+        ],
+        "Marvin Vincent": [
+            "Shewed strength [\u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b5\u03bd \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2] . Lit., made strength.",
+            "In the imagination [\u03b4\u03b9\u03b1\u03bd\u03bf\u03b9\u03b1] . The faculty of thought, understanding, especially moral understanding.",
+            "Some prefer to render 'by the imagination,' thus making the proud the instrument of their own destruction."
+        ],
+        "John Calvin": [
+            "He hath done might. This means, 'he hath wrought powerfully.' The arm of God is contrasted with every other aid.",
+            "God rested satisfied with his own power, employed no companions in the work, called none to afford him aid.",
+            "When God has for a time looked down from heaven, in silent mockery, on their splendid preparations, he unexpectedly scatters the whole mass."
+        ],
+        "Philip Schaff": [
+            "He hath shewed strength. The past tense in this and the following verses, is used prophetically, according to the common usage of sacred Hebrew poetry.\" ",
+            "What the Lord has done for her leads her to sing thus of what He will do, as certain and accomplished.",
+            "Their heart, the region where pride reigned."
+        ],
+        "Archibald T. Robertson": [
+            "Showed strength (\u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b5\u03bd \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2). 'Made might' (Wycliff). A Hebrew conception as in Psalms 118:15.",
+            "Plummer notes six aorist indicatives in this sentence (Luke 1:51-63), neither corresponding to our English idiom, which translates here by 'hath' each time.",
+            "Imagination (\u03b4\u03b9\u03b1\u03bd\u03bf\u03b9\u03b1). Intellectual insight, moral understanding."
+        ],
+        "John Gill": [
+            "He hath showed strength with his arm.... which is done by his own arm, he being mighty to save.\" ",
+            "He hath scattered the proud in the imagination of their hearts; whom he always resists, and both in providence and grace, takes such methods, as tend to humble and confound them.\" ",
+            "A virgin betrothed to a carpenter, and her son of that business also, with which both were flouted; and because of this meanness, the Messiah was rejected by them; and thus were they scattered and confounded in their imaginations."
+        ],
+        "John Wesley": [
+            "He hath wrought strength with his arm \u2014 That is, he hath shown the exceeding greatness of his power.",
+            "She speaks prophetically of those things as already done, which God was about to do by the Messiah.",
+            "He hath scattered the proud \u2014 Visible and invisible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, God is portrayed as having made strength or showed strength with His own arm. This emphasizes His power and ability to accomplish great things. The phrase in the imagination refers to the moral understanding and intellectual insight, highlighting the prideful hearts of those who think themselves superior to others. These proud individuals are the ones whom God scatters and confounds. Mary's song prophetically speaks of what God will do through the Messiah, demonstrating that God's actions are certain and accomplished. Ultimately, God's strength and power are contrasted with human arrogance and pride, revealing His ability to humble the proud.",
+            "wordCount": 105,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.5042767979557572,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                25.9,
+                36.49,
+                37.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God displayed His strength by His own arm, showing His mighty power. This revealed the prideful hearts and moral understanding of those who exalted themselves above others. However, God scatters and confounds the proud through His actions. Mary prophetically speaks of what God will accomplish through the Messiah, emphasizing the certainty of His plans. This highlights the stark contrast between God's strength and the arrogance of humanity, demonstrating His ability to humble the proud.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.4824882782257527,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.64,
+            "commentatorTierSimilarities": [
+                23.71,
+                35.66,
+                40.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God exhibited His strength by making might with His own arm, revealing His remarkable power. This unveiled the conceit and understanding of those who esteemed themselves above others. Nevertheless, God dispersed and perplexed the haughty through His deeds. Mary prophetically spoke of what God would achieve through the Messiah, underscoring the sureness of His intentions. This emphasized the glaring disparity between God's strength and humanity's arrogance, showcasing His capacity to humble the proud.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.469355428563296,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.2,
+            "commentatorTierSimilarities": [
+                23.25,
+                33.74,
+                43.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God made strength with His own arm, displaying His power. This revealed the pride and moral understanding of those who exalted themselves. However, God scattered the proud and confounded them through His actions. Mary prophetically spoke of what God would do through the Messiah, emphasizing the certainty of His plans. This highlighted the contrast between God's strength and human arrogance, demonstrating His ability to humble the proud.",
+            "wordCount": 68,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.4597037920124734,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.88,
+            "commentatorTierSimilarities": [
+                24.89,
+                32.94,
+                42.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God exhibited His strength by making might with His own arm, revealing His remarkable power. This unveiled the conceit and understanding of those who esteemed themselves above others. Nevertheless, God dispersed and perplexed the haughty through His deeds. Mary prophetically spoke of what God would achieve through the Messiah, underscoring the sureness of His intentions. This emphasized the glaring disparity between God's strength and humanity's arrogance, showcasing His capacity to humble the proud.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.469355428563296,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.2,
+            "commentatorTierSimilarities": [
+                23.25,
+                33.74,
+                43.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

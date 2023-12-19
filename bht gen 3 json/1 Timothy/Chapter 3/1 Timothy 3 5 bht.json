@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:27:33",
+    "verseRef": "1 Timothy 3:5",
+    "bestBHT": {
+        "bht": "If someone cannot properly govern their own family, how can they be expected to take care of a church or congregation? This comparison highlights the significance of having appropriate views and sentiments towards those under one's authority. Leading in the church is not about seeking arbitrary power, but rather about being watchful, thoughtful, and adopting a paternal approach. The ability to govern one's household is an indication of their capacity to care for the household of faith.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.52421226237403,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.02,
+        "commentatorTierSimilarities": [
+            18.5,
+            46.46,
+            35.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "5. For\u2014Greek, \"But.",
+            "\t",
+            "the church\u2014rather, \"a",
+            "\tchurch\" or congregation. How shall he who cannot perform the",
+            "\tlesser function, perform the greater and more difficult?"
+        ],
+        "Albert Barnes": [
+            "A church resembles a family ... The government of the church also is designed to be 'paternal.'",
+            "If a man cannot govern his own family well ... how can he be expected to take charge of the more numerous 'household of faith' with proper views and feelings?",
+            "While he institutes a comparison between the government of a family and that of the church, he guards against the possibility of its being supposed that he would countenance 'arbitrary' authority in the church."
+        ],
+        "Marvin Vincent": [
+            "Shall he take care of [\u03b5\u03c0\u03b9\u03bc\u03b5\u03bb\u03b7\u03c3\u03b5\u03c4\u03b1\u03b9] . Only here and Luke 10:34."
+        ],
+        "John Calvin": [
+            "He who is unfit for governing a family will be altogether unable to govern a people.",
+            "His own house makes him contemptible.",
+            "It is required in all pastors, that they be good fathers of a family, and know what it is to govern their own children well."
+        ],
+        "Philip Schaff": [
+            "The change of words assumes that \u2018presiding,\u2019 the position of authority, involves watchful carefulness over those subject to it.\" ",
+            "The contest between \u2018his own house\u2019 and the \u2018Church of God \u2018presupposes the definition of that Church as the house or family of God.",
+            "The reason being implied rather than stated in the imaginary case which the apostle puts as involving obvious unfitness."
+        ],
+        "Archibald T. Robertson": [
+            "If a man knoweth not... how to rule.",
+            "How shall he take care of the church of God?",
+            "The local church described as belonging to God."
+        ],
+        "John Gill": [
+            "For if a man know not how to rule his own house... how shall he take care of the church of God?\" ",
+            "Which is an affair of less importance, and more easy to be done; not requiring so much resolution, prudence, care, and thought.",
+            "The argument is from the lesser to the greater."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A person who cannot effectively govern and care for their own family will certainly struggle to take care of a church or congregation. The comparison is made between the government of a family and the care of a church, emphasizing the importance of proper views and feelings towards those under one's authority. The role of a leader in the church is not about seeking arbitrary authority, but rather about watchful carefulness and a paternal approach. It is clear that one's ability to govern their own household reflects their ability to care for the household of faith. Thus, the apostle puts forth the requirement that leaders first prove their ability to rule well in their own homes before taking on the responsibility of shepherding God's church.",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.6876375603442697,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                17.41,
+                47.24,
+                35.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A person who cannot effectively govern and care for their own family will certainly struggle to take care of a church or congregation. The comparison is made between the government of a family and the care of a church, emphasizing the importance of proper views and feelings towards those under one's authority. The role of a leader in the church is not about seeking arbitrary authority, but rather about watchful carefulness and a paternal approach. It is clear that one's ability to govern their own household reflects their ability to care for the household of faith.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.6854419476201397,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+            "commentatorTierSimilarities": [
+                16.05,
+                47.96,
+                35.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If one cannot effectively govern their own family, how can they be expected to care for a church or congregation? This comparison emphasizes the importance of having proper views and feelings towards those under one's authority. The role of a leader in the church is not about seeking arbitrary authority, but rather about watchful carefulness and a paternal approach. It is clear that one's ability to govern their own household reflects their ability to care for the household of faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.6082975370149488,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.82,
+            "commentatorTierSimilarities": [
+                17.64,
+                46.19,
+                36.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If someone cannot properly govern their own family, how can they be expected to take care of a church or congregation? This comparison highlights the significance of having appropriate views and sentiments towards those under one's authority. Leading in the church is not about seeking arbitrary power, but rather about being watchful, thoughtful, and adopting a paternal approach. The ability to govern one's household is an indication of their capacity to care for the household of faith.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.52421226237403,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.02,
+            "commentatorTierSimilarities": [
+                18.5,
+                46.46,
+                35.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If a man cannot govern his own family well, how can he be expected to take charge of the more numerous 'household of faith' with proper views and feelings? The comparison between the government of a family and that of the church is designed to show that a man's ability to rule starts within his own household. The apostle emphasizes the importance of being a good father and knowing how to manage one's children well. After all, if one fails to handle the affairs of the family, how will they be able to care for the church of God? This argument moves from the lesser responsibility of one's household to the greater responsibility of the church.",
+            "wordCount": 119,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.7499409922841336,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+            "commentatorTierSimilarities": [
+                20.01,
+                43.29,
+                36.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

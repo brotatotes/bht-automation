@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:19:48",
+    "verseRef": "Luke 14:29",
+    "bestBHT": {
+        "bht": "When you begin to build something, like a tower, you must carefully plan and have enough resources to finish the work. If you run out of resources and are unable to complete the building, you become a mockery to others. This warns against starting something without the intention or ability to finish it. Our lives and endeavors, like buildings, need a solid foundation. While we may not have the ability to finish on our own, divine grace can bring our efforts to completion.",
+        "wordCount": 83,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.0633860558910089,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.7,
+        "commentatorTierSimilarities": [
+            34.97,
+            9.92,
+            55.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Haply - Perhaps.",
+            "To mock him - To ridicule him. To laugh at him."
+        ],
+        "Marvin Vincent": [
+            "To finish out.",
+            "Behold attentively watching the progress of the building.",
+            "Begin to mock as his resources come to an end."
+        ],
+        "Archibald T. Robertson": [
+            "When he hath laid ... and was not able to finish.\" ",
+            "Note perfective use of \u03b5\u03ba, to finish out to the end.\" ",
+            "To mock him, to trifle with like Latin illudere."
+        ],
+        "John Gill": [
+            "A foundation may be laid, and the building may never be finished, because the foundation is not laid right...\" ",
+            "Though no man is able to finish it of himself, yet those hands which have laid the foundation, will raise up the superstructure, and complete the whole building, through the power and efficacy of divine grace...\" ",
+            "But where there is a beginning, and which at first looks well, and there is no progress, but the work is dropped and left unfinished, all that behold it, begin to mock..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When someone begins to build a tower, they must carefully consider the resources and the progress from start to finish. However, if they run out of resources and are unable to finish, they become a laughingstock. This is a warning against starting something without the intention or ability to see it through. Just as a building must have a solid foundation, our lives and endeavors must be grounded in the right principles. Although we may lack the ability to finish on our own, divine grace can take our efforts and bring them to completion. But if we start something and then abandon it without progress, we become objects of mockery.",
+            "wordCount": 110,
+            "quoteTokenProportion": 54.79,
+            "qualityScore": 1.0294738640547334,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.57,
+            "commentatorTierSimilarities": [
+                32.24,
+                14.69,
+                53.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When building a tower, it is important to carefully consider the resources and progress from start to finish. If one runs out of resources and is unable to complete the tower, they become a laughingstock. This serves as a warning against starting something without the intention or ability to see it through. Just as a building requires a solid foundation, our endeavors must be grounded in the right principles. Though we may lack the ability to finish on our own, divine grace can bring our efforts to completion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 0.9664861935461055,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.48,
+            "commentatorTierSimilarities": [
+                32.89,
+                10.32,
+                56.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When you begin to build something, like a tower, you must carefully plan and have enough resources to finish the work. If you run out of resources and are unable to complete the building, you become a mockery to others. This warns against starting something without the intention or ability to finish it. Our lives and endeavors, like buildings, need a solid foundation. While we may not have the ability to finish on our own, divine grace can bring our efforts to completion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0633860558910089,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.7,
+            "commentatorTierSimilarities": [
+                34.97,
+                9.92,
+                55.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When embarking on a project, like building a tower, it is crucial to consider the resources needed to finish it. If resources deplete and the project remains unfinished, it becomes a subject of mockery. This cautionary tale reminds us to thoroughly evaluate our ability and commitment before undertaking any endeavor. Just as a building requires a firm foundation, our lives and pursuits necessitate a solid groundwork. Though completing tasks independently may prove challenging, divine grace empowers us to achieve completion.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 0.9611878585569437,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.3,
+            "commentatorTierSimilarities": [
+                31.86,
+                6.74,
+                61.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When one starts to build, they must carefully plan and watch over the progress to ensure it reaches completion. However, if they run out of resources and cannot finish, they become a laughingstock to others. This serves as a reminder not to start something without the intention or ability to see it through. Just as a building needs a strong foundation, our endeavors must be based on solid principles. Though we may lack the means to finish on our own, divine grace can bring our efforts to completion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 0.9764643306596295,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.81,
+            "commentatorTierSimilarities": [
+                36.18,
+                6.37,
+                57.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

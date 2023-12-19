@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:14:23",
+    "verseRef": "1 Corinthians 15:36",
+    "bestBHT": {
+        "bht": "The necessity of death for new life is illustrated through the analogy of a seed. Just as a seed remains dormant until it dies and germinates, the new spiritual life brought by Christ emerges out of death. This principle is evident in nature, where the growth of fruits showcases the power of resurrection. Thus, the objection that the body returns to dust is refuted by the undeniable truth that death is not an obstacle but a prerequisite for life to flourish.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.081004215508008,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+        "commentatorTierSimilarities": [
+            32.63,
+            30.76,
+            36.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Its life is latent in it; but is not developed into quick and lively action without the death of the deposited seed.",
+            "i.e. its perishing, disappearing from nature."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The seed which thou thyself sowest.",
+            "Death, so far from preventing quickening, is the necessary prelude and prognostication of it.",
+            "Christ by His death for us has not given us a reprieve from death as to the life which we have from Adam; nay, He permits the law to take its course on our fleshly nature; but He brings from Himself new spiritual and heavenly life out of death."
+        ],
+        "Albert Barnes": [
+            "A man was a fool to urge that as an objection to religion which must exist in the undeniable and everyday facts which they witnessed.",
+            "The main objection was, that the body died and returned to dust, and could not, therefore, rise again.",
+            "Perhaps it is implied here also that there was a fitness that people should die in order to obtain the glorious body of the resurrection, in the same way as it is fit that the kernel should die, in order that there may be a new and beautiful harvest."
+        ],
+        "Marvin Vincent": [
+            "Thou sowest something which is quickened only through dying.",
+            "Paul is not partial to metaphors from nature, and his references of this character are mostly to nature in connection with human labor.",
+            "Die. Become corrupted. Applied to the seed in order to keep up the analogy with the body."
+        ],
+        "John Calvin": [
+            "We must not here form our judgment according to our own understanding, but must assign to the stupendous and secret power of God the honor of believing, that it will accomplish what we cannot comprehend.",
+            "The resurrection is so far from being against nature, that we have every day a clear illustration of it in the course of nature itself - in the growth of the fruits of the earth.",
+            "We are beyond measure spiteful and ungrateful in estimating the power of God, if we take from him what is already manifest before our eyes."
+        ],
+        "Philip Schaff": [
+            "Not more truly does the grain require to die in the ground, to yield the bread we live on... than must this mortal body die in order to live again, nor more surely will it then rise to life.\" ",
+            "What is reaped is not precisely what is sown.",
+            "That which thou lowest, thou lowest not the body that shall be, but a bare grain, it may chance of wheat, or of some other kind."
+        ],
+        "Archibald T. Robertson": [
+            "Thou foolish one... the pose does not make one intelligent.",
+            "In plant life death precedes life, death of the seed and then the new plant.",
+            "This is the answer to the 'how' question."
+        ],
+        "John Gill": [
+            "Thou fool,.... Not transgressing the law of Christ, which makes him that calls his brother a fool in danger of hell fire; for the apostle said not this in anger, and from a malevolent disposition, as that rule supposes, but out of zeal for truth, and to reprove the stupidity and folly of such a bold objector...",
+            "Dying and putrifying of the seed, or grain of wheat, is necessary to its quickening and rising up again; and that if God is able to quicken a seed or grain that is rotten and entirely dead, and cause it to rise up in verdure and with much fruit, as he does every year in millions of instances, why should it be thought incredible that God should quicken dead bodies...",
+            "The dissolution and corruption of the body by death is so far from being an objection to its resurrection, that it is necessary to it, even as the dying and putrifying of the seed, or grain of wheat, is necessary to its quickening and rising up again..."
+        ],
+        "John Wesley": [
+            "That which thou sowest, is not quickened into new life and verdure, except it die.",
+            "Death is so far from hindering life, that it necessarily goes before it.",
+            "Death is so far from hindering life, that it necessarily goes before it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the necessary relationship between death and new life, using the analogy of a seed that must die in order to produce a new plant. Just as the life of a seed is dormant until it dies and germinates, so too is the new spiritual and heavenly life that Christ brings forth from death. This concept of death preceding new life is evident in nature itself, where the growth of the fruits of the earth demonstrates the resurrection power of God. Thus, the objection that the body dies and returns to dust is countered by the undeniable truth that death is not an obstacle to life but a prerequisite for it.",
+            "wordCount": 114,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.2044243181369314,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.64,
+            "commentatorTierSimilarities": [
+                31.24,
+                31.65,
+                37.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The analogy used in this passage highlights the necessity of death for new life to emerge. Just as a seed remains dormant until it dies and gives rise to a new plant, the new spiritual life brought by Christ is birthed out of death. This principle is evident in the natural world as well, where the growth of fruits illustrates the resurrection power of God. Therefore, the objection that the body returns to dust is countered by the undeniable truth that death is not an obstacle but a prerequisite for life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.0036375344778454,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.96,
+            "commentatorTierSimilarities": [
+                30.4,
+                32.37,
+                37.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The concept conveyed in these words is that death is essential for new life to flourish. Just as a seed must die before it can sprout and bring forth a new plant, so too does Christ's death give way to new spiritual and heavenly life. This principle is also reflected in nature, where the growth of fruits serves as a testament to the resurrection power of God. Therefore, the objection that the body decays and returns to dust is refuted, as death is not an impediment but a necessary precursor to life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.052335599276701,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                29.1,
+                33.15,
+                37.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The analogy used here emphasizes the significance of death in bringing about new life. Just as a seed must die in order to produce a new plant, Christ's death gives rise to a new spiritual and heavenly life beyond our fleshly nature. This idea is further supported by the observation that in nature, death is followed by the vibrant growth of fruits, serving as a testimony to the resurrection power of God. Therefore, the objection that the body returns to dust is overshadowed by the truth that death precedes and enables new life.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.008338734693851,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                30.9,
+                32.08,
+                37.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The necessity of death for new life is illustrated through the analogy of a seed. Just as a seed remains dormant until it dies and germinates, the new spiritual life brought by Christ emerges out of death. This principle is evident in nature, where the growth of fruits showcases the power of resurrection. Thus, the objection that the body returns to dust is refuted by the undeniable truth that death is not an obstacle but a prerequisite for life to flourish.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.081004215508008,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+            "commentatorTierSimilarities": [
+                32.63,
+                30.76,
+                36.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:14:35",
+    "verseRef": "Luke 3:18",
+    "bestBHT": {
+        "bht": "John the Baptist preached various and powerful messages to the people, exhorting them to believe in the Messiah and sharing the good news of the Gospel. Luke's account gives only a glimpse of the many things John taught, including teachings about the person and office of the Messiah, the nature of his kingdom, and the faith needed in him. John's ministry was not just about rebuking Herod, but about proclaiming the coming of the Messiah and the message of salvation.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 2.140755693935545,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+        "commentatorTierSimilarities": [
+            21.93,
+            35.65,
+            42.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Luke only: containing the corroboration of the account in Mark vi. 20 of John\u2019s boldness in rebuking Herod, with this slight variation.",
+            "Herod heard him gladly, and did many things in consequence, here the rebuke for general profligacy seems to have contributed to his imprisonment.",
+            "These accounts however, though perfectly distinct, are by no means inconsistent."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "18. many other things, c.\u2014such",
+            "\tas we read in John 1:29 John 1:33;",
+            "\tJohn 1:34; John 3:27-36.",
+            "\t(Also see on John 3:27-43.3.36- :.)"
+        ],
+        "Marvin Vincent": [
+            "Preached [\u03b5\u03c5\u03b7\u03b3\u03b3\u03b5\u03bb\u03b9\u03b6\u03b5\u03c4\u03bf] . Rev., preserves the fuller meaning of the word according to its etymology : preached good tidings.",
+            "Other [\u03b5\u03c4\u03b5\u03c1\u03b1] . Rather, various, different.",
+            "Compare Matthew 14:3-5; Mark 6:17-20."
+        ],
+        "Philip Schaff": [
+            "With many other exhortations, etc. The form of the verse is peculiar. The exhorting was varied, different in character as well as repeated.",
+            "Thus he preached glad tidings, i.e., of the coming Messiah.",
+            "This description of his ministry is peculiarly apt, hinting at the close connection between repentance and belief in the Gospel, and at the relation between John the Baptist and Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Many and different things did John... to the people.",
+            "Luke has given a bare sample of the wonderful messages of the Baptist.",
+            "Few as his words preserved are they give a definite and powerful conception of his preaching."
+        ],
+        "John Gill": [
+            "Relating to the person and office of the Messiah, to the nature of his kingdom, the Gospel dispensation, and to faith in him.",
+            "He pointed him out to the people, and exhorted them to believe in him.",
+            "Publishing the Gospel, the good news, and glad tidings of the Messiah's being come, and of life, righteousness, and salvation by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John the Baptist preached many different things to the people, exhorting them to believe in the Messiah and announcing the good news and glad tidings of the Gospel. Luke only gives us a small glimpse of the powerful messages that John delivered. His preaching was varied and had a close connection between repentance and belief in the Gospel, as well as the relation between John and Christ. His exhortations contained important teachings about the person and office of the Messiah, the nature of his kingdom, and the faith needed in him. John's ministry was not just about rebuking Herod, but about proclaiming the coming of the Messiah and the message of salvation.",
+            "wordCount": 113,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 2.048325226367406,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.45,
+            "commentatorTierSimilarities": [
+                21.67,
+                37.38,
+                40.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist preached various and powerful messages to the people, exhorting them to believe in the Messiah and sharing the good news of the Gospel. Luke's account gives only a glimpse of the many things John taught, including teachings about the person and office of the Messiah, the nature of his kingdom, and the faith needed in him. John's ministry was not just about rebuking Herod, but about proclaiming the coming of the Messiah and the message of salvation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.140755693935545,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+            "commentatorTierSimilarities": [
+                21.93,
+                35.65,
+                42.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist preached various and powerful messages exhorting people to believe in the Messiah and sharing the good news of the Gospel. His ministry went beyond rebuking Herod; it included teachings about the person and office of the Messiah, the nature of his kingdom, and the required faith. Luke's account provides only a glimpse of the impactful messages John delivered. His exhortations were diverse, emphasizing the close connection between repentance, belief in the Gospel, and the relationship between John and Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 2.0041900427578043,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.98,
+            "commentatorTierSimilarities": [
+                23.08,
+                37.92,
+                39.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist's preaching encompassed a range of powerful messages, urging people to believe in the Messiah and proclaiming the good news of the Gospel. Luke's account offers just a glimpse of the profound teachings John delivered, which included insights into the person and office of the Messiah, the nature of his kingdom, and the importance of faith. John's ministry extended beyond his confrontation with Herod, emphasizing the connection between repentance, belief in the Gospel, and the relationship between himself and Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 2.1150855453844377,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.67,
+            "commentatorTierSimilarities": [
+                21.37,
+                38.13,
+                40.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist preached a variety of powerful messages, exhorting people to believe in the Messiah and spreading the good news of the Gospel. Although Luke's account provides only a glimpse of John's teachings, it reveals the profound connection between repentance, belief in the Gospel, and the relationship between John and Christ. John's ministry was not limited to rebuking Herod; it encompassed teachings about the person and office of the Messiah, the nature of his kingdom, and the importance of faith in him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.124534031053264,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+            "commentatorTierSimilarities": [
+                21.98,
+                37.53,
+                40.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

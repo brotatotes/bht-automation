@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:22:07",
+    "verseRef": "Luke 20:24",
+    "bestBHT": {
+        "bht": "The mentioned penny is a Roman denarius worth seven pence halfpenny. It has an image and superscription, possibly the name of the emperor or a motto. The people responded Caesar's when asked about the penny's image, likely referring to Tiberius Caesar. This penny would have been the typical currency used in the situation.",
+        "wordCount": 55,
+        "quoteTokenProportion": 44.19,
+        "qualityScore": 1.3138678268951236,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.03,
+        "commentatorTierSimilarities": [
+            29.93,
+            0.0,
+            70.07
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Penny. See on Matthew 20:2. ",
+            "Image and superscription. See on Matthew 22:20."
+        ],
+        "John Gill": [
+            "Show me a penny,.... A Roman denarius, value seven pence halfpenny of our money.",
+            "The penny had a head upon it, with something written, as the name of the emperor, whose image it was, his titles, the date of the coin, or some motto on it.",
+            "They answered and said, Caesar's; very likely Tiberius Caesar's, who was at that time emperor of Rome."
+        ],
+        "John Wesley": [
+            "Show me a penny \u2014 A Roman penny, which was the money that was usually paid on that occasion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse mentions a penny, which is a Roman denarius worth seven pence halfpenny. The penny bears an image and superscription, possibly the name of the emperor and his titles or a motto. When asked whose image and superscription are on the penny, the people may have responded Caesar's. This penny was the usual payment in that situation.",
+            "wordCount": 59,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.590109591034429,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.21,
+            "commentatorTierSimilarities": [
+                34.01,
+                0.0,
+                65.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mentioned penny in the passage is a Roman denarius, worth approximately seven pence halfpenny. This coin bears an image and superscription, most likely the name and titles of the current emperor or a meaningful motto. When asked about the penny's image, the people responded with Caesar's, which suggests that it was likely Tiberius Caesar's during that time. The penny mentioned was the typical currency used in the situation described.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.30056716028602,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+            "commentatorTierSimilarities": [
+                28.05,
+                0.0,
+                71.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The penny mentioned in the verse is a Roman denarius, which had a value of seven pence halfpenny. This penny featured an image and superscription, possibly including the name of the emperor or a meaningful motto. As for the question of whose image and superscription were on the penny, the people replied with Caesar's. It is likely that this referred to Tiberius Caesar, who was the emperor of Rome at that time. The mentioned penny was the customary form of currency used in the specific context described.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.363481824020833,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.68,
+            "commentatorTierSimilarities": [
+                29.58,
+                0.0,
+                70.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mentioned penny is a Roman denarius worth seven pence halfpenny. It has an image and superscription, possibly the name of the emperor or a motto. The people responded Caesar's when asked about the penny's image, likely referring to Tiberius Caesar. This penny would have been the typical currency used in the situation.",
+            "wordCount": 55,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.3138678268951236,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.03,
+            "commentatorTierSimilarities": [
+                29.93,
+                0.0,
+                70.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The penny referred to is a Roman denarius, worth seven pence halfpenny. It bears an image and superscription, potentially the emperor's name, titles, or a motto. When questioned about the penny's image, the people responded, Caesar's, indicating it was likely associated with Tiberius Caesar, the ruler of Rome at the time. This particular coin would have been the customary form of payment in that specific context.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.057278956763116,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.5,
+            "commentatorTierSimilarities": [
+                23.49,
+                0.0,
+                76.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

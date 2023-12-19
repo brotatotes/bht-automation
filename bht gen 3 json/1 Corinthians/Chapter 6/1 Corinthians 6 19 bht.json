@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:07:00",
+    "verseRef": "1 Corinthians 6:19",
+    "bestBHT": {
+        "bht": "Your body is the very shrine for the Holy Spirit, and we have no right to defile or alienate it. Chastity acts as the guardian of the temple, preventing anything unclean from entering and provoking God to abandon it as defiled. Our bodies are not our own, but the Lord's, and we are called to glorify Him with our purity. Paul's plea here is primarily to men, urging them to keep themselves clean as members of Christ's body. Our bodies are not meant for impurity, but for the sacred presence of the Holy Spirit.",
+        "wordCount": 97,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.362044578948658,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.88,
+        "commentatorTierSimilarities": [
+            31.49,
+            34.04,
+            34.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Your body is the temple of the Holy Spirit which is in you.",
+            "Ye have no right to alienate your body, not being yours.",
+            "The reality of His indwelling."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that fornicates sinneth against his own body.",
+            "Chastity is the guardian of the temple to prevent anything unclean entering which might provoke the indwelling God to abandon it as defiled.",
+            "But we have no right to alienate our body which is the Lord's."
+        ],
+        "Albert Barnes": [
+            "The Holy Spirit dwells in us; our bodies are his temples; and they should not be defiled and polluted by sin.",
+            "We are purchased; we belong to God; we are his by redemption; by a precious price paid.",
+            "We are bound...to devote ourselves, body, soul, and spirit, as he directs, to the glory of his name, not to the gratification of the flesh."
+        ],
+        "Marvin Vincent": [
+            "Temple [\u03bd\u03b1\u03bf\u03c2] . Better, as Rev., in margin, sanctuary. It is not only a temple, but the very shrine.\" ",
+            "Glorify. See on John 7:39.\" ",
+            "Omit and in your spirit, which are God 's."
+        ],
+        "John Calvin": [
+            "Our bodies are temples of the Spirit; and...we do not give him a habitation otherwise than by consecrating ourselves to him as temples.\" ",
+            "We are not at our own disposal, that we should live according to our own pleasure. He proves this from the fact that the Lord has purchased us for himself, by paying the price of our redemption.\" ",
+            "The sum is this, that redemption must hold us bound, and with a bridle of obedience restrain the lasciviousness of our flesh."
+        ],
+        "Philip Schaff": [
+            "What, know ye not that your body is the temple of the Holy Ghost which is in you, which ye have from God as His gift through the risen Saviour?",
+            "And whose presence in you is the presence of God Himself, by reason of their essential oneness.",
+            "Will ye then pollute and profane such a temple?"
+        ],
+        "Archibald T. Robertson": [
+            "One's body is the very shrine for the Holy Spirit.",
+            "Christianity makes unchastity dishonour in both sexes.",
+            "Paul's plea here is primarily to men to be clean as members of Christ's body."
+        ],
+        "John Gill": [
+            "The Holy Spirit, in regeneration and sanctification, when he begins the good work of grace on a man, takes possession of his whole person, soul and body, and dwells therein as in his temple.",
+            "Now it is most abominably scandalous and shameful that that body, which is the dwelling place of the Holy Spirit, which is sacred to him as a temple, should be defiled by the sin of fornication.",
+            "Men have not power over their bodies to abuse them at pleasure by fornication, or such like uncleanness, neither single nor married persons."
+        ],
+        "John Wesley": [
+            "And even your body is not, strictly speaking, your own even this is the temple of the Holy Ghost.",
+            "What the apostle calls elsewhere 'the temple of God,' he here styles the temple of the Holy Ghost.",
+            "The Holy Ghost is the living God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Your body is the sanctuary of the Holy Spirit, the very shrine where God dwells. As believers, we must recognize that our bodies are not our own, but the Lord's. We have no right to defile or alienate them through sexual immorality. Chastity serves as the guardian of the temple, preventing anything unclean from entering and provoking the indwelling God to abandon it as defiled. We are called to glorify God in our bodies and present them as living sacrifices, honoring Him with our purity. Paul's plea here is a reminder to men, and indeed to all believers, to keep themselves clean as members of Christ's body. Our bodies are not meant for impurity but for the presence and sacredness of the Holy Spirit.",
+            "wordCount": 127,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 2.2290964581547557,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.46,
+            "commentatorTierSimilarities": [
+                30.42,
+                34.63,
+                34.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Your body is the very shrine for the Holy Spirit, and we have no right to defile or alienate it. Chastity acts as the guardian of the temple, preventing anything unclean from entering and provoking God to abandon it as defiled. Our bodies are not our own, but the Lord's, and we are called to glorify Him with our purity. Paul's plea here is primarily to men, urging them to keep themselves clean as members of Christ's body. Our bodies are not meant for impurity, but for the sacred presence of the Holy Spirit.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.362044578948658,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.88,
+            "commentatorTierSimilarities": [
+                31.49,
+                34.04,
+                34.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Your body is the sacred temple of the Holy Spirit. It is not your own, but belongs to the Lord. Thus, we must not defile or alienate it through immoral acts like fornication. Chastity serves as the guardian of the temple, protecting it from impurity. In doing so, we glorify God and honor the sanctity of His dwelling within us. Paul's plea in this verse is primarily directed towards men, urging them to keep their bodies clean as members of Christ's body.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.073820077015574,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.3,
+            "commentatorTierSimilarities": [
+                32.16,
+                32.82,
+                35.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Your body is the very shrine for the Holy Spirit, and we have no right to defile or alienate it. Chastity acts as the guardian of the temple and prevents anything unclean from provoking the indwelling God to abandon it. Our bodies are not ours but belong to the Lord. Paul's plea here is primarily to men, urging them to keep their bodies clean as members of Christ's body. Our bodies are not meant for impurity, but for the sacred presence of the Holy Spirit within us.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.3202458222206337,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+            "commentatorTierSimilarities": [
+                32.52,
+                33.38,
+                34.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Your body is the temple of the Holy Spirit, not to be defiled or alienated. Chastity guards this sacred dwelling, protecting it from impurity and dishonor. Our bodies belong to the Lord, not to be used for sinful acts like fornication. Paul's plea in this verse is aimed particularly at men, urging them to keep themselves clean as members of Christ's body. We should glorify God with our bodies and honor the presence of the Holy Spirit, for our bodies are His dwelling place.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.2650031747885384,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.65,
+            "commentatorTierSimilarities": [
+                30.24,
+                33.57,
+                36.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:20:24",
+    "verseRef": "Luke 15:7",
+    "bestBHT": {
+        "bht": "Jesus reveals the unseen glory of heaven and the joy it brings when sinners repent. Through the parables of the lost sheep, coin, and prodigal son, different types of sinners are portrayed. The rejoicing in heaven is in contrast with the grumbling of the self-righteous. Repentance is connected to life and salvation, with the self-righteous lacking true repentance. Heaven celebrates the restoration of prodigal sinners, likening it to a father joyfully receiving an extravagant child.",
+        "wordCount": 77,
+        "quoteTokenProportion": 26.0,
+        "qualityScore": 2.0637189141963406,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+        "commentatorTierSimilarities": [
+            30.5,
+            23.34,
+            46.16
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In these words the Lord often introduces His revelations of the unseen world of glory.",
+            "The sheep, the drachma, the prodigal son;\u2014signify respectively, (1) the stupid sinner, (2) the sinner wholly unconscious of the fact and of himself, (3) the sinner conscious and of purpose.",
+            "This one is the stupid and bewildered sinner, erring and straying away in ignorance and self-will from his Shepherd, but sought the Shepherd, and fetched back with joy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ninety-nine just . . . needing no repentance\u2014not angels, whose place in these parables is very different from this",
+            "those represented by the prodigal's well-behaved brother, who have 'served their Father' many years and not at any time transgressed His commandment",
+            "such as have grown up from childhood in the fear of God and as the sheep of His pasture"
+        ],
+        "Albert Barnes": [
+            "It is a principle of human nature that the 'recovery' of an object in danger of being lost, affords much more intense joy than the quiet 'possession' of many that are safe.",
+            "Heavenly beings are thus represented as rejoicing over those who repent on earth. They see the guilt and danger of people; they know what God has done for the race, and they rejoice at the recovery of any from the guilt and ruins of sin.",
+            "By this he vindicated his own conduct. The Jews did not deny the existence of angels. They would not deny that their feelings were proper. If 'they' rejoiced in this manner, it was not improper for 'him' to show similar joy, and especially to seek their conversion and salvation."
+        ],
+        "Marvin Vincent": [
+            "Repenteth. See on Matthew 3:2. ",
+            "THE PARABLES OF THE LOST COIN AND OF THE PRODIGAL SON. ",
+            "Peculiar to Luke. 8 - 32."
+        ],
+        "Philip Schaff": [
+            "An hundred measures. The Hebrew measure (\u2018cor\u2019) is here spoken of, equal to ten ephahs.",
+            "Write eighty. The variation in the amount deducted is without any special meaning. Still we may find in it a proof of the steward\u2019s prudence.",
+            "Christian men too often slight such knowledge, but this parable condemns putting a premium on ignorance."
+        ],
+        "Archibald T. Robertson": [
+            "The joy in heaven is in contrast with the grumbling Pharisees and scribes.",
+            "It is the same point that he made against them when they criticized Jesus and the disciples for being at Levi's feast.",
+            "They posed as 'righteous.' Very well, then. That shuts their mouths on the point of Christ's saving the publicans and sinners."
+        ],
+        "John Gill": [
+            "The reason why there is joy in heaven over [repenting sinners] is, because, without such a repentance, they must perish; and by this they appear to be openly in a state of grace; and become proper subjects of the ordinances of Christ; and this repentance is unto life and salvation; or these are inseparably connected with it.\" ",
+            "The more joy over repenting sinners, than over [ninety and nine just persons], is because the salvation of the one is before certain to them, and the other is unexpected.\" ",
+            "A self-righteous person is an impenitent one; a repenting sinner is more regarded in heaven than a self-righteous man."
+        ],
+        "John Wesley": [
+            "Joy shall be...solemn and festal joy, in heaven.\" ",
+            "The sum is, as a father peculiarly rejoices when an extravagant child, supposed to be utterly lost, comes to a thorough sense of his duty.",
+            "The angels in heaven peculiarly rejoice in the conversion of the most abandoned sinners. Yea, and God himself so readily forgives and receives them, that he may be represented as having part in the joy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus reveals the unseen world of glory and the joy it brings over the repentance of sinners. The parables of the lost sheep, coin, and prodigal son represent different types of sinners: the stupid and bewildered sinner, the sinner unconscious of their state, and the sinner who is aware and purposeful. The rejoicing in heaven contrasts with the grumbling of the self-righteous Pharisees and scribes, who shut their mouths when faced with the reality of Christ's salvation for publicans and sinners. The recovery of those in danger of being lost brings intense joy, and the heavenly beings celebrate the restoration of people from the guilt and ruins of sin. The repentance of sinners is inseparably connected to the hope of life and salvation. The self-righteous person lacks true repentance, while a repentant sinner is highly valued in heaven. The delight in heaven is compared to a father joyfully receiving an extravagant child who has returned to their senses.",
+            "wordCount": 164,
+            "quoteTokenProportion": 22.58,
+            "qualityScore": 2.1244566495253867,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+            "commentatorTierSimilarities": [
+                28.97,
+                25.88,
+                45.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In these parables, Jesus reveals the unseen world of glory and the joy it brings over the repentance of sinners. The lost sheep, coin, and prodigal son represent different types of sinners\u2014the bewildered, the unconscious, and the purposeful. Heaven's rejoicing contrasts with the grumbling of the self-righteous, who are silenced by the reality of Christ's salvation for sinners. The recovery of lost ones brings intense joy and heavenly celebration. Repentance is connected to life and salvation, with the self-righteous lacking true repentance. Heaven delights in restoring the prodigal sinner, just like a father welcoming back an extravagant child.",
+            "wordCount": 103,
+            "quoteTokenProportion": 26.87,
+            "qualityScore": 2.0167185488430586,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                29.85,
+                25.51,
+                44.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In these parables, Jesus reveals the unseen world of glory and the joy it brings over the repentance of sinners. The lost sheep, coin, and prodigal son represent different types of sinners\u2014the bewildered, the unconscious, and the purposeful. Heaven's rejoicing contrasts with the grumbling of the self-righteous, who are silenced by the reality of Christ's salvation. The recovery of lost ones brings intense joy and heavenly celebration. Repentance is connected to life and salvation, with the self-righteous lacking true repentance. Heaven delights in restoring the prodigal sinner, like a father welcoming back an extravagant child.",
+            "wordCount": 100,
+            "quoteTokenProportion": 24.62,
+            "qualityScore": 1.9950046924393958,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+            "commentatorTierSimilarities": [
+                30.07,
+                25.61,
+                44.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus reveals the unseen world of glory and the joy it brings over the repentance of sinners. The lost sheep, coin, and prodigal son represent different types of sinners. Heaven's rejoicing contrasts with the grumbling of the self-righteous, silenced by the reality of Christ's salvation. Recovery of the lost brings intense joy and heavenly celebration. Repentance connects to life and salvation, with the self-righteous lacking true repentance. Heaven delights in restoring the prodigal sinner, like a father welcoming back an extravagant child.",
+            "wordCount": 86,
+            "quoteTokenProportion": 21.43,
+            "qualityScore": 1.992686659429462,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+            "commentatorTierSimilarities": [
+                30.31,
+                24.57,
+                45.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus reveals the unseen glory of heaven and the joy it brings when sinners repent. Through the parables of the lost sheep, coin, and prodigal son, different types of sinners are portrayed. The rejoicing in heaven is in contrast with the grumbling of the self-righteous. Repentance is connected to life and salvation, with the self-righteous lacking true repentance. Heaven celebrates the restoration of prodigal sinners, likening it to a father joyfully receiving an extravagant child.",
+            "wordCount": 77,
+            "quoteTokenProportion": 26.0,
+            "qualityScore": 2.0637189141963406,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                30.5,
+                23.34,
+                46.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

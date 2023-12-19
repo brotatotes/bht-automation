@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:08:17",
+    "verseRef": "Romans 11:2",
+    "bestBHT": {
+        "bht": "God did not cast away His chosen people; instead, He pleads and intercedes on behalf of Israel against the notion that He has completely cast them off. His foreknowledge encompasses His people, both individually and as a nation. He never rejects them but upholds them in His love, sight, and grace. Let us not hastily determine anything on this matter, but remember that the Church is sustained by God's secret providence, and His grace prevails even in the most challenging times.",
+        "wordCount": 82,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.95752783669092,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+        "commentatorTierSimilarities": [
+            30.24,
+            33.02,
+            36.74
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God did not cast away his people which he foreknew... in His own eternal decree before the world, He selected as the chosen nation.\" ",
+            "It is plain that this must here be the sense... It would be inconceivable, that God should cast off His elect.",
+            "How he pleads with God against Israel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God hath not cast away his people\u2014that is, wholly.\" ",
+            "Know ye not that the scripture saith of\u2014literally, 'in,' that is, in the section which relates to Elias?",
+            "How he maketh intercession\u2014'pleadeth' against Israel."
+        ],
+        "Albert Barnes": [
+            "God has not cast off those whom he had before purposed or designed to be his people.",
+            "It is one principle of the divine government that God will not reject those who are foreknown or designated as his friends.",
+            "He accuses or arraigns the nation of the Jews before God; he charges them with crime; the crime is specified immediately."
+        ],
+        "Marvin Vincent": [
+            "The phrase [wot ye not] indicates that this cannot be thought of as true.",
+            "Wrong; though Rev. has retained it : of Elijah, with in in margin; probably in order to avoid the awkward circumlocution in the passage treating of Elijah, or the ambiguous in Elijah.",
+            "He maketh intercession."
+        ],
+        "John Calvin": [
+            "Let us not then determine any thing rashly on this point; but rather let this truth remain fixed in our hearts \u2014 that the Church, though it may not appear to our eyes, is sustained by the secret providence of God.",
+            "Since then the grace of God prevails so much in an extreme state of things, let us not lightly give over to the devil all those whose piety does not openly appear to us.",
+            "It also ought to be fully imprinted on our minds, \u2014 that however impiety may everywhere prevail, and dreadful confusion spread on every side, yet the salvation of many remains secured under the seal of God."
+        ],
+        "Philip Schaff": [
+            "The phrase \u2018which He foreknew\u2019 need not be taken in its individual reference, as in chap. Romans 8:36, where a plural pronoun is joined with the verb.",
+            "To limit it to those elected is not only contrary to the sweep of the argument, but to the historical position of the theocratic nation: a foreknowledge resulting in such theocratic privilege is as consistent with the tenor of Scripture as the more individual reference.",
+            "\u2018Pleading against\u2019 is equivalent to complaining of."
+        ],
+        "Archibald T. Robertson": [
+            "The nation of Israel was God's chosen people and so all the individuals in it could not be cast-off.",
+            "\"Know ye not?\" Why keep the old English 'wot'?",
+            "He pleadeth against as here with \u03ba\u03b1\u03c4\u03b1, but the 'against' is in \u03ba\u03b1\u03c4\u03b1."
+        ],
+        "John Gill": [
+            "...there were a people among them, that were the people of God in a more special sense; they were chosen by him from everlasting to be his people; they were taken into the covenant of his grace as such; they were given to Christ as his people, and were redeemed and saved by him on that account...\" ",
+            "He never casts any of them away, nor out of his heart's love, nor out of his sight, nor out of the covenant of his grace, nor out of the hands of his Son, nor out of his family, or so as that any of them shall perish eternally.",
+            "He takes the utmost delight in them, grants them the greatest nearness to himself, bears the strongest affection for them, and takes the most diligent care of them..."
+        ],
+        "John Wesley": [
+            "God hath not rejected that part of his people whom he foreknew - Speaking after the manner of men.",
+            "Knowing and foreknowing are the same thing with God, who knows or sees all things at once, from everlasting to everlasting.",
+            "When Elijah thought the whole nation was fallen into idolatry, God 'knew' there was 'a remnant' of true worshippers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God did not cast away his chosen people, whom he foreknew and selected as the elect nation. It is inconceivable that God would cast off His own elect. As it is written, God pleads and intercedes on behalf of Israel against any notion that He has cast them away entirely. The phrase know ye not indicates that it cannot be thought of as true. God's foreknowledge extends to His people, the individual and the nation alike. He never rejects them out of His love, sight, or grace, and there is always a remnant of true worshippers. Let us not hastily determine anything on this matter, but rather remember that the Church is upheld by the secret providence of God, and His grace prevails even in the midst of extreme circumstances.",
+            "wordCount": 131,
+            "quoteTokenProportion": 44.05,
+            "qualityScore": 2.081916431837989,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+            "commentatorTierSimilarities": [
+                32.66,
+                33.27,
+                34.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God did not cast away His chosen people, whom He foreknew and selected as the elect nation. It would be inconceivable for God to cast off His own elect. As it is written, He pleads and intercedes on behalf of Israel against the notion that He has cast them away entirely. His foreknowledge extends to His people, both individually and as a nation. He never rejects them out of His love, sight, or grace. Let us not hastily determine anything on this matter, but remember that the Church is upheld by the secret providence of God, and His grace prevails even in extreme circumstances.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.055472756618233,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                32.67,
+                34.32,
+                33.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God did not cast away His chosen people, whom He foreknew and selected as the elect nation. It is inconceivable for God to cast off His own elect. As it is written, He pleads and intercedes on behalf of Israel against the notion that He has cast them away entirely. His foreknowledge extends to His people, both individually and as a nation. He never rejects them out of His love, sight, or grace. Let us not hastily determine anything on this matter, but remember that the Church is upheld by the secret providence of God, and His grace prevails even in extreme circumstances.",
+            "wordCount": 103,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.0563980521704255,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                32.76,
+                34.31,
+                32.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God did not cast away His chosen people, whom He foreknew and selected as the elect nation. It is inconceivable for God to cast off His own elect. As it is written, He pleads and intercedes on behalf of Israel against the notion that He has cast them away entirely. His foreknowledge extends to His people, both individually and as a nation. He never rejects them out of His love, sight, or grace. Let us not hastily determine anything on this matter, but remember that the Church is upheld by the secret providence of God, and His grace prevails even in extreme circumstances.",
+            "wordCount": 103,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.0563980521704255,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                32.76,
+                34.31,
+                32.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God did not cast away His chosen people; instead, He pleads and intercedes on behalf of Israel against the notion that He has completely cast them off. His foreknowledge encompasses His people, both individually and as a nation. He never rejects them but upholds them in His love, sight, and grace. Let us not hastily determine anything on this matter, but remember that the Church is sustained by God's secret providence, and His grace prevails even in the most challenging times.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.95752783669092,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+            "commentatorTierSimilarities": [
+                30.24,
+                33.02,
+                36.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

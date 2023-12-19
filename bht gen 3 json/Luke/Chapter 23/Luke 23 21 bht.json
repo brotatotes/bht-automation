@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:23:22",
+    "verseRef": "Luke 23:21",
+    "bestBHT": {
+        "bht": "The unyielding crowd persistently shouted, Crucify, crucify. Their unwavering commitment to the crucifixion echoed through their continuous and forceful cries. Described as fierce and fervent, their impatience was evident in their clamor and repeated demands for Jesus' execution.",
+        "wordCount": 38,
+        "quoteTokenProportion": 29.03,
+        "qualityScore": 1.6061450809665694,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.75,
+        "commentatorTierSimilarities": [
+            50.85,
+            0.0,
+            49.15
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Shouted [\u03b5\u03c0\u03b5\u03c6\u03c9\u03bd\u03bf\u03c5\u03bd] . Imperfect. Kept shouting. Used by Luke only. Compare Acts 12:22; Acts 22:24."
+        ],
+        "Archibald T. Robertson": [
+            "But they shouted... They kept on yelling.\" (Commentary)",
+            "Crucify, crucify. Go on with the crucifixion.\" (Commentary)",
+            "No doubt some shouted one form, some another.\" (Commentary)"
+        ],
+        "John Gill": [
+            "They were fierce and furious, more noisy and clamorous.\" ",
+            "They were more desirous to have him crucified.\" ",
+            "They were more impatient until it was done, as the repetition of the word shows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The crowd in Luke 23:21 exhibited relentless shouting, as they continued to yell, Crucify, crucify, demonstrating their unwavering commitment to the crucifixion. This persistent outcry, as noted in the first-tier commentary, emphasizes their fervent desire for Jesus' execution. The third-tier commentary further emphasizes their intense fury, describing them as fierce, furious, and impatient. Thus, their clamor and repeated cries reveal an intense determination to see Jesus crucified.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.5699604622883325,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                51.15,
+                0.0,
+                48.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crowd in question exhibited an insistent and continuous shouting, as they persistently yelled phrases like Crucify, crucify, expressing their unyielding commitment to the act of crucifixion. This unwavering outburst underscores their fervent longing for Jesus' crucifixion. The third-tier commentary further highlights their intense fury, characterizing them as vehement and impatient individuals. Their clamorous and repeated cries epitomize their resolute determination to witness Jesus' crucifixion come to fruition.",
+            "wordCount": 69,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.5523549419214586,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.96,
+            "commentatorTierSimilarities": [
+                50.65,
+                0.0,
+                49.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The relentless crowd continued to shout without ceasing, repeatedly crying out, Crucify, crucify. This unyielding outcry powerfully demonstrates their unwavering dedication to the act of crucifixion. The forceful and persistent nature of their voices, as conveyed in the commentary, reveals their intense desire to see Jesus crucified. The third-tier commentary further emphasizes their fierce and impatient disposition, as indicated by the clamor and repetition of their words.",
+            "wordCount": 68,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 1.50214967152423,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.29,
+            "commentatorTierSimilarities": [
+                52.49,
+                0.0,
+                47.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crowd in Luke 23:21 shouted incessantly, continuously demanding, Crucify, crucify. Their unrelenting cries exemplify their unwavering determination for the crucifixion to proceed. The third-tier comments reinforce their fierce and impatient disposition, underscoring their intense and clamorous desire to see Jesus crucified.",
+            "wordCount": 42,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.6366343457489372,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.76,
+            "commentatorTierSimilarities": [
+                51.14,
+                0.0,
+                48.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The unyielding crowd persistently shouted, Crucify, crucify. Their unwavering commitment to the crucifixion echoed through their continuous and forceful cries. Described as fierce and fervent, their impatience was evident in their clamor and repeated demands for Jesus' execution.",
+            "wordCount": 38,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.6061450809665694,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.75,
+            "commentatorTierSimilarities": [
+                50.85,
+                0.0,
+                49.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

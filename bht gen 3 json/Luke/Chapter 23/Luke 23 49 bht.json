@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:23:43",
+    "verseRef": "Luke 23:49",
+    "bestBHT": {
+        "bht": "The followers of Jesus, including his acquaintances and the faithful women from Galilee who had traveled with him, stood at a distance from the cross, unable to fully comprehend or prevent the events unfolding before them. It is a melancholy scene, as they could only watch with blinded eyes and wonder at the suffering their beloved Lord endured. These loyal companions of Jesus, who had shared in his ministry and intimately known him, stood afar off from the cross, their hearts aching and tears flowing as they observed these things.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.4572138797330747,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.8,
+        "commentatorTierSimilarities": [
+            24.83,
+            20.27,
+            54.9
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "49.] See on Matthew and Mark."
+        ],
+        "Marvin Vincent": [
+            "That followed [\u03c3\u03c5\u03bd\u03b1\u03ba\u03bf\u03bb\u03c5\u03b8\u03bf\u03c5\u03c3\u03b1\u03b9] . Lit., followed with [\u03c3\u03c5\u03bd] . So Rev. See on Matthew 27:55."
+        ],
+        "Philip Schaff": [
+            "And all his acquaintance. Peculiar to Luke.\" ",
+            "Possibly they were not there, fearing to come, a view favored by the fact that no mention is made of them in connection with the burial.\" ",
+            "The account is so brief, that it cannot be considered as contradictory, John 19:25."
+        ],
+        "Archibald T. Robertson": [
+            "Stood afar off (\u03b9\u03c3\u03c4\u03b7\u03ba\u03b5\u03b9\u03c3\u03b1\u03bd \u03b1\u03c0\u03bf \u03bc\u03b1\u03ba\u03c1\u03bf\u03b8\u03b5\u03bd). Same verb as in verse Luke 23:35. Melancholy picture of the inner circle of the acquaintances of Jesus and the faithful band of women from Galilee.",
+            "Seeing these things (\u03bf\u03c1\u03c9\u03c3\u03b1 \u03c4\u03b1\u03c5\u03c4\u03b1). And helpless either to prevent them or to understand them.",
+            "They could only stand and look with blinded eyes."
+        ],
+        "John Gill": [
+            "And all his acquaintance... who attended on his ministry, and often conversed, and were intimately acquainted with him.\" ",
+            "The women that followed him from Galilee... stood afar off; from the cross.\" ",
+            "Beholding these things; with wonder, as well as looking upon their dear suffering Lord, with aching hearts, and flowing eyes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The followers of Jesus, including his acquaintances and the faithful women from Galilee who had traveled with him, stood at a distance from the cross, unable to fully comprehend or prevent the events unfolding before them. It is a melancholy scene, as they could only watch with blinded eyes and wonder at the suffering their beloved Lord endured. These loyal companions of Jesus, who had shared in his ministry and intimately known him, stood afar off from the cross, their hearts aching and tears flowing as they observed these things.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4572138797330747,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.8,
+            "commentatorTierSimilarities": [
+                24.83,
+                20.27,
+                54.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The faithful followers of Jesus, including his acquaintances and the women who had journeyed with him from Galilee, stood at a distance from the cross, unable to fully comprehend or prevent the unfolding events. These loyal companions, intimately acquainted with Jesus and his ministry, could only watch with blinded eyes, their hearts aching and tears flowing. The scene is a poignant one, as they stood afar off, beholding these things, their wonder mingling with the deep sorrow they felt for their dear suffering Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.4085522467018863,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.18,
+            "commentatorTierSimilarities": [
+                23.89,
+                19.14,
+                56.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The devoted followers of Jesus, including his close acquaintances and the faithful women who had accompanied him from Galilee, stood at a distance from the cross, overcome with sorrow and unable to comprehend the unfolding events. These loyal companions, who had shared in Jesus' ministry and held a deep familiarity with him, could do nothing but watch with tear-filled eyes as their beloved Lord suffered. They stood there, beholding these things, their hearts heavy with both awe and grief.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.332910604320182,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.66,
+            "commentatorTierSimilarities": [
+                22.35,
+                19.43,
+                58.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The followers of Jesus, including his acquaintances and the faithful women from Galilee who had traveled with him, stood at a distance from the cross, unable to fully comprehend or prevent the events unfolding before them. It is a melancholy scene, as they could only watch with blinded eyes and wonder at the suffering their beloved Lord endured. These loyal companions of Jesus, who had shared in his ministry and intimately known him, stood afar off from the cross, their hearts aching and tears flowing as they observed these things.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4572138797330747,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.8,
+            "commentatorTierSimilarities": [
+                24.83,
+                20.27,
+                54.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The devoted followers of Jesus, including his acquaintances and the faithful women who had accompanied him from Galilee, stood at a distance from the cross, overcome with sorrow and unable to comprehend the unfolding events. These loyal companions, who had shared in Jesus' ministry and held a deep familiarity with him, could do nothing but watch with tear-filled eyes as their beloved Lord suffered. They stood there, beholding these things, their hearts heavy with both wonder and grief.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.3407580120713496,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.92,
+            "commentatorTierSimilarities": [
+                21.97,
+                20.6,
+                57.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

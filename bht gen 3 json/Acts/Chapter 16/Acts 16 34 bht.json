@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:32:28",
+    "verseRef": "Acts 16:34",
+    "bestBHT": {
+        "bht": "The jailer and his household rejoiced because they had all been led to believe in God, a wondrous change that filled their souls with joy. Their faith had brought them peace, pardon, and rejoicing, freeing them from danger. Believing in God and in the Lord Jesus, they heard the word, made confession, were baptized, and rejoiced. The jailer's act of bringing them up into his house and setting a table before them demonstrated his joy and gratitude. Their faith had brought them a sincere and stable joy, filling them with joy unspeakable.",
+        "wordCount": 93,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 2.0479833593421093,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+        "commentatorTierSimilarities": [
+            26.8,
+            32.03,
+            41.17
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "rejoiced that he with all his house had been led to believe [in] God.",
+            "The expression believing in God could only be used of a converted heathen, not of a Jew.",
+            "In ch. xviii. 8, of a Jew, we have 'believed [on] the Lord.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Rejoiced because he had believed.",
+            "[The wondrous change on himself and the whole house filling his soul with joy.]",
+            "This is the second house which, in the Roman city of Philippi, has been consecrated by faith in Jesus."
+        ],
+        "Albert Barnes": [
+            "Religion produces joy. See the notes on Acts 8:8. He was free from danger and alarm; he had evidence that his sins were forgiven, and that he was now the friend of God.",
+            "The agitating and alarming scenes of the night had passed away; the prisoners were safe; and religion, with its peace, and pardon, and rejoicings, had visited himself and his family.",
+            "Such a change would Christianity produce in every family, and such joy would it diffuse through every household."
+        ],
+        "Marvin Vincent": [
+            "Brought [\u03b1\u03bd\u03b1\u03b3\u03b1\u03b3\u03c9\u03bd] . Lit., 'brought up [\u03b1\u03bd\u03b1].' \" ",
+            "His house would seem to have been above the court of the prison where they were.",
+            "Believing [\u03c0\u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03ba\u03c9\u03c2] . More correctly, having believed; assigning the reason for his joy: 'in that he had believed.'"
+        ],
+        "John Calvin": [
+            "There is no great torment than an evil conscience; for the unbelievers, though they seek by all means to bring themselves into a certain amazedness, yet because they have no peace with God, they must needs quake and tremble.",
+            "Sincere and quiet stable joy proceedeth from faith alone when we perceive that God is merciful to us.",
+            "Let us know that faith is not a vain or dead imagination, but a lively sealing [sense] of the grace of God, which bringeth perfect joy by reason of the certainty of salvation."
+        ],
+        "Philip Schaff": [
+            "Brought them up...into his house.\" ",
+            "He with all his house rejoiced that they all had been led to believe in God.",
+            "The jailor had been, of course, a Pagan until his meeting with Paul."
+        ],
+        "Archibald T. Robertson": [
+            "The baptism apparently took place in the pool or tank in which he bathed Paul and Silas or the rectangular basin in the court for receiving the rain or even in a swimming pool or bath found within the walls of the prison.",
+            "Set a 'table' before them with food on it. They had probably had no food for a day.",
+            "The whole household (family, warden, slaves) heard the word of God, believed in the Lord Jesus, made confession, were baptized, and rejoiced."
+        ],
+        "John Gill": [
+            "he spread a table for them, with provisions to refresh them after all their fatigue;",
+            "he and his rejoiced at the good news, of peace and pardon, righteousness, life, and salvation",
+            "believing in him who is truly and properly God, they were filled with joy unspeakable"
+        ],
+        "John Wesley": [
+            "He set a table before them and rejoiced \u2014 Faith makes a man joyful, prudent, liberal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The jailer and his household rejoiced because they had all been led to believe in God, experiencing a wondrous change that filled their souls with joy. Religion had brought them peace, pardon, and rejoicing, freeing them from danger and alarm. This is the second household in Philippi to be consecrated by faith in Jesus, as they heard the word of God, believed in the Lord Jesus, made confession, were baptized, and rejoiced. The jailer's act of bringing them up into his house and setting a table before them with food on it demonstrated his joy and gratitude. His faith in God had brought him and his family a sincere and stable joy that only comes from perceiving God's mercy and experiencing the certainty of salvation. As a result, they were filled with joy unspeakable.",
+            "wordCount": 136,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 2.003786950934004,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.97,
+            "commentatorTierSimilarities": [
+                27.4,
+                33.26,
+                39.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The jailer and his household rejoiced because they had all been led to believe in God, a wondrous change that filled their souls with joy. Religion had brought them peace, pardon, and rejoicing, freeing them from danger. The second household in Philippi to be consecrated by faith in Jesus, they believed, confessed, were baptized, and rejoiced. The jailer's act of bringing them up into his house and setting a table before them with food on it demonstrated his joy and gratitude. Their faith had brought them a sincere and stable joy, filling them with joy unspeakable.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.0323691758580598,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.92,
+            "commentatorTierSimilarities": [
+                27.21,
+                32.85,
+                39.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The jailer and his household rejoiced because they had all been led to believe in God, a wondrous change that filled their souls with joy. Their faith had brought them peace, pardon, and rejoicing, freeing them from danger. Believing in God and in the Lord Jesus, they heard the word, made confession, were baptized, and rejoiced. The jailer's act of bringing them up into his house and setting a table before them demonstrated his joy and gratitude. Their faith had brought them a sincere and stable joy, filling them with joy unspeakable.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.0479833593421093,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                26.8,
+                32.03,
+                41.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The jailer and his household rejoiced because they had all been led to believe in God, a wondrous change that filled their souls with joy. Religion had brought them peace, pardon, and rejoicing, freeing them from danger. Believing in God, they made confession, were baptized, and rejoiced. The jailer's act of bringing them up into his house and setting a table before them demonstrated his joy. Their faith had brought them a sincere and stable joy, filling them with joy unspeakable.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0431544915278543,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.28,
+            "commentatorTierSimilarities": [
+                26.98,
+                33.14,
+                39.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The jailer and his household rejoiced because they had all been led to believe in God, a wondrous change that filled their souls with joy. Their faith had brought them peace, pardon, and rejoicing, freeing them from danger. Believing in God and in the Lord Jesus, they heard the word, made confession, were baptized, and rejoiced together. The jailer's act of bringing them up into his house and setting a table before them demonstrated his joy and gratitude. Through their faith, they experienced a sincere and stable joy, overflowing with unspeakable joy.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.03416580788706,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                26.32,
+                31.83,
+                41.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

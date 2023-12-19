@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:18:56",
+    "verseRef": "2 Corinthians 13:10",
+    "bestBHT": {
+        "bht": "For I wish that my sharpness should lie in my writings, and not in my acts. The power would seem to be exercised in a direction contrary to that intended by Him who gave it. Therefore, I would rather deal sharply in my letters than in deeds. To 'use sharpness' would seem to be casting down, rather than building up; therefore he prefers not to have to use it. My whole object in writing in absence so severely as I have done has been to make such severity unnecessary when I come amongst you.",
+        "wordCount": 94,
+        "quoteTokenProportion": 58.06,
+        "qualityScore": 1.939474718234828,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+        "commentatorTierSimilarities": [
+            37.85,
+            34.28,
+            27.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For I wish that my sharpness should lie in my writings, and not in my acts.",
+            "I wish and pray for your perfection.",
+            "The power would seem to be exercised in a direction contrary to that intended by Him who gave it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Therefore\u2014because I wish the 'sharpness' to be in my letters rather than in deeds.\" ",
+            "Edification . . . not to destruction\u2014for building up . . . not for casting down.",
+            "To 'use sharpness' would seem to be casting down, rather than building up; therefore he prefers not to have to use it."
+        ],
+        "Albert Barnes": [
+            "He had reproved them; he had admonished them of their faults; he had threatened punishment, all of which was designed to prevent the necessity of severe measures when he should be with them.",
+            "In order that when I come I may not have occasion to employ severity.",
+            "That I may not use the power with which Christ has invested me for maintaining discipline in his church."
+        ],
+        "Marvin Vincent": [
+            "Use sharpness [\u03b1\u03c0\u03bf\u03c4\u03bf\u03bc\u03c9\u03c2 \u03c7\u03c1\u03b7\u03c3\u03c9\u03bc\u03b1\u03b9] . Rev., more literally and correctly, deal sharply, thus giving the force of the adverb. For sharply see on the kindred ajpotomia severity, Romans 11:22."
+        ],
+        "John Calvin": [
+            "I shall not rashly have recourse to cruel remedies, nor will I give indulgence to my passion, but will simply execute the commission that the Lord has given me.",
+            "Although he might justly inflict upon the Corinthians a severe blow, yet it was much more his inclination to exercise his power for their advantage, than for their destruction.",
+            "Do not, through your own fault, allow that to turn to your destruction, which God has appointed for salvation."
+        ],
+        "Philip Schaff": [
+            "It was given me to build up, not to pull down.",
+            "The less of [apostolic authority] that is needed, the better pleased shall I be.",
+            "My whole object in writing in absence so severely as I have done, has been to make such severity unnecessary when I come amongst you."
+        ],
+        "Archibald T. Robertson": [
+            "That I may not when present deal sharply.",
+            "Late adverb from \u03b1\u03c0\u03bf\u03c4\u03bf\u03bc\u03bf\u03c2, curt, cut off.",
+            "In N.T. only here and Titus 1:13."
+        ],
+        "John Gill": [
+            "Therefore I write these things being absent,.... Assuring them of his power and authority, expressing his concern for their welfare, earnestly desiring that they might be kept from evil, and perform good works.\" ",
+            "Lest, being present, I should use sharpness; meaning severe reproofs and censures, or rather the exercise of the apostolic rod.\" ",
+            "According to the power the Lord haft given me, to edification, and not to destruction; by striking persons dead, as Ananias and Sapphira were by Peter; or by delivering them up to Satan to have corporeal punishment inflicted on them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For I wish that my sharpness should lie in my writings, and not in my acts. I wish and pray for your perfection. The power would seem to be exercised in a direction contrary to that intended by Him who gave it. Therefore, I would rather deal sharply in my letters than in deeds. To 'use sharpness' would seem to be casting down, rather than building up; therefore he prefers not to have to use it. It was given to me to build up, not to pull down. My whole object in writing in absence so severely as I have done has been to make such severity unnecessary when I come amongst you.",
+            "wordCount": 113,
+            "quoteTokenProportion": 55.71,
+            "qualityScore": 1.8559199406282638,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                36.16,
+                38.02,
+                25.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For I wish that my sharpness should lie in my writings, and not in my acts. The power would seem to be exercised in a direction contrary to that intended by Him who gave it. Therefore, I would rather deal sharply in my letters than in deeds. To 'use sharpness' would seem to be casting down, rather than building up; therefore he prefers not to have to use it. My whole object in writing in absence so severely as I have done has been to make such severity unnecessary when I come amongst you.",
+            "wordCount": 94,
+            "quoteTokenProportion": 58.06,
+            "qualityScore": 1.939474718234828,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                37.85,
+                34.28,
+                27.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I wish that my sharpness would be contained in my writings, not in my actions. My desire and prayer is for your perfection. It would seem that the exercise of power goes against its intended purpose. Therefore, I prefer to deal sharply in my letters rather than in person. Using sharpness would be more about tearing down rather than building up. My goal in writing sternly while absent is to make such severity unnecessary when I am present.",
+            "wordCount": 78,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 1.7428754015628238,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                36.73,
+                34.22,
+                29.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I desire that my sharpness should lie in my writings, rather than in my acts, for I wish and pray for your perfection. The power entrusted to me would be used in a way contrary to its intended purpose if I had to exercise it with severity. I prefer edification over destruction, building up rather than tearing down. Therefore, I hope that when I come, I will not have to deal sharply. My aim in writing sternly in my absence is to prevent the need for harsh measures when I am present amongst you.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8311796328546706,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                31.11,
+                36.45,
+                32.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I desire for my sharpness to be in my writings, not in my actions, as I wish and pray for your perfection. If I were to use sharpness, it would seem as though I am casting down instead of building up. Therefore, I prefer not to have to use it and hope that when I am present with you, I will not have to deal sharply. My objective in writing sternly in my absence is to prevent the necessity of severe measures when I come forth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.9309615956042328,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.55,
+            "commentatorTierSimilarities": [
+                36.48,
+                35.64,
+                27.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

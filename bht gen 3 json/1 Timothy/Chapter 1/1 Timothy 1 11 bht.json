@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:28:05",
+    "verseRef": "1 Timothy 1:11",
+    "bestBHT": {
+        "bht": "The Gospel of the blessed God is the manifestation of God's glory, accounting believers as righteous and imparting that righteousness whereby they loath sins against which the law is directed. This Gospel, entrusted to Paul, reveals God's purposes, shows His covenant, and declares His blessings and promises. It rebukes those who degrade the Gospel, and establishes that it upholds the principles of the law, rather than contradicting it. It proclaims the power and love of God in Christ, making it a Gospel of glory.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.516758551068138,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.02,
+        "commentatorTierSimilarities": [
+            28.55,
+            34.52,
+            36.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "This exemption of the righteous from the law, and assignment of it to the lawless as its true object, is 'according to the Gospel of the glory of the blessed God.'",
+            "The Gospel manifests God's glory...in accounting 'righteous' the believer...and in imparting that righteousness whereby he loathes all those sins against which the law is directed.",
+            "The supremely blessed One is He from whom all blessedness flows...appropriate in speaking here of the Gospel blessedness, in contrast to the curse on those under the law."
+        ],
+        "Albert Barnes": [
+            "The law, in principle, forbids all which the gospel forbids, and in publishing the requirements of the gospel, therefore, Paul says that the law really forbade all which was prohibited in the gospel.",
+            "There is no contradiction between the law and the gospel. They forbid the same things, and in regard to morals and true piety, the clearer revelations of the gospel are but carrying out the principles stated in the law.",
+            "They who preach the gospel, then, should not be regarded as arrayed against the law, and Paul says that they who preached the gospel aright really stated the true principles of the law."
+        ],
+        "Marvin Vincent": [
+            "The glorious gospel of the blessed God... The appearing of the glory of God in Jesus Christ is the contents of the gospel.",
+            "Gospel of God is a Pauline phrase; but blessed is not used of God by Paul, nor elsewhere outside of the Pastorals.",
+            "Which was committed to my trust. Or, with which I was intrusted. The 'I' emphatically asserts the authority of Paul against the 'teachers of the law'."
+        ],
+        "John Calvin": [
+            "He expressly says that it hath been intrusted to him, that all may know that there is no other gospel of God than that which he preaches.\" ",
+            "By calling it 'the gospel of glory,' he sharply rebukes those who labored to degrade the gospel, in which God displays his glory.",
+            "All the fables which he formerly rebuked are at variance both with the law and with the gospel of God."
+        ],
+        "Philip Schaff": [
+            "The Gospel is a Gospel because it proclaims the glory, i.e. the power, and yet more the love, of God in Christ.\" ",
+            "The blessed God.\" The adjective, elsewhere in the New Testament used of men only, is here and in 1 Timothy 6:15 applied to God.",
+            "With which I was entrusted.\" The force of the 'I,' which in the Greek is emphatic, is lost in the English Version, and with it the subtle links of thought that lead on to what follows."
+        ],
+        "Archibald T. Robertson": [
+            "Of the blessed God (\u03c4\u03bf\u03c5 \u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). Applied to God only here and 1 Timothy 6:15",
+            "but in Titus 2:13 \u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03c2 occurs with \u03b5\u03bb\u03c0\u03b9\u03c2 (hope) of the \"epiphany of our great God and Saviour Jesus Christ.",
+            "Which was committed to my trust (\u03bf \u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03b8\u03b7\u03bd \u03b5\u03b3\u03c9). \"with which (\u03bf accusative retained with first aorist passive verb \u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03b8\u03b7\u03bd) I was entrusted."
+        ],
+        "John Gill": [
+            "For no doctrine is sound, but what is agreeable to [the Gospel]: this is a very great encomium of the Gospel.",
+            "The Gospel of God... relates to his glory, the glory of all his perfections; which reveals his purposes, shows his covenant, and exhibits the blessings and promises of it.",
+            "The Gospel of the blessed God, who is blessed in himself, and is the fountain of blessedness to others; and particularly he blesses his chosen ones with spiritual blessings, and which are set forth and declared in the Gospel."
+        ],
+        "John Wesley": [
+            "According to the glorious gospel \u2014 Which, far from \"making void,\" does effectually \"establish, the law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Gospel of the blessed God is the manifestation of God's glory, accounting believers as righteous and imparting the righteousness that causes them to despise sin. It is the proclamation of the power and love of God in Christ, revealing His purposes, covenant, and the blessings and promises thereof. This Gospel was entrusted to Paul, emphasizing his authority against the teachers of the law. Declaring the Gospel as the Gospel of glory rebukes those who undermine its significance, highlighting that it upholds and establishes the principles of the law.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.3602010521121004,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.82,
+            "commentatorTierSimilarities": [
+                29.85,
+                34.21,
+                35.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Gospel of the blessed God is the manifestation of God's glory, accounting believers as righteous and imparting that righteousness whereby they loath sins against which the law is directed. This Gospel, entrusted to Paul, reveals God's purposes, shows His covenant, and declares His blessings and promises. It rebukes those who degrade the Gospel, and establishes that it upholds the principles of the law, rather than contradicting it. It proclaims the power and love of God in Christ, making it a Gospel of glory.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.516758551068138,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.02,
+            "commentatorTierSimilarities": [
+                28.55,
+                34.52,
+                36.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gospel of the blessed God, entrusted to Paul, is the manifestation of God's glory. It accounts believers as righteous and imparts righteousness that causes them to despise sins directed by the law. This Gospel rebukes those who degrade it and establishes that it upholds the principles of the law. It reveals God's purposes, covenant, and the blessings and promises therein. Proclaiming the power and love of God in Christ, it is truly a Gospel of glory.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.2766849159037124,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.04,
+            "commentatorTierSimilarities": [
+                29.35,
+                33.63,
+                37.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gospel of the blessed God, entrusted to Paul, reveals God's glory in accounting believers as righteous and imparting the righteousness that leads them to despise sins targeted by the law. This Gospel rebukes those who undermine its significance and establishes that it upholds the principles of the law. It manifests God's power and love in Christ, proclaiming His purposes, covenant, and the blessings and promises of the Gospel. Truly, it is a Gospel of glory.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3590129914523637,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.78,
+            "commentatorTierSimilarities": [
+                28.06,
+                33.87,
+                38.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gospel of the blessed God, entrusted to Paul, reveals God's glory, accounting believers as righteous and imparting the righteousness that causes them to loathe sins directed by the law. This Gospel rebukes those who degrade it and establishes that it upholds the principles of the law. It proclaims God's power and love in Christ, showcasing His purposes, covenant, and the blessings and promises enclosed within. Indeed, it is a Gospel of glory, testifying to the magnificence of God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.383693976946944,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.6,
+            "commentatorTierSimilarities": [
+                29.44,
+                32.8,
+                37.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

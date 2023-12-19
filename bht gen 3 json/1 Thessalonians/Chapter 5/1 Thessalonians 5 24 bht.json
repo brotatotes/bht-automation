@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 14:01:28",
+    "verseRef": "1 Thessalonians 5:24",
+    "bestBHT": {
+        "bht": "Rest assured that the One who calls you is faithful and true to His word. His faithfulness guarantees that His calling will not go unanswered. Amidst the challenges and distractions that may arise, fix your focus on God's unwavering faithfulness, His zeal for His honor, and His love for those He calls. It is God Himself, the faithful caller, who will not allow His calling to fall short of its purpose. Trust in His faithfulness and rely on His grace for your sanctification and transformation, knowing that He will bring His work to completion.",
+        "wordCount": 95,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.4413968042172947,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.52,
+        "commentatorTierSimilarities": [
+            36.7,
+            33.98,
+            29.32
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Assurance, from God's faithfulness, that it will be so.",
+            "Faithful, i.e. true to His word and calling.",
+            "He that calleth, not 'he that called,' but bringing out God's office as the caller of His people."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faithful\u2014to His covenant promises.\" ",
+            "He that calleth you\u2014God, the caller of His people, will cause His calling not to fall short of its designed end.\" ",
+            "You must not look at the foes before and behind, on the right hand and on the left, but to God's faithfulness to His promises, God's zeal for His honor, and God's love for those whom He calls."
+        ],
+        "Albert Barnes": [
+            "Faithful is he that calleth you.",
+            "Your sanctification after all depends on him.",
+            "You may depend on his faithfulness to complete it."
+        ],
+        "Marvin Vincent": [
+            "Faithful [\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2].\" ",
+            "That calleth [\u03bf \u03ba\u03b1\u03bb\u03c9\u03bd] . = the caller. The emphasis is on the person rather than on the act.\" ",
+            "Comp. Romans 9:11; Galatians 1:6, Galatians 1:15; Galatians 5:8; 1 Thessalonians 2:12; 1 Peter 5:10; James 1:5."
+        ],
+        "John Calvin": [
+            "Faithful is he that hath called you.\" ",
+            "When the Lord has once adopted us as his sons, we may expect that his grace will continue to be exercised towards us.",
+            "Hence our calling ought to be held by us as an evidence of everlasting grace, for he will not leave the work of his hands incomplete."
+        ],
+        "Philip Schaff": [
+            "Faithful is he that calleth you... He does not mock you; He is in earnest.\" ",
+            "He abideth faithful; as surely pledged to make you holy as you are commanded to become so.",
+            "There is a promise implied in His call; and with God to promise is to perform."
+        ],
+        "Archibald T. Robertson": [
+            "Faithful (\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2). God, he means, who calls and will carry through (Philippians 1:6). "
+        ],
+        "John Gill": [
+            "Faithful is he that calleth you... Who also will do it.\" ",
+            "God is faithful to his word, his covenant and promises; he has promised to sanctify and cleanse his people from all their sins, and to preserve them safe to his kingdom and glory.",
+            "The effectual calling is a sure pledge of glorification; whom God calls he justifies and glorifies; as sure as he gives grace, he will give glory."
+        ],
+        "John Wesley": [
+            "Who also will do it \u2014 Unless you quench the Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Rest assured that the One who called you is faithful and true to His word. His calling is not in vain, but will be fulfilled and accomplished according to His purpose. When faced with challenges and opposition, do not be discouraged, but instead focus on God's faithfulness to His promises, His zeal for His honor, and His love for those whom He calls. It is God, the caller of His people, who will bring His calling to completion. Trust in His faithfulness and rely on His grace to sanctify and transform you, for His faithfulness is a guarantee that what He has called you to, He will surely do.",
+            "wordCount": 110,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.413321831422624,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.58,
+            "commentatorTierSimilarities": [
+                36.15,
+                33.36,
+                30.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Assurance and confidence can be found in knowing that the One who called you is faithful and true. God's calling is not empty or fruitless but will be fulfilled according to His purpose and promises. Despite the challenges we face, we must fix our gaze on God's faithfulness, His zeal for His honor, and His love for those He calls. God, the caller of His people, will ensure that His calling is not in vain but will bring it to fruition. Trust in His faithfulness and depend on His grace for sanctification and transformation.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.2688482154101686,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.78,
+            "commentatorTierSimilarities": [
+                37.66,
+                32.33,
+                30.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Rest assured that God, the faithful and true caller of His people, will not let His calling fall short of its intended purpose. His faithfulness to His covenant promises and His zeal for His honor should outweigh any doubts or fears. Instead of focusing on the adversaries around us, we should fix our eyes on God's unwavering faithfulness and love. He who called us will ensure that His calling is accomplished, just as He has promised. Trust in His faithfulness and rely on His grace for sanctification, as He is the One who will see it through to completion.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.369093580726082,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.11,
+            "commentatorTierSimilarities": [
+                36.54,
+                32.0,
+                31.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Rest assured that the One who called you is faithful and true to His word. His calling is not in vain, but will be fulfilled and accomplished according to His purpose. When faced with challenges and opposition, do not be discouraged, but instead focus on God's faithfulness to His promises, His zeal for His honor, and His love for those whom He calls. It is God, the caller of His people, who will bring His calling to completion. Trust in His faithfulness and rely on His grace to sanctify and transform you, for His faithfulness is a guarantee that what He has called you to, He will surely do.",
+            "wordCount": 110,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.413321831422624,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.58,
+            "commentatorTierSimilarities": [
+                36.15,
+                33.36,
+                30.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Rest assured that the One who calls you is faithful and true to His word. His faithfulness guarantees that His calling will not go unanswered. Amidst the challenges and distractions that may arise, fix your focus on God's unwavering faithfulness, His zeal for His honor, and His love for those He calls. It is God Himself, the faithful caller, who will not allow His calling to fall short of its purpose. Trust in His faithfulness and rely on His grace for your sanctification and transformation, knowing that He will bring His work to completion.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.4413968042172947,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.52,
+            "commentatorTierSimilarities": [
+                36.7,
+                33.98,
+                29.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:37:25",
+    "verseRef": "Acts 27:38",
+    "bestBHT": {
+        "bht": "After being satisfied with food, they made a third and last effort to lighten the ship, not only by pumping but by throwing the whole cargo of wheat into the sea. This act of throwing out the wheat last demonstrated their firm dependence on what Paul had said. Their choice to cast the wheat into the sea reflected their trust in Paul's authority, even though their belief quickly faded away.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.94,
+        "qualityScore": 2.017742621141763,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+        "commentatorTierSimilarities": [
+            35.43,
+            27.14,
+            37.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This wheat was either the remainder of the cargo, part of which had been disposed of in ver. 18\u2014or was the store for their sustenance, the cargo having consisted of some other merchandise.",
+            "And this latter is much the more likely, for two reasons: (1) that wheat is mentioned here and not in ver. 18...and (2) that the fact is related immediately after we are assured that they were satisfied with food.",
+            "It is a sufficient answer to Mr. Smith\u2019s objection to this...that the ship was provisioned for the voyage to Italy for 276 persons, and that for the last fourteen days hardly any food had been touched."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "With fresh strength after the meal, they make a third and last effort to lighten the ship.",
+            "They make a third and last effort to lighten the ship, not only by pumping, as before, but by throwing the whole cargo of wheat into the sea.",
+            "Throwing the whole cargo of wheat into the sea."
+        ],
+        "Albert Barnes": [
+            "They lightened the ship - By casting the wheat into the sea.",
+            "As they had no hope of saving the cargo, and had no further use for it...",
+            "...they hoped that by throwing the wheat overboard the ship would draw less water, and that thus they would be able to run the vessel on the shore."
+        ],
+        "John Calvin": [
+            "This circumstance doth show that they were at length moved with Paul\u2019s words.",
+            "They would not have done this unless Paul\u2019s authority had prevailed more with them now than before.",
+            "But as all unbelievers are unstable, that persuasion did quickly vanish out of their minds."
+        ],
+        "Philip Schaff": [
+            "The cargo was now of no use, as it was known that the ship would be lost.",
+            "(Commentary on Acts 27:38)",
+            "But, moreover, the ship having been for many days on the starboard tack, it is probable that the cargo had shifted, and that the vessel was heeling over to the port side.",
+            "(Commentary on Acts 27:38)",
+            "These notices, so detached from each other, tell a continuous story, but it is not perceived till they are brought together.",
+            "(Commentary on Acts 27:38)"
+        ],
+        "Archibald T. Robertson": [
+            "Having been satisfied with food.",
+            "Began to lighten.",
+            "Throwing out the wheat."
+        ],
+        "John Gill": [
+            "And when they had eaten enough,....] Were satisfied, having eaten a full meal.\" ",
+            "They lightened the ship; of its burden, that it might the better carry them to the shore.",
+            "They had cast out some of the goods of the ship before, and also the tackling of the ship, and now, last of all, the wheat; for what was eatable they reserved till last, not knowing to what extremity they might be reduced."
+        ],
+        "John Wesley": [
+            "Casting out the wheat \u2014 So firmly did they now depend on what St. Paul had said."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After being satisfied with food, the crew on the ship made a final attempt to lighten the load by throwing the whole cargo of wheat into the sea. The wheat was either leftover from their previous cargo or it was meant for their sustenance. It seems that they threw out the wheat as a last effort to lighten the ship, hoping that it would draw less water and allow them to run the vessel on the shore. This decision showed that they were finally moved by Paul's words and authority, even though their belief in him quickly waned.",
+            "wordCount": 99,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 2.0343361043601913,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                36.13,
+                32.25,
+                31.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After being satisfied with food, they made a third and final effort to lighten the ship by throwing the whole cargo of wheat into the sea. The fact that they threw out the wheat last shows how they depended on what Paul had said. It is likely that they did this because the cargo had shifted, causing the ship to heel over to the port side. Their decision to cast the wheat overboard was influenced by their belief in Paul's authority, even though their faith quickly wavered.",
+            "wordCount": 88,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.976093073779402,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.05,
+            "commentatorTierSimilarities": [
+                32.92,
+                30.54,
+                36.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Satisfied with food, they made a final attempt to lighten the ship by throwing out the whole cargo of wheat. Their decision to cast the wheat into the sea demonstrated their dependence on Paul's words and authority. Perhaps the ship had been heeling over to the port side due to the shifted cargo. Their action of tossing the wheat last indicated their belief in Paul's instructions, even though their faith was unstable and easily forgotten.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.9536954456747206,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.3,
+            "commentatorTierSimilarities": [
+                33.91,
+                31.62,
+                34.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After being satisfied with food, they made a third and last effort to lighten the ship, not only by pumping but by throwing the whole cargo of wheat into the sea. This act of throwing out the wheat last demonstrated their firm dependence on what Paul had said. Their choice to cast the wheat into the sea reflected their trust in Paul's authority, even though their belief quickly faded away.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 2.017742621141763,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+            "commentatorTierSimilarities": [
+                35.43,
+                27.14,
+                37.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After being satisfied with food, the crew of the ship made a third and final effort to lighten the ship. They threw the whole cargo of wheat into the sea, hoping it would reduce the ship's weight and enable them to reach the shore. This action was a decisive one, indicating that they were finally moved by Paul's words and authority. The crew had already thrown out other goods and tackle from the ship, reserving the wheat until last. This act of throwing out the wheat demonstrated their utmost dependence on what Paul had spoken. It is clear that the crew's actions were a response to the trust they had developed in Paul's instructions and guidance.",
+            "wordCount": 120,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.7857859069087425,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                32.13,
+                31.98,
+                35.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

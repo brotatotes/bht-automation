@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:20:31",
+    "verseRef": "Luke 15:27",
+    "bestBHT": {
+        "bht": "The meticulous details in the narration showcase the immense joy of the father as he welcomes his once lost son, who is now alive and received as a son once more. The father's relief and delight are emphasized by the mention of receiving his son safe and sound. Although the translation of phrases like hath killed and hath received presents some difficulty, the core message remains unchanged: the father lovingly embraces his son back into the family. This powerful scene highlights the extravagant love and celebration that God extends to those who repent and return to Him.",
+        "wordCount": 98,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.486505106345194,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.77,
+        "commentatorTierSimilarities": [
+            40.39,
+            28.01,
+            31.6
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "How nice is the observance of all the lesser proprieties of the narration.",
+            "He sees into the deep of his joy, that he is receiving him now indeed a son, once dead but now alive.",
+            "His father has yet received him safe and sound."
+        ],
+        "Philip Schaff": [
+            "The father had received him safe and sound.",
+            "The servant states the case as it impresses him.",
+            "No special interpretation is to be put upon this verse."
+        ],
+        "Archibald T. Robertson": [
+            "Hath killed (\u03b5\u03b8\u03c5\u03c3\u03b5\u03bd). Aorist active indicative and literally means, did kill . Difficult to handle in English for our tenses do not correspond with the Greek.",
+            "Hath received (\u03b1\u03c0\u03b5\u03bb\u03b1\u03b2\u03b5\u03bd). Second aorist active indicative with similar difficulty of translation. Note \u03b1\u03c0\u03bf in compositions, like re- in 'receive,' hath gotten him back (\u03b1\u03c0-).",
+            "Safe and sound (\u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1). Present active participle of \u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03c9 from \u03c5\u03b3\u03b9\u03b7\u03c2, to be in good health. In spite of all that he has gone through and in spite of the father's fears."
+        ],
+        "John Gill": [
+            "Hath killed the fatted calf, by which Christ is meant... expresses the large and rich entertainment God makes for souls when they are brought home to him by repentance.\" ",
+            "The elect of God, signified by the younger son, were his in a peculiar sense, but in consequence of redemption by Christ, and through efficacious grace in calling, are found, received, and enjoyed again.\" ",
+            "God's elect fell in Adam, as others; yet they were preserved in Christ, and being redeemed by him, are safe; so that the law cannot lay hold on them, nor sin, nor anything else condemn them."
+        ],
+        "John Wesley": [
+            "Perhaps he mentions this rather than the robe or ring, as having a nearer connection with the music and dancing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 15:27, the narrator pays close attention to the details of the story, emphasizing the joy of the father who now sees his once lost son alive and receiving him as a son. He not only receives him, but receives him safe and sound, emphasizing the father's relief and the son's restored well-being. The language used, such as hath killed and hath received, presents some difficulty in translation, but the main point is that the father has warmly welcomed his son back into the family. This scene is symbolic of the great love and celebration that God shows towards those who repent and return to Him. In this context, the killing of the fatted calf represents the lavish feast that God provides for redeemed souls.",
+            "wordCount": 128,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 1.4286671265207243,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+            "commentatorTierSimilarities": [
+                37.72,
+                29.45,
+                32.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the narrator's attention to detail evokes the immense joy of the father as he welcomes his lost son back home. The father's relief is evident in the mention of receiving his son safe and sound, emphasizing the restoration of the son's well-being. Although there are translation difficulties with phrases like hath killed and hath received, the main message is clear: the father joyfully embraces his once lost son as a beloved member of the family. This scene beautifully reflects the extravagant love and celebration that God extends to those who repent and turn back to Him.",
+            "wordCount": 103,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4265449325807906,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.78,
+            "commentatorTierSimilarities": [
+                39.6,
+                26.62,
+                33.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The careful narration in this verse displays the immense joy of the father as he welcomes his once lost son, who is now alive and back with him. The father's relief is explicitly mentioned, highlighting the son's restored well-being. While the translations of hath killed and hath received pose challenges, the essence remains clear: the father warmly embraces his son into the family. This beautiful depiction reflects God's extravagant love and celebration when sinners repent and return to Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.3998508591127687,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.89,
+            "commentatorTierSimilarities": [
+                38.29,
+                30.86,
+                30.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The meticulous details in the narration showcase the immense joy of the father as he welcomes his once lost son, who is now alive and received as a son once more. The father's relief and delight are emphasized by the mention of receiving his son safe and sound. Although the translation of phrases like hath killed and hath received presents some difficulty, the core message remains unchanged: the father lovingly embraces his son back into the family. This powerful scene highlights the extravagant love and celebration that God extends to those who repent and return to Him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.486505106345194,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.77,
+            "commentatorTierSimilarities": [
+                40.39,
+                28.01,
+                31.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With careful attention to detail, the narration reveals the father's immense joy as he welcomes his once lost son, who is now alive and received as a son once more. The father's relief is evident, emphasizing the son's restored well-being. Though the translation challenges of hath killed and hath received arise, the essence remains clear: the father warmly embraces his son into the family. This symbolic portrayal underscores God's extravagant love and celebration when sinners repent and turn back to Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.3790097310832148,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.2,
+            "commentatorTierSimilarities": [
+                40.35,
+                27.93,
+                31.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

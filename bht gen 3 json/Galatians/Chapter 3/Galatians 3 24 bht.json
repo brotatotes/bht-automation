@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:18:30",
+    "verseRef": "Galatians 3:24",
+    "bestBHT": {
+        "bht": "The law acted as our tutor, guiding us to Christ and justifying us by faith. It showed us what we ought to do, yet exposed our inability to fulfill it. The law was neither identical nor opposed to the promise, but rather a necessary but subordinate element in human development. Christ is the fulfillment of the law, our ultimate Schoolmaster who dismisses the pedagogue. The law condemned us, preparing us to welcome the offer of pardon through a Redeemer. Through the law, we came to Christ.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.05666253127271,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+        "commentatorTierSimilarities": [
+            38.0,
+            27.02,
+            34.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Law hath become our tutor unto Christ.",
+            "Christ represents the freedom of the grown-up son, in which he is no longer guarded or shut up, but justified by faith.",
+            "Now that [the] faith is come, we are no longer under a tutor."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So that the law hath been (that is, hath turned out to be) our schoolmaster (or 'tutor,' literally, 'pedagogue': this term, among the Greeks, meant a faithful servant entrusted with the care of the boy from childhood to puberty, to keep him from evil, physical and moral, and accompany him to his amusements and studies) to guide us unto Christ.\" ",
+            "Children (literally, infants) need such tutoring (:-).",
+            "The moral law shows us what we ought to do, and so we learn our inability to do it."
+        ],
+        "Albert Barnes": [
+            "The Law performs the office of the ancient pedagogue, to lead us to the teacher or the instructor. That teacher or instructor is Christ.\" ",
+            "The moral law - the Law of God - shows people their sin and danger, and thus leads them to the Saviour. It condemns them, and thus prepares them to welcome the offer of pardon through a Redeemer.",
+            "The whole economy of the Jews was designed to [lead people to the Redeemer]. People see that they are condemned; they are convinced by the Law that they cannot save themselves, and thus they are led to the Redeemer."
+        ],
+        "Marvin Vincent": [
+            "The law is neither absolutely identical with the promise, nor absolutely opposed to it. It is not the negation of the promise, but is distinct from it and subordinate to it.\" ",
+            "Its final purpose lies in the promise itself. It is an essential but transitional element in the historical development of humanity.",
+            "'Christ is the end of the law.'"
+        ],
+        "John Calvin": [
+            "The law, by displaying the justice of God, convinced them that in themselves they were unrighteous; for in the commandments of God, as in a mirror, they might see how far they were distant from true righteousness.",
+            "The threats and entreaties of the law pressed them to seek refuge from the wrath and curse of God, and gave them no rest till they were constrained to seek the grace of Christ.",
+            "The law, in short, was nothing else than an immense variety of exercises, in which the worshippers were led by the hand to Christ."
+        ],
+        "Philip Schaff": [
+            "The discipline of law and authority is still the school of moral freedom, and reaches its proper end in self-government which is true freedom.",
+            "The whole work of preparatory training belongs to the p\u00e6dagogue, and Christ represents here the result of the educational process, i.e., the state of evangelical freedom and independent, self-governing manhood.",
+            "Christ...represents...the state of evangelical freedom and independent, self-governing manhood."
+        ],
+        "Archibald T. Robertson": [
+            "Christ is our Schoolmaster and the law as paedagogue kept watch over us till we came to Christ.",
+            "That we might be justified by faith. This is the ultimate purpose of the law as paedagogue.",
+            "The pedagogue is dismissed. We are in the school of the Master."
+        ],
+        "John Gill": [
+            "the whole Mosaic administration is designed",
+            "the law performed this office of a schoolmaster until the coming of Christ",
+            "it might be made manifest, be a clear point, and out of all dispute, that there is no such thing as justification by the law"
+        ],
+        "John Wesley": [
+            "Wherefore the law was our schoolmaster unto Christ \u2014 It was designed to train us up for Christ.",
+            "And this it did both by its commands, which showed the need we had of his atonement.",
+            "And its ceremonies, which all pointed us to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The law served as our tutor, guiding us towards Christ. It showed us what we ought to do but also revealed our inability to do it. The law was a necessary but transitional element in the development of humanity, leading us to the promise of justification by faith. Christ is the end of the law, our ultimate Schoolmaster who dismisses the pedagogue and welcomes us into the school of true freedom. The law condemned us, making us aware of our need for a Redeemer, and the whole Jewish economy was designed to lead us to Christ. Through the law, we were led by the hand to seek refuge in the grace of Christ.\n",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.0449545091741603,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                35.71,
+                30.66,
+                33.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The law served as our tutor, guiding us towards Christ and preparing us for justification by faith. It showed us what we ought to do, but also highlighted our inability to do it. The law was a necessary but transitional element in human development, leading us to the promise of freedom in Christ. The entire Jewish system aimed to lead people to the Redeemer by making them aware of their condemnation and need for grace. Through the law, we were led to seek refuge in the grace of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9175293006937717,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.1,
+            "commentatorTierSimilarities": [
+                32.95,
+                31.15,
+                35.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The law acted as our tutor, guiding us to Christ and justifying us by faith. It showed us what we ought to do, yet exposed our inability to fulfill it. The law was neither identical nor opposed to the promise, but rather a necessary but subordinate element in human development. Christ is the fulfillment of the law, our ultimate Schoolmaster who dismisses the pedagogue. The law condemned us, preparing us to welcome the offer of pardon through a Redeemer. Through the law, we came to Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.05666253127271,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+            "commentatorTierSimilarities": [
+                38.0,
+                27.02,
+                34.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The law served as our pedagogue, guiding us to Christ and justifying us by faith. It showed us what we ought to do, highlighting our inability to fulfill it. The law was a necessary but transitional element in human development, leading us to the promise of freedom in Christ. Christ represents the result of our educational process, the state of evangelical freedom and independent self-governing manhood. Through the law, we were led to seek refuge in Christ's grace and embrace true freedom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.0142793259669576,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.32,
+            "commentatorTierSimilarities": [
+                33.22,
+                35.85,
+                30.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The law acted as our tutor, guiding us to Christ so that we might be justified by faith. It showed us what we ought to do, but also made us aware of our inability to do it. The law was a transitional element in human development, with its ultimate purpose lying in the promise of justification. Christ is the end of the law, representing our freedom and independence. With the law as our pedagogue, we have now entered the school of the Master.",
+            "wordCount": 83,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.9832980635183621,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
+            "commentatorTierSimilarities": [
+                38.75,
+                29.15,
+                32.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

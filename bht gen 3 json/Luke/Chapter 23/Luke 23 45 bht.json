@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:23:44",
+    "verseRef": "Luke 23:45",
+    "bestBHT": {
+        "bht": "During the crucifixion, a significant darkness fell over the land, with the sun being darkened. This darkness may have been meant to add solemnity to the event. Some speculate that the sun became dark after the darkness had already fallen, but it is more likely that the darkness caused the sun's light to fail. The mention of the temple veil being torn fits with the darkness occurring in the midst. This darkness, whether natural or supernatural, fulfilled a prophecy.",
+        "wordCount": 80,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.8065504854208423,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+        "commentatorTierSimilarities": [
+            32.83,
+            49.06,
+            18.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words the sun was darkened are probably added to give solemnity to the preceding, assigning its reason.\" ",
+            "It can hardly be, as Meyer, that the earth was darkened till the ninth hour, and then the sun became dark also."
+        ],
+        "Marvin Vincent": [
+            "Veil. See on Matthew 27:51."
+        ],
+        "Philip Schaff": [
+            "The ran failing, i.e., its light. This was the cause of the darkness.",
+            "It can scarcely imply that the sun had been visible during the darkness and at last itself disappeared.",
+            "And the vail of the temple, etc. Matthew, who is more detailed, speaks of this after our Lord\u2019s death."
+        ],
+        "Archibald T. Robertson": [
+            "The sun's light failing...the sun can be darkened in other ways.\" ",
+            "Leave the darkness unexplained.",
+            "In the midst."
+        ],
+        "John Gill": [
+            "There was an eclipse of it, which was preternatural, it being now full moon, and lasted three hours, and so total, as to darken the whole earth.",
+            "The Persic version renders it, 'the gate of the temple'; and so the Syriac version, 'the face of the gate of the temple'.",
+            "And now was the prophecy in Amos 8:9 literally fulfilled."
+        ],
+        "John Wesley": [
+            "Mark 15:38."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the crucifixion, a significant darkness fell over the entire land, with the sun being darkened. This darkness may have been meant to emphasize the gravity of the event. Although some commentators speculate that the sun became dark after the darkness had already fallen, it is more likely that the darkness caused the sun's light to fail. The mention of the veil in the temple being torn in Matthew's account fits with Luke's mention of the darkness occurring in the midst. This darkness, whether a natural or supernatural occurrence, fulfilled the prophecy in Amos 8:9.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.7514460998118504,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.58,
+            "commentatorTierSimilarities": [
+                31.0,
+                47.83,
+                21.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the crucifixion, a significant darkness fell over the land, with the sun being darkened. This darkness may have been meant to add solemnity to the event. Some speculate that the sun became dark after the darkness had already fallen, but it is more likely that the darkness caused the sun's light to fail. The mention of the temple veil being torn fits with the darkness occurring in the midst. This darkness, whether natural or supernatural, fulfilled a prophecy.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.8065504854208423,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                32.83,
+                49.06,
+                18.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the crucifixion, a significant darkness fell over the entire land, with the sun being darkened. This darkness may have been meant to emphasize the gravity of the event. Although some speculate that the sun became dark after the darkness had already fallen, it is more likely that the darkness caused the sun's light to fail. The mention of the veil in the temple being torn fits with the darkness occurring in the midst. This darkness, whether a natural or supernatural occurrence, fulfilled the prophecy in Amos 8:9.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.7711577032125851,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+            "commentatorTierSimilarities": [
+                31.55,
+                48.37,
+                20.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the crucifixion, a significant darkness fell over the land, with the sun being darkened. This darkness may have been meant to add solemnity to the event. Some speculate that the sun became dark after the darkness had already fallen, but it is more likely that the darkness caused the sun's light to fail. The mention of the temple veil being torn fits with the darkness occurring in the midst. This darkness, whether natural or supernatural, fulfilled a prophecy.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.8065504854208423,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                32.83,
+                49.06,
+                18.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the crucifixion, a profound darkness covered the entire land, with the sun being darkened. This darkness possibly served to heighten the significance of the preceding events. While some suggest that the sun became dark only after the darkness had already fallen, it is more plausible that the darkness caused the sun's light to fail. The mention of the temple veil being torn corresponds with the darkness happening in the midst. This obscurity, whether natural or supernatural, fulfilled a prophetic utterance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6678992346970676,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                31.44,
+                49.84,
+                18.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:37:43",
+    "verseRef": "Acts 28:19",
+    "bestBHT": {
+        "bht": "The speaker clarifies that their appeal was not meant to accuse or complain about their own nation, but rather to defend themselves from harm. It was a necessary and defensive step compelled by the bitter enmity of the Jews. Despite facing unfair treatment, the speaker does not hold any ill will towards those who wronged them. The appeal was made with the intention of self-preservation and safety, without any desire to bring disgrace upon their country. Therefore, it was a reluctant action taken to protect their innocence and life, rather than a reflection of animosity towards their own people.",
+        "wordCount": 100,
+        "quoteTokenProportion": 43.66,
+        "qualityScore": 1.8109106307420562,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.55,
+        "commentatorTierSimilarities": [
+            34.61,
+            29.03,
+            36.36
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] \u2018My appeal was a defensive and necessary step\u2014not an offensive one, to complain of my nation.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am here not as their accuser, but as my own defender, and this not of choice but necessity.\" ",
+            "His object in alluding thus gently to the treatment he had received from the Jews was plainly to avoid whatever might irritate his visitors at the first.",
+            "Especially as he was not aware whether any or what information against him had reached their community."
+        ],
+        "Albert Barnes": [
+            "I was constrained - By a regard to my own safety and character.",
+            "Not that I had aught ... - I did it for my own preservation and safety, not that I wished to accuse my countrymen.",
+            "Paul had been unjustly accused and injured; yet, with the true spirit of the Christian religion, he here says that he cherished no unkind feelings toward those who had done him wrong."
+        ],
+        "John Calvin": [
+            "This appeal was full of hatred and envy for this cause.",
+            "He [Paul] is excused by necessity, because he had no other way to escape death.",
+            "He promiseth that he will so handle his matter hereafter, that he will not labor against the Jews."
+        ],
+        "Philip Schaff": [
+            "It was to do them no harm that he had appealed to the C\u00e6sar at Rome: it was his last resort to save himself from judicial murder or assassination.",
+            "We must bear in mind that here, as in the other reports of Paul\u2019s sermons and speeches, we only possess the barest outline of the original.",
+            "No doubt he sketched out to his listeners that day at Rome a full picture of all the dark plottings on the part of his countrymen which had preceded his \u2018appeal unto C\u00e6sar.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The word is a mild one to describe the bitter enmity of the Jews.",
+            "I was compelled.",
+            "Not that I had aught to accuse my nation of."
+        ],
+        "John Gill": [
+            "I was constrained to appeal to Caesar; to prevent the design of the Jews upon him, which was to way lay him and kill him, or by what ways they could, right or wrong, take away his life; and to provide for his own safety.",
+            "Not that I had ought to accuse my nation of; meaning, that he had no ill design in this appeal against his country, to expose them, and bring them under reproach and censure, but to vindicate himself, defend his own innocence, and preserve his character and life.",
+            "What he did was not of choice, but by constraint, and with reluctance; being no friend to Heathen tribunals, nor any enemy to the Jewish nation."
+        ],
+        "John Wesley": [
+            "He speaks tenderly of them, not mentioning their repeated attempts to murder him.",
+            "Not that I had any thing to accuse my nation of \u2014 Not that I had any design to accuse others, but merely to defend myself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the speaker assures his listeners that his appeal was not driven by a desire to accuse or complain about his nation, but rather to defend himself. He acknowledges that he had no other way to escape the plans of the Jews, who harbored deep enmity towards him. Despite the unjust treatment he endured, he emphasizes that he bears no ill will towards those who wronged him. Through his appeal, he sought preservation and safety, not harm towards his fellow countrymen. The speaker's intention was not to expose or disgrace his nation, but to uphold his own innocence and protect his life. This defensive and necessary step was taken reluctantly, as he was not a friend of Heathen tribunals and held no enmity towards his own people.",
+            "wordCount": 130,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.7802227373755182,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.53,
+            "commentatorTierSimilarities": [
+                27.79,
+                32.71,
+                39.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The appeal made was not an offensive act to complain or accuse the speaker's nation, but rather a defensive and necessary step to defend oneself. It was compelled by the bitter enmity of the Jews and the need to protect oneself from harm. Despite unjust treatment, the speaker holds no ill feelings towards those who wronged him. The appeal was intended for preservation and safety, without any intention to bring disgrace upon the nation. This reluctant action was taken to safeguard one's innocence and life, not out of enmity towards one's own people.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7769418641856696,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.43,
+            "commentatorTierSimilarities": [
+                35.41,
+                29.4,
+                35.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The defensive appeal made by the speaker was not meant to accuse or complain about their nation, but rather to protect themselves. It was a necessary step compelled by the bitterness and enmity of the Jews. Despite enduring unjust treatment, the speaker harbors no ill will towards those who wronged them. The appeal was driven by the desire for self-preservation and safety, without any intention to bring shame upon their fellow countrymen. This reluctant action was taken to uphold innocence and safeguard their own life, not out of animosity towards their own people.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.7509546971855041,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                34.55,
+                29.15,
+                36.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The speaker clarifies that their appeal was not meant to accuse or complain about their own nation, but rather to defend themselves from harm. It was a necessary and defensive step compelled by the bitter enmity of the Jews. Despite facing unfair treatment, the speaker does not hold any ill will towards those who wronged them. The appeal was made with the intention of self-preservation and safety, without any desire to bring disgrace upon their country. Therefore, it was a reluctant action taken to protect their innocence and life, rather than a reflection of animosity towards their own people.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.8109106307420562,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.55,
+            "commentatorTierSimilarities": [
+                34.61,
+                29.03,
+                36.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The speaker's appeal was not to accuse or complain about their nation, but rather a defensive and necessary step compelled by the enmity of the Jews. Despite unfair treatment, there are no ill intentions towards those who wronged them. The appeal sought self-preservation and safety, not harm towards their own people. It was an action taken reluctantly, driven by the need to protect one's innocence and life, rather than animosity towards their fellow countrymen.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7794927189615963,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.51,
+            "commentatorTierSimilarities": [
+                35.9,
+                28.13,
+                35.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

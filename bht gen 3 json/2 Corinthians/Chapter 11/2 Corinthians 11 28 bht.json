@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:18:41",
+    "verseRef": "2 Corinthians 11:28",
+    "bestBHT": {
+        "bht": "The apostle Paul bears the weight of a heavy burden as he cares for the churches he has founded. His daily anxiety for these churches, surpassing his own afflictions, reveals his deep commitment and shepherd-like heart. This constant care and concern speaks to the challenges inherent in governing the Church. Paul's unwavering dedication to the well-being of the churches serves as a convicting example, reminding us to hold our own concerns for the Church with utmost seriousness and devotion.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.9093253869940603,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.83,
+        "commentatorTierSimilarities": [
+            29.96,
+            30.23,
+            39.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He passes from particulars, omitting others which might have been specified, to the weight of apostolic care and sympathy which was on him.",
+            "Not to mention those (afflictions) which are besides (these), my care day by day.",
+            "My anxiety for all the churches."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "there is 'that which cometh upon me... the care of all the churches'\".",
+            "the pressing care-taking or inspection that is upon me daily\".",
+            "my anxious solicitude for all the churches\"."
+        ],
+        "Albert Barnes": [
+            "Apart from the things beside... this continual care occupies my mind and weighs upon my heart.\" ",
+            "These cares rushed upon him, or pressed upon him like a crowd of people or a mob that bore all before it.",
+            "They were young; many of them were feeble; many were made up of heterogeneous materials; many composed of Jews and Gentiles mingled together, with conflicting prejudices, habits, preferences."
+        ],
+        "Marvin Vincent": [
+            "Better, the latter, so that the literal meaning is, apart from the things which are beside and outside my enumeration : or, as Alford, not to mention those which are beside these.\" ",
+            "The word does not occur in classical Greek, and no instance of its usage in the former sense occurs in the New Testament or in the Septuagint.",
+            "Farrar remarks upon vers. 23 - 28, that it is 'the most marvelous record ever written of any biography; a fragment beside which the most imperiled lives of the most suffering saints shrink into insignificance, and which shows us how fractional at the best is our knowledge of the details of St. Paul's life.'"
+        ],
+        "John Calvin": [
+            "Whoever is concerned in good earnest as to the Church of God, stirs up himself and bears a heavy burden, which presses upon his shoulders.",
+            "What a picture we have here of a complete minister, embracing in his anxieties and aims not one Church merely, or ten, or thirty, but all of them together.",
+            "No one can have a heartfelt concern for the Churches, without being harassed with many difficulties; for the government of the Church is no pleasant occupation."
+        ],
+        "Philip Schaff": [
+            "Besides those things that are without over and above all such external things...",
+            "There is that which cometh upon me daily, anxiety for all the churches...",
+            "Anxiety for all the churches of which see note at close of this chapter."
+        ],
+        "Archibald T. Robertson": [
+            "Surely no man ever found glory in such a peck of troubles as Paul has here recounted.\" ",
+            "His list should shame us all today who are disposed to find fault with our lot.\" ",
+            "Paul had the shepherd heart. As apostle to the Gentiles he had founded most of these churches."
+        ],
+        "John Gill": [
+            "Besides those things that are without, that which cometh upon me daily, is not to be forgotten.",
+            "the prodigious deal of business which was every day upon his hands, through the continual coming of brethren to him, either for advice, or comfort, or instruction.",
+            "the care of all the churches not of ten, or twenty, or some only; but of all of them"
+        ],
+        "John Wesley": [
+            "Beside the things which are from without \u2014 Which I suffer on the account of others; namely, the care of all the churches.\" ",
+            "A more modest expression than if he had said, the care of the whole church.",
+            "All - Even those I have not seen in the flesh. St. Peter himself could not have said this in so strong a sense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul, in his letter to the Corinthians, expresses the weight of care and responsibility he carries for the churches. He mentions the afflictions he endures, but also emphasizes his daily anxiety for all the churches. This burden of care comes upon him continually, and it is not to be taken lightly. Paul's deep concern for these churches, founded by him during his missionary journeys, shows his shepherd heart and the all-encompassing nature of his ministry. His devoted care for the churches, regardless of whether he had personally visited them, serves as an example for all who are involved in the work of God's kingdom. Our concerns for the Church should stir us up and bear a heavy burden, reminding us that the government of the Church is not a pleasant occupation but one that requires utmost dedication and perseverance.",
+            "wordCount": 144,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.8884013930336305,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.13,
+            "commentatorTierSimilarities": [
+                29.69,
+                28.22,
+                42.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul carries a weighty burden of care and concern for the churches he has founded. He speaks of the afflictions he endures, but it is his daily anxiety for all the churches that stands out. This continual care weighs heavily upon him, showing his deep, shepherd-like concern for those he has ministered to. His example challenges us to examine our own devotion and dedication to the work of God, as he tirelessly labored for the well-being of the Church.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.9046772449165257,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                30.21,
+                30.3,
+                39.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul bears the weight of a heavy burden as he cares for the churches he has founded. His daily anxiety for these churches, surpassing his own afflictions, reveals his deep commitment and shepherd-like heart. This constant care and concern speaks to the challenges inherent in governing the Church. Paul's unwavering dedication to the well-being of the churches serves as a convicting example, reminding us to hold our own concerns for the Church with utmost seriousness and devotion.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.9093253869940603,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.83,
+            "commentatorTierSimilarities": [
+                29.96,
+                30.23,
+                39.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul, amidst his enduring afflictions, carries the weighty responsibility of daily anxiety for all the churches. This pressing care-taking and inspection is a testament to his devoted and shepherd-like heart. His concern extends to all the churches he has founded, demonstrating the comprehensive nature of his ministry. Paul's example challenges us to reflect on our own commitment to the work of God's kingdom, reminding us that the government of the Church requires genuine concern and diligent effort.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.7033196349912512,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                32.87,
+                28.57,
+                38.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul's deep care for the churches weighs heavily upon him. While he endures afflictions, his daily anxiety for all the churches goes beyond measure. This constant and pressing responsibility reveals his shepherd-like heart and his tireless dedication to ministering to the diverse and often challenging congregations he has established. Paul's example reminds us of the weighty task of shepherding God's people, compelling us to approach our own roles and concerns for the Church with utmost seriousness and devotion.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8924441947610684,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                29.9,
+                31.22,
+                38.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

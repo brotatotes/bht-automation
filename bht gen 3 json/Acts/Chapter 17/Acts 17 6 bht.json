@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:32:55",
+    "verseRef": "Acts 17:6",
+    "bestBHT": {
+        "bht": "The Politarchs, the rulers of Thessalonica, governed the city with precision and accuracy, as confirmed by an inscription found on the spot. The Christian believers, with their message of the gospel, had already made a significant impact, as rumors of them turning the world upside down had reached the inhabitants of Thessalonica. Despite facing hostility and being dragged before the rulers of the city, it is important to note that the purpose of the gospel is to bring peace and reconciliation with God, rather than to incite disorder and conflict.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.6045334124619064,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.69,
+        "commentatorTierSimilarities": [
+            30.04,
+            34.67,
+            35.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These rulers are called in the original by the peculiar title of Politarchs, governors of the citizens.",
+            "The exact accuracy of the title as existing at Thessalonica, has been proved by an inscription found on the spot.",
+            "These that have turned the world upside down - The words presuppose some rumour of Christianity and its spread having before reached the inhabitants of Thessalonica."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the very name given to the magistrates of Thessalonica in an inscription on a still remaining arch of the city\u2014so minute is the accuracy of this history.",
+            "These that have turned the world upside down.",
+            "(See on :-)."
+        ],
+        "Albert Barnes": [
+            "These that have turned the world upside down.",
+            "That have excited commotion and disturbance in other places.",
+            "The charge has been often brought against the gospel that it has been the occasion of confusion and disorder."
+        ],
+        "Marvin Vincent": [
+            "Rulers of the city [\u03c0\u03bf\u03bb\u03b9\u03c4\u03b1\u03c1\u03c7\u03b1\u03c2] . Another illustration of Luke's accuracy.",
+            "Thessalonica was not a colony, but a free city (see on colony, ch. 16 12), and was governed by its own rulers, whose titles accordingly did not follow those of Roman magistrates.",
+            "The word occurs only here and verse 8, and has been found in an inscription on an arch at Thessalonica, where the names of the seven politarchs are mentioned."
+        ],
+        "John Calvin": [
+            "The gospel is not preached to this end that it may set men together by the ears; but rather that it may keep them in peace, being reconciled to God.",
+            "We must not give place to slanders and false reports; but we must stand stoutly in maintaining the truth, being ready to hear evil for things done well.",
+            "Away with the perverse wisdom of some, who, to the end they may escape false slanders, cease not to betray Christ and his gospel through their treacherous moderation."
+        ],
+        "Philip Schaff": [
+            "A 'free city' was self-governed. The provincial governor possessed within its walls and circuit no authority.",
+            "The power of life and death, for instance, so jealously withheld from the Jerusalem Jews, belonged to the local magistrates of a 'free city.'",
+            "These that have turned the world upside down. These strange words, Alford remarks, presuppose some rumour of Christianity and its spread having before reached the inhabitants of Thessalonica."
+        ],
+        "Archibald T. Robertson": [
+            "They dragged (\u03b5\u03c3\u03c5\u03c1\u03bf\u03bd). Imperfect active, vivid picture, they were dragging (literally).\" ",
+            "Before the rulers of the city (\u03b5\u03c0 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b1\u03c1\u03c7\u03b1\u03c2). This word does not occur in Greek literature and used to be cited as an example of Luke's blunders. But now it is found in an inscription on an arch in the modern city preserved in the British Museum.\" ",
+            "These that have turned the world upside down (\u03bf \u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03c5\u03bc\u03b5\u03bd\u03b7\u03bd \u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c4\u03c9\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2). The use of \u03bf\u03b9\u03ba\u03bf\u03c5\u03bc\u03b5\u03bd\u03b7\u03bd (supply \u03b3\u03b5\u03bd or \u03c7\u03c9\u03c1\u03b1\u03bd, the inhabited earth, present passive participle of \u03bf\u03b9\u03ba\u03b5\u03c9) means the Roman Empire, since it is a political charge, a natural hyperbole in their excitement, but the phrase occurs for the Roman Empire in Luke 2:1."
+        ],
+        "John Gill": [
+            "These that have turned the world upside down: the apostles, according to the cry of these men, had thrown the whole world into disorder.\" ",
+            "They had made disturbances in kingdoms and cities, wherever they came; and had made innovations in religion, and turned men from their old way of worship to another.",
+            "To make the like disorders and disturbances, as elsewhere."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These rulers, known as the Politarchs, governed the city of Thessalonica. Their title and existence have been confirmed by an inscription found in the city. The reputation of these Christian believers preceded them, with rumors of their message reaching even the inhabitants of Thessalonica. They were accused of turning the world upside down, a charge that reflects the impact they had in spreading Christianity throughout the Roman Empire. The vivid image of being dragged before the rulers of the city shows the hostility they faced. However, it is important to note that the purpose of the gospel is not to incite conflict and disorder, but rather to bring peace and reconciliation with God.",
+            "wordCount": 113,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.6101661637835565,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.88,
+            "commentatorTierSimilarities": [
+                32.82,
+                35.52,
+                31.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These rulers, known as the Politarchs, governed the city of Thessalonica with great accuracy. Their title has been confirmed by an inscription found in the city, proving the meticulousness of Luke's account. The reputation of these Christian believers precedes them, as rumors of their message had already spread to the inhabitants of Thessalonica. They were accused of turning the world upside down, a charge that reflects the significant impact they had in spreading Christianity throughout the Roman Empire. The vivid image of being dragged before the rulers of the city shows the hostility they faced. However, it is important to note that the purpose of the gospel is not to incite conflict and disorder, but rather to bring peace and reconciliation with God.",
+            "wordCount": 124,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6120985071306144,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.94,
+            "commentatorTierSimilarities": [
+                35.34,
+                33.05,
+                31.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rulers of Thessalonica, known as the Politarchs, played a significant role in governing the city. This accuracy is demonstrated by an inscription found in the city, confirming their title. The message of the Christian believers had already spread, as rumors of them turning the world upside down reached the inhabitants of Thessalonica. The image of being dragged before the rulers vividly portrays the hostility they encountered. It is essential to understand that the purpose of the gospel is to bring peace and reconciliation with God, not to incite disorder or conflict.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4843566131130963,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.7,
+            "commentatorTierSimilarities": [
+                36.37,
+                35.24,
+                28.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rulers of Thessalonica, known as the Politarchs, were accurately described in an inscription found in the city, displaying Luke's attention to detail. The reputation of the Christian believers preceded them, with rumors of their message reaching Thessalonica. They were accused of turning the world upside down, a charge reflecting the impact of their message. In the face of opposition, it is crucial to remember that the gospel aims for peace and reconciliation with God, not turmoil and disorder.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.527266718553105,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.12,
+            "commentatorTierSimilarities": [
+                28.5,
+                34.51,
+                36.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Politarchs, the rulers of Thessalonica, governed the city with precision and accuracy, as confirmed by an inscription found on the spot. The Christian believers, with their message of the gospel, had already made a significant impact, as rumors of them turning the world upside down had reached the inhabitants of Thessalonica. Despite facing hostility and being dragged before the rulers of the city, it is important to note that the purpose of the gospel is to bring peace and reconciliation with God, rather than to incite disorder and conflict.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.6045334124619064,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.69,
+            "commentatorTierSimilarities": [
+                30.04,
+                34.67,
+                35.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

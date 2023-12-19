@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:25:28",
+    "verseRef": "Acts 2:29",
+    "bestBHT": {
+        "bht": "Peter, as an Israelite and brother, speaks with respect and acknowledges David as the Patriarch, the progenitor of the kingly line. Filled with the Holy Spirit, Peter sees in the Psalm a Holy Man's devotion and assurance of resurrection, which finds its fulfillment in Jesus, witnessed by His resurrection and ascension. David, still in his grave, cannot be speaking of himself. Speaking freely and boldly, Peter addresses the patriarch, recognizing David's sepulcher among them.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.9887098701728867,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+        "commentatorTierSimilarities": [
+            31.62,
+            34.97,
+            33.42
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He implies, 'I am your brother, an Israelite, and therefore would not speak with disrespect of David'.\" ",
+            "The title 'Patriarch' is only here applied to David as the progenitor of the kingly race.",
+            "We learn from 1 Kings ii. 10, and Neh. iii. 16, that David was buried at Jerusalem, in the city of David, i.e. the stronghold of Zion, 2 Sam. v. 7."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Peter, full of the Holy Ghost, sees in this sixteenth Psalm, one Holy Man, whose life of high devotedness and lofty spirituality is crowned with the assurance, that though He taste of death, He shall rise again without seeing corruption, and be admitted to the bliss of God's immediate presence.",
+            "The Psalm is then affirmed to have had its only proper fulfillment in JESUS, of whose resurrection and ascension they were witnesses, while the glorious effusion of the Spirit by the hand of the ascended One, setting an infallible seal upon all, was even then witnessed by the thousands who stood listening to Him.",
+            "A further illustration of Messiah's ascension and session at God's right hand is drawn from the fact that David cannot be thought to speak of himself, seeing he is still in his grave."
+        ],
+        "Albert Barnes": [
+            "This was a delicate way of expressing high respect for the monarch whom they all honored, and yet evinced boldness in examining a passage of Scripture which probably many supposed to have reference solely to him.",
+            "The tombs were commonly excavations from rocks, or natural caves; and sepulchres cut out of the solid rock, of vast extent, are Known to have existed...If the tombs of the kings were of this form, it is clear that they were works of great labor and expense.",
+            "Peter might, then, confidently appeal to their own belief and knowledge that David had not been raised from the dead. No Jew believed or supposed it. All, by their care of his sepulchre, and by the honor with which they regarded his grave, believed that he had returned to corruption. The Psalm, therefore, could not apply to him."
+        ],
+        "Marvin Vincent": [
+            "It is allowable for him to speak, because the facts are notorious.",
+            "Speaking everything, and therefore without reserve.",
+            "His sepulchre is with us. Or among us."
+        ],
+        "Philip Schaff": [
+            "Freely (\u2018frei und offen,\u2019 Meyer and Ewald), without fear of being thought unjust to the great memory of the royal patriarch, the founder of the kingly house of Judah.",
+            "No one ever pretended that King David had risen; his tomb all knew.",
+            "His resting-place was violated by the high priest, John Hyrcanus, and also by Herod the Great."
+        ],
+        "Archibald T. Robertson": [
+            "Freely, telling it all, with fulness, with boldness.",
+            "It is a new start for Simon Peter, full of boldness and courage.",
+            "The patriarch, the founder of a family."
+        ],
+        "John Gill": [
+            "It is a plain case, and a certain matter of fact, which nobody disputes or denies, that David really died, and was laid in the grave, and that his monument, or tomb, was still extant, so that he was not risen from the dead.",
+            "And Josephus relates that the sepulchre of David was opened by Hyrcanus, who took out of it three thousand talents; and that it was afterwards opened by Herod.",
+            "This, says the author, was the sepulchre of David, king of Israel."
+        ],
+        "John Wesley": [
+            "The patriarch \u2014 A more honourable title than king."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He implies that he would not speak with disrespect of David, for he is their brother, an Israelite. The title Patriarch is applied here to David as the progenitor of the kingly race. Peter, full of the Holy Ghost, sees in this Psalm a Holy Man, whose life of high devotion is crowned with the assurance of resurrection and admission to God's presence. The Psalm is affirmed to have had its fulfillment in Jesus, whose resurrection and ascension they witnessed. Since David is still in his grave, he cannot be speaking of himself. Peter freely and boldly shares these truths, recognizing the sepulcher of David among them. This is a new start for Peter, full of courage and boldness, as he addresses the patriarch, the founder of a family.",
+            "wordCount": 130,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.9599596548937472,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                32.84,
+                32.97,
+                34.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Implying respect for David, Peter, as an Israelite, acknowledges him as their brother. The title Patriarch highlights David as the progenitor of the kingly line. Peter, filled with the Holy Spirit, sees in the Psalm a Holy Man whose devoted life is rewarded with resurrection and the bliss of God's presence. Confirming that Jesus fulfills the Psalm, witnessed by His resurrection and ascension, Peter boldly shares the truth that David, still in his grave, cannot be speaking of himself. Speaking with boldness and freedom, Peter addresses the patriarch, the founder of a family.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9806803929912857,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                31.88,
+                32.9,
+                35.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, an Israelite and brother, speaks with respect of David, the Patriarch and progenitor of the kingly line. Filled with the Holy Spirit, Peter sees in the Psalm a Holy Man's life of devotion and assurance of resurrection. This fulfillment is found in Jesus, witnessed by His resurrection and ascension, while David remains in his grave. Speaking freely, boldly, and with fullness, Peter addresses the patriarch, the founder of a family, recognizing David's sepulcher among them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.9656779730985119,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                30.89,
+                36.76,
+                32.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, an Israelite and brother, speaks with respect of David, the Patriarch and progenitor of the kingly line. Filled with the Holy Spirit, Peter sees in the Psalm a Holy Man's life of devotion and assurance of resurrection. This fulfillment is found in Jesus, witnessed by His resurrection and ascension, while David remains in his grave. Peter boldly and freely addresses the patriarch, recognizing David's sepulcher among them as he speaks with fullness and without reserve.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.979370601582568,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                31.13,
+                36.27,
+                32.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, as an Israelite and brother, speaks with respect and acknowledges David as the Patriarch, the progenitor of the kingly line. Filled with the Holy Spirit, Peter sees in the Psalm a Holy Man's devotion and assurance of resurrection, which finds its fulfillment in Jesus, witnessed by His resurrection and ascension. David, still in his grave, cannot be speaking of himself. Speaking freely and boldly, Peter addresses the patriarch, recognizing David's sepulcher among them.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.9887098701728867,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                31.62,
+                34.97,
+                33.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

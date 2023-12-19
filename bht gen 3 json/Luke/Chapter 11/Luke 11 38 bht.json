@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:18:36",
+    "verseRef": "Luke 11:38",
+    "bestBHT": {
+        "bht": "Jesus marvelled at the Pharisees' astonishment when he did not wash his hands before eating. The Pharisees were known for their strict adherence to the ceremonial washing of hands, and they viewed it as a necessary tradition. However, Jesus opposed making this custom a necessity in opposition to the command of God. The act of washing hands before eating was not meant to imply immersion of the whole body, but rather a ceremonial purification. Jesus challenged the Pharisees' emphasis on external rituals and traditions, highlighting the importance of the heart and obedience to God's commandments over outward cleanliness.",
+        "wordCount": 99,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.7923660339100493,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+        "commentatorTierSimilarities": [
+            25.9,
+            31.5,
+            42.59
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression of this wonder is not stated, but it is probable that it found expression in some open way.",
+            "Our Lord would hardly have so suddenly begun, ye Pharisees, unless something had been said, to which by assent they were parties.",
+            "This use of the word shews that it did not imply necessarily immersion of the whole body;\u2014for it was only the hands which the Pharisees washed before meat."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "38. marvelled, &amp;c.\u2014(See :-)."
+        ],
+        "Albert Barnes": [
+            "Saw it - Saw that he sat immediately down without washing.",
+            "Marvelled - Wondered. Was amazed. It was so unusual, and in his view so improper.",
+            "Had not first washed - He wondered particularly, as he had been among a mixed multitude, and they esteemed the 'touch' of such persons polluting."
+        ],
+        "Philip Schaff": [
+            "The washing referred to was therefore a ceremonial one, not simply an act of cleanliness.",
+            "In this ceremony the Pharisees washed their hands, not their whole body.",
+            "The washing referred to as 'baptized'."
+        ],
+        "Archibald T. Robertson": [
+            "The verb is first aorist passive indicative of \u03b2\u03b1\u03c0\u03c4\u03b9\u03b6\u03c9, to dip or to immerse.\" ",
+            "It was the Jewish custom to dip the hands in water before eating and often between courses for ceremonial purification.\" ",
+            "Jesus had defended their liberty and had opposed making a necessity of such a custom (tradition) in opposition to the command of God."
+        ],
+        "John Gill": [
+            "That so great a prophet as he was, and a man of so much religion and holiness, should show no regard to a common custom with them, and which was one of the traditions of their elders.\" ",
+            "He was filled with astonishment and indignation, that he had not first washed before dinner.",
+            "The Pharisees not only washed their hands, by immersing them up to the elbow before eating; but when they had been at market, or among any large number of people, or had reason to think they had, or feared they had touched any unclean person or thing, they immersed themselves all over in water."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus marvelled at the Pharisees' astonishment when he did not wash his hands before eating. The Pharisees were known for their strict adherence to the ceremonial washing of hands, and they viewed it as a necessary tradition. However, Jesus opposed making this custom a necessity in opposition to the command of God. The act of washing hands before eating was not meant to imply immersion of the whole body, but rather a ceremonial purification. Jesus challenged the Pharisees' emphasis on external rituals and traditions, highlighting the importance of the heart and obedience to God's commandments over outward cleanliness.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.7923660339100493,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+            "commentatorTierSimilarities": [
+                25.9,
+                31.5,
+                42.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus astonished the Pharisees by not washing his hands before eating. He challenged their strict adherence to this ceremonial tradition, which they considered necessary. Jesus emphasized the importance of the heart and obedience to God's commandments over external cleanliness. While the Pharisees viewed hand-washing as a way to maintain purity, Jesus defended the liberty of his disciples. He opposed making this custom a necessity and highlighted the contrast between human traditions and the commandments of God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.572572439338431,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                24.58,
+                32.53,
+                42.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus marveled at the Pharisees' astonishment when he did not wash his hands before eating. The Pharisees were known for their strict adherence to the ceremonial washing of hands, and they viewed it as a necessary tradition. However, Jesus opposed making this custom a necessity in opposition to the command of God. The act of washing hands before eating was not meant to imply immersion of the whole body but rather a ceremonial purification. Jesus challenged the Pharisees' emphasis on external rituals and traditions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7888271172402126,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                25.55,
+                31.86,
+                42.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus marveled when the Pharisee who invited him to dine was astonished that he didn't wash his hands before the meal. This act of handwashing was a ceremonial tradition observed by the Pharisees, but Jesus opposed making it a necessity, emphasizing the importance of the heart and obedience to God's commandments above external rituals. The washing of hands before eating was not meant to imply full-body immersion, but rather a symbolic act of purification. Jesus challenged the Pharisees' focus on outward practices, highlighting the higher priority of inner righteousness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.760624427119323,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.88,
+            "commentatorTierSimilarities": [
+                25.82,
+                30.73,
+                43.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus marveled at the Pharisees' astonishment when he didn't wash his hands before eating. He challenged their strict adherence to the tradition of ceremonial handwashing, emphasizing the importance of inner purity and obedience to God's commandments. The Pharisees considered handwashing a necessary act of purification and were taken aback by Jesus' disregard for this ritual. Jesus defended his disciples' liberty and opposed making this custom obligatory. His actions revealed a deeper truth about the significance of true holiness, not confined to external rites and traditions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 1.6699246413338251,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                24.91,
+                31.43,
+                43.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

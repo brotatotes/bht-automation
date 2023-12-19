@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:20:50",
+    "verseRef": "Luke 17:9",
+    "bestBHT": {
+        "bht": "Jesus is not providing guidelines for the behavior of earthly masters and servants, but rather highlighting the appropriate relationship between us and God. He emphasizes that God is not obliged to thank us, as an earthly master might, for fulfilling our duties. Rather, as servants, it is our duty to obey Him. This parable challenges us to not settle for a mere servant relationship with God, but to strive for a deeper connection as His children. While commendation may be given for our service, we should not expect gratitude from God.",
+        "wordCount": 91,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 1.7618187682770539,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.92,
+        "commentatorTierSimilarities": [
+            23.17,
+            30.02,
+            46.81
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord is not laying down rules for the behaviour of an earthly master to his servants.",
+            "(See above) is speaking of the rightful state of relation between us, and Him whose we are, and whom we serve.",
+            "He is speaking of the rightful state of relation between us, and Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. I trow not\u2014or, as we say,",
+            "\twhen much more is meant, \"I should think not."
+        ],
+        "Albert Barnes": [
+            "I trow not - I \u201cthink\u201d not; or I \u201csuppose\u201d not."
+        ],
+        "Marvin Vincent": [
+            "I trow not. Omitted by the best texts."
+        ],
+        "Philip Schaff": [
+            "Then it was not the custom to do so; and that it is so now is owing solely to the influence of the religion of Christ.",
+            "God is never bound to thank us for our service, as an earthly master might be.",
+            "The whole parable is directed against our choosing to remain in the relation of servants instead of accepting that of sons."
+        ],
+        "Archibald T. Robertson": [
+            "Does he thank? (\u03bc\u03b7 \u03b5\u03c7\u03b5 \u03c7\u03b1\u03c1\u03b9\u03bd;). \u039c\u03b7 expects the negative answer. \u0395\u03c7\u03c9 \u03c7\u03b1\u03c1\u03b9\u03bd, to have gratitude toward one, is an old Greek idiom (1 Timothy 1:12; 2 Timothy 1:3; Hebrews 12:28). "
+        ],
+        "John Gill": [
+            "Doth he thank that servant... because he did the things that were commanded him?... I trow not.\" ",
+            "As a servant, he ought to do them, and in so doing does but his duty.\" ",
+            "He may indeed be commended for it, but not thanked."
+        ],
+        "John Wesley": [
+            "Doth he thank that servant \u2014 Does he account himself obliged to him?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 17:9, Jesus is not setting rules for earthly masters and servants, but speaking about our relationship with God. He highlights that God is not obligated to thank us for our service like an earthly master might, because as servants it is our duty to obey Him. The parable challenges us to not settle for a mere servant relationship with God, but to strive for a deeper connection as His children. It reminds us that while commendation may be given for our service, we should not expect gratitude from God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.7472352540042455,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                24.69,
+                33.94,
+                41.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus emphasizes that God does not operate like an earthly master who is obligated to thank his servants. Instead, he is highlighting the rightful state of our relationship with Him, where we are called to be obedient servants. Although commendation may be given for our service, we should not expect gratitude from God. This parable serves as a challenge to move beyond a servant-like relationship with God and strive for a deeper connection as His children.",
+            "wordCount": 80,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.6842054700328895,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "commentatorTierSimilarities": [
+                23.76,
+                29.9,
+                46.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this context, Jesus clarifies that God does not follow the rules of an earthly master who thanks his servants. Instead, he underscores the appropriate relationship between us and God, where we are called to serve Him without expecting gratitude. This parable challenges us to seek a deeper connection with God, rather than settling for a purely servant-like relationship. While commendation may be given, we should not anticipate thanks from God for fulfilling our duties.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.6729420026615902,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.97,
+            "commentatorTierSimilarities": [
+                24.43,
+                30.54,
+                45.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus is not providing guidelines for the behavior of earthly masters and servants, but rather highlighting the appropriate relationship between us and God. He emphasizes that God is not obliged to thank us, as an earthly master might, for fulfilling our duties. Rather, as servants, it is our duty to obey Him. This parable challenges us to not settle for a mere servant relationship with God, but to strive for a deeper connection as His children. While commendation may be given for our service, we should not expect gratitude from God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.7618187682770539,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.92,
+            "commentatorTierSimilarities": [
+                23.17,
+                30.02,
+                46.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus is not concerned with earthly master-servant dynamics in Luke 17:9, but rather with the appropriate relationship between us and God. He clarifies that God is not obligated to thank us for our service, as an earthly master might, since it is our duty as servants to obey Him. This parable challenges us to not settle for a servant's role, but to seek a deeper connection with God as His children. While our service may be commended, we should not expect gratitude from God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.6820891347541869,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                23.52,
+                36.02,
+                40.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

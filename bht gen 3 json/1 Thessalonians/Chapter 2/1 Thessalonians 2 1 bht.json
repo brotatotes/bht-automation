@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 13:58:29",
+    "verseRef": "1 Thessalonians 2:1",
+    "bestBHT": {
+        "bht": "The Thessalonians could affirm that Paul's preaching among them was not in vain, as they knew firsthand that it was full of power and had lasting effects. Paul's ministry was not a show of ambition or deceit, but a demonstration of Divine power at work in him. His preaching was characterized by its abiding nature and effectiveness, bringing about the conversion of many souls. The Thessalonians themselves could bear witness to the authenticity and efficacy of Paul's preaching in their lives.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9749160969402486,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+        "commentatorTierSimilarities": [
+            27.39,
+            30.99,
+            41.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He makes use now of that knowledge to carry out the description of his preaching among them, with a view, by recapitulating these details, to confirm them, who were as yet but novices, in the faith.",
+            "It is evident from vv. 2 ff., that this does not here apply to the fruits, but to the character of his preaching: the result does not appear till ver. 13.",
+            "And within this limitation, we may observe that the verb is hath been, not was; to be understood therefore not of any mere intent of the Apostle at the time of his coming among them, but of some abiding character of his preaching."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not only do strangers report it, but you know it to be true [ALFORD] 'yourselves.'\" ",
+            "Not vain... it was full of 'power' (1 Thessalonians 2:13-52.2.16- :).",
+            "The Greek for 'was,' expresses rather 'hath been and is,' implying the permanent and continuing character of his preaching."
+        ],
+        "Albert Barnes": [
+            "Paul appeals to themselves for proof that they had not come among them as impostors.",
+            "Every minister of the gospel ought so to live as to be able, when slanderously attacked, to make such an appeal to his people.",
+            "Paul tells them that from their own observation they knew that this was not so."
+        ],
+        "Marvin Vincent": [
+            "Was not in vain [\u03bf\u03c5 \u03ba\u03b5\u03bd\u03b7 \u03b3\u03b5\u03b3\u03bf\u03bd\u03b5\u03bd] . More accurately, hath not proved vain. Kenh is empty. Mataia, also rendered vain, is fruitless."
+        ],
+        "John Calvin": [
+            "He says, therefore, that his entering in unto them had not been vain, as ambitious persons manifest much show, while they have nothing of solidity; for he employs the word vain here as contrasted with efficacious.",
+            "It was therefore an evidence of a Divine work that Paul, after having been subjected to evils of various kinds and to ignominy, did, as if in a perfectly sound state, shew no hesitation in making an attempt upon a large and opulent city, with the view of subjecting the inhabitants of it to Christ.",
+            "In the second department the same Divine power is beheld, for he does not discharge his duty with applause and favor, but required to maintain a keen conflict. In the mean time he stood firm and undaunted, from which it appears that he was held up by the hand of God."
+        ],
+        "Philip Schaff": [
+            "For yourselves are my witnesses.\" ",
+            "It has not been useless and inefficacious.",
+            "Without this reference to the effects of his preaching, it is impossible to give its proper significance to the verb."
+        ],
+        "Archibald T. Robertson": [
+            "that it hath not been found vain",
+            "Non inanis, sed plena virtutis.",
+            "\u039a\u03b5\u03bd\u03bf\u03c2 is hollow, empty, while \u03bc\u03b1\u03c4\u03b1\u03b9\u03bf\u03c2 is fruitless, ineffective."
+        ],
+        "John Gill": [
+            "It was not a vain show with outward pomp and splendour.",
+            "The apostle came not with deceit and guile, with flattering words or a cloak of covetousness.",
+            "The word did not return void and empty; but was powerful and efficacious to the conversion of many souls."
+        ],
+        "John Wesley": [
+            "What was proposed, 1 Thessalonians 1:5,6, is now more largely treated of: concerning Paul and his fellowlabourers, 1 Thessalonians 2:1-12; concerning the Thessalonians, 1 Thessalonians 2:13-16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through their own firsthand experience and knowledge, the Thessalonians could affirm that Paul's preaching among them was genuine and not in vain. His preaching had a lasting impact and was filled with power, proving to be effective in bringing about the conversion of many souls. Unlike empty and fruitless words, his preaching was characterized by its abiding nature and lasting effects. Paul's ministry was not a mere show of ambition, but a demonstration of the Divine power at work in him. His preaching was not marked by deceit or manipulation, but by sincerity and truth. The Thessalonians themselves could bear witness to the authenticity and efficacy of Paul's preaching, as it had brought about true transformation in their lives.",
+            "wordCount": 122,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 1.9250930765340137,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                29.89,
+                28.96,
+                41.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians could affirm that Paul's preaching among them was not in vain, as they knew firsthand that it was full of power and had lasting effects. Paul's ministry was not a show of ambition or deceit, but a demonstration of Divine power at work in him. His preaching was characterized by its abiding nature and effectiveness, bringing about the conversion of many souls. The Thessalonians themselves could bear witness to the authenticity and efficacy of Paul's preaching in their lives.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9749160969402486,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                27.39,
+                30.99,
+                41.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians could confirm that Paul's preaching among them was not in vain. They knew from their firsthand experience that it was filled with power and had lasting impact. Paul's ministry was not a show of ambition or deceit, but a display of Divine power at work. His preaching was marked by its abiding nature and effectiveness, resulting in the conversion of many souls. The Thessalonians themselves could testify to the authenticity and effectiveness of Paul's preaching in their lives.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.814959631911933,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                27.07,
+                32.82,
+                40.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through their own firsthand experience and knowledge, the Thessalonians could affirm that Paul's preaching among them was genuine and not in vain. His preaching had a lasting impact and was filled with power, proving to be effective in bringing about the conversion of many souls. Unlike empty and fruitless words, his preaching was characterized by its abiding nature and lasting effects. Paul's ministry was not a mere show of ambition, but a demonstration of the Divine power at work in him. The Thessalonians themselves could bear witness to the authenticity and efficacy of Paul's preaching, as it had brought about true transformation in their lives.",
+            "wordCount": 108,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.9411379008374623,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                28.67,
+                30.32,
+                41.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians could affirm that Paul's preaching among them was not in vain, as they knew firsthand that it was full of power and had lasting effects. Paul's ministry was not marked by deceit or a mere show of ambition, but by the abiding nature and effectiveness of his preaching. It brought about the conversion of many souls and was characterized by its authenticity and Divine power at work. The Thessalonians themselves could testify to the truth and efficacy of Paul's preaching, as it had transformed their lives.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.9369807724676966,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "commentatorTierSimilarities": [
+                26.88,
+                29.44,
+                43.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

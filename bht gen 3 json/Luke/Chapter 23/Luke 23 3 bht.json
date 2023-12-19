@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:23:24",
+    "verseRef": "Luke 23:3",
+    "bestBHT": {
+        "bht": "Even on the Cross, there is no alienation or condemnation between the Father and the Son. The soldiers, the council who delivered Him up, and all those who lack knowledge of the truth and the effects of sin do not fully comprehend what they are doing. Pilate's question about Jesus, which is recorded in the Gospels with the same words, implies his knowledge of the Messianic expectations of the Jews. Jesus affirms Pilate's question, confirming that He is indeed the King of the Jews.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.8515830193816711,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+        "commentatorTierSimilarities": [
+            43.75,
+            22.77,
+            33.48
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His first three sayings on the Cross are for others: see ver. 43: John xix. 26, 27.",
+            "Notice that even on the Cross, there is no alienation, no wrath of condemnation, between the Father and the Son.",
+            "For they know not what they do, primarily, as before, spoken of the soldiers,\u2014then of the council, who delivered Him up, see John xi. 49, 'ye know nothing,'\u2014then of all, whose sin is from lack of knowledge of the truth, of what sin is, and what it has done."
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 27:11."
+        ],
+        "Philip Schaff": [
+            "Pilate\u2019s question implies some knowledge of the Messianic expectations of the Jews.",
+            "Thou sayest it = Yes. So Matthew and Mark.",
+            "Pilate\u2019s language in Luke 23:4 implies some further conversation."
+        ],
+        "Archibald T. Robertson": [
+            "Thou sayest (\u03c3\u03c5 \u03bb\u03b5\u03b3\u03b5\u03b9\u03c2). A real affirmative as in Luke 22:70.",
+            "The Gospels all give Pilate's question about Jesus asking of the Jews in precisely the same words.",
+            "The Gospels all give Pilate's question about Jesus asking of the Jews in precisely the same words."
+        ],
+        "John Gill": [
+            "Thou sayest it; that is, thou sayest well; it is as thou sayest, I am the King of the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even on the Cross, there is no alienation or condemnation between the Father and the Son. The soldiers, the council who delivered Him up, and all those who lack knowledge of the truth and the effects of sin do not fully comprehend what they are doing. Pilate's question about Jesus, which is recorded in the Gospels with the same words, implies his knowledge of the Messianic expectations of the Jews. Jesus affirms Pilate's question, confirming that He is indeed the King of the Jews.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.8515830193816711,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                43.75,
+                22.77,
+                33.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even on the Cross, there is no alienation or condemnation between the Father and the Son. The soldiers, the council who delivered Him up, and all those who lack knowledge of the truth and the effects of sin do not fully comprehend what they are doing. Pilate's question about Jesus, which is recorded in the Gospels with the same words, implies his knowledge of the Messianic expectations of the Jews. Jesus affirms Pilate's question, confirming that He is indeed the King of the Jews.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.8515830193816711,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                43.75,
+                22.77,
+                33.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even on the Cross, there is no alienation or condemnation between the Father and the Son. The soldiers, the council who delivered Him up, and all those who lack knowledge of the truth and the effects of sin do not fully comprehend what they are doing. Pilate's question about Jesus, implying his knowledge of Messianic expectations, is affirmed by Jesus as He confirms Himself to be the King of the Jews.",
+            "wordCount": 72,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.6552812492501745,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+            "commentatorTierSimilarities": [
+                48.01,
+                20.94,
+                31.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even on the Cross, there is no alienation or wrath of condemnation between the Father and the Son. Jesus's first three sayings on the Cross are for others, showing his compassion and forgiveness towards those who do not fully understand the impact of their actions. When Pilate questions Jesus about being the King of the Jews, Jesus affirms his identity, acknowledging that what Pilate says is true. This interaction between Pilate and Jesus is recorded in the same words across the Gospels, highlighting its significance.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.6965579882936057,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.75,
+            "commentatorTierSimilarities": [
+                49.93,
+                23.77,
+                26.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even on the Cross, there is no alienation or wrath between the Father and the Son. Jesus's first three sayings on the Cross are for others, showing his forgiveness and compassion. When Pilate questions Jesus about being the King of the Jews, Jesus affirms his identity, acknowledging that what Pilate says is true. This interaction is recorded in the same words across the Gospels, highlighting its significance.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6108810902365522,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                47.89,
+                24.14,
+                27.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

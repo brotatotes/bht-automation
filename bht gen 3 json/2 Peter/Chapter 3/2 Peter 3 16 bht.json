@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:41:08",
+    "verseRef": "2 Peter 3:16",
+    "bestBHT": {
+        "bht": "When studying religion as a science, the scriptures can sometimes appear obscure. It is important to remember that intelligence among the people is assumed in understanding the sacred Scriptures. Peter warns against the misuse of Scripture, acknowledging that there are certain parts that can be twisted and misinterpreted. However, it is crucial to reason soberly and not allow foolish and absurd speculations to distract us from the edifying truth that God has provided for our salvation.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.8846004846878879,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+        "commentatorTierSimilarities": [
+            21.22,
+            45.2,
+            33.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "There is scarce anything drawn from the obscure places, but the same in other places may be found most plain.\" ",
+            "When religion is studied as a science, nothing is more abstruse; when studied in order to know our duty and practice it, nothing is easier.",
+            "Men in each Church having miraculous discernment of spirits would have prevented any uninspired writing from being put on a par with the Old Testament word of God; the apostles' lives also were providentially prolonged...so that fraud in the canon is out of question."
+        ],
+        "Albert Barnes": [
+            "An honest heart, a willingness to receive the truth, is one of the best qualifications for understanding the writings of Paul; and when this exists, no one will fail to find truth that may be comprehended, and that will be eminently adapted to sanctify and save the soul.",
+            "Intelligence among the people is everywhere in the Bible presumed to be proper in understanding the sacred Scriptures; and ignorance may produce the same effects in interpreting the Bible which it will produce in interpreting other writings.",
+            "The way to prevent this evil is not by attempting to give to a community an authoritative interpretation of the Bible; it is to diffuse abroad just principles, that men may obtain from the Bible an intelligent view of what it means."
+        ],
+        "Marvin Vincent": [
+            "Hard to be understood.\" ",
+            "They that are unlearned and unstable.",
+            "Wrest. Meaning, originally, to hoist with a windless or screw; to twist or dislocate the limbs on a rack."
+        ],
+        "John Calvin": [
+            "We are reminded by these words, to reason soberly on things so high and obscure; and further, we are here strengthened against this kind of offense, lest the foolish or absurd speculations of men should disturb us, by which they entangle and distort simple truth, which ought to serve for edification.",
+            "For Peter condemns men who are trifling and volatile, who strangely turn to their own ruin what is useful to all. Nay, he says that this is commonly done as to all the Scripture: and yet he does not hence conclude, that we are not to read it, but only shews, that those vices ought to be corrected which prevent improvement, and not only so, but render deadly to us what God has appointed for our salvation.",
+            "It may, however, be asked, Whence is this obscurity, for the Scripture shines to us like a lamp, and guides our steps? To this I reply, that it is nothing to be wondered at, if Peter ascribed obscurity to the mysteries of Christ\u2019s kingdom, and especially if we consider how hidden they are to the perception of the flesh."
+        ],
+        "Philip Schaff": [
+            "The implicit testimony contained in this statement to the authority of certain writings as Scripture also deserves to be noticed.",
+            "What Peter is warning against, however, is the perils of a misuse of Scripture.",
+            "What he states is not that Scripture is unsafe in the hands of the people, but that there are certain things in it which are capable of being perverted by a particular class."
+        ],
+        "Archibald T. Robertson": [
+            "Paul also wrote about the second coming of Christ, as is obviously true.",
+            "Peter thus puts Paul's Epistles on the same plane with the O.T., which was also misused.",
+            "Peter does not say that he himself did not understand Paul on the subject of faith and freedom."
+        ],
+        "John Gill": [
+            "something of this kind is said in all his epistles.",
+            "The destruction of antichrist at his coming, which will be with the breath of his mouth, and the brightness of his coming; as also the resurrection of the dead...things not easily understood.",
+            "unlearned men may wrest them to their perdition, those that are taught of God, though otherwise illiterate, may read them to great profit and advantage."
+        ],
+        "John Wesley": [
+            "As also in all his epistles \u2014 St. Peter wrote this a little before his own and St. Paul's martyrdom.",
+            "Nor was he at all disgusted by what St. Paul had written concerning him in the Epistle to the Galatians.",
+            "Therefore St Paul's writings were now part of the scriptures."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When studying religion as a science, the scriptures can sometimes appear obscure. However, if approached with an honest heart and a willingness to receive the truth, one will find that the writings of Paul are comprehensible and capable of sanctifying and saving the soul. It is important to remember that intelligence among the people is assumed in understanding the sacred Scriptures, and ignorance can lead to misinterpretation. It is not the role of authority figures to give an authoritative interpretation, but rather to spread just principles so that individuals can obtain an intelligent understanding of the Scriptures. Peter warns against the misuse of Scripture, acknowledging that there are certain parts that can be twisted and misinterpreted. However, it is crucial to reason soberly and not allow foolish and absurd speculations to distract us from the edifying truth that God has provided for our salvation.",
+            "wordCount": 144,
+            "quoteTokenProportion": 36.46,
+            "qualityScore": 1.9326824781336274,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+            "commentatorTierSimilarities": [
+                21.0,
+                46.03,
+                32.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When studying religion as a science, the scriptures can sometimes appear obscure. It is important to remember that intelligence among the people is assumed in understanding the sacred Scriptures. Peter warns against the misuse of Scripture, acknowledging that there are certain parts that can be twisted and misinterpreted. However, it is crucial to reason soberly and not allow foolish and absurd speculations to distract us from the edifying truth that God has provided for our salvation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8846004846878879,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                21.22,
+                45.2,
+                33.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When studying religion as a science, the scriptures can sometimes appear obscure, but they become easier to understand when studied in order to know our duty and practice it. While there may be a risk of misinterpretation, unlearned and unstable individuals can twist and wrest the Scriptures. However, those who approach the scriptures with an honest heart and a willingness to receive the truth will find that they are eminently adapted to sanctify and save the soul. It is important to reason soberly and not allow foolish and absurd speculations to distort the simple truth that should serve for edification.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.7740701777969123,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                23.15,
+                44.13,
+                32.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When studying religion as a science, the scriptures can sometimes appear obscure, but they become easier to understand when studied in order to know our duty and practice it. While there may be a risk of misinterpretation, unlearned and unstable individuals can twist and wrest the Scriptures. However, those who approach the scriptures with an honest heart and a willingness to receive the truth will find that they are eminently adapted to sanctify and save the soul. It is important to reason soberly and not allow foolish and absurd speculations to distort the simple truth.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.7520979200243656,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                23.91,
+                43.74,
+                32.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When studying religion as a science, the scriptures can sometimes appear obscure, but they become easier to understand when studied in order to know our duty and practice it. While there may be a risk of misinterpretation, unlearned and unstable individuals can twist and wrest the Scriptures. However, those who approach the scriptures with an honest heart and a willingness to receive the truth will find that they are eminently adapted to sanctify and save the soul. It is important to reason soberly and not allow foolish and absurd speculations to distort the simple truth.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.7520979200243656,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                23.91,
+                43.74,
+                32.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

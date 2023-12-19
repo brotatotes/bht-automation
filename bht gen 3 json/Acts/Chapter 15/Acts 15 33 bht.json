@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:31:44",
+    "verseRef": "Acts 15:33",
+    "bestBHT": {
+        "bht": "Judas and Silas, having completed their time in Antioch, were let go in peace by the brethren, parting with affectionate regard and highest wishes for their journey. The Antioch brethren dismissed them with peace, the customary farewell expression. After experiencing the fervor and earnestness of the apostle Paul, Judas and Silas chose to align themselves with him. This unity and selflessness among the believers on both sides led them to join in doing good, valuing the blessings of God and resisting the enemy's attempts to disrupt their fellowship.",
+        "wordCount": 89,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.5592812619237322,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.19,
+        "commentatorTierSimilarities": [
+            16.23,
+            44.98,
+            38.79
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "33. were let go in peace\u2014with",
+            "\tpeace, as the customary parting salutation."
+        ],
+        "Albert Barnes": [
+            "A space - For some time.",
+            "They were let go in peace - An expression implying that they departed with the affectionate regard of the Christians to whom they had ministered, and with their highest wishes for their prosperity.",
+            "Unto the apostles - At Jerusalem. Many mss., however, instead of 'unto the apostles,' read 'unto those who had sent them.' The sense is not materially different."
+        ],
+        "John Calvin": [
+            "And yet did they give place to many more. Whereby it appeareth, that they had all one and the same desire without grudging, so that they joined hand in hand to do good.",
+            "Moreover, the blessing of God, which began straightway to appear again in that Church, is now again commended and extolled.",
+            "Which Church Satan went about \u2212 by his ministers miserably to scatter and lay waste."
+        ],
+        "Philip Schaff": [
+            "They were dismissed with peace; that is, once more, in a solemn meeting, the Antioch brethren took leave of the Jerusalem envoys with prayer and 'with peace,' the formula customary at parting.\" ",
+            "Judas and Silas both returned to Jerusalem to give account of their mission at Antioch.",
+            "Won over, no doubt, to a deep admiration of the single-hearted apostle by his earnestness and fervour, this prophet of the old mother Church attached himself henceforth to the fortunes of Paul."
+        ],
+        "Archibald T. Robertson": [
+            "Some time (\u03c7\u03c1\u03bf\u03bd\u03bf\u03bd). Accusative after \u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2, \"having done time.\" How long we do not know. "
+        ],
+        "John Gill": [
+            "They were dismissed, and went away with the leave and consent of the church; who returned them thanks for the service and good offices they had done them, and wished them all peace, prosperity, and happiness.",
+            "They left the church in perfect peace; an end being put to the controversy about circumcision, which was raised among them; and the members of the church being agreed in their sentiments, and heartily united in their affections to one another.",
+            "Thus Judas and Silas were honourably dismissed from the brethren, at Antioch, to the Apostles, at Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After spending some time in Antioch, Judas and Silas were let go in peace by the brethren. This farewell gesture demonstrated the genuine affection and highest wishes of the Christians for their prosperous journey. The Antioch brethren, grateful for their ministry, dismissed them with peace, the customary parting salutation. Judas and Silas then returned to Jerusalem to share an account of their mission at Antioch. Undoubtedly, they were deeply impressed by the earnestness and fervor of the apostle Paul, leading them to align themselves with his cause. The unity and selflessness of the believers in both churches is evident as they joined together to do good, placing a great value on the blessings of God and standing against the enemy's attempts to scatter and destroy their fellowship.",
+            "wordCount": 128,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4676694279433982,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+            "commentatorTierSimilarities": [
+                12.24,
+                47.44,
+                40.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After spending some time in Antioch, Judas and Silas were let go in peace, a customary parting salutation. The Antioch brethren bid them farewell with affectionate regard and wishes for their prosperity. Judas and Silas, having witnessed the earnestness and fervor of the apostle Paul, decided to align themselves with him. This unity and selflessness among the believers on both sides led them to join hand in hand in doing good, valuing the blessings of God and standing against the enemy's attempts to scatter and destroy their fellowship.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.500847946583121,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+            "commentatorTierSimilarities": [
+                15.0,
+                45.88,
+                39.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas and Silas, having completed their time in Antioch, were let go in peace by the brethren, parting with affectionate regard and highest wishes for their journey. The Antioch brethren dismissed them with peace, the customary farewell expression. After experiencing the fervor and earnestness of the apostle Paul, Judas and Silas chose to align themselves with him. This unity and selflessness among the believers on both sides led them to join in doing good, valuing the blessings of God and resisting the enemy's attempts to disrupt their fellowship.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.5592812619237322,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.19,
+            "commentatorTierSimilarities": [
+                16.23,
+                44.98,
+                38.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas and Silas, sent from Jerusalem to Antioch, were allowed to go in peace after some time, with the affectionate regard and highest wishes of the Christians. They departed with the customary farewell expression of peace, symbolizing the unity and good will among believers. Having witnessed the fervor and earnestness of the apostle Paul, Judas and Silas decided to align themselves with him, emphasizing the importance of unity and selflessness in doing good. This stands as a testimony to the blessings of God and the resolute resistance against the enemy's attempts to disrupt the fellowship of believers.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.4590235548086272,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.86,
+            "commentatorTierSimilarities": [
+                11.73,
+                48.59,
+                39.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas and Silas, having completed their time in Antioch, were dismissed by the brethren in peace, with heartfelt wishes for their prosperity. The expression of peace indicated the affectionate regard of the Christians towards them. Inspired by the fervor and earnestness of the apostle Paul, Judas and Silas joined him in his mission. The unity and selflessness demonstrated by the believers on both sides allowed them to stand together in doing good, valuing God's blessings and remaining steadfast against the enemy's attempts to disrupt their fellowship.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.4132316817235173,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.33,
+            "commentatorTierSimilarities": [
+                10.38,
+                48.25,
+                41.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

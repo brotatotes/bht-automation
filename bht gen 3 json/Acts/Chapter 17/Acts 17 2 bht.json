@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:32:34",
+    "verseRef": "Acts 17:2",
+    "bestBHT": {
+        "bht": "Paul, as was his custom, went to the Jewish synagogue to begin his ministry. This was notable since he had recently experienced mistreatment in Philippi. Paul's habit was to use the Jews and the God-fearers in the synagogue as a springboard for his work among the Gentiles. He appealed to the Scriptures as the basis of his ideas and proved that Jesus was the Messiah through them. Paul's unwavering commitment to preaching in the synagogues to his fellow Jews demonstrated his courage and steadfastness in spreading the Gospel.",
+        "wordCount": 91,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 2.314444448409965,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.3,
+        "commentatorTierSimilarities": [
+            37.52,
+            40.3,
+            22.19
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2. as his manner was] See the marginal references. Paul was most probably suffering still from his \u2018shameful treatment\u2019 at Philippi, 1 Thess. ii. 2."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul, as his manner was\u2014always to begin with the Jews.\" ",
+            "In writing to the converts but a few months after this, he reminds them of the courage and superiority to indignity, for the Gospel's sake.",
+            "This required after the shameful treatment he had so lately experienced at Philippi."
+        ],
+        "Albert Barnes": [
+            "His custom was to attend on the worship of the synagogue, and to preach the gospel to his countrymen first.\" ",
+            "Discoursed to them, or attempted to prove that Jesus was the Messiah.",
+            "Opening and alleging from the scriptures that Christ must needs have suffered, etc."
+        ],
+        "John Calvin": [
+            "Let us handle this second member first. Luke saith that he disputed out of the Scriptures; therefore the proofs of faith must be fet from [sought at] the mouth of God alone.",
+            "Whereby it doth also appear with what devilish fury the Papists are driven, when they deny that there can any certainty be gathered out of the Scriptures; and, therefore, they hold that we must stand to the decrees of men.",
+            "But let us know, as faith can be grounded nowhere else than in the Word of the Lord, so we must only stand to the testimony thereof in all controversies."
+        ],
+        "Philip Schaff": [
+            "And Paul, as his manner was. Cf. Luke 4:16. Paul imitates his loved Master, who, we read, \u2018as His custom was, went into the synagogue on the Sabbath day.\u2019",
+            "Three Sabbath days. Paul\u2019s invariable custom was in the first instance to address himself to Jews, and only after he had given his message to the chosen people to turn to the Gentile inhabitants of the place.",
+            "Out of the Scriptures. When Paul spoke of Jesus to the Jews, it is noticeable he never appealed to His miracles, but always referred them to their own Scriptures, every letter of which they valued as Divine."
+        ],
+        "Archibald T. Robertson": [
+            "Paul's habit was to go to the Jewish synagogue to use the Jews and the God-fearers as a springboard for his work among the Gentiles.",
+            "Paul implies an extended stay by his language in 1 Thessalonians 1:8.",
+            "With these Jews and God-fearers Paul appealed to the Scriptures as text and basis (\u03b1\u03c0\u03bf) of his ideas."
+        ],
+        "John Gill": [
+            "To the Jews in their synagogue; for though the Jews had put away the Gospel from them, and the apostle had turned to the Gentiles; yet he still retained a great affection for his countrymen the Jews, and as often as he had opportunity, attended their synagogues, in order to preach the Gospel to them.",
+            "Out of the Old Testament, concerning the Messiah, the characters of him, the work that he was to do, and how he was to suffer and die for the sins of men.",
+            "And this he did three weeks running, going to their synagogue every sabbath day, when and where the Jews met for worship; and made use of books, which they allowed of, and of arguments they could not disprove."
+        ],
+        "John Wesley": [
+            "And Paul, according to his custom \u2014 Of doing all things, as far as might be, in a regular manner...",
+            "...went in to them three Sabbath days...",
+            "...Not excluding the days between."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, as was his custom, went to the Jewish synagogue to begin his ministry. This was notable since he had recently experienced mistreatment in Philippi. Paul's habit was to use the Jews and the God-fearers in the synagogue as a springboard for his work among the Gentiles. He appealed to the Scriptures as the basis of his ideas and proved that Jesus was the Messiah through them. Paul's unwavering commitment to preaching in the synagogues to his fellow Jews demonstrated his courage and steadfastness in spreading the Gospel.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.314444448409965,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.3,
+            "commentatorTierSimilarities": [
+                37.52,
+                40.3,
+                22.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, as his manner was, went to the Jewish synagogue to use the Jews and the God-fearers as a springboard for his work among the Gentiles. He appealed to the Scriptures as the basis of his ideas and proved that Jesus was the Messiah through them. This required courage and superiority to indignity, especially after the shameful treatment he had recently experienced. Paul's unwavering commitment to preaching in the synagogues to his fellow Jews demonstrated his resilience and dedication in spreading the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.2423735178772226,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.9,
+            "commentatorTierSimilarities": [
+                38.39,
+                39.15,
+                22.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, as his manner was, went to the Jewish synagogue to use the Jews and the God-fearers as a springboard for his work among the Gentiles. He appealed to the Scriptures as the basis of his ideas and proved that Jesus was the Messiah through them. This required courage and superiority to indignity, especially after the shameful treatment he had recently experienced. Paul's unwavering commitment to preaching in the synagogues to his fellow Jews demonstrated his resilience and dedication in spreading the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.2423735178772226,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.9,
+            "commentatorTierSimilarities": [
+                38.39,
+                39.15,
+                22.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, as his manner was, went to the Jewish synagogue to use the Jews and the God-fearers as a springboard for his work among the Gentiles. He appealed to the Scriptures as the basis of his ideas and proved that Jesus was the Messiah through them. This required courage and superiority to indignity, especially after the shameful treatment he had recently experienced. Paul's unwavering commitment to preaching in the synagogues to his fellow Jews demonstrated his resilience and dedication to spreading the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.240427632909931,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.83,
+            "commentatorTierSimilarities": [
+                38.38,
+                39.16,
+                22.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, as his manner was, went to the Jewish synagogue to use the Jews and the God-fearers as a springboard for his work among the Gentiles. He appealed to the Scriptures as the basis of his ideas and proved that Jesus was the Messiah through them. This required courage, especially after the shameful treatment he had recently experienced. Paul's commitment to preaching in the synagogues to his fellow Jews demonstrated his resilience and dedication in spreading the Gospel.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2502468943519283,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                38.75,
+                39.28,
+                21.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

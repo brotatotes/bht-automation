@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:13:08",
+    "verseRef": "1 Corinthians 14:13",
+    "bestBHT": {
+        "bht": "Those who speak in unknown tongues are urged to pray for the gift of interpretation, notes the apostle Paul. By praying with the intention of obtaining the ability to interpret, their words can become edifying to the church. Praying in an unknown tongue serves as a means to obtain the spiritual gift of interpreting, which allows the message to be understood and beneficial to the listeners. It is advised for individuals with this gift to pray fervently for the ability to interpret, thus enhancing the spiritual growth of the church.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.6586487638529928,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.74,
+        "commentatorTierSimilarities": [
+            34.29,
+            38.58,
+            27.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "13.] Hortatory inference from the fore-going examples."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Explain, 'Let him who speaketh with a tongue [unknown] in his prayer (or, when praying) strive that he may interpret.'",
+            "Though his words be unintelligible to his hearers, let him in them pray that he may obtain the gift of interpreting, which will make them 'edifying' to 'the church.'",
+            "This explanation of 'pray' is needed by its logical connection with 'prayer in an unknown tongue.'"
+        ],
+        "Albert Barnes": [
+            "The truth seems to have been, that these extraordinary endowments of the Holy Spirit were bestowed upon people in some such way as 'ordinary' talents and mental powers are now conferred...",
+            "The apostle, therefore, directs such, if any there were, instead of priding themselves on their endowments, and instead of always speaking in an unknown tongue, which would he useless to the church, to 'pray' for the more useful gift of being able to convey their thoughts in a clear and intelligible manner in their vernacular tongue.",
+            "The truths, therefore, that they had the power of speaking with eminent ability in a foreign language, they ought to desire to be able to 'interpret' so that they would be intelligible to the people whom they addressed in the church."
+        ],
+        "Marvin Vincent": [
+            "Pray that he may interpret...use his unknown tongue in prayer, which, above all other spiritual gifts, would minister to the power of interpreting."
+        ],
+        "John Calvin": [
+            "If any one, therefore, is able to speak a foreign language, will the gift be useless? Why should that be kept back, which might be brought out to light, to the glory of God?",
+            "Let him ask from God the gift of interpretation also.",
+            "If he is without this, let him abstain in the meantime from ostentation."
+        ],
+        "Philip Schaff": [
+            "Let him that speaketh in a tongue pray i.e. pray \u2018in the spirit,\u2019 that he may interpret.\" ",
+            "Not \u2018pray for the gift of interpretation\u2019 (as most of the old interpreters understood it), but so pray in the unknown tongue as having in view the need of interpretation to give the sense of his prayer.\" ",
+            "What follows shews this to be the meaning (and so in substance Bengel, De Wette, Osiander, Meyer, and Alford understand it)."
+        ],
+        "Archibald T. Robertson": [
+            "Let him pray that he may interpret (\u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03b5\u03c3\u03b8\u03c9 \u03b9\u03bd\u03b1 \u03b4\u03b9\u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03c5\u03b7). Else he had better cease talking in a tongue. "
+        ],
+        "John Gill": [
+            "Wherefore let him that speaketh in an unknown tongue...pray that he may interpret.\" ",
+            "A man might speak in an unknown tongue, so as to understand himself, what he said, and be edified, and yet not be capable of translating it at once into the common language of the people.",
+            "If he could not do this, he would not excel in his gift to the edification of the church; whereas if he could interpret he would, and therefore, above all things, he should pray to the Father of lights."
+        ],
+        "John Wesley": [
+            "That he may be able to interpret - Which was a distinct gift."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For those who speak in tongues, it is crucial that they also pray to be able to interpret their words. The apostle Paul urges them to strive for the gift of interpretation so that their speech may be edifying to the church. This implies that praying in an unknown tongue can be a form of prayer if it is done with the intention of obtaining the ability to interpret. The ability to interpret is necessary to convey thoughts clearly and intelligibly, making the message accessible to the listeners. Therefore, it is advisable for those who possess the gift of speaking in tongues to earnestly pray for the gift of interpretation, which will enhance the edification and understanding of the church.",
+            "wordCount": 120,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.53506340711062,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.63,
+            "commentatorTierSimilarities": [
+                32.65,
+                40.33,
+                27.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For those who speak in tongues, it is essential for them to pray and strive to interpret their words. Paul encourages them to pray for the gift of interpretation, as this will make their speech meaningful and beneficial to the church. Praying in an unknown tongue can be a form of prayer, but it should be done with the purpose of obtaining the ability to interpret. The ability to interpret allows the message to be understood and edifying to the listeners. Therefore, those who possess the gift of speaking in tongues should fervently pray for the gift of interpretation to enhance the edification of the church.",
+            "wordCount": 106,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.5358901793995825,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.66,
+            "commentatorTierSimilarities": [
+                33.25,
+                39.81,
+                26.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For individuals who speak in unknown tongues, the apostle Paul encourages them to strive for the gift of interpretation. By praying to be able to interpret their words, they can make their speech edifying and beneficial to the church. It is important for them to understand that praying in an unknown tongue can be a form of prayer, specifically when done with the intent of obtaining the gift of interpretation. This ability allows them to convey their thoughts clearly and intelligibly, ensuring that the message is accessible and comprehensible to the listeners.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.4308568895808405,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.17,
+            "commentatorTierSimilarities": [
+                32.21,
+                40.35,
+                27.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For those who possess the gift of speaking in unknown tongues, the apostle Paul encourages them to pray in order to also obtain the gift of interpretation. By praying to interpret their words, they can make their speech meaningful and useful for the church. Paul emphasizes the importance of praying in an unknown tongue, recognizing that this form of prayer has the potential to minister to the power of interpreting. Thus, it is vital for individuals with this gift to fervently pray for the ability to interpret, enhancing the edification of the church.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.5877582504963197,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.38,
+            "commentatorTierSimilarities": [
+                34.34,
+                39.4,
+                26.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who speak in unknown tongues are urged to pray for the gift of interpretation, notes the apostle Paul. By praying with the intention of obtaining the ability to interpret, their words can become edifying to the church. Praying in an unknown tongue serves as a means to obtain the spiritual gift of interpreting, which allows the message to be understood and beneficial to the listeners. It is advised for individuals with this gift to pray fervently for the ability to interpret, thus enhancing the spiritual growth of the church.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.6586487638529928,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.74,
+            "commentatorTierSimilarities": [
+                34.29,
+                38.58,
+                27.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:18:15",
+    "verseRef": "Luke 11:8",
+    "bestBHT": {
+        "bht": "Persistence and shamelessness in prayer are highlighted here. The term importunity is considered too weak; it should mean shamelessness. It implies persisting in the face of reasonable refusals and continuing to knock and ask. The parables of Abraham's intercession for Sodom and the Syro-Phoenician woman illustrate importunate prayer. The idea is that through determined perseverance and unwavering persistence, we can move God to answer our prayers, just as a reluctant friend can be compelled to help when persistently asked.",
+        "wordCount": 81,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.5220003315559616,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.95,
+        "commentatorTierSimilarities": [
+            33.86,
+            40.42,
+            25.72
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word is too mildly rendered in the A.V. by \u2018importunity.\u201d",
+            "It should be, as in margin, shamelessness.",
+            "It is presupposed here that the postulant goes on knocking and asking."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "importunity\u2014The word is a strong one\u2014\"shamelessness\"; persisting in the face of all that seemed reasonable, and refusing to take a denial.\" (Luke 11:8).",
+            "His reluctance once overcome, all the claims of friendship and necessity are felt to the full.\" (Luke 11:8).",
+            "If the churlish and self-indulgent\u2014deaf both to friendship and necessity\u2014can after a positive refusal, be won over, by sheer persistency, to do all that is needed, how much more may the same determined perseverance in prayer be expected to prevail with Him whose very nature is 'rich unto all that call upon Him'\" (Luke 11:8)."
+        ],
+        "Albert Barnes": [
+            "Knocking 'once' would not denote 'importunity,' but it was because he 'continued' knocking.\" ",
+            "He often causes his people long to wait. He tries their faith. He leaves them to persevere for months or years, until they 'feel' entirely their dependence on him...until they are 'prepared' to receive it.",
+            "Let us first ask aright; let us see that our minds are in a proper state; let us feel our need of the blessing; let us inquire whether God has 'promised such' a blessing, and 'then' let us persevere until God gives it."
+        ],
+        "Marvin Vincent": [
+            "A very striking word to describe persistence...Lit., shamelessness.\" ",
+            "As related to prayer, it is illustrated in the case of Abraham\u2019s intercession for Sodom...",
+            "and of the Syro-Phoenician woman."
+        ],
+        "Philip Schaff": [
+            "Luke 11:8. Importunity, lit, \u2018shamelessness.\u2019 The persistent knocking and asking, unshamed by refusal, not ashamed to endure, is thus brought out.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Because he is his friend.",
+            "Yet because of his importunity.",
+            "As examples of importunate prayer."
+        ],
+        "John Gill": [
+            "though mere friendship will not influence and engage him to rise from his bed",
+            "yet because of his importunity, he will rise and give him as many as he needeth",
+            "to show the force of importunity, where friendship, as here, and the fear of God, and regard of men, which were wanting there, have no influence"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the importance of persistence and shamelessness in prayer. It suggests that when we consistently knock and ask, refusing to take no for an answer, we may eventually prevail with God. This idea is illustrated by the parables of Abraham's intercession for Sodom and the Syro-Phoenician woman. Just as a reluctant friend can be won over by determined perseverance, so too can God be moved by our persistent prayers. Even though friendship alone may not compel someone to help us, importunity, or shameless persistence, can have a powerful effect. Therefore, we are encouraged to pray with unwavering persistence, confident that God will respond to our needs.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.5525780200740287,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.97,
+            "commentatorTierSimilarities": [
+                25.5,
+                36.48,
+                38.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Persistence and shamelessness in prayer are emphasized in this passage. The term importunity is said to be too mild, as it should imply shamelessness or persisting despite reasonable refusals. The parables of Abraham and the Syro-Phoenician woman illustrate the power of persistent prayer. Just as a reluctant friend can be persuaded, so can God be moved by our unrelenting requests. Even when friendship alone may not be enough, shameless persistence can have a profound effect. Thus, we are encouraged to pray with unwavering determination, assured that God will meet our needs.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.490285306202317,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.89,
+            "commentatorTierSimilarities": [
+                30.37,
+                35.02,
+                34.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The concept of shameless persistence in prayer is underscored in this verse. The term importunity is deemed too mild and should instead connote persisting unashamedly despite reasonable refusals. Abraham's intercession for Sodom and the story of the Syro-Phoenician woman exemplify importunate prayer. By illustrating how even a reluctant friend could be won over through determined perseverance, the passage emphasizes how our persistent prayers can move God, whose nature is to generously respond to those who call upon Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.510339821133634,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.56,
+            "commentatorTierSimilarities": [
+                35.13,
+                40.19,
+                24.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Persistence and shamelessness in prayer are highlighted here. The term importunity is considered too weak; it should mean shamelessness. It implies persisting in the face of reasonable refusals and continuing to knock and ask. The parables of Abraham's intercession for Sodom and the Syro-Phoenician woman illustrate importunate prayer. The idea is that through determined perseverance and unwavering persistence, we can move God to answer our prayers, just as a reluctant friend can be compelled to help when persistently asked.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5220003315559616,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.95,
+            "commentatorTierSimilarities": [
+                33.86,
+                40.42,
+                25.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Persistence in prayer is emphasized in this verse, suggesting the importance of shameless perseverance. The term importunity is considered too mild and should reflect shamelessness and persisting despite refusals. The parables of Abraham's intercession for Sodom and the Syro-Phoenician woman demonstrate importunate prayer. Through determined perseverance, we can overcome reluctance and move God to answer our prayers. Even though mere friendship may not be enough to persuade, shameless persistence can have a powerful impact. Therefore, we are encouraged to pray persistently, confident that God will provide.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.5066478794726375,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.44,
+            "commentatorTierSimilarities": [
+                29.2,
+                36.65,
+                34.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

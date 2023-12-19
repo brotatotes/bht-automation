@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:18:09",
+    "verseRef": "2 Corinthians 10:13",
+    "bestBHT": {
+        "bht": "We should be cautious of boasting excessively and measuring ourselves against others, as this can lead to an unlimited self-opinion. Instead, our boast should be limited to the measure of the work God has assigned to us. Paul, in defending his apostolic authority, recognizes that his boasting is confined to the boundaries appointed by God. He reaches even to the Corinthians within these limits, faithfully fulfilling his commission. It is important to acknowledge the measure and province assigned to us by God, avoiding any desire to extend beyond it.",
+        "wordCount": 90,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 2.07973240755597,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.49,
+        "commentatorTierSimilarities": [
+            36.24,
+            32.43,
+            31.33
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We will not boast without measure, as they do who compare themselves with themselves, and measure themselves by themselves\u2014for there is no standard for, no limit to, a man\u2019s good opinion of himself.\" ",
+            "According to the measure of the rule which God apportioned to us as a measure to reach even unto you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is no limit to a man's high opinion of himself, so long as he measures himself by himself and his fellows, and does not compare himself with his superiors.",
+            "Undeterred by the charge of vanity, he felt he must vindicate his apostolic authority by facts.",
+            "Paul's 'measure' is the apportionment of his sphere of Gospel labors ruled for him by God."
+        ],
+        "Albert Barnes": [
+            "Paul says that he had not boldness as they had to boast of things wholly beyond his proper rule and his actual attainments and influence...",
+            "He made no boast of having done anything where he had not been himself on the ground and labored assiduously to secure the object.",
+            "Paul means to say that God had appropriated a certain line or boundary as the proper limit of his sphere of action; that his appropriate sphere extended to them; that in going to them...he had confined himself within the proper limits assigned him by God..."
+        ],
+        "Marvin Vincent": [
+            "Rule: that which measures or determines anything, in morals, art, or language.",
+            "His boasting of his apostolic labors is... confined to the sphere appointed for him.",
+            "The measure is given by God's measuring line... his boasting extends only to this limit."
+        ],
+        "John Calvin": [
+            "Has the Lord given me such a thing? I shall be satisfied with this measure. I shall not either desire or claim to myself any thing more.",
+            "It is not lawful for us to glow in God\u2019s gift and calling on our own account, but merely in so far as it is expedient for the glory of him, who is so liberal to us with this view.",
+            "He carries out, however, the form of expression, which he had previously entered upon. 'I have,' says he, 'a most ample field for glorying, so as not to go beyond my own limits, and you are one department of that field.' He modestly reproves, however, their ingratitude, in overlooking, in a manner, his apostleship, which ought to have been especially in estimation among them."
+        ],
+        "Philip Schaff": [
+            "We go simply by the line of action divinely assigned to us, and not beyond it.",
+            "Corinth being probably up to this time the utmost limit westward which his commission had 'reached', he says he was only fulfilling it in his ministry there.",
+            "The next verse expresses this more nakedly."
+        ],
+        "Archibald T. Robertson": [
+            "Beyond our measure (\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b1\u03bc\u03b5\u03c4\u03c1\u03b1). 'Into the unmeasured things,' 'the illimitable.' Old word, here only in N.T.",
+            "Of the province (\u03c4\u03bf\u03c5 \u03ba\u03b1\u03bd\u03bf\u03bd\u03bf\u03c2). Old word (\u03ba\u03b1\u03bd\u03bd\u03b1 like Hebrew) a reed, a measuring rod. Numerous papyri examples for measuring rod and rules (our word canon). Only twice in N.T., here (also verse 2 Corinthians 10:15; 2 Corinthians 10:16) and Galatians 6:16 (rule to walk by).",
+            "To reach even unto you (\u03b5\u03c6\u03b9\u03ba\u03b5\u03c3\u03b8\u03b1 \u03b1\u03c7\u03c1 \u03ba\u03b1 \u03c5\u03bc\u03c9\u03bd). Second aorist middle infinitive of \u03b5\u03c6\u03b9\u03ba\u03bd\u03b5\u03bf\u03bc\u03b1, old verb, only here and verse 2 Corinthians 10:14 in N.T. Paul's measuring-rod extends to Corinth."
+        ],
+        "John Gill": [
+            "They would not glory in, and boast of actions, that were never done by them, within the compass of their ministration.",
+            "The places or parts of the world, which God in his secret purpose had fixed, and in his providence directed them to preach in.",
+            "The line of their ministration was drawn, or the bounds of their preaching were carried from Judea, and through all the intermediate places to Corinth, so that the Corinthians were properly under the jurisdiction of the apostles."
+        ],
+        "John Wesley": [
+            "But we will not, like them, boastingly extend ourselves beyond our measure...",
+            "...according to the measure of the province which God hath allotted us...",
+            "...God allotted to each apostle his province, and the measure or bounds thereof."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is important to avoid boasting excessively or comparing oneself with others because there is no limit to a person's inflated self-opinion when they measure themselves by themselves. Instead, our boasting should be based on the measure of our work that God has assigned to us. Paul defends his apostolic authority and the extent of his labors, which are confined to the sphere appointed for him by God. His measure and rule determine the limits of his boasting, which only extend to the areas assigned to him by God. Paul's ministry reaches even to the Corinthians, as he fulfills his commission within the boundaries set by God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 2.1863778319872385,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                37.21,
+                32.29,
+                30.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Boasting without measure or comparing ourselves to others leads to an unlimited self-opinion. Instead, we should boast in the measure of the work God has assigned to us. Paul defends his apostolic authority and labors within his God-appointed sphere. His boasting is confined to the areas God has given him, including reaching the Corinthians. Paul fulfills his commission within the boundaries set by God.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.0792792357681256,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+            "commentatorTierSimilarities": [
+                37.76,
+                32.76,
+                29.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We should be cautious when boasting, avoiding an unlimited self-opinion that arises from comparing ourselves to others. Instead, our boast should be based on the measure of the work assigned to us by God. Paul, undeterred by accusations of vanity, defends his apostolic authority. He asserts that his boasting is confined to the sphere of his God-given labors. This measure determines the extent of his boasting, which reaches even to the Corinthians. Paul faithfully fulfills his commission, staying within the boundaries appointed by God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.98420263978332,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                40.29,
+                32.33,
+                27.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Comparing ourselves to others and boasting without measure can lead to an unlimited self-opinion. However, we should base our boast on the measure of the work given to us by God. Paul defends his apostolic authority and confines his boasting to the sphere assigned to him. He reaches even the Corinthians within these limits, faithfully fulfilling his commission. It is crucial to recognize the boundaries set by God and avoid exceeding our measure or boasting beyond our allotted province.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.0646714709807514,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.99,
+            "commentatorTierSimilarities": [
+                37.34,
+                30.5,
+                32.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We should be cautious of boasting excessively and measuring ourselves against others, as this can lead to an unlimited self-opinion. Instead, our boast should be limited to the measure of the work God has assigned to us. Paul, in defending his apostolic authority, recognizes that his boasting is confined to the boundaries appointed by God. He reaches even to the Corinthians within these limits, faithfully fulfilling his commission. It is important to acknowledge the measure and province assigned to us by God, avoiding any desire to extend beyond it.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.07973240755597,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.49,
+            "commentatorTierSimilarities": [
+                36.24,
+                32.43,
+                31.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

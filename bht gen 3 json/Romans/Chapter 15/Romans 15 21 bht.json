@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:10:11",
+    "verseRef": "Romans 15:21",
+    "bestBHT": {
+        "bht": "Paul, driven by his ambition to share the gospel with the Gentiles, saw a reflection of his purpose in the words of Isaiah. Although some scholars question the authenticity of these verses, Paul firmly believed that he was fulfilling a prophetic ministry. By quoting Isaiah, he aimed to justify his approach of preaching in uncharted territories. Paul's mission was to bring the message of Christ to those who had not yet heard it, allowing them to understand the mysteries of God and find salvation through faith.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 2.0391579242904014,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+        "commentatorTierSimilarities": [
+            45.6,
+            22.92,
+            31.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "It was revealed that the gospel should be preached to the Gentiles; and he regarded it as a high honor to be the instrument of carrying this prediction into effect.",
+            "This is not literally quoted, but the sense is retained.",
+            "The design of quoting it is to justify the principle on which the apostle acted."
+        ],
+        "John Calvin": [
+            "Hence the apostleship of Paul was made evident from this circumstance, \u2014 that this prophecy was fulfilled in him.",
+            "It is absurd for any one to attempt to apply what is here said to the pastoral office.",
+            "Paul then was a preacher of Christ, yet unknown to foreign nations, for this end, \u2014 that after his departure the same doctrine should be daily proclaimed in every place by the mouth of the pastors."
+        ],
+        "Philip Schaff": [
+            "But, preaching the gospel in this way, not where others had preached...",
+            "...according to this rule of Scripture...",
+            "...the wide extension of the Messiah\u2019s kingdom being the main thought."
+        ],
+        "Archibald T. Robertson": [
+            "Paul finds an illustration of his word about his own ambition in the words of Isaiah.",
+            "Fritzsche actually argues that Paul understood Isaiah to be predicting his (Paul's) ministry!",
+            "Some scholars have argued against the genuineness of verses Romans 15:9-21 on wholly subjective and insufficient grounds."
+        ],
+        "John Gill": [
+            "The Gentiles were to see him whom they had no account of; not in the flesh with their bodily eyes, in which sense only, or at least chiefly, the Jews saw him; but with the eyes of their understanding, by faith.",
+            "They would understand the mind and will of God, the mysteries of his grace, the nature of the person and offices of Christ, the design of his coming into the world, and the way of salvation by him.",
+            "The kings and nations of the world, who are represented as struck with silence and wonder, when, upon the preaching and hearing of the Messiah, they should see him by faith, and spiritually understand what is declared concerning him."
+        ],
+        "John Wesley": [
+            "Isaiah 52:15."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in his ambition to preach the gospel to the Gentiles, finds an illustration of his purpose in the words of Isaiah, going so far as to suggest that Isaiah predicted his own ministry. While some scholars have questioned the authenticity of these verses, it is clear that Paul saw himself as the instrument for bringing the gospel to those who had not yet heard it. By quoting Isaiah, Paul sought to justify his principle of preaching the gospel where it had not yet been proclaimed. The main idea behind this quotation is the wide extension of the Messiah's kingdom, with Paul fulfilling the prophecy that the Gentiles would see and understand the mysteries of God, the person and offices of Christ, and the way of salvation.",
+            "wordCount": 128,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.230433828956134,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.5,
+            "commentatorTierSimilarities": [
+                42.19,
+                25.62,
+                32.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, finding inspiration in the words of Isaiah, sees his ambition to preach to the Gentiles reflected in the prophecy. Despite some scholars challenging the genuineness of these verses, Paul firmly believed that it was his calling to carry out the prediction. By quoting Isaiah, the apostle sought to justify his approach of preaching the gospel where others had not yet gone. His goal was to bring the message of Christ to the Gentiles, enabling them to understand the mysteries of God and the path to salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.0223741403713644,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+            "commentatorTierSimilarities": [
+                43.42,
+                24.46,
+                32.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Drawing inspiration from Isaiah's words, Paul saw his ambition to preach the gospel to the Gentiles fulfill a prophecy. Even though some scholars question the authenticity of these verses, Paul strongly believed in his calling to carry out this prediction. Quoting Isaiah, he aimed to justify his approach of preaching where others had not yet gone. Paul's mission was to bring the message of Christ to the Gentiles, allowing them to understand the mysteries of God and find salvation through faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.0143393774799083,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.32,
+            "commentatorTierSimilarities": [
+                44.54,
+                23.93,
+                31.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Drawing on Isaiah's words, Paul found affirmation for his ambition to preach the gospel to the Gentiles. Despite the debate around the genuineness of these verses, Paul firmly believed that he was chosen to fulfill this prophecy. By quoting Isaiah, he sought to justify his approach of preaching where others had not yet gone. Paul's mission was to bring the message of Christ to the Gentiles, enabling them to comprehend the mysteries of God and find salvation through faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9921383023897015,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.58,
+            "commentatorTierSimilarities": [
+                44.3,
+                23.41,
+                32.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, driven by his ambition to share the gospel with the Gentiles, saw a reflection of his purpose in the words of Isaiah. Although some scholars question the authenticity of these verses, Paul firmly believed that he was fulfilling a prophetic ministry. By quoting Isaiah, he aimed to justify his approach of preaching in uncharted territories. Paul's mission was to bring the message of Christ to those who had not yet heard it, allowing them to understand the mysteries of God and find salvation through faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.0391579242904014,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "commentatorTierSimilarities": [
+                45.6,
+                22.92,
+                31.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

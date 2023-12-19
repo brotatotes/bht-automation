@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:16:32",
+    "verseRef": "2 Corinthians 6:13",
+    "bestBHT": {
+        "bht": "As a recompense for my love and affection towards you, I ask that you also open your hearts towards me. Just as my heart is enlarged towards you, I desire the same kind of openness and love in return. Let your affection for me mirror mine for you, as I speak to you as a spiritual father to his children. So, be not restrained in your affections but freely open your hearts to me, that we may have a mutual bond of love and unity.",
+        "wordCount": 85,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 1.921244164195309,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+        "commentatorTierSimilarities": [
+            17.59,
+            46.8,
+            35.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "As a recompense in the same kind . . . be enlarged also yourselves\" - [ELLICOTT].",
+            "In the same way\" as my heart is enlarged towards you.",
+            "As a recompense\" for it."
+        ],
+        "Albert Barnes": [
+            "By way of recompence, open your hearts in the same manner toward me as I have done toward you.",
+            "I sustain toward you the relation of a spiritual father, and I have a right to require and expect a return of affection.",
+            "Be not straitened in your affections. Love me as I love you. Give to me the same proofs of attachment which I have given you."
+        ],
+        "John Calvin": [
+            "For as it is the duty of parents to nourish their children, to instruct them, to direct them by their counsel, and to defend them, so it is the dictate of equity, that children should requite their parents.",
+            "I cherish, says he, towards you paternal affection: show yourselves then to be my sons by affection and respect in return.",
+            "That the Corinthians, having found so indulgent a father, may also show gentleness in their turn, and may requite his kind condescension by their docility."
+        ],
+        "Philip Schaff": [
+            "Now for a recompense in like kind (I speak as unto my children), be ye also enlarged.",
+            "As a spiritual father to his children in the faith, let me ask you to open your hearts frankly to me, as mine is opened to you.",
+            "Suffer me now freely to counsel you."
+        ],
+        "Archibald T. Robertson": [
+            "No example of this expressive word outside of this passage and Romans 1:27 and later Christian writers.\" ",
+            "Paul may have found it in use in the Koine vernacular or he may have coined it from \u03b1\u03bd\u03c4\u03b9\u03bc\u03b9\u03c3\u03b8\u03bf\u03c2, remunerating (paying back).\" ",
+            "Be ye also enlarged (\u03c0\u03bb\u03b1\u03c4\u03c5\u03bd\u03b8\u03b7\u03c4\u03b5 \u03ba\u03b1 \u03c5\u03bc\u03b5\u03b9\u03c2). As I have been (verse 2 Corinthians 6:11)."
+        ],
+        "John Gill": [
+            "That your love to me may answer mine to you; that as you have my heart, I may have yours",
+            "the same room in your heart, as you have in mine",
+            "be ye also enlarged; in your love to me, as I am to you"
+        ],
+        "John Wesley": [
+            "Now for a recompence of the same \u2014 Of my parental tenderness.",
+            "I speak as to my children \u2014 I ask nothing hard or grievous.",
+            "Be ye also enlarged \u2014 Open your hearts, first to God, and then to us, that God may 'dwell in you'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As a recompense in the same kind, open your hearts in the same manner towards me as I have done towards you. I sustain towards you the relation of a spiritual father, and I have a right to require and expect a return of affection. Let me ask you to freely counsel you and show yourselves to be my sons by affection and respect in return. Open your hearts, first to God, and then to us, that God may 'dwell in you'.",
+            "wordCount": 82,
+            "quoteTokenProportion": 53.19,
+            "qualityScore": 1.7955409129149942,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+            "commentatorTierSimilarities": [
+                16.83,
+                48.67,
+                34.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As a recompense in the same kind, open your hearts towards me as I have done towards you. I sustain towards you the relation of a spiritual father and have a right to expect affection in return. Let me freely counsel you as my sons and show yourselves to be my sons by affection and respect. Open your hearts to God and to us, so that God may dwell in you.",
+            "wordCount": 71,
+            "quoteTokenProportion": 55.81,
+            "qualityScore": 1.7972773593332492,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                16.84,
+                47.89,
+                35.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As a recompense for my love and affection towards you, I ask that you also open your hearts towards me. Just as my heart is enlarged towards you, I desire the same kind of openness and love in return. Let your affection for me mirror mine for you, as I speak to you as a spiritual father to his children. So, be not restrained in your affections but freely open your hearts to me, that we may have a mutual bond of love and unity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.921244164195309,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                17.59,
+                46.8,
+                35.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As a recompense for my love and affection towards you, I ask that you also open your hearts towards me. Just as my heart is enlarged towards you, I desire the same kind of openness and love in return. Let your affection for me mirror mine for you, as I speak to you as a spiritual father to his children. So, be not restrained in your affections but freely open your hearts to me, that we may have a mutual bond of love and unity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.921244164195309,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                17.59,
+                46.8,
+                35.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In response to the love and affection I have shown towards you, I ask that you also expand your hearts towards me. Just as I have opened my heart to you, I desire the same openness and love in return. Let the affection you have for me reflect the affection I have for you, as I speak to you as a spiritual father to his children. So, do not withhold your affections but freely open your hearts to me, creating a bond of love and unity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 1.7887075091093356,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                14.15,
+                49.61,
+                36.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

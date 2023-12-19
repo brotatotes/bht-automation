@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:27:58",
+    "verseRef": "Acts 8:3",
+    "bestBHT": {
+        "bht": "Saul, with ruthless zeal, made havock of the church, like a wild beast ravaging and devastating it, entering every house as an inquisitor. The weight of his remorse can be seen in the separate passages that allude to this dark period, where he was burdened with guilt and subject to taunts from his enemies. This organized persecution was not limited to men only, as even women bravely faced it. Despite their efforts, the church was not completely destroyed, thanks to God's protective hand.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.9086310849534933,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+        "commentatorTierSimilarities": [
+            32.17,
+            38.38,
+            29.45
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3. made havock of] The word so rendered is properly used of wild beasts or of hostile armies, devastating and ravaging."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Saul . . . entering into every house\u2014like as inquisitor.",
+            "See his own affecting confessions afterwards.",
+            "Acts 22:4 Acts 26:9; Acts 26:10; 1 Corinthians 15:9; Galatians 1:13; Philippians 3:6; 1 Timothy 1:13."
+        ],
+        "Albert Barnes": [
+            "Saul raged against the church like a wild beast - a strong expression, denoting the zeal and fury with which he engaged in persecution.",
+            "It may be remarked here that there never was a persecution commenced with more flattering prospects to the persecutors.",
+            "That the church was not destroyed was owing to the protection of God a protection which not only secured its existence, but which extended its influence and power by means of this very persecution far abroad on the earth."
+        ],
+        "Marvin Vincent": [
+            "The part which he played at this time in the horrid work of persecution has, I fear, been always underrated.",
+            "It is only when we collect the separate passages - they are no less than eight in number - in which allusion is made to this sad period, it is only when we weigh the terrible significance of the expressions used that we feel the load of remorse which must have lain upon him, and the taunts to which he was liable from malignant enemies.",
+            "Note the imperfect, of continued action."
+        ],
+        "John Calvin": [
+            "We must note two things in this place, how great the cruelty of the adversaries was, and how wonderful the goodness of God was...",
+            "For that desire to lay waste the Church wherewith he was incensed did seem to cut away all hope.",
+            "For God doth oftentimes punish sins more sharply in the elect than in the reprobate."
+        ],
+        "Philip Schaff": [
+            "As for Saul, he made havock of the church.",
+            "These persecuted people were scourged 'often' in many synagogues.",
+            "Every possible effort he used to make them blaspheme that holy Name whereby they were called."
+        ],
+        "Archibald T. Robertson": [
+            "Picturesque description of the havoc carried on by Saul now the leader in the persecution.",
+            "Plainly not just an 'assembly,' but an organized body that was still 'the church' when scattered in their own homes, 'an unassembled assembly' according to the etymology.",
+            "A new feature of the persecution that includes the women. They met it bravely as through all the ages since."
+        ],
+        "John Gill": [
+            "Did evil to the saints, destroyed them that called upon the name of Christ...",
+            "...now did Benjamin, of which tribe Saul was, ravine as a wolf...",
+            "...he himself confesses, Acts 22:4."
+        ],
+        "John Wesley": [
+            "Saul made havoc of the Church \u2014 Like some furious beast of prey. So the Greek word properly signifies.",
+            "Men and women \u2014 Regarding neither age nor sex."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Saul, like a wild beast, ravaged and devastated the church, entering every house like an inquisitor. The weight of his remorse is evident in the eight passages that allude to this sad period, revealing the taunts and the load of guilt he carried. The persecution was not limited to men but also included women who, bravely facing it, remained resilient. This organized persecution was a new feature, showcasing the cruel and zealous nature of the adversaries. Despite their efforts, the church was not destroyed, as God's protection extended its influence and power even further. The goodness of God remained evident amidst the cruelty of the persecutors.",
+            "wordCount": 107,
+            "quoteTokenProportion": 32.47,
+            "qualityScore": 1.786999747403681,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.76,
+            "commentatorTierSimilarities": [
+                29.32,
+                41.5,
+                29.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Saul, like a wild beast, ravaged and devastated the church, entering every house like an inquisitor. The weight of his remorse is evident in the eight passages that allude to his sad period, revealing the taunts and the load of guilt he carried. This organized persecution included women who, bravely facing it, remained resilient. Despite their efforts, the church was not destroyed, as God's protection extended its influence and power. The goodness of God shone amidst the cruelty of the persecutors.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.7875071946549848,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.78,
+            "commentatorTierSimilarities": [
+                28.91,
+                40.69,
+                30.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Saul, like a wild beast, devastated the church, entering every house as an inquisitor. His remorse is evident in the passages that allude to this sad period, revealing the taunts and the guilt he carried. The persecution included women who bravely faced it. Despite their efforts, the church was not destroyed. God's protection extended its influence and power. The goodness of God shone amidst the persecutors' cruelty.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.716997256356028,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.43,
+            "commentatorTierSimilarities": [
+                27.23,
+                40.76,
+                32.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Saul, with ruthless zeal, made havock of the church, like a wild beast ravaging and devastating it, entering every house as an inquisitor. The weight of his remorse can be seen in the separate passages that allude to this dark period, where he was burdened with guilt and subject to taunts from his enemies. This organized persecution was not limited to men only, as even women bravely faced it. Despite their efforts, the church was not completely destroyed, thanks to God's protective hand.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.9086310849534933,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+            "commentatorTierSimilarities": [
+                32.17,
+                38.38,
+                29.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Saul, with ruthless zeal, made havock of the church, like a wild beast ravaging and devastating it. The weight of his remorse can be seen in the separate passages that allude to this dark period, burdened with guilt and taunts from enemies. This organized persecution was not limited to men only, as even women bravely faced it. Despite their efforts, the church was not completely destroyed, thanks to God's protective hand.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8964597495945923,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "commentatorTierSimilarities": [
+                31.91,
+                38.08,
+                30.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

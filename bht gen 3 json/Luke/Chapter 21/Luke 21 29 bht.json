@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:22:30",
+    "verseRef": "Luke 21:29",
+    "bestBHT": {
+        "bht": "This parable of the fig-tree, which can also be applied to all the trees, was spoken by Jesus during the spring just before the Passover when the trees, including the fig tree, were budding on the mount of Olives where they were situated.",
+        "wordCount": 44,
+        "quoteTokenProportion": 57.58,
+        "qualityScore": 2.2517792944924393,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.21,
+        "commentatorTierSimilarities": [
+            51.25,
+            0.0,
+            48.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Parable. See on Matthew 24:32."
+        ],
+        "Archibald T. Robertson": [
+            "This parable of the fig-tree (Mark 13:28-32; Matthew 24:32-35) Luke applies to 'all the trees.'",
+            "It is true about all of them, but the fig tree was very common in Palestine."
+        ],
+        "John Gill": [
+            "And he spake to them a parable,.... That is, to his disciples:",
+            "behold the fig tree, and all the trees; that, or any other tree;",
+            " :-."
+        ],
+        "John Wesley": [
+            "Behold the fig tree and all the trees.\" ",
+            "Christ spake this in the spring, just before the passover.",
+            "When all the trees were budding on the mount of Olives, where they then were."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This parable of the fig-tree (Mark 13:28-32; Matthew 24:32-35) can also be applied to all the trees, but the fig tree in particular was commonly found in Palestine. Jesus spoke this parable during the spring, right before the Passover, when the trees, including the fig tree, were budding on the mount of Olives where they were situated.",
+            "wordCount": 56,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.56872197126825,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.75,
+            "commentatorTierSimilarities": [
+                58.29,
+                0.0,
+                41.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This parable of the fig-tree, which can also be applied to all the trees, was spoken by Jesus during the spring just before the Passover when the trees, including the fig tree, were budding on the mount of Olives where they were situated.",
+            "wordCount": 44,
+            "quoteTokenProportion": 57.58,
+            "qualityScore": 2.2517792944924393,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.21,
+            "commentatorTierSimilarities": [
+                51.25,
+                0.0,
+                48.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Luke 21:29, Jesus speaks a parable to his disciples, saying, Behold the fig tree, and all the trees. This parable, which can be found in Matthew 24:32, is applicable to all trees, but the fig tree holds particular significance due to its commonality in Palestine. It is worth noting that Jesus spoke these words in the spring, just before the Passover, when all the trees were budding on the mount of Olives, where they were then situated. This parable draws attention to the importance of observing and discerning signs and seasons, something that holds true not only for the fig tree but for all aspects of life.",
+            "wordCount": 106,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.3685061611358513,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.09,
+            "commentatorTierSimilarities": [
+                57.39,
+                0.0,
+                42.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus spoke a parable, instructing his disciples to gaze upon the fig tree and all the other trees. This parable, which is also found in Matthew 24:32, applies to the fig tree specifically due to its prevalence in Palestine. In spring, just prior to the Passover, when they were situated on the mount of Olives, Jesus spoke these words as all the trees around them were blossoming. This parable emphasizes the significance of discerning signs and seasons, applicable not only to the fig tree but to various aspects of life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.3504829434422714,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.49,
+            "commentatorTierSimilarities": [
+                58.02,
+                0.0,
+                41.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus shares a parable with his disciples, using the fig tree as an example for understanding signs and seasons. This parable is not limited to the fig tree alone but extends to all trees. The fig tree holds particular significance in the context of Palestine where it was abundantly found. Jesus speaks these words during the spring, close to the Passover, when they were on the mount of Olives, witnessing the budding of all the surrounding trees. This parable highlights the importance of observing and discerning signs in various aspects of life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.0572455712261277,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+            "commentatorTierSimilarities": [
+                56.99,
+                0.0,
+                43.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:22:58",
+    "verseRef": "Luke 22:33",
+    "bestBHT": {
+        "bht": "In the midst of an impending trial, Peter confidently declares his willingness to stand by Jesus, even unto death. Yet Jesus, in His wisdom, recognizes Peter's potential instability and warns him against trusting in his own strength. Jesus reassures Peter that He has been praying for him, promising that his faith will not perish. This conversation exposes Peter's initial lack of awareness of his own weakness and emphasizes the importance of relying on Jesus rather than self-assurance.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.8062727256678301,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+        "commentatorTierSimilarities": [
+            31.52,
+            38.73,
+            29.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thou shalt find them in the hour of temptation unstable as water.\" ",
+            "I have been praying for thee, therefore thy faith shall not perish.\" ",
+            "He that trusteth in his own heart is a fool."
+        ],
+        "Philip Schaff": [
+            "Lord, with thee I am ready, etc. 'In his sense of strength, Peter casts doubt upon the necessity of our Lord\u2019s petition for him.",
+            "This conversation differs sufficiently from that mentioned by Matthew and Mark, which occurred later, as we think.",
+            "'With thee,' is specially emphatic, and shows that Peter regards the Lord as the source of his feeling of strength. But when the trial came, he followed only afar off, away from the source of strength."
+        ],
+        "Archibald T. Robertson": [
+            "To prison and to death.\" Evidently Peter was not flattered by the need of Christ's earnest prayers for his welfare and loyalty."
+        ],
+        "John Gill": [
+            "I am ready to go with thee, both into prison and to death; he suggests, that he was not afraid of Satan, nor of his temptations, of being sifted, shaken, and tossed by him...",
+            "he was not to be frightened out of his faith by him, or to be scared with a prison, and death itself; he was ready for both; and they were welcome, come when they would...",
+            "rather than part from, or deny his Lord, he was then prepared to go with him, at once, to either of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the face of impending temptation and the trial that looms over him, Peter confidently assures Jesus that he is ready to go with Him, even to prison and to death. His words exhibit a sense of self-assurance, but Jesus knows better and highlights Peter's potential weakness, calling him unstable like water. Despite Peter's overconfidence, Jesus assures him that His prayers have been for the preservation of Peter's faith. This interchange between Peter and Jesus reveals Peter's initial lack of understanding of his own vulnerability and the need for reliance on Jesus for strength.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.7832404682204825,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                31.63,
+                38.73,
+                29.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of impending temptation, Peter boldly declares his readiness to go with Jesus, to prison and even to death. However, Jesus recognizes Peter's instability, likening him to water. While Peter may have been confident in his own strength, Jesus assures him that His prayers are for the preservation of Peter's faith. This exchange emphasizes the importance of relying on Jesus rather than trusting in one's own abilities, revealing Peter's initial ignorance of his vulnerability and need for the strength that comes from Jesus.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.7824670403347074,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                32.91,
+                38.25,
+                28.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In response to Jesus' warning, Peter, who initially expressed his readiness to go with Jesus to prison and death, receives an admonishment about his unstable nature, reminiscent of water. Jesus, however, consoles Peter by assuring him of His prayers for his faith to endure. This conversation exposes Peter's self-reliance, contrasting it with the necessity of trusting in Jesus. It serves as a reminder that depending solely on one's own strength is foolish and that true strength comes from relying on the Lord.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.700310289370274,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+            "commentatorTierSimilarities": [
+                32.33,
+                39.01,
+                28.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of an impending trial, Peter confidently declares his willingness to stand by Jesus, even unto death. Yet Jesus, in His wisdom, recognizes Peter's potential instability and warns him against trusting in his own strength. Jesus reassures Peter that He has been praying for him, promising that his faith will not perish. This conversation exposes Peter's initial lack of awareness of his own weakness and emphasizes the importance of relying on Jesus rather than self-assurance.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8062727256678301,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                31.52,
+                38.73,
+                29.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's bold declaration to accompany Jesus to prison and death reveals his self-assurance, but Jesus warns him of his potential instability. He reminds Peter of His own prayers for his faith's preservation, assuring that it will not perish. This conversation exposes Peter's initial overconfidence and underlines the significance of trusting in Jesus rather than relying on oneself. It serves as a reminder that true strength comes from depending on the Lord, not from our own abilities.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.6603595554949648,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.55,
+            "commentatorTierSimilarities": [
+                32.04,
+                36.65,
+                31.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

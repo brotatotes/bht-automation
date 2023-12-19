@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:30:01",
+    "verseRef": "Acts 11:20",
+    "bestBHT": {
+        "bht": "The Grecians mentioned were uncircumcised Gentiles, and laymen boldly embarked on the task of preaching to them, separate from the official leaders. Men from Cyprus and Cyrene, accustomed to interacting with Gentiles, fearlessly proclaimed the Gospel to idolatrous Gentiles in Antioch. This significant event expanded the reach of the Good News beyond the worshippers of the God of Israel, marking the first account of the Gospel being preached to Gentiles.",
+        "wordCount": 70,
+        "quoteTokenProportion": 29.17,
+        "qualityScore": 2.206216162482616,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.7,
+        "commentatorTierSimilarities": [
+            33.2,
+            31.37,
+            35.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Nothing to my mind can be plainer, from what follows respecting Barnabas, than that these Grecians were GENTILES, uncircumcised.",
+            "This both the sense and the form of the sentence require.",
+            "The term Jews includes the Hellenists, the distinctive appellation of pure Jews being not Jews but Hebrews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "spake unto the Greeks, that is, uncircumcised Gentiles",
+            "The Gospel had, from the first, been preached to 'the Grecians' or Greek-speaking Jews, and these 'men of Cyprus and Cyrene' were themselves 'Grecians.'",
+            "How, then, can we suppose that the historian would note, as something new and singular, that some of the dispersed Christians preached to them?"
+        ],
+        "Albert Barnes": [
+            "From this circumstance it might have happened that they were led more particularly to address the Grecians who were in Antioch.",
+            "But to them the gospel had been already preached; and yet in this place it is evidently the intention of Luke to affirm that the people of Cyprus and Cyrene preached to those who were not Jews.",
+            "There is no doubt that this is the true reading; and that the sacred writer means to say that the gospel was here preached to those who were not Jews, for all were called 'Greeks' by them who were not Jews."
+        ],
+        "Marvin Vincent": [
+            "The express object of the narrative has been to describe the admission of Gentiles into the church.",
+            "There would have been nothing remarkable in these men preaching to Hellenists who had long before been received into the church.",
+            "Note, also, the contrast with the statement in ver. 19, to the Jews only. There is no contrast between Jews and Hellenists, since Hellenists are included in the general term Jews."
+        ],
+        "John Calvin": [
+            "For Luke\u2019s meaning is, that a few did more freely preach the gospel, because the calling of the Gentiles was not unknown to them.",
+            "The constancy of them all deserves no small praise; because, being delivered, as it were, out of the midst of death, they are not afraid to do their duty toward God even with danger.",
+            "We gather to what end, and how far forth Christians may fly persecution; to wit, that they may spend the residue of their life in spreading abroad the glory of God."
+        ],
+        "Philip Schaff": [
+            "It is difficult to resist such unanimity of opinion, based on arguments so strong. Yet the very facility with which the problem is solved inspires some doubt.",
+            "We should observe how our thoughts are drawn to this place, as to a focus on which all our attention is presently to be concentrated.",
+            "That the Hellenistic Jews and the Heathen Greeks were probably in very free intercourse with one another at Antioch, and that the Gospel would naturally pass from the former to the latter."
+        ],
+        "Archibald T. Robertson": [
+            "Spake (\u03b5\u03bb\u03b1\u03bb\u03bf\u03c5\u03bd). Inchoative imperfect active, began to speak. For them it was an experiment.",
+            "This is undoubtedly the correct reading in spite of Hellenists (H\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03c3\u03c4\u03b1\u03c2) or Grecian Jews in B E H L P.",
+            "It was a departure of startling boldness\" (Furneaux) by laymen outside of the circle of official leaders."
+        ],
+        "John Gill": [
+            "And some of them were men of Cyprus...such were Simon that carried the cross after Christ, and his sons Alexander and Rufus...\" ",
+            "And Cyrene...others that heard the apostles speak with tongues on the day of Pentecost...",
+            "Preaching the Lord Jesus...the virtue of his blood for peace and pardon of his sacrifice for atonement of sin, and of his righteousness for justification."
+        ],
+        "John Wesley": [
+            "Some of them were men of Cyprus and Cyrene \u2014 Who were more accustomed to converse with the Gentiles.",
+            "Who coming into Antioch \u2014 Then the capital of Syria, and, next to Rome and Alexandria, the most considerable city of the empire.",
+            "Here we have the first account of the preaching the Gospel to the idolatrous Gentiles. All those to whom it had been preached before, did at least worship one God, the God of Israel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse from Acts 11, it becomes clear that the Grecians being referred to are actually uncircumcised Gentiles, as the term Jews includes Hellenists. The purpose of this narrative is to describe the admission of Gentiles into the church, and it is notable because it signifies a departure of startling boldness by laymen outside the circle of official leaders. Those who preached to the Grecians were men from Cyprus and Cyrene who were accustomed to conversing with Gentiles. This marked the first account of the preaching of the Gospel to idolatrous Gentiles, expanding the reach of the Good News beyond those who worshiped the God of Israel.",
+            "wordCount": 107,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.235451764458423,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.67,
+            "commentatorTierSimilarities": [
+                36.14,
+                31.98,
+                31.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Grecians mentioned in the passage are confirmed to be uncircumcised Gentiles, and the inclusion of Hellenists is contrasted with the term Jews. Laymen, rather than official leaders, boldly embarked on this new endeavor of preaching to Gentiles. Men from Cyprus and Cyrene, who regularly interacted with Gentiles, undertook the task of spreading the Gospel to idolatrous Gentiles. This significant event expanded the reach of the Good News beyond those who worshipped the God of Israel.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.038082978752416,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+            "commentatorTierSimilarities": [
+                36.74,
+                29.97,
+                33.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Grecians mentioned in Acts 11 were indeed uncircumcised Gentiles, and it was a groundbreaking step taken by laymen, not official leaders. Men from Cyprus and Cyrene, who were accustomed to conversing with Gentiles, fearlessly preached the Gospel to idolatrous Gentiles in Antioch. This marked the first instance of the Gospel being proclaimed to those outside the worshipers of the God of Israel, an expansion of the Good News that cannot be overlooked.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.2246846744017184,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.31,
+            "commentatorTierSimilarities": [
+                34.17,
+                32.12,
+                33.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It becomes clear that the Grecians being referred to are actually uncircumcised Gentiles. This narrative describes the admission of Gentiles into the church, a departure of startling boldness by laymen. Men from Cyprus and Cyrene, accustomed to conversing with Gentiles, preached the Gospel to idolatrous Gentiles in Antioch. This marked the first account of the Gospel being preached to those who worshipped gods other than the God of Israel, expanding the reach of the Good News.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.181977409605019,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.89,
+            "commentatorTierSimilarities": [
+                36.74,
+                31.32,
+                31.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Grecians mentioned were uncircumcised Gentiles, and laymen boldly embarked on the task of preaching to them, separate from the official leaders. Men from Cyprus and Cyrene, accustomed to interacting with Gentiles, fearlessly proclaimed the Gospel to idolatrous Gentiles in Antioch. This significant event expanded the reach of the Good News beyond the worshippers of the God of Israel, marking the first account of the Gospel being preached to Gentiles.",
+            "wordCount": 70,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 2.206216162482616,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.7,
+            "commentatorTierSimilarities": [
+                33.2,
+                31.37,
+                35.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

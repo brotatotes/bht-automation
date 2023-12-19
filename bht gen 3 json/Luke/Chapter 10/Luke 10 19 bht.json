@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:17:51",
+    "verseRef": "Luke 10:19",
+    "bestBHT": {
+        "bht": "Jesus, through His authority over the power of the enemy, bestows upon believers the gift of authority to overcome all forms of evil, including serpents and scorpions. This gift, granted to all disciples, exemplifies the glorious power of faith to conquer the world and quench the fiery darts of the wicked one. It emphasizes victory over demons and protection from harm, though the main focus is not physical safety, but rather the spiritual progress and the preservation of believers' eternal welfare.",
+        "wordCount": 81,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.9819543782341087,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+        "commentatorTierSimilarities": [
+            35.59,
+            25.52,
+            38.89
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord here,\u2014including all the evil and poison in nature in the power of the enemy,\u2014from the power given Him over that enemy, asserts the gift to them",
+            "extended afterwards to all believers (Mark xvi. 18), of authority to \u2018bruise the head of the serpent\u2019 (Gen. iii. 15).",
+            "There is an evident allusion to Ps. xci. 13."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Behold, I give you, c. - not for any renewal of their mission, but simply as disciples.",
+            "Serpents and scorpions - the latter more venomous than the former: literally, but the next words show that the glorious power of faith to overcome the world is what is meant.",
+            "The power of faith to 'quench all the fiery darts of the wicked one' is what He makes them innocuous."
+        ],
+        "Albert Barnes": [
+            "If you tread on a poisonous reptile that would otherwise injure you, I will keep you from danger.",
+            "The scorpion is an animal with eight feet, eight eyes and a long jointed tail, ending in a pointed weapon or sting... It is in Scripture the emblem of malicious and crafty men.",
+            "He that can control Satan and his hosts... must be clothed with no less than almighty power."
+        ],
+        "John Calvin": [
+            "Christ does not affirm that the gift of which they now boast is not illustrious, but reminds them, that they ought to keep their eye chiefly on something loftier still, and not remain satisfied with outward miracles.",
+            "To this disease even the godly are almost all liable. Though the goodness of God is received by them with gratitude, yet the acts of the Divine kindness do not assist them, as they ought to do, by becoming ladders for ascending to heaven.",
+            "The power of the enemy is the name given by him to every kind of annoyance; for all that is hostile to us is wielded against us by Satan."
+        ],
+        "Philip Schaff": [
+            "The Lord augments by a new promise the joy He has just confirmed.",
+            "The promise is doubtless literal, so far as necessary to manifest higher spiritual power.",
+            "In any wise injure you, though apparent hurt may come."
+        ],
+        "Archibald T. Robertson": [
+            "The victory over demons was one phase of it.",
+            "Protection from physical harm is not the main point in this struggle with Satan.",
+            "Certainly Jesus does not mean this promise to create presumption or foolhardiness."
+        ],
+        "John Gill": [
+            "Behold, I give you power to tread on serpents and scorpions,....",
+            "Christ has a power over all his power, his whole posse of devils, even the power of the air, of which he is prince...",
+            "...whatever they might be permitted to do with respect to their lives, and outward estate, should never hurt their souls, and the eternal welfare of them; nor even hinder the work of God prospering in their hands."
+        ],
+        "John Wesley": [
+            "I give you power \u2014 That is, I continue it to you: and nothing shall hurt you - Neither the power, nor the subtilty of Satan."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, extending his authority over the power of the enemy, assures believers that they have been given the gift of authority to overcome evil. This gift, mentioned in Mark 16:18, is symbolically linked to the promise of crushing the head of the serpent in Genesis 3:15. It is a glorious power of faith that enables believers to quench the fiery darts of the wicked one and to have victory over demons. However, it is important to note that this promise is not meant to encourage presumption or foolhardiness. Rather, it speaks to the power of faith to protect believers from harm and to overcome the spiritual battles they face.",
+            "wordCount": 107,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7863972408679643,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                36.78,
+                26.87,
+                36.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, asserting the gift of authority he has over the power of the enemy, extends this gift to all believers. This gift allows believers to triumph over evil, depicted as treading on serpents and scorpions. By having faith, believers are empowered to overcome the world and quench the fiery darts of the wicked one. The victory over demons is just one aspect of this power. However, this promise of protection should not lead to presumption or foolhardiness. Instead, it emphasizes the power of faith to safeguard believers and prevail in their spiritual struggles.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.738416912071982,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+            "commentatorTierSimilarities": [
+                36.58,
+                26.91,
+                36.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, with power over the enemy, grants believers the authority to conquer evil and triumph over the world through faith. This gift is symbolically represented by the ability to tread on serpents and scorpions, which refers to overcoming the spiritual battles believers face. The promise of protection should not breed presumption or recklessness, but rather highlights the power of faith to safeguard believers from harm and allow them to fulfill their mission without hindrance.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8424398697354443,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                33.45,
+                27.07,
+                39.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, through His authority over the power of the enemy, bestows upon believers the gift of authority to overcome all forms of evil, including serpents and scorpions. This gift, granted to all disciples, exemplifies the glorious power of faith to conquer the world and quench the fiery darts of the wicked one. It emphasizes victory over demons and protection from harm, though the main focus is not physical safety, but rather the spiritual progress and the preservation of believers' eternal welfare.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9819543782341087,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                35.59,
+                25.52,
+                38.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, extending His authority over the enemy, grants believers the gift to overcome evil and tread on serpents and scorpions. This gift signifies the power of faith to quench the fiery darts of the wicked one and is not meant to create presumption or foolhardiness. It highlights the victory over demons as one aspect of believers' spiritual authority. While protection from harm is included, the main focus lies in the power of faith to overcome the world and ensure the eternal welfare of believers' souls.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.8444499851250769,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+            "commentatorTierSimilarities": [
+                36.41,
+                26.71,
+                36.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

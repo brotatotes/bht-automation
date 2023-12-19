@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:23:00",
+    "verseRef": "Luke 22:39",
+    "bestBHT": {
+        "bht": "As was custom, Jesus went to the Garden of Gethsemane at night, a place familiar to Judas, who took advantage of this knowledge to betray Him. Leaving the upper room where He had just celebrated the Passover with His disciples, Jesus willingly embarked on the path of suffering outside the city of Jerusalem. He wanted His disciples to witness His sorrows and agony in the garden, as well as His betrayal by Judas and subsequent arrest by the Jews.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.456902584175419,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.78,
+        "commentatorTierSimilarities": [
+            24.06,
+            31.49,
+            44.45
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "39. as . . . wont\u2014(See :-)."
+        ],
+        "Philip Schaff": [
+            "Luke 22:39. At he was wont (comp. Luke 21:37).. Peculiar to Luke, hinting that He went to a place where Judas could find Him.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "It was because Judas knew the habit of Jesus of going to Gethsemane at night that he undertook to betray him without waiting for the crowd to go home after the feast.",
+            "According to the custom (of him).",
+            "According to the custom (of him)."
+        ],
+        "John Gill": [
+            "He came out of the guestchamber, or upper room, and out of the house where he had been keeping the passover with his disciples; and he came out of the city of Jerusalem, to begin his sorrows and sufferings without the camp, where he was to end them.",
+            "This shows the willingness of Christ to be taken, in order to suffer and die; otherwise he would have gone to another place, and not this.",
+            "The other disciples followed him, which was so ordered, that they might be witnesses of his sorrows and agonies in the garden, and of his being betrayed by Judas, and apprehended by the Jews."
+        ],
+        "John Wesley": [
+            "Matthew 26:30."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As was custom, Jesus went to the Garden of Gethsemane at night, a place familiar to Judas, who took advantage of this knowledge to betray Him. Leaving the upper room where He had just celebrated the Passover with His disciples, Jesus willingly embarked on the path of suffering outside the city of Jerusalem. He wanted His disciples to witness His sorrows and agony in the garden, as well as His betrayal by Judas and subsequent arrest by the Jews.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.456902584175419,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.78,
+            "commentatorTierSimilarities": [
+                24.06,
+                31.49,
+                44.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As was custom, Jesus went to the Garden of Gethsemane at night, according to His usual habit. It was in this familiar place that Judas took the opportunity to betray Him. Leaving the upper room after the Passover celebration, Jesus intentionally entered into His suffering, demonstrating His willingness to be taken. By doing so, He allowed His disciples to witness His sorrows, agonies, and ultimate betrayal.",
+            "wordCount": 66,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.2925878332244707,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.32,
+            "commentatorTierSimilarities": [
+                30.13,
+                30.06,
+                39.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As customary, Jesus went to the Garden of Gethsemane at night, a place well-known to Judas. Leaving the upper room after the Passover meal with His disciples, Jesus willingly entered into his sorrows and sufferings outside of Jerusalem. By following Him, the disciples became witnesses to His agonies in the garden, as well as His betrayal by Judas and subsequent arrest. This reveals the extent of Jesus' resolve to be taken and to undergo the suffering and death that awaited Him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.3344140302862861,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.71,
+            "commentatorTierSimilarities": [
+                23.42,
+                29.29,
+                47.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As customary, Jesus went to the Garden of Gethsemane at night, a place well-known. Leaving the upper room after the Passover meal with His disciples, Jesus willingly entered into His sufferings and sorrows. By following Him, the disciples witnessed His agonies in the garden, His betrayal by Judas, and arrest. This showed Jesus' willingness to be taken and undergo the suffering.",
+            "wordCount": 62,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 1.1989823187453132,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.21,
+            "commentatorTierSimilarities": [
+                24.29,
+                27.73,
+                47.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Leaving the upper room after celebrating the Passover with His disciples, Jesus made His way to the familiar Garden of Gethsemane as was customary. It was in this place that Judas took advantage of Jesus' predictable location to betray Him. By allowing Himself to be taken, Jesus demonstrated His willingness to endure suffering and death. The disciples followed Him, becoming witnesses to His sorrows, agonies, and the events that would soon unfold.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.2223680117164217,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.99,
+            "commentatorTierSimilarities": [
+                24.95,
+                28.08,
+                46.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

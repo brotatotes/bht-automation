@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:24:17",
+    "verseRef": "Luke 24:40",
+    "bestBHT": {
+        "bht": "He showed them his hands and his feet, providing both proof of his identity and signs of victory over death. This act can be seen as the deepest sense of his greeting, representing the peace and atonement achieved through his sacrificial death. As He held out his hands and feet, the disciples were given tangible evidence of his resurrection and incarnation. They could see and feel the prints of the nails, confirming the reality of his bodily resurrection.",
+        "wordCount": 78,
+        "quoteTokenProportion": 36.0,
+        "qualityScore": 1.5915956482048215,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.26,
+        "commentatorTierSimilarities": [
+            11.06,
+            47.75,
+            41.19
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "He showed them his hands and his feet. As proof of identity, but also as 'signs of victory, proofs of His triumph over death.",
+            "This is properly the deepest sense of His entering salutation as the sign of peace, the peace of the sacrificial death, of the completed atonement."
+        ],
+        "Archibald T. Robertson": [
+            "Another Western non-interpolation according to Westcott and Hort. It is genuine in John 20:20. "
+        ],
+        "John Gill": [
+            "he held them forth to be seen and handled by them, which no doubt they did",
+            "the infallible proofs by which he showed himself alive to them after his passion",
+            "they knew the truth of his incarnation, or that he assumed a true and real body, and of the resurrection of the same body"
+        ],
+        "John Wesley": [
+            "He showed them his hands and his feet \u2014 That they might either see or feel the prints of the nails."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He showed them his hands and his feet, providing both proof of his identity and signs of victory over death. This act can be seen as the deepest sense of his greeting, representing the peace and atonement achieved through his sacrificial death. As He held out his hands and feet, the disciples were given tangible evidence of his resurrection and incarnation. They could see and feel the prints of the nails, confirming the reality of his bodily resurrection.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.5915956482048215,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.26,
+            "commentatorTierSimilarities": [
+                11.06,
+                47.75,
+                41.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He showed them his hands and his feet, serving as genuine proof of his identity and victory over death. This act was not only a sign of peace, but also a testament to the completed atonement through his sacrificial death. By displaying his hands and feet, Jesus provided infallible proofs of his resurrection and incarnation, revealing the reality of his bodily resurrection. The disciples were able to see and touch the prints of the nails, solidifying their understanding of his true presence among them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5342293526434667,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "commentatorTierSimilarities": [
+                11.13,
+                48.66,
+                40.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He showed them his hands and his feet, providing both proof of his identity and signs of victory over death. This act can be seen as the deepest sense of his greeting, representing the peace and atonement achieved through his sacrificial death. As He held out his hands and feet, the disciples were given tangible evidence of his resurrection and incarnation. They could see and feel the prints of the nails, confirming the reality of his bodily resurrection.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.5915956482048215,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.26,
+            "commentatorTierSimilarities": [
+                11.06,
+                47.75,
+                41.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He displayed his hands and his feet to the disciples, offering undeniable evidence of his identity and triumph over death. This act was not only a proof of his resurrection, but also a symbol of victory. It signified the peace that arises from his sacrificial death and completed atonement. By presenting the marks of the nails, Jesus provided infallible proof of his bodily resurrection, confirming the reality of his incarnation. The disciples could see and touch the tangible evidence, further solidifying their faith in his resurrection.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.4846865522972383,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.71,
+            "commentatorTierSimilarities": [
+                14.59,
+                49.95,
+                35.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He showed them his hands and his feet, a genuine proof of his identity, as well as symbols of his victory over death. This act not only served as evidence of his resurrection, but also conveyed the peace and completed atonement achieved through his sacrificial death. By displaying the marks of the nails, Jesus offered undeniable proof of his bodily resurrection, confirming the reality of his incarnation. This tangible evidence further solidified the disciples' faith in his resurrection.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.5361740697716582,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.42,
+            "commentatorTierSimilarities": [
+                13.83,
+                49.4,
+                36.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

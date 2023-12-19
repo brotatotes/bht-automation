@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:28:23",
+    "verseRef": "1 Timothy 1:6",
+    "bestBHT": {
+        "bht": "These men, having swerved from a pure heart, good conscience, and unfeigned faith, have turned aside to vain babbling. They engage in empty chatter, lacking understanding and speaking obscurely for selfish purposes. Instead of promoting love and edification, they indulge in wrangling and idle talking about irrelevant matters. Let us seek solid edification in the Word of God, relying on His grace and walking with a good conscience and pure heart towards others. Anything that does not edify in godliness is mere vanity.",
+        "wordCount": 83,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.9253512212935768,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+        "commentatorTierSimilarities": [
+            26.69,
+            31.5,
+            41.8
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "(the connexion is\u2014it was by declining from these qualities that these men entered on their paths of error)...some having swerved...have been turned aside unto...vain babbling.",
+            "They are not honest men, speaking from conviction...but men depraved in conscience...and putting forth things obscure to themselves, for other and selfish purposes.",
+            "They do not understand...nor concerning what things they make affirmation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From which\u2014namely, from a pure heart, good conscience, and faith unfeigned, the well-spring of love.\" ",
+            "It is the greatest vanity when divine things are not truthfully discussed.",
+            "Instead of aiming at and attaining the graces above named, they 'have turned aside unto vain jangling'; literally, 'vain talk', about the law and genealogies of angels."
+        ],
+        "Albert Barnes": [
+            "The word here used - \u03b1\u0313\u03c3\u03c4\u03bf\u03c7\u03b5\u0301\u03c9 astocheo\u0304 - means properly, to miss the mark; to err; and then, to swerve from.",
+            "The word 'which' \u03c9\u0314\u0342\u03bd ho\u0304n, in the plural, refers not to the law, but to the things enumerated - a pure heart, a good conscience, and unfeigned faith.",
+            "They were discourses on their pretended distinctions in the law; on their traditions and ceremonies; on their useless genealogies, and on the fabulous statements which they had appended to the law of Moses."
+        ],
+        "Marvin Vincent": [
+            "Having swerved. It means to miss the mark.\" ",
+            "Vain Jangling is empty chatter.\" ",
+            "Jangling is used for wrangling."
+        ],
+        "John Calvin": [
+            "Have turned aside to idle talking...all the doctrines which do not aim at this single end...everything that does not edify in godliness is \u03bc\u03b1\u03c4\u03b1\u03b9\u03bf\u03bb\u03bf\u03b3\u1f77\u03b1, 'idle talking.'\" (Commentary)",
+            "We ought; therefore to take the greatest possible care not to seek anything in the holy and sacred word of God but solid edification, lest otherwise he inflict on us severe punishment for abusing it.\" (Commentary)",
+            "We are told that all who have it not as their object to rely on the grace of God, in order that they may call on God as their Father, and may expect salvation from him, and who do not walk with a good conscience, and with a pure heart toward their neighborhood, are like persons who have wandered and gone astray.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "The missing of the mark, the losing of the way, that comes, not from taking aim and failing, but from making no effort to reach the mark...\" ",
+            "In such cases heresy had its root in ethical evil rather than in intellectual error.",
+            "Jangelying is when a man speketh to moche beforn folk, and clappeth as a mille, and taketh no keep what he saith."
+        ],
+        "Archibald T. Robertson": [
+            "Having swerved (\u03b1\u03c3\u03c4\u03bf\u03c7\u03b7\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2).",
+            "Have turned aside (\u03b5\u03be\u03b5\u03c4\u03c1\u03b1\u03c0\u03b7\u03c3\u03b1\u03bd).",
+            "Vain talking (\u03bc\u03b1\u03c4\u03b1\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03b1\u03bd)."
+        ],
+        "John Gill": [
+            "They erred from the commandment, or law, notwithstanding their great pretensions to a regard unto it; at least they missed the mark, the end and design of it.\" ",
+            "They went astray from that, and instead of promoting charity or love, created feuds, contentions, and divisions in the churches.\" ",
+            "They turned to vain, idle, useless, and unprofitable subjects of discourse, and to treating upon subjects in a vain, jejune, and empty manner."
+        ],
+        "John Wesley": [
+            "An affectation of high and extensive knowledge sets a man at the greatest distance from faith, and all sense of divine things.",
+            "And of all vanities, none are more vain than dry, empty disputes on the things of God.",
+            "Love and a good conscience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These men, who have swerved from qualities such as a pure heart, good conscience, and unfeigned faith, have turned aside to vain babbling and empty chatter. They lack understanding and speak obscurely for selfish purposes. Instead of promoting love and edification, they engage in wrangling and idle talking about irrelevant matters. They have missed the mark and gone astray, their heresy rooted in ethical evil rather than intellectual error. Let us then take great care to seek solid edification in the Word of God, relying on His grace and walking with a good conscience and pure heart towards others, for everything that does not edify in godliness is idle talking and a vanity.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.65,
+            "qualityScore": 1.947851711144803,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.11,
+            "commentatorTierSimilarities": [
+                24.6,
+                34.59,
+                40.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These men, having swerved from a pure heart, good conscience, and unfeigned faith, have turned aside to vain babbling and empty chatter. They lack understanding and speak obscurely for selfish purposes. Instead of promoting love and edification, they engage in wrangling and idle talking. Let us seek solid edification in the Word of God, relying on His grace and walking with a good conscience and pure heart towards others, for idle talking and everything that does not edify in godliness is a vanity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9181293724795836,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.12,
+            "commentatorTierSimilarities": [
+                26.34,
+                30.87,
+                42.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These men, having swerved from a pure heart, good conscience, and unfeigned faith, have turned aside to vain babbling. They engage in empty chatter, lacking understanding and speaking obscurely for selfish purposes. Instead of promoting love and edification, they indulge in wrangling and idle talking about irrelevant matters. Let us seek solid edification in the Word of God, relying on His grace and walking with a good conscience and pure heart towards others. Anything that does not edify in godliness is mere vanity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.9253512212935768,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                26.69,
+                31.5,
+                41.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These men, having swerved from a pure heart, good conscience, and unfeigned faith, have turned aside to vain babbling. They engage in empty chatter, lacking understanding and speaking obscurely for selfish purposes. Instead of promoting love and edification, they indulge in wrangling and idle talking about irrelevant matters. Let us seek solid edification in the Word of God, relying on His grace and walking with a good conscience and pure heart towards others. Anything that does not edify in godliness is mere vanity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.9253512212935768,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                26.69,
+                31.5,
+                41.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These men, having swerved from a pure heart, good conscience, and unfeigned faith, have turned aside to vain babbling. They lack understanding and speak obscurely for selfish purposes. Instead of promoting love and edification, they indulge in wrangling and idle talking about irrelevant matters. Let us seek solid edification in the Word of God, relying on His grace and walking with a good conscience and pure heart towards others. Anything that does not edify in godliness is mere vanity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.894159670614739,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                26.54,
+                31.49,
+                41.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

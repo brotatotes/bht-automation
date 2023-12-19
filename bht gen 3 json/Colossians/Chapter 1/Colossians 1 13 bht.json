@@ -1,0 +1,148 @@
+{
+    "timestamp": "12-19-2023 15:19:47",
+    "verseRef": "Colossians 1:13",
+    "bestBHT": {
+        "bht": "God rescued us out of the power of darkness, the whole character and rule of unconverted human nature. This deliverance is a transition into the Kingdom of the Son of His love, a realm opposite to darkness filled with God's light and love. Through His power, we are changed from the kingdom of darkness to the kingdom of light. Christ's Kingdom is where He reigns with moral and spiritual sovereignty. This change of kingdoms marks the beginning of our salvation, as God delivers us from the depths of ruin.",
+        "wordCount": 91,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.3017619919593564,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.87,
+        "commentatorTierSimilarities": [
+            41.27,
+            25.28,
+            33.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Transition (in the form of a laying out into its negative and positive sides, of the 'making us meet') to the doctrine concerning Christ, which the Apostle has it in his mind to lay down.",
+            "Who rescued us out of the power of darkness, not to be understood of a person, Satan, but of the whole character and rule of the region of unconverted human nature where they dwelt.",
+            "Translated [us] into the Kingdom of the Son of His love, the strongest possible contrast to that darkness, the very opposite of God\u2019s Light and Love, in which we were."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "out of the power,\" out of the sphere in which his power is exercised.",
+            "darkness\u2014blindness, hatred, misery [BENGEL].",
+            "the Son of His love: the Son on whom His love rests."
+        ],
+        "Albert Barnes": [
+            "The characteristic of this empire is darkness - the emblem of:",
+            " (1)Sin;",
+            " (2)Error;",
+            " (3)Misery and death.",
+            "Now we are delivered from them, and brought to the enjoyment of the privileges of those who are connected with the kingdom of light.",
+            "No change, therefore, in a man\u2019s life is so important as this; and no words can suitably express the gratitude which they should feel who are thus transferred from the empire of darkness to that of light."
+        ],
+        "Marvin Vincent": [
+            "A change of kingdoms is indicated.\" ",
+            "God's kingdom is in the present, no less than in heaven.\" ",
+            "The Son who is the object of His love, and to whom, therefore, the kingdom is given."
+        ],
+        "John Calvin": [
+            "Mark, here is the beginning of our salvation \u2014 when God delivers us from the depth of ruin into which we were plunged.",
+            "Apart from the kingdom of Christ, there is no light.",
+            "As, then, our deliverance from the slavery of sin and death is the work of God, so also our passing into the kingdom of Christ."
+        ],
+        "Philip Schaff": [
+            "A strong expression, suggesting snatching from danger, as wretched captives.",
+            "'Darkness' is personified, as it were, and 'power' refers to the dominion, more literally 'authority,' which the darkness possesses.",
+            "'Kingdom' in contrast with 'power,' referring not to the future Messianic kingdom, nor to the Church, nor to the inward workings of grace, but to the kingdom of Christ as a rule already begun on the earth, and to be completed hereafter."
+        ],
+        "Archibald T. Robertson": [
+            "God rescued us out from the power of the kingdom of darkness in which we were held as slaves.",
+            "Changed us from the kingdom of darkness to the kingdom of light.",
+            "It is Christ's Kingdom in which he is King. He has moral and spiritual sovereignty."
+        ],
+        "John Gill": [
+            "nothing less than the power of God... can deliver out of his hands",
+            "the darkness of sin, ignorance, and unbelief",
+            "this deliverance is... in which lies in part the saints' meetness for the inheritance"
+        ],
+        "John Wesley": [
+            "Power detains reluctant captives, a kingdom cherishes willing subjects.",
+            "His beloved Son \u2014 This is treated of in the fifteenth and following verses. Colossians 1:15"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God rescued us from the power of darkness, a realm characterized by sin, error, misery, and death. It is not merely the power of Satan, but the whole nature of unconverted humanity. This deliverance was not into a physical kingdom, but into the kingdom of the Son of His love. This kingdom is the complete opposite of darkness, being filled with God's light and love. It is Christ's Kingdom, where He reigns with moral and spiritual authority. Our salvation begins with God snatching us from the depths of ruin and bringing us into His kingdom. Apart from this kingdom, there is no light. This deliverance is the work of God's power, a power that can rescue us from the clutches of the darkness of sin, ignorance, and unbelief. Through this deliverance, we are made fit for our inheritance.",
+            "wordCount": 141,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.0630004033348053,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.94,
+            "commentatorTierSimilarities": [
+                38.59,
+                24.0,
+                37.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God rescued us from the power of darkness, the realm characterized by sin, error, and misery. This deliverance is not just from Satan, but from the entirety of unconverted human nature. It is a transition into the kingdom of the Son of His love, an opposite realm filled with God's light and love. This change of kingdoms is the work of God's power, which snatches us from ruin and brings us into a kingdom where Christ reigns with moral and spiritual sovereignty, making us fit for our inheritance.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.123971184466228,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.96,
+            "commentatorTierSimilarities": [
+                41.29,
+                24.04,
+                34.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God rescued us out of the power of darkness, the region of unconverted human nature characterized by sin, error, and misery. This deliverance is a transition into the kingdom of the Son of His love, a realm opposite to darkness filled with God's light and love. Through God's power, we are changed from the kingdom of darkness to the kingdom of light, where Christ reigns with moral and spiritual sovereignty. This change of kingdoms is the beginning of our salvation, where God delivers us from the depths of ruin into which we were plunged.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.29236623871648,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.56,
+            "commentatorTierSimilarities": [
+                40.67,
+                25.05,
+                34.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God rescued us from the power of darkness, the whole character and rule of unconverted human nature. He translated us into the Kingdom of the Son of His love, a strong contrast to the darkness we were in. This change of kingdoms is a significant part of our salvation, as it snatches us from danger and brings us into the realm of light. In Christ's Kingdom, He has moral and spiritual sovereignty, and through His power, we are delivered from the clutches of sin and brought into the inheritance of His kingdom.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.1974120376055133,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.4,
+            "commentatorTierSimilarities": [
+                41.34,
+                25.44,
+                33.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God rescued us out of the power of darkness, the whole character and rule of unconverted human nature. This deliverance is a transition into the Kingdom of the Son of His love, a realm opposite to darkness filled with God's light and love. Through His power, we are changed from the kingdom of darkness to the kingdom of light. Christ's Kingdom is where He reigns with moral and spiritual sovereignty. This change of kingdoms marks the beginning of our salvation, as God delivers us from the depths of ruin.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.3017619919593564,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.87,
+            "commentatorTierSimilarities": [
+                41.27,
+                25.28,
+                33.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

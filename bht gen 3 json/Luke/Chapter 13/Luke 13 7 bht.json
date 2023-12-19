@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:19:31",
+    "verseRef": "Luke 13:7",
+    "bestBHT": {
+        "bht": "In this context, the fig tree's unfruitfulness is highlighted as it not only fails to bear fruit but also impoverishes the soil and renders the neighboring ground useless. The tree's unproductive state is not only useless but also harmful, drawing away resources from other plants and taking up valuable space. With three years indicating a sufficient period of cultivation, the tree's unfruitfulness becomes even more apparent. In response to this, it is justifiable to cut out the tree to prevent further harm and make fertile ground for fruitful growth.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.6821187687977823,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+        "commentatorTierSimilarities": [
+            26.42,
+            31.2,
+            42.38
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I have little doubt that an allusion is intended to the three years of our Lord\u2019s ministry.",
+            "In the individual application, many thousands did bear fruit this very year.",
+            "Why, besides bearing no fruit, is it impoverishing the soil\u2014rendering the neighbouring ground useless?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Three years\u2014a long enough trial for a fig tree, and so denoting probably just a sufficient period of culture for spiritual fruit.",
+            "Cut it down\u2014indignant language.",
+            "Cumbereth\u2014not only doing no good, but wasting ground."
+        ],
+        "Albert Barnes": [
+            "By taking up the juices of the earth, this useless tree rendered the ground sterile, and prevented the growth of the neighboring vines. It was not merely 'useless,' but was doing mischief, which may be said of all sinners and all hypocritical professors of religion.",
+            "God treats sinners in this manner now; that he spares them long; that he gives them opportunities of repentance; that many live but to cumber the ground; that they are not only useless to the church, but pernicious to the world.",
+            "In due time, when they are fairly tried, they shall be cut down; and that the universe will bow to the awful decree of God, and say that their damnation is just."
+        ],
+        "Marvin Vincent": [
+            "It is three years from the time at which I came.",
+            "Cut it out from among the other trees and the vines.",
+            "Not only is it unfruitful, but it draws away the juices which the vines would extract from the earth, intercepts the sun, and occupies room."
+        ],
+        "Philip Schaff": [
+            "Three years are the time of a full trial, at the end of which the inference of incurable sterility may be drawn.\" (Godet)",
+            "Why is it allowed to impoverish the soil, and interfere with the other products of the vineyard. Barrenness curses others also."
+        ],
+        "Archibald T. Robertson": [
+            "These three years I come (\u03c4\u03c1\u03b9\u03b1 \u03b5\u03c4\u03b7 \u03b1\u03c6' \u03bf\u03c5 \u03b5\u03c1\u03c7\u03bf\u03bc\u03b1). Literally, 'three years since (from which time) I come.'",
+            "Cut it down (\u03b5\u03ba\u03ba\u03bf\u03c8\u03bf\u03bd). 'Cut it out,' the Greek has it, out of the vineyard.",
+            "Doth cumber the ground (\u03c4\u03b7\u03bd \u03b3\u03b7\u03bd \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03b5). Makes the ground completely idle, of no use."
+        ],
+        "John Gill": [
+            "behold, there are three years since I came\"; so read the Vulgate Latin and Persic versions, and Beza's most ancient copy.",
+            "These trees bear fruit once in three years; they bear fruit indeed every year, but their fruit does not come to maturity till after three years.",
+            "unfruitful trees suck up the juices of the earth, and draw away nourishment from other trees that are near them, and so make the earth barren, and not only hurt other trees, but stand in the way and place of fruitful ones."
+        ],
+        "John Wesley": [
+            "Three years \u2014 Christ was then in the third year of his ministry. But it may mean only several years; a certain number being put for an uncertain.",
+            "Why doth it also cumber the ground? \u2014 That is, not only bear no fruit itself, but take up the ground of another tree that would."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, it seems that an allusion is made to the three years of our Lord's ministry, highlighting a sufficient period of cultivation for spiritual fruit. The fig tree not only fails to bear fruit, but it also impoverishes the soil and renders neighboring ground useless. Symbolically, the unfruitful tree draws away the nutrients, shading and occupying room that could have been used by the vines. This unfruitfulness is not only useless, but it also causes harm. Ultimately, the tree is to be cut down, for its damnation is just, and the universe will bow to the decree of God.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.7922884654651343,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+            "commentatorTierSimilarities": [
+                27.77,
+                34.31,
+                37.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this context, the fig tree symbolizes unfruitfulness, wasting both space and resources. With three years representing a significant period for fruit cultivation, the tree's failure not only renders the neighboring ground useless but also hinders the growth of the vines. This unproductive state not only offers no benefit but actively harms, making it justifiable to cut it out from the vineyard. Its removal is necessary for the preservation and productivity of the surrounding plants.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.6224720057794202,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+            "commentatorTierSimilarities": [
+                29.4,
+                34.97,
+                35.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this context, the fig tree is unfruitful and detrimental to the surrounding soil and plants. It draws away nutrients and occupies space that could be used for productive purposes. The language used is indignant, suggesting a rightful anger towards the tree's lack of fruitfulness. With three years representing a sufficient period for cultivation, the tree's sterile state becomes even more evident. Ultimately, it is justifiable to remove the tree from the vineyard in order to prevent further harm and allow for fruitful growth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.5841418593827936,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.02,
+            "commentatorTierSimilarities": [
+                29.61,
+                34.85,
+                35.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this context, the fig tree's unfruitfulness is highlighted as it not only fails to bear fruit but also impoverishes the soil and renders the neighboring ground useless. The tree's unproductive state is not only useless but also harmful, drawing away resources from other plants and taking up valuable space. With three years indicating a sufficient period of cultivation, the tree's unfruitfulness becomes even more apparent. In response to this, it is justifiable to cut out the tree to prevent further harm and make fertile ground for fruitful growth.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6821187687977823,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                26.42,
+                31.2,
+                42.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this context, the fig tree serves as a symbol of unfruitfulness and wasted potential. The tree not only fails to bear fruit, but it also impoverishes the soil and hinders the growth of neighboring plants. The three-year timeline is significant, representing a sufficient period for cultivation. The language used expresses indignation towards the tree's lack of productivity. Ultimately, it is justifiable to remove the tree from the vineyard to prevent further harm and make space for fruitful growth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.5862688680696873,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.09,
+            "commentatorTierSimilarities": [
+                29.3,
+                31.06,
+                39.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:15:03",
+    "verseRef": "2 Corinthians 1:3",
+    "bestBHT": {
+        "bht": "Blessed is the God and Father of our Lord Jesus Christ, the Father of mercies and the God of all comfort. He is the source of all comfort, flowing from His mercies experienced. The tribulations believers face do not negate God's mercy, but rather reveal that He is the God of all comfort. All true joy and genuine Christian consolation come from Him. May God be praised and glorified, for He shows mercy even in affliction and provides comfort throughout and after it.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.23,
+        "qualityScore": 2.4076584569040085,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.39,
+        "commentatorTierSimilarities": [
+            32.29,
+            30.91,
+            36.8
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed (above all others) is the God and Father of our Lord Jesus Christ.",
+            "The Father of mercies, i.e. who has shewn us so great mercies.",
+            "The Apostle lived not for himself, but for the Church: so that whatever grace God conferred on him, he thought given not for himself alone, but to enable him the better to help others."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Father of mercies\u2014that is, the SOURCE of all mercies.",
+            "Comfort\u2014which flows from His 'mercies' experienced.",
+            "The 'tribulation' of believers is not inconsistent with God's mercy, and does not beget in them suspicion of it; nay, in the end they feel that He is 'the God of ALL comfort,' that is, who imparts the only true and perfect comfort in every instance."
+        ],
+        "Albert Barnes": [
+            "It is one that is exceedingly valuable, as showing that there may be elevated joy in the midst of deep affliction.",
+            "That is genuine Christian consolation which acknowledges the Lord Jesus as the medium by whom it is imparted; that is proper thanksgiving to God which is offered through the Redeemer; that only is the proper acknowledgment of God which recognizes him as the 'Father of the Lord Jesus.'",
+            "God has the paternity of all true joy. It is one of his special and glorious attributes that he thus produces consolation and mercy."
+        ],
+        "Marvin Vincent": [
+            "The Father of mercies... the compassionate Father... the feeling which expresses itself in the exclamation oi oh! on seeing another's misery.\" ",
+            "The distinction between this and eleov, according to which oijktirmov signifies the feeling, and eleov the manifestation, cannot be strictly held, since the manifestation is often expressed by oijktirmov.",
+            "All comfort... applied to God... the God of every consolation."
+        ],
+        "John Calvin": [
+            "Blessed be God, says he. On what account? who comforteth us \u2014 the relative being used instead of the causal particle.\" (Commentary)",
+            "He calls him the Father of our Lord Jesus Christ, and not without good reason, where blessings are treated of; for where Christ is not, there the beneficence of God is not.\" (Commentary)",
+            "On the other hand, where Christ intervenes, by whom the whole family in heaven and earth is named, there are all mercies and all consolations of God \u2014 nay, more, there is fatherly love, the fountain from which everything else flows.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "Blessed be the God and Father, etc. not \u2018Blessed is God\u2019...the Father of mercies and God of all comfort.\" ",
+            "How the capacity to sympathize with the suffering is acquired by the personal experience of suffering, and deepened in proportion to the extent and variety of that experience, who does not know?\" ",
+            "The perfection of it is found in One alone."
+        ],
+        "Archibald T. Robertson": [
+            "Paul has no thanksgiving or prayer as in 1 Corinthians 1:4-9, but he finds his basis for gratitude in God, not in them.",
+            "He is the compassionate Father characterized by mercies (\u03bf\u03b9\u03ba\u03c4\u03b9\u03c1\u03bc\u03c9\u03bd, old word from \u03bf\u03b9\u03ba\u03c4\u03b5\u03b9\u03c1\u03c9, to pity, and here in plural, emotions and acts of pity).",
+            "He is the God of all comfort (\u03c0\u03b1\u03c1\u03b1\u03ba\u03bb\u03b7\u03c3\u03b5\u03c9\u03c2, old word from \u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03b5\u03c9, to call to one's side, common with Paul)."
+        ],
+        "John Gill": [
+            "he can only be blessed of men, by their praising and glorifying him, or by ascribing honour and blessing to him",
+            "there is no mercy nor comfort administered to the sons of men but through the Lord Jesus Christ, the Son of God, and Saviour of sinners",
+            "there is no solid comfort but what comes from him; there is none to be had in, and from the creatures; and whatever is had through them it is from him"
+        ],
+        "John Wesley": [
+            "Blessed be the God and Father of our Lord Jesus Christ.\" ",
+            "The Father of mercies, and God of all comfort.",
+            "God shows mercy in the affliction itself. He gives comfort both in and after the affliction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed is the God and Father of our Lord Jesus Christ, the Father of mercies, who has shown us great mercies so that we may in turn help others. He is the source of all comfort, flowing from His mercies experienced. The tribulations believers face do not negate God's mercy, but rather reveal that He is the God of all comfort. He is the compassionate Father, characterized by mercies and the God of every consolation. All true joy and genuine Christian consolation come from Him, and it is through Christ that all mercies and comfort are administered. We are able to offer proper thanksgiving and acknowledge God as the Father of our Lord Jesus because of His role as the medium through whom comfort and mercy are imparted. May God be praised and glorified, for He shows mercy even in affliction and provides comfort throughout and after it.",
+            "wordCount": 149,
+            "quoteTokenProportion": 45.68,
+            "qualityScore": 2.4546068462609103,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.96,
+            "commentatorTierSimilarities": [
+                32.53,
+                31.17,
+                36.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed is the God and Father of our Lord Jesus Christ, the Father of mercies, who has shown us great mercies so that we may in turn help others. He is the source of all comfort, flowing from His mercies experienced. The tribulations believers face do not negate God's mercy, but rather reveal that He is the God of all comfort. He is the compassionate Father, characterized by mercies and the God of every consolation. All true joy and genuine Christian consolation come from Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.3763783635995717,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.35,
+            "commentatorTierSimilarities": [
+                34.06,
+                30.54,
+                35.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed is the God and Father of our Lord Jesus Christ, the Father of mercies and the God of all comfort. He is the source of all comfort, flowing from His mercies experienced. The tribulations believers face do not negate God's mercy, but rather reveal that He is the God of all comfort. All true joy and genuine Christian consolation come from Him. May God be praised and glorified, for He shows mercy even in affliction and provides comfort throughout and after it.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.4076584569040085,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.39,
+            "commentatorTierSimilarities": [
+                32.29,
+                30.91,
+                36.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed is the God and Father of our Lord Jesus Christ, the Father of mercies, who has shown us so great mercies. The Apostle lived not for himself, but for the Church, so whatever grace God gave him was not for himself alone, but to better help others. The 'tribulation' of believers does not hide God's mercy, but rather demonstrates that He is the God of all comfort. He is the compassionate Father, the source of every consolation, and the one who imparts true and perfect comfort in every instance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.4030158963770853,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.24,
+            "commentatorTierSimilarities": [
+                34.23,
+                29.54,
+                36.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed is the God and Father of our Lord Jesus Christ, the Father of mercies. The Apostle Paul recognized that the grace bestowed upon him was not solely for his benefit, but for the betterment of others. Even in the midst of believers' tribulations, God's mercy remains, revealing Him as the God of all comfort. He is the compassionate Father, the source of every consolation. In every instance, He imparts true and perfect comfort, making Him deserving of praise and gratitude.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.261526704875042,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.54,
+            "commentatorTierSimilarities": [
+                34.25,
+                30.58,
+                35.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

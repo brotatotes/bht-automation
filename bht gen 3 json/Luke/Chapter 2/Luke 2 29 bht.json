@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:14:13",
+    "verseRef": "Luke 2:29",
+    "bestBHT": {
+        "bht": "Simeon, the aged saint, desired to depart in peace, regarding his death as the termination of his servitude and the enfranchisement from his earthly service. Having fulfilled his purpose of seeing and embracing the Savior, Simeon's prayer was an adoration filled with rapture and vivid intensity. His words expressed a patient yet reverential mode of wishing to be released, as he longed to enter into eternity with the calmness and tranquility of mind that comes from obtaining all that one could wish for in the presence of the Son of God.",
+        "wordCount": 92,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.992427552626515,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+        "commentatorTierSimilarities": [
+            33.54,
+            22.6,
+            43.86
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Lettest thou depart, not from life, or out of the earth...\" ",
+            "...but as being thy servant, he thinks of his death as the termination of, and so dismissal from, his servitude."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "selected here with peculiar propriety, when the aged saint, feeling that his last object in wishing to live had now been attained, only awaited his Master's word of command to 'depart.'\" ",
+            "now Thou art releasing Thy servant\" a patient yet reverential mode of expressing a desire to depart."
+        ],
+        "Albert Barnes": [
+            "Now thou 'dost' let or permit... by having relieved his anxieties, allayed his fears, fulfilled the promises.\" ",
+            "God never disappoints... God fulfils all his word, keeps all his promises.",
+            "never disappoints those who trust in him."
+        ],
+        "Marvin Vincent": [
+            "The word is often used of manumitting or setting free on payment of ransom; and as Simeon uses the word for bond servant, it is evident that his death is conceived by him under the figure of enfranchisement from service.",
+            "O Lord.\" ",
+            "In peace. Rev. properly puts this in its emphatic position at the end of the sentence."
+        ],
+        "John Calvin": [
+            "The Spirit of God enlightened his eyes by faith, to perceive, under a mean and poor dress, the glory of the Son of God.",
+            "He says, that he would be sent away in peace; which means, that he would die with composure of mind, having obtained all that he desired.",
+            "If Simeon had said exactly, 'Now I shall die with a composed and easy mind, because I have seen the Son of God,' this expression would have indicated the weakness of his faith; but, as he had the word, he might have refused to die until the coming of Christ."
+        ],
+        "Philip Schaff": [
+            "The words of Simeon are poetic in their form, and even in a translation retain their peculiar beauty.\" ",
+            "Death is regarded as the dismissal from honorable service.",
+            "In peace, in the fullest sense of happiness, blessedness. This is the result of the release asked for."
+        ],
+        "Archibald T. Robertson": [
+            "The Nunc Dimittis, adoration and praise. It is full of rapture and vivid intensity like the best of the Psalms.",
+            "The verb \u03b1\u03c0\u03bf\u03bb\u03c5\u03c9 was common for the manumission of slaves and Simeon here calls himself 'thy slave (\u03b4\u03bf\u03c5\u03bb\u03bf\u03bd \u03c3\u03bf\u03c5), Lord (\u0394\u03b5\u03c3\u03c0\u03bf\u03c4\u03b1, our despot).'"
+        ],
+        "John Gill": [
+            "Lord, now lettest thou thy servant...to depart in peace...\" ",
+            "...having obtained all that he could wish for and desire, in seeing and embracing the Saviour...\" ",
+            "...he could take his leave of the world, and his entrance into eternity, with the greatest calmness and tranquillity of mind..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Simeon, a faithful servant of the Lord, longed for his departure not from life itself, but from his earthly service. In his old age, he knew that his ultimate purpose had been fulfilled upon seeing the Savior. With reverent words, he expressed his desire to be released from his servitude, likening it to being set free as a bond servant. Simeon's prayer to depart in peace is an adoration filled with rapture and intensity. In the end, he could bid farewell to the world and enter eternity with a calm and tranquil heart, having obtained all that he could wish for in seeing and embracing the Son of God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 1.911195710233169,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.89,
+            "commentatorTierSimilarities": [
+                32.84,
+                26.37,
+                40.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Simeon, an aged saint, viewed his impending death as the termination of his servitude, eagerly awaiting God's command to depart in peace. His desire to be released was like a bond servant being set free, a patient yet reverential expression of his longing. Simeon's prayer was full of adoration and praise, reflecting his rapture and vivid intensity. Having seen and embraced the Savior, he could calmly and tranquilly bid farewell to the world, having obtained all that he desired.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.8888622540449298,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                34.64,
+                25.25,
+                40.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Simeon, the faithful servant of the Lord, expressed his desire to depart from earthly service and described his impending death as a release from his servitude. In his prayer, he implored the Lord to let him go in peace, having fulfilled the purpose of his life by seeing and embracing the Savior. Simeon's words were filled with adoration and rapture, reflecting his intense longing and the calmness with which he approached his entrance into eternity.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.9919459533553665,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.57,
+            "commentatorTierSimilarities": [
+                32.44,
+                24.96,
+                42.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Simeon, the aged saint, desired to depart in peace, regarding his death as the termination of his servitude and the enfranchisement from his earthly service. Having fulfilled his purpose of seeing and embracing the Savior, Simeon's prayer was an adoration filled with rapture and vivid intensity. His words expressed a patient yet reverential mode of wishing to be released, as he longed to enter into eternity with the calmness and tranquility of mind that comes from obtaining all that one could wish for in the presence of the Son of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.992427552626515,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                33.54,
+                22.6,
+                43.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simeon, a faithful servant of the Lord, viewed his impending death as the termination of his servitude, eagerly awaiting God's command to depart in peace. His desire to be released was like a bond servant being set free, a patient yet reverential expression of his longing. Simeon's prayer was full of adoration, rapture, and vivid intensity, reflecting his heartfelt joy in finally seeing and embracing the Savior. With tranquility and calmness, he could now bid farewell to the world and enter eternity, having obtained all that he had desired.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.9443593171392732,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+            "commentatorTierSimilarities": [
+                34.07,
+                24.95,
+                40.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

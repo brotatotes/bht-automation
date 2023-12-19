@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:23:32",
+    "verseRef": "Luke 23:44",
+    "bestBHT": {
+        "bht": "Around midday, darkness descended upon the earth, shrouding both the upper and lower hemispheres. The sun was concealed, resulting in a profound darkness that covered the entire land. This momentous occurrence, which transpired during the crucifixion of Jesus, highlighted the tremendous significance of this event in history. This darkness was not a natural phenomenon but a purposeful act of symbolism, representing the immense weight and magnitude of Jesus' sacrifice on the cross.",
+        "wordCount": 72,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 0.720627332156744,
+        "qualityScoreNormalizedComparedToV2BHTs": 15.31,
+        "commentatorTierSimilarities": [
+            31.75,
+            0.0,
+            68.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Sixth hour. Midday. ",
+            "Ninth hour. See on Matthew 27:46."
+        ],
+        "John Gill": [
+            "And it was about the sixth hour,.... Or twelve o'clock at noon; and so the Ethiopic version, when it was noon;",
+            " :-."
+        ],
+        "John Wesley": [
+            "There was darkness over all the earth \u2014 The noon-tide darkness, covering the sun, obscured all the upper hemisphere.",
+            "And the lower was equally darkened, the moon being in opposition to the sun, and so receiving no light from it.",
+            "Matthew 27:45."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At around midday, darkness fell upon the earth, enveloping both the upper and lower hemispheres. The sun was obscured, causing a profound darkness that reached across the land. This event, described in the Gospel of Luke, took place during the crucifixion of Jesus, further emphasizing the significance of this moment in history. This darkness was not a mere natural occurrence but a deeply symbolic event, representing the weight and magnitude of Jesus' sacrifice on the cross.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.7532626701647711,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.39,
+            "commentatorTierSimilarities": [
+                32.7,
+                0.0,
+                67.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Around midday, darkness descended upon the earth, shrouding both the upper and lower hemispheres. The sun was concealed, resulting in a profound darkness that covered the entire land. This momentous occurrence, which transpired during the crucifixion of Jesus, highlighted the tremendous significance of this event in history. This darkness was not a natural phenomenon but a purposeful act of symbolism, representing the immense weight and magnitude of Jesus' sacrifice on the cross.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 0.720627332156744,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.31,
+            "commentatorTierSimilarities": [
+                31.75,
+                0.0,
+                68.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At approximately midday, darkness blanketed the earth, enveloping both the upper and lower hemispheres. The sun was obscured, causing a deep darkness that covered the entire land. This remarkable event occurred during the crucifixion of Jesus, serving as a powerful testament to the profound significance of this moment in history. It was not a natural occurrence, but rather a deliberate and symbolic act, representing the immense gravity and impact of Jesus' sacrificial death on the cross.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 0.6567812030699094,
+            "qualityScoreNormalizedComparedToV2BHTs": 13.18,
+            "commentatorTierSimilarities": [
+                29.96,
+                0.0,
+                70.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Around midday, darkness fell and covered the entire earth, concealing the sun's light. This remarkable event, occurring during the crucifixion of Jesus, held immense symbolism, signifying the weight and magnitude of His sacrificial death on the cross. The darkness was not a natural phenomenon but a deliberate and purposeful act that underscored the profound significance of this pivotal moment in history. It serves as a powerful testament to the depth of Jesus' love and the magnitude of His redemptive work.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 0.60082735859733,
+            "qualityScoreNormalizedComparedToV2BHTs": 11.32,
+            "commentatorTierSimilarities": [
+                30.58,
+                0.0,
+                69.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Around midday, darkness covered the earth, concealing the sun's light. This remarkable event, during the crucifixion of Jesus, held immense symbolism, signifying the weight and magnitude of His sacrificial death on the cross. This darkness was a deliberate act, emphasizing the profound significance of this pivotal moment. It serves as a powerful testament to Jesus' love and redemptive work.",
+            "wordCount": 60,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 0.6264454926641894,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.17,
+            "commentatorTierSimilarities": [
+                38.04,
+                0.0,
+                61.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

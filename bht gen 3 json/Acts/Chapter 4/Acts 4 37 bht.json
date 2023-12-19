@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:26:24",
+    "verseRef": "Acts 4:37",
+    "bestBHT": {
+        "bht": "The Spirit's transformative presence united the community, eradicating selfishness and emphasizing Christian unity. This manifested through the community's shared possessions, a natural response in their context. A Levite, lacking a distinct inheritance, sold his land, brought the money, and humbly laid it at the apostles' feet. This act symbolized both his generosity and his unique position. The Gospel's power caused a stirring commotion, shaking foundations and overthrowing opposing forces, signifying the impact it was destined to have.",
+        "wordCount": 80,
+        "quoteTokenProportion": 22.95,
+        "qualityScore": 1.140395077315988,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.26,
+        "commentatorTierSimilarities": [
+            57.19,
+            0.0,
+            42.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "place was shaken\u2014glorious...the commotion which the Gospel was to make ( :-; compare Acts 16:26), and the overthrow of all opposing powers in which this was to issue.",
+            "The Spirit rested upon the entire community...in melting down all selfishness, and absorbing even the feeling of individuality in an intense and glowing realization of Christian unity.",
+            "The community of goods was but an outward expression of this, and natural in such circumstances."
+        ],
+        "Marvin Vincent": [
+            "The money [\u03c4\u03bf \u03c7\u03c1\u03b7\u03bc\u03b1] . The sum of money. "
+        ],
+        "Archibald T. Robertson": [
+            "Having a held (\u03c5\u03c0\u03b1\u03c1\u03c7\u03bf\u03bd\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03c9 \u03b1\u03b3\u03c1\u03bf\u03c5).\" ",
+            "Sold it and brought (\u03c0\u03c9\u03bb\u03b7\u03c3\u03b1\u03c2 \u03b7\u03bd\u03b5\u03b3\u03ba\u03b5\u03bd).",
+            "So also with \u03b5\u03b8\u03b7\u03ba\u03b5\u03bd (laid), first aorist active."
+        ],
+        "John Gill": [
+            "Having land, sold it.\" ",
+            "And brought the money.\" ",
+            "And laid it at the apostles' feet."
+        ],
+        "John Wesley": [
+            "Having an estate \u2014 Probably of considerable value.",
+            "Being a Levite, he had no portion, no distinct inheritance in Israel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The community in Acts 4:37 experienced a powerful spiritual transformation as the Spirit rested upon them, melting away their selfishness and highlighting their Christian unity. This unity was expressed through their communal sharing of goods, which was a natural response in their circumstances. One member of the community, a Levite, sold his land and brought the money, laying it at the apostles' feet. This act showcased not only his generosity but also his lack of inheritance as a Levite. The commotion caused by the power of the Gospel was shaking the very foundations and overthrowing opposing powers.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.1002512283460333,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.93,
+            "commentatorTierSimilarities": [
+                59.32,
+                0.0,
+                40.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The community in question experienced a powerful transformation as the Spirit rested upon them, melting away their selfishness and highlighting their Christian unity. This unity was expressed through their communal sharing of goods, a natural response in their circumstances. One member, a Levite, sold his land and brought the money, showcasing his generosity and lack of inheritance. The commotion caused by the power of the Gospel shook the very foundations, overthrowing opposing powers.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.0995428606239774,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.9,
+            "commentatorTierSimilarities": [
+                67.25,
+                0.0,
+                32.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit's transformative presence united the community, eradicating selfishness and emphasizing Christian unity. This manifested through the community's shared possessions, a natural response in their context. A Levite, lacking a distinct inheritance, sold his land, brought the money, and humbly laid it at the apostles' feet. This act symbolized both his generosity and his unique position. The Gospel's power caused a stirring commotion, shaking foundations and overthrowing opposing forces, signifying the impact it was destined to have.",
+            "wordCount": 80,
+            "quoteTokenProportion": 22.95,
+            "qualityScore": 1.140395077315988,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.26,
+            "commentatorTierSimilarities": [
+                57.19,
+                0.0,
+                42.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The community in Acts 4:37 experienced a powerful spiritual transformation as the Spirit rested upon them. This resulted in melting away selfishness and intensifying Christian unity. The outward expression of this unity was seen in their communal sharing of goods. One member of the community, a Levite, sold his land and brought the money, laying it at the apostles' feet. This act not only showcased his generosity but also his lack of inheritance as a Levite. The power of the Gospel caused a commotion that shook foundations and overthrew opposing powers, foretelling the impact it would have.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.1072950458981827,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.16,
+            "commentatorTierSimilarities": [
+                60.44,
+                0.0,
+                39.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 4:37, the community experienced a transformative spiritual encounter with the Spirit's presence. This resulted in the dissolution of individual selfishness and the strengthening of their Christian unity. They expressed this unity through their communal sharing of possessions, which was a natural response in their particular circumstances. A Levite among them sold his land, symbolizing both his generosity and lack of inherited portion. The commotion caused by the power of the Gospel shook foundations and overcame opposing forces, foreshadowing its profound impact.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.0301761881872997,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.6,
+            "commentatorTierSimilarities": [
+                62.47,
+                0.0,
+                37.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

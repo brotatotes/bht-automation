@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:30:00",
+    "verseRef": "Acts 12:14",
+    "bestBHT": {
+        "bht": "In a heartwarming twist, the maid who recognized Peter's voice from his frequent visits left him standing outside the door, filled with joy. Neglecting to open the door out of gladness, she hurried inside to share the good news with the assembled company. This incident beautifully captures the deep love and care that people, even those in lower ranks like servants and slaves, had for the apostle. It exemplifies how they shared in both the hopes and fears of those socially above them.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 1.5399695129965667,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+        "commentatorTierSimilarities": [
+            22.92,
+            43.69,
+            33.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "14. opened not for gladness, but ran",
+            "\tin and told, &amp;c.\u2014How exquisite is this touch of nature!"
+        ],
+        "Albert Barnes": [
+            "At this time of night, and in these circumstances, the door would be fastened.",
+            "Christians were doubtless alarmed by the death of James and the imprisonment of Peter, and they would take all possible precautions for their own safety.",
+            "In her joy she hastened to inform those who were assembled of the safety of Peter."
+        ],
+        "Marvin Vincent": [
+            "She knew. Or recognized."
+        ],
+        "Philip Schaff": [
+            "So eager was Rhoda...to make the others assembled there that night partakers of the great joy she felt in beholding Peter again alive and free.\" ",
+            "This is a striking incident, and shows how the apostle was loved by all orders and ranks.\" ",
+            "Chrysostom draws attention here to the fact that slaves and servants in the early Church shared in the hopes and fears of those socially above them."
+        ],
+        "Archibald T. Robertson": [
+            "She knew Peter and his voice from his frequent visits there.\" ",
+            "From her joy (ablative case), life-like picture of the maid who left Peter standing outside with the door to the passageway unopened.\" ",
+            "The slave girl acted as if she were a member of the family, but she left Peter in peril."
+        ],
+        "John Gill": [
+            "she opened not the gate for gladness",
+            "filled with joy to hear his voice",
+            "and in haste to carry the welcome news to the company within"
+        ],
+        "John Wesley": [
+            "And knowing Peter's voice \u2014 Bidding her open the door."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The maid, recognizing Peter's voice from his frequent visits, left him standing outside the door, filled with joy to hear his voice. She acted as if she were a member of the family, wanting to share the great joy she felt in beholding Peter again alive and free. Eager to carry the welcome news to the assembled company, she opened not the gate for gladness, but instead ran inside to inform them of Peter's safety. This incident shows the deep love and concern that all orders and ranks of people had for the apostle, even slaves and servants who shared in both the hopes and fears of those above them.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.6707289844465363,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.89,
+            "commentatorTierSimilarities": [
+                23.81,
+                40.58,
+                35.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a heartwarming twist, the maid who recognized Peter's voice from his frequent visits left him standing outside the door, filled with joy. Neglecting to open the door out of gladness, she hurried inside to share the good news with the assembled company. This incident beautifully captures the deep love and care that people, even those in lower ranks like servants and slaves, had for the apostle. It exemplifies how they shared in both the hopes and fears of those socially above them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.5399695129965667,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                22.92,
+                43.69,
+                33.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Recognizing Peter's voice, the maid who frequently saw him refrained from opening the door for gladness, and rushed inside to share the joyous news. This incident reveals the remarkable bond between Peter and those around him, even extending to those in lower ranks like slaves and servants. Their deep love and concern for the apostle led them to share in his hopes and fears, making them an integral part of the early Church community.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5074032882071013,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+            "commentatorTierSimilarities": [
+                18.43,
+                47.91,
+                33.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Filled with joy upon recognizing Peter's voice, the maid hesitated to open the door, instead, running inside to share the news with the assembled company. This incident beautifully portrays the love and devotion people had for the apostle, regardless of their social status. It highlights the deep bond within the early Church community, where even slaves and servants shared in the hopes and fears of those above them. Their eagerness to spread the good news exemplifies the unity and support found among believers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.4114918582440126,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.27,
+            "commentatorTierSimilarities": [
+                19.64,
+                47.74,
+                32.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Recognizing Peter's voice, the maid joyfully refrained from opening the door, choosing instead to quickly inform the assembled company. This incident beautifully portrays the love and concern that people, even those socially lower like servants and slaves, had for the apostle. The deep connection between Peter and those around him is evident as they shared in both their hopes and fears. This unity and support within the early Church community is a testament to the strong bond among believers.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.416797875929719,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.45,
+            "commentatorTierSimilarities": [
+                18.8,
+                50.33,
+                30.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:29:39",
+    "verseRef": "Acts 10:42",
+    "bestBHT": {
+        "bht": "The apostolic command highlights the universal mission of Christ and the important truth that Jesus is the Judge. The apostles testify that Jesus was crucified and hanged on a tree, emphasizing the historical facts on which the Gospel stands. This proclamation, along with the preaching of the Gospel, confidently establishes Jesus' authority and qualifications as the Mediator, possessing immeasurable power, wisdom, faithfulness, and righteousness to judge all people. The words of Christ being the Judge of the living and the dead serve as a powerful reminder that our ultimate happiness hinges on humble submission to Him.",
+        "wordCount": 96,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.8985698583327113,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+        "commentatorTierSimilarities": [
+            30.2,
+            31.06,
+            38.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That was all which in the apostolic mind, up to this time, the command had absolutely enjoined.",
+            "This expression gives at once a universality to the office and mission of Christ, which prepares the way for the great truth declared in the next verse.",
+            "A canon of interpretation which should constantly be borne in mind is, that a figurative sense of words is never admissible, EXCEPT WHEN REQUIRED BY THE CONTEXT."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We are witnesses of all . . . he did\u2014not objects of superstitious reverence, but simply witnesses to the great historical facts on which the Gospel is founded.",
+            "slew and hanged\u2014that is, slew by hanging.",
+            "on a tree\u2014So."
+        ],
+        "Albert Barnes": [
+            "And to testify - To bear witness.",
+            "Of quick - The living.",
+            "The doctrine of the New Testament is, that those who are alive when the Lord Jesus shall return to judge the world, will be caught up in vast numbers like clouds, to meet him in the air, without seeing death..."
+        ],
+        "Marvin Vincent": [
+            "Testify [\u03b4\u03b9\u03b1\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b1\u03c3\u03b8\u03b1\u03b9] . See on ch. Acts 2:40. ",
+            "Remission. See on Luke 3:3; James 5:15."
+        ],
+        "John Calvin": [
+            "He saith that he shall be judge of quick and dead; because, when as the dead shall rise again, others also, who shall then remain alive, shall be changed in a moment...",
+            "In the word testify there is great weight; because, as men are naturally inclined unto unbelief, the simple preaching of the gospel should not be so effectual, unless the Lord should establish it with strong protestations.",
+            "And chiefly, every one of us doth feel in himself too much what a hard matter it is both to lift up our minds to hope for the coming of Christ, which are entangled in earthly snares, and also continually to keep them fixed in this meditation..."
+        ],
+        "Philip Schaff": [
+            "The quoting of this royal command puts Christ before Cornelius in the position of supreme dignity.",
+            "Again the Lord Jesus, and in a more awful manner, is set forth in the position of supreme dignity.",
+            "His judicial work is made prominent here, as in St. Paul\u2019s address to heathen listeners at Athens (Acts 17:31)."
+        ],
+        "Archibald T. Robertson": [
+            "He charged... there Jesus is the subject and so probably here, though Page insists that \u03bf \u03b8\u03b5\u03bf\u03c2 (God) is here...",
+            "To testify... see on Acts 2:40.",
+            "Judge... Peter's claim for Jesus is that he is the Judge of Jew and Gentile (living and dead)."
+        ],
+        "John Gill": [
+            "The preaching of the Gospel is a testification of Christ, or a bearing a testimony for him.",
+            "That there will be a general judgment at the last day is certain, from the reason of things; from the relation of creatures to God as their Creator, to whom they are accountable for their conduct and actions.",
+            "Christ...has all power and authority given him as Mediator... and for it he is every way qualified: he is of great and infinite majesty, being the mighty God; of great sagacity and wisdom... and he is of great faithfulness and integrity, and will judge with righteousness and equity."
+        ],
+        "John Wesley": [
+            "It is he who is ordained by God the Judge of the living and the dead.\" ",
+            "Of all men, whether they are alive at his coming, or had died before it.",
+            "This was declaring to them, in the strongest terms, how entirely their happiness depended on a timely and humble subjection to him who was to be their final Judge."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostolic command emphasized the universal office and mission of Christ, highlighting the important truth that Jesus is the Judge of both Jew and Gentile, the living and the dead. As witnesses to the historical facts on which the Gospel is founded, the apostles testified that Jesus was crucified and hanged on a tree. This testimony, along with the preaching of the Gospel, was a powerful proclamation of Christ's authority and qualification as Mediator, who possesses limitless power, wisdom, faithfulness, righteousness, and equity to judge all men. The words of Christ being the Judge of the living and the dead served as a strong reminder to the listeners that their ultimate happiness depended on their humble submission to Him.",
+            "wordCount": 120,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.905766437032808,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                29.15,
+                30.16,
+                40.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostolic command highlights the universal mission of Christ and the important truth that Jesus is the Judge. The apostles testify that Jesus was crucified and hanged on a tree, emphasizing the historical facts on which the Gospel stands. This proclamation, along with the preaching of the Gospel, confidently establishes Jesus' authority and qualifications as the Mediator, possessing immeasurable power, wisdom, faithfulness, and righteousness to judge all people. The words of Christ being the Judge of the living and the dead serve as a powerful reminder that our ultimate happiness hinges on humble submission to Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8985698583327113,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                30.2,
+                31.06,
+                38.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostolic command emphasizes the universal office and mission of Christ as the Judge of both Jew and Gentile, the living and the dead. As witnesses to the historical facts of the Gospel, the apostles testify that Jesus was crucified and hanged on a tree, conveying the profound truth that our ultimate happiness depends on our humble submission to Him. Through the proclamation of the Gospel, Jesus' authority and qualifications as the Mediator are established, showcasing His immeasurable power, wisdom, faithfulness, righteousness, and equity to judge all people.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.8882878888440078,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.13,
+            "commentatorTierSimilarities": [
+                30.5,
+                30.91,
+                38.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostolic command highlights the universal mission of Christ, emphasizing that Jesus is the Judge of both Jew and Gentile, the living and the dead. As witnesses to the historical facts of the Gospel, the apostles testify that Jesus was crucified and hanged on a tree, proclaiming His authority and qualifications as the Mediator. This proclamation, along with the preaching of the Gospel, showcases Jesus' immeasurable power, wisdom, faithfulness, righteousness, and equity to judge all people. By recognizing Jesus as the Judge, we understand that our ultimate happiness depends on our humble submission to Him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8827598427548344,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+            "commentatorTierSimilarities": [
+                30.81,
+                30.19,
+                38.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostolic command highlights the universal mission of Christ as the Judge of both Jews and Gentiles, the living and the dead. Through their testimony, the apostles declare the historical facts on which the Gospel is founded, particularly the crucifixion and hanging of Jesus on a tree. This proclamation establishes Jesus' authority and qualifications as the Mediator, possessing immense power, wisdom, faithfulness, righteousness, and equity to judge all people. Recognizing Jesus as the Judge, we are reminded of the importance of humbly submitting to Him for our ultimate happiness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8147104908173026,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+            "commentatorTierSimilarities": [
+                29.87,
+                30.42,
+                39.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

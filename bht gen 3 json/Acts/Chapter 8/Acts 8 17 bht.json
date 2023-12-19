@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:28:06",
+    "verseRef": "Acts 8:17",
+    "bestBHT": {
+        "bht": "In this account, the apostles Peter and John laid hands on the believers in Samaria, not to assert superiority, but rather to invoke God's blessing through prayer. Laying on of hands was not limited to the apostles and did not guarantee the reception of the Holy Spirit. It served as a sign of God's grace, with its efficacy not dependent on the external ceremony itself. While it is unclear who exactly received this act, it likely included individuals who would play significant roles in proclaiming the gospel. The connection between this practice and confirmation remains inconclusive. The effects and ministry gifts associated with the laying on of hands have now ceased, rendering the ceremony devoid of substance.",
+        "wordCount": 119,
+        "quoteTokenProportion": 32.91,
+        "qualityScore": 1.413149565052799,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.33,
+        "commentatorTierSimilarities": [
+            28.49,
+            31.93,
+            39.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "14-17. the apostles . . . sent Peter",
+            "\tand John\u2014showing that they regarded Peter as no more than their",
+            "\town equal."
+        ],
+        "Albert Barnes": [
+            "This was an act of 'prayer,' expressing an invocation to God that he would impart the blessing to 'them.'",
+            "It is evident that it was not on 'all,' for they did not thus lay hands on Simon.",
+            "Perhaps it was done on a few of the more prominent and leading persons, who were to be employed particularly in bearing witness to the truth of the gospel."
+        ],
+        "John Calvin": [
+            "The laying on of hands followeth prayers, whereby they testify that the grace of the Spirit is not included in the external ceremony.",
+            "This is the profit and efficacy of signs, because God worketh in them, and yet he remaineth the only giver of grace and distributeth the same according to his good pleasure.",
+            "Since the Church was deprived of such riches, it is only a vain visor without any substance."
+        ],
+        "Archibald T. Robertson": [
+            "The laying on of hands did not occur at the great Pentecost nor in Acts 4:31; Acts 10:44 nor is it mentioned in Acts 8:1; Acts 8:14.\" ",
+            "It cannot be concluded that the Holy Spirit was received only by the laying on of the hands of the apostles or by the hands of anyone.",
+            "The so-called practice of 'confirmation' appeals to this passage, but inconclusively."
+        ],
+        "John Gill": [
+            "Whom [the Spirit of God] had designed, and now would qualify for the work of the ministry, that so this new church might be supplied with proper officers, pastors, and teachers.\" ",
+            "Ministerial gifts to qualify them for preaching the Gospel, but extraordinary ones, which would serve for the confirmation of it.\" ",
+            "Since now these effects have ceased, the rite and ceremony which was peculiar to the apostles as such, it should seem should cease likewise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 8:17, we see that the apostles Peter and John laid hands on the believers in Samaria, not because they considered themselves superior, but as an act of prayerful invocation to God. This practice of laying on of hands was not limited to the apostles and did not guarantee the reception of the Holy Spirit; rather, it served as a sign and testimony of God's grace. While the laying on of hands followed prayers, it is important to understand that the external ceremony itself did not contain the grace of the Spirit. It is worth noting that the laying on of hands was selective, possibly done on individuals who were to play key roles in proclaiming and witnessing the gospel. Although some have drawn parallels between this practice and confirmation, such connections are inconclusive. Ultimately, it is clear that the effects and extraordinary ministry gifts associated with the laying on of hands have ceased, rendering the ceremony no more than an empty ritual devoid of substance.",
+            "wordCount": 167,
+            "quoteTokenProportion": 39.0,
+            "qualityScore": 1.5464050524622266,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                27.51,
+                34.62,
+                37.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the apostles Peter and John lay hands on the believers in Samaria, not asserting their superiority, but rather praying to God for His blessing. The act of laying on of hands was not limited to the apostles, nor did it guarantee the reception of the Holy Spirit. Instead, it served as a sign of God's grace. Although the laying on of hands followed prayers, it is important to note that the external ceremony itself did not contain the grace of the Spirit. It is unclear who exactly received this act, but it likely included prominent individuals who would play significant roles in proclaiming the gospel. While some may draw parallels between this practice and confirmation, such connections are inconclusive. It is evident that the associated effects and extraordinary ministry gifts have ceased, rendering the ceremony an empty ritual without substance.",
+            "wordCount": 144,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.420166237316658,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.56,
+            "commentatorTierSimilarities": [
+                26.83,
+                34.44,
+                38.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, the apostles Peter and John laid hands on the believers in Samaria, not to assert superiority, but rather to invoke God's blessing through prayer. Laying on of hands was not limited to the apostles and did not guarantee the reception of the Holy Spirit. It served as a sign of God's grace, with its efficacy not dependent on the external ceremony itself. While it is unclear who exactly received this act, it likely included individuals who would play significant roles in proclaiming the gospel. The connection between this practice and confirmation remains inconclusive. The effects and ministry gifts associated with the laying on of hands have now ceased, rendering the ceremony devoid of substance.",
+            "wordCount": 119,
+            "quoteTokenProportion": 32.91,
+            "qualityScore": 1.413149565052799,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.33,
+            "commentatorTierSimilarities": [
+                28.49,
+                31.93,
+                39.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 8:17, the apostles Peter and John laid hands on the believers in Samaria as a prayerful invocation, not as an assertion of superiority. This practice of laying on of hands was not exclusive to the apostles, nor did it guarantee the reception of the Holy Spirit. Rather, it served as a sign and testimony of God's grace. However, the external ceremony itself did not encompass the grace of the Spirit, emphasizing that the efficacy of signs lies in God's work, not in external rituals. The specific individuals who received this act were likely those who would have crucial roles in proclaiming the gospel. The parallels drawn between this practice and confirmation are inconclusive. Nevertheless, it is evident that the effects and extraordinary ministry gifts associated with the laying on of hands have ceased, rendering the ceremony merely a hollow facade without true substance.",
+            "wordCount": 146,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4526694449619884,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.64,
+            "commentatorTierSimilarities": [
+                29.41,
+                32.56,
+                38.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 8:17, the apostles Peter and John pray over the believers in Samaria by laying hands on them. This act was not an assertion of superiority, but a humble invocation for God's blessing. Laying on of hands did not guarantee the reception of the Holy Spirit, but rather served as an outward sign of God's grace. The ceremony itself did not contain the grace of the Spirit. The individuals who received this act were likely prominent figures involved in proclaiming the gospel. While some may draw connections between this practice and confirmation, these similarities lack conclusive evidence. The extraordinary gifts associated with the laying on of hands have now ceased, rendering the ceremony empty without substance.",
+            "wordCount": 118,
+            "quoteTokenProportion": 38.75,
+            "qualityScore": 1.3894083210853347,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.54,
+            "commentatorTierSimilarities": [
+                29.96,
+                31.99,
+                38.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

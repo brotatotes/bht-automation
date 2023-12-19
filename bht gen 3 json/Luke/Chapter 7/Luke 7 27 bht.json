@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:16:00",
+    "verseRef": "Luke 7:27",
+    "bestBHT": {
+        "bht": "The command to prepare is highlighted in this text, emphasizing the significance of this readiness. The expression but little or comparatively little underscores the importance of this preparation. Furthermore, a prophecy from Malachi 3:1 is referenced, reinforcing the anticipation and expectation surrounding the arrival of a significant figure.",
+        "wordCount": 47,
+        "quoteTokenProportion": 31.43,
+        "qualityScore": 0.9594814636225177,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.25,
+        "commentatorTierSimilarities": [
+            49.05,
+            0.0,
+            50.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Prepare [\u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03b1\u03c3\u03b5\u03b9] . See on ch. Luke 1:17. ",
+            "Least [\u03bc\u03b9\u03ba\u03c1\u03bf\u03c4\u03b5\u03c1\u03bf\u03c2] . Lit., less. Rev., but little; or, as we might say, \"comparatively little."
+        ],
+        "John Gill": [
+            "This is he of whom it is written,.... In Malachi 3:1.",
+            "Malachi 3:1- :.",
+            "Malachi 3:1- :."
+        ],
+        "John Wesley": [
+            "Malachi 3:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the concept of preparation, as seen in the phrase Prepare. This preparation is described as comparatively little or but little, emphasizing its importance. Additionally, it is associated with the fulfillment of a prophecy from Malachi 3:1. The verse alludes to the anticipation of a significant figure, as indicated by the mention of a written scriptural reference.",
+            "wordCount": 58,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 0.9862625437665733,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.14,
+            "commentatorTierSimilarities": [
+                36.12,
+                0.0,
+                63.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The need for preparation is emphasized in this passage as it instructs to prepare for something significant. The phrase but little or comparatively little highlights the importance of this preparation. Additionally, a prophecy from Malachi 3:1 is mentioned, further alluding to the anticipation of an important figure.",
+            "wordCount": 46,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.056370254668944,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.47,
+            "commentatorTierSimilarities": [
+                43.47,
+                0.0,
+                56.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The call for preparation is emphasized, urging individuals to get ready for something of great significance. The phrase but little or comparatively little underscores the importance of this readiness. Furthermore, a reference to the prophetic words of Malachi 3:1 is made, reinforcing the anticipation surrounding the arrival of a significant figure.",
+            "wordCount": 50,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 0.907222948409419,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.51,
+            "commentatorTierSimilarities": [
+                47.56,
+                0.0,
+                52.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Prepare for the arrival of someone significant is the main focus of this verse. The phrase but little or comparatively little reminds us of the importance of this preparation. In addition, there is a reference to a prophecy from Malachi 3:1, which adds to the anticipation surrounding this individual.",
+            "wordCount": 48,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.07230277980682,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.0,
+            "commentatorTierSimilarities": [
+                43.41,
+                0.0,
+                56.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The command to prepare is highlighted in this text, emphasizing the significance of this readiness. The expression but little or comparatively little underscores the importance of this preparation. Furthermore, a prophecy from Malachi 3:1 is referenced, reinforcing the anticipation and expectation surrounding the arrival of a significant figure.",
+            "wordCount": 47,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 0.9594814636225177,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.25,
+            "commentatorTierSimilarities": [
+                49.05,
+                0.0,
+                50.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

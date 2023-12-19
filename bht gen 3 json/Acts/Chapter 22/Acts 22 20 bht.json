@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:35:18",
+    "verseRef": "Acts 22:20",
+    "bestBHT": {
+        "bht": "Stephen, a true martyr for Christ, not only witnessed but also confessed His glory before his death. The term martyr originally meant witness, but it later came to indicate one who suffers persecution and death for their faith. Stephen's conversion from a bitter enemy to fervent believer served as a powerful testimony to the Jews. A genuine convert, Stephen acknowledged his past sins and humbled himself, exemplifying the importance of lifelong remembrance and repentance for one's actions.",
+        "wordCount": 79,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.8694921831358977,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+        "commentatorTierSimilarities": [
+            31.87,
+            34.27,
+            33.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostle may have here used the word (speaking in Hebrew) in its strict primary sense; for a view of Christ in His glory was vouchsafed to Stephen, and it was by bearing witness of that manifestation that he hastened his death.",
+            "The present meaning of the word martyr did, however, become attached to it at a very early period, and is apparently of apostolic authority.",
+            "Many who had only seen with the eye of faith, suffered persecution and death as a proof of their sincerity. For such constancy the Greek had no adequate term. It was necessary for the Christians to provide one. None was more appropriate than \u2018witness\u2019 (martyr), seeing what had been the fate of those whom Christ had appointed to be His witnesses."
+        ],
+        "Albert Barnes": [
+            "The blood of thy martyr Stephen was shed.",
+            "I also was standing by - Acts 7:58.",
+            "And consenting unto his death - Acts 8:1."
+        ],
+        "Marvin Vincent": [
+            "Martyr. Better, as Rev., witness.",
+            "Standing by.",
+            "Consenting [\u03c3\u03c5\u03bd\u03b5\u03c5\u03b4\u03bf\u03ba\u03c9\u03bd]. See on allow, Luke 11:48; and compare Acts 8:1."
+        ],
+        "Philip Schaff": [
+            "It is hardly likely that the sense in which we understand the word 'martyr'... belonged as yet to the Greek word \u03bc\u03ac\u03c1\u03c4\u03c5\u03c1 or \u03bc\u03ac\u03c1\u03c4\u03c5\u03c2.\" ",
+            "Probably the transition from the general sense of 'witness' to the specific meaning of 'martyr' is traceable to its use in such passages as this and Revelation 2:13; Revelation 11:3; Revelation 17:6.\" ",
+            "'The transition from the first sense (witness) to the second sense (martyr) may be easily accounted for. Many, who had only seen with the eye of faith, suffered persecution and death as a proof of their sincerity."
+        ],
+        "Archibald T. Robertson": [
+            "Was shed...was being shed.",
+            "And 'martyr' also as in Revelation 2:13; Revelation 17:6.",
+            "He did not like the idea of running away to save his own life right where he had helped slay Stephen."
+        ],
+        "John Gill": [
+            "Stephen was a martyr for Christ, both by confession with his mouth, and by the effusion of his blood.",
+            "nor was he an idle and indifferent spectator.",
+            "and these things he mentions to suggest that surely the Jews would receive his testimony, since they knew what a bitter enemy he had been to this way."
+        ],
+        "John Wesley": [
+            "A real convert still retains the remembrance of his former sins.",
+            "He confesses them and is humbled for them.",
+            "All the days of his life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle may have used the word martyr in its primary sense, referring to Stephen's bearing witness of Christ's glory before his death. The term martyr became attached to the meaning of one who suffers persecution for their faith, which was fitting considering the fate of Christ's appointed witnesses. The word martyr is translated as witness in the passage, highlighting the solemnity and sincerity of those who endured persecution and death for their beliefs. Stephen was a true martyr, not simply a bystander, but one who had actively participated in the slaying of Stephen and experienced a powerful conversion. Even as a convert, he still remembered his sins, confessed them, and humbled himself.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9911596028780458,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.55,
+            "commentatorTierSimilarities": [
+                35.3,
+                35.94,
+                28.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stephen's martyrdom involved more than just being a witness; he confessed Christ's glory and endured persecution and death as proof of his faith. The word martyr was later associated with suffering for one's beliefs, but its original meaning referred to bearing witness. Stephen's conversion transformed him from a culprit to a true convert, deeply humbled by his past offenses. He served as a vivid example of repentance and sincerity, reminding others of the weight of their actions and the importance of a lifelong commitment to faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.7736196757663956,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+            "commentatorTierSimilarities": [
+                32.75,
+                34.93,
+                32.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Stephen, a true martyr for Christ, not only witnessed but also confessed His glory before his death. The term martyr originally meant witness, but it later came to indicate one who suffers persecution and death for their faith. Stephen's conversion from a bitter enemy to fervent believer served as a powerful testimony to the Jews. A genuine convert, Stephen acknowledged his past sins and humbled himself, exemplifying the importance of lifelong remembrance and repentance for one's actions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.8694921831358977,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                31.87,
+                34.27,
+                33.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephen's martyrdom as a witness of Christ's glory and his willingness to suffer for his faith exemplify the true meaning of being a witness, or martyr. The term martyr was later used specifically for those who faced persecution and death for their beliefs. Stephen's conversion from being a participant in the slaying of Stephen to a fervent believer attests to the transformative power of faith. He acknowledged his past sins, remaining humble and contrite, serving as a constant reminder of the weight of his actions and the need for ongoing repentance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7963852401594038,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.07,
+            "commentatorTierSimilarities": [
+                33.82,
+                34.6,
+                31.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stephen's martyrdom as a witness of Christ's glory and his willing sacrifice reflects the true essence of being a martyr. While the word martyr initially meant witness, it later gained the connotation of suffering and dying for one's faith. Stephen's radical conversion and awareness of his former sins drove him to confess and humbly repent. His life serves as a reminder of the importance of genuine faith, ongoing remembrance of past wrongs, and a commitment to live in alignment with Christ's teachings.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.8121973737192594,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+            "commentatorTierSimilarities": [
+                32.99,
+                33.71,
+                33.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

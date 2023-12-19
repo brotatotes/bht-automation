@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:21:26",
+    "verseRef": "Luke 18:22",
+    "bestBHT": {
+        "bht": "One thing is still missing, a fundamental lack. Yet, if this is given up, all will be made right. This act of surrendering everything, regardless of wealth, makes one a true heir of the kingdom of heaven. Jesus, looking at him, loved him and called him to come closer. He lacked one thing, something still needed by him. It was an extraordinary compliment for one striving for perfection. By distributing and giving to others, he would receive treasure in heaven and follow Jesus.",
+        "wordCount": 83,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 1.2346481985089035,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.4,
+        "commentatorTierSimilarities": [
+            48.47,
+            0.0,
+            51.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "lackest . . . one thing\u2014Ah! but that a fundamental, fatal lack.\" ",
+            "Now give Me up that, and all is right.",
+            "He who does this with all he has, whether rich or poor, is a true heir of the kingdom of heaven."
+        ],
+        "Marvin Vincent": [
+            "Yet lackest thou one thing. Still one thing is lacking to thee.",
+            "Jesus, looking upon him, loved him.",
+            "Come hither."
+        ],
+        "Archibald T. Robertson": [
+            "One thing thou lackest yet... one thing still fails thee or is wanting to thee.",
+            "It was an amazing compliment for one who was aiming at perfection.",
+            "Distribute... give to various ones."
+        ],
+        "John Gill": [
+            "Christ said, partly in answer to his pert question, 'what lack I yet?' and partly by an ironical concession, granting he had kept them all, as he had said, yet one thing was wanting; and chiefly with a view to mortify his pride and vanity.",
+            "Sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven, and come and follow me.",
+            "And thou shalt have treasure in heaven, and come and follow me."
+        ],
+        "John Wesley": [
+            "Yet lackest thou one thing \u2014 Namely, to love God more than mammon.",
+            "Christ commanded him to sell all that he had. But he does not command us to do this; but to use all to the glory of God.",
+            "To cure his love of the world, which could not in him be cured otherwise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "One thing is lacking, a fundamental, fatal lack. Yet, if it is given up, all is right. This act of giving up everything, whether rich or poor, makes one a true heir of the kingdom of heaven. Jesus, looking upon him, loved him, and beckoned him to come closer. He lacked one thing, something that still failed him. It was an amazing compliment for someone who sought perfection. By distributing and giving to various ones, he would have treasure in heaven and follow Jesus. This command to sell all and distribute was not meant for everyone, but it served to cure his love of the world, an ailment that could not otherwise be cured.",
+            "wordCount": 114,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.2896806704914745,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.23,
+            "commentatorTierSimilarities": [
+                45.99,
+                0.0,
+                54.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "One thing is still missing, a fundamental lack. Yet, if this is given up, all will be made right. This act of surrendering everything, regardless of wealth, makes one a true heir of the kingdom of heaven. Jesus, looking at him, loved him and called him to come closer. He lacked one thing, something still needed by him. It was an extraordinary compliment for one striving for perfection. By distributing and giving to others, he would receive treasure in heaven and follow Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.2346481985089035,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.4,
+            "commentatorTierSimilarities": [
+                48.47,
+                0.0,
+                51.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "One thing is lacking, a fatal lack that needs to be addressed. Surrendering this one thing will set everything right. It is an act that transcends material wealth, making one a true heir of heaven. Jesus, filled with love, invites him to draw near. There is still one thing missing, something that he lacks. It is a humbling but beautiful gesture, complimenting his pursuit of perfection. By giving and sharing with others, he will gain heavenly treasure and walk in the footsteps of Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.1755567318502569,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.43,
+            "commentatorTierSimilarities": [
+                51.54,
+                0.0,
+                48.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "One thing remains lacking, a fundamental deficiency that must be addressed. Surrendering this thing will rectify everything. It is not limited to the abundance of wealth, but pertains to all who seek to inherit the kingdom of heaven. Jesus, captivated by him, beckons him to come closer. Still, he is lacking one essential element. It is a remarkable affirmation to someone pursuing perfection. By distributing and giving to others, he shall amass treasures in heaven and follow Jesus faithfully.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.1643028836635412,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.06,
+            "commentatorTierSimilarities": [
+                50.11,
+                0.0,
+                49.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "One thing is lacking, a fundamental and fatal lack. However, if this missing element is surrendered, everything will be made right. Whether one is rich or poor, giving up this one thing makes them a true heir of the kingdom of heaven. Jesus, lovingly looking upon him, invites him to draw nearer. He still lacks one thing, an essential piece that is missing. This statement is both a profound compliment to his pursuit of perfection and an indication of what is needed. Through distribution and giving, treasures in heaven are obtained, and the path of following Jesus is embarked upon.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.1940252324205458,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.04,
+            "commentatorTierSimilarities": [
+                50.12,
+                0.0,
+                49.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

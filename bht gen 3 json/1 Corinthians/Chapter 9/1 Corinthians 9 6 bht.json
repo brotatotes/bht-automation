@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:08:41",
+    "verseRef": "1 Corinthians 9:6",
+    "bestBHT": {
+        "bht": "Paul and Barnabas, long-time companions in ministry, demonstrated a self-denying practice by forgoing their right to be financially supported. Their decision to abstain from working for their own support showcased their commitment and dedication to the work of Christ. By supporting themselves through manual labor, they exemplified their belief that they had the power to trust in God for their provision rather than relying on others.",
+        "wordCount": 68,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.8212146803856397,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.9,
+        "commentatorTierSimilarities": [
+            37.88,
+            28.75,
+            33.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Or have I only and Barnabas not power to abstain from working.",
+            "Why Barnabas? Perhaps on account of his former connection with St. Paul.",
+            "Barnabas, after his separation from our Apostle, may have retained the same self-denying practice."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Barnabas\u2014long the associate of Paul, and, like him, in the habit of self-denyingly forbearing to claim the maintenance which is a minister's right.\" ",
+            "So Paul supported himself by tent-making.",
+            "2 Thessalonians 3:8."
+        ],
+        "Albert Barnes": [
+            "Why should I and Barnabas be regarded as having no right to support? Have we been less faithful than others? Have we done less?",
+            "Have we given fewer evidences that we are sent by the Lord, or that God approves us in our work? Have we been less successful?",
+            "It is evident from 1 Corinthians 9:12, that Barnabas as well as Paul relinquished his right to a support, and labored to maintain himself."
+        ],
+        "Marvin Vincent": [
+            "The only mention of Barnabas along with Paul since the quarrel, Acts 14:39.",
+            "Forbear working. For their own support.",
+            "Ergazesqai to work, is the regular word for manual labor. See Matthew 21:28; Acts 18:3. See on 3 John 1:5; and trade, Revelation 18:17."
+        ],
+        "Philip Schaff": [
+            "Or I only and Barnabas, have we not a right to forbear working?\" ",
+            "The reasonableness of this as a principle is now illustrated from the case of (1) soldiers, (2) husbandmen, (3) shepherds, (4) the Levitical priests."
+        ],
+        "Archibald T. Robertson": [
+            "Do we not have the right not to do manual labour?\" ",
+            "There was no more compulsion on Paul and Barnabas to support themselves than upon the other workers for Christ.\" ",
+            "They renounced no rights in being voluntarily independent."
+        ],
+        "John Gill": [
+            "Have not we power to forbear working? \u2026 Paul wrought with his hands \u2026 and so he did in other places.\" ",
+            "He hereby lets them know, that though Barnabas and he continued to get their bread by their own hand labour, they had a right to quit their trades, and throw themselves upon them for a maintenance.\" ",
+            "The apostle seems, in this, to imitate the ancient, wise, and holy men of his nation, who taught the law freely, and took nothing for it; not that they thought it was unlawful, or that they had no right to a maintenance on account of it, but for the honour of religion, and that piety they professed."
+        ],
+        "John Wesley": [
+            "To forbear working \u2014 With our hands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul and Barnabas, due to their former connection and self-denying nature, abstained from claiming the right to be financially supported in their ministry. They supported themselves through manual labor, displaying their commitment to the work of Christ. They renounced their rights to be independent and voluntarily worked to provide for themselves. They believed that they had the power not to rely on their own work and instead trust in God for their provision.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.718419282221496,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                39.54,
+                23.98,
+                36.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul and Barnabas, long-time companions in ministry, demonstrated a self-denying practice by forgoing their right to be financially supported. Their decision to abstain from working for their own support showcased their commitment and dedication to the work of Christ. By supporting themselves through manual labor, they exemplified their belief that they had the power to trust in God for their provision rather than relying on others.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8212146803856397,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.9,
+            "commentatorTierSimilarities": [
+                37.88,
+                28.75,
+                33.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul and Barnabas, who were once inseparable in their ministry, chose to abstain from claiming financial support. Their self-denying practice of working and supporting themselves by manual labor displayed their commitment to the work of Christ. They voluntarily renounced their rights and believed that they had the power to trust in God for their provision, rather than relying on others.",
+            "wordCount": 61,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.8057697538976285,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                40.04,
+                26.71,
+                33.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul and Barnabas, who had been closely associated in ministry, voluntarily chose not to claim the right to be financially supported in their work. Instead, they supported themselves through manual labor, demonstrating their commitment to the mission of Christ. By renouncing their entitlements, they showed that they had the power to trust in God for their provision and not rely on others. Their self-denying practice exemplifies their dedication and faith in spreading the Gospel.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.6881307695138745,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+            "commentatorTierSimilarities": [
+                37.65,
+                27.32,
+                35.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul and Barnabas, having been close associates in ministry, had the power not to claim financial support, but instead to abstain from working and provide for themselves. They self-denyingly supported themselves through manual labor, demonstrating their commitment to the work of Christ. By renouncing their rights, they exemplified their belief in trusting in God for their provision, rather than relying on others. Their voluntary independence showcased their dedication to the mission of spreading the Gospel.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6432475419174402,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.98,
+            "commentatorTierSimilarities": [
+                39.86,
+                24.77,
+                35.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

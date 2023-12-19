@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:34:32",
+    "verseRef": "Ephesians 6:6",
+    "bestBHT": {
+        "bht": "Serving as bondmen of Christ, our aim should not be to please men through eyeservice alone. Instead, our service should be rooted in doing the will of God, even while serving our earthly masters. We must not be men-pleasers, but rather Christ-pleasers, faithfully carrying out the unseen Master's will. By serving with sincerity and devotion, both when our masters are present and when they are absent, we demonstrate our commitment to honoring and pleasing God above all.",
+        "wordCount": 80,
+        "quoteTokenProportion": 53.57,
+        "qualityScore": 2.119453654788519,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+        "commentatorTierSimilarities": [
+            30.63,
+            35.24,
+            34.12
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The contrast is between with eyeservice and as bondmen of Christ.",
+            "Doing the will of God is a qualification of bondmen of Christ.",
+            "Serving not a seen master only [as the eye-servant does], but the great invisible Lord of all."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Seeking to please their masters only so long as these have their eyes on them: as Gehazi was a very different man in his master's presence from what he was in his absence.",
+            "Men-pleasers\u2014not Christ-pleasers.",
+            "Doing the will of God\u2014the unseen but ever present Master: the best guarantee for your serving faithfully your earthly master alike when present and when absent."
+        ],
+        "Albert Barnes": [
+            "The apostle would enjoin on the servant the duty of performing his work conscientiously, as rendering service to the Lord.",
+            "The object should be rather to please and honor God.",
+            "We render acceptable service to God when, from regard to his will, we perform the services which are demanded of us in the situation in life where we may be placed, however humble that may be."
+        ],
+        "Marvin Vincent": [
+            "Eye service - men - pleasers. See on Colossians 3:22."
+        ],
+        "Philip Schaff": [
+            "Eyeservice' is a word coined by the Apostle to express that kind of service which seeks the appearance of fidelity.\" ",
+            "But as servants (bondmen) of Christ (not 'as men-pleasers'); doing the will of God from the heart.\" ",
+            "The last clause, however, defines how 'as servants of Christ' their service is rendered."
+        ],
+        "Archibald T. Robertson": [
+            "But as servants of Christ... slaves of Christ\" - Paul rejoiced to call himself (Philippians 1:1).",
+            "Doing the will of God... even while slaves of men.",
+            "Even while slaves of men."
+        ],
+        "John Gill": [
+            "Not with eyeservice, as menpleasers,....Doing nothing but when under the master's eye, and then pretending a great deal of diligence and industry, in order to ingratiate themselves.",
+            "But as the servants of Christ; acting in like manner as the servants of Christ, who are not menpleasers.",
+            "Doing the will of God from the heart; meaning not the will of God in a religious, but in a civil sense, yielding a cheerful and hearty obedience to their own masters."
+        ],
+        "John Wesley": [
+            "Not with eye-service \u2014 Serving them better when under their eye than at other times.",
+            "But doing the will of God from the heart \u2014 Doing whatever you do, as the will of God, and with your might."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As bondmen of Christ, we are called to serve not only when our masters have their eyes on us, but constantly seeking to please our unseen Master. We must not be men-pleasers, but rather Christ-pleasers, doing the will of God faithfully whether our earthly masters are present or absent. In our role as servants of Christ, our aim should be to render our work conscientiously, not for appearance's sake, but as an expression of our devotion to God. Our ultimate goal is to honor and please God, yielding a cheerful and heartfelt obedience to our earthly masters as an extension of our service to the Lord.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.186066733918699,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+            "commentatorTierSimilarities": [
+                28.09,
+                39.83,
+                32.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As bondmen of Christ, we should not be satisfied with mere eye service as men-pleasers, but rather as faithful servants who seek to please the unseen Lord. Our devotion to the will of God serves as a guarantee of our faithfulness to our earthly masters, whether they are present or absent. We should approach our work with a genuine desire to do the will of God from the heart, not seeking to impress others but offering our service as an act of worship to our unseen Master.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.2318764236024813,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.55,
+            "commentatorTierSimilarities": [
+                26.89,
+                40.57,
+                32.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As bondmen of Christ, our service should not be limited to eyeservice and men-pleasing. Instead, we must faithfully do the will of God, recognizing that our ultimate Master is the great invisible Lord of all. We should not seek to please our earthly masters only when they are watching, but rather aim to please our unseen but ever-present Master. By seeking to please God and doing His will from the heart, we demonstrate our commitment to serving our earthly masters faithfully, whether they are present or absent.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.0615044987403417,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.89,
+            "commentatorTierSimilarities": [
+                30.13,
+                36.69,
+                33.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As bondservants of Christ, our service should not be based on eyeservice or seeking to please men. Instead, we are called to do the will of God, serving Him faithfully as our unseen Master. This means that our obedience and dedication should extend to both our earthly masters' presence and their absence. By doing the will of God from the heart, we demonstrate our commitment to pleasing Him above all, ensuring that our service to our earthly masters is carried out with sincerity and devotion.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.1120937546208594,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                29.06,
+                38.56,
+                32.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Serving as bondmen of Christ, our aim should not be to please men through eyeservice alone. Instead, our service should be rooted in doing the will of God, even while serving our earthly masters. We must not be men-pleasers, but rather Christ-pleasers, faithfully carrying out the unseen Master's will. By serving with sincerity and devotion, both when our masters are present and when they are absent, we demonstrate our commitment to honoring and pleasing God above all.",
+            "wordCount": 80,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 2.119453654788519,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+            "commentatorTierSimilarities": [
+                30.63,
+                35.24,
+                34.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

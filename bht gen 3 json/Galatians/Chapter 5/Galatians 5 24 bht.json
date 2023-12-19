@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 14:20:28",
+    "verseRef": "Galatians 5:24",
+    "bestBHT": {
+        "bht": "Those who belong to Jesus Christ have crucified the flesh and its passions and desires. This crucifixion happened when they believed in and were baptized into Christ, and now they keep the flesh in a state of crucifixion. Through the power of the Spirit, believers produce the fruit of the Spirit without being hindered by the flesh. By crucifying the flesh with Christ, believers are exterminating the force in humans that tends toward evil, guaranteeing victory over their passions and evil inclinations.",
+        "wordCount": 82,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.4435603714269316,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.59,
+        "commentatorTierSimilarities": [
+            34.94,
+            28.98,
+            36.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They who are Jesus Christ's, crucified the flesh with its passions and its desires.",
+            "They who are Jesus Christ's...are entirely severed from and dead to the law, which is for the fleshly, and those passions and desires.",
+            "They who are Jesus Christ's...are entirely severed from and dead to the law, which is for the fleshly, and those passions and desires\u2014on which last he founds\u2014"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They nailed it to the cross once for all when they became Christ's, on believing and being baptized: they keep it now in a state of crucifixion.",
+            "The Spirit can produce in them, comparatively uninterrupted by it, 'the fruit of the Spirit.'",
+            "We are to be executioners, dealing cruelly with the body of sin, which has caused the acting of all cruelties on Christ's body."
+        ],
+        "Albert Barnes": [
+            "And they that are Christ\u2019s - All who are true Christians.",
+            "Have crucified the flesh - The corrupt passions of the soul have been put to death; that is, destroyed.",
+            "With the affections - Margin, 'Passions.' All corrupt desires."
+        ],
+        "Marvin Vincent": [
+            "They that are Christ's...Belong to him.\" ",
+            "Have crucified the flesh...The line of thought as regards death to sin is the same as in Romans 6:2-7, Romans 6:11; as regards death to the law, the same as in Romans 7:1-6.",
+            "Affections...Better, passions. Often sufferings...Often of Christ's sufferings. Comp. passions of sins...always of evil desires."
+        ],
+        "John Calvin": [
+            "The word crucified is employed to point out that the mortification of the flesh is the effect of the cross of Christ.",
+            "If we are buried with Christ, by true self-denial, and by the destruction of the old man, we shall then enjoy the privilege of the sons of God.",
+            "The flesh and its lusts are a figure of speech of exactly the same import with the tree and its fruits. The flesh itself is the depravity of corrupt nature, from which all evil actions proceed."
+        ],
+        "Philip Schaff": [
+            "Union with Christ is a complete separation from sin; hence the baptismal formula of renunciation of the flesh, the world, and the devil, and devotion to the service of Christ.",
+            "Conversion is death of the old man and birth of the new.",
+            "The destruction of the old man of sin is an imitation of the crucifixion, as the birth of the new man of righteousness corresponds to the resurrection of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Crucified the flesh (\u03c4\u03b7\u03bd \u03c3\u03b1\u03c1\u03ba\u03b1 \u03b5\u03c3\u03c4\u03b1\u03c5\u03c1\u03c9\u03c3\u03b1\u03bd). Definite event, first aorist active indicative of \u03c3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c9 as in Galatians 2:19 (mystical union with Christ).",
+            "Paul uses \u03c3\u03b1\u03c1\u03be here in the same sense as in verses Galatians 5:16; Galatians 5:17; Galatians 5:19, 'the force in men that makes for evil' (Burton).",
+            "With (\u03c3\u03c5\u03bd). 'Together with,' emphasizing 'the completeness of the extermination of this evil force' and the guarantee of victory over one's passions and dispositions toward evil."
+        ],
+        "John Gill": [
+            "Who have truly believed in Christ, and have given up themselves unto him.\u201d",
+            "\u201cBy the flesh is meant\u2026 the corruption of nature, the old man and carnal heart.\u201d",
+            "\u201cAnd in consequence of this crucifixion of the body of sin, with Christ upon the cross, when he finished and made an end of it, sin, with its passions and lusts, is crucified by the Spirit of God in regeneration and sanctification."
+        ],
+        "John Wesley": [
+            "And they that are Christ's - True believers in him.",
+            "Have thus crucified the flesh - Nailed it, as it were, to a cross...",
+            "With its affections and desires - All its evil passions, appetites, and inclinations."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Those who belong to Jesus Christ have crucified the flesh and its passions and desires. They are completely separated from the law and dead to its demands, which are meant for the flesh. This crucifixion happened when they believed in and were baptized into Christ, and now they keep the flesh in a state of crucifixion. Through the power of the Spirit, they are able to produce the fruit of the Spirit without being hindered by the flesh. Believers are to be executioners, ruthlessly dealing with the body of sin that caused Christ's sufferings. This concept of crucifying the flesh is similar to the idea of dying to sin in Romans 6 and dying to the law in Romans 7. The flesh refers to the force in humans that tends toward evil and corruption. By crucifying the flesh with Christ, believers are completely exterminating this evil force and guaranteeing victory over their passions and evil inclinations.",
+            "wordCount": 155,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 2.3284991775649377,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.76,
+            "commentatorTierSimilarities": [
+                34.88,
+                29.9,
+                35.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who belong to Jesus Christ have crucified the flesh and its passions and desires. This crucifixion happened when they believed in and were baptized into Christ, and now they keep the flesh in a state of crucifixion. Through the power of the Spirit, believers produce the fruit of the Spirit without being hindered by the flesh. By crucifying the flesh with Christ, believers are exterminating the force in humans that tends toward evil, guaranteeing victory over their passions and evil inclinations.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.4435603714269316,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.59,
+            "commentatorTierSimilarities": [
+                34.94,
+                28.98,
+                36.08
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

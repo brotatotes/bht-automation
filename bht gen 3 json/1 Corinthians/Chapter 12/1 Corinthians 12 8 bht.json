@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:12:27",
+    "verseRef": "1 Corinthians 12:8",
+    "bestBHT": {
+        "bht": "Wisdom and knowledge are distinct yet interconnected gifts. Wisdom encompasses the practical application of Christian truths, reducing them to order and clarity, while knowledge delves into theoretical insights. Wisdom is not fleeting like knowledge; it pertains to eternal matters. The word of wisdom is a speech rooted in divine wisdom, guided by the Spirit. The word of knowledge illuminates and interprets the scriptures. These gifts, given by the Spirit, serve to differentiate true ministers from imposters and aid in comprehending the grand design of salvation.",
+        "wordCount": 85,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 2.348225926039419,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.42,
+        "commentatorTierSimilarities": [
+            43.69,
+            24.82,
+            31.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Wisdom represents the skill, which is able to reduce the whole practical Christian life into its due order... knowledge, the theoretical insight into divine things.\" ",
+            "Wisdom means the higher Christian wisdom...so that discourse which expresses its truths, makes them clear, applies them, &c. is the word of wisdom.",
+            "This does not necessarily imply the speculative penetration of these truths... and discourse which aims at this is the word of knowledge."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Wisdom penetrates deeper than knowledge.",
+            "Knowledge relates to things that are to be done. Wisdom, to things eternal.",
+            "Wisdom is not, like knowledge, said to 'pass away'."
+        ],
+        "Albert Barnes": [
+            "By the Spirit - By the Holy Spirit; by his agency on the mind and heart.",
+            "One he has endowed with wisdom, or has made distinguished for wise, and prudent, and comprehensive views of the scheme of redemption, and with a faculty of clearly explaining it to the apprehension of people.",
+            "The same variety is observed in the ministry at all times. One man is eminent as a wise man; another as a man of intelligence and knowledge; and both may be equally useful in their place in the church."
+        ],
+        "John Calvin": [
+            "Believers are endowed with different gifts, but let every one acknowledge, that he is indebted for whatever he has to the Spirit of God, for he pours forth his gifts as the sun scatters his rays in every direction.",
+            "By prophecy, I understand the singular and choice endowment of unfolding the secret will of God, so that a Prophet is a messenger, as it were, between God and man.",
+            "The use of [the discerning of spirits] was this: that they might not be imposed upon by masks, of mere pretences, but might by that spiritual judgment distinguish, as by a particular mark, the true ministers of Christ from the false."
+        ],
+        "Archibald T. Robertson": [
+            "The Word of wisdom [...] speech full of God's wisdom under the impulse of the Spirit of God.\" ",
+            "This gift is placed first (revelation by the Spirit).",
+            "The word of knowledge [...] insight (illumination) according to the same Spirit."
+        ],
+        "John Gill": [
+            "the wonderful scheme of salvation through the incarnation, sufferings, and death of Christ, in which God has 'abounded in all wisdom and prudence'",
+            "knowledge of future events; or an universal knowledge of the Scriptures of truth, and the doctrines contained in them, of the whole mind and will of God therein",
+            "he is the best interpreter of them, and who only can lead into the true knowledge thereof"
+        ],
+        "John Wesley": [
+            "The word of wisdom \u2014 A power of understanding and explaining the manifold wisdom of God in the grand scheme of gospel salvation.",
+            "The word of knowledge \u2014 Perhaps an extraordinary ability to understand and explain the Old Testament types and prophecies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Wisdom in this context refers to the practical Christian wisdom that brings divine truths into clear and applicable discourse, while knowledge focuses on theoretical insight into divine matters. Wisdom goes deeper than knowledge, relating to eternal things rather than the tasks to be done. The word of wisdom is a speech full of God\u2019s wisdom under the guidance of the Holy Spirit, and it is placed first among the gifts because it is a revelation by the Spirit. Similarly, the word of knowledge is an illumination of divine truths according to the same Spirit. These gifts, bestowed by the Spirit, are diverse and serve to distinguish the true ministers of Christ from the false, as well as to unfold the secret will of God and understand the grand scheme of gospel salvation.",
+            "wordCount": 133,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 2.4021283127654827,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.21,
+            "commentatorTierSimilarities": [
+                41.38,
+                25.93,
+                32.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Wisdom and knowledge are distinct yet interconnected gifts. Wisdom encompasses the practical application of Christian truths, reducing them to order and clarity, while knowledge delves into theoretical insights. Wisdom is not fleeting like knowledge; it pertains to eternal matters. The word of wisdom is a speech rooted in divine wisdom, guided by the Spirit. The word of knowledge illuminates and interprets the scriptures. These gifts, given by the Spirit, serve to differentiate true ministers from imposters and aid in comprehending the grand design of salvation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.348225926039419,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.42,
+            "commentatorTierSimilarities": [
+                43.69,
+                24.82,
+                31.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Wisdom and knowledge in the context of 1 Corinthians 12:8 refer to different aspects of spiritual understanding. Wisdom involves practical Christian wisdom, organizing the Christian life and expressing truths clearly. Knowledge relates to theoretical insight, understanding divine things. Wisdom transcends knowledge as it pertains to eternal matters, while knowledge focuses on actions. The word of wisdom is a speech full of God's wisdom under the guidance of the Spirit, while the word of knowledge involves insight and illumination by the same Spirit. These gifts serve to distinguish true ministry and comprehend the grand scheme of gospel salvation.",
+            "wordCount": 96,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 2.3475369956150076,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.4,
+            "commentatorTierSimilarities": [
+                42.41,
+                25.89,
+                31.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Wisdom and knowledge, as mentioned in the commentary, are distinct yet interconnected gifts that contribute to the Christian understanding. Wisdom involves the practical application of divine truths, while knowledge encompasses theoretical insight into divine matters. Wisdom goes beyond knowledge, penetrating deeper and relating to eternal things. The word of wisdom is regarded as speech full of God's wisdom, inspired by the Spirit of God, while the word of knowledge involves insight and illumination also provided by the Spirit. These gifts enable individuals to distinguish true ministers and comprehend the divine plan of salvation.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.3293978021218193,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.79,
+            "commentatorTierSimilarities": [
+                42.04,
+                25.77,
+                32.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Wisdom and knowledge, vital gifts mentioned in the passage, play distinct but interconnected roles. Wisdom represents the skill of organizing Christian life and expressing divine truths practically, whereas knowledge is about theoretical insight into divine matters. While wisdom delves deeper, knowledge is related to tasks and things eternal. The word of wisdom, filled with God's wisdom under the Spirit's guidance, reveals the divine plan. Similarly, the word of knowledge offers spiritual understanding through illumination by the same Spirit. These gifts help distinguish authentic ministers and grasp the grand scope of salvation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 2.2356044837841633,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.67,
+            "commentatorTierSimilarities": [
+                41.75,
+                26.49,
+                31.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

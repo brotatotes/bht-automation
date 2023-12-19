@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:13:22",
+    "verseRef": "Luke 1:48",
+    "bestBHT": {
+        "bht": "Mary reflects on how God regarded her low condition and favored her despite her humble position. The commentary suggests that Mary's spirit may have been aligned with the hymn's ideas even before the Incarnation. Both Mary and Hannah, as sacred women, were chosen to usher in important events while the proud and mighty were overlooked. Mary's recognition of her blessedness does not imply worship, as Abraham, Paul, and Peter were also called blessed but not worshipped. Mary humbly rejoices in God her Savior, acknowledging that her blessedness is a gift of His grace.",
+        "wordCount": 96,
+        "quoteTokenProportion": 37.14,
+        "qualityScore": 1.9509595084481028,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+        "commentatorTierSimilarities": [
+            27.42,
+            32.71,
+            39.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "regarded i.e. looked upon.",
+            "low estate, or condition, not humility; the noun is an objective one.",
+            "Ver. 55 is not rendered in the A.V. according to the construction; from Ps. xcvii. 3 it will be seen that in remembrance of his mercy to Abraham are to be joined together, and therefore as he spake to our fathers will be parenthetical."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Is it unnatural to suppose that the spirit of the blessed Virgin had been drawn beforehand into mysterious sympathy with the ideas and the tone of this hymn?",
+            "In both songs, those holy women, filled with wonder to behold 'the proud, the mighty, the rich,' passed by, and, in their persons the lowliest chosen to usher in the greatest events.",
+            "In both songs the strain dies away on CHRIST; in Hannah's under the name of 'Jehovah's King', in the Virgin's song, it is as the 'Help' promised to Israel by all the prophets."
+        ],
+        "Albert Barnes": [
+            "He seeks the humble and the contrite; he imparts his rich blessings to those who feel that they need them, and who will bless him for them.\" ",
+            "Call me blessed - Pronounce me highly favored or happy in being the mother of the Messiah. It is therefore right to consider her as highly favored or happy.",
+            "Abraham was blessed in being the father of the faithful; Paul in being the apostle to the Gentiles; Peter in first preaching the gospel to them; but who would think of worshipping or praying to Abraham, Paul, or Peter?"
+        ],
+        "Marvin Vincent": [
+            "Regarded [\u03b5\u03c0\u03b5\u03b2\u03bb\u03b5\u03c8\u03b5\u03bd] . See on James 2:3. Compare 1 Samuel 1:11; Psalms 31:7; Psalms 119:132, Sept."
+        ],
+        "John Calvin": [
+            "I was unknown and despised, but that did not prevent God from deigning to cast his eyes upon me.",
+            "Mary makes her happiness to consist in nothing else, but in what she acknowledges to have been bestowed upon her by God, and mentions as the gift of his grace.",
+            "Let us remember that, in praising both men and angels, there is a general rule laid down, to extol in them the grace of God; as nothing is at all worthy of praise which did not proceed from Him."
+        ],
+        "Philip Schaff": [
+            "The low estate. Not humility of mind, but humility of station, of external condition.",
+            "For, behold, from henceforth. In proof that the Lord had thus looked upon her low estate.",
+            "All generations shall call me blessed. Recognize the blessedness bestowed on her by God, as already declared by Elisabeth."
+        ],
+        "Archibald T. Robertson": [
+            "The low estate (\u03c4\u03b7\u03bd \u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03c9\u03c3\u03b9\u03bd). The bride of a carpenter and yet to be the mother of the Messiah.",
+            "Shall call me blessed (\u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03c5\u03c3\u03b9\u03bd \u03bc\u03b5). So-called Attic future of an old verb, to felicitate.",
+            "But this is a very different thing from the worship of Mary (Mariolatry) by Roman Catholics."
+        ],
+        "John Gill": [
+            "God passed by the rich and noble families of Jewish people, and pitched upon this poor virgin to be the mother of the Messiah.",
+            "God has remembered his elect, in this their low estate, and has provided a Saviour for them, and sent him to deliver them out of it; because his mercy endures forever; and this Mary was sensible, and there rejoiced in God her Saviour.",
+            "Both on account of her son she had now conceived, and was bearing; because she was the mother of our Lord, who had reason so to conclude, from the nature of the thing, and from the words of the angel, and of Elisabeth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Mary reflects on how God looked upon her low condition and regarded her with favor. This emphasizes that it was not Mary's humility, but her humble position, that made her worthy of this honor. The commentary suggests that even before the Incarnation, Mary's spirit may have been aligned with the ideas and tone of the hymn she sings. Both Hannah and Mary, as sacred women, were chosen to usher in great events, while the proud and mighty were overlooked. The strain of the hymns both end with a focus on Christ. This verse also clarifies that Mary being called blessed does not imply worship, as Abraham, Paul, and Peter were also blessed but not worshipped. Ultimately, Mary rejoices in God her Savior, recognizing that her blessedness is a gift of His grace.",
+            "wordCount": 137,
+            "quoteTokenProportion": 37.08,
+            "qualityScore": 1.9281580113851249,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+            "commentatorTierSimilarities": [
+                28.55,
+                32.52,
+                38.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Mary reflects on how God regarded her low condition and favored her despite her humble position. The commentary suggests that Mary's spirit may have been aligned with the hymn's ideas even before the Incarnation. Both Mary and Hannah, as sacred women, were chosen to usher in important events while the proud and mighty were overlooked. Mary's recognition of her blessedness does not imply worship, as Abraham, Paul, and Peter were also called blessed but not worshipped. Mary humbly rejoices in God her Savior, acknowledging that her blessedness is a gift of His grace.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9593645396137185,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                27.68,
+                32.75,
+                39.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this text, Mary reflects on how God regarded her low condition and favored her despite her humble position. The commentary suggests that Mary's spirit may have been aligned with the hymn's ideas even before the Incarnation. Both Mary and Hannah, as sacred women, were chosen to usher in important events while the proud and mighty were overlooked. Mary's recognition of her blessedness does not imply worship, as Abraham, Paul, and Peter were also called blessed but not worshipped. Mary humbly rejoices in God her Savior, acknowledging that her blessedness is a gift of His grace.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9467916912048313,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.07,
+            "commentatorTierSimilarities": [
+                27.43,
+                32.65,
+                39.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this verse, Mary reflects on how God regarded her low condition and favored her despite her humble position. The commentary suggests that Mary's spirit may have been aligned with the hymn's ideas even before the Incarnation. Both Mary and Hannah, as sacred women, were chosen to usher in important events while the proud and mighty were overlooked. Mary's recognition of her blessedness does not imply worship, as Abraham, Paul, and Peter were also called blessed but not worshipped. Mary humbly rejoices in God her Savior, acknowledging that her blessedness is a gift of His grace.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9656084596088146,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                27.81,
+                32.62,
+                39.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary reflects on how God regarded her low condition and favored her despite her humble position. The commentary suggests that Mary's spirit may have been aligned with the hymn's ideas even before the Incarnation. Both Mary and Hannah, as sacred women, were chosen to usher in important events while the proud and mighty were overlooked. Mary's recognition of her blessedness does not imply worship, as Abraham, Paul, and Peter were also called blessed but not worshipped. Mary humbly rejoices in God her Savior, acknowledging that her blessedness is a gift of His grace.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.9509595084481028,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+            "commentatorTierSimilarities": [
+                27.42,
+                32.71,
+                39.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

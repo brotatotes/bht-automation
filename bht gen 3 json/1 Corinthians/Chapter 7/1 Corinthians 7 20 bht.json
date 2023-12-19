@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:06:31",
+    "verseRef": "1 Corinthians 7:20",
+    "bestBHT": {
+        "bht": "If God's call has led you to a certain vocation or circumstance in life, whether as a Jew, a Greek, a slave, or a freeman, the apostle Paul encourages you to stay in that position. The term calling here specifically refers to God's call into His kingdom through conversion. Paul's intention is to promote contentment and peace in every condition and station of life, recognizing that the Christian faith does not require a change in one's civil circumstances. Trust in God's providence and seek contentment in your calling.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.9625155676752382,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+        "commentatorTierSimilarities": [
+            32.55,
+            31.03,
+            36.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Calling does not mean calling in life, but strictly calling (\u2018vocation\u2019) by God.",
+            "The calling of a circumcised person would be a calling in circumcision, and by this he was to abide.",
+            "Formal repetition of the general precept, as again ver. 24."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. the same calling\u2014that is,",
+            "\tthe condition from which he is called a Jew, a Greek, a slave,",
+            "\tor a freeman."
+        ],
+        "Albert Barnes": [
+            "Religion was the friend of order; that it did not disregard or disarrange the relations of social life; that it was suited to produce contentment even in an humble walk, and to prevent repinings at the lot of those who were more favored or happy.",
+            "No considerations can justify a continuance in a course of life like this after a man is converted. No consideration can make a business which is 'evil, and only evil, and that continually,' proper or right.",
+            "An opportunity to become more useful imposes an obligation to change the course of life. And no man is permitted to waste his life and talents in a mere scheme of money-making, or in self-indulgence, when by changing his calling he can do more for the salvation of the world."
+        ],
+        "Marvin Vincent": [
+            "Calling [\u03ba\u03bb\u03b7\u03c3\u03b5\u03b9], Not the condition or occupation, a meaning which the word does not have in classical Greek, nor in the New Testament, where it always signifies the call of God into His kingdom through conversion.\" ",
+            "Paul means: If God's call was to you as a circumcised man or as an uncircumcised man; as a slave or as a freedman - abide in that condition.\" ",
+            "Compare ch. 1 26."
+        ],
+        "John Calvin": [
+            "A calling in Scripture means a lawful mode of life, for it has a relation to God as calling us.",
+            "He does not, therefore, impose upon any one the necessity of continuing in the kind of life which he has once taken up, but rather condemns that restlessness, which prevents an individual from remaining in his condition with a peaceable mind.",
+            "He exhorts, that every one stick by his trade, as the old proverb goes."
+        ],
+        "Archibald T. Robertson": [
+            "Wherein he was called (\u03b7 \u03b5\u03ba\u03bb\u03b7\u03b8\u03b7). When he was called by God and saved, whether a Jew or a Gentile, a slave or a freeman. "
+        ],
+        "John Gill": [
+            "The chief view of the apostle is to teach contentment in every condition, and station of life, and that persons should not be uneasy and restless in it, and seek for an alteration when there is no just occasion.\" ",
+            "The Christian religion does not necessarily require a change in a man's civil circumstances of life.",
+            "The apostle is to teach contentment in every condition, and station of life."
+        ],
+        "John Wesley": [
+            "In the calling \u2014 The outward state.",
+            "Wherein he is \u2014 When God calls him. Let him not seek to change this, without a clear direction from Providence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If God has called you to a particular vocation or condition in life, whether it be as a Jew, a Greek, a slave, or a freeman, the apostle Paul advises that you should remain in that calling. The term calling here refers to the specific divine invitation into God's kingdom through conversion, not simply a person's occupation or status. In this way, Paul encourages contentment and peacefulness in whatever circumstances one finds themselves, taking into account that the Christian faith does not necessarily require a change in civil circumstances. The overall message is to find contentment and fulfillment in every condition and station of life, trusting in God's providence and guidance.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 2.0177744180855215,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+            "commentatorTierSimilarities": [
+                29.9,
+                34.94,
+                35.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If God has called you to a particular vocation or condition in life, whether it be as a circumcised or uncircumcised person, a slave or a freeman, the apostle Paul advises that you should remain in that calling. The term calling here refers to the specific divine invitation into God's kingdom through conversion. Paul's message is to find contentment and fulfillment in every condition and station of life, trusting in God's providence and guidance.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.9352743814251019,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.69,
+            "commentatorTierSimilarities": [
+                36.98,
+                27.98,
+                35.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If God's call has led you to a certain vocation or circumstance in life, whether as a Jew, a Greek, a slave, or a freeman, the apostle Paul encourages you to stay in that position. The term calling here specifically refers to God's call into His kingdom through conversion. Paul's intention is to promote contentment and peace in every condition and station of life, recognizing that the Christian faith does not require a change in one's civil circumstances. Trust in God's providence and seek contentment in your calling.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9625155676752382,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "commentatorTierSimilarities": [
+                32.55,
+                31.03,
+                36.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If God has called you to a specific vocation or aspect of life, whether it's as a circumcised person or an uncircumcised individual, a slave, or a freeman, the apostle Paul advises staying in that calling. Paul emphasizes finding contentment and peace in one's circumstances, trusting in God's plan and not seeking unnecessary change or restlessness. The Christian faith does not demand a modification of one's civil situation. Therefore, embrace your calling and find satisfaction in every station of life, rooted in contentment and trust in God's guidance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.919574331127226,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.17,
+            "commentatorTierSimilarities": [
+                27.82,
+                37.94,
+                34.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If God has called you to a specific vocation or aspect of life, whether as a Jew, a Greek, a slave, or a freeman, the apostle Paul advises remaining in that calling. Paul encourages contentment and peace in one's circumstances and discourages restlessness or seeking unnecessary change. The Christian faith does not require a change in civil circumstances. Embrace your calling, find fulfillment, and trust in God's providence in every station and condition of life.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9081425645216732,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+            "commentatorTierSimilarities": [
+                27.58,
+                37.14,
+                35.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

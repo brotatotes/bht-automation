@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:12:24",
+    "verseRef": "1 Corinthians 11:31",
+    "bestBHT": {
+        "bht": "If we duly judged ourselves and discerned the Lord's body, we would not be judged by God. A proper self-examination before partaking in the Lord's Supper can save us from divine judgment. It involves examining and forming a right estimate of our own spiritual condition, acknowledging and mourning over sin, and repentance. This voluntary self-condemnation is the remedy to obtain absolution in the sight of God. By faithfully taking our spiritual condition into our hands, we avert the tokens of His displeasure.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 2.1373049973156846,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.41,
+        "commentatorTierSimilarities": [
+            24.99,
+            37.19,
+            37.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This discerned (the result of the examination commanded before) is the same word in the original as that rendered discern in ver. 29.\" ",
+            "But contrasts with this state of sicknesses and deaths\u2014it might be otherwise.",
+            "The idea being the same."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If we duly judged ourselves, we should not be (or not have been) judged.\" ",
+            "In order to duly judge or 'discern [appreciate] the Lord's body,' we need to 'duly judge ourselves.'",
+            "A prescient warning against the dogma of priestly absolution after full confession, as the necessary preliminary to receiving the Lord's Supper."
+        ],
+        "Albert Barnes": [
+            "If we would judge ourselves...we should escape the condemnation to which they are exposed who observe it in an improper manner.",
+            "If we would exercise proper 'severity' and 'honesty' in determining our own character and fitness for the ordinance, we should not expose ourselves to the divine displeasure.",
+            "If we wish to escape the divine displeasure...we should exercise a severe judgment on our character, and feelings, and motives; and should come to it with a sincere desire to honor Christ, and to advance in the divine life."
+        ],
+        "Marvin Vincent": [
+            "Render, as Rev., if we discerned ourselves; i.e., examined and formed a right estimate.",
+            "We should not be judged [\u03bf\u03c5\u03ba \u03b1\u03bd \u03b5\u03ba\u03c1\u03b9\u03bd\u03bf\u03bc\u03b5\u03b8\u03b1]. By God. Here judged is correct.",
+            "A proper self-examination would save us from the divine judgment."
+        ],
+        "John Calvin": [
+            "God does not all of a sudden become enraged against us, so as to inflict punishment immediately upon our sinning, but that, for the most part, it is owing to our carelessness.",
+            "In short, believers anticipate, by repentance, the judgment of God, and there is no other remedy, by which they may obtain absolution in the sight of God, but by voluntarily condemning themselves.",
+            "Mark how repentance wards off the judgment of God by a suitable remedy \u2014 not, however, by way of compensation."
+        ],
+        "Philip Schaff": [
+            "If we did but take the case of our spiritual condition faithfully into our own hands, we should thus take it (so to speak) out of God\u2019s hands, and so avert the tokens of His Fatherly displeasure.",
+            "If we discerned ourselves, we should not be judged.",
+            "For [1] if we discerned ourselves, we should not be judged."
+        ],
+        "Archibald T. Robertson": [
+            "If we discerned ourselves...they had not been judging themselves discriminatingly, else they would not be judged.\" ",
+            "This condition...assumes that they had not been judging themselves discriminatingly.\" ",
+            "Note distinction in the two verbs."
+        ],
+        "John Gill": [
+            "For if we would judge ourselves,.... Examine, try, and prove ourselves as above directed, before we eat and drink; or condemn ourselves, by confessing, acknowledging, and mourning over sin, and by repentance for it.\" ",
+            "or separate ourselves from the company of profane sinners, come out from among them, and touch not their unclean things.\" ",
+            "or join with them in their unfruitful works of darkness: we should not be judged; by the Lord; he would not inflict these diseases, sicknesses, and death."
+        ],
+        "John Wesley": [
+            "If we would judge ourselves \u2014 As to our knowledge, and the design with which we approach the Lord's table.",
+            "We should not be thus judged \u2014 That is, punished by God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we examine ourselves and form a right estimate of our spiritual condition before partaking in the Lord's Supper, we would not be judged by God. This involves properly judging and discerning the Lord's body and also judging ourselves. By doing so, we save ourselves from divine judgment. It is important to note that this self-examination is not about priestly absolution after full confession, but rather about genuinely examining our own character, feelings, and motives. Through this honest self-assessment, we can escape God's displeasure and honor Christ. It is a means of repentance and seeking God's forgiveness, so that we do not incur His judgment.",
+            "wordCount": 111,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 2.098338153124394,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                25.62,
+                35.86,
+                38.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we duly judged ourselves and discerned the Lord's body, we would not be judged by God. A proper self-examination before partaking in the Lord's Supper can save us from divine judgment. It involves examining and forming a right estimate of our own spiritual condition, acknowledging and mourning over sin, and repentance. This voluntary self-condemnation is the remedy to obtain absolution in the sight of God. By faithfully taking our spiritual condition into our hands, we avert the tokens of His displeasure.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.1373049973156846,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.41,
+            "commentatorTierSimilarities": [
+                24.99,
+                37.19,
+                37.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If we discerned ourselves and formed a right estimate of our spiritual condition before partaking in the Lord's Supper, we would save ourselves from divine judgment. This entails examining and judging ourselves discriminatingly, acknowledging our sins, and repenting. It is a prescient warning against relying on priestly absolution, emphasizing the importance of personal self-examination. By exercising severity and honesty in evaluating our character and motives, we can escape God's displeasure and honor Christ, thus advancing in the divine life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.0983257392027257,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                24.29,
+                39.56,
+                36.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By properly judging and discerning both the Lord's body and ourselves, we can avoid facing divine judgment. This necessitates examining and evaluating our own character, feelings, and motives, with sincerity and honesty. We must carefully assess our spiritual condition, acknowledging our sins, and engaging in repentance. This self-examination serves as a means of seeking forgiveness and absolution from God, rather than relying on priestly absolution. Through this diligent self-assessment, we can escape God's displeasure and honor Christ, propelling us forward in the divine life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.9799202744016124,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "commentatorTierSimilarities": [
+                21.86,
+                39.55,
+                38.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If we judge ourselves, examining and forming a right estimate of our spiritual condition, and discern the Lord's body, we can avoid divine judgment. This calls for a careful self-examination, acknowledging our sins and repenting. It is a warning against relying solely on priestly absolution, stressing the importance of personal self-judgment. By exercising severity and honesty in evaluating our character and motives, we can escape God's displeasure and honor Christ, advancing in our spiritual journey.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.0206255372874837,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                22.8,
+                40.09,
+                37.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

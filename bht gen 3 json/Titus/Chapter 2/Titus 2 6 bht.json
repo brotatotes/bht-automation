@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:08:45",
+    "verseRef": "Titus 2:6",
+    "bestBHT": {
+        "bht": "In order to be an example of good works and teaching that cannot be condemned, it is crucial to show self-restraint and be sober-minded. Young men must overcome pleasures and follies, being steady in their behavior. The duty of Christian youth is to exercise self-control in all aspects of life, being well-regulated, temperate, modest, wise, and prudent. Striving to live in this manner ensures opponents have nothing evil to say.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.592587669453283,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+        "commentatorTierSimilarities": [
+            23.0,
+            35.73,
+            41.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "shewing thyself in (concerning) all matters an example of good works...in thy teaching, (shewing) incorruption...gravity, a discourse (in its contents and import) healthy, not to be condemned.\" ",
+            "that he of the opposite part (the heathen or Jewish adversaries of the Gospel, among whom they dwelt) may be ashamed, having nothing to say of us (Christians: not \u2018me and thee\u2019) (that is) evil.\" ",
+            "having no \u2018evil thing to report of us\u2019\u2014no evil, whether seen in our demeanour, or arising from our teaching."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. Young\u2014Greek, \"The",
+            "\tyounger men.\" ",
+            "\t",
+            "sober-minded\u2014self-restrained",
+            "\t[ALFORD]. \"Nothing is",
+            "\tso hard at this age as to overcome pleasures and follies",
+            "\t[CHRYSOSTOM]."
+        ],
+        "Albert Barnes": [
+            "They should be 'steady in their behaviour, superior to sensual temptations, and constant in the exercise of every part of self-government.'\" ",
+            "A well-governed mind, superior to the indulgence of those passions to which the young are prone, will express the meaning of the word here.",
+            "Like others, they may soon die; and they should be habitually in such a frame of mind, as to be prepared to stand before God."
+        ],
+        "John Calvin": [
+            "Temperance, as Plato shows, cures the whole understanding of man.",
+            "Let them be well regulated and obedient to reason.",
+            "Instructed to be temperate, for temperance... cures the whole understanding of man."
+        ],
+        "Philip Schaff": [
+            "Titus 2:6 sums up in the same comprehensive term the peculiar duty of the Christian young man.\" ",
+            "Self-restraint is needful not alone in fleshly actions or the lusts of the mind, but in all things.\" ",
+            "Wisdom requires a similar restraint or balance in the formation and the holding of intellectual opinions."
+        ],
+        "Archibald T. Robertson": [
+            "to be soberminded\" (\u03c3\u03c9\u03c6\u03c1\u03bf\u03bd\u03b5\u03b9\u03bd, old verb as in Romans 12:3).",
+            "It is possible to take 'in all things' (\u03c0\u03b5\u03c1 \u03c0\u03b1\u03bd\u03c4\u03b1) with \u03c3\u03c9\u03c6\u03c1\u03bf\u03bd\u03b5\u03b9\u03bd.",
+            "the editors take it with verse Titus 2:7."
+        ],
+        "John Gill": [
+            "Young men likewise exhort to be sober minded. Temperate, chaste, modest, moderate, wise, and prudent in all things.",
+            "This is said to Titus, as being his province to instruct and exhort the young men.",
+            "It is proper and convenient for aged women to teach the young women how they should behave and conduct themselves."
+        ],
+        "John Wesley": [
+            "To be discreet \u2014 A virtue rarely found in youth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In regards to the verse, the commentary emphasizes the importance of leading by example, both through good works and in teaching. The goal is to live in a way that leaves opponents with no evil thing to say about Christians. This requires being self-restrained and sober-minded in all aspects of life. Young men, in particular, should strive to overcome pleasures and follies, and be steady in their behavior and superior to sensual temptations. The duty of the Christian young man is to exercise self-restraint not only in their actions, but also in their thoughts and opinions. Overall, the emphasis is on being well-regulated, obedient to reason, temperate, chaste, modest, moderate, wise, and prudent in all things.",
+            "wordCount": 120,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.4923884648949302,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.96,
+            "commentatorTierSimilarities": [
+                20.62,
+                42.71,
+                36.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In order to be an example of good works and teaching that cannot be condemned, it is crucial to show self-restraint and be sober-minded in all areas of life. Young men must overcome pleasures and follies, and be steady in their behavior. The duty of Christian youth is to exercise self-control not only in actions, but also in thoughts and opinions. This requires being well-regulated, temperate, chaste, modest, moderate, wise, and prudent. Striving to live in this manner enables individuals to leave opponents with nothing evil to say.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.5265631430018498,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.1,
+            "commentatorTierSimilarities": [
+                20.38,
+                37.72,
+                41.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To set an example of good works and teaching that can't be condemned, it's important to be self-restrained and sober-minded in all aspects of life. Young men must overcome pleasures and follies, being steady in their behavior. The duty of Christian youth is to exercise self-control not just in actions but also in thoughts and opinions. This means being well-regulated, temperate, modest, wise, and prudent. Living this way ensures opponents have no evil thing to say.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.5072752384342687,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+            "commentatorTierSimilarities": [
+                21.47,
+                35.54,
+                42.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In order to be an example of good works and teaching that cannot be condemned, it is crucial to show self-restraint and be sober-minded. Young men must overcome pleasures and follies, being steady in their behavior. The duty of Christian youth is to exercise self-control in all aspects of life, being well-regulated, temperate, modest, wise, and prudent. Striving to live in this manner ensures opponents have nothing evil to say.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.592587669453283,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+            "commentatorTierSimilarities": [
+                23.0,
+                35.73,
+                41.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To be a model for others in good works and teaching, it is important to show self-restraint and be sober-minded in all aspects of life. Young men must overcome worldly pleasures and be steady in their behavior. Christians, especially the young, should exercise self-control not only in their actions but also in their thoughts and opinions. By living in a well-regulated, temperate, modest, wise, and prudent manner, believers can eliminate any evil reports that opponents may have.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.5477492186971369,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.81,
+            "commentatorTierSimilarities": [
+                20.97,
+                38.57,
+                40.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

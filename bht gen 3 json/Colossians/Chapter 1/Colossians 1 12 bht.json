@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:19:25",
+    "verseRef": "Colossians 1:12",
+    "bestBHT": {
+        "bht": "We give thanks to the Father who has made us fit to share in the inheritance of the saints in the light. Our Christian life of heavenliness is the first stage of heaven itself, contrasting with the darkness of the unconverted state. Through God's grace and sanctification, we are made adequate and suitable to partake in the blessings of his kingdom. This inheritance, possessed by all Christians, is in the light, where we begin to experience its joy and glory. It is a pure free grace gift from God.",
+        "wordCount": 90,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.1004086499503574,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+        "commentatorTierSimilarities": [
+            26.33,
+            42.93,
+            30.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "giving thanks to the Father...which made us meet for the share of the inheritance of the saints in the light.",
+            "The inheritance is begun here, and the meetness conferred, in gradual sanctification: but completed hereafter.",
+            "We are 'in the light' here."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not 'is making us meet' by progressive growth in holiness; but once for all made us meet.",
+            "The Christian life of heavenliness is the first stage of heaven itself.",
+            "It is contrasted here with the 'darkness' of the unconverted state."
+        ],
+        "Albert Barnes": [
+            "He has conferred on us grace sufficient to make it proper that we should partake of the blessings of his kingdom.",
+            "[Christians] have truly repented of their sins, and believed in the Redeemer; and they are thus in the proper state of mind to receive the mercy of God.",
+            "In character, views, feelings, and preferences, therefore, the Christian is made suitable to participate in the employments and joys of the saints in light."
+        ],
+        "Marvin Vincent": [
+            "Made us meet [\u03b9\u03ba\u03b1\u03bd\u03c9\u03c3\u03b1\u03bd\u03c4\u03b9].",
+            "To be partakers of the inheritance [\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03bc\u03b5\u03c1\u03b9\u03b4\u03b1 \u03c4\u03bf\u03c5 \u03ba\u03bb\u03b7\u03c1\u03bf\u03c5].",
+            "The inheritance which is in light [\u03b5\u03bd \u03c4\u03c9 \u03c6\u03c9\u03c4\u03b9]."
+        ],
+        "John Calvin": [
+            "For Christ alone makes all other things suddenly vanish.",
+            "The whole of Popery would fall to the ground, for it cannot stand otherwise than through ignorance of Christ.",
+            "It is God\u2019s adoption that alone makes us meet. Now, adoption depends on an unmerited election. The Spirit of regeneration is the seal of adoption."
+        ],
+        "Philip Schaff": [
+            "It is fruitful, growing, strong to suffer, and grateful: the last is the most distinctively Christian characteristic.",
+            "This inheritance is possessed by \u2018the saints,\u2019 which term includes all Christians, over against the less extended \u2018us\u2019.",
+            "The inheritance of the saints is \u2018in light,\u2019 and they enter even here upon the enjoyment of it."
+        ],
+        "Archibald T. Robertson": [
+            "Who made us fit or adequate for.\" ",
+            "For a share in.\" ",
+            "Of the lot,\" \"for a share of the lot."
+        ],
+        "John Gill": [
+            "The heavenly glory... is a pure free grace gift of God.",
+            "This inheritance of theirs is 'in light'... the clear, full, and beatific vision of God in Christ.",
+            "God the Father... blessing them with all grace, and all spiritual blessings in Christ... regenerating them by his Spirit... making them heirs according to the hope of eternal life."
+        ],
+        "John Wesley": [
+            "Who, by justifying and sanctifying us, hath made us meet for glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We give thanks to the Father who has made us fit to share in the inheritance of the saints in the light. This inheritance, which is already begun in our lives through gradual sanctification, will be fully completed in the future. As believers, we are now living in the light, in contrast to the darkness of our unconverted state. It is Christ who has made us fit and adequate for this inheritance. Through his grace, repentance, and faith, we are in the proper state of mind to receive the mercy and blessings of God. Our character, views, feelings, and preferences are being transformed to become suitable for the employments and joys of the saints in light. This heavenly inheritance, given to all Christians, is one of pure free grace and is marked by the clear and beatific vision of God in Christ. Thanks to God the Father's blessing, regenerating, and sanctifying work, we are now made fit for his eternal glory.",
+            "wordCount": 162,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.952095257565173,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                25.48,
+                43.03,
+                31.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We give thanks to the Father who has made us fit to share in the inheritance of the saints in the light. This inheritance, begun here through gradual sanctification, is completed hereafter. As believers, we are in the light, contrasting with the darkness of the unconverted state. It is Christ who has once for all made us meet for this inheritance. Through his grace, repentance, and faith, we are in the proper state to receive God's mercy. Our character is being transformed to participate in the joys of the saints in light, an inheritance of pure free grace.",
+            "wordCount": 99,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.0538732065621845,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                30.39,
+                40.59,
+                29.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We give thanks to the Father who has made us fit to share in the inheritance of the saints in the light. Our Christian life of heavenliness is the first stage of heaven itself, contrasting with the darkness of the unconverted state. Through God's grace and sanctification, we are made adequate and suitable to partake in the blessings of his kingdom. This inheritance, possessed by all Christians, is in the light, where we begin to experience its joy and glory. It is a pure free grace gift from God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.1004086499503574,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                26.33,
+                42.93,
+                30.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We give thanks to the Father who has made us fit to share in the inheritance of the saints in the light. Through gradual sanctification, begun here, we are now living in the light, in contrast to the darkness of the unconverted state. Christ has once for all made us meet for this inheritance, bestowing sufficient grace upon us. Our character, views, feelings, and preferences are transformed to be suitable for the joys of the saints in light. This heavenly inheritance is a pure free grace gift of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0449602854262077,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                28.4,
+                40.42,
+                31.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We give thanks to the Father who has made us fit to share in the inheritance of the saints in the light. Through gradual sanctification, we are living in the light, contrasting with the darkness of our unconverted state. It is Christ who has once for all made us meet for this inheritance, granting us sufficient grace. Our character and preferences are transformed to be suitable for the joys of the saints in light. This heavenly inheritance is a pure free grace gift, enjoyed even now.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.069375830587865,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.15,
+            "commentatorTierSimilarities": [
+                28.5,
+                41.18,
+                30.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

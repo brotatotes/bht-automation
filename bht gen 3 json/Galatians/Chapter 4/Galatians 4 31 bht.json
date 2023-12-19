@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 14:19:17",
+    "verseRef": "Galatians 4:31",
+    "bestBHT": {
+        "bht": "As believers, we are acknowledged heirs, not children of the bondwoman, but of the freewoman. This distinction is crucial, for we are accepted as sons and heirs, not cast out like Ishmael. Through faith, we become children of Abraham and the freewoman, partaking in the new covenant. In Christ, we are made free, delivered from the bondage of the first covenant and the power of sin. Let us hold fast to this freedom and reject the servile Mosaic dispensation.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.1234383544533273,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+        "commentatorTierSimilarities": [
+            41.55,
+            31.13,
+            27.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I am inclined to think, against Meyer\" - This quote highlights the author's inclination to disagree with Meyer, a different viewpoint or interpretation.",
+            "that we are heirs, is an acknowledged fact\" - This quote asserts the acknowledged truth that believers are heirs, a recognized and accepted reality.",
+            "we are not the children of the handmaid, of whom it was said that they should not inherit, but of the freewoman\" - This quote emphasizes the contrast between being children of the handmaid, who were denied inheritance, and being children of the freewoman, who are entitled to inherit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If, then, we are heirs, 'we are not children of the bond woman... but of the free woman.'\" (Galatians 4:31)",
+            "For we are not 'cast out' as Ishmael, but accepted as sons and heirs.\" (Galatians 4:31)",
+            "We, New Testament believers, are 'heirs.'\" (Galatians 4:31)"
+        ],
+        "Albert Barnes": [
+            "It is the birthright of Christians to think, and feel, and act like freemen, and they should not allow themselves to become the slaves of customs, and rites, and ceremonies, but should feel that they are the adopted children of God.",
+            "The Bible is a book of sense; and all the doctrines essential to salvation are plainly revealed.",
+            "This transaction was so remarkable, the coincidence so exact, and the illustration so instructive, that we cannot doubt it originally was intended, by the Holy Spirit, as an allegory and type of those things to which the inspired apostle referred it."
+        ],
+        "John Calvin": [
+            "He desires them to continue in the same condition.",
+            "If we shall call the Papists, Ishmaelites and Hagarites, and boast that we are the lawful children, they will smile at us.",
+            "If the two subjects in dispute be fairly compared, the most ignorant person will be at no loss to decide."
+        ],
+        "Philip Schaff": [
+            "Wherefore, brethren, we are not children of a ( i.e., any) bondwoman, but of the freewoman.\" ",
+            "There are many bondwomen, false churches and sects, but only one freewoman, the lawful spouse of Christ, in whom all true believers are one.\" ",
+            "Therefore, brethren, we are not children of a bondwoman (like the Jews), but of the freewoman; for (or, unto) freedom Christ hath made us free: \u2018stand fast, therefore,\u2019 etc."
+        ],
+        "Archibald T. Robertson": [
+            "But of the freewoman (\u03b1\u03bb\u03bb\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03b1\u03c2). We are children of Abraham by faith (Galatians 3:7). "
+        ],
+        "John Gill": [
+            "we are not children of the bondwoman; the figure of the first covenant, which gendered to bondage...",
+            "New Testament saints are not under it, are delivered from it, and are dead unto it...",
+            "but of the free; of Sarah, that was a type of the new and second covenant..."
+        ],
+        "John Wesley": [
+            "We...are not children of the bondwoman...but of the free.\" ",
+            "Being free from the curse and the bond of that law, and from the power of sin and Satan.",
+            "Have nothing to do with the servile Mosaic dispensation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We, as believers, are acknowledged heirs. We are not children of the bondwoman, who were denied inheritance, but of the freewoman. This distinction is important to recognize because it signifies our status as accepted sons and heirs, not cast out like Ishmael. As New Testament believers, we are heirs, and it is our birthright to think, feel, and act as freemen, not becoming slaves to customs, rites, and ceremonies. Through faith, we are children of Abraham and the freewoman, belonging to the lawful spouse of Christ. In Christ, we have been made free, delivered from the bondage of the first covenant and the power of sin and Satan. We should hold fast to this freedom and not be entangled with the servile Mosaic dispensation.",
+            "wordCount": 124,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0324603510453336,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.92,
+            "commentatorTierSimilarities": [
+                41.16,
+                33.59,
+                25.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As believers, we are acknowledged heirs and not children of the bondwoman who were denied inheritance. Being children of the freewoman, we are accepted as sons and heirs. Through faith, we are connected to Abraham and the new covenant, belonging to the lawful spouse of Christ. In Christ, we have been made free from the bondage of the first covenant and the power of sin and Satan. We should hold fast to this freedom and not be entangled with the servile Mosaic dispensation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.062389637330626,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.92,
+            "commentatorTierSimilarities": [
+                41.36,
+                31.0,
+                27.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As believers, we are acknowledged heirs, not children of the bondwoman, but of the freewoman. This distinction is crucial, for we are accepted as sons and heirs, not cast out like Ishmael. Through faith, we become children of Abraham and the freewoman, partaking in the new covenant. In Christ, we are made free, delivered from the bondage of the first covenant and the power of sin. Let us hold fast to this freedom and reject the servile Mosaic dispensation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.1234383544533273,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                41.55,
+                31.13,
+                27.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We, as believers, are acknowledged heirs \u2013 not children of the bondwoman who were denied inheritance \u2013 but of the freewoman. This distinction is important because it signifies our accepted status as sons and heirs, not cast out like Ishmael. Through faith, we become children of Abraham and the freewoman, belonging to the lawful spouse of Christ. In Christ, we have been made free from the bondage of the first covenant. Let us hold fast to this freedom and reject the servile Mosaic dispensation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.1097676690139604,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+            "commentatorTierSimilarities": [
+                42.99,
+                31.04,
+                25.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As believers, we are acknowledged heirs, not children of the bondwoman, but of the freewoman. Through faith, we become children of Abraham and the freewoman, partakers of the new covenant. In Christ, we are made free from the bondage of the first covenant and the power of sin. Let us hold fast to this freedom and reject the servile Mosaic dispensation.",
+            "wordCount": 61,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 2.109450695408234,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+            "commentatorTierSimilarities": [
+                40.4,
+                31.08,
+                28.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:26:03",
+    "verseRef": "Acts 3:13",
+    "bestBHT": {
+        "bht": "Peter fearlessly charges his audience with the heinous act of delivering up and crucifying the Servant of God, Jesus, emphasizing the gravity of their crime. By calling Jesus the Servant of God, Peter alludes to the Old Testament prophecies that designate the Messiah as the chosen servant for the work of redemption. The contrast is striking between God glorifying Jesus and the people denying and delivering Him up. Peter's mention of the God of their ancestors connects his message to the revered worship passed down through generations, urging repentance and acknowledging the supreme authority of Jesus as the Messiah.",
+        "wordCount": 100,
+        "quoteTokenProportion": 28.33,
+        "qualityScore": 2.2984395106595032,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.76,
+        "commentatorTierSimilarities": [
+            32.58,
+            38.31,
+            29.1
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "An appellation more frequent in the Acts than in the other books of the New Testament, and suitable to that period of time.",
+            "See, how he is always connecting God with their ancestors, that he may not seem to be introducing any new doctrine.",
+            "Not 'His Son,' but His Servant: servant, however, in that distinct and Messianic sense which the same expression bears in Isa. xl.\u2013lxvi."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The God of Abraham... hath glorified his Son Jesus.\" ",
+            "With what heroic courage does Peter here charge his auditors with the heaviest of all conceivable crimes.",
+            "With what terrific strength of language are these charges clothed!"
+        ],
+        "Albert Barnes": [
+            "It was important to show that it was the same God who had done this that had been acknowledged by their fathers...they were not about to introduce the worship of any other God.\" ",
+            "You denied, despised, and murdered him, but God has exalted and honored him...by putting forth this power, God had shown that he approved the work of his Son, and was disposed to honor him in the view of people.\" ",
+            "The fact that Pilate regarded him as innocent was a strong aggravation of their crime. They should have regarded him as innocent; but they urged on his condemnation against the deliberate judgment of him before whom they had arraigned him, and thus showed how obstinately they were resolved on his death."
+        ],
+        "Marvin Vincent": [
+            "The term servant of Jehovah, or servant of the Lord, is applied in the Old Testament (1) to a worshipper of God... (2) To a minister or ambassador of God called to any service... (3) Peculiarly of the Messiah, as God's chosen servant for accomplishing the work of redemption.\" ",
+            "Unless we render servant in the passages where the phrase paiv Qeou occurs in the New Testament, there will be no allusion throughout it all to that group of prophecies which designate the Messiah as the servant of Jehovah, who learned obedience by the things which he suffered.",
+            "He is the pronoun of more definite and emphatic reference, the latter, Pilate, 'in order to make the contrast felt between what Pilate judged and what they did.' This is further emphasized in the next verse."
+        ],
+        "John Calvin": [
+            "This is God\u2019s purpose in those miracles which he worketh by the apostles to set forth the glory of his Christ; whereupon it followeth that all those do deal disorderly who set up Peter, or any other, whatsoever he be, forasmuch as all men must decrease, and Christ alone must be excellent.",
+            "He maketh mention of the God of Abraham, Isaac, and Jacob, to the end he may declare unto the people that he meaneth nothing less than to lead them away from the old and ancient worship of the true God, which they had received of the fathers.",
+            "Furthermore, as amongst the Jews the name of the holy fathers was in high estimation, so Peter doth closely tell them, that they were no better than other men, without the only begotten Son of God."
+        ],
+        "Philip Schaff": [
+            "We have not done this great thing which so astonishes you, but the Eternal of hosts, the Glory and Hope of Israel, the covenant God, in whose royal house we all are standing He has done it.",
+            "Messiah is constantly designated by this title, 'Servant of the Lord', in the second part of Isaiah (chaps. 40-66), as the One who carries out the deliberate plan of God the Minister of the Eternal in the redemption of the world.",
+            "The picture St. Peter paints to the Jews of their guilt is exceedingly vivid. He piles up the terrible contrasts. This Jesus God hath glorified; but ye, denying that He was Messiah, have delivered Him up to shame and death."
+        ],
+        "Archibald T. Robertson": [
+            "His servant Jesus (\u03c4\u03bf\u03bd \u03c0\u03b1\u03b9\u03b4\u03b1 \u0399\u03b7\u03c3\u03bf\u03c5\u03bd). This phrase occurs in Isaiah 42:1; Isaiah 52:13 about the Messiah except the name 'Jesus' which Peter adds...",
+            "But the phrase 'servant of God' (\u03c0\u03b1\u03b9\u03c2 \u03b8\u03b5\u03bf\u03c5) is applied also to Israel and to David...",
+            "Whom ye delivered up (\u03bf\u03bd \u03c5\u03bc\u03b5\u03b9\u03c2 \u03bc\u03b5\u03bd \u03c0\u03b1\u03c1\u03b5\u03b4\u03c9\u03ba\u03b1\u03c4\u03b5). Note emphatic use of \u03c5\u03bc\u03b5\u03b9\u03c2 (ye)."
+        ],
+        "John Gill": [
+            "They were not setters forth of another, or a strange God, but believed in the same God their forefathers did, and to whom they ascribe the glory of this miracle.",
+            "The apostle adds, whom ye delivered up; to Pilate, the Roman governor; having first seized him as a thief, bound him as a malefactor, and arraigned, and condemned him to death in the high priest's palace as a blasphemer.",
+            "When he judged it right that he should be released, being, in his apprehension, an innocent man; and therefore pressed it on the people to agree to release him, to which he was himself strongly inclined."
+        ],
+        "John Wesley": [
+            "They taught no new religion, inconsistent with that of Moses, and were far from having the least design to divert their regards from the God of Israel.",
+            "God had given him to you, and when ye ought to have received him as a most precious treasure, and to have preserved him with all your power.",
+            "To have preserved him with all your power."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter boldly accuses his listeners of the gravest crime imaginable - delivering up and crucifying the Servant of God, Jesus. By referring to Jesus as the Servant of God, Peter draws on the Messianic sense of the term from the Old Testament, emphasizing Jesus' role as the chosen servant for the work of redemption. The contrast between God glorifying Jesus and the people denying and delivering him up is vividly portrayed. Furthermore, by connecting God with their ancestors, Peter ensures that his message does not seem like a new doctrine, but rather a continuation of the worship of the God of Abraham, Isaac, and Jacob. This bold and impactful statement calls his listeners to repentance and highlights the power and authority of Jesus as the Messiah.",
+            "wordCount": 125,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.2296154677157975,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.48,
+            "commentatorTierSimilarities": [
+                34.18,
+                36.83,
+                29.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter charges his audience with delivering up and crucifying the Servant of God, Jesus, in an act of the utmost crime. By referring to Jesus as the Servant of God, Peter highlights his Messianic role from the Old Testament. The contrast between God glorifying Jesus and the people denying and delivering him up is vividly portrayed. By connecting God with their ancestors, Peter ensures that his message is seen as a continuation of the worship of the God of Abraham, Isaac, and Jacob. This bold statement calls for repentance and magnifies the power and authority of Jesus as the Messiah.",
+            "wordCount": 100,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.2288208381305004,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.45,
+            "commentatorTierSimilarities": [
+                33.95,
+                36.95,
+                29.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter boldly accuses his listeners of delivering up and crucifying the Servant of God, Jesus, in the gravest of crimes. By referring to Jesus as the Servant of God, Peter highlights his Messianic role and draws from the Old Testament prophecies. The contrast between God glorifying Jesus and the people denying and delivering him up is powerfully emphasized. Peter's invocation of the God of their ancestors connects his message to the established worship of the true God. This accusation calls for repentance and underscores the authority of Jesus as the Messiah.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.22629499176304,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.36,
+            "commentatorTierSimilarities": [
+                34.08,
+                37.02,
+                28.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter fearlessly charges his audience with the heinous act of delivering up and crucifying the Servant of God, Jesus, emphasizing the gravity of their crime. By calling Jesus the Servant of God, Peter alludes to the Old Testament prophecies that designate the Messiah as the chosen servant for the work of redemption. The contrast is striking between God glorifying Jesus and the people denying and delivering Him up. Peter's mention of the God of their ancestors connects his message to the revered worship passed down through generations, urging repentance and acknowledging the supreme authority of Jesus as the Messiah.",
+            "wordCount": 100,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.2984395106595032,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.76,
+            "commentatorTierSimilarities": [
+                32.58,
+                38.31,
+                29.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter boldly accuses his audience of the most severe crime, delivering up and crucifying the Servant of God, Jesus. By referring to Jesus as the Servant of God, Peter draws on the Messianic sense of the term from the Old Testament. The contrast between God glorifying Jesus and the people denying and delivering him up is vividly portrayed. By connecting God with their ancestors, Peter ensures that his message seems like a continuation of the worship of the God of Abraham, Isaac, and Jacob. This bold statement calls for repentance and emphasizes the power and authority of Jesus as the Messiah.",
+            "wordCount": 101,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2213482722733255,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.2,
+            "commentatorTierSimilarities": [
+                34.27,
+                36.7,
+                29.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

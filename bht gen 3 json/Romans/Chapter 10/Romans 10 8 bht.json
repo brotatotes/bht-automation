@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:07:48",
+    "verseRef": "Romans 10:8",
+    "bestBHT": {
+        "bht": "The word of faith is easily accessible and requires no laborious search. It does not involve establishing righteousness through the law but accepting, by faith, the message of the gospel. Through faith in Christ and the confession of that faith, salvation is obtained. The contrast between the law and the gospel is that while the law demands works, the gospel simply requires faith to receive God's grace. It is within reach, already in their mouths and hearts, having been preached by the apostles.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.2851544062239277,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.32,
+        "commentatorTierSimilarities": [
+            35.28,
+            32.43,
+            32.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "(to confess), and in thy heart (to believe): that is (see above), the word of faith",
+            "the word of faith (which forms the substratum and object of faith, see Gal. iii. 2; 1 Tim. iv. 6)",
+            "which we (ministers of Christ: or perhaps, I Paul) preach"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word is nigh thee\u2014easily accessible.",
+            "Though it is of the law which Moses more immediately speaks in the passage quoted, yet it is of the law as Israel shall be brought to look upon it when the Lord their God shall circumcise their heart.",
+            "That is, the word of faith, which we preach\u2014that is, the word which men have to believe for salvation."
+        ],
+        "Albert Barnes": [
+            "The doctrine is not difficult to be understood and embraced. What is nigh us may be easily obtained. What is remote, with difficulty.",
+            "The doctrine was already so familiar, and so well understood, that it was actually in their mouth, that is, their language, their common conversation.",
+            "The doctrine requiring faith in Christ was already among them by the preaching of the apostles, and was a subject of conversation and of thought."
+        ],
+        "Marvin Vincent": [
+            "But the word is very near thee, in thy mouth and in thy heart, to do it.",
+            "In applying these words to the system of faith, Paul, in like manner, denies that this system involves any painful search or laborious work.",
+            "All that is necessary is to accept by faith the incarnate and risen Christ, instead of having recourse to the long and painful way of establishing one's own righteousness by obedience to the law."
+        ],
+        "John Calvin": [
+            "Hence the faithful derive from this passage remarkable consolation with regard to the certainty of the word; for they may no less safely rest on it, than on what is actually present.",
+            "Sufficient then for pacifying minds, and for rendering certain our salvation, is the word of the gospel; in which we are not commanded to earn righteousness by works, but to embrace it, when offered gratuitously, by faith.",
+            "The contrast, by which the difference between the law and the gospel appears, is indeed to be understood: and from this distinction we learn, \u2014 that as the law demands works, so the gospel requires nothing else, but that men bring faith to receive the grace of God."
+        ],
+        "Philip Schaff": [
+            "The pious Israelite had the law in his mouth and heart, i.e., to confess and believe, precisely as Paul afterwards explains in applying the language to the gospel.",
+            "Any true grasp of God's revelation, even in the days of Moses, was gained in the way Paul describes.",
+            "Any nearness of the Old Testament 'word' was due to its leading to Christ, whom the gospel proclaimed as the object of faith."
+        ],
+        "Archibald T. Robertson": [
+            "The from faith righteousness.",
+            "The gospel message concerning faith.",
+            "The living voice brings home to every one the faith kind of righteousness."
+        ],
+        "John Gill": [
+            "the word is nigh thee, even in thy mouth, and in thy heart; which is to be understood not of the law, for Moses himself is not speaking of the law only, but either of the whole word of God, both law and Gospel; or particularly of the Gospel",
+            "the word of faith... contains doctrines which are to be believed upon the testimony of God, and particularly the doctrine of justification by the righteousness of Christ received by faith",
+            "the agreement between Moses and the apostles of Christ; for the word which he spoke of, they preached, and indeed said no other things than what the prophets and Moses said should come"
+        ],
+        "John Wesley": [
+            "All is done ready to thy hand.",
+            "The word is nigh thee - Within thy reach; easy to be understood, remembered, practised.",
+            "If thy heart believe in Christ, and thy life confess him, thou shalt be saved."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the accessibility and simplicity of the word of faith. The commentators explain that this word does not require a laborious search or the establishment of one's own righteousness through obedience to the law. Instead, it is easily accessible and involves accepting, by faith, the message of the gospel. It is emphasized that this word is not far off, but rather already in their mouths and hearts, as it had been preached to them by the apostles. Through faith in Christ and the confession of that faith, salvation is obtained.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.30728126906065,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.06,
+            "commentatorTierSimilarities": [
+                35.0,
+                34.03,
+                30.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word of faith is readily accessible and does not require extensive labor. By accepting the gospel message and having faith in Christ, one can obtain righteousness. The emphasis is on the ease of obtaining this word, as it is already in their mouths and hearts, having been preached by the apostles. It is not a matter of working for righteousness through the law, but rather embracing it by faith. By believing in Christ and confessing this belief, salvation is obtained.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.2741566149654453,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.96,
+            "commentatorTierSimilarities": [
+                36.03,
+                32.04,
+                31.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word of faith is easily accessible and requires no laborious search. It does not involve establishing righteousness through obedience to the law but accepting, by faith, the message of the gospel. It is already in their mouths and hearts, having been preached by the apostles. Through faith in Christ and confession, salvation is obtained. The contrast between the law and the gospel is understood, as the former demands works while the latter requires faith to receive God's grace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.2577112268135866,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.41,
+            "commentatorTierSimilarities": [
+                34.84,
+                33.22,
+                31.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The word of faith is near and easily accessible, not demanding a laborious search or the establishment of one's own righteousness. By accepting it through faith, salvation is obtained. This word is already present in their mouths and hearts, having been preached by the apostles. The contrast between the law and the gospel is understood, as the former requires works and the latter only demands faith to receive God's grace. It is through believing in Christ and confessing this belief that one will be saved.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.2522486721929775,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.23,
+            "commentatorTierSimilarities": [
+                35.9,
+                31.68,
+                32.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The word of faith is easily accessible and requires no laborious search. It does not involve establishing righteousness through the law but accepting, by faith, the message of the gospel. Through faith in Christ and the confession of that faith, salvation is obtained. The contrast between the law and the gospel is that while the law demands works, the gospel simply requires faith to receive God's grace. It is within reach, already in their mouths and hearts, having been preached by the apostles.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.2851544062239277,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.32,
+            "commentatorTierSimilarities": [
+                35.28,
+                32.43,
+                32.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

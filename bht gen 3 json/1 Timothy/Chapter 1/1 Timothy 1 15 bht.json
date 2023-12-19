@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:28:13",
+    "verseRef": "1 Timothy 1:15",
+    "bestBHT": {
+        "bht": "The saying that Christ Jesus came into the world to save sinners is both faithful and worthy of all acceptance. Paul's sincere acknowledgment of his own unworthiness in light of the extent of God's mercy intensifies his appreciation of his own sins. This doctrine of salvation through Christ is profound and demands our attention. Christ came not to condemn, but to save sinners, making this truth a seal on our hearts, reminding us of the forgiveness of sins available to all.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.2249714364967605,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.32,
+        "commentatorTierSimilarities": [
+            29.12,
+            30.44,
+            40.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Faithful is the saying, and worthy of all reception, that Christ Jesus came into the world to save sinners.\" ",
+            "The aim and extent of the Lord\u2019s mercy intensifies the feeling of his own especial unworthiness.",
+            "Other men\u2019s crimes seem to sink into nothing in comparison, and a man\u2019s own to be the chief and only ones in his sight."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faithful is the saying.\" ",
+            "[Paul] understands what he is saying, and whereof he affirms; and by his simplicity of style and subject, setting forth the grand fundamental truth of salvation through Christ, confutes the false teachers' abstruse and unpractical speculations.",
+            "This implies His pre-existence. 1 John 2:2, Greek, 'the true Light that, coming into the world, lighteth every man.'"
+        ],
+        "Albert Barnes": [
+            "The doctrine that Christ came to save sinners might be depended on as certainly true.",
+            "If salvation has been provided for me, it is a matter claiming my profoundest attention; and the same is true of every human being.",
+            "He came when he was under no necessity of coming; he came to save, not to destroy; to reveal mercy, not to denounce judgment; to save sinners - the poor, the lost, the wandering, not to condemn them."
+        ],
+        "Marvin Vincent": [
+            "Faithful is the saying.\" (Commentary)",
+            "Worthy of all acceptation.\" (Commentary)",
+            "To save sinners.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "Let it be to us as a seal to impress on our hearts a firm belief of the forgiveness of sins, which otherwise with difficulty finds entrance into the hearts of men.",
+            "The more any one is oppressed by his sins, let him the more courageously betake himself to Christ, relying on this doctrine, that he came to bring salvation not to the righteous, but to 'sinners.'",
+            "We must guard against thinking that the Apostle spoke thus under a presence of modesty, and that he did not think so in his heart."
+        ],
+        "Philip Schaff": [
+            "This is a faithful saying.\" ",
+            "Came into the world to save sinners.",
+            "Of whom I am chief."
+        ],
+        "Archibald T. Robertson": [
+            "Faithful is the saying.\" ",
+            "Chief.\" ",
+            "Sincere appreciation of the sins of his life."
+        ],
+        "John Gill": [
+            "This is a faithful saying, and worthy of all acceptation... it is a 'faithful saying'; in which the faithfulness of God is displayed... and the faithfulness of Christ is discovered herein...",
+            "It is the Christian Cabala, or the evangelical tradition, delivered by the Father to Christ, by him to his apostles, and by them to the saints, by whom it is cordially received.",
+            "Christ Jesus came into the world to save sinners... he came to save sinners, of all sorts, even notorious sinners, the worst and chief of sinners... he was the first in quality, or the greatest and chiefest of sinners, not only of those that are saved, but of all men, Jews or Gentiles."
+        ],
+        "John Wesley": [
+            "This is a faithful saying \u2014 A most solemn preface.",
+            "And worthy of all acceptation \u2014 Well deserving to be accepted, received, embraced, with all the faculties of our whole soul.",
+            "That Christ \u2014 Promised. Jesus \u2014 Exhibited. Came into the world to save sinners \u2014 All sinners, without exception."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse reminds us of the faithful saying that Christ Jesus came into the world to save sinners, a truth that Paul deeply understood and affirmed. The mercy and extent of this salvation emphasized his own unworthiness and enabled him to see his own sins as the chief and most significant. The doctrine of Christ's salvation is one that should claim our profound attention, as it is true for every human being. He came not to condemn, but to save sinners - the lost, the wandering, and the poor. This truth is a faithful saying, worthy of all acceptance, and is a seal on our hearts that reminds us of the forgiveness of sins available through Christ.",
+            "wordCount": 117,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 2.178631874553333,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.78,
+            "commentatorTierSimilarities": [
+                28.81,
+                32.2,
+                38.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The saying that Christ Jesus came into the world to save sinners is both faithful and worthy of all acceptance. Paul's sincere acknowledgment of his own unworthiness in light of the extent of God's mercy intensifies his appreciation of his own sins. This doctrine of salvation through Christ is profound and demands our attention. Christ came not to condemn, but to save sinners, making this truth a seal on our hearts, reminding us of the forgiveness of sins available to all.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.2249714364967605,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.32,
+            "commentatorTierSimilarities": [
+                29.12,
+                30.44,
+                40.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The faithful saying that Christ Jesus came into the world to save sinners is worthy of full acceptance. Paul's humble recognition of his own unworthiness intensifies the significance of Christ's mercy. This doctrine of salvation through Christ should claim our attention and is applicable to all human beings. Christ came to save sinners, not to condemn them, revealing the profound extent of God's love and forgiveness. This truth serves as a seal on our hearts and affirms the availability of salvation to every sinner.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.153575478433419,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.95,
+            "commentatorTierSimilarities": [
+                28.23,
+                31.97,
+                39.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The faithful saying that Christ Jesus came into the world to save sinners is worthy of all acceptance. Paul's sincere acknowledgment of his own unworthiness enhances his understanding of the profound extent of Christ's mercy. This doctrine of salvation through Christ demands our attention and is applicable to all human beings. Christ came not to condemn sinners, but to save them, revealing the unconditional love and forgiveness of God. This eternal truth serves as a seal on our hearts, reminding us of the availability of salvation to all.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.111303773905188,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+            "commentatorTierSimilarities": [
+                28.47,
+                31.32,
+                40.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The faithful saying that Christ Jesus came into the world to save sinners is worthy of all acceptance. Paul's sincere acknowledgment of his own unworthiness enhances his understanding of the profound extent of Christ's mercy. This doctrine of salvation through Christ demands our attention and is applicable to all human beings. Christ came not to condemn sinners, but to save them, revealing the unconditional love and forgiveness of God. This eternal truth serves as a seal on our hearts, reminding us of the availability of salvation to all.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.111303773905188,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+            "commentatorTierSimilarities": [
+                28.47,
+                31.32,
+                40.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

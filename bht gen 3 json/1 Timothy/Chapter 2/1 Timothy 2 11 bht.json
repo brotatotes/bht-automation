@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:28:20",
+    "verseRef": "1 Timothy 2:11",
+    "bestBHT": {
+        "bht": "In this instruction, women are directed to learn in silence and in subjection. They are not permitted to teach or have authority over men, but should remain quiet. The focus is on their conduct in religious assemblies, where they should exhibit peacefulness and tranquility. Any questions or objections should be addressed privately to their husbands, rather than raised publicly. Overall, the instruction emphasizes the importance of women learning with humility and displaying respectful submission in all situations.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.8818750470073407,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+        "commentatorTierSimilarities": [
+            27.74,
+            36.35,
+            35.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let a (i. e. the, generic) woman learn (in the congregation, and every where: see below) in silence in all (possible) subjection.",
+            "But (the contrast is to a suppressed hypothesis of a claim to do that which is forbidden: compare a similar 'but,' 1 Cor. xi. 16) to a woman I permit not to teach (in the church [primarily], or, as the context shews, any where else), nor to lord it over the men, but (supply \u2018I command her:\u2019 the construction in 1 Cor. xiv. 34 is the same) to be in silence.",
+            "But (the contrast is to a suppressed hypothesis of a claim to do that which is forbidden: compare a similar 'but,' 1 Cor. xi. 16) to a woman I permit not to teach (in the church [primarily], or, as the context shews, any where else), nor to lord it over the men, but (supply \u2018I command her:\u2019 the construction in 1 Cor. xiv. 34 is the same) to be in silence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "She should not even put questions in the public assembly.",
+            "She might teach, but not in public.",
+            "Paul probably wrote this Epistle from Corinth, where the precept (1 Corinthians 14:34) was in force."
+        ],
+        "Albert Barnes": [
+            "Let the woman learn in silence - Listen attentively to instruction, without attempting to teach in public...",
+            "With all subjection - With due subjection to those who are in authority, and who are appointed to minister in holy things..."
+        ],
+        "Marvin Vincent": [
+            "Learn [\u03bc\u03b1\u03bd\u03b8\u03b1\u03bd\u03b5\u03c4\u03c9] . Comp. 1 Corinthians 14:35.",
+            "In silence [\u03b5\u03bd \u03b7\u03c3\u03c5\u03c7\u03b9\u03b1] . See on peaceable, ver. 2. Rev, renders quietness; but the admonition concerns the behavior of women in religious assemblies. Comp. 1 Corinthians 14:34.",
+            "The word is used in the sense of silence, Acts 22:2: with the broader meaning quietness in 2 Thessalonians 3:12."
+        ],
+        "John Calvin": [
+            "Let a woman learn in quietness...for quietness means silence, that they may not take upon them to speak in public.\" ",
+            "After having spoken of dress, he now adds with what modesty women ought to conduct themselves in the holy assembly.",
+            "This he immediately explains more clearly, by forbidding them to teach."
+        ],
+        "Philip Schaff": [
+            "Let the woman learn in silence.",
+            "Better 'a woman.'",
+            "Quietness or tranquility rather than silence."
+        ],
+        "Archibald T. Robertson": [
+            "In quietness (\u03b5\u03bd \u03b7\u03c3\u03c5\u03c7\u03b9\u03b1).\" ",
+            "In all subjection (\u03b5\u03bd \u03c0\u03b1\u03c3\u03b7 \u03c5\u03c0\u03bf\u03c4\u03b1\u03b3\u03b7).\" ",
+            "See 1 Corinthians 14:33-35."
+        ],
+        "John Gill": [
+            "Let the woman learn in silence... and he would have them learn in silence, and not offer to rise and speak, under a pretence of having a word from the Lord, or of being under an impulse of the Spirit of the Lord, as some frantic women have done.\" (43 words)",
+            "And if they should meet with anything, under the ministry of the word, they did not understand, or they had an objection to, they were not to speak in public, but ask their own husbands at home.\" (34 words)",
+            "And thus, they were to behave with all subjection; both to the ministers of the word, and to their own husbands; obeying from the heart the form of doctrine delivered to them; and submitting cheerfully to the ordinances of Christ.\" (42 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the commentators emphasize the importance of a woman learning in silence and in subjection. They stress that women should refrain from teaching or speaking in public gatherings, and instead, they should listen attentively to instruction. The commentators argue that the instruction given by Paul is applicable not just within the church, but also in other contexts. They highlight the need for women to maintain quietness and tranquility, rather than engaging in public discourse. The commentaries caution against women taking on positions of authority or attempting to teach over men. Instead, they should seek clarification from their husbands or ask questions privately. Overall, the emphasis is on women learning with humility and displaying respectful submission in all situations.",
+            "wordCount": 120,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 1.9020072992738921,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.58,
+            "commentatorTierSimilarities": [
+                27.25,
+                34.83,
+                37.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the passage, it is emphasized that women should learn in silence and subjection. They are not permitted to teach or speak publicly, but should rather listen attentively to instruction. The focus is on their behavior in religious assemblies, where they are expected to maintain peacefulness and tranquility. Questions or objections should be directed to their husbands at home rather than raised in public. The passage underscores the importance of women learning with humility and exhibiting respectful submission in all circumstances.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8603524964843237,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                26.52,
+                33.47,
+                40.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this teaching, it is emphasized that women should learn in silence and subjection. They are not permitted to teach or speak publicly, but should rather listen attentively. The focus is on their behavior in religious settings, where they should maintain peacefulness and tranquility. Questions or objections should be addressed privately with their husbands. The teaching emphasizes the importance of women learning with humility and exhibiting respectful submission in all situations.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.796612539938608,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+            "commentatorTierSimilarities": [
+                25.18,
+                36.48,
+                38.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this teaching, women are instructed to learn in silence and subjection. They should refrain from teaching or speaking in public gatherings, instead listening attentively. The focus is on their behavior in religious settings, maintaining peacefulness and tranquility. Questions or objections should be addressed privately. The teaching highlights the need for women to learn with humility and exhibit respectful submission.",
+            "wordCount": 60,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.7527962968054092,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                25.13,
+                38.69,
+                36.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this instruction, women are directed to learn in silence and in subjection. They are not permitted to teach or have authority over men, but should remain quiet. The focus is on their conduct in religious assemblies, where they should exhibit peacefulness and tranquility. Any questions or objections should be addressed privately to their husbands, rather than raised publicly. Overall, the instruction emphasizes the importance of women learning with humility and displaying respectful submission in all situations.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8818750470073407,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                27.74,
+                36.35,
+                35.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

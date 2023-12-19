@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:39:51",
+    "verseRef": "1 Peter 4:8",
+    "bestBHT": {
+        "bht": "Above all, let your love for one another be intense, as it has the power to cover a multitude of sins. Love does not harshly condemn or expose faults, but bears the burdens of others, forgiving and forgetting past offenses. Through fervent love, we pray for one another, seeking to have their sins covered by God. This mutual and warm charity should think no ill and put the best construction on the words and actions of fellow Christians. Love truly covers a multitude of sins, always seeking forgiveness and restoration.",
+        "wordCount": 90,
+        "quoteTokenProportion": 45.59,
+        "qualityScore": 2.378443620450425,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.42,
+        "commentatorTierSimilarities": [
+            33.17,
+            31.47,
+            35.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "above all things (not placing love above prayer, but because all social life and duty must presuppose love as its necessary bond and condition) having your love towards one another intense",
+            "because love covereth a multitude of sins",
+            "It is a truth from which we need not shrink, that every sin which love hides from man\u2019s sight, is hidden in God\u2019s sight also."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Having your mutual (literally, 'towards yourselves') charity intense.",
+            "Covereth... so as not harshly to condemn or expose faults; but forbearingly to bear the other's burdens, forgiving and forgetting past offenses.",
+            "By prayer for them, love tries to have them covered by God; and so being the instrument of converting the sinner from his error, 'covereth a (not 'the,' as English Version) multitude of sins'."
+        ],
+        "Albert Barnes": [
+            "And above all things - More than all things else.",
+            "Have fervent charity among yourselves - Warm, ardent love toward each other.",
+            "For charity shall cover the multitude of sins - Love to another shall so cover or hide a great many imperfections in him, that you will not notice them."
+        ],
+        "Marvin Vincent": [
+            "Fervent [\u03b5\u03ba\u03c4\u03b5\u03bd\u03b7] . See, on the kindred adverb fervently, notes on ch. 1 22. ",
+            "Love covereth, etc. Compare James 5:20; Proverbs 10:12."
+        ],
+        "John Calvin": [
+            "And above all things He commends charity or love as the first thing, for it is the bond of perfection.",
+            "And he bids it to be fervent, or intense, or vehement, which is the same thing; for whosoever is immoderately fervent in self-love, loves others coldly.",
+            "This singular benefit love brings to us when it exists among us, so that innumerable evils are covered in oblivion."
+        ],
+        "Philip Schaff": [
+            "The preference which is given to brotherly love is not given as if it were superior to prayer and the other virtues, or as if these were to be subordinated to the interests of that, but because without it nothing else can make the inner life of the Church what it should be.\" ",
+            "Love works for concord, throwing a covering over sins, forgiving them, excusing them, making as little of them as possible, while the genius of hatred is the opposite.\" ",
+            "What Peter has in view is the influence of love upon the life of the Church. He speaks of it, therefore, as being of the nature to act as Paul describes it in his great hymn of charity, when he says it \u2018beareth all things, believeth all things, hopeth all things, endureth all things\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "Above all things... Being fervent... For love covereth a multitude of sins.\" ",
+            "Being fervent, stretched out, holding intent you love among yourselves.\" ",
+            "Love covereth a multitude of sins, sins of the one loved, not of the one loving."
+        ],
+        "John Gill": [
+            "This love ought to be mutual and reciprocal, and to be warm and fervent, and not lukewarm and indifferent, as it too often is.",
+            "Charity, or true love, thinks no ill, but puts the best constructions upon the words and actions of fellow Christians, and does not take them up, and improve and exaggerate them, but lets them lie buried in oblivion.",
+            "It takes no notice of injuries, offenses, and affronts, but overlooks them, bears with them, and forgives them, so that they are never raked up, and seen any more; which prevents much scandal, strife, and trouble."
+        ],
+        "John Wesley": [
+            "Love covereth a multitude of sins \u2014 Yea, 'love covereth all things.'",
+            "He that loves another, covers his faults, how many soever they be.",
+            "And he continually prays that all the sinner's iniquities may be forgiven and his sins covered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Above all, in our social life and duty, we must have intense love towards one another. Love has the power to cover and hide sins, both in the eyes of man and God. It forbearingly bears each other's faults, forgiving and forgetting past offenses. Through fervent love, we pray for one another, seeking to have their sins covered by God. This mutual charity should be warm and fervent, not cold and indifferent. Love thinks no ill, but puts the best construction on the words and actions of fellow Christians. It overlooks injuries, offenses, and affronts, preventing strife and trouble. Love truly covers a multitude of sins, always seeking forgiveness and restoration.",
+            "wordCount": 112,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 2.071776606035354,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.23,
+            "commentatorTierSimilarities": [
+                33.54,
+                30.0,
+                36.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Above all, let your love for one another be intense, as it has the power to cover a multitude of sins. Love does not harshly condemn or expose faults, but bears the burdens of others, forgiving and forgetting past offenses. Through fervent love, we pray for one another, seeking to have their sins covered by God. This mutual and warm charity should think no ill and put the best construction on the words and actions of fellow Christians. Love truly covers a multitude of sins, always seeking forgiveness and restoration.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 2.378443620450425,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.42,
+            "commentatorTierSimilarities": [
+                33.17,
+                31.47,
+                35.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Above all, let your love for one another be intense as it covers a multitude of sins. Having fervent and mutual charity among yourselves, forgive and bear each other's faults. Love should think no ill, but put the best construction on the words and actions of fellow Christians. It overlooks injuries and offenses and seeks to prevent strife and trouble. Remember, love has the power to cover sins and bring forgiveness and restoration.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1550862491400395,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.0,
+            "commentatorTierSimilarities": [
+                32.64,
+                30.62,
+                36.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Above all, let your love for one another be intense, covering a multitude of sins. Love forbearingly bears faults and forgives past offenses, always seeking to restore and reconcile. Through fervent love, pray for one another, desiring God's covering and forgiveness. This warm and mutual charity should put the best construction on others' words and actions, refusing to take offense or hold grudges. Love seeks to prevent strife and trouble, always extending grace and understanding. Remember, love has the power to cover sins and bring about unity and healing.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.2229981718100182,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.26,
+            "commentatorTierSimilarities": [
+                33.22,
+                30.68,
+                36.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Above all, let your love be intense, covering a multitude of sins. Love bears faults and forgives offenses, seeking restoration. Through fervent love, pray for one another, desiring God's forgiveness. This mutual charity puts the best construction on words and actions, refusing offense. Love prevents strife, extending grace and understanding. Remember, love covers sins, bringing unity and healing.",
+            "wordCount": 59,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 2.176223568070567,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.7,
+            "commentatorTierSimilarities": [
+                34.87,
+                29.76,
+                35.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

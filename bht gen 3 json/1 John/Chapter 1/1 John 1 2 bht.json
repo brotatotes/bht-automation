@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:47:36",
+    "verseRef": "1 John 1:2",
+    "bestBHT": {
+        "bht": "We testify of the vivifying Word, as life has been manifested. The complete divine ideal of life includes impartation, but impartation with a view to the practical development of all that receives it with reference to God as its vivifying, impelling, regulating, and inspiring center. When Christ is preached to us, the kingdom of heaven is opened to us, so that being raised from death we may live the life of God. Jesus Christ is called the Word of life, having everlasting life in himself, the living God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 2.1102463687172968,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+        "commentatorTierSimilarities": [
+            28.64,
+            34.28,
+            37.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We have seen [it], and bear witness [of it], and declare...that life which is eternal.",
+            "...the which...was with the Father...",
+            "...and was manifested to us..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The life\u2014Jesus, 'the Word of life.'",
+            "Declare is the general term; write is the particular.",
+            "This proves the distinctness of the First and Second Persons in the one Godhead."
+        ],
+        "Albert Barnes": [
+            "He who was the life was made known to people by the incarnation.",
+            "He is the great source of all life, and he appeared on the earth, and we had an opportunity of seeing and knowing what he was.",
+            "He who was the life appeared unto people. The idea of John evidently is, (1) That the Being here referred to was forever with God; (2) That it was proper before the incarnation that the word life should be given to him as descriptive of his nature; (3) That there was a manifestation of him who was thus called life, on earth; that he appeared among people; that he had a real existence here, and not a merely assumed appearance."
+        ],
+        "Marvin Vincent": [
+            "The Life. The Word Himself who is the Life.\" ",
+            "The manifestation of life to men was a revelation of life, as, first of all and beyond all, centering in God.",
+            "The complete divine ideal of life includes impartation, but impartation with a view to the practical development of all that receives it with reference to God as its vivifying, impelling, regulating, and inspiring center."
+        ],
+        "John Calvin": [
+            "We testify of the vivifying Word, as life has been manifested.",
+            "When Christ is preached to us, the kingdom of heaven is opened to us, so that being raised from death we may live the life of God.",
+            "We hold him already revealed as it were in our hands, whom they sought obscurely promised to them in types."
+        ],
+        "Archibald T. Robertson": [
+            "By the parenthesis John heaps reassurance upon his previous statement of the reality of the Incarnation by the use of \u03b5\u03c9\u03c1\u03b1\u03ba\u03b1\u03bc\u03b5\u03bd (as in verse 1 John 1:1) with the assertion of the validity of his 'witness' (\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u03c5\u03bc\u03b5\u03bd) and 'message' (\u03b1\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bb\u03bf\u03bc\u03b5\u03bd), both present active indicatives (literary plurals), \u03b1\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bb\u03c9 being the public proclamation of the great news.\" ",
+            "Taking up \u03b6\u03c9\u03b7 of verse 1 John 1:1, John defines the term by the adjective \u03b1\u03b9\u03c9\u03bd\u03b9\u03bf\u03c2, used 71 times in the N.T., 44 times with \u03b6\u03c9\u03b7 and 23 in John's Gospel and Epistles (only so used in these books by John). Here it means the divine life which the Logos was and is (John 1:4; 1 John 1:1).\" ",
+            "Was with the Father (\u03b7\u03bd \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03bd \u03c0\u03b1\u03c4\u03b5\u03c1\u03b1). Not \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf, but \u03b7\u03bd, and \u03c0\u03c1\u03bf\u03c2 with the accusative of intimate fellowship, precisely as in John 1:1 \u03b7\u03bd \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03bd \u03b8\u03b5\u03bf\u03bd (was with God). Then John closes the parenthesis by repeating \u03b5\u03c6\u03b1\u03bd\u03b5\u03c1\u03c9\u03b8\u03b7."
+        ],
+        "John Gill": [
+            "The Word of life, who is life itself, the fountain of life, having it as God, in and of himself, without derivation from, and independent of another, originally and eternally, and who is the cause, author, and giver of life in every sense to others...",
+            "Jesus Christ...so called, because he has everlasting life in himself; as he is the living God, and because he has eternal life for all his people...",
+            "...which phrase is expressive of the eternal existence of Christ, as the Word and Son of God, with his Father, his relation to him, his oneness in nature, and equality with him, and his personal distinction from him..."
+        ],
+        "John Wesley": [
+            "For the life \u2014 The living Word.",
+            "And we testify and declare \u2014 We testify by declaring, by preaching, and writing.",
+            "To you \u2014 Who have not seen."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We have seen and bear witness that life which is eternal, the life\u2014Jesus, 'the Word of life'\u2014was with the Father and was manifested to us. The manifestation of life to men was a revelation of life, as, first of all and beyond all, centering in God. By the parenthesis, John heaps reassurance upon his previous statement of the reality of the Incarnation by the use of proclaiming the great news. Taking up the term life from verse 1, John defines it as the divine life which the Logos was and is, emphasizing that this life was with the Father, not an assumed appearance.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.2489493672750807,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.12,
+            "commentatorTierSimilarities": [
+                31.15,
+                41.73,
+                27.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We testify of the vivifying Word, as life has been manifested. The complete divine ideal of life includes impartation, but impartation with a view to the practical development of all that receives it with reference to God as its vivifying, impelling, regulating, and inspiring center. When Christ is preached to us, the kingdom of heaven is opened to us, so that being raised from death we may live the life of God. Jesus Christ is called the Word of life, having everlasting life in himself, the living God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.1102463687172968,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+            "commentatorTierSimilarities": [
+                28.64,
+                34.28,
+                37.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We have seen and bear witness that life which is eternal, the life\u2014Jesus, 'the Word of life'\u2014was with the Father and was manifested to us. The manifestation of life to men was a revelation of life, as, first of all and beyond all, centering in God. By the parenthesis, John reassures the reality of the Incarnation through proclaiming the great news. Taking up the term life from verse 1, John defines it as the divine life which the Logos was and is, emphasizing its validity and witness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.2144579638581754,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.97,
+            "commentatorTierSimilarities": [
+                31.6,
+                40.58,
+                27.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The witness and declaration of the eternal life, manifested and revealed as Jesus, the Word of life, confirms the distinctness and fellowship between the Father and the Son. This divine life, centering in God, is imparted to humanity with the aim of being the guiding force in their lives, propelling them towards God. John emphasizes the reality and validity of the Incarnation through the proclamation of this great news, assuring that Christ, the living Word, existed with the Father and was not merely an assumed appearance.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0853526312501143,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                29.84,
+                38.85,
+                31.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We testify to the eternal life, Jesus\u2014the Word of life\u2014who was with the Father and revealed Himself to us. The manifestation of life to humanity is a divine revelation that centers on God. By proclaiming the great news, John reassures the reality of the Incarnation, affirming the validity of his witness and message. This eternal life, which the Logos possesses, exists in unbroken fellowship with the Father. Thus, John emphasizes the distinctness and intimacy between the First and Second Persons of the Godhead.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9904437020615244,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+            "commentatorTierSimilarities": [
+                31.55,
+                37.74,
+                30.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

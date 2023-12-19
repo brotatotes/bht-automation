@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:16:11",
+    "verseRef": "Luke 7:22",
+    "bestBHT": {
+        "bht": "Some of the dead are raised, signifying that there had been at least one such miracle. The blind are receiving their sight, the lame are walking, and the dead are raised, which are all prophesied and now accomplished by Jesus. The blind see, the lame walk, and the dead are raised, testifying to the power of Jesus. Additionally, the Gospel is preached to the poor, the greatest mercy and miracle.",
+        "wordCount": 70,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0539972195004648,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+        "commentatorTierSimilarities": [
+            39.17,
+            0.0,
+            60.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression the dead are raised does not necessarily imply that more than one such miracle had taken place.",
+            "The plural is generic, signifying that some of the class fell under that which is predicated of them."
+        ],
+        "Marvin Vincent": [
+            "The blind receive, etc. Better, are receiving, are walking, even while Jesus is speaking and John is in doubt."
+        ],
+        "Archibald T. Robertson": [
+            "What things ye have seen and heard (\u03b1 \u03b5\u03b9\u03b4\u03b5\u03c4\u03b5 \u03ba\u03b1 \u03b7\u03ba\u03bf\u03c5\u03c3\u03b1\u03c4\u03b5).",
+            "Luke mentions no raisings from the dead in verse Luke 7:21, but the language is mainly general, while here it is specific.",
+            "\u03a3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b9\u03b6\u03bf\u03bc\u03b1 used here has the double notion of to trip up and to entrap and in the N.T. always means causing to sin."
+        ],
+        "John Gill": [
+            "how that the blind see; that is, they that had been blind, and some that were born blind received their sight, which was what was never heard of before, from the beginning of the world...",
+            "the lame walk; these were among those who were cured of their infirmities; and this also was prophesied of the Messiah, and was now accomplished by Jesus...",
+            "The dead are raised: whether there were any raised at this time, or no, is not certain; but certain it is, that there had been one raised from the dead, if not in the presence of these disciples, yet just before they came to Christ..."
+        ],
+        "John Wesley": [
+            "To the poor the Gospel is preached \u2014 Which is the greatest mercy, and the greatest miracle of all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some of the class of the dead are raised, signifying that there had been at least one such miracle. The blind are receiving their sight, the lame are walking, and the dead are raised, which are all prophesied of the Messiah and are now being accomplished by Jesus. The blind see, the lame walk, and the dead are raised; these miracles are unprecedented and are a testament to the power and authority of Jesus. Additionally, the Gospel is being preached to the poor, which is the greatest mercy and miracle of all.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 2.0653218440638614,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+            "commentatorTierSimilarities": [
+                38.46,
+                0.0,
+                61.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some of the dead are raised, signifying that there had been at least one such miracle. The blind are receiving their sight, the lame are walking, and the dead are raised, which are all prophesied of the Messiah and are now being accomplished by Jesus. The blind see, the lame walk, and the dead are raised; these miracles are unprecedented and are a testament to the power and authority of Jesus. Additionally, the Gospel is being preached to the poor, which is the greatest mercy and miracle of all.",
+            "wordCount": 89,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 2.0595634728670698,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                38.09,
+                0.0,
+                61.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some of the dead are raised, signifying that there had been at least one such miracle. The blind are receiving their sight, the lame are walking, and the dead are raised, which are all prophesied and now accomplished by Jesus. The blind see, the lame walk, and the dead are raised, testifying to the power of Jesus. Additionally, the Gospel is preached to the poor, the greatest mercy and miracle.",
+            "wordCount": 70,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0539972195004648,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+            "commentatorTierSimilarities": [
+                39.17,
+                0.0,
+                60.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The expression the dead are raised in this verse does not necessarily signify that more than one resurrection had occurred, but rather encompasses the concept that some individuals from this group were brought back to life. Similarly, when Jesus declares that the blind receive, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, the present tense indicates that these miracles were happening in real-time as Jesus spoke. These extraordinary works, such as restoring sight to the blind and enabling the lame to walk, were prophesied of the Messiah and are now being fulfilled by Jesus. Furthermore, the preaching of the Gospel to the poor is deemed the greatest mercy and miracle of all.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.8585244055267958,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                39.11,
+                0.0,
+                60.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The phrase the dead are raised does not imply multiple resurrections, but rather includes some individuals from this group being brought back to life. As Jesus mentioned, the present ongoing miracles of the blind receiving sight and the lame walking fulfill prophecies of the Messiah. Additionally, the preaching of the Gospel to the poor is deemed the greatest mercy and miracle of all. These extraordinary works demonstrate the power and authority of Jesus in performing miraculous acts.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.7134559321894203,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.31,
+            "commentatorTierSimilarities": [
+                38.59,
+                0.0,
+                61.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:25:49",
+    "verseRef": "Acts 3:17",
+    "bestBHT": {
+        "bht": "Our preacher acknowledges that even the rulers of the Jews can be considered ignorant and emphasizes that their sin, while heinous, could have been even more severe. Addressing them as brethren, he shows compassion, emphasizing that their actions were done in ignorance. Although their ignorance lessens their guilt to some extent, it does not excuse their sin entirely. However, the preacher offers hope of pardon, demonstrating through love and compassion that their sin can be absolved.",
+        "wordCount": 76,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.696841737455352,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+        "commentatorTierSimilarities": [
+            28.77,
+            27.78,
+            43.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No meaning such as 'now that the real Messiahship of Him whom ye have slain is come to light' (Meyer) is admissible.",
+            "ignorance] There need be no difficulty in the application of the term 'ignorance' to even the rulers of the Jews.",
+            "Even Caiaphas himself, of whom apparently this could least be said, may be brought under it in some measure: even he could hardly have delivered over Jesus to Pilate with the full consciousness that He was the Messiah, and that he himself was accomplishing prophecy by so doing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our preacher, like his Master, 'will not break the bruised reed.'"
+        ],
+        "Albert Barnes": [
+            "He regarded them as of the same nation with himself; as having the same hopes, and as being entitled to the same privileges.\" ",
+            "People are melted to contrition, not by reproaches, but by love.",
+            "Ignorance is a circumstance which must always be taken into view in an estimate of crime."
+        ],
+        "John Calvin": [
+            "We must so temper our sermons that they may profit the hearers, for unless there be some hope of pardon left, the terror and fear of punishment doth harden men\u2019s hearts with stubbornness.\" ",
+            "he doth only somewhat mitigate his speech, lest they should be overwhelmed and swallowed up of despair.",
+            "If any man be desirous to know more concerning this, he may read the first chapter of the First Epistle to Timothy."
+        ],
+        "Philip Schaff": [
+            "And now, brethren.",
+            "Through ignorance ye did it.",
+            "Father, forgive them; for they know not what they do."
+        ],
+        "Archibald T. Robertson": [
+            "Luke is fond of these particles of transition.",
+            "Old English for 'I know.'",
+            "They had sinned, but their sin was not of so deep a dye that it could not have been still more heinous."
+        ],
+        "John Gill": [
+            "He calls them brethren, because they were so according to the flesh; and to testify his cordial love and affection for them.",
+            "I wot, or 'I know', that through ignorance ye did it; delivered up Jesus into the hands of Pilate; denied him to be the Messiah before him; preferred a murderer to him, and put him to death.",
+            "As did also your rulers; the members of the sanhedrim, some of them; see 1 Corinthians 2:8 for others of them knew him to be the Messiah, to be sent of God, by the miracles he did, and yet blasphemously ascribed them to Satan; and so sinning against light and knowledge, in such a malicious manner, sinned the sin against the Holy Ghost, to which ignorance is here opposed; and which did not excuse from sin: nor was it itself without sin; nor is it opposed to any sin, but to this now mentioned."
+        ],
+        "John Wesley": [
+            "And now, brethren - A word full of courtesy and compassion, I know.\" ",
+            "He speaks to their heart, that through ignorance ye did it - which lessened, though it could not take away, the guilt.",
+            "He does not call them our, but your rulers. For as the Jewish dispensation ceased at the death of Christ, consequently so did the authority of its rulers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our preacher, like his Master, acknowledges that even the rulers of the Jews can be brought under the term 'ignorance' and that their sin, while still heinous, could have been even more heinous. He addresses them as brethren, showing his love and affection for them, and emphasizes that their actions were done through ignorance. He tempers his speech, not wanting them to be overwhelmed by despair, but instead offers hope of pardon. Though their ignorance may have lessened their guilt, it doesn't excuse their sin, as some of their rulers knew Jesus to be the Messiah. Through love and compassion, the preacher reminds them that their sin can be forgiven.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.741229306419287,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                30.35,
+                24.67,
+                44.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our preacher, like his Master, acknowledges that even the rulers of the Jews can be brought under the term 'ignorance.' He addresses them as brethren, showing love and affection, and emphasizes that their actions were done through ignorance. He tempers his speech, not wanting them to be overwhelmed, but instead offers hope of pardon. Though their ignorance may have lessened guilt, it doesn't excuse their sin, as some rulers knew Jesus to be the Messiah. Through love and compassion, the preacher reminds them that their sin can be forgiven.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7307114712760634,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.89,
+            "commentatorTierSimilarities": [
+                31.56,
+                25.09,
+                43.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our preacher acknowledges that even the rulers of the Jews can be brought under the term 'ignorance.' He addresses them as brethren, showing love and affection, and emphasizes that their actions were done through ignorance. Though their ignorance may have lessened guilt, it doesn't excuse their sin, as some rulers knew Jesus to be the Messiah. Through love and compassion, the preacher reminds them that their sin can be forgiven.",
+            "wordCount": 71,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.769049350955394,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                30.76,
+                27.58,
+                41.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our preacher, like his Master, recognizes that even the rulers of the Jews can be considered ignorant and acknowledges that their sin, while heinous, could have been even more severe. Addressing them as brethren, he shows compassion and affection, emphasizing that their actions were done in ignorance rather than a full awareness of Jesus' true identity. Although their ignorance may have lessened their guilt to some extent, it does not excuse their sin entirely. However, the preacher offers hope of pardon and forgiveness, demonstrating through love and compassion that their sin can be absolved.",
+            "wordCount": 94,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.7196307375482025,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "commentatorTierSimilarities": [
+                30.29,
+                26.31,
+                43.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our preacher acknowledges that even the rulers of the Jews can be considered ignorant and emphasizes that their sin, while heinous, could have been even more severe. Addressing them as brethren, he shows compassion, emphasizing that their actions were done in ignorance. Although their ignorance lessens their guilt to some extent, it does not excuse their sin entirely. However, the preacher offers hope of pardon, demonstrating through love and compassion that their sin can be absolved.",
+            "wordCount": 76,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.696841737455352,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+            "commentatorTierSimilarities": [
+                28.77,
+                27.78,
+                43.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

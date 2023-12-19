@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:13:30",
+    "verseRef": "Luke 1:62",
+    "bestBHT": {
+        "bht": "Zacharias' inability to hear is evidenced by the signs made to him, indicating he was deaf as well as dumb. The repetition of making signs implies a consistent form of communication. These signs were used to consult Zacharias on what the child should be named, acknowledging his role as the father in this decision. Employing signs to communicate with him adhered to proper protocol, allowing Zacharias to actively participate in naming his child.",
+        "wordCount": 73,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 1.8871243564256837,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+        "commentatorTierSimilarities": [
+            25.31,
+            37.78,
+            36.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The natural inference is that Zacharias was deaf as well as dumb.",
+            "There could have been no reason for beckoning, had Zacharias been able to hear articulate words."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "62. made signs\u2014showing he was",
+            "\tdeaf, as well as dumb."
+        ],
+        "Marvin Vincent": [
+            "They made signs [\u03b5\u03bd\u03b5\u03bd\u03b5\u03c5\u03bf\u03bd] . Imperfect tense. While the colloquy between Elizabeth and her friends was going on, they were consulting Zacharias by signs."
+        ],
+        "Philip Schaff": [
+            "They made signs to his father. From this it would appear that he was deaf also.",
+            "Meyer conjectures that they made signs in order to spare the mother, when they referred the case to her husband. But this is a pure assumption.",
+            "Besides, the punishment inflicted on Zacharias was designed to give him time for silent reflection an end far better secured, if he were deaf also."
+        ],
+        "Archibald T. Robertson": [
+            "Made signs (\u03b5\u03bd\u03b5\u03bd\u03b5\u03c5\u03bf\u03bd). Imperfect tense, repeated action as usual when making signs.\" ",
+            "What he would have him called (\u03c4\u03bf \u03c4 \u03b1\u03bd \u03b8\u03b5\u03bb\u03bf \u03ba\u03b1\u03bb\u03b5\u03b9\u03c3\u03b8\u03b1 \u03b1\u03c5\u03c4\u03bf). Note article \u03c4\u03bf with the indirect question, accusative of general reference.\" ",
+            "What would he wish him to be called? (if he could speak), a conclusion of the fourth-class condition."
+        ],
+        "John Gill": [
+            "And they made signs to his father,.... Who was deaf, as well as dumb; otherwise there would have been no occasion to have signs made to him: and so the word used, in Luke 1:20 signifies both deaf and dumb.\" ",
+            "Such a method as these took with Zacharias, about the name of his son, is directed to in case of a father's deafness, in relation to knowing who is his firstborn.",
+            "How he would have him called; by what name, Zacharias or John; and they were right in applying to him, to whom it most properly belonged, to give a name to his child."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is evident from the commentary that Zacharias was both deaf and dumb, as indicated by the signs made to him. The imperfect tense suggests a repeated action, implying that they were consistently communicating with him through signs. The purpose of these signs was to consult him when discussing what the child should be called. This further supports the notion that Zacharias was deaf, as there would be no need for signs if he could hear articulate words. The consultative nature of the signs demonstrates a proper adherence to protocol, as it is fitting for the father to be involved in naming his child.",
+            "wordCount": 104,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 2.090591377063307,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.85,
+            "commentatorTierSimilarities": [
+                26.75,
+                38.95,
+                34.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Zacharias' inability to hear articulate words is confirmed by the signs that were made to him. The repeated action of making signs suggests that it was a regular mode of communication with him. The purpose of these signs was to consult Zacharias about what the child should be named, indicating his involvement in this decision. The signs made to Zacharias demonstrate a proper adherence to protocol, showing that they respected his role as the father in naming his child.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.881799700269225,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                25.45,
+                38.78,
+                35.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Zacharias' deafness is evident as he is seen making signs when communicating with others. The repeated action of making signs suggests a consistent mode of interaction. These signs were used to consult Zacharias about what the child should be named, emphasizing his involvement and role as a father. The signs made to Zacharias signify a respectful adherence to protocol, recognizing his authority in naming his child.",
+            "wordCount": 66,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7552520225897073,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                25.39,
+                38.4,
+                36.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Zacharias, being both deaf and dumb, required signs to communicate. The frequent use of signs indicates a regular means of interaction. The purpose of these signs was to consult Zacharias on what the child should be named, thereby involving him in the decision-making process as a father. The use of signs demonstrates a respectful adherence to protocol, allowing Zacharias to have a say in naming his child.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.846267020658276,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "commentatorTierSimilarities": [
+                25.63,
+                36.78,
+                37.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Zacharias' inability to hear is evidenced by the signs made to him, indicating he was deaf as well as dumb. The repetition of making signs implies a consistent form of communication. These signs were used to consult Zacharias on what the child should be named, acknowledging his role as the father in this decision. Employing signs to communicate with him adhered to proper protocol, allowing Zacharias to actively participate in naming his child.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.8871243564256837,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                25.31,
+                37.78,
+                36.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

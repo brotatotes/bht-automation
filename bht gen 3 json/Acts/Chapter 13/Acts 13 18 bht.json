@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:30:42",
+    "verseRef": "Acts 13:18",
+    "bestBHT": {
+        "bht": "During the forty years in the wilderness, God not only tolerated and endured the Israelites' evil conduct, but He also bore them as a nurse bears and feeds her children. Despite their rebelliousness, God showed mercy to His elect people, punishing the wicked while still protecting and providing for them. This image of God as a nursing father cherishing His people points to His tender care and patience even in the face of their disobedience. (68 words)",
+        "wordCount": 76,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.6967728641647435,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+        "commentatorTierSimilarities": [
+            20.8,
+            36.87,
+            42.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "he bore them as a nurse beareth a child\" - The adoption of this rendering, instead of that of the A.V., depends on the change of one letter in the Greek.",
+            " ",
+            "The other is the more probable, both from the MSS. here, and from the Heb. of Deut. i. 31, and the expansion of the same image in Num. xi. 12.",
+            "The word is 'etrop (or, ph) ophoresen:\u2019 the former being the reading rendered in the A.V."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "18-22. forty years suffered he their",
+            "\tmanners\u2014rather, according to what appears the true reading,",
+            "\t\"cherished he them\" (as a nurse the infant in her bosom)."
+        ],
+        "Albert Barnes": [
+            "He tolerated and endured their evil conduct.\" ",
+            "A change of a single letter might easily have occurred.\" ",
+            "By reminding them of the mercies of God, and showing them that He had been their protector, he was better fitting them for his main purpose."
+        ],
+        "Marvin Vincent": [
+            "Suffered he their manners.\" ",
+            "The figure is explained by, and probably was drawn from, Deuteronomy 1:31.",
+            "As a nursing - father bare he them."
+        ],
+        "John Calvin": [
+            "The election of God was the cause that his goodness did strive with the wickedness of the people.",
+            "God did so take pity upon his elect people, whilst that he will continue firm in his purpose, that he did, notwithstanding, sharply punish the rebellious and wicked.",
+            "He spared the people indeed, so that he did not quite destroy them, as he might by good right; but he found also means that their wickedness might not remain unpunished."
+        ],
+        "Philip Schaff": [
+            "Suffered he their manners.",
+            "He (God) bore them (in the wilderness) as a nursing father.",
+            "He (God) bore them as a nursing father, as in Deuteronomy 1:31."
+        ],
+        "Archibald T. Robertson": [
+            "- 1. \"Suffered he their manners (\u03b5\u03c4\u03c1\u03bf\u03c0\u03bf\u03c6\u03bf\u03c1\u03b7\u03c3\u03b5\u03bd).",
+            "- 2. \"First aorist active indicative of \u03c4\u03c1\u03bf\u03c0\u03bf\u03c6\u03bf\u03c1\u03b5\u03c9, late word from \u03c4\u03c1\u03bf\u03c0\u03bf\u03c2, manner, and \u03c6\u03b5\u03c1\u03c9, reading of Aleph B D and accepted by Westcott and Hort.",
+            "- 3. \"But A C Sahidic Bohairic read \u03b5\u03c4\u03c1\u03bf\u03c6\u03bf\u03c6\u03bf\u03c1\u03b7\u03c3\u03b5\u03bd from \u03c4\u03c1\u03bf\u03c6\u03bf\u03c6\u03bf\u03c1\u03b5\u03c9 (\u03c4\u03c1\u03bf\u03c6\u03bf\u03c2, a nurse, and \u03c6\u03b5\u03c1\u03c9,) late word (II Macc. 7:27), probably correct word here and Deuteronomy 1:31."
+        ],
+        "John Gill": [
+            "And yet the Lord fed them, and led them, and kept them as the apple of his eye.",
+            "Some think the true reading is \u03b5\u03c4\u03c1\u03bf\u03c6\u03bf\u03c6\u03bf\u03c1\u03b7\u03c3\u03b5\u03bd, 'he bore', or 'fed them', as a nurse bears and feeds her children.",
+            "As he was tempted and proved by them, so he was grieved with them during the forty years in the wilderness."
+        ],
+        "John Wesley": [
+            "Deuteronomy 1:31."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the forty years in the wilderness, God not only tolerated and endured the Israelites' evil conduct, but He also bore them as a nurse bears and feeds her children. Despite their rebelliousness, God showed mercy to His elect people, punishing the wicked while still protecting and providing for them. He remained firm in His purpose, feeding, leading, and keeping them as the apple of His eye. This image of God as a nursing father cherishing His people points to His tender care and patience even in the face of their disobedience. (68 words)",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6766728873838046,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.09,
+            "commentatorTierSimilarities": [
+                19.5,
+                37.82,
+                42.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the forty years in the wilderness, God not only tolerated and endured the Israelites' evil conduct, but He also bore them as a nurse bears and feeds her children. Despite their rebelliousness, God showed mercy to His elect people, punishing the wicked while still protecting and providing for them. He remained firm in His purpose, feeding, leading, and keeping them as the apple of His eye. This image of God as a nursing father cherishing His people points to His tender care and patience even in the face of their disobedience. (68 words)",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6766728873838046,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.09,
+            "commentatorTierSimilarities": [
+                19.5,
+                37.82,
+                42.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the forty years in the wilderness, God not only tolerated and endured the Israelites' evil conduct, but He also bore them as a nurse bears and feeds her children. Despite their rebelliousness, God showed mercy to His elect people, punishing the wicked while still protecting and providing for them. This image of God as a nursing father cherishing His people points to His tender care and patience even in the face of their disobedience. (68 words)",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6967728641647435,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+            "commentatorTierSimilarities": [
+                20.8,
+                36.87,
+                42.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the forty years in the wilderness, God not only tolerated and endured the Israelites' evil conduct, but He also bore them as a nurse bears and feeds her children. Despite their rebelliousness, God showed mercy to His elect people, punishing the wicked while still protecting and providing for them. He remained firm in His purpose, feeding, leading, and keeping them as the apple of His eye. This image of God as a nursing father cherishing His people points to His tender care and patience even in the face of their disobedience. (68 words)",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6766728873838046,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.09,
+            "commentatorTierSimilarities": [
+                19.5,
+                37.82,
+                42.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the forty years in the wilderness, God not only tolerated and endured the Israelites' evil conduct, but He also bore them as a nurse bears and feeds her children. Despite their rebelliousness, God showed mercy to His elect people, punishing the wicked while still protecting and providing for them. This image of God as a nursing father cherishing His people points to His tender care and patience even in the face of their disobedience. (68 words)",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6967728641647435,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+            "commentatorTierSimilarities": [
+                20.8,
+                36.87,
+                42.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

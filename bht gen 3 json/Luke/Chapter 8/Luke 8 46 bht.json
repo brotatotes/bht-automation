@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:16:55",
+    "verseRef": "Luke 8:46",
+    "bestBHT": {
+        "bht": "In a throng, there was one individual who, with a voluntary touch of faith, made contact with Jesus. Although many may flock to Christ, only through living faith can virtue be drawn from Him. Jesus perceived this touch and felt the power leave Him. This teaches us the importance of intentional encounters with Christ, in which His power is accessed through our faith.",
+        "wordCount": 63,
+        "quoteTokenProportion": 56.25,
+        "qualityScore": 1.5727018061479625,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+        "commentatorTierSimilarities": [
+            40.95,
+            29.92,
+            29.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Somebody hath touched\u2014yes, the multitude 'thronged' and pressed Him\u2014but one, one only\u2014'Somebody TOUCHED' HIM, with the conscious, voluntary, dependent touch of faith, reaching forth its hands expressly to have contact with Him.",
+            "Even so, as the Church Father AUGUSTINE long ago said, multitudes still come similarly close to Christ in the means of grace, but all to no purpose, being only sucked into the crowd.",
+            "The voluntary, living contact of faith is that electric conductor which alone draws virtue out of Him."
+        ],
+        "Marvin Vincent": [
+            "Hath touched - I perceive.",
+            "Rev. renders the two aorists strictly: did touch, and I perceived, with reference to Jesus' knowledge of the touch at the moment it was applied.",
+            "Virtue - The evangelists use the word frequently of miracles - mighty works. It is used here in the sense of virtue, according to its use by naturalists and physicians."
+        ],
+        "Philip Schaff": [
+            "Luke 8:46. Notice the correct reading, as proving our Lord\u2019s knowledge of all the circumstances of the case."
+        ],
+        "Archibald T. Robertson": [
+            "For I perceived that power had gone forth from me.",
+            "Jesus felt the sensation of power already gone.",
+            "Who does not know what this sense of 'goneness' or exhaustion of nervous energy means?"
+        ],
+        "John Gill": [
+            "Somebody hath touched me... with design, and in the strength of faith.\" ",
+            "I perceive that virtue is gone out of me.\" ",
+            "For the cure of the person that had touched him, and that not without his knowledge and will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When reading Luke 8:46, we see that while Jesus was being thronged by a multitude, there was someone who touched Him with a conscious and dependent touch of faith. It is important to note that many may come close to Christ in various ways, but without a living contact of faith, there is no virtue drawn from Him. Jesus himself perceived the touch and felt the power already gone from Him. This understanding helps us recognize the significance of intentional, faith-driven encounters with Christ, wherein His power is accessed and experienced.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 1.8095032378117408,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                35.21,
+                40.23,
+                24.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a throng, there was one individual who, with a voluntary touch of faith, made contact with Jesus. Although many may flock to Christ, only through living faith can virtue be drawn from Him. Jesus perceived this touch and felt the power leave Him. This teaches us the importance of intentional encounters with Christ, in which His power is accessed through our faith.",
+            "wordCount": 63,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 1.5727018061479625,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                40.95,
+                29.92,
+                29.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse reveals an intimate encounter between Jesus and a person who reaches out to touch Him in faith, amidst a crowd. This intentional touch, distinguished from the multitude, allows the person to draw out virtue from Him. It highlights that mere proximity to Christ does not bring about transformation, as many in the crowd lacked the living contact of faith. Jesus perceives the touch and the release of power, demonstrating His awareness and ability to heal. This experience of power being gone out resonates with the sensation of exhaustion, capturing the significance of this individual's encounter with Jesus.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.5411600240417587,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.59,
+            "commentatorTierSimilarities": [
+                39.81,
+                31.45,
+                28.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "One person among the multitude intentionally reached out to touch Jesus in faith, differentiating themselves from the rest. By doing so, they drew out virtue from Him, while others remained unaffected. Jesus, perceiving the touch, sensed the power being released. This encounter highlights the importance of a personal, voluntary, and dependent touch of faith, as mere proximity to Christ is insufficient for transformation. It signifies an intimate connection, a conscious reaching forth to have contact with Him that brings about a tangible manifestation of power.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.4972310720342734,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.13,
+            "commentatorTierSimilarities": [
+                42.48,
+                27.69,
+                29.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of a thronging crowd, one person stands out for deliberately touching Jesus in faith. While others merely brushed against Him, this individual's voluntary, living contact draws out virtue from Him. Jesus perceives this touch and feels the power going forth from Him. It is a reminder that proximity to Christ in the means of grace is futile without the conscious, dependent touch of faith. This encounter demonstrates Jesus' awareness and the transformative power released through a genuine connection with Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5880825203919429,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
+            "commentatorTierSimilarities": [
+                39.52,
+                31.9,
+                28.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

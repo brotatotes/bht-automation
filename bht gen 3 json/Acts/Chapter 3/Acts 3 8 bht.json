@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:25:34",
+    "verseRef": "Acts 3:8",
+    "bestBHT": {
+        "bht": "The man, born lame, experienced a joyful, instant liberation from his weakness and leaped up, stood, and walked into the temple, praising God. His gratitude to God is instinctive and reflects the fulfillment of Isaiah 35:6, where the lame leap like deer. The man recognizes that only God's power, not human effort, could have achieved this miraculous cure. This displays the simplicity and perfection of the healing, as well as the man's deep appreciation for both God and the instruments used.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.9147818450585947,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+        "commentatorTierSimilarities": [
+            21.39,
+            37.34,
+            41.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "leaping up describes his first joyous liberation from his weakness: as soon as he felt himself strengthened, he leapt up, for joy.",
+            "No suppositions need be made, such as that perhaps he was trying the experiment (Chrysostom): or that it was from ignorance how to walk (Bloomfield).",
+            "His joy is quite sufficient to explain the gesture, and it is better to leave the narrative in its simplicity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. leaping up, stood . . . walked .",
+            "\t. . entered the temple walking, leaping, and praising God\u2014Every",
+            "\tword here is emphatic, expressing the perfection of the cure, as :- its immediateness."
+        ],
+        "Albert Barnes": [
+            "The man would be filled with joy, and would express it in this manner. He had been lame from a child; he had never walked; and there was more in the miracle than merely giving strength.",
+            "It is remarkable that he praised God without being taught or entreated to do it. It was instinctive - the natural feeling of the heart.",
+            "While he may and will feel regard for the ministry by whose instrumentality he has received the blessing, yet his main expression of gratitude will be to God. And this he will do instinctively."
+        ],
+        "Marvin Vincent": [
+            "Leaping up [\u03b5\u03be\u03b1\u03bb\u03bb\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . Strictly, leaping forth. Only here in New Testament.\" ",
+            "Used in medical language of the sudden starting of a bone from the socket, of starting from sleep, or of the sudden bound of the pulse.\" ",
+            "The medical notes of the case are, that the disease was congenital, had lasted over forty years (ch. 4 22), and the progressive steps of the recovery - leaped up, stood, walked."
+        ],
+        "Philip Schaff": [
+            "His first thought seems to have been: 'He would go into the sanctuary of his God and there return thanks for his great deliverance.'\" ",
+            "Peter and John, guided by the Holy Ghost, when they cast their eyes on the poor cripple, were not deceived in their estimate of his character."
+        ],
+        "Archibald T. Robertson": [
+            "Leaping up... after Peter pulled him up.\" ",
+            "He stood... in the temple repeating these new exercises.\" ",
+            "Walked... praising God."
+        ],
+        "John Gill": [
+            "By which it was abundantly manifest to himself and others, that he had a perfect cure.",
+            "And thus the prophecy in Isaiah 35:6 'then shall the lame man leap as an hart', was literally fulfilled.",
+            "He knew that this was owing to the power of God, and could never have been done by man; though he might not be ungrateful to the instruments."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man, who had been lame from birth, experiences an overwhelming joy when he is strengthened and leaped up in response to his liberation. There is no need for suppositions or intricate explanations about this gesture; his joy alone is sufficient to understand it. The immediateness and perfection of the cure are emphasized, as he not only leaped up but also stood and walked into the temple, praising God. This miraculous healing and the man's instinctive praise demonstrate his heartfelt gratitude to God, despite not being explicitly taught or entreated to do so. It is a fulfillment of the prophecy in Isaiah 35:6, where the lame is described as leaping like a deer. The man recognizes that this cure was a manifestation of God's power and is grateful to both God and the instruments that He used.",
+            "wordCount": 138,
+            "quoteTokenProportion": 43.82,
+            "qualityScore": 1.8998554174691802,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.51,
+            "commentatorTierSimilarities": [
+                22.35,
+                38.26,
+                39.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man, born lame, experienced a joyful, instant liberation from his weakness and leaped up, stood, and walked into the temple, praising God. His gratitude to God is instinctive and reflects the fulfillment of Isaiah 35:6, where the lame leap like deer. The man recognizes that only God's power, not human effort, could have achieved this miraculous cure. This displays the simplicity and perfection of the healing, as well as the man's deep appreciation for both God and the instruments used.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9147818450585947,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                21.39,
+                37.34,
+                41.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man who had been lame from birth experienced a joyous liberation from his weakness and leapt up, stood, and walked into the temple, praising God. His immediate, complete healing emphasizes the perfection of the cure. The fulfillment of Isaiah 35:6, where the lame man leaps like a deer, is evident. The man's instinctive gratitude to God and recognition that the cure could never have been done by man alone is a testament to the power of God and his appreciation for the instruments used.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.788553193339589,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+            "commentatorTierSimilarities": [
+                21.93,
+                35.34,
+                42.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man, who had been lame from birth, leaped up with joyous liberation from his weakness. His immediate response of leaping, standing, and walking into the temple while praising God, demonstrates the perfection and immediateness of the cure. This miraculous healing fulfills the prophecy in Isaiah 35:6 where the lame shall leap. It is evident that the man recognizes the power of God at work and is grateful for the instruments used in his miraculous restoration.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8734962506902608,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                23.83,
+                34.68,
+                41.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man, who had been lame from birth, expressed his joyous liberation by leaping up, standing, and walking into the temple while praising God. This immediate and complete healing showcases the perfection of the cure. It is evident that the man recognizes and acknowledges the power of God, as this fulfillment of Isaiah 35:6 demonstrates. He is genuinely grateful for both God's intervention and the instruments that facilitated his remarkable restoration.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.7408009792995371,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                20.87,
+                36.83,
+                42.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

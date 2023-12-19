@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:09:06",
+    "verseRef": "Titus 3:5",
+    "bestBHT": {
+        "bht": "We are saved not by our works of righteousness, but by the goodness and mercy of God. Baptism as the laver of regeneration is a meaningful connection between the sign and the reality. Regeneration is a one-time event, while the renewal of the Holy Spirit is an ongoing process. Our salvation is solely by the grace of God, apart from our actions. Through baptism and the work of the Holy Spirit, we are made new creatures, reflecting God's image.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.1794559326004928,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.81,
+        "commentatorTierSimilarities": [
+            31.42,
+            34.83,
+            33.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "We neither did works of righteousness, nor were saved in consequence of them but His goodness did the whole.",
+            "Baptism is congruously and truly called the laver of regeneration. We must connect the sign and thing signified, so as not to make the sign empty and ineffectual; and yet not, for the sake of honoring the sign, to detract from the Holy Spirit what is peculiarly His.",
+            "Regeneration is a thing once for all done; renewing is a process daily proceeding."
+        ],
+        "Albert Barnes": [
+            "It is a great and fundamental principle of the gospel that the good works of men come in for no share in the justification of the soul.",
+            "Whatever we have done or can do, when we come to receive salvation from the hand of God, there is no other element which enters into it but mercy.",
+            "The full force of the language will be met by the supposition that it means that baptism is the emblem or symbol of regeneration."
+        ],
+        "Marvin Vincent": [
+            "Not by works of righteousness which we have done... The thought is entirely Pauline.\" ",
+            "The phrase laver of regeneration distinctly refers to baptism, in connection with which and through which as a medium regeneration is conceived as taking place.\" ",
+            "The renewing of the Holy Spirit is not bestowed if faith be wanting."
+        ],
+        "John Calvin": [
+            "We therefore conclude from his words, that we bring nothing to God, but that he goes before us by his pure grace, without any regard to works.",
+            "The efficacy and use of the sacraments will be properly understood by him who shall connect the sign and the thing signified, in such a manner as not to make the sign unmeaning and inefficacious, and who nevertheless shall not, for the sake of adorning the sign, take away from the Holy Spirit what belongs to him.",
+            "It is therefore the Spirit of God who regenerates us, and makes us new creatures; but because his grace is invisible and hidden, a visible symbol of it is beheld in baptism."
+        ],
+        "Philip Schaff": [
+            "The means by which individuals realize the salvation which was once for all effected in Christ\u2019s cross is regeneration expressed and sealed by baptism.",
+            "None the less the real and spiritual transition which preceded and was only objectively on formally expressed in baptism was the renewal wrought by the Holy Ghost.",
+            "It is not the mere outward act or fact of baptism to which we attach such high and glorious epithets, but that complete baptism by water and the Holy Ghost, whereof the first cleansing by water is indeed the ordinary sign and seal, but whereof the glorious indwelling Spirit of God is the only efficient cause and continuous agent."
+        ],
+        "Archibald T. Robertson": [
+            "Done (not in the Greek, only the article \u03c4\u03c9\u03bd), 'not as a result of works those in righteousness which we did.' Same idea as in Romans 3:20.",
+            "Through the washing of regeneration (\u03b4\u03b9\u03b1 \u03bb\u03bf\u03c5\u03c4\u03c1\u03bf\u03c5 \u03c0\u03b1\u03bb\u03b9\u03bd\u03b3\u03b5\u03bd\u03b5\u03c3\u03b9\u03b1\u03c2). Late and common word with the Stoics (Dibelius) and in the Mystery-religions (Angus), also in the papyri and Philo. Only twice in the N.T. (Matthew 19:28 with which compare \u03b1\u03c0\u03bf\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03b1\u03c3\u03b9\u03b1 in Acts 3:21, and here in personal sense of new birth).",
+            "And renewal of the Holy Spirit (\u03ba\u03b1 \u03b1\u03bd\u03b1\u03ba\u03b1\u03b9\u03bd\u03c9\u03c3\u03b5\u03c9\u03c2 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03b3\u03b9\u03bf\u03c5). 'And renewal by the Holy Spirit' (subjective genitive). For the late word \u03b1\u03bd\u03b1\u03ba\u03b1\u03b9\u03bd\u03c9\u03c3\u03b9\u03c2, see Romans 12:2. Here, as often, Paul has put the objective symbol before the reality."
+        ],
+        "John Gill": [
+            "The great instance of the kindness and love of God our Saviour is salvation; which the apostle denies that it is brought about by any works, even the best works of men...\" ",
+            "...the mercy of God is natural and essential to him, but the actings and exercise of it, towards this or the other objects, are sovereign and free, and according to his will...\" ",
+            "Now it is in this way God saves his people, namely, by regenerating and renewing them; in this is the first appearance and discovery of the love of God to them; this is their open passage into a state of grace, and without this there is no entrance into glory..."
+        ],
+        "John Wesley": [
+            "The cause of it; not our works or righteousness, but 'the kindness and love of God our Saviour.'\" ",
+            "Justification; 'being justified,' pardoned and accepted through the alone merits of Christ, not from any desert in us, but according to his own mercy, 'by his grace,' his free, unmerited goodness.",
+            "Sanctification, expressed by the laver of regeneration, (that is, baptism, the thing signified, as well as the outward sign,) and the renewal of the Holy Ghost; which purifies the soul, as water cleanses the body, and renews it in the whole image of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are not saved by our own works of righteousness, but by the goodness and mercy of God. Baptism is the laver of regeneration, and serves as a sign and seal of the inward renewal that the Holy Spirit works in us. Regeneration is a one-time event, while the renewing of the Holy Spirit is an ongoing process. It is important to understand that our salvation is not achieved through our own efforts, but through the grace and kindness of God. Baptism symbolizes the regeneration that occurs within us, while the Holy Spirit is the true agent of renewal. We bring nothing to God, but it is He who goes before us with His grace. It is in this way that God saves us, by making us new creatures and granting us entrance into a state of grace. Our justification and sanctification come through the mercy and love of God, not through any merit of our own. The laver of regeneration and the renewal of the Holy Spirit cleanse and transform us, making us reflect the image of God.",
+            "wordCount": 180,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 2.1623359179382544,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.24,
+            "commentatorTierSimilarities": [
+                29.63,
+                32.88,
+                37.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are saved not by our works, but by God's goodness and mercy. Baptism symbolizes the regeneration that occurs within us through the Holy Spirit. Regeneration is a one-time event, while the Holy Spirit's renewal is ongoing. Our salvation is solely a result of God's grace. We bring nothing to God, but He goes before us with His pure grace. It is through the Holy Spirit's regeneration and renewal that we are made new creatures, reflecting the image of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.055117277847509,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.67,
+            "commentatorTierSimilarities": [
+                30.12,
+                32.94,
+                36.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are not saved by our own works but by the goodness and mercy of God. Baptism is the laver of regeneration, a sign and seal of the inward renewal brought about by the Holy Spirit. While regeneration is a one-time event, the Holy Spirit's renewal is an ongoing process. Our salvation is solely by God's grace, as we bring nothing to Him. Through the Holy Spirit's work of regeneration and renewal, we are made new creatures that reflect the image of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.173052916565765,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.59,
+            "commentatorTierSimilarities": [
+                31.29,
+                33.72,
+                35.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are saved by God's goodness, not by our works of righteousness. Baptism is the laver of regeneration, connecting the sign and the thing signified. While regeneration is a one-time event, renewal is a continuous process. Our salvation is a result of God's grace and the work of the Holy Spirit. We bring nothing to God, but He goes before us with His pure grace. Through the Holy Spirit's regeneration and renewal, we are made new creatures, reflecting the image of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.994537883706888,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.66,
+            "commentatorTierSimilarities": [
+                31.25,
+                32.25,
+                36.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are saved not by our works of righteousness, but by the goodness and mercy of God. Baptism as the laver of regeneration is a meaningful connection between the sign and the reality. Regeneration is a one-time event, while the renewal of the Holy Spirit is an ongoing process. Our salvation is solely by the grace of God, apart from our actions. Through baptism and the work of the Holy Spirit, we are made new creatures, reflecting God's image.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.1794559326004928,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.81,
+            "commentatorTierSimilarities": [
+                31.42,
+                34.83,
+                33.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

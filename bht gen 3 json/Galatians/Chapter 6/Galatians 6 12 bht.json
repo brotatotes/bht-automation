@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:21:25",
+    "verseRef": "Galatians 6:12",
+    "bestBHT": {
+        "bht": "The desire of some to make a fair show in the flesh and gain external glory from others is contrasted with true discipleship. The Judaizers sought popularity and avoided suffering by blending Judaism with Christianity, emphasizing outward conformity and circumcision. In contrast, true followers embraced the crucified Messiah, relying solely on faith for justification. The pressure to conform and fear of persecution motivated the Judaizers' actions, but Paul urged the Galatians to resist and remain steadfast in the truth of the gospel.",
+        "wordCount": 82,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 2.0204139343960446,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.52,
+        "commentatorTierSimilarities": [
+            23.67,
+            46.74,
+            29.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As my Epistle, so my practice: I have no desire to make a fair show outwardly.",
+            "My letters are not fair of show.",
+            "I have no sympathy with these people who wish to make a fair show in the flesh."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Contrast between his zeal in their behalf, implied in Galatians 6:11, and the zeal for self on the part of the Judaizers.",
+            "Constrain you\u2014by example and importuning.",
+            "They escaped in a great degree the Jews' bitterness against Christianity and the offense of the cross of Christ, by making the Mosaic law a necessary preliminary in fact, making Christian converts into Jewish proselytes."
+        ],
+        "Albert Barnes": [
+            "To be distinguished for their conformity to external rites and customs.",
+            "The fear of persecution. It was the want of independence and boldness in maintaining the doctrine that people were to be saved only by the merits of the Lord Jesus.",
+            "By attempting to blend together the doctrines of Judaism and Christianity; by maintaining that the observance of the Jewish rites was necessary, and yet that Jesus was the Messiah, they endeavored to keep in with both parties; and thus to escape the opposition of the Jews."
+        ],
+        "Marvin Vincent": [
+            "To wear a specious exterior in the earthly, unspiritual element in which they move.",
+            "The desire to make a good appearance irrespective of inward truth and righteousness, is prompted by the unrenewed, fleshly nature.",
+            "Because of preaching a crucified Messiah. The Judaisers attempted to cover with the law - the requirement of circumcision - the 'offense' of a crucified Messiah."
+        ],
+        "John Calvin": [
+            "Such men pay no regard to edification, but are guided by an ambitious desire to hunt after popular applause.",
+            "To gain or preserve the favor of men is the object they have in view in offering this bribe.",
+            "A dread of the cross led them to corrupt the true preaching of the cross."
+        ],
+        "Philip Schaff": [
+            "They display their zeal for external or carnal ordinances by forcing circumcision upon you, that thereby they may escape the scandal and persecution of the cross of Christ, to which they would expose themselves among their unconverted Jewish countrymen by abandoning the law.",
+            "Circumcision and the cross, like works and faith, are antagonistic principles, if they are set up as conditions of salvation.",
+            "The zeal of the Judaizers is traced to a selfish motive to please men and to avoid suffering."
+        ],
+        "Archibald T. Robertson": [
+            "To make a fair show.",
+            "They try to compel.",
+            "For professing the cross of Christ."
+        ],
+        "John Gill": [
+            "They were such, as the Syriac version renders the words, as desired \u05d3\u05e0\u05e9\u05ea\u05d1\u05d4\u05e8\u05d5\u05df, 'to glory in the flesh'; their carnal descent and privileges, in their being Hebrews, the seed of Abraham, of the stock of Israel; and in the circumcision of their flesh; or in their external gifts, their natural parts, acquired abilities, learning, eloquence, and the like.\" ",
+            "They sought external glory from men, and to be outwardly and publicly honoured by them; and all their religion was a mere outward show, a piece of pageantry.",
+            "They constrain you to be circumcised...and their end was, only lest they should suffer persecution for the cross of Christ."
+        ],
+        "John Wesley": [
+            "To preserve a fair character.",
+            "Both by their example and importunity.",
+            "For maintaining that faith in a crucified Saviour is alone sufficient for justification."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us of the contrast between true discipleship and the false pretenses of those who sought to please others and avoid suffering. The Judaizers, in their attempt to blend Judaism with Christianity, emphasized the outward conformity to the law, such as circumcision, to escape persecution and maintain their reputation. Their focus was on making a fair show in the flesh, seeking popularity and avoiding the offense of the cross. However, true followers of Christ were called to a different path, one that embraced the crucified Messiah and relied solely on faith. The pressure to conform to external rites and the fear of persecution were motives behind the Judaizers' actions, but Paul urged the Galatians to resist their persuasion and remain steadfast in the truth.",
+            "wordCount": 126,
+            "quoteTokenProportion": 29.76,
+            "qualityScore": 2.0531777061488365,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                23.24,
+                48.18,
+                28.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The contrast between true discipleship and the false pretenses of those seeking popularity and avoiding suffering is highlighted in the commentary. The Judaizers, blending Judaism with Christianity, emphasized outward conformity to escape persecution and maintain their reputation. However, true followers embraced the crucified Messiah and relied solely on faith, contrasting with the Judaizers' focus on making a fair show in the flesh. The pressure to conform and the fear of persecution motivated their actions, but Paul urged the Galatians to resist and remain steadfast in the truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.9515920882902287,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                22.04,
+                49.33,
+                28.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The contrast between true discipleship and the false pretenses of those seeking popularity and avoiding suffering is highlighted in the commentary. The Judaizers, blending Judaism with Christianity, emphasized outward conformity to escape persecution. However, true followers embraced the crucified Messiah, relying solely on faith. The pressure to conform and fear of persecution motivated their actions, but Paul urged the Galatians to resist and remain steadfast in the truth.",
+            "wordCount": 68,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.8576765173523504,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                22.02,
+                48.79,
+                29.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The contrast between true discipleship and the false pretenses of those seeking popularity and avoiding suffering is highlighted. The Judaizers, blending Judaism with Christianity, emphasized outward conformity to escape persecution. However, true followers embraced the crucified Messiah, relying solely on faith. The pressure to conform and fear of persecution motivated their actions, but Paul urged the Galatians to resist and remain steadfast in the truth.",
+            "wordCount": 65,
+            "quoteTokenProportion": 25.49,
+            "qualityScore": 1.883661638781851,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                22.15,
+                48.99,
+                28.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The desire of some to make a fair show in the flesh and gain external glory from others is contrasted with true discipleship. The Judaizers sought popularity and avoided suffering by blending Judaism with Christianity, emphasizing outward conformity and circumcision. In contrast, true followers embraced the crucified Messiah, relying solely on faith for justification. The pressure to conform and fear of persecution motivated the Judaizers' actions, but Paul urged the Galatians to resist and remain steadfast in the truth of the gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 2.0204139343960446,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.52,
+            "commentatorTierSimilarities": [
+                23.67,
+                46.74,
+                29.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

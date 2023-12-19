@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 14:00:56",
+    "verseRef": "1 Thessalonians 4:13",
+    "bestBHT": {
+        "bht": "The Thessalonians were grieving with no hope, which was based on the pagan view that denied the resurrection. However, Christians have a different hope - the hope of the resurrection. The glory and chief hope of the Church are not realized at death but at the Lord's coming. Christians are to avoid excessive grief and sorrow with no hope, as the Christian hope involves the resurrection and being reunited with the Lord. The knowledge of the resurrection of the body gives believers a clear and steadfast hope of immortality and a future life.",
+        "wordCount": 93,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 2.15886938366194,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.12,
+        "commentatorTierSimilarities": [
+            46.49,
+            21.41,
+            32.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "that ye may not sorrow... He forbids mourning altogether.",
+            "It was mourning for them: not mourning for our loss in their absence, but for theirs, and in so far, for ours also.",
+            "Examples of this 'no hope' are easily given from the Pagan writers... This shews of what kind their mourning was: viz. a grief whose ground was unbelief in a resurrection."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Observe, the glory and chief hope of the Church are not to be realized at death, but at the Lord's coming; one is not to anticipate the other, but all are to be glorified together at Christ's coming.",
+            "Not all natural mourning for dead friends is forbidden: for the Lord Jesus and Paul sinlessly gave way to it; but sorrow as though there were 'no hope,' which indeed the heathen had not: the Christian hope here meant is that of the resurrection.",
+            "The sepulchral inscriptions of heathen Thessalonica express the hopeless view taken as to those once dead: as AESCHYLUS writes, 'Of one once dead there is no resurrection.'"
+        ],
+        "Albert Barnes": [
+            "",
+            " ",
+            "return to 'Top of Page'",
+            ""
+        ],
+        "Marvin Vincent": [
+            "The Thessalonians were plainly distressed at the thought of separation from their departed brethren, and had partially lost sight of the elements of the Christian hope - reunion with them and fellowship with the Lord.",
+            "The resurrection of Jesus involves the resurrection of believers. The living and the dead Christians shall alike be with the Lord.",
+            "Only believers have hope of life after death. The speculations and surmisings of pagan philosophy do not amount to a hope."
+        ],
+        "John Calvin": [
+            "For we must not bewail the dead beyond due bounds, inasmuch as we are all to be raised up again.",
+            "He lifts up the minds of believers to a consideration of the resurrection, lest they indulge excessive grief on occasion of the death of their relatives.",
+            "Let, therefore, the grief of the pious be mixed with consolation, which may train them to patience."
+        ],
+        "Philip Schaff": [
+            "No sleep lasts for ever, else it is not sleep; a waking follows every sleep. And so death is called a sleep, to remind us that it is not a final cessation of life, even in the case of the body, but only a transitory state out of which body and soul shall together arise.",
+            "To bewail their condition is wholly out of place, though to utter our own grief and bewail our own loss is natural and fit.",
+            "The fact is, that without the knowledge of the resurrection of the body, the hope of immortality and the notions of a future life must be dim, perplexed, and vacillating."
+        ],
+        "Archibald T. Robertson": [
+            "We would not have (\u03bf\u03c5 \u03b8\u03b5\u03bb\u03bf\u03bc\u03b5\u03bd). We do not wish.",
+            "No advantage in ignorance of itself.",
+            "This picture of the hopelessness of the pagan world about the future life is amply illustrated in ancient writings and particularly by inscriptions on tombs."
+        ],
+        "John Gill": [
+            "It was in common use among the Eastern nations, when they spoke of their dead, to say they were asleep.",
+            "The apostle designs such persons among the Thessalonians, who either died a natural death, or were removed by violence, through the rage and fury of their persecutors, for whom their surviving friends were pressed with overmuch sorrow, which is here cautioned against.",
+            "The apostle's view is not to encourage and establish a stoical apathy, a stupid indolence, and a brutal insensibility, which are contrary to the make of human nature, to the practice of the saints, and even of Christ and his apostles, and our apostle himself; but to forbid excessive and immoderate sorrow, and all the extravagant forms of it the Gentiles ran into."
+        ],
+        "John Wesley": [
+            "Herein the efficacy of Christianity greatly appears, - that it neither takes away nor embitters.",
+            "Sweetly tempers, that most refined of all affections, our desire of or love to the dead.",
+            "Our desire of or love to the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There is a warning against excessive mourning in this verse, as the Thessalonians were grieving as though there was no hope. The unbelievers' mourning was based on their unbelief in the resurrection, which was a common view in the pagan world. However, Christians have a different hope - the hope of the resurrection. The Christian hope is not realized at death, but at the Lord's coming when both the living and the dead believers will be with the Lord. While natural mourning for dead friends is not forbidden, excessive grief and sorrow with no hope are to be avoided. The knowledge of the resurrection of the body is what gives us a clear and steadfast hope of immortality and a future life.",
+            "wordCount": 122,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 2.176472713130437,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.71,
+            "commentatorTierSimilarities": [
+                44.93,
+                21.61,
+                33.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians were grieving with no hope, which was based on the pagan view that denied the resurrection. However, Christians have a different hope - the hope of the resurrection. The glory and chief hope of the Church are not realized at death but at the Lord's coming. Christians are to avoid excessive grief and sorrow with no hope, as the Christian hope involves the resurrection and being reunited with the Lord. The knowledge of the resurrection of the body gives believers a clear and steadfast hope of immortality and a future life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.15886938366194,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.12,
+            "commentatorTierSimilarities": [
+                46.49,
+                21.41,
+                32.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians were mourning without hope, influenced by the pagan notion that denied resurrection. However, as believers, our hope lies in the resurrection and being glorified together with Christ at His coming. While natural mourning for the dead is permissible, excessive grief rooted in unbelief undermines our Christian hope. The knowledge of the resurrection of the body is what provides us with a clear and unwavering hope of immortality and a future life. Let us temper our grief with the comforting truth of the resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.1439867438954954,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+            "commentatorTierSimilarities": [
+                42.78,
+                22.92,
+                34.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Thessalonians were grieving as though there was no hope, which reflected the pagan view that denied resurrection. However, Christians have a different hope - the hope of the resurrection. The glory and chief hope of the Church are not realized at death, but at the Lord's coming. Christians must avoid excessive grief and sorrow with no hope, as the Christian hope involves the resurrection and being reunited with the Lord. The knowledge of the resurrection of the body gives believers a clear and steadfast hope of immortality and a future life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.153646649901619,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.95,
+            "commentatorTierSimilarities": [
+                46.44,
+                21.33,
+                32.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians were grieving without hope, influenced by the pagan belief that denied the possibility of resurrection. Christians, on the other hand, have a different hope - the hope of being glorified together with Christ at His coming. While natural mourning for the dead is allowed, excessive sorrow rooted in disbelief is to be avoided. Our hope lies in the resurrection, which provides a steadfast assurance of eternal life. The knowledge of the resurrection of the body grants us a clear and unshakable hope of immortality.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.051355835202873,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+            "commentatorTierSimilarities": [
+                43.43,
+                21.94,
+                34.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

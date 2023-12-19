@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:23:15",
+    "verseRef": "Luke 22:38",
+    "bestBHT": {
+        "bht": "Two disciples, either from excess of zeal to defend Him or for the purpose of cutting up the Paschal lamb, showed Jesus two swords. Although they took his words literally, Jesus clarifies that they are enough, not meaning their sufficiency, but that it is well, as his words did not refer to present defense. The disciples failed to recognize the deeper meaning behind Jesus' message, emphasizing the inadequacy of physical weapons in the spiritual conflict before him.",
+        "wordCount": 77,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 2.0087684349252033,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+        "commentatorTierSimilarities": [
+            27.47,
+            42.01,
+            30.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Two of them were armed,\u2014either from excess of zeal to defend Him, excited by His announcement of His sufferings during this feast,\u2014or, perhaps because they had brought their weapons from Galilee as protection by the way.",
+            "Chrysostom gives a curious explanation of the two swords,\u2014that it was probable they had knives to cut up the Paschal lamb. This certainly agrees with the number of the disciples sent to get ready the Passover: but it has nothing else to recommend it.",
+            "Our Lord breaks off the matter with It is enough,\u2014not \u2018they are sufficient;\u2019\u2014but, It is well,\u2014we are sufficiently provided\u2014 \u2018it was not to this that My words referred.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "38. two swords . . . enough\u2014they",
+            "\tthinking He referred to present defense, while His answer showed He",
+            "\tmeant something else. ",
+            "\t",
+            " :-. AGONY IN THE",
+            "\tGARDEN."
+        ],
+        "Albert Barnes": [
+            "The Galileans, it is said, often went armed... some means of defense, though they had but two swords among the twelve.",
+            "It is difficult to understand this... 'You are bravely armed indeed, with two swords among twelve men, and to meet such a host!'",
+            "It is to be observed that he did not say 'the two swords are enough,' but 'it is enough; perhaps meaning simply, enough has been said."
+        ],
+        "John Calvin": [
+            "It was truly shameful and stupid ignorance, that the disciples, after having been so often informed about bearing the cross, imagine that they must fight with swords of iron.",
+            "As to the inference which the Doctors of Canon Law draw from these words \u2014 that their mitered bishops have a double jurisdiction \u2014 it is not only an offensive allegory, but a detestable mockery, by which they ridicule the word of God.",
+            "And it was necessary that the slaves of Antichrist should fall into such madness, of openly trampling under feet, by sacrilegious contempt, the sacred oracles of God."
+        ],
+        "Philip Schaff": [
+            "The Galileans often travelled armed, and possibly two of the disciples had thus provided themselves because they expected danger that night.",
+            "The reference is not to the sufficiency of the weapons, but a mild turning away from further explanation in view of their failure to understand.",
+            "'Two swords' were of no avail in the spiritual conflict before Him; of this He had just spoken, but they failed to recognize His meaning."
+        ],
+        "Archibald T. Robertson": [
+            "Lord, behold, here are two swords. They took his words literally.",
+            "For all that take the sword shall perish with the sword.",
+            "It is with sad irony and sorrow that Jesus thus dismisses the subject."
+        ],
+        "John Gill": [
+            "And they said, Lord, behold here are two swords,.... That is, the disciples said so, as the Persic version expresses it; for they understood Christ's words literally; and two swords being among them, and which they might bring with them from Galilee, to defend themselves from thieves, and robbers, which infested the roads between that country and Jerusalem...",
+            "and one of these, as appears afterwards, belonged to Peter; they mention them with a desire of knowing they were sufficient, or whether they must provide themselves with more...",
+            "or this was a short way of speaking, suggesting their stupidity and ignorance: it is enough, it is very well, I perceive you do not understand my meaning, and I shall say no more at present."
+        ],
+        "John Wesley": [
+            "Many of Galilee carried them when they travelled, to defend themselves against robbers and assassins.\" ",
+            "But did the apostles need to seek such defence?\" ",
+            "It is enough - I did not mean literally, that every one of you must have a sword."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 22:38, two of the disciples, perhaps out of zeal or for self-defense, showed Jesus two swords. However, they misunderstood his words, thinking he referred to their present defense, when in reality he meant something else. Jesus dismisses the subject with the sad irony and sorrow, saying it is enough. It is highly unlikely that Jesus intended the swords for physical protection, as carrying weapons was common among Galileans. The disciples failed to grasp the deeper meaning of Jesus' message, emphasizing the futility of relying on physical weapons in the spiritual battle ahead.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.9695778126312347,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                27.8,
+                41.53,
+                30.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Showing their excess zeal or a desire for self-defense, two disciples present Jesus with two swords. However, they misunderstood his words, thinking he referred to their present defense, when in reality he meant something else. Jesus dismisses the subject with the sad irony and sorrow, saying it is enough. Carrying weapons was common among Galileans, but Jesus' message went beyond physical protection, emphasizing the futility of relying solely on such means in the spiritual battle ahead.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9139636147965016,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                28.97,
+                40.87,
+                30.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Two disciples, filled with zeal or a desire for self-defense, showed Jesus two swords. Sadly, they failed to understand his true intent, thinking he referred to their present defense. Jesus responds with a mixture of sorrow and irony, saying it is enough. Carrying weapons was common among Galileans, but Jesus intended a deeper message. He highlighted the futility of relying solely on physical weapons in the spiritual battle ahead.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8284294808718644,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+            "commentatorTierSimilarities": [
+                28.64,
+                43.17,
+                28.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Two disciples, either from excess of zeal to defend Him or for the purpose of cutting up the Paschal lamb, showed Jesus two swords. Although they took his words literally, Jesus clarifies that they are enough, not meaning their sufficiency, but that it is well, as his words did not refer to present defense. The disciples failed to recognize the deeper meaning behind Jesus' message, emphasizing the inadequacy of physical weapons in the spiritual conflict before him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.0087684349252033,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+            "commentatorTierSimilarities": [
+                27.47,
+                42.01,
+                30.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their zeal or even possibly out of self-defense, two disciples presented Jesus with two swords. However, they misunderstood his words, taking them literally. Jesus responded by saying it is enough, but he did not mean that the swords were sufficient. Rather, he was alluding to the fact that his words did not refer to present defense. This highlights the disciples' failure to grasp the deeper meaning behind Jesus' message, emphasizing that physical weapons are inadequate in the spiritual conflict at hand.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.9222852298111701,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                26.63,
+                42.32,
+                31.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

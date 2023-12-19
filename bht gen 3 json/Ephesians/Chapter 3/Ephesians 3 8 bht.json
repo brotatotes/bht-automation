@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:30:34",
+    "verseRef": "Ephesians 3:8",
+    "bestBHT": {
+        "bht": "The apostle Paul openly admits his unworthiness, viewing himself as the least of all saints, even less worthy than the other apostles. With utmost humility, he recognizes God's grace in allowing him to proclaim the unsearchable riches of Christ to the Gentiles. These unsearchable riches encompass the boundless treasures of grace bestowed upon the believers. Paul's past as a persecutor serves as a reminder of his own sinfulness and unworthiness, making him a testament to the transformative power of God's grace, which is available to all.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.154828629681557,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.99,
+        "commentatorTierSimilarities": [
+            24.49,
+            35.22,
+            40.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Unto me, who am less than the least of all saints, was given this grace, to bring to the Gentiles the glad tidings of the unsearchable riches of Christ.",
+            "He does not say 'of the Apostles'...this has been regarded as an expression of far greater depth of humility.",
+            "The unsearchable riches of Christ: i.e. the fulness of wisdom, righteousness, sanctification, and redemption\u2014all centred and summed up in Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not merely was I in times past, but I still am the least worthy of so high an office.",
+            "Least of all saints, not merely 'of all apostles.'",
+            "Unsearchable riches, namely, of Christ's grace, as a mine inexhaustible, whose treasures can never be fully explored."
+        ],
+        "Albert Barnes": [
+            "Unto me, who am less than the least of all saints... who am incomparably the least of all the saints; or who am not worthy to be reckoned among the saints.\" ",
+            "The word rendered 'unsearchable'... means that which cannot be 'traced out,' or explored; which is inscrutable, or incomprehensible.",
+            "There is no more emphatic expression in the New Testament than this. It shows that the heart of the apostle was full of admiration of the sufficiency and glory that was in the Saviour."
+        ],
+        "Marvin Vincent": [
+            "More least than all the saints.",
+            "Unsearchable.",
+            "Which cannot be tracked out."
+        ],
+        "John Calvin": [
+            "He labors to exhibit himself, and everything that belongs to him, in as humiliating a light as possible, in order that the grace of God may be the more highly exalted.",
+            "Paul is perfectly sincere in admitting his unworthiness; nay, at other times he speaks of himself in far more degrading language.",
+            "By the unsearchable riches of Christ are meant the astonishing and boundless treasures of grace, which God had suddenly and unexpectedly bestowed on the Gentiles."
+        ],
+        "Philip Schaff": [
+            "The great Apostle, however, so truly, so earnestly, felt his own weakness and nothingness... that the mention of God's grace towards him awakens within, by the forcible contrast it suggests, not only the remembrance of his former persecutions of the Church, but of his own sinful nature, and unworthiness for so high an office.",
+            "He had been a persecutor, and since God's grace had helped him, there is no one whom it may not help.",
+            "'The fulness of wisdom, righteousness, sanctification, and redemption all centred and summed up in Him.' Because Christ is what He is, the riches are unsearchable, exhaustless; because He, through His redeeming work, becomes ours the riches are ours."
+        ],
+        "Archibald T. Robertson": [
+            "Unto me who am less than the least of all saints.",
+            "The peculiar form \u03b5\u03bb\u03b1\u03c7\u03b9\u03c3\u03c4\u03bf\u03c4\u03b5\u03c1\u03c9 (in apposition with \u03b5\u03bc\u03bf) is a comparative (-\u03c4\u03b5\u03c1\u03bf\u03c2) formed on the superlative \u03b5\u03bb\u03b1\u03c7\u03b9\u03c3\u03c4\u03bf\u03c2.",
+            "Paul undertook to track out the untrackable in Christ."
+        ],
+        "John Gill": [
+            "The greatest saints are generally speaking, the most humble souls... they have the least opinion of their own works, and are the greatest admirers of the grace of God.",
+            "The reasons of their great humility are, because they have the largest discoveries of the love and grace of God and Christ, which are of a soul humbling nature; they are the most sensible of their own sinfulness, vileness, and unworthiness, which keeps them low in their own sight.",
+            "It was great grace to intrust the apostle with such a ministry, to put such treasure into an earthen vessel; it was great grace that qualified him for it; and it was great grace in particular to the Gentiles, that he should be appointed to publish these among them."
+        ],
+        "John Wesley": [
+            "Unto me, who am less than the least of all saints, is this grace given.\" ",
+            "Here are the noblest strains of eloquence to paint the exceeding low opinion the apostle had of himself.",
+            "The fulness of unfathomable blessings which are treasured up in Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul, in all humility, acknowledges that he is the least of all saints, even more unworthy than the apostles, expressing deep gratitude for being entrusted with the task of sharing the unsearchable riches of Christ with the Gentiles. These unsearchable riches refer to the inexhaustible treasures of wisdom, righteousness, sanctification, and redemption found in Christ. Paul's self-perception is shaped by his recognition of his past as a persecutor of the Church, emphasizing that if God's grace could transform him, it is available to all. It is worth noting that the greatest saints are often the most humble, fully aware of their own sinfulness and unworthiness, and deeply grateful for the grace of God. The magnitude of God's grace in choosing Paul and providing him with the ability to track out the untrackable in Christ is truly astonishing.",
+            "wordCount": 143,
+            "quoteTokenProportion": 35.63,
+            "qualityScore": 2.184097663870908,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.96,
+            "commentatorTierSimilarities": [
+                24.4,
+                35.8,
+                39.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul openly admits his unworthiness, viewing himself as the least of all saints, even less worthy than the other apostles. With utmost humility, he recognizes God's grace in allowing him to proclaim the unsearchable riches of Christ to the Gentiles. These unsearchable riches encompass the boundless treasures of grace bestowed upon the believers. Paul's past as a persecutor serves as a reminder of his own sinfulness and unworthiness, making him a testament to the transformative power of God's grace, which is available to all.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.154828629681557,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.99,
+            "commentatorTierSimilarities": [
+                24.49,
+                35.22,
+                40.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Ephesians, the apostle Paul humbly declares himself as the least of all saints, highlighting his deep gratitude for the grace bestowed upon him to bring the unsearchable riches of Christ to the Gentiles. These riches include the incomprehensible wisdom, righteousness, sanctification, and redemption found in Christ. Paul's humble self-perception stems from his past as a persecutor and his understanding of his own unworthiness. Yet, his transformation serves as a testament to the boundless grace and mercy of God, available to all who seek it.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0640046412801674,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                22.67,
+                37.94,
+                39.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul, in all humility, acknowledges that he is the least of all saints, expressing deep gratitude for being entrusted with the task of sharing the unsearchable riches of Christ with the Gentiles. These unsearchable riches refer to the inexhaustible treasures of wisdom, righteousness, sanctification, and redemption found in Christ. Paul's self-perception is shaped by his recognition of his past as a persecutor of the Church, emphasizing that if God's grace could transform him, it is available to all. The magnitude of God's grace in choosing Paul and providing him with the ability to track out the untrackable in Christ is truly astonishing.",
+            "wordCount": 108,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.1768111475769114,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.72,
+            "commentatorTierSimilarities": [
+                24.88,
+                36.61,
+                38.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, the apostle, humbly acknowledges his unworthiness as he refers to himself as the least of all saints, even more humble than the apostles. He rejoices in the grace given to him, enabling him to proclaim the unsearchable riches of Christ to the Gentiles. These unfathomable treasures encompass the fullness of wisdom, righteousness, sanctification, and redemption found in Christ. Paul's humility stems from his past as a persecutor, emphasizing that God's grace can transform even the most unworthy. The extent of God's grace in choosing Paul and empowering him to comprehend the immeasurable blessings in Christ is awe-inspiring.",
+            "wordCount": 102,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1775903177940386,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.75,
+            "commentatorTierSimilarities": [
+                23.75,
+                36.55,
+                39.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

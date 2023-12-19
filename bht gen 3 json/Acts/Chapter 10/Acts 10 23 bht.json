@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:29:22",
+    "verseRef": "Acts 10:23",
+    "bestBHT": {
+        "bht": "Peter's decision to consort with uncircumcised men and eat with them was a significant departure from Jewish customs. In the company of six Jewish brethren, Peter recognized the weight of the event and their potential testimony. This fellowship with Gentiles went against Hebrew scruples and was abhorrent to the Jews. However, Peter obediently followed God's call and ran speedily towards the unknown, embarking on a journey that would ultimately have far-reaching consequences.",
+        "wordCount": 75,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.765794888411112,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+        "commentatorTierSimilarities": [
+            42.63,
+            41.63,
+            15.73
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was his first consorting with men uncircumcised and eating with them.",
+            "In expectation of some weighty event to which hereafter their testimony might be required.",
+            "As indeed it was, as there appears."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Called them in and lodged them\u2014thus partially anticipating this fellowship with Gentiles.",
+            "Peter went . . . with them, and certain brethren\u2014six in number.",
+            "From Joppa\u2014as witnesses of a transaction which Peter was prepared to believe pregnant with great consequences."
+        ],
+        "Albert Barnes": [
+            "And lodged them - They remained with him through the night.",
+            "On the first the angel appeared to Cornelius. On the second the messengers arrived at Joppa... On the third, Peter returned with them... and on the fourth they arrived at Caesarea.",
+            "It was usual for the early Christians to accompany the apostles in their journeys."
+        ],
+        "John Calvin": [
+            "So we must meekly submit ourselves to God; and there remaineth nothing after that we know his will, but that we run speedily thither whither he calleth us.",
+            "There is no difficulty in the rest.",
+            "We must...run speedily thither whither he calleth us."
+        ],
+        "Philip Schaff": [
+            "Already Peter seems to have learned something of the significance of what had been communicated to him in the trance.",
+            "To join together in social intercourse with Gentiles was precisely the point of Hebrew scruple.",
+            "We see from what follows (Acts 10:28, Acts 11:3), that to eat with Gentiles was abhorrent to the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "The wisdom of having these half dozen Jewish Christians from Joppa with Peter in the house of Cornelius in Caesarea becomes manifest in Jerusalem.\" "
+        ],
+        "John Gill": [
+            "He took them in, no doubt, with the leave of Simon, his host, and set provisions before them, and lodged them that night.",
+            "The next morning he set out with them towards Caesarea.",
+            "These went with him, not only to bear him company, and out of respect to him; but to be witnesses of what might be seen, heard, said, or done, and for Peter, should there be any occasion for it, as there afterwards was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's first interaction with uncircumcised men and his decision to eat with them carried great significance. It was clear that Peter and his companions were anticipating a weighty event and believed that their testimony would be required. This fellowship with Gentiles was a significant departure from Jewish customs, and Peter's decision to accompany them was a bold move. The presence of the Jewish Christians from Joppa was intentional, as their witness in the house of Cornelius in Caesarea was meant to provide wisdom and support for Peter. This decision to join together in social intercourse with Gentiles was not without controversy, as it went against the Hebrew scruples and was abhorrent to the Jews. Despite the difficulty and potential backlash, Peter obediently followed God's call and ran speedily towards where he was being led.",
+            "wordCount": 137,
+            "quoteTokenProportion": 35.23,
+            "qualityScore": 1.8024776634840345,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                41.99,
+                40.12,
+                17.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's decision to consort with uncircumcised men and eat with them was significant, as it was his first encounter of this kind. This encounter held great weight, and Peter and his companions recognized that their testimony would be required. Their foresight was proven later, as this event had far-reaching consequences. Peter's willingness to have fellowship with Gentiles went against Jewish customs and caused controversy. However, he obediently followed God's call and ran speedily towards where he was being led, despite the potential difficulties and opposition he would face.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.5907137930385944,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+            "commentatorTierSimilarities": [
+                38.46,
+                36.52,
+                25.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's decision to consort with and eat with uncircumcised men marked a significant shift in his beliefs and practices. Accompanied by six Jewish brethren, Peter recognized the weighty event that was unfolding and the potential it held for their testimony. This act of fellowship with Gentiles challenged traditional Jewish customs and was met with controversy. However, Peter faithfully followed God's call, running speedily towards the unknown, bravely venturing into unfamiliar territory to fulfill his divine purpose.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.6489833967358858,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                42.59,
+                38.64,
+                18.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's first consorting with and eating with uncircumcised men was a pivotal moment that carried great significance. Recognizing the weighty event unfolding, Peter enlisted the company of six Jewish brethren from Joppa to bear witness to the transcendent transaction with Cornelius in Caesarea. This fellowship with Gentiles went against Jewish custom, causing controversy and abhorrence among the Jews. Nevertheless, Peter obediently ran speedily towards God's call, embracing the unknown and bravely venturing into uncharted territory to fulfill his divine purpose.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.6602127166854417,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.54,
+            "commentatorTierSimilarities": [
+                46.23,
+                38.84,
+                14.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's decision to consort with uncircumcised men and eat with them was a significant departure from Jewish customs. In the company of six Jewish brethren, Peter recognized the weight of the event and their potential testimony. This fellowship with Gentiles went against Hebrew scruples and was abhorrent to the Jews. However, Peter obediently followed God's call and ran speedily towards the unknown, embarking on a journey that would ultimately have far-reaching consequences.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.765794888411112,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                42.63,
+                41.63,
+                15.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

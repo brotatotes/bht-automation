@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:22:00",
+    "verseRef": "Luke 20:5",
+    "bestBHT": {
+        "bht": "Not believing in His testimony to Jesus, they reasoned together closely, discussing and debating this matter. They pondered whether they should say that His testimony was from heaven, which they believed in their consciences to be true. However, they were aware that if they were to answer this way, Jesus would question why they did not believe in what He said about the Messiah.",
+        "wordCount": 64,
+        "quoteTokenProportion": 57.45,
+        "qualityScore": 1.7838830964679722,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+        "commentatorTierSimilarities": [
+            33.76,
+            0.0,
+            66.24
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "5. Why then believed ye him",
+            "\tnot?\u2014that is, in his testimony to Jesus, the sum of his whole",
+            "\twitness."
+        ],
+        "Marvin Vincent": [
+            "They reasoned [\u03c3\u03c5\u03bd\u03b5\u03bb\u03bf\u03b3\u03b9\u03c3\u03b1\u03bd\u03c4\u03bf] . Only here in New Testament. The preposition, sun, together, and the additional with themselves, denote a very close conference."
+        ],
+        "Archibald T. Robertson": [
+            "They reasoned with themselves (\u03c3\u03c5\u03bd\u03b5\u03bb\u03bf\u03b3\u03b9\u03c3\u03b1\u03bd\u03c4\u03bf). First aorist middle of \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03b9\u03b6\u03bf\u03bc\u03b1, to bring together accounts, an old word, only here in the N.T."
+        ],
+        "John Gill": [
+            "And they reasoned with themselves...they took counsel together, and debated the matter among themselves, and reasoned after this manner.\" ",
+            "Saying, if we shall say from heaven; which was what, in their own consciences, they believed to be true.",
+            "He will say, why then believed ye him not? in what he said concerning the Messiah; which if they had, as they should, there would have been no reason for such a question they had put."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders engaged in close conversation, reasoning amongst themselves, trying to make sense of the situation. They debated and considered their options, questioning why they did not believe John when he spoke about Jesus. Their inner dialogue revolved around the idea that if they were to acknowledge that John's testimony came from heaven, then they would have no excuse for not believing him.",
+            "wordCount": 65,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.565054533082178,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                39.02,
+                0.0,
+                60.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders gathered together, engaged in close conversation, reasoning amongst themselves, as they debated and considered their options. They questioned why they did not believe John when he spoke about Jesus. Their inner dialogue revolved around the idea that if they were to acknowledge that John's testimony came from heaven, then they would have no excuse for not believing him.",
+            "wordCount": 62,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 1.617566492747056,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+            "commentatorTierSimilarities": [
+                40.0,
+                0.0,
+                60.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Why did they not believe the testimony of John the Baptist about Jesus? They questioned and reasoned with themselves, debating the matter among themselves. If they were to say that John's testimony was from heaven, as they believed in their consciences, then Jesus would ask them why they did not believe him. It is clear that if they had believed John's words about the Messiah, they would not have posed such a question.",
+            "wordCount": 75,
+            "quoteTokenProportion": 62.0,
+            "qualityScore": 1.6769446341626906,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.1,
+            "commentatorTierSimilarities": [
+                36.17,
+                0.0,
+                63.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why then believed ye him not? the religious leaders reasoned with themselves, bringing together their accounts and engaging in a close conference. They took counsel together, debated the matter, and reasoned after this manner: If we shall say from heaven, he will say, why then believed ye him not? They understood that if they had believed in John's testimony about Jesus being the Messiah, there would have been no reason for this question to arise.",
+            "wordCount": 76,
+            "quoteTokenProportion": 55.17,
+            "qualityScore": 1.7330706352545624,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+            "commentatorTierSimilarities": [
+                35.14,
+                0.0,
+                64.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Not believing in His testimony to Jesus, they reasoned together closely, discussing and debating this matter. They pondered whether they should say that His testimony was from heaven, which they believed in their consciences to be true. However, they were aware that if they were to answer this way, Jesus would question why they did not believe in what He said about the Messiah.",
+            "wordCount": 64,
+            "quoteTokenProportion": 57.45,
+            "qualityScore": 1.7838830964679722,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                33.76,
+                0.0,
+                66.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

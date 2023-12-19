@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:00:38",
+    "verseRef": "Romans 2:26",
+    "bestBHT": {
+        "bht": "The Apostle Paul asserts that circumcision, the symbol of the Mosaic Law, is secondary to actually obeying the Law. He presents a scenario where an uncircumcised Gentile, faithfully keeping the Law, is regarded as if he were circumcised. This reveals that receiving God's approval does not depend on external privileges, but on the state of one's heart and the adherence to His commands. It implies that a Gentile who obeys the Law may surpass a circumcised Jew who neglects it. Ultimately, God judges individuals based on the sincerity of their faith and obedience.",
+        "wordCount": 95,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.111728467222319,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+        "commentatorTierSimilarities": [
+            20.25,
+            43.41,
+            36.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The case is an impossible one: nor does the Apostle put it as possible, only as shewing manifestly, that circumcision, the sign of the covenant of the Law, was subordinate to the keeping of the Law itself.",
+            "the sign of the covenant of the Law, was subordinate to the keeping of the Law itself.",
+            "In such a case would not he be counted as a circumcised person?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The case here put is, we think, such as that of Cornelius.",
+            "Yet having come to the knowledge of the truths contained in it, do manifest the grace of the covenant without the seal of it.",
+            "God was about to show the insufficiency of the mere badge of the Abrahamic covenant."
+        ],
+        "Albert Barnes": [
+            "Acceptance with God does not depend on a man\u2019s external privileges, but on the state of the heart and life.",
+            "Shall his being uncircumcised be any barrier in the way of his acceptance with God?",
+            "God judges things as they are; and as the man, though uncircumcised, who keeps the Law, ought to be treated as if he had been circumcised."
+        ],
+        "John Calvin": [
+            "It is then a greater thing to keep the law than circumcision, which was for its sake instituted.",
+            "The uncircumcised, provided he keeps the law, far excels the Jew with his barren and unprofitable circumcision.",
+            "The Gentile, being a keeper of the law, shall judge thee who art a transgressor, though he is uncircumcised, and thou hast the literal circumcision."
+        ],
+        "Philip Schaff": [
+            "If therefore. The unholy Jew virtually becomes a Gentile, does not the obedient Gentile virtually become a Jew?",
+            "Complete fulfillment of the law is not meant; nor is any hint given as to the way in which a Gentile could 'keep the ordinances of the law.'",
+            "At that time the uncircumcised Gentile, who has kept the ordinances of the law, shall be regarded precisely as though he were circumcised, i.e., as a member of God\u2019s covenant people."
+        ],
+        "Archibald T. Robertson": [
+            "Keep on keeping\" (\u03c6\u03c5\u03bb\u03b1\u03c3\u03c3\u03b7) perfectly, Paul means.",
+            "For\" (\u03b5\u03b9\u03c2). As often in N.T."
+        ],
+        "John Gill": [
+            "If any such persons could be found among the Gentiles who keep the whole law of God... as in the hands of Christ, and who look to Christ as the fulfilling end of it, for righteousness; in whom they keep the righteousness of the law perfectly.\" ",
+            "An uncircumcised Gentile, who keeps the law as in the hands of Christ, and under the influences of his Spirit and grace, and keeps it in Christ, is reckoned a circumcised person in a spiritual sense.",
+            "Must be preferable to a circumcised Jew that breaks it."
+        ],
+        "John Wesley": [
+            "If the uncircumcision...Keep the law...Shall not his uncircumcision be counted for circumcision?\" ",
+            "In the sight of God?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle Paul emphasizes that circumcision, as the sign of the Mosaic Law, is subservient to the actual observance of the Law itself. He presents a scenario where an uncircumcised Gentile, who diligently keeps the Law, would be considered as if he were circumcised. This highlights the principle that acceptance before God is not determined by external privileges, but by the condition of the heart and obedience to His commands. The passage suggests that a Gentile, living in accordance with God's law, may even surpass a circumcised Jew who fails to follow it. Ultimately, God judges individuals based on the sincerity and integrity of their faith and obedience, recognizing those who truly live in alignment with His will.",
+            "wordCount": 119,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 2.116283999209953,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.71,
+            "commentatorTierSimilarities": [
+                20.77,
+                43.66,
+                35.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle Paul asserts that circumcision, the symbol of the Mosaic Law, is secondary to actually obeying the Law. He presents a scenario where an uncircumcised Gentile, faithfully keeping the Law, is regarded as if he were circumcised. This reveals that receiving God's approval does not depend on external privileges, but on the state of one's heart and the adherence to His commands. It implies that a Gentile who obeys the Law may surpass a circumcised Jew who neglects it. Ultimately, God judges individuals based on the sincerity of their faith and obedience.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.111728467222319,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+            "commentatorTierSimilarities": [
+                20.25,
+                43.41,
+                36.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The true significance of circumcision, as the sign of the Mosaic Law, is revealed by the Apostle Paul. He demonstrates that being circumcised without actually obeying the Law is futile. However, a scenario is presented where an uncircumcised Gentile who diligently keeps the Law can be considered as if he were circumcised. This highlights the greater importance of living in accordance with God's commands rather than relying solely on external rituals. God's judgment is based on the heart and a genuine commitment to obeying Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.0113940523792495,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+            "commentatorTierSimilarities": [
+                22.58,
+                41.11,
+                36.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle Paul emphasizes that circumcision is subordinate to observing the Law itself. He presents a scenario where an uncircumcised Gentile, faithfully keeping the Law, is deemed as if he were circumcised. This highlights the truth that acceptance with God rests not on external privileges, but on the condition of one's heart and their obedience. It suggests that a Gentile who conscientiously follows God's Law may even surpass a circumcised Jew who fails to do so. Ultimately, God judges individuals based on the authenticity of their faith and their commitment to obeying Him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.0745390004039352,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.32,
+            "commentatorTierSimilarities": [
+                20.48,
+                42.62,
+                36.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle Paul clarifies that circumcision, as the symbol of the Mosaic Law, is subservient to faithfully observing the Law itself. He presents a scenario where an uncircumcised Gentile, who diligently keeps the Law, is regarded as if he were circumcised. This underscores the principle that acceptance by God is not based on external privileges, but rather on the inner state of the heart and obedience. It implies that a Gentile who wholeheartedly follows the Law may even surpass a circumcised Jew who neglects it. Ultimately, God evaluates individuals according to the sincerity of their faith and their commitment to obedience.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.0783736946538145,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                20.58,
+                43.1,
+                36.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

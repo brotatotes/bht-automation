@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:32:32",
+    "verseRef": "Acts 17:3",
+    "bestBHT": {
+        "bht": "Paul passionately proclaimed that Jesus, the suffering and rising Messiah, was the fulfillment of Old Testament prophecies. He expounded and established this truth by delving into the Scriptures, connecting the dots between the predictions and Jesus of Nazareth. Paul's logical and overwhelming sermon opened minds and hearts to the profound message of salvation. By unveiling the necessity of Christ's suffering and resurrection, he presented a clear and compelling argument, demonstrating the perfect harmony between the Scriptures and Jesus as the long-awaited Messiah.",
+        "wordCount": 85,
+        "quoteTokenProportion": 23.21,
+        "qualityScore": 2.202760086232739,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.58,
+        "commentatorTierSimilarities": [
+            28.61,
+            32.53,
+            38.86
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] The particularity of this suffering and rising again from the dead is reproduced in 1 Thess. iv. 14."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His preaching, it seems, was chiefly expository, and designed to establish from the Old Testament Scriptures that the predicted Messiah was to be a suffering and dying, and therefore a rising, Messiah.",
+            "Opening and alleging that Christ must needs have suffered.",
+            "That this Messiah was none other than Jesus of Nazareth."
+        ],
+        "Albert Barnes": [
+            "He explained the Scriptures in their true sense.",
+            "That there was a fitness or necessity that the Messiah expected by the Jews, and predicted in their Scriptures, should suffer.",
+            "His miracles proved that he was the Messiah, for he professed to be, and God would not work a miracle to confirm the claims of an impostor."
+        ],
+        "Marvin Vincent": [
+            "Opening and alleging... Two steps, as if one, having broken the rind, were to disclose and exhibit the kernel.\" ",
+            "The latter word is rather propounding, or setting forth.\" ",
+            "See on set before, Luke 9:16; and commit, 1 Peter 4:19."
+        ],
+        "John Calvin": [
+            "And, surely, there is no more apt or effectual way to prove the office of Christ, than when men, being humbled with the feeling of their miseries, see that there is no hope left, unless they be reconciled by the sacrifice of Christ.",
+            "Therefore, we must come unto the same fountains at this day, from which Paul fetched the proof of the death and resurrection of Christ.",
+            "We must know that the Jews were not so blockish, nor so impudent, as they be at this day."
+        ],
+        "Philip Schaff": [
+            "Opening that is, expounding, unfolding their sense.",
+            "Paul opened their Scriptures, and then showed them how they contained two great truths.",
+            "Is Christ. Better, \u2018is the Christ,\u2019 or the Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "One cannot refrain from saying that such exposition of the Scriptures as Jesus and Paul gave would lead to more opening of mind and heart.",
+            "That it behoved the Christ to suffer...The minor premise is the resurrection of Jesus from the dead.",
+            "This Jesus is the Christ...This is the conclusion of Paul's line of argument and it is logical and overwhelming."
+        ],
+        "John Gill": [
+            "he set this matter in a clear light, and made it plain and manifest, from the writings of the Old Testament, that there was a necessity of the Messiah's suffering and rising from the dead",
+            "for these things were not only necessary on account of God's decrees, and the covenant transactions the Son of God entered into, and on the account of the salvation of his people; but because of the types, promises, and prophecies of the Old Testament",
+            "he showed that all the things which were spoken of Christ, or the Messiah, in those Scriptures, were fulfilled in Jesus of Nazareth, who was the subject matter, the sum and substance of his ministry"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul passionately proclaimed that Jesus is the Messiah, the fulfillment of Old Testament prophecies. He unveiled the Scriptures, delving into their depths to reveal the necessity of Christ's suffering and resurrection. With unwavering conviction, he connected the dots for his listeners, showing them that the suffering and rising Savior was none other than Jesus of Nazareth. His exposition of the Scriptures not only established the truth of Christ's identity but also opened minds and hearts to the profound message of salvation. It was a logical and overwhelming argument, demonstrating the perfect harmony between the predictions and the person of Jesus.",
+            "wordCount": 102,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 2.1019306906565918,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                27.46,
+                32.98,
+                39.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul boldly expounded the Scriptures, revealing how they foretold of the Messiah's suffering and resurrection. With unwavering conviction, he proclaimed that Jesus of Nazareth was the fulfillment of these prophecies. By meticulously laying out the evidence, Paul logically and overwhelmingly concluded that Jesus is the Christ. His exposition of the Scriptures not only confirmed the truth of Christ's identity but also had a transformative impact on the hearts and minds of his audience. Through Paul's preaching, people came to understand the profound message of salvation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.0952560783008694,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.01,
+            "commentatorTierSimilarities": [
+                27.3,
+                34.39,
+                38.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul passionately proclaimed that Jesus is the Messiah, the fulfillment of Old Testament prophecies. He unveiled the Scriptures, delving into their depths to reveal the necessity of Christ's suffering and resurrection. With unwavering conviction, he connected the dots for his listeners, showing them that the suffering and rising Savior was none other than Jesus of Nazareth. His exposition of the Scriptures not only established the truth of Christ's identity but also opened minds and hearts to the profound message of salvation. It was a logical and overwhelming argument, demonstrating the perfect harmony between the predictions and the person of Jesus.",
+            "wordCount": 102,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 2.1019306906565918,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                27.46,
+                32.98,
+                39.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, fervently and with conviction, expounded on the Scriptures to establish Jesus as the prophesied suffering and rising Messiah. He meticulously unfolded the truths contained within the Old Testament, presenting persuasive arguments and overwhelming evidence. By connecting the dots between the Scriptures and Jesus of Nazareth, Paul solidified the logical conclusion that Jesus is the Christ. Through his powerful exposition, hearts and minds were opened to the profound message of salvation, revealing the perfect fulfillment of the Old Testament prophecies in Jesus' suffering and resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.1562487095869636,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.04,
+            "commentatorTierSimilarities": [
+                28.15,
+                32.95,
+                38.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul passionately proclaimed that Jesus, the suffering and rising Messiah, was the fulfillment of Old Testament prophecies. He expounded and established this truth by delving into the Scriptures, connecting the dots between the predictions and Jesus of Nazareth. Paul's logical and overwhelming sermon opened minds and hearts to the profound message of salvation. By unveiling the necessity of Christ's suffering and resurrection, he presented a clear and compelling argument, demonstrating the perfect harmony between the Scriptures and Jesus as the long-awaited Messiah.",
+            "wordCount": 85,
+            "quoteTokenProportion": 23.21,
+            "qualityScore": 2.202760086232739,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.58,
+            "commentatorTierSimilarities": [
+                28.61,
+                32.53,
+                38.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

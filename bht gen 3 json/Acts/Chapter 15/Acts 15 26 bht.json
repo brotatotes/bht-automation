@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:31:40",
+    "verseRef": "Acts 15:26",
+    "bestBHT": {
+        "bht": "The sacrifice of their lives was made by them: they were martyrs in will, though their lives had not as yet been laid down in point of fact. Paul and Barnabas could have no other motive than that of serving the Lord Jesus Christ, and this noble testimony to their character awakened trust in the minds of the churches. It was considerate and tender to send men who could confirm the contents of the Epistle and speak of Barnabas and Paul's commendable actions in Pisidia and Lycaonia.",
+        "wordCount": 88,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 2.0021710947593867,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+        "commentatorTierSimilarities": [
+            35.75,
+            30.98,
+            33.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sacrifice of their lives was made by them: they were martyrs in will, though their lives had not as yet been laid down in point of fact.",
+            "This is mentioned to shew that Paul and Barnabas could have no other motive than that of serving the Lord Jesus Christ, and to awaken trust in the minds of the churches.",
+            "But, although this was so, the Apostles and Elders did not think proper to send only Paul and Barnabas...but as direct authorities from themselves, Judas and Silas also, who might by word confirm the contents of the Epistle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Men that have hazarded\u2014literally, 'rendered up,' as in will they did.",
+            "Noble testimony to those beloved men!",
+            "Mark here how considerate and tender it was to send men who would be able to say of Barnabas and Paul what could not be expected to come from themselves."
+        ],
+        "Albert Barnes": [
+            "Men that have hazarded their lives ... - This was a noble testimony to the character of Barnabas and Paul.",
+            "It was a commendation of them to the confidence of the churches...",
+            "...an implied expression that they wished their authority to be regarded in the establishment and organization of the church."
+        ],
+        "Philip Schaff": [
+            "Men that have hazarded their lives for the name of our Lord Jesus Christ.",
+            "These noble men were martyrs in will.",
+            "'Die at the post of duty, but gain souls for the Lamb.'"
+        ],
+        "Archibald T. Robertson": [
+            "Have hazarded their lives (\u03c0\u03b1\u03c1\u03b1\u03b4\u03b5\u03b4\u03c9\u03ba\u03bf\u03c3 \u03c4\u03b1\u03c2 \u03c8\u03c5\u03c7\u03b1\u03c2 \u03b1\u03c5\u03c4\u03c9\u03bd).",
+            "The sufferings of Paul and Barnabas in Pisidia and Lycaonia were plainly well-known just as the story of Judson in Burmah is today.",
+            "On the use of 'name' here see on Acts 3:6."
+        ],
+        "John Gill": [
+            "Men that have hazarded their lives...and this they did, not for any sinister and selfish ends...but for the name of our Lord Jesus Christ...\" (32 words)",
+            "For the sake of his Gospel, and the enlargement of his interest, and kingdom in the world...\" (18 words)",
+            "Greatly to be preferred to false teachers; who only sought themselves, their worldly honour, and ease...\" (23 words)"
+        ],
+        "John Wesley": [
+            "Men that have hazarded their lives \u2014 This is spoken of Paul and Barnabas."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These beloved men, Paul and Barnabas, were true martyrs in their willingness to sacrifice their lives for the name of our Lord Jesus Christ. They were sent as direct authorities from the Apostles and Elders to confirm the contents of the Epistle and to serve the interests of the Gospel. Their courageous actions in Pisidia and Lycaonia were well-known and their commendable character is a noble testimony to their dedication. This sacrifice awakens trust in the minds of the churches and speaks of their genuine motives in serving the Lord.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7645780720816677,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                28.2,
+                36.64,
+                35.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These beloved men, Paul and Barnabas, were true martyrs in their willingness to sacrifice their lives for the name of our Lord Jesus Christ. They were sent as direct authorities from the Apostles and Elders to confirm the contents of the Epistle and to serve the interests of the Gospel. Their courageous actions in Pisidia and Lycaonia were well-known and their commendable character is a noble testimony to their dedication. This sacrifice awakens trust in the minds of the churches and speaks of their genuine motives in serving the Lord.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7645780720816677,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                28.2,
+                36.64,
+                35.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sacrifice of their lives was made by them: they were martyrs in will, though their lives had not as yet been laid down in point of fact. Paul and Barnabas could have no other motive than that of serving the Lord Jesus Christ, and this noble testimony to their character awakened trust in the minds of the churches. It was considerate and tender to send men who could confirm the contents of the Epistle and speak of Barnabas and Paul's commendable actions in Pisidia and Lycaonia.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.0021710947593867,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                35.75,
+                30.98,
+                33.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sacrifice of their lives was made by them: they were martyrs in will, though their lives had not as yet been laid down in point of fact. This noble testimony to their character awakened trust in the minds of the churches. It was considerate and tender to send men who could confirm the contents of the Epistle and speak of Barnabas and Paul's commendable actions in Pisidia and Lycaonia. They hazarded their lives for the name of our Lord Jesus Christ, revealing their genuine motives in serving the Lord.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8523544440557735,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                30.87,
+                36.68,
+                32.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul and Barnabas, true martyrs in their willingness to sacrifice, were sent as direct authorities from the Apostles and Elders. Their commendable character and noble testimony awakened trust in the churches. Confirming the Epistle, they spoke of their own sacrificial actions and the sufferings they endured for the sake of the name of our Lord Jesus Christ. Their dedication and genuine motives in serving the Lord demonstrated their selflessness and commitment to the Gospel.",
+            "wordCount": 74,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.8388594679515942,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+            "commentatorTierSimilarities": [
+                28.57,
+                35.48,
+                35.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

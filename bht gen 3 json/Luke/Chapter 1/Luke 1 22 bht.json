@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:13:01",
+    "verseRef": "Luke 1:22",
+    "bestBHT": {
+        "bht": "The priest, after his temple experience, showed visible excitement and was unable to pronounce the benediction as expected. Through repeated signs, they were made aware of his encounter and came to the conclusion that he had seen a vision. The Old Testament priesthood's silence in response to the preacher's voice further confirmed their understanding. This encounter left the priest speechless until the designated time.",
+        "wordCount": 66,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.7602538108312915,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+        "commentatorTierSimilarities": [
+            21.56,
+            39.61,
+            38.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They knew, by some excitement, visible in his manner.",
+            "It was not his office to pronounce the benediction, but that of the other incensing priest.",
+            "This answer he gave by a sign: and the question was also by signs."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "22. speechless\u2014dumb, and deaf",
+            "\talso (see Luke 1:62)."
+        ],
+        "Albert Barnes": [
+            "The word 'vision' means 'sight, appearance,' or 'spectre,' and is commonly applied to spirits, or to beings from another world.",
+            "He was unable to speak, and they had no way of 'perceiving' it but by such a sign.",
+            "By beckoning unto them, or by a sign, he informed them of what he had seen."
+        ],
+        "Marvin Vincent": [
+            "Clearly perceived.",
+            "Continued making signs.",
+            "Frequent repetition of the same signs."
+        ],
+        "Philip Schaff": [
+            "When the voice of the preacher is announced, the priesthood of the Old Testament becomes silent.\" ",
+            "They perceived... at once found that he was both deaf and dumb.",
+            "From this they inferred that he had seen a vision in the temple."
+        ],
+        "Archibald T. Robertson": [
+            "Clearly knew because he was not able to pronounce the benediction from the steps.",
+            "He nodded and beckoned back and forth, further proof of a vision that caused his dumbness.",
+            "Further proof of a vision that caused his dumbness."
+        ],
+        "John Gill": [
+            "And when he came out, he could not speak unto them,.... Or deliver the benediction they were waiting for.\" ",
+            "they perceived that he had seen a vision in the temple... for he beckoned unto them; nodding his head, or by some motions of his hands",
+            "and remained speechless; to the time the angel fixed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The priest who went into the temple to burn incense clearly had an intense experience, as his manner showed excitement. Although it was not his role to pronounce the benediction, the fact that he couldn't do so heightened their curiosity. In response to their questioning looks, he communicated through signs, repeatedly making the same gestures to convey his message. They understood that he had seen a vision because he was unable to speak, and his nodding and beckoning back and forth reinforced this. The priesthood of the Old Testament became silent when the voice of the preacher was announced, and they immediately inferred that he had encountered something supernatural. This encounter left the priest speechless until the appointed time.",
+            "wordCount": 120,
+            "quoteTokenProportion": 36.47,
+            "qualityScore": 1.7702318494189964,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                22.05,
+                40.15,
+                37.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The priest's visible excitement and inability to pronounce the benediction from the steps made it clear that he had received a powerful experience within the temple. Through repeated gestures, he conveyed his encounter, causing the onlookers to surmise that he had seen a vision. The Old Testament priesthood's silence in the presence of a divine voice added to their understanding. This profound encounter left the priest speechless until the designated moment.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6718922481946206,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.93,
+            "commentatorTierSimilarities": [
+                19.34,
+                40.1,
+                40.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The priest, after his temple experience, showed visible excitement and was unable to pronounce the benediction as expected. Through repeated signs, they were made aware of his encounter and came to the conclusion that he had seen a vision. The Old Testament priesthood's silence in response to the preacher's voice further confirmed their understanding. This encounter left the priest speechless until the designated time.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.7602538108312915,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "commentatorTierSimilarities": [
+                21.56,
+                39.61,
+                38.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The priest, clearly perceived to be in a state of excitement, was unable to pronounce the benediction. Instead, he communicated through signs, repeatedly making the same gestures, thus further emphasizing his experience. This made it evident to those present that he had seen a vision, as the Old Testament priesthood would become silent in the presence of a divine voice. Consequently, the priest remained speechless until the designated time appointed by the angel.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.6428930251540292,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.97,
+            "commentatorTierSimilarities": [
+                21.93,
+                35.79,
+                42.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The priest's visible excitement, coupled with his inability to pronounce the benediction, indicated that he had encountered something extraordinary in the temple. Using repeated signs and gestures, he conveyed to the onlookers that he had experienced a vision. The fact that the Old Testament priesthood becomes silent in the presence of a divine voice further confirmed their perception. As a result, the priest remained speechless until the angel's predetermined time.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.7195595208591552,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "commentatorTierSimilarities": [
+                20.0,
+                37.54,
+                42.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

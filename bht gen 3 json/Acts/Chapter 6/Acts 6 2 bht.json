@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:27:06",
+    "verseRef": "Acts 6:2",
+    "bestBHT": {
+        "bht": "Recognizing the primary duty of preaching, the apostles called a meeting of the whole church, acknowledging that attending to the financial matters of the church would be a departure from their appointed purpose. Displaying patience and meekness, they left the decision of choosing assistant ministers to the assembled brethren. Their example underscores the importance of teaching and caring for the needs of the poor, signifying the vital roles of preaching and ensuring the well-being of the church.",
+        "wordCount": 78,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 1.8132760882420702,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+        "commentatorTierSimilarities": [
+            18.74,
+            46.74,
+            34.53
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the multitude of the disciples,\u2014i. e. \u2018the whole number of disciples in Jerusalem:\u2019 summoning a general meeting of the church.",
+            "It is a question, whether this expression import the service of distributing money\u2014or that of apportioning the daily public meals.",
+            "That both kinds of tables may be meant, is possible: but hardly probable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We cannot submit.",
+            "We cannot leave the word of God.",
+            "They regarded preaching as their primary duty."
+        ],
+        "Albert Barnes": [
+            "The business was laid before a large number; or perhaps 'the multitude' here means those merely who were more particularly interested in the matter.",
+            "It would be a departure from the design of their appointment, which was to preach the gospel, and not to attend to the pecuniary affairs of the church.",
+            "This expression properly denotes 'to take care of, or provide for the table, or for the daily needs of a family.'"
+        ],
+        "Marvin Vincent": [
+            "Reason [\u03b1\u03c1\u03b5\u03c3\u03c4\u03bf\u03bd] . Lit., pleasing or agreeable. ",
+            "Leave [\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03b9\u03c8\u03b1\u03bd\u03c4\u03b1\u03c2] . Rather forsake or abandon : leave in the lurch. Serve tables. Superintend the distribution of food."
+        ],
+        "John Calvin": [
+            "It is a point of patience and meekness that the apostles are no more moved.",
+            "Surely we are not better than they. Therefore, let every one of us that is called unto the function of teaching addict himself wholly to order this his estate well.",
+            "For we are inclined to nothing more than to fall to slothfulness. Again, the flesh ministereth goodly cloaks and colors, so that those men cannot see by and by that they are led away from their calling which enwrap themselves in strange business."
+        ],
+        "Philip Schaff": [
+            "This business of feeding the poor was probably delegated to others in an informal manner, and the feelings set out at some length above, seem to have had their influence in the division of alms and food among the widows and helpless poor of the more despised class; hence the murmuring.",
+            "The apostles seem at once to have acknowledged the justice of the remonstrance; they agree amongst themselves that an immediate change in their way of administration is necessary, and determine at once upon a formal division of labour.",
+            "Without making any pretensions to authority, or suggesting the names of men to be chosen as their assistant ministers, they summon a meeting of the whole Church, and after explaining the case leave the decision with the assembled brethren."
+        ],
+        "Archibald T. Robertson": [
+            "The multitude. The whole church, not just the 120.",
+            "Fit. Pleasing, verbal adjective from \u03b1\u03c1\u03b5\u03c3\u03ba\u03c9, to please, old word, but in the N.T. only here and Acts 12:3; John 8:29; 1 John 3:22.",
+            "Serve tables. Present active infinitive of \u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03b5\u03c9 from \u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03bf\u03c2 (\u03b4\u03b9\u03b1 and \u03ba\u03bf\u03bd\u03b9\u03c2, dust), to raise a dust in a hurry, to serve, to minister either at table (John 12:20), or other service (John 12:25), to serve as deacon (1 Timothy 3:10; 1 Timothy 3:13)."
+        ],
+        "John Gill": [
+            "It is not pleasing, neither to God, nor to us.",
+            "That we should leave the word of God... and serve tables.",
+            "From hence we learn what is the business of deacons, who were afterwards appointed to take this part of the apostles' work off of their hands, and attend to it."
+        ],
+        "John Wesley": [
+            "It is not right that we should leave the word of God and serve tables.\" ",
+            "The primary business of apostles, evangelists, and bishops, was to preach the word of God; the secondary, to take a kind of paternal care.",
+            "Their proper office was to take care of the poor."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostles, recognizing that their primary duty was preaching the word of God and not serving tables, summoned a general meeting of the whole church to address the issue. They acknowledged that it would be a departure from their appointed purpose to attend to the pecuniary affairs of the church. The apostles were not moved by the remonstrance, but rather displayed patience and meekness. They left the decision of choosing assistant ministers to the assembled brethren, emphasizing that their focus should be wholly on the business of teaching and ensuring the proper care of the poor. The apostles' example teaches us the important roles of preaching and caring for the needs of the church.",
+            "wordCount": 114,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.8666098556757929,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.41,
+            "commentatorTierSimilarities": [
+                19.59,
+                41.45,
+                38.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Recognizing that their primary duty was preaching, the apostles called a meeting of the whole church. They acknowledged that attending to the financial matters of the church would be a departure from their appointed purpose. Their patience and meekness were evident, as they left the decision of choosing assistant ministers to the assembled brethren. The apostles emphasized the importance of teaching and caring for the needs of the poor. Their example reminds us of the crucial roles of preaching and ensuring the proper care of the church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.762798512581384,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+            "commentatorTierSimilarities": [
+                18.02,
+                44.22,
+                37.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Recognizing that preaching was their primary duty, the apostles called a meeting of the whole church to address the issue at hand. They acknowledged that attending to the financial matters of the church would be a departure from their appointed purpose. Displaying patience and meekness, they left the decision of choosing assistant ministers to the assembled brethren. The apostles emphasized the importance of teaching and caring for the needs of the poor. Their example reminds us of the crucial roles of preaching and ensuring the proper care of the church.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.7633525022297256,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.97,
+            "commentatorTierSimilarities": [
+                17.76,
+                44.72,
+                37.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Recognizing that their primary duty was preaching the word of God, the apostles called a meeting of the whole church to address the issue. They acknowledged that attending to the financial matters of the church would be a departure from their appointed purpose. The apostles displayed patience and meekness, leaving the decision of choosing assistant ministers to the assembled brethren. Their example emphasizes the importance of teaching and caring for the needs of the poor. It serves as a reminder of the crucial roles of preaching and ensuring the proper care of the church.",
+            "wordCount": 94,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.7257049446563197,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
+            "commentatorTierSimilarities": [
+                18.16,
+                43.35,
+                38.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Recognizing the primary duty of preaching, the apostles called a meeting of the whole church, acknowledging that attending to the financial matters of the church would be a departure from their appointed purpose. Displaying patience and meekness, they left the decision of choosing assistant ministers to the assembled brethren. Their example underscores the importance of teaching and caring for the needs of the poor, signifying the vital roles of preaching and ensuring the well-being of the church.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.8132760882420702,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+            "commentatorTierSimilarities": [
+                18.74,
+                46.74,
+                34.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

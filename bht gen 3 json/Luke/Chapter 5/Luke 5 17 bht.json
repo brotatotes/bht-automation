@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:15:24",
+    "verseRef": "Luke 5:17",
+    "bestBHT": {
+        "bht": "The power of God was present in the Lord Jesus, working in the direction of His healing. He had the power of the Lord God to heal with, and this caused people from all parts to come and observe him, both to take advantage of opportunities against him and to witness his growing influence. It is worth noting that not all Pharisees were as bad as these legalistic hypocrites who opposed Jesus. Jesus' healing power extended to both physical and spiritual ailments, as the power of the Lord was present to heal their souls.",
+        "wordCount": 94,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 1.7954281584769523,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+        "commentatorTierSimilarities": [
+            41.77,
+            14.78,
+            43.44
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "out of every town: not to be pressed: as we say, from all parts.",
+            "the power of God (working in the Lord Jesus) was in the direction of His healing.",
+            "wrought so that He exercised the powers of healing: and then a case follows."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The highest testimony yet borne to our Lord's growing influence, and the necessity increasingly felt by the ecclesiastics throughout the country of coming to some definite judgment regarding Him.",
+            "Power of the Lord...present\u2014with Jesus.",
+            "To heal them\u2014the sick people."
+        ],
+        "Marvin Vincent": [
+            "The pronoun has a slightly emphatic force: he as distinguished from the Pharisees and teachers of the law.",
+            "Luke often uses nomikov, conversant with the law, but in the other word the element of teaching is emphasized, probably in intentional contrast with Christ's teaching.",
+            "The best texts, however, read aujton, him, referring to Christ, and meaning was present that he should heal; i.e., in aid of his healing."
+        ],
+        "Philip Schaff": [
+            "From all parts, not necessarily from each and every village.",
+            "Probably they had come with hostile purpose, since on this occasion we first discover an indication of antagonism.",
+            "\u2018Lord\u2019 refers to God, although Luke often applies the term to our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "There is no 'by' in the Greek.",
+            "One must not forget that there were many kinds of Pharisees and that not all of them were as bad as these legalistic and punctilious hypocrites who deserved the indictment and exposure of Christ.",
+            "What Luke means is that Jesus had the power of the Lord God to heal with."
+        ],
+        "John Gill": [
+            "There was not room for them, neither within the house, nor about the door.",
+            "They came from all parts to watch and observe him, and to take all opportunities and advantages against him.",
+            "The power of the Lord was present to heal them."
+        ],
+        "John Wesley": [
+            "Sitting by \u2014 As being more honourable than the bulk of the congregation, who stood.",
+            "And the power of the Lord was present to heal them \u2014 To heal the sickness of their souls, as well as all bodily diseases."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The power of God was present in the Lord Jesus, working in the direction of His healing. He had the power of the Lord God to heal with, and this caused people from all parts to come and observe him, both to take advantage of opportunities against him and to witness his growing influence. It is worth noting that not all Pharisees were as bad as these legalistic hypocrites who opposed Jesus. Jesus' healing power extended to both physical and spiritual ailments, as the power of the Lord was present to heal their souls.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.7954281584769523,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+            "commentatorTierSimilarities": [
+                41.77,
+                14.78,
+                43.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The power of God was present in the Lord Jesus, working in the direction of His healing. People from all parts came to observe him and witness his growing influence. Not all Pharisees were as bad as these legalistic hypocrites who opposed Jesus. Jesus' healing power extended to both physical and spiritual ailments, as the power of the Lord was present to heal their souls.",
+            "wordCount": 65,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.6880243992177064,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+            "commentatorTierSimilarities": [
+                42.17,
+                14.65,
+                43.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The power of the Lord was present in Jesus to heal, as he exercised the powers of healing. People came from all parts to observe him and witness his growing influence. While not all Pharisees were as bad as those who opposed Jesus, they felt increasingly pressured to make a judgment regarding him. With the power of the Lord, Jesus had the ability to heal both physical and spiritual ailments, demonstrating his authority and the work of God in him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.682289537782181,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.28,
+            "commentatorTierSimilarities": [
+                43.32,
+                14.2,
+                42.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The power of the Lord was present in Jesus to heal, demonstrating his authority and the work of God in him. People came from all parts to observe him and witness his growing influence. While not all Pharisees were as bad as those who opposed Jesus, they felt increasingly pressured to make a judgment regarding him. Jesus had the power to heal physical and spiritual ailments, and his ability to heal both their bodies and souls was evident through the power of the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6829864447369665,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+            "commentatorTierSimilarities": [
+                41.88,
+                15.25,
+                42.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The power of the Lord was present in Jesus to heal, which demonstrated his authority and the work of God in him. People gathered from all parts to observe him and witness his growing influence. While not all Pharisees were as bad as those who opposed Jesus, they felt pressured to pass judgment on him. Jesus had the power to heal both physical and spiritual ailments, showcasing his ability to restore both bodies and souls through the power of the Lord.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.6400815216223106,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.87,
+            "commentatorTierSimilarities": [
+                43.09,
+                14.01,
+                42.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

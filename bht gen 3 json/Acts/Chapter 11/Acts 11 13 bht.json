@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:29:40",
+    "verseRef": "Acts 11:13",
+    "bestBHT": {
+        "bht": "Peter tells of seeing the angel appear to Cornelius, highlighting the specificity and significance of this encounter. Notably, the angel appeared in Cornelius' house, while Peter was merely praying in Joppa. Peter doesn't mention Cornelius by name but instead focuses on the distinction of men uncircumcised. This indicates that Peter's understanding of Cornelius' character and person was absorbed into the broader category. Peter's obedience to God's direct orders is evident, as he follows the instructions given through the angel's visit to Cornelius.",
+        "wordCount": 87,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.7372141067161788,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+        "commentatorTierSimilarities": [
+            30.31,
+            29.18,
+            40.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The use of the definite article almost looks as if the history of Cornelius\u2019s vision were known to the hearers.",
+            "While the latter is merely 'praying in the city of Joppa,' no place nor circumstance being named, the former sees the angel \u2018standing in his house.\u2019",
+            "Peter never names Cornelius in his speech\u2014because he, his character and person, was absorbed in the category to which he belonged,\u2014that of 'men uncircumcised.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "13. seen an angel\u2014literally,",
+            "\t\"the angel,\" for the rumor took that definite shape."
+        ],
+        "Marvin Vincent": [
+            "An angel. It has the definite article : \"the angel,\" mentioned in ch. 10."
+        ],
+        "Philip Schaff": [
+            "How he had seen an angel. The Greek distinctly requires that this should be \u2018the angel.\u2019",
+            "If an angel had appeared to \u2018this man,\u2019 this at least raised a serious question demanding very careful attention.",
+            "If the angel, too, appeared in his very house, this rendered the case much stronger."
+        ],
+        "Archibald T. Robertson": [
+            "Standing and saying, 'stand and say'...perhaps Peter is anxious to make it plain that he did not go of his own initiative...\" (Acts 11:13)",
+            "Fetch Simon...Peter went under God's direct orders.\" (Acts 11:13)",
+            "He went under God's direct orders.\" (Acts 11:13)"
+        ],
+        "John Gill": [
+            "In one place he is called a man, and in another place an angel; see Acts 10:3, because, though he was an angel, yet he appeared in the form of a man, as it was usual for angels to do...",
+            "However, he looked upon him as an extraordinary person, as sent to him from God, and therefore obeyed the heavenly vision.",
+            "The clause, 'in his house,' is very appropriately put; for since an angel had entered into his house, it could not be criminal in Peter, and the six brethren, to follow him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter is describing how he had seen the angel, emphasizing the specificity of the angel's appearance to Cornelius. The angel appeared to Cornelius in his house, while Peter was simply praying in Joppa. Interestingly, Peter does not mention Cornelius by name, but rather focuses on the fact that Cornelius belongs to the category of men uncircumcised. This highlights the significance of Peter's encounter with the angel, as it challenged his preconceived notions about Gentiles. It is clear that Peter went to Cornelius under God's direct orders, as evidenced by the angel's appearance to Cornelius and the subsequent instructions given to Peter. Ultimately, the presence of the angel in Cornelius's house confirms the divine nature of Peter's mission and the righteousness of his obedience.",
+            "wordCount": 129,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.9572744382423881,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.42,
+            "commentatorTierSimilarities": [
+                28.02,
+                31.77,
+                40.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter recounts how he witnessed the angel appearing to Cornelius, emphasizing the specificity and credibility of the heavenly encounter. The angel's visit to Cornelius' house carries weight, contrasting with Peter's location in Joppa while praying. Notably, Peter doesn't mention Cornelius directly but rather highlights the distinction of men uncircumcised. This signifies the transformative impact of Peter's encounter, challenging his preconceived notions. Peter's obedience to God's direct orders is apparent, as shown through the angel's appearance and subsequent instructions, affirming the divine nature of his mission.",
+            "wordCount": 92,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.6341991519256822,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+            "commentatorTierSimilarities": [
+                30.34,
+                29.68,
+                39.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter tells of seeing the angel appear to Cornelius, highlighting the specificity and significance of this encounter. Notably, the angel appeared in Cornelius' house, while Peter was merely praying in Joppa. Peter doesn't mention Cornelius by name but instead focuses on the distinction of men uncircumcised. This indicates that Peter's understanding of Cornelius' character and person was absorbed into the broader category. Peter's obedience to God's direct orders is evident, as he follows the instructions given through the angel's visit to Cornelius.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7372141067161788,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                30.31,
+                29.18,
+                40.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While recounting his encounter, Peter emphasizes the specificity of Cornelius' experience with the angel, which occurred in Cornelius' house rather than the location where Peter was praying. Intriguingly, Peter does not directly mention Cornelius by name, focusing instead on the broader category of men uncircumcised. This suggests that Peter's understanding of Cornelius was absorbed into this greater category. Peter's obedience to God's direct instructions is evident, illustrating that his visit to Cornelius was not of his own initiative but under God's divine guidance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5381524231836226,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                31.76,
+                24.64,
+                43.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter recalls witnessing the angel appearing to Cornelius, highlighting the specificity and credibility of this divine encounter. The angel's presence in Cornelius' house contrasts with Peter's location in Joppa as he prayed. Notably, Peter refrains from mentioning Cornelius by name, as his focus was on the broader category of men uncircumcised. This indicates that Peter's understanding of Cornelius was absorbed into this larger group. It is evident that Peter's visit to Cornelius was made under God's direct orders, as seen through the appearance of the angel and Peter's obedience to divine instruction.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.697024344306781,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.77,
+            "commentatorTierSimilarities": [
+                30.14,
+                30.8,
+                39.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

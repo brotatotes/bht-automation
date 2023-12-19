@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:36:45",
+    "verseRef": "Acts 26:22",
+    "bestBHT": {
+        "bht": "Having obtained help from God, Paul continues to witness to the Gospel, his life marvelously preserved and upheld for its sake. God is Paul's ally, providing stability and fidelity in his ministry. Paul preaches the Gospel to both the poor and the rich, relying on God's protection in the face of adversity. His reliance on the words of the inspired prophets and Moses, without the need for additional traditions, is a testament to his commitment. Through God's help, Paul fulfills his calling, overcoming obstacles and fulfilling God's promises.",
+        "wordCount": 92,
+        "quoteTokenProportion": 26.32,
+        "qualityScore": 1.720787644151393,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+        "commentatorTierSimilarities": [
+            25.61,
+            40.9,
+            33.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "having obtained help from God.",
+            "I continue unto this day, witnessing.",
+            "This life of mine, so marvelously preserved... is upheld for the Gospel's sake."
+        ],
+        "Albert Barnes": [
+            "...he traced his safety entirely to the help of God... those who have been delivered from danger... will feel that whatever wisdom they may have had, or whatever may have been the kindness of their friends to them, yet that all this also is to be traced to the superintending providence of God.",
+            "Like his Master, he did not despise them [the poor, the ignorant, and the obscure], but regarded it as his duty and privilege to preach the gospel to them.",
+            "He passed by none because they were poor; and he was not deterred by the fear of the rich and the great from making known their sins and calling them to repentance. What an admirable illustration of the proper duties of a minister of the gospel!"
+        ],
+        "Marvin Vincent": [
+            "Help of God [\u03b5\u03c0\u03b9\u03ba\u03bf\u03c5\u03c1\u03b9\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5] . Lit., 'help that is from God.'\" ",
+            "The article defines the nature of the help more sharply than A.V.",
+            "The word for help originally meant alliance."
+        ],
+        "Philip Schaff": [
+            "Never without Divine protection had he stood alive before that brilliant court and King Agrippa.",
+            "To win this prize of our high calling all stand equally well the learned and unlearned, high-born and low-born, bond and free, rich and poor.",
+            "Paul in his argument used none of the traditions and expository additions which had long been growing round the law and the prophets, but simply for his grand purpose quoted the words of the old inspired men, and they were enough."
+        ],
+        "Archibald T. Robertson": [
+            "God is Paul's ally.\" ",
+            "Picturesque word of Paul's stability and fidelity.",
+            "Saying nothing outside of those things which."
+        ],
+        "John Gill": [
+            "I continue unto this day: in the land of the living, though in bonds.\" ",
+            "Witnessing both to small and great; to kings and subjects, ... to high and low, rich and poor, bond and free, male and female, young and old; to persons of every state, age, and sex.\" ",
+            "Saying none other things than those which the prophets and Moses did say should come."
+        ],
+        "John Wesley": [
+            "Having obtained help from God \u2014 When all other help failed, God sent the Romans from the castle, and so fulfilled the promise he had made, Acts 26:17."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With the help of God, Paul continues to bear witness to the Gospel, his life marvelously preserved and upheld for its sake. God is Paul's faithful ally, providing him with strength and stability amidst challenges. In his ministry, Paul does not discriminate, faithfully preaching the Gospel to both the poor and the rich. His reliance on God's protection is evident, as he stands alive before the court and King Agrippa. He remains steadfast in his commitment to proclaiming the truth, quoting the words of the inspired prophets and Moses without relying on additional traditions. Through God's help, Paul has overcome obstacles and fulfilled his calling.",
+            "wordCount": 108,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.6268191969361856,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.43,
+            "commentatorTierSimilarities": [
+                23.35,
+                45.07,
+                31.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With the help of God, Paul continues to witness and his life is marvelously preserved for the sake of the Gospel. God is his faithful ally, providing stability and fidelity. Paul preaches the Gospel to all, disregarding social status, and relying on God's protection in the face of adversity. His ministry stands on the words of the inspired prophets and Moses, without the need for added traditions. Through God's help, Paul fulfills his calling and overcomes obstacles.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.0,
+            "qualityScore": 1.6122939553290423,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                26.42,
+                42.0,
+                31.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With the help of God, Paul continues to witness, his life marvelously preserved for the sake of the Gospel. God is Paul's faithful ally, providing stability and fidelity. Paul preaches the Gospel to rich and poor alike, relying on God's protection in the face of adversity. His ministry stands on the words of the inspired prophets and Moses, without added traditions. Through God's help, Paul fulfills his calling, overcoming obstacles and fulfilling the promise made to him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.6473783786937581,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.12,
+            "commentatorTierSimilarities": [
+                27.43,
+                40.74,
+                31.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Having obtained help from God, Paul continues to witness to the Gospel, his life marvelously preserved and upheld for its sake. God is Paul's ally, providing stability and fidelity in his ministry. Paul preaches the Gospel to both the poor and the rich, relying on God's protection in the face of adversity. His reliance on the words of the inspired prophets and Moses, without the need for additional traditions, is a testament to his commitment. Through God's help, Paul fulfills his calling, overcoming obstacles and fulfilling God's promises.",
+            "wordCount": 92,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.720787644151393,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                25.61,
+                40.9,
+                33.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With the help of God, Paul continues to witness, his life marvelously preserved for the Gospel's sake. God is Paul's faithful ally, providing stability and fidelity. Paul preaches to both the poor and the rich, relying on God's protection in the face of adversity. His ministry stands on the words of the prophets and Moses, without additional traditions. Through God's help, Paul fulfills his calling, overcoming obstacles and fulfilling promises.",
+            "wordCount": 74,
+            "quoteTokenProportion": 26.53,
+            "qualityScore": 1.6535451664673748,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                27.93,
+                38.87,
+                33.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

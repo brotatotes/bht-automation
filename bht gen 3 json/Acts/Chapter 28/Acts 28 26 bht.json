@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:37:47",
+    "verseRef": "Acts 28:26",
+    "bestBHT": {
+        "bht": "Hearing, ye shall hear and not understand, a solemn dirge of the doom of the Jews for their rejection of the Messiah, as foreseen by Isaiah. This prophecy was fulfilled in Paul's time, as it had been in the prophet's days, and has been evident throughout the history of the Christian centuries. The Gospel, though a great blessing, can be an aggravation of condemnation if heard but not understood. It is only through the work of the Holy Spirit that hearts can be opened to the truth.",
+        "wordCount": 89,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 1.7656069666681269,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+        "commentatorTierSimilarities": [
+            29.18,
+            38.86,
+            31.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Go, and say, is referred to himself, in his application of the prophecy.",
+            "These words are not cited by our Lord.",
+            "These words are not cited by our Lord (Matt. xiii. as above)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "With what pain would this stern saying be wrung from him whose 'heart's desire and prayer to God for Israel was that they might be saved.'",
+            "Hearing, ye shall hear, c.\" ",
+            "And who 'had great heaviness and continual sorrow in his heart' on their account."
+        ],
+        "John Calvin": [
+            "Therefore, the sum is, that that was fulfilled which was foretold by the prophet, and that, therefore, there is no cause why the reprobate should flatter themselves, or that the faithful should be terrified, as it were, with some new unwonted thing.",
+            "Now, Paul calleth to mind that which the prophet did testify concerning the Jews, lest any man wonder at their blindness.",
+            "In the conclusion, we must note the wholesome effect of the Word of God; namely, the conversion of men, which is not only the beginning of health, but also a certain resurrection from death to life."
+        ],
+        "Philip Schaff": [
+            "Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive.\" ",
+            "The terrible prediction was first fulfilled to the letter in the prophet\u2019s own days.",
+            "The story of the eighteen Christian centuries...tells the nations of the world how the prophecy of the Holy Ghost has been carried out."
+        ],
+        "Archibald T. Robertson": [
+            "The quotation is from Isaiah 6:9; Isaiah 6:10.",
+            "This very passage is quoted by Jesus (Matthew 13:14; Matthew 13:15; Mark 4:12; Luke 8:10) in explanation of his use of parables and in John 12:40 the very point made by Paul here.",
+            "It is a solemn dirge of the doom of the Jews for their rejection of the Messiah foreseen so long ago by Isaiah."
+        ],
+        "John Gill": [
+            "To have an opportunity of hearing the Gospel, is a great blessing; seeing it is good news, glad tidings of good things, a joyful sound, and the voice of Christ himself.",
+            "When it is heard and not understood, it is an awful dispensation; for hence either they content themselves with bare hearing, and depend upon it for salvation; or they despise and speak evil of what they do not understand; and so their hearing, instead of being a blessing, is an aggravation of their condemnation.",
+            "The Gospel preached in the clearest and most powerful manner, and even miracles wrought in confirmation of it, are insufficient for conversion; and nothing will effect it, but efficacious grace."
+        ],
+        "John Wesley": [
+            "Hearing ye shall hear \u2014 That is, ye shall most surely hear, and shall not understand.\" ",
+            "The words manifestly denote a judicial blindness, consequent upon a wilful and obstinate resistance of the truth.",
+            "First they would not, afterward they could not, believe."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hearing, ye shall hear and not understand, a solemn dirge of the doom of the Jews for their rejection of the Messiah, as foreseen by Isaiah. This prophecy was fulfilled in Paul's time, as it had been in the prophet's days, and has been evident throughout the history of the Christian centuries. It serves as a reminder of the blindness of the Jews and the need for efficacious grace for true conversion. The Gospel, though a great blessing, can be an aggravation of condemnation if heard but not understood. It is only through the work of the Holy Spirit that hearts can be opened to the truth.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.7099596079225392,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                28.97,
+                36.7,
+                34.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hearing, ye shall hear and not understand, a solemn dirge of the doom of the Jews for their rejection of the Messiah, as foreseen by Isaiah. This prophecy was fulfilled in Paul's time, as it had been in the prophet's days, and has been evident throughout the history of the Christian centuries. The Gospel, though a great blessing, can be an aggravation of condemnation if heard but not understood. It is only through the work of the Holy Spirit that hearts can be opened to the truth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.7656069666681269,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                29.18,
+                38.86,
+                31.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Hearing, ye shall hear but not understand, is a solemn dirge foretelling the doom of the Jews for rejecting the Messiah, echoing Isaiah's prophecy. This passage highlights the blindness of the Jews and the need for efficacious grace for true conversion. The Gospel, a great blessing, can aggravate condemnation if heard without comprehension. Only through the work of the Holy Spirit can hearts be opened to discern the truth. The fulfillment of this prophecy in Paul's time and throughout Christian history serves as a reminder of divine judgment and the necessity of faith.",
+            "wordCount": 95,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 1.6956166861652446,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+            "commentatorTierSimilarities": [
+                28.82,
+                36.43,
+                34.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Hearing, ye shall hear but not understand, is a solemn dirge foretelling the doom of the Jews for rejecting the Messiah. This prophecy, echoed from Isaiah, emphasizes the vital need for efficacious grace and true conversion. The Gospel, although a great blessing, becomes an aggravation of condemnation if heard without comprehension. It is solely through the work of the Holy Spirit that hearts can be opened to discern and internalize the truth. The fulfillment of this prophecy in Paul's time and throughout Christian history serves as a purposeful reminder of divine judgment and the necessity of faith.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.740841432173144,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                29.08,
+                37.49,
+                33.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The solemn dirge Hearing, ye shall hear, and not understand echoes Isaiah's prophecy and reveals the impending doom of the Jews, who rejected the Messiah. This passage emphasizes the importance of efficacious grace and true conversion, highlighting that the Gospel, a great blessing, can exacerbate condemnation if not comprehended. Only through the work of the Holy Spirit can hearts be opened to perceive and embrace the truth. The fulfillment of this prophecy during Paul's time and throughout Christian history serves as a stark reminder of divine judgment and the necessity of genuine faith.",
+            "wordCount": 95,
+            "quoteTokenProportion": 24.64,
+            "qualityScore": 1.7234636533410246,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                28.23,
+                37.41,
+                34.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

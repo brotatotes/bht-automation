@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:20:55",
+    "verseRef": "Luke 16:26",
+    "bestBHT": {
+        "bht": "Jesus' words in this portion of Scripture illustrate a significant and unbridgeable gap that exists between the righteous and the wicked. God's decree has established this permanent chasm, an impassable gulf, to prevent any communication or interaction between the two realms. The term used to describe the gulf emphasizes its vastness and unyielding nature. This concept refutes the idea of universal restoration and underscores the irreversible nature of the afterlife. It serves as a solemn reminder to make wise choices in this life, recognizing the impossibility of crossing over once the divide is fixed.",
+        "wordCount": 95,
+        "quoteTokenProportion": 31.43,
+        "qualityScore": 1.6299677253594917,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.54,
+        "commentatorTierSimilarities": [
+            28.98,
+            37.18,
+            33.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Even if it were not so,\u2014however, and for whatsoever reason, God\u2019s decree hath placed thee there,\u2014thy wish is impossible.\" ",
+            "In the graphic description, a yawning chasm impassable.\" ",
+            "This expression precludes all idea that the following verse indicates the beginning of a better mind in the rich man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Besides all this\u2014independently of this consideration.",
+            "A great gulf fixed\u2014By an irrevocable decree there has been placed a vast impassable abyss between the two states, and the occupants of each."
+        ],
+        "Albert Barnes": [
+            "The word translated 'gulf' means chasm, or the broad, yawning space between two elevated objects. In this place it means that there is no way of passing from one to the other.",
+            "It is impossible to conceive that the righteous would desire to leave their abodes in glory to go and dwell in the world of woe; nor can we suppose that they would wish to go for any reason unless it were possible to furnish relief.",
+            "How, in the face of the solemn statement of the Saviour here, can people believe that there will be a 'restoration' of all the wicked to heaven? He solemnly assures us that there can be no passage from that world of woe to the abodes of the blessed."
+        ],
+        "John Calvin": [
+            "A vast gulf lieth. These words describe the permanency of the future state, and denote, that the boundaries which separate the reprobate from the elect can never be broken through.",
+            "And thus we are reminded to return early to the path, while there is yet time, lest we rush headlong into that abyss, from which it will be impossible to rise.",
+            "The words must not be strictly interpreted, when it is said, that no one is permitted to pass who would wish to descend from heaven to hell; for it is certain, that none of the righteous entertain any such desire."
+        ],
+        "Philip Schaff": [
+            "God has immutably decreed otherwise: there is a great gulf fixed. The figure is that of an unfathomable abyss which cannot be spanned.",
+            "Here our Lord reveals what was unknown to the popular mind of that time.",
+            "Purgatory and repentance after death find no support here."
+        ],
+        "Archibald T. Robertson": [
+            "Gulf (\u03c7\u03b1\u03c3\u03bc\u03b1). An old word from \u03c7\u03b1\u03b9\u03bd\u03c9, to yawn, our chasm, a gaping opening. Only here in the N.T.",
+            "Is fixed (\u03b5\u03c3\u03c4\u03b7\u03c1\u03b9\u03ba\u03c4\u03b1). Perfect passive indicative of \u03c3\u03c4\u03b7\u03c1\u03b9\u03b6\u03c9, old verb (see on Luke 9:51). Permanent chasm.",
+            "The chasm is there on purpose ( that not , \u03bf\u03c0\u03c9\u03c2 \u03bc\u03b7) to prevent communication."
+        ],
+        "John Gill": [
+            "Between us and you there is a great gulf fixed...the sense is, that by this irrevocable decree of God, the saints in heaven are eternally happy, and the wicked in hell eternally miserable...",
+            "...the impossibility of Christ's coming again upon the same errand he came on before, to be a Saviour of sinners, and a sacrifice for sin; and of the Jews believing in him...",
+            "...so long as they lie under the spirit of slumber, and are given up to judicial blindness and hardness of heart."
+        ],
+        "John Wesley": [
+            "Beside this there is a great gulf fixed \u2014 Reader, to which side of it wilt thou go?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 16:26, Jesus describes an impassable chasm that separates the righteous from the wicked in the afterlife. This fixed gulf, decreed by God, signifies the permanent separation between the two states. The word used for gulf conveys the image of a gaping, yawning opening, emphasizing the impossibility of passage from one side to the other. Some have suggested the idea of restoration for all the wicked, but Jesus explicitly refutes this, affirming the unbridgeable divide. The chasm serves as a reminder of the irrevocable nature of the future state and highlights the importance of staying on the right path while there is still time.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.6792829423770086,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.18,
+            "commentatorTierSimilarities": [
+                28.27,
+                37.32,
+                34.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Jesus speaks of an insurmountable divide, an unbridgeable chasm that separates the righteous from the wicked. This great gulf, set in place by God's unchanging decree, depicts an impassable barrier between the two realms. The term used for gulf describes a wide, expansive opening, emphasizing the impossibility of any communication. It refutes the notion of restoration for all the wicked, affirming the permanency of their separation. This fixed gulf serves as a reminder of the irrevocable nature of the afterlife, urging us to choose our path wisely.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.7303235764671991,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.88,
+            "commentatorTierSimilarities": [
+                27.81,
+                36.82,
+                35.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, Jesus vividly depicts an unbridgeable divide, an immovable gulf that separates the righteous from the wicked. This permanent chasm, established by God's decree, represents a vast and impassable abyss. It serves as a stark reminder that there can be no communication or interaction between these two realms. The idea of restoration for all the wicked is firmly refuted, underscoring the eternal separation between heaven and hell. This fixed gulf reinforces the unchanging and irrevocable nature of the afterlife, urging us to choose our path wisely.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.7241566502875076,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                27.26,
+                37.56,
+                35.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' words in this portion of Scripture illustrate a significant and unbridgeable gap that exists between the righteous and the wicked. God's decree has established this permanent chasm, an impassable gulf, to prevent any communication or interaction between the two realms. The term used to describe the gulf emphasizes its vastness and unyielding nature. This concept refutes the idea of universal restoration and underscores the irreversible nature of the afterlife. It serves as a solemn reminder to make wise choices in this life, recognizing the impossibility of crossing over once the divide is fixed.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.6299677253594917,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.54,
+            "commentatorTierSimilarities": [
+                28.98,
+                37.18,
+                33.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' depiction of the unbridgeable gulf in this verse portrays a permanent separation between the righteous and the wicked. The term gulf refers to a wide and yawning chasm that cannot be crossed. God's decree has established this impassable gulf to prevent any communication or passage from one realm to the other. It refutes the notion of restoration for all and emphasizes the irreversible nature of the afterlife. This fixed gulf serves as a powerful reminder to choose the right path in this life, understanding the impossibility of crossing over once the divide is established.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.7313066853574752,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.91,
+            "commentatorTierSimilarities": [
+                27.89,
+                37.29,
+                34.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

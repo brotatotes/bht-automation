@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:13:36",
+    "verseRef": "1 Corinthians 15:3",
+    "bestBHT": {
+        "bht": "I delivered unto you first of all as being of primary importance that which I also received by immediate revelation: Christ died for our sins according to the scriptures. This doctrine of a crucified Savior, fully and faithfully delivered to the Corinthians, is the foundation of the faith. Before his conversion, Paul knew the fact of Jesus' death, but it was through revelation that he understood the nature and reason of that death. The atonement is of utmost importance to Paul, with the belief in the resurrection being informed by revelation and Scripture.",
+        "wordCount": 93,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.3608454849575526,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.84,
+        "commentatorTierSimilarities": [
+            31.31,
+            41.22,
+            27.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In relation, not to order of time, but to importance; this being, as Theophylact observes, as it were the foundation of the whole faith.",
+            "Before his conversion he may have known the bare fact of the Death of Jesus, but the nature and reason of that Death he had to learn from revelation.",
+            "the Resurrection he regarded as a fable,\u2014but revelation informed him of its reality, and its accordance with prophecy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The atonement is, in Paul's view, of primary importance.\" ",
+            "The 'for' here does not, as in some passages, imply vicarious substitution, but 'in behalf of.'",
+            "Paul puts the testimony of Scripture above that of those who saw the Lord after His resurrection."
+        ],
+        "Albert Barnes": [
+            "This passage is full proof that Christ did not die merely as a martyr, but that his death was to make atonement for sin.",
+            "That he died as an atoning sacrifice, or as a vicarious offering, is here declared by Paul to be among the 'first' things that he taught; and the grand fundamental truth on which the church at Corinth had been founded, and by which it had been established, and by which they would be saved.",
+            "It follows that there can be no true church, and no wellfounded hope of salvation, where the doctrine is not held that Christ died for sin."
+        ],
+        "Marvin Vincent": [
+            "Vers. 1 - 11 contain the earliest known specimen of what may be called the creed of the early Church.\" ",
+            "Differing, indeed, from what is properly called a creed, in being rather a sample of the exact form of the apostle's early teaching.\" ",
+            "Than a profession of faith on the part of converts."
+        ],
+        "John Calvin": [
+            "First of all, says he, as it is wont to be with a foundation in the erecting of a house.",
+            "He has, therefore, died with us that we may rise with him.",
+            "This distinction must be carefully observed, that we may know what we must look for from the death of Christ, and what from his resurrection."
+        ],
+        "Philip Schaff": [
+            "For I delivered unto you first of all as being of primary importance (not \u2018first\u2019 in point of time) that which I also received by immediate revelation how that Christ died for our sins according to the scriptures.\" [1]",
+            "Four Greek prepositions are used in the New Testament to express the relation of Christ\u2019s death to men as sinners, or to sin itself: (1)\u2019instead of\u2019 (\u03ac\u03bd\u03c4\u03af), Matthew 20:28; (2) \u2018on behalf of\u2019 [\u03cd\u03c0\u03af\u03c1], Luke 22:19-20, and here; (3) \u2018on account of\u2019 [\u03b4\u03b9 \u1f70] with the accus. propter), Romans 4:25; (4) \u2018about,\u2019 \u2018on the business of\u2019 [\u03c0\u03b5\u03c1\u03af], Romans 8:3.\" [1]",
+            "The English word 'for' expresses what is common to all these shades of meaning; but that which marks the distinction between them could only be expressed in English by a clumsy circumlocution.\" [1]"
+        ],
+        "Archibald T. Robertson": [
+            "Among first things. In primis. Not to time, but to importance.",
+            "Historical fact and crucial event.",
+            "As Jesus showed and as Peter pointed out and as Paul had done."
+        ],
+        "John Gill": [
+            "This doctrine of a crucified Saviour, which he at first determined only to make known among them, and did make known, was what he fully and faithfully delivered to them.",
+            "Whatever they have received they should deliver, and nothing else.",
+            "Every promise, type, and prophecy recorded in the law, in the prophets, and in the psalms, concerning his sufferings and death, had their fulfilment in him."
+        ],
+        "John Wesley": [
+            "I received \u2014 From Christ himself. It was not a fiction of my own. Isaiah 53:8,9."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I delivered unto you first of all as being of primary importance that which I also received by immediate revelation: Christ died for our sins according to the scriptures. This doctrine of a crucified Savior, fully and faithfully delivered to the Corinthians, is the foundation of the faith. Before his conversion, Paul knew the fact of Jesus' death, but it was through revelation that he understood the nature and reason of that death. The atonement is of utmost importance to Paul, with the belief in the resurrection being informed by revelation and Scripture. This early teaching serves as a creed for the early Church, emphasizing the historical fact and crucial event of Jesus' death and resurrection.",
+            "wordCount": 116,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.331015169683101,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.85,
+            "commentatorTierSimilarities": [
+                32.79,
+                41.15,
+                26.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I delivered unto you first of all as being of primary importance that which I also received by immediate revelation: Christ died for our sins according to the scriptures. This doctrine of a crucified Savior, fully and faithfully delivered to the Corinthians, is the foundation of the faith. Before his conversion, Paul knew the fact of Jesus' death, but it was through revelation that he understood the nature and reason of that death. The atonement is of utmost importance to Paul, with the belief in the resurrection being informed by revelation and Scripture.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.3608454849575526,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.84,
+            "commentatorTierSimilarities": [
+                31.31,
+                41.22,
+                27.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 1 Corinthians 15:3, Paul emphasizes the primary importance of the crucifixion and atonement of Christ for our sins. He received this doctrine through immediate revelation and delivered it faithfully to the Corinthians. Prior to his conversion, Paul may have known the bare fact of Jesus' death, but it was through revelation that he grasped the true nature and purpose of that death. The resurrection is also highlighted as a reality affirmed by Scripture and revelation. This early teaching serves as the foundation of the faith and an essential creed for the early Church.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.154091435087561,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.96,
+            "commentatorTierSimilarities": [
+                33.99,
+                40.13,
+                25.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crucifixion and atonement of Christ for our sins according to the scriptures are of primary importance. Paul received this doctrine through immediate revelation, emphasizing its significance in the foundation of the faith. Before his conversion, Paul knew the bare fact of Jesus' death, but through revelation, he understood its nature and purpose. The resurrection, affirmed by Scripture and revelation, is crucial. This early teaching serves as a creed for the early Church, highlighting the historical fact and crucial event of Jesus' death and resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2320060281856717,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.55,
+            "commentatorTierSimilarities": [
+                35.96,
+                39.23,
+                24.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The foundation of the faith lies in the crucifixion and atonement of Christ for our sins, an essential doctrine revealed to Paul. Before his conversion, Paul was aware of Jesus' death but needed revelation to comprehend its nature and purpose. The resurrection, supported by Scripture and revelation, is crucial. This early teaching serves as a creed, emphasizing the historical fact and significant event of Jesus' death and resurrection, providing the basis for the faith of the early Church.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.273863560751579,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.95,
+            "commentatorTierSimilarities": [
+                35.48,
+                40.19,
+                24.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

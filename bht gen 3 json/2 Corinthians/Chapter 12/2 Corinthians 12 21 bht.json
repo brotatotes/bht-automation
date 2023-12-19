@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:19:03",
+    "verseRef": "2 Corinthians 12:21",
+    "bestBHT": {
+        "bht": "The apostle Paul's heart was deeply connected to the success of his preaching, finding joy in its prosperity but becoming sorrowful at the thought of laboring in vain. He expressed this genuine shepherd's concern, mourning for the sins of others as if they were his own. Filled with a true pastor's sorrow, Paul longed for his people to repent and turn away from the continuity of their sinful behavior. The possibility of a public humiliation further added to his fear, as he yearned for the church to be free from the unclean and immoral practices that plagued them. This heartfelt concern for the spiritual well-being of his congregation demonstrates the profound effect their conduct had on the apostle, causing him to lament their falls and bewail their regression into sins that they had already been delivered from.",
+        "wordCount": 141,
+        "quoteTokenProportion": 38.3,
+        "qualityScore": 2.201300387977933,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.53,
+        "commentatorTierSimilarities": [
+            30.46,
+            40.36,
+            29.17
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There was nothing in which the Apostle more exulted than in the prosperous success of his preaching: nothing on the other hand by which he was made more sad and downcast than when he saw that he had laboured in vain.\" ",
+            "my GOD expresses the conviction that whatever humiliation God might have in store for him would be a part of His will respecting him.",
+            "He shews the feeling of a true and genuine shepherd, when he says that he should have to grieve for the sins of others. Every shepherd ought thus to carry the church in his own soul, be affected by its diseases as by his own, grieve at its sorrows, mourn for its loss."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The faithful pastor is 'humbled' at, and 'bewails' the falls of his people, as though they were his own.",
+            "Shall not have repented.",
+            "Uncleanness\u2014for example, of married persons; fornication\u2014among the unmarried."
+        ],
+        "Albert Barnes": [
+            "The infliction of punishment on members of the church is a sort of punishment to him who inflicts it as well as to him who is punished.",
+            "If they continued in their sin until he came, it would be to him a source of deep lamentation.",
+            "It may be added that it is still the sin to which converts from the corruptions and licentiousness of paganism are particularly exposed."
+        ],
+        "Marvin Vincent": [
+            "In my relation to you.",
+            "Lament with a true pastor's sorrow over the sin.",
+            "The perfect tense denotes the continuance of the sin."
+        ],
+        "John Calvin": [
+            "Let them, then, give me no occasion of abasement: nay more, let them, on the contrary, laying aside their forwardness, begin to feel shame; and let them, confounded at their iniquities, prostrate themselves on the ground, instead of looking down upon others with disdain.",
+            "He lets us know the disposition of a true and genuine Pastor...that he will look upon the sins of others with grief.",
+            "It is, indeed, a thing that is common to all the pious, to be grieved in every case in which God is offended, and to bewail the ruin of brethren, and present themselves before God in their room as in a manner guilty, but it is more particularly requisite on the part of Pastors."
+        ],
+        "Philip Schaff": [
+            "So bound up was his comfort in this and all his churches with their spiritual prosperity, that the prospect of finding the church which of all others lay most at his heart in the deplorable condition here described, sickened him at the thought of it, and held out to him only humiliation, in place of delight, in visiting them.\" ",
+            "I should mourn for many of them that have sinned heretofore falling back into those pollutions from which they had been delivered.\" ",
+            "Missionaries who have been the happy instruments of rescuing sensual heathens from such vices as these, but find to their grief the same tendency, after a time, to return upon them, can best enter into the apostle\u2019s feelings as here expressed, and will be the best expositors of them."
+        ],
+        "Archibald T. Robertson": [
+            "He means a public humiliation as his fear.",
+            "The conduct of the church had been a real humiliation whether he refers to a previous visit or not.",
+            "Genitive plural of the articular perfect active participle of \u03c0\u03c1\u03bf\u03b1\u03bc\u03b1\u03c1\u03c4\u03b1\u03bd\u03c9 to emphasize continuance of their sinful state as opposed to \u03bc\u03b7 \u03bc\u03b5\u03c4\u03b1\u03bd\u03bf\u03b7\u03c3\u03b1\u03bd\u03c4\u03c9\u03bd (did not repent) in the aorist tense."
+        ],
+        "John Gill": [
+            "Another thing which he feared would be the case when he came again to them, that he himself should be afflicted and distressed, seeing them in a disorderly and dissolute course of life, be obliged to punish them, which would be an humiliation and matter of grief to him.",
+            "Instead of rejoicing in the fruit of his labours, that they were not in vain, he signifies that he should have great sorrow of heart...inasmuch as he had boasted of them to others, he should be ashamed.",
+            "Nothing was more grieving, and occasioned more sorrow and humiliation to the apostle, than the unbecoming walk of professors; and nothing more sensibly affects a faithful minister of the Gospel."
+        ],
+        "John Wesley": [
+            "Who had sinned before \u2014 My last coming to Corinth.",
+            "Uncleanness \u2014 Of married persons.",
+            "Lasciviousness \u2014 Against nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul's heart was deeply connected to the success of his preaching, finding joy in its prosperity but becoming sorrowful at the thought of laboring in vain. He expressed this genuine shepherd's concern, mourning for the sins of others as if they were his own. Filled with a true pastor's sorrow, Paul longed for his people to repent and turn away from the continuity of their sinful behavior. The possibility of a public humiliation further added to his fear, as he yearned for the church to be free from the unclean and immoral practices that plagued them. This heartfelt concern for the spiritual well-being of his congregation demonstrates the profound effect their conduct had on the apostle, causing him to lament their falls and bewail their regression into sins that they had already been delivered from.",
+            "wordCount": 141,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 2.201300387977933,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.53,
+            "commentatorTierSimilarities": [
+                30.46,
+                40.36,
+                29.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul cherished the success of his preaching, finding deep sorrow when his efforts seemed in vain. As a true shepherd, he carried the church in his own soul, grieving for their sins as his own. He longed for his people to repent and turn away from their continuous sinful behavior. His fear was that he would have to publicly confront their immorality and experience humiliation. Paul's profound concern for the church's spiritual well-being reflects the weight that their conduct had on him, leading him to lament their falls and bewail their regression into sins that they had already been delivered from.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1138366470668806,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.63,
+            "commentatorTierSimilarities": [
+                32.13,
+                40.23,
+                27.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle Paul found immense joy in the prosperous success of his preaching but was deeply saddened when his labor seemed in vain. As a true shepherd, he carried the church in his own soul, grieving for their sins as though they were his own. He longed for his people to repent and turn away from their continuous sinful behavior. The possibility of a public humiliation added to his fear as he yearned for the church to be free from unclean and immoral practices. The apostle's heartfelt concern for the spiritual well-being of his congregation was evident in his lamentation over their falls and his grief at their regression into sins they had already been delivered from.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.66,
+            "qualityScore": 2.125341313236545,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+            "commentatorTierSimilarities": [
+                32.14,
+                39.96,
+                27.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul found great joy in the success of his preaching, but he was equally saddened when he saw his labor being in vain. He carried the church in his heart, grieving for their sins as if they were his own. Paul longed for the church to repent and turn away from their continuous sinful behavior. The thought of a potential public humiliation worried him, as he desired the church to be free from unclean and immoral practices. His deep concern for the spiritual well-being of his congregation led him to lament their falls and mourn their regression into sins they had already been delivered from.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 2.129495676479216,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.15,
+            "commentatorTierSimilarities": [
+                30.95,
+                41.45,
+                27.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul found his greatest joy in the success of his preaching, and his spirits were deeply burdened when his labor seemed to be in vain. As a true shepherd, he carried the church in his own soul, grieving for their sins as if they were his own. He longed for his people to repent and turn away from their continuous sinful behavior. The possibility of a public humiliation troubled him, as he yearned for the church to be free from unclean and immoral practices. Paul's sincere concern for the spiritual well-being of his congregation was evident in his lamentation over their falls and his grief at their regression into sins they had already been delivered from.",
+            "wordCount": 120,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 2.1448269927978645,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.66,
+            "commentatorTierSimilarities": [
+                31.36,
+                40.65,
+                27.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

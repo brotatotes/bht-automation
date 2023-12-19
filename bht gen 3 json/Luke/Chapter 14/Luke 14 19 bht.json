@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:19:49",
+    "verseRef": "Luke 14:19",
+    "bestBHT": {
+        "bht": "The excuses given in declining the invitation expose a lack of true commitment, as the individual prioritizes their own plans over accepting the call. This reveals the danger of being complacent in faith, merely hoping for a positive outcome without actively living a godly life. The rejection also signifies the mindset of those who prioritize worldly pursuits over spiritual matters. However, the feast will not lack guests, while those who refuse the invitation will be denied a taste of it.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.5568153954464705,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+        "commentatorTierSimilarities": [
+            33.47,
+            41.43,
+            25.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the second not so much as this, only his own plan and purpose\u2014 \u201cI go to prove them:\u201dthe second his purchase ( \u2018another to his merchandise,\u2019 ibid.) of stock to prove:"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The great Feast is prepared already the invitations are issued, but declined; the feast, notwithstanding, shall not want abundance of guests; but not one of its present contemners\u2014who shall yet come to sue for admission\u2014shall be allowed to taste of it.",
+            "This shows what was lacking in the seemingly pious exclamation of this man. It was Balaam's, 'Let me die the death of the righteous, and let my last end be like his,' without any anxiety about living his life; fondly wishing that all were right with him at last, while all heedless of the precious present.",
+            "The invitations are issued, but declined; the feast, notwithstanding, shall not want abundance of guests."
+        ],
+        "Albert Barnes": [
+            "It is worthy of remark that this excuse was very trifling.",
+            "His whole conduct shows that he was more disposed to gratify 'himself' than to accept the invitation of his friend.",
+            "He was selfish; just as all sinners are, who, to gratify their own worldliness and sins, refuse to accept the offers of the gospel."
+        ],
+        "Philip Schaff": [
+            "He does not plead necessity; he was going to prove them, had started as it were, and preferred not to alter his plan.",
+            "One so pressed with business, that he thinks he cannot find time to attend to a higher obligation which he still acknowledges.",
+            "One so interested in his worldly plans that he will not relinquish them, though he feels that he must excuse his conduct."
+        ],
+        "Archibald T. Robertson": [
+            "To prove them (\u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03b1 \u03b1\u03c5\u03c4\u03b1). He could have tested them before buying. The oxen would not run away or be stolen. "
+        ],
+        "John Gill": [
+            "This also being at, or near evening, was an unsuitable time to go into the field with yokes of oxen to try them, how they would draw the plough, and work in the field; the morning would have been a much more proper time.",
+            "I pray thee have me excused; to the master of the feast: this man represents also the carnal and worldly Jews, who preferred temporal things before spiritual.",
+            "The man represents the carnal and worldly Jews, who preferred temporal things before spiritual."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The excuses given in this verse reveal a lack of true commitment to the invitation. The individual's focus is on their own plans and purposes rather than wholeheartedly accepting the call. This highlights the danger of being complacent in one's faith and merely hoping for a positive outcome in the end without actively living a godly life. The rejection of the invitation also symbolizes the mindset of those who prioritize worldly pursuits over spiritual matters. Ultimately, the verse reminds us that the feast will not lack guests, but those who refuse the invitation will be denied a taste of it.",
+            "wordCount": 102,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.5591627073595027,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.18,
+            "commentatorTierSimilarities": [
+                30.46,
+                40.43,
+                29.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The excuses given in declining the invitation expose a lack of true commitment, as the individual prioritizes their own plans over accepting the call. This reveals the danger of being complacent in faith, merely hoping for a positive outcome without actively living a godly life. The rejection also signifies the mindset of those who prioritize worldly pursuits over spiritual matters. However, the feast will not lack guests, while those who refuse the invitation will be denied a taste of it.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5568153954464705,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+            "commentatorTierSimilarities": [
+                33.47,
+                41.43,
+                25.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The excuses provided in declining the invitation demonstrate a lack of genuine commitment to the call. Rather than embracing the opportunity wholeheartedly, this individual prioritizes their own plans and purposes above all else. It is a clear example of being complacent in faith, merely hoping for a positive outcome without actively living a righteous life. This rejection exposes the mindset of those who value worldly pursuits over spiritual matters. However, it's important to note that while the feast will still have an abundance of guests, those who decline the invitation will not have the privilege of participating in it.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.4183063402106224,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.5,
+            "commentatorTierSimilarities": [
+                31.71,
+                45.76,
+                22.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The excuses presented in response to the invitation reveal a lack of genuine commitment. Instead of embracing the call, the individual prioritizes personal plans and purposes. This highlights the danger of complacency in faith, hoping for a positive outcome without actively pursuing godliness. The rejection represents those who prioritize worldly pursuits over spiritual matters. Although the feast will have an abundance of guests, those who decline the invitation will be excluded from partaking in it.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.3294241470436088,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.55,
+            "commentatorTierSimilarities": [
+                30.73,
+                44.22,
+                25.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The excuses to decline the invitation expose a lack of genuine commitment. Instead of embracing the call, the individual prioritizes personal plans and purposes. This danger lies in complacency, hoping for a positive outcome without pursuing godliness. The rejection represents those who prioritize worldly pursuits over spiritual matters. Although the feast will have an abundance of guests, those who decline the invitation will be excluded from partaking in it.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.3432029942512345,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.0,
+            "commentatorTierSimilarities": [
+                31.21,
+                46.32,
+                22.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

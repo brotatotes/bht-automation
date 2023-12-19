@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:15:17",
+    "verseRef": "Luke 5:12",
+    "bestBHT": {
+        "bht": "The account in question highlights the severity of the man's leprosy, described as full of leprosy with professional accuracy. The touch of Jesus' hand led to instant healing, emphasizing the notion of uncleanness associated with the disease. Interestingly, the law viewed advanced cases of leprosy as less unclean than earlier stages. This narrative draws a parallel between leprosy and sin, underscoring that only through the blood and stripes of Christ can the disease of sin be healed and the heart be purified by the grace of faith.",
+        "wordCount": 88,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.7836329407035403,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+        "commentatorTierSimilarities": [
+            65.52,
+            0.0,
+            34.48
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "12.] fall of leprosy (a touch of medical accuracy from the beloved physician) implies the soreness of the disease."
+        ],
+        "Marvin Vincent": [
+            "The expression, full of leprosy, seems to be used here with professional accuracy.",
+            "Leprosy was known among physicians under three forms: the dull white, the clear white, and the black.",
+            "All three evangelists say cleanse instead of heal, because of the notion of uncleanness which specially attached to this malady."
+        ],
+        "Archibald T. Robertson": [
+            "Behold (\u03ba\u03b1 \u03b9\u03b4\u03bf\u03c5). Quite a Hebraistic idiom, this use of \u03ba\u03b1 after \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf (almost like \u03bf\u03c4) with \u03b9\u03b4\u03bf\u03c5 (interjection) and no verb.",
+            "The law (Leviticus 13:12) curiously treated advanced cases as less unclean than the earlier stages.",
+            "All three likewise mention the touch (\u03b7\u03c8\u03b1\u03c4\u03bf, verse Luke 5:13) of Christ's hand on the unclean leper and the instantaneous cure."
+        ],
+        "John Gill": [
+            "Between this disease and sin, there is a very great likeness.",
+            "Christ only, by his blood and stripes, heals the disease of sin, and cleanses from it.",
+            "The grace of faith, by which dealing with the blood of Christ, the heart is purified, is only meant; signified by cedar wood, for its permanency; by scarlet, for its concern with the crimson blood of Christ; by which sins, though as scarlet, are made white as wool; and by hyssop, for its being an humble and lowly grace."
+        ],
+        "John Wesley": [
+            "Matthew 8:2; Mark 1:40."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Luke 5:12 describes a man who is afflicted with leprosy, and the language used by the beloved physician suggests the severity and soreness of the disease. Leprosy was a condition associated with uncleanness, and the touch of Jesus' hand led to an instantaneous cure. The use of the phrase full of leprosy demonstrates the professional accuracy of the description. Interestingly, the law treated advanced cases of leprosy as less unclean than earlier stages. This account reminds us of the likeness between leprosy and sin, and it is through the blood and stripes of Christ that we find healing and cleansing from the disease of sin. The grace of faith allows our hearts to be purified as we come into contact with the blood of Christ.",
+            "wordCount": 124,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.7789410698200006,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.49,
+            "commentatorTierSimilarities": [
+                63.01,
+                0.0,
+                36.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The account in question depicts a man afflicted with a severe form of leprosy. The medical accuracy of the description is evident in the reference to the various forms of the disease. The mention of cleansing rather than healing emphasizes the association of leprosy with ritual uncleanness. The touch of Jesus' hand resulted in an immediate cure, demonstrating his power. The parallels between leprosy and sin highlight the need for Christ's blood and stripes to heal and cleanse us from the disease of sin.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.6199111901666163,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.2,
+            "commentatorTierSimilarities": [
+                62.57,
+                0.0,
+                37.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The account in question highlights the severity of the man's leprosy, described as full of leprosy with professional accuracy. The touch of Jesus' hand led to instant healing, emphasizing the notion of uncleanness associated with the disease. Interestingly, the law viewed advanced cases of leprosy as less unclean than earlier stages. This narrative draws a parallel between leprosy and sin, underscoring that only through the blood and stripes of Christ can the disease of sin be healed and the heart be purified by the grace of faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7836329407035403,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+            "commentatorTierSimilarities": [
+                65.52,
+                0.0,
+                34.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The account reveals the severity of the man's leprosy, labeled as full of leprosy with medical precision. The touch of Jesus' hand brought about immediate cleansing, reflecting the association between leprosy and impurity. It is interesting to note that advanced stages of leprosy were deemed less unclean than earlier phases by the law. This story draws a parallel between the disease of leprosy and the sins of humanity, emphasizing that only through the blood and stripes of Christ can we find healing and purification through the grace of faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.7525659715102055,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.61,
+            "commentatorTierSimilarities": [
+                64.16,
+                0.0,
+                35.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The description of the man with leprosy in this passage showcases the accuracy in portraying the severity of the disease, referred to as full of leprosy. The touch of Jesus' hand brought about immediate cleansing, highlighting the association of leprosy with ritual uncleanness. Fascinatingly, the law treated advanced cases of leprosy as less unclean than earlier stages. This story draws a parallel between the disease of leprosy and the disease of sin, illustrating that only through the blood and stripes of Christ can we find healing and purification through the grace of faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.835158437164139,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                65.82,
+                0.0,
+                34.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

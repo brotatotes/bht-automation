@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:31:25",
+    "verseRef": "Acts 14:19",
+    "bestBHT": {
+        "bht": "The fickle and untrustworthy Lycaonians initially admired and almost worshipped Paul and Barnabas, but their admiration swiftly turned to rage and fury. The arrival of enemies seeking to thwart Paul's success only further fueled the intense animosity. This incident reveals the instability of popular favor, particularly regarding matters of faith. The stoning of Paul, influenced by both the Jews and the fickle multitudes, serves as a stark reminder of the vehement opposition faced by those who dedicate themselves to spreading the gospel.",
+        "wordCount": 83,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.7621674956846305,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+        "commentatorTierSimilarities": [
+            26.8,
+            40.63,
+            32.56
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lycaonians were fickle and untrustworthy.",
+            "They stoned him, not in the Jewish method, but tumultuously and in the streets.",
+            "Dragging him out of the city afterwards."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Furious zeal that would travel so far to counteract the missionaries of the Cross!",
+            "Barnabas they seem to have let alone; Paul, as the prominent actor and speaker, being the object of all their rage.",
+            "It was the act of the instigated and fickle multitudes along with them."
+        ],
+        "Albert Barnes": [
+            "Bad people will often travel further to do evil than good people will to do good; and wicked people often show more zeal in opposing the gospel than professed Christians do in advancing it.",
+            "Nothing is more fickle than popular favor. The unbounded admiration of a man may soon be changed into unbounded indignation and contempt.",
+            "Such sufferings and trials it cost to establish that religion in the world which has shed so many blessings on man; which now crowns us with comfort; which saves us from the abominations and degradations of idolatry here, and from the pains of hell hereafter."
+        ],
+        "Marvin Vincent": [
+            "Stoned. See on ver. 5."
+        ],
+        "John Calvin": [
+            "How much more men be bent unto superstition than unto the true worship of God, and how arrogant superstition is, which will always bear the chief sway in appointing the worship of God.",
+            "The servants of God seek no other thing but to bring men under obedience of him, which is salvation and felicity alone. They challenge to themselves no lordship, they hunt after no gain; and yet the world cannot abide them.",
+            "So that, what violence soever the wicked do to the servants of Christ, it is never called in question; the laws are whist, [silent;] judgments cease; the magistrate is asleep; there is no patron to be found."
+        ],
+        "Philip Schaff": [
+            "The arrival of these enemies of Paul was no accidental circumstance; the news of the success of the apostles in Lystra had reached Iconium and Antioch in Pisidia, and they came to the scene of his successes to thwart him, and, if possible, to compass his destruction.",
+            "The Lycaonians, we know, were proverbially fickle and faithless. It has been well said, \u2018How fickle the world is! they first bring garlands, then stones. Every generation ultimately stones its own gods; the only difference is found in the manner in which the stones are cast.'",
+            "This \u2018stoning\u2019 shows that Jews at least prompted the cruel, murderous outrage. Stoning was peculiarly a Jewish punishment."
+        ],
+        "Archibald T. Robertson": [
+            "There would be a natural reaction, even revulsion, in the minds of many who had come so near to worshipping Paul and Barnabas. The pendulum swings easily from one extreme to the other.\" ",
+            "They had complete success with many and struck at the psychological moment.",
+            "The wounds inflicted may have left some of the scars mentioned in Galatians 6:17."
+        ],
+        "John Gill": [
+            "These Jews were inveterate enemies of the apostles, and seemed to have followed them from place to place, on purpose to oppose them, and to stir up the people against them.\" ",
+            "They persuaded the people not to hearken to them, told them that they were deceivers and jugglers, and instead of having honours conferred upon them, they ought to be severely punished.",
+            "They not only stoned him until he was dead, as they supposed, but they dragged his body through the streets of their city, in contempt of him, and indignation against him."
+        ],
+        "John Wesley": [
+            "Who persuaded the multitude \u2014 Moved with equal ease either to adore or murder him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The reaction of the Lycaonians in this verse is both fickle and furious. Initially, they were swayed by the missionaries and came close to worshiping Paul and Barnabas. However, their admiration quickly turned into intense rage. The arrival of enemies from other cities seeking to thwart Paul's success only fueled the fire. It is intriguing how swiftly popular favor can change, especially when it comes to matters of faith. The stoning of Paul was not an isolated event, but rather a result of the instigation by the Jews and the fickle multitudes who were easily convinced to turn against him. This incident brings to mind the scars mentioned in Galatians 6:17, which might have been inflicted during such trials and sufferings. Ultimately, it is a reminder of the profound opposition faced by those who seek to spread the gospel, as wicked people often show more fervor in opposing it than professed Christians do in advancing it.",
+            "wordCount": 156,
+            "quoteTokenProportion": 38.05,
+            "qualityScore": 1.7246587887027682,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                27.14,
+                39.21,
+                33.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reaction of the Lycaonians in this passage is both fickle and furious. Initially, they were swayed by the missionaries, almost worshiping Paul and Barnabas, but their admiration quickly turned into intense rage. The arrival of enemies seeking to thwart Paul's success only fueled the fire. It is intriguing how swiftly popular favor can change, especially in matters of faith. The stoning of Paul, instigated by the Jews and the fickle multitudes, serves as a reminder of the fierce opposition faced by those spreading the gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.773621921203235,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+            "commentatorTierSimilarities": [
+                29.28,
+                38.77,
+                31.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The furious reaction of the Lycaonians towards Paul was a result of their fickle nature. Initially, they were swayed by the missionaries and came close to worshiping Paul and Barnabas, but their admiration quickly turned to rage. The arrival of enemies seeking to thwart Paul's success only intensified their hostility. This incident highlights the unstable nature of popular favor, especially when it involves matters of faith. It also serves as a reminder of the immense opposition faced by those who dedicate themselves to spreading the gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.6672514736592046,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                28.87,
+                36.2,
+                34.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fickle and untrustworthy Lycaonians initially admired and almost worshipped Paul and Barnabas, but their admiration swiftly turned to rage and fury. The arrival of enemies seeking to thwart Paul's success only further fueled the intense animosity. This incident reveals the instability of popular favor, particularly regarding matters of faith. The stoning of Paul, influenced by both the Jews and the fickle multitudes, serves as a stark reminder of the vehement opposition faced by those who dedicate themselves to spreading the gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.7621674956846305,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                26.8,
+                40.63,
+                32.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The furious and fickle reaction of the Lycaonians towards Paul highlights the volatility of popular favor. Initially, they were influenced by the missionaries, coming close to worshiping Paul and Barnabas. However, their admiration quickly transformed into intense rage. The arrival of enemies seeking to undermine Paul's success further fueled the hostility. This incident serves as a stark reminder of the ardent opposition faced by those who dedicate themselves to spreading the gospel, as wicked people often display more zeal in opposing it than professed Christians do in advancing it.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.6655575474838584,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                28.9,
+                37.72,
+                33.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

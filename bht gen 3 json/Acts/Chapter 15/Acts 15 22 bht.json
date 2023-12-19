@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:31:48",
+    "verseRef": "Acts 15:22",
+    "bestBHT": {
+        "bht": "Judas, recognized as a prophet, and Silas, esteemed as one of the chief men among the brethren, are chosen to accompany Paul and Barnabas in delivering the official letter addressing the circumcision controversy in Antioch. Their selection signifies the unity and agreement among the apostles, elders, and brethren in Jerusalem. Judas and Silas ensure an unbiased account and accurate representation of the assembly's judgment, showcasing the fairness and equity displayed in handling this significant matter. This decision reflects the honor bestowed upon the Antioch Church and the flourishing Gentile communities.",
+        "wordCount": 91,
+        "quoteTokenProportion": 22.22,
+        "qualityScore": 1.673309558525399,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+        "commentatorTierSimilarities": [
+            30.71,
+            35.53,
+            33.76
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Of this Judas nothing further is known than that he was a 'prophet.'\" (22. Barsabas)",
+            "Whether the Silvanus, by whom the first Epistle of Peter was carried to the churches of Asia Minor, was the same person, is altogether uncertain.\" (22. Silas)",
+            "I may repeat here, that in my mind the description of Silas here as one of the 'chief men among the brethren,' of itself, especially when contrasted with the preface to Luke's gospel, would suffice to refute the notion.\" (11. b, c)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But nothing is known of him beyond what is here said.",
+            "He became Paul's companion on his second missionary journey.",
+            "They were 'prophets,' Acts 1:23- : (and see on Acts 15:1), and as such doubtless their eminence in the church at Jerusalem had been obtained."
+        ],
+        "Albert Barnes": [
+            "It seemed fit and proper to them.",
+            "Men chosen for this purpose.",
+            "Men of influence, experience, and authority in the church."
+        ],
+        "John Calvin": [
+            "That tempest was made calm not without the singular grace of God, so that after the matter was thoroughly discussed, they did all agree together in sound doctrine.",
+            "The apostles did show some token of their equity, in that they set down nothing concerning the common cause of all the godly without admitting the people.",
+            "When chief men come with the letters, that they may gravely dispute the whole matter in presence, all sinister suspicion is taken away."
+        ],
+        "Philip Schaff": [
+            "The decrees of this primitive Council were agreed to by the united voice of the whole Church.\" ",
+            "Judas was esteemed one of the chief men among the brethren.",
+            "Their selection indicates an especial wish on the part of the Christian governing body at Jerusalem to show honour to the Antioch Church and the increasing Gentile communions."
+        ],
+        "Archibald T. Robertson": [
+            "This Eirenicon of James commended itself to the whole assembly. Apparently a vote was taken which was unanimous, the Judaizers probably not voting.",
+            "But James was a practical leader and he did not stop with speeches and a vote.",
+            "It is a common thing in all Greek writers (Paul, for instance), especially in the papyri and in the Apocalypse of John."
+        ],
+        "John Gill": [
+            "They thought fit to choose some persons from among themselves, out of that assembly, or who were members of the church at Jerusalem; and send them to Antioch, where the difference began, along with Paul and Barnabas, to give an account of the sense of the apostles, elders, and brethren about the affair in controversy.\" ",
+            "They took this step to prevent all suspicion of Paul and Barnabas giving a partial account or putting a wrong turn upon the sentiments of this assembly, they being parties concerned on one side.",
+            "These they pitched upon, partly out of respect to Paul and Barnabas, as being suitable companions for them....chiefly because of their ability and capacity for such service they were sent upon."
+        ],
+        "John Wesley": [
+            "With the whole Church \u2014 Which therefore had a part therein...",
+            "...to send chosen men \u2014 Who might put it beyond all dispute...",
+            "...that this was the judgment of the apostles and all the brethren."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 15:22, the church selects Judas, Silas, and some others to accompany Paul and Barnabas, and send them to Antioch with an official letter addressing the controversy regarding circumcision. Silas and Judas are recognized as prophets and esteemed leaders within the church. This decision is significant as it shows the unity and collective agreement of the apostles, elders, and brethren in Jerusalem, as well as their desire to honor the Antioch Church and the growing Gentile communities. The selection of these individuals ensures that the message delivered to Antioch is unbiased and accurately represents the judgment of the entire assembly. The purpose of including these chosen men is to prevent any suspicion of a biased account or misrepresentation of the assembly's sentiments. This decision reflects the fairness and equity of the apostles in handling this important matter.",
+            "wordCount": 138,
+            "quoteTokenProportion": 27.91,
+            "qualityScore": 1.579352053733274,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+            "commentatorTierSimilarities": [
+                29.71,
+                32.66,
+                37.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas and Silas, both esteemed figures in the Church, are chosen to accompany Paul and Barnabas and deliver an official letter to address the circumcision controversy in Antioch. This selection demonstrates the unity and agreement among the apostles, elders, and brethren in Jerusalem. The inclusion of these individuals ensures an unbiased account and accurate representation of the assembly's judgment. Through this decision, the apostles aim to prevent any suspicion of partiality and to display their fairness and equity in handling this important matter.",
+            "wordCount": 84,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.507119908750056,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.45,
+            "commentatorTierSimilarities": [
+                27.11,
+                30.47,
+                42.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas and Silas, distinguished leaders and prophets, are chosen to join Paul and Barnabas in delivering a letter addressing the circumcision controversy in Antioch. The selection of Judas and Silas expresses the unity and consensus of the apostles and brethren in Jerusalem. By including these individuals, the assembly ensures an impartial account and an accurate representation of their judgment. This decision exemplifies the fairness and equity of the apostles in handling this significant issue and emphasizes their desire to honor the Antioch Church and the growing Gentile communities.",
+            "wordCount": 88,
+            "quoteTokenProportion": 21.05,
+            "qualityScore": 1.6210932891029155,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
+            "commentatorTierSimilarities": [
+                29.86,
+                32.97,
+                37.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas, known as a prophet, and Silas, recognized as one of the chief men among the brethren, are selected to accompany Paul and Barnabas in delivering the official letter addressing the circumcision controversy in Antioch. Their inclusion represents the unity and agreement among the apostles, elders, and brethren in Jerusalem. The choice of Judas and Silas ensures an impartial account and accurate representation of the assembly's judgment, reflecting the fairness and equity in handling this significant matter. This decision also demonstrates the honor given to the Antioch Church and the growing Gentile communities.",
+            "wordCount": 94,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.646163769421488,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.08,
+            "commentatorTierSimilarities": [
+                31.74,
+                34.72,
+                33.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas, recognized as a prophet, and Silas, esteemed as one of the chief men among the brethren, are chosen to accompany Paul and Barnabas in delivering the official letter addressing the circumcision controversy in Antioch. Their selection signifies the unity and agreement among the apostles, elders, and brethren in Jerusalem. Judas and Silas ensure an unbiased account and accurate representation of the assembly's judgment, showcasing the fairness and equity displayed in handling this significant matter. This decision reflects the honor bestowed upon the Antioch Church and the flourishing Gentile communities.",
+            "wordCount": 91,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.673309558525399,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                30.71,
+                35.53,
+                33.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

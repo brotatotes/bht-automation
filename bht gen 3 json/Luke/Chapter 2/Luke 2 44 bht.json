@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:14:35",
+    "verseRef": "Luke 2:44",
+    "bestBHT": {
+        "bht": "As the company from Nazareth journeyed together, Mary and Joseph assumed that Jesus was among their relatives and acquaintances. They were accustomed to His thoughtfulness and obedience and felt no anxiety until they discovered He was not in their company. They diligently searched, but in vain. It was not until they laid up for the night that they missed Him, as at that time they would naturally expect His return.",
+        "wordCount": 70,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8405782854163504,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+        "commentatorTierSimilarities": [
+            38.87,
+            27.07,
+            34.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The interpretation that \u2018they went a day\u2019s journey, seeking him,\u2019 is simply absurd: for they would have turned back sooner: a few minutes might have sufficed for the search.",
+            "It was not till they laid up for the night that they missed him, as at that time they would naturally expect his return to their own tent.",
+            "Being accustomed to His thoughtfulness and obedience, they were free from anxiety, till they discovered He really was not in the company."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "On these sacred journeys, whole villages and districts travelled in groups together, partly for protection, partly for company.",
+            "As the well-disposed would beguile the tediousness of the way by good discourse, to which the child Jesus would be no silent listener.",
+            "They expect to find Him in such a group."
+        ],
+        "Albert Barnes": [
+            "It may seem very remarkable that parents should not have been more attentive to their only son, and that they should not have been assured of his presence with them when they left Jerusalem.",
+            "Kinsfolk - Relatives.",
+            "Acquaintances - Neighbors who had gone up with them in the same company to Jerusalem."
+        ],
+        "Marvin Vincent": [
+            "The company that shared the journey.",
+            "Before they missed him.",
+            "They looked for him up and down."
+        ],
+        "John Calvin": [
+            "Many passages of Scripture show plainly, that those who came from a distance, at the festivals, to worship in the temple, were accustomed to travel in companies.",
+            "There is no reason, therefore, to wonder that, on the first day, Joseph and Mary were less anxious about the child.",
+            "Their subsequent conduct shows that this was not owing to indolence or carelessness."
+        ],
+        "Philip Schaff": [
+            "During the day no anxiety would be felt respecting so obedient a child, but at night he would be expected to rejoin His parents.",
+            "This was natural, and shows the composition of the caravan.",
+            "Turned back to Jerusalem, seeking for him, i.e., on the way as they returned."
+        ],
+        "Archibald T. Robertson": [
+            "In the company (\u03b5\u03bd \u03c4\u03b7 \u03c3\u03c5\u03bd\u03bf\u03b4\u03b9\u03b1). The caravan going together on the road or way (\u03c3\u03c5\u03bd, \u03bf\u03b4\u03bf\u03c2), a journey in company...",
+            "The Nazareth caravan was so long that it took a whole day to look through it\" (Plummer).",
+            "They sought for him (\u03b1\u03bd\u03b5\u03b6\u03b7\u03c4\u03bf\u03c5\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Imperfect active. Common Greek verb. Note force of \u03b1\u03bd\u03b1. They searched up and down, back and forth, a thorough search and prolonged, but in vain."
+        ],
+        "John Gill": [
+            "But they supposing him to have been in the company,.... That travelled together into the same parts, having been, as they, at Jerusalem to keep the feast: went a day's journey...",
+            "Nazareth was three days journey from Jerusalem... a day's journey was ten 'parsas', or large miles, Which were forty lesser miles; and which, they say, is a middling man's walk, on a middling day...",
+            "and they sought him among their kinsfolks and acquaintance... where should they expect to hear of him, but among their spiritual kindred and friends, and who also are related to Christ?"
+        ],
+        "John Wesley": [
+            "Supposing him to have been in the company \u2014 As the men and women usually travelled in distinct companies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the company from Nazareth journeyed together after the feast, Mary and Joseph assumed that Jesus was among their relatives and acquaintances. They were accustomed to His thoughtfulness and obedience and felt no anxiety until they discovered He was not in their company. They diligently searched up and down, back and forth, a thorough and prolonged search, but in vain. It was not until they laid up for the night that they missed Him, as at that time, they would naturally expect His return to their own tent. In these sacred journeys, whole villages and districts traveled in groups together, partly for protection and partly for companionship. The Nazareth caravan was so long that it took a whole day to look through it.",
+            "wordCount": 123,
+            "quoteTokenProportion": 43.04,
+            "qualityScore": 1.8539202144261595,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.98,
+            "commentatorTierSimilarities": [
+                39.81,
+                26.66,
+                33.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the company from Nazareth journeyed together after the feast, Mary and Joseph assumed that Jesus was among their relatives and acquaintances. They were accustomed to His thoughtfulness and obedience and felt no anxiety until they discovered He was not in their company. They diligently searched up and down, back and forth, a thorough and prolonged search, but in vain. It was not until they laid up for the night that they missed Him, as at that time, they would naturally expect His return to their own tent.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.8962392398851424,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                38.64,
+                26.82,
+                34.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the company from Nazareth journeyed together, Mary and Joseph assumed that Jesus was among their relatives and acquaintances. They were accustomed to His thoughtfulness and obedience and felt no anxiety until they discovered He was not in their company. They diligently searched, but in vain. It was not until they laid up for the night that they missed Him, as at that time they would naturally expect His return.",
+            "wordCount": 70,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8405782854163504,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                38.87,
+                27.07,
+                34.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On their journey from Jerusalem to Nazareth, Joseph and Mary were part of a large caravan, joined by whole villages and districts traveling together for protection and company. As they laid up for the night, they discovered that Jesus was not with them. Being accustomed to His obedience, they were not initially anxious, assuming He was in the company. However, upon realizing He was missing, they diligently searched for Him up and down, inquiring of their kinsfolk and acquaintances. It was not until this moment that they realized Jesus was not in their midst. This incident highlights the bustling nature of these sacred journeys and how the expectation was for Jesus to be found among the group.",
+            "wordCount": 117,
+            "quoteTokenProportion": 47.44,
+            "qualityScore": 1.869158019775318,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                34.71,
+                28.71,
+                36.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On their journey from Jerusalem to Nazareth, Joseph and Mary were part of a large caravan, joined by whole villages and districts traveling together for protection and company. As they laid up for the night, they discovered that Jesus was not with them. Assuming He was in the company, their initial lack of anxiety turned into diligent searching, looking for Him up and down, inquiring of their kinsfolk and acquaintances. This incident highlights the bustling nature of these sacred journeys and the expectation of finding Jesus among the group.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.8655143273025234,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.37,
+            "commentatorTierSimilarities": [
+                34.54,
+                29.12,
+                36.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

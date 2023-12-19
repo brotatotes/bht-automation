@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:14:30",
+    "verseRef": "Luke 3:6",
+    "bestBHT": {
+        "bht": "Every obstruction shall be so removed as to reveal to the whole world the Salvation of God in Him whose name is the 'Saviour'. The idea is that every obstruction shall be so removed as to reveal to the whole world the Salvation of God. This phrase aptly describes Luke's Gospel which has in mind the message of Christ for all men. That salvation will not be at all obscure, or experienced by a small number of persons, but will strike every eye, and will be common to all. It is the universal Gospel, the Messiah, the Saviour of God's appointing and sending, whom not only God's elect among them, but also all of them among the Gentiles, should behold with an eye of faith, for themselves, as their Saviour and Redeemer.",
+        "wordCount": 135,
+        "quoteTokenProportion": 51.35,
+        "qualityScore": 2.5256320221522444,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.32,
+        "commentatorTierSimilarities": [
+            56.55,
+            0.0,
+            43.45
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Every obstruction shall be so removed as to reveal to the whole world the Salvation of God in Him whose name is the 'Saviour'.\" (Luke 3:6)",
+            "The idea is that every obstruction shall be so removed as to reveal to the whole world the Salvation of God.\" (Luke 3:6)",
+            "Reveal to the whole world the Salvation of God in Him whose name is the 'Saviour'.\" (Luke 3:6)"
+        ],
+        "John Calvin": [
+            "That salvation will not be at all obscure, or experienced by a small number of persons, but will strike every eye, and will be common to all.\" (Luke 3:6)",
+            "the prophet\u2019s design was, to present the uncommon excellence of the salvation which was to be manifested, in contrast with God\u2019s former benefits, and thus to inform believers, that the dispensations of God towards his Church had never been so remarkable, nor his power so illustriously displayed in their deliverance.",
+            "Flesh is here put for men, without being intended to denote their depravity."
+        ],
+        "Archibald T. Robertson": [
+            "All flesh (\u03c0\u03b1\u03c3\u03b1 \u03c3\u03b1\u03c1\u03be). Used in the N.T. of the human race alone, though in the LXX brutes are included.",
+            "The salvation of God (\u03c4\u03bf \u03c3\u03bf\u03c4\u03b7\u03c1\u03b9\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). The saving act of God.",
+            "This phrase aptly describes Luke's Gospel which has in mind the message of Christ for all men. It is the universal Gospel."
+        ],
+        "John Gill": [
+            "By the salvation of God\" is meant, the Messiah, the Lord Jesus Christ, the Saviour of God's appointing and sending...",
+            "...whom not only God's elect among them, but also all of them among the Gentiles, should behold with an eye of faith, for themselves, as their Saviour and Redeemer...",
+            "It is matter of question, what passage is here referred to; whether Isaiah 40:5 or Isaiah 3:10..."
+        ],
+        "John Wesley": [
+            "The salvation of God \u2014 The Saviour, the Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Every obstruction shall be so removed as to reveal to the whole world the Salvation of God in Him whose name is the 'Saviour'. The idea is that every obstruction shall be so removed as to reveal to the whole world the Salvation of God. This phrase aptly describes Luke's Gospel which has in mind the message of Christ for all men. That salvation will not be at all obscure, or experienced by a small number of persons, but will strike every eye, and will be common to all. It is the universal Gospel, the Messiah, the Saviour of God's appointing and sending, whom not only God's elect among them, but also all of them among the Gentiles, should behold with an eye of faith, for themselves, as their Saviour and Redeemer.",
+            "wordCount": 135,
+            "quoteTokenProportion": 51.35,
+            "qualityScore": 2.5256320221522444,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.32,
+            "commentatorTierSimilarities": [
+                56.55,
+                0.0,
+                43.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every obstruction shall be removed to reveal the Salvation of God in Him whose name is the 'Saviour.' This phrase aptly describes Luke's Gospel, which has in mind the message of Christ for all men. The salvation will not be obscure or limited to a small number, but will be visible to all. It is the universal Gospel, the Messiah, the Saviour of God's appointing and sending. All people, both Jews and Gentiles, will behold Him as their Saviour and Redeemer.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.3021985572701373,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.89,
+            "commentatorTierSimilarities": [
+                53.01,
+                0.0,
+                46.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Every obstruction shall be so removed as to reveal to the whole world the Salvation of God in Him whose name is the 'Saviour'. The idea is that every obstruction shall be so removed as to reveal to the whole world the Salvation of God. This phrase aptly describes Luke's Gospel which has in mind the message of Christ for all men. That salvation will not be obscure, or experienced by a small number of persons, but will strike every eye and will be common to all.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 2.542122107403303,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.87,
+            "commentatorTierSimilarities": [
+                60.02,
+                0.0,
+                39.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Every obstruction shall be so removed as to reveal to the whole world the Salvation of God in Him whose name is the 'Saviour'. This phrase aptly describes Luke's Gospel which has in mind the message of Christ for all men. That salvation will not be obscure, or experienced by a small number of persons, but will strike every eye and will be common to all. It is the universal Gospel, the Messiah, the Saviour of God's appointing and sending, whom not only God's elect among them, but also all of them among the Gentiles, should behold with an eye of faith, for themselves, as their Saviour and Redeemer.",
+            "wordCount": 112,
+            "quoteTokenProportion": 51.39,
+            "qualityScore": 2.4531027469192286,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.91,
+            "commentatorTierSimilarities": [
+                54.48,
+                0.0,
+                45.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Every obstruction shall be removed to reveal the Salvation of God in Him whose name is the 'Saviour'. This phrase aptly describes Luke's Gospel, with the message of Christ for all men. That salvation will be visible to all, not limited to a few. It is the universal Gospel, the Messiah, the Saviour of God's sending. All people, both Jews and Gentiles, will behold Him as their Saviour and Redeemer.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 2.353972024357777,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.61,
+            "commentatorTierSimilarities": [
+                53.57,
+                0.0,
+                46.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

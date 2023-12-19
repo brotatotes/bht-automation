@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:48:48",
+    "verseRef": "1 John 4:3",
+    "bestBHT": {
+        "bht": "Every spirit that does not confess Jesus is not of God and represents the antichrist that has already emerged. This spirit is embodied in false prophets who refuse to confess Jesus in His humanity and all His offices and divinity. It is important to be vigilant as the Church was forewarned about these antichrists. Therefore, it is vital to recognize and reject any doctrine that denies the truth of who Jesus is and what He has accomplished through His obedience, sufferings, and death.",
+        "wordCount": 83,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 2.123149031934101,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.94,
+        "commentatorTierSimilarities": [
+            35.63,
+            33.62,
+            30.76
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And every spirit which does not confess Jesus, is not of God.",
+            "This is the [spirit] of antichrist, of which ye have heard, that it cometh, and now it is in the world already.",
+            "In the person of these false prophets, who are its organs."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Every spirit which destroys (sets aside, or does away with) Jesus (Christ).\" ",
+            "Every spirit that confesseth not (that is, refuses to confess) Jesus\" (in His person, and all His offices and divinity)",
+            "already is it in the world\u2014in the person of the false prophets"
+        ],
+        "Albert Barnes": [
+            "If he was not a man, then all that occurred in his life, in Gethsemane, and on the cross, was in 'appearance' only, and was assumed only to delude the senses. There were no real sufferings; there was no shedding of blood; there was no death on the cross; and, of course, there was no atonement.\" ",
+            "A mere show, an appearance assumed, a vision, could not make atonement for sin; and a denial, therefore, of the doctrine that the Son of God had come in the flesh, was in fact a denial of the doctrine of expiation for sin.",
+            "John here refers not to an individual who should be known as antichrist, but to a class of persons. This does not, however, forbid the idea that there might be some one individual, or a succession of persons in the church, to whom the name might be applied by way of eminence."
+        ],
+        "Marvin Vincent": [
+            "Confesseth not Jesus.\" ",
+            "The simple Jesus emphasizes the humanity of our Lord considered in itself.",
+            "This non - confession, summed up in all its manifestations."
+        ],
+        "John Calvin": [
+            "We have already said that the doctrine respecting the kingdom of Antichrist was well known; so that the faithful had been warned as to the future scattering of the Church, in order that they might exercise vigilance.",
+            "Justly then did they dread the name as something base and ominous.",
+            "He means that it was already in the world, because it carried on in secret its iniquity."
+        ],
+        "Archibald T. Robertson": [
+            "The prophecy had found fulfilment before the Church had looked for it\" (Westcott).",
+            "It is a repetition of the point about antichrists made in 1 John 2:18-25.",
+            "Many MSS. have here also \u03b5\u03bd \u03c3\u03b1\u03c1\u03ba \u03b5\u03bb\u03b7\u03bb\u03c5\u03b8\u03bf\u03c4\u03b1 repeated from preceding clause, but not A B Vg Cop. and not genuine."
+        ],
+        "John Gill": [
+            "And every spirit that confesseth not,.... The proper deity and sonship of Christ, his true and real humanity, and his Messiahship; or any of his offices, doctrines, and ordinances; or his satisfaction and righteousness; or that peace, pardon, justification, life, and salvation, are by him; all which are meant by what follows.",
+            "that separates the two natures, human and divine, in him, and makes two persons of them; or denies either of them, either that he is truly God, or really man, or denies him to be Jesus, the Saviour; who, as much as in him lies, destroys his person, office, and work, and makes void his obedience, sufferings, and death.",
+            "every doctrine that is calculated against these truths is the spirit and doctrine of antichrist."
+        ],
+        "John Wesley": [
+            "Ye have heard \u2014 From our Lord and us, that it cometh."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Every spirit that does not confess Jesus is not of God, and such is the spirit of antichrist that was foretold and is already in the world. It manifests through false prophets who refuse to acknowledge Jesus in His person, divinity, and all His offices. This denial is not just about denying His humanity; it encompasses all aspects of who Jesus is and what He accomplished. The Church was warned about the rise of antichrists, and though there may not be one specific individual, there is a class of people who embody this spirit. Therefore, it is crucial for the faithful to be vigilant and not be deceived by this dangerous doctrine.",
+            "wordCount": 112,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.1392392836822793,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.47,
+            "commentatorTierSimilarities": [
+                34.18,
+                37.35,
+                28.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every spirit that does not confess Jesus, and destroys or refuses to acknowledge Him, is not of God and is the spirit of antichrist. This spirit is already in the world, embodied by false prophets who deny Jesus in His person and divinity. It is important for the faithful to be vigilant and not be deceived by this dangerous doctrine, as it goes against the truth of who Jesus is and what He accomplished. The Church had been warned about the rise of antichrists, emphasizing the need for watchfulness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.0953166859971355,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.01,
+            "commentatorTierSimilarities": [
+                36.79,
+                34.26,
+                28.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Every spirit that does not confess Jesus is not of God and is the spirit of antichrist already in the world through false prophets. This denial of Jesus in His person and divinity is a dangerous doctrine that undermines His humanity, offices, and work. The faithful had been warned about the rise of antichrists, thus emphasizing the need for vigilance. It is crucial to recognize and reject any teaching that goes against the truth of who Jesus is and what He accomplished.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.0192819025003557,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.48,
+            "commentatorTierSimilarities": [
+                34.65,
+                35.7,
+                29.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Every spirit that does not confess Jesus, and refuses to acknowledge His true nature, is not from God, but rather the spirit of antichrist that is already present in the world through false prophets. This denial of Jesus encompasses His person, divinity, offices, and atonement. The Church had been forewarned about the rise of antichrists, emphasizing the need for vigilance. It is crucial to discern and reject teachings that contradict the truth of who Jesus is and what He accomplished.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.0365062061238417,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.05,
+            "commentatorTierSimilarities": [
+                34.05,
+                38.43,
+                27.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Every spirit that does not confess Jesus is not of God and represents the antichrist that has already emerged. This spirit is embodied in false prophets who refuse to confess Jesus in His humanity and all His offices and divinity. It is important to be vigilant as the Church was forewarned about these antichrists. Therefore, it is vital to recognize and reject any doctrine that denies the truth of who Jesus is and what He has accomplished through His obedience, sufferings, and death.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.123149031934101,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.94,
+            "commentatorTierSimilarities": [
+                35.63,
+                33.62,
+                30.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

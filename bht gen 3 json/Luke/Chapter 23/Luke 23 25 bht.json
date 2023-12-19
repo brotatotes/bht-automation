@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:23:29",
+    "verseRef": "Luke 23:25",
+    "bestBHT": {
+        "bht": "In this account, St. Luke intentionally highlights the contrast between the release of Barabbas, an individual imprisoned for insurrection and murder, and the subsequent handover of Jesus. By omitting the details of Jesus' scourging and mocking, Luke emphasizes the surrender of justice to the clamor of the crowd. This portrayal vividly depicts the manipulation of power and the tragic abandonment of truth and righteousness, resulting in the unjust crucifixion of Jesus at the hands of an enraged mob.",
+        "wordCount": 78,
+        "quoteTokenProportion": 22.0,
+        "qualityScore": 1.7413483811997204,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+        "commentatorTierSimilarities": [
+            48.71,
+            0.0,
+            51.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The description is inserted for the sake of contrast.\" ",
+            "St. Luke omits the scourging and mocking of Jesus.",
+            "If St. Luke had had any materials wherewith to fill up the break between verses 25 and 26, I have no doubt he would have done so."
+        ],
+        "Archibald T. Robertson": [
+            "Luke repeats that Barabbas was in prison 'for insurrection and murder.'\" ",
+            "This is mob law by the judge who surrenders his own power and justice to the clamour of the crowd."
+        ],
+        "John Gill": [
+            "Barabbas, who is not named, as being a detestable person, and unworthy to be named...",
+            "He delivered Jesus to their will; to do as they would with him, to mock, and scourge, and crucify him.",
+            "Barabbas, who is not named, as being a detestable person, and unworthy to be named...\" (repeated quote)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 23:25, St. Luke deliberately omits the horrifying details of Jesus' scourging and mocking, focusing instead on the contrast between the release of Barabbas and the subsequent handover of Jesus to be crucified. Barabbas, a detestable figure imprisoned for insurrection and murder, is set free by Pilate, symbolizing the surrender of justice to the volatile demands of the crowd. Luke emphasizes the unjust nature of the situation, painting a vivid picture of the manipulation of power and the tragic abandonment of truth and righteousness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 21.43,
+            "qualityScore": 1.6614309170858468,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.58,
+            "commentatorTierSimilarities": [
+                46.77,
+                0.0,
+                53.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "St. Luke intentionally contrasts the release of Barabbas, an insurrectionist and murderer, with the subsequent handover of Jesus, omitting the details of Jesus' scourging and mocking. The scene illustrates the surrender of justice to the clamor of the crowd, as Pilate yields to their demands and delivers Jesus to their will. This depiction underscores the unjust nature of the situation, highlighting the manipulation of power and the tragic abandonment of truth and righteousness.",
+            "wordCount": 73,
+            "quoteTokenProportion": 21.28,
+            "qualityScore": 1.5056056688645025,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.4,
+            "commentatorTierSimilarities": [
+                43.73,
+                0.0,
+                56.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "St. Luke deliberately omits the scourging and mocking of Jesus, focusing on the contrast as Barabbas, an insurrectionist and murderer, is released instead. The passage highlights the surrender of justice to the clamor of the crowd, illustrating the unjust nature of the situation and the relinquishing of power by Pilate. This decision reflects the manipulation of power and the abandonment of truth and righteousness, resulting in the unjust crucifixion of Jesus.",
+            "wordCount": 71,
+            "quoteTokenProportion": 23.91,
+            "qualityScore": 1.6758900148170086,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.07,
+            "commentatorTierSimilarities": [
+                45.86,
+                0.0,
+                54.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "St. Luke intentionally focuses on the contrast between the release of Barabbas, a detestable figure imprisoned for insurrection and murder, and the subsequent handover of Jesus. By omitting the details of Jesus' scourging and mocking, Luke draws attention to the surrender of justice by Pilate to the clamor of the crowd. This portrayal vividly depicts the manipulation of power and the tragic abandonment of truth and righteousness, ultimately resulting in the unjust crucifixion of Jesus at the hands of an enraged mob.",
+            "wordCount": 82,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.7351594921386895,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.04,
+            "commentatorTierSimilarities": [
+                46.61,
+                0.0,
+                53.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, St. Luke intentionally highlights the contrast between the release of Barabbas, an individual imprisoned for insurrection and murder, and the subsequent handover of Jesus. By omitting the details of Jesus' scourging and mocking, Luke emphasizes the surrender of justice to the clamor of the crowd. This portrayal vividly depicts the manipulation of power and the tragic abandonment of truth and righteousness, resulting in the unjust crucifixion of Jesus at the hands of an enraged mob.",
+            "wordCount": 78,
+            "quoteTokenProportion": 22.0,
+            "qualityScore": 1.7413483811997204,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                48.71,
+                0.0,
+                51.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

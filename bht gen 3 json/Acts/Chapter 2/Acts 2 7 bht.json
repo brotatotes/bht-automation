@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:24:46",
+    "verseRef": "Acts 2:7",
+    "bestBHT": {
+        "bht": "The people marveled in astonishment as the Galileans, who were predominantly unlearned and rudely regarded, suddenly expressed themselves in diverse local languages. This linguistic prowess displayed by the Galileans, hailing from a region known for its lack of refinement and education, left the crowd in awe and raised questions about the origin and meaning of this phenomenon. The Galileans' unexpected ability to speak these different tongues caused great surprise and speculation among the onlookers.",
+        "wordCount": 74,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 1.8890113979390804,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+        "commentatorTierSimilarities": [
+            30.35,
+            35.88,
+            33.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "7.] They were not, literally, all Galil\u00e6ans; but certainly the greater part were so, and all the Apostles and leading persons, who would probably be the prominent speakers."
+        ],
+        "Albert Barnes": [
+            "Galileans - Inhabitants of Galilee. It was remarkable that they should speak in this manner, because:"
+        ],
+        "Marvin Vincent": [
+            "The former word denotes the first overwhelming surprise. The verb is literally to put out of place; hence, out of one's senses.",
+            "The latter word, marvelled, denotes the continuing wonder; meaning to regard with amazement, and with a suggestion of beginning to speculate on the matter.",
+            "Galilaeans. Not regarded as a sect, for the name was not given to Christians until afterward; but with reference to their nationality."
+        ],
+        "Philip Schaff": [
+            "The frequenters of that house, where the \u2018hundred and twenty\u2019 were gathered together, were no doubt well known to the \u2018devout men,\u2019 who had made the Holy City their home, to be at least for the most part from Galilee.",
+            "Provincials, notoriously rough and usually of little culture, were men most unlikely to be acquainted with foreign idioms.",
+            "The name \u2018Galilean\u2019 is used here strictly in a geographical sense."
+        ],
+        "Archibald T. Robertson": [
+            "These are the very people who now show such remarkable linguistic powers.",
+            "These Galilean Christians are now heard speaking these various local tongues.",
+            "Many remained uncircumcised and were called proselytes of the gate."
+        ],
+        "John Gill": [
+            "They were struck with surprise, they were as it were out of themselves, like persons in an ecstasy, not knowing what could be the cause or meaning of this.",
+            "Behold, are not all these which speak Galilaeans? Rude, unpolished, and unlearned men; who had never been brought up in any school of learning.",
+            "The apostles were inhabitants of Galilee, and so very likely were the greatest part of those that were with them: hence the Christians afterwards, by way of contempt, were called Galilaeans."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people were amazed and astonished at the Galileans who spoke in different tongues. It was especially surprising because the Galileans were known for their lack of education and roughness. This led to the perplexity and astonishment of the crowd who couldn't comprehend how these Galileans, who were not highly regarded in terms of culture and learning, could suddenly speak in various local languages. Their ability to do so was seen as a remarkable display of linguistic power.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.8061409051835544,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                29.83,
+                36.73,
+                33.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people were astonished and amazed at the Galileans who were speaking in different tongues. It was extraordinary because the Galileans were not known for their education or refinement. This caused confusion and wonder among the crowd who couldn't comprehend how these Galileans, who were not highly regarded in terms of culture and learning, were suddenly able to speak in various local languages. This display of linguistic power was truly remarkable.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.7870336791215382,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.76,
+            "commentatorTierSimilarities": [
+                31.1,
+                36.79,
+                32.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crowd was astounded as they listened to the Galileans speaking in different languages, for it was unexpected that these individuals, who were predominantly from Galilee, would possess such remarkable linguistic abilities. The Galileans were not known for their education or refinement, and yet they displayed a proficiency in various local tongues, leaving the onlookers in a state of awe and wonder. This ability was seen as extraordinary, given the Galileans' rough background and lack of exposure to formal learning.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.7721165285678988,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                28.98,
+                36.82,
+                34.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people marveled in astonishment as the Galileans, who were predominantly unlearned and rudely regarded, suddenly expressed themselves in diverse local languages. This linguistic prowess displayed by the Galileans, hailing from a region known for its lack of refinement and education, left the crowd in awe and raised questions about the origin and meaning of this phenomenon. The Galileans' unexpected ability to speak these different tongues caused great surprise and speculation among the onlookers.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8890113979390804,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                30.35,
+                35.88,
+                33.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Galileans were able to speak in various local tongues, which left the crowd astonished and wondering about the cause and meaning of this remarkable event. The people were struck with surprise and amazement, for the Galileans were not known for their education or cultural refinement. This unexpected display of linguistic abilities by the Galileans, who were predominantly unlearned and from a rough background, sparked speculation and intrigue among the onlookers.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.7298670959962192,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.86,
+            "commentatorTierSimilarities": [
+                28.9,
+                33.58,
+                37.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

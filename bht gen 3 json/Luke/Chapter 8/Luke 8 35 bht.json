@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:16:43",
+    "verseRef": "Luke 8:35",
+    "bestBHT": {
+        "bht": "They found the man out of whom the devils were departed, sitting at the feet of Jesus. This detail indicates the accuracy and independence of the Gospel account, as it denotes an eye-witness. The phrase used in both Mark and Luke suggests a common origin of the two narratives, although they have since diverged. The man's posture of sitting at Jesus' feet shows his humility and willingness to receive instruction as a disciple. Seeing him clothed and in his right mind, the people around were afraid, perhaps astonished by the transformation they witnessed.",
+        "wordCount": 95,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.229561881593527,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.23,
+        "commentatorTierSimilarities": [
+            37.72,
+            31.29,
+            30.99
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This particularity denotes an eye-witness.",
+            "The phrases common to Mark and Luke... denote a common origin of the two narratives.",
+            "The two narratives have however become considerably deflected, as comparison will show."
+        ],
+        "Philip Schaff": [
+            "Luke 8:35. At the feet of Jesus . Peculiar to Luke, indicating accuracy as well as independence. Notice the correct reading of this verse, which is unusually graphic.",
+            "\t"
+        ],
+        "John Gill": [
+            "Found the man out of whom the devils were departed, sitting at the feet of Jesus; quiet and serene, in an humble posture, and as a disciple of Christ, receiving instructions from him.\" ",
+            "Clothed, and in his right mind.\" ",
+            "They were afraid."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They found the man out of whom the devils were departed, sitting at the feet of Jesus. This detail indicates the accuracy and independence of the Gospel account, as it denotes an eye-witness. The phrase used in both Mark and Luke suggests a common origin of the two narratives, although they have since diverged. The man's posture of sitting at Jesus' feet shows his humility and willingness to receive instruction as a disciple. Seeing him clothed and in his right mind, the people around were afraid, perhaps astonished by the transformation they witnessed.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.229561881593527,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.23,
+            "commentatorTierSimilarities": [
+                37.72,
+                31.29,
+                30.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They found the man out of whom the devils were departed, sitting at the feet of Jesus. This detail indicates an eye-witness account, emphasizing accuracy and independence. The parallel phrases in Mark and Luke support a common origin of the narratives, although over time they have diverged. The man's posture reveals his humility and desire to learn as a disciple. Observing the man clothed and in his right mind, those present were gripped with fear, likely in awe of the radical transformation they witnessed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.1313712960126654,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.96,
+            "commentatorTierSimilarities": [
+                39.97,
+                29.42,
+                30.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man from whom the demons were departed was found sitting at the feet of Jesus, signifying an accurate and independent eye-witness account. The shared phrases in Mark and Luke reflect a common source for their narratives, although some deviation is evident upon comparison. The man's humble posture of sitting at Jesus' feet demonstrates his willingness to receive instruction as a disciple. When people saw him clothed and in his right mind, fear overcame them, possibly due to the startling transformation they witnessed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.219194260841386,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.88,
+            "commentatorTierSimilarities": [
+                35.45,
+                31.91,
+                32.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man who had been freed from demonic possession was discovered sitting at the feet of Jesus, illustrating the reliability of the eyewitness account. The shared phrases used in both Mark and Luke imply a common origin for their narratives, although they have diverged somewhat over time. By sitting at Jesus' feet, the man exhibited humility and a desire to learn as a disciple. The onlookers were filled with fear when they saw him now clothed and in his right mind, presumably in awe of the remarkable transformation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.1751815833063124,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.42,
+            "commentatorTierSimilarities": [
+                38.01,
+                30.29,
+                31.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man who had been possessed by demons was found sitting at the feet of Jesus. This particularity denotes an eye-witness, highlighting the accuracy of the account. The similar phrases in Mark and Luke suggest a common origin of the narratives, although they have diverged in certain aspects. The man's humble posture of sitting at Jesus' feet reveals his willingness to learn as a disciple. The people's fear upon seeing him clothed and in his right mind points to their astonishment at witnessing such a powerful transformation.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.153663157321663,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.7,
+            "commentatorTierSimilarities": [
+                43.3,
+                28.55,
+                28.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

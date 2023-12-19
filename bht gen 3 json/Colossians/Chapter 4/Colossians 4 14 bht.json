@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:21:55",
+    "verseRef": "Colossians 4:14",
+    "bestBHT": {
+        "bht": "The beloved physician Luke is mentioned, who could be the same Luke known as the Evangelist. It is speculated that Luke may have first become connected with Paul in a professional capacity, as a physician attending to him during his illness. While there is no additional information about Luke in this context, it is remarkable to witness the friendship and collaboration between a preacher and a physician within the community.",
+        "wordCount": 70,
+        "quoteTokenProportion": 56.0,
+        "qualityScore": 2.5791452938239496,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.1,
+        "commentatorTierSimilarities": [
+            36.09,
+            27.17,
+            36.74
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This Luke has ever been taken for the Evangelist.",
+            "In the designation, the beloved physician, there may be a trace of what has been supposed, that it was in a professional capacity that he first became attached to St. Paul.",
+            "The absence of any honourable or endearing mention here may be owing to the commencement of this apostasy, or some unfavourable indication in his character."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is conjectured that Luke 'the beloved physician' (the same as the Evangelist), may have first become connected with Paul in professionally attending on him in the sickness under which he labored in Phrygia and Galatia.",
+            "Thus the allusion to his medical profession is appropriate in writing to men of Phrygia.",
+            "Perhaps, already, his real character was betraying itself."
+        ],
+        "Albert Barnes": [
+            "The miraculous power of healing, possessed by the Saviour and his apostles, contributed much to the success of their preaching.",
+            "For the power of alleviating pain of body - of restoring to health by miracles, would not only be an evidence of the divine origin of their mission - a credential that they were sent from God.",
+            "One of the best qualifications in missionaries in modern times, in order to gain access to the pagan, is an acquaintance with the healing art."
+        ],
+        "Marvin Vincent": [
+            "Luke - Demas. See on Philippians 1:24. ",
+            "The beloved physician. See Introduction to Luke."
+        ],
+        "John Calvin": [
+            "I do not agree with those who understand this to be Luke the Evangelist; for I am of opinion that he was too well known to stand in need of such a designation.",
+            "He would, undoubtedly, have called him his fellow-helper, or at least his companion and participant in his conflicts.",
+            "I rather conjecture that he was absent at that time, and that it is another of the same name that is called a physician, to distinguish him from the other."
+        ],
+        "Philip Schaff": [
+            "Luke, the beloved physician; undoubtedly the Evangelist, not to be confounded with Lucius...He may have been known at Coloss\u00e6, but his gospel could scarcely have been known there, if indeed it was written so early.\" ",
+            "The word 'beloved' is emphatic ('the physician, the beloved one'), giving prominence to his relation to Paul.",
+            "The absence of any honorable or endearing mention here [referring to Demas] may be owing to the commencement of this apostasy, or some unfavorable indication in his character."
+        ],
+        "Archibald T. Robertson": [
+            "Luke, the beloved physician... The author of the Gospel and the Acts.\" ",
+            "Both Mark and Luke are with Paul at this time, possibly also with copies of their Gospels with them.\" ",
+            "It is beautiful to see preacher and physician warm friends in the community."
+        ],
+        "John Gill": [
+            "Luke the Evangelist, though some doubt it, is here intended, who was a constant companion of the apostle in his troubles, and went with him to Rome.",
+            "Luke came to Christ, and being taught by him, became one of the seventy disciples.",
+            "The apostle calls him 'beloved', not on account of his profession, in which he might be useful to many, but as he was a brother in Christ, a minister of the Gospel, and a fellow labourer of his."
+        ],
+        "John Wesley": [
+            "Luke, the physician \u2014 Such he had been, at least, if he was not then."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Colossians 4:14, Luke the beloved physician is mentioned, and it is likely that he is the same Luke who is known as the Evangelist. It is possible that Luke initially became connected with Paul in a professional capacity, as a physician attending to him during his sickness in Phrygia and Galatia. The absence of any further honorable mention of Luke may indicate some unfavorable indication in his character or the beginning signs of apostasy. However, it is still beautiful to see the friendship and collaboration between a preacher and a physician in the community.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.3395595132034197,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.13,
+            "commentatorTierSimilarities": [
+                36.02,
+                28.99,
+                34.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Luke the beloved physician, who is likely the same Luke known as the Evangelist, is mentioned in this passage. It is suggested that Luke may have first become connected with Paul in his role as a physician, attending to him during an illness. While there is no further honorable mention of Luke, it is still remarkable to see the friendship and collaboration between a preacher and a physician in the community.",
+            "wordCount": 71,
+            "quoteTokenProportion": 58.0,
+            "qualityScore": 2.6084415858535044,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.07,
+            "commentatorTierSimilarities": [
+                35.91,
+                27.55,
+                36.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Luke the beloved physician, possibly the same Luke referred to as the Evangelist, is mentioned in this verse. Some believe that Luke first became connected to Paul in a professional capacity, possibly as a physician who attended to Paul during his sickness. Although there is no additional mention of Luke in this context, it is still significant to witness the friendship and partnership between a preacher and a physician within the community.",
+            "wordCount": 72,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.54370454081021,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.92,
+            "commentatorTierSimilarities": [
+                35.6,
+                27.64,
+                36.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Luke, the beloved physician, is mentioned in this passage, and it is believed that he could be the same Luke referred to as the Evangelist. Some suggest that Luke might have initially become connected to Paul in a professional capacity, as a physician attending to him during his sickness. Although there is no further mention of Luke's character or role, it is fascinating to see the bond between a preacher and a physician, working together for the well-being of others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 58.62,
+            "qualityScore": 2.5696938614153826,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.78,
+            "commentatorTierSimilarities": [
+                35.22,
+                26.99,
+                37.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The beloved physician Luke is mentioned, who could be the same Luke known as the Evangelist. It is speculated that Luke may have first become connected with Paul in a professional capacity, as a physician attending to him during his illness. While there is no additional information about Luke in this context, it is remarkable to witness the friendship and collaboration between a preacher and a physician within the community.",
+            "wordCount": 70,
+            "quoteTokenProportion": 56.0,
+            "qualityScore": 2.5791452938239496,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.1,
+            "commentatorTierSimilarities": [
+                36.09,
+                27.17,
+                36.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

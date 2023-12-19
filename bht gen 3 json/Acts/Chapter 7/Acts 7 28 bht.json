@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:27:38",
+    "verseRef": "Acts 7:28",
+    "bestBHT": {
+        "bht": "Moses questions his challenger if he wishes to kill him, referring to his act of killing the Egyptian the previous day. Stephen highlights Moses' mistaken belief of the act going unseen. The deliberate choice of words indicates Moses' intention to reveal his actions and put himself in danger. Though not explicitly mentioned in the Old Testament, this incident seems to have become known, possibly through an eyewitness or someone who had been informed about it.",
+        "wordCount": 75,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.3084483716009525,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.85,
+        "commentatorTierSimilarities": [
+            18.69,
+            36.98,
+            44.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "28, 29. Wilt thou kill me, as thou",
+            "\tdidst the Egyptian yesterday?\u2014Moses had thought the deed unseen",
+            "\t(Exodus 2:12), but it now appeared",
+            "\the was mistaken."
+        ],
+        "Albert Barnes": [
+            "How it was known that he had killed the Egyptian does not appear.",
+            "It was probably communicated by the man who was rescued from the hands of the Egyptian.",
+            "Exodus 2:11-12."
+        ],
+        "Archibald T. Robertson": [
+            "Wouldest thou kill me?",
+            "Do you wish to kill me?",
+            "See Exodus 2:14 quoted by Stephen."
+        ],
+        "John Gill": [
+            "Wilt thou kill me as thou didst the Egyptian yesterday?\" - That is, is it thy will? dost thou design to kill me?",
+            "To kill me dost thou say?\" - It is not said, \"dost thou seek?\" but \"dost thou say?\" from whence you may learn, that the ineffable name was made mention of over the Egyptian, and he slew him.",
+            "The words were very spitefully said, on purpose to publish the thing, and to expose Moses to danger of life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Moses, thinking that his act of killing the Egyptian had gone unnoticed, questioned the intentions of the Israelite who challenged him, asking if he desired to kill him as he had killed the Egyptian the day before. Stephen references this incident in Acts 7:28, highlighting how Moses' belief that his actions were hidden was proven wrong. The specific mention of Wilt thou kill me? emphasizes the deliberate effort to bring attention to Moses' actions and to potentially endanger his own life. This incident, although not explicitly mentioned in the Old Testament, seems to have been known and possibly communicated by someone who had witnessed the event or been informed by the rescued Israelite.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3566028818014784,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.45,
+            "commentatorTierSimilarities": [
+                21.97,
+                36.67,
+                41.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moses, questioning his challenger, asks if he wishes to kill him as he did the Egyptian the day before. Stephen draws attention to this incident, highlighting how Moses' belief in the secrecy of his actions was proven wrong. The deliberate words used by Moses reveal an attempt to expose his deed and potentially jeopardize his own life. Although not explicitly mentioned in the Old Testament, this event seems to have been known and possibly conveyed by someone who witnessed or heard about it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.2782441202352668,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.84,
+            "commentatorTierSimilarities": [
+                15.8,
+                38.75,
+                45.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses confronts his challenger, asking if he desires to kill him as he did the Egyptian the day before. Stephen brings attention to this incident, pointing out Moses' mistaken belief that his act went unnoticed. The deliberate choice of words showcases Moses' intention to expose his deed and put his own life at risk. While not explicitly mentioned in the Old Testament, it seems this event became known, possibly through an eyewitness or someone informed about it.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.2924787147486574,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.32,
+            "commentatorTierSimilarities": [
+                16.13,
+                39.0,
+                44.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses questions his challenger if he wishes to kill him, referring to his act of killing the Egyptian the previous day. Stephen highlights Moses' mistaken belief of the act going unseen. The deliberate choice of words indicates Moses' intention to reveal his actions and put himself in danger. Though not explicitly mentioned in the Old Testament, this incident seems to have become known, possibly through an eyewitness or someone who had been informed about it.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.3084483716009525,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.85,
+            "commentatorTierSimilarities": [
+                18.69,
+                36.98,
+                44.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses challenges his adversary, asking if he desires to kill him in the same way he killed the Egyptian the day before. Stephen draws attention to this event, emphasizing Moses' mistaken belief that his act had gone unnoticed. The intentional choice of words suggests Moses' aim to expose his actions and put himself at risk. Although not explicitly mentioned in the Old Testament, it appears that this incident became known, possibly through an eyewitness or someone informed about it.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.2639170889767688,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.37,
+            "commentatorTierSimilarities": [
+                16.25,
+                38.94,
+                44.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

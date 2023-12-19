@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 13:53:11",
+    "verseRef": "Philippians 1:4",
+    "bestBHT": {
+        "bht": "In every prayer, Paul joyfully intercedes for the Philippians, overflowing with love. His love for all is evident, as he does not recognize divisions among them. Joy and love animate his prayers, as he reflects on their consistent walk and benevolent lives. Paul's thankfulness is manifested in his prayers, rejoicing in the history and recent acts of love of the Philippian church. With joy in his heart, he presents their prayers to God, mingling thanksgiving. This Epistle, filled with love and joy, is a testament to Paul's happiness even amidst his imprisonment.",
+        "wordCount": 94,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.1127635116254133,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.59,
+        "commentatorTierSimilarities": [
+            31.0,
+            33.95,
+            35.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Always\u2014every\u2014for you all\u2014here we have the overflowings of a full heart.",
+            "The sense is, that every time he prayed, he joyfully offered up that portion of his prayers which was an intercession for them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The frequent repetition in this Epistle of 'all' with 'you,' marks that Paul desires to declare his love for all alike, and will not recognize any divisions among them.",
+            "Love and joy are the two first-fruits of the Spirit. Joy gives especial animation to prayers.",
+            "It marked his high opinion of them, that there was almost everything in them to give him joy, and almost nothing to give him pain."
+        ],
+        "Albert Barnes": [
+            "Paul labors to show them that he never forgot them; that he always remembered them in his prayers.",
+            "The person or object that we remember in every prayer must be very dear to the heart.",
+            "With joy at your consistent walk and benevolent lives - mingling thanksgiving with my prayers in view of your holy walk."
+        ],
+        "John Calvin": [
+            "Always presenting prayer for you all in every prayer of mine.",
+            "They come into his mind as often as he prays.",
+            "It is with joy that he presents prayer in their behalf."
+        ],
+        "Philip Schaff": [
+            "We see here how the apostle\u2019s thankfulness manifested itself.",
+            "Feeling this, St. Paul comes to God with supplication, that as they now stand, so they may continue, and only change to a greater advancement in grace and holiness.",
+            "The joy would have many sources. It would come in part from the retrospect of the history of the Philippian church to which he has just alluded; and in part from the most recent manifestations of their love during his present imprisonment."
+        ],
+        "Archibald T. Robertson": [
+            "With joy (\u03bc\u03b5\u03c4\u03b1 \u03c7\u03b1\u03c1\u03b1\u03c2). Keynote of the Epistle.\" ",
+            "Paul is a happy prisoner as in Philippi when he and Silas sang praises at midnight though in prison (Acts 16:25)."
+        ],
+        "John Gill": [
+            "The apostle was a praying believer, and a praying minister: notwithstanding all his gifts, and graces, and high attainments, he was not above the work and duty of prayer.\" ",
+            "Requests are to be made known to God with thanksgiving. When we request a favor of him, it becomes us to return thanks for what we have received from him.\" ",
+            "Thanksgiving is a branch of prayer; as we have always mercies to ask for, we have always mercies to be thankful for."
+        ],
+        "John Wesley": [
+            "With joy \u2014 After the epistle to the Ephesians, wherein love reigns, follows this, wherein there is perpetual mention of joy.\" ",
+            "And joy peculiarly enlivens prayer.",
+            "The sum of the whole epistle is, I rejoice. Rejoice ye."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In every prayer, Paul joyfully intercedes for the Philippians, overflowing with love and a full heart. His repetition of all with you emphasizes his unwavering love for every member of the church, seeing their unity rather than divisions. Love and joy are evident in his prayers, for their consistent walk in faith brings him great joy. Paul's thankfulness is manifested in his prayers, as he reflects on the history of the Philippian church and their recent acts of love. With joy in his heart, he presents their prayers to God, mingling thanksgiving for the mercies they have received. This Epistle, filled with love and joy, is a testament of Paul's happiness even amidst his imprisonment, just as he and Silas joyfully sang praises to God while in prison.",
+            "wordCount": 130,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.1917346365311925,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.22,
+            "commentatorTierSimilarities": [
+                30.97,
+                34.52,
+                34.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In every prayer, Paul joyfully intercedes for the Philippians, overflowing with love. His love for all is evident, as he does not recognize divisions among them. Joy and love animate his prayers, as he reflects on their consistent walk and benevolent lives. Paul's thankfulness is manifested in his prayers, rejoicing in the history and recent acts of love of the Philippian church. With joy in his heart, he presents their prayers to God, mingling thanksgiving. This Epistle, filled with love and joy, is a testament to Paul's happiness even amidst his imprisonment.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.1127635116254133,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.59,
+            "commentatorTierSimilarities": [
+                31.0,
+                33.95,
+                35.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In every prayer, Paul joyfully intercedes for the Philippians, overflowing with love. His love for all is evident, as he does not recognize divisions among them. Joy and love animate his prayers, as he reflects on their consistent walk and benevolent lives. Paul's thankfulness is manifested in his prayers, rejoicing in the history and recent acts of love of the Philippian church. With joy in his heart, he presents their prayers to God, mingling thanksgiving. This Epistle is a testament to Paul's happiness even amidst his imprisonment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.078602357437621,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                30.96,
+                34.16,
+                34.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In every prayer, Paul joyfully intercedes for the Philippians, overflowing with love. His love for all is evident, as he does not recognize divisions among them. Joy animates his prayers, reflecting on their consistent walk and benevolent lives. Paul's thankfulness is manifested in his prayers, rejoicing in the history and recent acts of love. With joy in his heart, he presents their prayers to God, mingling thanksgiving. This Epistle is a testament to Paul's happiness even amidst his imprisonment.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.0882514014816937,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.78,
+            "commentatorTierSimilarities": [
+                30.85,
+                34.02,
+                35.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's overflowing love for the Philippians is evident in every prayer, where he joyfully intercedes for them. He does not recognize divisions among them, expressing his high opinion of them. Joy and love animate his prayers, as he rejoices in their consistent walk and acts of love. Thankfulness permeates his prayers, mingling with the reflection on the Philippian church's history and recent acts of love. This Epistle, filled with love, joy, and gratitude, showcases Paul's happiness and devotion amidst his own imprisonment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.0533531468313635,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.62,
+            "commentatorTierSimilarities": [
+                31.52,
+                34.7,
+                33.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

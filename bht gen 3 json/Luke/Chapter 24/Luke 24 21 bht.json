@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:24:15",
+    "verseRef": "Luke 24:21",
+    "bestBHT": {
+        "bht": "Their hope of redemption wavered, a weakened trust that hesitated to acknowledge their true belief. The promise of deliverance, encompassing both spiritual and political liberation, seemed shattered with His death and the passing days. Their doleful tale revealed profound despondency, their words filled with particles expressing deep emotion. We were hoping, they lamented, their faint hope fading further with each day that passed, until the third day arrived without the fulfillment of the promise. Yet, still, they clung to their flickering hope, holding on to the memory of His word.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.8022673583141295,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+        "commentatorTierSimilarities": [
+            33.8,
+            38.1,
+            28.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "hoped is a word of weakened trust, and shrinking from the avowal that they \u2018believed\u2019 this.\" ",
+            "redeemed\u2014in the theocratic sense\u2014including both the spiritual and political Kingdom.",
+            "to day is the third day] literally, he is now in the third day: the words are spoken not without a reference, in the mind of the speaker, to His promise of rising on the third day."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We trusted, c.\u2014They expected the promised Deliverance at His hand, but in the current sense of it, not by His death.\" ",
+            "Not only did His death seem to give the fatal blow to their hopes, but He had been two days dead already, and this was the third.",
+            "A doleful tale truly, told out of the deepest despondency."
+        ],
+        "Albert Barnes": [
+            "We trusted - We hoped and expected.",
+            "The expressions here are perfectly natural. They bespeak an agitated mind. They are simple touches of nature, which show that the book was not forged.",
+            "Yet we begin to remember his promise - the angels have informed us that he is alive - but we do not know how to put these things together, or what to make of them."
+        ],
+        "Marvin Vincent": [
+            "Trusted [\u03b7\u03bb\u03c0\u03b9\u03b6\u03bf\u03bc\u03b1\u03bd] . More correctly, hoped. Imperfect : were hoping all the while.",
+            "Should have redeemed. Rev., more correctly, should redeem [\u03bb\u03c5\u03c4\u03c1\u03bf\u03c5\u03c3\u03b8\u03b1\u03b9] .",
+            "Today is the third day (trithn tauthn hJmeran agei shmeron). The best texts omit today. The phrase forms an idiom which cannot be neatly rendered."
+        ],
+        "John Calvin": [
+            "But we hoped... the hope which they had entertained respecting Christ was not broken off.",
+            "he industriously collects all that can contribute to its support.",
+            "holy man, hesitating between faith and fear, employs what is adapted to nourish faith, and struggles against fear to the utmost of his power."
+        ],
+        "Philip Schaff": [
+            "But we (on our part over against the hostility of the rulers) hoped.",
+            "Their view of redemption included both spiritual and political deliverance.",
+            "Their faint hope had grown fainter, until the third day came without bringing a fulfillment of the promise."
+        ],
+        "Archibald T. Robertson": [
+            "We were hoping.",
+            "From the bondage of Rome, no doubt.",
+            "Particles pile up to express their emotions."
+        ],
+        "John Gill": [
+            "They thought, hoped, and believed, that he was the Messiah, spoken of under the character of the Redeemer of Israel.",
+            "He was the true Messiah, and promised Redeemer; and who was to redeem, and has redeemed the whole Israel of God.",
+            "This day is greatly observed by the Jews... they speak of the third day of those that came up out of the captivity, of the third day of the resurrection of the dead, and of the third day of Esther."
+        ],
+        "John Wesley": [
+            "To-day is the third day \u2014 The day he should have risen again, if at all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Their hope was one of weakened trust, a shrinking from the avowal that they truly believed in the promise of redemption. This redemption, in the theocratic sense, encompassed both spiritual and political deliverance. As they walked and talked, the weight of His death and the passing of days overwhelmed them, their doleful tale told out of the deepest despondency. The particles piled up in their speech, reflecting the depth of their emotions. We were hoping, they said, a faint hope that had grown fainter with each passing day, until the third day arrived without fulfillment. Yet still, they clung to their flickering hope, remembering His promise of rising on the third day.",
+            "wordCount": 112,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7543664701500128,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
+            "commentatorTierSimilarities": [
+                31.81,
+                37.47,
+                30.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their hope was one of weakened trust, a shrinking from the avowal that they truly believed in the promise of redemption. This redemption, in the theocratic sense, encompassed both spiritual and political deliverance. As they walked and talked, the weight of His death and the passing of days overwhelmed them, their doleful tale told out of the deepest despondency. The particles piled up in their speech, reflecting the depth of their emotions. We were hoping, they said, a faint hope that had grown fainter with each passing day, until the third day arrived without fulfillment.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7237693947081119,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+            "commentatorTierSimilarities": [
+                33.32,
+                37.89,
+                28.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Their hope of redemption wavered, a weakened trust that hesitated to acknowledge their true belief. The promise of deliverance, encompassing both spiritual and political liberation, seemed shattered with His death and the passing days. Their doleful tale revealed profound despondency, their words filled with particles expressing deep emotion. We were hoping, they lamented, their faint hope fading further with each day that passed, until the third day arrived without the fulfillment of the promise. Yet, still, they clung to their flickering hope, holding on to the memory of His word.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.8022673583141295,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                33.8,
+                38.1,
+                28.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their hope of redemption was one of weakened trust, hesitant to fully acknowledge their belief in the promise. This promise of deliverance encompassed both spiritual and political liberation. As they walked and talked, the weight of His death and the passing days overwhelmed them, their doleful tale revealing deepest despondency. Their words, filled with particles of emotion, reflected the depth of their feelings. We were hoping, they admitted, their faint hope fading with each day, until the third day arrived without fulfillment. Yet, even in despair, they held on to the memory of His promise.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6913361720127713,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.58,
+            "commentatorTierSimilarities": [
+                32.96,
+                39.34,
+                27.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their hope of redemption was one of weakened trust, hesitant to fully acknowledge their belief in the promise. This promise of deliverance encompassed both spiritual and political liberation. As they walked and talked, the weight of His death and the passing days overwhelmed them, their doleful tale revealing deepest despondency. Their words, filled with particles of emotion, reflected the depth of their feelings. We were hoping, they admitted, their faint hope fading with each day, until the third day arrived without fulfillment. Yet, even in despair, they held on to the memory of His promise.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6913361720127713,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.58,
+            "commentatorTierSimilarities": [
+                32.96,
+                39.34,
+                27.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

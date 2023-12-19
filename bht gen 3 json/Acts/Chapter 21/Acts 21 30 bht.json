@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:34:58",
+    "verseRef": "Acts 21:30",
+    "bestBHT": {
+        "bht": "Amidst the uproar at the temple, the Levites swiftly shut the doors to prevent defilement and bloodshed in the holy place. The city was shaken as news of the disturbance spread, causing people to hurry and gather in great numbers. Paul was forcefully dragged out of the temple and down the steps while the doors were immediately closed between the inner and outer courts. This incident reveals the haste and lack of understanding among the people, urging us to be prepared for trials and to stand strong in the face of adversity.",
+        "wordCount": 92,
+        "quoteTokenProportion": 29.03,
+        "qualityScore": 1.8984774374802158,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+        "commentatorTierSimilarities": [
+            26.06,
+            34.46,
+            39.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Levites shut the doors to prevent profanation by a riot, and possibly bloodshed, in the temple.",
+            "The right of asylum was only for murder unawares.",
+            "By ver. 14 there, and by Joab\u2019s fleeing to the altar, 1 Kings ii. 28 ff., we see that [the right of asylum] was resorted to on other occasions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "30. took Paul, and drew him out of",
+            "\tthe temple; and forthwith the doors were shut\u2014that the murder",
+            "\tthey meant to perpetrate might not pollute that holy place."
+        ],
+        "Albert Barnes": [
+            "The city was moved - Was agitated; was thrown into commotion.",
+            "Drew him out of the temple - Under the pretence that he had defiled it. The evident design was to put him to death, Acts 21:31.",
+            "The doors were shut - The doors leading into the courts of the temple."
+        ],
+        "Marvin Vincent": [
+            "Drew him out of the temple...dragged out of the sacred enclosure and down the steps to the outer court.\" ",
+            "As they would not defile the temple proper with blood.",
+            "The doors were shut between the inner and outer courts."
+        ],
+        "John Calvin": [
+            "We see in this place the vanity of the common people, which count Paul a condemned man before ever they hear him.",
+            "This is a point of perverse zeal and mad rashness, in that they set themselves against Paul before they know his matter.",
+            "Let every one of us prepare himself by this, and such like examples, to suffer all manner [of] assaults, and to bear and abide all brunts."
+        ],
+        "Philip Schaff": [
+            "The rumour quickly reached the quarter of \u2018Zion\u2019 that the notorious Paul had been caught in an act of sacrilege in the temple.",
+            "It is easy to understand how it was repeated from mouth to mouth, in the first instance perhaps as a probability, then as a fact.",
+            "It is, however, more likely that these doors were shut, and Paul thrust out, to guard against the possibility of the temple floors being stained with blood and thus polluted in the event of Paul and his supposed companion being summarily put to death by the people."
+        ],
+        "Archibald T. Robertson": [
+            "All the city was shaken...violent motion and emotion.",
+            "There came a running together of the people...pell-mell scramble or rush.",
+            "Straightway the doors were shut...with a bang and at once."
+        ],
+        "John Gill": [
+            "The outcry in the temple reached the ears of some that were without, and these alarmed others; so that the report of a disturbance in the temple soon went through the whole city.\" ",
+            "and brought people out of their houses, who ran together in great numbers, to see what was the matter.\" ",
+            "and forthwith the doors were shut; not of themselves, as if there was something miraculous in it, as some have thought, but by the door keepers, the Levites; and which might be done, partly to prevent Paul's returning into it for refuge at the horns of the altar, and partly to keep out the Gentiles from coming in, they were alarmed with."
+        ],
+        "John Wesley": [
+            "And immediately the gates were shut \u2014 Both to prevent any farther violation of the temple; and to prevent Paul's taking sanctuary at the horns of the altar."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A riot erupted in the temple when the Levites quickly shut the doors to prevent any defilement or bloodshed. The commotion outside the temple grew as word spread, and people rushed together to witness the scene. Paul was forcefully dragged out of the sacred enclosure, while the doors were firmly shut between the inner and outer courts. The city was shaken by this violent event, and the doors were closed with a bang. Such a frenzy among the common people illustrates their hasty judgment and lack of understanding. This serves as a reminder for us to be prepared to endure trials and remain steadfast in the face of adversity.",
+            "wordCount": 109,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8669139398099164,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.42,
+            "commentatorTierSimilarities": [
+                28.99,
+                34.51,
+                36.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amidst the chaos and commotion, the Levites swiftly closed the temple doors to prevent the polluting of the holy place with bloodshed. The news of the disturbance in the temple quickly spread, causing people to flock together in curiosity. Paul, being forcefully dragged out of the sacred enclosure, was met with defiance and opposition. This incident serves as a reminder of the impetuousness and lack of understanding displayed by the common people, emphasizing the need for readiness when facing trials and enduring hardships.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.8175482396630755,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                23.68,
+                35.29,
+                41.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As a violent commotion erupted in the temple, the Levites urgently closed the doors to prevent any profanation or bloodshed within its sacred walls. The news of the disturbance quickly spread, causing people to rush together in curiosity and concern. In the midst of this chaos, Paul was forcefully dragged out of the holy enclosure, while the doors were firmly shut to keep out the Gentiles. This incident reveals the hasty judgment and lack of understanding among the people, reminding us to be prepared to face trials and remain steadfast in our faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.8097725631048331,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                24.17,
+                34.04,
+                41.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A violent upheaval unfolded in the temple as the Levites promptly closed the doors to prevent any desecration or potential bloodshed in that sacred space. Word of the disturbance swiftly spread, causing people to hastily converge upon the scene. Paul, forcibly pulled out of the temple and down the steps, was met with opposition and resistance. This incident highlights the impulsive judgment and lack of understanding exhibited by the crowd, serving as a reminder for us to be prepared to endure trials and stand firm in the face of adversity.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.758700867705461,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                23.99,
+                34.49,
+                41.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst the uproar at the temple, the Levites swiftly shut the doors to prevent defilement and bloodshed in the holy place. The city was shaken as news of the disturbance spread, causing people to hurry and gather in great numbers. Paul was forcefully dragged out of the temple and down the steps while the doors were immediately closed between the inner and outer courts. This incident reveals the haste and lack of understanding among the people, urging us to be prepared for trials and to stand strong in the face of adversity.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.8984774374802158,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                26.06,
+                34.46,
+                39.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

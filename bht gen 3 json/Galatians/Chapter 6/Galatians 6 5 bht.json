@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:21:25",
+    "verseRef": "Galatians 6:5",
+    "bestBHT": {
+        "bht": "In this passage, it becomes clear that each person must bear their own burden, the weight of their own sins and faults. The verse emphasizes personal responsibility and self-examination, discouraging comparison with others. It is a reminder that everyone will face judgment individually, receiving their own reward or punishment based on their own actions. This highlights the importance of taking ownership of our own lives and not relying on others to carry our burdens.",
+        "wordCount": 75,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.112159844895638,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+        "commentatorTierSimilarities": [
+            33.98,
+            26.47,
+            39.55
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And this is the more advisable, because in the nature of things, each man\u2019s own load will come upon himself to bear.\" ",
+            "The word in the Greek here, is different from that used in ver, 2. That signifies rather a burden imposed by a grievance, which we can lighten for one another: this, as above, the load which each accumulates for himself.\" ",
+            "The burden here...the load imposed on each by his own fault."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For (by this way, :-, of proving himself, not depreciating his neighbor by comparison) each man shall bear his own 'burden,' or rather, 'load' (namely, of sin and infirmity)...",
+            "Instead of 'thinking himself to be something,' he shall feel the 'load' of his own sin: and this will lead him to bear sympathetically with his neighbor's burden of infirmity.",
+            "\u00c6SOP says a man carries two bags over his shoulder, the one with his own sins hanging behind, that with his neighbor's sins in front."
+        ],
+        "Albert Barnes": [
+            "Every man shall have his proper reward. If he is a virtuous man, he will be happy; if a vicious man, he will be miserable.",
+            "If a virtuous man, he will have the source of happiness in himself; if a sinner, he must bear the proper penalty of his sin.",
+            "Let a man feel that he is soon to stand at the judgment-seat, and it will do much to keep him from an improper estimate of his own importance."
+        ],
+        "Marvin Vincent": [
+            "No one will have occasion to claim moral superiority to his neighbor, for each man's self-examination will reveal infirmities enough of his own.\" ",
+            "His own burdens will absorb his whole attention, and will leave him no time to compare himself with others.",
+            "Originally barh emphasizes the weight of the burden, fortion simply notes the fact that it is something to be born [\u03c6\u03b5\u03c1\u03b5\u03b9\u03bd], which may be either light or heavy."
+        ],
+        "John Calvin": [
+            "To destroy sloth and pride, he brings before us the judgment of God, in which every individual for himself, and without a comparison with others, will give an account of his life.",
+            "It is thus that we are deceived; for, if a man who has but one eye is placed among the blind, he considers his vision to be perfect; and a tawny person among negroes thinks himself white.",
+            "The apostle affirms that the false conclusions to which we are thus conducted will find no place in the judgment of God; because there every one will bear his own burden, and none will stand acquitted by others from their own sins."
+        ],
+        "Philip Schaff": [
+            "Those who bear their own burden are best able to sympathize with others and to share in their burdens.",
+            "Those who pray most for themselves pray most for others.",
+            "And the opportunity to bless others is itself one of the greatest of blessings."
+        ],
+        "Archibald T. Robertson": [
+            "Christ calls his \u03c6\u03bf\u03c1\u03c4\u03b9\u03bf\u03bd light, though he terms those of the Pharisees heavy (Matthew 23:4), meant for other people.",
+            "The terms are thus not always kept distinct, though Paul does make a distinction here from the \u03b2\u03b1\u03c1\u03b7 in verse Galatians 6:2.",
+            "Each shall bear his own burden (\u03c4\u03bf \u03b9\u03b4\u03b9\u03bf\u03bd \u03c6\u03bf\u03c1\u03c4\u03b9\u03bf\u03bd \u03b2\u03b1\u03c3\u03c4\u03b1\u03c3\u03b5). \u03a6\u03bf\u03c1\u03c4\u03b9\u03bf\u03bd is old word for ship's cargo (Acts 27:10)."
+        ],
+        "John Gill": [
+            "Every wicked man will bear his own burden; that is, the punishment of his own sins, and not another's.",
+            "The saints will be exempt from bearing this burden, because Christ has bore it for them, even all their sins, and all the punishment due unto them; but another burden, if it may be so called, even an exceeding and eternal weight of glory, shall be bore by them.",
+            "Every man shall receive his own reward, and not another's; and that according to his own works and labour, and not another's; not indeed for his works, but according to them, the nature of them, according to the grace of God, from whence his works spring, and by which they are performed."
+        ],
+        "John Wesley": [
+            "For every one shall bear his own burden \u2014 ln that day shall give an account of himself to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Galatians 6:5, each person is urged to bear their own burden, the load imposed on them by their own faults and sins. The emphasis is on self-examination and personal responsibility, rather than comparing oneself to others. This self-reflection will prevent one from thinking too highly of themselves, as they will be aware of their own infirmities. Just as a man carries two bags over his shoulder, one with his own sins and one with his neighbor's sins, everyone will have their own load to carry. Each person will receive their own reward or punishment according to their own works, emphasizing the importance of personal accountability.",
+            "wordCount": 108,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 2.212195455262158,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.9,
+            "commentatorTierSimilarities": [
+                35.95,
+                26.47,
+                37.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In light of these commentaries, it is clear that Galatians 6:5 teaches the importance of individual responsibility and self-examination. Each person is to bear their own burden, which represents the weight of their own sins and faults. This verse reminds us not to compare ourselves to others or think too highly of ourselves, as we each have our own load to carry. Ultimately, everyone will face judgment for their own actions, receiving their own reward or punishment based on their works.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.1244596087558083,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+            "commentatorTierSimilarities": [
+                33.65,
+                25.82,
+                40.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The significance of this passage becomes evident through the commentaries. It highlights the importance of self-examination and personal responsibility. Each person is urged to bear their own burden, which represents the weight of their own sins and faults. The emphasis is on not comparing oneself to others and realizing that everyone has their own load to carry. In the end, each individual will face judgment for their own actions, receiving their own reward or punishment based on their works.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9010165049178447,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.55,
+            "commentatorTierSimilarities": [
+                36.21,
+                24.25,
+                39.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This teaching emphasizes the need for personal accountability and reflection. Each person is called to bear their own burden, which represents the weight of their own sins and faults. This verse discourages comparison with others and highlights that everyone has their own load to carry. Everyone will face judgment individually, receiving their own reward or punishment based on their works. It is a reminder of the importance of taking responsibility for our own actions and not relying on the actions of others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9676243131068198,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                33.62,
+                26.81,
+                39.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this passage, it becomes clear that each person must bear their own burden, the weight of their own sins and faults. The verse emphasizes personal responsibility and self-examination, discouraging comparison with others. It is a reminder that everyone will face judgment individually, receiving their own reward or punishment based on their own actions. This highlights the importance of taking ownership of our own lives and not relying on others to carry our burdens.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.112159844895638,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                33.98,
+                26.47,
+                39.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

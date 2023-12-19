@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:23:09",
+    "verseRef": "Luke 22:62",
+    "bestBHT": {
+        "bht": "Peter, overcome with guilt, went outside and wept bitterly. The inclusion of the word bitterly highlights the intensity and sorrow of his tears. This poignant moment reveals the depths of Peter's remorse for denying Jesus. His tears serve as a powerful symbol of his brokenness and repentance, underscoring the transformative power of forgiveness. Peter's reaction is a poignant reminder of our human frailty and the need for humility, as well as the hope for restoration and healing that comes through genuine repentance.",
+        "wordCount": 84,
+        "quoteTokenProportion": 25.45,
+        "qualityScore": 1.1179513336890965,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.52,
+        "commentatorTierSimilarities": [
+            41.86,
+            0.0,
+            58.14
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "62. And Peter went out, and wept",
+            "\tbitterly\u2014(Also see on :-.)",
+            "\t",
+            " :-. JESUS",
+            "\tCONDEMNED TO DIE",
+            "\tAND SHAMEFULLY",
+            "\tENTREATED. ",
+            "\t",
+            "(See on :-; :-, c. and :-.)"
+        ],
+        "Archibald T. Robertson": [
+            "And he went out and wept bitterly. It is the ingressive aorist (\u03b5\u03ba\u03bb\u03b1\u03c5\u03c3\u03b5\u03bd), he burst into tears.\" ",
+            "A few old Latin documents omit this verse which is genuine in Matthew 26:75.\" ",
+            "It is the ingressive aorist (\u03b5\u03ba\u03bb\u03b1\u03c5\u03c3\u03b5\u03bd), he burst into tears. 'Bitter' is a common expression for tears in all languages and in all hearts."
+        ],
+        "John Gill": [
+            "And Peter went out and wept bitterly.",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, after denying Jesus three times as predicted, went out and wept bitterly. The verse highlights Peter's deep remorse and sorrow for his actions. The use of the word bitterly emphasizes the intensity of his tears and the profound emotional distress he experienced. This response shows the depth of Peter's regret and his realization of the gravity of the situation. Peter's tears symbolize his brokenness and repentance, illustrating the power of forgiveness and restoration in the face of mistakes and shortcomings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 22.64,
+            "qualityScore": 1.0287874776280015,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.55,
+            "commentatorTierSimilarities": [
+                41.75,
+                0.0,
+                58.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After denying Jesus three times, Peter left and wept bitterly. The use of the word bitterly underscores the intensity of Peter's tears and the extent of his remorse. His weeping signifies his deep regret and the weight of his actions. It showcases the depth of Peter's anguish, revealing the sincerity of his repentance. This moment captures the power of forgiveness and the transformation that can occur when one recognizes their mistakes and seeks reconciliation. Peter's tears illustrate the profound impact of true remorse and the potential for redemption.",
+            "wordCount": 91,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 0.9598693942003371,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.26,
+            "commentatorTierSimilarities": [
+                42.3,
+                0.0,
+                57.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, overcome with guilt, went outside and wept bitterly. The inclusion of the word bitterly highlights the intensity and sorrow of his tears. This poignant moment reveals the depths of Peter's remorse for denying Jesus. His tears serve as a powerful symbol of his brokenness and repentance, underscoring the transformative power of forgiveness. Peter's reaction is a poignant reminder of our human frailty and the need for humility, as well as the hope for restoration and healing that comes through genuine repentance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.1179513336890965,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.52,
+            "commentatorTierSimilarities": [
+                41.86,
+                0.0,
+                58.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Overwhelmed with guilt, Peter left and wept bitterly. The use of the word bitterly emphasizes the depth and intensity of his tears, reflecting his profound remorse. This poignant moment captures the human vulnerability to failure and the pain of betrayal. Peter's tears are a powerful expression of his genuine repentance, illustrating the capacity for transformation and redemption. Through his example, we are reminded of the importance of acknowledging our mistakes and seeking forgiveness, finding comfort in the hope of restoration and renewal.",
+            "wordCount": 83,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 1.054417989294723,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.4,
+            "commentatorTierSimilarities": [
+                43.6,
+                0.0,
+                56.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, deeply remorseful, went outside and wept bitterly. The inclusion of the word bitterly signifies the intensity and sincerity of his tears, highlighting the extent of his regret. This poignant moment portrays the profound impact of recognizing one's shortcomings and the weight of Peter's denial of Jesus. Peter's weeping serves as a powerful symbol of his brokenness and genuine repentance, reminding us of the potential for forgiveness and restoration when we confront our own flaws and seek reconciliation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.092630521946088,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.67,
+            "commentatorTierSimilarities": [
+                39.41,
+                0.0,
+                60.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

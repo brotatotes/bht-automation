@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:34:22",
+    "verseRef": "Acts 20:20",
+    "bestBHT": {
+        "bht": "A minister of the gospel must not timidly withhold anything profitable from their congregation, just as Paul suppressed nothing of the truth for fear of consequences. Both public preaching and private ministrations are vital for the edification and welfare of the flock. By ensuring a pure and free profession of sound doctrine, pastors can lead their congregation into a true knowledge of the Gospel and safeguard them from errors and immoralities. It is through the faithful teaching of profitable truths that pastors can fulfill their duty and be pure from the blood of those they serve.",
+        "wordCount": 96,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7692986725162712,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+        "commentatorTierSimilarities": [
+            15.46,
+            34.37,
+            50.18
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I kept back nothing...reserved himself, withdrew himself from any open declaration of sentiments.\" ",
+            "The sense in Gal. ii. 12 is similar, though not exactly identical.\" ",
+            "In Heb. x. 38 it is different."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "kept back\u2014timidly withheld from fear of consequences.",
+            "nothing that was profitable\u2014edification directing all.",
+            "Did an apostle, whose functions were of so wide a range, not feel satisfied without private as well as public ministrations? How then must pastors feel?"
+        ],
+        "Albert Barnes": [
+            "A minister of the gospel must be the judge of what will be profitable to the people of his charge.",
+            "His aim should be to promote their real welfare to preach what will be profitable.",
+            "No doctrine that will be profitable should be kept back; no labor that may promote the welfare of the flock should be withheld."
+        ],
+        "Marvin Vincent": [
+            "Kept back [\u03c5\u03c0\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03bc\u03b7\u03bd] . A picturesque word. Originally, to draw in or contract. Used of furling sails, and of closing the fingers; of drawing back for shelter; of keeping back one's real thoughts; by physicians, of withholding food from patients.",
+            "Paul 's metaphors lie mainly on the lines of military life, architecture, agriculture, and the Grecian games.",
+            "Paul means here that he suppressed nothing of the truth through fear of giving offense."
+        ],
+        "John Calvin": [
+            "But Paul prescribeth such a desire to edify, that the pastor must omit nothing, so much as in him lieth, which is profitable to be known.",
+            "For they be bad masters who do so keep their scholars in the first principles, that they do never come unto the knowledge of the truth.",
+            "Therefore, we must note Paul\u2019s word, when as he saith that he kept back nothing, but did show whatsoever things were profitable for the people; for by this we gather that the pure and free profession of sound doctrine is required at the hands of the servants of Christ."
+        ],
+        "Philip Schaff": [
+            "Have taught you publicly.\" ",
+            "Three months, we read, he taught openly in the synagogue, and two years in the school (an open and no doubt well-known lecture hall) of Tyrannus.",
+            "An open and no doubt well-known lecture hall."
+        ],
+        "Archibald T. Robertson": [
+            "It was so used of drawing back or down sails on a ship and, as Paul had so recently been on the sea, that may be the metaphor here.",
+            "But it is not necessarily so as the direct middle here makes good sense and is frequent, to withdraw oneself, to cower, to shrink, to conceal, to dissemble.",
+            "It is worth noting that this greatest of preachers preached from house to house and did not make his visits merely social calls. He was doing kingdom business all the while."
+        ],
+        "John Gill": [
+            "To lead them into a true knowledge of the doctrines of the Gospel, and to confirm them in the same, and to preserve them from errors in principle, and immoralities in practice, and to encourage the exercise of every grace, and to instruct them in every branch of duty.",
+            "The things the apostle may have chiefly in view are the truths of the Gospel, which are very profitable to the souls of men.",
+            "He taught the same publicly as privately, and privately as publicly: and took every opportunity of instilling Gospel truths into them, and of enriching them with a larger knowledge of them."
+        ],
+        "John Wesley": [
+            "For even an apostle could not discharge his duty by public preaching only.",
+            "How much less can an ordinary pastor!",
+            "Else he had not been pure from their blood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A minister of the gospel, like the apostle Paul, must not withhold any profitable truths from their congregation for fear of giving offense. Just as Paul suppressed nothing of the truth, pastors should also strive to preach what is beneficial for the spiritual edification of their flock. Preaching publicly is important, but it is equally crucial to have private ministrations and engage in kingdom business. The aim should be to lead people into a true knowledge of the doctrines of the Gospel, to encourage the exercise of every grace, and to instruct them in every branch of duty. By doing so, pastors can ensure that they are pure from the blood of those they serve.",
+            "wordCount": 115,
+            "quoteTokenProportion": 41.98,
+            "qualityScore": 1.7742765256994861,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                18.22,
+                31.77,
+                50.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A minister of the gospel must not withhold anything profitable for their congregation. Paul suppressed nothing of the truth and pastors should follow suit. Public preaching is important, but private ministrations and kingdom business are equally crucial. The aim is to lead people to a true knowledge of Gospel doctrines, encourage every grace, and instruct them in every duty. By doing so, pastors can ensure that they are pure from the blood of those they serve.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7020244181029898,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+            "commentatorTierSimilarities": [
+                16.37,
+                33.69,
+                49.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A minister of the gospel must not timidly withhold anything profitable from their congregation, just as Paul suppressed nothing of the truth for fear of consequences. Both public preaching and private ministrations are vital for the edification and welfare of the flock. By ensuring a pure and free profession of sound doctrine, pastors can lead their congregation into a true knowledge of the Gospel and safeguard them from errors and immoralities. It is through the faithful teaching of profitable truths that pastors can fulfill their duty and be pure from the blood of those they serve.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7692986725162712,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                15.46,
+                34.37,
+                50.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A minister must not withhold anything profitable, just as Paul suppressed nothing of the truth. Both public and private ministrations are crucial for the edification of the flock. Pastors must lead their congregation into a true understanding of Gospel doctrines, safeguarding them from errors and immorality. By faithfully teaching profitable truths, pastors fulfill their duty and remain pure from the blood of those they serve.",
+            "wordCount": 65,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.6947651722821067,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.69,
+            "commentatorTierSimilarities": [
+                18.31,
+                32.11,
+                49.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pastors must not timidly withhold anything profitable from their flock, but rather follow the example of Paul, who did not suppress any profitable truths. Both public and private ministrations are crucial for the edification and welfare of the congregation. By faithfully teaching these profitable truths, pastors can lead their congregation into a true knowledge of the Gospel, safeguarding them from errors and immorality. This diligent effort ensures that pastors fulfill their duty and remain pure from the blood of those they serve.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.656245688680785,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.41,
+            "commentatorTierSimilarities": [
+                16.1,
+                31.76,
+                52.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

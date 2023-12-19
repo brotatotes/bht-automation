@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:18:43",
+    "verseRef": "Luke 11:44",
+    "bestBHT": {
+        "bht": "The Pharisees were like whited sepulchres, appearing clean on the outside but internally full of abomination. Their outward righteousness masked their hidden corruption, misleading those who encountered them. Like unseen tombs, their true nature escaped recognition, resulting in unknowing defilement. This piercing analogy exposed their hypocrisy, reminding others of the peril in being ensnared by a deceptive facade of righteousness.",
+        "wordCount": 60,
+        "quoteTokenProportion": 32.0,
+        "qualityScore": 2.0176006860177127,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+        "commentatorTierSimilarities": [
+            35.18,
+            32.79,
+            32.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sepulchres are whited, that men may not pass over them unawares: and the comparison is to the outside fairness, and inside abomination.",
+            "Here, the graves are not seen, and men thinking they are walking on clean ground are defiled by passing over them.",
+            "Perhaps the difference of expression may have been occasioned by the greater wealth and splendour and display of the Pharisees in the metropolis."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As one might unconsciously walk over a grave concealed from view, and thus contract ceremonial defilement.",
+            "the plausible exterior of the Pharisees kept people from perceiving the pollution they contracted from coming in contact with such corrupt characters.",
+            "the pollution they contracted from coming in contact with such corrupt characters."
+        ],
+        "Marvin Vincent": [
+            "Tombs which appear not [\u03c4\u03b1 \u03bc\u03bd\u03b7\u03bc\u03b5\u03b9\u03b1 \u03c4\u03b1 \u03b1\u03b4\u03b7\u03bb\u03b1] . Lit., the tombs, the unseen ones.",
+            "In Matthew the sepulchres are whitened, that men may see them and avoid ceremonial defilement.",
+            "Here they are not seen, and men walking on them are unconsciously defiled."
+        ],
+        "Philip Schaff": [
+            "The 'whited sepulchres' were those of the rich, and the application is to external beauty covering inner corruption.",
+            "Humbler tombs are spoken of, which in the course of time would be unnoticed by those passing over them, thus causing defilement.",
+            "There the pretence of Pharisaism is brought out; here its insidiousness."
+        ],
+        "Archibald T. Robertson": [
+            "Men do not know how rotten they are.",
+            "The Pharisees are called 'whited sepulchres.'",
+            "These three woes cut to the quick and evidently made the Pharisees wince."
+        ],
+        "John Gill": [
+            "Christ compares the Pharisees, because of their hypocrisy, and secret iniquity, both to whited sepulchres, and to those that were not: to those that were, because, like them, they looked beautiful without, and righteous in the sight of men, and yet were inwardly full of all manner of pollution and sin.\" ",
+            "They did not appear to be what they were, and men were deceived by them; and under specious pretences to religion and holiness, were by their corrupt doctrines and practices unawares drawn into the commission of sin.\" ",
+            "Regard may not only be had to graves covered with grass, or not marked with lime, by which they might be known; but also to what the Jews call, \u05e7\u05d1\u05e8 \u05d4\u05ea\u05d4\u05d5\u05dd, 'the grave of the abyss' z; a grave that is not known no more than if it was in the bottomless pit."
+        ],
+        "John Wesley": [
+            "For ye are as graves which appear not... being overgrown with grass, so that men are not aware, till they stumble upon them, and either hurt themselves, or at least are defiled by touching them.",
+            "On another occasion Christ compared them to whited sepulchres, fair without, but foul within.",
+            "Fair without, but foul within."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse suggests that the Pharisees, like whited sepulchres, had an outward appearance of righteousness and purity but were inwardly corrupt and polluted. Their hypocrisy and secret iniquity were like tombs that were unseen, causing people to unwittingly defile themselves when they came into contact with them. The Pharisees' deceitful pretense of holiness deceived others, drawing them into sin under the guise of religion. Their true nature as whited sepulchres was hidden beneath a beautiful exterior, leading people to be deceived by their outward appearance. This comparison sharply rebukes the Pharisees and highlights the danger of being deceived by a plausible facade of righteousness.",
+            "wordCount": 104,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 2.0218057338598356,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.57,
+            "commentatorTierSimilarities": [
+                34.8,
+                28.0,
+                37.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, compared to whited sepulchres, exhibited an outward righteousness that belied their inward corruption. They cunningly deceived others, drawing them into sin with their hypocritical guise of holiness. Unseen and unnoticed, the Pharisees were like tombs that defiled those who unwittingly walked over them. Their polluted nature, concealed beneath a fair exterior, led people to be duped by their appearance. This piercing comparison served as a stern rebuke, exposing the danger of being misled by a veneer of righteousness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.972297301686616,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+            "commentatorTierSimilarities": [
+                35.11,
+                30.4,
+                34.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees, characterized as whited sepulchres, projected an outward appearance of righteousness while harboring inner corruption. They were like unseen tombs, defiling those who unknowingly came into contact with them. Their deception, masked by a veneer of holiness, led people astray. This striking analogy served as a powerful critique, exposing the risk of being deceived by an attractive facade of righteousness.",
+            "wordCount": 61,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.879005964191461,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.82,
+            "commentatorTierSimilarities": [
+                36.89,
+                32.07,
+                31.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees, comparable to whited sepulchres, presented a righteous fa\u00e7ade that concealed their internal impurity. Like unseen graves, they contaminated others who unknowingly encountered them. Their deceitful appearance of holiness lured people into sin. This potent analogy rebuked the Pharisees, emphasizing the danger of falling victim to an outwardly appealing yet morally tainted image.",
+            "wordCount": 54,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.8419561629843098,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.59,
+            "commentatorTierSimilarities": [
+                36.62,
+                28.4,
+                34.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees were like whited sepulchres, appearing clean on the outside but internally full of abomination. Their outward righteousness masked their hidden corruption, misleading those who encountered them. Like unseen tombs, their true nature escaped recognition, resulting in unknowing defilement. This piercing analogy exposed their hypocrisy, reminding others of the peril in being ensnared by a deceptive facade of righteousness.",
+            "wordCount": 60,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.0176006860177127,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+            "commentatorTierSimilarities": [
+                35.18,
+                32.79,
+                32.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

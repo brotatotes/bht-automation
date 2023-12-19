@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:59:21",
+    "verseRef": "1 Thessalonians 3:6",
+    "bestBHT": {
+        "bht": "The Thessalonians' faith showed the stability of their piety, while their love demonstrated their practical virtue. The constant remembrance of their teacher and their desire for him testified to their loyalty in matters of doctrine. When Timothy arrived with the glad tidings of their faith and charity, it brought great joy to Paul and his companions. This report revealed the Thessalonians' enduring faith and fervent love, showcasing the strong foundation of their faith and the unity fostered by love within their community.",
+        "wordCount": 82,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 1.9583675640624683,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+        "commentatorTierSimilarities": [
+            26.55,
+            36.14,
+            37.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Their faith shows the stability of their piety; their love, their practical virtue; and their remembrance of their teacher and desire for him testifies to their loyalty in matters of doctrine.",
+            "He mentions three things which have excited his affection to them: their faith, their love, their remembrance of their teacher.",
+            "Their constant remembrance of himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Join 'now' with 'come'; 'But Timotheus having just now come from you unto us' [ALFORD].\" ",
+            "Faith was the solid foundation: charity the cement which held together the superstructure of their practice on that foundation.",
+            "The desires of loving friends for one another's presence are reciprocal."
+        ],
+        "Albert Barnes": [
+            "Amidst all their trials they evinced fidelity to the Christian cause.",
+            "That is, probably, they showed their remembrance of Paul by obeying his precepts, and by cherishing an affectionate regard for him, notwithstanding all the efforts which had been made to alienate their affections from him.",
+            "There was no disposition to blame him for having left them, or because he did not return to them. They would have welcomed him again as their teacher and friend."
+        ],
+        "Marvin Vincent": [
+            "Good remembrance [\u03bc\u03bd\u03b5\u03b9\u03b1\u03bd \u03b1\u03b3\u03b1\u03b8\u03b7\u03bd] . Better kindly remembrance.\" ",
+            "Const. with we were comforted (ver. 7), not with came.\" ",
+            "See on John 13:33."
+        ],
+        "John Calvin": [
+            "He shews here, by another argument, by what an extraordinary affection he was actuated towards them, inasmuch as he was transported almost out of his senses by the joyful intelligence of their being in a prosperous condition.",
+            "Faith and love. This form of expression should be the more carefully observed by us in proportion to the frequency with which it is made use of by Paul, for in these two words he comprehends briefly the entire sum of true piety.",
+            "The third thing that he adds as to their good remembrance of him, refers to respect entertained for the Gospel. For it was on no other account that they held Paul in such affection and esteem."
+        ],
+        "Philip Schaff": [
+            "This letter was written immediately after Timothy\u2019s return with the good news he brought regarding the Thessalonian Christians.\" ",
+            "Good remembrance, a remembrance which was hearty and spoke well for their spiritual condition.",
+            "Had they not continued to relish the teaching inaugurated by Paul, they would not have thought frequently about him nor have longed to see him again."
+        ],
+        "Archibald T. Robertson": [
+            "Even now, Timothy having come.\" ",
+            "Glad tidings of first aorist middle participle of the verb for evangelizing.\" ",
+            "Mutual longing that pleased Paul ('we also you')."
+        ],
+        "John Gill": [
+            "Brought us good tidings of your faith and charity.",
+            "Where the one is, the other is; and as the one flourishes and increases, so does the other.",
+            "Such a report as this concerning their steady faith in Christ, their fervent love to one another, and their affectionate regard to the ministers of the word, was a sort of a Gospel, as the word used signifies; or it was good news and glad tidings to the apostle, and those that were with him."
+        ],
+        "John Wesley": [
+            "Immediately after his return, St. Paul wrote; while his joy was fresh, and his tenderness at the height.",
+            "",
+            ""
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Thessalonians' faith demonstrated their strong devotion, their love exemplified their virtuous actions, and their continuous remembrance of their teacher affirmed their loyalty to his teachings. The arrival of Timothy brought glad tidings of their faith, confirming that they were unwavering amidst their trials. This report was like a Gospel to Paul and his companions, as it revealed the Thessalonians' enduring faith, fervent love for one another, and their cherished regard for their spiritual leaders. Such a commendable reputation was a testament to their solid foundation of faith and the unity that love brought to their community.",
+            "wordCount": 97,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.9477078121122888,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                23.83,
+                38.05,
+                38.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians' faith and love demonstrated their stability and practical virtue. Their remembrance of their teacher testified to their loyalty in matters of doctrine. The arrival of Timothy brought glad tidings of their faith and charity, confirming their unwavering devotion amidst trials. This report was like a Gospel to Paul and his companions, as it revealed the enduring faith and fervent love of the Thessalonians. Their commendable reputation was a testament to their solid foundation of faith and the unity that love brought to their community.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.8607168078557885,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                26.35,
+                36.9,
+                36.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians' faith showed the stability of their piety, while their love demonstrated their practical virtue. Their constant remembrance and desire for their teacher reflected their loyalty in matters of doctrine. The arrival of Timothy brought glad tidings of their faith and charity, confirming their unwavering devotion amidst trials. This report was like a Gospel to Paul and his companions, as it revealed the enduring faith and fervent love of the Thessalonians. Their commendable reputation was a testament to their solid foundation of faith and the unity that love brought to their community.",
+            "wordCount": 93,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.909848079741311,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
+            "commentatorTierSimilarities": [
+                26.21,
+                37.17,
+                36.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Thessalonians' faith showcased the stability of their piety, while their love exemplified their practical virtue. Their constant remembrance and desire for their teacher conveyed their loyalty in matters of doctrine. The arrival of Timothy brought news of their unwavering faith and charity, confirming their steadfast devotion amidst trials. This report brought great joy to Paul and his companions, revealing the Thessalonians' enduring faith and fervent love. Their commendable reputation testified to the strong foundation of their faith and the unity fostered by love within their community.",
+            "wordCount": 87,
+            "quoteTokenProportion": 21.43,
+            "qualityScore": 1.890189743998958,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
+            "commentatorTierSimilarities": [
+                27.28,
+                36.62,
+                36.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians' faith showed the stability of their piety, while their love demonstrated their practical virtue. The constant remembrance of their teacher and their desire for him testified to their loyalty in matters of doctrine. When Timothy arrived with the glad tidings of their faith and charity, it brought great joy to Paul and his companions. This report revealed the Thessalonians' enduring faith and fervent love, showcasing the strong foundation of their faith and the unity fostered by love within their community.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.9583675640624683,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                26.55,
+                36.14,
+                37.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

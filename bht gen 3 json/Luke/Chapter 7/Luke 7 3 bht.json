@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:15:59",
+    "verseRef": "Luke 7:3",
+    "bestBHT": {
+        "bht": "The elders, not from the synagogue but of the people, heard about Jesus in Capernaum and besought him most earnestly to come to the house of the centurion and cure his servant who was paralyzed. Their request reflects their belief in Jesus' ability to heal, as they had heard of his miracles and his arrival in Capernaum. Luke's account provides more details about these elders, distinguishing them from the elders of the synagogue and suggesting that they may have been principal officers or members of the sanhedrin.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.7258309873784472,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.73,
+        "commentatorTierSimilarities": [
+            26.26,
+            32.24,
+            41.5
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] Elders\u2014not elders of the synagogue (who in Luke are rulers of the synagogue, \u201carchisynagogi,\u201d Acts xiii. 15), but of the people."
+        ],
+        "Philip Schaff": [
+            "Luke 7:3. Heard concerning Jesus, as he naturally would in Capernaum.",
+            "\t",
+            " Elders of the Jews. Not elders of the synagogue, but of the people. Here Luke is more accurate than Matthew."
+        ],
+        "Archibald T. Robertson": [
+            "One possible solution is that Luke tells the story as it happened with the details, whereas Matthew simply presents a summary statement without the details.",
+            "This is not a Hebraism or an Aramaism, but is a common meaning of the verb in the papyri.",
+            "\u0394\u03b9\u03b1\u03c3\u03c9\u03c3\u03b7 is effective aorist active subjunctive, to bring safe through as in a storm."
+        ],
+        "John Gill": [
+            "These elders he sent, were not the more ancient inhabitants of the city, called \u05d6\u05e7\u05e0\u05d9 \u05e2\u05dd \u05d4\u05d0\u05e8\u05e5, 'the elders of, or among the common people', as distinguished from \u05d6\u05e7\u05e0\u05d9 \u05ea\u05d5\u05e8\u05d4, 'the elders of the law', or those that were old in knowledge.",
+            "But these were either some principal officers of the city, called the elders of the people elsewhere; particularly, who were members of the sanhedrim.",
+            "He besought him most earnestly by these messengers, that he would come to his house, and cure his servant of the palsy, by laying his hands on him, or commanding the distemper off, by a word speaking; or in what way he should think fit, for he made no doubt that he was able to heal him."
+        ],
+        "John Wesley": [
+            "Hearing of Jesus \u2014 Of his miracles, and of his arrival at Capernaum."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The elders, not from the synagogue but from the people, heard about Jesus in Capernaum. Luke's account provides more details than Matthew's summary statement. The verb used here does not have a specific Hebrew or Aramaic meaning, but rather a common meaning found in papyri. These elders were not just the more ancient inhabitants of the city, but likely some principal officers or members of the sanhedrin. They earnestly besought Jesus to come and cure the servant of the centurion who was paralyzed, having heard of his miracles and his presence in Capernaum.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.5908191640690004,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.24,
+            "commentatorTierSimilarities": [
+                33.28,
+                34.1,
+                32.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The elders, not from the synagogue but from the people, heard about Jesus in Capernaum. Luke's account provides more details than Matthew's summary statement. These elders were not just the more ancient inhabitants of the city, but likely some principal officers or members of the sanhedrin. They earnestly besought Jesus to cure the servant of the centurion who was paralyzed, having heard of his miracles and his presence in Capernaum.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.6185369939295753,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                29.44,
+                34.63,
+                35.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The elders, not from the synagogue but of the people, heard about Jesus in Capernaum and besought him most earnestly to come to the house of the centurion and cure his servant who was paralyzed. Their request reflects their belief in Jesus' ability to heal, as they had heard of his miracles and his arrival in Capernaum. Luke's account provides more details, distinguishing these elders from the elders of the synagogue and suggesting that they may have been principal officers or members of the sanhedrin.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.7251604999723695,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                26.37,
+                32.44,
+                41.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The elders, not from the synagogue but of the people, heard about Jesus in Capernaum and besought him most earnestly to come to the house of the centurion and cure his servant who was paralyzed. Their request reflects their belief in Jesus' ability to heal, as they had heard of his miracles and his arrival in Capernaum. Luke's account provides more details about these elders, distinguishing them from the elders of the synagogue and suggesting that they may have been principal officers or members of the sanhedrin.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.7258309873784472,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.73,
+            "commentatorTierSimilarities": [
+                26.26,
+                32.24,
+                41.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The elders, not from the synagogue but of the people, heard about Jesus in Capernaum and earnestly besought him to come and cure the servant of the centurion who was paralyzed. Their request demonstrates their confidence in Jesus' ability to heal, as they had heard of his miracles and his presence in Capernaum. Luke's account provides more information, distinguishing these elders from the elders of the synagogue and indicating that they may have held prominent positions in the city or were members of the sanhedrin.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6760734711761338,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.07,
+            "commentatorTierSimilarities": [
+                26.89,
+                31.64,
+                41.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

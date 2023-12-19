@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:38:26",
+    "verseRef": "2 Thessalonians 2:15",
+    "bestBHT": {
+        "bht": "No human reasoning can connect God's sovereignty and man's free will, but they must be acknowledged together. God's sovereign choice of believers is an incentive for action and perseverance. The Thessalonians had been misled by false teachings claiming that the day of the Lord was imminent. Tradition, whether written or oral, should not establish doctrine, but authenticate facts. Therefore, the Thessalonians are urged to stand firm and hold fast to the traditions they have been taught, which are the truths of the Gospel.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 1.813711937713172,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+        "commentatorTierSimilarities": [
+            36.19,
+            32.22,
+            31.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No human reasoning powers can connect the two,\u2014God\u2019s sovereignty and man\u2019s free will: all we know of them is, that the one is as certain a truth as the other.",
+            "In proportion then as we assert the one strongly, we must ever implicate the other as strongly.",
+            "In seeing that such is God\u2019s intent respecting you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Therefore\u2014God's sovereign choice of believers, so far from being a ground for inaction on their part, is the strongest incentive to action and perseverance in it.",
+            "The Thessalonians had not held fast his oral instructions but had suffered themselves to be imposed upon by pretended spirit-revelations, and words and letters pretending to be from Paul, to the effect that 'the day of the Lord was instantly imminent.'",
+            "Tradition (in the sense of human testimony) cannot establish a doctrine, but can authenticate a fact, such as the facts just mentioned. Inspired tradition, in Paul's sense, is not a supplementary oral tradition completing our written Word, but it is identical with the written Word now complete."
+        ],
+        "Albert Barnes": [
+            "Stand fast - Amidst all the temptations which surround you...",
+            "Hold the traditions which ye have been taught... It means properly things delivered over from one to another; then anything orally delivered - any precept, doctrine, or law.",
+            "There is no evidence that any of those traditions were given by the apostles... We have all that is necessary for salvation in the written word."
+        ],
+        "Marvin Vincent": [
+            "Tradition, in the scriptural sense, may be either written or oral.",
+            "Tradition implies on the part of a teacher that he is not expressing his own ideas, but is delivering or handing over a message received from someone else.",
+            "The prominent idea of tradition is therefore that of an authority external to the teacher."
+        ],
+        "John Calvin": [
+            "Now, to be furnished with invincible strength is a much higher thing than external discipline.",
+            "Paul will be found in the next chapter making use of the term tradition, as meaning the rule that he had laid down, and the very signification of the term is general.",
+            "We may judge in part from this Epistle what traditions he here recommends, for he says \u2014 whether by word, that is, discourse, or by epistle."
+        ],
+        "Philip Schaff": [
+            "Therefore, brethren, stand fast.\" ",
+            "[The apostle's] meaning is: \u2018Since these other events must precede the coming of Christ, be not shaken and troubled as if this coming were imminent, but stand fast.\" ",
+            "And that you may do so, do not listen to what every one says, but keep clearly in mind what I have communicated to you, and maintain your faith in that."
+        ],
+        "Archibald T. Robertson": [
+            "Stand fast (\u03c3\u03c4\u03b7\u03ba\u03b5\u03c4\u03b5). Present imperative active of the late present \u03c3\u03c4\u03b7\u03ba\u03bf from \u03b5\u03c3\u03c4\u03b7\u03ba\u03b1 (perfect active of \u03b9\u03c3\u03c4\u03b7\u03bc).",
+            "Hold the traditions (\u03ba\u03c1\u03b1\u03c4\u03b5\u03b9\u03c4\u03b5 \u03c4\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b5\u03b9\u03c2). Present imperative of \u03ba\u03c1\u03b1\u03c4\u03b5\u03c9, old verb, to have masterful grip on a thing, either with genitive (Mark 1:31) or usually the accusative as here.",
+            "The worth of the tradition lies not in the form but in the source and the quality of the content."
+        ],
+        "John Gill": [
+            "Therefore, brethren, stand fast....and not in the least waver about the thing itself.\" ",
+            "And hold the traditions which ye have been taught: meaning the truths of the Gospel, which may be called traditions, because they are delivered from one to another.",
+            "And so the Syriac version here renders it, 'the commandments': and these were such as these saints had been taught by the apostles, under the direction of Christ, and through the guidance of his Spirit."
+        ],
+        "John Wesley": [
+            "Without adding to, or diminishing from, the traditions which ye have been taught - The truths which I have delivered to you.",
+            "He preached before he wrote.",
+            "And he had written concerning this in his former epistle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "No human reasoning can connect God's sovereignty and man's free will, but they must be acknowledged together. God's sovereign choice of believers is not a reason for inaction, but rather an incentive for action and perseverance. The Thessalonians had been misled by false teachings claiming that the day of the Lord was imminent. However, tradition, whether written or oral, should not establish doctrine, but authenticate facts. Therefore, the Thessalonians are urged to stand firm and hold fast to the traditions they have been taught, which are the truths of the Gospel. By doing so, they can resist the surrounding temptations and maintain their faith in what has been clearly communicated to them.",
+            "wordCount": 115,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.792581080223464,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.95,
+            "commentatorTierSimilarities": [
+                33.57,
+                35.0,
+                31.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No human reasoning can connect God's sovereignty and man's free will, but they must be acknowledged together. God's sovereign choice of believers is an incentive for action and perseverance. The Thessalonians had been misled by false teachings claiming that the day of the Lord was imminent. Tradition, whether written or oral, should not establish doctrine, but authenticate facts. Therefore, the Thessalonians are urged to stand firm and hold fast to the traditions they have been taught, which are the truths of the Gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.813711937713172,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+            "commentatorTierSimilarities": [
+                36.19,
+                32.22,
+                31.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The connection between God's sovereignty and man's free will is a truth beyond human reasoning. God's sovereign choice of believers should be seen as an incentive for action and perseverance. The Thessalonians were misled by false teachings about the imminent return of the Lord. Tradition, whether written or oral, does not establish doctrine but authenticates facts. Therefore, the Thessalonians are urged to stand firm, holding fast to the traditions they have been taught\u2014the truths of the Gospel\u2014to resist temptation and maintain their faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.7631964645613412,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.97,
+            "commentatorTierSimilarities": [
+                38.35,
+                31.71,
+                29.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The connection between God's sovereignty and man's free will is something that goes beyond human comprehension. The fact that God chooses believers does not mean they should be inactive, but it should actually motivate them to action and perseverance. The Thessalonians had been deceived by false teachings about the imminent return of the Lord. True tradition, whether written or oral, supports the authenticity of facts, not the establishment of doctrine. Therefore, the Thessalonians are encouraged to stand firm and hold fast to the teachings they had received.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.713665547582226,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+            "commentatorTierSimilarities": [
+                36.82,
+                32.65,
+                30.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's sovereignty and man's free will may seem disconnected, but both are undeniable truths. Believers should not be inactive due to God's choice but rather let it inspire action and perseverance. The Thessalonians were led astray by false rumors about the imminent return of the Lord. True tradition can authenticate facts but not establish doctrine. Therefore, they are urged to stand firm and hold fast to the teachings they have received, which are the truths of the Gospel.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.737205942278771,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                35.06,
+                34.97,
+                29.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

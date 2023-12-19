@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:37:23",
+    "verseRef": "Acts 27:42",
+    "bestBHT": {
+        "bht": "The soldiers, responsible for the lives of the prisoners, suggested a cruel plan to kill them in order to prevent any possible escape. This proposal reflects the extreme cruelty of the Roman military system and shows the soldiers' ungratefulness towards Paul, who had been instrumental in saving their lives. Their plan demonstrates the natural ferocity and cruelty that can persist even when experiencing the tender mercy of God. Despite the soldiers' wickedness and ingratitude, we should recognize the wonderful counsel of God in saving Paul and fulfilling His promises.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.6983931937200603,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+        "commentatorTierSimilarities": [
+            31.58,
+            33.55,
+            34.87
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the soldiers' counsel was to hill the prisoners, lest any . . . should escape",
+            "Roman cruelty, which made the keepers answerable for their prisoners with their own lives",
+            "is here reflected in this cruel proposal"
+        ],
+        "Albert Barnes": [
+            "This is a remarkable proof that people can be cruel even when experiencing the tender mercy of God.",
+            "The most affecting scenes of divine goodness will not mitigate the natural ferocity and cruelty of those who delight in blood.",
+            "They therefore proposed to kill them, though contrary to all humanity, justice, and laws."
+        ],
+        "John Calvin": [
+            "Though the soldiers might thank Paul twice or thrice for their lives, yet are they minded to kill him, for whose sake they ought to have spared the rest.",
+            "Wherefore, if it so fall out that we be ill rewarded for our good deeds, there is no cause why the unthankfulness of men should trouble us, which is a disease too common.",
+            "But it behoveth us to consider the wonderful counsel of God, as well in saving Paul as in fulfilling his promise; when as he bringeth those men to land, who did what they could to make his promise of none effect."
+        ],
+        "Philip Schaff": [
+            "We have here an illustration of the extreme cruelty of the Roman military system.",
+            "But we have also, in however cruel a form, an indication of a high sense of honour and duty.",
+            "Each prisoner may originally have been chained to a soldier; but under the circumstances of the moment, and indeed during the voyage, such fastenings would have been loosened."
+        ],
+        "Archibald T. Robertson": [
+            "Counsel was to kill... Soldiers were responsible for the lives of prisoners.\" ",
+            "Swim out... to swim out and so away.\" ",
+            "Escape... to make a clean escape."
+        ],
+        "John Gill": [
+            "This was dreadful wickedness in them to seek to take away the lives of others, when they themselves were in so much danger.",
+            "Monstrous ingratitude to the Apostle Paul, who had been so much concerned for their lives, and careful of them, and had been the means of saving them, and for whose sake they were saved.",
+            "The devil must have had a great hand in this."
+        ],
+        "John Wesley": [
+            "The counsel \u2014 Cruel, unjust, ungrateful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The soldiers, responsible for the lives of the prisoners, suggested a cruel plan to kill them in order to prevent any possible escape. This proposal reflects the extreme cruelty of the Roman military system and shows the soldiers' ungratefulness towards Paul, who had been instrumental in saving their lives. Their plan demonstrates the natural ferocity and cruelty that can persist even when experiencing the tender mercy of God. Despite the soldiers' wickedness and ingratitude, we should recognize the wonderful counsel of God in saving Paul and fulfilling His promises.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6983931937200603,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                31.58,
+                33.55,
+                34.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The soldiers, responsible for the lives of the prisoners, proposed a cruel plan to kill them to prevent any escape. Their ungratefulness towards Paul, who had saved them, reflects the extreme cruelty of the Roman military system. Even in the face of divine mercy, people can still exhibit their natural ferocity and cruelty. However, we should acknowledge the remarkable counsel of God in saving Paul and fulfilling His promises, despite the soldiers' wickedness and ingratitude.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6972451028141444,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                29.8,
+                35.37,
+                34.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers, responsible for the prisoners' lives, cruelly suggested killing them to prevent escape, exhibiting the ruthless nature of the Roman military system. This act of ingratitude towards Paul, who had saved them, demonstrates how even in the presence of divine goodness, people can still exhibit their natural ferocity and cruelty. However, we should still recognize the remarkable counsel of God in saving Paul and fulfilling His promises, despite the soldiers' wickedness and lack of gratitude.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.66226361769818,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.61,
+            "commentatorTierSimilarities": [
+                27.79,
+                34.63,
+                37.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The soldiers, responsible for the lives of the prisoners, proposed a cruel plan to kill them in order to prevent any possible escape, reflecting the extreme cruelty of the Roman military system. This proposal, arising from their ingratitude towards Paul and disregard for his efforts in saving them, reveals the dark side of human nature even amidst the experience of divine mercy. Nevertheless, it is important to acknowledge God's wisdom in saving Paul and fulfilling his promises despite the soldiers' wickedness and lack of gratitude.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.6326397026778177,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+            "commentatorTierSimilarities": [
+                26.79,
+                32.87,
+                40.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldiers, responsible for the prisoners' lives, cruelly proposed to kill them to prevent any escape, reflecting the extreme cruelty of the Roman military system. Their ingratitude toward Paul, who had saved them, reveals the dark side of human nature even in the midst of divine mercy. Yet, despite their wickedness, we must still recognize God's wisdom in saving Paul and fulfilling His promises. God's counsel prevails, even when faced with cruelty and ingratitude.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.542069702206296,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.62,
+            "commentatorTierSimilarities": [
+                26.37,
+                32.93,
+                40.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

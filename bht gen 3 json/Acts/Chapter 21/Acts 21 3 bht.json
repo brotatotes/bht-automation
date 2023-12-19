@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:34:34",
+    "verseRef": "Acts 21:3",
+    "bestBHT": {
+        "bht": "Sailing towards Tyre, the ship carrying Paul and his companions first came across Cyprus, steered southeast of it and left it on the northwest. They then sighted Tyre, a renowned seat of maritime commerce, where the ship unloaded its cargo. This gave the apostle time to engage in further ministry. The nautical language used reflects the act of bringing land to light, and it is interesting to note that the existence of Christians in Tyre was prophesied in the Psalms. Tyre, now lying in ruins beneath the sea, has become a desolate place inhabited by criminals.",
+        "wordCount": 96,
+        "quoteTokenProportion": 36.62,
+        "qualityScore": 1.7867873119214936,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+        "commentatorTierSimilarities": [
+            35.75,
+            35.18,
+            29.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "having been shewn Cyprus.",
+            "This would be the straight course from Patara to Tyre.",
+            "Tyre, so well known for its commercial importance and pride."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Cyprus, we left it on the left hand\u2014that is, steered southeast of it, leaving it on the northwest.",
+            "Sailed into\u2014'unto' Syria, and landed at Tyre\u2014the celebrated seat of maritime commerce for East and West.",
+            "There the ship was to unlade her burden\u2014which gave the apostle time for what follows."
+        ],
+        "Albert Barnes": [
+            "Had discovered Cyprus - See the notes on Acts 4:36.",
+            "Into Syria - See the notes on Matthew 4:24.",
+            "And landed at Tyre - See the notes on Matthew 11:21."
+        ],
+        "Marvin Vincent": [
+            "Discovered [\u03b1\u03bd\u03b1\u03c6\u03b1\u03bd\u03b1\u03bd\u03c4\u03b5\u03c2] . Better, sighted. A nautical phrase. The verb literally means to bring to light : and its use here is analogous to the English marine phrase, to raise the land."
+        ],
+        "Philip Schaff": [
+            "The Greek word here rendered \u2018when we had discovered,\u2019 is a nautical expression such as an eye-witness, familiar with the language of sea-Suing men, would have used.\" ",
+            "The modern cities of Antioch and C\u00e6sarea had proved successful rivals to the old capital of Phoenicia.",
+            "Writing of Tyre, Dr. Hackett says: \u2018Its most important ruins lie at present beneath the sea; it was with melancholy interest that I looked down upon them through the calm waters, in the long twilight which closed the 10th of May 1852.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Having made Cyprus visible or rise up out of the sea.",
+            "They sailed south of Cyprus.",
+            "For thither the boat was unloading her cargo."
+        ],
+        "John Gill": [
+            "Tyre, the metropolis of Phoenicia, in the tribe of Nephthalim, is near twenty miles from Caesarea Philippi; this was formerly an island, but made continent land by Alexander:--its chief excellency lies in shell fish and purple.",
+            "It is now called Sur or Suri, and is quite desolate, being only a receptacle of thieves and robbers.",
+            "If anyone ascended the walls of new Tyre, he might see Tyre the crowning city, Isaiah 23:8 which was a stone's cast from the new; but if a man would go in a boat on the sea, he might see towers, streets, and palaces in the bottom."
+        ],
+        "John Wesley": [
+            "That there should be Christians there was foretold, Psalm 87:4.",
+            "What we read in that psalm of the Philistines and Ethiopians also may be compared with Acts 8:40; 27:4."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Sailing towards Tyre, the ship carrying Paul and his companions first came across Cyprus, a well-known island of commercial importance that they left on their left-hand side. Continuing their journey, they sighted the city of Tyre, a renowned seat of maritime commerce. As the ship unloaded its cargo there, the apostle had the opportunity to engage in further ministry. It is interesting to note the nautical language used here, referring to the sighting of land as bringing it to light. Tyre, once a thriving capital, now lies in ruins beneath the sea, a desolate place that serves as a haven for criminals. However, it is worth mentioning that the existence of Christians in Tyre was foretold in the book of Psalms. This episode serves as a reminder of the fulfillment of biblical prophecies.",
+            "wordCount": 135,
+            "quoteTokenProportion": 34.07,
+            "qualityScore": 1.6955377049969056,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+            "commentatorTierSimilarities": [
+                31.91,
+                37.25,
+                30.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sailing towards Tyre, the ship carrying Paul and his companions first came across Cyprus, steered southeast of it and left it on the northwest. They then sighted Tyre, a renowned seat of maritime commerce, where the ship unloaded its cargo. This gave the apostle time to engage in further ministry. The nautical language used reflects the act of bringing land to light, and it is interesting to note that the existence of Christians in Tyre was prophesied in the Psalms. Tyre, now lying in ruins beneath the sea, has become a desolate place inhabited by criminals.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.7867873119214936,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "commentatorTierSimilarities": [
+                35.75,
+                35.18,
+                29.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While sailing towards Tyre, the ship carrying Paul and his companions initially passed by the well-known island of Cyprus. Navigating southeast of it, they continued on their course, leaving Cyprus on the northwest. Eventually, the ship sighted Tyre, a city noted for its maritime commerce and prestige. Upon arrival, the ship began to unload its cargo, allowing Paul the opportunity to engage in further ministry. This instance of sighting land is aptly described as bringing it to light. Interestingly, the fulfillment of biblical prophecy can be seen in the presence of Christians in Tyre, as foretold in the Psalms.",
+            "wordCount": 100,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6554466688519014,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+            "commentatorTierSimilarities": [
+                39.39,
+                35.48,
+                25.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sailing towards Tyre, the ship first came across Cyprus, leaving it on the northwest. Sightings of the renowned city of Tyre marked their arrival, where the ship unloaded its cargo, providing an opportunity for further ministry. The language used, bringing land to light, reflects the nautical terminology employed. The prophesied existence of Christians in Tyre, as foretold in the Psalms, adds to the significance of this moment. Today, Tyre lies in ruins beneath the sea, abandoned and infested with criminals.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.775182596602327,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                35.77,
+                37.29,
+                26.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sailing towards Tyre, the ship carrying Paul and his companions first came across Cyprus, leaving it on the northwest. Upon sighting the city of Tyre, the ship landed there, allowing Paul the opportunity to minister while the cargo was unloaded. This episode is described as bringing land to light, a nautical phrase that depicts the act of sighting land. Interestingly, the presence of Christians in Tyre fulfills the prophecy found in the Psalms. Today, Tyre remains a desolate place, inhabited by thieves and robbers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7354630277943799,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.05,
+            "commentatorTierSimilarities": [
+                31.38,
+                36.18,
+                32.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

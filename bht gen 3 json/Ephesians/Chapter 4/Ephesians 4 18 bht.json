@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:32:50",
+    "verseRef": "Ephesians 4:18",
+    "bestBHT": {
+        "bht": "The Gentiles are caught in the empty pursuit of their minds, as they are darkened in their understanding and alienated from the life of God. This spiritual life, kindled in believers from God's own life, is what they unknowingly miss out on. Before the fall, they partook in life and light, but now their understanding is morally darkened due to the hardening of their hearts. Their ignorance, stemming from sin, estranges them from God, leaving them void of His light and knowledge of His will.",
+        "wordCount": 86,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 2.228338408012257,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.43,
+        "commentatorTierSimilarities": [
+            36.42,
+            30.7,
+            32.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "[The life of God] will mean, as Beza beautifully says, 'that life which God liveth in His own.'",
+            "The spiritual life is kindled in believers from God's own life.",
+            "By 'hardening' he means the last degree of insensibility: for the callosities in the body have no feeling, being altogether deadened."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Being darkened in their understanding.\" ",
+            "Before the fall they had been partakers of life and light.\" ",
+            "Spiritual life in believers is kindled from the life itself of God."
+        ],
+        "Albert Barnes": [
+            "Nothing is more obvious than that indulgence in sin weakens the mental powers, and renders them unfit for high intellectual effort.",
+            "Learn hence, that if a man wishes to be blessed with a clear understanding, he should he a 'good man.'",
+            "The way to elevate the understandings of mankind is to purify the heart. The approach must be made through the affections. Let people 'feel' right toward God, and they will soon 'think' right; let the heart be pure, and the understanding will be clear."
+        ],
+        "Marvin Vincent": [
+            "Understanding [\u03b4\u03b9\u03b1\u03bd\u03bf\u03b9\u03b1]. The moral understanding.",
+            "The life which God bestows; life in Christ.",
+            "The Gentiles walk in the vanity of their mind, being darkened in their understanding, being alienated from the life of God, because of the ignorance that is in them, because of the hardening of their heart."
+        ],
+        "John Calvin": [
+            "Our ordinary life, as men, is nothing more than an empty image of life, not only because it quickly passes, but also because, while we live, our souls, not keeping close to God, are dead.",
+            "There are three kinds of life in this world. The first is animal life, which consists only of motion and the bodily senses, and which we have in common with the brutes; the second is human life, which we have as the children of Adam; and the third is that supernatural life, which believers alone obtain.",
+            "Before anything good can begin to proceed from us, we must first be renewed by the grace of Christ. This will be the commencement of a true, and, as the phrase is, a vital life."
+        ],
+        "Philip Schaff": [
+            "Being darkened in their understanding.",
+            "Being alienated from the life of God.",
+            "Because of the hardening of their heart."
+        ],
+        "Archibald T. Robertson": [
+            "Being darkened...in their understanding.\" ",
+            "From the life of God.",
+            "Hardening...for callous hardening."
+        ],
+        "John Gill": [
+            "the understanding in things spiritual it is very dark and ignorant",
+            "they are estranged from God the fountain of it",
+            "ignorance is natural to men, it comes by sin, and is itself sinful"
+        ],
+        "John Wesley": [
+            "So that they are totally void of the light of God, neither have they any knowledge of his will.",
+            "Utter strangers to the divine, the spiritual life.",
+            "Callous and senseless. And where there is no sense, there can be no life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Gentiles walk in the vanity of their minds, being darkened in their understanding and alienated from the life of God. This spiritual life, kindled in believers from God's own life, is what they are unknowingly missing out on. Before the fall, they had been partakers of life and light, but now their understanding is morally darkened due to the hardening of their hearts. This ignorance is not just a lack of knowledge; it is a sinful state that estranges them from God, the fountain of true and vital life. Consequently, they are totally void of the light of God and lack knowledge of His will, rendering them callous and senseless. To elevate their understanding, their hearts must be purified, and they must feel right toward God so that they can begin to truly live the life that God bestows.",
+            "wordCount": 141,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 2.189484275386013,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.14,
+            "commentatorTierSimilarities": [
+                34.92,
+                30.73,
+                34.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Gentiles are caught in the empty pursuit of their minds, as they are darkened in their understanding and alienated from the life of God. This spiritual life, kindled in believers from God's own life, is what they unknowingly miss out on. Before the fall, they partook in life and light, but now their understanding is morally darkened due to the hardening of their hearts. Their ignorance, stemming from sin, estranges them from God, leaving them void of His light and knowledge of His will.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.228338408012257,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.43,
+            "commentatorTierSimilarities": [
+                36.42,
+                30.7,
+                32.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gentiles, walking in the vanity of their minds, experience a darkening of understanding and alienation from the life of God. This spiritual life is kindled in believers from God's own life itself. Their understanding becomes morally darkened due to the hardening of their hearts, resulting in ignorance and a disconnection from the divine source of life. The absence of light and knowledge of God's will leaves them void of true understanding and sense, highlighting the need for their hearts to be purified to attain the life that God offers.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.222880525775587,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.25,
+            "commentatorTierSimilarities": [
+                37.07,
+                28.73,
+                34.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gentiles, being darkened in their understanding and alienated from the life of God, walk in the vanity of their minds. This spiritual life, kindled in believers from the life of God, is something they lack. Before their fall, they were partakers of life and light. However, their hearts have become hardened, resulting in moral darkness and ignorance. They have become completely void of the divine light, devoid of knowledge of God's will. The only way to attain true understanding and life is through the purification of their hearts and a restoration of their connection with God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.05361038642202,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.62,
+            "commentatorTierSimilarities": [
+                36.83,
+                28.93,
+                34.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gentiles, walking in the vanity of their minds, are darkened in their understanding and alienated from the life of God due to the hardening of their hearts. They lack the spiritual life that believers possess, which is ignited by God's own life. Before their fall, they experienced life and light, but now they are ignorant, devoid of knowledge of God's will, and disconnected from Him. Their moral darkness and insensibility can only be transformed through a renewal of their hearts and a reconnection to the source of true life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.1271757210082725,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.07,
+            "commentatorTierSimilarities": [
+                35.45,
+                28.22,
+                36.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

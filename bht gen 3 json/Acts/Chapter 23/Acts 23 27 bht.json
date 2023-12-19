@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:35:44",
+    "verseRef": "Acts 23:27",
+    "bestBHT": {
+        "bht": "The chief captain's attempt to conceal his faults is evident in his assertion that he rescued Paul with an army, when in reality, Paul was about to be killed. The captain conveniently neglects to mention that he had already bound and ordered Paul to be scourged before discovering his Roman citizenship. By reversing the order of events and presenting himself as Paul's protector, the captain manipulates the facts to appear as a defender of fellow Roman citizens. Nevertheless, it is clear that the Lord used this situation for Paul's benefit.",
+        "wordCount": 93,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.7412597180212526,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+        "commentatorTierSimilarities": [
+            32.07,
+            22.29,
+            45.63
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fact was not as he here states it.",
+            "This was an attempt to conceal the fault that he had committed.",
+            "For this assertion cannot refer to the second rescue."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "27. came I with an army\u2014rather,",
+            "\t\"with the military."
+        ],
+        "Albert Barnes": [
+            "Should have been killed of them - Was about to be killed by them.\" ",
+            "The life of Paul had been twice endangered in this manner.\" ",
+            "With an army - With a band of soldiers."
+        ],
+        "Marvin Vincent": [
+            "Rescued. Bengel says, 'a lie.'",
+            "Lysias wishes to make the impression that Paul's citizenship was the cause of his rescuing him; whereas he did not know of this until afterward.",
+            "He says nothing about the proposed scourging."
+        ],
+        "John Calvin": [
+            "This commendation was not purchased by prayer or flattery, neither was it bought with money.",
+            "How came it to pass, then, that the chief captain did show himself so courteous freely to an obscure man, and whom all men did hate, save only because the Lord had appointed him to be his servant\u2019s patron?",
+            "Therefore, we see how he governeth the tongues and hands of the infidels to the profit of those that be his."
+        ],
+        "Philip Schaff": [
+            "This is distinctly a false statement of the facts as they stood.",
+            "He evidently wished to throw a veil over the grave fault he had committed.",
+            "The English Version, \u2018having come with an army,' is not happy; it is better rendered \u2018with my soldiery,' or \u2018with the guard.'"
+        ],
+        "Archibald T. Robertson": [
+            "Lysias did rescue Paul and he did learn that he was a Roman, but in this order.",
+            "He did not first learn that he was a Roman and then rescue him as his letter states.",
+            "Lysias simply reversed the order of the facts and omitted the order for scourging Paul to put himself in proper light with Felix his superior officer and actually poses as the protector of a fellow Roman citizen."
+        ],
+        "John Gill": [
+            "and should have been killed of them; and would have been killed, had it not been for the chief captain; he was very near being killed by them, he was nigh unto death.",
+            "then came I with an army and rescued him; he came with the Roman band, which he had the command of, perhaps a thousand soldiers; with these he came upon the Jews on a sudden, as they were beating Paul, and took him out of their hands, and saved him.",
+            "having understood that he was a Roman; but this he did not know till afterwards, after he had bound him with two chains, and after he had ordered him to be bound with thongs, and examined by scourging; all which he covers and hides from the governor, and suggests that it was his great concern for the Roman name, and for a Roman citizen, which put him upon this enterprise."
+        ],
+        "John Wesley": [
+            "Having learned that he was a Roman \u2014 True; but not before he rescued him. Here he uses art."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief captain's assertion about rescuing Paul with an army is not entirely accurate, as he did not mention that Paul was about to be killed by the Jews. He also conveniently omits the fact that he first bound Paul and ordered him to be scourged before learning about his Roman citizenship. The chief captain's letter misrepresents the sequence of events and present himself as the protector of a fellow Roman citizen, rather than acknowledging his own fault. Nonetheless, it is evident that the Lord intervened and used the chief captain's actions for the benefit of His servant.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.7219138731211188,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.6,
+            "commentatorTierSimilarities": [
+                29.93,
+                20.25,
+                49.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief captain's claim of rescuing Paul with an army conceals the fact that Paul was about to be killed by the Jews. He conveniently omits that he first bound Paul and ordered him to be scourged before learning about his Roman citizenship. The chief captain's letter presents a distorted version of events, positioning himself as a protector of a fellow Roman citizen. However, despite the chief captain's misleading actions, it is evident that the Lord used this situation for the ultimate benefit of His servant.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.671468661334106,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.92,
+            "commentatorTierSimilarities": [
+                27.82,
+                22.73,
+                49.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief captain's attempt to conceal his faults is evident in his assertion that he rescued Paul with an army, when in reality, Paul was about to be killed. The captain conveniently neglects to mention that he had already bound and ordered Paul to be scourged before discovering his Roman citizenship. By reversing the order of events and presenting himself as Paul's protector, the captain manipulates the facts to appear as a defender of fellow Roman citizens. Nevertheless, it is clear that the Lord used this situation for Paul's benefit.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.7412597180212526,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                32.07,
+                22.29,
+                45.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief captain's attempt to conceal his faults is evident in his assertion that he rescued Paul with an army, when in reality, Paul was about to be killed. By reversing the order of events and omitting crucial details, the captain manipulates the facts to appear as a defender of fellow Roman citizens. However, the Lord ultimately took control, using the captain's actions for the benefit of His servant, Paul.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.638529980937042,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.82,
+            "commentatorTierSimilarities": [
+                30.08,
+                24.3,
+                45.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief captain's attempt to conceal his faults is evident in his assertion that he rescued Paul with an army, when Paul was actually about to be killed. The captain intentionally omits the fact that he had already bound and ordered Paul to be scourged before discovering his Roman citizenship. By distorting the sequence of events and positioning himself as a protector of fellow Roman citizens, the captain seeks to portray himself in a favorable light. Nevertheless, it is clear that the Lord orchestrated these circumstances for the ultimate benefit of His servant, Paul.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.7085458854698574,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                30.55,
+                22.32,
+                47.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

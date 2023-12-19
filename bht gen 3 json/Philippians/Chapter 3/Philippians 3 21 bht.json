@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 13:56:26",
+    "verseRef": "Philippians 3:21",
+    "bestBHT": {
+        "bht": "Our bodies, the material in which our humiliation is displayed, will be transformed by Christ to be like His glorious body. This transformation is not a change of identity, but a change in form, freeing our bodies from corruption, dishonor, and weakness. Just as Christ's body was transformed on the mount, our bodies will be transformed to be suitable to associate with the body of Christ's glory. This transformation is a reflection of God's boundless power, assuring us that He has the ability to subject all things to Himself.",
+        "wordCount": 92,
+        "quoteTokenProportion": 48.28,
+        "qualityScore": 2.199417568542672,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.47,
+        "commentatorTierSimilarities": [
+            33.28,
+            37.46,
+            29.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The body is that object, that material, in which our humiliation has place and is shown, by its suffering and being degraded.",
+            "Christ once had such a humiliation, and has passed through it to His glory\u2014and He shall change us so as to be like him.",
+            "The body of His glory (in which, as its object or material, His glory has place and is displayed)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He gave a sample of the coming transfiguration on the mount.",
+            "Not a change of identity, but of fashion or form.",
+            "Our spiritual resurrection now is the pledge of our bodily resurrection to glory hereafter."
+        ],
+        "Marvin Vincent": [
+            "The A.V. seems to countenance the stoic contempt of the body. Compare Colossians 1:22. The biographer of Archbishop Whately relates that, during his last illness, one of his chaplains, watching, during the night at his bedside, in making some remark expressive of sympathy for his sufferings, quoted these words : 'Who shall change our vile body.' The Archbishop interrupted him with the request 'Read the words.' The chaplain read them from the English Bible; but he reiterated, 'Read his own words.' The chaplain gave the literal translation, 'this body of our humiliation.' 'That's right, interrupted the Archbishop, 'not vile - nothing that He made is vile.'",
+            "As the body of Christ 's glory is a spiritual body, this word is appropriate to describe a conformation to what is more essential, permanent, and characteristic. See 1 Corinthians 14:35-53.",
+            "Hence the perfected heavenly state as depicted by John is thrown into the figure of a city, an organized commonwealth. The verb is thus in harmony with ver. 20. The work of God in Christ is therefore not only to transform, but to subject, and that not only the body, but all things."
+        ],
+        "John Calvin": [
+            "Whence, then, is its restoration to be hoped for? From heaven, at Christ\u2019s coming.",
+            "Let us for the present be contented with the evidence of our adoption, being destined to know the riches of our inheritance when we shall come to the enjoyment of them.",
+            "As nothing is more difficult to believe, or more at variance with carnal perception, than the resurrection, Paul on this account places before our eyes the boundless power of God, that it may entirely remove all doubt."
+        ],
+        "Philip Schaff": [
+            "Its corruption shall become incorruption; its dishonour, glory; its weakness, power, and from natural it shall become spiritual.",
+            "The fleeting fashion of the body shall be done away, its essential form shall remain, and be like unto Christ in His glory.",
+            "Not man\u2019s body only, but all rule, all authority and power."
+        ],
+        "Archibald T. Robertson": [
+            "The body of our state of humiliation will be made suitable to associate with the body of Christ's glory.",
+            "According to the energy.",
+            "He has power 'even to subject all things unto himself'."
+        ],
+        "John Gill": [
+            "This vile body, in the resurrection morn, shall be stripped of all its vileness, baseness, and meanness; and be changed, not as to its substance, nor as to its form and figure, which shall always remain same, as did the substance and form of our Lord's body after his resurrection; but as to its qualities.",
+            "The bodies of the saints in the resurrection shall be like to Christ's, though not equal to it, and shall shine like the sun in the kingdom of their Father.",
+            "And now who would but follow such persons, who are citizens of heaven, have their conversation there, look for Christ the Saviour from thence, Philippians 3:20, who when he comes will raise the dead in Christ first, put such a glory on their bodies as is on his own."
+        ],
+        "John Wesley": [
+            "Who will transform our vile body \u2014 Into the most perfect state, and the most beauteous form.",
+            "It will then be purer than the unspotted firmament, brighter than the lustre of the stars.",
+            "Like that wonderfully glorious body which he wears in his heavenly kingdom, and on his triumphant throne."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Philippians 3:21, our bodies, the material in which our humiliation is displayed, will be transformed by Christ to be like His glorious body. This transformation is not a change of identity, but a change in form, freeing our bodies from corruption, dishonor, and weakness. As Archbishop Whately noted, nothing that God has made is vile, so instead of using the word vile, we can understand it as the body of our humiliation. Just as Christ's body was transformed on the mount, our bodies will be transformed to be suitable to associate with the body of Christ's glory. This transformation is a reflection of God's boundless power, assuring us that He has the ability to subject all things to Himself.",
+            "wordCount": 122,
+            "quoteTokenProportion": 47.95,
+            "qualityScore": 2.1242024264281993,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.97,
+            "commentatorTierSimilarities": [
+                34.4,
+                35.73,
+                29.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the future, our bodies, the material in which our humiliation is displayed, will be transformed by Christ as a pledge of our bodily resurrection to glory. This transformation is not a change of identity, but a change in form, freeing our bodies from corruption, dishonor, and weakness. Just as Christ's body was transformed on the mount, our bodies will be transformed to be suitable to associate with the body of Christ's glory. This transformation is a reflection of God's boundless power, assuring us that He has the ability to subject all things to Himself.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.16839562187528,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.44,
+            "commentatorTierSimilarities": [
+                33.73,
+                36.8,
+                29.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our bodies, the material in which our humiliation is displayed, will be transformed by Christ to be like His glorious body. This transformation is not a change of identity, but a change in form, freeing our bodies from corruption, dishonor, and weakness. Just as Christ's body was transformed on the mount, our bodies will be transformed to be suitable to associate with the body of Christ's glory. This transformation is a reflection of God's boundless power, assuring us that He has the ability to subject all things to Himself.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.199417568542672,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.47,
+            "commentatorTierSimilarities": [
+                33.28,
+                37.46,
+                29.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the future, our bodies will be transformed by Christ to be like His glorious body, freeing them from corruption, dishonor, and weakness. This transformation is a reflection of God's boundless power, assuring us that He has the ability to subject all things to Himself. Our bodies, the material in which our humiliation is displayed, will no longer be vile, but will be made suitable to associate with the body of Christ's glory. This transformation is a glimpse of the coming transfiguration on the mount.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.1296015577727054,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.15,
+            "commentatorTierSimilarities": [
+                33.29,
+                36.2,
+                30.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the future, our bodies, the material in which our humiliation is displayed, will be transformed by Christ to be like His glorious body. This transformation is a reflection of God's power, subjecting all things to Himself. Just as Christ's body was transformed on the mount, our bodies will be made suitable to associate with the body of His glory. This transformation is not a change of identity, but a change in form that frees our bodies from corruption, dishonor, and weakness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.16262979481463,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.25,
+            "commentatorTierSimilarities": [
+                33.45,
+                37.13,
+                29.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

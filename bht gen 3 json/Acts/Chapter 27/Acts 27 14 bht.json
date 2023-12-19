@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:37:12",
+    "verseRef": "Acts 27:14",
+    "bestBHT": {
+        "bht": "A typhonic wind, called Euroclydon, violently blew against the ship from the east-northeast direction. This tempestuous wind, resembling a whirlwind or hurricane, caused the sea to be ploughed and the waves to be lifted. The ship was driven away from the island of Crete, and the force of the wind dashed the ship against the waves, resulting in chaos and danger. This sudden and violent storm serves as a reminder of how quickly circumstances can change and the need to be prepared for unexpected challenges.",
+        "wordCount": 86,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.8630723866229466,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.29,
+        "commentatorTierSimilarities": [
+            22.91,
+            31.49,
+            45.6
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "A tempestuous wind\u2014that is, like a typhon or tornado, causing a whirling of the clouds, owing to the meeting of opposite currents of air.",
+            "Called Euroclydon\u2014The true reading appears to be Euro-aquilo, or east-northeast, which answers all the effects here ascribed to it."
+        ],
+        "Albert Barnes": [
+            "A tempestuous wind - Turbulent - violent - strong.",
+            "The most probable supposition is, that it denotes 'a wind not blowing steadily from any quarter, but a hurricane, or wind veering about to different quarters.'",
+            "The name euroclydon is derived probably from two Greek words, \u03b5\u03c5\u0342\u03c1\u03bf\u03c2 euros, 'wind,' and \u03ba\u03bb\u03c5\u0301\u03b4\u03c9\u03bd kludo\u0304n, 'a wave'; so called from its agitating and exciting the waves."
+        ],
+        "Marvin Vincent": [
+            "There arose against it [\u03b5\u03b2\u03b1\u03bb\u03b5 \u03ba\u03b1\u03c4 \u03b1\u03c5\u03c4\u03b7\u03c2] . Against what? Some say, the island of Crete; in which case they would have been driven against the island, whereas we are told that they were driven away from it.",
+            "A tempestuous wind [\u03b1\u03bd\u03b5\u03bc\u03bf\u03c2 \u03c4\u03c5\u03c6\u03c9\u03bd\u03b9\u03ba\u03bf\u03c2] . Lit., a typhonic wind. The word tufwn means a typhoon, and the adjective formed from it means of the character of a typhoon.",
+            "The best texts read Eujrakulwn, Euraquilo: i.e., between Eurus, 'the E. S. E. wind,' and Aquilo, 'the north - wind, or, strictly, N. 1/3 E.' Hence, E. N. E."
+        ],
+        "Philip Schaff": [
+            "How suddenly violent changes may take place when we least expect them, and when we have thought that already we have \u2018gained our purpose\u2019!",
+            "The meaning is that the storm came \u2018down from the island.\u2019",
+            "Whatever may be our conclusion in this matter, two things are clear, first, either word shows that the gale blew more or less from the east; while, secondly, the fact that it came \u2018down from\u2019 the island, and drove the ship to the southward (see below), shows that it blew more or less from the north."
+        ],
+        "Archibald T. Robertson": [
+            "Beat down from it (\u03b5\u03b2\u03b1\u03bb\u03b5\u03bd \u03ba\u03b1\u03c4' \u03b1\u03c5\u03c4\u03b7\u03c2). Second aorist active indicative of \u03b2\u03b1\u03bb\u03bb\u03c9, to throw. Here 'dashed' (intransitive).",
+            "\u0391\u03c5\u03c4\u03b7\u03c2 cannot refer to \u03c0\u03bb\u03bf\u03b9\u03bf\u03bd (boat) which is neuter. So the ablative case with \u03ba\u03b1\u03c4\u03b1 as in Mark 5:13, Homer also.",
+            "The \u0395\u03c5\u03c1\u03b1\u03ba\u03c5\u03bb\u03c9\u03bd (reading of Aleph A B against the Textus Receptus \u0395\u03c5\u03c1\u03bf\u03ba\u03bb\u03c5\u03b4\u03c9\u03bd) has not been found elsewhere. Blass calls it a hybrid word compounded of the Greek \u03b5\u03c5\u03c1\u03bf\u03c2 (east wind) and the Latin \u03b1\u03b8\u03c5\u03b9\u03bb\u03bf (northeast)."
+        ],
+        "John Gill": [
+            "This wind may very well be thought to be the same which is called Typhon, and is by writers represented as a very tempestuous one, as a sort of whirlwind or hurricane, a violent storm, though without thunder and lightning.",
+            "Pliny calls it the chief plague of sailors, it breaking their sails, and even their vessels to pieces.",
+            "It seems by its name to be an easterly wind, which blew very violently, ploughed the sea, and lifted up its waves."
+        ],
+        "John Wesley": [
+            "A tempestuous wind, called in those parts Euroclydon. This was a kind of hurricane, not carrying them any one way, but tossing them backward and forward.",
+            "These furious winds are now called levanters, and blow in all directions from the northeast to the southeast.",
+            "The south wind; a tempestuous wind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 27:14, a violent and turbulent typhonic wind, known as Euroclydon, suddenly arose and caused chaos on the ship. Some argue that the wind was directed against the island of Crete, although the ship ended up being driven away from it. This Euro-aquilo wind, a combination of the Greek word for east wind and the Latin word for northeast, battered the ship, dashing it against the waves. This wind, which is often described as a storm that breaks sails and vessels, came from the east-northeast and caused the sea to be ploughed and its waves lifted. This unexpected storm illustrates the sudden and violent changes that can occur when we least expect them, reminding us of the need to be prepared for the unexpected.",
+            "wordCount": 126,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.996290217973305,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                26.13,
+                31.5,
+                42.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, a violent tempestuous wind called Euroclydon emerged, resembling a typhoon or tornado. It blew in various directions, causing turmoil on the ship. Some propose that it was directed against the island of Crete, yet it ultimately drove the ship away from it. This Euro-aquilo wind, originating from the east-northeast, fiercely pounded the ship, throwing it against the waves. Such ferocious winds, known as levanters, can blow in any direction from the northeast to the southeast, exhibiting their unpredictable and destructive nature.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.8903568960581576,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.2,
+            "commentatorTierSimilarities": [
+                26.06,
+                29.42,
+                44.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A typhonic wind, called Euroclydon, arose and caused chaos on the ship. The wind, resembling a turbulent tornado, ploughed the sea and lifted the waves. It blew from the east-northeast, dashing the ship against the waves. This unexpected storm illustrates the sudden and violent changes that can occur when we least expect them, reminding us to be prepared for the unexpected. Such fierce winds, like levanters, can blow in various directions from the northeast to the southeast. Their unpredictable and destructive nature poses a significant threat to sailors.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.7257289195400802,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
+            "commentatorTierSimilarities": [
+                22.86,
+                30.5,
+                46.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A typhonic wind, called Euroclydon, violently blew against the ship from the east-northeast direction. This tempestuous wind, resembling a whirlwind or hurricane, caused the sea to be ploughed and the waves to be lifted. The ship was driven away from the island of Crete, and the force of the wind dashed the ship against the waves, resulting in chaos and danger. This sudden and violent storm serves as a reminder of how quickly circumstances can change and the need to be prepared for unexpected challenges.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8630723866229466,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.29,
+            "commentatorTierSimilarities": [
+                22.91,
+                31.49,
+                45.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A typhonic wind, known as Euroclydon, violently arose, resembling a tornado or typhoon. The wind, blowing from the east-northeast, caused chaos on the ship and dashed it against the waves. This sudden and turbulent storm carried the ship away from the island of Crete. It serves as a reminder of the unpredictable and destructive nature of these levanters, which can blow in various directions from the northeast to the southeast. This incident highlights the importance of being prepared for unexpected challenges that may arise in life.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.6432350920518517,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.98,
+            "commentatorTierSimilarities": [
+                24.35,
+                30.65,
+                45.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

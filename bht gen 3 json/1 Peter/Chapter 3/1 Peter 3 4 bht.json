@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:39:28",
+    "verseRef": "1 Peter 3:4",
+    "bestBHT": {
+        "bht": "A meek and quiet spirit, changed and lovely with Christian affections, is of great price in the sight of God. Singularity mostly comes from pride and hinders religion in the way of others. Even under costly attire, there may be a humble mind. The hidden man of the heart, adorned with a meek and quiet spirit, is an incorruptible apparel. Women should focus on the adornment of the soul, seeking the beauty and ornament of internal grace that is far more valuable than outward appearance.",
+        "wordCount": 85,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 2.220715083118911,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+        "commentatorTierSimilarities": [
+            32.91,
+            31.3,
+            35.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And this is designated as being of the heart,\u2014consisting in the heart, changed, and lovely with Christian affections and graces.",
+            "Meek, as rising no disturbance itself: quiet, as bearing mildly disturbance from others.",
+            "Which (viz. the meek and quiet spirit) is in the sight of God (who looks not at the appearance, but at the heart) of great price."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Singularity mostly comes from pride and throws needless hindrances to religion in the way of others.",
+            "Under costly attire there may be a humble mind.",
+            "Meek in affections and feelings; quiet in words, countenance, and actions."
+        ],
+        "Albert Barnes": [
+            "Whatever pertains to outward decoration, however beautiful and costly, is fading; but that which pertains to the soul is enduring.",
+            "A wife, therefore, if she would permanently please her husband, should seek the adorning of the soul rather than the body; the ornament of the heart rather than gold and jewels.",
+            "The one can never be a substitute for the other; and whatever outward decorations she may have, unless she have a gentleness of spirit, a calmness of temper, a benevolence and purity of soul...she cannot calculate on his permanent affection."
+        ],
+        "Marvin Vincent": [
+            "Meek [\u03c0\u03c1\u03b1\u03b5\u03bf\u03c2] . See on Matthew 5:5. ",
+            "Of great price [\u03c0\u03bf\u03bb\u03c5\u03c4\u03b5\u03bb\u03b5\u03c2] . The word used to describe costly raiment, 1 Timothy 2:9."
+        ],
+        "John Calvin": [
+            "The contrast here ought to be carefully observed...in order to restrain this desire in women, introduces a remedy, that they are to devote themselves to the cultivation of their minds.",
+            "The ornament of the soul is not like a fading flower, nor consists in vanishing splendor, but is incorruptible.",
+            "Why do women take so much care to adorn themselves, except that they may turn the eyes of men on themselves? But Peter, on the contrary, bids them to be more anxious for what is before God of a great price."
+        ],
+        "Philip Schaff": [
+            "The contrast here being between those external accessories of ornamentation on which it is vain to depend for power of attraction or persuasion, and those inner qualities of character which are the secret of all permanent, personal influence.",
+            "The inner personality of moral beauty which makes the wife\u2019s true adorning, which belongs to the heart and cannot be seen by the outer eye...",
+            "The estimate which is put upon such a spirit by Him who has said of Himself that He \u2018seeth not as man seeth; for man looketh on the outward appearance, but the Lord looketh on the heart\u2019 should be a further recommendation of it to these women."
+        ],
+        "Archibald T. Robertson": [
+            "But the hidden man of the heart... in contrast with \u03ba\u03bf\u03c3\u03bc\u03bf\u03c2...\" ",
+            "In the incorruptible apparel of a meek and quiet spirit...\" ",
+            "Which (\u03bf). Spirit just mentioned."
+        ],
+        "John Gill": [
+            "By which is meant internal grace; which gives a beauty and ornament to the soul, far preferable to that which plaiting of the hair, wearing of gold, or any costly apparel, can give to the body.",
+            "The hidden man of the heart has a new heart and Spirit; it has a will to that which is spiritually good, and an understanding of divine things, and affections for Christ.",
+            "This grace of meekness, humility, and quietness, is a fruit of the Spirit, and so a part of the hidden man, and is what is very ornamental to a believer; it is his clothing, his inward adorning, and what makes him lovely in the sight of God."
+        ],
+        "John Wesley": [
+            "The hidden man of the heart \u2014 Complete inward holiness, which implies a meek and quiet spirit.",
+            "A meek spirit gives no trouble willingly to any: a quiet spirit bears all wrongs without being troubled.",
+            "All superfluity of dress contributes more to pride and anger than is generally supposed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A meek and quiet spirit, residing in the heart and adorned with Christian affections and graces, is of great value in God's sight. It is characterized by gentleness and calmness, refusing to cause disturbance or be affected by others. Singularity arising from pride hinders the progress of religion. Even under costly attire, a humble mind can be found. Outward decoration may be beautiful but is fading, while inner qualities of character endure. The adornment of the soul, the hidden man of the heart, is incorruptible and more precious to the Lord than any external ornament. Therefore, women should focus on cultivating their inner beauty and adorning their souls, seeking the qualities that captivate the heart rather than relying on outward attractiveness.",
+            "wordCount": 122,
+            "quoteTokenProportion": 32.95,
+            "qualityScore": 2.035728514914317,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                28.45,
+                37.72,
+                33.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A meek and quiet spirit, adorned with Christian graces, is highly valued by God. Singularity arising from pride hinders religion. Even under costly attire, a humble mind shines through. Outer beauty may fade, but the adornment of the soul is enduring. Women should focus on cultivating inner beauty and character, which captivate the heart. The hidden man of the heart, with its incorruptible apparel, is more precious to the Lord than any external ornament.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.0523385720151825,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                29.32,
+                35.81,
+                34.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A meek and quiet spirit, consisting of changed affections and graces of the heart, holds great value in the sight of God. Singularity often arises from pride and obstructs others' path towards religion. It is possible to possess a humble mind even while wearing costly attire. Outward beauty is temporary and fading, while the adornment of the soul is enduring. Women are encouraged to cultivate the beauty of their inner selves, seeking qualities that captivate the heart rather than relying solely on external appearance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.073451644882465,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.28,
+            "commentatorTierSimilarities": [
+                28.34,
+                36.71,
+                34.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A meek and quiet spirit, changed and lovely with Christian affections, is of great price in the sight of God. Singularity mostly comes from pride and hinders religion in the way of others. Even under costly attire, there may be a humble mind. The hidden man of the heart, adorned with a meek and quiet spirit, is an incorruptible apparel. Women should focus on the adornment of the soul, seeking the beauty and ornament of internal grace that is far more valuable than outward appearance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.220715083118911,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+            "commentatorTierSimilarities": [
+                32.91,
+                31.3,
+                35.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A meek and quiet spirit, changed and lovely with Christian affections, holds great value in the sight of God. Singularity often arises from pride and hinders the progress of religion in the lives of others. Even under costly attire, one can possess a humble mind. The hidden man of the heart, adorned with a meek and quiet spirit, is an incorruptible apparel. Women are encouraged to focus on the adornment of their souls, seeking the beauty of internal grace that surpasses external appearance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.159607456205485,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                32.73,
+                31.24,
+                36.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

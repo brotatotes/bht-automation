@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:23:19",
+    "verseRef": "Luke 22:64",
+    "bestBHT": {
+        "bht": "Our narrative leaves it undecided who this high priest was, inasmuch as Annas and Caiaphas are mentioned as high priests. From John, we find it was Annas who questioned Jesus before sending Him to Caiaphas for trial. Luke omits this trial altogether \u2014 perhaps summarizing it in the account of the Sanhedrin assembly. The blindfolding of Jesus is only recorded in Mark's Gospel and here in Luke. Mark 14:65 and Matthew 26:67 offer more discussion on this matter.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.5574990686120347,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.13,
+        "commentatorTierSimilarities": [
+            86.8,
+            0.0,
+            13.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our narrative leaves it undecided who this high priest was, inasmuch as, ch. iii, 2, Annas and Caiaphas are mentioned as high priests.",
+            "From St. John we find that it was Annas; who having questioned Jesus, sent Him bound to Caiaphas, before whom His trial took place.",
+            "St. Luke omits this trial altogether\u2014or perhaps gives the substance of it in the account (vv. 66\u201371) of the morning assembly of the Sanhedrim."
+        ],
+        "Archibald T. Robertson": [
+            "Blindfolded (\u03c0\u03b5\u03c1\u03b9\u03ba\u03b1\u03bb\u03c5\u03c8\u03b1\u03bd\u03c4\u03b5\u03c2). First aorist active participle of \u03c0\u03b5\u03c1\u03b9\u03ba\u03b1\u03bb\u03c5\u03c0\u03c4\u03c9, old verb, to put a veil around.",
+            "In the N.T. only here and Mark 14:65.",
+            "See Mark 14:65; Matthew 26:67 for further discussion."
+        ],
+        "John Gill": [
+            "And when they had blindfolded him...or put a veil...\" ",
+            "...as children do at play, to make themselves some sport with him...",
+            "...using such language as children do at blindman's buff..."
+        ],
+        "John Wesley": [
+            "And having blindfolded him, they struck him on the face.\" ",
+            "Probably he was abused in the same manner, both before and after his condemnation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our passage in Luke leaves it undecided who the high priest was, with Annas and Caiaphas mentioned as high priests earlier. However, the Gospel of John clarifies that it was Annas who initially questioned Jesus before sending Him to Caiaphas for trial. Luke's account omits the trial altogether, perhaps summarizing it in the later description of the Sanhedrin assembly. It is noteworthy that the act of blindfolding Jesus is a unique detail found only in Luke and Mark's Gospels. Mark 14:65 and Matthew 26:67 provide further insight into this event.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4694924359873935,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.2,
+            "commentatorTierSimilarities": [
+                88.55,
+                0.0,
+                11.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our narrative leaves it undecided who this high priest was, inasmuch as Annas and Caiaphas are mentioned as high priests. From John, we find it was Annas who questioned Jesus before sending Him to Caiaphas for trial. Luke omits this trial altogether \u2014 perhaps summarizing it in the account of the Sanhedrin assembly. The blindfolding of Jesus is only recorded in Mark's Gospel and here in Luke. Mark 14:65 and Matthew 26:67 offer more discussion on this matter.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.5574990686120347,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.13,
+            "commentatorTierSimilarities": [
+                86.8,
+                0.0,
+                13.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our narrative is ambiguous about the identity of the high priest involved, as both Annas and Caiaphas are mentioned as high priests. However, from John's Gospel, we learn that it was Annas who questioned Jesus before sending Him to Caiaphas for trial. Luke's account does not include the trial itself, possibly incorporating the substance of it in the description of the Sanhedrin assembly. The act of blindfolding Jesus is unique to Luke and Mark's Gospels. For further insight, consult Mark 14:65 and Matthew 26:67.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.406265813931517,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.1,
+            "commentatorTierSimilarities": [
+                87.57,
+                0.0,
+                12.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our narrative leaves it undecided over the identity of the high priest, mentioning Annas and Caiaphas as high priests. According to John's Gospel, it was Annas who questioned Jesus before sending Him to Caiaphas for trial. Luke's account excludes the trial, possibly summarizing it within the account of the Sanhedrin assembly. Notably, both Luke and Mark describe the unique act of blindfolding Jesus. For further discussion, see Mark 14:65 and Matthew 26:67.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.4935281525366135,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.0,
+            "commentatorTierSimilarities": [
+                86.58,
+                0.0,
+                13.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The identity of the high priest during this event remains uncertain since Annas and Caiaphas are mentioned as high priests. It was Annas who questioned Jesus first, as mentioned in John's Gospel, before sending Him to Caiaphas for trial. The trial is not explicitly described by Luke, potentially summarized in the account of the Sanhedrin assembly. Notably, blindfolding Jesus is mentioned solely in Luke and Mark. Additional insight can be found in Mark 14:65 and Matthew 26:67.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4300073071822443,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.89,
+            "commentatorTierSimilarities": [
+                88.56,
+                0.0,
+                11.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

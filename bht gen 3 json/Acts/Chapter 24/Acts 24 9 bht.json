@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:35:42",
+    "verseRef": "Acts 24:9",
+    "bestBHT": {
+        "bht": "The Jews who had accompanied Tertullus to Caesarea joined in setting upon him, affirming and bearing their testimony to the truth of the facts as alleged in court by Tertullus. They confirmed unanimously the accusation which he had brought against Paul, agreeing that the crimes he had set forth were so, in line with the steps and actions taken by the chief captain.",
+        "wordCount": 63,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.028182711448319,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+        "commentatorTierSimilarities": [
+            20.42,
+            46.02,
+            33.56
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9. assented] joined in setting upon him, bore out Tertullus in his charges."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. the Jews assented, &amp;c.\u2014See",
+            "\ton Acts 24:2."
+        ],
+        "Albert Barnes": [
+            "The Jews also assented - The Jews who had accompanied Tertullus to Caesarea.",
+            "They had gone as the accusers of Paul, and they bore testimony, when called upon, to the truth of all that the orator had said.",
+            "In whatever way their testimony was arrived at, they confirmed unanimously the accusation which he had brought against Paul."
+        ],
+        "Marvin Vincent": [
+            "Assented [\u03c3\u03c5\u03bd\u03b5\u03b8\u03b5\u03bd\u03c4\u03bf] . But the best texts read sunepeqento, jointly set upon or assailed. So Rev., joined in the charge."
+        ],
+        "Philip Schaff": [
+            "And the Jews also assailed him (or them);",
+            "They joined their voices to their advocate\u2019s in his charges against Paul.",
+            "Bearing their testimony to the truth of the facts as alleged in court by Tertullus."
+        ],
+        "Archibald T. Robertson": [
+            "Joined in the charge (\u03c3\u03c5\u03bd\u03b5\u03c0\u03b5\u03b8\u03b5\u03bd\u03c4\u03bf).",
+            "Affirming (\u03c6\u03b1\u03c3\u03ba\u03bf\u03bd\u03c4\u03b5\u03c2).",
+            "Were so (\u03bf\u03c5\u03c4\u03c9\u03c2 \u03b5\u03c7\u03b5\u03b9\u03bd)."
+        ],
+        "John Gill": [
+            "And the Jews also assented... agreed to what Tertullus said...\" ",
+            "Saying, that these things were so... guilty of the crimes he had set forth...",
+            "...the chief captain had taken the steps, and done the things he had related."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews who had accompanied Tertullus to Caesarea joined in setting upon him, affirming and bearing their testimony to the truth of the facts as alleged in court by Tertullus. They confirmed unanimously the accusation which he had brought against Paul, agreeing that the crimes he had set forth were so, in line with the steps and actions taken by the chief captain.",
+            "wordCount": 63,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.028182711448319,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                20.42,
+                46.02,
+                33.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews who had accompanied Tertullus to Caesarea jointly set upon Paul, affirming the charges and bearing their testimony to the truth of the facts alleged in court by Tertullus. They confirmed unanimously that the crimes he had set forth were so, in agreement with the steps and actions taken by the chief captain.",
+            "wordCount": 54,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.931253521347534,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                19.9,
+                42.16,
+                37.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews who had accompanied Tertullus to Caesarea joined in setting upon Paul, affirming the charges and bearing their testimony to the truth of the facts alleged in court. They confirmed unanimously that the crimes he had set forth were so, in agreement with the steps and actions taken by the chief captain.",
+            "wordCount": 53,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.9532421505683746,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.29,
+            "commentatorTierSimilarities": [
+                20.03,
+                42.7,
+                37.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews who had accompanied Tertullus to Caesarea jointly set upon Paul, affirming the charges and bearing their testimony to the truth of the facts alleged in court by Tertullus. They confirmed unanimously that the crimes he had set forth were so, in agreement with the steps and actions taken by the chief captain.",
+            "wordCount": 54,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.931253521347534,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                19.9,
+                42.16,
+                37.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews who had accompanied Tertullus to Caesarea joined in setting upon Paul, affirming the charges and bearing their testimony to the truth of the facts alleged in court. They confirmed unanimously that the crimes he had set forth were so, in agreement with the steps and actions taken by the chief captain.",
+            "wordCount": 53,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.9532421505683746,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.29,
+            "commentatorTierSimilarities": [
+                20.03,
+                42.7,
+                37.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

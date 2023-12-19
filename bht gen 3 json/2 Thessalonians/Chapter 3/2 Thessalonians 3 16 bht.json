@@ -1,0 +1,104 @@
+{
+    "timestamp": "12-19-2023 16:38:18",
+    "verseRef": "2 Thessalonians 3:16",
+    "bestBHT": {
+        "bht": "May the Lord Himself, the Lord of Peace, grant you unbroken and everlasting peace in every aspect of your life. This peace extends beyond harmony among believers and includes peace in general - outward and inward, here and hereafter. May He bless you not only with peace, but also with His divine presence, for the Lord Jesus, whose very nature is peace, can alone give true peace to the heart and the world. May the Lord be with you, comforting, guiding, and empowering you in all things.",
+        "wordCount": 86,
+        "quoteTokenProportion": 54.39,
+        "qualityScore": 2.5646723717433986,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.61,
+        "commentatorTierSimilarities": [
+            35.96,
+            34.38,
+            29.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On the Lord Himself, see on ch. ii. 16.",
+            "peace must not be understood only of peace with one another: but of peace in general, outward and inward, here and hereafter, as in Rom. xiv. 17.",
+            "May the Lord of Peace give you (that) Peace always in every way (whether it be outward or inward, for time or for eternity)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Give you the peace which it is 'His to give.' 'Peace' outward and inward, here and hereafter.",
+            "Always\u2014unbroken, not changing with outward circumstances.",
+            "May He bless you not only with peace, but also with His presence."
+        ],
+        "Albert Barnes": [
+            "Now the Lord of peace - The Lord who alone can impart peace; see the Romans 15:33 note; 1 Corinthians 14:33 note; Hebrews 13:20 note; John 14:27 note."
+        ],
+        "Marvin Vincent": [
+            "The Lord of peace.",
+            "By all means.",
+            "The alternative reading is rejected by the principal texts."
+        ],
+        "John Calvin": [
+            "He had forbidden them to treat even the contumacious as enemies, but rather with a view to their being brought back to a sound mind by brotherly admonitions.\" (Commentary)",
+            "At the same time, he may also have another thing in view \u2014 that God may restrain unruly persons, that they may not disturb the peace of the Church.\" (Commentary)",
+            "This prayer seems to be connected with the preceding sentence, with the view of recommending endeavors after concord and mildness.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "The Lord of peace signifies not only that He can bestow peace, but also and primarily that it is His own attribute.",
+            "He gives His own peace by enabling men to rely upon Him, to accept His will, that will which shall certainly be accomplished, and by thus lifting them up above anxiety into His own security.",
+            "He leaving them, leaves the Lord with them. It is the \u2018farewell\u2019 which rises naturally to the lip of him who must now lose sight of those he loves, but would fain leave them with all and far more than all the protection and blessing which he would himself have striven to provide them with."
+        ],
+        "Archibald T. Robertson": [
+            "The Lord of peace himself... the God of peace himself.\" ",
+            "The Lord Jesus whose characteristic is peace, can alone give real peace to the heart and to the world.\" ",
+            "The Lord Jesus... can alone give real peace to the heart and to the world."
+        ],
+        "John Gill": [
+            "The way to have true peace and prosperity in churches is to keep up the discipline of God's house.",
+            "He prays for constant and perpetual peace, which is greatly to be desired.",
+            "The Lord be with you all; by his presence, to comfort and refresh; by his power, to keep and preserve; by his grace, to assist; and by his Spirit, to counsel, advise, and direct."
+        ],
+        "John Wesley": [
+            "The Lord of peace \u2014 Christ.",
+            "Give you peace by all means \u2014 In every way and manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "May the Lord Himself, the Lord of Peace, grant you peace always, encompassing every aspect of your life. This peace extends beyond mere harmony among believers and includes peace in general - outward and inward, here and hereafter. It is not a peace subject to change; rather, it is unbroken and unaffected by external circumstances. May He not only bless you with peace, but also with His divine presence. For the Lord Jesus, whose very nature is peace, is the only one who can bestow genuine peace upon the heart and the world. He imparts His own peace by enabling us to trust in Him, accept His will, and be secure in the knowledge that His purposes will surely come to pass. As Paul bids farewell to the Thessalonians, he entrusts them to the care and protection of the Lord, leaving them with His abundant blessings and surpassing peace.",
+            "wordCount": 148,
+            "quoteTokenProportion": 46.24,
+            "qualityScore": 2.4591075476610094,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.11,
+            "commentatorTierSimilarities": [
+                34.33,
+                36.07,
+                29.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May the Lord Himself, the Lord of Peace, grant you unbroken and everlasting peace in every aspect of your life. This peace extends beyond harmony among believers and includes peace in general - outward and inward, here and hereafter. May He bless you not only with peace, but also with His divine presence, for the Lord Jesus, whose very nature is peace, can alone give true peace to the heart and the world. May the Lord be with you, comforting, guiding, and empowering you in all things.",
+            "wordCount": 86,
+            "quoteTokenProportion": 54.39,
+            "qualityScore": 2.5646723717433986,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.61,
+            "commentatorTierSimilarities": [
+                35.96,
+                34.38,
+                29.66
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

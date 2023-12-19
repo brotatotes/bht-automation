@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:17:11",
+    "verseRef": "2 Corinthians 8:8",
+    "bestBHT": {
+        "bht": "To induce the Corinthians, Paul uses the zeal of others as an instrument to produce the effect. He wants to test the genuineness of their love and prove its sincerity. Giving should be done out of sincerity and love, not by commandment. By giving generously, the Corinthians can demonstrate the sincerity of their love to God, the Redeemer, Paul, and the church. The collection is a real test of one's love, and Paul calls on them to show that they are not behind others in the outcome of their love.",
+        "wordCount": 91,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 2.000047974824363,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+        "commentatorTierSimilarities": [
+            30.2,
+            40.1,
+            29.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not as a command, but by way of inducement.",
+            "He treats the zeal of others as the instrument by which, in the way of emulation, the effect was to be produced.",
+            "To try the genuineness of their love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "not by way of commandment.",
+            "But by (mention of) the forwardness of others (as an inducement to you), and to prove the sincerity of your love.",
+            "By means of the forwardness of others, proving the sincerity of your love ALSO."
+        ],
+        "Albert Barnes": [
+            "People cannot be induced to give to objects of charity by command, or by a spirit of dictation and authority. The only successful, as well as the only lawful appeal, is to their hearts and consciences, and sober judgments.",
+            "I make use of the example of the churches of Macedonia as an argument to induce you to give liberally to the cause.",
+            "Liberality in assisting the poor and afflicted people of God would be the best evidence of the sincerity of their love to God, to the Redeemer, to him, and to the church. Religion is love; and that love is to be manifested by doing good to all people as we have opportunity."
+        ],
+        "Marvin Vincent": [
+            "Sincerity...contracted from genhsiov legitimately born: hence genuine.\" ",
+            "Paul calls Timothy his lawful son in the faith.\" ",
+            "The kindred adverb gnhsiwv sincerely (A. V. naturally), occurs once."
+        ],
+        "John Calvin": [
+            "He nowhere binds us to circumstances of times, or persons, but calls us to take the rule of love as our guide.",
+            "He does not command as if he reckoned that they required to be constrained by command and requirement, as though they refused to do their duty, unless shut up to it by necessity.",
+            "He rather wished that all should have evidence of it."
+        ],
+        "Philip Schaff": [
+            "I speak not by way of commandment as laying my commands upon you to exercise your liberality...",
+            "...proving through the earnestness of others the sincerity also of your love...",
+            "...let it be seen that ye are not behind others in the outcome of your love."
+        ],
+        "Archibald T. Robertson": [
+            "A collection is a test of one's love for Christ, not the only test, but a real one.",
+            "Testing and so proving.",
+            "Legitimately born, not spurious."
+        ],
+        "John Gill": [
+            "Either of God, who has not fixed the certain times when, or certain sums which persons are to give, and other circumstances, which are left to discretion.",
+            "He did not go about to force or oblige them to it, for men in such cases must act willingly, and what they do, must do of their own accord with cheerfulness, and not through constraint or grudgingly.",
+            "To prove the sincerity of your love;... that their love might appear to be true, genuine, hearty, and real to others, to all men as well as to them the apostles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To induce the Corinthians to give generously, Paul uses the zeal and forwardness of the churches in Macedonia as an example. He emphasizes that giving should be done out of sincerity and love, not by commandment. Paul wants to test the genuineness of their love and prove its sincerity. A collection is a real test of one's love for Christ, and by giving willingly and generously to the cause, the Corinthians can demonstrate the sincerity of their love to God, the Redeemer, Paul, and the church. The rule of love should be the guide, not a spirit of authority. Therefore, Paul calls on them to show that they are not behind others in the outcome of their love.",
+            "wordCount": 119,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.944960788373139,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                27.51,
+                40.61,
+                31.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To induce the Corinthians, Paul uses the zeal of others as an instrument to produce the effect. He wants to test the genuineness of their love and prove its sincerity. Giving should be done out of sincerity and love, not by commandment. By giving generously, the Corinthians can demonstrate the sincerity of their love to God, the Redeemer, Paul, and the church. The collection is a real test of one's love, and Paul calls on them to show that they are not behind others in the outcome of their love.",
+            "wordCount": 91,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.000047974824363,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                30.2,
+                40.1,
+                29.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul encourages the Corinthians to give generously not through command, but by highlighting the zeal and forwardness of other churches. He aims to test the genuineness of their love and prove its sincerity. Giving should come from a place of sincerity and love, not obligation. By willingly and generously giving, the Corinthians can demonstrate the authenticity of their love for God, the Redeemer, Paul, and the church. The collection serves as a real test of their love, urging them to show that they are not lagging behind others in their love's manifestation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.9039159242304318,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "commentatorTierSimilarities": [
+                27.49,
+                38.49,
+                34.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul seeks to induce the Corinthians to give generously by pointing to the example of others' zeal and forwardness. He desires to test the authenticity of their love and prove its sincerity. Rather than commanding them, Paul urges them to give out of genuine love, not obligation. By demonstrating their love through generous giving, the Corinthians can show their love for God, the Redeemer, Paul, and the church. The act of giving becomes a true measure of their love, challenging them not to fall behind others.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.910462566708734,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.86,
+            "commentatorTierSimilarities": [
+                27.85,
+                38.39,
+                33.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul appeals to the Corinthians to give generously, not as a command, but by using the example of others' zeal. He wants to test the genuineness of their love and demonstrate its sincerity. Genuine love should motivate giving, not a sense of obligation. By freely and generously giving, the Corinthians can prove the authenticity of their love for God, the Redeemer, Paul, and the church. Giving becomes a tangible expression of love, urging them not to fall behind in their demonstration of love.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.9318791272810356,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                28.35,
+                39.11,
+                32.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

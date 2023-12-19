@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:21:55",
+    "verseRef": "Luke 19:20",
+    "bestBHT": {
+        "bht": "The servant in the parable wraps up his pound in a sweatcloth, a napkin typically used for wiping off sweat. This reveals his idleness and lack of care for what he has been given. He has not wasted it, but he has also not put it to any use or benefited others with it. This highlights the importance of using our talents, resources, and influence for the service of the Lord Jesus. We must not keep our gifts in a napkin but instead invest them for the glory of God and the good of others.",
+        "wordCount": 95,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.3972320304525279,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.8,
+        "commentatorTierSimilarities": [
+            29.09,
+            31.33,
+            39.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "He means by it that he had not wasted it nor thrown it by carelessly, but had been 'very careful' of it.",
+            "So many people employ their talents, their learning, their property, their influence. They 'have' them; they 'keep' them; but they never 'use' them in the service of the Lord Jesus.",
+            "In regard to their influence on the church or the world, it would be the same if God had never conferred on them these talents."
+        ],
+        "Marvin Vincent": [
+            "Napkin [\u03c3\u03bf\u03c5\u03b4\u03b1\u03c1\u03b9\u03c9] . The Latin sudarium, from sudor, perspiration : a cloth for wiping off the sweat.",
+            "The napkin which the idle servant does not need for its proper use he uses for the wrapping up of his pound."
+        ],
+        "Philip Schaff": [
+            "Luke 19:20. In a napkin. It is asserted that the Jews frequently used this for such a purpose. This refers to idleness in office.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "I kept (\u03b5\u03b9\u03c7\u03bf\u03bd). Imperfect active of \u03b5\u03c7\u03c9. I kept on keeping.",
+            "Laid up (\u03b1\u03c0\u03bf\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03b7\u03bd). Present passive participle agreeing with \u03b7\u03bd (which), used often as perfect passive of \u03c4\u03b9\u03b8\u03b7\u03bc as here, laid away or off (\u03b1\u03c0\u03bf). It is not the periphrastic construction, but two separate verbs, each with its own force.",
+            "In a napkin (\u03b5\u03bd \u03c3\u03bf\u03c5\u03b4\u03b1\u03c1\u03b9\u03c9). A Latin word sudarium from sudor (sweat) transliterated into Greek, a sweatcloth handkerchief or napkin. Found in papyrus marriage contracts as part of the dowry (second and third centuries A.D., Deissmann, Bible Studies, p. 223). Used also for swathing the head of the dead (John 11:44; John 20:7)."
+        ],
+        "John Gill": [
+            "behold, [here is] thy pound; he owns his gifts were the Lord's, and that he had received them from him, and now returns them.",
+            "he had kept that which was committed to him, and that even till his Lord came; he had not lost it, though it was not increased, or was of any advantage to Christ, or the souls of men, it being neglected by him.",
+            "he wrapped up his money in it, and both lay useless; his gift lay dormant and unexercised, which was given him to profit withal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The servant in the parable wraps up his pound in a sweatcloth, a napkin typically used for wiping off sweat. This reveals his idleness and lack of care for what he has been given. He has not wasted it, but he has also not put it to any use or benefited others with it. This highlights the importance of using our talents, resources, and influence for the service of the Lord Jesus. If we do not utilize what God has bestowed upon us, it is as if we never had those gifts to begin with, and they have no impact on the church or the world. We must not keep our gifts in a napkin but instead invest them for the glory of God and the good of others.",
+            "wordCount": 129,
+            "quoteTokenProportion": 54.32,
+            "qualityScore": 1.3736666944031168,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.02,
+            "commentatorTierSimilarities": [
+                26.44,
+                33.12,
+                40.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servant in the parable wraps up his pound in a sweatcloth, a napkin typically used for wiping off sweat. This reveals his idleness and lack of care for what he has been given. He has not wasted it, but he has also not put it to any use or benefited others with it. This highlights the importance of using our talents, resources, and influence for the service of the Lord Jesus. We must not keep our gifts in a napkin but instead invest them for the glory of God and the good of others.",
+            "wordCount": 95,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.3972320304525279,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.8,
+            "commentatorTierSimilarities": [
+                29.09,
+                31.33,
+                39.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servant in the parable wraps up his pound in a napkin, indicating his idleness and neglect of the gift he was given. Though he has not lost it, he has also not used it for the Lord's purposes. This serves as a reminder for us to faithfully utilize the talents, resources, and influence that God has entrusted to us. Keeping our gifts hidden away and unused is not the intention; rather, we are called to invest them for the benefit of others and the glory of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.517257847457842,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.79,
+            "commentatorTierSimilarities": [
+                26.18,
+                28.24,
+                45.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The servant in the parable wraps up his pound in a sweatcloth, a napkin typically used for wiping off sweat. This reveals his idleness and lack of care for what he has been given. He has not wasted it, but he has also not put it to any use or benefited others with it. This highlights the importance of using our talents, resources, and influence for the service of the Lord Jesus. We must not keep our gifts in a napkin but instead invest them for the glory of God and the good of others.",
+            "wordCount": 95,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.3972320304525279,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.8,
+            "commentatorTierSimilarities": [
+                29.09,
+                31.33,
+                39.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servant in the parable wraps up his pound in a napkin, indicating his idleness and neglect of the gift he was given. Though he has not lost it, he has also not used it for the Lord's purposes. This serves as a reminder for us to faithfully utilize the talents, resources, and influence that God has entrusted to us. Keeping our gifts hidden away and unused is not the intention; rather, we are called to invest them for the benefit of others and the glory of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.517257847457842,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.79,
+            "commentatorTierSimilarities": [
+                26.18,
+                28.24,
+                45.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

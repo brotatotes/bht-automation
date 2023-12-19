@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:24:20",
+    "verseRef": "Luke 24:37",
+    "bestBHT": {
+        "bht": "The disciples were terrified and bewildered when Jesus suddenly appeared in their midst, for they had been contemplating whether Jesus had truly risen from the dead and whether the figure before them was truly him. Filled with fear, they believed they were seeing a spirit or ghost rather than Jesus himself in bodily form. It was an extraordinary and shocking event, as Jesus stood among them, proving his victory over death.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 1.9140672519769248,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+        "commentatorTierSimilarities": [
+            27.33,
+            33.68,
+            38.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On account of His sudden appearance, and the likeness to one whom they knew to have been dead.",
+            "A spirit is a ghost or spectre\u2014an appearance of the dead to the living.",
+            "Not exactly as 'a phantasm,' Matt. xiv. 26, which might have been any appearance of a supernatural kind."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A spirit\u2014the ghost of their dead Lord, but not Himself in the body.",
+            "Thoughts\u2014rather, 'reasonings'; that is, whether He were risen or no, and whether this was His very self.",
+            "Whether He were risen or no, and whether this was His very self."
+        ],
+        "John Calvin": [
+            "But a little ago, they had come to the conclusion that the Lord was risen, and had spoken of it unhesitatingly as a matter fully ascertained; and now, when they behold him with their eyes, their senses are struck with astonishment, so that they think he is a spirit.",
+            "Though this error, which arose from weakness, was not free from blame, still they did not so far forget themselves as to be afraid of enchantments.",
+            "So then they did not suspect that this was a vision intended to deceive them, as if it had been an idle phantom, but, seized with fear, they thought only that there was exhibited to them in spirit what was actually placed before their eyes."
+        ],
+        "Philip Schaff": [
+            "Terrified and affrighted. John\u2019s account also implies this. It was now, not hopelessness, but terror in fear of the sudden appearance, at night too.",
+            "If we bear in mind the command to go into Galilee (Matthew, Mark), we shall conclude that it was utterly unexpected.",
+            "A ghost, a departed spirit, returned in the semblance of a body. This assumes, and our Lord\u2019s words (Luke 24:39) teach, that there are disembodied spirits."
+        ],
+        "Archibald T. Robertson": [
+            "Terrified (\u03c0\u03c4\u03bf\u03b7\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2). First aorist passive participle of \u03c0\u03c4\u03bf\u03b5\u03c9, old verb and in the N.T. only here and Luke 21:9 which see.",
+            "Affrighted (\u03b5\u03bc\u03c6\u03bf\u03b2\u03bf \u03b3\u03b5\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf). Late adjective from \u03b5\u03bd and \u03c6\u03bf\u03b2\u03bf\u03c2 (fear). Both these terms of fear are strong.",
+            "Supposed (\u03b5\u03b4\u03bf\u03ba\u03bf\u03c5\u03bd). Imperfect active of \u03b4\u03bf\u03ba\u03b5\u03c9, kept on thinking so."
+        ],
+        "John Gill": [
+            "But they were terrified and affrighted... at his sudden appearance among them, without being heard, or seen before, and the doors shut and bolted.",
+            "...they could not tell how to account for it, that it should be Jesus himself risen from the dead in his own body...",
+            "...supposed that they had seen a spirit; that what they saw was a phantom, or apparition, or a spirit, that had assumed, and appeared in, the shape of Jesus, and was not he himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were filled with both fear and confusion when Jesus suddenly appeared among them after his resurrection. They were startled by his presence and struggled to comprehend what they were witnessing. Their thoughts were consumed with whether Jesus had truly risen from the dead and if the figure before them was truly him. In their fearful state, they believed that they were seeing a spirit or ghost rather than Jesus himself in bodily form. The disciples were gripped by terror and were unable to explain this extraordinary event as Jesus stood among them, proving that he had triumphed over death.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.82792988877494,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+            "commentatorTierSimilarities": [
+                27.58,
+                32.05,
+                40.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were terrified and bewildered when Jesus suddenly appeared in their midst, for they had been contemplating whether Jesus had truly risen from the dead and whether the figure before them was truly him. Filled with fear, they believed they were seeing a spirit or ghost rather than Jesus himself in bodily form. It was an extraordinary and shocking event, as Jesus stood among them, proving his victory over death.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.9140672519769248,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                27.33,
+                33.68,
+                38.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were terrified and affrighted by Jesus' sudden appearance, unsure whether He was a spirit or not. Their reasonings and thoughts were consumed with whether He had truly risen or if this was His very self. They were struck with astonishment, comparing Him to a ghost or an idle phantom. However, they did not suspect this to be a vision intended to deceive, but rather a real manifestation before their eyes. They could not understand how Jesus could appear in his own body, causing them to think that what they saw was a spirit and not Him Himself. Their fear was a result of the unexpectedness of His presence, leaving them in awe and perplexity.",
+            "wordCount": 116,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.8610108940484023,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                29.62,
+                28.2,
+                42.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, in their astonishment, were terrified and affrighted by Jesus' sudden appearance, questioning whether He was a spirit or not. Their reasonings and thoughts were consumed with whether He had truly risen or if this was His very self. The unexpectedness of His presence left them in awe and perplexity, unable to comprehend how Jesus could appear in his own body. They compared Him to a ghost or phantom, not suspecting this to be a vision intended to deceive, but rather a real manifestation before their eyes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.944634383288383,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                29.72,
+                28.76,
+                41.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were struck with astonishment and fear at Jesus' sudden appearance, uncertain whether He was a spirit or not. Their thoughts were consumed with whether He had truly risen and if this was His actual self. They were terrified and affrighted, comparing Him to a ghost or phantom. The unexpectedness of His presence left them bewildered, unable to account for how He could appear in His own body. Their fear stemmed from the unforeseen nature of His arrival, leaving them in awe and uncertainty.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.7996776605740195,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                31.96,
+                30.13,
+                37.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

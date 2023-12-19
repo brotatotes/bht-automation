@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:20:03",
+    "verseRef": "Luke 14:32",
+    "bestBHT": {
+        "bht": "Humanity's inadequacy is starkly portrayed in this parable, prompting individuals to seek peace through supplicating for God's mercy and grace. The act of requesting peace is presented as an equal negotiation, with conditions to be discussed. By approaching faith with careful consideration and resolute determination, forsaking worldly pursuits, believers can overcome their weaknesses. This pursuit of peace goes against the notion that the conflict lies with Satan or sin, rather it calls for reconciliation. The ultimate reward awaits those who fully engage in this spiritual battle, culminating in righteousness and glory.",
+        "wordCount": 93,
+        "quoteTokenProportion": 30.67,
+        "qualityScore": 1.6214203326382886,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+        "commentatorTierSimilarities": [
+            28.2,
+            33.66,
+            38.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Here the inadequacy of man\u2019s resources is plainly set forth, not left, as in the former parable, to be inferred.",
+            "Finding that he has no hope of prevailing,\u2014while the other is yet a great way off, while there is yet time,\u2014he sends an embassy, and sues for peace, abandoning the conflict.",
+            "Throwing himself upon the mere mercy and grace of God."
+        ],
+        "Albert Barnes": [
+            "Every man who becomes a follower of Jesus should calmly and deliberately look at all the consequences of such an act and be prepared to meet them.",
+            "Religion is a work of soberness, of thought, of calm and fixed purpose, and no man can properly enter on it who does not resolve by the grace of God to fulfil all its requirements and make it the business of his life.",
+            "If we do not deliberately resolve to leave all things, to suffer all things that may be laid on us, and to persevere to the end of our days in the service of Christ, we cannot be his disciples."
+        ],
+        "Marvin Vincent": [
+            "Asketh [\u03b5\u03c1\u03c9\u03c4\u03b1] . On a footing of equality : king treating with king.",
+            "Conditions of peace [\u03c4\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03b9\u03c1\u03b7\u03bd\u03b7\u03bd] . Lit., things looking toward peace : preliminaries.",
+            "Compare Romans 14:19, things which make for peace (ta thv eijrhnhv, the things of peace)."
+        ],
+        "Philip Schaff": [
+            "A Christian's weakness is his strength.",
+            "We are naturally at peace with [Satan or sin].",
+            "This making of peace opposes the view that the conflict is with Satan or with sin."
+        ],
+        "Archibald T. Robertson": [
+            "An ambassage (\u03c0\u03c1\u03b5\u03c3\u03b2\u03b5\u03b9\u03b1\u03bd). Old and common word for the office of ambassador, composed of old men (\u03c0\u03c1\u03b5\u03c3\u03b2\u03b5\u03b9\u03c2) like Japanese Elder Statesmen who are supposed to possess wisdom.",
+            "Asketh conditions of peace (\u03b5\u03c1\u03c9\u03c4\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03b9\u03c1\u03b7\u03bd\u03b7\u03bd). The use of \u03b5\u03c1\u03c9\u03c4\u03b1\u03c9 in this sense of beg or petition is common in the papyri and Koine generally.",
+            "The original use of asking a question survives also. The text is uncertain concerning \u03c0\u03c1\u03bf\u03c2 \u03b5\u03b9\u03c1\u03b7\u03bd\u03b7\u03bd which means with \u03b5\u03c1\u03c9\u03c4\u03b1\u03c9, to ask negotiations for peace."
+        ],
+        "John Gill": [
+            "To give out, and leave off fighting with sin, Satan, and the world, and make peace with them, is shameful and scandalous.",
+            "Those who have engaged in this war should pursue it with rigour and courage.",
+            "They are sure of victory and shall at last enjoy the crown of life, righteousness and glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 14:32, Jesus uses a parable to emphasize the inadequacy of man's resources and the need to throw oneself upon the mercy and grace of God in order to make peace. It is a plea for reconciliation, as one sues for peace and asks for conditions of peace on a footing of equality. This call for peace aligns with the idea of pursuing religion with soberness, calmly and deliberately resolving to leave all things and persevere in the service of Christ. By making peace, Christians are able to overcome their weaknesses and enjoy the ultimate victory and crown of life.",
+            "wordCount": 101,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.7797410518955195,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.52,
+            "commentatorTierSimilarities": [
+                29.05,
+                34.78,
+                36.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the parable emphasizes the inadequacy of human resources and the need for individuals to rely on God's mercy and grace to make peace. The parable portrays the act of seeking peace as an equal negotiation, with conditions to be discussed. This aligns with the idea of approaching religion with thoughtfulness and resolve, leaving behind worldly things and persevering in the service of Christ. By making peace, believers can overcome their weaknesses and ultimately attain victory and glory.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.599157839959047,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.51,
+            "commentatorTierSimilarities": [
+                30.99,
+                34.42,
+                34.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable in Luke 14:32 highlights how humanity's insufficiency is brought to the forefront, urging individuals to seek peace by relying solely on the mercy and grace of God. It emphasizes the act of requesting peace as a mutual negotiation, involving equal kings. This call for peace aligns with the notion of approaching faith with deliberate thoughtfulness and unwavering commitment, leaving behind worldly matters. Through making peace, believers can triumph over their weaknesses and ultimately obtain the crown of life and glory.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.5924502884128453,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.29,
+            "commentatorTierSimilarities": [
+                31.54,
+                31.36,
+                37.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Humanity's inadequacy is starkly portrayed in this parable, prompting individuals to seek peace through supplicating for God's mercy and grace. The act of requesting peace is presented as an equal negotiation, with conditions to be discussed. By approaching faith with careful consideration and resolute determination, forsaking worldly pursuits, believers can overcome their weaknesses. This pursuit of peace goes against the notion that the conflict lies with Satan or sin, rather it calls for reconciliation. The ultimate reward awaits those who fully engage in this spiritual battle, culminating in righteousness and glory.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.67,
+            "qualityScore": 1.6214203326382886,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+            "commentatorTierSimilarities": [
+                28.2,
+                33.66,
+                38.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this parable, the need for reliance on God's grace and mercy is emphasized, as human resources are shown to be inadequate. Seeking peace is portrayed as a negotiation between equals, with conditions to be addressed. Approaching faith with resolve and forsaking worldly pursuits helps believers overcome weaknesses. Making peace contradicts the idea that the conflict lies with Satan or sin, instead urging reconciliation. Victory and the crown of life are assured for those who earnestly engage in this battle, leading to righteousness and glory.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 1.6026973876809574,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.63,
+            "commentatorTierSimilarities": [
+                27.65,
+                34.39,
+                37.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

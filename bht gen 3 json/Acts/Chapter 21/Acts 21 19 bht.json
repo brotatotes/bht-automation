@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:34:46",
+    "verseRef": "Acts 21:19",
+    "bestBHT": {
+        "bht": "Paul humbly stood before the elders, eager to recount the marvelous things that God had accomplished through his ministry among the Gentiles. He wanted to make it known how God's power and grace had been at work, countering the efforts of the Judaizing party who sought to restrict the Church to Jewish customs. Paul's goal was to give glory to God, emphasizing that he was merely an instrument in God's hands. The generous support of the Gentile believers demonstrated their love and solidarity with their Jewish brethren.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.621637458923203,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.26,
+        "commentatorTierSimilarities": [
+            28.25,
+            32.97,
+            38.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "he declared particularly\u2014in detail.",
+            "what God had wrought among the Gentiles by his ministry",
+            "the insidious and systematic efforts of the Judaizing party in a number of places to shrivel the Church of Christ into a Jewish sect"
+        ],
+        "Albert Barnes": [
+            "Had saluted them - With the usual tokens of respect and affection.",
+            "He declared particularly ... - As an evidence that God had been with him.",
+            "This prejudice would be removed by his stating what had actually occurred under his ministry."
+        ],
+        "John Calvin": [
+            "And now Paul showeth his modesty when he doth not make himself the author of those things which he had done, but giving the praise to God, doth call himself only the minister whose industry [agency] God had used.",
+            "For if they had been a few stubborn fellows, he would not have been so much moved. But now he may not neglect both much people, and the whole body of the Church.",
+            "...yet let them do what they can, they will speak evil of Paul. Unless, peradventure, they were too slack in the beginning, that they might gratify their countrymen, so that they were not their own men [free] afterward."
+        ],
+        "Philip Schaff": [
+            "The bitter opposition proceeded from a small though influential faction, which was represented to some extent in all those many populous centres where Jews congregated.",
+            "Before this venerable assembly of the elders of the mother church of Christianity, presided over by one who had been with the Lord from the days of the sacred childhood, Paul rehearsed the story of the past three years.",
+            "He, no doubt, presented the costly presents and alms contributed as a token of love and sympathy by these foreign Gentile congregations to their poor Jewish brethren in Palestine."
+        ],
+        "Archibald T. Robertson": [
+            "He rehearsed, for he had a great story to tell of what had happened since they saw him last.",
+            "God had wrought, summary constative aorist active indicative that gathers up all that God did and he takes pains to give God the glory.",
+            "The most that can be said is that the Judaizers referred to by James do not appear actively against him. The collection and the plan proposed by James accomplished that much at any rate. It stopped the mouths of those lions."
+        ],
+        "John Gill": [
+            "He declared particularly what things God had wrought among the Gentiles by his ministry.",
+            "He declared, what multitudes of souls were converted, and what numbers of churches were planted.",
+            "He was only an instrument, God was the efficient, and ought to have the glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul stood before the elders, eager to share the incredible work that God had accomplished through his ministry among the Gentiles. The Judaizing party, those who sought to diminish the Church and restrict it to Jewish traditions, had been a persistent threat. Yet Paul's recounting of the miracles, conversions, and churches established under his ministry silenced their voices. With great humility, he acknowledged that it was God who had accomplished these feats and emphasized that he was merely a vessel in God's hands. The love and support of the Gentile believers, demonstrated through their generous contributions to their Jewish brethren, spoke volumes to the assembly. Despite the opposition, Paul's purpose was clear: to give glory to God for the extraordinary work that had taken place.",
+            "wordCount": 128,
+            "quoteTokenProportion": 30.86,
+            "qualityScore": 1.543457806530787,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.66,
+            "commentatorTierSimilarities": [
+                28.59,
+                32.74,
+                38.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul humbly stood before the elders, eager to recount the marvelous things that God had accomplished through his ministry among the Gentiles. He wanted to make it known how God's power and grace had been at work, countering the efforts of the Judaizing party who sought to restrict the Church to Jewish customs. Paul's goal was to give glory to God, emphasizing that he was merely an instrument in God's hands. The generous support of the Gentile believers demonstrated their love and solidarity with their Jewish brethren.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.621637458923203,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.26,
+            "commentatorTierSimilarities": [
+                28.25,
+                32.97,
+                38.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Before the elders, Paul shared in detail the extraordinary things God had accomplished among the Gentiles through his ministry. The presence of the Judaizing party, aiming to shrink the Church into a Jewish sect, had been a persistent challenge. However, Paul's account of the conversions, miracles, and the generosity of the Gentile believers silenced their opposition. With humility, he attributed the work to God, recognizing himself as a mere instrument. The support shown by the Gentiles towards their Jewish brethren demonstrated unity and love.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.483059226884358,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.65,
+            "commentatorTierSimilarities": [
+                27.33,
+                36.44,
+                36.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul eagerly stood before the elders, prepared to share the wonderful things that God had accomplished through his ministry among the Gentiles. He spoke in great detail, recounting the miracles and conversions that had taken place. The presence of the Judaizing party, seeking to reduce the Church to a Jewish sect, proved to be a challenge. Yet, Paul's testimony silenced their opposition as the Gentile believers exhibited love and solidarity through their generous contributions. Paul attributed all these accomplishments to God, recognizing himself as a humble instrument in His plan.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.5027253022721148,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.31,
+            "commentatorTierSimilarities": [
+                29.35,
+                33.54,
+                37.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul eagerly stood before the elders, ready to share the incredible things God had accomplished through his ministry among the Gentiles. Despite the opposition of the Judaizing party, who sought to restrict the Church to Jewish traditions, Paul's testimony silenced their voices. He humbly acknowledged that it was God who had brought about these miracles and conversions, emphasizing his role as a vessel in God's hands. The support and generosity of the Gentile believers towards their Jewish brethren demonstrated unity and love within the Church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.5318923015736539,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.28,
+            "commentatorTierSimilarities": [
+                27.44,
+                34.89,
+                37.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

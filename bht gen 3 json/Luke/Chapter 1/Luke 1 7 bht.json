@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:13:02",
+    "verseRef": "Luke 1:7",
+    "bestBHT": {
+        "bht": "Throughout the Bible, we encounter stories of couples, like Abraham and Sarah, who were advanced in their years and deemed unable to have children. The phrase well stricken in years describes their age, but it signifies a greater divine purpose behind their miraculous conceptions. Elizabeth's barrenness in her prime and now in her old age serves as a remarkable testimony to God's intervention, confirming John the Baptist as His chosen prophet. The extraordinary nature of John's birth, despite these hindrances, underscores the challenge of believing in this miraculous event.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 1.5010452063068915,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+        "commentatorTierSimilarities": [
+            21.13,
+            34.11,
+            44.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "7. So with Abraham and Sarah,",
+            "\tIsaac and Rebekah, Elkanah and Hannah, Manoah and his wife."
+        ],
+        "Albert Barnes": [
+            "Well stricken in years - Old or advanced in life, so as to render the prospect of having children hopeless."
+        ],
+        "Marvin Vincent": [
+            "Well stricken [\u03c0\u03c1\u03bf\u03b2\u03b5\u03b2\u03b7\u03ba\u03bf\u03c4\u03b5\u03c2] . Lit., advanced. Wyc., had gone far in their days."
+        ],
+        "John Calvin": [
+            "By an extraordinary purpose of God it was appointed that John should be born out of the common and ordinary course of nature.",
+            "Elisabeth had been barren in the prime of life, and now she is in old age, which of itself shuts up the womb.",
+            "By two hinderances, therefore, the Lord gives a twofold, surprising exhibition of his power, in order to testify, by stretching out his hand, as it were, from heaven, that the Prophet was sent by himself."
+        ],
+        "Philip Schaff": [
+            "Well stricken in years (Greek, \u2018advanced in their days\u2019).",
+            "A translation in quaint old English of the Hebrew phrase used in Genesis 18:11.",
+            "See that passage, which presents the similar case of Abraham and Sarah."
+        ],
+        "Archibald T. Robertson": [
+            "Because that (\u03ba\u03b1\u03b8\u03bf\u03c4). Good Attic word, according to what.",
+            "Well stricken in years (\u03c0\u03c1\u03bf\u03b2\u03b5\u03b2\u03b7\u03ba\u03bf\u03c4\u03b5\u03c2 \u03b5\u03bd \u03c4\u03b1\u03b9\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1\u03b9\u03c2 \u03b1\u03c5\u03c4\u03c9\u03bd). Wycliff has it right: 'Had gone far in their days.'",
+            "Perfect active participle. See also verse Luke 1:18."
+        ],
+        "John Gill": [
+            "but this was not owing to the judgment of God upon them for any sins they had been guilty of",
+            "though barrenness was reckoned a reproach to a person, there was, in this case, a particular hand of God, to answer a special purpose",
+            "the conception and birth of John the more extraordinary, and even miraculous, and so the belief of it the more difficult"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 1:7, we see a pattern emerge throughout the Bible of couples, such as Abraham and Sarah, who were advanced in their days and deemed hopeless for having children. This phrase, well stricken in years, is not merely a description of their old age, but rather an indication of the divine purpose behind their miraculous conceptions. Elizabeth's barrenness in her prime and now in her old age serves as a testimony to God stretching out His hand from heaven and affirming John the Baptist as His prophet. The extraordinary nature of John's birth, despite these hindrances, highlights the challenging belief in this miraculous event.",
+            "wordCount": 106,
+            "quoteTokenProportion": 37.66,
+            "qualityScore": 1.516867919401116,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.78,
+            "commentatorTierSimilarities": [
+                19.72,
+                34.69,
+                45.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the Bible, we see a recurring theme of couples advanced in their days, like Abraham and Sarah, who were deemed hopeless for having children. The phrase well stricken in years is not simply a description of their old age, but rather a testament to the divine purpose behind their miraculous conceptions. Elizabeth's barrenness, both in her prime and now in her old age, serves as a powerful demonstration of God stretching out His hand from heaven to affirm the prophet John the Baptist. The extraordinary nature of his birth, despite these hindrances, emphasizes the challenge of believing in this miraculous event.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.5285187835688818,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.17,
+            "commentatorTierSimilarities": [
+                20.92,
+                33.82,
+                45.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Throughout the Bible, we encounter stories of couples, like Abraham and Sarah, who were advanced in their years and deemed unable to have children. The phrase well stricken in years describes their age, but it signifies a greater divine purpose behind their miraculous conceptions. Elizabeth's barrenness in her prime and now in her old age serves as a remarkable testimony to God's intervention, confirming John the Baptist as His chosen prophet. The extraordinary nature of John's birth, despite these hindrances, underscores the challenge of believing in this miraculous event.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.5010452063068915,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+            "commentatorTierSimilarities": [
+                21.13,
+                34.11,
+                44.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the Bible, we see a pattern of couples, such as Abraham and Sarah, who were considered too old to have children, but were blessed with miraculous conceptions. The phrase well stricken in years describes their advanced age and the seemingly impossible nature of their situation. Elizabeth, in her prime and now in old age, experienced similar barrenness, which emphasized the extraordinary and even miraculous nature of John the Baptist's birth. These stories demonstrate God's power and His ability to fulfill His purposes beyond human limitations and expectations.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.4885308414806138,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "commentatorTierSimilarities": [
+                21.4,
+                36.71,
+                41.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Scripture, we see examples of couples like Abraham and Sarah, who were advanced in their years and deemed unable to have children. The phrase well stricken in years signifies their old age and the impossibility of conceiving naturally. Elizabeth, both in her prime and old age, experienced barrenness that highlighted the extraordinary and even miraculous nature of John the Baptist's birth. These accounts serve as a demonstration of God's power to fulfill His purposes beyond human limitations and expectations.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.4773049350745835,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.46,
+            "commentatorTierSimilarities": [
+                22.54,
+                38.54,
+                38.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

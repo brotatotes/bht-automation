@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:16:52",
+    "verseRef": "Luke 8:44",
+    "bestBHT": {
+        "bht": "Seeking healing, a woman in the crowd demonstrated her faith by reaching out to touch the fringe of Jesus' garment. Despite her error and weakness, Jesus accepted her. This miracle reminds us that Jesus honors genuine faith, even amidst misunderstandings. It encourages us not to judge or despair over the superstitions or ignorance of others in the Christian community, for Jesus acknowledges and responds to sincere hearts.",
+        "wordCount": 67,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 1.6558469552126716,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+        "commentatorTierSimilarities": [
+            20.59,
+            54.89,
+            24.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "She obtained what she desired. She sought it, though in error, yet in faith.",
+            "The error of her view was overborne, and her weakness of apprehension of truth covered, by the strength of her faith.",
+            "He who accepted this woman for her faith even in error and weakness, may also accept them."
+        ],
+        "Marvin Vincent": [
+            "Hem. See on Matthew 9:20. ",
+            "Stanched [\u03b5\u03c3\u03c4\u03b7] . A common medical term."
+        ],
+        "Philip Schaff": [
+            "This is a most encouraging miracle for us to recollect, when we are disposed to think despondingly of the ignorance or superstition of much of the Christian world.\" ",
+            "He who accepted this woman for her faith, even in error and weakness, may also accept them."
+        ],
+        "Archibald T. Robertson": [
+            "The border of his garment (\u03c4\u03bf\u03c5 \u03ba\u03c1\u03b1\u03c3\u03c0\u03b5\u03b4\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03b9\u03bc\u03b1\u03c4\u03b9\u03bf\u03c5). Probably the tassel of the overgarment.",
+            "Of the four corners two were in front and two behind. See on Matthew 9:20.",
+            "Stanched (\u03b5\u03c3\u03c4\u03b7). Second aorist active indicative, stopped at once (effective aorist)."
+        ],
+        "John Gill": [
+            "Came behind him,.... In the press and crowd of people, being ashamed to come before him, and tell him her case.",
+            "The fringe the Jews were obliged to wear at the bottom of their garments... by this they were distinguished from the common people.",
+            "This woman was persuaded in her own mind, if she could but touch the clothes of Christ, she should be healed, and accordingly she was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, an unnamed woman in the crowd reaches out to touch the fringe of Jesus' garment in order to be healed. Despite her error and weakness in her understanding, her faith in Jesus is strong and she receives what she desired. This miracle demonstrates that Jesus accepts those who come to Him in faith, even if they have misunderstandings or weaknesses. It is a reminder for us to not be quick to judge or be despondent about the ignorance or superstitions of others in the Christian world, for Jesus recognizes and answers genuine faith.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.7039174626309632,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                19.81,
+                52.66,
+                27.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A woman in the crowd sought healing by reaching out to touch the border of Jesus' garment. Though her understanding was flawed and her faith weak, Jesus accepted her. This miracle is a powerful reminder that Jesus responds to genuine faith, even in the midst of our errors and weaknesses. It encourages us not to judge or despair over the ignorance or superstitions of others in the Christian world, for Jesus sees and honors sincere hearts.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6162096252778895,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.08,
+            "commentatorTierSimilarities": [
+                20.4,
+                54.34,
+                25.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Seeking healing, a woman in the crowd demonstrated her faith by reaching out to touch the fringe of Jesus' garment. Despite her error and weakness, Jesus accepted her. This miracle reminds us that Jesus honors genuine faith, even amidst misunderstandings. It encourages us not to judge or despair over the superstitions or ignorance of others in the Christian community, for Jesus acknowledges and responds to sincere hearts.",
+            "wordCount": 67,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.6558469552126716,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                20.59,
+                54.89,
+                24.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In her desire for healing, a woman in the crowd reached out to touch the border of Jesus' garment. Despite her error and weakness, Jesus accepted her based on her faith. This miracle serves as a reminder that Jesus acknowledges and responds to genuine faith, even in the face of misunderstandings. It encourages us not to judge or lose hope in the face of ignorance or superstition within the Christian world, as Jesus sees and honors sincere hearts.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.6333430737915224,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+            "commentatorTierSimilarities": [
+                20.25,
+                54.77,
+                24.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This woman in the crowd sought healing by reaching out to touch the fringe of Jesus' garment. Her faith, albeit flawed and weak, was acknowledged by Jesus, who granted her desire. This miraculous event illustrates that Jesus welcomes those who approach Him in faith, regardless of their errors or weaknesses. It reminds us not to judge or feel disheartened by the ignorance or superstitions present within the Christian community, as Jesus recognizes and responds to genuine faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.6322110998702448,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.61,
+            "commentatorTierSimilarities": [
+                19.72,
+                52.28,
+                28.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:23:13",
+    "verseRef": "Luke 22:35",
+    "bestBHT": {
+        "bht": "As you embark on this new mission, it is important to adjust your approach to provision and defense. In the past, when you were sent out without purse or scrip, you lacked nothing and were graciously provided for. However, now, you will need a purse and scrip to support yourselves and to protect against potential challenges. Rest assured that God has faithfully provided for you before, and He will continue to do so. Stay confident in His provision as you navigate this season of care and conflict.",
+        "wordCount": 87,
+        "quoteTokenProportion": 50.79,
+        "qualityScore": 1.297742182916941,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.49,
+        "commentatorTierSimilarities": [
+            27.84,
+            28.95,
+            43.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "35.] See ch. ix. 3; x. 4; also Matt. x. 9."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But now\u2014that you are going forth not as before on a temporary mission, provided for without purse or scrip...\" ",
+            "your methods must be different; for purse and scrip will now be needed for support...",
+            "...and the usual means of defense."
+        ],
+        "Albert Barnes": [
+            "Did you want anything? Did not God fully provide for you?\" ",
+            "He refers to this to convince them that his words were true.\" ",
+            "Their past experience should lead them to put confidence in him and in God."
+        ],
+        "John Calvin": [
+            "Hitherto you have had an easy and prosperous condition, because I wished to treat you gently, like children; the full time is now come, when I must employ you in labor, like men.",
+            "If they wanted nothing, when they proceeded to discharge their office without taking with them a stock of provisions, when a state of peace allowed them leisure to provide for their necessities, much more now, in the midst of tumult and excitement, ought they to lay aside anxiety about the present life, and run wherever necessity calls them.",
+            "And let us not doubt that Christ has regard to us in the present day, since he does not hurry us into the battle while we are still untrained and inexperienced, but, before sending us to the field, supplies us with arms and courage."
+        ],
+        "Philip Schaff": [
+            "Not without reason have I spoken of what is so momentous; for now, when I am no longer with you, your situation will be quite otherwise than before; there now comes for you a time of care for yourselves and of conflict.\" ",
+            "Parting friends are wont to dwell on the pleasures of the past; so our Lord points them to the time of their first preaching in Galilee, when the least care was superfluous.",
+            "It would be different now."
+        ],
+        "Archibald T. Robertson": [
+            "Without purse (\u03b1\u03c4\u03b5\u03c1 \u03b2\u03b1\u03bb\u03bb\u03b1\u03bd\u03c4\u03b9\u03bf\u03c5).",
+            "Wallet (\u03c0\u03b7\u03c1\u03b1\u03c2). See on Matthew 10:10.",
+            "Lacked ye anything (\u03bc\u03b7 \u03c4\u03b9\u03bd\u03bf\u03c2 \u03c5\u03c3\u03c4\u03b5\u03c1\u03b7\u03c3\u03b1\u03c4\u03b5;)."
+        ],
+        "John Gill": [
+            "When I sent you without purse, and scrip, and shoes... without provisions, or money, to buy any with.",
+            "They lacked nothing at all; wherever they came, they had friendly accommodations; they were provided with everything necessary for them.",
+            "The houses and hearts of men were opened by Christ to receive them, though they were sent out by him so empty and destitute."
+        ],
+        "John Wesley": [
+            "When I sent you \u2014 lacked ye any thing - Were ye not borne above all want and danger?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Now, as you go forth on a different mission, you must make changes in your methods of provision and defense. Before, when you were sent out without purse or scrip, you lacked nothing and were provided for in every place you went. But now, the situation is different. You will need a purse and scrip to support yourselves and to defend against any threats that may arise. Don't worry though, for God has fully provided for you in the past, and you can trust Him to do so again. This change in circumstances is necessary as you enter a time of care and conflict, and it is a reminder of the early days of your ministry when the least care was superfluous. So, put your confidence in God and remember that although the full time of labor has come, He will supply you with the necessary arms and courage before sending you into battle.",
+            "wordCount": 155,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.341441024812148,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.95,
+            "commentatorTierSimilarities": [
+                23.99,
+                32.89,
+                43.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Now, as you go forth on a different mission, you must make changes in your methods of provision and defense. Before, when you were sent out without purse or scrip, you lacked nothing and were provided for in every place you went. But now, the situation is different. You will need a purse and scrip to support yourselves and to defend against any threats that may arise. Trust in God's provision as you enter a time of care and conflict.",
+            "wordCount": 81,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 1.2925315804805777,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.32,
+            "commentatorTierSimilarities": [
+                31.3,
+                26.36,
+                42.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As you embark on this new mission, it is important to adjust your approach to provision and defense. In the past, when you were sent out without purse or scrip, you lacked nothing and were graciously provided for. However, now, you will need a purse and scrip to support yourselves and to protect against potential challenges. Rest assured that God has faithfully provided for you before, and He will continue to do so. Stay confident in His provision as you navigate this season of care and conflict.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.297742182916941,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.49,
+            "commentatorTierSimilarities": [
+                27.84,
+                28.95,
+                43.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this new phase of your mission, it is crucial to adapt your methods of provision and defense. Previously, you lacked nothing and were abundantly provided for when you went out without purse or scrip. However, circumstances have changed, and now you will require a purse and scrip to support yourselves and ensure your safety. Remember that God has always faithfully provided, and He will continue to do so. Approach this season of care and conflict with confidence in His provision.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.283887339431204,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.03,
+            "commentatorTierSimilarities": [
+                31.05,
+                31.39,
+                37.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this new season of your mission, you must adjust your methods of provision and defense. In the past, when you were sent out without purse or scrip, you lacked nothing and were graciously provided for in every place you went. However, now you will need a purse and scrip to support yourselves and defend against any challenges that may arise. With confidence in God's provision, embrace this time of care and conflict, knowing that He will continue to provide for you.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.3326278643122664,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.65,
+            "commentatorTierSimilarities": [
+                28.86,
+                26.23,
+                44.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

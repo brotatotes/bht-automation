@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:15:05",
+    "verseRef": "Luke 4:31",
+    "bestBHT": {
+        "bht": "Jesus came down from Nazareth to Capernaum, which was situated by the lake. This transfer was not due to the events that occurred in Nazareth, but rather a intentional change of habitation. Capernaum, being on the Sea of Galilee, was now the headquarters of Jesus' ministry since Nazareth had rejected Him. There, Jesus taught the people in the synagogue on the Sabbath days, continuing His habit of teaching and focusing on a particular occasion. This was the first recorded miracle that Jesus performed in Capernaum, illustrating His authority and the power behind His teaching.",
+        "wordCount": 94,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.9990824158162226,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+        "commentatorTierSimilarities": [
+            21.66,
+            38.94,
+            39.4
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The view maintained with regard to the foregoing occurrence in the preceding notes, of course precludes the notion that it was the reason of our Lord\u2019s change of habitation to Capernaum.",
+            "The words a city of Galilee come in unnaturally after the mention of Capernaum in ver. 23, and evidently shew that this was originally intended to be the first mention of the place.",
+            "It seems to have included the whole family, except the sisters, who may have been married at Nazareth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "31. down to Capernaum\u2014It lay",
+            "\ton the Sea of Galilee (Matthew 4:13),",
+            "\twhereas Nazareth lay high. ",
+            "\t",
+            "Matthew 4:13- :. DEMONIAC",
+            "\tHEALED."
+        ],
+        "Marvin Vincent": [
+            "Taught... The finite verb and participle denoting continuance.\" ",
+            "On the Sabbath - days... The word is often used in the plural form for the single day.",
+            "Probably after the analogy of plural names of festivals... or perhaps following the Aramaic plural."
+        ],
+        "Philip Schaff": [
+            "Came down to Capernaum, which was situated on the lake, Nazareth being higher on the hills.",
+            "A city of Galilee. This explanation made by Luke, and the close connection with the occurrence at Nazareth, lead us to maintain the usual view, that this was the transfer from Nazareth to Capernaum, mentioned in Matthew 4:13.",
+            "And he was teaching them. This was His habit. But the reference here is to a particular occasion, hence the clause should be separated from the preceding."
+        ],
+        "Archibald T. Robertson": [
+            "Capernaum (Tell Hum) is now the headquarters of the Galilean ministry, since Nazareth has rejected Jesus.",
+            "It is the first of Christ's miracles which they give.",
+            "\"Them\" here means the people present in the synagogue on the sabbath, construction according to sense as in Mark 1:22."
+        ],
+        "John Gill": [
+            "Christ may be said to 'come down' to it, because of the situation of Nazareth, which was upon an hill.",
+            "He went into the synagogue at Capernaum, on the sabbath days, whenever he was there, and taught the inhabitants.",
+            "He explained some passage or other in the Old Testament, as he had done at Nazareth and instructed them in the doctrines of the Gospel."
+        ],
+        "John Wesley": [
+            "He came down to Capernaum \u2014 And dwelt there, entirely quitting his abode at Nazareth. Mark 1:21."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus came down from Nazareth to Capernaum, which was situated by the lake. This transfer was not due to the events that occurred in Nazareth, but rather a intentional change of habitation. Capernaum, being on the Sea of Galilee, was now the headquarters of Jesus' ministry since Nazareth had rejected Him. There, Jesus taught the people in the synagogue on the Sabbath days, continuing His habit of teaching and focusing on a particular occasion. This was the first recorded miracle that Jesus performed in Capernaum, illustrating His authority and the power behind His teaching.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.9990824158162226,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                21.66,
+                38.94,
+                39.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus relocated from Nazareth to Capernaum, deliberately moving to the city by the Sea of Galilee. Capernaum served as the center of His ministry after Nazareth rejected Him. He regularly taught in the synagogue on the Sabbath, emphasizing a specific occasion. This transfer marked the shift of His abode, allowing Him to reach a wider audience with His teachings and perform His first recorded miracle in Capernaum, demonstrating His authority and the power behind His words.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.798929346387744,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                22.27,
+                33.13,
+                44.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus came down from Nazareth to Capernaum, specifically choosing to relocate to the city by the Sea of Galilee. This intentional change of habitation marked the shift of His ministry from Nazareth to Capernaum, where He would reach a larger audience. Capernaum became the headquarters of His ministry, as Nazareth had rejected Him. In this new place, Jesus continued His habit of teaching, particularly on the Sabbath days, and performed His first recorded miracle, displaying His authoritative teaching and power.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9109183847668485,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                21.58,
+                34.96,
+                43.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus intentionally moved from Nazareth to Capernaum, a city situated on the Sea of Galilee. This transfer marked the shift of His ministry headquarters from Nazareth to Capernaum, as the people in Nazareth had rejected Him. In Capernaum, Jesus regularly taught the people in the synagogue on the Sabbath, emphasizing a specific occasion. His teaching displayed His authority and was accompanied by His first recorded miracle in Capernaum, demonstrating the power behind His words and actions.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.914178423379843,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                22.62,
+                35.58,
+                41.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus deliberately relocated from Nazareth to Capernaum, a city situated on the Sea of Galilee. This move was significant, as it marked the shift of His ministry headquarters from Nazareth to Capernaum, where He would have a greater impact. In Capernaum, Jesus continued His habit of teaching the people, especially on the Sabbath days. His authoritative teaching was accompanied by His first recorded miracle in Capernaum, showcasing the power and validity of His words.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.8566413228362282,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.07,
+            "commentatorTierSimilarities": [
+                21.69,
+                36.86,
+                41.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

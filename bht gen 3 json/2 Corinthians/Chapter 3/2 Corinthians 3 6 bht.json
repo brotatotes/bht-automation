@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:15:39",
+    "verseRef": "2 Corinthians 3:6",
+    "bestBHT": {
+        "bht": "The letter, or the literal precepts and formal written ordinances of the old law, cannot fully understand the wide range of holiness and new spiritual life brought by the spirit of the Gospel. Only God can make us sufficient ministers of the new covenant. The contrast between the two dispensations in this chapter highlights the killing and quickening nature of each, emphasizing the freedom and openness of the Gospel. The word of God becomes life-giving when received with the heart, rather than simply uttered as a dead and ineffectual letter.",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 2.1637977434982956,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.29,
+        "commentatorTierSimilarities": [
+            34.14,
+            30.76,
+            35.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Paul, even when he was writing, was carrying on the ministration not of the letter, but of the spirit: Moses, even when he wrote not, was a minister of the letter.",
+            "For the letter killeth, but the spirit giveth life.",
+            "The spirit giveth life, not merely life eternal, but the whole new life of the man of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ministers not of the mere literal precept, in which the old law, as then understood, consisted; 'but of the Spirit,' that is, the spiritual holiness which lay under the old law, and which the new covenant brings to light.",
+            "No literal precepts could fully comprehend the wide range of holiness which LOVE, the work of the Holy Spirit, under the Gospel, suggests to the believer's heart instinctively from the word understood in its deep spirituality.",
+            "The spirit of the Gospel when brought home to the heart by the Holy Spirit, gives new spiritual life to a man. This 'spirit of life' is for us in Christ Jesus, who dwells in the believer as a 'quickening' or 'life-giving Spirit.'"
+        ],
+        "Albert Barnes": [
+            "God had made him sufficient: not able, talented, learned, but sufficient.\" ",
+            "They were appointed to go forth and make the provisions of that new covenant known to a dying world.\" ",
+            "The spirit here means... that new spiritual system, the gospel...designed to impart life and comfort to the soul."
+        ],
+        "Marvin Vincent": [
+            "The correct sense is given by Rev., hath made us sufficient as ministers.",
+            "Render, as Rev., of a new covenant, in contrast with the Mosaic.",
+            "For letter, see on writings, John 5:47. Here used of the mere formal, written ordinance as contrasted with the Gospel, which is 'spirit and life.'"
+        ],
+        "John Calvin": [
+            "From this we infer its magnitude and difficulty, as it can be undertaken by no one, that has not been previously prepared and fashioned for it by God.\" ",
+            "By the term letter, therefore, is meant literal preaching \u2014 that is, dead and ineffectual, perceived only by the ear. By the term spirit, on the other hand, is meant spiritual doctrine, that is, what is not merely uttered with the mouth, but effectually makes its way to the souls of men with a lively feeling.",
+            "The meaning of this passage, however, is as follows \u2014 that, if the word of God is simply uttered with the mouth, it is an occasion of death, and that it is lifegiving, only when it is received with the heart."
+        ],
+        "Philip Schaff": [
+            "Not we are fit of our-selves... but our fitness is from God.\" ",
+            "The spirit that word of the Gospel which, instinct with quickening power, 'is spirit and life,' for the letter killeth.",
+            "A contrast, extending to the end of the chapter, between the two dispensations, both in their essential character as killing and as quickening and, as a consequence from this, in that freedom and openness which are distinctive of the Gospel and its ministry."
+        ],
+        "Archibald T. Robertson": [
+            "Who (God) rendered us fit.",
+            "As ministers of a new covenant.",
+            "Only God can make us that."
+        ],
+        "John Gill": [
+            "Our sufficiency is of God, he hath made us able, or sufficient ministers.",
+            "The covenant of grace is... called 'new', as well as because it will always continue so, and never give way to another covenant.",
+            "The Gospel is 'the spirit'; it contains spiritual things, and not things merely natural, moral, and civil, as does the law."
+        ],
+        "John Wesley": [
+            "The letter \u2014 The law, the Mosaic dispensation. Killeth \u2014 Seals in death those who still cleave to it.",
+            "But the Spirit \u2014 The gospel, conveying the Spirit to those who receive it. Giveth life \u2014 Both spiritual and eternal.",
+            "If we adhere to the literal sense even of the moral law, if we regard only the precept and the sanction as they stand in themselves, not as they lead us to Christ, they are doubtless a killing ordinance, and bind us down under the sentence of death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse is about how the letter kills, but the spirit gives life. This means that the literal precepts and formal written ordinances of the old law cannot fully comprehend the wide range of holiness and new spiritual life that the spirit of the Gospel brings. Only God can make us sufficient ministers of the new covenant, and it is through the new spiritual system of the gospel that life and comfort are imparted to our souls. The contrast between the two dispensations in this chapter highlights the killing and quickening nature of each, emphasizing the freedom and openness of the Gospel and its ministry. Ultimately, it is when the word of God is received with the heart that it becomes life-giving, rather than simply uttered with the mouth as a dead and ineffectual letter.",
+            "wordCount": 136,
+            "quoteTokenProportion": 37.35,
+            "qualityScore": 2.2458529815327966,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.02,
+            "commentatorTierSimilarities": [
+                32.9,
+                31.61,
+                35.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The letter, or the literal precepts and formal written ordinances of the old law, cannot fully understand the wide range of holiness and new spiritual life brought by the spirit of the Gospel. Only God can make us sufficient ministers of the new covenant. The contrast between the two dispensations in this chapter highlights the killing and quickening nature of each, emphasizing the freedom and openness of the Gospel. The word of God becomes life-giving when received with the heart, rather than simply uttered as a dead and ineffectual letter.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.1637977434982956,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.29,
+            "commentatorTierSimilarities": [
+                34.14,
+                30.76,
+                35.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The letter, referring to the literal precepts and written ordinances of the old law, cannot fully comprehend the wide range of holiness and new spiritual life brought by the spirit of the Gospel. Only God can make us sufficient ministers of the new covenant. The contrast between the two dispensations emphasizes the killing and quickening nature of each, highlighting the freedom and openness of the Gospel. When the word of God is received with the heart, it becomes life-giving, instead of mere utterances of a dead letter.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.1471780789682455,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                35.13,
+                30.45,
+                34.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The letter, or the literal precepts and formal written ordinances of the old law, cannot fully comprehend the wide range of holiness and new spiritual life brought by the spirit of the Gospel. Only God can make us sufficient ministers of the new covenant. The contrast between the two dispensations in this chapter highlights the killing and quickening nature of each, emphasizing the freedom and openness of the Gospel. The word of God becomes life-giving when received with the heart, rather than simply uttered as a dead and ineffectual letter.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.162437745171947,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.24,
+            "commentatorTierSimilarities": [
+                34.18,
+                30.73,
+                35.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The letter, referring to the literal precepts and written ordinances of the old law, cannot fully comprehend the wide range of holiness and new spiritual life brought by the spirit of the Gospel. Only God can make us sufficient ministers of the new covenant. The contrast between the two dispensations emphasizes the killing and quickening nature of each, highlighting the freedom and openness of the Gospel. When the word of God is received with the heart, it becomes life-giving, instead of mere utterances of a dead letter.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.1471780789682455,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                35.13,
+                30.45,
+                34.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

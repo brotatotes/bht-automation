@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:34:46",
+    "verseRef": "Ephesians 5:22",
+    "bestBHT": {
+        "bht": "Wives are called to submit to their husbands, recognizing the unique personal relationship that mirrors Christ's headship over the Church. This submission is not meant to demean the wife, but to establish a hierarchy of authority within the family, where the husband serves as the head. It is through this submission that wives express their obedience to Christ Himself. The duty of submission should be approached with a Christian spirit, with mutual love and confidence, as it is a reflection of the husband's representation of Christ in the family.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 2.4142055687927257,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.61,
+        "commentatorTierSimilarities": [
+            33.29,
+            30.83,
+            35.89
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Wives, unto your own husbands, as unto the Lord... the husband stands peculiarly in Christ's place.",
+            "An husband is head of his wife, as Christ is head of the Church... Himself Savior of the Body.",
+            "Christ's Headship is united with, nay gained by, His having SAVED the body in the process of Redemption."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Church's relation to Christ in His everlasting purpose, is the foundation and archetype of the three greatest of earthly relations.",
+            "Submissiveness is rendered by the wife to the husband under the eye of Christ, and so is rendered to Christ Himself.",
+            "The husband stands to the wife in the relation that the Lord does to the Church, and this is to be the ground of her submission."
+        ],
+        "Albert Barnes": [
+            "While Christianity designed to elevate the character of the wife, and to make her a fit companion of an intelligent and pious husband, it did not intend to destroy all subordination and authority.",
+            "In every family there should be a head - someone who is to be looked up to as the counselor and the ruler; someone to whom all should be subordinate.",
+            "There should be such mutual love and confidence, that the known 'wish' of the husband should be a law to the wife: and that the known desires of the wife should be the rule which he would approve."
+        ],
+        "Marvin Vincent": [
+            "Your own [\u03b9\u03b4\u03b9\u03bf\u03b9\u03c2] . The peculiar personal relationship is emphasized as the ground of the duty."
+        ],
+        "John Calvin": [
+            "Wives, submit yourselves... Not that the authority is equal, but wives cannot obey Christ without yielding obedience to their husbands.",
+            "He comes now to the various conditions of life; for, besides the universal bond of subjection, some are more closely bound to each other, according to their respective callings.",
+            "By this arrangement there are six different classes, for each of whom Paul lays down peculiar duties."
+        ],
+        "Philip Schaff": [
+            "'As to the Lord; Christ.' The meaning is not,\u2019 as the Church yields to Christ,\u2019 nor yet, \u2018as you yield to Christ,\u2019 but rather, \u2018regard your duty to your husbands as duties to the Lord.\u2019",
+            "The duty is made to rest as a Christian basis, is to be rendered in a Christian spirit from a Christian motive.",
+            "When it becomes a burden, or is neglected, the failure has usually been in not regarding it in this aspect."
+        ],
+        "Archibald T. Robertson": [
+            "Be in subjection.\" ",
+            "\u0399\u03b4\u03b9\u03bf\u03b9\u03c2 (own) is genuine here, though not in Colossians 3:18.",
+            "As unto the Lord (\u03c9\u03c2 \u03c4\u03c9 \u039a\u03c5\u03c1\u03b9\u03c9)."
+        ],
+        "John Gill": [
+            "The wife should take care of the family, and family affairs, according to the husband's will; should imitate him in what is good, and bear with that which is not so agreeable.\" ",
+            "She should not curiously inquire into his business, but leave the management of it to him; she should help and assist in caring and providing for the family.",
+            "And this subjection is only to her husband; not to any other man, nor to her children, nor to her servants, or any brought into her house."
+        ],
+        "John Wesley": [
+            "In all indifferent things, the will of the husband is a law to the wife.",
+            "The obedience a wife pays to her husband is at the same time paid to Christ himself.",
+            "He being head of the wife, as Christ is head of the church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Ephesians 5:22, wives are called to submit to their husbands, viewing them as if they were submitting to the Lord Himself. This submission is based on the unique personal relationship between a husband and wife, mirroring Christ's headship over the Church and His role as the Savior of the body. Just as the Church is called to submit to Christ, wives are called to render their submission to their husbands under Christ's watchful eye. This submission is not meant to diminish the worth or character of the wife, but rather to establish a hierarchy of authority within the family, where the husband serves as the head and the wife faithfully supports and complements him. Such mutual love and confidence are essential in this relationship, where the known desires of the husband become a law to the wife and the known wishes of the wife become the rule approved by the husband. This duty is not to be burdensome or neglected, but rather approached with a Christian spirit, recognizing the husband's role as a representative of Christ in the family. It is through this submission to their husbands that wives also express their obedience to Christ Himself.",
+            "wordCount": 199,
+            "quoteTokenProportion": 39.18,
+            "qualityScore": 2.4116072067737155,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.53,
+            "commentatorTierSimilarities": [
+                31.22,
+                32.34,
+                36.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In recognizing the unique personal relationship between husbands and wives, Ephesians 5:22 calls wives to submit to their husbands as they would to the Lord Himself. This submission is rooted in Christ's headship over the Church and His role in its redemption. The duty of submission is not meant to diminish the value of the wife but rather establish a hierarchy of authority within the family, where the husband serves as the head. This submission is a way for wives to express their obedience to Christ Himself.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.317393100692815,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.39,
+            "commentatorTierSimilarities": [
+                33.89,
+                29.6,
+                36.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Wives are called to submit to their husbands, viewing them as if they were submitting to the Lord Himself. This submission is based on the unique personal relationship between a husband and wife, mirroring Christ's headship over the Church and His role as the Savior of the body. Just as the Church is called to submit to Christ, wives are called to render their submission to their husbands under Christ's watchful eye. This submission is not meant to diminish the worth or character of the wife, but rather to establish a hierarchy of authority within the family, where the husband serves as the head and the wife faithfully supports and complements him. Such mutual love and confidence are essential in this relationship, where the known desires of the husband become a law to the wife and the known wishes of the wife become the rule approved by the husband. This duty is not to be burdensome or neglected, but rather approached with a Christian spirit, recognizing the husband's role as a representative of Christ in the family. It is through this submission to their husbands that wives also express their obedience to Christ Himself.",
+            "wordCount": 197,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.412514689188077,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.56,
+            "commentatorTierSimilarities": [
+                31.37,
+                32.1,
+                36.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Wives are called to submit to their husbands, recognizing the unique personal relationship that mirrors Christ's headship over the Church. This submission is not meant to demean the wife, but to establish a hierarchy of authority within the family, where the husband serves as the head. It is through this submission that wives express their obedience to Christ Himself. The duty of submission should be approached with a Christian spirit, with mutual love and confidence, as it is a reflection of the husband's representation of Christ in the family.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.4142055687927257,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.61,
+            "commentatorTierSimilarities": [
+                33.29,
+                30.83,
+                35.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Wives are to submit to their husbands, recognizing their unique personal relationship mirroring Christ's headship over the Church. The duty of submission is not intended to demean wives, but rather to establish an authority hierarchy within the family. This submission is rendered under the watchful eye of Christ, and wives express their obedience to Christ Himself through their submission to their husbands. It is important to approach this duty with a Christian spirit, fostering mutual love and confidence, as husbands represent Christ's role in the family.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.3657065375854245,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.0,
+            "commentatorTierSimilarities": [
+                33.0,
+                31.11,
+                35.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:34:19",
+    "verseRef": "Ephesians 5:21",
+    "bestBHT": {
+        "bht": "As believers, we are called to subject ourselves to one another in the fear of Christ. This submission is not a result of fear of judgment, but rather a reverence for Christ as our Head. It is through our love for Him that we can truly be free, willingly serving and submitting to our fellow believers. This mutual submission extends to all areas of life, recognizing and respecting the authority and order that God has established. This submission is a reflection of our love for Christ and our desire to honor Him in all things.",
+        "wordCount": 95,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 1.7130369401389238,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+        "commentatorTierSimilarities": [
+            33.23,
+            28.16,
+            38.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "submitting yourselves to one another... in the fear of Christ\" ",
+            "as we are otherwise to be filled, otherwise to sing and rejoice, so also we are otherwise to behave",
+            "any displacement in the Body is a forgetfulness of the reverence due to Him"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The believer passes from under the bondage of the law as a letter, to be 'the servant of Christ'.\" ",
+            "Christ, not the Father, is to be our judge. Thus reverential fear of displeasing Him is the motive for discharging our relative duties as Christians.",
+            "Through the instinct of love to Him, [we] are really to be 'the Lord's freeman'."
+        ],
+        "Albert Barnes": [
+            "Submitting yourselves one to another - Maintaining due subordination in the various relations of life.",
+            "The general meaning here is, that Christianity does not break up the relations of life, and produce disorder, lawlessness, and insubordination; but that it will confirm every proper authority, and make every just yoke lighter.",
+            "Infidelity is always disorganizing; Christianity, never."
+        ],
+        "John Calvin": [
+            "God has bound us so strongly to each other, that no man ought to endeavor to avoid subjection; and where love reigns, mutual services will be rendered.",
+            "I do not except even kings and governors, whose very authority is held for the service of the community.",
+            "He directs us to the fear of Christ, who alone can subdue our fierceness, that we may not refuse the yoke, and can humble our pride, that we may not be ashamed of serving our neighbors."
+        ],
+        "Philip Schaff": [
+            "Submitting yourselves one to another...submitting yourselves to one another.",
+            "The fear of Christ...marks the tender, reverent attitude to Him as Head of the Body, rather than as Judge.",
+            "Such submission is not cringing obsequiousness, which is always selfish; but it is opposed to rudeness, insolence, haughtiness, and kindred manifestations of unchristian temper."
+        ],
+        "Archibald T. Robertson": [
+            "Subjecting yourselves to one another (\u03c5\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03bf\u03bc\u03b5\u03bd\u03bf \u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03b9\u03c2).",
+            "Old military figure to line up under (Colossians 3:18).",
+            "The construction here is rather loose, coordinate with the preceding participles of praise and prayer."
+        ],
+        "John Gill": [
+            "Submitting yourselves one to another... the wife should be subject to the husband, children to their parents, and servants to their masters.",
+            "Submission should be on account of the fear of God, and so far as is consistent with it.",
+            "For his sake there should be a submission to one another."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As believers, we are called to subject ourselves to one another in the fear of Christ. Just as we are called to be filled with the Spirit and rejoice, we are also called to behave in a manner that is submissive to one another. This submission is not a result of fear of judgment, but rather a reverence for Christ as our Head. It is through our love for Him that we can truly be free, willingly serving and submitting to our fellow believers. This mutual submission extends to all areas of life, recognizing and respecting the authority and order that God has established. It is not about being servile, but rather about humbly and respectfully relating to one another, rejecting rudeness, insolence, and haughtiness. This submission is a reflection of our love for Christ and our desire to honor Him in all things.",
+            "wordCount": 144,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 1.7107681009444886,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                32.25,
+                29.73,
+                38.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As believers, we are called to subject ourselves to one another in the fear of Christ. This submission is not a result of fear of judgment, but rather a reverence for Christ as our Head. It is through our love for Him that we can truly be free, willingly serving and submitting to our fellow believers. This mutual submission extends to all areas of life, recognizing and respecting the authority and order that God has established. This submission is a reflection of our love for Christ and our desire to honor Him in all things.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.7130369401389238,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+            "commentatorTierSimilarities": [
+                33.23,
+                28.16,
+                38.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As believers, our behavior should be characterized by mutual submission, recognizing the authority God has established. This submission is not driven by fear of judgment, but by a reverential fear of Christ as our Head. It is through our love for Him that we find true freedom in serving one another. This submission is expressed in all areas of life, rejecting selfishness and embracing humility. It is a reflection of our love for Christ and our desire to honor Him above all else.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.6119401977741812,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.94,
+            "commentatorTierSimilarities": [
+                31.78,
+                30.32,
+                37.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As believers, our reverence for Christ should motivate us to subject ourselves to one another. This mutual submission reflects our love for Him and our desire to honor Him in our relationships. It is not about seeking our own selfish interests, but about embracing humility and recognizing the authority God has established. This submission extends to all areas of life, and it is through our love for Christ that we find true freedom in serving one another with respect and kindness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.6577120308457802,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.46,
+            "commentatorTierSimilarities": [
+                29.51,
+                31.04,
+                39.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As believers, we are called to subject ourselves to one another in the fear of Christ. This submission is not a result of fear of judgment, but it is a reflection of our reverence for Christ as our Head. Through our love for Him, we find true freedom in serving and submitting to our fellow believers with respect and humility. This mutual submission extends to all areas of life, recognizing the authority and order that God has established. It is a way for us to honor and glorify Christ in our relationships.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.6885613127317831,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.49,
+            "commentatorTierSimilarities": [
+                35.15,
+                27.89,
+                36.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

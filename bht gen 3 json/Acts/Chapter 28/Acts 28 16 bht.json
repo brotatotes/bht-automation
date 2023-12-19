@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:37:55",
+    "verseRef": "Acts 28:16",
+    "bestBHT": {
+        "bht": "Paul was allowed to dwell by himself with a soldier as his guard. The prisoners were delivered to the captain of the guard. This privilege gave Paul some freedom while he awaited the outcome of his appeal. Despite being in confinement, God governed the bonds of his servant, ensuring that his faith would not be shut up but brought to others. Though Paul carried a chain, it didn't hinder the access of the faithful to him as he faithfully spread the gospel.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.230568014625428,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+        "commentatorTierSimilarities": [
+            30.54,
+            35.58,
+            33.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The omission of the disputed words here is too strongly attested to allow us to retain them in the text.",
+            "The pr\u00e6torian camp was outside the Viminal gate, where it had been fixed and fortified by Sejanus.",
+            "This permission probably resulted from the letters of Festus, expressing that no crime was laid to the charge of Paul: perhaps also partly from the favour of Julius, and his report of the character and bearing of Paul on the journey."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ordinarily there were two such prefects; but from A.D. 51 to 62, one distinguished general\u2014Burrus Aframus, who had been Nero's tutor\u2014held that office; and as our historian speaks of 'the captain,' as if there were but one, it is thought that this fixes the apostle's arrival at Rome to be not later than the year 62.",
+            "This privilege was allowed in the case of the better class of prisoners, not accused of any flagrant offense, on finding security\u2014which in Paul's case would not be difficult among the Christians.",
+            "It was overruled, however, for giving the fullest scope to the labors of the apostle compatible with confinement at all."
+        ],
+        "Albert Barnes": [
+            "The captain of the guard - The commander of the Praetorian cohort, or guard.",
+            "But Paul was suffered ... - Evidently by the permission of the centurion, whose favor he had so much conciliated on the voyage.",
+            "With a soldier that kept him - That is, in the custody of a soldier to whom he was chained, and who, of course, constantly attended him."
+        ],
+        "Marvin Vincent": [
+            "The centurion delivered the prisoners to the captain of the guard. The best texts omit."
+        ],
+        "John Calvin": [
+            "God did govern from heaven the bonds of his servant; not only that he might ease him of his trouble, but that the faithful might have freer access unto him.",
+            "He would not have the treasure of his faith shut up in prison, but he would have it laid open, that it might enrich many far and wide.",
+            "Paul was not so at liberty, but that he did always carry a chain."
+        ],
+        "Philip Schaff": [
+            "Delivered the prisoners to the captain of the guard. This officer (\u03c3\u03c4\u03c1\u03b1\u03c4\u03bf\u03c0\u03b5\u03b4\u03b1\u03c1\u03c7\u03b7\u03ae\u03c2, prefect of the pr\u00e6torian guard) is named in the singular; and this circumstance has been used by Wieseler and others, in conjunction with additional evidence, to prove that St. Paul came to Rome in the early part of 62 A.D.\" ",
+            "But Paul was suffered to dwell by himself. In the case of state prisoners sent to Rome from the provinces for trial, it was usual to confine them in a prison adjoining the Praetorian Camp, which was north-east of the city, outside the Porta Viminalis; but sometimes the prisoners were suffered to choose their own residence, under the custody of a soldier.",
+            "With a soldier that kept him. To this gaoler Paul was fastened by a chain, to which the apostle refers in Acts 28:20, and again in his epistles, written during this imprisonment, to foreign churches."
+        ],
+        "Archibald T. Robertson": [
+            "It was permitted to Paul to abide by himself.",
+            "Julius would give a good report of Paul to this officer who would be kindly disposed and would allow Paul comparative freedom.",
+            "Now that Paul is in Rome what can he do for Christ while he awaits the outcome of his own appeal to Nero?"
+        ],
+        "John Gill": [
+            "and when we came to Rome...",
+            "the centurion delivered the prisoners to the captain of the guard",
+            "Paul was suffered to dwell by himself with a soldier that kept him"
+        ],
+        "John Wesley": [
+            "With the soldier \u2014 To whom he was chained, as the Roman custom was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It was permitted to Paul to abide by himself with a soldier that kept him. The centurion delivered the prisoners to the captain of the guard. This privilege allowed Paul to have relative freedom while awaiting the outcome of his appeal to Nero. Despite being in confinement, God was still governing the bonds of his servant, ensuring that the treasure of Paul's faith was not shut up in prison but laid open to enrich many. Though Paul carried a chain, it didn't hinder the access of the faithful to him as he continued to faithfully share the gospel while under guard.",
+            "wordCount": 103,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.4120977556950853,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.54,
+            "commentatorTierSimilarities": [
+                31.24,
+                35.45,
+                33.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul was allowed to dwell by himself with a soldier as his guard. The prisoners were delivered to the captain of the guard. This privilege gave Paul some freedom while he awaited the outcome of his appeal. Despite being in confinement, God governed the bonds of his servant, ensuring that his faith would not be shut up but brought to others. Though Paul carried a chain, it didn't hinder the access of the faithful to him as he faithfully spread the gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.230568014625428,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+            "commentatorTierSimilarities": [
+                30.54,
+                35.58,
+                33.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, accompanied by a soldier, was permitted to reside by himself. The centurion handed over the prisoners to the captain of the guard. This arrangement allowed Paul a measure of freedom as he awaited the outcome of his appeal. Despite his confinement, God remained in control, ensuring that Paul's faith would not be hidden away, but would spread far and wide. Although Paul was restrained by a chain, it did not prevent others from having access to him as he continued to share the gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.192604189963867,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.24,
+            "commentatorTierSimilarities": [
+                30.35,
+                36.03,
+                33.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul was granted permission to reside by himself with a soldier as his guard. The centurion handed over the prisoners to the captain of the guard. This privilege gave Paul the opportunity to continue his work for Christ while awaiting the outcome of his appeal. Despite being confined, God ensured that Paul's faith would not be imprisoned, but would be shared with others. Although physically chained, Paul's spirit and message remained free, allowing him to impact and enrich the lives of many.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.179583464486953,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.81,
+            "commentatorTierSimilarities": [
+                31.23,
+                36.75,
+                32.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul was allowed to dwell by himself with a soldier as his guard. The prisoners were delivered to the captain of the guard. God's governance over Paul's bonds ensured that his faith would not be shut up, but rather spread far and wide. Though Paul carried a chain, it didn't hinder his ability to continue his work for Christ. While awaiting the outcome of his appeal, Paul remained dedicated to sharing the gospel, enriching the lives of those around him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1455843597799777,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.68,
+            "commentatorTierSimilarities": [
+                30.01,
+                35.48,
+                34.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:23:07",
+    "verseRef": "Luke 22:43",
+    "bestBHT": {
+        "bht": "During Jesus' intense agony, an angel physically appeared to strengthen Him, not just inwardly. This strengthening took place between His prayers, resulting in more fervent and resigned prayers afterward. It is a testament to the ministration of angels to Christ as a human, and His humbling as He relied on their assistance. The angel's presence prevented Jesus' body from collapsing prematurely, highlighting His divine authority over angels and His willingness to endure suffering for our sake.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.8511766320432206,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.89,
+        "commentatorTierSimilarities": [
+            29.71,
+            36.19,
+            34.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The strengthening by means of the angel is physical\u2014and the appearance likewise.",
+            "It is strange how Olshausen can have so far deceived himself as to imagine that appeared unto him can imply a merely inward and spiritual accession of strength from above.",
+            "This strengthening probably took place between the first and the second prayer;\u2014and the effect of it is, that He prayed more earnestly, ver. 44, and arrived at the entire resignation expressed in the second and third Payer of St. Matthew\u2019s narrative."
+        ],
+        "Marvin Vincent": [
+            "There appeared [\u03c9\u03c6\u03b8\u03b7] . The word most commonly used in the New Testament of seeing visions.\" ",
+            "Strengthening [\u03b5\u03bd\u03b9\u03c3\u03c7\u03c5\u03c9\u03bd] . Only here and Acts 9:19. See on was not able, ch. 14 30; and cannot, ch. 16 3.\" ",
+            "Used transitively only by Hippocrates and Luke."
+        ],
+        "Philip Schaff": [
+            "An actual coming of an angel, not merely a spiritual accession of strength.",
+            "Some think it was a physical strengthening, the imparting to His body, so overwhelmed in this conflict, new power to endure, to drink the cup which would not be removed.",
+            "Others again prefer that the holy soul of our Lord, now seized by the intensest feeling of suffering, was strengthened by the brightening prospect of future joy, presented to Him in some way more vividly by the coming of the angel."
+        ],
+        "Archibald T. Robertson": [
+            "An angel (\u03b1\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2). The angels visited Jesus at the close of the three temptations at the beginning of his ministry (Matthew 4:11). Here the angel comes during the conflict. "
+        ],
+        "John Gill": [
+            "It is certain, it was a good angel: 'an angel of God', as the Ethiopic version reads; since he came from heaven, and was one of the angels of heaven, sent by God on this occasion.",
+            "But the human nature was to be brought into so low a condition, and to be left to itself, as to stand in need of the assistance of an angel.",
+            "This shows not only the ministration of angels to Christ, as man, but that he was at this present time made a little lower than the angels, who was the Creator and Lord of them."
+        ],
+        "John Wesley": [
+            "Strengthening him \u2014 Lest his body should sink and die before the time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During Jesus' moment of intense suffering and agony, an angel physically appeared to strengthen Him. This strengthening was not merely an inward and spiritual accession of strength, but a tangible and visible reinforcement. It is believed that this angelic visitation occurred between Jesus' prayers, resulting in His more fervent and resigned prayers afterwards. This shows not only the support of angels to Christ as a human, but also how Jesus, the Creator and Lord of angels, humbled Himself to stand in need of their assistance. The angel's presence prevented Jesus' body from giving in to the overwhelming anguish, ensuring that He would not perish before His appointed time.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7965468626834418,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+            "commentatorTierSimilarities": [
+                28.79,
+                37.99,
+                33.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During Jesus' deep suffering, an actual angel appeared to physically strengthen Him, not just spiritually. This strengthening likely happened between His prayers, leading to His increased fervency and full surrender to God's will. It is significant that the Creator and Lord of angels humbled Himself to rely on an angel for support. This angelic intervention prevented Jesus from succumbing to the overwhelming pain, ensuring that He would not perish before His appointed time.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7988862226296471,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+            "commentatorTierSimilarities": [
+                29.31,
+                36.32,
+                34.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During Jesus' intense agony, an angel physically appeared to strengthen Him, not just inwardly. This strengthening took place between His prayers, resulting in more fervent and resigned prayers afterward. It is a testament to the ministration of angels to Christ as a human, and His humbling as He relied on their assistance. The angel's presence prevented Jesus' body from collapsing prematurely, highlighting His divine authority over angels and His willingness to endure suffering for our sake.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8511766320432206,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.89,
+            "commentatorTierSimilarities": [
+                29.71,
+                36.19,
+                34.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During Jesus' anguish, an angel physically appeared to strengthen Him. This strengthening was not just spiritual or inward, but tangible and visible. It is clear that Jesus, the Creator and Lord of angels, humbled Himself to stand in need of their assistance. The angel's presence prevented Jesus' physical body from sinking and dying prematurely. This highlights both the support of angels to Christ as a human and His humble submission to the Father's plan.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8042415578007573,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+            "commentatorTierSimilarities": [
+                31.4,
+                34.08,
+                34.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During Jesus' intense suffering, an angel physically appeared to strengthen Him. This visible strengthening, occurring between His prayers, had a profound effect, leading to His more earnest and resigned prayers afterward. It is remarkable how Jesus, the Creator and Lord of angels, humbled Himself to rely on the assistance of an angel in His vulnerable state. The angel's presence prevented Jesus' body from succumbing to the overwhelming agony, ensuring that He would not perish before His appointed time.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8494802817265255,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.84,
+            "commentatorTierSimilarities": [
+                30.29,
+                35.59,
+                34.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

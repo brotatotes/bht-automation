@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:14:25",
+    "verseRef": "1 Corinthians 15:54",
+    "bestBHT": {
+        "bht": "Death has been conquered and swallowed up in victory. The power and dominion of death will be completely destroyed, and it will never regain its power. Although death still has a sting for us now, the day will come when death will be reduced to nothing and we will have a complete victory over it. In the resurrection, when we are all raised from the dead, death will be so completely swallowed up that it will be no more. Victory is established over the king of Terrors.",
+        "wordCount": 87,
+        "quoteTokenProportion": 61.54,
+        "qualityScore": 2.217075477601403,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.06,
+        "commentatorTierSimilarities": [
+            27.72,
+            24.9,
+            47.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "54.] But when, &c. is repetition, in a triumphant spirit, of the description of the glorious change."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Death is swallowed up in victory\u2014In Hebrew of :-, from which it is quoted, 'He (Jehovah) will swallow up death in victory'; that is, for ever: as 'in victory' often means in Hebrew idiom.",
+            "Christ will swallow it up so altogether victoriously that it shall never more regain its power.",
+            "Death has as yet a sting even to the believer, in that his body is to be under its power till the resurrection. But then the sting and power of death shall cease for ever."
+        ],
+        "Albert Barnes": [
+            "Then shall be fully accomplished; these words shall then receive their entire fulfillment; or this event shall meet all that is implied in these words.",
+            "The fact that Paul thus quotes them, and the connection in which they stand, prove that they had reference to the times of the gospel, and to the resurrection of the dead.",
+            "The idea is, that the power and dominion of death shall be entirely destroyed, or brought to an end."
+        ],
+        "Marvin Vincent": [
+            "He shall swallow up death forever.",
+            "Death has prevailed and swallowed men up, which reverses the meaning of the Hebrew.",
+            "Victory is to be established."
+        ],
+        "John Calvin": [
+            "Then shall be brought to pass the saying...Hence this last result, also, is necessary.\" ",
+            "For what Paul quotes is now begun in us, and is daily, too, receiving further accomplishment; but it will not have its complete fulfillment until the last day.\" ",
+            "Then, accordingly, will death be swallowed up, that is, it will be reduced to nothing, that we may have manifestly, in every particular, and in every respect, a complete victory over it."
+        ],
+        "Philip Schaff": [
+            "Having closed his argument with these sublime words of one prophet, the apostle\u2019s bosom seems to have so swelled with emotion as to vent itself in the exultant exclamation of another prophet.",
+            "He hath swallowed up death for ever... he delights to view the eternal extinction of death as a glorious 'victory' over that 'last enemy.'",
+            "The apostle departs here from the incorrect rendering of the LXX., and keeps nearer to the Hebrew."
+        ],
+        "Archibald T. Robertson": [
+            "Whenever shall put on",
+            "Swallow up",
+            "The final overthrow of the king of Terrors"
+        ],
+        "John Gill": [
+            "Then shall be brought to pass that saying that is written...he will swallow up death in victory.\" ",
+            "The Messiah shall by his death, and resurrection from the dead, obtain such an entire victory over death, not only for himself, but for all his people.",
+            "In the resurrection morn, when they will be all raised from the dead, death will be so swallowed up, that it will be no more."
+        ],
+        "John Wesley": [
+            "Death is swallowed up in victory \u2014 That is, totally conquered, abolished for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Death has been conquered and swallowed up in victory. The power and dominion of death shall be entirely destroyed, and it will never regain its power. This victory over death is not only for Christ, but also for all believers. Although death still has a sting for us now, the day will come when death will be reduced to nothing, and we will have a complete victory over it. In the resurrection, when we are all raised from the dead, death will be so completely swallowed up that it will be no more. Death has been triumphantly overthrown, and victory is established.",
+            "wordCount": 102,
+            "quoteTokenProportion": 60.66,
+            "qualityScore": 2.242457653005868,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.9,
+            "commentatorTierSimilarities": [
+                26.16,
+                26.31,
+                47.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Death has been conquered and swallowed up in victory. The power and dominion of death will be completely destroyed, and it will never regain its power. Although death still has a sting for us now, the day will come when death will be reduced to nothing and we will have a complete victory over it. In the resurrection, when we are all raised from the dead, death will be so completely swallowed up that it will be no more. Victory is established over the king of Terrors.",
+            "wordCount": 87,
+            "quoteTokenProportion": 61.54,
+            "qualityScore": 2.217075477601403,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.06,
+            "commentatorTierSimilarities": [
+                27.72,
+                24.9,
+                47.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Death has been completely conquered and swallowed up in victory. Its power and dominion will be utterly destroyed, never to regain its strength. Although death may still have a sting for us now, there will come a day when it will be reduced to nothing, and we will experience full and absolute victory over it. In the resurrection, when all believers are raised from the dead, death will be entirely swallowed up, never to be seen again. The final overthrow of death is sure and established.",
+            "wordCount": 86,
+            "quoteTokenProportion": 54.24,
+            "qualityScore": 2.1802670028086784,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.83,
+            "commentatorTierSimilarities": [
+                26.55,
+                26.46,
+                46.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Death has been utterly conquered and swallowed up in victory. Its power and dominion will be completely destroyed, never to be regained. Though death may still have a sting for us now, there will come a time when it will be utterly reduced to nothing, and we will experience a complete and final victory over it. In the resurrection, when all believers are raised from the dead, death will be entirely swallowed up, never to be seen again. Victory over the king of Terrors is established.",
+            "wordCount": 86,
+            "quoteTokenProportion": 54.39,
+            "qualityScore": 2.0820240821795286,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+            "commentatorTierSimilarities": [
+                26.7,
+                25.3,
+                48.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Death has been completely conquered and swallowed up in triumph. Its power and dominion will be entirely destroyed, never to regain its strength. Though death may still sting us in the present, the day will come when it is reduced to nothing, and we will experience a resounding victory over it. In the resurrection, when all believers are raised from the dead, death will be effortlessly swallowed up, never to be seen again. Victory over the king of Terrors is decisively established.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.0658124681920143,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.03,
+            "commentatorTierSimilarities": [
+                27.9,
+                25.7,
+                46.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

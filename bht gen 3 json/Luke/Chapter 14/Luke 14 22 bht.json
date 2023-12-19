@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:19:52",
+    "verseRef": "Luke 14:22",
+    "bestBHT": {
+        "bht": "The guest-room, reflecting the longing of ministers, should be filled to see the Master's table filled, for not only nature but grace also abhors a vacuum. The servant knew the Master wished the places to be filled, and yet - gloriously - there is room for the Gentiles after God's elect are gathered in.",
+        "wordCount": 55,
+        "quoteTokenProportion": 46.34,
+        "qualityScore": 2.059165382011451,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.81,
+        "commentatorTierSimilarities": [
+            33.05,
+            28.09,
+            38.86
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "22.] The palace is large, and the guest-room: \u201cneither nature nor grace endures a vacuum,\u201d Bengel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "yet there is room\u2014implying that these classes had embraced the invitation",
+            "beautifully expressing the longing that should fill the hearts of ministers",
+            "to see their Master's table filled"
+        ],
+        "Albert Barnes": [
+            "There is room! What a glorious declaration is this in regard to the gospel! There yet is room.",
+            "There is a banquet there which no number can exhaust; there are fountains which no number can drink dry; there are harps there which other hands may strike; and there are seats there which others may occupy.",
+            "If any part of the universe is to be vacant, O let it be the dark world of woe!"
+        ],
+        "Marvin Vincent": [
+            "As thou has commanded. Following the reading wJv, as. The best texts substitute o, what. Render as Rev., \"What thou didst command is done."
+        ],
+        "Philip Schaff": [
+            "What thou didst command is done. Indicating the rapid success among this class.",
+            "Before our Saviour went back from earth, He had already invited this class and was leading them in.",
+            "The servant would have the guest-room filled : Bengel: \u2018Not only nature, but grace also, abhors a vacuum."
+        ],
+        "Archibald T. Robertson": [
+            "And yet there is room.\" ",
+            "The Master had invited 'many' who had all declined.",
+            "The servant knew the Master wished the places to be filled."
+        ],
+        "John Gill": [
+            "Lord, it is done as thou hast commanded; the apostles exactly observed the orders of their Lord and master...",
+            "and yet there is room; that is, for the Gentiles, after God's elect, among the Jews, for that time were gathered in...",
+            "there was room provided for them in the heart and love of God from everlasting, and in electing grace..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The palace is large and the guest-room, beautifully expressing the longing that should fill the hearts of ministers to see their Master's table filled. The Master had invited many who had all declined, but the servant knew the Master wished the places to be filled. There is room! What a glorious declaration is this in regard to the gospel! There yet is room, for the Gentiles, after God's elect are gathered in. The servant would have the guest-room filled, for not only nature, but grace also, abhors a vacuum.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.712843033665985,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.29,
+            "commentatorTierSimilarities": [
+                31.13,
+                33.36,
+                35.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The palace is large and the guest-room, beautifully expressing the longing that should fill the hearts of ministers to see their Master's table filled. The Master had invited 'many' who had all declined, but the servant knew the Master wished the places to be filled. There is room! What a glorious declaration is this in regard to the gospel! There yet is room, for the Gentiles, after God's elect are gathered in. The servant would have the guest-room filled, for not only nature but grace also abhors a vacuum.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.712843033665985,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.29,
+            "commentatorTierSimilarities": [
+                31.13,
+                33.36,
+                35.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The palace is large and the guest-room, beautifully expressing the longing that should fill the hearts of ministers to see their Master's table filled. The Master had invited 'many' who had all declined, but the servant knew the Master wished the places to be filled. There is room! What a glorious declaration is this in regard to the gospel! There yet is room, for the Gentiles, after God's elect are gathered in. The servant would have the guest-room filled, for not only nature but grace also abhors a vacuum.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.712843033665985,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.29,
+            "commentatorTierSimilarities": [
+                31.13,
+                33.36,
+                35.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The servant knew the Master wished the places to be filled, and yet there is room. The palace is large, beautifully expressing the longing that should fill the hearts of ministers to see their Master's table filled. There yet is room for the Gentiles after God's elect are gathered in. What a glorious declaration! The servant would have the guest-room filled, for not only nature but grace also abhors a vacuum.",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.773094043925961,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.3,
+            "commentatorTierSimilarities": [
+                32.96,
+                31.72,
+                35.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The guest-room, reflecting the longing of ministers, should be filled to see the Master's table filled, for not only nature but grace also abhors a vacuum. The servant knew the Master wished the places to be filled, and yet - gloriously - there is room for the Gentiles after God's elect are gathered in.",
+            "wordCount": 55,
+            "quoteTokenProportion": 46.34,
+            "qualityScore": 2.059165382011451,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.81,
+            "commentatorTierSimilarities": [
+                33.05,
+                28.09,
+                38.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

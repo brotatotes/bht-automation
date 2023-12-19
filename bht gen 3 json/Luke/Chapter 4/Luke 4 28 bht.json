@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:15:10",
+    "verseRef": "Luke 4:28",
+    "bestBHT": {
+        "bht": "The people of Nazareth, like Capernaum, were initially impressed with the Old Testament illustrations Jesus used to show how God blessed the Gentiles instead of the Jewish people. However, their town pride was insulted and it exploded in a burst of rage, their favor turned to wrath. This wrath, though sinful, was a natural reaction. It is evident how powerful the reproofs of God are, as they inflame the minds of those who would rather evade them. We should implore the Spirit of meekness so as not to be driven into destructive war.",
+        "wordCount": 93,
+        "quoteTokenProportion": 45.07,
+        "qualityScore": 1.4868034167884612,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.78,
+        "commentatorTierSimilarities": [
+            26.4,
+            36.06,
+            37.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "28, 29. when they heard these",
+            "\tthings\u2014these allusions to the heathen, just as",
+            "\tafterwards with Paul (Acts 22:21;",
+            "\tActs 22:22)."
+        ],
+        "Albert Barnes": [
+            "Filled with wrath - They were enraged, probably, for the following reasons.",
+            "On these accounts their favor was soon turned to wrath.",
+            "The whole transaction shows us."
+        ],
+        "John Calvin": [
+            "Thus ungodly men not only resist, with obstinacy, the judgments of God, but rise into cruelty against his servants.",
+            "Hence it is evident, how forcible are the reproofs which proceed from the Spirit of God: for the minds of those who would willingly evade them are inflamed with rage.",
+            "When we see that the minds of men are so envenomed, that they become mad against God, whenever they are treated with some degree of roughness, we ought to implore the Spirit of meekness, that we may not be driven, by the same fury, into such a destructive war."
+        ],
+        "Philip Schaff": [
+            "The wrath was sinful, but natural.",
+            "They were angry at the rebuke, but their conduct only proved its justice.",
+            "We restore the more graphic order of the original."
+        ],
+        "Archibald T. Robertson": [
+            "The people of Nazareth at once caught on and saw the point of these two Old Testament illustrations of how God in two cases blessed the heathen instead of the Jewish people.",
+            "Nazareth was no better than Capernaum if as good.",
+            "Town pride was insulted and it at once exploded in a burst of rage."
+        ],
+        "John Gill": [
+            "And who before were amazed at his eloquence, and the gracefulness of his delivery; and could not but approve of his ministry, though they could not account for it, how he should come by his qualifications for it.",
+            "For by these instances they perceived, that they were compared to the Israelites in the times of wicked Ahab and Jezebel; and that no miracles were to be wrought among them, or benefits conferred on them, though they were his townsmen; yea, that the Gentiles were preferred unto them.",
+            "And it was suggested, that the favours of God, and grace of the Messiah, are dispensed in a sovereign and discriminating way, than which nothing is more offensive to carnal minds."
+        ],
+        "John Wesley": [
+            "Perceiving the purport of his discourse, namely, that the blessing which they despised, would be offered to, and accepted by, the Gentiles.",
+            "So changeable are the hearts of wicked men! So little are their starts of love to be depended on!",
+            "So unable are they to bear the close application, even of a discourse which they most admire!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people of Nazareth were initially impressed with the Old Testament illustrations Jesus used to showcase God's blessings upon the Gentiles instead of the Jewish people. However, their town pride was insulted and they exploded in a burst of rage, no better than Capernaum in their response. This wrath, though sinful, was a natural reaction, turning their favor into anger. It is evident how powerful the reproofs of God are, as they inflame the minds of those who would rather evade them. When faced with this fury, we should implore the Spirit of meekness so as not to be driven into destructive war.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.4610950824604727,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+            "commentatorTierSimilarities": [
+                25.91,
+                32.81,
+                41.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people of Nazareth, like Capernaum, were initially impressed with the Old Testament illustrations Jesus used to show how God blessed the Gentiles instead of the Jewish people. However, their town pride was insulted and it exploded in a burst of rage, their favor turned to wrath. This wrath, though sinful, was a natural reaction. It is evident how powerful the reproofs of God are, as they inflame the minds of those who would rather evade them. We should implore the Spirit of meekness so as not to be driven into destructive war.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.4868034167884612,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.78,
+            "commentatorTierSimilarities": [
+                26.4,
+                36.06,
+                37.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people of Nazareth, upon hearing Jesus' allusions to the heathen and recognizing their own town pride being insulted, exploded in a burst of rage. They were enraged, turning their favor into wrath. This sinful but natural reaction displayed their inability to bear the close application of Jesus' discourse. It is evident that the reproofs of God, even when delivered through His Spirit, can provoke such fury in the hearts of ungodly men. In the face of this, we should seek the Spirit of meekness to avoid being drawn into destructive conflict.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.4074115923396133,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.14,
+            "commentatorTierSimilarities": [
+                23.52,
+                34.21,
+                42.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people of Nazareth, upon hearing Jesus' allusions to the heathen and recognizing their own town pride being insulted, exploded in a burst of rage. Their wrath, although sinful, was a natural reaction, displaying their inability to bear the close application of Jesus' discourse. This episode serves as a reminder of how forceful the reproofs from the Spirit of God can be, leading to madness and cruelty against His servants. It is important for us to seek the Spirit of meekness and avoid being driven into a destructive war.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.4132577738705874,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.33,
+            "commentatorTierSimilarities": [
+                25.77,
+                27.04,
+                47.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people of Nazareth initially understood the point of Jesus' Old Testament illustrations that showed how God blessed the heathen instead of the Jewish people. However, their town pride was insulted, and they exploded in a burst of rage, unable to bear the rebuke. This angry reaction displayed their resistance to the judgments of God and their cruelty towards His servants. It serves as a reminder of the power of the reproofs from the Spirit of God and the need for a spirit of meekness to avoid falling into the same destructive fury.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3921468414644644,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.63,
+            "commentatorTierSimilarities": [
+                29.91,
+                25.26,
+                44.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

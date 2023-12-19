@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:26:20",
+    "verseRef": "Acts 4:25",
+    "bestBHT": {
+        "bht": "The disciples recognize the fierce confederacy against Jesus, as Herod, Pilate, the Gentiles, and the people of Israel gather together against God's holy Child. David's spirit observes the astonishing combination of heathen, people, kings, and princes opposing the sway of Jehovah and His Anointed. Seeking protection, the disciples acknowledge that the opposition faced by Jesus was foretold and foreseen by God. By fighting under the kingdom of Christ, they find comfort in knowing that God is on their side in the ongoing warfare.",
+        "wordCount": 85,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 1.71259826682068,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.29,
+        "commentatorTierSimilarities": [
+            28.71,
+            33.62,
+            37.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "This fierce confederacy our praying disciples see in full operation, in the 'gathering together of Herod and Pilate, the Gentiles (the Roman authority), and the people of Israel, against God's holy Child ('Servant') Jesus.",
+            "David's spirit sees with astonishment 'the heathen, the people, the kings and princes of the earth,' in deadly combination against the sway of Jehovah and His Anointed (his Messiah, or Christ), and asks 'why' it is.",
+            "The best ancient copies read, after 'were gathered together,' 'in this city,' which probably answers to 'upon my holy hill of Zion,' in the Psalm."
+        ],
+        "Albert Barnes": [
+            "They pleaded that this was a thing foretold; and as God had foreseen it and foretold it, they appealed to him to protect them.",
+            "The progress of the gospel would encounter tumultuous opposition, and the excited nations would rush violently to put it down and destroy it.",
+            "Their efforts were vain because they were not strong enough to oppose God; because he had purposed to establish the kingdom of his Son; and because he could overrule even their opposition to advance his cause."
+        ],
+        "Marvin Vincent": [
+            "Servant [\u03c0\u03b1\u03b9\u03b4\u03bf\u03c2]. See on ch. Acts 3:13.",
+            "Rage [\u03b5\u03c6\u03c1\u03c5\u03b1\u03be\u03b1\u03bd]. Only here in New Testament. Originally, to neigh or snort like a horse.",
+            "Philo describes a proud man as 'walking on tiptoe, and bridling [\u03c6\u03c1\u03c5\u03b1\u03c4\u03c4\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2], with neck erect like a horse.'"
+        ],
+        "John Calvin": [
+            "We must need confess that David speaketh of himself, who after he was chosen king by the Lord, and anointed by Samuel the prophet, did enjoy the kingdom very hardly, because his enemies withstood him on every side.",
+            "And this is a singular comfort, in that we hear that God is on our side, so long as we go on warfare under the kingdom of Christ.",
+            "Therefore, we must know this for a surety, that the kingdom of Christ shall never be quiet in the world, lest when we are to fight, we be afraid as at some strange thing."
+        ],
+        "Philip Schaff": [
+            "Who by the mouth of thy servant David hast said.\" ",
+            "The words are taken verbatim from the Septuagint.",
+            "There is no superscription either in the Hebrew or the Septuagint version."
+        ],
+        "Archibald T. Robertson": [
+            "By the mouth of our father David.",
+            "A small list of such primitive errors is there given as suggested by Dr. Hort.",
+            "To practise, to caution, as orators and rhetoricians."
+        ],
+        "John Gill": [
+            "And it was the sense of the ancient doctors of the synagogue, that this psalm is to be understood of the Messiah.\" ",
+            "The whole psalm belongs to the Messiah, as appears from the express mention of him, and the vain attempts of the kings of the earth against him.",
+            "Especially from that reverence, adoration, and worship, which were to be given to him, and that trust and confidence to be placed in him, which can by no means agree with David, nor with any mere creature."
+        ],
+        "John Wesley": [
+            "Psalm 2:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 4:25, the disciples recognize the fulfillment of David's prophecy in the opposition faced by Jesus. They observe the alarming unity of Herod, Pilate, the Gentiles, and the people of Israel against the Messiah. This confederacy, described by David's spirit, causes astonishment as he questions the motives behind their deadly combination. The psalm refers to the city where they gather, which likely corresponds to the holy hill of Zion. The disciples understand that the opposition Jesus faced was part of God's plan, foreseen and foretold. They seek God's protection, knowing that He is on their side as they continue to fight under the kingdom of Christ. This passage emphasizes the ongoing conflict that the kingdom of Christ will face in the world.",
+            "wordCount": 126,
+            "quoteTokenProportion": 29.49,
+            "qualityScore": 1.5550047266776001,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+            "commentatorTierSimilarities": [
+                25.72,
+                34.87,
+                39.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples observe the fulfillment of David's prophecy in the opposition faced by Jesus, as Herod, Pilate, the Gentiles, and the people of Israel unite against the Messiah. David's spirit is astonished by the deadly combination of heathen, people, kings, and princes. They seek protection and understand that this conflict is part of God's plan. By fighting under the kingdom of Christ, they know they have God on their side. This highlights the ongoing struggle the kingdom of Christ will encounter in the world.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.4966649431771035,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.11,
+            "commentatorTierSimilarities": [
+                26.84,
+                31.31,
+                41.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples recognize the fierce confederacy against Jesus, as Herod, Pilate, the Gentiles, and the people of Israel gather together against God's holy Child. David's spirit observes the astonishing combination of heathen, people, kings, and princes opposing the sway of Jehovah and His Anointed. Seeking protection, the disciples acknowledge that the opposition faced by Jesus was foretold and foreseen by God. By fighting under the kingdom of Christ, they find comfort in knowing that God is on their side in the ongoing warfare.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.71259826682068,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.29,
+            "commentatorTierSimilarities": [
+                28.71,
+                33.62,
+                37.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples witness the assembly of Herod, Pilate, the Gentiles, and the people of Israel against Jesus, the holy Child. They recognize David's astonishment at the deadly combination of heathen, people, kings, and princes opposing Jehovah and His Anointed. Seeking protection, the disciples understand that Jesus's opposition was foreseen and foretold by God. As they continue to fight under the kingdom of Christ, they find solace in knowing that God is on their side in the ongoing battle.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.6642431192240479,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.68,
+            "commentatorTierSimilarities": [
+                28.61,
+                34.25,
+                37.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples witness the fierce confederacy against Jesus, as Herod, Pilate, the Gentiles, and the people of Israel gather together against God's holy Child, His Anointed. David's spirit is astonished at the combination of heathen, people, kings, and princes opposing the sway of Jehovah. The disciples seek protection, acknowledging that the opposition faced by Jesus was foreseen and foretold. Fighting under the kingdom of Christ, they find comfort in knowing that God is on their side, even amidst the ongoing warfare.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.6885128717434874,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.49,
+            "commentatorTierSimilarities": [
+                28.77,
+                32.51,
+                38.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

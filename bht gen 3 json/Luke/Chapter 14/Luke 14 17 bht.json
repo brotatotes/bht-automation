@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:19:52",
+    "verseRef": "Luke 14:17",
+    "bestBHT": {
+        "bht": "The parable reveals that the three messengers in the story represent different individuals who delivered the same message of the Gospel. Refusing the invitation to the feast would be considered an insult, similar to a declaration of war, according to custom. The urgency of the invitation reflects the ripening preparations for the great call to salvation. This Gospel message, always sent through Christ, announces the richness of provisions such as righteousness, pardon of sin, peace, and reconciliation, displaying the perfection of the present dispensation.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.609737020639326,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+        "commentatorTierSimilarities": [
+            21.33,
+            40.56,
+            38.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The servant represents one spirit, one message: but is not necessarily, in the three cases, one and the same person.",
+            "The three messages were delivered (1) by John the Baptist and our Lord: (2) by our Lord and the Apostles; (3) by the Apostles and those who came after.",
+            "The elder prophets cannot be meant, for [all] things are now ready was the message, representing the proclamation of John the Baptist and our Lord, 'The kingdom of heaven is at hand.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17. supper-time . . . all now",
+            "\tready\u2014pointing undoubtedly to the now ripening preparations for",
+            "\tthe great Gospel call. (See on :-.)"
+        ],
+        "Albert Barnes": [
+            "An invitation had been sent before, but this servant was sent at the time that the supper was ready.",
+            "The fact that this custom is mainly confined to the wealthy and to the nobility is in strict agreement with the parable.",
+            "It is true now, as then, that to refuse is a high insult to the maker of the feast."
+        ],
+        "Philip Schaff": [
+            "The immediate invitation is based on the fact, that preparation had been made.",
+            "The gospel, telling of the facts of salvation, repeats this announcement; it is always a message sent through Christ.",
+            "The gospel, telling of the facts of salvation, repeats this announcement; it is always a message sent through Christ (\u2018His servant\u2019)."
+        ],
+        "Archibald T. Robertson": [
+            "To refuse the second summons would be an insult, which is equivalent among the Arab tribes to a declaration of war.",
+            "His servant. His bondservant.",
+            "This second summons was the custom then as now with wealthy Arabs."
+        ],
+        "John Gill": [
+            "And sent his servant at supper time... whom he sent in the fulness of time in the form of a servant, as the minister of the circumcision, to the lost sheep of the house of Israel...\" (45 words)",
+            "...this call, or invitation, was not the internal call... but external, to outward ordinances: and is often slighted and neglected; and is sometimes of persons who are neither chosen, nor sanctified, nor saved.\" (47 words)",
+            "...righteousness, pardon of sin, peace, and reconciliation, sin put away by the sacrifice of Christ, redemption obtained, and life and salvation secured; which shows the perfection of the present dispensation, and the large provisions of the Gospel...\" (54 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in Luke 14:17 illustrates how there were three different messengers sent to deliver the same message, representing the proclamation of John the Baptist, Jesus, and the Apostles. The urgency of the second summons, as customary among the wealthy Arabs, highlights the insult and declaration of war that refusing the invitation would be. The invitation in the parable is a reflection of the Gospel, always sent through Christ, announcing the ripening preparations for the great call to salvation. The message emphasizes the richness of provisions such as righteousness, pardon of sin, peace, and reconciliation, showcasing the perfection of the present dispensation.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.6959919569842012,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.73,
+            "commentatorTierSimilarities": [
+                23.68,
+                36.04,
+                40.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable reveals that the three messengers in the story represent different individuals who delivered the same message of the Gospel. Refusing the invitation to the feast would be considered an insult, similar to a declaration of war, according to custom. The urgency of the invitation reflects the ripening preparations for the great call to salvation. This Gospel message, always sent through Christ, announces the richness of provisions such as righteousness, pardon of sin, peace, and reconciliation, displaying the perfection of the present dispensation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.609737020639326,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                21.33,
+                40.56,
+                38.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the parable, three different messengers were sent to deliver the same message, symbolizing the proclamation of John the Baptist, Jesus, and the Apostles. By refusing the invitation, one would commit a grave insult, analogous to declaring war. This urgency highlights the nearing preparations for the great call of the Gospel. The Gospel, always sent through Christ, extends the invitation, declaring the abundance of blessings such as righteousness, forgiveness, peace, and reconciliation\u2014an indication of the perfection of the present dispensation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.5369790013561102,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                23.57,
+                37.39,
+                39.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable illustrates that the three messengers symbolize the unified message of John the Baptist, Jesus, and the Apostles. Rejecting the invitation would be equivalent to declaring war, based on Arab customs. This urgency emphasizes the ripening preparations for the Gospel call. The message, always sent through Christ, proclaims the abundance of blessings, including righteousness, forgiveness, peace, and reconciliation. This highlights the fullness of the present dispensation and the vast provisions of the Gospel.",
+            "wordCount": 74,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 1.4893017225596834,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.86,
+            "commentatorTierSimilarities": [
+                23.5,
+                37.13,
+                39.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable portrays the unified message of John the Baptist, Jesus, and the Apostles through three messengers. Rejection of the invitation would be seen as an insult, akin to declaring war, according to Arab customs. This urgency emphasizes the imminent preparations for the Gospel call. The message, constantly sent through Christ, proclaims an abundance of blessings like righteousness, forgiveness, peace, and reconciliation. It demonstrates the completeness of the present dispensation and the vast provisions of the Gospel.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.477858903399857,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.48,
+            "commentatorTierSimilarities": [
+                23.23,
+                38.05,
+                38.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

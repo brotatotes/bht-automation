@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:15:38",
+    "verseRef": "Luke 6:8",
+    "bestBHT": {
+        "bht": "Jesus, being well aware of the spies' thoughts and intentions, had the ability to read their intellectual processes. He worked openly, where all could see, and as a man stepped forward, there was an obvious moment of excitement. Jesus discerned their insidious designs, even if they were not explicitly expressed in words. He responded not only to their spoken words but also to the unspoken thoughts behind them. With authority, He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.",
+        "wordCount": 93,
+        "quoteTokenProportion": 45.59,
+        "qualityScore": 1.326998996268324,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.47,
+        "commentatorTierSimilarities": [
+            29.82,
+            30.38,
+            39.8
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "He knew their thoughts - their dark, malicious designs - by the question, which they proposed to him...\" ",
+            "...whether it was better to do good than to do evil on that day, implying that to \u201comit\u201d to do \u201cgood\u201d was, in fact, doing 'evil.'"
+        ],
+        "Marvin Vincent": [
+            "He knew [\u03b7\u03b4\u03b5\u03b9] . Imperfect. He was all along aware. ",
+            "Thoughts [\u03b4\u03b9\u03b1\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03bf\u03c5\u03c2] . See on James 2:4; Matthew 14:19."
+        ],
+        "John Calvin": [
+            "But both may be true, that they spoke plainly, and yet that Christ discerned their secret thoughts.",
+            "Christ was aware of their insidious designs, though not expressed in words.",
+            "Christ replies not to their secret thoughts, but to express words."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus, in contrast to these spies, read their intellectual processes like an open book.\" ",
+            "Christ worked right out in the open where all could see.\" ",
+            "It was a moment of excitement when the man stepped forth there before them all."
+        ],
+        "John Gill": [
+            "But he knew their thoughts....he knew what they designed.\" ",
+            "Rise up, and stand forth in the midst.",
+            "He rose up from his seat, and stood up in the midst of the synagogue, and of the people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in contrast to those who were watching Him closely, was fully aware of their thoughts and intentions. He had the ability to read their intellectual processes like an open book. As He worked openly in front of everyone, a man stepped forward, creating a moment of excitement. Although the spies' dark designs were not explicitly spoken, Jesus discerned their insidious thoughts. He responded not only to their words but also to the unspoken intent behind them. With authority, He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.3486958434270644,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.19,
+            "commentatorTierSimilarities": [
+                31.6,
+                33.24,
+                35.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in contrast to the spies who were observing Him, was fully aware of their thoughts and intentions. He had the ability to read their intellectual processes like an open book. Working openly in front of everyone, Jesus's response not only addressed their spoken words but also the unspoken intent behind them. He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.3146292696468582,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+            "commentatorTierSimilarities": [
+                30.56,
+                32.19,
+                37.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, being well aware of the spies' thoughts and intentions, had the ability to read their intellectual processes. He worked openly, where all could see, and as a man stepped forward, there was an obvious moment of excitement. Jesus discerned their insidious designs, even if they were not explicitly expressed in words. He responded not only to their spoken words but also to the unspoken thoughts behind them. With authority, He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.326998996268324,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.47,
+            "commentatorTierSimilarities": [
+                29.82,
+                30.38,
+                39.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, well aware of the spies' thoughts, could read their intellectual processes. Working openly where all could see, a moment of excitement arose when a man boldly stepped forth. Despite their insidious designs not being voiced, Jesus discerned their intent. His response addressed not only their explicit words but also the unspoken thoughts behind them. With authority, He called the man to rise up and stand forth, making a powerful statement in the midst of the synagogue and the people.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.2903538534405306,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.25,
+            "commentatorTierSimilarities": [
+                32.53,
+                28.75,
+                38.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, fully aware of the spies' thoughts and intentions, read their intellectual processes like an open book. Working openly for everyone to see, a man's bold step forward created an exciting moment. Although unexpressed, Jesus discerned their dark and malicious designs. His response went beyond their words, taking into account the unspoken evil behind them. With authority, He called the man to rise up and stand forth, making a powerful statement amidst the synagogue and the people.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.3114136517247297,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.95,
+            "commentatorTierSimilarities": [
+                29.28,
+                38.26,
+                32.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

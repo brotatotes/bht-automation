@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:19:45",
+    "verseRef": "Galatians 5:1",
+    "bestBHT": {
+        "bht": "For freedom, Christ made us free from the yoke of bondage, the law. It is for freedom that Christ set us free, not in a state of bondage. Therefore, we should stand fast and be not entangled again in a yoke of legalism. This freedom is our inheritance, a gift from Christ's redemption. Let us remain truly free and avoid any burdens or actions that would hinder our freedom in Christ.",
+        "wordCount": 72,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.7153074205554413,
+        "qualityScoreNormalizedComparedToV2BHTs": 81.62,
+        "commentatorTierSimilarities": [
+            41.46,
+            28.94,
+            29.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "With liberty did Christ make us free... freedom is our inheritance by virtue of Christ's redemption of us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is FOR freedom that Christ hath made us free (not in, or for, a state of bondage).\" ",
+            "Stand fast, therefore, and be not entangled again in a yoke of bondage\" (namely, the law). ",
+            "The oldest manuscripts read, 'in liberty.'"
+        ],
+        "Albert Barnes": [
+            "Stand fast, therefore - Be firm and unwavering.",
+            "They were to be firm and unyielding in maintaining the great principles of Christian liberty.",
+            "Do not again become slaves to any rites, and customs, and habits."
+        ],
+        "Marvin Vincent": [
+            "Rend. for freedom did Christ set us free. For, not with freedom.\" ",
+            "That we might be really free and remain free.\" ",
+            "Metaphorical, of a burden or bondage."
+        ],
+        "John Calvin": [
+            "This is not a question whether you shall eat this or that food, \u2014 whether you shall observe or neglect a particular day, but what is your positive duty before God, what is necessary to salvation, and what cannot be omitted without sin.",
+            "The liberty of which Paul speaks is exemption from the ceremonies of the law, the observance of which was demanded by the false apostles as necessary.",
+            "If men be permitted to bind our consciences, we shall be deprived of an invaluable blessing, and an insult will be, at the same time, offered to Christ, the Author of our freedom."
+        ],
+        "Philip Schaff": [
+            "For freedom did Christ make (or set) us free: stand firm, therefore, and be not entangled again in a yoke of bondage.",
+            "Freedom is the outcome of the preceding discussion, and is emphatically put first 'For, or 'unto freedom' (better than 'with freedom,' although the Greek admits both), i.e., in order that we might be and remain free.",
+            "A Christian freeman is a grateful and cheerful servant of God, and a lord and king, though in chains, like Paul in Rome, who was a true freeman, while Nero on the throne was a miserable slave of his lusts."
+        ],
+        "Archibald T. Robertson": [
+            "For the (article) freedom that belongs to us children of the freewoman.",
+            "Keep on standing therefore,\" \"stay free since Christ set you free.",
+            "Stop being held in by a yoke of bondage."
+        ],
+        "John Gill": [
+            "There is the liberty of grace, and the liberty of glory; the former of these is here meant, and lies in a freedom from sin; not from the indwelling of it, but from the dominion, guilt, and damning power of it.",
+            "This liberty lies in the free use of things indifferent, as eating any sort of food without distinction, so that it be done in faith, with thankfulness to God, in moderation, and with temperance, and so as that the peace and edification of fellow Christians are not hurt.",
+            "Every doctrine and ordinance of men is a yoke of bondage which should not be submitted to; ... any action whatever, performed in a religious way and in order for a man's acceptance with God... is a yoke of bondage."
+        ],
+        "John Wesley": [
+            "Stand fast therefore in the liberty \u2014 From the ceremonial law.",
+            "Wherewith Christ hath made us \u2014 And all believers, free.",
+            "And be not entangled again with the yoke of legal bondage."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For freedom, Christ made us free, freeing us from the yoke of bondage - namely, the law. Therefore, we are called to stand firm and unwavering, not allowing ourselves to be entangled again in a yoke of legalism. This freedom is not merely a release from external regulations, but a liberation from the dominion, guilt, and power of sin. It is a gift, an inheritance that we have received through Christ's redemptive work. Let us, therefore, remain free, diligently avoiding anything that would enslave us and hinder the peace and edification of our fellow believers.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.321371710994833,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.53,
+            "commentatorTierSimilarities": [
+                36.19,
+                30.79,
+                33.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For freedom, Christ made us free, freeing us from the yoke of bondage - namely, the law. Therefore, we are called to stand firm and unwavering, not allowing ourselves to be entangled again in a yoke of legalism. This freedom is not merely a release from external regulations, but a liberation from the dominion, guilt, and power of sin. It is a gift, an inheritance that we have received through Christ's redemptive work. Let us, therefore, remain free, diligently avoiding anything that would enslave us.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.3080579796020446,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.08,
+            "commentatorTierSimilarities": [
+                37.71,
+                30.54,
+                31.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For freedom, Christ made us free - not in a state of bondage, but to truly experience and embrace liberty. The freedom we have is not just from external laws and regulations, but from the burden and bondage of sin itself. We are called to stand firm, not becoming entangled again in the yoke of legalism. This liberty is a precious gift that belongs to us, allowing us to live as true children of the freewoman. Let us, therefore, remain steadfast in our freedom, no longer held back by any yoke of bondage.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.5677060539700856,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.72,
+            "commentatorTierSimilarities": [
+                39.37,
+                30.85,
+                29.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For freedom, Christ made us free from the yoke of bondage, the law. It is for freedom that he set us free, to truly experience liberty and remain free. This freedom is not a release from external regulations, but a liberation from the dominion, guilt, and power of sin. We must stand fast, not becoming entangled again in the yoke of legalism, for this freedom is our inheritance through Christ's redemptive work. Let us cherish and uphold this freedom, avoiding any actions that would enslave us and hinder the edification of fellow believers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.6650828193283234,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.95,
+            "commentatorTierSimilarities": [
+                38.79,
+                29.7,
+                31.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For freedom, Christ made us free from the yoke of bondage, the law. It is for freedom that Christ set us free, not in a state of bondage. Therefore, we should stand fast and be not entangled again in a yoke of legalism. This freedom is our inheritance, a gift from Christ's redemption. Let us remain truly free and avoid any burdens or actions that would hinder our freedom in Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.7153074205554413,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.62,
+            "commentatorTierSimilarities": [
+                41.46,
+                28.94,
+                29.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

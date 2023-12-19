@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:34:45",
+    "verseRef": "Acts 21:7",
+    "bestBHT": {
+        "bht": "After completing their voyage, Paul and his companions arrived at Ptolemais, a large town with a harbor. This ancient city, now known as St. Jean d'Acre, was surrounded by mountains and served as a significant place where the Gospel had been preached and believers gathered. In Ptolemais, the disciples greeted and embraced one another, strengthening the bonds amongst the early Christians. Spending a day with these brethren, Paul and his companions continued their journey, spreading the message of the Gospel.",
+        "wordCount": 81,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.6362263956599223,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.75,
+        "commentatorTierSimilarities": [
+            23.19,
+            29.11,
+            47.7
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "With their landing at Ptolemais their voyage ended: the rest of the journey was made by land.\" ",
+            "Ptolemais...was a large town with a harbor.",
+            "It is now called St. Jean d'Acre, and is the best harbor on the Syrian coast, though small."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "when we had finished our course\u2014completing the voyage",
+            "and saluted the brethren, and abode, &amp;c.\u2014disciples gathered",
+            "on the occasion mentioned (Acts 11:19)"
+        ],
+        "Albert Barnes": [
+            "This was a city situated on the coast of the Mediterranean.\" ",
+            "It was in the tribe of Asher.",
+            "And saluted the brethren - Embraced them; gave them expressions of affection and regard."
+        ],
+        "Marvin Vincent": [
+            "Finished [\u03b4\u03b9\u03b1\u03bd\u03c5\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2] . Only here in New Testament. ",
+            "Saluted. The word rendered take leave in verse 6. See on ch. Acts 20:1."
+        ],
+        "John Calvin": [
+            "The evangelists, in my judgment, were in the midst between apostles and doctors.",
+            "For it was a function next to the apostles to preach the gospel in all places, and not to have any certain place of abode.",
+            "Therefore, Philip did for a time exercise the office of a deacon at Jerusalem, whom the Church thought afterward to be a meet man to whom the treasure of the gospel should be committed."
+        ],
+        "Philip Schaff": [
+            "And we finishing our voyage, arrived at Ptolemais from Tyre.",
+            "Ptolemais is one of the oldest cities in the world.",
+            "It was famous in the Crusades under the name of St. Jean d\u2019Acre."
+        ],
+        "Archibald T. Robertson": [
+            "And we, having (thereby) finished the voyage, arrived from Tyre at Ptolemais.",
+            "Ptolemais is the modern Acre, called Accho in Judges 1:31.",
+            "The harbour is the best on the coast of Palestine and is surrounded by mountains."
+        ],
+        "John Gill": [
+            "The Gospel had been preached here with success; some had believed and professed it, and very likely were in a church state.",
+            "Conferring together about spiritual things, and employing their time, no doubt, in religious exercises.",
+            "These brethren Paul and his company visited, and saluted them; and abode with them one day."
+        ],
+        "John Wesley": [
+            "Having finished our voyage...we came to Ptolemais - A celebrated city on the sea coast...\" ",
+            "Anciently called Accos. It is now, like many other once noble cities, only a heap of ruins."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After completing their voyage at Ptolemais, the disciples gathered there, saluting and embracing each other with affection and regard. Ptolemais, a large town with a harbor known today as St. Jean d'Acre, served as the final stop before the journey continued on land. This ancient city, situated on the coast of the Mediterranean and surrounded by mountains, held significance as a place where the Gospel had been preached and where believers resided. Paul and his companions visited these brethren, spending a day in their company, before moving onward. Such encounters and exchanges among the disciples were essential in spreading the message of the Gospel and strengthening the bonds of the Church.",
+            "wordCount": 112,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.552582900815088,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.97,
+            "commentatorTierSimilarities": [
+                23.46,
+                29.74,
+                46.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After completing their voyage at Ptolemais, the disciples gathered there, saluting and embracing each other with affection and regard. Ptolemais, known today as St. Jean d'Acre, was a large town with a harbor that served as the final stop before the journey continued on land. This ancient city held significance as a place where the Gospel had been preached and where believers resided. Paul and his companions visited these brethren, spending a day in their company, before moving onward. Such encounters among the disciples were essential in spreading the message of the Gospel and strengthening the bonds of the Church.",
+            "wordCount": 101,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.5515049569571997,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                22.54,
+                29.06,
+                48.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After finishing their voyage, Paul and his companions arrived at Ptolemais, a large town with a harbor. This ancient city, now known as St. Jean d'Acre, was situated on the coast and surrounded by mountains. Here, the disciples gathered to salute and embrace one another, strengthening the bonds of the Church. Ptolemais held significance as a place where the Gospel had been preached and where believers resided. Paul and his companions spent a day with these brethren before continuing their journey.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6170754390175857,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.11,
+            "commentatorTierSimilarities": [
+                25.55,
+                31.26,
+                43.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After completing their voyage, Paul and his companions arrived at Ptolemais, a large town with a harbor. This ancient city, now known as St. Jean d'Acre, was surrounded by mountains and served as a significant place where the Gospel had been preached and believers gathered. In Ptolemais, the disciples greeted and embraced one another, strengthening the bonds amongst the early Christians. Spending a day with these brethren, Paul and his companions continued their journey, spreading the message of the Gospel.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6362263956599223,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.75,
+            "commentatorTierSimilarities": [
+                23.19,
+                29.11,
+                47.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After finishing their voyage, Paul and his companions arrived at Ptolemais, a large town with a harbor. Ptolemais, now known as St. Jean d'Acre, was surrounded by mountains and served as a significant place where the Gospel had been preached and disciples gathered. In Ptolemais, the believers greeted each other with affection and spent a day in fellowship. This encounter was crucial in strengthening the bonds of the Church and spreading the message of the Gospel to new regions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.5995445971624767,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+            "commentatorTierSimilarities": [
+                24.27,
+                31.02,
+                44.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:36:31",
+    "verseRef": "Acts 26:12",
+    "bestBHT": {
+        "bht": "In the midst of his affairs of persecution, Paul was suddenly enveloped in a blinding light, so radiant that it surpassed the brightness of a midday sun in the East. A voice spoke to him in his native Hebrew tongue, commissioning him to be a servant of the Most High and to bear witness to the Gentiles. Devoted to his mission, he set off to Damascus, where he knew there were many believers in Christ, with the explicit intention of punishing, imprisoning, and even executing disciples of Jesus.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.487411506547886,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.8,
+        "commentatorTierSimilarities": [
+            14.79,
+            54.21,
+            31.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "12. Whereupon] literally, In which things (being engaged)."
+        ],
+        "Marvin Vincent": [
+            "Whereupon [\u03b5\u03bd \u03bf\u03b9\u03c2] . See on ch. Acts 24:18. Better, on which errand; in which affairs of persecution."
+        ],
+        "Philip Schaff": [
+            "The overpowering glory of the light is here dwelt upon in a special manner. We are told how it exceeded even the brightness of an oriental sun at noon.",
+            "The voice, we are told here, spoke to Saul in the Hebrew tongue.",
+            "The mission of Paul to the Gentiles is here alluded to as forming part of this first communication of the Lord from heaven to the man chosen to be the servant of the Most High."
+        ],
+        "Archibald T. Robertson": [
+            "In which things\" (affairs of persecution), \"on which errand.",
+            "Not merely 'authority' (\u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03b1), but express appointment (\u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03b7, old word, but here only in N.T., derived from \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03bf\u03c2, steward, and that from \u03b5\u03c0\u03b9\u03c4\u03c1\u03b5\u03c0\u03c9, to turn over to, to commit)."
+        ],
+        "John Gill": [
+            "Being intent, upon the above said things, to punish the saints, compel them to blaspheme, imprison them, and even put them to death on account of these things...\" ",
+            "Upon this errand and business he went to Damascus, the chief city of Syria, where he knew there were many that believed in Christ...",
+            "With authority and commission from the chief priests; the Jewish sanhedrim, to bring those of them at Damascus bound to Jerusalem, in order to be punished..."
+        ],
+        "John Wesley": [
+            "Acts 9:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of his affairs of persecution, Paul was suddenly enveloped in a blinding light, so radiant that it surpassed the brightness of a midday sun in the East. A voice spoke to him in his native Hebrew tongue, commissioning him to be a servant of the Most High and to bear witness to the Gentiles. It is crucial to note that Paul was not merely granted authority, but was entrusted with a divine appointment. Devoted to his mission, he set off to Damascus, where he knew there were many believers in Christ, with the explicit intention of punishing, compelling blasphemy, imprisoning, and even executing disciples of Jesus. This was the purpose behind his journey to bring them bound to Jerusalem. (Acts 26:12, Acts 9:2)",
+            "wordCount": 124,
+            "quoteTokenProportion": 33.73,
+            "qualityScore": 1.3675010587101264,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.81,
+            "commentatorTierSimilarities": [
+                15.4,
+                42.75,
+                41.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amidst his affairs of persecution, Paul experienced the overpowering glory of a blinding light, surpassing even the brightness of an oriental noon. In his native tongue, he heard a voice commissioning him as the servant of the Most High, with a unique mission to the Gentiles. It is important to understand that Paul was entrusted with a divine appointment, not just authority. He embarked on a journey to Damascus, where he aimed to punish and imprison believers, while being authorized by the Jewish Sanhedrin to bring them to Jerusalem for punishment.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.3807382922238316,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.25,
+            "commentatorTierSimilarities": [
+                13.01,
+                55.12,
+                31.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst his affairs of persecution, Paul experienced a radiant light that outshone even the brilliance of an Eastern sun at noon. A divine voice spoke to him in his native Hebrew tongue, entrusting him with a role as a servant of the Most High. He was not simply given authority, but was commissioned to carry out a specific mission. Driven by his purpose, Paul set out to Damascus, knowing there were many believers there, with the intention of punishing, compelling blasphemy, imprisoning, and even executing them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.3260711522684319,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.43,
+            "commentatorTierSimilarities": [
+                15.68,
+                53.88,
+                30.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While actively engaged in his affairs of persecution, Paul encountered a blinding light that surpassed the brilliance of a noonday sun. A heavenly voice spoke to him in his native Hebrew tongue, commissioning him as a servant of the Most High. This divine appointment went beyond mere authority, entrusting Paul with a specific mission to the Gentiles. Fueled by his purpose, Paul embarked on a journey to Damascus to punish, compel blasphemy, imprison, and even execute believers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.4375133495717871,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.14,
+            "commentatorTierSimilarities": [
+                16.56,
+                53.39,
+                30.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of his affairs of persecution, Paul was suddenly enveloped in a blinding light, so radiant that it surpassed the brightness of a midday sun in the East. A voice spoke to him in his native Hebrew tongue, commissioning him to be a servant of the Most High and to bear witness to the Gentiles. Devoted to his mission, he set off to Damascus, where he knew there were many believers in Christ, with the explicit intention of punishing, imprisoning, and even executing disciples of Jesus.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.487411506547886,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.8,
+            "commentatorTierSimilarities": [
+                14.79,
+                54.21,
+                31.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:29",
+    "verseRef": "1 Peter 2:21",
+    "bestBHT": {
+        "bht": "Christ suffered for us, leaving behind a pattern as a copy for us to closely follow in his footsteps. His sufferings were not only an example but also suffered for our sake, imposing an everlasting obligation to please him. Just as writing masters provide a copy for their pupils, Christ offers us his example to imitate. We are called to endure wrongful sufferings without flinching, imitating Christ and conforming to his image. This example applies to all believers, reminding us of the condition of Christianity.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 2.017767709449295,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+        "commentatorTierSimilarities": [
+            32.95,
+            34.51,
+            32.55
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For (proof that undeserved suffering is thankworthy with God, by the instance of Christ\u2019s sufferings, which were our example) to this (state, viz. the endurance of wrongful sufferings) ye were called.",
+            "Christ also (the also applies to the words 'suffered for you,' the words for you carrying with them the 'well-doing,' as explained below, ver. 24) suffered for you.",
+            "Leaving behind for you a copy (a pattern to write or paint by: technically, these patterns were formul\u00e6 given by writing-masters to their pupils, containing all the letters of the alphabet) that ye should follow upon (follow close upon, denoting close application to: the word is commonly used of following behind another) His footsteps."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ's sufferings, while they are for an example, were also primarily sufferings 'for us,' a consideration which imposes an everlasting obligation on us to please Him.",
+            "Christ's precepts and sermons were the transcript of His life.",
+            "Peter graphically sets before servants those features especially suited to their case."
+        ],
+        "Albert Barnes": [
+            "For even hereunto were ye called - Such a spirit is required by the very nature of your Christian vocation; you were called into the church in order that you might evince it.\" ",
+            "Because Christ also suffered for us - ... The object is, to hold up the example of Christ to those who were called to suffer, and to say to them that they should bear their trials in the same spirit that he evinced in his.\" ",
+            "Leaving us an example - The apostle does not say that this was the only object for which Christ suffered, but that it was an object, and an important one. ... It means properly 'a writing copy,' such as is set for children; or an outline or sketch for a painter to fill up; and then, in general, an example, a pattern for imitation."
+        ],
+        "Marvin Vincent": [
+            "Leaving [\u03c5\u03c0\u03bf\u03bb\u03b9\u03bc\u03c0\u03b1\u03bd\u03c9\u03bd]. Only here in the New Testament.",
+            "An example [\u03c5\u03c0\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03bf\u03bd]. Only here in the New Testament. A graphic word, meaning a copy set by writing - masters for their pupils.",
+            "Follow [\u03b5\u03c0\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b7\u03c3\u03b7\u03c4\u03b5]. Lit., follow upon. The compound verb implies close following. From writers and painters, the metaphor changes now to a guide."
+        ],
+        "John Calvin": [
+            "For though his discourse was respecting servants, yet this passage ought not to be confined to that subject. For the Apostle here reminds all the godly in common as to what the condition of Christianity is, as though he had said, that we are called by the Lord for this end, patiently to bear wrongs.",
+            "But we must notice the words, Leaving us an example. For as he treats of imitation, it is necessary to know what in Christ is to be our example.",
+            "This subject is handled more at large by Paul in Romans 8:29, where he teaches us that all the children of God are foreordained to be made conformable to the image of Christ, in order that he might be the first-born among many brethren."
+        ],
+        "Philip Schaff": [
+            "Patient endurance of undeserved suffering should be deemed no strange thing... Painful as it was, it was involved in their Christian vocation.\" ",
+            "The servant cannot expect to be greater than the Master. They are only called to endure as Christ endured.",
+            "The idea of an example is conveyed by a term, of which this is the one N. T. instance, and which denotes properly the sketch given to students of art to copy, or trace over and fill in."
+        ],
+        "Archibald T. Robertson": [
+            "They were called to suffer without flinching (Hort), if need be.",
+            "The fact that Christ suffered (\u03b5\u03c0\u03b1\u03b8\u03b5\u03bd) lifts their suffering to a new plane.",
+            "Peter does not mean that Christ suffered only as an example (1 Peter 1:18), but he did leave us his example for our copying (1 John 2:6)."
+        ],
+        "John Gill": [
+            "For even hereunto were ye called,.... Both to well doing, of which none but those who are called with an holy and effectual calling are capable...and to patience in suffering for it...\" ",
+            "because Christ also suffered for us; in our room and stead, to fulfil the law, satisfy the justice of God, and make reconciliation for sin; and not only for our good, or merely as a martyr, to confirm the truth of his doctrine, or barely as an example to us, though this also is true...",
+            "Christ is an example to his people in the exercise of grace, as of faith, love, zeal, meekness, and humility; and in the discharge of duty...and likewise in his sufferings; and in his meekness, patience, courage, and resignation to the will of God, which is what is here intended, and in which his people are to fellow and imitate him."
+        ],
+        "John Wesley": [
+            "Called \u2014 To suffer wrongfully.",
+            "Leaving you an example \u2014 When he went to God.",
+            "That ye might follow his steps \u2014 Of innocence and patience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ suffered for us, leaving behind a pattern for us to follow so that we may closely follow in his footsteps. His sufferings were not only an example to us, but also suffered for our sake, which imposes an everlasting obligation on us to please him. Just as writing masters give their pupils a copy to write or paint by, Christ gives us his example to imitate. We are called to endure wrongful sufferings without flinching, just as Christ did. This example is not limited to servants, it applies to all believers, reminding us of the condition of Christianity. We are called to patiently bear wrongs as part of our Christian vocation, imitating Christ and conforming to his image.",
+            "wordCount": 119,
+            "quoteTokenProportion": 49.37,
+            "qualityScore": 2.084928669547881,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                30.55,
+                35.93,
+                33.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ suffered for us, leaving behind a pattern for us to follow closely in his footsteps. His sufferings were not only an example but also suffered for our sake, imposing an everlasting obligation to please him. Just as writing masters provide a copy for their pupils, Christ offers us his example to follow. We are called to endure wrongful sufferings without flinching, imitating Christ and conforming to his image. This example applies to all believers, reminding us of the condition of Christianity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.0158999525058947,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                33.25,
+                33.74,
+                33.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ suffered for us, leaving behind a pattern for us to follow closely in his footsteps. His sufferings were not only an example but also suffered for our sake, imposing an everlasting obligation to please him. Just as writing masters provide a copy for their pupils, Christ offers us his example to follow. We are called to endure wrongful sufferings without flinching, imitating Christ and conforming to his image. This example applies to all believers, reminding us of the condition of Christianity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.0158999525058947,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                33.25,
+                33.74,
+                33.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ suffered for us, leaving behind a pattern for us to closely follow in his footsteps. Just as writing masters provide a copy for their pupils, Christ offers us his example to imitate. We are called to endure wrongful sufferings without flinching, imitating Christ and conforming to his image. This example applies to all believers, reminding us of the condition of Christianity. We are called to patiently bear wrongs and follow Christ's steps of innocence and patience.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.9658286881474654,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.71,
+            "commentatorTierSimilarities": [
+                30.89,
+                33.34,
+                35.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ suffered for us, leaving behind a pattern as a copy for us to closely follow in his footsteps. His sufferings were not only an example but also suffered for our sake, imposing an everlasting obligation to please him. Just as writing masters provide a copy for their pupils, Christ offers us his example to imitate. We are called to endure wrongful sufferings without flinching, imitating Christ and conforming to his image. This example applies to all believers, reminding us of the condition of Christianity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.017767709449295,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+            "commentatorTierSimilarities": [
+                32.95,
+                34.51,
+                32.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

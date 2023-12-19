@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 14:18:40",
+    "verseRef": "Galatians 4:23",
+    "bestBHT": {
+        "bht": "Isaac, the son of Sarah, was not born like any ordinary child. He was born by virtue of the promise, contrary to all calculations of flesh and blood. This miraculous birth was a result of Abraham's faith in God's promise. In contrast, Ishmael was born after the flesh, according to the regular course of nature. Isaac's birth highlights the importance of living by faith alone, as it is through the promise that God's purposes are fulfilled, not through human effort or natural means.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.2847435294512763,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.31,
+        "commentatorTierSimilarities": [
+            32.79,
+            33.35,
+            33.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "after the flesh, i.e., according to nature, in her usual course.",
+            "the other, by [virtue of] the promise, as the efficient cause of Sarah's becoming pregnant contrary to nature.",
+            "see Rom. iv. 19."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "after the flesh\u2014born according to the usual course of nature: in contrast to Isaac, who was born 'by virtue of the promise'\".",
+            "Abraham was to lay aside all confidence in the flesh (after which Ishmael was born), and to live by faith alone in the promise (according to which Isaac was miraculously born, contrary to all calculations of flesh and blood)\".",
+            "Isaac was miraculously born, contrary to all calculations of flesh and blood\"."
+        ],
+        "Albert Barnes": [
+            "The son of the slave was in a humble and inferior condition from his very birth.",
+            "Isaac... was met with promises as soon as he was born, and was under the benefit of those promises as long as he lived.",
+            "The object of Paul is, to state the truth in regard to a condition of servitude and slavery. It is attended with evils from beginning to end; from the birth to the grave."
+        ],
+        "Marvin Vincent": [
+            "Has been born, or is born: perfect tense, treating the historical fact as if present.",
+            "According to the regular course of nature.",
+            "In virtue of the promise; for according to natural conditions he would not have been born."
+        ],
+        "John Calvin": [
+            "In Ishmael there was nothing besides nature; in Isaac there was the election of God\" (Galatians 4:23). ",
+            "Yet there is an indirect reference to the calling of the Gentiles, and the rejection of the Jews\" (Galatians 4:23).",
+            "For the latter boast of their ancestry, while the former, without any human interference, are become the spiritual offspring of Abraham\" (Galatians 4:23)."
+        ],
+        "Philip Schaff": [
+            "But the son from the bondmaid was born after the flesh, in the regular course of nature.\" ",
+            "But the son of the freewoman is through the promise, by virtue of supernatural influence, by the Spirit of God working through the word of promise.",
+            "Genesis 17:16; Genesis 17:19; Genesis 18:10-11; comp. Romans 4:19."
+        ],
+        "Archibald T. Robertson": [
+            "Is born (\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03c4\u03b1). Perfect passive indicative of \u03b3\u03b5\u03bd\u03bd\u03b1\u03c9, stand on record so.",
+            "Through promise (\u03b4\u03b9' \u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b1\u03c2).",
+            "In addition to being 'after the flesh' (\u03ba\u03b1\u03c4\u03b1 \u03c3\u03b1\u03c1\u03ba\u03b1)."
+        ],
+        "John Gill": [
+            "But he who was of the bondwoman... was born after the flesh... and was typical of the Jews, the natural descendants of Abraham, who, as such, and upon that account, were not the children of God, nor heirs of the eternal inheritance.\" ",
+            "But he of the free woman was by promise... This son of promise was a type of the spiritual seed of Abraham... who are born again of the will, power, and grace of God, and are heirs, according to the promise, both of grace and glory.\" ",
+            "when they that are of the law, and the works of it, are not."
+        ],
+        "John Wesley": [
+            "Was born after the flesh \u2014 In a natural way.",
+            "By promise \u2014 Through that supernatural strength which was given Abraham in consequence of the promise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Isaac, the son of Sarah, was not born like any ordinary child. He was born by virtue of the promise, contrary to all expectations and calculations of human nature. This miraculous birth was a result of Abraham's faith and trust in God's promise. In contrast, Ishmael, the son of Hagar, was born after the flesh, according to the natural course of things. This distinction emphasizes that Isaac's birth was not a product of human effort, but a manifestation of God's faithfulness to His promise. Through Isaac, we see that God's purposes are not achieved by human strength or works, but by His sovereign power and grace.",
+            "wordCount": 111,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.192372334362425,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.24,
+            "commentatorTierSimilarities": [
+                29.84,
+                34.3,
+                35.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Isaac, the son of Sarah, was not born like any ordinary child. He was born by virtue of the promise, contrary to all calculations of flesh and blood. This miraculous birth was a result of Abraham's faith in God's promise. In contrast, Ishmael was born after the flesh, according to the regular course of nature. Isaac's birth highlights the importance of living by faith alone, as it is through the promise that God's purposes are fulfilled, not through human effort or natural means.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.2847435294512763,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.31,
+            "commentatorTierSimilarities": [
+                32.79,
+                33.35,
+                33.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Isaac's birth was not ordinary, as he was born by virtue of the promise in a miraculous manner, contrary to the usual course of nature. This demonstrated Abraham's need to trust in God's promise rather than relying on human flesh. In contrast, Ishmael was born after the flesh, according to the regular course of nature. The distinction between Isaac and Ishmael signifies the importance of living by faith alone and highlights that God's purposes are achieved through His supernatural power, not human effort.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.2317679178681793,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.55,
+            "commentatorTierSimilarities": [
+                33.16,
+                31.74,
+                35.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Isaac's birth was not ordinary, as he was born by virtue of the promise, contrary to nature's usual course. This miraculous birth challenged Abraham to place his faith solely in God's promise and not in the capabilities of the flesh. In contrast, Ishmael was born after the flesh, following the natural order. The distinction between Isaac and Ishmael reminds us of the importance of living by faith and trusting in God's supernatural power, rather than relying on human efforts.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.2155534392884126,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                33.42,
+                31.23,
+                35.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Isaac's birth was not ordinary, as he was born by virtue of the promise, contrary to all calculations of flesh and blood. This miraculous birth highlighted the significance of Abraham's faith in God's promise, which went beyond natural expectations. In contrast, Ishmael was born after the flesh, according to the regular course of nature. The contrast between their births emphasizes the importance of trusting in God's sovereign power and grace, rather than relying on human strength or works for the fulfillment of His purposes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.2218136248473552,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.22,
+            "commentatorTierSimilarities": [
+                34.39,
+                32.19,
+                33.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

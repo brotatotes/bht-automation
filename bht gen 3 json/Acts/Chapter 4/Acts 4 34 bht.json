@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:26:29",
+    "verseRef": "Acts 4:34",
+    "bestBHT": {
+        "bht": "The believers in the early church exemplified God's grace by distributing their possessions to the poor. This act of selling their goods was an ongoing process, ensuring the needs of the community were met. By doing so, they demonstrated Christian unity and overcame the love of money, which showcased the transformative power of the gospel. Their selfless generosity reflected the grace bestowed upon them, inspiring others to follow their example throughout history.",
+        "wordCount": 73,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.5931131146011155,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+        "commentatorTierSimilarities": [
+            31.07,
+            44.01,
+            24.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For gives a proof of God\u2019s grace working in them, in that they imparted their goods to the poor.",
+            "The things that were sold:\u2014the process of selling, as regarded the whole church, yet going on, though completed in individual cases.",
+            "See especially 2 Cor. viii. 7."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "place was shaken\u2014glorious token of the commotion which the Gospel was to make\" ",
+            "The Spirit rested upon the entire community, first, in the very way they had asked, so that they 'spake the word with boldness'; next, in melting down all selfishness, and absorbing even the feeling of individuality in an intense and glowing realization of Christian unity.",
+            "The community of goods was but an outward expression of this, and natural in such circumstances."
+        ],
+        "Albert Barnes": [
+            "They parted with whatever property was needful to supply the needs of their poor brethren.",
+            "This was an eminent and instructive instance of Christian liberality, and of the power of the gospel in overcoming one of the strongest passions that ever exist in the human bosom - the love of money.",
+            "They felt that they were members of one family, and they therefore imparted their property cheerfully to their brethren."
+        ],
+        "John Calvin": [
+            "And assuredly it is to be thought that there were many which did not diminish their possessions...",
+            "...they were so liberal, that they spared not their lands.",
+            "Love made that common to the poor and needy which was proper to every man; such is the unnaturalness of some men now, that they cannot abide that the poor should dwell upon the earth, that they should have the use of water, air, and heaven."
+        ],
+        "Archibald T. Robertson": [
+            "Selling they brought from time to time, as there was occasion by reason of need.\" ",
+            "Hence the wants were kept supplied.",
+            "Repetition, of \u03c4\u03b9\u03b8\u03b7\u03bc, late omega form for the usual \u03b5\u03c4\u03b9\u03b8\u03b5\u03c3\u03b1\u03bd."
+        ],
+        "John Gill": [
+            "Neither was there any among them that lacked.",
+            "This flowed from the grace of God bestowed upon them.",
+            "Sold them and brought the prices of the things that were sold."
+        ],
+        "John Wesley": [
+            "For neither was there any one among them that wanted \u2014 We may observe, this is added as the proof that great grace was upon them all.",
+            "And it was the immediate, necessary consequence of it: yea, and must be to the end of the world.",
+            "For whosoever were possessors of houses and lands sold them \u2014 Not that there was any particular command for this; but there was great grace and great love: of which this was the natural fruit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers in Acts 4:34 demonstrated the proof of God's grace working in them by generously sharing their possessions with the poor. The process of selling their goods continued, ensuring that there was no lack among them. The Spirit's presence among them was evident, as seen through the unity and selflessness displayed by the community. This act of communal living was a result of their intense realization of Christian unity. It was a powerful expression of Christian liberality, overcoming the love of money and demonstrating the power of the gospel. Their love for one another made them willing to part with their possessions to supply the needs of their brethren. This selflessness was a reflection of the grace bestowed upon them, and it serves as an ongoing example for believers throughout history.",
+            "wordCount": 133,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.638124421748502,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+            "commentatorTierSimilarities": [
+                27.8,
+                46.86,
+                25.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The believers in the early church exemplified God's grace by distributing their possessions to the poor. This act of selling their goods was an ongoing process, ensuring the needs of the community were met. By doing so, they demonstrated Christian unity and overcame the love of money, which showcased the transformative power of the gospel. Their selfless generosity reflected the grace bestowed upon them, inspiring others to follow their example throughout history.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.5931131146011155,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+            "commentatorTierSimilarities": [
+                31.07,
+                44.01,
+                24.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers in Acts 4:34 showcased the working of God's grace through their generous distribution of goods to the poor. Their ongoing process of selling possessions served the needs of the community, ensuring that no one lacked. The Spirit's presence brought unity and selflessness among them, reflecting a strong realization of Christian unity. This communal living expressed the grace bestowed upon them, serving as a powerful example of Christian liberality. Their love for one another led them to willingly share their possessions, overcoming the love of money and exemplifying the transformative power of the gospel.",
+            "wordCount": 96,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.5974531790631037,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.46,
+            "commentatorTierSimilarities": [
+                27.66,
+                47.33,
+                25.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers in Acts demonstrated God's grace by imparting their goods to the poor, a tangible proof of their faith. The selling of possessions was an ongoing process that met the needs of the community, ensuring that no one lacked. This act of communal living exemplified their intense realization of Christian unity, driven by the Spirit's presence among them. Their selflessness and generosity overcame the love of money, revealing the transformative power of the gospel and inspiring others to follow their example throughout history.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.567164542411152,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.45,
+            "commentatorTierSimilarities": [
+                30.48,
+                46.28,
+                23.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers in Acts exemplified God's grace by distributing goods to the poor, showing that they were united as one family. Their ongoing process of selling possessions ensured that no one lacked anything they needed. The Spirit's presence among them led to an intense realization of Christian unity and selflessness. This act of communal living showcased the transformative power of the gospel, as they overcame the love of money and generously shared their possessions. Their selflessness demonstrated the grace bestowed upon them, inspiring others to follow their example.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.6244210680051885,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                26.99,
+                45.99,
+                27.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

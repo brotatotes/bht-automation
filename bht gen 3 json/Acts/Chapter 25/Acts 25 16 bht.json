@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:36:17",
+    "verseRef": "Acts 25:16",
+    "bestBHT": {
+        "bht": "The Romans abide by the noble practice of not delivering a person to their enemies or imposing a death sentence without first hearing their case and granting them the opportunity to face their accusers. This essential rule ensures fairness and justice, preventing individuals from being condemned unfairly. Such a principle, which is common to all nations except for courts of inquisition, should guide our actions in both public and private life, always upholding the principles of justice and due process.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.4979849992740415,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+        "commentatorTierSimilarities": [
+            6.14,
+            48.38,
+            45.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to give up...to his enemies, and for destruction.",
+            "On the practice of the Romans, here nobly and truly alleged.",
+            "several citations occur in Grotius and Wetstein."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16-21. to deliver any man to die\u2014On",
+            "\tthe word \"deliver up,\" see on :-."
+        ],
+        "Albert Barnes": [
+            "It is not their custom to condemn men before they are heard.",
+            "A defendant is not to be prohibited from adducing all things by which his innocence may be established.",
+            "Nothing contributes more to justice than this. Tyrants permit people to be accused without knowing who the accusers are, and without an opportunity of meeting the charges."
+        ],
+        "Marvin Vincent": [
+            "Opportunity [\u03c4\u03bf\u03c0\u03bf\u03bd] . Lit., place. An unclassical use of the word."
+        ],
+        "Philip Schaff": [
+            "It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.",
+            "The Jews had asked (Acts 25:3) only that the accused might be brought to Jerusalem, intending, as we know, to murder him on the way by the hands of a company of hired Sicarii (assassins) whom they had hired for this purpose.",
+            "The proud assertion which the Roman here makes to Agrippa, as far as we know, was justified in Festus case, who was reported to have been a fair ruler and a just judge."
+        ],
+        "Archibald T. Robertson": [
+            "There is a touch of disdain in the tone of Festus.",
+            "This use of the optative in this temporal clause with \u03c0\u03c1\u03b9\u03bd \u03b7 instead of the subjunctive \u03b1\u03bd \u03b5\u03c7\u03b7 is in conformity with literary Greek and occurs only in Luke's writings in the N.T.",
+            "This all sounds fair enough."
+        ],
+        "John Gill": [
+            "It is not the manner of the Romans to deliver any man to die; or to give any man to destruction; to pass sentence of death upon him, without hearing his cause, and purely at the request of another, and merely to gratify him.",
+            "Before that he which is accused have the accusers face to face; so as to speak to his face, or before him, what they have to charge him with.",
+            "It is one of the Jewish canons, that it is unlawful for a judge to hear one of the contending parties, before the other is come in."
+        ],
+        "John Wesley": [
+            "How excellent a rule, to condemn no one unheard!",
+            "A rule, which as it is common to all nations, (courts of inquisition only excepted,)",
+            "it ought to direct our proceedings in all affairs, not only in public, but private life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is not the practice of the Romans to deliver any man to his enemies or pass sentence of death upon him without first hearing his case and allowing him to face his accusers. This rule ensures justice and fairness, as no one should be condemned unheard. The Romans maintain this standard, unlike tyrants who accuse people without giving them the opportunity to defend themselves or knowing who the accusers are. This principle, which extends to all nations except for courts of inquisition, should guide our actions in both public and private life, as it upholds the fundamental principles of justice.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.6297612906653303,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+            "commentatorTierSimilarities": [
+                9.38,
+                48.48,
+                42.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Romans abide by the noble practice of not delivering a person to their enemies or imposing a death sentence without first hearing their case and granting them the opportunity to face their accusers. This essential rule ensures fairness and justice, preventing individuals from being condemned unfairly. Such a principle, which is common to all nations except for courts of inquisition, should guide our actions in both public and private life, always upholding the principles of justice and due process.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.4979849992740415,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+            "commentatorTierSimilarities": [
+                6.14,
+                48.38,
+                45.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Romans, in adherence to their customary practice, refrain from delivering individuals to their enemies or allowing for their destruction without first giving them the chance to be heard and granting them the right to face their accusers. This fair and just procedure safeguards against condemning someone unheard, an important principle shared by all nations, except for courts of inquisition. This standard ought to guide our actions, both in public and private spheres, promoting justice and upholding the rights of individuals.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.4492449327965358,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.53,
+            "commentatorTierSimilarities": [
+                6.5,
+                44.21,
+                49.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Romans have a commendable practice of not delivering individuals to their enemies or sentencing them to destruction without first giving them the opportunity to be heard and defend themselves. This principle of fairness and justice ensures that no one is condemned without a proper hearing. It is a widely accepted rule, shared by most nations, that no one should be judged before their accusers have the chance to present their case. This important principle should guide our actions in both public and private life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.433275954462215,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.0,
+            "commentatorTierSimilarities": [
+                6.75,
+                45.87,
+                47.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Romans, unlike tyrants, adhere to a practice of not delivering anyone to their enemies or condemning them without first granting them a fair hearing. This principle ensures justice and fairness, as individuals should not be condemned unheard. It is a widely accepted rule that no one should be judged before having the opportunity to face their accusers. This crucial principle, shared by many nations, should guide our actions in both public and private spheres, promoting justice and upholding fundamental rights.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.493899001846453,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.01,
+            "commentatorTierSimilarities": [
+                6.5,
+                48.74,
+                44.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

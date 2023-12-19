@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:16:49",
+    "verseRef": "Luke 8:42",
+    "bestBHT": {
+        "bht": "A man named Jairus, referred to affectionately as Mark's diminutive, sought out Jesus desperately. Unaware of the tragic news to come, he narrates events concisely. The crowd followed Jesus, eager to witness what would unfold. Among them was a father whose only daughter lay dying, her life slipping away. Jesus pressed on through the throngs, feeling the weight of the suffocating crowd. Despite the chaos, Jesus was determined to reach out and offer his healing touch to this desperate father and his dying daughter.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.1097420993016818,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.24,
+        "commentatorTierSimilarities": [
+            46.14,
+            0.0,
+            53.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The affectionate diminutive of Mark.",
+            "He is not aware of the subsequent message to Jairus, and narrates concisely and generally.",
+            "The crowd seems to have followed to see what would happen at Jairus's house."
+        ],
+        "Marvin Vincent": [
+            "Thronged [\u03c3\u03c5\u03bd\u03b5\u03c0\u03bd\u03b9\u03b3\u03bf\u03bd] . With the idea of pressing together [\u03c3\u03c5\u03bd] upon him : stifling. The simple verb is that rendered choke, as in vv. 8, 33."
+        ],
+        "Archibald T. Robertson": [
+            "An only daughter (\u03b8\u03c5\u03b3\u03b1\u03c4\u03b7\u03c1 \u03bc\u03bf\u03bd\u03bf\u03b3\u03b5\u03bd\u03b7\u03c2).",
+            "She lay a dying (\u03b1\u03c0\u03b5\u03b8\u03bd\u03b7\u03c3\u03ba\u03b5\u03bd).",
+            "Thronged (\u03c3\u03c5\u03bd\u03b5\u03c0\u03bd\u03b9\u03b3\u03bf\u03bd)."
+        ],
+        "John Gill": [
+            "And she lay a dying, or 'was near death', as the Syriac and Persic versions; or 'was just ready to die', as the Ethiopic version.",
+            "The Vulgate Latin and Arabic versions render it, 'she was dead', or 'now dead', and which agrees with Matthew 9:18.",
+            "The people thronged him; such a vast multitude followed him to see the cure, that he was even crowded, and so pressed on all sides, that it was difficult to walk along."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A desperate father sought out Jesus, unaware of the tragic news to come. Throngs of people, curious to witness what would unfold at Jairus's house, pressed upon Jesus as he made his way forward. Among those in need was a man who spoke of his only daughter, a phrase that conveys both endearment and a sense of great loss. This young girl lay dying, her life hanging by a thread, and her father's heart surely weighed heavy with anguish. In the midst of this chaos, Jesus pushed on, determined to offer his healing touch.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.0914786108252814,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.64,
+            "commentatorTierSimilarities": [
+                45.72,
+                0.0,
+                54.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A man named Jairus, referred to affectionately as Mark's diminutive, sought out Jesus desperately. Unaware of the tragic news to come, he narrates events concisely. The crowd followed Jesus, eager to witness what would unfold. Among them was a father whose only daughter lay dying, her life slipping away. Jesus pressed on through the throngs, feeling the weight of the suffocating crowd. Despite the chaos, Jesus was determined to reach out and offer his healing touch to this desperate father and his dying daughter.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.1097420993016818,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.24,
+            "commentatorTierSimilarities": [
+                46.14,
+                0.0,
+                53.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A grieving father, identified as Jairus, urgently approached Jesus. Unaware of what would later transpire, Jairus briefly recounted his story. The crowds surrounding Jesus were eager to witness the outcome at Jairus's house. Among them, a man shared the heartbreaking news of his only daughter teetering on the edge of death. The pressing and stifling crowd made it difficult for Jesus to move forward. However, undeterred, Jesus persevered, intent on bringing healing and hope to this desperate situation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 0.9640807594578883,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.4,
+            "commentatorTierSimilarities": [
+                43.16,
+                0.0,
+                56.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Throngs of people gathered around Jesus as he walked, pressing upon him and stifling his movement. In this chaotic scene, a distraught father named Jairus approached Jesus urgently, unaware of the subsequent events. Jairus, affectionately referred to in Mark's account, had a dying daughter who hovered on the brink of death. The crowd in tow followed Jesus, eager to witness the unfolding of events at Jairus's house. Despite the suffocating environment, Jesus pressed through, determined to bring healing to this desperate situation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.094813276549675,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.75,
+            "commentatorTierSimilarities": [
+                44.57,
+                0.0,
+                55.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of a dense crowd, Jairus, an anguished father, sought out Jesus urgently. Unaware of the message to come, he concisely narrated his plea. The masses surrounding Jesus were filled with curiosity and followed closely to see what would unfold at Jairus's house. Within this chaotic scene, Jairus shared the devastating news of his only daughter who lay dying. Despite the overwhelming press of the crowd, Jesus remained steadfast, determined to bring healing to this desperate situation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.0763502990999627,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.13,
+            "commentatorTierSimilarities": [
+                45.51,
+                0.0,
+                54.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

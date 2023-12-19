@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:33:12",
+    "verseRef": "Ephesians 5:10",
+    "bestBHT": {
+        "bht": "The Christian's journey is a continuous process of testing and investigating the will of God, discerning what pleases Him. By accurately and diligently studying and practicing His Word, believers seek to prove what is acceptable to the Lord. Living as children of light, they manifest what is pleasing to God and demonstrate their understanding of His will. Through the guidance of the Holy Spirit, believers seek to please Christ and make Him the Lord of their conscience, relying on Scripture as the rule of faith and practice.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.2302054026323437,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.49,
+        "commentatorTierSimilarities": [
+            27.82,
+            31.75,
+            40.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Christian\u2019s whole course is a continual proving, testing, of the will of God in practice: investigating not what pleases himself, but what pleases Him.",
+            "Proving what is well pleasing unto the Lord.",
+            "Investigating not what pleases himself, but what pleases Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As we prove a coin by the eye and the ear, and by using it, so by accurate and continued study, and above all by practice and experimental trial, we may prove or test 'what is acceptable unto the Lord.'",
+            "This is the office of 'light,' of which believers are 'children,' to manifest what each thing is, whether sightly or unsightly.",
+            "Believers are called to accurately discern and test what is pleasing to the Lord through diligent study, practical application, and experimental trial."
+        ],
+        "Albert Barnes": [
+            "Walk as children of light Ephesians 5:8, thus showing what is acceptable to the Lord.",
+            "The meaning is, that by so living you will make a fair trial of what is acceptable to the Lord.",
+            "By this course they would show that they discerned and approved of what was acceptable to the Lord."
+        ],
+        "Marvin Vincent": [
+            "Proving, see on 1 Peter 1:7.",
+            "Acceptable [\u03b5\u03c5\u03b1\u03c1\u03b5\u03c3\u03c4\u03bf\u03bd] . Rev., better and more literally, well - pleasing.",
+            "The one point of all moral investigation is, does it please God?"
+        ],
+        "Philip Schaff": [
+            "The walk of the children of light is a continuous attempt to give a practical answer to the question, How can I please Christ?\" ",
+            "The Christian conscience is enlightened by the gospel so as to answer correctly. The greatest mistake is in failing to ask the question.",
+            "Christ is thus made the Lord of the conscience: what pleases Him is right; He becomes the God of our ethics as well as of our dogmatics."
+        ],
+        "Archibald T. Robertson": [
+            "Proving (\u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2). Testing and so proving. "
+        ],
+        "John Gill": [
+            "There are many things that are acceptable to God [...] the actions of their lives and conversations, when they are becoming the Gospel, are according to the will of God, and are done in faith, and are directed to his glory.",
+            "In order to the trial of spiritual things, it is necessary that the mind be renewed, the understanding be enlightened, the spiritual senses be in exercise, and all be under the influence and directions of the Spirit of God.",
+            "The trial is to be made, not according to human reason, which is corrupt and fallible; and besides, there are some things in revelation above it; but according to the Scriptures, which are the word of God, and the rule of faith and practice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Christian's journey is a continuous process of testing and investigating the will of God, so as to discern what pleases Him, not ourselves. This involves diligent study, practical application, and experimental trial to accurately discern what is acceptable to the Lord. By living as children of light, believers are able to manifest what is pleasing to God and demonstrate their understanding and approval of His will. Ultimately, the aim is to please Christ and make Him the Lord of our conscience. This requires a renewed mind, an enlightened understanding, and the guidance of the Holy Spirit, as we rely on Scripture as our guide for testing and discerning spiritual truths.",
+            "wordCount": 112,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 2.083484685011043,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                26.23,
+                32.21,
+                41.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Christian's journey is a continual investigation of the will of God, testing and proving what is pleasing to Him. Believers are called to discern what pleases the Lord through diligent study, practical application, and experimental trial. By living as children of light, they manifest what is acceptable to God and demonstrate their understanding and approval of His will. This requires a renewed mind, an enlightened understanding, and reliance on Scripture as the rule of faith and practice. The goal is to please Christ and make Him the Lord of our conscience.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.1241811128380634,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.97,
+            "commentatorTierSimilarities": [
+                27.74,
+                32.06,
+                40.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Christian's journey is a continuous process of testing and investigating the will of God, discerning what pleases Him. By accurately and diligently studying and practicing His Word, believers seek to prove what is acceptable to the Lord. Living as children of light, they manifest what is pleasing to God and demonstrate their understanding of His will. Through the guidance of the Holy Spirit, believers seek to please Christ and make Him the Lord of their conscience, relying on Scripture as the rule of faith and practice.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.2302054026323437,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.49,
+            "commentatorTierSimilarities": [
+                27.82,
+                31.75,
+                40.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Christian's journey involves continually testing and investigating the will of God to discern what pleases Him. This includes diligent study, practical application, and experimental trial to prove what is acceptable to the Lord. As children of light, believers are called to manifest what is pleasing to God, demonstrating their understanding and approval of His will. Through the guidance of the Holy Spirit and reliance on Scripture, they seek to make Christ the Lord of their conscience, pleasing Him in all they do.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.1461915812077197,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.7,
+            "commentatorTierSimilarities": [
+                29.96,
+                32.08,
+                37.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Christian's journey is one of continuous testing and investigation, discerning what pleases God by studying and practically applying His Word. By living as children of light, believers demonstrate what is acceptable to the Lord, proving their understanding and approval of His will. This requires a renewed mind, an enlightened understanding, and reliance on the Scriptures as the standard of faith and practice. Ultimately, the goal is to please Christ and acknowledge His authority over our conscience, aligning our actions with His desires.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.044417598757046,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.32,
+            "commentatorTierSimilarities": [
+                25.26,
+                31.13,
+                43.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

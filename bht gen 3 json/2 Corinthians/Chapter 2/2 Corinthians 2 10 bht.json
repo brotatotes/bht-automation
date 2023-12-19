@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:15:15",
+    "verseRef": "2 Corinthians 2:10",
+    "bestBHT": {
+        "bht": "For even what I have forgiven, if I have forgiven anything, it is for your sakes that I have done so. In the presence of Christ, I forgive, not only for the sake of the offender, but for the wellbeing and purity of the church. By forgiving in the name of our Lord Jesus Christ, I emphasize the sincerity and authority of my forgiveness, and I trust that you, as a Christian society, will also forgive.",
+        "wordCount": 76,
+        "quoteTokenProportion": 59.18,
+        "qualityScore": 2.2493937464241656,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.13,
+        "commentatorTierSimilarities": [
+            27.2,
+            38.16,
+            34.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For even what I have forgiven, if I have forgiven anything.",
+            "It is for your sakes I have forgiven, and do forgive, that the Church may suffer no hurt by the loss of a soul, and that ye may learn leniency as well as faithfulness.",
+            "In the name of our Lord Jesus Christ . . . my spirit, with the power of our Lord Jesus Christ."
+        ],
+        "Albert Barnes": [
+            "I have confidence in you as a Christian society and such confidence, that if you forgive an offence in one of your members, I shall approve the act, and shall also be ready to forgive.",
+            "If I forgive anything; if I remit any of the punishments which have been inflicted by my authority.",
+            "It is not on account of the offender alone; it is in order to promote the happiness and purity of the church."
+        ],
+        "Marvin Vincent": [
+            "In the person [\u03b5\u03bd \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03c9] . Better, as Rev., in margin, presence; or face, as if Christ were looking on. See on ch. 2 Corinthians 1:11."
+        ],
+        "John Calvin": [
+            "Do not hesitate to forgive: I promise that I shall confirm whatever you may have done, and I already subscribe your sentence of forgiveness.",
+            "He grants this willingly to the Corinthians.",
+            "For he is accustomed to employ this phrase to express pure and undisguised rectitude."
+        ],
+        "Philip Schaff": [
+            "As your excommunication, in my absence, yet by my instructions, was mine, so will your restoration be.",
+            "For what I also have forgiven, if I have forgiven any thing, for your sakes have I forgiven it in the person (Gr. 'the presence') of Christ as though it were the act of Christ Himself, present in the midst of vou.",
+            "No stronger claim to apostolic authority in the highest sense could be advanced."
+        ],
+        "Archibald T. Robertson": [
+            "In the person of Christ (\u03b5\u03bd \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03c9 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5). More exactly, \"in the presence of Christ,\" before Christ, in the face of Christ. Cf. \u03b5\u03bd\u03c9\u03c0\u03b9\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5 (2 Corinthians 4:2) in the eye of God, \u03b5\u03bd\u03c9\u03c0\u03b9\u03bf\u03bd \u039a\u03c5\u03c1\u03b9\u03bf\u03c5 (2 Corinthians 8:21). "
+        ],
+        "John Gill": [
+            "Whenever I have forgiven any offender, as I now do forgive this man, I always do it for your sake.",
+            "What I do of this kind, I do it in the person of Christ; in his sight and presence, who knows that what I do this way, I do it sincerely, and with my whole heart and soul.",
+            "Since I forgive this man for your sakes, and in the name of Christ, you ought to do so likewise."
+        ],
+        "John Wesley": [
+            "To whom ye forgive \u2014 He makes no question of their complying with his direction.",
+            "Anything \u2014 So mildly does he speak even of that heinous sin, after it was repented of.",
+            "In the person of Christ \u2014 By the authority wherewith he has invested me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of addressing an offense within the Corinthian church, the apostle Paul emphasizes the significance of forgiveness. He assures the Corinthians that the act of forgiveness is not solely for the benefit of the offender, but also for the well-being and purity of the church as a whole. Paul declares that when he forgives, it is as though Christ Himself is present, looking on with His divine authority. This highlights the weightiness of forgiveness and the authority Paul possesses as an apostle. Paul urges the Corinthians to follow suit, emphasizing that their forgiveness should align with his directive and be done in the name of Christ.",
+            "wordCount": 109,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 2.03277264685166,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.93,
+            "commentatorTierSimilarities": [
+                33.65,
+                33.5,
+                32.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of addressing an offense within the Corinthian church, the apostle Paul underscores the significance of forgiveness. He assures the Corinthians that when he forgives, it is as though Christ Himself is present, looking on with His divine authority. This highlights the weightiness of forgiveness and the authority Paul possesses as an apostle. Paul urges the Corinthians to follow suit, emphasizing that their forgiveness should align with his directive and be done in the name of Christ for the well-being and purity of the church.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 2.066473658972746,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.05,
+            "commentatorTierSimilarities": [
+                35.13,
+                32.63,
+                32.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In addressing an offense within the Corinthian church, Paul emphasizes the significance of forgiveness. He assures the Corinthians that when he forgives, it is as though Christ Himself is present, looking on with divine authority. This highlights the weightiness of forgiveness and Paul's apostolic authority. He urges the Corinthians to follow suit, emphasizing that their forgiveness should align with his directive and be done in the name of Christ for the well-being and purity of the church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.022341414046415,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.58,
+            "commentatorTierSimilarities": [
+                33.67,
+                33.72,
+                32.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For even what I have forgiven, if I have forgiven anything, it is for your sakes that I have done so. In the presence of Christ, I forgive, not only for the sake of the offender, but for the wellbeing and purity of the church. By forgiving in the name of our Lord Jesus Christ, I emphasize the sincerity and authority of my forgiveness, and I trust that you, as a Christian society, will also forgive. Ultimately, this act of forgiveness showcases not only my apostolic authority, but also the leniency and faithfulness that you should embody.",
+            "wordCount": 97,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 2.1901935267951185,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.16,
+            "commentatorTierSimilarities": [
+                26.89,
+                39.28,
+                33.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For even what I have forgiven, if I have forgiven anything, it is for your sakes that I have done so. In the presence of Christ, I forgive, not only for the sake of the offender, but for the wellbeing and purity of the church. By forgiving in the name of our Lord Jesus Christ, I emphasize the sincerity and authority of my forgiveness, and I trust that you, as a Christian society, will also forgive.",
+            "wordCount": 76,
+            "quoteTokenProportion": 59.18,
+            "qualityScore": 2.2493937464241656,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.13,
+            "commentatorTierSimilarities": [
+                27.2,
+                38.16,
+                34.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

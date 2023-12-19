@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:15:03",
+    "verseRef": "Luke 4:39",
+    "bestBHT": {
+        "bht": "In the role of a kind and sympathetic physician, Jesus stood over the woman and rebuked the fever. Just as he commanded the wind and waves, Jesus used his authority to make the fever leave immediately. The woman's healing was miraculous and complete, as she arose immediately despite the weakness that often follows a long high fever. Without hesitation, she began to minister to others, showcasing the instantaneous and transformative power of Jesus' healing touch.",
+        "wordCount": 76,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.5450394963088987,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.72,
+        "commentatorTierSimilarities": [
+            54.09,
+            0.0,
+            45.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He stood over her. As a physician might do. Peculiar to Luke. ",
+            "Rebuked. Peculiar to Luke."
+        ],
+        "John Calvin": [
+            "Fevers and other diseases, famine, pestilence, and calamities of every description, are God\u2019s heralds, by whom he executes his judgments.",
+            "Now, as he is said to send such messengers by his command and pleasure, so he also restrains and recalls them whenever he pleases.",
+            "But I interpret Christ\u2019s laying hands on the sick, as meaning simply, that he recommended them to the Father, and thus obtained for them grace and deliverance from their diseases."
+        ],
+        "Archibald T. Robertson": [
+            "Surely we are not to take Luke to mean that Jesus here took the exorcist's position and was rebuking a malignant personality. The attitude of Jesus is precisely that of any kindly sympathetic physician.",
+            "Jesus bade the fever leave her as he spoke to the wind and the waves and Luke uses this same verb.",
+            "She rose up immediately, though a long high fever usually leaves one very weak. The cure was instantaneous and complete. She began to minister at once and kept it up."
+        ],
+        "John Gill": [
+            "And he stood over her,.... 'At her head', as the Persic version reads: he inclined himself towards her, to see how she did, and to take her by the hand, and lift her up;\".",
+            "And it left her, as Mark says, 'immediately'; as soon as ever he had touched her hand, and rebuked the fever, and bid it be gone:\".",
+            "And immediately she arose, and ministered unto them;\"."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As a physician would, Jesus stood over the woman and rebuked the fever. This is not to suggest that Jesus was rebuking a malignant personality, but rather his attitude towards the woman was that of a kind and sympathetic physician. Just as Jesus spoke to the wind and the waves, he commanded the fever to leave the woman, and it did so immediately. The cure was not only instantaneous, but also complete. Despite experiencing a long and high fever, the woman rose up immediately and began to minister to those around her.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.484095748049092,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.69,
+            "commentatorTierSimilarities": [
+                60.38,
+                0.0,
+                39.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus approached the woman with the care of a physician, standing over her and rebuking the fever. He demonstrated his authority over illnesses, just as he did with the wind and waves. The fever obeyed his command and left her immediately. This miraculous cure was both instantaneous and thorough, as the woman rose up immediately and began to serve others. Despite the weakness that often accompanies a long-standing fever, the woman's restoration was complete.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.3218271755294824,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.29,
+            "commentatorTierSimilarities": [
+                48.21,
+                0.0,
+                51.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a manner befitting a compassionate physician, Jesus stood over the woman and rebuked the fever. It is important to note that Jesus wasn't reproaching an evil presence, but rather displaying his kind and sympathetic approach. Just as he commanded the wind and waves, Jesus ordered the fever to depart from the woman, and it did so instantly. The healing was remarkable, as she arose immediately and began serving others without any signs of weakness. This swift and complete restoration is a testament to Jesus' power and authority.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.3261803562608612,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.44,
+            "commentatorTierSimilarities": [
+                55.04,
+                0.0,
+                44.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in the role of a compassionate physician, stood over the woman and directed the fever to leave. This act of rebuking demonstrated his authority over not only illnesses but also the natural elements. Instantly, and without delay, the woman's recovery was evident as she arose and immediately began ministering to those around her. Her immediate and complete restoration reveals Jesus' power to heal and restore, showcasing his divine authority in bringing about miraculous transformations.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.2486405531840972,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.86,
+            "commentatorTierSimilarities": [
+                48.85,
+                0.0,
+                51.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the role of a kind and sympathetic physician, Jesus stood over the woman and rebuked the fever. Just as he commanded the wind and waves, Jesus used his authority to make the fever leave immediately. The woman's healing was miraculous and complete, as she arose immediately despite the weakness that often follows a long high fever. Without hesitation, she began to minister to others, showcasing the instantaneous and transformative power of Jesus' healing touch.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.5450394963088987,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.72,
+            "commentatorTierSimilarities": [
+                54.09,
+                0.0,
+                45.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

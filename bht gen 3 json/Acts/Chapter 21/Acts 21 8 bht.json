@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:34:43",
+    "verseRef": "Acts 21:8",
+    "bestBHT": {
+        "bht": "Philip the evangelist, who previously preached in Samaria and baptized the Ethiopian eunuch, was a missionary fulfilling the role of an evangelist. His ministry involved preaching Christ to those who had never heard the gospel before, delivering the message of the Holy Gospels. Being called an evangelist indicated his commission to proclaim the good news. Philip's encounter with Paul marked their first meeting after twenty-five years. In Caesarea, Philip hosted Paul and his company during their stay, highlighting the role of an evangelist as a preacher of the Gospel to those who have not yet heard it.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.0953554423941076,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.01,
+        "commentatorTierSimilarities": [
+            31.11,
+            34.4,
+            34.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The office of Evangelist... seems to have answered very much to our missionary.",
+            "They fulfilled the work of Evangelists, making it their business to preach Christ to those who had never yet heard the word of the faith, and to deliver to them the record of the Holy Gospels.",
+            "The fact of Philip being settled at C\u00e6sarea, and known as the Evangelist, seems decisive against regarding the occurrence of ch. vi. 8 ff. as the establishment of any permanent order in the church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Philip the evangelist\u2014a term answering apparently very much to our missionary.\" ",
+            "By whose ministry such joy had been diffused over Samaria and the Ethiopian eunuch had been baptized.",
+            "He and Paul now meet for the first time, some twenty-five years after that time."
+        ],
+        "Albert Barnes": [
+            "It is evident, however, that it is used to denote the office of preaching the gospel.",
+            "...it would seem probable that he had been entrusted with a special commission to preach.",
+            "The office of preaching was distinct from this, though, as in this case, it might be conferred on the same individual."
+        ],
+        "Marvin Vincent": [
+            "We that were of Paul 's company. The best texts omit. ",
+            "Philip. See ch. 8. ",
+            "The seven. The first deacons. See ch. Acts 6:5."
+        ],
+        "Philip Schaff": [
+            "The \u2018evangelists\u2019 of the early church are thus described by Eusebius ( H. E., iii. 37): \u2018After laying the foundation of the faith in foreign parts, as the peculiar object of their mission, and after appointing others as shepherds to the flock, and committing to them the care of those that had been recently introduced, they went again to other regions and nations with the grace and co-operation of God.\u2019",
+            "They were thus the missionaries of the first days, to use the words of Dr. Westcott ( Introduction to the Gospels, chap. 3): \u2018The evangelist was not the compiler of a history, but the missionary who carried the good tidings to fresh countries; the bearer and not the author of the message.",
+            "Till the end of the first century, and probably till the time of Justin Martyr (about A.D. 140), 'the Gospel,' 'Evangel,' uniformly signifies the substance and not the records of the life of Christ.'"
+        ],
+        "Archibald T. Robertson": [
+            "The word 'evangelizing' (\u03b5\u03c5\u03b7\u03b3\u03b3\u03b5\u03bb\u03b9\u03b6\u03b5\u03c4\u03bf) was used of him in Acts 8:40.",
+            "The earliest of the three N.T. examples of the word 'evangelist' (Acts 21:8; Ephesians 4:11; 2 Timothy 4:5).",
+            "The ideal minister today combines the gifts of evangelist, herald, teacher, shepherd."
+        ],
+        "John Gill": [
+            "and we entered into the house of Philip the evangelist; not a writer of a Gospel, but a preacher of the Gospel",
+            "perhaps not an ordinary one, but was one of those spoken of in Ephesians 4:11 which was an office inferior to an apostle, and yet above an ordinary pastor and teacher",
+            "this man, very likely, was the same that taught in Samaria, and baptized the eunuch, and who after that settled at Caesarea"
+        ],
+        "John Wesley": [
+            "It was the place where the Roman governor of Judea generally resided and kept his court.",
+            "An evangelist is a preacher of the Gospel to those who had never heard it.",
+            "We lodged at his house during our stay at Cesarea."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Philip the evangelist, known for his ministry in Samaria and baptizing the Ethiopian eunuch, was a missionary who preached Christ to those who had never heard the gospel before. He fulfilled the office of an evangelist, which was distinct from the permanent order of the church. The term evangelist was used to describe those who carried the good tidings of the Gospel to new regions and nations, laying the foundation of faith in foreign parts. Philip the evangelist hosted Paul and his company in his house during their stay in Caesarea. An evangelist is a preacher of the Gospel to those who have not yet heard it.",
+            "wordCount": 107,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1291154100220786,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                28.73,
+                34.33,
+                36.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Philip the evangelist, who previously preached in Samaria and baptized the Ethiopian eunuch, was a missionary fulfilling the role of an evangelist. His ministry involved preaching Christ to those who had never heard the gospel before, delivering the message of the Holy Gospels. Being called an evangelist indicated his commission to proclaim the good news. Philip's encounter with Paul marked their first meeting after twenty-five years. In Caesarea, Philip hosted Paul and his company during their stay, highlighting the role of an evangelist as a preacher of the Gospel to those who have not yet heard it.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.0953554423941076,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.01,
+            "commentatorTierSimilarities": [
+                31.11,
+                34.4,
+                34.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Philip the evangelist, known for his ministry in Samaria and baptizing the Ethiopian eunuch, was a missionary fulfilling the role of an evangelist. His ministry involved preaching Christ to those who had never heard the gospel before, delivering the message of the Holy Gospels. The term evangelist was used to describe those who carried the good tidings of the Gospel to new regions and nations, laying the foundation of faith. Philip's encounter with Paul marked their first meeting after twenty-five years. In Caesarea, Philip hosted Paul and his company during their stay, highlighting the role of an evangelist as a preacher of the Gospel to those who have not yet heard it.",
+            "wordCount": 114,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.11858177393608,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.78,
+            "commentatorTierSimilarities": [
+                30.67,
+                36.09,
+                33.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Philip the evangelist, who preached in Samaria and baptized the Ethiopian eunuch, fulfilled the role of an evangelist by delivering the word of faith to those who had not yet heard the gospel. The term evangelist was used to describe missionaries who spread the good news to new regions and nations, cooperating with God's grace. Philip's encounter with Paul in Caesarea marked their first meeting in twenty-five years, as he hosted Paul and his company during their stay. This highlights the evangelist's mission as a preacher to the unreached.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.99486307672568,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                32.13,
+                34.38,
+                33.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Philip the evangelist, known for his ministry in Samaria and baptizing the Ethiopian eunuch, fulfilled the role of a missionary evangelist. He preached Christ to those who had not yet heard the word of faith, delivering the message of the Holy Gospels. The term evangelist referred to those who carried the good tidings of the Gospel to new regions, laying the foundation of faith. Philip's encounter with Paul in Caesarea marked their first meeting, as he hosted Paul and his company during their stay. This highlights the evangelist's role as a preacher to the unreached.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.0321270886128837,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+            "commentatorTierSimilarities": [
+                32.55,
+                34.25,
+                33.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

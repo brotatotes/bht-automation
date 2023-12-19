@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:15:26",
+    "verseRef": "Luke 5:38",
+    "bestBHT": {
+        "bht": "The act of putting the new wine must be done, signifying the necessity of receiving and containing the renewal brought about by God's grace. Believers are filled with joy and comfort as the grace within them serves as a wellspring of eternal life. Those who follow Christ are reminded of the transformative power of God's grace and are called to be receptive and preserve this grace in their lives.",
+        "wordCount": 71,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.0502284259598673,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.26,
+        "commentatorTierSimilarities": [
+            18.91,
+            0.0,
+            81.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Must be put.\" ",
+            "This is the impersonal use and is transitive in sense here and governs the accusative 'new wine.'\" ",
+            "The agent is not expressed."
+        ],
+        "John Gill": [
+            "Such as the disciples of Christ were, and sinners called to repentance are, who are renewed by the Spirit and grace of God: and these are filled with spiritual joy and comfort, as with new wine...\" ",
+            "These renewed ones, who are preserved unto the kingdom and glory of Christ...\" ",
+            "The grace that is put into them, which is a well of living water, springing up to everlasting life..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse implies that the act of putting the new wine in fresh wineskins is necessary. This means that the new wine, which represents the renewal brought about by the Spirit and grace of God, must be received and contained within the lives of believers. These believers are filled with joy and comfort, and this grace within them is a source of eternal life. The emphasis is on the transformative power of God's grace and the need for receptivity and preservation in the lives of those who follow Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.0896465801207218,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.57,
+            "commentatorTierSimilarities": [
+                25.1,
+                0.0,
+                74.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The act of putting the new wine into fresh wineskins is necessary, emphasizing the transformative power of God's grace. Believers are filled with joy and comfort as the grace within them is a source of eternal life. The renewal brought about by the Spirit and grace of God must be received and contained within their lives, highlighting the need for receptivity and preservation.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 0.9334398348002648,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.38,
+            "commentatorTierSimilarities": [
+                18.61,
+                0.0,
+                81.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The act of putting the new wine must be done, signifying the necessity of receiving and containing the renewal brought about by God's grace. Believers are filled with joy and comfort as the grace within them serves as a wellspring of eternal life. Those who follow Christ are reminded of the transformative power of God's grace and are called to be receptive and preserve this grace in their lives.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.0502284259598673,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.26,
+            "commentatorTierSimilarities": [
+                18.91,
+                0.0,
+                81.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The necessity of putting the new wine is emphasized, illustrating the importance of receiving the renewal brought about by God's grace. Believers, filled with joy and comfort, embody the transformative power of God's grace, which serves as a wellspring of eternal life. This renewal is received by those who follow Christ, reminding them to be receptive and preserve the grace within them.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 0.9060491273183182,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.47,
+            "commentatorTierSimilarities": [
+                16.83,
+                0.0,
+                83.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The act of putting the new wine signifies the necessity of receiving the renewal by God's grace. Believers, filled with joy and comfort, embody the transformative power of God's grace, which is a wellspring of eternal life. This renewal is received by those who follow Christ, reminding them to be receptive and preserve the grace within them.",
+            "wordCount": 59,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 0.9677934488285678,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.52,
+            "commentatorTierSimilarities": [
+                17.73,
+                0.0,
+                82.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

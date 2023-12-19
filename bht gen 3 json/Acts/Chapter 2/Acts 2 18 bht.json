@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:24:58",
+    "verseRef": "Acts 2:18",
+    "bestBHT": {
+        "bht": "The pouring out of the Spirit signifies that there are no distinctions or differences in God's eyes. The Spirit would empower servants and handmaids to prophesy, equipping them with the ability to declare the will of God, even among the marginalized in society. This pouring out of the Spirit highlights that God does not differentiate between people based on their positions in society.",
+        "wordCount": 64,
+        "quoteTokenProportion": 51.11,
+        "qualityScore": 1.5650900462935895,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+        "commentatorTierSimilarities": [
+            21.72,
+            40.43,
+            37.85
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Hebrew does not express the word my either time, but has, as in our English text, \u2018the servants and handmaids.\u2019",
+            "The words and they shall prophesy are not in the LXX nor in the Hebrew text."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14-21. Peter, standing up with the",
+            "\televen\u2014in advance, perhaps, of the rest."
+        ],
+        "Albert Barnes": [
+            "The influences of the Spirit would be confined to no class; they would descend on old and young, and even on servants and handmaids.",
+            "The language, therefore, will admit the construction of the Septuagint and of Peter.",
+            "In the times of the gospel, those who were brought under its influence would be remarkably endowed with ability to declare the will of God."
+        ],
+        "John Calvin": [
+            "God doth not profane his Spirit; which he should do, if he should make the stone common to the unbelieving and despisers.",
+            "It is certain that we are made the servants of God by the Spirit; and that, therefore, we are not, until such time as we have received the same; but, first, whom God hath adopted to be of his family, and whom he hath framed by his Spirit to obey him, those doth he furnish with new gifts afterward.",
+            "Only let us remember, that the Spirit is appointed for the Church properly."
+        ],
+        "Philip Schaff": [
+            "Upon even these poor suffering outcasts of society would He pour His Spirit and confer His wondrous gifts.",
+            "It is no mere slave class which is spoken of here; it is but a solemn repetition of Acts 2:17.",
+            "The Spirit was indeed to be poured on men and women, but on men and women who were true servants and handmaidens of the great Master."
+        ],
+        "John Gill": [
+            "With God there is no distinction and difference of bond or free, of rich or poor.",
+            "I will pour out, in those days, of my Spirit, and they shall prophesy.",
+            "The end and effect of the Spirit being poured down upon them."
+        ],
+        "John Wesley": [
+            "And upon my servants \u2014 On those who are literally in a state of servitude."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of a time when God's Spirit would be poured out on believers, empowering them to prophesy. This outpouring of the Spirit would not be limited to any specific group, but would be available to all, including servants and handmaids. The Spirit would equip these faithful servants with the ability to declare the will of God, even among the marginalized in society. This pouring out of the Spirit signifies that there are no distinctions or differences in God's eyes, as He sees all His servants as equal recipients of His Spirit.",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.609480214031298,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+            "commentatorTierSimilarities": [
+                18.87,
+                42.46,
+                38.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The pouring out of the Spirit mentioned here signifies that there are no distinctions or differences in God's eyes. The Spirit would empower believers to prophesy, regardless of their social status as servants and handmaids. This outpouring would enable these faithful servants to declare the will of God, highlighting that God does not differentiate between people based on their positions in society.",
+            "wordCount": 63,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.6184909885949788,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                22.65,
+                39.91,
+                37.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The pouring out of the Spirit mentioned here signifies that there are no distinctions or differences in God's eyes. The Spirit would empower believers to prophesy, even among the marginalized in society. This outpouring would enable these faithful servants to declare the will of God, highlighting that God does not differentiate between people based on their positions in society.",
+            "wordCount": 60,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.5079853186972083,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                21.51,
+                40.19,
+                38.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The pouring out of the Spirit signifies that there are no distinctions or differences in God's eyes. The Spirit would empower servants and handmaids to prophesy, equipping them with the ability to declare the will of God, even among the marginalized in society. This pouring out of the Spirit highlights that God does not differentiate between people based on their positions in society.",
+            "wordCount": 64,
+            "quoteTokenProportion": 51.11,
+            "qualityScore": 1.5650900462935895,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                21.72,
+                40.43,
+                37.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the Acts 2:18 verse, it is emphasized that the influence of the Spirit is not limited to any particular class, as even servants and handmaids will receive it. This pouring out of the Spirit upon all people, regardless of age or social status, signifies that the ability to declare God's will is not limited to a select few. It is important to note that these servants and handmaids are not mere slaves, but true servants and handmaidens of God. This verse demonstrates God's impartiality and the inclusivity of His Spirit in empowering all believers to prophesy.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.5936173895629377,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.33,
+            "commentatorTierSimilarities": [
+                18.57,
+                44.86,
+                36.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

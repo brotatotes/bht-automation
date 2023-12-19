@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:29:43",
+    "verseRef": "1 Timothy 6:20",
+    "bestBHT": {
+        "bht": "Timothy is urged to preserve the deposit of true doctrine, guarding it against the erroneous teachings that deviate from the faith. This sound teaching, received from Paul, is to be held tightly and passed on faithfully. He is warned to avoid the empty babblings that seek to elevate themselves above the simplicity of the gospel. Timothy is called to embrace genuine knowledge that supports the true Christian faith and to refrain from engaging in futile and meaningless arguments.",
+        "wordCount": 78,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.74534558221811,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+        "commentatorTierSimilarities": [
+            33.04,
+            32.54,
+            34.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The true or sound doctrine to be taught, as opposed to 'the science falsely so called,' which leads to 'error concerning the faith.'",
+            "Keep,' saith he, 'the deposit'; preserve intact and inviolate the talent of the catholic faith.",
+            "Let there be progress in religion in Christ's Church...but then let it be real progress, not a change of the faith."
+        ],
+        "Albert Barnes": [
+            "Keep that which is committed to thy trust - All that is entrusted to you, and to which reference has been particularly made in this Epistle.",
+            "Avoiding profane and vain babblings - Greek, 'Profane, empty words.'",
+            "And oppositions of science falsely so called - Religion has nothing to fear from true science."
+        ],
+        "Marvin Vincent": [
+            "It may mean either something put beside another as an addition or appendix or something put with or in the keeping of another as a trust or deposit.",
+            "The meaning here is that teaching which Timothy had received from Paul; the 'sound words' which he was to guard as a sacred trust, and communicate to others.",
+            "The word gnwsiv cannot therefore be interpreted to mean the Gnostic system; while it may properly be understood as referring to that conceit of knowledge which opposed itself to the Christian faith."
+        ],
+        "John Calvin": [
+            "He describes the high-sounding and verbose and bombastic style of those who, not content with the simplicity of the gospel, turn it into profane philosophy.",
+            "The power of the Spirit is extinguished as soon as the Doctors blow their flutes in this manner, to display their eloquence.",
+            "[Paul] pronounces that 'science' which exalts itself above the plain and humble doctrine of godliness \u2014 to be falsely called and thought a science."
+        ],
+        "Philip Schaff": [
+            "That which is committed to thy trust. The Greek has one word with the sense of \u2018deposit.\u2019 Taken by itself, it is general in its meaning, and may refer either (1) to the faith committed to him, (2) to the Church entrusted to his charge, or (3) to the spiritual gifts bestowed on him.\" ",
+            "Vain babblings. A various reading, differing only in two vowels, gives \u2018 new phrases,\u2019 but the text is preferable.",
+            "There is not much difficulty as to the \u2018 science\u2019 thus spoken of. \u2018 Knowledge,\u2019 the familiar rendering in other passages, would be far better here also. The dreamy fantastic gnosis of the Apostolic Age was as remote as possible in its character and tendencies from the \u2018science\u2019 of modern culture."
+        ],
+        "Archibald T. Robertson": [
+            "Keep (aorist of urgency) the deposit.\" ",
+            "Turning away from (\u03b5\u03ba\u03c4\u03c1\u03b5\u03c0\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2). Present middle participle of \u03b5\u03ba\u03c4\u03c1\u03b5\u03c0\u03c9.",
+            "Babblings (\u03ba\u03b5\u03bd\u03bf\u03c6\u03c9\u03bd\u03b9\u03b1\u03c2). From \u03ba\u03b5\u03bd\u03bf\u03c6\u03c9\u03bd\u03bf\u03c2, uttering emptiness."
+        ],
+        "John Gill": [
+            "That is, the Gospel, which is a rich treasure put into earthen vessels, and ought to be kept pure and uncorrupt, and faithfully dispensed, and diligently preserved.",
+            "Avoiding profane and vain babblings; about the law, and circumcision, and other things, which the false teachers insisted much on, and amused their hearers with; and which were vain, empty, useless, and unprofitable talk.",
+            "The false teachers boasted of their science and knowledge, but it was not true, solid, spiritual, and saving; it was merely notional and speculative; it was idle, empty, and useless, mere Pagan philosophy, and vain deceit, upon which they formed antitheses, or oppositions and objections to the truths of the Gospel."
+        ],
+        "John Wesley": [
+            "Keep that which is committed to thy trust.",
+            "Avoid profane empty babblings.",
+            "Knowledge falsely so called."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Timothy is urged to hold fast to the true doctrine, guarding it against the deceptive teachings that lead to a deviation from the faith. This doctrine is not to be altered or changed but preserved as a sacred trust. It is described as a deposit or an addition that Timothy received from Paul, a sound teaching that he must diligently protect and pass on to others. The term babblings refers to the empty and meaningless words that come from those who seek to elevate themselves above the simplicity of the gospel, turning it into a profane philosophy. Timothy is warned to avoid these vain and empty arguments, focusing instead on the genuine knowledge that supports the true Christian faith.",
+            "wordCount": 119,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.804859805888269,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "commentatorTierSimilarities": [
+                32.14,
+                34.18,
+                33.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Timothy is exhorted to preserve and protect the true doctrine, safeguarding it from the false teachings that deviate from the faith. This doctrine, described as a sacred trust, is like a deposit or addition that Timothy received from Paul. He is urged to hold on to it tightly and share it faithfully with others. In contrast, he is cautioned against the empty and meaningless babblings that stem from a desire to elevate oneself above the simplicity of the gospel. Timothy is instructed to steer clear of these vain arguments and instead embrace genuine knowledge that upholds the Christian faith.",
+            "wordCount": 99,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.7396445474825226,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "commentatorTierSimilarities": [
+                31.98,
+                35.1,
+                32.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Timothy is urged to guard the true doctrine, preserving it as a sacred trust against the false teachings that lead to a deviation from the faith. This doctrine, described as a deposit received from Paul, is to be held tightly and passed on faithfully. He is warned against the empty babblings that arise from a desire to elevate oneself above the simplicity of the gospel. Timothy is called to avoid these vain arguments and focus on genuine knowledge that supports the true Christian faith.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.740865468527073,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.23,
+            "commentatorTierSimilarities": [
+                31.72,
+                34.31,
+                33.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Timothy is instructed to guard the true doctrine, preserving it as a sacred trust. This sound teaching, received from Paul, is to be held tightly and shared faithfully. He is cautioned against the empty babblings that seek to elevate themselves above the simplicity of the gospel. Timothy is urged to steer clear of these vain arguments and instead focus on genuine knowledge that upholds the true Christian faith.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.6610441461603802,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.57,
+            "commentatorTierSimilarities": [
+                30.69,
+                34.22,
+                35.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Timothy is urged to preserve the deposit of true doctrine, guarding it against the erroneous teachings that deviate from the faith. This sound teaching, received from Paul, is to be held tightly and passed on faithfully. He is warned to avoid the empty babblings that seek to elevate themselves above the simplicity of the gospel. Timothy is called to embrace genuine knowledge that supports the true Christian faith and to refrain from engaging in futile and meaningless arguments.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.74534558221811,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                33.04,
+                32.54,
+                34.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

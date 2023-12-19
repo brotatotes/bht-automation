@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:30:40",
+    "verseRef": "Acts 13:14",
+    "bestBHT": {
+        "bht": "On their perilous journey to Antioch in Pisidia, Paul and Barnabas faced rugged mountain passes infested with robbers. While the physical condition of Paul may have presented challenges, he was able to preach with power, emphasizing the truth of Christ and the importance of gathering in holy assemblies. Antioch in Pisidia, though not truly located in Pisidia, was named so to distinguish it from Antioch in Syria. Founded by the Magnetes and later by Seleucus Nicator, it was a Roman colony, holding significant importance.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9222817280930347,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+        "commentatorTierSimilarities": [
+            31.86,
+            41.81,
+            26.33
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The tribes inhabiting the mountains which separate the table-land of Asia Minor from the coast, were notorious for their lawless and marauding habits.",
+            "Strabo says of Isauria, that its inhabitants were all robbers, and of the Pisidians, that, like the Cilicians, they have great practice in plundering.",
+            "ANTIOCH IN PISIDIA was founded originally by the Magnetes on the Meander, and subsequently by Seleucus Nicator; and became, under Augustus, a Roman colony."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It was a long journey, and as it lay almost entirely through rugged mountain passes, while 'rivers burst out at the base of huge cliffs, or dash down wildly through narrow ravines,' it must have been a perilous one.",
+            "The whole region was, and to this day is, infested by robbers, as ancient history and modern travels abundantly attest.",
+            "If this journey were taken in May\u2014and earlier than that the passes would have been blocked up with snow\u2014it would account for their not staying at Perga, whose hot streets are then deserted."
+        ],
+        "Albert Barnes": [
+            "Antioch was not in Pisidia, but within the limits of Phrygia; but it belonged to Pisadia, and was called Antioch of Pisidia to distinguish it from Antioch in Syria.\" ",
+            "The city was built by Seleucus, the founder of the Antioch in Syria, and was called after the name of his father, Antiochus.",
+            "Though Paul and Barnabas were on a special mission to the Gentiles, yet they availed themselves of every opportunity to offer the gospel to the Jews first."
+        ],
+        "John Calvin": [
+            "The institution of the Sabbath had another end also, that it might be a figure of the spiritual rest when as the faithful, being dead to the world and the flesh, abandon their own will, and cease from their works.",
+            "Because we have the truth hereof in Christ, whilst that being buried together with him we put off the old man; therefore the old figure is past.",
+            "But God had respect also unto the politic use, that the Jews, being free from all other cares and businesses, might keep their holy assemblies; so that the ceasing off from earthly works did give a place to their heavenly exercises."
+        ],
+        "Philip Schaff": [
+            "Antioch in Pisidia was one of the many Antiochs built by Seleucus Nicator, about 350 years before the visit of Paul and Barnabas.",
+            "It was a city of considerable importance, and a Roman colony.",
+            "Vast ruins of the once celebrated Pisidian capital were identified some forty years ago by an English traveller."
+        ],
+        "Archibald T. Robertson": [
+            "Ramsay suggests malaria that spurred them on to the hills after the desertion of John Mark.",
+            "The Pisidian Antioch was really in Phrygia, but towards Pisidia to distinguish it from Antioch on the Maeander.",
+            "But Paul was able to preach with power whatever his actual physical condition was."
+        ],
+        "John Gill": [
+            "In the third century there were martyrs of this church at Perga, which suffered under the Emperor Decius; and in the, fourth century, we read of a famous church in this place",
+            "Pisidia was a province of Asia; it had Pamphilia on the north, Lycaonia on the east, and Phrygia Pacatiana on the west",
+            "they also gave a word of exhortation to the people"
+        ],
+        "John Wesley": [
+            "Antioch in Pisidia \u2014 Different from the Antioch mentioned Acts 13:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On their journey to Antioch in Pisidia, Paul and Barnabas faced treacherous mountain passes and the threat of robbers in a lawless region. If the journey were taken in May, the rugged terrain and snowy conditions would have made it perilous. However, despite the challenges, Paul was able to preach with power and deliver a word of exhortation to the people. Antioch in Pisidia, though actually in Phrygia, was called so to distinguish it from Antioch in Syria. Despite its location, it was a city of considerable importance and a Roman colony. The truth found in Christ superseded the old figure, as believers were buried with Him and put off the old self. Thus, the cessation from earthly works allowed for heavenly exercises and the gathering of the faithful in holy assemblies.",
+            "wordCount": 132,
+            "quoteTokenProportion": 32.56,
+            "qualityScore": 1.7204084474171832,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+            "commentatorTierSimilarities": [
+                32.55,
+                38.99,
+                28.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On their perilous journey to Antioch in Pisidia, Paul and Barnabas faced treacherous mountain passes and the threat of robbers in a lawless region infested with robbers. However, despite the challenges, Paul was able to preach with power and deliver a word of exhortation to the people. Antioch in Pisidia, though technically in Phrygia, was called so to distinguish it from Antioch in Syria. It was a city of considerable importance, a Roman colony built by Seleucus Nicator. The truth found in Christ surpassed the old figure, as believers put off the old self and engaged in heavenly exercises during holy assemblies.",
+            "wordCount": 102,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.864543163797978,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.34,
+            "commentatorTierSimilarities": [
+                30.66,
+                42.16,
+                27.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On their perilous journey through rugged mountain passes infested with robbers, Paul and Barnabas embarked on a mission to preach in Antioch in Pisidia. The city, founded by the Magnetes and later by Seleucus Nicator, was a Roman colony of significant importance. Though not truly in Pisidia, it was named so to distinguish it from Antioch in Syria. Despite the challenges and the possibility of Paul's physical condition, he was able to preach with power, emphasizing the truth found in Christ and the importance of gathering in holy assemblies.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.9145517337536722,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+            "commentatorTierSimilarities": [
+                31.06,
+                44.47,
+                24.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Embarking on a perilous journey through rugged mountain passes infested with robbers, Paul and Barnabas headed to Antioch in Pisidia. This Roman colony, founded by the Magnetes and later by Seleucus Nicator, held considerable importance. Despite the challenges and potential physical condition of Paul, he preached with power, emphasizing the truth of Christ and the significance of gathering in holy assemblies. Antioch in Pisidia, though not truly located in Pisidia, was named so to distinguish it from Antioch in Syria.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.873342822937852,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+            "commentatorTierSimilarities": [
+                31.42,
+                42.27,
+                26.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On their perilous journey to Antioch in Pisidia, Paul and Barnabas faced rugged mountain passes infested with robbers. While the physical condition of Paul may have presented challenges, he was able to preach with power, emphasizing the truth of Christ and the importance of gathering in holy assemblies. Antioch in Pisidia, though not truly located in Pisidia, was named so to distinguish it from Antioch in Syria. Founded by the Magnetes and later by Seleucus Nicator, it was a Roman colony, holding significant importance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9222817280930347,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                31.86,
+                41.81,
+                26.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

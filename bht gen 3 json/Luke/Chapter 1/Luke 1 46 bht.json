@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:13:20",
+    "verseRef": "Luke 1:46",
+    "bestBHT": {
+        "bht": "My soul, my spirit, the whole inner being, magnifies the Lord. Mary's hymn, filled with deep inward repose, draws on material from the Old Testament to sing in the noblest strain. Through her praise, she declares and speaks well of the many and mighty works of power, goodness, grace, and mercy of God, giving him the glory he deserves. Her joyful exultation breaks out in celebrating the goodness of God, recognizing him as the Savior who frees us from doubt and anxiety.",
+        "wordCount": 83,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 2.1168112101616634,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+        "commentatorTierSimilarities": [
+            29.45,
+            39.09,
+            31.46
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "My soul... My spirit the whole inner being.",
+            "Author of that salvation which God\u2019s people expected.",
+            "Only sinners need a Savior."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Is it unnatural to suppose that the spirit of the blessed Virgin had been drawn beforehand into mysterious sympathy with the ideas and tone of this hymn?",
+            "In both songs, those holy women, filled with wonder to behold 'the proud, the mighty, the rich,' passed by, and...sing of this as no capricious movement, but a great law of the kingdom of God.",
+            "My soul...my spirit\u2014'all that is within me.'"
+        ],
+        "Albert Barnes": [
+            "My soul doth magnify the Lord - To 'magnify' means to 'make great,' and then to 'extol,' to 'praise,' to 'celebrate.'"
+        ],
+        "Marvin Vincent": [
+            "Elizabeth's salutation was full of excitement, but Mary's hymn breathes a sentiment of deep inward repose\" (Godet).",
+            "Hannah's song differs from Mary's in its sense of indignation and personal triumph compared with Mary's humility and calmness.",
+            "Spirit is the highest, deepest, noblest part of our humanity, the point of contact between God and man."
+        ],
+        "John Calvin": [
+            "But as hypocrites, for the most part, sing the praises of God with open mouth, unaccompanied by any affection of the heart, Mary says that she praises God from an inward feeling of the mind.",
+            "Sadness and anxiety lock up the soul, and restrain the tongue from celebrating the goodness of God. When the soul of Mary exults with joy, the heart breaks out in praising God.",
+            "Till God has been recognized as a Savior, the minds of men are not free to indulge in true and full joy, but will remain in doubt and anxiety."
+        ],
+        "Philip Schaff": [
+            "The angel\u2019s visit was vouchsafed to Mary later than to Zacharias, yet her song of thanksgiving is uttered long before his: faith is already singing for joy, while unbelief is compelled to be silent.",
+            "The Magnificat recalls at once the song of Hannah (1 Samuel 2:1-10, and also several passages in the Psalms (Psalms 31, 112, 126). 'The grace of God (Luke 1:48), His omnipotence (Luke 1:49-51), His holiness (Luke 1:49; Luke 1:51; Luke 1:54), His justice (Luke 1:52-53), and especially His faithfulness (Luke 1:54-55), are here celebrated.'",
+            "My soul doth magnify the Lord. The 'soul,' when distinguished from the 'spirit' (Luke 1:47), is that part of our nature which forms the link between the spirit and the body, here expressing through the mouth the sentiment which previously existed in the 'spirit.'"
+        ],
+        "Archibald T. Robertson": [
+            "Doth magnify (\u03bc\u03b5\u03b3\u03b1\u03bb\u03c5\u03bd\u03b5)... Mary is correct.",
+            "She draws her material from the O.T.",
+            "Sings in the noblest strain."
+        ],
+        "John Gill": [
+            "And by \"magnifying\" him is meant, not making him great, for he cannot be made greater than he is; but ascribing greatness to him, even all the perfections of the Deity, and praising him on account of them.",
+            "Declaring and speaking well of his many and mighty works of power, goodness, grace, and mercy, and giving him the glory of them.",
+            "She all along speaks in the prophetic style, of things, as if they were done, which were doing, or would shortly be done."
+        ],
+        "John Wesley": [
+            "And Mary said \u2014 Under a prophetic impulse, several things, which perhaps she herself did not then fully understand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "My soul, my spirit, the whole inner being, magnifies the Lord. Mary's hymn, filled with deep inward repose, draws on material from the Old Testament to sing in the noblest strain. As she speaks, she praises and extols the Lord, declaring his greatness and ascribing all his perfections. Through her praise, she recognizes God as the Savior, freeing her from doubt and anxiety. Mary's joyful exultation breaks out in celebrating the goodness of God, and her prophetic style speaks of things as if they were already done.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.102050063077031,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                27.94,
+                39.25,
+                32.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "My soul, my spirit, the whole inner being, magnifies the Lord. Mary's hymn, filled with deep inward repose, draws on material from the Old Testament to sing in the noblest strain. Through her praise, she declares and speaks well of the many and mighty works of power, goodness, grace, and mercy of God, giving him the glory he deserves. Her joyful exultation breaks out in celebrating the goodness of God, recognizing him as the Savior who frees us from doubt and anxiety.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.1168112101616634,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+            "commentatorTierSimilarities": [
+                29.45,
+                39.09,
+                31.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary's soul and spirit magnify the Lord, as her hymn expresses a deep inward repose and draws from Old Testament references. She declares and speaks well of God's many and mighty works, attributing greatness to Him and praising Him for His perfections. Through her joyful exultation, she recognizes God as the Savior who brings freedom from doubt and anxiety. Her prophetic style speaks of things not yet fully understood, yet sung in the present tense as if they were already accomplished.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.9954882508596166,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                23.59,
+                35.84,
+                40.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary's soul and spirit, her whole inner being, magnify the Lord. Filled with deep inward repose, her hymn draws from the Old Testament, celebrating God's many and mighty works. Through her joyful exultation, she declares and speaks well, ascribing greatness to God and praising Him for His perfections. She recognizes God as the Savior, freeing us from doubt and anxiety. With a prophetic style, Mary speaks of things as if they were already accomplished, even when she may not fully understand them herself.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.053264841887314,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                24.96,
+                35.85,
+                39.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary's soul, spirit, and whole inner being exults in magnifying the Lord. Filled with deep inward repose, her hymn draws from the Old Testament, celebrating God's many and mighty works. Her joyful exultation declares and speaks well of God, ascribing greatness to Him and praising Him for His perfections. Recognizing God as the Savior, Mary's prophetic style speaks of things that are yet to be fully understood, yet she speaks of them as if they were already accomplished.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.087114181683412,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.74,
+            "commentatorTierSimilarities": [
+                25.54,
+                37.06,
+                37.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

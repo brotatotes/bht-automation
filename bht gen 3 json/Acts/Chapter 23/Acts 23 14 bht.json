@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:35:38",
+    "verseRef": "Acts 23:14",
+    "bestBHT": {
+        "bht": "A group of murderers, possibly from the sect of Sadducees among the chief priests and elders, made a solemn vow to not eat until they had killed Paul. This wicked conspiracy demonstrated their lack of fear for God and humanity. Their actions fulfilled Jesus' prediction that those who kill His disciples would think they were doing God's service. The chief priests and elders, despite their honorable positions, supported and approved this scheme, revealing their hidden wickedness.",
+        "wordCount": 77,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.6175482471160894,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+        "commentatorTierSimilarities": [
+            24.42,
+            29.52,
+            46.06
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is understood from the narrative that it was to the Sadducees, among the chief priests and elders, that the murderers went.",
+            "That the high priest belonged to this sect, cannot be inferred with any accuracy.",
+            "To determine accurately (not as A.V. \u2018enquire something more perfectly\u2019)."
+        ],
+        "Albert Barnes": [
+            "They would have had no prospect of success had they attacked the castle, and they therefore devised this mode of obtaining access to Paul, where they might easily despatch him.",
+            "We have made the vow as solemn as possible.",
+            "We have anathematized ourselves with an anathema."
+        ],
+        "Marvin Vincent": [
+            "We have bound ourselves under a great curse.",
+            "Lit., we have anathematized ourselves with an anathema.",
+            "A very strong expression."
+        ],
+        "John Calvin": [
+            "Seeing that the priests agree to such a wicked and ungodly conspiracy, by this they prove that there was in them neither any fear of God, neither yet any humanity.",
+            "For what other thing was it to take a man out of the hands of the judge and to slay him, than like murderers to rage even in the very place of judgment?",
+            "Moreover, they did what they could to bring destruction upon all the people and themselves also. But the Lord did by this means disclose their wicked impiety, which lay hid under a color of honor."
+        ],
+        "Philip Schaff": [
+            "We have bound ourselves under a great curse, that we will eat nothing till we have slain Paul.",
+            "No doubt the party of religious assassins went to that group of the Sanhedrim known as bitterly hostile to Paul.",
+            "We may conclude with some certainty that he did belong to that party, and was one of \u2018the chief priests\u2019 to whom the conspirators came."
+        ],
+        "Archibald T. Robertson": [
+            "The Sanhedrin, just as Judas did.",
+            "With a great curse...in imitation of the Hebrew absolute infinitive and common in the LXX.",
+            "Jesus had foretold: 'Whoso killeth you will think that he doeth God service'."
+        ],
+        "John Gill": [
+            "These chief priests and elders, had they acted according to the character they bore, on such an information, would have taken up those men, and punished them.\" ",
+            "They knew the men to whom they applied, and very likely they were all of them of the sect of the Sadducees, whom Paul had so much offended the day before.",
+            "Therefore, they were pleased with what they had done, approved of their scheme, and readily fell in with the following proposal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A group of murderers, likely from the sect of Sadducees among the chief priests and elders, devised a plan to kill Paul. They had bound themselves under a strong curse, vowing not to eat until Paul was slain. This act imitated the absolute infinitive used in Hebrew and was in alignment with the fulfillment of Jesus' prophecy that those who kill His disciples would think they were doing God's service. The fact that the high priest's sect was involved cannot be determined, but it is clear that they were willing to conspire and commit this wicked act in the very place of judgement. Their actions not only revealed their lack of fear for God and humanity but also the hidden wickedness in their so-called honor. Despite knowing the conspirators' identities and intentions, the chief priests and elders chose to support and approve their scheme.",
+            "wordCount": 147,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.672086030113289,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                25.07,
+                30.84,
+                44.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A group of murderers, likely from the sect of Sadducees among the chief priests and elders, bound themselves under a great curse, vowing not to eat until they had slain Paul. Their actions imitated the Hebrew absolute infinitive and fulfilled Jesus' prophecy that those who kill His disciples will think they do God service. This wicked and ungodly conspiracy displayed their lack of fear for God and humanity, as they took a man out of the hands of the judge to slay him in the very place of judgment. The chief priests and elders supported and approved this scheme, revealing their hidden wickedness despite their supposed honor.",
+            "wordCount": 107,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.692039117961865,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                25.23,
+                27.44,
+                47.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A group of murderers, likely from the sect of Sadducees among the chief priests and elders, bound themselves under a great curse, vowing not to eat until they had slain Paul. Their actions fulfilled Jesus' prophecy that those who kill His disciples will think they do God service. This wicked and ungodly conspiracy displayed their lack of fear for God and humanity. Despite their supposed honor, the chief priests and elders supported and approved this scheme, revealing their hidden wickedness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.605060710312739,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+            "commentatorTierSimilarities": [
+                24.75,
+                28.49,
+                46.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A group of murderers, possibly from the sect of Sadducees among the chief priests and elders, made a solemn vow to not eat until they had killed Paul. This wicked conspiracy demonstrated their lack of fear for God and humanity. Their actions fulfilled Jesus' prediction that those who kill His disciples would think they were doing God's service. The chief priests and elders, despite their honorable positions, supported and approved this scheme, revealing their hidden wickedness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6175482471160894,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+            "commentatorTierSimilarities": [
+                24.42,
+                29.52,
+                46.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A group of murderers, likely from the Sadducees among the chief priests and elders, bound themselves with a strong curse, vowing to fast until they had slain Paul. This act imitated the absolute infinitive used in Hebrew and fulfilled Jesus' prophecy that those who kill His disciples would think they were serving God. This wicked conspiracy displayed their lack of fear for God and humanity. Despite their honorable positions, the chief priests and elders readily supported and approved the scheme, revealing their hidden wickedness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.6040351667059936,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.68,
+            "commentatorTierSimilarities": [
+                26.13,
+                27.87,
+                46.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 13:53:19",
+    "verseRef": "Philippians 1:18",
+    "bestBHT": {
+        "bht": "Regardless of mixed motives, imperfect work, envy, and faction, the important thing is that Christ is proclaimed. Paul rejoices that people are exposed to the knowledge of Christ, regardless of the intentions behind it. The proclamation of Christ, whether in pretense or in truth, serves the cause of the Gospel. While it would be better to have better-instructed and more-prudent preachers, the goal is for the name of the Redeemer to be announced in any way, even if it is stammering and from impure motives.",
+        "wordCount": 87,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.358702244201412,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.77,
+        "commentatorTierSimilarities": [
+            38.43,
+            37.32,
+            24.25
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Nevertheless, in every way, in pretext or in verity, CHRIST IS PROCLAIMED and in this I rejoice.\" ",
+            "These men preached Christ, and thus forwarded, so far, the work of the Gospel, however mixed their motives may have been, or however imperfect their work.\" ",
+            "It has no other result, than... CHRIST IS PROCLAIMED, and I shall rejoice."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Notwithstanding their unkind thought to me, and self-seeking intention, the cause I have at heart is furthered 'every way' of preaching, 'whether in pretense (with a by motive, :-) or in truth (out of true 'love' to Christ, :-), Christ is proclaimed; and therein I do rejoice, yea, and I will rejoice.'\" ",
+            "From this it would seem that these self-seeking teachers in the main 'proclaimed Christ,' not 'another Gospel,' such as the Judaizers in Galatia taught... their chief error was their self-seeking envious motive, not so much error of doctrine; had there been vital error, Paul would not have rejoiced.\" ",
+            "The proclamation of CHRIST,\" however done, roused attention, and so was sure to be of service. Paul could thus rejoice at the good result of their bad intentions."
+        ],
+        "Albert Barnes": [
+            "It would be better to have preachers that were better instructed, or that were more prudent, or that had purer motives, or that held a more perfect system, yet it is much in our world to have the name of the Redeemer announced in any way, and even to be told, in the most stammering manner, and from whatever motives, that man has a Saviour.",
+            "The more important matter was secured, and Christ was made known; and if this were secured, he was willing that his own name should be cast into the shade.",
+            "If all Christians and Christian ministers had the feelings which Paul expresses here, there would be much less envy and uncharitableness than there is now in the churches."
+        ],
+        "Marvin Vincent": [
+            "What is my feeling in view of these things? Only that I rejoice that Christ is preached.",
+            "In pretense. With a spirit of envy and faction, possibly with a counterfeited zeal for truth.",
+            "Notwithstanding. Read plhn oti except that. Rev., only that."
+        ],
+        "John Calvin": [
+            "God sometimes accomplishes an admirable work by means of wicked and depraved instruments.",
+            "We ought, therefore, to rejoice if God accomplishes anything that is good by means of wicked persons.",
+            "They ought not on that account to be either placed by us in the ministry, or looked upon as Christ\u2019s lawful ministers."
+        ],
+        "Philip Schaff": [
+            "only that in every way, whether in pretence or in truth, Christ is proclaimed.\" ",
+            "For the population of the imperial city could not have too many preachers of Christ in it.",
+            "But to have Christ preached at Rome, even though the preacher were a self-seeking Judaizer, was a clear gain and source of congratulation."
+        ],
+        "Archibald T. Robertson": [
+            "This essential thing Paul sees in spite of all their envy and selfishness that Christ is preached.",
+            "Paul sees clearly through the pious pretence of these Judaizers and rejoices that people get some knowledge of Christ.",
+            "Paul is determined to rejoice in spite of the efforts of the Judaizers to prod him to anger."
+        ],
+        "John Gill": [
+            "Notwithstanding these brethren acted on those different principles, and with those different views.",
+            "He rejoiced in the subject matter of their ministry, which was Christ Jesus the Lord, whom he dearly loved.",
+            "Christ and his Gospel are the same by whomsoever preached, and God may make use of his own truths to answer his ends and purposes."
+        ],
+        "John Wesley": [
+            "In pretence \u2014 Under colour of propagating the gospel.",
+            "In truth \u2014 With a real design so to do."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite the mixed motives and imperfect work of some preachers, the important thing is that Christ is proclaimed. Paul rejoices that, regardless of their envy and faction, people are being exposed to the knowledge of Christ. Even though they may have a counterfeited zeal for truth or a spirit of envy, the proclamation of Christ sparks attention and serves the cause of the Gospel. While it would be better to have better-instructed and more-prudent preachers, the ultimate goal is that the name of the Redeemer is announced in any way, even if it is stammering and from impure motives. If all Christians and ministers had a similar mindset, there would be less envy and uncharitableness among the churches.",
+            "wordCount": 120,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.344729575543843,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.3,
+            "commentatorTierSimilarities": [
+                36.75,
+                39.11,
+                24.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite mixed motives, imperfect work, envy, and faction, the important thing is that Christ is proclaimed. Paul rejoices that people are exposed to the knowledge of Christ, regardless of the intentions behind it. The proclamation of Christ, whether in pretense or in truth, sparks attention and serves the cause of the Gospel. While it would be better to have better-instructed and more-prudent preachers, the goal is for the name of the Redeemer to be announced in any way, even if it is stammering and from impure motives.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.343440970404628,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.26,
+            "commentatorTierSimilarities": [
+                39.39,
+                36.88,
+                23.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite mixed motives, imperfect work, envy, and faction, the important thing is that Christ is proclaimed. Paul rejoices that people are exposed to the knowledge of Christ, regardless of the intentions behind it. The proclamation of Christ, whether in pretense or in truth, serves the cause of the Gospel. While it would be better to have better-instructed and more-prudent preachers, the goal is for the name of the Redeemer to be announced in any way, even if it is stammering and from impure motives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.3491516419916225,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.45,
+            "commentatorTierSimilarities": [
+                38.93,
+                36.8,
+                24.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Regardless of mixed motives, imperfect work, envy, and faction, the important thing is that Christ is proclaimed. Paul rejoices that people are exposed to the knowledge of Christ, regardless of the intentions behind it. The proclamation of Christ, whether in pretense or in truth, serves the cause of the Gospel. While it would be better to have better-instructed and more-prudent preachers, the goal is for the name of the Redeemer to be announced in any way, even if it is stammering and from impure motives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.358702244201412,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.77,
+            "commentatorTierSimilarities": [
+                38.43,
+                37.32,
+                24.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite mixed motives, imperfect work, envy, and faction, the important thing is that Christ is proclaimed. Paul rejoices that people are exposed to the knowledge of Christ, regardless of the intentions behind it. The proclamation of Christ, whether in pretense or in truth, serves the cause of the Gospel. While it would be better to have better-instructed and more-prudent preachers, the goal is for the name of the Redeemer to be announced in any way, even if it is stammering and from impure motives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.3491516419916225,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.45,
+            "commentatorTierSimilarities": [
+                38.93,
+                36.8,
+                24.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

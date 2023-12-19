@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:29:44",
+    "verseRef": "Ephesians 2:5",
+    "bestBHT": {
+        "bht": "Our spiritual life, including our share in the Resurrection and exaltation of Christ, is the primary subject. Salvation is not a future thing, but a past thing realized in the present by faith. God is the great center, from whom all blessings flow. There must be a spiritual resurrection before a comfortable one of the body. Salvation is not something to be waited for, but already realized. By grace, we have been saved because we were dead.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9772010170248342,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+        "commentatorTierSimilarities": [
+            40.54,
+            27.55,
+            31.91
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our spiritual life is the primary subject of the Apostle\u2019s thought: but this includes in itself our share in the Resurrection and exaltation [ver. 6] of Christ.",
+            "Salvation is to the Christian not a future but a past thing, realized in the present by faith.",
+            "HE is the great centre of the Epistle, towards whom all the rays of thought converge, and from whom all blessings flow; and this the Apostle will have his readers never forget."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There must be a spiritual resurrection of the soul before there can be a comfortable resurrection of the body.",
+            "We are already seated there IN Him, and hereafter shall be seated by Him; IN Him already as in our Head, which is the ground of our hope; by Him hereafter, as by the conferring cause, when hope shall be swallowed up in fruition.",
+            "Salvation is to the Christian not a thing to be waited for hereafter, but already realized. Grace from first to last is the sole source of salvation."
+        ],
+        "Albert Barnes": [
+            "God, who is rich in mercy, on account of the great love which he bare unto us, even being dead in sin, hath quickened us.\" ",
+            "Man loves his friend, his benefactor, his kindred - God loves his foes, and seeks to do them good.",
+            "By grace ye are saved."
+        ],
+        "John Calvin": [
+            "Even when we were dead in sin.\" ",
+            "While we were yet sinners, Christ died for us.",
+            "Everything connected with our salvation ought to be ascribed to God as its author."
+        ],
+        "Philip Schaff": [
+            "The emphasis rests on the word 'grace,' love to the undeserving.",
+            "'When He was raised physically, all His people were raised ideally in Him; and in consequence of this connection with Him, they are, through faith, actually quickened and raised' (Eadie).",
+            "'This emphatic mention of grace (grace, not works) is to make the readers feel what their own hearts might otherwise have caused them to doubt, the real and vital truth, that they have present and actual fellowship with Christ, yea and even in the resurrectionary and glorifying power of God' (Ellicott)."
+        ],
+        "Archibald T. Robertson": [
+            "Even when we were dead... he changes \u03c5\u03bc\u03b1\u03c2 (you Gentiles) to \u03b7\u03bc\u03b1\u03c2 (us Jews).\" ",
+            "Quickened us together with Christ...Literal resurrection in the case of Jesus, spiritual in our case as pictured in baptism.",
+            "By grace have ye been saved...All of grace because we were dead."
+        ],
+        "John Gill": [
+            "Hath quickened us together with Christ: which may be understood either of regeneration, when a soul that is dead in a moral or spiritual sense, is quickened and made alive; a principle of life is infused, and acts of life are put forth.",
+            "And this life they have not from themselves, for previous to it they are dead, and in this quickening work are entirely passive; nor can regenerate persons quicken themselves, when in dead and lifeless frames, and much less unregenerate sinners; but this is God's act, the act of God the Father.",
+            "Men are dead in a legal sense, and on account of sin, are under the sentence of death; though they naturally think themselves alive, and in a good state; but when the Spirit of God comes, he strikes dead all their hopes of life by a covenant of works; not merely by letting in the terrors of the law upon the conscience, but by showing the spirituality of it, and the exceeding sinfulness of sin."
+        ],
+        "John Wesley": [
+            "He hath quickened us together with Christ \u2014 In conformity to him, and by virtue of our union with him.",
+            "By grace ye are saved \u2014 Grace is both the beginning and end.",
+            "This text lays the axe to the very root of spiritual pride, and all glorying in ourselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our spiritual life is the primary subject of the Apostle's thought, including our share in the Resurrection and exaltation of Christ. Salvation is not a future thing, but a past thing realized in the present by faith. God is the great center of this epistle, from whom all blessings flow, and we must never forget that. There must be a spiritual resurrection of the soul before there can be a comfortable resurrection of the body. Salvation is not something to be waited for hereafter, but already realized. By grace, we have been saved because we were dead.",
+            "wordCount": 98,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.0822428131050073,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.58,
+            "commentatorTierSimilarities": [
+                41.8,
+                26.76,
+                31.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our spiritual life, including our share in the Resurrection and exaltation of Christ, is the primary subject. Salvation is not a future thing, but a past thing realized in the present by faith. God is the great center, from whom all blessings flow. There must be a spiritual resurrection before a comfortable one of the body. Salvation is not something to be waited for, but already realized. By grace, we have been saved because we were dead.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9772010170248342,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+            "commentatorTierSimilarities": [
+                40.54,
+                27.55,
+                31.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Salvation is not something to be waited for in the future, but a past event realized in the present through faith. The Apostle emphasizes that Jesus is the great center of the Epistle, from whom all blessings flow and towards whom all thoughts converge. Through grace, we have already been saved, even when we were dead in sin. This salvation is the sole work of God and should be ascribed to Him alone. It is through our union with Christ that we are quickened and raised, both in a spiritual sense and as pictured in baptism. This truth humbles us and reminds us that all glory belongs to God.",
+            "wordCount": 109,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 2.0431297369719337,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.28,
+            "commentatorTierSimilarities": [
+                36.77,
+                30.3,
+                32.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Salvation is not a future event, but a past reality experienced by the Christian through faith. Jesus is the core focus of the Epistle, the source of blessings and the one to whom all thoughts converge. By grace, we have already been saved, even in our dead state. Our union with Christ brings about spiritual resurrection and exaltation. This emphasizes the importance of ascribing all aspects of salvation to God alone, removing any room for spiritual pride.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.012293346297051,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.25,
+            "commentatorTierSimilarities": [
+                38.45,
+                28.32,
+                33.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Salvation for the Christian is not something to be anticipated in the future, but a past reality already realized. Our spiritual life is the main focus, encompassing our participation in Christ's resurrection and exaltation. We are reminded that Jesus is the central figure of the Epistle, the source of all blessings, and we should never forget the significance of this truth. This salvation is entirely a work of grace, stemming from our spiritual resurrection and union with Christ. It is through His grace that we are saved, leaving no room for boasting in ourselves.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.1545514615380066,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.98,
+            "commentatorTierSimilarities": [
+                38.62,
+                29.18,
+                32.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:30:20",
+    "verseRef": "Acts 12:21",
+    "bestBHT": {
+        "bht": "Arrayed in royal apparel, like a robe made entirely of silver, Herod entered the theater at daybreak, his dazzling reflection striking fear and admiration into the eyes of the beholders. Though the people proclaimed him a god, Herod did not reject their impious flattery. However, an owl overhead served as a foreboding sign. The angel of the Lord smote him for his failure to give glory to God, highlighting the consequences of his pride and the importance of acknowledging the true source of power.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.7502004323416411,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+        "commentatorTierSimilarities": [
+            33.36,
+            30.62,
+            36.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And on the second day of the spectacles, he put on a vesture all wrought of silver, so that the texture was wondrous to behold, and came into the theatre at the rising of the sun, Then the silver, struck with the first glitter of the solar rays, cast a splendid reflection, dazzling the eyes of the beholders, and struck fear into them.\" ",
+            "The king did not rebuke them, nor even reject this impious flattery.",
+            "Looking up however shortly after, he saw an owl over his head, sitting on a rope, and straightway felt that it was a presage of mischief."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "21. And upon a set day Herod . . .",
+            "\tmade an oration unto them\u2014to the Tyrians and Sidonians",
+            "\tespecially."
+        ],
+        "Albert Barnes": [
+            "Arrayed in royal apparel - In the apparel of a king.\" ",
+            "He put on a garment made wholly of silver, and of wonderful contexture, and early in the morning came into the theater place of the shows and games.",
+            "Sat upon his throne - This does not denote a throne in the usual sense of that word, but 'a high seat' in the theater, where he sat, and from whence he could have a full view of the games and sports."
+        ],
+        "Marvin Vincent": [
+            "Royal apparel. Josephus says he was clothed in a robe entirely made of silver.",
+            "The elevated seat or throne - like box in the theater, set apart for the king, from which he might look at the games or address the assembly.",
+            "It was at a festival in this Hellenic capital, after an harangue he had addressed to the populace, that they shouted, 'It is the voice of a God and not of a man.'"
+        ],
+        "John Calvin": [
+            "That he confessed the same openly amidst his cruel torments, 'Behold me, whom you call a god; I am enforced to finish my life most miserable.'",
+            "There is no mention made there of the peace made with those of Tyrus and Sidon; but it may be that the solemnity of the plays was appointed in respect of the peace concluded, which we know was a solemn thing.",
+            "Josephus and Luke agree together wonderfully in the thing itself, and in all circumstances."
+        ],
+        "Philip Schaff": [
+            "It is the voice of a god and not of a man.",
+            "I whom you called a god am commanded now to depart this life.",
+            "The angel of the Lord smote him, because he gave not God the glory."
+        ],
+        "Archibald T. Robertson": [
+            "The rays of the sun shone on this brilliant apparel and the vast crowd in the open amphitheatre became excited as Herod began to speak.",
+            "First aorist middle (indirect) participle of \u03b5\u03bd\u03b4\u03c5\u03bd\u03c9 or \u03b5\u03bd\u03b4\u03c5\u03c9, common verb to put on. Literally, having put royal apparel on himself (a robe of silver tissue, Josephus says).",
+            "He kept it up."
+        ],
+        "John Gill": [
+            "And upon a set day... it was on the second day of the sports and plays, instituted by him in honour of Caesar.\" ",
+            "Herod, arrayed in royal apparel... the silver shone so with the rays of the rising sun, that it struck the spectators with terror and admiration.\" ",
+            "sat upon his throne... with the other ensigns of royalty, as a crown on his head, and a sceptre in his hand."
+        ],
+        "John Wesley": [
+            "In a garment so wrought with silver, that the rays of the rising sun striking upon, and being reflected from it, dazzled the eyes of the beholders.",
+            "The people shouted, It is the voice of a god \u2014 Such profane flattery they frequently paid to princes.",
+            "But the commonness of a wicked custom rather increases than lessens the guilt of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 12:21, Herod is described as putting on a vesture all wrought of silver, which caused a dazzling reflection when struck by the first rays of the sun. Despite the impious flattery from the people who exclaimed that his voice was that of a god, Herod did not reject or rebuke them. However, shortly after, he noticed an owl over his head, which he interpreted as a presage of mischief. The first-tier commentary highlights that Herod was dressed in royal apparel, specifically a robe made entirely of silver. He was seated in an elevated seat in the theater, where he addressed the crowd. The second-tier commentary reinforces the description of his attire and the adoration of the people who thought he was divine. It concludes with the angel of the Lord smiting Herod for not giving God the glory.",
+            "wordCount": 141,
+            "quoteTokenProportion": 35.96,
+            "qualityScore": 1.8455613846457646,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.71,
+            "commentatorTierSimilarities": [
+                35.35,
+                31.63,
+                33.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Arrayed in royal apparel, like a robe made entirely of silver, Herod entered the theater at daybreak, his dazzling reflection striking fear and admiration into the eyes of the beholders. Though the people proclaimed him a god, Herod did not reject their impious flattery. However, an owl overhead served as a foreboding sign. The angel of the Lord smote him for his failure to give glory to God, highlighting the consequences of his pride and the importance of acknowledging the true source of power.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.7502004323416411,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+            "commentatorTierSimilarities": [
+                33.36,
+                30.62,
+                36.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Dressed in royal silver apparel, Herod made a grand entrance into the theater amidst the shining rays of the sun, dazzling and striking fear into the eyes of onlookers. Despite being hailed as a god, Herod did not rebuke the impious flattery. However, the sight of an owl overhead served as an ominous symbol, foreshadowing the impending tragedy. The angel of the Lord subsequently struck Herod for his failure to give glory to God, a sobering reminder of the consequences of pride and the necessity of acknowledging the true source of power.",
+            "wordCount": 92,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.7302460780690656,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                34.56,
+                26.66,
+                38.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Arrayed in regal silver attire, Herod made a striking appearance as he entered the theater. The sunlight caused his garments to shine brilliantly, captivating the crowd and evoking both awe and fear. Despite being hailed as a god, Herod did not reject the impious flattery. However, the sight of an owl above him acted as a foreboding sign. In the end, the angel of the Lord struck Herod for failing to give glory to God, revealing the consequences of his arrogance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.748087947732127,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                34.46,
+                30.53,
+                35.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Clothed in a magnificent silver robe, Herod made a dramatic entrance into the theater, captivating the crowd with the dazzling reflection of the sun. As the people praised him as a god, he did not reject their impious flattery. However, a foreboding owl above served as a sign of impending trouble. In the end, the angel of the Lord struck Herod for his failure to attribute glory to God, teaching a sobering lesson about the consequences of human pride.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6382073564744233,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+            "commentatorTierSimilarities": [
+                34.69,
+                28.83,
+                36.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

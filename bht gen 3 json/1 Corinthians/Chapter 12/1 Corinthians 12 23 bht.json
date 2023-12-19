@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:12:41",
+    "verseRef": "1 Corinthians 12:23",
+    "bestBHT": {
+        "bht": "Public opinion often designates certain parts of the body as less honorable, but this perception is not based on the true nature of these parts. We tend to bestow more honor on the parts we deem comely, covering them with clothing and adorning them. However, all parts of the body deserve honor. By covering and protecting these supposedly less honorable parts, we show a greater sense of honor. Similarly, it is important to extend honor to all members of the church, regardless of their position or gifts, in order to maintain the unity and integrity of the body as a whole.",
+        "wordCount": 101,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.9725648917726661,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+        "commentatorTierSimilarities": [
+            26.69,
+            40.93,
+            32.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So also in the case of the parts which we think to be less honourable\u2014on which usage has set the stamp of dishonour.",
+            "He says well which seem, and which we think...shewing that this verdict is given, not by the nature of things, but by public opinion.",
+            "These parts enjoy more honour: for even the miserably poor, if compelled to go with the rest of their body naked, will not endure to shew these parts unclothed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We think\" the feet and the belly \"less honorable,\" though not really so in the nature of things.",
+            "Putting shoes on (Margin) the feet, and clothes to cover the belly.",
+            "The secret parts: the poorest, though unclad in the rest of the body, cover these."
+        ],
+        "Albert Barnes": [
+            "We bestow upon them more attention and honor then we do on the face that is deemed comely, and that is not covered and adorned as the other parts of the body are.",
+            "We adorn and decorate the body with frivilous apparel. Those parts which decency requires us to conceal we not only cover, but we endeavor as far as we can to adorn them.",
+            "We should not despise or disregard those members of the church who are of lower rank, or who are less favored than others with spiritual endowments."
+        ],
+        "Marvin Vincent": [
+            "The more abundant honor is shown by the care in clothing.",
+            "The comeliness is outward, as is shown by the verb we put on.",
+            "The comeliness is outward, as is shown by the compounds of ochma fashion."
+        ],
+        "John Calvin": [
+            "The dishonor of one member turns out to the common disgrace of the whole body.",
+            "Those parts that are comely do not require adventitious ornament; but the parts that involve shame, or are less comely, are cared for by us with greater concern.",
+            "To invest with honor is to put on a covering for the sake of ornament, in order that those members may be honorably concealed, which would involve shame if uncovered."
+        ],
+        "Philip Schaff": [
+            "Upon these we bestow more abundant honour in covering and care.",
+            "Our uncomely parts have more abundant comeliness to protect them from unjust disparagement.",
+            "In relation to other parts of the body."
+        ],
+        "Archibald T. Robertson": [
+            "We bestow (\u03c0\u03b5\u03c1\u03b9\u03c4\u03b9\u03b8\u03b5\u03bc\u03b5\u03bd). Literally, We place around as if a garland or a garment.",
+            "The word, common in old Greek, from \u03b5\u03c5\u03c3\u03c7\u03b7\u03bc\u03c9\u03bd (\u03b5\u03c5, well, \u03c3\u03c7\u03b7\u03bc\u03b1, figure), here only in N.T.",
+            "One may think of the coal-miner who digs under the earth for the coal to keep us warm in winter."
+        ],
+        "John Gill": [
+            "Upon these we bestow more abundant honour; by clothing them, for a man's garments are his honour and glory.\" ",
+            "The poor members of Christ's church...have the more abundant honour conferred on them by God and Christ.",
+            "All possible care taken that their faults may not be exposed to the world, that so the name of God, and ways of Christ, may not be blasphemed and evil spoken of."
+        ],
+        "John Wesley": [
+            "We surround with more abundant honour \u2014 By so carefully covering them.",
+            "More abundant comeliness \u2014 By the help of dress."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even though culture may deem certain parts of the body as less honorable, this perception is based on public opinion rather than the inherent nature of these parts. In reality, all parts of the body are important and deserve honor. We often dedicate more attention and care to the parts we consider comely, adorning them with clothing and ornaments, while the parts we deem less honorable are covered and protected. However, these less honorable parts still possess a hidden beauty that is not immediately obvious. By covering and caring for these parts, we demonstrate a deeper sense of honor and protect them from unjust disparagement. It is essential that we extend this same level of honor and care to all members of the church, regardless of their position or giftedness. This way, we prevent any potential disgrace and uphold the integrity of the body as a whole.",
+            "wordCount": 147,
+            "quoteTokenProportion": 41.76,
+            "qualityScore": 1.8442763373580657,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.66,
+            "commentatorTierSimilarities": [
+                25.01,
+                44.11,
+                30.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even though certain parts of the body may be considered less honorable by society, this judgment is subjective and does not reflect the true worth of these parts. We often clothe and adorn the parts we see as comely, while neglecting the parts we perceive as less honorable. However, all parts of the body deserve honor and care. By covering and protecting them, we demonstrate a deeper sense of honor and prevent any potential disgrace. Similarly, within the church, it is crucial to extend honor and value to all members, regardless of their position or abilities, to maintain the integrity of the body as a whole.",
+            "wordCount": 106,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.878190772288003,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                25.24,
+                43.02,
+                31.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Public opinion often designates certain parts of the body as less honorable, but this perception is not based on the true nature of these parts. We tend to bestow more honor on the parts we deem comely, covering them with clothing and adorning them. However, all parts of the body deserve honor. By covering and protecting these supposedly less honorable parts, we show a greater sense of honor. Similarly, it is important to extend honor to all members of the church, regardless of their position or gifts, in order to maintain the unity and integrity of the body as a whole.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9725648917726661,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                26.69,
+                40.93,
+                32.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though some parts of the body may be considered less honorable by society, this judgment is merely a reflection of public opinion and not the true nature of those parts. Often, we adorn and cover the parts we views as comely, while neglecting the supposedly less honorable ones. However, all members of the body deserve honor and care. By covering and protecting these parts, we demonstrate a deeper sense of honor and prevent any potential disgrace. In the same way, we should extend honor to all members of the church to maintain the unity and integrity of the body as a whole.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.8622481100577724,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+            "commentatorTierSimilarities": [
+                25.43,
+                42.57,
+                31.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While certain parts of the body may be deemed less honorable by society, this judgment is merely a societal construct and not indicative of the true value of these parts. We often prioritize adorning and covering the parts we consider comely, neglecting the supposedly less honorable ones. However, all parts of the body are worthy of honor and care. By covering and protecting these parts, we show a deeper level of honor and prevent potential disgrace. Likewise, within the church, it is vital to extend honor to all members, regardless of their position or abilities, to maintain the unity and integrity of the body as a whole.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8569780410949561,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.09,
+            "commentatorTierSimilarities": [
+                24.95,
+                43.8,
+                31.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

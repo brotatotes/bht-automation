@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:58:39",
+    "verseRef": "Romans 1:28",
+    "bestBHT": {
+        "bht": "Because they rejected the knowledge of God, God gave them over to a reprobate mind, abandoning them to the evil they had chosen. Like an old abandoned building, left 'to do those things which are not fitting,' they became alienated from reason and devoid of true knowledge and judgment. They willingly chose to forsake God and indulge in shameful and indecorous behavior, preferring their own vanities over the wisdom that comes from a relationship with God.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.1458455543746022,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.69,
+        "commentatorTierSimilarities": [
+            27.1,
+            35.13,
+            37.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because they reprobated the knowledge of God, God gave them over to a reprobate mind, is indeed a very inadequate, but as far as the form of the two words is concerned, an accurate representation of it.",
+            "God withdrew from them His preventing grace, and left them to the evil which they had chosen.",
+            "The order of crimes enumerated would be broken, and one of a totally different kind inserted between slanderers and insolent, if this word is to signify \u2018haters of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "gave them over\u2014or 'up'",
+            "to do those things which are not convenient",
+            "not becoming,\" \"indecorous,\" \"shameful"
+        ],
+        "Albert Barnes": [
+            "It was not because they could not, but because they were displeased with God, and chose to forsake him, and follow their own passions and lusts.",
+            "It does not mean that they were reprobate by any arbitrary decree; but that as a consequence of their headstrong passions, their determination to forget him, he left them to a state of mind which was evil, and which he could not approve.",
+            "Which are not convenient - Which are not fit or proper; which are disgraceful and shameful; to wit, those things which he proceeds to state in the remainder of the chapter."
+        ],
+        "John Calvin": [
+            "As they chose not to continue in the knowledge of God, which alone guides our minds to true wisdom, the Lord gave them a perverted mind, which can choose nothing that is right.",
+            "He then intimates, that they, making a depraved choice, preferred their own vanities to the true God; and thus the error, by which they were deceived, was voluntary.",
+            "Understand him as saying, that they were inconsistent with every decision of reason, and alien to the duties of men: for he mentions it as an evidence of a perverted mind, that men addicted themselves, without any reflection, to those vices, which common sense ought to have led them to renounce."
+        ],
+        "Philip Schaff": [
+            "Refused' and 'reprobate' represent words that sound alike, but the play on the words cannot be readily reproduced.\" ",
+            "'Reprobate' means rejected of God as unworthy.",
+            "The heathen were not deprived of the faculty of distinguishing between right and wrong, but they practised evil and encouraged it in others."
+        ],
+        "Archibald T. Robertson": [
+            "They rejected God and God rejected their mental attitude and gave them over... Like an old abandoned building, the home of bats and snakes, left 'to do those things which are not fitting.'",
+            "Like the night clubs of modern cities, the dives and dens of the underworld, without God and in the darkness of unrestrained animal impulses.",
+            "This was a technical term with Stoics."
+        ],
+        "John Gill": [
+            "Since they had some knowledge of God by the light of nature, and yet did not care to retain God in [their] knowledge.",
+            "A reprobate mind; a vain empty mind, worthless, good for nothing devoid of all true knowledge and judgment.",
+            "To do those things which are not convenient; which are neither agreeably to the light of nature, nor convenient to, or becoming the honour of human nature."
+        ],
+        "John Wesley": [
+            "God gave them up to an undiscerning mind \u2014 Treated of, Romans 1:32.",
+            "To do things not expedient \u2014 Even the vilest abominations, treated of verses Romans 1:29-31."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because they rejected the knowledge of God, He gave them over to a reprobate mind, abandoning them to the evil they had chosen. Like an old abandoned building, left to decay and become a breeding ground for darkness and unrestrained impulses, they were given up to do shameful and indecorous things. This was not because they couldn't discern right from wrong, but because they willingly chose to forsake God and pursue their own lusts. As a consequence, they became alienated from reason and devoid of true knowledge and judgment. They preferred their own vanities to the wisdom that only comes from a relationship with God.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.9254407339837643,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                26.6,
+                35.65,
+                37.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because they rejected the knowledge of God, God gave them over to a reprobate mind, abandoning them to the evil they had chosen. He withdrew His preventing grace and left them to their own desires. This resulted in a perverse and undiscerning mind, devoid of true knowledge and judgment. They willingly chose to forsake God and indulge in shameful and indecorous behavior, resembling the darkness and unrestrained impulses of abandoned places. They preferred their own vanities over the wisdom that comes from a relationship with God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8963818462896314,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "commentatorTierSimilarities": [
+                27.53,
+                35.44,
+                37.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Because they rejected the knowledge of God, God gave them over to a reprobate mind, abandoning them to the evil they had chosen. Like an old abandoned building, left 'to do those things which are not fitting,' they became alienated from reason and devoid of true knowledge and judgment. They willingly chose to forsake God and indulge in shameful and indecorous behavior, preferring their own vanities over the wisdom that comes from a relationship with God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.1458455543746022,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.69,
+            "commentatorTierSimilarities": [
+                27.1,
+                35.13,
+                37.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Because they reprobated the knowledge of God, God gave them over to a reprobate mind, withdrawing his preventing grace and leaving them to the evil which they had chosen. The order of crimes enumerated would be broken, and one of a totally different kind inserted between slanderers and insolent, if this word signifies 'haters of God.' They rejected God and He rejected their mental attitude, giving them over to a state of mind that was undiscerning and void of true judgment.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.1115145015199306,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.55,
+            "commentatorTierSimilarities": [
+                29.87,
+                35.86,
+                34.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Because they reprobated the knowledge of God, God gave them over to a reprobate mind, withdrawing his preventing grace and leaving them to the evil which they had chosen. They rejected God and He rejected their mental attitude, giving them over to a state of mind that was undiscerning and devoid of true judgment. Like an old abandoned building, they were left to do things that were shameful, indecorous, and not fitting. They willingly chose to forsake God, indulging in their own vanities instead of seeking His wisdom.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.1198161218116125,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.82,
+            "commentatorTierSimilarities": [
+                28.37,
+                35.56,
+                36.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

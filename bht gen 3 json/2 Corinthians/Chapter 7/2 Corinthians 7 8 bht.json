@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:16:55",
+    "verseRef": "2 Corinthians 7:8",
+    "bestBHT": {
+        "bht": "I initially regretted writing the epistle that grieved you, but now I am grateful for its outcome. The Holy Spirit inspired me to write it, and although I felt sorrowful at first, I now rejoice. The sorrow it caused you was only temporary, but its impact was significant. Your genuine sorrow led to a positive transformation, and I'm pleased that my initial regret turned into joy.",
+        "wordCount": 67,
+        "quoteTokenProportion": 43.14,
+        "qualityScore": 2.2124946961385206,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.91,
+        "commentatorTierSimilarities": [
+            30.86,
+            33.02,
+            36.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Though I even grieved you with (by means of) my epistle, I do not (now) repent (having written it).",
+            "The reason of these departures from grammatical construction and the meaning of words, is, for fear the Apostle should seem to have repented of that which he did under the inspiration of the Holy Spirit.",
+            "But the result shewed that God\u2019s Spirit had ordered it well, that he should thus write; and this his repentance was repented of again."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I do not regret it, though I did regret it.\" ",
+            "Paul was almost regretting, through parental tenderness, his having used rebukes calculated to grieve the Corinthians; but now that he has learned from Titus the salutary effect produced on them, he no longer regrets it.\" ",
+            "For I perceive that that Epistle did make you sorry, though it was but for a season."
+        ],
+        "Albert Barnes": [
+            "It gives me no pain in the recollection, but I have occasion to rejoice that it was done.",
+            "But he was a man of deep feeling, and of tender affections. He was pained at the necessity of giving reproof.",
+            "The sorrow which it caused in you is only for a season; the good effects will be abiding. I have, therefore, great occasion to rejoice that I sent the Epistle."
+        ],
+        "Marvin Vincent": [
+            "Though I did repent. Punctuate as Am. Rev., I do not regret it.\" ",
+            "(even if) I did regret it (for I see that that epistle made you sorry, though but for a season)",
+            "I now rejoice."
+        ],
+        "John Calvin": [
+            "Your welfare is so much an object of desire to me, that I am delighted to see that I have done you good.",
+            "This softening-down is admissible only when the teacher has done good so far as was needed, by means of his reproofs.",
+            "While he made the Corinthians sad, he himself also participated in the grief, and in a manner inflicted grief at the same time upon himself."
+        ],
+        "Philip Schaff": [
+            "I do not regret it, though I did regret it...\" ",
+            "A strong expression of the pain it gave him to write as he had done...\" ",
+            "I see that that epistle made you sorry, though but for a season."
+        ],
+        "Archibald T. Robertson": [
+            "I do not regret it. This verb really means 'repent' (be sorry again) which meaning we have transferred to \u03bc\u03b5\u03c4\u03b1\u03bd\u03bf\u03b5\u03c9, to change one's mind (not to be sorry at all).\" ",
+            "Paul is now glad that he made them sorry.",
+            "I was in a regretful mood at first."
+        ],
+        "John Gill": [
+            "I do not repent, though I did repent; not of writing the letter, which was wrote by divine inspiration; but of the sorrow occasioned by it, though now he did not repent of that.",
+            "For I perceive that the same epistle made you sorry, though it were but for a season; inasmuch as the sorrow was true, hearty, and genuine, though it was but for a time, the apostle was entirely satisfied.",
+            "The more pleased, because of its brevity, since it was sincere."
+        ],
+        "John Wesley": [
+            "I did repent \u2014 That is, I felt a tender sorrow for having grieved you, till I saw the happy effect of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I do not regret having written the epistle that grieved you, even though I initially felt sorrowful about it. The Holy Spirit guided me in writing it, and its purpose was not for me to repent, but rather to bring about a positive transformation. After learning from Titus about the beneficial impact it had on you, I now rejoice. Although the epistle made you sorry for a season, its sorrow was genuine and ultimately led to a deeper understanding and change of heart. So, even though I was in a regretful mood at first, I am now pleased to have made you sorry because it produced a lasting effect.",
+            "wordCount": 109,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 2.2730522473797916,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.92,
+            "commentatorTierSimilarities": [
+                33.27,
+                30.82,
+                35.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I do not regret having written the epistle that grieved you, even though I initially felt sorrowful about it. The Holy Spirit guided me in writing it, and its purpose was not for me to repent, but rather to bring about a positive transformation. After learning from Titus about the beneficial impact it had on you, I now rejoice. Although the epistle made you sorry for a season, its sorrow was genuine and ultimately led to a deeper understanding and change of heart. So, even though I was in a regretful mood at first, I am now pleased to have made you sorry because it produced a lasting effect.",
+            "wordCount": 109,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 2.2730522473797916,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.92,
+            "commentatorTierSimilarities": [
+                33.27,
+                30.82,
+                35.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I initially regretted writing the epistle that grieved you, but now I am grateful for its outcome. The Holy Spirit inspired me to write it, and although I felt sorrowful at first, I now rejoice. The sorrow it caused you was only temporary, but its impact was significant. Your genuine sorrow led to a positive transformation, and I'm pleased that my initial regret turned into joy.",
+            "wordCount": 67,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.2124946961385206,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.91,
+            "commentatorTierSimilarities": [
+                30.86,
+                33.02,
+                36.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I did not regret writing the epistle that caused you grief, although I initially felt remorseful. The Holy Spirit led me in writing it, and my repentance was replaced by joy upon witnessing the positive effect it had on you. Even though the sorrow you experienced was temporary, it was genuine and led to meaningful change. I am now content with my decision, recognizing that the epistle served its purpose in bringing about transformation and growth.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.1121557325475475,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                32.46,
+                31.03,
+                36.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Although I initially regretted writing the epistle that caused you grief, I now rejoice in its outcome. The Holy Spirit guided me in writing it, and while I experienced a momentary repentance, I ultimately do not regret it. The sorrow it evoked in you was temporary yet sincere, and I am satisfied with the lasting impact it had. I am content knowing that my conviction to rebuke you has led to genuine transformation and understanding.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.1473660778985213,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+            "commentatorTierSimilarities": [
+                30.74,
+                31.27,
+                37.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

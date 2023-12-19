@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:28:21",
+    "verseRef": "1 Timothy 1:9",
+    "bestBHT": {
+        "bht": "The reason why the ten commandments have no power to condemn the Christian is not that they have no authority over him, but because Christ has fulfilled them as our surety. From the law comes ungodly and sinners, unholy and profane, murderers, manslayers. The purpose of the law was not to fetter the minds of the righteous, but to restrain the wicked from sin. No good man feels himself manacled by wholesome laws, and the law would not be needed but for the lawless element in men which needs correction.",
+        "wordCount": 90,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 2.232762588655408,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+        "commentatorTierSimilarities": [
+            25.76,
+            36.68,
+            37.56
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "One not forensically amenable to the law.",
+            "The reason why the ten commandments have no power to condemn the Christian is not that they have no authority over him, but because Christ has fulfilled them as our surety.",
+            "From the law comes ungodly and sinners, unholy and profane, murderers, manslayers."
+        ],
+        "Albert Barnes": [
+            "The purpose of the law was not to fetter the minds of the righteous by numberless observances and minute regulations, but that it was to restrain the wicked from sin.",
+            "No good man feels himself lettered and manacled by wholesome laws, nor does he feel that the purpose of law is to reduce him to a state of servitude.",
+            "There is no sin which man will not commit if unrestrained, and there is in fact no conceivable form of crime of which he has not been guilty."
+        ],
+        "Marvin Vincent": [
+            "Knowing [\u03b5\u03b9\u03b4\u03c9\u03c2] . The participle is connected with tiv one, a man, in the preceding clause.\" ",
+            "Unholy - profane [\u03b1\u03bd\u03bf\u03c3\u03b9\u03bf\u03b9\u03c2 - \u03b2\u03b5\u03b2\u03b7\u03bb\u03bf\u03b9\u03c2] . Anosiov unholy, Past o See on holiness, Luke 1:75. Bebhlov profane, comp. ch. 1 Timothy 4:7; 1 Timothy 6:20; 2 Timothy 2:16; Hebrews 12:16.",
+            "Esau is called bebhlov in Hebrews 12:16, as one who did not regard his birthright as sacred, but as something to be sold in order to supply a common need."
+        ],
+        "John Calvin": [
+            "A remarkable and striking instance of this is found in those who maintain the righteousness of works and defend free-will. They have continually in their mouth these words, 'Perfect holiness, merits, satisfactions;' but their whole life cries out against them, that they are outrageously wicked and ungodly, that they provoke in every possible way the wrath of God, and fearlessly set his judgment at naught.",
+            "He takes for granted the well-known sentiment, that 'from bad manners have sprung good laws,' and maintains that the law of God was given in order to restrain the licentiousness of wicked men; because they who are good of their own accord do not need the authoritative injunction of the law.",
+            "He therefore wished to repress the impudence of adversaries, who armed themselves with the name of 'the law' against godly men, whose whole life exhibits the actual role of the law, since they had very great need of the law, and yet did not care much about it."
+        ],
+        "Philip Schaff": [
+            "The law would not be needed but for the lawless element in men which needs correction.",
+            "The next four words, while expressing different shades of evil, have this in common, that they all speak of evil in its relation to God.",
+            "In the strong words chosen to indicate the sins of deepest dye in each case, we may probably trace a righteous indignation at the sins of the Heathen world."
+        ],
+        "Archibald T. Robertson": [
+            "Is not made for (\u03bf\u03c5 \u03ba\u03b5\u03b9\u03c4\u03b1). The use of \u03ba\u03b5\u03b9\u03c4\u03b1 for \u03c4\u03b5\u03b8\u03b5\u03b9\u03c4\u03b1 (perfect passive of \u03c4\u03b9\u03b8\u03b7\u03bc) is a common enough idiom.\" ",
+            "Unruly (\u03b1\u03bd\u03c5\u03c0\u03bf\u03c4\u03b1\u03ba\u03c4\u03bf\u03b9\u03c2). Dative (like all these words) of the late verbal (\u03b1 privative and \u03c5\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03c9).",
+            "Manslayers (\u03b1\u03bd\u03b4\u03c1\u03b1\u03c6\u03bf\u03bd\u03bf\u03b9\u03c2). Old compound (\u03b1\u03bd\u03b7\u03c1, man, \u03c6\u03bf\u03bd\u03bf\u03c2, murder)."
+        ],
+        "John Gill": [
+            "No man is naturally righteous since Adam, excepting the man Christ Jesus...none are righteous, or can be justified in the sight of God by the works of the law...",
+            "it never was made with any such view as to obtain righteousness by it; for, a righteous man...need it not for such a purpose, because they are already righteous...",
+            "But for the lawless and disobedient...the law lies upon, and against such persons, as an accusing, terrifying, cursing, and condemning law."
+        ],
+        "John Wesley": [
+            "The law doth not lie against a righteous man.\" ",
+            "But against the lawless and disobedient.\" ",
+            "Against the ungodly and sinners, the unholy and profane."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The reason why the ten commandments have no power to condemn the Christian is not that they have no authority over him, but because Christ has fulfilled them as our surety. From the law comes ungodly and sinners, unholy and profane, murderers, manslayers. The purpose of the law was not to fetter the minds of the righteous by numberless observances and minute regulations, but that it was to restrain the wicked from sin. No good man feels himself lettered and manacled by wholesome laws, nor does he feel that the purpose of law is to reduce him to a state of servitude. The law would not be needed but for the lawless element in men which needs correction. In the strong words chosen to indicate the sins of deepest dye in each case, we may probably trace a righteous indignation at the sins of the Heathen world.",
+            "wordCount": 147,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.147728517016194,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                24.1,
+                41.17,
+                34.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reason why the ten commandments have no power to condemn the Christian is because Christ has fulfilled them as our surety. From the law comes ungodly and sinners, unholy and profane, murderers, manslayers. The purpose of the law was to restrain the wicked from sin. No good man feels himself lettered and manacled by wholesome laws. The law would not be needed but for the lawless element in men which needs correction. In the strong words chosen, we may trace a righteous indignation at the sins of the Heathen world.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.0791573886083476,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.47,
+            "commentatorTierSimilarities": [
+                25.53,
+                38.8,
+                35.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The reason why the ten commandments have no power to condemn the Christian is because Christ has fulfilled them as our surety. From the law comes ungodly and sinners, unholy and profane, murderers, manslayers. The purpose of the law was to restrain the wicked from sin. No good man feels himself lettered and manacled by wholesome laws. The law would not be needed but for the lawless element in men which needs correction.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.1210982046295777,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+            "commentatorTierSimilarities": [
+                26.48,
+                37.45,
+                36.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The reason why the ten commandments have no power to condemn the Christian is not that they have no authority over him, but because Christ has fulfilled them as our surety. From the law comes ungodly and sinners, unholy and profane, murderers, manslayers. The purpose of the law was not to fetter the minds of the righteous, but to restrain the wicked from sin. No good man feels himself manacled by wholesome laws, and the law would not be needed but for the lawless element in men which needs correction.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.232762588655408,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                25.76,
+                36.68,
+                37.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The reason why the ten commandments have no power to condemn the Christian is because Christ has fulfilled them as our surety. From the law comes ungodly and sinners, unholy and profane, murderers, manslayers. No good man feels himself lettered and manacled by wholesome laws. The law would not be needed but for the lawless element in men which needs correction. In the strong words chosen, we may trace a righteous indignation at the sins of the Heathen world.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.0484219037824785,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.45,
+            "commentatorTierSimilarities": [
+                26.3,
+                38.59,
+                35.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

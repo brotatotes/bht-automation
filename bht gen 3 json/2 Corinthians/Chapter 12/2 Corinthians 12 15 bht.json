@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:18:41",
+    "verseRef": "2 Corinthians 12:15",
+    "bestBHT": {
+        "bht": "The Apostle promises to spend himself completely, even giving his flesh for the salvation of souls. His love surpasses that of natural fathers, going beyond laying up treasures to spending not just possessions, but himself. Love descends rather than ascends, seeking the good of others above all. This example of sacrificial love should inspire pastors and believers to prioritize the spiritual welfare of others, even when love is not reciprocated.",
+        "wordCount": 70,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 1.9686487726995288,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+        "commentatorTierSimilarities": [
+            37.91,
+            33.33,
+            28.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostle promises more than even natural fathers do. They lay up treasures: I will spend them.\" ",
+            "I will spend myself: even if I must give my flesh for the salvation of your souls, I will not spare it.",
+            "I will spend myself: even if I must give my flesh for the salvation of your souls, I will not spare it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I spend not merely my treasures, but myself.",
+            "Love rather descends than ascends.",
+            "Love him as a true friend who seeks your good more than your good will."
+        ],
+        "Albert Barnes": [
+            "The labor of a father for his children is cheerful and pleasant. Such is his love for them that he delights in toil for their sake, and that he may make them happy.",
+            "He should be willing to engage in unremitted efforts for their welfare; and if he has any right feeling he will find a pleasure in that toil.",
+            "The proper end of laboring for their welfare is not to excite their gratitude, but to obey the will of God; and no matter whether others are grateful or not; whether they love us or not; whether we can promote our popularity with them or not, let us do them good always."
+        ],
+        "Marvin Vincent": [
+            "Be spent [\u03b5\u03ba\u03b4\u03b1\u03c0\u03b1\u03bd\u03b7\u03b8\u03b7\u03c3\u03bf\u03bc\u03b1\u03b9] . Only here in the New Testament. To spend utterly. Later Greek writers use the simple verb dapanaw to expend, of the consumption of life."
+        ],
+        "John Calvin": [
+            "This, certainly, was an evidence of a more than fatherly affection \u2014 that he was prepared to lay out in their behalf not merely his endeavors, and everything in his power to do, but even life itself.",
+            "What heart, though even as hard as iron, would such ardor of love not soften or break, especially in connection with such constancy?",
+            "Let all Pastors, therefore, learn from this, what they owe to their Churches."
+        ],
+        "Philip Schaff": [
+            "And I will most gladly spend and be spent (Gr. \u2018spent out\u2019) for your souls.",
+            "If I love you more abundantly, am I loved the less?"
+        ],
+        "Archibald T. Robertson": [
+            "I will most gladly spend and be spent.",
+            "Both future active of old verb \u03b4\u03b1\u03c0\u03b1\u03bd\u03b1\u03c9 (Mark 5:26) to spend money, time, energy, strength and the future passive of \u03b5\u03ba\u03b4\u03b1\u03c0\u03b1\u03bd\u03b1\u03c9, late compound to spend utterly, to spend out, (\u03b5\u03ba-), to spend wholly.",
+            "Only here in N.T."
+        ],
+        "John Gill": [
+            "He not only determined to take nothing from them, but was willing to communicate his little substance to them, or spend it in their service; and not only so, but be spent for them.",
+            "Though he loved them more than he did other churches, or than the false apostles loved them, and yet were loved by them less than he was by other churches.",
+            "Though he increased in his love, and in the expressions of it to them, and they grew colder and more indifferent to him, yet this should not hinder his warmest desires and most earnest endeavors after their spiritual and eternal welfare."
+        ],
+        "John Wesley": [
+            "I will gladly spend \u2014 All I have.",
+            "And be spent \u2014 Myself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle in 2 Corinthians 12:15 promises to go above and beyond what even natural fathers do for their children. He is willing to lay up treasures and spend himself for the salvation of their souls, sparing nothing. This selflessness is driven by love, which descends rather than ascends and seeks the good of others more than its own. The labor and toil expended for the welfare of others should not be motivated by receiving gratitude or love in return, but rather by obedience to God's will. This unwavering commitment to spending and being spent for the sake of others is a powerful example for pastors and all believers.",
+            "wordCount": 108,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.907188276830985,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+            "commentatorTierSimilarities": [
+                33.18,
+                37.13,
+                29.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle in this passage promises to spend himself completely for the sake of others, going beyond what natural fathers do for their children. This selfless love seeks the good of others more than its own. The labor and toil expended for their welfare should not be motivated by receiving gratitude, but by obedience to God's will. This commitment to spending and being spent for the sake of others serves as a powerful example for pastors and believers.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.8024174101422434,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                32.02,
+                37.48,
+                30.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle in this verse promises to spend himself completely, even giving his flesh for the salvation of souls. His love is greater than that of natural fathers, as he lays up treasures and spends not just his possessions, but himself. This selflessness shows that love descends rather than ascends, seeking the good of others above all else. This example of sacrificial love should inspire pastors and all believers to prioritize the spiritual and eternal welfare of others, even when love is not reciprocated.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.8872221276969117,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                34.96,
+                34.82,
+                30.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle promises to spend himself completely, even giving his flesh for the salvation of souls. His love surpasses that of natural fathers, going beyond laying up treasures to spending not just possessions, but himself. Love descends rather than ascends, seeking the good of others above all. This example of sacrificial love should inspire pastors and believers to prioritize the spiritual welfare of others, even when love is not reciprocated.",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.9686487726995288,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                37.91,
+                33.33,
+                28.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle in this passage promises to spend himself utterly, not just his treasures but his very flesh, all for the sake of saving souls. His love extends beyond what natural fathers do, as he lays up treasures and spends himself completely. This selfless love is characterized by descending rather than ascending, seeking the good of others over one's own. Pastors and believers are encouraged to imitate this sacrificial love, prioritizing the spiritual wellbeing of others above all else, regardless of how they are received.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.8737725015990105,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                36.4,
+                32.61,
+                31.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

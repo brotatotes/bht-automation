@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:15:22",
+    "verseRef": "Luke 5:27",
+    "bestBHT": {
+        "bht": "He saw a publican named Levi, better known as Matthew, sitting at his desk for collecting customs. Jesus looked attentively and observed him. This was a powerful act of grace as Jesus singled out Levi and called him to be a follower. All three Gospels record Jesus saying Follow me to Levi, demonstrating the special and distinguishing grace shown in this encounter (Matthew 9:9; Mark 2:14).",
+        "wordCount": 64,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 1.7531293690199483,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.63,
+        "commentatorTierSimilarities": [
+            47.94,
+            0.0,
+            52.06
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "27.] not merely \u2018He saw,\u2019 but He looked on,\u2014He ob-served."
+        ],
+        "Marvin Vincent": [
+            "He saw [\u03b5\u03b8\u03b5\u03b1\u03c3\u03b1\u03c4\u03bf] . Better, as Rev., beheld, since the verb denotes looking attentively. See on Matthew 11:7. ",
+            "A publican. See on chapter Luke 3:12. ",
+            "Receipt of custom. See on Matthew 9:9."
+        ],
+        "Archibald T. Robertson": [
+            "A publican named Levi (\u03c4\u03b5\u03bb\u03c9\u03bd\u03b5\u03bd \u03bf\u03bd\u03bf\u03bc\u03b1\u03c4 \u039b\u03b5\u03c5\u03b5\u03b9\u03bd).",
+            "Mark 2:13 has also 'The son of Alphaeus' while Matthew 9:9 calls him 'Matthew.' He had, of course, both names.",
+            "All three Gospels give the command of Jesus, Follow me (\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5)."
+        ],
+        "John Gill": [
+            "An instance of powerful, special, and distinguishing grace.\" ",
+            "He singled out Levi, or Matthew, and directed his discourse to him.\" ",
+            "Called him to be a follower of him."
+        ],
+        "John Wesley": [
+            "Matthew 9:9; Mark 2:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He saw a publican named Levi, better known as Matthew, sitting at his desk for collecting customs. Jesus looked attentively and observed him. This was a powerful act of grace as Jesus singled out Levi and called him to be a follower. All three Gospels record Jesus saying Follow me to Levi, demonstrating the special and distinguishing grace shown in this encounter (Matthew 9:9; Mark 2:14).",
+            "wordCount": 64,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.7531293690199483,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.63,
+            "commentatorTierSimilarities": [
+                47.94,
+                0.0,
+                52.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus saw Levi, a publican who also went by the name Matthew, sitting at his desk collecting customs. By looking attentively and observing him, Jesus extended a profound act of grace and singled out Levi, choosing him to be a follower. The command Follow me was given directly to Levi, showcasing the unique and distinguishing grace displayed in this encounter (Matthew 9:9; Mark 2:14).",
+            "wordCount": 62,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7427759618718555,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                45.72,
+                0.0,
+                54.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus looked upon Levi, a publican also known as Matthew, who was sitting at his desk for collecting customs. This act of observance and attention demonstrated a remarkable and distinct grace on Jesus' part. He specifically singled out Levi and called him to be a follower, uttering the words Follow me. This extraordinary encounter is recorded in Matthew 9:9 and Mark 2:14 as a powerful example of Jesus' special and unique grace.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.5382313135468457,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                41.39,
+                0.0,
+                58.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus beheld Levi, a publican named Matthew, sitting at his desk for collecting customs. This act of attentiveness showcased a remarkable and distinguishing grace. Jesus specifically singled out Levi, calling him to be a follower, as recorded in Matthew 9:9 and Mark 2:14. The command Follow me was directed towards him, exemplifying the extraordinary display of grace in this encounter.",
+            "wordCount": 58,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 1.5776624889733561,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.8,
+            "commentatorTierSimilarities": [
+                42.87,
+                0.0,
+                57.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus observed Levi, a publican identified as Matthew, as he sat at his desk for collecting customs. This act of attentive observation demonstrated a significant and unique grace. Jesus specifically singled out Levi and summoned him to become a follower with the command Follow me, as detailed in Matthew 9:9 and Mark 2:14. The encounter between Jesus and Levi exemplifies an instance of special and distinguishing grace.",
+            "wordCount": 65,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.5684645309904148,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.49,
+            "commentatorTierSimilarities": [
+                43.38,
+                0.0,
+                56.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

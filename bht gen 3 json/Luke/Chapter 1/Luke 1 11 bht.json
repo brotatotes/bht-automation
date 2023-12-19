@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:13:04",
+    "verseRef": "Luke 1:11",
+    "bestBHT": {
+        "bht": "At the altar of incense, an angel appeared to Zacharias, standing favorably on the right side between the altar and the candlestick. This was not a mere vision, but an actual objective appearance. Trying to explain away the reality of the angel is futile; we must choose between admitting an objective appearance and a myth. The constant presence of angels in the temple, even in a time of corruption, is significant. The temple, often the scene of the manifestation of the glory of the Lord, becomes the centre, whence the first rays of light secretly break through the darkness.",
+        "wordCount": 99,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.8033634128329656,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.3,
+        "commentatorTierSimilarities": [
+            31.64,
+            38.34,
+            30.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The altar of incense... must not be confounded with the large altar of burnt-offering.",
+            "This is no vision, but an actual angelic appearance.",
+            "The right is the favorable side."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The right was the favorable side.\" ",
+            "The right side\u2014the south side, between the altar and the candlestick.",
+            "Zacharias being on the north side, in front of the altar, while offering incense."
+        ],
+        "Albert Barnes": [
+            "An 'angel' is a messenger sent from God...to prepare them to receive him.",
+            "On the right side...the angel would stand on the north, or near the table of showbread.",
+            "Upon this altar incense was burned every morning and every evening, so that it was literally perpetual."
+        ],
+        "Philip Schaff": [
+            "An actual angelic appearance.",
+            "The presence of angels in the place dedicated to God, even at such a time of corruption, is suggestive.",
+            "The temple, so often the scene of the manifestation of the glory of the Lord, becomes again the centre, whence the first rays of light secretly break through the darkness."
+        ],
+        "Archibald T. Robertson": [
+            "There is no use in trying to explain away the reality of the angel.",
+            "We must choose between admitting an objective appearance and a myth.",
+            "We must choose between admitting an objective appearance and a myth (Plummer)."
+        ],
+        "John Gill": [
+            "The Jews sometimes speak of divine and wonderful appearances to their priests, at such times, and in such places.",
+            "And according to Josephus, the high priest Hyrcanus received an oracle, or answer from God, as he was offering incense; so that the Jews ought not to discredit such an appearance to Zacharias.",
+            "So that it was on the north side that the angel stood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the altar of incense, an angel appeared to Zacharias, standing favorably on the right side, between the altar and the candlestick. This was not a mere vision, but an actual objective appearance. Trying to explain away the reality of the angel is futile; we must choose between admitting an objective appearance and a myth. The constant presence of angels in the temple, even in a time of corruption, is significant. The temple, often a place where the glory of the Lord is revealed, becomes the source of divine light breaking through darkness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7741467779700124,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                32.42,
+                36.58,
+                31.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the altar of incense, an angel appeared to Zacharias, standing on the right side between the altar and the candlestick. This was not a vision, but a real objective appearance. We must choose between admitting an objective appearance and a myth. The presence of angels in the temple, even in a time of corruption, is significant. The temple becomes the source of divine light breaking through darkness.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.7628541454430673,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+            "commentatorTierSimilarities": [
+                37.18,
+                33.71,
+                29.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the altar of incense, an angel appeared to Zacharias, standing favorably on the right side, between the altar and the candlestick. This was not a mere vision, but an actual objective appearance. Trying to explain away the reality of the angel is futile; we must choose between admitting an objective appearance and a myth. The constant presence of angels in the temple, even in a time of corruption, is significant. The temple, often a place where the glory of the Lord is revealed, becomes the source of divine light breaking through darkness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7741467779700124,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                32.42,
+                36.58,
+                31.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the altar of incense, an angel appeared to Zacharias, standing on the right side between the altar and the candlestick. This was not a vision, but a real objective appearance. We must choose between admitting an objective appearance and a myth. The presence of angels in the temple, even in a time of corruption, is significant. The temple becomes the source of divine light breaking through darkness.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.7628541454430673,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+            "commentatorTierSimilarities": [
+                37.18,
+                33.71,
+                29.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the altar of incense, an angel appeared to Zacharias, standing favorably on the right side between the altar and the candlestick. This was not a mere vision, but an actual objective appearance. Trying to explain away the reality of the angel is futile; we must choose between admitting an objective appearance and a myth. The constant presence of angels in the temple, even in a time of corruption, is significant. The temple, often the scene of the manifestation of the glory of the Lord, becomes the centre, whence the first rays of light secretly break through the darkness.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8033634128329656,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.3,
+            "commentatorTierSimilarities": [
+                31.64,
+                38.34,
+                30.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

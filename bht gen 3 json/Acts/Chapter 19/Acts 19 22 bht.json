@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:33:41",
+    "verseRef": "Acts 19:22",
+    "bestBHT": {
+        "bht": "After Pentecost, Paul intended to follow Timothy on a mission to bring the churches in Macedonia and Achaia into remembrance of his teachings. This journey was not without uncertainty, but Paul had sent Timothy to Corinth previously, hoping that he would return to Paul in Ephesus afterwards. Meanwhile, Paul stayed in Asia, specifically Ephesus, for a season. Ultimately, the delay in Paul's departure was due to the open doors of opportunity in Ephesus.",
+        "wordCount": 74,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 2.046220261754531,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+        "commentatorTierSimilarities": [
+            35.7,
+            37.76,
+            26.54
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He intended himself to follow, after Pentecost...This mission of Timothy is alluded to...\" (23 words)",
+            "The object of it was to bring these churches in Macedonia and Achaia into remembrance of the ways and teaching of Paul.\" (22 words)",
+            "Considerable uncertainty hangs over this journey...See 1 Cor. xvi. as above: and 2 Cor. xii. 18.\" (22 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "After a brief stay he was to return.\" ",
+            "It is very unlikely that this Erastus was 'the chamberlain of the city' of Corinth, of that name.\" ",
+            "Asia is mentioned in contrast with Macedonia in the previous clause."
+        ],
+        "Albert Barnes": [
+            "Timotheus - Timothy. He was a proper person to send there to visit the churches, as he had been there before with Paul, when they were established.",
+            "Erastus was chamberlain of Corinth (Romans 16:23), or, more properly, the treasurer of the city [...] Paul had wisdom enough to employ a man accustomed to monied transactions in making a collection.",
+            "He stayed in Asia at Ephesus for a season. How long is uncertain. He waited for a convenient opportunity to follow them, probably intending to do it as soon as they had fully prepared the way for the collection."
+        ],
+        "Philip Schaff": [
+            "From a passage in [Paul's] epistle, we learn some of the reasons why one of these two friends of Paul was sent over into Europe before his master.",
+            "Erastus was most likely the same as the person alluded to in Romans 16:23 as the chamberlain of Corinth, and was not improbably chosen as the companion of Timothy on this difficult and delicate mission.",
+            "He appears to have gone on with his work for several months after the effect produced by the failure of the pretended exorcist family of Sceva the priest and the subsequent burning of the precious works on magic, until the uproar excited by the panic-stricken artificers who lived on the pilgrims to the great Diana shrine."
+        ],
+        "Archibald T. Robertson": [
+            "Paul had sent Timothy to Corinth [...] that he might return to Paul as he evidently had before Paul leaves Ephesus.\" ",
+            "He then despatched Titus to Corinth to finish what Timothy had not quite succeeded in doing with instructions to meet him in Troas.\" ",
+            "The reason for Paul's delay is given by him in 1 Corinthians 16:8, the great door wide open in Ephesus."
+        ],
+        "John Gill": [
+            "So he sent into Macedonia... two of them that ministered unto him.\" ",
+            "Timotheus and Erastus... were his assistants in preaching the Gospel.",
+            "But he himself stayed in Asia for a season; that is, at Ephesus, as the following narration shows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Pentecost, Paul intended to follow Timothy on a mission to bring the churches in Macedonia and Achaia into remembrance of his teachings. This journey was not without uncertainty, but Paul had sent Timothy to Corinth previously, hoping that he would return to Paul in Ephesus afterwards. Meanwhile, Paul stayed in Asia, specifically Ephesus, for a season. Ultimately, the delay in Paul's departure was due to the open doors of opportunity in Ephesus.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.046220261754531,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+            "commentatorTierSimilarities": [
+                35.7,
+                37.76,
+                26.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul intended to follow Timothy on a mission after Pentecost to bring the churches in Macedonia and Achaia into remembrance of his teachings. There is uncertainty surrounding this journey, but Timothy had been sent to Corinth before and was a suitable person to visit the churches. Meanwhile, Paul stayed in Asia, specifically Ephesus, for a season, due to the open doors of opportunity in that area.",
+            "wordCount": 66,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.9605057609294656,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.53,
+            "commentatorTierSimilarities": [
+                33.79,
+                40.33,
+                25.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul intended to follow Timothy on a mission to bring the churches in Macedonia and Achaia into remembrance of his teachings. There is uncertainty surrounding this journey, but Timothy had been previously been sent to Corinth. Meanwhile, Paul stayed in Asia, specifically Ephesus, for a season, due to the open doors of opportunity that were present there.",
+            "wordCount": 57,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9325026993898282,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+            "commentatorTierSimilarities": [
+                35.29,
+                37.03,
+                27.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Pentecost, Paul intended himself to follow and sent Timothy on a mission to bring the churches in Macedonia and Achaia into remembrance of his teachings. However, there is considerable uncertainty surrounding this journey. Meanwhile, Paul stayed in Asia, specifically Ephesus, for a season, as he waited for a convenient opportunity to follow Timothy. This delay was due to the great doors of opportunity that were open to him in Ephesus.",
+            "wordCount": 71,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.7529410511497665,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.63,
+            "commentatorTierSimilarities": [
+                34.79,
+                36.67,
+                28.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After Pentecost, Paul intended himself to follow and sent Timothy on a mission to bring the churches in Macedonia and Achaia into remembrance of his teachings. Considerable uncertainty hangs over this journey, but Timothy had been previously sent to Corinth. Meanwhile, Paul stayed in Asia, specifically Ephesus, for a season, as he waited for a convenient opportunity to follow Timothy. This delay was due to the great doors of opportunity that were open to him in Ephesus.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.9917016044884446,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.57,
+            "commentatorTierSimilarities": [
+                35.46,
+                38.14,
+                26.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

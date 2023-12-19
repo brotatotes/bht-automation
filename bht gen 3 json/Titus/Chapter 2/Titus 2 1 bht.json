@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:09:30",
+    "verseRef": "Titus 2:1",
+    "bestBHT": {
+        "bht": "But speak thou the things which befit the sound doctrine; that the aged men be sober, grave, discreet, sound in their faith, in their love, in their patience. Nothing so effectually allays men's wandering curiosity as being brought to recognize those duties in which they ought to exercise themselves. True Christian doctrine is \u2018healthy\u2019 for the soul because it is accompanied by practical goodness. Sound doctrine ought to be spoken out openly and publicly, fully and faithfully, with great plainness and evidence, that it may be understood and known by all.",
+        "wordCount": 92,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 2.0075557883865756,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+        "commentatorTierSimilarities": [
+            26.06,
+            38.86,
+            35.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But do thou speak the things which befit the sound doctrine...",
+            "...that the aged men be sober, grave, discreet, sound in their faith, in their love, in their patience.",
+            "...self-restrained, sound in their faith, in their love, in their patience."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He deals more in exhortations, because those intent on useless questions needed chiefly to be recalled to the study of a holy, moral life.\" ",
+            "Nothing so effectually allays men's wandering curiosity, as the being brought to recognize those duties in which they ought to exercise themselves.",
+            "Speak without restraint."
+        ],
+        "Albert Barnes": [
+            "But speak thou - In thine own ministry.",
+            "The things which become sound doctrine.",
+            "On the phrase sound doctrine, see the notes at 1 Timothy 1:10; compare 2 Timothy 4:3."
+        ],
+        "Marvin Vincent": [
+            "Speak thou. See on Matthew 28:18; John 8:26.",
+            "Become. Originally, to stand out; be conspicuous.",
+            "In N. T. in the impersonal forms prepon ejstin it is becoming (Matthew 3:15); prepei it becometh (Ephesians 5:3); eprepen it became (Hebrews 2:10)."
+        ],
+        "John Calvin": [
+            "Sound doctrine is so called from the effect produced by it; as, on the contrary, he says, that unskillful men dote about questions which do no good. Sound, therefore, means wholesome, that which actually feeds souls.",
+            "The first [part of sound doctrine] is that which magnifies the grace of God in Christ, from which we may learn where we ought to seek our salvation; and the second is that by which the life is framed to the fear of God, and inoffensive conduct.",
+            "For nothing is better fitted to restrain the wandering curiosity of men than to know in what duties they ought to be employed."
+        ],
+        "Philip Schaff": [
+            "True Christian doctrine is \u2018healthy\u2019 for the soul, because it is accompanied by practical goodness.\" ",
+            "What Titus is to teach on the duties of family life, in five particulars: (a) old men, (b) old women, (c) young women, (d) young men, and (e) slaves.",
+            "Titus 2:1. True Christian doctrine is \u2018healthy\u2019 for the soul, because it is accompanied by practical goodness."
+        ],
+        "Archibald T. Robertson": [
+            "In contrast to these Pharisaic Gnostics in Crete.",
+            "Befit (\u03c0\u03c1\u03b5\u03c0\u03b5). Old verb to be becoming, seemly.",
+            "Sound (\u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03bf\u03c5\u03c3\u03b7). Healthful as in Titus 1:13; Titus 2:2; 1 Timothy 1:10, common word in the Pastorals."
+        ],
+        "John Gill": [
+            "The things which become it are a good life and conversation, the various duties incumbent on professors of religion, according to their different station, age, and sex...\" ",
+            "Sound doctrine ought to be spoken out openly and publicly, fully and faithfully, with great plainness and evidence, that it may be understood and known by all...",
+            "...the duties of religion, which become sound doctrine, should be set in their true light, and proper place, as fruits of the grace of God, and to glorify him..."
+        ],
+        "John Wesley": [
+            "Wholesome \u2014 Restoring and preserving spiritual health."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But speak thou the things which befit the sound doctrine; that the aged men be sober, grave, discreet, sound in their faith, in their love, in their patience. Nothing so effectually allays men's wandering curiosity as being brought to recognize those duties in which they ought to exercise themselves. Sound doctrine ought to be spoken out openly and publicly, fully and faithfully, with great plainness and evidence, that it may be understood and known by all. True Christian doctrine is \u2018healthy\u2019 for the soul because it is accompanied by practical goodness. The duties of religion, which become sound doctrine, should be set in their true light and proper place, as fruits of the grace of God and to glorify Him.",
+            "wordCount": 121,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 2.0348808644742657,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+            "commentatorTierSimilarities": [
+                23.48,
+                38.33,
+                38.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But speak thou the things which befit the sound doctrine; that the aged men be sober, grave, discreet, sound in their faith, in their love, in their patience. Nothing so effectually allays men's wandering curiosity as being brought to recognize those duties in which they ought to exercise themselves. True Christian doctrine is \u2018healthy\u2019 for the soul because it is accompanied by practical goodness. Sound doctrine ought to be spoken out openly and publicly, fully and faithfully, with great plainness and evidence, that it may be understood and known by all.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.0075557883865756,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                26.06,
+                38.86,
+                35.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "But speak thou the things which befit the sound doctrine; that the aged men be sober, grave, discreet, sound in their faith, in their love, in their patience. Nothing so effectually allays men's wandering curiosity as being brought to recognize those duties in which they ought to exercise themselves. True Christian doctrine is \u2018healthy\u2019 for the soul because it is accompanied by practical goodness. Sound doctrine ought to be spoken out openly and publicly, fully and faithfully, with great plainness and evidence, that it may be understood and known by all.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.0075557883865756,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                26.06,
+                38.86,
+                35.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul advises Titus to speak the things that are in accordance with sound doctrine. This includes instructing the older men to be temperate, dignified, sensible, and sound in faith, love, and patience. The focus on practical, moral living is intended to redirect those who engage in unproductive discussions. By emphasizing the importance of living out the teachings of the faith, Paul aims to align the believers' actions with their beliefs, promoting a healthy and authentic Christian lifestyle. Such teachings should be communicated openly and clearly for all to understand.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.809700079856742,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                25.66,
+                39.81,
+                34.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul urges Titus to speak in accordance with sound doctrine, emphasizing practicality and moral living. Older men should exemplify sobriety, dignity, discretion, and steadfastness in their faith, love, and patience. The purpose is to steer individuals away from fruitless discussions and guide them towards fulfilling their duties. By openly and faithfully proclaiming sound doctrine, the teachings can be understood and known by all. True Christian doctrine nourishes the soul as it is accompanied by practical goodness, restoring and preserving spiritual health.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.924730560252069,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.34,
+            "commentatorTierSimilarities": [
+                21.38,
+                39.36,
+                39.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

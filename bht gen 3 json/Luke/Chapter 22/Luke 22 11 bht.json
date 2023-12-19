@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:22:50",
+    "verseRef": "Luke 22:11",
+    "bestBHT": {
+        "bht": "The goodman of the house is not a water-carrier, but a person of wealth. The Greek word for guest chamber refers to a room set apart specifically for the Passover feast. The room being prepared would not be surprising. The term master of the house is used elsewhere to refer to Jesus. The disciples were informed by Jesus Himself, indicating that the word master was well known among His followers. The term guest-chamber properly refers to a place for feasting and refreshment.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.3908669493593586,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.59,
+        "commentatorTierSimilarities": [
+            47.54,
+            0.0,
+            52.46
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The 'goodman of the house' was a man of some wealth, and could not be identical with the water-carrier.",
+            "The Greek word rendered guestchamber is not here, as in ch. ii. 7, an inn, but a room set apart at this season of the feast, by residents in Jerusalem, in which parties coming from the country might eat the Passover.",
+            "The question therefore would be well understood;\u2014and the room being spread, and as Mark adds, 'prepared,' would be no matter of surprise."
+        ],
+        "Marvin Vincent": [
+            "Guest - chamber. See on Mark 14:14."
+        ],
+        "Archibald T. Robertson": [
+            "Goodman of the house (\u03bf\u03b9\u03ba\u03bf\u03b4\u03b5\u03c3\u03c0\u03bf\u03c4\u03b7). Master of the house as in Mark 14:14; Matthew 10:25.",
+            "A late word for the earlier \u03b4\u03b5\u03c3\u03c0\u03bf\u03c4\u03b7\u03c2 \u03bf\u03b9\u03ba\u03bf\u03c5.",
+            "I shall eat (\u03c6\u03b1\u03b3\u03c9). Second aorist futuristic (or deliberative) subjunctive as in Mark 14:14."
+        ],
+        "John Gill": [
+            "The master saith unto thee: by these his two disciples... it looks as if the word 'master', as peculiar to Christ... was well known to those who believed, and were followers of him.\" (14 words)",
+            "The word properly signifies an inn, or place to wait at... a place for refreshment and feasting.\" (15 words)",
+            "Who were a sufficient number to eat the passover lamb by themselves.\" (12 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The goodman of the house is not a water-carrier, but a person of wealth. The Greek word for guest chamber refers to a room set apart specifically for the Passover feast. The room being prepared would not be surprising. The term master of the house is used elsewhere to refer to Jesus. The disciples were informed by Jesus Himself, indicating that the word master was well known among His followers. The term guest-chamber properly refers to a place for feasting and refreshment. The disciples were a sufficient number to eat the Passover lamb on their own.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.381948685480587,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.29,
+            "commentatorTierSimilarities": [
+                41.6,
+                0.0,
+                58.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The goodman of the house is not a water-carrier, but a person of wealth. The Greek word for guest chamber refers to a room set apart specifically for the Passover feast. The room being prepared would not be surprising. The term master of the house is used elsewhere to refer to Jesus. The disciples were informed by Jesus Himself, indicating that the word master was well known among His followers. The term guest-chamber properly refers to a place for feasting and refreshment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.3908669493593586,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.59,
+            "commentatorTierSimilarities": [
+                47.54,
+                0.0,
+                52.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The goodman of the house in Luke 22:11 is not a water-carrier but a person of wealth. The Greek word for guest chamber refers to a specifically designated room in Jerusalem where the Passover feast could be eaten. The room would have been prepared and not a surprise. The term master of the house was used to refer to Jesus, indicating that the disciples would have been familiar with the term. The term guest-chamber refers to a place for feasting and refreshment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.4203841980219918,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.57,
+            "commentatorTierSimilarities": [
+                47.67,
+                0.0,
+                52.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The goodman of the house in this passage is not a common water-carrier, but a person of wealth. The Greek word for guest chamber here refers to a room dedicated to the Passover feast, prepared by residents in Jerusalem. The disciples would have been familiar with the term master of the house used to refer to Jesus. The term guest-chamber signifies a place for feasting and refreshment.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.479431077123944,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.53,
+            "commentatorTierSimilarities": [
+                42.4,
+                0.0,
+                57.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The goodman of the house mentioned in this verse is not a water-carrier but a person of wealth. The Greek term for guest chamber indicates a room specifically set apart for the feast of Passover, prepared by the residents of Jerusalem. The disciples would have been familiar with the term master of the house used to refer to Jesus. The term guest-chamber refers to a place designated for feasting and refreshment.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.4721215392681426,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.29,
+            "commentatorTierSimilarities": [
+                43.44,
+                0.0,
+                56.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

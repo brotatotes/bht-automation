@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:27:32",
+    "verseRef": "Acts 7:40",
+    "bestBHT": {
+        "bht": "The people, in their unthankfulness towards Moses for leading them out of Egypt, demanded idols to worship, rejecting the one true God. They desired gods to go before them, forgetting the pillar of cloud and fire that had guided and protected them. This contemptuous dismissal of Moses paralleled the rejection of the stone that became the cornerstone. The Israelites' disobedience and ingratitude were evident, as they neglected the signs of God's presence and forgot the law of Moses.",
+        "wordCount": 79,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.2541666481858904,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.29,
+        "commentatorTierSimilarities": [
+            29.9,
+            34.46,
+            35.64
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The plural is not put for the singular, but is used categorically.\" ",
+            "The only two religions were, the worship of Jehovah, and that of idols, a multitude.",
+            "In the opprobrious term, this Moses, may be implied, as Meyer suggests, \u2018who was the strong opponent of idolatry.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This Moses whom they refused, saying, Who made thee a ruler and a judge...\" - Acts 7:40.",
+            "Here, again, 'the stone which the builders refused is made the head of the corner' (Psalms 118:22).\" - Acts 7:40.",
+            "the stone which the builders refused is made the head of the corner\" - Acts 7:40."
+        ],
+        "Albert Barnes": [
+            "Saying unto Aaron - Exodus 32:1.",
+            "Make us gods - That is, idols."
+        ],
+        "Marvin Vincent": [
+            "Shall go before us. As symbols to be born before them on the march. Compare Nehemiah 9:18."
+        ],
+        "John Calvin": [
+            "There can no more filthy thing be invented than this their unthankfulness.",
+            "They will have gods present with them, as if God had showed unto them no token of his presence hitherto.",
+            "By this means is his heavenly glory deformed, and that fulfilled altogether which the Israelites say here, Make us gods."
+        ],
+        "Philip Schaff": [
+            "Gods to go before us. As the glory of Jehovah had done in the pillar of cloud and fire, and had guided them and led them up through the Red Sea, out of the land of Egypt.",
+            "As for this Moses ... we wot not what is become of him. This was spoken during Moses\u2019 stay in the mount of God, when, for forty days, he remained alone with the Eternal and His angels."
+        ],
+        "Archibald T. Robertson": [
+            "As guides and protectors, perhaps with some allusion to the pillar of fire and of cloud that had gone before them.",
+            "We do not know. How quickly they had forgotten both God and Moses while Moses was absent in the mount with God.",
+            "'This' here is a contemptuous allusion to Moses by the people."
+        ],
+        "John Gill": [
+            "This is a proof of their disobedience to the law of Moses, and of their rejection of him.",
+            "It shows the gross stupidity, as well as ingratitude of this people, to think that gods could be made.",
+            "They mention [the exodus] not with gratitude, but as reflecting upon him [Moses] for doing it."
+        ],
+        "John Wesley": [
+            "Make us gods to go before us \u2014 Back into Egypt. Exodus 32:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people, in their unthankfulness towards Moses for leading them out of Egypt, demanded idols to worship, rejecting the one true God. They desired gods to go before them, forgetting the pillar of cloud and fire that had guided and protected them. This contemptuous dismissal of Moses paralleled the rejection of the stone that became the cornerstone. The Israelites' disobedience and ingratitude were evident, as they neglected the signs of God's presence and forgot the law of Moses.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.2541666481858904,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.29,
+            "commentatorTierSimilarities": [
+                29.9,
+                34.46,
+                35.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people showed their ungratefulness towards Moses by demanding idols, forsaking the worship of the one true God. They rejected Moses, the strong opponent of idolatry, and refused to acknowledge the pillar of cloud and fire that had guided them. Their request for gods to go before them demonstrated their disobedience to the law of Moses and their ingratitude towards God. This contemptuous dismissal of Moses was akin to the rejection of the stone that became the cornerstone. The people's forgetfulness of God's presence and their desire for idols revealed their gross stupidity and lack of gratitude.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.2218283827311853,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.22,
+            "commentatorTierSimilarities": [
+                30.93,
+                33.55,
+                35.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people's demand for idols and rejection of Moses showcased their ingratitude towards God. They refused to acknowledge Moses, who strongly opposed idol worship, forgetting the pillar of cloud and fire that had guided them. This contemptuous rejection mirrored the rejection of the stone that became the cornerstone. Their disobedience to the law of Moses and their desire for gods to lead them displayed their gross stupidity and lack of gratitude.",
+            "wordCount": 72,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 2.0617723485855164,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.89,
+            "commentatorTierSimilarities": [
+                31.86,
+                32.32,
+                35.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people's ungratefulness towards Moses is evident as they reject him and demand idols to worship. They forget the pillar of cloud and fire that guided them and fail to acknowledge Moses as their leader. This rejection parallels the rejection of the stone that became the cornerstone. Their disobedience to the law of Moses and desire for gods to lead them demonstrate their ingratitude and lack of understanding. Their request for idols shows their disregard for God's presence and the signs He has shown them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.0556735432553435,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                30.88,
+                33.96,
+                35.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people's rejection of Moses and their demand for idols displays their ingratitude. They forget the pillar of cloud and fire that guided them and fail to acknowledge Moses as their leader. The parallel between their rejection of Moses and the rejection of the stone that became the cornerstone is evident. Their disobedience to the law of Moses and desire for gods to lead them demonstrate their lack of gratitude and understanding. Their request for idols reveals their disregard for God's presence and the signs He has shown them.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.1110517455687026,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.53,
+            "commentatorTierSimilarities": [
+                30.69,
+                33.95,
+                35.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

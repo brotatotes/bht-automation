@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:59:43",
+    "verseRef": "Romans 2:16",
+    "bestBHT": {
+        "bht": "In the day of judgment, Jesus Christ will expose the hidden secrets of men, particularly the depths of hypocrisy in the self-righteous. This judgment aligns with the true gospel proclaimed by Paul, which serves as the standard for evaluation. Those who have concealed their true selves cannot deceive anymore, as their secret plans and desires are unveiled. This serves as a warning for those who reject Christ as their Judge, while offering hope to those who embrace Him. The law written in their hearts will be evident, revealing the true nature of their actions.",
+        "wordCount": 95,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.9683672708277338,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.79,
+        "commentatorTierSimilarities": [
+            25.9,
+            37.05,
+            37.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To this it is bound, it appears to me, by the words the secrets of men, answering to 'every soul of man,' ver. 9.",
+            "After it, the reasons, necessitated by the startling assertion, are one after another given.",
+            "by Jesus Christ] viz. as the Judge\u2014see John v. 22:\u2014belongs to the verb shall judge."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In the day, c.",
+            "shall judge the secrets of men\u2014here specially referring to the unfathomed depths of hypocrisy in the self-righteous.",
+            "according to my gospel\u2014to my teaching as a preacher of the Gospel."
+        ],
+        "Albert Barnes": [
+            "The propriety of this is apparent, for, on the other hand, people of base motives, people of unprincipled character, and who are corrupt at the heart, are often lauded, flattered, and exalted into public estimation. It is proper that their secret principles should be detected, and that they should take their proper place in the government of God.",
+            "Who should not tremble at the idea that the secret plans and desires of his soul, which he has so long and so studiously concealed, should be brought out into noon-day in the judgment? All his artifices of concealment shall be then at an end. He will be able to practice disguise no longer. He will be seen as he is; and he will receive the doom he deserves.",
+            "The fact that Jesus Christ is appointed to judge the world is abundantly taught in the Bible... This does not mean that the gospel which he preached would be the rule by which God would judge all mankind, for he had just said that the pagan world would be judged by a different rule, Romans 2:12. But it means that he was entrusted with the gospel to make it known; and that one of the great and prime articles of that gospel was, that God would judge the world by Jesus Christ."
+        ],
+        "Marvin Vincent": [
+            "My gospel. As distinguished from false teaching Paul's assurance of the truth of the Gospel is shown in his confident assertion...",
+            "...that it will form the standard of judgment...",
+            "...in the great day."
+        ],
+        "John Calvin": [
+            "Those, who willfully hide themselves in the recesses of insensibility, that the most secret thoughts and those now completely hid in the depths of their hearts, shall then be brought forth to the light.",
+            "If we wish to be really approved by our Judge, we must strive for sincerity of heart.",
+            "Christ cannot be preached without being a resurrection to some, and a destruction to others; and both these things have a reference to the day of judgment."
+        ],
+        "Philip Schaff": [
+            "The attempt to preserve the close connection with Romans 2:15, rendering \u2018unto the day,\u2019 is grammatically objectionable.",
+            "Paul was so assured of the truth of the gospel he preached that he conceives of it as presenting the standard of judgment in the great day.",
+            "The Saviour is Judge; good news for those who accept Him, but a warning to those who refuse Him."
+        ],
+        "Archibald T. Robertson": [
+            "According to my gospel (\u03ba\u03b1\u03c4\u03b1 \u03c4\u03bf \u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03bf\u03bd \u03bc\u03bf\u03c5). What Paul preaches (1 Corinthians 15:1) and which is the true gospel "
+        ],
+        "John Gill": [
+            "the secrets of men: whether good or bad, which are only known to God and themselves",
+            "Jesus Christ; to whom all judgment is committed, who is ordained Judge of quick and dead",
+            "what he had said concerning a day of judgment, of Christ's being the Judge, and of God's judging by him the secrets of men, were as true and as certain as the Gospel which he preached was"
+        ],
+        "John Wesley": [
+            "In that day will appear the law written in their hearts as it often does in the present life.",
+            "On secret circumstances depends the real quality of actions, frequently unknown to the actors themselves.",
+            "According to my gospel \u2014 According to the tenor of that gospel which is committed to my care. Hence it appears that the gospel also is a law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the day of judgment, Jesus Christ, who has been appointed as the Judge, will bring to light the secrets of men, exposing the depths of hypocrisy in the self-righteous. This judgment will be according to the true gospel preached by Paul, which will serve as the standard. Those who have hidden their true selves and motives will no longer be able to deceive, as their secret plans and desires will be revealed. It is a warning to those who refuse to accept Christ as their Judge, but good news for those who accept Him. On that day, the law written in their hearts will be evident, showing the true quality of their actions.",
+            "wordCount": 115,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.022044288295084,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.57,
+            "commentatorTierSimilarities": [
+                25.07,
+                37.89,
+                37.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the day of judgment, Jesus Christ, as the Judge, will disclose the secrets of men, specifically the hidden depths of hypocrisy in the self-righteous. This judgment will adhere to the true gospel proclaimed by Paul, serving as the criterion. Those who have concealed their true selves and motives will no longer be able to deceive, as their secret plans and desires will be revealed. This is a warning for those who reject Christ as their Judge, while being good news for those who accept Him. On that day, the law written in their hearts will be known, unveiling the true nature of their actions.",
+            "wordCount": 106,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.0207514248505456,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                25.65,
+                37.0,
+                37.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the day of judgment, Jesus Christ, appointed as the Judge, will bring to light the secrets of men, exposing the depths of hypocrisy in the self-righteous. This judgment will be according to the true gospel preached by Paul, which will be the standard. Those who have hidden their true selves and motives will no longer deceive, as their secret plans and desires are revealed. It warns those who reject Christ but brings hope to those who accept Him. The law written in their hearts will be evident on that day, reflecting the quality of their actions.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9532671558878651,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.29,
+            "commentatorTierSimilarities": [
+                26.33,
+                36.65,
+                37.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the day of judgment, Jesus Christ will expose the hidden secrets of men, particularly the depths of hypocrisy in the self-righteous. This judgment aligns with the true gospel proclaimed by Paul, which serves as the standard for evaluation. Those who have concealed their true selves cannot deceive anymore, as their secret plans and desires are unveiled. This serves as a warning for those who reject Christ as their Judge, while offering hope to those who embrace Him. The law written in their hearts will be evident, revealing the true nature of their actions.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9683672708277338,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
+            "commentatorTierSimilarities": [
+                25.9,
+                37.05,
+                37.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the day of judgment, Jesus Christ, as the Judge, will unveil the secrets of men, specifically exposing the hidden depths of hypocrisy in the self-righteous. This judgment will be based on the true gospel preached by Paul, which serves as the standard. Those who have concealed their true selves and motives will be unable to deceive any longer, as their secret plans and desires are made known. This serves as a warning to those who reject Christ, while offering hope to those who accept Him. The law written in their hearts will be revealed, exposing the true quality of their actions.",
+            "wordCount": 103,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.964135083051096,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+            "commentatorTierSimilarities": [
+                25.93,
+                37.13,
+                36.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

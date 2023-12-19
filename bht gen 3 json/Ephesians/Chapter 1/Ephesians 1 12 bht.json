@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 15:27:16",
+    "verseRef": "Ephesians 1:12",
+    "bestBHT": {
+        "bht": "Through our hope in the Messiah, we who have previously hoped in Christ are called to be to the praise of His glory. As Jewish Christians who had the promise before the coming of the Messiah, we not only praise God but become a praise, illustrating the glory of His goodness and grace. Our predestination aims for the praise of His glory to be made known, ascribing all to His grace. Having first trusted in Christ, we lean on Him, commit all to Him, and expect all good things from Him.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 2.3981009835915934,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.08,
+        "commentatorTierSimilarities": [
+            28.16,
+            37.37,
+            34.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That we should be to the praise of His glory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "who have before hoped in the Christ",
+            "waiting for the consolation of Israel",
+            "the hope of Israel"
+        ],
+        "Albert Barnes": [
+            "That we should be to the praise of his glory - Should be the occasion or the means of celebrating his glory; or that praise should be ascribed to him as the result of our salvation.",
+            "Who first trusted in Christ - Margin, \u201choped.\u201d This is in accordance with the original. The foundation of their \u201chope\u201d was the Saviour.",
+            "They 'first' believed, and then preached to others; and they also believed, and became partakers of the same privileges."
+        ],
+        "Marvin Vincent": [
+            "Who first trusted [\u03c4\u03bf\u03c5\u03c2 \u03c0\u03c1\u03bf\u03b7\u03bb\u03c0\u03b9\u03ba\u03bf\u03c4\u03b1\u03c2]. In apposition with we [\u03c3\u03b7\u03bf\u03c5\u03bb\u03b4 \u03b2\u03b5]. So Rev., we who had, etc., trusted, more properly hoped; and first trusted is ambiguous.\" ",
+            "we who had (have) before hoped.",
+            "In Christ should be 'in the Christ,' as the subject of messianic expectation and not as Jesus, for whom Christ had passed into a proper name. It is equivalent to in the Messiah."
+        ],
+        "John Calvin": [
+            "We must eventually become illustrations of the glory of God, if we are nothing but vessels of his mercy.",
+            "The word glory, by way of eminence, denotes, in a peculiar manner, that which shines in the goodness of God.",
+            "There is nothing that is more peculiarly his own, or in which he desires more to be glorified, than goodness."
+        ],
+        "Philip Schaff": [
+            "The final aim of the predestination to become God\u2019s heritage is that the subjects (\u2018we\u2019) should be unto the praise of his glory.",
+            "As persons are more directly connected with the phrase, they are not only to praise, but themselves to be a praise.",
+            "'Before' indicates unmistakably the Jewish Christians, who had the promise before the coming of the Messiah, and hoped accordingly."
+        ],
+        "Archibald T. Robertson": [
+            "Final clause with \u03b5\u03b9\u03c2 to and the infinitive \u03b5\u03b9\u03bd\u03b1.",
+            "Articular perfect active participle of \u03c0\u03c1\u03bf\u03b5\u03bb\u03c0\u03b9\u03b6\u03c9, late and rare compound.",
+            "Probably the reference is to those who like Paul had once been Jews and had now found the Messiah in Jesus."
+        ],
+        "John Gill": [
+            "This is the end of predestination to the inheritance; and the sense is, either that the praise of the glory of God, in his grace and goodness, might be discovered and made known unto the saints, ... or that they should praise and glorify him on account of these things, by ascribing all to his grace, and nothing to themselves.\" ",
+            "who first trusted in Christ; the Jews, the apostle, and others of the Jewish nation; who before hoped in Christ\" ",
+            "this supposes knowledge of him, and a sense of the frailty and vanity of all other objects; and was a betaking themselves to him, a leaning and staying on him, a committing all unto him, and an expectation of all good things from him."
+        ],
+        "John Wesley": [
+            "Who first believed \u2014 Before the gentiles. So did some of them in every place.",
+            "Here is another branch of the true gospel predestination: he that believes is not only elected to salvation, (if he endures to the end,) but is fore-appointed of God to walk in holiness.",
+            "To the praise of his glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Through our hope in the Messiah, we who have previously hoped in Christ are called to be to the praise of His glory, to celebrate and ascribe praise to Him as the result of our salvation. As Jewish Christians who had the promise before the coming of the Messiah, we are not only to praise God, but ourselves become a praise, illustrating the glory of His goodness and grace. Our predestination to inherit His blessings aims for the praise of His glory to be discovered and made known to us, that we may ascribe all to His grace and glorify Him. Having first trusted in Christ, we lean on Him, commit all to Him, and expect all good things from Him, walking in holiness by the fore-appointment of God.",
+            "wordCount": 130,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 2.3759152939081956,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.34,
+            "commentatorTierSimilarities": [
+                25.78,
+                38.04,
+                36.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through our hope in the Messiah, we who have previously hoped in Christ are called to be to the praise of His glory. As Jewish Christians who had the promise before the coming of the Messiah, we not only praise God but become a praise, illustrating the glory of His goodness and grace. Our predestination aims for the praise of His glory to be made known, ascribing all to His grace. Having first trusted in Christ, we lean on Him, commit all to Him, and expect all good things from Him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.3981009835915934,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.08,
+            "commentatorTierSimilarities": [
+                28.16,
+                37.37,
+                34.47
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:15:14",
+    "verseRef": "Luke 5:6",
+    "bestBHT": {
+        "bht": "The disciples were amazed as their nets began to burst under the weight and number of the fish. The word used here, inclosed, suggests that they shut the nets together tightly, but they were not expecting such an overwhelming catch. The nets were actually tearing apart, on the verge of breaking completely. This miraculous abundance of fish demonstrated the divine power and authority of Christ, causing the onlookers to marvel. It is a reminder that when we undertake our labors with the guidance of Christ, we need not fear that we will lack the blessing and success from God.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.508749433680926,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.51,
+        "commentatorTierSimilarities": [
+            23.45,
+            35.98,
+            40.58
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] were bursting, i.e. had begun to burst."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. net brake\u2014rather \"was",
+            "\tbreaking,\" or \"beginning to break,\" as in :-, \"beginning to sink."
+        ],
+        "Albert Barnes": [
+            "Their net brake - Or their net 'began' to break, or was 'about' to break. This is all that is implied in the Greek word.",
+            "If their nets had actually 'broken,' as our English word seems to suppose, the fish would have escaped.",
+            "No more is meant than that there was such a multitude of fishes that their net was 'on the point' of being torn asunder."
+        ],
+        "John Calvin": [
+            "We have no reason to be afraid lest our labor should not be attended by the blessing of God and desirable success, when it is undertaken by the authority and guidance of Christ.",
+            "Such was the multitude of fishes, that the ships were sinking, and the minds of the spectators were thus excited to admiration.",
+            "It must have been in consequence of the divine glory of Christ manifested by this miracle, that his authority was fully acknowledged."
+        ],
+        "Philip Schaff": [
+            "Having done this. A number were engaged.",
+            "Were breaking, i.e., \u2018began to break,\u2019 just as in Luke 5:7, \u2018were sinking\u2019 means \u2018began to sink.\u2019 The nets did not break, nor the boats sink.",
+            "God sometimes allows dangers to begin, that our faith may be increased."
+        ],
+        "Archibald T. Robertson": [
+            "They inclosed (\u03c3\u03c5\u03bd\u03b5\u03ba\u03bb\u03b5\u03b9\u03c3\u03b1\u03bd). Effective aorist active indicative with perfective compound \u03c3\u03c5\u03bd.\" ",
+            "They shut together.\" ",
+            "The nets were actually tearing in two (\u03b4\u03b9\u03b1-) and so they would lose all the fish."
+        ],
+        "John Gill": [
+            "They enclosed a great multitude of fish; in their net, which by the secret divine power of Christ, were gathered together just in that place.",
+            "Their net brake; with the weight and number, of the fishes, yet not so as to let the fish out.",
+            "They were just upon breaking, the draught was so numerous, the struggling so great, and the weight so heavy."
+        ],
+        "John Wesley": [
+            "Their net brake \u2014 Began to tear."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were amazed as their nets began to burst under the weight and number of the fish. The word used here, inclosed, suggests that they shut the nets together tightly, but they were not expecting such an overwhelming catch. The nets were actually tearing apart, on the verge of breaking completely. This miraculous abundance of fish demonstrated the divine power and authority of Christ, causing the onlookers to marvel. It is a reminder that when we undertake our labors with the guidance of Christ, we need not fear that we will lack the blessing and success from God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.508749433680926,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.51,
+            "commentatorTierSimilarities": [
+                23.45,
+                35.98,
+                40.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were astounded as their nets began to burst under the weight and number of the fish. The nets were tearing apart, on the verge of fully breaking. This miraculous abundance of fish showcased the divine power and authority of Christ, leaving the onlookers in awe. It serves as a reminder that when we undertake our labors with Christ's guidance, we can expect the blessing and success of God.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.4374746645097738,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.14,
+            "commentatorTierSimilarities": [
+                22.83,
+                31.15,
+                46.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were amazed as their nets were breaking under the weight and number of fish enclosed within them. The nets were actually tearing apart, on the verge of being torn asunder. This extraordinary catch displayed the divine power and authority of Christ, causing those who witnessed it to marvel. It serves as a reminder that when we labor under the guidance of Christ, we need not fear the lack of God's blessing and desired success.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.4069566279458758,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.12,
+            "commentatorTierSimilarities": [
+                21.87,
+                31.8,
+                46.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Witnessing the remarkable abundance of fish breaking their nets, the disciples stood in awe as the nets were tearing apart, just on the verge of breaking completely. This incredible display of divine power not only demonstrated the authority of Christ, but it also instilled admiration in those who witnessed it. Such miracles remind us that when we undertake our labors with the guidance of Christ, we have no reason to fear, as our efforts will be blessed and successful.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.2588728694855205,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.2,
+            "commentatorTierSimilarities": [
+                12.59,
+                30.97,
+                56.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were astounded as their nets began to burst under the weight and number of the fish. The nets were tearing apart, on the verge of fully breaking. This miraculous abundance of fish showcased the divine power and authority of Christ, leaving the onlookers in awe. It serves as a reminder that when we undertake our labors with Christ's guidance, we can expect the blessing and success of God.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.4374746645097738,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.14,
+            "commentatorTierSimilarities": [
+                22.83,
+                31.15,
+                46.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

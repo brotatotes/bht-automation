@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:37:00",
+    "verseRef": "Acts 27:10",
+    "bestBHT": {
+        "bht": "Paul's warning that the voyage would lead to hurt and significant damage was not based on divine revelation, but rather his own careful observation and knowledge. The unsuitability of the bay as a winter harbor and the unpredictable behavior of the winds and waves posed great risks. His sound judgment proved correct, as they indeed faced injury, loss, and potential loss of lives. Paul's persuasive argument appealed to the wisdom and common sense of those who heard him, emphasizing the importance of making informed decisions in dangerous circumstances.",
+        "wordCount": 90,
+        "quoteTokenProportion": 30.43,
+        "qualityScore": 1.4954648566179958,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+        "commentatorTierSimilarities": [
+            35.28,
+            42.97,
+            21.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I perceive here, and from the saying itself, it seems clear to me that Paul was not uttering at present any prophetic intimation, but simply his own sound judgment on the difficult question at issue.",
+            "The event justified St. Paul's advice.",
+            "A bay, open to nearly one-half the compass, could not have been a good winter harbor."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sirs, I perceive, that this voyage will be with hurt and much damage.\" ",
+            "Not by any divine communication, but simply in the exercise of a good judgment aided by some experience.\" ",
+            "The event justified his decision."
+        ],
+        "Albert Barnes": [
+            "It is not certain that Paul understood this by direct inspiration. He might have perceived it from his own knowledge of the danger of navigation at the autumnal equinox, and from what he saw of the ship as unsuited to a dangerous navigation.",
+            "But there is nothing that should prevent our believing also that he was guided to this conclusion by the inspiration of the Spirit of God.",
+            "Paul evidently, by this, intended to suggest the propriety of remaining where they were until the time of dangerous navigation was past."
+        ],
+        "Marvin Vincent": [
+            "I perceive [\u03b8\u03b5\u03c9\u03c1\u03c9]. As the result of careful observation.",
+            "Insolence of the winds and waves, 'like our 'sport' or 'riot' of the elements'",
+            "Damage [\u03b6\u03b7\u03bc\u03b9\u03b1\u03c2]. Better, as Rev., loss."
+        ],
+        "Philip Schaff": [
+            "Hurt and much damage, i.e. risk of injury and great loss.",
+            "But also of our lives.",
+            "St. Paul, with his customary good sense, uses an argument which would appeal forcibly to everyone who heard him."
+        ],
+        "John Gill": [
+            "I perceive... that this voyage will be with hurt, and with much damage not only of the lading and ship, but also of our lives.",
+            "Certain it is that it was revealed to the apostle, that not one life should be lost.",
+            "What with the fright of it, and being in the water, much damage must accrue to their persons, as well as the ship and all its freight be lost."
+        ],
+        "John Wesley": [
+            "Saying to them \u2014 To the centurion and other officers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in Acts 27:10, is not giving a prophetic message but rather using his own sound judgment to advise against continuing the voyage. The dangerous conditions of the winter harbor and the insolence of the winds and waves indicated a risk of injury, great loss, and potential loss of lives. The event itself justified Paul's decision, as they did face hurt and much damage not only to the ship and its cargo, but also to their lives. Paul's argument appealed to the wisdom and common sense of those who heard him, highlighting the importance of making informed decisions in the face of danger.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.5656889007026007,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.4,
+            "commentatorTierSimilarities": [
+                31.64,
+                43.1,
+                25.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's decision to advise against continuing the voyage was based on his own sound judgment rather than a prophetic message. The dangerous conditions of the winter harbor and the insolence of the winds and waves indicated a risk of injury, great loss, and potential loss of lives. The event itself justified Paul's decision, as they did face hurt and much damage not only to the ship and its cargo but also to their lives. Paul's argument appealed to the wisdom and common sense of those who heard him, highlighting the importance of making informed decisions in the face of danger.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.5798845438115319,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+            "commentatorTierSimilarities": [
+                31.26,
+                44.01,
+                24.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's decision to advise against continuing the voyage was based on his own sound judgment rather than a prophetic message. He perceived the potential hurt and much damage that could occur due to the unsuitable winter harbor and the hostile elements. The event later proved him right. His argument resonated with others, appealing to their wisdom and common sense. Ultimately, Paul's decision to prioritize safety and avoid risk not only saved the ship and its cargo, but also the lives of those on board.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.398544718220573,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.84,
+            "commentatorTierSimilarities": [
+                31.92,
+                41.92,
+                26.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's assertion that the voyage would result in hurt and much damage was not a prophetic revelation, but rather a sound judgment informed by observation. The bay's poor conditions for winter harbor and the unpredictable behavior of the winds and waves would have put their lives and the ship at great risk. The eventual outcome vindicated Paul's decision. By appealing to their common sense, he effectively conveyed the importance of making informed decisions in the face of potential danger.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4743368251268363,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.36,
+            "commentatorTierSimilarities": [
+                36.74,
+                39.43,
+                23.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's warning that the voyage would lead to hurt and significant damage was not based on divine revelation, but rather his own careful observation and knowledge. The unsuitability of the bay as a winter harbor and the unpredictable behavior of the winds and waves posed great risks. His sound judgment proved correct, as they indeed faced injury, loss, and potential loss of lives. Paul's persuasive argument appealed to the wisdom and common sense of those who heard him, emphasizing the importance of making informed decisions in dangerous circumstances.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.4954648566179958,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+            "commentatorTierSimilarities": [
+                35.28,
+                42.97,
+                21.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

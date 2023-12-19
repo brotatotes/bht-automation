@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:31:28",
+    "verseRef": "2 Timothy 4:6",
+    "bestBHT": {
+        "bht": "I am already being poured out, the process is begun. Like the initiation of a sacrificial libation, Paul's impending death symbolizes the pouring out of his life-blood. The time of his departure is at hand, evoking images of a ship being unloosened or a camp being broken. In facing death, Paul sees it as the freeing of the soul and a testimony to the immortality of the soul. His sacrificial death will serve as a testament to the truth of Christ's doctrine, encouraging believers to persevere.",
+        "wordCount": 89,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.7896530323537552,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+        "commentatorTierSimilarities": [
+            30.79,
+            29.84,
+            39.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For I am already being poured out, the process is begun, which shall shed my blood.\" ",
+            "'Ready to be offered' misses the force of the present tense.\" ",
+            "The time of my departure is at hand."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Every sacrifice began with an initiatory libation on the victim's head.",
+            "A motive to stimulate Timothy to faithfulness\u2014the departure and final blessedness of Paul; it is the end that crowns the work.",
+            "My departure\u2014literally, 'loosing anchor.' Dissolution."
+        ],
+        "Albert Barnes": [
+            "The word 'ready' in the phrase 'ready to be offered,' conveys an idea which is not in the original. It implies a willingness to depart, which, whether true or not, is not the idea conveyed by the apostle.\" ",
+            "The allusion here... is to the custom which prevailed among the pagan generally, of pouring wine and oil on the head of a victim when it was about to be offered in sacrifice. The idea of the apostle then is, that he was in the condition of the victim on whose head the wine and oil had been already poured, and which was just about to be put to death; that is, he was about to die.\" ",
+            "The true idea of death is that of loosening the bands that confine us to the present world; of setting us free, and permitting the soul to go forth, as with expanded sails, on its eternal voyage. With such a view of death, why should a Christian fear to die?"
+        ],
+        "Marvin Vincent": [
+            "Already. What he is now suffering is the beginning of the end.",
+            "The figure is explained by some of loosing a Ship from its moorings; by others of breaking camp.",
+            "Blessed are the presbyters who have gone before, seeing that their departure was fruitful and ripe."
+        ],
+        "John Calvin": [
+            "By the word dissolution he means that we do not altogether perish when we die; because it is only a separation of the soul from the body. Hence we infer, that death is nothing else than a departure of the soul from the body \u2014 a definition which contains a testimony of the immortality of the soul.",
+            "Sacrifice was a term peculiarly applicable to the death of Paul, which was inflicted on him for maintaining the truth of Christ...martyrs are sacrificed in a more excellent manner, by shedding their blood for the name of Christ.",
+            "Paul has here adorned his death by a magnificent commendation, when he called it the ratification of his doctrine, that believers, instead of sinking into despondency...might be more encouraged by it to persevere."
+        ],
+        "Philip Schaff": [
+            "I am being offered. My life is being poured out as a libation.",
+            "Do thy work thoroughly, for mine is all but over.",
+            "The time of my departure...was probably suggested by the way in which it was commonly applied to the 'breaking up' or 'dispersion' of those who had been gathered together for a sacrifice or ft libation."
+        ],
+        "Archibald T. Robertson": [
+            "The sacrifice of Paul's life-blood has begun.",
+            "The departure, the unloosing, the analysis of my life has come.",
+            "The hour has struck. The time has come."
+        ],
+        "John Gill": [
+            "This sacrifice of himself was not to atone for sin, his own, or others; Christ's death was the only sacrifice for sin, and that is a complete one, and needs no other to be added to it.\" ",
+            "Death is a dissolution of soul and body, or a dissolving of the union that is between them, and a resolution of the body into its first principles; hence the Syriac version renders it, 'the time in which I shall be dissolved'.\" ",
+            "The time for going out of this world, as well as for coming into it, is determined by God, beyond which there is no passing."
+        ],
+        "John Wesley": [
+            "The time of my departure is at hand \u2014 So undoubtedly God had shown him.",
+            "I am ready to be offered up \u2014 Literally, to be poured out, as the wine and oil were on the ancient sacrifices."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For I am already being poured out, the process is begun, which shall shed my blood. The time of my departure is at hand. The figure used by Paul in this verse is that of a sacrifice, with the pouring out of his life as a libation. This sacrificial language suggests that Paul's impending death is a culmination, the end that crowns his work. His departure, the dissolution of his life, is imminent, and it brings to mind the unloosening of a ship from its moorings or the breaking of camp. Yet, instead of fear, Paul views death as the freeing of the soul, the setting sail on an eternal voyage. In this view, death becomes a departure, a separation of the soul from the body, and a testimony to the immortality of the soul. The sacrifice of Paul's life-blood has begun, and his death will serve as a testament to the truth of Christ's doctrine, inspiring and encouraging believers to persevere.",
+            "wordCount": 166,
+            "quoteTokenProportion": 36.26,
+            "qualityScore": 1.8751260263066252,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+            "commentatorTierSimilarities": [
+                33.07,
+                28.43,
+                38.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For I am already being poured out, the process is begun, which shall shed my blood. The time of my departure is at hand. Paul's language of sacrifice and libation in this passage suggests that his impending death will serve as a culmination, the end that crowns his work. His departure, the dissolution of his life, is imminent, and it brings to mind the unloosening of a ship from its moorings or the breaking of camp. Instead of fear, Paul views death as the freeing of the soul, a departure that testifies to the immortality of the soul and encourages believers to persevere.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.8740912250696762,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                36.32,
+                28.05,
+                35.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I am already being poured out, the process is begun. Like the initiation of a sacrificial libation, Paul's impending death symbolizes the pouring out of his life-blood. The time of his departure is at hand, evoking images of a ship being unloosened or a camp being broken. In facing death, Paul sees it as the freeing of the soul and a testimony to the immortality of the soul. His sacrificial death will serve as a testament to the truth of Christ's doctrine, encouraging believers to persevere.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.7896530323537552,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+            "commentatorTierSimilarities": [
+                30.79,
+                29.84,
+                39.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "My departure is at hand, I am already being poured out. With sacrificial imagery, Paul describes his impending death as the pouring out of his life, like a libation on a victim's head. It signifies the beginning of the end, and he compares it to unloosing a ship or breaking camp. Instead of fear, Paul embraces death as the release of the soul and a testimony to its immortality. Through his sacrificial death, he aims to inspire and encourage believers to endure in their faith.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6945609692755728,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.69,
+            "commentatorTierSimilarities": [
+                29.49,
+                32.0,
+                38.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I am already being poured out, the process is begun, which shall shed my blood. The time of my departure is at hand. Paul's impending death is depicted as a sacrificial libation, signifying the beginning of the end. It is the unloosing of a ship or the breaking of camp. Rather than fearing death, Paul sees it as the soul's liberation and a testament to its immortality. Through his sacrificial death, he aims to encourage believers to persevere in their faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.7603914695569798,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "commentatorTierSimilarities": [
+                35.82,
+                28.56,
+                35.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

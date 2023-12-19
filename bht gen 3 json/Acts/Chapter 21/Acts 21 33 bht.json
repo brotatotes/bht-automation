@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:34:54",
+    "verseRef": "Acts 21:33",
+    "bestBHT": {
+        "bht": "The captain commanded Paul to be bound with two chains, assuming he was a violent criminal. This action kept the peace and showed the crowd that justice would be done. Despite the chains, Paul could still walk, and the captain questioned him to find out who he was and what he had done. This imprisonment not only protected Paul but also allowed him to preach safely, fulfilling Agabus' prophecy.",
+        "wordCount": 69,
+        "quoteTokenProportion": 48.0,
+        "qualityScore": 1.6883747814409336,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+        "commentatorTierSimilarities": [
+            20.55,
+            46.43,
+            33.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He would thus be in the custody of two soldiers.\" ",
+            "The literally accurate rendering of the chief captain\u2019s demand would be, who he might be (subjective possibility).\" ",
+            "And what he had done (assuming that he must have done something)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "33. commanded him to be bound with",
+            "\ttwo chains\u2014(See on Acts 21:1)."
+        ],
+        "Albert Barnes": [
+            "To show to the enraged multitude that he did not intend to rescue anyone from justice, but to keep the peace.",
+            "Paul\u2019s being thus bound would convince them of his determination that justice should be done in the case.",
+            "If his hands and feet were bound, it is evident that it was so done that he was able still to walk."
+        ],
+        "Marvin Vincent": [
+            "Chains [\u03b1\u03bb\u03c5\u03c3\u03b5\u03c3\u03b9] . See on Mark 5:4."
+        ],
+        "Philip Schaff": [
+            "The \u2018chief captain\u2019 assumed that Paul was a criminal and guilty of some very grave crime against society.",
+            "He orders him to be chained by each hand to a soldier for security\u2019s sake.",
+            "Then he proceeds at once to interrogate him."
+        ],
+        "Archibald T. Robertson": [
+            "With two chains as a violent and seditious person, probably leader of a band of assassins.",
+            "Lysias repeated his inquiries.",
+            "Periphrastic perfect active indicative of \u03c0\u03bf\u03b9\u03b5\u03c9 here retained, not changed to the optative as is true of \u03b5\u03b9\u03b7 from \u03b5\u03c3\u03c4\u03b9\u03bd in the same indirect question, illustrating well the freedom about it."
+        ],
+        "John Gill": [
+            "He rescued him out of their hands.",
+            "These two chains were put, one on one arm, and the other on the other arm; and were fastened to two soldiers.",
+            "This inquiry was made, either of the apostle himself, or of the people."
+        ],
+        "John Wesley": [
+            "And how many great ends of providence were answered by this imprisonment?",
+            "This was not only a means of preserving his life, but gave him an opportunity of preaching the Gospel safely, in spite of all tumult.",
+            "And thus the prophecy of Agabus was fulfilled, though by the hands of a Roman."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief captain commanded Paul to be bound with two chains, likely assuming Paul was a violent criminal. This action served the purpose of ensuring security and keeping the peace, showing the enraged multitude that justice would be carried out. Despite being bound, Paul was still able to walk. The captain then proceeded to interrogate him, seeking to understand who Paul was and what he had done. This imprisonment not only protected Paul's life but also provided an opportunity for him to preach the Gospel safely, fulfilling the prophecy of Agabus.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.6111460320489488,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.91,
+            "commentatorTierSimilarities": [
+                19.55,
+                48.14,
+                32.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The captain commanded Paul to be bound with two chains, assuming he was a violent criminal. This action kept the peace and showed the crowd that justice would be done. Despite the chains, Paul could still walk, and the captain questioned him to find out who he was and what he had done. This imprisonment not only protected Paul but also allowed him to preach safely, fulfilling Agabus' prophecy.",
+            "wordCount": 69,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.6883747814409336,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+            "commentatorTierSimilarities": [
+                20.55,
+                46.43,
+                33.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief captain commanded Paul to be bound with two chains, as he assumed Paul was a violent and seditious person, possibly a leader of assassins. This act ensured security and peace among the crowd. Despite being bound, Paul was still able to walk. The captain proceeded to interrogate him, seeking to determine his identity and alleged actions. This imprisonment not only preserved Paul's life but also afforded him a safe opportunity to preach the Gospel, fulfilling Agabus' prophecy through the hands of the Romans.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.5199426880674944,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                19.99,
+                45.65,
+                34.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief captain, assuming Paul was a violent offender, commanded him to be bound with two chains. This action maintained security and demonstrated the intention to uphold justice. Despite being bound, Paul could still walk, and the captain proceeded to interrogate him. This imprisonment not only protected Paul's life but also provided a safe opportunity for him to preach the Gospel, fulfilling the prophecy of Agabus. Through the hands of the Romans, divine providence ensured the fulfillment of important purposes.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5516000061207613,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                18.88,
+                44.41,
+                36.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The captain ordered Paul to be bound with two chains, assuming he was a violent and seditious individual, possibly a leader of assassins. This act ensured security and peace among the crowd, displaying the determination to uphold justice. Despite being bound, Paul was still able to walk, and the captain proceeded to interrogate him. This imprisonment not only preserved Paul's life but also provided a safe opportunity for him to preach the Gospel, fulfilling the prophecy of Agabus through the Romans.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5942546091256142,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                19.65,
+                45.96,
+                34.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

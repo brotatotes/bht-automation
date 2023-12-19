@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:11:27",
+    "verseRef": "1 Corinthians 10:23",
+    "bestBHT": {
+        "bht": "Paul addresses the Corinthian plea of all things are lawful by highlighting the importance of edification in the Christian body. He emphasizes that while certain actions may be permissible, not all contribute to building up the spiritual temple of God. True Christian freedom is not simply about what is allowed, but about considering the well-being and growth of others. Believers should regulate their choices, using their liberty in a way that promotes edification and the welfare of fellow Christians.",
+        "wordCount": 80,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.7411925607102856,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+        "commentatorTierSimilarities": [
+            32.4,
+            29.39,
+            38.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He recurs to the plea of ch. vi. 12:\u2014reasserts his modification of it, with a view, after what has passed since, to shew its reasonableness, and to introduce the following directions.",
+            "not all things edify] viz. the Christian body: tend to build up the whole, or the individual parts, of that spiritual temple, God\u2019s building."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "All things are lawful for me, &c.\u2014Recurring to the Corinthian plea (1 Corinthians 6:12), he repeats his qualification of it.",
+            "Paul does not appeal to the apostolic decision (Acts 15:29), which seems to have been not so much regarded outside of Palestine, but rather to the broad principle of true Christian freedom.",
+            "Their use or non-use is to be regulated by regard to edification."
+        ],
+        "Albert Barnes": [
+            "All things are lawful for me... yet there were strong reasons why it was inexpedient; and those reasons ought to have the binding force of law.",
+            "Anything that would promote that object [saving souls] was proper; anything which would hinder it... was in his view improper.",
+            "If a man has his heart on the conversion of people and the salvation of the world, it will go far to regulate his conduct in reference to many things... it will be inexpedient and improper."
+        ],
+        "John Calvin": [
+            "All things are lawful for me, but all things are not profitable, that is, for our neighbors...if anything is not profitable to the brethren, it must be abstained from.\" ",
+            "When it edifies, for we must not have respect merely to the advantage of the flesh.\" ",
+            "Consider attentively Paul\u2019s words, and you will perceive that liberty, nevertheless, remains unimpaired, when you accommodate yourself to your neighbors, and that it is only the use of it that is restricted."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 10:23. All things are lawful; but all things edify not (see on 1 Corinthians 6:12 and ch. 8).",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "See on 1 Corinthians 6:12 for",
+            "lawful (\u03b5\u03be\u03b5\u03c3\u03c4\u03b9\u03bd) and",
+            "expedient (\u03c3\u03c5\u03bc\u03c6\u03b5\u03c1\u03b5).",
+            "Edify not (\u03bf\u03c5\u03ba \u03bf\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03b5). Build up. Explanation of",
+            "expedient (\u03c3\u03c5\u03bc\u03c6\u03b5\u03c1\u03b5). "
+        ],
+        "John Gill": [
+            "All sorts of food are lawful to be eaten, every creature of God is good, there is nothing common or unclean in itself, polluted or polluting; and so things offered to idols may be lawfully eaten, but not as such, or in an idol's temple, or before a weak brother; to do which is contrary to the honour of God, and the edification of the saints.",
+            "Though things of an indifferent nature may be lawfully used, yet they do not always tend to the edification of others, which should be consulted; and when this is the case, they ought to be disused.",
+            "This is observed in answer to an objection taken from the doctrine of Christian liberty, allowing the free use of all the creatures, and disengaging men from an observance of the distinction of meats and drinks which the apostle grants; and yet argues from his own example, and the edification of the saints, that this is not always to be closely pursued; but believers should forego what they have a right to use, when the peace and welfare of their fellow Christians require it."
+        ],
+        "John Wesley": [
+            "Supposing this were lawful in itself, yet it is not expedient, it is not edifying to my neighbour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 10:23, Paul responds to the Corinthian plea of all things are lawful by emphasizing the importance of edification within the Christian body. While certain actions may be permissible, Paul emphasizes that not all things build up or contribute to the spiritual growth of the individual or the community. Instead, he encourages believers to consider the broader principle of true Christian freedom and to regulate their choices based on what promotes edification and the well-being of others. Ultimately, Paul's focus is on the proper use of Christian liberty to consider the needs and growth of fellow believers.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7849419980874188,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                34.85,
+                28.84,
+                36.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul addresses the Corinthian plea of all things are lawful by highlighting the importance of edification in the Christian body. He emphasizes that while certain actions may be permissible, not all contribute to building up the spiritual temple of God. True Christian freedom is not simply about what is allowed, but about considering the well-being and growth of others. Believers should regulate their choices, using their liberty in a way that promotes edification and the welfare of fellow Christians.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7411925607102856,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                32.4,
+                29.39,
+                38.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul responds to the Corinthian plea of all things are lawful by emphasizing the importance of edification within the Christian body. According to him, while certain actions may be permissible, not all things build up or contribute to the spiritual growth of the individual or the community. Instead, believers should consider the principle of true Christian freedom, regulating their choices based on what promotes edification and the well-being of others. The proper use of Christian liberty involves considering the needs and growth of fellow believers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7049281791728288,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.03,
+            "commentatorTierSimilarities": [
+                34.01,
+                29.12,
+                36.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In addressing the Corinthian plea of all things are lawful, Paul emphasizes the importance of edification within the Christian body. He reminds believers that while certain actions may be permissible, not all contribute to building up the spiritual temple of God. True Christian freedom should be exercised in a manner that promotes edification and considers the well-being of others. By regulating our choices based on this principle, we demonstrate a proper use of Christian liberty and prioritize the growth and welfare of fellow believers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6708237658770293,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.9,
+            "commentatorTierSimilarities": [
+                33.64,
+                28.71,
+                37.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul acknowledges the Corinthian plea that all things are lawful but highlights the importance of edification within the Christian body. Not all actions contribute to the growth of the individual or the community. True Christian freedom involves considering what promotes edification and the well-being of others. Believers should exercise their liberty in a way that respects the needs of fellow Christians and fosters their growth and welfare. Priority should be given to the proper use of Christian freedom for the benefit of the entire body.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5505718831091957,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.9,
+            "commentatorTierSimilarities": [
+                31.25,
+                29.29,
+                39.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

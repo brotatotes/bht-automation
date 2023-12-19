@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:33:08",
+    "verseRef": "Acts 18:9",
+    "bestBHT": {
+        "bht": "Amidst mounting opposition, Paul is reassured by a divine vision, commanding him to speak boldly and not be afraid. The success of his ministry appears to have fueled the hostility of unbelieving Jews. Despite his knowledge of Jewish hatred, Paul faces moments of fear and doubt. Yet, God meets him in his fears, reminding him of His presence. This vision empowers Paul to fearlessly proclaim the Gospel, not allowing the fear of men to hinder him in building up the Church.",
+        "wordCount": 81,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.7176525735873496,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.45,
+        "commentatorTierSimilarities": [
+            24.24,
+            37.04,
+            38.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9. speak, and hold not thy peace] So, for solemnity\u2019s sake, we have an affirmation and negation combined, John i. 3. See also Isa. lviii. 1."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Then spake the Lord to Paul... by a vision, Be not afraid... no man shall set on thee to hurt thee, &c.\" ",
+            "From this it would seem that these signal successes were stirring up the wrath of the unbelieving Jews...",
+            "He is reassured, however, from above."
+        ],
+        "Albert Barnes": [
+            "Perhaps Paul might have been intimidated by the learning, refinement, and splendor of Corinth; perhaps embarrassed in view of his duty of addressing the rich, the polite, and the great.",
+            "In such circumstances it pleased God to meet him, and disarm his fears.",
+            "The prospect of success in the ministry, and the certainty of the presence of God, will take away the fear of the rich, the learned, and the great."
+        ],
+        "John Calvin": [
+            "For mine own part, I think thus, that the wonderful power of the Spirit, wherewith Paul was endued before, was holpen with the oracle.",
+            "This exhortation showeth that Paul had cause of fear ministered unto him; for it had been a superfluous thing to correct fear, or to will him not to fear when all was well and quiet...",
+            "...let them keep back nothing which may make for the edifying or increase of God\u2019s Church."
+        ],
+        "Philip Schaff": [
+            "A form most probably appeared to the apostle when he heard the voice bidding him be of good courage.",
+            "See for a similar vision, when a form appeared and a voice was heard, Acts 16:9, Acts 22:18."
+        ],
+        "Archibald T. Robertson": [
+            "Be not afraid, but speak, and hold not thy peace.\" ",
+            "Paul knew only too well what Jewish hatred could do.",
+            "Every pastor knows what it is to have such moods and moments."
+        ],
+        "John Gill": [
+            "be not afraid; it is very likely that after the baptism of Crispus and his family, and of many of the Corinthians, that both the Jews and the Gentiles were exasperated against the apostle; and his life might seem to be in danger",
+            "he might be thinking of removing from hence for his preservation and safety; and might be advised to it by his friends, or at least that he should be incognito, and not be seen publicly",
+            "wherefore the Lord appears to him, and bids him not indulge any fears, or conceal himself and be silent, but speak, and hold not thy peace; preach freely and boldly the Gospel without fear of men; the fear of men should not stop the mouths of Christ's ministers"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the face of rising opposition and impending danger, Paul is instructed not to be afraid, but to speak boldly and not remain silent. This assurance comes from a divine vision in which the Lord reassures him that no harm will come his way. It seems that Paul's success in his ministry was stirring up the hatred of the unbelieving Jews, and he was well aware of the potentially severe consequences. Yet, every pastor can relate to moments of fear and doubt. In particular, Paul may have felt intimidated by the sophisticated and influential Corinthians he was called to address. However, God met him in his fears and reminded him of the certainty of His presence. The vision that Paul experienced, similar to previous encounters, served as a powerful reminder that the Spirit's miraculous power was working in him. In a time when Paul's life was in danger, he could have contemplated leaving or hiding, but instead, he was encouraged to openly and fearlessly preach the Gospel. This exhortation reminds us all not to let the fear of men hinder us in faithfully proclaiming God's truth for the edification and growth of His Church.",
+            "wordCount": 198,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.6459552441459215,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+            "commentatorTierSimilarities": [
+                21.83,
+                36.69,
+                41.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of mounting opposition, Paul receives a vision that reassures him and commands him not to be afraid, but to boldly speak and not remain silent. This divine encounter comes as the hostility of unbelieving Jews towards Paul's successful ministry intensifies. Despite the potential dangers, Paul understands the power of Jewish hatred. Every pastor knows the moments of fear and doubt that can arise. However, God meets Paul in his fears, reminding him of His presence and urging him to fearlessly proclaim the Gospel, spurring growth and edification in the Church.",
+            "wordCount": 94,
+            "quoteTokenProportion": 26.87,
+            "qualityScore": 1.6936397557554113,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.66,
+            "commentatorTierSimilarities": [
+                27.01,
+                32.86,
+                40.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst mounting opposition, Paul is reassured by a divine vision, commanding him to speak boldly and not be afraid. The success of his ministry appears to have fueled the hostility of unbelieving Jews. Despite his knowledge of Jewish hatred, Paul faces moments of fear and doubt. Yet, God meets him in his fears, reminding him of His presence. This vision empowers Paul to fearlessly proclaim the Gospel, not allowing the fear of men to hinder him in building up the Church.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7176525735873496,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.45,
+            "commentatorTierSimilarities": [
+                24.24,
+                37.04,
+                38.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of rising opposition and impending danger, Paul is instructed not to be afraid, but to speak boldly and not remain silent. This assurance comes from a divine vision assuring him that no harm will come his way. Paul's success in ministry is inciting the wrath of the unbelieving Jews, stirring fear in his heart. However, God meets him in his fears and reminds him of His presence. This vision empowers Paul to fearlessly preach the Gospel without being hindered by the fear of men.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.6963643961834727,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.75,
+            "commentatorTierSimilarities": [
+                23.42,
+                36.67,
+                39.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite the rising hostility and dangers faced by Paul in his ministry, he receives a divine vision that encourages him not to be afraid or silent, but to boldly speak. The increasing success of his mission seems to be provoking the wrath of the unbelieving Jews, heightening his fears. Yet, Paul knows the reality of Jewish hatred firsthand. In these moments of fear and doubt, God meets him, assuring his presence. The vision empowers Paul to fearlessly proclaim the Gospel, undeterred by the fear of men.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7048813402745484,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.03,
+            "commentatorTierSimilarities": [
+                24.11,
+                36.62,
+                39.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

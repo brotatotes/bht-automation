@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:30:31",
+    "verseRef": "Acts 12:20",
+    "bestBHT": {
+        "bht": "The conflict between Herod and the Tyrians and Sidonians originated from commercial regulations that impacted their trade relations. The Tyrians, whose country was close to Galilee and Damascus, relied on the king's friendship, especially during the famine. The dispute escalated into desperate fighting, but eventually, the cities sought reconciliation and obtained peace. This was significant for the Christians in the region, as their country depended on provisions from the king's land, and the reconciliation ensured they were delivered from scarcity. (68 words, 51.9% from the quotes)",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.8145992854143116,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+        "commentatorTierSimilarities": [
+            34.08,
+            36.69,
+            29.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is impossible that Herod should have been at war with the Tyrians and Sidonians... The quarrel, however it originated, appears to have been carried out on Herod\u2019s part by some commercial regulation opposed to their interest.\" ",
+            "peace] not (see above) in its strict sense, but reconciliation.\" ",
+            "The Tyrians found the king\u2019s friendship necessary to them, because their country was a very narrow strip, and close on the borders of Galilee and Damascus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Herod was . . . displeased with them of Tyre and Sidon\u2014for some reason unknown; but the effect on their commercial relations made the latter glad to sue for peace.",
+            "Their country was nourished by the king's country\u2014See 1 Kings 5:11; Ezra 3:7; Ezekiel 27:17.",
+            "Perhaps the famine (Acts 11:28) made them the more urgent for reconciliation."
+        ],
+        "Albert Barnes": [
+            "The Greek word \u03b8\u03c5\u03bc\u03bf\u03bc\u03b1\u03c7\u03c9\u0342\u03bd thumomacho\u0304n does not occur elsewhere in the New Testament. It means to meditate war; to purpose war in the mind; or here, probably, to be enraged or angry at them.",
+            "Tyre and Sidon were under the Roman power, and had some shadow of liberty (Grotius), and it is probable that they might have embarrassed Herod in some of his regulations respecting commerce.",
+            "Because their country was nourished ... - Was supplied by the territories of Herod. The country of Tyre and Sidon included a narrow strip of land on the coast of the Mediterranean."
+        ],
+        "Marvin Vincent": [
+            "Highly displeased... to fight desperately.\" ",
+            "The word is to be taken in the sense of the A. V.\" ",
+            "Chamberlain... the one over the bedchamber."
+        ],
+        "John Calvin": [
+            "A worthy history, which doth not only show, as it were in a glass, what end is prepared for the enemies of the Church, but also how greatly God hateth pride.",
+            "Men cannot extol themselves higher than becometh them, but they shall make war with God, who, to the end he may surpass all, commandeth all flesh to keep silence.",
+            "Furthermore, we must note the course of the history, that all things go well with Herod after that he had miserably vexed the Church; he enforced the nations round about him, being tamed with hunger, to come to crave pardon upon their knees, as if God had rewarded him well for his wicked fury."
+        ],
+        "Philip Schaff": [
+            "The angry feeling which had sprung up between King Herod and the inhabitants of the Phoenician cities was no doubt owing to the commercial rivalry.",
+            "Blastus the king\u2019s chamberlain...occupied the confidential position of principal chamberlain to the king.",
+            "Herod no doubt in his anger forbade all intercommunication and traffic between Israel and the Phoenician cities."
+        ],
+        "Archibald T. Robertson": [
+            "The quarrel may have been over commercial matters.",
+            "Tyre was a colony of Sidon and had become one of the chief commercial cities of the world by reason of the Phoenician ships.",
+            "Tyre and Sidon as large commercial cities on the coast received large supplies of grain and fruits from Palestine. Herod had cut off the supplies and that brought the two cities to action."
+        ],
+        "John Gill": [
+            "The ambassadors from both cities united in an address to him, and joined in ways and means to reconcile him to them.",
+            "Persons in such an office had usually very great interest in the princes they served.",
+            "These cities were seaports, and the inhabitants of them were much concerned in sending ships to sea, and in merchandise."
+        ],
+        "John Wesley": [
+            "Having gained Blastus...they sued for, and obtained peace - Reconciliation with Herod.",
+            "And so the Christians of those parts were, by the providence of God, delivered from scarcity.",
+            "Their country was nourished - Was provided with, corn, by the king's country."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is apparent that there was a conflict between Herod and the Tyrians and Sidonians, likely over commercial matters. The quarrel was carried out in a way that affected their commercial relations, which made the cities eager to seek reconciliation. The Tyrians relied on the friendship of the king, as their country was narrow and in close proximity to Galilee and Damascus. The dispute may have been intensified by the famine, leading to a desperate fight. Nevertheless, the anger between them eventually led to the cities sending ambassadors to Herod and successfully obtaining peace. Ultimately, their country depended on the provisions from the king's land, and this reconciliation ensured that the Christians in those regions were delivered from scarcity.",
+            "wordCount": 120,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.9667143748019726,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                33.87,
+                37.41,
+                28.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The conflict between Herod and the Tyrians and Sidonians seems to have originated from commercial regulations that affected their relations. The proximity of the Tyrians to Galilee and Damascus made them reliant on the king's friendship. The dispute may have been worsened by the famine, leading to a desperate fight. However, the anger eventually led to the cities seeking reconciliation and obtaining peace with Herod. This ensured that the Christians in the region were delivered from scarcity as their country depended on provisions from the king's land. (63 words, 54.0% from the quotes)",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.73730889724435,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+            "commentatorTierSimilarities": [
+                33.22,
+                38.15,
+                28.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The conflict between Herod and the Tyrians and Sidonians likely arose from commercial matters, resulting in a dispute that affected their trade relations. The Tyrians relied on the king's friendship due to their narrow strip of land bordering Galilee and Damascus. The famine may have exacerbated the situation, leading to a fierce struggle. However, the cities eventually sought peace and reconciliation with Herod, ensuring that the Christians in the region were delivered from scarcity as their country relied on provisions from the king's land. (70 words, 57.1% from the quotes)",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.71681796614486,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.43,
+            "commentatorTierSimilarities": [
+                34.03,
+                39.25,
+                26.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The conflict between Herod and the Tyrians and Sidonians originated from a disagreement over commercial regulations, leading to a dispute that affected their trade relations. The Tyrians, whose country was nourished by Herod's land, sought reconciliation with the king due to their dependence on his friendship and the scarcity caused by the famine. After desperate fighting, the cities sent ambassadors, resulting in peace being obtained. This reconciliation brought relief to the Christians in the region who relied on provisions from the king's territory. (80 words, 50.0% from the quotes)",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6941398816469246,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.67,
+            "commentatorTierSimilarities": [
+                33.86,
+                34.61,
+                31.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The conflict between Herod and the Tyrians and Sidonians originated from commercial regulations that impacted their trade relations. The Tyrians, whose country was close to Galilee and Damascus, relied on the king's friendship, especially during the famine. The dispute escalated into desperate fighting, but eventually, the cities sought reconciliation and obtained peace. This was significant for the Christians in the region, as their country depended on provisions from the king's land, and the reconciliation ensured they were delivered from scarcity. (68 words, 51.9% from the quotes)",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8145992854143116,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+            "commentatorTierSimilarities": [
+                34.08,
+                36.69,
+                29.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

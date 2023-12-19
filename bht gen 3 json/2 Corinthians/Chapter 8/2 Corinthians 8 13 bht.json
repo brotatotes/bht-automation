@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 15:17:06",
+    "verseRef": "2 Corinthians 8:13",
+    "bestBHT": {
+        "bht": "Paul's aim is not to relieve others at the cost of distressing the Corinthians. He encourages them to give, but not to the point of suffering while others are relieved. The Corinthians have the ability to contribute more, but Paul does not expect them to shoulder the entire burden. It is important to remember that God is pleased when we use our abundance to relieve the needs of our brethren. The goal is for an equal sharing of resources and the fair provision for immediate necessities.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.4409392797989207,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.25,
+        "commentatorTierSimilarities": [
+            31.15,
+            29.41,
+            39.45
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "My aim is not that others may be relieved at the cost of your being 'distressed'."
+        ],
+        "Albert Barnes": [
+            "Not that there should be rest (\u03b1\u0313\u0301\u03bd\u03b5\u03c3\u03b9\u03c2 anesis, a letting loose; remission, relaxation) to others, but affliction (\u03b8\u03bb\u03b9\u0301\u03c8\u03b9\u03c2 thlipsis) to you.",
+            "Paul therefore presses upon them the duty of giving according to their means, yet he by no means intended that the entire burden should come on them.",
+            "The Corinthians were able to contribute more than many other churches, certainly more than the churches of Macedonia 2 Corinthians 8:2."
+        ],
+        "John Calvin": [
+            "True, indeed, it is certain, that we owe to God, not merely a part, but all that we are, and all that we have, but in His kindness He spares us thus far, that He is satisfied with that participation of which the Apostle here speaks.",
+            "Hence we must carefully observe Paul\u2019s mildness and moderation, in stating that our alms are well-pleasing to God, when we relieve the necessity of our brethren from our abundance.",
+            "In exercising beneficence, we must provide for the present necessity, if we would observe the true rule of equity."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 8:13. For I say not this, that others may be eased, and ye distressed that others be eased at your expense, your Jewish brethren placed in comfort and ye yourselves pinched;",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Others may be eased (\u03b1\u03bb\u03bb\u03bf\u03b9\u03c2 \u03b1\u03bd\u03b5\u03c3\u03b9\u03c2). \"Release to others.",
+            "Ye distressed (\u03c5\u03bc\u03b9\u03bd \u03b8\u03bb\u03b9\u03c8\u03b9\u03c2). \"To you tribulation.\" The verb \u03b7 (present subjunctive) with \u03b9\u03bd\u03b1 is not expressed. "
+        ],
+        "John Gill": [
+            "Not to put the whole burden of the collection upon some only, whilst others were excused doing little or nothing; but that everyone should give according to his ability.\" ",
+            "Not that these churches by reason of their meanness should be entirely free from this service, as it was plain they were not, by the instance of the Macedonians.\" ",
+            "His meaning was, not that there should be such a contribution raised for these poor saints at Jerusalem, that they should live in ease and great abundance; whilst their benefactors, through an over abundant generosity to them, were straitened, and their families reduced to great difficulties; this was what was far from his intentions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul emphasizes that his goal is not to relieve the distress of some at the expense of causing distress to others. He urges the Corinthians to contribute according to their means, understanding that while they have the ability to give more, the burden should not solely fall on them. It is important to remember that God is pleased with our acts of charity as we relieve the needs of our brethren from our abundance. In our giving, we must consider the immediate necessities and practice fairness. The intention is not to burden some while others give little or nothing, but for everyone to contribute according to their ability. God's desire is not for the Corinthians to suffer while their Jewish brethren enjoy comfort, but for an equitable sharing of resources among believers.",
+            "wordCount": 133,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.3700867151891019,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.9,
+            "commentatorTierSimilarities": [
+                22.26,
+                31.23,
+                46.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul urges the Corinthians to give, but not to the extent that they would suffer while others are relieved. He emphasizes that the goal is a fair distribution, with each person contributing according to their ability. God is pleased with our acts of charity as we alleviate the needs of our brethren. The intention is not to burden some while others give little or nothing, but for an equitable sharing of resources. The focus is on relieving the immediate necessities and practicing fairness in our giving.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.1843472566452369,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.72,
+            "commentatorTierSimilarities": [
+                23.88,
+                28.87,
+                47.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's aim is not to relieve others at the cost of distressing the Corinthians. He encourages them to give, but not to the point of suffering while others are relieved. The Corinthians have the ability to contribute more, but Paul does not expect them to shoulder the entire burden. It is important to remember that God is pleased when we use our abundance to relieve the needs of our brethren. The goal is for an equal sharing of resources and the fair provision for immediate necessities.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.4409392797989207,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.25,
+            "commentatorTierSimilarities": [
+                31.15,
+                29.41,
+                39.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's objective is not to alleviate others at the expense of distressing the Corinthians. Instead, he urges them to give, but not in a way that causes them suffering while others are eased. Although the Corinthians have the ability to contribute more, Paul does not expect them to bear the entire burden. It is important to recognize that God is pleased when we use our abundance to alleviate the needs of our fellow believers. The aim is for a fair distribution of resources, ensuring that immediate necessities are met.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.3378653541326466,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+            "commentatorTierSimilarities": [
+                24.95,
+                31.11,
+                43.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's goal is not to relieve others at the cost of distressing the Corinthians. Instead, he encourages them to give, but not to the point of causing suffering while others are eased. While the Corinthians have the ability to give more, Paul does not expect them to shoulder the entire burden. It is crucial to understand that God is pleased when we use our abundance to help our fellow believers meet their needs. The focus is on fair distribution and addressing immediate necessities in our acts of charity.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.3979578955605099,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.83,
+            "commentatorTierSimilarities": [
+                27.54,
+                31.23,
+                41.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

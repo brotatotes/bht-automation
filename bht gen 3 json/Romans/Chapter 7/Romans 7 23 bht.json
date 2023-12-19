@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:06:26",
+    "verseRef": "Romans 7:23",
+    "bestBHT": {
+        "bht": "Paul's depiction of the internal struggle within himself is captivating as he describes the clash between two opposing laws. The warring forces, one within his members and the other within his mind, bring him into captivity to the law of sin. This conflict, both ethical and moral, highlights the inherent property of each law, drawing him in reluctantly like a captive to his enemy's camp. The tragic picture Paul paints emphasizes the universal struggle between conscience and deeds that we all wrestle with.",
+        "wordCount": 85,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 2.0983656028645847,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+        "commentatorTierSimilarities": [
+            35.23,
+            37.73,
+            27.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "but I see (equivalent to \u2018find:\u2019\u2014as if he were a spectator of that which is going on within) a different law (differing in kind and aim, not 'another' merely) in my members",
+            "warring against (in continual dissension and conflict with) the law of my mind",
+            "and bringing me (the whole complex self\u2014the \u2018me\u2019 of personality and action) into captivity to the law of sin"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word 'law' means an inward principle of action, good or evil.",
+            "He is simply describing the two conflicting principles, and pointing out what it was the inherent property of each to aim at bringing about.",
+            "Here the apostle describes himself, when drawn under the power of his sinful nature, as forcibly seized and reluctantly dragged to his enemy's camp, from which he would gladly make his escape."
+        ],
+        "Albert Barnes": [
+            "In my members - In my body; in my flesh; in my corrupt and sinful propensities.",
+            "The law of my mind - This stands opposed to the prevailing inclinations of a corrupt nature. It means the same as was expressed by the phrase 'the inward man,' and denotes the desires and purposes of a renewed heart.",
+            "And bringing me into captivity - Making me a prisoner, or a captive. This is the completion of the figure respecting the warfare."
+        ],
+        "Marvin Vincent": [
+            "Paul uses it mainly with an ethical reference - moral judgment as related to action.",
+            "The key to its Pauline usage is furnished by the contrast in 1 Corinthians 14:14-19, between speaking with a tongue and with the understanding [\u03c4\u03c9 \u03bd\u03bf\u03b9], and between the spirit and the understanding",
+            "It stands related to pneuma spirit, as the faculty to the efficient power."
+        ],
+        "Philip Schaff": [
+            "Paul represents himself as witnessing the conflict within his own person.",
+            "The conflict is against the law of God, not as such, but as having the locality of its operation in the 'mind.'",
+            "The law in the members is the warrior that takes the captive, the law of sin is the victor under whom the captive is held; the two laws are practically identical."
+        ],
+        "Archibald T. Robertson": [
+            "The law of my mind... It is this higher self that agrees that the law of God is good.",
+            "Surely it is a tragic picture drawn by Paul with this outcome, 'sold under sin,' 'captivity to the law of sin.'",
+            "The ancient writers describe the same dual struggle in man between his conscience and his deeds."
+        ],
+        "John Gill": [
+            "There is a civil war in them, as it were a company of two armies, flesh and spirit, sin and grace, combating together.",
+            "A regenerate man is, through the force of sin, and power of temptation, violently drawn and carried into captivity.",
+            "The captivity of an unregenerate person is very agreeable to him he likes his prison, he loves his chains, and do not choose to be in any other state and condition."
+        ],
+        "John Wesley": [
+            "Another inward constraining power of evil inclinations and bodily appetites.",
+            "The dictate of my mind, which delights in the law of God.",
+            "In spite of all my resistance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the apostle Paul vividly describes the internal struggle between two opposing forces within himself. He recognizes a different law at work within his own being, warring against the law of his mind and bringing him into captivity to the law of sin. This law refers to an inward principle of action, representing the inherent property of each conflicting force. Paul is forcibly seized and reluctantly dragged to his enemy's camp, yearning to escape. Nevertheless, his higher self, his mind, agrees that the law of God is good. This tragic conflict between conscience and deeds is a universal struggle experienced by humanity.",
+            "wordCount": 105,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.9389384051088712,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                37.82,
+                35.55,
+                26.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's depiction of the internal struggle within himself is captivating as he describes the clash between two opposing laws. The warring forces, one within his members and the other within his mind, bring him into captivity to the law of sin. This conflict, both ethical and moral, highlights the inherent property of each law, drawing him in reluctantly like a captive to his enemy's camp. The tragic picture Paul paints emphasizes the universal struggle between conscience and deeds that we all wrestle with.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.0983656028645847,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                35.23,
+                37.73,
+                27.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Within the depths of his being, Paul finds himself caught in the midst of a fierce battle. Two opposing laws clash, one within his very members and the other within his mind. Reluctantly, he is led into captivity by the law of sin, as he longs to be free from its grasp. This tragic struggle, between his conscience and deeds, reflects the universal conflict experienced by all. The struggle between flesh and spirit, sin and grace, within one's self is a civil war that wages on relentlessly.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.8394756615522652,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.5,
+            "commentatorTierSimilarities": [
+                32.67,
+                34.61,
+                32.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul vividly depicts the conflict within himself, as two opposing laws - one in his members and the other in his mind - battle for control. Reluctantly, he is drawn into captivity by the law of sin, yearning to escape. This description highlights the tragic outcome of being sold under sin and the struggle between conscience and deeds that is universally experienced. It is a poignant reminder of the internal war between flesh and spirit, sin and grace, that rages within each of us.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9991620985217544,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                33.93,
+                34.54,
+                31.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's depiction of the struggle within himself reveals the clash between two laws: one in his members and the other in his mind. Reluctantly, he finds himself in captivity to the law of sin, yearning to break free. This tragic portrayal emphasizes the universal battle between conscience and deeds that every individual faces. The conflict between flesh and spirit, sin and grace, within one's being is an internal war that persists, requiring continuous resistance.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9337008869608385,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+            "commentatorTierSimilarities": [
+                31.92,
+                35.27,
+                32.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

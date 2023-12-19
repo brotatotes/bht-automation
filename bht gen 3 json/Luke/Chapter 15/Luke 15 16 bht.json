@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:20:27",
+    "verseRef": "Luke 15:16",
+    "bestBHT": {
+        "bht": "In the depths of his misery, this man, driven by his insatiable appetite, resorted to eating the hulls of a leguminous plant that was normally reserved for cattle and swine. Desiring to fill his belly, he consumed these pods which were no better than what he had longed for all along. This reflects the futile pursuit of worldly desires, leaving him alone and perishing. His desperation reveals a longing for true satisfaction and nourishment.",
+        "wordCount": 74,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 2.065004661844928,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.0,
+        "commentatorTierSimilarities": [
+            26.17,
+            30.42,
+            43.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They have a hard dark outside and a dull sweet taste.\" ",
+            "His appetite even drove him to these for food.",
+            "We see him now in the depth of his misery,\u2014the sinner reaping the consequences of his sin in utter shame and extremity of need."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "was fain to fill,\" ate greedily of the only food he could",
+            "\tget.",
+            "the hulls of a leguminous plant which in the East is the food of cattle",
+            "\tand swine, and often the nourishment of the poorest in times of",
+            "\tdistress",
+            "This was his lowest depth\u2014perishing unpitied, alone",
+            "\tin the world, and ready to disappear from it unmissed! But",
+            "\tthis is just the blessed turning-point; midnight before dawn of day."
+        ],
+        "Albert Barnes": [
+            "He would fain - He would gladly. He desired to do it.",
+            "The \u2018husks\u2019 - a mistranslation - are fleshy pods, somewhat like those of the locust-tree, from six to ten inches long and one broad, laid inside with a gelatinous substance, not wholly unpleasant to the taste when thoroughly ripe.",
+            "Nothing could more strikingly show the evil of his condition, or the deep degradation, and pollution, and wretchedness of sin."
+        ],
+        "Marvin Vincent": [
+            "He had wanted the wrong thing all along, and it was no better now. All he wanted was to fill his belly.",
+            "The fleshy pods are from six to ten inches long, and one broad, lined inside with a gelatinous substance, not wholly unpleasant to the taste when thoroughly ripe.",
+            "When Israel is reduced to the carob - tree, they become repentant."
+        ],
+        "Philip Schaff": [
+            "The literal translation of the E. V. corresponds with the coarse craving of his hunger.",
+            "These pods have a sweetish taste; are food for swine, but poor nourishment for men, although they could be eaten.",
+            "No one provided anything for his needs. This is the reason he so desired the swine\u2019s food."
+        ],
+        "Archibald T. Robertson": [
+            "He was desiring (longing) to be filled.",
+            "The pods of the carob tree or locust tree still common in Palestine...so called from the shape of the pods like little horns.",
+            "Continued refusal of anyone to allow him even the food of the hogs."
+        ],
+        "John Gill": [
+            "But these were the things this man had been desirous of, and lived upon before, and had ran through them, and had spent all his substance in the pursuit and enjoyment of them; and now he felt the gripes of a natural conscience for them, and found himself in want of something else.",
+            "By these 'husks' are meant works of righteousness done by men; which are like husks, external things, done only before men; empty things that have nothing within them; mere trash, and not food; and which can give no satisfaction; mere sordid food, fit only to be cast to dogs or swine; of an ill savour, hard to eat, and difficult digestion, and which affords no real nourishment.",
+            "There were nothing but these husks that presented, and he tried to satisfy himself with them; and indeed none but Christ can give the true bread, the bread of life, to those that are hungry, and in want."
+        ],
+        "John Wesley": [
+            "He would fain have filled his belly with the husks \u2014 He would fain have satisfied himself with worldly comforts. Vain, fruitless endeavour!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see a man in the depth of his misery, reaping the consequences of his sin in utter shame and need. He had longed to fill his belly with anything, even resorting to eating the hulls of a leguminous plant that was usually the food of cattle and swine. These pods, like little horns, were his lowest depth, leaving him alone and ready to perish. The husks he consumed were a poor substitute for true nourishment, reflecting the futility of his desires. In this state of desperation, the man longed for something more, something that could truly satisfy him.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.954702578001938,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+            "commentatorTierSimilarities": [
+                26.02,
+                31.87,
+                42.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the depths of his misery, this man, driven by his insatiable appetite, resorted to eating the hulls of a leguminous plant that was normally reserved for cattle and swine, a stark representation of his shame and extreme need. Desiring to fill his belly, he consumed these pods which were no better than what he had longed for all along. This reflects the futile pursuit of worldly desires, leaving him alone and perishing. His desperation reveals a longing for true satisfaction and nourishment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0605176897808484,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
+            "commentatorTierSimilarities": [
+                25.47,
+                30.38,
+                44.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the depths of his misery, this man, driven by his insatiable appetite, resorted to eating the hulls of a leguminous plant that was normally reserved for cattle and swine. Desiring to fill his belly, he consumed these pods which were no better than what he had longed for all along. This reflects the futile pursuit of worldly desires, leaving him alone and perishing. His desperation reveals a longing for true satisfaction and nourishment.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.065004661844928,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.0,
+            "commentatorTierSimilarities": [
+                26.17,
+                30.42,
+                43.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his lowest depth of misery, this man is seen reaping the consequences of his sin, perishing unpitied and alone. Driven by his insatiable appetite, he sought to fill his belly with the hulls of a leguminous plant, a food typically reserved for cattle and swine, and the nourishment of the poorest in times of distress. This desperate act reflects the futility of his desires, for what he longed for all along was no better than the husks he consumed. In his destitution, he longed for something more, something that could truly satisfy his hunger.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.9561475995463908,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+            "commentatorTierSimilarities": [
+                24.18,
+                32.26,
+                43.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the depths of his misery, this man found himself alone and ready to perish, consumed by the consequences of his sin. Driven by his insatiable appetite, he resorted to the hulls of a leguminous plant, the food of cattle and swine, in a desperate attempt to fill his belly. However, these husks were no better than what he had desired all along. This portrays the futility of worldly pursuits, highlighting the need for true satisfaction and nourishment.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.7883145687307351,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                23.85,
+                31.12,
+                45.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

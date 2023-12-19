@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:30:33",
+    "verseRef": "Acts 13:7",
+    "bestBHT": {
+        "bht": "The proconsul, Sergius Paulus, a prudent and understanding man, deeply desired to hear the Word of God. Though he was a victim of Barjesus's deception, Sergius Paulus had given up idolatry and was eager to learn more. His thirst for knowledge led him to call for Barnabas and Saul. It is remarkable to see the accuracy of Luke's account, as coins and inscriptions have been found to confirm the presence of proconsuls in Cyprus during that time. Sergius Paulus sought a faith that surpassed the empty superstitions of his childhood and the idolatry of Rome.",
+        "wordCount": 97,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.9353450470755975,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.69,
+        "commentatorTierSimilarities": [
+            31.82,
+            30.8,
+            37.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The proconsul was appointed by lot, as in the times of the republic; carried with him the lictors and fasces as a consul: but had no military power, and held office only for a year.",
+            "The imperial provinces, on the other hand, were governed by a military officer, a Propr\u00e6tor or Legatus of the Emperor, who was girded with the sword, and not revocable unless by the pleasure of the Emperor.",
+            "Nothing more is known of this Sergius Paulus. Another person of the same name is mentioned by Galen, more than a century after this, as a great proficient in philosophy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Which was with the deputy\u2014properly, 'the proconsul.'",
+            "In most striking confirmation of this minute accuracy of the sacred historian, coins have actually been found in the island, stamped with the names of proconsuls, both in Greek and Latin.",
+            "Sergius Paulus, a prudent man\u2014an intelligent man, who thirsting for truth, sent for Barnabas and Saul, desiring ('earnestly desiring') to hear the Word of God."
+        ],
+        "Albert Barnes": [
+            "The exact accuracy of Luke in this statement is worthy of special remark.",
+            "It is not often that men of rank are thus willing to listen to the instructions of the professed ministers of God.",
+            "There is no evidence that he then wished to listen to this as divine truth, or that he was anxious about his own salvation, but it was rather as a speculative inquiry."
+        ],
+        "Marvin Vincent": [
+            "The deputy . Better, Rev., proconsul.",
+            "Sergius Paulus. Di Cesnola relates the discovery at Soli, which, next to Salamis, was the most important city in the island, of a slab with a Greek inscription containing the name of Paulus, proconsul.",
+            "Prudent . Better, as Rev., a man of understanding."
+        ],
+        "John Calvin": [
+            "And whereas Sergius Paulus, desiring some better thing than that which he had learned from his childhood, was unaptly drawn aside unto diverse superstitions...",
+            "He had conceived a certain reverence and fear of God, though he knew him not as yet...",
+            "God doth solicit his mind, that he may not be altogether stayed in vanity, though he suffered himself to be deceived for a time by a wicked man."
+        ],
+        "Philip Schaff": [
+            "The rulers of these peaceful provinces were termed proconsuls; they carried with them into their governments the ensigns of a consul, the lictors and the fasces.",
+            "Judea, at the time of the crucifixion of Jesus Christ, was under the charge of one of these, the procurator Pontius Pilate, whose commanding officer was the legatus of Syria.",
+            "The proconsul was one of those many high-class Romans of that period, who, finding no satisfaction in the strange, fantastic system of idolatry at Rome and the East, sought for a nobler faith."
+        ],
+        "Archibald T. Robertson": [
+            "A man of understanding (\u03b1\u03bd\u03b4\u03c1 \u03c3\u03c5\u03bd\u03b5\u03c4\u03c9). All the more amazing that he should be a victim of Barjesus.",
+            "He had given up idolatry at any rate and was eager to hear Barnabas and Saul.",
+            "Two inscriptions have been found with the date A.D. 51 and 52 with the names of proconsuls of Cyprus and one is in the Cesnola Collection, an inscription found at Soli with the name of Paulus as Proconsul, undoubtedly this very man, though no date occurs."
+        ],
+        "John Gill": [
+            "The name of this deputy was Sergius Paulus; the name of Paulus was common among the Romans.",
+            "This deputy is said to be 'a prudent man', in the management of his affairs, as a governor; and might be very learned, ingenious, and an understanding man; a man of great sagacity and penetration.",
+            "Whether this was at first from mere curiosity, or from any political view, or from a true desire of knowing the way of life and salvation, which might be wrought in his soul by the Spirit of God, is not certain; though the latter seems most likely, since it issued in his conversion."
+        ],
+        "John Wesley": [
+            "The proconsul \u2014 The Roman governor of Cyprus, a prudent man - And therefore not overswayed by Elymas, but desirous to inquire farther."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The proconsul, Sergius Paulus, a prudent and understanding man, deeply desired to hear the Word of God. Though he was a victim of Barjesus's deception, Sergius Paulus had given up idolatry and was eager to learn more about the truth. His sincere thirst for knowledge led him to call for Barnabas and Saul. It is remarkable to see the accuracy of Luke's account, as there have been coins and inscriptions found that confirm the presence of proconsuls in Cyprus during that time. Despite being in a position of power, Sergius Paulus humbly sought understanding in a faith that surpassed the empty superstitions of his childhood and the idolatry of Rome.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9620083263372772,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                31.53,
+                31.46,
+                37.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The proconsul, Sergius Paulus, an intelligent and prudent man, earnestly desired to hear the Word of God. Having given up idolatry, he sought the truth and called for Barnabas and Saul. Luke's account is remarkably accurate, with coins and inscriptions confirming the presence of proconsuls in Cyprus at that time. Sergius Paulus's genuine thirst for knowledge surpassed the empty superstitions of his childhood and the idolatry of Rome, as he yearned for a faith that would provide deeper meaning and understanding in his life.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8694760182740313,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                32.05,
+                31.97,
+                35.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The proconsul, Sergius Paulus, a prudent and understanding man, deeply desired to hear the Word of God. Though he was a victim of Barjesus's deception, Sergius Paulus had given up idolatry and was eager to learn more. His thirst for knowledge led him to call for Barnabas and Saul. It is remarkable to see the accuracy of Luke's account, as coins and inscriptions have been found to confirm the presence of proconsuls in Cyprus during that time. Sergius Paulus sought a faith that surpassed the empty superstitions of his childhood and the idolatry of Rome.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.9353450470755975,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.69,
+            "commentatorTierSimilarities": [
+                31.82,
+                30.8,
+                37.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The proconsul, Sergius Paulus, an intelligent and prudent man, earnestly desired to hear the Word of God. Having given up idolatry, he sought the truth and called for Barnabas and Saul. Luke's account is remarkably accurate, with coins and inscriptions confirming the presence of proconsuls in Cyprus at that time. Sergius Paulus's genuine thirst for knowledge surpassed the empty superstitions of his childhood, as he yearned for a faith that would provide deeper meaning and understanding in his life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.820631393512357,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.88,
+            "commentatorTierSimilarities": [
+                32.09,
+                31.11,
+                36.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The proconsul, Sergius Paulus, a prudent and understanding man, eagerly desired to hear the Word of God. Having abandoned idolatry, he sought truth and called for Barnabas and Saul. Luke's detailed accuracy is confirmed by the presence of proconsuls in Cyprus at the time. Sergius Paulus's genuine thirst for knowledge exceeded the empty superstitions of his childhood, as he longed for a faith that would provide deeper meaning and understanding in his life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8057320917745385,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                30.14,
+                32.12,
+                37.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

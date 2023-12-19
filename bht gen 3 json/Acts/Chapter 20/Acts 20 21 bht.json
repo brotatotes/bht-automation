@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:34:21",
+    "verseRef": "Acts 20:21",
+    "bestBHT": {
+        "bht": "Repentance is the state of an honest and good heart that recognizes its contrariety to divine law, preceding the embrace of faith directed towards the Lord Jesus. In his ministry, Paul consistently preached repentance toward God and faith toward the Lord Jesus, emphasizing their inseparability. Without faith, repentance lacks comfort and hope, leading to faint-heartedness and despair. These two elements, repentance and faith, form the foundation of Christian doctrine and are indispensable in one's journey of salvation.",
+        "wordCount": 79,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 2.4386923314971423,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.43,
+        "commentatorTierSimilarities": [
+            28.54,
+            38.48,
+            32.98
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "REPENTANCE, as distinguished from faith, is that state of the 'honest and good heart' which arises from a discovery of one's contrariety to the righteous demands of the divine law.\" ",
+            "FAITH is said to be 'toward our Lord Jesus Christ,' because in that frame of mind just described it eagerly credits the testimony of relief divinely provided in Christ, gladly embraces the overtures of reconciliation in Him, and directs all its expectations of salvation, from its first stage to its last, to Him as the one appointed Medium of all grace from God to a sinful world.",
+            "Thus we have here a brief summary of all Gospel preaching. And it is easy to see why repentance is here put before faith; for the former must of necessity precede the latter."
+        ],
+        "Albert Barnes": [
+            "Testifying - Bearing witness to the necessity of repentance toward God.\" ",
+            "To all who were not Jews... He urged the necessity of repentance and faith in all. Religion makes no distinction, but regards all as sinners, and as needing salvation by the blood of the Redeemer.\" ",
+            "Toward - \u03b5\u03b9\u0313\u03c2 eis. In regard to; in; confidence in the work and merits of the Lord Jesus. This is required, because there is no other one who can save from sin."
+        ],
+        "Marvin Vincent": [
+            "Repentance toward God. Repentance has the article: the repentance which is due to God.\" ",
+            "Bound in the spirit. In his own spirit. Constrained by an invincible sense of duty.\" ",
+            "Testifieth [\u03b4\u03b9\u03b1\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b5\u03c4\u03b1\u03b9] . The compound verb signifies full, clear testimony. Not by internal intimations of the Spirit, but by prophetic declarations 'in every city.'"
+        ],
+        "John Calvin": [
+            "Repentance is a turning unto God, when we frame ourselves and all our life to obey him; but faith is a receiving of the grace offered us in Christ.",
+            "Therefore, unless faith be added, it is in vain to speak of repentance; yea, those teachers of repentance who, neglecting faith, stand only upon the framing of life, and precepts of good works, differ nothing, or very little from profane philosophers.",
+            "For there is no part of our salvation which may not be found in Christ. By the sacrifice of his death he hath purged our sins; he hath suffered the punishment that he might acquit us; he hath made us clean by his blood; by his obedience he hath appeased his Father\u2019s wrath; by his resurrection he hath purchased righteousness for us."
+        ],
+        "Philip Schaff": [
+            "Repentance toward God and faith toward our Lord Jesus Christ. These two make up the sum of all Christian doctrine...\" ",
+            "The one cannot be separated from the other. True faith cannot exist without the sorrowful heart.",
+            "Repentance without faith in Christ is without comfort or hope, and ends too surely in faint-heartedness and despair."
+        ],
+        "Archibald T. Robertson": [
+            "Paul here as in Romans 1:16 includes both Jews and Greeks, to the Jew first.",
+            "These two elements run through the Epistle to the Romans which Paul had recently written and sent from Corinth.",
+            "Whether 'to Jews or Gentiles, to philosophers at Athens or to peasants at Lystra, he preached repentance toward God and faith toward the Lord Jesus'."
+        ],
+        "John Gill": [
+            "It lies in a true sight and sense of sin, as exceeding sinful... and shows itself in shame for sin, and blushing at it, and in an ingenious confession of it, and forsaking it.",
+            "The latter of these is not an historical faith... but is a spiritual act of the soul upon him; it is a looking and going out to him, a laying hold and leaning on him, and trusting in him, for grace, righteousness, peace, pardon, life, and salvation.",
+            "These two were the sum of the apostle's ministry; this is a breviary or compendium of it; a form of sound words held fast and published by him."
+        ],
+        "John Wesley": [
+            "Repentance toward God \u2014 The very first motion of the soul toward God is a kind of repentance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Repentance, the state of an honest and good heart that recognizes one's contrariness to divine law, is the foundation on which faith is built in Acts 20:21. This faith is directed towards our Lord Jesus Christ, eagerly accepting the testimony of relief provided in Christ and expecting salvation through Him. Repentance is rightfully placed before faith, as it is a necessary precursor. Paul's preaching of repentance toward God and faith toward the Lord Jesus is consistent throughout his letters, including the Epistle to the Romans. These two elements, inseparable, form the basis of Christian doctrine. Without faith, repentance lacks comfort and hope, leading to faint-heartedness and despair.",
+            "wordCount": 109,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 2.266859859200749,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.71,
+            "commentatorTierSimilarities": [
+                29.81,
+                38.33,
+                31.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Repentance, the state of an honest and good heart, stems from recognizing one's contrariness to divine law. Faith, directed towards our Lord Jesus Christ, eagerly embraces His testimony of relief and expects salvation through Him. Repentance precedes faith and is crucial in Paul's preaching. He consistently emphasizes repentance toward God and faith toward the Lord Jesus in his letters, particularly in the Epistle to the Romans. These two elements\u2014repentance and faith\u2014are inseparable and foundational to Christian doctrine, providing comfort and hope, without which faint-heartedness and despair may prevail.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 2.2994270449280725,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.8,
+            "commentatorTierSimilarities": [
+                30.41,
+                37.15,
+                32.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Repentance, arising from a recognition of one's contrariety to divine law, is the necessary state of an honest and good heart. Faith, directed toward the Lord Jesus, eagerly credits His testimony of relief and embraces reconciliation in Him. Putting repentance before faith is logical, as the former must precede the latter. Throughout his ministry, Paul preached both repentance toward God and faith toward the Lord Jesus, emphasizing their inseparability. Without faith, repentance lacks comfort and hope, leading to faint-heartedness and despair.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.3147198034620695,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.3,
+            "commentatorTierSimilarities": [
+                29.3,
+                38.2,
+                32.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Repentance, the state of an honest and good heart, arises from a recognition of one's contrariety to divine law. Faith, directed toward the Lord Jesus, eagerly embraces His testimony of relief and expects salvation through Him. Paul preached repentance toward God and faith toward the Lord Jesus in all his ministry, emphasizing their inseparability. Without faith, repentance lacks comfort and hope, leading to faint-heartedness and despair. True repentance and faith are the foundation of Christian doctrine, incapable of being separated from one another.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.384865457230817,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.64,
+            "commentatorTierSimilarities": [
+                28.32,
+                39.45,
+                32.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Repentance is the state of an honest and good heart that recognizes its contrariety to divine law, preceding the embrace of faith directed towards the Lord Jesus. In his ministry, Paul consistently preached repentance toward God and faith toward the Lord Jesus, emphasizing their inseparability. Without faith, repentance lacks comfort and hope, leading to faint-heartedness and despair. These two elements, repentance and faith, form the foundation of Christian doctrine and are indispensable in one's journey of salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.4386923314971423,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.43,
+            "commentatorTierSimilarities": [
+                28.54,
+                38.48,
+                32.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

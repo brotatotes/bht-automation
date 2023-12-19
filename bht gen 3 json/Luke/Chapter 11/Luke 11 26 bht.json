@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:18:11",
+    "verseRef": "Luke 11:26",
+    "bestBHT": {
+        "bht": "When a person is freed from an evil spirit, if that spirit finds no place to rest, it may return with even more wicked spirits and set up residence again. In this way, the last state of that person becomes worse than it was before. This serves as a metaphor for the evil heart of humanity, capable of becoming a dwelling place for devils and foul spirits. Such was the fate of the wicked generation, driven by their own ruin and possessed by legions of devils.",
+        "wordCount": 86,
+        "quoteTokenProportion": 53.23,
+        "qualityScore": 1.0495818791673281,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.24,
+        "commentatorTierSimilarities": [
+            35.87,
+            0.0,
+            64.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Taketh spirits, seven of them.",
+            "More wicked.",
+            "Settle down to make their dwelling there."
+        ],
+        "John Gill": [
+            "The evil heart of man is an habitation of devils, and the hold of every foul spirit.",
+            "The last state of that man is worse than the first.",
+            "Even so shall it be also unto this wicked generation."
+        ],
+        "John Wesley": [
+            "The last state of that man becometh worse than the first.",
+            "Their characters were the vilest that can be conceived.",
+            "They pressed on to their own ruin, as if they had been possessed by legions of devils."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When a person has an evil heart, it becomes a dwelling place for wicked spirits, settling down and making their home there. This is a dangerous state to be in because the last state of that person is even worse than the first. In fact, their character becomes so vile that they are likened to being possessed by legions of devils. This warning from Scripture serves as a cautionary tale, reminding us to guard our hearts and not allow evil to take hold, for the consequences are dire indeed.",
+            "wordCount": 89,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 0.9285232665727086,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.22,
+            "commentatorTierSimilarities": [
+                34.48,
+                0.0,
+                65.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When a person has an evil heart, it becomes a dwelling place for wicked spirits, settling down and making their home there. This is a dangerous state to be in because the last state of that person is even worse than the first. In fact, their character becomes so vile that they are likened to being possessed by legions of devils. This reminder from Scripture urges us to guard our hearts and resist evil, for the consequences are grave indeed.",
+            "wordCount": 80,
+            "quoteTokenProportion": 54.1,
+            "qualityScore": 0.9286655312016245,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.22,
+            "commentatorTierSimilarities": [
+                34.42,
+                0.0,
+                65.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When an evil spirit is driven out of a person, it may wander before trying to find a new dwelling. It may bring along seven other spirits, even more wicked than itself, and they will settle down and make their dwelling inside the person. This is a depiction of the evil heart of humanity, which can become a habitation for devils and foul spirits. The last state of that person, after being possessed by these spirits, is worse than it was before. Just as it was for this wicked generation, who faced destruction due to their vile characters and their own willingness to be led astray.",
+            "wordCount": 106,
+            "quoteTokenProportion": 56.16,
+            "qualityScore": 1.2393685878841567,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.55,
+            "commentatorTierSimilarities": [
+                46.29,
+                0.0,
+                53.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When an evil spirit is driven out, it looks for a new place to settle. If it brings along more wicked spirits and finds a dwelling inside a person, their state becomes worse than before. This mirrors the evil heart of humanity, which can become a habitation for devils and foul spirits. This warning serves as a cautionary tale for the wicked generation, whose characters were despicable and pressed on towards their own destruction, like being possessed by a legion of devils.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.1832712378615242,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.69,
+            "commentatorTierSimilarities": [
+                45.82,
+                0.0,
+                54.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When a person is freed from an evil spirit, if that spirit finds no place to rest, it may return with even more wicked spirits and set up residence again. In this way, the last state of that person becomes worse than it was before. This serves as a metaphor for the evil heart of humanity, capable of becoming a dwelling place for devils and foul spirits. Such was the fate of the wicked generation, driven by their own ruin and possessed by legions of devils.",
+            "wordCount": 86,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.0495818791673281,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.24,
+            "commentatorTierSimilarities": [
+                35.87,
+                0.0,
+                64.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

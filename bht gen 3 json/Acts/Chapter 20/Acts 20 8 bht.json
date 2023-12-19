@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:33:59",
+    "verseRef": "Acts 20:8",
+    "bestBHT": {
+        "bht": "The upper chamber was filled with an abundance of lights, which serves to show the vivid impression of the scene and the lack of secrecy or disorder during the meetings. The presence of many lights not only allowed for necessary uses such as reading the Word and administering the ordinance of the Supper, but also removed any suspicion or reproach of the gathering being associated with wicked practices. The lights likely increased the heat, contributing to the drowsiness that led to the young man's fall from the window.",
+        "wordCount": 89,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.9350539012607009,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+        "commentatorTierSimilarities": [
+            29.87,
+            30.67,
+            39.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This may be noticed, as Meyer observes, to shew that the fall of the young man could be well observed.\" ",
+            "Or, perhaps, because many lights are apt to increase drowsiness at such times.\" ",
+            "But surely the adoption of either Jewish or Gentile practices of this kind in the Christian assemblies was very improbable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not a mere piece of graphic detail by an eye-witness, but mentioned, probably, as increasing the heat and contributing to drowsiness.",
+            "Increasing the heat and contributing to drowsiness.",
+            "The next clause seems to show."
+        ],
+        "Albert Barnes": [
+            "Why this circumstance is mentioned is not apparent. It, however, meets one of the slanders of the early enemies of Christianity, that the Christians in their assemblies were accustomed to extinguish all the lights, and to commit every kind of abomination.",
+            "Perhaps the mention of many lights here is designed to intimate that it was a place of public worship, as not only the Jews, but the Gentiles were accustomed to have many lights burning in such places.",
+            "In the upper chamber - See the notes on Acts 1:13."
+        ],
+        "Marvin Vincent": [
+            "A detail showing the vivid impression of the scene upon an eye-witness.",
+            "The abundance of lights shows how little of secrecy or disorder attached to these meetings.",
+            "The upper chamber."
+        ],
+        "Philip Schaff": [
+            "The very appearance of the brilliantly-lighted upper chamber; the lateness of the hour; the length of Paul\u2019s sermon.",
+            "All the circumstances which accompanied the first remarkable event which took place after their reunion, stamped themselves on the \u2018beloved physician\u2019s mind.",
+            "The fact is probably mentioned to account for the sleep of Eutychus, which, no doubt after the fatigue of a long working day, was induced by the heat of the crowded, lit-up room."
+        ],
+        "Archibald T. Robertson": [
+            "Many lights (\u03bb\u03b1\u03bc\u03c0\u03b1\u03b4\u03b5\u03c2 \u03b9\u03ba\u03b1\u03bd\u03b1). It was dark at night since the full moon (passover) was three weeks behind.",
+            "These lamps were probably filled with oil and had wicks that flickered and smoked.",
+            "They would not meet in the dark."
+        ],
+        "John Gill": [
+            "Which were lighted up, both for necessary uses, to see by, to read the word, and to administer the ordinance of the supper...\" (37 words)",
+            "...as well as to remove all ground of suspicion, or occasion of reproach, as if it was a midnight society met for wicked practices...\" (32 words)",
+            "...this no ways countenances the use of lamps and wax candles in the daytime at divine worship...\" (19 words)"
+        ],
+        "John Wesley": [
+            "There were many lamps in the room where they were assembled \u2014 To prevent any possible scandal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The abundance of lights in the upper chamber, as mentioned in the commentary, shows the vivid impression of the scene upon an eye-witness and how little secrecy or disorder attached to these meetings. It also suggests that the place was a public place of worship since both Jews and Gentiles were accustomed to having many lights burning in such places. The fact that there were many lights may have increased the heat and contributed to the drowsiness of the young man who fell from the window. As mentioned in the third-tier commentary, the lamps were probably filled with oil and had flickering wicks that smoked, making it dark at night and necessary to have many lights. Overall, the mention of many lights provides important details about the context of the verse and helps us understand the circumstances that contributed to the event.",
+            "wordCount": 144,
+            "quoteTokenProportion": 35.16,
+            "qualityScore": 1.8708335823038618,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                28.64,
+                33.3,
+                38.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The upper chamber was filled with an abundance of lights, which serves to show the vivid impression of the scene and the lack of secrecy or disorder during the meetings. The presence of many lights not only allowed for necessary uses such as reading the Word and administering the ordinance of the Supper, but also removed any suspicion or reproach of the gathering being associated with wicked practices. The lights likely increased the heat, contributing to the drowsiness that led to the young man's fall from the window.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9350539012607009,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "commentatorTierSimilarities": [
+                29.87,
+                30.67,
+                39.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The abundance of lights in the upper chamber, as mentioned in the commentary, shows the vivid impression of the scene and how little secrecy or disorder attached to these meetings. The fact that there were many lights may have increased the heat and contributed to the drowsiness of the young man who fell from the window. The presence of these lamps not only allowed for necessary uses such as seeing and reading the word, but also served to remove any grounds for suspicion or reproach.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8712233763841013,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+            "commentatorTierSimilarities": [
+                30.28,
+                28.84,
+                40.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The upper chamber was brightly illuminated with an abundance of lights, indicating the vivid impression it made on eyewitnesses and the lack of secrecy or disorder during the gatherings. The many lights served multiple purposes, such as necessary uses of seeing and reading the Word. Additionally, the presence of these lights removed any suspicion or reproach linked to wicked practices. Their flickering wicks and smoking contributed to the drowsiness in the room and likely played a role in the incident involving the young man.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8173000985318415,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                29.42,
+                26.98,
+                43.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The upper chamber was well-lit with many lamps, which created a vivid impression and exhibited the orderliness and lack of secrecy during the meetings. These lamps not only served practical purposes, such as providing light for reading the Word and administering the Supper, but also helped dispel any suspicion or reproach associated with wicked practices. The presence of numerous lights may have contributed to the heat in the crowded room, possibly leading to the drowsiness that resulted in the young man's fall from the window.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.9216653592182216,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "commentatorTierSimilarities": [
+                26.88,
+                29.42,
+                43.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

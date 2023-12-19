@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:40:33",
+    "verseRef": "2 Peter 2:6",
+    "bestBHT": {
+        "bht": "The destruction of Sodom and Gomorrah serves as a third historical proof, a vivid example, and a warning against living ungodly. These cities were condemned and turned into ashes, serving as a drastic consequence for their wickedness. The phrase turning into ashes emphasizes the intense destruction that befell them. This catastrophic event is seen as a powerful illustration of God's judgment, a condemnation to absolute overthrow. The punishment of these cities stands as a perennial reminder of the divine disapproval of licentiousness and intemperance, ultimately showing what awaits the ungodly in the everlasting burnings.",
+        "wordCount": 95,
+        "quoteTokenProportion": 28.36,
+        "qualityScore": 1.9834142761525242,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.29,
+        "commentatorTierSimilarities": [
+            22.57,
+            43.25,
+            34.18
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Third historical proof: the destruction of Sodom and Gomorrah.",
+            "Burning to ashes the cities of Sodom and Gomorrah condemned [them] to overthrow.",
+            "Laying down an example of those that should in after time live ungodly."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "TO",
+            "\toverthrow\" [ALFORD].",
+            "of (the",
+            "\tfate that should befall) those who in after-time should live",
+            "\tungodly.",
+            "set forth for an example."
+        ],
+        "Albert Barnes": [
+            "The word here rendered 'turning into ashes'... means to reduce to ashes, and then to consume or destroy.",
+            "Their calamity came expressly on account of their enormous sins; as it is frequently the case now that the awful judgments that come upon the licentious and the intemperate, are as plain a proof of the divine disapprobation as were the calamities that came upon Sodom and Gomorrah.",
+            "The punishment of one wicked man or people always becomes a warning to all others."
+        ],
+        "Marvin Vincent": [
+            "Turning into ashes.\" ",
+            "Having made them an example.\" ",
+            "The word for example is condemned as unclassical by the Attic grammarians, and paradeigma is substituted."
+        ],
+        "John Calvin": [
+            "This was so memorable an example of Divine vengeance, that when the Scripture speaks of the universal destruction of the ungodly, it alludes commonly to this as the type.",
+            "...the Lord designed that his wrath against the ungodly should be made known to all ages; as when he redeemed his people from Egypt, he has set forth to us by that one favor the perpetual safety of his Church.",
+            "Jude has also expressed the same thing, calling it the punishment of eternal fire."
+        ],
+        "Philip Schaff": [
+            "The word \u2018turning into ashes,\u2019 or, \u2018burning to ashes\u2019 (which occurs only here), is itself a strong and graphic expression.",
+            "The retribution, too, is exhibited in all its righteous severity as a condemnation to an absolute overthrow.",
+            "The destruction of the cities of the plain is regarded by the prophets, as well as by Peter, as an illustration or typical instance of the judicial principles on which God acts."
+        ],
+        "Archibald T. Robertson": [
+            "Turning into ashes (\u03c4\u03b5\u03c6\u03c1\u03c9\u03c3\u03b1\u03c2).",
+            "Condemned them (\u03ba\u03b1\u03c4\u03b5\u03ba\u03c1\u03b9\u03bd\u03b5\u03bd).",
+            "An example (\u03c5\u03c0\u03bf\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1)."
+        ],
+        "John Gill": [
+            "By raining brimstone and fire upon them from heaven",
+            "The punishment of the inhabitants of these cities was an ensample to such wicked conduct",
+            "Showing what they must expect, and was a representation of those everlasting burnings"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The destruction of Sodom and Gomorrah serves as a third historical proof, a vivid example, and a warning against living ungodly. These cities were condemned and turned into ashes, serving as a drastic consequence for their wickedness. The phrase turning into ashes emphasizes the intense destruction that befell them. This catastrophic event is seen as a powerful illustration of God's judgment, a condemnation to absolute overthrow. The punishment of these cities stands as a perennial reminder of the divine disapproval of licentiousness and intemperance, ultimately showing what awaits the ungodly in the everlasting burnings.",
+            "wordCount": 95,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.9834142761525242,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
+            "commentatorTierSimilarities": [
+                22.57,
+                43.25,
+                34.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The destruction of Sodom and Gomorrah serves as a vivid example and warning against living ungodly. These cities were turned into ashes, a graphic expression of their absolute overthrow and condemnation. This event highlights God's judgment and acts as a perpetual reminder of the divine disapproval of wickedness. It serves as an illustration of the principles on which God acts and emphasizes the severe consequences that await the ungodly, with the punishment being described as everlasting burnings.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9281671662940822,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+            "commentatorTierSimilarities": [
+                21.13,
+                42.87,
+                36.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The destruction of Sodom and Gomorrah serves as a poignant example, a condemned paragon of ungodliness. These cities were turned into ashes, their fiery overthrow a stern warning. This catastrophic event reflects God's judgment and is regarded by Peter and the prophets as an illustration of His righteous principles. It demonstrates the severe consequences that await the wicked, with the punishment deemed as everlasting burnings. The perpetual memory of this divine vengeance serves to highlight the eternal disapproval of evil and underscores the need for righteousness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.8508271527846332,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+            "commentatorTierSimilarities": [
+                19.7,
+                42.0,
+                38.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The destruction of Sodom and Gomorrah stands as a condemned paragon and warning against ungodliness. These cities being turned into ashes exemplify the severe consequences of wickedness. This event serves as an illustration of God's righteous principles and eternal disapproval of evil. It highlights the need for righteousness and the everlasting burnings that await the wicked. The memory of this divine vengeance perpetuates the warning to future generations, emphasizing the importance of living a godly life.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.7984482708026277,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                20.17,
+                40.3,
+                39.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The destruction of Sodom and Gomorrah serves as a vivid example and a solemn reminder against ungodliness. These cities were turned into ashes, illustrating the severe consequences that await the wicked. This event represents God's righteous principles and eternal disapproval of evil. The punishment of these cities stands as a perpetual warning, emphasizing the need for righteousness and the everlasting burnings that await the ungodly. The memory of this divine judgment echoes throughout Scripture, serving as an enduring lesson for future generations.",
+            "wordCount": 83,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.831451692794813,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+            "commentatorTierSimilarities": [
+                19.5,
+                41.14,
+                39.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

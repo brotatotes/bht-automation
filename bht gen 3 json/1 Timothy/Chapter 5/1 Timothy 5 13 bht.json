@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:29:16",
+    "verseRef": "1 Timothy 5:13",
+    "bestBHT": {
+        "bht": "These women not only learn to be idle, but they also become gossips and busybodies, going about from house to house, speaking things that are not fitting. Their idleness and curiosity drive them to meddle in the affairs of others, wasting time and spreading gossip. Younger widows are advised to marry, bear children, and manage their households to avoid giving the adversary a reason to reproach them. Let us be aware of the dangers of idleness, gossip, and meddling, and instead prioritize our important responsibilities.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.7673778993720415,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.11,
+        "commentatorTierSimilarities": [
+            44.89,
+            24.06,
+            31.05
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Moreover they also learn to be idle...going about from house to house...not only idle, but also gossips and busybodies, speaking things which are not fitting.\" ",
+            "I will therefore that younger widows marry, bear children, govern households, give no occasion to the adversary for [the sake of] reproach.\" ",
+            "For already some have turned away after Satan."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "these women's 'learning' is idleness, trifling, and busybodies' tattle.",
+            "They carry the affairs of this house to that, and of that to this; they tell the affairs of all to all.",
+            "Curiosity usually springs from idleness, which is itself the mother of garrulity."
+        ],
+        "Albert Barnes": [
+            "There would be a security in the age and established habits of these more advanced in life, which there could not be in their case.\" ",
+            "The noun does not occur elsewhere in the New Testament. The verb occurs in John 3:10; rendered, 'prating against.'",
+            "No persons are commonly more dangerous to the peace of a neighborhood than those who have nothing to do."
+        ],
+        "Marvin Vincent": [
+            "They go about under the influence of an insatiable curiosity, and meet those who 'creep into houses and take captive silly women', and learn all manner of nonsense and error.",
+            "Going about.",
+            "They learn, gadding about from house to house; and not only (are they) idle, but tattlers also, and busybodies, speaking things which they ought not."
+        ],
+        "John Calvin": [
+            "Nothing delights them more than the liberty of running from one place to another, and especially when, being freed from the burden of a family, they have nothing to do at home.",
+            "This opportunity, obtained through the kindness of the Church, they abused for purposes of 'idleness'; and next, as usually happens, from slothfulness sprung curiosity, which is also the mother of talkativeness.",
+            "With good reason, therefore, has Paul joined together these three things, sloth, inquisitiveness, and tattling."
+        ],
+        "Philip Schaff": [
+            "The very functions of the registered widows would tend in the case supposed to aggravate the evil.",
+            "Their work of ministration, like that of a District Visitor or Sister of Mercy in modern times, involved frequent visits to many houses.",
+            "Carrying to one family the tittle-tattle of another things that for this reason or that ought not to be spoken of."
+        ],
+        "Archibald T. Robertson": [
+            "They learn to be idle... \u03b1\u03c1\u03b3\u03b1",
+            "Wandering around the houses.",
+            "Busy about trifles to the neglect of important matters."
+        ],
+        "John Gill": [
+            "And withal they learn to be idle... wandering about from house to house.\" ",
+            "Such an one is what the Jews call \u05d0\u05dc\u05de\u05e0\u05d4 \u05e9\u05d5\u05d1\u05d1\u05d9\u05ea, 'the gadding widow'...",
+            "Of this sort of women must the Jews be understood, when they say... it is one of the properties of them to be \u05d9\u05d5\u05e6\u05d0\u05e0\u05d9\u05d5\u05ea 'going out', or gadding abroad, as Dinah did..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Moreover, these women not only learn to be idle, but they also become gossips and busybodies, going from house to house, speaking things that are not fitting. The result of their idleness and curiosity is a tendency to meddle in the affairs of others, spreading gossip and engaging in frivolous conversation. This behavior not only wastes their own time but also creates discord and opens the door for the enemy to lead them astray. It is important, therefore, for younger widows to marry, bear children, and focus on managing their own households, so as not to give the adversary an opportunity to criticize or reproach them. Let us take heed and guard against idleness, gossip, and meddling, realizing that these actions can lead us away from the truth and the godly responsibilities we have been called to fulfill.",
+            "wordCount": 138,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6537143246945338,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "commentatorTierSimilarities": [
+                41.01,
+                25.04,
+                33.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moreover, these women not only learn to be idle, but they also become gossips and busybodies, going from house to house, speaking things that are not fitting. This idleness and curiosity lead them to meddle in the affairs of others, wasting their own time and spreading gossip. It is important for younger widows to focus on marriage, childbearing, and managing their households, in order to avoid becoming susceptible to criticism or reproach. Let us be mindful of the dangers of idleness, gossip, and meddling, and strive to fulfill our godly responsibilities.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7198740897862517,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                43.43,
+                25.27,
+                31.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These women not only learn to be idle, but they also become gossips and busybodies, going from house to house, speaking things that are not fitting. Their idleness and curiosity lead them to meddle in the affairs of others, wasting time and spreading gossip. Younger widows are encouraged to focus on marriage, childbearing, and managing their households to avoid giving room for criticism. Let us be cautious of the dangers of idleness, gossip, and meddling, and instead prioritize our godly responsibilities.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7317327995728347,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.92,
+            "commentatorTierSimilarities": [
+                44.77,
+                23.76,
+                31.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moreover, these women not only learn to be idle, but they also become gossips and busybodies, going about from house to house, speaking things that are not fitting. The combination of idleness and curiosity leads them to meddle in the affairs of others, wasting their own time and spreading gossip. To avoid becoming vulnerable to criticism, younger widows are advised to marry, bear children, and focus on managing their households. Let us be mindful of the dangers of idleness, gossip, and meddling, and instead prioritize our important responsibilities.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.6885961182954792,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.49,
+            "commentatorTierSimilarities": [
+                44.57,
+                26.07,
+                29.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These women not only learn to be idle, but they also become gossips and busybodies, going about from house to house, speaking things that are not fitting. Their idleness and curiosity drive them to meddle in the affairs of others, wasting time and spreading gossip. Younger widows are advised to marry, bear children, and manage their households to avoid giving the adversary a reason to reproach them. Let us be aware of the dangers of idleness, gossip, and meddling, and instead prioritize our important responsibilities.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.7673778993720415,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.11,
+            "commentatorTierSimilarities": [
+                44.89,
+                24.06,
+                31.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

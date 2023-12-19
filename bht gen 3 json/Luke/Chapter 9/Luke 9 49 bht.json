@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:17:17",
+    "verseRef": "Luke 9:49",
+    "bestBHT": {
+        "bht": "Jesus reminds us that someone who performs miracles in His name cannot speak evil of Him. We should not jump to conclude that someone who is not part of our group is against us, for they may still be working in His name. It's important to seek visible unity in the Church, but we must not let it hinder our recognition of the work being done by others in Jesus' name. Let us guard against narrow-mindedness and pride, even within the close circle of disciples.",
+        "wordCount": 87,
+        "quoteTokenProportion": 55.74,
+        "qualityScore": 1.3466869627839269,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.12,
+        "commentatorTierSimilarities": [
+            73.88,
+            0.0,
+            26.12
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "There is no man which shall do a miracle in My name that can lightly [soon] speak evil of Me.\" ",
+            "If such a person cannot be supposed to be 'against us,' you are to consider him 'for us.'\" ",
+            "Visible unity in Christ's Church is devoutly to be sought, but this is not the way to it."
+        ],
+        "Archibald T. Robertson": [
+            "It is a pitiful specimen of partisan narrowness and pride even in the Beloved Disciple, one of the Sons of Thunder.",
+            "The man was doing the Master's work in the Master's name and with the Master's power, but did not run with the group of the Twelve.",
+            "It is a pitiful specimen of partisan narrowness and pride even in the Beloved Disciple, one of the Sons of Thunder."
+        ],
+        "John Gill": [
+            "Because he followeth not with us.",
+            "Did not join in company with them, and follow Christ along with them.",
+            "Did not...follow Christ...as they did."
+        ],
+        "John Wesley": [
+            "Mark 9:38."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is important to recognize that just because someone may not be directly associated with a particular group or organization, it does not mean that they are against it. In fact, Jesus Himself acknowledges that if someone is performing miracles in His name, they cannot speak evil of Him. This is a reminder that visible unity in the Church is important, but it should not be the sole determining factor of someone's allegiance to Christ. We should be cautious of falling into the trap of partisan narrowness and pride, as even one of the close disciples, the Beloved Disciple, was guilty of this. Instead, we should focus on the work being done in Jesus' name and the power of His name, rather than getting caught up in external affiliations.",
+            "wordCount": 130,
+            "quoteTokenProportion": 48.84,
+            "qualityScore": 1.2936480241071977,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.36,
+            "commentatorTierSimilarities": [
+                74.79,
+                0.0,
+                25.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just because someone is not part of our group does not mean they are against us. Jesus Himself stated that if someone is performing miracles in His name, they cannot speak evil of Him. It is important to remember that visible unity in the Church is important, but it should not be the sole basis for judging a person's allegiance to Christ. We must be cautious of falling into partisan narrowness and pride, as even the Beloved Disciple was guilty of this. Instead, let us focus on the work being done in Jesus' name and the power it holds.",
+            "wordCount": 100,
+            "quoteTokenProportion": 54.05,
+            "qualityScore": 1.2720856808087406,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.64,
+            "commentatorTierSimilarities": [
+                75.37,
+                0.0,
+                24.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Someone who is not directly associated with a particular group should not be automatically assumed to be against it. Jesus Himself acknowledged that if someone performs miracles in His name, they cannot speak evil of Him. It is important to prioritize the work being done in Jesus' name and the power it holds, rather than getting caught up in external affiliations. We should be cautious of falling into partisan narrowness and pride, as exemplified even by the Beloved Disciple, one of the Sons of Thunder.",
+            "wordCount": 85,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 1.283768384056454,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.03,
+            "commentatorTierSimilarities": [
+                83.06,
+                0.0,
+                16.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just because someone may not be part of our particular group does not mean they are against us. Jesus himself acknowledged that if someone is performing miracles in his name, they cannot speak evil of him. We should not judge someone solely based on visible unity in the church, but instead focus on the work being done in Jesus' name and the power it holds. Let us be cautious of partisan narrowness and pride, as even the Beloved Disciple fell victim to these pitfalls.",
+            "wordCount": 84,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.3313269079003465,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.61,
+            "commentatorTierSimilarities": [
+                77.5,
+                0.0,
+                22.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus reminds us that someone who performs miracles in His name cannot speak evil of Him. We should not jump to conclude that someone who is not part of our group is against us, for they may still be working in His name. It's important to seek visible unity in the Church, but we must not let it hinder our recognition of the work being done by others in Jesus' name. Let us guard against narrow-mindedness and pride, even within the close circle of disciples.",
+            "wordCount": 87,
+            "quoteTokenProportion": 55.74,
+            "qualityScore": 1.3466869627839269,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.12,
+            "commentatorTierSimilarities": [
+                73.88,
+                0.0,
+                26.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

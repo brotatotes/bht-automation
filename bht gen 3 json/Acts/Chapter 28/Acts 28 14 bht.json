@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:37:35",
+    "verseRef": "Acts 28:14",
+    "bestBHT": {
+        "bht": "Arriving in Rome, Paul and his fellow Christians found brethren who had likely heard about their journey. This stop in Rome provided Paul with a Sabbath rest, refreshing him after a long period without such an opportunity. It marked a significant moment, as Paul had finally reached his destination. The request to spend time in Rome may have come from Julius, the centurion, who wanted to make arrangements for their journey and to honor Paul.",
+        "wordCount": 75,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.75680262494958,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+        "commentatorTierSimilarities": [
+            37.04,
+            35.08,
+            27.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These Christians were perhaps Alexandrines, as the commerce was so considerable between the two places.\" ",
+            "The brethren at Rome had heard probably by special message sent by some of their fellow-voyagers.",
+            "Imlying that the request was complied with."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Where we found brethren\u2014not 'the brethren' (see on :-), from which one would conclude they did not expect to find such [WEBSTER and WILKINSON].\" ",
+            "However this may be, the apostle had thus an opportunity of spending a Sabbath with the Christians of the place, all the more refreshing from his long privation in this respect, and as a seasoning for the unknown future that lay before him at the metropolis.",
+            "If this request came from Julius, it may have proceeded partly from a wish to receive instructions from Rome and make arrangements for his journey thither, partly from a wish to gratify Paul, as he seems studiously and increasingly to have done to the last."
+        ],
+        "Albert Barnes": [
+            "Brethren - Christian brethren. But by whom the gospel had been preached there is unknown."
+        ],
+        "Philip Schaff": [
+            "We seem here to have a clear indication of the observance of the Lord\u2019s day.",
+            "He might himself be waiting for orders; it is probable that he had time at his command; and now, at the close of the voyage, after owing his life to St. Paul, it is not likely that he would be less considerate and kind than at the beginning.",
+            "From this bare statement of the fact of their arrival at the end of their journey, St. Luke turns aside in the next sentence to mention most interesting circumstances connected with their route from Puteoli."
+        ],
+        "Archibald T. Robertson": [
+            "Paulus Romae captivus: triumphus unicus.\" ",
+            "It is the climax of the book of Acts.",
+            "The great event is that Paul reached Rome."
+        ],
+        "John Gill": [
+            "Josephus c speaks of Jews in this place, who were deceived by a false Alexander, who pretended to be the son of Herod, a prince of their nation.",
+            "Rome was the metropolis of Italy, the seat of the empire, and mistress of the whole world; it is so well known, as not to need describing: it was built on seven hills.",
+            "The Jews make it to be of an earlier date; they say g, that at the time Solomon married Pharaoh's daughter, Gabriel descended and fixed a reed in the sea, and brought up clay, and with it was built the great city, which is Rome."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Arriving in Rome, Paul and his fellow Christians were warmly received by the brethren there who had likely heard about their journey. This stop in Rome provided Paul with a much-needed Sabbath rest and time of fellowship with fellow believers. It's possible that Julius, the centurion, granted this request not only to make arrangements for their journey to Rome but to also honor Paul. This significant event marked the climax of the book of Acts, as Paul achieved his goal of reaching Rome, the capital of the empire.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.7950886320624297,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                35.44,
+                31.93,
+                32.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Arriving in Rome, Paul and his fellow Christians found brethren who had likely heard about their journey. This stop in Rome provided Paul with a Sabbath rest, refreshing him after a long period without such an opportunity. It marked a significant moment, as Paul had finally reached his destination. The request to spend time in Rome may have come from Julius, the centurion, who wanted to make arrangements for their journey and to honor Paul.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.75680262494958,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+            "commentatorTierSimilarities": [
+                37.04,
+                35.08,
+                27.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Arriving in Rome, Paul and his companions were greeted by fellow Christians, possibly Alexandrians. The brethren in Rome, having likely received news of their voyage, were waiting for their arrival. This request to spend time in Rome may have come from Julius, the centurion, out of a desire to receive instructions from Rome and to accommodate Paul. This was a climactic moment, as Paul had achieved his goal of reaching Rome, the metropolis of Italy and the great center of the empire.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.7508001724248041,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                32.48,
+                31.3,
+                36.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Reaching Rome, Paul and his companions encountered fellow Christians, possibly from Alexandria, who had likely heard about their journey. This request to spend time in Rome might have come from Julius, the centurion, who sought instructions and arrangements for the journey to the metropolis. This marked a significant culmination as Paul achieved his goal. Arriving at the capital of Italy, the seat of the empire, Paul's arrival in Rome carried great significance, marking the completion of his journey and the fulfillment of his mission.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.631935838729609,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+            "commentatorTierSimilarities": [
+                35.67,
+                31.6,
+                32.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Arriving in Rome, Paul and his companions were welcomed by fellow believers, possibly from Alexandria. The request to spend time in Rome may have come from Julius, the centurion, who desired to receive instructions and make arrangements for the journey. This moment marked a significant climax in the book of Acts, as Paul fulfilled his mission by reaching Rome, the capital city of Italy and the center of the empire. It was a moment of great importance, reflecting the completion of Paul's long and arduous journey.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.628626693685688,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                35.67,
+                29.91,
+                34.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

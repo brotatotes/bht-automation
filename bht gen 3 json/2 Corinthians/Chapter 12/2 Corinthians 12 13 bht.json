@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:18:40",
+    "verseRef": "2 Corinthians 12:13",
+    "bestBHT": {
+        "bht": "Were my efforts among you rendered ineffective because I worked without charge? You suffered loss compared to other churches, except for the fact that I didn't burden you with my support. This is an expression of wounded Love, pleading for your forgiveness. You were treated with less consideration, indicating possible spiritual inferiority and a lack of confidence and love towards you. Nonetheless, you were not lacking in spiritual gifts and graces, distinguishing yourselves in this regard from other churches who generously provided for their ministers.",
+        "wordCount": 86,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 1.7366331097643526,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+        "commentatorTierSimilarities": [
+            34.75,
+            33.44,
+            31.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Was this endurance of working which I shewed, marred by the fact that I worked gratuitously among you?",
+            "Ye suffered loss in comparison with the other churches, except that one point, in which of all others they had least reason to complain.",
+            "It is Love, deeply wounded, which speaks."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "wherein you were inferior\u2014that is, were treated with less consideration by me than were other churches.",
+            "I made a gain of you neither myself, nor by those others whom I sent, Titus and others.",
+            "His declining support from the Corinthians might be regarded as the denial to them of a privilege, and a mark of their spiritual inferiority, and of his looking on them with less confidence and love."
+        ],
+        "Albert Barnes": [
+            "I have given among you the most ample proof of my apostolic commission. I have conferred on you the highest favors of the apostolic office. In these respects you are superior to all other churches.\" ",
+            "I have not pressed it, and you have not done it, and I ask your pardon.\" ",
+            "It is a privilege to contribute to the support of the gospel, and they who are permitted to do it should esteem themselves highly favored."
+        ],
+        "Marvin Vincent": [
+            "Except that I was not a burden.",
+            "Alluding to the possible objection that his refusal to receive pay was a sign either of his want of power to exact it, or of his want of affection for them.",
+            "Forgive, etc. Ironical."
+        ],
+        "John Calvin": [
+            "An aggravation of their ingratitude - that he had been distinguished, that they might receive benefit - that they had derived advantage from the attestation furnished of his Apostleship, and had, notwithstanding, given their concurrence to the slanders of the false Apostles.\" ",
+            "To busy themselves after this, as they did, in pouring contempt upon him, what was this but to insult his modesty? Nay, what cruelty there was in it!",
+            "They were doubly ungrateful, inasmuch as they not only contemned the man, by whose acts of kindness they had been brought under obligation, but even turned his kind disposition into an occasion of reproach."
+        ],
+        "Philip Schaff": [
+            "For what is there wherein ye were made inferior to (placed at a disadvantage as compared with) the rest of the churches, except it be that I myself was not a burden to you?\" ",
+            "Forgive me this wrong.\" ",
+            "Cutting irony this!"
+        ],
+        "Archibald T. Robertson": [
+            "Wherein ye were made inferior... the common \u03b7\u03c4\u03c4\u03b1\u03bf\u03bc\u03b1 to be inferior or less.\" ",
+            "H\u03bf is the neuter accusative with the passive verb (Robertson, Grammar, p. 479).",
+            "Forgive me this wrong... Consummate irony to the stingy element in this church."
+        ],
+        "John Gill": [
+            "in nothing they came short of other churches",
+            "they had the same Spirit, the same graces, and the same gifts of the Spirit, both ordinary and extraordinary",
+            "this, indeed, they differed from other churches, who liberally contributed to their ministers, and honourably maintained them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul questions whether his labor among the Corinthians was spoiled because he served them without charge. He hints at their comparative inferiority, suggesting that they suffered loss in comparison to other churches. His refusal to accept support can be seen as a sign of diminished confidence and love towards them. He wittily asks for forgiveness for this supposed wrong, using irony to emphasize their stinginess. Despite this, Paul acknowledges that the Corinthians were not lacking in any spiritual gifts or graces. They were simply treated with less consideration in terms of financial support, making them somewhat inferior to other churches in this aspect.",
+            "wordCount": 105,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 1.6985891616070639,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+            "commentatorTierSimilarities": [
+                31.16,
+                25.38,
+                43.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul questions whether his labor among the Corinthians was spoiled by working among them freely. He suggests that they suffered in comparison to other churches, indicating possible inferior treatment and diminished love. He ironically asks for forgiveness for this alleged wrong, highlighting the stinginess of the Corinthians. However, he acknowledges that they were not lacking in spiritual gifts, indicating that their less favorable treatment was limited to financial support, making them somewhat inferior to other churches in this regard.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7168942922001735,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.43,
+            "commentatorTierSimilarities": [
+                30.54,
+                24.8,
+                44.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul questions whether his labor among the Corinthians was compromised by his voluntary service to them. He implies that they suffered in comparison to other churches, suggesting possible inferior treatment and diminished love. Irony is used as he humbly asks for forgiveness for this perceived wrong, highlighting the Corinthians' stinginess. Yet, he acknowledges that they were not lacking in spiritual gifts, indicating that their comparative inferiority was limited to financial support.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.6935005962445255,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.65,
+            "commentatorTierSimilarities": [
+                30.76,
+                25.67,
+                43.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul questions whether his labor among the Corinthians was marred by his gratuitous work among them. He acknowledges their comparative inferiority in terms of financial support, which might be seen as a sign of his less confidence and love towards them. Paul ironically asks for forgiveness for this supposed wrong, highlighting their stinginess. Nonetheless, he recognizes that the Corinthians were not lacking in spiritual gifts, indicating that their inferior treatment was limited to financial matters.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.625646343594203,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "commentatorTierSimilarities": [
+                31.95,
+                25.24,
+                42.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Were my efforts among you rendered ineffective because I worked without charge? You suffered loss compared to other churches, except for the fact that I didn't burden you with my support. This is an expression of wounded Love, pleading for your forgiveness. You were treated with less consideration, indicating possible spiritual inferiority and a lack of confidence and love towards you. Nonetheless, you were not lacking in spiritual gifts and graces, distinguishing yourselves in this regard from other churches who generously provided for their ministers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.7366331097643526,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                34.75,
+                33.44,
+                31.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:26:04",
+    "verseRef": "Acts 4:2",
+    "bestBHT": {
+        "bht": "The apostles' preaching, in the example of Jesus, confronted the Sadducees who denied the resurrection and a future state. The opposition from the Sadducees, the most violent opponents of the apostles, was driven by their concern for maintaining their authority. The announcement of the resurrection troubled them deeply, as they knew it would discredit their creed. Filled with wrath and indignation, they sought to silence the apostles who posed a threat to their power.",
+        "wordCount": 74,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.1775415949195684,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.74,
+        "commentatorTierSimilarities": [
+            28.51,
+            34.44,
+            37.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in the person (or example) of Jesus, alleging Him as an example of that which the Sadducees denied",
+            "preaching by implication, inasmuch as one resurrection would imply that of all, the resurrection of the dead",
+            "\u2018The resurrection through Jesus\u2019 does not appear on the present occasion to have formed part of their preaching"
+        ],
+        "Albert Barnes": [
+            "They did not grieve because they thought it a public calamity, but because it interfered with their authority and opposed their doctrine.",
+            "Such men easily fancy that all power to instruct others is lodged in their hands, and they oppose others simply from the fact that they have not derived their authority from them.",
+            "It is worthy of remark that it [the gospel] excited so much and so speedily the enmity of those in power, and that the apostles were so soon called to test the sincerity of their attachment to their Master."
+        ],
+        "Marvin Vincent": [
+            "Vexed through and through.\" ",
+            "The Sadducees denied both the resurrection and a future state.",
+            "In the Gospels the Pharisees are represented as the great opponents of Christ; in the Acts it is the Sadducees who are the most violent opponents of the apostles."
+        ],
+        "Philip Schaff": [
+            "The anger of the priests and captain of the Temple... was easily aroused... against these unauthorized teachers who were making such a rapid progress in the affections of the people.\" ",
+            "They were troubled at this public announcement of the resurrection of the Crucified, well knowing that if this single instance of one being raised from the dead were substantiated before the people, their creed would be at once discredited."
+        ],
+        "Archibald T. Robertson": [
+            "Being sore troubled (\u03b4\u03b9\u03b1\u03c0\u03bf\u03bd\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf). Present passive participle of old verb \u03b4\u03b9\u03b1\u03c0\u03bf\u03bd\u03b5\u03c9 (perfective use of \u03b4\u03b9\u03b1) to be worked up, indignant.",
+            "Because (\u03b4\u03b9\u03b1 \u03c4\u03bf). The articular infinitive with two accusatives, one the object (the people), the other (\"they\") of general reference.",
+            "In Jesus (\u03b5\u03bd \u0399\u03b7\u03c3\u03bf\u03c5). In the case of Jesus, an actual instance of resurrection which the Sadducees denied (Matthew 22:23)."
+        ],
+        "John Gill": [
+            "Being grieved that they taught the people... they were filled with wrath and indignation.",
+            "They not only preached the doctrine of the resurrection of the dead in general, but gave an instance and proof of it in the resurrection of Christ.",
+            "Their doctrine was equally disagreeable to the Pharisees and Sadducees; to the Sadducees, who denied that there was, or would be any resurrection of the dead; and to the Pharisees, who ... were highly offended that it should be said, that Jesus was risen from the dead."
+        ],
+        "John Wesley": [
+            "The priests were grieved, lest their office and temple services should decline, and Christianity take root, through the preaching of the apostles.\" ",
+            "The captain of the temple - Being concerned to prevent all sedition and disorder.",
+            "The Sadducees - Being displeased at the overturning of all their doctrines, particularly with regard to the resurrection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostles' preaching, exemplified in Jesus, challenged the beliefs and authority of the Sadducees who denied both the resurrection and a future state. Their preaching was met with anger and indignation as it threatened the credibility of the Sadducees' creed. The opposition from the Sadducees, who were the most violent opponents of the apostles, was fueled by their concern for maintaining their power and authority. This public announcement of the resurrection troubled them deeply, as they understood that if the resurrection of the Crucified were substantiated, their creed would be discredited. So, they sought to silence and suppress the apostles, filled with wrath and indignation.",
+            "wordCount": 105,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1409792195282846,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                26.63,
+                35.96,
+                37.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostles' preaching, in the example of Jesus, confronted the Sadducees who denied the resurrection and a future state. The opposition from the Sadducees, the most violent opponents of the apostles, was driven by their concern for maintaining their authority. The announcement of the resurrection troubled them deeply, as they knew it would discredit their creed. Filled with wrath and indignation, they sought to silence the apostles who posed a threat to their power.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.1775415949195684,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.74,
+            "commentatorTierSimilarities": [
+                28.51,
+                34.44,
+                37.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles' preaching, exemplified in Jesus, challenged the beliefs and authority of the Sadducees who denied both the resurrection and a future state. Their preaching was met with anger and indignation as it threatened the credibility of the Sadducees' creed. The opposition from the Sadducees, who were the most violent opponents of the apostles, was fueled by their concern for maintaining their power and authority. This public announcement of the resurrection troubled them deeply, as they understood that if the resurrection of the Crucified were substantiated, their creed would be discredited. So, they sought to silence and suppress the apostles, filled with wrath and indignation.",
+            "wordCount": 105,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1409792195282846,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                26.63,
+                35.96,
+                37.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostles' preaching, exemplified in Jesus, challenged the beliefs and authority of the Sadducees who denied both the resurrection and a future state. Their preaching was met with anger and indignation, as it threatened the credibility of the Sadducees' creed. The opposition from the Sadducees was fueled by their concern for maintaining power and authority. This public announcement of the resurrection troubled them deeply, as they understood that if the resurrection of the Crucified were substantiated, their creed would be discredited. So, they sought to silence the apostles, filled with wrath and indignation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.056023516852645,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.7,
+            "commentatorTierSimilarities": [
+                26.52,
+                35.85,
+                37.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostles' preaching, exemplified in Jesus, challenged the beliefs of the Sadducees who denied the resurrection and a future state. Their preaching caused anger and indignation, threatening the credibility of the Sadducees' creed. The opposition from the Sadducees was driven by their concern for maintaining power and authority. This public announcement of the resurrection troubled them deeply, knowing it would discredit their creed. Filled with wrath, they sought to silence the apostles and suppress their message.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.0090470888693224,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+            "commentatorTierSimilarities": [
+                26.66,
+                35.39,
+                37.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

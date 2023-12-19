@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 15:06:16",
+    "verseRef": "1 Corinthians 7:30",
+    "bestBHT": {
+        "bht": "Paul exhorts believers to hold loosely to earthly possessions and relations, recognizing that their ultimate substance lies elsewhere, in the second coming of Christ. With a focus on the heavenly kingdom, Christians are called to live above the world, tempering their joy with godly fear, and finding solace in the knowledge that their names are written in heaven. By maintaining a moderate approach to grief and rejoicing, believers can navigate the passing events of life, holding their possessions as stewards, not proprietors.",
+        "wordCount": 82,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.5536598778115684,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.0,
+        "commentatorTierSimilarities": [
+            34.92,
+            34.73,
+            30.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Christ specifies as the condemning sin of the men of Sodom not merely their open profligacy, but that 'they bought, they sold,' c., as men whose all was in this world.",
+            "'Possessed' in the Greek implies a holding fast of a possession this the Christian will not do, for his 'enduring substance' is elsewhere.",
+            "His 'enduring substance' is elsewhere."
+        ],
+        "Albert Barnes": [
+            "The general idea in all these expressions is, that in whatever situation Christians are, they should be dead to the world, and not improperly affected by passing events.",
+            "Religion will keep us from immoderate grief, and sustain the soul even when in distress nature forces us to shed the tear of mourning.",
+            "Secure therefore as our titles are safe as are our investments, yet how soon shall we lose all interest in them by death; and how ought this consideration to induce us to live above the world, and to secure a treasure in that world where no thief approaches, and no moth corrupts."
+        ],
+        "Archibald T. Robertson": [
+            "Paul means that all earthly relations are to hang loosely about us in view of the second coming.",
+            "All earthly relations are to hang loosely about us.",
+            "Earthly relations...in view of the second coming."
+        ],
+        "John Gill": [
+            "They that weep, as though they wept not... he directs to a moderate use of sorrow, to such a degree as not to hinder and divert from the exercises of piety and religion.",
+            "They that rejoice, as though they rejoiced not... rejoicing rather that their names were written in heaven.",
+            "They that buy as though they possessed not... hold it as if they did not hold it, parting with it for the use of others."
+        ],
+        "John Wesley": [
+            "Though sorrowful, yet always rejoicing.",
+            "Tempering their joy with godly fear.",
+            "Knowing themselves to be only stewards, not proprietors."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 7:30, Paul reminds believers that their ultimate focus should be on the second coming of Christ. Earthly possessions and relationships should not hold a tight grip on their hearts, for their true enduring substance lies elsewhere. As Christians, we are called to hold all earthly relations loosely, recognizing that their value pales in comparison to the eternal joy and treasure we have in Christ. We should not be overly affected by passing events or overly attached to our possessions, but rather live above the world and secure our treasure in the heavenly kingdom. Rejoicing in the knowledge that our names are written in heaven, we can navigate grief and joy with moderation, maintaining a perspective grounded in piety and godly fear.",
+            "wordCount": 122,
+            "quoteTokenProportion": 32.93,
+            "qualityScore": 1.5522897445968664,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.96,
+            "commentatorTierSimilarities": [
+                35.07,
+                41.8,
+                23.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul exhorts believers to hold loosely to earthly possessions and relations, recognizing that their ultimate substance lies elsewhere, in the second coming of Christ. With a focus on the heavenly kingdom, Christians are called to live above the world, tempering their joy with godly fear, and finding solace in the knowledge that their names are written in heaven. By maintaining a moderate approach to grief and rejoicing, believers can navigate the passing events of life, holding their possessions as stewards, not proprietors.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.5536598778115684,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.0,
+            "commentatorTierSimilarities": [
+                34.92,
+                34.73,
+                30.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 1 Corinthians 7:30, Paul emphasizes that the Christian's ultimate focus should be on the second coming of Christ, causing all earthly relations and possessions to hold a loose grip on their hearts. The believer's enduring substance is found elsewhere, in the heavenly kingdom. This perspective calls for a moderate approach to sorrow and joy, as we navigate the passing events of life with a mindset grounded in piety and godly fear. We are reminded to hold our possessions as stewards, not proprietors, securing our treasure in that eternal realm.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.4783225494993668,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.5,
+            "commentatorTierSimilarities": [
+                39.86,
+                37.2,
+                22.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul urges believers in their pursuit of the second coming of Christ, to hold all earthly relations and possessions loosely, recognizing their ultimate value lies elsewhere. As Christians, we should live above the world, tempering our joy with godly fear and finding solace in the assurance that our names are written in heaven. By adopting a moderate approach to sorrow and rejoicing, we can navigate the passing events of life, mindful that we are stewards, not proprietors, securing our eternal treasure.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5466601166085319,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.77,
+            "commentatorTierSimilarities": [
+                31.57,
+                42.03,
+                26.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In 1 Corinthians 7:30, Paul urges believers to live with a loose grip on earthly possessions and relationships, emphasizing that their true enduring substance is found elsewhere. The call is to hold all these things loosely, as we anticipate the second coming of Christ. This perspective invites believers to navigate the ups and downs of life with moderation, embracing godly fear and rejoicing in the assurance that our names are written in heaven. As faithful stewards, we are reminded to prioritize our eternal treasure over temporary worldly pursuits.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.4210199641927315,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.59,
+            "commentatorTierSimilarities": [
+                39.24,
+                37.08,
+                23.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

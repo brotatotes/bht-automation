@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:28:37",
+    "verseRef": "Ephesians 3:6",
+    "bestBHT": {
+        "bht": "In Christ Jesus, the Gentiles are made fellow heirs, becoming joint-partakers of God's promise and members of the same body. This unity, unique in classical Greek, emphasizes the intimacy achieved through their shared inheritance and communion with the Holy Spirit. The rare use of these words signifies their special relationship with the Jews, as both groups become part of the church and receive God's blessings. It is through the Gospel that the Gentiles are able to enter into this fellowship and partake in the covenant promises of God.",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.9381932535159714,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+        "commentatorTierSimilarities": [
+            23.08,
+            38.24,
+            38.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "That the Gentiles are... fellow members of the same body, and fellow partakers of the promise, in Christ Jesus, through the Gospel.",
+            "It is 'in Christ Jesus' that they are made 'fellow heirs' in the inheritance of GOD.",
+            "The Trinity is thus alluded to, as often elsewhere in this Epistle."
+        ],
+        "Albert Barnes": [
+            "That the Gentiles should be fellow-heirs - Fellow-heirs with the ancient people of God - the Jews - and entitled to the same privileges; see the Romans 8:17, note and Ephesians 2:13-18, note."
+        ],
+        "Marvin Vincent": [
+            "Fellow - - heirs - of the same body - partakers.\" ",
+            "The second of these words occurs only here; the third only here and ch. 5 7.\" ",
+            "They are strange to classical Greek."
+        ],
+        "Philip Schaff": [
+            "That the Gentiles are; not \u2018should be,\u2019 for \u2018a mystery is not a secret design, but a secret fact\u2019 (Alford).",
+            "Fellow-heirs, i.e., with the Jews, as saints, as belonging to the family of God.",
+            "In Christ Jesus. This position of the Gentiles, defined by the three preceding terms, is \u2018in Christ Jesus;\u2019 He is the objective ground of their heirship, all their privileges are bestowed in Him."
+        ],
+        "Archibald T. Robertson": [
+            "Fellow-heirs (\u03c3\u03c5\u03bd\u03ba\u03bb\u03b7\u03c1\u03bf\u03bd\u03bf\u03bc\u03b1). Late and rare (Philo, inscriptions and papyri).\" ",
+            "Fellow-members of the body (\u03c3\u03c5\u03bd\u03c3\u03c9\u03bc\u03b1). First found here and only here save in later ecclesiastical writers.",
+            "Fellow-partakers (\u03c3\u03c5\u03bd\u03bc\u03b5\u03c4\u03bf\u03c7\u03b1). Another late and rare word (Josephus)."
+        ],
+        "John Gill": [
+            "That the Gentiles should be fellowheirs,.... With the Jews, of all the blessings of grace, of lasting salvation, and of the eternal, incorruptible, and never fading inheritance in heaven...",
+            "And of the same body: coalesce in one and the same church state, with the believing Jews, under one and the same head, Christ Jesus...",
+            "And partakers of his promise in Christ by the Gospel; as of God, being their covenant God, which is the great promise of the covenant; or of the Spirit, his gifts and graces, called the promise of the Spirit; or of eternal life and happiness, as the gift of grace through Christ."
+        ],
+        "John Wesley": [
+            "That the gentiles are joint-heirs \u2014 Of God.",
+            "And of the same body \u2014 Under Christ the head.",
+            "And joint-partakers of his promise \u2014 The communion of the Holy Ghost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that the Gentiles are not just potential heirs, but actual fellow heirs with the Jews, receiving the same promises and blessings through the Gospel. This unity in Christ Jesus brings them into one body and makes them joint-partakers of God's promise. The use of these unique words emphasizes the special and intimate relationship between the Gentiles and the Jews as part of the church. It is through this unity, in Christ Jesus, that the Gentiles are able to receive their inheritance and become part of God's covenant.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9642572731598387,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+            "commentatorTierSimilarities": [
+                22.11,
+                39.46,
+                38.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Gentiles are made fellow heirs with the Jews, joint-partakers of the promise, and members of the same body in Christ Jesus through the Gospel. This unity in Christ brings them into the same church state under one head, fulfilling the promise of God through the covenant. The rare use of these words highlights the intimate connection between the Gentiles and Jews, emphasizing their shared inheritance and participation in the Holy Spirit's gifts and graces.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.9322034117454734,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                21.55,
+                36.57,
+                41.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Christ Jesus, the Gentiles are made fellow heirs, becoming joint-partakers of God's promise and members of the same body. This unity, unique in classical Greek, emphasizes the intimacy achieved through their shared inheritance and communion with the Holy Spirit. The rare use of these words signifies their special relationship with the Jews, as both groups become part of the church and receive God's blessings. It is through the Gospel that the Gentiles are able to enter into this fellowship and partake in the covenant promises of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9381932535159714,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                23.08,
+                38.24,
+                38.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the Gospel, the Gentiles are brought into unity with the Jews, becoming fellow heirs and partakers of the promise in Christ Jesus. This unique fellowship is symbolized by their membership in the same body, under the headship of Christ. The rare words used in this verse highlight the remarkable nature of this relationship, emphasizing their joint inheritance and participation in the Spirit's gifts and graces. Through the Gospel, the Gentiles are able to experience the fulfillment of God's covenant promises and become part of His chosen people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.818270316672809,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.8,
+            "commentatorTierSimilarities": [
+                22.7,
+                36.6,
+                40.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the Gospel, the Gentiles are made fellow heirs with the Jews, sharing in the same body and partaking of God's promise in Christ Jesus. This unity, symbolized by their joint inheritance and membership in the church, highlights their special relationship. The use of unique words underscores the intimacy between the Gentiles and Jews, as they become recipients of God's grace and experience the communion of the Holy Spirit. It is in Christ Jesus that the Gentiles find their place and receive the fulfillment of God's covenant.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9276994448737574,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                21.15,
+                38.89,
+                39.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

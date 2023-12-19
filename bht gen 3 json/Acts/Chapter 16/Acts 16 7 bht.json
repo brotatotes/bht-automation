@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:32:00",
+    "verseRef": "Acts 16:7",
+    "bestBHT": {
+        "bht": "The Spirit of Jesus played a remarkable role in guiding Paul's apostolic endeavors. Hindered by the Holy Spirit from going into Asia, Paul was led to Bithynia, marking a new epoch in his missionary work. This immediate and independent operation of the Spirit showcased the significance of divine guidance. Though the reasons behind this redirection remained unclear, the impact of such a strong impression should not be underestimated. Notably, although unable to preach in Bithynia at that time, the Gospel was eventually preached there, leading to the establishment of churches.",
+        "wordCount": 91,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 1.3266941107324115,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.46,
+        "commentatorTierSimilarities": [
+            51.46,
+            8.07,
+            40.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression the Spirit of Jesus is remarkable, as occurring in all the great MSS., and from its peculiarity bearing almost unquestionable trace of genuineness.",
+            "If the report of this journey came from an unusual source, an unusual expression would be accountable.",
+            "The Spirit of Jesus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is the first time that the Holy Ghost is expressly spoken of as determining the course they were to follow in their efforts to evangelize the nations.",
+            "It was evidently designed to show that whereas hitherto the diffusion of the Gospel had been carried on in unbroken course, connected by natural points of junction, it was now to take a leap to which it could not be impelled but by an immediate and independent operation of the Spirit.",
+            "Paul took it for a sign that a new epoch was now to commence in his apostolic labors."
+        ],
+        "Albert Barnes": [
+            "Mysia - This was a province of Asia Minor, having Propontis on the north, Bithynia on the east, Lydia on the south, and the Aegean Sea on the west.",
+            "They assayed - They endeavored; they attempted.",
+            "Into Bithynia - A province of Asia Minor lying east of Mysia."
+        ],
+        "Archibald T. Robertson": [
+            "Clearly Luke means to say that Paul had, when hindered by the Holy Spirit from going west into Asia, gone north so as to come in front of Bithynia.\" ",
+            "The grammar and the topography bring Paul right up to Bithynia... It is verses Acts 16:6; Acts 16:7 that make me pause before accepting the plausible arguments of Ramsay for the South Galatian theory.",
+            "The same Spirit who in verse Acts 16:6 had forbidden going into Asia now closed the door into Bithynia."
+        ],
+        "John Gill": [
+            "The apostle was willing to preach to the wise and unwise, and disdained not to carry the Gospel to the meanest part of mankind.",
+            "They were under the direction and guidance of the divine Spirit, called, in the preceding verse, the Holy Ghost.",
+            "However, the Gospel was preached here afterwards, and churches formed."
+        ],
+        "John Wesley": [
+            "Sometimes a strong impression, for which we are not able to give any account, is not altogether to be despised.",
+            "A strong impression, for which we are not able to give any account...",
+            "Is not altogether to be despised."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Spirit of Jesus is mentioned in Acts 16:7, which indicates an immediate and independent operation of the Spirit that signifies a new epoch in Paul's apostolic labors. This is the first time the Holy Ghost is expressly spoken of as determining the course they were to follow. Although Paul was hindered from going west into Asia and was led north to Bithynia, the same Spirit who had forbidden him from going into Asia closed the door into Bithynia as well. Despite not having a clear explanation for this strong impression, it is not to be disregarded. Interestingly, while Paul may have been redirected from preaching in Bithynia at this time, the Gospel was later preached there and churches formed.",
+            "wordCount": 120,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.4943401483770131,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.03,
+            "commentatorTierSimilarities": [
+                53.98,
+                13.32,
+                32.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Spirit of Jesus played a pivotal role in directing Paul's apostolic labors. By forbidding him from going into Asia and guiding him to Bithynia, it signaled a new phase in the dissemination of the Gospel. This immediate and independent operation of the Spirit highlighted the importance of following divine guidance. Although the reasons behind this redirection were not clear, such a powerful impression should not be overlooked. Interestingly, while Paul was prevented from preaching in Bithynia at that time, the Gospel would eventually be preached there and churches established.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.2443015522665233,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.72,
+            "commentatorTierSimilarities": [
+                53.53,
+                4.61,
+                41.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit of Jesus, mentioned in Acts 16:7, indicated a new chapter in Paul's apostolic labors as he was led by an immediate operation of the Spirit. Hindered from going into Asia, Paul was redirected to Bithynia by the same Spirit. This redirection emphasized the importance of divine guidance and marked a significant turning point in the spread of the Gospel. Although the reasons behind this change were not clearly understood, the impact of such a strong impression should not be underestimated. Eventually, the Gospel would be preached in Bithynia and churches established.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.310106187686729,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.9,
+            "commentatorTierSimilarities": [
+                48.6,
+                10.88,
+                40.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Spirit of Jesus played a crucial role in Paul's apostolic work by directing his path. Hindered from going to Asia, Paul was led to Bithynia, signifying a new phase of evangelization. This immediate and independent operation of the Spirit marked a significant change in the spread of the Gospel. Although the reasons behind this guidance were not fully clear, the impact of such a strong impression should not be disregarded. Interestingly, the Gospel would later be preached in Bithynia, with churches being established.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.3100670711101934,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.9,
+            "commentatorTierSimilarities": [
+                50.9,
+                9.27,
+                39.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Spirit of Jesus played a remarkable role in guiding Paul's apostolic endeavors. Hindered by the Holy Spirit from going into Asia, Paul was led to Bithynia, marking a new epoch in his missionary work. This immediate and independent operation of the Spirit showcased the significance of divine guidance. Though the reasons behind this redirection remained unclear, the impact of such a strong impression should not be underestimated. Notably, although unable to preach in Bithynia at that time, the Gospel was eventually preached there, leading to the establishment of churches.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.3266941107324115,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.46,
+            "commentatorTierSimilarities": [
+                51.46,
+                8.07,
+                40.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

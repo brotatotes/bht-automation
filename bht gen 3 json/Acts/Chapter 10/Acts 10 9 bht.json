@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:29:16",
+    "verseRef": "Acts 10:9",
+    "bestBHT": {
+        "bht": "On the second day, Peter went up to the flat roof, a common place in the East for prayer and meditation. It was around noon, the sixth hour, a time of both the mid-day meal and a special hour of prayer. As Peter prayed on the housetop, he was unaware that his prayer would intersect with the secret prayers of others, leading to the conversion of Cornelius and the opening up of the Gospel to the Gentiles. The choice of place and time for prayer is not to be underestimated, aiding in focusing the mind and heart on God.",
+        "wordCount": 100,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.9475527624206892,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+        "commentatorTierSimilarities": [
+            18.67,
+            44.2,
+            37.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By the word rendered the housetop, Jerome, Luther, Erasmus, and others, understand an upper chamber.",
+            "It was the flat roof, much frequented in the East for purposes of exercise, sleeping in summer, conversation, mourning, erecting booths at the feast of tabernacles, other religious celebrations, publicity, observation, and for any process requiring fresh air and sun.",
+            "The second hour of prayer: also of the mid-day meal."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9-16. upon the housetop\u2014the",
+            "\tflat roof, the chosen place in the East for cool retirement. ",
+            "\t",
+            "the sixth hour\u2014noon."
+        ],
+        "Albert Barnes": [
+            "Even when there was no room constructed on the roof, the roof was a common resort for retirement and prayer.",
+            "'When surrounded with battlements, and shaded by vines trained over them, they afford a very agreeable retreat, even at the sixth hour of the day - the time when Peter was favored with that singular vision, by which the kingdom of heaven was thrown open to the Gentile world.'",
+            "Christians will, however, have not merely stated seasons for prayer, but they will seize upon moments of leisure, and when their feelings strongly incline them to it, to pray."
+        ],
+        "Marvin Vincent": [
+            "They [\u03b5\u03ba\u03b5\u03b9\u03bd\u03c9\u03bd] . Those messengers, the servants and the soldier. The pronoun has a more specific reference than the English they."
+        ],
+        "John Calvin": [
+            "A quiet and lone place is a great help to prayer, which thing Christ himself did not omit, that the mind, being free from all things which might call it away, might be the more earnest and bent toward God.",
+            "For because we are drawn away with divers businesses, and there is no end of turmoiling, unless we bridle ourselves, it is good to have certain hours appointed for prayer, not because we are tied to hours, but lest we be unmindful of prayer, which ought to be preferred before all cares and business.",
+            "Finally, we must think the same thing of time which we think of place; to wit, that they are certain remedies whereby our infirmities is holpen; which, if the apostles counted fit for them, how much must more the sluggish and slow use the same?"
+        ],
+        "Philip Schaff": [
+            "It was through the meeting of these two silent streams of secret prayer that the conversion of Cornelius and its consequent blessing to all the world took place.",
+            "The course of prayer who knows? It springs in silence where it will; But streams shall meet it by and by From thousand sympathetic hearts.",
+            "The word (\u03b4\u1ff6\u03bc\u03b1) used here for the flat roof at the top of the house, is often so employed by later Greek writers. As to the choice of this place by St. Peter, every one acquainted with the flat roof of eastern houses knows how well adapted it is for prayer and meditation."
+        ],
+        "Archibald T. Robertson": [
+            "On the morrow (\u03c4\u03b7 \u03b5\u03c0\u03b1\u03c5\u03c1\u03b9\u03bf\u03bd). Locative case of article with the compound adverb (\u03b7\u03bc\u03b5\u03c1\u03b1 day being understood), the second day after leaving Caesarea.",
+            "The housetop (\u03c4\u03bf \u03b4\u03c9\u03bc\u03b1). Old word and in Gospels (Luke 3:19, etc.), but only here in Acts.",
+            "The roof was nearly flat with walls around and so was a good place for meditation and prayer and naps."
+        ],
+        "John Gill": [
+            "The roofs of houses in Judea were flat, and persons might walk upon them, and hither they often retired for devotion and recreation.",
+            "This being at a tanner's house, though not in his shop, brings to mind a canon of the Jews, 'a man may not enter into a bath, nor into a tanner's shop, near the Minchah,' or time of prayer.",
+            "Now this was about the sixth hour or twelve o'clock at noon, when Peter went up to pray; at which time the messengers from Cornelius were near the city of Joppa; this was another time of prayer used by the Jews, and is what they call the great Minchah, which began at the sixth hour and an half."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the second day after leaving Caesarea, Peter went up to the flat roof of his host's house, a common place in the East for prayer and meditation, as well as other activities such as exercise and conversation. It was around noon, the sixth hour, which was not only the time for the mid-day meal but also a special hour of prayer. As Peter prayed in solitude on the housetop, he was completely unaware that his prayer would intersect with the secret prayers of others. Little did he know that it was through this convergence of silent streams of prayer that the conversion of Cornelius and the opening up of the Gospel to the Gentiles would occur. The choice of place and time for prayer is not to be underestimated, as a quiet and solitary location can greatly aid in focusing the mind and heart on God.",
+            "wordCount": 149,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.9336675815143471,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+            "commentatorTierSimilarities": [
+                17.68,
+                45.43,
+                36.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the second day, Peter went up to the flat roof, a common place in the East for prayer. It was around noon, the sixth hour, which was not only the time for the mid-day meal but also a special hour of prayer. As Peter prayed on the housetop, he was unaware that his prayer would intersect with the secret prayers of others, leading to the conversion of Cornelius and the opening up of the Gospel to the Gentiles. The choice of place and time for prayer is not to be underestimated, as a quiet and solitary location aids in focusing the mind and heart on God.",
+            "wordCount": 108,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9086750773787924,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+            "commentatorTierSimilarities": [
+                18.28,
+                45.29,
+                36.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the second day, Peter went up to the flat roof, a common place in the East for prayer and meditation. It was around noon, the sixth hour, a time of both the mid-day meal and a special hour of prayer. As Peter prayed on the housetop, he was unaware that his prayer would intersect with the secret prayers of others, leading to the conversion of Cornelius and the opening up of the Gospel to the Gentiles. The choice of place and time for prayer is not to be underestimated, aiding in focusing the mind and heart on God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9475527624206892,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                18.67,
+                44.2,
+                37.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the second day, Peter went up to the flat roof, a common place in the East for prayer and meditation. It was around noon, the sixth hour, a time of both the mid-day meal and a special hour of prayer. As Peter prayed on the housetop, little did he know that his prayer would intersect with the silent streams of prayer from others. This convergence led to the conversion of Cornelius and the opening up of the Gospel to the Gentiles. The choice of place and time for prayer is important, as a quiet and solitary location aids in focusing the mind and heart on God.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.847831306043695,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                19.57,
+                45.36,
+                35.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the second day, Peter went up to the flat roof, a common place in the East for prayer and meditation. It was around noon, the sixth hour, a time of both the mid-day meal and a special hour of prayer. As Peter prayed on the housetop, little did he know that his prayer would intersect with the silent streams of prayer from others. This convergence led to the conversion of Cornelius and the opening up of the Gospel to the Gentiles. The choice of place and time for prayer is important, as it aids in focusing the mind and heart on God.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8382911500511245,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                19.63,
+                45.12,
+                35.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

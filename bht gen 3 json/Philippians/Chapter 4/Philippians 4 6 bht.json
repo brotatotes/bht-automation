@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 13:56:59",
+    "verseRef": "Philippians 4:6",
+    "bestBHT": {
+        "bht": "In everything, by prayer and supplication, pour out your concerns before God, holding nothing back. Be generous and confident, letting your requests be known with unreserved trust. Cast away anxiousness and find solace in prayer, for it brings tranquility to the mind. Remember to accompany every request with thanksgiving, as it gives effect to prayer and frees from anxious carefulness. Share all your worries and complaints with God, subjecting your desires to His good pleasure, and cultivate a heart filled with peace and gratitude.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.106844263404553,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.39,
+        "commentatorTierSimilarities": [
+            39.11,
+            27.7,
+            33.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in every thing by your prayer and your supplication: or even better, by the prayer and the supplication appropriate to each thing.",
+            "Not 'with your thanksgiving,' because the matters themselves may not be recognized as grounds of thanksgiving, but it should accompany every request.",
+            "On the difference between prayer and supplication see on Eph. vi. 18, 1 Tim. ii. 1."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Care and prayer are as mutually opposed as fire and water.",
+            "Thanksgiving gives effect to prayer and frees from anxious carefulness by making all God's dealings matter for praise, not merely for resignation, much less murmuring.",
+            "Let your requests be made known unto God with generous, filial, unreserved confidence; not keeping aught back, as too great, or else too small, to bring before God."
+        ],
+        "Albert Barnes": [
+            "Be careful for nothing - That is, be not anxious or solicitous about the things of the present life...but that there is to be such confidence in God as to free the mind from anxiety, and such a sense of dependence on him as to keep it calm.",
+            "There is nothing which pertains to body, mind, estate, friends, conflicts, losses, trials, hopes, fears, in reference to which we may not go and spread it all out before the Lord.",
+            "We can always find something to be thankful for, no matter what may be the burden of our wants, or the special subject of our petitions."
+        ],
+        "Marvin Vincent": [
+            "Be anxious.\" ",
+            "Prayer and supplication.\" ",
+            "Specific details of supplication."
+        ],
+        "John Calvin": [
+            "For we are not made of iron, so as not to be shaken by temptations. But this is our consolation, this is our solace \u2014 to deposit, or to disburden in the bosom of God everything that harasses us.",
+            "Confidence, it is true, brings tranquillity to our minds, but it is only in the event of our exercising ourselves in prayers. Whenever, therefore, we are assailed by any temptation, let us betake ourselves forthwith to prayer, as to a sacred asylum.",
+            "Those things which are necessary for us ought to be desired by us from the Lord in such a way, that we, nevertheless, subject our affections to his good pleasure, and give thanks while presenting petitions."
+        ],
+        "Philip Schaff": [
+            "Be over-anxious in nothing. 'Careful' has lost its sense of 'full of care,' and we have no good word to take its place.",
+            "In all things come to God, not merely in those which may be called strictly religious concerns, but whenever the over-anxiety is in danger of becoming too great.",
+            "The Christian's forbearance is to be known unto all men, not published or paraded, but so visible in the life that it cannot fail to be recognized."
+        ],
+        "Archibald T. Robertson": [
+            "Stop being anxious.",
+            "In all the forms of prayer here named thanksgiving should appear."
+        ],
+        "John Gill": [
+            "saints should not be anxiously, or in a distressing manner concerned for the things of this world, but be content, whether they have less or more",
+            "nor can a person expect to succeed in the enjoyment of future mercies, when he is not thankful for past and present ones",
+            "tell him as you would do a friend, freely and fully, all your case, pour out your souls and your complaints before him"
+        ],
+        "John Wesley": [
+            "Carefulness and prayer cannot stand together.",
+            "They who...cover, stifle, or keep in their desires...must be racked with care; from which they are entirely delivered, who pour them out with a free and filial confidence.",
+            "Peace and thanksgiving are both coupled together."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In everything, pray and supplicate with specific details, not forgetting thanksgiving, as it gives effect to prayer and frees from anxious carefulness. Be generous and confident when making your requests known to God, holding nothing back. Stop being anxious and come to God in all things, spreading out your concerns before Him. Remember, we can always find something to be thankful for, no matter the burden of our wants. So, deposit everything that harasses you in the bosom of God and seek refuge in prayer, for confidence brings tranquility to our minds when exercised. With peace and thanksgiving coupled together, pour out your souls and complaints before Him, subjecting your affections to His good pleasure.",
+            "wordCount": 115,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 2.0748508037129367,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.33,
+            "commentatorTierSimilarities": [
+                33.09,
+                32.74,
+                34.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In everything, pray and supplicate with specific details, not forgetting thanksgiving. Be generous and confident when making your requests known to God, holding nothing back. Stop being anxious and come to God in all things, spreading out your concerns before Him. Remember, we can always find something to be thankful for. So, deposit everything that harasses you in the bosom of God and seek refuge in prayer, for confidence brings tranquility to our minds when exercised. With peace and thanksgiving coupled together, pour out your souls and complaints before Him, subjecting your affections to His good pleasure.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.962326436256813,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "commentatorTierSimilarities": [
+                33.91,
+                31.63,
+                34.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In everything, pray and supplicate with specific details, not forgetting thanksgiving. Be generous and confident when making your requests known to God, holding nothing back. Stop being anxious and come to God, spreading out your concerns before Him. We can always find something to be thankful for. So, deposit everything that harasses you in the bosom of God and seek refuge in prayer, for confidence brings tranquility to our minds when exercised. With peace and thanksgiving coupled together, pour out your souls and complaints before Him, subjecting your affections to His good pleasure.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.911975580489421,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.91,
+            "commentatorTierSimilarities": [
+                34.3,
+                30.79,
+                34.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In everything, by prayer and supplication, pour out your concerns before God, holding nothing back. Be generous and confident, letting your requests be known with unreserved trust. Cast away anxiousness and find solace in prayer, for it brings tranquility to the mind. Remember to accompany every request with thanksgiving, as it gives effect to prayer and frees from anxious carefulness. Share all your worries and complaints with God, subjecting your desires to His good pleasure, and cultivate a heart filled with peace and gratitude.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.106844263404553,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.39,
+            "commentatorTierSimilarities": [
+                39.11,
+                27.7,
+                33.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In everything, through prayer and supplication, bring your concerns to God with unreserved trust and thanksgiving. Let your requests be known, holding nothing back, for anxiety and prayer cannot coexist. Pour out your worries and complaints, seeking refuge in the bosom of God. Exercise confidence in prayer, for it brings tranquility to the mind. Remember that peace and thanksgiving are interwoven, as they accompany each other. Subject your desires to God's good pleasure and cultivate a heart filled with gratitude.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9971266215713066,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+            "commentatorTierSimilarities": [
+                39.28,
+                26.99,
+                33.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

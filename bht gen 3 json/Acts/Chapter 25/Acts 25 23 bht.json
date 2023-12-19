@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:36:33",
+    "verseRef": "Acts 25:23",
+    "bestBHT": {
+        "bht": "In this account, Paul appears before a distinguished assembly of local authorities, including Agrippa II, the last king of the Jews. The prominence of this audience is a significant milestone in the progression of Paul's testimony, which began in the house of Cornelius the centurion. The grandeur of the occasion is emphasized by the magnificent display and parade, with prominent men from the city in attendance. Paul's presence as a spectacle fulfills Jesus' prediction that His followers would stand before kings and governors, bearing witness to the Gospel.",
+        "wordCount": 90,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.692444626864797,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+        "commentatorTierSimilarities": [
+            33.48,
+            32.97,
+            33.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was in the same city where the father of Agrippa and Bernice had been eaten of worms for his blasphemous pride.",
+            "In Jerusalem, the long-suffering of the Lord towards the rejecters of the Gospel was now exhausted.",
+            "Here, in C\u00e6sarea, the residence of the procurator, the testimony which had begun in the house of Cornelius the centurion, had now risen upward, till it comes before this brilliant assembly of all the local authorities, in the presence of the last king of the Jews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "in the same city in which their father... had perished, eaten up by worms\" ",
+            "This was the most dignified and influential audience Paul had yet addressed",
+            "the prediction was fulfilled... at Rome"
+        ],
+        "Albert Barnes": [
+            "With great pomp - Greek: \u2018with much phantasy\u2019 \u03c6\u03b1\u03bd\u03c4\u03b1\u03c3\u03b9\u0301\u03b1\u03c2 phantasias; with much show, parade, and splendor.",
+            "Into the place of hearing - The court-room, or the place where the judges heard and tried causes.",
+            "With the chief captains - Greek: the chiliarchs; the commanders of 1,000 men."
+        ],
+        "John Calvin": [
+            "And on the morrow. Agrippa and his sister do not come like humble disciples of Christ, but they bring with them such pomp and gorgeousness as may stop their ears and blind their eyes.\" ",
+            "Notwithstanding, it seemeth that Luke maketh mention of the pomp, that we might know that, in a great assembly, and before choice witnesses, whose authority was great, Paul had leave granted not only to plead his matter as a party defendant but also to preach the gospel.",
+            "By this word \u03c6\u03b1\u03bd\u03c4\u03b1\u03c3\u03b9\u03b1, Luke understandeth that which we call commonly preparation or pomp."
+        ],
+        "Philip Schaff": [
+            "The splendour of the procession and the glittering appearance of the court, crowded with those royal and princely personages and their retinue, Roman and Jewish guards, the Sanhedrim officials, the stately garb of the high priest and his fellows, the heads of the hierarchy of Israel, must have been very striking.",
+            "All honour on this occasion was evidently shown to King Agrippa II., the last Jew who legally bore the proud royal title.",
+            "We have here one of the direct and perhaps one of the earliest fulfilments of the prophecy of the Lord Jesus to His servants, 'Ye shall be brought before governors and kings for my sake, for a testimony against them' (Matthew 10:18)."
+        ],
+        "Archibald T. Robertson": [
+            "With great pomp (\u03bc\u03b5\u03c4\u03b1 \u03c0\u03bf\u03bb\u03bb\u03b7\u03c2 \u03c6\u03b1\u03bd\u03c4\u03b1\u03c3\u03b9\u03b1\u03c2)...a showy parade.",
+            "Into the place of hearing (\u03b5\u03b9\u03c2 \u03c4\u03bf \u03b1\u03ba\u03c1\u03bf\u03b1\u03c4\u03b7\u03c1\u03b9\u03bf\u03bd)...the place set aside for hearing, and deciding cases.",
+            "And the principal men of the city (\u03ba\u03b1 \u03b1\u03bd\u03b4\u03c1\u03b1\u03c3\u03b9\u03bd \u03c4\u03bf\u03b9\u03c2 \u03ba\u03b1\u03c4' \u03b5\u03be\u03bf\u03c7\u03b7\u03bd)... our phrase 'outstanding men.'"
+        ],
+        "John Gill": [
+            "With great pomp: in rich dress, with the 'regalia', or ensigns of royalty carried before them.",
+            "And was entered into the place of hearing; the causes that were tried in court, that particular part of the hall, which was assigned for that purpose.",
+            "And became a spectacle to a vast number of men, as he himself says; and which in part fulfilled what Christ had foretold to his disciples, that they should be brought before kings and governors for his sake."
+        ],
+        "John Wesley": [
+            "With the tribunes and principal men of the city \u2014 The chief officers, both military and civil."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 25:23, Paul finds himself in C\u00e6sarea, facing a brilliant assembly of local authorities, including the last king of the Jews, Agrippa II. This significant audience signifies a shift in Paul's testimony, from humble beginnings in Cornelius' house to a grand stage. The pomp and splendor of the occasion, with the court filled with royal and princely figures, Roman and Jewish guards, and the high priest's stately garb, must have been striking. It is a fulfillment of Jesus' prophecy that His followers would stand before governors and kings. The attention given to Agrippa II, the last Jew with royal authority, is evident.",
+            "wordCount": 104,
+            "quoteTokenProportion": 27.03,
+            "qualityScore": 1.7086454004094063,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                28.82,
+                41.42,
+                29.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, Paul appears before a distinguished assembly of local authorities, including Agrippa II, the last king of the Jews. The prominence of this audience is a significant milestone in the progression of Paul's testimony, which began in the house of Cornelius the centurion. The grandeur of the occasion is emphasized by the magnificent display and parade, with prominent men from the city in attendance. Paul's presence as a spectacle fulfills Jesus' prediction that His followers would stand before kings and governors, bearing witness to the Gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.692444626864797,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                33.48,
+                32.97,
+                33.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, Paul appears before a distinguished assembly of local authorities, including Agrippa II, the last king of the Jews. This grand audience marks a significant moment in Paul's testimony as it moves from humble beginnings to a more prominent platform. The extravagant display and parade of the occasion highlight the splendor and influence of the participants. This event serves as the realization of Jesus' prediction that His followers would be brought before rulers and leaders as a testimony to the Gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.5930304023552968,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+            "commentatorTierSimilarities": [
+                32.73,
+                34.2,
+                33.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul is brought before a prestigious assembly of local authorities, including Agrippa II, the final Jewish king. This showcases a significant shift in his testimony, from its humble beginnings in Cornelius' house to a grand stage. The pomp and splendor of the occasion, with a magnificent parade, illustrate the prominent and influential presence of the attendees. This event embodies the fulfillment of Jesus' prophetic words, anticipating that His followers would stand before governors and kings as witnesses for the Gospel.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.6821480004988376,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                32.1,
+                34.62,
+                33.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul finds himself in C\u00e6sarea, facing a brilliant assembly of local authorities, including the last king of the Jews. This significant audience signifies a shift in Paul's testimony, from humble beginnings in Cornelius' house to a grand stage. The pomp and splendor of the occasion, with the court filled with royal and princely figures, Roman and Jewish guards, and the high priest's stately garb, must have been striking. It is a fulfillment of Jesus' prophecy that His followers would stand before governors and kings. The attention given to Agrippa II, the last Jew with royal authority, is evident.",
+            "wordCount": 100,
+            "quoteTokenProportion": 27.4,
+            "qualityScore": 1.6914371403238668,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.58,
+            "commentatorTierSimilarities": [
+                29.09,
+                41.41,
+                29.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

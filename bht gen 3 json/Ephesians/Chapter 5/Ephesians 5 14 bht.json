@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:34:14",
+    "verseRef": "Ephesians 5:14",
+    "bestBHT": {
+        "bht": "Awake, you who sleep, and arise from the dead, and Christ shall shine upon you. This passage calls upon believers to awaken from their spiritual slumber and be enlightened by the manifestation of Christ within their hearts. The urgent call to wake up applies to both believers and unbelievers, as the light of Christ dispels darkness. The use of personal pronouns emphasizes the intimate and personal nature of this awakening experience. Its roots in Isaiah 60:1 and Isaiah 26:19 suggest that it might have originated as an early Christian hymn.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.1377164003752283,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.42,
+        "commentatorTierSimilarities": [
+            34.49,
+            34.68,
+            30.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It only remains that the man should be shone upon inwardly by the same Christ revealed in his awakened heart.",
+            "Awake, thou that sleepest, and arise from the dead, and Christ shall shine upon thee.",
+            "The Church is set forth as being in a state of darkness and of death, and is exhorted to awake, and become light, for that her light is come, and the glory of Jehovah has arisen upon her."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Seeing that light (spiritual) dispels the pre-existing darkness, He (God) saith . . .",
+            "Believers are called on to 'awake' out of sleep; unbelievers, to 'arise' from the dead.",
+            "Shall shine upon thee\" (so enabling thee by being \"made manifest\" to become, and be, by the very fact, \"light\")."
+        ],
+        "Albert Barnes": [
+            "Be separate from sinners. Come out from among the pagan. Do not mingle with their abominations; do not name them. You are the children of light; and God says to you, awake from false security, rouse from the death of sin, and Christ shall enlighten you.",
+            "Sleep and death\" are striking representations of the state in which people are by nature. In \"sleep\" we are, though living, insensible to any danger that may be near; we are unconscious of what may he going on around us; we hear not the voice of our friends; we see not the beauty of the grove or the landscape; we are forgetful of our real character and condition. So With the sinner. It is as if his faculties were locked in a deep slumber.",
+            "Christ is the light of the world...if they will use all the powers with which God has endowed them, and arouse from their spiritual slumber, and make an appropriate effort for salvation, then they may expect that Christ will shine upon them, and bless them in their efforts."
+        ],
+        "Marvin Vincent": [
+            "This use of the personal pronoun is frequent in Paul's writings.",
+            "The quotation is probably a combination and free rendering of Isaiah 60:1; Isaiah 26:19.",
+            "Rev., correctly, shall shine upon thee."
+        ],
+        "John Calvin": [
+            "What other object do they propose than to raise the dead to life?",
+            "Let us therefore endeavor, as far as lies in our power, to rouse the sleeping and dead, that we may bring them to the light of Christ.",
+            "That light from Christ flashes upon the awakened and resuscitated; nay, it awakens and resuscitates them. As it streams upon the dead, it startles them into life."
+        ],
+        "Philip Schaff": [
+            "Let your light shine, so as to reprove, in the hope that Christ will shine upon the convicted heart.",
+            "Awake thou that sleepest. 'Awake;' the word used in arousing a sleeper: 'up.'",
+            "And Christ shall shine upon thee. The figure is that of the morning sun; comp. Isaiah 60:1-2."
+        ],
+        "Archibald T. Robertson": [
+            "Wherefore he saith... Shall shine.\" ",
+            "Apparently a free adaptation of Isaiah 26:19; Isaiah 60:1.\" ",
+            "The last line suggests the possibility that we have here the fragment of an early Christian hymn like 1 Timothy 3:16."
+        ],
+        "John Gill": [
+            "awake ye that sleep, from your sleep, and ye that slumber rouse up from your slumber, and search into your actions, and return by repentance, and remember your Creator",
+            "awake thou that sleepest: the children of God are sometimes asleep, and need awaking",
+            "And arise from the dead; living saints are sometimes among dead sinners, and it becomes them to arise from among them"
+        ],
+        "John Wesley": [
+            "Awake thou that steepest \u2014 In ignorance of God and thyself; in stupid insensibility.",
+            "And arise from the dead \u2014 From the death of sin.",
+            "And Christ shall give thee light \u2014 Knowledge, holiness, happiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Awake, you who sleep, and arise from the dead, and Christ shall shine upon you. The verse exhorts believers to awaken from their spiritual slumber and be enlightened by the manifestation of Christ within their hearts. The urgent call to wake up is directed both to those who are already believers and those who are not. Just as light dispels darkness, Christ's light reveals the truth to those who respond to His call. The use of personal pronouns emphasizes the intimate and personal nature of this awakening experience. It is likely that this verse is a combination of Isaiah 60:1 and Isaiah 26:19, suggesting that it may have originated from an early Christian hymn.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.0918836626815986,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+            "commentatorTierSimilarities": [
+                33.4,
+                35.85,
+                30.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Awake, you who sleep, and arise from the dead, and Christ shall shine upon you. Believers are urged to awaken from their spiritual slumber and be enlightened by Christ's manifestation in their hearts. The call to wake up is applicable to both believers and unbelievers, as the light of Christ dispels darkness. The use of personal pronouns emphasizes the personal nature of this awakening experience. This passage is a combination of Isaiah 60:1 and Isaiah 26:19, possibly originating from an early Christian hymn.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.1321288799969738,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.23,
+            "commentatorTierSimilarities": [
+                34.63,
+                34.64,
+                30.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Awake, you who sleep, and arise from the dead, and Christ shall shine upon you. Believers and unbelievers alike are called to awaken from their spiritual slumber and be illuminated by the presence of Christ. This awakening brings a transformative light that dispels darkness and reveals the truth. The personal pronouns used emphasize the intimate nature of this awakening experience. It's likely that this verse is derived from a combination of Isaiah 60:1 and Isaiah 26:19, indicating its possible origins as an early Christian hymn.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.05982259950333,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.83,
+            "commentatorTierSimilarities": [
+                34.62,
+                33.79,
+                31.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Awake, you who sleep, and arise from the dead, and Christ shall shine upon you. This passage calls upon believers to awaken from their spiritual slumber and be enlightened by the manifestation of Christ within their hearts. The urgent call to wake up applies to both believers and unbelievers, as the light of Christ dispels darkness. The use of personal pronouns emphasizes the intimate and personal nature of this awakening experience. Its roots in Isaiah 60:1 and Isaiah 26:19 suggest that it might have originated as an early Christian hymn.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1377164003752283,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.42,
+            "commentatorTierSimilarities": [
+                34.49,
+                34.68,
+                30.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Awake, you who sleep, and arise from the dead, and Christ shall shine upon you. This verse implores believers and unbelievers alike to awaken from spiritual slumber and receive the illumination that comes from the presence of Christ. By addressing individuals directly, the intimate and personal nature of this awakening is emphasized. Drawing from Isaiah 60:1 and Isaiah 26:19, this verse likely originated from an early Christian hymn, highlighting the profound significance of being awakened and enlightened by Christ's light.",
+            "wordCount": 79,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 2.136988538057124,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+            "commentatorTierSimilarities": [
+                32.89,
+                35.57,
+                31.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

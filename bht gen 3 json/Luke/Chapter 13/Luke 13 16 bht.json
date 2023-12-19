@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:19:34",
+    "verseRef": "Luke 13:16",
+    "bestBHT": {
+        "bht": "The contrast is striking between a dumb animal and a daughter of Abraham, one of the chosen people, suffering for eighteen long years. There is no spiritual daughtership implied, but rather an emphasis on the duration of her suffering and her dignity as an heir of the promise. The healing on the Sabbath was necessary, and the disease was attributed to Satan. Those who opposed the healing demonstrated hypocrisy as they recognized the necessity of tending to animals but denied the same to a human.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.970017679292892,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+        "commentatorTierSimilarities": [
+            30.85,
+            35.73,
+            33.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The contrast is strongly drawn\u2014between a dumb animal, and (not merely a human creature, but) a daughter of Abraham\u2014one of the chosen people.",
+            "Between a few hours, since the last watering, and \u2018lo these eighteen years.\u2019",
+            "I cannot see any necessity for a spiritual daughtership being here implied."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How gloriously the Lord vindicates the superior claims of this woman, in consideration of the sadness and long duration of her suffering, and of her dignity notwithstanding, as an heir of the promise!\" "
+        ],
+        "Albert Barnes": [
+            "She was therefore a Jewess; and the ruler of the synagogue, professing a special regard for the Jewish people, should have rejoiced that she was loosed from this infirmity.",
+            "By his 'binding' her is meant that he had inflicted this disease upon her.",
+            "[...] yet nothing is more common than for one 'man' to be the occasion of bringing on a disease in another which may terminate only with the life. He that seduces a virtuous man and leads him to intemperance, or he that wounds him or strikes him, may disable him as much as Satan did this woman."
+        ],
+        "Marvin Vincent": [
+            "Satan. \" True to its principle of contrast, this book gives Satan a prominent position (Abbot). See ch. Luke 4:13; Luke 10:18; Luke 22:3, Luke 22:31. See Introduction."
+        ],
+        "Philip Schaff": [
+            "They were 'hypocrites,' because they perceived the necessity in the case of the beast, but heartlessly denied it in the case of the poor woman.",
+            "The contrast is marked. In the one case a dumb animal, in the other a woman, who was moreover a daughter of Abraham, one of the covenant people of God, the God of the Sabbath.",
+            "The animal is represented as bound by a master aware of its necessities, this woman was bound by Satan."
+        ],
+        "Archibald T. Robertson": [
+            "Daughter of Abraham. Triple argument, human being and not an ox or ass, woman, daughter of Abraham (Jewess), besides being old and ill.",
+            "Ought not (\u03bf\u03c5\u03ba \u03b5\u03b4\u03b5). Imperfect active. Of necessity. Jesus simply had to heal her even if on the sabbath.",
+            "Whom S\u0083atan bound (\u03b7\u03bd \u03b5\u03b4\u03b7\u03c3\u03b5\u03bd \u03bf \u03a3\u03b1\u03c4\u03b1\u03bd\u03b1\u03c2). Definite statement that her disease was due to Satan."
+        ],
+        "John Gill": [
+            "Not only a woman, or rational creature, and much preferable, as such, to an irrational one; but a descendant of Abraham, of whom the Jews gloried, and in descent from him prided themselves.",
+            "Should not such an one be loosed from this bond on the sabbath day? [...] if mercy is to be shown to beasts, much more to men and women.",
+            "If it was lawful, on a sabbath day, to lead out a beast to watering, to quench its thirst, that so it may not suffer so much as one day for want of water, how much more reasonable must it be, that a rational creature, one of Abraham's posterity, and a religious person, who had been for eighteen years under a sore affliction, should be freed from so long and sore an affliction on the sabbath day?"
+        ],
+        "John Wesley": [
+            "Ought not any human creature, which is so far better than an ox or an ass?",
+            "Much more, this daughter of Abraham - probably in a spiritual as well as natural sense, to be loosed?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The contrast between a dumb animal and a daughter of Abraham, one of the chosen people, is strongly drawn in this verse. The woman's suffering had lasted for eighteen years, a significant duration compared to a few hours without water. The commentator emphasizes that there is no necessity for a spiritual daughtership to be implied; instead, the focus is on the long duration of her suffering and her dignity as an heir of the promise. The application of the term daughter of Abraham highlights her identity as a Jewess. The necessity for Jesus to heal her, even on the Sabbath, is emphasized, along with the statement that her disease was due to Satan. Ultimately, the commentators bring attention to the hypocrisy of those who denied the healing on the Sabbath, despite recognizing the necessity of watering animals.",
+            "wordCount": 138,
+            "quoteTokenProportion": 34.12,
+            "qualityScore": 1.855711071236732,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.04,
+            "commentatorTierSimilarities": [
+                30.71,
+                35.83,
+                33.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The contrast is striking between a dumb animal and a daughter of Abraham, one of the chosen people, suffering for eighteen long years. There is no spiritual daughtership implied, but rather an emphasis on the duration of her suffering and her dignity as an heir of the promise. The healing on the Sabbath was necessary, and the disease was attributed to Satan. Those who opposed the healing demonstrated hypocrisy as they recognized the necessity of tending to animals but denied the same to a human.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.970017679292892,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                30.85,
+                35.73,
+                33.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The contrast is strongly drawn between a dumb animal and a daughter of Abraham, one of the chosen people, who had suffered for eighteen years. The commentator emphasizes the long duration of her suffering and her dignity as an heir of the promise. The healing on the Sabbath was necessary, as her disease was attributed to Satan. The hypocrisy of those who denied the healing is highlighted, as they recognized the necessity of tending to animals but not to a human.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.885353169700533,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                30.27,
+                38.99,
+                30.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The stark contrast is evident between a dumb animal and a daughter of Abraham, one of the chosen people. This woman's suffering had endured for eighteen years, emphasizing its long duration. Despite her dignity as an heir of the promise, there is no implication of a spiritual daughtership. The healing on the Sabbath was necessary, attributed to the disease inflicted by Satan. The hypocrisy of denying the healing, while recognizing the necessity to tend to animals, is exposed.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.782460801828576,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                30.34,
+                38.31,
+                31.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The contrast is strongly drawn between a dumb animal and a daughter of Abraham, one of the chosen people, who had suffered for eighteen years. Emphasizing the long duration of her suffering and her dignity as an heir of the promise, the commentator states that there is no necessity for a spiritual daughtership to be implied. The healing on the Sabbath was necessary, as her disease was attributed to Satan. The commentators highlight the hypocrisy of those who denied the healing, despite recognizing the necessity of tending to animals.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9086812591030045,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                30.65,
+                38.42,
+                30.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

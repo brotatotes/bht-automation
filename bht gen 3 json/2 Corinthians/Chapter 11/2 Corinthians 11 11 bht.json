@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:17:57",
+    "verseRef": "2 Corinthians 11:11",
+    "bestBHT": {
+        "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. However, I willingly incur obligations to those whom I love, and it is God who knows my heart and understands my motives.",
+        "wordCount": 94,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.8807086261670454,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+        "commentatorTierSimilarities": [
+            32.69,
+            27.51,
+            39.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He pre-supposes, and negatives, a reason likely to be given for this resolution; viz. that he loves them not, and therefore will be under no obligation to them.",
+            "We willingly incur obligations to those whom we love.",
+            "Knoweth, viz. that I love you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Love is often offended at its favors being not accepted.",
+            "as though the party to whom they are offered wished to be under no obligation to the offerer."
+        ],
+        "Albert Barnes": [
+            "It is not because I do not love you.",
+            "I have a deep and tender attachment to you.",
+            "But it is because I can thus best promote the gospel and advance the kingdom of the Redeemer."
+        ],
+        "John Calvin": [
+            "Is it because I love you not? Those that we love, we treat with greater familiarity.",
+            "In the course of three verses there are two oaths, but they are lawful and holy, because they have a good design in view, and a legitimate reason is involved.",
+            "To condemn indiscriminately all oaths is to act the part of fanatics, who make no distinction between white and black."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 11:11. Wherefore? because I love you not? God knoweth.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "God knoweth (\u03bf \u03b8\u03b5\u03bf\u03c2 \u03bf\u03b9\u03b4\u03b5\u03bd). Whether they do or not. He knows that God understands his motives. "
+        ],
+        "John Gill": [
+            "Why did the apostle do this? why did he take nothing, and resolve to take nothing of the Corinthians, for preaching the Gospel to them? why did he determine, that no man should prevent his glorying of this, in all the country of Achaia?\" ",
+            "To which he answers by saying, God knoweth; which is another form of an oath, and is a solemn appeal to God, the searcher of hearts, who knows all things, that he knew he heartily loved them.",
+            "It was not want of love to them, which was the reason of his entering into such a resolution, never to take anything of them; but it was something else, quite another thing, which induced him to it, and is mentioned in the following verse."
+        ],
+        "John Wesley": [
+            "Do I refuse to receive anything of you, because I love you not? God knoweth that is not the case."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but rather because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. However, I willingly incur obligations to those whom I love. It is God who knows my heart and understands my motives in this matter.",
+            "wordCount": 97,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 1.7998354484130115,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                33.96,
+                27.6,
+                38.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. It is God who knows my heart and understands my motives in this matter.",
+            "wordCount": 86,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.8099998281024616,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                31.41,
+                28.3,
+                40.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. It is God who knows my heart and understands my motives.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 1.8171142716528372,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                31.96,
+                28.23,
+                39.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but rather because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. However, I willingly incur obligations to those whom I love, and it is God who knows my heart and understands my motives.",
+            "wordCount": 95,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 1.8795492492676442,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                32.73,
+                27.44,
+                39.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do I refuse to receive anything from you because I do not love you? God knows that is not the case. It is not because I do not have a deep and tender attachment to you, but because I want to promote the gospel and advance the kingdom of the Redeemer. Love is often offended when its favors are not accepted, as if the person offering them wishes to avoid any obligation. However, I willingly incur obligations to those whom I love, and it is God who knows my heart and understands my motives.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.8807086261670454,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+            "commentatorTierSimilarities": [
+                32.69,
+                27.51,
+                39.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

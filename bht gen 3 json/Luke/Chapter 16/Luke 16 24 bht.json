@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:20:50",
+    "verseRef": "Luke 16:24",
+    "bestBHT": {
+        "bht": "The proud man of earth finds himself as the beggar in hell, where the flames of torment are not confined to his own feeling but are a reality. He appeals for mercy from Father Abraham, claiming a lineage that holds no weight in the final judgement. His desperate plea for the smallest relief, a dip of his tongue in water, is dismissed as unreasonable. This vivid portrayal illustrates that earthly distinctions and pride are utterly futile when faced with the eternal consequences of sin.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 1.6769032570429858,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.1,
+        "commentatorTierSimilarities": [
+            28.83,
+            30.96,
+            40.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The proud man of earth is the beggar in hell.",
+            "This flame, not subjective (i.e. confined to his own feeling) only, though perhaps mainly.",
+            "Did the fire leave them, when they left their bodies?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Father Abraham\u2014a well-founded, but unavailing, claim of natural descent.",
+            "mercy on me\u2014who never showed any.",
+            "dip . . . tongue\u2014that is the least conceivable and the most momentary abatement of his torment; that is all. But even this he is told is unreasonable."
+        ],
+        "Albert Barnes": [
+            "The Jews considered it a signal honor that Abraham was their 'father' - that is, that they were 'descendants' from him.",
+            "The mercy of God will be at an end when the soul is lost.",
+            "Soon the poorest man on earth, if he is a friend of God, will have mercies which the rich, if unprepared to die, can never obtain."
+        ],
+        "Marvin Vincent": [
+            "The rivulets that from the verdant hills Of Cassentin descend down into Arno, Making their channels to be soft and cold, Ever before me stand, and not in vain : For far more doth their image dry me up Than the disease which strips my face of flesh.\" ",
+            "Tormented is too strong. The word is used of the sorrow of Joseph and Mary when the child Jesus was missing; and of the grief of the Ephesian elders on parting with Paul. Rev., I am in anguish."
+        ],
+        "Philip Schaff": [
+            "Even there the man does not forget that he is a Jew.",
+            "It is possible, but not probable, that he still fancies he has some right to the services of one who was his inferior on earth.",
+            "The souls of the impenitent after death suffer as terribly as though fire were tormenting their bodies. The chief organ of sin becomes the chief organ of punishment."
+        ],
+        "Archibald T. Robertson": [
+            "That he may dip... in water.",
+            "Cool... to make cool. A small service that will be welcome.",
+            "For I am in anguish... to be translated as here."
+        ],
+        "John Gill": [
+            "The Jews used to call Abraham their father, and were proud of their descent from him.",
+            "And here the Jews, in their distress, are represented as applying to him, saying, have mercy on me.",
+            "This man could not so much as get a drop of water to cool his tongue, not the least refreshment, nor mitigation of the anguish of his conscience."
+        ],
+        "John Wesley": [
+            "Father Abraham, have mercy on me \u2014 It cannot be denied, but here is one precedent in Scripture of praying to departed saints: but who is it that prays, and with what success?\" "
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The proud man of earth finds himself as the beggar in hell, where the flames of torment are not limited to subjective experience alone. He, who never showed any mercy, now pleads for it from Father Abraham, appealing to his natural descent. But even the smallest relief, a dip of the tongue in water, is deemed unreasonable, as his torment is beyond imagination. In his anguish, he longs for a cool touch, yet his pleas go unanswered. The souls of the impenitent suffer as though their bodies were consumed by fire, and their chief organ of sin becomes their chief organ of punishment. This serves as a reminder that earthly distinctions and pride are of no avail in the face of eternal consequences.",
+            "wordCount": 123,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 1.7018435339633302,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+            "commentatorTierSimilarities": [
+                29.21,
+                35.51,
+                35.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The proud man of earth becomes the beggar in hell, experiencing torment beyond imagination. He pleads for mercy from Father Abraham, appealing to his natural descent, but even a small alleviation is deemed unreasonable. In his anguish, he longs for the smallest relief, a dip of his tongue in water. The souls of the impenitent suffer, with their chief organ of sin becoming the chief organ of punishment. This illustrates that earthly distinctions and pride offer no solace in the face of eternal consequences.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6713376584745303,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "commentatorTierSimilarities": [
+                27.29,
+                38.03,
+                34.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The proud man of earth finds himself as the beggar in hell, where the flames of torment are not confined to his own feeling but are a reality. He appeals for mercy from Father Abraham, claiming a lineage that holds no weight in the final judgement. His desperate plea for the smallest relief, a dip of his tongue in water, is dismissed as unreasonable. This vivid portrayal illustrates that earthly distinctions and pride are utterly futile when faced with the eternal consequences of sin.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6769032570429858,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.1,
+            "commentatorTierSimilarities": [
+                28.83,
+                30.96,
+                40.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The proud man of earth becomes the beggar in hell, experiencing torment beyond imagination. He pleads for mercy from Father Abraham, appealing to his natural descent, but even a small alleviation is deemed unreasonable. In his anguish, he longs for the smallest relief, a dip of his tongue in water. The souls of the impenitent suffer, with their chief organ of sin becoming the chief organ of punishment. This serves as a reminder that earthly distinctions and pride provide no solace in the face of eternal consequences.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.6724088286021703,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.95,
+            "commentatorTierSimilarities": [
+                27.44,
+                37.84,
+                34.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The proud man of earth finds himself as the beggar in hell, where the flames of torment are not confined to his own feeling but are a harsh reality. He pleads for mercy, appealing to his natural descent, but his plea is unfounded. Even the smallest relief, a dip of his tongue in water, is deemed unreasonable. This portrayal serves as a reminder that earthly distinctions and pride hold no significance in the face of eternal consequences, where the souls of the impenitent suffer in anguish.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.647165084784426,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+            "commentatorTierSimilarities": [
+                33.51,
+                33.22,
+                33.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

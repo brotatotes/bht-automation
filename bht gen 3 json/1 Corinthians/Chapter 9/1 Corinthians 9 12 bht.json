@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:09:00",
+    "verseRef": "1 Corinthians 9:12",
+    "bestBHT": {
+        "bht": "As believers, we bear all things, enduring labor, hardships, and privations without complaining, holding them as a water-tight vessel, so as not to hinder the Gospel. The Apostle Paul willingly declined his right to financial support in Corinth, demonstrating a desire to avoid any accusation of self-seeking or greed. His main concern was the progress of the Gospel, setting an example for all, showing that our focus should be on the cause of Christ rather than our own personal rights and liberties.",
+        "wordCount": 84,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.8645897737253199,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.34,
+        "commentatorTierSimilarities": [
+            40.34,
+            27.62,
+            32.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "we bear all things] The verb thus rendered was commonly used of vessels containing, holding without breaking, that which was put into them; thence of concealing or covering, as a secret; and also of enduring or bearing up against. all things: viz. labour, privations, hardships.",
+            "The hindrances to the Gospel would arise from his being charged with covetousness and self-seeking, which his independence of them would entirely prevent."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "we desire to conceal (literally, 'hold as a water-tight vessel') any distress we suffer",
+            "without complaining of it",
+            "The less of incumbrance and expense caused to the Church, and the more of work done, the better for the cause of the Gospel"
+        ],
+        "Albert Barnes": [
+            "Have not we a better claim than they?",
+            "But suffer all things - Endure all privations and hardships.",
+            "Lest we should hinder the gospel of Christ."
+        ],
+        "Marvin Vincent": [
+            "Power. The right to claim maintenance.",
+            "Suffer...to bear up against, endure.",
+            "Hinder...gets the meaning of hindrance."
+        ],
+        "John Calvin": [
+            "But we have not used this power.\" ",
+            "He returns now to the point on which the matter hinges \u2014 that he had of his own accord given up that power which no one could refuse him, and that he was prepared rather to suffer all things, than by the use of his liberty throw any impediment in the way of the progress of the gospel.\" ",
+            "He wishes, therefore, that the Corinthians should, after his example, keep this end in view \u2014 to do nothing that would hinder or retard the progress of the gospel."
+        ],
+        "Philip Schaff": [
+            "Nevertheless we did not use this right.\" ",
+            ". . . that we may cause no hindrance to the gospel of Christ to cut off the pretext of mercenary motives. . .",
+            ". . . slanderously insinuated against him by opponents."
+        ],
+        "Archibald T. Robertson": [
+            "Paul deliberately declined to use his right to pay in Corinth.",
+            "Paul is considerate to avoid 'a hindrance to the gospel of Christ' rather than insist on his personal rights and liberties.",
+            "An eloquent example for all modern men."
+        ],
+        "John Gill": [
+            "Nevertheless, we have not used this power; though others had, and they had a right to it, but did not choose to insist upon it; and, rather than do so, worked with their own hands.\" ",
+            "Their not making use of this power was not because they stood in no need of it, and enjoyed an affluence of temporal things, for the reverse of this was their case.\" ",
+            "Lest we should hinder the Gospel of Christ; some might suggest, that they preached the Gospel only for gain, and not for the good of souls, and glory of Christ."
+        ],
+        "John Wesley": [
+            "If others \u2014 Whether true or false apostles.",
+            "Partake of this power \u2014 Have a right to be maintained.",
+            "Do not we rather \u2014 On account of our having laboured so much more?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As believers, we are called to endure and bear up against various challenges and hardships for the sake of the Gospel. Like a water-tight vessel, we desire to hold these burdens without complaining, so as not to hinder the spread of the Good News. The Apostle Paul exemplified this by willingly relinquishing his right to financial support in Corinth, in order to eliminate any accusation of self-seeking or greed. His primary concern was the progress of the Gospel, and he set an eloquent example for us all. Let us too be considerate and avoid anything that may hinder the advancement of Christ's message, even if it means foregoing our personal rights and liberties.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.45,
+            "qualityScore": 1.7454622554989698,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.38,
+            "commentatorTierSimilarities": [
+                38.0,
+                30.13,
+                31.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As believers, we bear all things, enduring labor, hardships, and privations without complaining, holding them as a water-tight vessel, so as not to hinder the Gospel. The Apostle Paul willingly declined his right to financial support in Corinth, demonstrating a desire to avoid any accusation of self-seeking or greed. His main concern was the progress of the Gospel, setting an example for all, showing that our focus should be on the cause of Christ rather than our own personal rights and liberties.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.8645897737253199,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.34,
+            "commentatorTierSimilarities": [
+                40.34,
+                27.62,
+                32.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As believers, we are called to bear all things and endure labor, hardships, and privations without complaint, holding them as a water-tight vessel. By doing so, we avoid any hindrance to the Gospel and eliminate accusations of self-seeking or greed. The Apostle Paul exemplified this by voluntarily declining his right to financial support in Corinth, prioritizing the progress of the Gospel above personal rights and liberties. His example serves as a powerful reminder for modern believers to consider the cause of Christ above all else.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.754142935898943,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
+            "commentatorTierSimilarities": [
+                40.94,
+                29.66,
+                29.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As believers, we are called to bear all things, enduring labor, hardship, and privations without complaint, holding them as a water-tight vessel. The Apostle Paul showed immense consideration by voluntarily relinquishing his right to financial support in Corinth, prioritizing the progress of the Gospel over personal rights and liberties. His selflessness serves as a powerful example for all believers, reminding us to avoid hindering the spread of the Gospel and to do everything for the glory of Christ and the good of souls.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.81712998892541,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                40.32,
+                26.89,
+                32.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As believers, we are called to endure all things and hold them as a water-tight vessel, without complaint, for the sake of the Gospel. The Apostle Paul willingly sacrificed his right to financial support in Corinth, demonstrating his commitment to avoiding any hindrance to the progress of the Good News. His example serves as a powerful reminder for all believers to prioritize the cause of Christ above personal gain, and to be considerate in our actions to ensure the gospel is not hindered by our motives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.822207960221025,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.93,
+            "commentatorTierSimilarities": [
+                37.06,
+                30.07,
+                32.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

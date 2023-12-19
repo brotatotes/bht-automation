@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 14:01:26",
+    "verseRef": "1 Thessalonians 5:22",
+    "bestBHT": {
+        "bht": "To abstain from every form of evil is to recognize the distinction between the highest part of our being, the immortal and responsible soul, and the lower animal soul that contains passions and desires shared with animals. The context, however, speaks not of abstaining from evil appearances within ourselves but rather from evil appearances in others. We must hold ourselves aloof from every evil appearance or form, even those that may seem good at first glance. Evil has a way of showing itself even in spiritual gifts, including prophecy. Therefore, we must be cautious and abstain from everything that even looks like evil, for appearances can be deceiving.",
+        "wordCount": 108,
+        "quoteTokenProportion": 52.05,
+        "qualityScore": 2.3121800079631663,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.22,
+        "commentatorTierSimilarities": [
+            38.93,
+            30.05,
+            31.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Abstain from every species (or form) of evil.\" ",
+            "The spirit (pneuma) is the highest and distinctive part of man, the immortal and responsible soul.",
+            "The soul is the lower or animal soul, containing the passions and desires which we have in common with the brutes, but which in us is ennobled and drawn up by the spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The context, however, does not refer to evil appearances IN OURSELVES which we ought to abstain from, but to holding ourselves aloof from every evil appearance IN OTHERS.",
+            "In many cases the Christian should not abstain from what has the semblance ('appearance') of evil, though really good.",
+            "However specious be the form or outward appearance of such would-be prophets and their prophesyings, hold yourselves aloof from every such form when it is evil, literally, 'Hold yourselves aloof from every evil appearance' or 'form'."
+        ],
+        "Albert Barnes": [
+            "Abstain from all appearance of evil - Not only from evil itself, but from that which seems to be wrong.",
+            "The safe and proper rule is to lean always to the side of virtue.",
+            "No one ever does injury or wrong by abstaining from the pleasures of the ball-room, the theater, or a glass of wine."
+        ],
+        "Marvin Vincent": [
+            "Abstain from everything that even looks like evil.",
+            "The word signifies form or kind.",
+            "The meaning of ponhrov in N. T. cannot be limited to active evil, mischief, though it often has that sense."
+        ],
+        "John Calvin": [
+            "It is not enough to have an internal testimony of conscience, unless regard be at the same time had to brethren, so as to provide against occasions of offense, by avoiding every thing that can have the appearance of evil.",
+            "I rather prefer Chrysostom and Ambrose, who connect this sentence with the foregoing one. At the same time, neither of them explains Paul\u2019s meaning, and perhaps have not altogether hit upon what he intends.",
+            "When, on the other hand, there is any fear of false doctrine, or when the mind is involved in doubt, it is proper in that case to retreat, or to suspend our step, as they say, lest we should receive anything with a doubtful and perplexed conscience."
+        ],
+        "Archibald T. Robertson": [
+            "Abstain from every form of evil.\" ",
+            "The papyri give several examples of \u03b5\u03b9\u03b4\u03bf\u03c2 in the sense of class or kind and that idea suits best here.\" ",
+            "Evil had a way of showing itself even in the spiritual gifts including prophecy."
+        ],
+        "John Gill": [
+            "Abstain from all appearance of evil.\" ",
+            "Not only open error and heresy are to be avoided, but what has any show of it, or looks like it, or carries in it a suspicion of it, or may be an occasion thereof, or lead unto it.",
+            "Abstain from...what leads unto it, and has the appearance of it, or may be suspected of others to be sin, and so give offence, and be a matter of scandal."
+        ],
+        "John Wesley": [
+            "Be equally zealous and careful to abstain from all appearance of evil.\" ",
+            "Those who 'heap to themselves teachers, having itching ears,' under pretence of proving all things, have no countenance or excuse from this scripture."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To abstain from every species or form of evil is to recognize the distinction between the highest part of our being, the immortal and responsible soul, and the lower animal soul that contains passions and desires shared with animals. The context, however, speaks not of abstaining from evil appearances within ourselves but rather from evil appearances in others. We must hold ourselves aloof from every evil appearance or form, even those that may seem good at first glance. Evil has a way of showing itself even in spiritual gifts, including prophecy. Therefore, we must be cautious and abstain from everything that even looks like evil, for appearances can be deceiving.",
+            "wordCount": 110,
+            "quoteTokenProportion": 51.35,
+            "qualityScore": 2.310016500449505,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.15,
+            "commentatorTierSimilarities": [
+                39.01,
+                30.01,
+                30.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To abstain from every form of evil is to recognize the distinction between the highest part of our being, the immortal and responsible soul, and the lower animal soul that contains passions and desires shared with animals. The context, however, speaks not of abstaining from evil appearances within ourselves but rather from evil appearances in others. We must hold ourselves aloof from every evil appearance or form, even those that may seem good at first glance. Evil has a way of showing itself even in spiritual gifts, including prophecy. Therefore, we must be cautious and abstain from everything that even looks like evil, for appearances can be deceiving.",
+            "wordCount": 108,
+            "quoteTokenProportion": 52.05,
+            "qualityScore": 2.3121800079631663,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.22,
+            "commentatorTierSimilarities": [
+                38.93,
+                30.05,
+                31.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To abstain from every form of evil is to recognize the distinction between the highest part of our being, the immortal and responsible soul, and the lower animal soul that contains passions shared with animals. We must hold ourselves aloof from evil appearances in others, even if they seem good. Evil can manifest in spiritual gifts, so we must be cautious and avoid anything that even looks like evil. Appearances can be deceiving, and it is better to err on the side of caution by abstaining from all forms of evil.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.28279953481347,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.24,
+            "commentatorTierSimilarities": [
+                37.09,
+                30.58,
+                32.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To abstain from every form of evil is to distinguish between the immortal and responsible soul, and the lower animal soul that shares passions with animals. We should hold ourselves aloof from evil appearances in others, even if they seem good. Evil can even manifest in spiritual gifts, like prophecy, so it's important to be cautious and avoid anything that looks like evil. Appearances can be deceiving. Therefore, it is better to err on the side of caution by abstaining from all forms of evil.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.059061581799207,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+            "commentatorTierSimilarities": [
+                37.16,
+                30.66,
+                32.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To abstain from every form of evil is to recognize the distinction between the immortal and responsible soul and the lower animal soul. We must hold ourselves aloof from evil appearances in others, even if they seem good. Evil can manifest in spiritual gifts, like prophecy. Therefore, it is crucial to be cautious and abstain from anything that even looks like evil, as appearances can be deceiving. Better to err on the side of caution and avoid all forms of evil.",
+            "wordCount": 81,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 2.221649415743681,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.21,
+            "commentatorTierSimilarities": [
+                37.23,
+                30.97,
+                31.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

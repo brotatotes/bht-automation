@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:18:55",
+    "verseRef": "Luke 12:15",
+    "bestBHT": {
+        "bht": "Beware of covetousness and the temptation to find life in material possessions, for a man's life does not consist in what he possesses. True life is of God and not of one's goods, regardless of their abundance. Guard yourself from all forms of greedy desire and understand that a man's life is not dependent on wealth, but on the providence of God. Recognize that true life does not lie in material abundance, for its comfort and happiness are found in something far greater.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 2.401785745633836,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.2,
+        "commentatorTierSimilarities": [
+            27.45,
+            39.71,
+            32.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No man\u2019s life consists in what he possesseth; ( 'man shall not live by bread alone')... nor by his not having abundance, can this be made to be the case.",
+            "Man\u2019s life is of God, not of his goods, however abundant they may be.",
+            "The word life is used in the pregnant sense, emphatically his life; including time and eternity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "a man's life, &amp;c.\u2014a singularly weighty maxim, and not less so because its meaning and its truth are equally evident."
+        ],
+        "Albert Barnes": [
+            "Covetousness - An unlawful desire of the property of another; also a desire of gain or riches beyond what is necessary for our wants.",
+            "A man\u2019s life... is to be taken 'literally.'",
+            "Be not anxious about obtaining wealth, for, however much you may obtain, it will not prolong your life."
+        ],
+        "Marvin Vincent": [
+            "Beware of [\u03c6\u03c5\u03bb\u03b1\u03c3\u03c3\u03b5\u03c3\u03b8\u03b5 \u03b1\u03c0\u03bf] . Lit., guard yourselves from."
+        ],
+        "John Calvin": [
+            "Christ first guards his followers against covetousness, and next, in order to cure their minds entirely of this disease, he declares, that our life consisteth not in abundance.",
+            "If we were convinced that riches, and any kind of abundance, are evils of the present life, which the Lord bestows upon us with his own hand, and the use of which is accompanied by his blessing, this single consideration would have a powerful influence in restraining all wicked desires.",
+            "For whence comes it, that they moderate their wishes, and depend on God alone, but because they do not look upon their life as necessarily connected with abundance, or dependent upon it, but rely on the providence of God, who alone upholds us by his power, and supplies us with whatever is necessary?"
+        ],
+        "Philip Schaff": [
+            "Keep yourselves from all covetousness. Our Lord saw that this was the man\u2019s motive, and grounds His lesson upon it. From the one form manifested by the man He warns against \u2018all\u2019 kinds.",
+            "No man\u2019s life consists in what he possesses, and even when he has abundance this does not become so. A man\u2019s life is of God, hence it cannot be from even the most abundant possessions.",
+            "True life does not consist in wealth."
+        ],
+        "Archibald T. Robertson": [
+            "From every kind of greedy desire for more.",
+            "An old word which we have robbed of its sinful aspects and refined to mean business thrift.",
+            "In the abounding to one out of the things belonging to him."
+        ],
+        "John Gill": [
+            "Beware of covetousness...which of all vices is to be avoided and guarded against, being the root of all evil.",
+            "A man's natural life cannot be prolonged by all the good things of the world he is possessed of; they cannot prevent diseases nor death...nor do the comfort and happiness of life lie in these things.",
+            "A man's spiritual life is neither had nor advantaged hereby, and much less is eternal life to be acquired by any of these things; which a man may have, and be lost forever."
+        ],
+        "John Wesley": [
+            "He said to them \u2014 Perhaps to the two brothers, and through them to the people.",
+            "A man's life \u2014 That is, the comfort or happiness of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of covetousness and the temptation to find life in material possessions, for a man's life does not consist in what he possesses. True life is of God, including both time and eternity. No matter how abundant a person's possessions may be, they cannot prolong their life or provide true happiness. Instead of anxiously pursuing wealth, guard yourself from all forms of greedy desire and understand that a man's life is not dependent on abundance, but on the providence of God. Recognize that true life does not consist in wealth, for the comfort and happiness of life lie in something far greater.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.2190763126367674,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.12,
+            "commentatorTierSimilarities": [
+                25.33,
+                40.95,
+                33.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware of covetousness and the temptation to find life in material possessions, for a man's life does not consist in what he possesses. True life is of God and not of one's goods, regardless of their abundance. Guard yourself from all forms of greedy desire and understand that a man's life is not dependent on wealth, but on the providence of God. Recognize that true life does not lie in material abundance, for its comfort and happiness are found in something far greater.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.401785745633836,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.2,
+            "commentatorTierSimilarities": [
+                27.45,
+                39.71,
+                32.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of covetousness and the desire for abundance, for a man's life does not consist in what he possesses. True life is from God, not from material possessions. Do not be anxious about obtaining wealth, for it cannot prolong your life. Instead, guard yourself from all forms of greedy desire. Remember that true life does not lie in material abundance, but in the providence of God. Seek comfort and happiness in something greater than earthly possessions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.1216285564927557,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+            "commentatorTierSimilarities": [
+                27.97,
+                42.32,
+                29.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of covetousness and the desire for abundance, for a man's life does not consist in what he possesses. True life is of God, including time and eternity. Guard yourself from all forms of greedy desire and understand that a man's life is not dependent on wealth, but on the providence of God. Recognize that true life does not lie in material abundance, for the comfort and happiness of life are found in something far greater.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.2493307904613644,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.13,
+            "commentatorTierSimilarities": [
+                26.86,
+                40.41,
+                32.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of covetousness and guard yourself from all forms of greedy desire, for a man's life does not consist in what he possesses. True life is from God, not from material goods, regardless of their abundance. Understand that a man's life is not dependent on wealth, but on the providence of God. Remember that true life does not lie in material abundance, for its comfort and happiness are found in something far beyond earthly possessions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.3572406702266413,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.72,
+            "commentatorTierSimilarities": [
+                27.76,
+                40.4,
+                31.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

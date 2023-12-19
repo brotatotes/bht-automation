@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:16:42",
+    "verseRef": "Luke 8:26",
+    "bestBHT": {
+        "bht": "Sailing over against Galilee from the sea to the land, Jesus encountered a wretched man kept among the graves by an unclean spirit. This encounter revealed that the devil not only torments people in their present lives but also pursues them even to the brink of death. In this region, known as either the country of the Gadarenes, Gergesenes, or Gerasenes, Jesus and his disciples disembarked, beginning a remarkable journey of deliverance and restoration.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.377553520938961,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+        "commentatorTierSimilarities": [
+            44.14,
+            0.0,
+            55.86
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "26.] over against Galilee, a more precise description than \u201cthe other side,\u201d Matthew, or \u201cthe other side of the sea,\u201d Mark."
+        ],
+        "Marvin Vincent": [
+            "The verb means literally to sail down from the sea to the shore."
+        ],
+        "John Calvin": [
+            "Before Christ came near the city, the demoniac met him in that direction.\" ",
+            "This wretched man was kept among the graves by an unclean spirit, that he might have an opportunity of terrifying him continually with the mournful spectacle of death.\" ",
+            "We learn from this also that the devil does not only torment men in the present life, but pursues them even to death."
+        ],
+        "Archibald T. Robertson": [
+            "They sailed down from the sea to the land, the opposite of launched forth.",
+            "This is the correct text here as in Mark 5:1 while Gadarenes is correct in Matthew 8:28.",
+            "Only here in the N.T. The later Greek form is \u03b1\u03bd\u03c4\u03b9\u03c0\u03b5\u03c1\u03b1\u03bd."
+        ],
+        "John Gill": [
+            "And they arrived at the country of the Gadarenes....\" ",
+            "In Matthew 8:28 it is called the country of the Gergesenes, Matthew 8:28-: as it is here, in the Arabic and Ethiopic versions; and 'of the Gerasenes' in the Vulgate Latin.",
+            "Mark 5:1-: which is over against Galilee: from whence the ship launched, and Christ and his disciples came."
+        ],
+        "John Wesley": [
+            "Matthew 8:28; Mark 5:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Sailing over against Galilee from the sea to the land, Jesus encountered a wretched man kept among the graves by an unclean spirit. This encounter revealed that the devil not only torments people in their present lives but also pursues them even to the brink of death. In this region, known as either the country of the Gadarenes, Gergesenes, or Gerasenes, Jesus and his disciples disembarked, beginning a remarkable journey of deliverance and restoration.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.377553520938961,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+            "commentatorTierSimilarities": [
+                44.14,
+                0.0,
+                55.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sailing over against Galilee from the sea to the land, Jesus encountered a wretched man kept among the graves by an unclean spirit, terrifying him continually with the mournful spectacle of death. This revealed that the devil not only torments people in their present lives, but also pursues them even to the brink of death. In this region, known as the country of the Gadarenes, Gergesenes, or Gerasenes, Jesus and his disciples disembarked, beginning a remarkable journey of deliverance and restoration.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.327816711835353,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.49,
+            "commentatorTierSimilarities": [
+                39.89,
+                0.0,
+                60.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sailing over against Galilee from the sea to the land, Jesus encountered a wretched man kept among the graves by an unclean spirit, terrifying him continually with the mournful spectacle of death. This revealed that the devil not only torments people in their present lives but also pursues them even to death. In this region, known as the country of the Gadarenes, Gergesenes, or Gerasenes, Jesus and his disciples disembarked, beginning a remarkable journey of deliverance and restoration.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.3275765942438698,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.49,
+            "commentatorTierSimilarities": [
+                39.68,
+                0.0,
+                60.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus sailed over against Galilee from the sea to the land and encountered a wretched man kept among the graves by an unclean spirit that continually terrified him with the mournful spectacle of death. This encounter demonstrated that the devil not only torments people in their present lives, but also pursues them to their very end. Disembarking in the region known as the country of the Gadarenes, Gergesenes, or Gerasenes, Jesus and his disciples embarked on a transformative journey of deliverance and restoration.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.3168844173948249,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.13,
+            "commentatorTierSimilarities": [
+                39.85,
+                0.0,
+                60.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sailing over against Galilee from the sea to the land, Jesus encountered a wretched man kept among the graves by an unclean spirit, continually terrifying him with the mournful spectacle of death. This revealed that the devil not only torments people in their present lives, but also pursues them until their end. Disembarking in the region known as the country of the Gadarenes, Gergesenes, or Gerasenes, Jesus and his disciples embarked on a transformative journey of deliverance and restoration.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.356907095358745,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.46,
+            "commentatorTierSimilarities": [
+                41.92,
+                0.0,
+                58.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

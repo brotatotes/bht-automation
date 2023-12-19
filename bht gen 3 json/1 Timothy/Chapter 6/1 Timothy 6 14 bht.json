@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:29:29",
+    "verseRef": "1 Timothy 6:14",
+    "bestBHT": {
+        "bht": "Believers are called to keep the commandment and be without spot. The Church's true attitude is one of continuous expectation of the Lord's return. Keeping the commandment implies discharging our duty faithfully and sincerely, preaching the pure Gospel without any adulteration. The ultimate goal is to fulfill our ministry with faithfulness and purity, ensuring that our works and ministry are blameless when Christ appears and we must give an account of ourselves.",
+        "wordCount": 74,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.8039085765910055,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.32,
+        "commentatorTierSimilarities": [
+            36.27,
+            22.75,
+            40.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Keep the commandment and so be without spot.",
+            "Believers then used in their practice to set before themselves the day of Christ as near at hand; we, the hour of death.",
+            "The Church's true attitude is that of continual expectation of her Lord's return."
+        ],
+        "Albert Barnes": [
+            "That thou keep this commandment... That thou keep the commandment so that thou mayest be without spot and unrebukable.",
+            "Without spot... means without any 'stain' or 'blemish; pure.'",
+            "Unrebukable - So that there be no occasion for reproach or reproof."
+        ],
+        "Marvin Vincent": [
+            "The phrase threin thn ejntolhn to keep the commandment is Johannine."
+        ],
+        "John Calvin": [
+            "What is the use of extending this to the whole law? But perhaps it will be thought preferable to view it as denoting the office which he had received by divine authority; for we are appointed to be ministers of the Church on no other condition than this, that God enjoins upon us whatever he wishes us to do.\" ",
+            "Thus to 'keep the commandment' would be nothing else than to discharge honestly the office committed to him. I certainly view it as referring altogether to the ministry of Timothy.",
+            "The only remedy for all these difficulties is, to cast our eyes towards the appearing of Christ, and to keep them fixed on it continually."
+        ],
+        "Philip Schaff": [
+            "Without spot, unrebukeable.\" ",
+            "We keep the rhetorical effect of the Greek better by translating both adjectives after the same pattern, \u2018without spot, without rebuke,\u2019 or \u2018spotless, reproachless, or \u2018unspotted, unreproached.\u2019",
+            "The words imply, as St. Paul\u2019s language everywhere does, a vague feeling that the great Epiphany of judgment might take place within the limits of his own lifetime or that of the next generation. That, at all events, was the goal which all were to keep in view."
+        ],
+        "Archibald T. Robertson": [
+            "That thou keep (\u03c4\u03b7\u03c1\u03b7\u03c3\u03b1 \u03c3\u03b5).",
+            "Without spot (\u03b1\u03c3\u03c0\u03b9\u03bb\u03bf\u03bd).",
+            "Without reproach (\u03b1\u03bd\u03b5\u03c0\u03b9\u03bb\u03b7\u03bc\u03c0\u03c4\u03bf\u03bd)."
+        ],
+        "John Gill": [
+            "That he would discharge his ministerial function with all faithfulness and purity; that he would sincerely, and without any adulteration, preach the pure Gospel of Christ.",
+            "That his ministry might not be justly blamed by men, or he be rebuked by the church here, or by Christ hereafter.",
+            "Every man's work and ministry will then be made manifest; this bright day of Christ's appearing will declare it, and everyone must give an account of himself, and his talents, unto him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers are called to keep the commandment, being without spot and unrebukable. This entails.setting before themselves the day of Christ as near at hand and maintaining a continual expectation of the Lord's return. Keeping the commandment means discharging our duty with faithfulness and purity, preaching the pure Gospel without adulteration. The goal is to faithfully fulfill the ministry entrusted to us, so that our works and ministry will be found blameless when Christ appears and we must give an account of ourselves unto him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.7682505457364108,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                32.27,
+                23.66,
+                44.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are called to keep the commandment and be without spot, maintaining a continual expectation of the Lord's return. This involves discharging our duty with faithfulness and purity, preaching the pure Gospel without reproach. The goal is to faithfully fulfill the ministry entrusted to us, so that our works and ministry will be found blameless when Christ appears and we must give an account of ourselves unto Him.",
+            "wordCount": 69,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.7127112950371188,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.29,
+            "commentatorTierSimilarities": [
+                29.6,
+                23.05,
+                47.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are called to keep the commandment and be without spot. The Church's true attitude is one of continuous expectation of the Lord's return. Keeping the commandment implies discharging our duty faithfully and sincerely, preaching the pure Gospel without any adulteration. The ultimate goal is to fulfill our ministry with faithfulness and purity, ensuring that our works and ministry are blameless when Christ appears and we must give an account of ourselves.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.8039085765910055,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.32,
+            "commentatorTierSimilarities": [
+                36.27,
+                22.75,
+                40.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are called to faithfully keep the commandment and be without spot, continually anticipating the Lord's return. This entails discharging our duty with faithfulness and purity, faithfully preaching the pure Gospel without any adulteration. The ultimate goal is to fulfill our ministry blamelessly, so that when Christ appears, we may present ourselves faultless. We must be ready to give an account of our works and ministry when the day of Christ's appearing comes.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6123059957659365,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                26.39,
+                22.0,
+                51.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are exhorted to keep the commandment and so be without spot. This involves setting before ourselves the day of Christ's return and maintaining continual expectation. It is important to discharge our duties faithfully and sincerely, without any adulteration of the pure Gospel. The goal is to fulfill our ministry blamelessly, so that when Christ appears, we may be found unreproached. We must remember that every man's work and ministry will be made manifest, and we will be held accountable for our actions when Christ appears.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6243756700431955,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                29.27,
+                22.47,
+                48.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

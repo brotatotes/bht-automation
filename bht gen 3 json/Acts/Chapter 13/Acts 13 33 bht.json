@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:30:47",
+    "verseRef": "Acts 13:33",
+    "bestBHT": {
+        "bht": "The Apostle Paul emphasizes the fulfillment of God's promises regarding Jesus, particularly in regards to His resurrection from the dead as God hath completely fulfilled. Through the resurrection, Jesus is openly declared to be the Son of God, as the Psalmist prophesied, Thou art my Son, this day have I begotten thee. This resurrection serves as the ultimate manifestation of Jesus' sonship and brings Him to light as the begotten Son of God, fulfilling God's plan.",
+        "wordCount": 78,
+        "quoteTokenProportion": 34.0,
+        "qualityScore": 2.6322434581141145,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.86,
+        "commentatorTierSimilarities": [
+            22.28,
+            46.11,
+            31.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The term raised up is ambiguous: but here the meaning, from the dead, is absolutely required by the context.",
+            "The Apostle\u2019s emphasis throughout the passage is on the Resurrection as the final fulfillment of God\u2019s promises regarding Jesus.",
+            "St. Paul refers the prophecy in its full completion to the Resurrection of our Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God hath completely fulfilled.",
+            "Raised up... from the dead.",
+            "The resurrection of Christ merely as the manifestation of a prior Sonship."
+        ],
+        "Albert Barnes": [
+            "God hath fulfilled - God has completed or carried into effect by the resurrection of Jesus.",
+            "Paul uses the expression here as implying that the Lord Jesus is called the Son of God because he raised him up from the dead.",
+            "The resurrection from the dead is represented as in some sense the beginning of life, and it is with reference to this that the terms 'Son,' and 'begotten from the dead,' are used."
+        ],
+        "Marvin Vincent": [
+            "Hath fulfilled [\u03b5\u03ba\u03c0\u03b5\u03c0\u03bb\u03b7\u03c1\u03c9\u03ba\u03b5] . Completely fulfilled; force of ejk, out and out."
+        ],
+        "John Calvin": [
+            "Even those who are born the children of Abraham according to the flesh, are also counted the spiritual children of God, unless they grow out of kind through unbelief.",
+            "For it was promised to them also, as Zacharias saith in his song, 'The oath which he sware to our father Abraham, that he would give himself for us,' etc.",
+            "The Father did then bring him truly to light, that the world might know that he was begotten of him."
+        ],
+        "Philip Schaff": [
+            "God hath fulfilled. The Greek word here may be rendered \u2018hath completely fulfilled,\u2019 completely, because in the resurrection which is here about to be mentioned, the ascension and exaltation of Messiah are both involved.",
+            "Thou art my Son, this day have I begotten thee. The Eternal speaks in this psalm to Messiah, \u2018Thou art my Son, today the day of Thy resurrection I have declared Thee have exhibited Thee as begotten.\u2019 He had been the Son of God from all eternity; but by His triumphant resurrection after His humiliation He was openly declared or shown to be so.",
+            "Paul later expands the same great thought: \u2018He (Jesus Christ) was declared to be the Son of God with power, by the resurrection from the dead\u2019 (Romans 1:4)."
+        ],
+        "Archibald T. Robertson": [
+            "Hath filled out.",
+            "This raising up... refers not to resurrection, but to the sending of Jesus.",
+            "Psalms 2:7."
+        ],
+        "John Gill": [
+            "God hath fulfilled the same unto us their children...in that he hath raised up Jesus again.\" ",
+            "This psalm belongs to the Messiah, as is evident from the mention made of him...and especially from that reverence, worship, and adoration, which are to be given to him.",
+            "Things are said to be, when they are only manifested to be; so Christ is said to be that day begotten, because he was 'declared to be the Son of God with power, by the resurrection from the dead.'"
+        ],
+        "John Wesley": [
+            "Thou art my Son, this day have I begotten thee \u2014 It is true, he was the Son of God from eternity.",
+            "I have this day declared thee to be my Son.",
+            "God is said to have begotten him, on the day when he raised him from the dead, as he seemed then to be born out of the earth anew."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle Paul emphasizes the fulfillment of God's promises regarding Jesus, particularly in regards to His resurrection from the dead. This resurrection is seen as the manifestation of Jesus' sonship, as God raised him up as His Son. The Psalmist prophesied about this, declaring Thou art my Son, this day have I begotten thee. Through the resurrection, Jesus was openly declared to be the Son of God. The resurrection of Christ is the ultimate fulfillment of God's plan, bringing Jesus to light and demonstrating to the world that He was truly begotten by the Father.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.54545160226451,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.98,
+            "commentatorTierSimilarities": [
+                21.25,
+                45.05,
+                33.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle Paul emphasizes the fulfillment of God's promises regarding Jesus, particularly in regards to His resurrection from the dead as God hath completely fulfilled. Through the resurrection, Jesus is openly declared to be the Son of God, as the Psalmist prophesied, Thou art my Son, this day have I begotten thee. This resurrection serves as the ultimate manifestation of Jesus' sonship and brings Him to light as the begotten Son of God, fulfilling God's plan.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.6322434581141145,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.86,
+            "commentatorTierSimilarities": [
+                22.28,
+                46.11,
+                31.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle Paul highlights the fulfillment of God's promises concerning Jesus, specifically His resurrection from the dead. Through this act, Jesus is openly declared as the Son of God, in line with the prophecy, Thou art my Son, this day have I begotten thee. The resurrection serves as the ultimate realization of Jesus' sonship, as God hath completely fulfilled His plan. It brings Jesus to light, demonstrating to the world that He is truly the begotten Son of the Father.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.452245922007804,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.88,
+            "commentatorTierSimilarities": [
+                22.26,
+                43.76,
+                33.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle Paul emphasizes God's complete fulfillment of His promises through Jesus' resurrection from the dead, which openly declares Him as the Son of God. This fulfills the prophecy, Thou art my Son, this day have I begotten thee. The resurrection serves as the ultimate realization of Jesus' sonship, bringing Him to light and manifesting His true identity as the begotten Son of the Father.",
+            "wordCount": 66,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 2.431065295781565,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.17,
+            "commentatorTierSimilarities": [
+                20.55,
+                44.0,
+                35.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle Paul underscores the complete fulfillment of God's promises through Jesus' resurrection from the dead, openly declaring Him as the Son of God. This resurrection serves as the ultimate realization of Jesus' sonship, bringing Him to light and demonstrating His true identity as the begotten Son of the Father, just as prophesied, Thou art my Son, this day have I begotten thee.",
+            "wordCount": 64,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.5780046105612655,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.06,
+            "commentatorTierSimilarities": [
+                20.33,
+                46.09,
+                33.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

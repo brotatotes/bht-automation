@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:28:54",
+    "verseRef": "1 Timothy 4:12",
+    "bestBHT": {
+        "bht": "To overcome potential disdain due to your youth, strive to be respected through your actions. Be a shining example in both public and private speech, maintaining purity in your words and intentions. Embrace a life of moral and virtuous conduct, free from any impurity. Remember that genuine reverence is earned through the display of honorable virtues and a life devoted to righteousness, rather than relying on external symbols of authority. As a young minister, embody love, faithfulness, and integrity, ensuring your actions align with your calling.",
+        "wordCount": 86,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 1.7551683465659487,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+        "commentatorTierSimilarities": [
+            30.46,
+            36.12,
+            33.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Let no man despise thy youth\u2014Act so as to be respected in spite of thy youth.",
+            "He was, therefore, still young; especially in comparison with Paul, whose place he was filling.",
+            "Become a pattern... in all that thou sayest in public and private."
+        ],
+        "Albert Barnes": [
+            "Act as becomes a minister of the gospel in all things, and in such a way that people will respect you as such, though you are young.",
+            "A minister should so live, that if all his people should closely follow his example, their salvation would be secure, and they would make the highest possible attainments in piety.",
+            "In purity - In chasteness of life; there should be nothing in your contact with the other sex that would give rise to scandal."
+        ],
+        "Marvin Vincent": [
+            "In word [\u03b5\u03bd \u03bb\u03bf\u03b3\u03c9] . Including teaching and verbal intercourse of every kind.",
+            "Purity [\u03b1\u03b3\u03bd\u03b9\u03b1] . Only here and ch. 5 2. Covering purity in motives as well as in acts.",
+            "Agnothv purity, 2 Corinthians 6:6; 2 Corinthians 11:3. o LXX, o Class. Agnov always with a moral sense."
+        ],
+        "John Calvin": [
+            "Take care that, by gravity of demeanor, thou procure for thyself so great reverence, that thy youthful age, which, in other respects lays one open to contempt, may take nothing from thy authority.",
+            "Not external marks, such as the crosier, the ring, the cloak, and such like trifles, or children\u2019s rattles; but soundness of doctrine and holiness of life.",
+            "The only way of procuring reverence is, by excellent virtues, to guard ourselves against contempt."
+        ],
+        "Philip Schaff": [
+            "Let no man despise thy youth.\" ",
+            "Be thou an example.",
+            "Purity, as in 1 Timothy 4:2, with the special half-technical sense of 'chastity' in act, word, thought."
+        ],
+        "Archibald T. Robertson": [
+            "Despise... thy youth.",
+            "Be thou... an ensample.",
+            "In purity... of life."
+        ],
+        "John Gill": [
+            "Young men are sometimes honoured by God with great gifts, for usefulness both in church and state.",
+            "All that are in office in the church, especially in the ministry, whether old or young, should be ensamples to the flock.",
+            "In charity; in love to God, to Christ, and one another; without which, if a man has the tongue of men and angels, or ever such great and excellent gifts, he is nothing."
+        ],
+        "John Wesley": [
+            "Be a pattern in word - Public and private.",
+            "In spirit \u2014 In your whole temper.",
+            "In faith \u2014 When this is placed in the midst of several other Christian graces, it generally means a particular branch of it; fidelity or faithfulness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Act in such a way that you are respected and not despised due to your youth. Be an example to others in both your public and private speech, ensuring that your words are pure and devoid of any impure motives. Live a life of chastity and integrity, so that there is no room for scandal when it comes to your interactions with others. Remember that reverence can only be earned through the display of excellent virtues and a holy life, rather than relying on external markers of authority. As a young minister, it is essential to embody love and faithfulness, as these form the foundation of your calling.",
+            "wordCount": 108,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.7947703838847282,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                27.62,
+                39.34,
+                33.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In order to combat any potential disregard for your youth, it is crucial to conduct yourself in a manner that demands respect. Become a model for others in both your public and private discourse, ensuring that your words are always pure and free from impure motives. Live a life of purity, both in actions and intentions, to avoid any hint of scandal. Remember that true reverence is earned through the manifestation of righteous virtues and a life of holiness, rather than relying on external symbols of authority. As a young minister, exemplify love, faithfulness, and integrity in all your endeavors.",
+            "wordCount": 100,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.7420591738481677,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.27,
+            "commentatorTierSimilarities": [
+                29.02,
+                38.6,
+                32.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Ensure that your youth is not a factor in being despised by others. Act in a manner that commands respect, serving as an example in both public and private communication. Let your words be pure and devoid of impure motives. Lead a life of integrity and chastity, avoiding any actions that could lead to scandal. Revere worthy virtues and a holy existence, rather than relying on external symbols of authority, to earn respect. Embody love, faithfulness, and integrity as a young minister.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.6227140559067887,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.3,
+            "commentatorTierSimilarities": [
+                29.33,
+                38.19,
+                32.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To overcome potential disdain due to your youth, strive to be respected through your actions. Be a shining example in both public and private speech, maintaining purity in your words and intentions. Embrace a life of moral and virtuous conduct, free from any impurity. Remember that genuine reverence is earned through the display of honorable virtues and a life devoted to righteousness, rather than relying on external symbols of authority. As a young minister, embody love, faithfulness, and integrity, ensuring your actions align with your calling.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.7551683465659487,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                30.46,
+                36.12,
+                33.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To avoid contempt for your youth, conduct yourself in a manner that demands respect. Be an example to others in both your public and private discourse, maintaining purity in both speech and motives. Live a life of integrity and chastity, so as to avoid scandal. Remember that true reverence is earned through the display of virtuous qualities and a holy life, rather than relying on external markers of authority. As a young minister, embody love, faithfulness, and integrity in all aspects of your ministry.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.733028882285458,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+            "commentatorTierSimilarities": [
+                28.49,
+                37.25,
+                34.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

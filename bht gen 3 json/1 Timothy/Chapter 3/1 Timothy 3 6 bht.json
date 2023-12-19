@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:28:20",
+    "verseRef": "1 Timothy 3:6",
+    "bestBHT": {
+        "bht": "To ordain a person filled with pride and self-conceit to the ministry would be unwise, as they would be blinded by their inflated sense of importance. It is crucial to ensure that the candidate for ministry is not a novice, someone newly planted in the church, as they have not yet been tested and matured through trials and temptations. The condemnation of the devil serves as a warning against the consequences of pride. Therefore, exercising caution and not hastily elevating a young convert to a position of leadership in the church is essential.",
+        "wordCount": 94,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.8801128839987467,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+        "commentatorTierSimilarities": [
+            28.85,
+            33.4,
+            37.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To ordain such a person to the ministry would, for the reason here assigned, be most unadvisable.",
+            "Hence the verb, which is used only in this metaphorical sense, means to be thus blinded, or bewildered, with pride or self-conceit.",
+            "In deciding between the above, one question must first be answered: are we obliged to preserve the same character of the genitive in verses 6 and 7? because, if so, we must manifestly take [2]: for the words there [see below] cannot bear any other meaning than \u2018the [reproach and] snare which the devil lays.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The young convert has not yet been disciplined and matured by afflictions and temptations.",
+            "Inflated with self-conceit and exaggerated ideas of his own importance, he cannot see himself or others in the true light.",
+            "Pride was the cause of Satan's condemnation."
+        ],
+        "Albert Barnes": [
+            "Not a novice...means, properly, that which is 'newly planted.' Thus it would mean a plant that was not strong, or not fitted to bear the severity of storms; that had not as yet struck its roots deep, and could not resist the fierceness of a cold blast.\" ",
+            "He would be likely to be elated by being entrusted at once with the highest office in the church, and by the commendations and flattery which he might receive.",
+            "The idea of Paul is, that a young convert should not suddenly be raised to an exalted station in the church. Who can doubt the wisdom of this direction?"
+        ],
+        "Marvin Vincent": [
+            "After the ceremony of baptism the neophytes wore white garments for eight days, from Easter eve until the Sunday after Easter.",
+            "The verb means primarily to make a smoke : hence, metaphorically, to blind with pride or conceit.",
+            "The phrase judgment of the devil probably means the accusing judgment of the devil, and not the judgment passed upon the devil."
+        ],
+        "John Calvin": [
+            "Not a novice...it is evident that they are commonly vain, and full of ostentation, and, in consequence of this, haughtiness and ambition will drive them headlong.",
+            "Consequently, it is not without reason that they are excluded from the honor of a bishopric, till, in process of time their proud temper shall be subdued.",
+            "If he who is placed over the Church of God fall, by his pride, into the same condemnation with the devil."
+        ],
+        "Philip Schaff": [
+            "Not referring to general inexperience, but specially to the state of one newly planted in the Church by conversion, and yet more definitely by baptism.",
+            "The neophyte suddenly raised to power is excited as by the fever of authority, and, as we say, 'loses his head.'",
+            "The words imply a reference to the Rabbinic view of the history of Satan, how, created in perfect excellence, his first act was to admire himself, and so, fevered with ambition, to aspire after equality with God, and thus to bring upon himself the sentence of condemnation."
+        ],
+        "Archibald T. Robertson": [
+            "Not a novice (\u03bc\u03b7 \u03bd\u03b5\u03bf\u03c6\u03c5\u03c4\u03bf\u03bd). Our 'neophyte.' Vernacular word from Aristophanes on, in LXX, and in papyri in the original sense of 'newly-planted' (\u03bd\u03b5\u03bf\u03c3, \u03c6\u03c5\u03c9). Only here in N.T.\" ",
+            "Being puffed up (\u03c4\u03c5\u03c6\u03c9\u03b8\u03b5\u03b9\u03c2). First aorist passive participle of \u03c4\u03c5\u03c6\u03bf\u03c9, old word (from \u03c4\u03c5\u03c6\u03bf\u03c2, smoke, pride), to raise a smoke or mist (a smoke-screen of pride). In N.T. only here; 1 Timothy 6:4; 2 Timothy 3:4.",
+            "The condemnation of the devil (\u03ba\u03c1\u03b9\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b2\u03bf\u03bb\u03bf\u03c5). See Romans 3:8 for \u03ba\u03c1\u03b9\u03bc\u03b1. Best to take \u03c4\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b2\u03bf\u03bb\u03bf\u03c5 as objective genitive, though subjective in verse 1 Timothy 3:7, 'the condemnation passed on or received by the devil' (not just 'the slanderer,' any slanderer)."
+        ],
+        "John Gill": [
+            "The reason why such a person should not be a bishop, elder, or pastor of a church, is, lest being lifted up with pride.",
+            "Pride on account of these is apt to creep in, and swell and elate the minds of young professors especially; so that there is danger that he fall into the condemnation of the devil.",
+            "For it seems from hence, that pride was the first sin of the devil, and the cause of his apostasy from God."
+        ],
+        "John Wesley": [
+            "Lest being puffed up \u2014 With this new honour, or with the applause which frequently follows it.",
+            "He fall into the condemnation of the devil \u2014 The same into which the devil fell."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To ordain a person who is filled with pride and self-conceit to the ministry would be unwise, as they would be blinded by their inflated sense of importance. This is why it is crucial to ensure that the candidate for ministry is not a novice. A novice, as someone newly planted in the church, has not yet been tested and matured through trials and temptations. The condemnation of the devil serves as a warning, reminding us of the consequences of pride. Therefore, it is essential to exercise caution and not hastily elevate a young convert to a position of leadership in the church, as they may be easily swayed by flattery and not yet equipped to handle the challenges and responsibilities that come with such a role.",
+            "wordCount": 128,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.7356491634278415,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.05,
+            "commentatorTierSimilarities": [
+                29.18,
+                35.96,
+                34.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To ordain a person filled with pride and self-conceit to the ministry would be unwise, as they would be blinded by their inflated sense of importance. It is crucial to ensure that the candidate for ministry is not a novice, someone newly planted in the church, as they have not yet been tested and matured through trials and temptations. The condemnation of the devil serves as a warning against the consequences of pride. Therefore, exercising caution and not hastily elevating a young convert to a position of leadership in the church is essential.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8801128839987467,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+            "commentatorTierSimilarities": [
+                28.85,
+                33.4,
+                37.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To ordain a person filled with pride and self-conceit to the ministry would be unwise, as they would be blinded by their inflated sense of importance. One must exercise caution and not hastily elevate a young convert to a position of leadership in the church, as they may be easily swayed by flattery and not yet equipped to handle the responsibilities. The condemnation of the devil serves as a warning, reminding us of the consequences of pride. It is crucial to ensure that the candidate for ministry is not a novice, someone newly planted in the church, as they have not yet been tested and matured.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.9045454848058139,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                28.93,
+                36.66,
+                34.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To ordain a person filled with pride and self-conceit to the ministry would be unwise, as they would be blinded by their inflated sense of importance. It is crucial to exercise caution and not hastily elevate a young convert to a position of leadership in the church, as they may be easily swayed by flattery and not yet equipped to handle the responsibilities. The condemnation of the devil serves as a warning, reminding us of the consequences of pride. Therefore, it is essential to ensure that the candidate for ministry is not a novice, someone newly planted in the church, as they have not yet been tested and matured.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8695226009634207,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                28.35,
+                36.38,
+                35.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To ordain a person filled with pride and self-conceit to the ministry would be unwise, as they would be blinded by their inflated sense of importance. Exercising caution is essential to avoid hastily elevating a young convert to a position of leadership in the church, as they may be easily swayed by flattery and not yet equipped to handle the responsibilities. The condemnation of the devil serves as a warning of the consequences of pride. Therefore, it is crucial to ensure that the candidate for ministry is not a novice, someone newly planted in the church, to avoid potential pitfalls.",
+            "wordCount": 101,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.8728848790810382,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                28.0,
+                34.65,
+                37.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

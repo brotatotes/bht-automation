@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 15:18:39",
+    "verseRef": "2 Corinthians 12:18",
+    "bestBHT": {
+        "bht": "In defending himself against accusations, Paul asks the Corinthians if Titus had taken advantage of them. Both Paul and Titus acted with integrity, guided by the same Spirit, and demonstrated a genuine love for the Corinthians. Paul reminds them of the kind treatment Titus received during his previous mission, emphasizing that their actions mirrored his own. Their shared commitment to preaching the Gospel free from greed and deceit establishes a solid foundation for trust and unity among the believers.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.7282844909659656,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.81,
+        "commentatorTierSimilarities": [
+            29.71,
+            38.9,
+            31.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Spirit in which they walked was the Holy Spirit.",
+            "In the same footsteps, viz. each as the other: they did not in the minutest particular deviate from my path.",
+            "This brother was quite subordinate to Titus in the mission."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not the mission mentioned 2 Corinthians 8:6; 2 Corinthians 8:17; 2 Corinthians 8:22; but a mission previous to this Epistle.",
+            "Our (literally, 'the') brother; one well known to the Corinthians, and perhaps a Corinthian.",
+            "Same spirit - inwardly; steps - outwardly."
+        ],
+        "Albert Barnes": [
+            "They had received him kindly, treated him with affection, and sent him away with every proof of confidence and respect; see 2 Corinthians 7:7. How then could they now pretend that he had defrauded them?",
+            "Did not all his actions resemble mine? Was there not the same proof of honesty, sincerity, and love which I have ever manifested?",
+            "He now boldly appeals to them and asks whether Titus and he had not in fact acted in the same manner; and whether they had not alike evinced a spirit free from covetousness and deceit?"
+        ],
+        "Archibald T. Robertson": [
+            "Did Titus take advantage of you? (\u03bc\u03b7\u03c4 \u03b5\u03c0\u03bb\u03b5\u03bf\u03bd\u03b5\u03ba\u03c4\u03b7\u03c3\u03b5\u03bd \u03c5\u03bc\u03b1\u03c2 \u03a4\u03b9\u03c4\u03bf\u03c3?). That puts the issue squarely.",
+            "By the same Spirit (\u03c4\u03c9 \u03b1\u03c5\u03c4\u03c9 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4). That translation refers to the Holy Spirit and makes the case instrumental.",
+            "The locative case, 'in the same spirit,' makes it mean that Paul's attitude is the same as that of Titus and most likely is correct."
+        ],
+        "John Gill": [
+            "Did Titus make a gain of you? Did he greedily desire your substance? Did he show an avaricious temper, or a covetous inclination after your money?",
+            "Walked we not in the same Spirit? In the same Spirit of God, being directed and influenced by him; or in the same disposition of mind, being agreed and determined to preach the Gospel freely, and receive nothing for it.",
+            "The apostle suggests, that where are the same Spirit, temper, disposition, and principles, there will be the same works and actions; and as for covetousness, it is neither agreeable to the Spirit of God, nor to the spirit of a Christian."
+        ],
+        "John Wesley": [
+            "I desired Titus \u2014 To go to you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of addressing accusations made against him, the Apostle Paul appeals to the Corinthians, questioning whether Titus had taken advantage of them in any way. Paul asserts that both he and Titus walked in the same Spirit, guided by the Holy Spirit, and exhibited the same spirit, integrity, and genuine love toward the Corinthians. He reminds them of the previous mission carried out by Titus, during which he was treated with kindness and respect. Paul emphasizes that their actions were in complete harmony with his own, as they were motivated by the same Spirit and driven by a sincere desire to preach the Gospel without any ulterior motives. Ultimately, Paul's aim is to confront the allegations raised against them and establish a firm foundation of trust and unity among the believers.",
+            "wordCount": 134,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 1.785337446005228,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.7,
+            "commentatorTierSimilarities": [
+                30.73,
+                38.13,
+                31.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In defending himself against accusations, Paul asks the Corinthians if Titus had taken advantage of them. Both Paul and Titus acted with integrity, guided by the same Spirit, and demonstrated a genuine love for the Corinthians. Paul reminds them of the kind treatment Titus received during his previous mission, emphasizing that their actions mirrored his own. Their shared commitment to preaching the Gospel free from greed and deceit establishes a solid foundation for trust and unity among the believers.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7282844909659656,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.81,
+            "commentatorTierSimilarities": [
+                29.71,
+                38.9,
+                31.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul raises a crucial question to the Corinthians, questioning whether Titus had made a gain of them or demonstrated any covetousness. Both Paul and Titus exemplified the same Spirit, both inwardly and outwardly, as they were driven and influenced by the Holy Spirit. By emphasizing the alignment of their attitudes and actions, Paul seeks to establish trust in their genuine intentions and disprove any accusations of deceit or greed. The shared commitment to preaching the Gospel freely and without ulterior motives is a reflection of their unified spirit and purpose.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.724377351530598,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.68,
+            "commentatorTierSimilarities": [
+                29.53,
+                37.67,
+                32.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul addresses allegations against Titus, asserting that they both walked in the same Spirit. He questions whether Titus had made a gain of the Corinthians, emphasizing their shared commitment to preaching the Gospel freely and without covetousness. Paul draws attention to their aligned attitudes and actions, seeking to discredit accusations of deceit or greed. Their unified spirit and purpose, guided by the Holy Spirit, serves as evidence of their genuine intentions and builds trust among the believers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6863197996667396,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.41,
+            "commentatorTierSimilarities": [
+                29.08,
+                39.3,
+                31.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In response to accusations, Paul questions whether Titus had taken advantage or shown covetousness towards the Corinthians, emphasizing their shared commitment to walking in the same Spirit. He seeks to establish the authenticity of their actions and disprove any allegations of deceit or greed. Their unified disposition and genuine love, motivated by the Holy Spirit, serve as evidence of their sincere intentions. Paul's appeal aims to restore trust and unity among the believers, highlighting the harmony between his actions and those of Titus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.61139015685036,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.92,
+            "commentatorTierSimilarities": [
+                24.6,
+                45.95,
+                29.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

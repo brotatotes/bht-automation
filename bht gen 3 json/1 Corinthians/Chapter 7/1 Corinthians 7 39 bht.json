@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:07:38",
+    "verseRef": "1 Corinthians 7:39",
+    "bestBHT": {
+        "bht": "A widow is bound in her marriage state only in the Lord; she should marry a Christian. Marrying a non-believer can hinder her usefulness, interfere with religious duties, and lead to a loss of comfort, peace, and usefulness in married life. It is important for widows to consider religiously-formed marriages, guided by the fear of the Lord.",
+        "wordCount": 59,
+        "quoteTokenProportion": 35.56,
+        "qualityScore": 2.1862444990826306,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+        "commentatorTierSimilarities": [
+            24.75,
+            32.34,
+            42.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "is bound, in her marriage state. only in the Lord",
+            "within the limits of Christian connexion",
+            "let her marry a Christian"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "39. bound by the law\u2014The",
+            "\toldest manuscripts omit \"by the law.\" ",
+            "\t",
+            "only in the Lord\u2014Let",
+            "\ther marry only a Christian ( :-)."
+        ],
+        "Albert Barnes": [
+            "If Christians were required to be 'separate,' to be 'a special people,' not 'to be conformed to the world,' how could these precepts be obeyed if the society of a pagan was voluntarily chosen, and if she became united to him for life?",
+            "She would in this way greatly hinder her usefulness; put herself in the control of one who had no respect for her religion, and who would demand her time and attention, and thus interfere with her attendance on the public and private duties of religion, and the offices of Christian charity.",
+            "They [such marriages] should not on any plea be entered into; and it will be found, in perhaps nearly all instances, that they are disastrous to the piety of the married Christian, and the occasion of ultimate regret, and the cause of a loss of comfort, peace, and usefulness in the married life."
+        ],
+        "Marvin Vincent": [
+            "Be dead [\u03ba\u03bf\u03b9\u03bc\u03b7\u03b8\u03b7] . Lit., have fallen asleep.\" ",
+            "Here the inference is more personal, which is perhaps the reason for his using the more tender expression.",
+            "Paul is discussing the abstract question."
+        ],
+        "John Calvin": [
+            "No hindrance ought to be thrown in the way of widows' marrying, if they think proper.",
+            "If a woman is bound to her husband for life, she is, then, set at liberty by his death.",
+            "Marriages should be formed auspiciously in a religious way, and in the fear of the Lord."
+        ],
+        "Archibald T. Robertson": [
+            "This is the ideal and is pertinent today when husbands meet their ex-wives and wives meet their ex-husbands. There is a screw loose somewhere.\" ",
+            "Paul leaves her free here also to be married again, 'only in the Lord.'\" ",
+            "Every marriage ought to be 'in the Lord.'"
+        ],
+        "John Gill": [
+            "The wife is bound by the law as long as her husband liveth... she is bound to her husband, by the law of marriage, during his life... except in the cases of adultery, and wilful desertion.\" ",
+            "Death is often expressed by sleeping in Scripture... The dead will not always remain in such a state, but be raised from thence at the last day, just as persons are awaked out of sleep.\" ",
+            "The liberty of a widow is greater than that of a virgin... death having dissolved her former obligation, she is at entire liberty to marry, or not marry, and to marry whom she pleases, that is not forbidden by the laws of God."
+        ],
+        "John Wesley": [
+            "Only in the Lord \u2014 That is, only if Christians marry Christians: a standing direction, and one of the utmost importance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A widow is bound in her marriage state only in the Lord, meaning that she should only marry a Christian. This ideal is relevant even today, as it is important for every marriage to be in the Lord. If a widow chooses to marry a non-believer, it can hinder her usefulness and interfere with her commitment to her faith. Such marriages are often regretted and result in a loss of comfort, peace, and usefulness in the married life. It is therefore advised that widows carefully consider entering into marriages that are formed in a religious way, in line with the fear of the Lord.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.0777736822236297,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.43,
+            "commentatorTierSimilarities": [
+                23.85,
+                33.72,
+                42.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A widow is bound in her marriage only in the Lord, meaning she should marry a Christian. This ideal is pertinent today, as marriages should be in the Lord for the utmost importance. It is advised to avoid marriages to non-believers, as they can hinder one's usefulness and interfere with religious duties. Such marriages often lead to regret, loss of comfort, peace, and usefulness. It is therefore crucial for widows to carefully consider religiously-formed marriages in the fear of the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9792795252172684,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                23.58,
+                33.98,
+                42.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A widow is bound in her marriage state only in the Lord, meaning she should marry a Christian. It is advised to avoid marriages to non-believers, as it can hinder one's usefulness and interfere with religious duties. Such marriages often lead to loss of comfort, peace, and usefulness. It is crucial for widows to consider religiously-formed marriages, respecting the fear of the Lord.",
+            "wordCount": 66,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.0047661113614548,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                22.63,
+                35.39,
+                41.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A widow is only bound in her marriage state in the Lord, meaning that she should marry a Christian. Marriages to non-believers can hinder one's usefulness and interfere with religious duties, resulting in a loss of comfort, peace, and usefulness in married life. Therefore, it is crucial for widows to carefully consider entering into marriages that are formed in a religious way, in line with the fear of the Lord.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.184562375681305,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.98,
+            "commentatorTierSimilarities": [
+                23.42,
+                34.35,
+                42.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A widow is bound in her marriage state only in the Lord; she should marry a Christian. Marrying a non-believer can hinder her usefulness, interfere with religious duties, and lead to a loss of comfort, peace, and usefulness in married life. It is important for widows to consider religiously-formed marriages, guided by the fear of the Lord.",
+            "wordCount": 59,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 2.1862444990826306,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+            "commentatorTierSimilarities": [
+                24.75,
+                32.34,
+                42.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

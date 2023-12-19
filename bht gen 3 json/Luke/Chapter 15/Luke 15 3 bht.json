@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:20:03",
+    "verseRef": "Luke 15:3",
+    "bestBHT": {
+        "bht": "Jesus tells the parable of the lost sheep to illustrate the great love and care the Good Shepherd has for His sheep. No matter how far they wander, the shepherd diligently seeks them out and rejoices when they are found. This parable, along with other stories, demonstrates Jesus' mission to champion the lost and defends His actions. The three key episodes form a climactic progression, emphasizing the significance of the sheep, the coin, and the beloved son. These parables speak to both the conviction of the Pharisees and the encouragement of sinners.",
+        "wordCount": 92,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.7266206132630697,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+        "commentatorTierSimilarities": [
+            36.15,
+            27.02,
+            36.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "to show how precious one of His sheep is to the Good Shepherd",
+            "the shepherd, though the sheep stray never so widely, will seek it out",
+            "when he hath found, will rejoice over it"
+        ],
+        "Albert Barnes": [
+            "This parable - See the notes at Matthew 13:3."
+        ],
+        "Philip Schaff": [
+            "In his uncertainty, he carefully considered the case, and this is the point in which the children of this world are so often wiser than the children of light.",
+            "His life of luxury had unfitted him for that.",
+            "Because of his past position. This graphic description presents certain points of human character, but cannot be further used in the interpretation."
+        ],
+        "Archibald T. Robertson": [
+            "The figure of the Good Shepherd appears also in John 10:1-18.\" ",
+            "Jesus champions the lost and accepts the challenge and justifies his conduct by these superb stories.\" ",
+            "The three Episodes form a climax: The Pasture--the House--the Home; the Herdsman--the Housewife--the Father; the Sheep--the Treasure--the Beloved Son."
+        ],
+        "John Gill": [
+            "To the Pharisees, for their conviction and confutation; and to the publicans and sinners for their encouragement.\" ",
+            "And in vindication of himself; and not only this, but the other two, concerning the lost piece of money, and the prodigal son, which were said at this time, and on the same occasion.",
+            "For their encouragement."
+        ],
+        "John Wesley": [
+            "Three parables of the same import: for the sheep, the piece of silver, and the lost son, all declare (in direct contrariety to the Pharisees and scribes) in what manner God receiveth sinners.",
+            "Three parables of the same import...",
+            "All declare (in direct contrariety to the Pharisees and scribes) in what manner God receiveth sinners."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 15:3, Jesus uses the parable of the lost sheep to illustrate the deep care and love the Good Shepherd has for each of His sheep. No matter how far the sheep may stray, the shepherd always seeks it out and rejoices when it is found. This parable is part of a series of stories where Jesus champions the lost and justifies His conduct. The three episodes, including the lost sheep, the lost coin, and the prodigal son, all convey the same message of how God receives sinners. Through these parables, Jesus is not only addressing the Pharisees and confuting them, but also providing encouragement to the publicans and sinners.",
+            "wordCount": 110,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.8271442308039125,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
+            "commentatorTierSimilarities": [
+                37.19,
+                26.22,
+                36.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, known as the Good Shepherd, shows the preciousness He places on each of His sheep by seeking them out and rejoicing when they are found. In Luke, the parable of the lost sheep serves as an example of God's unwavering love and care for His people, challenging the Pharisees' view and offering encouragement to the sinners. Through this story, Jesus presents a series of parables that highlight how God receives sinners, emphasizing the importance of repentance and the joy found in reconciliation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7638343806256278,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.99,
+            "commentatorTierSimilarities": [
+                32.87,
+                26.66,
+                40.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the lost sheep serves to demonstrate the immense value the Good Shepherd places on each of His sheep. Even if they wander far, the shepherd diligently seeks and finds them, celebrating their return. This story, along with others, showcases Jesus' stance on championing the lost and justifying His actions. The three episodes, including the lost sheep, the lost coin, and the prodigal son, all convey the same message of how God receives sinners. Through these parables, Jesus addresses and challenges the Pharisees, while offering encouragement to sinners.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.7198820043952858,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                36.27,
+                25.71,
+                38.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus tells the parable of the lost sheep to illustrate the great love and care the Good Shepherd has for His sheep. No matter how far they wander, the shepherd diligently seeks them out and rejoices when they are found. This parable, along with other stories, demonstrates Jesus' mission to champion the lost and defends His actions. The three key episodes form a climactic progression, emphasizing the significance of the sheep, the coin, and the beloved son. These parables speak to both the conviction of the Pharisees and the encouragement of sinners.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.7266206132630697,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                36.15,
+                27.02,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the lost sheep in Luke 15:3 reveals the deep affection of the Good Shepherd for each of His sheep. No matter how far they wander, the shepherd takes the initiative to seek them out, rejoicing when they are found. This parable, along with others, showcases Jesus' commitment to defending the lost and justifying His actions. The three episodes, including the lost sheep, the lost coin, and the prodigal son, all demonstrate the same message of how God embraces sinners. Both the Pharisees and sinners find conviction and encouragement through these parables.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.7340323871700072,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                34.04,
+                26.18,
+                39.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

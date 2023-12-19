@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:32:41",
+    "verseRef": "Ephesians 4:27",
+    "bestBHT": {
+        "bht": "Do not give the devil an opportunity by harboring anger, as this provides him with a foothold to wreak havoc. The term diabolos always refers to the slanderer, emphasizing the personal nature of the devil's influence. Yielding to temptation and nurturing feelings of resentment only serve to allow the devil to lead us astray. It is crucial to curb our temper and resist anger in order to protect our hearts from the enemy's schemes. By guarding against sinful anger, we maintain our allegiance to Christ and prevent the devil from sabotaging our testimony.",
+        "wordCount": 95,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 2.052640945350456,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+        "commentatorTierSimilarities": [
+            18.9,
+            46.87,
+            34.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "nor again (there is a slight climax: see below) give scope (opportunity of action, which you would do by continuing in a state of irritation) to the devil",
+            "not, to the slanderer, as some attempt to make it mean: the word 'diabolos' as a substantive always has this personal meaning in the New Test."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "27. Neither give place\u2014that",
+            "\tis, occasion, or scope, to the devil, by continuing in",
+            "\t\"wrath.\" The keeping of anger through the darkness of",
+            "\tnight, is giving place to the devil, the prince of darkness ( :-)."
+        ],
+        "Albert Barnes": [
+            "Do not yield to the suggestions and temptations of Satan, who would take every opportunity to persuade you to cherish unkind and angry feelings, and to keep up a spirit of resentment among brethren.",
+            "Many of our feelings, when we suppose we are merely defending our rights, and securing what is our own, are produced by the temptations of the devil.",
+            "The devil is always busy when we are angry, and in some way, if possible, will lead us into sin; and the best way to avoid his wiles is to curb the temper, and restrain even sudden anger."
+        ],
+        "Marvin Vincent": [
+            "Place. Room."
+        ],
+        "John Calvin": [
+            "Paul\u2019s intention was, to guard us against allowing Satan to take possession of our minds, and, by keeping in his hands this citadel, to do whatever he pleases.",
+            "We feel every day how impossible, or, at least, how difficult it is to cure long-continued hatred.",
+            "Before the poison of hatred has found its way into the heart, anger must be thoroughly dislodged."
+        ],
+        "Philip Schaff": [
+            "Give place, give free play, room in the heart, to the devil.",
+            "The clause gives a reason why sinful anger should be avoided: it opens to Satan the heart which has been redeemed from his power by Christ.",
+            "It is doubtful if the word diabolos ever means simply slanderer, or blasphemer, when used as a noun."
+        ],
+        "Archibald T. Robertson": [
+            "Neither give place to the devil.\" ",
+            "Present active imperative in prohibition, either stop doing it or do not have the habit.\" ",
+            "See Romans 12:19 for this idiom."
+        ],
+        "John Gill": [
+            "Neither give place to the devil.\" ",
+            "Give such no room, nor reason, to calumniate the doctrine and ways of Christ, through an unbecoming conversation, by lying and sinful anger, or by other means.",
+            "Do not give way to Satan, which is done, when men indulge any lust or corruption; and when they easily fall in with his suggestions and temptations; when they are off of their watch and guard; and when they do not resist, but quietly yield unto him."
+        ],
+        "John Wesley": [
+            "Neither give place to the devil \u2014 By any delay."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not give the devil an opportunity to work in you by continuing in a state of anger and resentment. The word diabolos in this verse always refers to the slanderer, which shows that we should not allow room for Satan to tempt us into unkind and angry feelings. The devil seeks to lead us into sin, especially when we are angry, so it is important to restrain our temper and avoid giving him an opening in our hearts. By avoiding sinful anger, we prevent Satan from gaining control over us and tarnishing the message of Christ.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.2568267645853712,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.38,
+            "commentatorTierSimilarities": [
+                18.84,
+                48.19,
+                32.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not give the devil an opportunity by harboring anger, as this provides him with a foothold to wreak havoc. The term diabolos always refers to the slanderer, emphasizing the personal nature of the devil's influence. Yielding to temptation and nurturing feelings of resentment only serve to allow the devil to lead us astray. It is crucial to curb our temper and resist anger in order to protect our hearts from the enemy's schemes. By guarding against sinful anger, we maintain our allegiance to Christ and prevent the devil from sabotaging our testimony.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.052640945350456,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                18.9,
+                46.87,
+                34.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Avoid giving the devil an opportunity to work in your life by harboring anger and resentment. The word diabolos always refers to the slanderer, highlighting the personal nature of the devil's influence. By restraining our temper and resisting anger, we prevent the enemy from leading us into sin. It is important to remember that anger provides an opening for the devil to gain control over us. Therefore, we must strive to maintain a heart free from sinful anger in order to protect ourselves from the schemes of the devil.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.0525784887034,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                19.02,
+                47.34,
+                33.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To avoid the schemes of the devil, refrain from giving him an opportunity to work in your life through anger and resentment. The term diabolos always refers to the slanderer, emphasizing the personal nature of Satan's influence. By curbing your temper and resisting anger, you prevent the enemy from leading you astray. Be mindful that anger gives the devil a foothold in your life, so it is crucial to keep your heart free from sinful anger. This safeguards your testimony and shields you from the devil's schemes.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9332468133938527,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.62,
+            "commentatorTierSimilarities": [
+                19.31,
+                46.32,
+                34.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To protect yourself from the devil's influence, do not give him an opportunity by allowing anger and resentment to take root in your heart. The term diabolos always denotes the slanderer, emphasizing the personal nature of the devil's presence. By restraining your temper and resisting anger, you thwart the enemy's attempts to lead you astray. Remember that harboring anger paves the way for the devil to gain control. Therefore, it is vital to maintain a heart free from sinful anger and protect yourself from the devil's cunning tactics.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.027133717988102,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                19.14,
+                47.14,
+                33.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

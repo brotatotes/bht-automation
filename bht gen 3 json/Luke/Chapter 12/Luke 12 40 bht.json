@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 16:18:55",
+    "verseRef": "Luke 12:40",
+    "bestBHT": {
+        "bht": "In light of Matthew's comparison, we are urged to keep on becoming ready, actively exercising grace and fulfilling our duties. This readiness refers to being prepared for the forthcoming Jerusalem destruction and our own deaths, as well as the final judgment. Through the imputed righteousness of Christ and the impartation of His grace, we can have a comforting perspective on the destruction and a gracious experience of the judgment. This readiness leads us to engage in good works and become fit for the coming of Christ.",
+        "wordCount": 87,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.0425936533167566,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.01,
+        "commentatorTierSimilarities": [
+            27.34,
+            0.0,
+            72.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Be ye (\u03b3\u03b9\u03bd\u03b5\u03c3\u03b8\u03b5). Present middle imperative, keep on becoming.",
+            "Cometh (\u03b5\u03c1\u03c7\u03b5\u03c4\u03b1). Futuristic present indicative. See Matthew 24:43-51 for details in the comparison with Luke. "
+        ],
+        "John Gill": [
+            "Be ye therefore ready also,.... Not habitually, but actually, in the exercise of grace, and the discharge of duty, with loins girt, and lights burning.",
+            "This may be understood either of a readiness to meet the Lord in the way of his judgments, and particularly the destruction of Jerusalem, which was to be in a few years; or of a preparation for death, and the last judgment, which lies in the righteousness of Christ imputed, and his grace imparted.",
+            "And to have a comfortable view of the one, and a gracious experience of the other, as they will engage to the performance of good works, to which such are ready; so they make meet for the coming of Christ, be it in what way, and whensoever it will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In light of the comparison with Matthew, we are urged to keep on becoming ready, actively exercising grace and fulfilling our duties. This readiness refers to being prepared for both the forthcoming destruction of Jerusalem and our own deaths, as well as the final judgment. Through the imputed righteousness of Christ and the impartation of His grace, we can have a comforting perspective on the destruction and a gracious experience of the judgment. Ultimately, this readiness leads us to engage in good works and become fit for the coming of Christ, whenever and however it may occur.",
+            "wordCount": 97,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.03821136868607,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.86,
+            "commentatorTierSimilarities": [
+                25.71,
+                0.0,
+                74.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In light of Matthew's comparison, we are urged to keep on becoming ready, actively exercising grace and fulfilling our duties. This readiness refers to being prepared for the forthcoming Jerusalem destruction and our own deaths, as well as the final judgment. Through the imputed righteousness of Christ and the impartation of His grace, we can have a comforting perspective on the destruction and a gracious experience of the judgment. This readiness leads us to engage in good works and become fit for the coming of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.0425936533167566,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.01,
+            "commentatorTierSimilarities": [
+                27.34,
+                0.0,
+                72.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In light of Matthew's comparison, we are encouraged to actively keep on becoming ready, exercising grace, and fulfilling our duties. This readiness encompasses being prepared for the forthcoming destruction of Jerusalem, as well as our own deaths and the final judgment. Through the imputed righteousness of Christ and the impartation of His grace, we gain a comforting perspective on the destruction and a gracious experience of the judgment. Ultimately, this readiness leads us to engage in good works, preparing us for the coming of Christ in any way and at any time.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 0.994770746862446,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.42,
+            "commentatorTierSimilarities": [
+                25.52,
+                0.0,
+                74.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In light of Matthew's comparison, we are urged to actively keep on becoming ready, exercising grace, and fulfilling our duties. This readiness includes being prepared for the imminent destruction of Jerusalem, as well as death and the final judgment. Through the imputed righteousness of Christ and the imparted grace, we gain a comforting perspective on the destruction and a gracious experience of the judgment. Ultimately, this readiness motivates us to engage in good works, making us fit for the coming of Christ, regardless of when or how it happens.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 0.9458628623053718,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.79,
+            "commentatorTierSimilarities": [
+                22.83,
+                0.0,
+                77.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Matthew's comparison, we're called to actively keep on becoming ready, exercising grace, and fulfilling our duties. This readiness involves being prepared for the imminent destruction of Jerusalem, as well as death and the final judgment. Through Christ's imputed righteousness and imparted grace, we gain a comforting perspective on the destruction and a gracious experience of the judgment. Ultimately, this readiness inspires us to engage in good works, preparing us for the coming of Christ in any circumstance or time.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 0.9853641763236568,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.11,
+            "commentatorTierSimilarities": [
+                25.03,
+                0.0,
+                74.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

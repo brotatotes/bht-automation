@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 15:33:36",
+    "verseRef": "Ephesians 5:28",
+    "bestBHT": {
+        "bht": "Husbands are commanded to love their wives as they love their own bodies, for in doing so, they are also loving themselves. Just as Christ loves the Church and shares the same love and union of body with it, so should husbands love their wives as themselves. This love should manifest itself in caring for the comfort and well-being of their wives, just as they care for their own bodies. By loving their wives, husbands honor the close relationship between them, as they are not only united by nature but also by the sacred bond of marriage.",
+        "wordCount": 98,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 2.7321344200783484,
+        "qualityScoreNormalizedComparedToV2BHTs": 82.18,
+        "commentatorTierSimilarities": [
+            35.46,
+            33.06,
+            31.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Husbands ought to love their own wives as they love their own bodies.",
+            "He that loveth his own wife loveth himself.",
+            "Husbands also to love their own wives as their own bodies."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So ought husbands also to love their own wives as their own bodies.",
+            "He that loveth his wife loveth himself.",
+            "So there is the same love and the same union of body between Christ and the Church."
+        ],
+        "Albert Barnes": [
+            "A husband should have the same care for the comfort of his wife which he has for himself.",
+            "He should regard her as one with himself; and as he protects his own body from cold and hunger, and, when sick and suffering, endeavors to restore it to health, so he should regard and treat her.",
+            "A man\u2019s kindness to his wife will be more than repaid by the happiness which she imparts; and all the real solicitude which he shows to make her happy, will come to more than it costs."
+        ],
+        "Marvin Vincent": [
+            "So. As Christ loved the Church. ",
+            "As their own bodies [\u03c9\u03c2] . As being : since they are."
+        ],
+        "John Calvin": [
+            "Every man, by his very nature, loves himself. But no man can love himself without loving his wife. Therefore, the man who does not love his wife is a monster.",
+            "Marriage was appointed by God on the condition that the two should be one flesh; and that this unity may be the more sacred, he again recommends it to our notice by the consideration of Christ and his church.",
+            "To shew what man owes to man, Isaiah says, \u2018hide not thyself from thine own flesh.\u2019 But this refers to our common nature. Between a man and his wife there is a far closer relation; for they not only are united by a resemblance of nature, but by the bond of marriage have become one man."
+        ],
+        "Philip Schaff": [
+            "Ought husbands also to love their own wives. \u2018Also\u2019 is well supported, and shows that the example of Christ is referred to. \u2018Own\u2019 is emphatic.",
+            "As their own bodies. Not, \u2018as if they were,\u2019 but\u2019 since they are,\u2019 the husband being the head of the wife, etc. (Ephesians 5:23).",
+            "He who loveth, etc. This general proposition is self-evident."
+        ],
+        "Archibald T. Robertson": [
+            "And yet some people actually say that Paul in Ephesians 5:1 gives a degrading view of marriage.",
+            "How can one say that after reading Ephesians 5:22-33 where the noblest picture of marriage ever drawn is given?",
+            "the noblest picture of marriage ever drawn is given"
+        ],
+        "John Gill": [
+            "It is a common saying with the Jews, that a man's wife is 'as his own body'... a man should honour his wife more than his body, and 'love her as his body'",
+            "The apostle seems to speak in the language of his countrymen; however, his doctrine and theirs agree in this point",
+            "he that loveth his wife loveth himself; because she is one body and flesh with him"
+        ],
+        "John Wesley": [
+            "As their own bodies \u2014 That is, as themselves.",
+            "He that loveth his wife loveth himself \u2014 Which is not a sin, but an indisputable duty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Husbands are commanded to love their wives as they love their own bodies, for in doing so, they are also loving themselves. This instruction is not degrading towards marriage, as it actually presents the noblest picture of this sacred union. Just as Christ loves the Church and shares the same love and union of body with it, so should husbands love their wives as themselves. This love should manifest itself in caring for the comfort and well-being of their wives, just as they care for their own bodies. By loving their wives, husbands honor the close relationship between them, as they are not only united by nature but also by the sacred bond of marriage. Therefore, a man who loves himself cannot help but love his wife, as they have become one flesh through marriage.",
+            "wordCount": 136,
+            "quoteTokenProportion": 55.26,
+            "qualityScore": 2.597806408993688,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.72,
+            "commentatorTierSimilarities": [
+                35.45,
+                32.31,
+                32.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Husbands are commanded to love their wives as they love their own bodies, for in doing so, they are also loving themselves. Just as Christ loves the Church and shares the same love and union of body with it, so should husbands love their wives as themselves. This love should manifest itself in caring for the comfort and well-being of their wives, just as they care for their own bodies. By loving their wives, husbands honor the close relationship between them, as they are not only united by nature but also by the sacred bond of marriage.",
+            "wordCount": 98,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 2.7321344200783484,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.18,
+            "commentatorTierSimilarities": [
+                35.46,
+                33.06,
+                31.48
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:08:49",
+    "verseRef": "Titus 2:10",
+    "bestBHT": {
+        "bht": "Servants are instructed to not appropriate what does not belong to them and to show all good fidelity, meaning they are to be faithful in their work and take care of their masters' property. By doing so, they are adorning the doctrine of God our Saviour in all things, showing the fair influence of religion on their lives. This exhortation applies to all, including slaves, as the influence of their example is consequential to religion. Through their faithful and honest conduct, they contribute to the beauty and honor of the Christian name and mirror the glory of God.",
+        "wordCount": 98,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.7027495082202884,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+        "commentatorTierSimilarities": [
+            18.54,
+            44.49,
+            36.97
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not appropriating\" what does not belong to one.",
+            "That they may adorn the doctrine of our Saviour God.",
+            "Even slaves, low as is their status, should not think the influence of their example a matter of no consequence to religion."
+        ],
+        "Albert Barnes": [
+            "Not purloining - Not to appropriate to themselves what belongs to their masters...Here it means that the servant was not to apply to his own use what belonged to his master; that is, was not to pilfer.",
+            "But showing all good fidelity - In laboring, and in taking care of the property intrusted to them.",
+            "That they may adorn the doctrine of God our Saviour in all things - That they may show the fair influence of religion on them, in all respects, making them industrious, honest, kind, and obedient."
+        ],
+        "Marvin Vincent": [
+            "Purloin is akin to prolong: prolongyn or purlongyn 'to put fer awey.'\" ",
+            "The only instance in N.T. of ajgaqov with pistiv.",
+            "For kosmwsin adorn, see on 1 Timothy 2:9."
+        ],
+        "John Calvin": [
+            "By faith he means fidelity to their masters; and therefore, to shew all faith is to act faithfully, without using fraud or doing injury, in transacting the affairs of their masters.",
+            "This ought to be a very sharp spur of exhortation to us, when we learn that our becoming conduct adorns the doctrine of God, which, at the same time, is a mirror of his glory.",
+            "And if the life of those men is an ornament to the Christian name, much more let those who are in honor take care that they do not stain it by their baseness."
+        ],
+        "Archibald T. Robertson": [
+            "Nowhere else in the N.T. do we have \u03b1\u03b3\u03b1\u03b8\u03b7 with \u03c0\u03b9\u03c3\u03c4\u03b9\u03c2 as here, but an Oxyr. papyrus (iii. 494, 9) has this very phrase (\u03c0\u03b1\u03c3\u03b1\u03bd \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd \u03b5\u03bd\u03b4\u03b5\u03b9\u03ba\u03bd\u03c5\u03bc\u03b5\u03bd\u03b7).\" ",
+            "See Titus 3:2.",
+            "Paul shows slaves how they may 'adorn' the teaching of God."
+        ],
+        "John Gill": [
+            "Not purloining..... Or stealing, embezzling their master's substance, taking away, and making use of what is their property...\" ",
+            "but showing all good fidelity; approving themselves to be faithful servants in everything they are intrusted with...",
+            "that they may adorn the doctrine of God our Saviour in all things; Christ is our alone Saviour, and he is truly and properly God..."
+        ],
+        "John Wesley": [
+            "Showing all good fidelity - Soft, obliging faithfulness.",
+            "That they may adorn the doctrine of God our Saviour - More than St. Paul says of kings.",
+            "How he raises the lowness of his subject! So may they, the lowness of their condition."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Servants are instructed to not appropriate what does not belong to them and to show all good fidelity, meaning they are to be faithful in their work and take care of their masters' property. By doing so, they are adorning the doctrine of God our Saviour in all things, showing the fair influence of religion on their lives. This exhortation applies to all, including slaves, as the influence of their example is consequential to religion. Through their faithful and honest conduct, they contribute to the beauty and honor of the Christian name and mirror the glory of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.7027495082202884,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "commentatorTierSimilarities": [
+                18.54,
+                44.49,
+                36.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Servants are instructed not to steal or use what belongs to their masters, but rather to show fidelity and honesty in their work. This is important because through their actions, they have the opportunity to adorn the doctrine of God our Saviour. Even in their lowly position, their example holds significance to the practice of religion. By being diligent, kind, and obedient, they contribute to the beauty and honor of the Christian name, reflecting the glory of God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6121549568627507,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                18.48,
+                43.63,
+                37.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Servants are urged to refrain from appropriating what does not belong to them and instead demonstrate fidelity and honesty in their work. By doing so, they have the potential to adorn the doctrine of God our Saviour. This admonition applies to slaves as well, as even their lowly status should not diminish the importance of their example in relation to religion. Through their diligent and faithful conduct, they contribute to the magnificence and dignity of the Christian name, reflecting the splendor of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.700265855076348,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+            "commentatorTierSimilarities": [
+                23.23,
+                39.97,
+                36.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Servants are instructed to not purloin or appropriate what does not belong to them. Instead, they are to show all good fidelity in their work, demonstrating honesty and diligence. This admonition is significant because through their actions, they have the opportunity to adorn the doctrine of God our Saviour. This applies even to slaves, as their lowly status should not diminish the importance of their example in matters of religion. By being faithful and obedient, they contribute to the honor and beauty of the Christian name, reflecting the glory of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.6497498986383645,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.2,
+            "commentatorTierSimilarities": [
+                21.26,
+                42.77,
+                35.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Servants are urged to refrain from purloining or appropriating what does not belong to them. Instead, they are encouraged to show all good fidelity in their work, demonstrating honesty and diligence. By doing so, they have the opportunity to adorn the doctrine of God our Savior. Even slaves, despite their lowly status, should recognize the importance of their example in matters of religion. Through their faithful and obedient conduct, they contribute to the honor and beauty of the Christian name, reflecting the glory of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.653178630717552,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+            "commentatorTierSimilarities": [
+                22.06,
+                42.13,
+                35.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

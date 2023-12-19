@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:12:59",
+    "verseRef": "Philemon 15",
+    "bestBHT": {
+        "bht": "Paul refers to Onesimus' departure with a mild word to avoid irritating Philemon, highlighting the ultimate good that God's Providence can bring from past offenses. The contrast between a temporary absence and an eternal bond suggests the belief that God's purposes are at play. Paul's use of perhaps acknowledges the uncertainty of understanding God's Providence. By urging Philemon to receive Onesimus fully, Paul emphasizes the transformation of their relationship from mere master and servant to brothers in Christ, united by an eternal bond.",
+        "wordCount": 87,
+        "quoteTokenProportion": 28.33,
+        "qualityScore": 2.082700871222089,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.59,
+        "commentatorTierSimilarities": [
+            31.33,
+            37.71,
+            30.96
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He uses a mild word in calling his flight a departure, to avoid irritating his master.",
+            "The contrast is between 'for a season' and 'eternally,' which is to be interpreted 'not in this life only, but in that which is to come.'",
+            "Receive him - Possess him fully, entirely."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Perhaps speaking in human fashion, yet as one believing that God\u2019s Providence probably overruled the past evil to ultimately greater good.\" ",
+            "This thought would soften Philemon\u2019s indignation at Onesimus\u2019 past offense.\" ",
+            "Onesimus\u2019 time of absence, however long, was but a short 'hour' compared with the everlasting devotion henceforth binding him to his master."
+        ],
+        "Albert Barnes": [
+            "It was possible that this was permitted in the Providence of God in order that Onesimus might be brought under the influence of the gospel.\" ",
+            "What appeared to Philemon, therefore, to be a calamity, and what seemed to him to be wrong on the part of Onesimus, might have been permitted to occur in order that he might receive a higher benefit.",
+            "That thou shouldest receive him for ever - That is, in the higher relation of a Christian friend and brother; that he might be united to thee in eternal affection."
+        ],
+        "Marvin Vincent": [
+            "A humble 'perhaps' often grows into a 'verily, verily' - and a hasty, over - confident 'verily, verily' often dwindles to a hesitating 'perhaps.'\" ",
+            "Let us not be in too great a hurry to make sure that we have the key of the cabinet where God keeps his purposes, but content ourselves with 'perhaps' when we are interpreting the often questionable ways of His providence.",
+            "Not only does he avoid the word ran away, which might have irritated Philemon, but he also uses the passive voice, not the middle, separated himself, as an intimation that Onesimus' flight was divinely ordered for good."
+        ],
+        "John Calvin": [
+            "If we are angry on account of offenses committed by men, our minds ought to be soothed, when we perceive that those things which were done through malice have been turned to a different end by the purpose of God.",
+            "A joyful result may be regarded as a remedy for evils, which is held out to us by the hand of God for blotting out offenses.",
+            "Lastly, he contrasts the perpetuity of the advantage with the short duration of the loss."
+        ],
+        "Philip Schaff": [
+            "St. Paul sees in the whole event something more than chance, something guided by God for good.",
+            "Onesimus should no longer be the chattel for which so much money had been paid, and from whom a due return was sought, but should be invested with a new interest as a brother in Christ.",
+            "Now the interest felt by the master in his servant would be no mere temporal bond, but one which would stretch away into the world to come."
+        ],
+        "Archibald T. Robertson": [
+            "That thou shouldst have him (\u03b9\u03bd\u03b1 \u03b1\u03c5\u03c4\u03bf\u03bd \u03b1\u03c0\u03b5\u03c7\u03b7\u03b9\u03c2). Final clause with \u03b9\u03bd\u03b1 and present active subjunctive of \u03b1\u03c0\u03b5\u03c7\u03c9, to have back, 'that thou might keep on having him back.'",
+            "For ever (\u03b1\u03b9\u03c9\u03bd\u03b9\u03bf\u03bd). 'Eternal,' here and hereafter. Surely a noble thing for Paul to say and a word that would touch the best in Philemon."
+        ],
+        "John Gill": [
+            "The apostle in this clause seems to soften this business of Onesimus in running away from his master; he calls it not a running away, but a departure, an absence from him, and that but for a little while...",
+            "...that there was an overruling providence that attended it, such as was in Joseph's going down into Egypt...",
+            "...they were in the same spiritual relation, partakers of the same grace, and had a right to the same heavenly inheritance, and should be together with Christ for evermore."
+        ],
+        "John Wesley": [
+            "God might permit him to be separated (a soft word) for a season, that thou mightest have him for ever - Both on earth and in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In speaking of Onesimus' departure, Paul uses a mild word to avoid angering his master. The contrast between a temporary absence and an eternal bond suggests that Paul believes in the ultimate good that God's Providence can bring from past wrongs. Perhaps Paul's use of the word perhaps acknowledges the uncertainty of understanding God's purposes and encourages Philemon to consider the greater good that may come from Onesimus' past offense. By suggesting that Onesimus' absence was divinely ordered for good, Paul seeks to soften Philemon's indignation. Ultimately, Paul urges Philemon to receive Onesimus fully and with an eternal bond, viewing him not as a mere servant but as a brother in Christ, united through the grace of God. This view of Onesimus' flight as part of God's plan parallels Joseph's journey to Egypt and emphasizes the permanence of their spiritual relationship and participation in the same heavenly inheritance, both on earth and in heaven.",
+            "wordCount": 160,
+            "quoteTokenProportion": 29.59,
+            "qualityScore": 2.0702782312371384,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                31.92,
+                36.71,
+                31.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In calling his flight a departure, Paul avoids angering his master. The contrast between a temporary absence and an eternal bond suggests Paul believes in the ultimate good that God's Providence can bring from past wrongs. By using the word perhaps, Paul acknowledges uncertainty in understanding God's purposes and encourages Philemon to consider the greater good. Paul suggests Onesimus' absence was divinely ordered for good, softening Philemon's indignation. Paul urges Philemon to fully receive Onesimus, viewing him as a brother in Christ united through God's grace, with a relationship stretching into eternity.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 2.010564338140931,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                33.71,
+                37.23,
+                29.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul uses a mild word, departure, to avoid irritating Philemon about Onesimus' flight. The contrast between a temporary absence and an eternal bond emphasizes Paul's belief in the greater good that God's Providence can bring. By using the word perhaps, Paul acknowledges the uncertainty of understanding God's purposes and softens Philemon's indignation. Oneness\u2019 absence, however long, was a short hour compared to the everlasting devotion binding them. Paul urges Philemon to receive Onesimus fully, viewing him as a brother in Christ with an eternal relationship.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9884056735876041,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                34.51,
+                36.07,
+                29.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul refers to Onesimus' departure with a mild word to avoid irritating Philemon, highlighting the ultimate good that God's Providence can bring from past offenses. The contrast between a temporary absence and an eternal bond suggests the belief that God's purposes are at play. Paul's use of perhaps acknowledges the uncertainty of understanding God's Providence. By urging Philemon to receive Onesimus fully, Paul emphasizes the transformation of their relationship from mere master and servant to brothers in Christ, united by an eternal bond.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.082700871222089,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.59,
+            "commentatorTierSimilarities": [
+                31.33,
+                37.71,
+                30.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's choice to use a mild word, departure, instead of ran away shows his intention to avoid provoking Philemon. The contrast between a temporary absence and an eternal bond highlights Paul's belief in the greater good that God's Providence can bring. By saying, perhaps, Paul acknowledges the uncertainty of understanding God's purposes, softening Philemon's anger. Paul encourages Philemon to fully receive Onesimus, emphasizing that their relationship as brothers in Christ is eternal, surpassing earthly boundaries.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 2.0196117550012502,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.49,
+            "commentatorTierSimilarities": [
+                32.96,
+                37.37,
+                29.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

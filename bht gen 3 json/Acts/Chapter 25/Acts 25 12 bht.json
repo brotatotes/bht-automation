@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:36:23",
+    "verseRef": "Acts 25:12",
+    "bestBHT": {
+        "bht": "Ruling on Paul's appeal to Caesar, Festus may have felt a mix of surprise and resentment. Little expecting such an appeal, Festus was obliged to respect it, but as a Roman citizen, Paul had the right to appeal. Festus, exercising his discretion, conferred with his council, an assembly of counsellors that often advised the governor. Perhaps with a hint of derision, Festus delivered the sentence, knowing the weary delays and harsh treatment that Paul would likely encounter in Caesar's court.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.9501712335295378,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+        "commentatorTierSimilarities": [
+            34.84,
+            33.92,
+            31.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Festus\u2014little expecting such an appeal, but bound to respect it.\" ",
+            "Hast thou\u2014for 'thou hast.'",
+            "to C\u00e6sar shalt thou go\u2014as if he would add perhaps 'and see if thou fare better.'"
+        ],
+        "Albert Barnes": [
+            "He was willing in this way to rid himself of the trial, and of the vexation attending it.\" ",
+            "He did not dare to deliver him to the Jews in violation of the Roman laws...",
+            "He was, therefore, probably rejoiced at the opportunity of thus freeing himself from all the trouble in the case in a manner against which none could object."
+        ],
+        "Marvin Vincent": [
+            "Though a Roman citizen had the right of appeal to the emperor, a certain discretion was allowed the governors of provinces as to admitting the appeal.\" ",
+            "In doubtful cases the governor was bound to consult with his council, and his failure to do so exposed him to censure.",
+            "That Festus exercised this discretion in Paul 's case is shown by his conferring with the council."
+        ],
+        "John Calvin": [
+            "The governors did use to have certain of the chief citizens which did attend upon them, and sat with them in judgment, that they might decree nothing without the consent of the council.",
+            "Festus pronounced this with indignation when he said interrogatively, Hast thou appealed to Caesar? to wit, because it grieved him that he could not do the Jews such a pleasure as he desired.",
+            "It is neither of any great importance, and it leaneth only to a conjecture."
+        ],
+        "Philip Schaff": [
+            "The council here referred to was not the members of the Sanhedrim then present at C\u00e6sarea, but certain officials whom Suetonius calls consiliarii.",
+            "If the accusation against the citizen appealing were perfectly clear, as in the case of a notorious malefactor or rebel, the request to be allowed to appeal might be refused by the Roman official presiding over the court.",
+            "Without, perhaps, quite conceding this, we cannot help suspecting that over the procurator\u2019s face something like a smile of derision passed when he delivered his sentence: \u2018Well, you have appealed to C\u00e6sar\u2019s court; to C\u00e6sar\u2019s court you shall go,\u2019 Festus knowing well the reception, the weary delays and harsh treatment, such a prisoner would probably meet with at Rome."
+        ],
+        "Archibald T. Robertson": [
+            "The word \u03c3\u03c5\u03bc\u03b2\u03bf\u03c5\u03bb\u03b9\u03bf\u03bd in the N.T. usually means 'counsel' as in Matthew 12:14, but here alone as an assembly of counsellors or council.",
+            "These local advisers were a necessity. Some discretion was allowed the governor about granting the appeal.",
+            "But embarrassment will come to Festus. He has refused to acquit this prisoner. Hence he must formulate charges against him to go before Caesar."
+        ],
+        "John Gill": [
+            "Not with the Jewish sanhedrim, or any part of it that came down on this occasion; but with Roman counsellors, which he had to assist him in judgment.\" ",
+            "Unto Caesar shalt thou go: the question is put, partly for the more certain knowledge of the thing, that there might be no mistake in it.\" ",
+            "It may be with some resentment in himself, since it carried in it a sort of reflection upon him, as if he was incapable of issuing this affair, or would not be just and faithful in it."
+        ],
+        "John Wesley": [
+            "The council \u2014 It was customary for a considerable number of persons of distinction to attend the Roman governors. These constituted a kind of council, with whom they frequently advised."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Festus, taken by surprise by Paul's appeal to Caesar, was obligated to honor it. However, there was some discretion given to governors in admitting such appeals. Festus, therefore, consulted with his council, which acted as an assembly of counsellors. This council was made up of officials who advised the governor in matters of judgment. Festus, in a manner to rid himself of the trouble in Paul's case, allowed the appeal, thus freeing himself from any objections. While it is unclear if Festus fully believed in Paul's innocence, he may have harbored a sense of derision when he pronounced that Paul would be sent to Caesar's court, knowing the harsh treatment and delays he would likely face.",
+            "wordCount": 120,
+            "quoteTokenProportion": 44.05,
+            "qualityScore": 1.838907065867876,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                36.55,
+                34.34,
+                29.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Ruling on Paul's appeal to Caesar, Festus may have felt a mix of surprise and resentment. Little expecting such an appeal, Festus was obliged to respect it, but as a Roman citizen, Paul had the right to appeal. Festus, exercising his discretion, conferred with his council, an assembly of counsellors that often advised the governor. Perhaps with a hint of derision, Festus delivered the sentence, knowing the weary delays and harsh treatment that Paul would likely encounter in Caesar's court.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9501712335295378,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                34.84,
+                33.92,
+                31.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Festus, caught off guard by Paul's appeal to Caesar, had no choice but to consider it. Although a Roman citizen had the right of appeal, governors had some discretion in admitting it. Seeking guidance, Festus consulted his council, an assembly of counsellors who often advised him. This council consisted of officials who supported the governor in matters of judgment. Festus, in a sense, saw an opportunity to rid himself of the trouble surrounding Paul's case, leading to the decision to send him to Caesar's court.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8485277896850367,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "commentatorTierSimilarities": [
+                34.83,
+                31.31,
+                33.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Festus, taken by surprise, was obligated to respect Paul's appeal to Caesar. Seeking guidance, he turned to his council, an assembly of counsellors who advised him in judgment. Festus may have been eager to rid himself of the trouble surrounding Paul's case and saw the appeal as an opportunity to do so. With a mix of incredulity and perhaps derision, Festus pronounced that Paul would go to Caesar's court, fully aware of the potential hardships and delays that awaited him there.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.801782434483452,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+            "commentatorTierSimilarities": [
+                34.16,
+                36.65,
+                29.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Caught off guard, Festus was obligated to respect Paul's unexpected appeal to Caesar. The governor exercised his discretion by consulting with his council, an assembly of counsellors who provided advice in matters of judgment. Festus may have felt relief at the chance to rid himself of the troubling case. With a mixture of incredulity and, perhaps, derision, Festus decided to send Paul to Caesar's court, fully aware of the likely hardships and delays that Paul would face there.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.6711440621091893,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "commentatorTierSimilarities": [
+                35.13,
+                35.16,
+                29.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

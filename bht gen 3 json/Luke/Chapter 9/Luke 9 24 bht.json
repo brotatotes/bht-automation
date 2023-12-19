@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:17:02",
+    "verseRef": "Luke 9:24",
+    "bestBHT": {
+        "bht": "The essence of this teaching lies in the dual meaning of 'life' - the natural and the spiritual, the temporal and the eternal. To safeguard the higher life, one must be willing to offer a complete sacrifice of the lower life. Those who are unable to let go of one in favor of the other will ultimately forfeit both. The phrase 'will save' underscores the significance of this sacrifice. This principle is also echoed in other passages such as Matthew 16:25, Mark 8:35, and John 12:25.",
+        "wordCount": 82,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.3853013191076449,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.4,
+        "commentatorTierSimilarities": [
+            58.02,
+            0.0,
+            41.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The pith of this maxim depends... on the double sense attached to the word 'life,' a lower and a higher, the natural and the spiritual, temporal and eternal.",
+            "An entire sacrifice of the lower, or a willingness to make it, is indispensable to the preservation of the higher life.",
+            "He who cannot bring himself to surrender the one for the sake of the other shall eventually lose both."
+        ],
+        "Marvin Vincent": [
+            "Will save [\u03b8\u03b5\u03bb\u03b7 \u03c3\u03c9\u03c3\u03b1\u03b9] . The same construction as will come after (ver. 23). Rev., would save. ",
+            "Life [\u03c8\u03c5\u03c7\u03b7\u03bd] . See on soul, Mark 12:30."
+        ],
+        "John Gill": [
+            "For whosoever will save his life,....",
+            " :-."
+        ],
+        "John Wesley": [
+            "Matthew 16:25; Mark 8:35; John 12:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 9:24, the pith of the maxim lies in the double sense of the word 'life' - both the natural and spiritual, temporal and eternal. It is necessary to make an entire sacrifice of the lower life in order to preserve the higher life. Those who cannot bring themselves to surrender the one for the sake of the other will ultimately lose both. The construction of will save indicates the importance of this sacrifice. This concept is echoed in other passages such as Matthew 16:25, Mark 8:35, and John 12:25.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.4600241719177325,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.89,
+            "commentatorTierSimilarities": [
+                58.83,
+                0.0,
+                41.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The maxim in the verse emphasizes the dual meaning of life - the natural and spiritual, temporal and eternal. Making a complete sacrifice of the lower life is necessary to preserve the higher life. Failing to surrender one for the other leads to losing both. The phrase will save highlights the importance of this sacrifice. Similar sentiments are found in Matthew 16:25, Mark 8:35, and John 12:25.",
+            "wordCount": 63,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.3511598412208259,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.27,
+            "commentatorTierSimilarities": [
+                54.99,
+                0.0,
+                45.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The essence of this teaching lies in the dual meaning of 'life' - the natural and the spiritual, the temporal and the eternal. To safeguard the higher life, one must be willing to offer a complete sacrifice of the lower life. Those who are unable to let go of one in favor of the other will ultimately forfeit both. The phrase 'will save' underscores the significance of this sacrifice. This principle is also echoed in other passages such as Matthew 16:25, Mark 8:35, and John 12:25.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.3853013191076449,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.4,
+            "commentatorTierSimilarities": [
+                58.02,
+                0.0,
+                41.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This teaching highlights the twofold nature of 'life' - the natural and the spiritual, the temporal and the eternal. Sacrificing the lower life is essential to preserve the higher life. Failing to surrender one for the other results in losing both. The phrase 'will save' emphasizes the importance of this sacrifice. This concept is echoed in Matthew 16:25, Mark 8:35, and John 12:25.",
+            "wordCount": 59,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.288409235416382,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.18,
+            "commentatorTierSimilarities": [
+                55.8,
+                0.0,
+                44.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The teaching in this passage emphasizes the dual sense of 'life' - the natural and spiritual, temporal and eternal. A complete sacrifice of the lower life is necessary to preserve the higher life. Those who cannot surrender one for the sake of the other will ultimately lose both. The phrase will save signifies the significance of this sacrifice. Similar teachings can be found in Matthew 16:25, Mark 8:35, and John 12:25.",
+            "wordCount": 67,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.431653111666597,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.95,
+            "commentatorTierSimilarities": [
+                56.36,
+                0.0,
+                43.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

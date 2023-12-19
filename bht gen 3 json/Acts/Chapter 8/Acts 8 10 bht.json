@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:28:00",
+    "verseRef": "Acts 8:10",
+    "bestBHT": {
+        "bht": "The people in Samaria were captivated by Simon, whom they believed to be the great power of God. Their popular belief in an angel or an impersonated power of God made them susceptible to Simon's bewitching influence. However, their readiness to listen shifted quickly as Philip arrived, exposing the true power of God. Simon's claim to impersonate God was shattered, revealing the ripeness of Samaria for a religious change. This episode highlights the longing for a new voice from heaven and the rapidity with which they deserted Simon for Philip.",
+        "wordCount": 92,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 2.1145977846149218,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+        "commentatorTierSimilarities": [
+            44.55,
+            33.39,
+            22.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The power of God which is called great.",
+            "Their erroneous belief would form some preparation for the great truth of an incarnate Messiah.",
+            "Their popular belief of a great angel, who might...be designated by these remarkable words."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To whom all gave heed . . . because of long time he had bewitched them\u2014This, coupled with the rapidity with which they deserted him and attached themselves to Philip, shows the ripeness of Samaria for some religious change."
+        ],
+        "Albert Barnes": [
+            "The great power of God - Probably this means only that they believed that he was \u201cinvested with\u201d the power of God, not that they supposed he was really the Great God."
+        ],
+        "Marvin Vincent": [
+            "They believed that Simon was an impersonated power of God, which, as the highest of powers, they designated as the great.",
+            "The best texts add hJ kaloumenh, which is called, and render that power of God which is called great.",
+            "The great power of God."
+        ],
+        "John Calvin": [
+            "For the surname, great power, tendeth to this end, that whatsoever should otherwise be divine might wax vile through this greatness.",
+            "Therefore the power of Christ appeareth hereby more plainly.",
+            "Philip brake through these lets; which thing Luke amplifieth."
+        ],
+        "Philip Schaff": [
+            "At that time an indefinite longing after a new voice from heaven a strange, restless feeling in men\u2019s minds, such as usually goes before mighty changes in the history of men, was spread abroad; this vague, anxious feeling bewildered and deceived many.\" ",
+            "Men and women of all ages, young as well as old, were ready to listen to him."
+        ],
+        "Archibald T. Robertson": [
+            "That power of God which is called Great (\u03b7 \u0394\u03c5\u03bd\u03b1\u03bc\u03b9\u03c2 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5 \u03b7 \u03ba\u03b1\u03bb\u03bf\u03c5\u03bc\u03b5\u03bd\u03b7 \u039c\u03b5\u03b3\u03b1\u03bb\u03b7).\" ",
+            "This 'power' was considered a spark of God himself.",
+            "Simon claimed to impersonate God."
+        ],
+        "John Gill": [
+            "Persons of every rank and quality, high and low, rich and poor, magistrates and subjects, from the meanest to the greatest of them.",
+            "He drew the attention, and commanded the regard, both of princes and peasants, of the learned and unlearned, of the great men, and of the common people, who one and all wondered at him, and applauded him.",
+            "They took him for the supreme Deity, or as Justin Martyr expresses it, they accounted him the first, or chief God, or they looked upon him to be the Messiah, 'the great power of God'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in Samaria were captivated by a powerful figure named Simon, whom they believed was invested with the great power of God. Their long-held belief in a great angel or an impersonated power of God made them susceptible to Simon's bewitching allure. However, their readiness to listen to him quickly evaporated as Philip arrived, revealing the true power of God. Simon's claim to impersonate God was shattered by the undeniable presence and authority of Philip's preaching. This episode highlights the widespread yearning for a divine intervention and the readiness of both the common people and the influential to embrace a new voice from heaven.",
+            "wordCount": 109,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.129528222934481,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.15,
+            "commentatorTierSimilarities": [
+                41.59,
+                34.23,
+                24.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people in Samaria were captivated by Simon, whom they believed was invested with the great power of God. Their erroneous belief in a great angel formed some preparation for the truth of an incarnate Messiah. However, their readiness to listen to Simon quickly dissipated when Philip arrived, revealing the undeniable power of God. Simon's claim to impersonate God was shattered by the authority of Philip's preaching. This episode illustrates the ripe state of Samaria for a religious change and the longing for a new voice from heaven.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.990263260566644,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+            "commentatorTierSimilarities": [
+                44.01,
+                35.23,
+                20.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people in Samaria were captivated by Simon, whom they believed to be the great power of God. Their popular belief in an angel or an impersonated power of God made them susceptible to Simon's bewitching influence. However, their readiness to listen shifted quickly as Philip arrived, exposing the true power of God. Simon's claim to impersonate God was shattered, revealing the ripeness of Samaria for a religious change. This episode highlights the longing for a new voice from heaven and the rapidity with which they deserted Simon for Philip.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.1145977846149218,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+            "commentatorTierSimilarities": [
+                44.55,
+                33.39,
+                22.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people in Samaria were captivated by Simon, whom they believed to possess the great power of God. Their erroneous belief in an angel designated as the great prepared them for the truth of an incarnate Messiah. However, their readiness to listen to Simon quickly shifted as Philip arrived, revealing the undeniable power of God. Simon's claim to impersonate God was shattered by Philip's preaching, showcasing the ripe state of Samaria for religious change and the longing for a new voice from heaven.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.0996738575731757,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.16,
+            "commentatorTierSimilarities": [
+                43.34,
+                35.03,
+                21.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people in Samaria believed that Simon possessed the great power of God, considering him an impersonated deity. However, their readiness to heed his words quickly changed when Philip arrived, demonstrating the true power of God. Simon's claim to impersonate God was shattered, revealing the ripe state of Samaria for a religious transformation. This episode reflects the widespread longing for divine intervention and the eagerness of all, including both the high and lowly, to listen and be captivated by a new voice from heaven.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 2.0808303348004267,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+            "commentatorTierSimilarities": [
+                42.75,
+                34.69,
+                22.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

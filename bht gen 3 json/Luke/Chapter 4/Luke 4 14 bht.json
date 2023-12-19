@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:14:57",
+    "verseRef": "Luke 4:14",
+    "bestBHT": {
+        "bht": "Jesus returned in the power of the Spirit, having received the full anointing of his holy office at his baptism. Luke notes the power of the Holy Spirit in the work of Christ, and in these two verses he describes the Galilean Ministry with three marked characteristics: the power of the Spirit, the rapid spread of Christ's fame, and the use of the Jewish synagogues. Jesus' victory over Satan brought new spiritual power, and as a result, his fame quickly spread and people everywhere began to talk about him and applaud his teachings and miraculous works.",
+        "wordCount": 97,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.9402777248254157,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+        "commentatorTierSimilarities": [
+            35.14,
+            20.89,
+            43.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in the power of that full anointing of the Spirit for His holy office, which He had received at His baptism",
+            "A fair comparison of our vv. 16\u201324 with Matt. xiii. 53\u201358, Mark vi. 1\u20136, entered on without bias, and conducted solely from the narratives themselves, surely can hardly fail to convince us of their identity.",
+            "That two such visits should have happened, is of itself not impossible; though (with the sole exception of Jerusalem for obvious reasons) our Lord did not ordinarily revisit the places where He had been rejected as in our vv. 28, 29."
+        ],
+        "Philip Schaff": [
+            "With the victory over Satan new spiritual power is contrasted.",
+            "A fame, etc. In consequence of His teaching or His miracles.",
+            "The brief narrative implies many things not mentioned here."
+        ],
+        "Archibald T. Robertson": [
+            "Luke often notes the power of the Holy Spirit in the work of Christ. Our word dynamite is this same word \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03c2 (power).",
+            "A fame (\u03c6\u03b7\u03bc\u03b7). An old Greek word found in the N.T. only here and Matthew 9:26. It is from \u03c6\u03b7\u03bc, to say. Talk ran rapidly in every direction.",
+            "Luke in these two verses (Luke 4:14; Luke 4:15) gives a description of the Galilean Ministry with three marked characteristics (Plummer): the power of the spirit, rapid spread of Christ's fame, use of the Jewish synagogues."
+        ],
+        "John Gill": [
+            "And Jesus returned in the power of the Spirit...by virtue of which, he entered on his public ministry, wrought miracles, and taught with authority.",
+            "Moreover, this phrase is used, to show that his return into Galilee...was owing to the powerful impulse of the Holy Spirit.",
+            "The report of his doctrines and miracles was spread far and near; and on account of them, he became the subject of the common talk of people everywhere, who highly applauded and commended him for them."
+        ],
+        "John Wesley": [
+            "Jesus returned in the power of the Spirit \u2014 Being more abundantly strengthened after his conflict."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus returned in the power of the Spirit, having received the full anointing of his holy office at his baptism. Luke notes the power of the Holy Spirit in the work of Christ, and in these two verses he describes the Galilean Ministry with three marked characteristics: the power of the Spirit, the rapid spread of Christ's fame, and the use of the Jewish synagogues. Jesus' victory over Satan brought new spiritual power, and as a result, his fame quickly spread and people everywhere began to talk about him and applaud his teachings and miraculous works. This return into Galilee was not by chance, but rather a result of the powerful impulse of the Holy Spirit leading Jesus into his public ministry.",
+            "wordCount": 123,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.9060564834868723,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                35.23,
+                19.73,
+                45.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus returned in the power of the Spirit, having received the full anointing of his holy office at his baptism. Luke notes the power of the Holy Spirit in the work of Christ, and in these two verses he describes the Galilean Ministry with three marked characteristics: the power of the Spirit, the rapid spread of Christ's fame, and the use of the Jewish synagogues. Jesus' victory over Satan brought new spiritual power, and as a result, his fame quickly spread and people everywhere began to talk about him and applaud his teachings and miraculous works.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.9402777248254157,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+            "commentatorTierSimilarities": [
+                35.14,
+                20.89,
+                43.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus returned in the power of the Spirit, after receiving the full anointing of His holy office at His baptism. Luke highlights the significance of the Holy Spirit's power in the work of Christ. In these two verses, he emphasizes three key aspects of the Galilean Ministry: the power of the Spirit, the rapid spread of Jesus' fame, and the use of the Jewish synagogues. Jesus' triumphant victory over Satan ushered in a new spiritual power, leading to widespread admiration and discussion surrounding His teachings and miraculous works.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.8654189515770652,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.37,
+            "commentatorTierSimilarities": [
+                33.31,
+                21.88,
+                44.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus returned in the power of the Spirit, having received the full anointing of his holy office at his baptism. Luke emphasizes the influence of the Holy Spirit in Jesus' work, describing the Galilean Ministry with three notable elements: the power of the Spirit, the rapid spread of Jesus' fame, and the use of the Jewish synagogues. Jesus' victory over Satan brought forth new spiritual power, resulting in a widespread recognition and commendation of his teachings and miraculous deeds. This return to Galilee was not a coincidence, but a consequence of the powerful leading of the Holy Spirit.",
+            "wordCount": 98,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.8320251825211313,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                32.63,
+                22.25,
+                45.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus returned in the power of the Spirit, having received the full anointing at his baptism. Luke emphasizes the Holy Spirit's role in Jesus' work, detailing the Galilean Ministry with three key characteristics: the power of the Spirit, the rapid spread of Jesus' fame, and the use of the Jewish synagogues. After his victorious triumph over Satan, Jesus was endowed with new spiritual power, leading to widespread acclaim for his teachings and miracles. This return to Galilee was guided by the powerful prompting of the Holy Spirit.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.8015351030837725,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.24,
+            "commentatorTierSimilarities": [
+                31.49,
+                20.6,
+                47.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

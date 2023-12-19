@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:17:33",
+    "verseRef": "Luke 9:55",
+    "bestBHT": {
+        "bht": "Jesus warns his disciples that their zeal is misguided, arising from human partiality rather than divine inspiration. He points out that while the spirit of Elias was fiery and judgmental, his own spirit is one of love and forgiveness. Jesus reminds them that he came to save lives, not to destroy them, and rebukes their bitterness and narrow-mindedness. He urges them to recognize that the spirit of Christianity is characterized by peace, gentleness, and love, not wrath and revenge.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.8151616610673202,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+        "commentatorTierSimilarities": [
+            32.52,
+            22.44,
+            45.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye have indeed a zeal for God, but not according to knowledge; the offspring of human partiality, not of divine inspiration.",
+            "The Spirit in Elias was a fiery and judicial spirit, as befitted the times and the character of God\u2019s dealings then; but the Spirit in Me and mine is of a different kind\u2014a spirit of love and forgiveness.",
+            "Ye know (not) in the gospels: see note in my Greek Testament."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The thing ye demand, though in keeping with the legal, is unsuited to the genius of the evangelical dispensation.\" ",
+            "The sparks of unholy indignation would seize readily enough on this example of Elias.",
+            "It is a golden sentence of Tillotson, Let us never do anything for religion which is contrary to religion."
+        ],
+        "Albert Barnes": [
+            "Ye know not what manner of spirit ye are of.\" ",
+            "You suppose that you are actuated by a proper love for me; but you know not yourselves.",
+            "It is rather a love of revenge; rather revengeful feelings toward the 'Samaritans' than proper feelings toward me."
+        ],
+        "John Calvin": [
+            "But the Spirit himself will guide us by wisdom and prudence, that we may do nothing contrary to our duty, or beyond our calling, nothing, in short, but what is prudent and seasonable...",
+            "And therefore the examples of the saints are no defense to us, unless the same Spirit that directed them dwell in us.",
+            "Frequently, too, it happens, that the impure feelings of the flesh are mingled with their zeal, and that those who appear to be the keenest zealots for the glory of God are blinded by the private feelings of the flesh."
+        ],
+        "Philip Schaff": [
+            "Ye know not what manner of spirit ye are of.",
+            "Ye know not of what spirit you are the instruments when speaking thus; you think that you are working a miracle of faith in my service, but you are obeying a spirit alien from mine.",
+            "You are obeying a spirit alien from mine."
+        ],
+        "Archibald T. Robertson": [
+            "Ye know not what manner of spirit ye are of. This sounds like Christ and may be a genuine saying though not a part of Luke's Gospel.",
+            "For the Son of Man came not to destroy men's lives, but to save them. A saying reminding us of Matthew 5:17; Luke 19:10.",
+            "Certain it is that here Jesus rebuked the bitterness of James and John toward Samaritans as he had already chided John for his narrowness towards a fellow-worker in the kingdom."
+        ],
+        "John Gill": [
+            "He turned and rebuked them... sharply reproved them for their intemperate zeal...\" ",
+            "[They] do not consider that this is not the true spirit of zeal, but of anger and revenge...",
+            "Good men, for want of attention, may not know sometimes from what spirit they act; taking that for a good one, which is a very bad one..."
+        ],
+        "John Wesley": [
+            "Ye know not what manner of spirit \u2014 The spirit of Christianity is. It is not a spirit of wrath and vengeance, but of peace, and gentleness, and love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 9:55, Jesus admonishes his disciples for their zealous but misguided response to the Samaritans who rejected him. Jesus tells them, Ye have indeed a zeal for God, but not according to knowledge; the offspring of human partiality, not of divine inspiration. He reminds them that the Spirit in him is one of love and forgiveness, different from the fiery, judgmental spirit of Elias. Jesus highlights that he came not to destroy lives, but to save them, echoing Matthew 5:17 and Luke 19:10. He rebukes their bitterness and narrow-mindedness, emphasizing that the spirit of Christianity is one of peace, gentleness, and love.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.8287778608261305,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+            "commentatorTierSimilarities": [
+                38.53,
+                22.39,
+                39.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reproaches his disciples in Luke 9:55, telling them that their zealous reaction to the Samaritans' rejection is not guided by divine inspiration or knowledge, but rather by human bias. He contrasts their vengeful spirit with the spirit of love and forgiveness that characterizes him and his ministry. Jesus emphasizes that his purpose is to save lives, not destroy them, aligning with the essence of Christianity, which promotes peace, gentleness, and love over wrath and revenge.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7847908015848422,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                33.87,
+                21.89,
+                44.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus warns his disciples that their zeal is misguided, arising from human partiality rather than divine inspiration. He points out that while the spirit of Elias was fiery and judgmental, his own spirit is one of love and forgiveness. Jesus reminds them that he came to save lives, not to destroy them, and rebukes their bitterness and narrow-mindedness. He urges them to recognize that the spirit of Christianity is characterized by peace, gentleness, and love, not wrath and revenge.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.8151616610673202,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+            "commentatorTierSimilarities": [
+                32.52,
+                22.44,
+                45.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus rebukes his disciples in Luke 9:55 for their misguided zeal driven by human bias and not divine inspiration. He contrasts his spirit of love and forgiveness with the fiery and judgmental spirit of Elias. Jesus reminds them that he came to save lives, not to destroy them, echoing the essence of Christianity. He chides their bitterness and narrow-mindedness, emphasizing that the spirit of Christianity promotes peace, gentleness, and love, rather than wrath and revenge.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.745166058565529,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                34.87,
+                20.43,
+                44.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus admonishes his disciples for their zeal rooted in human bias rather than divine inspiration. He distinguishes his spirit of love and forgiveness from the fiery and judgmental spirit of Elias. Jesus urges them to understand that his purpose is not to destroy lives, but to save them, aligning with the core principles of Christianity. He rebukes their bitterness and narrow-mindedness, emphasizing that true Christian spirit is characterized by peace, gentleness, and love, rather than by wrath and revenge.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7331732654740422,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+            "commentatorTierSimilarities": [
+                33.87,
+                21.95,
+                44.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

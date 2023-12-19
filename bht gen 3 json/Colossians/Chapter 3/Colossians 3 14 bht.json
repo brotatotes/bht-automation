@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:21:55",
+    "verseRef": "Colossians 3:14",
+    "bestBHT": {
+        "bht": "Love is the bond of perfectness, the crowning grace that embraces and knits together all the virtues. Without love, there is a painful want of harmony and union, rendering the Christian life incomplete. Love is the reigning principle, binding all the other graces fast together, and without it, there is no perfectness. It is the rule for our whole life and actions, adding a glory and beauty to the other virtues. Love is the bond of peace, perfect unity, and connects all parts of Christian perfection together.",
+        "wordCount": 87,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 2.3629786128181367,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.91,
+        "commentatorTierSimilarities": [
+            27.43,
+            36.28,
+            36.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Over all these things, that which must over-lie them as a whole)",
+            "The love which becomes Christians",
+            "Love is the bond of perfectness"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Charity, which is the crowning grace, covering the multitude of others' sins, must overlie all the other graces enumerated."
+        ],
+        "Albert Barnes": [
+            "Charity - Love.",
+            "The idea seems to be that love will bind all the other graces fast together, and render the whole system complete.",
+            "If it were possible to conceive that the other graces could exist among a Christian people, yet there would be a sad incompleteness, a painful want of harmony and union, if love were not the reigning principle."
+        ],
+        "Marvin Vincent": [
+            "Above all, like an upper garment, put on, etc.",
+            "Love embraces and knits together all the virtues.",
+            "Teleiothv perfectness is a collective idea, a result of combination, to which bond is appropriate."
+        ],
+        "John Calvin": [
+            "For this truly is the rule of our whole life, and of all our actions, so that everything that is not regulated according to it is faulty, whatever attractiveness it may otherwise possess.",
+            "This is the reason why it is called here the bond of perfection; because there is nothing in our life that is well regulated if it be not directed towards it, but everything that we attempt is mere waste.",
+            "The genuine exposition of the passage is this \u2014 that other things will be in a desirable state as to our life, if love be exercised among us."
+        ],
+        "Philip Schaff": [
+            "Love binds together into one moral perfection all the Christian graces.",
+            "Without love there is no perfectness; since this has its conditio sine qua non in the including of all its other parts in love.",
+            "To find here justification by works is to misconceive the whole Epistle."
+        ],
+        "Archibald T. Robertson": [
+            "And above all these things.",
+            "Put on love.",
+            "The bond of perfectness."
+        ],
+        "John Gill": [
+            "For without this all is nothing they will only be done in show and appearance, in mere guise and hypocrisy, if love is wanting.",
+            "This is greater, and more excellent, than all the other, and adds a glory, lustre, and beauty to them.",
+            "This is the bond of peace among them, of perfect unity and brotherly love."
+        ],
+        "John Wesley": [
+            "The love of God contains the whole of Christian perfection, and connects all the parts of it together."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Love is the crowning grace that must encompass and unite all the virtues. Without love, there is an incompleteness and lack of harmony in the Christian life. Love is the bond that binds together all the other graces into a perfect whole. It is the rule and guiding principle for our actions and the genuine expression of a well-regulated life. Without love, everything else is in vain and mere hypocrisy. Love is greater and more excellent than all the other virtues, adding a glory and beauty to them. It is the bond of peace and perfect unity among believers, connecting all the parts of Christian perfection together.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2435087030807646,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.94,
+            "commentatorTierSimilarities": [
+                27.53,
+                35.04,
+                37.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Love is the crowning grace, the bond of perfectness that embraces and knits together all the virtues. Without love, there is an incompleteness and lack of harmony in the Christian life. It is the rule and guiding principle for our actions, without which everything else is in vain and mere hypocrisy. Love is greater and more excellent than all the other virtues, adding a glory and beauty to them. It is the bond of peace and perfect unity among believers, connecting all the parts of Christian perfection together.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.211497823758977,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+            "commentatorTierSimilarities": [
+                27.41,
+                34.12,
+                38.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Love is the bond of perfectness, the crowning grace that embraces and knits together all the virtues. Without love, there is a painful want of harmony and union, rendering the Christian life incomplete. Love is the reigning principle, binding all the other graces fast together, and without it, there is no perfectness. It is the rule for our whole life and actions, adding a glory and beauty to the other virtues. Love is the bond of peace, perfect unity, and connects all parts of Christian perfection together.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.3629786128181367,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.91,
+            "commentatorTierSimilarities": [
+                27.43,
+                36.28,
+                36.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Love is the bond of perfectness and the crowning grace that embraces and knits together all the virtues. Without love, there is an incompleteness and lack of harmony in the Christian life. Love is the reigning principle that binds all the other graces together, rendering them complete. It is the rule for our actions and the guiding principle for a well-regulated life. Love adds a glory and beauty to all other virtues, connecting them harmoniously. It is the bond of peace and perfect unity, encapsulating Christian perfection as a whole.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.220902179415236,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.19,
+            "commentatorTierSimilarities": [
+                28.09,
+                35.27,
+                36.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Love is the crown jewel that unifies and completes all the virtues. Without love, there is disharmony and incompleteness. Love is the guiding principle that binds together the other graces, forming a complete and perfect whole. It is the rule for our entire life and all our actions. Love adds a radiant glory and beauty to the other virtues, elevating them to a higher level. Love is the bond of peace, perfect unity, and Christian perfection, connecting all its parts together.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.1360103919505136,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.36,
+            "commentatorTierSimilarities": [
+                27.8,
+                35.29,
+                36.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

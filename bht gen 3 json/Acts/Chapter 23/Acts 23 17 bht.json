@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:35:40",
+    "verseRef": "Acts 23:17",
+    "bestBHT": {
+        "bht": "Though divinely assured of safety, Paul never allowed this assurance to hinder his responsibility for his own life and the work he had yet to do. He planned and acted energetically, not relying solely on the promises of God, but also taking advantage of ordinary means of safety. Paul's actions were not driven by wild enthusiasm, but by a balance of trusting in God's word and using the resources available to him. He understood that while God had promised his life, he was still called to make efforts for his own security.",
+        "wordCount": 94,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 2.0158339055586465,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+        "commentatorTierSimilarities": [
+            23.87,
+            40.57,
+            35.56
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Though divinely assured of safety, he never allows this to interfere with the duty he owed to his own life and the work he had yet to do.",
+            "See on :-; Acts 23:2"
+        ],
+        "Albert Barnes": [
+            "Paul had the most positive divine assurance that his life would be spared, and that he would yet see Rome.",
+            "He always understood the divine promises and purposes as being consistent with his own efforts.",
+            "He did not rest merely on the divine promises without any effort of his own, but he took encouragement from those promises to put forth his own exertions for security and for salvation."
+        ],
+        "John Calvin": [
+            "Paul was not so desirous of life, but he would have made haste to die, if the Lord had thought it good so to be.",
+            "Thus must all the ministers of Christ deal, that being furnished with invincible constancy, so far as their calling requireth, they fear not danger, and yet that they cast not away themselves through rashness.",
+            "Let them call upon the name of the Lord cheerfully, even amidst the pikes; and yet let them not contemn those helps which are offered; otherwise they shall be injurious to God."
+        ],
+        "Philip Schaff": [
+            "Attention has been justly called here to the fact that, although Paul had just received the Divine promise of protection in all these present dangers, yet he neglected none of the ordinary means of safety which were presented to him.\" ",
+            "he neglected none of the ordinary means of safety which were presented to him, evidently looking on them as the saving hand of the Lord stretched out to him.\" ",
+            "There was nothing of wild unreasoning enthusiasm in the great missionary apostle."
+        ],
+        "Archibald T. Robertson": [
+            "Paul laid his plans as energetically as if Jesus had not promised that he would see Rome.",
+            "Calling to himself.",
+            "'Take away.'"
+        ],
+        "John Gill": [
+            "For had he trusted the centurion with it, he might not have acquainted his officer with it, but have informed the liers in wait of it.",
+            "Now though the apostle was assured by Christ that he should not die at Jerusalem, but should bear witness of him at Rome, and though he did not distrust the truth of Christ's words, but most firmly believed them; yet he thought it his duty to make use of the means, which providence had put in his way, for his preservation and safety.",
+            "For he hath a certain thing to tell him; which was of some moment and importance, and proper for him to know."
+        ],
+        "John Wesley": [
+            "And Paul \u2014 Though he had an express promise of it from Christ, was not to neglect any proper means of safety."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though divinely assured of safety, Paul never allowed this assurance to hinder his responsibility for his own life and the work he had yet to do. He planned and acted energetically, not relying solely on the promises of God, but also taking advantage of ordinary means of safety. Paul's actions were not driven by wild enthusiasm, but by a balance of trusting in God's word and using the resources available to him. He understood that while God had promised his life, he was still called to make efforts for his own security.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.0158339055586465,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                23.87,
+                40.57,
+                35.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though divinely assured of safety, Paul never allowed this assurance to hinder his responsibility for his own life and the work he had yet to do. He planned and acted energetically, not relying solely on the promises of God, but also taking advantage of ordinary means of safety. He understood that while God had promised his life, he was still called to make efforts for his own security. Paul's actions were not driven by wild enthusiasm, but by a balance of trusting in God's word and using the resources available to him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.0158339055586465,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                23.87,
+                40.57,
+                35.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though divinely assured of safety, Paul never allowed this assurance to interfere with the duty he owed to his own life and the work he had yet to do. He understood the divine promises as being consistent with his own efforts, and he took encouragement from those promises to put forth his own exertions for security and salvation. Paul didn't neglect the ordinary means of safety, recognizing them as the saving hand of the Lord stretched out to him. He exhibited invincible constancy and balanced trust in God's word and practical measures.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9789847604349577,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.14,
+            "commentatorTierSimilarities": [
+                23.17,
+                42.9,
+                33.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, though divinely assured of safety, never allowed this to hamper his responsibility towards his life and the work he still had to accomplish. He planned diligently, treating the divine promises as complementary to his own efforts. Despite the assurance of protection, Paul did not neglect any ordinary means of safety, acknowledging them as the Lord's saving hand. His actions were characterized by a composed and balanced approach, not driven by uncontrolled enthusiasm, but rather by a firm belief in God's promises combined with practical measures for preservation.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.8129328803278004,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "commentatorTierSimilarities": [
+                22.47,
+                44.38,
+                33.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, divinely assured of safety, remained dutiful to his life and mission. He energetically made plans, not disregarding the promises of Jesus. While trusting in divine protection, Paul actively sought ordinary means of safety, recognizing them as the Lord's provision. His actions were driven by a balanced perspective, avoiding unreasoning enthusiasm and relying on a combination of faith in God's word and practical efforts for security. Paul's approach exemplifies invincible constancy in the face of danger, faithfully fulfilling his calling.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.7341171740019474,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                22.25,
+                43.27,
+                34.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

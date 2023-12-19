@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:15:31",
+    "verseRef": "Luke 6:14",
+    "bestBHT": {
+        "bht": "Simon, whom Jesus also named Peter, had a steadfast and reliable character, as the name signifies. Andrew, his brother, joined him in following Jesus, being both brothers in flesh and in faith. James and John, the two sons of Zebedee, were also among the chosen disciples. (43 words)",
+        "wordCount": 47,
+        "quoteTokenProportion": 43.59,
+        "qualityScore": 1.2309004655352633,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.27,
+        "commentatorTierSimilarities": [
+            28.25,
+            0.0,
+            71.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14.] On the catalogue, see notes on Matt. X. l ff."
+        ],
+        "Marvin Vincent": [
+            "On the order of the names, see on Mark 3:17. ",
+            "Andrew. See on Mark 3:18. ",
+            "James and John. See on Mark 3:17. ",
+            "Philip and Bartholomew. See on Mark 3:18."
+        ],
+        "John Gill": [
+            "Simon, whom he also named Peter,.... Which signifies a rock, or stone, as Cephas also does, see John 1:42 from his constancy, steadfastness, and solidity.",
+            "Andrew his brother; who was called at the same time with him, and were brethren, both in nature and grace.",
+            "James and John: the two sons of Zebedee, who were called next."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse mentions a list of names, with Simon being named Peter, which signifies his constancy and steadfastness. Andrew, his brother, was called at the same time and they were not only brothers in nature but also brothers in grace. James and John, the two sons of Zebedee, were also part of the group of disciples called by Jesus. (65 words)",
+            "wordCount": 60,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.1572389379753103,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.82,
+            "commentatorTierSimilarities": [
+                19.82,
+                0.0,
+                80.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Simon, whom Jesus also named Peter, had a steadfast and reliable character, as the name signifies. Andrew, his brother, joined him in following Jesus, being both brothers in flesh and in faith. James and John, the two sons of Zebedee, were also among the chosen disciples. (43 words)",
+            "wordCount": 47,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.2309004655352633,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.27,
+            "commentatorTierSimilarities": [
+                28.25,
+                0.0,
+                71.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Simon, whom Jesus also named Peter, had a steadfast and solid character, as the name suggests, denoting his constancy. Andrew, his brother, was called at the same time as him, and they were not only brothers in nature but also in grace. James and John, the two sons of Zebedee, were also part of the chosen disciples. (50 words)",
+            "wordCount": 58,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.1871208225123444,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.82,
+            "commentatorTierSimilarities": [
+                21.49,
+                0.0,
+                78.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Simon, who was also known as Peter, had a name that signified his constancy and solidity. Andrew, his brother, was called at the same time and they were not only brothers in nature but also in grace. James and John, the two sons of Zebedee, were also included in the group of disciples chosen by Jesus. (50 words)",
+            "wordCount": 57,
+            "quoteTokenProportion": 48.89,
+            "qualityScore": 1.131792949223445,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.98,
+            "commentatorTierSimilarities": [
+                19.09,
+                0.0,
+                80.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simon, whom Jesus also named Peter, had a steady and unwavering nature, as reflected in the meaning of his name. Andrew, his brother, was chosen alongside him, as they were brothers both in flesh and in faith. James and John, the two sons of Zebedee, were also among the individuals called by Jesus to be part of his disciples. (53 words)",
+            "wordCount": 60,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.2133977518004868,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.69,
+            "commentatorTierSimilarities": [
+                25.29,
+                0.0,
+                74.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

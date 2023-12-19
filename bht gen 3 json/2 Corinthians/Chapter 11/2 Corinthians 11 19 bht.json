@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:18:04",
+    "verseRef": "2 Corinthians 11:19",
+    "bestBHT": {
+        "bht": "They were wise, so full of wisdom that they could tolerate, even complacently look down on, the follies of others. This ironic encouragement from the apostle Paul was a plea for their forbearance and patronage as he boasted. Yet Paul's real view of their wisdom was very different, as they willingly indulged the foolish and took pleasure in it. The irony in his words was both obvious and keen, as they showed themselves to be men of wisdom by tolerating and even delighting in the empty-headed.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.037585749195496,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+        "commentatorTierSimilarities": [
+            33.6,
+            29.79,
+            36.61
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They were wise\u2014as 1 Cor. iv. 8, 'filled full'\u2014so full of wisdom as to be able to tolerate complacently, looking down from their 'serene height,' the follies of others.\" ",
+            "This, forsooth, encourages him to hope for their forbearance and patronage.\" ",
+            "The irony does not stop here: it is not only a matter of presumption that they would tolerate fools with complacency, but the matter of fact testified it: they were doing this: and more."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A plea why they should 'bear with' ( :-) him in his folly, that is, boasting.",
+            "Paul's real view of their wisdom was very different.",
+            "Not only can ye do so, but ye are actually doing this and more."
+        ],
+        "Albert Barnes": [
+            "This is perhaps, says Dr. Bloomfield, the most sarcastic sentence ever penned by the apostle Paul.",
+            "You profess to be wondrous wise. And yet you who are so wise a people, freely tolerate those who are foolish in their boasting.",
+            "You may allow me, therefore, to come in for my share, and boast also, and thus obtain your favor."
+        ],
+        "John Calvin": [
+            "For ye bear with fools willingly. He calls them wise \u2014 in my opinion, ironically.",
+            "Since you are so wise, act the part of wise men in bearing with me, whom you treat with contempt, as you would a fool.",
+            "This discourse is not addressed to all indiscriminately, but some particular persons are reproved, who conducted themselves in an unkind manner."
+        ],
+        "Philip Schaff": [
+            "For ye bear for the foolish gladly, being wise yourselves.",
+            "As the wise, pitying the foolish, put up with their foolishness...",
+            "The irony here is obvious and keen."
+        ],
+        "Archibald T. Robertson": [
+            "Gladly (\u03b7\u03b4\u03b5\u03c9\u03c2). Irony again. Cf. \u03ba\u03b1\u03bb\u03bf\u03c2 in 2 Corinthians 11:4 (Mark 7:9). So as to \u03c6\u03c1\u03bf\u03bd\u03b9\u03bc\u03bf \u03bf\u03bd\u03c4\u03b5\u03c2 (being wise). "
+        ],
+        "John Gill": [
+            "They indulged these men in their folly, and that with pleasure and delight; they not only winked at it, and overlooked it, but were pleased with it.",
+            "These words may be considered either as spoken seriously by the apostle, and as wondering that they should suffer such fools to go on in their vain boasts, and especially with pleasure...",
+            "You show yourselves to be men of wisdom, as you would be thought to be; you act the wise part, do not you, in suffering such empty-headed men to converse with you, and delight in their vain talk and conversation?"
+        ],
+        "John Wesley": [
+            "Being wise \u2014 A beautiful irony."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They were wise, so full of wisdom that they could tolerate, even complacently look down on, the follies of others. This ironic encouragement from the apostle Paul was a plea for their forbearance and patronage as he boasted. Yet Paul's real view of their wisdom was very different, as they willingly indulged the foolish and took pleasure in it. The irony in his words was both obvious and keen, as they showed themselves to be men of wisdom by tolerating and even delighting in the empty-headed.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.037585749195496,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+            "commentatorTierSimilarities": [
+                33.6,
+                29.79,
+                36.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They were wise, full of wisdom, able to tolerate and look down on the follies of others. Paul's irony encouraged their forbearance and patronage as he boasted. Yet Paul's true view of their wisdom was different, as they willingly indulged and took pleasure in the foolish. The irony in his words was obvious and keen, as they showed themselves to be men of wisdom by tolerating and delighting in the empty-headed.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.0462181960953068,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+            "commentatorTierSimilarities": [
+                32.3,
+                30.9,
+                36.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "They were wise, so full of wisdom that they could tolerate complacently the follies of others. This encouraged Paul to hope for their forbearance and patronage as he boasted. However, Paul's true view of their wisdom was different, as they willingly indulged the foolish and took pleasure in it. The irony in his words was both obvious and keen, as they showed themselves to be men of wisdom by tolerating and even delighting in the empty-headed.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.9951624314549725,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+            "commentatorTierSimilarities": [
+                33.53,
+                30.86,
+                35.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They were wise, so full of wisdom as to be able to tolerate complacently, looking down from their serene height, the follies of others. This, forsooth, encourages him to hope for their forbearance and patronage. The irony does not stop here: it is not only a matter of presumption that they would tolerate fools with complacency, but the matter of fact testified it: they were doing this and more.",
+            "wordCount": 69,
+            "quoteTokenProportion": 57.69,
+            "qualityScore": 1.9759043669760368,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.04,
+            "commentatorTierSimilarities": [
+                39.29,
+                28.62,
+                32.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians prided themselves on their wisdom, thinking themselves superior to others. Paul, however, saw their so-called wisdom in a different light. He sarcastically points out that they not only tolerated fools but took pleasure in it, as though it was a sign of their wisdom. This irony is meant to highlight their hypocrisy and to build a case for why they should bear with Paul's boasting. The Corinthians' true attitude towards wisdom and folly is exposed in Paul's rhetorical critique.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.9088331232408169,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                35.55,
+                29.91,
+                34.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

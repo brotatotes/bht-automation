@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:27:19",
+    "verseRef": "Acts 7:21",
+    "bestBHT": {
+        "bht": "The daughter of Pharaoh took up Moses, an act that was commonly associated with rescuing exposed children and adopting them as one's own. This adoption led Moses to be raised as the daughter of Pharaoh's own son, granting him the advantage of receiving a privileged education and preparing him for the important role he would eventually fulfill.",
+        "wordCount": 59,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 1.8381535081581384,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+        "commentatorTierSimilarities": [
+            27.94,
+            36.55,
+            35.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Was cast out - When he was exposed on the banks of the Nile.\" ",
+            "And nourished him - Adopted him, and treated him as her own son.",
+            "An adopted son in the family of Pharaoh would be favored with all the advantages which the land could furnish for an education."
+        ],
+        "Marvin Vincent": [
+            "Took up [\u03b1\u03bd\u03b5\u03b9\u03bb\u03b5\u03c4\u03bf]. Used among Greek writers of taking up exposed children; also of owning new-born children.\" ",
+            "So Aristophanes : 'I exposed (the child) and some other woman, having taken it, adopted [\u03b1\u03bd\u03b5\u03b9\u03bb\u03b5\u03c4\u03bf] it' (\"Clouds,\" 531)."
+        ],
+        "Philip Schaff": [
+            "Took him up surely signifies, 'lifted him up out of the water.'",
+            "Far her own son.",
+            "There is a Jewish tradition that, after his adoption by the daughter of the sovereign, Moses was chosen as Pharaoh\u2019s successor."
+        ],
+        "Archibald T. Robertson": [
+            "Took up (\u03b1\u03bd\u03b5\u03b9\u03bb\u03b1\u03c4\u03bf)...in the original sense of taking up from the ground.\" ",
+            "The word was used of old for picking up exposed children as here.\" ",
+            "Literally, 'she nursed him up for herself (\u03b5\u03b1\u03c5\u03c4\u03b7 besides middle voice) as a son.'"
+        ],
+        "John Gill": [
+            "Miriam the sister of Moses, observing what was done, and perceiving the inclination of Pharaoh's daughter to take care of the child, offered to call an Hebrew nurse, to nurse the child for her; to which she agreed, and accordingly went and fetched her own and the child's mother, who took it upon wages, and nursed it for her.\" ",
+            "According to Josephus, she adopted him for her son, having no legitimate offspring, and brought him to her father, and told him how she had taken him out of the river, and had nourished him.",
+            "The thing took with the king and his nobles, and trial was made, and as the child put out his hand to lay hold on the piece of gold or precious stone, the angel Gabriel pushed it away, and he took the coal, and put it to his lips, and to the end of his tongue; which was the cause of his being slow of speech, and of a slow tongue."
+        ],
+        "John Wesley": [
+            "Pharaoh's daughter took him up \u2014 By which means, being designed for a kingdom...",
+            "...he had all those advantages of education...",
+            "...which he could not have had, if he had not been exposed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse tells us that the daughter of Pharaoh took up Moses and brought him up as her own son. This phrase has a deeper meaning, as it was used in ancient times to refer to rescuing and adopting exposed children. In fact, the word took up was also used by Aristophanes to describe adopting a child. This act of rescue and adoption set Moses on a path that would lead to him receiving the best education and being prepared for the role he would play in the future.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6721044792215645,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                36.53,
+                32.81,
+                30.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moses, the central figure in this account, was rescued and adopted by the daughter of Pharaoh. The phrase took up in the original language carries the sense of picking up exposed children. This act of rescue and adoption led to Moses being raised as Pharaoh's own son, which granted him the privileges of education and prepared him for the significant role he would eventually play in history.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.748492813474266,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.48,
+            "commentatorTierSimilarities": [
+                34.88,
+                33.07,
+                32.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses, the central figure in this account, was took up by the daughter of Pharaoh, who adopted him as her own son. The phrase took up denoted the act of rescuing and adopting exposed children. This adoption provided Moses the opportunity of receiving an excellent education and being prepared for the significant role he would later fulfill.",
+            "wordCount": 57,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6663305576259888,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                34.05,
+                35.71,
+                30.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The daughter of Pharaoh took up Moses, an act that was commonly associated with rescuing exposed children and adopting them as one's own. This adoption led Moses to be raised as the daughter of Pharaoh's own son, granting him the advantage of receiving a privileged education and preparing him for the important role he would eventually fulfill.",
+            "wordCount": 59,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.8381535081581384,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                27.94,
+                36.55,
+                35.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses, the central figure in this account, was took up by the daughter of Pharaoh, who adopted him as her own son. This act of taking him up from the ground and rescuing him was commonly associated with adopting exposed children. By being raised as Pharaoh's son, Moses received an excellent education that prepared him for the significant role he would play in history.",
+            "wordCount": 65,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8199871636293146,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                30.89,
+                37.41,
+                31.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

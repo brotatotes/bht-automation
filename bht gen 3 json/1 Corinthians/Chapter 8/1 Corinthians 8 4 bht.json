@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 15:07:52",
+    "verseRef": "1 Corinthians 8:4",
+    "bestBHT": {
+        "bht": "Idols, representing false gods, are mere symbols without real existence or divine power. While worshipped by the heathen, those who possess knowledge understand that idols are nothing more than imaginary entities. The worship of Jesus as God's Son and the Holy Spirit does not imply belief in multiple gods, but rather affirms the belief in one God manifested in three persons. The Corinthians were already aware of this truth and the significance of acknowledging the existence of only one God.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.354169076185086,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.62,
+        "commentatorTierSimilarities": [
+            30.89,
+            31.39,
+            37.72
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "we know that there is no idol in the world, i.e. that the idols of the heathen (meaning not strictly the images, but the persons represented by them) have no existence in the world.\" ",
+            "That they who worship idols, worship devils, the Apostle himself asserts ch. x. 20; but that is no contradiction to the present sentence, which asserts that the deities imagined by them, Jupiter, Apollo, &c., have absolutely no existence.",
+            "Of that subtle Power which, under the guise of these, deluded the nations, he here says nothing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As concerning...the god it represents is not a living reality."
+        ],
+        "Albert Barnes": [
+            "We Corinthians know; and Paul seems fully to admit that they had all the knowledge which they claimed.",
+            "There is no doubt that the more intelligent pagan had this knowledge...it was still doubtless true that the great mass of the pagan world did regard the dumb idols as the proper objects of worship.",
+            "To keep this great truth in mind was the grand object of the Jewish economy...even though they should partake of the meat that was offered in sacrifice to idols, yet they supposed it was not possible that any of them could forget the great cardinal truth that there was but one God."
+        ],
+        "John Calvin": [
+            "An idol is nothing...It is appointed for the purpose of representing God: nay more, for the purpose of representing false gods, inasmuch as there is but one God.",
+            "An idol is nothing because there is no God but one; for he is the invisible God, and cannot be represented by a visible sign, so as to be worshipped through means of it.",
+            "Whether, therefore, idols are erected to represent the true God, or false gods, it is in all cases a perverse contrivance."
+        ],
+        "Archibald T. Robertson": [
+            "No idol is anything in the world.\" ",
+            "If the god has no existence, the idol is a non-entity.",
+            "The worship of Jesus as God's Son and the Holy Spirit does not recognize three Gods, but one God in three Persons."
+        ],
+        "John Gill": [
+            "We know that an idol is nothing in the world... it is nothing, that is, it has no divinity in it, it is no God.",
+            "\u05e9\u05d0\u05d9\u05df \u05d1\u05d4 \u05de\u05de\u05e9, 'since it is nothing, or there is nothing in it.'",
+            "There is none other God but one."
+        ],
+        "John Wesley": [
+            "We know that an idol is nothing \u2014 A mere nominal god, having no divinity, virtue, or power."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Idols may be worshipped by the heathen, but they are mere representations without any real existence or power. These idols do not represent the subtle power that deludes nations, but rather false gods that are simply figments of imagination. The worship of Jesus as God's Son and the Holy Spirit does not imply the recognition of three gods, but rather one God in three persons. The knowledge that idols are nothing and that there is only one God was not foreign to the Corinthians, who held this understanding. Despite the fact that some pagans considered idols as proper objects of worship, those who had knowledge were aware that idols were mere symbols and not living realities. Thus, the concept of there being no other God but one was an important truth to remember.",
+            "wordCount": 134,
+            "quoteTokenProportion": 45.88,
+            "qualityScore": 2.4354501290504804,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.32,
+            "commentatorTierSimilarities": [
+                31.44,
+                31.82,
+                36.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Idols, though worshipped by the heathen, have no existence in the world and lack divine power. The false gods they represent are nothing more than imaginary entities. The worship of Jesus and the Holy Spirit does not imply the recognition of multiple gods, but rather affirms belief in one God manifested in three persons. The Corinthians already possessed this knowledge, understanding that idols serve as mere symbols and not living realities. Thus, the fundamental truth that there is only one God was crucial for them to remember.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.2650197102429215,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.65,
+            "commentatorTierSimilarities": [
+                32.82,
+                30.94,
+                36.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Idols, representing false gods, hold no real existence and lack divine power. While the heathen may worship them, those who possess knowledge understand that idols are merely symbolic and do not truly exist. The worship of Jesus as God's Son and the Holy Spirit does not imply belief in multiple gods, but rather affirms the belief in one God manifested in three persons. The Corinthians already understood this fundamental truth and the importance of recognizing that there is only one God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.284979174865982,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.32,
+            "commentatorTierSimilarities": [
+                30.49,
+                32.46,
+                37.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Idols, representing false gods, are mere symbols without real existence or divine power. While worshipped by the heathen, those who possess knowledge understand that idols are nothing more than imaginary entities. The worship of Jesus as God's Son and the Holy Spirit does not imply belief in multiple gods, but rather affirms the belief in one God manifested in three persons. The Corinthians were already aware of this truth and the significance of acknowledging the existence of only one God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.354169076185086,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.62,
+            "commentatorTierSimilarities": [
+                30.89,
+                31.39,
+                37.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Idols are empty representations lacking real existence or divine power. Though worshipped by the heathen, idols are nothing more than imaginary entities symbolizing false gods. The worship of Jesus as God's Son and the Holy Spirit does not imply belief in multiple gods, but rather affirms belief in one God revealed in three persons. The Corinthians, already possessing this knowledge, recognized the importance of acknowledging the existence of only one God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.28384662485592,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.28,
+            "commentatorTierSimilarities": [
+                31.75,
+                29.76,
+                38.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

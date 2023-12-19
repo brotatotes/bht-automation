@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:28:17",
+    "verseRef": "Ephesians 2:17",
+    "bestBHT": {
+        "bht": "In an act of love, Jesus came and announced peace to the apostles, bringing light to both Jews and Gentiles. Through His death on the Cross, Christ proclaimed peace to those far off and near, offering reconciliation with God. This gospel of peace is a powerful declaration of God's love and His desire for peace, providing comfort and guiding believers towards eternal peace. By the Cross, Christ preaches this message of peace to both Jew and Gentile, offering the means to find peace with God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 2.167101520769209,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.4,
+        "commentatorTierSimilarities": [
+            31.05,
+            34.87,
+            34.08
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He came\" of His own free love, and \"announced peace\" with His own mouth to the apostles.",
+            "He showed light to the people ('them that were nigh') and to the Gentiles ('you that were afar off'),\" by His Spirit in His ministers.",
+            "The repetition implies the joy with which both alike would dwell again and again upon the welcome word \"peace."
+        ],
+        "Albert Barnes": [
+            "The system of religion which he proclaimed, was adapted to produce peace with God.",
+            "He was the author of the system which proclaimed salvation to both.",
+            "The word 'peace' here refers to reconciliation with God."
+        ],
+        "John Calvin": [
+            "The fruit of this peace has now been offered both to Jews and to Gentiles.\" ",
+            "Salvation through the death of Christ is first announced, and a description is afterwards given of the manner in which Christ communicates to us himself and the benefit of his death.",
+            "Observe here, the gospel is the message of peace, by which God declares himself to be reconciled to us, and makes known his paternal love."
+        ],
+        "Philip Schaff": [
+            "And he came and preached (\u2018brought good tidings of\u2019) peace.",
+            "In the case of each Christian this coming is at conversion.",
+            "The repetition of the word \u2018peace\u2019 with both classes shows that it has here its complex sense, but with the emphasis resting on \u2018peace with God.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "He gospelized peace\" to both Jew and Gentile. ",
+            "To the far off ones and to the nigh ones.\" ",
+            "By the Cross and after the Cross Christ could preach that message."
+        ],
+        "John Gill": [
+            "And the subject of their ministry was peace, Christ who is our peace, and peace made by his blood, and the Gospel of peace, which declares both these; and it is the means of making persons of peaceable dispositions; its doctrines and promises, when powerfully applied, give peace to distressed minds, and quiet to doubting saints; and it shows the way to eternal peace.",
+            "The Alexandrian copy, some others, and the Vulgate Latin and Ethiopic versions, read 'peace', in this clause, as in the former; the apostle seems to have respect to Isaiah 57:19.",
+            "A like description and distinction of Jews and Gentiles may be observed in the writings of the Jews h; so they say, 'the Israelites are near unto the holy King, and the rest of the nations are far from him.'"
+        ],
+        "John Wesley": [
+            "And he came \u2014 After his resurrection.",
+            "To you \u2014 Gentiles.",
+            "And to them that were nigh \u2014 To the Jews, who were comparatively nigh, being his visible church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through His own loving initiative, Jesus came and proclaimed peace to both the apostles and the ministers of His Spirit, bringing enlightenment to both the Jews and the Gentiles. The repetition of peace emphasizes the joy with which this message was delivered. By His death on the Cross and beyond, Christ gospelized peace, offering it to both those who were far off and those who were near. This proclamation of peace is at the heart of the gospel, reconciling us with God and announcing His love for us. It is a message that brings peace to troubled hearts, guiding us towards eternal peace and quieting the doubts of believers.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.9622718351888793,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "commentatorTierSimilarities": [
+                32.95,
+                35.11,
+                31.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through His own free love, Jesus came and announced peace to the apostles and ministers. He brought light to both Jews and Gentiles, repeatedly proclaiming the joyful word peace. By the Cross, Christ preached this message to all, offering peace and reconciliation with God. This gospel of peace brings comfort to troubled hearts and guides us towards eternal peace. It is a powerful declaration of God's love and His desire for peace with us, both near and far.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.057045589396489,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+            "commentatorTierSimilarities": [
+                33.67,
+                35.07,
+                31.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through His own free love, Jesus came and proclaimed peace to the apostles, showing light to both Jews and Gentiles. By the Cross, Christ gospelized peace to all, offering reconciliation with God. This gospel of peace brings comfort, peace, and quiet to believers, guiding them to eternal peace. The message of peace is a powerful declaration of God's love and desire for reconciliation, both near and far.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 2.0756625791924304,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.36,
+            "commentatorTierSimilarities": [
+                31.1,
+                36.78,
+                32.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a gracious display of love, Jesus came and announced peace to the apostles, bringing light to both Jews and Gentiles. The repetition of peace signifies the joy with which this message was proclaimed. By His death on the Cross, Christ gospelized peace to both those far off and those near, offering reconciliation and peace with God. This gospel of peace is a powerful declaration of God's love and His desire for peace, which brings comfort, tranquility, and guides believers towards eternal peace.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.0258463342977593,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                31.22,
+                36.16,
+                32.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In an act of love, Jesus came and announced peace to the apostles, bringing light to both Jews and Gentiles. Through His death on the Cross, Christ proclaimed peace to those far off and near, offering reconciliation with God. This gospel of peace is a powerful declaration of God's love and His desire for peace, providing comfort and guiding believers towards eternal peace. By the Cross, Christ preaches this message of peace to both Jew and Gentile, offering the means to find peace with God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.167101520769209,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.4,
+            "commentatorTierSimilarities": [
+                31.05,
+                34.87,
+                34.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:15:41",
+    "verseRef": "Jude 2",
+    "bestBHT": {
+        "bht": "May God's mercy, peace, and love be multiplied to you abundantly. These blessings -- the choicest gifts -- include the pardon of sins, acceptance with God, reconciliation, and deep inner peace. They represent the divine Trinity. Let God's grace be multiplied, increasing our assurance of His love and kindling mutual love among us. His mercy embraces us, shown in the covenant of grace, provision of Christ, and our whole salvation. May there be a multiplication of peace, prosperity, and an abundance of love, leading us to greater acts of love and fresh manifestations of His abundant love.",
+        "wordCount": 97,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 2.083137004205964,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.61,
+        "commentatorTierSimilarities": [
+            28.48,
+            35.54,
+            35.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Mercy to you, and peace, and love, be multiplied.",
+            "God's mercy, God\u2019s peace, God\u2019s love: see ver. 21.",
+            "In the somewhat similar passage, Eph. vi. 23, the love and faith are clearly, in themselves, the gift of God: mutual love, or love towards God. But the other seems better here."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mercy stands first; the mercy of Christ.",
+            "Peace... in the Holy Ghost.",
+            "Love... of God. The three answer to the divine Trinity."
+        ],
+        "Albert Barnes": [
+            "These things are mentioned as the choicest blessings which could be conferred on them: 'mercy' - in the pardon of all their sins and acceptance with God; 'peace' - with God, with their fellow-men, in their own consciences, and in the prospect of death; and 'love' - to God, to the brethren, to all the world.\" ",
+            "What blessings are there which these do not include?"
+        ],
+        "Marvin Vincent": [
+            "Love. Peculiar to Jude in salutation."
+        ],
+        "John Calvin": [
+            "Grace is properly the effect of mercy; for there is no other reason why God has embraced us in love, but that he pitied our miseries.\" ",
+            "If it be referred to God, the meaning is, that it might increase towards them, and that the assurance of divine love might be daily more confirmed in their hearts.\" ",
+            "The other meaning is, however, not unsuitable, that God would kindle and confirm in them mutual love."
+        ],
+        "Philip Schaff": [
+            "\u2018Mercy\u2019 is God\u2019s feeling towards them; \u2018peace\u2019 is their condition as the result of it; \u2018love\u2019 is either their feeling Godward and manward as the effect of God\u2019s grace.",
+            "This last view seems preferable; it is for the fulness of love he prays, as it is for abundance of mercy and peace.",
+            "In Paul\u2019s view, those who minister in holy things specially need it [mercy], as in Jude\u2019s view do those whom he addresses."
+        ],
+        "Archibald T. Robertson": [
+            "Be multiplied (\u03c0\u03bb\u03b7\u03b8\u03c5\u03bd\u03b8\u03b5\u03b9\u03b7). First aorist passive optative of \u03c0\u03bb\u03b7\u03b8\u03c5\u03bd\u03c9 as in 1 Peter 1:2; 2 Peter 1:2. "
+        ],
+        "John Gill": [
+            "Mercy is a perfection in God; and shows itself in a special manner towards the elect, in the covenant of grace, in the provision of Christ as a Saviour, in the mission of him into this world, in redemption by him, in the forgiveness of sin, in regeneration, and in their whole salvation.",
+            "A multiplication of 'peace' from Christ... may include peace, and an abundance of it, among themselves, as well as all prosperity, both external, internal, and eternal.",
+            "A multiplication of 'love' is wished for from the Spirit of God... when it is gradually shed abroad in their hearts by the Spirit, and they are by degrees led into it more and more, and the acts of it are drawn out and set before them one after another, and fresh manifestations of it are made unto them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May God's mercy, peace, and love be multiplied to you abundantly. These blessings are the choicest gifts that can be bestowed upon believers. God's mercy pardons all our sins and grants us acceptance with Him. His peace brings reconciliation with God, with others, and within ourselves. His love is both our response towards God and our love towards others. It is through these three that we experience the divine Trinity. Let God's grace be multiplied in increasing measure, deepening our assurance of His love and kindling mutual love among us. Through His mercy, we are embraced in love, shown in the covenant of grace, the provision of Christ, and our whole salvation. May there be a multiplication of peace, including prosperity in all areas of our lives. And may the Spirit of God continually multiply His love within us, gradually leading us to greater acts of love and fresh manifestations of His abundant love.",
+            "wordCount": 157,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.028827074306493,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.8,
+            "commentatorTierSimilarities": [
+                28.02,
+                35.47,
+                36.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May God's mercy, peace, and love be multiplied to you abundantly. These blessings are the choicest gifts, including the pardon of sins, acceptance with God, reconciliation, and deep inner peace. It is through them that we experience the divine Trinity. Let God's grace be multiplied, increasing our assurance of His love and kindling mutual love among us. His mercy embraces us, shown in the covenant of grace, provision of Christ, and our whole salvation. May there be a multiplication of peace, prosperity, and an abundance of love, gradually leading us to greater acts of love and fresh manifestations of His abundant love.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.089279434276907,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.81,
+            "commentatorTierSimilarities": [
+                28.16,
+                35.67,
+                36.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May God's mercy, peace, and love be multiplied to you abundantly. These blessings -- the choicest gifts -- include the pardon of sins, acceptance with God, reconciliation, and deep inner peace. They represent the divine Trinity. Let God's grace be multiplied, increasing our assurance of His love and kindling mutual love among us. His mercy embraces us, shown in the covenant of grace, provision of Christ, and our whole salvation. May there be a multiplication of peace, prosperity, and an abundance of love, leading us to greater acts of love and fresh manifestations of His abundant love.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.083137004205964,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.61,
+            "commentatorTierSimilarities": [
+                28.48,
+                35.54,
+                35.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May God's mercy, peace, and love be multiplied to you abundantly. These blessings include the pardon of sins, acceptance with God, reconciliation, and deep inner peace. They represent the divine Trinity. Let God's grace be multiplied, increasing our assurance of His love and kindling mutual love among us. His mercy embraces us, shown in the covenant of grace, provision of Christ, and our whole salvation. May there be a multiplication of peace, prosperity, and an abundance of love, leading us to greater acts of love and fresh manifestations of His abundant love.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.0786556347798455,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+            "commentatorTierSimilarities": [
+                28.51,
+                35.54,
+                35.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May God's mercy, peace, and love be multiplied to you abundantly. These blessings include the pardon of sins, acceptance with God, reconciliation, and deep inner peace. They represent the divine Trinity. Let God's grace be multiplied, increasing our assurance of His love and kindling mutual love among us. His mercy embraces us, shown in the covenant of grace, provision of Christ, and our whole salvation. May there be a multiplication of peace, prosperity, and an abundance of love, leading us to greater acts of love and fresh manifestations of His abundant love.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.0786556347798455,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+            "commentatorTierSimilarities": [
+                28.51,
+                35.54,
+                35.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

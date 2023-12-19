@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:13:20",
+    "verseRef": "Luke 1:9",
+    "bestBHT": {
+        "bht": "The burning of incense in the temple was a highly esteemed and symbolic duty, allotted to a single priest each day through casting lots. This task took place in the morning and was regarded as the most honorable service among the priests. The smoke of the incense symbolized the ascent of prayer and it was during this moment that an angel appeared to Zacharias. The burning of incense not only held great importance in the temple rituals, but it also reminded believers that their prayers were accepted through the sacrifice of the Mediator.",
+        "wordCount": 93,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 2.474982443967522,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.63,
+        "commentatorTierSimilarities": [
+            29.9,
+            35.81,
+            34.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was the most honorable office which was allotted among the priests each day, and the same person could not serve it more than once.",
+            "Their prayers were offered while the incense was burnt, as the smoke was symbolical of the ascent of prayer.",
+            "It appears, from the allotment having been just mentioned, to have been the morning incense burning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "his lot was to burn incense\u2014The part assigned to each priest in his week of service was decided by lot.\" ",
+            "This was the most distinguished part of the service.",
+            "and this was what fell to the lot of Zacharias at this time [LIGHTFOOT]."
+        ],
+        "Albert Barnes": [
+            "The Jewish writers inform us that it was customary for the priests to divide their daily task by \u2018lot.\u2019",
+            "It was burned by the priest twice a day\u2026 and it seems to have been emblematic of prayer and praise, or of the grateful offerings of the heart wafted toward heaven.",
+            "The part of the temple where incense was burned was the \u2018holy place.\u2019"
+        ],
+        "Marvin Vincent": [
+            "There are said to have been twenty thousand priests in Christ's time, so that no priest would ever offer incense more than once.",
+            "The incensing priest and his assistants went first to the altar of burnt offering, and filled a golden censer with incense, and placed burning coals from the altar in a golden bowl.",
+            "When the signal was given, the whole multitude withdrew from the inner court, and fell down before the Lord. Silence pervaded the temple, while within, the clouds of incense rose up before Jehovah."
+        ],
+        "John Calvin": [
+            "The word temple (\u03bd\u1f70\u03bf\u03c2) is here put for the holy place; which deserves attention, for it sometimes includes the outer court.",
+            "For it was the will of the Lord to have this impressed upon his people, that no mortal is allowed to have access to heaven, without a priest going before.",
+            "The design of the incense was to remind believers that the sweet savor of their prayers does not ascend to heaven except through the sacrifice of the Mediator."
+        ],
+        "Philip Schaff": [
+            "The \u2018custom\u2019 was to assign by lot for each day the various parts of the service to the priests of the course on duty for the week.",
+            "To enter into the temple of the Lord, i.e., \u2018the holy place.\u2019 Beyond this only the high-priest could go.",
+            "One priest took fire from this altar to the altar of incense, and then left the priest, whose duty it was to bum incense, alone in the holy place."
+        ],
+        "Archibald T. Robertson": [
+            "It was the great moment of Zacharias's life, and his heart was no doubt alert for the supernatural\" (Ragg).",
+            "The fortunate lot was 'a white stone' to which Revelation 2:17 may refer.",
+            "It was probably at this time that the angel appeared to Zacharias\" (Vincent)."
+        ],
+        "John Gill": [
+            "The burning of incense, as other parts of the priest's service, was by lot; and that they were new priests, or such who had never burnt incense, that cast lots for it.",
+            "No man ever burnt incense twice; the reason assigned for it is, because it makes a man rich; and therefore that every one might partake of the blessing in their turns, new ones were called unto it.",
+            "Whether Zacharias had ever burnt incense before, and whether he now did it in the morning or evening, is not certain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The burning of incense in the temple was a highly esteemed and symbolic duty assigned to a different priest each day. It was regarded as the most honorable office among the priests, and the priest who performed this task could only do so once in their lifetime. The incense was burned while prayers were offered, symbolizing the ascent of prayer to God. Zacharias, through the casting of lots, was chosen for this distinguished part of the service, which took place in the morning. It was during this significant moment that an angel appeared to Zacharias. The burning of incense not only held great importance in the temple rituals but also served to remind believers that their prayers are only accepted through the sacrifice of the Mediator.",
+            "wordCount": 126,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.3301176596814734,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.82,
+            "commentatorTierSimilarities": [
+                31.56,
+                35.75,
+                32.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The burning of incense in the temple was a highly esteemed and symbolic duty assigned to a different priest each day. It was regarded as the most honorable office among the priests, and the incense was burned while prayers were offered. Zacharias, through the casting of lots, was chosen for this distinguished part of the service, which took place in the morning. It was during this significant moment that an angel appeared to Zacharias. The burning of incense not only held great importance in the temple rituals but also served to remind believers that their prayers are only accepted through the sacrifice of the Mediator.",
+            "wordCount": 105,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.3741312158223384,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.28,
+            "commentatorTierSimilarities": [
+                31.91,
+                35.24,
+                32.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The burning of incense in the temple was a highly esteemed and symbolic duty, allotted to a single priest each day through casting lots. This task took place in the morning and was regarded as the most honorable service among the priests. The smoke of the incense symbolized the ascent of prayer and it was during this moment that an angel appeared to Zacharias. The burning of incense not only held great importance in the temple rituals, but it also reminded believers that their prayers were accepted through the sacrifice of the Mediator.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.474982443967522,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.63,
+            "commentatorTierSimilarities": [
+                29.9,
+                35.81,
+                34.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The burning of incense in the temple was a highly esteemed duty assigned to a different priest each day. The priest would burn incense while prayers were offered, symbolizing the ascent of prayer. Zacharias was chosen by lot to perform this significant task in the morning. It was during this pivotal moment that an angel appeared to him. The burning of incense not only held great importance in the temple rituals but also served as a reminder that prayers are accepted through the sacrifice of the Mediator.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.266981863040041,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.72,
+            "commentatorTierSimilarities": [
+                31.18,
+                36.11,
+                32.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The burning of incense in the temple was a highly esteemed and symbolic duty assigned by lot to a different priest each day. Zacharias had the fortune of being chosen for this distinguished role, which took place in the morning. As the smoke of incense rose, it represented the ascent of prayer to God. It was during this significant moment that an angel appeared to Zacharias. The burning of incense held great importance in the temple rituals, reminding believers that their prayers are accepted through the sacrifice of the Mediator.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.22573273861207,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.35,
+            "commentatorTierSimilarities": [
+                32.13,
+                35.18,
+                32.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

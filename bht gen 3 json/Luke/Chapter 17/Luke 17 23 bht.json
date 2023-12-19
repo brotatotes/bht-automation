@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:21:11",
+    "verseRef": "Luke 17:23",
+    "bestBHT": {
+        "bht": "Beware of false reports about the coming of Christ. Don't be deceived by those who claim to know the times and places of his second advent. The Messiah was already present in his first advent, even though the Pharisees failed to recognize him. Do not be swayed by those who cry see here and see there every time a crisis unfolds. Do not rush after those who set times and places for the second coming.",
+        "wordCount": 76,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8305686840716775,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.21,
+        "commentatorTierSimilarities": [
+            42.02,
+            27.77,
+            30.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "'Ye shall not see one of those days;\u2014therefore do not run after false reports of My coming.'",
+            "A warning to all so-called expositors, and followers of expositors, of prophecy, who cry 'see here' and 'see there,' every time that war breaks out, or revolutions occur.",
+            "See on these verses, 23, 24, Matt. xxiv. 23\u201327 and notes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Lo there and see here, every time that war breaks out or revolutions occur.",
+            "A warning to all so-called expositors of prophecy and their followers.",
+            "Go not."
+        ],
+        "Philip Schaff": [
+            "In this state of longing they would be in danger of being deceived by false tokens.\" ",
+            "The same danger has always existed.",
+            "The reference is to the place of our Lord\u2019s Second Advent, about which (as well as the time) many busy themselves."
+        ],
+        "Archibald T. Robertson": [
+            "Do not rush after those who set times and places for the second advent.",
+            "The Messiah was already present in the first advent though the Pharisees did not know it.",
+            "The Messiah was already present in the first advent though the Pharisees did not know it."
+        ],
+        "John Gill": [
+            "It shall be said by one or another; Christ is in such a place, or he is in such a place, and he will quickly appear, and deliver the people of the Jews out of all their distresses and calamities by the Romans.",
+            "Give no credit to them; as if Christ was come again in person, and was in such a place, do not go along with them, where they direct, as into the desert, or into the secret chambers.",
+            "To follow them will be very dangerous, of bad consequence, as well as vain and fruitless."
+        ],
+        "John Wesley": [
+            "They shall say, See, Christ is here, or there \u2014 Limiting his presence to this or that place. Matthew 24:23."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of false reports about the coming of Christ. Don't be deceived by those who claim to know the times and places of his second advent. The Messiah was already present in his first advent, even though the Pharisees failed to recognize him. In our longing for his return, we must not be swayed by those who cry see here and see there every time a crisis unfolds. The danger of being deceived by false tokens has always existed, with many busy themselves with speculations about the place and time of Christ's return. But do not fall into their trap. Do not rush after those who set times and places for the second coming.",
+            "wordCount": 116,
+            "quoteTokenProportion": 50.67,
+            "qualityScore": 1.7347065021337853,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.02,
+            "commentatorTierSimilarities": [
+                36.7,
+                32.64,
+                30.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware of false reports about the coming of Christ. Don't be deceived by those who claim to know the times and places of his second advent. The Messiah was already present in his first advent, even though the Pharisees failed to recognize him. Do not be swayed by those who cry see here and see there every time a crisis unfolds. Do not rush after those who set times and places for the second coming.",
+            "wordCount": 76,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8305686840716775,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.21,
+            "commentatorTierSimilarities": [
+                42.02,
+                27.77,
+                30.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of those who claim to know the exact time and place of Christ's return, for they are false prophets leading people astray. The Messiah was already present in his first advent, though the Pharisees did not recognize him, and so we must not be easily swayed by those who shout, See here! or See there! whenever there is war or revolution. Do not rush after those who set times and places for the second advent, for in our longing, we may be deceived by false tokens. Instead, let us remain steadfast in our faith, knowing that the true return of Christ will not be confined to a specific location.",
+            "wordCount": 111,
+            "quoteTokenProportion": 46.84,
+            "qualityScore": 1.6122527117106897,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                36.25,
+                28.76,
+                34.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of false prophets who claim to know the time and place of Christ's return. Just as the Pharisees did not recognize the Messiah in his first advent, we must not be easily swayed by those who shout, See here! or See there! Let us not rush after those who set specific times and places for the second advent, for in our longing, we may be deceived by false signs. Instead, let us remain steadfast in our faith, knowing that the true return of Christ cannot be confined to a particular location.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.619608001789277,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+            "commentatorTierSimilarities": [
+                35.93,
+                27.56,
+                36.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of false expositors who claim to know the exact time and place of Christ's second coming, for they are like those who cry, See here! or See there! every time there is war or revolution. The Messiah was already present in his first advent, though the Pharisees failed to recognize him. Do not be deceived by those who try to pinpoint the location of Christ's return; instead, remain steadfast in your faith, as his coming cannot be limited to a specific place.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.5770449401990276,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+            "commentatorTierSimilarities": [
+                39.06,
+                24.67,
+                36.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

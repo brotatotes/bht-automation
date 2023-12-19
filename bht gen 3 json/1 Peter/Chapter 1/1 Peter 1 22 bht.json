@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:38:59",
+    "verseRef": "1 Peter 1:22",
+    "bestBHT": {
+        "bht": "By purifying our souls through obedience to the truth, we cultivate unfeigned brotherly love that comes straight from the heart. This love is our evidence of regeneration and justification by faith, a distinguishing characteristic of true Christianity. The Holy Spirit, as the purifier, grants us the obedience of faith necessary for this purification. It is not enough to merely profess religion, but rather we are called to love one another fervently, with a pure heart, as a result of our obedience to God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 2.2423267537930522,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.9,
+        "commentatorTierSimilarities": [
+            32.94,
+            31.65,
+            35.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Having purified your souls in your obedience of the truth.",
+            "The legitimate tendency of that purification...was toward unfeigned brotherly love.",
+            "Let the love come straight and pure...with the energies on the stretch."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faith purifies the heart as giving it the only pure motive, love to God.",
+            "The Holy Spirit is the purifier by bestowing the obedience of faith.",
+            "Love to the brethren is the evidence of our regeneration and justification by faith."
+        ],
+        "Albert Barnes": [
+            "No one is made pure without personal intention or effort - any more than one becomes accomplished or learned without personal exertion.",
+            "The amount of effort which we make 'in purifying our souls' is usually also the measure of our attainments in religion.",
+            "Love to Christian brethren springs up in the soul of everyone who is truly converted: and this love is just as certain evidence that the seed of truth has germinated in the soul."
+        ],
+        "Marvin Vincent": [
+            "In the moral sense, as here, James 4:8; 1 John 3:3.\" ",
+            "Obedience. A peculiarly New Testament term unknown in classical Greek.",
+            "The words are compounded with the verb teinw, to stretch, and signify intense strain; feeling on the rack."
+        ],
+        "John Calvin": [
+            "Your souls are to be purified, but as ye cannot do this, offer them to God, that he may take away your filth by his Spirit.",
+            "Purity of soul consists in obedience to God.",
+            "This, then, is the reason why Peter calls our attention to it, when speaking of a life rightly formed."
+        ],
+        "Philip Schaff": [
+            "What it implies, therefore, is a moral purification from everything inconsistent with a religious destination.",
+            "The purification implies, the creation of a disposition which is alien to all love that is unreal or selfish.",
+            "Let the clearness of the stream that brightens and gladdens the scenes of your daily intercourse attest the purity of the fountain whence it flows."
+        ],
+        "Archibald T. Robertson": [
+            "There is cleansing power in the truth of God in Christ.",
+            "No other kind of \u03c6\u03b9\u03bb\u03b1\u03b4\u03b5\u03bb\u03c6\u03b9\u03b1 (brotherly love) is worth having.",
+            "From the heart fervently."
+        ],
+        "John Gill": [
+            "it is internal purity, purity of the heart, that is here particularly respected; though not to the exclusion of outward purity, for where there is the former, there will be the latter",
+            "the Spirit of Christ does from him purify the heart by faith in his blood; by sprinkling that on the conscience, and by leading the faith of God's people to the fountain of it",
+            "this is Christ's new commandment, and the evidence of regeneration; a distinguishing badge of Christianity, and without which all profession of religion is a vain and empty thing"
+        ],
+        "John Wesley": [
+            "Having purified your souls by obeying the truth through the Spirit.",
+            "Love one another fervently.",
+            "With a pure heart - Pure from any spot of unholy desire or inordinate passion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Having purified our souls through our obedience to the truth, our hearts are directed towards unfeigned brotherly love. This love is not to be superficial or self-serving, but rather it is to be genuine and wholehearted. Faith purifies our hearts and gives us the pure motive of love for God. This purification is the work of the Holy Spirit, who grants us the obedience that comes from faith. Our love for fellow believers is evidence of our renewal and justification through faith. Let us strive to love one another intensely, with our energies fully invested. May the purity of our hearts be evident in the clear and refreshing stream of brotherly love that flows through our daily interactions.",
+            "wordCount": 119,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 2.042501245396812,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+            "commentatorTierSimilarities": [
+                34.47,
+                32.25,
+                33.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through our obedience to the truth, we have purified our souls. This purification is directed towards sincere brotherly love, with a pure and fervent heart. The Holy Spirit plays a crucial role in the purification process, bestowing upon us the obedience that stems from faith. Our love for fellow believers serves as evidence of our regeneration and justification by faith. Let us strive to love one another intensely, with our energies fully devoted to this pure form of brotherly love.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.1656086088761706,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.35,
+            "commentatorTierSimilarities": [
+                33.43,
+                31.68,
+                34.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By purifying our souls through obedience to the truth, we cultivate unfeigned brotherly love that comes straight from the heart. This love is our evidence of regeneration and justification by faith, a distinguishing characteristic of true Christianity. The Holy Spirit, as the purifier, grants us the obedience of faith necessary for this purification. It is not enough to merely profess religion, but rather we are called to love one another fervently, with a pure heart, as a result of our obedience to God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.2423267537930522,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.9,
+            "commentatorTierSimilarities": [
+                32.94,
+                31.65,
+                35.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through our obedience to the truth, our souls are purified, leading us toward genuine brotherly love. This love should be pure, intense, and stretched to its limits. It is by faith that our hearts are cleansed, allowing us to love God and our fellow believers. The Holy Spirit plays a crucial role in this purification, bestowing upon us the obedience born out of faith. Our love for one another is the evidence of our regeneration and justification.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0531430615587496,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                35.04,
+                30.52,
+                34.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through our obedience to the truth, our souls are purified, allowing us to cultivate unfeigned brotherly love from the heart. This pure love, fueled by the energies of our obedience, serves as evidence of our regeneration by faith. The Holy Spirit acts as the purifier, bestowing upon us the obedience that arises from our faith. Our love for fellow believers is a distinguishing mark of our Christianity, demonstrating our genuine renewal and justification. Let us love one another fervently, with hearts purified and untainted by unholy desires.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.130310839884888,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.17,
+            "commentatorTierSimilarities": [
+                34.77,
+                28.81,
+                36.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

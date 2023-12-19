@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:20:12",
+    "verseRef": "Luke 14:33",
+    "bestBHT": {
+        "bht": "True Christian discipleship is rooted in the act of self-renunciation. It involves bidding farewell to all earthly possessions and desires that may hinder one's whole-hearted commitment to Christ. This does not necessitate the literal abandonment of everything, but rather a heartfelt devotion to prioritizing Christ above all else. The spirit of self-sacrifice, whereby one forsakes all for the sake of following Jesus, lies at the core of genuine discipleship, demonstrating that He is held in higher regard than our own lives and worldly attachments.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.5770477088871053,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+        "commentatorTierSimilarities": [
+            29.99,
+            36.01,
+            34.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Bidding farewell to all that he hath in both cases.",
+            "The ordinary misinterpretation of this parable is in taking the king with twenty thousand to be the ruler of this world, i.e. Satan\u2014which destroys all the sense.",
+            "For with him the natural man is at peace, but the disciple of Christ at war."
+        ],
+        "Marvin Vincent": [
+            "In that forsaketh lies the key to the whole passage\" (Trench).",
+            "Christian discipleship is founded in self-renunciation.",
+            "Forsaketh: Bids good-bye to; Rev., renounceth."
+        ],
+        "John Calvin": [
+            "Those persons are said to forsake all who prefer Christ so greatly, both to their own life, and to all the wishes of the flesh, that nothing deters them from the right course.",
+            "It would be absurd to insist on a literal interpretation of the phrase, as if no man were a disciple of Christ, till he threw into the sea all that he possessed, divorced his wife, and bade farewell to his children.",
+            "Thus the true self-denial which the Lord demands from his followers does not consist so much in outward conduct as in the affections; so that every one must employ the time which is passing over him without allowing the objects which he directs by his hand to hold a place in his heart."
+        ],
+        "Philip Schaff": [
+            "Unless one is prepared to do this, after due consideration and with a full view of his own insufficiency, he cannot be my disciple.\" ",
+            "The illustrations are applied to the principle laid down in Luke 14:26-27.\" ",
+            "The principle laid down in Luke 14:33 is that nothing must be allowed to stand in the way of following Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Renounceth not... to renounce, forsake.\" ",
+            "All that he hath... says good-bye to all his property.",
+            "The spirit of self-sacrifice is the point."
+        ],
+        "John Gill": [
+            "Let him be ever so forward to follow me, to make a profession of me and of my Gospel, and to become a disciple of mine.\" ",
+            "When called to it, relations, friends, possessions, estates, and what not, which is an explanation of Luke 14:26.",
+            "He is not in fact one, and is not worthy to be called one."
+        ],
+        "John Wesley": [
+            "By withdrawing his affections from all the creatures...",
+            "By enjoying them only in and for God...",
+            "By hating them all, in the sense above mentioned..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "True discipleship requires a radical self-renunciation that goes beyond mere outward conduct. It involves bidding farewell to all possessions, relationships, and earthly desires that might hinder a whole-hearted commitment to Christ. This is not about a literal interpretation that demands the abandonment of everything, but rather about a deep sense of placing Christ above all else. It is the spirit of self-sacrifice, the willingness to forsake all for the sake of following Jesus, that lies at the heart of Christian discipleship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.5689161170370822,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+            "commentatorTierSimilarities": [
+                29.76,
+                36.55,
+                33.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True discipleship is founded in self-renunciation. It requires bidding farewell to all possessions and earthly desires that might hinder a whole-hearted commitment to Christ. This is not about a literal interpretation that demands abandonment of everything, but rather a deep sense of prioritizing Christ above all else. It is the spirit of self-sacrifice, forsaking all for the sake of following Jesus, that lies at the heart of Christian discipleship, placing Him above our own lives and worldly attachments.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5419491588516223,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.61,
+            "commentatorTierSimilarities": [
+                30.75,
+                36.62,
+                32.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True Christian discipleship is rooted in the act of self-renunciation. It involves bidding farewell to all earthly possessions and desires that may hinder one's whole-hearted commitment to Christ. This does not necessitate the literal abandonment of everything, but rather a heartfelt devotion to prioritizing Christ above all else. The spirit of self-sacrifice, whereby one forsakes all for the sake of following Jesus, lies at the core of genuine discipleship, demonstrating that He is held in higher regard than our own lives and worldly attachments.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.5770477088871053,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+            "commentatorTierSimilarities": [
+                29.99,
+                36.01,
+                34.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True Christian discipleship necessitates a radical self-renunciation, bidding farewell to all earthly possessions and desires that may obstruct a whole-hearted commitment to Christ. This renunciation is not a literal requirement, but rather a deep-seated devotion to exalting Christ above all else. The spirit of self-sacrifice, exemplified by forsaking all for the sake of following Jesus, lies at the very essence of authentic discipleship. It showcases our willingness to place Christ above our own lives and worldly attachments, underscoring the paramount importance of our relationship with Him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.5674069640897796,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.46,
+            "commentatorTierSimilarities": [
+                27.93,
+                37.74,
+                34.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True Christian discipleship demands a radical forsaking of all earthly possessions and desires, affirming that Christ takes precedence above all else. This entails bidding farewell to our own lives and renouncing any attachment that may obstruct our whole-hearted commitment to Him. It is not a literal expectation to abandon everything, but rather a deep-seated devotion to prioritizing Christ above all earthly pursuits. This genuine self-sacrifice illustrates the core essence of being a disciple, underscoring the importance of placing Christ at the forefront of our hearts and lives.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4877877383316096,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.81,
+            "commentatorTierSimilarities": [
+                27.57,
+                37.97,
+                34.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

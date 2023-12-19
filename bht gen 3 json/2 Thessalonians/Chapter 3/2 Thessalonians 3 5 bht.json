@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:38:23",
+    "verseRef": "2 Thessalonians 3:5",
+    "bestBHT": {
+        "bht": "May the Lord direct your hearts into the love of God and into the patient waiting for Christ. This prayer desires that believers have the love of God in their hearts and the patience of Christ, which serves as an example of endurance. It is the Spirit of God who can lead us straight into this love and patience. Waiting for Christ sustains us in the trials of life and requires patient endurance amidst the cross. May the faithful Lord guide us into this love and patience.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 2.5693683869908517,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.77,
+        "commentatorTierSimilarities": [
+            32.76,
+            37.39,
+            29.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Rather is it an enlargement, taken up by the but (not only so, but), of the assurance just expressed.\" ",
+            "the love of God here, from the fact of his wishing that their hearts may be directed into it, must be subjective, the love of man to God.",
+            "the patience of Christ (genitive possessive),\u2014which Christ shewed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If 'the Lord' be here the Holy Ghost (2 Corinthians 3:17), the three Persons of the Trinity will occur in this verse.",
+            "Love of God\u2014love to God.",
+            "This grace, 'patience,' or persevering endurance, is connected with the 'hope' of Christ's coming."
+        ],
+        "Albert Barnes": [
+            "And into the patient waiting for Christ.\" ",
+            "The prayer of the apostle was, that they might have the love of God in their hearts, and 'the patience of Christ.'\" ",
+            "It was natural for the apostle to refer them to the Saviour, the great example of patience, and to pray that they might have the same which he had."
+        ],
+        "Marvin Vincent": [
+            "Hearts [\u03ba\u03b1\u03c1\u03b4\u03b9\u03b1\u03c2]. See on Romans 1:21; Romans 10:10; Ephesians 1:18.",
+            "The prayer is that their hearts may be directed to love God and to exhibit the patience of Christ."
+        ],
+        "John Calvin": [
+            "And, unquestionably, the love of God cannot reign in us unless brotherly love is also exercised.",
+            "Waiting for Christ, on the other hand, teaches us to exercise contempt of the world, mortification of the flesh, and endurance of the cross.",
+            "For this is the only thing that sustains us in the warfare of the present life, that we wait for the Redeemer; and farther, this waiting requires patient endurance amidst the continual exercises of the cross."
+        ],
+        "Philip Schaff": [
+            "To love God is to have in the heart the root of all activity and endurance, the spring of duty, and the fountain of all virtue.",
+            "The apostle desires they may be enabled to exhibit under trial the same patient endurance which Christ Himself exhibited.",
+            "May Christ, who is faithful, direct."
+        ],
+        "Archibald T. Robertson": [
+            "Into the love of God [...] as a ruling principle in our hearts.\" ",
+            "The Lord here is the Lord Jesus.",
+            "The patience shown by Christ, is the one usually accepted rather than 'the patient waiting for Christ'."
+        ],
+        "John Gill": [
+            "And to have the heart directed into this, is to be led into it directly; or by a straight line, as the word signifies, and not in a round about way, by works and duties, as the causes or conditions of it.",
+            "And this is not to be done by a believer himself, nor by the ministers of the Gospel: the apostle could not do it, and therefore he prays 'the Lord' to do it; by whom is meant the Spirit of God, since he is distinguished from God the Father, into whose love the heart is to be directed, and from Christ, a patient waiting for whom it is also desired the heart may be directed into.",
+            "For it follows, as another branch of the petition, and into the patient waiting for Christ...which being directed to by the Spirit of God, is of great use unto them in the present state of things."
+        ],
+        "John Wesley": [
+            "Now the Lord \u2014 The Spirit, whose proper work this is.",
+            "Direct \u2014 Lead you straight forward.",
+            "Into the patience of Christ \u2014 Of which he set you a pattern."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the Lord direct your hearts into the love of God and into the patient waiting for Christ. The prayer here is for the hearts of believers to be directed towards loving God and exhibiting the patience of Christ. It is the love of God as a ruling principle in our hearts that enables us to endure and persevere in the face of trials. This love is not something that we can cultivate on our own, but it is a gift from the Spirit of God. The patient waiting for Christ teaches us to have contempt for the world, mortify the flesh, and endure the cross, and it is the only thing that sustains us in the present life. May the Lord, who is faithful, lead us straight forward into this love and patience.",
+            "wordCount": 134,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.423439070972095,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.92,
+            "commentatorTierSimilarities": [
+                33.57,
+                35.22,
+                31.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May the Lord direct your hearts into the love of God and into the patient waiting for Christ. This prayer seeks to guide believers towards loving God as a ruling principle in their hearts and exhibiting the patience of Christ. It is the Spirit of God who can lead us straight forward into this love and patience, as it is not something we can achieve on our own. Waiting for Christ sustains us in the trials of life and requires patient endurance amidst the cross.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.540318734372409,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.81,
+            "commentatorTierSimilarities": [
+                32.23,
+                36.29,
+                31.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the Lord direct your hearts into the love of God and into the patient waiting for Christ. This prayer desires that believers have the love of God in their hearts and the patience of Christ, which serves as an example of endurance. It is the Spirit of God who can lead us straight into this love and patience. Waiting for Christ teaches us to have contempt for the world, mortify the flesh, and endure the cross. May the faithful Lord guide us in this love and patience.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.513752729061797,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.92,
+            "commentatorTierSimilarities": [
+                33.21,
+                36.61,
+                30.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May the Lord direct your hearts into the love of God and into the patient waiting for Christ. This prayer seeks to guide believers towards loving God as a ruling principle in our hearts and exhibiting the patience of Christ. It is the Spirit of God who can lead us directly into this love and patience. Waiting for Christ sustains us in the warfare of life and requires us to endure with patience amidst the cross. May the faithful Lord direct our hearts in this journey.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.4840129920785285,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.93,
+            "commentatorTierSimilarities": [
+                32.98,
+                35.89,
+                31.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May the Lord direct your hearts into the love of God and into the patient waiting for Christ. This prayer desires that believers have the love of God in their hearts and the patience of Christ, which serves as an example of endurance. It is the Spirit of God who can lead us straight into this love and patience. Waiting for Christ sustains us in the trials of life and requires patient endurance amidst the cross. May the faithful Lord guide us into this love and patience.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.5693683869908517,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.77,
+            "commentatorTierSimilarities": [
+                32.76,
+                37.39,
+                29.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

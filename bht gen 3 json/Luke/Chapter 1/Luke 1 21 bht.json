@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:13:14",
+    "verseRef": "Luke 1:21",
+    "bestBHT": {
+        "bht": "The priest in the temple was not accustomed to spend a long time there during prayer, as it was believed that if he stayed too long, the people might think that he had been struck down by God for some transgression. The priest\u2019s extended duration in the temple caused the people to wonder and worry about his safety. Although they were waiting for the priest to emerge and bless them, they became concerned by his delay and were filled with anticipation.",
+        "wordCount": 82,
+        "quoteTokenProportion": 51.72,
+        "qualityScore": 2.1867565306185046,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+        "commentatorTierSimilarities": [
+            23.78,
+            37.44,
+            38.78
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was customary for the priest at the time of prayer not to remain long in the holy place...\" ",
+            "...for fear the people who were without might imagine that any vengeance had been inflicted on him for some informality...",
+            "...he was considered the representative of the people."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It was not usual to tarry long, lest it should be thought vengeance had stricken the people's representative for something wrong.\" ",
+            "Waited\u2014to receive from him the usual benediction.",
+            "Tarried so long."
+        ],
+        "Albert Barnes": [
+            "The people waited - That is, beyond the usual time.",
+            "The priest, it is said, was not accustomed to remain in the temple more than half an hour commonly.",
+            "Having remained on this occasion a longer time, the people became apprehensive of his safety, and wondered what had happened to him."
+        ],
+        "Marvin Vincent": [
+            "Waited [\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03b4\u03bf\u03ba\u03c9\u03bd] . The finite verb and participle, denoting protracted waiting. Hence, better as Rev., were waiting.\" ",
+            "[...] the priests, especially the chief priests, were accustomed to spend only a short time in the sanctuary, otherwise it was feared that they had been slain by God for unworthiness or transgression."
+        ],
+        "John Calvin": [
+            "Zacharias had tarried in the temple longer than usual... He makes known, by looks and gestures, that he has been struck dumb... They conclude that God has appeared to him.",
+            "It was not an ordinary occurrence... that he became suddenly dumb without disease, and after a more than ordinary delay came out of the temple in a state of amazement.",
+            "The word temple... is put for the sanctuary, where the altar of incense stood... From this place the priests... were wont to go out into their own court, for the purpose of blessing the people."
+        ],
+        "Philip Schaff": [
+            "Their wonder was both at and during his unusual stay.",
+            "The brief stay of the priest is said to have been occasioned by 'the fear that the people who were without might imagine that any vengeance had been inflicted on him for some informality; as he was considered the representative of the people' (Alford).",
+            "They would wait, not for him to pronounce the blessing, for this was the office of the other priest, who carried the fire into the holy place (see Luke 1:9); but because it was usual."
+        ],
+        "Archibald T. Robertson": [
+            "An old Greek verb for expecting. Appears in papyri and inscriptions. It denotes mental direction whether hope or fear.\" ",
+            "Imperfect tense, were wondering.\" ",
+            "See verse Luke 1:8 for the same idiom."
+        ],
+        "John Gill": [
+            "These were waiting for his coming out, in order to be blessed by him, according to Numbers 6:23 and be dismissed: and marvelled that he tarried so long in the temple.",
+            "Thinking that he was dead; for many high priests that were unfit for, or made alteration in the service, died in the holy of holies.",
+            "Is it hard in your eyes that I should pray for you, and for the house of the sanctuary, that it might not be destroyed?"
+        ],
+        "John Wesley": [
+            "The people were waiting \u2014 For him to come and dismiss them (as usual) with the blessing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The priest in the temple was not accustomed to spend a long time there during prayer, as it was believed that if he stayed too long, the people might think that he had been struck down by God for some transgression. The priest\u2019s extended duration in the temple caused the people to wonder and worry about his safety. Although they were waiting for the priest to emerge and bless them, they became concerned by his delay and were filled with anticipation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 2.1867565306185046,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+            "commentatorTierSimilarities": [
+                23.78,
+                37.44,
+                38.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It was customary for the priest not to remain long in the holy place during prayer in order to avoid any perception of divine punishment. Therefore, when the priest stayed in the temple longer than usual, the people began to wonder and worry about his safety. They eagerly awaited his emergence to receive the customary blessing, but his delay caused them to be filled with anticipation and concern.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.076791804745546,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                24.62,
+                36.7,
+                38.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The priest, as the people's representative, was expected to spend only a short time in the temple during prayer, lest it be thought that he had been struck down by God. However, on this occasion, the priest's prolonged stay in the holy place caused the people to become apprehensive and wonder what had happened to him. They eagerly awaited his emergence to receive the usual benediction, but his delay filled them with anticipation and concern.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.1920580943647376,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.23,
+            "commentatorTierSimilarities": [
+                24.87,
+                38.09,
+                37.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The priest, as the people's representative, was expected to spend only a short time in the temple during prayer, lest it be thought that he had been struck down by God. However, on this occasion, the priest's prolonged stay in the holy place caused the people to become apprehensive and wonder what had happened to him. They eagerly awaited his emergence to receive the usual benediction, but his delay filled them with anticipation and concern.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.1920580943647376,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.23,
+            "commentatorTierSimilarities": [
+                24.87,
+                38.09,
+                37.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The priest, representing the people, was  considered the representative of the people and therefore it was customary for him not to remain long in the temple during prayer. This was to prevent the people from assuming that any divine punishment had been inflicted upon him. However, on this occasion, the priest's prolonged stay led the people to wonder and worry about his safety. They waited eagerly to receive the customary blessing, but his unexpected delay filled them with anticipation and concern.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.047981703528694,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                24.97,
+                39.7,
+                35.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

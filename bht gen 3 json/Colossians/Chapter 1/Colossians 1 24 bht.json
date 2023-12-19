@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:20:09",
+    "verseRef": "Colossians 1:24",
+    "bestBHT": {
+        "bht": "I now rejoice in my sufferings on your behalf, as every suffering saint of God fills up, in his place and degree, the afflictions of Christ, for the body of Christ. Believers should regard their sufferings less in relation to themselves as individuals, and more as parts of a grand whole, carrying out God's perfect plan. Paul attaches no atoning value to his own sufferings, but sees them as necessary for the Church's example, perfecting of the saints, and increasing their reward.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.5285752338394794,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.41,
+        "commentatorTierSimilarities": [
+            32.36,
+            36.2,
+            31.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I now rejoice in my sufferings on your behalf...that you may be confirmed in the faith by the glorification of Christ in my sufferings.\" ",
+            "Every suffering saint of God in every age and position is in fact filling up, in his place and degree, the afflictions of Christ, in his flesh, and on behalf of His body. Not a pang, not a tear is in vain.",
+            "The Apostle, as standing out prominent among this suffering body, predicates this of himself especially: the filling up, to which we all contribute, was on his part so considerable, as to deserve the name of a compensation itself, for so the remarkable word implies, which we render fill up\u2014I am contributing afflictions which one after another fill up the defects."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ is 'afflicted in all His people's afflictions'.\" ",
+            "The more Paul, a member, endured, the less remain for the rest of the Church to endure; the communion of saints thus giving them an interest in his sufferings.\" ",
+            "Believers should regard their sufferings less in relation to themselves as individuals, and more as parts of a grand whole, carrying out God's perfect plan."
+        ],
+        "Albert Barnes": [
+            "For you as a part of the Gentile world. It was not for the Colossians alone, but he regarded himself as suffering on account of his labors in preaching to the pagan at large.\" ",
+            "That he felt that it was an object to be earnestly desired to be made in all respects just like Christ, and that in his present circumstances he was fast filling up that which was lacking, so that he would have a more complete resemblance to him.",
+            "He does not mean that there was anything lacking or deficient in the sufferings which Christ endured in making an atonement which was to be supplied by his followers, so that their merits might be added to his in order to secure the salvation of men, as the Romanists seem to suppose; but that there was still much lacking on his part before he should be entirely conformed to the Saviour in his sufferings."
+        ],
+        "Marvin Vincent": [
+            "Now is temporal : in the midst of my imprisonment and sufferings, after having become a minister of the Gospel, and having preached it.",
+            "Fill up [\u03b1\u03bd\u03c4\u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9] . Only here in the New Testament. Lit., fill up in turn. Rev., on my part (anti).",
+            "That which is lacking of the afflictions of Christ [\u03c4\u03b1 \u03c5\u03c3\u03c4\u03b5\u03c1\u03b7\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b8\u03bb\u03b9\u03c8\u03b5\u03c9\u03bd \u03c4\u03bf\u03c5 \u03c7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5] . Lacking, lit., behind. Used with different compounds of plhrow to fill, 1 Corinthians 16:17; 2 Corinthians 9:12; 2 Corinthians 11:9; Philippians 2:30. Of the afflictions of Christ."
+        ],
+        "John Calvin": [
+            "The affliction that I endure on your account is pleasant to me, because I do not suffer it in vain.",
+            "He also brings forward a consolation common to all the pious, that in all tribulations, especially in so far as they suffer anything for the sake of the gospel, they are partakers of the cross of Christ, that they may enjoy fellowship with him in a blessed resurrection.",
+            "He adds, also, a third reason \u2014 that his sufferings are advantageous, and that not merely to a few, but to the whole Church. This advantage has been spoken of in Philippians 1:12."
+        ],
+        "Philip Schaff": [
+            "In my sufferings... His joy was not on account of his sufferings, but 'in' them: while thus suffering he yet rejoiced.",
+            "And am filling up fully the lacking measures of the sufferings of Christ.",
+            "Every suffering saint of God in every age and position is in fact filling up, in his place and degree, the afflictions of Christ, in his flesh, and on behalf of His body."
+        ],
+        "Archibald T. Robertson": [
+            "Fill up on my part... It is now Paul's 'turn' at the bat, to use a baseball figure.\" (24 words)",
+            "That which is lacking... 'The left-overs', so to speak.\" (8 words)",
+            "Paul attaches no atoning value whatever to his own sufferings for the church.\" (15 words)"
+        ],
+        "John Gill": [
+            "he rejoiced in them... God was glorified by them",
+            "the afflictions of Christ in his members... if Saul persecutes his saints, he persecutes him",
+            "as these were the afflictions of Christ... for his body's sake, which is the church"
+        ],
+        "John Wesley": [
+            "Now I rejoice in my sufferings for you, and fill up \u2014 That is, whereby I fill up.",
+            "That which is behind of the sufferings of Christ \u2014 That which remains to be suffered by his members.",
+            "And these also are necessary for the church; not to reconcile it to God, or satisfy for sin, but for example to others, perfecting of the saints, and increasing their reward."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I now rejoice in my sufferings on your behalf, as every suffering saint of God in every age and position is in fact filling up, in his place and degree, the afflictions of Christ, in his flesh, and on behalf of His body. The Apostle predicates this of himself especially, as he contributes afflictions that fill up the defects. Believers should regard their sufferings less in relation to themselves as individuals, and more as parts of a grand whole, carrying out God's perfect plan. It is now Paul's 'turn' at the bat, to use a baseball figure. He attaches no atoning value whatever to his own sufferings for the church, but sees them as necessary for the Church's example, the perfecting of the saints, and increasing their reward.",
+            "wordCount": 131,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.185258420322608,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.0,
+            "commentatorTierSimilarities": [
+                33.01,
+                35.92,
+                31.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I now rejoice in my sufferings on your behalf, as every suffering saint of God fills up, in his place and degree, the afflictions of Christ, for the body of Christ. Believers should regard their sufferings less in relation to themselves as individuals, and more as parts of a grand whole, carrying out God's perfect plan. Paul's sufferings are not atoning, but necessary for the Church's example, the perfecting of the saints, and increasing their reward.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.4767140222854938,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.69,
+            "commentatorTierSimilarities": [
+                32.13,
+                36.14,
+                31.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I now rejoice in my sufferings on your behalf, as every suffering saint of God in every age and position is in fact filling up, in his place and degree, the afflictions of Christ, in his flesh, and on behalf of His body. Believers should regard their sufferings less in relation to themselves as individuals, and more as parts of a grand whole, carrying out God's perfect plan. It is now Paul's 'turn' at the bat, to use a baseball figure. He attaches no atoning value whatever to his own sufferings for the church, but sees them as necessary for the Church's example, the perfecting of the saints, and increasing their reward.",
+            "wordCount": 115,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 2.20410823922873,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.63,
+            "commentatorTierSimilarities": [
+                33.29,
+                36.38,
+                30.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I now rejoice in my sufferings on your behalf, as every suffering saint of God fills up, in his place and degree, the afflictions of Christ, for the body of Christ. Believers should regard their sufferings less in relation to themselves as individuals, and more as parts of a grand whole, carrying out God's perfect plan. It is now Paul's 'turn' at the bat, to use a baseball figure. He attaches no atoning value whatever to his own sufferings for the church, but sees them as necessary for the Church's example, the perfecting of the saints, and increasing their reward.",
+            "wordCount": 103,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 2.2103557751297447,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.83,
+            "commentatorTierSimilarities": [
+                33.29,
+                35.17,
+                31.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I now rejoice in my sufferings on your behalf, as every suffering saint of God fills up, in his place and degree, the afflictions of Christ, for the body of Christ. Believers should regard their sufferings less in relation to themselves as individuals, and more as parts of a grand whole, carrying out God's perfect plan. Paul attaches no atoning value to his own sufferings, but sees them as necessary for the Church's example, perfecting of the saints, and increasing their reward.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.5285752338394794,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.41,
+            "commentatorTierSimilarities": [
+                32.36,
+                36.2,
+                31.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

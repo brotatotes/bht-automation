@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:13:01",
+    "verseRef": "1 Corinthians 14:9",
+    "bestBHT": {
+        "bht": "Speaking in tongues should involve clear and intelligible words, ensuring that the message is not lost in confusion. If the language used is not understandable to others, it becomes like speaking into thin air, akin to beating the air or talking to the wind. It is crucial to employ words that are easy to comprehend, enabling effective communication and avoiding the futility of speaking without making an impact.",
+        "wordCount": 68,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 1.9880656847957163,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+        "commentatorTierSimilarities": [
+            29.64,
+            34.69,
+            35.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Application of these instances. by the tongue is most naturally understood physically, by means of your tongue, as answering to the utterance of the sound by the musical instruments.\" ",
+            "But the technical rendering, 'by means of the (unknown) tongue,' is allowable.",
+            "speaking into the air implies the non-reception by hearers of what is said."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye will be speaking into the air, that is, in vain.",
+            "Ye\u2014who have life; as opposed to 'things without life'.",
+            "The language which ye speak in."
+        ],
+        "Albert Barnes": [
+            "If you use a foreign language, how shall it be known what is said, or of what use will it be, unless it is made intelligible by interpretation?",
+            "You will not speak so as to be understood; and it will be just the same as if no one was present, and you spoke to the air.",
+            "All preaching should be plain, simple, perspicuous, and adapted to the capacity of the hearers."
+        ],
+        "Philip Schaff": [
+            "So also ye, unless ye utter by the tongue speech easy to be understood, how shall it be known what is spoken?\" ",
+            "For ye will be speaking into the air 'speaking to no one'",
+            "As 'beating the air' means 'hitting no one'."
+        ],
+        "Archibald T. Robertson": [
+            "Unless ye utter speech easy to be understood...well-marked, distinct, clear.\" ",
+            "Good enunciation, a hint for speakers.",
+            "Ye will be speaking into the air...our talking to the wind. This was before the days of radio."
+        ],
+        "John Gill": [
+            "For unless in the public ministry and service a language is spoken, and words made use of, which are understood without difficulty: how shall it be known what is spoken?",
+            "Any part of divine service performed in such a way is all in vain, and to no purpose; it is all lost labour, it is beating the air, and talking to the wind.",
+            "As the end of the Gospel ministry is public usefulness and edification, plainness of speech, words easy to be understood, should be used; such as are apt and fit to convey the true idea of things to people in common; these are the acceptable words, which the wise preacher, who is desirous of doing good to the souls of men, will seek out, and studiously make use of."
+        ],
+        "John Wesley": [
+            "Unless ye utter by the tongue \u2014 Which is miraculously given you.",
+            "Words easy to be understood \u2014 By your hearers.",
+            "Ye will speak to the air \u2014 A proverbial expression. Will utterly lose your labour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When we speak using tongues, our words should be clear and understandable to those listening, so that they are not left in confusion. If we speak in languages that others cannot understand, it is as if we are speaking into thin air. Our words should be well-articulated and distinct, with good enunciation. Otherwise, our preaching becomes in vain, like beating the air or talking to the wind. It is essential that we use language that is easy to comprehend, so that our message is not lost in translation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.8781101263642954,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                29.58,
+                34.67,
+                35.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When we speak using tongues, our words should be clear and understandable to those listening, so that they are not left in confusion. If we speak in languages that others cannot understand, it is as if we are speaking into thin air, in vain, like beating the air or talking to the wind. It is essential that we use language that is easy to comprehend, so that our message is not lost in translation.",
+            "wordCount": 74,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.987531722616167,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.43,
+            "commentatorTierSimilarities": [
+                28.8,
+                35.73,
+                35.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Speaking in tongues should involve clear and intelligible words, ensuring that the message is not lost in confusion. If the language used is not understandable to others, it becomes like speaking into thin air, akin to beating the air or talking to the wind. It is crucial to employ words that are easy to comprehend, enabling effective communication and avoiding the futility of speaking without making an impact.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.9880656847957163,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "commentatorTierSimilarities": [
+                29.64,
+                34.69,
+                35.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When speaking in tongues, it is important to use language that is easy to understand. If we speak in languages that others cannot comprehend, it is as if we are speaking into thin air, in vain, like beating the air or talking to the wind. Our words should be clear and well-articulated, ensuring that our message is not lost or misunderstood. Effective communication requires us to use words that are intelligible and provide a meaningful impact on our listeners.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.847831106024416,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                29.33,
+                35.48,
+                35.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When speaking in tongues, it is crucial to use language that is easily understood. If we speak in languages that others cannot comprehend, it is as if we are speaking into thin air, in vain, like beating the air or talking to the wind. Our words should be well-marked, clear, and distinct to avoid any confusion. Effective communication requires us to use words that are easy to understand, ensuring that our message is not lost or overlooked.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.8601538537777649,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                29.04,
+                35.35,
+                35.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

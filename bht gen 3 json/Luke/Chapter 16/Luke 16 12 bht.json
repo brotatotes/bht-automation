@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:20:46",
+    "verseRef": "Luke 16:12",
+    "bestBHT": {
+        "bht": "The wealth of this world is another man\u2019s\u2014 forfeited by sin\u2014 only put into our hands to try us and to be rendered an account of. Here all we have is on trust as stewards, who have an account to render. Riches are not ours, but given us in trust. Earthly wealth is ours as a loan, a trust, withdrawn at any moment. If you did not prove faithful in this, who will give you what is really yours forever? Our true possession lies in the eternal blessings of heaven, bestowed upon us if we are faithful stewards.",
+        "wordCount": 99,
+        "quoteTokenProportion": 57.35,
+        "qualityScore": 2.1314254922251648,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.21,
+        "commentatorTierSimilarities": [
+            34.91,
+            36.45,
+            28.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The wealth of this world is another man\u2019s\u2014forfeited by sin.",
+            "Only put into our hands to try us.",
+            "And to be rendered an account of."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here all we have is on trust as stewards, who have an account to render.",
+            "Hereafter, what the faithful have will be their own property, being no longer on probation, but in secure, undisturbed, rightful, everlasting possession and enjoyment of all that is graciously bestowed on us.",
+            "Money is neither to be idolized nor despised: we must sit loose to it and use it for God's glory."
+        ],
+        "Albert Barnes": [
+            "The wealth of the world is 'his.' It is committed to us as his stewards.",
+            "If we do not use the things of this world as we ought - with honesty, truth, wisdom, and integrity, we cannot have evidence of piety, and shall not be received into heaven.",
+            "If we are true to that which is least, it is an evidence that we are the children of God, and he will commit to our trust that which is of infinite importance, even the eternal riches and glory of heaven."
+        ],
+        "Marvin Vincent": [
+            "Riches are not ours, but given us in trust.",
+            "That which forms part of our eternal being - the redeemed self.",
+            "They did not serve mammon, but possessed and ruled themselves, and were masters, and not servants."
+        ],
+        "John Calvin": [
+            "God does not bestow riches upon us on condition that we shall be attached to them, but makes us stewards of them in such a manner, that they may not bind us with their chains.",
+            "There is no reason, he tells us, to expect that we shall make a proper and moderate use of our own property, if we have acted improperly or unfaithfully in what belonged to another.",
+            "They who are bad stewards of earthly blessings would not be faithful guardians of spiritual gifts."
+        ],
+        "Archibald T. Robertson": [
+            "Earthly wealth is ours as a loan, a trust, withdrawn at any moment.",
+            "It belongs to another. If you did not prove faithful in this, who will give you what is really yours forever?",
+            "Compare 'rich toward God'\" (Luke 12:21)."
+        ],
+        "John Gill": [
+            "And if ye have not been faithful in that which is another man's,.... which is not a man's own, but what is committed to him by another...hence we read of 'keepers of mammon', who were intrusted with another's substance...",
+            "should you unjustly detain, or make an ill use of another man's substance lodged in your hands, how can you expect but that you will be dealt with in like manner by others, who will not pay you yours, they have in their possession, but convert it to their own use?",
+            "Interpreters generally understand by 'that which is another man's,' in the first clause, the things of this world, which men are possessed of...and by 'that which is your own,' they understand the good things of grace and glory..."
+        ],
+        "John Wesley": [
+            "None of these temporal things are yours: you are only stewards of them, not proprietors.",
+            "Rich men, understand and consider this. If your steward uses any part of your estate (so called in the language of men) any farther or any otherwise than you direct, he is a knave: he has neither conscience nor honour.",
+            "That which is your own \u2014 Heaven, which when you have it, will be your own for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The wealth of this world is not truly ours, but rather a temporary possession granted to us to test our faithfulness. As stewards, we are reminded that we have an obligation to give an account of how we have used our resources. We should neither idolize nor despise money, but rather use it for God's glory. Earthly riches are merely a loan, a trust that can be withdrawn at any moment. Our true wealth lies in being rich towards God and possessing our eternal inheritance, where we will have secure and everlasting possession and enjoyment of all that is graciously bestowed upon us.",
+            "wordCount": 104,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9627209773869145,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.6,
+            "commentatorTierSimilarities": [
+                32.83,
+                38.84,
+                28.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The wealth of this world is not ours, but given to us as a test of faithfulness. As stewards, we are accountable for how we use it. Money should not be idolized or despised, but used for God's glory. Earthly riches are a trust, not our own. Our true wealth lies in being rich towards God, with an eternal inheritance.",
+            "wordCount": 61,
+            "quoteTokenProportion": 55.1,
+            "qualityScore": 2.036333560102614,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.05,
+            "commentatorTierSimilarities": [
+                34.26,
+                40.08,
+                25.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wealth of this world is not truly ours, but rather on loan to us as stewards. We are entrusted with it to see how we will use it and to give an account for it. Earthly riches are not to be idolized or despised, but instead used for the glory of God. They are a test of our faithfulness, and if we prove faithful, we will enter into secure and everlasting possession of all that is graciously bestowed upon us. Our true property lies in the eternal riches and glory of heaven, which we will receive if we are faithful with the temporary wealth of this world.",
+            "wordCount": 108,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 2.0948851240518374,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                29.74,
+                42.92,
+                27.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wealth of this world is not truly ours, but on loan for us to be tested and accountable for. It should not be idolized or despised, but rather used for God's glory. Earthly riches are a trust given to us as stewards, but our true possession lies in the eternal blessings of heaven. Our faithfulness with the temporary wealth of this world determines our eligibility for the everlasting riches and glory that await us.",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.1351287680865343,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.33,
+            "commentatorTierSimilarities": [
+                30.18,
+                43.22,
+                26.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The wealth of this world is another man\u2019s\u2014 forfeited by sin\u2014 only put into our hands to try us and to be rendered an account of. Here all we have is on trust as stewards, who have an account to render. Riches are not ours, but given us in trust. Earthly wealth is ours as a loan, a trust, withdrawn at any moment. If you did not prove faithful in this, who will give you what is really yours forever? Our true possession lies in the eternal blessings of heaven, bestowed upon us if we are faithful stewards.",
+            "wordCount": 99,
+            "quoteTokenProportion": 57.35,
+            "qualityScore": 2.1314254922251648,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.21,
+            "commentatorTierSimilarities": [
+                34.91,
+                36.45,
+                28.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

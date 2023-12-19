@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 13:56:26",
+    "verseRef": "Philippians 4:14",
+    "bestBHT": {
+        "bht": "Though I am not in need, I want to emphasize that I am not disregarding your generosity. Your gift was not only a provision for my necessities, but also a tangible expression of our shared fellowship and sympathy. Your contribution demonstrates your solidarity with me in my affliction and serves as a testament to your steadfastness in the faith. It was not merely a service rendered to me, but an act that glorified God and strengthened the cause of Christ through your example.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 1.835492315295617,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+        "commentatorTierSimilarities": [
+            41.35,
+            47.75,
+            10.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is careful that in speaking thus boldly and trustingly, he may not seem to despise their bounty.\" Calvin.",
+            "Do not think,\" he says, \"that because I am not in necessity, [had no need of what you sent: I did need it, on your account.\" Chrysostom.",
+            "In that ye made yourselves partakers with my present tribulation (not poverty: by their sympathy for him they suffered with him; and their gift was a proof of this sympathy)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He here guards against their thinking from what he has just said, that he makes light of their bounty.",
+            "Ye did communicate with my affliction\u2014that is, ye made yourselves sharers with me in my present affliction, namely, by sympathy.",
+            "Of which sympathy your contribution is the proof."
+        ],
+        "Albert Barnes": [
+            "Though he had learned the grace of contentment, and though he knew that Christ could enable him to do all things, it was well for them to show sympathy for his sufferings.\" ",
+            "For it evinced a proper regard for a benefactor and an apostle.",
+            "The relief which they had sent, not only supplied his wants, but it sustained him by the certainty that he was not forgotten."
+        ],
+        "Marvin Vincent": [
+            "Notwithstanding. Lest, in declaring his independence of human aid, he should seem to disparage the Philippians' gift."
+        ],
+        "John Calvin": [
+            "How prudently and cautiously he acts, looking round carefully in both directions, that he may not lean too much to the one side or to the other.",
+            "By proclaiming in magnificent terms his steadfastness, he meant to provide against the Philippians supposing that he had given way under the pressure of want.",
+            "He now takes care that it may not, from his speaking in high terms, appear as though he despised their kindness \u2014 a thing that would not merely shew cruelty and obstinacy, but also haughtiness."
+        ],
+        "Philip Schaff": [
+            "The apostle through the sustaining power of Christ would surely, he feels, have been supported to do the work for which the Lord was pleased to use him; yet it was good that the Philippians sent him aid, for it was a proof of their own stedfastness in the faith.",
+            "It was a service rendered not to the apostle only, but to the whole cause of Christ through their example, and so was acceptable unto God.",
+            "And their action showed still more, that the Philippians suffered in the apostle\u2019s suffering, took their part not only in supplying his bodily needs, but so far as sympathy could do it, in sharing his persecution."
+        ],
+        "Archibald T. Robertson": [
+            "That ye had fellowship (\u03c3\u03c5\u03bd\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b7\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2). First aorist active participle (simultaneous action with the principal verb \u03ba\u03b1\u03bb\u03c9\u03c2 \u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03c4\u03b5). \"Ye did well contributing for my affliction.\" "
+        ],
+        "John Gill": [
+            "Though he was so well contented with his state... yet he observes they did well in communicating to him.",
+            "Communicating to poor saints or ministers is a considerable branch of well doing.",
+            "In doing which they did well."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though I am not in need, I do not want you to think that I am disregarding your generosity. Your gift was not only a provision for my necessities, but also a tangible expression of our shared fellowship and sympathy. Your contribution demonstrates your solidarity with me in my affliction and serves as a testament to your steadfastness in the faith. It was not merely a service rendered to me, but an act that glorified God and strengthened the cause of Christ through your example. I exercise caution in my words, so as not to appear ungrateful or disdainful of your kindness. Though I have learned to be content in all circumstances, your support sustains me and reminds me that I am not forgotten. In providing aid, you have not only helped me, but also participated in my suffering and persecution.",
+            "wordCount": 141,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 1.7183066481657696,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                42.67,
+                47.52,
+                9.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I want to assure you that I deeply appreciate your generosity, even though I am not in need. I am careful not to diminish the significance of your gift, as it not only supplied my needs but also demonstrated our shared fellowship and sympathy. By providing assistance, you have shown your steadfastness in the faith and exemplified your commitment to the cause of Christ. Your support sustains me and reminds me that I am not forgotten, and for that, I am truly grateful.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.7317000204103206,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.92,
+            "commentatorTierSimilarities": [
+                42.79,
+                45.62,
+                11.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though I am not in need, I want to emphasize that I am not disregarding your generosity. Your gift was not only a provision for my necessities, but also a tangible expression of our shared fellowship and sympathy. Your contribution demonstrates your solidarity with me in my affliction and serves as a testament to your steadfastness in the faith. It was not merely a service rendered to me, but an act that glorified God and strengthened the cause of Christ through your example.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.835492315295617,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                41.35,
+                47.75,
+                10.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I want to assure you that I deeply appreciate your generosity, even if I am not in need. It is crucial for you to understand that I am not disregarding your kindness. Your gift not only supplied my needs but also showed our shared fellowship and sympathy. By offering your support, you have demonstrated your unwavering commitment to the faith and have set an example for others. It was not just an act done for me, but a way to honor God and strengthen the cause of Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.6641778553367232,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.68,
+            "commentatorTierSimilarities": [
+                40.19,
+                47.14,
+                12.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though I am not in need, I want to emphasize that your generosity is not being disregarded. Your gift not only provided for my necessities but also demonstrated our shared fellowship and sympathy. It is a testament to your steadfastness in the faith and serves as an example that glorifies God and strengthens the cause of Christ. I exercise caution in my words, so as not to appear ungrateful or disdainful of your kindness. Your support sustains me and reminds me that I am not forgotten.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.6530996329280019,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+            "commentatorTierSimilarities": [
+                46.05,
+                44.74,
+                9.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

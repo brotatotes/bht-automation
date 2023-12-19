@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:14:38",
+    "verseRef": "1 Corinthians 16:20",
+    "bestBHT": {
+        "bht": "The Corinthians are exhorted to greet one another with a holy kiss, a symbol of their mutual love and unity within the church. This embrace, practiced during the Lord's Supper, serves to bridge divisions and promote reconciliation among them. While derived from the Jewish tradition, the holy kiss demonstrates the Christians' heartfelt connection and desire for harmony. Paul's intention is clear: through this gesture, the Corinthians are encouraged to cultivate goodwill and affection among themselves, fostering a strong sense of community within the church.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.6606862894332748,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+        "commentatorTierSimilarities": [
+            27.39,
+            35.48,
+            37.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "20.] All the brethren\u2014the whole Ephesian church. with an holy kiss] See Rom. xvi. 16, note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "holy kiss\u2014the token of the mutual love of Christians, especially at the Lord's Supper\" ",
+            "in which all the dissensions of the Corinthians would be swallowed up",
+            "BENGEL"
+        ],
+        "Albert Barnes": [
+            "All the Christians with whom Paul was connected in Ephesus.",
+            "They felt a deep interest in the church at Corinth.",
+            "Sent to them Christian salutations."
+        ],
+        "John Calvin": [
+            "Paul meant to exhort them to the cultivation of good-will among themselves.\" ",
+            "It was a token of mutual love.",
+            "I have no doubt, that Paul meant to exhort them to the cultivation of good-will among themselves \u2014 not merely in their minds and in needful services, but also by that token, provided only it was holy, that is, neither unchaste nor deceitful."
+        ],
+        "Philip Schaff": [
+            "This custom, which prevailed among the Jews, came doubtless from the East, where it still prevails as the mode of friendly recognition.",
+            "Its adoption into the churches, as a symbol of a higher fellowship, would, in these circumstances, be almost instinctive, spontaneous, and immediate.",
+            "As a matter of principle, it will ever be the wisdom of churches, in such matters, to study the state of society and local ideas and usages; for what in one place is regarded as but a common expression of good feeling would in another be thought to border on indelicacy."
+        ],
+        "Archibald T. Robertson": [
+            "In the synagogue men kissed men and women kissed women.",
+            "This was the Christian custom at a later date and apparently so here.",
+            "It seems never to have been promiscuous between the sexes."
+        ],
+        "John Gill": [
+            "All the brethren greet you.\" ",
+            "Greet ye one another with an holy kiss."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse encourages the Corinthians to exchange a holy kiss as a symbol of their mutual love and reconciliation. This custom, practiced among Christians, signifies the deep fellowship they share, particularly during the Lord's Supper. The embrace serves to bridge their dissensions and promote unity within the church. While this gesture reflects the Jewish tradition of the synagogue, it would have been exclusively between individuals of the same gender. Ultimately, the intention behind Paul's exhortation is to foster a spirit of goodwill and affection among the brethren.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.5407918844519721,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.57,
+            "commentatorTierSimilarities": [
+                25.83,
+                37.73,
+                36.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians are urged to greet each other with a holy kiss, symbolizing their mutual love and unity. This custom of exchanging kisses was a means of expressing the deep fellowship shared among Christians, particularly during the Lord's Supper. By embracing this practice, the Corinthians could transcend their conflicts and embrace a spirit of reconciliation. However, it is important to note that this gesture was limited to individuals of the same gender, as it originated from the Jewish synagogue custom. Ultimately, Paul's intention was to encourage the cultivation of goodwill and affection among the brethren.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6020715214425314,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.61,
+            "commentatorTierSimilarities": [
+                24.85,
+                35.2,
+                39.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians are exhorted to greet one another with a holy kiss, a symbol of their mutual love and unity within the church. This embrace, practiced during the Lord's Supper, serves to bridge divisions and promote reconciliation among them. While derived from the Jewish tradition, the holy kiss demonstrates the Christians' heartfelt connection and desire for harmony. Paul's intention is clear: through this gesture, the Corinthians are encouraged to cultivate goodwill and affection among themselves, fostering a strong sense of community within the church.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.6606862894332748,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+            "commentatorTierSimilarities": [
+                27.39,
+                35.48,
+                37.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians are implored to greet one another with a holy kiss, symbolizing their mutual love and unity. This reverent embrace, practiced during the Lord's Supper, has the power to quell the dissensions among them. The custom of the holy kiss, borrowed from the Jews, denotes a profound fellowship among Christians. It is vital to note that this salutation is exclusively between individuals of the same gender, reflecting societal norms. In essence, Paul's instruction aims to foster goodwill and affection within the Corinthian community.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.5575598831888544,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.13,
+            "commentatorTierSimilarities": [
+                29.68,
+                32.35,
+                37.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians are encouraged to greet one another with a holy kiss, signifying their mutual love and unity. This practice, observed during the Lord's Supper, has the potential to mend the divisions among them. While originating from the Jewish tradition, the holy kiss bespoke the Christians' profound sense of fellowship. It is important to note that this gesture was only exchanged between individuals of the same gender, adhering to societal customs. Ultimately, Paul's intent was to promote goodwill and affection within the Corinthian congregation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.597995528462588,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+            "commentatorTierSimilarities": [
+                27.25,
+                33.38,
+                39.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

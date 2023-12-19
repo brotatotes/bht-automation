@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:20:15",
+    "verseRef": "Colossians 2:19",
+    "bestBHT": {
+        "bht": "Each believer is urged to hold fast to Christ as the Head, rather than relying solely on attachment to other members. The body depends on the head for growth and sustenance, just as faith, love, and peace are the spiritual bands that unite believers. The headship of Christ is the central message of this epistle, illustrating the remarkable unity of the body and its interdependence on the head. Holding on to Christ alone, nourished by faith and united in love, leads to the true growth that originates from God.",
+        "wordCount": 89,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.1074347472029675,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.41,
+        "commentatorTierSimilarities": [
+            36.03,
+            30.04,
+            33.93
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Each must hold fast the Head for himself, not merely be attached to the other members, however high or eminent in the Body.",
+            "The supply is as the sap to the vine: as all sensation and motion to the body.",
+            "The true honouring of the angels and saints is after all in every case an honouring of Christ their Head."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He who does not hold Christ solely and supremely above all others, does not hold Him at all.",
+            "Each must hold fast the Head for himself, not merely be attached to the other members, however high in the body.",
+            "Faith, love, and peace, are the spiritual bands."
+        ],
+        "Albert Barnes": [
+            "He who has just views of the Redeemer will not be in much danger of erring respecting the other points of religious belief.",
+            "This passage is almost word for word the same as in Ephesians 4:15-16. See it explained in the notes there."
+        ],
+        "Marvin Vincent": [
+            "Holding the head. Holding by or fast, as commonly in the New Testament.",
+            "The discoveries of modern physiology have invested the apostle's language with far greater distinctness and force than it can have worn to his own contemporaries.",
+            "Any exposition of the nervous system more especially reads like a commentary on the image of the relations between the body and the head."
+        ],
+        "John Calvin": [
+            "He condemns in the use of one word whatever does not bear a relation to Christ.",
+            "The binding of them together is from that source.",
+            "It is not every increase that is approved by God, but only that which has a relation to the Head."
+        ],
+        "Philip Schaff": [
+            "Not to hold Christ as Head is to let go of Him altogether.",
+            "It is not necessary to connect 'joints' with the first participle, and 'bands' with the second, although the former are chiefly means of supply, and the latter of solidity.",
+            "Vital union with Christ for each is the essential matter; to be without this is to die; having it growth is not only possible, but certain."
+        ],
+        "Archibald T. Robertson": [
+            "The headship of Christ is the keynote of this Epistle to the Colossians and the heart of Paul's Christology.",
+            "Both words [joints and bonds] picture well the wonderful unity in the body by cells, muscles, arteries, veins, nerves, skin, glands, etc. It is a marvellous machine working together under the direction of the head.",
+            "Increaseth with the increase of God."
+        ],
+        "John Gill": [
+            "Christ, the only Mediator, the Lord and head of angels, and of the church, was dropped and laid aside.",
+            "By this [Christian charity], the members of Christ are joined, united, and knit together, and make increase.",
+            "If Christ the head is not held, the body will have no nourishment, but soon become a skeleton."
+        ],
+        "John Wesley": [
+            "He does not hold Christ, who does not trust in him alone.",
+            "All the members are nourished by faith, and knit together by love and mutual sympathy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Colossians 2:19, Paul emphasizes the importance of each believer individually holding on to Christ as the Head, rather than simply being attached to other members of the Body. The supply of life and nourishment flows from the Head, and without holding fast to Christ, there can be no growth. As Paul highlights the headship of Christ in this epistle, he beautifully illustrates the unity and interdependence of the body and the head. Just as the physical body relies on its various joints, bonds, and systems, so too does the spiritual body rely on its connection to Christ. Holding fast to the Head, trusting in Him alone, and being nourished by faith and united in love, we experience the true growth that comes from God.",
+            "wordCount": 124,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.0447819621949064,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.33,
+            "commentatorTierSimilarities": [
+                36.46,
+                29.96,
+                33.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul emphasizes the vital importance of each believer individually holding on to Christ as the Head, rather than merely being attached to other members. Just as the body relies on the head for its functioning and growth, so too must we hold fast to Christ, trusting in Him alone. The unity of the body and head is beautifully illustrated through the imagery of joints, bonds, and the workings of the physical body. By holding fast to the Head and being nourished by faith and united in love, we experience the true growth that comes from God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.050641667615985,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.52,
+            "commentatorTierSimilarities": [
+                38.36,
+                30.22,
+                31.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Each believer must individually hold fast to Christ as the Head, rather than being attached to other members alone. Just as the body relies on the head for functioning and growth, so too must we hold fast to Christ, trusting in Him alone. The unity of the body and head is beautifully illustrated through the imagery of joints, bonds, and the workings of the physical body. By holding fast to the Head and being nourished by faith and united in love, we experience the true growth that comes from God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0683302356866458,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.11,
+            "commentatorTierSimilarities": [
+                38.4,
+                28.57,
+                33.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Each believer is urged to hold fast to Christ as the Head, rather than relying solely on attachment to other members. The body depends on the head for growth and sustenance, just as faith, love, and peace are the spiritual bands that unite believers. The headship of Christ is the central message of this epistle, illustrating the remarkable unity of the body and its interdependence on the head. Holding on to Christ alone, nourished by faith and united in love, leads to the true growth that originates from God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.1074347472029675,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.41,
+            "commentatorTierSimilarities": [
+                36.03,
+                30.04,
+                33.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Each believer must hold fast to Christ as the Head, not merely being attached to other members, as faith, love, and peace are the spiritual bands that unite us. The headship of Christ is the heart of Paul's Christology and the key message of this Epistle. Just as the body relies on the head for its functioning, the body of believers depends on its connection to Christ for growth and nourishment. By holding fast to the Head and being united in love, we experience the true growth that comes from God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.035700133174916,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                37.94,
+                29.95,
+                32.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

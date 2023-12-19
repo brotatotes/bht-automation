@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 17:15:25",
+    "verseRef": "3 John 5",
+    "bestBHT": {
+        "bht": "In this commendation, the believer is praised for their faithful acts of labor and love, displaying genuine kindness towards brethren and strangers alike. Their sincere actions of generosity and hospitality are done out of a desire to glorify God and reflect their unwavering faith. The breadth of their compassion, reaching beyond their own community to include strangers, highlights their true spirit and integrity as a believer. Their selfless acts are not motivated by personal gain or recognition, but by a genuine love for others.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.6086707420679751,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+        "commentatorTierSimilarities": [
+            27.85,
+            34.53,
+            37.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "faithfully\u2014 an act becoming a faithful man.",
+            "whatsoever work, or labor of love, thou dost perform",
+            "The fact of the brethren whom thou didst entertain being 'strangers,' enhances the love manifested in the act."
+        ],
+        "Albert Barnes": [
+            "He now speaks more particularly of his acts of generous hospitality, and says that he had fully, in that respect, done his duty as a Christian.",
+            "Whatsoever thou doest - In all your contact with them, and in all your conduct toward them.",
+            "And to strangers - Such as had gone to the church of which he was a member with a letter of commendation from John."
+        ],
+        "Marvin Vincent": [
+            "Thou doest a faithful work.",
+            "Thou doest toward.",
+            "To them that are brethren, and that strangers."
+        ],
+        "Archibald T. Robertson": [
+            "A faithful work.",
+            "In whatsoever thou doest.",
+            "And strangers withal."
+        ],
+        "John Gill": [
+            "Beloved, thou doest faithfully,.... Or a faithful thing, and as became a faithful man, a believer in Christ; in all his beneficence and charity he acted the upright part; he did not do it in an hypocritical way, to be seen of men, and gain applause from them, but from a principle of love, and with a view to the glory of God.",
+            "which may design either different persons; and by 'brethren' may be meant the poor brethren of the church that. Gaius belonged to, and others that were well known to him; and by 'the strangers', not unconverted persons, but such of the saints as came from foreign parts, and travelled about to spread the Gospel, and enlarge the interest of Christ.",
+            "Gaius was a very hospitable man, one that entertained and lodged strangers, and used them very civilly and courteously, with great liberality, and with much integrity and sincerity."
+        ],
+        "John Wesley": [
+            "Faithfully \u2014 Uprightly and sincerely."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 3 John 5, the verse commends the faithful actions of the believer towards both brethren and strangers. It emphasizes that their acts of labor, love, and hospitality were done sincerely and uprightly. The encompassing nature of their kindness, not only towards fellow believers but also towards strangers, demonstrates the depth of their love and the true spirit of Christian hospitality. The believer's genuine actions of generosity and care were not done for personal gain or recognition, but out of a sincere love for others and a desire to glorify God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.6298102916270758,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+            "commentatorTierSimilarities": [
+                24.72,
+                35.71,
+                39.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The believer in this passage is commended for faithfully and sincerely performing acts of labor, love, and hospitality towards both brethren and strangers. Their genuine actions of generosity and care are done out of love for others and a desire to glorify God. By extending their kindness not only to fellow believers but also to strangers, they display the true spirit of Christian hospitality. These acts are not driven by personal gain or recognition but are an upright demonstration of love and faithfulness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.6703901569179878,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+            "commentatorTierSimilarities": [
+                28.72,
+                33.93,
+                37.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this commendation, the believer is praised for their faithful acts of labor and love, displaying genuine kindness towards brethren and strangers alike. Their sincere actions of generosity and hospitality are done out of a desire to glorify God and reflect their unwavering faith. The breadth of their compassion, reaching beyond their own community to include strangers, highlights their true spirit and integrity as a believer. Their selfless acts are not motivated by personal gain or recognition, but by a genuine love for others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.6086707420679751,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+            "commentatorTierSimilarities": [
+                27.85,
+                34.53,
+                37.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this commendation, the believer's faithful and upright acts of labor and love are praised. They extend their kindness not only to fellow believers but also to strangers, demonstrating the depth of their love and the true spirit of Christian hospitality. These genuine actions of generosity and care are done sincerely, without seeking personal gain or recognition, but out of a sincere love for others and a desire to glorify God. Their unwavering commitment to these acts reflects their integrity and faithfulness as a believer.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6015014159627394,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
+            "commentatorTierSimilarities": [
+                25.62,
+                33.42,
+                40.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this commendation, the believer's faithful work and labor of love towards both brethren and strangers is acknowledged. Their acts of kindness and hospitality are done sincerely and uprightly, reflecting their genuine love for others. The believer extends their generosity beyond their own community, exemplifying the true spirit of Christian hospitality. These actions are not driven by personal gain or recognition but are an expression of their unwavering faith and desire to glorify God. their integrity and sincerity shine through in their selfless acts of love and service.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5959700979639233,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.41,
+            "commentatorTierSimilarities": [
+                26.51,
+                34.38,
+                39.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

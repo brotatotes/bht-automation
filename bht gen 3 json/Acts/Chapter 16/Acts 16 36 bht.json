@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:32:11",
+    "verseRef": "Acts 16:36",
+    "bestBHT": {
+        "bht": "The jailer, overflowing with joy, quickly delivered the message to Paul and Silas, expressing his happiness over their release and his desire for them to depart and go in peace. The simple task of relaying the orders brought him immense delight, as he had experienced firsthand the goodness that Paul and Silas had brought to him and his family.",
+        "wordCount": 59,
+        "quoteTokenProportion": 40.48,
+        "qualityScore": 1.3965072343807798,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.78,
+        "commentatorTierSimilarities": [
+            28.33,
+            0.0,
+            71.67
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Paul and Silas had returned to the prison.",
+            "Whither the jailor goes, accompanied by the lictors.",
+            "It was they that he addressed in ver. 37."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "36. the keeper\u2014overjoyed to",
+            "\thave such orders to execute. ",
+            "\t",
+            "told this . . . to Paul . . .",
+            "\tnow therefore . . . go in peace\u2014Very differently did Paul",
+            "\treceive such orders."
+        ],
+        "Archibald T. Robertson": [
+            "It was a simple matter to the jailor and he was full of glee over this happy outcome.",
+            "It was a simple matter to the jailor.",
+            "He was full of glee over this happy outcome."
+        ],
+        "John Gill": [
+            "Now therefore depart, and go in peace; which expresses the jailer's pleasure of mind, and joy of heart, in executing his orders.\" ",
+            "and his sincere and hearty wishes for peace and prosperity to go along with them wherever they went.",
+            "who had been instrumental of so much good to him and his family."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The jailer, overflowing with joy, quickly delivered the message to Paul and Silas, expressing his happiness over their release and his desire for them to depart and go in peace. The simple task of relaying the orders brought him immense delight, as he had experienced firsthand the goodness that Paul and Silas had brought to him and his family.",
+            "wordCount": 59,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.3965072343807798,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.78,
+            "commentatorTierSimilarities": [
+                28.33,
+                0.0,
+                71.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Overjoyed by the opportunity to carry out the orders, the jailer eagerly informed Paul and Silas, relishing in the simplicity of the task and his delight over their release. Expressing his heartfelt wishes for them to depart and go in peace, he couldn't contain his glee at the positive outcome. Having experienced the transformative impact of Paul and Silas firsthand, the jailer couldn't help but be filled with joy and gratitude for the good they had brought into his life and the lives of his loved ones.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.3456754532855069,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.09,
+            "commentatorTierSimilarities": [
+                28.86,
+                0.0,
+                71.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The jailer, full of joy, quickly shared the news with Paul and Silas, conveying his happiness over their release and his wish for them to go in peace. He delighted in the simplicity of the task and the favorable outcome. Having witnessed the positive impact of Paul and Silas, he was filled with glee and gratefulness for the good they had brought into his life and the lives of his family.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.338027212281761,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.83,
+            "commentatorTierSimilarities": [
+                31.36,
+                0.0,
+                68.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Overjoyed by the orders to release Paul and Silas, the jailer excitedly conveyed the news to them and expressed his desire for them to depart and go in peace. The simplicity of the task brought him immense delight, as he had personally experienced the positive transformation caused by their presence. Filled with joy and gratitude for the good they had done for him and his family, the jailer couldn't contain his glee at the favorable outcome.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.2371194476885283,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.48,
+            "commentatorTierSimilarities": [
+                25.47,
+                0.0,
+                74.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Rejoicing at the chance to execute the orders, the jailer eagerly informed Paul and Silas, relishing the simplicity of the task and his delight over their release. He wished them to depart and go in peace, his pleasure of mind and heartfelt desires evident. Having experienced the significant impact of Paul and Silas, he couldn't contain his joy and gratitude for the good they had brought to him and his family, their remarkable influence leaving a lasting impression.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.2674478914195757,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.49,
+            "commentatorTierSimilarities": [
+                22.8,
+                0.0,
+                77.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

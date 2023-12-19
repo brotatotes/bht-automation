@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:29:44",
+    "verseRef": "1 Timothy 6:21",
+    "bestBHT": {
+        "bht": "Some who professed to have true knowledge missed the mark concerning the faith. They were attracted by false philosophy and denied Christian doctrines. This is not an uncommon occurrence, as people are often led to deny their beliefs after being enticed by misleading wisdom. We must be cautious and steadfast, clinging to the pure word of God, in order to avoid falling into absurd errors. Let us detest sophistry and subtleties, for they corrupt true religion. May God's grace guide and protect us in our journey of faith.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.73,
+        "qualityScore": 1.7743997412574983,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+        "commentatorTierSimilarities": [
+            26.78,
+            29.56,
+            43.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The falsely called knowledge.\" ",
+            "Missed the mark concerning the faith.",
+            "The word is used of one shooting and missing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "True sagacity is inseparable from faith.\" ",
+            "The grace, namely, of God, for which we Christians look, and in which we stand.\" ",
+            "He restricts the salutation to Timothy, as the Epistle was not to be read in public."
+        ],
+        "Albert Barnes": [
+            "Evidently some who professed to be true Christians. They were attracted by false philosophy, and soon, as a consequence, were led to deny the doctrines of Christianity.\" ",
+            "This result has not been uncommon in the world.\" ",
+            "On the subscription at the close of this Epistle, see Intro., Section 2. It is, like the other subscriptions at the close of the epistles, of no authority."
+        ],
+        "Marvin Vincent": [
+            "Grace be with thee. The correct reading is meq' uJmwn with you. Although addressed to an individual, he is included in the church.\" ",
+            "In proclaiming 'ye shall live; through Christ,' is an apostle according to the promise.\" ",
+            "Life in Christ is a Pauline thought. It is also a Johannine thought."
+        ],
+        "John Calvin": [
+            "The way in which God punishes the haughtiness of those who, through the desire of obtaining reputation, corrupt and disfigure the doctrine of godliness, is, that he allows them to fall away from soundness of understanding, so that they involve themselves in many absurd errors.",
+            "We see that this has taken place in Popery; for, after they began to speculate in profane manner, about the mysteries of our religion, there followed innumerable monsters of false opinions.",
+            "Warned by such examples, if we abhor revolt from 'the faith,' let us adhere to the pure word of God, and let us detest sophistry and all useless subtleties, because they are abominable corruptions of religion."
+        ],
+        "Philip Schaff": [
+            "Once again we have the indefinite mention of those who were known though unnamed.\" ",
+            "There were some who, boasting of their knowledge, had as concerning the faith missed their mark.",
+            "Which some professing."
+        ],
+        "Archibald T. Robertson": [
+            "Have erred (\u03b7\u03c3\u03c4\u03bf\u03c7\u03b7\u03c3\u03b1\u03bd). First aorist active indicative of \u03b1\u03c3\u03c4\u03bf\u03c7\u03b5\u03c9. See 1 Timothy 1:6 for this word. "
+        ],
+        "John Gill": [
+            "Have erred concerning the faith: have wandered from the way of truth, and gone into the path of error; have fallen from the doctrine of faith, and made shipwreck of it, and become entire apostates.\" ",
+            "Grace be with thee. Amen. This the apostle wishes to him, that he might be enabled to discharge every branch of his duty he had pointed to him in this epistle, and to keep him from all evil, and every false way, and preserve him safe to the kingdom and glory of God.",
+            "And which he doubted not but would be his case, and therefore puts his 'Amen' to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some who claimed to have profound knowledge had actually missed the mark when it came to understanding the faith. These individuals had been attracted by false philosophies and as a result, denied the principles of Christianity. This is a common outcome in the world, where people are led astray by the enticing allure of misguided wisdom. It is a cautionary tale to those who arrogantly corrupt the teachings of piety, for God allows them to fall into absurd errors. We must remain steadfast in our adherence to the pure Word of God and reject the abominable corruption of religion through sophistry and useless subtleties. Let us not wander from the way of truth, but rather hold fast to the doctrine of faith, so that we may avoid spiritual shipwreck and remain in the grace of God. May God's grace be with us, guiding and protecting us as we earnestly seek to fulfill our duties and remain faithful to Him.",
+            "wordCount": 160,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.6965239924396531,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.75,
+            "commentatorTierSimilarities": [
+                23.51,
+                25.76,
+                50.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some who claimed to have profound knowledge had actually missed the mark concerning the faith. These individuals had been attracted by false philosophies and denied the principles of Christianity. This is a common outcome in the world, where people are led astray. It is a cautionary tale to those who corrupt the teachings of piety, for God allows them to fall into absurd errors. We must remain steadfast in our adherence to the pure Word of God, rejecting the corruption of religion through sophistry and subtleties. May God's grace guide and protect us as we seek to remain faithful.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 1.691024426482872,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+            "commentatorTierSimilarities": [
+                24.23,
+                29.0,
+                46.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some who professed to have true knowledge missed the mark concerning the faith. They were attracted by false philosophy and denied Christian doctrines. This is not an uncommon occurrence, as people are often led to deny their beliefs after being enticed by misleading wisdom. We must be cautious and steadfast, clinging to the pure word of God, in order to avoid falling into absurd errors. Let us detest sophistry and subtleties, for they corrupt true religion. May God's grace guide and protect us in our journey of faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.7743997412574983,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                26.78,
+                29.56,
+                43.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Some who claimed to have profound knowledge had actually missed the mark concerning the faith. They were attracted by false philosophy and denied the doctrines of Christianity. This is a common outcome in the world. We must remain steadfast in our adherence to the pure Word of God, rejecting the corruption of religion through sophistry and subtleties. Let us not wander from the way of truth, but rather hold fast to the doctrine of faith, so that we may avoid spiritual shipwreck and remain in the grace of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6886966210249916,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.49,
+            "commentatorTierSimilarities": [
+                23.82,
+                31.65,
+                44.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Some who claimed to possess knowledge actually missed the mark concerning the faith, being misled by false philosophies. This is a common occurrence, as people are attracted and ultimately led astray by deceptive wisdom. It is a warning to those who corrupt the teachings of piety, as God allows them to fall into absurd errors. We must remain steadfast and reject corrupting subtleties, holding fast to the pure Word of God. By doing so, we can avoid spiritual shipwreck and remain in God's grace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.742812553666203,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                26.47,
+                26.21,
+                47.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

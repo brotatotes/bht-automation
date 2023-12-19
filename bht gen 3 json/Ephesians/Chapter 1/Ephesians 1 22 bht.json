@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:31:33",
+    "verseRef": "Ephesians 1:22",
+    "bestBHT": {
+        "bht": "Christ is given as the Head over all things to the Church, benefiting her. He is above everything, and the Church cannot be separated from Him. By putting all things in subjection to Himself, He ensures the Church's safety. Christ is a gift to the Church, guiding and governing every member, providing them with growth and strength. The Church's unity comes from within, through the freedom of individual diversity, rather than external uniformity.",
+        "wordCount": 75,
+        "quoteTokenProportion": 50.94,
+        "qualityScore": 1.9856527552115664,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+        "commentatorTierSimilarities": [
+            34.15,
+            30.9,
+            34.95
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "HIM He gave as Head over all things to the Church.",
+            "He is OVER ('far above') all things; in contrast to the words, 'TO the Church,' namely, for her advantage.",
+            "For the Head and body are not severed by anything intervening, else the body would cease to be the body, and the Head cease to be the Head."
+        ],
+        "Albert Barnes": [
+            "The universe is under his control and direction for the welfare of his people.",
+            "All the elements - the physical works of God - the winds and waves - the seas and rivers - all are under him, and all are to be made tributary to the welfare of the church.",
+            "The church, therefore, is safe. All the great powers of heaven, earth, and hell, are made subject to its Head and King; and no weapon that is formed against it shall prosper."
+        ],
+        "Marvin Vincent": [
+            "Put all things in subjection.",
+            "Gave Him as a gift.",
+            "The Church."
+        ],
+        "John Calvin": [
+            "He was made the head of the Church, on the condition that he should have the administration of all things.",
+            "The metaphor of a head denotes the highest authority.",
+            "Those who refuse to submit to Him are unworthy of its communion; for on Him alone the unity of the Church depends."
+        ],
+        "Philip Schaff": [
+            "The passage plainly says that Christ is given to the Church, and the next verse as plainly indicates that He is Head of the Church. What, then, is His relation to \u2018all things?\u2019 Evidently that of Head also.",
+            "The word itself suggests two ideas: that the members are \u2018called out,\u2019 and that they form one assembly.",
+            "Visible unity is the end, and will come from within rather than from without. Probably the truest unity is to be reached through the freest divergencies in externals."
+        ],
+        "Archibald T. Robertson": [
+            "He put all things in subjection.",
+            "Gave him to be head.",
+            "Gave to the church Christ as Head."
+        ],
+        "John Gill": [
+            "And hath put all things under his feet....",
+            "Christ is an head to this church...",
+            "...it is a free grace gift to the church..."
+        ],
+        "John Wesley": [
+            "An head both of guidance and government, and likewise of life and influence, to the whole and every member of it.",
+            "All these stand in the nearest union with him, and have as continual and effectual a communication of activity, growth, and strength from him.",
+            "As the natural body from its head."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ has been given as the Head over all things to the Church. He is far above everything, and the Church benefits from His position of authority. There is a close connection between Christ as the Head and the Church as His body; they are inseparable. The Church finds security in the fact that Christ has put all things in subjection to Himself. He is a gift to the Church, guiding and governing every member, and providing them with continual growth and strength. The Church's unity comes not from external uniformity, but through the freedom of individual diversity.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.9880247286846915,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "commentatorTierSimilarities": [
+                32.21,
+                32.64,
+                35.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ is given as the Head over all things to the Church, benefiting her. He is above everything, and the Church cannot be separated from Him. By putting all things in subjection to Himself, He ensures the Church's safety. Christ is a gift to the Church, guiding and governing every member, providing them with growth and strength. The Church's unity comes from within, through the freedom of individual diversity, rather than external uniformity.",
+            "wordCount": 75,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 1.9856527552115664,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                34.15,
+                30.9,
+                34.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse reminds us that God has given Christ as the Head over all things to the Church for her advantage. This means that Christ is in control and has authority over everything, including the physical elements of the world. The Church can take comfort in the fact that all powers in heaven, earth, and hell are subject to Christ as their Head and King, ensuring its safety. The Church is called out and forms one assembly under Christ, with visible unity coming from within rather than external sources. Christ's authority as Head is not only one of guidance and government, but also one of life and influence to every member. The Church's unity depends on submitting to Christ, as He is the source of activity, growth, and strength, just as the natural body relies on its head.",
+            "wordCount": 140,
+            "quoteTokenProportion": 43.02,
+            "qualityScore": 1.9007109900916086,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+            "commentatorTierSimilarities": [
+                26.52,
+                40.41,
+                33.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ is given as the Head over all things to the Church, which means He has authority over everything for her advantage. The Church finds security knowing that all powers in heaven, earth, and hell are subject to Christ as their Head and King. Visible unity within the Church comes from within, not from external forces. Christ's authority as Head is not only for guidance and government, but also for life and influence to every member, just as the natural body relies on its head.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.9614808982251815,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+            "commentatorTierSimilarities": [
+                28.27,
+                37.69,
+                34.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ is given as the Head over all things to the Church. He is over all things for her advantage, as the Head and body are inseparable. The Church can find comfort in the fact that all powers in heaven, earth, and hell are made subject to its Head and King. This unity depends on all members submitting to Him, as they receive constant communication of growth and strength from Him. As the natural body depends on its head, the Church finds guidance, government, and life from Christ as its Head.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.0150500073099673,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.34,
+            "commentatorTierSimilarities": [
+                31.0,
+                32.66,
+                36.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:12:57",
+    "verseRef": "Luke 1:34",
+    "bestBHT": {
+        "bht": "Mary, a pure virgin untouched by man, poses a question not born of doubt, but rather out of admiration and a desire to comprehend the manner in which the miraculous conception will occur. Her inquiry does not imply a vow of perpetual virginity, although it reflects her strong faith and maidenly purity. Instead of reproof, Mary's question elicits a mysterious and detailed response, acknowledging her belief and seeking to shed light on the astounding event set to transpire.",
+        "wordCount": 79,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.7164613107056348,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+        "commentatorTierSimilarities": [
+            20.99,
+            49.11,
+            29.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is merely an enquiry after the manner in which so wonderful a thing should take place; not, how shall I know this?\" ",
+            "It takes for granted that it shall be, and only asks, How?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How is it to be, so contrary to the unbroken law of human birth?",
+            "Instead of reproof, therefore, her question is answered in mysterious detail.",
+            "Her question is answered in mysterious detail."
+        ],
+        "John Calvin": [
+            "We ought not to give ourselves very much trouble, to acquit her of all blame.",
+            "She must have been fully convinced of the restoration of the church, and easily gave way to what the flesh would have pronounced to be incredible.",
+            "This question was not so contrary to faith, because it arose rather from admiration than from distrust."
+        ],
+        "Philip Schaff": [
+            "She simply expresses the natural objection of which she was conscious in her pure virgin heart.",
+            "The instincts of maidenly purity combined with strong faith to show her the negative side of the mystery of the miraculous conception.",
+            "It is altogether improper to understand this clause as implying a vow of perpetual virginity, or the purpose of such a vow, as many Romanist interpreters hold."
+        ],
+        "John Gill": [
+            "nor is she charged with, and blamed for unbelief, as he was; yea, it is expressly said, Luke 1:45 that she believed",
+            "her words express her admiration at it, and also her desire to be informed of the manner how it should be",
+            "she was a pure virgin, untouched by man"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary, a pure and untouched virgin, expresses her admiration and curiosity about the manner in which the miraculous conception would take place. Instead of reproach, her question is met with a mysterious and detailed answer. This question does not stem from unbelief, but rather from a sense of wonder and amazement. It is important to note that this inquiry should not be seen as a vow of perpetual virginity, as some interpreters suggest. Mary's question reveals her faith and her desire for a deeper understanding of the incredible event that is about to unfold.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.6187665657346808,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.17,
+            "commentatorTierSimilarities": [
+                29.59,
+                40.57,
+                29.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary, a pure virgin untouched by man, poses a question not born of doubt, but rather out of admiration and a desire to comprehend the manner in which the miraculous conception will occur. Her inquiry does not imply a vow of perpetual virginity, although it reflects her strong faith and maidenly purity. Instead of reproof, Mary's question elicits a mysterious and detailed response, acknowledging her belief and seeking to shed light on the astounding event set to transpire.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7164613107056348,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+            "commentatorTierSimilarities": [
+                20.99,
+                49.11,
+                29.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary, a pure virgin untouched by man, expresses her admiration and curiosity regarding the mysterious details of the miraculous conception. Her question arises not out of disbelief, but from a place of wonder and a desire for further understanding. It is important to note that her inquiry should not be misconstrued as a vow of perpetual virginity. Rather, it demonstrates her deep faith and maidenly purity, as she seeks clarification and insight into the awe-inspiring event that is about to unfold.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6836245223598114,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                24.38,
+                45.74,
+                29.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary, a pure virgin untouched by man, marvels at the miraculous conception and seeks to understand the mysterious details of its fulfillment. Her question does not stem from disbelief, but rather from a place of awe and a genuine desire for further clarification. It is crucial to note that her inquiry should not be misinterpreted as a pledge of perpetual virginity. Instead, it reflects her profound faith and virtuous nature, as she seeks to grasp the extraordinary event that is about to occur.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6101063723906686,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.88,
+            "commentatorTierSimilarities": [
+                25.34,
+                44.31,
+                30.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary, a pure virgin untouched by man, is not expressing doubt but rather seeking to understand the manner in which such a wondrous thing will take place. Her question is met with a mysterious reply that provides detailed explanation. It is important to note that she is not criticized for her inquiry; rather, it reveals her admiration and desire for knowledge. Her question reflects her faith and purity, and should not be interpreted as a vow of perpetual virginity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6637783049435089,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.66,
+            "commentatorTierSimilarities": [
+                27.93,
+                42.2,
+                29.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:28:34",
+    "verseRef": "Acts 9:21",
+    "bestBHT": {
+        "bht": "The bystanders were all amazed at this violent reversal in Saul the persecutor, as if the old proverb about Saul among the prophets had been revived with a new meaning. The Jews, who knew the position he had held and the purpose of his visit, now saw him using all his great powers to defend and advance the cause he had come to destroy. It is no wonder that they were astonished by his sudden and remarkable change, witnessing the godly professing the name of Christ with such fervor.",
+        "wordCount": 89,
+        "quoteTokenProportion": 46.27,
+        "qualityScore": 1.6034538416208504,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.66,
+        "commentatorTierSimilarities": [
+            26.24,
+            36.69,
+            37.07
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21.] had come hither, implying the abandonment of the purpose."
+        ],
+        "Albert Barnes": [
+            "Amazed at his sudden and remarkable change.",
+            "That opposed; laid waste; persecuted.",
+            "With that design, that he might destroy the church at Damascus."
+        ],
+        "Marvin Vincent": [
+            "Destroyed [\u03c0\u03bf\u03c1\u03b8\u03b7\u03c3\u03b1\u03c2] . Rather, laid waste, made havoc of, as Rev. Compare ch. 8 3. Paul uses the same word in Galatians 1:13."
+        ],
+        "John Calvin": [
+            "They were all amazed...so that his doctrine doth the more move their minds.\" ",
+            "We must also note the phrase, those which call on his name, which witnesseth that the godly did so profess the name of Christ, that they placed all their hope of salvation in him.",
+            "Finally, whatsoever the Scripture commandeth concerning calling upon the name of God, it agreeth to the person of Christ."
+        ],
+        "Philip Schaff": [
+            "The Jews were astonished; they knew the position he had held at Jerusalem.",
+            "They knew the object of his visit to Damascus.",
+            "Now they saw him using all his great powers to defend and advance the cause he had come to destroy."
+        ],
+        "Archibald T. Robertson": [
+            "They continued to stand out of themselves in astonishment at this violent reversal in Saul the persecutor.",
+            "It is the old proverb about Saul among the prophets revived with a new meaning.",
+            "Interesting tenses."
+        ],
+        "John Gill": [
+            "They do not express the name of Christ, out of malice and ill will.",
+            "He consented to the death of Stephen, made havoc of the church, wasted and destroyed it as much as was in his power, and persecuted unto death such as called upon the name of Christ.",
+            "To see and hear him preach this same name, was surprising to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They were all amazed at this violent reversal in Saul the persecutor, as if the old proverb about Saul among the prophets had been revived with a new meaning. The Jews, who knew the position he held at Jerusalem and the object of his visit to Damascus, now saw him using all his great powers to defend and advance the cause he had come to destroy. It is no wonder that they were astonished by his sudden and remarkable change, that his doctrine moved their minds, and that they witnessed the godly professing the name of Christ, placing all their hope of salvation in him.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.6559132464507347,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                24.06,
+                37.95,
+                37.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They were all amazed at this violent reversal in Saul the persecutor, as if the old proverb about Saul among the prophets had been revived with a new meaning. The Jews, who knew the position he held at Jerusalem and the object of his visit to Damascus, now saw him using all his great powers to defend and advance the cause he had come to destroy. It is no wonder that they were astonished by his sudden and remarkable change.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.5814949705639538,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.93,
+            "commentatorTierSimilarities": [
+                25.39,
+                46.82,
+                27.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The bystanders stood in astonishment as they witnessed the remarkable transformation of Saul, the persecutor. It was as if the proverb about Saul among the prophets had taken on a whole new significance. The Jews, well aware of his previous role in Jerusalem and his purpose in coming to Damascus, were now witnessing the irony of him utilizing his great abilities to protect and promote the very cause he had intended to annihilate. Such a drastic change naturally left them astonished.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.5739686522662757,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.68,
+            "commentatorTierSimilarities": [
+                35.39,
+                39.38,
+                25.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The bystanders were astounded at the sudden reversal in Saul, the persecutor, as if the old proverb about Saul among the prophets had been given new meaning. Being aware of his previous position in Jerusalem and his intention to destroy the church in Damascus, they witnessed the irony of him now using his great powers to defend and advance the very cause he had set out to eliminate. This remarkable change naturally left them in awe and wonder.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.5903268981574739,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                31.75,
+                40.71,
+                27.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The bystanders were all amazed at this violent reversal in Saul the persecutor, as if the old proverb about Saul among the prophets had been revived with a new meaning. The Jews, who knew the position he had held and the purpose of his visit, now saw him using all his great powers to defend and advance the cause he had come to destroy. It is no wonder that they were astonished by his sudden and remarkable change, witnessing the godly professing the name of Christ with such fervor.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.6034538416208504,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.66,
+            "commentatorTierSimilarities": [
+                26.24,
+                36.69,
+                37.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

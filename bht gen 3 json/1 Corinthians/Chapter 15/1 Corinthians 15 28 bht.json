@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:14:04",
+    "verseRef": "1 Corinthians 15:28",
+    "bestBHT": {
+        "bht": "The Son's voluntary subordination to the Father is clearly proclaimed here, as the Son Himself will be subject. In the mediatorial kingdom, the Son existed separately from the Father, but in the new creation, their kingdoms will merge, and God alone will be recognized as the sole Lord. This ultimate goal of God's redemptive plans is for God to be all in all. Even the saints will fully realize God's all-sufficiency, experiencing Him as their everything in a personal and immediate way.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.0725362041495377,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.25,
+        "commentatorTierSimilarities": [
+            38.05,
+            30.19,
+            31.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The interpretations, that subjection is only an hyperbolical expression for the entire harmony of Christ with the Father...are idle subterfuges.\" ",
+            "The refutation of these and all other attempts to explain away the doctrine here plainly asserted, of the ultimate subordination of the Son, is contained in the three precise and unambiguous words, the Son Himself.\" ",
+            "that God (alone) may be all [things] in all,\u2014i.e. recognized as sole Lord and King: 'all things will be subordinated to the Son,\u2014the Son to the Father.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Son . . . himself . . . subject\u2014not as the creatures are, but as a Son voluntarily subordinate to, though co-equal with, the Father.",
+            "In the mediatorial kingdom, the Son had been, in a manner, distinct from the Father. Now, His kingdom shall merge in the Father's, with whom He is one.",
+            "Even the saints do not fully realize God as their 'all' now, through desiring it; then each shall feel, God is all to me."
+        ],
+        "Albert Barnes": [
+            "When all his enemies shall be overcome and destroyed; or when the hearts of the redeemed shall be entirely subject to God.",
+            "It shall then be seen that he is Lord of all.",
+            "The purpose of government shall no longer be exercised in that way; the mediatorial kingdom, as such, shall no longer be continued, and power shall be exercised by God as God."
+        ],
+        "John Calvin": [
+            "For the present, as the Devil resists God, as wicked men confound and disturb the order which he has established, and as endless occasions of offense present themselves to our view, it does not distinctly appear that God is all in all.",
+            "When Christ will have executed the judgment which has been committed to him by the Father, and will have cast down Satan and all the wicked, the glory of God will be conspicuous in their destruction.",
+            "Both meanings sufficiently refute of themselves the wicked frenzies of some who bring forward this passage in proof of them."
+        ],
+        "Philip Schaff": [
+            "This 'delivering up of the kingdom' must be (1) that He is to 'give an account of His stewardship' to Him who entrusted Him with it.",
+            "The kingdom itself, then, and Christ as the principle of all its highest activities, is never to disappear if anything certain can be gathered from these disclosures.",
+            "He surrenders, therefore, the seals of office; and as He was 'exalted to be a Prince and Saviour' for all saving purposes, He will, when these ends have been fully achieved, 'be subjected unto Him that did subject all things unto Him,' and, as the grand result, GOD, in the most absolute sense Father, Son, and Holy Ghost will be all in the entire new creation."
+        ],
+        "Archibald T. Robertson": [
+            "Merely, 'when the all things are subjected unto him.'",
+            "The final goal of all God's redemptive plans as Paul has so well said in Romans 11:36.",
+            "Precisely this language Paul will use of Christ (Colossians 3:11)."
+        ],
+        "John Gill": [
+            "nor in the Arian sense, according to the divine nature, as if he was in that inferior to the Father, when he is equal with him, has all the perfections he has, and the whole fulness of the Godhead dwelling in him.",
+            "he will be the prophet of the church, but he will not teach by his Spirit, and word, and ordinances as now, but will himself be the immediate light of the saints",
+            "God will be all things to all his saints, immediately without the use of means; he will be that to their bodies as meat and clothes are, without the use of them; and all light, glory, and happiness to their souls, without the use of ordinances, or any means"
+        ],
+        "John Wesley": [
+            "The Son also shall be subject \u2014 Shall deliver up the mediatorial kingdom.\" ",
+            "That the three-one God may be all in all - All things, (consequently all persons,) without any interruption, without the intervention of any creature, without the opposition of any enemy, shall be subordinate to God.\" ",
+            "All shall say, 'My God, and my all.' This is the end. Even an inspired apostle can see nothing beyond this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 15:28, the ultimate subordination of the Son to the Father is plainly asserted. The Son is voluntarily subordinate to the Father, and in the mediatorial kingdom, the Son was distinct from the Father. However, in the final kingdom, the Son's kingdom will merge with the Father's, and God alone will be recognized as the sole Lord and King. This is the ultimate goal of all God's redemptive plans, where God will be all in all, and even the saints will fully realize God as their all.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 2.2208122234015493,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+            "commentatorTierSimilarities": [
+                39.21,
+                29.52,
+                31.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, it is clearly stated that the Son will be subject to the Father, indicating a voluntary subordination of the Son to the Father. The Son's kingdom will ultimately merge with the Father's, and God alone will be recognized as the sole Lord and King. This final goal is the culmination of God's redemptive plans, where God will be everything to His creation. Even the saints will fully realize God's complete presence and sovereignty in all aspects of their lives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.084976612316632,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.67,
+            "commentatorTierSimilarities": [
+                36.48,
+                31.82,
+                31.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son's voluntary subordination to the Father is clearly proclaimed here, as the Son Himself will be subject. In the mediatorial kingdom, the Son existed separately from the Father, but in the new creation, their kingdoms will merge, and God alone will be recognized as the sole Lord. This ultimate goal of God's redemptive plans is for God to be all in all. Even the saints will fully realize God's all-sufficiency, experiencing Him as their everything in a personal and immediate way.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.0725362041495377,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.25,
+            "commentatorTierSimilarities": [
+                38.05,
+                30.19,
+                31.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 1 Corinthians 15:28, the Son's voluntary subordination to the Father is plainly asserted. While some try to explain it away, the Son Himself will be subject, not as the creatures are, but as a Son who is voluntarily subordinate to, yet co-equal with, the Father. This subordination signifies the merging of the Son's kingdom into the Father's, resulting in God alone being recognized as the ultimate Lord and King. As God becomes all in all, even the saints will fully realize and experience Him as their all in every aspect of their existence.",
+            "wordCount": 96,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.1813058078215963,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.87,
+            "commentatorTierSimilarities": [
+                39.8,
+                27.69,
+                32.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son's voluntary subordination to the Father is clearly revealed, indicating a merging of their kingdoms where God alone will be recognized as the ultimate Lord and King. This is the culmination of God's redemptive plans, where He will be everything to His creation. Even the saints will fully realize and experience God as their all. This profound truth underscores the Son's role as a Son voluntarily subordinate to, yet co-equal with, the Father.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.0588680026947666,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+            "commentatorTierSimilarities": [
+                36.9,
+                31.1,
+                32.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

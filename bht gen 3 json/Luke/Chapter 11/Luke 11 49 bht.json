@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:18:35",
+    "verseRef": "Luke 11:49",
+    "bestBHT": {
+        "bht": "Jesus, stepping majestically into the place of God, confidently declares that he will send prophets and apostles to the people, fully aware of the rejection they will face, just as their ancestors did. This displays Jesus' divine wisdom and understanding of the divine counsels. As the embodiment of God's wisdom, he takes on the responsibility of fulfilling these prophecies by sending messengers to proclaim God's word.",
+        "wordCount": 68,
+        "quoteTokenProportion": 35.42,
+        "qualityScore": 1.8011552496130205,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.23,
+        "commentatorTierSimilarities": [
+            31.99,
+            33.89,
+            34.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Behold I SEND.\" As there seems plainly an allusion to ancient warnings of what God would do with so incorrigible a people, so here Christ, stepping majestically into the place of God, so to speak, says, \"Now I am going to carry all that out.",
+            "I am going to carry all that out.\" Could this be other than the Lord of Israel in the flesh?",
+            "Christ, stepping majestically into the place of God, so to speak, says, \"Now I am going to carry all that out."
+        ],
+        "Philip Schaff": [
+            "Therefore also said the wisdom of God... Christ represents Himself as 'the wisdom of God.'\"  ",
+            "That passage speaks of the sending of prophets and their rejection... This is on the whole preferable.\" ",
+            "The notion that Luke is quoting Matthew 23:34... is a mere assumption."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus here speaks with confident knowledge of the Divine counsels.",
+            "They will act as their fathers did. They will kill and persecute.",
+            "Jesus is the wisdom of God."
+        ],
+        "John Gill": [
+            "The infinite wisdom of God said within himself, determined in his own breast, to do what follows.",
+            "Christ is intended, who, as God, is the essential wisdom of God and, as man and mediator, has the spirit of wisdom resting on him, and the treasures of wisdom and knowledge hid in him.",
+            "By whom are meant the apostles of Christ, and the ministers of the Gospel."
+        ],
+        "John Wesley": [
+            "The wisdom of God, agreeably to this, hath said...\" ",
+            "I will send them prophets - Chiefly under the Old Testament: and apostles - Under the New.",
+            "Matthew 23:34."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, stepping into the role of God, confidently states that he will send prophets and apostles to the people who will be rejected, just as their fathers acted in the past. As the wisdom of God, he takes on the responsibility of carrying out these divine counsels. His knowledge and understanding of the situation reveal his divine nature. This verse emphasizes Jesus' role as the ultimate messenger of God, fulfilling the prophecy of sending messengers to the people.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.6328440957387422,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+            "commentatorTierSimilarities": [
+                32.37,
+                32.79,
+                34.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Stepping majestically into the place of God, Jesus confidently declares that he will send prophets and apostles to the people, fully aware of the rejection they will face, just as their ancestors did. This displays Jesus' divine wisdom and understanding of the divine counsels. As the embodiment of God's wisdom, he takes on the responsibility of fulfilling these prophecies by sending messengers to proclaim God's word.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.7951083936528414,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                32.11,
+                33.49,
+                34.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, assuming the role of God, confidently proclaims that he will send prophets and apostles to the people. His knowledge of the Divine plans reveals his divine nature, as he steps into God's place to carry out these counsels. The rejection and persecution that the messengers will face mirror the actions of their ancestors. This verse highlights Jesus as the embodiment of God's wisdom, fulfilling the prophecy of sending messengers to proclaim the divine word.",
+            "wordCount": 77,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 1.5140799159744112,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                31.7,
+                34.36,
+                33.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, stepping majestically into the place of God, confidently declares that he will send prophets and apostles to the people, fully aware of the rejection they will face, just as their ancestors did. This displays Jesus' divine wisdom and understanding of the divine counsels. As the embodiment of God's wisdom, he takes on the responsibility of fulfilling these prophecies by sending messengers to proclaim God's word.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.8011552496130205,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.23,
+            "commentatorTierSimilarities": [
+                31.99,
+                33.89,
+                34.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, as the wisdom of God, confidently proclaims that he will fulfill the divine counsels by sending prophets and apostles to the people, who will face rejection and persecution, just as their fathers did. Stepping into the place of God, Jesus takes up the task of carrying out these plans, embodying both divine wisdom and knowledge. This verse showcases Jesus' role as the ultimate messenger of God, completing the fulfillment of the ancient prophecies.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.794951275077361,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                32.43,
+                32.48,
+                35.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

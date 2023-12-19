@@ -1,0 +1,102 @@
+{
+    "timestamp": "12-19-2023 16:01:37",
+    "verseRef": "Romans 4:17",
+    "bestBHT": {
+        "bht": "Abraham, the father of us all, believed in God's power to surmount physical incapacity and to call into being what did not yet exist. His faith went above and beyond the natural, and it was this faith that God reckoned to him as righteousness. The promise of being a father of many nations was not limited to his physical descendants, but extended to those who believed as he did. This promise is a testament to God's ability to bring life to the dead and to speak things into existence that were not yet.",
+        "wordCount": 95,
+        "quoteTokenProportion": 52.54,
+        "qualityScore": 2.3164904240243516,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.36,
+        "commentatorTierSimilarities": [
+            34.28,
+            35.38,
+            30.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thus Abraham, in the reckoning of Him whom he believed, is the father of us all, in order that all may be assured, that doing as he did, they shall be treated as he was.",
+            "The nature and greatness of that faith of Abraham which we are to copy is here strikingly described.",
+            "What he was required to believe being above nature, his faith had to fasten upon God's power to surmount physical incapacity, and call into being what did not then exist."
+        ],
+        "Albert Barnes": [
+            "The sense is, he had, in his mind or purpose, constituted him the father of many nations; and so certain was the fulfillment of the divine purposes, that he spoke of it as already accomplished.",
+            "The apostle evidently understands this promise as referring, not to his natural descendants only, but to the great multitude who should believe as he did.",
+            "The giving of this promise, and its fulfillment, were such as strongly to remind us that God has power to give life to the dead."
+        ],
+        "Marvin Vincent": [
+            "The verb shows that the paternity was the result of a special arrangement. It would not be used to denote the mere physical connection between father and son.",
+            "Who quickeneth the dead. This attribute of God is selected with special reference to the circumstances of Abraham as described in vers. 18, 21.",
+            "The seed of Abraham 'which were at present in the category of things which were not, and the nations which should spring physically or spiritually from him, God spoke of as having an existence, which word Abraham believed."
+        ],
+        "John Calvin": [
+            "He then who denies them to be capable of grace, does wrong to Abraham, whose faith was sustained by this thought, \u2014 that it matters not whether he was dead or not who is called by the Lord",
+            "That we may indeed on the other hand be in a suitable state to hear the call of God, we must be altogether dead in ourselves.",
+            "The character of the divine calling is, that they who are dead are raised by the Lord, that they who are nothing begin to be something through his power."
+        ],
+        "Philip Schaff": [
+            "A father of many nations. Comp. the significant change of name (Abraham = father of a multitude) for which this phrase gives a reason.",
+            "Hence the promise was of a spiritual seed from many nations. The pertinence of the quotation thus becomes obvious.",
+            "The phrase thus suggests the numerous seed of Abraham, in regard to which God had decreed and spoken (Genesis 15:5) while they were nonexistent, except in His purpose."
+        ],
+        "Archibald T. Robertson": [
+            "A father of many nations. Only true in the sense of spiritual children as already explained, father of believers in God.",
+            "Before him whom he believed even God. Incorporation of antecedent into the relative clause and attraction of the relative \u03c9 into \u03bf\u03c5.",
+            "Calleth the things that are not as though they were. 'Summons the non-existing as existing.' Abraham's body was old and decrepit. God rejuvenated him and Sarah."
+        ],
+        "John Gill": [
+            "As it is written I have made thee a father of many nations....which proves him to be a father not of the Jews only, since they cannot be called 'many nations', but of the Gentiles also.\" ",
+            "Abraham was the father of them, before him whom he believed, [even] God...there is some little likeness and resemblance in this between them, though not sameness.\" ",
+            "He (God) called Abraham the father of many nations, when he was not in fact, as if he really was."
+        ],
+        "John Wesley": [
+            "The dead are not dead to him and even the things that are not, are before God.",
+            "Summoning them to rise into being, and appear before him.",
+            "A man can say to his servant actually existing, Do this; and he doeth it: but God saith to the light, while it does not exist, Go forth; and it goeth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham, the father of us all, exemplified a faith that went above and beyond the natural. He believed in God's power to bring forth new life out of physical incapacity and to speak things into existence that were not yet. This belief led to the fulfillment of God's promise that he would be a father of many nations. This promise extends beyond his physical descendants to encompass all who believe as he did. God's ability to bring life to the dead is showcased in this promise, reminding us of his immense power. Just as Abraham trusted in God's ability to rejuvenate him and Sarah, we too are called to have faith in God's power to call into being things that are not.",
+            "wordCount": 127,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 2.2202470627192525,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+            "commentatorTierSimilarities": [
+                33.52,
+                37.04,
+                29.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham, the father of us all, believed in God's power to surmount physical incapacity and to call into being what did not yet exist. His faith went above and beyond the natural, and it was this faith that God reckoned to him as righteousness. The promise of being a father of many nations was not limited to his physical descendants, but extended to those who believed as he did. This promise is a testament to God's ability to bring life to the dead and to speak things into existence that were not yet.",
+            "wordCount": 95,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.3164904240243516,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.36,
+            "commentatorTierSimilarities": [
+                34.28,
+                35.38,
+                30.34
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

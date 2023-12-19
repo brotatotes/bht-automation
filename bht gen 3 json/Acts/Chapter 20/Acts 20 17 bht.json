@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:34:12",
+    "verseRef": "Acts 20:17",
+    "bestBHT": {
+        "bht": "In this passage, the distinction between bishops and presbyters is made to prevent any confusion regarding these titles. It is worth noting how early on, interpretations influenced by personal interests began to obscure the clarity of Scripture on ecclesiastical matters. However, the New Testament leaves no room for doubt regarding the identity of presbyters and bishops. This passage also reveals the authenticity of Paul's words, which resonate with us today. It serves as a remarkable moment to reflect on Paul's ministry and the wonders accomplished by God.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.8648499714021107,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+        "commentatorTierSimilarities": [
+            40.9,
+            22.47,
+            36.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The two, bishops and presbyters, distinguished, as if both were sent for, in order that the titles might not seem to belong to the same persons.",
+            "Here we see (1) the two, bishops and presbyters, distinguished, as if both were sent for, in order that the titles might not seem to belong to the same persons,\u2014and (2) other neighbouring churches also brought in, in order that there might not seem to be bishops in one church only.",
+            "So early did interested and disingenuous interpretations begin to cloud the light which Scripture might have thrown on ecclesiastical questions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Those here called 'elders' or 'presbyters,' are in :- called 'bishops.'",
+            "The identity of presbyters and bishops in the New Testament is beyond all reasonable dispute.",
+            "The identity of presbyters and bishops in the New Testament is beyond all reasonable dispute."
+        ],
+        "Albert Barnes": [
+            "He sent to Ephesus - Perhaps a distance of twenty or thirty miles.",
+            "The elders of the church - Who had been appointed while he was there to take charge of the church.",
+            "See the notes on Acts 15:2."
+        ],
+        "Marvin Vincent": [
+            "Having sent to Ephesus. About thirty miles. ",
+            "Elders. Called overseers or bishops in verse 28."
+        ],
+        "Philip Schaff": [
+            "In the lifetime of St. Paul, no necessity had arisen in the constitution of the Church for the appointment of a special order of superintending presbyters.",
+            "The episcopal office, as we understand it, was constituted before the close of the first century.",
+            "Out of this need the Catholic Church, in its Episcopal character, arose."
+        ],
+        "Archibald T. Robertson": [
+            "It reveals Paul as nothing else does. The man who spoke it is no longer a man of eighteen centuries ago: he is of yesterday; of today. He speaks as we speak and feels as we feel; or rather as we fain would speak and feel.",
+            "He warned them, as Jesus had done, about future perils. Paul's words here will repay any preacher's study today.",
+            "It is a fitting time and occasion for Paul to take stock of his ministry at the close of the third mission tour. What wonders had God wrought already."
+        ],
+        "John Gill": [
+            "The pastors, bishops, and overseers, as they are called... are so styled from their office, and not their age.",
+            "Certain it is, that the Apostle John dwelt here, and in the parts adjacent, unto his death, and was a superintendent and overseer in common of this church, and others near it.",
+            "So far down Christianity is to be traced in this place."
+        ],
+        "John Wesley": [
+            "Perhaps elders and bishops were then the same; or no otherwise different than are the rector of a parish and his curates.",
+            "Sending to Ephesus, he called the elders of the Church.",
+            "These are called bishops in the 28th verse, Acts 20:28 (rendered overseers in our translation)."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 20:17, we see the distinction between bishops and presbyters, or elders. This distinction is made to avoid the perception that these titles belong to the same individuals. Furthermore, the inclusion of other churches in the discussion highlights the presence of bishops in multiple churches, preventing the notion that bishops exist only in one church. Unfortunately, even at this early stage, interpretations influenced by personal agendas began to obscure the clarity that Scripture could have provided on matters pertaining to the Church. However, the New Testament makes it abundantly clear that presbyters and bishops are indeed the same. The significance of this verse lies in its portrayal of Paul's authenticity and the relevance of his words for preachers today. It serves as a moment for Paul to reflect on his ministry and marvel at the wonders God has accomplished.",
+            "wordCount": 140,
+            "quoteTokenProportion": 36.56,
+            "qualityScore": 1.8119460565770609,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                37.18,
+                23.19,
+                39.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the distinction between bishops and presbyters is made to prevent any confusion regarding these titles. It is worth noting how early on, interpretations influenced by personal interests began to obscure the clarity of Scripture on ecclesiastical matters. However, the New Testament leaves no room for doubt regarding the identity of presbyters and bishops. This passage also reveals the authenticity of Paul's words, which resonate with us today. It serves as a remarkable moment to reflect on Paul's ministry and the wonders accomplished by God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.8648499714021107,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                40.9,
+                22.47,
+                36.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Here we witness the differentiation between bishops and presbyters, ensuring that these titles are not attributed to the same individuals. However, it is disheartening to observe the early emergence of biased interpretations hindering the clarity provided by Scripture on ecclesiastical matters. Yet, the New Testament's resolute stance on the equivalence of presbyters and bishops cannot be disputed. This verse offers a glimpse into the authentic voice of Paul, whose timeless words continue to resonate with present-day preachers. It serves as a moment of reflection on Paul's ministry and the remarkable works achieved by God.",
+            "wordCount": 97,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.764574834212008,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                40.68,
+                22.69,
+                36.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this context, the distinction between bishops and presbyters is crucial to avoid confusion about these titles. Unfortunately, early on, interpretations clouded the clarity of Scripture on matters concerning the Church. Nevertheless, the New Testament leaves no room for doubt regarding the identity of presbyters and bishops \u2014 they are undeniably the same. This verse showcases the authenticity of Paul's words, which hold relevance even today. It serves as a moment for Paul to reflect on his ministry and marvel at the wonders accomplished by God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8502936705025539,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.86,
+            "commentatorTierSimilarities": [
+                39.56,
+                22.98,
+                37.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The significance of this passage lies in the distinction made between bishops and presbyters to avoid confusion over their titles. Regrettably, even at this early stage, personal interpretations began to obscure the clarity that Scripture could provide. However, the New Testament unambiguously confirms the equivalence of these roles. Paul's words here authentically resonate with us today, serving as a moment to reflect on his ministry and the remarkable works of God. It is a testament to the relevance and impact of Paul's teachings throughout time.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.7338186889096594,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.99,
+            "commentatorTierSimilarities": [
+                38.52,
+                24.86,
+                36.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

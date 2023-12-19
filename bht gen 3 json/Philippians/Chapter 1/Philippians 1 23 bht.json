@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 13:53:35",
+    "verseRef": "Philippians 1:23",
+    "bestBHT": {
+        "bht": "The apostle Paul is torn between two choices. He is held back from making a decision, feeling the pressure from both sides. On one hand, he desires to depart from this world and be with Christ, refuting the idea that the soul is dormant during separation from the body. In this metaphorical picture, Paul sees his departure as breaking camp and being released from the bonds of flesh. Ultimately, he concludes that it is far better to depart and be in a closer, fuller union with Christ in heavenly glory.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.878664491341639,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+        "commentatorTierSimilarities": [
+            30.27,
+            31.97,
+            37.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But (the contrast is to the decision involved in the word 'know') I am perplexed (literally, held in, kept back from decision, which would be a setting at liberty) by (from the direction of,\u2014kept in on both sides) the two.\" ",
+            "(the A.V., 'having a desire to,' entirely misses the delicate sense) departing (from this world\u2014used on account of the 'being with Christ' which follows), and being with Christ.",
+            "This place,' says Calvin, 'suffices to refute their folly, who dream that our souls sleep when separated from our bodies: for Paul openly declares that we enjoy Christ's presence when we are dissolved in death.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "having the desire for departing (literally, 'to loose anchor,' 2 Timothy 4:6) and being with Christ; FOR (so the oldest manuscripts) it is by far better",
+            "This refutes the notion of the soul being dormant during its separation from the body.",
+            "To depart is better than to remain in the flesh; to be with Christ is far, far better; a New Testament hope."
+        ],
+        "Albert Barnes": [
+            "The apostle represents himself as in a similar condition. His strong affection for them bound his heart to them - as an anchor holds a ship to its moorings and yet there was a heavenly influence bearing upon him - like the gale upon the vessel - which would bear him away to heaven.",
+            "To be with Christ is synonymous with being in heaven - for Christ is in heaven, and is its glory.",
+            "A mere willingness to die, or even a desire to die, is no certain evidence of preparation for death."
+        ],
+        "Marvin Vincent": [
+            "The picture is that of a man pressed on both sides. Lit. I am held together, so that I cannot incline either way.\" ",
+            "The pressure comes from both sides.\" ",
+            "Paul's metaphor here is the military one, to break camp."
+        ],
+        "John Calvin": [
+            "Paul does not reckon that he has any other advantage from living than the welfare of the brethren.",
+            "Paul now says is this; 'I desire to die, because I will, by this means, come into immediate connection with Christ.'",
+            "Paul openly declares that we enjoy Christ\u2019s presence on being set free from the body."
+        ],
+        "Philip Schaff": [
+            "But I am in a strait betwixt the two. The verb is one which the LXX. use (Job 36:8) of \u2018those who are holden in cords of affliction,\u2019 and the apostle describes himself as thus holden and constrained.",
+            "He views the world as a place of temporary sojourn, not as a home, and so he uses to describe his departure a significant term which implies that he will be like one who has only been detained here.",
+            "He cannot forget the greatness of the gain, though his love for the salvation of men may reconcile him to forego it. So, in this further allusion to life with Christ, he intensifies his language by a doubly expressed comparative."
+        ],
+        "Archibald T. Robertson": [
+            "I am in a strait (\u03c3\u03c5\u03bd\u03b5\u03c7\u03bf\u03bc\u03b1). 'I am held together.'",
+            "Betwixt the two (\u03b5\u03ba \u03c4\u03c9\u03bd \u03b4\u03c5\u03bf). 'From the two (sides).' Pressure to live on, pressure to die and be with Christ.",
+            "Very far better (\u03c0\u03bf\u03bb\u03bb\u03c9 \u03bc\u03b1\u03bb\u03bb\u03bf\u03bd \u03ba\u03c1\u03b5\u03b9\u03c3\u03c3\u03bf\u03bd). Double comparative (triple Lightfoot calls it because of \u03c0\u03bf\u03bb\u03bb\u03c9) like Isocrates and the Koine often."
+        ],
+        "John Gill": [
+            "Death is desired for some other end; wicked men desire it, and desire others to put an end to their lives, or do it themselves to free them from some trouble they are in; or because they are not able to support under a disappointment of what their ambition or lust have prompted them to.",
+            "Good men desire death... that they may be rid of sin, which so much dishonours God as well as distresses themselves; and that they may be clothed upon with the shining robes of immortality and glory.",
+            "To depart and be with Christ is better than to live in the flesh in this sinful world, in the midst of a variety of sorrows and troubles, and in which communion with Christ is but now and then enjoyed."
+        ],
+        "John Wesley": [
+            "To depart \u2014 Out of bonds, flesh, the world.",
+            "And to be with Christ \u2014 In a nearer and fuller union. It is better to depart; it is far better to be with Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul expresses his dilemma, feeling constrained on both sides. On one hand, he desires to depart from this world, being held back from making a decision, and yearns to be with Christ in heavenly glory. This contradicts the notion that the soul sleeps when separated from the body, as Paul affirms that we enjoy Christ's presence when we are separated from our bodies. Paul envisions his departure as breaking camp and being loosed from the bonds of flesh and the sinful world. Ultimately, he concludes that it is better by far to depart and be in a closer, fuller union with Christ, free from the troubles and limitations of the earthly realm.",
+            "wordCount": 115,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.9932589179631974,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "commentatorTierSimilarities": [
+                27.25,
+                32.39,
+                40.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul is torn between two choices. He is held back from making a decision, feeling the pressure from both sides. On one hand, he desires to depart from this world and be with Christ, refuting the idea that the soul is dormant during separation from the body. In this metaphorical picture, Paul sees his departure as breaking camp and being released from the bonds of flesh. Ultimately, he concludes that it is far better to depart and be in a closer, fuller union with Christ in heavenly glory.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.878664491341639,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+            "commentatorTierSimilarities": [
+                30.27,
+                31.97,
+                37.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Philippians 1:23, the apostle Paul is faced with a difficult decision. He is caught in a dilemma, feeling the pressure to stay and continue his work on earth and the desire to depart from this world and be with Christ. Paul emphasizes the immense benefit of being with Christ, refuting the notion of a dormant soul after death. He sees departure as breaking camp and being freed from the constraints of the flesh. Ultimately, he concludes that it is far, far better to depart and enjoy a closer union with Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.8653854294252774,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.37,
+            "commentatorTierSimilarities": [
+                26.15,
+                32.93,
+                40.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of a difficult decision, the apostle Paul finds himself torn between two options. He feels constrained from making a choice, held back on both sides. One option is to depart from this world, described as breaking camp and being released from the bonds of the body. The other option is to be with Christ, enjoying His immediate presence after death. Paul affirms that being with Christ is far better and refutes the idea of a dormant soul in separation from the body.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.876202205651552,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.73,
+            "commentatorTierSimilarities": [
+                30.62,
+                32.85,
+                36.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul is faced with a difficult decision in Philippians 1:23. He feels constrained, pressed on both sides, unable to choose between departing from this world and being with Christ. This sheds light on the misconception that our souls sleep during separation from the body, as Paul declares we enjoy Christ's presence upon dissolution. Paul's language conveys the imagery of breaking camp and being freed from the constraints of the flesh. Ultimately, he concludes that it is by far better to depart and enter into a closer, fuller union with Christ.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.8930053969144436,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.28,
+            "commentatorTierSimilarities": [
+                29.34,
+                32.37,
+                38.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

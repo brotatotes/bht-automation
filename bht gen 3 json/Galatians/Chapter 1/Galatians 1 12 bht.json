@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 14:13:57",
+    "verseRef": "Galatians 1:12",
+    "bestBHT": {
+        "bht": "The apostle Paul emphasizes that he did not receive or learn the gospel from any human source but exclusively through a revelation from Jesus Christ Himself. This divine revelation likely occurred soon after his conversion, possibly during his time in Arabia. It is crucial to distinguish this revelation from the appearance of the Lord in Acts 22:18, as that was not a revelation but a warning and command. Paul's understanding of the gospel came directly from Jesus Christ, making him an independent and authoritative witness to its truth.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.545898068479551,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.99,
+        "commentatorTierSimilarities": [
+            38.49,
+            36.73,
+            24.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For neither did I (myself strongly emphatic, 'neither did I, any more than the other Apostles') receive it (historically) from man (i. e. 'any man; generic: nor was I taught it (dogmatically), but by revelation of, i.e. from Jesus Christ.",
+            "WHEN did this revelation take place?\u2014clearly, soon after his conversion, imparting to him as it did the knowledge of the Gospel which he afterwards preached; and therefore in all probability it is to be placed during that sojourn in Arabia referred to in ver. 17.",
+            "Nor can it be the same as that appearance of the Lord to him related Acts xxii. 18,\u2014for that was not the occasion of any revelation, but simply of warning and command."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For not even did I myself receive it from man, nor was I taught it.\" ",
+            "By the revelation of Jesus Christ.",
+            "Paul received it by special revelation... Paul is an independent witness to the Gospel."
+        ],
+        "Albert Barnes": [
+            "He did not receive his gospel in any way from man.",
+            "He was not taught it by any written account of it, or by the instruction of man in any way.",
+            "He was not indebted to people for his knowledge of the gospel, but had derived it entirely from the Saviour."
+        ],
+        "Marvin Vincent": [
+            "Para from emphasises the idea of transmission, and marks the connection between giver and receiver.\" ",
+            "I received the gospel by Jesus Christ's revealing it to me. The subject of the revelation is the gospel, not Christ. Christ was the revealer."
+        ],
+        "John Calvin": [
+            "shall the authority of the word be diminished, because one who has been instructed by the instrumentality of men shall afterwards become a teacher?",
+            "It was therefore necessary that Paul should state his doctrine in opposition to the whole world, and should rest it on this ground, that he had acquired it not in the school of any man, but by revelation from God.",
+            "In like manner, we have already shown, that he had a direct call from God by revelation, and that he was ordained by the votes and the solemn approbation of men."
+        ],
+        "Philip Schaff": [
+            "For neither did I myself receive it from man, nor was I taught it, but (it came to me) through revelation of Jesus Christ.\" ",
+            "Paul was man-taught as a rabbinical scholar, but God-taught as a Christian Apostle.",
+            "Revelation is distinguished from ordinary illumination and instruction by its divine origin, its elevation above (not against) reason, and its sudden communication and intuitive perception."
+        ],
+        "Archibald T. Robertson": [
+            "He did not receive it 'from man,' whether Peter or any other apostle, nor was he taught it in the school of Gamaliel in Jerusalem or at the University of Tarsus.\" ",
+            "He 'received' his gospel in one way, 'through revelation of Jesus Christ'.",
+            "The Lord Jesus revealed his will to Paul."
+        ],
+        "John Gill": [
+            "Not from Gamaliel... nor any other man.\" ",
+            "He did not learn it of men...\" ",
+            "But by the revelation of Jesus Christ."
+        ],
+        "John Wesley": [
+            "For neither did I receive it \u2014 At once.",
+            "Nor was I taught it \u2014 Slowly and gradually, by any man.",
+            "But by the revelation of Jesus Christ \u2014 Our Lord revealed to him at first, his resurrection, ascension, and the calling of the gentiles, and his own apostleship; and told him then, there were other things for which he would appear to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul emphasizes that he did not receive or learn the gospel from any human source, but rather through a direct revelation from Jesus Christ Himself. This revelation took place soon after his conversion, possibly during his time in Arabia. It is distinct from the appearance of the Lord mentioned in Acts 22:18, as that was not a revelation but a warning and command. Paul's message is independent and the result of divine transmission, making him an authority on the gospel. His understanding of the gospel came directly from Jesus Christ's revealing it to him, making the subject of revelation the gospel itself.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.5872523688628446,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.37,
+            "commentatorTierSimilarities": [
+                39.23,
+                36.76,
+                24.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul strongly emphasizes that he did not receive or learn the gospel from any man, but had acquired it entirely through a direct revelation from Jesus Christ. This revelation likely occurred during his time in Arabia, shortly after his conversion. It is important to note that this revelation is distinct from the appearance of the Lord recorded in Acts 22:18, as that encounter did not involve a revelation, but rather served as a warning and command. Consequently, Paul's understanding of the gospel is a result of divine transmission, making him an authoritative and independent witness to its message.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 2.472077133125853,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.54,
+            "commentatorTierSimilarities": [
+                38.21,
+                36.56,
+                25.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul firmly declares that he did not receive the gospel from any human source, but solely through a revelation from Jesus Christ Himself. This revelation most likely occurred soon after his conversion, possibly during his time in Arabia. It is important to distinguish this revelation from the appearance of the Lord in Acts 22:18, as the latter did not involve a revelation, but rather a warning and command. Paul's recognition of the gospel as a result of divine transmission establishes him as an independent and authoritative witness to its truth.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.445858183445263,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.66,
+            "commentatorTierSimilarities": [
+                38.63,
+                36.51,
+                24.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul asserts that he did not receive or learn the gospel from any person, but exclusively through a revelation from Jesus Christ. This revelation likely occurred shortly after his conversion, potentially during his time in Arabia. It is necessary to differentiate this revelation from the Lord's appearance in Acts 22:18, which did not involve a revelation but rather served as a warning and command. Paul's understanding of the gospel came through divine transmission, positioning him as an independent and credible witness to its message.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.458951990990169,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.1,
+            "commentatorTierSimilarities": [
+                38.31,
+                36.41,
+                25.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul emphasizes that he did not receive or learn the gospel from any human source but exclusively through a revelation from Jesus Christ Himself. This divine revelation likely occurred soon after his conversion, possibly during his time in Arabia. It is crucial to distinguish this revelation from the appearance of the Lord in Acts 22:18, as that was not a revelation but a warning and command. Paul's understanding of the gospel came directly from Jesus Christ, making him an independent and authoritative witness to its truth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.545898068479551,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.99,
+            "commentatorTierSimilarities": [
+                38.49,
+                36.73,
+                24.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

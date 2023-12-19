@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:38:38",
+    "verseRef": "1 Peter 1:4",
+    "bestBHT": {
+        "bht": "The inheritance in question is described as salvation, grace, and an unfading crown of glory, reserved through God's care for believers. It is a possession that is incorruptible, undefiled, and beyond the reach of Satan. This heavenly inheritance is pure and holy, exempt from the blight that tarnishes earthly possessions. It is a permanent and glorious blessing that will never fade away, unlike the fleeting enjoyments of this world.",
+        "wordCount": 70,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 2.369191611497537,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.12,
+        "commentatorTierSimilarities": [
+            35.26,
+            30.54,
+            34.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This inheritance is more closely defined, as salvation, as grace, grace of life, as glory, as an unfading crown of glory, or the eternal glory of God.",
+            "This inheritance is the full possession of that, which was promised to Abraham and all believers.",
+            "Our inheritance is glorious in these three respects: it is in substance, incorruptible; in purity, undefiled; in beauty, unfading."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The inheritance is the believer's already by title, being actually assigned to him; the entrance on its possession is future, and hoped for as a certainty.",
+            "Negations of the imperfections which meet us on every side here are the chief means of conveying to our minds a conception of the heavenly things which 'have not entered into the heart of man,' and which we have not faculties now capable of fully knowing.",
+            "The inheritance is in security, beyond risk, out of the reach of Satan, though we for whom it is reserved are still in the midst of dangers."
+        ],
+        "Albert Barnes": [
+            "Christians are regarded as the adopted children of God, and heaven is spoken of as their inheritance - as what their Father will bestow on them as the proof of his love.",
+            "It will not have been obtained by dishonesty, nor will it be held by fraud; it will not be such as will corrupt the soul, or tempt to extravagance, sensuality, and lust, as a rich inheritance often does here; it will be such that its eternal enjoyment will never tend in any manner to defile the heart.",
+            "The idea here...is applied to the future inheritance of the saints to describe its perpetuity in all its brilliance and splendor, in contrast with the fading nature of all that is earthly."
+        ],
+        "Marvin Vincent": [
+            "Incorruptible, undefiled, and that fadeth not away.",
+            "The loveliness of the heavenly inheritance is described as exempt from the blight which attaches to earthly bloom.",
+            "Reserved...which has been reserved, a perfect participle, indicating the inheritance as one reserved through God's care for his own from the beginning down to the present."
+        ],
+        "John Calvin": [
+            "The inheritance is said to be reserved, or preserved, that we may know that it is beyond the reach of danger.",
+            "That he might then free us from every fear, he testifies that our salvation is placed in safety beyond the harms which Satan can do.",
+            "For, as faith penetrates into the heavens, so also it appropriates to us the blessings which are in heaven."
+        ],
+        "Philip Schaff": [
+            "To have the one is to have the other. So perfect is God's act, so secure against failure the hope which comes by that act.",
+            "The inheritance is further described positively as reserved in heaven for you... within the shelter of His omnipotence.",
+            "No longer using 'us,' as before, he now says 'for you'... an inheritance is in waiting, which is strange to peril."
+        ],
+        "Archibald T. Robertson": [
+            "Unto an inheritance... here a picture of the blessedness in store for us pilgrims.\" ",
+            "Incorruptible... imperishable. So many inheritances vanish away before they are obtained.",
+            "That fadeth not away... These inscriptions will fade away, but not this inheritance in Christ."
+        ],
+        "John Gill": [
+            "It is an 'inheritance'; a large estate, and rich possession, they are born heirs apparent to.",
+            "It is free from corruption in itself; nor can it be corrupted by others, by moth, or rust, or other things.",
+            "It is in its own nature pure and holy, and free from any defilement of sin; nor are there any of those impurities in it which Jews and Mahometans dream of in their vainly expected earthly paradise."
+        ],
+        "John Wesley": [
+            "Incorruptible \u2014 Not like earthly treasures.",
+            "Undefiled \u2014 Pure and holy, incapable of being itself defiled, or of being enjoyed by any polluted soul.",
+            "And that fadeth not away \u2014 That never decays in its value, sweetness, or beauty, like all the enjoyments of this world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The inheritance spoken of in this verse is described as salvation, grace, grace of life, and glory. It is a glorious possession, incorruptible, undefiled, and unfading. This inheritance is already legally granted to believers but the full entrance into its possession is still in the future. It is a secure inheritance, beyond the reach of Satan, and it has been reserved through God's care from the beginning. This heavenly inheritance is exempt from the imperfections and corruption of earthly things. It is a pure and holy possession that will never fade in its value, sweetness, or beauty, unlike the enjoyments of this world.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.351728614172738,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.54,
+            "commentatorTierSimilarities": [
+                35.75,
+                32.02,
+                32.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The inheritance in question is described as salvation, grace, and an unfading crown of glory, reserved through God's care for believers. It is a possession that is incorruptible, undefiled, and beyond the reach of Satan. This heavenly inheritance is pure and holy, exempt from the blight that tarnishes earthly possessions. It is a permanent and glorious blessing that will never fade away, unlike the fleeting enjoyments of this world.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.369191611497537,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.12,
+            "commentatorTierSimilarities": [
+                35.26,
+                30.54,
+                34.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The inheritance mentioned is described as salvation, grace, grace of life, glory, and an unfading crown of glory - a possession incorruptible, undefiled, and unfading. Although believers already possess this inheritance, its full possession is still to come. It is a secure inheritance, reserved through God's care from the beginning. Unlike earthly treasures, this inheritance is pure, holy, and free from corruption, maintaining its value, sweetness, and beauty for eternity. This heavenly possession surpasses any earthly enjoyment, unspoiled by sin or defilement.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.3614555252466127,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.86,
+            "commentatorTierSimilarities": [
+                35.59,
+                32.68,
+                31.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The inheritance referred to is described as salvation, grace, grace of life, glory, and an unfading crown of glory - a possession incorruptible, undefiled, and unfading. Although believers already have this inheritance, its full possession is still expected in the future. It is a secure inheritance, reserved through God's care. This heavenly possession is pure, holy, and free from corruption, maintaining its value for eternity. It surpasses any earthly enjoyment, unspoiled by sin or defilement.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.2571787515438526,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.39,
+            "commentatorTierSimilarities": [
+                35.1,
+                32.71,
+                32.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The inheritance in question is defined as salvation, grace, grace of life, glory, and an unfading crown of glory - a possession incorruptible, undefiled, and unfading. While believers already have this inheritance in title, the full entrance into its possession lies in the future. It is a secure inheritance, kept beyond Satan's reach, and it has been carefully reserved by God from the very beginning. This heavenly inheritance is pure and holy, exempt from the decay and imperfection that plagues earthly treasures. It holds an eternal value, sweetness, and beauty unmarred by time or corruption.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.347834348478057,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.41,
+            "commentatorTierSimilarities": [
+                35.18,
+                32.52,
+                32.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

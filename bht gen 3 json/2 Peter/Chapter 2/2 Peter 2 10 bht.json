@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:40:33",
+    "verseRef": "2 Peter 2:10",
+    "bestBHT": {
+        "bht": "Driven by their fleshly desires, these individuals dare to speak evil of angelic powers, exhibiting a blatant disregard for authority. They despise the ordinance of God, seeking to introduce anarchy and chaos. Yet, their arrogance and defiance will not go unpunished. God will hold them accountable for their wickedness, for it is a monstrous arrogance to regard the glories appointed by God as nothing.",
+        "wordCount": 64,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 1.861240106437816,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+        "commentatorTierSimilarities": [
+            24.8,
+            33.67,
+            41.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "those who go after the flesh in lust of pollution",
+            "despise lordship",
+            "they tremble not [when] speaking evil of glories"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They will be punished.",
+            "Presumptuously daring.",
+            "Speak evil of glories."
+        ],
+        "Albert Barnes": [
+            "That walk after the flesh - That live for the indulgence of their carnal appetites.",
+            "Presumptuous are they - daring, bold, audacious, presumptuous men.",
+            "It is a very certain indication that men hold wrong opinions when they show disrespect to those in authority, and despise the restraints of law."
+        ],
+        "Marvin Vincent": [
+            "Of uncleanness [\u03bc\u03b9\u03b1\u03c3\u03bc\u03bf\u03c5] . Only here in New Testament.",
+            "Presumptuous [\u03c4\u03bf\u03bb\u03bc\u03b7\u03c4\u03b1\u03b9] . Only here in New Testament. Lit., darers. Rev., daring.",
+            "Dignities [\u03b4\u03bf\u03be\u03b1\u03c2] . Lit., glories. Compare Jude 1:8. Probably angelic powers."
+        ],
+        "John Calvin": [
+            "For since God will punish all the wicked, how can they escape who abandon themselves like brute beasts to every kind of iniquity?",
+            "It is a monstrous arrogance to regard as nothing the glory which shines forth in dignities appointed by God.",
+            "There are also many turbulent men of this sort at the present day, who proudly declare that the power of the sword is heathen and unlawful, and furiously attempt to subvert all government."
+        ],
+        "Archibald T. Robertson": [
+            "After the flesh... Of defilement.\" ",
+            "Despise dominion... Daring... Self-willed.\" ",
+            "They tremble not to rail at dignities."
+        ],
+        "John Gill": [
+            "Sins exceeding great, not only contrary to the law and light of nature, but dishonourable to human nature.",
+            "To despise the ordinance of God, his representatives, and to introduce anarchy and confusion, and to open a door to all manner of sin.",
+            "Bold and daring, not fearing to speak against men of the most exalted character on earth, and against God himself in heaven."
+        ],
+        "John Wesley": [
+            "Chiefly them that walk after the flesh \u2014 Corrupt nature; particularly in the lust of uncleanness. And despise government - The authority of their governors.",
+            "Dignities \u2014 Persons in authority."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These individuals, driven by their fleshly desires, exhibit a blatant disregard for authority and dare to speak evil of angelic powers. They are audacious and self-willed, not trembling even when they rail against dignities appointed by God. Their actions of abandoning themselves to all kinds of iniquity are sinful and dishonorable. They despise the ordinance of God, his representatives, and seek to introduce anarchy and chaos. Yet, their arrogance and defiance will not go unpunished, for God will hold them accountable for their wickedness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8467168841719188,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                24.36,
+                33.34,
+                42.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Driven by their fleshly desires, these individuals dare to speak evil of angelic powers, exhibiting a blatant disregard for authority. They despise the ordinance of God, seeking to introduce anarchy and chaos. Yet, their arrogance and defiance will not go unpunished. God will hold them accountable for their wickedness, for it is a monstrous arrogance to regard the glories appointed by God as nothing.",
+            "wordCount": 64,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.861240106437816,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                24.8,
+                33.67,
+                41.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals, driven by their fleshly desires, exhibit a blatant disregard for authority and dare to speak evil of angelic powers. They are audacious and self-willed, not trembling even when they rail against dignities appointed by God. Their actions of abandoning themselves to all kinds of iniquity are sinful and dishonorable. They despise the ordinance of God, his representatives, and seek to introduce anarchy and chaos. Yet, their arrogance and defiance will not go unpunished, for God will hold them accountable for their wickedness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8467168841719188,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                24.36,
+                33.34,
+                42.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Driven by their fleshly desires, these individuals exhibit a blatant disregard for authority and speak evil of angelic powers. They are audacious and self-willed, not trembling even when they rail against dignities appointed by God. Their actions of abandoning themselves to all kinds of iniquity are sinful and dishonorable. They despise the ordinance of God, his representatives, and seek to introduce anarchy and chaos. Yet, their arrogance and defiance will not go unpunished, for God will hold them accountable.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8365354217181176,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.41,
+            "commentatorTierSimilarities": [
+                24.52,
+                33.13,
+                42.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Driven by their fleshly lusts, these individuals despise authority and dare to speak evil of angelic glories. They exhibit audacious and daring behavior, not fearing to rail against dignities appointed by God. Their actions of indulging in defilement are dishonorable and contrary to the law of God. By rejecting dominion and promoting self-will, they undermine the ordinance of God and invite sin and chaos. However, their presumption and disrespect will not go unpunished, for God will bring judgment upon them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8419898220133932,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.59,
+            "commentatorTierSimilarities": [
+                25.82,
+                33.1,
+                41.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

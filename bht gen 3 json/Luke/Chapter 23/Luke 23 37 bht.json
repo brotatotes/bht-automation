@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:23:35",
+    "verseRef": "Luke 23:37",
+    "bestBHT": {
+        "bht": "The soldiers and rulers fail to understand that Jesus could not save himself if he was to save others. By mocking him as the king of the Jews, they reveal their ignorance of the profound truth that Jesus' crucifixion was not a sign of weakness, but rather the ultimate act of love and sacrifice. Their scoff and sneer only serve to highlight their lack of understanding, both of who Jesus truly is and of the depth of his mission.",
+        "wordCount": 79,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 1.7859543300884337,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+        "commentatorTierSimilarities": [
+            49.42,
+            20.55,
+            30.03
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "If thou art the King of the Jews, save thyself.",
+            "This scoff was learned from the rulers no doubt.",
+            "But it included a sneer at the Jews as well."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus could not save himself if he was to save others.",
+            "The soldiers pick out 'the king of the Jews' as the point of their sneer, the point on which Jesus was condemned.",
+            "Both soldiers and rulers fail to understand."
+        ],
+        "John Gill": [
+            "And saying, if thou be the King of the Jews,.... Or their Messiah, who was spoken of as a divine person; for otherwise he might have been their king, and not have been able to have done what is proposed.",
+            "Save thyself: or deliver thyself from the cross."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The soldiers and rulers fail to understand that Jesus could not save himself if he was to save others. By mocking him as the king of the Jews, they reveal their ignorance of the profound truth that Jesus' crucifixion was not a sign of weakness, but rather the ultimate act of love and sacrifice. Their scoff and sneer only serve to highlight their lack of understanding, both of who Jesus truly is and of the depth of his mission.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.7859543300884337,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                49.42,
+                20.55,
+                30.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The soldiers and rulers fail to grasp the significance of Jesus' inability to save himself if he was to save others. In their mocking of him as the king of the Jews, they unwittingly expose their ignorance of the deeper truth that Jesus' crucifixion was not a display of weakness, but rather the ultimate demonstration of love and sacrifice. Their scoff and sneer only serve to underscore their lack of understanding, both regarding Jesus' true identity and the profound purpose of his mission.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7079574065391503,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.13,
+            "commentatorTierSimilarities": [
+                49.1,
+                19.98,
+                30.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers and rulers are oblivious to the fact that Jesus couldn't save himself if he desired to save others. By ridiculing him as the king of the Jews, they expose their ignorance of the truth that Jesus' crucifixion was not a sign of weakness but rather the ultimate act of love and sacrifice. Their mockery only serves to emphasize their lack of understanding, both about Jesus' true nature and the profound purpose of his mission.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.703899864414053,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                48.2,
+                20.9,
+                30.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The soldiers and rulers fail to comprehend that Jesus, in order to save others, could not save himself. By singling out the king of the Jews as a target of their ridicule, they unveil their lack of understanding. The soldiers' mocking remark reflects the influence of the rulers, further underscoring their ignorance. However, their taunt encompasses more than just derision towards Jesus; it also implies a scorn for the Jewish people. Nevertheless, their limited perception blinds them to the true significance of Jesus' crucifixion and the profound purpose behind it.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.5065302666105165,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                45.35,
+                27.58,
+                27.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldiers and rulers reveal their ignorance by failing to grasp that Jesus, in his mission to save others, could not save himself. Their mockery of him as the king of the Jews highlights their lack of understanding. The soldiers' taunt, likely learned from the rulers, not only aims at Jesus but also sneers at the Jewish people. However, they fail to realize the deeper truth that Jesus' crucifixion represents an act of sacrificial love rather than weakness, demonstrating their limited comprehension of his divine nature and purpose.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.6445319618849057,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.02,
+            "commentatorTierSimilarities": [
+                45.67,
+                24.14,
+                30.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:15:22",
+    "verseRef": "Luke 5:28",
+    "bestBHT": {
+        "bht": "Leaving his profitable business behind, he made the decisive choice to follow Jesus. He began following him immediately and continued to do so, forsaking all worldly possessions. This story echoes other Gospel passages, highlighting the significant commitment this individual made to leave everything behind and embrace a life dedicated to serving Christ.",
+        "wordCount": 52,
+        "quoteTokenProportion": 34.88,
+        "qualityScore": 1.6532527468077267,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+        "commentatorTierSimilarities": [
+            44.19,
+            0.0,
+            55.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "left all: not merely, \u2018left his books and implements,\u2019 but the expression is generally used, and imports not so much a present objective relinquishment, as the mind with which he rose to follow."
+        ],
+        "Marvin Vincent": [
+            "He followed [\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03b9] . Imperfect. He began to follow, and continued following. ",
+            "- 39. Compare Matthew 9:10-17; Mark 2:15-22."
+        ],
+        "Archibald T. Robertson": [
+            "He forsook all. He left his profitable business for the service of Christ.",
+            "Followed him. He began at once to follow him and he kept it up.",
+            "Both Mark 2:14; Matthew 9:9 have the aorist, perhaps ingressive."
+        ],
+        "John Gill": [
+            "He left all,.... His company, his business, and all the profits of it.",
+            "Such power went along with the words of Christ, that he could not withstand it.",
+            "He followed him; not only in a literal, but in a spiritual sense, and became a disciple of his."
+        ],
+        "John Wesley": [
+            "Leaving all \u2014 His business and gain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He completely abandoned everything, not just his books and tools, but with a mindset of total commitment. He immediately began following Jesus and continued to do so. He gave up his lucrative business to serve Christ. This verse is similar to other accounts in Matthew and Mark, emphasizing the radical decision someone made to leave everything behind.",
+            "wordCount": 57,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.5972960178237918,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.45,
+            "commentatorTierSimilarities": [
+                45.39,
+                0.0,
+                54.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Leaving behind all his possessions and business, he wholeheartedly committed himself to follow Jesus. Starting right away, he became a dedicated disciple, not just in the physical sense but also spiritually. This account aligns with other passages, illustrating the profound decision this individual made to leave everything behind in order to serve Christ faithfully.",
+            "wordCount": 54,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.5338226043098442,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+            "commentatorTierSimilarities": [
+                42.82,
+                0.0,
+                57.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He left everything behind, not just his worldly possessions, but with the intention and determination to follow Jesus. Immediately, he began to faithfully follow Jesus, forsaking his profitable business. This verse corresponds with parallel accounts in Matthew and Mark, highlighting the radical and sacrificial decision that this individual made to leave it all behind and fully commit himself to Christ.",
+            "wordCount": 60,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.8079010913568758,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                48.4,
+                0.0,
+                51.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Completely forsaking his previous way of life, he abandoned his business and all the profits that came with it. With the irresistible power of Christ's words compelling him, he wholeheartedly followed Jesus, not just in a literal sense, but becoming a true disciple. This account parallels similar stories in Matthew and Mark, emphasizing the bold act of relinquishing everything to faithfully serve Christ.",
+            "wordCount": 64,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.5105655484734184,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.57,
+            "commentatorTierSimilarities": [
+                42.55,
+                0.0,
+                57.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Leaving his profitable business behind, he made the decisive choice to follow Jesus. He began following him immediately and continued to do so, forsaking all worldly possessions. This story echoes other Gospel passages, highlighting the significant commitment this individual made to leave everything behind and embrace a life dedicated to serving Christ.",
+            "wordCount": 52,
+            "quoteTokenProportion": 34.88,
+            "qualityScore": 1.6532527468077267,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.31,
+            "commentatorTierSimilarities": [
+                44.19,
+                0.0,
+                55.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

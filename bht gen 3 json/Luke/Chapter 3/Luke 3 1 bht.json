@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:14:38",
+    "verseRef": "Luke 3:1",
+    "bestBHT": {
+        "bht": "Luke 3:1 marks the commencement of a new era in the Church, as the New Testament curtain rises. Luke's unparalleled attention to detail is evident in his mention of significant political and religious figures such as Pontius Pilate, Herod Antipas, and Philip. This meticulousness establishes a precise historical context that sets the stage for the revival of the prophetic function after centuries of silence. Luke's comprehensive framework, ranging from the Roman emperor to the high-priesthood, underscores the gravitas of this transformative moment in the Church's history.",
+        "wordCount": 89,
+        "quoteTokenProportion": 23.81,
+        "qualityScore": 1.8839520394770188,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+        "commentatorTierSimilarities": [
+            36.46,
+            32.62,
+            30.92
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The 'about thirty' is a wide expression, and might cover any age from thirty (see note on ver. 23) to thirty-two or thirty-three.",
+            "PONTIUS PILATE was the sixth procurator from the deposition of Archelaus, and came to Jud\u00e6a about the year of Rome 779.",
+            "He [Philip] was by far the best of Herod\u2019s sons, and ruled his portion mildly and well."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here the curtain of the New Testament is, as it were, drawn up, and the greatest of all epochs of the Church commences.\" ",
+            "No such elaborate chronological precision is to be found elsewhere in the New Testament.",
+            "Iturea\u2014to the northeast of Palestine; so called from Ishmael's son Itur or Jetur (1 Chronicles 1:31), and anciently belonging to the half tribe of Manasseh."
+        ],
+        "Albert Barnes": [
+            "Tiberius succeeded Augustus in the empire, and began his 'sole' reign... He was a most infamous character - a scourge to the Roman people.\" ",
+            "Pontius Pilate was the 'fifth' governor that had been sent, and of course had been in Judea but a short time.",
+            "It was this Herod who imprisoned John the Baptist, and to whom our Saviour, when arraigned, was sent by Pilate."
+        ],
+        "Marvin Vincent": [
+            "Pontius Pilate. Wyc., Pilat of Pounce. Tetrarch. See on Matthew 14:1."
+        ],
+        "John Calvin": [
+            "This change might take place in his second year. The same Josephus writes, that Valerius was governor of Judea for 'eleven years, when Pontius Pilate came as his successor.'",
+            "Luke mentions here two sons of Herod, \u2014 Herod Antipas, who had been made tetrarch of Galilee, and governed Samaria and Peraea, \u2014 and Philip, who was tetrarch of Trachonitis and Iturea.",
+            "The word Tetrarch is here used in a sense not quite accurate, as if the whole country had been divided into four parts. But as at first there was a fourfold division into districts, so afterwards, when other changes took place, the names Tetrarch and Tetrarchies were retained by way of honor."
+        ],
+        "Philip Schaff": [
+            "Luke\u2019s accuracy appears from his naming here no less than seven official personages, from the Roman emperor to the Jewish high-priest, or high-priests.",
+            "The expression translated: \u2018of the reign of\u2019 permits us to reckon from either point.",
+            "Lysanias, tetrarch of Abilene, the district about the town of Abila, which was eighteen miles north of Damascus."
+        ],
+        "Archibald T. Robertson": [
+            "John revived the function of the prophet and it was a momentous event after centuries of prophetic silence.",
+            "Luke begins with the Roman Emperor, then mentions Pontius Pilate Procurator of Judea, Herod Antipas Tetrarch of Galilee (and Perea), Philip, Tetrarch of Iturea and Trachonitis, Lysanias, Tetrarch of Abilene and concludes with the high-priesthood of Annas and Caiaphas.",
+            "So Luke is vindicated again by the rocks."
+        ],
+        "John Gill": [
+            "this year may be truly called, 'the acceptable year of the Lord'.",
+            "the whole of his reign was upwards of twenty two years, for he died in the twenty third year of his reign.",
+            "John the Baptist began to preach and baptize; to fix the area of whose ministry and baptism, all this is said."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Luke 3:1 marks the beginning of a significant and historical moment in the New Testament as the curtain is drawn up and the Church enters a new epoch. Luke, known for his precise attention to detail, mentions various political and religious figures in establishing the context. He includes Pontius Pilate, the sixth procurator who arrived in Judaea around the year 779, Herod Antipas, Tetrarch of Galilee, Philip, Tetrarch of Iturea and Trachonitis, and Lysanias, Tetrarch of Abilene. Luke's inclusion of these official personages showcases his accuracy in presenting a detailed account of the events. Moreover, this momentous occasion is significant as it marks the revival of the prophetic function after centuries of silence.",
+            "wordCount": 112,
+            "quoteTokenProportion": 25.97,
+            "qualityScore": 1.8416830121851084,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                38.65,
+                33.21,
+                28.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Luke 3:1 opens the curtain to a new epoch in the Church, with John reviving the prophetic function after centuries of silence. Showing remarkable attention to detail, Luke mentions key political and religious figures like Pontius Pilate, Herod Antipas, Philip, and Lysanias. This precision is unparalleled in the New Testament and provides a vivid historical context. Luke's account encompasses the reigns of Roman emperors, the rule of procurators, and the high-priesthood of Annas and Caiaphas. His meticulousness and emphasis on these influential figures reinforce the significance of this pivotal moment.",
+            "wordCount": 91,
+            "quoteTokenProportion": 19.4,
+            "qualityScore": 1.846610524784773,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                38.36,
+                33.0,
+                28.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Luke 3:1 marks the commencement of a new era in the Church, as the New Testament curtain rises. Luke's unparalleled attention to detail is evident in his mention of significant political and religious figures such as Pontius Pilate, Herod Antipas, and Philip. This meticulousness establishes a precise historical context that sets the stage for the revival of the prophetic function after centuries of silence. Luke's comprehensive framework, ranging from the Roman emperor to the high-priesthood, underscores the gravitas of this transformative moment in the Church's history.",
+            "wordCount": 89,
+            "quoteTokenProportion": 23.81,
+            "qualityScore": 1.8839520394770188,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                36.46,
+                32.62,
+                30.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Luke 3:1 unveils a significant turning point for the Church as the New Testament era begins. Luke's meticulousness is evident in his precise mention of political and religious figures, such as Pontius Pilate, Herod Antipas, and Philip. This attention to detail not only establishes the historical context but also highlights the revival of the prophetic function after centuries of silence. Luke's emphasis on these prominent individuals and their roles ensures that this pivotal moment is understood as a momentous event in the Church's history.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.8278605720399284,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+            "commentatorTierSimilarities": [
+                39.69,
+                29.69,
+                30.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Luke 3:1 marks the beginning of a new epoch in the Church, as the curtain is drawn up and the prophetic function is revived after a long period of silence. Luke carefully presents a detailed historical context by mentioning influential figures such as Pontius Pilate, Herod Antipas, and Philip. This precision in capturing political and religious personalities showcases Luke's meticulousness. It is a significant moment in the New Testament, with no other passage providing such elaborate chronological precision.",
+            "wordCount": 78,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.8993307124470533,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.49,
+            "commentatorTierSimilarities": [
+                39.81,
+                31.15,
+                29.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

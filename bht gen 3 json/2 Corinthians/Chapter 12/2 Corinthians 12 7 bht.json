@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:18:44",
+    "verseRef": "2 Corinthians 12:7",
+    "bestBHT": {
+        "bht": "This thorn in the flesh, a personal affliction causing acute pain and shame, served as a humbling reminder for the apostle to restrain the dangerous tendency toward self-exaltation. It was given to him by God to prevent him from being exalted overmuch, serving as a galling and humiliating experience. This affliction, described as a messenger of Satan buffeting him, was meant to spur him on in his spiritual journey and protect him from spiritual pride.",
+        "wordCount": 76,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.0097076080692755,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+        "commentatorTierSimilarities": [
+            28.8,
+            37.0,
+            34.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "How dangerous must self-exaltation be, when even the apostle required so much restraint!",
+            "Thorn in the flesh: something personal, affecting him individually, causing acute pain and shame.",
+            "The chastisement from hell follows soon upon the revelation from heaven."
+        ],
+        "Albert Barnes": [
+            "There is no danger that more constantly besets Christians, and even eminent Christians, than pride.",
+            "He who has been characterized by pride before his conversion will be in special danger of it afterward; he who has eminent gifts in prayer, or in conversation, or in preaching, will be in special danger of it; and he who is eminently successful will be in danger of it; and he who has any extraordinary spiritual comforts will be in danger of it.",
+            "All that can be known of this is, that it was some infirmity of the flesh, some bodily affliction or calamity, that was like the continual piercing of the flesh with a thorn."
+        ],
+        "Marvin Vincent": [
+            "The rendering thorn for skoloy has no support. The figure is that of the impaling stake.",
+            "The explanations of the peculiar nature of this affliction are numerous. Opinions are divided, generally, between mental or spiritual and bodily trials.",
+            "Messenger is figurative, in the sense of agent. Satan is conceived in the New Testament as the originator of bodily evil."
+        ],
+        "John Calvin": [
+            "There was given to me a goad that my flesh might be spurred up by it, for I am not yet so spiritual, as not to be exposed to temptations according to the flesh.",
+            "Hence, at every apprehension of temptation, it becomes us to arouse ourselves, and arm ourselves with promptitude for repelling Satan\u2019s assaults.",
+            "Let us carefully consider, who it is that here speaks \u2014 He had overcome so many dangers, tortures, and other evils \u2014 had triumphed over all the enemies of Christ \u2014 had driven away the fear of death \u2014 had, in fine, renounced the world; and yet he had not altogether subdued pride."
+        ],
+        "Philip Schaff": [
+            "By reason of the exceeding greatness of the revelation...there was given unto me a thorn in the flesh, a messenger of Satan to buffet me, that I should not be exalted over-much.",
+            "What this 'thorn in the flesh' was has exercised expositors sorely, and every solution must be conjectural.",
+            "The one thing about it which is certain is its galling, humiliating effect, to express which he calls it 'a messenger of Satan to buffet him.'"
+        ],
+        "Archibald T. Robertson": [
+            "By reason of the exceeding greatness (\u03c4\u03b7 \u03c5\u03c0\u03b5\u03c1\u03b2\u03bf\u03bb\u03b7). Instrumental case, 'by the excess.'\" ",
+            "A thorn in the flesh (\u03c3\u03ba\u03bf\u03bb\u03bf\u03c0\u03c2 \u03c4\u03b7 \u03c3\u03b1\u03c1\u03ba). This old word is used for splinter, stake, thorn.",
+            "The messenger of Satan kept slapping Paul in the face and Paul now sees that it was God's will for it to be so."
+        ],
+        "John Gill": [
+            "Pride is naturally in every man's heart; converted persons are not without it; knowledge, gifts, and revelations are apt to puff up with spiritual pride, unless counterbalanced and over poised by the grace of God.",
+            "This sore exercise befell the apostle for his good, to keep down the pride of his nature.",
+            "The Lord, in his infinite wisdom, deal with his people... for such ends and purposes does the Lord, in his infinite wisdom, deal with his people."
+        ],
+        "John Wesley": [
+            "A thorn in the flesh \u2014 A visitation more painful than any thorn sticking in the flesh.",
+            "A messenger or angel of Satan to buffet me - Perhaps both visibly and invisibly.",
+            "He speaks of one, as above all the rest, one that macerated him with weakness, and by the pain and ignominy of it prevented his being lifted up mere."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This thorn in the flesh is a personal affliction that caused acute pain and shame. It was like a continual piercing of the flesh, serving as a humbling reminder for the apostle to restrain the dangerous tendency toward self-exaltation. Though there are various opinions about the nature of this affliction, its purpose was clear - to keep the apostle from being exalted overmuch. It served as a galling, humiliating experience, described as a messenger of Satan buffeting him. This affliction, given to him by God, was meant to spur him on in his spiritual journey and protect him from spiritual pride.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9565179980615477,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.4,
+            "commentatorTierSimilarities": [
+                30.09,
+                37.76,
+                32.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This thorn in the flesh, a personal affliction causing acute pain and shame, served as a humbling reminder for the apostle to restrain the dangerous tendency toward self-exaltation. It was given to him by God to prevent him from being exalted overmuch, serving as a galling and humiliating experience. This affliction, described as a messenger of Satan buffeting him, was meant to spur him on in his spiritual journey and protect him from spiritual pride.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0097076080692755,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "commentatorTierSimilarities": [
+                28.8,
+                37.0,
+                34.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This thorn in the flesh, a personal affliction causing acute pain and shame, served as a humbling reminder for the apostle to restrain the dangerous tendency toward self-exaltation. It was given to him by God to prevent him from being exalted overmuch, serving as a galling and humiliating experience. This affliction, described as a messenger of Satan buffeting him, was meant to spur him on in his spiritual journey and protect him from spiritual pride.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0097076080692755,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "commentatorTierSimilarities": [
+                28.8,
+                37.0,
+                34.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle encountered a thorn in the flesh - a personal, painful affliction that humbled him and restrained his tendency toward self-exaltation. This affliction, described as a messenger of Satan buffeting him, served as a reminder not to be lifted up too much. It was both a galling and humiliating experience. Although there are varied opinions on its specific nature, its purpose was clear - to keep him from spiritual pride and to spur him forward in his spiritual journey.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.778299429120414,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                28.72,
+                37.1,
+                34.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This thorn in the flesh, a personal affliction causing acute pain and shame, served as a humbling reminder for the apostle to restrain the dangerous tendency toward self-exaltation. It was given to him by God to prevent him from being exalted overmuch, serving as a galling and humiliating experience. This affliction, described as a messenger of Satan buffeting him, was meant to spur him on in his spiritual journey and protect him from spiritual pride.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0097076080692755,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "commentatorTierSimilarities": [
+                28.8,
+                37.0,
+                34.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

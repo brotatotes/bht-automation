@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:36:54",
+    "verseRef": "Acts 26:23",
+    "bestBHT": {
+        "bht": "The belief in a suffering Messiah was a point of contention among the Jews, who preferred to envision a triumphant Messiah. Paul highlights that Christ, as the Messiah, was vulnerable to suffering, aligning with the testimony of the prophets and Moses. By proclaiming that Christ was the first to rise from the dead and illuminate both Jews and Gentiles, Paul introduces the profound impact of the resurrection. This revelation challenged traditional expectations and elicited strong reactions, similar to a previous incident.",
+        "wordCount": 81,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 2.326809516436517,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.71,
+        "commentatorTierSimilarities": [
+            33.75,
+            34.97,
+            31.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first thing which was thus patent was not, as Beza, and A.V., 'that Christ should suffer:' but that Christ was liable to suffering.",
+            "St. Paul does not refer to the prophetic announcement, or the historical reality, of the fact of Christ\u2019s suffering, but to the idea of the Messiah, as passible and suffering, being in accordance with the testimony of the prophets.",
+            "That the fact of His having suffered on the cross was in the Apostle\u2019s mind, can hardly be doubted: but that the words do not assert it, is evident from the change of construction in the next clause, where the fact of the bringing life and immortality to light by the resurrection is spoken of."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The construction of this sentence implies that in regard to the question 'whether the Messiah is a suffering one, and whether, rising first from the dead, he should show light to the (Jewish) people and to the Gentiles,' he had only said what the prophets and Moses said should come.",
+            "Whether the Messiah is a suffering one, and whether, rising first from the dead, he should show light to the (Jewish) people and to the Gentiles.",
+            "He had only said what the prophets and Moses said should come."
+        ],
+        "Albert Barnes": [
+            "That the Messiah expected by the Jews should be a suffering Messiah.",
+            "That it was taught in the prophets that the Messiah Would rise from the dead.",
+            "He would be the first that should rise...first in eminence; the most distinguished, the chief, the head of those who should rise from the dead."
+        ],
+        "Marvin Vincent": [
+            "He expresses himself in a problematic form, because it was the point of debate among the Jews whether a suffering Messiah was to be believed in.",
+            "They believed in a triumphant Messiah, and the doctrine of his sufferings was an obstacle to their receiving him as Messiah.",
+            "Note the article, 'the Christ,' and see on Matthew 1:1."
+        ],
+        "Philip Schaff": [
+            "Protected by a Divine and invisible Guardian, I have gone about, bearing my message to the powerful and humble alike, using as my storehouse of argument only the books of Moses and the prophets, urging that Messiah, as one of the very conditions of His office, would be capable of suffering ay more, that (after enduring the greatest sufferings of which mortals are capable) He should be the first in the domain of the resurrection, the first-born from the dead; and then should not only show light unto the people, but should be a Light to lighten the Gentiles.",
+            "The Messiah, when He came, should be the Herald of life and light not only to the Jew, but to the despised Gentile.",
+            "We must remember how reluctant the very disciples of Jesus were to entertain any other thoughts concerning their beloved Master than those coloured with the rich hues of glory and triumph."
+        ],
+        "Archibald T. Robertson": [
+            "It is not then 'must suffer' here, but 'can suffer.' The Cross of Christ was a stumbling-block to the rabbis.",
+            "Christ is the first (\u03c0\u03c1\u03c9\u03c4\u03bf\u03c2) who arose from the dead and no longer dies and proclaims light.",
+            "It was at the word Gentiles that the mob lost control of themselves in the speech from the stairs. So it is here, only not because of that word, but because of the word 'resurrection'."
+        ],
+        "John Gill": [
+            "The sufferer is Christ, or the Messiah, not the Father, nor the Spirit, but the Word, or Son of God, and not in his divine nature, which was incapable of suffering, but in his human nature...",
+            "And to this agreed the doctrine of the apostle, who taught that Jesus of Nazareth was the Christ that was to come, and that he had suffered all that Moses and the prophets did say should come upon him...",
+            "And that he should be the first that should rise from the dead: by his own power, and to an immortal life, as Jesus did; and so is the firstborn from the dead, and the first fruits of them that slept."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in Acts 26:23 highlights the understanding that Christ, as the Messiah, was vulnerable to suffering. Paul focuses on the concept of the suffering Messiah, in line with the testimony of the prophets and Moses. The idea of a suffering Messiah was a point of contention among the Jews who believed in a triumphant Messiah. By proclaiming that Christ was the first to rise from the dead and shine light upon both Jews and Gentiles, Paul introduces the transformative power of the resurrection. This revelation challenged the Jewish expectation of a solely triumphant Messiah and ignited strong reactions, similar to the mob's response in a previous incident.",
+            "wordCount": 108,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 2.577515498515971,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.04,
+            "commentatorTierSimilarities": [
+                33.99,
+                34.77,
+                31.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The proclamation in Acts highlights the understanding that Christ, as the Messiah, was capable of suffering, contrary to the belief of a triumphant Messiah held by many Jews. Paul emphasizes that the suffering Messiah was in line with the testimony of Moses and the prophets, challenging the prevailing belief. By referring to Christ as the first to rise from the dead and shed light on Jews and Gentiles alike, Paul introduces the transformative power of the resurrection, which invoked strong reactions similar to a previous incident.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.6667555698221097,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.01,
+            "commentatorTierSimilarities": [
+                33.51,
+                33.56,
+                32.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The belief in a suffering Messiah was a point of contention among the Jews, who preferred to envision a triumphant Messiah. Paul highlights that Christ, as the Messiah, was vulnerable to suffering, aligning with the testimony of the prophets and Moses. By proclaiming that Christ was the first to rise from the dead and illuminate both Jews and Gentiles, Paul introduces the profound impact of the resurrection. This revelation challenged traditional expectations and elicited strong reactions, similar to a previous incident.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.326809516436517,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.71,
+            "commentatorTierSimilarities": [
+                33.75,
+                34.97,
+                31.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The concept of a suffering Messiah posed a challenge to the Jewish belief in a victorious Messiah. Paul brings attention to the idea that Christ, as the Messiah, was subject to suffering, aligning with the testimony of the prophets and Moses. By emphasizing that Christ was the first to rise from the dead and bring illumination to both Jews and Gentiles, Paul introduces the transformative power of the resurrection. This revelation disrupted conventional expectations and stirred strong reactions, reminiscent of a previous incident.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 2.260629229148742,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.51,
+            "commentatorTierSimilarities": [
+                34.36,
+                34.34,
+                31.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's proclamation challenges the prevailing belief in a triumphant Messiah by emphasizing Christ's vulnerability to suffering, in accordance with the testimony of the prophets and Moses. He presents Christ as the first to rise from the dead, shedding light on Jews and Gentiles alike. This revelation disrupts traditional expectations and evokes strong reactions, akin to a previous incident. The concept of a suffering Messiah confronts the Jews' inclination towards a triumphant figure, engaging in debate about the crucial role of Christ's resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 2.1858264577684237,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.02,
+            "commentatorTierSimilarities": [
+                35.11,
+                33.58,
+                31.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

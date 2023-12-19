@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:32:18",
+    "verseRef": "Acts 16:23",
+    "bestBHT": {
+        "bht": "The converted jailer washed the bleeding wounds of the prisoners, inflicted in the pestilential cells where chains rusted. The Jewish law allowed for 40 stripes minus one, while the Roman custom was even more brutal. Despite immense suffering, Paul and his companions praised God in prayer. They endured numerous stripes with fortitude and patience. The jailer was charged to keep them safely, fearing their supposed magical powers. However, their behavior disproved the accusations, as they were faithful witnesses of Christ and not criminals.",
+        "wordCount": 82,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5356499173337186,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.4,
+        "commentatorTierSimilarities": [
+            25.22,
+            38.95,
+            35.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The bleeding wounds from which they were not washed till it was done by the converted jailer.",
+            "Pestilential cells, damp and cold, from which the light was excluded, and where the chains rusted on the prisoners.",
+            "One such place may be seen to this day on the slope of the Capitol at Rome."
+        ],
+        "Albert Barnes": [
+            "The Jews were by law prohibited from inflicting more than 40 stripes, and usually inflicted but 39.",
+            "There was no such law among the Romans. They were unrestricted in regard to the number of lashes, and probably inflicted many more.",
+            "They cast them into prison - The magistrates did this partly as a punishment, and partly with a view hereafter of taking vengeance on them more according to the forms of law."
+        ],
+        "Marvin Vincent": [
+            "Prison. See on ch. verse 21."
+        ],
+        "John Calvin": [
+            "But as it is very profitable for us, for example\u2019s sake, to know how uncourteously and uncomely the witnesses of Christ were entertained in times past; so it is no less profitable to know that which Luke addeth immediately concerning their fortitude and patience.",
+            "For even when they lay bound with fetters, he saith that in prayer they lauded God, whereby it appeareth that neither the reproach with they suffered, nor the stripes which made their flesh smarter, nor the stink of the deep dungeon, nor the danger of death, which was hard at hand, could hinder them from giving thanks to the Lord joyfully and with glad hearts.",
+            "Such a form doth Paul prescribe to us. Let your prayers (saith he) be made known to God with thanksgiving."
+        ],
+        "Philip Schaff": [
+            "In his sad catalogue of the sufferings he had endured for his Master\u2019s dear sake (2 Corinthians 11:25), Paul relates how \u2018thrice he was beaten with rods.\u2019 This Philippi experience was one of the occasions.",
+            "He endured here, we are told, many stripes, there being in the stern Roman practice no such merciful restriction as that existing in the law of Moses.",
+            "Hurried and excited by the popular tumult, the arrest, punishment, and subsequent rigorous imprisonment was ordered and carried out with such haste and passion."
+        ],
+        "Archibald T. Robertson": [
+            "The Jewish law was forty stripes save one.",
+            "The Roman custom depended on the caprice of the judge and was a terrible ordeal.",
+            "He had some rank and was not a mere turnkey."
+        ],
+        "John Gill": [
+            "And when they had laid many stripes upon them....\" ",
+            "Charging the jailer to keep them safely; suggesting, that he must be answerable for them, should they escape...",
+            "They might look upon them to be a sort of magicians, and therefore were to be narrowly watched, that they did not make use of their art to deliver themselves..."
+        ],
+        "John Wesley": [
+            "They laid many stripes upon them \u2014 Either they did not immediately say they were Romans, or in the tumult it was not regarded.",
+            "Charging the jailer \u2014 Perhaps rather to quiet the people than because they thought them criminal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The converted jailer washed the bleeding wounds of the prisoners, wounds that were inflicted in the pestilential and dank cells where chains rusted. A similar kind of place can still be seen on Capitol Hill in Rome. The Jewish law allowed for forty stripes minus one, but the Roman custom, depending on the whims of the judge, was even more brutal. Yet despite their suffering, Paul and his companions praised God in prayer. They endured numerous stripes, facing the reproach and dangers with fortitude and patience. The jailer was charged to keep them safely, as the magistrates feared that they might use their supposed magical powers to escape. However, their behavior did not match the accusations against them, as they were not criminals but faithful witnesses of Christ.",
+            "wordCount": 128,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5135800255480913,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.67,
+            "commentatorTierSimilarities": [
+                28.12,
+                36.73,
+                35.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The converted jailer washed the bleeding wounds of the prisoners, wounds that were inflicted in the pestilential and damp cells. The Jewish law allowed for 40 stripes minus one, but the Roman custom was even more brutal. Despite their suffering, Paul and his companions praised God in prayer. They endured numerous stripes with fortitude and patience. The jailer was charged to keep them safely, fearing their supposed magical powers. But their behavior did not match the accusations against them, as they were faithful witnesses of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.5065388515360163,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.44,
+            "commentatorTierSimilarities": [
+                24.56,
+                38.13,
+                37.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The converted jailer attended to the bleeding wounds of the prisoners, suffered from the cruel stripes inflicted in the pestilential, damp, and light-deprived cells. The Jewish law allowed for 40 stripes minus one, while the Roman custom was even more severe. Despite their immense suffering, Paul and his companions found solace in prayer, unyielding in their devotion to God. The jailer was entrusted with their safekeeping, apprehensive of their supposed magical abilities. Nonetheless, their conduct disproved the accusations, for they were faithful witnesses of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.534458497919179,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "commentatorTierSimilarities": [
+                24.27,
+                40.11,
+                35.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul and his companions endured the painful stripes given in the pestilential and dark prison cells. The Jewish law allowed for 40 stripes minus one, but the Romans had no such limit and inflicted many more lashes. In the midst of their suffering, Paul and his companions offered prayers of praise to God. The jailer was charged with keeping them securely, fearful that they would use their supposed magical abilities to escape. However, their exemplary behavior revealed their true innocence as faithful witnesses of Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.5264160845830785,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.1,
+            "commentatorTierSimilarities": [
+                23.55,
+                40.26,
+                36.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The converted jailer washed the bleeding wounds of the prisoners, inflicted in the pestilential cells where chains rusted. The Jewish law allowed for 40 stripes minus one, while the Roman custom was even more brutal. Despite immense suffering, Paul and his companions praised God in prayer. They endured numerous stripes with fortitude and patience. The jailer was charged to keep them safely, fearing their supposed magical powers. However, their behavior disproved the accusations, as they were faithful witnesses of Christ and not criminals.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5356499173337186,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.4,
+            "commentatorTierSimilarities": [
+                25.22,
+                38.95,
+                35.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

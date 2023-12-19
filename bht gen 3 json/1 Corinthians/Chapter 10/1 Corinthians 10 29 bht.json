@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:11:47",
+    "verseRef": "1 Corinthians 10:29",
+    "bestBHT": {
+        "bht": "Why should my exercise of Christian freedom, such as eating and giving thanks, be a matter of condemnation to someone else? What warrants the censure of my liberty based on another's conscience? Love is the foundation for restricting personal freedom for the sake of the weaker brother, promoting the glory of God. Instead of causing offense, we should bear with the weak conscience of others. Our own conscience, not another's, should determine the extent of our liberty.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 2.0698034116718125,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+        "commentatorTierSimilarities": [
+            32.86,
+            31.04,
+            36.1
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Why should I be so treated (hazard by my actions such treatment) that the exercise of my Christian freedom, eating as I do and giving thanks, should become matter of condemnation to another, who conscientiously disapproves of it?",
+            "If I partake thankfully (not, as A.V., \u201cby grace\u201d) why am I to be evil spoken of for that for which I give thanks?",
+            "The ground on which he is here arguing, is the unfitness, absurdity, injustice to oneself and the cause of God, ver. 31, of so acting as to be condemned for that in which a man not only allows himself, but for which he gives thanks to God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why should I give occasion by the rash use of my liberty that another should condemn it?",
+            "Or, the words are those of the Corinthian objector, 'Why is my liberty judged by another's conscience?'",
+            "Your doing so ought always to be limited by regard to what most tends 'to the glory of God'."
+        ],
+        "Albert Barnes": [
+            "I put it on the ground of not wounding the feelings of those who are scrupulous, or of leading them into sin.",
+            "But if I do, when it is pointed out to me as having been sacrificed to idols, my liberty - the right which I exercise - will be 'misconstrued, misjudged, condemned' by others.",
+            "Under these circumstances, why should I act so as to expose myself to this censure and condemnation? It is better for me to abstain, and not to use this liberty in the case, but to deny myself for the sake of others."
+        ],
+        "John Calvin": [
+            "Thou oughtest to bear with the weak conscience of thy brother, that thou mayest not abuse thy right, so as to give occasion of offense to him; but in the meantime thy conscience remains, nevertheless, free, because it is exempted from that subjection.\" ",
+            "Is it not reasonable, too, that we should for the same reason accommodate ourselves to weak brethren\u2014that is, because we are to this extent subject to them in the sight of God?",
+            "Paul warns us of the danger that must ensue, if we make use of our liberty unreservedly, so as to give occasion of offense to our neighbors\u2014that they will condemn it. Thus, through our fault, and our unreasonableness, the consequence will be, that this special benefit from God will be condemned."
+        ],
+        "Archibald T. Robertson": [
+            "For why is my liberty judged by another conscience?\" - Paul questions the evaluation of his freedom based on someone else's conscience.",
+            "It is an abridgment of one's personal liberty in the interest of the weak brother.\" - Paul emphasizes how personal freedom is restricted for the sake of the weaker brother.",
+            "The only reason is love which builds up.\" - Paul states that love is the sole foundation for sacrificing personal freedom to promote growth and edification."
+        ],
+        "John Gill": [
+            "It is for the sake of their consciences such food must not be eaten, lest either the one should be grieved, or the other reproach.",
+            "Why is my liberty judged of another man's conscience?",
+            "It was best to abstain from eating, rather than expose his liberty to such a censure and condemnation."
+        ],
+        "John Wesley": [
+            "Conscience I say, not thy own \u2014 I speak of his conscience, not thine.",
+            "For why is my liberty judged by another's conscience \u2014 Another's conscience is not the standard of mine.",
+            "Nor is another's persuasion the measure of my liberty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Why should I allow my Christian freedom, such as eating and giving thanks, to be a cause of condemnation for another who disapproves of it? If I partake with thankfulness, why am I criticized for something I am grateful for? Paul questions the evaluation of his freedom based on someone else's conscience. Love is the sole foundation for sacrificing personal freedom to promote growth and edification. It is better to deny oneself for the sake of others and abstain from certain actions to avoid censure and condemnation. Ultimately, the standard for our liberty is not another's conscience, but our own.",
+            "wordCount": 102,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.0134044862129534,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.29,
+            "commentatorTierSimilarities": [
+                35.13,
+                33.53,
+                31.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Why should I let my Christian freedom, like eating and giving thanks, become a cause for condemnation to someone else who disapproves of it? If I eat with gratitude, why should I be criticized? Paul challenges the judgment of his liberty based on another's conscience. Love is the sole basis for sacrificing personal freedom to foster growth and edification. It is better to abstain for the sake of others and avoid censure. Our liberty is not measured by another's conscience, but our own.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.9072297283902153,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+            "commentatorTierSimilarities": [
+                33.88,
+                33.03,
+                33.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Why should I be condemned for exercising my Christian freedom and giving thanks, when it is an act worthy of gratitude to God? Paul questions why his liberty is judged by another's conscience. Love is the only reason for limiting personal freedom in the interest of the weaker brother. By sacrificing personal liberty, growth and edification are fostered. It is better to deny oneself for the sake of others than to be misunderstood or condemned. Our own conscience, not another's persuasion, determines our liberty.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.0185328639099254,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.46,
+            "commentatorTierSimilarities": [
+                34.28,
+                32.11,
+                33.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why should my exercise of Christian freedom, such as eating and giving thanks, be a matter of condemnation to someone else? What warrants the censure of my liberty based on another's conscience? Love is the foundation for restricting personal freedom for the sake of the weaker brother, promoting the glory of God. Instead of causing offense, we should bear with the weak conscience of others. Our own conscience, not another's, should determine the extent of our liberty.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.0698034116718125,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+            "commentatorTierSimilarities": [
+                32.86,
+                31.04,
+                36.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Why should the exercise of my Christian freedom, such as eating and giving thanks, become a matter of condemnation to another who conscientiously disapproves of it? If I partake thankfully, why should I be evil spoken of for that in which I give thanks to God? It is in the interest of the weak brother that my personal liberty should be limited. Love should always be the motive to act in a way that promotes the glory of God. The evaluation of my liberty based on another's conscience is unwarranted.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.036165475179748,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                36.59,
+                32.67,
+                30.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:35:13",
+    "verseRef": "Ephesians 6:24",
+    "bestBHT": {
+        "bht": "May all who love our Lord Jesus Christ be blessed with the incorruptible grace. This love is not merely fleeting or earthly, but rather a spiritual and eternal one. It dwells in the realm of incorruptibility, without any mixture of corrupt affections. It unites believers as brothers and sisters in Christ, extending beyond the boundaries of external organizations. This love is produced by Christ's grace alone, and it moves us to love all of Christ and love Him above all.",
+        "wordCount": 81,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.124533239454589,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+        "commentatorTierSimilarities": [
+            34.65,
+            26.62,
+            38.73
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "May the grace be with all who love our Lord Jesus Christ in incorruptibility.",
+            "The love spoken of is in incorruptibility;\u2014in, as its sphere and element and condition, incorruptibility.",
+            "The way to explain this difficult expression will be to endeavour to find some clue to the idea in the Apostle\u2019s mind."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not a fleeting, earthly love, but a spiritual and eternal one.\" ",
+            "Where the Lord Jesus has a true believer, there I have a brother.\" ",
+            "He who is good enough for Christ, is good enough for me."
+        ],
+        "Albert Barnes": [
+            "There could not be a more appropriate close of the Epistle than such a wish; there will be nothing more needful for us when we come to the close of life than the consciousness that we love the Lord Jesus Christ in sincerity.",
+            "To writer and reader may this be equally the inestimable consolation then!",
+            "Better, far better then will be the evidence of such sincere love, than all the wealth which toil can gain, all the honors which the world can bestow - than the most splendid mansion, or the widest fame."
+        ],
+        "Marvin Vincent": [
+            "In sincerity [\u03b5\u03bd \u03b1\u03c6\u03b8\u03b1\u03c1\u03c3\u03b9\u03b1] . Rev., correctly, in incorruptness : who love Christ with an imperishable and incorruptible love. "
+        ],
+        "John Calvin": [
+            "May God continue to bestow his favor on all who love Jesus Christ with a pure conscience!",
+            "When the heart of man is free from all hypocrisy, it will be free from all corruption.",
+            "The only way of enjoying the light of the Divine countenance is to love sincerely God\u2019s own Son, in whom his love toward us has been declared and confirmed."
+        ],
+        "Philip Schaff": [
+            "Extensively, the Church is not bounded by those external limits necessarily established by ecclesiastical organizations, nor by those logical ones as necessarily defined by detailed dogmatic statement.",
+            "Intensively, however, this definition opposes the view that the Church can dwell in the region of indifferentism, ignorance, doubt, or unbelief.",
+            "Mere \u2018sincerity\u2019 is not sufficient; the love must move in a sphere, partake of a character, which is \u2018perennial, immutable, incorruptible,\u2019 and Christ\u2019s grace alone can produce such a love."
+        ],
+        "Archibald T. Robertson": [
+            "In uncorruptness (\u03b5\u03bd \u03b1\u03c6\u03b8\u03b1\u03c1\u03c3\u03b9\u03b1). A never diminishing love. See 1 Corinthians 15:42 for \u03b1\u03c6\u03b8\u03b1\u03c1\u03c3\u03b9\u03b1. "
+        ],
+        "John Gill": [
+            "Love to Christ is a grace of the Spirit, and is in all believers; and though it is imperfect, and sometimes cold, it will abide for ever.\" ",
+            "It ought to be universal and superlative; all of Christ is to be loved, and he is to be loved above all.\" ",
+            "Grace may be connected with the word translated 'sincerity', and be rendered 'grace with incorruption': or incorruptible grace, as true grace is an incorruptible seed; or 'grace with immortality'."
+        ],
+        "John Wesley": [
+            "In sincerity \u2014 Or in incorruption; without corrupting his genuine gospel, without any mixture of corrupt affections. And that with continuance, till grace issue in glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May we all be blessed with the grace of the Lord Jesus Christ in incorruptibility. This love spoken of is not a fleeting, earthly love, but a spiritual and eternal one. It is a love that moves in a sphere of imperishability, a never diminishing love. It is a love that unites believers as brothers and sisters in Christ. It is a love that transcends earthly limits and opposes indifference, doubt, or unbelief. It is a love that is produced by Christ's grace alone, a love that moves us to love all of Christ and love him above all. May our love for the Lord Jesus Christ be sincere and incorruptible, persevering until the day of glory.",
+            "wordCount": 118,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.1907448095507247,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.18,
+            "commentatorTierSimilarities": [
+                37.38,
+                27.2,
+                35.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May we all be blessed with the incorruptible grace of the Lord Jesus Christ. This love is not fleeting or earthly, but spiritual and eternal. It is a love that transcends boundaries and unites believers as brothers and sisters in Christ. It is a love that opposes indifference, doubt, and unbelief. Only Christ's grace can produce such a sincere and incorruptible love. May our love for Christ be genuine and continual, reflecting our deep devotion and unwavering commitment to Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.192016318749503,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.23,
+            "commentatorTierSimilarities": [
+                35.57,
+                27.37,
+                37.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the incorruptible grace of the Lord Jesus Christ be with all who love Him. This love is not a fleeting, earthly love, but a spiritual and eternal one. It is a love that moves in a sphere of imperishability, a never diminishing love. It unites believers as brothers and sisters in Christ, transcending boundaries and opposing indifference, doubt, and unbelief. This sincere and incorruptible love is produced by Christ's grace alone. May our love for Him be genuine, reflecting our deep devotion and unwavering commitment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.1465144620287617,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+            "commentatorTierSimilarities": [
+                37.0,
+                26.84,
+                36.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May all who love our Lord Jesus Christ be blessed with the incorruptible grace. This love is not merely fleeting or earthly, but rather a spiritual and eternal one. It dwells in the realm of incorruptibility, without any mixture of corrupt affections. It unites believers as brothers and sisters in Christ, extending beyond the boundaries of external organizations. This love is produced by Christ's grace alone, and it moves us to love all of Christ and love Him above all.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.124533239454589,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+            "commentatorTierSimilarities": [
+                34.65,
+                26.62,
+                38.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May the incorruptible grace of the Lord Jesus Christ be with all who love Him. This love is not a fleeting or earthly kind, but a spiritual and eternal one. It moves in the sphere of imperishability, a never diminishing love. It unites believers as brothers and sisters in Christ, transcending the boundaries set by external organizations. This sincere and incorruptible love is produced solely by Christ's grace. May our love for Him be genuine and unwavering, reflecting our deep devotion and commitment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.0787542319340755,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+            "commentatorTierSimilarities": [
+                37.42,
+                26.39,
+                36.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

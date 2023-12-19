@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:28:17",
+    "verseRef": "1 Timothy 1:5",
+    "bestBHT": {
+        "bht": "The aim of the commandment is love, which arises from a pure heart\u2014the central point of life. It is not the feigned faith of the hypocrite, but true faith that works through love. Love is the sum and fulfillment of the law and the Gospel, and it requires a good conscience coupled with sincere faith. The goal of the commandment, then, is to cultivate love that springs from a heart purified by faith and is always accompanied by a good conscience.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.78,
+        "qualityScore": 2.4938242940414046,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.26,
+        "commentatorTierSimilarities": [
+            32.2,
+            34.56,
+            33.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The end (purpose, aim) of the commandment is Love.",
+            "Love... arising, springing from, as its place of birth\u2014the heart being the central point of life.",
+            "It is faith, not the pretence of faith, the mere apparent faith of the hypocrite, which... 'worketh by love.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "LOVE; the sum and end of the law and of the Gospel alike, and that wherein the Gospel is the fulfilment of the spirit of the law in its every essential jot and tittle.",
+            "Contrast 1 Timothy 4:2; Titus 1:15; compare Acts 23:1. John uses 'heart,' where Paul would use 'conscience.' In Paul the understanding is the seat of conscience; the heart is the seat of love.",
+            "A good conscience is joined with sound faith; a bad conscience with unsoundness in the faith."
+        ],
+        "Albert Barnes": [
+            "The love which is genuine must proceed from a holy heart. The commandment was not designed to secure merely the outward expressions of love, but that which had its seat in the heart.",
+            "Of course there can be no genuine love to God where the dictates of conscience are constantly violated, or where a man knows that he is continually doing wrong.",
+            "All true love to God, such as this law would produce, must be based on confidence in him. Faith, then, is as necessary under the law as it is under the gospel."
+        ],
+        "Marvin Vincent": [
+            "Therefore, of the charge. Telos end, aim, that which the charge contemplates.",
+            "Love to men is meant, as meant as N. T. When the word is used absolutely.",
+            "Notice the triad, love, conscience, faith."
+        ],
+        "John Calvin": [
+            "The defense set up by them was not unlike that which is pleaded by those who, in the present day, subject the word of God to torture.",
+            "If the law must be directed to this object, that we may be instructed in love, which proceeds from faith and a good conscience, it follows, on the other hand, that they who turn the teaching of it into curious questions are wicked expounders of the law.",
+            "From this passage we also learn that there is no true love where there is not fear of God and uprightness of conscience."
+        ],
+        "Philip Schaff": [
+            "The sum and substance to which all that 'charge' converged was not 'questioning' but love.",
+            "We have here, as it were, the genesis of love, the three elements out of which it springs.",
+            "The faith, which is not the hypocritical assent to a dogma, the unreal profession of a religion, but true trust in God as loving all men, and which therefore leads us in our turn to love all because He loves them."
+        ],
+        "Archibald T. Robertson": [
+            "The end (\u03c4\u03bf \u03c4\u03b5\u03bb\u03bf\u03c2). See Romans 6:21; Romans 10:4 for \u03c4\u03b5\u03bb\u03bf\u03c2 (the good aimed at, reached, result, end).\" ",
+            "Love (\u03b1\u03b3\u03b1\u03c0\u03b7). Not 'questionings.' Romans 13:9. 'Three conditions for the growth of love' (Parry): 'Out of a pure heart' (\u03b5\u03ba \u03ba\u03b1\u03b8\u03b1\u03c1\u03b1\u03c2 \u03ba\u03b1\u03c1\u03b4\u03b9\u03b1\u03c2, O.T. conception), 'and a good conscience' (\u03ba\u03b1 \u03c3\u03c5\u03bd\u03b5\u03b9\u03b4\u03b7\u03c3\u03b5\u03c9\u03c2 \u03b1\u03b3\u03b1\u03b8\u03b7\u03c2, for which see Romans 2:25), 'and faith unfeigned' (\u03ba\u03b1 \u03c0\u03b9\u03c3\u03c4\u03b5\u03c9\u03c2 \u03b1\u03bd\u03c5\u03c0\u03bf\u03ba\u03c1\u03b9\u03c4\u03bf\u03c5, late compound verbal in 2 Corinthians 6:6; Romans 12:9)."
+        ],
+        "John Gill": [
+            "The end of the commandment is charity...\" ",
+            "...charity, when right, springs out of a pure heart...\" ",
+            "...charity, proceeding from such a conscience, is of the right kind..."
+        ],
+        "John Wesley": [
+            "The foundation is faith; the end, love.",
+            "But this can only subsist in a heart purified by faith.",
+            "Love is always attended with a good conscience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The purpose and aim of the commandment is love, which springs from a pure heart and is fueled by genuine faith. Love is the sum and fulfillment of both the law and the Gospel, and it is the central point of a believer's life. A good conscience is closely related to sound faith, while a bad conscience is a sign of unsound faith. Love, conscience, and faith are interconnected, and they form the triad necessary for the growth of love. As the verse says, the end goal of the commandment is love, which is characterized by a pure heart, a good conscience, and sincere faith. This love requires a foundation of faith and is always accompanied by a good conscience.",
+            "wordCount": 121,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.4274468784197154,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.05,
+            "commentatorTierSimilarities": [
+                33.21,
+                33.11,
+                33.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The aim of the commandment is love, which arises from a pure heart\u2014the central point of life. It is not the feigned faith of the hypocrite, but true faith that works through love. Love is the sum and fulfillment of the law and the Gospel, and it requires a good conscience coupled with sincere faith. The goal of the commandment, then, is to cultivate love that springs from a heart purified by faith and is always accompanied by a good conscience.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 2.4938242940414046,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.26,
+            "commentatorTierSimilarities": [
+                32.2,
+                34.56,
+                33.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The central aim of the commandment is love, which is born from a pure heart. This love is not the mere appearance or pretend love of a hypocrite; it is a love that is actively fueled by genuine faith. Love is the embodiment of both the law and the Gospel, and it is only through a good conscience and sincere faith that this love can thrive. Therefore, the goal of the commandment is to encourage the growth of love that springs from a heart purified by faith and is accompanied by a good conscience.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.452404225775198,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.88,
+            "commentatorTierSimilarities": [
+                31.5,
+                35.31,
+                33.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The very purpose of the commandment is love, which springs from a pure heart - the very core of one's existence. It is not a love feigned or hypocritical, but a love that is activated by sincere faith. Love is the culmination and essence of both the law and the Gospel, brought to fulfillment in every aspect. For the commandment to find its true fulfillment, it requires a good conscience, grounded in authentic faith. Thus, the ultimate goal of the commandment is to nurture a love that emanates from a heart cleansed by unwavering faith and is intertwined with a good conscience.",
+            "wordCount": 102,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.4056364314566485,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.33,
+            "commentatorTierSimilarities": [
+                32.15,
+                35.69,
+                32.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The end goal of the commandment is love, which springs from a pure heart, a good conscience, and unfeigned faith. This love is the sum and essence of both the law and the Gospel, surpassed only by love itself. It is not a questioning or feigned love, but a genuine love that is nurtured by faith and integrity. Thus, the commandment aims to cultivate a love that emanates from a heart purified by unwavering faith and is accompanied by a clear conscience.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.492758412124786,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.22,
+            "commentatorTierSimilarities": [
+                31.53,
+                35.87,
+                32.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

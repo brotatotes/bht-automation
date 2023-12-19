@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:23:19",
+    "verseRef": "Luke 22:69",
+    "bestBHT": {
+        "bht": "Jesus responds to the religious leaders by asserting that he is the Son of Man, revealing his divine authority and claiming equality with God. He declares that he will sit at the right hand of the power of God, signifying his purpose of passing through suffering to attain glory. This affirmation is understood by those questioning him, and its truth is confirmed through the destruction of the Jewish nation, city, and temple, demonstrating Jesus' position at the right hand of God's power.",
+        "wordCount": 83,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.7063260220259728,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.08,
+        "commentatorTierSimilarities": [
+            42.3,
+            11.83,
+            45.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "69.] On henceforth, see notes on Matthew. The words \u201csit on the right hand of power\u201d are common to all Three: only St. Luke adds \u201cof God.\u201d"
+        ],
+        "Philip Schaff": [
+            "But, as the time has come to speak, in order that through suffering I may pass to glory, I tell you of that glory and thus confess myself the Christ",
+            "From henceforth, etc.",
+            "A repetition of this declaration is not at all improbable"
+        ],
+        "Archibald T. Robertson": [
+            "Jesus really answers their demand about 'the Messiah' by asserting that he is 'the Son of man' and they so understand him.",
+            "He makes claims of equality with God also which they take up."
+        ],
+        "John Gill": [
+            "Hereafter shall the son of man... sit on the right hand of the power of God.\" ",
+            "He was truly man... thought by the Jews to be a mere man.",
+            "His sitting on the right hand of the power of God was manifest by the destruction of their nation, city, and temple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus responds to the demand of the religious leaders by asserting that he is the Son of Man, and they understand that he is claiming equality with God. In doing so, Jesus reveals that he will sit at the right hand of the power of God. This declaration signifies his divine authority and foreshadows the fulfillment of his purpose through suffering to attain glory. Ultimately, Jesus' claim of equality with God is confirmed by the events that unfold, including the destruction of the Jewish nation, city, and temple, which serves as a manifestation of his position at the right hand of God's power.",
+            "wordCount": 104,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6961953808758583,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.74,
+            "commentatorTierSimilarities": [
+                44.08,
+                12.58,
+                43.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus responds to the religious leaders by asserting that he is the Son of Man, revealing his divine authority and claiming equality with God. He declares that he will sit at the right hand of the power of God, signifying his purpose of passing through suffering to attain glory. This affirmation is understood by those questioning him, and its truth is confirmed through the destruction of the Jewish nation, city, and temple, demonstrating Jesus' position at the right hand of God's power.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.7063260220259728,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.08,
+            "commentatorTierSimilarities": [
+                42.3,
+                11.83,
+                45.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus asserts his identity as the Son of Man in response to the religious leaders, affirming his equality with God and his divine authority. He declares that he will sit at the right hand of the power of God, symbolizing his purpose of enduring suffering to attain glory. Those questioning him understand the significance of his statement. The destruction of the Jewish nation, city, and temple further attests to Jesus' position at the right hand of God's power, confirming his claims of equality with God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.487255966015002,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.79,
+            "commentatorTierSimilarities": [
+                43.71,
+                10.49,
+                45.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in response to the religious leaders, asserts his identity as the Son of Man and claims equality with God. He declares his future position at the right hand of the power of God, signifying his divine authority. This statement is understood by those who question him, and the subsequent destruction of the Jewish nation, city, and temple serves as evidence of Jesus' authority and the fulfillment of his claim to sit at the right hand of God's power.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.646983517236748,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+            "commentatorTierSimilarities": [
+                41.53,
+                9.16,
+                49.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus responds to the religious leaders by declaring himself as the Son of Man, asserting his equality with God. He reveals his future position at the right hand of the power of God, demonstrating his divine authority. The religious leaders understand the significance of his statement, which is confirmed by the destruction of the Jewish nation, city, and temple, serving as evidence of Jesus' authority and the fulfillment of his claim to sit at the right hand of God's power.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 1.605829984752655,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+            "commentatorTierSimilarities": [
+                42.8,
+                8.09,
+                49.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

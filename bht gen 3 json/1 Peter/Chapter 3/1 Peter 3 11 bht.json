@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:39:31",
+    "verseRef": "1 Peter 3:11",
+    "bestBHT": {
+        "bht": "Let him turn away from evil and actively do good; let him search for peace as something hidden and pursue it as something elusive. It is not enough to shun evil when it presents itself; we must also actively avoid its influence in our lives. Seek peace in every aspect of life, even when it seems to flee from us. Embrace blamelessness and kindness in both our words and deeds, and let our pursuit of peace be an unwavering determination.",
+        "wordCount": 80,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0290472578527914,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+        "commentatorTierSimilarities": [
+            29.38,
+            29.03,
+            41.59
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "let him turn away from (in act, that is) evil, and do good",
+            "let him seek peace, and pursue it",
+            "let him search for peace as a thing hidden, and pursue it as a thing fugitive"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Moreover (besides his words, in acts), let him.",
+            "Eschew\u2014'turn from.'",
+            "Ensu\u2014pursue as a thing hard to attain, and that flees from one in this troublesome world."
+        ],
+        "Albert Barnes": [
+            "Let him avoid all evil.",
+            "And do good - In any and every way; by endeavoring to promote the happiness of all.",
+            "Let him seek peace, and ensue it - Follow it; that is, practice it."
+        ],
+        "Marvin Vincent": [
+            "Eschew [\u03b5\u03ba\u03ba\u03bb\u03b9\u03bd\u03b1\u03c4\u03c9]. The old word eschew is from the Norman eschever, to shun or avoid.\" ",
+            "The Greek word here occurs only twice elsewhere (Romans 3:12; Romans 16:17), where Rev. renders turn aside and turn away.\" ",
+            "It is compounded of ejk, out of, and klinw, to cause to bend or slope; so that the picture in the word is of one bending aside from his course at the approach of evil."
+        ],
+        "John Calvin": [
+            "It is not enough to embrace peace when offered to us, but it ought to be followed when it seems to flee from us.",
+            "When we seek peace as much as we can, others may not grant it to us.",
+            "On account of these difficulties and hindrances, he bids us to seek and pursue peace."
+        ],
+        "Philip Schaff": [
+            "The \u2018eschew\u2019 of the A. V. (comp. Shakespeare\u2019s \u2018What cannot be eschewed, must be embraced,\u2019 Mer. Wives, v. 5, 251), connected with the old French eschever, German scheuen, English shy, means to shun, and sufficiently ex-presses the idea, which is that of turning away from something which comes in one\u2019s way.\" ",
+            "This blamelessness and kindliness of life, at once in word and in deed, should take the still more definite form of a determination to secure peace.",
+            "The old English \u2018ensue,\u2019 which the A. V. adopts only in this one instance (comp. Shakespeare\u2019s \u2018I know repentant tears ensue the deed,\u2019 Lucrece, 502), comes from the French ensuivre, and has now almost lost this transitive force."
+        ],
+        "Archibald T. Robertson": [
+            "Let him turn away (\u03b5\u03ba\u03ba\u03bb\u03b9\u03bd\u03b1\u03c4\u03c9).",
+            "So as to \u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03c4\u03c9 (let him do) for \u03c0\u03bf\u03b9\u03b7\u03c3\u03bf\u03bd (do thou), \u03b6\u03b7\u03c4\u03b7\u03c3\u03b1\u03c4\u03c9 (let him seek) for \u03b6\u03b7\u03c4\u03b7\u03c3\u03bf\u03bd (do thou seek), \u03b4\u03b9\u03c9\u03be\u03b1\u03c4\u03c9 (let him pursue) for \u03b4\u03b9\u03c9\u03be\u03bf\u03bd (do thou pursue).",
+            "See Hebrews 12:14 for 'pursuing peace.' If men only did!"
+        ],
+        "John Gill": [
+            "Avoid all kinds of evil, hate it, abstain from the appearance of it, and have no fellowship with it...",
+            "Do good to all men, acts of kindness and beneficence, even to enemies, and especially to them that are of the household of faith.",
+            "Let him seek after peace, in the world, and with all men, as much as possible, yea, with his very enemies..."
+        ],
+        "John Wesley": [
+            "Let him seek \u2014 To live peaceably with all men.",
+            "And pursue it \u2014 Even when it seems to flee from him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let him turn away from evil and actively do good; let him search for peace as something hidden and pursue it as something elusive. It is not enough to shun evil when it presents itself; we must also actively avoid its influence in our lives. Seek peace in every aspect of life, even when it seems to flee from us. Embrace blamelessness and kindness in both our words and deeds, and let our pursuit of peace be an unwavering determination.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0290472578527914,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+            "commentatorTierSimilarities": [
+                29.38,
+                29.03,
+                41.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let him turn away from evil and do good, seeking and pursuing peace with determination and diligence. Eschewing evil means shunning and avoiding it, like bending aside from one's course to avoid its approach. This pursuit of peace is not just about embracing it when offered, but about following it even when it seems to flee from us. Despite the difficulties and hindrances, we are called to seek and pursue peace in the world, with all men, and even with our enemies. So let us avoid all kinds of evil, do good to all men, and fervently seek after and pursue peace.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.0973362032443186,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.08,
+            "commentatorTierSimilarities": [
+                29.75,
+                27.52,
+                42.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let him turn away from evil and do good, seeking and pursuing peace as a thing fugitive, for peace often seems to flee from us in this troublesome world. Eschew evil by shunning and avoiding it, bending aside from one's course at the approach of evil. This pursuit of peace is not just about embracing it when offered, but about following it even when it seems to elude us. Despite the difficulties, seek and pursue peace with all men, even our enemies.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.039843818372966,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+            "commentatorTierSimilarities": [
+                30.93,
+                24.92,
+                44.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let him turn away from evil and do good, seeking and pursuing peace as a thing hard to attain. Eschew evil by shunning and avoiding it, bending aside from one's course at the approach of evil. This pursuit of peace is not just about embracing it when offered, but about following it even when it seems to flee from us. Despite the difficulties, seek and pursue peace with all men, even our enemies, for that is how we truly live a blameless and kind life.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.084497445223309,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.65,
+            "commentatorTierSimilarities": [
+                30.55,
+                26.41,
+                43.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let him turn away from evil and do good, seeking and pursuing peace as a thing hard to attain. Eschew evil by shunning and avoiding it, bending aside from one's course at the approach of evil. This pursuit of peace is not just about embracing it when offered, but about following it even when it seems to flee from us. Despite the difficulties, seek and pursue peace with all men, even our enemies, for that is how we truly live a blameless and kind life.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.084497445223309,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.65,
+            "commentatorTierSimilarities": [
+                30.55,
+                26.41,
+                43.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

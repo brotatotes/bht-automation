@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:30:11",
+    "verseRef": "Acts 12:1",
+    "bestBHT": {
+        "bht": "During the time of King Herod Agrippa I, there was a visit from Barnabas and Saul, likely occurring around the time of Agrippa's death. Agrippa, the grandson of Herod the Great, ruled over his father's dominions for three years until his death in A.D. 44. This marked the first instance of political power being used against the disciples since Pilate, resulting in the most significant danger the Church of Christ had faced thus far. However, the persecution was not as severe as it could have been, as the Lord restrained their enemies from inflicting greater harm.",
+        "wordCount": 98,
+        "quoteTokenProportion": 45.83,
+        "qualityScore": 2.065255484543466,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+        "commentatorTierSimilarities": [
+            34.78,
+            34.81,
+            30.41
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The visit of Barnabas and Saul must have taken place about the time of, or shortly after, Agrippa\u2019s death.",
+            "Herod AGRIPPA I., grandson of Herod the Great,\u2014son of Aristobulus and Berenice.",
+            "His character, as given by Josephus, Antt. xix. 7. 3, is important as illustrating the present chapter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For thirty years before this there was no king at Jerusalem exercising supreme authority over Judea, nor was there ever afterwards, save during the three last years of Herod's life, within which the transactions occurred.\" ",
+            "Herod the king\u2014grandson of Herod the Great, and son of Aristobulus. He at this time ruled over all his father's dominions.\" ",
+            "Paley has remarked the accuracy of the historian here."
+        ],
+        "Albert Barnes": [
+            "Herod Agrippa received also his tetrarchy.",
+            "Stretched forth his hands - A figurative expression, denoting that 'he laid his hands on them, or that he endeavored violently to oppress the church.'",
+            "To vex - To injure, to do evil to."
+        ],
+        "Marvin Vincent": [
+            "That time [\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03bd \u03c4\u03bf\u03bd \u03ba\u03b1\u03b9\u03c1\u03bf\u03bd] . More correctly, that juncture.",
+            "Render, laid hands on certain of the church to afflict them.",
+            "Vex is used in the older and stronger sense of torment or oppress."
+        ],
+        "John Calvin": [
+            "We see that the Church had some short truce, that it might, as it were, by a short breathing, recover some courage against the time to come, and that it might then fight afresh.",
+            "Let this suffice them if the Lord grant them some time wherein they may recover their strength.",
+            "So when we see that the enemies of godliness, being full of fury, do not commit horrible slaughters, that they may mix and imbrue all things with blood, let us know that we need not thank their moderation and clemency for this; but because, when the Lord doth spare his sheep, he doth not suffer them to do so much hurt as they would."
+        ],
+        "Philip Schaff": [
+            "Once more and (though they knew it not) for the last time, the ancient monarchy was united under the sceptre of one sovereign, who, thanks to his private friendship with the emperor, was allowed to rule the ancient people.",
+            "This was the reason why \u2018Herod stretched forth his hand to vex certain of the Church.\u2019 The persecution of A.D. 44 was the greatest danger to which the Church of Christ was ever exposed.",
+            "The rulers in Jerusalem were never able again to organize a general persecution of the Christians, and after the death of Herod, and the consequent downfall of their hopes, the relations between the Roman and the Jew became each year more hostile."
+        ],
+        "Archibald T. Robertson": [
+            "That is, the early part of A.D. 44 since that is the date of Herod's death.\" ",
+            "Herod Agrippa I, grandson of Herod the Great, was King of Palestine A.D. 42 to 44; only for these three years was a Herod king over Palestine since the death of Herod the Great and never afterwards.\" ",
+            "Here we have for the first time political power (after Pilate) used against the disciples."
+        ],
+        "John Gill": [
+            "Now about that time,.... That the famine was in Judea, and Saul and Barnabas were sent thither with what the church at Antioch had collected.",
+            "Herod the king; not Herod the great that slew the infants at Bethlehem, nor Herod Antipas that beheaded John, but Herod Agrippa...",
+            "It is scarcely credible that he should lay hands on any of them himself in person; but it is very likely he encouraged his soldiers, or his servants, to abuse them, reproach them, strike and buffet them..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the time of King Herod Agrippa I, there was a visit from Barnabas and Saul, likely occurring near or after the death of Herod. Herod Agrippa I, the grandson of Herod the Great and son of Aristobulus and Berenice, ruled over his father's dominions for three years until his death in A.D. 44. He was the first ruler, after Pilate, to use political power against the disciples, and it marked a significant danger to the Church of Christ. While the persecution was severe, it was not as extreme as it could have been, as the Lord spared His sheep from further harm. Nonetheless, this persecution was a turning point, as the rulers in Jerusalem were unable to organize further general persecutions against the Christians.",
+            "wordCount": 126,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 2.1013947020313735,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                34.14,
+                37.05,
+                28.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the time of Herod Agrippa I, the visit of Barnabas and Saul took place, possibly following his death. Agrippa I ruled over his father's dominions for only three years, from A.D. 42 to 44, making him the first ruler to use political power against the disciples after Pilate. This persecution posed a significant danger to the Church of Christ, but it was not as severe as it could have been as the Lord spared His sheep from greater harm. The rulers in Jerusalem were unable to orchestrate further persecution after the death of Herod, leading to increasingly hostile relations between the Romans and the Jews.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.082691145686632,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.59,
+            "commentatorTierSimilarities": [
+                33.98,
+                38.43,
+                27.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the time of King Herod Agrippa I, there was a visit from Barnabas and Saul, likely occurring around the time of Agrippa's death. Agrippa, the grandson of Herod the Great, ruled over his father's dominions for three years until his death in A.D. 44. This marked the first instance of political power being used against the disciples since Pilate, resulting in the most significant danger the Church of Christ had faced thus far. However, the persecution was not as severe as it could have been, as the Lord restrained their enemies from inflicting greater harm.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.065255484543466,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+            "commentatorTierSimilarities": [
+                34.78,
+                34.81,
+                30.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the time of King Herod Agrippa I, there was a visit from Barnabas and Saul, likely occurring around the time of Agrippa's death. Agrippa, the grandson of Herod the Great, ruled over his father's dominions for three years until his death in A.D. 44. This marked the first instance of political power being used against the disciples since Pilate, resulting in the most significant danger the Church of Christ had faced thus far. However, the persecution was not as severe as it could have been, as the Lord restrained their enemies from inflicting greater harm.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.065255484543466,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+            "commentatorTierSimilarities": [
+                34.78,
+                34.81,
+                30.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the time of King Herod Agrippa I, there was a visit from Barnabas and Saul, likely occurring around or shortly after Agrippa's death. Agrippa I ruled over his father's dominions for three years, from A.D. 42 to 44. This marked the first instance of political power being used against the disciples since Pilate. The persecution posed a significant danger to the Church of Christ, but it was not as severe as it could have been, as the Lord spared His sheep from further harm.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.9361028211558504,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.72,
+            "commentatorTierSimilarities": [
+                36.99,
+                34.55,
+                28.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

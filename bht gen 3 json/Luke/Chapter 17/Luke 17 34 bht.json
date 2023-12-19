@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:21:08",
+    "verseRef": "Luke 17:34",
+    "bestBHT": {
+        "bht": "Jesus' words in this passage indicate a deeper bond than mere cooperation, emphasizing the division within families. The separation experienced by the early Christians in Jerusalem before its destruction serves as a reminder of the imminent division during Christ's second coming. This event will surprise a heedless world, as the faithful and unfaithful are separated, and the elect are gathered. The metaphor of night underscores the element of surprise and terror, reminiscent of the unexpected destruction faced by the Jews, akin to the days of Noah and Lot.",
+        "wordCount": 89,
+        "quoteTokenProportion": 25.81,
+        "qualityScore": 1.5064424411572888,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+        "commentatorTierSimilarities": [
+            34.0,
+            31.83,
+            34.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "34.] indicates a closer relationship than that of mere fellow-workmen, and sets forth the division of even families in that. day."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Prepared and unprepared mingled in closest intercourse together in the ordinary walks and fellowships of life, when the moment of severance arrives.",
+            "Awful truth! realized before the destruction of Jerusalem, when the Christians found themselves forced by their Lord's directions at once and for ever away from their old associates.",
+            "Most of all when the second coming of Christ shall burst upon a heedless world."
+        ],
+        "Philip Schaff": [
+            "Night is the time of surprise and terror.",
+            "There will be a separation between the faithful and the unfaithful, as well as a gathering of the elect out of the world.",
+            "This illustration gives prominence to the former idea, the next to the latter."
+        ],
+        "Archibald T. Robertson": [
+            "In that night (\u03c4\u03b1\u03c5\u03c4\u03b7 \u03c4\u03b7 \u03bd\u03c5\u03ba\u03c4). More vivid still, \"on this night,\" when Christ comes. "
+        ],
+        "John Gill": [
+            "The destruction of the Jews would be at a time when they were thoughtless of it, and were eating and drinking, as in the days of Noah and Lot.",
+            "The one shall be taken; by the Roman soldiers.",
+            "The other shall be left; being, by one providence or another preserved; which is mentioned, to show the distinction God will make in his providence, and to encourage believers to trust in it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 17:34, Jesus' words indicate a closer relationship than mere fellow-workmen, emphasizing the division within families. This points to the separation that occurred among Christians in Jerusalem before its destruction, as they were forced away from their old associates. The same reality will be echoed when the second coming of Christ surprises a heedless world. The night represents a time of both surprise and terror, highlighting the impending separation between the faithful and unfaithful, with a gathering of the elect. This serves as a stark reminder that the destruction of the Jews, like in the days of Noah and Lot, would come unexpectedly while they were engrossed in everyday activities.",
+            "wordCount": 111,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5652981444385667,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.39,
+            "commentatorTierSimilarities": [
+                38.29,
+                27.39,
+                34.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' words in this passage indicate a deeper bond than mere cooperation, emphasizing the division within families. The separation experienced by the early Christians in Jerusalem before its destruction serves as a reminder of the imminent division during Christ's second coming. This event will surprise a heedless world, as the faithful and unfaithful are separated, and the elect are gathered. The metaphor of night underscores the element of surprise and terror, reminiscent of the unexpected destruction faced by the Jews, akin to the days of Noah and Lot.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.5064424411572888,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                34.0,
+                31.83,
+                34.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Luke 17:34, Jesus highlights the profound impact of his teachings on human relationships, even within families. The division experienced by early Christians in Jerusalem, due to their obedience to Jesus' instructions, serves as a powerful reminder of the ultimate separation that will occur during his second coming. This moment will surprise a careless world, as the faithful and unfaithful are clearly distinguished, and the chosen ones are gathered. The imagery of night emphasizes the suddenness and fear associated with these events, much like the unexpected ruin faced by the Jews in the days of Noah and Lot.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 1.4040779989950756,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.03,
+            "commentatorTierSimilarities": [
+                35.15,
+                26.87,
+                37.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' words in this passage highlight the intimate connections within families, showcasing the division that will occur. This separation stemmed from the Christians' obedience to Christ's instructions before the destruction of Jerusalem and will be replicated during his second coming. This event will catch the unprepared world by surprise, with believers being distinctively set apart from the unbelievers. The element of night signifies the unexpected and terrifying nature of these events, reminiscent of the unforeseen destruction experienced by the Jews, akin to the times of Noah and Lot.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.4675941857984947,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+            "commentatorTierSimilarities": [
+                36.42,
+                25.44,
+                38.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Luke 17:34, Jesus reveals the profound impact of his teachings on families, illustrating an impending division. The separation experienced by early Christians in Jerusalem, as they followed Christ's directions, serves as a stark reminder of the future division during his second coming. This unexpected event will take the world by surprise, as believers and unbelievers are clearly distinguished. Symbolically referring to night, it accentuates the suddenness and fear associated with these events, similar to the unforeseen destruction faced by the Jews in the days of Noah and Lot.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.4034463886848572,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.01,
+            "commentatorTierSimilarities": [
+                37.52,
+                22.76,
+                39.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

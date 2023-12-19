@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:49:26",
+    "verseRef": "1 John 4:1",
+    "bestBHT": {
+        "bht": "Beloved, we are cautioned not to blindly trust every spirit, but rather, to examine and test them carefully to determine if they truly come from God. False prophets have infiltrated the world, presenting deceptive teachings that must be scrutinized. Even angelic messages should be evaluated against the truth revealed in God's word. The world is easily led astray, so it is essential to put these spirits to the test, just as metals are refined. Jesus warned about false prophets and their signs, emphasizing the importance of discerning spirits and teachings that align with God's truth.",
+        "wordCount": 97,
+        "quoteTokenProportion": 43.84,
+        "qualityScore": 2.2641475204892343,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.62,
+        "commentatorTierSimilarities": [
+            31.62,
+            41.43,
+            26.95
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Beloved, believe not every spirit, but try the spirits whether they are of God.\" ",
+            "By the nature of the testimony of the human spirits, we shall know whether they are of God or not; whether they are organs of the spirit of truth, or of the spirit of error.\" ",
+            "Many false-prophets are gone forth into the world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is but one Spirit of truth, and one spirit of Antichrist.\" ",
+            "Even an angel's message should be tested by the word of God: much more men's teachings, however holy the teachers may seem.\" ",
+            "The world is easily seduced."
+        ],
+        "Albert Barnes": [
+            "Beloved, believe not every spirit...All pretensions to divine inspiration, or to being authorised teachers of religion, were to be examined by the proper tests, because there were many false and delusive teachers who set up such claims in the world.",
+            "But try the spirits whether they are of God...they were to receive them as what they professed to be. If not, they were to reject them, and hold them to be impostors.",
+            "No one should be received as a religious teacher without the clearest evidence that he has come in accordance with the will of God, nor unless he inculcates the very truth which God has revealed."
+        ],
+        "Marvin Vincent": [
+            "Beloved. Again the recognition of danger from false spirits prompts this affectionate address.",
+            "Try [\u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03b6\u03b5\u03c4\u03b5] . Better, as Rev., prove.",
+            "The false prophet supports his claims by signs and portents and is thus distinguished from the false teacher."
+        ],
+        "John Calvin": [
+            "The fact will fortify us against such offenses.",
+            "There is, then, no reason why antiquity should hinder us to exercise our liberty in distinguishing between truth and falsehood.",
+            "We ought, then, to take heed lest, being offended at the variety of opinions, we should discard teachers, and, together with them, the word of God."
+        ],
+        "Philip Schaff": [
+            "Believe not every spirit, but prove the spirits whether they be of God: because many false prophets are gone out into the world.\" ",
+            "The 'spirits' and the 'false prophets' are one. They are 'antichrists' in chap. 2.\" ",
+            "They are not to be believed until tested: hence we are not to speak here of the gift of 'discerning spirits' (1 Corinthians 12:10), but of the universal duty incumbent on every Christian, of trying the doctrine brought concerning the Son of God."
+        ],
+        "Archibald T. Robertson": [
+            "Stop believing,\" as some were clearly carried away by the spirits of error rampant among them, both Docetic and Cerinthian Gnostics. Credulity means gullibility and some believers fall easy victims to the latest fads in spiritualistic humbuggery.",
+            "Put them to the acid test of truth as the metallurgist does his metals. If it stands the test like a coin, it is acceptable, otherwise it is rejected.",
+            "Jesus had warned people against them, even when they as false Christs work portents. It is an old story and recurs again and again along with false teachers."
+        ],
+        "John Gill": [
+            "By 'every spirit' he means, either every doctrine that is pretended to come from the Spirit of God, or every teacher, who professes to be qualified and sent by him, and to have his light, knowledge, and doctrine from him.",
+            "And to such a probation or trial of the spirits, spiritual light, knowledge, judgment, sense, experience, and divine guidance are necessary, which should be asked of God, and an increase thereof.",
+            "And there were not only one, or two, or a few of these, but 'many', as our Lord had foretold."
+        ],
+        "John Wesley": [
+            "Believe not every spirit \u2014 Whereby any teacher is actuated.",
+            "We are to try all spirits by the written word: 'To the law and to the testimony!'",
+            "If any man speak not according to these, the spirit which actuates him is not of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beloved, do not believe every spirit that claims to be from God, but rather, examine and test them to discern whether they truly align with the spirit of truth or the spirit of error. False prophets have infiltrated the world, spreading deceitful teachings. Even angelic messages should be scrutinized against the word of God. The world is easily deceived, and as believers, we must be cautious. Put these spirits to the test, as one would refine metals, and reject anything that does not pass the test of truth. Jesus himself warned about false prophets and their various signs and wonders. Therefore, it is crucial to discern the spirits and teachings, ensuring they align with the revealed truth from God.",
+            "wordCount": 119,
+            "quoteTokenProportion": 48.68,
+            "qualityScore": 2.19492169639802,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.32,
+            "commentatorTierSimilarities": [
+                32.62,
+                40.37,
+                27.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beloved, we must not believe every spirit that claims to be from God. Instead, we should examine and test them to determine if they align with the spirit of truth or the spirit of error. The world is easily deceived, and false prophets have emerged, spreading falsehoods. Even angelic messages should be compared to the word of God. By subjecting these spirits to the test, like refining metals, we can reject anything that does not meet the criteria of truth. Jesus had previously warned about false prophets and their signs and wonders. Therefore, it is crucial for us to diligently discern the spirits and teachings, ensuring they align with God's revealed truth.",
+            "wordCount": 113,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.193905468421501,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.29,
+            "commentatorTierSimilarities": [
+                31.25,
+                40.69,
+                28.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beloved, we are cautioned not to blindly trust every spirit, but rather, to examine and test them carefully to determine if they truly come from God. False prophets have infiltrated the world, presenting deceptive teachings that must be scrutinized. Even angelic messages should be evaluated against the truth revealed in God's word. The world is easily led astray, so it is essential to put these spirits to the test, just as metals are refined. Jesus warned about false prophets and their signs, emphasizing the importance of discerning spirits and teachings that align with God's truth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.2641475204892343,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.62,
+            "commentatorTierSimilarities": [
+                31.62,
+                41.43,
+                26.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beloved, we are warned not to believe every spirit at face value, but to test them to determine if they are truly from God. False prophets have spread throughout the world, deceiving many. We must be cautious, even when it comes to angelic messages, and evaluate them against God's word. The world is susceptible to deception, so it is vital to subject these spirits to scrutiny, like refining metals. Jesus had previously warned about false prophets and their signs, highlighting the need for discernment in recognizing teachings that align with God's truth.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.193913102003486,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.29,
+            "commentatorTierSimilarities": [
+                31.57,
+                41.46,
+                26.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beloved, be alert and wary of every spirit that claims to be from God. Test them diligently, discerning whether they align with the spirit of truth or deception. False prophets have emerged, spreading deceptive teachings. Even angelic messages should be examined against the word of God. The world is easily deceived, so it is crucial to subject these spirits to thorough evaluation, akin to refining metals. Jesus forewarned of false prophets who perform signs and wonders. Thus, we must exercise discernment, testing the spirits and teachings to ensure they align with God's revealed truth.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 2.1574508613686385,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.08,
+            "commentatorTierSimilarities": [
+                32.37,
+                40.02,
+                27.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

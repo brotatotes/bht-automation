@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:56:46",
+    "verseRef": "Philippians 3:19",
+    "bestBHT": {
+        "bht": "These individuals embrace earthly pleasures, considering them as glory, yet their pursuit is truly shameful according to moral reality. They prioritize their own bodily desires, making their belly their god. However, their indulgence will be overturned, as God will bring about their destruction. They are consumed by earthly matters, in contrast to those who set their minds on heavenly things. These individuals, masquerading as Christians, take pride in behaviors that should bring them shame, thus making themselves enemies of the cross.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 2.1112593560336697,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+        "commentatorTierSimilarities": [
+            32.71,
+            36.35,
+            30.93
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Of whom perdition is the end, of whom their belly is the God, and their glory in their shame.",
+            "Their glory is subjective\u2014that which is glory in the judgment of these men,\u2014and their shame objective\u2014that which is shame according to the reality of morals.",
+            "They regard the things on earth, in opposition to the things above."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "whose god is their belly\u2014(Romans 16:18); hereafter to be destroyed by God (1 Corinthians 6:13).",
+            "Their belly is now pampered, our body now wasted; then the respective states of both shall be reversed.",
+            "mind earthly things\u2014(Romans 8:5). In contrast to Philippians 3:20; Colossians 3:2."
+        ],
+        "Albert Barnes": [
+            "A mere profession will not save them. Unless they are converted, and become the true friends of the cross, they cannot enter heaven.",
+            "They glory in things of which they ought to be ashamed. They indulge in modes of living which ought to cover them with confusion.",
+            "How many are there who have no interest in a prayer meeting, in a Sunday school, in religious conversation, and in the advancement of true religion on the earth! These are the real enemies of the cross."
+        ],
+        "Marvin Vincent": [
+            "My flocks which I sacrifice to no one but myself, and not to the gods, and to this my belly the greatest of the gods: for to eat and drink each day, and to give one's self with no trouble, this is the God for wise men.",
+            "That which they esteem glory.",
+            "Earthly things."
+        ],
+        "John Calvin": [
+            "As, however, profligates of this description, by means of show and various artifices, frequently dazzle the eyes of the simple for a time, in such a manner that they are preferred even to the most eminent servants of Christ, the Apostle declares, with great confidence, that the glory with which they are now puffed up will be exchanged for ignominy.",
+            "For they saw that the Jews burned with a fierce rage against Paul, and those like him, and that Christ could not be proclaimed by them in purity with any other result, than that of arousing against themselves the same rage. Accordingly, consulting their own ease and advantage, they mixed up these corruptions with the view of mitigating the flames of others.",
+            "Calvin\u2019s meaning appears to be, that they made it their endeavor to screen themselves as far as possible from the fiery rage of those around them."
+        ],
+        "Philip Schaff": [
+            "The heresies of destruction, which they bring in, will in the end bring swift destruction upon themselves.",
+            "They serve not our Lord Jesus Christ, but their own belly.",
+            "In what ought to be their shame; but instead of this, they make a parade of what they do, \u2018foaming out their own shame.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Whose god is the belly... Sensuality in food, drink, sex then as now mastered some men.",
+            "These men posed as Christians and gloried in their shame.",
+            "Anacoluthon. The nominative does not refer to \u03c0\u03bf\u03bb\u03bb\u03bf at the beginning, but with the accusative \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c7\u03b8\u03c1\u03bf\u03c5\u03c2 in between."
+        ],
+        "John Gill": [
+            "The broad roads of sin and error lead to destruction, however pleasing such ways may be to men, the end of them is eternal death.",
+            "The belly is the god of the sensualist, the epicure, and voluptuous person; he has more regard for the service of that than for the service of God.",
+            "In their hidden things of dishonesty, crafty walking, and deceitful handling of the word of God, which were vile and scandalous...in corrupting the Gospel, and the churches of Christ, with their false doctrine."
+        ],
+        "John Wesley": [
+            "Whose end is destruction \u2014 This is placed in the front, that what follows may be read with the greater horror.",
+            "Whose god is their belly \u2014 Whose supreme happiness lies in gratifying their sensual appetites.",
+            "Who mind \u2014 Relish, desire, seek, earthly things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These individuals find their ultimate end in perdition, their focus being on earthly and sensual desires rather than on heavenly things. Their glory is derived from what is considered honorable in their own eyes, but in reality, it is a shameful pursuit that conflicts with true moral values. They prioritize their bodily pleasures, their god being their own belly, instead of seeking spiritual fulfillment. However, their indulgence will eventually lead to destruction, as their present satisfaction will be reversed and replaced with shame. They are consumed by worldly matters, contrasting with those who set their minds on things above. These individuals, though professing to be Christians, are actually enemies of the cross and take pride in their behaviors that should bring them shame.",
+            "wordCount": 123,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 1.9771559576609818,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+            "commentatorTierSimilarities": [
+                31.3,
+                35.64,
+                33.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These individuals find their ultimate end in perdition as they prioritize earthly pursuits and sensual desires. They glory in what they consider honorable, but in truth, it is a shameful pursuit that goes against moral values. Their god is their own belly, indulging in bodily pleasures instead of seeking spiritual growth. However, their present satisfaction will be reversed, leading to destruction and shame. These individuals, though professing to be Christians, are actually enemies of the cross, taking pride in behaviors that should bring them shame.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.9430807133434724,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.95,
+            "commentatorTierSimilarities": [
+                31.1,
+                36.96,
+                31.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals end in perdition, their glory being subjective to their own judgment, while their shame is objective to true morals. They prioritize earthly things and satisfy their own bodily desires, treating their belly as their god. However, their present state of indulgence will eventually be reversed and replaced with destruction. Their minds are focused on these worldly matters, in contrast to those who set their minds on things above. Though posing as Christians, they glory in behaviors that should actually bring them shame, acting as enemies of the cross.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.9154363523877507,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.03,
+            "commentatorTierSimilarities": [
+                32.4,
+                35.82,
+                31.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These individuals embrace earthly pleasures, considering them as glory, yet their pursuit is truly shameful according to moral reality. They prioritize their own bodily desires, making their belly their god. However, their indulgence will be overturned, as God will bring about their destruction. They are consumed by earthly matters, in contrast to those who set their minds on heavenly things. These individuals, masquerading as Christians, take pride in behaviors that should bring them shame, thus making themselves enemies of the cross.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.1112593560336697,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+            "commentatorTierSimilarities": [
+                32.71,
+                36.35,
+                30.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These individuals find their ultimate end in perdition, their glory being subjective while their shame is objective. They prioritize earthly things, their god being their own belly, and indulge in sensual pleasures. However, their present state of indulgence will be reversed and replaced with destruction. In contrast to those who focus on heavenly things, they set their minds on earthly matters. Despite posing as Christians, they take pride in behaviors that should actually bring them shame, making themselves enemies of the cross.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.9528190464853767,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.27,
+            "commentatorTierSimilarities": [
+                32.13,
+                35.91,
+                31.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

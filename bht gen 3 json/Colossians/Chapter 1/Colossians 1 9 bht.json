@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:19:09",
+    "verseRef": "Colossians 1:9",
+    "bestBHT": {
+        "bht": "Pray to be filled with the knowledge of His will, in all wisdom and spiritual understanding. Understanding is in the intellect, while wisdom encompasses the faculties of the soul. This knowledge is meant to be seasoned by spiritual understanding, discerning the mysteries of grace. Seek a deeper understanding of God's will, for knowledge devoid of spiritual understanding serves little purpose. In the face of false teachings, an abundance of knowledge and discernment of God's will is the remedy.",
+        "wordCount": 80,
+        "quoteTokenProportion": 36.96,
+        "qualityScore": 2.520732486327737,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.15,
+        "commentatorTierSimilarities": [
+            45.6,
+            23.14,
+            31.27
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Beseeching that ye may be filled with the [thorough] knowledge of His will in all wisdom and spiritual understanding.\" ",
+            "Understanding is in the intellect: wisdom, in the whole complex of the faculties of the soul."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "that in the fulness of times He might gather together in one all things in Christ",
+            "knowledge is desirable only when seasoned by 'spiritual understanding'",
+            "wisdom is more general and has its seat in the whole compass of the faculties of the soul"
+        ],
+        "Albert Barnes": [
+            "The progress which they had already made, and the love which they had shown, constituted an encouragement for prayer, and a reason why higher blessings still should be sought.",
+            "That ye might be filled with the knowledge of his will - They had shown by their faith and love that they were disposed to do his will, and the apostle now prays that they might be fully acquainted with what he would have them do.",
+            "And spiritual understanding - In understanding those things that pertain to the 'Spirit'; that is, those things taught by the Holy Spirit, and those which he produces in the work of salvation."
+        ],
+        "Marvin Vincent": [
+            "Pray - desire... The former is general, the latter special.",
+            "Full knowledge... appropriate to the knowledge of God in Christ as the perfection of knowledge.",
+            "Rev., better, applies spiritual to both - spiritual wisdom and understanding."
+        ],
+        "John Calvin": [
+            "He indirectly intimates that something is still wanting in them, that he may prepare the way for imparting instruction to them, and may secure their attention to a fuller statement of doctrine.\" ",
+            "For his will is not to be sought anywhere else than in his word.\" ",
+            "By the word \u03c3\u03c5\u03bd\u1f73\u03c3\u03b5\u03c9\u03c2 which we render prudentiam, (prudence,) I understand \u2014 that discrimination which proceeds from intelligence."
+        ],
+        "Philip Schaff": [
+            "We on our part, as well as others",
+            "The effect was instant and it was not spent with a single impulse",
+            "Not through human, fleshly wisdom, but wisdom and understanding wrought by the Holy Spirit"
+        ],
+        "Archibald T. Robertson": [
+            "The cure for these intellectual upstarts is not ignorance, not obscurantism, but more knowledge of the will of God.",
+            "Paul faces Gnosticism with full front and wishes the freest use of all one's intellectual powers in interpreting Christianity.",
+            "The preacher ought to be the greatest man in the world for he has to deal with the greatest problems of life and death."
+        ],
+        "John Gill": [
+            "that ye might he filled with the knowledge of his will... that they might be 'filled' with the knowledge of it; which supposes that they had knowledge, but it was not full and complete.",
+            "...that they might have a larger measure of it, and such a fulness of it as they were capable of in the present state, and not such an one as the saints will have in heaven, when they shall know even as they are known.",
+            "...that they might have a 'spiritual understanding' of the mysteries of grace, without which they cannot be discerned to spiritual advantage, nor indeed without the spirit of wisdom and revelation in the knowledge of them."
+        ],
+        "John Wesley": [
+            "That ye may be filled with the knowledge of his will \u2014 Of his revealed will.",
+            "In all wisdom \u2014 With all the wisdom from above.",
+            "And spiritual understanding \u2014 To discern by that light whatever agrees with, or differs from, his will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pray that you may be filled with the thorough knowledge of God's will in all wisdom and spiritual understanding. Understanding and wisdom are both important aspects of comprehending God's will, with understanding pertaining to the intellect and wisdom encompassing the entire soul. Seek this knowledge so that you may fully grasp the depth and purpose of God's plan, which is to gather all things in Christ. This knowledge, however, should not be pursued for its own sake, but rather with spiritual understanding, allowing the Holy Spirit to guide and illuminate your understanding. In facing false teachings and intellectual prowess, remember that the cure is not ignorance, but a deeper knowledge and discernment of the will of God.",
+            "wordCount": 120,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.464013573205974,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.27,
+            "commentatorTierSimilarities": [
+                44.0,
+                24.88,
+                31.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pray that you may be filled with the thorough knowledge of God's will in all wisdom and spiritual understanding. Understanding and wisdom are both important aspects of comprehending God's will. Seek this knowledge so that you may fully grasp the purpose of God's plan to gather all things in Christ. This knowledge should be pursued with spiritual understanding, allowing the Holy Spirit to guide your comprehension. In the face of false teachings, deep knowledge and discernment of God's will are the antidotes, not ignorance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.405708259101856,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.33,
+            "commentatorTierSimilarities": [
+                43.9,
+                24.52,
+                31.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pray to be filled with the knowledge of His will, in all wisdom and spiritual understanding. Understanding is in the intellect, while wisdom encompasses the faculties of the soul. This knowledge is meant to be seasoned by spiritual understanding, discerning the mysteries of grace. Seek a deeper understanding of God's will, for knowledge devoid of spiritual understanding serves little purpose. In the face of false teachings, an abundance of knowledge and discernment of God's will is the remedy.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 2.520732486327737,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.15,
+            "commentatorTierSimilarities": [
+                45.6,
+                23.14,
+                31.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pray to be filled with the thorough knowledge of God's will in all wisdom and spiritual understanding. Seek this knowledge, seasoned by spiritual understanding, as wisdom encompasses the faculties of the soul. Embrace the desire for fuller knowledge of God's will, not settling for incomplete understanding. The remedy for false teachings is not ignorance but a greater knowledge of God's will. The preacher must grapple with life's greatest questions, requiring deep wisdom and understanding to properly interpret Christianity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.407579664822201,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.39,
+            "commentatorTierSimilarities": [
+                46.94,
+                22.6,
+                30.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pray to be filled with the thorough knowledge of God's will in all wisdom and spiritual understanding. Seek this knowledge, seasoned by spiritual understanding, as wisdom encompasses the faculties of the soul. The remedy for false teachings is not ignorance but a greater knowledge of God's will. Embrace the desire for fuller knowledge, not settling for incomplete understanding. The preacher must grapple with life's greatest questions, requiring deep wisdom and understanding to properly interpret Christianity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.3715591459020393,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.19,
+            "commentatorTierSimilarities": [
+                47.5,
+                22.18,
+                30.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

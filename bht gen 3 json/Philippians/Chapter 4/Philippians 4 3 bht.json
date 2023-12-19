@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 13:56:24",
+    "verseRef": "Philippians 4:3",
+    "bestBHT": {
+        "bht": "Help those who have labored in the work of reconciliation, yoke-fellows committed to spreading the Gospel and citizens of heaven. Take hold with them, as they have taken hold with Paul, displaying their faith as true Christians despite their differences. Their names are written in the book of life, a reflection of God's love and care for them. Therefore, let us assist and guide those who labor in the Gospel, fulfilling God's purposes in their lives.",
+        "wordCount": 79,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.5584634248546352,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+        "commentatorTierSimilarities": [
+            21.38,
+            36.07,
+            42.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Who art truly, as thy name means, a yoke-fellow.\" ",
+            "Help them...in the work of their reconciliation.\" ",
+            "The register-book of those whose 'citizenship is in heaven.'"
+        ],
+        "Albert Barnes": [
+            "The term 'yoke-fellow' - \u03c3\u03c5\u03b6\u03c5\u03b3\u03bf\u03c2 suzugos - some have understood as a proper name (Syzygus); but the proper import of the word is yoke-fellow, and there is no reason to believe that it is used here to denote a proper name.\" ",
+            "The common opinion is, ... that the office which the friend of Paul was asked to perform was, to secure a reconciliation between them... The reference seems rather to be to influential females who had rendered important assistance to Paul when he was there.",
+            "The phrase, 'the book of life,' ... refers originally to a record or catalogue of names, as the roll of an army. It then means to be among the living, as the name of an individual would be erased from a catalog when he was deceased."
+        ],
+        "Marvin Vincent": [
+            "For true, see on naturally, ch. 2 20.",
+            "Help [\u03c3\u03c5\u03bb\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03c5] . Lit., take hold with.",
+            "The figure is founded on the register of the covenant people."
+        ],
+        "John Calvin": [
+            "Let us, therefore, inquire as to the thing itself, without taking any false impression from the opinions of men.",
+            "The book of life is the roll of the righteous, who are predestinated to life, as in the writings of Moses.",
+            "It belongs, it is true, to God alone now to know them that are his, and to separate at least the lambs from the kids; but it is our part to reckon in charity all to be lambs who, in a spirit of obedience, submit themselves to Christ as their Shepherd."
+        ],
+        "Philip Schaff": [
+            "The appeal was intelligible by him to whom it was made, and charity (such as he was to use and foster) \u2018vaunteth not herself.\u2019",
+            "These women, like the apostle, had entered on the heavenward struggle, and like him were zealous that the Gospel should be spread abroad.",
+            "Those are in the Book of life in scripture language who have begun to walk in the way of salvation."
+        ],
+        "Archibald T. Robertson": [
+            "Take hold with them.",
+            "They laboured with me.",
+            "Real Christians in spite of their bickerings."
+        ],
+        "John Gill": [
+            "the word used is of the masculine gender, and designs a man and not a woman",
+            "help both...not by relieving their temporal wants, but either by composing their differences, or by assisting them with good counsel and advice",
+            "the book of God's eternal purposes and decrees, divine predestination to eternal life; and this being called a 'book', and the names of persons being said to be in it, denote the love of God to his elect, his care of them, his value for them, his remembrance of them, and the exact knowledge which he has of them"
+        ],
+        "John Wesley": [
+            "Help those women who laboured together with me...danger and toil endured for the sake of the gospel.\" ",
+            "Whose names, although not set down here, are in the book of life - As are those of all believers.",
+            "Reader, is thy name there? Then walk circumspectly, lest the Lord blot thee out of his book!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Help those who have labored in the work of reconciliation, yoke-fellows who have dedicated themselves to spreading the Gospel and have become citizens of heaven. They have taken hold with Paul, supporting him through trials and dangers, truly displaying their faith as real Christians despite their disagreements. Just as names are inscribed in the register of the covenant people, their names are written in the book of life, a testament to God's love and care for them. Therefore, let us humbly consider the true meaning of this exhortation, recognizing that it is our duty to assist and provide counsel to those who labor in the Gospel, striving to fulfill God's purposes in their lives.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 1.5443294806362968,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.69,
+            "commentatorTierSimilarities": [
+                19.33,
+                40.84,
+                39.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Help those who have labored in the work of reconciliation, yoke-fellows who have dedicated themselves to spreading the Gospel. They have taken hold with Paul, supporting him truly displaying their faith as real Christians despite their disagreements. Just as names are inscribed in the register of the covenant people, their names are written in the book of life, a testament to God's love and care for them. Therefore, let us humbly consider the true meaning of this exhortation, recognizing that it is our duty to assist and provide counsel to those who labor in the Gospel, fulfilling God's purposes in their lives.",
+            "wordCount": 105,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.5573617087037617,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.12,
+            "commentatorTierSimilarities": [
+                21.46,
+                39.71,
+                38.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Help those who have labored in the work of reconciliation, yoke-fellows committed to spreading the Gospel and citizens of heaven. Take hold with them, as they have taken hold with Paul, displaying their faith as true Christians despite their differences. Their names are written in the book of life, a reflection of God's love and care for them. Therefore, let us assist and guide those who labor in the Gospel, fulfilling God's purposes in their lives.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5584634248546352,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+            "commentatorTierSimilarities": [
+                21.38,
+                36.07,
+                42.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Help those who labored together with me, yoke-fellows who assisted in the work of reconciliation. They are truly devoted, as their names are registered among those whose citizenship is in heaven. They are like a register-book of the covenant people, with their names inscribed in the book of life. Take hold with them and offer support, following their example of perseverance and dedication to the Gospel. Work alongside these individuals, for they are genuine Christians, overcoming their disagreements through their commitment to Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5092381198643974,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.52,
+            "commentatorTierSimilarities": [
+                31.24,
+                33.2,
+                35.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Help those registered in the book of life, true yoke-fellows in the work of reconciliation, dedicated to spreading the Gospel. They've taken hold with me, enduring dangers and toils for the sake of the Gospel. Their names, though not listed here, are surely written in the book of life. Let us assist and support these genuine Christians, following their example of faith and obedience to Christ. Walk circumspectly, for the Lord will not blot out thy name from His book.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.4545500382979104,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.71,
+            "commentatorTierSimilarities": [
+                20.54,
+                33.59,
+                45.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

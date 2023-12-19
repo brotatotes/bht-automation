@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:15:47",
+    "verseRef": "Jude 10",
+    "bestBHT": {
+        "bht": "Driven by sensual desires, these false teachers speak evil of the spiritual realm they do not understand. Their knowledge is limited to the realm of the senses, resembling the unreasoning animals. Indulging in sensual gratification, they corrupt themselves rather than contemplating higher, invisible, and heavenly things. Ignorant and lacking comprehension, they blaspheme the Scriptures and defy God's laws. Their minds, clouded by brutish sensuality, prevent them from perceiving and honoring what is beyond their understanding.",
+        "wordCount": 76,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 2.1205333462407885,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.85,
+        "commentatorTierSimilarities": [
+            29.6,
+            36.7,
+            33.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whatever things they know not, speak evil of.\" ",
+            "But whatever things naturally, as the irrational animals, they understand, in these they corrupt themselves."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Those things which they understand not\" (..) namely, the things of the spiritual world.",
+            "Whatever things naturally, as the unreasoning animals, they know\" (..) the mere perception of the \"animal senses and faculties."
+        ],
+        "Albert Barnes": [
+            "These false and corrupt teachers employ reproachful language of those things which lie wholly beyond the reach of their vision.",
+            "Their knowledge was confined to those things. They did not rise above them to the intelligent contemplation of those higher things, against which they used only the language of reproach.",
+            "They live only for sensual indulgence, and sink deeper and deeper in sensual gratifications."
+        ],
+        "Marvin Vincent": [
+            "They know not. Mental comprehension and knowledge, and referring to the whole range of invisible things.\" ",
+            "The other verb in this verse, also translated by A.V. know (ejpistantai), refers to palpable things; objects of sense; the circumstances of sensual enjoyment.\" ",
+            "Naturally. Only here in New Testament. Compare fusika, natural, 2 Peter 2:12."
+        ],
+        "John Calvin": [
+            "They had no taste for anything but what was gross, and as it were beastly, and therefore did not perceive what was worthy of honor.",
+            "They feared not to condemn things above their comprehension.",
+            "Reason ought to govern men and to bridle their appetites."
+        ],
+        "Philip Schaff": [
+            "But these, who \u2018defile the flesh,\u2019 as they \u2018rail at dignities\u2019 [...] they know not the whole range of invisible and heavenly things, and even the nobler sentiments of our nature they rail.\" ",
+            "They surrender themselves to [their instincts and propensities], and in these destroy (or corrupt) themselves; and so they are worse than brutes.\" ",
+            "Drunkenness and like abuses of natural appetite are sins of man only."
+        ],
+        "Archibald T. Robertson": [
+            "Whatsoever things they know not (\u03bf\u03c3\u03b1 \u03bf\u03c5\u03ba \u03bf\u03b9\u03b4\u03b1\u03c3\u03b9\u03bd). Here 2 Peter 2:12 has \u03b5\u03bd \u03bf\u03b9\u03c2 \u03b1\u03b3\u03bd\u03bf\u03bf\u03c5\u03c3\u03b9\u03bd.",
+            "Naturally (\u03c6\u03c5\u03c3\u03b9\u03ba\u03c9\u03c2). Here only in N.T. 2 Peter 2:12 has \u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03b5\u03bd\u03b1 \u03c6\u03c5\u03c3\u03b9\u03ba\u03b1.",
+            "Jude has the article \u03c4\u03b1 with \u03b1\u03bb\u03bf\u03b3\u03b1 \u03b6\u03c9\u03b1 and the present passive \u03c6\u03b8\u03b5\u03b9\u03c1\u03bf\u03bd\u03c4\u03b1 instead of the future passive \u03c6\u03b8\u03b1\u03c1\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1."
+        ],
+        "John Gill": [
+            "Either by denying them to be the Word of God, or by putting false glosses on them; and so to the several parts of the Scriptures, as to the law, the nature, use, and end of which they are not acquainted with; and therefore blaspheme it, by not walking according to it.\" ",
+            "Man originally had a large share of natural knowledge, and there is in man still, notwithstanding the fall, by which his knowledge is impaired, a natural knowledge of God, and of things natural, civil, and moral.",
+            "And such was the brutish sensuality of these men, that in those things they corrupt themselves; and act as brute beasts without shame and fear; yea, worse than brute beasts."
+        ],
+        "John Wesley": [
+            "Without all shame. Rail at the things of God which they know not - Neither can know, having no spiritual senses.",
+            "And the natural things, which they know \u2014 By their natural senses, they abuse into occasions of sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These false teachers, driven by their sensual desires, speak evil of the things they do not understand - specifically, the spiritual world. Their knowledge is limited to the realm of the senses, akin to the unreasoning animals. They indulge in sensual gratification, corrupting themselves instead of rising above their base instincts to contemplate higher, invisible and heavenly things. In their ignorance, they blaspheme the Scriptures and the laws of God, walking in disobedience. They lack the capacity to perceive and honor what is beyond their comprehension, for their minds are clouded by their brutish sensuality.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 2.1107245627752187,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.52,
+            "commentatorTierSimilarities": [
+                29.69,
+                36.88,
+                33.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Driven by their sensual desires, these false teachers speak evil of the spiritual realm, which they do not understand. Their knowledge is limited to the realm of the senses, resembling the unreasoning animals. Indulging in sensual gratification, they corrupt themselves rather than contemplating the higher, invisible and heavenly things. Their ignorance leads them to blaspheme the Scriptures and defy the laws of God. Clouded by their brutish sensuality, they lack the capacity to perceive and honor what is beyond their comprehension.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.1027779806849987,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.26,
+            "commentatorTierSimilarities": [
+                29.09,
+                37.11,
+                33.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Driven by sensual desires, these false teachers speak evil of the spiritual world they do not understand. Their knowledge is confined to the realm of senses, resembling unreasoning animals. Indulging in sensual gratification, they corrupt themselves rather than contemplating higher, invisible, and heavenly things. Ignorant and lacking comprehension, they blaspheme the Scriptures and disobey God's laws. Their brutish sensuality clouds their minds, preventing them from perceiving and honoring what is beyond their understanding.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.0931439565731482,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                29.51,
+                36.53,
+                33.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These false teachers, driven by their sensual desires, speak evil of the things they do not understand. Their knowledge is limited to the realm of the senses, akin to the unreasoning animals. They indulge in sensual gratification, corrupting themselves instead of rising above their base instincts to contemplate higher, invisible and heavenly things. In their ignorance, they blaspheme the Scriptures and the laws of God, walking in disobedience. They lack the capacity to perceive and honor what is beyond their comprehension, for their minds are clouded by their brutish sensuality.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 2.091888323703161,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+            "commentatorTierSimilarities": [
+                29.38,
+                37.21,
+                33.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Driven by sensual desires, these false teachers speak evil of the spiritual realm they do not understand. Their knowledge is limited to the realm of the senses, resembling the unreasoning animals. Indulging in sensual gratification, they corrupt themselves rather than contemplating higher, invisible, and heavenly things. Ignorant and lacking comprehension, they blaspheme the Scriptures and defy God's laws. Their minds, clouded by brutish sensuality, prevent them from perceiving and honoring what is beyond their understanding.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.1205333462407885,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.85,
+            "commentatorTierSimilarities": [
+                29.6,
+                36.7,
+                33.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

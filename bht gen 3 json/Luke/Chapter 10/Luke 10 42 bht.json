@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:18:11",
+    "verseRef": "Luke 10:42",
+    "bestBHT": {
+        "bht": "Mary chose the good portion, the one thing needed - to feed on the bread of life through faith. Unlike Martha's restless busyness, Mary humbly sat at Jesus' feet and learned from Him. While an active Christian life is important, it is the excessive pursuit of unnecessary things that is criticized. The good part, Mary's choice, would never be taken away from her, unlike the temporary concerns of this present life. Have you also chosen the good portion of fellowship with Jesus?",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.8363869665867165,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+        "commentatorTierSimilarities": [
+            36.13,
+            28.09,
+            35.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The good portion is the one thing which is needful\u2014see John vi. 53,\u2014the feeding on the bread of life by faith; which faith cometh by hearing, hearing by the word of Christ, which Mary was now receiving into her soul, and which (John vi. 54) shall never be taken away, but result in ever-lasting life.",
+            "The two types of character have ever been found in the Church; both, caring for Him, and for love to Him doing what they do: but the one busy and restless, anxious, and stirring; the other quiet and humble, content to sit at His feet and learn.",
+            "But on the other hand we must not derive any argument hence against an active Christian life of doing good: this is, in fact, to sit at His feet and learn\u2014to take His yoke on us, and learn of Him. It is the bustling about the many things of which there is no need, which is blamed; not the working out the fruits of the Spirit, which are needful, being parts themselves of the good part."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Short work and little of it suffices for Me\" is not so much the lower sense of these weighty words, as supposed in them, as the basis of something far loftier than any precept on economy.",
+            "One thing, c.\" - the littleness both of elaborate preparation for the present life and of that life itself, compared with another.",
+            "Mary's choice would be taken from her, for her services would die with her; Mary's never, being spiritual and eternal."
+        ],
+        "Albert Barnes": [
+            "Other things are of little importance. This should be secured first, and then all other things will be added.",
+            "The cares of this life are dangerous, even when they seem to be most lawful and commendable.",
+            "Piety is the chief thing needed. Other things will perish. We shall soon die. All that we can gain we must leave. But the 'soul' will live."
+        ],
+        "John Calvin": [
+            "In a word, we do but wander to no purpose, if we do not direct all our actions to a fixed object.",
+            "Mary is engaged in a holy and profitable employment, in which she ought not to be disturbed.",
+            "The good part, or, as he explains it, 'the holy and profitable employment,' shall not be taken from her."
+        ],
+        "Philip Schaff": [
+            "A few authorities omit: \u2018and troubled about many things\u2019 and this clause also; a number of others read here: \u2018of few things, or of one.\u2019",
+            "For Mary hath chosen the good part, etc. Mary\u2019s choice proved what the \u2018one thing\u2019 was, and that anxiety about the \u2018many\u2019 others was unnecessary.",
+            "The possession of this \u2018part\u2019 is eternal. Both of these women loved the Saviour; Martha is not the type of a worldly woman, nor is the \u2018one thing\u2019 conversion."
+        ],
+        "Archibald T. Robertson": [
+            "The best dish on the table, fellowship with Jesus.",
+            "Salvation is not 'the good portion' for Martha had that also.",
+            "Jesus pointedly takes Mary's side against Martha's fussiness."
+        ],
+        "John Gill": [
+            "Ordinarily speaking, [hearing the word] is necessary to the knowledge of Christ, and salvation by Him, and to faith in Him.\" ",
+            "Christ's meaning seems plainly to be, that Mary hearing the word from his mouth, and at his feet, was one necessary thing, in opposition to Martha's many unnecessary ones.",
+            "The part she chose is, that which shall not be taken away from her; by men or devils: faith which comes by hearing of the word, and so every other grace of the Spirit is what can never be lost."
+        ],
+        "John Wesley": [
+            "Mary hath chosen the good part \u2014 To save her soul. Reader, hast thou?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Humbly sitting at the feet of Jesus, Mary chose the good portion - the one thing needful. She understood that the bustling and anxious pursuit of many things was unnecessary compared to the essential act of receiving the bread of life through faith. Jesus Himself took Mary's side against Martha's fussiness, emphasizing the importance of fellowship with Him. While we should not disregard an active Christian life, we must prioritize our souls and the eternal blessings of faith. The good part, Mary's choice, would remain with her forever, while the concerns of this world would fade away. Have you also chosen the good portion?",
+            "wordCount": 106,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7571572472624806,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.77,
+            "commentatorTierSimilarities": [
+                35.46,
+                27.83,
+                36.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary chose the good portion, the one thing needed \u2013 to receive the bread of life by faith in Jesus. In contrast to Martha's restless busyness, Mary humbly sat at Jesus' feet to learn from Him. While an active Christian life of doing good is important, Jesus pointedly supports Mary's choice over Martha's fussiness. The good part, Mary's choice, would never be taken away from her. It is by hearing the word and faith that we receive the eternal blessings that can never be lost. Have you also chosen the good portion?",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.7668528647694428,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.09,
+            "commentatorTierSimilarities": [
+                36.5,
+                24.23,
+                39.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary chose the good portion, the one thing needful - to receive the bread of life by faith, which would result in everlasting life. Her humble act of sitting at Jesus' feet to learn from Him contrasted with Martha's busyness and anxious pursuit of many things. While an active Christian life is commendable, it is the bustling about unnecessary things that is frowned upon. Mary's choice of fellowship with Jesus, the good part, would never be taken away from her. Have you also chosen the good portion?",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7860929853159968,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.73,
+            "commentatorTierSimilarities": [
+                36.19,
+                27.07,
+                36.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary chose the good portion, the one thing needed - to feed on the bread of life through faith. Unlike Martha's restless busyness, Mary humbly sat at Jesus' feet and learned from Him. While an active Christian life is important, it is the excessive pursuit of unnecessary things that is criticized. The good part, Mary's choice, would never be taken away from her, unlike the temporary concerns of this present life. Have you also chosen the good portion of fellowship with Jesus?",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.8363869665867165,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                36.13,
+                28.09,
+                35.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary chose the good portion, the one thing needed - to receive the bread of life through faith, which would result in everlasting life. Her humble act of sitting at Jesus' feet to learn from Him contrasted with Martha's busyness and anxious pursuit of many things. While an active Christian life is commendable, it is the bustling about unnecessary things that is frowned upon. Mary's choice of fellowship with Jesus, the good part, would never be taken away from her. Have you also chosen the good portion?",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7908124377087122,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                36.21,
+                27.54,
+                36.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

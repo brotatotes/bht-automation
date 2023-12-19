@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 17:12:47",
+    "verseRef": "Philemon 24",
+    "bestBHT": {
+        "bht": "The co-workers of Paul, including Mark, Aristarchus, Demas, and Luke, were instrumental in spreading the Word of God. While Mark had previously caused displeasure to Paul, he later became profitable to him. Demas, however, deserted Paul for worldly pursuits. These individuals, along with others, displayed a zeal and self-sacrificing nature that made their time in Rome fruitful. Their Christian salutations to Philemon reinforce Paul's request, illustrating the importance of unity in fulfilling God's work.",
+        "wordCount": 78,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.736706368391876,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.09,
+        "commentatorTierSimilarities": [
+            34.78,
+            39.06,
+            26.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Marcus, Aristarchus, Demas, and Lucas - see the notes at the Epistle to the Colossians, Colossians 4:10, Colossians 4:14."
+        ],
+        "Marvin Vincent": [
+            "Mark. Probably John Mark the evangelist.\" ",
+            "He appears as the companion of Paul.\" ",
+            "Luke. The physician and evangelist."
+        ],
+        "John Calvin": [
+            "And if one of Paul\u2019s assistants, having become weary and discouraged, was afterwards drawn aside by the vanity of the world, let no man reckon too confidently on the zeal of a single year...",
+            "...let him pray to God for steadfastness.",
+            "...but, considering how large a portion of the journey still remains to be accomplished..."
+        ],
+        "Philip Schaff": [
+            "And to do Mark. Doubtless the John Mark who on the first missionary journey had turned back and left Paul and Silas. He had not ceased, however, to work in Christ\u2019s cause, and the apostle\u2019s displeasure had passed away, for Mark had become profitable to him for the ministry (2 Timothy 4:11).",
+            "Demas, mentioned like the rest in the Colossian Epistle, but at a later time (2 Timothy 4:10) described as deserting St. Paul for the love of the world.",
+            "By his own efforts and by those of his companions, St. Paul made it apparent that, even though he were a prisoner, the Word of God was not bound. We often regard the two years at Rome as a time when the apostolic work was stayed. It may well have been the most fruitful period of the apostle\u2019s life, for from his own lips the Roman soldiery learnt the story of the Cross, while the self-sacrificing zeal of his Christian companions was ready to undertake any duty that would prove them deserving of the name of fellow-labourers."
+        ],
+        "Archibald T. Robertson": [
+            "The other \"co-workers\" (\u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03bf) here (Mark, Aristarchus, Demas, Luke) are all named in detail in Colossians 4:10-14 with kindly words. "
+        ],
+        "John Gill": [
+            "Marcus, Aristarchus, Demas, Lucas...Aristarchus was a Macedonian of Thessalonica... Demas is the same with him who is mentioned in 2 Timothy 4:10...Luke the Evangelist, the beloved physician...these the apostle styles, 'my fellow labourers.'",
+            "This shows the apostle's great humility, so to call them, when they were far from being on an equal foot with him in office, gifts, or usefulness.",
+            "The Christian salutations of these persons are sent to Philemon, with this view, to engage him the more to attend to the apostle's request, in which they all joined."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Philemon 24 mentions the co-workers of Paul, including Mark, Aristarchus, Demas, and Luke. These individuals are also named in Colossians with kind words. Mark, once a source of displeasure for Paul, had become profitable to him for the ministry. Demas, however, later deserted Paul for the love of the world. Despite being a prisoner, Paul and his companions, including these co-workers, continued to spread the Word of God. The zeal and self-sacrificing nature of these individuals made the two years in Rome an incredibly fruitful period for Paul. It is a reminder that one should not be too confident in the zeal of a single year and should pray for steadfastness in the face of worldly temptations. These co-workers of Paul, including Mark, Aristarchus, Demas, and Luke, send their Christian salutations to Philemon to support Paul's request.",
+            "wordCount": 141,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8219070693379122,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                37.51,
+                38.46,
+                24.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The co-workers of Paul mentioned in this verse, including Mark, Aristarchus, Demas, and Luke, played significant roles in spreading the Word of God. While Mark had previously caused displeasure to Paul, he later became profitable to him. Demas, however, deserted Paul for worldly pursuits. These individuals, along with others, displayed a zeal and self-sacrificing nature that made the period in Rome incredibly fruitful for Paul. Their Christian salutations to Philemon support Paul's request, showing the importance of their unity in fulfilling God's work.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.8092643457749407,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+            "commentatorTierSimilarities": [
+                33.92,
+                39.56,
+                26.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The co-workers of Paul, including Mark, Aristarchus, Demas, and Luke, were instrumental in spreading the Word of God. While Mark had previously caused displeasure to Paul, he later became profitable to him. Demas, however, deserted Paul for worldly pursuits. These individuals, along with others, displayed a zeal and self-sacrificing nature that made their time in Rome fruitful. Their Christian salutations to Philemon reinforce Paul's request, illustrating the importance of unity in fulfilling God's work.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.736706368391876,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.09,
+            "commentatorTierSimilarities": [
+                34.78,
+                39.06,
+                26.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The co-workers of Paul, including Mark, Aristarchus, Demas, and Luke, played key roles in spreading the Word of God. Mark, who once caused displeasure, later became profitable to Paul. However, Demas deserted Paul for worldly pursuits. These individuals, alongside others, displayed a zeal and self-sacrificing nature, making their time in Rome fruitful. Their Christian salutations to Philemon support Paul's request, emphasizing the significance of unity in fulfilling God's work.",
+            "wordCount": 73,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.7141786904874659,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.34,
+            "commentatorTierSimilarities": [
+                35.55,
+                38.78,
+                25.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The co-workers of Paul, including Mark, Aristarchus, Demas, and Luke, were instrumental in spreading the Word of God. Despite past conflicts, Mark became profitable to Paul in the ministry, while Demas unfortunately succumbed to worldly desires. Together, they demonstrated a fervent zeal and self-sacrificing attitude. During their time in Rome, they proved that even as prisoners, the Word of God was not bound. The salutations of these co-workers to Philemon further affirm their unity and support for Paul's request. Their partnership and commitment to the Gospel serve as powerful examples for believers today.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.5155093813783405,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "commentatorTierSimilarities": [
+                36.66,
+                38.93,
+                24.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

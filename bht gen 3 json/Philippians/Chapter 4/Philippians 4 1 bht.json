@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:56:38",
+    "verseRef": "Philippians 4:1",
+    "bestBHT": {
+        "bht": "Stand firm, even if you see these men rejoicing or speaking lightly, since we have such a glorious hope and expect such a change. The Philippians are my joy and crown, and I long for them. They are my chaplet of victory, showing that my work has not been in vain. Standing firm can be difficult when panic sets in, but remember that you are citizens of a heavenly country, and the trials and temptations of the world should not lead you astray from your true home.",
+        "wordCount": 87,
+        "quoteTokenProportion": 48.48,
+        "qualityScore": 1.6966011915242971,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.75,
+        "commentatorTierSimilarities": [
+            42.26,
+            34.59,
+            23.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Wherefore, since we have such a home, and look for such a Saviour, and expect such a change:\u2014 'so then, even if you see these men rejoicing, even if lightly spoken of, stand firm.'\" ",
+            "My joy and crown.\" ",
+            "He closes his teaching after his manner with more earnest exhortations, that he may fix it more firmly in men\u2019s minds. And he insinuates himself into their affections with tender appellations: which however are not used in flattery, but in sincere love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Wherefore\"; since we have such a glorious hope... (Philippians 3:20; Philippians 3:21).",
+            "Dearly beloved\u2014repeated again at the close of the verse, implying that his great love to them should be a motive to their obedience.",
+            "Longed for\u2014\"yearned after\" in your absence... (Philippians 3:21- :)."
+        ],
+        "Albert Barnes": [
+            "The accumulation of epithets of endearment in this verse shows his tender regard for them, and is expressive of his earnest solicitude for their welfare, and his deep conviction of their danger.",
+            "Our chief joy is in our friends; and the chief happiness of a minister of the gospel is in the pure lives of those to whom he ministers.",
+            "The church at Philippi was that in which the apostle gloried. He regarded it as a high honor to have been the means of founding such a church."
+        ],
+        "Marvin Vincent": [
+            "The Philippian converts are his chaplet of victory, showing that he has not run in vain.",
+            "Joy and crown.",
+            "So stand fast."
+        ],
+        "John Calvin": [
+            "He concludes his doctrine, as he is wont, with most urgent exhortations, that he may fix it the more firmly in the minds of men.",
+            "They had already, it is true, given some evidence of their constancy. Paul, however, well knowing human weakness, reckons that they have need of confirmation for the future.",
+            "And calling them by lovely and kind names, he endeavors to gain their hearts."
+        ],
+        "Philip Schaff": [
+            "Because you are citizens of a heavenly country, whom the trials and temptations of the world should not be able to draw into forgetfulness of your true home.\" ",
+            "They are his own, and treasured in his heart, the great desire of which is that he may see them once more.\" ",
+            "But it must not be attempted in your own strength. It must be in trust on Christ, and for the love of Christ, or, while thinking you stand, you will be in peril of falling."
+        ],
+        "Archibald T. Robertson": [
+            "Longed for (\u03b5\u03c0\u03b9\u03c0\u03bf\u03b8\u03b7\u03c4\u03bf). Late and rare verbal adjective (here alone in N.T.) from \u03b5\u03c0\u03b9\u03c0\u03bf\u03b8\u03b5\u03c9.\" ",
+            "So stand fast (\u03bf\u03c5\u03c4\u03bf \u03c3\u03c4\u03b7\u03ba\u03b5\u03c4\u03b5). Present active imperative of \u03c3\u03c4\u03b7\u03ba\u03c9 (late present from perfect \u03b5\u03c3\u03c4\u03b7\u03ba\u03b1 from \u03b9\u03c3\u03c4\u03b7\u03bc).\" ",
+            "Standing firm is difficult when a panic starts."
+        ],
+        "John Gill": [
+            "and they were his 'crown', as they were seals of his ministry",
+            "Christ is the only foundation where they can stand safe and sure",
+            "so stand fast in his grace, exercising the graces of faith, hope, and love upon him"
+        ],
+        "John Wesley": [
+            "So stand \u2014 As ye have done hitherto."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Wherefore, since we have such a home, and look for such a Saviour, and expect such a change, even if you see others rejoicing or speaking lightly, stand firm. You are my joy and crown, and I long for you. I have much love for you, and I want to urge you to obedience. The Philippians are my chaplet of victory, showing that my work has not been in vain. Stand firm, even though it may be difficult when panic sets in. You are citizens of a heavenly country, and the trials and temptations of the world should not draw you away from your true home.",
+            "wordCount": 106,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.5806352055932482,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.9,
+            "commentatorTierSimilarities": [
+                42.75,
+                36.6,
+                20.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Wherefore, since we have such a glorious hope and expect such a change, even if you see these men rejoicing or speaking lightly, stand firm. You are my joy and crown, and I long for you. The Philippians are my chaplet of victory, showing that my work has not been in vain. Stand firm, even though it may be difficult when a panic starts. You are citizens of a heavenly country, and the trials and temptations of the world should not draw you away from your true home.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.6244374379162276,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                44.64,
+                34.23,
+                21.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Wherefore, since we have such a glorious hope and expect such a change, even if you see these men rejoicing or speaking lightly, stand firm. You are my joy and crown, and I long for you. The Philippians are my chaplet of victory, showing that my work has not been in vain. Stand firm, even though it may be difficult when a panic starts. You are citizens of a heavenly country, and the trials and temptations of the world should not draw you away from your true home.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.6244374379162276,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                44.64,
+                34.23,
+                21.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stand firm, even if you see these men rejoicing or speaking lightly, since we have such a glorious hope and expect such a change. The Philippians are my joy and crown, and I long for them. They are my chaplet of victory, showing that my work has not been in vain. Standing firm can be difficult when panic sets in, but remember that you are citizens of a heavenly country, and the trials and temptations of the world should not lead you astray from your true home.",
+            "wordCount": 87,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.6966011915242971,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.75,
+            "commentatorTierSimilarities": [
+                42.26,
+                34.59,
+                23.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stand firm in your faith, even when faced with the rejoicing or mockery of others. The Philippians are my source of joy and pride, and I deeply desire their spiritual growth. They are a testament to my ministry, like a victory crown. It may be challenging to remain steadfast when panic arises, but remember that you belong to a heavenly kingdom. Do not let the trials and temptations of the world distract you from your ultimate home.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.6263051444444487,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.42,
+            "commentatorTierSimilarities": [
+                35.69,
+                40.82,
+                23.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

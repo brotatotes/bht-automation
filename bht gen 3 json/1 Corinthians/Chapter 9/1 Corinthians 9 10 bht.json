@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:09:01",
+    "verseRef": "1 Corinthians 9:10",
+    "bestBHT": {
+        "bht": "Does God say this for our sake? Yes, indeed, for our sakes it was written that he who plows should do so in hope, and the thresher should work with the hope of partaking in the fruit of his labor. The command against muzzling the ox was written on account of us, because just as the plowman and the thresher are entitled to enjoy the crops they work for, so too should the people support their minister and not let them labor without remuneration.",
+        "wordCount": 84,
+        "quoteTokenProportion": 57.63,
+        "qualityScore": 2.0461439049447048,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+        "commentatorTierSimilarities": [
+            31.9,
+            30.02,
+            38.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Or (the other alternative being rejected) on OUR account (i. e. on account of us ministers of the Gospel: not, of men in general) altogether (altogether, excluding entirely the other idea) doth he (or perhaps it, the law) say (this)? yea, for our sakes it (viz., 'Thou shalt not muzzle the ox,'&c.) was written...\" ",
+            "...because the plougher (not literal but spiritual, see below) ought to plough in hope, and the thresher (to thresh) in hope of partaking (of the crop).",
+            "The command (not to muzzle, &c.) was written on account of us (Christian teachers), because we ploughers (in the 'husbandry of God,' ch. iii. 9) ought to plough in hope,\u2014and we threshers (answering to the 'ox that treadeth out the corn') ought to work in hope of (as the ox) having a share.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Does he (the divine lawgiver) by all means say it for our sakes?",
+            "The obligation rests with the people not to let their minister labor without remuneration.",
+            "He that thresheth in hope should be partaker of his hope."
+        ],
+        "Albert Barnes": [
+            "The precept enjoined justice, equity, humanity; and that was more applicable to the case of the ministers of the gospel than to the case of oxen.",
+            "For (\u03bf\u0314\u0301\u03c4\u03b9 hoti) he that ploweth ought (\u03bf\u0313\u03c6\u03b5\u03b9\u0301\u03bb\u03b5\u03b9 opheilei) to plow in hope...it is as certainly reasonable that those who labor in God\u2019s husbandry, and who devote their strength to his service, should be encouraged with a reasonable prospect of success and support.",
+            "He that thresheth \u2018ought\u2019 to partake of his hope;\u201d that is, of the fruits of his hope, or of the result of his labor. It is fair and right that he should enjoy the fruits of his toil. So in God\u2019s husbandry; it is right and proper that they who toil for the advancement of his cause should be supported and rewarded."
+        ],
+        "Marvin Vincent": [
+            "Altogether. Better, as Rev., in margin, as He doubtless doth, or, as American Rev., assuredly.",
+            "Resting on hope.",
+            "He that thresheth in hope should be partaker of his hope."
+        ],
+        "John Calvin": [
+            "He that ploweth ought to plow in hope.",
+            "...the end of his labor is the hope of receiving the fruits.",
+            "The husbandman is said to be a partaker of his hope when he enjoys the produce which he has obtained when reaping, but hoped for when plowing."
+        ],
+        "Philip Schaff": [
+            "If we sowed unto you spiritual things, is it a great matter that we should reap your carnal things?\" ",
+            "What they owed to him as their spiritual father admitted of no comparison with anything they could do for him in things temporal.\" ",
+            "Though they might express it in the supply of his temporal wants."
+        ],
+        "Archibald T. Robertson": [
+            "He that plougheth (\u03bf \u03b1\u03c1\u03bf\u03c4\u03c1\u03b9\u03c9\u03bd). Late verb \u03b1\u03c1\u03bf\u03c4\u03c1\u03b9\u03b1\u03c9, to plough, for the old \u03b1\u03c1\u03bf\u03c9 from \u03b1\u03c1\u03bf\u03c4\u03c1\u03bf\u03bd (plough), in LXX and rare in papyri.",
+            "He that thresheth ought to thresh in hope of partaking.",
+            "The point is that all the workers (beast or man) share in the fruit of the toil."
+        ],
+        "John Gill": [
+            "God says this, or delivers out this law, forbidding the muzzling the ox, while it treads out the corn; not merely for the sake of the ox, but chiefly for the sake of men.\" ",
+            "Thou shalt not take the dam with the young; the intention of the command is, not to have mercy on birds, but for the sake of men.\" ",
+            "To teach men, that as any workmen are not to be deprived of proper sustenance, so neither they that labour in the word and doctrine."
+        ],
+        "John Wesley": [
+            "He who ploweth ought to plow in hope \u2014 Of reaping.",
+            "And he that thresheth in hope \u2014 Ought not to be disappointed, ought to eat the fruit of his labours.",
+            "And ought they who labour in God's husbandry."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Does God say this for our sake, us ministers of the Gospel who labor in the 'husbandry of God'? Yes, indeed, for our sakes it was written that he who plows should do so in hope, and the thresher should work with the hope of partaking in the fruit of his labor. The command against muzzling the ox was written on account of us, because just as the plowman and the thresher are entitled to enjoy the crops they work for, so too should the people support their minister and not let them labor without remuneration. Let those who labor in God's husbandry be encouraged by the hope of reaping spiritual and temporal rewards, for what they sow in spiritual things should surely be met with material support from those they serve.",
+            "wordCount": 133,
+            "quoteTokenProportion": 49.37,
+            "qualityScore": 2.1604637609963846,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.18,
+            "commentatorTierSimilarities": [
+                28.3,
+                35.08,
+                36.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Does God say this for our sake? Yes, indeed, for our sakes it was written that he who plows should do so in hope, and the thresher should work with the hope of partaking in the fruit of his labor. The command against muzzling the ox was written on account of us, because just as the plowman and the thresher are entitled to enjoy the crops they work for, so too should the people support their minister and not let them labor without remuneration.",
+            "wordCount": 84,
+            "quoteTokenProportion": 57.63,
+            "qualityScore": 2.0461439049447048,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+            "commentatorTierSimilarities": [
+                31.9,
+                30.02,
+                38.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The command against muzzling the ox was written on account of us, Christian teachers, because we should plow in hope and work in hope of having a share. The obligation rests with the people to not let their minister labor without remuneration. Just as the plougher and the thresher should be partakers of their hope, those who labor in God's husbandry should be encouraged with the hope of success and support.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.0343364292143744,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                32.79,
+                29.61,
+                37.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The command against muzzling the ox was written on account of us ministers of the Gospel, for we ploughers are called to plough in hope, and the threshers to work in hope of partaking in the fruit of our labor. It is the duty of the people to not let their minister toil without remuneration. Just as the ploughman and the thresher are entitled to share in the crops they work for, those who labor in God's husbandry should be supported and rewarded.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.073163152789259,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                30.14,
+                32.8,
+                37.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The command against muzzling the ox was written for our sake, ministers of the Gospel, as we ploughers are called to plough in hope and the threshers to work in hope of partaking in the fruit of our labor. It is the duty of the people to not let their minister toil without remuneration. Those who labor in God's husbandry should be supported and rewarded, just as the ploughman and the thresher are entitled to enjoy the crops they work for.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.0826296325347182,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.59,
+            "commentatorTierSimilarities": [
+                29.74,
+                32.72,
+                37.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

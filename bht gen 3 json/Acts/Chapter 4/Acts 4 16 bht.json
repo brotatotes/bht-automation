@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:25:54",
+    "verseRef": "Acts 4:16",
+    "bestBHT": {
+        "bht": "A notable and undeniable miracle had taken place in Jerusalem, leaving the rulers unable to deny its existence. The truth had been clearly revealed, exposing their deeds and making them averse to the light. Faced with this compelling evidence, they were left pondering their next steps, feeling the urgency of the situation. The miraculous sign had been so evident and widely known that it left no room for denial, with the man's long-standing ailment and his frequent presence by the temple serving as undeniable proof.",
+        "wordCount": 87,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.3084949782519673,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.85,
+        "commentatorTierSimilarities": [
+            46.66,
+            0.0,
+            53.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "A notable miracle . . . done by them is manifest to all . . . in Jerusalem; and we cannot deny it.\" ",
+            "And why should ye wish to deny it, O ye rulers, but that ye hate the light, and will not come to the light lest your deeds should be reproved?"
+        ],
+        "Archibald T. Robertson": [
+            "What shall we do?\" (\u03a4 \u03c0\u03bf\u03b9\u03b7\u03c3\u03c9\u03bc\u03b5\u03bd). Deliberative aorist active subjunctive (ingressive and urgent aorist).",
+            "Notable miracle (\u03b3\u03bd\u03c9\u03c3\u03c4\u03bf\u03bd \u03c3\u03b7\u03bc\u03b5\u03b9\u03bf\u03bd). Or sign. It was useless to deny it with the man there.",
+            "We cannot deny it (\u03bf\u03c5 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b5\u03b8\u03b1 \u03b1\u03c1\u03bd\u03b5\u03b9\u03c3\u03b8\u03b1). That is, it will do no good."
+        ],
+        "John Gill": [
+            "a notable miracle hath been done by them: they were convicted that a miracle was wrought",
+            "it is manifest to all them that dwell in Jerusalem: for the man having been so long lame, and had lain so long at the temple, where all the inhabitants frequently went",
+            "we cannot deny it; the fact is so certain and evident; nor hide it, as the Ethiopic version renders it, it being so notorious and public."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A miraculous event had taken place in Jerusalem, and the rulers could not deny its visibility. The light of truth had shone, exposing their deeds. Feeling convicted and perhaps even fearing exposure, they wondered what they should do. The undeniable sign had left them with no choice but to acknowledge it. The miracle had been evident to all dwellers of Jerusalem, as it involved a man who had been lame for a long time lying by the temple. The fact was so clear and widely known that there was no room for denial or concealment.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.1228724213337187,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.68,
+            "commentatorTierSimilarities": [
+                46.24,
+                0.0,
+                53.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A notable miracle had occurred in Jerusalem, leaving the rulers unable to deny it. The light of truth had shone upon them, revealing their actions, and provoking their aversion towards it. Faced with the undeniable evidence, they pondered what they should do, feeling the urgency of the situation. The miracle had been so widely known and evident that it left no room for denial, with the man's long-standing ailment and his frequent presence by the temple attesting to its undeniable nature.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.2011351658164986,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.28,
+            "commentatorTierSimilarities": [
+                46.22,
+                0.0,
+                53.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A notable and undeniable miracle had taken place in Jerusalem, leaving the rulers unable to deny its existence. The truth had been clearly revealed, exposing their deeds and making them averse to the light. Faced with this compelling evidence, they were left pondering their next steps, feeling the urgency of the situation. The miraculous sign had been so evident and widely known that it left no room for denial, with the man's long-standing ailment and his frequent presence by the temple serving as undeniable proof.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.3084949782519673,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.85,
+            "commentatorTierSimilarities": [
+                46.66,
+                0.0,
+                53.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A remarkable and undeniable miracle had transpired in Jerusalem, leaving the rulers unable to deny its occurrence. The light of truth had illuminated their actions, causing them to recoil from it. Faced with this irrefutable evidence, they pondered their next course of action, feeling a sense of urgency. The miraculous sign had been so openly apparent and widely known that there was no room for denial, with the man's longstanding ailment and close proximity to the temple serving as unquestionable proof.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.1427213488184067,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.34,
+            "commentatorTierSimilarities": [
+                46.71,
+                0.0,
+                53.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Jerusalem, an undeniable and noteworthy miracle took place, leaving the rulers unable to refute its reality. The bright light of truth illuminated their actions, causing them to harbor a disdain for it. Faced with this unmistakable evidence, they asked themselves what steps they should take, feeling the pressing need for a decision. The exceptional sign had been so clearly evident and widely acknowledged, leaving no room for denial, as the man's chronic lameness and his presence at the temple served as undeniable proof.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.1700871243528566,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.25,
+            "commentatorTierSimilarities": [
+                45.31,
+                0.0,
+                54.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

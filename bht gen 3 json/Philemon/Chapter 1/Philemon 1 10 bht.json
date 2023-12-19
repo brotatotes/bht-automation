@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:12:59",
+    "verseRef": "Philemon 10",
+    "bestBHT": {
+        "bht": "In the Greek, the name 'Onesimus' is skillfully put last, emphasizing a favorable description of him before mentioning the name that had fallen into bad repute. The verse does not sanction slavery but presents principles of love that steadily undermine and overthrow it without upheaving the existing political fabric. Onesimus, a runaway Phrygian slave, committed a crime and sought refuge in Rome. This delicate introduction subtly appeals to prejudices and emotions, underscoring the transformative power of conversion.",
+        "wordCount": 77,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.5858791630586948,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+        "commentatorTierSimilarities": [
+            48.0,
+            35.24,
+            16.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "",
+            "In the Greek, the name 'Onesimus' is skillfully put last, he puts first a favorable description of him before he mentions the name that had fallen into so bad repute with Philemon.",
+            "",
+            "Scripture does not sanction slavery, but at the same time does not begin a political crusade against it.",
+            "",
+            "It sets forth principles of love to our fellow men which were sure (as they have done) in due time to undermine and overthrow it, without violently convulsing the then existing political fabric, by stirring up slaves against their masters."
+        ],
+        "Albert Barnes": [
+            "Any other mode of bringing the case before the mind of Philemon might have repelled him.",
+            "The delicate address of the apostle in introducing the subject is better seen in the original than in our translation.",
+            "Was there ever more delicacy evinced in preparing the way for disarming one of prejudice, and carrying an appeal to his heart?"
+        ],
+        "Marvin Vincent": [
+            "Onesimus was a runaway Phrygian slave, who had committed some crime and therefore had fled from his master and hidden himself in Rome.",
+            "Under Roman law the slave was a chattel. The attitude of the law toward the slave was expressed in the formula servile caput nullum jus habet; the slave has no right. The master's power was unlimited.",
+            "The slave population was enormous. Some proprietors had as many as twenty thousand."
+        ],
+        "John Calvin": [
+            "Here it is of importance to consider how deep is his condescension, when he gives the name of 'son' to a slave, and a runaway, and a thief.",
+            "To renew a soul of man and form it anew to the image of God \u2014 is not a human work, and it is of this spiritual regeneration that he now speaks.",
+            "When he says that he had begotten him in his bonds, this circumstance adds weight to the commendation."
+        ],
+        "Philip Schaff": [
+            "He puts the tenderest word in the forefront of his petition, and speaks of the fugitive slave as his child, before he mentions him by name.\" ",
+            "Conversion is so often spoken of in the New Testament as a new birth, that it is not surprising that the apostle employs the figure in speaking of one who had been won to Christ by his ministry.\" ",
+            "The name is Greek, and signifies \u2018profitable.\u2019 The Jews, as may be seen all through the Old Testament, were specially regardful of the meaning of names."
+        ],
+        "Archibald T. Robertson": [
+            "For my child. Tender and affectionate reference to Onesimus as his spiritual child.",
+            "Whom I have begotten in my bonds. Paul is evidently proud of winning Onesimus to Christ though a prisoner himself."
+        ],
+        "John Gill": [
+            "I beseech thee for my son Onesimus, whom I have begotten in my bonds...",
+            "...the apostle was the efficient cause of it...",
+            "...the bonds of the apostle were the means of the spread of it..."
+        ],
+        "John Wesley": [
+            "Whom I have begotten in my bonds \u2014 The son of my age."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The name Onesimus cleverly appears last in the Greek version of this verse, emphasizing a favorable description of him before addressing his notoriety with Philemon. The verse acknowledges slavery without promoting it, instead highlighting the power of love and its potential to transform societal structures. Onesimus, a Phrygian slave and runaway who sought refuge in Rome, becomes known as Paul's spiritual child. The delicate introduction of his case shows Paul's masterful approach, appealing both to Philemon's prejudices and his emotions. This mention of spiritual rebirth exemplifies the transformative nature of conversion.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.6066791593114838,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.76,
+            "commentatorTierSimilarities": [
+                36.83,
+                39.85,
+                23.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the Greek, the name 'Onesimus' is skillfully put last, emphasizing a favorable description before mentioning the name that had fallen into bad repute. The verse does not sanction slavery but sets forth principles of love that would eventually undermine and overthrow it. Onesimus, a runaway slave, becomes known as Paul's spiritual child. The delicate introduction of his case shows Paul's approach in appealing to emotions and confronting prejudices. This highlights the transformative power of conversion.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.48618051654246,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+            "commentatorTierSimilarities": [
+                43.66,
+                35.95,
+                20.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Greek, the name 'Onesimus' is skillfully put last, he puts first a favorable description of him before he mentions the name that had fallen into so bad repute with Philemon. Scripture does not sanction slavery, but at the same time does not begin a political crusade against it. It sets forth principles of love that were sure to undermine and overthrow it, without violently convulsing the existing political fabric. Onesimus was a runaway Phrygian slave, who had committed some crime and therefore had fled from his master and hidden himself in Rome.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.95,
+            "qualityScore": 1.7683675233045775,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                52.87,
+                29.55,
+                17.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the Greek, the name 'Onesimus' is skillfully put last, emphasizing a favorable description of him before mentioning the name that had fallen into bad repute. The verse does not sanction slavery but presents principles of love that steadily undermine and overthrow it without upheaving the existing political fabric. Onesimus, a runaway Phrygian slave, committed a crime and sought refuge in Rome. This delicate introduction subtly appeals to prejudices and emotions, underscoring the transformative power of conversion.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5858791630586948,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+            "commentatorTierSimilarities": [
+                48.0,
+                35.24,
+                16.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the Greek, the name 'Onesimus' cleverly appears last, emphasizing a favorable description of him before addressing his notoriety with Philemon. The verse acknowledges slavery without promoting it. Instead, it highlights principles of love that have the power to transform societal structures. Onesimus, a Phrygian slave and runaway who sought refuge in Rome, becomes known as Paul's spiritual child. The delicate introduction of his case shows Paul's masterful approach, appealing both to Philemon's prejudices and his emotions. This mention of spiritual rebirth exemplifies the transformative nature of conversion.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.5081769461488612,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.49,
+            "commentatorTierSimilarities": [
+                37.91,
+                38.42,
+                23.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

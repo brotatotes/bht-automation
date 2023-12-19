@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:16:46",
+    "verseRef": "Luke 8:56",
+    "bestBHT": {
+        "bht": "Jesus' command for the witnesses to keep the miracle of raising the child private was not obeyed, as we read in Matthew that the fame hereof went abroad into all that land. People were amazed to see the girl restored to life, walking, and eating in perfect health and strength. Although Christ desired for this miracle to remain hidden, its impact could not be contained, and the news spread throughout the entire region.",
+        "wordCount": 73,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.5790067726840227,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.84,
+        "commentatorTierSimilarities": [
+            58.1,
+            0.0,
+            41.9
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "56.] The injunction, however, was not observed; for we read in Matthew, \u201cthe fame hereof went abroad into all that land.\u201d"
+        ],
+        "John Gill": [
+            "At the miracle that was wrought, to see their child restored to life; to see her arise, walk, and eat, being in perfect health and strength\" ",
+            "Christ's meaning is, that he would not have them take any pains to publish this affair, or to make it more known than was necessary.",
+            "Keep them as private as they could."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Although Jesus commanded the witnesses to keep the miracle of raising the child from the dead private, this injunction was not observed. The fame of this miraculous event quickly spread throughout the land, as people marveled at the sight of the girl restored to life, walking, and eating in perfect health and strength. Despite Christ's intention for it to remain private, the impact of this extraordinary miracle could not be contained.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.4279260521873338,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.82,
+            "commentatorTierSimilarities": [
+                54.11,
+                0.0,
+                45.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Although Christ instructed witnesses to keep the miracle of raising the child from the dead private, this instruction was not followed. As recounted in Matthew, news of this incredible event quickly spread throughout the land. People were amazed to see the girl restored to life, walking, and eating in perfect health and strength. Even though Christ desired for this miracle to remain undisclosed, its profound impact could not be contained.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.148078659668375,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.52,
+            "commentatorTierSimilarities": [
+                51.68,
+                0.0,
+                48.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite Jesus' command for the witnesses to keep the miracle of raising the child from the dead private, the news of this extraordinary event quickly spread throughout the land, as stated in Matthew. People were astounded by the sight of the girl being restored to life, walking, and eating in perfect health and strength. Although Christ intended for this miracle to remain unknown, its profound impact could not be concealed.",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.0998594718771249,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.91,
+            "commentatorTierSimilarities": [
+                46.61,
+                0.0,
+                53.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' command for the witnesses to keep the miracle of raising the child private was not obeyed, as we read in Matthew that the fame hereof went abroad into all that land. People were amazed to see the girl restored to life, walking, and eating in perfect health and strength. Although Christ desired for this miracle to remain hidden, its impact could not be contained, and the news spread throughout the entire region.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5790067726840227,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.84,
+            "commentatorTierSimilarities": [
+                58.1,
+                0.0,
+                41.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Defying Jesus' request to keep the miracle of raising the child a secret, the news quickly spread throughout the land, as mentioned in Matthew that the fame hereof went abroad into all that land. The sight of the girl revived, walking, and eating in perfect health left people astounded. Despite Christ's intention for this extraordinary event to remain concealed, its impact was too profound, and it became widely known in the surrounding region.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.3521646557079205,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.3,
+            "commentatorTierSimilarities": [
+                65.08,
+                0.0,
+                34.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

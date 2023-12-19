@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 15:17:06",
+    "verseRef": "2 Corinthians 8:15",
+    "bestBHT": {
+        "bht": "Just as God provided an equal portion of manna to all the Israelites, regardless of their ability to gather much or little, Christians are encouraged to promote equality through their generosity. We should prioritize the comfort and necessities of our neighbors over our own luxuries, ensuring that none go without while others have excess. Ultimately, everything we obtain comes from God's arrangement and should be regarded as His bounty. Therefore, it is a privilege to share our blessings with those who have been less favored or successful.",
+        "wordCount": 88,
+        "quoteTokenProportion": 52.78,
+        "qualityScore": 1.7804187531917581,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+        "commentatorTierSimilarities": [
+            37.74,
+            37.37,
+            24.89
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "As God gave an equal portion of manna to all the Israelites, whether they could gather much or little; so Christians should promote by liberality an equality.\" ",
+            "Our luxuries should yield to our neighbor's comforts; and our comforts to his necessities.\" ",
+            "None should need the necessaries of life while others have superfluities."
+        ],
+        "Albert Barnes": [
+            "And such was their willingness to do good in this way, such their readiness to collect more than they knew would be demanded for their own use, and such the arrangement of Providence in furnishing it, that there was no want; and there was no more gathered than was needful to supply the demands of the whole.",
+            "By their skill, their health, their diligence, or by providential arrangements, they are eminently successful. Others are feeble, or sick, or aged, or destitute of skill, and are less successful. All that is obtained is by the arrangement of God. The health, the strength, the skill, the wisdom by which we are enabled to obtain it, are all his gift.",
+            "That which is thus honestly obtained, therefore, should be regarded as his bounty, and we should esteem it a privilege daily to impart to others less favored and less successful."
+        ],
+        "John Calvin": [
+            "Men do not live by bread alone, but are Divinely supported, by the secret influence of His will, who maintains and preserves all things that he has created.",
+            "The Lord has not prescribed to us an homer, or any other measure, according to which the food of each day is to be regulated, but he has enjoined upon us frugality and temperance, and has forbidden, that any one should go to excess, taking advantage of his abundance.",
+            "Let those, then, that have riches [...] consider that their abundance was not intended to be laid out in intemperance or excess, but in relieving the necessities of the brethren."
+        ],
+        "John Gill": [
+            "there is an universal providence of God which reaches to all creatures, even to the vegetable, to the birds of the air, and beasts of the field, to all the individuals of human nature, and to the bad among them as well as the good",
+            "nor should there be any anxious concern for the morrow",
+            "those Israelites who from a selfish covetous disposition, and distrust of divine Providence, left of their manna till the morning, 'it bred worms and stank' ... when covetous mortals lay up for themselves for time to come, and do not communicate to the necessities of others, such a practice breeds and produces worms, moth, and rottenness in their estates"
+        ],
+        "John Wesley": [
+            "As it is written, He that had gathered the most had nothing over; and he that had gathered the least did not lack \u2014 That is, in which that scripture is in another sense fulfilled. Exodus 16:18"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Just as God provided an equal portion of manna to all the Israelites, regardless of their ability to gather much or little, Christians are encouraged to promote equality through their generosity. We should prioritize the comfort and necessities of our neighbors over our own luxuries, ensuring that none go without while others have excess. Ultimately, everything we obtain comes from God's arrangement and should be regarded as His bounty. Therefore, it is a privilege to share our blessings with those who have been less favored or successful.",
+            "wordCount": 88,
+            "quoteTokenProportion": 52.78,
+            "qualityScore": 1.7804187531917581,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                37.74,
+                37.37,
+                24.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As God distributed an equal portion of manna to the Israelites, Christians are called to promote equality by practicing generosity. Our comfort and luxuries should give way to the needs of others. All that we possess is the result of God's arrangement, and we should consider it a privilege to share with those who are less fortunate. Therefore, let us prioritize the necessities of our neighbors, ensuring that no one lacks while others possess an abundance.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.6879175261312243,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+            "commentatorTierSimilarities": [
+                45.17,
+                30.98,
+                23.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As God gave an equal portion of manna to all the Israelites, whether they could gather much or little, Christians should promote by liberality an equality. Our luxuries should yield to our neighbor's comforts, and our comforts to his necessities. None should need the necessaries of life while others have superfluities. Therefore, let us practice generosity and prioritize the needs of others, recognizing that everything we obtain is a gift from God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.881395473245459,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+            "commentatorTierSimilarities": [
+                52.27,
+                25.92,
+                21.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as God gave an equal portion of manna to all the Israelites, Christians should promote equality through their generosity. Our luxuries should yield to our neighbor's comforts, and our comforts to their necessities. None should need the necessaries of life while others have superfluities. By considering our possessions as gifts from God, we should view it as a privilege to share with those who have been less favored or successful. Let us, therefore, prioritize the needs of our neighbors and practice generosity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.7249724265448458,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                51.37,
+                27.29,
+                21.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As God gave an equal portion of manna to all the Israelites, Christians should promote equality through their generosity. Our luxuries should yield to our neighbor's comforts, and our comforts to their necessities. None should need the necessaries of life while others have superfluities. By considering our possessions as gifts from God, we should view it as a privilege to share with those who have been less favored. Let us prioritize the needs of our neighbors and practice generosity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.7112260084964028,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                52.97,
+                25.31,
+                21.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

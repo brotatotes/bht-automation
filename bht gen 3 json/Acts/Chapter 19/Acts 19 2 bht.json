@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:33:29",
+    "verseRef": "Acts 19:2",
+    "bestBHT": {
+        "bht": "Paul questioned the believers if they received the Holy Spirit when they believed, implying that belief and the reception of the Holy Spirit do not always occur simultaneously. The believers responded that they hadn't even heard about the Holy Spirit, indicating their limited understanding of John's message and the presence of the Holy Spirit on earth. This suggests that receiving the Holy Spirit is not dependent on having a comprehensive knowledge of religious doctrines, as God can work in the hearts and lives of sinners in ways that may surpass their understanding.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 2.5689759451884093,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.76,
+        "commentatorTierSimilarities": [
+            33.06,
+            38.88,
+            28.06
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Did ye receive the Holy Ghost when ye became believers? i.e. 'on your becoming believers, had ye the gifts of the Spirit conferred on you?'",
+            "Our reception into the faith was unaccompanied by any preaching of the office or the gifts of the Spirit,\u2014our baptism was not followed by any imparting of His gifts: we did not so much as hear Him mentioned.",
+            "The stress of the sentence is on hearing: so far from receiving the Holy Ghost, they did not even hear of His existence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Received ye the Holy Ghost when ye believed?\" implying, certainly, that the one did not of necessity carry the other along with it.",
+            "We did not even hear whether the Holy Ghost was (given).",
+            "That the word 'given' is the right supplement, as in :-, seems plain from the nature of the case."
+        ],
+        "Albert Barnes": [
+            "Paul would not doubt that, if they had 'believed,' they had received the ordinary converting influences of the Holy Spirit.",
+            "It was natural for Paul to ask whether this evidence of the divine favor has been granted to them.",
+            "God may often produce important changes in the hearts and lives of sinners, even where they have no clear and systematic views of religious doctrines."
+        ],
+        "Marvin Vincent": [
+            "Did ye receive the Holy Ghost when ye believed?\" (Rev., rightly, Did ye receive the Holy Ghost when ye believed?) ",
+            "We did not hear; referring back to the time of their beginning.\" ",
+            "The words, therefore, are to be explained, not of their being unaware of the existence of the Holy Ghost, but of his presence and baptism on earth."
+        ],
+        "John Calvin": [
+            "But now upon this interrogation of Paul ariseth a question, whether the Spirit were common to all everywhere at that time?",
+            "For it appeareth by Paul himself that this was a sign and token of the grace of God to establish the credit of doctrine.",
+            "Wherefore, no marvel if Paul wonder that the faithful are ignorant of such glory of Christ, which God would have to be apparent everywhere at that time."
+        ],
+        "Philip Schaff": [
+            "Did ye receive the Holy Ghost when ye believed?\" ",
+            "'On the contrary, we did not' (at the time of our baptism) 'so much as hear whether the Holy Ghost was given.'\" ",
+            "No Jew and the majority, though perhaps not all, of John\u2019s disciples would have been Jews but had heard of the Holy Spirit... No Israelite could possibly have been unfamiliar with the name of the 'Holy Spirit.'"
+        ],
+        "Archibald T. Robertson": [
+            "Did ye receive the Holy Spirit when ye believed?\" ",
+            "Nay, we did not so much as hear whether the Holy Spirit was.\" ",
+            "Plain proof that they knew John's message poorly."
+        ],
+        "John Gill": [
+            "They knew that there were prophecies in the Old Testament, concerning the effusion of the Spirit in the last days, in the days of the Messiah; but they had not heard that these had had their accomplishment.",
+            "They did not know that the Holy Ghost was yet given.",
+            "We have not so much as heard whether there be any Holy Ghost."
+        ],
+        "John Wesley": [
+            "Have ye received the Holy Ghost?",
+            "We have not so much as heard - Whether there be any such gifts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers were asked by Paul if they had received the Holy Spirit when they believed, emphasizing the question of whether the gifts of the Spirit had been conferred upon them. However, they responded that they had not even heard about the Holy Spirit. This lack of knowledge shows their limited understanding of John's message and suggests that they were unaware of the presence and baptism of the Holy Spirit on earth. It is important to note that receiving the Holy Spirit is not always accompanied by a clear understanding of religious doctrines, as God can work in the hearts and lives of sinners even without such systematic knowledge.",
+            "wordCount": 110,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.5531061775885844,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.23,
+            "commentatorTierSimilarities": [
+                33.31,
+                36.45,
+                30.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul questioned the believers if they had received the Holy Spirit when they believed, highlighting the possibility that the gifts of the Spirit may not have been conferred upon them. However, they replied that they hadn't even heard of the existence of the Holy Spirit. This shows their limited understanding of John's message and indicates that they were unaware of the Holy Spirit's presence and baptism on earth. It is important to note that receiving the Holy Spirit does not always require a comprehensive knowledge of religious doctrines, as God can bring about transformative changes in the hearts and lives of sinners without such understanding.",
+            "wordCount": 108,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 2.551414800482905,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.17,
+            "commentatorTierSimilarities": [
+                33.2,
+                37.46,
+                29.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul questioned the believers if they received the Holy Spirit when they believed, suggesting that the reception of the Spirit does not always accompany belief. The believers responded that they hadn't even heard about the Holy Spirit, indicating their limited knowledge of John's message and the presence of the Holy Spirit on earth. This highlights the possibility of experiencing the transforming work of the Holy Spirit even without a deep understanding of religious doctrines. God can bring about significant changes in the lives of sinners even when their knowledge is incomplete.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.280196595312471,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.16,
+            "commentatorTierSimilarities": [
+                31.43,
+                40.29,
+                28.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul questioned the believers if they received the Holy Spirit when they believed, implying that belief and the reception of the Holy Spirit do not always occur simultaneously. The believers responded that they hadn't even heard about the Holy Spirit, indicating their limited understanding of John's message and the presence of the Holy Spirit on earth. This suggests that receiving the Holy Spirit is not dependent on having a comprehensive knowledge of religious doctrines, as God can work in the hearts and lives of sinners in ways that may surpass their understanding.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.5689759451884093,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.76,
+            "commentatorTierSimilarities": [
+                33.06,
+                38.88,
+                28.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul questioned the believers if they had received the Holy Spirit when they believed, emphasizing the possibility that the gifts of the Spirit had not been conferred upon them. Their response revealed that they hadn't even heard about the Holy Spirit's existence, indicating their limited knowledge of His presence and baptism on earth. This lack of understanding highlights the fact that receiving the Holy Spirit doesn't always require a comprehensive grasp of religious doctrines, as God can transform the hearts and lives of sinners even without that knowledge.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.478442093853821,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.75,
+            "commentatorTierSimilarities": [
+                32.59,
+                37.4,
+                30.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:16:11",
+    "verseRef": "Luke 7:18",
+    "bestBHT": {
+        "bht": "The disciples of John came to him, sharing news about the works of Christ, particularly highlighting the remarkable miracle in Nain. These reports reached John while he was imprisoned, resulting in an exchange between Luke 7:18-35 and Matthew 11:2-19, representing a portion of non-Marcan material known as Q. It is apparent that the disciples, feeling envious and dissatisfied, did not commend Christ for these miracles, but rather conveyed their grievance that John, their esteemed teacher, was being overshadowed by Jesus, seeking greater recognition for him.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.5772491249039522,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+        "commentatorTierSimilarities": [
+            24.65,
+            31.78,
+            43.56
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All these things here may extend very wide.",
+            "So may 'the works of Christ' in Matthew.",
+            "On the common parts, see notes on Matthew, where I have discussed at length the probable reason of the enquiry."
+        ],
+        "Philip Schaff": [
+            "The disciples of John showed him.\" ",
+            "All these things.\" ",
+            "Probably with special reference to the last and greatest miracle at Nain."
+        ],
+        "Archibald T. Robertson": [
+            "Such news was bound to come to the ears of the Baptist languishing in the dungeon of Machaerus.",
+            "Luke 7:18-35 runs parallel with Matthew 11:2-19, a specimen of Q, the non-Marcan portion of Matthew and Luke.",
+            "a specimen of Q, the non-Marcan portion of Matthew and Luke."
+        ],
+        "John Gill": [
+            "The miracles that were wrought by Christ; particularly the healing of the centurion's servant, and the raising from the dead the widow of Naim's son.",
+            "John was now in prison, when these his disciples came and related these things to him.",
+            "they spoke of them, not as commending Christ for them; but as envying, grieving, and complaining, that he carried away all the honour and glory from John their master, for whom they had the greatest regard."
+        ],
+        "John Wesley": [
+            "Matthew 11:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples of John came to him and shared all these things, which could encompass a wide range of works performed by Christ, similar to what is described in Matthew. It is likely that these disciples, aware of John's imprisonment, brought these reports to him, particularly highlighting the most recent and notable miracle in Nain. The parallel account of Luke 7:18-35 in Matthew 11:2-19 is part of Q, the non-Marcan portion of the Gospels of Matthew and Luke. It seems that John's disciples mentioned these events with a mix of envy, grief, and complaint, as they saw the attention and glory being directed towards Jesus instead of their own revered master.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.6004657742829842,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+            "commentatorTierSimilarities": [
+                30.72,
+                27.28,
+                41.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples of John brought him news of the wide range of works performed by Christ, possibly with a special mention of the remarkable miracle in Nain. These reports were likely meant to reach John, who was imprisoned at the time. The parallel account in Matthew 11:2-19 serves as a sample of Q, a shared non-Marcan portion of Matthew and Luke. It appears that John's disciples, though not commending Christ, expressed envy and grief, feeling that the attention and glory should belong to their revered master instead.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.4073725562698178,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.14,
+            "commentatorTierSimilarities": [
+                31.47,
+                26.49,
+                42.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples of John reported to him about the various works of Christ, possibly focusing on the powerful miracle in Nain. These accounts were likely brought to John while he was imprisoned, as a way to keep him informed. The parallel passage in Matthew 11:2-19 is part of the non-Marcan material found in Matthew and Luke known as Q. It is evident that John's disciples, rather than praising Jesus, expressed envy and disappointment, feeling that John should receive more recognition and honor.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.4460443317997593,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.42,
+            "commentatorTierSimilarities": [
+                29.78,
+                28.86,
+                41.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples of John informed him about the variety of works that Christ had been doing, likely emphasizing the remarkable miracle performed in Nain. These reports were brought to John, who was imprisoned at the time. The correspondence between Luke 7:18-35 and Matthew 11:2-19 demonstrates the shared material known as Q, existing outside of Mark's Gospel. It is evident that the disciples, feeling envious and discontented, did not praise Christ for these acts but instead felt that John should have been given more recognition and praise.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.3533241898499435,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.34,
+            "commentatorTierSimilarities": [
+                27.47,
+                29.74,
+                42.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples of John came to him, sharing news about the works of Christ, particularly highlighting the remarkable miracle in Nain. These reports reached John while he was imprisoned, resulting in an exchange between Luke 7:18-35 and Matthew 11:2-19, representing a portion of non-Marcan material known as Q. It is apparent that the disciples, feeling envious and dissatisfied, did not commend Christ for these miracles, but rather conveyed their grievance that John, their esteemed teacher, was being overshadowed by Jesus, seeking greater recognition for him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.5772491249039522,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+            "commentatorTierSimilarities": [
+                24.65,
+                31.78,
+                43.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

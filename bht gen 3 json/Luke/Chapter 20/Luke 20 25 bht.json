@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:22:11",
+    "verseRef": "Luke 20:25",
+    "bestBHT": {
+        "bht": "This profound addition to the maxim dissolved any snare of sedition, as it made it impossible to dispute. It serves as a clear and weighty instruction, urging us to acknowledge our earthly responsibilities by rendering unto Caesar what belongs to him, while also reminding us to prioritize our devotion to God. With its remarkable fulness, brevity, and clarity, this statement offers invaluable wisdom on fulfilling our obligations to both earthly authority and our heavenly Father.",
+        "wordCount": 75,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.0948697029237417,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.75,
+        "commentatorTierSimilarities": [
+            78.12,
+            0.0,
+            21.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Putting it in this general form, it was impossible for sedition itself to dispute it, and yet it dissolved the snare.",
+            "How much there is in this profound but to them startling addition to the maxim...",
+            "...how incomparable is the whole for fulness, brevity, clearness, weight!"
+        ],
+        "John Gill": [
+            "Render therefore unto Caesar the things which be Caesar's...",
+            "Give to the king what is the king's...",
+            "...and unto God the things which be God's"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Render unto Caesar the things which be Caesar's and unto God the things which be God's. This profound addition to the maxim is a powerful reminder of the importance of acknowledging and fulfilling our earthly responsibilities. It dissolves any snare of sedition, as it is impossible for anyone to dispute this general form. This verse is a clear and weighty instruction, reminding us to give to the worldly authority what belongs to them, while also emphasizing the need to prioritize our devotion to God. It is a concise statement that carries remarkable wisdom and depth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.0632664626722304,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.7,
+            "commentatorTierSimilarities": [
+                57.99,
+                0.0,
+                42.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This profound addition to the maxim dissolved any snare of sedition, as it made it impossible to dispute. It serves as a clear and weighty instruction, urging us to acknowledge our earthly responsibilities by rendering unto Caesar what belongs to him, while also highlighting the importance of giving to God what rightfully belongs to Him. With its unsurpassed fulness, brevity, and clarity, this verse compels us to recognize and fulfill our obligations both to earthly authority and to our heavenly Father.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.155463731927505,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.76,
+            "commentatorTierSimilarities": [
+                71.61,
+                0.0,
+                28.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This profound addition to the maxim dissolved any snare of sedition, as it made it impossible to dispute. It serves as a clear and weighty instruction, urging us to acknowledge our earthly responsibilities by rendering unto Caesar what belongs to him, while also reminding us to prioritize our devotion to God. With its remarkable fulness, brevity, and clarity, this statement offers invaluable wisdom on fulfilling our obligations to both earthly authority and our heavenly Father.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.0948697029237417,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.75,
+            "commentatorTierSimilarities": [
+                78.12,
+                0.0,
+                21.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This profound addition to the maxim dissolved any snare of sedition, as it made it impossible for dispute. It is a clear and weighty instruction, urging us to acknowledge our earthly responsibilities by rendering unto Caesar what belongs to him. Incomparable in its fulness, brevity, and clarity, this statement provides invaluable wisdom on fulfilling our obligations to both earthly authority and our heavenly Father. Let us remember to give to the worldly governing powers what rightfully belongs to them, and also prioritize our devotion to God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.0684937573912592,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.87,
+            "commentatorTierSimilarities": [
+                66.56,
+                0.0,
+                33.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This profound addition to the maxim dissolved any snare of sedition, as it made it impossible to dispute. It is a clear and weighty instruction, urging us to acknowledge our earthly responsibilities by rendering unto Caesar what belongs to him. Incomparable in its fulness, brevity, and clarity, this statement provides invaluable wisdom on fulfilling our obligations to both worldly authority and our heavenly Father. Let us remember to give to the governing powers what they are entitled to, while also prioritizing our devotion to God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.0640959091595312,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.73,
+            "commentatorTierSimilarities": [
+                65.71,
+                0.0,
+                34.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

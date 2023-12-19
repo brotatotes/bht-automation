@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:23:45",
+    "verseRef": "Luke 23:29",
+    "bestBHT": {
+        "bht": "In the depths of His suffering, Jesus speaks prophetically to the women of Jerusalem, hinting at a time when they will weep not for Him but for themselves and their children. These women, who are in Jerusalem and part of the crowd, are mentioned specifically, while His disciples, who will not be present, are excluded. Quoting from Hosea 10:8, Jesus pronounces a woe upon the barren and expresses sympathy for childless women, foreshadowing the upcoming judgment and the consequences of their war against God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 1.762934097032197,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+        "commentatorTierSimilarities": [
+            30.76,
+            41.56,
+            27.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Between this and then, would be time for that effectual weeping, which might save both themselves and their children.",
+            "These few are remarkably hinted at in the change to the third person, which excludes them\u2014they shall say, i.e. not \u2018men in general,\u2019 nor \u2018My enemies,\u2019 but \u2018the impenitent among you.",
+            "Those who weep merely tears of idle sympathy for Me, and none of repentance for themselves;\u2014those who are in Jerusalem and its misery, which My disciples will not be."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "27-31. women\u2014not the precious",
+            "\tGalilean women (Luke 23:49), but",
+            "\tpart of the crowd."
+        ],
+        "John Calvin": [
+            "A calamity which is not usual, but fearful and unheard of, is at hand, in which will be perceived, at a glance, the vengeance of God.",
+            "It would be much more desirable that the mountains should fall upon them, and crush them, or that the earth should open and swallow them up, than that they should pine away amidst the cruel torments of a lingering destruction.",
+            "Christ taught by these words that the Jews would at length feel that they had made war, not with a mortal man, but with God."
+        ],
+        "Philip Schaff": [
+            "Bays are coming. As certainly coming, as He was going to death.",
+            "They shall say. \u2018They\u2019 refers to those in Jerusalem, especially the women in Jerusalem, at the time foretold. His disciples would not be there, and there is here implied a warning to escape. But the whole tone of the prediction implies also that few of them do so.",
+            "Blessed, etc. A fearful woe is introduced by the word \u2018Blessed.\u2019 Hosea 9:12-16, contains the same thought as this verse. The days will be so terrible that it will be a curse to be a mother instead of a blessing. When being a mother is reckoned a curse, the days are indeed evil!"
+        ],
+        "Archibald T. Robertson": [
+            "A beatitude to the barren, the opposite of the hopes of Jewish mothers.",
+            "Childless women are commiserated.",
+            "Quotation from Hosea 10:8."
+        ],
+        "John Gill": [
+            "Happy will those persons be who have no children, to be starved to death, for want of bread; or to be killed with the sword before their eyes, which must greatly enhance their own miseries.",
+            "Every one looked with horror upon it, and with the same compassion, as if they had done it themselves.",
+            "Blessed are the barren, and the wombs that never bare, who, though starving themselves, were under no temptation to do such a detestable action."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of His suffering, Jesus prophetically speaks to the women of Jerusalem, pointing to a future time when they would weep not for Him, but for themselves and their children. This change in perspective from the use of the third person excludes those who are impenitent and merely sympathize with His situation. These women, who are in Jerusalem and part of the crowd, are specifically mentioned, while His disciples, who would not be there, are not included. In quoting from Hosea 10:8, Jesus pronounces a woe upon the barren and commiserates with childless women, hinting at the severe judgment to come. These days will be so terrible that being a mother will be seen as a curse instead of a blessing, marking the realization of God's vengeance and the consequence of the Jewish people's war against Him.",
+            "wordCount": 140,
+            "quoteTokenProportion": 40.45,
+            "qualityScore": 1.590773142289695,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.24,
+            "commentatorTierSimilarities": [
+                29.71,
+                39.38,
+                30.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the depths of His suffering, Jesus speaks prophetically to the women of Jerusalem, hinting at a time when they will weep not for Him but for themselves and their children. These women, who are in Jerusalem and part of the crowd, are mentioned specifically, while His disciples, who will not be present, are excluded. Quoting from Hosea 10:8, Jesus pronounces a woe upon the barren and expresses sympathy for childless women, foreshadowing the upcoming judgment and the consequences of their war against God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.762934097032197,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+            "commentatorTierSimilarities": [
+                30.76,
+                41.56,
+                27.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of His suffering, Jesus prophetically speaks to the women of Jerusalem, pointing to a future time when they would weep not for Him, but for themselves and their children. This change in perspective excludes those who are impenitent and sympathize with His situation. The women, who are part of the crowd in Jerusalem, will experience tremor and lamentation. Quoting from Hosea 10:8, Jesus warns of the severe judgment to come, portraying the days ahead as so terrible that being a mother will be seen as a curse instead of a blessing.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.519705470276001,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                28.45,
+                41.31,
+                30.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of His suffering, Jesus prophetically addresses the women of Jerusalem, foreshadowing a future where they will weep not for Him, but for themselves and their children. This change in perspective denotes a distinction between the impenitent and the sympathetic. The women, who are part of the crowd in Jerusalem, will bear witness to the days of calamity, while His disciples remain absent. Quoting from Hosea 10:8, Jesus warns of the impending judgment, highlighting the distressing nature of the upcoming days and the reversal of blessings for mothers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.4915792419418388,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.94,
+            "commentatorTierSimilarities": [
+                29.33,
+                45.21,
+                25.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in the midst of His suffering, speaks prophetically to the women of Jerusalem, revealing that a time will come when they will weep not for Him, but for themselves and their children. This change in perspective excludes the impenitent and emphasizes the women who are present in Jerusalem. Quoting from Hosea 10:8, Jesus pronounces a woe upon the barren and extends sympathy to childless women, signifying the impending judgment that will turn motherhood from a blessing into a curse.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.66407037082814,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+            "commentatorTierSimilarities": [
+                32.18,
+                40.95,
+                26.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

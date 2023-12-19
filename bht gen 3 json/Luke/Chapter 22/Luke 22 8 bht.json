@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:22:43",
+    "verseRef": "Luke 22:8",
+    "bestBHT": {
+        "bht": "It was a solemn message, and for it were chosen the two chief Apostles. The word passover in this context is used either of the meal, the feast day, the whole period (including the unleavened bread). Jesus sent them, as the Syriac, Persic, and Ethiopic versions express it; these were two favourite disciples of Christ. Go and prepare us the passover, that we may eat it together. So servants used to be sent, to go and prepare the passover for their masters.",
+        "wordCount": 82,
+        "quoteTokenProportion": 49.12,
+        "qualityScore": 2.190601261896229,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.18,
+        "commentatorTierSimilarities": [
+            41.1,
+            0.0,
+            58.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was a solemn message, and for it were chosen the two chief Apostles.\" ",
+            "In the report of St. Matthew, the suggestion is represented as coming from the disciples themselves."
+        ],
+        "Archibald T. Robertson": [
+            "The word passover in this context is used either of the meal, the feast day, the whole period (including the unleavened bread).\" ",
+            "Eat the passover\" can refer to the meal as here or to the whole period of celebration.",
+            "The word passover...can refer to the meal as here or to the whole period of celebration (John 18:28)."
+        ],
+        "John Gill": [
+            "Jesus sent them, as the Syriac, Persic, and Ethiopic versions express it; these were two favourite disciples of Christ.\" ",
+            "Go and prepare us the passover, that we may eat it together.\" ",
+            "So servants used to be sent, to go and prepare the passover for their masters."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It was a solemn message, and for it were chosen the two chief Apostles. The suggestion is represented as coming from the disciples themselves. The word passover in this context is used either of the meal, the feast day, the whole period (including the unleavened bread). Jesus sent them, as the Syriac, Persic, and Ethiopic versions express it; these were two favourite disciples of Christ. Go and prepare us the passover, that we may eat it together. So servants used to be sent, to go and prepare the passover for their masters.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.1366752794272132,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.39,
+            "commentatorTierSimilarities": [
+                43.9,
+                0.0,
+                56.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It was a solemn message, and for it were chosen the two chief Apostles. The word passover in this context is used either of the meal, the feast day, the whole period (including the unleavened bread). Jesus sent them, as the Syriac, Persic, and Ethiopic versions express it; these were two favourite disciples of Christ. Go and prepare us the passover, that we may eat it together. So servants used to be sent, to go and prepare the passover for their masters.",
+            "wordCount": 82,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.190601261896229,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.18,
+            "commentatorTierSimilarities": [
+                41.1,
+                0.0,
+                58.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Luke 22:8, it is a solemn message, as the two chief Apostles are chosen to convey it. The disciples themselves suggest the preparation of the passover. The word passover can refer to the meal or the whole period of celebration. Jesus sends his favored disciples to prepare the passover so they can eat it together. This act of sending servants to prepare the passover for their masters was a common practice.",
+            "wordCount": 71,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.1252555801703776,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+            "commentatorTierSimilarities": [
+                45.96,
+                0.0,
+                54.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, two of the chief Apostles are chosen to deliver a solemn message. The disciples themselves suggest the preparation of the passover, which can refer to either the meal or the entire period of celebration. Jesus sends his favored disciples to go and prepare the passover so that they can eat it together. This act of sending servants to prepare the passover is a common practice.",
+            "wordCount": 68,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.112234889614293,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                45.53,
+                0.0,
+                54.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It was a solemn message, chosen to be delivered by the two chief Apostles. As suggested by the disciples themselves, the passover was to be prepared. The word passover can refer to the meal or the entire period of celebration. Jesus sent his favored disciples to go and prepare it so that they can eat together. This act of sending servants to prepare the passover was a common practice in those times.",
+            "wordCount": 72,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.0587644660548716,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.79,
+            "commentatorTierSimilarities": [
+                48.27,
+                0.0,
+                51.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

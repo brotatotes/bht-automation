@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:12:27",
+    "verseRef": "1 Corinthians 12:7",
+    "bestBHT": {
+        "bht": "To each individual is given the manifestation of the Spirit with a view to profit. This manifestation includes gifts, ministrations, and operations, which are bestowed on each person variably. All these gifts flow from the one God, Lord, and Spirit, but the way in which the Spirit acts varies in each individual. The Spirit acts as He is hidden in Himself. These gifts are given with a view to the profit of the whole body.",
+        "wordCount": 75,
+        "quoteTokenProportion": 51.16,
+        "qualityScore": 2.1861035304830168,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+        "commentatorTierSimilarities": [
+            43.06,
+            27.71,
+            29.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To each individual, however, is given the manifestation of the Spirit with a view to profit.\" ",
+            "The manifestation of the Spirit... is a general term including gifts, ministrations, and operations.",
+            "Through the workings of One God, One Lord, One Spirit, [gifts] are bestowed variously on each man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though all the gifts flow from the one God, Lord, and Spirit, the 'manifestation' by which the Spirit acts...varies in each individual.",
+            "The Spirit acts as He is hidden in Himself.",
+            "The gifts are given...with a view to the profit of the whole body."
+        ],
+        "Albert Barnes": [
+            "All that he produces in the mind is a manifestation of his character and work, in the same way as the works of God in the visible creation are a manifestation of his perfections.",
+            "The Spirit of God gives to each Christian such graces and endowments as he pleases; that he distributes his gifts to all, not equally, but in a manner which he shall choose; and that the design of this is, that all Christians should use his endowments for the common good.",
+            "They are bestowed not on all equally, but in such a manner as shall best subserve the interests of piety and the church, and as shall tend harmoniously to carry on the great interests of religion, and further the welfare of the whole Christian body."
+        ],
+        "John Calvin": [
+            "He does not confer them upon us in vain, nor does he intend that they shall serve the purpose of ostentation.",
+            "The manifestation of the Spirit may be taken in a passive as well as in an active sense - in a passive sense, because wherever there is prophecy, or knowledge, or any other gift, the Spirit of God does there manifest himself - in an active sense, because the Spirit of God, when he enriches us with any gift, unlocks his treasures, for the purpose of manifesting to us those things that would otherwise have been concealed and shut up.",
+            "The view taken by Chrysostom is rather harsh and forced - that this term is used, because unbelievers do not recognize God, except by visible miracles."
+        ],
+        "Archibald T. Robertson": [
+            "Manifestation (\u03c6\u03b1\u03bd\u03b5\u03c1\u03c9\u03c3\u03b9\u03c2). Late word, in papyri, in N.T. only here and 2 Corinthians 4:2, from \u03c6\u03b1\u03bd\u03b5\u03c1\u03bf\u03c9, to make manifest (\u03c6\u03b1\u03bd\u03b5\u03c1\u03bf\u03c2).\" ",
+            "Each instance of the whole (verse 1 Corinthians 12:6) is repeatedly given (\u03b4\u03b9\u03b4\u03bf\u03c4\u03b1, present passive indicative of \u03b4\u03b9\u03b4\u03c9\u03bc).\" ",
+            "To profit withal (\u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf \u03c3\u03c5\u03bc\u03c6\u03b5\u03c1\u03bf\u03bd). See on 1 Corinthians 6:12; 1 Corinthians 10:23; 1 Corinthians 10:33 for Paul's guiding principle in such matters."
+        ],
+        "John Gill": [
+            "Not that which the Spirit manifests, as the grace and love of God, an interest in Christ, the doctrines of the Gospel, and the things of another world; but that which manifests that a man has the Spirit of God...",
+            "the least measure of which, as being able to say that Jesus is Lord, shows that a man has the Spirit of God; or rather the gifts of the Spirit, ordinary or extraordinary, which are such as manifestly declare their author...",
+            "but for profit and advantage, and that not merely private, or a man's own, but public, the good of the whole community or church, to which the least grace or gift, rightly used, may contribute."
+        ],
+        "John Wesley": [
+            "The manifestation \u2014 The gift whereby the Spirit manifests itself.",
+            "Is given to each \u2014 For the profit of the whole body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Each individual is given the manifestation of the Spirit with a view to profit. This manifestation encompasses the various gifts, ministrations, and operations that are bestowed differently upon each person. Though these gifts flow from the same God, Lord, and Spirit, the way in which the Spirit acts varies in each individual. The purpose of these gifts is not for ostentation or vain display, but rather for the profit and advantage of the whole body of believers. The Spirit unlocks His treasures for the purpose of revealing to us things that would have otherwise remained concealed. Each gift, no matter how small, can contribute to the good of the entire community or church.",
+            "wordCount": 113,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 2.1060991371279596,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                36.89,
+                32.48,
+                30.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Each individual is given the manifestation of the Spirit with a view to profit. These manifestations, including gifts and operations, are bestowed differently on each person by One God, Lord, and Spirit. The gifts are given not for vanity but for the profit and advantage of the whole body of believers. The Spirit reveals these treasures to us, unlocking what would have remained concealed. Every gift, no matter how small, contributes to the good of the entire community or church.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.0661715519394614,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                39.06,
+                29.8,
+                31.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To each individual is given the manifestation of the Spirit with a view to profit. This manifestation includes gifts, ministrations, and operations, which are bestowed on each person variably. All these gifts flow from the one God, Lord, and Spirit, but the way in which the Spirit acts varies in each individual. The Spirit acts as He is hidden in Himself. These gifts are given with a view to the profit of the whole body.",
+            "wordCount": 75,
+            "quoteTokenProportion": 51.16,
+            "qualityScore": 2.1861035304830168,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+            "commentatorTierSimilarities": [
+                43.06,
+                27.71,
+                29.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To each individual is given the manifestation of the Spirit with a view to profit. The manifestation of the Spirit refers to the various gifts, ministrations, and operations that the Spirit bestows on each person. These gifts are given by the one God, Lord, and Spirit, but they vary in each individual. The purpose of these gifts is not for personal gain or show, but for the benefit of the whole body. Each gift is a manifestation of the Spirit's work, unlocking the treasures of God's character and work. They serve to further the welfare of the entire Christian community and carry on the interests of religion.",
+            "wordCount": 109,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.2232589125098117,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.26,
+            "commentatorTierSimilarities": [
+                36.54,
+                34.73,
+                28.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To each individual, however, is given the manifestation of the Spirit with a view to profit, meaning that the gifts and operations of the Spirit are bestowed on each person for the benefit of the entire body. These gifts come from the one God, Lord, and Spirit, but they vary in each individual. They serve to manifest the character and work of God, unlocking His hidden treasures for the purpose of furthering the welfare of the entire Christian community and carrying on the interests of religion.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.348880157679994,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.44,
+            "commentatorTierSimilarities": [
+                33.72,
+                38.57,
+                27.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

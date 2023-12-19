@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:27:47",
+    "verseRef": "1 Timothy 2:10",
+    "bestBHT": {
+        "bht": "Christian women should prioritize good works over outward adornment. The apostle Paul emphasizes that women should not use extravagant hair, jewelry, or expensive clothing to define their identity, but rather their godliness through good works. Modesty, self-control, and a sincere devotion to God should be the focus of their attire. Beyond just dressing appropriately, women should exemplify godliness through acts of kindness, charity, and humility. This combination of inner and outer adornment is what truly becomes women who profess godliness.",
+        "wordCount": 81,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 2.155724317588614,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.02,
+        "commentatorTierSimilarities": [
+            34.32,
+            31.08,
+            34.61
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Their adorning is to be effected by means of good works: not that they are to be clothed in, or with, them.",
+            "Works, not words in public, is their province.",
+            "The discharge of everyday duties is honored with the designation, 'good works.'"
+        ],
+        "Albert Barnes": [
+            "It is not appropriate for women who profess to be the followers of the Saviour, to seek to be distinguished for personal, external decorations.",
+            "Good works, or deeds of benevolence, eminently become a Christian female.",
+            "There is something exquisitely appropriate to the female character in deeds of humble and unobtrusive sympathy and benevolence."
+        ],
+        "Marvin Vincent": [
+            "That women adorn themselves in modest apparel, with shamefastness and sobriety; not with braided hair, or gold, or pearls, or costly array, but (adorn themselves) with that which becometh women professing godliness through good works.\" ",
+            "The whole will then read : 'That women adorn themselves in modest apparel, with shamefastness and sobriety; not with braided hair, or gold, or pearls, or costly array, but (adorn themselves) with that which becometh women professing godliness through good works.'",
+            "(Adorn themselves) with that which becometh women professing godliness through good works."
+        ],
+        "John Calvin": [
+            "The dress of a virtuous and godly woman must differ from that of a strumpet.",
+            "What he has laid down are marks of distinction.",
+            "If piety must be testified by works, this profession ought also to be visible in chaste and becoming dress."
+        ],
+        "Philip Schaff": [
+            "The same reference to a standard of decorum at once conventional and real, as in 1 Corinthians 11:13.",
+            "The promise implied by outward act, and is therefore rightly rendered by 'professing.'",
+            "The Greek for 'godliness' (\u03b8\u03b5\u03bf\u03c3\u03b5\u0301\u03b2\u03b5\u03b9\u03b1\u03bd ) occurs here only in the New Testament, and is somewhat stronger than the \u03b5\u03cd\u03c3\u03b5\u03b2\u03b5\u03af\u03b1 commonly so rendered; 'reverence for God' would express its meaning fairly."
+        ],
+        "Archibald T. Robertson": [
+            "Paul wishes women to wear 'becoming' clothes, but \u03b8\u03b5\u03bf\u03c3\u03b5\u03b2\u03b5\u03b9\u03b1\u03bd (godliness) is part of the 'style' desired.\" ",
+            "Good dress and good works combined.\" ",
+            "\u03b8\u03b5\u03bf\u03c3\u03b5\u03b2\u03b5\u03b9\u03b1\u03bd (godliness) is part of the 'style' desired."
+        ],
+        "John Gill": [
+            "But (which becometh women professing god likeness),... the whole of godliness, both in a doctrinal and in a practical way.",
+            "It best became them not so much to adorn themselves with any outward adornings, as with good works.",
+            "Good works are like good clothes, to which the apostle alludes; they do not make persons men and women, but they adorn them as such."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christian women should prioritize good works over outward adornment. The apostle Paul emphasizes that women should not use extravagant hair, jewelry, or expensive clothing to define their identity, but rather their godliness through good works. Modesty, self-control, and a sincere devotion to God should be the focus of their attire. Beyond just dressing appropriately, women should exemplify godliness through acts of kindness, charity, and humility. This combination of inner and outer adornment is what truly becomes women who profess godliness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.155724317588614,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.02,
+            "commentatorTierSimilarities": [
+                34.32,
+                31.08,
+                34.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christian women are encouraged to prioritize good works over external adornment. The apostle Paul emphasizes that their true beauty lies in their godliness, expressed through modesty, self-control, and sincere devotion to God. Rather than relying on elaborate hairstyles, jewelry, or expensive attire, women should focus on adorning themselves with acts of kindness and righteousness. This combination of inner and outer adornment is what truly becomes women who profess godliness, marking them as followers of Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.0781715555297824,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.44,
+            "commentatorTierSimilarities": [
+                33.17,
+                32.65,
+                34.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "That women should adorn themselves with good works rather than extravagant outward adornments is the clear instruction from the apostle Paul. These works reflect their godliness and should be their focus, rather than seeking attention through elaborate hairstyles, jewelry, or costly clothing. Modesty, self-control, and a sincere devotion to God should be the defining characteristics of their attire. By adorning themselves with good works, women truly live out their profession of godliness, embodying the true beauty that comes from a sincere relationship with Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1330236584597215,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.26,
+            "commentatorTierSimilarities": [
+                34.01,
+                30.41,
+                35.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul directs women to prioritize good works over lavish attire, emphasizing that their true adornment lies in their godliness. Instead of seeking attention through extravagant hairstyles, jewelry, or expensive clothing, women should focus on adorning themselves with acts of kindness and righteousness. Modesty, self-control, and sincere devotion to God should mark their attire. By practicing good works, women display their genuine profession of godliness and exemplify the beauty that comes from a sincere relationship with Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.104332707583488,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                34.03,
+                31.25,
+                34.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul's instruction to women is clear: their true adornment lies not in extravagant clothing or accessories, but in good works that reflect their godliness. Women are encouraged to prioritize inner virtues such as modesty, self-control, and devotion to God, rather than seeking attention through external adornments like braided hair, gold, pearls, or costly attire. By adorning themselves with acts of kindness and righteousness, women exemplify their sincere profession of godliness and portray the true beauty that comes from living out their faith in practical ways.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 2.1408868371118177,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                34.42,
+                31.99,
+                33.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

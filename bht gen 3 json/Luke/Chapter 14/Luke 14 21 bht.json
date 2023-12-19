@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:19:59",
+    "verseRef": "Luke 14:21",
+    "bestBHT": {
+        "bht": "The gathering of guests is still among the Jews, represented as wretched and despised. The slight put upon the Lord is intended to be marked by this word. Generally, all similar classes, usually overlooked in the first provision for supplying the means of grace to a community, half heathen in the midst of revealed light, and in every sense miserable. The urgency to go out quickly and invite the poor, the halt, and the blind is emphasized. Ministers should report the compliance or refusal of their hearers to the Lord in prayer.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.6476366100656996,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+        "commentatorTierSimilarities": [
+            27.5,
+            30.26,
+            42.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The gathering of guests is still in the city (Matt. xxii. 7); that is, still among the Jews.",
+            "Here appear again the very persons of ver. 13; the representatives of the wretched and despised.",
+            "Not perhaps without a hint, that only those who knew themselves to be spiritually poor and maimed and halt and blind would come to the Gospel feast."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is the part of ministers to report to the Lord in their prayers the compliance or refusal of their hearers.\" ",
+            "But it is the slight put upon him, the sense of which is intended to be marked by this word.",
+            "Generally, all similar classes, usually overlooked in the first provision for supplying the means of grace to a community, half heathen in the midst of revealed light, and in every sense miserable."
+        ],
+        "Albert Barnes": [
+            "So it is no wonder that God is angry with the wicked every day. So foolish as well as wicked is the conduct of the sinner, so trifling is his excuse for not repenting and turning to God, that it is no wonder if God cannot look upon their conduct but with abhorrence.",
+            "The feast is ready. There is no time to lose. They who partake of it must do it soon. So the gospel is ready; time flies; and they who partake of the gospel must do it soon, and they who preach it must give diligence to proclaim it to their fellow-men.",
+            "The places where the poor, etc., would be found. Those first invited were the rich, who dwelt at ease in their own houses. By these the Jews were intended; by those who were in the streets, the Gentiles."
+        ],
+        "Marvin Vincent": [
+            "Streets [\u03c0\u03bb\u03b1\u03c4\u03b5\u03b9\u03b1\u03c2] - lanes [\u03c1\u03c5\u03bc\u03b1\u03c2] . The former word from platuv, broad; the broad streets contrasted with the narrow lanes. Wyc., great streets and small streets."
+        ],
+        "Philip Schaff": [
+            "Being angry. God has \u2018wrath\u2019 in such circumstances.",
+            "Go out quickly. This substitution of guests took place at once, both in the parable and in fact.",
+            "The poor, etc. The very same classes as in Luke 14:13. From these no excuses were to be feared..."
+        ],
+        "Archibald T. Robertson": [
+            "Being angry... becoming angry.\" ",
+            "Quickly... no time is to be lost.",
+            "Streets and lanes... broad streets and narrow lanes."
+        ],
+        "John Gill": [
+            "Christ resented the impenitence and unbelief of the Jews, who were favored with his ministry and miracles; and looked upon them with anger, and was grieved because of the hardness of their hearts; and threatened them with a sorer punishment, more aggravated condemnation, and more intolerable torments, than other men.",
+            "the poor; not in a literal, but in a mystical and spiritual sense; such as have no spiritual food to eat, but ashes, gravel, wind, and husks of carnal lusts and sins; nor any spiritual clothing, no righteousness, but what may be justly called filthy rags; nor money to buy either, but are in debt, owe ten thousand talents, and have nothing to pay",
+            "the halt; which is sometimes a character of persons that are in suspense about matters in religion, and know not which side to take; or who halt in religion, and falter and fail in the exercise of it: but here, of such who are in an incapacity of going or walking in a spiritual sense; as unto Christ, for life and salvation, without the drawings and influences of the Father's grace"
+        ],
+        "John Wesley": [
+            "The servant came and showed his lord these things \u2014 So ministers ought to lay before the Lord in prayer the obedience or disobedience of their hearers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The gathering of guests is still among the Jews, represented as wretched and despised. The slight put upon the Lord is intended to be marked by the anger expressed. Generally, all similar classes, usually overlooked in the first provision for supplying the means of grace to a community, half heathen in the midst of revealed light, and in every sense miserable. The urgency to go out quickly and invite the poor, the halt, and the blind is emphasized. Ministers should report the compliance or refusal of their hearers to the Lord in prayer. The time is limited, and the gospel feast and the places where the poor would be found must not be delayed.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.6933566896897634,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.65,
+            "commentatorTierSimilarities": [
+                26.55,
+                32.34,
+                41.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The gathering of guests is still among the Jews, represented as wretched and despised. The slight put upon the Lord is intended to be marked by this word. Generally, all similar classes, usually overlooked in the first provision for supplying the means of grace to a community, half heathen in the midst of revealed light, and in every sense miserable. The urgency to go out quickly and invite the poor, the halt, and the blind is emphasized. Ministers should report the compliance or refusal of their hearers to the Lord in prayer.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6476366100656996,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                27.5,
+                30.26,
+                42.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The gathering of guests is still among the Jews, represented as wretched and despised. The slight put upon the Lord is intended to be marked by this word. Generally, all similar classes, usually overlooked in the first provision for supplying the means of grace to a community, half heathen in the midst of revealed light, and in every sense miserable. The urgency to go out quickly and invite the poor, the halt, and the blind is emphasized. Ministers should report the compliance or refusal of their hearers to the Lord in prayer.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6476366100656996,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                27.5,
+                30.26,
+                42.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The gathering of guests is still among the Jews, represented as wretched and despised. The slight put upon the Lord is intended to be marked by this word. Generally, all similar classes, usually overlooked in the first provision for supplying the means of grace to a community, half heathen in the midst of revealed light, and in every sense miserable. The urgency to go out quickly and invite the poor, the halt, and the blind is emphasized. Ministers should report the compliance or refusal of their hearers to the Lord in prayer.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6476366100656996,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                27.5,
+                30.26,
+                42.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The gathering of guests is still among the Jews, represented as wretched and despised. The slight put upon the Lord is intended to be marked by this word. Generally, all similar classes, usually overlooked in the first provision for supplying the means of grace to a community, half heathen in the midst of revealed light, and in every sense miserable. The urgency to go out quickly and invite the poor, the halt, and the blind is emphasized. Ministers should report the compliance or refusal of their hearers to the Lord in prayer.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6476366100656996,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                27.5,
+                30.26,
+                42.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

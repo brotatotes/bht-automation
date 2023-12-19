@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:21:58",
+    "verseRef": "Luke 20:4",
+    "bestBHT": {
+        "bht": "John's baptism was the seal of his ministry and mission, representing his authority. When Jesus asked about the source of John's baptism, it suggested a link between John's authority and his own preaching and miracles. This new ordinance required authorization either from God or from men. The baptism of John held great significance, symbolizing a profound connection to Jesus' own work and highlighting its importance within the broader story of their ministries.",
+        "wordCount": 75,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.6415774440508808,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.92,
+        "commentatorTierSimilarities": [
+            56.22,
+            0.0,
+            43.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "4. baptism of John\u2014his whole",
+            "\tministry and mission, of which baptism was the seal."
+        ],
+        "John Gill": [
+            "This was a new ordinance, and John must have his authority for administering it either from God, or from men.",
+            " ",
+            "Christ is desirous to know from which he derived it in their opinion; suggesting, that by the same authority John, his forerunner, came baptizing, he himself came preaching and working miracles.",
+            "He himself came preaching and working miracles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the baptism of John, emphasizing its importance in his ministry and mission. It was a significant action, symbolizing the seal of his authority. Jesus, in asking about the source of John's authority to baptize, implies that his own preaching and miracles were carried out through the same divine authority. The baptism of John was a new ordinance that required authorization either from God or from men. Overall, this verse highlights the pivotal role of baptism in John's ministry and how it connects to Jesus' own work.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6875057766274202,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.45,
+            "commentatorTierSimilarities": [
+                55.72,
+                0.0,
+                44.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The baptism of John was an integral part of his ministry and mission, serving as a seal of his authority. Jesus, by questioning the source of John's baptism, suggests a parallel between John's authority and his own preaching and miracles. This new ordinance required authorization either from God or from men. The baptism of John symbolized an important connection to Jesus' own work, emphasizing the significance of this act in the larger narrative of their ministries.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.6154836346415398,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.06,
+            "commentatorTierSimilarities": [
+                55.18,
+                0.0,
+                44.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The baptism of John was a pivotal aspect of his ministry and mission, acting as the seal of his authority. By inquiring about the source of John's baptism, Jesus hints at the correlation between John's authority and his own preaching and miracles. This new ordinance necessitated authorization either from God or from men. John's baptism signified a profound connection to Jesus' own work, underscoring the significance of this act within the broader context of their ministries.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.5629625177216326,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.31,
+            "commentatorTierSimilarities": [
+                54.87,
+                0.0,
+                45.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The baptism of John played a crucial role in his ministry and mission, serving as the seal of his authority. Jesus questions the origin of John's baptism, implying that his own preaching and miracles were carried out through the same divine authority. This new ordinance required authorization either from God or from men. John's baptism held significant meaning, establishing a profound connection to Jesus' own work, emphasizing its importance in the larger narrative of their ministries.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.5681476799539056,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.48,
+            "commentatorTierSimilarities": [
+                53.82,
+                0.0,
+                46.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John's baptism was the seal of his ministry and mission, representing his authority. When Jesus asked about the source of John's baptism, it suggested a link between John's authority and his own preaching and miracles. This new ordinance required authorization either from God or from men. The baptism of John held great significance, symbolizing a profound connection to Jesus' own work and highlighting its importance within the broader story of their ministries.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.6415774440508808,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.92,
+            "commentatorTierSimilarities": [
+                56.22,
+                0.0,
+                43.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

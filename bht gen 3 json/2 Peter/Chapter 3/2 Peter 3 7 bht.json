@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:41:01",
+    "verseRef": "2 Peter 3:7",
+    "bestBHT": {
+        "bht": "God's watchful providence preserves the present heavens and earth, storing them up for their eventual destruction by fire. This destruction will be in contrast to the past, and it is already prepared and reserved for the impious. The example of Sodom and Gomorrah serves as a reminder of God's judgment by fire. The day of judgment will bring perdition and everlasting destruction for the ungodly, a fixed time known only to God.",
+        "wordCount": 74,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.0454130115374767,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+        "commentatorTierSimilarities": [
+            32.46,
+            30.25,
+            37.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "but the new heavens and earth...by His (God\u2019s)...word are treasured up...being kept...for fire against the day of judgment and perdition of impious men.",
+            "the new heavens and earth...are...kept in store, put by, against a certain time.",
+            "God\u2019s constantly watchful Providence...holds together the present state of things till His time for ending it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In contrast to 'that then was,'",
+            "It is only God's constantly watchful providence which holds together the present state of things till His time for ending it.",
+            "His constantly watchful providence which holds together the present state of things"
+        ],
+        "Albert Barnes": [
+            "A single word, a breath of command, from one Being, a Being over whom we have no control, would spread universal desolation through the heavens and the earth.",
+            "At any moment he could suspend them; that is, he could cease to act, or withdraw his efficiency, and the universe would cease to be.",
+            "It is quite remarkable that there have been among the pagan in ancient and modern times so many opinions that accord with the statements of revelation - opinions, many of them, which could not have been founded on any investigations of science among them, and which must, therefore, have been either the result of conjecture, or handed down by tradition."
+        ],
+        "Marvin Vincent": [
+            "The now heavens, or the present heavens.",
+            "Kept in store [\u03c4\u03b5\u03b8\u03b7\u03c3\u03b1\u03c5\u03c1\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9] . Rev., stored up. Lit., treasured up.",
+            "Stored with fire, indicating that the agent for the final destruction is already prepared."
+        ],
+        "John Calvin": [
+            "His purpose was no other than to dissipate the craftiness of scoffers respecting the perpetual state of nature.",
+            "There is nothing unreasonable in the declaration made by the Lord, that the heaven and the earth shall hereafter be consumed by fire, because the reason for the fire is the same as that for the water.",
+            "But as he had to do with the ungodly, he speaks expressly of their destruction."
+        ],
+        "Philip Schaff": [
+            "The same creative Word of God which first made the old heavens and earth, and afterwards overwhelmed the order of things which it had constructed, is still the sovereign agency that maintains the present heavens and earth and prepares for them their future destiny.",
+            "This statement on the destiny of the present system of things is the fullest and most precise of its kind in the N. T.",
+            "In speaking of fire as the agent in the second judicial destruction of the world, as water was in the first, it founds on the history of the cities of Sodom and Gomorrah as typical of the final judgment of the impious, and on the O. T. conception of God as accompanied by fire when He comes forth to judge."
+        ],
+        "Archibald T. Robertson": [
+            "The destruction of the world by fire is here pictured as in Joel 2:30; Psalms 50:3.\" (Quote #1)",
+            "The now heavens' have been stored up for fire.\" (Quote #2)",
+            "The inheritance reserved for the saints of God.\" (Quote #3)"
+        ],
+        "John Gill": [
+            "By the same word that the heavens and the earth were made of old, or in the beginning, are they kept, preserved, and upheld in their being.\" ",
+            "The heavens and earth, that now are, are not as they always were, and will be, but are reserved and prepared for burning.\" ",
+            "The time when God will judge the world is fixed, though it is not known; and it is called a 'day', because of the evidence and light in which things will appear, and the quick dispatch of business in it."
+        ],
+        "John Wesley": [
+            "But the heavens and the earth... are reserved unto fire.",
+            "God will judge the world and punish the ungodly.",
+            "Everlasting destruction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the future destruction of the heavens and earth by fire, which is kept in store by God's watchful providence. The present state of things is upheld by His constant maintenance, but there will come a time when everything will be brought to an end. The mention of fire as the agent of destruction aligns with the example of Sodom and Gomorrah from the Old Testament, emphasizing that the impious will face judgment and perdition. The certainty of this future event is compared to the judgment of the flood in the past, highlighting God's predetermined timing for the day of judgment. The consequences for the ungodly will be everlasting destruction.",
+            "wordCount": 115,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 2.0231135376622085,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+            "commentatorTierSimilarities": [
+                31.68,
+                33.24,
+                35.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The present heavens and earth are being sustained by God's watchful providence until His appointed time, which will bring about their ultimate destruction by fire. This impending judgment is stored up, reserved for a certain day, and is likened to the destruction of Sodom and Gomorrah. The ungodly will face perdition and everlasting destruction. Although the timing remains unknown, the final judgment will be swift and comprehensive, revealing the evidence and light that will expose all things.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.014016953396733,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                30.08,
+                33.43,
+                36.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The present heavens and earth are treasured up by God's constantly watchful providence until His time for ending it, holding them together in the present state of things. This storage includes fire, prepared for the final destruction, and is reminiscent of the judgment in the past like the flood and the destruction of Sodom and Gomorrah. The day of judgment will bring perdition and everlasting destruction for the ungodly. While the timing remains unknown, it will be a quick and comprehensive event, revealing the evidence and light that will expose all things.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.027988023714313,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.77,
+            "commentatorTierSimilarities": [
+                31.61,
+                34.42,
+                33.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The heavens and earth are being kept in store by God's watchful providence, maintained in the present state until His appointed time for their destruction. The impending judgment will be executed by fire, already prepared for the final destruction. This aligns with the examples of Sodom and Gomorrah and Joel 2:30 and Psalms 50:3. The day of judgment will bring about perdition and everlasting destruction for the ungodly. Though the timing remains unknown, it will be a swift and comprehensive event.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.8486789296125985,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "commentatorTierSimilarities": [
+                34.32,
+                30.86,
+                34.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's watchful providence preserves the present heavens and earth, storing them up for their eventual destruction by fire. This destruction will be in contrast to the past, and it is already prepared and reserved for the impious. The example of Sodom and Gomorrah serves as a reminder of God's judgment by fire. The day of judgment will bring perdition and everlasting destruction for the ungodly, a fixed time known only to God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.0454130115374767,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+            "commentatorTierSimilarities": [
+                32.46,
+                30.25,
+                37.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

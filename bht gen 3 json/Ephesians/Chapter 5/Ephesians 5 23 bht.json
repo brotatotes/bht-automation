@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:34:17",
+    "verseRef": "Ephesians 5:23",
+    "bestBHT": {
+        "bht": "Christ's unique Headship is distinct from a husband's role. While a husband is the head of his wife, Christ's Headship is gained through His redemptive act, making Him the Savior of the body, the church. The husband's love and protection cannot be equated with salvation, which is peculiar to Christ's headship alone. Just as Christ is the head of the church, a husband's role as head is significant, pointing to the importance of submission for the benefit and comfort of the wife.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.3,
+        "qualityScore": 2.551000585966986,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.16,
+        "commentatorTierSimilarities": [
+            36.58,
+            34.07,
+            29.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "In Christ's case, the Headship is united with, nay gained by, His having SAVED the body in the process of redemption.",
+            "I am not alleging Christ's Headship as one entirely identical with that other, for He has a claim to it, and office in it, peculiar to Himself.",
+            "The husband is not saviour of the wife, in which particular Christ excels."
+        ],
+        "Albert Barnes": [
+            "For the husband is the head of the wife.\" ",
+            "As Christ is the head of the church.",
+            "And he is the Savior of the body."
+        ],
+        "Marvin Vincent": [
+            "He is the savior of the body.",
+            "The comparison lies in the fact of headship alone.",
+            "The husband's love and protection cannot be called salvation, in which respect Christ's headship is peculiar to Himself."
+        ],
+        "John Calvin": [
+            "Christ has appointed the same relation to exist between a husband and a wife, as between himself and his church.",
+            "As Christ rules over his church for her salvation, so nothing yields more advantage or comfort to the wife than to be subject to her husband.",
+            "To refuse that subjection, by means of which they might be saved, is to choose destruction."
+        ],
+        "Philip Schaff": [
+            "A husband,' as an example of the class... 'His wife' brings out the force of the article, pointing to the definite person in the supposed case.",
+            "On Christ as Head of the Church, comp. chaps. Ephesians 1:22; Ephesians 4:15.",
+            "In Christ\u2019s case the Headship is united with, nay gained by, His having saved the body in the process of Redemption: so that I am not alleging Christ\u2019s Headship as one entirely identical with that other, for He has a claim to it and an office in it peculiar to Himself."
+        ],
+        "Archibald T. Robertson": [
+            "For a husband is head of the (his) wife.",
+            "as also Christ is head of the church.",
+            "He means the church as the body of which Christ is head and Saviour."
+        ],
+        "John Gill": [
+            "Even as Christ is the head of the church; all the elect;",
+            "And he is the Saviour of the body;",
+            "he provides everything for it, preserves and protects it, and has wrought out salvation for it, which every member of it partakes of."
+        ],
+        "John Wesley": [
+            "The head \u2014 The governor, guide, and guardian of the wife.",
+            "And he is the Saviour of the body \u2014 The church, from all sin and misery."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the comparison lies in the fact of headship alone. Christ's headship is unique and cannot be entirely identical to that of a husband. He is the Savior of the body, the church, having gained Headship through His redemptive act. A husband's love and protection cannot be called salvation, in which respect Christ's headship is peculiar to Himself. Just as Christ is the head of the church, a husband is the head of his wife. The husband is not the savior of the wife, but rather, just as Christ rules over the church for her salvation, nothing yields more advantage or comfort to the wife than to be subject to her husband.",
+            "wordCount": 117,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.4594968956757546,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.12,
+            "commentatorTierSimilarities": [
+                38.07,
+                32.83,
+                29.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In highlighting the concept of headship, this passage underlines the uniqueness of Christ's role compared to that of a husband. While a husband is the head of his wife, it is crucial to note that he is not her savior. Christ's headship, on the other hand, is directly tied to his redemptive act, making him the Savior of the body, the church. Although a husband's love and protection cannot be equated to salvation, his role as head is pivotal, just as Christ serves as the head and Savior of the church.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.4731008187722248,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.57,
+            "commentatorTierSimilarities": [
+                35.4,
+                35.15,
+                29.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's unique Headship is distinct from a husband's role. While a husband is the head of his wife, Christ's Headship is gained through His redemptive act, making Him the Savior of the body, the church. The husband's love and protection cannot be equated with salvation, which is peculiar to Christ's headship alone. Just as Christ is the head of the church, a husband's role as head is significant, pointing to the importance of submission for the benefit and comfort of the wife.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 2.551000585966986,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.16,
+            "commentatorTierSimilarities": [
+                36.58,
+                34.07,
+                29.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ's Headship is unique and distinct, different from the role of a husband as the head of his wife. The husband cannot be the savior of the wife, in which Christ exceeds. Christ's Headship is tied to His redemptive act, making Him the Savior of the body, the church. While the husband's love and protection cannot be referred to as salvation, Christ's headship involves both being the head and the savior of the church. It emphasizes the vital significance of submission for the wife's advantage and comfort.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.4435862535006283,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.59,
+            "commentatorTierSimilarities": [
+                35.4,
+                34.02,
+                30.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the context of headship, it is important to distinguish Christ's unique role from that of a husband in a marriage. While a husband is the head of his wife, Christ's headship is tied to His redemptive act, making Him the Savior of the body, which is the church. The husband's love and protection cannot be equated to salvation, as that is specific to Christ's headship alone. This comparison underscores the significance of submission for the wife's benefit and comfort, mirroring Christ's role as the head and Savior of the church.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.4938747706155233,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.26,
+            "commentatorTierSimilarities": [
+                35.85,
+                34.98,
+                29.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

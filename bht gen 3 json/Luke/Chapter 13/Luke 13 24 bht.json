@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:19:43",
+    "verseRef": "Luke 13:24",
+    "bestBHT": {
+        "bht": "Jesus teaches us the importance of striving to enter through the narrow door, representing the challenging path to salvation. We should not rely on mere seeking or desire, but instead make a life-and-death struggle. The word strive conveys the idea of contending for a prize, reflecting the difficulty of being saved. Many will not obtain salvation because they neglected religion in this life. Therefore, we must diligently pursue the narrow gate, seeking it with earnestness, for entering through any other way is morally impossible.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.65,
+        "qualityScore": 2.1125096528979914,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+        "commentatorTierSimilarities": [
+            31.0,
+            32.77,
+            36.24
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The description of the broad and narrow ways is not here inserted, as probably by this time, the narrow door (or gate was a familiar image.",
+            "In what follows we must not understand, \u2018shall seek to enter by it, and shall not be able:\u2019\u2014the emphasis of the command is, seek to enter at the narrow door.",
+            "For many shall seek to enter (elsewhere), and shall not be able. After enter is to be supplied, in both places, into salvation, or into the Kingdom of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Strive\u2014The word signifies to 'contend' as for the mastery, to 'struggle,' expressive of the difficulty of being saved, as if one would have to force his way in.",
+            "Strait gate\u2014another figure of the same.",
+            "For many... will seek 'desire,' that is, with a mere wish or slothful endeavor, and shall not be able\u2014because it must be made a life-and-death struggle."
+        ],
+        "Albert Barnes": [
+            "Jesus says that we should strive to enter in; and he means by it that we should be diligent, be active, be earnest; that we should make it our first and chief business to overcome our sinful propensities, and to endeavor to enter into heaven.\" ",
+            "I have seen these strait gates and narrow ways, 'with here and there a traveler.' They are in retired corners, and must be sought for, and are opened only to those who knock; and when the sun goes down and the night comes on, they are shut and locked. It is then too late.",
+            "In this life they neglect religion, and are engaged about other things. At death, or at the judgment, they will seek to enter in; but it will be too late - the door will be shut; and because they did not make religion the chief business of their life, they cannot 'then' enter in."
+        ],
+        "Marvin Vincent": [
+            "Strive. Used only by Luke and Paul, except John 18:36. Originally to contend for a prize in the public games; and thus conveying a sense of struggle.\" ",
+            "The kindred noun, ajgwnia, agony, is used of Christ's struggle in Gethsemane (ch. 22 44).",
+            "Strait gate [\u03c3\u03c4\u03b5\u03bd\u03b7\u03c2 \u03b8\u03c5\u03c1\u03b1\u03c2]. Rev., narrow door. See on Matthew 7:13. The door of a house, and not a gate, is meant (ver. 25)."
+        ],
+        "John Calvin": [
+            "For many will seek to enter...Christ declares that those who calculate that their possession of life is already certain, will be shut out.",
+            "The flesh is willing to flatter itself, and many who now give themselves every indulgence, promise to themselves an easy entrance into life.",
+            "Men practice mutual deception on each other, and fall asleep in wicked indifference."
+        ],
+        "Philip Schaff": [
+            "Remember that many will not obtain salvation, strive therefore to obtain it yourselves in the right way.",
+            "To do this the greatest earnestness is required.",
+            "It is a moral impossibility to enter in any other way."
+        ],
+        "Archibald T. Robertson": [
+            "Strive (\u03b1\u03b3\u03c9\u03bd\u03b9\u03b6\u03b5\u03c3\u03b8\u03b5). Jesus makes short shrift of the question.\" ",
+            "Originally it was to contend for a prize in the games.\" ",
+            "The narrow gate appears also in Matthew 7:13, only there it is an outside gate (\u03c0\u03c5\u03bb\u03b7\u03c2) while here it is the entrance to the house, 'the narrow door' (\u03b8\u03c5\u03c1\u03b1\u03c2)."
+        ],
+        "John Gill": [
+            "To 'strive', is to be diligent in the use of means; to search the Scriptures with care; to attend on the preaching of the word with constancy, neglecting no opportunity; to pray earnestly for spiritual light, knowledge, and grace...",
+            "...to bear all reproaches and persecutions, and press through all difficulties, for the prize of the incorruptible crown...",
+            "...very faintly, in a superficial manner, from a mere natural affection, from a principle of self-love, which leads every one to desire happiness; and by very indirect and improper methods..."
+        ],
+        "John Wesley": [
+            "Strive to enter in \u2014 Agonize. Strive as in an agony. So the word signifies Otherwise none shall enter in. Barely seeking will not avail. Matthew 7:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus speaks of a narrow door, a strait gate, which represents the difficulty of entering salvation or the Kingdom of God. Many will merely seek to enter, but will not be able to because it requires a life-and-death struggle. The word used, strive, implies contending for a prize in the public games, conveying a sense of struggle and agony. Jesus urges us to be diligent, active, and earnest in our pursuit of heaven, making it our primary focus and overcoming our sinful tendencies. We should not delay, for the narrow door will eventually be shut, and it will be too late. It is essential to remember that many will not obtain salvation, emphasizing the necessity of earnestness and the moral impossibility of entering in any other way.",
+            "wordCount": 129,
+            "quoteTokenProportion": 32.1,
+            "qualityScore": 2.0668954438404734,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+            "commentatorTierSimilarities": [
+                32.18,
+                35.11,
+                32.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus uses the imagery of a narrow door, a strait gate, to depict the challenging path to salvation. Merely seeking to enter is not enough; it requires a life-and-death struggle. Striving to overcome our sinful nature and making heaven our priority is crucial. The word strive suggests contending for a prize, signifying the determination and effort needed. We must be diligent, active, and earnest in our pursuit of eternal life, for many will not obtain it. Enter through the narrow door while you still can, for time is limited.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.9587814129808359,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                33.42,
+                33.6,
+                32.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus urges us to strive to enter through the narrow door and make salvation a top priority. Merely seeking or desiring entry is insufficient; it requires a life-and-death struggle, contending as in an agony. The narrow door symbolizes the difficult path to eternal life. Many people, deceived by their own confidence, will be shut out because they neglected religion in their lives. We must be diligent, active, and earnest in our pursuit of the heavenly prize, for it is impossible to enter in any other way.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.055115848377456,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.67,
+            "commentatorTierSimilarities": [
+                31.19,
+                32.52,
+                36.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus teaches us the importance of striving to enter through the narrow door, representing the challenging path to salvation. We should not rely on mere seeking or desire, but instead make a life-and-death struggle. The word strive conveys the idea of contending for a prize, reflecting the difficulty of being saved. Many will not obtain salvation because they neglected religion in this life. Therefore, we must diligently pursue the narrow gate, seeking it with earnestness, for entering through any other way is morally impossible.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.1125096528979914,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+            "commentatorTierSimilarities": [
+                31.0,
+                32.77,
+                36.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus illustrates the struggle to enter the narrow door, emphasizing the need for earnestness and diligence. Mere seeking or desire is insufficient; it requires a life-and-death effort. This demanding path, depicted as a strait gate, calls for an agonizing contest akin to contending for a prize in the public games. Many will fail to obtain salvation because they neglected religion and engaged in worldly pursuits. It is only through diligent pursuit and unwavering commitment that one can hope to enter the Kingdom of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.983182959504357,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+            "commentatorTierSimilarities": [
+                31.25,
+                32.69,
+                36.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

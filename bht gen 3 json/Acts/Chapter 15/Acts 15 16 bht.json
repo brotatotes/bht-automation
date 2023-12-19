@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:31:44",
+    "verseRef": "Acts 15:16",
+    "bestBHT": {
+        "bht": "God, in His sovereignty, has visited the Gentiles to gather a people for His glory, akin to the restoration of the fallen tent of David\u2014symbolizing the privileges and blessings conferred upon His people. Prophetic writings foresaw the inclusion of Gentiles in God's family, finding salvation in the Church of Christ through His name. This prophecy highlights the establishment of a spiritual kingdom, where both Jews and Gentiles gather together, united in their obedience to Christ, forming the true constitution of the Church.",
+        "wordCount": 84,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.9804019872013874,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.19,
+        "commentatorTierSimilarities": [
+            22.13,
+            40.95,
+            36.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Simeon\u2014a Hebrew variation of Simon, as in 2 Peter 1:1; (Greek), the Jewish and family name of Peter.",
+            "hath declared how God at the first\u2014answering to Peter's own expression 'a good while ago' (Acts 15:7).",
+            "did visit the Gentiles to take out of them\u2014in the exercise of His adorable sovereignty. a people for his name\u2014the honor of his name, or for His glory."
+        ],
+        "Albert Barnes": [
+            "The main point of the quotation, as made by James, was to show that, according to the prophets, it was contemplated that the Gentiles should be introduced to the privileges of the children of God.\" ",
+            "When the people of God are subjected to calamities and trials, it is often represented as if God had departed from them. His returning, therefore, is an image of their restoration to his favor and to prosperity.",
+            "The reference here is not to the temple, which was the work of Solomon, but to the magnificence and splendor of the dwelling-place of David; that is, to the full enjoyment of their former high privileges and blessings."
+        ],
+        "John Calvin": [
+            "For God placeth the Gentiles in like degree of honor with the Jews, when he will have them to call upon his name.\" ",
+            "If the kingdom of Christ cannot be otherwise established, unless God be called upon everywhere throughout the whole world, and the Gentiles grow together to be one with his holy people, it is an absurd thing that they should be driven from hope of salvation.\" ",
+            "The true and right constitution of the Church... when the throne of David is set up, and Christ alone hath the preeminence, that all may meet together in his obedience."
+        ],
+        "Philip Schaff": [
+            "This Amos prophecy speaks first of the fall of the Jewish Church, and the abolition of its temple service; it next conveys the promise that God will build a new church on the ruins of the old, and gather together in it all the Gentiles.",
+            "It lastly sets forth that this church shall receive salvation only through the name of the Lord, which should be called upon by it, i.e. on which it would believe.",
+            "Amos declares... 'that the true restoration of the tabernacle of David is to be found in the reception of the residue of the human family, and in the flowing in of all nations, whether Jew or Gentile, into the Church of Christ.'"
+        ],
+        "Archibald T. Robertson": [
+            "Here LXX has \u03b1\u03bd\u03b1\u03c3\u03c4\u03b7\u03c3\u03c9\" ",
+            "The tabernacle of David, a poetical figure of the throne of David\" ",
+            "a desolate picture of the fallen, torn down tent of David"
+        ],
+        "John Gill": [
+            "After all this he promises to return and show favour to them.",
+            "David's tabernacle was to be rebuilt, and his kingdom to be restored by the Messiah, but in a spiritual way.",
+            "The raising up and rebuilding of this tabernacle must design the reviving of true religion, the doctrine and practice of it, the enlargement of the church of God, by the conversion both of Jews and Gentiles."
+        ],
+        "John Wesley": [
+            "After this \u2014 After the Jewish dispensation expires.",
+            "I will build again the fallen tabernacle of David \u2014 By raising from his seed the Christ.",
+            "Who shall build on the ruins of his fallen tabernacle a spiritual and eternal kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 15:16, it is revealed that God, in His sovereign power, has visited the Gentiles to gather a people for His glory. This visitation is likened to the restoration of the fallen tent of David, a symbol of the throne of David and the privileges and blessings bestowed upon God's people. The prophets spoke of the Gentiles being included in the family of God, and through the name of the Lord, both Jews and Gentiles would find salvation in the Church of Christ. This prophecy points to the establishment of a spiritual kingdom, where all nations, Jew and Gentile alike, would come together in obedience to Christ, as the true constitution of the Church.",
+            "wordCount": 115,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.9587507421732355,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                23.29,
+                40.81,
+                35.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In His sovereignty, God has visited the Gentiles to gather a people for His glory. This visitation is like the restoration of the fallen tent of David, symbolizing the throne of David and the privileges given to God's people. The prophets spoke of the inclusion of the Gentiles in God's family, finding salvation through the name of the Lord in the Church of Christ. This points to the establishment of a spiritual kingdom, where all nations, Jew and Gentile, come together in obedience to Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.9529432606036456,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.28,
+            "commentatorTierSimilarities": [
+                25.27,
+                38.9,
+                35.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 15:16, it is made known that God, in His sovereignty, visited the Gentiles to gather a people for His name, as the fallen tabernacle of David is restored. This restoration signifies the revival of true religion and the growth of God's church through the conversion of both Jews and Gentiles. The prophets foretold the inclusion of the Gentiles in the family of God, finding salvation in believing and calling upon the name of the Lord. This prophecy points to the establishment of a spiritual kingdom where all nations unite under Christ's obedience.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.9374139858871549,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                22.55,
+                39.89,
+                37.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, in His sovereignty, has visited the Gentiles to gather a people for His glory, akin to the restoration of the fallen tent of David\u2014symbolizing the privileges and blessings conferred upon His people. Prophetic writings foresaw the inclusion of Gentiles in God's family, finding salvation in the Church of Christ through His name. This prophecy highlights the establishment of a spiritual kingdom, where both Jews and Gentiles gather together, united in their obedience to Christ, forming the true constitution of the Church.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.9804019872013874,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.19,
+            "commentatorTierSimilarities": [
+                22.13,
+                40.95,
+                36.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God, in His sovereignty, has visited the Gentiles, gathering a people for His glory. This visitation is likened to the restoration of the fallen tent of David, symbolizing the privileges and blessings bestowed upon God's people. The prophets foretold the inclusion of Gentiles in God's family and the salvation they would find through calling upon the name of the Lord in the Church of Christ. This points to the establishment of a spiritual kingdom where both Jews and Gentiles come together, united in their obedience to Christ, forming the true constitution of the Church.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.911295245467378,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.89,
+            "commentatorTierSimilarities": [
+                23.23,
+                40.44,
+                36.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

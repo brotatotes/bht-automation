@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:26:42",
+    "verseRef": "Acts 5:15",
+    "bestBHT": {
+        "bht": "As Peter walked, his shadow was seen as a means of fulfilling the promise made to him, that the Creator Spirit could work through any instrument. It is important to recognize, however, that this belief led to a fertile harvest of superstition and imposture. Despite this, God honors even the faith of those who may have superstitious beliefs, as long as it is real faith in Him. This scene of admiration and respect for Peter and the other apostles, who were seen as powerful and earnest teachers, reminds us of the enthusiasm inspired by the Master they followed.",
+        "wordCount": 98,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 1.7094290967963195,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+        "commentatorTierSimilarities": [
+            22.17,
+            44.22,
+            33.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The shadow of Peter... Now especially was fulfilled to him the promise of Matt. xvi. 18.",
+            "We need find no stumbling-block in the fact of Peter\u2019s shadow having been believed to be the medium of working miracles. Cannot the \u2018Creator Spirit\u2019 work with any instruments, or with none, as pleases Him?",
+            "But what a fertile harvest of superstition and imposture has been made to spring out of these scanty examples!"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "into the streets . . . in every street.",
+            "on beds and couches.",
+            "shadow of Peter . . . might overshadow some of them."
+        ],
+        "Albert Barnes": [
+            "So that the shadow of Peter, as he walked, might pass over them.",
+            "The sacred writer does not say, however, that any 'were' healed in this way, nor that they were commanded to do this.",
+            "It shows the full belief of the people that Peter had the power of working miracles."
+        ],
+        "Marvin Vincent": [
+            "Couches [\u03ba\u03c1\u03b1\u03b2\u03b2\u03b1\u03c4\u03c9\u03bd] . See on Mark 2:4. ",
+            "The shadow of Peter passing by. But the proper rendering is, as Peter passed by, his shadow might, etc. 13"
+        ],
+        "John Calvin": [
+            "We must not by and by think that that is right which Luke saith was done by ignorant men, and those which knew not the pure faith.",
+            "The apostles were endued with such power for this cause, because they were ministers of the gospel.",
+            "Those miracles whereof the Papists babble are so unlike to these, that they are rather altogether contrary."
+        ],
+        "Philip Schaff": [
+            "The whole scene of growing admiration and respect for the persons of these brave and earnest teachers, who enforced their burning words with such mighty loving acts, reminds us of a still greater enthusiasm excited by the Master of Peter and his companions.",
+            "Peter especially is mentioned as the greatest and foremost of the apostles in all work and preaching in those early days.",
+            "Whether He will use any instrument in doing this, or what instrument, must depend altogether on His own purpose in the miracle the effect to be produced on the recipients, beholders, or hearers."
+        ],
+        "Archibald T. Robertson": [
+            "Into the streets, into the broad ways.",
+            "Little beds and camp beds or pallets.",
+            "God honours even superstitious faith if it is real faith in him."
+        ],
+        "John Gill": [
+            "Such miraculous cures being wrought by the apostles, the people who had sick persons in their houses, hearing of it brought them out.",
+            "That at the least, the shadow of Peter passing by, might overshadow some of them.",
+            "It is a vain thing in the Papists to conclude from hence the primacy of Peter, the worshipping of images, and that the Pope is Peter's shadow, and has his power."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Peter walked, his shadow was believed to have the power to heal the sick, fulfilling the promise that had been made to him. Some may find it strange that Peter's shadow was seen as a means of working miracles, but in reality, the Creator Spirit can work through any means, whether physical or not. However, it is important to recognize that this belief in the power of Peter's shadow led to the growth of superstition and imposture. Nevertheless, God honors even the faith, even if it is superstitious, as long as it is real faith in Him. The scene described in this verse is one of great admiration and respect for Peter and the other apostles, who were seen as powerful and earnest teachers. They were the foremost in their work and preaching and inspired a similar enthusiasm to that of the Master they followed.",
+            "wordCount": 148,
+            "quoteTokenProportion": 42.7,
+            "qualityScore": 1.8358307620270167,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                22.26,
+                42.75,
+                34.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Peter walked, his shadow was seen as a means of fulfilling the promise made to him, that the Creator Spirit could work through any instrument. It is important to recognize, however, that this belief led to a fertile harvest of superstition and imposture. Despite this, God honors even the faith of those who may have superstitious beliefs, as long as it is real faith in Him. This scene of admiration and respect for Peter and the other apostles, who were seen as powerful and earnest teachers, reminds us of the enthusiasm inspired by the Master they followed.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.7094290967963195,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+            "commentatorTierSimilarities": [
+                22.17,
+                44.22,
+                33.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Peter walked, his shadow was believed to have the power to heal the sick, fulfilling the promise made to him. Some may find it strange that Peter's shadow was seen as a means of working miracles, but the Creator Spirit can work through any instrument. However, this belief in the power of Peter's shadow led to superstition and imposture. Regardless, God honors even superstitious faith if it is real faith in Him. The scene described in this passage shows admiration and respect for Peter and the other apostles, who were seen as powerful and earnest teachers.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.9163269639139922,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                25.54,
+                39.45,
+                35.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Peter walked, his shadow was believed to have the power to heal, fulfilling the promise made to him. This may be seen as strange, but the Creator Spirit can work through any instrument. However, this belief led to superstition and imposture. Yet, God honors even superstitious faith if it is real faith. The scene described shows admiration and respect for Peter and the apostles, who were seen as powerful and earnest teachers.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6265388626984465,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.42,
+            "commentatorTierSimilarities": [
+                25.29,
+                40.7,
+                34.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Peter walked, the shadow cast by him was believed to possess the power to heal the sick, thus fulfilling the promise made to him. While some may question the use of Peter's shadow as a medium for miracles, it must be understood that the Creator Spirit is capable of working through any instrument, even if it seems unconventional. However, it is crucial to acknowledge that this belief in the efficacy of Peter's shadow ultimately resulted in the growth of superstition and fraudulent practices. Nonetheless, God graciously acknowledges and honors even faith that may be rooted in superstition, as long as it is genuine and directed towards Him. The scene described highlights the profound admiration and reverence bestowed upon Peter and the other apostles, namely due to their reputation as powerful and dedicated teachers.",
+            "wordCount": 136,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 1.8077938321231928,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                23.03,
+                42.75,
+                34.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

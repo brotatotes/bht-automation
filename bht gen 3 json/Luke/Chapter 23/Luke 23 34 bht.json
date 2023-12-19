@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:23:50",
+    "verseRef": "Luke 23:34",
+    "bestBHT": {
+        "bht": "Jesus, in his final moments, offers a heartfelt prayer to God the Father, pleading for the forgiveness of those responsible for his crucifixion. While the authenticity of this passage may be questioned, the sentiment expressed by Jesus is unparalleled. Recognizing the ignorance of the Roman soldiers who were simply obeying orders, Jesus appeals to God for their salvation. This act of forgiveness reveals the depth of Jesus' love and showcases his role as both sacrifice and intercessor. It is through such forgiveness that Jesus aims to draw all people to himself, inviting repentance and offering redemption.",
+        "wordCount": 96,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.7674852891513222,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.11,
+        "commentatorTierSimilarities": [
+            39.54,
+            32.34,
+            28.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The prayer was offered for those who were guilty of putting him to death.",
+            "They know not what they do - It was done through ignorance.",
+            "Ignorance does not excuse altogether a crime if the ignorance be willful, but it diminishes its guilt."
+        ],
+        "John Calvin": [
+            "For not only does he abstain from revenge, but pleads with God the Father for the salvation of those by whom he is most cruelly tormented.",
+            "But this is a far higher and more excellent virtue, to pray that God would forgive his enemies.",
+            "If we learn to raise our minds to God, it will be easy for us to look down, as it were, from above, and despise the ignorance of unbelievers; for whatever may be their strength and resources, still they know not what they do."
+        ],
+        "Philip Schaff": [
+            "This first of the seven words on the cross, preserved by Luke alone, is perhaps the one best adapted to \u2018draw all men\u2019 unto Him \u2018when lifted up.\u2019",
+            "Even in the act of crucifixion He speaks as \u2018Son of God!\u2019 And thus offering Himself, He also intercedes, performing His twofold priestly work.",
+            "It is one design of this record, showing us the forgiving love of our Lord as He died for the sins of men, to awaken in men, through the application of it by the Holy Spirit, a knowledge of what they do as sinners in nailing Him to the cross, that they may repent and be forgiven for His sake."
+        ],
+        "Archibald T. Robertson": [
+            "Father forgive them (\u03a0\u03b1\u03c4\u03b5\u03c1, \u03b1\u03c6\u03b5\u03c2 \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2). Second aorist active imperative of \u03b1\u03c6\u03b9\u03b7\u03bc, with dative case.",
+            "Some of the oldest and best documents do not contain this verse, and yet, while it is not certain that it is a part of Luke's Gospel, it is certain that Jesus spoke these words, for they are utterly unlike any one else.",
+            "Jesus evidently is praying for the Roman soldiers, who were only obeying, but not for the Sanhedrin."
+        ],
+        "John Gill": [
+            "Father, forgive them....",
+            "for they know not what they do",
+            "and they parted his raiment, and cast lots"
+        ],
+        "John Wesley": [
+            "While they are actually nailing him to the cross, he seems to feel the injury they did to their own souls more than the wounds they gave him.",
+            "And as it were to forget his own anguish out of a concern for their own salvation.",
+            "And how eminently was his prayer heard! It procured forgiveness for all that were penitent, and a suspension of vengeance even for the impenitent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus pleads with God the Father for the forgiveness of those who have put him to death. This powerful plea is unique to Jesus and demonstrates his unmatched love and mercy. He specifically prays for the Roman soldiers who were following orders, acknowledging their ignorance in their actions. Jesus' prayer serves as a call for repentance and forgiveness, as he takes on the role of both the offering and the intercessor. Through this act of forgiveness, Jesus shows the world the depth of his love and seeks to draw all people to himself.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.726055800194898,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.73,
+            "commentatorTierSimilarities": [
+                36.14,
+                33.24,
+                30.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in his final moments, utters a profound prayer to God the Father, beseeching forgiveness for those responsible for his crucifixion. Though the authenticity of this verse may be questioned, the words themselves reflect the unparalleled compassion of Jesus. While the Roman soldiers obeyed orders, Jesus recognizes their ignorance and pleads for their absolution. This act of forgiveness exemplifies the depth of Jesus' love, as he takes on the roles of both the offering and the intercessor. Through this act, Jesus seeks to draw all people to himself, inviting repentance and offering forgiveness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.750772105069649,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                39.05,
+                32.55,
+                28.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in his final moments, offers a heartfelt prayer to God the Father, pleading for the forgiveness of those responsible for his crucifixion. While the authenticity of this passage may be questioned, the sentiment expressed by Jesus is unparalleled. Recognizing the ignorance of the Roman soldiers who were simply obeying orders, Jesus appeals to God for their salvation. This act of forgiveness reveals the depth of Jesus' love and showcases his role as both sacrifice and intercessor. It is through such forgiveness that Jesus aims to draw all people to himself, inviting repentance and offering redemption.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.7674852891513222,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.11,
+            "commentatorTierSimilarities": [
+                39.54,
+                32.34,
+                28.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his final moments, Jesus delivers a poignant prayer to the Father, entreating forgiveness for those accountable for his crucifixion. Although some doubt the authenticity of this verse, its message exhibits Jesus' unparalleled mercy. Despite the soldiers being mere executors of orders, Jesus appeals for their absolution, acknowledging their ignorance. His act of forgiveness showcases his sacrificial role and advocate position. Through this selfless act, Jesus aims to draw all individuals to himself, inspiring penitence and bestowing redemption.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.60665694360502,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.76,
+            "commentatorTierSimilarities": [
+                38.52,
+                32.86,
+                28.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his final moments, Jesus offers a heartfelt prayer to God the Father, pleading for forgiveness for those responsible for his crucifixion. Although scholars debate the authenticity of this passage, its sentiment reveals Jesus' unparalleled compassion. He acknowledges the ignorance of the Roman soldiers who were merely following orders and pleads for their salvation. Through this act of forgiveness, Jesus showcases both his sacrifice and intercession, seeking to draw all people to himself, inviting repentance, and extending the offer of redemption.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.7464245513110206,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "commentatorTierSimilarities": [
+                39.05,
+                32.51,
+                28.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

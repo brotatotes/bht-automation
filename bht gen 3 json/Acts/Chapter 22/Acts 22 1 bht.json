@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:34:56",
+    "verseRef": "Acts 22:1",
+    "bestBHT": {
+        "bht": "In this speech, Paul skillfully arranges and adapts the narrative of his conversion, aiming to avoid offense and conciliate his hearers. He presents the facts as the strongest argument and begins his defense with courtesy and dignity. Despite the inhumane treatment he received, Paul is ready to forgive and put up with affronts, seeking to clear himself of imputations and vindicate his character and conduct.",
+        "wordCount": 65,
+        "quoteTokenProportion": 29.79,
+        "qualityScore": 1.5187802129446561,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.84,
+        "commentatorTierSimilarities": [
+            33.87,
+            19.09,
+            47.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This speech of Paul repeats the narrative of his conversion to Christianity, but this time most skilfully arranged and adapted (within legitimate limits) to avoid offence and conciliate his hearers.\" ",
+            "Proofs of this will appear as we go on."
+        ],
+        "Albert Barnes": [
+            "My defence - Against the charges brought against me.",
+            "What would have been his defense, therefore, had he been suffered to finish it, it is impossible to know with certainty.",
+            "On another occasion, however, he was permitted to make a similar defense, and perhaps to complete the train of thought which he had purposed to pursue here."
+        ],
+        "Marvin Vincent": [
+            "Defence [\u03b1\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03b1\u03c2] . See on answer, 1 Peter 3:15."
+        ],
+        "John Calvin": [
+            "He doth not so much regard what they have deserved, as into what degree of honor God had exalted them.",
+            "Let us learn so to reverence and honor men that we impair not God\u2019s right.",
+            "For which cause the pope\u2019s pride is the more detestable, who, seeing he hath made himself an high priest without the commandment of God and the consent of the Church, doth not only challenge to himself all titles of honor, but also such tyranny, that he goeth about to bring Christ in subjection."
+        ],
+        "Philip Schaff": [
+            "Brethren and fathers.\" ",
+            "It is noticeable that the opening words are the same as those used by Stephen in his great defence before the Sanhedrim.",
+            "So far they listen to him; but he no sooner touches on the promulgation of the gospel among the heathen (Acts 22:21) than he is interrupted."
+        ],
+        "Archibald T. Robertson": [
+            "These words are those of courtesy and dignity.",
+            "Paul's purpose is conciliatory, he employs 'his ready tact.'",
+            "The facts make the strongest argument."
+        ],
+        "John Gill": [
+            "that the apostle should introduce his speech to these people in this manner, after they had treated him so inhumanly... is remarkable, and worthy of observation\" ",
+            "this shows how ready the apostle was to put up with affronts, and to forgive injuries done him\" ",
+            "in order to clear himself of these imputations, and vindicate his character and conduct"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Paul delivers a skillfully arranged and adapted speech of his conversion to Christianity, aiming to avoid offense and conciliate his hearers. He approaches his defense with courtesy and dignity, employing his ready tact to present the facts as the strongest argument. It is notable that Paul begins his speech with the same words as Stephen did in his defense before the Sanhedrin. Despite the inhuman treatment he received, Paul is ready to forgive and put up with affronts. His purpose is to clear himself of imputations and vindicate his character and conduct.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.4833241630304874,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.66,
+            "commentatorTierSimilarities": [
+                31.26,
+                23.88,
+                44.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul delivers a skillfully adapted speech of his conversion, aiming to avoid offense and conciliate his hearers. His defense is presented with courtesy and dignity. The facts serve as the strongest argument. It is notable that he begins with the same words as Stephen did in his defense before the Sanhedrin. Despite inhuman treatment, Paul forgives and puts up with affronts. His purpose is to clear himself and vindicate his character.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.4171531710419147,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.46,
+            "commentatorTierSimilarities": [
+                35.38,
+                26.22,
+                38.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul delivers a skilfully arranged and conciliatory speech of his conversion, avoiding offense while presenting the facts as a strong argument. Notably, he begins with the same words Stephen used in his defense. Despite the inhuman treatment he received, Paul forgives and puts up with affronts, seeking to clear himself and vindicate his character.",
+            "wordCount": 54,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.486679097983248,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.77,
+            "commentatorTierSimilarities": [
+                31.38,
+                29.28,
+                39.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this speech, Paul skillfully arranges and adapts the narrative of his conversion, aiming to avoid offense and conciliate his hearers. He presents the facts as the strongest argument and begins his defense with courtesy and dignity. Despite the inhumane treatment he received, Paul is ready to forgive and put up with affronts, seeking to clear himself of imputations and vindicate his character and conduct.",
+            "wordCount": 65,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 1.5187802129446561,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.84,
+            "commentatorTierSimilarities": [
+                33.87,
+                19.09,
+                47.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul delivers a skillfully arranged and adapted speech of his conversion, aiming to avoid offense and conciliate his hearers. Employing his ready tact, he presents the facts as the strongest argument and begins his defense with courtesy and dignity. It is notable that he begins his speech with the same words as Stephen did in his defense before the Sanhedrin. Despite receiving inhumane treatment, Paul forgives and puts up with affronts, seeking to clear himself of imputations and vindicate his character and conduct.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.5178221615599135,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.81,
+            "commentatorTierSimilarities": [
+                31.25,
+                26.03,
+                42.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:20:24",
+    "verseRef": "Colossians 3:4",
+    "bestBHT": {
+        "bht": "When Christ is personally revealed, who is our life, we shall also be revealed with Him in glory. This manifestation refers to the second coming of Christ, a time that is uncertain but eagerly anticipated. Christ is not only the source of our spiritual life; He is our life itself. Our hope lies in the vision, communion, and conformity with Christ, who is the author and object of our life. This revelation will unveil our true nature and dazzle the world with its radiant glory.",
+        "wordCount": 85,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.259346975514731,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.46,
+        "commentatorTierSimilarities": [
+            33.11,
+            32.74,
+            34.15
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When Christ is manifested (shall emerge from his present state of hidden-ness, and be personally revealed), who is our life.",
+            "Then shall ye also (also takes out the special from the general\u2014ye, as well as and among, other Christians) with Him be manifested in glory.",
+            "The mystery of our resurrection is hidden in Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The spiritual life our souls have now in Him shall be extended to our bodies.",
+            "The true Church shall be visible as a perfect and reigning Church, when Christ shall be visibly manifested as her reigning Head.",
+            "Rome having ceased to look for Him in patient faith, has set up a visible mockhead, a false anticipation of the millennial kingdom."
+        ],
+        "Albert Barnes": [
+            "When Christ, who is our life...",
+            "Shall appear...",
+            "Then shall ye also appear with him in glory..."
+        ],
+        "Marvin Vincent": [
+            "The life is not only with Christ, it is Christ.\" ",
+            "Shall be manifested.",
+            "In glory."
+        ],
+        "John Calvin": [
+            "Here we have a choice consolation \u2014 that the coming of Christ will be the manifestation of our life.",
+            "And, at the same time, he admonishes us how unreasonable were the disposition of the man, who should refuse to bear up until that day.",
+            "For if our life is shut up in Christ, it must be hid, until he shall appear."
+        ],
+        "Philip Schaff": [
+            "'Christ,' occurring for the fourth time, is emphatic 'Our' points to Christians in general, 'ye also' to the Colossians.",
+            "Christ Himself is 'our life;' He is 'not merely a remote and separated Cause, but Impulse, Power, Object and Subject of the Life itself.'",
+            "The veil which now shrouds your higher life from others, and even partly from yourselves, will then be withdrawn. The world which persecutes, despises, ignores now, will then be blinded with the dazzling glory of the revelation."
+        ],
+        "Archibald T. Robertson": [
+            "Whenever Christ is manifested, a reference to the second coming of Christ as looked for and longed for, but wholly uncertain as to time.\" ",
+            "That is the joy of this blessed hope.",
+            "Not to respond to this high appeal is to be like Bunyan's man with the muck-rake."
+        ],
+        "John Gill": [
+            "Christ is the author of spiritual life, the fountain from whence it springs, the object on which the saints live, yea, their very life itself.",
+            "To know him now is the beginning of it; and its perfection hereafter will lie in the vision of him, communion with him, and conformity to him.",
+            "The dead bodies of the saints will then be raised and united to their souls, which he will bring with him, when he appears; and living saints shall be changed, and be caught up together with the raised ones, into the clouds, to meet the Lord in the air."
+        ],
+        "John Wesley": [
+            "When Christ \u2014 The abruptness of the sentence surrounds us with sudden light.",
+            "Our life \u2014 The fountain of holiness and glory.",
+            "Shall appear \u2014 In the clouds of heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Christ is personally revealed, our spiritual life hidden in Him will be extended to our bodies and we shall be manifested in glory. This manifestation refers to the second coming of Christ, a time that is uncertain but anticipated with joy. Refusing to respond to this appeal is akin to the man with the muck-rake in Bunyan's allegory. Christ is not just the source of our life, but He is our life itself. This upcoming manifestation will reveal our true nature and blind the world with its dazzling glory. Our hope lies in the vision, communion, and conformity to Christ, who is the author and object of our life.",
+            "wordCount": 112,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.1229750211664307,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                35.15,
+                31.64,
+                33.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Christ is revealed and personally manifested, our spiritual life hidden in Him will be extended to our bodies and we shall be manifested in glory. This manifestation refers to the second coming of Christ, a time that is uncertain but eagerly awaited with joy. Christ is not only the source of our life, but He is our life itself. This upcoming revelation will unveil our true nature and overwhelm the world with its resplendent glory. Our hope rests in the vision, communion, and conformity to Christ, who is the origin and essence of our life.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.255976420291629,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.35,
+            "commentatorTierSimilarities": [
+                34.36,
+                31.95,
+                33.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Christ is personally revealed, who is our life, we shall also be revealed with Him in glory. This manifestation refers to the second coming of Christ, a time that is uncertain but eagerly anticipated. Christ is not only the source of our spiritual life; He is our life itself. Our hope lies in the vision, communion, and conformity with Christ, who is the author and object of our life. This revelation will unveil our true nature and dazzle the world with its radiant glory.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.259346975514731,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.46,
+            "commentatorTierSimilarities": [
+                33.11,
+                32.74,
+                34.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Christ, who is our life, is personally revealed, we will also be revealed with Him in glory. This manifestation, referring to His second coming, is a time that is eagerly anticipated though uncertain. Our spiritual life, hidden in Him, will then be extended to our bodies. Christ is not merely a separate cause, but the very impulse, power, object, and subject of our life. Our hope and joy lie in the vision, communion, and conformity to Christ, the origin and essence of our life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1831893027026243,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.93,
+            "commentatorTierSimilarities": [
+                33.04,
+                34.14,
+                32.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Christ, our life, is personally manifested, we will also be manifested with Him in glory. This manifestation refers to the eagerly awaited second coming of Christ, a time that is uncertain but anticipated with joy. Christ is not just a remote cause, but the very essence and source of our spiritual life. Our hope lies in the vision, communion, and conformity to Christ, who is the fountain and object of our life. This revelation will reveal our true nature and overwhelm the world with its resplendent glory.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.231688990255125,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.54,
+            "commentatorTierSimilarities": [
+                33.27,
+                32.72,
+                34.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

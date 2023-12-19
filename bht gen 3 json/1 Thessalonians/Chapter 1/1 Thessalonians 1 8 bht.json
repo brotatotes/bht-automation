@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:58:32",
+    "verseRef": "1 Thessalonians 1:8",
+    "bestBHT": {
+        "bht": "The Thessalonians' faith sounded forth the word of the Lord, resonating like a trumpet throughout all parts. Their faith served as a captivating testimony, spreading the Gospel message far and wide. They became like missionaries, actively recommending the Gospel through their words and actions. The impact of their faith was so profound that it caught the attention of people in Macedonia, Achaia, and even in every place. Their genuine belief in God and the Gospel was unmistakable, attracting others to the truth.",
+        "wordCount": 82,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 2.0170452162475545,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.41,
+        "commentatorTierSimilarities": [
+            30.08,
+            40.52,
+            29.39
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "your ready reception and faith as it were sounded forth the word of the Lord, the Gospel message, loudly and clearly, through all parts.\" ",
+            "directed towards God as its object.",
+            "The report being already rife, we found no occasion to speak of your faith, or in your praise."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They, by the report which spread abroad of their 'faith'... were virtually missionaries, recommending the Gospel to all within reach of their influence by word and by example.\" ",
+            "In 'sounded,' the image is that of a trumpet filling with its clear-sounding echo all the surrounding places.",
+            "They themselves [the people in Macedonia, Achaia, and in every place] know it already."
+        ],
+        "Albert Barnes": [
+            "The truths of religion were thus spread abroad.",
+            "Their influence had an effect in diffusing the gospel in other places, as if the sound of a trumpet echoed and reechoed among the hills and along the vales.",
+            "They showed that they had a true belief in God and in the truth which he had revealed."
+        ],
+        "Marvin Vincent": [
+            "It means a loud, unmistakable proclamation.",
+            "The meaning here is the gospel, regarded either as the message proceeding from the Lord, or concerning him.",
+            "A rhetorical exaggeration, signifying the whole known world."
+        ],
+        "John Calvin": [
+            "Their faith was so lively, that it did, as it were, by its sound, arouse other nations.",
+            "He says that this had not only occurred in neighboring places, but this sound had also extended far and wide.",
+            "The word of God sounded forth from them...so that the matter did not require to be published by him."
+        ],
+        "Philip Schaff": [
+            "Hath sounded out the word of the Lord. The word rendered sounded out is used in Sir 40:13 , with the added definition \u2018Like a great thunder.\u2019",
+            "The word of the Lord, or the Gospel, was received by the Thessalonians with a faith so eager and genuine, and manifested its power by result\u2019s so striking, that the attention and inquiry of the whole population of Greece were awakened.",
+            "Paul himself had not yet been out of Greece since leaving Thessalonica; but wherever be did go he found himself anticipated by the tidings regarding the Thessalonian believers, so that he \u2018needed not to speak anything.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "From you hath sounded forth... to reverberate like our echo.\" ",
+            "It marks forcibly 'both the clear and the persuasive nature of the \u03bb\u03bf\u03b3\u03bf\u03c2 \u03c4\u03bf\u03c5 \u039a\u03c5\u03c1\u03b9\u03bf\u03c5' (Ellicott).\" ",
+            "The repeated article makes clear that their faith is now directed toward the true God and not toward the idols from which they had turned."
+        ],
+        "John Gill": [
+            "This is said to have 'sounded out', alluding to the blowing of a trumpet, to which the Gospel is sometimes compared, as to the silver trumpet under the law, for the gathering of the people of Israel.",
+            "The fame and report of its being preached in this place, spread itself, not only in Macedonia and Achaia, but also in every place.",
+            "Your faith to God-ward is spread abroad; meaning the grace of faith bestowed on them, by which they received the Gospel in the love of it, assented to it, and professed it, and which has God for its object."
+        ],
+        "John Wesley": [
+            "For from you the word sounded forth.\" ",
+            "Being echoed, as it were, from you.",
+            "And your conversion was divulged far beyond Macedonia and Achaia."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Thessalonians' faith in God was so strong and genuine that it echoed like a trumpet, resounding throughout all parts and catching the attention of people in Macedonia, Achaia, and even in every place. They became like missionaries, spreading the word of the Lord through their actions and attracting others to the Gospel. Their faith was not only a personal belief, but a testimony that reverberated far and wide, no longer directed towards idols, but towards the true God. The news of their faith had already reached Paul, making it unnecessary for him to speak of their praise. Their influence was so profound that they helped to spread the truths of religion and showed a true belief in God.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.9832611743527173,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+            "commentatorTierSimilarities": [
+                28.54,
+                44.1,
+                27.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians' faith in God resounded loudly and clearly, like a trumpet sounding forth the word of the Lord. Their faith was not only directed towards idols, but towards the true God. Their influence was so powerful that it spread the Gospel to all parts, reaching people in Macedonia, Achaia, and even in every place. They became like missionaries, recommending the Gospel through their actions and examples. Their faith was so profound that it caught the attention and inquiry of the whole population.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9507168299851672,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.2,
+            "commentatorTierSimilarities": [
+                31.69,
+                38.78,
+                29.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians' faith in God reverberated like a clear and persuasive trumpet sound, loudly and unmistakably proclaiming the word of the Lord. Their faith spread widely, reaching people in Macedonia, Achaia, and every place. They became like missionaries, recommending the Gospel to others through their strong belief and genuine reception. The report of their faith was already well-known, eliminating the need for further praise. Their faith was not only a personal belief but a testimony that attracted others to the truth of the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9782762719218927,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                31.1,
+                39.25,
+                29.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Thessalonians' faith sounded forth the word of the Lord, resonating like a trumpet throughout all parts. Their faith served as a captivating testimony, spreading the Gospel message far and wide. They became like missionaries, actively recommending the Gospel through their words and actions. The impact of their faith was so profound that it caught the attention of people in Macedonia, Achaia, and even in every place. Their genuine belief in God and the Gospel was unmistakable, attracting others to the truth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.0170452162475545,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.41,
+            "commentatorTierSimilarities": [
+                30.08,
+                40.52,
+                29.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians' faith resounded loudly and clearly like a trumpet, spreading the word of the Lord throughout all parts. Their faith served as a powerful witness, recommending the Gospel to all within reach of their influence. The report of their faith was so widespread that Paul found no need to speak of it himself. Their faith stood out, drawing attention and inquiry from people in Macedonia, Achaia, and even beyond. Their genuine belief in God reverberated far and wide, impacting others and attracting them to the Gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9638328663214297,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+            "commentatorTierSimilarities": [
+                30.02,
+                39.59,
+                30.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:15:16",
+    "verseRef": "Luke 5:18",
+    "bestBHT": {
+        "bht": "Four men brought a man with palsy to Jesus, with Luke emphasizing the use of a technical medical term for this condition rather than the vernacular word. The men diligently sought ways to bring the afflicted man to Jesus, placing him at His feet in hopes of receiving compassion and healing. The parallel accounts in Matthew and Mark align with Luke's narrative, further validating this event.",
+        "wordCount": 67,
+        "quoteTokenProportion": 32.0,
+        "qualityScore": 1.3533526180592932,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.34,
+        "commentatorTierSimilarities": [
+            38.03,
+            0.0,
+            61.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18.] Borne of four, Mark."
+        ],
+        "Marvin Vincent": [
+            "Taken with a palsy [\u03c0\u03b1\u03c1\u03b1\u03bb\u03b5\u03bb\u03c5\u03bc\u03b5\u03bd\u03bf\u03c2] . Rev., more neatly, palsied.",
+            "Whenever Luke mentions this disease, he uses the verb and not the adjective paralutikov, paralytic (as Matthew 4:24; Matthew 8:6; Mark 2:3-10; compare Acts 8:7; Acts 9:33);",
+            "his usage in this respect being in strict accord with that of medical writers."
+        ],
+        "Archibald T. Robertson": [
+            "Luke's phrase is the technical medical term rather than Mark's vernacular word.",
+            "They sought. Conative imperfect."
+        ],
+        "John Gill": [
+            "And behold, men brought in a bed a man which was taken with a palsy.\" ",
+            "Four men brought him, as Mark says... 'and they sought means to bring him in'.",
+            "They lay him before him; at his feet, in hope of moving his compassion, and to obtain a cure of him."
+        ],
+        "John Wesley": [
+            "Matthew 9:2; Mark 2:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Four men brought a man who was suffering from palsy, a condition Luke specifically mentions using the technical medical term rather than the vernacular word. The men sought ways to bring him in, carrying him on a bed and laying him at Jesus' feet, hoping for his compassion and a cure. The parallel accounts in Matthew and Mark confirm this event.",
+            "wordCount": 61,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.3152329143318529,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.07,
+            "commentatorTierSimilarities": [
+                35.2,
+                0.0,
+                64.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Bringing a man affected by palsy, the detailed account by Luke distinguishes the medical precision of his language from that of the other Gospel writers. The man was carried by four individuals who diligently sought means to present him to Jesus. Placing him at the feet of Jesus, they hoped for his mercy and healing. The corresponding passages in Matthew and Mark further corroborate this event.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.3018618873048426,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.63,
+            "commentatorTierSimilarities": [
+                39.12,
+                0.0,
+                60.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Bearing a man afflicted with palsy, Luke emphasizes the technical medical term he uses when describing this condition, in contrast to the vernacular word employed by the other Gospel writers. It is evident that the four individuals who brought the paralytic diligently strived to find a way to present him before Jesus. Placing him at the feet of Jesus, they hoped for his compassion and sought healing. The corresponding narratives in Matthew and Mark support and reinforce this account.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.2771517362765406,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.81,
+            "commentatorTierSimilarities": [
+                38.25,
+                0.0,
+                61.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Presenting a man who suffered from palsy, Luke's specific choice of language distinguishes his account as the technical medical term rather than a vernacular word. Carried by four individuals, they actively sought ways to bring him to Jesus, positioning him at His feet in anticipation of His compassion and a potential cure. Comparable narratives in Matthew and Mark further solidify the credibility of this event.",
+            "wordCount": 66,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.299742690850995,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.56,
+            "commentatorTierSimilarities": [
+                42.05,
+                0.0,
+                57.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Four men brought a man with palsy to Jesus, with Luke emphasizing the use of a technical medical term for this condition rather than the vernacular word. The men diligently sought ways to bring the afflicted man to Jesus, placing him at His feet in hopes of receiving compassion and healing. The parallel accounts in Matthew and Mark align with Luke's narrative, further validating this event.",
+            "wordCount": 67,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.3533526180592932,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.34,
+            "commentatorTierSimilarities": [
+                38.03,
+                0.0,
+                61.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

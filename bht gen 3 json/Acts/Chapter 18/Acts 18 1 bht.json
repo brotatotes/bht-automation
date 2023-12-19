@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:33:11",
+    "verseRef": "Acts 18:1",
+    "bestBHT": {
+        "bht": "Corinth, the capital of the Roman province of Achaia, was a large and populous mercantile city known for its immorality and luxurious lifestyle. Despite the challenges, Paul's determination and reliance on the power of the Spirit led him to transform this renowned city. The Corinthian community, like Antioch and Ephesus, became steadfast and devoted followers of Christ, testament to the success of Paul's missionary work. Just as the Gospel was preached to sinners, Corinth was chosen as the site to spread the message of Christ.",
+        "wordCount": 87,
+        "quoteTokenProportion": 24.14,
+        "qualityScore": 1.774429930689407,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+        "commentatorTierSimilarities": [
+            26.9,
+            35.56,
+            37.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Corinth was at this time a colony, the capital of the Roman province of Achaia.\" ",
+            "Corinth, the residence of the proconsul.\" ",
+            "For further particulars, see Introduction to 1 Cor.\u00a72."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "came to Corinth\u2014rebuilt by Julius C\u00e6sar on the isthmus between the \u00c6gean and Ionian Seas\" ",
+            "the capital of the Roman province of Achaia, and the residence of the proconsul; a large and populous mercantile city, and the center of commerce alike for East and West",
+            "having a considerable Jewish population, larger, probably, at this time than usual, owing to the banishment of the Jews from Rome by Claudius C\u00e6sar"
+        ],
+        "Albert Barnes": [
+            "Corinth was one of the most populous and wealthy cities of Greece, and at the same time one of the most luxurious, effeminate, ostentatious, and dissolute.",
+            "No city of ancient times was more profligate. It was the Paris of antiquity; the seat of splendor, and show, and corruption.",
+            "Yet even here, notwithstanding all the disadvantages of splendor, gaiety, and dissoluteness, Paul entered on the work of rearing a church; and here he was eminently successful."
+        ],
+        "Marvin Vincent": [
+            "A Jewish guild always keeps together, whether in street or synagogue.",
+            "In Alexandria the different trades sat in the synagogue arranged into guilds.",
+            "St. Paul could have no difficulty in meeting, in the bazaar of his trade, with the like-minded Aquila and Priscilla."
+        ],
+        "John Calvin": [
+            "Luke showeth in this place with what great labor, and how hardly, Paul did win the [Church of Corinthus] to Christ.",
+            "In that that huge gulf doth not swallow up his desire which he had to spread abroad the gospel, by this we gather that he was furnished with wonderful power of the Spirit of God.",
+            "He himself showed no small token of invincible constancy, when, being vexed with the mocks of all men, he did notwithstanding stay himself upon God\u2019s help alone."
+        ],
+        "Philip Schaff": [
+            "The old city of the same name, so renowned in Grecian story, had been completely destroyed by the Roman Mummius, and for a hundred years the capital of the \u2018Achaean League\u2019 was left a heap of ruins.",
+            "To a city so peopled, and possessing so great a trade, it can easily be believed that many Jews were attracted.",
+            "In the records of the Church of the first days, the Corinthian community in numbers, in stedfastness, in devotion, take rank with Antioch and Ephesus, Thessalonica and Rome."
+        ],
+        "Archibald T. Robertson": [
+            "It was now the capital of the province of Achaia and the chief commercial city of Greece with a cosmopolitan population.",
+            "The temple of Aphrodite on the Acrocorinthus had a thousand consecrated prostitutes and the very name to Corinthianize meant immorality.",
+            "Not the Parthenon with Athene faced Paul in Corinth, but a worse situation."
+        ],
+        "John Gill": [
+            "After this it came into the hands of the Venetians, from whom it was taken by Mahomet, the second son of Amurath, in the year 1458.",
+            "And as the Gospel was to be preached to the worst of sinners, among whom God's chosen ones lay, the apostle was directed to come hither.",
+            "And it appears by the sequel, that God had much people here, even more than at Athens, among the wise and learned."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Corinth, the capital of the Roman province of Achaia and a cosmopolitan city known for its wealth and immorality, was the destination of Paul's journey. With its large population and Jewish community, it provided a fertile ground for his missionary work. Despite facing mockery and opposition, Paul displayed extraordinary determination and reliance on the power of the Spirit. The ancient city, known for its luxurious lifestyle and corruption, was transformed by Paul's efforts, as the Corinthian community became renowned for their steadfastness and devotion to the gospel. Just as the Gospel was preached to the worst of sinners, Corinth was chosen as the site for Paul to spread the message of Christ.",
+            "wordCount": 114,
+            "quoteTokenProportion": 24.64,
+            "qualityScore": 1.7918044919567946,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.92,
+            "commentatorTierSimilarities": [
+                27.13,
+                36.12,
+                36.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Corinth, the capital of the Roman province of Achaia, was a large and populous mercantile city known for its immorality and luxurious lifestyle. Despite the challenges, Paul's determination and reliance on the power of the Spirit led him to transform this renowned city. The Corinthian community, like Antioch and Ephesus, became steadfast and devoted followers of Christ, testament to the success of Paul's missionary work. Just as the Gospel was preached to sinners, Corinth was chosen as the site to spread the message of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 1.774429930689407,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                26.9,
+                35.56,
+                37.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Corinth, the capital of the Roman province of Achaia, was a large and populous mercantile city known for its immorality and being a center of commerce. Despite the challenges and opposition faced by Paul, he displayed remarkable determination and relied on the power of the Spirit to spread the gospel. The Corinthian community, renowned for its steadfastness and devotion, ranked with other significant early Christian communities. Just as the Gospel reached the worst of sinners, Corinth was chosen as a destination for Paul's missionary work.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.7686610622659997,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.15,
+            "commentatorTierSimilarities": [
+                29.33,
+                34.68,
+                35.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Corinth, once a prosperous and cosmopolitan city, had a reputation for its immorality and luxury. However, this did not deter Paul from his mission. With determination and reliance on the power of the Spirit, he successfully established a church in Corinth, alongside other notable Christian communities. Despite the challenges he faced, the Corinthian believers stood firm in their devotion to Christ. Just as the Gospel was preached to sinners, Corinth was chosen as a powerful place for Paul's ministry to thrive.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.5990724798741287,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.51,
+            "commentatorTierSimilarities": [
+                24.69,
+                32.31,
+                43.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Corinth, the capital of the Roman province of Achaia, was a large and populous mercantile city known for its immorality and the center of commerce. Despite the challenges and opposition faced by Paul, he displayed remarkable determination and relied on the power of the Spirit. The Corinthian community, renowned for its steadfastness and devotion, was comparable to other significant early Christian communities. Just as the Gospel reached the worst of sinners, Corinth was chosen as a significant place for Paul's missionary work.",
+            "wordCount": 83,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.7586388053369086,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                28.98,
+                35.32,
+                35.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

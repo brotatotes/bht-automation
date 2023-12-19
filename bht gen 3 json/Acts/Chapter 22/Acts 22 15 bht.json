@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:35:09",
+    "verseRef": "Acts 22:15",
+    "bestBHT": {
+        "bht": "The God of our fathers hath chosen thee as a witness for him, to testify to all people of what thou hast seen and heard - the remarkable proof of the divine mission and character of the Lord Jesus. This subtle change of tense, from Thou hast seen and heard to Thou shalt be his witness, reflects the continuation of the old economy to the new. Through personal encounters and receiving the Gospel, this chosen vessel has been given a mission and commission to preach the truth of Christ's resurrection to all men.",
+        "wordCount": 93,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.7974291053414024,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+        "commentatorTierSimilarities": [
+            14.22,
+            42.98,
+            42.8
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "13-15. The God of our fathers hath",
+            "\tchosen thee\u2014studiously linking the new economy upon the old, as",
+            "\tbut the sequel of it; both having one glorious Author."
+        ],
+        "Albert Barnes": [
+            "To testify to all people that the Messiah has come, that he has died, that he has risen, and that he is the Saviour of the world.",
+            "Of what thou hast seen and heard - Of the remarkable proof which has been furnished you of the divine mission and character of the Lord Jesus."
+        ],
+        "Marvin Vincent": [
+            "All men. He keeps back the offensive word Gentiles (ch. 9 15)."
+        ],
+        "Philip Schaff": [
+            "Thou shalt be his witness unto all men.",
+            "He is a chosen vessel unto me, to bear My name before the Gentiles.",
+            "Thou shalt be His witness to all men."
+        ],
+        "Archibald T. Robertson": [
+            "A witness for him (\u03bc\u03b1\u03c1\u03c4\u03c5\u03c2 \u03b1\u03c5\u03c4\u03c9). As in Acts 1:8.",
+            "Thou hast seen and heard (\u03b5\u03c9\u03c1\u03b1\u03ba\u03b1\u03c2, present perfect active indicative \u03ba\u03b1 \u03b7\u03ba\u03bf\u03c5\u03c3\u03b1\u03c2, first aorist active indicative).",
+            "This subtle change of tense is not preserved in the English."
+        ],
+        "John Gill": [
+            "For thou shalt be his witness unto all men.",
+            "he saw him personally and alive, and so could witness to the truth of his resurrection.",
+            "he heard him and received from him the Gospel, and a mission and commission to preach it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The God of our fathers hath chosen thee as a witness for him, to testify to all people of what thou hast seen and heard - the remarkable proof of the divine mission and character of the Lord Jesus. This subtle change of tense, from Thou hast seen and heard to Thou shalt be his witness, reflects the continuation of the old economy to the new. Through personal encounters and receiving the Gospel, this chosen vessel has been given a mission and commission to preach the truth of Christ's resurrection to all men.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7974291053414024,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+            "commentatorTierSimilarities": [
+                14.22,
+                42.98,
+                42.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The God of our fathers hath chosen thee as a witness for him to testify to all people. Thou hast seen and heard the remarkable proof of the divine mission and character of the Lord Jesus. Through personal encounters with him, this chosen vessel has been given a mission and commission to preach the truth of Christ's resurrection to all men. This continuation from the old economy to the new reflects the connection between them, both having one glorious Author.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.6102347054809403,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.88,
+            "commentatorTierSimilarities": [
+                15.94,
+                44.09,
+                39.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The God of our fathers has chosen thee as a witness for Him, to testify to all people. Thou hast seen and heard the remarkable proof of the divine mission and character of the Lord Jesus. This chosen vessel has been given a mission and commission to preach Christ's resurrection. The connection between the old and new economy is reflected in this continuation, both having one glorious Author.",
+            "wordCount": 69,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.5058232904277504,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.41,
+            "commentatorTierSimilarities": [
+                15.57,
+                44.61,
+                39.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The God of our fathers hath chosen thee as a witness for Him, to testify to all people. This chosen vessel has seen and heard the remarkable proof of the divine mission and character of the Lord Jesus. Through personal encounters, this witness has been given a mission and commission to preach the truth of Christ's resurrection to all men. The connection between the old and new economy is reflected in this continuation, both having one glorious Author.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.5720110030784944,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+            "commentatorTierSimilarities": [
+                15.79,
+                43.12,
+                41.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The God of our fathers hath chosen thee as a witness for Him, to testify to all people. Thou hast seen and heard the remarkable proof of the divine mission and character of the Lord Jesus. Through personal encounters, this chosen vessel has been given a mission and commission to preach the truth of Christ's resurrection to all men. The old and new economy are connected in this continuation, both having one glorious Author.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6127263349548184,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.97,
+            "commentatorTierSimilarities": [
+                16.84,
+                43.52,
+                39.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

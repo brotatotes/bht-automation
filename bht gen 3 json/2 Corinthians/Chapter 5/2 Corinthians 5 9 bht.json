@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:16:07",
+    "verseRef": "2 Corinthians 5:9",
+    "bestBHT": {
+        "bht": "Though present in the body or absent from it, we have the sure confidence of being blessed, and thus we labor with the only lawful ambition, which is to be well-pleasing to Christ. In light of the resurrection and the hope of future glory, it is our constant aim to be acceptable to God, regardless of our earthly circumstances. This ambition to please Him stems from our love for Him and our desire to bring Him glory, for without faith, it is impossible to please Him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 2.037209370780204,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.08,
+        "commentatorTierSimilarities": [
+            25.5,
+            45.12,
+            29.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "With such a sure 'confidence' of being blessed, whether we die before, or be found alive at Christ's coming.",
+            "We labor... the only lawful ambition.",
+            "Whether we be found at His coming present in the body, or absent from it... well-pleasing."
+        ],
+        "Albert Barnes": [
+            "Since we have the prospect of a resurrection and of future glory; since we have the assurance that there is a house not made with hands, eternal in the heavens; and since God has given to us this hope, and has granted to us the earnest of the Spirit, we make it our great object so to live as to be accepted by him.",
+            "It was his leading and constant aim to live so as to be acceptable to God, and to meet his approbation wherever he was.",
+            "The fact that he is now absent from the Lord will be to him no reason why he should lead a life of sin and self-indulgence, anymore than he would if he were in heaven; and the fact that he is soon to be with him is not the main reason why he seeks to live so as to please him."
+        ],
+        "Marvin Vincent": [
+            "We labor [\u03c6\u03b9\u03bb\u03bf\u03c4\u03b9\u03bc\u03bf\u03c5\u03bc\u03b5\u03b8\u03b1]. Used by Paul only, here, Romans 14:20 (note), 1 Thessalonians 4:11.\" ",
+            "Labor is a feeble translation, not bringing out the idea of the end contemplated, as the motive of the toil.",
+            "Rev., we make it our aim."
+        ],
+        "John Calvin": [
+            "Having shown how magnanimous Christians ought to be in the endurance of afflictions, so that even in dying they may be conquerors over death...",
+            "The true reason why we are so indolent and remiss in duty is, that we seldom, if ever, think of what ought to be constantly kept in remembrance, that we are here but lodgers for a short time...",
+            "Observe, however, what he says \u2014 that this is the desire both of the living and of the dead, by which statement the immortality of the soul is again confirmed."
+        ],
+        "Archibald T. Robertson": [
+            "We make it our aim... to be ambitious in the good sense.\" ",
+            "To be well-pleasing to him... shows Paul's loyalty to Christ, his Captain.",
+            "Late adjective that shows Paul's loyalty to Christ, his Captain."
+        ],
+        "John Gill": [
+            "Such who are born again, who are believers in Christ, and truly love him, are earnestly desirous of doing those things which are pleasing to him; and do in the strength of Christ endeavor to perform them.",
+            "Faith is a diligent, industrious, and operative grace, and makes persons like itself.",
+            "And these are the only persons that can please him, for without faith it is impossible to please him; for these act from a principle of love to him, and with a view to his glory."
+        ],
+        "John Wesley": [
+            "Therefore we are ambitious \u2014 The only ambition which has place in a Christian.",
+            "Whether present \u2014 In the body.",
+            "Or absent \u2014 From it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With such a sure confidence of being blessed, whether we die before or be found alive at Christ's coming, we labor with the only lawful ambition\u2014to be well-pleasing to him. We make it our aim to be ambitious in the good sense, showing our loyalty to Christ, our Captain. Since we have the prospect of a resurrection and of future glory, and since God has given us this hope, our great object is to live in a way that is acceptable to him. It was our leading and constant aim to be approved by God, whether present in the body or absent from it.",
+            "wordCount": 107,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.9382232720021304,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                28.75,
+                46.74,
+                24.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With the sure confidence of being blessed, whether present in the body or absent from it, we aim to labor diligently and be well-pleasing to Christ. We strive to live in a way that meets God's approval, constantly keeping in mind that we are only temporary residents in this world. This desire to please Him is the mark of true believers, who act out of love for Him and with the view of bringing glory to His name.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7636858170984482,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+            "commentatorTierSimilarities": [
+                25.55,
+                44.76,
+                29.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though present in the body or absent from it, we have the sure confidence of being blessed, and thus we labor with the only lawful ambition, which is to be well-pleasing to Christ. In light of the resurrection and the hope of future glory, it is our constant aim to be acceptable to God, regardless of our earthly circumstances. This ambition to please Him stems from our love for Him and our desire to bring Him glory, for without faith, it is impossible to please Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.037209370780204,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.08,
+            "commentatorTierSimilarities": [
+                25.5,
+                45.12,
+                29.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With the sure confidence of being blessed, whether present in the body or absent from it, we aim to labor diligently and be well-pleasing to Christ. It is our constant ambition to live in a way that is acceptable to God, striving to please Him and bring glory to His name. This desire to please Him is the mark of true believers, who act out of love for Him and with the view of bringing glory to His name.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.9515781633504488,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                26.19,
+                44.91,
+                28.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With such a sure confidence of being blessed, whether we die before, or be found alive at Christ's coming, we labor with the only lawful ambition\u2014to be well-pleasing to him. We make it our aim to be ambitious in the good sense, showing our loyalty to Christ, our Captain. Since we have the prospect of a resurrection and of future glory, and since God has given us this hope, our great object is to live in a way that is acceptable to him. It was our leading and constant aim to be approved by God, whether present in the body or absent from it.",
+            "wordCount": 107,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.9382232720021304,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                28.75,
+                46.74,
+                24.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

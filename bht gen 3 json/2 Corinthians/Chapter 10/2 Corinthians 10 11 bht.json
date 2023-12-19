@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 15:17:36",
+    "verseRef": "2 Corinthians 10:11",
+    "bestBHT": {
+        "bht": "Let them not flatter themselves that there will be any discrepancy between my words and my deeds. All which has been threatened will be certainly executed unless there is repentance. Let such an one reckon this, that what was said in word by letters when absent, is indeed how we are in reality when present. He threatens the calumniator, that he should find him, to his sorrow, the same man present as absent, and what he sent by letters, should be found to be fact, when he came again.",
+        "wordCount": 89,
+        "quoteTokenProportion": 60.94,
+        "qualityScore": 1.7837518808161632,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+        "commentatorTierSimilarities": [
+            18.4,
+            32.95,
+            48.65
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "11.] such are we, not \u201csuch will we be.\u201d Not only the conduct of the Apostle on his next visit, but his general character, is in question."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "11. think this\u2014\"consider",
+            "\tthis.\" ",
+            "\t",
+            "such will we be",
+            "\u2014or \"are,\" in general, not merely shall we be at our",
+            "\tnext visit."
+        ],
+        "Albert Barnes": [
+            "Let them not flatter themselves that there will be any discrepancy between my words and my deeds.",
+            "All which has been threatened will be certainly executed unless there is repentance.",
+            "Paul here designedly contradicts the charge which was made against him; and means to say that all that he had threatened in his letters would he certainly executed unless there was a reform."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 10:11. Let such an one reckon this, that what. . . in word by letters when . . . absent, such are we also indeed when. . . absent \u2018that our words are no idle threats.\u2019",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "What we are (\u03bf\u03b9\u03bf \u03b5\u03c3\u03bc\u03b5\u03bd). Rather, 'what sort' (\u03bf\u03b9\u03bf), not \u03bf (what) nor \u03bf (who). Literary plural.",
+            "H\u03bf\u03b9\u03bf\u03c2 is qualitative just as \u03c4\u03bf\u03b9\u03bf\u03c5\u03c4\u03bf (such).",
+            "Paul's quality in his letters when absent (\u03b1\u03c0\u03bf\u03bd\u03c4\u03b5\u03c2) and in his deeds when present (\u03c0\u03b1\u03c1\u03bf\u03bd\u03c4\u03b5\u03c2) is precisely the same."
+        ],
+        "John Gill": [
+            "Let such an one think this...and of which he might fully assure himself, that such as we are in word by letters, when we are absent, such will be also in deed, when we are present.\" ",
+            "He threatens the calumniator, that he should find him, to his sorrow, the same man present as absent.",
+            "What he sent by letters, should be found to be fact, when he came again; whose coming would not be with all that tenderness and gentleness, as when he first preached the Gospel to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let those who question the Apostle's character consider that he is consistent in both his words and his deeds. He assures them that he will not prove to be different in person than he appears to be through his letters. His quality in his letters when absent is the same as his quality in his deeds when present. So, they should not think that his threats in his letters are empty, but rather that they will be fully executed unless there is repentance. Let them remember that his words are no idle threats, but rather a reflection of his true character both in writing and in person.",
+            "wordCount": 108,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 1.7290016743764152,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                22.68,
+                27.52,
+                49.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let those who question the Apostle\u2019s character consider that he is consistent in both his words and his deeds. He assures them that he will not prove to be different in person than he appears to be through his letters. His quality in his letters when absent is the same as his quality in his deeds when present. So, they should not think that his threats in his letters are empty, but rather that they will be fully executed unless there is repentance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 55.77,
+            "qualityScore": 1.7314650364315174,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.91,
+            "commentatorTierSimilarities": [
+                23.13,
+                26.31,
+                50.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let them not flatter themselves with the idea that there will be any discrepancy between my words and my deeds. I intentionally contradict the charge made against me and make it clear that what I have written in my letters will certainly be executed unless there is a reform. So, they should consider and fully assure themselves that my words are not idle threats, but a reflection of who I truly am both in my letters and in person.",
+            "wordCount": 79,
+            "quoteTokenProportion": 59.65,
+            "qualityScore": 1.5668241373593608,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                16.67,
+                42.73,
+                40.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let them not flatter themselves that there will be any discrepancy between my words and my deeds. All which has been threatened will be certainly executed unless there is repentance. Let such an one reckon this, that what was sent by letters should be found to be fact when he came again; his coming would not be with all that tenderness and gentleness, as when he first preached the Gospel to them.",
+            "wordCount": 72,
+            "quoteTokenProportion": 63.64,
+            "qualityScore": 1.720315064370451,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.54,
+            "commentatorTierSimilarities": [
+                16.46,
+                38.25,
+                45.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let them not flatter themselves that there will be any discrepancy between my words and my deeds. All which has been threatened will be certainly executed unless there is repentance. Let such an one reckon this, that what was said in word by letters when absent, is indeed how we are in reality when present. He threatens the calumniator, that he should find him, to his sorrow, the same man present as absent, and what he sent by letters, should be found to be fact, when he came again.",
+            "wordCount": 89,
+            "quoteTokenProportion": 60.94,
+            "qualityScore": 1.7837518808161632,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+            "commentatorTierSimilarities": [
+                18.4,
+                32.95,
+                48.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:33:40",
+    "verseRef": "Acts 19:23",
+    "bestBHT": {
+        "bht": "During Paul's proposed departure, there was a significant stir about the way, a designated term for the new religion, Christianity. This term originated from Jesus' claim as the Way and was used as a mutual designation among early disciples before the term Christian became widely accepted. The commotion aroused fierce opposition from adversaries who resisted Christ and His teachings. The subsequent account unfolds the profound impact and consequences of this disturbance caused by the opponents of Christ.",
+        "wordCount": 78,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.471511191620284,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.27,
+        "commentatorTierSimilarities": [
+            15.93,
+            49.34,
+            34.73
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "23. the same time\u2014of Paul's",
+            "\tproposed departure. ",
+            "\t",
+            "about that\u2014\"the",
+            "\t",
+            "way\u2014So the new religion",
+            "\tseemed then to be designated (Acts 9:2;",
+            "\tActs 22:4; Acts 24:14)."
+        ],
+        "Albert Barnes": [
+            "No small stir - No little excitement, disturbance, or tumult.\" ",
+            "About that way.\" ",
+            "Respecting the doctrines of Christianity which Paul preached."
+        ],
+        "Marvin Vincent": [
+            "The way. See on ch. Acts 9:2."
+        ],
+        "John Calvin": [
+            "There is nothing more odious or detestable than for every man to choose, at his pleasure, that which he will follow.",
+            "What zeal doth at this day prick forward the Pope, the horned bishops, the monks, and all the rabblement of the Popish clergy?",
+            "How many lusts of the flesh there be [reign] in the world, there are as many armed enemies to resist Christ."
+        ],
+        "Philip Schaff": [
+            "\u2018The way\u2019 seems to have been a term in the Christian phraseology of the first days used familiarly as a term signifying the disciples of Christ.",
+            "Plumptre suggests with great force that this \u2018name\u2019 for the disciples or their religion originated in the words in which Christ had claimed to be Himself the \u2018Way.\u2019",
+            "Prior to the general acceptance of the term \u2018Christian,\u2019 it served as a convenient mutual designation by which the disciples could describe themselves."
+        ],
+        "Archibald T. Robertson": [
+            "No small stir (\u03c4\u03b1\u03c1\u03b1\u03c7\u03bf\u03c2 \u03bf\u03c5\u03ba \u03bf\u03bb\u03b9\u03b3\u03bf\u03c2). Same phrase in Acts 12:18 and nowhere else in the N.T. Litotes.",
+            "Concerning the Way (\u03c0\u03b5\u03c1 \u03c4\u03b7\u03c2 \u03bf\u03b4\u03bf\u03c5). See this phrase for Christianity in Acts 9:2; Acts 19:9; Acts 24:22 which see, like the 'Jesus Way' of the Indians.",
+            " ",
+            "Paul as a Roman citizen could not be thrown to wild beasts, but he so pictured the violent opponents of Christ in Ephesus."
+        ],
+        "John Gill": [
+            "The Christian religion, and the doctrines and ordinances of the Gospel, which the saints were directed to walk in.",
+            "The doctrines and ordinances of the Gospel...which mightily grew and prevailed.",
+            "How great the stir was about it, and from whence it arose, who began it, and what were the consequences of it, are hereafter related."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the time of Paul's departure, there was a considerable commotion about the way, which seemed to designate this new religion. The phrase the Way was used in reference to Christianity, signifying the disciples of Christ. This term originated from Christ's claim to be the Way. Before the term Christian was widely accepted, it served as a convenient mutual designation among the disciples. The violent opponents of Christ in Ephesus were vividly depicted by Paul. This stirred great zeal in the adversaries, who resisted Christ and His teachings. The impact and consequences of this disturbance are further detailed in the subsequent account.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.4400235285956149,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.22,
+            "commentatorTierSimilarities": [
+                17.7,
+                49.08,
+                33.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During Paul's departure, there was a notable commotion surrounding the way, which was used to designate this new religion. This phrase served as a familiar term among the early Christians and signified the disciples of Christ. The opponents of Christ in Ephesus were vehemently depicted by Paul, igniting zeal in their resistance to Him. This disturbance's significance and subsequent consequences are further elaborated in the subsequent account.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.418157765697337,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.5,
+            "commentatorTierSimilarities": [
+                18.65,
+                46.58,
+                34.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the same time as Paul's proposed departure, there was a considerable stir about the way, which seemed to be a designated term for the new religion, Christianity. This term signified the disciples of Christ and originated from Jesus' claim to be the Way. Before the widespread acceptance of the term Christian, it served as a convenient mutual designation among the early disciples. This commotion stirred great opposition from the adversaries, who resisted Christ and His teachings. The subsequent account reveals the profound impact and consequences of this disturbance.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.4620394626417363,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.96,
+            "commentatorTierSimilarities": [
+                15.66,
+                51.6,
+                32.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During Paul's proposed departure, there was a significant stir about the way, a designated term for the new religion, Christianity. This term originated from Jesus' claim as the Way and was used as a mutual designation among early disciples before the term Christian became widely accepted. The commotion aroused fierce opposition from adversaries who resisted Christ and His teachings. The subsequent account unfolds the profound impact and consequences of this disturbance caused by the opponents of Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.471511191620284,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.27,
+            "commentatorTierSimilarities": [
+                15.93,
+                49.34,
+                34.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the time of Paul's departure, there was a notable commotion about the way, which seemed to designate the new religion of Christianity. This term, originating from Jesus' claim to be the Way, was used by early disciples before the term Christian gained widespread acceptance. The adversaries vehemently opposed Christ and His teachings, reacting to this disturbance fervently. The subsequent account reveals the significance and consequences of this opposition.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.4617572879937162,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                19.32,
+                46.52,
+                34.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

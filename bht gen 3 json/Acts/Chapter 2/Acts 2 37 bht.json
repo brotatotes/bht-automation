@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:25:46",
+    "verseRef": "Acts 2:37",
+    "bestBHT": {
+        "bht": "The sermon had a powerful impact on the hearers, causing them to be pricked in their hearts. They felt the sting of Peter's words, pierced with grief and acute pain, as they realized the weight of their rejection and crucifixion of Christ. This genuine compunction led them to ask the crucial question, What shall we do? Their hearts were filled with a readiness to surrender to God and do whatever he required. This marked a significant turning point, as they were now open and receptive to the gospel message.",
+        "wordCount": 90,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.7285910158747204,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+        "commentatorTierSimilarities": [
+            24.3,
+            38.28,
+            37.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The compunction arose from the thought that they bad rejected and crucified Him who was now so powerful, and under whose feet they, as enemies, would be crushed.",
+            "St. Luke gives us the fruit of the discourse, that we may know that the power of the Spirit was put forth, not only in the diversity of tongues, but also in the hearts of the hearers.",
+            "Calvin."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "pricked in their hearts\u2014the begun fulfilment of Zechariah 12:10, whose full accomplishment is reserved for the day when 'all Israel shall be saved'.\" ",
+            "what shall we do?\u2014This is that beautiful spirit of genuine compunction and childlike docility, which, discovering its whole past career to have been one frightful mistake, seeks only to be set right for the future, be the change involved and the sacrifices required what they may.\" ",
+            "So Saul of Tarsus (Acts 9:6)."
+        ],
+        "Albert Barnes": [
+            "The word translated were 'pricked,' katenugesan, is not used elsewhere in the New Testament. It properly denotes 'to pierce or penetrate with a needle, lancet, or sharp instrument'; and then 'to pierce with grief, or acute pain of any kind.' It corresponds precisely to our word 'compunction.' It implies also the idea of sudden as well as acute grief. In this case it means that they were suddenly and deeply affected with anguish and alarm at what Peter had said.",
+            "The views which sinners have of Christians and Christian ministers are greatly changed when they are under conviction for sin. Before that they may deride and oppose them; then, they are glad to be taught by the obscurest Christian, and even cling to a minister of the gospel as if he could save them by his own power.",
+            "Never was a more important question asked than this. It is the question which all convicted sinners ask. It implies an apprehension of danger, a sense of guilt, and a readiness to 'yield the will' to the claims of God... The state of mind in this case - the case of a convicted sinner - consists in: (3) An earnest wish, amounting sometimes to agony, to be delivered from this sense of condemnation and this apprehension of the future. (4) A readiness to sacrifice all to the will of God; to surrender the governing purpose of the mind, and to do what he requires. In this state the soul is prepared to receive the offers of eternal life; and when the sinner comes to this, the offers of mercy meet his case, and he yields himself to the Lord Jesus, and finds peace."
+        ],
+        "Marvin Vincent": [
+            "They were pricked. The word does not occur in profane Greek. It is found in the Septuagint, as Genesis 34:7, of the grief of the sons of Jacob at the dishonor of Dinah.",
+            "The kindred noun katanuxiv occurs...in the sense of slumber (Rev., stupor). Compare Isaiah 29:10.",
+            "The radical idea of the word is given in the simple verb nussw, to prick with a sharp point. So Homer, of the puncture of a spear; of horses dinting the earth with their hoofs, etc."
+        ],
+        "John Calvin": [
+            "This is the beginning of repentance, this is the entrance unto godliness, to be sorry for our sins, and to be wounded with the feeling of our miseries.",
+            "The word of God is compared to a sword because it doth mortify our flesh, that we may be offered to God for a sacrifice.",
+            "Therefore, we must take a good heart to us, and lift up our mind with this hope of salvation, that we may be ready to addict and give over ourselves unto God, and to follow whatsoever he shall command."
+        ],
+        "Philip Schaff": [
+            "St. Luke here relates what was the fruit of the sermons, that we may know that the Holy Spirit was displayed not merely in the variety of tongues, but in the hearts too of those who heard.\" ",
+            "For the first time since the crucifixion, when they shouted applause or stood passively by, the people repented them of their cruel deed.",
+            "This friendly, courteous address showed how already the people\u2019s hearts were moved."
+        ],
+        "Archibald T. Robertson": [
+            "They were pricked in their heart (\u03ba\u03b1\u03c4\u03b5\u03bd\u03c5\u03b3\u03b7\u03c3\u03b1\u03bd \u03c4\u03b7\u03bd \u03ba\u03b1\u03c1\u03b4\u03b9\u03b1\u03bd)...to pierce, to sting sharply, to stun, to smite.",
+            "The sermon went home, they felt the sting of Peter's words, compunction (\u03c7\u03bf\u03bc\u03c0\u03c5\u03bd\u03b3\u03bf).",
+            "What shall we do? (\u03a4 \u03c0\u03bf\u03b9\u03b7\u03c3\u03c9\u03bc\u03b5\u03bd)...Deliberative subjunctive first aorist active."
+        ],
+        "John Gill": [
+            "They saw themselves guilty of the crime laid to their charge, and were filled with remorse of conscience for it; they felt pain at their hearts, and much uneasiness, and were seized with horror and trembling.\" ",
+            "They were wounded in their spirits, being hewn and cut down by the prophets and apostles of the Lord, and slain by the words of his mouth; they were as dead men in their own apprehension.\" ",
+            "Convinced, awakened sinners, are generally at first upon a covenant of works; are for doing something to atone for their past crimes, to set themselves right in the sight of God, to ingratiate themselves into his favour, and procure the pardon of their sins, and the inheritance of eternal life."
+        ],
+        "John Wesley": [
+            "They said to the apostles, Brethren \u2014 They did not style them so before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sermon had a powerful impact on the hearers, causing a deep sense of guilt and anguish within them. They were pricked in their hearts, pierced with grief and acute pain, as they realized the weight of their rejection and crucifixion of Christ. This genuine compunction led them to ask the crucial question, What shall we do? Their hearts were filled with a readiness to surrender to God and do whatever he required. This state of mind prepared them to receive the offers of eternal life and find peace. The people's repentance and sorrow for their past deeds marked a significant turning point, as they were now open and receptive to the gospel message.",
+            "wordCount": 115,
+            "quoteTokenProportion": 29.49,
+            "qualityScore": 1.7358830803198986,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.06,
+            "commentatorTierSimilarities": [
+                22.04,
+                40.11,
+                37.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sermon had a powerful impact. They were pricked in their hearts, pierced with grief and acute pain, as they realized the weight of their rejection and crucifixion of Christ. This genuine compunction led them to ask the crucial question, What shall we do? Their hearts were filled with a readiness to surrender to God and do whatever he required. This marked a turning point, as they were now open and receptive to the gospel message.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.6254885058530717,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "commentatorTierSimilarities": [
+                23.07,
+                38.74,
+                38.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sermon had a powerful impact on the hearers, causing them to be pricked in their hearts. They felt the sting of Peter's words, pierced with grief and acute pain, as they realized the weight of their rejection and crucifixion of Christ. This genuine compunction led them to ask the crucial question, What shall we do? Their hearts were filled with a readiness to surrender to God and do whatever he required. This marked a significant turning point, as they were now open and receptive to the gospel message.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7285910158747204,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                24.3,
+                38.28,
+                37.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After hearing Peter's sermon, the listeners were deeply affected, with their hearts pricked and pierced by the weight of their guilt and the power of the Spirit. This genuine compunction led them to ask, What shall we do? They were ready to surrender to God and make the necessary changes. The sermon had touched their hearts and brought about a profound turning point, as they became open and receptive to the message of the gospel.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.6613015685239199,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.58,
+            "commentatorTierSimilarities": [
+                23.76,
+                36.96,
+                39.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sermon had a profound impact on the listeners, pricking their hearts with acute pain and grief as they realized the weight of their rejection and crucifixion of Christ. This genuine compunction led them to ask the vital question, What shall we do? Their hearts were filled with a readiness to surrender to God and fulfill His requirements, marking a significant turning point in their lives. This display of repentance and openness demonstrated the powerful work of the Holy Spirit, both in the diversity of tongues and in the hearts of the hearers.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.6963134747756232,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.74,
+            "commentatorTierSimilarities": [
+                23.34,
+                41.51,
+                35.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

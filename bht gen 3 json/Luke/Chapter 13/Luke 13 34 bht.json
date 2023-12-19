@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:19:30",
+    "verseRef": "Luke 13:34",
+    "bestBHT": {
+        "bht": "O Jerusalem, Jerusalem, how often I have longed to gather your children together, but you were unwilling. Jesus' words prophetically account for the desolation of the temple, foreseeing the future when Jerusalem would be trodden down by the Gentiles. He expresses his desire to gather the people of Jerusalem and protect them like a mother hen does to her brood. Jesus made repeated visits to Jerusalem, showing his deep love and concern for the city and its inhabitants.",
+        "wordCount": 78,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 1.7254392505654623,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+        "commentatorTierSimilarities": [
+            43.85,
+            0.0,
+            56.15
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For 'for,' which there accounts for the desolation of the temple, then for the last time left by our Lord...\" ",
+            "Surely these differences indicate an uttering of the words prophetically, previous to their utterance in the act of departure.",
+            "Our Lord overleaps in prophetic foresight the death Just set forth as certain, and speaks of the ages to come, during which holy city should be desolate and trodden down of the Gentiles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "34, 35. O Jerusalem, c.\u2014(See",
+            "\ton :- :-)."
+        ],
+        "Marvin Vincent": [
+            "Would I have gathered [\u03b7\u03b8\u03b5\u03bb\u03b7\u03c3\u03b1 \u03b5\u03c0\u03b9\u03c3\u03c5\u03bd\u03b1\u03be\u03b1\u03b9] . Lit., \"I desired to gather.\" See on will kill, ver. 31. ",
+            "Hen. See on Matthew 23:37. "
+        ],
+        "Archibald T. Robertson": [
+            "O Jerusalem, Jerusalem... How often did I wish. Clearly showing that Jesus made repeated visits to Jerusalem.",
+            "In itself it is not easy to see why Jesus could not have made the lament both here and in Jerusalem.",
+            "Brood is in Luke while Matthew has chickens."
+        ],
+        "John Gill": [
+            "O Jerusalem, Jerusalem, which killest the prophets...",
+            "...how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not?",
+            "...and therefore ought not to have been condemned as a false prophet by their sanhedrim..."
+        ],
+        "John Wesley": [
+            "How often would I have gathered thy children together.\" ",
+            "Three solemn visits he had made to Jerusalem for this very purpose.",
+            "Matthew 23:37."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "O Jerusalem, Jerusalem, how often I have longed to gather your children together, but you were unwilling. Jesus' words prophetically account for the desolation of the temple, foreseeing the future when Jerusalem would be trodden down by the Gentiles. He expresses his desire to gather the people of Jerusalem and protect them like a mother hen does to her brood. Jesus made repeated visits to Jerusalem, showing his deep love and concern for the city and its inhabitants.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.7254392505654623,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                43.85,
+                0.0,
+                56.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "O Jerusalem, Jerusalem, how often I have longed to gather your children together, but you were unwilling. Jesus' prophetic foresight accounts for the desolation of the temple and the future downfall of Jerusalem. He expresses his desire to gather the people and protect them like a mother hen does to her brood. Jesus' repeated visits to Jerusalem demonstrate his deep love and concern for the city and its inhabitants.",
+            "wordCount": 69,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.5578048685853898,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                42.24,
+                0.0,
+                57.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "O Jerusalem, Jerusalem, how often I have longed to gather your children together, but you were unwilling. Jesus' prophetic foresight accounts for the desolation of the temple and the future downfall of Jerusalem, as He speaks of the ages to come. His desire to gather the people is compared to a mother hen gathering her brood, showing his deep love and care. Jesus' repeated visits to Jerusalem emphasize his earnestness in reaching out to the city and its inhabitants.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.5599984325235767,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.21,
+            "commentatorTierSimilarities": [
+                44.61,
+                0.0,
+                55.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "O Jerusalem, Jerusalem, how often I have longed to gather your children together, but you were unwilling. Jesus' prophetic foresight accounts for the future desolation of the temple and the downfall of Jerusalem. He expresses his desire to gather the people, comparing it to a mother hen gathering her brood, highlighting his deep love and concern for the city. Jesus' repeated visits to Jerusalem demonstrate his earnestness in reaching out to the city and its inhabitants.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5732125282896856,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                44.12,
+                0.0,
+                55.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "O Jerusalem, Jerusalem, how often I have longed to gather your children together, but you were unwilling. Jesus' prophetic foresight accounts for the future desolation of the temple and the downfall of Jerusalem. He expresses his desire to gather the people, comparing it to a mother hen protecting her brood, which demonstrates his deep love for the city. Jesus' repeated visits to Jerusalem reveal his earnestness in reaching out to its inhabitants.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.5650801621228494,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                43.07,
+                0.0,
+                56.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

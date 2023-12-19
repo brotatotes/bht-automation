@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:40:01",
+    "verseRef": "1 Peter 4:18",
+    "bestBHT": {
+        "bht": "If the righteous, who is saved by faith in Christ, is only just saved and faces difficulty in doing so, then where shall the ungodly and sinner appear? The righteous experience trials and tribulations, but their entrance into the kingdom is abundant and certain through the righteousness of Christ and God's everlasting covenant. The ungodly and sinner, on the other hand, are in a wrong relation to the Judge and will find themselves among the damned. The salvation of the righteous, although certain, is not without its obstacles and challenges, while the fate of the ungodly is even more dreadful.",
+        "wordCount": 101,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.2556284925791115,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.34,
+        "commentatorTierSimilarities": [
+            33.34,
+            28.2,
+            38.46
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "if the righteous is (is being: or rather perhaps the present spoken of that which is to be) with difficulty saved, the ungodly and sinner, where shall he appear?",
+            "if we be righteous by faith in Christ, our salvation, however difficult and apparently impossible, is as certain as Christ\u2019s own triumph",
+            "the absence of a second article, and the singular verb, both show that the same person is meant by both"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The righteous man has always more or less of trial, but the issue is certain, and the entrance into the kingdom abundant at last.\" ",
+            "The 'scarcely' marks the severity of the ordeal, and the unlikelihood (in a mere human point of view) of the righteous sustaining it; but the righteousness of Christ and God's everlasting covenant make it all sure.",
+            "The same man is at once God-forgetting and sin-loving."
+        ],
+        "Albert Barnes": [
+            "The word implies that there is some difficulty, or obstruction, so that the thing came very near not to happen, or so that there was much risk about it.",
+            "They would indeed be saved, but it would be in such a manner as to show that the circumstances were such as to render it, to human appearances, doubtful and problematical.",
+            "It is no small matter to rescue a soul from the dominion of Satan, and to bring it to heaven, so that it shall be eternally safe."
+        ],
+        "John Calvin": [
+            "The design of what he says, as I have already stated, is to shew that the children of God should not faint under the bitterness of present evils, but that they ought, on the contrary, calmly to bear their afflictions for a short time, as the issue will be salvation, while the ungodly will have to exchange a fading and fleeting prosperity for eternal perdition.",
+            "But the argument is from the less to the greater; for if God spares not his own children whom he loves and who obey him, how dreadful will be his severity against enemies and such as are rebellious! There is, then, nothing better than to obey the Gospel, so that God may kindly correct us by his paternal hand for our salvation.",
+            "But when he says, that a righteous man is scarcely saved, he refers to the difficulties of the present life, for our course in the world is like a dangerous sailing between many rocks, and exposed to many storms and tempests; and thus no one arrives at the port, except he who has escaped from [a] thousand deaths."
+        ],
+        "Philip Schaff": [
+            "And if that is so, how shall it be with the man who, as being both careless of God and in practice a sinner, is in a wrong relation to the Judge?\" ",
+            "The utmost emphasis is given to the description of the person, by putting the words 'the ungodly and sinner' before the interrogative 'where.'",
+            "Interrogations like these are hard indeed to square with the idea that in Peter\u2019s view the end of the despisers of grace was to be restoration."
+        ],
+        "Archibald T. Robertson": [
+            "And if the righteous is scarcely saved... But the Christian is not saved by his own righteousness.",
+            "For \u03bc\u03bf\u03bb\u03b9\u03c2 see Acts 14:18 and for \u03b1\u03c3\u03b5\u03b2\u03b7\u03c2 (ungodly, without reverence) see Romans 4:5; 2 Peter 2:5.",
+            "Will appear... For the question see Mark 10:24-26."
+        ],
+        "John Gill": [
+            "And if the righteous scarcely be saved,....",
+            "...for though their salvation is certain and complete, being finished by Christ, yet their enjoyment of it is attended with many difficulties...",
+            "where shall the ungodly and the sinner appear?...but at Christ's left hand, and in hell, and among the devils and damned there."
+        ],
+        "John Wesley": [
+            "If the righteous scarcely be saved \u2014 Escape with the utmost difficulty.",
+            "Where shall the ungodly \u2014 The man who knows not God. And the open sinner appear - In that day of vengeance.",
+            "The salvation here primarily spoken of is of a temporal nature. But we may apply the words to eternal things, and then they are still more awful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If the righteous, who is saved by faith in Christ, is only just saved and faces difficulty in doing so, then where shall the ungodly and sinner appear? The righteous experience trials and tribulations, but their entrance into the kingdom is abundant and certain through the righteousness of Christ and God's everlasting covenant. The ungodly and sinner, on the other hand, are in a wrong relation to the Judge and will find themselves among the damned. The salvation of the righteous, although certain, is not without its obstacles and challenges, while the fate of the ungodly is even more dreadful.",
+            "wordCount": 101,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.2556284925791115,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.34,
+            "commentatorTierSimilarities": [
+                33.34,
+                28.2,
+                38.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the righteous, saved by faith in Christ, is just barely saved and faces difficulty, then where does that leave the ungodly and sinner? The righteous experience trials, but their entrance into the kingdom is certain through the righteousness of Christ and God's everlasting covenant. In contrast, the ungodly and sinner are in the wrong relation to the Judge and will find themselves among the damned. The salvation of the righteous is not without challenges, while the fate of the ungodly is even more dreadful.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.2306977107537183,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+            "commentatorTierSimilarities": [
+                33.44,
+                28.09,
+                38.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When contemplating the challenges faced by the righteous, one cannot help but wonder about the fate of the ungodly and sinner. The righteous endure trials, but their entry into the kingdom is assured through the righteousness of Christ and God's covenant. However, the ungodly are described as those who lack reverence for God and embrace sin. Their destiny is one of eternal perdition and separation from the Judge. While the salvation of the righteous is not without difficulties, the ungodly face a far more dreadful outcome.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9672349272897935,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "commentatorTierSimilarities": [
+                32.23,
+                28.63,
+                39.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The salvation of the righteous, though certain, is not without its challenges. The entrance into the kingdom is abundant and guaranteed due to the righteousness of Christ and God's everlasting covenant. However, the ungodly and sinners will have a different fate, as they lack reverence for God and embrace sin. Their destination is described as eternal perdition. While the righteous face trials, their ultimate salvation is secure, whereas the fate of the ungodly is filled with dread and everlasting separation from the Judge.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9538867018207775,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                32.84,
+                26.67,
+                40.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The righteous are not saved by their own righteousness, but by faith in Christ. Although their salvation is certain, they still face trials and obstacles. However, through the righteousness of Christ and God's everlasting covenant, their entrance into the kingdom is abundant and guaranteed. On the contrary, the ungodly and sinners, who lack reverence for God, will have a different fate. Their eternal perdition is in stark contrast to the assured salvation of the righteous, emphasizing the severity of their wrong relationship with the Judge.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.009607132241902,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "commentatorTierSimilarities": [
+                34.48,
+                26.81,
+                38.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

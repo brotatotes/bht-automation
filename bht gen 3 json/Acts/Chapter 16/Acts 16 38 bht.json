@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:32:19",
+    "verseRef": "Acts 16:38",
+    "bestBHT": {
+        "bht": "The fear that engulfed the magistrates when they discovered that the individuals they had mistreated were Romans stemmed from their concern for their own popularity and the potential legal consequences they might face. Punishing a Roman citizen was considered an offense against the majesty of the Roman people and carried severe penalties such as death and the confiscation of property. Rather than being troubled by the injustice they had committed or the wrath of God, their primary worry was the judgment and retribution they could encounter from the Roman senate.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.8109437337385625,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+        "commentatorTierSimilarities": [
+            22.06,
+            31.73,
+            46.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They feared... for their popularity with the very mob of Roman citizens who had demanded the punishment.\" ",
+            "The account which they might have to give at Rome."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "38. they feared when they heard they",
+            "\twere Romans\u2014their authority being thus imperilled; for they",
+            "\twere liable to an action for what they had done."
+        ],
+        "Albert Barnes": [
+            "To punish unjustly a Roman citizen was deemed an offence to the majesty of the Roman people...\" (12 words)",
+            "...and was severely punished by the laws.\" (7 words)",
+            "The punishment appointed for those who abrogated or transgressed the Valerian law was death, and the confiscation of his property.\" (19 words)"
+        ],
+        "Philip Schaff": [
+            "Here, as in Acts 16:35, literally, rod-bearers, lictors, officials who attended upon the magistrates and carried out their orders.",
+            "In a 'colony' these officers carried staves, not as in Rome, fasces.",
+            "Hackett quotes from Lucian a case of false imprisonment, in which the governor of a province not only acknowledged his error, but paid a large sum of money to those whom he had injured, in order to bribe them to be silent."
+        ],
+        "John Gill": [
+            "They were not concerned for the injury they had done them; nor for the injustice and cruelty they had been guilty of; nor did they fear the wrath of God, and a future judgment...",
+            "...but they were put into a panic, when they found the men they had so ill used were Romans...",
+            "...lest they should be called to an account by the Roman senate, and be found guilty, and have their places taken away from them, and their persons punished."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the magistrates in Acts 16:38 heard that they had unjustly punished Roman citizens, they were gripped with fear. They were not concerned for the injury they had done or the wrath of God, but rather, they trembled at the thought of losing their popularity and facing the consequences before the Roman senate. Punishing a Roman citizen was a serious offense against the majesty of the Roman people and was punishable by severe consequences, including death and the confiscation of their property. The magistrates, aware of the gravity of their actions, feared the legal and social repercussions they could face for their unjust treatment of these Romans.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.865733258175074,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                24.32,
+                31.43,
+                44.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The magistrates in this passage were filled with fear when they heard that the men they had unjustly punished were Romans. They were not concerned about the injury they had caused or the wrath of God. Instead, their panic was driven by the potential consequences of their actions. Punishing a Roman citizen was considered an offense against the Roman people and could result in severe punishment, including death and the loss of their positions. They dreaded being called to account before the Roman senate and facing the repercussions of their unjust treatment.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6752821204753767,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                26.82,
+                25.91,
+                47.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fear that engulfed the magistrates when they discovered that the individuals they had mistreated were Romans stemmed from their concern for their own popularity and the potential legal consequences they might face. Punishing a Roman citizen was considered an offense against the majesty of the Roman people and carried severe penalties such as death and the confiscation of property. Rather than being troubled by the injustice they had committed or the wrath of God, their primary worry was the judgment and retribution they could encounter from the Roman senate.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8109437337385625,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+            "commentatorTierSimilarities": [
+                22.06,
+                31.73,
+                46.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The magistrates in Acts 16:38 were consumed by fear upon learning that the individuals they had mistreated were Romans. Rather than feeling remorse for the injustice they had inflicted or fearing divine retribution, their concern stemmed from the potential threat to their own authority and the legal consequences they might face. Punishing a Roman citizen was regarded as an offense against the majesty of Rome and carried severe penalties, including death and property confiscation. Their distress arose from the prospect of being held accountable by the Roman senate and facing the loss of their positions and personal punishment.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.688833762427814,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+            "commentatorTierSimilarities": [
+                23.06,
+                31.89,
+                45.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The magistrates in this account were overcome with fear when they discovered that the individuals they had mistreated were Romans. Their primary concern was not the harm they had caused or divine judgment, but rather the potential consequences they might face. Punishing a Roman citizen was viewed as an offense against the Roman people and could result in severe penalties, such as death and the forfeiture of their possessions. Their anxiety arose from the prospect of being called to account before the Roman senate and the potential loss of their status and personal punishment.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.665524577112701,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                25.58,
+                26.52,
+                47.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

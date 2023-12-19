@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:15:41",
+    "verseRef": "Luke 6:33",
+    "bestBHT": {
+        "bht": "Embrace the command to do good to all, including sinners and outcasts such as harlots. Dispel the notion that there is any glory or merit in selective acts of kindness. Instead, let us heed our Lord's radical teachings that challenge narrow-mindedness and emphasize the importance of extending grace to everyone. Reject any self-righteous tendencies and instead adopt an inclusive mindset that welcomes and embraces all with love and goodness.",
+        "wordCount": 72,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.176243785989617,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.45,
+        "commentatorTierSimilarities": [
+            47.41,
+            0.0,
+            52.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Do good (\u03b1\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b5).",
+            "Even sinners (\u03ba\u03b1 \u03bf \u03b1\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u03bf).",
+            "That completes the list of the outcasts for 'sinners' includes 'harlots' and all the rest."
+        ],
+        "John Gill": [
+            "What grace or goodness is there in such an action? what glory or merit is there in it?\" ",
+            "No man should conclude himself a righteous man, or better than sinners, on such an account.\" ",
+            "In direct opposition to such narrow sentiments does our Lord deliver himself in this, and the following verses."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do good to everyone, even those who are considered sinners. This includes outcasts such as harlots and others who may be deemed unworthy. It is important to recognize that there is no merit or glory in doing good only to those who are considered righteous. Our Lord's teachings, as expressed in this verse and the following ones, challenge narrow-minded views and emphasize the importance of extending grace to all.",
+            "wordCount": 71,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.3651035331558428,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.73,
+            "commentatorTierSimilarities": [
+                45.32,
+                0.0,
+                54.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Extend goodness to all, even sinners and outcasts like harlots, embracing the belief that there is no glory or merit in limited acts of kindness. To truly follow the teachings of our Lord, we must reject narrow-minded thinking and recognize the importance of extending grace to everyone. This verse, along with the following ones, challenges us to break free from self-righteousness and embrace a broader expression of love and goodness.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.147737892706015,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.51,
+            "commentatorTierSimilarities": [
+                38.8,
+                0.0,
+                61.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Embrace the call to do good to all, even sinners and outcasts, including harlots and others who are often ostracized. Recognize that there is no merit or glory in selective acts of kindness. Our Lord's teachings in this passage challenge narrow-mindedness and emphasize the importance of extending grace to everyone. Let us reject self-righteousness and instead cultivate a mindset that welcomes and embraces all with love and goodness.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.0697637192716474,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.91,
+            "commentatorTierSimilarities": [
+                44.48,
+                0.0,
+                55.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Extend goodness to all, even sinners and outcasts like harlots, recognizing that there is no merit or glory in limited acts of kindness. Our Lord challenges narrow-mindedness, teaching us to reject self-righteousness and embrace a wider expression of love and grace. Let us cultivate a mindset that welcomes and embraces everyone with open arms, extending the same goodness to all, regardless of their background or perceived worthiness.",
+            "wordCount": 69,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.0530022632778038,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.36,
+            "commentatorTierSimilarities": [
+                38.52,
+                0.0,
+                61.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Embrace the command to do good to all, including sinners and outcasts such as harlots. Dispel the notion that there is any glory or merit in selective acts of kindness. Instead, let us heed our Lord's radical teachings that challenge narrow-mindedness and emphasize the importance of extending grace to everyone. Reject any self-righteous tendencies and instead adopt an inclusive mindset that welcomes and embraces all with love and goodness.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.176243785989617,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.45,
+            "commentatorTierSimilarities": [
+                47.41,
+                0.0,
+                52.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

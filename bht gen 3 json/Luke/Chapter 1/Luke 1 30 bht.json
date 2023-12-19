@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:13:04",
+    "verseRef": "Luke 1:30",
+    "bestBHT": {
+        "bht": "Grace is poured into thy lips, words of grace, uttered by Christ, the free, spontaneous, absolute loving kindness of God toward men. The angel brings these gracious words to Mary, assuring her that she has found favor with God and that she should not be alarmed. In the face of divine glory, fear may arise, but God reveals Himself as a loving Father, offering His favor freely. The angel addresses Mary by name, indicating her familiarity, and reassures her that there is no ill intent or bad news.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 1.6565340309840209,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+        "commentatorTierSimilarities": [
+            34.04,
+            29.98,
+            35.98
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Do not be alarmed at this appearance of an angel. He only comes to announce to you good tidings.",
+            "Thou hast found favour with God - Eminent favor or mercy in being selected to be the mother of the Messiah.",
+            "Similar language was addressed by an angel to Joseph."
+        ],
+        "Marvin Vincent": [
+            "Grace is poured into thy lips.\" ",
+            "The gracious words, lit., words of grace, uttered by Christ.",
+            "The free, spontaneous, absolute loving kindness of God toward men."
+        ],
+        "John Calvin": [
+            "Whenever the feeblest ray of the Divine glory bursts upon us, we cannot avoid being alarmed.",
+            "As we are all amenable to his tribunal, fear gives rise to trembling, until God manifests himself as a Father.",
+            "The Hebrew idiom, Thou hast found favor, is used by Luke instead of, 'God has been merciful to thee:' for a person is said to find favor, not when he has sought it, but when it has been freely offered to him."
+        ],
+        "Philip Schaff": [
+            "Luke 1:30. Favor, or, \u2018grace.\u2019 This verse also opposes the dogma of the Immaculate Conception.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "To find favour is a common O.T. phrase.",
+            "\u03a7\u03b1\u03c1\u03b9\u03c2 is a very ancient and common word with a variety of applied meanings. They all come from the notion of sweetness, charm, loveliness, joy, delight.",
+            "It is a favourite word for Christianity, the Gospel of the grace of God (Acts 20:24) in contrast with law or works (John 1:16)."
+        ],
+        "John Gill": [
+            "Observing the consternation and confusion she was in, fear not, Mary...",
+            "He calls her by her name, signifying that she was well known to him...",
+            "Bids her not be afraid, he had no ill design upon her, nor brought any ill news to her..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Grace is poured into thy lips, words of grace, uttered by Christ, the free, spontaneous, absolute loving kindness of God toward men. These are the gracious and comforting words that the angel brings to Mary in Luke 1:30. Mary finds favor with God, chosen to be the mother of the Messiah. The angel urges her not to be alarmed, assuring her that he brings good tidings. In the face of divine glory, fear may arise, but God reveals Himself as a loving Father, offering His favor freely. The angel addresses Mary by name, indicating her familiarity to him, and reassures her that there is no ill intent or bad news.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.5790641871241915,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.85,
+            "commentatorTierSimilarities": [
+                32.03,
+                33.79,
+                34.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Grace is poured into thy lips, words of grace, uttered by Christ, the free, spontaneous, absolute loving kindness of God toward men. The angel brings these gracious words to Mary, assuring her that she has found favor with God and that she should not be alarmed. In the face of divine glory, fear may arise, but God reveals Himself as a loving Father, offering His favor freely. The angel addresses Mary by name, indicating her familiarity, and reassures her that there is no ill intent or bad news.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.6565340309840209,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+            "commentatorTierSimilarities": [
+                34.04,
+                29.98,
+                35.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angel brings words of grace, assuring Mary of God's loving kindness and favor upon her. Mary is urged not to be alarmed by the divine messenger, who comes with good tidings. In the face of divine glory, fear may arise, but God reveals Himself as a loving Father. The angel addresses Mary by name, signifying her familiarity to him, comforting her that there is no ill intent or bad news.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5382353657388241,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                27.21,
+                33.34,
+                39.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angel's message to Mary brings words of grace, emphasizing the spontaneous and absolute loving kindness of God towards humanity. Mary is reassured that she has found favor with God and should not be alarmed. The angel addresses Mary by name, showing familiarity, and comforts her, assuring that there is no ill intent or bad news. In the face of the divine, fear may arise, but God reveals Himself as a loving Father, dispelling any apprehension.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.4932023554940763,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.99,
+            "commentatorTierSimilarities": [
+                28.21,
+                32.26,
+                39.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel's message to Mary carries words of grace, describing the free, spontaneous, and absolute loving kindness of God towards humanity. Mary is comforted, assured that she has found favor with God, and should not be alarmed. The angel addresses her by name, signifying familiarity, and dispels any fear or confusion, assuring her of no ill intent or bad news. In the divine presence, fear may arise, yet God reveals Himself as a loving Father, laying to rest any unease.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4579578419472143,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.82,
+            "commentatorTierSimilarities": [
+                28.46,
+                30.03,
+                41.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

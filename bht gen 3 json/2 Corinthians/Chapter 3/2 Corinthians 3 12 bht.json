@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:15:35",
+    "verseRef": "2 Corinthians 3:12",
+    "bestBHT": {
+        "bht": "Having the hope of future glory from the ministration of the Gospel, we speak openly and plainly, concealing nothing and using great boldness of speech. Our plainness of speech is in contrast to the dissembling with which our adversaries charge us. We express ourselves in the language of common life, proclaiming the wonders of grace in Christ Jesus with all openness and boldness. The great truths now openly proclaimed in the Gospel were once hidden under the figures of the legal economy, but now they may be fully and confidently declared.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.7319780188516702,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+        "commentatorTierSimilarities": [
+            26.08,
+            48.15,
+            25.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That is, we every where speak freely, concealing nothing, reserving nothing, suspecting nothing, but speaking out plainly...\" (Chrysostom)",
+            "We have no fear of dazzling your eyes, as Moses did those of the Jews.\" (Chrysostom)",
+            "Clearly, towards you, under instruction as disciples.\" (Chrysostom)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. such hope\u2014of the future",
+            "\tglory, which shall result from the ministration of the Gospel",
+            "\t(2 Corinthians 3:8; 2 Corinthians 3:9).",
+            "\t",
+            "plainness of speech\u2014openness;",
+            "\twithout reserve (2 Corinthians 2:17;",
+            "\t2 Corinthians 4:2)."
+        ],
+        "Albert Barnes": [
+            "Hope properly is a compound emotion, made up of a desire for an object, and an expectation of obtaining it.",
+            "The word 'hope,' therefore, in this place will express the effect on the mind of Paul in regard to the work of the ministry, produced by the group of considerations which he had suggested, showing that the gospel was superior to the Law.",
+            "They should use expressions which other people use; and express themselves as far as possible in the language of common life. What is preaching worth that is not understood? Why should a man talk at all unless he is intelligible? Who was ever more plain and simple in his words and illustrations than the Lord Jesus?"
+        ],
+        "Marvin Vincent": [
+            "Plainness [\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1, ] . Rev., boldness. See on openly, John 7:13; confidence, 1 John 2:28; freely, Acts 2:29. The contrast is with the dissembling with which his adversaries charged him."
+        ],
+        "John Calvin": [
+            "This kind of scruple the Apostle removes, by instructing them, that their blindness had been prefigured even from the beginning, inasmuch as they could not behold the face of Moses, except through the medium of a veil.",
+            "The Jews, therefore, acknowledged by this, that they had not eyes to behold the law, except when veiled.",
+            "He now triumphantly exults, on the ground that the majesty of the Gospel is not terrific, but amiable \u2014 is not hid, but is manifested familiarly to all."
+        ],
+        "Philip Schaff": [
+            "Having therefore such a hope in the exercise of such a ministry, we use great boldness (or \u2018openness\u2019) of speech.",
+            "In like manner, the great truths now openly proclaimed in the Gospel lay concealed under the figures of the legal economy.",
+            "But now that the substance has come, the wonders of grace in Christ Jesus may with all openness and boldness of speech be proclaimed."
+        ],
+        "John Gill": [
+            "Having this confidence, and being fully persuaded that God has made us able and sufficient ministers of the Gospel, has called and qualified us for such service...",
+            "We use great plainness of speech; plain and intelligible words, not ambiguous ones: or 'boldness'; we are not afraid of men nor devils...",
+            "We speak out all our mind, which is the mind of Christ; we declare the whole counsel of God, hide and conceal nothing that may be profitable to the churches..."
+        ],
+        "John Wesley": [
+            "Having therefore this hope \u2014 Being fully persuaded of this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We speak freely, concealing nothing, and reserving nothing, but speaking out plainly with the hope of future glory from the ministration of the Gospel. Our plainness of speech is in contrast to the dissembling with which our adversaries charge us. We use great boldness, expressing ourselves in the language of common life. The wonders of grace in Christ Jesus may now be proclaimed with all openness and boldness of speech, as the great truths now openly proclaimed in the Gospel were once concealed under the figures of the legal economy. We have this hope and confidence, fully persuaded that God has called and qualified us to be able and sufficient ministers of the Gospel.",
+            "wordCount": 114,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.72321442590161,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                26.98,
+                44.47,
+                28.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We speak freely and plainly, concealing nothing and reserving nothing, with the hope of future glory from the ministration of the Gospel. Our plainness of speech is in contrast to the dissembling with which our adversaries charge us. We use great boldness, expressing ourselves in the language of common life. The wonders of grace in Christ Jesus may now be proclaimed with all openness and boldness of speech, as the great truths now openly proclaimed in the Gospel were once concealed under the figures of the legal economy.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.7181640755540433,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                29.43,
+                47.0,
+                23.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We speak openly and plainly, concealing nothing and using great boldness of speech, with the hope of future glory from the ministration of the Gospel. Our plainness of speech is in contrast to the dissembling with which our adversaries charge us. We express ourselves in the language of common life, proclaiming the wonders of grace in Christ Jesus with all openness and boldness. The great truths now openly proclaimed in the Gospel were once hidden under the figures of the legal economy.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.7266381376867983,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                27.34,
+                48.89,
+                23.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Having the hope of future glory from the ministration of the Gospel, we speak openly and plainly, concealing nothing and using great boldness of speech. Our plainness of speech is in contrast to the dissembling with which our adversaries charge us. We express ourselves in the language of common life, proclaiming the wonders of grace in Christ Jesus with all openness and boldness. The great truths now openly proclaimed in the Gospel were once hidden under the figures of the legal economy, but now they may be fully and confidently declared.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.7319780188516702,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                26.08,
+                48.15,
+                25.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We speak freely and plainly, concealing nothing and reserving nothing, with the hope of future glory from the ministration of the Gospel. Our plainness of speech is in contrast to the dissembling with which our adversaries charge us. We use great boldness, expressing ourselves in the language of common life. The wonders of grace in Christ Jesus may now be proclaimed with all openness and boldness of speech, as the great truths now openly proclaimed in the Gospel were once concealed under the figures of the legal economy.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.7181640755540433,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                29.43,
+                47.0,
+                23.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

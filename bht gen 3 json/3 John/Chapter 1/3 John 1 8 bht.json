@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 17:15:28",
+    "verseRef": "3 John 8",
+    "bestBHT": {
+        "bht": "We must receive and support those who labor in spreading the truth of the Gospel. As believers, it is our duty to welcome them hospitably, providing for their needs and becoming fellow workers in the cause of truth. All Christians can contribute to the support of those who preach the Gospel, allowing us to share in the work of spreading the truth. By offering our hospitality and support, we actively participate in the mission of advancing God's kingdom and promoting His truth.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 1.9845199264092228,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+        "commentatorTierSimilarities": [
+            20.41,
+            44.96,
+            34.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "We receive them so as to support them.",
+            "We ought to take them up.",
+            "Fellow helpers to the truth."
+        ],
+        "Albert Barnes": [
+            "We therefore ought to receive such - All of us ought hospitably to entertain and help such persons...we ought, therefore, to help them in their work, and to contribute to their support.",
+            "That we might be fellow-helpers to the truth - All Christians cannot go forth to preach the gospel, but all may contribute something to the support of those who do; and in this case they would have a joint participation in the work of spreading the truth.",
+            "The same reasoning which was applicable to that case, is also applicable now in regard to the duty of supporting those who go forth to preach the gospel to the destitute."
+        ],
+        "Marvin Vincent": [
+            "Ought [\u03bf\u03c6\u03b5\u03b9\u03bb\u03bf\u03bc\u03b5\u03bd] . See on 1 John 2:6.",
+            "To receive [\u03b1\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03b5\u03b9\u03bd] . The best texts read uJpolambanein to support; i e., to welcome with the provision of hospitality. Rev., welcome.",
+            "Fellow - helpers to the truth [\u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03bf\u03b9 \u03c4\u03b7 \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1] . Lit., fellow - workers. The expression is explained in two ways : either fellow - workers with the teachers [\u03c4\u03bf\u03b9\u03bf\u03c5\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03c7\u03b7] in support of the truth; or fellow - workers with the truth."
+        ],
+        "Archibald T. Robertson": [
+            "To welcome (\u03c5\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03b5\u03b9\u03bd). Present active infinitive (habit of welcoming) of \u03c5\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9... in this sense of receiving hospitably or to take under one's protection."
+        ],
+        "John Gill": [
+            "We therefore ought to receive such,.... We who are Jews, that have believed in Christ, for such an one Gaius, it seems, as well, as the apostle, were, ought to receive such preachers of the word into our houses, and entertain them cheerfully, while they continue, and supply them with all necessaries when they depart...\" ",
+            "That we might be fellow helpers to the truth; that is, to the Gospel, and the propagation of it in the world...",
+            "Some are helpers to it, in preaching of it, by making use of the ministerial gifts bestowed upon them; and others are fellow helpers with them, to the same good work, by their purses, communicating freely to the support of those who labour in the word and doctrine..."
+        ],
+        "John Wesley": [
+            "To receive \u2014 With all kindness.",
+            "The truth \u2014 Which they preach."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As believers, we have a responsibility to support and welcome those who labor in spreading the truth of the Gospel. We ought to receive them hospitably, not only providing for their physical needs but also contributing to their work. By doing so, we become fellow workers in the cause of truth, actively participating in the propagation of the Gospel. When we extend our hospitality and support to these messengers of truth, we fulfill our duty as believers and demonstrate our commitment to the advancement of God's kingdom.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.8450003340569614,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.69,
+            "commentatorTierSimilarities": [
+                23.75,
+                42.73,
+                33.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We have a responsibility to support and welcome those who propagate the truth of the Gospel. By extending our hospitality and providing for their needs, we become fellow workers in spreading the truth. As believers, we ought to take them in and offer our support, becoming helpers in their mission. This duty applies to all Christians, regardless of whether they can actively preach the Gospel themselves. Through our contributions to their work, we actively participate in the advancement of God's kingdom and the spreading of His truth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.8414177524421182,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                21.77,
+                43.05,
+                35.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We must receive and support those who labor in spreading the truth of the Gospel. As believers, it is our duty to welcome them hospitably, providing for their needs and becoming fellow workers in the cause of truth. All Christians can contribute to the support of those who preach the Gospel, allowing us to share in the work of spreading the truth. By offering our hospitality and support, we actively participate in the mission of advancing God's kingdom and promoting His truth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.9845199264092228,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+            "commentatorTierSimilarities": [
+                20.41,
+                44.96,
+                34.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As believers, we are called to support and welcome those who labor in spreading the truth of the Gospel. It is our responsibility to provide for their needs and become fellow workers in furthering the cause of truth. All Christians, regardless of their ability to actively preach, can contribute to the work by supporting those who do. By extending our hospitality and support, we actively participate in advancing God's kingdom and the spreading of His truth.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7855075638823692,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.71,
+            "commentatorTierSimilarities": [
+                19.67,
+                45.36,
+                34.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As believers, we are called to support and welcome those who labor in spreading the truth of the Gospel. We ought to receive them hospitably, providing for their needs and become fellow workers in furthering the cause of truth. Through our contributions to their work, we actively participate in the mission of advancing God's kingdom and promoting His truth. By extending our hospitality and support, we fulfill our duty as believers and demonstrate our commitment to the propagation of the Gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.8160713891501694,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                23.56,
+                41.49,
+                34.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

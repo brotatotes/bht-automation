@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:17:35",
+    "verseRef": "Luke 9:44",
+    "bestBHT": {
+        "bht": "Let these sayings sink down into your ears. Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom. Remember that I am about to die, and let my sayings in regard to that sink down into your hearts, for it is a most important event; and you will have need of remembering, when it takes place, that I told you of it.",
+        "wordCount": 94,
+        "quoteTokenProportion": 53.12,
+        "qualityScore": 2.10187281371397,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+        "commentatorTierSimilarities": [
+            33.3,
+            29.09,
+            37.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "these sayings, of which this was now the second;\u2014 \u2018these intimations which I make to you from time to time respecting My sufferings and death.\u2019",
+            "The Resurrection, expressly mentioned in the others, is omitted here."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom.",
+            "The Son of man, says Christ, 'into the hands of men'\u2014a remarkable antithesis.",
+            "That is, 'Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom.'"
+        ],
+        "Albert Barnes": [
+            "Let these sayings - Probably this refers to the 'sayings of the people,' who had seen his miracles, and who on that account had praised and glorified God.",
+            "I am about to die. 'You' will then be disconsolate, and perhaps doubtful about my being the Christ. 'Then' do you remember these miracles, and the confessions of the people - the evidence which I gave you that I was from God.",
+            "Remember that I am about to die, and let my sayings in regard to that sink down into your hearts, for it is a most important event; and you will have need of remembering, when it takes place, that I told you of it."
+        ],
+        "Marvin Vincent": [
+            "Let these sayings sink down into your ears. Lit., put these sayings into your ears. ",
+            "Shall be delivered [\u03bc\u03b5\u03bb\u03bb\u03b5\u03b9 \u03c0\u03b1\u03c1\u03b5\u03b4\u03b9\u03b4\u03bf\u03c3\u03b8\u03b1\u03b9] . Rather, is about to be delivered. ",
+            "- 50. Compare Matthew 18:1-35; Mark 9:33-50."
+        ],
+        "Philip Schaff": [
+            "Let these sayings, etc. The original gives an emphasis brought out by rendering as follows: \u2018As for you, let,\u2019 etc. The disciples are meant.",
+            "From Mark 9:31 we infer that, during the journey, our Lord gave repeated and extended intimations of His death, to prepare His disciples for the journey towards Jerusalem.",
+            "They should take heed, because the time of fulfillment was approaching."
+        ],
+        "Archibald T. Robertson": [
+            "Sink into your ears (\u0398\u03b5\u03c3\u03b8\u03b5 \u03c5\u03bc\u03b5\u03b9\u03c2 \u03b5\u03b9\u03c2 \u03c4\u03b1 \u03c9\u03c4\u03b1 \u03c5\u03bc\u03c9\u03bd). Second aorist imperative middle of \u03c4\u03b9\u03b8\u03b7\u03bc, common verb. 'Do you (note emphatic position) yourselves (whatever others do) put into your ears.'",
+            "No word like 'sink' here.",
+            "The same prediction here as in Mark 9:31; Matthew 17:22 about the Son of man only without mention of death and resurrection as there, which see for discussion."
+        ],
+        "John Gill": [
+            "Let these sayings sink down into your ears.",
+            "The son of man shall be delivered into the hands of men; though he should rise again the third day."
+        ],
+        "John Wesley": [
+            "Let these sayings sink down into your ears \u2014 That is, consider them deeply.",
+            "In joy remember the cross.",
+            "So wisely does our Lord balance praise with sufferings."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let these sayings sink down into your ears. Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom. The Son of man, says Christ, 'into the hands of men'\u2014a remarkable antithesis. That is, 'Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom.' Let these sayings sink down into your ears. Remember that I am about to die, and let my sayings in regard to that sink down into your hearts, for it is a most important event; and you will have need of remembering, when it takes place, that I told you of it. They should take heed, because the time of fulfillment was approaching.",
+            "wordCount": 171,
+            "quoteTokenProportion": 48.78,
+            "qualityScore": 1.9983609643606055,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+            "commentatorTierSimilarities": [
+                33.98,
+                28.1,
+                37.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let these sayings sink down into your ears. Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom. Remember that I am about to die, and let my sayings in regard to that sink down into your hearts, for it is a most important event; and you will have need of remembering, when it takes place, that I told you of it. They should take heed because the time of fulfillment was approaching.",
+            "wordCount": 105,
+            "quoteTokenProportion": 54.05,
+            "qualityScore": 1.9853201427113745,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                30.67,
+                34.24,
+                35.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let these sayings sink down into your ears. Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom. Remember that I am about to die, and let my sayings in regard to that sink down into your hearts, for it is a most important event; and you will have need of remembering, when it takes place, that I told you of it.",
+            "wordCount": 94,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.10187281371397,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                33.3,
+                29.09,
+                37.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let these sayings sink down into your ears. Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom. Remember that I am about to die, and let my sayings in regard to that sink down into your hearts, for it is a most important event; and you will have need of remembering, when it takes place, that I told you of it.",
+            "wordCount": 94,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.10187281371397,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                33.3,
+                29.09,
+                37.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let these sayings sink down into your ears. Be not carried off your feet by all this grandeur of Mine, but bear in mind what I have already told you, and now distinctly repeat, that that Sun in whose beams ye now rejoice is soon to set in midnight gloom. Remember that I am about to die, and let my sayings in regard to that sink down into your hearts, for it is a most important event; and you will have need of remembering, when it takes place, that I told you of it.",
+            "wordCount": 94,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.10187281371397,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                33.3,
+                29.09,
+                37.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

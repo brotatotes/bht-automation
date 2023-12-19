@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:18:35",
+    "verseRef": "Luke 12:8",
+    "bestBHT": {
+        "bht": "The point lies in doing it before men, as one must do it despising the shame. The Lord holds Himself bound to repay it in kind by confessing the individual before the angels of God. This act of confession before the angels will occur on the day of judgment. By openly avowing the Gospel without hypocrisy, one will receive the acknowledgment and recognition of the Lord as a true follower of Christ.",
+        "wordCount": 72,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.360750365863896,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.59,
+        "commentatorTierSimilarities": [
+            44.06,
+            0.0,
+            55.94
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The point lies in doing it 'before men,' because one has to do it 'despising the shame.'",
+            "But when done, the Lord holds Himself bound to repay it in kind by confessing such 'before the angels of God.'",
+            "For the rest, see on :-."
+        ],
+        "Archibald T. Robertson": [
+            "Just like Matthew 10:32 except the use of \u03b1\u03bd here which adds nothing.",
+            "The Hebraistic use of \u03b5\u03bd after \u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03b5\u03c9 both here and in Matthew is admitted by even Moulton.",
+            "Here Matthew 10:32 has \u03ba'\u03b1\u03b3\u03c9 (I also) as the equivalent."
+        ],
+        "John Gill": [
+            "Whosoever shall confess me before men, him shall the son of man also confess before the angels of God.\" ",
+            "Who will accompany Christ when he comes to judgment, and will be present when he shall acknowledge his true followers as the blessed of his Father, the chosen of God, his redeemed and sanctified ones.\" ",
+            "Reject others before his Father, and the whole universe of rational beings."
+        ],
+        "John Wesley": [
+            "If you avoid all hypocrisy, and openly avow my Gospel: The Son of man shall confess you.\" ",
+            "Before the angels - At the last day.",
+            "Mark 8:38; Luke 9:26."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The significance lies in openly confessing one's faith in Christ before others. Despite the potential shame and rejection, taking this step is rewarded by the Lord Himself acknowledging and confessing such individuals before the angels of God. This confession before the angels will take place on the day of judgment, where true followers of Christ will be recognized and honored.",
+            "wordCount": 61,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.2530334192888348,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.01,
+            "commentatorTierSimilarities": [
+                35.23,
+                0.0,
+                64.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The point of Luke 12:8 is in confessing one's faith in Christ openly before others, even in the face of shame. By doing so, the Lord is bound to repay this act by confessing them before the angels of God. This confession will take place on the day of judgment, where true followers of Christ will be recognized and acknowledged. The confession before the angels serves as a testament to their authenticity and the worthiness of their faith.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.2474006895564984,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.82,
+            "commentatorTierSimilarities": [
+                36.63,
+                0.0,
+                63.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The importance lies in openly confessing one's faith in Christ before others, disregarding any potential shame. This act of confession is rewarded by the Lord, who promises to acknowledge and confess such individuals before the angels of God. The confession before the angels serves as a testament to the authenticity of one's faith and will take place on the day of judgment. This recognition of true followers of Christ underscores the significance of openly avowing the Gospel without hypocrisy.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.2299491895258567,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.24,
+            "commentatorTierSimilarities": [
+                36.7,
+                0.0,
+                63.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The significance lies in openly confessing one's faith in Christ before others, despising any potential shame. This act leads the Lord to acknowledge and confess such individuals before the angels of God. This confession before the angels serves as a testament of the authenticity of one's faith and will occur on the day of judgment. It is a recognition of true followers of Christ and emphasizes the importance of openly avowing the Gospel without hypocrisy.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.228438494384903,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.19,
+            "commentatorTierSimilarities": [
+                36.68,
+                0.0,
+                63.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The point lies in doing it before men, as one must do it despising the shame. The Lord holds Himself bound to repay it in kind by confessing the individual before the angels of God. This act of confession before the angels will occur on the day of judgment. By openly avowing the Gospel without hypocrisy, one will receive the acknowledgment and recognition of the Lord as a true follower of Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.360750365863896,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.59,
+            "commentatorTierSimilarities": [
+                44.06,
+                0.0,
+                55.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

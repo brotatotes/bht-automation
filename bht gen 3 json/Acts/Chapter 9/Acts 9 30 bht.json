@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:28:54",
+    "verseRef": "Acts 9:30",
+    "bestBHT": {
+        "bht": "Praying in the temple, Paul had a vision of the Lord instructing him to depart from Jerusalem, as they would reject his testimony. Consequently, he was sent to his hometown of Tarsus, possibly to spread the Gospel in that region. This visit may have been when he gathered his kinsmen into the Christian fold. The disciples witnessed this and accompanied him to Caesarea before he was sent on to Tarsus, raising questions about how his family would perceive his actions.",
+        "wordCount": 80,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.9938849826431337,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.64,
+        "commentatorTierSimilarities": [
+            32.13,
+            33.69,
+            34.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He was praying in the temple, and saw the Lord in a vision, who commanded him to depart, for they would not receive his testimony.\" ",
+            "From the whole cast of the sentence, and the words brought him down and sent him forth, we should infer this to be C\u00e6sarea Stratonis.",
+            "He was not idle there, but certainly preached the Gospel, and in all probability was the founder of the churches alluded to."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "While he was praying in the temple, he was in a trance.",
+            "As this was his first visit to his native city since his conversion, so it is not certain that he ever was there again.",
+            "It probably was now that he became the instrument of gathering into the fold of Christ those 'kinsmen,' that 'sister,' and perhaps her 'son'."
+        ],
+        "Albert Barnes": [
+            "And sent him forth to Tarsus - This was his native city.",
+            "It was in Cilicia, where Paul doubtless preached the gospel.",
+            "Afterward I came into the regions of Syria and Cilicia."
+        ],
+        "John Calvin": [
+            "In that he went to Tarsus, he did it undoubtedly to this end, that he might carry the doctrine of the gospel thither.\" ",
+            "He hoped that he should have some favor and authority in his country, where he was famous.",
+            "Yet was he brought thither by the brethren, that they might deliver him from the lying in wait."
+        ],
+        "Philip Schaff": [
+            "It came to pass, that, when I was come again to Jerusalem, while I prayed in the Temple, I was in a trance; and saw Him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me. . . . Depart: for I will send thee far hence unto the Gentiles.\" (Acts 22:17-21)",
+            "It is not unlikely that, in spite of the dangerous hostility of the Jews which threatened his life, Saul in his enthusiasm would have remained in the city had he not received, as he tells us, a direct warning from heaven.",
+            "In his own family one may well imagine that some of those Christian kinsmen whose names are handed down to us (Romans 16:7; Romans 16:11; Romans 16:21), possibly his sister, the playmate of his childhood, and his sister\u2019s son, who afterwards saved his life (Acts 23:17-23), were by his exertions gathered into the fold of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "The disciples saw it clearly, so they conducted.",
+            "Sent him out and off to Tarsus.",
+            "What will father, mother, sister think of him now?"
+        ],
+        "John Gill": [
+            "When the brethren knew... they brought him down to Caesarea.",
+            "Caesarea Philippi, mentioned in Matthew 16:13.",
+            "Sent him forth to Tarsus; a city of Cilicia, his own native place."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "While praying in the temple, the apostle Paul saw a vision of the Lord commanding him to leave Jerusalem because they would not receive his testimony. This led Paul to be sent forth to his native city of Tarsus, which he was likely the founder of the churches in that area. It is possible that during this visit, he gathered his kinsmen into the fold of Christ. The disciples witnessed this and conducted him to Caesarea before sending him off to Tarsus. It is interesting to consider what his family, including his father, mother, and sister, may have thought of him at this time.",
+            "wordCount": 104,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.9547857611224086,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+            "commentatorTierSimilarities": [
+                34.68,
+                32.43,
+                32.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Praying in the temple, Paul had a vision of the Lord instructing him to depart from Jerusalem, as they would reject his testimony. Consequently, he was sent to his hometown of Tarsus, possibly to spread the Gospel in that region. This visit may have been when he gathered his kinsmen into the Christian fold. The disciples witnessed this and accompanied him to Caesarea before he was sent on to Tarsus, raising questions about how his family would perceive his actions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.9938849826431337,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.64,
+            "commentatorTierSimilarities": [
+                32.13,
+                33.69,
+                34.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While praying in the temple, Paul saw a vision of the Lord telling him to leave Jerusalem because his testimony would not be accepted there. This led to him being sent to his hometown of Tarsus, where he likely preached the Gospel and founded churches. It is possible that during this visit, he brought his kinsmen into the fold of Christ. The disciples witnessed this and accompanied him to Caesarea before sending him off to Tarsus. One can only speculate what his family would have thought of him at this time.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.9059757994383197,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                33.88,
+                31.27,
+                34.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While praying in the temple, Paul received a vision from the Lord, instructing him to depart Jerusalem due to the rejection of his testimony. He was then sent to his native city of Tarsus, where he likely continued to preach the Gospel and establish churches. This visit possibly led him to gather his own relatives into the Christian faith. The disciples witnessed this and escorted him to Caesarea before sending him off to Tarsus. The repercussions of Paul's actions on his family are left to speculation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8752998692015204,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                32.3,
+                33.83,
+                33.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After praying in the temple, Paul had a vision where the Lord commanded him to leave Jerusalem since his testimony would not be received. Consequently, he was sent to Tarsus, his hometown and the probable location where he preached the Gospel and founded churches. It is likely that during this visit, Paul converted his kinsmen to Christianity. The disciples witnessed this and escorted him to Caesarea before sending him off to Tarsus. The thoughts of his family regarding these events remain unknown.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.8300897189284862,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                32.9,
+                34.4,
+                32.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:00:52",
+    "verseRef": "1 Corinthians 1:17",
+    "bestBHT": {
+        "bht": "The apostles' primary mission was to preach the Gospel and establish churches, with the central theme being the preaching of the Cross of Christ. They were cautioned against relying on philosophical speculations or eloquent words that would empty the saving power of the Cross. The message of the Gospel may seem despised and contemptible to the world, but it carries the weight of redemption. The apostolic preaching emphasized the fact of Christ crucified, not relying on human wisdom or eloquence, but on the power of God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.4228646062319736,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.9,
+        "commentatorTierSimilarities": [
+            33.48,
+            32.53,
+            34.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His mission was not to baptize:\u2014a trace already, of the separation of the offices of baptizing and preaching.",
+            "To baptize a man under instruction, and already believing, is in the power of any one whatever: for the free will of the candidate does all, and the grace of God: but when the instruction of unbelievers is to be carried on, much toil is needed, and much skill.",
+            "Lest the Cross of Christ should be made of none effect. This would come to pass rather by philosophical speculations than by eloquence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul says this not to depreciate baptism; for he exalts it most highly.",
+            "His and the apostles' peculiar work was to preach the Gospel, to found by their autoptic testimony particular churches, and then to superintend the churches in general.",
+            "The cross of Christ - the sum and substance of the Gospel, Christ crucified."
+        ],
+        "Albert Barnes": [
+            "It is the grand object of all ministers. It is not to build up a sect or party; it is not to secure simply the baptism of people in this or that communion; it is to make known the glad tidings of salvation, and call people to repentance and to God.",
+            "The preaching of the gospel depends for its success on the simple power of its truths, borne by the Holy Spirit to the hearts of people; and not on the power of argumentation, and the charms of eloquence.",
+            "A real belief of the gospel, a simple and natural statement of its sublime truths, will admit of, and prompt to, the most manly and noble kind of eloquence."
+        ],
+        "Marvin Vincent": [
+            "The nucleus of the apostolic preaching was a fact - Christ crucified.\" ",
+            "To preach it as a philosophic system would be to empty it of its saving power.",
+            "A truth which finds abundant and lamentable illustration in the history of the Church."
+        ],
+        "John Calvin": [
+            "The cross of Christ he has put here for the benefit of redemption, which must be sought from Christ crucified. Now the doctrine of the gospel which calls us to this, should savor of the nature of the Cross, so as to be despised and contemptible, rather than glorious, in the eyes of the world.",
+            "Hence the eloquence that is suited to the Spirit of God is of such a nature that it does not swell with empty show, or spend itself in empty sound, but is solid and efficacious, and has more of substance than elegance.",
+            "That eloquence, therefore, is neither to be condemned nor despised, which has no tendency to lead Christians to be taken up with an outward glitter of words, or intoxicate them with empty delight, or tickle their ears with its tinkling sound, or cover over the cross of Christ with its empty show as with a veil; but, on the contrary, tends to call us back to the native simplicity of the gospel, tends to exalt the simple preaching of the cross by voluntarily abasing itself."
+        ],
+        "Philip Schaff": [
+            "Thus easily, in the middle of a verse, does the apostle here slide into the great theme of this and the three following chapters, namely, the place which \u2018Christ crucified\u2019 should hold in the esteem of all who believe.\" ",
+            "'Wisdom of word' here comprehends more than the mere rhetorical tricking out of the message, indeed, more or less of the substance of the message itself, as will presently appear.\" ",
+            "To a people thoroughly vitiated in their taste, to what temptation would the preacher of the Gospel be more open than that of shading off those features of it which are repulsive to the pride of the heart, and of urging the reception of it rather on the ground of its own \u2018sweet reasonableness\u2019 than of its being an authoritative message from heaven."
+        ],
+        "Archibald T. Robertson": [
+            "For Christ did not send me to be a baptizer like John the Baptist.",
+            "This is Paul's idea of his mission from Christ, as Christ's apostle, to be a gospelizer.",
+            "In Paul's preaching the Cross of Christ is the central theme."
+        ],
+        "John Gill": [
+            "Baptism was not the chief and principal business he was sent about; this was to be done mostly by those preachers of the word who traveled with him, or followed after him.",
+            "He was not sent so much about this work, but to preach the Gospel; for which he was most eminently qualified, had peculiar gifts for the discharge of it, and was greatly useful in it.",
+            "He was not sent with, or to preach, with words of man's wisdom, with human eloquence and oratory, with great swelling words of vanity, but in a plain, humble, modest manner."
+        ],
+        "John Wesley": [
+            "For God did not send me to baptize...But to preach the gospel - So the apostle slides into his general proposition.\" ",
+            "But not with wisdom of speech - With the artificial ornaments of discourse, invented by human wisdom.",
+            "The whole effect of St. Paul's preaching was owing to the power of God accompanying the plain declaration of that great truth, 'Christ bore our sins upon the cross'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The central theme of the verse is the preaching of the Cross of Christ. The apostles' mission was not primarily to baptize but to preach the Gospel and establish churches. The preaching of the gospel depends on the power of its truths and the work of the Holy Spirit, rather than the eloquence of human speech. Paul warns against philosophical speculations that would undermine the saving power of the Cross. The message of the Gospel should be despised and contemptible in the eyes of the world, yet it carries the weight of redemption. The simplicity of the gospel should not be overshadowed by empty and enticing eloquence. Rather, the apostles were sent to proclaim the Gospel with humility and in a plain manner, relying on the power of God to accompany the declaration of Christ crucified.",
+            "wordCount": 136,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4333070750872468,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.25,
+            "commentatorTierSimilarities": [
+                34.25,
+                33.19,
+                32.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostles' primary mission was to preach the Gospel, establishing churches and baptizing believers. The preaching of the Cross of Christ was their central theme, not to be diluted by philosophical speculations or eloquent but empty words. Though the message of the Gospel may seem despised and contemptible to the world, it carries the weight of redemption. The simplicity and power of the message should not be overshadowed by showy and empty eloquence. Rather, the apostles were sent to proclaim the Gospel with humility and reliance on the power of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.3527638832049007,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.57,
+            "commentatorTierSimilarities": [
+                32.46,
+                33.72,
+                33.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles' primary mission was to preach the Gospel and establish churches, their central theme being the preaching of the Cross of Christ. They were cautioned against relying on philosophical speculations or eloquent words that would empty the saving power of the Cross. The message of the Gospel may seem despised and contemptible to the world, but it carries the weight of redemption. The apostolic preaching emphasized the fact of Christ crucified, not relying on human wisdom or eloquence, but on the power of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.4187970954516134,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.76,
+            "commentatorTierSimilarities": [
+                33.43,
+                32.65,
+                33.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostles' main mission was to preach the Gospel and establish churches, with the central theme being the preaching of the Cross of Christ. They were cautioned against relying on philosophical speculations or eloquent words that would empty the saving power of the Cross. The message of the Gospel may seem despised and contemptible to the world, but it carries the weight of redemption. The apostolic preaching emphasized the fact of Christ crucified, not relying on human wisdom or eloquence, but on the power of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.418562955437406,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.76,
+            "commentatorTierSimilarities": [
+                33.47,
+                32.52,
+                34.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostles' primary mission was to preach the Gospel and establish churches, with the central theme being the preaching of the Cross of Christ. They were cautioned against relying on philosophical speculations or eloquent words that would empty the saving power of the Cross. The message of the Gospel may seem despised and contemptible to the world, but it carries the weight of redemption. The apostolic preaching emphasized the fact of Christ crucified, not relying on human wisdom or eloquence, but on the power of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.4228646062319736,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.9,
+            "commentatorTierSimilarities": [
+                33.48,
+                32.53,
+                34.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

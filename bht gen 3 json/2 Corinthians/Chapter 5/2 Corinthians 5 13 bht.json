@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:16:27",
+    "verseRef": "2 Corinthians 5:13",
+    "bestBHT": {
+        "bht": "Whether we appear mad or of sound mind, our ultimate goal is for God's glory and the benefit of others. Our enthusiasm for the message of Christ may be misunderstood as boasting madness, but it is actually a holy passion inspired by our love for God and love for others. We are willing to humble ourselves and adapt to the weaknesses of others in order to lead them to Christ. Despite any accusations, whether of being beside ourselves or seemingly calm, our motivation is always to advance the gospel and help others receive it.",
+        "wordCount": 95,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.961310174380257,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+        "commentatorTierSimilarities": [
+            22.65,
+            42.55,
+            34.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "whether we have been mad, it was for God",
+            "whether we be of sound mind, it is for you",
+            "if you will ascribe to us madness, it is a holy madness, for God"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The holy enthusiasm with which he spake of what God effected by His apostolic ministry, seemed to many to be boasting madness.",
+            "The glorifying of his office was not for his own, but for God's glory.",
+            "The abasing of himself was in adaptation to their infirmity, to gain them to Christ."
+        ],
+        "Albert Barnes": [
+            "It does not prove however that a man is deranged on the subject of religion because he is unlike others, or because he pursues a course of life that differs materially from that of other professors of religion, and from the man of the world.",
+            "There are a few people that become deranged by religion; there are millions who have no religion who act as madmen.",
+            "If we are esteemed to be sane, and sober-minded, as we trust you will admit us to be, it is for your sake. Whatever may be the estimate in which we are held, we are influenced by love to God, and love to man."
+        ],
+        "Marvin Vincent": [
+            "We are beside ourselves.",
+            "Some such charge appears to have been made."
+        ],
+        "John Calvin": [
+            "Hence I am prepared to be silent and to speak, according as the glory of God and the advantage of the Church will require, and I shall be quite contented that the world reckon me beside myself, provided only it is not to myself, but to God, that I am beside myself.",
+            "This is a passage that is deserving not merely of notice, but also of constant meditation; for unless we shall have our minds thus regulated, the smallest occasions of offense will from time to time draw us off from our duty.",
+            "Let men take it as they will, that I speak so much of my integrity, I do it not upon my own account, but have respect to God and the Church in speaking of it; for I am as ready to be silent as to speak, when my silence may glorify God and advantage the Church as much as my speech."
+        ],
+        "Philip Schaff": [
+            "Whether we are beside ourselves, it is unto God; or whether we are of sober mind, it is unto you.\" ",
+            "If tarried away by the glory of the message with which we are burdened, we at times seem beside ourselves... it is our zeal for God that urges us on.\" ",
+            "But if at other times we change our course, and our speech and action seem suspiciously calm, it is to avoid prejudice to our message, and win you to receive it."
+        ],
+        "Archibald T. Robertson": [
+            "Whether we are beside ourselves (\u03b5\u03b9\u03c4\u03b5 \u03b5\u03be\u03b5\u03c3\u03c4\u03b7\u03bc\u03b5\u03bd). Second aorist active indicative of \u03b5\u03be\u03b9\u03c3\u03c4\u03b7\u03bc, old verb, here to stand out of oneself (intransitive) from \u03b5\u03ba\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2, ecstasy, comes as in Mark 5:42.",
+            "It is literary plural, for Paul is referring only to himself.",
+            "A like charge was made against Jesus (Mark 3:21). People often accuse those whom they dislike with being a bit off."
+        ],
+        "John Gill": [
+            "It is to God; it is for his glory, and not our own, that we act this part, for which we are condemned as madmen.",
+            "It is for your cause; for your instruction and imitation.",
+            "The glory of God, and the good of his churches, were what concerned them in every part of life."
+        ],
+        "John Wesley": [
+            "For if we are transported beyond ourselves \u2014 Or at least, appear so to others, treated of, 2 Corinthians 5:15-21, speaking or writing with uncommon vehemence.",
+            "It is to God \u2014 He understands (if men do not) the emotion which himself inspires.",
+            "If we be sober \u2014 Treated of, 2 Corinthians 6:1-10. If I proceed in a more calm, sedate manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whether we are accused of madness or seen as of sound mind, our purpose is ultimately for God and for the benefit of others. Some may perceive our zeal and enthusiasm as wild boasting or eccentric behavior, but in reality, it is a holy passion that stems from our devotion to Christ and our desire to glorify God. We are willing to self-abase and adapt ourselves to the weaknesses of others in order to bring them closer to Christ. So, if there are times when we seem beside ourselves or appear calm and composed, it is all for the purpose of advancing the gospel and winning others over to receive it. We are willing to be misunderstood and even deemed mad if it means that God's glory and the welfare of the Church are served.",
+            "wordCount": 137,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.9487229779951751,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.14,
+            "commentatorTierSimilarities": [
+                22.42,
+                41.16,
+                36.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whether we are accused of madness or seen as of sound mind, our purpose is ultimately for God and for the benefit of others. Some may perceive our zeal and enthusiasm as wild boasting, but in reality, it is a holy passion that stems from our devotion to Christ and our desire to glorify God. We are willing to adapt ourselves to the weaknesses of others in order to bring them closer to Christ. So, if there are times when we seem beside ourselves or appear calm, it is all for the purpose of advancing the gospel and winning others over to receive it.",
+            "wordCount": 104,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.9407567714573282,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                23.1,
+                42.14,
+                34.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Whether we are accused of madness or seen as of sound mind, our purpose is ultimately for God and for the benefit of others. Some may perceive our zeal and enthusiasm as wild boasting, but in reality, it is a holy passion that stems from our devotion to Christ and our desire to glorify God. We are willing to adapt ourselves to the weaknesses of others in order to bring them closer to Christ. So, if there are times when we seem beside ourselves or appear calm, it is all for the purpose of advancing the gospel and winning others over to receive it.",
+            "wordCount": 104,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.9407567714573282,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                23.1,
+                42.14,
+                34.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Whether we are accused of madness or seen as of sound mind, our purpose is ultimately for God and for the benefit of others. Some may perceive our zeal and enthusiasm as wild boasting, but in reality, it is a holy passion that stems from our devotion to Christ and our desire to glorify God. We are willing to adapt ourselves to the weaknesses of others in order to bring them closer to Christ. So, if there are times when we seem beside ourselves or appear calm, it is all for the purpose of advancing the gospel and winning others over to receive it.",
+            "wordCount": 104,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.9407567714573282,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                23.1,
+                42.14,
+                34.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Whether we appear mad or of sound mind, our ultimate goal is for God's glory and the benefit of others. Our enthusiasm for the message of Christ may be misunderstood as boasting madness, but it is actually a holy passion inspired by our love for God and love for others. We are willing to humble ourselves and adapt to the weaknesses of others in order to lead them to Christ. Despite any accusations, whether of being beside ourselves or seemingly calm, our motivation is always to advance the gospel and help others receive it.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.961310174380257,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                22.65,
+                42.55,
+                34.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

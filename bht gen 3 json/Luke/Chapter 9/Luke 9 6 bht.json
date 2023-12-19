@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:16:56",
+    "verseRef": "Luke 9:6",
+    "bestBHT": {
+        "bht": "The disciples embarked on a mission, moving village by village [\u03ba\u03b1\u03c4\u03b1 \u03c4\u03b1\u03c2 \u03ba\u03c9\u03bc\u03b1\u03c2], throughout Galilee, and even the whole land of Israel, preaching the Gospel and healing everywhere. This continuous and repeated action made plainer by three present participles, describes the wide extent of their work as they departed from Christ and went everywhere spreading the message of the Gospel and providing healing to those in need.",
+        "wordCount": 67,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 1.3883219586758613,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.5,
+        "commentatorTierSimilarities": [
+            40.68,
+            0.0,
+            59.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Throughout the towns [\u03ba\u03b1\u03c4\u03b1 \u03c4\u03b1\u03c2 \u03ba\u03c9\u03bc\u03b1\u03c2] . Rev., rightly, villages. The preposition is distributive, village by village. ",
+            "- 9. Compare Matthew 14:1-2; 6 - 12.Mark 6:14-16, Mark 6:21-29."
+        ],
+        "Archibald T. Robertson": [
+            "Continuous and repeated action made plainer also by three present participles, describing the wide extent of the work through all the villages.",
+            "Distributive use of \u03ba\u03b1\u03c4\u03b1 \u03c4\u03b1\u03c2 \u03ba\u03c9\u03bc\u03b1\u03c2.",
+            "Everywhere in Galilee."
+        ],
+        "John Gill": [
+            "And they departed... they went from Christ, and the place where he was.\" ",
+            "and went through the towns... even the whole land of Israel\" ",
+            "preaching the Gospel... and healing everywhere"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples embarked on a mission, moving village by village, spreading the message of the Gospel and providing healing to those in need. Their purpose was not bound to one particular place, but encompassed the entirety of Galilee and even the whole land of Israel. This continuous and repeated action illustrates the wide extent of their work, as they departed from Christ and went everywhere preaching the Gospel and healing wherever they went.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.1560984944109358,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.78,
+            "commentatorTierSimilarities": [
+                29.78,
+                0.0,
+                70.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples embarked on a mission, moving village by village [\u03ba\u03b1\u03c4\u03b1 \u03c4\u03b1\u03c2 \u03ba\u03c9\u03bc\u03b1\u03c2], throughout Galilee, and even the whole land of Israel, preaching the Gospel and healing everywhere. This continuous and repeated action made plainer by three present participles, describes the wide extent of their work as they departed from Christ and went everywhere spreading the message of the Gospel and providing healing to those in need.",
+            "wordCount": 67,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.3883219586758613,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.5,
+            "commentatorTierSimilarities": [
+                40.68,
+                0.0,
+                59.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples went from Christ and traveled through villages, even throughout Galilee and the whole land of Israel, preaching the Gospel and healing everywhere. This distributive use of \u03ba\u03b1\u03c4\u03b1 \u03c4\u03b1\u03c2 \u03ba\u03c9\u03bc\u03b1\u03c2 signifies their continuous and repeated action as they moved village by village, demonstrating the wide scope of their mission. Their purpose was to spread the message of the Gospel and offer healing to all those in need.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.2476137836050967,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.83,
+            "commentatorTierSimilarities": [
+                36.99,
+                0.0,
+                63.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples embarked on a mission, spreading the message of the Gospel and providing healing wherever they went. Moving village by village, throughout Galilee and even the whole land of Israel, they demonstrated the wide extent of their work. Their continuous and repeated action, described by three present participles, allowed them to reach people in every corner, as they departed from Christ and went everywhere, preaching the Gospel and bringing healing to all in need.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.2224762923852304,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.99,
+            "commentatorTierSimilarities": [
+                33.91,
+                0.0,
+                66.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples embarked on a mission, moving village by village throughout Galilee and beyond, preaching the Gospel and healing everywhere. This continuous and repeated action, illustrated by three present participles, emphasized the wide extent of their work. Their purpose was not limited to one place but encompassed the entire land of Israel as they departed from Christ and went everywhere, spreading the message of the Gospel and offering healing to all in need.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.1293431958785978,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.89,
+            "commentatorTierSimilarities": [
+                37.56,
+                0.0,
+                62.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

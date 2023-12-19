@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:17:58",
+    "verseRef": "Luke 11:18",
+    "bestBHT": {
+        "bht": "Jesus, in response to the Pharisees' accusation, points out the inconsistency in their claim that he casts out demons through Beelzebul. By referencing his earlier statement about Satan falling from heaven, Jesus highlights the impossibility of Satan being divided against himself. This undermines the logic behind the Pharisees' accusation and exposes the irrationality of their argument.",
+        "wordCount": 56,
+        "quoteTokenProportion": 44.19,
+        "qualityScore": 1.471447674096947,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.27,
+        "commentatorTierSimilarities": [
+            32.86,
+            0.0,
+            67.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Satan. See on ch. Luke 10:18. ",
+            "Be divided. See on Matthew 12:26."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus here repeats in indirect discourse the charge made against him in verse Luke 11:15.",
+            "The condition is of the first class, determined as fulfilled."
+        ],
+        "John Gill": [
+            "Satan must be against himself, if what the Pharisees said was true; and consequently, his kingdom and government, could not long subsist.",
+            "Because ye say that I cast out devils through Beelzebub; which is all one as to say, that Satan is divided against himself, which is not reasonable to suppose.",
+            "Satan must be against himself, if what the Pharisees said was true; and consequently, his kingdom and government, could not long subsist."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 11:18, Jesus addresses the accusation that he casts out demons through the power of Beelzebul by pointing out the lack of reason in the argument. By repeating the charge, he exposes the inconsistency in the Pharisees' claim that Satan would be divided against himself. As the first-tier commentary suggests, Jesus is referencing his earlier statement in Luke 10:18 about Satan falling from heaven. This condition of Satan being divided is portrayed as an impossible scenario, highlighting the absurdity of the Pharisees' accusation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.8346261537085318,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                37.07,
+                0.0,
+                62.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus responds to the Pharisees' accusation in Luke 11:18 by addressing the inconsistency in their claim that he casts out demons through Beelzebul. He exposes the lack of reason in their argument, pointing out that Satan being divided against himself would be illogical. By referring back to his previous statement in Luke 10:18, Jesus emphasizes the impossibility of Satan being divided. This highlights the absurdity of the Pharisees' accusation.",
+            "wordCount": 67,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6797595210863003,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.19,
+            "commentatorTierSimilarities": [
+                37.99,
+                0.0,
+                62.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus responds to the accusation made by the Pharisees, repeating it to expose the inconsistency in their claim. By referencing his previous statement about Satan falling from heaven, Jesus highlights the impossibility of Satan being divided against himself. This challenges the logic behind the Pharisees' accusation that Jesus casts out demons through Beelzebul. The lack of reason in their argument is evident, emphasizing the absurdity of their claims.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.3170667701177385,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.14,
+            "commentatorTierSimilarities": [
+                34.16,
+                0.0,
+                65.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in response to the Pharisees' accusation, points out the inconsistency in their claim that he casts out demons through Beelzebul. By referencing his earlier statement about Satan falling from heaven, Jesus highlights the impossibility of Satan being divided against himself. This undermines the logic behind the Pharisees' accusation and exposes the irrationality of their argument.",
+            "wordCount": 56,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.471447674096947,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.27,
+            "commentatorTierSimilarities": [
+                32.86,
+                0.0,
+                67.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus responds to the accusation made by the Pharisees, repeating it to highlight the inconsistency in their claim. By referencing his previous statement about Satan falling from heaven, Jesus emphasizes the impossibility of Satan being divided against himself. This challenges the legitimacy of the Pharisees' accusation that Jesus casts out demons through Beelzebul. The lack of reason in their argument is clearly exposed, underscoring the absurdity of their claims.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.3089683518172328,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.87,
+            "commentatorTierSimilarities": [
+                32.78,
+                0.0,
+                67.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

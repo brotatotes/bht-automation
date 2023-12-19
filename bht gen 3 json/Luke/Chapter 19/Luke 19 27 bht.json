@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:21:59",
+    "verseRef": "Luke 19:27",
+    "bestBHT": {
+        "bht": "This command brings out both comings of the Lord,\u2014at the destruction of Jerusalem, and at the end of the world. For we must not forget that even now \u2018He is gone to receive a Kingdom and return.\u2019 Referring to the awful destruction of Jerusalem, but pointing to the final destruction of all that are found in open rebellion against Christ. Christ informs us that he will return, and that at his coming he will punish wicked rebellion.",
+        "wordCount": 78,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 1.9373890259889586,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+        "commentatorTierSimilarities": [
+            29.5,
+            35.05,
+            35.45
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This command brings out both comings of the Lord,\u2014at the destruction of Jerusalem, and at the end of the world.",
+            "For we must not forget that even now \u2018He is gone to receive a Kingdom and return:\u2019",
+            "\u2018We see not yet all things put under His feet.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Referring to the awful destruction of Jerusalem, but pointing to the final destruction of all that are found in open rebellion against Christ.",
+            "CHRIST'S TRIUMPHANT ENTRY INTO JERUSALEM AND TEARS OVER IT.",
+            "(See on 1 Samuel 15:33- :.)"
+        ],
+        "Marvin Vincent": [
+            "However it may be with the unfaithful servant.",
+            "A strong word: slaughter; cut them down.",
+            "Compare Matthew 21:1-11; Mark 11:1-11."
+        ],
+        "John Calvin": [
+            "Christ informs us that he will return, and that at his coming he will punish wicked rebellion.",
+            "His intention was, not only to terrify such persons by threatening an awful punishment, but also to keep his own people in faithful subjection.",
+            "In order then that we may preserve our composure in the midst of troubles, Christ informs us that he will return."
+        ],
+        "Philip Schaff": [
+            "This strong expression sets forth the hopelessness and severity of the punishment which shall fall upon those who oppose Christ as King.",
+            "To us it is a figure, first, of the punishment which fell upon Jerusalem; and secondly, of punishment, which is to follow the final judgment.",
+            "Thus the parable has a primary application to the disciples and the Jewish nation, and then a wider one to the Christian ministry in general and the opposing world."
+        ],
+        "Archibald T. Robertson": [
+            "Reign (\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03c5\u03c3\u03b1). First aorist active infinitive, ingressive aorist, come to rule.",
+            "Slay (\u03ba\u03b1\u03c4\u03b1\u03c3\u03c6\u03b1\u03be\u03b1\u03c4\u03b5). First aorist active imperative of \u03ba\u03b1\u03c4\u03b1\u03c3\u03c6\u03b1\u03b6\u03c9, to slaughter, an old verb, but only here in the N.T."
+        ],
+        "John Gill": [
+            "But those mine enemies,.... Meaning particularly the Jews, who were enemies to the person of Christ...",
+            "...they are enemies to Christ; and so of all negligent and slothful professors, and ministers of the word, who, when Christ shall come a second time... will be punished with everlasting destruction by him...",
+            "...then all other enemies will be slain and destroyed, sin, Satan, the world, and death."
+        ],
+        "John Wesley": [
+            "He went before \u2014 The foremost of the company, showing his readiness to suffer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the destruction of Jerusalem and at the end of the world, Christ will return to punish wicked rebellion. His intention is not only to terrify but also to keep his own people in faithful subjection. By informing us of his return, Christ helps us preserve our composure in the midst of troubles. Those who oppose Christ as King, including the Jews and negligent ministers, will be punished with everlasting destruction. However, when Christ returns, all other enemies such as sin, Satan, the world, and death will be slain and destroyed. Christ's triumphant entry into Jerusalem and tears shed over it foreshadowed these events.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.8377603174491006,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                23.43,
+                36.93,
+                39.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the destruction of Jerusalem and at the end of the world, Christ will return to punish wicked rebellion. By informing us of his return, Christ helps us preserve our composure in the midst of troubles. Those who oppose Christ as King, including the Jews and negligent ministers, will be punished with everlasting destruction. However, when Christ returns, all other enemies such as sin, Satan, the world, and death will be slain and destroyed. Christ's triumphant entry into Jerusalem and tears shed over it foreshadowed these events.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.896881633156338,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                23.74,
+                38.67,
+                37.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This command brings out both comings of the Lord,\u2014at the destruction of Jerusalem, and at the end of the world. For we must not forget that even now \u2018He is gone to receive a Kingdom and return.\u2019 Referring to the awful destruction of Jerusalem, but pointing to the final destruction of all that are found in open rebellion against Christ. Christ informs us that he will return, and that at his coming he will punish wicked rebellion.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 1.9373890259889586,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                29.5,
+                35.05,
+                35.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When considering Luke 19:27, it is important to recognize that this command speaks to both the destruction of Jerusalem and the end of the world. Christ's triumphant entry into Jerusalem and His tears over it are significant in this verse, as it points to the final destruction of all those who rebel against Him. The strong word slaughter emphasizes the severity of the punishment that will come upon those who oppose Christ as King. Although initially applied to the disciples and the Jewish nation, this parable also has broader implications for the Christian ministry and the opposing world. Ultimately, Christ's return will bring both judgment and punishment upon the enemies of His reign.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 2.058494783743732,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.79,
+            "commentatorTierSimilarities": [
+                22.52,
+                49.74,
+                27.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The command in question refers to the destruction of Jerusalem and the end of the world. Christ's triumphant entry into Jerusalem and His tears over it foreshadow the final destruction of those who rebel against Him. The severe word 'slaughter' illustrates the gravity of the punishment for opposing Christ's kingship. Although primarily addressing the disciples and Jewish nation, this parable also applies to the Christian ministry and the world at large. Ultimately, Christ's return will bring judgment and punishment for those who resist His reign.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.971438892636297,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.89,
+            "commentatorTierSimilarities": [
+                23.55,
+                49.2,
+                27.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

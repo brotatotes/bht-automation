@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 14:12:51",
+    "verseRef": "Galatians 1:21",
+    "bestBHT": {
+        "bht": "After his conversion, Paul is believed to have traveled from Caesarea to Tarsus by sea and then continued his ministry in Syria and Cilicia. This sea journey accounts for him being unknown by face to the churches of Judea. In Tarsus and the surrounding country, Paul was not idle, but at work, preaching the Gospel of Christ. He established churches in these regions, as mentioned in Acts. His journey to these areas allowed him to spread the teachings of Christianity.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.0269583820056534,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+        "commentatorTierSimilarities": [
+            33.0,
+            43.34,
+            23.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Mr. Howson suggests (edn. 2, i.p. 129, f.) that he may have gone at once from Caesarea to Tarsus by sea, and Syria and Cilicia may afterwards have been the field of his activity.\" ",
+            "The supposition is confirmed by our ver. 23: see below.",
+            "In Acts xv. 23, 41, we find churches in Syria and Cilicia, which may have been founded by Paul on this journey."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He probably went first to C\u00e6sarea, the main seaport, and thence by sea to Tarsus of Cilicia, his native place, and thence to Syria.",
+            "Also 'Syria and Cilicia,' from their close geographical connection, became a generic geographical phrase, the more important district being placed first.",
+            "This sea journey accounts for his being 'unknown by face to the churches of Judea.'"
+        ],
+        "Albert Barnes": [
+            "He was not indebted to the apostles for his knowledge of the doctrines of Christianity.",
+            "He left Jerusalem soon after he went there, and traveled to other places.",
+            "This was a province of Asia Minor, of which Tarsus, the native place of Paul, was the capital."
+        ],
+        "Marvin Vincent": [
+            "Klima, originally an inclination or slope of ground: the supposed slope of the earth from the equator to the pole.",
+            "The word came to signify the temperature of these zones, hence our climate.",
+            "Syria, in the narrower sense, of the district of which Antioch was the capital: not the whole Roman province of Syria, including Galilee and Judaea."
+        ],
+        "Philip Schaff": [
+            "Syria, the province of which Antioch was the capital.",
+            "Cilicia, the province adjoining Syria. Paul was a native of Tarsus, its capital, and a famous seat of learning.",
+            "The object of his journey was no doubt to preach the gospel, as appears from Acts 15:23, where churches are mentioned in those regions."
+        ],
+        "Archibald T. Robertson": [
+            "Into the region of Syria and Cilicia...Paul was not idle, but at work in Tarsus and the surrounding country.",
+            "This statement agrees with the record in Acts 9:30.",
+            "Paul was not idle, but at work in Tarsus and the surrounding country."
+        ],
+        "John Gill": [
+            "Having disputed against the Grecians at Jerusalem, and being too hard for them, it so irritated them, that they were going to murder him.",
+            "In which places and in the countries about he preached the Gospel of Christ.",
+            "A climate in geography is said to be a part of the surface of the earth, bounded by two circles parallel to the equator, and of such a breadth as that the longest day in the parallel nearer the pole, exceeds the longest day in that next the equator, by some certain space."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After his conversion, Paul traveled to various places to preach the gospel. It is suggested that he may have gone from Caesarea to Tarsus by sea, and then continued his ministry in Syria and Cilicia. These regions were close geographically, with Syria being the more significant of the two. Through his travels, Paul founded churches in these areas, which is confirmed by Acts. This journey explains why Paul was not familiar to the churches in Judea. In Tarsus and the surrounding area, Paul diligently worked and preached, using this time to spread the teachings of Christianity.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.972987209201595,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                33.81,
+                45.43,
+                20.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After his conversion, Paul likely traveled by sea from Caesarea to Tarsus, his native place in Cilicia, before continuing his ministry in Syria. His journey to these regions allowed him to establish churches, as recorded in Acts. This explains why he was not known by face to the churches in Judea. In Tarsus and its surrounding area, Paul diligently worked and preached the gospel of Christ, effectively spreading the teachings of Christianity in those regions.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9959123788081876,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.71,
+            "commentatorTierSimilarities": [
+                30.56,
+                45.01,
+                24.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After his conversion, Paul is believed to have traveled from Caesarea to Tarsus by sea and then continued his ministry in Syria and Cilicia. This sea journey accounts for him being unknown by face to the churches of Judea. In Tarsus and the surrounding country, Paul was not idle, but at work, preaching the Gospel of Christ. He established churches in these regions, as mentioned in Acts. His journey to these areas allowed him to spread the teachings of Christianity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.0269583820056534,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                33.0,
+                43.34,
+                23.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After his conversion, Paul likely traveled by sea from Caesarea to Tarsus in Cilicia, his native place, before continuing his ministry in Syria. This journey may have led to the establishment of churches in these regions. It is suggested that Paul was diligent in his work, preaching the Gospel of Christ in Tarsus and the surrounding country. This aligns with the account in Acts, confirming his activity and productivity during this time. Through his travels, Paul played a significant role in spreading and establishing Christianity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8649217116724448,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                33.35,
+                44.72,
+                21.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After his conversion, Paul likely traveled by sea from Caesarea to Tarsus in Cilicia, before continuing his ministry in Syria. It is suggested that Paul was not idle, but at work, preaching the Gospel of Christ in Tarsus and the surrounding country. This aligns with the account in Acts, confirming his activity and productivity during this time. Through his travels, Paul played a significant role in spreading and establishing Christianity.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8937528617610357,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "commentatorTierSimilarities": [
+                34.22,
+                43.14,
+                22.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:21:18",
+    "verseRef": "Luke 18:33",
+    "bestBHT": {
+        "bht": "On the third day, Jesus predicts his own suffering, death, and resurrection. He foretells the shameful and painful manner of his death, including scourging and crucifixion, while also emphasizing the victorious outcome of rising again. This highlights the sacrificial and redemptive nature of Jesus' mission, symbolizing the incredible lengths he went to offer salvation.",
+        "wordCount": 54,
+        "quoteTokenProportion": 31.71,
+        "qualityScore": 1.2301105867850566,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.24,
+        "commentatorTierSimilarities": [
+            46.14,
+            0.0,
+            53.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "The third day (\u03c4\u03b7 \u03b7\u03bc\u03b5\u03c1\u03b1 \u03c4\u03b7 \u03c4\u03c1\u03b9\u03c4\u03b7). The day the third. In Matthew 20:19 it is \"the third day\" while in Mark 10:34 \"after three days\" occurs in the same sense, which see. "
+        ],
+        "John Gill": [
+            "And they shall scourge him... put him to death...",
+            "...a shameful, and a painful one, the death of the cross...",
+            "...and the third day he shall rise again..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the third day, as mentioned in Matthew 20:19, and with the same meaning as after three days in Mark 10:34, Jesus predicts his own suffering, death, and resurrection. He foretells the dreadful nature of his death, involving scourging and crucifixion, but also emphasizes the victorious outcome of rising again on the third day. This verse highlights the sacrificial and redemptive nature of Jesus' mission, symbolizing the incredible lengths he went to in order to offer salvation to humanity.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.7414309081699175,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                66.32,
+                0.0,
+                33.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the third day, Jesus predicts his own suffering, death, and resurrection. He foretells the shameful and painful manner of his death, including scourging and crucifixion, while also emphasizing the victorious outcome of rising again. This highlights the sacrificial and redemptive nature of Jesus' mission, symbolizing the incredible lengths he went to offer salvation.",
+            "wordCount": 54,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 1.2301105867850566,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.24,
+            "commentatorTierSimilarities": [
+                46.14,
+                0.0,
+                53.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the third day, Jesus foretells his suffering, death, and resurrection. He speaks of the shameful and painful death he will endure, emphasizing that it will be the death of the cross. However, he also assures that after three days, he will rise again. This verse underscores the sacrificial nature of Jesus' mission, highlighting the magnitude of his sacrifice for the redemption of mankind.",
+            "wordCount": 64,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.3503374135515134,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+            "commentatorTierSimilarities": [
+                41.15,
+                0.0,
+                58.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the third day, Jesus predicts his own suffering, death, and resurrection. He foretells the shameful and painful nature of his death, involving scourging and crucifixion. However, he also emphasizes the triumphant outcome of rising again on the third day. This verse highlights the sacrificial and redemptive aspect of Jesus' mission, demonstrating the extraordinary lengths he went to in order to offer salvation to humanity.",
+            "wordCount": 65,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.328095925336616,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.5,
+            "commentatorTierSimilarities": [
+                51.4,
+                0.0,
+                48.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the third day, as mentioned in Matthew 20:19, Jesus predicts his own suffering, death, and resurrection. He foretells the dreadful nature of his death, involving scourging and crucifixion, but also emphasizes the victorious outcome of rising again on the third day. This verse highlights the sacrificial and redemptive nature of Jesus' mission, symbolizing the incredible lengths he went to in order to offer salvation to humanity.",
+            "wordCount": 66,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.5808566472057943,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.91,
+            "commentatorTierSimilarities": [
+                61.49,
+                0.0,
+                38.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

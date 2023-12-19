@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:31:28",
+    "verseRef": "Ephesians 3:15",
+    "bestBHT": {
+        "bht": "Every family on earth and in heaven is named from God, reflecting His fatherhood and sourceship. This familial connection unites all classes of humanity and angels together, as they all get their name and status from God the Father of all. Believers bear God's name and belong to Him as His own peculiar people, highlighting their adoption into His family. The term family encompasses the idea of a body belonging to a common stock, a clan. Every earthly and heavenly family reflects the being and sourceship of the great Father Himself.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.487595473670587,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.05,
+        "commentatorTierSimilarities": [
+            35.39,
+            33.49,
+            31.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "From whom every family in the heavens and on earth is named.",
+            "Patria is the family named so from its all having one pater.",
+            "Every earthly [and heavenly] family reflects in its name [and constitution] the being and sourceship of the great Father Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God, in His relation of Father to us His adopted children, is the great prototype of the paternal relation wherever found.",
+            "Hence angels are termed our 'brethren' and 'sons of God' by creation, as we are by adoption.",
+            "To bear God's name is to belong to God as His own peculiar people."
+        ],
+        "Albert Barnes": [
+            "The whole 'family of God,' means all his children; and the idea is, that they all bear the same name, derived from the Redeemer; all are Christians.\" ",
+            "They are all of one family. They all have one father, and are all of one community. The expression is taken from the custom in a family, where all bear the name of the 'head' of the family.\" ",
+            "Part are in heaven, near his throne; part in distant worlds; part are angels of light; part redeemed and happy spirits; part are in the church on earth; but they are all united as one family, and have one head and Father."
+        ],
+        "Marvin Vincent": [
+            "The word occurs only three times in the New Testament: here, Luke 2:4; Acts 3:25. In the last-named passage it is used in a wide, general sense, of nations.\" ",
+            "Family is perhaps the best translation, if taken in its wider meaning of a body belonging to a common stock - a clan.",
+            "To the angelic hosts and the tribes of men alike, God is Father."
+        ],
+        "John Calvin": [
+            "He proposes...to claim kindred even with angels.",
+            "[Through Christ] all come and blend together, as one family...and are mutually brethren.",
+            "There is but one relationship which ought to be reckoned...a union to the body of Christ."
+        ],
+        "Philip Schaff": [
+            "Family' is not to be taken as equivalent to 'paternity,' but probably in the wider sense of 'race,' 'tribe,' etc."
+        ],
+        "Archibald T. Robertson": [
+            "Paul seems to mean that all the various classes of men on earth and of angels in heaven get the name of family from God the Father of all.",
+            "Every family (\u03c0\u03b1\u03c3\u03b1 \u03c0\u03b1\u03c4\u03c1\u03b9\u03b1). Old word (\u03c0\u03b1\u03c4\u03c1\u03b1 is the usual form) from \u03c0\u03b1\u03c4\u03b7\u03c1, descent from a common ancestor as a tribe or race.",
+            "Some take it here as = \u03c0\u03b1\u03c4\u03c1\u03bf\u03c4\u03b7\u03c2, fatherhood, but that is most unlikely."
+        ],
+        "John Gill": [
+            "Or else to Jesus Christ, who is the everlasting Father, the Son over his own house, and the firstborn among many brethren.",
+            "This family consists either of elect angels and elect men, who are both under one head, Christ, and are in one family, only with this difference, the one are servants, the other sons.",
+            "And this family is named of Christ; they are called Christians from him, and he is the master and governor of them."
+        ],
+        "John Wesley": [
+            "The whole family of angels in heaven, saints in paradise, and believers on earth is named.",
+            "Being the 'children of God,' (a more honourable title than 'children of Abraham,') and depending on him as the Father of the family."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From God, every family on earth and in heaven has received their name. Just as earthly families reflect the fatherhood of God, the heavenly family of angels and the earthly family of believers are both linked through their adoption into God's family. In this context, the term family goes beyond its simplistic meaning and encompasses the idea of a body belonging to a common stock - a clan. Paul is emphasizing that all classes of humanity, as well as angels, derive their familial status from God as the great Father of all. As part of the family of God, believers bear His name and belong to Him as His own peculiar people.",
+            "wordCount": 112,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.5104644212961604,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.81,
+            "commentatorTierSimilarities": [
+                34.46,
+                34.77,
+                30.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every family on earth and in heaven is named from God, reflecting His fatherhood and sourceship. Both angels and believers are members of this divine family, with God as their great prototype of paternal relation. The term family here goes beyond the typical understanding and implies a body belonging to a common stock, a clan. Paul emphasizes that all classes of humanity, as well as angels, derive their familial status from God, the Father of all. Believers bear God's name and belong to Him as His own peculiar people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.455670016250597,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.99,
+            "commentatorTierSimilarities": [
+                35.82,
+                33.42,
+                30.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Every family on earth and in heaven is named from God, reflecting His fatherhood and sourceship. Both angels and believers are members of this divine family, with God as their great prototype of paternal relation. Every class of humanity and angels derive their familial status from God, the Father of all. Believers bear God's name and belong to Him as His own peculiar people, highlighting their adoption into His family. This familial connection unites all believers, regardless of their earthly or heavenly dwelling.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.4710046807555726,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.5,
+            "commentatorTierSimilarities": [
+                34.48,
+                33.04,
+                32.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Every family, both on earth and in heaven, derives its name from God. This highlights the reflection of God's fatherhood and sourceship in the earthly and heavenly families. The term family encompasses the idea of a body belonging to a common stock, a clan. By being part of God's family, believers bear His name and belong to Him as His own peculiar people. This familial connection unites all classes of humanity and angels together, as they all get their name and status from God the Father of all.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.46258063803064,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.22,
+            "commentatorTierSimilarities": [
+                35.05,
+                34.14,
+                30.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Every family on earth and in heaven is named from God, reflecting His fatherhood and sourceship. This familial connection unites all classes of humanity and angels together, as they all get their name and status from God the Father of all. Believers bear God's name and belong to Him as His own peculiar people, highlighting their adoption into His family. The term family encompasses the idea of a body belonging to a common stock, a clan. Every earthly and heavenly family reflects the being and sourceship of the great Father Himself.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.487595473670587,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.05,
+            "commentatorTierSimilarities": [
+                35.39,
+                33.49,
+                31.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

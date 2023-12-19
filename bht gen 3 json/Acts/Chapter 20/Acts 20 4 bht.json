@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:34:02",
+    "verseRef": "Acts 20:4",
+    "bestBHT": {
+        "bht": "Paul was accompanied by Tychicus, Trophimus, and Caius, who provided him with comfort and support. Tychicus, highly valued by Paul, carried the letter to the Ephesians. Trophimus, who fell sick in Miletus, was a loyal companion of Paul. Luke, who joined Paul in Philippi, may have overseen the handling of funds to avoid any scandal. These individuals played significant roles in Paul's ministry and were a source of encouragement to him.",
+        "wordCount": 72,
+        "quoteTokenProportion": 32.0,
+        "qualityScore": 2.0423630880101307,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+        "commentatorTierSimilarities": [
+            31.09,
+            40.31,
+            28.6
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Tychicus is mentioned Eph. vi. 21, as sent (to Ephesus from Rome) with that Epistle.",
+            "Trophimus, an Ephesian, was in Jerusalem with Paul, ch. xxi. 29: and had been, shortly before 2 Tim. was written, left sick at Miletus.",
+            "The name Caius (Gaius) was far too common to create any difficulty in there being two, or three companions of Paul so called."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The mention of his father was to distinguish him from Sosipater mentioned in... But that they were the same person seems more probable.\" ",
+            "There is no sufficient reason for supposing them different persons; on the contrary... seems to show that though he spent an important part of his Christian life away from his native Derbe, he had latterly retired to some place not very far from it.",
+            "They seem to have put themselves, from this time forward, at the apostle's disposal, and to the very last been a great comfort to him."
+        ],
+        "Albert Barnes": [
+            "It was usual for some of the disciples to attend the apostles in their journeys.",
+            "Tychicus...was high in the confidence and affection of Paul.",
+            "When Paul wrote his Second Epistle to Timothy he was at Miletum, sick."
+        ],
+        "Marvin Vincent": [
+            "So pater. The best texts add, the son of Pyrrhus.",
+            "Aristarchus. Compare Acts 19:29.",
+            "Tychicus and Trophimus. See Colossians 4:7, Colossians 4:8; Ephesians 6:21, Ephesians 6:22; 2 Timothy 4:12; Titus 3:2; Acts 21:29; 2 Timothy 4:20."
+        ],
+        "Philip Schaff": [
+            "Of these companions of the apostles three were natives of Macedonia and four of Asia Minor.\" ",
+            "Tychicus. The name which means \u2018fortunate\u2019 is represented by the Latin \u2018Felix.\u2019 He was probably a native of Ephesus.",
+            "Trophimus, too, is mentioned in the Second Epistle to Timothy, 'Trophimus have I left at Miletus sick.'"
+        ],
+        "Archibald T. Robertson": [
+            "The phrase could apply only to Sopatros.",
+            "Luke joined Paul in Philippi and could have handled the money from Achaia.",
+            "It was an important event and Paul took the utmost pains to remove any opportunity for scandal in the handling of the funds."
+        ],
+        "John Gill": [
+            "This Sopater is thought to be the same with Sosipater in Romans 16:21...the name signifies 'a father saved'.\" ",
+            "The former of these is before said to be a Macedonian, Acts 19:29 and here he appears to be of Thessalonica, and his name is a Greek one.\" ",
+            "Trophimus, we are told, taught at Arles in France, and suffered martyrdom with the Apostle Paul; and that Tychicus was bishop of Chalcedon in Bithynia."
+        ],
+        "John Wesley": [
+            "To Asia \u2014 There some of them left him. But Trophimus went with him to Jerusalem, Acts 21:29. Aristarchus, even to Rome, Acts 27:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul was accompanied by Tychicus, Trophimus, and a man named Caius, who is likely the son of Pyrrhus. These companions willingly offered their support to Paul and were a source of great comfort to him until the very end. Tychicus, in particular, was highly trusted and respected by Paul. Trophimus, who would later fall ill in Miletus, was also a faithful companion of the apostle. These individuals played important roles in Paul's ministry, and it is worth noting that Luke, who joined Paul in Philippi, may have been entrusted with the handling of the funds for the journey to Jerusalem to ensure transparency and avoid any scandal.",
+            "wordCount": 108,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 2.0104411913366156,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                29.62,
+                38.71,
+                31.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's companions on his journey included Tychicus, Trophimus, and Caius, possibly the son of Pyrrhus. They provided support to Paul and were a source of comfort. Tychicus, known for his trustworthiness, was highly valued by Paul, while Trophimus traveled with him and fell ill in Miletus. Luke may have been responsible for handling the funds. These individuals played significant roles in Paul's ministry, ensuring transparency and avoiding any scandal. Their presence was a blessing to Paul.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8220203570632894,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                31.64,
+                40.05,
+                28.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Tychicus, Trophimus, and Caius, likely the son of Pyrrhus, were faithful companions to Paul on his journey. Tychicus, whom Paul held in high regard, brought the letter to the Ephesians, while Trophimus accompanied Paul but fell ill in Miletus. They offered comfort to Paul and played important roles in his ministry. Luke, who joined Paul in Philippi, may have handled the funds for the journey, ensuring transparency and avoiding any scandal. These individuals were a source of encouragement and support to Paul throughout his mission.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0028823897249675,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                30.78,
+                38.19,
+                31.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul was accompanied by Tychicus, Trophimus, and Caius, who provided him with comfort and support. Tychicus, highly valued by Paul, carried the letter to the Ephesians. Trophimus, who fell sick in Miletus, was a loyal companion of Paul. Luke, who joined Paul in Philippi, may have overseen the handling of funds to avoid any scandal. These individuals played significant roles in Paul's ministry and were a source of encouragement to him.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.0423630880101307,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+            "commentatorTierSimilarities": [
+                31.09,
+                40.31,
+                28.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Tychicus, Trophimus, and Caius were faithful companions to Paul during his journey, providing him with comfort and support. Tychicus, trusted by Paul, carried the letter to the Ephesians. Trophimus, who fell ill in Miletus, had been with Paul in Jerusalem. Luke, who joined Paul in Philippi, may have handled the funds for the journey to ensure transparency. These individuals played significant roles in Paul's ministry, offering encouragement and serving as an invaluable source of comfort to him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9584861663765012,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                29.71,
+                38.73,
+                31.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

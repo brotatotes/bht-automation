@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:28:46",
+    "verseRef": "Acts 9:19",
+    "bestBHT": {
+        "bht": "After his encounter with Christ, Saul spent a few days in Damascus, becoming acquainted with the disciples whom he had once persecuted. Although not to learn the gospel from them, this time allowed Saul to establish unexpected bonds and regain his strength. Subsequently, Saul would go on to preach and teach, his example serving as proof of the truth of the Christian religion. Before embarking on his mission, Saul also took a period of solitude in Arabia, reflecting on his conversion and preparing for his significant task ahead.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.9625977568290884,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.6,
+        "commentatorTierSimilarities": [
+            29.47,
+            37.11,
+            33.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A few days; of quiet, and becoming acquainted with those as brethren, whom he came to persecute as infidels.\" ",
+            "Not to learn from them the gospel, nor was the time longer than to admit of straightway being used.",
+            "The same word is used of the whole space (including his preaching in our vv. 20, 21) preceding the journey to Arabia."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When he had received meat, he was strengthened\u2014for the exhaustion occasioned by his three days' fast would not be the less real, though unfelt during his struggles.\" ",
+            "Then was Saul certain days with the disciples at Damascus\u2014making their acquaintance, in another way than either he or they had anticipated, and regaining his tone by the fellowship of the saints.",
+            "Not certainly in order to learn from them what he was to teach, which he expressly disavows."
+        ],
+        "Albert Barnes": [
+            "His conversion has always been justly considered as a strong proof of the Christian religion.",
+            "If Paul was sincere; if his conversion was genuine, the Christian religion is true.",
+            "The example of Saul does not stand alone. Hundreds and thousands of enemies; persecutors, and slanderers have been changed, and every such one becomes a living witness of the power and truth of the Christian religion."
+        ],
+        "Philip Schaff": [
+            "Paul, in his Galatian Epistle (Acts 1:16-18), tells how, shortly after his conversion, he went into Arabia, then returned to Damascus, and after a space of three years went up to Jerusalem.\" ",
+            "From the time when the word \u2018Arabia \u2018was first used by any of the writers of Greece and Rome, it has always been a term of vague and uncertain import.",
+            "It is, however, possible that Saul, after the first excitement wrought by his conversion had in some measure passed away, longed for solitude, for a time of meditation before setting out on his great life\u2019s work."
+        ],
+        "Archibald T. Robertson": [
+            "Was strengthened (\u03b5\u03bd\u03b9\u03c3\u03c7\u03c5\u03b8\u03b7). First aorist passive indicative of \u03b5\u03bd\u03b9\u03c3\u03c7\u03c5\u03c9, to receive strength (\u03b9\u03c3\u03c7\u03c5\u03c2), comparatively late verb and here only in the N.T. save Luke 22:43 where it is doubtful.",
+            "This clause belongs in sense to verse Acts 9:18.",
+            "Some days (\u03b7\u03bc\u03b5\u03c1\u03b1\u03c2 \u03c4\u03b9\u03bd\u03b1\u03c2). An indefinite period, probably not long, the early period in Damascus before Saul left for Arabia (Galatians 1:13-24)."
+        ],
+        "John Gill": [
+            "He was strengthened; in body, being before very weak and feeble; not so much through fatigue of his journey, as through the fear and surprise the appearance of Christ to him, and his words, threw him into.",
+            "These disciples, with the new converts afterwards, it is highly probable, formed a church state in Damascus.",
+            "Ulid, the prince of the Saracens, took away the temple from the Christians of this place, and dedicated it to Mahomet; after which we hear no more of the church at Damascus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After his encounter with Christ on the road to Damascus, Saul spent a few quiet days with the disciples, establishing an unexpected bond with those whom he previously sought to persecute. Despite not needing to learn from them, Saul's time with the disciples served as a period of regaining strength and forming relationships within the fellowship of believers. Once strengthened, Saul was ready to embark on his mission, which would include preaching and teaching in various places. It is worth noting that after these initial days in Damascus, Saul would later spend time in Arabia before returning to Damascus and eventually heading to Jerusalem. This period of solitude and meditation was perhaps a necessary step for Saul, allowing him to reflect on his conversion and prepare himself for the significant task ahead.",
+            "wordCount": 133,
+            "quoteTokenProportion": 38.04,
+            "qualityScore": 1.9037182027629505,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.64,
+            "commentatorTierSimilarities": [
+                30.96,
+                32.76,
+                36.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After his encounter with Christ, Saul spent a few days in Damascus, becoming acquainted with the disciples whom he had once persecuted. Although not to learn the gospel from them, this time allowed Saul to establish unexpected bonds and regain his strength. Subsequently, Saul would go on to preach and teach, his example serving as proof of the truth of the Christian religion. Before embarking on his mission, Saul also took a period of solitude in Arabia, reflecting on his conversion and preparing for his significant task ahead.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.9625977568290884,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.6,
+            "commentatorTierSimilarities": [
+                29.47,
+                37.11,
+                33.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After his encounter with Christ, Saul spent some days with the disciples in Damascus, not to learn the gospel from them, but to establish unexpected bonds and regain his strength. This period of acquaintance and fellowship allowed Saul to experience the power and truth of the Christian religion firsthand. Later, Saul would venture into Arabia for a time of reflection and preparation, demonstrating the significance of solitude and meditation in shaping his calling. His conversion stands as a powerful example of how enemies can be transformed by the Christian faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.874289232924458,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                25.69,
+                39.09,
+                35.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After his encounter with Christ, Saul spent a few days in Damascus with the disciples, forming unexpected bonds and regaining his strength. This period of fellowship allowed Saul to experience the power and truth of the Christian religion, serving as proof of its validity. Subsequently, Saul retreated to Arabia for a period of reflection and preparation before embarking on his significant mission. His sincere conversion, along with countless others who have been changed by the faith, is a testament to the transformative power of Christianity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8218926373620534,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                24.36,
+                39.86,
+                35.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After his encounter with Christ, Saul spent some days with the disciples in Damascus, forging unexpected bonds and regaining his strength. This period of fellowship allowed Saul to personally witness the power and truth of the Christian religion, exemplifying its authenticity. Following these days, Saul retreated to Arabia for a time of contemplation and preparation, displaying the significance of solitude and meditation in shaping his future mission. Ultimately, Saul's conversion serves as a powerful testament to the transformative nature of the Christian faith.",
+            "wordCount": 84,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.7709677599330598,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+            "commentatorTierSimilarities": [
+                23.33,
+                40.95,
+                35.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

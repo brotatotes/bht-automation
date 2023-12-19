@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:17:47",
+    "verseRef": "Luke 11:14",
+    "bestBHT": {
+        "bht": "When the devil was cast out of the man, he became both deaf and dumb. The cause for his inability to speak was removed, and people marveled at the power of Christ, leading them to believe that he was the Messiah, the son of David.",
+        "wordCount": 45,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.4381917602653502,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.16,
+        "commentatorTierSimilarities": [
+            9.69,
+            28.95,
+            61.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14.] dumb\u2014and blind, Matthew, ver. 22, where see notes on all the common matter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14. dumb\u2014blind also ( :-)."
+        ],
+        "Marvin Vincent": [
+            "Dumb [\u03ba\u03c9\u03c6\u03bf\u03bd] . See on Matthew 9:32."
+        ],
+        "Philip Schaff": [
+            "Luke 11:14. And he was casting out. Indefinite as to time.",
+            "\t",
+            " A dumb demon. The man was dumb; the dumb man spake.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "When (\u03c4\u03bf\u03c5 \u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03b9\u03bf\u03c5 \u03b5\u03be\u03b5\u03bb\u03b8\u03bf\u03bd\u03c4\u03bf\u03c2). Genitive absolute ana asyndeton between \u03ba\u03b1 \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf and \u03b5\u03bb\u03b1\u03bb\u03b7\u03c3\u03b5\u03bd as often in Luke (no \u03bf\u03c4 or \u03ba\u03b1). "
+        ],
+        "John Gill": [
+            "And it was dumb... that is, the devil, which possessed the man, made him both deaf and dumb...\" (21 words)",
+            "The cause being removed, the effect ceased...\" (9 words)",
+            "The people wondered; at the power of Christ, and concluded that he must be the Messiah, the son of David.\" (20 words)"
+        ],
+        "John Wesley": [
+            "It was dumb \u2014 That is, it made the man so. Matthew 12:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the devil was cast out of the man, he became both deaf and dumb. The cause for his inability to speak was removed, resulting in the man being able to speak again. People were amazed at the power of Christ and began to believe that he was the long-awaited Messiah, the son of David.",
+            "wordCount": 56,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.3505292406833607,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.25,
+            "commentatorTierSimilarities": [
+                4.9,
+                32.71,
+                62.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the devil was cast out of the man, he became both deaf and dumb. The cause for his inability to speak was removed, and people marveled at the power of Christ, leading them to believe that he was the Messiah, the son of David.",
+            "wordCount": 45,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.4381917602653502,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.16,
+            "commentatorTierSimilarities": [
+                9.69,
+                28.95,
+                61.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the devil was cast out of the man, he became both deaf and dumb. The cause being removed, the effect ceased, and people wondered at the power of Christ, concluding that he must be the Messiah, the son of David.",
+            "wordCount": 41,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.405572039557906,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.08,
+            "commentatorTierSimilarities": [
+                7.17,
+                28.13,
+                64.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the devil was cast out of the man, he became both deaf and dumb. The cause being removed, the effect ceased, and the people marveled at the power of Christ, coming to the conclusion that he must be the Messiah, the son of David.",
+            "wordCount": 45,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.3896307180008796,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.55,
+            "commentatorTierSimilarities": [
+                8.41,
+                27.99,
+                63.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the devil was cast out of the man, he became both deaf and dumb. The cause being removed, the effect ceased, and the people wondered at the power of Christ, concluding that he must be the Messiah, the son of David.",
+            "wordCount": 42,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.4080992660448737,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.16,
+            "commentatorTierSimilarities": [
+                7.34,
+                28.24,
+                64.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

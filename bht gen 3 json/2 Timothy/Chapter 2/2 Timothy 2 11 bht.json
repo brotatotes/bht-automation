@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 17:30:28",
+    "verseRef": "2 Timothy 2:11",
+    "bestBHT": {
+        "bht": "Faithful is the saying that if we be dead with Him, we shall also live with Him. This maxim, possibly part of a Church hymn or accepted formula, underscores the need to die with Christ to partake in His life and glory. It both exhorts and comforts believers, encouraging them to endure trials with the hope of future glory. This faithful saying affirms that we shall live with Christ, supported by His sanctifying presence, and ready to sacrifice for Him.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.0179303139591216,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+        "commentatorTierSimilarities": [
+            28.68,
+            32.71,
+            38.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Faithful is the saying.",
+            "If we be dead with Him, we shall also live with Him.",
+            "The symmetrical form of 'the saying,' and the rhythmical balance of the parallel clauses, makes it likely, they formed part of a Church hymn or accepted formula, perhaps first uttered by some of the Christian 'prophets' in the public assembly."
+        ],
+        "Albert Barnes": [
+            "It is a faithful saying - Or, rather, that which he was about to say was worthy of entire credence and profound attention; see the notes at 1 Timothy 1:15. The object is to encourage Timothy to bear trials by the hope of salvation.",
+            "For if we be dead with him - see the notes at Romans 6:8.",
+            "We shall also live with him - This was a sort of maxim, or a settled point, which is often referred to in the Bible; see the Romans 6:3-5 notes; John 11:25 note; 1 Thessalonians 4:14 note."
+        ],
+        "Marvin Vincent": [
+            "Faithful is the saying that the elect shall obtain salvation with eternal glory.\" ",
+            "If we died with him.\" ",
+            "For the verb, comp. Mark 14:31; 2 Corinthians 7:3."
+        ],
+        "John Calvin": [
+            "If we die with him, we shall also live with him...we shall not be partakers of the life and glory of Christ, unless we have previously died and been humbled with him.",
+            "This is said both for exhorting and comforting believers...we ought not to be distressed on account of our afflictions, which shall have so happy a result.",
+            "By his example, therefore, Paul encourages all believers to receive joyfully, for the name of Christ, those afflictions in which they already have a taste of future glory."
+        ],
+        "Philip Schaff": [
+            "It is a faithful saying."
+        ],
+        "Archibald T. Robertson": [
+            "For we died with Him, we shall live with Him, we shall reign with Him.\" ",
+            "We endure, we are faithless, He cannot deny Himself.\" ",
+            "Note the compounds with \u03c3\u03c5\u03bd (\u03c3\u03c5\u03bd\u03b1\u03c0\u03b5\u03b8\u03b1\u03bd\u03bf\u03bc\u03b5\u03bd, we died with, \u03c3\u03c5\u03bd\u03b6\u03b7\u03c3\u03bf\u03bc\u03b5\u03bd, we shall live with, \u03c3\u03c5\u03bc\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03c5\u03c3\u03bf\u03bc\u03b5\u03bd, we shall reign with)."
+        ],
+        "John Gill": [
+            "It is a faithful saying,.... to be believed, and depended on as such.",
+            "For if we be dead with him... they died with him; being crucified with him.",
+            "we shall also live with him... they live a life of sanctification... supported by him..."
+        ],
+        "John Wesley": [
+            "Dead with him \u2014 Dead to sin, and ready to die for him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faithful is the saying that if we be dead with Him, we shall also live with Him. The symmetrical form and rhythmical balance of this saying suggest that it may have been part of a Church hymn or accepted formula. It is a maxim frequently referred to in the Bible, emphasizing the importance of dying with Christ in order to partake in His life and glory. This saying serves to both exhort and comfort believers, encouraging them to joyfully endure afflictions as they receive a taste of future glory. Indeed, it is a faithful saying that we shall live with Him, supported by His sanctifying presence, and ready to die for Him.",
+            "wordCount": 112,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.9324379077663636,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                28.4,
+                34.35,
+                37.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faithful is the saying that if we be dead with Him, we shall also live with Him. This maxim, possibly part of a Church hymn or accepted formula, underscores the need to die with Christ to partake in His life and glory. It both exhorts and comforts believers, encouraging them to endure trials with the hope of future glory. This faithful saying affirms that we shall live with Christ, supported by His sanctifying presence, and ready to sacrifice for Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.0179303139591216,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                28.68,
+                32.71,
+                38.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faithful is the saying that if we be dead with Him, we shall also live with Him. This maxim, possibly part of a hymn or accepted formula, highlights the significance of dying with Christ to partake in His life and glory. It both urges and comforts believers, inspiring them to endure trials with the hope of future glory. Truly, this saying affirms that we shall live with Christ, empowered by His sanctifying presence, and willing to sacrifice for Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.9621467427149537,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                29.46,
+                31.3,
+                39.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faithful is the saying that if we died with Christ, we shall also live with Him. This maxim, potentially originating from a Church hymn or accepted formula, emphasizes the importance of our identification with Christ in His death. It serves as both an exhortation and a comfort to believers, encouraging them to joyfully endure afflictions in light of the future glory that awaits. This saying assures us that we shall indeed live with Christ as we are supported by His sanctifying presence, having died to sin and ready to lay down our lives for Him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.962145453845555,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                30.61,
+                28.74,
+                40.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faithful is the saying that if we died with Christ, we shall also live with Him. This maxim, potentially from a Church hymn or accepted formula, emphasizes our identification with His death. It both exhorts and comforts believers, urging them to endure afflictions in light of future glory. This saying assures us that we shall live with Christ, supported by His sanctifying presence, having died to sin and ready to sacrifice for Him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9767180187857567,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.07,
+            "commentatorTierSimilarities": [
+                30.85,
+                28.0,
+                41.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

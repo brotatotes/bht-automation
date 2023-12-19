@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:40:14",
+    "verseRef": "2 Peter 1:2",
+    "bestBHT": {
+        "bht": "May grace and peace be multiplied in your life as you grow in the knowledge of God and Jesus our Lord. The knowledge of God and Jesus is of utmost importance, emphasizing their inseparable nature. Peter's exhortation focuses on having a deep understanding of Jesus our Lord, standing against the claims of false teachers promoting their own special knowledge. This knowledge is not just head knowledge but a personal and intimate relationship with God and Christ, resulting in the abundance of grace and peace in our lives. Through Christ, we truly come to know and understand God.",
+        "wordCount": 98,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 2.568661887310043,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.75,
+        "commentatorTierSimilarities": [
+            28.19,
+            37.97,
+            33.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Grace to you and peace be multiplied in the knowledge of God, and of Jesus our Lord.",
+            "The knowledge of God, and of Jesus our Lord.",
+            "Jesus our Lord, occurring only Rom. iv. 24, should be noticed as a morsel of evidence to the independence of the Epistle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Grace . . . peace\u2014 ( :-).",
+            "The Father is here meant by 'God,' but the Son in 2 Peter 1:1: marking how entirely one the Father and Son are.",
+            "Still the prominent object of Peter's exhortation is 'the knowledge of Jesus our Lord', and, only secondarily, of the Father through Him."
+        ],
+        "Albert Barnes": [
+            "Grace and peace abound to us, or may be expected to be conferred on us abundantly, if we have a true knowledge of God and of the Saviour.",
+            "Such a knowledge constitutes true religion: for in that we find 'grace' - the grace that pardons and sanctifies; and 'peace' - peace of conscience, reconciliation with God, and calmness in the trials of life.",
+            "Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord."
+        ],
+        "Marvin Vincent": [
+            "The compound expressing full knowledge, and so common in Paul's writings.",
+            "The word Lord in the second epistle is always used of God, unless Christ or Savior is added."
+        ],
+        "John Calvin": [
+            "By grace is designated God\u2019s paternal favor towards us.",
+            "For the more any one advances in the knowledge of God, every kind of blessing increases also equally with the sense of divine love.",
+            "God cannot be rightly known except in Christ."
+        ],
+        "Philip Schaff": [
+            "These blessings will abound in the readers only as the readers themselves abide and advance in Divine knowledge.",
+            "The strong, compound term for \u2018knowledge\u2019 is used here, which meets us so often in Paul\u2019s Epistles.",
+            "This intimate \u2018knowledge\u2019 is also defined as the knowledge not only of God, but of Jesus our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "In the knowledge (\u03b5\u03bd \u03b5\u03c0\u03b9\u03b3\u03bd\u03c9\u03c3\u03b5). Full (additional, \u03b5\u03c0) knowledge as in 2 Peter 1:8... But \u03b5\u03c0\u03b9\u03b3\u03bd\u03c9\u03c3\u03b9\u03bd again in 2 Peter 1:3; 2 Peter 1:8; 2 Peter 2:20.",
+            "...here full knowledge is urged against the claims of the Gnostic heretics to special \u03b3\u03bd\u03c9\u03c3\u03b9\u03c2.",
+            "Elsewhere in II Peter \u03b3\u03bd\u03c9\u03c3\u03b9\u03c2 and \u03b5\u03c0\u03b9\u03b3\u03bd\u03c9\u03c3\u03b9\u03c2 are used of Christ alone."
+        ],
+        "John Gill": [
+            "By a multiplication of grace may be meant a larger discovery of the love and favour of God; which though it admits of no degrees in itself, being never more or less in God's heart, yet, as to the manifestations of it, it is different, and capable of being increased, and drawn out to a greater length.",
+            "An increase of spiritual peace, a fulness of joy and peace in believing, arising from a sense of free justification by Christ's righteousness, and full pardon and atonement by his blood and sacrifice.",
+            "The apostle prays, as for a multiplication of grace and peace, so along with it, an increase of spiritual and evangelical knowledge which in the best is imperfect, but may be increased by the blessing of God on those means which he has appointed for that end, such as the word and ordinances."
+        ],
+        "John Wesley": [
+            "Through the divine, experimental knowledge of God and of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the grace and peace of God be multiplied in your life as you grow in the knowledge of Him and Jesus our Lord. The knowledge of God and Jesus is of utmost importance, emphasizing their inseparable nature. The primary focus of Peter's exhortation is to have a deep understanding of Jesus our Lord, which stands against the claims of false teachers promoting their own special knowledge. This knowledge is not just head knowledge but a personal and intimate relationship with God and Christ, resulting in the abundance of grace and peace in our lives. God's grace is His favor toward us, and as we grow in the knowledge of Him, every kind of blessing increases in our lives. It is through Christ that we truly come to know and understand God. As we seek this multiplied grace and peace, we must also seek an increase in spiritual and evangelical knowledge through the means God has provided.",
+            "wordCount": 159,
+            "quoteTokenProportion": 42.35,
+            "qualityScore": 2.552429250321749,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.21,
+            "commentatorTierSimilarities": [
+                26.4,
+                38.88,
+                34.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May grace and peace be multiplied in your life through the knowledge of God and Jesus our Lord. This knowledge is not just about facts, but a deep personal connection with God and Christ. It is through Christ that we truly come to know and understand God. As we grow in this knowledge, every kind of blessing increases in our lives. We should seek an increase in spiritual and evangelical knowledge through the means that God has provided for our growth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.399207049703284,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.11,
+            "commentatorTierSimilarities": [
+                24.51,
+                38.32,
+                37.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May grace and peace be multiplied to you through the knowledge of God and Jesus our Lord. This knowledge is not limited to mere information, but it entails a personal, transformative relationship with the Father and the Son. By growing in this knowledge, we can experience a greater outpouring of God's favor and tranquility in our lives. Increasing in spiritual understanding allows us to fully grasp the depth of God's love and experience the abundant blessings that flow from it. Let us pursue this knowledge through the means God has appointed for our growth.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.2630718995436836,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.59,
+            "commentatorTierSimilarities": [
+                24.32,
+                39.85,
+                35.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May grace and peace be multiplied in your life as you grow in the knowledge of God and Jesus our Lord. The knowledge of God and Jesus is of utmost importance, emphasizing their inseparable nature. Peter's exhortation focuses on having a deep understanding of Jesus our Lord, standing against the claims of false teachers promoting their own special knowledge. This knowledge is not just head knowledge but a personal and intimate relationship with God and Christ, resulting in the abundance of grace and peace in our lives. Through Christ, we truly come to know and understand God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.568661887310043,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.75,
+            "commentatorTierSimilarities": [
+                28.19,
+                37.97,
+                33.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May grace and peace be multiplied in your life through the knowledge of God and Jesus our Lord. This knowledge is not just about facts, but a deep personal and transformative relationship. By growing in this knowledge, we can experience an overflow of God's favor and tranquility. Seeking an increase in spiritual understanding allows us to fully comprehend God's love and receive the abundant blessings that flow from it. Let us actively pursue this knowledge through the means provided by God for our growth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.156936655228326,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.06,
+            "commentatorTierSimilarities": [
+                22.82,
+                40.82,
+                36.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

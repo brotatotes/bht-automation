@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-19-2023 16:22:10",
+    "verseRef": "Luke 20:40",
+    "bestBHT": {
+        "bht": "The Pharisees, Sadducees, and Herodians, who had once been bold and daring, became cowardly and ceased to ask Jesus any further questions. They were silenced and no longer had the courage to challenge Jesus. His wisdom and authority left them speechless, unable to engage in any more debates or inquiries.",
+        "wordCount": 50,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 1.9582818291099484,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+        "commentatorTierSimilarities": [
+            53.61,
+            0.0,
+            46.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "They durst not any more (\u03bf\u03c5\u03ba\u03b5\u03c4 \u03b5\u03c4\u03bf\u03bb\u03bc\u03c9\u03bd \u03bf\u03c5\u03b4\u03b5\u03bd). Double negative and imperfect active of \u03c4\u03bf\u03bb\u03bc\u03b1\u03c9. The courage of Pharisees, Sadducees, Herodians vanished. "
+        ],
+        "John Gill": [
+            "And after that, they durst not ask him any question at all. Neither the Pharisees, Sadducees, Scribes, nor Herodians."
+        ],
+        "John Wesley": [
+            "They durst not ask him any question \u2014 The Sadducees durst not. One of the scribes did, presently after."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how the courage of the Pharisees, Sadducees, and Herodians vanished and they no longer dared to ask Jesus any questions. The Pharisees, Sadducees, Scribes, and even the Herodians were all silenced by Jesus' wisdom and authority.",
+            "wordCount": 39,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.7983012420230344,
+            "qualityScoreNormalizedComparedToV2BHTs": 84.38,
+            "commentatorTierSimilarities": [
+                48.15,
+                0.0,
+                51.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, Sadducees, and Herodians, who had once been bold and daring, became cowardly and ceased to ask Jesus any further questions. They were silenced and no longer had the courage to challenge Jesus. His wisdom and authority left them speechless, unable to engage in any more debates or inquiries.",
+            "wordCount": 50,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.9582818291099484,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+            "commentatorTierSimilarities": [
+                53.61,
+                0.0,
+                46.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse depicts the sudden disappearance of courage among the Pharisees, Sadducees, and Herodians. They no longer dared to approach Jesus with any questions, recognizing their inability to challenge his wisdom and authority. The once-confident religious leaders were silenced, unable to engage in any further debates or inquiries.",
+            "wordCount": 49,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8623798490664019,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                52.9,
+                0.0,
+                47.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disappearance of courage among the Pharisees, Sadducees, and Herodians is evident in this passage. Once fearless, they ceased to approach Jesus with any inquiries or challenges, acknowledging their inability to match his wisdom and authority. Their former confidence and boldness were replaced with silence, leaving them no choice but to retreat from engaging in further debates.",
+            "wordCount": 57,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.8982092062650184,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.46,
+            "commentatorTierSimilarities": [
+                61.63,
+                0.0,
+                38.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disappearance of courage among the Pharisees, Sadducees, and Herodians becomes apparent in this description. Once bold and daring, they now refrain from approaching Jesus with any questions or challenges, fully aware of their incapacity to match his wisdom and authority. Their previous confidence and audacity are replaced by a deafening silence, compelling them to withdraw from further debates and interactions.",
+            "wordCount": 61,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8058258407712393,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.39,
+            "commentatorTierSimilarities": [
+                59.54,
+                0.0,
+                40.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:17:38",
+    "verseRef": "Luke 10:16",
+    "bestBHT": {
+        "bht": "Those who reject the mission and message of Christ's messengers will suffer the same fate as the cities of Chorazin, Bethsaida, and Capernaum. It is a grave responsibility to be co-workers with Christ, as rejecting the Seventy or the Gospel is to despise God Himself. Embracing the Gospel is the highest form of worship, for he who hears the messengers of Christ hears Christ Himself. Any contempt shown towards the messengers is ultimately directed at God the Father, and will be answered for on the day of judgement.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.6629705720017518,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.64,
+        "commentatorTierSimilarities": [
+            30.62,
+            15.94,
+            53.43
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16.] See Matt. x. 40 and notes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. He that, &amp;c.\u2014(See on",
+            "\t :-)."
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 10:40."
+        ],
+        "Marvin Vincent": [
+            "Despiseth [\u03b1\u03b8\u03b5\u03c4\u03b5\u03b9] . See on Luke 7:30, and compare Galatians 2:21; Galatians 3:15."
+        ],
+        "John Calvin": [
+            "He that heareth you heareth me... that those who reject the Gospel, though they may boast of being the most eminent of the worshippers of God, give evidence that they wickedly despise him.",
+            "Nothing ought to be a stronger encouragement to us to embrace the doctrine of the Gospel, than to learn that this is the highest worship of God.",
+            "Those who disdain to listen to ministers, however mean and contemptible they may be, offer an insult, not to men only, but to Christ himself, and to God the Father."
+        ],
+        "Philip Schaff": [
+            "Woes on the Galilean cities which had rejected our Lord, would fall on those also that would reject the Seventy.",
+            "The verse states a principle of general validity.",
+            "Forms a solemn conclusion."
+        ],
+        "Archibald T. Robertson": [
+            "The fate of Chorazin, Bethsaida, Capernaum will befall those who set aside the mission and message of these messengers of Christ.",
+            "It is this thought that makes it so grave a responsibility to be co-workers with Christ, high privilege as it is."
+        ],
+        "John Gill": [
+            "He that heareth you, heareth me... they looking upon them as representing him.",
+            "Every degree of contempt cast upon them by words or actions, Christ looked upon as cast on himself, and will resent it another day, and punish for it.",
+            "The contempt does not terminate in them, nor even in Christ, but reaches his Father also."
+        ],
+        "John Wesley": [
+            "Matthew 10:40; John 13:20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who reject the mission and message of Christ's messengers will suffer the same fate as the cities of Chorazin, Bethsaida, and Capernaum. It is a grave responsibility to be co-workers with Christ, as rejecting the Seventy or the Gospel is to despise God Himself. Embracing the Gospel is the highest form of worship, for he who hears the messengers of Christ hears Christ Himself. Any contempt shown towards the messengers is ultimately directed at God the Father, and will be answered for on the day of judgement.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6629705720017518,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.64,
+            "commentatorTierSimilarities": [
+                30.62,
+                15.94,
+                53.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who reject the mission and message of Christ's messengers will suffer the same fate as the cities of Chorazin, Bethsaida, and Capernaum. It is a grave responsibility to be co-workers with Christ, as rejecting the Seventy or the Gospel is to despise God Himself. Embracing the Gospel is the highest form of worship, for he who hears the messengers of Christ hears Christ Himself. Any contempt shown towards the messengers is ultimately directed at God the Father, and will be answered for on the day of judgement.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6629705720017518,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.64,
+            "commentatorTierSimilarities": [
+                30.62,
+                15.94,
+                53.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who reject the mission and message of Christ's messengers will suffer the same fate as the cities of Chorazin, Bethsaida, and Capernaum. Embracing the Gospel is the highest form of worship, for he who hears the messengers of Christ hears Christ Himself. Any contempt shown towards the messengers is ultimately directed at God the Father, and will be answered for on the day of judgement.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.6422642277162114,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.95,
+            "commentatorTierSimilarities": [
+                30.14,
+                17.72,
+                52.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who reject the mission and message of Christ's messengers will suffer the same fate as the cities of Chorazin, Bethsaida, and Capernaum. It is a grave responsibility to be co-workers with Christ, as rejecting the Seventy or the Gospel is to despise God Himself. Embracing the Gospel is the highest form of worship, for he who hears the messengers of Christ hears Christ Himself. Any contempt shown towards the messengers is ultimately directed at God the Father, and will be answered for on the day of judgement. (65 words)",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5917862026707663,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.27,
+            "commentatorTierSimilarities": [
+                30.98,
+                17.25,
+                51.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who reject the mission and message of Christ's messengers will suffer the same fate as the cities of Chorazin, Bethsaida, and Capernaum. It is a grave responsibility to despise God by rejecting the Seventy or the Gospel. Embracing the Gospel is the highest form of worship, for he who hears the messengers of Christ hears Christ Himself. Any contempt shown towards the messengers is ultimately directed at God the Father and brings judgment on the day of reckoning. (76 words, 54% from quotes)",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5862168115042818,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                29.39,
+                20.77,
+                49.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

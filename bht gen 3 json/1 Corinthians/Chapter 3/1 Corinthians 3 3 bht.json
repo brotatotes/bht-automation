@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:00:15",
+    "verseRef": "1 Corinthians 3:3",
+    "bestBHT": {
+        "bht": "The Corinthians, though having received the Spirit, are still influenced by their sinful nature. Instead of walking in the Spirit, they walk in the flesh, engaging in jealousy, strife, and divisions. Their actions and words reveal their carnality, as they are more concerned with their favorite preachers and personal agendas rather than being united in love. This is a reminder that when the flesh prevails, the wisdom of God finds no place, and the fruits of envy and strife are the result.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.0633992139873745,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+        "commentatorTierSimilarities": [
+            33.13,
+            32.89,
+            33.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] On carnal, see above, ver. 1. after the manner of (unrenewed and ungodly) men, equivalent to \u201caccording to the flesh,\u201d Rom. viii. 4; see note on ch. xv. 32."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As this refers to their feelings, 'strife' refers to their words, and 'divisions' to their actions.\" ",
+            "His language becomes severer now as He proceeds; in 1 Corinthians 3:3, he had only said 'contentions,' he now multiplies the words.",
+            "'Walk as men' - as unregenerate men, 'after the flesh, not after the Spirit' of God, as becomes you as regenerate by the Spirit."
+        ],
+        "Albert Barnes": [
+            "Though you are Christians, and are the friends of God in the main, yet your divisions and strifes show that you are yet, in some degree, under the influence of the principles which govern the people of this world.",
+            "Envy everywhere is a fruitful cause of strife. Most contentions in the church are somehow usually connected with envy.",
+            "Instead of being filled with love; of being united and harmonious as the members of the same family ought to be, you are split up into factions as the people of the world are."
+        ],
+        "Marvin Vincent": [
+            "Carnal [\u03c3\u03b1\u03c1\u03ba\u03b9\u03ba\u03bf\u03b9] . Here the milder word is used (see ver. 1), having the nature of flesh.",
+            "In ver. 1, Paul would say that he was compelled to address the Corinthians as unspiritual, made of flesh.",
+            "Here he says that though they have received the Spirit in some measure, they are yet under the influence of the flesh."
+        ],
+        "John Calvin": [
+            "So long as the flesh, that is to say, natural corruption, prevails in a man, it has so completely possession of the man\u2019s mind, that the wisdom of God finds no admittance.",
+            "For since there are among you...envying, and strifes, and divisions, are the fruits of the flesh, wherever they are seen, it is certain that the root is there in its rigor.",
+            "From this it is manifest that the term flesh is not restricted to the lower appetites merely, as the Sophists pretend, the seat of which they call sensuality, but is employed to describe man\u2019s whole nature."
+        ],
+        "Philip Schaff": [
+            "For whereas there is among you Jealousy each party for its favourite preacher.\" ",
+            "Strife engendered by such jealousies.",
+            "Are ye not carnal, and walk as men? Unrenewed men."
+        ],
+        "Archibald T. Robertson": [
+            "The \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03bf who continue to be \u03c3\u03b1\u03c1\u03ba\u03b9\u03bd\u03bf are still babes (\u03bd\u03b7\u03c0\u03b9\u03bf), not adults (\u03c4\u03b5\u03bb\u03b5\u03b9\u03bf), while those who are still \u03c3\u03b1\u03c1\u03ba\u03b9\u03ba\u03bf (carnal) have given way to the flesh as if they were still \u03c8\u03c5\u03c7\u03b9\u03ba\u03bf (unregenerate).",
+            "Zeal (\u03b6\u03b7\u03bb\u03bf\u03c2 from \u03b6\u03b5\u03c9, to boil) is not necessarily evil, but good if under control. It may be not according to knowledge (Romans 10:2) and easily becomes jealousy (same root through the French jaloux) as zeal.",
+            "Wrangling follows jealousy. These two voices of the spirit are to Paul proof that the Corinthians are still \u03c3\u03b1\u03c1\u03ba\u03b9\u03ba\u03bf and walking according to men, not according to the Spirit of Christ."
+        ],
+        "John Gill": [
+            "For ye are yet carnal,.... The Syriac reads it, 'ye are in the flesh': a phrase the apostle elsewhere uses of men in an unregenerate state...\" ",
+            "...they gave too clear evidence of their prevailing carnality, that they too much walked as other men, who make no profession of religion...",
+            "...they were led by the judgment of men, and were carried away with human passions and inflections; and in their conduct could scarcely be distinguished from the rest of the world."
+        ],
+        "John Wesley": [
+            "Emulation in your hearts, strife in your words, and actual divisions, are ye not carnal, and walk according to men.\" ",
+            "Mere men; not as Christians, according to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians, though having received the Spirit, are still influenced by their sinful nature. Instead of walking in the Spirit, they walk in the flesh, engaging in jealousy, strife, and divisions. Their actions and words reveal their carnality, as they are more concerned with their favorite preachers and personal agendas rather than being united in love. Their behavior reflects that of those who are unregenerate and walk according to worldly standards. This is a reminder that when the flesh prevails, the wisdom of God finds no place, and the fruits of envy and strife are the result.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9994798281541941,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.82,
+            "commentatorTierSimilarities": [
+                33.64,
+                31.74,
+                34.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians, though having received the Spirit, are still influenced by their sinful nature. Instead of walking in the Spirit, they walk in the flesh, engaging in jealousy, strife, and divisions. Their actions and words reveal their carnality, as they are more concerned with their favorite preachers and personal agendas rather than being united in love. This is a reminder that when the flesh prevails, the wisdom of God finds no place, and the fruits of envy and strife are the result.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.0633992139873745,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+            "commentatorTierSimilarities": [
+                33.13,
+                32.89,
+                33.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians, though having received the Spirit, are still influenced by their sinful nature. Instead of walking in the Spirit, they walk in the flesh, engaging in jealousy, strife, and divisions. Their behavior reflects that of those who are unregenerate and walk according to worldly standards. This is a reminder that when the flesh prevails, the wisdom of God finds no place, and the fruits of envy and strife are the result.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.0231284218058403,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+            "commentatorTierSimilarities": [
+                33.65,
+                31.38,
+                34.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians, though having received the Spirit, are yet carnal, walking as unregenerate men, driven by their fleshly desires rather than the Spirit of God. Their actions and words, characterized by jealousy, strife, and divisions, reveal their prevailing carnality and worldly mindset. Instead of being united in love and harmony, they are divided, mirroring the behavior of those governed by the principles of the world. This indicates a lack of spiritual maturity and a failure to fully embrace the transformative power of the Spirit.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.9086028907117005,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+            "commentatorTierSimilarities": [
+                34.27,
+                32.32,
+                33.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians, though having received the Spirit, are yet carnal, walking as unregenerate men, driven by their fleshly desires rather than the Spirit of God. Their actions and words reveal their prevailing carnality and worldly mindset. Instead of being united in love and harmony, they are divided, mirroring the behavior of those governed by the principles of the world. This indicates a lack of spiritual maturity and a failure to fully embrace the transformative power of the Spirit.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.8304690415676652,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.2,
+            "commentatorTierSimilarities": [
+                36.85,
+                28.1,
+                35.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

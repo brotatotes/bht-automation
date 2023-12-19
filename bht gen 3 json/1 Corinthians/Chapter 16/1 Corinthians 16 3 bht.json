@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:14:31",
+    "verseRef": "1 Corinthians 16:3",
+    "bestBHT": {
+        "bht": "To ensure a reputable and reliable administration, the Corinthians were advised to select trustworthy messengers who would be accompanied by letters of recommendation as they traveled with Paul to Jerusalem. This practice was typical for Paul, who often wrote letters to both churches and individuals. Providing letters served as an introduction and recommendation, ensuring that the messengers would be respected and treated well by the church in Jerusalem. By offering his own services, Paul demonstrated his commitment to the cause, underscoring the gracious and free nature of the Corinthians' charitable gift.",
+        "wordCount": 91,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.2791963664731076,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.12,
+        "commentatorTierSimilarities": [
+            27.84,
+            42.38,
+            29.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "See, how so great a man is unwilling to open any chink to suspicion.",
+            "Letters, plural - meaning, either that each should have his letter of credentials, or more probably, that Paul would give them letters to several persons in Jerusalem.",
+            "Hence we see how common in Paul's practice was the writing of Epistles. Who knows how many private letters of his, not addressed to churches, have been lost?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whomsoever ye shall approve, them will I send with letters\": namely, letters to several persons at Jerusalem, which would be their credentials.",
+            "by letters\"; an abbreviated expression for \"I will send, recommending them by letters\" [GROTIUS].",
+            "gracious or free gift\" [2 Corinthians 2:4]."
+        ],
+        "Albert Barnes": [
+            "Whomsoever ye shall approve by your letters...whom you approve, or designate, them I will send with letters to convey your charity to Jerusalem.",
+            "For it is evident (see 1 Corinthians 16:4) that, though Paul was willing to go, yet he was not expecting to go. If he did not go, what was more natural than that he should offer to give them letters of commendation to his brethren in Judea?",
+            "The proper construction, therefore, is, that Paul would give them letters to his friends in Jerusalem, and certify their appointment to dispense the charity, and commend the persons sent to the favor and hospitality of the church there."
+        ],
+        "Marvin Vincent": [
+            "Approve by your letters.\" So A. V. and Rev. Others, however, connect by letters with will I send, making the letters to be Paul 's introduction to the church at Jerusalem. The latter is preferable.",
+            "The givers are to choose the bearers of the collection.",
+            "Paul, as the originator and apostolic steward of the collection, will send the money."
+        ],
+        "John Calvin": [
+            "He points out to the Corinthians a method, by which they may be assured of a good and faithful administration.",
+            "Nay more, he offers his own services, if desired, which is an evidence that he has the matter at heart."
+        ],
+        "Archibald T. Robertson": [
+            "When I arrive, whenever I arrive...",
+            "To make it formal and regular and Paul would approve their choice of messengers to go with him to Jerusalem.",
+            "As a matter of fact, the messengers of the churches went along with Paul to Jerusalem."
+        ],
+        "John Gill": [
+            "which approbation and choice they would signify by letters to the church, and principal men of it in Jerusalem, giving them a character as men of probity and faithfulness.",
+            "such as the church should choose for this service, the apostle would send with letters of commendation from him, to the elders and church at Jerusalem, recommending them as brethren in the Lord, and to be had in respect, and treated in a Christian manner by them.",
+            "because it was owing to the goodness of God, that they were in a capacity to contribute to others, and to the grace of God that they had a heart to do it; and because it was in a free and gracious manner, and in the exercise of grace, of faith in Christ, and love to the saints, that they did it, and with a view to the glory of the grace of God, of which this was a fruit and evidence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians were instructed to choose trustworthy messengers to accompany Paul to Jerusalem, who would be given letters of recommendation. This practice of sending letters was common for Paul, whether they were addressed directly to churches or not. By giving these messengers letters, it would ensure that their mission would be approved and recognized by the church in Jerusalem. This was an important step in ensuring the orderly and faithful administration of the charitable collection that the Corinthians were providing. Additionally, Paul's willingness to offer his own services is evidence of his dedication to the cause. The Corinthian's choice of messengers and the letters of commendation from Paul would ensure that they are received and treated with respect by the church in Jerusalem, highlighting the free and gracious nature of their gift and the glory of God's grace.",
+            "wordCount": 141,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 2.2722167933568986,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.89,
+            "commentatorTierSimilarities": [
+                27.77,
+                42.24,
+                29.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians were instructed to choose trustworthy messengers to accompany Paul to Jerusalem, who would be given letters of recommendation. This practice was common for Paul, ensuring that the messengers would be approved and recognized by the church in Jerusalem. By giving them letters, it would ensure the faithful administration of the charitable collection. Additionally, Paul's willingness to offer his own services shows his dedication. The Corinthian's choice of messengers and the letters of commendation would ensure they are treated with respect, highlighting the free and gracious nature of their gift.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.2054717104197588,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.67,
+            "commentatorTierSimilarities": [
+                28.49,
+                42.05,
+                29.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians were instructed to choose trustworthy messengers to accompany Paul to Jerusalem and be given letters of recommendation. This was a common practice for Paul, as he had written many letters, both to churches and privately. It was important to ensure a proper and faithful administration of the charitable collection. Paul's offer to send the chosen messengers with letters highlights his dedication to the cause. These letters would serve as an introduction and recommendation, ensuring that the messengers would be respected and treated well by the church in Jerusalem.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.2143735496699035,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.97,
+            "commentatorTierSimilarities": [
+                29.67,
+                42.54,
+                27.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To ensure a reputable and reliable administration, the Corinthians were advised to select trustworthy messengers who would be accompanied by letters of recommendation as they traveled with Paul to Jerusalem. This practice was typical for Paul, who often wrote letters to both churches and individuals. Providing letters served as an introduction and recommendation, ensuring that the messengers would be respected and treated well by the church in Jerusalem. By offering his own services, Paul demonstrated his commitment to the cause, underscoring the gracious and free nature of the Corinthians' charitable gift.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.2791963664731076,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.12,
+            "commentatorTierSimilarities": [
+                27.84,
+                42.38,
+                29.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To ensure a trustworthy administration, the Corinthians were advised to carefully select messengers who would carry letters of commendation from Paul to the church in Jerusalem. These letters served as credentials and assurance of the messengers' character and mission. Paul's offer to send the chosen messengers with letters demonstrated his dedication to the cause. The Corinthians' selection and the letters of recommendation would ensure that the messengers were received respectfully and treated in a Christian manner, highlighting the generous and gracious nature of their charitable contribution.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.1686093149193617,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.45,
+            "commentatorTierSimilarities": [
+                29.43,
+                41.84,
+                28.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

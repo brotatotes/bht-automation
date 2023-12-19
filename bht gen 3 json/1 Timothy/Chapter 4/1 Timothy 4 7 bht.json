@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:28:41",
+    "verseRef": "1 Timothy 4:7",
+    "bestBHT": {
+        "bht": "But refuse profane and old wives' fables, decline, but rather exercise thyself for godliness. Reject and avoid these fables that lead away from piety. Instead, train yourself diligently in holiness of heart and life. Rather than wasting time on meaningless stories, focus on cultivating devotion to God and striving to live a godly life.",
+        "wordCount": 54,
+        "quoteTokenProportion": 31.11,
+        "qualityScore": 2.0943144014693242,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+        "commentatorTierSimilarities": [
+            27.3,
+            31.49,
+            41.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But profane and anile fables... decline, but rather exercise thyself for godliness.\" ",
+            "[Exercise] with a view to, as an athlete with a view to the games."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "refuse\u2014reject, avoid, have nothing to do with.",
+            "old wives' fables\u2014anile myths... They are 'profane,' because leading away from 'godliness' or 'piety.'",
+            "exercise thyself\u2014literally, 'exercise thyself' as one undergoing training in a gymnasium."
+        ],
+        "Albert Barnes": [
+            "But refuse - That is, refuse to pay attention to them, or reject them. Do not consider them of sufficient importance to occupy your time.",
+            "Profane - The word here used does not mean that the fables here referred to were blasphemous or impious in their character, but that they had not the character of true religion.",
+            "And exercise thyself rather unto godliness - Rather than attempt to understand those fables. Do not occupy your time and attention with them, but rather cultivate piety, and seek to become more holy."
+        ],
+        "Marvin Vincent": [
+            "Shun...To decline, refuse, avoid, as here.\" ",
+            "Profane. See on ch. 1 Timothy 1:9.\" ",
+            "Exercise...Of training for or practicing an art or profession."
+        ],
+        "John Calvin": [
+            "Exercise thyself to godliness... There is no reason why you should weary yourself to no purpose about other matters; you will do that which is of the highest importance, if you devote yourself, with all your zeal, and with all your ability, to godliness alone.",
+            "By the word godliness, he means the spiritual worship of God which consists in purity of conscience; which is still more evident from what follows, when it is contrasted with bodily exercise.",
+            "He who wishes to be faithfully employed in the service of God must not only avoid... the lies and superstitions that tend to poison souls; but he must avoid profane fables, that is, subtleties that cannot edify, and that contain no instruction which is good for the salvation of souls."
+        ],
+        "Philip Schaff": [
+            "Refuse. Better, 'avoid.'",
+            "The fables were of the same kind generally as those mentioned in 1 Timothy 1:4; 1 Timothy 1:9.",
+            "The 'exercise' is primarily that of the gymnasium, but is here used figuratively of any systematic discipline."
+        ],
+        "Archibald T. Robertson": [
+            "Refuse (\u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03bf\u03c5). Present middle imperative second person singular of \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03b5\u03c9, old verb, to ask of one and then to beg off from one as in Luke 14:18; Acts 25:11; 1 Timothy 4:7; 1 Timothy 5:11; Titus 3:10; 2 Timothy 2:23.",
+            "Profane (\u03b2\u03b5\u03b2\u03b7\u03bb\u03bf\u03c5\u03c2). See 1 Timothy 1:9.",
+            "Exercise thyself (\u03b3\u03c5\u03bc\u03bd\u03b1\u03b6\u03b5 \u03c3\u03b5\u03b1\u03c5\u03c4\u03bf\u03bd). Present active imperative of \u03b3\u03c5\u03bc\u03bd\u03b1\u03b6\u03c9, originally to exercise naked (\u03b3\u03c5\u03bc\u03bd\u03bf\u03c2). Old and common verb, but in N.T. only here and Hebrews 5:14; Hebrews 12:11."
+        ],
+        "John Gill": [
+            "But refuse profane and old wives' fables...and which were to be rejected with abhorrence and contempt, in comparison of the words of faith and good doctrine.",
+            "And exercise thyself rather unto godliness...to a godly life and conversation, exercise thyself, to have a conscience void of offence to God and men.",
+            "Or rather to the spiritual worship of God, according to his will, not in a formal, cold, and customary way, but with the heart, in truth and sincerity, in faith, and with fervency and purity."
+        ],
+        "John Wesley": [
+            "Exercise thyself unto godliness - Train thyself up in holiness of heart and life, with the utmost labour, vigour, and diligence.",
+            "Train thyself up in holiness of heart and life.",
+            "With the utmost labour, vigour, and diligence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But refuse profane and old wives' fables, decline, but rather exercise thyself for godliness. Refuse - reject, avoid, have nothing to do with. Shun...To decline, refuse, avoid. Profane...leading away from godliness or piety. To exercise thyself is to train thyself up in holiness of heart and life, with the utmost labour, vigour, and diligence. Therefore, instead of wasting time on meaningless fables, we should focus on cultivating piety and seeking to become more holy in our lives.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.035916826815379,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                30.29,
+                31.52,
+                38.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But refuse profane and old wives' fables, decline, but rather exercise thyself for godliness. Reject and avoid these fables that lead away from piety. Instead, train yourself diligently in holiness of heart and life. Rather than wasting time on meaningless stories, focus on cultivating devotion to God and striving to live a godly life.",
+            "wordCount": 54,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 2.0943144014693242,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+            "commentatorTierSimilarities": [
+                27.3,
+                31.49,
+                41.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "But refuse profane and old wives' fables, decline, but rather exercise thyself for godliness. Reject these anile myths that lead away from godliness and have nothing to do with them. Instead, exercise yourself in the same way an athlete trains for the games, putting in labor, vigor, and diligence. Thus, instead of being entangled in meaningless fables, focus on training yourself in holiness of heart and life, seeking to live a godly and devoted life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.029094700564384,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+            "commentatorTierSimilarities": [
+                29.39,
+                30.73,
+                39.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "But refuse profane and old wives' fables, decline, but rather exercise thyself for godliness. Reject and avoid these profane myths that lead away from godliness. Instead, train yourself in holiness of heart and life. Rather than wasting time on meaningless stories, focus on cultivating devotion to God and striving to live a godly life with utmost labor and diligence.",
+            "wordCount": 59,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.082370308280564,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.58,
+            "commentatorTierSimilarities": [
+                27.57,
+                29.45,
+                42.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "But refuse profane and old wives' fables, decline, but rather exercise thyself for godliness. Reject and avoid these anile myths that lead away from godliness. Instead, exercise yourself in the same way an athlete trains for the games. Shun these fables, as they have no value for the salvation of souls. Focus on training yourself in holiness of heart and life, with utmost labor and diligence, dedicating yourself to the spiritual worship of God and living a godly life that reflects sincerity and purity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.9463302846517383,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+            "commentatorTierSimilarities": [
+                29.58,
+                30.02,
+                40.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

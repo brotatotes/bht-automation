@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:24:01",
+    "verseRef": "Luke 24:22",
+    "bestBHT": {
+        "bht": "Certain disciples were engaged in earnest discussion about recent events, feeling both amazed and astonished. The reports of the women among them, who were early at the sepulchre, brought such surprise and confusion that they didn't know whether to believe or disprove the accounts. The disciples found it too good to be true, but if it were indeed accurate, it was an extraordinary occurrence that left them speechless with wonder.",
+        "wordCount": 71,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.6051591149726672,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+        "commentatorTierSimilarities": [
+            19.66,
+            37.41,
+            42.93
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Yea, and... of our company\u2014literally, of us:\u2014 'disciples, as we are.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17-24. communications, &amp;c.\u2014The",
+            "\twords imply the earnest discussion that had appeared in their manner."
+        ],
+        "Marvin Vincent": [
+            "Made us astonished... to drive one out of his senses.\" ",
+            "Hence the A. V. is feeble. Rev., better, amazed us.",
+            "Early... early ones."
+        ],
+        "Philip Schaff": [
+            "We were well-nigh hopeless, yet other occurrences aroused our hope.\" ",
+            "Amazed us. This strong expression indicates the effect produced upon them in their perplexed state of mind.",
+            "Having been early, etc. This should be joined with what follows. It begins the account of the facts that amazed them."
+        ],
+        "Archibald T. Robertson": [
+            "Amazed us (\u03b5\u03be\u03b5\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd \u03b7\u03bc\u03b1\u03c2). First aorist active (transitive) indicative with accusative \u03b7\u03bc\u03b1\u03c2 of \u03b5\u03be\u03b9\u03c3\u03c4\u03b7\u03bc.",
+            "The second aorist active is intransitive.",
+            "Early (\u03bf\u03c1\u03b8\u03c1\u03b9\u03bd\u03b1). A poetic and late form for \u03bf\u03c1\u03b8\u03c1\u03b9\u03bf\u03c2. In the N.T. only here and Revelation 24:22. Predicate adjective agreeing with the women."
+        ],
+        "John Gill": [
+            "it is such an one, we know not how to believe, nor to disprove; it is we fear too good to be true, and should it be as they report, it is amazing indeed",
+            "Yea, and certain women also of our company [...] made us astonished; surprised us, with an account they brought",
+            "which were early at the sepulchre; of the person now mentioned, Jesus of Nazareth; even this very morning, by break of day, at least at sunrise"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Certain disciples were engaged in earnest discussion about recent events, feeling both amazed and astonished. The reports of the women among them, who were early at the sepulchre, brought such surprise and confusion that they didn't know whether to believe or disprove the accounts. The disciples found it too good to be true, but if it were indeed accurate, it was an extraordinary occurrence that left them speechless with wonder.",
+            "wordCount": 71,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.6051591149726672,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+            "commentatorTierSimilarities": [
+                19.66,
+                37.41,
+                42.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Yea, and of us, disciples as we are, certain women also made us astonished, surprised us, with an account they brought. They were early at the sepulchre, at least at sunrise. The earnest discussion among the disciples about recent events was interrupted by the women's reports, leaving them in a state of amazement and uncertainty. The disciples couldn't determine whether to believe or disprove the accounts, finding it too good to be true, yet the reports were undeniably astounding.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.4632936254330864,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.0,
+            "commentatorTierSimilarities": [
+                21.7,
+                27.36,
+                50.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Yea, and of us, disciples as we are, certain women also made us astonished, surprised us, with an account they brought. They were early at the sepulchre, at least at sunrise. The earnest discussion among the disciples about recent events was interrupted by the women's reports, leaving them in a state of amazement. Uncertain about the authenticity of the accounts, the disciples struggled to determine if it was too good to be true. Nevertheless, the reports were truly extraordinary and left them speechless with wonder.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.4237367565301353,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.68,
+            "commentatorTierSimilarities": [
+                21.93,
+                32.55,
+                45.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, engaged in an earnest discussion, were surprised and astonished by the account brought by certain women among them. These women, who had been at the sepulchre early at sunrise, shared a report that left the disciples in a state of amazement. Uncertain about whether to believe or disprove the accounts, they found it almost too extraordinary to be true. The disciples were left speechless and amazed by the astonishing events unfolding before them.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.5101221291461842,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.55,
+            "commentatorTierSimilarities": [
+                19.73,
+                37.77,
+                42.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Certain disciples were amazed and astonished by the report of certain women among them. These women, who were early at the sepulchre, brought an account that left the disciples in a state of amazement. Uncertain whether to believe or disprove the accounts, they found it almost too extraordinary to be true. The earnest discussion among the disciples about recent events was interrupted by the women's reports, leaving them speechless with wonder.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.4708245310391632,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "commentatorTierSimilarities": [
+                19.56,
+                35.93,
+                44.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

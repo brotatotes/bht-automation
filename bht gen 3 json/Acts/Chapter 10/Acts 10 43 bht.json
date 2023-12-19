@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:29:43",
+    "verseRef": "Acts 10:43",
+    "bestBHT": {
+        "bht": "The message that whoever believes in Jesus receives forgiveness of sins is not to be nitpicked for literal precision. The Old Testament, along with the sacrifices and the prophetic declarations, clearly pointed to the remission of sins through faith in Him. This declaration applies universally, irrespective of race, and is supported by both the prophets and the Jews. The power and perfection of Christ, embodied in His name, are what believers are called to embrace and confess for the full forgiveness of their sins.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.2045358617751987,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.64,
+        "commentatorTierSimilarities": [
+            34.53,
+            28.82,
+            36.65
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To press such expressions to literal exactness is mere trifling.",
+            "The legal sacrifices, as well as the declarations of the prophets, all pointed to the remission of sins by faith in Him.",
+            "And the universality of this proclamation, applying to whosoever believeth in him, is set forth by the prophets in many places, and was recognized even by the Jews themselves in their expositions of Scripture, though not in their practice."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To him give all the prophets witness\u2014that is, This is the burden, generally of the prophetic testimony.",
+            "But let this apostolic statement of the evangelical import of the Old Testament writings be devoutly weighed by those who are disposed to rationalize away this element in the Old Testament.",
+            "whosoever believeth in him\u2014This was evidently said with special reference to the Gentile audience then before him, and formed a noble practical conclusion to the whole discourse."
+        ],
+        "Albert Barnes": [
+            "To him give ... - See the notes on Luke 24:27, Luke 24:44.",
+            "That through his name ... - This was implied in what the prophets said. See Romans 10:11.",
+            "It was not, indeed, expressly affirmed that they who believed in him should be pardoned, but this was implied in what they said."
+        ],
+        "Marvin Vincent": [
+            "His name. As in the Lord's prayer: not simply the title, but all that is embraced and expressed by the name.",
+            "Christ's 'entire perfection, as the object revealed to the believer for his apprehension, confession, and worship'\" (Meyer)."
+        ],
+        "John Calvin": [
+            "Let us know that the words uttered by Peter are not recited in this place; but that it, is only declared of what things he entreated.",
+            "When as we hear, that we have remission of sins by believing, we must understand and know the force and nature of faith, as undoubtedly Peter intreated abundantly of this, [viz.] after what sort we must believe in Christ.",
+            "Therefore, to the end the ministers of the Church may agree with the prophets in their form of teaching, let them study by preaching to set forth Christ; let them continually testify that we must seek righteousness at his hands alone, which consisteth upon [of] free remission of sins."
+        ],
+        "Philip Schaff": [
+            "To him give all the prophets witness.",
+            "Whosoever believeth in him shall receive remission of sins.",
+            "The doctrine of justification by faith could not be more clearly set forth."
+        ],
+        "Archibald T. Robertson": [
+            "It is God's plan and no race distinctions are drawn.",
+            "Peter had already said the same thing at Pentecost, but now he sees himself that Gentiles do not have to become Jews, but have only to believe in Jesus as Messiah and Judge as foretold by the prophets.",
+            "Through his name, not as a title or magic formula, but the power of Christ himself represented by his name."
+        ],
+        "John Gill": [
+            "Whoever believes in Christ with a right and true faith... shall receive, not as what his faith procures or deserves, but as a gift of God's grace, the free and full forgiveness of his sins.\" ",
+            "Christ was set forth in the purposes of God, in the types, figures, and sacrifices of the law, and in the promises and prophecies of the Old Testament, as he that should obtain the remission of sins by his blood.",
+            "Whoever looks by faith to him for it...shall have it, of whatsoever sex, state, or condition they be, of whatsoever people or nation, and how great sinners soever they have been, and whether they are weak or strong believers."
+        ],
+        "John Wesley": [
+            "To him give all the prophets witness.",
+            "Every one who believeth in him - Whether he be Jew or Gentile; receiveth remission of sins.",
+            "Though he had not before either feared God, or worked righteousness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The proclamation that whoever believes in Jesus will receive remission of sins is not a trivial matter to be interpreted literally. The sacrifices and prophecies in the Old Testament all pointed to the forgiveness of sins through faith in him. This inclusive message is not only recognized by the prophets and the Jews in their interpretation of Scripture, but it is a practical conclusion supported by the evangelical understanding of the Old Testament. This declaration is not limited to a specific group, but applies to all who believe in Jesus, regardless of their background. It is through faith in his name, which represents the power and perfection of Christ, that we receive the gift of forgiveness.",
+            "wordCount": 116,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.1300972417894632,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.17,
+            "commentatorTierSimilarities": [
+                33.34,
+                30.32,
+                36.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The remission of sins through faith in Jesus is not to be taken literally, but understood in light of the Old Testament prophecies and sacrifices. The prophets bear witness to the universality of this proclamation, which was recognized by the Jews and is a significant element of the Old Testament. The inclusive nature of this message is seen in the exhortation to believe in Jesus without requiring Gentiles to adhere to Jewish customs. It is through faith in his name, representing his power and perfection, that believers receive forgiveness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.1817517525042294,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.88,
+            "commentatorTierSimilarities": [
+                34.61,
+                30.02,
+                35.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Old Testament prophets and the Jews themselves affirmed that the remission of sins comes through faith in Jesus. This message is not to be taken literally, but understood in the context of the prophetic testimony that pointed to the forgiveness of sins through Him. The inclusivity of this proclamation is clear, as it applies to anyone who believes in Jesus, without any distinction of race or background. It is through faith in His name, representing His power and perfection, that believers receive the gracious gift of forgiveness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.1939543773817034,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.29,
+            "commentatorTierSimilarities": [
+                33.41,
+                30.82,
+                35.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Old Testament prophecies and the teachings of the prophets all converge to bear witness to the profound truth that whoever believes in Jesus will receive forgiveness of sins. This proclamation is not to be interpreted literally, but it is to be understood in the context of the Old Testament scriptures. It is a universal message, applicable to both Jews and Gentiles, and it emphasizes the significance of faith in Jesus as the means of obtaining the remission of sins. The power and perfection of Christ, represented by His name, are instrumental in this act of grace.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.131641063146584,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.22,
+            "commentatorTierSimilarities": [
+                33.95,
+                29.95,
+                36.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The message that whoever believes in Jesus receives forgiveness of sins is not to be nitpicked for literal precision. The Old Testament, along with the sacrifices and the prophetic declarations, clearly pointed to the remission of sins through faith in Him. This declaration applies universally, irrespective of race, and is supported by both the prophets and the Jews. The power and perfection of Christ, embodied in His name, are what believers are called to embrace and confess for the full forgiveness of their sins.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.2045358617751987,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.64,
+            "commentatorTierSimilarities": [
+                34.53,
+                28.82,
+                36.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

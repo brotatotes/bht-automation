@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:33:39",
+    "verseRef": "Acts 19:39",
+    "bestBHT": {
+        "bht": "If there are any questions or concerns regarding other matters of a public nature, they should be settled in the regularly recurring assembly, as it is the lawful and appropriate forum for such deliberations. The solution to these matters will not be found in the chaotic and riotous gathering that had taken place, but rather in the proper assembly recognized by the Roman officials. It is in this lawful assembly, not in a mob, that the decisions will hold weight and have the necessary authority.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.8558620025407513,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+        "commentatorTierSimilarities": [
+            28.23,
+            31.99,
+            39.78
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "39.] The definite article points out the regularly recurring assembly, of which they all knew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "39. if ye inquire\u2014\"have",
+            "\tany question.\" ",
+            "\t",
+            "concerning other matters\u2014of",
+            "\ta public nature."
+        ],
+        "Albert Barnes": [
+            "If you seek to determine any other matters than that pertaining to the alleged wrong which Demetrius has suffered in his business.",
+            "This was a tumultuous assemblage, and it was proper in the public officer to demand that they should disperse.",
+            "It may be remarked here that the original word rendered assembly is what is usually in the New Testament rendered church - \u03b5\u0313\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u0301\u03b1 ekkle\u0304sia."
+        ],
+        "Philip Schaff": [
+            "It shall be determined in a lawful assembly.",
+            "The crowd of citizens he was then addressing was simply a popular gathering; their decisions could have no weight.",
+            "A free city like Ephesus had the right to call such a meeting together for the purpose of deliberation."
+        ],
+        "Archibald T. Robertson": [
+            "But, if you wish to go further and pass resolutions about the matter exciting you, 'it shall be settled in the regular assembly' (\u03b5\u03bd \u03c4\u03c9 \u03b5\u03bd\u03bd\u03bf\u03bc\u03c9 \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03b1). 'In the lawful assembly,' not by a mob like this.\" ",
+            "The solution will come in the lawful assembly, not in a riot like this.",
+            "The Roman officials alone could give the sanction for calling such a lawful or regular assembly."
+        ],
+        "John Gill": [
+            "But if ye inquire anything concerning other matters... it shall be determined in a lawful assembly.\" ",
+            "Called together according to law, and who have a right to hear, try, and judge causes.",
+            "Such a confused lawless assembly as this in the theatre had not."
+        ],
+        "John Wesley": [
+            "In a lawful assembly \u2014 In such a regular assembly as has authority to judge of religious and political affairs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If there are any questions or concerns regarding other matters of a public nature, they should be settled in the regularly recurring assembly, as it is the lawful and appropriate forum for such deliberations. The solution to these matters will not be found in the chaotic and riotous gathering that had taken place, but rather in the proper assembly recognized by the Roman officials. It is in this lawful assembly, not in a mob, that the decisions will hold weight and have the necessary authority.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.8558620025407513,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                28.23,
+                31.99,
+                39.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If there are any questions or concerns about other public matters, they should be resolved in the regular assembly, recognized by the Roman officials, rather than in the tumultuous and disorderly gathering that had occurred. The resolution and decision-making power lies in the lawful assembly, not in the mob. It is in this legitimate and recognized assembly that the decisions will hold weight and have the necessary authority.",
+            "wordCount": 69,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.7266957504481846,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                24.75,
+                33.06,
+                42.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If there are any questions or concerns about other public matters, they should be settled in the lawful assembly, as it is the appropriate forum for such deliberations. The solution to these matters will not be found in the chaotic gathering that had taken place, but rather in the recognized assembly. It is in this lawful assembly, not in a mob, that decisions will hold weight and have the necessary authority.",
+            "wordCount": 71,
+            "quoteTokenProportion": 55.77,
+            "qualityScore": 1.8431012235068815,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                25.92,
+                33.16,
+                40.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you have any questions about other matters, it is best to bring them to the regularly recurring assembly, as opposed to a tumultuous and lawless gathering. The Roman officials alone have the authority to call such a lawful assembly to order and pass resolutions on public matters. In this case, the solution to the issue at hand will come not from a riotous mob, but from a legitimate and lawful assembly.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 1.907109907615132,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                29.48,
+                30.92,
+                39.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you have any questions concerning other matters, it is best to seek resolution in the lawful assembly, rather than a disorderly gathering. The Roman officials have the authority to convene such a legitimate assembly and address issues of public importance. In this case, the solution will not come from a chaotic mob, but from a properly constituted and authorized assembly.",
+            "wordCount": 61,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7735042436267787,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+            "commentatorTierSimilarities": [
+                25.03,
+                32.06,
+                42.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

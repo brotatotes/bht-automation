@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:07:54",
+    "verseRef": "Romans 10:17",
+    "bestBHT": {
+        "bht": "Faith is obtained through hearing and receiving the Word of God, which carries the authority of Christ's command. Preaching plays a crucial role in generating faith, based on the truth of God. By obediently delivering the Gospel message, others have the opportunity to hear, believe, and be saved by calling upon the Lord. The foundation of faith lies in hearing the word of God and responding with trust and reliance, as it is through the message that faith is produced.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 2.309009602495708,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.11,
+        "commentatorTierSimilarities": [
+            26.89,
+            30.7,
+            42.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17. So then faith cometh by hearing,",
+            "\tand hearing by the word of God\u2014\"This is another",
+            "\tconfirmation of the truth that faith supposes the hearing of the",
+            "\tWord, and this a commission to preach it."
+        ],
+        "Albert Barnes": [
+            "Even by this passage, therefore, it seems that a message was necessary, that faith comes by hearing, and hearing by the divine message.",
+            "When it is said that faith cometh by hearing, it is not meant that all who hear actually believe, for that is not true; but that faith does not exist unless there is a message, or report, to be heard or believed.",
+            "And this shows us at once the importance of the message, and the fact that people are converted by the instrumentality of truth, and of truth only."
+        ],
+        "Marvin Vincent": [
+            "By hearing [\u03b5\u03be \u03b1\u03ba\u03bf\u03b7\u03c2] . The same word as report, above, and in the same sense, that which is heard.",
+            "Word of God [\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b8\u03b5\u03bf\u03c5] . The best texts read of Christ. Probably not the Gospel, but Christ's word of command or commission to its preachers.",
+            "Belief comes through the message, and the message through the command of Christ."
+        ],
+        "John Calvin": [
+            "Wherever faith is, God has there already given an evidence of his election.",
+            "And this is a remarkable passage with regard to the efficacy of preaching; for he testifies, that by it faith is produced.",
+            "Faith is grounded on nothing else but the truth of God."
+        ],
+        "Philip Schaff": [
+            "The heard preaching of the gospel brings about in men\u2019s minds faith in Christ.\" ",
+            "Word' is literally 'saying,' and probably means command or order.",
+            "Thus the authority of the message is emphasized over against the unbelief of some, preparing the way for the application to the responsibility of the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "By the word of Christ (\u03b4\u03b9\u03b1 \u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5). \"By the word about Christ\" (objective genitive). "
+        ],
+        "John Gill": [
+            "The word hearing is used in the same sense as in the preceding verse; and designs the report of the Gospel, or the preaching of the word, which is the means God makes use of, to convey faith into the hearts of his people.\" ",
+            "Men preach the Gospel in obedience to the commandment of the everlasting God, and according to the orders, mission, and commission, warrant and authority, of the Lord Jesus Christ.\" ",
+            "It is the original will of God, to send forth his apostles and ministers, to preach the Gospel to the Gentiles, as well as to the Jews; that they hearing might believe, and believing call upon the Lord, and so be saved by him."
+        ],
+        "John Wesley": [
+            "Faith, indeed, ordinarily cometh by hearing; even by hearing the word of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith is not something that comes naturally or spontaneously, but rather it comes through hearing and receiving the Word of God. This emphasizes the importance of the message and the role of preaching in bringing about faith. The message itself holds authority, as it is the command or commission of Christ. The preaching of the Gospel plays a crucial role in producing faith in the hearts of people. In fact, faith is grounded solely on the truth of God. It is through the obedience of those who preach the word, in accordance with the will of God, that others are able to hear and believe. Ultimately, faith comes by hearing the word of God, leading to a response of calling upon the Lord and finding salvation in Him.",
+            "wordCount": 128,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.160982361852822,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.19,
+            "commentatorTierSimilarities": [
+                27.16,
+                31.11,
+                41.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faith is not spontaneous, but rather it comes through hearing God's Word. The authority of the message is emphasized, as it is the command or commission of Christ. Preaching plays a crucial role in producing faith and is grounded in the truth of God. Through the obedience of those who preach the Gospel, others have the opportunity to hear and believe, calling upon the Lord for salvation. Faith indeed comes by hearing the word of God and responding in trust and reliance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.2044288747606045,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.64,
+            "commentatorTierSimilarities": [
+                27.33,
+                30.12,
+                42.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faith comes by hearing and receiving the Word of God, which holds authority as the command or commission of Christ. Preaching is instrumental in producing faith, grounded solely in the truth of God. The preaching of the Gospel allows people to hear and believe, leading to salvation. It is through the obedience of those who preach, according to the will of God, that others have the opportunity to respond in faith. Ultimately, faith is generated by hearing the word of God and responding in trust and reliance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.2777679063229472,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.08,
+            "commentatorTierSimilarities": [
+                26.89,
+                29.43,
+                43.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith is not spontaneous but is obtained through hearing and receiving the Word of God. The message itself holds authority, as it is the command or commission of Christ. Preaching plays a crucial role in producing faith, grounded solely in the truth of God. Through the obedience of those who preach, others have the opportunity to hear and believe, calling upon the Lord for salvation. Ultimately, faith is engendered by hearing the word of God and responding with trust and reliance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.158568640588234,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.11,
+            "commentatorTierSimilarities": [
+                27.93,
+                29.93,
+                42.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faith is obtained through hearing and receiving the Word of God, which carries the authority of Christ's command. Preaching plays a crucial role in generating faith, based on the truth of God. By obediently delivering the Gospel message, others have the opportunity to hear, believe, and be saved by calling upon the Lord. The foundation of faith lies in hearing the word of God and responding with trust and reliance, as it is through the message that faith is produced.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.309009602495708,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.11,
+            "commentatorTierSimilarities": [
+                26.89,
+                30.7,
+                42.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

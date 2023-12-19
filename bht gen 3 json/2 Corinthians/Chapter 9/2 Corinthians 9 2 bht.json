@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:17:17",
+    "verseRef": "2 Corinthians 9:2",
+    "bestBHT": {
+        "bht": "Paul acknowledges the Corinthians' readiness and zeal in giving, which has not gone unnoticed. He proudly boasts about their eagerness, recognizing that it originates from within them and has even inspired others, especially the Macedonians. Despite their previous shortcomings, the Corinthians have demonstrated a remarkable enthusiasm for participating in this righteous work, serving as a shining example to others who have been encouraged to follow their lead and contribute generously.",
+        "wordCount": 70,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.5572341648941808,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.12,
+        "commentatorTierSimilarities": [
+            23.11,
+            37.65,
+            39.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I am aware of your readiness, of which I am in the habit of boasting concerning you to Macedonians...",
+            "Achaia hath been ready... from last year: and the zeal which proceeds from you stirred up very many of them...",
+            "which has its source in you, and whose influence goes forth from you"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Your zeal\u2014Greek, 'the zeal from you,' that is, on your part; propagated from you to others.",
+            "Provoked\u2014that is, stimulated.",
+            "Very many\u2014Greek, 'the greater number,' namely, of the Macedonians."
+        ],
+        "Albert Barnes": [
+            "I know your promptitude, or your readiness to do it.",
+            "He boasted of it to the churches of Macedonia as if it were already done, and made use of this as an argument to stimulate them to make an effort.",
+            "The ardor of the Corinthians would excite others not only by their promptitude, but because Corinth was a splendid city, and their example would be looked up to by Christians at a distance."
+        ],
+        "John Calvin": [
+            "He shows the good opinion that he had of them from this, that he had, in a manner, stood forward as their surety by asserting their readiness.",
+            "It was, then, of this promise that Paul spoke.",
+            "The holy Apostle, therefore, spoke of this promise of the Corinthians."
+        ],
+        "Philip Schaff": [
+            "I know your readiness, of which I glory on your behalf\" (2 Corinthians 9:2). ",
+            "Achaia the whole province, but especially Corinth, the central church, hath been prepared for a year past\" (2 Corinthians 9:2). ",
+            "Your zeal has stirred up very many of them\" (2 Corinthians 9:2)."
+        ],
+        "Archibald T. Robertson": [
+            "I still am glorying, in spite of the poor performance of the Corinthians.",
+            "Hath been prepared, stands prepared.",
+            "Stirred up, to excite in a good sense here."
+        ],
+        "John Gill": [
+            "How that they were willing of themselves to engage in this good work; how readily they came into it; what a cheerful disposition of mind they showed towards it; and how forward they were to begin the collection.",
+            "The zeal which is of you...rose from you...which sprung from, and was occasioned by them...",
+            "...the zeal which appeared in these principal men, which was very warm, and yet prudent and seasonable, wrought very much on the minds of others, who, led by their example, contributed in a very generous and unexpected manner."
+        ],
+        "John Wesley": [
+            "I boast to them of Macedonia \u2014 With whom he then was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians' readiness and zeal for giving is something that Paul cannot help but boast about to others. He acknowledges that their zeal stems from within them and has even influenced others, particularly the Macedonians. Despite the Corinthians' past shortcomings, their eagerness to contribute to this good work is commendable and has had a profound impact on those around them. Their example serves as a motivation for others to join in this generous endeavor.",
+            "wordCount": 74,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.5172101103755007,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.79,
+            "commentatorTierSimilarities": [
+                25.56,
+                34.83,
+                39.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul acknowledges the Corinthians' readiness and zeal in giving, which has not gone unnoticed. He proudly boasts about their eagerness, recognizing that it originates from within them and has even inspired others, especially the Macedonians. Despite their previous shortcomings, the Corinthians have demonstrated a remarkable enthusiasm for participating in this righteous work, serving as a shining example to others who have been encouraged to follow their lead and contribute generously.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5572341648941808,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.12,
+            "commentatorTierSimilarities": [
+                23.11,
+                37.65,
+                39.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul boasts of the Corinthians' readiness and zeal for giving, acknowledging that it stems from within them and has influenced others, particularly the Macedonians. Despite the Corinthians' past shortcomings, their eagerness to contribute to this good work is commendable and has had a profound impact on those around them. Their example serves as a motivation for others to join in this generous endeavor.",
+            "wordCount": 63,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.5012695825433686,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.26,
+            "commentatorTierSimilarities": [
+                24.63,
+                35.2,
+                40.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul cannot contain his pride in the Corinthians' readiness and zeal for giving, recognizing that it originates from within them and has incited many others, especially the Macedonians, to participate. The Corinthians' fervent dedication to this cause is all the more remarkable given their past failings. Their enthusiastic commitment serves as an inspiration and encouragement for others to join in this noble pursuit of generosity.",
+            "wordCount": 65,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.4855489743072314,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.74,
+            "commentatorTierSimilarities": [
+                23.64,
+                41.39,
+                34.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians' readiness and zeal in giving is something that Paul cannot help but boast about. He acknowledges that their zeal originates from within them and has influenced others, particularly the Macedonians. Despite the Corinthians' past shortcomings, their eagerness to contribute to this good work is commendable and has had a profound impact on those around them. Their example serves as a motivation for others to join in this generous endeavor.",
+            "wordCount": 71,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.5371899358775551,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                25.34,
+                34.92,
+                39.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:21:05",
+    "verseRef": "Luke 17:26",
+    "bestBHT": {
+        "bht": "In a time to come, the world will be marked by carelessness and sensuality, reflecting a state of unbelief, indifference to the future, and unpreparedness. The events of the past, acknowledged as factual, serve as a warning against the prevailing wickedness. The similarities between the times of Noah's flood, Jerusalem's destruction, and the end of the world highlight the imminent coming of the Son of Man and the establishment of the kingdom of God.",
+        "wordCount": 76,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.6220294570006504,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.27,
+        "commentatorTierSimilarities": [
+            56.48,
+            0.0,
+            43.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The whole world shall be in its state of carelessness and sensuality at that time.",
+            "These verses unfold the implication as regards the whole world.",
+            "The world shall be in its state of carelessness and sensuality at that time."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though the antediluvian world and the cities of the plain were awfully wicked, it is not their wickedness, but their worldliness, their unbelief and indifference to the future, their unpreparedness, that is here held up as a warning.",
+            "These recorded events of Old Testament history\u2014denied or explained away nowadays by not a few\u2014are referred to here as facts.",
+            "It is not their wickedness, but their worldliness, their unbelief and indifference to the future, their unpreparedness, that is here held up as a warning."
+        ],
+        "John Gill": [
+            "And as it was in the days of Noe,.... Whilst he was building the ark, and before he went into it; for this respects the days of Noah before the flood, and not after it; for he lived after the flood three hundred and fifty years.\" ",
+            "the times of Noah's flood, of Jerusalem's destruction, and of the end of the world, bear a great resemblance to each other.",
+            "when the son of man comes in either of these senses, then will the kingdom of God come; or then will it appear that the Messiah is come, and has took to himself his great power, and reigns."
+        ],
+        "John Wesley": [
+            "The days of the Son of man \u2014 Those which immediately follow that which is eminently styled his day. Matthew 24:37."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 17:26, the verse reveals that the whole world will be in a state of carelessness and sensuality during a specific time. This passage warns not only of the wickedness of the past, but also emphasizes the worldliness, unbelief, indifference to the future, and unpreparedness that will serve as a cautionary tale. These historical events, denied or explained away by some, are mentioned as factual evidence. The times of Noah's flood, Jerusalem's destruction, and the end of the world all share significant similarities and are connected to the coming of the Son of Man and the kingdom of God.",
+            "wordCount": 101,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.571458037505289,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.59,
+            "commentatorTierSimilarities": [
+                53.63,
+                0.0,
+                46.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During a specific time, the whole world will be in a state of carelessness and sensuality, characterized by worldliness, unbelief, indifference to the future, and unpreparedness. These events of the past serve as a factual warning against wickedness, highlighting the necessity of being prepared for future events. The resemblances between the times of Noah's flood, Jerusalem's destruction, and the end of the world point to the coming of the Son of Man and the establishment of the kingdom of God as significant factors.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.5100854119791012,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.55,
+            "commentatorTierSimilarities": [
+                54.18,
+                0.0,
+                45.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a time to come, the world will be marked by carelessness and sensuality, reflecting a state of unbelief, indifference to the future, and unpreparedness. The events of the past, acknowledged as factual, serve as a warning against the prevailing wickedness. The similarities between the times of Noah's flood, Jerusalem's destruction, and the end of the world highlight the imminent coming of the Son of Man and the establishment of the kingdom of God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.6220294570006504,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.27,
+            "commentatorTierSimilarities": [
+                56.48,
+                0.0,
+                43.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a future time, the world will be heedless and given to sensuality, characterized by worldliness, lack of faith, and apathy towards the future. The cautionary message is not so much about the wickedness of the past, but rather about being unprepared and indifferent. These historical events, often denied or explained away, are referred to as undeniable truths. The times of Noah's flood, Jerusalem's destruction, and the end of the world bear striking resemblances to each other, all pointing to the coming of the Son of Man and the manifestation of God's kingdom.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.440435703789201,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                54.98,
+                0.0,
+                45.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During a future period, the world will be in a state of carelessness and sensuality, reflecting a lack of faith and indifference towards the future. The warning in this verse focuses not on the wickedness of the past, but rather on the worldliness and unpreparedness of individuals. These historical events, often denied or explained away, are presented here as undeniable facts. The times of Noah's flood, Jerusalem's destruction, and the end of the world share striking similarities, all leading to the coming of the Son of Man and the establishment of God's kingdom.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5433929725244007,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.66,
+            "commentatorTierSimilarities": [
+                56.3,
+                0.0,
+                43.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

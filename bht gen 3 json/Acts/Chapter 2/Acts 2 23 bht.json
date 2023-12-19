@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:25:21",
+    "verseRef": "Acts 2:23",
+    "bestBHT": {
+        "bht": "The death of Jesus was not a coincidence but part of God's eternal plan. His foreknowledge and fixed resolution allowed for the betrayal and crucifixion orchestrated by wicked individuals. It was their own Messiah they put to death, a crime of malice, treason, and murder. This event fulfilled prophecies and highlighted the criminality involved. Although God could have prevented it, He allowed it to fulfill His determined counsel of redeeming mankind through His Son's death, driven by His deep love for the world.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.9837013449744978,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+        "commentatorTierSimilarities": [
+            25.77,
+            37.66,
+            36.57
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The counsel and foreknowledge of God are not the same: the former designates His Eternal Plan, by which He has arranged all things\u2014the latter, the omniscience, by which every part of this plan is foreseen and unforgotten by Him.",
+            "The harshness and unworthiness of the deed are strongly set forth by a word expressing the mechanical act merely, nailed up, as in contrast with the former clause, in which the dignity and divine mission of Jesus are set forth.",
+            "Peter lays the charge on the multitude, use they abetted their rulers\u2014in which case, as Meyer well observes, Peter must have said 'we,' not 'you.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "determinate counsel and foreknowledge\u2014God's fixed plan and perfect foresight of all the steps involved in it.",
+            "How strikingly is the criminality of Christ's murderers here presented in harmony with the eternal purpose to surrender Him into their hands!"
+        ],
+        "Albert Barnes": [
+            "It was important, then, to assert the dignity of Jesus, and to show that his death was in accordance with the fixed design of God, and therefore that it did not interfere in the least with his claims to be the Messiah.\" ",
+            "That this was one of the most amazing and awful crimes that could be charged to any people. It was malice, and treason, and hatred, and murder combined. Nor was it any common murder. It was their own Messiah whom they had put to death; the hope of their fathers; he who had been long promised by God, and the prospect of whose coming had so long cheered and animated the nation.\" ",
+            "If this event was predetermined; if that act of amazing wickedness, when the Son of God was put to death, was fixed by the determinate counsel of God, then all the events leading to it, and the circumstances attending it, were also a part of the decree. The one could not be determined without the other."
+        ],
+        "Marvin Vincent": [
+            "The verb simply means to affix to or on anything. The idea of the cross is left to be supplied.",
+            "An adjective: given forth, betrayed.",
+            "Rev., rendering the aorist more closely, did slay."
+        ],
+        "John Calvin": [
+            "The same knowledge of God\u2019s providence is a step to consider the end and fruit of Christ\u2019s death.",
+            "Therefore, the foreknowledge of God is another thing than the will of God, whereby he governeth and ordereth all things.",
+            "So that, whereas Christ was delivered by the hands of wicked men, whereas he was crucified, it came to pass by the appointment and ordinance of God."
+        ],
+        "Philip Schaff": [
+            "This was not man\u2019s work... all had been settled, had been foreseen by Him.",
+            "This indirectly appeals for support to the Old Testament prophecies... which had described the very details of the tragedy of Calvary.",
+            "The Roman magistrate was quite indifferent, rather indisposed to proceed to extremities with this poor winning Jewish Teacher."
+        ],
+        "Archibald T. Robertson": [
+            "God had willed the death of Jesus and the death of Judas, but that fact did not absolve Judas from his responsibility and guilt.",
+            "Luke is fond of these figures (hand, face, etc.) very much like the Hebrew though the vernacular of all languages uses them.",
+            "Peter charges the people to their faces with the death of Christ."
+        ],
+        "John Gill": [
+            "God not only foreknew that it would be, but determined that it should be.",
+            "This fixed resolution, settled purpose, and wise determination of God, did not in the least excuse the sin of Judas in betraying him, or of Pilate in condemning him, or of the Jews in crucifying him.",
+            "They took him in the garden, and bound him, and had him first before the high priest, then before Pilate, the Roman governor, and cried out with one voice, in a most vehement manner, for the crucifying of him, which, at their importunity, was granted, though no fault was found in him."
+        ],
+        "John Wesley": [
+            "Yea. He knew all that those wicked men intended to do. And he had power to blast all their designs in a moment. But he did not exert that power, because he so loved the world!\" ",
+            "Because it was the determined counsel of his love, to redeem mankind from eternal death, by the death of his only-begotten Son.",
+            "God suffer such a person to be so treated? Did he not know what wicked men intended to do? And had he not power to prevent it?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The death of Jesus was not a coincidence or a random event, but rather a part of God's eternal plan and foreknowledge. This plan involved the betrayal and crucifixion of Jesus, orchestrated by wicked individuals who were fully responsible for their actions. The significance of Jesus' death is underscored by the fact that it was their own Messiah whom they put to death, an act of malice, treason, and murder. This event had been predetermined by God, fulfilling Old Testament prophecies, and highlighting the criminality of Christ's murderers. Although God could have intervened, He allowed these events to unfold because of His deep love for the world and His determined counsel to redeem mankind through the death of His Son.",
+            "wordCount": 122,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 2.2003856051413266,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.5,
+            "commentatorTierSimilarities": [
+                26.1,
+                37.13,
+                36.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The death of Jesus was not a coincidence, but part of God's eternal plan. His foreknowledge and fixed resolution allowed for the betrayal and crucifixion orchestrated by wicked individuals. It was their own Messiah they put to death, a crime of malice, treason, and murder. This event fulfilled prophecies and highlighted the criminality involved. Although God could have intervened, He allowed it to fulfill His determined counsel of redeeming mankind through His Son's death, driven by His deep love for the world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9815169257992329,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
+            "commentatorTierSimilarities": [
+                25.9,
+                37.61,
+                36.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The death of Jesus was not a coincidence, but part of God's eternal plan. His foreknowledge and fixed resolution allowed for the betrayal and crucifixion orchestrated by wicked individuals. It was their own Messiah they put to death, a crime of malice, treason, and murder. This event fulfilled prophecies and highlighted the criminality involved. Although God could have intervened, He allowed it to fulfill His determined counsel of redeeming mankind through His Son's death, driven by His deep love for the world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9815169257992329,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
+            "commentatorTierSimilarities": [
+                25.9,
+                37.61,
+                36.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The death of Jesus was not a coincidence, but rather a part of God's eternal plan and foreknowledge. This plan involved the betrayal and crucifixion of Jesus, orchestrated by wicked individuals who were fully responsible for their actions. The significance of Jesus' death is underscored by the fact that it was their own Messiah whom they put to death, an act of malice, treason, and murder. This event had been predetermined by God, fulfilling Old Testament prophecies, and highlighting the criminality of Christ's murderers. Although God could have intervened, He allowed these events to unfold because of His deep love for the world and His determined counsel to redeem mankind through the death of His Son.",
+            "wordCount": 118,
+            "quoteTokenProportion": 41.98,
+            "qualityScore": 2.2189165580980204,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.12,
+            "commentatorTierSimilarities": [
+                26.38,
+                36.78,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The death of Jesus was not a coincidence but part of God's eternal plan. His foreknowledge and fixed resolution allowed for the betrayal and crucifixion orchestrated by wicked individuals. It was their own Messiah they put to death, a crime of malice, treason, and murder. This event fulfilled prophecies and highlighted the criminality involved. Although God could have prevented it, He allowed it to fulfill His determined counsel of redeeming mankind through His Son's death, driven by His deep love for the world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9837013449744978,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+            "commentatorTierSimilarities": [
+                25.77,
+                37.66,
+                36.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

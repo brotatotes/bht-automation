@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:31:06",
+    "verseRef": "Acts 14:10",
+    "bestBHT": {
+        "bht": "The man suddenly raised his voice above the tone in which he was speaking, catching the attention of the crowd. The miracle of the lame man leaping up and walking upright was a display of newfound power and glad consciousness. It was not only a physical healing, but also a testimony to the readiness and willingness to obey God. The apostles, in performing miracles, sought to magnify the name of Christ and ascribe the virtue of the miracle to Him. This powerful act of healing, concealed by the usual English rendering, demonstrated the authority and transformative power of Jesus.",
+        "wordCount": 99,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.6205607421901338,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+        "commentatorTierSimilarities": [
+            19.49,
+            26.59,
+            53.92
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10. with a loud voice] The original implies that he suddenly raised his voice above the tone in which he was before speaking."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8-10. there sat there a certain man",
+            "\t. . . a cripple from his mother's womb . . . The same heard Paul",
+            "\tspeak\u2014in the open air and ( :-) to a crowd of people."
+        ],
+        "Albert Barnes": [
+            "Said with a loud voice - See the notes on John 11:43.",
+            "And he leaped - See the notes on Acts 3:8. Compare Isaiah 35:6."
+        ],
+        "Marvin Vincent": [
+            "Upright. Only here and Hebrews 12:13.",
+            "Compare made straight, Luke 13:13, and see note there.",
+            "Leaped. Better, as Rev., leaped up. Note the aorist tense, indicating a single act, while the imperfect, walked, denotes continuous action."
+        ],
+        "John Calvin": [
+            "I say to thee in the name of Jesus Christ.\" ",
+            "The apostles were careful to magnify the name of Christ in all miracles.",
+            "The lame man leapt up, it serveth not only for the commendation of God\u2019s power, but also such readiness and willingness to obey did testify that he was rightly prepared by the Lord."
+        ],
+        "Philip Schaff": [
+            "The lame man sprang up in his glad consciousness of a new power he had never felt before.",
+            "O strange miracle! Not only could he stand upright, he who ever since his child-days had sat and reclined, but he could now move and walk like other men whom he had for so many years watched and longed to imitate.",
+            "Such criticism passes over such marked differences in the two incidents as the following."
+        ],
+        "Archibald T. Robertson": [
+            "Upright (\u03bf\u03c1\u03b8\u03bf\u03c2). Predicate adjective. In this sense Galen and Hippocrates frequently use \u03bf\u03c1\u03b8\u03bf\u03c2 (erect, straight).",
+            "He leaped up and walked (\u03b7\u03bb\u03b1\u03c4\u03bf \u03ba\u03b1 \u03c0\u03b5\u03c1\u03b9\u03b5\u03c0\u03b1\u03c4\u03b5). Rather, He leaped up with a single bound and began to walk.",
+            "This graphic picture is concealed by the usual English rendering."
+        ],
+        "John Gill": [
+            "Said with a loud voice,.... Not only that the man, but that all might hear and attend to the miracle about to be wrought.",
+            "I say unto thee, in the name of the Lord Jesus Christ; which is much such a form that Peter used, Acts 3:6 whereby the virtue of the miracle is ascribed to Christ, and not assumed by the apostle.",
+            "He leaped and walked; he sprung up directly from his seat, and leaped about for joy, and walked as well as any other man could."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man suddenly raised his voice above the tone in which he was speaking, catching the attention of the crowd. The miracle of the lame man leaping up and walking upright was a display of newfound power and glad consciousness. It was not only a physical healing, but also a testimony to the readiness and willingness to obey God. The apostles, in performing miracles, sought to magnify the name of Christ and ascribe the virtue of the miracle to Him. This powerful act of healing, concealed by the usual English rendering, demonstrated the authority and transformative power of Jesus.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.6205607421901338,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                19.49,
+                26.59,
+                53.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With a sudden increase in volume, the man's voice rose above the crowd as he spoke. The miracle of the lame man leaping up and walking upright was a remarkable display of new-found power and joy. This act not only showed physical healing, but also revealed a readiness and willingness to obey God. The apostles sought to magnify the name of Christ and ascribe the virtue of the miracle to Him. Through this powerful act, the authority and transformative power of Jesus were revealed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.589541588973812,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.19,
+            "commentatorTierSimilarities": [
+                18.13,
+                28.44,
+                53.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With a sudden increase in volume, the man's voice rose above the crowd as he spoke. This miracle, where the lame man leaped up and walked upright, demonstrated a new power and glad consciousness he had never experienced before. It was not just physical healing, but also a testament to his readiness and willingness to obey God. The apostles aimed to magnify the name of Christ in all miracles, attributing the virtue of the miracle to Him. This powerful act showcased the authority and transformative power of Jesus.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.6158978188481596,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.07,
+            "commentatorTierSimilarities": [
+                18.32,
+                29.03,
+                52.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With a sudden increase in volume, the man's voice rose above the crowd as he spoke. The miracle of the lame man leaping up and walking upright was a remarkable display of new-found power. It was not just physical healing, but also a testament to his readiness and willingness to obey God. The apostles sought to magnify the name of Christ and ascribe the virtue of the miracle to Him. This powerful act showcased the authority and transformative power of Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6024866917561988,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+            "commentatorTierSimilarities": [
+                18.59,
+                28.21,
+                53.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With a sudden increase in volume, the man's voice rose above the crowd as he spoke. The miracle of the lame man leaping up and walking upright was a remarkable display of new-found power and glad consciousness. It served as a testimony to the man's readiness and willingness to obey God. The apostles, in performing miracles, were careful to magnify the name of Christ and ascribe the virtue of the miracle to Him. This powerful act revealed the authority and transformative power of Jesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.5899585794642703,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.21,
+            "commentatorTierSimilarities": [
+                17.48,
+                28.05,
+                54.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

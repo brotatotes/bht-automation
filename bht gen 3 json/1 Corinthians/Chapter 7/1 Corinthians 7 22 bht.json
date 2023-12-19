@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:07:08",
+    "verseRef": "1 Corinthians 7:22",
+    "bestBHT": {
+        "bht": "Being in the Lord entails being the Lord's freedman, where Christ's service is described as perfect freedom. Even as a slave externally, the believer experiences spiritual freedom from sin, the law, and circumcision. Embracing the role of a servant for Christ does not undermine true liberty, as it is in fact the highest blessing, liberating one from the bondage of sin. Whether a freeman or a slave, obedience to God's laws is paramount, for true liberty aligns with serving the Lord.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.691206799854266,
+        "qualityScoreNormalizedComparedToV2BHTs": 80.82,
+        "commentatorTierSimilarities": [
+            29.54,
+            39.19,
+            31.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in the Lord: as the element which what is about to be stated takes place) is the Lord's freed man.",
+            "Christ\u2019s service is perfect freedom, and the Christian\u2019s freedom is the service of Christ.",
+            "The (actual) slave is (spiritually) free: the (actually) free is a (spiritual) slave."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "freedman.\" Though a slave externally, spiritually made free by the Lord: from sin, from the law, from \"circumcision.\" ",
+            "Love makes Christ's service perfect freedom.",
+            "Christ's servant."
+        ],
+        "Albert Barnes": [
+            "You are blessed with freedom from the bondage of sin by the Lord. You were formerly a slave to sin, but now you are liberated...Your condition, even though you are a slave, is far better than it was before; nay, you are now the true freeman, the freeman of the Lord.",
+            "Freedom from sin is the highest blessing that can be conferred upon people; and if that is yours, you should little regard your external circumstances in this life.",
+            "Whether a freeman or a slave, we are bound to yield obedience to law, and everywhere must obey the laws of God. It is not, therefore, degradation to submit to his laws in a state of servitude, though these laws come to us through an earthly master."
+        ],
+        "Marvin Vincent": [
+            "Freeman [\u03b1\u03c0\u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03bf\u03c2] . Rev., correctly, freedman; the preposition ajp' from implying previous bondage."
+        ],
+        "John Calvin": [
+            "To be called in the Lord, being a servant, is to be chosen out of the rank of servants, and made a partaker of the grace of Christ.\" ",
+            "As servants feel their situation irksome, in respect of their being mean and despicable, it is of importance that the bitterness of servitude be alleviated by some consolation.\" ",
+            "The Apostle teaches that as the liberty of the spirit is greatly preferable to the liberty of the flesh, servants ought to feel the unpleasantness of their condition the more tolerable when they take into view that inestimable gift with which they have been endowed."
+        ],
+        "Archibald T. Robertson": [
+            "Christ is now the owner of the Christian and Paul rejoices to call himself Christ's slave.",
+            "Christ set us free from sin by paying the ransom of his life on the Cross.",
+            "Those who were not slaves, but freemen, when converted, are as much slaves of Christ as those who were and still were slaves of men."
+        ],
+        "John Gill": [
+            "being a servant; in a natural and civil sense when called, in a spiritual sense is the Lord's freeman; he is free from sin, not from the being, but from the servitude, guilt, and damning power of it",
+            "he is free from Satan, not from his temptations and insults, but from his dominion and captivity",
+            "Christian liberty, and the service of Christ, are not at all inconsistent; nor should we entertain any other notions of liberty, but what are consistent with serving the Lord; whatever liberty contradicts, that is no true liberty; though it may have the face of it, it is no other than bondage."
+        ],
+        "John Wesley": [
+            "Is the Lord's freeman \u2014 Is free in this respect. The Greek word implies one that was a slave, but now is free.",
+            "Is the bondman of Christ \u2014 Not free in this respect; not at liberty to do his own will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are in the Lord are the Lord's freed men. Christ's service is perfect freedom, and the Christian's freedom is the service of Christ. Though externally a slave, the believer is spiritually free from sin and the law. Christ is now the owner of the Christian, and Paul rejoices to call himself Christ's slave. Whether a freeman or a slave, we are bound to yield obedience to God's laws. Being a servant of Christ does not contradict true liberty, but rather reflects the highest blessing of being freed from sin.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.528005540581688,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.4,
+            "commentatorTierSimilarities": [
+                32.32,
+                36.62,
+                31.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who are in the Lord are the Lord's freed men. Christ's service is perfect freedom, and the Christian's freedom is the service of Christ. Though externally a slave, the believer is spiritually free from sin and the law. Christ is now the owner of the Christian, and Paul rejoices to call himself Christ's slave. Being a servant of Christ does not contradict true liberty, but rather reflects the highest blessing of being freed from sin.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.4833239073368785,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.91,
+            "commentatorTierSimilarities": [
+                33.41,
+                34.09,
+                32.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Being in the Lord means being the Lord's freedman. Christ's service is the perfect freedom, and the Christian's freedom is serving Christ. The believer, though a slave externally, is spiritually free from sin, the law, and circumcision. Christ is now the owner of the Christian. Whether a freeman or a slave, one is bound to obey God's laws. True liberty does not contradict serving the Lord, as being a servant of Christ is the highest blessing of being freed from sin.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 2.3994396742093733,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.12,
+            "commentatorTierSimilarities": [
+                32.81,
+                35.9,
+                31.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Being in the Lord entails being the Lord's freedman, where Christ's service is described as perfect freedom. Even as a slave externally, the believer experiences spiritual freedom from sin, the law, and circumcision. Embracing the role of a servant for Christ does not undermine true liberty, as it is in fact the highest blessing, liberating one from the bondage of sin. Whether a freeman or a slave, obedience to God's laws is paramount, for true liberty aligns with serving the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.691206799854266,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.82,
+            "commentatorTierSimilarities": [
+                29.54,
+                39.19,
+                31.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Being in the Lord means being the Lord's freedman. Christ's service is perfect freedom, and the believer, though externally a slave, is spiritually free from sin, the law, and circumcision. Christ is now the owner of the believer, and whether a freeman or a slave, obedience to God's laws is of utmost importance. True liberty is not contradictory to serving the Lord, as it reflects the highest blessing of being freed from sin.\n\nWords from quotes: in the Lord, freedman, Christ's service, perfect freedom, spiritually free, Christ is now the owner, freeman, from sin, from the law, from circumcision, obedience to God's laws, true liberty.",
+            "wordCount": 110,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.615047013746035,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.29,
+            "commentatorTierSimilarities": [
+                30.32,
+                39.1,
+                30.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

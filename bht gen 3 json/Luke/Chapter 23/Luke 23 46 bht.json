@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:23:51",
+    "verseRef": "Luke 23:46",
+    "bestBHT": {
+        "bht": "Jesus, in his final moments, chose to yield up his spirit to the Father as an act of his own volition. The Gospel writers intentionally used the phrase yielded up His spirit rather than He died to emphasize this deliberate action. By uttering the words from Psalm 31:5, Jesus expressed his complete trust in the Father, committing his immaterial self to His care. This act of surrender, following his declaration that It is finished, exemplifies the ultimate demonstration of love and obedience.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.9956746141334905,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.7,
+        "commentatorTierSimilarities": [
+            24.12,
+            38.55,
+            37.33
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was His own act...a determinate delivering up of His spirit to the Father.\" ",
+            "None of the Evangelists say 'He died.'...but it is, 'yielded up His spirit,'",
+            "The spirit here is the Personality\u2014the human soul informed by the Spirit, in union..."
+        ],
+        "Marvin Vincent": [
+            "I commend [\u03c0\u03b1\u03c1\u03b1\u03c4\u03b9\u03b8\u03b5\u03bc\u03b1\u03b9] . See on ch. Luke 9:16. ",
+            "Gave up the ghost [\u03b5\u03be\u03b5\u03c0\u03bd\u03b5\u03c5\u03c3\u03b5\u03bd] . Lit., breathed out (his life). Wyc., sent out the spirit. See on Matthew 27:50. ",
+            "- 49. Compare Matthew 27:51-56; Mark 14:38-41."
+        ],
+        "Philip Schaff": [
+            "Father, into thy hands I commit my spirit. Our Lord dies with Scriptural words on His lips (Psalms 31:5). The whole Psalm is not necessarily Messianic, for, by saying \u2018Father,\u2019 our lord gives the whole its higher meaning for this hour.\" ",
+            "\u2018Spirit\u2019 here means the immaterial part of Him who was dying. It is idle to say that the soul went to Hades and the spirit to His Father, for He had told the robber that He, the Personal object of His faith, would be in Paradise that day (Luke 23:43).\" ",
+            "In this prayer which came after the sixth word ('It is finished'), with its announcement of the completed work, our Lord freely gives up His spirit to the Father. The dying would indeed come in the course of nature, but this represents it as the supreme act of love and obedience."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus dies with the words of Psalms 31:5 on his lips.",
+            "There is no special reason for retaining 'ghost' in the English as both Matthew 27:50 (yielded up his spirit, \u03b1\u03c6\u03b7\u03ba\u03b5\u03bd \u03c4\u03bf \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1) and John 19:30 (gave up his spirit, \u03c0\u03b1\u03c1\u03b5\u03b4\u03c9\u03ba\u03b5\u03bd \u03c4\u03bf \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1) use \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1.",
+            "\u03b5\u03be\u03b5\u03c0\u03bd\u03b5\u03c5\u03c3\u03b5\u03bd: First aorist active indicative of \u03b5\u03ba\u03c0\u03bd\u03b5\u03c9, to breathe out, to expire, old word, but in the N.T. only here and Mark 15:37; Mark 15:39."
+        ],
+        "John Gill": [
+            "Father, into thy hands I commend my Spirit; not the Holy Spirit, nor his divine nature, but his human soul.",
+            "Just as he was expiring, as he made his soul an offering for sin, and which he offered unto God, he committed it to his divine care and protection.",
+            "And having said thus, he gave up the ghost; breathed out his soul dismissed his spirit, laid down his life, freely and voluntarily."
+        ],
+        "John Wesley": [
+            "Father, into thy hands \u2014 The Father receives the Spirit of Jesus: Jesus himself the spirits of the faithful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in his final moments, chose to yield up his spirit to the Father as an act of his own volition. The Gospel writers intentionally used the phrase yielded up His spirit rather than He died to emphasize this deliberate action. By uttering the words from Psalm 31:5, Jesus expressed his complete trust in the Father, committing his immaterial self to His care. This act of surrender, following his declaration that It is finished, exemplifies the ultimate demonstration of love and obedience.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9956746141334905,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.7,
+            "commentatorTierSimilarities": [
+                24.12,
+                38.55,
+                37.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in his final moments, deliberately yielded up His spirit to the Father, fully entrusting his immaterial self to the Father's care. The Gospel writers intentionally used the phrase yielded up His spirit instead of He died to highlight the intentionality of Jesus's act. By uttering the words from Psalm 31:5, Jesus expressed his complete trust in the Father, demonstrating the utmost love and obedience. This act of surrender, following his proclamation of It is finished, marked a profound moment of self-offering.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.9561420184096248,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+            "commentatorTierSimilarities": [
+                24.58,
+                37.29,
+                38.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in his final moments, deliberately yielded up His spirit to the Father, fully entrusting his immaterial self to the Father's care. The Gospel writers intentionally used the phrase yielded up His spirit instead of He died to highlight the intentionality of Jesus's act. By uttering the words from Psalm 31:5, Jesus expressed his complete trust in the Father, demonstrating the utmost love and obedience. This act of surrender, following his proclamation of It is finished, marked a profound moment of self-offering.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.9561420184096248,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+            "commentatorTierSimilarities": [
+                24.58,
+                37.29,
+                38.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In His final moments, Jesus intentionally yielded up His spirit to the Father, demonstrating His trust and obedience. The use of the phrase yielded up His spirit highlights the deliberate act of Jesus rather than simply stating that He died. By quoting Psalm 31:5, Jesus expressed His complete confidence in the Father, committing His immaterial self to His care. This act of surrender, after proclaiming It is finished, exemplifies the ultimate act of love and obedience.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.9639559453898663,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+            "commentatorTierSimilarities": [
+                23.29,
+                38.67,
+                38.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in His final moments, voluntarily gave up His spirit to the Father, expressing His trust and obedience. The Gospel writers specifically used the phrase yielded up His spirit instead of saying He died, emphasizing the intentional nature of Jesus' act. By quoting Psalm 31:5, Jesus affirmed His complete reliance on the Father, committing His immaterial being into His loving care. This act of surrender, following His proclamation of It is finished, exemplifies the ultimate display of love and obedience.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.992559798840695,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                23.1,
+                38.8,
+                38.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

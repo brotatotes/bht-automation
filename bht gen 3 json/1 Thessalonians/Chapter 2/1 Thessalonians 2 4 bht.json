@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 13:58:39",
+    "verseRef": "1 Thessalonians 2:4",
+    "bestBHT": {
+        "bht": "As preachers, it is through the free choice and grace of God that we are approved and pleasing in His sight. We should strive to please Him rather than seeking the approval of men. God tests our hearts, and His approval is the only one that truly matters. The gospel is not about trickery, but about declaring the truth and obtaining the approval of God. Our responsibility lies in faithfully fulfilling the trust God has given us and speaking as men accountable to Him.",
+        "wordCount": 84,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 2.062614605870522,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.92,
+        "commentatorTierSimilarities": [
+            29.86,
+            33.72,
+            36.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We must not introduce any ascertained fitness of them in themselves into the idea: it is only the free choice of God which is spoken of.",
+            "pleasing, in the strict sense of the present tense,\u2014going about to please,\u2014striving to please.",
+            "our hearts is not said generally, of all men: but of us, Paul and Silvanus and Timothy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We have been approved on trial, deemed fit.\" ",
+            "This approval as to sincerity depends solely on the grace and mercy of God.",
+            "Not as persons who seek to please men; characteristic of false teachers."
+        ],
+        "Albert Barnes": [
+            "The gospel is concerned with great realities, and we did not resort to trick and illusion.",
+            "An effectual restrainer from mere management and trick will always be found in a deep conviction of the truth and importance of religion.",
+            "It was not the direct object of his preaching to please them. It was to declare the truth, and to obtain the approbation of God whatever people might think of it."
+        ],
+        "Marvin Vincent": [
+            "We came and spoke to you as tested men.",
+            "Pleasing. As being those who seek to please.",
+            "Who proveth. Word-play with dedokimasmeqa we were approved."
+        ],
+        "John Calvin": [
+            "God, when he assigned me this office, bore witness to me as a faithful servant; there is no reason, therefore, why men should have doubts as to my fidelity, which they know to have been approved of by God.",
+            "Paul contrasts pleasing men, and pleasing God, as things that are opposed to each other.",
+            "True ministers of the gospel ought to make it their aim to devote to God their endeavors, and to do it from the heart, not from any outward regard to the world, but because conscience tells them that it is right and proper."
+        ],
+        "Philip Schaff": [
+            "Approved by God. This expression indicates a selection on the part of God of men suitable for the work which He designed to do.",
+            "Paul was chosen to be an apostle, because of a natural fitness for the office. But it is not on any natural fitness Paul leans for his authority, but on God who gave him his commission.",
+            "We speak as men responsible to God, and are thereby preserved from unworthy motives."
+        ],
+        "Archibald T. Robertson": [
+            "But even as we have been approved by God... means tested and proved and so approved by God.\" ",
+            "Surely this should be the ambition of every preacher of the gospel of God.\" ",
+            "God tests our hearts... and he is the only one whose approval matters in the end of the day."
+        ],
+        "John Gill": [
+            "Such was the good will and pleasure of God that he from all eternity chose and appointed them to this work.",
+            "The discharge of such a trust requires great faithfulness, and which the apostles had.",
+            "Studying to approve themselves to God, whose Gospel was committed to them, from whom they received gifts to preach it, and to whom they were accountable for all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As preachers of the gospel, it is not our own abilities or efforts that make us pleasing to God, but rather His free choice and grace that approves us. We must strive to please God, not people, for His approval is the only one that truly matters. The Lord tests our hearts and it is His testimony of our faithfulness that bears significance. The gospel is not about pleasing others or resorting to trickery, but about declaring the truth and seeking the approval of God. Our responsibility lies in faithfully fulfilling the trust God has given us, speaking as men accountable to Him and preserving ourselves from unworthy motives.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9619468592869085,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                25.67,
+                35.67,
+                38.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As preachers, it is through the free choice and grace of God that we are approved and pleasing in His sight. We should strive to please Him rather than seeking the approval of men. God tests our hearts, and His approval is the only one that truly matters. The gospel is not about trickery, but about declaring the truth and obtaining the approval of God. Our responsibility lies in faithfully fulfilling the trust God has given us and speaking as men accountable to Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.062614605870522,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.92,
+            "commentatorTierSimilarities": [
+                29.86,
+                33.72,
+                36.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As preachers, our aim should be to please God, not people. We must seek His approval and not introduce any outside fitness or personal agenda into our ministry. The approval of God depends solely on His grace and mercy, and it is His judgment of our hearts that truly matters. It is through God's testing and approval that we are deemed fit for the work of spreading the Gospel. Let us strive to be faithful servants, speaking the truth and preserving ourselves from unworthy motives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.9013977301675766,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.56,
+            "commentatorTierSimilarities": [
+                29.8,
+                33.68,
+                36.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As preachers, our primary goal should be to please God rather than seeking the approval of men. It is through His grace and mercy that we are approved and deemed fit for the work of spreading the Gospel. God tests our hearts, and His evaluation of our sincerity is what truly matters. The approval of God should be our ultimate ambition, as it is His judgment that determines our faithfulness as servants of the Gospel. Let us strive to please God and faithfully fulfill the trust He has given us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.0334464395954597,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.95,
+            "commentatorTierSimilarities": [
+                29.56,
+                31.35,
+                39.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As preachers, our aim should be to please God, not people. The approval of God depends solely on His grace and mercy, and it is His judgment of our hearts that truly matters. We must strive to be faithful servants, speaking the truth and preserving ourselves from unworthy motives. Let us seek the approval of God, who tests our hearts, and faithfully fulfill the trust He has given us as we proclaim the Gospel.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.9660749504001953,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.71,
+            "commentatorTierSimilarities": [
+                29.6,
+                31.75,
+                38.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

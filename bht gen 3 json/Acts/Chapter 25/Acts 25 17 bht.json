@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:35:59",
+    "verseRef": "Acts 25:17",
+    "bestBHT": {
+        "bht": "When they were assembled here, there was a delay in proceeding. The coming together of the chief priests and elders of the Jews signified the importance of the situation. Without any delay, the accused man was commanded to be brought forth, which reveals the urgency and gravity of the matter.",
+        "wordCount": 50,
+        "quoteTokenProportion": 45.95,
+        "qualityScore": 1.0229755472289745,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.36,
+        "commentatorTierSimilarities": [
+            26.96,
+            25.88,
+            47.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Therefore when they were come hither ... - See Acts 25:6."
+        ],
+        "Archibald T. Robertson": [
+            "When they were come together here (\u03c3\u03c5\u03bd\u03b5\u03bb\u03b8\u03bf\u03bd\u03c4\u03c9\u03bd \u03b5\u03bd\u03b8\u03b1\u03b4\u03b5).",
+            "Genitive absolute of second aorist active participle of \u03c3\u03c5\u03bd\u03b5\u03c1\u03c7\u03bf\u03bc\u03b1, but without \u03b1\u03c5\u03c4\u03c9\u03bd (they), merely understood.",
+            "Delay (\u03b1\u03bd\u03b1\u03b2\u03bf\u03bb\u03b7\u03bd). Old word from \u03b1\u03bd\u03b1\u03b2\u03b1\u03bb\u03bb\u03c9, only here in N.T."
+        ],
+        "John Gill": [
+            "To Caesarea, namely the chief priests and elders of the Jews.",
+            "Without any delay on the morrow, I sat on the judgment seat.",
+            "And I commanded the man to be brought forth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When they were assembled here, there was a delay in proceeding. The coming together was of significant importance, as it involved the chief priests and elders of the Jews, who had brought forth the command to bring the accused man to be judged. This act of commanding the man to be brought forth without delay demonstrates the urgency and seriousness of the situation.",
+            "wordCount": 63,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 0.9029260550511274,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.37,
+            "commentatorTierSimilarities": [
+                28.95,
+                22.08,
+                48.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When they were assembled here, there was a delay in proceeding. The coming together of the chief priests and elders of the Jews signified the importance of the situation. Without any delay, the accused man was commanded to be brought forth, which reveals the urgency and gravity of the matter.",
+            "wordCount": 50,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.0229755472289745,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.36,
+            "commentatorTierSimilarities": [
+                26.96,
+                25.88,
+                47.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the chief priests and elders of the Jews assembled there, a delay ensued. This act of gathering reflected the significance of the situation. Without any delay, the accused person was commanded to be brought forward, highlighting the urgency and seriousness of the matter.",
+            "wordCount": 44,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 0.732899634348257,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.71,
+            "commentatorTierSimilarities": [
+                23.66,
+                16.09,
+                60.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When they were come together here, a delay occurred, emphasizing the significance of their assembly. The chief priests and elders of the Jews had convened, bringing forth the command to bring the accused man to be judged without any delay. This command demonstrated the urgency and importance of the situation, compelling immediate action.",
+            "wordCount": 53,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 0.8319513346114755,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.01,
+            "commentatorTierSimilarities": [
+                27.71,
+                27.39,
+                44.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When they were come together here, a delay occurred, highlighting the significance of their assembly. The chief priests and elders of the Jews convened, commanding the accused man to be brought forth without any delay. This act underscored the urgency and gravity of the situation, necessitating prompt action.",
+            "wordCount": 48,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 0.8279431260820832,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.87,
+            "commentatorTierSimilarities": [
+                27.84,
+                24.11,
+                48.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

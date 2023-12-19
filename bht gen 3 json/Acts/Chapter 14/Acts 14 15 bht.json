@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:31:22",
+    "verseRef": "Acts 14:15",
+    "bestBHT": {
+        "bht": "These men of Christ, unlike impostors or enthusiasts, proclaim the one living God, a name that is familiar in the Old Testament and carries great glory. By declaring the living God, they introduce the concept of creation, unknown to the heathen audience. Of like passions means of like nature, highlighting that these men are mere mortals and not gods. They bring good tidings as evangelists of the living God, emphasizing that their God is alive and powerful, unlike the lifeless idols worshipped by the audience.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 2.3716447454457485,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.2,
+        "commentatorTierSimilarities": [
+            34.07,
+            32.96,
+            32.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15.] The original, these vain... may be filled up by things or gods: more probably the latter, as contrasted with the One living God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How unlike either imposture or enthusiasm is this, and how high above all self-seeking do these men of Christ show themselves to be!",
+            "This is the most glorious and distinctive of all the names of God. It is the familiar phraseology of the Old Testament.",
+            "This idea of creation, utterly unknown alike to rude and to cultivated heathenism, would not only define what was meant by 'the living God,' but open up a new world to the more thoughtful part of the audience."
+        ],
+        "Albert Barnes": [
+            "The abhorrence which they evinced at this may throw strong light on the rank and character of the Lord Jesus Christ.",
+            "How can this difference be accounted for except on the supposition that the Lord Jesus was divine?",
+            "Idols are often called vanities, or vain things, as opposed to the living and true God, because they are unreal; because they have no power to help."
+        ],
+        "Marvin Vincent": [
+            "Of like passions [\u03bf\u03bc\u03bf\u03b9\u03bf\u03c0\u03b1\u03b8\u03b5\u03b9\u03c2] . Only here and James 5:17, on which see note. Better, of like nature. ",
+            "Turn [\u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03b5\u03c6\u03b5\u03b9\u03bd] . Compare 1 Thessalonians 1:9, where the same verb is used."
+        ],
+        "John Calvin": [
+            "It is not unlawful to worship those who are delivered from human miseries by death.",
+            "The perfect and whole worship of godliness is due to God alone, and that therefore it is profaned, so soon as it is in any point given to creatures.",
+            "All religion is vain which departeth and degenerateth from the pure and simple Word of God."
+        ],
+        "Philip Schaff": [
+            "There is indeed a God whom you and your fathers have neglected, a God who made heaven and earth and sea, who though He has not given to you any direct written revelation concerning Himself, still those blessings, those recurring and ever-recurring life-giving powers of nature, seed-time and harvest-time, rain and sunshine, the thousand gifts of a bountiful Providence which serve to make glad the heart of man, these blessings have spoken in times past with sufficient clearness to awaken the slumbering thoughts of men, and to direct their attention to the adoration of the one true God.\" ",
+            "The thousand gifts of nature above alluded to seem every instant to call men to adore the loving all-Father who cares so tenderly for His children.",
+            "They came into these distant lands not to receive Divine honours, but to tell them of a living God, who loved them with a love passing understanding."
+        ],
+        "Archibald T. Robertson": [
+            "We also are men of like passions with you... It means 'of like nature' more exactly and affected by like sensations, not 'gods' at all.",
+            "And bring you good tidings... They are not gods, but evangelists.",
+            "Unto the living God... Our God is a live God, not a dead statue."
+        ],
+        "John Gill": [
+            "we also are men of like passions with you; men, and not gods; of the same human nature, and that as corrupted, alike sinful men, and need a sacrifice better than these",
+            "from these deities, Jupiter and Mercury, and the rest of them; which were vain, useless, and unprofitable, and could do their votaries no manner of service",
+            "the living God; who has life in himself, and is the fountain of life to others; whereas these deities were dead men, and the lifeless images of them"
+        ],
+        "John Wesley": [
+            "He does not deign to call them gods; unto the living God.",
+            "Not like these dead idols; who made the heaven and the earth, the sea.",
+            "Each of which they supposed to have its own gods."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These men of Christ, unlike impostors or enthusiasts, proclaim the one living God, a name that is familiar in the Old Testament and carries great glory. By declaring the living God, they introduce the concept of creation, which is unknown to the heathen audience. The phrase of like passions actually means of like nature, highlighting that these men are mere mortals and not gods. They bring good tidings as evangelists of the living God, emphasizing that their God is alive and not a lifeless statue. The idols worshipped by the audience are called vain things, contrary to the true God who made heaven, earth, and the sea. These idols are worthless and powerless, unable to provide any true help. Instead, the audience is urged to turn to the living God, who not only created the world but also constantly blesses it with his providence. These men came not seeking divine honors but to speak of a loving all-Father, a living God who cares deeply for His children.",
+            "wordCount": 168,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.2941542772850116,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.62,
+            "commentatorTierSimilarities": [
+                32.02,
+                34.21,
+                33.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These men of Christ, unlike impostors or enthusiasts, proclaim the one living God, a name that is familiar in the Old Testament and carries great glory. By declaring the living God, they introduce the concept of creation, unknown to the heathen audience. Of like passions means of like nature, highlighting that these men are mere mortals and not gods. They bring good tidings as evangelists of the living God, emphasizing that their God is alive and powerful, unlike the lifeless idols worshipped by the audience.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.3716447454457485,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.2,
+            "commentatorTierSimilarities": [
+                34.07,
+                32.96,
+                32.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These men of Christ show themselves to be unlike imposters or enthusiasts, proclaiming the one living God. This name of God is familiar and glorious, found in the Old Testament. They introduce the concept of creation, which is unknown to the pagan audience, opening up a new world of thought. They make it known that they are merely men of like nature, not gods, bringing good tidings as evangelists of the living God. In contrast to the idols worshipped, their God is alive, not a lifeless statue.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.25784360192959,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.41,
+            "commentatorTierSimilarities": [
+                34.77,
+                30.99,
+                34.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These men of Christ, not impostors or enthusiasts, proclaim the one living God, a name familiar in the Old Testament. By introducing the concept of creation to the heathen audience, they unveil a new world of thought. They emphasize that they are mere men of like nature, not gods, bringing good tidings as evangelists of the living God. Unlike the idols worshipped, their God is alive, not a lifeless statue. The audience is directed to turn to the living God, the Creator of heaven, earth, and sea.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.239033069785965,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.79,
+            "commentatorTierSimilarities": [
+                32.96,
+                32.22,
+                34.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These men of Christ distinguish themselves from deceivers and fanatics as they proclaim the one living God, a name esteemed in the Old Testament. By introducing the idea of creation to the audience, they awaken their thoughts to a whole new world of understanding. It is emphasized that these men are simply of the same human nature, not gods, and they bring good news as evangelists of the living God. In contrast to the lifeless idols, their God is alive, the authentic Maker of heaven, earth, and sea.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.2133266420973605,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.93,
+            "commentatorTierSimilarities": [
+                32.17,
+                32.87,
+                34.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

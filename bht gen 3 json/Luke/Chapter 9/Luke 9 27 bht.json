@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:17:10",
+    "verseRef": "Luke 9:27",
+    "bestBHT": {
+        "bht": "Jesus speaks of the establishment and progress of His Kingdom, which would bring significant changes and serve as a pledge of His final glorious coming. He compares Himself to a physician tasting medicine to encourage the sick to take it, illustrating how He tasted death on the cross to show us how to die. The Transfiguration that followed may have fulfilled these words and symbolically pointed to His second coming.",
+        "wordCount": 70,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.6569476997134718,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+        "commentatorTierSimilarities": [
+            49.47,
+            0.0,
+            50.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "27.] See note on Matthew, ver. 28."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The reference, beyond doubt, is to the firm establishment and victorious progress, in the lifetime of some then present, of that new Kingdom of Christ...",
+            "...which was destined to work the greatest of all changes on this earth, and be the grand pledge of His final coming in glory.",
+            "See 'the Son of man coming in His kingdom'..."
+        ],
+        "Marvin Vincent": [
+            "The phrase, taste of death, is common in Rabbinical writings.\" ",
+            "In the New Testament only here and Hebrews 2:9, used of Christ.\" ",
+            "Chrysostom (cited by Alford) compares Christ to a physician who first tastes his medicines to encourage the sick to take them."
+        ],
+        "Archibald T. Robertson": [
+            "Like a physician Christ tasted death that we may see how to die.",
+            "Jesus referred to the cross as 'this cup'.",
+            "The Transfiguration follows in a week and may be the first fulfillment in the mind of Jesus. It may also symbolically point to the second coming."
+        ],
+        "John Gill": [
+            "You may assure yourselves of it, that not only at the last day, the son of man will come in this glorious manner, and show his resentment to all such as have been ashamed of him.",
+            "The Gospel dispensation visibly taking place, both among Jews and Gentiles, upon the resurrection of Christ, and the pouring forth of his Spirit.",
+            "When it should come in power both in the conversion of God's elect in great numbers, and in the destruction of the Jewish nation, for their rejection of the Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 9:27, Jesus speaks about the establishment and victorious progress of His Kingdom, which would bring about significant changes on earth and serve as a pledge of His final coming in glory. Jesus uses the phrase taste of death, comparing Himself to a physician who first tastes medicine to encourage the sick to take it. Just as a physician demonstrates how to die by tasting the medicine, Jesus tasted death on the cross to show us how to die. The Transfiguration, which occurred shortly after this conversation, may have been the initial fulfillment of Jesus' words and symbolically pointed to His second coming.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.710080386899886,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                51.96,
+                0.0,
+                48.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus speaks of the establishment and progress of His Kingdom, which would bring significant changes and serve as a pledge of His final glorious coming. He compares Himself to a physician tasting medicine to encourage the sick to take it, illustrating how He tasted death on the cross to show us how to die. The Transfiguration that followed may have fulfilled these words and symbolically pointed to His second coming.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.6569476997134718,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+            "commentatorTierSimilarities": [
+                49.47,
+                0.0,
+                50.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus spoke of the firm establishment and victorious progress of His Kingdom, a new Kingdom that would bring about the greatest changes on earth and serve as a pledge of His glorious final coming. He compared Himself to a physician who tastes medicine first to encourage the sick to take it, symbolizing His taste of death on the cross. The Transfiguration that occurred shortly after this conversation may have been the first fulfillment of His words and symbolically pointed to His second coming.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5800971199282485,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.88,
+            "commentatorTierSimilarities": [
+                47.37,
+                0.0,
+                52.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus spoke of the firm establishment and victorious progress of His Kingdom, a new Kingdom that would bring about the greatest changes on earth and serve as a pledge of His glorious final coming. He compared Himself to a physician who tastes medicine first to encourage the sick to take it, symbolizing His taste of death on the cross. The Transfiguration that followed may have been the first fulfillment of His words and symbolically pointed to His second coming.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.6152788754633836,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.05,
+            "commentatorTierSimilarities": [
+                48.06,
+                0.0,
+                51.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus spoke of the firm establishment and victorious progress of His Kingdom, a new Kingdom that would bring the greatest changes on earth and be a pledge of His glorious final coming. He compared Himself to a physician who tastes medicine, encouraging the sick to take it. Just as a physician demonstrates how to die, Jesus tasted death on the cross. The subsequent Transfiguration could have been the initial fulfillment of His words and symbolically pointed to His second coming.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5542897907939697,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.02,
+            "commentatorTierSimilarities": [
+                51.68,
+                0.0,
+                48.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

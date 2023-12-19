@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:19:01",
+    "verseRef": "Luke 12:38",
+    "bestBHT": {
+        "bht": "To find servants ready to receive the Lord at any hour, even when least expected, is a special blessing. While a servant can be faithful despite being caught unawares, the ultimate blessing lies in being so prepared that one can open to their master immediately upon his return. The second and third watches of the night, when people are in their deepest sleep, find these vigilant servants fully ready with their loins girt, lights burning, and eagerly watching for their Lord's coming. Such servants are truly blessed, as they will be treated and used favorably.",
+        "wordCount": 96,
+        "quoteTokenProportion": 43.84,
+        "qualityScore": 1.822195723387007,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.93,
+        "commentatorTierSimilarities": [
+            27.97,
+            38.75,
+            33.28
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To find them ready to receive Him at any hour of day or night, when one might least of all expect Him, is peculiarly blessed.",
+            "A servant may be truly faithful, even though taken so far unawares that he has not everything in such order and readiness for his master's return as he thinks is due to him.",
+            "But if the servant have himself and all under his charge in such a state that at any hour when his master knocks, he can open to him 'immediately,' and hail his 'return'\u2014that is the most enviable, 'blessed' servant of all."
+        ],
+        "Marvin Vincent": [
+            "Second watch. See on Mark 13:35."
+        ],
+        "Philip Schaff": [
+            "In the second watch in the third watch (from 9 P.M. to 3 A.M.)... The middle watches are the time of soundest sleep.\" ",
+            "Even if our Lord delays longer than the servants thought (Luke 12:45), a faithful servant can thus show his fidelity."
+        ],
+        "Archibald T. Robertson": [
+            "And if (\u03ba'\u03b1\u03bd = \u03ba\u03b1 + \u03b5\u03b1\u03bd). Repeated.",
+            "\u0395\u03bb\u03b8\u03b7 and \u03b5\u03c5\u03c1\u03b7, both second aorist subjunctive with \u03b5\u03b1\u03bd, condition of the third class, undetermined, but with prospect of being determined.",
+            "Blessed (\u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf). Beatitude here as in verse Luke 12:37."
+        ],
+        "John Gill": [
+            "And if he shall come in the second watch... or come in the third watch... and find them so.\" (61 words)",
+            "The Arabic version adds, 'doing'; as above described, with their loins girt, lights burning, and they watching for their Lord's coming.\" (31 words)",
+            "Blessed are those servants; since they shall be used and treated as before related.\" (19 words)"
+        ],
+        "John Wesley": [
+            "The Jews frequently divided the night into three watches, to which our Lord seems here to allude."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To have servants ready to receive Him at any hour, when one might least expect Him, is a blessing. A servant may be faithful even if caught off guard, but the most enviable servant is one who can open to his master immediately at any hour and hail his return. It is like being in a constant state of readiness. In the second and third watches of the night, the time of soundest sleep, these servants are found prepared. They have their loins girt, lights burning, and are watching for their Lord's coming. Blessed are these servants, as they shall be used and treated as previously related.",
+            "wordCount": 108,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 1.6326331930281432,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+            "commentatorTierSimilarities": [
+                26.68,
+                40.52,
+                32.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To be ready for the Lord's unexpected arrival at any hour is truly blessed. Even if caught unawares, a faithful servant can still show their fidelity. However, the most enviable servant is the one who can immediately open the door to their master at any moment, fully prepared and eagerly welcoming his return. It is like being in a constant state of readiness. The second and third watches of the night, when people are deeply asleep, find these servants prepared with their loins girt, lights burning, and eagerly watching for their Lord's coming. Indeed, blessed are these servants, as they will be treated and used favorably as described.",
+            "wordCount": 110,
+            "quoteTokenProportion": 43.04,
+            "qualityScore": 1.5199458582133147,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                28.72,
+                38.45,
+                32.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To be found ready and prepared for the Master's return at any unexpected hour is a truly blessed state. While a servant may be faithful even if caught off guard, the most enviable servant is the one who can immediately open the door and welcome their master, always anticipating his arrival. This readiness is compared to the second and third watches of the night, when people are deeply asleep. These faithful servants, with their loins girt, lights burning, and watchful anticipation, are indeed blessed, as they will be treated and used favorably by their Lord.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.7111569477463249,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                29.33,
+                39.26,
+                31.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To find servants ready to receive the Lord at any hour, even when least expected, is a special blessing. While a servant can be faithful despite being caught unawares, the ultimate blessing lies in being so prepared that one can open to their master immediately upon his return. The second and third watches of the night, when people are in their deepest sleep, find these vigilant servants fully ready with their loins girt, lights burning, and eagerly watching for their Lord's coming. Such servants are truly blessed, as they will be treated and used favorably.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 1.822195723387007,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.93,
+            "commentatorTierSimilarities": [
+                27.97,
+                38.75,
+                33.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To be found ready and prepared for the Master's return at any unexpected hour is truly blessed. A servant may be faithful even if caught off guard, but the most enviable servant is one who can immediately open the door and welcome their master, always anticipating his arrival. This readiness is compared to the second and third watches of the night when people are deeply asleep. These faithful servants, with their loins girt, lights burning, and watchful anticipation, are indeed blessed and will be treated and used favorably by their Lord.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.6927904690523432,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                28.59,
+                39.08,
+                32.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

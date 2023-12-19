@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:01:51",
+    "verseRef": "1 Corinthians 3:9",
+    "bestBHT": {
+        "bht": "God is the major partner in the enterprise of each life, but he lets us work with him as his fellow-laborers. He is the proprietor of the field, the occupier of it, the husbandman who breaks up the fallow ground of the hearts of his people. We are God's co-workers, carrying out his plans and laboring in common with him as we build his kingdom. Let us never forget that God sees and cares about the work we do for him in the part of the building where we are assigned.",
+        "wordCount": 94,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.135514642793457,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.35,
+        "commentatorTierSimilarities": [
+            35.41,
+            29.27,
+            35.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is of GOD that we are the fellow-labourers.",
+            "Of GOD that ye are the tillage, of GOD that ye are the building.",
+            "This last new similitude is introduced on account of what he has presently to say of the different kinds of teaching."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For (in proof that 'each shall receive reward according to his own labor,' namely, from God) it is of God that we are the fellow workers (laboring with, but under, and belonging to Him as His servants) of God that ye are the field (or tillage), of God that ye are the building.",
+            "Building is a new image introduced here, as suited better than that of husbandry, to set forth the different kinds of teaching and their results, which he is now about to discuss.",
+            "To edify or build up the Church of Christ is similarly used."
+        ],
+        "Albert Barnes": [
+            "We are God's co-workers.",
+            "The main design and scope of this whole passage is to show that God is all - that the apostles are nothing; to represent the apostles not as joint-workers with God, but as working by themselves, and God as alone giving efficiency to all that was done.",
+            "The object of Paul was to show that all that had been done for them had been really accomplished by God."
+        ],
+        "Marvin Vincent": [
+            "In this and the two following clauses, God is emphatic. 'It is of God that ye are the fellow - workers.'",
+            "Paul's metaphors are drawn from the works and customs of men rather than from the works of nature.",
+            "In the double metaphor of the field and the building, the former furnishes the mould of Paul's thought in vers. 6 - 9, and the latter in vers. 10 - 17."
+        ],
+        "John Calvin": [
+            "That man, accordingly, is mistaken who looks to men, or depends merely on their remuneration.",
+            "It corresponds admirably with the Apostle\u2019s design to understand him to mean, that, while it is peculiarly the work of God to build his temple, or cultivate his vineyard, he calls forth ministers to be fellow-laborers, by means of whom He alone works; but, at the same time, in such a way, that they in their turn labor in common with him.",
+            "Paul meant here to express the idea, that true ministers labor not for themselves, but for the Lord. Hence it follows, that the Corinthians were greatly to blame in devoting themselves to men, (168) while of right they belonged exclusively to God."
+        ],
+        "Philip Schaff": [
+            "Far we are God\u2019s fellow-workers: ye are God\u2019s husbandry, God\u2019s building.",
+            "After sinking himself, with his fellow-workers, to the level of mere servants, he now lifts them up to the dignity of co-operators with God Himself in one field, to one end.",
+            "But the new figure of a 'building' suggests a new set of ideas, fraught with new lessons lessons which the former figure of 'husbandry' was not suited to express."
+        ],
+        "Archibald T. Robertson": [
+            "God is the major partner in the enterprise of each life, but he lets us work with him.\" ",
+            "The farmer works with God in God's field. Without the sun, the rains, the seasons the farmer is helpless.\" ",
+            "We work under him and carry out the plans of the Architect. Let us never forget that God sees and cares what we do in the part of the building where we work for him."
+        ],
+        "John Gill": [
+            "The ministers of the Gospel are labourers in the Lord's vineyard, and not loiterers; their work is a laborious work, both to body and mind.",
+            "They are God's husbandry; or tillage; he is the proprietor of the field, the occupier of it, the husbandman who breaks up the fallow ground of the hearts of his people.",
+            "Believers in a church state are God's house, in which he dwells, and which he himself has built; he has laid the foundation, which is Jesus Christ."
+        ],
+        "John Wesley": [
+            "For we are all fellowlabourers \u2014 God's labourers, and fellowlabourers with each other.",
+            "Ye are God's husbandry \u2014 This is the sum of what went before: it is a comprehensive word, taking in both a field, a garden, and a vineyard.",
+            "Ye are God's building \u2014 This is the sum of what follows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God is the major partner in the enterprise of each life, but he lets us work with him. He is the proprietor of the field, the occupier of it, the husbandman who breaks up the fallow ground of the hearts of his people. We are his fellow-laborers, carrying out his plans as co-workers in the vineyard. Let us never forget that God sees and cares what we do in the part of the building where we work for him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.0281789882154566,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                36.54,
+                28.13,
+                35.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God is the major partner in the enterprise of each life, but he lets us work with him as his fellow-laborers. He is the proprietor of the field, the occupier of it, the husbandman who breaks up the fallow ground of the hearts of his people. We are God's co-workers, carrying out his plans and laboring in common with him as we build his kingdom. Let us never forget that God sees and cares about the work we do for him in the part of the building where we are assigned.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.135514642793457,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.35,
+            "commentatorTierSimilarities": [
+                35.41,
+                29.27,
+                35.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God is the major partner in the enterprise of each life, but he lets us work with him. We are his fellow-laborers, carrying out his plans, and laboring in common with him. He is the proprietor of the field and the builder of the house. We are God's co-workers in the vineyard, cultivating and tilling the soil. Let us remember that our work for God is not in vain, for he sees and values what we do in the part of the building where we serve him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.992256044771982,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.58,
+            "commentatorTierSimilarities": [
+                37.59,
+                28.13,
+                34.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God is the major partner in the enterprise of each life, but he lets us work with him. We are God's co-workers, laboring in the field and building the house. He is the owner of the field, the cultivator of the hearts of his people. As fellow-laborers, we carry out his plans and contribute to his work. Let us remember the importance of our role and strive to fulfill our responsibilities, knowing that God sees and values our contributions in his building.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.8868204937291018,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                37.51,
+                28.74,
+                33.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are God's fellow-laborers, working alongside Him as His servants. He is the owner of the field, cultivating the hearts of His people, and the architect in building His kingdom. In our work, we are not to rely on men or their remuneration, but to devote ourselves exclusively to God. Let us remember that our labor in the Lord's vineyard is not in vain, for He sees and values the work we do in the part of the building where we serve Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0379171266602407,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+            "commentatorTierSimilarities": [
+                34.49,
+                29.56,
+                35.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

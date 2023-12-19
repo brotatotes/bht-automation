@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:20:48",
+    "verseRef": "Galatians 5:5",
+    "bestBHT": {
+        "bht": "By the Spirit, we Christians wait for the hope of righteousness that comes from faith. This hope is the consummation of our justification. It is obtained through a simple faith that does not rely on the law, but on the Holy Spirit. Our hope is in the unseen and future eternal glory, not in the works of the law. Encouraged by the Spirit, we eagerly anticipate the righteousness of Christ received by faith.",
+        "wordCount": 73,
+        "quoteTokenProportion": 44.19,
+        "qualityScore": 2.4635743546547895,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.25,
+        "commentatorTierSimilarities": [
+            33.63,
+            31.37,
+            35.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Proof (hence for) of their having fallen from grace.",
+            "Ye think ye have your righteousness in the law: we, on the contrary, anxiously wait for the hope of righteousness (full and perfect).",
+            "If we live by the Spirit, by the Spirit let us also walk."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We wait for the (realization of the) hope (which is the fruit) of the righteousness (that is, justification which comes) by (literally, 'from\u2014out of') faith.\" ",
+            "This is a farther step than being 'justified'; not only are we this, but 'wait for the hope' which is connected with it, and is its full consummation.",
+            "The consummation of [righteousness] in future perfection above is the object of hope to be waited for."
+        ],
+        "Albert Barnes": [
+            "We expect salvation only by his aid.",
+            "The main idea is, not that of waiting as if the thing were delayed; it is that of expecting.",
+            "They had no other hope of justification than by faith in the Redeemer."
+        ],
+        "Marvin Vincent": [
+            "For we, not relying on the law, by faith wait for the hope of righteousness.",
+            "The Holy Spirit who inspires our faith.",
+            "The phrase means that good which righteousness causes us to hope for."
+        ],
+        "John Calvin": [
+            "Righteousness, therefore, depends on faith, and is obtained, through the Spirit, without ceremonies.",
+            "When he says that we obtain righteousness by faith, this applies equally to us and to our fathers.",
+            "His meaning therefore is, that all that is now necessary for obtaining righteousness is a simple faith, which declines the aid of splendid ceremonies, and is satisfied with the spiritual worship of God."
+        ],
+        "Philip Schaff": [
+            "For we, by the Spirit, from faith wait eagerly for the hope of righteousness.",
+            "The hope of the Christian does not decline, but increase until the time of fruition.",
+            "Justification does not, like sanctification, unfold itself and increase, but it has as its normal consequence sanctification through the Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "We Christians as opposed to the legalists.",
+            "By the Spirit (Holy Spirit) out of faith (not law).",
+            "Clear-cut repetition to make it plain."
+        ],
+        "John Gill": [
+            "Christians...did not look for, and expect heaven and happiness through circumcision, or any of the works of the law, but through the righteousness of Christ received by faith...\" ",
+            "Eternal glory and felicity is here intended, called 'hope'; because it is the object of hope, or is what is hoped for; it is unseen, as what is hoped for is: it is future, and what is to be enjoyed hereafter, and therefore hoped for...",
+            "Believers look and wait for heaven, under the influence and encouragement of the Spirit of God; who is the author of the faith by which they look for it, and of the hope which is concerned with it..."
+        ],
+        "John Wesley": [
+            "For we - Who believe in Christ, Who are under the gospel dispensation.",
+            "Through the Spirit - Without any of those carnal ordinances.",
+            "The hope of righteousness - The righteousness we hope for, and full reward of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By the Spirit, we Christians, not relying on the law, anxiously wait for the hope of righteousness that comes from faith. This hope is not just a mere expectation or waiting, but a confident expectation of the realization of the righteousness we long for. It is the consummation, the full and perfect fruit, of our justification by faith. We do not obtain righteousness through ceremonies or external works, but through a simple faith that is satisfied with the spiritual worship of God. It is the Holy Spirit who inspires our faith and enables us to hope for the good that righteousness brings. We look and wait for eternal glory and felicity, even though it is unseen and future, encouraged by the Spirit of God. Our hope is not in circumcision or the works of the law, but in the righteousness of Christ received by faith.",
+            "wordCount": 145,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.4308796712231127,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.17,
+            "commentatorTierSimilarities": [
+                32.58,
+                29.81,
+                37.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By the Spirit, we Christians wait for the hope of righteousness that comes from faith. This hope is the consummation of our justification, a full and perfect fruit that we long for. We obtain righteousness not through ceremonies or external works, but through a simple faith that relies on the Holy Spirit. Our hope is in the unseen and future eternal glory, not in the law or any works. We look and wait, encouraged by the Spirit, for the righteousness of Christ received by faith.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.4383474489697523,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.41,
+            "commentatorTierSimilarities": [
+                33.34,
+                29.61,
+                37.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We Christians, not relying on the law but by the Spirit, wait for the hope of righteousness that comes from faith. This hope is the consummation of our justification, a full and perfect fruit we anxiously desire. It is through a simple faith, satisfied with spiritual worship, that we obtain righteousness. Our hope is in the unseen and future eternal glory, not in works or ceremonies. Encouraged by the Spirit, we look and wait for the righteousness of Christ received by faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.462537811168816,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.22,
+            "commentatorTierSimilarities": [
+                32.71,
+                29.46,
+                37.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By the Spirit, we Christians wait for the hope of righteousness that comes from faith. This hope is the consummation\u2014a full and perfect fruit\u2014of our justification. It is obtained through a simple faith, satisfied with spiritual worship, that does not rely on the law. Our hope is in the unseen and future eternal glory, not in the works or ceremonies of the law. Encouraged by the Spirit, we eagerly anticipate the righteousness of Christ received by faith.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.412838820584695,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.57,
+            "commentatorTierSimilarities": [
+                32.8,
+                30.64,
+                36.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By the Spirit, we Christians wait for the hope of righteousness that comes from faith. This hope is the consummation of our justification. It is obtained through a simple faith that does not rely on the law, but on the Holy Spirit. Our hope is in the unseen and future eternal glory, not in the works of the law. Encouraged by the Spirit, we eagerly anticipate the righteousness of Christ received by faith.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 2.4635743546547895,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.25,
+            "commentatorTierSimilarities": [
+                33.63,
+                31.37,
+                35.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:32:51",
+    "verseRef": "Ephesians 4:25",
+    "bestBHT": {
+        "bht": "As members of one another in Christ, it is imperative that we put away falsehood and speak truth each one with his neighbor. Our mutual duties are grounded in our union with Christ, and this calls for honesty and integrity in all our interactions. Lying is contrary to the truth shining in our minds and is designed to deceive others. Let us speak truth in every aspect of our lives, both in secular and spiritual matters, reflecting the righteousness of the new man we have become in Christ.",
+        "wordCount": 88,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 1.9276253250629178,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.43,
+        "commentatorTierSimilarities": [
+            27.92,
+            40.08,
+            32.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "having put away falsehood, speak truth each one with his neighbour.",
+            "we are members of one another.",
+            "all mutual duties of Christians are grounded on their union to and in Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From the general character of 'the new man,' there will necessarily result the particular features which he now details.",
+            "Union to one another in Christ, not merely the external command, instinctively leads Christians to fulfill mutual duties.",
+            "One member could not injure or deceive another, without injuring himself, as all have a mutual and common interest."
+        ],
+        "Albert Barnes": [
+            "No professing Christian can do any good who has not an unimpeachable character for integrity and truth.",
+            "There are many classes to whom it would now be proper - such as he who is in the habit of concealing the defects of an article in trade, or of commending it for more than its real value - 'let him put away lying.'",
+            "Falsehood in the church is as ruinous to its interests as it would be to the body if one member was perpetually practicing a deception on another."
+        ],
+        "Marvin Vincent": [
+            "Let not the eye lie to the foot, nor the foot to the eye.",
+            "If there be a deep pit, and its mouth covered with reeds shall present to the eye the appearance of solid ground, will not the eye use the foot to ascertain whether it is hollow underneath, or whether it is firm and resists?",
+            "And what, again, if the eye were to spy a serpent or a wild beast, will it lie to the foot?"
+        ],
+        "John Calvin": [
+            "From this head of doctrine, that is, from the righteousness of the new man, all godly exhortations flow, like streams from a fountain.",
+            "Having concluded from the truth of the gospel, that righteousness and holiness ought to be true, he now argues from the general statement to a particular instance, that every man should speak truth with his neighbour.",
+            "That members should not agree among themselves, \u2014 that they should act in a deceitful manner towards each other, is prodigious wickedness."
+        ],
+        "Philip Schaff": [
+            "Falsehood includes deceptive acts and looks, and this single precept, if obeyed, would revolutionize many a community, and destroy some kinds of business.",
+            "Speak ye truth each one with his neighbor. The command is to habitual action.",
+            "For we are members one of another. More than members of human society, and hence mutually dependent; in close fellowship as holding the same views and laboring for the same end; as members of the body of Christ we become members of one another; as He is true, we should be truthful."
+        ],
+        "Archibald T. Robertson": [
+            "Because of putting off the old man, and putting on the new man.\" ",
+            "Lying, truth in direct contrast.",
+            "Each one, partitive apposition with \u03bb\u03b1\u03bb\u03b5\u03b9\u03c4\u03b5."
+        ],
+        "John Gill": [
+            "A lie is a voluntary disagreement of the mind and speech, with a design to deceive; it is to speak that which is false, contrary to truth shining in the mind; and it is spoken knowingly and willingly, and with a design to impose upon others.",
+            "Every idle word must be accounted for; and hereby also an evil habit of lying may be acquired.",
+            "Speak every man truth with his neighbour; both with respect to civil and religious affairs, in common conversation, in trade and business, and in all things relating to God and men."
+        ],
+        "John Wesley": [
+            "Seeing ye are thus created anew, walk accordingly, in every particular.",
+            "To which intimate union all deceit is quite repugnant.",
+            "We are members one of another."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As members of one another in Christ, it is imperative that we put away falsehood and speak truth to our neighbors. The mutual duties we owe to one another are grounded on our union in Christ, and this calls for honesty and integrity in all our interactions. Just as one member of a body cannot deceive or harm another without ultimately hurting themselves, so too should we refrain from lies and deceit, for they undermine the unity and trust within the body. Let us not give false appearances or deceive one another, but instead, let our words and actions be marked by truth and authenticity, reflecting the righteousness of the new man we have become in Christ.",
+            "wordCount": 117,
+            "quoteTokenProportion": 48.75,
+            "qualityScore": 1.9915436570293328,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+            "commentatorTierSimilarities": [
+                26.5,
+                42.09,
+                31.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having put away falsehood, let us, as members of one another in Christ, speak truth to our neighbors. Our union with Christ leads Christians to fulfill mutual duties and abstain from deceiving or harming one another. A lie is a voluntary disagreement of the mind and speech, with intent to deceive. Therefore, let us walk in truth and integrity, reflecting the righteousness of the new man. By doing so, we preserve the unity and trust within the body of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.83899039513613,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                28.44,
+                38.83,
+                32.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As members of one another in Christ, it is imperative that we put away falsehood and speak truth each one with his neighbor. Our mutual duties are grounded in our union with Christ, and this calls for honesty and integrity in all our interactions. Lying is contrary to the truth shining in our minds and is designed to deceive others. Let us speak truth in every aspect of our lives, both in secular and spiritual matters, reflecting the righteousness of the new man we have become in Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.9276253250629178,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.43,
+            "commentatorTierSimilarities": [
+                27.92,
+                40.08,
+                32.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As members of one another in Christ, let us put away falsehood and speak truth to our neighbors. Our union with Christ leads us to fulfill mutual duties and abstain from deceiving one another. Lying is contrary to the truth shining in our minds and is designed to deceive. Therefore, let us speak truth in every aspect of our lives, reflecting the righteousness of the new man we have become in Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.9059302011716568,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                28.97,
+                37.92,
+                33.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As members of one another in Christ, we should put away falsehood and speak truth to our neighbors. All mutual duties of Christians are grounded on our union to and in Christ, which instinctively leads us to fulfill these duties. Lying is a voluntary disagreement of the mind and speech, knowingly and willingly spoken to deceive others. Therefore, we must speak truth with integrity in all our interactions, reflecting the righteousness of the new man we have become in Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.9054846834119292,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                27.6,
+                39.14,
+                33.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

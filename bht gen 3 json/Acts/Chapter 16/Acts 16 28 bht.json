@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:32:21",
+    "verseRef": "Acts 16:28",
+    "bestBHT": {
+        "bht": "Paul's priority amidst the chaos was to save the jailer from his own ignorance of the way to eternal life. Assuring him that none of the prisoners had fled, Paul's prompt response showed his presence of mind. The other prisoners, overcome with the supernatural events that had just occurred, were not considering escape. Paul urgently commanded the jailer, Do thyself no harm, displaying compassion towards one who had treated him cruelly. Through Paul's words, the jailer's suicidal intentions were halted, revealing the power of God at work.",
+        "wordCount": 91,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.5360894625840014,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.42,
+        "commentatorTierSimilarities": [
+            31.86,
+            30.67,
+            37.48
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But one thought filled the apostle's mind at that moment\u2014anxiety",
+            "to save a fellow creature from sending himself into eternity, ignorant of the only way of life.\" ",
+            "His presence of mind appears in the assurance which he so promptly gives to the desperate man, that his prisoners had none of them fled as he feared.",
+            "Not less flat is the question, why the other liberated prisoners did not make their escape:\u2014as if there were the smallest difficulty in understanding how, under the resistless conviction that there must be something supernatural in their instantaneous liberation without human hand, such wonder and awe should possess them as to take away for the time not only all desire of escape, but even all thought on the subject."
+        ],
+        "Albert Barnes": [
+            "Do thyself no harm - This is the solemn command of religion in his case, and in all others.",
+            "It enjoins upon people to do themselves no harm by self-murder, whether by the sword, the pistol, the halter; by intemperance, by lust, or by dissipation.",
+            "In all cases, if it were obeyed, people would do themselves no harm. They would promote their own best interests here, and their eternal welfare hereafter."
+        ],
+        "Philip Schaff": [
+            "We are all here.",
+            "The prisoners, we are especially told, had been listening to the sweet, solemn Hebrew hymns of Paul and Silas when the earthquake and its accompanying marvels took place.",
+            "The words of Paul stayed the would-be suicide\u2019s hand."
+        ],
+        "Archibald T. Robertson": [
+            "Do thyself no harm (\u03bc\u03b7\u03b4\u03b5\u03bd \u03c0\u03c1\u03b1\u03be\u03b7\u03b9\u03c2 \u03c3\u03b5\u03b1\u03c5\u03c4\u03c9 \u03ba\u03b1\u03ba\u03bf\u03bd). The usual construction (\u03bc\u03b7 and the aorist subjunctive) for a prohibition not to begin to do a thing.",
+            "The older Greek would probably have used \u03c0\u03bf\u03b9\u03b7\u03c3\u03b7\u03b9\u03c2 here. The later Greek does not always preserve the old distinction between \u03c0\u03bf\u03b9\u03b5\u03c9, to do a thing, and \u03c0\u03c1\u03b1\u03c3\u03c3\u03c9, to practice.",
+            "The jailor was at the outer door and he wanted lights to see what was inside in the inner prison."
+        ],
+        "John Gill": [
+            "Knowing by divine revelation, what the jailer was about to do... he knew in the same way, what designs of grace God had towards this man and his family.",
+            "Saying, do thyself no harm; which is an instance of great tenderness, humanity, and love, to one that had used him and his companion with so much severity and cruelty.",
+            "For we are all here; not only Paul and Silas, but the rest of the prisoners also... to show the power of God, what he could do, and his presence with his servants."
+        ],
+        "John Wesley": [
+            "But Paul cried \u2014 As they were all then in the dark, it is not easy to say, how Paul knew of the jailer's purpose; unless it were by some immediate notice from God, which is by no means incredible.",
+            "With a loud voice \u2014 Through earnestness, and because he was at some distance.",
+            "Do thyself no harm \u2014 Although the Christian faith opens the prospect into another life, yet it absolutely forbids and effectually prevents a man's discharging himself from this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of chaos and desperation, the Apostle Paul's only concern was to save a soul from eternal ignorance. His presence of mind and confidence in the Lord reassured the jailer that none of the prisoners had fled. The other prisoners, awestruck by their supernatural liberation, were not even thinking of escaping. In this critical moment, Paul urgently commanded the jailer, Do thyself no harm, showing great compassion and love towards someone who had treated him and his companions cruelly. The words of Paul not only prevented the jailer from carrying out his suicidal intentions, but they also demonstrated the power of God at work.",
+            "wordCount": 107,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.5116664559503168,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.61,
+            "commentatorTierSimilarities": [
+                32.07,
+                28.13,
+                39.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite the chaos, the Apostle Paul's sole concern was saving a soul from eternal ignorance. With confidence, he assured the desperate jailer that none of the prisoners had fled. The other prisoners, in awe of their supernatural liberation, were not even thinking of escape. Urgently, Paul commanded the jailer, Do thyself no harm, showing great compassion towards one who had treated him cruelly. His words not only prevented suicide but also displayed the power of God at work.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.455617193997814,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.74,
+            "commentatorTierSimilarities": [
+                33.3,
+                28.3,
+                38.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of chaos, Paul's main focus was saving a soul from a life lost in ignorance. With assurance, he declared that none of the prisoners had escaped. The other prisoners, filled with awe and wonder at their sudden freedom, were not even considering the idea of running away. Urgently, Paul commanded the jailer, Do thyself no harm, exhibiting immense compassion towards one who had inflicted cruelty upon him and his companions. Through Paul's words, the jailer's hand was stayed, and the power of God was revealed to all.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.4009331411055512,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.92,
+            "commentatorTierSimilarities": [
+                30.02,
+                29.32,
+                40.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's priority amidst the chaos was to save the jailer from his own ignorance of the way to eternal life. Assuring him that none of the prisoners had fled, Paul's prompt response showed his presence of mind. The other prisoners, overcome with the supernatural events that had just occurred, were not considering escape. Paul urgently commanded the jailer, Do thyself no harm, displaying compassion towards one who had treated him cruelly. Through Paul's words, the jailer's suicidal intentions were halted, revealing the power of God at work.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.5360894625840014,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.42,
+            "commentatorTierSimilarities": [
+                31.86,
+                30.67,
+                37.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With chaos unfolding, Paul's primary concern was to save the jailer from his own ignorance about the path to eternal life. Promptly assuring him that none of the prisoners had escaped, Paul exhibited his presence of mind. The other prisoners, awestruck by their miraculous liberation, had no desire to flee. Urgently, Paul commanded the jailer, Do thyself no harm, revealing his compassion for one who had treated him cruelly. By heeding Paul's words, the jailer's suicidal intentions were thwarted, showcasing the power of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5336557861668423,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+            "commentatorTierSimilarities": [
+                32.16,
+                29.9,
+                37.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

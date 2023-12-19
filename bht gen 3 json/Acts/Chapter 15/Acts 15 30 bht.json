@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:31:36",
+    "verseRef": "Acts 15:30",
+    "bestBHT": {
+        "bht": "When the committee was dismissed, they had a formal and solemn leave-taking with the Jerusalem Church, possibly accompanied by religious services and an escort for part of the way. They formally delivered the epistle to the church authorities, ensuring communication and order. It is important to maintain a balance between lawful governance and the liberty that the people deserve, without driving them away from common doctrine. In this way, the message of the epistle reached the multitude who had gathered together in Antioch.",
+        "wordCount": 84,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.3085681241416012,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.85,
+        "commentatorTierSimilarities": [
+            35.56,
+            34.78,
+            29.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "For there is nothing more unfitting for holy and Christian order than to drive away the body of the people from common doctrine, as if it were a herd of swine, as they use to do under the tyranny of Popery.",
+            "But, on the contrary, there must be a mean observed, that lawful governments may continue; and that, on the other side, the people may have that liberty which unto them belongeth, lest they be oppressed like slaves.",
+            "Fraterne communicate, must fraternally communicate."
+        ],
+        "Philip Schaff": [
+            "So when they were dismissed.",
+            "These words probably imply a formal and solemn leave-taking on the part of the Jerusalem Church.",
+            "Accompanied with certain religious services."
+        ],
+        "Archibald T. Robertson": [
+            "When they were dismissed (\u03b1\u03c0\u03bf\u03bb\u03c5\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2). First aorist passive participle of \u03b1\u03c0\u03bf\u03bb\u03c5\u03c9, common verb to loosen, to dismiss.\" ",
+            "Possibly (Hackett) religious services were held as in verse Acts 15:33 (cf. Acts 13:3) and perhaps an escort for part of the way as in verse Acts 15:3.",
+            "The committee formally 'delivered' (\u03b5\u03c0\u03b5\u03b4\u03c9\u03ba\u03b1\u03bd) the epistle to the church authorities."
+        ],
+        "John Gill": [
+            "They came to Antioch",
+            "When they had gathered the multitude together",
+            "They delivered the epistle"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the committee was dismissed, they had a formal and solemn leave-taking with the Jerusalem Church, possibly accompanied by religious services and even an escort for part of the way. They formally delivered the epistle to the church authorities, ensuring that there was a sense of order and communication between the different communities. It is important to maintain a balance between lawful governance and the liberty that the people deserve, without driving them away from common doctrine. In this way, the message of the epistle reached the multitude who had gathered together in Antioch.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.27782183437325,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.83,
+            "commentatorTierSimilarities": [
+                34.52,
+                34.99,
+                30.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the committee was dismissed, they had a formal and solemn leave-taking with the Jerusalem Church, possibly accompanied by religious services and an escort for part of the way. They formally delivered the epistle to the church authorities, ensuring communication and order. It is important to maintain a balance between lawful governance and the liberty that the people deserve, without driving them away from common doctrine. In this way, the message of the epistle reached the multitude who had gathered in Antioch.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.301875412463785,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.63,
+            "commentatorTierSimilarities": [
+                35.99,
+                34.73,
+                29.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When they were dismissed, the committee had a formal leave-taking with the Jerusalem Church. It is possible that there were religious services held during this time and perhaps even an escort for part of the way. They explicitly delivered the epistle to the church authorities, emphasizing the importance of communication and order. It is crucial to strike a balance between lawful governance and the freedom the people deserve, so as not to alienate them from common doctrine. Ultimately, the message of the epistle reached the gathered multitude in Antioch.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.2875512423957023,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.15,
+            "commentatorTierSimilarities": [
+                37.55,
+                34.88,
+                27.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When they were dismissed, the committee had a formal leave-taking with the Jerusalem Church, possibly involving religious services and an escort. They delivered the epistle to the church authorities, ensuring communication and order. It is important to balance lawful governance and the people's liberty, without alienating them from common doctrine. In Antioch, the message of the epistle reached the gathered multitude, further emphasizing the importance of fraternally communicating and upholding Christian order.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.2687355103002003,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.53,
+            "commentatorTierSimilarities": [
+                36.31,
+                35.32,
+                28.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the committee was dismissed, they had a formal and solemn leave-taking with the Jerusalem Church, possibly accompanied by religious services and an escort for part of the way. They formally delivered the epistle to the church authorities, ensuring communication and order. It is important to maintain a balance between lawful governance and the liberty that the people deserve, without driving them away from common doctrine. In this way, the message of the epistle reached the multitude who had gathered together in Antioch.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.3085681241416012,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.85,
+            "commentatorTierSimilarities": [
+                35.56,
+                34.78,
+                29.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

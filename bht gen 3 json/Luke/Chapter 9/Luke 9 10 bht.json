@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:17:14",
+    "verseRef": "Luke 9:10",
+    "bestBHT": {
+        "bht": "Upon arriving in Bethsaida, Jesus and his disciples faced a challenge, as there were two places with the same name. One was Bethsaida Julias, located on the Jordan, while the other was simply known as Bethsaida. Although it is unclear how these accounts were compiled, Jesus attentively listened to all the disciples had declared and healed those in need. Bethsaida Julias is specifically identified as the territory of Philip. Afterwards, Jesus took his disciples aside privately to a deserted place near Bethsaida, offering them rest and refreshment from their labors.",
+        "wordCount": 90,
+        "quoteTokenProportion": 48.48,
+        "qualityScore": 1.2377244104768577,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.5,
+        "commentatorTierSimilarities": [
+            50.4,
+            0.0,
+            49.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A great difficulty also attends the mention of Bethsaida here.",
+            "But there were two places of this name:\u2014another Bethsaida (Julias) lay at the top of the lake, on the Jordan.",
+            "How any of these accounts could have been compiled with a knowledge of the others, I cannot imagine."
+        ],
+        "Marvin Vincent": [
+            "Declared [\u03b4\u03b9\u03b7\u03b3\u03b7\u03c3\u03b1\u03bd\u03c4\u03bf] . Related everything throughout [\u03b4\u03b9\u03b1] .",
+            "Bethsaida. Peculiar to Luke. It means Fishing-place.",
+            "Healed [\u03b9\u03b1\u03c4\u03bf] them that had need of healing [\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03b9\u03b1\u03c2] ."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus listened to it all.",
+            "They did.",
+            "Bethsaida Julias is the territory of Philip."
+        ],
+        "John Gill": [
+            "And the apostles, when they were returned, told him all they had done...",
+            "...he took them and went aside privately; into a desert place belonging to the city called Bethsaida...",
+            "Hither Christ went with his disciples, that they might be retired and alone, and have some refreshment and rest from their labours..."
+        ],
+        "John Wesley": [
+            "Mark 6:30."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus and his disciples went to Bethsaida, they encountered a great difficulty because there were two places with the same name. One was Bethsaida Julias, located at the top of the lake on the Jordan, while the other was simply called Bethsaida, meaning Fishing-place. It is unclear how the accounts of these two places could have been compiled with knowledge of each other. Nevertheless, Jesus listened to everything the disciples declared to him and healed those who were in need of healing. Bethsaida Julias is specifically mentioned as the territory of Philip. After the disciples returned from their journey, Jesus took them aside privately to a desert place belonging to the city of Bethsaida, where they could find rest and refreshment from their labors. This event is also recorded in Mark 6:30.",
+            "wordCount": 133,
+            "quoteTokenProportion": 49.44,
+            "qualityScore": 1.194447095899919,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.06,
+            "commentatorTierSimilarities": [
+                46.83,
+                0.0,
+                53.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus and his disciples arrived in Bethsaida, they faced a challenge because there were two places with the same name. One was Bethsaida Julias, situated on the Jordan, while the other was known simply as Bethsaida, meaning Fishing-place. It is unknown how these accounts were compiled, given their knowledge of each other. Despite this difficulty, Jesus attentively listened to everything the disciples reported and healed those in need of healing. The city of Bethsaida Julias is specifically mentioned as the territory of Philip. After their return, Jesus took his disciples away privately to a deserted place near Bethsaida for rest and refreshment from their labor. This event is also mentioned in Mark 6:30.",
+            "wordCount": 114,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 1.1534434841301096,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.7,
+            "commentatorTierSimilarities": [
+                46.99,
+                0.0,
+                53.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon arriving in Bethsaida, Jesus and his disciples faced a challenge, as there were two places with the same name. One was Bethsaida Julias, located on the Jordan, while the other was simply known as Bethsaida. Although it is unclear how these accounts were compiled, Jesus attentively listened to all the disciples had declared and healed those in need. Bethsaida Julias is specifically identified as the territory of Philip. Afterwards, Jesus took his disciples aside privately to a deserted place near Bethsaida, offering them rest and refreshment from their labors.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.2377244104768577,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.5,
+            "commentatorTierSimilarities": [
+                50.4,
+                0.0,
+                49.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Arriving in Bethsaida, Jesus and his disciples confronted a confusion with two locations bearing the same name: Bethsaida Julias and Bethsaida, the latter meaning Fishing-place. The compilation of these accounts, given their knowledge of each other, remains a mystery. Nevertheless, Jesus listened intently to the disciples' declarations and healed those in need. Bethsaida Julias is specifically mentioned as Philip's territory. Following their return, Jesus privately took the disciples to a secluded area near Bethsaida for rest and rejuvenation from their labor. This event is also recorded in Mark 6:30.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.1284836221824963,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.87,
+            "commentatorTierSimilarities": [
+                41.18,
+                0.0,
+                58.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Arriving at Bethsaida, Jesus and his disciples encountered a challenge due to the existence of two places with the same name. One was Bethsaida Julias, while the other was simply Bethsaida, meaning Fishing-place. It is unclear how these accounts were compiled with knowledge of each other. Nonetheless, Jesus attentively listened to the disciples, healing those in need. Bethsaida Julias is specifically mentioned as Philip's territory. After their return, Jesus took them privately to a deserted place near Bethsaida for rest and refreshment from their labor, as also described in Mark 6:30.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.1865117932224407,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.8,
+            "commentatorTierSimilarities": [
+                52.8,
+                0.0,
+                47.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

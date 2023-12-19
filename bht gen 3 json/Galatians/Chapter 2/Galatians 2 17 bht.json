@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:15:09",
+    "verseRef": "Galatians 2:17",
+    "bestBHT": {
+        "bht": "When we seek to be justified in Christ, we acknowledge our need for Him and become conscious of our sin. Yet, claiming that Christ is a minister of sin because of this is a blasphemy. By abandoning the law and embracing faith in Christ, Peter exemplified the truth that justification is not by works but by faith alone. Just as Gentiles discovered their sinfulness when brought close to Christ, Jews too realized their sinfulness despite their heritage. Christ did not bring sin; He exposed it and removed the false disguise of the law.",
+        "wordCount": 93,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 2.4652054377254053,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.31,
+        "commentatorTierSimilarities": [
+            34.07,
+            27.67,
+            38.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But if, seeking (put first for emphasis\u2014in the course of our earnest endeavour) to be justified in Christ...we ourselves also (you and I, addressed to Peter) were found [to be] sinners...",
+            "is not Christ a minister of sin...has done all his work only to minister to a state of sin?",
+            "If our having left the law and become attached to Christ, expecting by our faith in Him to gain righteousness, is to be accounted transgression, the guilt will lie on our Master Christ Himself: for He it was who proposed to us the new covenant."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But if, seeking to be justified IN (that is, in believing union with) Christ...is therefore Christ, the minister of sin?\" ",
+            "The Christian mind revolts from so shocking a conclusion, and so, from the theory which would result in it.\" ",
+            "The whole sin lies, not with Christ, but with him who would necessitate such a blasphemous inference."
+        ],
+        "Albert Barnes": [
+            "If now it shall turn out that you are sinners; that your lives are not holy; that you are free from the wholesome restraint of the Law, and are given up to lives of sin, will it not follow that Christ is the cause of it; that he taught it; and that the system which he introduced is responsible for it?",
+            "Is it a fair and legitimate conclusion that this is the tendency of the gospel? Is it to be charged on him, and on the plan of justification through him, that a lax morality prevails, and that people are freed from the wholesome restraints of law?",
+            "This is not the proper effect of the gospel of Christ, and of the doctrine of justification by faith. The system is not suited to produce such a freedom from restraint, and if such a freedom exists, it is to be traced to something else than the gospel."
+        ],
+        "Marvin Vincent": [
+            "To seek to be justified by Christ is an admission that there is no justification by works; that the seeker is unjustified, and therefore a sinner. The effort to attain justification by faith in Christ develops the consciousness of sin.\" ",
+            "The question is not whether Christ is in general a minister of sin, but whether he is such in the case supposed. Paul does not assume that this false inference has been drawn by Peter or the other Jewish Christians.",
+            "Peter, by his Christian profession, had asserted that justification was by faith alone; and by his eating with Gentiles had declared that the Mosaic law was no longer binding upon him. He had thus, figuratively, destroyed or pulled down the Jewish law as a standard of Christian faith and conduct."
+        ],
+        "John Calvin": [
+            "Christ did not bring sin, but unveiled it; he did not take away righteousness, but stripped the Jews of a false disguise.",
+            "...by this absurd proposition, Paul insinuates a charge of blasphemy against those who attribute a part of justification to the law.",
+            "The grace of Christ places them on a level with the Gentiles; and the remedy, which is common to both, shows that both had labored under the same disease."
+        ],
+        "Philip Schaff": [
+            "Were found, discovered, in the eyes of God and men, at the time of our conversion to Christ and our justification by faith in him.",
+            "Sinners in the Jewish sense, i.e., lawless heathen, as in Galatians 2:15.",
+            "'Let it never be!' or 'Far be it;' 'By no means;' 'Away with the thought;' 'Nay, verily.'"
+        ],
+        "Archibald T. Robertson": [
+            "Like the Gentiles, Jews who thought they were not sinners, when brought close to Christ, found that they were.\" ",
+            "We were sinners already in spite of being Jews. Christ simply revealed to us our sin.\" ",
+            "God forbid. May it not happen."
+        ],
+        "John Gill": [
+            "We should be so, were we not to rest here, but seek to join our own works with Christ's righteousness for our justification, and so make Christ the minister of sin.",
+            "If so, Christ must be the minister of sin, for he has directed and taught us so to do; but God forbid that any such thing should be said of him.",
+            "This is an objection of the adversary to the doctrine of free justification by the righteousness of Christ, as if it made void the law, discouraged the performance of good works, opened a door to licentiousness."
+        ],
+        "John Wesley": [
+            "If we continue in sin, will it therefore follow, that Christ is the minister or countenancer of sin?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When we seek to be justified in Christ, we come to the realization that there is no justification in our works and we are in fact sinners. Yet, this does not make Christ a minister of sin, as some may assume. The Christian mind rejects such a blasphemous inference. Rather, by seeking justification in Christ, we acknowledge our need for Him and become conscious of our sin. Peter himself had affirmed this truth by abandoning the law and embracing faith in Christ. Just as Gentiles discovered their sinfulness when brought close to Christ, Jews too realized their own sinfulness despite their heritage. May such a thought never occur - for Christ did not bring sin, but exposed it, and He certainly did not take away righteousness, but rather removed the false disguise of the law.",
+            "wordCount": 134,
+            "quoteTokenProportion": 46.59,
+            "qualityScore": 2.3791091655529266,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.45,
+            "commentatorTierSimilarities": [
+                35.34,
+                28.1,
+                36.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When we seek to be justified in Christ, we acknowledge our need for Him and become conscious of our sin. Yet, claiming that Christ is a minister of sin because of this is a blasphemy. By abandoning the law and embracing faith in Christ, Peter exemplified the truth that justification is not by works but by faith alone. Just as Gentiles discovered their sinfulness when brought close to Christ, Jews too realized their sinfulness despite their heritage. Christ did not bring sin; He exposed it and removed the false disguise of the law.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.4652054377254053,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.31,
+            "commentatorTierSimilarities": [
+                34.07,
+                27.67,
+                38.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By seeking to be justified in Christ, we recognize that our works cannot bring justification, acknowledging our own sinfulness. However, it is incorrect to claim that Christ is a minister of sin because of this. Peter himself affirmed this truth by abandoning the law and embracing faith in Christ. Like Gentiles, Jews came to the realization that they were sinners when confronted with Christ. Christ did not introduce sin; He exposed it and eliminated the false pretenses of the law.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.423365529610355,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.92,
+            "commentatorTierSimilarities": [
+                34.72,
+                27.49,
+                37.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When we seek to be justified in Christ, we come to the realization that there is no justification in our works and we are in fact sinners. Yet, this does not make Christ a minister of sin, as some may assume. The Christian mind rejects such a blasphemous inference. Rather, by seeking justification in Christ, we acknowledge our need for Him and become conscious of our sin. Peter himself had affirmed this truth by abandoning the law and embracing faith in Christ. Just as Gentiles discovered their sinfulness when brought close to Christ, Jews too realized their own sinfulness despite their heritage. May such a thought never occur - for Christ did not bring sin, but exposed it, and He certainly did not take away righteousness, but rather removed the false disguise of the law.",
+            "wordCount": 134,
+            "quoteTokenProportion": 46.59,
+            "qualityScore": 2.3791091655529266,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.45,
+            "commentatorTierSimilarities": [
+                35.34,
+                28.1,
+                36.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we seek to be justified in Christ, we acknowledge our need for Him and become conscious of our sin. Yet, claiming that Christ is a minister of sin because of this is a blasphemy. By abandoning the law and embracing faith in Christ, Peter exemplified the truth that justification is not by works but by faith alone. Just as Gentiles discovered their sinfulness when brought close to Christ, Jews too realized their sinfulness despite their heritage. Christ did not bring sin; He exposed it and removed the false disguise of the law.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.4652054377254053,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.31,
+            "commentatorTierSimilarities": [
+                34.07,
+                27.67,
+                38.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

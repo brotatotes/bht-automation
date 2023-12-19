@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:36:19",
+    "verseRef": "Acts 25:18",
+    "bestBHT": {
+        "bht": "Festus, the Roman governor, expected that the accusations against Paul would involve serious crimes punishable by civil law. He presumed that the Jews would accuse Paul of flagrant violations and breaches of the peace. However, to his surprise, the charges brought against Paul were not as severe as he had anticipated. Festus found no concrete evidence of sedition or disloyalty to Caesar, only vague rumors. This emphasizes the need to discern true godliness based on faith, as preaching alone is insufficient without the inward touch of the Spirit of God.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.6955670133012704,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+        "commentatorTierSimilarities": [
+            19.97,
+            57.01,
+            23.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18. Round about whom] See ver. 7: the A.V., \u2018against whom,\u2019 is wrong."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "18. as I supposed\u2014\"suspected\"\u2014crimes",
+            "\tpunishable by civil law."
+        ],
+        "Albert Barnes": [
+            "No charge as I expected of a breach of the peace; of a violation of the Roman law; of atrocious crime.",
+            "It was natural that Festus should suppose that they would accuse Paul of some such offence.",
+            "All this, Festus would presume, must have arisen from some flagrant and open violation of the laws."
+        ],
+        "Marvin Vincent": [
+            "Stood up [\u03c3\u03c4\u03b1\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2] . See on Luke 18:11; Luke 19:8."
+        ],
+        "John Calvin": [
+            "We must hold fast that mark whereby we may discern the one from the other, that there is no godliness but that which is grounded in the knowledge of faith, lest we grope in darkness.",
+            "This was a lamentable case, that a man being an unbeliever and idolater, sits as judge amidst the Jews, to give judgment of the sacred oracles of God according to his ignorance.",
+            "Whereby we see how little preaching avails, yea, that it avails nothing at all, unless the Spirit of God do inwardly touch the hearts of men."
+        ],
+        "Philip Schaff": [
+            "The intenseness of feeling with which the Jews pressed Festus in the matter of the trial and condemnation of Paul...",
+            "...he found as regarded sedition or disloyalty to the C\u00e6sar nothing but the vaguest rumours...",
+            "Festus, like another and still more eminent Roman official who appears in this history, \u2018cared for none of these things\u2019 (Acts 18:17)."
+        ],
+        "Archibald T. Robertson": [
+            "Of such evil things as I supposed (\u03c9\u03bd \u03b5\u03b3\u03c9 \u03c5\u03c0\u03b5\u03bd\u03bf\u03bf\u03c5\u03bd \u03c0\u03bf\u03bd\u03b7\u03c1\u03c9\u03bd). Incorporation of the antecedent \u03c0\u03bf\u03bd\u03b7\u03c1\u03c9\u03bd into the relative clause and change of the case of the relative from the accusative \u03b1 object of \u03c5\u03c0\u03b5\u03bd\u03bf\u03bf\u03c5\u03bd to the genitive like \u03c0\u03bf\u03bd\u03b7\u03c1\u03c9\u03bd.\" ",
+            "Note the imperfect active \u03c5\u03c0\u03b5\u03bd\u03bf\u03bf\u03c5\u03bd of \u03c5\u03c0\u03bf\u03bd\u03bf\u03b5\u03c9 to emphasize Festus's state of mind about Paul before the trial.\" ",
+            "This old verb only three times in the N.T. (here, Acts 13:25 which see; Acts 27:27)."
+        ],
+        "John Gill": [
+            "They brought none accusation of such things as I supposed.",
+            "By his being left in bonds, and by the information of the chief priests and elders, and their violence against him, he imagined he must be chargeable with some notorious capital crime.",
+            "He imagined he must be chargeable with some notorious capital crime."
+        ],
+        "John Wesley": [
+            "Such things as I supposed \u2014 From their passion and vehemence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Festus, the Roman governor, expected that the accusations against Paul would involve serious crimes punishable by civil law. He presumed that the Jews would accuse Paul of flagrant violations and breaches of the peace, leading to a trial filled with intense emotions. However, to his surprise, the charges brought against Paul were not as severe as he had anticipated. Festus was faced with vague rumors and no concrete evidence of sedition or disloyalty to Caesar. This highlights the importance of discerning true godliness, grounded in the knowledge of faith, and the inadequacy of preaching unless it is accompanied by the inward touch of the Spirit of God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.658443272402427,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
+            "commentatorTierSimilarities": [
+                19.61,
+                57.09,
+                23.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Festus, the Roman governor, expected that the accusations against Paul would involve serious crimes punishable by civil law. He presumed that the Jews would accuse Paul of flagrant violations and breaches of the peace. However, to his surprise, the charges brought against Paul were not as severe as he had anticipated. Festus found no concrete evidence of sedition or disloyalty to Caesar, only vague rumors. This emphasizes the need to discern true godliness based on faith, as preaching alone is insufficient without the inward touch of the Spirit of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.6955670133012704,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+            "commentatorTierSimilarities": [
+                19.97,
+                57.01,
+                23.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Festus, the Roman governor, expected the accusations against Paul to be serious crimes punishable by civil law. He thought the Jews would press charges of flagrant violations and breaches of the peace. However, to his surprise, the charges brought against Paul were not as severe as he had presumed. Festus found no concrete evidence of sedition or disloyalty to Caesar, only vague rumors. This highlights the importance of discerning true godliness based on the knowledge of faith, as preaching alone is insufficient without the inward touch of the Spirit of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.6535123640235514,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                19.36,
+                56.44,
+                24.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Festus, the Roman governor, expected the accusations against Paul to involve serious crimes punishable by civil law. However, the charges brought against Paul were not as severe as anticipated. Festus found no concrete evidence of sedition or disloyalty to Caesar, only vague rumors. This underscores the importance of discerning true godliness grounded in the knowledge of faith and emphasizes that preaching alone is insufficient without the inward touch of the Spirit of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6280801307914339,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.48,
+            "commentatorTierSimilarities": [
+                23.7,
+                56.43,
+                19.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Festus, the Roman governor, anticipated that the accusations against Paul would involve serious crimes punishable by civil law. However, the charges turned out to be less severe than he had presumed. Festus found no evidence of sedition or disloyalty to Caesar, only vague rumors. This highlights the need for discerning true godliness grounded in the knowledge of faith and emphasizes that preaching alone is insufficient without the inward touch of the Spirit of God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6106738007494037,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                20.78,
+                55.24,
+                23.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

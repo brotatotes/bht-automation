@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:23:52",
+    "verseRef": "Luke 24:4",
+    "bestBHT": {
+        "bht": "The women were perplexed when the angels suddenly appeared to them in bright and dazzling garments. This was unexpected, as they had not anticipated a resurrection. The angels, who took the form of men, stood close and demonstrated their glory through their gleaming attire, resembling lightning. These celestial beings had previously disappeared when Mary had seen them earlier at the sepulchre, but they made a reappearance to bring comfort and deliver the news of Christ's resurrection.",
+        "wordCount": 77,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.68529614000066,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+        "commentatorTierSimilarities": [
+            24.42,
+            33.95,
+            41.63
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The narrative does not... determine the position of the angels.",
+            "It says merely that they came upon them, or that they appeared to them.",
+            "The Evangelist does not mean that they were such, as clearly appears from what follows."
+        ],
+        "Marvin Vincent": [
+            "Shining [\u03b1\u03c3\u03c4\u03c1\u03b1\u03c0\u03c4\u03bf\u03c5\u03c3\u03b1\u03b9\u03c2] . Only here and ch. 17 24. Akin to ajstraph, lightning. See on bright shining, ch. 11 36; and compare ch. 17 24."
+        ],
+        "Philip Schaff": [
+            "Perplexed thereabout. A natural state of mind, even if they had some hope of His rising, for now He seemed lost to them.",
+            "Two men. This was the form of the angelic appearance.",
+            "In shining garments. The word used implies that the brilliancy was like that of lightning."
+        ],
+        "Archibald T. Robertson": [
+            "While they were perplexed thereabout (\u03b5\u03bd \u03c4\u03c9 \u03b1\u03c0\u03bf\u03c1\u03b5\u03b9\u03c3\u03b8\u03b1 \u03b1\u03c5\u03c4\u03b1\u03c2 \u03c0\u03b5\u03c1 \u03c4\u03bf\u03c5\u03c4\u03bf\u03c5). Luke's common Hebraistic idiom, \u03b5\u03bd with the articular infinitive (present passive \u03b1\u03c0\u03bf\u03c1\u03b5\u03b9\u03c3\u03b8\u03b1 from \u03b1\u03c0\u03bf\u03c1\u03b5\u03c9, to lose one's way) and the accusative of general reference.",
+            "Stood by (\u03b5\u03c0\u03b5\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd). Second aorist active indicative of \u03b5\u03c6\u03b9\u03c3\u03c4\u03b7\u03bc. This common verb usually means to step up suddenly, to burst upon one.",
+            "In dazzling apparel (\u03b5\u03bd \u03b5\u03c3\u03b8\u03b7\u03c4 \u03b1\u03c3\u03c4\u03c1\u03b1\u03c0\u03c4\u03bf\u03c5\u03c3\u03b7). This is the correct text. This common simplex verb occurs only twice in the N.T., here and Luke 17:24 (the Transfiguration). It has the same root as \u03b1\u03c3\u03c4\u03c1\u03b1\u03c0\u03b7 (lightning). The 'men' had the garments of 'angels'."
+        ],
+        "John Gill": [
+            "For they had no thought, nor expectation of a resurrection.",
+            "They were risen up, and stood close by them, on a sudden, at an unawares, being arrayed in white raiment.",
+            "Their garments were bright and glittering like lightning, to set forth the glory and majesty of these celestial spirits."
+        ],
+        "John Wesley": [
+            "Behold two \u2014 Angels in the form of men.",
+            "Mary had seen them a little before.",
+            "They had disappeared on these women's coming to the sepulchre, but now appeared again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The women were perplexed when the angels suddenly appeared to them in bright and dazzling garments. This was unexpected, as they had not anticipated a resurrection. The angels, who took the form of men, stood close and demonstrated their glory through their gleaming attire, resembling lightning. These celestial beings had previously disappeared when Mary had seen them earlier at the sepulchre, but they made a reappearance to bring comfort and deliver the news of Christ's resurrection.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.68529614000066,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+            "commentatorTierSimilarities": [
+                24.42,
+                33.95,
+                41.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The women were in a state of confusion as the angels abruptly appeared to them in radiant garments resembling lightning. These celestial beings, who took the form of men, stood near them to display their majestic presence. It was unexpected for the women, who did not anticipate the resurrection. The angels had vanished when Mary had seen them earlier, but now they reappeared to bring solace and deliver the news of Christ's resurrection.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.636538412806948,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.76,
+            "commentatorTierSimilarities": [
+                22.97,
+                35.05,
+                41.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Perplexed, the women beheld the sudden appearance of angels in shining garments, as bright as lightning. These celestial beings took on the form of men and stood close by, radiating their majestic glory. Unforeseen and unexpected, the women had no thought or expectation of a resurrection. It is noteworthy that these angels had disappeared when Mary saw them earlier, yet now they reappeared to bring comfort and deliver the astounding news of Christ's resurrection.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6284923144934138,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                23.19,
+                34.17,
+                42.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Perplexed and bewildered, the women were taken aback by the sudden appearance of angels in gleaming garments, shining like lightning. These celestial beings, disguised as men, stood near the women to exhibit their awe-inspiring majesty. Unanticipated and unforeseen, the resurrection had not crossed their minds. It is worth noting that the angels had vanished after Mary had seen them earlier, only to reappear now and provide solace while delivering the astonishing news of Christ's resurrection.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.589928480460295,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.21,
+            "commentatorTierSimilarities": [
+                23.46,
+                33.26,
+                43.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The women were caught off guard as the angels appeared to them in dazzling garments that shone like lightning. These heavenly beings, appearing as men, stood nearby in all their majestic glory. The resurrection had not been on the women's minds, thus leaving them perplexed. Interestingly, the angels had vanished after Mary had seen them previously, but now they emerged once again to bring comfort and announce the astounding news of Christ's resurrection.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.62279142398254,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.3,
+            "commentatorTierSimilarities": [
+                22.85,
+                34.63,
+                42.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:21:58",
+    "verseRef": "Colossians 4:7",
+    "bestBHT": {
+        "bht": "Tychicus, mentioned in Acts, Ephesians, 2 Timothy, and Titus, is a beloved brother and faithful minister in the Lord. He is a fellow servant of Jesus Christ and has shared in the service to Paul. Even while Paul is in prison, he continues to advance the gospel and care for the churches, demonstrating his unwavering commitment to Christ. Tychicus' example serves as a reminder for us to imitate his pursuit of spreading the gospel and faithfully serving the Lord.",
+        "wordCount": 78,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.6892866458734743,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+        "commentatorTierSimilarities": [
+            31.79,
+            39.1,
+            29.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "7. Tychicus\u2014(See on :-). ",
+            "\t",
+            "who is a beloved",
+            "\tbrother\u2014rather, \"the beloved brother\"; the article",
+            "\t\"the\" marks him as well known to them."
+        ],
+        "Marvin Vincent": [
+            "Tychicus. Mentioned Acts 20:4; Ephesians 6:21; 2 Timothy 4:12; Titus 3:12.",
+            "Minister [\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03bf\u03c2] . Probably to Paul himself. Compare Acts 19:22; Acts 20:4. Scarcely in the official sense of deacon.",
+            "Fellow-servant [\u03c3\u03c5\u03bd\u03b4\u03bf\u03c5\u03bb\u03bf\u03c2] . Used by Paul only here and ch.1 7, of Epaphras. By this term he designates Tychicus as, in common with himself, a servant of Jesus Christ. Probably not with a strict, but with a quasi official reference."
+        ],
+        "John Calvin": [
+            "It is no small matter that, while he is held prisoner, and is in the most imminent danger on account of the gospel, he, nevertheless, does not cease to employ himself in advancing the gospel, and takes care of all the Churches.",
+            "Thus, the body, indeed, is under confinement, but the mind, anxious to employ itself in everything good, roams far and wide.",
+            "Let us carefully meditate on these examples, that they may stir us up to all imitation of the like pursuit."
+        ],
+        "Philip Schaff": [
+            "Fellow-servant. This is peculiar to this passage; it gives prominence to the fact that Tychicus had shared with the Apostle in the service of the same Master.",
+            "Bishop Lightfoot calls attention to the word \u2018fellow-servant,\u2019 as a customary form of address in the early Church on the part of a bishop, when speaking of a deacon.",
+            "In the Lord qualifies both the preceding terms (\u2018brother\u2019 needs no such qualification)."
+        ],
+        "Archibald T. Robertson": [
+            "All the things relating to me.",
+            "The beloved brother and faithful minister in the Lord.",
+            "Faithful to Paul as well as to Christ."
+        ],
+        "John Gill": [
+            "He was in prison at Rome, for the sake of the Gospel, which he continued to abide by, and held fast the profession of, not being in the least moved and intimidated by what he suffered, being supported by the presence of Christ, and the discoveries of his love.",
+            "The inward man was renewed day by day.",
+            "Though he had not equal abilities and qualifications, and was not in the same high post and office as an apostle of Jesus Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Tychicus, the beloved brother and faithful minister in the Lord, is a familiar figure among the believers. He is mentioned in various letters and is known for his service and dedication to Paul. Tychicus is not only a fellow servant, but someone who shares in the same mission and purpose as Paul. Despite Paul's imprisonment, he continues to advance the gospel and care for the churches. This example should inspire us to follow in their footsteps and be unwavering in our commitment to the Lord and his work.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.5195151652057635,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                31.7,
+                38.11,
+                30.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Tychicus, the beloved brother and faithful minister in the Lord, is a well-known figure among the believers. He is described as a fellow servant, someone who shares in the same mission as Paul, and is faithful to both Paul and Christ. Despite Paul's imprisonment, Tychicus remains committed to advancing the gospel and caring for the churches. His dedication serves as an example for us to follow, encouraging us to be unwavering in our commitment to the Lord and his work.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.5986706070022125,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+            "commentatorTierSimilarities": [
+                33.12,
+                38.15,
+                28.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Tychicus, mentioned in Acts, Ephesians, 2 Timothy, and Titus, is a beloved brother and faithful minister in the Lord. He is a fellow servant of Jesus Christ and has shared in the service to Paul. Even while Paul is in prison, he continues to advance the gospel and care for the churches, demonstrating his unwavering commitment to Christ. Tychicus' example serves as a reminder for us to imitate his pursuit of spreading the gospel and faithfully serving the Lord.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.6892866458734743,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+            "commentatorTierSimilarities": [
+                31.79,
+                39.1,
+                29.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Tychicus, a beloved and faithful minister in the Lord, is a well-known figure among believers. He is mentioned in Acts, Ephesians, 2 Timothy, and Titus as a fellow servant and someone who shared in the service to Paul. Despite Paul's imprisonment, Tychicus remains dedicated to advancing the gospel and caring for the churches. His commitment to both Paul and Christ serves as a powerful example for us to follow in spreading the good news and faithfully serving the Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.6522543649877124,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.28,
+            "commentatorTierSimilarities": [
+                33.03,
+                39.7,
+                27.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Tychicus, the beloved brother and faithful minister in the Lord, is well-known among believers. Mentioned in Acts, Ephesians, 2 Timothy, and Titus, Tychicus is a fellow servant of Jesus Christ who shares in the same mission as Paul. Despite Paul's imprisonment, Tychicus continues to advance the gospel and care for the churches. His commitment to Christ and Paul's example inspire us to faithfully serve the Lord and be unwavering in our dedication to spreading the gospel.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.6667777950610847,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.76,
+            "commentatorTierSimilarities": [
+                34.13,
+                37.84,
+                28.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

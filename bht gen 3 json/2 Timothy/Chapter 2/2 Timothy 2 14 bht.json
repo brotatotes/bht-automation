@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:30:45",
+    "verseRef": "2 Timothy 2:14",
+    "bestBHT": {
+        "bht": "Remind them of these things, adjuring them before the Lord not to contend about words that are useful for no purpose and practiced to the ruin of those who hear. Strive not in words that are profitable for nothing, for they work subversion of the hearers. Instead, charge them before the Lord to focus on what is truly beneficial and avoid engaging in disputes that only serve to overturn and subvert those who hear. Let us remember the importance of speaking words that bring profit and edify, and avoid unnecessary and hurtful contentions.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 2.1095622196296286,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+        "commentatorTierSimilarities": [
+            31.86,
+            27.95,
+            40.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These things (those which have just preceded, vv. 8\u201313) call to their minds, adjuring them before the Lord not to contend about words...\" (20 words)",
+            "(a thing) useful for no purpose...\" (6 words)",
+            "...practised) to the ruin of them that hear.\" (9 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "strive with words\": \"not to have a (mere) war of words\" (2 Timothy 2:23; 2 Timothy 2:24; 1 Timothy 6:4) where the most vital matters are at stake (2 Timothy 2:17; 2 Timothy 2:18; Acts 18:15).",
+            "Strive not thou in words,\" c. to no profit\u2014not qualifying \"words\" but Greek neuter, in apposition with \"strive in words,\" \"(a thing tending) to no profit,\" literally, \"profitable for nothing\"; the opposite of \"meet for the master's use\" (Acts 18:15).",
+            "sure to subvert (overturn) the hearers: the opposite of 'edifying' (building up) (2 Corinthians 13:10)."
+        ],
+        "Albert Barnes": [
+            "Of these things put them in remembrance - These great principles in regard to the kingdom of Christ.",
+            "Charging them before the Lord - In the presence of the Lord, implying that it was a very important matter.",
+            "But to the subverting of the hearers - Turning them away from the simplicity of faith."
+        ],
+        "Marvin Vincent": [
+            "Charging [\u03b4\u03b9\u03b1\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . In Paul only 1 Thessalonians 4:6. Very frequent in Acts... The sense is rather conjuring them by their loyalty to God.",
+            "To no profit (ejp' ouJuden crhsimon). Lit. to nothing useful. Ep' ouJuden, o P. He uses eijv kenon to no purpose... Unprofitable because it works subversion of the hearers.",
+            "In LXX of the destruction or overthrow of men or cities. Katastrefein to overturn, Matthew 21:12; Mark 11:15; Acts 14:16, cit. Paul uses kaqairesiv pulling down, 2 Corinthians 10:4, 2 Corinthians 10:8; 2 Corinthians 13:10."
+        ],
+        "John Calvin": [
+            "The expression (\u03c4\u03b1\u1fe6\u03c4\u03b1) these things, is highly emphatic. It means that the summary of the gospel which he gave, and the exhortations which he added to it, are of so great importance, that a good minister ought never to be weary of exhibiting them.",
+            "A good teacher ought to look at nothing else than edification, and to give his whole attention to that alone.",
+            "Away with all speculations, therefore, which produce no edification!"
+        ],
+        "Philip Schaff": [
+            "Put them in remembrance, charging them before the Lord; strive not about words.",
+            "But to the subverting... useful for nothing.",
+            "Working for the ruin of them that hear."
+        ],
+        "Archibald T. Robertson": [
+            "A mere war of words displeases Paul.\" ",
+            "Useful.",
+            "Such war of words merely upsets the hearers."
+        ],
+        "John Gill": [
+            "To remind them of the above sayings might be of use and comfort to them.",
+            "They strive not about words... not to the subverting of the hearers.",
+            "Words... that were to no profit; to no advantage to truth, nor to themselves nor others; were not to edification... but to the subverting of the hearers."
+        ],
+        "John Wesley": [
+            "Remind them \u2014 Who are under thy charge. O how many unnecessary things are thus unprofitably, nay hurtfully, contended for."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Remind them of these things, charging them before the Lord not to contend about words that are useless and only serve to ruin those who hear. Striving in a mere war of words is not profitable or edifying, but sure to overturn and subvert the hearers. Instead, focus on what is truly useful and beneficial for building up others. A good teacher ought to prioritize edification and discard any speculations or arguments that do not contribute to it. Let us remember the importance of speaking words that bring profit and edify, and avoid engaging in pointless disputes that only lead to the destruction of those who hear.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.9411106229037993,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                31.86,
+                25.87,
+                42.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Remind them of these things, charging them before the Lord not to contend about words that are useless and only serve to ruin those who hear. Striving in a mere war of words is not profitable or edifying, but sure to overturn and subvert the hearers. Instead, focus on what is truly useful and beneficial for building up others. Avoid engaging in pointless disputes that only lead to the destruction of those who hear.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.9711078457344389,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                33.24,
+                28.16,
+                38.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Remind them of these things, adjuring them before the Lord not to contend about words that are useful for no purpose and practiced to the ruin of those who hear. Strive not in words that are profitable for nothing, for they work subversion of the hearers. Instead, charge them before the Lord to focus on what is truly beneficial and avoid engaging in disputes that only serve to overturn and subvert those who hear. Let us remember the importance of speaking words that bring profit and edify, and avoid unnecessary and hurtful contentions.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.1095622196296286,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+            "commentatorTierSimilarities": [
+                31.86,
+                27.95,
+                40.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Remind them before the Lord not to contend about words, for such a war of words is unprofitable and only upsets the hearers. Striving in meaningless argumentation leads to the subversion and ruin of those who listen. Instead, focus on what is truly useful and beneficial for building up others. Charge them to avoid engaging in fruitless disputes that bring no advantage to truth, themselves, or others. Let us prioritize edification and forsake unnecessary and harmful contentions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7724788545342913,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.28,
+            "commentatorTierSimilarities": [
+                29.69,
+                26.03,
+                44.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Remind them before the Lord not to contend about words, for such a war of words is unprofitable and only upsets the hearers. Striving in meaningless argumentation leads to the subversion and ruin of those who listen. Instead, focus on what is truly useful and beneficial for building up others. Charge them to avoid engaging in fruitless disputes that bring no advantage to truth or edify those who hear. May we remember to prioritize edification and forsake unnecessary and harmful contentions.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8209943787217044,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                29.95,
+                26.76,
+                43.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

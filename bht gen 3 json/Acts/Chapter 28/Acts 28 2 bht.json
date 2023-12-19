@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:37:38",
+    "verseRef": "Acts 28:2",
+    "bestBHT": {
+        "bht": "The barbarians of Malta, perceived as natives by the Greeks, went above and beyond to show kindness and extend their hospitality to the shipwrecked individuals. Despite the language barrier, they welcomed everyone, providing them with a much-needed fire to warm themselves. The generosity exhibited by these uncultivated inhabitants demonstrates that true compassion and humanity hold more value than the surface-level refinement that comes with education.",
+        "wordCount": 67,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.8588442497540263,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+        "commentatorTierSimilarities": [
+            25.53,
+            30.83,
+            43.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The term [barbarians] implies very much what our word natives does, when speaking of any little-known or new place.\" ",
+            "They were not Greek colonists, therefore they were barbarians.\" ",
+            "The cold. This is decisive against the Sirocco, which is a hot and sultry wind, even so late as the month of November, and moreover seldom lasts more than three days."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They were originally Phoelignician colonists.",
+            "showed us no little...kindness, for they kindled a fire, and received us every one.",
+            "welcomed us all, drenched and shivering, to these most seasonable marks of friendship."
+        ],
+        "Albert Barnes": [
+            "The Greeks regarded all as barbarians who did not speak their language, and applied the name to all other nations but their own.",
+            "The island is supposed to have been populated at first by the Phoecians, afterward by the Phoenicians, and afterward by a colony from Carthage.",
+            "The exposure to the water in getting to the shore, and probably to the coldness of the weather. It was now in the month of October."
+        ],
+        "Marvin Vincent": [
+            "No common kindness."
+        ],
+        "Philip Schaff": [
+            "No common kindness' would be a more correct translation.",
+            "The example of Heathens in such matters has often been a rebuke to Christians.",
+            "The natives of the island welcomed these cold and shipwrecked people to their company and to the warmth of the fire."
+        ],
+        "Archibald T. Robertson": [
+            "The Greeks called all men 'barbarians' who did not speak Greek.",
+            "They were not 'wreckers' to take advantage of the calamity.",
+            "They took us all to themselves."
+        ],
+        "John Gill": [
+            "The inhabitants could not understand their language, they understood their case, and were very civil and humane to them, and showed them extraordinary kindness\" ",
+            "A large fire it must be to be of service to such a number of people, in such a condition as they were\" ",
+            "Nothing was more needful and more agreeable to them than a large fire"
+        ],
+        "John Wesley": [
+            "And the generosity shown by these uncultivated inhabitants of Malta was far more valuable than all the varnish which the politest education could give.",
+            "Surely the politest education could teach not humanity and compassion.",
+            "The barbarians' generosity was more valuable than the varnish of the politest education."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The residents of the island, considered barbarians by the Greeks because they did not speak Greek, showed an extraordinary level of kindness and hospitality to the shipwrecked and cold travelers. Despite the language barrier, they welcomed everyone and provided a much-needed fire to warm the shivering survivors. This act of compassion from the uncultivated inhabitants of Malta spoke volumes about their character, showing that genuine kindness and humanity can surpass the formalities of education and culture. Truly, their generosity far outweighed anything that the politest education could offer.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.8205852910866929,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.88,
+            "commentatorTierSimilarities": [
+                25.85,
+                28.86,
+                45.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The barbarians of Malta, who were not Greek colonists and hence considered outsiders by the Greeks, demonstrated remarkable kindness and hospitality towards the stranded travelers. Despite the language barrier, they warmly received everyone, providing them with a much-needed fire to combat the cold. This generous act of compassion from the uncultivated inhabitants proved that genuine kindness and humanity are more valuable than formal education. The residents of Malta showed that their generosity surpassed the superficial polish of the most refined education.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.7991029512561754,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                26.07,
+                27.98,
+                45.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The barbarians of Malta, perceived as natives by the Greeks, went above and beyond to show kindness and extend their hospitality to the shipwrecked individuals. Despite the language barrier, they welcomed everyone, providing them with a much-needed fire to warm themselves. The generosity exhibited by these uncultivated inhabitants demonstrates that true compassion and humanity hold more value than the surface-level refinement that comes with education.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.8588442497540263,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                25.53,
+                30.83,
+                43.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The barbarians of Malta, who were not Greek colonists, showed remarkable kindness and hospitality towards the stranded travelers, regardless of the language barrier. They warmly received everyone and kindled a fire to provide warmth to the cold and shivering survivors. The uncultivated inhabitants of Malta exemplified true compassion and humanity through their extraordinary acts of kindness, proving that genuine generosity surpasses the varnish of formal education. Their selfless actions served as a rebuke to those who prioritize politeness over empathy.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.8096730687202687,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                28.59,
+                30.69,
+                40.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite being considered barbarians by the Greeks, the inhabitants of Malta, who were originally Phoenician colonists, displayed exceptional kindness and generosity towards the shipwrecked individuals. Despite the language barrier, they welcomed and received the survivors, offering them warmth by kindling a fire. Their hospitality and compassion were far more valuable than the mere veneer of formal education, showcasing that true acts of humanity surpass cultural and linguistic differences. This example of the island's natives served as a rebuke to Christians, reminding them of the importance of genuine kindness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 1.813067766202801,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+            "commentatorTierSimilarities": [
+                26.8,
+                33.28,
+                39.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

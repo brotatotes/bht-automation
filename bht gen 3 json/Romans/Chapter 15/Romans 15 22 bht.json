@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:10:25",
+    "verseRef": "Romans 15:22",
+    "bestBHT": {
+        "bht": "The apostle Paul confesses that his overwhelming commitment to preaching the Gospel in various places had caused a continuous series of hindrances, making it impossible for him to visit the Romans as he desired. His extensive missionary work, aimed at introducing the Gospel to regions where it had not yet been proclaimed, was the primary reason for his hindrance. Despite his deep longing to come to them, he remained devoted to the important task of spreading the Good News to those who had not yet heard it.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.9504590390925585,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.19,
+        "commentatorTierSimilarities": [
+            24.57,
+            36.47,
+            38.96
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For which cause,\u2014not, because a foundation had been already laid at Rome by another: this would refer to merely a secondary part of the foregoing assertion.\" ",
+            "the expression refers to the primary, viz. his having been so earnestly engaged in preaching elsewhere.\" ",
+            "these many times: not, \u2018for the most part,\u2019\u2014or, \u2018the greater number of times,\u2019 which would suggest the idea that there had been other occasions on which this hindrance had not been operative."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "22. For which cause\u2014\"Being",
+            "\tso long occupied with this missionary work, I have been much (or,",
+            "\t'for the most part') hindered,\" &amp;c. (See on :-.)"
+        ],
+        "Albert Barnes": [
+            "For which cause - I have been so entirely occupied in this leading purpose of my life, that I have not been able to come to you.",
+            "Much hindered - Many ways; not many times. I had so frequent and urgent demands on my time elsewhere, that I could not come to you.",
+            "From coming to you - Where the gospel 'has been' preached. I have desired to come, but have been unable to leave the vast region where I might preach the gospel to those who had never heard it."
+        ],
+        "Marvin Vincent": [
+            "I have been hindered [\u03b5\u03bd\u03b5\u03ba\u03bf\u03c0\u03c4\u03bf\u03bc\u03b7\u03bd] . Imperfect tense, denoting continuousness, and implying a succession of hindrances. Rev., was hindered. Hence these many times."
+        ],
+        "John Calvin": [
+            "In propagating the gospel from Judea as far as to Illyricum, he performed, as it were, a certain course enjoined him by the Lord.",
+            "He now gives them a hope, as soon as his calling allowed him.",
+            "Paul\u2019s journey to Spain was unknown to [Origen ] and [Eusebius ]; nor does it comport with the records connected with him."
+        ],
+        "Philip Schaff": [
+            "Because of this aim of wide missionary activity, not because a church had already been formed at Rome.",
+            "The rendering we adopt refers to the principal (though not the only) cause of his not visiting them; the other to the frequency of the hindering."
+        ],
+        "Archibald T. Robertson": [
+            "I was hindered (\u03b5\u03bd\u03b5\u03ba\u03bf\u03c0\u03c4\u03bf\u03bc\u03b7\u03bd). Imperfect passive (repetition) of \u03b5\u03bd\u03ba\u03bf\u03c0\u03c4\u03c9, late verb, to cut in, to cut off, to interrupt.",
+            "These many times (\u03c4\u03b1 \u03c0\u03bf\u03bb\u03bb\u03b1). 'As to the many things.' In Romans 1:13 Paul used \u03c0\u03bf\u03bb\u03bb\u03b1\u03ba\u03b9\u03c2 (many times) and B D read it here.",
+            "But Paul's work (\u03c4\u03b1 \u03c0\u03bf\u03bb\u03bb\u03b1) had kept him away."
+        ],
+        "John Gill": [
+            "By reason of being employed for so many years, in preaching the Gospel from Jerusalem, round about to Illyricum; taking so large a compass to minister in, and striving to introduce, propagate, and spread the Gospel, where Christ was never named before.",
+            "I have been much hindered from coming to you; or he had been often, and by many ways, and upon many accounts, hindered from coming to them.",
+            "The frequent calls to different and distant places, and the great work of preaching the Gospel in those dark parts of the world, and settling churches there, which was upon his hands, prevented his giving them a visit at Rome, which he much and often desired."
+        ],
+        "John Wesley": [
+            "Therefore I have been long hindered from coming to you \u2014 Among whom Christ had been named."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the primary reason that he had been earnestly engaged in preaching elsewhere, the apostle Paul explains that he has been hindered from coming to the Romans. This hindrance was not occasional or sporadic, but continuous. The multitude of hindrances prevented Paul from being able to visit them, as he desired. His extensive missionary work, encompassing a vast region and aiming to introduce the Gospel where it had not been proclaimed before, was the main cause of his inability to come to them. Despite his desire to come, he has been occupied with the important task of spreading the Gospel to those who had not yet heard it.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9067541023200119,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                28.22,
+                34.84,
+                36.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Due to the apostle Paul's unwavering commitment to preaching the Gospel in various places, he encountered numerous hindrances that prevented him from visiting the Romans. These hindrances were not occasional, but continuous, resulting in his inability to fulfill his desire to come to them. His extensive missionary work in regions where the Gospel had not yet been declared was the primary cause of his hindrance. Despite his longing to visit them, he dedicated himself to reaching those who had not heard the Gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9405015304150819,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+            "commentatorTierSimilarities": [
+                25.28,
+                36.54,
+                38.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul explains that his inability to come to the Romans was primarily due to his earnest engagement in preaching elsewhere, which caused continuous hindrances. These hindrances prevented him from visiting them as he desired. His extensive missionary work, aiming to introduce the Gospel in regions where it had not been proclaimed before, was the main cause of his hindrance. Despite his longing to visit them, he remained occupied with the crucial task of spreading the Gospel to those who had not yet heard it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.8936435037204777,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "commentatorTierSimilarities": [
+                26.36,
+                36.77,
+                36.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul confesses that his overwhelming commitment to preaching the Gospel in various places had caused a continuous series of hindrances, making it impossible for him to visit the Romans as he desired. His extensive missionary work, aimed at introducing the Gospel to regions where it had not yet been proclaimed, was the primary reason for his hindrance. Despite his deep longing to come to them, he remained devoted to the important task of spreading the Good News to those who had not yet heard it.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9504590390925585,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.19,
+            "commentatorTierSimilarities": [
+                24.57,
+                36.47,
+                38.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul explains that his continuous engagement in preaching elsewhere has hindered him from coming to the Romans, recounting the multitude of hindrances he has faced. While desiring to visit them, his extensive missionary work in regions where the Gospel had not yet been proclaimed took precedence. Paul's commitment to spreading the Good News to those who had not heard it caused these hindrances, preventing him from fulfilling his desire to visit the Romans. Despite his longing, he remained steadfast in his mission to introduce the Gospel to new territories.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8996349452414258,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.5,
+            "commentatorTierSimilarities": [
+                26.23,
+                33.94,
+                39.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:18:52",
+    "verseRef": "Luke 12:19",
+    "bestBHT": {
+        "bht": "The man depicted here epitomizes the Epicurean mindset by addressing his soul and insatiably desiring to enjoy his possessions. His impulsive urge, displayed through the absence of conjunctions, demonstrates his eagerness to revel in a life of ease and pleasure. Tragically, he disregards the transient nature of his wealth and presumptuously places his trust in worldly abundance as a means of shielding himself from the inevitability of death. Succumbing to the fallacy that material riches can bring lasting contentment, he fails to comprehend the uncertainty of life and the futility of pursuing fleeting sensual gratification.",
+        "wordCount": 95,
+        "quoteTokenProportion": 23.88,
+        "qualityScore": 1.50759395744497,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.47,
+        "commentatorTierSimilarities": [
+            21.94,
+            38.28,
+            39.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Much goods - Much property. Enough to last a long while, so that there is no need of anxiety or labor.",
+            "Take thine ease - Be free from care about the future. Have no anxiety about coming to want.",
+            "Eat, drink, and be merry - This was just the doctrine of the ancient Epicureans and atheists, and it is, alas! too often the doctrine of those who are rich."
+        ],
+        "Marvin Vincent": [
+            "Soul [\u03c8\u03c5\u03c7\u03b7] . See on Mark 12:30. ",
+            "Take thine ease. See on Matthew 11:28."
+        ],
+        "John Calvin": [
+            "He no longer remembers that he is a man, but swells into pride by relying on his abundance.",
+            "We daily perceive striking instances of this disdainful conduct in irreligious men, who hold up the mass of their riches, as if it were nothing less than a brazen rampart against death.",
+            "He addresses himself in such a manner as to imply, that he has all that is necessary for gratifying all his senses and all his desires."
+        ],
+        "Philip Schaff": [
+            "He thought that his many goods could satisfy his \u2018soul;\u2019 degrading it to the level of materialism.",
+            "His wealth had disquieted him; he would now make it the basis of rest.",
+            "But idleness will not satisfy him; he must begin to revel, to have occupation."
+        ],
+        "Archibald T. Robertson": [
+            "The man's apostrophe to his 'soul' is thoroughly Epicurean, for his soul feeds on his goods.",
+            "The asyndeton here shows his eagerness.",
+            "Note difference in tenses, first and last presents, the other two aorists."
+        ],
+        "John Gill": [
+            "He foolishly promises himself a long life, when no man can boast of tomorrow, or knows what a day will bring forth.",
+            "Riches are uncertain things, and make themselves wings and fly away.",
+            "Put away the evil day far from thee: never trouble thyself about a future state, tomorrow shall be as this day, and much more abundantly; and thou hast enough to make thyself happy, and let nothing disturb thee, and give a loose to all sensual pleasures, and carnal joys."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man in this verse speaks to his soul in a way that reflects an Epicurean mindset, valuing his material possessions above all else. The use of the asyndeton highlights his eagerness to take his ease and indulge in a life of idleness and pleasure. However, this mindset is flawed, as his wealth cannot truly satisfy his soul. Rather than realizing the uncertainty of riches and the fleeting nature of life, he arrogantly relies on his abundance to shield him from death. Ultimately, he fails to recognize that tomorrow is not guaranteed, and that true happiness cannot be found in material wealth or self-indulgence.",
+            "wordCount": 105,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.5253536302985604,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.06,
+            "commentatorTierSimilarities": [
+                23.48,
+                38.74,
+                37.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man in this passage mirrors the Epicurean belief of finding contentment in material possessions. His eagerness to live at ease and his asyndeton highlights his desire for a life of indulgence and pleasure. He forgets the uncertainty of riches and arrogantly relies on his abundance to shield him from death. However, he fails to realize that life is unpredictable, and true happiness cannot be found in material wealth or self-indulgence.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.5054581137543386,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.4,
+            "commentatorTierSimilarities": [
+                20.38,
+                39.32,
+                40.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man in this scenario exemplifies the Epicurean notion of finding satisfaction in worldly possessions. His haste and omission of conjunctions expose his eagerness to luxuriate in a life of idleness and pleasure. However, he fails to acknowledge the fleeting nature of material wealth and arrogantly relies on his abundance to protect him from death. Regrettably, he overlooks the unpredictability of life and overlooks the fact that genuine happiness cannot be derived from worldly riches or self-gratification.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.468068213863043,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.16,
+            "commentatorTierSimilarities": [
+                20.65,
+                39.6,
+                39.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man depicted here epitomizes the Epicurean mindset by addressing his soul and insatiably desiring to enjoy his possessions. His impulsive urge, displayed through the absence of conjunctions, demonstrates his eagerness to revel in a life of ease and pleasure. Tragically, he disregards the transient nature of his wealth and presumptuously places his trust in worldly abundance as a means of shielding himself from the inevitability of death. Succumbing to the fallacy that material riches can bring lasting contentment, he fails to comprehend the uncertainty of life and the futility of pursuing fleeting sensual gratification.",
+            "wordCount": 95,
+            "quoteTokenProportion": 23.88,
+            "qualityScore": 1.50759395744497,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.47,
+            "commentatorTierSimilarities": [
+                21.94,
+                38.28,
+                39.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man epitomizes the Epicurean belief, addressing his soul and eagerly desiring to indulge in his possessions. His absence of conjunctions reveals his impulsive eagerness for a life of ease and pleasure. Unfortunately, he overlooks the transience of wealth and trusts in his abundance to shield him from death. Ignorant of life's uncertainty, he fails to realize that true contentment cannot be found in material riches or fleeting pleasures.",
+            "wordCount": 70,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.4931609592186559,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.99,
+            "commentatorTierSimilarities": [
+                20.8,
+                38.29,
+                40.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

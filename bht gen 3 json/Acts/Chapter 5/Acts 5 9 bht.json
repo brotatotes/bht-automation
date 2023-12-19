@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:26:49",
+    "verseRef": "Acts 5:9",
+    "bestBHT": {
+        "bht": "The actions of Ananias and Sapphira were a deliberate scheme to deceive God and test the omniscience of the Holy Spirit. Peter characterizes their sin as a preconcerted plan, highlighting the seriousness of their offense. The three-hour interval between Ananias' death and Sapphira's arrival allowed for burial preparations, further emphasizing the gravity of their actions. The footsteps of the young men returning from the burial, heard at the door, create a chilling and graphic scene. This deceitful agreement between husband and wife questioned the authenticity and power of the Holy Spirit, bordering on the unpardonable sin.",
+        "wordCount": 98,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.8162924251821169,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+        "commentatorTierSimilarities": [
+            35.41,
+            35.02,
+            29.57
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To try the omniscience of the Spirit then visibly dwelling in the Apostles and the church, was, in the highest sense, to tempt the Spirit of God.",
+            "Peter characterizes the sin more solemnly this second time, because by the wife\u2019s answer it was now proved to be no individual lie of a bad and covetous man, but a preconcerted scheme to deceive God.",
+            "The space of three hours was not too long: they would have to carry the corpse to the burying-ground at a considerable distance from the city, and when there, to dig a grave, and bury it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To tempt the Spirit\u2014try whether they could escape detection by that omniscient Spirit of whose supernatural presence with the apostles they had had such full evidence.\" ",
+            "Feet of them that buried thy husband are at the door\u2014How awfully graphic!"
+        ],
+        "Albert Barnes": [
+            "It was important that sudden and exemplary punishment should follow it, because the society of Christians was just then organized, and it was designed that it should be a 'pure' society, and should be regarded as a body of holy men.",
+            "Well did the Saviour know that hypocrisy would be one of the most insidious and deadly foes to the purity of the church; and at its very 'threshold,' therefore, he set up this solemn warning to guard it.",
+            "If they enter and are destroyed, they cannot plead that they were not fully warned. If they practice iniquity 'in' the church, they cannot plead ignorance of the fact that God intends to detect and punish them."
+        ],
+        "Marvin Vincent": [
+            "Your souls were attuned to each other respecting this deceit.\" ",
+            "To put it to the proof whether the Holy Spirit, ruling in the apostles, could be deceived.\" ",
+            "The steps of the young men returning from the burial are heard at the door."
+        ],
+        "John Calvin": [
+            "They did mock God unreverently and contemptibly.",
+            "They had cunningly packed their fraud, as if the Spirit of God were not the knower of the hearts.",
+            "God is tempted either when his power is taken from him, or the knowledge of all things is denied him."
+        ],
+        "Philip Schaff": [
+            "How is it that ye have agreed together to tempt the Spirit of the Lord?",
+            "It was as though they wished to test the omniscience of the Holy Spirit.",
+            "The apostle\u2019s words told the whole story to the unhappy woman. In a moment she saw the Spirit who ruled in that Church could not be mocked. It was all real and true."
+        ],
+        "Archibald T. Robertson": [
+            "Your souls were allured together respecting this deceit.",
+            "It was close to the unpardonable sin which was attributing the manifest work of the Holy Spirit to Beelzebub.",
+            "Graphic picture by Peter as he heard the steps of the young men at the door."
+        ],
+        "John Gill": [
+            "For husband and wife to agree together in what is good, in things civil, honest, and lawful, and in religious matters, is very commendable; but to agree in a fraud, in a lie, is very dreadful.",
+            "To tempt the Spirit of the Lord; to try whether the apostles had the Spirit of the Lord, or not; and whether the Spirit of the Lord that was in them was omniscient and omnipotent, would take any notice of it, and inflict punishment for it.",
+            "Which Peter knew either by hearing the sound of their feet, as Ahijah the prophet heard the sound of the feet of Jeroboam's wife, as she came in at the door, 1 Kings 14:6 or by the same spirit as Elisha knew that Gehazi ran after Naaman, and received money and garments from him, 2 Kings 5:26 and shall carry thee out; of this house dead, and bury thee, as they have thy husband."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The actions of Ananias and Sapphira in Acts 5:9 were not simply a lie or deceit, but a deliberate scheme to deceive God and test the omniscience of the Holy Spirit. Peter's description of their sin as a preconcerted plan reveals the seriousness of their offense. The three-hour interval between Ananias' death and Sapphira's arrival allowed for the burial preparations, further emphasizing the gravity of their actions. The footsteps of the young men returning from the burial, described by Peter, added a chilling and graphic element to the scene. This deceitful agreement between husband and wife called into question the authenticity and power of the Holy Spirit, coming dangerously close to the unpardonable sin. The punishment that swiftly followed this act of hypocrisy was necessary to maintain the purity and holiness of the early Christian community.",
+            "wordCount": 138,
+            "quoteTokenProportion": 24.72,
+            "qualityScore": 1.7865020658340844,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                33.02,
+                38.17,
+                28.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The actions of Ananias and Sapphira were not just a lie, but a deliberate scheme to deceive God and test the omniscience of the Holy Spirit. The seriousness of their offense is emphasized by Peter's description of their sin as a preconcerted plan. The three-hour interval between Ananias' death and Sapphira's arrival allows for burial preparations, adding to the gravity of their actions. The footsteps of the young men returning from the burial, heard at the door, create a chilling and graphic scene. This deceitful agreement between husband and wife called into question the authenticity and power of the Holy Spirit, bordering on the unpardonable sin. The swift punishment that followed was important to maintain the purity of the early Christian community.",
+            "wordCount": 125,
+            "quoteTokenProportion": 28.05,
+            "qualityScore": 1.7639865054317685,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.99,
+            "commentatorTierSimilarities": [
+                33.82,
+                37.7,
+                28.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The actions of Ananias and Sapphira were not just a lie, but a deliberate scheme to deceive God and test the omniscience of the Holy Spirit. The seriousness of their offense is emphasized by Peter's description of their sin as a preconcerted plan. The three-hour interval between Ananias' death and Sapphira's arrival allows for burial preparations, highlighting the gravity of their actions. The footsteps of the young men returning from the burial, heard at the door, create a chilling and graphic scene. This deceitful agreement between husband and wife called into question the authenticity and power of the Holy Spirit, bordering on the unpardonable sin.",
+            "wordCount": 108,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 1.8024121242096942,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                34.92,
+                35.08,
+                30.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The actions of Ananias and Sapphira were a deliberate scheme to deceive God and test the omniscience of the Holy Spirit. Peter characterizes their sin as a preconcerted plan, highlighting the seriousness of their offense. The three-hour interval between Ananias' death and Sapphira's arrival allowed for burial preparations, further emphasizing the gravity of their actions. The footsteps of the young men returning from the burial, heard at the door, create a chilling and graphic scene. This deceitful agreement between husband and wife questioned the authenticity and power of the Holy Spirit, bordering on the unpardonable sin.",
+            "wordCount": 98,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.8162924251821169,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                35.41,
+                35.02,
+                29.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The actions of Ananias and Sapphira revealed a deliberate scheme to deceive God and test the omniscience of the Holy Spirit. Peter's solemn description of their sin as a preconcerted plan highlighted the severity of their offense. The three-hour interval allowed for burial preparations, emphasizing the seriousness of their actions. The sound of the young men's footsteps at the door added a chilling and graphic element to the scene. Their deceitful agreement called into question the authenticity and power of the Holy Spirit, approaching the unpardonable sin.",
+            "wordCount": 90,
+            "quoteTokenProportion": 18.97,
+            "qualityScore": 1.7553902274034527,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.71,
+            "commentatorTierSimilarities": [
+                34.93,
+                36.03,
+                29.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

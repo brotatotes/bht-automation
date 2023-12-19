@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:22:04",
+    "verseRef": "Luke 19:47",
+    "bestBHT": {
+        "bht": "Jesus was sought after daily as He taught in the temple. The leaders of Jerusalem were determined to destroy Him, but their wicked conspiracy was ultimately frustrated by the secret purpose of God. This reflects the folly of the cross, where God chooses what is foolish, weak, and despised, surpassing the excellence of the world. The chief priests, Scribes, and chief people sought to put Christ to death, revealing their wicked impiety.",
+        "wordCount": 72,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 1.4754556093444724,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.4,
+        "commentatorTierSimilarities": [
+            20.53,
+            36.18,
+            43.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "47. sought\u2014continued seeking,",
+            "\tthat is, daily, as He taught."
+        ],
+        "Albert Barnes": [
+            "Daily in the temple - That is, for five or six days before his crucifixion."
+        ],
+        "John Calvin": [
+            "Now this is a part of the folly of the cross, that God, passing by the excellence of the world, chooses what is foolish, weak, and despised.",
+            "Secondly, they relate that those worthy guardians of the Church of God sought an occasion of putting Christ to death, by which their wicked impiety was discovered.",
+            "Thirdly, they show that the wicked conspiracy of those men was frustrated, because, by the secret purpose of God, Christ was appointed to the death of the cross."
+        ],
+        "Archibald T. Robertson": [
+            "He was teaching (\u03b7\u03bd \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03c9\u03bd). Periphrastic imperfect.",
+            "Sought (\u03b5\u03b6\u03b7\u03c4\u03bf\u03c5\u03bd). Imperfect active, conative imperfect, were seeking, trying to seek.",
+            "The lights and leaders of Jerusalem were bent on the destruction (\u03b1\u03c0\u03bf\u03bb\u03b5\u03c3\u03b1) of Jesus."
+        ],
+        "John Gill": [
+            "And he taught daily in the temple.",
+            "The chief priests, and the Scribes, and the chief of the people sought to destroy him.",
+            "Met and consulted together how to get him into their hands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse tells us that Jesus was sought after daily, as He continued to teach in the temple. The lights and leaders of Jerusalem were determined to destroy Him. This was part of the folly of the cross, where God chose what was foolish, weak, and despised, passing by the excellence of the world. In their wicked impiety, the chief priests, Scribes, and chief people sought to put Christ to death, but their conspiracy was ultimately frustrated by the secret purpose of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.4443153217164821,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+            "commentatorTierSimilarities": [
+                23.13,
+                35.42,
+                41.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus was sought after daily as He taught in the temple. The leaders of Jerusalem were determined to destroy Him, but their wicked conspiracy was ultimately frustrated by the secret purpose of God. This reflects the folly of the cross, where God chooses what is foolish, weak, and despised, surpassing the excellence of the world. The chief priests, Scribes, and chief people sought to put Christ to death, revealing their wicked impiety.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.4754556093444724,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.4,
+            "commentatorTierSimilarities": [
+                20.53,
+                36.18,
+                43.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Daily in the temple, Jesus was sought after by the lights and leaders of Jerusalem who were bent on His destruction. This reveals the folly of the cross, where God chooses what is foolish, weak, and despised, surpassing the excellence of the world. The wicked conspiracy of these men to put Christ to death was frustrated by the secret purpose of God.",
+            "wordCount": 62,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.440667650836184,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                17.03,
+                39.12,
+                43.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Continuing to teach daily in the temple, Jesus was sought after by the lights and leaders of Jerusalem who were determined to destroy Him. This reflects the folly of the cross, where God chooses what is foolish, weak, and despised, bypassing the excellence of the world. Their wicked conspiracy to put Christ to death was ultimately frustrated by the secret purpose of God.",
+            "wordCount": 63,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.405640085862227,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.08,
+            "commentatorTierSimilarities": [
+                17.79,
+                37.56,
+                44.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus was sought daily as He taught in the temple. The lights and leaders of Jerusalem were bent on His destruction. This reflects the folly of the cross, where God chooses what is foolish, weak, and despised, surpassing the excellence of the world. Their wicked conspiracy to put Christ to death was ultimately frustrated by the secret purpose of God.",
+            "wordCount": 60,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.4637899822043268,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.01,
+            "commentatorTierSimilarities": [
+                24.56,
+                35.93,
+                39.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:31:57",
+    "verseRef": "Acts 15:18",
+    "bestBHT": {
+        "bht": "God's knowledge and plan for His works are not constrained by time, as He has known them from the beginning. The inclusion of the Gentiles in His family is not a recent development, but part of His ancient purpose of grace. This fulfillment of His promises was foretold by the prophets, revealing that God's ways go beyond human comprehension. We must not underestimate or oppose His eternal decree, but rather trust in His wisdom and recognize that His judgments are beyond our understanding.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 2.0260890558798623,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.71,
+        "commentatorTierSimilarities": [
+            24.1,
+            39.9,
+            36.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The variation of reading here is remarkable.",
+            "The sense, and account of the text seem to be this:...",
+            "The addition has been made to fill up the apparently elliptical 'known from the beginning of the world,' which not being found in the passage of Amos, was regarded as a sentence by itself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Known unto God are all his works from the beginning.\" ",
+            "He who announced these things so long before, and He who had now brought them to pass, were one and the same.",
+            "They were no novelty."
+        ],
+        "Albert Barnes": [
+            "God sees everything future; he knows what he will accomplish; he has a plan; all his works are so arranged in his mind that he sees everything distinctly and clearly.",
+            "As he foretold these, it was a part of his plan; and as it was a part of his plan long since foretold, it should not be opposed and resisted by us."
+        ],
+        "Marvin Vincent": [
+            "The Lord, who maketh these things known from the beginning of the world.",
+            "Known unto God, etc.",
+            "The Lord, who maketh these things known."
+        ],
+        "John Calvin": [
+            "Therefore, his meaning is, that, seeing God speaketh by his prophet, he saw then, yea, from the very beginning, \u2212 (134) that neither uncircumcision nor anything else should let him, but that he would choose the Gentiles into his family.",
+            "Nevertheless, there is comprehended under this a general exhortation, that men do not take upon them to measure, with the small measure of their wit, the works of God, the reason whereof is oftentimes known to none but to himself.",
+            "Rather let them cry, being astonished, \u2212 (135) that his ways are past finding out, and that his judgments are too deep a depth."
+        ],
+        "Philip Schaff": [
+            "Known unto God are all his works from the beginning of the world.",
+            "What we now propose to sanction, namely, the extending the gospel summons to the heathen world without imposing upon them the hard yoke and burden of the Mosaic rites and ceremonial law, God has from the very beginning known.",
+            "It is no unexpected event; it is simply carrying into effect an eternal decree of the ever blessed Trinity."
+        ],
+        "Archibald T. Robertson": [
+            "His point is that this purpose of God, as set forth in Amos, is an old one.",
+            "God has an Israel outside of and beyond the Jewish race, whom he will make his true 'Israel'.",
+            "God's eternal purpose of grace includes all who call upon his name in every land and people."
+        ],
+        "John Gill": [
+            "Known unto God are all his works.... all the things which God does in the church and in the world, they were all foreknown and predetermined by him.\" ",
+            "...the work of the conversion of the Gentiles; this was fixed and resolved on by God in eternity; he knew it would be because he had determined it should be.",
+            "It should not be looked upon as some new and strange thing, that was never known, spoken or heard of."
+        ],
+        "John Wesley": [
+            "Known unto God are all his works from eternity.",
+            "And this conversion of the Gentiles being known to him from eternity, we ought not to think a new or strange thing.",
+            "This text, therefore, among a thousand more, is an unanswerable proof, that God foreknows future contingencies, though there are difficulties relating hereto which men cannot solve."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse emphasizes that God's knowledge of His works is not limited to time or bound by human understanding. His eternal purpose and plan have been known to Him from the beginning. The fulfillment of His promises, including the inclusion of the Gentiles in His family, is not a new or surprising occurrence. Rather, it is part of God's unchanging plan that He foretold through the prophets. This verse reminds us that God's ways are greater than our own and that we should trust in His wisdom, even when we cannot fully comprehend His judgments.",
+            "wordCount": 98,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.050661628133277,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                25.47,
+                38.84,
+                35.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's knowledge of His works is not limited to time; His eternal purpose has been known from the beginning. The fulfillment of His promises, including the inclusion of the Gentiles in His family, is part of His unchanging plan that He foretold through the prophets. It should not be seen as something new or surprising, but rather as part of God's predetermined decree. We must trust in His wisdom, even when we cannot fully comprehend His judgments.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.9663890418302636,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                23.36,
+                40.05,
+                36.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's eternal purpose and plan have been known to Him from the beginning. His knowledge of His works extends beyond time and human understanding. The fulfillment of His promises, including the inclusion of the Gentiles in His family, is not a new occurrence, but rather part of His unchanging plan. We should trust in His wisdom, even when we cannot fully comprehend His judgments.",
+            "wordCount": 65,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.9437576028896442,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.97,
+            "commentatorTierSimilarities": [
+                25.24,
+                39.27,
+                35.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's knowledge and plan for His works are not constrained by time, as He has known them from the beginning. The inclusion of the Gentiles in His family is not a recent development, but part of His ancient purpose of grace. This fulfillment of His promises was foretold by the prophets, revealing that God's ways go beyond human comprehension. We must not underestimate or oppose His eternal decree, but rather trust in His wisdom and recognize that His judgments are beyond our understanding.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.0260890558798623,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.71,
+            "commentatorTierSimilarities": [
+                24.1,
+                39.9,
+                36.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's knowledge of His works transcends time and human understanding. The inclusion of the Gentiles in His family is not a recent event but part of His ancient purpose. This fulfillment of His promises was foretold by the prophets, demonstrating the unchanging nature of God's plan. We must trust in His wisdom, even when we cannot fully comprehend His judgments, and recognize that His ways surpass our limited knowledge.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.935416904847913,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.69,
+            "commentatorTierSimilarities": [
+                25.62,
+                39.0,
+                35.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

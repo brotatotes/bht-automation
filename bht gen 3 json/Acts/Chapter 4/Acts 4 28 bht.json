@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:26:23",
+    "verseRef": "Acts 4:28",
+    "bestBHT": {
+        "bht": "God's hand and counsel determined the events that unfolded, rising above human sight. Despite the opposition and hostility faced by the early Christians, their struggles served a greater purpose in God's divine plan. Even though those who persecuted them intended harm, they were unwittingly carrying out God's predetermined will. The providence of God governs and guides all things, ensuring that His decrees are fulfilled. Thus, the death of Jesus was not a random act, but rather a necessary step orchestrated by God for His ultimate plan.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.57,
+        "qualityScore": 1.6244094488725445,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+        "commentatorTierSimilarities": [
+            19.02,
+            33.6,
+            47.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thy hand indicates the Power, thy counsel the Wisdom ot God.",
+            "The Wisdom decreed, the Hand performed.",
+            "To do [as they thought, their own counsel; but really] whatsoever Thy hand and Thy counsel determined."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "28. thy hand and thy counsel",
+            "\tdetermined . . . to be done\u2014that is, \"Thy counsel",
+            "\tdetermined to be done by \"Thy hand."
+        ],
+        "Albert Barnes": [
+            "The facts which are brought to view in these verses are among the most remarkable on record.",
+            "It is not proper here to enter into an examination of the causes of this opposition. We may state the outlines, however, in few words.",
+            "This religion cannot be destroyed; it will triumph; opposition to it is vain; it will make its way throughout the world."
+        ],
+        "Marvin Vincent": [
+            "Thy hand. Thy disposing power."
+        ],
+        "John Calvin": [
+            "God doth so govern and guide all things by his secret counsel, that he doth bring to pass those things which he hath determined, even by the wicked.",
+            "Let us learn here, by the way, that we must so consider the providence of God, that we know that it is the chief and only guider of all things which are done in the world.",
+            "That God hath appointed before that thing to be done which was done."
+        ],
+        "Philip Schaff": [
+            "The Lord\u2019s death was not the chance work of arbitrary hate, but, on the contrary, the necessary result of the Divine purpose, which must use man\u2019s free acts as its instrument.",
+            "They came together as enemies; but they were doing what Thou didst plan.",
+            "The Lord did not direct the hands of those raging ones against Himself, but He allowed them to be so directed; nor did He, by His foreknowledge of what would be done, oblige it to be done; nor did He require them to will these things; but He gave them power (so to will) if they pleased."
+        ],
+        "Archibald T. Robertson": [
+            "They rise above sight and seem to see the Hand which 'shapes men's ends, rough hew them how they will'\" (Furneaux).",
+            ""
+        ],
+        "John Gill": [
+            "By their gathering together, by their consultations and conspiracies, they brought about what God in his everlasting council had decreed.",
+            "God's decrees are from eternity; there is nothing comes to pass in time but what he has beforetime determined should be done.",
+            "Whatever was done to Christ, either by Jews or Gentiles, by Herod or Pontius Pilate, was according to the secret will of God."
+        ],
+        "John Wesley": [
+            "But they could do no more than thou wast pleased to permit, according to thy determinate counsel, to save mankind by the sufferings of thy Son.",
+            "And what was needful for this end, thou didst before determine to permit to be done."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's hand and counsel are the driving forces behind all things, even the actions and decisions of humanity. The opposition faced by the early Christians was not a coincidence, but rather the fulfillment of God's predetermined plan. Despite the hatred and hostility they faced, God used these events to accomplish His purpose. The death of Jesus was not a random act of aggression, but rather a necessary step in God's divine plan, utilizing the free actions of individuals. While these individuals may have intended harm, they were merely instruments in the hands of God. His providence governs and guides all things, ensuring that His decrees are ultimately fulfilled.",
+            "wordCount": 111,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.6198857295429163,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.2,
+            "commentatorTierSimilarities": [
+                18.42,
+                39.07,
+                42.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's hand and counsel determined the events that unfolded, rising above human sight. Despite the opposition and hostility faced by the early Christians, their struggles served a greater purpose in God's divine plan. Even though those who persecuted them intended harm, they were unwittingly carrying out God's predetermined will. The providence of God governs and guides all things, ensuring that His decrees are fulfilled. Thus, the death of Jesus was not a random act, but rather a necessary step orchestrated by God for His ultimate plan.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.6244094488725445,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                19.02,
+                33.6,
+                47.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The opposition faced by the early Christians was not a coincidence, but rather the fulfillment of God's predetermined plan. Despite the hatred they endured, God used these events to accomplish His purpose. The death of Jesus was not a random act, but a necessary step in God's plan, utilizing the free actions of individuals. While they may have intended harm, they were merely instruments in the hands of God. His providence governs all things, ensuring His decrees are fulfilled.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.5967681879798474,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.43,
+            "commentatorTierSimilarities": [
+                15.0,
+                41.7,
+                43.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The opposition faced by the early Christians was not happenstance; rather, it was part of God's predetermined plan. Even though those who persecuted them intended harm, they unknowingly carried out God's will. The death of Jesus was not a chance occurrence, but a necessary step orchestrated by God for His ultimate purpose. His providence governs and guides all things, ensuring that His decrees are fulfilled.",
+            "wordCount": 67,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5216914410575244,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.94,
+            "commentatorTierSimilarities": [
+                11.36,
+                40.38,
+                48.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The opposition encountered by the early Christians was not mere chance, but a fulfillment of God's predetermined plan. Despite the hostility faced, God utilized these events to achieve His purpose. The death of Jesus was not an arbitrary act of hatred, but a necessary step in God's divine plan, employing the free choices of individuals. Though their intentions were evil, they were unwittingly instruments in God's hands. His providence governs and guides all things, ensuring the fulfillment of His decrees.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.5901830420618976,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                14.63,
+                41.76,
+                43.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

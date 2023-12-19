@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:19:19",
+    "verseRef": "Luke 13:17",
+    "bestBHT": {
+        "bht": "The immediate effect of Jesus' power and irresistible words left the adversaries of the Kingdom of God in shame, as they were put to shame by the undeniable miracles. In contrast, all the people who witnessed the miracles rejoiced at these ongoing works continually being done by Jesus. The adversaries could not lift up their heads in shame, while the people who belonged to the Lord rejoiced at the miraculous works and knew the value of them.",
+        "wordCount": 77,
+        "quoteTokenProportion": 44.9,
+        "qualityScore": 1.5563265238170412,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+        "commentatorTierSimilarities": [
+            21.64,
+            40.09,
+            38.27
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So far am I from thinking a description of this kind to be a mere general close, put in by the Evangelist, that I would take it as an accurate and graphic account of the immediate effect of our Lord\u2019s power and irresistible words...\" ",
+            "...shewing the people the ultimate conquest which the Kingdom of God should obtain over all opposition, however strong.\" ",
+            "On the parables themselves, see on Matt. xiii. 31\u201333."
+        ],
+        "Albert Barnes": [
+            "Adversaries - The ruler of the synagogue, and those who felt as he did.",
+            "All the people - The persons who attended the synagogue, and who had witnessed the miracle. It is to be remarked:"
+        ],
+        "Marvin Vincent": [
+            "Were ashamed. Rev., more correctly, were put to shame. ",
+            "Glorious things. See on Matthew 11:10. ",
+            "Were done [\u03b3\u03b9\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9\u03c2] . Lit., are being done, denoting their being then in progress."
+        ],
+        "Philip Schaff": [
+            "All his adversaries. A number must have been present.",
+            "All the multitude rejoiced. This does not oppose the view that the miracle occurred in Perea, late in the ministry.",
+            "Were done by him. The original indicates continued working, which agrees with Matthew 18:2."
+        ],
+        "Archibald T. Robertson": [
+            "Were put to shame...to blush with shame at their predicament.\" ",
+            "Rejoiced...sharp contrast in the emotions of the two groups.\" ",
+            "Were done...were continually being done."
+        ],
+        "John Gill": [
+            "Shame appeared in their countenances; they could not lift up their heads, and look him in the face.",
+            "Some were filled with joy, and others with wrath, malice, and envy.",
+            "Not carnal and profane persons, or hypocrites, and formal professors, or Pharisees, and self-righteous persons rejoice at these things; but such as are the Lord's own people, who are openly his; who have passed under a work of the Spirit of God, who have seen their need of these things, and are sensible of the value of them; who know Christ, and love him, and believe in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The immediate effect of Jesus' power and irresistible words left the adversaries of the Kingdom of God in shame, as they were put to shame by the undeniable miracles. In contrast, all the people who witnessed the miracles rejoiced, highlighting the sharp contrast in emotions between the two groups. These miracles were not momentary events, but rather ongoing works that continued to be done by Jesus. The adversaries, which included the ruler of the synagogue and those who shared his sentiments, could not lift up their heads in shame, while the people who belonged to the Lord rejoiced at the miraculous works and knew the value of them.",
+            "wordCount": 108,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.4331920753089387,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.0,
+            "commentatorTierSimilarities": [
+                21.17,
+                42.65,
+                36.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The adversaries of the Kingdom of God were put to shame by the immediate effect of Jesus' power and irresistible words. In contrast, the people who witnessed the miracles rejoiced, demonstrating a sharp contrast in emotions. These ongoing works continually being done by Jesus left the adversaries unable to lift up their heads in shame, while the rejoicing of the Lord's own people highlighted their understanding of the value of these miraculous acts.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.491927310996696,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.95,
+            "commentatorTierSimilarities": [
+                27.18,
+                35.18,
+                37.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The adversaries of the Kingdom of God were put to shame by Jesus' power and words, while all the people rejoiced at the ongoing works being done. The shame that appeared on the countenances of the adversaries prevented them from looking Jesus in the face, while the Lord's own people, who knew and loved Him, rejoiced at these miraculous things. The sharp contrast in emotions between the two groups reveals the undeniable impact of Jesus' power and ministry.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.5123862485608563,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                24.45,
+                35.04,
+                40.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' power and irresistible words left the adversaries of the Kingdom of God in shame, unable to lift up their heads and look Him in the face. On the other hand, the people who witnessed the ongoing works being done by Jesus rejoiced, demonstrating their understanding of the value of these miraculous acts. This sharp contrast in emotions highlights the undeniable impact of Jesus' ministry, with shame and joy being the leading responses among those who encountered His power.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.4534423727027885,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.67,
+            "commentatorTierSimilarities": [
+                20.04,
+                35.89,
+                44.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The immediate effect of Jesus' power and irresistible words left the adversaries of the Kingdom of God in shame, as they were put to shame by the undeniable miracles. In contrast, all the people who witnessed the miracles rejoiced at these ongoing works continually being done by Jesus. The adversaries could not lift up their heads in shame, while the people who belonged to the Lord rejoiced at the miraculous works and knew the value of them.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.5563265238170412,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+            "commentatorTierSimilarities": [
+                21.64,
+                40.09,
+                38.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

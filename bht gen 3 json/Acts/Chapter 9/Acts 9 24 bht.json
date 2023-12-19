@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:28:45",
+    "verseRef": "Acts 9:24",
+    "bestBHT": {
+        "bht": "The governor, under Aretas the king, kept the city of Damascus with a garrison, desiring to apprehend Saul. The exasperated Jews, having obtained military force from the governor, were determined to destroy him. They watched the gates of the city day and night, waiting for an opportunity to kill him. Saul's life was in imminent danger, as he himself recounted the extent of his peril. It is likely that the Jews persuaded the governor to appoint some of them as guards at the gates.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.8519117167023438,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.92,
+        "commentatorTierSimilarities": [
+            26.6,
+            29.74,
+            43.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These facts, coupled with that of no Damascene coins of Caligula and Claudius existing (which might he fortuitous, but acquires force when thus combined), make it probable that about this time Damascus, which belonged to the predecessors of Aretas, was granted to Aretas by Caligula.",
+            "The other suppositions,\u2014that the Ethnarch was only visiting the city (as if he could then have guarded the city to prevent Paul\u2019s escape),\u2014or that Aretas had seized Damascus on Vitellius giving up the expedition against him (as if a Roman governor of a province would, while waiting for orders from a new emperor, quietly allow one of its chief cities to be taken from him),\u2014are in the highest degree improbable.",
+            "This would at once solve the difficulty."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The full extent of his danger appears only from his own account.\" ",
+            "In Damascus, the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me.\" ",
+            "The exasperated Jews having obtained from the governor a military force, the more surely to compass his destruction."
+        ],
+        "Albert Barnes": [
+            "But their laying await - Their counsel; their design.",
+            "And they watched the gates - Cities were surrounded by high walls, and of course the gates were presumed to be the only places of escape.",
+            "It is possible that the governor might have been a Jew, and one, therefore, who would enter into their views."
+        ],
+        "Marvin Vincent": [
+            "Laying await\" refers rather to the execution of the plot than to the plot itself.",
+            "Watched. See on Mark 3:2.",
+            "Imperfect: they were or kept watching, day and night."
+        ],
+        "Archibald T. Robertson": [
+            "Plot (\u03b5\u03c0\u03b9\u03b2\u03bf\u03c5\u03bb\u03b7). Old word for a plan (\u03b2\u03bf\u03c5\u03bb\u03b7) against (\u03b5\u03c0) one.\" ",
+            "They watched (\u03c0\u03b1\u03c1\u03b5\u03c4\u03b7\u03c1\u03bf\u03c5\u03bd\u03c4\u03bf). Imperfect middle indicative of \u03c0\u03b1\u03c1\u03b1\u03c4\u03b7\u03c1\u03b5\u03c9, common verb in late Greek for watching beside (\u03c0\u03b1\u03c1\u03b1) or insidiously or on the sly.",
+            "Probably the Jews obtained the consent of the Ethnarch and had him appoint some of them as guards or watchers at the gate of the city."
+        ],
+        "John Gill": [
+            "But their laying await was known of Saul.... and they watched the gates night and day to kill him.\" ",
+            "These all watched at the several gates of the city, night and day, that Saul might not make his escape.\" ",
+            "They might take him and put him to death."
+        ],
+        "John Wesley": [
+            "They guarded the gates day and night \u2014 That is, the governor did, at their request, 2 Corinthians 11:32."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The governor, under Aretas the king, kept the city of Damascus with a garrison, desiring to apprehend Saul. The exasperated Jews, having obtained military force from the governor, were determined to destroy him. They watched the gates of the city day and night, waiting for an opportunity to kill him. Saul's life was in imminent danger, as he himself recounted the extent of his peril. It is likely that the Jews persuaded the governor to appoint some of them as guards or watchers at the gates. Despite the constant surveillance and the careful plot against him, Saul remained vigilant, aware of their plan to capture him and put him to death.",
+            "wordCount": 112,
+            "quoteTokenProportion": 37.66,
+            "qualityScore": 1.7989474183495302,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                28.02,
+                28.27,
+                43.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The governor, under Aretas the king, kept the city of Damascus with a garrison, desiring to apprehend Saul. The exasperated Jews, having obtained military force from the governor, were determined to destroy him. They watched the gates of the city day and night, waiting for an opportunity to kill him. Saul's life was in imminent danger, as he himself recounted the extent of his peril. It is likely that the Jews persuaded the governor to appoint some of them as guards at the gates.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.8519117167023438,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.92,
+            "commentatorTierSimilarities": [
+                26.6,
+                29.74,
+                43.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The governor, under Aretas the king, kept the city of Damascus with a garrison, desiring to apprehend Saul. The exasperated Jews obtained military force from the governor to destroy him. They watched the gates day and night, waiting for an opportunity to kill him. Saul's life was in imminent danger, as he himself recounted. It is likely that the Jews persuaded the governor to appoint some of them as guards at the gates.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.823860471483516,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "commentatorTierSimilarities": [
+                26.17,
+                29.3,
+                44.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The governor of Damascus, under the rule of Aretas the king, maintained a garrison in the city with the intention of capturing Saul. The infuriated Jews, with the governor's support, were determined to bring about his demise. They tirelessly stood watch at the city gates day and night, eagerly anticipating an opportunity to murder him. Saul faced grave peril as he shared the harrowing extent of his predicament. It is plausible that the Jews convinced the governor to assign some of their own as gatekeepers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7020743649845733,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.94,
+            "commentatorTierSimilarities": [
+                28.36,
+                30.93,
+                40.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The governor of Damascus, under Aretas the king, maintained a garrison in the city with the intention of capturing Saul. The infuriated Jews, with the governor's support, were determined to bring about his demise. They tirelessly stood watch at the city gates day and night, eagerly anticipating an opportunity to murder him. Saul faced grave peril as he shared the harrowing extent of his predicament. It is plausible that the Jews convinced the governor to assign some of their own as gatekeepers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7020664132515781,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.94,
+            "commentatorTierSimilarities": [
+                28.15,
+                30.96,
+                40.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

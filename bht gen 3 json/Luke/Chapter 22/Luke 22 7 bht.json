@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:22:43",
+    "verseRef": "Luke 22:7",
+    "bestBHT": {
+        "bht": "The day of unleavened bread had arrived, indicating that it was time for the passover lamb to be slain. Jesus, in accordance with tradition, was crucified on Friday at the passover or Thursday, our time, at the regular hour of 6 PM. This fulfilled the passover observance and demonstrated his perfect fulfillment of its significance. The sacrifice of the passover lamb was not a deviation but a fitting completion of the Passover requirement.",
+        "wordCount": 72,
+        "quoteTokenProportion": 43.14,
+        "qualityScore": 2.208399437725925,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.77,
+        "commentatorTierSimilarities": [
+            39.79,
+            33.59,
+            26.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the day of unleavened bread\u2014strictly the fifteenth Nisan (part of our March and April) after the paschal lamb was killed; but here, the fourteenth (Thursday)."
+        ],
+        "Philip Schaff": [
+            "The passover (paschal lamb) must be sacrificed.",
+            "This expression does not favor the theory that our Lord celebrated the Passover a day earlier than the usual time.",
+            "See chronological note on Matthew 26:27."
+        ],
+        "Archibald T. Robertson": [
+            "The day itself came, not simply was drawing nigh.",
+            "The lamb must be slain by the head of the family.",
+            "Jesus was then crucified on Friday at the passover or Thursday (our time) at the regular hour 6 P.M. (beginning of Friday)."
+        ],
+        "John Gill": [
+            "Then came the day of unleavened bread.... when the passover must be killed.\" ",
+            "The passover lamb...was to be done between the two evenings."
+        ],
+        "John Wesley": [
+            "Matthew 26:17; Mark 14:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The day of unleavened bread had arrived, signaling the time for the passover lamb to be slain. It was not merely approaching, but had come. According to tradition, the lamb was to be sacrificed by the head of the family. Jesus, being crucified on Friday, fulfilled the passover on Thursday at the regular time of 6 PM. This was not a deviation from the usual observance, but rather a fitting fulfillment of the Passover.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.9424573873830822,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                41.61,
+                32.9,
+                25.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the day of unleavened bread arrived, the passover lamb had to be sacrificed. This was not simply a day that was approaching, but it had come. The head of the family was responsible for the slaying of the lamb. Jesus, being crucified on Friday, fulfilled the passover on Thursday at 6 PM. This was in accordance with the regular time, and not a deviation from it. Thus, he perfectly embodied the passover sacrifice.",
+            "wordCount": 73,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.7971869738232553,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                42.27,
+                32.14,
+                25.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The day of unleavened bread arrived, and it was time for the passover lamb to be slain. This was not just a day that was approaching, but it had come. According to tradition, the head of the family was responsible for sacrificing the lamb. Jesus, being crucified on Friday, fulfilled the passover on Thursday at 6 PM, at the regular time. This was not a deviation from the usual observance, but rather a fitting fulfillment of the Passover.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9803251732502822,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.19,
+            "commentatorTierSimilarities": [
+                42.88,
+                31.65,
+                25.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The day of unleavened bread had come, signifying the need for the passover lamb to be sacrificed. The head of the family was responsible for carrying out this task. Jesus, crucified on Friday, fulfilled the passover on Thursday at the regular time of 6 PM. This was not a departure from the usual observance, but a fitting fulfillment of the Passover.",
+            "wordCount": 60,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0249922077252216,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+            "commentatorTierSimilarities": [
+                39.74,
+                32.76,
+                27.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The day of unleavened bread had arrived, indicating that it was time for the passover lamb to be slain. Jesus, in accordance with tradition, was crucified on Friday at the passover or Thursday, our time, at the regular hour of 6 PM. This fulfilled the passover observance and demonstrated his perfect fulfillment of its significance. The sacrifice of the passover lamb was not a deviation but a fitting completion of the Passover requirement.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.208399437725925,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.77,
+            "commentatorTierSimilarities": [
+                39.79,
+                33.59,
+                26.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:25:43",
+    "verseRef": "Acts 3:2",
+    "bestBHT": {
+        "bht": "At the gate of the temple, called Beautiful, a man who had been lame from his mother's womb would be carried daily. This gate, also known as Nicanor's gate, existed on the eastern side of the Temple and led from the court of the Gentiles to the inner court of the Israelites. Made of Corinthian brass, the gate was magnificent in its appearance, with plates of gold and silver. The man's condition of being lame from birth made the subsequent miracle even more extraordinary.",
+        "wordCount": 87,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.016744426628248,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+        "commentatorTierSimilarities": [
+            21.27,
+            39.43,
+            39.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The gate... which is called Beautiful... The arrangement of the gates of the Temple is, from the notices which we now possess, very uncertain.\" ",
+            "This gate was also called Nicanor\u2019s gate, and lay on the Eastern side of the Temple, towards the valley of Kedron.\" ",
+            "These conditions suit better (2) the gate Susan; as does also the circumstance mentioned ver. 11, that the people ran together to Solomon's porch."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. a certain man lame from his",
+            "\tmother's womb\u2014and now \"above forty years old\" ( :-). ",
+            "\t",
+            "was carried\u2014was wont to",
+            "\tbe carried."
+        ],
+        "Albert Barnes": [
+            "Lame from his mother\u2019s womb - The mention of this shows that there was no deception in the case.",
+            "The entrance to the temple would be a favorable place for begging; for: (1) Great multitudes were accustomed to enter there; and, (2) When going up for the purposes of religion, they would be more inclined to give alms than at other times.",
+            "At the gate of the temple which is called Beautiful...This gate was large and splendid. It was made of Corinthian brass, a most valuable metal, and made a magnificent appearance."
+        ],
+        "Marvin Vincent": [
+            "That was [\u03c5\u03c0\u03b1\u03c1\u03c7\u03c9\u03bd] . Lit., being. See on James 2:15. ",
+            "Was carried [\u03b5\u03b2\u03b1\u03c3\u03c4\u03b1\u03b6\u03b5\u03c4\u03bf] . Imperfect : \"was being carried as they were going up (ver. 1) They laid [\u03b5\u03c4\u03b9\u03b8\u03bf\u03c5\u03bd] . Imperfect :\" they were wont to lay. "
+        ],
+        "Philip Schaff": [
+            "The temple appeared to strangers, when they were at a distance, like a mountain covered with snow, for those parts of it which were not covered with gold were exceeding white.",
+            "The gate...which is called Beautiful...led from the court of the Gentiles to the inner court of the Israelites. The market for the sale of doves and animals for sacrifice was held close by this gate.",
+            "Josephus, without particularizing, speaks of one of the Temple gates excelling all the others in richness of material and in decoration. It was made of Corinthian brass, overlaid with plates of gold and silver, and was fifty cubits high."
+        ],
+        "Archibald T. Robertson": [
+            "Carried (\u03b5\u03b2\u03b1\u03c3\u03c4\u03b1\u03b6\u03b5\u03c4\u03bf). Imperfect passive, picturing the process as in verse Acts 3:1.",
+            "Laid daily (\u03b5\u03c4\u03b9\u03b8\u03bf\u03c5\u03bd \u03ba\u03b1\u03b8' \u03b7\u03bc\u03b5\u03c1\u03b1\u03bd). Imperfect again describing their custom with this man.",
+            "Beautiful (H\u03c9\u03c1\u03b1\u03b9\u03b1\u03bd). This gate is not so called elsewhere."
+        ],
+        "John Gill": [
+            "He was born so; his lameness came not through any disease or fall, or any external hurt, but from a defect in nature, in one of his limbs, or more; which made the after miracle the more extraordinary.",
+            "It had been a common usage, it may be, for years past, to bring him every day, at prayer time, and lay him at the gate of the temple where the people went in; hence he was well known by the people, and to have been of a long time lame, even ever since he was born; so that there could be no imposture in this case.",
+            "And as this was now the hour of prayer, and the people were going to the temple to pray, whose entrance was at the east gate; here it might be thought, in all probability, was laid the lame man."
+        ],
+        "John Wesley": [
+            "At the gate of the temple, called Beautiful.\" ",
+            "This gate was added by Herod the Great, between the court of the Gentiles and that of Israel.",
+            "It was thirty cubits high, and fifteen broad, and made of Corinthian brass, more pompous in its workmanship and splendour than those that were covered with silver and gold."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the gate of the temple, called Beautiful, a certain man who had been lame from birth was brought daily. This gate, also known as Nicanor's gate, was located on the eastern side of the Temple towards the valley of Kedron. It was a large and splendid gate made of Corinthian brass, giving it a magnificent appearance. The man was carried by others to this gate as they were going up to pray, a custom they had been practicing for a long time. This gate served as the entrance to the inner court of the Israelites, and the market for the sale of doves and animals for sacrifice was held nearby. The lameness of this man, which he had since birth, made the subsequent miracle even more extraordinary.",
+            "wordCount": 129,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.9753065034894801,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+            "commentatorTierSimilarities": [
+                22.01,
+                37.89,
+                40.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the gate of the temple, called Beautiful, a certain man, who had been lame from birth, was brought daily for many years. This gate, also known as Nicanor's gate, lay on the eastern side of the Temple, towards the valley of Kedron. It was a large and splendid gate made of Corinthian brass, and the market for the sale of doves and animals for sacrifice was held nearby. The man was carried to this gate as they were going up to pray, a custom they had been practicing regularly. The lameness of this man, which he had since birth, made the subsequent miracle all the more extraordinary.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.9030829717400284,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+            "commentatorTierSimilarities": [
+                22.64,
+                36.56,
+                40.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the gate of the temple, known as Beautiful, a certain man who had been lame from his mother's womb was carried daily. This gate, also called Nicanor's gate, was located on the eastern side of the Temple. It was made of Corinthian brass, a valuable metal, exuding magnificence. The market for sacrificial animals was held near this gate. The man's lameness had afflicted him since birth, making the subsequent miracle all the more remarkable.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9250916395625615,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                22.09,
+                37.7,
+                40.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the gate of the temple, called Beautiful, a man who had been lame from his mother's womb would be carried daily. This gate, also known as Nicanor's gate, existed on the eastern side of the Temple and led from the court of the Gentiles to the inner court of the Israelites. Made of Corinthian brass, the gate was magnificent in its appearance, with plates of gold and silver. The man's condition of being lame from birth made the subsequent miracle even more extraordinary.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.016744426628248,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                21.27,
+                39.43,
+                39.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Every day, a man who had been lame from birth would be carried to the gate of the temple called Beautiful. This gate, also known as Nicanor's gate, was located on the eastern side of the Temple, towards the valley of Kedron. Made of Corinthian brass, it was a large and splendid gate, exhibiting magnificent wealth and craftsmanship. The man's condition of being lame from birth made the subsequent miracle even more incredible.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.9444049150494185,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+            "commentatorTierSimilarities": [
+                23.39,
+                36.39,
+                40.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

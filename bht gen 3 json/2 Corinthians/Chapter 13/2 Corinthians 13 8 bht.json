@@ -1,0 +1,90 @@
+{
+    "timestamp": "12-19-2023 15:18:34",
+    "verseRef": "2 Corinthians 13:8",
+    "bestBHT": {
+        "bht": "Our power is not against the truth, but rather on behalf of it. We can do nothing against the truth, but our apostolic power is meant to further the cause and spread of the truth. When you walk in the truth, there is no opportunity for us to show our power against you. Our aim is to promote and establish the truth, and we desire to use our power not against the innocent, but in support of well-doing. Though we may be able to hold down the truth by evil deeds, in the end, the truth triumphs.",
+        "wordCount": 98,
+        "quoteTokenProportion": 59.26,
+        "qualityScore": 2.961327545401077,
+        "qualityScoreNormalizedComparedToV2BHTs": 89.8,
+        "commentatorTierSimilarities": [
+            38.22,
+            30.62,
+            31.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For we have no power against the truth, but on behalf of the truth.\" ",
+            "If you walk in the truth, we shall be at one with you, and so have no opportunity of showing our power.",
+            "We have no power against the truth, but only in furtherance of the cause and spread of the truth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our apostolic power is given us that we may use it not against, but for the furtherance of, the truth.",
+            "Where you are free from fault, there is no scope for its exercise: and this I desire.",
+            "Far be it from me to use it against the innocent, merely to increase my own power."
+        ],
+        "Albert Barnes": [
+            "We can do nothing against the truth...we cannot...do what is wrong, or countenance, or desire what is wrong in others.\" ",
+            "Our aim is to promote the truth, and to do what is right.",
+            "It was a fixed principle with him to act only in accordance with truth; to do what was right."
+        ],
+        "Marvin Vincent": [
+            "For we can do nothing against the truth.\" ",
+            "Your well doing is what we truly aim at.",
+            "Against the truth - the Gospel; and against that we are powerless."
+        ],
+        "John Calvin": [
+            "What does it matter to me? For unless I have in view to promote the truth, all the power that I shall claim will be false and groundless.",
+            "If, however, I lay out, whatever I have, for the promotion of the truth, I, in that case, do not consult my own interest.",
+            "This passage must be carefully observed, because it limits the power, which the Pastors of the Church should have, and fixes its proper bounds \u2014 that they be ministers of the truth."
+        ],
+        "Philip Schaff": [
+            "For we can do nothing against the truth, but for the truth.\" ",
+            "For our one object is to promote and establish the truth.",
+            "Not to display our apostolic authority do we live, but to see the truth triumphant everywhere."
+        ],
+        "Archibald T. Robertson": [
+            "Against the truth (\u03ba\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1\u03c2). He means in the long run. We can hinder and hold down the truth by evil deeds (Romans 1:18), but in the end the truth wins. "
+        ],
+        "John Gill": [
+            "For we can do nothing against the truth\" ",
+            "but for the truth",
+            "for the sake of defending the truth against those that dropped, denied, and opposed it"
+        ],
+        "John Wesley": [
+            "For we can do nothing against the truth \u2014 Neither against that which is just and right, nor against those who walk according to the truth of the gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "Our power is not against the truth, but rather on behalf of it. We can do nothing against the truth, but our apostolic power is meant to further the cause and spread of the truth. When you walk in the truth, there is no opportunity for us to show our power against you. Our aim is to promote and establish the truth, and we desire to use our power not against the innocent, but in support of well-doing. Though we may be able to hold down the truth by evil deeds, in the end, the truth triumphs.",
+            "wordCount": 98,
+            "quoteTokenProportion": 59.26,
+            "qualityScore": 2.961327545401077,
+            "qualityScoreNormalizedComparedToV2BHTs": 89.8,
+            "commentatorTierSimilarities": [
+                38.22,
+                30.62,
+                31.16
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

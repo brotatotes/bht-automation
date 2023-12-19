@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:13:23",
+    "verseRef": "Luke 1:61",
+    "bestBHT": {
+        "bht": "When Elizabeth's neighbors and relatives heard about the Lord's mercy in granting her a child, they assumed the baby would bear his father's name, Zechariah. It was a common practice among the Israelites to name children after their ancestors, relations, and friends. However, Elizabeth surprised them by naming the child John, which was not a typical name in her family or her husband's. This choice of name signified the uniqueness of John's birth and his divine calling in preparing the way for the Lord.",
+        "wordCount": 89,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.584720625511255,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.03,
+        "commentatorTierSimilarities": [
+            0.0,
+            36.51,
+            63.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The Jewish tribes and families were kept distinct."
+        ],
+        "John Gill": [
+            "It was usual to give names to children after their ancestors, relations, and friends.",
+            "The name of Jochanan, or John, was a name very common among the Israelites, though not in Elisabeth's family, or her husband's.",
+            "From whence it appears, that it was usual to give names to children after their ancestors, relations, and friends."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Elizabeth's neighbors and relatives heard that the Lord had shown mercy to her by giving her a child, they assumed that the baby would be named after his father, Zechariah. Naming children after their ancestors, relations, and friends was a common tradition among the Israelites. However, Elizabeth made it clear that the child's name would be John, which was not a common name in her family or her husband's. This highlights the uniqueness and divine purpose of John's birth, as he was destined to play a significant role in preparing the way for the Lord.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.5112063568826406,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.59,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.64,
+                63.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Elizabeth's neighbors and relatives learned of the Lord's mercy bestowed upon her in the form of a child, they expected the child to be named after his father, Zechariah. This was a customary practice among the Israelites, who often named their children after their ancestors, relations, and friends. However, Elizabeth surprised them by declaring that the child would be named John, a name not commonly found in either her family or her husband's. This emphasized the unique and divine purpose behind John's birth, as he was to fulfill an important role in preparing the way for the Lord.",
+            "wordCount": 103,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 1.3433763244205899,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                33.24,
+                66.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Elizabeth's neighbors and relatives heard about the Lord's mercy in granting her a child, they assumed the baby would bear his father's name, Zechariah. It was a common practice among the Israelites to name children after their ancestors, relations, and friends. However, Elizabeth surprised them by naming the child John, which was not a typical name in her family or her husband's. This choice of name signified the uniqueness of John's birth and his divine calling in preparing the way for the Lord.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.584720625511255,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.03,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.51,
+                63.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Elizabeth's neighbors and relatives heard about the Lord's mercy shown to her through the gift of a child, they naturally assumed that the child would be named after his father, Zechariah. Naming children after their ancestors, relations, and friends was a customary practice among the Israelites. However, Elizabeth surprised them by naming the child John, even though it was not a common name within her family or her husband's. This decision highlighted the distinctive nature of John's birth and his divine purpose as the one who would prepare the way for the Lord.",
+            "wordCount": 98,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.3987880812650506,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.85,
+            "commentatorTierSimilarities": [
+                0.0,
+                33.18,
+                66.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Elizabeth's neighbors and relatives learned of the Lord's mercy in blessing her with a child, they naturally expected the baby to be named after his father, Zechariah. The Israelites had a tradition of naming children after their ancestors, relations, and friends. However, Elizabeth surprised everyone by naming her son John, a name that was not commonly found in her family or her husband's. This uncommon choice of name emphasized the extraordinary nature of John's birth and his divine purpose in preparing the way for the Lord.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4720866679495375,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.29,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.56,
+                62.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

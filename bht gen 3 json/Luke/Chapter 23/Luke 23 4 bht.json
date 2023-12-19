@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:23:35",
+    "verseRef": "Luke 23:4",
+    "bestBHT": {
+        "bht": "Pilate, having both prior knowledge of Jesus's actions and a personal examination of Him, found no fault in Him. He knew that Jesus did not pose a threat to the authority of Caesar and that his claims as a king were not political in nature. Wanting to avoid any delays from Jesus's supporters, Pilate swiftly made his decision based on his careful examination of the case. Though the specific reason for Jesus's innocence is not given, it is evident that Pilate conducted a thorough inquiry.",
+        "wordCount": 88,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.1278607122191353,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.09,
+        "commentatorTierSimilarities": [
+            40.13,
+            34.32,
+            25.55
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We may remark...that Pilate must have known well that a man who had really done that, whereof Jesus was accused, would be no such object of hatred to the Sanhedrim.",
+            "This knowledge was doubtless accompanied...with a previous acquaintance with some of the sayings and doings of Jesus, from which Pilate had probably formed his own opinion that He was no such King as His foes would represent Him.",
+            "This is now confirmed by His own words (as related by St. John); and Pilate wishes to dismiss Him, finding no fault in Him."
+        ],
+        "Albert Barnes": [
+            "I find no fault - I see no evidence that he is guilty of what you charge him with.",
+            "This was after Pilate had taken Jesus into the judgment-hall by himself and examined him 'privately,' and had been satisfied in regard to the nature of his kingdom.",
+            "He was 'then' satisfied that though he claimed to be 'a king,' yet his kingdom was not of this world, and that 'his' claims did not interfere with those of Caesar."
+        ],
+        "John Calvin": [
+            "As Christ was come to bear the punishment of our sins, it was proper that he should first be condemned by the mouth of his judge...",
+            "...it might afterwards be evident that he was condemned for the sake of others, and not for his own.",
+            "This Herod was he who bears the surname of Antipas to whom was left the tetrarchy of Galilee...his design was not so much to obtain Herod\u2019s favor, as to get quit of a disagreeable affair under an honorable excuse, and thus to avoid the necessity of condemning Christ."
+        ],
+        "Philip Schaff": [
+            "I find no fault in this man.\" ",
+            "Pilate speaks as a judge.\" ",
+            "He examines our Lord and satisfies himself that no such political crime was involved in His claim to be King of the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "The procession of the Sanhedrin would draw a crowd...and some may have come to ask for the release of a prisoner.",
+            "There was need of haste if the condemnation went through before friends of Jesus came.",
+            "Luke does not give the explanation of this sudden decision of Pilate that Jesus is innocent. Evidently he held a careful examination before he delivered his judgment on the case."
+        ],
+        "John Gill": [
+            "I find no fault in this man; no cause, or reason, why any punishment should be inflicted on him.\" ",
+            "The man is an harmless and innocent man, that has done nothing against Caesar, or the government.\" ",
+            "and therefore is not worthy of death, or of stripes, but should be discharged."
+        ],
+        "John Wesley": [
+            "I find no fault in this man - I do not find that he either asserts or attempts any thing seditious or injurious to Cesar."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate was well aware that Jesus was not guilty of the charges brought against Him by the Sanhedrin. Not only did Pilate have prior knowledge of Jesus's actions and teachings, but after privately examining Him, he found no fault in Him. Pilate was convinced that Jesus's claims of being a king did not pose a political threat or interfere with Caesar's authority. In order to expedite the condemnation before any of Jesus's supporters could intervene, Pilate hastily made his decision. Luke does not explicitly state Pilate's reason for declaring Jesus innocent, but it is clear that Pilate conducted a thorough examination of the case before making his judgment.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 2.3381039272490467,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.08,
+            "commentatorTierSimilarities": [
+                42.63,
+                32.93,
+                24.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate's knowledge about Jesus's innocence, acquired through both his own examination and prior familiarity with Jesus's teachings and actions, led him to find no fault in Him. Pilate recognized that Jesus's claim as King of the Jews did not pose a political threat to Caesar. In his haste to avoid interference from Jesus's supporters, Pilate quickly made his decision without providing a detailed explanation for Jesus's innocence. Nevertheless, it is evident that Pilate conducted a thorough examination before reaching his judgment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.058183611926355,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.78,
+            "commentatorTierSimilarities": [
+                41.51,
+                34.24,
+                24.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, being aware of the unfounded charges against Jesus and having examined Him personally, found no fault in Him. He knew that Jesus was not the kind of King that His accusers portrayed Him as, and therefore saw no threat to Caesar or the government. Recognizing Jesus's innocence, Pilate wished to dismiss Him quickly before any intervention from Jesus's supporters. Although Luke does not explicitly state Pilate's reasoning, it is clear that he conducted a careful examination before delivering his judgment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.198085591928911,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.43,
+            "commentatorTierSimilarities": [
+                39.78,
+                33.5,
+                26.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate, having both prior knowledge of Jesus's actions and a personal examination of Him, found no fault in Him. He knew that Jesus did not pose a threat to the authority of Caesar and that his claims as a king were not political in nature. Wanting to avoid any delays from Jesus's supporters, Pilate swiftly made his decision based on his careful examination of the case. Though the specific reason for Jesus's innocence is not given, it is evident that Pilate conducted a thorough inquiry.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.1278607122191353,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.09,
+            "commentatorTierSimilarities": [
+                40.13,
+                34.32,
+                25.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, fully aware of the baseless accusations against Jesus and having personally examined Him, found no fault in Him. Pilate recognized that Jesus's claims as a king did not pose a political threat and that He was innocent of any wrongdoing. In order to expedite the process and prevent intervention from Jesus's supporters, Pilate quickly made his decision. While Luke does not explicitly explain Pilate's sudden choice, it is clear that Pilate meticulously examined the case before rendering his verdict.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.2464959306499335,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.04,
+            "commentatorTierSimilarities": [
+                39.46,
+                34.68,
+                25.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

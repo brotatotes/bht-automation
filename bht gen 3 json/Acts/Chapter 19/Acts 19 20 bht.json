@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:33:41",
+    "verseRef": "Acts 19:20",
+    "bestBHT": {
+        "bht": "In the city of Ephesus, many who believed in Christ came forward and confessed the shame and deep entanglement they had experienced in their past involvement with deceptive practices. This was a powerful testimony to their genuine change of heart. Ephesus, known for its wealth and superstition, became a center of Christian power as the word of God grew mightily and prevailed. The transformative power of the Gospel broke the hold of sin and dishonest means of living, leading to a flourishing Christian community.",
+        "wordCount": 84,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.7180328605235204,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+        "commentatorTierSimilarities": [
+            31.62,
+            34.83,
+            33.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Many that believed came and confessed . . . their deeds\u2014the dupes of magicians, &c., acknowledging how shamefully they had been deluded, and how deeply they had allowed themselves to be implicated in such practices.",
+            "Acknowledging how shamefully they had been deluded.",
+            "How deeply they had allowed themselves to be implicated in such practices."
+        ],
+        "Albert Barnes": [
+            "Religion has power to break the hold of sinners on unjust and dishonest means of living.",
+            "Those who have been engaged in an unchristian and dishonorable practice will abandon it when they become Christians.",
+            "Property, in the view of a converted man, is nothing when compared with a good conscience."
+        ],
+        "John Calvin": [
+            "The word \u03ba\u03b1\u03c4\u03b1 \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 doth signify that the word increased not a little, (or that these proceedings were not common) as if he should say, that in those increasings appeared rare efficacy, and such as was greater than it used commonly to be.",
+            "The Church was increased, new disciples being gathered together dally, because doctrine is spread abroad.",
+            "And I interpret that, that the word was confirmed in every one thus, to wit, that they did profit in the obedience of the gospel and in godliness more and more, and that their faith took deeper root."
+        ],
+        "Philip Schaff": [
+            "So mightily grew the word of God and prevailed.\" (Acts 19:20) ",
+            "For a great door and effectual is opened unto me, and there are many adversaries.\" (1 Corinthians 16:9)",
+            "The apostle was alluding to the events at Ephesus just related, and which led to the state of things the writer of the 'Acts' summarised by 'So mightily grew the word of God and prevailed.'"
+        ],
+        "Archibald T. Robertson": [
+            "Such proof of a change counted.",
+            "It was a day of triumph for Christ in Ephesus, this city of vast wealth and superstition.",
+            "Ephesus for centuries will be one of the centres of Christian power."
+        ],
+        "John Gill": [
+            "So mightily grew the word of God, and prevailed.",
+            "Over conjuring books, conjurers themselves, yea, even the devils; the power of God going along with it.",
+            "Many were converted; which is meant by the increase of it, and were delivered from the power of darkness, out of the hands of Satan, and translated into the kingdom of Christ."
+        ],
+        "John Wesley": [
+            "So powerfully did the word of God grow \u2014 In extent, and prevail - In power and efficacy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 19:20, we see the transformative power of the Gospel in the lives of the Ephesians. As they believed in Jesus, they came forward and confessed their past involvement in dark practices and deceptions. They acknowledged the depth of their entanglement in these sins and recognized how shamefully they had been deceived. This confession was a decisive proof of their genuine change and a day of triumph for Christ in the wealthy and superstitious city of Ephesus. The word of God grew mightily and prevailed, leading to the establishment of a strong Christian community that would continue to exert its power in the following centuries.",
+            "wordCount": 105,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.6408402133091116,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                29.68,
+                35.02,
+                35.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, the people of Ephesus, who had previously been deluded by magicians and deceived by dark practices, humbly confessed their past sins. They deeply acknowledged the extent of their entanglement in these dishonest behaviors. This sincere confession served as a powerful testimony of their genuine transformation. The impact of their repentance was immense, as the word of God triumphed mightily in Ephesus, a city filled with wealth and superstition. Through their confession, the Christian community grew in strength, becoming a center of power.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.560260745974754,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.22,
+            "commentatorTierSimilarities": [
+                34.61,
+                33.77,
+                31.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the city of Ephesus, many who believed in Christ came forward and confessed the shame and deep entanglement they had experienced in their past involvement with deceptive practices. This was a powerful testimony to their genuine change of heart. Ephesus, known for its wealth and superstition, became a center of Christian power as the word of God grew mightily and prevailed. The transformative power of the Gospel broke the hold of sin and dishonest means of living, leading to a flourishing Christian community.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7180328605235204,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                31.62,
+                34.83,
+                33.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Ephesus, believers acknowledged their deep entanglement in deceptive practices and how shamefully they had been deluded. This confession testified to their genuine transformation and marked a day of triumph for Christ in the city. Ephesus, a center of wealth and superstition, became a powerful hub of Christian influence. The word of God grew mightily and prevailed, breaking the hold of sinful practices and attracting new disciples. The Gospel's efficacy was evident in the tremendous growth and impact of the Church in Ephesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.6567634726534624,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.43,
+            "commentatorTierSimilarities": [
+                31.36,
+                32.05,
+                36.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the city of Ephesus, many believers came forward and confessed the shame and entanglement they experienced in their involvement with deceptive practices. This sincere acknowledgment of their past delusions served as an undeniable proof of their genuine transformation. It was a day of triumph for Christ in Ephesus, a wealthy and superstitious city that would become a center of Christian power. The word of God grew mightily and prevailed, leading to the establishment of a strong and flourishing Christian community in Ephesus for centuries to come.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.6342031128733,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+            "commentatorTierSimilarities": [
+                35.21,
+                31.86,
+                32.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

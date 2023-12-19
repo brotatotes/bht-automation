@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 13:52:29",
+    "verseRef": "Philippians 2:24",
+    "bestBHT": {
+        "bht": "Paul expresses his hope to come to believers, sending Timothy, but also himself. His trust, centered in Christ, reflects his naturalness and honesty, acknowledging that his coming or absence is in the hands of the Lord. Even though uncertain of the future, he retains hope and persuasion for a possible deliverance and visiting the believers.",
+        "wordCount": 55,
+        "quoteTokenProportion": 40.48,
+        "qualityScore": 1.591742297158701,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.27,
+        "commentatorTierSimilarities": [
+            23.89,
+            36.3,
+            39.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24. in the Lord] See above, ver. 19. also, as well as Timothy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. also myself\u2014as well as",
+            "\tTimothy."
+        ],
+        "Albert Barnes": [
+            "But I trust in the Lord ... - note, Philippians 1:25."
+        ],
+        "Philip Schaff": [
+            "But I trust in the Lord that I also myself shall come shortly.",
+            "We can see the great naturalness of the language here.",
+            "Here, as before, he does not let his hopes obscure the thought that his coming or absence is in the hands of the Lord."
+        ],
+        "Archibald T. Robertson": [
+            "In the Lord (\u03b5\u03bd \u039a\u03c5\u03c1\u03b9\u03c9). Not a perfunctory use of this phrase. Paul's whole life is centred in Christ (Galatians 2:20). "
+        ],
+        "John Gill": [
+            "I trust in the Lord.\" ",
+            "He still retained a secret hope and persuasion in his own mind of a deliverance.",
+            "His intention still was, should he be released, to pay them a visit himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Paul expresses his hope to come to the Philippians, not only by sending Timothy, but also himself. His trust lies in the Lord, as his whole life is centered in Christ. Paul's language reflects his naturalness and honesty, acknowledging that his coming or absence is ultimately in the hands of the Lord. Even though he is uncertain of the future, he retains a sense of hope and persuasion in his own mind for a possible deliverance and a visit to the Philippians.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.7922194611411704,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                29.48,
+                37.05,
+                33.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul expresses his hope to come to believers, sending Timothy, but also himself. His trust, centered in Christ, reflects his naturalness and honesty, acknowledging that his coming or absence is in the hands of the Lord. Even though uncertain of the future, he retains hope and persuasion for a possible deliverance and visiting the believers.",
+            "wordCount": 55,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.591742297158701,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.27,
+            "commentatorTierSimilarities": [
+                23.89,
+                36.3,
+                39.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, Paul reassures the Philippians that he hopes to visit them soon, both through the presence of Timothy and himself. He emphasizes his trust in the Lord, emphasizing that his entire life centers around Christ. Paul's language demonstrates his sincerity and humility, acknowledging that whether he is able to come or not ultimately rests in God's hands. Despite the uncertainty of the future, he holds onto a sense of hope and conviction, preserving his intention to personally visit the Philippians if he is released.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.5995600010720739,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+            "commentatorTierSimilarities": [
+                26.71,
+                38.23,
+                35.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In these words, Paul expresses his hope to visit the Philippians, both through Timothy and himself. He places his trust in the Lord, indicating that his life revolves around Christ. Paul's sincere language acknowledges that his ability to come is ultimately in God's hands. Despite the uncertainty, he maintains hope and conviction, intending to personally visit the Philippians if he is set free.",
+            "wordCount": 65,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.633472438679184,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.66,
+            "commentatorTierSimilarities": [
+                29.31,
+                37.13,
+                33.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul conveys his hope to personally visit the Philippians, in addition to sending Timothy. He places his trust in the Lord and recognizes that his life is centered on Christ. Paul's genuine language acknowledges that the decision for his coming or absence lies with God. Though unsure of the future, he retains a sense of hope and conviction, with the intention to visit the believers if he is released.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.5835160931520806,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "commentatorTierSimilarities": [
+                27.08,
+                36.52,
+                36.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:12:55",
+    "verseRef": "Luke 1:49",
+    "bestBHT": {
+        "bht": "He that is mighty has done great things for me and his name is holy. This is an expression of my gratitude towards God, acknowledging the favors and mercy he has bestowed upon me. The mention of his holy name reminds me of his majestic and reverent nature. It is through the fear of the Lord, encompassing godliness and faith, that we can truly honor and praise his holy name. This recognition of God's almighty power is a testament to his sovereign grace and goodness, perfectly displayed in a way that is just and holy.",
+        "wordCount": 96,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.8489376743642056,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+        "commentatorTierSimilarities": [
+            0.0,
+            48.74,
+            51.26
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "He that is mighty - God.",
+            "Hath done to be great things - Hath conferred on me great favors and distinguished mercies.",
+            "And holy is his name - This is an expression of Mary's feelings, desiring to bestow on God all honor and praise."
+        ],
+        "John Calvin": [
+            "Hence she takes occasion to exclaim, that holy is his name, and his mercy endures throughout all generations.",
+            "The name of God is called holy, because it is entitled to the highest reverence; and whenever the name of God is mentioned, it ought immediately to remind us of his adorable majesty.",
+            "Under the fear of the Lord is included the whole of godliness and religion, and this cannot exist without faith."
+        ],
+        "Philip Schaff": [
+            "And holy is his name.\" ",
+            "The song now becomes more general in its expressions.",
+            "This rising from what is personal to general praise, is a characteristic of most of David\u2019s Psalms."
+        ],
+        "John Gill": [
+            "For he that is mighty hath done to me great things...and holy is his name.\" ",
+            "This was a work of almighty power.",
+            "God had displayed his sovereign grace and goodness, and his almighty power, in a way consistent with his justice and holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He that is mighty has done great things for me and his name is holy. This is an expression of my gratitude towards God, acknowledging the favors and mercy he has bestowed upon me. The mention of his holy name reminds me of his majestic and reverent nature. It is through the fear of the Lord, encompassing godliness and faith, that we can truly honor and praise his holy name. This recognition of God's almighty power is a testament to his sovereign grace and goodness, perfectly displayed in a way that is just and holy.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8489376743642056,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.74,
+                51.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He that is mighty has done great things for me and his name is holy. God's actions towards me are a display of his almighty power, showcasing his sovereign grace and goodness in a just and holy way. I am filled with gratitude for the favors and mercy he has shown me. His holy name demands the highest reverence, reminding us of his majestic and reverent nature. Through faith and the fear of the Lord, we can truly honor and praise his name.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6833692685011585,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.31,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.51,
+                51.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He that is mighty has done great things for me and his name is holy. The Lord's actions towards me are a testament to his almighty power, demonstrating his sovereign grace and goodness in a just and holy manner. I am deeply grateful for the favors and mercy he has bestowed upon me. His holy name demands the utmost reverence, reminding us of his majestic and reverent nature. Through faith and the fear of the Lord, we can truly honor and praise his name.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.7052014746332294,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.04,
+            "commentatorTierSimilarities": [
+                0.0,
+                48.64,
+                51.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He that is mighty has done great things for me, and his name is holy. I am filled with gratitude for the favors and mercy he has shown me, acknowledging his almighty power and sovereign grace. His holy name demands reverence, reminding us of his majestic and reverent nature. Through faith and the fear of the Lord, we can honor and praise his name, recognizing his work of almighty power and the display of his justice and holiness in his dealings with us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.711082492435644,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.62,
+                53.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He that is mighty has done great things for me, and his name is holy. I am deeply grateful for the favors and mercy he has bestowed upon me, acknowledging his almighty power and sovereign grace. His holy name demands reverence, reminding us of his majestic and reverent nature. Through faith and the fear of the Lord, we can honor and praise his name, recognizing his work of almighty power and the display of his justice and holiness in his dealings with us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.7264902196874674,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                0.0,
+                46.71,
+                53.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:35:14",
+    "verseRef": "Acts 22:26",
+    "bestBHT": {
+        "bht": "The captain, aware of the Roman practice of examining by scourging, questioned Paul's actions and wanted to understand the reason behind the outcry. He suspected Paul must have been guilty of some crime based on the horror it sparked among the audience. Cautioning the captain, Paul asked, What art thou about to do? as a sharp warning. It was essential for the captain to verify Paul's claim of Roman citizenship to prevent any unjust punishment, as it could never be justified to bind and beat a Roman, let alone a servant of God.",
+        "wordCount": 95,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.4099505025465806,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.22,
+        "commentatorTierSimilarities": [
+            43.98,
+            0.0,
+            56.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "examined by scourging\u2014according to the Roman practice.",
+            "that he might know wherefore they cried so\u2014Paul's speech being to him in an unknown tongue.",
+            "he concluded from the horror which it kindled in the vast audience that he must have been guilty of some crime."
+        ],
+        "John Calvin": [
+            "This man is a Roman...he which did say that he was a citizen of Rome, unless he could bring in some which knew him, or prove it lawfully, he was punished.\" ",
+            "For if he ought to believe Paul\u2019s words, every malefactor might, by this shift, have escaped punishment.",
+            "And though Luke doth not express by what testimonies Paul did prove himself to be a citizen of Rome, yet, undoubtedly, the chief captain knew the truth of the matter before he loosed him."
+        ],
+        "Archibald T. Robertson": [
+            "What art thou about to do? (\u03a4 \u03bc\u03b5\u03bb\u03bb\u03b5\u03b9\u03c2 \u03c0\u03bf\u03b9\u03b5\u03b9\u03bd?). On the point of doing, sharp warning. "
+        ],
+        "John Gill": [
+            "Take heed what thou dost; or 'art about to do'; lest some bad consequences should follow; lest he should affront the Roman people and senate, and lose his place, if not incur some corporeal punishment.",
+            "For this man is a Roman; and it can never be answered to bind and beat a Roman."
+        ],
+        "John Wesley": [
+            "Consider what thou art about to do; for this man is a Roman \u2014 Yea, there was a stronger reason to consider. For this man was a servant of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief captain questioned Paul's actions and intentions, knowing that he had been examined by scourging according to Roman practice. The captain was perplexed by the crowd's outcry against Paul and suspected that Paul was guilty of some crime. Sensing the seriousness of the situation, he warned the captain, What art thou about to do? The captain needed to be cautious in his next steps because Paul, as a Roman citizen, had certain rights and protections. It was crucial for the captain to verify Paul's claim of Roman citizenship, as believing him without evidence would set a dangerous precedent. The captain was reminded that it is never justified to bind and beat a Roman. Moreover, he needed to consider the fact that Paul was not just any Roman citizen, but a servant of God.",
+            "wordCount": 137,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 1.3044450890516677,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.72,
+            "commentatorTierSimilarities": [
+                31.72,
+                0.0,
+                68.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The captain, aware of the Roman practice of examining by scourging, questioned Paul's actions and wanted to understand the reason behind the outcry. He suspected Paul must have been guilty of some crime based on the horror it sparked among the audience. Cautioning the captain, Paul asked, What art thou about to do? as a sharp warning. It was essential for the captain to verify Paul's claim of Roman citizenship to prevent any unjust punishment, as it could never be justified to bind and beat a Roman, let alone a servant of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.4099505025465806,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.22,
+            "commentatorTierSimilarities": [
+                43.98,
+                0.0,
+                56.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The captain, aware of the Roman practice of examining by scourging, questioned Paul's actions and wanted to understand the reason behind the outcry. He suspected Paul must have been guilty of some crime based on the horror it sparked among the audience. Cautioning the captain, Paul asked, What art thou about to do? as a sharp warning. It was essential for the captain to verify Paul's claim of Roman citizenship to prevent any unjust punishment, as it could never be justified to bind and beat a Roman, let alone a servant of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.4099505025465806,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.22,
+            "commentatorTierSimilarities": [
+                43.98,
+                0.0,
+                56.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The captain, familiar with the Roman practice of examining by scourging, was perplexed by the crowd's outcry against Paul and suspected he must be guilty of a crime. Paul, sensing the gravity of the situation, cautioningly questioned the captain's next actions, saying, What art thou about to do? It was crucial for the captain to validate Paul's claim of Roman citizenship and abide by the law, for it could never be justified to bind and beat a Roman. Moreover, Paul's status as a servant of God added further weight to his case.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.2277881093585175,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.17,
+            "commentatorTierSimilarities": [
+                29.66,
+                0.0,
+                70.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The captain examined Paul's actions, suspecting that he must have been guilty of some crime based on the strong audience reaction. Sensing the seriousness of the situation, Paul questioned the captain's intentions, warning him, What art thou about to do? The captain needed to exercise caution and verify Paul's claim of Roman citizenship to avoid any unwarranted punishment. It was important to recognize that it was never justified to bind and beat a Roman, especially considering Paul's role as a servant of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.3595309721541835,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.55,
+            "commentatorTierSimilarities": [
+                35.74,
+                0.0,
+                64.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

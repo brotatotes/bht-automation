@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:17:58",
+    "verseRef": "Luke 11:23",
+    "bestBHT": {
+        "bht": "Whatever in religion is disconnected from Christ comes to nothing. He that is not with me is against me. He that gathereth not with me, scattereth. Whoever did not encourage persons to attend on the ministry of Christ, which was confirmed by such miracles the Pharisees spoke so reproachfully and contemptuously of, were reckoned by Christ as such, who were the means of hindering persons gathering unto him.",
+        "wordCount": 68,
+        "quoteTokenProportion": 56.25,
+        "qualityScore": 1.692334470592734,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.61,
+        "commentatorTierSimilarities": [
+            29.65,
+            0.0,
+            70.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "23.] See on Matthew, ver. 80."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23. gathereth . . .",
+            "\tscattereth\u2014referring probably to gleaners. The meaning seems to",
+            "\tbe, Whatever in religion is disconnected from Christ comes to",
+            "\tnothing."
+        ],
+        "Archibald T. Robertson": [
+            "He that is not with me (\u03bf \u03bc\u03b7 \u03c9\u03bd \u03bc\u03b5\u03c4' \u03b5\u03bc\u03bf\u03c5). This verse is just like Matthew 12:30. "
+        ],
+        "John Gill": [
+            "He that is not with me, is against me.",
+            "He that gathereth not with me, scattereth.",
+            "Whoever did not encourage persons to attend on the ministry of Christ, which was confirmed by such miracles the Pharisees spoke so reproachfully and contemptuously of, were reckoned by Christ as such, who were the means of hindering persons gathering unto him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are not connected to Christ in their religious practices will ultimately come to nothing, as whatever is disconnected from Him lacks true significance. This idea is reinforced by the parallel verse in Matthew 12:30, which states, He that is not with me, is against me. In this context, not being with Christ means being against Him, as those who do not gather with Him scatter. Thus, anyone who hinders others from coming to Christ and participating in His ministry is deemed as working against Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 1.5168963190533984,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.78,
+            "commentatorTierSimilarities": [
+                47.79,
+                0.0,
+                52.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who practice religion without being connected to Christ are ultimately futile, as anything disconnected from Him lacks true meaning. This is echoed in Matthew 12:30, where it is stated that being against Christ is synonymous with not being with Him. Those who fail to gather with Christ scatter, and anyone who hinders others from approaching Him and engaging in His ministry is considered to be working against His cause.",
+            "wordCount": 69,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5189354257099132,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.85,
+            "commentatorTierSimilarities": [
+                51.5,
+                0.0,
+                48.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Whatever in religion is disconnected from Christ comes to nothing. He that is not with me is against me, and whoever did not encourage persons to attend on the ministry of Christ, which was confirmed by such miracles, were reckoned by Christ as hindering persons from gathering unto him.",
+            "wordCount": 49,
+            "quoteTokenProportion": 64.1,
+            "qualityScore": 1.5468188808970176,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.77,
+            "commentatorTierSimilarities": [
+                38.24,
+                0.0,
+                61.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Whatever in religion is disconnected from Christ comes to nothing. He that is not with me is against me. He that gathereth not with me, scattereth. Whoever did not encourage persons to attend on the ministry of Christ, which was confirmed by such miracles the Pharisees spoke so reproachfully and contemptuously of, were reckoned by Christ as such, who were the means of hindering persons gathering unto him.",
+            "wordCount": 68,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 1.692334470592734,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.61,
+            "commentatorTierSimilarities": [
+                29.65,
+                0.0,
+                70.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Whatever in religion is disconnected from Christ comes to nothing. He that is not with me is against me. He that gathereth not with me, scattereth. Whoever did not encourage persons to attend on the ministry of Christ, which was confirmed by such miracles the Pharisees spoke so reproachfully and contemptuously of, were reckoned by Christ as such, who were the means of hindering persons gathering unto him.",
+            "wordCount": 68,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 1.692334470592734,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.61,
+            "commentatorTierSimilarities": [
+                29.65,
+                0.0,
+                70.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

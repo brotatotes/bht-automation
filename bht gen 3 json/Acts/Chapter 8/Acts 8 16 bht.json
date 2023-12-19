@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:28:04",
+    "verseRef": "Acts 8:16",
+    "bestBHT": {
+        "bht": "The believers in Samaria already possessed the Holy Spirit, but Peter and John laid hands on them for greater blessings in full submission to the authority of the Lord Jesus. The laying on of hands by the apostles was a unique privilege connected to the impartation of the Holy Spirit. Baptism's true efficacy is through the Holy Spirit, symbolizing Christ's blood, and performed in the name of the Father, Son, and Holy Spirit. This event displayed the visible presence of God's Spirit in His Church.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.753668952299832,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+        "commentatorTierSimilarities": [
+            18.99,
+            38.62,
+            42.38
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "He was fallen - This expression is several times applied to the Holy Spirit... It means that he came from heaven; and the expression 'to fall,' applied to his influences, denotes the 'rapidity' and 'suddenness' of his coming.\" ",
+            "In the name of the Lord Jesus - See the notes on Acts 2:38. See also Acts 10:48; Acts 19:5-6."
+        ],
+        "Marvin Vincent": [
+            "They were [\u03c5\u03c0\u03b7\u03c1\u03c7\u03bf\u03bd] . See on James 2:15. Rev., more literally, had been. ",
+            "In the name [\u03b5\u03b9\u03c2 \u03c4\u03bf \u03bf\u03bd\u03bf\u03bc\u03b1] . Lit., \"into the name.\" See on Matthew 28:19."
+        ],
+        "John Calvin": [
+            "Baptism must either be in vain and without grace, or else it must have all the force which it hath from the Holy Ghost.",
+            "The water used in baptism is a sign of the blood of Christ; but Peter saith, that it is the Spirit by whom we are washed with the blood of Christ.",
+            "To conclude, forasmuch as the Samaritans were already endued with the Spirit of adoption, the excellent graces of the Spirit are heaped upon them, in which God showed to his Church, for a time as it were, the visible presence of his Spirit."
+        ],
+        "Philip Schaff": [
+            "The plain truth seems to be: none but the apostles were empowered to bestow this mighty gift.",
+            "The special duty of imposition of hands on the baptized, up to this time exclusively belonged to the apostles.",
+            "While the solemn right to lay hands on the baptized, and thus formally to invoke the blessed presence of the Holy Ghost, was inherited by the bishops from the apostles, it does not seem that the power of working miracles was ever communicated by the imposition of hands, by any save the apostles themselves."
+        ],
+        "Archibald T. Robertson": [
+            "We should not use 'it' for the Holy Spirit.\" ",
+            "Periphrastic past perfect passive of \u03b2\u03b1\u03c0\u03c4\u03b9\u03b6\u03c9 with \u03c5\u03c0\u03b1\u03c1\u03c7\u03c9 (see verse Acts 8:9 \u03c0\u03c1\u03bf\u03c5\u03c0\u03b7\u03c1\u03c7\u03bf\u03bd), instead of \u03b7\u03c3\u03b1\u03bd.\" ",
+            "Better, in the name (see on Acts 2:38)."
+        ],
+        "John Gill": [
+            "They had received him as a spirit of illumination and sanctification, and as a spirit of conversion and faith.",
+            "All as yet appeared in them was, that they were believers in Christ, and had been baptized in his name, upon a profession of their faith.",
+            "The word 'only', does not respect the form of baptism, as if they had been baptized only in the name of Christ; whereas they were doubtless baptized in the name of the Father, and of the Son, and of the Holy Ghost; but refers to baptism itself, which was the only ordinance as yet administered to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Samaritans in Acts 8:16 had previously received the Holy Spirit, but Peter and John came and placed their hands on them so that they might receive additional blessings from the Spirit. The phrase they were...had been indicates that the believers in Samaria had already possessed the Spirit but were now receiving a greater measure of His power. The expression in the name signifies that this act was done with full recognition and submission to the authority and presence of the Lord Jesus. The laying on of hands by the apostles was a special privilege and responsibility, as it was connected to the impartation of the Holy Spirit. This passage shows that the apostles were uniquely empowered to administer this gift, while the bishops inherited the responsibility of laying hands on the baptized. It is through the Holy Spirit that baptism carries its true efficacy and washing power, as it symbolizes the blood of Christ and is performed in the name of the Father, Son, and Holy Spirit. Thus, this event in Samaria serves as a visible manifestation of God's Spirit among His Church.",
+            "wordCount": 185,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.6552560137430588,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+            "commentatorTierSimilarities": [
+                16.6,
+                41.24,
+                42.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The believers in Samaria had previously received the Holy Spirit, but the apostles Peter and John laid hands on them to receive the Spirit's additional blessings. This act was done in full acknowledgment of the authority and presence of the Lord Jesus. The laying on of hands by the apostles was a privilege and responsibility connected to the impartation of the Holy Spirit. Baptism has its true efficacy through the Holy Spirit, symbolizing the blood of Christ and performed in the name of the Father, Son, and Holy Spirit.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.7292079131754803,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.84,
+            "commentatorTierSimilarities": [
+                16.72,
+                40.17,
+                43.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers in Samaria had already possessed the Holy Spirit, but Peter and John came and laid hands on them to receive even greater blessings. This act was done in full recognition of the authority and presence of the Lord Jesus. The laying on of hands by the apostles was a unique privilege that was connected to the impartation of the Holy Spirit. Through the Holy Spirit, baptism carries its true efficacy, symbolizing the blood of Christ and performed in the name of the Father, Son, and Holy Spirit.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7005482552240814,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                17.1,
+                40.4,
+                42.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers in Samaria already had the Holy Spirit, but Peter and John laid hands on them for additional blessings. The act was done in full recognition of the authority of the Lord Jesus. The laying on of hands was a privilege and responsibility connected to the impartation of the Holy Spirit. Baptism's true efficacy lies in the Holy Spirit, symbolizing Christ's blood, and performed in the name of the Father, Son, and Holy Spirit. This event visibly displayed God's Spirit among His Church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.6299455990516278,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.54,
+            "commentatorTierSimilarities": [
+                19.98,
+                37.9,
+                42.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers in Samaria already possessed the Holy Spirit, but Peter and John laid hands on them for greater blessings in full submission to the authority of the Lord Jesus. The laying on of hands by the apostles was a unique privilege connected to the impartation of the Holy Spirit. Baptism's true efficacy is through the Holy Spirit, symbolizing Christ's blood, and performed in the name of the Father, Son, and Holy Spirit. This event displayed the visible presence of God's Spirit in His Church.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.753668952299832,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+            "commentatorTierSimilarities": [
+                18.99,
+                38.62,
+                42.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

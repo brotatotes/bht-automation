@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:19:35",
+    "verseRef": "Luke 13:26",
+    "bestBHT": {
+        "bht": "We have eaten and drank in your presence, listened to your teaching in our streets; surely we are not to be denied admittance? These claims of previous acquaintance and external connection with Christ, however, are merely in His presence, different from true communion with Him. On judgment day, external observances and a mere profession of faith will be insufficient. Let us not neglect the opportunity for genuine communion with Christ, lest we miss out on the salvation within our reach.",
+        "wordCount": 80,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.8288793360192521,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+        "commentatorTierSimilarities": [
+            29.75,
+            33.86,
+            36.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We have eaten and drank in thy presence...both these are merely in His presence;\u2014very different from the drinking \u2018with you\u2019\" (Luke 13:26). ",
+            "As applied to Christians, to the eating and drinking whereof those miracles were anticipatory\" (Luke 13:26). ",
+            "thou hast taught in our streets...in its fuller sense, to all among whom the Gospel is preached, even till the end\" (Luke 13:26)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We have sat with Thee at the same table.",
+            "Do we not remember listening in our own streets to Thy teaching?",
+            "Surely we are not to be denied admittance?"
+        ],
+        "Albert Barnes": [
+            "To have eaten with one is evidence of acquaintanceship or friendship.\" ",
+            "The figure is taken from the customs of people, and means simply that they had professed attachment, and perhaps supposed that Jesus was their friend.",
+            "Thou didst favor us, as though thou didst love us. Thou didst not turn away from us, and we did not drive thee away. All this is alleged as proof of friendship."
+        ],
+        "Marvin Vincent": [
+            "In thy presence [\u03b5\u03bd\u03c9\u03c0\u03b9\u03bf\u03bd \u03c3\u03bf\u03c5] . Not as beloved and familiar guests. Compare with you [\u03bc\u03b5\u03b8 \u03c5\u03bc\u03c9\u03bd] , Matthew 26:29."
+        ],
+        "John Calvin": [
+            "Thou hast taught in our streets... if, when called, they do not answer at the appointed day.\" ",
+            "He does not follow out his comparison: for, after having spoken about the master of a house, he now states, without a figure, that he is himself the judge.",
+            "We now perceive his design, which was, to warn the Jews not to allow themselves to lose, by their own neglect, the salvation which it is in their power to obtain."
+        ],
+        "Philip Schaff": [
+            "The plea is previous acquaintanceship... external connection with Christ, without actual communion with Him.\" ",
+            "Undoubtedly we may accept here an allusion to the Lord's supper.",
+            "Notice the earnestness is not that of those seeking for mercy, but of those claiming a right, and basing their claim on something merely external. It is the mistake of Phariseeism to the very last."
+        ],
+        "Archibald T. Robertson": [
+            "In thy presence (\u03b5\u03bd\u03c9\u03c0\u03b9\u03bf\u03bd \u03c3\u03bf\u03c5). As guests or hosts or neighbours some claim, or the master of the house.",
+            "It is grotesque to claim credit because Christ taught in their streets, but they are hard run for excuses and claims.",
+            "It is a difficult passage and the copyists had trouble with it."
+        ],
+        "John Gill": [
+            "we have eaten and drank in thy presence... all which will be insufficient to introduce men into the kingdom and glory of Christ...",
+            "natural relation to Christ... and a bare profession of him, will be of no avail another day",
+            "what our Lord did, was no other than what was usual with their doctors; nor is this contrary to what is said... this is also a fruitless plea and which will be of no service"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We have sat with you at the same table, listened to your teaching in our streets, surely we are not to be denied admittance? But these claims of previous acquaintance and external connection with Christ, without actual communion with Him, are merely in His presence, very different from truly partaking in fellowship with Him. It is a mistake to base our claim on something merely external, for external observances and a bare profession of Him will be of no avail on judgment day. Let us not lose the salvation that is in our power to obtain by neglecting true communion with Christ.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.8443494050942202,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+            "commentatorTierSimilarities": [
+                28.58,
+                32.54,
+                38.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We have sat with you at the same table, listened to your teaching in our streets, surely we are not to be denied admittance? But these claims of previous acquaintance and external connection with Christ, without actual communion with Him, are merely in His presence, different from truly partaking in fellowship with Him. External observances and a bare profession of Him will be no avail on judgment day. Let us not lose the salvation in our power to obtain by neglecting true communion with Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8030860566304074,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.29,
+            "commentatorTierSimilarities": [
+                28.95,
+                31.23,
+                39.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We have sat with you at the same table, listened to your teaching in our streets; surely we are not to be denied admittance? But claims of previous acquaintance and external connection with Christ are merely in His presence, different from true communion with Him. External observances and a bare profession of Him will be of no avail on judgment day. Let us not neglect true communion with Christ, lest we lose the salvation within our reach.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.8151962278154752,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+            "commentatorTierSimilarities": [
+                30.37,
+                32.07,
+                37.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We have eaten and drank in your presence, listened to your teaching in our streets; surely we are not to be denied admittance? However, these claims of previous acquaintance and external connection with Christ are merely in His presence, not true fellowship with Him. On judgment day, external observances and a mere profession of faith will be insufficient. Let us not neglect the opportunity for genuine communion with Christ, lest we miss out on the salvation that we have the power to obtain.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8068835805593155,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.42,
+            "commentatorTierSimilarities": [
+                28.59,
+                33.6,
+                37.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We have eaten and drank in your presence, listened to your teaching in our streets; surely we are not to be denied admittance? These claims of previous acquaintance and external connection with Christ, however, are merely in His presence, different from true communion with Him. On judgment day, external observances and a mere profession of faith will be insufficient. Let us not neglect the opportunity for genuine communion with Christ, lest we miss out on the salvation within our reach.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8288793360192521,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+            "commentatorTierSimilarities": [
+                29.75,
+                33.86,
+                36.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

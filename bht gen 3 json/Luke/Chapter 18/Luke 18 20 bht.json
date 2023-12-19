@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:21:25",
+    "verseRef": "Luke 18:20",
+    "bestBHT": {
+        "bht": "Jesus responds to a man's inquiry about inheriting eternal life by pointing to the commandments. He specifically focuses on the second table of the commandments, which covers interpersonal relationships. By doing this, Jesus suggests that these commandments are comparatively easier to keep than those related to our relationship with God. Jesus emphasizes the significance of obedience to the commandments as a means of attaining eternal life. Ultimately, keeping the commandments is essential for fulfilling the law and receiving the reward of eternal life.",
+        "wordCount": 84,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.517649918683384,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+        "commentatorTierSimilarities": [
+            53.89,
+            0.0,
+            46.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thou knowest, c.\u2014Matthew (Matthew 19:17) is more complete here: 'but if thou wilt enter into life, keep the commandments.\" ",
+            "He saith unto him, Which\u2014as if he had said, Point me out one of them which I have not kept?\u2014\"Jesus said, Thou shalt,\" &c.",
+            "Our Lord purposely confines Himself to the second table, which He would consider easy to keep, enumerating them all."
+        ],
+        "Marvin Vincent": [
+            "Why callest thou me good? See on Matthew 19:17. ",
+            "Do not commit adultery, etc. Compare the different arrangement of the commandments by the three synoptists."
+        ],
+        "John Gill": [
+            "The commandments must be kept, or the law must he fulfilled, and satisfaction made for the violation of it, or there can be no inheriting eternal life.\" ",
+            "The five commandments mentioned are, the seventh, sixth, eighth, ninth, and fifth: do not commit adultery; do not kill; do not steal; do not bear false witness; honor father and thy mother."
+        ],
+        "John Wesley": [
+            "Exodus 20:12, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus engages in a conversation with a man who asks Him how to inherit eternal life. In response, Jesus refers to the commandments, affirming that keeping them is crucial for attaining eternal life. Specifically, He focuses on the second table of the commandments, which includes commandments related to interpersonal relationships. By doing so, Jesus implies that these are relatively easier to observe compared to the first table, which pertains to our relationship with God. Ultimately, Jesus highlights the importance of obedience to the commandments as a pathway to eternal life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4154551418655,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.41,
+            "commentatorTierSimilarities": [
+                58.69,
+                0.0,
+                41.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus responds to a man's inquiry about inheriting eternal life by pointing to the commandments. He specifically focuses on the second table of the commandments, which covers interpersonal relationships. By doing this, Jesus suggests that these commandments are comparatively easier to keep than those related to our relationship with God. Jesus emphasizes the significance of obedience to the commandments as a means of attaining eternal life. Ultimately, keeping the commandments is essential for fulfilling the law and receiving the reward of eternal life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.517649918683384,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                53.89,
+                0.0,
+                46.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus responds to a man's question about eternal life by pointing to the importance of keeping the commandments. He specifically focuses on the second table of the commandments, which revolves around interpersonal relationships. By highlighting these commandments, Jesus implies that they are relatively easier to follow compared to those related to our relationship with God. Jesus emphasizes the significance of obedience to the commandments as a requirement for inheriting eternal life. Fulfilling the commandments is crucial in our journey towards attaining the ultimate reward of everlasting life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.4492926254524652,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.53,
+            "commentatorTierSimilarities": [
+                55.45,
+                0.0,
+                44.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When questioned about inheriting eternal life, Jesus responds by emphasizing the importance of observing the commandments. He narrows the focus to the second table of commandments, which encompass interpersonal relationships. By highlighting these commandments, Jesus suggests that they are relatively easier to abide by. He underscores that obedience to the commandments is essential for fulfilling the law and ultimately attaining eternal life. Keeping the commandments serves as the pathway to eternal life, requiring a faithful commitment to righteousness and moral conduct.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.4089850692593386,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.19,
+            "commentatorTierSimilarities": [
+                52.12,
+                0.0,
+                47.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When asked about the path to eternal life, Jesus directs the man's attention to the commandments. Specifically, He draws focus to the second table of commandments, which pertains to interpersonal relationships. Jesus implies that these commandments are relatively more manageable to uphold compared to those related to our relationship with God. He emphasizes the importance of obedience to the commandments as an essential requirement to inherit eternal life. By faithfully keeping the commandments, we fulfill the law and pave the way towards everlasting life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.4854559733026502,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.73,
+            "commentatorTierSimilarities": [
+                53.45,
+                0.0,
+                46.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

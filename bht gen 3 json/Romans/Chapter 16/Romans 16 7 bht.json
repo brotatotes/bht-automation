@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:10:53",
+    "verseRef": "Romans 16:7",
+    "bestBHT": {
+        "bht": "Andronicus and Junia, whether they were husband and wife or brother and sister, were noted among the apostles. They had embraced the gospel before Paul, and their early conversion to Christianity was a testament to their faith in Christ. They were esteemed and recognized by the apostles, and their commitment to the faith was evident through their imprisonment for the sake of the gospel. Their dedication to Christ was marked by their unwavering devotion, making them shining examples of faith among their fellow believers.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 1.926462046465061,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.4,
+        "commentatorTierSimilarities": [
+            23.14,
+            34.63,
+            42.23
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To be Apostles at all is a great thing; but to be also of note among them, mark what an encomium it is.",
+            "Noted among the Apostles, i.e. well known and spoken of by the Apostles.",
+            "If the wider sense found in Acts xiv. 4, 14; 2 Cor. viii. 23; 1 Thess. ii. 6 (compare i. 1), be taken, there need be no doubt concerning the meaning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Those who think the word 'apostle' is used in a lax sense, in the Acts and Epistles, take this to mean 'noted apostles' [CHRYSOSTOM, LUTHER, CALVIN, BENGEL, OLSHAUSEN, THOLUCK, ALFORD, JOWETT].",
+            "If 'Junia' is to be taken for a woman, this latter must be the meaning.",
+            "The apostle writes as if he envied them this priority in the faith. And, indeed, if to be 'in Christ' be the most enviable human condition, the earlier the date of this blessed translation, the greater the grace of it."
+        ],
+        "Albert Barnes": [
+            "It seems probable that they were remote relatives of the apostle.",
+            "The word translated 'of note' \u03b5\u0313\u03c0\u03b9\u0301\u03c3\u03b7\u03bc\u03bf\u03b9 epise\u0304moi, denotes properly those who are 'marked,' designated, or distinguished in any way, used either in a good or bad sense.",
+            "The design of the office of 'apostles' was to bear 'witness' to the life, death, resurrection, doctrines, and miracles of Christ."
+        ],
+        "Marvin Vincent": [
+            "If the latter, the person was probably the wife of Andronicus. If the former, the name is to be rendered Junias.\" ",
+            "Kinsmen. The primary meaning is related by blood; but it is used in the wider sense of fellow - countrymen.\" ",
+            "Of note. A good rendering etymologically, the word meaning, literally, bearing a mark."
+        ],
+        "John Calvin": [
+            "There is more weight in the second eulogy, when he calls them his fellow-prisoners; for among the honors belonging to the warfare of Christ, bonds are not to be counted the least.",
+            "He then, in a general way, calls those in this place Apostles, who planted Churches by carrying here and there the doctrine of salvation.",
+            "But as they had embraced the gospel by faith before Paul, he hesitates not to set them on this account before himself."
+        ],
+        "Philip Schaff": [
+            "Andronicus and Junias, or 'Junia.' It is impossible to decide which form of the latter name is correct; if the feminine form ('Junia') be accepted, then the wife or sister of Andronicus is meant.",
+            "My kinsman. This may mean 'fellow-countrymen,' here and in Romans 16:11; Romans 16:21; but all the persons thus termed may have been actual 'kinsmen.' It cannot be affirmed that they were not.",
+            "Who are of note among the Apostles; honorably known by the Apostles. The phrase does not imply that they were Apostles. So loose a sense of the term cannot be accepted."
+        ],
+        "Archibald T. Robertson": [
+            "My apologies for the oversight. Here are three quotes from the original commentary:",
+            "Fellow-prisoners...fellow captives in war.",
+            "Of note...Stamped, marked...only here and Matthew 27:16 (bad sense) in N.T.",
+            "Who have been in Christ before me...The perfect tense notes that they are still in Christ."
+        ],
+        "John Gill": [
+            "This is a greater character of them, and a greater honour to them, than to be called his kinsmen after the flesh.",
+            "And it was more to be in Christ than them all, than to be Paul's kinsmen, fellow prisoners with him, or to be known and approved of by the apostles, to be messengers of churches, preachers of the word, or even to be apostles themselves, and the chiefest of them.",
+            "For such are blessed with all spiritual blessings in Christ, are complete and perfect in him, are safe and secure, and can never perish."
+        ],
+        "John Wesley": [
+            "Who are of note among the apostles \u2014 They seem to have been some of the most early converts.",
+            "Fellowprisoners \u2014 For the gospel's sake."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Andronicus and Junia, whether they were husband and wife or brother and sister, were well known and esteemed among the apostles. They were not apostles themselves, but they were recognized and respected by those who carried the message of salvation. In fact, they had embraced the gospel before the apostle Paul, and this was something that he admired in them. Being in Christ is the most enviable condition for a believer, and the fact that Andronicus and Junia had been in Christ before Paul shows the great grace they had received. They were not only fellow believers, but also fellow prisoners for the sake of the gospel, bearing the mark of their devotion to Christ.",
+            "wordCount": 115,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 2.0346205354044598,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.99,
+            "commentatorTierSimilarities": [
+                25.74,
+                33.4,
+                40.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Andronicus and Junia, whether they were husband and wife or brother and sister, were well known and esteemed among the apostles. They had embraced the gospel before Paul and were honored by the apostles. Their early conversion to Christianity was a true testament to their faith in Christ. In addition to being fellow believers, they also shared the hardship of being imprisoned for the sake of the gospel. Their commitment and devotion to Christ were evident, as they bore the mark of their faith even in the face of persecution.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8490986992652814,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+            "commentatorTierSimilarities": [
+                23.78,
+                32.39,
+                43.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Andronicus and Junia, whether they were husband and wife or brother and sister, were well known and esteemed among the apostles. They had embraced the gospel before Paul, and their early conversion to Christianity was a true testament to their faith in Christ. In addition to being fellow believers, they also shared the hardship of being imprisoned for the sake of the gospel. Their commitment and devotion to Christ were evident, as they bore the mark of their faith even in the face of persecution.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8317394619813965,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
+            "commentatorTierSimilarities": [
+                23.73,
+                32.52,
+                43.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Andronicus and Junia, whether they were husband and wife or brother and sister, were noted among the apostles. They had embraced the gospel before Paul, and their early conversion to Christianity was a testament to their faith in Christ. They were esteemed and recognized by the apostles, and their commitment to the faith was evident through their imprisonment for the sake of the gospel. Their dedication to Christ was marked by their unwavering devotion, making them shining examples of faith among their fellow believers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.926462046465061,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.4,
+            "commentatorTierSimilarities": [
+                23.14,
+                34.63,
+                42.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Andronicus and Junia were well known and esteemed among the apostles, recognized for their early conversion to Christianity. Their faith and commitment to Christ were evident, as they bore the mark of their faith even in the face of imprisonment for the sake of the gospel. They were shining examples of faith and dedication, noted among their fellow believers for their unwavering devotion to Christ.",
+            "wordCount": 65,
+            "quoteTokenProportion": 32.5,
+            "qualityScore": 1.8770722057002813,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                23.81,
+                32.73,
+                43.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

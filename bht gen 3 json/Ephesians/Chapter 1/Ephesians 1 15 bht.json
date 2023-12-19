@@ -1,0 +1,148 @@
+{
+    "timestamp": "12-19-2023 15:38:02",
+    "verseRef": "Ephesians 1:15",
+    "bestBHT": {
+        "bht": "Paul commended the Ephesians for the faith they displayed, as it was not universal among them but was actively shown through their works and fruits towards fellow Christians. He emphasized the inseparable nature of faith and love, as faith without love is incomplete. Paul expressed his gratitude and continually thanked God for their faith and love, acknowledging the importance of these qualities in the character of a believer. He urged them to extend love not only to fellow saints but to all individuals, as a genuine expression of their faith.",
+        "wordCount": 90,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 2.0295278044330445,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+        "commentatorTierSimilarities": [
+            25.09,
+            33.3,
+            41.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because ye are in Christ, and in Him were sealed, &c.) I also...having heard of...the faith in the Lord Jesus which is among you.",
+            "This is not the same as 'your faith,' A.V., but it implies the possibility of some not having this faith, and thus intensifies the prayer which follows.",
+            "The omission of the words in brackets may have been occasioned by similar endings, but the three ancient MSS. which leave them out are perfectly independent of one another."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Wherefore\u2014because ye are",
+            "\tin Christ and sealed by His Spirit.",
+            "your faith\u2014rather, as",
+            "\tGreek, 'the faith among you,' that is, which many",
+            "\t(not all) of you have.",
+            "love unto all the saints\u2014of",
+            "\twhatever name, simply because they are saints."
+        ],
+        "Albert Barnes": [
+            "Perhaps he had heard nothing... until the time here referred to.",
+            "It would be, therefore, a matter of great interest with him to hear from them.",
+            "He says that his anxiety was relieved, and that he did not cease to give thanks for what he had heard, and to commend them to God in prayer."
+        ],
+        "Marvin Vincent": [
+            "Your faith which is among you...faith which displays its work and fruits toward fellow Christians.\" ",
+            "Though love is not mentioned, yet faith works by love.\" ",
+            "Faith which displays its work and fruits toward fellow Christians."
+        ],
+        "John Calvin": [
+            "Observe here, that under faith and love Paul includes generally the whole excellence of Christian character.",
+            "Love ought to embrace all men, but here the saints are particularly mentioned; because love, when properly regulated, begins with them, and is afterwards extended to all others.",
+            "If our love must have a view to God, the nearer any man approaches to God, the stronger unquestionably must be his claims to our love."
+        ],
+        "Philip Schaff": [
+            "\u2018your faith in Christ Jesus\u2019 marks the faith as the possession of the individuals. \u2018Faith\u2019 does not, however, mean \u2018that which is believed,\u2019 but \u2018believing.\u2019\" ",
+            "The faith is there among them; 'your faith in Christ Jesus' (Colossians 1:4), marks the faith as the possession of the individuals.\" ",
+            "The order is always \u2018faith and love.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The use of the article referring to \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd and the change from \u03b5\u03bd to \u03b5\u03b9\u03c2 probably justifies the translation 'which ye shew toward.'\" ",
+            "The words 'ye show' do not occur in the Greek.",
+            "It could have been omitted, but is probably not genuine."
+        ],
+        "John Gill": [
+            "And the grace of faith, which terminates on him, is a seeing him, a beholding the glory of his person, and the fulness of his grace; a going to him, and venturing on him; a laying hold upon him, and embracing of him; a committing all unto him, and a leaning and depending on him, and a living upon him, and a walking on in him.",
+            "And love unto all the saints: whether Jew or Gentile, rich or poor, greater or lesser believers, of meaner gifts, or larger abilities; and which love was unfeigned, fervent, active, and laborious; and which is the evidence of regeneration, and without which a profession is in vain.",
+            "These two graces, faith and love, are inseparable; they always go together, and are to be found in the same persons; and where they are, they cannot be hid, as they were not in these Ephesians; their faith was professed by them, and was made public, and their love showed itself in deeds, as well as in words, to the saints."
+        ],
+        "John Wesley": [
+            "Since I heard of your faith and love \u2014 That is, of their perseverance and increase therein."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, writing to the Ephesians, commends them for their faith in the Lord Jesus, acknowledging that it was not something universal among them, but rather a faith that many of them possessed. This faith was not merely a belief, but a living and active faith that was displayed in their works and fruits towards their fellow Christians. Although love is not explicitly mentioned, faith works hand in hand with love, as faith without love is incomplete. Paul's joy was great upon hearing of their faith and love, and he continually thanked God for this. It is important to note that faith and love are inseparable and should be extended not just to the saints, but to all.",
+            "wordCount": 118,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.106374506642446,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+            "commentatorTierSimilarities": [
+                26.59,
+                32.78,
+                40.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul expressed his gratitude upon hearing of the faith and love displayed by the Ephesians. Their faith, which was not universal among them, was demonstrated through their works and fruits towards their fellow believers. The combination of faith and love is crucial in the life of a believer, as faith without love is incomplete. Paul continually thanked God for their faith and love, recognizing the importance of these qualities in the Christian character. It is essential for believers to extend their love not only to fellow Christians but to all individuals.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.944816138481913,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                26.41,
+                32.95,
+                40.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul commended the Ephesians for their faith in the Lord Jesus, acknowledging that while not universal among them, it was displayed through their works and fruits towards their fellow believers. He emphasized the inseparable nature of faith and love, as faith without love is incomplete. Upon hearing of their faith and love, Paul thanked God for these qualities and recognized their importance in the Christian character. He encouraged believers to extend their love not only to fellow Christians but to all individuals.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.9770152664741483,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+            "commentatorTierSimilarities": [
+                25.51,
+                33.76,
+                40.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul commended the Ephesians for their faith in the Lord Jesus, recognizing that while not universal among them, it was actively displayed through their works and fruits towards their fellow believers. He highlighted the essential connection between faith and love, affirming that genuine faith is accompanied by love. Paul expressed his gratitude, continually thanking God for their faith and love. He emphasized the importance of extending love not only to fellow believers but to all individuals, as an integral aspect of the Christian character.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9112365065849644,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.89,
+            "commentatorTierSimilarities": [
+                24.91,
+                34.04,
+                41.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul commended the Ephesians for the faith they displayed, as it was not universal among them but was actively shown through their works and fruits towards fellow Christians. He emphasized the inseparable nature of faith and love, as faith without love is incomplete. Paul expressed his gratitude and continually thanked God for their faith and love, acknowledging the importance of these qualities in the character of a believer. He urged them to extend love not only to fellow saints but to all individuals, as a genuine expression of their faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.0295278044330445,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                25.09,
+                33.3,
+                41.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

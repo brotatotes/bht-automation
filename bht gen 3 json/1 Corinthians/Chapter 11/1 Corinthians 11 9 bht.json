@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 15:11:34",
+    "verseRef": "1 Corinthians 11:9",
+    "bestBHT": {
+        "bht": "The order of creation is highlighted, emphasizing that man was created before woman, and that the woman was created for the sake of the man. This parallels the relationship between Christ and the Church, with the woman representing the Church, the bride, created to fulfill her purpose and bring glory to both herself and her Creator. The woman was made to be a companion, helper, and comforter for the man, not to be a slave or solely for his pleasure. Her role is honorable, although subordinate, as she was created to aid and support the man.",
+        "wordCount": 96,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.094386835575497,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+        "commentatorTierSimilarities": [
+            38.77,
+            32.94,
+            28.28
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For neither was the man created on account of the woman.\" ",
+            "The manner of creation, out of the man, is insisted on.\" ",
+            "The occasion of creation, for the sake of the man, is insisted on."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The man was not created for the sake of the woman; but the woman for the sake of the man.",
+            "Just as the Church, the bride, is made for Christ; and yet in both the natural and the spiritual creations, the bride, while made for the bridegroom, in fulfilling that end, attains her own true 'glory.'",
+            "The bride brings 'shame' and 'dishonor' on herself by any departure from fulfilling her purpose."
+        ],
+        "Albert Barnes": [
+            "The woman was made for the comfort and happiness of the man.",
+            "Not to be a slave, but a help-meet; not to be the minister of his pleasures, but to be his aid and comforter in life.",
+            "Her rank is therefore honorable, though it is subordinate."
+        ],
+        "Archibald T. Robertson": [
+            "For the woman. Because of the woman.\" ",
+            "The record in Genesis gives the man as the origin of the woman.\" ",
+            "The reason for the creation of woman."
+        ],
+        "John Gill": [
+            "Neither was the man created for the woman...he was made for God, for his service and glory.\" ",
+            "but the woman for the man...to be a companion and associate of his.",
+            "and for the procreation and education of children."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse expresses the order in which man and woman were created, emphasizing that the man was created first and the woman was created for the sake of the man. This highlights the purpose and function of the woman, who is compared to the Church as the bride to the bridegroom, Christ. The woman's role is to fulfill her purpose, bringing glory to herself and her Creator. She was created to be a companion, helper, and comforter for the man, not to be a slave or minister of his pleasures. The woman's rank is honorable, albeit subordinate, as she was made to bring aid and support to the man.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.0476528653034163,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.43,
+            "commentatorTierSimilarities": [
+                37.13,
+                34.85,
+                28.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The order of creation is highlighted, emphasizing that man was created before woman, and that the woman was created for the sake of the man. This parallels the relationship between Christ and the Church, with the woman representing the Church, the bride, created to fulfill her purpose and bring glory to both herself and her Creator. The woman was made to be a companion, helper, and comforter for the man, not to be a slave or solely for his pleasure. Her role is honorable, although subordinate, as she was created to aid and support the man.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.094386835575497,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+            "commentatorTierSimilarities": [
+                38.77,
+                32.94,
+                28.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The creation order is emphasized, stating that man was created first, and the woman was made for the sake of the man. This mirrors the relationship between Christ and the Church, where the woman represents the bride, created to fulfill her purpose and bring honor to both herself and her Maker. The woman's role is to be a companion, helper, and comforter for the man, not a slave or merely for his pleasure. Although her position is subordinate, she is honorable, as she was designed to support and assist the man.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.03611003556715,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                38.55,
+                34.68,
+                26.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The creation order is significant, with man being created before woman, and the purpose of the woman is emphasized, being made for the sake of the man. This mirrors the relationship between Christ and the Church, where the woman symbolizes the bride, fulfilling her purpose and bringing glory to herself and her Creator. The woman's role is that of a companion, helper, and comforter to the man, not a servant or merely for his pleasure. Although her role is subordinate, it is honorable, as she was designed to support and assist the man.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.0126586590361937,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                39.17,
+                32.9,
+                27.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The creation order is essential, highlighting that man was created first, and the woman was made for the sake of the man. This parallels the relationship between Christ and the Church, with the woman signifying the bride, meant to fulfill her purpose and bring glory to herself and her Creator. The role of the woman is that of a companion, helper, and comforter to the man, not a servant or merely for his pleasure. While her position may be subordinate, it is honorable, as she was designed to support and assist the man.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.02562752210181,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.69,
+            "commentatorTierSimilarities": [
+                38.45,
+                33.27,
+                28.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

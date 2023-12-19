@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:29:50",
+    "verseRef": "Ephesians 2:19",
+    "bestBHT": {
+        "bht": "You are no longer strangers and sojourners, but fellow citizens with the saints and of the household of God. Having been built upon the foundation of the apostles and prophets, with Christ Jesus Himself as the Head cornerstone, the Lord Himself is built into this household. Formerly excluded, you now belong to the same community as the people of God, sharing their privileges and regarded as His children. This is a great honor, being admitted to the same community as Abraham, the patriarchs, prophets, kings, and even the angels themselves.",
+        "wordCount": 90,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 2.0800214901114864,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.5,
+        "commentatorTierSimilarities": [
+            24.03,
+            35.51,
+            40.46
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So then ye no longer are strangers and sojourners, but are fellow-citizens with the saints and of the household of God.\" ",
+            "Having been built up upon the foundation of the apostles and prophets, Christ Jesus Himself being the Head corner stone.",
+            "The Lord Himself is built into it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So then... 'sojourners'... 'strangers'... 'members of the household'... 'fellow citizens'.\" ",
+            "The oldest manuscripts add, 'are'.",
+            "The commonwealth of (spiritual) Israel."
+        ],
+        "Albert Barnes": [
+            "You are reckoned with the people of God. You are entitled to their privileges, and are not to be regarded as outcasts and aliens.",
+            "The meaning is, that they belonged to the same community - the same family - as the people of God.",
+            "Belonging to the same community with the people of God. Entitled to the same privileges, and regarded by him as his children."
+        ],
+        "Marvin Vincent": [
+            "Foreigners [\u03c0\u03b1\u03c1\u03bf\u03b9\u03ba\u03bf\u03b9] . See on Luke 24:18. Rev., better, sojourners. Without rights of citizenship."
+        ],
+        "John Calvin": [
+            "The high value of that honor which God had been pleased to bestow upon them, is expressed in a variety of language.\" ",
+            "Those who were formerly profane, and utterly unworthy to associate with godly persons, have been raised to distinguished honor in being admitted to be members of the same community with Abraham, \u2014 with all the holy patriarchs, and prophets, and kings, \u2014 nay, with the angels themselves.",
+            "To be of the household of God, which is the second comparison, suggests equally exalted views of their present condition. God has admitted them into his own family; for the church is God\u2019s house."
+        ],
+        "Philip Schaff": [
+            "Ye are no longer...strangers and sojourners...but ye are fellow citizens with the saints.\" ",
+            "The figure requires no explanation; comp. Ephesians 2:12. 'The saints' here includes all 'the members of that spiritual community in which Jew and Gentile Christians were now united and incorporated, and to which the external theocracy formed a typical and preparatory institution' (Ellicott).",
+            "To the right of citizen is added that of the house, of the child, of the heir."
+        ],
+        "Archibald T. Robertson": [
+            "No more. No longer.\" ",
+            "Sojourners, dwellers just outside the house or family of God.\" ",
+            "Gentiles now in the family of God."
+        ],
+        "John Gill": [
+            "They were not now strangers to God, to the grace of God, the love of God, and communion with him, nor to the throne of his grace; nor to Christ, to his person, his work and office, to his righteousness, to his voice, and to believing in him; nor to the Holy Spirit, as an enlightener, a comforter, the spirit of adoption, and as a seal and earnest of future glory...",
+            "but fellow citizens with the saints: the city they belong to is either the church below, which is the city of God, of his building, and where he dwells... or heaven above, which is a city of God's preparing and building also, and where he has his residence, and which is the habitation of angels and saints.",
+            "and of the household of God: and which is sometimes called the household of faith, the church of God consisting of believers... and to this family all believers belong, whether Gentiles or Jews; and which they come into, not by birth, nor by merit, but by adopting grace; and happy are they that belong to this city and house!"
+        ],
+        "John Wesley": [
+            "Therefore ye are no longer strangers, but citizens of the heavenly Jerusalem; no longer foreigners, but received into the very family of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You are no longer strangers and sojourners, but fellow citizens with the saints and of the household of God. You have been built up upon the foundation of the apostles and prophets, with Christ Himself as the Head corner stone. The Lord Himself is built into this household. You are now reckoned with the people of God, entitled to their privileges, and regarded as His children. You belong to the same community, the same family, as the people of God. This high honor that God has bestowed upon you is expressed in a variety of language. Formerly profane and unworthy, you have been raised to distinguished honor, admitted to the same community as Abraham, the patriarchs, prophets, kings, and even the angels themselves. You are no longer strangers to God, to His grace, His love, His communion. You are fellow citizens with the saints, belonging to the city of God and the household of faith. You are citizens of the heavenly Jerusalem, received into the very family of God.",
+            "wordCount": 169,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0342877364076566,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                23.94,
+                35.41,
+                40.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You are no longer strangers and sojourners, but fellow citizens with the saints and of the household of God. You have been built up upon the foundation of the apostles and prophets, with Christ Himself as the Head corner stone. You belong to the same community, the same family, as the people of God. Formerly profane and unworthy, you have been raised to distinguished honor, admitted to the same community as Abraham, the patriarchs, prophets, kings, and even the angels themselves. You are no longer strangers to God, to His grace, His love, His communion. You are fellow citizens with the saints, belonging to the city of God and the household of faith.",
+            "wordCount": 113,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.085700377944763,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                24.59,
+                34.77,
+                40.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You are no longer strangers and sojourners, but fellow citizens with the saints. You have been built up upon the foundation of the apostles and prophets, with Christ Himself as the Head corner stone. The Lord Himself is built into this household. You belong to the same community, the same family, as the people of God. Formerly profane and unworthy, you have been raised to distinguished honor, admitted to be members of the same community with Abraham, the patriarchs, prophets, kings, and even the angels themselves.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.9650669177876687,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.68,
+            "commentatorTierSimilarities": [
+                27.78,
+                34.96,
+                37.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You are no longer strangers and sojourners, but fellow citizens with the saints and of the household of God. Having been built upon the foundation of the apostles and prophets, with Christ Jesus Himself as the Head cornerstone, the Lord Himself is built into this household. Formerly excluded, you now belong to the same community as the people of God, sharing their privileges and regarded as His children. This is a great honor, being admitted to the same community as Abraham, the patriarchs, prophets, kings, and even the angels themselves.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.0800214901114864,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.5,
+            "commentatorTierSimilarities": [
+                24.03,
+                35.51,
+                40.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "You are no longer strangers and sojourners, but fellow citizens with the saints and of the household of God. Built upon the foundation of the apostles and prophets, with Christ Jesus Himself as the Head corner stone, the Lord Himself is built into this household. Your high honor is expressed through the language used to describe your belonging to this community: being admitted to the same community as Abraham, the patriarchs, prophets, kings, and even the angels themselves. You now belong to the city of God and the household of faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.027147869933942,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                26.55,
+                31.54,
+                41.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

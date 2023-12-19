@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:20:05",
+    "verseRef": "Galatians 5:11",
+    "bestBHT": {
+        "bht": "Paul confronts the accusation that he promotes circumcision, highlighting that doing so would remove the offense of the cross and negate the purpose of his persecution by the Jews. He emphasizes his resolute opposition to these false teachings, rooted in his commitment to preserving the authentic message of the gospel. Paul's unwavering stand is not motivated by personal gain but rather by his dedication to the unadulterated truth of the crucifixion of Christ, which undermines the significance of the Mosaic law.",
+        "wordCount": 82,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 2.4830768803485794,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.9,
+        "commentatorTierSimilarities": [
+            33.81,
+            35.25,
+            30.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I, emphatic as before, is best understood as referring, not to any change in his preaching as an Apostle... but to the change since his conversion, before which he was a strenuous upholder of Judaism.",
+            "What further excuse is there for my being (as I am) persecuted (by the Jews)?... If I still preach circumcision, then is brought to nought, is done away, the OFFENSE of the cross.",
+            "For not even the cross did so much scandalize the Jews, as the having to leave off obeying the fathers\u2019 laws."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If for conciliation he lived as a Jew among the Jews, it was in accordance with his principle enunciated (1 Corinthians 7:18; 1 Corinthians 7:20; 1 Corinthians 9:20).",
+            "Circumcision, or uncircumcision, are things indifferent in themselves: their lawfulness or unlawfulness depends on the animus of him who uses them.",
+            "Worldly Wiseman, of the town of Carnal Policy, turns Christian out of the narrow way of the Cross, to the house of Legality."
+        ],
+        "Albert Barnes": [
+            "Why do I yet suffer persecution? That is, from the Jews. 'Why do they oppose me? Circumcision is the special badge of the Jewish religion...and if I preach the necessity of that, it would satisfy the Jews, and save me from persecution.'",
+            "The fact that he was persecuted by the Jews settled the question, and showed that he did not preach the necessity of circumcision in any such sense as to satisfy them, or in any such sense as was claimed by the false teachers in Galatia.",
+            "For if I should preach the necessity of circumcision...the offence of the cross of Christ would be removed."
+        ],
+        "Marvin Vincent": [
+            "He that troubleth you by preaching circumcision shall bear his judgment; but I am not a disturber - not your enemy... for I do not preach circumcision.\" ",
+            "If I preached circumcision, there would be no offense, and therefore no disturbance; for the cross would cease to be an offense, if, in addition to the cross, I preached just what the Judaisers assert, the necessity of circumcision.",
+            "If Paul had preached circumcision as necessary to salvation, the preaching of the cross would have ceased to be an offense, because, along with the cross, Paul would have preached what the Judaisers demanded, that the Mosaic law should still be binding on Christians."
+        ],
+        "John Calvin": [
+            "The earnestness with which I oppose them is not on my own account, nor for my own advantage.",
+            "Paul was at the farthest remove from ambition, covetousness, or regard to personal interest, since he despised favor and applause, and exposed himself to the persecutions and fury of the multitude rather than swerve a hair\u2019s-breadth from the purity of the gospel.",
+            "When therefore he says that now, If the preaching of circumcision be admitted, the offense of the cross will no longer exist, he means that the gospel will meet with no annoyance from the Jews, but will be taught with their entire concurrence."
+        ],
+        "Philip Schaff": [
+            "Then hath the offence (or stumbling block) of the cross been done away.",
+            "If circumcision is preached as a condition of salvation, then the cross, that is, the crucifixion, the doctrine of salvation by the atoning death of Christ, has lost its offensive character to the Jews.",
+            "The false teachers had probably spread the malicious report that Paul himself preached circumcision, because he practised it in the case of Timothy who had a Jewish mother; but this was exceptional and a measure of expediency and charity, not a surrender of the principle."
+        ],
+        "Archibald T. Robertson": [
+            "Why am I still persecuted?\" - Some of the Judaizers even circulated the slander that Paul preached circumcision in order to ruin his influence."
+        ],
+        "John Gill": [
+            "Why do I yet suffer persecution?...had he [preached circumcision], persecution from this quarter would not have followed him; and he could have done it with a good conscience.",
+            "If I am a preacher of [circumcision], why am I so warm and violent an opposer of those that submit to it? These things are so opposite that there is no reconciling them.",
+            "The doctrine of salvation by a crucified Christ...was an offence and a stumblingblock to the Jews; now if the apostle had preached circumcision as necessary to salvation, the other doctrine must have been dropped, and consequently the offence taken at it must have ceased, whereas it was not."
+        ],
+        "John Wesley": [
+            "But if I still preach circumcision \u2014 As that troubler seems to have affirmed, probably taking occasion from his having circumcised Timothy.",
+            "Why do I still suffer persecution? then is the offence of the cross ceased.",
+            "The grand reason why the Jews were so offended at his preaching Christ crucified, and so bitterly persecuted him for it, was, that it implied the abolition of the law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights Paul's defense against the accusation that he preaches circumcision, which he vehemently denies. He explains that if he did indeed preach circumcision, the offense of the cross would be nullified, thus eliminating the reason for his persecution by the Jews. By firmly opposing the false teachings, Paul demonstrates that his adherence to the gospel message, centered on the crucifixion of Christ, is incompatible with advocating for circumcision. His determined stand against these erroneous teachings is not for personal gain but to uphold the pure message of the gospel and the abolition of the law.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.6399042845507887,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.12,
+            "commentatorTierSimilarities": [
+                34.33,
+                33.78,
+                31.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul counters the accusation that he preaches circumcision, stating that if he did, the offense of the cross would be eliminated, thus negating the reason for his persecution by the Jews. By firmly opposing these false teachings, Paul upholds the unadulterated message of the gospel, centered on the crucifixion of Christ, and the cessation of the Old Testament law. His unwavering stance is not driven by personal gain, but rather by his commitment to the integrity of the gospel message.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.379965345219964,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.47,
+            "commentatorTierSimilarities": [
+                33.59,
+                34.69,
+                31.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul confronts the accusation that he promotes circumcision, highlighting that doing so would remove the offense of the cross and negate the purpose of his persecution by the Jews. He emphasizes his resolute opposition to these false teachings, rooted in his commitment to preserving the authentic message of the gospel. Paul's unwavering stand is not motivated by personal gain but rather by his dedication to the unadulterated truth of the crucifixion of Christ, which undermines the significance of the Mosaic law.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.4830768803485794,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.9,
+            "commentatorTierSimilarities": [
+                33.81,
+                35.25,
+                30.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul refutes the accusation that he preaches circumcision, stating that doing so would nullify the offense of the cross and diminish his persecution by the Jews. He firmly opposes these false teachings to uphold the unaltered truth of the gospel, centered on the crucifixion of Christ and the termination of the Mosaic law. His unwavering commitment is not driven by personal gain but by his dedication to the authenticity of the gospel message, even at the cost of enduring persecution.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4288394047906143,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.1,
+            "commentatorTierSimilarities": [
+                32.58,
+                35.11,
+                32.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul defends himself against the allegation that he endorses circumcision, asserting that doing so would eliminate the offense of the cross and nullify his persecution by the Jews. He ardently opposes these false teachings in order to uphold the untainted truth of the gospel, which centers on the crucifixion of Christ and the abolishment of the Mosaic law. His steadfast conviction is not motivated by personal gain, but rather by his unwavering commitment to preserving the integrity of the gospel message, even in the face of persecution.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.454582103855066,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.95,
+            "commentatorTierSimilarities": [
+                32.47,
+                35.13,
+                32.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

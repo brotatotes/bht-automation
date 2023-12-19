@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:15:05",
+    "verseRef": "2 Corinthians 1:16",
+    "bestBHT": {
+        "bht": "Paul initially intended to visit the Corinthians on his way to Macedonia and on his return journey, however, circumstances changed and he altered his plans based on information he received about the Corinthian church. Some criticized him for being indecisive, but Paul explains that his intention in going to Judea was to deliver the collection for the poor saints. This change of plans does not reflect vacillation, but rather Paul's genuine concern for the well-being of the Corinthians and his commitment to the success of the almsbearing scheme.",
+        "wordCount": 90,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.2730063067644495,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.92,
+        "commentatorTierSimilarities": [
+            35.53,
+            30.79,
+            33.68
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If this is the same journey which is announced in 1 Cor. xvi. 5, the idea of visiting them in the way to Macedonia as well as after having passed through it, must have occurred to him subsequently to the sending of that Epistle...",
+            "He had announced to them in the lost Epistle (see 1 Cor. v. 9) his intention, as here, of visiting them on his way to Macedonia: but the intelligence from 'them of the household of Chloe' had altered his intention...",
+            "Certainly, some intention of coming to them seems to have been mentioned in that lost Epistle; see 1 Cor. iv. 18. But the 'being brought on his way to Jud\u00e6a' can hardly but be coincident with the almsbearing scheme of 1 Cor. xvi. 4: in which case the two plans certainly are modifications of one and the same."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This intention of visiting them on the way to Macedonia, as well as after having passed through it, must have reached the ears of the Corinthians in some way or other.\" ",
+            "The sense comes out more clearly in the Greek order, 'By you to pass into Macedonia, and from Macedonia to come again unto you.'",
+            "Perhaps in the lost Epistle (1 Corinthians 4:18; 1 Corinthians 5:9)."
+        ],
+        "Albert Barnes": [
+            "His design was to pass through Corinth and Achaia on his journey.",
+            "Yet he had designed to go out of his way in order to make them a visit; and intended also, perhaps, to make them also a longer visit on his return.",
+            "His object in going to Judea was to convey the collection for the poor saints which he had been at so much pains to collect throughout the churches of the Gentiles."
+        ],
+        "Philip Schaff": [
+            "This was his original plan, to pay two visits to Corinth, on his way both to and from Macedonia.\" ",
+            "His times were in God's hands, and he was not omniscient to foresee the hindrances that might occur.\" ",
+            "That plan, however, had been modified ere he wrote his First Epistle, as is plain from chap. 1 Corinthians 16:5-7."
+        ],
+        "Archibald T. Robertson": [
+            "But he changed his plans and did not make that trip directly to Corinth, but came on to Macedonia first.",
+            "The Corinthians, especially the anti-Pauline party, took advantage of Paul's change of plans to criticize him sharply for vacillation and flippancy.",
+            "How easy it is to find fault with the preacher! So Paul has to explain his conduct."
+        ],
+        "John Gill": [
+            "It was his first intention and determination to have come first to Corinth, and then to Macedonia, to have took this city in his way thither; which was an argument of his love to them, and his great desire to see them; since he might have gone, as he did, a nearer way to Macedonia, than by Corinth.",
+            "It may be, having heard some things disagreeable of them, which he thought more convenient to acquaint them with in an epistle first, and to try what effect that would have upon them, before he came in person.",
+            "That he changed his mind, appears from the former epistle, 1 Corinthians 16:5, where he says, 'I will come unto you, when I shall pass through Macedonia'; and upon this account it is he excuses and vindicates himself in the following verse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 1:16, it is evident that Paul's original plan was to visit the Corinthians on his way to Macedonia and on his return journey. However, circumstances changed, and Paul altered his plans based on information he received about the Corinthian church. The Corinthians, particularly those who opposed Paul, criticized him for this change, accusing him of being indecisive. Paul addresses these criticisms, explaining that his intention in going to Judea was to deliver the collection for the poor saints. Ultimately, Paul's change of plans does not reflect vacillation, but rather his deep concern for the Corinthians' well-being and his desire to ensure the success of the almsbearing scheme.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 2.2048172031682127,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.65,
+            "commentatorTierSimilarities": [
+                36.54,
+                30.11,
+                33.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul initially intended to visit the Corinthians on his way to Macedonia and on his return. However, his plans changed due to information he received about the Corinthians. Some accused him of being indecisive, but he explains that his purpose in going to Judea was to deliver the collection for the poor saints. Paul's change of plans stemmed from his deep concern for the Corinthians' well-being and his determination to ensure the success of the almsbearing scheme.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.1220104256113674,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.9,
+            "commentatorTierSimilarities": [
+                34.22,
+                32.48,
+                33.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's original intention was to visit the Corinthians on his way to Macedonia and on his return, but circumstances led him to alter his plans based on information he received about the Corinthian church. Some criticized him for his change of plans, accusing him of being indecisive and vacillating. However, Paul clarifies that his purpose in going to Judea was to deliver the collection for the poor saints, demonstrating his deep concern for the Corinthians and his commitment to the almsbearing scheme.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.175901491679429,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.69,
+            "commentatorTierSimilarities": [
+                33.16,
+                33.02,
+                33.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul initially intended to visit the Corinthians on his way to Macedonia and on his return journey, however, circumstances changed and he altered his plans based on information he received about the Corinthian church. Some criticized him for being indecisive, but Paul explains that his intention in going to Judea was to deliver the collection for the poor saints. This change of plans does not reflect vacillation, but rather Paul's genuine concern for the well-being of the Corinthians and his commitment to the success of the almsbearing scheme.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.2730063067644495,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.92,
+            "commentatorTierSimilarities": [
+                35.53,
+                30.79,
+                33.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's initial intention was to visit the Corinthians on his way to Macedonia and on his return, but he changed his plans based on new information about the Corinthian church. Some criticized him for being indecisive, but Paul explains that his purpose in going to Judea was to deliver the collection for the poor saints. He assures the Corinthians that his change of plans is not a reflection of vacillation, but rather stems from his genuine concern for their well-being and his commitment to the almsbearing scheme.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.267166634263218,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.72,
+            "commentatorTierSimilarities": [
+                33.86,
+                31.46,
+                34.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

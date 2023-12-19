@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:20:27",
+    "verseRef": "Luke 15:25",
+    "bestBHT": {
+        "bht": "On this joyous occasion, we witness a glimpse into the festivities and joys of human life, which raises the question of whether these activities, like the music and dancing, are truly evil. The parable also exposes the envious and judgmental attitude of the elder brother, symbolizing the Pharisees who criticized Jesus. It reminds us to forgive others and not limit the grace of God, recognizing that to be seen as children of God, we must extend brotherly forgiveness as our Heavenly Father does.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.626890784878004,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.44,
+        "commentatorTierSimilarities": [
+            18.47,
+            30.11,
+            51.41
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is one of those by-glances into the lesser occupations and recreations of human life, by which the Lord so often stamps his tacit approval on the joys and unbendings of men.",
+            "Would these festal employments have been here mentioned by Him on so solemn and blessed an occasion, if they really were among those works of the devil which He came into the world to destroy?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "25. in the field\u2014engaged in",
+            "\this father's business: compare :-, \"These many years do I serve thee."
+        ],
+        "Albert Barnes": [
+            "The eldest son is designed to represent the Pharisees who had found fault with the Saviour. Their conduct is likened to that of this envious and unnatural brother.",
+            "Dancing was not uncommon among the Hebrews, and was used on various occasions.",
+            "In this case it was an expression of rejoicing. Our Lord expresses no opinion about its 'propriety.' He simply states 'the fact,' nor was there occasion for comment on it."
+        ],
+        "Marvin Vincent": [
+            "Music [\u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03b9\u03b1\u03c2] . A symphony : concerted music."
+        ],
+        "John Calvin": [
+            "This latter portion of the parable charges those persons with cruelty, who would wickedly choose to set limits to the grace of God, as if they envied the salvation of wretched sinners.",
+            "The substance of it therefore is, that, if we are desirous to be reckoned the children of God, we must forgive in a brotherly manner the faults of brethren, which He forgives with fatherly kindness.",
+            "Though I were to grant to you what you falsely boast of, that you have always been obedient children to God, still you ought not so haughtily and cruelly to reject your brethren, when they repent of their wicked life."
+        ],
+        "Philip Schaff": [
+            "The elder son at the return of the younger brother is not in the house, but has spent the day in hard, self-chosen, slavish service.\" ",
+            "Now first returns home at evening, when the feast was already in progress.\" ",
+            "Dancing in the East was usually performed by those hired for the purpose."
+        ],
+        "Archibald T. Robertson": [
+            "As, coming, he drew nigh.\" ",
+            "Music. An old Greek word from \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03bf\u03c2... harmony, concord, by a band of musicians.",
+            "And dancing. An old word again, but here alone in the N.T."
+        ],
+        "John Gill": [
+            "By 'the elder son' is meant...the Scribes and Pharisees in particular are meant, in opposition to the publicans and sinners.",
+            "He came from his labour, having done his day's work, and the task of duty he had set himself; and was now going for his hire, for what he imagined he had merited.",
+            "The Gospel does not give an uncertain sound, nor contradict itself; it is not yea and nay...the Gospel is mighty and efficacious in the hand of the Spirit of God to quicken even dead sinners, to draw them to Christ, to allure, charm, and comfort them."
+        ],
+        "John Wesley": [
+            "The elder son seems to represent the Pharisees and scribes, mentioned Luke 15:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we catch a glimpse of the festivities and joys of human life, and it is significant that these festivities are mentioned by the Lord Himself on such a blessed occasion. It raises the question of whether these joyful activities, like the music and dancing mentioned, are truly works of the devil that Jesus came to destroy, or if they can be enjoyed in moderation and with a pure heart. The parable also highlights the envious and judgmental attitude of the elder brother, who represents the Pharisees and others who criticize Jesus for His association with sinners. This serves as a reminder for us to forgive others and not set limits to the grace of God, realizing that in order to be recognized as children of God, we must extend brotherly forgiveness just as our Heavenly Father extends His fatherly kindness.",
+            "wordCount": 143,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7007002667663733,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                20.34,
+                29.08,
+                50.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On this joyous occasion, we witness a glimpse into the festivities and joys of human life, which raises the question of whether these activities, like the music and dancing, are truly evil. The parable also exposes the envious and judgmental attitude of the elder brother, symbolizing the Pharisees who criticized Jesus. It reminds us to forgive others and not limit the grace of God, recognizing that to be seen as children of God, we must extend brotherly forgiveness as our Heavenly Father does.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.626890784878004,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.44,
+            "commentatorTierSimilarities": [
+                18.47,
+                30.11,
+                51.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This glimpse into human festivities prompts us to question if these activities are truly evil or if they can be enjoyed in moderation. It also exposes the Pharisees' envious and judgmental attitude, highlighting the importance of forgiving others and not restricting God's grace. To be recognized as children of God, we must extend brotherly forgiveness, just as our Heavenly Father extends His kindness.",
+            "wordCount": 64,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.4728558018117588,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                16.49,
+                22.91,
+                60.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On this joyous occasion, we witness a glimpse into the festivities and joys of human life, which raises the question of whether these joyful activities, like the music and dancing mentioned, are truly works of the devil that Jesus came to destroy, or if they can be enjoyed in moderation and with a pure heart. The parable also highlights the envious and judgmental attitude of the elder brother, who represents the Pharisees and others who criticize Jesus for His association with sinners. This serves as a reminder for us to forgive others and not set limits to the grace of God, realizing that in order to be recognized as children of God, we must extend brotherly forgiveness just as our Heavenly Father extends His fatherly kindness.",
+            "wordCount": 126,
+            "quoteTokenProportion": 35.96,
+            "qualityScore": 1.7070716241779267,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
+            "commentatorTierSimilarities": [
+                19.52,
+                27.4,
+                53.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This glimpse into human festivities prompts us to question if these activities are truly evil or if they can be enjoyed in moderation. It also exposes the Pharisees' envious and judgmental attitude, highlighting the importance of forgiving others and not restricting God's grace. To be recognized as children of God, we must extend brotherly forgiveness, just as our Heavenly Father extends His kindness.",
+            "wordCount": 64,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.4728558018117588,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                16.49,
+                22.91,
+                60.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

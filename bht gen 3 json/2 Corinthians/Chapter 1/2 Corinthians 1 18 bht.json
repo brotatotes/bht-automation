@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:15:02",
+    "verseRef": "2 Corinthians 1:18",
+    "bestBHT": {
+        "bht": "The trustworthiness of Paul's preaching is questioned, but he denies inconsistency, stating that his word to the Corinthians was not yea and nay. He calls on God as a witness, affirming God's faithfulness and the certainty of his preaching. Paul relies on God's faithfulness and the stability of his doctrine as evidence against doubters.",
+        "wordCount": 57,
+        "quoteTokenProportion": 39.47,
+        "qualityScore": 2.1837966432784714,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.95,
+        "commentatorTierSimilarities": [
+            25.38,
+            35.84,
+            38.77
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Such fickleness, you know, was not my habit ... our word to you is not yea and nay."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He adds this lest they might think his DOCTRINE was changeable like his purposes.",
+            "Not to have changed, where there was good reason, would have been to imitate the fleshly-minded who at all costs obstinately hold to their purpose.",
+            "Yea and nay\u2014that is, inconsistent with itself."
+        ],
+        "Albert Barnes": [
+            "God is faithful; for our preaching unto you was not yea and nay.",
+            "God is faithful and true. He never deceives; never promises that which he does not perform.",
+            "That faithful God he regarded as a witness, and to that God he could appeal on the occasion."
+        ],
+        "Marvin Vincent": [
+            "As God is true [\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2 \u03bf \u03b8\u03b5\u03bf\u03c2]. Not to be taken as a formula of swearing.",
+            "He means that God will answer for him against the charge of fickleness by the power and blessing (benefit) which will attend his presence.",
+            "Hence the meaning is: faithful is God (in this) that our speech, etc."
+        ],
+        "John Calvin": [
+            "He calls God to witness, how simple and pure his preaching was \u2014 not ambiguous, not variable, not temporizing.",
+            "The truth of my preaching is as sure and stable as God is faithful and true.",
+            "With such an assurance of a good conscience does it become ministers to be endowed, who mount the pulpit to speak the word in Christ\u2019s name \u2014 so as to feel assured that their doctrine can no more be overthrown than God himself."
+        ],
+        "Philip Schaff": [
+            "But as God is true, our word toward you is not yea and nay.\" ",
+            "No wonder that he makes such an appeal; for by such insinuations he feels his whole credit at stake."
+        ],
+        "Archibald T. Robertson": [
+            "He is not a Yes and No man, saying Yes and meaning or acting No.",
+            "Paul calls God to witness on this point."
+        ],
+        "John Gill": [
+            "But as God is true,.... It seems that the false apostles had insinuated, that as the apostle had not kept his word in coming to them as he had promised, that he was not to be depended upon in his ministry...\" ",
+            "...for these words may be considered as the form of an oath; or he argues from, the truth and faithfulness of God, to the certainty and invariableness of the word preached, who is so true and faithful as that he will never suffer his word to be yea and nay...",
+            "...the word of his preaching, the doctrine of the Gospel, which was not uncertain, changeable, sometimes one thing, and sometimes another, and contradictory to itself."
+        ],
+        "John Wesley": [
+            "Our word to you \u2014 The whole tenor of our doctrine.",
+            "Hath not been yea and nay \u2014 Wavering and uncertain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle Paul, in defending his consistency, emphasizes that his preaching was not filled with ambivalence and vacillation. He asserts that his word to the Corinthians was not yea and nay, inconsistent and contradictory. He calls upon God as his witness, affirming that God's faithfulness is evident in the unchanging nature of his message. The reliability of Paul's preaching, reflecting God's truth, is unwavering and steadfast. In contrast to those who question his trustworthiness, Paul appeals to God's faithfulness and the stability of his doctrine.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.075305554880015,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.34,
+            "commentatorTierSimilarities": [
+                26.51,
+                34.43,
+                39.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle Paul defends the consistency of his preaching, asserting that his word to the Corinthians was not yea and nay, inconsistent and contradictory. He calls upon God as a witness, affirming that God's faithfulness is evident in the unchanging nature of his message. The reliability of Paul's preaching, reflecting God's truth, is unwavering and steadfast. In contrast to those who doubt his trustworthiness, Paul appeals to God's faithfulness and the stability of his doctrine.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.0909531868863898,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.87,
+            "commentatorTierSimilarities": [
+                25.06,
+                34.89,
+                40.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The trustworthiness of the Apostle Paul's preaching is under scrutiny as he defends himself against accusations of inconsistency. He firmly declares that his message was not characterized by wavering and contradiction, emphasizing that his word to the Corinthians was not yea and nay. Calling upon God as a witness, Paul acknowledges the faithfulness of God, highlighting the certainty and steadfastness of his preaching. In contrast to those who question his integrity, he relies on God's faithfulness and the unwavering nature of his doctrine.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0627520519278253,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.93,
+            "commentatorTierSimilarities": [
+                25.59,
+                33.93,
+                40.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle Paul defends himself against accusations of inconsistency, emphasizing that his preaching was not characterized by wavering and contradiction. He asserts that his word to the Corinthians was not yea and nay, highlighting the steadfastness of his message. Paul invokes God as a witness, acknowledging His faithfulness and the certainty of his preaching. In the face of doubts about his integrity, he relies on God's faithfulness and the unwavering nature of his doctrine.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.122549373127594,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.92,
+            "commentatorTierSimilarities": [
+                26.43,
+                34.58,
+                39.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The trustworthiness of Paul's preaching is questioned, but he denies inconsistency, stating that his word to the Corinthians was not yea and nay. He calls on God as a witness, affirming God's faithfulness and the certainty of his preaching. Paul relies on God's faithfulness and the stability of his doctrine as evidence against doubters.",
+            "wordCount": 57,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.1837966432784714,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.95,
+            "commentatorTierSimilarities": [
+                25.38,
+                35.84,
+                38.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

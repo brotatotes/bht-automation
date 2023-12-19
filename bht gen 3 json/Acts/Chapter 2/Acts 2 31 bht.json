@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:25:16",
+    "verseRef": "Acts 2:31",
+    "bestBHT": {
+        "bht": "David, as a prophet, had the foreknowledge that the Messiah would be raised from the dead. Through the guidance of the Holy Spirit, David composed a psalm that spoke of the Messiah's resurrection and the fulfillment of God's covenant promises. He possessed a prophetic consciousness and understanding of the doctrines related to the Messiah. David's words pointed to the Messiah's victory over decay and death, emphasizing that his body would not see corruption and his soul would not be abandoned in Hades.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 2.093418218268524,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+        "commentatorTierSimilarities": [
+            33.89,
+            33.93,
+            32.18
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The term seeing this before distinctly asserts the prophetic consciousness of David in the composition of this Psalm.",
+            "That it was not a distinct knowledge of the events which the prophets foretold, but only a conscious reference in their minds to the great promises of the covenant.",
+            "In the expression of which they were guided by the Holy Spirit of prophecy to say things pregnant with meaning not patent to themselves but to us."
+        ],
+        "Albert Barnes": [
+            "By the spirit of prophecy. From this it appears that David had distinct views of the great doctrines pertaining to the Messiah.",
+            "Spake ... See Psalms 16:1-11.",
+            "That his soul ... See the notes on Acts 2:27."
+        ],
+        "Philip Schaff": [
+            "David as a seer looking into the far future, wrote of this great Descendant of his of whom the prophet Nathan had spoken as establishing the throne of his kingdom for ever as One who should die and yet should not see corruption, for He should be raised from the dead."
+        ],
+        "Archibald T. Robertson": [
+            "This is a definite statement by Peter that David knew that in Acts 2:16 he was describing the resurrection of the Messiah.",
+            "Foreseeing (\u03c0\u03c1\u03bf\u03b9\u03b4\u03c9\u03bd). Second aorist active participle. Did it as a prophet.",
+            "Of the Christ (\u03c4\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5). Of the Messiah. See under verse Acts 2:32."
+        ],
+        "John Gill": [
+            "He seeing this before,.... Or by a spirit of prophecy foreseeing it, that according to God's promise and oath, the Messiah would be raised up, and spring from his seed...",
+            "neither his flesh did see corruption; or his body, or his 'carcass', as the Syriac version renders it, did not lie so long in the grave as to rot and putrefy.",
+            "neither his soul was left in hell: neither his separate soul in Hades, nor his body in the grave."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "David, in composing this Psalm, had prophetic awareness of the events he was describing. It was not merely a general knowledge of what the prophets foretold, but a conscious reference to the covenant promises. Guided by the Holy Spirit of prophecy, David's words carried deeper meaning, not immediately evident to him, but revealed to us. In Acts 2:31, Peter affirms that David knew he was describing the resurrection of the Messiah. As a prophet, David foresaw the coming of the Christ. He spoke with insight into the doctrines pertaining to the Messiah, foreseeing that his body would not experience decay and that his soul would not be abandoned to Hades. David's words foreshadowed the resurrection of the Messiah, a descendant of David who would establish an eternal kingdom and defeat death.",
+            "wordCount": 132,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 2.1170351160442635,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.73,
+            "commentatorTierSimilarities": [
+                39.49,
+                33.73,
+                26.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "David, guided by the Holy Spirit of prophecy, had prophetic consciousness when he composed this Psalm. He knew that in Acts 2:16, he was describing the resurrection of the Messiah. By foreseeing this event, David showed his understanding of the great doctrines related to the Messiah. His words pointed to the Messiah's victory over death and his eternal kingdom. David's prophetic insight revealed that the Messiah's body would not decay and that his soul would not be abandoned to Hades.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.0908270565003244,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.86,
+            "commentatorTierSimilarities": [
+                37.87,
+                32.42,
+                29.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "David, as a prophet, had the foreknowledge that the Messiah would be raised from the dead. Through the guidance of the Holy Spirit, David composed a psalm that spoke of the Messiah's resurrection and the fulfillment of God's covenant promises. He possessed a prophetic consciousness and understanding of the doctrines related to the Messiah. David's words pointed to the Messiah's victory over decay and death, emphasizing that his body would not see corruption and his soul would not be abandoned in Hades.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.093418218268524,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                33.89,
+                33.93,
+                32.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "David, writing under the influence of the Holy Spirit, prophetically knew that the Messiah would be resurrected. His composition in this Psalm revealed his understanding of the covenant promises and his conscious reference to the great doctrines pertaining to the Messiah. David's words carried a deeper meaning, hidden to himself but brought to light for us. Peter affirms that David foresaw the resurrection of the Messiah, emphasizing that his body would not decay and his soul would not be abandoned in Hades.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.0076282782643298,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                36.32,
+                32.45,
+                31.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "David, as a prophet, had the foreknowledge that the Messiah would be raised from the dead. Through the guidance of the Holy Spirit, David composed a psalm that spoke of the Messiah's resurrection and the fulfillment of God's covenant promises. He possessed a prophetic consciousness and understanding of the doctrines related to the Messiah. David's words pointed to the Messiah's victory over decay and death, emphasizing that his body would not see corruption and his soul would not be abandoned in Hades.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.093418218268524,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                33.89,
+                33.93,
+                32.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

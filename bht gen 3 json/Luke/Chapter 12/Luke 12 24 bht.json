@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:18:52",
+    "verseRef": "Luke 12:24",
+    "bestBHT": {
+        "bht": "Consider the ravens, who are often disregarded by people and yet taken care of by God, even though they neither sow nor reap, and have no storehouse or barn. If God's providence is so attentive to such seemingly worthless creatures, how much more will He provide for His people, the disciples of Christ. We should trust in God's care and not let worldly concerns overshadow our faith in Him.",
+        "wordCount": 71,
+        "quoteTokenProportion": 56.67,
+        "qualityScore": 1.6739994926975454,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+        "commentatorTierSimilarities": [
+            14.46,
+            34.37,
+            51.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] the ravens, who are elsewhere spoken of in Scripture as the objects of the divine care: see Job xxxviii. 41, Ps. cxlvii. 9."
+        ],
+        "Marvin Vincent": [
+            "Consider. See on Matthew 7:3. ",
+            "Storehouse [\u03c4\u03b1\u03bc\u03b5\u03b9\u03bf\u03bd] . See on ver. 3."
+        ],
+        "Philip Schaff": [
+            "In the example borrowed from nature, it is important to mark how all the figures employed sowing, reaping, storehouse, barn are connected with the parable of the foolish rich man.",
+            "The will of God is thus a surer guaranty of existence than the possession of superabundance.",
+            "Worldly care forgets to trust God; covetousness trusts wealth more than God."
+        ],
+        "Archibald T. Robertson": [
+            "The ravens [...] Like the vultures they are scavengers.\" ",
+            "Storechamber (tameion). Not in Matthew 6:26. Means secret chamber in Luke 12:3.\" ",
+            "Of how much more (\u03c0\u03bf\u03c3\u03c9 \u03bc\u03b1\u03bb\u03bb\u03bf\u03bd). Matthew 6:26 has question, \u03bf\u03c5\u03c7 \u03bc\u03b1\u03bb\u03bb\u03bf\u03bd."
+        ],
+        "John Gill": [
+            "They being fowls of very little worth and disregarded by men, and odious to them... yet these are taken care of by God.\" ",
+            "They neither sow nor reap, which neither have storehouse nor barn; and yet they are provided for.\" ",
+            "If God's providence is so much concerned for such worthless creatures, the people of God, and disciples of Christ, ought by no means to distrust it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Consider the ravens, who are scavengers like vultures and are often disregarded by people, yet they are still taken care of by God. Just as they neither sow nor reap, and have no storehouse or barn, they are still provided for. If God's providence is so attentive to such seemingly worthless creatures, how much more will He provide for His people, the disciples of Christ. We should have complete trust in God's care and not let worldly concerns or covetousness overshadow our faith in Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 52.24,
+            "qualityScore": 1.5862254163209457,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                15.43,
+                30.92,
+                53.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Consider the ravens, who are often disregarded by people and yet taken care of by God, even though they neither sow nor reap, and have no storehouse or barn. If God's providence is so attentive to such seemingly worthless creatures, how much more will He provide for His people, the disciples of Christ. We should trust in God's care and not let worldly concerns overshadow our faith in Him.",
+            "wordCount": 71,
+            "quoteTokenProportion": 56.67,
+            "qualityScore": 1.6739994926975454,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "commentatorTierSimilarities": [
+                14.46,
+                34.37,
+                51.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Consider the ravens, who are elsewhere spoken of in Scripture as the objects of the divine care. Like the vultures, they are scavengers. It's interesting to note that the storechamber, or secret chamber, is mentioned, which signifies the importance of the parable of the foolish rich man. The will of God is a surer guaranty of existence than the possession of superabundance. Worldly care forgets to trust God, while covetousness trusts wealth more than God. But if God's providence is so concerned for creatures of little worth and disregarded by men, how much more should the people of God and disciples of Christ trust in His care?",
+            "wordCount": 109,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.7452308779836103,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                23.52,
+                45.29,
+                31.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Consider the ravens, who are spoken of as the objects of divine care. Like vultures, they are scavengers. The storechamber highlights the importance of the parable of the foolish rich man. God's will is a surer guaranty of existence than wealth. Worldly care forgets to trust God, while covetousness trusts wealth over God. If God's providence cares for creatures of little worth, how much more should the people of God trust in His care?",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.6656083430257116,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                22.0,
+                49.04,
+                28.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Consider the ravens, who are elsewhere spoken of in Scripture as the objects of the divine care. Like the vultures, they are scavengers. The storechamber, or secret chamber, signifies the importance of the parable of the foolish rich man. The will of God is a surer guaranty of existence than the possession of superabundance. Worldly care forgets to trust God; covetousness trusts wealth more than God. Yet, if God's providence is concerned for creatures of little worth, how much more should the people of God trust in His care?",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7443831237344067,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.34,
+            "commentatorTierSimilarities": [
+                23.34,
+                47.56,
+                29.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

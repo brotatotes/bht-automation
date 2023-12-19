@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 17:15:28",
+    "verseRef": "3 John 12",
+    "bestBHT": {
+        "bht": "The objective Truth of God gives a good testimony to him who really walks in the truth. Demetrius, commended by many, has the mirror of God's Truth reflecting his form, appearing in the likeness of Christ. The Gospel standard of truth bears witness to him that he walks conformably to it. In addition to the testimony of all men and of the truth itself, John also bears witness to the character of Demetrius.",
+        "wordCount": 74,
+        "quoteTokenProportion": 43.18,
+        "qualityScore": 2.498452027769148,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.41,
+        "commentatorTierSimilarities": [
+            39.67,
+            29.35,
+            30.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The objective Truth of God, which is the divine rule of the walk of all believers, gives a good testimony to him who really walks in the truth.",
+            "This witness lies in the accordance of his walk with the requirement of God\u2019s Truth.",
+            "It was the mirror in which the walk of Demetrius was reflected: and his form, thus seen in the mirror of God\u2019s Truth, in which the perfect form of Christ is held up to us [1 John ii. 6, iii. 3, 16), appeared in the likeness of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Gospel standard of truth bears witness to him that he walks conformably to it, in acts of real love, hospitality to the brethren.",
+            "He that doeth truth cometh to the light, that his deeds may be made manifest that they are wrought in God.",
+            "Besides the testimony of 'all men' and 'of the truth itself,' you know."
+        ],
+        "Albert Barnes": [
+            "hath good report of all... implying that some testimony was borne to his character beyond what the writer personally knew.",
+            "Not only by men, who might possibly be deceived in the estimate of character, but by fact.",
+            "John himself had personally known him... and could now add his own testimony, which no one would call in question, to his excellent character."
+        ],
+        "Marvin Vincent": [
+            "Demetrius hath good report [\u03b4\u03b7\u03bc\u03b7\u03c4\u03c1\u03b9\u03c9 \u03bc\u03b5\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b7\u03c4\u03b1\u03b9] . Lit., unto Demetrius witness hath been born. See John 3:26."
+        ],
+        "Archibald T. Robertson": [
+            "Demetrius hath the witness of all men...it has been witnessed to Demetrius by all.",
+            "A second commendation of Demetrius...John means the Holy Spirit and not a mere personification of the truth.",
+            "A third witness to Demetrius, that is John himself (literary plural)."
+        ],
+        "John Gill": [
+            "He was either the same with Demas, which is a contraction of this name, or the person that John sent from Ephesus with this letter: we read of an Ephesian of this name, Acts 19:24; though not the same person; or else one that also was a member of the same church with Gaius and Diotrephes; and he being kind and beneficent, obtained a good report of the generality of men, not only of the brethren, but of those that were without; for a liberal man is universally respected.",
+            "whoever speaks truth must give him a good character, for this cannot be understood with any propriety of the Gospel, nor of Jesus Christ",
+            "yea, and we also bear record; or a testimony to the character of Demetrius; that is, I, John, the apostle, and the saints at Ephesus."
+        ],
+        "John Wesley": [
+            "And from the truth itself \u2014 That is, what they testify is the very truth.",
+            "Yea, we also bear testimony \u2014 I and they that are with me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The objective Truth of God gives a good testimony to him who really walks in the truth, and this witness lies in the accordance of his walk with the requirement of God's Truth. Demetrius, who is commended by many, has the mirror of God's Truth reflecting his form, appearing in the likeness of Christ. The Gospel standard of truth bears witness to him that he walks conformably to it, in acts of real love and hospitality to the brethren. In addition to the testimony of all men and of the truth itself, John also bears witness to the character of Demetrius.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.517106759836242,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.03,
+            "commentatorTierSimilarities": [
+                40.3,
+                29.21,
+                30.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The objective Truth of God gives a good testimony to him who really walks in the truth. Demetrius, commended by many, has the mirror of God's Truth reflecting his form, appearing in the likeness of Christ. The Gospel standard of truth bears witness to him that he walks conformably to it. In addition to the testimony of all men and of the truth itself, John also bears witness to the character of Demetrius.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 2.498452027769148,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.41,
+            "commentatorTierSimilarities": [
+                39.67,
+                29.35,
+                30.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The objective Truth of God, which is the divine rule of the walk of all believers, gives a good testimony to him who really walks in the truth. This witness lies in the accordance of his walk with the requirement of God\u2019s Truth. It was the mirror in which the walk of Demetrius was reflected: and his form, thus seen in the mirror of God\u2019s Truth, in which the perfect form of Christ is held up to us, appeared in the likeness of Christ. The Gospel standard of truth bears witness to him that he walks conformably to it, in acts of real love, hospitality to the brethren.",
+            "wordCount": 110,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.374586239652529,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.3,
+            "commentatorTierSimilarities": [
+                44.8,
+                26.27,
+                28.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The objective Truth of God gives a good testimony to him who really walks in the truth. Demetrius, commended by many, has the mirror of God's Truth reflecting his form, appearing in the likeness of Christ. The Gospel standard of truth bears witness to him that he walks conformably to it in acts of real love and hospitality to the brethren.",
+            "wordCount": 62,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.3720189466913295,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.21,
+            "commentatorTierSimilarities": [
+                42.64,
+                27.06,
+                30.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Truth of God testifies that a believer's walk is in accordance with the divine rule, and this witness is reflected in the walk of Demetrius, appearing in the likeness of Christ. The Gospel standard of truth bears witness that Demetrius walks conformably to it, showing real love and hospitality to the brethren. Demetrius has a good report from all, including John himself, who adds his own unquestionable testimony to his excellent character.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.4465247262252356,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.69,
+            "commentatorTierSimilarities": [
+                39.53,
+                33.1,
+                27.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

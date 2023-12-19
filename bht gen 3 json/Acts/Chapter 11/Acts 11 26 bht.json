@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:30:04",
+    "verseRef": "Acts 11:26",
+    "bestBHT": {
+        "bht": "The disciples in Antioch received the name Christian as an official title given by the Gentiles to distinguish them from Jews. This name, which means the Anointed, became a matter of glorying among the believers. It marked the formation of a distinct body composed of Jews and Gentiles, and the disciples did not assume the name themselves. The term Christian transcended other appellations, uniting followers of Christ from different backgrounds and blessing humanity through its existence.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.2778594737827644,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.08,
+        "commentatorTierSimilarities": [
+            37.69,
+            28.26,
+            34.05
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The name soon became a matter of glorying among its bearers.",
+            "We give thanks to Thee that the name of thy Christ is named upon us, and that we are called Thine.",
+            "Before this, while the believers had been included among Jews, no distinctive name for them was needed: but now that a body of men, compounded of Jews and Gentiles, arose, distinct in belief and habits from both, some new appellation was required."
+        ],
+        "Albert Barnes": [
+            "That it was given in derision is not probable, for in the name 'Christian' there was nothing dishonorable.",
+            "The most honorable appellation that can be conferred on a mortal.",
+            "This name binds them all together - a name which rises above every other appellation; which unites in one the inhabitants of distant nations and tribes of men; which connects the extremes of society, and places them in most important respects on a common level."
+        ],
+        "Marvin Vincent": [
+            "The meaning of the word in this passage is illustrated by Romans 7:3. The disciples were called. They did not assume the name themselves.",
+            "The name was probably not assumed by the disciples themselves; for they were in the habit of styling each other believers, disciples, saints, brethren, those of the way.",
+            "The Antiochenes mistook the nature of the name, not understanding its use among the disciples as an official title - the Anointed - but using it as a personal name, which they converted into a party name."
+        ],
+        "John Calvin": [
+            "This was no small honor that the holy name of Christians began there for all the whole world.",
+            "By this means they referred all their religion unto Christ alone. This was, therefore, a most excellent worship for the city of Antioch.",
+            "Seeing there is nothing to be seen there but evil favored wastiness, it remaineth that we learn to humble ourselves under the mighty hand of God."
+        ],
+        "Philip Schaff": [
+            "The name 'CHRISTIAN' marked the arrival of a new fact in the world. This new fact was the formation of a self-existent, self-conscious Church of Christ, independent of Judaism. This, too, was only ten years after the crucifixion of Christ.\" ",
+            "How the history of the world has been coloured, how mankind has been blessed by the mere existence of this word, it is not necessary to state at large.",
+            "It is most probable that this new term at Antioch originated with the public authorities, who gave the designation to the community which began then to make its existence felt... It is possible, however, that the name was given by the populace in derision."
+        ],
+        "Archibald T. Robertson": [
+            "Barnabas met together 'in the church'... This peculiar phrase accents the leadership and co-operation of Barnabas and Saul in teaching.\" ",
+            "\u03a7\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03c3\u03b1 is also a subject of \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf and is added as a separate item... it means to be called or named.\" ",
+            "The name [Christian] was evidently given to the followers of Christ by the Gentiles to distinguish them from the Jews since they were Greeks, not Grecian Jews."
+        ],
+        "John Gill": [
+            "And taught much people; besides the church, and with success, as to enlighten, convince, convert, comfort, and establish.\" ",
+            "Whether this name of Christians, which comes from Christ, and signifies anointed ones, was given by their enemies, or their friends, by others, or themselves, is not certain, though it is most likely the latter.\" ",
+            "And it may be they hit upon this general appellation, upon the union of the Jews and Gentiles in one Gospel church state, and so happily buried the distinction of Jews and Gentiles."
+        ],
+        "John Wesley": [
+            "And the disciples were first called Christians at Antioch \u2014 Here it was that they first received this standing appellation. They were before termed Nazarenes and Galileans."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Following the establishment of a body of believers composed of Jews and Gentiles in Antioch, a new name was needed to distinguish these followers of Christ from others. The name Christian was not assumed by the disciples themselves, but rather given to them, and soon became a source of glorying among them. It is likely that this name was initially bestowed by the Gentiles, who used it as a personal name rather than understanding its true significance as an official title. The term Christian marked the arrival of a new fact in the world - the formation of a self-existent, self-conscious Church of Christ, independent of Judaism. This name transcends all other appellations, uniting believers from diverse backgrounds and placing them on a common level. It is an honorable appellation that binds together the inhabitants of distant nations and tribes, blessing mankind through its very existence.",
+            "wordCount": 147,
+            "quoteTokenProportion": 37.23,
+            "qualityScore": 2.1941603654782735,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.3,
+            "commentatorTierSimilarities": [
+                33.01,
+                33.32,
+                33.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the emergence of a diverse community of believers in Antioch, a distinct name was required to separate them from Jews and Gentiles. This name, Christian, denoted the followers of Christ and was likely given by the Gentiles, though its true meaning was sometimes misunderstood. In fact, this name became a source of pride among the disciples. Christian represented a significant development - the establishment of a self-aware Church of Christ, independent of Judaism. It unified followers from different backgrounds and connected individuals across society, transcending all other terms.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.94845264475806,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                34.86,
+                29.44,
+                35.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples in Antioch were given the name Christian as a distinctive appellation that set them apart from Jews and Gentiles. This new name was likely bestowed upon them by the Gentiles, signifying their belief in Christ and making their existence felt. Although initially used in a derisive manner, the name Christian became a matter of honor and glory among its bearers. It marked the formation of an independent Church of Christ, uniting believers from various backgrounds and blessing humanity through its existence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.2050859570139405,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+            "commentatorTierSimilarities": [
+                34.09,
+                28.46,
+                37.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the believers in Antioch, made up of Jews and Gentiles, arose as a distinct group, a new name was necessary to differentiate them. The name Christian was likely given to them by the Gentiles, though some mistakenly used it as a personal name rather than understanding its official meaning as the Anointed. This appellation became a source of glorying among the disciples, highlighting the formation of a self-existent Church of Christ independent from Judaism. Christian transcended other names, uniting believers from different backgrounds and blessing mankind through its existence.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.230907656165874,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.52,
+            "commentatorTierSimilarities": [
+                35.24,
+                29.96,
+                34.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples in Antioch received the name Christian as an official title given by the Gentiles to distinguish them from Jews. This name, which means the Anointed, became a matter of glorying among the believers. It marked the formation of a distinct body composed of Jews and Gentiles, and the disciples did not assume the name themselves. The term Christian transcended other appellations, uniting followers of Christ from different backgrounds and blessing humanity through its existence.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.2778594737827644,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.08,
+            "commentatorTierSimilarities": [
+                37.69,
+                28.26,
+                34.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

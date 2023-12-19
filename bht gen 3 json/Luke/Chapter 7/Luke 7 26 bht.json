@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:16:10",
+    "verseRef": "Luke 7:26",
+    "bestBHT": {
+        "bht": "A prophet serves as a medium between God and the hearer, communicating divine messages and interpreting them. Their prophetic character is marked by their direct communion with God and their willingness to convey His message at any personal cost. A true prophet gains an attentive audience and becomes a leader who shapes others. This curiosity about the figure in reference arises from their recognition of him as a prophet. However, he is not just any prophet; he holds a greater significance than those who came before him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 47.69,
+        "qualityScore": 1.9152410527702652,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+        "commentatorTierSimilarities": [
+            51.61,
+            0.0,
+            48.39
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The prophet is, therefore, primarily, one who speaks standing before another, and thus forming a medium between him and the hearer.",
+            "Hence it is the technical term for the interpreter of a divine message.",
+            "The essence of the prophetic character is immediate intercourse with God."
+        ],
+        "Archibald T. Robertson": [
+            "A real prophet will always get a hearing if he has a message from God.",
+            "The main thing is for the prophet to have a message from God which he is willing to tell at whatever cost to himself.",
+            "Real prophets become leaders and moulders of men."
+        ],
+        "John Gill": [
+            "What led your curiosity to go into the wilderness after him, since it could not be any of the above things? was it to see a prophet?\".",
+            "yea, I say unto you, and much more than a prophet\".",
+            "he was his forerunner, he saw him and baptized him, and so was greater than any of the prophets that went before him\"."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A prophet is someone who stands before others, serving as an interpreter of a divine message and forming a connection between God and the hearer. The essence of being a prophet lies in the intimate relationship with God and the willingness to speak the message at any cost. Real prophets not only have a message from God, but they also become influential leaders who shape the lives of others. In the verse, people are curious about the person in question because they recognize him as a prophet, an individual with a special connection to God. However, this person is not just any prophet; he is even greater than the prophets who came before him.",
+            "wordCount": 114,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 2.254845742288384,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+            "commentatorTierSimilarities": [
+                52.97,
+                0.0,
+                47.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A prophet serves as a vital bridge between God and the people, conveying divine messages with a deep and immediate connection to the divine. A true prophet always receives a hearing, regardless of personal cost, as their primary task is to faithfully deliver God's messages. These prophets not only lead and shape others but also become powerful figures in their own right. In this passage, people are intrigued by the figure in question, recognizing him as a prophet. However, he surpasses the stature of previous prophets, making him even greater in significance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8479932341000398,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.79,
+            "commentatorTierSimilarities": [
+                52.81,
+                0.0,
+                47.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A prophet serves as a medium between God and the hearer, making them a vital interpreter of divine messages. Their prophetic character depends on their intimate communion with God and their willingness to share His message regardless of personal sacrifices. These prophets not only gain a following but also become influential leaders who shape the lives of others. The people in question are curious about the figure as they recognize him as a prophet, yet he goes beyond the stature of previous prophets, establishing his greater significance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.8166745451102175,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.75,
+            "commentatorTierSimilarities": [
+                54.79,
+                0.0,
+                45.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A prophet acts as the mediator, standing before others to interpret and convey divine messages. Their primary essence lies in the immediate connection and communication they have with God. A true prophet will always receive attention if they faithfully deliver God's message, regardless of personal cost. What sets them apart is not only their ability to lead, but also their influence in shaping the lives of others. This curiosity in the figure mentioned is due to the recognition of his prophetic role, surpassing even the greatness of those who came before him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.488160543028947,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.82,
+            "commentatorTierSimilarities": [
+                57.6,
+                0.0,
+                42.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A prophet serves as a medium between God and the hearer, communicating divine messages and interpreting them. Their prophetic character is marked by their direct communion with God and their willingness to convey His message at any personal cost. A true prophet gains an attentive audience and becomes a leader who shapes others. This curiosity about the figure in reference arises from their recognition of him as a prophet. However, he is not just any prophet; he holds a greater significance than those who came before him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.9152410527702652,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                51.61,
+                0.0,
+                48.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

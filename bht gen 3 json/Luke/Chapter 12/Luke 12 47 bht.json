@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:19:14",
+    "verseRef": "Luke 12:47",
+    "bestBHT": {
+        "bht": "Those who possess knowledge of God's will, like us, the disciples, will be held accountable for our actions. This extends to all, not just a select few. Our readiness involves not only preparing ourselves, but also fulfilling the responsibilities entrusted to us. Those who possess knowledge yet fail to act accordingly will face severe consequences. Even those with limited knowledge will be held to a certain degree of responsibility. The punishment for disobedience will be the same for both groups, but the severity will vary.",
+        "wordCount": 86,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.4560118672338382,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.76,
+        "commentatorTierSimilarities": [
+            21.12,
+            40.95,
+            37.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Those which knew represent us, the disciples: those that knew not represent all, the multitude.\" ",
+            "The truth is one of universal extent.",
+            "This readiness being not only preparing himself, but the matters over which he has charge."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "41-48. unto us or even to all?\u2014us",
+            "\tthe Twelve, or all this vast audience?"
+        ],
+        "Albert Barnes": [
+            "He that knows what God commands and requires.",
+            "They who have many privileges, who are often warned, who have the gospel, and do not repent and believe, shall be far more severely punished than others.",
+            "They who are early taught in Sunday schools, or by pious parents, or in other ways, and who grow up in sin and impenitence, will have much more to answer for than those who have no such privileges."
+        ],
+        "John Calvin": [
+            "If punishment does not fail to be inflicted on a servant who errs through mistake, what shall become of the wicked and rebellious servant, who purposely, as it were, tramples under foot the authority of his master?",
+            "It ought to be remembered, however, that those who are appointed to govern the Church do not err through ignorance, but basely and wickedly defraud their Master of his right.",
+            "It is certain, that our ignorance is always accompanied by gross and shameful negligence."
+        ],
+        "Philip Schaff": [
+            "Made not ready. It includes not only \u2018himself,\u2019 but all that had been placed in his charge.",
+            "The ground of the punishment is not disobedience to an unknown will of the Lord, but the commission of acts worthy of punishment.",
+            "Both classes will be punished in the same way; the difference being in degree, not in kind."
+        ],
+        "Archibald T. Robertson": [
+            "The one who knows. So as to does not make ready or do.\" ",
+            "Shall be beaten with many stripes... the accusative \u03c0\u03bf\u03bb\u03bb\u03b1\u03c2.\" ",
+            "The same explanation applies to \u03bf\u03bb\u03b9\u03b3\u03b1\u03c2 in verse Luke 12:48."
+        ],
+        "John Gill": [
+            "Christ here distinguishes between wicked servants, some being knowing, and others ignorant; and accordingly the aggravations of their guilt are more or less.",
+            "No man is prepared or ready to do it, but he that is regenerated, or is made a new creature; who has the laws of God written on his heart, and who has the Spirit of God put within him, to cause him to keep them.",
+            "Persons who have light and knowledge, and the means thereof, and act not according to them, shall be punished with the greatest severity, and endure the greatest degree of torments in hell."
+        ],
+        "John Wesley": [
+            "And that servant who knew his Lord's will shall be beaten with many stripes \u2014 And his having much knowledge will increase, not lessen, his punishment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who have knowledge of God's will, like us who are disciples, will be held accountable for our actions. This applies to all, not just a select few. Our readiness is not just about preparing ourselves, but about taking care of the responsibilities entrusted to us. Those who possess knowledge yet fail to act accordingly will face severe consequences. Even those who have little knowledge will be held responsible to a certain extent. The punishment for disobedience will be the same for both groups, but the severity will vary. It is a sobering reminder that those who knowingly go against God's will will face a harsher judgment.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.507282456361464,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+            "commentatorTierSimilarities": [
+                19.48,
+                39.78,
+                40.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who have knowledge of God's will, like us, the disciples, will be held accountable for our actions. This applies to all, not just a select few. Our readiness is not just about preparing ourselves, but taking care of the responsibilities we have been given. Those who possess knowledge yet fail to act accordingly will face severe consequences. Even those with little knowledge will be held responsible to a certain extent. The punishment for disobedience will be the same for both groups, but the severity will vary.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.4547950226278483,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.71,
+            "commentatorTierSimilarities": [
+                21.14,
+                40.02,
+                38.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who possess knowledge of God's will, like us, the disciples, will be held accountable for our actions. This extends to all, not just a select few. Our readiness involves not only preparing ourselves, but also fulfilling the responsibilities entrusted to us. Those who possess knowledge yet fail to act accordingly will face severe consequences. Even those with limited knowledge will be held to a certain degree of responsibility. The punishment for disobedience will be the same for both groups, but the severity will vary.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.4560118672338382,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.76,
+            "commentatorTierSimilarities": [
+                21.12,
+                40.95,
+                37.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who know God's will, like the disciples, are accountable for their actions. This applies to all, not just a few. Readiness involves preparing oneself and fulfilling entrusted responsibilities. Those with knowledge but no action will face severe consequences. Even those with limited knowledge will face some responsibility. Punishment will be the same for both groups, though the severity will differ. This serves as a reminder that intentional rebellion against God's will will lead to harsh judgment.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.4154219650903217,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.41,
+            "commentatorTierSimilarities": [
+                21.94,
+                39.43,
+                38.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who possess knowledge of God's will, like us who are disciples, will be held accountable for our actions. This applies to all, not just a select few. Our readiness is not just about preparing ourselves, but about taking care of the responsibilities entrusted to us. Those who possess knowledge yet fail to act accordingly will face severe consequences. Even those with little knowledge will be held responsible to a certain extent. The punishment for disobedience will be the same for both groups, but the severity will vary. It is a sobering reminder that those who knowingly go against God's will will face a harsher judgment.",
+            "wordCount": 108,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.4978615049427575,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+            "commentatorTierSimilarities": [
+                19.29,
+                39.84,
+                40.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:30:37",
+    "verseRef": "Acts 13:26",
+    "bestBHT": {
+        "bht": "To both Jews and Gentile proselytes, the message of salvation through Jesus as Savior was sent. This word of salvation has come to Paul's audience in Pisidian Antioch. Paul addresses them as brethren and children of the stock of Abraham, appealing lovingly and respectfully as they belong to the same race. This gospel is more than a proposal of terms for salvation; it is a promise of eternal life that should draw people in with its sweetness.",
+        "wordCount": 78,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.2201365189145745,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+        "commentatorTierSimilarities": [
+            26.28,
+            37.13,
+            36.59
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The same two classes, Jews, and God-fearing Gentiles, are here again addressed.\" ",
+            "This should be more distinctly marked in the version.",
+            "This salvation, viz. the salvation implied in Jesus being a Saviour\u2014salvation by Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "children . . . of Abraham, and whosoever among you feareth God\u2014Gentile proselytes.",
+            "to you is the word of this salvation sent\u2014both being regarded as one class.",
+            "the Jew first, to whom the Gospel was to be addressed in the first instance."
+        ],
+        "Albert Barnes": [
+            "Men and brethren - Paul now exhorts them to embrace the Lord Jesus as the Messiah. He uses, therefore, the most respectful and fraternal language.",
+            "Children of the stock of Abraham - Descendants of Abraham; you who regard Abraham as your ancestor.",
+            "Is the word of this salvation sent - This message of salvation. It was sent particularly to the Jewish people."
+        ],
+        "Marvin Vincent": [
+            "To you. The best texts read to us."
+        ],
+        "John Calvin": [
+            "He calleth them children of Abraham not only for honor\u2019s sake, but that they may know that they be heirs of eternal life.",
+            "We must note this title of the gospel, that it is called the word of salvation.",
+            "Wherefore, their hardness must needs be great whom it doth not allure with the sweetness that is in it."
+        ],
+        "Philip Schaff": [
+            "To you is the word of this salvation sent.",
+            "He appeals lovingly to them as belonging to one race with himself.",
+            "To you all in this distant Pisidian Antioch, comes now the word of the Lord."
+        ],
+        "Archibald T. Robertson": [
+            "To us... both Jews and Gentiles, both classes in Paul's audience.",
+            "It has come to us in one day, this glorious promise.",
+            "The message of Jesus as Saviour... long ago promised and now come to us as Saviour."
+        ],
+        "John Gill": [
+            "Men and brethren, children of the stock of Abraham,....",
+            "to you is the word of this salvation sent;",
+            "The Gospel is not a proposal of terms, by complying with which men may be saved, as faith, repentance, and good works, which are not terms of salvation, but either blessings, parts or fruits of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To both Jews and Gentile proselytes, the message of salvation through Jesus as Savior was sent. This word of salvation, promised long ago, has come now to both classes of Paul's audience in Pisidian Antioch. Paul addresses them as brethren and children of the stock of Abraham, appealing lovingly and respectfully to them as belonging to the same race. This gospel is not merely a proposal of terms for salvation, but a promise of eternal life that should allure with its sweetness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.210208950638581,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.83,
+            "commentatorTierSimilarities": [
+                26.3,
+                36.04,
+                37.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To both Jews and Gentile proselytes, the message of salvation through Jesus as Savior was sent. This word of salvation, promised long ago, has come now to both classes of Paul's audience in Pisidian Antioch. Paul addresses them as brethren and children of the stock of Abraham, appealing lovingly and respectfully to them as belonging to the same race. This gospel is not merely a proposal of terms for salvation but a promise of eternal life that should allure with its sweetness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.210208950638581,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.83,
+            "commentatorTierSimilarities": [
+                26.3,
+                36.04,
+                37.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To both Jews and Gentile proselytes, the message of salvation through Jesus as Savior was sent. This word of salvation, promised long ago, has come to Paul's audience in Pisidian Antioch. Paul addresses them as brethren and children of the stock of Abraham, appealing lovingly and respectfully as they belong to the same race. This gospel is more than a proposal of terms for salvation; it is a promise of eternal life that should draw people in with its sweetness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.20421786600569,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.63,
+            "commentatorTierSimilarities": [
+                26.22,
+                36.95,
+                36.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To both Jews and Gentile proselytes, the message of salvation through Jesus as Savior was sent. This word of salvation has come to Paul's audience in Pisidian Antioch. Paul addresses them as brethren and children of the stock of Abraham, appealing lovingly and respectfully as they belong to the same race. This gospel is more than a proposal of terms for salvation; it is a promise of eternal life that should draw people in with its sweetness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.2201365189145745,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+            "commentatorTierSimilarities": [
+                26.28,
+                37.13,
+                36.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To both Jews and Gentile proselytes, the word of this salvation has been sent. As children of the stock of Abraham and those who fear God, they are the intended recipients of the Gospel. Paul addresses them as brethren, emphasizing their shared heritage and appealing to their sense of kinship. The Gospel is not just a mere proposal of terms for salvation, but a promise of eternal life that should captivate and entice with its inherent sweetness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.0453436367641564,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+            "commentatorTierSimilarities": [
+                25.03,
+                34.92,
+                40.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

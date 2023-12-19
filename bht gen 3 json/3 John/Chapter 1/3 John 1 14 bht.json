@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 17:15:34",
+    "verseRef": "3 John 14",
+    "bestBHT": {
+        "bht": "May the peace of conscience, friendship, and glory be with you. Give my greetings to our mutual friends as if I had named them individually. The mention of friends instead of brethren highlights the personal nature of this letter as it is written from a friend to a friend, and the senders and receivers of salutation are the mutual friends on both sides. When we meet face to face, there will be open and intimate conversation. Let peace be upon you, in conscience, friendship, and the glory to come. The friends in Ephesus send their greetings.",
+        "wordCount": 96,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6161430705824755,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.08,
+        "commentatorTierSimilarities": [
+            29.81,
+            29.99,
+            40.2
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peace be to thee (beautifully paraphrased by Lyra, 'The internal peace of the conscience, the fraternal peace of friendship, the supernal peace of glory.')",
+            "Salute the friends by name (as if I had written their names here).",
+            "'The reason why St. John mentions friends [see John xi. 11, xv. 15, Acts xxvii. 3], and not brethren [1 Cor. xvi. 20, Phil. iv, 21, Eph. vi. 23], is probably to be found in the personal character of the Epistle, not addressed as from an Apostle to a church, but as from a friend to his friend, in which mutual friends on both sides would be the senders and receivers of salutation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "face to face \u2014 Greek, 'mouth to mouth.'\" ",
+            "Peace \u2014 peace inward of conscience, peace fraternal of friendship, peace supernal of glory [Lyra].",
+            "by name \u2014 not less than if their names were written [Bengel]."
+        ],
+        "Albert Barnes": [
+            "It is proper to desire for our friends all temporal good; to wish their happiness in every respect.",
+            "It is an unspeakable pleasure to a Christian to learn that his friends are living and acting as becomes sincere Christians; that they love what is true, and abound in the duties of hospitality charity, and benevolence.",
+            "We may see from this Epistle that churches 'ought' to be united in promoting the cause of religion."
+        ],
+        "Marvin Vincent": [
+            "Face to face. See on 2 John 1:12. "
+        ],
+        "Archibald T. Robertson": [
+            "I hope (\u03b5\u03bb\u03c0\u03b9\u03b6\u03c9)",
+            "We shall speak (\u03bb\u03b1\u03bb\u03b7\u03c3\u03bf\u03bc\u03b5\u03bd). Literary plural really singular like \u03b5\u03bb\u03c0\u03b9\u03b6\u03c9.",
+            "The friends (\u03bf \u03c6\u03b9\u03bb\u03bf). Those in Ephesus."
+        ],
+        "John Gill": [
+            "and we shall speak face to face; freely and familiarly converse together about these things...",
+            "peace [be] to thee; which was the usual form of salutation with the Jews...",
+            "greet the friends by name; meaning those that were where Gaius lived, to whom the apostle sends his salutation, and desires it might be delivered to each of them, as if they had been mentioned by name."
+        ],
+        "John Wesley": [
+            "Salute the friends by name \u2014 That is, in the same manner as if I had named them one by one.\" ",
+            "The word friend does not often occur in the New Testament, being swallowed up in the more endearing one of brother."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the peace of conscience, friendship, and glory be with you. Give my greetings to our mutual friends as if I had named them individually. The mention of friends instead of brethren highlights the personal nature of this letter as it is written from a friend to a friend, and the senders and receivers of salutation are the mutual friends on both sides. When we meet face to face, there will be open and intimate conversation. Let peace be upon you, in conscience, friendship, and the glory to come. The friends in Ephesus send their greetings.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6161430705824755,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.08,
+            "commentatorTierSimilarities": [
+                29.81,
+                29.99,
+                40.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May peace in the conscience, friendship, and glory be upon you. Give my greetings to our mutual friends as if I had named them individually. The mention of friends instead of brethren highlights the personal nature of this letter. When we meet face to face, there will be open and intimate conversation. Let peace be upon you, in conscience, friendship, and the glory to come. The friends in Ephesus send their greetings.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.92,
+            "qualityScore": 1.5786841369631968,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                30.16,
+                29.66,
+                40.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the peace of conscience, the fraternal peace of friendship, and the supernal peace of glory be with you. Salute the friends by name, as if I had written their names here. The mention of friends instead of brethren indicates the personal character of this letter, from a friend to his friend. When we meet face to face, there will be a direct and intimate conversation. Let peace be upon you, in conscience, friendship, and the glory to come. The friends in Ephesus send their greetings.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.643123088585503,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.98,
+            "commentatorTierSimilarities": [
+                31.44,
+                27.09,
+                41.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May the peace of conscience, friendship, and glory be with you. Salute the friends by name, as if their names were written. The mention of friends instead of brethren reflects the personal character of this letter. When we meet face to face, there will be open and intimate conversation. Let peace be upon you, in conscience, friendship, and the glory to come. The friends in Ephesus send their greetings.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.6187879933291103,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.17,
+            "commentatorTierSimilarities": [
+                31.57,
+                27.51,
+                40.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May the peace of conscience, friendship, and glory be with you. Salute the friends by name, as if their names were written. The mention of friends instead of brethren reflects the personal character of this letter. When we meet face to face, there will be open and intimate conversation. Let peace be upon you, in conscience, friendship, and the glory to come. The friends in Ephesus send their greetings.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.6187879933291103,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.17,
+            "commentatorTierSimilarities": [
+                31.57,
+                27.51,
+                40.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

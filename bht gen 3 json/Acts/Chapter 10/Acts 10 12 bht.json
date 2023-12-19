@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:29:09",
+    "verseRef": "Acts 10:12",
+    "bestBHT": {
+        "bht": "In the vision, Peter sees an assemblage of all creation, with both clean and unclean animals mixed together. This inclusivity is significant because Peter follows a more strictly Jewish division, but the vision shows that there is no longer such disagreement among people. The vision signifies that the church of Christ consists of all sorts of individuals from all nations, with no distinction between Jews and Gentiles. This shows us that those who were once considered unclean are not to be rejected.",
+        "wordCount": 82,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9251626373199928,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+        "commentatorTierSimilarities": [
+            24.6,
+            35.86,
+            39.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the vision it seemed to Peter to be an assemblage of all creation.",
+            "Fourfooted... creeping things... fowls.",
+            "Peter follows the more strictly Jewish division."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. all manner of four-footed",
+            "\tbeasts, &amp;c.\u2014that is, the clean and the unclean",
+            "\t(ceremonially) all mixed together."
+        ],
+        "Albert Barnes": [
+            "This particular vision was suggested by Peter\u2019s hunger.\" ",
+            "It was designed, however, to teach him an important lesson in regard to the introduction of all nations to the gospel.\" ",
+            "Its descending from heaven may have been an intimation that that religion which was about to abolish the distinction between the Jews and other nations was of divine origin."
+        ],
+        "Marvin Vincent": [
+            "All manner of four - footed beasts [\u03c0\u03b1\u03bd\u03c4\u03b1 \u03c4\u03b1 \u03c4\u03b5\u03c4\u03c1\u03b1\u03c0\u03bf\u03b4\u03b1] . Lit., all the four - footed beasts. Without exception, clean and unclean. Not, of very many kinds. ",
+            "Wild beasts. The best texts omit."
+        ],
+        "John Calvin": [
+            "He teacheth by the consequent that there is no such disagreement among men any longer as there was in times past, and that there is no difference between the Jew and the Grecian.",
+            "Now God made the covenant of life common to all the whole world, which he had shut up in one nation, as in a treasure.",
+            "We have an evident proclamation from heaven, which putteth us in hope of eternal life."
+        ],
+        "Philip Schaff": [
+            "We must not measure this seeing according to the manner of men, because the trance gave Peter other eyes.",
+            "This part of the sentence ought to be absent in the verse before us; and it is an obvious remark that such creatures were to be included among the quadrupeds and reptiles.",
+            "We must conceive of those animals which were ceremonially unclean as being more peculiarly conspicuous in the vision."
+        ],
+        "Archibald T. Robertson": [
+            "Fish are not mentioned, perhaps because the sheet had no water, though they were clean and unclean also.\" ",
+            "All manner of (\u03c0\u03b1\u03bd\u03c4\u03b1). Literally, all, but clearly all varieties, not all individuals.",
+            "Both clean and unclean animals are in the sheet."
+        ],
+        "John Gill": [
+            "The whole of this signifies that the church of Christ, under the Gospel dispensation, consists of all sorts of persons, of all nations, Jews and Gentiles, the one being reckoned clean, the other unclean.",
+            "The church of Christ... consists of... men of all sorts of tempers and dispositions, comparable to wild or tame beasts; and of all sorts of sinners, who before conversion have been greater or lesser sinners.",
+            "Chiefly to show that Gentiles reckoned unclean, when converted, are not to be rejected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the vision, Peter sees an assemblage of all creation, with both clean and unclean animals mixed together. This inclusivity is significant because Peter follows a more strictly Jewish division, but the vision shows that there is no longer such disagreement among people as there once was. The whole meaning of the vision is to signify that the church of Christ consists of all sorts of individuals from all nations, with no distinction between Jews and Gentiles. This shows us that those who were once considered unclean are not to be rejected but welcomed into the fold of Christ.",
+            "wordCount": 99,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 1.9159351433161098,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                23.16,
+                35.87,
+                40.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the vision, Peter sees a mixture of all creation, including both clean and unclean animals. This demonstrates that there is no longer the same disagreement as before, as the gospel is now open to all nations. The vision signifies that the church of Christ is made up of people from all walks of life, with no distinction between Jews and Gentiles. It teaches us that those who were once considered unclean should not be rejected, but embraced in the kingdom of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.839230179404555,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.5,
+            "commentatorTierSimilarities": [
+                20.82,
+                35.52,
+                43.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the vision, Peter sees a collection of all kinds of four-footed beasts, both clean and unclean. This inclusivity is a significant revelation, as it signifies that there is no longer a distinction between Jews and Gentiles in the church of Christ. The vision teaches us that those who were once considered unclean are now welcomed and included, emphasizing the universal nature of God's salvation for all nations and peoples.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.9783746543460796,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                22.43,
+                35.87,
+                41.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the vision, it seemed to Peter as if all creation, both clean and unclean animals, were gathered together. This imagery reveals the removal of the former divisions between Jews and Gentiles, as the church of Christ consists of individuals from all walks of life. The vision teaches us that those who were once considered unclean are no longer rejected, but welcomed into the kingdom of God. It serves as a proclamation of the universal nature of God's grace and salvation for all people, regardless of their background.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.7909079921118716,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                23.42,
+                32.86,
+                43.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the vision, Peter sees an assemblage of all creation, with both clean and unclean animals mixed together. This inclusivity is significant because Peter follows a more strictly Jewish division, but the vision shows that there is no longer such disagreement among people. The vision signifies that the church of Christ consists of all sorts of individuals from all nations, with no distinction between Jews and Gentiles. This shows us that those who were once considered unclean are not to be rejected.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9251626373199928,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                24.6,
+                35.86,
+                39.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

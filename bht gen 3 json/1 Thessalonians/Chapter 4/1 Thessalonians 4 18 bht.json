@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 14:00:52",
+    "verseRef": "1 Thessalonians 4:18",
+    "bestBHT": {
+        "bht": "The Apostle's practical and matter-of-fact declarations in these words serve as a source of comfort and hope for those mourning the dead. Rather than mere figurative language, these details are meant to be received as concrete expectations, vital for the teaching of the Church. The death of a Christian is described as a peaceful slumber, not an end, offering solace and assurance. We are called to set our minds on glorious and heavenly realities, finding consolation in the faith of the resurrection and supporting one another in times of grief.",
+        "wordCount": 93,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 1.9333186660574946,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.62,
+        "commentatorTierSimilarities": [
+            35.26,
+            31.04,
+            33.7
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Attempts, like that of Mr. Jowett, to interpret such a passage as this by the rules of mere figurative language, are entirely beside the purpose.",
+            "The Apostle\u2019s declarations here are made in the practical tone of strict matter of fact, and are given as literal details, to console men\u2019s minds under an existing difficulty.",
+            "Either these details must be received by us as a matter of practical expectation, or we must set aside the Apostle as one divinely empowered to teach the Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "18. comfort one another\u2014in",
+            "\tyour mourning for the dead ( :-)."
+        ],
+        "Albert Barnes": [
+            "This passage 1 Thessalonians 4:13-18 contains a truth which is to be found in no pagan classic writer, and nowhere else. except in the teachings of the New Testament.",
+            "The death of the Christian is a calm and gentle slumber; 1 Thessalonians 4:13. It is not annihilation; it is not the extinction of hope.",
+            "There are magnificent scenes before us...and how strange it is that the thoughts of people are not turned away from the trifles - the show - the shadow - the glitter - the empty pageantry here - to these bright and glorious realities!"
+        ],
+        "John Calvin": [
+            "In the faith of the resurrection, we have good ground of consolation, provided we are members of Christ, and are truly united to him as our Head.",
+            "The Apostle would not have each one to seek for himself assuagement of grief, but also to administer it to others."
+        ],
+        "Philip Schaff": [
+            "There being no ground for your supposing that your dead friends will suffer any disadvantage from dying before Christ comes.",
+            "Paul scarcely expects that mourners will themselves remember in their grief that which should alleviate it; but he calls upon their fellow-Christians to assume the office of comforter.",
+            "And that no one may excuse himself on the score of having no consolation to offer, he gives them wherewithal they may mitigate the bitterness of bereavement."
+        ],
+        "Archibald T. Robertson": [
+            "With these words (\u03b5\u03bd \u03c4\u03bf\u03b9\u03c2 \u03bb\u03bf\u03b3\u03bf\u03b9\u03c2 \u03c4\u03bf\u03c5\u03c4\u03bf\u03b9\u03c2). In these words. They were a comfort to the Thessalonians as they still comfort the people of God. "
+        ],
+        "John Gill": [
+            "that the saints, when they die, do not cease to be, but are asleep, and asleep in Jesus; that their souls are with him, and their bodies sleep in his arms, and are his care",
+            "than which nothing can yield more true and solid comfort, under all the trials and troubles of this life, under all diseases and distempers of body, under all afflictions and persecutions for Christ's sake, under the loss of near and dear relations, and in a view of death and eternity",
+            "for such they are, being the word of God"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle's declarations in 1 Thessalonians 4:18 are not mere figurative language, but rather practical details given to console those who are mourning the dead. These details must be received as a matter of practical expectation, for they provide comfort and hope. The death of a Christian is not the end, but a peaceful slumber. Instead of being caught up in the trivialities of this temporary world, we should set our minds on the magnificent scenes that await us in eternity. In our grief, we should find solace in the faith of the resurrection and offer comfort to one another, remembering that our departed loved ones are asleep in Jesus and in the care of our Savior. Through these divine teachings, we find true and solid comfort to face the trials and troubles of life, the loss of loved ones, and the prospect of death and eternity.",
+            "wordCount": 146,
+            "quoteTokenProportion": 34.44,
+            "qualityScore": 1.7998313325200526,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                32.61,
+                33.24,
+                34.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle's practical and literal details in the passage serve to console and provide hope to those mourning the dead. Rather than being figurative, these teachings are meant to be received as a matter of practical expectation. The death of a Christian is not annihilation but a calm slumber, offering assurance and comfort. As we navigate the trials of life and the loss of loved ones, we find solace in the faith of the resurrection and in the knowledge that our departed loved ones are asleep in Jesus. Through these divine teachings, we find true and solid comfort for the challenges we face and the prospect of eternity.",
+            "wordCount": 109,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.8266756446961172,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                33.52,
+                30.85,
+                35.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle's practical and matter-of-fact declarations in these words serve to console and give hope to those mourning the dead. We are to take these details as a matter of expectation and not dismiss the Apostle's teaching. For the Christian, death is not annihilation but a peaceful slumber, providing comfort and assurance. Amid the trials of life and the loss of loved ones, we find solace in the faith of the resurrection and the knowledge that our departed loved ones are in Jesus' care. These divine teachings offer true and solid comfort for life's challenges and the prospect of eternity.",
+            "wordCount": 105,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.8128201755965017,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "commentatorTierSimilarities": [
+                31.93,
+                30.06,
+                38.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle's practical and matter-of-fact declarations in these words serve as a source of comfort and hope for those mourning the dead. Rather than mere figurative language, these details are meant to be received as concrete expectations, vital for the teaching of the Church. The death of a Christian is described as a peaceful slumber, not an end, offering solace and assurance. We are called to set our minds on glorious and heavenly realities, finding consolation in the faith of the resurrection and supporting one another in times of grief.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.9333186660574946,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.62,
+            "commentatorTierSimilarities": [
+                35.26,
+                31.04,
+                33.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle's practical and matter-of-fact declarations in these words are given to console and provide hope to those mourning the dead. These details must be received as a matter of practical expectation, not mere figurative language. The death of a Christian is described as a calm slumber, offering comfort and assurance. Our minds should be fixed on the glorious realities that await us, rather than the temporary distractions of this world. By embracing the faith of the resurrection and supporting one another, we find true and solid comfort amidst life's trials and the prospect of eternity.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.713375185958723,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.31,
+            "commentatorTierSimilarities": [
+                36.44,
+                31.18,
+                32.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

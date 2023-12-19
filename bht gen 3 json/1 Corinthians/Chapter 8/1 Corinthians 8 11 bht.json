@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:09:23",
+    "verseRef": "1 Corinthians 8:11",
+    "bestBHT": {
+        "bht": "A single act seemingly unimportant may produce everlasting consequences. Even the condemned shall manifest God's love in the great day, in that they too had the offer of God's mercy. Surely it is a poor use to put one's superior knowledge, and ruin follows in the wake of such daredevil knowledge. The appeal to the death of Christ is the central fact that clinches Paul's argument. Whoever is thus the means of leading a Christian brother to violate his conscience is helping so far to destroy his soul.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.8267720199686615,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+        "commentatorTierSimilarities": [
+            32.45,
+            34.08,
+            33.47
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and (thus) the weak perishes (hereafter: see the parallel, Rom, xiv. 15 and note) by (literally, in, as the element in which,\u2014he entering into it as his own, which it is not) thy knowledge",
+            "the brother, in whose behalf Christ died?",
+            "See again Rom. xiv. 15."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A single act seemingly unimportant may produce everlasting consequences.\" ",
+            "Note here, that it is no argument against the dogma that Christ died for all, even for those who perish, to say that thus He would have died in vain for many.",
+            " ",
+            "Even the condemned shall manifest God's love in the great day, in that they too had the offer of God's mercy. It shall be the most awful ingredient in their cup that they might have been saved but would not: Christ died to redeem even them."
+        ],
+        "Albert Barnes": [
+            "You will thus be the means of deceiving and destroying him.",
+            "The tendency of this course would be to lead the weak brother into sin, to apostasy, and to ruin.",
+            "We should not do anything that would tend to frustrate the work of Christ, that would render the shedding of his blood vain."
+        ],
+        "Marvin Vincent": [
+            "He that is being weak\" indicates a continuance of the weakness. ",
+            "The present tense, is perishing, implies that the process of moral undermining is in progress through the habitual indulgence of the better informed Christian. ",
+            "Rev., he that is weak perisheth."
+        ],
+        "John Calvin": [
+            "For the object to which our whole life ought to be directed, is the will of the Lord. This, therefore, is the one thing that vitiates all our actions, when we disregard it.\" ",
+            "Let us bear in mind, therefore, that whenever we take a step in opposition to conscience, we are on the high road to ruin.",
+            "We are taught how precious the salvation of our brethren ought to be in our esteem, and not merely that of all, but of each individual in particular, inasmuch as the blood of Christ was poured out for each individual!"
+        ],
+        "Philip Schaff": [
+            "The wrong you thus do, through your uncalled-for exercise of liberty, is far greater than you think; for whoever is thus the means of leading a Christian brother to violate his conscience is helping so far to destroy his soul.\" ",
+            "The worth of even the poorest, weakest brother could not be more emphatically expressed."
+        ],
+        "Archibald T. Robertson": [
+            "Surely a poor use to put one's superior knowledge.",
+            "Ruin follows in the wake of such daredevil knowledge.",
+            "The appeal to the death of Christ is the central fact that clinches Paul's argument."
+        ],
+        "John Gill": [
+            "It is not some slight injury that is done to the person, but even causing him to 'perish'; and this is not said of any person, but a 'brother', to whom the strongest affection, and strictest regard, should be shown; and a 'weak' brother, of whom the greater care should be taken; and therefore it is an instance of cruelty to do damage to such an one.",
+            "What aggravates most of all is, that this affects a person for 'whom Christ died'; that he had such a value for as to purchase and redeem with the price of his own blood; and yet these men made so little account of, as by so trifling a thing to risk their good and welfare.",
+            "The 'perishing' of this weak brother is to be understood of his peace and comfort, and is explained by 'defiling' his conscience... by wounding it... and making him to offend... through an imprudent use of Christian liberty... and not of his eternal damnation in hell; which could never enter into the apostle's thought, as to be brought about hereby."
+        ],
+        "John Wesley": [
+            "And through thy knowledge shall the weak brother perish, for whom Christ died?\" ",
+            "And for whom thou wilt not lose a meal's meat, so far from dying for him!\" ",
+            "We see, Christ died even for them that perish."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A single act seemingly unimportant may produce everlasting consequences. Even the condemned shall manifest God's love in the great day, in that they too had the offer of God's mercy. Surely it is a poor use to put one's superior knowledge, and ruin follows in the wake of such daredevil knowledge. The appeal to the death of Christ is the central fact that clinches Paul's argument. Whoever is thus the means of leading a Christian brother to violate his conscience is helping so far to destroy his soul.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.8267720199686615,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                32.45,
+                34.08,
+                33.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A single act seemingly unimportant may produce everlasting consequences. Even the condemned shall manifest God's love in the great day. Surely it is a poor use to put one's superior knowledge, and ruin follows in the wake of such daredevil knowledge. The appeal to the death of Christ is the central fact that clinches Paul's argument. Whoever is thus the means of leading a Christian brother to violate his conscience is helping so far to destroy his soul.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8211041403901174,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                32.97,
+                34.24,
+                32.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A single act, seemingly unimportant, can have lasting consequences. Even those condemned can reflect God's love offering. It is a poor use of superior knowledge, as ruin follows such audacity. The appeal to Christ's death is what solidifies Paul's argument. Those who lead a brother astray, causing them to go against their conscience, are helping to destroy their soul.",
+            "wordCount": 62,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.7654652177570305,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.04,
+            "commentatorTierSimilarities": [
+                31.5,
+                36.63,
+                31.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A single act seemingly unimportant may produce everlasting consequences. Even the condemned shall manifest God's love in the great day, in that they too had the offer of God's mercy. Surely it is a poor use to put one's superior knowledge, and ruin follows in the wake of such daredevil knowledge. The appeal to the death of Christ is the central fact that clinches Paul's argument. Whoever is thus the means of leading a Christian brother to violate his conscience is helping so far to destroy his soul.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.8267720199686615,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                32.45,
+                34.08,
+                33.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A single act seemingly unimportant may have everlasting consequences. The condemned will reveal God's love, having been offered God's mercy. Using superior knowledge imprudently is a poor choice, resulting in ruin. The death of Christ is the core of Paul's argument, underscoring its significance. Causing a fellow Christian to go against their conscience is assisting in the destruction of their soul.",
+            "wordCount": 64,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7348346969936315,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.03,
+            "commentatorTierSimilarities": [
+                34.52,
+                33.18,
+                32.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:24:32",
+    "verseRef": "Luke 24:52",
+    "bestBHT": {
+        "bht": "In awe of Jesus' exaltation to God's right hand, the disciples engaged in a solemn act of worship, expressing genuine adoration and reverence. Their worship was not marked by disappointment, but rather great joy, as they embraced the victory won by Christ. Their joyful response, a foretaste of the outpouring of the Holy Spirit at Pentecost, highlighted their firm belief in the fulfillment of the promise of the Father. This worshipful homage, fueled by the assurance of His deity and divine sonship, was a testament to their unwavering faith.",
+        "wordCount": 90,
+        "quoteTokenProportion": 26.56,
+        "qualityScore": 2.0669874737697755,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+        "commentatorTierSimilarities": [
+            31.59,
+            35.33,
+            33.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They worshipped him... This however was a more solemn act of worship, now paid to Him as exalted to God\u2019s right hand."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "worshipped him\u2014certainly in the strictest sense of adoration.",
+            "gazing, as if entranced, up into the blue vault in which He had disappeared",
+            "This made them return, not with disappointment at His removal, but 'with great joy.'"
+        ],
+        "Albert Barnes": [
+            "The word 'worship' does not 'always' denote religious homage.",
+            "The word \u201cworship\u201d does not \u201calways\u201d denote religious homage.",
+            "But here it is to be remarked,"
+        ],
+        "John Calvin": [
+            "By the word worship, Luke means, first, that the apostles were relieved from all doubt, because at that time the majesty of Christ shone on all sides, so that there was no longer any room for doubting of his resurrection.",
+            "For the same reason they began to honor him with greater reverence than when they enjoyed his society on earth.",
+            "This joy is contrasted with the fear which formerly kept them retired and concealed at home."
+        ],
+        "Philip Schaff": [
+            "Worshipped him. As He went up; hence a more exalted worship than the homage accorded Him during His ministry.",
+            "With great joy. Terror at His bodily presence (Luke 24:37), joy after His bodily disappearance and exaltation, which was a pledge of the victory of His cause.",
+            "They rejoiced in His glory, and in the promise of the Spirit; doubtless their joy was itself \u2018a prelude to Pentecost.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "With great joy (\u03bc\u03b5\u03c4\u03b1 \u03c7\u03b1\u03c1\u03b1\u03c2 \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7\u03c2). Now that the Ascension has come they are no longer in despair.",
+            "Joy becomes the note of victory as it is today. No other note can win victories for Christ.",
+            "The bells rang in heaven to greet the return of Jesus there, but he set the carillon of joy to ringing on earth in human hearts in all lands and for all time."
+        ],
+        "John Gill": [
+            "By his resurrection from the dead, Christ was declared to be the Son of God, and both by that, and by his going to his Father, his ascension to heaven, the disciples were more confirmed in his proper deity, and divine sonship; and therefore worshipped him as God.",
+            "Though their Lord was parted from them, and was gone to heaven, this did not cause sorrow, as did his death, but, on the contrary, joy, even great joy; partly because of the glory he was entered into, and possessed of; and partly on account of what he was gone to do for them.",
+            "They return to Jerusalem with great cheerfulness, in full hope and expectation, yea, assurance of faith, that they should shortly receive the promise of the Father."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 24:52, the disciples worshipped Jesus, not just in a casual way, but with a deep sense of adoration and reverence, recognizing His exaltation and position at God's right hand. Their worship was not fueled by disappointment or despair but by great joy, knowing that Christ's ascension marked the victory of His cause. Their joy was a prelude to Pentecost, a foretaste of the outpouring of the Holy Spirit. They honored Him with more reverence than they did during His earthly ministry, for His resurrection and ascension confirmed His proper deity and divine sonship. This worshipful response was a testament to their unwavering faith in the promise of the Father and the hope of receiving it.",
+            "wordCount": 118,
+            "quoteTokenProportion": 32.91,
+            "qualityScore": 2.061724019079732,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.89,
+            "commentatorTierSimilarities": [
+                31.11,
+                32.16,
+                36.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In awe of Jesus' exaltation to God's right hand, the disciples engaged in a solemn act of worship, expressing genuine adoration and reverence. Their worship was not marked by disappointment, but rather great joy, as they embraced the victory won by Christ. Their joyful response, a foretaste of the outpouring of the Holy Spirit at Pentecost, highlighted their firm belief in the fulfillment of the promise of the Father. This worshipful homage, fueled by the assurance of His deity and divine sonship, was a testament to their unwavering faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 2.0669874737697755,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+            "commentatorTierSimilarities": [
+                31.59,
+                35.33,
+                33.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With great joy, the disciples worshipped Jesus, recognizing His exaltation to God's right hand. Their worship was marked by adoration and reverence, reflecting their deep belief in His resurrection and ascension. The disciples' worship was not fueled by disappointment, but rather by the anticipation of the victory brought about by Christ. Their joyful response, a prelude to the outpouring of the Holy Spirit at Pentecost, evidenced their unwavering faith in the fulfillment of the promise of the Father. Their worshipful homage celebrated Jesus' deity and divine sonship.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 2.047586491020915,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+            "commentatorTierSimilarities": [
+                30.94,
+                35.34,
+                33.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In response to the exaltation of Jesus to God's right hand, the disciples worshipped Him with adoration and reverence, expressing their deep belief in His resurrection and ascension. Filled with great joy, their worship was not born out of disappointment but rather anticipation of the victory won by Christ. This joyful response, a foretaste of the coming outpouring of the Holy Spirit at Pentecost, demonstrated their unwavering faith in the fulfillment of the promise of the Father. Their worship celebrated Jesus' divine nature and affirmed His position as the Son of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.9720786706501297,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+            "commentatorTierSimilarities": [
+                31.21,
+                32.74,
+                36.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Recognizing the exaltation of Jesus to God's right hand, the disciples worshipped Him with deep adoration and reverence, reflecting their unwavering belief in His resurrection and ascension. Filled with great joy and no longer in despair, their worship celebrated the victory of Christ's cause. This joy, a precursor to Pentecost, served as a testament to the fulfillment of the promise of the Father that they firmly believed in. Their worshipful response affirmed Jesus' divine nature and confirmed His role as the Son of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.9606373419722514,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.53,
+            "commentatorTierSimilarities": [
+                30.63,
+                32.1,
+                37.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

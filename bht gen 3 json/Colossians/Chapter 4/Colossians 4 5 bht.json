@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:22:05",
+    "verseRef": "Colossians 4:5",
+    "bestBHT": {
+        "bht": "In our interactions with unbelievers, we should exercise caution and wisdom, being mindful not to become stumbling blocks to their conversion. While our brothers and sisters may show understanding, the world will make no allowances for our indiscretion. Therefore, it is important that we seize every opportunity, buying it up for ourselves and for the benefit of others, in order to redeem the time and make the most of our Christian witness. By walking in wisdom, we can effectively influence unbelievers and continue the public ministry of the Gospel.",
+        "wordCount": 89,
+        "quoteTokenProportion": 49.21,
+        "qualityScore": 1.794347199193827,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.0,
+        "commentatorTierSimilarities": [
+            24.87,
+            34.66,
+            40.47
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Exhortations as to their behaviour in the world.",
+            "Towards the members of our own house we do not want so much caution as towards those without: for where brethren are, there are many allowances and affections.",
+            "The opportunity for what, will be understood in each case from the circumstances, and our acknowledged Christian position as watching for the cause of the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be the more on your guard in your intercourse with the latter, lest you be a stumbling-block to their conversion.",
+            "The brethren, through love, will make allowances for an indiscreet act or word of a brother; the world will make none.",
+            "The Greek expresses, buying up for yourselves, and buying off from worldly vanities the opportunity, whenever it is afforded you, of good to yourselves and others."
+        ],
+        "Albert Barnes": [
+            "People of the world judge of religion, not from the profession, but from the life of its friends.",
+            "No professing Christian can possibly do good to others who does not live an upright life.",
+            "The honor of religion, therefore, and the salvation of our fellow-men, demand that in all our intercourse with others, we should lead lives of the strictest integrity."
+        ],
+        "Marvin Vincent": [
+            "In wisdom.\" ",
+            "Redeeming the time.",
+            "The favorable opportunity becomes ours at the price of duty."
+        ],
+        "John Calvin": [
+            "For nothing is more ready to occur, than that unbelievers are driven from bad to worse through our imprudence, and their minds are wounded, so that they hold religion more and more in abhorrence.",
+            "It is lest any occasion may be given for detracting from the honor of the gospel, and thus the name of Christ be exposed to derision, persons be rendered more hostile, and disturbances and persecutions be stirred up.",
+            "The more, therefore, that our path is blocked up with occasions of offense, so much the more carefully must we take heed lest our feet should stumble, or we should stop short through indolence."
+        ],
+        "Philip Schaff": [
+            "Walk in wisdom toward them that are without, i.e., unbelievers... the element in which the Christian should move in his conduct toward 'those without'.",
+            "Buying up the opportunity... The application here is more directly to opportunities of influencing unbelievers."
+        ],
+        "Archibald T. Robertson": [
+            "It takes wise walking to win them to Christ.",
+            "We all have the same time.",
+            "Paul goes into the open market and buys it up by using it rightly."
+        ],
+        "John Gill": [
+            "Walk in wisdom,.... Or wisely, circumspectly, not as fools, but as wise men...",
+            "...it is incumbent upon them to behave wisely towards them, with the simplicity of the dove to join the wisdom of the serpent...",
+            "Such a prudent walk, and wise conduct, is necessary on account of the Gospel, that the public ministration of it may be continued..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In our interactions with those outside of the faith, we should exercise caution and wisdom in order to avoid becoming stumbling blocks to their conversion. While our brothers and sisters in Christ may show understanding and forgiveness for our mistakes, the world will not. We should seize every opportunity, buying it up for ourselves and for the benefit of others, in order to redeem the time and make the most of our Christian witness. This wise conduct is crucial in maintaining the honor of the gospel and avoiding any occasion for offense or mockery. By walking in wisdom, we can effectively influence unbelievers and continue the public ministry of the Gospel.",
+            "wordCount": 111,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.820942808690257,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                21.71,
+                33.49,
+                44.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In our interactions with unbelievers, it is important to exercise caution and wisdom, being mindful not to become stumbling blocks to their conversion. While our brothers and sisters may overlook our indiscretions, the world will not. Therefore, we must seize every opportunity to redeem the time and make the most of our Christian witness. This wise conduct is crucial in upholding the honor of the gospel and avoiding any occasion for offense or ridicule. Through walking in wisdom, we can effectively influence unbelievers and continue to spread the message of the Gospel.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.773955601800154,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                23.35,
+                33.58,
+                43.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In our interactions with unbelievers, we must exercise caution and wisdom, being mindful not to hinder their conversion. While fellow believers may show understanding, the world will not. Therefore, it is essential that we seize every opportunity to redeem the time and make the most of our Christian witness. By walking in wisdom, we can effectively influence unbelievers and uphold the honor of the gospel. Our conduct should reflect the simplicity of the dove and the wisdom of the serpent, enabling us to continue proclaiming the message of the Gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.7701811900121556,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                21.39,
+                35.44,
+                43.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In our interactions with unbelievers, we should exercise caution and wisdom, being mindful not to become stumbling blocks to their conversion. While our brothers and sisters may show understanding, the world will make no allowances for our indiscretion. Therefore, it is important that we seize every opportunity, buying it up for ourselves and for the benefit of others, in order to redeem the time and make the most of our Christian witness. By walking in wisdom, we can effectively influence unbelievers and continue the public ministry of the Gospel.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.794347199193827,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.0,
+            "commentatorTierSimilarities": [
+                24.87,
+                34.66,
+                40.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In our interactions with unbelievers, we must exercise caution and wisdom to avoid hindering their conversion. While our fellow believers may forgive our mistakes, the world will not. Therefore, we should seize every opportunity to redeem the time and make the most of our Christian witness. By walking in wisdom, we can effectively influence unbelievers, uphold the honor of the gospel, and maintain the continued proclamation of the Gospel message.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.7811217971278794,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.56,
+            "commentatorTierSimilarities": [
+                22.32,
+                36.79,
+                40.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

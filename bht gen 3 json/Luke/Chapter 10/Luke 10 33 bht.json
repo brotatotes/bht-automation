@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:17:59",
+    "verseRef": "Luke 10:33",
+    "bestBHT": {
+        "bht": "The Samaritan's compassion went beyond societal divides, as seen in his immediate response to help the wounded man. Unlike the priest and the Levite, who may have had their reasons for not stopping, the Samaritan showed no hesitation. He didn't let the man's ethnicity or condition deter him; instead, he approached him with a genuine heartiness and had true compassion. This unexpected act of kindness from a Samaritan teaches us the importance of caring for and showing love to all people, regardless of our differences.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.9765175855932657,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+        "commentatorTierSimilarities": [
+            25.62,
+            39.51,
+            34.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Samaritans were entirely, not half, Gentiles.",
+            "This was the great difference between the Samaritan and the others;\u2014the actions which follow are but the expansion of this compassion.",
+            "The actions which follow are but the expansion of this compassion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His best is mentioned first; for 'He who gives outward things gives something external to himself, but he who imparts compassion and tears gives him something from his very self'.\" ",
+            "No doubt the priest and Levite had their excuses\u2014It is not safe to be lingering here; besides, he's past recovery; and then, may not suspicion rest upon ourselves? So might the Samaritan have reasoned, but did not.",
+            "Nor did he say, He's a Jew, who would have had no dealings with me, and why should I with him?"
+        ],
+        "Albert Barnes": [
+            "The Samaritans were the most inveterate foes of the Jews... It was this fact which rendered the conduct of this good man so striking.",
+            "They would not help their own afflicted, and wounded countryman. He, who could not be expected to aid a Jew, overcame all the usual hostility between the people.",
+            "Kindly denied himself to show kindness to the stranger."
+        ],
+        "Marvin Vincent": [
+            "Came where he was.\" ",
+            "There is a strong contrast with the other cases.",
+            "A downright heartiness in the words, kat aujton, down to him."
+        ],
+        "Philip Schaff": [
+            "The choice of a Samaritan to represent this character shows that the wounded man was a Jew, but this is a secondary thought.",
+            "The first step in becoming 'good Samaritans,' is to obtain this feeling [compassion]. But law, good resolutions, beautiful moral examples, and the whole array of human contrivances fail to create it. It is learned from Christ.",
+            "Mark the beautiful climax. First the compassionate heart, then the helping hand, next the ready foot, finally the true-hearted charge."
+        ],
+        "Archibald T. Robertson": [
+            "Of all men in the world to do a neighbourly act!\" ",
+            "Making his way.",
+            "He did not sidestep or dodge him, but had compassion on him."
+        ],
+        "John Gill": [
+            "he that does acts of kindness and mercy to persons in distress, is a neighbour in the truest sense, though he is not an Israelite, but even a Samaritan",
+            "Christ saw the elect before the fall, as they were chosen in him, and given unto him, in all the glory they were to be brought into",
+            "The compassion of Christ on his elect, is to be seen in his eternal covenant engagements; for his tender mercies have been ever of old"
+        ],
+        "John Wesley": [
+            "It was admirably well judged to represent the distress on the side of the Jew, and the mercy on that of the Samaritan.",
+            "Self interest would make the very scribe sensible, how amiable such a conduct was, and would lay him open to our Lord's inference.",
+            "Had it been put the other way, prejudice might more easily have interposed, before the heart could have been affected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The actions of the Samaritan in Luke 10:33 were an expansion of his deep compassion. Unlike the priest and the Levite, who had their excuses and justifications, the Samaritan did not hesitate to help. He did not concern himself with the man's ethnicity or nationality, nor did he worry about any potential dangers or suspicions that might arise. Instead, he approached the wounded man with downright heartiness, making his way to him and having true compassion. His selflessness and kindness, especially as a Samaritan, highlight the importance of genuine care and love for others.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.868869910431564,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                27.37,
+                37.15,
+                35.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Samaritan's actions in this passage were driven by a genuine compassion that surpassed societal differences. While the priest and the Levite may have had their reasons to pass by, the Samaritan showed no hesitation in reaching out to help. He disregarded any potential dangers and prejudices, and approached the wounded man with wholeheartedness. This act of kindness from someone who would normally be considered an enemy emphasizes the importance of showing deep empathy and care for others, regardless of our differences.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.8307170071797598,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.21,
+            "commentatorTierSimilarities": [
+                23.5,
+                39.37,
+                37.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Samaritan's compassion went beyond societal divides, as seen in his immediate response to help the wounded man. Unlike the priest and the Levite, who may have had their reasons for not stopping, the Samaritan showed no hesitation. He didn't let the man's ethnicity or condition deter him; instead, he approached him with a genuine heartiness and had true compassion. This unexpected act of kindness from a Samaritan teaches us the importance of caring for and showing love to all people, regardless of our differences.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.9765175855932657,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+            "commentatorTierSimilarities": [
+                25.62,
+                39.51,
+                34.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The actions of the Samaritan in this story demonstrate an expansive compassion that transcends societal boundaries. While the priest and Levite may have found reasons to pass by, the Samaritan's heartfelt response was immediate and unwavering. He didn't allow the wounded man's ethnicity or condition to hinder him; instead, he displayed a genuine heartiness and had true compassion. This act of kindness, coming from a Samaritan, emphasizes the importance of showing love and care for others, regardless of our differences.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.918800567096577,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                24.14,
+                39.93,
+                35.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Samaritan's actions in Luke 10:33 were an expansion of his deep compassion. Unlike the priest and the Levite, who had their excuses, the Samaritan did not hesitate to help. He did not concern himself with the man's ethnicity or potential dangers. Instead, he approached with heartiness, making his way to him and having true compassion. His selflessness and kindness, especially as a Samaritan, emphasize the importance of genuine care for others.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.8615915657769373,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.24,
+            "commentatorTierSimilarities": [
+                29.35,
+                35.69,
+                34.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

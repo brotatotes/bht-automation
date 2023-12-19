@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:15:39",
+    "verseRef": "2 Corinthians 3:9",
+    "bestBHT": {
+        "bht": "The ministration of condemnation, represented by the law, unveils and condemns sin, resulting in guilt and judgment. However, the ministration of righteousness, epitomized by the Gospel, overflows with glory as it reveals and imparts God's righteousness through faith in Christ. The Gospel's glory far surpasses that of the law, justifying and saving sinners by imputing the righteousness of Christ onto them. This contrast emphasizes the Gospel's superiority, as it exceeds the law in terms of its imputed righteousness and redemptive ability.",
+        "wordCount": 84,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 2.7151777113979745,
+        "qualityScoreNormalizedComparedToV2BHTs": 81.62,
+        "commentatorTierSimilarities": [
+            30.72,
+            34.46,
+            34.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For if the ministration of condemnation was glory, much more doth the ministration of righteousness abound in glory.",
+            "The ministration of condemnation, because the Law detects and condemns sin.",
+            "The ministration of righteousness, because therein the righteousness of God is revealed and imparted by faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ministration of condemnation\u2014the law regarded in the 'letter' which 'killeth'\" (2 Corinthians 3:9). ",
+            "The Gospel, which especially reveals the righteousness of God and imputes righteousness to men through faith in Christ\" (2 Corinthians 3:9). ",
+            "Imparts righteousness by the Spirit\" (2 Corinthians 3:9)."
+        ],
+        "Albert Barnes": [
+            "Law condemns the guilty; it does not save them.",
+            "The superior glory of the gospel...consists in the fact that it is a scheme to justify and save lost sinners.",
+            "The effect of [the Law] is seen in the convictions of conscience, in alarm, in a sense of guilt, in the conscious desert of condemnation, and in the apprehension of eternal punishment. The other is seen in sins forgiven; in peace of conscience; in the joy of pardon; in the hope of heaven; in comfort and triumph on the bed of death, and amidst the glories of heaven."
+        ],
+        "Marvin Vincent": [
+            "Ministration of condemnation. Because Moses was the minister of the law. For the relation of the law to sin and condemnation, see Romans 5:20; Romans 7:7-13."
+        ],
+        "Philip Schaff": [
+            "For if the ministration of condemnation is glory the law is glorious, even though in our case its effect is condemnation, much rather doth the ministration of righteousness exceed in glory.",
+            "Mark how the true sense of the important word 'righteousness' here fixes itself by the contrast in the verse.",
+            "The same contrast is presented as that of 'condemnation' by the law and 'righteousness' by the Gospel, which obviously means 'justifying righteousness'."
+        ],
+        "Archibald T. Robertson": [
+            "Of condemnation... that brings condemnation because unable to obey the law.",
+            "Paul freely admits the glory for the old dispensation.",
+            "Exceed (\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03c5\u03b5). Overflow."
+        ],
+        "John Gill": [
+            "The law is 'the ministration of condemnation'; as sin is a transgression of the law, it accuses for it, convinces of it, pronounces guilty, and adjudges to death on account of it; which is the condemnation it ministers.",
+            "The Gospel is the ministration of righteousness; not of a legal one, or a man's own, but of the righteousness of Christ, by which the law is honored, justice is satisfied, and God's elect justified from all sin and condemnation.",
+            "The Gospel is a means of stripping a man of his own righteousness, of revealing Christ's to him, and of working faith in him, and encouraging him to lay hold upon it for himself; and thus it is not to righteous persons, but sinners, to all believers, to all the second Adam's posterity; now as much more as righteousness exceeds condemnation, and a justified state a condemned one, so 'much more' does the Gospel exceed the law in glory."
+        ],
+        "John Wesley": [
+            "The ministration of condemnation \u2014 Such the Mosaic dispensation proved to all the Jews who rejected the gospel.",
+            "But how can the moral law (which alone was engraven on stone) be the ministration of condemnation?",
+            "It becomes (flatly contrary to the apostle's doctrine) the ministration of righteousness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the contrasting effects of the ministration of condemnation, represented by the law, and the ministration of righteousness, represented by the Gospel. The law detects and condemns sin, bringing forth judgment and guilt. On the other hand, the Gospel reveals and imparts the righteousness of God through faith in Christ, overflowing with glory and justifying sinners. This distinction between condemnation and righteousness emphasizes the superiority of the Gospel over the law in terms of its glory and the imputed righteousness it offers. Ultimately, the Gospel exceeds the law in its ability to justify and save sinners.",
+            "wordCount": 98,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.7094072502009046,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.43,
+            "commentatorTierSimilarities": [
+                30.78,
+                35.37,
+                33.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ministration of condemnation, embodied in the law, detects and condemns sin, bringing forth guilt and judgment. In contrast, the ministration of righteousness, revealed through the Gospel, overflows with glory and imparts the righteousness of God to believers. The Gospel's surpassing glory is evident in its ability to justify and save sinners through faith in Christ. By highlighting the distinction between condemnation and righteousness, this passage emphasizes the superiority of the Gospel, which exceeds the law in terms of its imputed righteousness and redemptive power.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.69744742553017,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.03,
+            "commentatorTierSimilarities": [
+                31.03,
+                34.91,
+                34.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ministration of condemnation, found in the law, exposes and condemns sin, leading to guilt and judgment. In contrast, the ministration of righteousness, revealed in the Gospel, abundantly manifests the righteousness of God and justifies believers through faith in Christ. This striking contrast highlights the surpassing glory of the Gospel, which exceeds the law in terms of righteousness and redemptive power. The Gospel offers forgiveness, peace, joy, hope, comfort, and triumph, and it ultimately saves sinners by imparting the righteousness of Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 20.0,
+            "qualityScore": 2.656814272573697,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.68,
+            "commentatorTierSimilarities": [
+                29.79,
+                35.77,
+                34.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ministration of condemnation, represented by the law, unveils and condemns sin, resulting in guilt and judgment. However, the ministration of righteousness, epitomized by the Gospel, overflows with glory as it reveals and imparts God's righteousness through faith in Christ. The Gospel's glory far surpasses that of the law, justifying and saving sinners by imputing the righteousness of Christ onto them. This contrast emphasizes the Gospel's superiority, as it exceeds the law in terms of its imputed righteousness and redemptive ability.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.7151777113979745,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.62,
+            "commentatorTierSimilarities": [
+                30.72,
+                34.46,
+                34.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ministration of condemnation, embodied by the law, detects and condemns sin, bringing forth guilt and judgment. In contrast, the ministration of righteousness, revealed through the Gospel, abounds with glory. It imparts the righteousness of God to sinners through faith in Christ, surpassing the law in its ability to justify and save. The Gospel strips individuals of their own righteousness, revealing the righteousness of Christ and encouraging them to embrace it for themselves. It exceeded the law's glory as it offers hope, comfort, and the justified state.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.495002956088188,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.3,
+            "commentatorTierSimilarities": [
+                30.47,
+                35.25,
+                34.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

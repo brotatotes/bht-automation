@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:15:59",
+    "verseRef": "Luke 7:20",
+    "bestBHT": {
+        "bht": "The messengers sent by John, those two men, came to Jesus from the castle of Machaerus, seeking confirmation of His identity. They recognized Him as the one so well known by his being the administrator of the ordinance of baptism. Their inquiry showcased their familiarity with Jesus' ministry and highlighted the significance of their question, as they sought assurance that He was indeed the awaited Messiah.",
+        "wordCount": 66,
+        "quoteTokenProportion": 44.9,
+        "qualityScore": 1.1706756597809624,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.27,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "those two men",
+            "the same that John sent from the castle of Machaerus",
+            "so well known by his being the administrator of the ordinance of baptism"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John's messengers came to Jesus, asking, Are you the one who is to come, or should we expect someone else? These messengers were the ones that John had sent from the castle of Machaerus, and their purpose was to seek assurance and confirmation that Jesus was indeed the long-awaited Messiah. John, being the one who administered baptism, was intimately familiar with Jesus and his ministry, making his question significant.",
+            "wordCount": 71,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 0.9006086983104853,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.29,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The messengers sent by John, those two men from the castle of Machaerus, approached Jesus seeking confirmation of his identity as the long-awaited Messiah, the same one known for his administration of baptism. Their inquiry reflects John's familiarity with Jesus and his ministry, showcasing the significance of their question.",
+            "wordCount": 51,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 0.9767596569109858,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.82,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The messengers sent from the castle of Machaerus, those two men, came to Jesus to inquire about His true identity as the expected Messiah. Their purpose was to seek confirmation from Jesus Himself, the very one who was so well known by his being the administrator of the ordinance of baptism. This question posed by John's sent messengers reflected their understanding and familiarity with Jesus' ministry, highlighting the significance of their inquiry.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 0.9825173172430635,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The messengers sent by John, known as those two men, came to Jesus seeking confirmation of His identity, as He was the same one that John sent from the castle of Machaerus. These messengers were well aware of Jesus' ministry and his role as the administrator of baptism. Their question not only reveals their familiarity with Jesus but also highlights the significance of their inquiry, as they sought assurance that He was indeed the awaited Messiah.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 0.9922383848657617,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.34,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The messengers sent by John, those two men, came to Jesus from the castle of Machaerus, seeking confirmation of His identity. They recognized Him as the one so well known by his being the administrator of the ordinance of baptism. Their inquiry showcased their familiarity with Jesus' ministry and highlighted the significance of their question, as they sought assurance that He was indeed the awaited Messiah.",
+            "wordCount": 66,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 1.1706756597809624,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

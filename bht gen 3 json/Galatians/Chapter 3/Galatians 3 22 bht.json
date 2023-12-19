@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:18:30",
+    "verseRef": "Galatians 3:22",
+    "bestBHT": {
+        "bht": "The Scripture, personified as a jailer, locks everyone up in sin like prisoners in a dungeon, for it clearly states that the law cannot grant life or righteousness. Its purpose is to guide us to the promise of salvation through faith in Jesus Christ, which is not the result of our works but simply believing. By recognizing our guilt, as pronounced by the Scripture, we are driven to seek help from Christ for redemption. Through the Scripture, we not only realize our condemnation but also find support in Christ.",
+        "wordCount": 89,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.085996117755016,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+        "commentatorTierSimilarities": [
+            32.99,
+            31.89,
+            35.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the scripture...shut up...all under sin, in order that the promise...by faith of Jesus Christ might be given to them that believe.",
+            "the scripture...shut up...all under sin, in order that the promise...might be given to them that believe.",
+            "the promise...by faith of Jesus Christ might be given...to them that believe."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But\u2014as the law cannot give life or righteousness.",
+            "The written letter was needed so as permanently to convict man of disobedience to God's command.",
+            "Beautifully contrasted with 'the liberty wherewith Christ makes free'."
+        ],
+        "Albert Barnes": [
+            "Has 'shut up' all under the condemnation of sin; that is, has declared all people, no matter what their rank and external character, to be sinners.",
+            "They cannot be justified by that law which declares them to be guilty, and which condemns them, any more than the Law of the land will acquit a murderer, and pronounce him innocent, at the same time that it holds him to be guilty.",
+            "The Law shows people that they are guilty; and it does it in order that they may be brought under the influence of the pure system of the gospel, and become interested in the promises which are connected with eternal salvation."
+        ],
+        "Marvin Vincent": [
+            "But it is not true that the law gives life, for the law, according to scripture, condemned all alike.\" ",
+            "Scripture, in its divine utterances on the universality and guilt of sin, is conceived as a jailer who shuts all up in sin as in a prison.\" ",
+            "The promised gift which is the result of faith. The false teachers claimed that it was the result of works. Against which Paul asserts that it is simply for those that believe."
+        ],
+        "John Calvin": [
+            "It tells us that, wherever we hear ourselves condemned in Scripture, there is help provided for us in Christ, if we betake ourselves to him.",
+            "We are lost, though God were silent: why then does he so often pronounce that we are lost? It is that we may not perish by everlasting destruction, but, struck and confounded by such a dreadful sentence, may by faith seek Christ.",
+            "By a figure of speech, (\u03bc\u03b5\u03c4\u03c9\u03bd\u03c5\u03bc\u1f77\u03b1,) in which the thing containing is put for the thing contained, the promise denotes that which is promised."
+        ],
+        "Philip Schaff": [
+            "\u2018Shut up,\u2019 as in a prison and state of complete slavery, without means of escape, in striking contrast with the freedom of the gospel.",
+            "They are viewed as one solid mass of corruption and guilt. No exception is made, not even in favor of the Virgin Mary, as the Vatican dogma would require.",
+            "God wills sin only as something to be overcome and destroyed; He permitted the fall of Adam only in view of the redemption by Christ which more than made up for all the loss of the fall."
+        ],
+        "Archibald T. Robertson": [
+            "Did shut together. First aorist active indicative of \u03c3\u03c5\u03bd\u03ba\u03bb\u03b5\u03b9\u03c9, old verb to shut together, on all sides, completely as a shoal of fish in a net.\" ",
+            "As if the lid closed in on us over a massive chest that we could not open or as prisoners in a dungeon.\" ",
+            "God's purpose, personifying scripture again."
+        ],
+        "John Gill": [
+            "By the 'Scripture' is meant, either the writing of the law in particular, the killing letter, or the whole Scripture, or God in it; and who by and in it has shown, declared, and proved, that all the individuals of human nature, Jews and Gentiles, and all that is in them, and done by them, are under the power and dominion of sin, defiled by it, and involved in the guilt of it.",
+            "Now the Spirit of God, discovering to men this their wretched and desperate condition, under the law and sin, reveals Christ and his righteousness to them, and enables and encourages them to believe in him, by whom only they can be justified from all things, they cannot by the law of Moses, in which they see themselves shut up, as in a prison.",
+            "And such that have it, to them the promise, or the things promised, righteousness and life are given, which the law could not give; not to them that work, but to them that believe."
+        ],
+        "John Wesley": [
+            "The scripture...hath concluded all under sin - Hath shut them up together...as in a prison, under sentence of death.",
+            "All...expecting justification by the law, the promise might be freely given.",
+            "The promise might be freely given to them that believe."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Scripture is described as a jailer, shutting all people up in sin, as if in a prison. It convicts and condemns them, showing that the law cannot bring life or righteousness. However, this shutting together or closing in serves a purpose - it is God's way of leading them to the promise of salvation through faith in Jesus Christ. The promise of life and righteousness is not obtained through works, but simply for those who believe. The Law declares everyone guilty, without exception, and it is this recognition of our lost condition that drives us to seek Christ for redemption. In this way, the Scripture not only pronounces our condemnation but also offers us help by pointing us to Christ.",
+            "wordCount": 121,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.135928936173994,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.36,
+            "commentatorTierSimilarities": [
+                30.78,
+                34.36,
+                34.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Scripture acts as a jailer, closing all people together in sin like prisoners in a dungeon. It demonstrates that the law cannot bring life or righteousness but only condemns. However, its purpose is to lead us to the promise of salvation through faith in Jesus Christ. This promise is not attained through works, but simply by believing. The Scripture not only declares our guilt but also provides help by pointing us to Christ for redemption.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.032650881474563,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.93,
+            "commentatorTierSimilarities": [
+                32.52,
+                31.17,
+                36.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Scripture, personified as a jailer, locks everyone up in sin like prisoners in a dungeon, for it clearly states that the law cannot grant life or righteousness. Its purpose is to guide us to the promise of salvation through faith in Jesus Christ, which is not the result of our works but simply believing. By recognizing our guilt, as pronounced by the Scripture, we are driven to seek help from Christ for redemption. Through the Scripture, we not only realize our condemnation but also find support in Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.085996117755016,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+            "commentatorTierSimilarities": [
+                32.99,
+                31.89,
+                35.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Scripture, acting as a jailer, shuts all people up in sin like prisoners in a dungeon, proving that the law cannot bring life or righteousness. However, its purpose is to lead us to the promise of salvation through faith in Jesus Christ. This promise is not obtained through works, but simply by believing. The Scripture reveals our guilt and provides the opportunity to seek redemption in Christ. It pronounces our condemnation, yet offers help by pointing us to Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.003395358537767,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.95,
+            "commentatorTierSimilarities": [
+                32.05,
+                30.17,
+                37.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Scripture acts as a jailer, shutting all people up in sin like prisoners in a dungeon. It reveals that the law cannot bring life or righteousness. However, its purpose is to lead us to the promise of salvation through faith in Jesus Christ. This promise is not obtained through works, but simply by believing. The Scripture pronounces our guilt and offers help by pointing us to Christ for redemption. Through the Scripture, we both recognize our condemnation and find solace in Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.97634876747628,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.05,
+            "commentatorTierSimilarities": [
+                32.8,
+                30.18,
+                37.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

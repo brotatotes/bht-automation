@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:58:56",
+    "verseRef": "Romans 1:31",
+    "bestBHT": {
+        "bht": "Given over to do those things which are not convenient, they became covenant-breakers, treating covenants as a scrap of paper. They lacked natural affection, devoid of the love of kindred. Their hearts were unmerciful, with no sense of mercy or compassion. This portrayal reveals the terrible effects of sin on the lives of individuals, highlighting the absence of moral principles and the corruption of human nature.",
+        "wordCount": 67,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.3502354940540742,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+        "commentatorTierSimilarities": [
+            31.55,
+            26.62,
+            41.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Gave them over\u2014or 'up'.",
+            "To do those things which are not convenient.",
+            "In the old sense of that word, that is, 'not becoming,' 'indecorous,' 'shameful'."
+        ],
+        "Albert Barnes": [
+            "And yet the apostle charges on the pagan generally the lack of this affection.",
+            "The Roman father had an absolute right over the life of his child, and we have abundant proof that that right was often exercised.",
+            "Pure religion, only, opens the heart to the appeals of want; and nothing but Christianity has yet expanded the hearts of people to make public provisions for the poor, the ignorant, and the afflicted."
+        ],
+        "John Calvin": [
+            "Without the feelings of humanity are they who have put off the first affections of nature towards their own relations.",
+            "As he mentions the want of mercy as an evidence of human nature being depraved.",
+            "Mercy is a Christian virtue."
+        ],
+        "Philip Schaff": [
+            "Without understanding; the same word as \u2018senseless\u2019 (E. V. \u2018foolish\u2019), Romans 1:21.",
+            "Covenant breakers. In the original there is another play upon the sound of the words.",
+            "Unmerciful. This concludes the list, marking the absence of the least principle of moral action."
+        ],
+        "Archibald T. Robertson": [
+            "Covenant-breakers (\u03b1\u03c3\u03c5\u03bd\u03b8\u03b5\u03c4\u03bf\u03c5\u03c2). Another paronomasia or pun. \u0391 privative and verbal \u03c3\u03c5\u03bd\u03b8\u03b5\u03c4\u03bf\u03c2 from \u03c3\u03c5\u03bd\u03c4\u03b9\u03b8\u03b7\u03bc, to put together. Old word, common in LXX (Jeremiah 3:7), men 'false to their engagements' (Sanday and Headlam), who treat covenants as 'a scrap of paper.'",
+            "Without natural affection (\u03b1\u03c3\u03c4\u03bf\u03c1\u03b3\u03bf\u03c5\u03c2). Late word, \u03b1 privative and \u03c3\u03c4\u03bf\u03c1\u03b3\u03b7, love of kindred. In N.T. only here and 2 Timothy 3:3.",
+            "Unmerciful (\u03b1\u03bd\u03b5\u03bb\u03b5\u03b7\u03bc\u03bf\u03bd\u03b1\u03c2). From \u03b1 privative and \u03b5\u03bb\u03b5\u03b7\u03bc\u03c9\u03bd, merciful. Late word, only here in N.T. Some MSS. add \u03b1\u03c3\u03c0\u03bf\u03bd\u03b4\u03bf\u03c5\u03c2, implacable, from 2 Timothy 3:3. It is a terrible picture of the effects of sin on the lives of men and women."
+        ],
+        "John Gill": [
+            "Without understanding,.... Of God, of his nature and worship, of things divine and even moral, being given up to a reprobate mind.",
+            "Covenant breakers; had no regard to private or public contracts.",
+            "Without natural affection; to their parents, children, relations and friends."
+        ],
+        "John Wesley": [
+            "Covenant-breakers \u2014 It is well known, the Romans, as a nation, from the very beginning of their commonwealth, never made any scruple of vacating altogether the most solemn engagement, if they did not like it...\" (Romans 1:31)",
+            "Without natural affection \u2014 The custom of exposing their own new-born children to perish by cold, hunger, or wild beasts...was an amazing instance of this...\" (Romans 1:31)",
+            "...as is also that of killing their aged and helpless parents, now common among the American heathens.\" (Romans 1:31)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They were given over to do those things which are not convenient, things that are indecorous, shameful, and in direct opposition to God's design. They became covenant-breakers, treating agreements as nothing more than a scrap of paper, false to their engagements. They lacked natural affection, devoid of the love and care that should exist between family members. Their hearts were unmerciful, lacking any shred of compassion. This vivid portrayal reveals the devastating effects of sin on the lives of individuals, a stark reminder of the depravity of human nature.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.2639336233568597,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.37,
+            "commentatorTierSimilarities": [
+                31.71,
+                26.09,
+                42.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They were given over to do those things which are not convenient, things that are indecorous, shameful, and in direct opposition to God's design. They became covenant-breakers, treating agreements as nothing more than a scrap of paper. They lacked natural affection, devoid of the love and care that should exist between family members. Their hearts were unmerciful, lacking any shred of compassion. This vivid portrayal reveals the devastating effects of sin on the lives of individuals, a stark reminder of the depravity of human nature.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.2413168820215414,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.62,
+            "commentatorTierSimilarities": [
+                31.66,
+                26.09,
+                42.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Given over to shameful and indecorous acts that go against God's design, they became covenant-breakers, treating agreements as mere scraps of paper. They lacked natural affection, showing no love or care for their own family members. Their hearts were unmerciful, completely devoid of compassion. This depiction reveals the horrifying consequences of sin on individuals, highlighting the deep corruption that can occur within human nature.",
+            "wordCount": 66,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.2512468261265735,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.95,
+            "commentatorTierSimilarities": [
+                28.53,
+                24.62,
+                46.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Given over to shameful and indecorous acts that are not becoming, they became covenant-breakers, treating agreements as a scrap of paper. They lacked natural affection, devoid of love for their own kindred. Their hearts were unmerciful, lacking any shred of compassion. This vivid depiction underscores the dreadful impact of sin on their lives, providing a stark reminder of the profound moral decay within humanity.",
+            "wordCount": 65,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.2980713824751382,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.5,
+            "commentatorTierSimilarities": [
+                35.39,
+                22.92,
+                41.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Given over to do those things which are not convenient, they became covenant-breakers, treating covenants as a scrap of paper. They lacked natural affection, devoid of the love of kindred. Their hearts were unmerciful, with no sense of mercy or compassion. This portrayal reveals the terrible effects of sin on the lives of individuals, highlighting the absence of moral principles and the corruption of human nature.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.3502354940540742,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+            "commentatorTierSimilarities": [
+                31.55,
+                26.62,
+                41.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

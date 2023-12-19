@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:17:17",
+    "verseRef": "Luke 9:57",
+    "bestBHT": {
+        "bht": "A certain man, identified in Matthew as a scribe, expressed his determination to follow Jesus wherever he went. Luke's use of the phrase where to lay his head indicates that Jesus knew the extent of this man's enthusiasm and commitment. Additionally, the mention of Jesus' wandering life helps to explain the man's statement. While the specific timing of this conversation is uncertain, it is clear that Luke did not consider any of these questioners to be called to be Apostles.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.5932958086095126,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+        "commentatorTierSimilarities": [
+            38.04,
+            36.04,
+            25.93
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "See notes on Matthew."
+        ],
+        "Marvin Vincent": [
+            "A certain man. Matthew, a scribe. ",
+            "Thou goest [\u03b1\u03c0\u03b5\u03c1\u03c7\u03b7] . Lit., \"goest away\" [\u03b1\u03c0\u03bf] . I will follow these whithersoever - away thou goest."
+        ],
+        "Philip Schaff": [
+            "As they went in the way. Quite indefinite.",
+            "The indefinite form permits us to suppose that the conversation is placed by Luke out of its proper chronological order.",
+            "This position shows that Luke did not regard any of these questioners as called to be Apostles."
+        ],
+        "Archibald T. Robertson": [
+            "The idiom 'where to lay his head' (\u03c0\u03bf\u03c5 \u03c4\u03b7\u03bd \u03ba\u03b5\u03c6\u03b1\u03bb\u03b7\u03bd \u03ba\u03bb\u03b9\u03bd\u03b7) is the same in both, the deliberative subjunctive retained in the indirect question.",
+            "Jesus knows the measure of the scribe's enthusiasm\" (Plummer).",
+            "The wandering life of Jesus explains this statement."
+        ],
+        "John Gill": [
+            "Lord, I will follow thee, wheresoever thou goest.",
+            "Lord, shall I not follow thee wheresoever thou goest?"
+        ],
+        "John Wesley": [
+            "Matthew 8:19."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A certain man, identified in Matthew as a scribe, expressed his determination to follow Jesus wherever he went. Luke's use of the phrase where to lay his head indicates that Jesus knew the extent of this man's enthusiasm and commitment. Additionally, the mention of Jesus' wandering life helps to explain the man's statement. While the specific timing of this conversation is uncertain, it is clear that Luke did not consider any of these questioners to be called to be Apostles.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5932958086095126,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+            "commentatorTierSimilarities": [
+                38.04,
+                36.04,
+                25.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A certain scribe expressed his determination to follow Jesus wherever He went. Jesus understood the extent of this man's enthusiasm and commitment, knowing that His wandering life was not suitable for someone seeking comfort and stability. Although the exact timing of this conversation is unclear, it is evident that Luke did not consider any of these questioners to be chosen as His Apostles.",
+            "wordCount": 64,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.3934468665075719,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.68,
+            "commentatorTierSimilarities": [
+                32.11,
+                41.66,
+                26.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A certain scribe desired to follow Jesus wherever He went, willing to forego personal comfort to accompany Him. Jesus, aware of this scribe's enthusiasm, recognized that His itinerant lifestyle may not align with the man's expectations. The determination expressed by the scribe reflects his genuine commitment. While the precise chronology of this encounter remains uncertain, it is evident that Luke did not consider these individuals as chosen to become His Apostles.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.3461027631287519,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.1,
+            "commentatorTierSimilarities": [
+                37.71,
+                41.63,
+                20.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A certain man, identified in Matthew as a scribe, expressed his determination to follow Jesus wherever He went, even if it meant not having a place to lay his head. Jesus understood the sincerity of this man's enthusiasm but also recognized the challenges of His nomadic lifestyle. While the exact timing of this conversation is unclear, it is evident that Luke did not view any of these questioners as prospective Apostles. The scribe's eagerness to follow Jesus reflects his genuine commitment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.4725762784678196,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.31,
+            "commentatorTierSimilarities": [
+                36.87,
+                35.8,
+                27.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A scribe expressed his unwavering resolution to follow Jesus wherever He went, even if it meant not having a place to rest. Jesus acknowledged the sincerity of the scribe's enthusiasm but understood the challenges that His wandering lifestyle presented. The specific timing of this conversation remains uncertain, but it is apparent that Luke did not regard any of these individuals as potential Apostles. The scribe's commitment to follow Jesus faithfully reflects his true dedication.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.4746825273124662,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.38,
+            "commentatorTierSimilarities": [
+                36.56,
+                35.44,
+                27.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

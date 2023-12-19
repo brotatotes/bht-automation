@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 14:58:15",
+    "verseRef": "1 Corinthians 1:4",
+    "bestBHT": {
+        "bht": "I thank my God always for the grace given you in Christ Jesus. My God, always in every prayer of mine, I am grateful for the specific grace that has been given to you as members of Christ. Even in the church in Corinth, there are reasons for praise and hope. Paul's thanksgiving is not merely a general thanksgiving, but a heartfelt acknowledgement of the grace that has been manifested in the sphere of Christ Jesus.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.3438638773716223,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.27,
+        "commentatorTierSimilarities": [
+            34.82,
+            35.29,
+            29.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "My God, always.\" ",
+            "Always in every prayer of mine.\" ",
+            "The grace had been given to them in Christ, as members of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He puts the causes for praise and hope among them in the foreground.\" ",
+            "My God.\" ",
+            "The grace ... given you."
+        ],
+        "Albert Barnes": [
+            "A willingness to commend those who do well is as much in accordance with the gospel, as a disposition to reprove where it is deserved.",
+            "A minister, or a parent, may frequently do as decided good by judicious commendation as by reproof, and much more than by fault-finding and harsh crimination.",
+            "For the grace of God - On account of the favors which God has bestowed on you through the Lord Jesus."
+        ],
+        "Marvin Vincent": [
+            "I thank [\u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03c9]. Found in the Gospels, Acts, and Revelation, but most frequently in Paul.\" ",
+            "My God. Some very high authorities omit. The pronoun implies close personal relationship. Compare Acts 27:23; Philippians 1:3; Philippians 3:8.",
+            "By Christ Jesus [\u03b5\u03bd]. Better, as Rev., in; in fellowship with. The element or sphere in which the grace is manifested."
+        ],
+        "John Calvin": [
+            "He persuades them of his affection for them by the following tokens \u2014 his discovering as much joy in the benefits bestowed upon them, as if they had been conferred upon himself.",
+            "In these riches it becomes Christians to abound; and they ought also to be esteemed by us the more, and regarded by us as so much the more valuable, in proportion as they are ordinarily slighted.",
+            "We are enriched in Christ, inasmuch as we are members of his body, and are engrafted into him: nay more, being made one with him, he makes us share with him in everything that he has received from the Father."
+        ],
+        "Philip Schaff": [
+            "I thank my God always.. .for the grace . . . given you in Jesus Christ.\" ",
+            "But lest it should seem strange that a Church so rich in \u2018grace\u2019 should be so severely blamed as in the sequel of this Epistle, the apostle is careful to specify what he refers to.",
+            "certain gifts which are all too compatible with a low-toned moral and spiritual character."
+        ],
+        "Archibald T. Robertson": [
+            "The grounds of Paul's thanksgivings in his Epistles are worthy of study.",
+            "Even in the church in Corinth he finds something to thank God for.",
+            "God's grace, not in general, but specifically given, in the sphere of Christ Jesus."
+        ],
+        "John Gill": [
+            "The object of thanksgiving is God, for as he is the author of all mercies, the glory and praise of them ought to be given to him.",
+            "The apostle styles him 'my God', to distinguish him from others; and to express his faith of interest in him.",
+            "Every particular grace of the Spirit, as faith, repentance, hope, love, fear, humility, self-denial, c. all are gifts of God, and entirely owing to his free grace."
+        ],
+        "John Wesley": [
+            "Always \u2014 Whenever I mention you to God in prayer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "I thank my God always for the grace given you in Christ Jesus. My God, always in every prayer of mine, I am grateful for the specific grace that has been given to you as members of Christ. Even in the church in Corinth, amidst its flaws, there are reasons for praise and hope. Paul's thanksgiving is not merely a general thanksgiving, but a heartfelt acknowledgement of the grace that has been manifested in the sphere of Christ Jesus. It is important for us to recognize and appreciate the rich blessings that God bestows upon us, as they are valuable and worthy of our gratitude.",
+            "wordCount": 106,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.2822088612290816,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.22,
+            "commentatorTierSimilarities": [
+                32.25,
+                35.67,
+                32.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I thank my God always for the grace given you in Christ Jesus. My God, always in every prayer of mine, I am grateful for the specific grace that has been given to you as members of Christ. Even in the church in Corinth, there are reasons for praise and hope. Paul's thanksgiving is not merely a general thanksgiving, but a heartfelt acknowledgement of the grace that has been manifested in the sphere of Christ Jesus.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.3438638773716223,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.27,
+            "commentatorTierSimilarities": [
+                34.82,
+                35.29,
+                29.89
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

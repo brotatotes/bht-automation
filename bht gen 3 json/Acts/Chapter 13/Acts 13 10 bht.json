@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:30:30",
+    "verseRef": "Acts 13:10",
+    "bestBHT": {
+        "bht": "This denunciation is directed towards Elymas, a false prophet who perverted the right ways of the Lord. He exploited people's search for God, leading them astray with his deceptive nature and knavish dexterity. Described as a child of the devil and full of guile and mischief, Elymas was an enemy of righteousness. The message here emphasizes the importance of discernment, staying on the straight paths of integrity and sincerity, and not succumbing to the deceitful tactics of those who pervert the truth.",
+        "wordCount": 83,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 2.080921039395214,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+        "commentatorTierSimilarities": [
+            27.15,
+            38.63,
+            34.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Son of the devil\" - Meyer supposes an indignant allusion to the name Bar-jesus (son of Jesus, or Joshua). This is possible, though hardly probable.",
+            "Wilt thou not cease to pervert the right ways of the Lord?\" - This evidently applies, not to Elymas's conduct on this occasion merely, but to his whole life of imposture and perversion of others.",
+            "The especial sin was, that of laying hold of the nascent enquiry after God in the minds of men, and wresting it to a wrong direction.\" - The Lord here and in ver. 11 is Jehovah."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Full of all subtlety...and all malice\u2014The word signifies 'readiness for anything,' knavish dexterity.",
+            "Thou child of the devil...enemy of all righteousness\u2014These were not words of passion, for immediately before uttering them, it is said he was 'filled with the Holy Ghost.'",
+            "Wilt thou not cease to pervert the right ways of the Lord\u2014referring to his having to that hour made a trade of leading his fellow creatures astray."
+        ],
+        "Albert Barnes": [
+            "The word 'subtilty' denotes 'deceit and fraud,' and implies that he was practicing an imposition, and that he knew it.",
+            "Satan is represented here as the author of deceit and the father of lies.",
+            "Straight paths denote 'integrity, sincerity, truth,' in opposition to the crooked and perverse arts of deceivers and impostors."
+        ],
+        "Marvin Vincent": [
+            "Mischief [\u03c1\u03b1\u03b4\u03b9\u03bf\u03c5\u03c1\u03b3\u03b9\u03b1\u03c2]. Only here in New Testament. Originally, ease or facility in doing; hence readiness in turning the hand to anything, bad or good; and so recklessness, unscrupulousness, wickedness.\" ",
+            "A kindred word (rJadiourghma, lewdness, Rev., villainy) occurs at ch. 18 14.\" ",
+            "Right ways. Or straight, possibly with an allusion to Elymas' crooked ways."
+        ],
+        "John Calvin": [
+            "Thus must we deal with the desperate enemies of the gospel, in whom appeareth open contumacy and wicked contempt of God, especially when they stop the way before others.\" ",
+            "This heat of zeal is not only not to be reprehended, but it ought to make the profane condemners of God sore afraid, who fear not to rebel against his word.",
+            "And it shall be convenient to repeat here that which I touched before, that the servants of Christ must not be blamed if they do sore inveigh against the professed enemies of sound doctrine, unless we will accuse the Holy Ghost of intemperance."
+        ],
+        "Archibald T. Robertson": [
+            "Of all guile...Paul denounces Elymas as a trickster.\" ",
+            "Thou son of the devil...a slanderer like the \u03b4\u03b9\u03b1\u03b2\u03bf\u03bb\u03bf\u03c2.\" ",
+            "The right ways of the Lord...This false prophet was making even the Lord's straight ways crooked."
+        ],
+        "John Gill": [
+            "The minds of carnal men are vain and empty, and destitute of all that is good, and full of all that is evil.",
+            "Thou child of the devil.",
+            "Wilt thou not cease to pervert the right ways of the Lord?"
+        ],
+        "John Wesley": [
+            "O full of all guile \u2014 As a false prophet, and all mischief - As a magician.",
+            "Thou son of the devil \u2014 A title well suited to a magician; and one who not only was himself unrighteous, but labored to keep others from all goodness.",
+            "Wilt thou not cease to pervert the right ways of the Lord? \u2014 Even now thou hast heard the truth of the Gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse is a denunciation of Elymas, a false prophet who perverted the right ways of the Lord. The term son of the devil may allude to Elymas' deceptive nature and his role as an enemy of righteousness. The phrase pervert the right ways of the Lord refers to how he exploited people's search for God and led them astray. Elymas was characterized by his knavish dexterity, ready for any form of wickedness, and was addressed by Paul as a child of the devil. Overall, this passage highlights the importance of discerning truth from deception and staying on the straight paths of integrity and sincerity.\n",
+            "wordCount": 106,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.035378301194276,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.02,
+            "commentatorTierSimilarities": [
+                30.16,
+                34.94,
+                34.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This denunciation is directed towards Elymas, a false prophet who perverted the right ways of the Lord. He exploited people's search for God, leading them astray with his deceptive nature and knavish dexterity. Described as a child of the devil and full of guile and mischief, Elymas was an enemy of righteousness. The message here emphasizes the importance of discernment, staying on the straight paths of integrity and sincerity, and not succumbing to the deceitful tactics of those who pervert the truth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.080921039395214,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+            "commentatorTierSimilarities": [
+                27.15,
+                38.63,
+                34.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This denunciation is directed towards Elymas, a false prophet who perverted the right ways of the Lord. Described as a child of the devil, he exploited people's search for God, leading them astray with his deceptive nature and knavish dexterity. Elymas' actions were characterized by guile and mischief, making him an enemy of righteousness. This passage highlights the importance of discernment, staying on the straight paths of integrity and sincerity, and not succumbing to the deceitful tactics of those who pervert the truth.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.045624003310215,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                28.21,
+                37.3,
+                34.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This denunciation is directed towards Elymas, a false prophet who perverted the right ways of the Lord. Described as a child of the devil, he exploited people's search for God, leading them astray with his deceptive nature and knavish dexterity. Elymas' actions were characterized by guile and mischief, making him an enemy of righteousness. This highlights the importance of discernment, staying on the straight paths of integrity and not succumbing to the deceitful tactics of those who pervert the truth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.041382693578576,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                28.47,
+                36.92,
+                34.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Elymas, the false prophet, earned the title son of the devil for perverting the right ways of the Lord with his deceptive nature. His readiness for anything and malicious intent proved him to be an enemy of righteousness. This denunciation emphasizes the need for discernment between truth and falsehood. It serves as a reminder to stay on the straight paths of integrity, avoiding the crooked ways of those who manipulate and distort the teachings of the Lord.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9873270226494757,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                25.08,
+                42.93,
+                31.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

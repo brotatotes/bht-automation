@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:14:17",
+    "verseRef": "Luke 2:42",
+    "bestBHT": {
+        "bht": "At the age of twelve, a boy was called by the Jews 'son of the law,' and first incurred legal obligation. Jesus, at this time, entered a new phase of life, where higher consciousness started to unfold within Him. It is likely that He had previously accompanied His parents to Jerusalem for the feast. This event serves as an instruction to parents, to bring up their children in the nurture and admonition of the Lord, after their example.",
+        "wordCount": 78,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.9447640777482929,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+        "commentatorTierSimilarities": [
+            29.26,
+            34.21,
+            36.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "At the age of twelve, a boy was called by the Jews 'son of the law,' and first incurred legal obligation.",
+            "At that time, then, commences the second step of the life of the Lord, the time when the things becoming for Him began.",
+            "Now first appear those higher consciousnesses to have found expression, which unfolded within Him, till the full time of his public ministry arrived."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the hart panteth after the water brooks, so panteth my soul after Thee, O God. The Lord loveth the gates of Zion more than all the dwellings of Jacob. I was glad when they said unto me, Let us go unto the house of the Lord. Our feet shall stand within thy gates, O Jerusalem!\" (Psalms 42:1; Psalms 87:2; Psalms 122:1; Psalms 122:2).",
+            "Beautiful for situation, the joy of the whole earth is Mount Zion, on the sides of the north, the city of the great King: Out of Zion, the perfection of beauty, God doth shine\" (Psalms 48:2; Psalms 50:2).",
+            "He brought me to the banqueting house, and his banner over me was love. I sat down under his shadow with great delight, and his fruit was sweet to my taste\" (Song of Solomon 2:3; Song of Solomon 2:4)."
+        ],
+        "Albert Barnes": [
+            "All males among the Hebrews were required to appear three times a year before God, to attend on the ordinances of religion in the temple.\" ",
+            "It is probable that this was the age at which they first went up to Jerusalem.\" ",
+            "According to the usual manner of the feast."
+        ],
+        "Marvin Vincent": [
+            "Twelve years old. At which age he was known as a son of the law, and came under obligation to observe the ordinances personally."
+        ],
+        "Philip Schaff": [
+            "At this age a Jewish boy became \u2018a son of the law \u2018and was henceforth bound to obey the law in the full scope of its requirements.",
+            "After this age attendance at the Passover was necessary.",
+            "The passage before us gives no hint that this was the first time the child Jesus had accompanied His parents thither."
+        ],
+        "Archibald T. Robertson": [
+            "At twelve a Jewish boy became a 'son of the law' and began to observe the ordinances.\" ",
+            "Putting on the phylacteries as a reminder.\" ",
+            "'On their usual going up'."
+        ],
+        "John Gill": [
+            "they used to train up their children, and inure them to religious exercises before",
+            "that they might be inured to them, and expert in them, when they were under obligation to them",
+            "an instruction to parents, to bring up their children in the nurture and admonition of the Lord, after their example."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the age of twelve, a Jewish boy would become a son of the law, taking on the responsibility to observe the ordinances personally. This marked the beginning of a new phase in the life of the Lord, as higher consciousness unfolded within Him. It is likely that Jesus had accompanied His parents to Jerusalem for the Passover before, as it was customary for males to appear before God three times a year. This passage serves as a reminder for parents to bring up their children in the nurture and admonition of the Lord, setting an example in religious devotion and training them in religious exercises from an early age.",
+            "wordCount": 110,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.9954444145777006,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                32.55,
+                36.08,
+                31.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the age of twelve, a Jewish boy was known as a son of the law, obligated to observe the ordinances. This marked the beginning of the Lord's journey towards fulfilling His purpose. It is likely that Jesus had visited Jerusalem for the feast prior to this. By setting this example, parents are encouraged to nurture their children in the ways of the Lord, training them in religious exercises from an early age.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9284747951187864,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                30.77,
+                40.19,
+                29.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At twelve years old, a Jewish boy became a son of the law and was bound to obey the ordinances. This was the beginning of the Lord's path towards fulfilling His purpose. It is likely that Jesus had previously visited Jerusalem for the feast. Parents are instructed to bring up their children in the nurture and admonition of the Lord, setting an example through religious devotion and training from an early age.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.942399918676423,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                30.44,
+                39.9,
+                29.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the age of twelve, a boy was called by the Jews 'son of the law,' and first incurred legal obligation. Jesus, at this time, entered a new phase of life, where higher consciousness started to unfold within Him. It is likely that He had previously accompanied His parents to Jerusalem for the feast. This event serves as an instruction to parents, to bring up their children in the nurture and admonition of the Lord, after their example.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.9447640777482929,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                29.26,
+                34.21,
+                36.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the age of twelve, a boy was called by the Jews 'son of the law,' and first incurred legal obligation. This marked the second step of the Lord's life, the time when the things becoming for Him began. It is likely that higher consciousness unfolded within Him, as evidenced by His attendance at the feast in Jerusalem. This event serves as an instruction to parents, to bring up their children in the nurture and admonition of the Lord, following their example.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9147502950169666,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                32.51,
+                32.19,
+                35.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

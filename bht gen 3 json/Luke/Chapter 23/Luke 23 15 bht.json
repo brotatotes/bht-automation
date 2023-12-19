@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:23:29",
+    "verseRef": "Luke 23:15",
+    "bestBHT": {
+        "bht": "Herod's examination of Jesus yielded no proof that He had committed any crimes deserving of death. Both Pilate and Herod declared Jesus innocent, indicating that the charges against Him were unfounded. Herod, being well-versed in Jewish affairs, understood the gravity of such accusations and the standard of proof required. As a result, Jesus was sent back to Pilate, as even Herod could not justify any punishment for Him. The consensus was clear: Jesus had done nothing worthy of the death penalty.",
+        "wordCount": 83,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 1.6173358765735382,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+        "commentatorTierSimilarities": [
+            8.27,
+            40.32,
+            51.41
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not as A.V., is done unto him, but is done by him.",
+            "Such is the issue of Herod's judgment.",
+            "I assume that he has thus decided."
+        ],
+        "Albert Barnes": [
+            "Nothing worthy of death is done unto him - Deserving of death. The charges are not proved against him.",
+            "They had had every opportunity of proving them, first before Pilate and then before Herod, unjustly subjecting him to trial before 'two' men in succession.",
+            "After all, he was declared by both to be innocent. There could be no better evidence that he 'was' innocent."
+        ],
+        "Philip Schaff": [
+            "Nor yet Herod, who knew Jewish affairs so well.",
+            "For he sent him back to us. The correct reading more fully proves Pilate\u2019s assertion.",
+            "Hath been done by him, i.e., Herod\u2019s examination failed to elicit any proof that He had committed a crime."
+        ],
+        "Archibald T. Robertson": [
+            "But not even.\" ",
+            "Periphrastic perfect passive indicative of \u03c0\u03c1\u03b1\u03c3\u03c3\u03c9, common verb, to do.\" ",
+            "The case of \u03b1\u03c5\u03c4\u03c9 can be regarded as either the dative or the instrumental."
+        ],
+        "John Gill": [
+            "Who was a Jew, and better versed in their religious affairs, and understood the nature of such charges, and the amount of them, and what was sufficient proof in such cases...",
+            "...Herod, after he had examined Jesus, and found no fault in him, sent him again to us; not being able to make out any crime against him, or to pass any judgment on the matter...",
+            "...either that it appeared to Herod, that Christ had done nothing that deserved death; or that nothing was done to him by Herod, which showed that he thought he was worthy of it..."
+        ],
+        "John Wesley": [
+            "He hath done nothing worthy of death \u2014 According to the judgment of Herod also."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Herod's examination of Jesus, though done with the intention of finding him guilty, ultimately failed to produce any evidence of wrongdoing. Both Pilate and Herod declared Jesus innocent, indicating that there was no basis for the charges brought against him. Herod, being well-versed in Jewish affairs, would have understood the gravity of such accusations and the need for substantial proof. Thus, Jesus was sent back to Pilate, as even Herod could not justify any punishment for him. The verdict was clear: Jesus had done nothing worthy of death.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.5869700783196419,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                8.18,
+                40.84,
+                50.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Herod's examination of Jesus rendered no evidence of wrongdoing, and both Pilate and Herod declared him innocent. As an authority on Jewish affairs, Herod understood the seriousness of the charges against Jesus and the requirement for substantial proof. Consequently, Jesus was returned to Pilate, as even Herod could not justify any punishment for him. The conclusion was clear: Jesus had done nothing deserving of death.",
+            "wordCount": 66,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.5559222661733396,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                8.12,
+                39.51,
+                52.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite Herod's intention to find Jesus guilty, his examination failed to provide any evidence of wrongdoing. Both Pilate and Herod acknowledged Jesus's innocence, implying that the accusations against him were baseless. Herod's familiarity with Jewish affairs added weight to his judgment. Consequently, Jesus was sent back to Pilate, as Herod could not justify any punishment. It was evident that Jesus had committed no crime deserving of death.",
+            "wordCount": 70,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.5767470246087087,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+            "commentatorTierSimilarities": [
+                10.56,
+                40.02,
+                49.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Herod's examination of Jesus yielded no proof that He had committed any crimes deserving of death. Both Pilate and Herod declared Jesus innocent, indicating that the charges against Him were unfounded. Herod, being well-versed in Jewish affairs, understood the gravity of such accusations and the standard of proof required. As a result, Jesus was sent back to Pilate, as even Herod could not justify any punishment for Him. The consensus was clear: Jesus had done nothing worthy of the death penalty.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.6173358765735382,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "commentatorTierSimilarities": [
+                8.27,
+                40.32,
+                51.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "According to the first-tier commentary, the examination of Jesus by Herod did not result in any wrongdoing on His part. Both Pilate and Herod declared Jesus innocent, proving that the charges against Him were unsubstantiated. The second-tier commentary further emphasizes that the failure to find any fault with Jesus only affirms His innocence. Consequently, Herod sent Jesus back to Pilate, indicating that He had not done anything deserving of death.",
+            "wordCount": 72,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6098775440071242,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                9.64,
+                39.76,
+                50.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

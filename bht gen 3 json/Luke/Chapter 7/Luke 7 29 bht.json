@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:16:25",
+    "verseRef": "Luke 7:29",
+    "bestBHT": {
+        "bht": "The words in question are a parenthetical insertion by the Evangelist, not a continuation of Jesus' discourse. The people, including the publicans, acknowledged the divine wisdom of John the Baptist's ministry in leading them to Jesus. The Pharisees and lawyers, in refusing John's baptism, also rejected God's merciful design in the Savior. Jesus interjected this comment to highlight the people's recognition of God's righteousness in preparing them for His coming.",
+        "wordCount": 75,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 2.0964633646207744,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.05,
+        "commentatorTierSimilarities": [
+            49.66,
+            0.0,
+            50.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It has been imagined that these words are a continuation of our Lord\u2019s discourse, but surely they would thus be most unnatural.",
+            "They are evidently a parenthetical insertion of the Evangelist, expressive not of what had taken place during John\u2019s baptism, but of the present effect of our Lord\u2019s discourse on the then assembled multitude.",
+            "Their whole diction and form is historical, not belonging to discourse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They acknowledged the divine wisdom of such a preparatory ministry as John's, in leading them to Him who now spake to them.",
+            "The publicans\u2014a striking clause.",
+            "The Pharisees and lawyers, true to themselves in refusing the baptism of John, set at naught also the merciful design of God in the Saviour Himself, to their own destruction."
+        ],
+        "Marvin Vincent": [
+            "Justified God. Declaring, by being baptized, that God 's will concerning John's baptism was right."
+        ],
+        "John Calvin": [
+            "And all the people hearing... gave glory to God; while the Scribes... cared little for what Christ said.\" ",
+            "The Lord intended... that neither... age, nor even posterity, might judge of the Gospel by the approbation of men.\" ",
+            "Those who respectfully embrace the Son of God... are said to ascribe righteousness to God... The word justify... conveys the idea, that God is beheld with approbation, and crowned with glory, by the people who embrace that doctrine of which He is the author."
+        ],
+        "Archibald T. Robertson": [
+            "They considered God just or righteous in making these demands of them.\" ",
+            "Even the publicans did. They submitted to the baptism of John.",
+            "This would be a remarkable thing for so long a comment to be interjected. It is perfectly proper as the saying of Jesus."
+        ],
+        "John Gill": [
+            "The publicans justified God; even those wicked men, who were before profligate and abandoned sinners, when they came under John's ministry, were so wrought upon by the power and grace of God through it, that they approved of, and applauded the wisdom, goodness, and grace of God...",
+            "...their approbation of the divine conduct, and their thankfulness for the same, they testified by their being baptized with the baptism of John...",
+            "...they hereby signified, that they thought that it was agreeable to the nature of God, who is holy, just, and good, suitable to the Gospel dispensation, and very fit and proper for them."
+        ],
+        "John Wesley": [
+            "Justified God - Owned his wisdom and mercy in thus calling them to repentance, and preparing them for Him that was to come.",
+            "Our Lord continues his discourse: justified God - Owned his wisdom and mercy in thus calling them to repentance, and preparing them for Him that was to come.",
+            "Preparing them for Him that was to come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words in Luke 7:29 are not a continuation of Jesus' discourse, but rather a parenthetical insertion by the Evangelist to express the effect of Jesus' words on the crowd. The people acknowledged the wisdom of John the Baptist's ministry in leading them to Jesus, while the Pharisees and lawyers rejected both John's baptism and the merciful design of God in the Savior. The publicans, surprising enough, also acknowledged God's righteousness by submitting to John's baptism. This recognition of God's wisdom and mercy in preparing them for Jesus is evident in their baptism. It is remarkable that Jesus interjects such a long comment, but it is perfectly appropriate.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.1338191035768066,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.29,
+            "commentatorTierSimilarities": [
+                50.85,
+                0.0,
+                49.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The passage in question is a parenthetical insertion by the Evangelist, not a continuation of Jesus' discourse. The people, including the publicans, acknowledged the divine wisdom of John the Baptist's ministry in leading them to Jesus. However, the Pharisees and lawyers, true to themselves, rejected both the baptism of John and the merciful design of God in the Savior. Jesus interjected this lengthy comment to show the people's recognition of God's righteousness and wisdom in preparing them for His coming.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.086174117674832,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+            "commentatorTierSimilarities": [
+                46.96,
+                0.0,
+                53.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The words in question are a parenthetical insertion by the Evangelist, not a continuation of Jesus' discourse. The people, including the publicans, acknowledged the divine wisdom of John the Baptist's ministry in leading them to Jesus. The Pharisees and lawyers, in refusing John's baptism, also rejected God's merciful design in the Savior. Jesus interjected this comment to highlight the people's recognition of God's righteousness in preparing them for His coming.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.0964633646207744,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.05,
+            "commentatorTierSimilarities": [
+                49.66,
+                0.0,
+                50.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The words in Luke 7:29 are not a continuation of Jesus' discourse, but are rather a parenthetical insertion of the Evangelist. The people acknowledged the divine wisdom of John the Baptist's preparatory ministry in leading them to Jesus. The Pharisees and lawyers, in refusing John's baptism, set aside God's merciful design in the Savior, bringing destruction upon themselves. The unexpected acknowledgment of God's righteousness by the publicans, who submitted to John's baptism, is notable. Jesus spoke these words to emphasize the people's recognition of God's wisdom and mercy in preparing them for His arrival.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.2095239020694897,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.81,
+            "commentatorTierSimilarities": [
+                49.49,
+                0.0,
+                50.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parenthetical insertion in the passage reflects the people's acknowledgment of the divine wisdom of John the Baptist's ministry in leading them to Jesus. While the publicans, even those who were once profligate sinners, justified God by submitting to John's baptism, the Pharisees and lawyers rejected both John's baptism and God's merciful design in the Savior. Through this comment, Jesus underscores the people's recognition of God's righteousness and wisdom in preparing them for His arrival.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.2077586132785507,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.75,
+            "commentatorTierSimilarities": [
+                45.33,
+                0.0,
+                54.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

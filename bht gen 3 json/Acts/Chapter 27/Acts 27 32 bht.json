@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:37:07",
+    "verseRef": "Acts 27:32",
+    "bestBHT": {
+        "bht": "Paul, now the savior of the ship, quickly thwarted the sailors' dastardly scheme by having the soldiers cut off the ropes of the boat, causing it to drift away. This act of cutting the ropes not only prevented the sailors from fleeing but also averted potential loss of life. With the boat drifting off and eventually being dashed to pieces on the rocks, the soldiers demonstrated military promptitude in settling the matter. The soldiers' actions were in stark contrast to the mariners who were putting their trust in Paul rather than their own schemes.",
+        "wordCount": 94,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.8547038055708025,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+        "commentatorTierSimilarities": [
+            28.75,
+            41.33,
+            29.91
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "32. Then the soldiers cut off the",
+            "\tropes of the boat\u2014already lowered. ",
+            "\t",
+            "and let her fall off\u2014let",
+            "\tthe boat drift away."
+        ],
+        "Albert Barnes": [
+            "Cut off the ropes...By thus cutting the ropes...all possibility of their fleeing from the ship was taken away."
+        ],
+        "Philip Schaff": [
+            "Cut the ropes. With military promptitude and without any argument, the soldiers settled the question.\" ",
+            "The ropes were cut; and the boat drifted off into the darkness, and was dashed to pieces on the rocks.\" ",
+            "A very good religious moral, full of very varied instruction, might be connected with the story of this boat."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is now saviour of the ship and the soldiers quickly cut loose the skiff and 'let her fall off'.\" (23 words)",
+            "This dastardly scheme of the sailors would have brought frightful loss of life.\" (14 words)"
+        ],
+        "John Gill": [
+            "With which it had been fastened to the sides of the ship, and by which the mariners were letting it down, in order to get into it, and go off.",
+            "And let her fall off; from the sides of the ship into the sea...",
+            "For now they gave more credit to Paul than to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, now the savior of the ship, quickly thwarted the sailors' dastardly scheme by having the soldiers cut off the ropes of the boat, causing it to drift away. This act of cutting the ropes not only prevented the sailors from fleeing but also averted potential loss of life. With the boat drifting off and eventually being dashed to pieces on the rocks, the soldiers demonstrated military promptitude in settling the matter. The soldiers' actions were in stark contrast to the mariners who were putting their trust in Paul rather than their own schemes.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8547038055708025,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                28.75,
+                41.33,
+                29.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, the savior of the ship, swiftly acted by having the soldiers cut off the ropes of the boat. This thwarted the sailors' scheme and prevented potential loss of life. With the boat drifting away and eventually being dashed to pieces on the rocks, the soldiers showed military promptitude while putting their trust in Paul. Their actions spoke louder than words, as they chose to follow the lead of Paul rather than the unreliable sailors.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.7779960130118577,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+            "commentatorTierSimilarities": [
+                30.64,
+                38.64,
+                30.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, now the savior of the ship, quickly had the soldiers cut off the ropes of the boat, causing it to drift away. This prevented the sailors from fleeing and potentially averted loss of life. The soldiers' prompt and decisive action settled the matter without any argument, displaying their trust in Paul over the sailors' deceitful plan. Ultimately, their actions spoke volumes, as they placed more confidence in Paul's guidance than in the unreliable sailors.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.7241091045514658,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                29.98,
+                40.31,
+                29.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, the savior of the ship, swiftly cut off the ropes of the boat, causing it to drift away. By doing so, he foiled the sailors' scheme to flee, potentially avoiding a catastrophic loss of life. The soldiers acted promptly and without hesitation, settling the matter decisively. Their actions demonstrated their trust in Paul's leadership over the deceitful sailors.",
+            "wordCount": 60,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 1.6279266042449048,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "commentatorTierSimilarities": [
+                29.63,
+                41.03,
+                29.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, acting as the savior of the ship, wasted no time in having the soldiers cut off the ropes of the boat, allowing it to drift away. This swift action thwarted the sailors' plan to flee, a scheme that could have resulted in tragic loss of life. The soldiers' decisive and prompt response settled the matter, showing their trust in Paul's guidance over the untrustworthy sailors. Their actions spoke louder than words, demonstrating their faith in Paul's leadership.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.5537409835291287,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.0,
+            "commentatorTierSimilarities": [
+                32.57,
+                38.11,
+                29.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

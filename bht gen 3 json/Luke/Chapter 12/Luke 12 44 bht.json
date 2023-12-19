@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:18:54",
+    "verseRef": "Luke 12:44",
+    "bestBHT": {
+        "bht": "The exaltation of a servant to a position of authority over all their possessions is indicative of their future elevation in the world to come. This aligns with the idea of faithful servants being entrusted with greater responsibilities, as spoken of by Jesus in Matthew 25:21 and Matthew 25:23. The phrase over all implies dominion, as observed in Luke 12:24-47. Notably, the assurance of reigning with Christ on earth for a thousand years corresponds with the promise of eternal enjoyment in heaven with Him.",
+        "wordCount": 81,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.2785215982356448,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.85,
+        "commentatorTierSimilarities": [
+            48.79,
+            0.0,
+            51.21
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "44. make him ruler over all he",
+            "\thath\u2014will advance him to the highest post, referring to the",
+            "\tworld to come. (See Matthew 25:21;",
+            "\tMatthew 25:23)."
+        ],
+        "Archibald T. Robertson": [
+            "Over all (\u03b5\u03c0 \u03c0\u03b1\u03c3\u03b9\u03bd). See Luke 12:24-47 for \u03b5\u03c0 with locative in this sense. Usually with genitive as in verse Luke 12:42 and sometimes with accusative as in verse Luke 12:14. "
+        ],
+        "John Gill": [
+            "you may assure yourselves of it, this will certainly be the happy case of such servant",
+            "Such an one shall reign with Christ on earth a thousand years",
+            "and then in heaven with him to all eternity, where he shall enjoy all things"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse speaks of making someone a ruler over all they have, which pertains to their elevation to a high position in the world to come. This is similar to how Jesus speaks of entrusting faithful servants with more responsibilities in Matthew 25:21 and Matthew 25:23. The phrase over all in this verse is used in the sense of having dominion over everything, as seen in Luke 12:24-47. It is worth noting that this assurance of reigning with Christ on earth for a thousand years aligns with the idea of eternal enjoyment in heaven with Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.4603841141931444,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.9,
+            "commentatorTierSimilarities": [
+                51.87,
+                0.0,
+                48.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage refers to the promotion of a servant to a position of authority over all they possess, indicating their future elevation in the world to come. Jesus speaks of a similar concept in Matthew 25:21 and Matthew 25:23, where faithful servants are entrusted with greater responsibilities. The phrase over all implies dominion, as seen in Luke 12:24-47. This assurance of reigning with Christ on earth for a thousand years connects to the promise of eternal enjoyment in heaven with Him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.2839289536258667,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.03,
+            "commentatorTierSimilarities": [
+                47.0,
+                0.0,
+                53.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The elevation of a servant to a position of authority over everything they possess signifies their future promotion in the world to come. Jesus conveys a similar concept in Matthew 25:21 and Matthew 25:23, entrusting faithful servants with greater responsibilities. The term over all denotes dominion, as evident in Luke 12:24-47. The assurance of reigning alongside Christ on earth for a thousand years aligns with the promise of eternal enjoyment in heaven with Him.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.2282199312695068,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.18,
+            "commentatorTierSimilarities": [
+                46.83,
+                0.0,
+                53.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The exaltation of a servant to a position of authority over all their possessions is indicative of their future elevation in the world to come. This aligns with the idea of faithful servants being entrusted with greater responsibilities, as spoken of by Jesus in Matthew 25:21 and Matthew 25:23. The phrase over all implies dominion, as observed in Luke 12:24-47. Notably, the assurance of reigning with Christ on earth for a thousand years corresponds with the promise of eternal enjoyment in heaven with Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.2785215982356448,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.85,
+            "commentatorTierSimilarities": [
+                48.79,
+                0.0,
+                51.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The future promotion of a servant to a position of authority over all their possessions mirrors the principle of entrusting faithful servants with greater responsibilities, as discussed by Jesus in the Gospel of Matthew. The phrase over all emphasizes the idea of dominion, as exemplified in a related passage in the book of Luke. The assurance of reigning alongside Christ on earth for a thousand years points to the promise of eternal enjoyment in heaven with Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.2688973094509655,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.53,
+            "commentatorTierSimilarities": [
+                48.28,
+                0.0,
+                51.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

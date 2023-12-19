@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:25:20",
+    "verseRef": "Acts 2:22",
+    "bestBHT": {
+        "bht": "Jesus of Nazareth, a man approved by God through manifest testimonies, was demonstrated to be the Messiah and Saviour through mighty works. These miracles, not done in isolation but among the people, provided undeniable evidence of his divine commission. Through these authentic miracles, God showed that Jesus was the Son of God, a firm foundation for Peter's proclamation of Jesus as the Lord who saves all who call upon His name.",
+        "wordCount": 72,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.387293013831738,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.72,
+        "commentatorTierSimilarities": [
+            28.56,
+            36.55,
+            34.89
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words of (by) God, belong to approved, and denote the source whence the proof came. approved must be taken in its fuller and stricter meaning: viz. as importing,\u2014shewn to be that which He claimed to be.",
+            "The Man Jesus of Nazareth was by God demonstrated, by God wrought in among you, by God\u2019s counsel delivered to death, by God raised up...",
+            "This was the process of argument then with the Jews,\u2014proceeding on the identity of a man whom they had seen and known,\u2014and then mounting up from His works and His death and His resurrection, to His glorification,\u2014all THE PURPOSE AND DOING OF GOD."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "authenticated,\" \"proved,\" or \"demonstrated to be from God.",
+            "This is not a low view of our Lord's miracles, as has been alleged, nor inconsistent with... but is in strict accordance with His progress from humiliation to glory, and with His own words.",
+            "This view of Christ is here dwelt on to exhibit to the Jews the whole course of Jesus of Nazareth as the ordinance and doing of the God of Israel."
+        ],
+        "Albert Barnes": [
+            "A man approved of God - A man who was shown or demonstrated to have the approbation of God, or to have been sent by him.",
+            "By miracles, and wonders, and signs - The first of these words properly means the displays of power which Jesus made; the second, the unusual or remarkable events which attended him, as suited to excite wonder or amazement; the third, the sights or proofs that he was from God.",
+            "Which God did, by him - The Lord Jesus himself often traced his power to do these things to his commission from the Father, but he did it in such a way as to show that he was closely united to him."
+        ],
+        "Marvin Vincent": [
+            "Approved [\u03b1\u03c0\u03bf\u03b4\u03b5\u03b4\u03b5\u03b9\u03b3\u03bc\u03b5\u03bd\u03bf\u03bd] . The verb means to point out or shew forth. Shewn to be that which he claimed to be.",
+            "Miracles [\u03b4\u03c5\u03bd\u03b1\u03bc\u03b5\u03c3\u03b9] . Better, Rev., mighty works.",
+            "Lit., powers. See on Matthew 11:20."
+        ],
+        "John Calvin": [
+            "Let this, therefore, be the first member, that Jesus of Nazareth was a man approved of God by manifest testimonies, so that he could not be despised as some base and obscure person.",
+            "And for this cause are they called signs, because the Lord will not have men\u2019s minds to stay there, but to be lifted up higher; as they are referred unto another end.",
+            "Therefore, there is sufficient approbation of the doctrine and of the ministry in the miracles which God doth work, so that we be not blind."
+        ],
+        "Philip Schaff": [
+            "St. Peter declares the name of that Lord who will save all the children of men who choose to call upon Him.",
+            "The words \u2018of Nazareth\u2019 are added as His usual designation among the Jews, the name \u2018Jesus\u2019 not being an uncommon one. It was the title affixed to the cross.",
+            "That is, a man divinely accredited as Messiah by His wonderful works. Gloag well quotes Nicodemus\u2019 argument from John 3:2: \u2018We know that Thou art a Teacher come from God: for no man can do these miracles that Thou doest, except God be with him.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "With unerring aim Peter has found the solution for the phenomena.",
+            "He has found the key to God's work on this day in his words through Joel.",
+            "Peter calls the audience to witness that his statements are true concerning 'Jesus the Nazarene.'"
+        ],
+        "John Gill": [
+            "Jesus of Nazareth; first by his name Jesus, which the angel gave him before his birth; and that for this reason, because he is the Saviour of his people from their sins, and which his name signifies; and next by the place, not where he was born, for that was Bethlehem, but where he was educated and brought up, and where he lived the greatest part of his life, Nazareth, a city in Galilee.",
+            "he was not a mere man, and much less a common and ordinary man: he was the famous son of man the Scriptures speak of; the man of God's right hand, the man his fellow, a great, mighty, and wonderful man: 'approved by God'; or shown, declared, and demonstrated by him, to be sent by him in human nature, to be the true Messiah and Saviour of the world.",
+            "the meaning is, that his miracles were wrought by a divine power, and not by a diabolical influence, by Beelzebub the prince of devils, as the Pharisees blasphemously said of him; and these were done, not in a corner, but in the midst of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus of Nazareth, a man approved by God through manifest testimonies of His power, could not be dismissed as a base and obscure person. He was demonstrated, through mighty works, to be the Messiah and Saviour. The miracles he performed were not done in isolation but among the people, providing undeniable evidence of his divine commission. Through these miracles, God authentically showed that Jesus was indeed the Son of God. This serves as a firm foundation for Peter's proclamation of Jesus as the Lord who saves all who call upon His name.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.2306782809047205,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+            "commentatorTierSimilarities": [
+                28.81,
+                35.45,
+                35.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus of Nazareth, a man approved by God through manifest testimonies of His power, was demonstrated to be the Messiah and Saviour through mighty works. These miracles, not done in isolation but among the people, provided undeniable evidence of his divine commission. Through these authentic miracles, God showed that Jesus was the Son of God, a firm foundation for Peter's proclamation of Jesus as the Lord who saves all who call upon His name.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.3839801034062575,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.61,
+            "commentatorTierSimilarities": [
+                28.55,
+                36.58,
+                34.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus of Nazareth, a man approved by God through manifest testimonies, was demonstrated as the Messiah and Saviour through mighty works. These miracles, not done in isolation but among the people, provided undeniable evidence of his divine commission. Through these authentic miracles, God showed that Jesus was the Son of God, a firm foundation for Peter's proclamation of Jesus as the Lord who saves all who call upon His name.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.383240680297974,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.58,
+            "commentatorTierSimilarities": [
+                28.58,
+                36.54,
+                34.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus of Nazareth, a man approved by God through manifest testimonies, was demonstrated to be the Messiah and Saviour through mighty works. These miracles, not done in isolation but among the people, provided undeniable evidence of his divine commission. Through these authentic miracles, God showed that Jesus was the Son of God, a firm foundation for Peter's proclamation of Jesus as the Lord who saves all who call upon His name.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.387293013831738,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.72,
+            "commentatorTierSimilarities": [
+                28.56,
+                36.55,
+                34.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus of Nazareth, a man approved of God, was demonstrated to be the Messiah through mighty works. These miracles, not done in isolation, but among the people, provided authentic evidence of Jesus' divine commission. Through these powerful signs, God displayed that Jesus was indeed the Son of God, affirming Peter's proclamation of Him as the Lord and Savior who offers salvation to all who call upon His name.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.379460950136973,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.46,
+            "commentatorTierSimilarities": [
+                27.25,
+                37.29,
+                35.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

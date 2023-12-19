@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:31:33",
+    "verseRef": "Acts 15:1",
+    "bestBHT": {
+        "bht": "Certain men of the Pharisees who believed taught that conformity to the law of Moses, including circumcision, was necessary for salvation. This contentious issue pitted Paul against them throughout his life, revealing the clash between spiritual religion and ritualistic beliefs. Denying the efficacy of Christ's work, these individuals emphasized the customs of the Jews over salvation by grace. Such disputes within the church can bring about division and hinder the gospel, undermining the true freedom found in Christ.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.9975218036940907,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.76,
+        "commentatorTierSimilarities": [
+            27.84,
+            36.91,
+            35.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "certain men of the sect of the Pharisees which believed\" (Acts 15:1a) - Some of our later MSS. read, \"certain men of the sect of the Pharisees which believed,\" as in ver. 5. Doubtless it was so. In spite of the special revelations which had accompanied the reception of the first Gentiles into the church, the strong Judaizing party adhered to their old prejudices respecting the necessity of conformity to the law of Moses.",
+            "With this party Paul was in conflict all his life\" - With this party Paul was in conflict all his life; and even long after, we find it raising its head again in the sects of the Ebionites and the Nazarenes.",
+            "for that without it he could not be a Jew\" - Eleazar prevails on Izates to perform the rite of circumcision, for that without it he could not be a Jew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1, 2. certain men\u2014See the",
+            "\tdescription of them in Galatians 2:4."
+        ],
+        "Albert Barnes": [
+            "Now the churches were at peace. They enjoyed great external prosperity in Antioch, and the great enemy of souls took occasion then, as he has often done in similar circumstances since, to excite contentions in the church itself, so that when external violence could not destroy it, an effort was made to secure the same object by internal dissension and strife.",
+            "It is further important, as it shows the manner in which such controversies were settled in apostolic times, and as it established some very important principles respecting the perpetuity of the religious rites of the Jews.",
+            "It is usually not difficult to perplex and embarrass young converts with questions of modes, and rites, and forms of religion; and it is not uncommon that a revival is followed by some contention just like this. Opposing sects urge the claims of their special rites, and seek to make proselytes, and introduce contention and strife into an otherwise peaceful and happy Christian community."
+        ],
+        "Marvin Vincent": [
+            "Taught. Rather the imperfect, were teaching. They had not merely broached the error, but were inculcating it. ",
+            "Manner [\u03b5\u03b8\u03b5\u03b9] . Better, custom, as Rev."
+        ],
+        "John Calvin": [
+            "There is nothing which doth more indamage the gospel than civil discord, because it doth not only pierce and wound weak conscience, but also minister occasion to the wicked to backbite.",
+            "When we see wicked men arise, who go about to divide [rend] the Church by their factions, and also either to corrupt the gospel with their false and filthy [spurious] inventions, or else to bring the same in suspicion, we ought to know the subtlety [artifice] of Satan.",
+            "If Satan transfigure himself into an angel of light, and if, by sacrilegious boldness, he usurp the holy name of God, what marvel is it if he do like wickedly deceive men under the names of holy men?"
+        ],
+        "Philip Schaff": [
+            "False brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage.",
+            "Except ye be circumcised after the manner of Moses, ye cannot be saved.",
+            "But the hearts of the Antioch teachers were deeply penetrated by the great truth that 'we are saved not by the law but by grace.'"
+        ],
+        "Archibald T. Robertson": [
+            "They were obscurantists and unable and unwilling to receive new light from the Lord on a matter that involved their racial and social prejudices.",
+            "One of the great religious controversies of all time was begun, that between spiritual religion and ritualistic or ceremonial religion.",
+            "The issue was sharply drawn. The associative instrumental case (\u03c4\u03c9 \u03b5\u03b8\u03b5) is customary. 'Saved' (\u03c3\u03c9\u03b8\u03b7\u03bd\u03b1) here is the Messianic salvation. This doctrine denied the efficacy of the work of Christ."
+        ],
+        "John Gill": [
+            "These men were not only for retaining circumcision, which was now abolished, but they made it necessary to salvation; which was carrying the matter further than even the unbelieving Jews themselves did.",
+            "Though indeed it is a notion with them, that no circumcised persons go to hell, but are all saved; and some of them say, that God rejects uncircumcised persons, and brings them down to hell.",
+            "Ananias the Jew, preceptor to King Izates, when he signified his great desire to be circumcised, in order to put him off of it, told him, that if he was determined to follow the customs of the Jews, he might worship God without circumcision, which was more peculiar to the Jews than to be circumcised."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 15:1, certain men of the Pharisees who believed were teaching that conformity to the law of Moses, including circumcision, was necessary for salvation. This led to a conflict between them and Paul, who was an advocate for the Gentiles receiving salvation through faith in Christ alone. This controversy highlighted the clash between spiritual religion and ritualistic or ceremonial religion. The issue was sharply drawn, denying the efficacy of Christ's work and salvation by grace. It is important to recognize that such contentions often arise in the church, seeking to bring bondage instead of the liberty we have in Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.9383530022457582,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                27.99,
+                38.76,
+                33.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Certain men of the Pharisees who believed were teaching that conformity to the law of Moses, including circumcision, was necessary for salvation. This controversy highlighted the clash between spiritual religion and ritualistic or ceremonial religion. The issue denied the efficacy of Christ's work and salvation by grace. Such contentions often arise in the church, seeking to bring bondage instead of the liberty we have in Christ.",
+            "wordCount": 67,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.8817147472992866,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                27.85,
+                38.56,
+                33.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 15:1, there were certain men of the Pharisees who believed, teaching that adherence to the law of Moses, including circumcision, was crucial for salvation. This sparked a significant conflict with Paul, who consistently opposed this party throughout his life. The dispute underscored the contrast between spiritual faith and ritualistic religion. Essentially, this controversy denied the power of Christ's work, rejecting salvation by grace. It is noteworthy to realize that such conflicts can occur within the church, fostering bondage rather than embracing the freedom found in Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.738429023561455,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+            "commentatorTierSimilarities": [
+                29.8,
+                38.64,
+                31.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Certain men of the Pharisees who believed taught that conformity to the law of Moses, including circumcision, was necessary for salvation. This contentious issue pitted Paul against them throughout his life, revealing the clash between spiritual religion and ritualistic beliefs. Denying the efficacy of Christ's work, these individuals emphasized the customs of the Jews over salvation by grace. Such disputes within the church can bring about division and hinder the gospel, undermining the true freedom found in Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.9975218036940907,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.76,
+            "commentatorTierSimilarities": [
+                27.84,
+                36.91,
+                35.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Certain men of the Pharisees who believed insisted on the necessity of adhering to the law of Moses, including circumcision, for salvation. This disagreement was a manifestation of the ongoing conflict between Paul and the Judaizers. The controversy highlighted the contrast between spiritual faith and ritualistic religion, where the efficacy of Christ's work was denied. These debates within the church can cause division and hinder the gospel, distracting from the freedom and grace offered through Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.7533422782207888,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.64,
+            "commentatorTierSimilarities": [
+                28.92,
+                37.46,
+                33.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

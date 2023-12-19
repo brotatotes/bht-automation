@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:35:05",
+    "verseRef": "Ephesians 6:5",
+    "bestBHT": {
+        "bht": "Servants, as slaves, it is your duty to obey your earthly masters with fear and trembling, in simplicity of heart, as if you were serving Christ Himself. Let your motivation come from Him, as He is the source of all Christian motives and duties. While your real freedom still belongs to you, approach your responsibilities with an anxious eagerness to do your duty and a fear of displeasing. Remember, your service should be characterized by singleness of heart, without double-mindedness or eye-service, and always putting your master's interests first.",
+        "wordCount": 92,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 2.0748826821089343,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.33,
+        "commentatorTierSimilarities": [
+            31.88,
+            35.58,
+            32.54
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Slaves, obey your lords according to the flesh, with fear and trembling, in simplicity of your heart, as to Christ.\" ",
+            "Anxious reverence, which will be the fruit of simplicity of heart.\" ",
+            "He being the source and ground of all Christian motives and duties."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their real liberty was still their own.",
+            "An anxious eagerness to do your duty, and a fear of displeasing.",
+            "Singleness - without double-mindedness, or 'eye service,' which seeks to please outwardly, without the sincere desire to make the master's interest at all times the first consideration."
+        ],
+        "Albert Barnes": [
+            "It was not the design of the Christian religion to produce a rude sundering of the ties which bind man to man, but to teach all to perform their duties aright in the relations in which Christianity found them, and gradually to modify the customs of society, and to produce ultimately the universal prevalence of that which is right.",
+            "Whatever might be true about the propriety of slavery, and whatever might be the duty of the master about setting the slave free, it would be more to the honor of religion for the servant to perform his task with a willing mind than to be contumacious and rebellious.",
+            "Fidelity, in whatever situation we may be in life, is acceptable service to the Lord. A Christian may as acceptably serve the Lord Jesus in the condition of a servant, as if he were a minister of the gospel, or a king on a throne."
+        ],
+        "Marvin Vincent": [
+            "According to the flesh. Regarded in their merely human relation.",
+            "With fear.",
+            "Unto Christ. 'Common and secular inducements can have but small influence on the mind of a slave.'"
+        ],
+        "John Calvin": [
+            "The servants (\u03b4\u03bf\u1fe6\u03bb\u03bf\u03b9) whom he immediately addresses were not hired servants, like those of the present day, but slaves, such as were in ancient times, whose slavery was perpetual.",
+            "As if he had said, 'Do not suppose that by the judgment of men you were thrown into slavery. It is God who has laid upon you this burden, who has placed you in the power of your masters.'",
+            "He who conscientiously endeavors to render what he owes to his master, performs his duty not to man only, but to God."
+        ],
+        "Philip Schaff": [
+            "The application of the principles here involved must legitimately result in the abolition of slavery; but the Apostle rightly deemed it of more importance to secure Christian ethics in the already existing relation than to violently overthrow it.",
+            "With fear and trembling; with anxious, conscientious solicitude, in singleness of heart, as the element of their anxious service; opposed to duplicity, in which the inner disposition and outward appearance do not correspond.",
+            "The distinctly Christian motive is especially important here... The same motive ought to have validity in connection with the duties of any Christian employ\u00e9, from a cabinet minister to a day laborer. Fidelity is a rare virtue when this basis does not exist."
+        ],
+        "Archibald T. Robertson": [
+            "With fear and trembling (\u03bc\u03b5\u03c4\u03b1 \u03c6\u03bf\u03b2\u03bf\u03c5 \u03ba\u03b1 \u03c4\u03c1\u03bf\u03bc\u03bf\u03c5). This addition to Colossians 3:22. "
+        ],
+        "John Gill": [
+            "Servants, be obedient to them that are [your] masters,... such as are their masters according to the flesh... yet they are to be obeyed in their lawful commands.\"  ",
+            "Obedience is to be yielded to them with fear and trembling; with great humility and respect, with reverence of them, and giving honour to them, with carefulness not to offend them, with submission to their reproofs and corrections, and with fear of punishment.\"  ",
+            "In singleness of heart; with readiness and cheerfulness, without hypocrisy and dissimulation, and with all integrity and faithfulness: as unto Christ."
+        ],
+        "John Wesley": [
+            "According to the present state of things: afterward the servant is free from his master.",
+            "With fear and trembling \u2014 A proverbial expression, implying the utmost care and diligence.",
+            "In singleness of heart \u2014 With a single eye to the providence and will of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Servants, it is your duty to obey your earthly masters with fear and trembling, honoring them with simplicity and singleness of heart, as if you were serving Christ Himself. The source and ground of all your motivations and duties should come from Christ, for He is the one who gives you real liberty. Approach your duties with an anxious eagerness to do what is right, always seeking to please your masters without double-mindedness. Remember, the fear and trembling you have is not to be a terror of your masters, but a reverence and respect for them. Your ultimate allegiance is to Christ, not to the worldly inducements and expectations of your masters. Let your service be characterized by fear and trembling, as well as by singleness of heart, for this is the true essence of faithful service.",
+            "wordCount": 138,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 2.075346162019607,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+            "commentatorTierSimilarities": [
+                33.4,
+                31.85,
+                34.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Servants, in your role as slaves, it is your duty to obey your earthly masters with fear and trembling. This fear should not be a terror of your masters, but an anxious reverence and respect. Approach your responsibilities with simplicity and singleness of heart, as if you were serving Christ Himself. He should be the source and ground of all your motivations and duties. Remember that your real liberty comes from Him. Seek to please your masters without double-mindedness, for true fidelity is a rare virtue when this basis does not exist.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.8380457817646123,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                34.06,
+                32.13,
+                33.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Servants, in your role as slaves, it is your duty to obey your lords according to their human authority. Approach your responsibilities with fear and trembling, not out of terror but out of an anxious eagerness to do what is right. Serve your masters with a singleness of heart, without double-mindedness or eye-service, as if you were serving Christ Himself. Remember that your true freedom comes from Him, and let your service be characterized by a reverent respect for your masters.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.9403416794500603,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+            "commentatorTierSimilarities": [
+                30.4,
+                33.28,
+                36.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Servants, as slaves, it is your duty to obey your earthly masters with fear and trembling, in simplicity of heart, as if you were serving Christ Himself. Let your motivation come from Him, as He is the source of all Christian motives and duties. While your real freedom still belongs to you, approach your responsibilities with an anxious eagerness to do your duty and a fear of displeasing. Remember, your service should be characterized by singleness of heart, without double-mindedness or eye-service, and always putting your master's interests first.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.0748826821089343,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.33,
+            "commentatorTierSimilarities": [
+                31.88,
+                35.58,
+                32.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Servants, embrace your duty to obey your masters in a spirit of fear and trembling, with simplicity of heart. Remember that your service is ultimately unto Christ Himself, as He is the source and ground of all your motivations and duties. While you have been granted real liberty, let a sincere reverence guide your eagerness to do your duty and avoid displeasing your masters. Approach your responsibilities with singleness of heart, without double-mindedness, seeking to prioritize your master's interest at all times.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.0185858618919506,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.46,
+            "commentatorTierSimilarities": [
+                30.54,
+                32.69,
+                36.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

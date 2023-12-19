@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:18:49",
+    "verseRef": "2 Corinthians 13:3",
+    "bestBHT": {
+        "bht": "The Corinthians were called to test Paul's apostolic authority as proof that Christ speaks in him. Having already witnessed the power of Christ demonstrated through Paul's miracles and teachings, their doubt was unwarranted. Paul warned them that he would not hold back, affirming that Christ's mighty presence would be evident among them. This serves as a reminder of the significance of recognizing the divine authority behind the words spoken by chosen messengers, and the consequences of questioning it.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.088583768340598,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+        "commentatorTierSimilarities": [
+            33.28,
+            28.76,
+            37.96
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They required the exertion of discipline; and they challenged him to the proof of his apostolic authority.",
+            "A proof of Christ speaking in me, i.e. 'that Christ speaks in me,'",
+            "A token of my authority vouchsafed by Christ speaking in me."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It would be better if ye would 'prove",
+            "\tyour own selves' (2 Corinthians 13:5).",
+            "This disproves the assertion of some that Scripture nowhere asserts",
+            "\tthe infallibility of its writers when writing it.",
+            "Ye have no need to put",
+            "\tme to the proof in this, as long ago Christ has exhibited great",
+            "\tproofs of His power by me among you."
+        ],
+        "Albert Barnes": [
+            "He says that he would now furnish such evidence by inflicting just punishment on all offenders, and they should have abundant proof that Christ spoke by him, or that he was inspired.",
+            "Christ has manifested his power abundantly toward you, that is, either by the miracles that had been performed in his name; or by the diseases and calamities which they had suffered on account of their disorders and offences.",
+            "The idea is, that they had had ample demonstration of the power of Christ to inflict punishment, and they had reason to apprehend it again."
+        ],
+        "Marvin Vincent": [
+            "An experimental proof of what kind of a being the Christ who speaks in me is.",
+            "Christ will prove Himself not weak, but mighty among you.",
+            "In fellowship with His risen life we shall be partakers of the power of God which raised Him from the dead."
+        ],
+        "John Calvin": [
+            "When, however, it is apparent, that it is the word of God that is advanced, what Paul says holds good \u2014 that it is God himself who is not believed.",
+            "There is no more room for shuffling, when it has been made apparent, that it is a minister of God that speaks, and that he discharges his office faithfully.",
+            "On good grounds, truly, might he throw back upon them, as he does, the reproach, that they were rebels against Christ."
+        ],
+        "Philip Schaff": [
+            "Seeing that ye seek a proof of Christ that speaketh in me.",
+            "Who to you-ward is not weak, but is mighty in you.",
+            "Ye are yourselves witnesses of what the Christ that is in me can effect."
+        ],
+        "Archibald T. Robertson": [
+            "A proof of Christ (\u03b4\u03bf\u03ba\u03b9\u03bc\u03b7\u03bd \u03c4\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5). He will give it to them. \"I will not spare.\" He will show that Christ speaks \"in me\" (\u03b5\u03bd \u03b5\u03bc\u03bf). "
+        ],
+        "John Gill": [
+            "They themselves were the seals of his apostleship, and the signs of an apostle had been done among them.",
+            "A strange infatuation of the false apostles this, since Christ, who sent him, was with him, and spoke in him, and by him.",
+            "Wherefore, seeing after all these instances of the voice and power of Christ in him, they yet questioned his apostolical authority, and sought proof of it; and especially since this was not so much a tempting of him, as a tempting of Christ in him, he was resolved not to spare them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse challenges the Corinthians to test Paul's apostolic authority, as a proof that Christ speaks in him. They had witnessed the power of Christ manifested through Paul's miracles and teachings, which should have been enough evidence. However, some were still skeptical and sought further proof. Paul warns them that he will not spare them and that Christ will prove Himself mighty among them. This demonstrates the importance of recognizing the divine authority behind the words spoken by God's chosen ministers and the consequences of doubting it.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.0065824108901276,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.06,
+            "commentatorTierSimilarities": [
+                34.22,
+                29.9,
+                35.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians were called to put Paul's apostolic authority to the test, as evidence that Christ speaks through him. Despite witnessing the power of Christ demonstrated in Paul's miracles and teachings, some remained doubtful and sought additional proof. Paul warned them that he would not spare them and assured them that Christ would prove Himself mighty among them. This highlights the significance of acknowledging the divine authority behind the words spoken by chosen ministers and the consequences of doubting it.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.077562734764758,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.42,
+            "commentatorTierSimilarities": [
+                33.65,
+                28.95,
+                37.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians were urged to prove Paul's apostolic authority as a sign that Christ speaks in him. They had already witnessed the power of Christ displayed through his mighty works among them. Despite this, some remained skeptical and sought further evidence. Paul warned them that he would not hesitate to act and that Christ would demonstrate His strength in their midst. This emphasizes the importance of recognizing and trusting the divine authority behind the words spoken by chosen messengers and the consequences of doubting it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.9048974833450933,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                33.01,
+                28.98,
+                38.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians were challenged to test Paul's apostolic authority, which would serve as evidence that Christ speaks through him. Despite witnessing the power of Christ displayed through Paul's miracles and teachings, some remained doubtful and sought further confirmation. Paul warned them that he wouldn't spare them and emphasized that Christ would prove Himself mighty among them. This underscores the importance of acknowledging the divine authority behind the words spoken by chosen ministers and the repercussions of questioning it.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.0550086353449903,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.67,
+            "commentatorTierSimilarities": [
+                33.55,
+                28.7,
+                37.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians were called to test Paul's apostolic authority as proof that Christ speaks in him. Having already witnessed the power of Christ demonstrated through Paul's miracles and teachings, their doubt was unwarranted. Paul warned them that he would not hold back, affirming that Christ's mighty presence would be evident among them. This serves as a reminder of the significance of recognizing the divine authority behind the words spoken by chosen messengers, and the consequences of questioning it.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.088583768340598,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+            "commentatorTierSimilarities": [
+                33.28,
+                28.76,
+                37.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:14:53",
+    "verseRef": "2 Corinthians 1:1",
+    "bestBHT": {
+        "bht": "Timothy, a well-known brother in the Christian brotherhood, is associated with Paul in sending this letter to the Church in Corinth and all the saints in the province of Achaia, which includes all of Greece and the Peloponnesus. Paul wanted to give influence to Timothy as his fellow-laborer and successor, especially with those who had slandered him. This circular letter was intended not only for Corinth but also for the converts scattered throughout the province, with Corinth serving as the headquarters of Christianity in the region.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.4383565591258156,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.42,
+        "commentatorTierSimilarities": [
+            27.14,
+            45.23,
+            27.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On his being with Paul at this time, see Introd. to this Epistle,\u00a7ii. 4.\" ",
+            "This, and the Epistle to the Galatians, were circular letters to all the believers in the respective countries.",
+            "Achaia comprehended Hellas (Greece proper) and Peloponnesus (Morea); the province was so named by the Romans because they became possessed of them by subduing the Ach\u00e6an league."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Timothy our brother\u2014When writing to Timothy himself, he calls him 'my son'.\" ",
+            "Writing of him, 'brother,' and 'my beloved son'.\" ",
+            "He addresses 'the Church in Corinth,' directly, and all 'the saints' in the province, indirectly."
+        ],
+        "Albert Barnes": [
+            "Paul may have wished to give as much influence as possible to Timothy. He designed that he should be his fellow-laborer; and as Timothy was much younger than himself, he doubtless expected that he would survive him, and that he would in some sense succeed him in the care of the churches.\" ",
+            "The influence and name of Timothy might be supposed to have weight with the party in the church that had slandered Paul, by accusing him of insincerity or instability in regard to his purposed visit to them.\" ",
+            "Paul doubtless designed that copies of this Epistle should be circulated among them [the churches in Achaia]."
+        ],
+        "Marvin Vincent": [
+            "Timothy appears, not as amanuensis, nor as joint - author, but as joint - sender of the epistle.",
+            "Well known in the Christian brotherhood.",
+            "Achaia."
+        ],
+        "John Calvin": [
+            "To secure authority for any one, two things are required \u2014 a call, and fidelity on the part of the person who is called, in the execution of his office.",
+            "The mere name is not enough, if there be not the reality along with it, so that he who gives himself out as an Apostle must also show himself to be such by his work.",
+            "For the faults of individuals do not prevent a society that has genuine marks of religion from being recognized as a Church."
+        ],
+        "Philip Schaff": [
+            "Timothy had been sent to Corinth along with the First Epistle...and probably Stephanas, Fortunatus, and Achaicus.",
+            "Timothy had now returned to him and is here associated with the apostle himself in the salutation of a church which he knew so well.",
+            "There appear to have been converts scattered up and down this whole province of which Corinth was the capital, in addition to the little 'church at Cenchre\u00e6'...looking to Corinth as their center and the headquarters of Christianity in the province."
+        ],
+        "Archibald T. Robertson": [
+            "Timothy is with Paul, having been sent on to Macedonia from Ephesus.",
+            "Achaia was all of Greece south of this (both Attica and the Peloponnesus).",
+            "His language here would seem to cover the whole (\u03bf\u03bb\u03b7, all) of Achaia in his scope and not merely the environment around Corinth."
+        ],
+        "John Gill": [
+            "The inscription of this epistle is pretty much the same with that of the former.",
+            "Moreover, the former epistle is directed as 'unto the church of God which is at Corinth'; so to all that call upon the name of Christ in every place.",
+            "The apostle's intention in directing it in this form was, that copies of this letter might be sent to them, who equally, with this church, stood in need of the reproofs, exhortations, and instructions which are in it."
+        ],
+        "John Wesley": [
+            "Timotheus our brother \u2014 St. Paul writing to Timotheus styled him his son; writing of him, his brother."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Timothy, a well-known brother in the Christian brotherhood, is associated with Paul in sending this letter to the Church in Corinth and to all the saints in the province of Achaia. Paul's intention is to give influence to Timothy and to show that he is a faithful and worthy co-laborer in spreading the message of Christ. It is likely that Paul wanted Timothy's name and authority to carry weight, especially with those in the church who had slandered Paul. This circular letter was not only intended for the church in Corinth but for all the believers in Achaia, encompassing all of Greece and the Peloponnesus. The power and impact of this letter would not only reach Corinth but also the converts scattered throughout the province, with Corinth serving as the center and headquarters of Christianity in the region.",
+            "wordCount": 142,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 2.3758506119377234,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.34,
+            "commentatorTierSimilarities": [
+                26.12,
+                45.1,
+                28.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Timothy, a well-known brother in the Christian brotherhood, is associated with Paul in sending this letter to the Church in Corinth and all the saints in the province of Achaia, which includes all of Greece and the Peloponnesus. Paul wanted to give influence to Timothy as his fellow-laborer and successor, especially with those who had slandered him. This circular letter was intended not only for Corinth but also for the converts scattered throughout the province, with Corinth serving as the headquarters of Christianity in the region.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.4383565591258156,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.42,
+            "commentatorTierSimilarities": [
+                27.14,
+                45.23,
+                27.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Timothy, a well-known brother in the Christian brotherhood, is associated with Paul in sending this circular letter to the Church in Corinth and all the saints in the province of Achaia, which includes all of Greece and the Peloponnesus. Paul wanted to give influence to Timothy as his fellow-laborer and successor, especially with those who had slandered him. This letter was intended not only for Corinth but also for the converts scattered throughout the province, with Corinth serving as the headquarters of Christianity in the region.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.4331022041558406,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.24,
+            "commentatorTierSimilarities": [
+                27.17,
+                45.15,
+                27.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Timothy, a well-known brother in the Christian brotherhood, is associated with Paul in sending this circular letter to the Church in Corinth and all the saints in the province of Achaia, encompassing all of Greece and the Peloponnesus. Paul wanted to give influence to Timothy as his fellow-laborer and successor, especially with those who had slandered him. This letter was not only intended for Corinth but also for the converts scattered throughout the province, with Corinth serving as the headquarters of Christianity in the region.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.4254776028256924,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.99,
+            "commentatorTierSimilarities": [
+                27.06,
+                45.32,
+                27.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Timothy, a well-known brother in the Christian brotherhood, is associated with Paul in sending this circular letter to the Church in Corinth and all the saints in the province of Achaia, encompassing all of Greece and the Peloponnesus. Paul wanted to give influence to Timothy as his fellow-laborer and successor, especially with those who had slandered him. This letter was intended not only for Corinth but also for the converts scattered throughout the province, with Corinth serving as the headquarters of Christianity in the region.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.4331773329936173,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.24,
+            "commentatorTierSimilarities": [
+                27.1,
+                45.26,
+                27.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

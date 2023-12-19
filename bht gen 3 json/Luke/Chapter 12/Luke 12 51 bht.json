@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:19:10",
+    "verseRef": "Luke 12:51",
+    "bestBHT": {
+        "bht": "The work of the fire that Jesus brings is not peace, but division, as he himself said, Peace...? Nay, c.\u2014the reverse of peace. Loyalty to Christ counts more than all else, and these family feuds are inevitable where only part cleave to Christ. Christ warns his followers to prepare for battle, for they must necessarily fight for the testimony of truth. Universal peace will not be the immediate effect of his coming, for his Gospel is like a sword that divides and separates, even among the closest relationships.",
+        "wordCount": 89,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 2.0154027442182487,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.35,
+        "commentatorTierSimilarities": [
+            54.48,
+            0.0,
+            45.52
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The work of this fire, as as it burns onward in the world, will not be peace, but division;"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Peace . . . ? Nay, c.\u2014the reverse of peace, in the first instance.\" ",
+            "My conflict hasten apace Mine over, yours begins; and then, let the servants tread in their Master's steps, uttering their testimony entire and fearless.",
+            "Looking forward, as I do, to the completion of their testimony, when, reaching the haven after the tempest, they shall enter into the joy of their Lord."
+        ],
+        "John Calvin": [
+            "Christ warns his followers to prepare for battle, for they must necessarily fight for the testimony of truth.",
+            "That peace which the prophets describe in lofty terms...has no existence but among the sincere worshippers of God, and in the consciences of the godly.",
+            "If tumults arise at the commencement of the reign of Christ, let us not be alarmed at it, as if it were strange or unusual: for he compares his Gospel to a sword."
+        ],
+        "Archibald T. Robertson": [
+            "Peace at any price is not the purpose of Christ.",
+            "Loyalty to Christ counts more than all else.",
+            "These family feuds are inevitable where only part cleave to Christ."
+        ],
+        "John Gill": [
+            "Suppose ye that I am come to give peace on earth?... I tell you, nay.",
+            "Christ came to make peace with God for men, and to give the Gospel of peace, and spiritual and eternal peace to men; but not external peace, especially that, which is not consistent with the preservation of truth.",
+            "The Gospel is the sword of the Spirit, which divides asunder soul and Spirit, and separates a man from his former principles and practices; and sets men apart from one another, even the nearest relations, at the greatest distance; and is, through the sin of man, the occasion of great contention, discord, and division."
+        ],
+        "John Wesley": [
+            "Suppose ye that I am come to send peace upon earth...Not so, but quite the contrary.\" ",
+            "Universal peace will not be the immediate effect of my coming.\" ",
+            "Not so, but quite the contrary."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The work of the fire that Jesus brings is not peace, but division, as he himself said, Peace...? Nay, c.\u2014the reverse of peace. Loyalty to Christ counts more than all else, and these family feuds are inevitable where only part cleave to Christ. Christ warns his followers to prepare for battle, for they must necessarily fight for the testimony of truth. Universal peace will not be the immediate effect of his coming, for his Gospel is like a sword that divides and separates, even among the closest relationships.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.0154027442182487,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.35,
+            "commentatorTierSimilarities": [
+                54.48,
+                0.0,
+                45.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fire Jesus brings does not bring peace, but division. Loyalty to Christ is of utmost importance, even causing family feuds. His followers must prepare for battle, fighting for the testimony of truth. Universal peace will not be the immediate result of his coming, as his Gospel acts as a sword, dividing and separating even the closest relationships.",
+            "wordCount": 58,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.8809809333743968,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+            "commentatorTierSimilarities": [
+                55.02,
+                0.0,
+                44.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fire brought by Jesus does not bring peace, but division. Loyalty to Christ is paramount, even causing family feuds when only part of the family clings to Him. His followers must be prepared for battle, fighting for the truth. The Gospel is like a sword, dividing and separating even the closest relationships. Universal peace will not be achieved immediately with His coming, as His message has the power to stir conflict and controversy.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7774344174401115,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.44,
+            "commentatorTierSimilarities": [
+                54.55,
+                0.0,
+                45.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's arrival in the world is not to bring peace, but rather division and conflict. Loyalty to Christ takes precedence over all else, even within families where only some members cleave to Him. His followers are urged to prepare for battle, fighting for the testimony of truth. The Gospel, compared to a sword, has the power to divide and separate even the closest relationships. The immediacy of universal peace upon Christ's coming is not to be expected, as His message may ignite contention and discord.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.7951177119542294,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                52.3,
+                0.0,
+                47.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's purpose in coming into the world is not to bring peace, but division and conflict. Loyalty to Christ supersedes all other loyalties, even within families where only certain members embrace Him. His followers must be prepared for the battle ahead, fighting for the truth and giving their fearless testimony. The Gospel, compared to a sword, has the power to separate and divide, even among close relationships. The immediate attainment of universal peace should not be expected, as Christ's message may provoke opposition and disputes.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7548929313096957,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+            "commentatorTierSimilarities": [
+                52.35,
+                0.0,
+                47.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

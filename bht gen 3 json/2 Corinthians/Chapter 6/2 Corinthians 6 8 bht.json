@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:16:41",
+    "verseRef": "2 Corinthians 6:8",
+    "bestBHT": {
+        "bht": "In all these capacities and under all these representations, we, as ministers of God, recommend ourselves. As deceivers and yet true, as unknown and yet well known, we face glory and dishonor, good report and evil report, from those in authority and the multitude. Our enemies may regard us as deceivers, but we strive to live as ministers of God. We are tried by the slander of wicked men, but we hold steadfast in our integrity, seeking honor from God alone. Our ultimate purpose is to faithfully serve God and edify His people.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.9718640893449098,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+        "commentatorTierSimilarities": [
+            32.91,
+            33.07,
+            34.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In all these capacities and under all these representations or misrepresentations, we, as ministers of God, recommend ourselves.",
+            "The difference of our real state from our reputed one.",
+            "As deceivers, and as true men, as unknown, and as well known?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Through glory and dishonor (disgrace), from those in authority.\" ",
+            "By evil report and good report, from the multitude.\" ",
+            "Regarded as deceivers by those who dishonor and give us an evil report; as true, by those who know us in the real glory of our ministry."
+        ],
+        "Albert Barnes": [
+            "The first is, 'by honor.' They were not everywhere honored, or treated with respect. Yet they were sometimes honored by people... It is difficult in such circumstances to 'commend themselves as the ministers of God.'",
+            "Perhaps occasionally also they might be treated with great attention and regard by the people of the world... It is difficult in such circumstances to 'commend themselves as the ministers of God.' Few are the ministers who are proof against this influence, and who in such circumstances can honor the ministry.",
+            "Perhaps this refers to some charges which had been brought against them by the opposing faction at Corinth, or perhaps to the opinion which the Jewish priests and pagan philosophers entertained of them... Though they were extensively regarded and treated as impostors, yet they endeavored to live as became the ministers of God."
+        ],
+        "Marvin Vincent": [
+            "Deceivers.",
+            "The opinions concerning Paul as a deceiver.",
+            "Paul is assailed under the guise of Simon Magus, and with the same words as those in this passage, deceiver and unknown."
+        ],
+        "John Calvin": [
+            "We must, it is true, have a regard to good character, but it must be only in so far as the edification of our brethren requires it, and in such a way as not to be dependent on reports \u2014 nay more, so as to maintain in the same even course in honor and in dishonor.",
+            "For God allows us to be tried even by the slander of wicked men, with the view of trying us, whether we act uprightly from disinterested motives; for if one is drawn aside from duty by the ingratitude of men, that man shows that he had not his eye directed to God alone.",
+            "How cruel to despise the poverty of the man who supplies you from his abundance! He means spiritual riches, which ought to be much more esteemed than earthly."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 6:8. . . . as deceivers in the account of our enemies, and yet true in reality;",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "By glory and dishonour... \u03b4\u03bf\u03be\u03b1 here is glory.",
+            "By evil report and good report... \u03b4\u03c5\u03c3\u03c6\u03b7\u03bc\u03b9\u03b1 is a late word, only here in N.T.",
+            "As deceivers and yet true... \u03a0\u03bb\u03b1\u03bd\u03bf\u03c2 is late word... Such slander from one's enemies is praise."
+        ],
+        "John Gill": [
+            "they wish us well, bid us God speed, receive us into their houses, and treat us with respect: others think meanly of us, speak of us with the utmost contempt, and use us as if we were the filth of the world, and the offscouring of all things;",
+            "some speak well of it, receive and embrace it; others blaspheme it, and have it in the utmost abhorrence;",
+            "As deceivers; for so they were accounted, as Christ was before them, by the unbelieving Jews, and by the false apostles, as if they were the authors, or abettors, and spreaders of errors, and the instruments of leading people aside."
+        ],
+        "John Wesley": [
+            "Who could bear honor and good report, were it not balanced by dishonor?",
+            "As deceivers - Artful, designing men. So the world represents all true ministers of Christ.",
+            "Yet true \u2014 Upright, sincere, in the sight of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In every role and through all the various opinions and reputations, we, as ministers of God, must present ourselves. We may be seen as deceivers and yet as true men, as unknown and yet well-known. We face glory and dishonor, good report and evil report. Our enemies may view us as deceivers and our character may be attacked, but we strive to live as ministers of God. We are tried by the slander of wicked men, but we hold steadfast in our integrity. We must resist the temptation to seek honor or regard from the world, for our true commendation comes from God alone. Whether we are honored or dishonored, spoken well of or defamed, our ultimate purpose is to faithfully serve God and edify His people.",
+            "wordCount": 128,
+            "quoteTokenProportion": 37.66,
+            "qualityScore": 1.914144810171254,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                34.07,
+                30.45,
+                35.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In all these capacities and under all these representations, we, as ministers of God, recommend ourselves. As deceivers and yet true, as unknown and yet well known, we face glory and dishonor, good report and evil report, from those in authority and the multitude. Our enemies may regard us as deceivers, but we strive to live as ministers of God. We are tried by the slander of wicked men, but we hold steadfast in our integrity, seeking honor from God alone. Our ultimate purpose is to faithfully serve God and edify His people.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9718640893449098,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+            "commentatorTierSimilarities": [
+                32.91,
+                33.07,
+                34.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As ministers of God, we commend ourselves in all situations, whether as deceivers and yet true, or as unknown and yet well known. We face both glory and dishonor, good report and evil report from those in authority and the multitude. Our enemies may regard us as deceivers, but we strive to live faithfully as ministers. We are tested by the slander of wicked men, but remain steadfast in our integrity, seeking honor solely from God. Our ultimate goal is to serve God and build up His people.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9394345724116673,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                34.6,
+                32.03,
+                33.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In our roles as ministers of God, we find ourselves in diverse situations, often facing contradictory opinions and reputations. Some may view us as deceivers, while others recognize our sincerity. We are sometimes unknown, yet at other times, well-known. Along our journey, we encounter both glory and dishonor, good and evil reports. But regardless of these ever-changing perspectives, our commitment remains steadfast \u2013 to faithfully serve God and His people, trusting in His approval rather than seeking validation from the world.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.7010517017757807,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.9,
+            "commentatorTierSimilarities": [
+                38.73,
+                29.1,
+                32.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As ministers of God, we constantly find ourselves in varying capacities, facing opposing reputations and judgments. We may be seen as deceivers and yet remain true, unknown and yet well-known. Our experiences encompass both glory and dishonor, good and evil reports. Our enemies perceive us as deceivers, but we strive to live as ministers of God, upholding our integrity in the face of slander. In all circumstances, we place our ultimate commendation in God alone, diligently serving Him and edifying His people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.9010289162883636,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.55,
+            "commentatorTierSimilarities": [
+                37.2,
+                30.88,
+                31.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

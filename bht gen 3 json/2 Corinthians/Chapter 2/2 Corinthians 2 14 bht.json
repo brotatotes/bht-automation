@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:15:33",
+    "verseRef": "2 Corinthians 2:14",
+    "bestBHT": {
+        "bht": "Through the triumphal procession of God's grace, our victories are found in His defeats of us. The sweet fragrance of the knowledge of Christ spreads far and wide, diffused by those who are led as trophies of the Redeemer's conquest. Like the cloud of perfume that greeted victors in triumphal processions, the knowledge of God permeates the world. We give thanks to God, who always causes us to triumph in Christ, spreading the aroma of His knowledge through us in every place, and proving His triumph over us.",
+        "wordCount": 90,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.068393489730416,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+        "commentatorTierSimilarities": [
+            34.79,
+            29.36,
+            35.85
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The proud Cleopatra refused the terms offered her by Augustus, using this word, and saying, 'I will not be triumphed over.'",
+            "In our spiritual course, our only true triumphs are God\u2019s triumphs over us. His defeats of us, are our only real victories.",
+            "As the fact of the triumph, or approach of the triumphal procession, was made known by these odours far and wide, so God diffuses by our means, who are the materials of His triumph, the sweet odour of the knowledge of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thanks be unto God,",
+            "Our only true triumphs are God's triumphs over us. His defeats of us are our only true victories.",
+            "The manifestation...refutes the Corinthian suspicions of his dishonestly, by reserve, hiding anything from them."
+        ],
+        "Albert Barnes": [
+            "Whatever may be our efforts, and wherever we are...success crowns our efforts, and we have the constant evidence of divine approbation. This was Paul\u2019s consolation in the midst of his many trials.",
+            "Paul had no joy which was not connected with Christ, and he had no success which he did not trace to him.",
+            "The effect of Paul\u2019s conquests everywhere was to diffuse the knowledge of the Saviour - and this was acceptable and pleasant to God."
+        ],
+        "Marvin Vincent": [
+            "Hence, to lead in triumph... Paul describes himself and the other subjects of Christ's grace under the figure of this triumphal pomp, in which they are led as trophies of the Redeemer's conquest.",
+            "The knowledge of Christ is symbolized as an odor... permeating the world as a cloud of frankincense.",
+            "On these occasions the temples were all thrown open, garlands of flowers decorated every shrine and image, and incense smoked on every altar, so that the victor was greeted with a cloud of perfume."
+        ],
+        "John Calvin": [
+            "Nothing was more injurious to the Corinthians, than to have an unfavorable view of Paul\u2019s Apostleship and doctrine: nothing, on the other hand, was more advantageous, than to hold both in esteem.",
+            "Paul\u2019s meaning, on the other hand, is, that he was also a sharer in the triumph enjoyed by God, because it had been gained by his instrumentality.",
+            "He carries out, however, the metaphor of odor, by which he expresses both the delectable sweetness of the gospel, and its power and efficacy for inspiring life."
+        ],
+        "Philip Schaff": [
+            "But thanks be unto God, which always causeth us to triumph in Christ.\" ",
+            "Though as good soldiers of Jesus Christ we seemed to be almost everywhere victorious, we feared greatly that Corinth, apparently our most wonderful triumph, was to prove a sad exception; but, blessed be God, it has not been so, but 'in every place' even there He makes the sweet savour of the knowledge of Him in Christ, diffused through us, to go up as that of the offering up of an acceptable sacrifice.",
+            "The objections made to this sense are considered in the footnote."
+        ],
+        "Archibald T. Robertson": [
+            "Surely a new paragraph should begin here.",
+            "The sense of present triumph has blotted out the gloom at Troas.",
+            "The knowledge of God is here the aroma which Paul had scattered like an incense bearer."
+        ],
+        "John Gill": [
+            "Now thanks be unto God, who triumphs over us, or by us in Christ; who has conquered us by his grace, and made use of us as instruments for the conversion of sinners.",
+            "This is a triumph peculiar to ministers of the Gospel, who are made to triumph over men and devils, over the world, the reproaches, persecutions, smiles, and flatteries of it.",
+            "Thanks are also given to God, that he maketh manifest the savour of his knowledge by us in every place; by the preaching of the word, which diffuses a fragrant smell."
+        ],
+        "John Wesley": [
+            "To triumph, implies not only victory, but an open manifestation of it.",
+            "And as in triumphal processions... incense and perfumes were burned near the conqueror.",
+            "Some of whom [strong perfumes] revive, while they throw others into the most violent disorders."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the triumphal procession of God's grace, our victories are found in His defeats of us. The sweet fragrance of the knowledge of Christ spreads far and wide, diffused by those who are led as trophies of the Redeemer's conquest. Like the cloud of perfume that greeted victors in triumphal processions, the knowledge of God permeates the world. We give thanks to God, who always causes us to triumph in Christ, spreading the aroma of His knowledge through us in every place, and proving His triumph over us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.068393489730416,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+            "commentatorTierSimilarities": [
+                34.79,
+                29.36,
+                35.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the triumphal procession of God's grace, our true victories are found in His defeats of us. The sweet fragrance of the knowledge of Christ spreads far and wide, diffused by those who are led as trophies of the Redeemer's conquest. Like the cloud of perfume that greeted victors in triumphal processions, the knowledge of God permeates the world. We give thanks to God, who always causes us to triumph in Christ, spreading the aroma of His knowledge through us in every place.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.0661001291676473,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                35.26,
+                29.14,
+                35.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The true triumphs in our spiritual journey are not our own, but God's triumphs over us. His defeats of us are our true victories. The knowledge of Christ is symbolized as a fragrant aroma, permeating the world like a cloud of incense. Through our means, God diffuses this sweet odor, the knowledge of Him. In every place, He causes us to triumph in Christ and spreads His fragrance through our lives. Thanks be to God for His constant triumph and manifestation of His grace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.93415256813203,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
+            "commentatorTierSimilarities": [
+                34.66,
+                30.65,
+                34.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The true victories in our spiritual journey are not our own, but God's triumphs over us. His defeats of us are our only true triumphs. The knowledge of Christ is like a fragrant odor, spreading far and wide and permeating the world. Through our lives, God diffuses this sweet aroma, the knowledge of Him, in every place. Thanks be to God, who always causes us to triumph in Christ, spreading the fragrance of His knowledge through us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.9948786257508275,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                35.45,
+                30.84,
+                33.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the triumphal procession of God's grace, our victories are found in His defeats of us. The sweet fragrance of the knowledge of Christ spreads far and wide, diffused by those who are led as trophies of the Redeemer's conquest. Like the cloud of perfume that greeted victors in triumphal processions, the knowledge of God permeates the world. We give thanks to God, who always causes us to triumph in Christ, spreading the aroma of His knowledge through us in every place, and proving His triumph over us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.068393489730416,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+            "commentatorTierSimilarities": [
+                34.79,
+                29.36,
+                35.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

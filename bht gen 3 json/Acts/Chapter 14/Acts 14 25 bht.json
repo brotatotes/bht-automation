@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:31:19",
+    "verseRef": "Acts 14:25",
+    "bestBHT": {
+        "bht": "Undeterred by their lack of success in Perga, the missionaries pressed on and preached the word in Attalia, a seaport in a convenient position to command the trade of Egypt and Syria. Attalia was an important town, known for drawing commerce from far and wide. Despite the apathy of its citizens, the missionaries continued their journey, spreading the message of the Lord to those who would hear it. The significance of Attalia would later be seen during the Crusades, as it served as the port where King Louis of France embarked with his knights and nobles.",
+        "wordCount": 96,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.351068426945833,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.27,
+        "commentatorTierSimilarities": [
+            41.11,
+            35.07,
+            23.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Attal\u00eda] A maritime town [...] in a convenient position to command the trade of Syria or Egypt.",
+            "It is still an important place, called Satalia.",
+            "To reach it they had to cross the plain from Perga."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When they had preached the word in Perga\u2014now doing what, for some reason, they had not done on their former visit, but probably with no visible fruit.",
+            "They went down into Attaila\u2014a seaport on the Gulf of Pamphylia, drawing to itself the commerce of Egypt and Syria."
+        ],
+        "Albert Barnes": [
+            "In Perga - See the notes on Acts 13:13.",
+            "Attalus Philadelphus, king of Pergamus, whose dominions extended from the northwestern corner of Asia Miner to the Sea of Pamphylia, had built this city in a convenient position for commanding the trade of Syria or Egypt.",
+            "Its ancient site is not now certainly known\" (Life and Epistles of Paul, vol. i. pp. 200, 201)."
+        ],
+        "Philip Schaff": [
+            "We conclude, therefore, that few converts were the result of the missionaries' labours.",
+            "Apathy seems to have been the characteristic feature of the citizens; perhaps 'they cared for none of these things.'",
+            "Attalia was famous in the story of the Crusades, under the name of Sataleia, as the port whence King Louis of France, after his disastrous march through Anatolia, embarked with his knights and nobles for Antioch, leaving the plebeian crowd of infantry to perish at the foot of the Pamphylian hills, A.D. 1148."
+        ],
+        "John Gill": [
+            "The Alexandrian copy, and others, and three manuscripts of Beza's, read, 'the word of the Lord'; as do the Vulgate Latin and Syriac versions.\" ",
+            "It is now in the hands of the Turks, and is called Sattalia; near it is a bay, called Golfo di Sattalia, where there is a considerable mart for the whole country.",
+            "It had its name from Attalus, king of Pergamus, the first founder of it."
+        ],
+        "John Wesley": [
+            "Perga and Attalia were cities of Pamphylia."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They preached the word in Perga, but seemingly with little success. However, undeterred by the lack of converts, they continued their journey, crossing the plain to the seaport of Attalia. Attalia was strategically located and known for commanding the trade routes of Syria and Egypt. It was a bustling town, drawing commerce from far and wide. Attalia's historical significance would later be seen during the Crusades. Despite the apathy of its citizens, the missionaries pressed on, spreading the message of the Lord.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.3073348623805772,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.81,
+            "commentatorTierSimilarities": [
+                43.14,
+                31.18,
+                25.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Undeterred by their lack of success in Perga, the missionaries pressed on and preached the word in Attalia, a seaport in a convenient position to command the trade of Egypt and Syria. Attalia was an important town, known for drawing commerce from far and wide. Despite the apathy of its citizens, the missionaries continued their journey, spreading the message of the Lord to those who would hear it. The significance of Attalia would later be seen during the Crusades, as it served as the port where King Louis of France embarked with his knights and nobles.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.351068426945833,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.27,
+            "commentatorTierSimilarities": [
+                41.11,
+                35.07,
+                23.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Undeterred by the lack of success in Perga, they pressed on to Attalia, a seaport strategically located to control the trade between Syria and Egypt. Attalia was an important town, drawing commerce from both regions. Despite the indifference of its citizens, the missionaries continued spreading the word of the Lord. Attalia's historical significance would later be revealed during the Crusades when King Louis of France departed from there with his knights and nobles. The missionaries persevered, determined to share their message, regardless of the response they received.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.2209970226720879,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.94,
+            "commentatorTierSimilarities": [
+                41.34,
+                34.28,
+                24.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Undeterred by their lack of success in Perga, the missionaries crossed the plain and arrived in Attalia, a significant seaport that commanded the trade of Egypt and Syria. Despite the citizens' apathy, they continued their journey, preaching the word of the Lord. Attalia's historical significance would later be seen during the Crusades, when it served as the port for King Louis of France to embark with his knights and nobles. With determination, the missionaries pressed on, spreading their message amidst the challenges they faced.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.3125425754524356,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.99,
+            "commentatorTierSimilarities": [
+                40.65,
+                38.0,
+                21.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Undeterred by their lack of success in Perga, the missionaries journeyed to Attalia, a seaport strategically located to command the commerce of Syria and Egypt. Attalia was a bustling town, drawing trade from far and wide. Though the citizens displayed apathy, the missionaries persisted in proclaiming the word of the Lord. Attalia's historical significance was evident during the Crusades, as it was the port from which King Louis of France set sail with his knights and nobles. Despite the challenges, the missionaries pressed on, faithfully spreading their message.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.2970311580663503,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.47,
+            "commentatorTierSimilarities": [
+                39.12,
+                37.32,
+                23.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

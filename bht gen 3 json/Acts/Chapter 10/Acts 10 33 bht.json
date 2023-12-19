@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:29:30",
+    "verseRef": "Acts 10:33",
+    "bestBHT": {
+        "bht": "Cornelius appreciates Peter's willingness to convey the expected divine teaching and commends him for coming. The gathering is described as being in the presence of God, emphasizing reverence and attentiveness. Cornelius eagerly anticipates learning and acknowledges their belief that God sees them. His gratitude is evident, as is their faith in seeking instruction from the Lord. It is clear that Cornelius and his company are prepared to receive the teaching they have long desired and prayed for, recognizing the significance of their gathering in God's sight.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.8568203237256733,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.08,
+        "commentatorTierSimilarities": [
+            26.95,
+            39.82,
+            33.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "33. all things that are commanded thee of God] He says this, not doubting that God, who had directed him to Peter, had also directed Peter what to speak to him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Beautiful expression of entire preparedness to receive the expected divine teaching through the lips of this heaven-commissioned teacher.",
+            "Delightful encouragement to Peter to give free utterance to what was doubtless already on his lips!",
+            "Encouragement to Peter to give free utterance to what was doubtless already on his lips!"
+        ],
+        "Albert Barnes": [
+            "Thou hast well done - This is an expression of grateful feeling.",
+            "Before God - In the presence of God.",
+            "It is implied that they believed that God saw them; that they were assembled at his command, and that they were disposed to listen to his instructions."
+        ],
+        "Marvin Vincent": [
+            "Well [\u03ba\u03b1\u03bb\u03c9\u03c2] . You have done a courteous and handsome thing in coming. Compare 3 John 1:5, 3 John 1:6."
+        ],
+        "John Calvin": [
+            "These words, before God, may have a double meaning; they may either be an oath, or Cornelius may thereby simply profess that that company was gathered together at his house, as in the sight of God, that they may hear man\u2019s voice in like sort as if it proceeded out of God\u2019s own mouth.\" ",
+            "For, from this respect of God ariseth the majesty of God\u2019s word, and reverence in hearing the same.\" ",
+            "This only is true faith when we embrace not the one half of the Word of God alone, but addict [subject] ourselves wholly unto it."
+        ],
+        "Philip Schaff": [
+            "We are all here present before God.\" ",
+            "Both in this phrase and in that which follows, \u2018all things that are commanded thee of God,\u2019 we have evidence of the deeply reverential and attentive attitude of the mind of Cornelius.",
+            "Of this only he is sure, that he is on the eve of learning what he had long been anxious to know, and had earnestly prayed to be taught."
+        ],
+        "Archibald T. Robertson": [
+            "And thou didst well in coming.",
+            "Cornelius commends Peter for his courage in breaking away from Jewish custom and takes no offence at the implied superiority of the Jews over the Gentiles.",
+            "He is ready for orders from the Lord."
+        ],
+        "John Gill": [
+            "He did not send for the apostle of himself, but by a divine order; which as soon as he had, he executed.",
+            "It was not only doing that which was right in the sight of God, but was kind in him, and acceptable to Cornelius and his house.",
+            "To hear all things that are commanded of you of God; or 'of the Lord', as the Alexandrian copy and the Vulgate Latin versions read; that is, of the Lord Jesus Christ."
+        ],
+        "John Wesley": [
+            "Now therefore we are all present before God \u2014 The language of every truly Christian congregation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Cornelius commends Peter for his courage and readiness to deliver the expected divine teaching. He acknowledges that Peter did well in coming to his house and encourages him to give free utterance to what is already on his lips. It is evident that Cornelius and his company have gathered together in the presence of God, fully prepared to listen to the instructions from the Lord. This demonstrates their deep reverence and attentiveness. They are aware that they are about to learn what they have long been anxious to know, something they have earnestly prayed to be taught. The language used by Cornelius reflects a grateful feeling and a belief in the presence of God among them.",
+            "wordCount": 116,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.7891109905064688,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.83,
+            "commentatorTierSimilarities": [
+                28.74,
+                38.89,
+                32.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Cornelius recognizes Peter's courage and readiness to deliver divine teaching, commending him for coming to his house. Their gathering is described as being in the presence of God, reflecting reverence and attentiveness. They anticipate learning what they have long desired to know, seeking instruction from the Lord. Cornelius expresses gratitude and acknowledges the belief that God sees them. His words demonstrate a combination of gratefulness, faith, and an understanding of the significance of their gathering in God's presence.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.806828412747827,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.42,
+            "commentatorTierSimilarities": [
+                24.02,
+                42.87,
+                33.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Cornelius appreciates Peter's willingness to convey the expected divine teaching and commends him for coming. The gathering is described as being in the presence of God, emphasizing reverence and attentiveness. Cornelius eagerly anticipates learning and acknowledges their belief that God sees them. His gratitude is evident, as is their faith in seeking instruction from the Lord. It is clear that Cornelius and his company are prepared to receive the teaching they have long desired and prayed for, recognizing the significance of their gathering in God's sight.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.8568203237256733,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.08,
+            "commentatorTierSimilarities": [
+                26.95,
+                39.82,
+                33.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Cornelius appreciates Peter's courage to deliver divine teaching and commends him for coming. Their gathering is in the presence of God, reflecting reverence and attentiveness. Cornelius eagerly anticipates learning and acknowledges their belief that God sees them. His gratitude is evident, as is their faith in seeking instruction from the Lord. They are prepared to receive the teaching they have long desired and prayed for, recognizing the significance of their gathering in God's sight.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.8044431347300045,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.34,
+            "commentatorTierSimilarities": [
+                25.75,
+                40.83,
+                33.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Cornelius acknowledges Peter's readiness to speak and commends him for coming, recognizing that he did well. The gathering is described as being in the presence of God, emphasizing reverence and attentiveness. Cornelius eagerly anticipates learning and acknowledges their belief that God sees them. His gratitude is evident, as is their faith in seeking instruction from the Lord. They are fully prepared to receive the teaching they have long desired and prayed for, recognizing the significance of their gathering in God's sight.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.852351889363966,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                25.9,
+                40.78,
+                33.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

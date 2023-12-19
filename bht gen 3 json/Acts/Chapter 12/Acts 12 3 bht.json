@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:30:09",
+    "verseRef": "Acts 12:3",
+    "bestBHT": {
+        "bht": "King Herod, motivated by his desire for popularity, took advantage of the Passover season to apprehend Peter. This period of religious solemnity and the Feast of Unleavened Bread allowed Herod to demonstrate his opposition to false religions and his support for the nation's existing establishments. The Church faced significant challenges, and the loss of Peter during this critical time would have been irreparable. Nevertheless, the believers found solace in knowing that their blood was precious before God, despite facing a bloodthirsty generation eager for their demise.",
+        "wordCount": 87,
+        "quoteTokenProportion": 28.36,
+        "qualityScore": 1.931102515504417,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.55,
+        "commentatorTierSimilarities": [
+            28.81,
+            36.85,
+            34.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He takes the words in the strict meaning: that it was the very day of the passover, and that 'after the passover' means, after the eating of the passover on the evening of the 14th of Nisan.\" ",
+            "The whole cast of the narrative...would be unaccountable in the precise historical diction of St. Luke, unless he had intended to convey an impression that some days elapsed.\" ",
+            "So that 'after the Passover' may well be equivalent to 'after the feast of unleavened bread.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Popularity was the ruling passion of this Herod, not naturally so cruel as some of the family.",
+            "Whose loss, at this stage of the Church, would have been, so far as we can see, irreparable.",
+            "During which, after killing and eating the Passover, no leaven was allowed in Jewish houses."
+        ],
+        "Albert Barnes": [
+            "It was not from a sense of right; it was not to do justice, and to protect the innocent; it was not to discharge the appropriate duties of a magistrate and a king, but it was to promote his own popularity.",
+            "Alas, how many monarchs and rulers there have been who were governed by no better principle, and whose sole aim has been to secure popularity, even at the expense of law, truth, and justice.",
+            "It was some time during this period that Herod chose to apprehend Peter. Why this time was selected is not known. As it was, however, a season of religious solemnity...it is probable that he chose this period to show to them more impressively his purpose to oppose all false religions, and to maintain the existing establishments of the nation."
+        ],
+        "Marvin Vincent": [
+            "He proceeded to take [\u03c0\u03c1\u03bf\u03c3\u03b5\u03b8\u03b5\u03c4\u03bf \u03c3\u03c5\u03bb\u03bb\u03b1\u03b2\u03b5\u03b9\u03bd] . Rev., seize. Lit., he added to take. A Hebrew form of expression. Compare Luke 19:11, he added and spake; Luke 20:12, again he sent a third; lit., he added to send."
+        ],
+        "John Calvin": [
+            "We must know that there be diverse causes for which the Church is assaulted on every side.",
+            "Such is our estate at this day, for though all men run by troops upon the members of Christ, yet few are pooked (instigated) forward with superstition.",
+            "But we, in the mean season, being abjects, must be glad to bear their mocks; yet there is one comfort which doth excellently keep us on foot, in that we know that our blood is precious in the sight of Almighty God."
+        ],
+        "Philip Schaff": [
+            "Then were the days of unleavened bread.",
+            "This Passover was the gloomiest and saddest the Church had kept since the great Pentecost morning.",
+            "They must have remembered well, too, the joyous Easter which succeeded that awful Passover."
+        ],
+        "Archibald T. Robertson": [
+            "That it pleased the Jews (\u03bf\u03c4 \u03b1\u03c1\u03b5\u03c3\u03c4\u03bf\u03bd \u03b5\u03c3\u03c4\u03b9\u03bd \u03c4\u03bf\u03b9\u03c2 \u0399\u03bf\u03c5\u03b4\u03b1\u03b9\u03bf\u03b9\u03c2).",
+            "Proceeded to seize (\u03c0\u03c1\u03bf\u03c3\u03b5\u03b8\u03b5\u03c4\u03bf \u03c3\u03c5\u03bb\u03bb\u03b1\u03b2\u03b5\u03b9\u03bd).",
+            "The days of unleavened bread (\u03b7\u03bc\u03b5\u03c1\u03b1 \u03c4\u03c9\u03bd \u03b1\u03b6\u03c5\u03bc\u03c9\u03bd)."
+        ],
+        "John Gill": [
+            "A bloodthirsty generation of men, who had killed the prophets, and the Lord Jesus, and who were now greedy after the death of the apostles.",
+            "It may easily be seen from what principle and spirit Herod acted; it was not out of regard to the Jewish religion, rites, and ceremonies, but to ingratiate himself into the affections of the people.",
+            "This Herod was sensible of, and therefore to please them, ordered him to be taken up."
+        ],
+        "John Wesley": [
+            "Then were the days of unleavened bread \u2014 At which the Jews came together from all parts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the days of the Passover, King Herod, driven by his desire for popularity, seized the opportunity to apprehend Peter. It was a time of religious solemnity and the Feast of Unleavened Bread, and Herod saw this as an opportunity to display his opposition to false religions and his support for the existing establishments of the nation. The Church was under assault, and the loss of Peter at this crucial stage would have been irreparable. However, amidst the hostility, the believers found comfort in knowing that their blood was precious in the sight of Almighty God. It was a bloodthirsty generation that had killed the prophets, Jesus, and now sought the death of the apostles. But despite the mockery and persecution, they pressed on, bearing in mind the joyous Easter that followed that sorrowful Passover.",
+            "wordCount": 135,
+            "quoteTokenProportion": 31.46,
+            "qualityScore": 1.9482161280693426,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.12,
+            "commentatorTierSimilarities": [
+                27.84,
+                36.15,
+                36.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "King Herod, motivated by his desire for popularity, took advantage of the Passover season to apprehend Peter. This period of religious solemnity and the Feast of Unleavened Bread allowed Herod to demonstrate his opposition to false religions and his support for the nation's existing establishments. The Church faced significant challenges, and the loss of Peter during this critical time would have been irreparable. Nevertheless, the believers found solace in knowing that their blood was precious before God, despite facing a bloodthirsty generation eager for their demise.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.931102515504417,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.55,
+            "commentatorTierSimilarities": [
+                28.81,
+                36.85,
+                34.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the Passover, King Herod, driven by his desire for popularity, seized the opportunity to apprehend Peter. This time of religious solemnity and the Feast of Unleavened Bread allowed Herod to showcase his opposition to false religions and his support for the nation's existing establishments. The Church faced significant challenges, and the loss of Peter at this stage would have been irreparable. However, believers found comfort in knowing their blood was precious in God's sight despite the hostility of a bloodthirsty generation seeking their destruction.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.8643123797998675,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                28.97,
+                35.81,
+                35.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of the Passover, King Herod, driven by his popularity, seized the opportunity to arrest Peter. This period of religious significance, the Feast of Unleavened Bread, allowed Herod to display his opposition to false religions and his support for the nation's established practices. The Church faced immense challenges, and losing Peter during this crucial time would have been irreparable. Nevertheless, believers found solace in knowing that their blood was highly valued by God despite the hostility of a bloodthirsty generation.\n",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.8487445503974174,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "commentatorTierSimilarities": [
+                28.7,
+                35.77,
+                35.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the days of the Passover, King Herod, driven by his desire for popularity, seized Peter. This occasion of religious solemnity and the Feast of Unleavened Bread allowed Herod to showcase his opposition to false religions and his support for the nation's established institutions. The Church faced significant challenges, and losing Peter at this stage would have been irreparable. However, believers took comfort in knowing their blood held great value in God's sight, even amidst the hostility of a bloodthirsty generation seeking their demise.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.8590773949949098,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.16,
+            "commentatorTierSimilarities": [
+                28.77,
+                35.66,
+                35.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

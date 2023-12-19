@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:18:54",
+    "verseRef": "Luke 12:43",
+    "bestBHT": {
+        "bht": "Blessed is that servant who disposes of the provisions of the house with great discretion and prudence, behaving as a good ruler and a faithful steward. God Himself pronounces him Wise, faithful, and happy. Yet, we see that he could fall and perish forever, despite being described as blessed and happy.",
+        "wordCount": 51,
+        "quoteTokenProportion": 43.59,
+        "qualityScore": 1.2533181398570332,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+        "commentatorTierSimilarities": [
+            18.28,
+            0.0,
+            81.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "41-48. unto us or even to all?\u2014us",
+            "\tthe Twelve, or all this vast audience?"
+        ],
+        "John Gill": [
+            "Blessed is that servant...who disposes of the provisions of the house, in his hands, with great discretion and prudence.",
+            "Whom his Lord, when he cometh...shall find so doing; behaving as a good ruler, and as a wise and faithful steward.",
+            "Rules well, and discharges his trust with integrity...and disposes of the provisions of the house...with great discretion and prudence."
+        ],
+        "John Wesley": [
+            "Happy is that servant \u2014 God himself pronounces him wise, faithful, happy! Yet we see, he might fall from all, and perish for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed is that servant\u2026who disposes of the provisions of the house, in his hands, with great discretion and prudence, behaving as a good ruler and a wise and faithful steward. This servant rules well, discharges his trust with integrity, and handles the provisions of the house wisely. God Himself pronounces him wise, faithful, and happy. However, it is important to note that despite being described as blessed and happy, this servant is capable of falling from all favor and perishing forever.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 0.9399239355921245,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.6,
+            "commentatorTierSimilarities": [
+                7.14,
+                0.0,
+                92.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed is that servant...who disposes of the provisions of the house, in his hands, with great discretion and prudence, behaving as a good ruler and a wise and faithful steward. God Himself pronounces him wise, faithful, and happy. However, it is important to note that despite being described as blessed and happy, this servant is capable of falling from all favor and perishing forever.",
+            "wordCount": 65,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.1136380929625083,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.37,
+            "commentatorTierSimilarities": [
+                13.04,
+                0.0,
+                86.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed is that servant who disposes of the provisions of the house with great discretion and prudence, behaving as a good ruler and a faithful steward. God Himself pronounces him Wise, faithful, and happy. Yet, we see that he could fall and perish forever, despite being described as blessed and happy.",
+            "wordCount": 51,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.2533181398570332,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+            "commentatorTierSimilarities": [
+                18.28,
+                0.0,
+                81.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed is that servant...who disposes of the provisions of the house, in his hands, with great discretion and prudence, as a wise and faithful steward. This servant behaves as a good ruler, handling his responsibilities well and with integrity. God Himself pronounces him wise, faithful, and happy. However, it is important to note that despite being described as blessed and happy, this servant is capable of falling and perishing forever.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 0.9948425115303885,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.42,
+            "commentatorTierSimilarities": [
+                11.38,
+                0.0,
+                88.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed is that servant...who disposes of the provisions of the house, in his hands, with great discretion and prudence, behaving as a good ruler and a wise and faithful steward. This servant rules well, discharges his trust with integrity, and handles the provisions of the house wisely. God Himself pronounces him wise, faithful, and happy. However, it is important to note that this servant could fall from all favor and perish forever, despite being described as blessed and happy.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 0.9724144770926562,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.68,
+            "commentatorTierSimilarities": [
+                7.58,
+                0.0,
+                92.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

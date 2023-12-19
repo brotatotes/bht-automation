@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:16:56",
+    "verseRef": "Luke 8:49",
+    "bestBHT": {
+        "bht": "The two gospel accounts of this event reveal precise details. Mark's account includes the minute detail that Jesus overheard the message instead of it being directly reported to Him. The phrase dead is thy daughter is translated as trouble or disturb in different versions, emphasizing the ruler's distress. The omission of the word house emphasizes the ruler's initiative in approaching Jesus. The message conveyed to Jesus was that the daughter had died, seemingly leaving no hope for her.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.4346670634221126,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.05,
+        "commentatorTierSimilarities": [
+            36.39,
+            37.03,
+            26.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Little marks of accuracy come out in each of the two fuller accounts.",
+            "In Mark again we learn not only that Jesus heard, but that the message was not reported to Him, but He overheard it being said, which is a minute detail not given here.",
+            "Nothing could more satisfactorily mark the independent authority of the two narratives."
+        ],
+        "Marvin Vincent": [
+            "Dead is thy daughter.\" ",
+            "Trouble.\" ",
+            "Tyndale renders dis - ease, in the old verbal sense of disturb."
+        ],
+        "Philip Schaff": [
+            "Luke 8:49. There cometh one. Mark is less definite."
+        ],
+        "Archibald T. Robertson": [
+            "The word 'house' is not in the Greek here as in Mark 5:35 where \u03b1\u03c0\u03bf is used rather than \u03c0\u03b1\u03c1\u03b1, as here.",
+            "But the ruler himself had come to Jesus (Luke 8:41) and this is the real idea.",
+            "Trouble not (\u03bc\u03b7\u03ba\u03b5\u03c4 \u03c3\u03ba\u03c5\u03bb\u03bb\u03b5). See on Luke 7:6 for this verb and also Mark 5:35; Matthew 9:36."
+        ],
+        "John Gill": [
+            "While he yet spake,.... The above words to the woman;",
+            "there cometh one.",
+            "from the ruler of the synagogue's house; so the word 'house' is supplied by the Syriac and Ethiopic versions.",
+            "saying to him, thy daughter is dead, trouble not the master; to bring him any further, since all hope of help was now gone."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Little details of precision emerge from the two accounts of this event. Mark's gospel goes further to mention that Jesus overheard the message of the ruler, instead of it being directly reported to Him. This emphasizes the independent authority of each narrative. The phrase dead is thy daughter is rendered as trouble or disturb by different versions, capturing the idea of the ruler's distress. The omission of the word house highlights that the ruler himself approached Jesus, reinforcing the ruler's own initiative. The message brought to Jesus was that the daughter had already died, indicating that there was seemingly no hope for her.",
+            "wordCount": 106,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.34921909006396,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.2,
+            "commentatorTierSimilarities": [
+                36.98,
+                37.03,
+                25.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The two gospel accounts of this event reveal precise details. Mark's account includes the minute detail that Jesus overheard the message instead of it being directly reported to Him. The phrase dead is thy daughter is translated as trouble or disturb in different versions, emphasizing the ruler's distress. The omission of the word house emphasizes the ruler's initiative in approaching Jesus. The message conveyed to Jesus was that the daughter had died, seemingly leaving no hope for her.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.4346670634221126,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.05,
+            "commentatorTierSimilarities": [
+                36.39,
+                37.03,
+                26.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The gospel accounts of this event provide precise details, such as Jesus overheard the message instead of it being directly reported, and the ruler approached Jesus himself. The phrase dead is thy daughter is translated as trouble or disturb, highlighting the ruler's distress. The omission of the word house underscores the ruler's initiative. The message conveyed to Jesus was that the daughter had died, seemingly leaving no hope. These accounts demonstrate the independent authority and accuracy of each narrative.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.2314891358187994,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.29,
+            "commentatorTierSimilarities": [
+                41.75,
+                30.14,
+                28.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The two gospel accounts of this event provide minute details and offer different nuances. Mark's account includes the detail that Jesus overheard the message instead of it being reported directly to Him. The phrase dead is thy daughter is rendered as trouble or disturb and conveys the ruler's distress. The omission of the word house highlights the ruler's own initiative in approaching Jesus. The message delivered to Jesus was that the daughter had died, seemingly extinguishing all hope for her. These accounts demonstrate the independent authority and accuracy of each narrative.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.299932671563732,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.57,
+            "commentatorTierSimilarities": [
+                39.19,
+                35.91,
+                24.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The two gospel accounts of this event reveal precise details. Mark's account includes the detail that Jesus overheard the message instead of it being directly reported. The phrase dead is thy daughter is translated as trouble or disturb, emphasizing the ruler's distress. The omission of the word house emphasizes the ruler's initiative in approaching Jesus. The message conveyed to Jesus was that the daughter had died, seemingly leaving no hope. These accounts demonstrate the independent authority and accuracy of each narrative.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.3219914043857406,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+            "commentatorTierSimilarities": [
+                40.62,
+                36.3,
+                23.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

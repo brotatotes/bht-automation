@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:11:43",
+    "verseRef": "1 Corinthians 10:16",
+    "bestBHT": {
+        "bht": "The cup of blessing, representing the blood of Christ, is consecrated by the minister as the representative of the congregation. Through the joint blessing and drinking of the cup, believers enter into a communion, a spiritual participation in the blood of Christ. In a similar way, the bread signifies a communion with the body of Christ. By partaking in the cup and the bread, Christians share in the blessings and benefits of Christ's sacrifice, united to him and to each other as one body.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.56,
+        "qualityScore": 2.899262031300198,
+        "qualityScoreNormalizedComparedToV2BHTs": 87.74,
+        "commentatorTierSimilarities": [
+            30.69,
+            33.72,
+            35.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The cup of blessing is explained immediately by which we bless,\u2014over which we speak a blessing, and is the Christian form of the Jewish cup in the Passover.",
+            "The acts of consecration, were not the acts of the minister, as by any authority peculiar to himself, but only as the representative of the whole Christian congregation.",
+            "The wine is the Blood, the bread is the Body, of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The minister 'blesses' (that is, consecrates with blessing) the cup, not by any priestly transmitted authority of his own, but as representative of the congregation, who virtually through him bless the cup.",
+            "The act of joint blessing by him and them . . . and the consequent drinking of it together, constitute the communion, that is, the joint participation 'of the blood of Christ.'",
+            "It is not said, 'The cup . . . is the blood,' or 'the bread . . . is the body,' but 'is the communion [joint-participation] of the blood . . . body.'"
+        ],
+        "Albert Barnes": [
+            "Christians are 'united' and dedicated to Christ in the communion.",
+            "By partaking of this cup they showed that they were united to [Christ] and to each other.",
+            "Christians 'partake alike' in the benefits of the blood of Christ; they share the same blessings."
+        ],
+        "Marvin Vincent": [
+            "The cup of blessing: the cup over which the familiar formula of blessing is pronounced.",
+            "The Holy Supper was often styled Eulogia (Blessing).",
+            "The Passover was celebrated by families, typifying an unbroken fellowship of those who formed one body."
+        ],
+        "John Calvin": [
+            "To bless the cup, then, is to set it apart for this purpose, that it may be to us an emblem of the blood of Christ.",
+            "Paul says, that the cup which has been in this manner blessed is \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u1f77\u03b1\u03bd \u2014 the communion of the blood of the Lord.",
+            "From the connection of the passage, therefore, we may conclude, that the communion of the blood is that connection which we have with the blood of Christ, when he engrafts all of us together into his body, that he may live in us, and we in him."
+        ],
+        "Philip Schaff": [
+            "The cup of blessing. This was the name given by the Jews to the last and most sacred of those cups of wine which were partaken of at the Paschal feast.\" ",
+            "Is it not a communion of (or 'participation in') the blood of Christ? The bread which we break, is it not a communion of (or 'participation in') the body of Christ?\" ",
+            "As all the four accounts mention the 'breaking' of the bread, it is plain that this was meant to be no mere preliminary act, but an essential feature of the ordinance, considered as a teaching rite; proclaiming the fundamental truth that we are reconciled to God, not by the life, but by the death of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "A communion of the blood of Christ... a spiritual participation in the blood of Christ which is symbolized by the cup.\" ",
+            "Same meaning for \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03b1 in reference to 'the body of Christ.'",
+            "The mention of the cup here before the bread does not mean that this order was observed for see the regular order of bread and then cup in 1 Corinthians 11:24-27."
+        ],
+        "John Gill": [
+            "This cup is so called in allusion to the cup of wine used at common meals, or at the passover among the Jews, which they used to take and bless God with, and give him thanks for their mercies, and was commonly called \u05db\u05d5\u05e1 \u05e9\u05dc \u05d1\u05e8\u05db\u05d4, 'the cup of blessing'.",
+            "if believers, by eating the bread and drinking the wine in the Lord's supper, spiritually partake of Christ, of his body and of his blood, and have communion with him; then such who eat of things sacrificed unto idols, have in so doing communion with them, and partake of the table of devils, and so are guilty of idolatry, which he would have them avoid.",
+            "it is a sign, symbol, and token of fellowship with Christ in his death; it is a means of having communion with him, and of enjoying the blessings of grace which come through his blood; such as righteousness, peace, pardon, and atonement."
+        ],
+        "John Wesley": [
+            "The cup which we bless \u2014 By setting it apart to a sacred use, and solemnly invoking the blessing of God upon it.",
+            "Is it not the communion of the blood of Christ \u2014 The means of our partaking of those invaluable benefits, which are the purchase of the blood of Christ.",
+            "The communion of the body of Christ - The means of our partaking of those benefits which were purchased by the body of Christ - offered for us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The cup of blessing is the Christian form of the Jewish cup in the Passover. It is consecrated by the minister as the representative of the whole Christian congregation, and through the joint blessing and subsequent drinking of it together, the communion is formed. This communion is not a physical transformation of the cup into the blood of Christ, but a spiritual participation in his blood symbolized by the cup. It signifies the unbroken fellowship of believers as one body, united to Christ and to each other. The bread is also a communion, a participation in the body of Christ, emphasizing the fundamental truth that we are reconciled to God through the death of Christ. By partaking in the cup and the bread, Christians share the benefits of Christ's blood and are connected to him, living in him and he in them.",
+            "wordCount": 143,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.764919082324611,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.27,
+            "commentatorTierSimilarities": [
+                31.1,
+                34.48,
+                34.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The cup of blessing, which represents the blood of Christ, is consecrated by the minister as the representative of the congregation. Through the joint blessing and drinking of it together, believers form a communion, symbolizing their spiritual participation in the blood of Christ. Similarly, the bread signifies communion with the body of Christ. This act of partaking in the cup and the bread unites Christians, showing their connection to Christ and one another. By sharing in these elements, believers experience the benefits of Christ's sacrifice and are reconciled to God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.7282644612311735,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.05,
+            "commentatorTierSimilarities": [
+                29.64,
+                34.7,
+                35.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The cup of blessing is consecrated by the minister, representing the Christian congregation, as they bless and speak a blessing over it. This cup is the communion or joint-participation of the blood of Christ. Similarly, the bread signifies the communion or joint-participation of the body of Christ. By partaking in the cup and the bread, believers share in the fellowship and benefits of Christ's sacrifice. This communion also symbolizes the unity and unbroken fellowship of believers, forming one body in Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 2.790392222459432,
+            "qualityScoreNormalizedComparedToV2BHTs": 84.12,
+            "commentatorTierSimilarities": [
+                30.56,
+                34.06,
+                35.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The cup of blessing, consecrated by the minister as representative of the congregation, is the communion of the blood of Christ. Similarly, the bread is the communion of the body of Christ. Through partaking in the cup and the bread, believers share in the fellowship and benefits of Christ's sacrifice, symbolizing their unity and unbroken fellowship as one body in Christ. It is not a physical transformation, but a spiritual participation in Christ and a means of enjoying the blessings of grace that come through his blood and body.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 2.8422257185854987,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.84,
+            "commentatorTierSimilarities": [
+                30.6,
+                33.8,
+                35.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The cup of blessing, representing the blood of Christ, is consecrated by the minister as the representative of the congregation. Through the joint blessing and drinking of the cup, believers enter into a communion, a spiritual participation in the blood of Christ. In a similar way, the bread signifies a communion with the body of Christ. By partaking in the cup and the bread, Christians share in the blessings and benefits of Christ's sacrifice, united to him and to each other as one body.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 2.899262031300198,
+            "qualityScoreNormalizedComparedToV2BHTs": 87.74,
+            "commentatorTierSimilarities": [
+                30.69,
+                33.72,
+                35.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

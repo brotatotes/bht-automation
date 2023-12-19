@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:32:35",
+    "verseRef": "Acts 17:1",
+    "bestBHT": {
+        "bht": "From Philippi, it is likely that Timothy accompanied Paul and Silas as they traveled to Thessalonica on the Via Egnatia, a significant road that connected Macedonia to the Adriatic. Along the way, they passed by Amphipolis and Apollonia, where it seems there was no opportunity or need to preach the Gospel. Thessalonica, however, was a strategic center for spreading the word of the Lord throughout Macedonia and Achaia. Although the apostle hurried through these two sizable cities, the significance of Thessalonica as a bustling seaport and commercial hub made it an important place to proclaim the Gospel.",
+        "wordCount": 97,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.8251149176257622,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.03,
+        "commentatorTierSimilarities": [
+            34.26,
+            35.67,
+            30.06
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I should be inclined to think that Timotheus went with them from Philippi,\u2014not, as is usually supposed, joined them at Ber\u0153a.",
+            "The road, on which they travelled from Philippi to Thessalonica, was the Via Egnatia, the Macedonian continuation of the Via Appia, and so named from Egnatia, in the neighbourhood of which the latter meets the Adriatic.",
+            "It must not be confounded with a better known Apollonia near Dyrrhachium, on the western coast, also on the Via Egnatia."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From you, the word of the Lord sounded forth like a trumpet, not only in Macedonia and Achaia, but in every place.\" ",
+            "We see at once how appropriate a place it was for one of the starting-points of the Gospel in Europe.",
+            "Implying that (as at Philippi) there was none at Amphipolis and Apollonia."
+        ],
+        "Albert Barnes": [
+            "The position of Amphipolis is one of the most important in Greece. It stands in a pass which traverses the mountains...The Athenians saw the importance of the position, and established a colony there, which they called Amphipolis...",
+            "And Apollonia - This city was situated between Amphipolis and Thessalonica, and was formerly much celebrated for its trade.",
+            "They came to Thessalonica - This was a seaport of the second part of Macedonia...It is now called Saloniki, and, from its situation, must always be a place of commercial importance."
+        ],
+        "John Calvin": [
+            "This so invincible fortitude of mind, and such patient enduring of the cross, do sufficiently declare, that Paul labored not after the manner of men, but that he was furnished with the heavenly power of the Spirit.",
+            "But because he knew that Christ was given to the Jews for salvation, and that he himself was made an apostle upon this condition, that he should preach repentance and faith, first to the Jews and then to the Gentiles, committing the success of his labor to the Lord, he obeyeth his commandment, (though he had no great hope to do good.)",
+            "By which example we are taught, that we ought to make so great account of the calling of God, that no unthankfulness of men may be able to hinder us, but that we proceed to be careful for their salvation, so long as the Lord appointeth us to be their ministers."
+        ],
+        "Philip Schaff": [
+            "The missionary apostle appears to have merely passed through this place and also Apollonia, an unimportant town thirty miles from Amphipolis, and only to have preached at the great maritime city of Thessalonica...",
+            "Saloniki is the second city of European Turkey... Saloniki, though now a Turkish city, among its 70,000 inhabitants reckons 35,000 Jews and 10,000 Christians!",
+            "The more literal translation would be here 'the synagogue,' signifying that the chief, not the only synagogue of the district, was placed in this great sea city."
+        ],
+        "Archibald T. Robertson": [
+            "They took the Egnatian Way, one of the great Roman roads from Byzantium to Dyrrachium.\" ",
+            "Why Paul hurried through these two large cities, if he did, we do not know.\" ",
+            "It was a strategic centre for the spread of the gospel as Paul later said for it sounded (echoed) forth from Thessalonica throughout Macedonia and Achaia."
+        ],
+        "John Gill": [
+            "It does not appear that he at all preached in it, or at any other time.",
+            "Here also the apostle did not stay to preach the Gospel.",
+            "Why these two last places should be passed through by the apostle, without making any stay at them, cannot be said."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From Philippi, it is likely that Timothy accompanied Paul and Silas as they traveled to Thessalonica on the Via Egnatia, a significant road that connected Macedonia to the Adriatic. Along the way, they passed by Amphipolis and Apollonia, where it seems there was no opportunity or need to preach the Gospel. Thessalonica, however, was a strategic center for spreading the word of the Lord throughout Macedonia and Achaia. Although the apostle hurried through these two sizable cities, the significance of Thessalonica as a bustling seaport and commercial hub made it an important place to proclaim the Gospel.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8251149176257622,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.03,
+            "commentatorTierSimilarities": [
+                34.26,
+                35.67,
+                30.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "From Philippi, Timothy likely accompanied Paul and Silas on the Via Egnatia to Thessalonica, passing by Amphipolis and Apollonia where they did not preach. Thessalonica, a strategic center for spreading the word, listened to the word of the Lord like a trumpet, resounding in Macedonia and Achaia. Though Paul hurried through these two cities, Thessalonica's significance as a seaport and commercial hub made it an ideal place to proclaim the Gospel.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7503176781387897,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+            "commentatorTierSimilarities": [
+                36.79,
+                35.67,
+                27.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From Philippi, it is likely that Timothy went with Paul and Silas to Thessalonica via the Via Egnatia, a prominent Roman road. Along the way, they passed by Amphipolis and Apollonia, where it seems there was no opportunity to preach. However, Thessalonica, a significant seaport and commercial city, proved to be a strategic center for spreading the word of the Lord throughout Macedonia and Achaia. Though Paul hurried through these two cities, the impact of the gospel in Thessalonica echoes far beyond its boundaries.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7299048428826622,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.86,
+            "commentatorTierSimilarities": [
+                36.72,
+                33.38,
+                29.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, accompanied by Timothy, traveled from Philippi to Thessalonica on the Via Egnatia, passing by Amphipolis and Apollonia along the way. Thessalonica, a seaport and strategic center, played a crucial role in spreading the word of the Lord throughout Macedonia and Achaia. While Paul hurried through the lesser-known cities, the resounding impact of the gospel in Thessalonica echoed far beyond its borders, making it an ideal starting point for the expansion of the gospel in Europe.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6262622644987978,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.42,
+            "commentatorTierSimilarities": [
+                40.08,
+                35.0,
+                24.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Accompanied by Timothy, Paul journeyed from Philippi to Thessalonica on the Via Egnatia, passing through Amphipolis and Apollonia without preaching. Thessalonica, a bustling seaport and commercial hub, became a strategic center for spreading the word of the Lord throughout Macedonia and Achaia. Although Paul's stay in these two cities was brief, the powerful impact of the gospel in Thessalonica resounded far beyond its boundaries, making it a fitting starting point for the expansion of the gospel in Europe.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6499137320613009,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.2,
+            "commentatorTierSimilarities": [
+                36.13,
+                34.09,
+                29.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

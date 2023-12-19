@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:53:32",
+    "verseRef": "Philippians 1:20",
+    "bestBHT": {
+        "bht": "Paul expresses unwavering confidence that he will boldly magnify Christ, whether in life or death, without shame. His expectation is based on God's word, and he eagerly awaits its fulfillment. Through his bodily sufferings, Paul believes that Christ will be glorified, even in death. Living in obedience to the Gospel and being a witness to God's grace, Paul seeks to exalt Christ in all things. Past experiences of God's faithfulness give him hope and assurance in the face of challenges.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.9034770536595431,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+        "commentatorTierSimilarities": [
+            24.89,
+            44.32,
+            30.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in nothing I shall be ashamed, but in all boldness.",
+            "Christ shall be magnified in my body.",
+            "either by life or by death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Greek expresses, 'expectation with uplifted head and outstretched neck.'\" ",
+            "In nothing have reason to be ashamed of 'my work for God, or His work in me'.",
+            "Whatever be the issue, I cannot lose; I must be the gainer by the event."
+        ],
+        "Albert Barnes": [
+            "The main thing was, to stand up everywhere as the advocate of the gospel, to maintain its truth, and to exhibit its spirit.",
+            "That in these heavy trials, I may not be left to deny the truth of the Christian religion; that, even before the emperor, I may maintain its principles.",
+            "Christ is magnified in the death of Christians, when his gospel is seen to sustain them; when, supported by its promises, they are enabled to go calmly into the dark valley; and when, in the departing moments, they confidently commit their eternal all into his hands."
+        ],
+        "Marvin Vincent": [
+            "Earnest expectation [\u03b1\u03c0\u03bf\u03ba\u03b1\u03c1\u03b1\u03b4\u03bf\u03ba\u03b9\u03b1\u03bd]. Only here and Romans 8:19, on which see note.",
+            "Shall be ashamed [\u03b1\u03b9\u03c3\u03c7\u03c5\u03bd\u03b8\u03b7\u03c3\u03bf\u03bc\u03b1\u03b9]. Rev., better, giving the force of the passive, shall be put to shame.",
+            "Through my bodily sufferings Christ shall appear more glorious, and that even if I die."
+        ],
+        "John Calvin": [
+            "Let then the pious reader carefully observe this adverb secundum, (according to), that he may be fully assured in his own mind, that it is impossible but that the Lord will fulfill our expectation, inasmuch as it is founded on his own word.",
+            "By making express mention, however, of the body, he intimates that, amongst the conflicts of the present life, he is in no degree doubtful as to the issue, for we are assured as to this by God.",
+            "He adds, as always, that they may confirm their faith from past experience of the grace of God. Thus, in Romans 5:4, he says, Experience begets hope."
+        ],
+        "Philip Schaff": [
+            "He awaits the future both of his work on earth and of his call to heaven without fear.",
+            "The only way in which the apostle could be put to shame was by the frustration of his labours and hopes.",
+            "That Christ may be magnified... by everything that he can do or suffer in this present life."
+        ],
+        "Archibald T. Robertson": [
+            "Earnest expectation (\u03b1\u03c0\u03bf\u03ba\u03b1\u03c1\u03b1\u03b4\u03bf\u03ba\u03b9\u03b1\u03bd). In Paul alone from \u03b1\u03c0\u03bf\u03ba\u03b1\u03c1\u03b1\u03b4\u03bf\u03ba\u03b5\u03c9.",
+            "Shall be magnified (\u03bc\u03b5\u03b3\u03b1\u03bb\u03c5\u03bd\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1). Future passive indicative of \u03bc\u03b5\u03b3\u03b1\u03bb\u03c5\u03bd\u03c9, old verb, to make great.",
+            "It is harder often to make Christ great in the body than in the spirit."
+        ],
+        "John Gill": [
+            "He had a full persuasion that he should not be put to shame on any account;",
+            "His great concern was to glorify him in it;",
+            "Christ was also magnified by him, by his life and conversation, which influenced by his grace, was in obedience to his will, was directed to his glory, was as became his Gospel, and what adorned his doctrine in all things."
+        ],
+        "John Wesley": [
+            "As always \u2014 Since my call to the apostleship.",
+            "In my body \u2014 however it may he disposed of.",
+            "For the apostles did not know all things; particularly in things pertaining to themselves, they had room to exercise faith and patience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the apostle Paul expresses his unwavering confidence that he will not be put to shame but will boldly magnify Christ whether in life or in death. He eagerly anticipates the fulfillment of his expectation, with an uplifted head and outstretched neck, fully assured that he will not be disappointed because his expectation is founded on God's own word. Paul's ultimate desire is to glorify Christ in his body, even if it means experiencing bodily sufferings or facing death. He understands that Christ is magnified not only through his works and sufferings but also through his obedience and the way he lives his life in accordance with the Gospel. Overall, Paul's firm conviction and past experiences of God's grace give him hope and confidence in the face of any trial or challenge he may encounter.",
+            "wordCount": 141,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 1.9409864409174613,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                22.56,
+                44.24,
+                33.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul in Philippians 1:20 confidently declares his unwavering expectation that he will not be put to shame but will boldly magnify Christ in his body, regardless of whether he lives or dies. He eagerly awaits the fulfillment of his expectation, fully assured that it is based on God's word. For Paul, glorifying Christ extends beyond his works and sufferings; it is seen in his obedient life and the way he embodies the Gospel. His past experiences of God's grace fuel his hope and resolve in the midst of trials.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9139241384142753,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                19.06,
+                45.94,
+                35.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's resolute conviction in Philippians 1:20 is that he will confidently magnify Christ in his body without shame, regardless of life or death. The Greek emphasizes his eager expectation, founded on God's word, to be fulfilled. Paul understands that through his bodily sufferings, Christ's glory is heightened, even in the face of death. His deep desire is to live a life that exalts Christ, displaying the transformative power of the Gospel. Through past experiences of God's grace, Paul derives the hope and assurance to face any challenge with unwavering faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.912320746188119,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                24.85,
+                43.04,
+                32.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul expresses unwavering confidence that he will boldly magnify Christ, whether in life or death, without shame. His expectation is based on God's word, and he eagerly awaits its fulfillment. Through his bodily sufferings, Paul believes that Christ will be glorified, even in death. Living in obedience to the Gospel and being a witness to God's grace, Paul seeks to exalt Christ in all things. Past experiences of God's faithfulness give him hope and assurance in the face of challenges.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9034770536595431,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                24.89,
+                44.32,
+                30.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Confident and unashamed, Paul boldly declares his determination to magnify Christ in his body, whether in life or in death. He eagerly awaits the fulfillment of his expectation, deeply rooted in God's word. For Paul, bodily sufferings serve as opportunities to showcase the glory of Christ, even unto death. He believes that his life and actions, guided by God's grace, should exemplify obedience to the Gospel. Paul's resolute faith draws from past experiences of God's faithfulness, inspiring hope and assurance in every circumstance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.8390770700129604,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                21.47,
+                44.68,
+                33.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:17:22",
+    "verseRef": "Luke 9:56",
+    "bestBHT": {
+        "bht": "For the Son of man, a saying truly divine, of which all His miracles were one continued illustration, went to another village, illustrating His own precept of discipleship. The Son of man is not come to destroy, but to save lives. As followers, we should imitate His spirit, temper our zeal, seek to do good even to those who oppose us, and be patient and forgiving. Let us approach others with a similar mindset, spreading the message of salvation rather than destruction.",
+        "wordCount": 82,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.3885882951017523,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+        "commentatorTierSimilarities": [
+            34.32,
+            29.7,
+            35.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For the Son of man, a saying truly divine, of which all His miracles\u2014for salvation, never destruction\u2014were one continued illustration.\" ",
+            "went to another\u2014illustrating His own precept.\" ",
+            "INCIDENTS ILLUSTRATIVE OF DISCIPLESHIP."
+        ],
+        "Albert Barnes": [
+            "You should imitate, in your spirit, the Son of man.",
+            "He is not soon angry. 'He' bears patiently opposition to himself, and 'you' should bear opposition to 'him.'",
+            "You should catch his spirit; temper your zeal like his; seek to do good to those who injure you and him; be mild, kind, patient, and forgiving."
+        ],
+        "Philip Schaff": [
+            "The first part of this verse is even less supported than the doubtful passages of Luke 9:54-55.",
+            "It is possible, but improbable, that after this rejection our Lord did not go further into Samaria.",
+            "This may not have been a Samaritan village, as they probably had just entered Samaria."
+        ],
+        "John Gill": [
+            "For the son of man, is not come to destroy men's lives; but to save them.",
+            "And therefore, though it was agreeably to the legal dispensation, and the times of Elijah, to punish offenders in such a manner, it was not agreeably to the Gospel dispensation, and to the ends of the Messiah's coming into the world.",
+            "And they went to another village; in Samaria, more civil and courteous, and less prejudiced, and where they got lodging and entertainment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the Son of man, this divine saying, speaks to the nature of Jesus' miracles, which were all illustrations of salvation rather than destruction. He went to another village, showcasing his own precept of discipleship. As followers of Christ, we are called to imitate his spirit and exemplify patience, kindness, forgiveness, and love in the face of opposition. This verse reminds us that the purpose of Jesus' coming was not to bring harm, but to save lives. Thus, we are encouraged to approach others with a similar mindset, seeking to do good and spreading the message of salvation.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.30302005969813,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.67,
+            "commentatorTierSimilarities": [
+                37.39,
+                30.28,
+                32.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the Son of man, His miracles were illustrations of salvation, not destruction. He went to another village, exemplifying His precept of discipleship. As followers, we should imitate His spirit, temper our zeal, and be patient and forgiving. Jesus' purpose was to save lives, not harm them. Let us approach others with a similar mindset, seeking to do good and spread the message of salvation.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.2577184155876626,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.16,
+            "commentatorTierSimilarities": [
+                36.13,
+                31.24,
+                32.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For the Son of man, a saying truly divine, of which all His miracles were one continued illustration, went to another village, illustrating His own precept of discipleship. The Son of man is not come to destroy, but to save lives. As followers, we should imitate His spirit, temper our zeal, seek to do good even to those who oppose us, and be patient and forgiving. Let us approach others with a similar mindset, spreading the message of salvation rather than destruction.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.3885882951017523,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+            "commentatorTierSimilarities": [
+                34.32,
+                29.7,
+                35.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For the Son of man, His miracles were illustrations of salvation, never destruction. He went to another village, exemplifying His own precept of discipleship. As followers, we are called to imitate His spirit and temper our zeal. We should seek to do good to those who oppose us and exhibit patience and forgiveness. The Son of man is not here to destroy lives but to save them. Let us approach others with this same mindset, spreading the message of salvation as we go.",
+            "wordCount": 83,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.2784458399203582,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.85,
+            "commentatorTierSimilarities": [
+                35.41,
+                30.25,
+                34.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son of man, whose miracles always illustrated salvation rather than destruction, went to another village, setting an example for discipleship. As followers, we should imitate His patience and forgiveness, even in the face of opposition. The purpose of Jesus' coming was not to bring harm, but to save lives. Let us embody His spirit, temper our zeal, and spread the message of salvation, seeking to do good to all, regardless of their treatment of us.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.2641918721316139,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.38,
+            "commentatorTierSimilarities": [
+                32.1,
+                31.49,
+                36.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

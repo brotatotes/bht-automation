@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:38:22",
+    "verseRef": "2 Thessalonians 3:4",
+    "bestBHT": {
+        "bht": "In the Lord, we can confidently expect the Thessalonians to act consistently with their Christian profession. This expectation carries the force of an exhortation, but it is also a hopeful one. We are in a state of trust, relying not on the human heart but on the faithfulness of God. By having confidence in the Lord, we express our belief that the Thessalonians would boldly continue in the life to which they were introduced, carrying out the commands laid upon them. This confidence is not based on anything in themselves, but wholly on the Lord's faithfulness. We trust in the Lord concerning them, for without Him, they could do nothing.",
+        "wordCount": 111,
+        "quoteTokenProportion": 51.39,
+        "qualityScore": 2.000379438013563,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+        "commentatorTierSimilarities": [
+            24.44,
+            40.15,
+            35.4
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the Lord, as the element in which his confidence is exercised, shews it to be one assuming that they will act consistently with their Christian profession.",
+            "Gives the expectation the force of an exhortation, but at the same time of a hopeful exhortation.",
+            "A hopeful exhortation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Have confidence in no man when left to himself.\" \u2013 BENGEL",
+            "He means the majority by 'ye,' not all of them.\" ",
+            "that ye both have done before, 'and are doing, and will do.'"
+        ],
+        "Albert Barnes": [
+            "And we have confidence in the Lord - Not primarily in you, for you have hearts like others, but in the Lord.\" ",
+            "It is remarkable that when Paul expresses the utmost confidence in Christians that they will live and act as becomes their profession, his reliance is not on anything in themselves, but wholly on the faithfulness of God.",
+            "He must be a stranger to the human heart who puts much confidence in it even in its best state."
+        ],
+        "John Calvin": [
+            "For the confidence which he says he has respecting them, made them much more ready to obey than if he had required obedience from them in a way of doubt or distrust.",
+            "All, therefore, that do not observe this limitation, do to no purpose resort to Paul\u2019s example, with the view of binding the Church and subjecting it to their laws.",
+            "For provided men\u2019s hearts continue to be directed towards love to God, and patient waiting for Christ, other things will be in a desirable state, and Paul declares that he desires nothing else."
+        ],
+        "Philip Schaff": [
+            "This verse farther expresses the confidence which Paul felt that, by the faithfulness of the Lord, the Thessalonians would not be moved by persecution, but would boldly continue in the life to which he had introduced them, not fearing to carry out any of the commands he had laid upon them.",
+            "We have confidence in the Lord. 'Here, as elsewhere, the apostle speaks of believing, hoping, doing all things in Christ. We lead an ordinary life, as well as a religious one; but with the apostle his ordinary life is his religious one, and hence he uses religious expressions in reference to all he says and does' (Jowett).",
+            "That ye both do and will do. Under this expression of confidence, an injunction to further diligence is insinuated. It has been noted as characteristic of Paul, that he admonishes under the form of praise."
+        ],
+        "Archibald T. Robertson": [
+            "We are in a state of trust.\" ",
+            "the ground of Paul's confident trust.",
+            "not advice or urging, but command."
+        ],
+        "John Gill": [
+            "The ground of confidence concerning them was not in themselves, in their grace, and strength, and wisdom, and conduct, and good behaviour; but in the Lord, in his grace and strength, and in the power of his might.",
+            "Without [the Lord], they could do nothing, but through him strengthening them, could do all things.",
+            "Referring both to the commandments, which they had already given them by Christ, and they had showed, and continued to show a proper regard unto."
+        ],
+        "John Wesley": [
+            "We trust in the Lord concerning you \u2014 Thus only should we trust in any man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the Lord, we can confidently expect the Thessalonians to act consistently with their Christian profession. This expectation carries the force of an exhortation, but it is also a hopeful one. We are in a state of trust, relying not on the human heart but on the faithfulness of God. By having confidence in the Lord, we express our belief that the Thessalonians would boldly continue in the life to which they were introduced, carrying out the commands laid upon them. This confidence is not based on anything in themselves, but wholly on the Lord's faithfulness. We trust in the Lord concerning them, for without Him, they could do nothing.",
+            "wordCount": 111,
+            "quoteTokenProportion": 51.39,
+            "qualityScore": 2.000379438013563,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                24.44,
+                40.15,
+                35.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the Lord, we can confidently expect the Thessalonians to act consistently with their Christian profession. This expectation carries the force of an exhortation, but it is also a hopeful one. We are in a state of trust, relying not on the human heart but on the faithfulness of God. By having confidence in the Lord, we express our belief that the Thessalonians would boldly continue in the life to which they were introduced, carrying out the commands laid upon them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.9078320718753383,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                25.85,
+                42.7,
+                31.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Lord, as the element in which our confidence is exercised, we can expect the Thessalonians to act consistently with their Christian profession. This expectation not only carries the force of an exhortation, but also a hopeful one. We are in a state of trust, relying on the faithfulness of God. By having confidence in the Lord, we express our belief that the Thessalonians would boldly continue in the life to which they were introduced, obediently carrying out the commands laid upon them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.8765488040236586,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.74,
+            "commentatorTierSimilarities": [
+                27.26,
+                42.47,
+                30.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the Lord, we can confidently expect the Thessalonians to act consistently with their Christian profession. This expectation carries the force of an exhortation, but it is also a hopeful one. We are in a state of trust, relying not on the human heart but on the faithfulness of God. By having confidence in the Lord, we express our belief that the Thessalonians would boldly continue in the life to which they were introduced, carrying out the commands laid upon them. This confidence is not based on anything in themselves, but wholly on the Lord's faithfulness. We trust in the Lord concerning them, for without Him, they could do nothing.",
+            "wordCount": 111,
+            "quoteTokenProportion": 51.39,
+            "qualityScore": 2.000379438013563,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                24.44,
+                40.15,
+                35.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the Lord, we can expect the Thessalonians to consistently live out their Christian faith. This expectation is both an exhortation and a hopeful one, rooted in a state of trust. Our confidence lies not in human strength, but in the faithfulness of God. By trusting in the Lord, we express our belief that the Thessalonians will courageously continue in the path set before them. This confidence is not based on their own abilities, but solely on the unwavering faithfulness of the Lord.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.8903792539464812,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.2,
+            "commentatorTierSimilarities": [
+                25.51,
+                42.26,
+                32.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

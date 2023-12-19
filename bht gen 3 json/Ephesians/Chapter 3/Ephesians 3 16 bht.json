@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:31:27",
+    "verseRef": "Ephesians 3:16",
+    "bestBHT": {
+        "bht": "May you be strengthened in the inner man by His Spirit, so that Christ may dwell in your hearts through faith, and be rooted and grounded in love. This divine strength, infused into the hidden man, is necessary for believers to grow and progress in their faith. It is a gift of grace, coming from the glorious power of God, and is imparted by the Holy Spirit. This strengthening enables believers to exercise grace, perform duties, resist temptation, and endure afflictions with the abundant strength given by God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.0296479892904173,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.83,
+        "commentatorTierSimilarities": [
+            22.51,
+            34.82,
+            42.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to be strengthened with might by His Spirit towards the inner man",
+            "Christ may dwell by your faith in your hearts",
+            "ye having been rooted and grounded in love"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Strengthened with all might according to His glorious power.",
+            "infused into.",
+            "the hidden man of the heart."
+        ],
+        "Albert Barnes": [
+            "According to the riches of his glory...out of those stores of rich grace which can never be exhausted.\" ",
+            "To be strengthened with might...to give you abundant strength to bear trials; to perform your duties; to glorify his name.\" ",
+            "Piety needs to be constantly invigorated, or it withers and decays. Every Christian needs grace given each day."
+        ],
+        "Marvin Vincent": [
+            "...might entering into the inmost personality.",
+            "Inward man: compare outward man.",
+            "It is the rational and moral I; the essence of the man which is conscious of itself as a moral personality."
+        ],
+        "John Calvin": [
+            "Believers have never advanced so far as not to need farther growth. The highest perfection of the godly in this life is an earnest desire to make progress.",
+            "The increase, as well as the commencement, of everything good in us, comes from the Holy Spirit. That it is the gift of Divine grace.",
+            "The prayer of Paul, that the saints may be strengthened, does not mean that they may be eminent and flourishing in the world, but that, with respect to the kingdom of God, their minds may be made strong by Divine power."
+        ],
+        "Philip Schaff": [
+            "The giving prayed for was in proportion to the fulness of God\u2019s perfections (\u2018glory\u2019).",
+            "Only the Holy Spirit can impart such strength.",
+            "To this sphere Paul prays that the strengthening power of the Holy Ghost may reach, precisely because in this part of man's nature (nobler in its mode of being) the most ignoble slavery has existed."
+        ],
+        "Archibald T. Robertson": [
+            "The whole seems to be coloured with 'the riches of His glory.'",
+            "That ye may be strengthened...in the inward man.",
+            "Same expression in 2 Corinthians 4:16 and in Romans 7:22."
+        ],
+        "John Gill": [
+            "Believers in Christ need fresh supplies of strength to enable them to exercise grace, to perform duties, to resist Satan and his temptations, to oppose their corruptions, and to bear the cross, and undergo afflictions cheerfully, and to hold on and out to the end.\".",
+            "This is a blessing that comes from God, and is a gift of his free grace; a 'grant' from him who is the strength of the lives of his people, of their salvation, of their hearts, and of the work of grace in their hearts.",
+            "The subject of this blessing is the 'inner man', or the Spirit, or soul of man, which is the seat of grace; and this shows that this was spiritual strength which is here desired."
+        ],
+        "John Wesley": [
+            "The riches of his glory \u2014 The immense fulness of his glorious wisdom, power, and mercy.",
+            "The inner man \u2014 The soul."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May you be strengthened with might by His Spirit in the deepest part of your being, so that Christ may dwell in your hearts through faith. Let the love of Christ be deeply rooted and firmly grounded in you. This strengthening comes according to the glorious power of God, infused into your hidden self, the rational and moral essence of your being. It is in this inward man, this moral personality, that you experience the riches of His glory. This strengthening is necessary for your growth and progress as a believer, as you are continually in need of fresh supplies of strength to exercise grace, perform duties, resist temptation, and bear the cross. It is through the Holy Spirit that this strength is imparted to you, and it is a gift of divine grace.",
+            "wordCount": 134,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9832006262780744,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+            "commentatorTierSimilarities": [
+                26.15,
+                34.02,
+                39.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May you be strengthened with might by His Spirit in the deepest part of your being, so that Christ may dwell in your hearts through faith. Let the love of Christ be deeply rooted and firmly grounded in you. This strengthening comes according to the glorious power of God, infused into your hidden self, the rational and moral essence of your being. This strengthening is necessary for your growth as a believer, as you are continually in need of fresh supplies of strength to exercise grace, perform duties, resist temptation, and bear the cross; it is a gift of divine grace.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.980820737476153,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                26.66,
+                33.42,
+                39.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May you be strengthened in the inner man by His Spirit, allowing Christ to dwell in your hearts through faith, and rooted and grounded in love. This divine strength, according to the glorious power of God, is infused into your hidden self, the rational and moral essence of your being. As believers, we constantly need fresh supplies of strength to exercise grace, perform duties, resist temptation, and bear the cross. This strengthening is a gift of divine grace, coming from the immense fulness of God's glory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.027004803980126,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                22.51,
+                35.2,
+                42.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May you be strengthened with might by His Spirit in the inner man, so that Christ may dwell in your hearts by faith, and be rooted and grounded in love. This divine strength, infused into the hidden man of the heart, is necessary for believers to grow and progress in their faith. It is a gift of grace, coming from the immense fulness of God's glory, and is imparted by the Holy Spirit. This strengthening enables believers to exercise grace, perform duties, resist temptation, and endure afflictions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.0107209219377165,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.2,
+            "commentatorTierSimilarities": [
+                22.85,
+                34.53,
+                42.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May you be strengthened in the inner man by His Spirit, so that Christ may dwell in your hearts through faith, and be rooted and grounded in love. This divine strength, infused into the hidden man, is necessary for believers to grow and progress in their faith. It is a gift of grace, coming from the glorious power of God, and is imparted by the Holy Spirit. This strengthening enables believers to exercise grace, perform duties, resist temptation, and endure afflictions with the abundant strength given by God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.0296479892904173,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.83,
+            "commentatorTierSimilarities": [
+                22.51,
+                34.82,
+                42.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

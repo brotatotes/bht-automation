@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:13:24",
+    "verseRef": "1 Corinthians 14:20",
+    "bestBHT": {
+        "bht": "Brethren, in order to prevent the folly of displaying and being anxious for gifts that do not edify, be childlike in understanding, but not childish. Let your reasoning power and maturity guide you, distinguishing between good and evil. Do not be like children who engage in idle pursuits, but be free from malice towards others. Instead, be innocent and pure in heart, avoiding envy, rivalry, and jealousy. By cultivating a mature understanding, you will be able to discern the true value and worthiness of spiritual gifts, rather than being captivated by external displays.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 2.0000584208787426,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+        "commentatorTierSimilarities": [
+            25.66,
+            37.15,
+            37.19
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "With this exhortation he concludes this part of his argument, in which he reproves the folly of displaying and being anxious for a gift in which there was no edification.",
+            "The address, Brethren, carries with it kindness and meekness.",
+            "In your understanding, as this preference would shew you to be."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Brethren\u2014an appellation calculated to conciliate their favorable reception of his exhortation.",
+            "children in understanding\u2014as preference of gifts abused to nonedification would make you.",
+            "Be childlike, not childish."
+        ],
+        "Albert Barnes": [
+            "Your admiration of a foreign language and of the ability to speak it, is of as little solid value as the common sports and plays of boys.",
+            "Much, alas! very much of that which engages the attention of Christians is just as unworthy of the dignity of the mind, and of their immortal nature, as were the aims and desires which the apostle rebuked among the Christians at Corinth.",
+            "Be as free from malice, from any ill-will toward others, from envy, and every improper passion, as they are."
+        ],
+        "Marvin Vincent": [
+            "Understanding - Only here in the New Testament. Originally, in a physical sense, the diaphragm. Denoting the reasoning power on the reflective side, and perhaps intentionally used instead of nouv (ver. 15), which emphasizes the distinction from ecstasy.",
+            "Children - be ye children - The A.V. misses the distinction between children and babes, the stronger term for being unversed in malice. In understanding they are to be above mere children. In malice they are to be very babes.",
+            "Men - Lit., perfect."
+        ],
+        "John Calvin": [
+            "Brethren, it is necessary to guard against that childishness, which is so severely reproved by the Prophet \u2014 that the word of God sounds in your ears without any fruit.\" ",
+            "Paul anticipates this objection, and exhorts them, indeed, to be children in malice, but to beware of being children in understanding.\" ",
+            "Paul would have all believers to be, as far as possible, in full maturity as to understanding."
+        ],
+        "Philip Schaff": [
+            "Brethren, be not children in understanding 'power of judging,' howbeit in malice be children, but in understanding be men (Gr. 'perfect,' 'mature')...\" ",
+            "let your manly sense be applied to this subject, and ye will need neither direction nor persuasion from me...",
+            "to babble in an unintelligible tongue better becomes children than men; but in that malice which rivalry, envy, and jealousy beget, ye do well to be as babes."
+        ],
+        "Archibald T. Robertson": [
+            "Cease becoming children in your intellects.",
+            "In malice be ye babes.",
+            "Keep on becoming adults in your minds."
+        ],
+        "John Gill": [
+            "Brethren, be not children in understanding... their understandings were opened and enlightened; an understanding was given them... and many had been a long time in the school of Christ, and yet; after all, were children in understanding.\" ",
+            "Howbeit in malice be ye children... to be without guile and hypocrisy, without rancour and bitterness, envying and malice, but tender hearted, and ready to forgive.",
+            "But in understanding be men; or 'perfect', of ripe and full age, who have their senses exercised to discern between good and evil."
+        ],
+        "John Wesley": [
+            "Be not children in understanding - This is an admirable stroke of true oratory! to bring down the height of their spirits, by representing that wherein they prided themselves most, as mere folly and childishness.",
+            "In wickedness be ye infants - Have all the innocence of that tender age.",
+            "But in understanding be ye grown men - Knowing religion was not designed to destroy any of our natural faculties, but to exalt and improve them, our reason in particular."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Brethren, in order to prevent the folly of displaying and being anxious for gifts that do not edify, be childlike in understanding, but not childish. Let your reasoning power and maturity guide you, distinguishing between good and evil. Do not be like children who engage in idle pursuits, but be free from malice towards others. Instead, be innocent and pure in heart, avoiding envy, rivalry, and jealousy. By cultivating a mature understanding, you will be able to discern the true value and worthiness of spiritual gifts, rather than being captivated by external displays.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.0000584208787426,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                25.66,
+                37.15,
+                37.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Brethren, in order to avoid the nonedifying pursuit of gifts, be childlike in understanding, but not childish, allowing your reasoning power to guide you. Cultivate a mature understanding, discerning between good and evil. Be free from malice towards others, instead embodying innocence and purity of heart. By doing so, you will avoid envy, rivalry, and jealousy. Let your focus be on the true value and worthiness of spiritual gifts, rather than being captivated by external displays.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9252487887376328,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                26.78,
+                36.67,
+                36.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Brethren, it is important to avoid the foolishness of seeking nonedifying gifts. Instead, be childlike in your understanding but not childish, using your reasoning power to distinguish between good and evil. Embrace innocence in your hearts and forsake malice, envy, and jealousy. By cultivating a mature understanding, you can discern the true value of spiritual gifts, rather than being captivated by outward displays. Let your pursuit be for edification, focusing on what truly matters in the kingdom of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9105458282706396,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+            "commentatorTierSimilarities": [
+                27.18,
+                34.88,
+                37.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Brethren, it is crucial to avoid the folly of seeking nonedifying gifts. Instead, be childlike in understanding, rather than childish, allowing your reasoning power to guide you. Embrace innocence and purity of heart, forsaking malice, envy, and jealousy. Cultivate a mature understanding, discerning between good and evil. Do not be captivated by external displays, but focus on the true value and worthiness of spiritual gifts. Seek edification, prioritizing what truly matters in the kingdom of God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8214256713547043,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.9,
+            "commentatorTierSimilarities": [
+                27.72,
+                34.28,
+                37.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Brethren, let your pursuit be edification and not the display of nonedifying gifts. Embrace childlike understanding, but be cautious not to become childish in your approach. Allow your reasoning power to guide you, distinguishing between good and evil. Free yourselves from malice, envy, and jealousy, and instead embody innocence and purity of heart. Cultivate a mature understanding that discerns the true value of spiritual gifts, rather than being captivated by external showmanship. Focus on what truly matters in the kingdom of God, seeking growth and edification.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.8610741952306329,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                26.75,
+                35.62,
+                37.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

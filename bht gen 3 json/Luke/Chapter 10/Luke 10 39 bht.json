@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:17:55",
+    "verseRef": "Luke 10:39",
+    "bestBHT": {
+        "bht": "Mary sat at the Lord's feet, as His disciple, while Martha was busy preparing the meal. Mary, in contrast to Martha, was focused on listening to Jesus' words, demonstrating her eagerness, affection, and diligence as a disciple. The act of sitting at the feet of a teacher was a customary posture for learners, symbolizing humility and a desire to learn. Mary's decision to be a disciple of Jesus in this way showcased her deep affection for Him and her close attention to His teachings.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 2.395194197258727,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.98,
+        "commentatorTierSimilarities": [
+            25.52,
+            36.77,
+            37.71
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Mary sat at the Lord\u2019s feet, as His disciple.",
+            "She was busy about preparing it [the meal].",
+            "Martha was busy about preparing it [the meal]."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "who for her part,\" in contrast with Martha.",
+            "From the custom of sitting beneath an instructor, the phrase 'sitting at one's feet' came to mean being a disciple of any one.",
+            "kept listening\" to His word."
+        ],
+        "Albert Barnes": [
+            "Sat at Jesus' feet - This was the ancient posture of disciples or learners.",
+            "They sat at the 'feet' of their teachers - that is, beneath them, in a humble place.",
+            "When it is said that Mary sat at Jesus' feet, it means that she was 'a disciple' of his; that she listened attentively to his instructions, and was anxious to learn his doctrine."
+        ],
+        "Marvin Vincent": [
+            "Sat [\u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03b8\u03b5\u03c3\u03b8\u03b5\u03b9\u03c3\u03b1] . Only here in New Testament. Lit., sat beside [\u03c0\u03b1\u03c1\u03b1] ."
+        ],
+        "Philip Schaff": [
+            "The woman, whose subsequent act of love was promised a memory as wide as the spread of the gospel.",
+            "Sat down at the Lord\u2019s feet. Not as He reclined at table, for the meal was not yet ready, but as a willing disciple."
+        ],
+        "Archibald T. Robertson": [
+            "\u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03b8\u03b5\u03c3\u03b8\u03b5\u03b9\u03c3\u03b1...to sit beside...right in front of the feet of Jesus.\" ",
+            "It is not clear what the point is in \u03ba\u03b1 here. It may mean that Martha loved to sit here also as well as Mary.",
+            "She took her seat by the feet of Jesus and went on listening to his talk."
+        ],
+        "John Gill": [
+            "Which also sat at Jesus' feet; was a disciple of his...\" ",
+            "The phrase is expressive of her great affection for Christ, her humble deportment, and close attention.\" ",
+            "Mary heard him with great eagerness and diligence, affection, pleasure, and profit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary sat at the Lord's feet, as His disciple, while Martha was busy preparing the meal. Mary, in contrast to Martha, was focused on listening to Jesus' words, demonstrating her eagerness, affection, and diligence as a disciple. The act of sitting at the feet of a teacher was a customary posture for learners, symbolizing humility and a desire to learn. Mary's decision to be a disciple of Jesus in this way showcased her deep affection for Him and her close attention to His teachings.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.395194197258727,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.98,
+            "commentatorTierSimilarities": [
+                25.52,
+                36.77,
+                37.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary sat at the Lord's feet, as His disciple, while Martha was busy preparing the meal. Mary, in contrast to Martha, was focused on listening to Jesus' words and kept listening to His word. The phrase sitting at one's feet came to mean being a disciple, and Mary's decision to sit at Jesus' feet was an act of love, humility, and eagerness to learn. It symbolized her close attention, affection, and dedication as she eagerly and diligently absorbed the teachings of her beloved teacher.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.342628757074925,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.23,
+            "commentatorTierSimilarities": [
+                27.19,
+                35.37,
+                37.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary sat at the Lord's feet, as His disciple, while Martha prepared the meal. She sat right in front, listening attentively to His talk with great eagerness, diligence, affection, pleasure, and profit. Sitting at the feet of a teacher was the humble posture of a learner, indicating a desire to become a disciple. Mary's choice to be a disciple of Jesus, shown through her devoted attention to His teachings, highlighted her deep affection for Him and her commitment to learning from Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.2293545989659234,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.47,
+            "commentatorTierSimilarities": [
+                23.48,
+                37.02,
+                39.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary sat at the Lord's feet, as His disciple, while Martha was busy preparing the meal. By sitting at Jesus' feet, Mary demonstrated her affection, pleasure, and eagerness to learn. This position symbolized humility and a willingness to be a disciple. Mary's devoted attention and diligent listening to Jesus' words showcased her deep affection for Him and her commitment to understanding His teachings. Her act of sitting at His feet as a disciple reflected her desire to grow spiritually and receive wisdom directly from her beloved teacher.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.2254420344649306,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.34,
+            "commentatorTierSimilarities": [
+                23.7,
+                35.8,
+                40.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary sat at the Lord's feet, as His disciple, while Martha busied herself with meal preparations. In contrast to Martha, Mary's choice to sit at Jesus' feet indicated her eagerness to absorb His teachings. This posture symbolized humility and a willingness to learn, as learners traditionally sat at the feet of their teachers. Mary's attentive listening showcased her affection for Christ and her commitment to gaining spiritual insight from Him. By positioning herself as a devoted disciple, Mary demonstrated her deep affection, humility, and dedication to learning from Jesus.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.234572963086429,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.64,
+            "commentatorTierSimilarities": [
+                25.39,
+                36.8,
+                37.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:24:31",
+    "verseRef": "Luke 24:44",
+    "bestBHT": {
+        "bht": "While I was yet with you, I spoke about the Son of man being put to death and rising again, even though it may have seemed unclear at the time. The Old Testament Scriptures, divided into the Law, Prophets, and Psalms, contained prophecies and types that pointed towards my purpose and the fulfillment of what was written. This fulfillment was not an unexpected event but rather a realization of the words I had previously spoken. It is important to remember and embrace these words as a unified message from God.",
+        "wordCount": 90,
+        "quoteTokenProportion": 52.86,
+        "qualityScore": 1.7880943069346102,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+        "commentatorTierSimilarities": [
+            23.77,
+            36.92,
+            39.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Certainly, from the form of the beginning of this verse, which implies immediate sequence, St. Luke, at the time of writing his Gospel, was not in possession of records of any Galil\u00e6an appearances of the Lord.",
+            "That he corrects this in Acts i., shews him meantime to have become acquainted with some other sources of information, not however perhaps including the Galil\u00e6an appearances.",
+            "This threefold division of the O.T. is the ordinary Jewish one, into the Law, Prophets, and Hagiographa."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Now you will understand what seemed so dark to you when I told you about the Son of man being put to death and rising again.",
+            "While...yet with you - a striking expression, implying that He was now, as the dead and risen Saviour, virtually dissevered from this scene of mortality, and from all ordinary intercourse with His mortal disciples.",
+            "Law...prophets...psalms - the three Jewish divisions of the Old Testament Scriptures."
+        ],
+        "Albert Barnes": [
+            "While I was yet with you - Before my death. While I was with you as a teacher and guide.",
+            "In the law of Moses - The five books of Moses - Genesis, Exodus, Leviticus, Numbers, Deuteronomy.",
+            "The psalms - The word here used probably means what were comprehended under the name of 'Hagiographa,' or holy writings."
+        ],
+        "Marvin Vincent": [
+            "The words. The best texts insert my. ",
+            "Must [\u03b4\u03b5\u03b9] . See on ought not, ver. 26."
+        ],
+        "John Calvin": [
+            "Why do you hesitate as if this had been a new and unexpected occurrence, while it is only what I frequently predicted to you? Why do you not rather remember my words?\" ",
+            "Christ tacitly complains that his labor has been thrown away on the apostles since his instruction has been forgotten.\" ",
+            "Nothing could have been more unreasonable than not to embrace readily what they knew to have undoubtedly proceeded from God; for it was a principle admitted by the whole nation, that there was no religion but what was contained in the Law and the Prophets."
+        ],
+        "Philip Schaff": [
+            "These are my words. These things which I thus prove to you are the realization of my words.",
+            "In the law of Moses, and the prophets, and the Psalms. The Jews divided the Old Testament into Law, Prophets, and Hagiographa.",
+            "The original indicates that our Lord thus speaks of the Old Testament to show that in all its parts there was a prophetic unity."
+        ],
+        "Archibald T. Robertson": [
+            "While I was yet with you (\u03b5\u03c4 \u03c9\u03bd \u03c3\u03c5\u03bd \u03c5\u03bc\u03b9\u03bd). Literally,",
+            "Being yet with you . The participle \u03c9\u03bd takes the time of the principal verb. "
+        ],
+        "John Gill": [
+            "These are the words which I spake unto you,.... Or this is the substance of them, the sense and meaning of them.",
+            "That all things must be fulfilled, which were written in the law of Moses, and in the Prophets, and in the Psalms, concerning me.",
+            "He refers to what he had said to his disciples in Matthew 16:21 and alludes to the usual distinction among the Jews of the books of the Old Testament into the Law, the Prophets, and the Hagiographa."
+        ],
+        "John Wesley": [
+            "In the law, and the prophets, and the psalms \u2014 The prophecies as well as types, relating to the Messiah, are contained either in the books of Moses (usually called the law) in the Psalm, or in the writings of the prophets.",
+            "Little being said directly concerning him in the historical books.",
+            "The prophecies as well as types, relating to the Messiah, are contained either in the books of Moses, in the Psalms, or in the writings of the prophets."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "While I was yet with you, I spoke of the Son of man being put to death and rising again, though it seemed dark and incomprehensible to you at the time. The threefold division of the Old Testament into the Law, Prophets, and Psalms encompassed the entirety of the Scriptures that foretold and foreshadowed my coming and purpose. It is important to understand that what has happened to me is not a new or unexpected occurrence, but rather the fulfillment of what was written in the Law of Moses, the Prophets, and the Psalms. These words were not spoken lightly, but were intended to be remembered and embraced readily as a unified message from God.",
+            "wordCount": 115,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 1.959008175581746,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                22.3,
+                36.84,
+                40.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During my time with you, I spoke of my coming death and resurrection, which may have seemed perplexing to you. The Old Testament scriptures, divided into the Law, Prophets, and Psalms, contained prophecies and types that foretold my purpose and fulfillment. The fulfillment of these prophecies, written in the Law of Moses, the Prophets, and the Psalms, is not a new occurrence but rather the realization of what I had foretold. It is crucial to remember and readily embrace these words as a unified message from God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.9124442268535482,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                19.76,
+                38.47,
+                41.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While I was yet with you, I spoke about the Son of man being put to death and rising again, even though it may have seemed unclear at the time. The Old Testament Scriptures, divided into the Law, Prophets, and Psalms, contained prophecies and types that pointed towards my purpose and the fulfillment of what was written. This fulfillment was not an unexpected event but rather a realization of the words I had previously spoken. It is important to remember and embrace these words as a unified message from God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 52.86,
+            "qualityScore": 1.7880943069346102,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                23.77,
+                36.92,
+                39.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During my time with you, I spoke about the Son of man being put to death and rising again, even though it may have seemed unclear. The Old Testament Scriptures, divided into the Law, Prophets, and Psalms, contained prophecies and types pertaining to my purpose. The fulfillment of these writings was not unexpected, but rather a realization of my earlier words. It is essential to remember and embrace these words, as they reveal a unified message from God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.8220596101993976,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.93,
+            "commentatorTierSimilarities": [
+                23.5,
+                36.28,
+                40.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During my time with you, I spoke of the Son of man being put to death and rising again, though it seemed dark and incomprehensible to you at the time. The threefold division of the Old Testament into the Law, Prophets, and Psalms encompassed the entirety of the Scriptures that foretold and foreshadowed my coming and purpose. It is important to understand that what has happened to me is not a new or unexpected occurrence, but rather the fulfillment of what was written. These words were not spoken lightly, but were intended to be remembered and embraced readily as a unified message from God.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.7714602135144735,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                24.15,
+                35.16,
+                40.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

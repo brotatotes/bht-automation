@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:19:43",
+    "verseRef": "Luke 13:35",
+    "bestBHT": {
+        "bht": "During Jesus' entry into Jerusalem, the multitude exclaimed Blessed is he that cometh in the name of the Lord. However, there may have been a misunderstanding regarding this declaration's true fulfillment. Rather, it is more likely that Jesus lamented over the impending fate of the holy city. He foretold that their house would be left desolate, signifying its irreversible desolation and impending destruction. In due time, they would no longer see Jesus until their calamities taught them to acknowledge, Blessed is he that cometh in the name of the Lord.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.77,
+        "qualityScore": 1.418642622888491,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.51,
+        "commentatorTierSimilarities": [
+            32.76,
+            31.65,
+            35.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That the very words, Blessed is he that cometh in the name of the Lord, were used by the multitude at the Lord\u2019s entry into Jerusalem.",
+            "I should much rather ascribe to a misunderstanding by them and the disciples of this very declaration.",
+            "Than for a moment suppose, as some have done, that these words found any sufficient fulfilment in that entry."
+        ],
+        "Philip Schaff": [
+            "The word translated \u2018desolate\u2019 is omitted by the best authorities, but \u2018forsaken\u2019 may be supplied to bring out the entire sense of the rest of the clause.",
+            "\u2018Henceforth,\u2019 which in Matthew marks the beginning of the desolation at that moment, is not found here. These little things show that this was spoken at an earlier time.",
+            "It is far more natural to suppose that already our Lord mourned over the impending fate of the holy city."
+        ],
+        "John Gill": [
+            "Behold, your house is left unto you desolate....\" ",
+            "Ye shall not see me... until the time come; when ye shall say, blessed is he that cometh in the name of the Lord...",
+            "When Christ shall come a second time, and every eye shall see him, these Jews, among the rest, shall behold him, whom they have pierced, and mourn..."
+        ],
+        "John Wesley": [
+            "Your house is left to you desolate \u2014 Is now irrecoverably consigned to desolation and destruction...\" [Luke 13:35]",
+            "And verily I say to you, after a very short space, ye shall not see me till the time come, when taught by your calamities, ye shall be ready and disposed to say, Blessed is he that cometh in the name of the Lord.\" [Luke 13:35]",
+            "It does not imply, that they should then see Jesus at all; but only that they would earnestly wish for the Messiah, and in their extremity be ready to entertain any who should assume that character.\" [Luke 13:35]"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words Blessed is he that cometh in the name of the Lord were used by the multitude at Jesus' entry into Jerusalem, but some believe that there was a misunderstanding by them and the disciples about the true meaning of this declaration. Instead of finding fulfillment in that entry, it is more likely that Jesus mourned over the impending fate of the holy city. He proclaimed that their house would be left desolate, indicating its irrecoverably dire state and impending destruction. After a short period of time, they would not see Jesus until they were taught by their calamities and ready to say, Blessed is he that cometh in the name of the Lord. This does not mean they would actually see Jesus, but that they would earnestly wish for the Messiah and be ready to entertain anyone who would assume that character.",
+            "wordCount": 144,
+            "quoteTokenProportion": 45.88,
+            "qualityScore": 1.5591641154950815,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.18,
+            "commentatorTierSimilarities": [
+                33.24,
+                28.63,
+                38.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The words Blessed is he that cometh in the name of the Lord were used by the multitude at Jesus' entry into Jerusalem. However, there may have been a misunderstanding regarding the true meaning of this declaration. Instead of finding fulfillment in that entry, Jesus mourned over the impending fate of the holy city, proclaiming that their house would be left desolate, indicating its irrecoverably dire state and impending destruction. After a short period of time, they would no longer see Jesus until their calamities taught them to be ready to say, Blessed is he that cometh in the name of the Lord.",
+            "wordCount": 103,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.5732477861451752,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                37.54,
+                28.54,
+                33.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The multitude exclaimed Blessed is he that cometh in the name of the Lord during Jesus' entry into Jerusalem. However, there might have been a misunderstanding about its true fulfillment, as it is more likely that Jesus mourned the impending fate of the holy city. He warned that their house would be left desolate, signifying its irreversible desolation and impending destruction. In a short time, they would no longer see Jesus until their calamities taught them to acknowledge, Blessed is he that cometh in the name of the Lord.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.5526118951243792,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.97,
+            "commentatorTierSimilarities": [
+                29.7,
+                32.25,
+                38.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The declaration Blessed is he that cometh in the name of the Lord was used by the multitude during Jesus' entry into Jerusalem. Nevertheless, there could have been a misunderstanding of its true fulfillment. It is more likely that Jesus mourned the impending fate of the holy city and warned that their house would be left desolate, indicating its irreversible desolation and imminent destruction. In a short time, they would no longer see Jesus until their calamities taught them to acknowledge, Blessed is he that cometh in the name of the Lord.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.4942833775328923,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.03,
+            "commentatorTierSimilarities": [
+                33.55,
+                30.52,
+                35.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During Jesus' entry into Jerusalem, the multitude exclaimed Blessed is he that cometh in the name of the Lord. However, there may have been a misunderstanding regarding this declaration's true fulfillment. Rather, it is more likely that Jesus lamented over the impending fate of the holy city. He foretold that their house would be left desolate, signifying its irreversible desolation and impending destruction. In due time, they would no longer see Jesus until their calamities taught them to acknowledge, Blessed is he that cometh in the name of the Lord.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.418642622888491,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.51,
+            "commentatorTierSimilarities": [
+                32.76,
+                31.65,
+                35.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

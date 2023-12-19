@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:29:39",
+    "verseRef": "1 Timothy 6:12",
+    "bestBHT": {
+        "bht": "Strive the good strife of the faith, contending and making the good confession that every servant of Christ must make. Fight the good fight, with such striving earnestness that you lay hold on the prize, eternal life. By calling this fight good, it encourages you with the assurance of success and animates you to persevere, knowing that God has called you and will not leave your labor fruitless. This fight of faith is a state of warfare, and as a soldier, do not entangle yourself with the things of this life.",
+        "wordCount": 91,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.3003203785892277,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.83,
+        "commentatorTierSimilarities": [
+            33.18,
+            30.64,
+            36.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Strive the good strife of the faith... the noble conflict which the faith entails on him.\" ",
+            "Lay hold upon eternal life, to which thou wast called... while doing so, endeavor to attain.",
+            "Confess the good confession of faith in Christ... the confession, which every servant of Christ must make."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Fight the good fight...the 'good profession' is connected with the good fight.",
+            "Fight (literally, 'strive') with such striving earnestness as to lay hold on the prize, eternal life.",
+            "didst confess THE good confession...the confession that Christ's kingdom is the kingdom of the truth."
+        ],
+        "Albert Barnes": [
+            "Fight the good fight of faith - The noble conflict in the cause of religion.",
+            "Seize this as eagerly as the competitors at the Grecian games laid hold on the prize.",
+            "One of the best ways of stimulating ourselves or others to the faithful performance of duty, is the remembrance of the vows then made."
+        ],
+        "Marvin Vincent": [
+            "Fight the good fight. Not necessarily a metaphor from the gymnasium or arena, although a contest was applied originally to athletic struggles. But it is also used of any struggle, outward or inward.",
+            "Lay hold. Frequent in Luke and Acts. Occasionally in this strong sense, but not usually.",
+            "Professed a good profession. Rend. confessed the good confession. It is important to preserve the force of the article, a point in which the A. V. is often at fault."
+        ],
+        "John Calvin": [
+            "For the purpose of encouraging him to fight such a fight courageously, he calls it good; that is, successful, and therefore not to be shunned.",
+            "When he commands them to 'lay hold on [eternal life],' he forbids them to pause or slacken in the middle of their course; as if he had said, that 'nothing has been done, till we have obtained the life to come, to which God invites us.'",
+            "To which also thou has been called... for there is nothing that ought to animate us with greater courage than to learn that we have been 'called' by God; for we conclude from this, that our labor, which God directs, and in which he stretches out his hand to us, will not be fruitless."
+        ],
+        "Philip Schaff": [
+            "Fight the good fight of faith...the conflict of the faith.\" ",
+            "Lay hold on eternal life...one vigorous act.",
+            "Didst confess the good confession...something analogous to our Lord's good confession before Pilate."
+        ],
+        "Archibald T. Robertson": [
+            "Fight the good fight (\u03b1\u03b3\u03c9\u03bd\u03b9\u03b6\u03bf\u03c5 \u03c4\u03bf\u03bd \u03ba\u03b1\u03bb\u03bf\u03bd \u03b1\u03b3\u03c9\u03bd\u03b1).\" ",
+            "Lay hold on (\u03b5\u03c0\u03b9\u03bb\u03b1\u03b2\u03bf\u03c5). Second (ingressive) aorist middle imperative of \u03b5\u03c0\u03b9\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9, 'get a grip on.'",
+            "Thou wast called (\u03b5\u03ba\u03bb\u03b7\u03b8\u03b7\u03c2). First aorist passive of \u03ba\u03b1\u03bb\u03b5\u03c9 as in 1 Corinthians 1:9; Colossians 3:15."
+        ],
+        "John Gill": [
+            "His life was a state of warfare; he was a soldier, and was not to entangle himself with the things of this life.",
+            "This fight is called 'the fight of faith'; partly in opposition to the law and to the fight or war of the law that the Jews so much talk of.",
+            "Those who are engaged in this fight may be sure of victory, and the crown of glory, life, and righteousness."
+        ],
+        "John Wesley": [
+            "Fight the good fight of faith \u2014 Not about words.",
+            "Lay hold on eternal life \u2014 Just before thee.",
+            "Thou hast confessed the good confession before many witnesses \u2014 To which they all assented."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Strive in the noble conflict of faith, contending and making the good confession that every servant of Christ must make. Fight with such earnestness and endeavor to attain eternal life, to which you were called. Lay hold on the prize, seizing it eagerly like the competitors at the Grecian games. Remember the vows made and do not pause or slacken in your course until you have obtained the life to come. By calling this fight good, it encourages you with the assurance of success and animates you to persevere, knowing that God has called you and will not leave your labor fruitless. This fight of faith is a state of warfare, and as a soldier, do not entangle yourself with the things of this life. But be confident, for those who engage in this fight are sure of victory and the crown of glory, life, and righteousness.",
+            "wordCount": 147,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.0849325878843947,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                30.27,
+                32.44,
+                37.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Strive in the noble conflict of faith, contending and making the good confession that every servant of Christ must make. Fight with such earnestness and endeavor to attain eternal life, to which you were called. By calling this fight good, it encourages you to persevere, knowing that God has called you and will not leave your labor fruitless. This fight of faith is a state of warfare, and as a soldier, do not entangle yourself with the things of this life. But be confident, for those who engage in this fight are sure of victory and the crown of glory, life, and righteousness.",
+            "wordCount": 103,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 2.1839854214843735,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.96,
+            "commentatorTierSimilarities": [
+                31.26,
+                30.23,
+                38.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Strive in the noble conflict of faith, contending and making the good confession that every servant of Christ must make. Fight with such striving earnestness to lay hold on the prize, eternal life. By calling this fight good, it encourages you with the assurance of success and animates you to persevere, knowing that God has called you and will not leave your labor fruitless. This fight of faith is a state of warfare, and as a soldier, do not entangle yourself with the things of this life.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.262000355211687,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.55,
+            "commentatorTierSimilarities": [
+                32.35,
+                31.73,
+                35.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Strive the good strife of the faith, contending and making the good confession that every servant of Christ must make. Fight the good fight, with such striving earnestness that you lay hold on the prize, eternal life. By calling this fight good, it encourages you with the assurance of success and animates you to persevere, knowing that God has called you and will not leave your labor fruitless. This fight of faith is a state of warfare, and as a soldier, do not entangle yourself with the things of this life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.3003203785892277,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.83,
+            "commentatorTierSimilarities": [
+                33.18,
+                30.64,
+                36.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Strive in the noble conflict of faith, contending and making the good confession that every servant of Christ must make. Fight with such striving earnestness as to lay hold on the prize, eternal life. By calling this fight good, it encourages you with the assurance of success and animates you to persevere, knowing that God has called you and will not leave your labor fruitless. This fight of faith is a state of warfare, and as a soldier, do not entangle yourself with the things of this life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.259590541493024,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.47,
+            "commentatorTierSimilarities": [
+                32.41,
+                31.63,
+                35.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

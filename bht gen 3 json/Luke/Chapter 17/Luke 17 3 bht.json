@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:20:49",
+    "verseRef": "Luke 17:3",
+    "bestBHT": {
+        "bht": "Love begins with speaking truth. In the Church, the love of many being weak and cold is the reason for offenses. Take heed to yourselves, for as new converts are enthusiastic, they may stumble themselves and others. Be cautious in your spirits, doctrines, walk, and conversation, so as not to give offense or be stumbled by others. When your brother sins, lay his sin before him with gentleness and respect, dropping all resentment and anger. This should be done immediately, as soon as a person repents.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.5623586236143003,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+        "commentatorTierSimilarities": [
+            23.58,
+            33.87,
+            42.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Love begins with speaking truth.",
+            "In the Church, as in the world, the love of many waxing cold,\u2014not being strong or warm enough for this rebuke,\u2014is the cause why offences abound."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3, 4. (See on :-; :-)."
+        ],
+        "Marvin Vincent": [
+            "Rebuke. See on straitly charged, ch. 9 21."
+        ],
+        "Philip Schaff": [
+            "Take heed to yourselves. Precisely this class needed this caution.",
+            "For as they had been so lately sinners they would be most likely to give occasion of stumbling.",
+            "And as new converts of this class are enthusiastic, they would readily stumble themselves."
+        ],
+        "Archibald T. Robertson": [
+            "If thy brother sin (\u03b5\u03b1\u03bd \u03b1\u03bc\u03b1\u03c1\u03c4\u03b7). Second aorist (ingressive) subjunctive in condition of third class. "
+        ],
+        "John Gill": [
+            "Take heed to your spirits, to your doctrines, walk, and conversation, that you give no offence to any, that you are not stumbled by what you shall see in, and meet with from others.",
+            "Lay his sin before him; endeavor not only to convince him of the fact, but of the evil of it; how contrary to the will of God; how unbecoming the Gospel of Christ, and the profession he makes.",
+            "Drop all resentment and anger, and behave towards him with all sweetness of temper, and affability, and respect: and this is to be done immediately, as soon as a man repents."
+        ],
+        "John Wesley": [
+            "Take heed to yourselves \u2014 That ye neither offend others, nor be offended by others. Matthew 18:15."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Love begins with speaking truth. In the Church, the love of many being weak and cold is the reason for offenses. Take heed to yourselves, for as new converts are enthusiastic, they may stumble themselves and others. Be cautious in your spirits, doctrines, walk, and conversation, so as not to give offense or be stumbled by others. When your brother sins, lay his sin before him with gentleness and respect, and drop all resentment and anger. This should be done immediately, as soon as a person repents. Take heed to yourselves, that you neither offend others, nor be offended by others.",
+            "wordCount": 101,
+            "quoteTokenProportion": 51.35,
+            "qualityScore": 1.5699679939789606,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                20.25,
+                29.76,
+                49.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Love begins with speaking truth. In the Church, the love of many being weak and cold is the reason for offenses. Take heed to yourselves, for as new converts are enthusiastic, they may stumble themselves and others. Be cautious in your spirits, doctrines, walk, and conversation, so as not to give offense or be stumbled by others. When your brother sins, lay his sin before him with gentleness and respect, dropping all resentment and anger. This should be done immediately, as soon as a person repents.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5623586236143003,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                23.58,
+                33.87,
+                42.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Love begins with truth. In the Church, a lack of fervent love leads to offenses. Take heed to yourselves, especially if you were recently sinners, as you are more likely to cause stumbling. As new converts, your enthusiasm can make you prone to stumbling. Be cautious in your words and actions so as not to offend or be offended. When your brother sins, gently confront him and show him the error of his ways. Let go of resentment and respond with kindness and respect.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4756256837563333,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.41,
+            "commentatorTierSimilarities": [
+                20.83,
+                32.35,
+                46.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Love begins with speaking truth. In the Church, the love of many being weak and cold is the reason for offenses. Take heed to yourselves, for as new converts are enthusiastic, they may stumble themselves and others. Be cautious in your spirits, doctrines, walk, and conversation, so as not to give offense or be stumbled by others. When your brother sins, lay his sin before him with gentleness and respect, dropping all resentment and anger. This should be done immediately, as soon as a person repents.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5623586236143003,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                23.58,
+                33.87,
+                42.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Love begins with speaking truth and in the Church, the love of many being weak and cold is the reason for offenses. Take heed to yourselves, for as new converts are enthusiastic, they may stumble themselves and others. Be cautious in your words and actions so as not to give offense or be stumbled by others. Confront your brother's sin with gentleness and respect, letting go of resentment and responding with kindness. Immediate action should be taken when a person repents, ensuring that you neither offend others nor be offended by them.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.6005647038135051,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+            "commentatorTierSimilarities": [
+                17.97,
+                28.27,
+                53.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

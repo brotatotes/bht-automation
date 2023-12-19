@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:26:00",
+    "verseRef": "Acts 4:5",
+    "bestBHT": {
+        "bht": "The Sanhedrim, comprising the rulers, elders, and scribes, gathers together for a meeting. This assembly of religious and political leaders reflects their desire to snuff out the gospel and the name of Christ. However, their plans are thwarted by the sudden fear that the Lord brings upon them, restraining their actions out of concern for the people's opinion. The disciples, under the custody of these ecclesiastical rulers, remain imprisoned throughout the night. The Sanhedrim, consisting of 71 individuals known for their power, wisdom, and learning, are unable to carry out their malevolent intentions.",
+        "wordCount": 93,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.5587318659247562,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.17,
+        "commentatorTierSimilarities": [
+            22.17,
+            33.93,
+            43.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The rulers, elders, and scribes together make up the Sanhedrim, or great council.",
+            "A construction frequently used where there can be little chance of mistaking to whom or what the pronoun refers.",
+            "See Matt. ii. 4; xxvi. 59; ch. v. 21."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. their rulers, &amp;c.\u2014This",
+            "\twas a regular meeting of the Sanhedrim (see on :-)."
+        ],
+        "John Calvin": [
+            "It is a thing worthy to be noted in this place, that the wicked do omit no subtilty that they may blot out the gospel and the name of Christ, and yet do they not obtain that which they hoped for.",
+            "But the Lord bringeth upon them a sudden fear, so that they dare not do that which they can, and which they do most of all desire.",
+            "And therefore there is no place left for the truth. Yet we see how the Lord bringeth their counsel to nought, whilst that being kept back with fear of the people, they stay themselves and bridle their fury, to the end they may avoid envy."
+        ],
+        "Philip Schaff": [
+            "The Sanhedrim is then further described as consisting of three orders: (1.) Elders. (2.) Scribes. (3.) Annas the high priest . . . and as many as were of the kindred of the high priest.",
+            "These chief priests included the reigning high priest, with others of his house who had borne the title, and possibly also the heads of the twenty-four courses of priests.",
+            "Each of these three orders is represented in the meeting of the Sanhedrim recounted in this passage."
+        ],
+        "Archibald T. Robertson": [
+            "Rulers and elders and scribes. The three classes composing the Sanhedrin.",
+            "Rulers = chief priests who were Sadducees, the scribes usually Pharisees, the elders not in either class.",
+            "Gathered together. First aorist passive infinitive of \u03c3\u03c5\u03bd\u03b1\u03b3\u03c9 with accusative of general reference and the subject of \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf."
+        ],
+        "John Gill": [
+            "The disciples being kept in custody all night.\" ",
+            "Their ecclesiastical rulers; the chief priests, who, with the Scribes, and elders of the people, made up the great council at Jerusalem.\" ",
+            "Consisting of seventy one persons, so they are called in Matthew 26:3."
+        ],
+        "John Wesley": [
+            "Rulers, and elders, and scribes \u2014 Who were eminent for power, for wisdom, and for learning."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The rulers, elders, and scribes make up the Sanhedrim, or great council. This meeting of the Sanhedrim demonstrates the wickedness of those who seek to erase the gospel and the name of Christ, yet the Lord brings upon them a sudden fear. Though they desire to carry out their plans, they are restrained by the fear of the people. This fear and the power of the Lord thwart their evil intentions, ultimately bringing their counsel to nothing. The disciples, under the custody of these ecclesiastical rulers, are kept in custody all night. The Sanhedrim is composed of seventy one persons, consisting of rulers, elders, and scribes who are known for their power, wisdom, and learning.",
+            "wordCount": 115,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.6793464299893488,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.18,
+            "commentatorTierSimilarities": [
+                24.11,
+                31.19,
+                44.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Sanhedrim, comprising the rulers, elders, and scribes, gathers together for a meeting. This assembly of religious and political leaders reflects their desire to snuff out the gospel and the name of Christ. However, their plans are thwarted by the sudden fear that the Lord brings upon them, restraining their actions out of concern for the people's opinion. The disciples, under the custody of these ecclesiastical rulers, remain imprisoned throughout the night. The Sanhedrim, consisting of 71 individuals known for their power, wisdom, and learning, are unable to carry out their malevolent intentions.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5587318659247562,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.17,
+            "commentatorTierSimilarities": [
+                22.17,
+                33.93,
+                43.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rulers, elders, and scribes assemble as the Sanhedrim, the great council. Their gathering reveals an attempt to eradicate the gospel and the name of Christ. However, the Lord instills sudden fear in them, hindering their ability to accomplish their goal. The disciples, held in custody by these religious and political leaders, remain imprisoned overnight. The Sanhedrim, consisting of 71 individuals renowned for their authority, wisdom, and knowledge, faces futility in their efforts to carry out their wicked plans.",
+            "wordCount": 78,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.4777683521729168,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.48,
+            "commentatorTierSimilarities": [
+                21.48,
+                31.45,
+                47.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Sanhedrim, comprised of rulers, elders, and scribes, convenes a meeting in an effort to undermine the gospel and erase the name of Christ. Yet their scheming is thwarted by the sudden fear that the Lord instills in them, causing them to restrain their actions. Hence, they are unable to achieve their desired outcome. Meanwhile, the disciples find themselves imprisoned under the custody of these religious leaders. This Sanhedrim, consisting of 71 individuals esteemed for their power, wisdom, and knowledge, is ultimately rendered impotent in its nefarious intentions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3937475027879596,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.69,
+            "commentatorTierSimilarities": [
+                19.17,
+                34.04,
+                46.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rulers, elders, and scribes compose the Sanhedrim, or the great council. With their primary aim of extinguishing the gospel and eradicating the name of Christ, they strive to carry out their devious plans. However, their efforts are rendered futile as the Lord instills a sudden fear in them, preventing them from achieving their desired outcome. Consequently, they find themselves compelled to withhold their actions due to the fear of public backlash. Meanwhile, the disciples remain imprisoned under the custody of these religious authorities, awaiting their fate.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.3075223964484741,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.82,
+            "commentatorTierSimilarities": [
+                21.03,
+                28.56,
+                50.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

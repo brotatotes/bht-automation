@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:21:41",
+    "verseRef": "Luke 19:34",
+    "bestBHT": {
+        "bht": "After receiving instructions from Christ, the disciples repeated exactly what He had said, and it had the intended effect. The owners of the colt allowed both the disciples and the colt to go just as Christ had predicted.",
+        "wordCount": 38,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 1.1021190480879175,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.99,
+        "commentatorTierSimilarities": [
+            0.0,
+            20.49,
+            79.51
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The best authorities insert after they said a word which may either be a sign of quotation, or mean \u2018because.\u2019\" ",
+            "The last clause of Luke 19:31 corresponds exactly, and the translation must be the same in both cases, though the sense is not affected."
+        ],
+        "John Gill": [
+            "They used the words Christ directed them to, and it had the effect he said it would.\" ",
+            "The owners both let them go, and the colt with them directly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After receiving instructions from Christ, the disciples repeated exactly what He had said, and it had the intended effect. The owners of the colt allowed both the disciples and the colt to go just as Christ had predicted.",
+            "wordCount": 38,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 1.1021190480879175,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.99,
+            "commentatorTierSimilarities": [
+                0.0,
+                20.49,
+                79.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus instructed his disciples to bring a colt to him, they followed his words precisely and set out to accomplish this task. Their obedience to Jesus' command had the intended result \u2013 the owners released both the disciples and the colt. This highlights the trust and faith the disciples had in Jesus' words.",
+            "wordCount": 53,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 0.926904559810386,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.16,
+            "commentatorTierSimilarities": [
+                0.0,
+                25.97,
+                74.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In fulfilling Jesus' command to bring the colt, the disciples adhered faithfully to his specific words, causing the owners to release not only them but also the colt. Their unwavering obedience underscored their trust in Jesus' instructions, which ultimately yielded the desired outcome.",
+            "wordCount": 43,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.9698194423211999,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.59,
+            "commentatorTierSimilarities": [
+                0.0,
+                29.66,
+                70.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "According to the commentators, the disciples faithfully carried out Jesus' instructions by using the exact words he directed them to speak. As a result, both the disciples and the colt were set free by the owners. This demonstrates the disciples' trust in the authority and power of Jesus' words.",
+            "wordCount": 49,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 0.9831553323875122,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.03,
+            "commentatorTierSimilarities": [
+                0.0,
+                29.43,
+                70.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In obedience to Jesus' precise instructions, the disciples uttered the words he had directed them to speak. This adherence to his command had the desired effect, leading to the owners releasing both the disciples and the colt without delay. This story highlights the disciples' faith and trust in the accuracy and efficacy of Jesus' words.",
+            "wordCount": 55,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.8696751194914365,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.26,
+            "commentatorTierSimilarities": [
+                0.0,
+                28.62,
+                71.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

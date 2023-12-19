@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:23:22",
+    "verseRef": "Luke 22:32",
+    "bestBHT": {
+        "bht": "Our Lord's prayer was not unanswered because Peter's faith failed; the word fail implies a total extinction, but Peter's faith did not suffer that. Even an Apostle's faith can completely fail. Jesus had been praying already. Though Peter's faith partially failed, Jesus urges him to use his bitter experience to strengthen his tempted brethren. The word converted means to turn around, away from sin. Jesus prays for Peter's faith to not utterly fail. This text is misused to support papal infallibility, but it speaks to personal trust in our Lord, not a system of doctrine.",
+        "wordCount": 101,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 2.1547708359226165,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.99,
+        "commentatorTierSimilarities": [
+            29.52,
+            42.27,
+            28.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It must not be supposed that our Lord\u2019s prayer was not heard, because Peter\u2019s faith did fail, in his denial; this word fail here implies a total extinction, which Peter's faith did not suffer.\" ",
+            "We may notice here, that our Lord speaks of the total failure of even an Apostle\u2019s faith, as possible.",
+            "The use of this word, and the cognate substantive, thrice by St. Peter in his two epistles... and in the first passage in a connexion with the mention of Satan\u2019s temptations, is remarkable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But I have prayed\u2014have been doing it already.\" ",
+            "Fail not\u2014that is, entirely; for partially it did fail.\" ",
+            "Make use of thy bitter experience for the fortifying of thy tempted brethren."
+        ],
+        "Albert Barnes": [
+            "That thy faith fail not - The word 'faith,' here, seems to be used in the sense of religion, or attachment to Christ, and the words 'fail not' mean 'utterly fail' or fail altogether - that is, apostatize.",
+            "It is true that the 'courage' of Peter failed; it is true that he had not that immediate confidence in Jesus and reliance on him which he had before had; but the prayer of Jesus was that he might not altogether apostatize from the faith.",
+            "A man may be 'converted or turned' from any sin, or any evil course. He is 'regenerated' but once - at the beginning of his Christian life; he may be 'converted' as often as he falls into sin."
+        ],
+        "Marvin Vincent": [
+            "Prayed [\u03b5\u03b4\u03b5\u03b7\u03b8\u03b7\u03bd] . See on prayers, ch. 5 33.\" ",
+            "Art converted [\u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03b5\u03c8\u03b1\u03c2] . Converted is simply the Latinized rendering of the word to turn round [\u03c7\u03bf\u03bd\u03c2\u03b5\u03c1\u03c4\u03b5\u03c1\u03b5] . Rev. renders the aorist participle, denoting a definite act, by once : 'when once thou hast turned again.'",
+            "Strengthen [\u03c3\u03c4\u03b7\u03c1\u03b9\u03c3\u03bf\u03bd] . See on ch. Luke 16:25, and 1 Peter 5:10. Rev., stablish, which is much better. Strengthen may denote only a temporary effect. The word implies fixedness."
+        ],
+        "Philip Schaff": [
+            "But I. Emphatic. In the consciousness of greater power than that of Satan and greater faithfulness than that of Peter.",
+            "That thy faith fail not, i.e., cease altogether. Our Lord prays, not that Peter be not tried, but that his faith should not utterly fail. It was only through this prayer that Peter\u2019s faith did not fail altogether.",
+            "This is the one and only proof text for the Vatican dogma of papal infallibility (1870), on the assumption that the promise given to Peter applies to all the popes as his successors. But (1) this assumption can never be proved; (2) \u2018faith\u2019 here as usual means personal trust in our Lord, not a system of doctrine to be believed; (3) if the passage proves anything for the popes, it would prove also that they deny their Lord, need conversion, and must strengthen their brethren which is much more than history warrants and papal infallibilists would be willing to admit."
+        ],
+        "Archibald T. Robertson": [
+            "But he could and did pray for Peter's faith and his praying won in the end, though Peter stumbled and fell.",
+            "The words single out Peter sharply.",
+            "But the use of this word implied that Peter would fall though he would come back and 'strengthen thy brethren.'"
+        ],
+        "John Gill": [
+            "Satan in his temptations strikes principally at the faith of God's people; that being a grace which gives much glory to God, and in the exercise of which believers have much peace, joy, and comfort.",
+            "Though, through the power of sin, and the force of temptation, [faith] may fail as to some degree of the steadfastness of it, as to the acting and exercise of it, and as to the sense believers may have of it; yet never as to its principle.",
+            "Christ is the advocate of his people; he prays that they might have faith, and then he prays, that it may not fail; and it shall not, notwithstanding all the opposition of hell, and earth, unto it."
+        ],
+        "John Wesley": [
+            "But I have prayed for thee \u2014 Who wilt be in the greatest danger of all: that thy faith fail not - Altogether...",
+            "...and when thou art returned - From thy flight, strengthen thy brethren - All that are weak in faith...",
+            "...perhaps scandalized at thy fall."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord's prayer was not unanswered simply because Peter's faith failed in his denial; the word fail implies a total extinction, which Peter's faith did not suffer. Our Lord speaks of the possible total failure of even an Apostle's faith. When Jesus says I have prayed, He means that He has been praying already. Though Peter's faith partially failed, Jesus exhorts him to use his bitter experience to strengthen his tempted brethren. The word converted means to turn around, to turn away from sin. Jesus prays for Peter's faith, not that he would not be tempted, but that his faith would not utterly fail. This passage is often misused to support the dogma of papal infallibility, but it actually speaks to personal trust in our Lord, not a system of doctrine to be believed.",
+            "wordCount": 140,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 2.2245090311863236,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.31,
+            "commentatorTierSimilarities": [
+                28.86,
+                42.92,
+                28.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord's prayer was not unanswered because Peter's faith failed; the word fail implies a total extinction, but Peter's faith did not suffer that. Even an Apostle's faith can completely fail. Jesus had been praying already. Though Peter's faith partially failed, Jesus urges him to use his bitter experience to strengthen his tempted brethren. The word converted means to turn around, away from sin. Jesus prays for Peter's faith to not utterly fail. This text is misused to support papal infallibility, but it speaks to personal trust in our Lord, not a system of doctrine.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.1547708359226165,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.99,
+            "commentatorTierSimilarities": [
+                29.52,
+                42.27,
+                28.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord's prayer was not ignored because Peter's faith failed. The word fail here indicates a total extinction, which did not happen to Peter's faith. Even an Apostle's faith can completely fail. Jesus had been praying already. Although Peter's faith did falter, Jesus encourages him to use his bitter experience to strengthen his tempted brethren. The term converted means to turn around, to turn away from sin. Jesus prays for Peter's faith not to utterly fail. While this passage is sometimes misused, it actually pertains to personal trust in the Lord, not a system of doctrine.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 2.1343532402719094,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.31,
+            "commentatorTierSimilarities": [
+                30.2,
+                41.5,
+                28.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord's prayer was not unanswered because Peter's faith failed; the word fail implies a total extinction, which Peter's faith did not suffer. Even an Apostle's faith can completely fail. Jesus had been praying already. Though Peter's faith partially failed, Jesus encourages him to use his bitter experience to strengthen his tempted brethren. The word converted signifies to turn around, away from sin. Jesus prays for Peter's faith not to utterly fail. This text is misused to support papal infallibility, but it actually speaks to personal trust in our Lord, rather than a system of doctrine.",
+            "wordCount": 102,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 2.136378930010977,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.38,
+            "commentatorTierSimilarities": [
+                29.59,
+                42.13,
+                28.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord's prayer was not unheard because Peter's faith failed; the word fail suggests a total extinction that did not happen to Peter's faith. It is possible for even an Apostle's faith to completely fail. Jesus had already been praying, and although Peter's faith experienced some faltering, Jesus urges him to use his bitter experience to strengthen others who are tempted. The term converted means to turn around, to turn away from sin. Jesus prays for Peter's faith not to completely fail. This passage is often misused to support papal infallibility, but it primarily refers to personal trust in our Lord, rather than a system of doctrine.",
+            "wordCount": 113,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 2.2009188565341176,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.52,
+            "commentatorTierSimilarities": [
+                28.23,
+                43.23,
+                28.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

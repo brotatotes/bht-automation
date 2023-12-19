@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 13:53:11",
+    "verseRef": "Philippians 1:30",
+    "bestBHT": {
+        "bht": "Having the same conflict as ye saw in me. In my case as its example. Conflict (\u03b1\u03b3\u03c9\u03bd\u03b1). An athletic or gladiatorial contest. The Philippians saw Paul suffer as now they have heard about it in Rome. He was a prisoner, surrounded by enemies, and about to be tried for his life. In this situation, he exhibited some of the tenderest and purest feelings that ever exist in the heart of man. They were soldiers under the same Master, and each had a share in the conflict. He is fighting for the mastery, and there are many adversaries.",
+        "wordCount": 97,
+        "quoteTokenProportion": 51.43,
+        "qualityScore": 1.6925128097056215,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+        "commentatorTierSimilarities": [
+            27.24,
+            41.22,
+            31.54
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Having the same conflict as ye saw in me.",
+            "In my case as its example.",
+            "Now hear of in me, by report of others, and by this Epistle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ye saw in me\u2014I am 'in nothing terrified by mine adversaries.'",
+            "so ought not ye.",
+            "The words here, 'ye saw . . . and . . . hear,' answer to 'I come and see you, or else . . . hear.'"
+        ],
+        "Albert Barnes": [
+            "He was a prisoner there, was surrounded by enemies, and was about to be tried for his life. He says that they ought to rejoice if they were called to pass through the same trials.",
+            "In this situation he exhibited some of the tenderest and purest feelings that ever exist in the heart of man - the genuine fruit of pure religion.",
+            "Such deadness to the world may be produced - as it was in the case of Paul; such deadness to the world should exist in the heart of every sincere Christian."
+        ],
+        "Marvin Vincent": [
+            "Conflict [\u03b1\u03b3\u03c9\u03bd\u03b1] . An athletic contest.",
+            "Ye saw. In his sufferings at Philippi, Acts 16:0, see 1 Thessalonians 2:2.",
+            "Hear. Concerning my imprisonment."
+        ],
+        "John Calvin": [
+            "He confirms, also, by his own example what he had said, and this adds no little authority to his doctrine.",
+            "By the same means, too, he shews them, that there is no reason why they should feel troubled on account of his bonds.",
+            "When they behold the issue of the conflict."
+        ],
+        "Philip Schaff": [
+            "The conflict, though called 'the same,' need not be taken to imply that the Philippians were exposed as he had been to the danger of arrest and scourging, but that they had to endure sufferings, and that their cause was the same.\" ",
+            "They were soldiers under the same Master, and each had a share in the conflict.\" ",
+            "He is fighting for the mastery, and there are many adversaries."
+        ],
+        "Archibald T. Robertson": [
+            "Conflict (\u03b1\u03b3\u03c9\u03bd\u03b1). Athletic or gladiatorial contest as in 1 Timothy 6:12; 2 Timothy 4:7. The Philippians saw Paul suffer (Acts 16:19-40; 1 Thessalonians 2:2) as now they have heard about it in Rome. "
+        ],
+        "John Gill": [
+            "Having the same conflict... which ye saw in me, and now hear [to be] in me.",
+            "when he and Silas were at Philippi, and first preached the Gospel there, they were exceedingly ill used, and shamefully entreated",
+            "to animate them to bear their sufferings patiently for Christ's sake, since the same were accomplished in him, as well as in the rest of their brethren and fellow Christians in the world."
+        ],
+        "John Wesley": [
+            "Having the same kind of conflict with your adversaries, which ye saw in me - When I was with you, Acts 16:12,19, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Having the same conflict as ye saw in me. In my case as its example. Conflict (\u03b1\u03b3\u03c9\u03bd\u03b1). An athletic or gladiatorial contest. The Philippians saw Paul suffer as now they have heard about it in Rome. He was a prisoner, surrounded by enemies, and about to be tried for his life. In this situation, he exhibited some of the tenderest and purest feelings that ever exist in the heart of man. They were soldiers under the same Master, and each had a share in the conflict. He is fighting for the mastery, and there are many adversaries.",
+            "wordCount": 97,
+            "quoteTokenProportion": 51.43,
+            "qualityScore": 1.6925128097056215,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                27.24,
+                41.22,
+                31.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having the same conflict as ye saw in me. In my case as its example. Conflict (\u03b1\u03b3\u03c9\u03bd\u03b1). The Philippians saw Paul suffer as now they have heard about it in Rome. He was a prisoner, surrounded by enemies, and about to be tried for his life. In this situation, he exhibited some of the tenderest and purest feelings that exist in the heart of man. They were soldiers under the same Master, each sharing in the conflict. He fights for mastery, against many adversaries.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.6780826680854317,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "commentatorTierSimilarities": [
+                25.53,
+                39.86,
+                34.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Having the same conflict as ye saw in me... Conflict [\u03b1\u03b3\u03c9\u03bd\u03b1]... The Philippians saw Paul suffer... In this situation, he exhibited some of the tenderest and purest feelings... They were soldiers under the same Master, each sharing in the conflict... He fights for mastery, against many adversaries. The Philippians are encouraged to rejoice in their shared suffering and to draw inspiration from Paul's example of unwavering faith and resilience amidst adversity. Like Paul, they too are called to endure the hardships and challenges that come with their commitment to Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6788981407689167,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.17,
+            "commentatorTierSimilarities": [
+                25.96,
+                41.97,
+                32.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Having the same conflict as ye saw in me... Conflict (\u03b1\u03b3\u03c9\u03bd\u03b1)... The Philippians saw Paul suffer as now they have heard about it in Rome... He fights for mastery, against many adversaries. The Philippians are urged to embrace the same kind of struggle that they witnessed in Paul's life, for they are called to endure sufferings and stand firm in their faith. Paul's example of unwavering resolve and willingness to face countless adversaries becomes a source of inspiration and encouragement for them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7436014170170524,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+            "commentatorTierSimilarities": [
+                30.11,
+                38.78,
+                31.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Having the same conflict as ye saw in me... Conflict (\u03b1\u03b3\u03c9\u03bd\u03b1)... The Philippians saw Paul suffer as now they have heard about it in Rome... He fights for mastery, against many adversaries. The Philippians are reminded of the trials and sufferings that Paul endured, both witnessed by them in person and heard about while he was in prison. They are encouraged to align themselves with the same kind of struggle and to remain steadfast in their faith, knowing that they too have adversaries to overcome.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.805009770565047,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                28.97,
+                37.33,
+                33.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

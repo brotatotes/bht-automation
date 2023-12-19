@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:12:33",
+    "verseRef": "1 Corinthians 12:13",
+    "bestBHT": {
+        "bht": "By one Spirit, we were all baptized into one Body - Jew or Greek, slave or free - and made to drink of one Spirit. This baptism, not a mere symbol, unites believers into one body, signifying the reception of the Holy Spirit. Through baptism and the inward experience of the Spirit, we are not only outwardly marked as members of Christ's body but inwardly transformed by His grace. Despite our differences, we are brought together in the spiritual unity that baptism signifies, for we all share in Christ's life.",
+        "wordCount": 90,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 2.6043358411319266,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.93,
+        "commentatorTierSimilarities": [
+            33.82,
+            31.49,
+            34.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For in one Spirit also we were all baptized into one Body, whether Jews or Greeks, whether slaves or freemen; and we all were made to drink of one Spirit.",
+            "The past tense 'we were made to drink,'...referring to a fact gone by, is fatal to both these latter interpretations.",
+            "It would be harsh to understand even 'we were made to drink into one Spirit,' and impossible to understand 'we were made to drink of one Spirit,' of the cup in the Lord's Supper."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The designed effect of baptism, which is realized when not frustrated by the unfaithfulness of man.",
+            "There is an indirect allusion to the Lord's Supper, as there is a direct allusion to baptism in the beginning of the verse.",
+            "The Spirit, the water, and the blood similarly combine the two outward signs with the inward things signified, the Spirit's grace."
+        ],
+        "Albert Barnes": [
+            "For by one Spirit - That is, by the agency or operation of the same Spirit, the Holy Spirit, we have been united into one body.",
+            "Are we all - Every member of the church, whatever may be his rank or talents, has received his endowments from the same Spirit.",
+            "And have been all made to drink ... - This probably refers to their partaking together of the cup in the Lord\u2019s Supper."
+        ],
+        "Marvin Vincent": [
+            "The reference is to the reception of the Spirit in baptism.",
+            "The verb means originally to give to drink, from which comes the sense of to water or irrigate.",
+            "Omit into before one Spirit."
+        ],
+        "John Calvin": [
+            "We are engrafted by baptism into Christ\u2019s body, so that we are by a mutual link bound together as members, and live one and the same life.",
+            "This invariably holds good \u2014 that baptism is an engrafting into the body of Christ, for God in that ordinance does not represent anything but what he is prepared to accomplish, provided we are on our part capable of it.",
+            "He teaches, therefore, that believers, so soon as they are initiated by the baptism of Christ, are already imbued with a desire of cultivating mutual unity, and then afterwards, when they receive the sacred Supper, they are again conducted by degrees to the same unity, as they are all refreshed at the same time with the same drink."
+        ],
+        "Philip Schaff": [
+            "For in (or 'by') one Spirit were we all baptized into one body.\" ",
+            "The figure of 'drinking' of the Spirit may have been suggested by the allusion to their water baptism at the time of their conversion.",
+            "Only that was external, whereas the thing here meant by the figure is internal, and in that view of it such language was familiar in the Old Testament."
+        ],
+        "Archibald T. Robertson": [
+            "Were we all baptized into one body... when each of them put on the outward badge of service to Christ, the symbol of the inward changes already wrought in them by the Holy Spirit.\" (Commentary)",
+            "And were all made to drink of one Spirit... the inward experience of the Holy Spirit symbolized by the act of baptism.\" (Commentary)"
+        ],
+        "John Gill": [
+            "the baptism of water, and of the Spirit, are two different things",
+            "there is indeed an allusion made to water baptism, but it is the grace of the Spirit in regeneration and sanctification which is here intended",
+            "all new born babes, as they desire the sincere milk of the word, so they drink of it, and are refreshed with it, and are nourished by the words of faith, and sound doctrine, under the application of the Spirit"
+        ],
+        "John Wesley": [
+            "For by that one Spirit, which we received in baptism, we are all united in one body.",
+            "Whether Jews or gentiles \u2014 Who are at the greatest distance from each other by nature.",
+            "Whether slaves or freemen \u2014 Who are at the greatest distance by law and custom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In one Spirit, we were all baptized into one Body - whether Jew or Greek, slave or free - and we all partook of the same Spirit. This baptism is not mere symbolism or a religious ritual, but a powerful act of God's grace, uniting believers into one body and marking the reception of the Holy Spirit. The use of the verb were made to drink indicates the past event of receiving the Spirit, with a subtle allusion to the Lord's Supper. Through baptism and the inward experience of the Spirit, we are not only outwardly identified as members of Christ's body, but also inwardly transformed by His grace. Despite our differences in background and status, we are brought together in the spiritual unity that baptism signifies, for we have all been engrafted into Christ and share in His life.",
+            "wordCount": 141,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 2.4372027221541126,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.38,
+            "commentatorTierSimilarities": [
+                34.74,
+                31.22,
+                34.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By one Spirit, we were all baptized into one Body - Jew or Greek, slave or free - and made to drink of one Spirit. This baptism, not a mere symbol, unites believers into one body, signifying the reception of the Holy Spirit. Through baptism and the inward experience of the Spirit, we are not only outwardly marked as members of Christ's body but inwardly transformed by His grace. Despite our differences, we are brought together in the spiritual unity that baptism signifies, for we all share in Christ's life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.6043358411319266,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.93,
+            "commentatorTierSimilarities": [
+                33.82,
+                31.49,
+                34.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In one Spirit, we were all baptized into one Body - Jew or Greek, slave or free - and we all partook of the same Spirit. This baptism, not a mere symbol, unites believers into one body, signifying the reception of the Holy Spirit. Through baptism and the experience of the Spirit, we are not only marked as members of Christ's body but transformed inwardly by His grace. Despite our differences, we are brought together in the spiritual unity that baptism signifies, for we all share in Christ's life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.592893586682906,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.55,
+            "commentatorTierSimilarities": [
+                33.09,
+                31.79,
+                35.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For in one Spirit we were all baptized into one Body, whether Jews or Greeks, whether slaves or freemen; and we all were made to drink of one Spirit. This baptism signifies our unity as believers, transcending differences in background and status. It is not just an outward act but an inward transformation by the grace of the Spirit. Through this baptism and the experience of the Spirit, we are united as members of Christ's body, sharing in His life and cultivating mutual unity among ourselves.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.387736979975763,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.73,
+            "commentatorTierSimilarities": [
+                32.2,
+                31.67,
+                36.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through one Spirit, we were all baptized into one Body, irrespective of our backgrounds or positions. This baptism is more than a symbolic act; it signifies the reception of the Holy Spirit, uniting believers into a single entity. As we partake in this baptism and experience the Spirit, we become identified as members of Christ's body and undergo inner transformation by His grace. In this way, despite our differences, we are bound together in spiritual unity, sharing in the life of Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.368841314855893,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.1,
+            "commentatorTierSimilarities": [
+                31.05,
+                33.26,
+                35.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

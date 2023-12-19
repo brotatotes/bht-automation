@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:16:26",
+    "verseRef": "Luke 8:12",
+    "bestBHT": {
+        "bht": "The devil's business is to snatch up the seed from the heart before it takes root, as the devil is successful with his auditors. He diverts minds, causing forgetfulness of the word of God, hindering faith and salvation. The spiritual battle during and after the sermon requires vigilance, guarding our hearts against the enemy's schemes. The devil is an enemy to the salvation of souls, doing all he can to hinder faith in God.",
+        "wordCount": 76,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.7974296064680662,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+        "commentatorTierSimilarities": [
+            55.33,
+            0.0,
+            44.67
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "It is the devil's business to snatch up the seed from the heart before it sprouts and takes root.",
+            "Every preacher knows how successful the devil is with his auditors.",
+            "Here is the main one, the activity of the devil during and after the preaching of the sermon."
+        ],
+        "John Gill": [
+            "The word of God, though only by accident, and very carelessly, and without understanding what they hear.",
+            "Taketh away the word out of their hearts, or memories; that little of it, which is retained there, and diverts their minds from it by other objects; so that they quite forget what they have heard.",
+            "Satan being an enemy to the salvation of souls, does all he can to hinder their faith in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The devil is cunning and relentless in his attempts to snatch away the seed of the word of God from the hearts of those who hear it. He is adept at diverting their attention and prompting forgetfulness, so that the precious message they receive fails to take root. It is a sobering reminder of the spiritual battle that takes place during and after the preaching of the sermon. The devil seeks to hinder faith and impede the salvation of souls, making it all the more crucial for us to be vigilant and guard our hearts against his schemes.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.5963874803541274,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.42,
+            "commentatorTierSimilarities": [
+                54.42,
+                0.0,
+                45.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The devil's business is to snatch up the seed from the heart before it takes root, as the devil is successful with his auditors. He diverts minds, causing forgetfulness of the word of God, hindering faith and salvation. The spiritual battle during and after the sermon requires vigilance, guarding our hearts against the enemy's schemes. The devil is an enemy to the salvation of souls, doing all he can to hinder faith in God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.7974296064680662,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+            "commentatorTierSimilarities": [
+                55.33,
+                0.0,
+                44.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The devil is cunning in his efforts to snatch away the seed of God's word before it takes root, diverting minds and causing forgetfulness. Preachers are well aware of the devil's success in captivating his audience. It is a reminder of the spiritual battle that occurs during and after a sermon, with the devil actively working to hinder faith and salvation. Satan's enmity towards souls drives him to do everything possible to obstruct their belief in God. Vigilance is crucial in guarding our hearts against his schemes.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6332879867696457,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+            "commentatorTierSimilarities": [
+                58.43,
+                0.0,
+                41.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The devil's primary goal is to snatch away the seed of God's word before it can take root in the hearts of listeners. He is known to be successful in diverting attention and causing forgetfulness among his audience. This highlights the importance of recognizing the spiritual battle that takes place during and after a sermon. The devil actively seeks to hinder faith and salvation, making it crucial for us to be vigilant and guard our hearts against his cunning schemes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.4636703352994498,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.01,
+            "commentatorTierSimilarities": [
+                60.27,
+                0.0,
+                39.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Before the seed of God's word has a chance to sprout and take root, the devil deceives and snatches it away. He is cunning in his endeavors, successful in captivating his audience and diverting their attention. This emphasizes the spiritual battle that occurs during and after a sermon, as the devil seeks to hinder faith and salvation. Vigilance is vital, for the enemy relentlessly works against the belief in God and the retention of His word in our hearts.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5559546682226346,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                56.03,
+                0.0,
+                43.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

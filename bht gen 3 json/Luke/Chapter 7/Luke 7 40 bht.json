@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:16:30",
+    "verseRef": "Luke 7:40",
+    "bestBHT": {
+        "bht": "Jesus, knowing the thoughts of the Pharisee, personally appeals to him as he addresses his inner doubts. With a parable, Jesus cunningly allows Simon to pass judgment on himself, revealing both the woman and Simon as debtors in need of forgiveness. He prompts Simon to acknowledge the significance of divine mercy and to recognize that the greatest debtor is the one who clings to the Divine Benefactor with the deepest gratitude. Jesus not only answers Simon's thoughts but also displays a touch of Socratic irony in his response.",
+        "wordCount": 89,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 2.007155558189002,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.08,
+        "commentatorTierSimilarities": [
+            36.68,
+            30.17,
+            33.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We must not however forget that in similar cases 'Jesus knowing their thoughts' is inserted (Matt. ix. 4), and doubtless might also have been here.",
+            "There is an inner personal appeal in the words addressing the Pharisee.",
+            "The calling by name\u2014the especial I have somewhat to say unto thee refer to the inner thoughts of the heart, and at once bring the answer Master, say on."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Like Nathan with David, our Lord conceals His home thrust under the veil of a parable, and makes His host himself pronounce upon the case.",
+            "The two debtors are the woman and Simon; the criminality of the one was ten times that of the other, but both being equally insolvent, both are with equal frankness forgiven.",
+            "Simon is made to own that the greatest debtor to forgiving mercy will cling to her Divine Benefactor with the deepest gratitude."
+        ],
+        "John Calvin": [
+            "By this reply Christ shows how egregiously Simon was mistaken.",
+            "He proves himself to possess something more excellent than what belonged to the Prophets.",
+            "We have no reason to fear lest any sinner be rejected by him, who not only gives them kind and friendly invitations, but is prepared with equal liberality, and\u2014as we might say\u2014with outstretched arms, to receive them all."
+        ],
+        "Philip Schaff": [
+            "Answering, the thought of the Pharisee, not some outward manifestations of displeasure, though such may have been displayed.",
+            "I have somewhat to say unto thee. Direct personal address, implying a knowledge of Simon\u2019s heart.",
+            "Master, or, \u2018Teacher,\u2019 say on. The tone is respectful, as if the evidence of our Lord\u2019s insight had already checked the doubt in Simon\u2019s mind."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus answers the thoughts and doubts of Simon and so shows that he knows all about the woman also.",
+            "Godet notes a tone of Socratic irony here."
+        ],
+        "John Gill": [
+            "Christ being God omniscient, knew not only the character and conversation of this woman, which were publicly known by all, that knew any thing of her, but also the secret thoughts and reasonings of the Pharisee, and makes answer to them; which shows, that he was a prophet, in the sense of this man; yea, more than a prophet.",
+            "And he saith, Master; or teacher, or doctor; or as the Syriac version, 'Rabbi'; which was the common salutation of doctors.",
+            "say on. This was a way of speaking in use with the Jews, giving leave to proceed in a discourse; and as Christ was now a guest in this man's house, he asks leave of him, and he grants him it."
+        ],
+        "John Wesley": [
+            "And Jesus said, Simon, I have somewhat to say to thee \u2014 So tender and courteous am address does our Lord use even to a proud, censorious Pharisee!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus perceptively addresses the thoughts of the Pharisee, knowing the inner appeal that lies within his heart. Using a parable, Jesus cleverly uncovers the hypocrisy of Simon and prompts him to admit that both the woman and Simon are debtors in need of forgiveness. Jesus not only reveals the thoughts and doubts of Simon but demonstrates his omniscience by answering them. Despite Simon's misunderstanding, Jesus graciously offers his insights to him, showing that he possesses something more excellent than the prophets.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.0059340605462115,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+            "commentatorTierSimilarities": [
+                33.08,
+                31.28,
+                35.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, aware of the Pharisee's thoughts, addresses him personally and uses a parable to expose Simon's hypocrisy. By declaring both the woman and Simon as debtors in need of forgiveness, Jesus demonstrates his knowledge of their hearts. Simon is forced to acknowledge his own debtiness and the generosity of divine mercy. Jesus not only answers Simon's doubts but also reveals his omniscience. Despite Simon's misconception, Jesus, as more than a prophet, graciously imparts his insights to him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.971363117438015,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.89,
+            "commentatorTierSimilarities": [
+                32.65,
+                31.97,
+                35.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, with his knowledge of their thoughts, personally addresses the Pharisee, appealing to his inner self. Using a parable, he skillfully exposes Simon's hypocrisy while making Simon himself pronounce judgment on the situation. Both the woman and Simon are portrayed as debtors in need of forgiveness, highlighting the magnitude of divine mercy. Jesus not only answers Simon's doubts but also demonstrates his omniscience by speaking directly to the Pharisee's thoughts. In his response, Jesus reveals a tone of Socratic irony, showcasing his wisdom and insight.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9838598736652,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+            "commentatorTierSimilarities": [
+                34.82,
+                32.74,
+                32.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, knowing the thoughts of the Pharisee, personally appeals to him as he addresses his inner doubts. With a parable, Jesus cunningly allows Simon to pass judgment on himself, revealing both the woman and Simon as debtors in need of forgiveness. He prompts Simon to acknowledge the significance of divine mercy and to recognize that the greatest debtor is the one who clings to the Divine Benefactor with the deepest gratitude. Jesus not only answers Simon's thoughts but also displays a touch of Socratic irony in his response.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.007155558189002,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.08,
+            "commentatorTierSimilarities": [
+                36.68,
+                30.17,
+                33.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, perceiving the Pharisee's thoughts, personally speaks to him and employs a parable to expose Simon's hypocrisy. By equating the woman and Simon as debtors, Jesus emphasizes the importance of forgiveness. Through his response, Jesus reveals his knowledge of Simon's doubts and showcases his wisdom. Despite Simon's misunderstanding, Jesus graciously imparts his insights, demonstrating that he possesses a higher understanding than the prophets.",
+            "wordCount": 67,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 1.9883715128121353,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                32.51,
+                32.36,
+                35.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

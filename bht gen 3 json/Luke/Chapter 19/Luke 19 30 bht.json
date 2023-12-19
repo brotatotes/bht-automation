@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:21:50",
+    "verseRef": "Luke 19:30",
+    "bestBHT": {
+        "bht": "In this event, the disciples are sent by Jesus to a nearby village to retrieve a colt that has not been ridden before. This act symbolizes a regal progression into Jerusalem, similar to significant events like Jesus' Virgin Birth and burial in a new tomb. It aligns with the prophecy in Zechariah 9:9 and suggests that the village of Bethany was likely the location where the colt was obtained. This procession highlights the connection between Jesus' humble entrance and his divine purpose.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.4886173284040844,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+        "commentatorTierSimilarities": [
+            24.34,
+            40.31,
+            35.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "30. whereon, &amp;c.\u2014(See on",
+            "\t :-)."
+        ],
+        "Philip Schaff": [
+            "And it came to pass... This leaves room for the intervening events in Bethany on Saturday evening, at the house of Simon the leper.\" ",
+            "High to Bethphage and Bethany. The village nearest Jerusalem is mentioned first (so Mark)."
+        ],
+        "Archibald T. Robertson": [
+            "This fact indicated to the disciples a royal progress into the city of a piece with the Virgin Birth of Jesus and the burial in a new tomb.",
+            "Plummer holds that this fact indicated to the disciples a royal progress into the city.",
+            "A piece with the Virgin Birth of Jesus and the burial in a new tomb."
+        ],
+        "John Gill": [
+            "What village this was, is not said by any of the evangelists; it seems to be either Bethany, or Nob; and rather the latter.",
+            "Which agrees with the prophecy in Zechariah 9:9 and which, no doubt, was matter of fact.",
+            "For it seems that Christ stayed at the above place, until the disciples went and fetched it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 19:30, the disciples are instructed by Jesus to go to the village and untie a colt that has never been ridden before, as this would be the means by which he enters Jerusalem. This event symbolizes a royal progress into the city, much like the significant events of Jesus' Virgin Birth and burial in a new tomb. This procession into Jerusalem is in line with the prophecy from Zechariah 9:9, and it is suggested that the disciples went to the nearby village of Bethany to fetch the colt.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7045230243619627,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+            "commentatorTierSimilarities": [
+                26.61,
+                40.87,
+                32.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the disciples are instructed to go to a nearby village and retrieve a colt that has never been ridden before. This action holds symbolic significance, representing a royal progression into Jerusalem akin to monumental events such as Jesus' Virgin Birth and burial in a new tomb. Fulfilling the prophecy in Zechariah 9:9, it is likely that the disciples went to the village of Bethany to find the colt, solidifying the parallel between Jesus' humble entrance into Jerusalem and his divine purpose.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.568821789808656,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+            "commentatorTierSimilarities": [
+                26.11,
+                39.46,
+                34.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, Jesus instructs his disciples to go to a nearby village and fetch a colt that has not been ridden before. This action carries great significance, as it aligns with the Virgin Birth and burial in a new tomb, indicative of a royal progression into Jerusalem. It is a fulfillment of the prophecy in Zechariah 9:9, and it is likely that the disciples went to the village of Bethany to locate the colt, highlighting the connection between Jesus' humble entrance and his divine mission.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.5709424374234753,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.58,
+            "commentatorTierSimilarities": [
+                27.59,
+                37.66,
+                34.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this event, the disciples are sent by Jesus to a nearby village to retrieve a colt that has not been ridden before. This act symbolizes a regal progression into Jerusalem, similar to significant events like Jesus' Virgin Birth and burial in a new tomb. It aligns with the prophecy in Zechariah 9:9 and suggests that the village of Bethany was likely the location where the colt was obtained. This procession highlights the connection between Jesus' humble entrance and his divine purpose.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.4886173284040844,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "commentatorTierSimilarities": [
+                24.34,
+                40.31,
+                35.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus instructs his disciples to go to a nearby village and find a young colt that has never been ridden before. This action holds symbolic significance, paralleling Jesus' Virgin Birth and burial in a new tomb, signifying a royal entrance into Jerusalem. The fulfillment of the prophecy in Zechariah 9:9 adds further weight to this event. It is likely that the disciples went to the village of Bethany, highlighting the correlation between Jesus' humble arrival and his divine mission.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.430239887535542,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.9,
+            "commentatorTierSimilarities": [
+                25.71,
+                38.27,
+                36.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

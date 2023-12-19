@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:17:15",
+    "verseRef": "2 Corinthians 8:18",
+    "bestBHT": {
+        "bht": "The delicate nature of the mission necessitated no family connection between those sent. The brother, highly esteemed throughout all the churches, earned praise for promoting the gospel. He was greatly admired and commended for his talent in preaching. Some have identified him as Luke, Paul's prominent travel companion.",
+        "wordCount": 49,
+        "quoteTokenProportion": 38.64,
+        "qualityScore": 1.8855746497150867,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+        "commentatorTierSimilarities": [
+            32.09,
+            29.56,
+            38.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The delicate nature of the mission would require that there should be at least no family connexion between those sent to fulfil it.\" ",
+            "Origen, Jerome, and others, Luke:\u2014and of these, all before Grotius (who pointed out the mistake; which however I see lately reproduced in Mr. Birks\u2019s Hor\u00e6 Apostolic\u00e6, p. 242 f.) suppose the words, 'whose praise in the Gospel,' to refer to his gospel, which he wrote;\u2014but this is altogether without proof.",
+            "If the expression whose praise in (the matter of) the Gospel is throughout all the Churches, is to be compared with any similar eulogium, that of Gaius in Rom. xvi. 23, seems to correspond most nearly: 'Gaius, mine host and [the host] of the whole church.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the brother, whose praise is in the gospel\u2014whose praise is known in connection with the Gospel",
+            "Of all Paul's 'companions in travel' (2 Corinthians 8:19; Acts 19:29), Luke was the most prominent",
+            "He who is faithful in the Gospel will be faithful also in matters of inferior importance"
+        ],
+        "Albert Barnes": [
+            "Whose praise is in the gospel throughout all the churches.\" ",
+            "Who is well known and highly esteemed.",
+            "In some way he was celebrated for making known the truths of the gospel."
+        ],
+        "Marvin Vincent": [
+            "The brother whose praise is in the Gospel. Is should be joined with throughout all the churches.",
+            "The person referred to has been variously identified with Titus' brother, Barnabas, Mark, Luke, and Epaenetus, mentioned in Romans 16:5.",
+            "The reference to Epaenetus has been urged on the ground of a supposed play upon the word praise, epainos; Epaenetus meaning praiseworthy."
+        ],
+        "John Calvin": [
+            "He had earned applause by promoting the gospel.",
+            "He had received praise, not from one individual, or even from one Church merely, but from all the Churches.",
+            "We must observe, however, the mode of election \u2014 that which was customary among the Greeks \u2014 \u03c7\u03b5\u03b9\u03c1\u03bf\u03c4\u03bf\u03bd\u1f77\u03b1, (a show of hands.)"
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 8:18. And we have sent together with him the brother whose praise in the gospel is spread through all the churches;",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "We have sent with him (\u03c3\u03c5\u03bd\u03b5\u03c0\u03b5\u03bc\u03c8\u03b1\u03bc\u03b5\u03bd \u03bc\u03b5\u03c4' \u03b1\u03c5\u03c4\u03bf\u03c5). Epistolary aorist.",
+            "This may be, probably is, Luke who may also be the brother of Titus (see also 2 Corinthians 12:18) according to a common Greek idiom where the article is used as 'his.'",
+            "Is spread through all the churches (\u03b4\u03b9\u03b1 \u03c0\u03b1\u03c3\u03c9\u03bd \u03c4\u03c9\u03bd \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03c9\u03bd). No verb in the Greek (ellipsis)."
+        ],
+        "John Gill": [
+            "Whose praise is in the Gospel, throughout all the churches.",
+            "being known and highly commended by all the churches",
+            "greatly admired, and much commended, for his excellent talent in preaching the Gospel"
+        ],
+        "John Wesley": [
+            "We \u2014 I and Timothy.",
+            "The brother \u2014 The ancients generally supposed this was St. Luke.",
+            "Whose praise \u2014 For faithfully dispensing the gospel, is through all the churches."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The delicate nature of the mission in [Verse] would require that there be no family connection between those sent to fulfill it. The brother who accompanied the sender was known and highly esteemed throughout all the churches for his promotion of the gospel. He received praise from not just one individual or one church, but from all the churches. This individual was greatly admired and commended for his talent in preaching the Gospel. Some have identified him as Luke, who was the most prominent among Paul's companions in travel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 2.101361164667179,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                30.77,
+                31.89,
+                37.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The delicate nature of the mission required that there be no family connection between those sent. The brother, known and highly esteemed throughout all the churches, received praise for promoting the gospel. He was greatly admired and commended for his talent in preaching. Some have identified this individual as Luke, Paul's prominent travel companion.",
+            "wordCount": 55,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.8640881876114954,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                31.37,
+                30.35,
+                38.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The delicate mission required no family connection. The brother, known throughout all the churches, received praise for promoting the gospel. He was greatly admired for his talent in preaching. Some have identified this individual as Luke, Paul's prominent travel companion.",
+            "wordCount": 41,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.8556423483205031,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.04,
+            "commentatorTierSimilarities": [
+                30.99,
+                30.19,
+                38.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The delicate nature of the mission necessitated no family connection between those sent. The brother, highly esteemed throughout all the churches, earned praise for promoting the gospel. He was greatly admired and commended for his talent in preaching. Some have identified him as Luke, Paul's prominent travel companion.",
+            "wordCount": 49,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.8855746497150867,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                32.09,
+                29.56,
+                38.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The delicate mission required no family connection. The brother, known throughout all the churches, received praise for promoting the gospel. He was greatly admired and commended for his talent in preaching. Some have identified this individual as Luke, Paul's prominent travel companion.",
+            "wordCount": 43,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.851277993512817,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "commentatorTierSimilarities": [
+                30.51,
+                29.91,
+                39.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

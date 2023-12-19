@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:13:09",
+    "verseRef": "Luke 1:24",
+    "bestBHT": {
+        "bht": "Mary, fully convinced of God's promise, concealed herself completely for five months in order to have undeniable proof of the fulfillment of the prophecy. This intentional seclusion allowed her to privately contemplate and give thanks to God for His abundant mercies. Luke, known for his extensive medical vocabulary, emphasizes the significance of this hidden period in Mary's life, as she fully embraced the miraculous work of God and purposefully avoided any pride or vanity that could arise from her situation.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 1.6360735302640013,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.74,
+        "commentatorTierSimilarities": [
+            19.66,
+            35.82,
+            44.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "24. hid five months\u2014till the",
+            "\tevent was put beyond doubt and became apparent. ",
+            "\t",
+            " :-. ANNUNCIATION OF",
+            "\tCHRIST. ",
+            "\t",
+            "(See on :-)."
+        ],
+        "Albert Barnes": [
+            "Hid herself - Did not go forth into public, and concealed her condition.",
+            "This might have been done that she might spend her time more entirely in giving praise to God for his mercies.",
+            "...that she might have the fullest proof of the accomplishment of the promise before she appeared in public or spoke of the mercies of God."
+        ],
+        "Marvin Vincent": [
+            "The number of words referring to pregnancy, barrenness, etc., used by Luke, is almost as large as that used by Hippocrates.",
+            "All of these, except Luke 1:24, are peculiar to himself, and all, of course, in common use among medical writers.",
+            "Peri signifies completely; entire seclusion."
+        ],
+        "John Calvin": [
+            "In my opinion, she was so fully convinced of the promise made to her, that she had no doubt of its accomplishment.\" ",
+            "By saying, thus hath the Lord done to me, she expressly and boldly affirms that his favor was ascertained.",
+            "When the works of God show themselves gradually, in process of time we make less account of them than if the thing had been accomplished all at once, without our having ever heard of it."
+        ],
+        "Philip Schaff": [
+            "Luke 1:24. And after these days. Probably immediately after.",
+            "\t",
+            " Hid herself five months, i.e., the first five months of her pregnancy.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "He alone in the N.T. has it for conceiving offspring (Luke 1:24; Luke 1:31; Luke 1:36; Luke 2:21) though James 1:15 uses it of lust producing sin.",
+            "Hobart (Medical Language of Luke, p. 91) observes that Luke has almost as many words for pregnancy and barrenness as Hippocrates (\u03b5\u03bd \u03b3\u03b1\u03c3\u03c4\u03c1 \u03b5\u03c7\u03b5\u03b9\u03bd, Luke 21:23; \u03b5\u03b3\u03ba\u03c5\u03bf\u03c2, Luke 2:5; \u03c3\u03c4\u03b5\u03b9\u03c1\u03b1, Luke 1:7; \u03b1\u03c4\u03b5\u03ba\u03bd\u03bf\u03c2, Luke 20:28).",
+            "If it is aorist it is the constative aorist. The preposition \u03c0\u03b5\u03c1 makes it mean completely (on all sides) hid."
+        ],
+        "John Gill": [
+            "but she hid herself, or lived retired, that she might be fully satisfied that she was with child, before she said anything about it",
+            "and that she might not discover any pride or vanity on account of it",
+            "and to avoid all discourse with others about it, which might be rumored abroad"
+        ],
+        "John Wesley": [
+            "Hid herself \u2014 She retired from company, that she might have the more leisure to rejoice and bless God for his wonderful mercy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary, upon receiving the news of her pregnancy, chose to hide herself for five months. This period of seclusion allowed her to fully grasp the reality of the situation and to strengthen her faith in God's promise. She wanted to be certain before making her condition known to others. Luke, with his medical background, uses various words related to pregnancy and barrenness in his writings. By withdrawing from public view, Mary dedicated her time to giving thanks to God and avoiding distractions. This ensured that her focus remained on the fulfillment of God's promise.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.4288851533380915,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+            "commentatorTierSimilarities": [
+                16.7,
+                41.56,
+                41.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary, aware of the promise of her pregnancy, chose to conceal herself completely for five months. This seclusion allowed her to have complete assurance of the fulfillment of God's word before revealing her condition. By withdrawing from the public eye, Mary could fully immerse herself in gratitude towards God and avoid any distractions. Luke's use of medical terms related to pregnancy further emphasizes the significance of this period of hiddenness, as Mary rejoiced and gave thanks for the miraculous fulfillment of God's promise.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5673573600633701,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.46,
+            "commentatorTierSimilarities": [
+                20.28,
+                38.39,
+                41.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary, fully convinced of God's promise, concealed herself completely for five months in order to have undeniable proof of the fulfillment of the prophecy. This intentional seclusion allowed her to privately contemplate and give thanks to God for His abundant mercies. Luke, known for his extensive medical vocabulary, emphasizes the significance of this hidden period in Mary's life, as she fully embraced the miraculous work of God and purposefully avoided any pride or vanity that could arise from her situation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6360735302640013,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.74,
+            "commentatorTierSimilarities": [
+                19.66,
+                35.82,
+                44.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After receiving the promise of her pregnancy, Mary chose to conceal herself entirely for five months. This deliberate seclusion allowed her to have complete certainty and assurance of God's word fulfilled in her life. By withdrawing from public view, Mary devoted herself to expressing gratitude and offering praise to God for His extraordinary mercies. The usage of medical language by Luke underscores the significance of this hidden phase, where Mary rejoiced and withheld any pride or vanity, ensuring that her focus remained solely on the wondrous fulfillment of God's promise.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.5578240937640286,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                17.62,
+                36.58,
+                45.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After learning of her miraculous pregnancy, Mary deliberately concealed herself for five months. This intentional seclusion allowed her to personally witness and acknowledge the complete fulfillment of God's promise. By withdrawing from the public eye, Mary could fully engage in praising and thanking God for His abundant mercy. Luke's use of medical terminology in his depiction of Mary's seclusion highlights the importance of this period, during which she guarded against pride and vanity, ensuring that her focus remained solely on the marvelous fulfillment of God's promise.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.5374228812130109,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.46,
+            "commentatorTierSimilarities": [
+                17.12,
+                36.9,
+                45.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

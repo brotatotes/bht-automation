@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:34:28",
+    "verseRef": "Acts 20:34",
+    "bestBHT": {
+        "bht": "Paul proudly displayed his calloused hands, evidence of his labor as a tent-maker, as he claimed that he had ministered not only to his own needs but also to those with him. His willingness to work with his own hands showed that it was no discredit for a minister to labor. This example teaches us to find joy in preaching the gospel, even when we must engage in manual work to support ourselves.",
+        "wordCount": 74,
+        "quoteTokenProportion": 52.73,
+        "qualityScore": 1.7499852503189417,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+        "commentatorTierSimilarities": [
+            26.85,
+            41.25,
+            31.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These hands\" - Also strikingly in Paul's manner: compare \"these bonds,\" ch. xxvi. 29,\u2014and ch. xxviii. 20.",
+            "Observe, ministered unto my necessities, and to them that were with me.\" - This is not without meaning\u2014his friends were among his necessities\u2014he supplied by his labour, not his and their wants, but his wants and them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These hands\u2014doubtless holding them up, as before Agrippa in chains.\" ",
+            "Have ministered unto my necessities, and to them that were with me.\" ",
+            "See Acts 18:3; 1 Corinthians 4:12; 1 Corinthians 9:6, written from Ephesus; also 1 Thessalonians 2:9."
+        ],
+        "Albert Barnes": [
+            "We may hence learn that it is no discredit to a minister to labor.",
+            "A man should rejoice in the privilege of preaching the gospel, even if it is done while he is obliged to resort to labor for his daily bread.",
+            "Every minister should so live that he can make this appeal to their own consciences of the sincerity and disinterestedness of his labors from the pulpit; or when called to separate from them as Paul did; or when on a dying bed."
+        ],
+        "John Calvin": [
+            "For to receive the weak, importeth as much as somewhat to bear with their rudeness and simplicity, as it is.",
+            "And it is a kind of bondage to owe anything; but he had respect unto an higher thing, because he which giveth to the poor lendeth unto the Lord.",
+            "That men draw nearer unto God in nothing than in liberality."
+        ],
+        "Philip Schaff": [
+            "Yea, ye yourselves know, that these hands.",
+            "No doubt here holding up his toil-worn, work-scarred hands.",
+            "See the reference to St. Paul\u2019s custom of working with his own hands in the note above on the preceding (Acts 20:33) verse."
+        ],
+        "Archibald T. Robertson": [
+            "Certainly they knew that the church in Ephesus had not supported Paul while there.",
+            "Paul was not above manual labour. He pointed to his hands with pride as proof that he toiled at his trade of tent-making.",
+            "As he held them up, they saw a tongue of truth in every seam that marked them."
+        ],
+        "John Gill": [
+            "Yea, you yourselves know... that these hands have ministered unto my necessities.",
+            "He could appeal to these elders for the truth of it, they having been eyewitnesses of it.",
+            "He not only supported himself in this way, but assisted others also."
+        ],
+        "John Wesley": [
+            "These hands \u2014 Callous, as you see, with labour. Who is he that envies such a bishop or archbishop as this?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in Acts 20:34, proudly points to his hands as proof that he toiled at his trade of tent-making and ministered to his own necessities and those with him. Paul's friends were counted among his necessities, indicating the deep bond he had with them. The scars on his hands held a tongue of truth, revealing the sincerity and dedication with which he served the Lord. This serves as a reminder that it is no disgrace for a minister to engage in manual labor while sharing the gospel. Paul's example shows that a minister should rejoice in the privilege of preaching, even if he must labor for his daily bread.",
+            "wordCount": 111,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.7713946841536083,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                34.27,
+                37.45,
+                28.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul proudly displayed his calloused hands, evidence of his labor as a tent-maker, as he claimed that he had ministered not only to his own needs but also to those with him. His willingness to work with his own hands showed that it was no discredit for a minister to labor. This example teaches us to find joy in preaching the gospel, even when we must engage in manual work to support ourselves.",
+            "wordCount": 74,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.7499852503189417,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+            "commentatorTierSimilarities": [
+                26.85,
+                41.25,
+                31.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, with humility and pride, points to his hands, weathered by his toil as a tentmaker and holding them up as if in chains, a symbol of his commitment to ministering to his own needs and the needs of those around him. It is worth noting that when Paul speaks of his necessities, he includes his friends in that category, highlighting the depth of his care for them. This display of physical labor is not a discredit to him as a minister, but rather a testament to the sincerity and disinterestedness of his labors in preaching the gospel. Indeed, the elders who witnessed his work can attest to the truth of his words, for they saw in every seam and scar on his hands a tongue of truth.",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.715805486134025,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+            "commentatorTierSimilarities": [
+                32.08,
+                36.88,
+                31.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, with humility and pride, points to his hands, holding them up as if in chains, a symbol of his commitment to ministering to his own needs and to those around him. This display of physical labor is not a discredit to him as a minister, but rather a testament to the sincerity and disinterestedness of his labors in preaching the gospel. Indeed, the elders who witnessed his work can attest to the truth of his words, for they saw in every seam and scar on his hands a tongue of truth.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.7493828228898884,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+            "commentatorTierSimilarities": [
+                30.12,
+                38.8,
+                31.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul proudly holds up his hands, worn from his labor as a tentmaker, showcasing his commitment to providing for his own needs and the needs of those around him. This display of physical work is not a discredit to his ministry, but rather a testament to the sincerity and selflessness of his efforts in preaching the gospel. The elders who witnessed his toil can affirm the truth of his words, recognizing in the marks on his hands the undeniable evidence of his dedicated service.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6458205041629501,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+            "commentatorTierSimilarities": [
+                28.2,
+                38.67,
+                33.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

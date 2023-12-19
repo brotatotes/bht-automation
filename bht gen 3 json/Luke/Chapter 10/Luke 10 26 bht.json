@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:17:56",
+    "verseRef": "Luke 10:26",
+    "bestBHT": {
+        "bht": "Jesus challenges the lawyer's understanding by asking him how he reads the law, implying that his expertise should inform his answer. By referring to the law, Jesus seeks to reveal the requirements of a righteous life and to show the lawyer the need for a better righteousness. This comparison between our own flawed righteousness and the righteousness of Christ leads us to recognize our need for God's mercy and grace. Thus, our justification is not based on our own works but on the righteousness freely offered by God.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.5413157017183081,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.59,
+        "commentatorTierSimilarities": [
+            14.82,
+            36.16,
+            49.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "26. What is written in the",
+            "\tlaw\u2014apposite question to a doctor of the law, and",
+            "\tputting him in turn to the test [BENGEL]."
+        ],
+        "Albert Barnes": [
+            "To bring him off from that ground - to make him feel that it was an unsafe foundation, Jesus showed him what the law 'required,' and thus showed him that he needed a better righteousness than his own.",
+            "By comparing ourselves with 'that' we see our own defects, and are thus prepared to welcome a better righteousness than our own - that of the Lord Jesus Christ.",
+            "Thus the law becomes a schoolmaster to lead us to him, Galatians 3:24."
+        ],
+        "Marvin Vincent": [
+            "Read. See on ch. Luke 4:16."
+        ],
+        "John Calvin": [
+            "No other rule of a holy and righteous life was prescribed by Christ than what had been laid down by the Law of Moses; for the perfect love of God and of our neighbors comprehends the utmost perfection of righteousness.",
+            "Nor ought we to look upon this as a strange manner of teaching, that God first demands the righteousness of works, and next offers a gratuitous righteousness without works; for it is necessary that men should be convinced of their righteous condemnation, that they may betake themselves to the mercy of God.",
+            "Accordingly, Paul (Romans 10:5) compares both kinds of righteousness, in order to inform us that the reason why we are freely justified by God is, that we have no righteousness of our own."
+        ],
+        "Philip Schaff": [
+            "Here is the revised response using only words from the original commentary:",
+            "The answer to your question is in the law you teach.",
+            "How means to what purport."
+        ],
+        "Archibald T. Robertson": [
+            "How readest thou? (\u03c0\u03c9\u03c2 \u03b1\u03bd\u03b1\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03b5\u03b9\u03c3;). As a lawyer it was his business to know the facts in the law and the proper interpretation of the law.\" ",
+            "The rabbis had a formula, 'What readest thou?'"
+        ],
+        "John Gill": [
+            "Christ, with great propriety, sends him to the law, to see and observe what was written there, what are the terms and conditions of life, as fixed there.",
+            "How readest thou? in the law, every day; referring to the 'Keriat Shema', the reading of the Shema, i.e. those words in Deuteronomy 6:4, &c, 'Hear, O Israel, &c.' morning and evening.",
+            "As appears by his answer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The question posed to the lawyer regarding the interpretation of the law is relevant and designed to test his knowledge. It was common for lawyers to be familiar with the law and its proper interpretation. This is evident as Jesus asks, How readest thou? in reference to the law, indicating that the lawyer's expertise in the law should inform his response. In this way, the law becomes a guide, leading us to recognize our own flaws and shortcomings in order to welcome a better righteousness in Christ. Jesus directs the lawyer to the law to understand the requirements for a righteous life, which in turn reveals our need for the mercy and grace of God. Thus, the righteousness of works and the righteousness offered by God are compared, demonstrating that our justification is solely through God's righteousness as we have none of our own.",
+            "wordCount": 146,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.5290744551088984,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                22.57,
+                34.61,
+                42.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The lawyer is questioned about the law he teaches, testing his knowledge and prompting him to ponder his own interpretation. As a lawyer, it is his duty to comprehend the law's facts and proper understanding. By referring him to the law, Jesus highlights the importance of recognizing its requirements and our own shortcomings, which in turn directs us towards a superior righteousness found in Christ. This comparison between works-based righteousness and the grace of God emphasizes that our justification depends solely on God's righteousness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5371883195292364,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                19.7,
+                36.3,
+                44.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus challenges the lawyer's understanding by asking him how he reads the law, implying that his expertise should inform his answer. By referring to the law, Jesus seeks to reveal the requirements of a righteous life and to show the lawyer the need for a better righteousness. This comparison between our own flawed righteousness and the righteousness of Christ leads us to recognize our need for God's mercy and grace. Thus, our justification is not based on our own works but on the righteousness freely offered by God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.5413157017183081,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.59,
+            "commentatorTierSimilarities": [
+                14.82,
+                36.16,
+                49.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus challenges the lawyer's understanding by questioning how he interprets the law, probing him to examine the facts and proper meaning. The law serves as a guide, leading us to recognize our own imperfections and our need for a superior righteousness found in Christ. This comparison between works-based righteousness and the free righteousness offered by God emphasizes that our justification is solely dependent on God's righteousness, as we have none of our own.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5332296902359654,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.32,
+            "commentatorTierSimilarities": [
+                15.67,
+                35.28,
+                49.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus tests the lawyer's knowledge by asking how he reads the law, indicating that his expertise should inform his response. The law serves as a schoolmaster to lead us to recognize our own defects and acknowledge our need for a righteousness better than our own. Comparing the righteousness of works with the righteousness offered by God, we understand that our justification is freely given by God, as we have no righteousness of our own. This exchange highlights the importance of the law in guiding us towards God's mercy and grace.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5119743919836042,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.62,
+            "commentatorTierSimilarities": [
+                13.98,
+                37.2,
+                48.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

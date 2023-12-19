@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:16:49",
+    "verseRef": "2 Corinthians 7:4",
+    "bestBHT": {
+        "bht": "I confidently speak of you to others, glorifying your actions, and I overflow with joy in the midst of tribulation. This joy stems from the comfort I've received through Titus, dispelling my grief. I openly commend and praise you, expressing my love without disguise. Your faith, love, obedience, and generosity are reasons for my great boasting in you.",
+        "wordCount": 59,
+        "quoteTokenProportion": 38.64,
+        "qualityScore": 2.0092017280278807,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+        "commentatorTierSimilarities": [
+            22.88,
+            42.5,
+            34.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "confidence, which leads to and justifies boldness",
+            "his glorying to others, in speaking of them",
+            "I am made exceedingly to abound"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I glory greatly to others in your behalf, in speaking of you.",
+            "I overabound with joy.",
+            "Our tribulation."
+        ],
+        "Albert Barnes": [
+            "He speaks freely of their faults, and he speaks freely of his love to them; and he as frankly commends them and praises them. It is the open, undisguised language of a friend, when he throws open his whole soul and conceals nothing.",
+            "I have great occasion to commend and praise you, and I do it freely.",
+            "I am overjoyed... I have joy which cannot be expressed."
+        ],
+        "Marvin Vincent": [
+            "My boldness. Note the change for the first time to the first person singular.",
+            "Comfort. The Greek has the comfort, the article apparently pointing to the special comfort he had received through the coming of Titus (ver. 6).",
+            "I am exceeding joyful [\u03c5\u03c0\u03b5\u03c1\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03c5\u03bc\u03b1\u03b9 \u03c4\u03b7 \u03c7\u03b1\u03c1\u03b1] . Lit., I superabound with the joy. Rev., I overflow with joy. Note the article again, the joy."
+        ],
+        "John Calvin": [
+            "For the things that Titus has reported to me respecting you are not merely sufficient for quieting my mind, but afford me also ground of glorying confidently on your account.",
+            "Nay more, they have effectually dispelled the grief, which many great and heavy afflictions had occasioned me.",
+            "Great is my boldness of speech towards you, great is my glorying of you; I am filled with comfort, I am exceeding joyful in all our tribulation."
+        ],
+        "Philip Schaff": [
+            "Great is my boldness of speech toward you, great is my glorying on your behalf: I am filled with comfort, I overflow with joy in all our tribulations.\" ",
+            "I am filled with comfort, I overflow with joy in all our tribulations.\" ",
+            "Now follows the cause of this exuberance of feeling."
+        ],
+        "Archibald T. Robertson": [
+            "I overflow with joy in all our affliction.\" ",
+            "A thoroughly Pauline sentiment.\" ",
+            "H\u03c5\u03c0\u03b5\u03c1-\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03c5\u03c9 is to have a regular flood."
+        ],
+        "John Gill": [
+            "Great is my boldness of speech towards you; I very freely, and without any disguise, open my mind to you.",
+            "Great is my glorying, or 'boasting of you'; of your faith in Christ, your love to the people of God, respect to the ministers of the Gospel, obedience to us, and very great liberality to the poor saints.",
+            "I am filled with comfort, says he; not only with divine and spiritual consolations from God, but with the news Titus brought of the state of this church, of the good effect the apostle's reproof and advice had both upon them, and the offender among them."
+        ],
+        "John Wesley": [
+            "I am filled with comfort \u2014 Of this he treats, 2 Corinthians 7:6, etc.; of his joy, 2 Corinthians 7:7, etc.; of both, 2 Corinthians 7:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am filled with confidence and boldness as I speak of you to others, glorifying in your behalf. My joy in you overflows, even in the midst of tribulation. The comfort I have received through the coming of Titus has caused me to superabound with joy. This overflowing joy is a result of the report I have heard about you, dispelling the grief that afflictions have brought me. I freely and openly commend and praise you, expressing my love for you without disguise. Your faith, love, obedience, and generosity are reasons for my great boasting in you.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9782259453292586,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                24.03,
+                43.78,
+                32.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I confidently speak of you to others, glorifying your actions, and I overflow with joy in the midst of tribulation. This joy stems from the comfort I've received through Titus, dispelling my grief. I openly commend and praise you, expressing my love without disguise. Your faith, love, obedience, and generosity are reasons for my great boasting in you.",
+            "wordCount": 59,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 2.0092017280278807,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                22.88,
+                42.5,
+                34.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I am filled with confidence and boldness as I speak of you to others, glorifying in your behalf. My joy in you overflows, even in the midst of tribulation. The comfort I have received through the coming of Titus has caused me to superabound with joy. This overflowing joy is a result of the report I have heard about you, dispelling the grief that afflictions have brought me. I freely and openly commend and praise you, expressing my love for you without disguise. Your faith, love, obedience, and generosity are reasons for my great boasting in you.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9782259453292586,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                24.03,
+                43.78,
+                32.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I am filled with confidence and boldness as I speak of you to others, glorifying in your behalf. My joy in you overflows, even in the midst of tribulation. The comfort I have received through the coming of Titus has caused me to superabound with joy. This overflowing joy is a result of the report I have heard about you, dispelling the grief that afflictions have brought me. I freely and openly commend and praise you, expressing my love for you without disguise. Your faith, love, obedience, and generosity are reasons for my great boasting in you.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9782259453292586,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                24.03,
+                43.78,
+                32.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I confidently speak of you to others, glorifying your actions, and I overflow with joy in the midst of tribulation. This joy stems from the comfort I've received through Titus, dispelling my grief. I openly commend and praise you, expressing my love without disguise. Your faith, love, obedience, and generosity are reasons for my great boasting in you.",
+            "wordCount": 59,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 2.0092017280278807,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                22.88,
+                42.5,
+                34.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

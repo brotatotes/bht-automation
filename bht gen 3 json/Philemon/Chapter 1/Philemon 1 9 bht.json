@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:13:04",
+    "verseRef": "Philemon 9",
+    "bestBHT": {
+        "bht": "I rather beseech you, for love's sake, as Paul the aged, to show the same Christian love that you have exemplified. Though I could command you with authority, I choose to entreat you because of the love we share. As an apostle, founder of many churches, and your spiritual father, I ask you to consider my plea. Let us appeal to love rather than use power. As a prisoner of Christ, my age and position should garner respect. By setting aside my authority and appealing to love, I hope you will be moved to forgive and accept Onesimus.",
+        "wordCount": 99,
+        "quoteTokenProportion": 42.65,
+        "qualityScore": 1.888470934185524,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.13,
+        "commentatorTierSimilarities": [
+            34.91,
+            35.31,
+            29.78
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "that Christian love, of which thou shewest so bright an example",
+            "I prefer this way, as the more efficacious, being such an one",
+            "Paul the aged... now a prisoner also of Christ Jesus"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "for love\u2019s sake \u2014 mine to thee, and (what ought to be) thine to Onesimus.",
+            "Being such an one as thou knowest me to be, namely, Paul \u2014 the founder of so many churches, and an apostle of Christ, and thy father in the faith.",
+            "the aged \u2014 a circumstance calculated to secure thy respect for anything I request."
+        ],
+        "Albert Barnes": [
+            "Yet for love\u2019s sake - For the love which you bear me, and for the common cause.",
+            "Rather than command thee.",
+            "For such a prisoner we should be ready to do all that we can to mitigate the sorrows of his confinement, and to make his condition comfortable."
+        ],
+        "Marvin Vincent": [
+            "Being such an one, connect with the previous I rather beseech, and with Paul the aged.\" ",
+            "Not, being such an one (armed with such authority), as Paul the aged I beseech, but, as Rev., for love's sake I rather beseech, being such an one as Paul the aged.\" ",
+            "The beseech in ver. 10 is resumptive."
+        ],
+        "John Calvin": [
+            "By his example he shows that pastors should endeavor to draw disciples gently rather than to drag them by force; and indeed, when, by condescending to entreaty, he foregoes his right, this has far greater power to obtain his wish than if he issued a command.",
+            "Hence... pastors are reminded that the hearts of their people must be soothed with all possible gentleness, wherever this method is likely to be more advantageous, but yet so as to know that they who are treated so gently have nothing less exacted from them than what they ought to do.",
+            "The designation 'elder,' here, denotes not age, but office. He calls himself an apostle for this reason, that the person with whom he has to deal, and with whom he talks familiarly, is a fellow-laborer in the ministry of the word."
+        ],
+        "Philip Schaff": [
+            "For the love I bear you I lay aside all authority, and beg you to be moved by that love alone.",
+            "The character of the Gospel spirit, in meekness to forego a right rather than to insist on it.",
+            "St. Paul was... an ambassador in bonds... As Christ\u2019s ambassador St. Paul could plead with much more force than by any allusion to his own age."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is called \u03bd\u03b5\u03b1\u03bd\u03b9\u03b1\u03c2 (a young man) at the stoning of Stephen (Acts 7:58). He was perhaps a bit under sixty now.\" ",
+            "Hippocrates calls a man \u03c0\u03c1\u03b5\u03c3\u03b2\u03c5\u03c4\u03b7\u03c2 from 49 to 56 and \u03b3\u03b5\u03c1\u03c9\u03bd after that.\" ",
+            "Hence Lightfoot holds that here \u03c0\u03c1\u03b5\u03c3\u03b2\u03c5\u03c4\u03b7\u03c2 = \u03c0\u03c1\u03b5\u03c3\u03b2\u03b5\u03c5\u03c4\u03b7\u03c2 because of common confusion by the scribes between \u03c5 and \u03b5\u03c5."
+        ],
+        "John Gill": [
+            "Yet for love's sake I rather beseech thee... for the sake of the great love which the apostle bore to Philemon.",
+            "Being such an one as Paul the aged... not to be treated with neglect or contempt.",
+            "and now also a prisoner of Jesus Christ... observed with the same view as in Philemon 1:1."
+        ],
+        "John Wesley": [
+            "In how handsome a manner does the apostle just hint, and immediately drop, the consideration of his power to command, and tenderly entreat Philemon to hearken to his friend...\" (37 words)",
+            "With what endearment, in the next verse, does he call Onesimus his son, before he names his name!\" (20 words)",
+            "And as soon as he had mentioned it, with what fine address does he just touch on his former faults, and instantly pass on to the happy change that was now made upon him!\" (33 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I rather beseech you, for love's sake, as Paul the aged, to show the same Christian love that you have exemplified. Though I could command you with authority, I choose to entreat you because of the love we share. As an apostle, founder of many churches, and your spiritual father, I ask you to consider my plea. Let us appeal to love rather than use power. As a prisoner of Christ, my age and position should garner respect. By setting aside my authority and appealing to love, I hope you will be moved to forgive and accept Onesimus.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.888470934185524,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.13,
+            "commentatorTierSimilarities": [
+                34.91,
+                35.31,
+                29.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Paul the aged, an apostle of Christ and your spiritual father, I beseech you, not with authority but for the sake of love, to show the same Christian love you have exemplified. I could command you, being such an one, but instead, I choose to entreat you. Let us appeal to love rather than use power. As a prisoner of Christ, my age and position should garner respect. By setting aside my authority and appealing to love, I hope you will be moved to forgive and accept Onesimus. (80 words)",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.7558168477751028,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                33.73,
+                35.46,
+                30.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For love's sake, as Paul the aged, I beseech you to show the same Christian love you have exemplified. Though I could command you with authority, I choose to entreat you because of our shared love. As an apostle, church founder, and your spiritual father, I ask you to consider my plea. Let us appeal to love rather than power. As a prisoner of Christ, my age and position deserve respect. By setting aside my authority and appealing to love, I hope you will forgive and accept Onesimus. (77 words)",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.7911808616612666,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                34.28,
+                34.4,
+                31.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For love's sake, as Paul the aged, I beseech you to show the same Christian love that you have set such a bright example of. I could exercise my authority, being such an one, but instead, I choose to appeal to you out of love. As an apostle, church founder, and your spiritual father in the faith, my age and position command respect. By setting aside my authority and appealing to love, I hope you will be moved to forgive and accept Onesimus. (80 words)",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.75892896339688,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.83,
+            "commentatorTierSimilarities": [
+                35.35,
+                31.15,
+                33.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For love's sake, as Paul the aged, I beseech you, being such an one, to show the same Christian love that you exemplify. Though I could command you, I choose to appeal instead because of our shared love. As an apostle, church founder, and your spiritual father, my age and position deserve respect. By setting aside my authority and appealing to love, I hope you will forgive and accept Onesimus. Remember, it is through love that we can achieve true reconciliation. (78 words)",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7085629174928871,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                34.28,
+                33.17,
+                32.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

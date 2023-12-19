@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:09:16",
+    "verseRef": "Romans 11:33",
+    "bestBHT": {
+        "bht": "How unsearchable are His judgments and ways unable to be traced out! The depth of God's riches, the divine knowledge of all things. Like a traveler who has reached the summit, the apostle contemplates. The wisdom forms the plan; the knowledge knows the ways. God's elective grace and goodness have carried him to the heights and now he pauses on the edge of the precipice, contemplating God's wisdom and knowledge.",
+        "wordCount": 73,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 2.047373432693883,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+        "commentatorTierSimilarities": [
+            40.56,
+            25.51,
+            33.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first denoting the riches of the divine goodness, in the whole, and in the result just arrived at, ver. 32: the second, the divine wisdom of proceeding in the apparently intricate vicissitudes of nations and individuals: the third... the divine knowledge of all things from the beginning.\" ",
+            "How unsearchable are His judgments, and His ways unable to be traced out."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The depth of God's riches.",
+            "The riches of God.",
+            "The depth of the riches of God's wisdom and knowledge."
+        ],
+        "Albert Barnes": [
+            "The grace of God which pardons him is felt to be indeed wonderful, and past comprehension.",
+            "The wonderful wisdom with which this was done, is the object of the apostle\u2019s profound admiration.",
+            "We can see the proofs that he is everywhere; but how it is, we cannot comprehend."
+        ],
+        "Marvin Vincent": [
+            "Like a traveler who has reached the summit of an Alpine ascent, the apostle turns and contemplates. Depths are at his feet, but waves of light illumine them, and there spreads all around an immense horizon which his eye commands.\" ",
+            "There is no light but comes from the serene That never is o'ercast, nay, it is darkness Or shadow of the flesh, or else its poison.",
+            "The wisdom forms the plan; the knowledge knows the ways of carrying it out."
+        ],
+        "John Calvin": [
+            "Oh! the depth, etc. Here first the Apostle bursts into an exclamation, which arose spontaneously from a devout consideration of God\u2019s dealings with the faithful... after having spoken from the word and by the Spirit of the Lord, being at length overcome by the sublimity of so great a mystery, he could not do otherwise than wonder and exclaim, that, the riches of God\u2019s wisdom are deeper than our reason can penetrate to.",
+            "Let us then learn to make no searchings respecting the Lord, except as far as he has revealed himself in the Scriptures; for otherwise we shall enter a labyrinth, from which the retreat is not easy.",
+            "The depth or vastness of his wealth or bounty is such, that he has nothing but his own, no one having given him anything, (Romans 11:35,) and from him, and through him, and to him are all things."
+        ],
+        "Philip Schaff": [
+            "The depth of the riches may refer to the fullness of God\u2019s grace, as shown in the preceding discussion, or be taken in a wider sense, as if to say: 'How superabundantly rich is God!'",
+            "These constitute an ocean, the depths of which we should ever explore, but can never fathom.",
+            "Precisely because this is true, God is an inexhaustible object for our minds as well as our hearts."
+        ],
+        "Archibald T. Robertson": [
+            "Paul's argument concerning God's elective grace and goodness has carried him to the heights and now he pauses on the edge of the precipice as he contemplates God's wisdom and knowledge.\" ",
+            "Some of God's wisdom can be known, but not all.",
+            "Some of God's tracks he has left plain to us, but others are beyond us."
+        ],
+        "John Gill": [
+            "The design of which is to show, how much of the wisdom and knowledge of God is displayed in these doctrines, and how small a part of it is known by the best of men, and therefore ought not to be cavilled at and objected to, because of some difficulties attending them, but to be received upon the testimony of divine revelation.",
+            "The wisdom of God manifestly appears, in the doctrine of a sinner's justification; which though it proceeds from grace, yet upon the foot of redemption and satisfaction, in a way of strict justice; so that God is just, whilst he is the justifier.",
+            "The doctrine of predestination is full of the wisdom and knowledge of God; his choice of some to everlasting life in his Son, through sanctification of the Spirit, and belief of the truth, for the glorifying of his grace and mercy, in a way of righteousness; and his passing by others, leaving them to themselves, and in their sins, justly to perish for them, for the glorifying of his justice, are acts of the highest wisdom, and done according to the counsel of his will."
+        ],
+        "John Wesley": [
+            "O the depth of the riches, and wisdom, and knowledge of God.\" ",
+            "Wisdom directs all things to the best end; knowledge sees that end.\" ",
+            "His ways are more upon a level; His judgments 'a great deep.' But even his ways we cannot trace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "How unsearchable are His judgments, and His ways unable to be traced out! The depth of God's riches, the divine knowledge of all things from the beginning. Like a traveler who has reached the summit of an Alpine ascent, the apostle turns and contemplates. The wisdom forms the plan; the knowledge knows the ways of carrying it out. Paul's argument concerning God's elective grace and goodness has carried him to the heights and now he pauses on the edge of the precipice as he contemplates God's wisdom and knowledge. Some of God's wisdom can be known, but not all. The grace of God which pardons him is felt to be indeed wonderful, and past comprehension. We can see the proofs that he is everywhere, but how it is, we cannot comprehend. The depth of the riches may refer to the fullness of God's grace, as shown in the preceding discussion, or be taken in a wider sense, as if to say: 'How superabundantly rich is God!' The depth or vastness of his wealth or bounty is such, that he has nothing but his own, no one having given him anything, and from him, and through him, and to him are all things.",
+            "wordCount": 208,
+            "quoteTokenProportion": 42.45,
+            "qualityScore": 2.144631110732038,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.65,
+            "commentatorTierSimilarities": [
+                34.66,
+                31.56,
+                33.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "How unsearchable are His judgments, and His ways unable to be traced out! The depth of God's riches, the divine knowledge of all things from the beginning. Like a traveler who has reached the summit of an Alpine ascent, the apostle turns and contemplates. The wisdom forms the plan; the knowledge knows the ways of carrying it out. Paul's argument concerning God's elective grace and goodness has carried him to the heights and now he pauses on the edge of the precipice as he contemplates God's wisdom and knowledge.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.0365085440169537,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.05,
+            "commentatorTierSimilarities": [
+                41.33,
+                24.21,
+                34.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "How unsearchable are His judgments and ways unable to be traced out! The depth of God's riches, the divine knowledge of all things. Like a traveler who has reached the summit, the apostle contemplates. The wisdom forms the plan; the knowledge knows the ways. God's elective grace and goodness have carried him to the heights and now he pauses on the edge of the precipice, contemplating God's wisdom and knowledge.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.047373432693883,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+            "commentatorTierSimilarities": [
+                40.56,
+                25.51,
+                33.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "How unsearchable are His judgments and His ways unable to be traced out! The depth of God's riches, the divine knowledge of all things from the beginning. Like a traveler who has reached the summit of an Alpine ascent, the apostle turns and contemplates. The wisdom forms the plan; the knowledge knows the ways of carrying it out. Paul's argument concerning God's elective grace and goodness has carried him to the heights and now he pauses on the edge of the precipice as he contemplates God's wisdom and knowledge. The grace of God which pardons him is felt to be indeed wonderful, and past comprehension. We can see the proofs that he is everywhere, but how it is, we cannot comprehend. The depth of the riches may refer to the fullness of God's grace, as shown in the preceding discussion, or be taken in a wider sense, as if to say: 'How superabundantly rich is God!' The depth or vastness of his wealth or bounty is such, that he has nothing but his own, no one having given him anything, and from him, and through him, and to him are all things.",
+            "wordCount": 197,
+            "quoteTokenProportion": 41.75,
+            "qualityScore": 2.1228261045567374,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.92,
+            "commentatorTierSimilarities": [
+                33.83,
+                32.38,
+                33.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "How unsearchable are His judgments and His ways unable to be traced out! The depth of God's riches, the divine knowledge of all things. Like a traveler who has reached the summit of an Alpine ascent, the apostle contemplates. The wisdom forms the plan; the knowledge knows the ways of carrying it out. Paul pauses on the edge, contemplating God's wisdom and knowledge. The grace of God is felt to be indeed wonderful, past comprehension. We can see the proofs that he is everywhere, but how it is, we cannot comprehend. The depth of the riches may refer to the fullness of God's grace, as shown in the preceding discussion, or be taken in a wider sense, as if to say: 'How superabundantly rich is God!' The depth or vastness of his wealth or bounty is such, that he has nothing but his own, and from him, and through him, and to him are all things.",
+            "wordCount": 159,
+            "quoteTokenProportion": 43.68,
+            "qualityScore": 2.0905355183742325,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.85,
+            "commentatorTierSimilarities": [
+                34.26,
+                32.86,
+                32.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

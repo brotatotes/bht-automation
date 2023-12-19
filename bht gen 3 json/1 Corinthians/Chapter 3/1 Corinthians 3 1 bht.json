@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:00:35",
+    "verseRef": "1 Corinthians 3:1",
+    "bestBHT": {
+        "bht": "When Paul first visited the Corinthians, they were new in their faith and required elementary teaching. He had to speak to them as men of flesh because, although they had life in Christ, they were still babes in Christ. Paul desired to teach them the wisdom of God, treating them as adults, but their divisions and immoralities prevented him from doing so. They were spiritual in the sense of being in Christ, but as babes, their understanding and development were still lacking.",
+        "wordCount": 82,
+        "quoteTokenProportion": 45.1,
+        "qualityScore": 2.3005838358015183,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.83,
+        "commentatorTierSimilarities": [
+            29.89,
+            38.74,
+            31.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I, as well as the natural man, was compelled to stand on this lower ground,\u2014he, because he cannot understand the things of the Spirit of God.",
+            "I was obliged to regard you as mere men of flesh, without the Spirit: and it is not far different even now: ye are yet fleshly\u2014ye retain the same character.",
+            "He speaks of his first visit to Corinth, when they were recently admitted into the faith of Christ\u2014and excuses his merely elementary teaching by the fact that they then required it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I was compelled to speak to you as I would to MEN OF FLESH.",
+            "Paul had to speak to them as he would to men wholly natural, inasmuch as they are still carnal in many respects, notwithstanding their conversion.",
+            "They had life in Christ, but it was weak...He blames them for being still in a degree babes in Christ, when by this time they ought to have 'come unto a perfect man, unto the measure of the stature of the fulness of Christ'."
+        ],
+        "Albert Barnes": [
+            "I could not discourse to you as to far-advanced and well-informed Christians. I taught you the rudiments only of the Christian religion.",
+            "It denotes those who still evinced the feelings and views which pertain to the flesh, in these unhappy contentions, and strifes, and divisions.",
+            "As unto those recently born into his kingdom, and unable to understand the profounder doctrines of the Christian religion."
+        ],
+        "Marvin Vincent": [
+            "Carnal. Made of flesh.",
+            "Babes. Non-speakers.",
+            "Strongly contrasted with perfect."
+        ],
+        "John Calvin": [
+            "He declares, that they belong to the company of those who, stupefied by carnal sense, are not prepared to receive the spiritual wisdom of God.",
+            "What sort of sound judgment then must they have, when they are not fit and prepared as yet even for hearing!",
+            "For we must be children in malice, but not in understanding."
+        ],
+        "Philip Schaff": [
+            "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ those in whom the spiritual principles, like the higher faculties in a babe, lie all undeveloped.\" ",
+            "Spiritual, indeed, they were, for they were \u201cin Christ;\u201d but it was only as babes, unfit to digest the \u201cstrong meat\u201d of that \u201chidden wisdom\u201d which the apostle longed to impart to them as soon as they should reach the stage of 'the perfect.'"
+        ],
+        "Archibald T. Robertson": [
+            "He wanted to speak the wisdom of God among the adults...but he was unable to treat them as \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03bf in reality because of their seditions and immoralities.\" ",
+            "It is not wrong to be \u03c3\u03b1\u03c1\u03ba\u03b9\u03bd\u03bf\u03c2, for we all live in the flesh...but we are not to live according to the flesh.",
+            "It is one of the tragedies of the minister's life that he has to keep on speaking to the church members 'as unto babes in Christ', who actually glory in their long babyhood whereas they ought to be teachers of the gospel instead of belonging to the cradle roll."
+        ],
+        "John Gill": [
+            "They had carnal conceptions of things, were in carnal frames of soul, and walked in a carnal conversation with each other.",
+            "They were believers in Christ, converted persons, yet children in understanding, knowledge, and experience.",
+            "Many of them were unskilful in the word of righteousness, though others were enriched in all utterance and knowledge."
+        ],
+        "John Wesley": [
+            "And I, brethren \u2014 He spoke before, 1 Corinthians 2:1, of his entrance, now of his progress, among them.",
+            "Could not speak to you as unto spiritual \u2014 Adult, experienced Christians.",
+            "But as unto men who were still in great measure carnal, as unto babes in Christ - Still weak in grace, though eminent in gifts, 1 Corinthians 1:5."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Paul first visited the Corinthians, they were new in their faith and required elementary teaching. He had to speak to them as men of flesh because, although they had life in Christ, they were still babes in Christ. Paul desired to teach them the wisdom of God, treating them as adults, but their divisions and immoralities prevented him from doing so. It is a tragedy that they remained in a state of babyhood when they should have been teachers of the gospel. They were spiritual in the sense of being in Christ, but as babes, their understanding and development were still lacking. Paul longed for them to grow and mature in their faith, seeking spiritual discernment and leaving behind their carnal thoughts and behaviors.",
+            "wordCount": 125,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 2.1863235339872062,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                28.97,
+                39.37,
+                31.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Paul first visited the Corinthians, they were new in their faith and required elementary teaching. He had to speak to them as men of flesh because, although they had life in Christ, they were still babes in Christ. Paul desired to teach them the wisdom of God, treating them as adults, but their divisions and immoralities prevented him from doing so. They were spiritual in the sense of being in Christ, but as babes, their understanding and development were still lacking.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.3005838358015183,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.83,
+            "commentatorTierSimilarities": [
+                29.89,
+                38.74,
+                31.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Paul first visited the Corinthians, they were recently admitted into the faith of Christ and still required elementary teaching. He had to speak to them as men of flesh because they were still carnal in many respects. Although they had life in Christ, they were still babes in their understanding and were not yet mature in their faith. Paul longed for them to grow and become teachers of the gospel, but their divisions and immoralities hindered their spiritual growth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.25567483070128,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.34,
+            "commentatorTierSimilarities": [
+                30.59,
+                38.17,
+                31.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Paul first visited the Corinthians, they were new believers who required elementary teaching. He had to speak to them as men of flesh because they were still carnal in many respects, despite their conversion. Paul scolded them for remaining babes in Christ when they should have grown and matured in their faith. Their divisions and immoralities prevented him from teaching them the wisdom of God as he desired. It was a tragedy that they gloried in their long babyhood instead of becoming teachers of the gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.112165259147488,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                31.96,
+                37.27,
+                30.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Paul first visited the Corinthians, they were still babes in Christ, in need of elementary teaching. He had to speak to them as men of flesh because they were not yet mature in their understanding and had carnal thoughts and behaviors. Paul longed to teach them the wisdom of God, but their divisions and immoralities hindered their growth. It was unfortunate that they remained in a state of babyhood instead of becoming teachers of the gospel.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1914532826189568,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.21,
+            "commentatorTierSimilarities": [
+                29.96,
+                38.86,
+                31.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

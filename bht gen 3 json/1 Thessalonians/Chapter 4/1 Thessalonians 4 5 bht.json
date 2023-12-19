@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 13:59:27",
+    "verseRef": "1 Thessalonians 4:5",
+    "bestBHT": {
+        "bht": "Marriage is not simply about satisfying physical desires, but about cultivating pure, honorable relationships. Engaging in lustful behavior reflects a lack of true knowledge and understanding of God. The heathen worshiped licentious gods, contributing to their immoral behavior. The revival of paganism in modern times is driven by a desire to rid oneself of moral inhibitions imposed by God, leading to a disregard for sanctity. As Christians, we bear the responsibility to live above the standards of the pagans, honoring the institution of marriage and striving for sanctification.",
+        "wordCount": 88,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.763618943751291,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+        "commentatorTierSimilarities": [
+            36.22,
+            36.89,
+            26.88
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "which implies that such a one is unconsciously the passive slave of lust.",
+            "Ignorance of true religion is the parent of unchastity.",
+            "A people's morals are like the objects of their worship."
+        ],
+        "Albert Barnes": [
+            "Not in the lust of concupiscence - In gross gratifications.",
+            "Even as the Gentiles - This was, and is, a common vice among the pagan.",
+            "Which know not God - See the Romans 1:21, Romans 1:28 notes; Ephesians 2:12 note."
+        ],
+        "Marvin Vincent": [
+            "Not with avaricious greed.\" ",
+            "Its meaning is by no means limited to sensual lust.\" ",
+            "It is used as including all kinds of worldly desires."
+        ],
+        "Philip Schaff": [
+            "Marriage is to be contracted not for mere bodily gratification, but to gratify purer feelings and yearnings.\" ",
+            "Married people are so to live that they may be mutually conscious that with them marriage is an honourable estate, with nothing in it that makes them ashamed, and that it promotes their sanctification.",
+            "Every Christian, therefore, must feel how much more is required of him than of the heathen. Increased knowledge is increased responsibility."
+        ],
+        "Archibald T. Robertson": [
+            "Not in the passion of lust. Plain picture of the wrong way for the husband to come to marriage.",
+            "The heathen knew gods as licentious as they are themselves, but not God.",
+            "One of the reasons for the revival of paganism in modern life is professedly this very thing that men wish to get rid of the inhibitions against licentiousness by God."
+        ],
+        "John Gill": [
+            "For a man so to possess his vessel, is to cherish the sin of concupiscence, the first motions of sin in the heart, by which a man is drawn away, and enticed; to blow up the flame of lust, and to make provision for the flesh to fulfil the lusts thereof.\" ",
+            "Though they knew him, or might know him with a natural knowledge, by the light and works of nature, yet they knew him not savingly and spiritually, as he is revealed in the word, of which they were destitute.",
+            "For a man to use either his wife or his body in any unchaste and dishonourable manner, for the gratifying of his lusts, is to act an Heathenish part."
+        ],
+        "John Wesley": [
+            "Not in passionate desire \u2014 Which had no place in man when in a state of innocence.",
+            "Who know not God \u2014 And so may naturally seek happiness in a creature.",
+            "What seemingly accidental words slide in; and yet how fine, and how vastly important!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Marriage is not simply about satisfying our physical desires; it is about cultivating pure and honorable relationships. When individuals engage in sexual immorality, they become enslaved by their own passions. This is a reflection of their ignorance of true religion and their worship of worldly desires. The heathen, who worship gods as licentious as themselves, do not truly know God. In our modern world, there is a resurgence of paganism driven by the desire to be free from godly inhibitions against licentiousness. As Christians, we must remember that increased knowledge brings increased responsibility, and we are called to live in a way that promotes our sanctification and honors the institution of marriage. We should strive for a higher standard than the Gentiles, not seeking gratification in gross pleasures, but cherishing the purity and dignity of our relationships.",
+            "wordCount": 137,
+            "quoteTokenProportion": 35.79,
+            "qualityScore": 1.760338045775456,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "commentatorTierSimilarities": [
+                36.87,
+                37.03,
+                26.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Marriage should not be reduced to mere bodily gratification; it is meant to satisfy purer feelings and promote sanctification. Engaging in lustful behavior means succumbing to the passions of the flesh, revealing a lack of true knowledge and understanding of God. It is important to remember that our morals are shaped by our worship, and when we worship licentious gods, we risk propagating immoral behavior. As Christians, we bear the responsibility of living above the standards of the pagans and upholding the honor and sanctity of marriage.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.7227553770829873,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                32.14,
+                40.02,
+                27.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Marriage is not simply for satisfying physical desires; it is about cultivating pure relationships and avoiding the bondage of lust. Ignorance of true religion leads to immorality, as people's morals are influenced by their objects of worship. The pagan gods were known for their licentiousness, unlike the true God. The modern resurgence of paganism stems from a desire to remove inhibitions against licentiousness. As Christians, we have a greater responsibility to live according to higher standards and promote sanctification within marriage.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.750914894339703,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                40.77,
+                36.74,
+                22.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Marriage is not merely about fulfilling sensual desires, but about pursuing and maintaining pure, honorable relationships. Engaging in lustful behavior reveals a lack of true knowledge and understanding of God, and reflects the inevitable influence that one's worship has on their morals. The pagan gods worshipped by the heathen were known for their licentiousness, in contrast to the true God. The modern rise of paganism can be traced back to society's desire to cast off inhibitions against licentiousness imposed by God. As Christians, we are called to live above the standards of the pagan world, striving for purity and sanctification in our relationships.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7000797686625746,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+            "commentatorTierSimilarities": [
+                35.94,
+                36.2,
+                27.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Marriage is not simply about satisfying physical desires, but about cultivating pure, honorable relationships. Engaging in lustful behavior reflects a lack of true knowledge and understanding of God. The heathen worshiped licentious gods, contributing to their immoral behavior. The revival of paganism in modern times is driven by a desire to rid oneself of moral inhibitions imposed by God, leading to a disregard for sanctity. As Christians, we bear the responsibility to live above the standards of the pagans, honoring the institution of marriage and striving for sanctification.",
+            "wordCount": 88,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.763618943751291,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+            "commentatorTierSimilarities": [
+                36.22,
+                36.89,
+                26.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

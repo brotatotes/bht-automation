@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:32:37",
+    "verseRef": "Acts 17:10",
+    "bestBHT": {
+        "bht": "After facing opposition and danger in Thessalonica, Paul and Silas sought refuge in Berea. The decision to leave was not taken lightly, as it was important to ensure the peace and wellbeing of the growing community of believers in Thessalonica. In Berea, they continued their mission and taught in the synagogue, undeterred by the challenges they had encountered. Paul and Silas exemplified their unwavering commitment and love for the church, as they trusted in God's guidance and wasted no time in sharing the gospel message.",
+        "wordCount": 86,
+        "quoteTokenProportion": 28.07,
+        "qualityScore": 1.6192040730377213,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+        "commentatorTierSimilarities": [
+            30.38,
+            33.27,
+            36.36
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The very intermitted and occasional notices of Paul\u2019s companions in this journey should be a caution against rash hypotheses.",
+            "The general character of the narrative seems to be, that where Paul, or Paul and Silas, are alone or principally concerned, all mention of the rest is suspended.",
+            "Both these facts, especially the last, seeing that the distance from Philippi was 100 Roman miles, make it very improbable that his stay was so short as from three to four weeks."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For it would have been as useless as rash to attempt any further preaching at that time.",
+            "The conviction of this probably made his friends the more willing to pledge themselves against any present continuance of missionary effort.",
+            "A town even still of considerable population and importance."
+        ],
+        "Albert Barnes": [
+            "They did this for their safety. Yet this was not done until the gospel had taken deep root in Thessalonica.",
+            "Having preached there, and laid the foundation of a church; having thus accomplished the purpose for which they went there, they prepared to leave the city.",
+            "Berea is on the eastern slope of the Olympian range, and commands an extensive view of the plain which is watered by the Haliacmon and Axius."
+        ],
+        "John Calvin": [
+            "Paul\u2019s labor brought forth fruit in a small time.",
+            "The constancy of Paul is incredible.",
+            "All the servants of Christ must so wrestle with the malice of the world, that they shake not off Christ\u2019s yoke with what injuries soever they be provoked."
+        ],
+        "Philip Schaff": [
+            "The magistrates, dreading a fresh outbreak on the part of these suspected Orientals, and the Christian community knowing the bitter and sleepless hostility of the Jews, determined it was best for the peace and wellbeing of the growing community of believers in Jesus that the great and hated teacher should, for a time at least, absent himself.",
+            "Berea. A city of no great fame in history, about sixty miles from Thessalonica. It was a favourite dwelling-place for the Jews...Paul seems to have had marked success there among the Jewish population; but, strange to say, the name of Berea is never mentioned by him in any of his epistles."
+        ],
+        "Archibald T. Robertson": [
+            "Paul loved the church here.",
+            "Plainly Paul and Silas had been in hiding in Thessalonica and in real danger.",
+            "Paul's usual custom and he lost no time about it."
+        ],
+        "John Gill": [
+            "And the brethren,.... The believers in Thessalonica, the young converts there, who were full of love and affection to their spiritual fathers.\" ",
+            "Hither the brethren sent Paul and Silas, when it was night and dark, and they could pass unobserved, in order to preserve them from the fury of the mob.",
+            "Who coming thither; to Berea; that is, Paul and Silas: went into the synagogue of the Jews; which was in that city; not being at all daunted or discouraged with what they had met with at Thessalonica."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After facing opposition and danger in Thessalonica, Paul and Silas quietly left the city with the support and concern of their fellow believers. They found refuge in Berea and continued their mission by teaching in the synagogue. This decision to leave Thessalonica was not made lightly, as the growing Christian community and the magistrates both recognized the need for peace and protection. Despite the challenges they faced, Paul and Silas remained steadfast in their dedication to spreading the message of Christ, exemplifying the unwavering commitment required of all who serve the Lord. Their love for the church in Berea, along with their swift and deliberate actions, demonstrate Paul's usual custom of wholeheartedly serving the Lord and his people.",
+            "wordCount": 119,
+            "quoteTokenProportion": 26.58,
+            "qualityScore": 1.5738916699859926,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                27.61,
+                34.01,
+                38.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After facing opposition and danger in Thessalonica, Paul and Silas quietly left the city with the support and concern of their fellow believers. They found refuge in Berea and continued their mission by teaching in the synagogue. This decision to leave Thessalonica was not made lightly, as the growing Christian community and the magistrates both recognized the need for peace and protection. Despite the challenges they faced, Paul and Silas remained steadfast in their dedication to spreading the message of Christ, exemplifying the unwavering commitment required of all who serve the Lord.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.5468775812131166,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.78,
+            "commentatorTierSimilarities": [
+                26.67,
+                36.49,
+                36.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After facing opposition and danger in Thessalonica, Paul and Silas sought refuge in Berea. The decision to depart was not hasty or rash, but rather a response to the circumstances they faced. Their departure allowed for the preservation of the growing community of believers in Thessalonica. In Berea, they continued their mission and taught in the synagogue, undeterred by the challenges they had encountered. Paul and Silas demonstrated their unwavering commitment to spreading the message of Christ, and their actions reflected their deep love for the church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.4437886600350565,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+            "commentatorTierSimilarities": [
+                29.54,
+                32.45,
+                38.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After facing opposition and danger in Thessalonica, Paul and Silas sought refuge in Berea. The decision to leave was not taken lightly, as it was important to ensure the peace and wellbeing of the growing community of believers in Thessalonica. In Berea, they continued their mission and taught in the synagogue, undeterred by the challenges they had encountered. Paul and Silas exemplified their unwavering commitment and love for the church, as they trusted in God's guidance and wasted no time in sharing the gospel message.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.6192040730377213,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+            "commentatorTierSimilarities": [
+                30.38,
+                33.27,
+                36.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After facing opposition and danger in Thessalonica, Paul and Silas sought refuge in Berea for the sake of their own safety and the peace of the believers. Their decision to leave was made carefully, considering the circumstances and the need to protect the growing Christian community. In Berea, they continued their mission, teaching in the synagogue and demonstrating their unwavering commitment to spreading the message of Christ. Their actions reflect their love for the church and their willingness to endure hardships for the sake of the gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 22.64,
+            "qualityScore": 1.4477578777566302,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.48,
+            "commentatorTierSimilarities": [
+                25.11,
+                37.36,
+                37.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

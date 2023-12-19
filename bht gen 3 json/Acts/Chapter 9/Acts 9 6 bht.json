@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:28:45",
+    "verseRef": "Acts 9:6",
+    "bestBHT": {
+        "bht": "Saul's question, What shall I do, Lord? reveals his mistaken religious views and character, prompting him to seek God's guidance. He trusts in God's teaching and willingly follows His directions. The omission of trembling and astonished in the best manuscripts suggests Saul's response was not fear, but a genuine recognition of his guilt and God's mercy. Seeking counsel from the church, he humbly surrenders his will to God's. We should listen to ministers appointed by Christ, as the Lord uses men to guide us.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.682186938540462,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+        "commentatorTierSimilarities": [
+            23.37,
+            42.46,
+            34.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The question, 'What shall I do, Lord?' or, 'Lord, what wilt Thou have me to do?' indicates a state of mind singularly interesting.",
+            "As a consequence of this, that not only all his religious views, but his whole religious character, had been an entire mistake; that he was up to that moment fundamentally and wholly wrong.",
+            "He had absolute confidence in Him who had so tenderly arrested him in his blind career, and was ready both to take in all His teaching and to carry out all His directions."
+        ],
+        "Albert Barnes": [
+            "It is not remarkable that a sinner trembles when he sees his guilt and danger.",
+            "The sinner follows his own; the first act of the Christian is to surrender his own will to that of God, and to resolve to do what he requires.",
+            "Those who are converted, in however striking a manner it may be, should be willing to seek the counsel of those who are in the church before them."
+        ],
+        "Marvin Vincent": [
+            "Trembling and astonished. The best texts omit."
+        ],
+        "John Calvin": [
+            "For doubtless the Lord doth not so bring us into the way, that he leaveth us either before we begin our course, or in the midst thereof; but he bringeth us unto the very mark by little and little.",
+            "For if Christ made Paul subject to the teaching of a common disciple, which of us can grudge to hear any teacher, so that he be appointed by Christ, that is, he declare himself to be his minister in deed?",
+            "Therefore we must always use this moderation, that we hear God alone in Christ, and Christ himself alone, yet as he speaketh by his ministers."
+        ],
+        "Archibald T. Robertson": [
+            "The best MSS. do not have 'trembling and astonished,' and 'What wilt thou have me to do, Lord?' The Textus Receptus put these words in here without the authority of a Greek codex.\" ",
+            "It shall be told thee (\u03bb\u03b1\u03bb\u03b7\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1). Future passive indicative of \u03bb\u03b1\u03bb\u03b5\u03c9. It is hardly likely that Luke records all that Jesus said to Saul, but more was to come on his arrival in Damascus.",
+            "What (\u03bf\u03c4). Rare in Koine use of this indefinite neuter relative in an indirect question, the only example in the N.T. (Robertson, Grammar, p. 731). Human agents like Ananias can finish what Jesus by supernatural manifestation has here begun in Saul."
+        ],
+        "John Gill": [
+            "So persons under first convictions 'tremble' at the sight of their sins, which rise up like so many ghosts, and stare them in the face, and load their consciences with guilt.",
+            "They are 'astonished' at their own wickedness and vileness, which they had no conception of before; at the sparing mercy and forbearance of God, who has continued them in being, and not sent them to hell.",
+            "He was willing to do anything he should him to, whereby he might make satisfaction for the injury he had done him, and by which he might be saved; for he was still upon the covenant of works, as persons under first convictions commonly are."
+        ],
+        "John Wesley": [
+            "Admirable condescension! that the Lord deals with us by men, like ourselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The question that Saul asks, What shall I do, Lord? reveals his sincere and interested state of mind. He realizes that his previous religious views and character were completely mistaken, and he is humble and ready to accept the teachings and directions of the One who has arrested him on his misguided path. The phrase trembling and astonished is omitted in the best manuscripts, indicating that Saul's response was not one of fear but rather a genuine recognition of his guilt and the mercy of God. As Saul seeks guidance, he demonstrates the importance of seeking counsel from those in the church who have gone before him, humbly submitting his will to the will of God. Just as the Lord uses men to deal with us, we too should be willing to listen to those who declare themselves as ministers of Christ, as He speaks through them. We should always remember that the Lord does not leave us in our own confusion and that He leads us to the right path step by step.",
+            "wordCount": 175,
+            "quoteTokenProportion": 40.37,
+            "qualityScore": 1.6696727468232933,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+            "commentatorTierSimilarities": [
+                25.65,
+                39.54,
+                34.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Saul's question, What shall I do, Lord? reflects his profound realization of his mistaken religious views and character. With absolute trust in God, he is eager to receive His teachings and follow His directions. The omission of trembling and astonished in the best manuscripts signifies Saul's response was not out of fear, but a genuine recognition of his guilt and God's mercy. Seeking guidance from the church, Saul demonstrates the humility required to surrender his will to God's. As the Lord uses men to guide us, we should listen to ministers appointed by Christ, always remembering that God leads us gradually to the right path.",
+            "wordCount": 109,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.631333461226942,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.58,
+            "commentatorTierSimilarities": [
+                25.31,
+                40.96,
+                33.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Saul's question, What shall I do, Lord? reveals his mistaken religious views and character, prompting him to seek God's guidance. He trusts in God's teaching and willingly follows His directions. The omission of trembling and astonished in the best manuscripts suggests Saul's response was not fear, but a genuine recognition of his guilt and God's mercy. Seeking counsel from the church, he humbly surrenders his will to God's. We should listen to ministers appointed by Christ, as the Lord uses men to guide us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.682186938540462,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                23.37,
+                42.46,
+                34.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Saul's question, What shall I do, Lord? demonstrates his sincere and humble mindset, acknowledging his complete misunderstanding of his previous religious views and character. With utmost trust in God, he is both willing to learn from Him and follow His instructions. The omission of trembling and astonished in the best manuscripts suggests that Saul's response was not based on fear but rather a genuine recognition of his guilt and the mercy of God. Seeking guidance from the church, Saul exemplifies the importance of seeking counsel from those who have walked the path of faith before him. We should be open to listening to ministers appointed by Christ, recognizing the Lord's use of human messengers in our lives.",
+            "wordCount": 120,
+            "quoteTokenProportion": 36.05,
+            "qualityScore": 1.6589726425196198,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+            "commentatorTierSimilarities": [
+                25.9,
+                40.08,
+                34.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Saul's question, What shall I do, Lord? signifies his profound realization of his mistaken religious beliefs and character. Extending absolute confidence in God, he is ready to learn and follow His divine instructions. The exclusion of trembling and astonished in the reliable manuscripts implies that Saul's reaction did not arise from fear but rather from acknowledging his guilt and God's mercy. Seeking guidance from the church, Saul humbly surrenders his will to God's and exemplifies the significance of listening to those appointed by Christ. As the Lord designs His guidance through human representatives, it is crucial for us to remain receptive to their teachings.",
+            "wordCount": 108,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 1.5436071060239842,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.67,
+            "commentatorTierSimilarities": [
+                25.68,
+                41.03,
+                33.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

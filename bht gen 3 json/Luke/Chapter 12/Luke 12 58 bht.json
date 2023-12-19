@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:19:20",
+    "verseRef": "Luke 12:58",
+    "bestBHT": {
+        "bht": "The necessity of immediate decision and the urgency of the case are emphasized. Individuals must recognize the importance of repentance and making amends before it's too late. The analogy of a debtor meeting a creditor on the way emphasizes the need for prompt resolution. It is essential to give diligence to be rid of the officer, who represents the executor of punishment. Failing to do so may lead to being delivered over to the executioners of God's vengeance, resulting in irreparable consequences.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.276151469020902,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.78,
+        "commentatorTierSimilarities": [
+            41.89,
+            34.04,
+            24.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The urgency of the case with them, and the necessity, for their own safety, of immediate decision...",
+            "The object of these striking words.",
+            "The necessity, for their own safety, of immediate decision..."
+        ],
+        "Marvin Vincent": [
+            "Their own judgment should show them the necessity of repentance toward God; and this duty is urged under the figure of a debtor who meets his creditor in the way, and whose best policy it is to make terms on the spot.",
+            "On the way give diligence.",
+            "The name praktor was given at Athens to an officer charged with the collection of taxes; hence an exactor."
+        ],
+        "Philip Schaff": [
+            "The \u2018adversary\u2019 is the holy law of God, since \u2018what is right\u2019 had just been spoken of; in the parallel passage, Matthew 5:25-26, the connection points rather to some brother offended.",
+            "The magistrate is God.",
+            "Officer, or \u2018exactor.\u2019 The Roman officer corresponding to our sheriff, more exactly named by Luke than by Matthew. The word is used only here, and probably refers to the angels, see Matthew 13:41."
+        ],
+        "Archibald T. Robertson": [
+            "Give diligence to be quit of him... to be rid of him for good.\" ",
+            "Hale thee... drag down forcibly.\" ",
+            "To the officer... the exactor of fines, the executor of punishment."
+        ],
+        "John Gill": [
+            "Give diligence that thou mayest be delivered from him.",
+            "Make up matters with him, satisfy him in some way or other, before things are brought to an extremity.",
+            "And the officer cast thee into prison."
+        ],
+        "John Wesley": [
+            "And ye have not a moment to lose.",
+            "For the executioners of God's vengeance are at hand.",
+            "And when he hath once delivered you over to them, ye are undone for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The urgency of the case and the necessity of immediate decision are emphasized in this verse. It is crucial for individuals to recognize the necessity of repentance toward God and to make amends before it is too late. The verse uses the analogy of a debtor meeting his creditor on the way, illustrating that it is in one's best interest to resolve matters quickly. The verse also highlights the role of a tax collector, who represents an officer of fines and the executor of punishment. It is essential to give diligence to be rid of him and to avoid being delivered over to the executioners of God's vengeance.",
+            "wordCount": 110,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.3542725331489336,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.37,
+            "commentatorTierSimilarities": [
+                38.01,
+                37.86,
+                24.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The necessity of immediate decision and the urgency of the case are emphasized. Individuals must recognize the importance of repentance and making amends before it's too late. The analogy of a debtor meeting a creditor on the way emphasizes the need for prompt resolution. It is essential to give diligence to be rid of the officer, who represents the executor of punishment. Failing to do so may lead to being delivered over to the executioners of God's vengeance, resulting in irreparable consequences.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.276151469020902,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.78,
+            "commentatorTierSimilarities": [
+                41.89,
+                34.04,
+                24.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse speaks of the necessity for immediate decision and the urgency of the case. It urges individuals to recognize the importance of repentance and making amends before it is too late. The analogy of a debtor meeting his creditor on the way highlights the need to resolve matters promptly. The verse emphasizes the significance of giving diligence to be rid of the officer, who represents the executor of punishment, to avoid being delivered over to the executioners of God's vengeance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.3618662449800003,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.63,
+            "commentatorTierSimilarities": [
+                40.01,
+                39.31,
+                20.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The urgency and necessity of immediate decision are emphasized in this passage. It stresses the importance of recognizing the need for repentance and making amends before it is too late. Using the analogy of a debtor meeting his creditor on the way, the passage illustrates the importance of resolving matters promptly. It highlights the significance of giving diligence to be rid of the officer who represents the executor of punishment. Failing to do so may result in being delivered over to the executioners of God's vengeance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.266955766413039,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.47,
+            "commentatorTierSimilarities": [
+                39.3,
+                37.04,
+                23.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The urgency and necessity of immediate decision are imperative. It is crucial to recognize the need for repentance and making amends before it is too late. The analogy of a debtor meeting his creditor emphasizes the significance of resolving matters promptly. The passage underscores the importance of giving diligence to be rid of the officer, who represents the executor of punishment. If not, one may face dire consequences by being delivered over to the executioners of God's vengeance.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.3144063418895688,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+            "commentatorTierSimilarities": [
+                39.16,
+                36.61,
+                24.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

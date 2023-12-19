@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:31:27",
+    "verseRef": "Ephesians 3:18",
+    "bestBHT": {
+        "bht": "May you fully comprehend the breadth, length, depth, and height of Christ's love, which embraces all men, extends through all ages, possesses profound wisdom, and is beyond the reach of any foe. The love of Christ is the fundamental principle of Christian life and knowledge, and Paul prays that through the strengthening of the Spirit, you may be rooted and grounded in it. This love reaches to the nations, successive ages, the misery and corruption of sin, and the glory of God's throne. May you be strong enough to grasp the unconditional and immeasurable love of Christ.",
+        "wordCount": 99,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.8932639032296106,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+        "commentatorTierSimilarities": [
+            32.61,
+            31.35,
+            36.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "May be fully able.",
+            "The 'breadth' implies Christ's world-wide love, embracing all men: the 'length,' its being extended through all ages; the 'depth,' its profound wisdom which no creature can fathom; the 'height,' its being beyond the reach of any foe to deprive us of.",
+            "To know the love of Christ."
+        ],
+        "Albert Barnes": [
+            "That all others with you may be able to understand this.",
+            "It seems rather to be the language of a heart that was full of the subject, and impressed with its greatness.",
+            "The apostle evidently meant to express the strongest sense of the greatness of the love of the Redeemer, and to show in the most emphatic manner how much he wished that they should fully understand it."
+        ],
+        "Marvin Vincent": [
+            "Rooting and grounding are consequences of the strengthening of the Spirit and of Christ's indwelling.",
+            "In love. Standing first in the sentence and emphatic, as the fundamental principle of Christian life and knowledge.",
+            "Paul prays that the inward might or virtue may issue in the ability to grasp...breadth, etc. No special interpretations are to be given to these words. The general idea of vastness is expressed in these ordinary terms for dimension."
+        ],
+        "John Calvin": [
+            "The second fruit is, that the Ephesians should perceive the greatness of Christ\u2019s love to men. Such an apprehension or knowledge springs from faith.\" ",
+            "By desiring that they should comprehend it with all saints, he shows that it is the most excellent blessing which they can obtain in the present life; that it is the highest wisdom, to which all the children of God aspire.",
+            "Laying aside the views of others, I shall state what will be universally acknowledged to be the simple and true meaning."
+        ],
+        "Philip Schaff": [
+            "May be fully able, or, \u2018may be strong enough,\u2019 suggesting difficulty, and the need of exertion.",
+            "To comprehend. Philippians 3:12-13: \u2018apprehend,\u2019 a rendering which is perhaps too weak, since, both here and there, more is meant than an intellectual apprehension, namely, a spiritual perception and inward experience.",
+            "'Breadth refers to the nations lying beside each other on the earth, over all of whom the love of Christ will extend itself; length, to the successive ages during which it will reach; depth, to the misery and corruption of sin, into which it will descend; height, to the glory at God\u2019s throne and near His heart, to which it could elevate all\u2019 (Braune)."
+        ],
+        "Archibald T. Robertson": [
+            "That ye may be strong...to have full strength.\" ",
+            "To apprehend...to grasp.\" ",
+            "Fellowship open to all...a rectangular...measure of love."
+        ],
+        "John Gill": [
+            "This is the end of their being rooted and grounded in love, that they, together with the rest of the saints interested in it, might have a larger and more comprehensive view.",
+            "Not of God himself, who is incomprehensible by finite minds, and is not to be found out to perfection.",
+            "But rather of the love of God, which in its length reaches from one eternity to another; in its breadth to all the elect, in all ages, places, and nations; and in its depth to saints in the lowest state of life; and in its height to bring them to an exalted state in glory."
+        ],
+        "John Wesley": [
+            "That being rooted and grounded... deeply fixed and firmly established, in love.\" ",
+            "What is the breadth of the love of Christ... Embracing all mankind.\" ",
+            "And depth... Not to be fathomed by any creature. And height... Not to be reached by any enemy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May you be fully able to comprehend the vastness of Christ's love, which embraces all men, extends through all ages, possesses profound wisdom, and is beyond the reach of any foe. The love of Christ is the fundamental principle of Christian life and knowledge, and Paul prays that through the strengthening of the Spirit, you may be rooted and grounded in it. This love is not only intellectual, but also a spiritual perception and inward experience. It reaches to the nations, successive ages, the misery and corruption of sin, and the glory of God's throne. May you grasp the rectangular measure of this love and be strong enough to fully understand its greatness.",
+            "wordCount": 115,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.783044392207254,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                30.21,
+                34.5,
+                35.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May you be fully able to comprehend the vastness of Christ's love, which embraces all men, extends through all ages, possesses profound wisdom, and is beyond the reach of any foe. The love of Christ is the fundamental principle of Christian life and knowledge, and Paul prays that through the strengthening of the Spirit, you may be rooted and grounded in it. This love reaches to the nations, successive ages, the misery and corruption of sin, and the glory of God's throne. May you grasp the rectangular measure of this love and be strong enough to fully understand its greatness.",
+            "wordCount": 102,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.873692739031973,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                30.08,
+                34.38,
+                35.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May you fully comprehend the breadth, length, depth, and height of Christ's love, which embraces all men, extends through all ages, possesses profound wisdom, and is beyond the reach of any foe. The love of Christ is the fundamental principle of Christian life and knowledge, and Paul prays that through the strengthening of the Spirit, you may be rooted and grounded in it. This love reaches to the nations, successive ages, the misery and corruption of sin, and the glory of God's throne. May you be strong enough to grasp the unconditional and immeasurable love of Christ.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8932639032296106,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                32.61,
+                31.35,
+                36.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May you fully comprehend the breadth, length, depth, and height of Christ's love, which embraces all men, extends through all ages, possesses profound wisdom, and is beyond the reach of any foe. The love of Christ is the fundamental principle upon which the Christian life and knowledge are built. Paul's prayer is that you may be firmly rooted and grounded in this love, and empowered by the Spirit to understand its vastness. This love transcends boundaries, time, and even the darkest depths of sin, reaching towards the utmost heights of divine glory.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.798219590622066,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+            "commentatorTierSimilarities": [
+                30.78,
+                30.41,
+                38.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May you be fully able to comprehend the vastness of Christ's love, which embraces all men, extends through all ages, possesses profound wisdom, and is beyond the reach of any foe. The love of Christ is the fundamental principle of Christian life and knowledge, and Paul prays that through the strengthening of the Spirit, you may be rooted and grounded in it. This love reaches to the nations, successive ages, the misery and corruption of sin, and the glory of God's throne. May you grasp the rectangular measure of this love and be strong enough to fully understand its greatness.",
+            "wordCount": 102,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.873692739031973,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                30.08,
+                34.38,
+                35.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

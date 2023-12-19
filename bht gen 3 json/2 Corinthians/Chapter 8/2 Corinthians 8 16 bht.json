@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 15:17:09",
+    "verseRef": "2 Corinthians 8:16",
+    "bestBHT": {
+        "bht": "Titus, filled with zealous care, willingly accepted Paul's exhortation to go to the Corinthians. Paul believed that every inclination to serve God or benefit others was a gift from God. The act of benevolence shown by Titus towards the Corinthians was seen as an act of kindness done to them. Thus, thanks be to God who put this same earnest care into Titus' heart, for it was not merely a natural inclination but a divine work of the Spirit of God.",
+        "wordCount": 82,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.134615595147169,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.32,
+        "commentatorTierSimilarities": [
+            25.11,
+            47.45,
+            27.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16.] The sense is taken up from ver. 6. the same, viz. as I have in my heart."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Which put the same earnest care for you into the heart of Titus, as was in myself.",
+            "My care for you led me to 'desire' him, but Titus had of himself the same care.",
+            "Titus accepted (gladly) my exhortation to go to you."
+        ],
+        "Albert Barnes": [
+            "Paul regarded every right feeling, and every pure desire; every inclination to serve God or to benefit a fellow mortal, as the gift of God.\" ",
+            "The earnest care here referred to was that the Corinthians might complete the collection, and finish what they had proposed. Titus was willing to undertake this, and see that it was done.\" ",
+            "A man who presents to Christians a feasible object of benevolence, and who furnishes them an opportunity of doing good to others, is doing good to them, and they should esteem it an act of kindness done to them."
+        ],
+        "John Calvin": [
+            "There are no pious affections that do not proceed from the Spirit of God.\" ",
+            "God's concern for his people, that he raises up ministers and guardians, to make it their endeavor to relieve their necessities.",
+            "It is His special and peculiar work to raise up pastors."
+        ],
+        "Philip Schaff": [
+            "But thanks be to God, which putteth the same earnest care for you into the heart of Titus."
+        ],
+        "Archibald T. Robertson": [
+            "Which putteth (\u03c4\u03c9 \u03b4\u03b9\u03b4\u03bf\u03bd\u03c4). Present active articular participle, \"who is continually giving.\" Hence Titus is full of zealous care for you. "
+        ],
+        "John Gill": [
+            "But thanks be to God....which, says he, put the same earnest care into the heart of Titus for you...and this care, as it was a very earnest and hearty one, so he suggests that it was more for them, than for the sake of the poor.",
+            "The performance of acts of beneficence and liberality tending more to the advantage and account of the giver than of the receiver.",
+            "These good motions in the heart of Titus were not merely natural, or the effects of human power and free will, but were of God...they were wrought in him by the Spirit of God, and sprung from the grace of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Titus, filled with zealous care, willingly accepted Paul's exhortation to go to the Corinthians. Paul believed that every inclination to serve God or benefit others was a gift from God. Titus, in his earnest care, was appointed by God to encourage the Corinthians to complete their collection. This act of benevolence bestowed upon them by Titus was seen as an act of kindness done unto them. Thus, thanks be to God who put this same earnest care into Titus' heart, for it was not merely a natural inclination, but a divine work of the Spirit of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.1311882762622663,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.2,
+            "commentatorTierSimilarities": [
+                25.2,
+                47.49,
+                27.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Titus, filled with zealous care, willingly accepted Paul's exhortation to go to the Corinthians. Paul believed that every inclination to serve God or benefit others was a gift from God. This act of benevolence bestowed upon them by Titus was seen as an act of kindness done unto them. Thanks be to God who put this same earnest care into Titus' heart, for it was not merely a natural inclination, but a divine work of the Spirit of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.1028755377194646,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.26,
+            "commentatorTierSimilarities": [
+                25.22,
+                47.26,
+                27.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Titus, filled with zealous care for the Corinthians, accepted Paul's exhortation to go to them. This earnest care was believed by Paul to be a gift from God, as he regarded every right feeling and inclination to serve as such. The act of benevolence displayed by Titus towards the Corinthians was seen as an act of kindness done to them. Therefore, thanks be to God who put this same heartfelt care into the heart of Titus, for it was not a mere result of human will, but a work of the Spirit of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.171107220910195,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.53,
+            "commentatorTierSimilarities": [
+                25.95,
+                46.17,
+                27.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Titus, filled with zealous care for the Corinthians, willingly accepted Paul's exhortation to go to them. According to Paul, every inclination to serve God or benefit others is a gift from Him. The act of benevolence shown by Titus towards the Corinthians was considered an act of kindness done to them. Therefore, thanks be to God who put the same heartfelt care into the heart of Titus, for it was not a mere result of human will, but a divine work of the Spirit of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.1236584939709573,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                25.99,
+                46.1,
+                27.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Titus, filled with zealous care, willingly accepted Paul's exhortation to go to the Corinthians. Paul believed that every inclination to serve God or benefit others was a gift from God. The act of benevolence shown by Titus towards the Corinthians was seen as an act of kindness done to them. Thus, thanks be to God who put this same earnest care into Titus' heart, for it was not merely a natural inclination but a divine work of the Spirit of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.134615595147169,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.32,
+            "commentatorTierSimilarities": [
+                25.11,
+                47.45,
+                27.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

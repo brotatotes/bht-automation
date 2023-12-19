@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:19:02",
+    "verseRef": "Luke 12:45",
+    "bestBHT": {
+        "bht": "The servant, confident of the delay in the master's return, abandons his servant role and mistreats those who remain faithful. He plans to deceive the master and resumes his act of fidelity when the master appears. This parable cautions against the danger of complacency and unfaithfulness, emphasizing the importance of genuine actions that align with professed faith. Mere profession without corresponding deeds is inadequate, and those who fall away from their faith can become harsh persecutors of the faithful.",
+        "wordCount": 80,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.43774484987686,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.15,
+        "commentatorTierSimilarities": [
+            58.57,
+            0.0,
+            41.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "In the confidence that his Lord's return will not be speedy, he throws off the role of servant and plays the master...\" ",
+            "Maltreating those faithful servants who refuse to join him, seizing on and revelling in the fulness of his master's board...",
+            "...intending, when he has got his fill, to resume the mask of fidelity ere his master appear."
+        ],
+        "Marvin Vincent": [
+            "Delayeth. The emphatic word, since the thought of the lord 's delay and of the postponement of the reckoning is uppermost in the servant 's thought."
+        ],
+        "Archibald T. Robertson": [
+            "Shall say, Delayeth, Shall begin. The menservants and the maidservants.\" (26 words)",
+            "Shall say, Delayeth, Shall begin.\" (6 words)",
+            "The menservants and the maidservants.\" (6 words)"
+        ],
+        "John Gill": [
+            "because he tarried longer than was expected, supposed him to be slack concerning his promise",
+            "he calls Christ his Lord; but it is not saying Lord, Lord, that will be of any avail, but doing the will of God",
+            "professors of religion, when they turn apostates, are the most violent persecutors of the saints"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 12:45, the servant embodies a dangerous attitude of arrogance and complacency, assuming that his master's return will be delayed and abusing his position of authority. The servant maltreats those who remain faithful and plans to deceive his master upon his return. This parable highlights the danger of adopting a mindset that excuses unfaithfulness and disregards the imminence of the master's return. The delay of the master's arrival becomes the servant's justification for his actions, but in reality, it only reveals his true character. The emphasis on delay reflects the servant's misguided perception and his intention to resume his facade of loyalty later. Ultimately, this passage reminds us that mere profession of faith without corresponding actions is inadequate and that those who abandon their faith can become fierce persecutors of the faithful.",
+            "wordCount": 137,
+            "quoteTokenProportion": 31.33,
+            "qualityScore": 1.5398756023460072,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.54,
+            "commentatorTierSimilarities": [
+                55.09,
+                0.0,
+                44.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servant in this verse displays an attitude of arrogance and complacency, assuming that his master's return will be delayed, mistreating faithful servants, and intending to deceive his master. This parable highlights the danger of adopting a mindset that excuses unfaithfulness and disregards the imminent return of the master. The delay becomes the servant's justification for his actions, but it only reveals his true character. Mere profession of faith without corresponding actions is insufficient, and those who abandon their faith can become fierce persecutors of the faithful.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.5087425210394596,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.51,
+            "commentatorTierSimilarities": [
+                52.17,
+                0.0,
+                47.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servant, confident in the delay of his master's return, abandons his role as servant and behaves as if he were the master, mistreating the faithful servants who refuse to join him. He intends to resume his act of fidelity before his master arrives, only desiring to revel in abundance first. This parable underscores the danger of assuming the master's return will be postponed and justifies unfaithfulness. It emphasizes the importance of genuine faith expressed through actions, as mere profession without deeds is insufficient.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.4291161573521785,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.86,
+            "commentatorTierSimilarities": [
+                56.11,
+                0.0,
+                43.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The servant in this verse disregards his role and assumes the position of the master with the misguided belief that the master's return will be delayed. He mistreats the faithful servants who refuse to join him and plans to deceive his master before his arrival. This parable warns against adopting a mindset of unfaithfulness and complacency, emphasizing the need for genuine actions to accompany professions of faith. Those who abandon their faith may even become persecutors of the faithful.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.4239236307253416,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.69,
+            "commentatorTierSimilarities": [
+                51.99,
+                0.0,
+                48.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servant, confident of the delay in the master's return, abandons his servant role and mistreats those who remain faithful. He plans to deceive the master and resumes his act of fidelity when the master appears. This parable cautions against the danger of complacency and unfaithfulness, emphasizing the importance of genuine actions that align with professed faith. Mere profession without corresponding deeds is inadequate, and those who fall away from their faith can become harsh persecutors of the faithful.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.43774484987686,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.15,
+            "commentatorTierSimilarities": [
+                58.57,
+                0.0,
+                41.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

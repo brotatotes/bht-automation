@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:28:39",
+    "verseRef": "Acts 9:13",
+    "bestBHT": {
+        "bht": "Ananias, approached with the task of ministering to Saul, addresses Jesus as Thy saints, acknowledging this significant appellation given to believers for the first time. Ananias questions the wisdom of this assignment, but Jesus reassures him, displaying the tender relationship between the believer and the Redeemer, likening it to a man speaking with his friend. By referring to Christ as Thy saints, Ananias emphasizes his belief in the divinity of Christ. Despite Ananias' limited perspective, Jesus sees the transformative power of grace in Saul, envisioning him as a messenger of mercy.",
+        "wordCount": 91,
+        "quoteTokenProportion": 28.33,
+        "qualityScore": 2.058875181453388,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+        "commentatorTierSimilarities": [
+            40.67,
+            34.03,
+            25.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "13. thy saints] This is the first time that this afterwards well-known appellation occurs as applied to the believers in Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The objections of Ananias, and the removal of them by the Lord, display in a very touching manner the childlike relation of the believing soul to its Redeemer.",
+            "The Saviour speaks with Ananias as a man does with his friend.",
+            "Thy saints,\" says Ananias to Christ therefore Christ is God."
+        ],
+        "John Calvin": [
+            "Therefore we see that the saints and servants of God are afraid of death, which thing keepeth them back from doing their duty; yea, it causeth them sometimes to stagger.",
+            "Ananias would gladly go to some other place; but this is a point of a good man, that he yieldeth not so much to fear that he withdraweth himself from Christ\u2019s obedience.",
+            "Therefore we may see a desire to obey mixed with fear."
+        ],
+        "Philip Schaff": [
+            "The terrible notoriety acquired by the inquisitor Saul is shown by the answer of Ananias.",
+            "Lord, he seems to say, 'is it possible that I should be sent on a mission of mercy to the chief enemy of Thy people?'",
+            "Christians are called 'saints' in the New Testament in three senses: (a) Generally as members of a visible and local community devoted to God\u2019s service, (b) more specifically as members of a spiritual community, and (c) in many cases as having personal and individual sanctity."
+        ],
+        "Archibald T. Robertson": [
+            "Saul's reputation as a persecutor had preceded him.",
+            "This common word is from \u03c4\u03bf \u03b1\u03b3\u03bf\u03c2, religious awe or reverence and is applied to God's name, God's temple, God's people as set apart for God.",
+            "Ananias in his ignorance saw in Saul only the man with an evil reputation while Jesus saw in Saul the man transformed by grace to be a messenger of mercy."
+        ],
+        "John Gill": [
+            "There was a timidity in him, and which was the more inexcusable...",
+            "Ananias had been at Damascus some time, and was not an eyewitness of the havoc Saul made of the church",
+            "Believers in Christ are called his 'saints', because separated by his grace for his service, and sanctified by his Spirit"
+        ],
+        "John Wesley": [
+            "But he answered \u2014 How natural it is to reason against God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 9:13, Ananias addresses Jesus as Thy saints, underscoring the significance of this term that was first used to describe believers in Christ. Ananias, initially hesitant due to Saul's notorious reputation as a persecutor, is reassured by the Lord and the intimate conversation between them highlights the tender relationship between the believer and his Redeemer. Ananias only sees Saul as a man with an evil reputation, but Jesus recognizes the transformed messenger of mercy that Saul has become. This interaction emphasizes the awe and reverence associated with being set apart for God and the divine insight that surpasses human judgment.",
+            "wordCount": 101,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.904691761874858,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                39.56,
+                33.86,
+                26.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Addressing Jesus as Thy saints, Ananias acknowledges the term that designates believers in Christ. Initially hesitant towards Saul, known for his persecution, Ananias is reassured by the Lord in a touching display of the intimate relationship between the believer and the Redeemer. While Ananias sees Saul's reputation, Jesus sees a transformed vessel of mercy. This exchange showcases the reverence and separation from the world that comes with being a servant of God, highlighting the divine discernment beyond human judgment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.9804600174052984,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.19,
+            "commentatorTierSimilarities": [
+                38.52,
+                35.63,
+                25.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When faced with the task of ministering to Saul, Ananias addresses Jesus as Thy saints, acknowledging the significant appellation given to believers. Recognizing Saul's reputation as a persecutor, Ananias questions the Lord's choice, displaying his childlike reliance on the Redeemer's guidance. By referring to Christ as Thy saints, Ananias highlights his belief that Jesus is God. Despite Ananias only seeing Saul's past, Jesus perceives the transformative power of grace within him, envisioning him as a messenger of mercy. This passage emphasizes the reverence and separation of God's people, set apart for His service and sanctified by His Spirit.",
+            "wordCount": 103,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 2.0356130661624015,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                38.99,
+                33.96,
+                27.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Ananias, approached with the task of ministering to Saul, addresses Jesus as Thy saints, acknowledging this significant appellation given to believers for the first time. Ananias questions the wisdom of this assignment, but Jesus reassures him, displaying the tender relationship between the believer and the Redeemer, likening it to a man speaking with his friend. By referring to Christ as Thy saints, Ananias emphasizes his belief in the divinity of Christ. Despite Ananias' limited perspective, Jesus sees the transformative power of grace in Saul, envisioning him as a messenger of mercy.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.058875181453388,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+            "commentatorTierSimilarities": [
+                40.67,
+                34.03,
+                25.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When approached with the task of ministering to Saul, Ananias addresses Jesus as Thy saints, acknowledging the believers in Christ. Ananias' initial hesitations, met with reassurance from the Lord, highlight the intimate relationship between the believer and Redeemer. By referring to Christ as Thy saints, Ananias underscores the deity of Jesus. Despite Ananias only seeing Saul's reputation, Jesus recognizes the transformative power of grace, envisioning him as a messenger of mercy. This interaction emphasizes the reverence and sanctification of being set apart for God's service.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 2.0088537343608857,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+            "commentatorTierSimilarities": [
+                40.08,
+                33.18,
+                26.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

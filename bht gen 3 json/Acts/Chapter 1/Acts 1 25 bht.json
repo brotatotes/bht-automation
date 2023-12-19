@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:25:01",
+    "verseRef": "Acts 1:25",
+    "bestBHT": {
+        "bht": "Judas, the betrayer, deserted his appointed place among the apostles to go to his own chosen place - a place of condemnation and torment. The phrase to go to one's own place was commonly understood as the destiny of a person after death. This bold and solemn description of Judas's fate leaves no doubt in Peter's mind about the traitor's future and his own guilt. Judas made ready his own berth and went willingly to the region of death as a just punishment for his transgression.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 2.1270970445736843,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.07,
+        "commentatorTierSimilarities": [
+            34.23,
+            31.6,
+            34.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Judas deserted this our place, our office and ministry, to go to his own place, that part which he had chosen for himself, viz. the office and character of a traitor and enemy of God.",
+            "Judas deserted his appointed place, here among us, that he might go to his own appointed place elsewhere, viz. among the dead in the place of torment.",
+            "To understand 'he' of Judas's successor, is contrary to the form of the sentence in the original; is inconsistent with the words, which are unexampled in this sense; would divest a sentence, evidently solemn and pregnant, of all point and meaning, and reduce it to a mere tautology."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A euphemistic or softened expression of the awful future of the traitor.\" ",
+            "Implies not only destined habitation but congenial element.\" ",
+            "That he might go to his own place."
+        ],
+        "Albert Barnes": [
+            "The obvious and natural meaning of the phrase is to refer it to Judas.",
+            "Unless people had previously made up their minds not to believe in future punishment, no one would ever have thought of any other interpretation.",
+            "The sinner will have no cause of complaint. If he is assigned to his proper place, he cannot complain."
+        ],
+        "Marvin Vincent": [
+            "That he may take part... to take the place.\" ",
+            "By transgression fell... fell away.",
+            "His own place... Gehenna."
+        ],
+        "John Calvin": [
+            "The ministry of the apostleship.\" ",
+            "Luke meant to join with the burden the excellency of the office.",
+            "To declare that the apostles are called unto a painful function."
+        ],
+        "Philip Schaff": [
+            "The word \u03f0\u03bb\u1fc6\u03c1\u03bf\u03c2 (clerus), translated \u2018part,\u2019 better perhaps \u2018the place,\u2019 signifies (1) a lot, (2) anything assigned by lot; for instance, an allotment of land, or an official position.",
+            "These strange words which close the traitor\u2019s gloomy story can convey no other possible sense than that Judas had gone to a place of condemnation.",
+            "The phrase, \u2018to go to one\u2019s own place, \u2018was a known and received phrase in the Apostolic Age, and signified a man\u2019s going presently after death into his proper place a state either of happiness or misery, according to the life he had before lived while on earth."
+        ],
+        "Archibald T. Robertson": [
+            "To his own place (\u03b5\u03b9\u03c2 \u03c4\u03bf\u03bd \u03c4\u03bf\u03c0\u03bf\u03bd \u03c4\u03bf\u03bd \u03b9\u03b4\u03b9\u03bf\u03bd). A bold and picturesque description of the destiny of Judas worthy of Dante's Inferno.",
+            "There is no doubt in Peter's mind of the destiny of Judas nor of his own guilt.",
+            "He made ready his own berth and went to it."
+        ],
+        "John Gill": [
+            "And from which Judas by transgression fell; by betraying his Lord, whose apostle he was, he was turned out of his office, and had no longer part in the apostolical ministry.\" ",
+            "which may be understood of Judas, and of his going to hell, as the just punishment of his sin\" ",
+            "and though it was not peculiar to him, but common to all impenitent sinners, yet very proper for him, as a betrayer"
+        ],
+        "John Wesley": [
+            "Fell \u2014 By his transgression - Some time before his death.",
+            "To go to his own place - That which his crimes had deserved, and which he had chosen for himself.",
+            "Far from the other apostles, in the region of death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas, the betrayer, deserted his appointed place among the apostles to go to his own chosen place - a place of condemnation and torment. The phrase to go to one's own place was commonly understood as the destiny of a person after death. This bold and solemn description of Judas's fate leaves no doubt in Peter's mind about the traitor's future and his own guilt. Judas made ready his own berth and went willingly to the region of death as a just punishment for his transgression. This verse serves as a reminder of the consequences that await the unrepentant sinner, who will not have cause to complain when assigned to their proper place.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.1031332910175706,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.27,
+            "commentatorTierSimilarities": [
+                33.14,
+                32.82,
+                34.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas, the betrayer, deserted his appointed place among the apostles to go to his own chosen place - a place of condemnation and torment. The phrase to go to one's own place was commonly understood as the destiny of a person after death. This bold and solemn description of Judas's fate leaves no doubt in Peter's mind about the traitor's future and his own guilt. Judas made ready his own berth and went willingly to the region of death as a just punishment for his transgression.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.1270970445736843,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.07,
+            "commentatorTierSimilarities": [
+                34.23,
+                31.6,
+                34.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas, the betrayer, abandoned his position among the apostles to pursue his own chosen place, a place of ultimate condemnation and torment. By betraying his Lord, he fell away from his role as an apostle and was no longer a part of the ministry. These words carry a solemn and profound meaning, leaving no doubt about the destiny of Judas. He willingly embraced the consequences of his actions, making preparations for his own place in the realm of death.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9738963270724423,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                34.0,
+                26.31,
+                39.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas, by transgression, fell away from his appointed place among the apostles to go to his own chosen place. This phrase, to go to one's own place, vividly depicts Judas's destiny in a manner reminiscent of Dante's Inferno. It serves as a powerful reminder of the consequences that await those who betray their Lord. Judas willingly prepared his own berth and went to the region of death, a just punishment for his treacherous act. This verse, with its solemn and pregnant meaning, underscores the gravity of Judas's fate, leaving no doubt in Peter's mind about his own guilt and the destination that awaited the traitor.",
+            "wordCount": 110,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 2.02903736384864,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+            "commentatorTierSimilarities": [
+                34.06,
+                29.84,
+                36.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas, through his grievous transgression, fell away from his appointed place among the apostles and instead chose his own destination. The phrase to go to one's own place vividly portrays the profound fate of Judas, akin to Dante's Inferno. This verse highlights the immense consequences that await those who betray their Lord. Judas willingly prepared his own pathway to the realm of death, a fitting punishment for his treachery. The weightiness of this verse leaves Peter with no doubt about his own guilt and the tragic future of the betrayer.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.9925779358352105,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                33.27,
+                29.79,
+                36.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

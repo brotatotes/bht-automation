@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:07:24",
+    "verseRef": "1 Corinthians 7:29",
+    "bestBHT": {
+        "bht": "The time is shortened, Christians must keep themselves loose in heart from worldly relationships and possessions, holding them loosely in anticipation of the Lord's return. They should live in the married state but assimilate their present condition to that of those who are not married. The time is short, so we should not be unduly attached to earthly things. Instead of indulging in the flesh, we should focus on the service and worship of God, devoting ourselves to Him as if we had none of the temporal gifts.",
+        "wordCount": 89,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.9852461259066785,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+        "commentatorTierSimilarities": [
+            32.05,
+            33.36,
+            34.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the time henceforth is shortened, i.e., the time that remains is short: the interval between now and the coming of the Lord has arrived at an extremely contracted period.",
+            "in order that Christians, those who wait for and shall inherit the coming kingdom, may keep themselves loose in heart from worldly relationships and employments.",
+            "the clauses following are not precepts of the Apostle, but the objects, as regards us, of the divine counsel in shortening the time."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The time\u2014the season (so the Greek) of this present dispensation up to the coming of the Lord (Romans 13:11).",
+            "Short\u2014literally, 'contracted.'",
+            "We ought to consider nothing as our own in real or permanent possession."
+        ],
+        "Albert Barnes": [
+            "Life hastens to a close, and that its grand business is to be prepared to die.",
+            "The time is short...the time was 'contracted,' or made short, by their impending persecutions and trials. But it is always equally true that time is short.",
+            "They were to live above the world; that they were not to be unduly attached to them, that they were to be ready to part with them; and that they should not suffer attachment to them to interfere with any duty which they owed to God."
+        ],
+        "Marvin Vincent": [
+            "The time is shortened that henceforth Christians may hold earthly ties and possessions but loosely.\" ",
+            "In ordinary cases it is right for Christians to sorrow; but they should live now as in the near future, when earthly sorrow is to be done away.",
+            "It is right for them to live in the married state, but they should 'assimilate their present condition' to that in which they neither marry nor are given in marriage."
+        ],
+        "John Calvin": [
+            "Let those accordingly who have wives, be as though they had none.",
+            "All things that are connected with the enjoyment of the present life are sacred gifts of God, but we pollute them when we abuse them.",
+            "The mind of a Christian ought not to be taken up with earthly things, or to repose in them; for we ought to live as if we were every moment about to depart from this life."
+        ],
+        "Archibald T. Robertson": [
+            "The time is shortened... Paul pictures the foreshortening of time (opportunity) because of the possible nearness of and hope for the second coming.\" ",
+            "But in Philippians Paul faces death as his fate (Philippians 1:21-26), though still looking for the coming of Christ.",
+            "This use of \u03c9\u03c2 with the participle for an assumed condition is regular and \u03bc\u03b7 in the Koine is the normal negative of the participle."
+        ],
+        "John Gill": [
+            "the time is short,.... This is another reason, with which the apostle supports his advice to virgins, and unmarried persons, to remain so; since the time of life is so very short, and it is even but a little while to the end of the world, and second coming of Christ.",
+            "he thought it most advisable for them to, continue in a single life, that they might be more at leisure to make use of that little time they had for their spiritual good and welfare, the edification of others, and the glory of Christ.",
+            "since the time of life was short, and that full of troubles, they should spend it in the service and worship of God, private and public, as much as possible; and not in the indulging and satisfying of the flesh."
+        ],
+        "John Wesley": [
+            "The time of our abode here is short.",
+            "Be as serious, zealous, active, dead to the world, as devoted to God, as holy in all manner of conversation, as if they had none.",
+            "Forgetting whatever is temporal, [be] swallowed up in eternity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The time is shortened, the interval between now and the coming of the Lord has arrived at an extremely contracted period. Christians should keep themselves loose in heart from worldly relationships and employments, holding earthly ties and possessions but loosely. They should live in the married state and assimilate their present condition to that in which they neither marry nor are given in marriage. Paul pictures the foreshortening of time because of the possible nearness of and hope for the second coming. Christians should be prepared to die, for life hastens to a close. The time is short, so we should not be unduly attached to worldly things and should not let them interfere with our duties to God. Let us live as if we were every moment about to depart from this life, focusing on the service and worship of God rather than indulging in the flesh. Let us be serious, zealous, active, dead to the world, as devoted to God as if we had none of the temporal things that are merely gifts.",
+            "wordCount": 175,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.937218479238092,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "commentatorTierSimilarities": [
+                31.25,
+                35.57,
+                33.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The time is shortened, Christians must keep themselves loose in heart from worldly relationships and possessions, holding them loosely in anticipation of the Lord's return. They should live in the married state but assimilate their present condition to that of those who are not married. The time is short, so we should not be unduly attached to earthly things. Instead of indulging in the flesh, we should focus on the service and worship of God, devoting ourselves to Him as if we had none of the temporal gifts.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.9852461259066785,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                32.05,
+                33.36,
+                34.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The time is shortened, and Christians should keep themselves loose from worldly relationships. They should hold earthly ties loosely and live in the married state but assimilate their present condition to that of those who neither marry nor are given in marriage. The time is short, and we should not be unduly attached to temporal things. Instead, we should focus on the service and worship of God, devoting ourselves to Him as if we had none of these worldly possessions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.9539595261898173,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                31.83,
+                34.28,
+                33.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The time is shortened, and Christians are encouraged to keep themselves loose in heart from worldly relationships and employments. This means holding earthly ties and possessions loosely. The time is short, so Christians should live in the married state but assimilate their present condition to that in which they neither marry nor are given in marriage. They ought to focus on the service and worship of God, using this fleeting time wisely for their spiritual growth, the edification of others, and the glory of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8800652346484983,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.85,
+            "commentatorTierSimilarities": [
+                33.31,
+                33.22,
+                33.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The time is shortened, Christians should keep themselves loose from worldly relationships and possessions, holding them loosely. They should live in the married state but assimilate their present condition to that of those who do not marry or are given in marriage. The time is short, so prioritize the service and worship of God, utilizing this brief time for spiritual growth, the edification of others, and the glory of Christ. Focus on eternal matters rather than fleeting temporal things.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.879208780158823,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+            "commentatorTierSimilarities": [
+                31.64,
+                34.21,
+                34.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

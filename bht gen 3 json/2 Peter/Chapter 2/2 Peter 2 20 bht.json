@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:40:50",
+    "verseRef": "2 Peter 2:20",
+    "bestBHT": {
+        "bht": "Those who once escaped the pollutions and corruption of the world by finding knowledge in Christ often find themselves entangled again in their former sinful ways. This relapse is worse than their original state of paganism because they no longer have the excuse of ignorance. Outward reformation does not guarantee true grace, and it would have been better for them not to have known righteousness at all. True progress in the gospel means faithfully learning from Christ and putting off the old self.",
+        "wordCount": 83,
+        "quoteTokenProportion": 47.76,
+        "qualityScore": 1.7212697382381634,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.57,
+        "commentatorTierSimilarities": [
+            12.24,
+            46.92,
+            40.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "themselves\" have escaped...pollutions\u2014which bring \"corruption\" (2 Peter 2:19).",
+            "through\u2014Greek, \"in.",
+            "Worse\" stands opposed to \"better\" (2 Peter 2:19-:)."
+        ],
+        "Albert Barnes": [
+            "People may outwardly reform, and escape from the open corruptions which prevail around them, or which they had themselves practiced, and still have no true grace at heart.",
+            "There is a knowledge of the doctrines and duties of religion which may lead sinners to abandon their outward vices, which has no connection with saving grace.",
+            "Apostates become worse than they were before their professed conversion. 'Reformed' drunkards, if they go back to their 'cups' again, become more abandoned than ever."
+        ],
+        "Marvin Vincent": [
+            "Pollutions [\u03bc\u03b9\u03b1\u03c3\u03bc\u03b1\u03c4\u03b1] . Only here in New Testament.\" ",
+            "The word is transcribed in miasma.\" ",
+            "Entangled [\u03b5\u03bc\u03c0\u03bb\u03b1\u03ba\u03b5\u03bd\u03c4\u03b5\u03c2] . Only here and 2 Timothy 2:4."
+        ],
+        "John Calvin": [
+            "It would have been better for them, he says, not to have known the way of righteousness; for though there is no excuse for ignorance, yet the servant who knowingly and wilfully despises the commands of his lord, deserves a twofold punishment.\" ",
+            "By naming the pollutions of the world, he shews that we roll in filth and are wholly polluted, until we renounce the world.",
+            "He then alone makes a right progress in the gospel who faithfully learns Christ; and he truly knows Christ, who has been taught by him to put off the old man and to put on the new man."
+        ],
+        "Philip Schaff": [
+            "That state of relapse is declared to be worse than their original state of paganism worse because no longer excused by 'ignorance.'\" ",
+            "The 'knowledge' of the Lord and Saviour Jesus Christ which is attributed here to these apostates is the same kind of knowledge as has been already spoken of...\" ",
+            "It contrasts two different stages of impure living, and pronounces the one worse than the other."
+        ],
+        "Archibald T. Robertson": [
+            "The body is sacred to God.",
+            "They are again entangled.",
+            "They are repeatedly worsted."
+        ],
+        "John Gill": [
+            "The sins of it, the governing vices of it, which the men of the world are addicted to, and immersed in; for the whole world lies in wickedness, and which are of a defiling nature.",
+            "Persons may be outwardly righteous before men, have a form of godliness and a name to live, and yet be dead in trespasses and sins.",
+            "Their beginning, or first estate, was that in which they were born, a state of darkness, ignorance, and sin, and in which they were brought up, and was either the state of Judaism, or of Gentilism; their next estate was an outward deliverance and escape from the error of the one, or of the other, and an embracing and professing the truth of the Christian religion, joined with a becoming external conversation; and this their last estate was an apostasy from the truth of the Gospel they had professed, a reception of error and heresy, and a relapse into sin and immorality, which made their case worse than it was at first."
+        ],
+        "John Wesley": [
+            "For if after they have escaped the pollutions of the world through the knowledge of Christ, they are again entangled therein, and overcome, their last state is worse than the first.",
+            "The sins which pollute all who know not God.",
+            "More inexcusable, and causing a greater damnation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who once escaped the pollutions and corruption of the world by coming to know Christ, find themselves becoming entangled once again. They repeatedly fall into their former sinful ways and are repeatedly worsted. At first, their new knowledge of Christ seemed to have brought reform and escape from the world's pollutions. However, this outward reformation does not necessarily indicate true grace in their hearts. In fact, their relapse is declared to be worse than their original state of paganism because they are no longer excused by ignorance. It would have been better for them not to have known the way of righteousness at all. They are like servants who knowingly and willfully despise their master's commands and deserve a twofold punishment. Truly progressing in the gospel means faithfully learning from Christ and putting off the old self. Only then can one truly know Christ.",
+            "wordCount": 147,
+            "quoteTokenProportion": 41.75,
+            "qualityScore": 1.5598768093179802,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.21,
+            "commentatorTierSimilarities": [
+                15.16,
+                43.55,
+                41.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who once escaped the pollutions and corruption of the world by coming to know Christ find themselves becoming entangled once again. They repeatedly fall into their former sinful ways and are repeatedly worsted. Their outward reformation does not necessarily indicate true grace in their hearts. Their relapse is declared to be worse than their original state of paganism because they are no longer excused by ignorance. It would have been better for them not to have known the way of righteousness at all. Progressing in the gospel means faithfully learning from Christ and putting off the old self.",
+            "wordCount": 99,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.657866649903661,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.47,
+            "commentatorTierSimilarities": [
+                16.78,
+                45.52,
+                37.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who once escaped the pollutions and corruption of the world find themselves again entangled in them, repeatedly worsted in their sinful ways. Outward reformation does not guarantee true grace, and relapse is declared to be worse than the original state of paganism. Their knowledge of Christ contrasts with the impure living that they return to, pronouncing the latter worse than the former. It would have been better for them not to have known righteousness at all. Progressing in the gospel means faithfully learning from Christ and putting off the old self.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.6813545880858136,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.25,
+            "commentatorTierSimilarities": [
+                15.64,
+                45.57,
+                38.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who once escaped the pollutions and corruption of the world by coming to know Christ find themselves repeatedly entangled in their former sinful ways. Their outward reformation does not necessarily indicate true grace in their hearts. Their relapse is declared to be worse than their original state of paganism. It would have been better for them not to have known the way of righteousness at all. Progressing in the gospel means faithfully learning from Christ and putting off the old self.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.6380945504760307,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+            "commentatorTierSimilarities": [
+                15.2,
+                46.14,
+                38.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who once escaped the pollutions and corruption of the world by finding knowledge in Christ often find themselves entangled again in their former sinful ways. This relapse is worse than their original state of paganism because they no longer have the excuse of ignorance. Outward reformation does not guarantee true grace, and it would have been better for them not to have known righteousness at all. True progress in the gospel means faithfully learning from Christ and putting off the old self.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.7212697382381634,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.57,
+            "commentatorTierSimilarities": [
+                12.24,
+                46.92,
+                40.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

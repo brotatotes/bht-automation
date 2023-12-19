@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:22:03",
+    "verseRef": "Luke 20:12",
+    "bestBHT": {
+        "bht": "They wounded him, an old verb meaning to wound, only used here and in Acts 19:16. Perhaps this relates to the mistreatment of good men between the return of the Jews from captivity and the coming of Christ, where they were cast out and suffered inhumanely.",
+        "wordCount": 45,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8257916571046604,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+        "commentatorTierSimilarities": [
+            54.11,
+            0.0,
+            45.89
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Wounded [\u03c4\u03c1\u03b1\u03c5\u03bc\u03b1\u03c4\u03b9\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2] . Only here and Acts 19:16."
+        ],
+        "Archibald T. Robertson": [
+            "They wounded (\u03c4\u03c1\u03b1\u03c5\u03bc\u03b1\u03c4\u03b9\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2).\" ",
+            "An old verb, from \u03c4\u03c1\u03b1\u03c5\u03bc\u03b1, a wound.",
+            "But in the N.T. only here and Acts 19:16."
+        ],
+        "John Gill": [
+            "Perhaps after the return of the Jews from captivity, and between that time and the coming of Christ, in which interval many good men were used in a very inhuman manner.\" ",
+            "And they wounded him also; by casting stones at him.\" ",
+            "And cast him out; of the vineyard."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They wounded him, an old verb meaning to wound, only used here and in Acts 19:16. Perhaps this relates to the mistreatment of good men between the return of the Jews from captivity and the coming of Christ, where they were cast out and suffered inhumanely.",
+            "wordCount": 45,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8257916571046604,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+            "commentatorTierSimilarities": [
+                54.11,
+                0.0,
+                45.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of the wicked vinedressers recounts how the tenant farmers mistreated the servant by wounding him, an act that is described as \u03c4\u03c1\u03b1\u03c5\u03bc\u03b1\u03c4\u03b9\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2, a verb meaning to wound or cause a wound. This verb appears only twice in the New Testament, highlighting the severity of the aggression against the servant. Some commentators suggest that the treatment of the servant in this parable reflects the mistreatment of the prophets in the period between the return of the Jews from captivity and the coming of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.0804539071504125,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.27,
+            "commentatorTierSimilarities": [
+                42.21,
+                0.0,
+                57.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the parable, the tenant farmers wounded the servant, using a verb that appears only twice in the New Testament. This act of violence reflects the inhumane treatment endured by many good men during the time between the Jews' return from captivity and the coming of Christ. The severity of the aggression against the servant emphasizes the seriousness of their actions, highlighting the mistreatment that occurred during that interval.",
+            "wordCount": 69,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 0.9997151173960708,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.58,
+            "commentatorTierSimilarities": [
+                39.4,
+                0.0,
+                60.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable recounts how the tenant farmers wounded the servant, a verb that is only used twice in the New Testament. This act of violence reflects the mistreatment of many good men during the period between the Jews' return from captivity and the coming of Christ. The severity of their actions emphasizes the seriousness of the aggression against the servant, shedding light on the inhumane manner in which some were treated during that time.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.0192259380483852,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.23,
+            "commentatorTierSimilarities": [
+                39.66,
+                0.0,
+                60.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the parable of the wicked vinedressers, the tenant farmers wounded the servant, using a verb that appears only twice in the New Testament. This act of violence reflects the mistreatment of many good men during the time between the Jews' return from captivity and the coming of Christ. The severity of the aggression against the servant highlights the serious nature of their actions, shedding light on the inhumane treatment endured during that period.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.0184363281932278,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.21,
+            "commentatorTierSimilarities": [
+                37.58,
+                0.0,
+                62.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

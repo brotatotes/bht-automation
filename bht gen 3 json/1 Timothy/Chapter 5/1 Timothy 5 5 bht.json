@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:29:25",
+    "verseRef": "1 Timothy 5:5",
+    "bestBHT": {
+        "bht": "A widow who is truly in need, without children or grandchildren, sets her hope towards God, placing all her trust in Him. She does not seek pleasure but makes God her main hope, constantly devoting herself to prayers. Her destitution makes her unencumbered to dedicate the rest of her days to God and the Church. Her fervent prayers come from a confident hope in God, and her solitude emphasizes her complete reliance on Him. As a widow who is alone and without earthly support, her dependence on God is evident in her continual supplications and prayers day and night.",
+        "wordCount": 99,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.4543519068299835,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.95,
+        "commentatorTierSimilarities": [
+            32.77,
+            33.63,
+            33.6
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "She that is a widow indeed, as opposed to the widow just described; and desolate, as contrasting her condition with that of her who has children or grandchildren.",
+            "Thus what follows is said more for moral eulogy of such a widow, than as commending her to the charity of the Church: but at the same time, as pointing out that one who thus places her hopes and spends her time, is best deserving of the Church\u2019s help.",
+            "Hath set her hope toward God, as its portion and ultimate aim\u2014as distinguished from 'on God,' ch. iv. 10, on God as its present stay."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "She must be not one 'that liveth in pleasure,' but one making God her main hope and continuing constantly in prayers.\" ",
+            "Her destitution of children and of all ties to earth would leave her more unencumbered for devoting the rest of her days to God and the Church.\" ",
+            "Ardor in prayers flows from hoping confidence in God."
+        ],
+        "Albert Barnes": [
+            "A widow indeed, and desolate - The word rendered 'desolate' means 'solitary, alone.'",
+            "Trusteth in God - She has no one else to look to but God. She has no earthly reliance, and, destitute of husband, children, and property, she feels her dependence, and steadily looks to God for consolation and support.",
+            "And continueth in supplications and prayers night and day - Continually... The apostle regards this as one of the characteristics of those who were 'widows indeed,' whom he would have received into the class to be maintained by the church, and to whom the charge of younger members of the church might be entrusted."
+        ],
+        "Marvin Vincent": [
+            "And desolate [\u03ba\u03b1\u03b9 \u03bc\u03b5\u03bc\u03bf\u03bd\u03c9\u03bc\u03b5\u03bd\u03b7]. Explanatory of a widow indeed. One entirely bereaved.",
+            "Trusteth in God [\u03b7\u03bb\u03c0\u03b9\u03ba\u03b5\u03bd \u03b5\u03c0\u03b9 \u03c4\u03bf\u03bd \u03b8\u03b5\u03bf\u03bd]. Strictly hath directed her hope at God.",
+            "Rev. hath her hope set on God implies ejpi with the dative, as 1 John 3:3."
+        ],
+        "John Calvin": [
+            "For, when human aid and every refuge fails them, it is the duty of the Church to stretch forth her hand to render assistance; and thus the condition of the widow, who is childless and desolate, implores the aid of the pastor.\" ",
+            "By this argument he commends them; for, when human aid and every refuge fails them, it is the duty of the Church to stretch forth her hand to render assistance; and thus the condition of the widow, who is childless and desolate, implores the aid of the pastor.",
+            "But let us remember that there are good reasons why it is the peculiar privilege of those who are widows and childless, to have leisure for praying by night and by day; because they are free from lawful hindrances, which would not permit those who govern a family to do the same."
+        ],
+        "Philip Schaff": [
+            "Desolate, i.e. left alone, in contrast with the widow who has children or grandchildren.",
+            "Trusteth. Better, \u2018has set her hope on God.\u2019",
+            "In supplications and prayers night and day."
+        ],
+        "Archibald T. Robertson": [
+            "Desolate (\u03bc\u03b5\u03bc\u03bf\u03bd\u03c9\u03bc\u03b5\u03bd\u03b7). Perfect passive participle of \u03bc\u03bf\u03bd\u03bf\u03c9 (from \u03bc\u03bf\u03bd\u03bf\u03c2), 'left alone,' old verb, here alone in N.T.",
+            "Hath her hope set on God (\u03b7\u03bb\u03c0\u03b9\u03ba\u03b5\u03bd \u03b5\u03c0 \u03b8\u03b5\u03bf\u03bd). Perfect active indicative of \u03b5\u03bb\u03c0\u03b9\u03b6\u03c9, 'hath placed her hope (and keeps it) on God.'",
+            "Continues (\u03c0\u03c1\u03bf\u03c3\u03bc\u03b5\u03bd\u03b5). See on 1 Timothy 1:3. With dative case here."
+        ],
+        "John Gill": [
+            "A real widow, whom the Jews call 'a perfect one', in opposition to one that is divorced, or a brother's widow.",
+            "A Widow indeed is one that has no outward dependence, betakes herself to the Lord, puts her confidence in him, and cries to him continually for a daily supply.",
+            "Such an one, amidst all her poverty and meanness, is a living believer, one that lives by faith on the Lord; and is profitable, and useful to the church by her prayers and supplications made for them, as well as for herself."
+        ],
+        "John Wesley": [
+            "Widows indeed \u2014 Who have no near relations to provide for them; and who are wholly devoted to God.",
+            "Desolate \u2014 Having neither children, nor grandchildren to relieve her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A widow who is truly in need, without children or grandchildren, sets her hope towards God, placing all her trust in Him. She does not seek pleasure but makes God her main hope, constantly devoting herself to prayers. Her destitution makes her unencumbered to dedicate the rest of her days to God and the Church. Her fervent prayers come from a confident hope in God, and her solitude emphasizes her complete reliance on Him. As a widow who is alone and without earthly support, her dependence on God is evident in her continual supplications and prayers day and night.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.4543519068299835,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.95,
+            "commentatorTierSimilarities": [
+                32.77,
+                33.63,
+                33.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A widow who is truly without children or grandchildren places her hope in God, devoting herself to prayers rather than pursuing worldly pleasure. Her destitution leaves her unencumbered to dedicate herself fully to God and the Church. Her fervent prayers flow from a confident hope in God, while her solitude highlights her complete reliance on Him. Continual supplications and prayers day and night characterize her, emphasizing her complete dependence on God. As a widow who is alone and without earthly support, her reliance on God is evident in her unwavering devotion to prayer.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.430061836479916,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.14,
+            "commentatorTierSimilarities": [
+                32.74,
+                34.24,
+                33.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A widow in true need, without children or grandchildren, sets her hope towards God, making Him her main hope. She does not seek pleasure but rather devotes herself to prayers, constantly relying on God. Her destitution allows her to dedicate herself fully to God and the Church. Her dependence on God is evident through her fervent prayers, expressing her unwavering trust in Him. As a widow who is alone and without worldly support, her continuous supplications and prayers day and night demonstrate her complete reliance on God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.3725024477128382,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.23,
+            "commentatorTierSimilarities": [
+                33.18,
+                33.33,
+                33.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A widow without children or grandchildren, truly in need and alone, places her hope in God as her ultimate aim. She does not pursue worldly pleasure but instead focuses on making God her main hope and remains steadfast in prayers. Her destitution frees her to devote her remaining days to God and the Church. Her fervent prayers are a result of her confident trust in God, and her continuous supplications day and night reflect her complete dependence on Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.3172844776219135,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.39,
+            "commentatorTierSimilarities": [
+                33.72,
+                33.27,
+                33.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A widow who is truly in need, without children or grandchildren, sets her hope towards God as opposed to relying on earthly comforts. Her destitution leaves her unencumbered to devote herself fully to God and the Church. She places her trust in God, making Him her main hope and continually engages in prayers. Her fervent prayers flow from a confident hope in God and her complete reliance on Him. As a widow who is alone and without earthly support, her dependence on God is evident through her constant supplications and prayers.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.445234657185538,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.64,
+            "commentatorTierSimilarities": [
+                33.56,
+                33.53,
+                32.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

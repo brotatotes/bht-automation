@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:22:37",
+    "verseRef": "Luke 21:19",
+    "bestBHT": {
+        "bht": "In the endurance of trials and tribulations, we must remain steadfast, for it is through this patient endurance that we shall win our souls. This winning or acquiring of our souls is not about possessing them in a material sense, but rather about finding and saving our true life. These afflictions should not be seen as obstacles to our salvation, but as the very means by which our souls are secured. Let us, therefore, be masters of ourselves, calm and serene, possessing an unshakable peace and joy in our souls that cannot be taken away by the world.",
+        "wordCount": 98,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8375627145490308,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+        "commentatorTierSimilarities": [
+            28.15,
+            38.11,
+            33.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In your Patience (i. e. by your endurance of all these things) ye shall acquire (not, possess, which is an ungrammatical rendering) your souls.",
+            "This endurance being God\u2019s appointed way, in and by which your salvation is to be put in your possession.",
+            "Acquire, as 'find,' Matt. xvi. 25\u2014 'save,' ch. ix. 24."
+        ],
+        "Marvin Vincent": [
+            "Possess ye [\u03ba\u03c4\u03b7\u03c3\u03b5\u03c3\u03b8\u03b5] . Wrong. See on ch. Luke 18:12. Rev. rightly, ye shall win. ",
+            "- 36. Compare Matthew 24:15-42.Mark 13:14-37."
+        ],
+        "John Calvin": [
+            "Here Christ enjoins on his followers a different method of defending their life from what is dictated by carnal reason.",
+            "Christ prescribes to us this defense of our life, that we should be always exposed to death, and walk through fire, and water, and sword.",
+            "Christ orders us to possess our life both under the cross, and amidst the constant terrors of death."
+        ],
+        "Philip Schaff": [
+            "In your patience, or 'steadfastness,' ye shall win your souls, or 'lives.'\" (Luke 21:19) ",
+            "In the endurance of these predicted afflictions they should gain, or come into the possession of, their true life.\" (Luke 21:19) ",
+            "The word 'souls' (or 'lives') opposes that view of Luke 21:18, which refers it to the preservation of every hair in the resurrection.\" (Luke 21:19)"
+        ],
+        "Archibald T. Robertson": [
+            "Ye shall win (\u03ba\u03c4\u03b7\u03c3\u03b5\u03c3\u03b8\u03b5). Future middle of \u03ba\u03c4\u03b1\u03bf\u03bc\u03b1, to acquire. They will win their souls even if death does come. "
+        ],
+        "John Gill": [
+            "In your patience, possess ye your souls.",
+            "By patiently bearing all afflictions, reproaches, indignities, and persecutions, enjoy yourselves.",
+            "Let nothing disturb or distress you; possess that peace and joy in your souls, which the world cannot take away."
+        ],
+        "John Wesley": [
+            "In your patience possess ye your souls.\" ",
+            "Be calm and serene, masters of yourselves, and superior to all irrational and disquieting passions.",
+            "By keeping the government of your spirits, you will both avoid much misery, and guard the better against all dangers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of trials and tribulations, we are called to endure with steadfastness, for it is in this endurance that we shall acquire our souls. This acquisition, or winning, of our souls is not a possession in the earthly sense, but rather a finding or saving of our true life. These afflictions should not be seen as a hindrance to our salvation, but as the very means by which our souls are won. Therefore, let us be masters of ourselves, calm and serene, possessing that peace and joy in our souls which the world cannot take away.",
+            "wordCount": 98,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.8856657337651486,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                28.66,
+                37.53,
+                33.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the endurance of trials and tribulations, we must remain steadfast, for it is through this patient endurance that we shall win our souls. This winning or acquiring of our souls is not about possessing them in a material sense, but rather about finding and saving our true life. These afflictions should not be seen as obstacles to our salvation, but as the very means by which our souls are secured. Let us, therefore, be masters of ourselves, calm and serene, possessing an unshakable peace and joy in our souls that cannot be taken away by the world.",
+            "wordCount": 98,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8375627145490308,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                28.15,
+                38.11,
+                33.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through patient endurance of trials and tribulations, we are promised the acquisition of our souls. This acquisition is not about possessing in a material sense, but about finding and saving our true life. These afflictions are not obstacles to our salvation, but the means by which our souls are won. Let us be masters of ourselves, remaining calm and serene, possessing an unshakeable peace and joy that the world cannot take away.",
+            "wordCount": 72,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.6307277909213909,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                29.03,
+                35.17,
+                35.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of adversity, our souls are not to be possessed in a worldly sense, but rather acquired through patient endurance. These afflictions should not be seen as hindrances to our salvation, but as the very means by which our souls are won. Let us, therefore, remain steadfast, calm, and serene, and possess an unshakable peace and joy that cannot be taken away by the world. Through this steadfastness, we secure our true life and walk the path of salvation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.6864177198805232,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                26.42,
+                35.63,
+                37.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through patient endurance of trials, we acquire our souls, not in a possessive sense, but by finding and saving our true life. These afflictions do not hinder our salvation, but rather serve as the means by which our souls are won. Let us remain steadfast, calm, and serene, possessing an unshakeable peace and joy that cannot be taken away. By this endurance, we secure our true life and walk the path of salvation.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.7570332934670811,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+            "commentatorTierSimilarities": [
+                26.99,
+                37.4,
+                35.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

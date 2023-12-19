@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:56:38",
+    "verseRef": "Philippians 4:11",
+    "bestBHT": {
+        "bht": "Through the teachings of the Holy Spirit and the dealings of Providence, I have learned to be content in every state. This contentment is not based on self-sufficiency, but on recognizing that my sufficiency comes from God. Christianity elevates the concept of self-sufficiency from the prideful independence of the Stoics to the contentment of the Christian, whose sufficiency is found in God. It is a contentment that is not based on the absence of want, but on gratitude and thankfulness for everything, whether little or more.",
+        "wordCount": 88,
+        "quoteTokenProportion": 48.15,
+        "qualityScore": 2.0139850525424245,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+        "commentatorTierSimilarities": [
+            31.73,
+            37.41,
+            30.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "My meaning is not, that...in respect of, i.e. according to, i.e. in consequence of.",
+            "For I learned...in the state in which I am...to find competence.",
+            "Self-sufficing will express its meaning of independence of external help, but is liable to be misunderstood: 'competent' is not in use in this sense, though the abstract noun competence is: the German gen\u00fclam gives it well."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I, for my part, have learned, by the teaching of the Holy Spirit, and the dealings of Providence, to be content in every state.",
+            "The Greek, literally expresses 'independent of others, and having sufficiency in one's self.' But Christianity has raised the term above the haughty self-sufficiency of the heathen Stoic to the contentment of the Christian, whose sufficiency is not in self, but in God.",
+            "But Christianity has raised the term above the haughty self-sufficiency of the heathen Stoic to the contentment of the Christian, whose sufficiency is not in self, but in God."
+        ],
+        "Albert Barnes": [
+            "I have learned, in whatsoever state I am, therewith to be content - That is, to have a contented mind.",
+            "A contented mind is an invaluable blessing, and is one of the fruits of religion in the soul.",
+            "One of the secrets of happiness is to have a mind satisfied with all the allotments of Providence."
+        ],
+        "Marvin Vincent": [
+            "Content [\u03b1\u03c5\u03c4\u03b1\u03c1\u03ba\u03b7\u03c2] . Lit., self - sufficient. Only here in the New Testament.",
+            "Paul is self - sufficient through the power of the new self: not he, but Christ in him.",
+            "The kindred noun aujtarkeia sufficiency, occurs 2 Corinthians 9:8; 1 Timothy 6:6."
+        ],
+        "John Calvin": [
+            "For it was of importance that his constancy and moderation should be known by the Philippians, to whom he was a pattern of life.",
+            "That man can never be poor in mind, who is satisfied with the lot which has been assigned to him by God.",
+            "Want refers here to disposition, for that man can never be poor in mind, who is satisfied with the lot which has been assigned to him by God."
+        ],
+        "Philip Schaff": [
+            "Not that I speak in respect of want. This is not my cause of joy, that what was lacking unto me has been supplied by your bounty. It is not that I have felt want, and have been relieved from it.",
+            "I have learned, I know, I have found the secret, as though he would mark something progressive in his description of what his life as a Christian preacher has taught him.",
+            "He had all with him that he needed in having Christ, and of this sustaining presence the apostle was often assured."
+        ],
+        "Archibald T. Robertson": [
+            "In respect of want (\u03ba\u03b1\u03b8' \u03c5\u03c3\u03c4\u03b5\u03c1\u03b7\u03c3\u03b9\u03bd). Late and rare word from \u03c5\u03c3\u03c4\u03b5\u03c1\u03b5\u03c9, to be behind or too late, only here and Mark 12:44 in N.T.",
+            "I have learned (\u03b5\u03bc\u03b1\u03b8\u03bf\u03bd). Simply, \"I did learn\" (constative second aorist active indicative of \u03bc\u03b1\u03bd\u03b8\u03b1\u03bd\u03c9, to learn, looking at his long experience as a unit.",
+            "Paul is contented with his lot and he learned that lesson long ago. Socrates said as to who is wealthiest: 'He that is content with least, for \u03b1\u03c5\u03c4\u03b1\u03c1\u03ba\u03b5\u03b9\u03b1 is nature's wealth.'"
+        ],
+        "John Gill": [
+            "Though he had nothing, he possessed all things, and was as happy, and in as comfortable a frame, and in as much content then as now.",
+            "Such persons have a sort of an all-sufficiency in them; they are thankful for everything they have, be it little or more, and in every state, whether of adversity or prosperity.",
+            "It was not what he had acquired by his industry, but what he had 'learned'; and that not in the school of nature and reason, while an unregenerate man; nor at the feet of Gamaliel, while he was training up under him in the law of Moses, and in the traditions of the elders; but he learned it of God, and was taught it by the revelation of Christ, and under the teachings of the Spirit of God."
+        ],
+        "John Wesley": [
+            "I have learned \u2014 From God. He only can teach this.",
+            "In everything, therewith to be content \u2014 Joyfully and thankfully patient. Nothing less is Christian content.",
+            "We may observe a beautiful gradation in the expressions, I have learned; I know; I am instructed; I can."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I have learned, through the teaching of the Holy Spirit and the circumstances appointed by God, to be content in every situation. This contentment does not stem from self-sufficiency or independence, but rather from a recognition that my sufficiency comes from God. In having Christ, I possess all that I need, and through His sustaining presence, I am able to find competence in all things. This contentment is not based on the absence of want, but rather on a disposition of gratitude and thankfulness for everything that I have, whether it be little or more. It is a joyful and patient contentment that is a result of the Christian faith.",
+            "wordCount": 111,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.938298505768263,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                28.41,
+                38.33,
+                33.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the teachings of the Holy Spirit and the dealings of Providence, I have learned to be content in every state. This contentment is not based on self-sufficiency, but on recognizing that my sufficiency comes from God. Christianity elevates the concept of self-sufficiency from the prideful independence of the Stoics to the contentment of the Christian, whose sufficiency is found in God. It is a contentment that is not based on the absence of want, but on gratitude and thankfulness for everything, whether little or more.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.0139850525424245,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                31.73,
+                37.41,
+                30.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the teachings of the Holy Spirit and the dealings of Providence, I have learned to be content in every state. This contentment is not based on self-sufficiency, but on recognizing that my sufficiency comes from God. Christianity elevates the concept of self-sufficiency from the prideful independence of the Stoics to the contentment of the Christian, whose sufficiency is found in God. It is a contentment that is not based on the absence of want, but on gratitude and thankfulness for everything, whether little or more.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.0139850525424245,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                31.73,
+                37.41,
+                30.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the teachings of the Holy Spirit and the dealings of Providence, I have learned to be content in every state. This contentment is not based on self-sufficiency, but on recognizing that my sufficiency comes from God. Christianity elevates the concept of self-sufficiency from the prideful independence of the Stoics to the contentment of the Christian, whose sufficiency is found in God. It is a contentment that is not based on the absence of want, but on gratitude and thankfulness for everything, whether little or more.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.0139850525424245,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                31.73,
+                37.41,
+                30.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the teachings of the Holy Spirit and the dealings of Providence, I have learned to be content in every state. This contentment is not based on self-sufficiency, but on recognizing that my sufficiency comes from God. Christianity elevates the concept of self-sufficiency from the prideful independence of the Stoics to the contentment of the Christian, whose sufficiency is found in God. It is a contentment that is not based on the absence of want, but on gratitude and thankfulness for everything, whether little or more.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.0139850525424245,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                31.73,
+                37.41,
+                30.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

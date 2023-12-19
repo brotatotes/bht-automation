@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:16:43",
+    "verseRef": "Luke 8:28",
+    "bestBHT": {
+        "bht": "In this encounter, the demonic possession of a man leads to his desperate cry of terror as he falls prostrate before Jesus. The phrase the Most High God clearly denotes God Himself, as previously witnessed in other passages by Luke. Acknowledging Jesus as the Son of God, the possessed man pleads not to be tormented prematurely.",
+        "wordCount": 56,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.4319985104006252,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+        "commentatorTierSimilarities": [
+            46.61,
+            0.0,
+            53.39
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "This is the prostration of abject terror.",
+            "The compound verb with ajna, up, implies what is conveyed by our phrase, lifting up the voice.",
+            "Luke never uses the word of sickness, as Matthew 8:6."
+        ],
+        "Archibald T. Robertson": [
+            "Fell down (\u03c0\u03c1\u03bf\u03c3\u03b5\u03c0\u03b5\u03c3\u03b5\u03bd). Second aorist active of \u03c0\u03c1\u03bf\u03c3\u03c0\u03b9\u03c0\u03c4\u03c9, to fall forward, towards, prostrate before one as here.",
+            "The Most High God (\u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03c5\u03c8\u03b9\u03c3\u03c4\u03bf\u03c5). Uncertain whether \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5 genuine or not.",
+            "But 'the Most High' clearly means God as already seen (Luke 1:32; Luke 1:35; Luke 1:36; Luke 6:35)."
+        ],
+        "John Gill": [
+            "He cried out, and fell down before him; that is, the man possessed with the devil did so, under his impulse, and through his agitation of him.",
+            "What have I to do with thee, Jesus, thou Son of God, most high? I beseech thee torment me not; i.e. before the time.",
+            "Mark 5:6- :."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse describes a man who, under the impulse and agitation caused by the devil possessing him, cries out and falls down before Jesus in abject terror. The compound verb used here implies that the man lifted up his voice while falling prostrate. The phrase the Most High God is used to refer to God himself, as seen in other instances in Luke's writings. The possessed man acknowledges Jesus as the Son of God, recognizing his authority and requesting not to be tormented before the appointed time.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.3767197159180768,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.12,
+            "commentatorTierSimilarities": [
+                49.31,
+                0.0,
+                50.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this scene, a man possessed by a devil cries out in terror and falls prostrate before Jesus. The compound verb used here reveals both his loud outcry and his act of prostration. The phrase the Most High God refers to God himself, as Luke consistently portrays in his writing. The possessed man acknowledges Jesus as the Son of God and asks to be spared torment until the appointed time.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.3183031582531322,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.18,
+            "commentatorTierSimilarities": [
+                48.24,
+                0.0,
+                51.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this encounter, the demonic possession of a man leads to his desperate cry of terror as he falls prostrate before Jesus. The phrase the Most High God clearly denotes God Himself, as previously witnessed in other passages by Luke. Acknowledging Jesus as the Son of God, the possessed man pleads not to be tormented prematurely.",
+            "wordCount": 56,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.4319985104006252,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+            "commentatorTierSimilarities": [
+                46.61,
+                0.0,
+                53.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of an encounter with a possessed man, we witness the depths of his terror as he cries out and prostrates himself before Jesus. This compound verb emphasizes the man's loud outcry while falling in complete submission before Jesus. The mention of the Most High God alludes to God Himself, reflecting the parallel descriptions found elsewhere in Luke's writing. The possessed man recognizes Jesus as the Son of God and pleads against being tormented before the appointed time.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.2632018784448902,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.34,
+            "commentatorTierSimilarities": [
+                45.3,
+                0.0,
+                54.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of his possession, the man's terror intensifies as he cries out and falls prostrate before Jesus, acknowledging Him as the Son of God. The compound verb depicting the man's outcry and prostration highlights the depth of his fear. The mention of the Most High God confirms that it refers to God Himself, as seen in other instances in Luke's writing. The possessed man pleads for mercy, asking not to be tormented before the appointed time.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.2321605469390493,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.31,
+            "commentatorTierSimilarities": [
+                51.22,
+                0.0,
+                48.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

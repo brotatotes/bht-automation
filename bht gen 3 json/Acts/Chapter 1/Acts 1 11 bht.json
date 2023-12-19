@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:24:39",
+    "verseRef": "Acts 1:11",
+    "bestBHT": {
+        "bht": "Jesus ascended into heaven, assuring the disciples that He will come again in the same manner. His corporeal identity is emphasized, guaranteeing that He will always be their personal friend and Savior. The repetition of this same Jesus underscores the certainty of His second coming, described as personal, visible, and glorious. The disciples were encouraged to actively engage in their work instead of gazing into heaven. This reproof applies to all believers, reminding us to seek Christ through faith and lift our hearts to heaven.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.7340913065117858,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+        "commentatorTierSimilarities": [
+            31.44,
+            27.71,
+            40.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In like manner as;\u2014to be taken literally; as you beheld Him going, so shall He be seen coming...",
+            "His corporeal identity is implied in the words, this same Jesus.",
+            "It was then with reason that the Apostles, before the giving of the Apocalypse, looked to the day of Christ as very near."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is coming again not another,",
+            "\tbut 'this same Jesus'; and 'as ye have seen Him go, in the like",
+            "\tmanner shall He come'\u2014as personally, as visibly, as",
+            "\tgloriously..."
+        ],
+        "Albert Barnes": [
+            "We, as well as the apostles, have a great work to do, and we should actively engage in it without delay.",
+            "Though their master and friend was taken from them, yet he was not removed forever.",
+            "It is right that he should defend his cause. Hence, the Lord Jesus will come to guard the avenues to heaven, and to see that the universe suffers no wrong by the admission of an improper person to the skies."
+        ],
+        "John Calvin": [
+            "Let us first learn out of this place that we must not seek Christ either in heaven, either upon earth, otherwise than by faith.",
+            "For the desiring of his corporeal presence is here condemned as absurd and perverse.",
+            "But Christ, by reaching us the bread in his Supper, doth will us to lift up our hearts into heaven, that we may have life by his flesh and blood."
+        ],
+        "Philip Schaff": [
+            "Why stand ye gazing up into heaven?... Their duty now was not quiet contemplation and still waiting, but real earnest work.\" ",
+            "The angels... still gently reprove these loving followers of Jesus, who remained gazing upwards, not without a hope He might reappear.\" ",
+            "It is a reproof which belongs to all ages of the Christian Church."
+        ],
+        "Archibald T. Robertson": [
+            "The personal name assures them that Jesus will always be in heaven a personal friend and divine Saviour.",
+            "This is the simplest way from Homer on to narrate two parallel events.",
+            "The fact of his second coming and the manner of it also described by this emphatic repetition."
+        ],
+        "John Gill": [
+            "Christ was no more in common to be seen this way, but with an eye of faith.",
+            "They were to go to Jerusalem, and abide there, as Christ had ordered, till they should receive the Holy Spirit in an extraordinary way.",
+            "He shall come in the same flesh, in the same human nature; he shall come in the clouds of heaven, and shall be attended with his mighty angels, as he now was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, it is stated that Jesus ascended into heaven, and just as the disciples saw Him go, He will come again in the same manner. This emphasizes His corporeal identity and assures the disciples that He will always be their personal friend and Savior. The repetition of this same Jesus highlights the certainty of His second coming, described as personal, visible, and glorious. The disciples were not to continue gazing into heaven, but to actively engage in the work they had been given. This reproof applies to all believers, reminding us not to seek Christ in earthly or physical ways, but to have faith and lift our hearts to heaven.",
+            "wordCount": 112,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.791193501131827,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                30.06,
+                29.32,
+                40.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus ascended into heaven, and just as the disciples saw Him go, He will come again in the same manner. This emphasizes His corporeal identity and assures the disciples that He will always be their personal friend and Savior. The repetition of this same Jesus highlights the certainty of His second coming, described as personal, visible, and glorious. The disciples were not to continue gazing into heaven, but to actively engage in the work they had been given. This reproof applies to all believers, reminding us not to seek Christ in earthly or physical ways but to have faith and lift our hearts to heaven.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.8025209654073209,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.28,
+            "commentatorTierSimilarities": [
+                30.28,
+                29.23,
+                40.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus ascended into heaven, assuring the disciples that He will come again in the same manner. His corporeal identity is emphasized, guaranteeing that He will forever be their personal friend and Savior. The repetition of this same Jesus underscores the certainty of His glorious second coming. The disciples were urged to actively engage in their work, rather than simply gazing at the sky. This reproof serves as a timeless reminder for believers to seek Christ through faith and lift their hearts to heaven.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7254990953015938,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                33.1,
+                28.54,
+                38.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as the disciples watched Jesus ascend into heaven, they were assured that He will return in the same manner. This emphasizes His corporeal identity and assures the disciples of His personal presence as a friend and Savior. The repetition of this same Jesus underscores the certainty of His glorious second coming. Instead of simply gazing upwards, the disciples were urged to actively engage in their work. This serves as a timeless reminder for believers to seek Christ through faith and lift their hearts to heaven.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.693190601837315,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.64,
+            "commentatorTierSimilarities": [
+                32.86,
+                27.91,
+                39.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus ascended into heaven, assuring the disciples that He will come again in the same manner. His corporeal identity is emphasized, guaranteeing that He will always be their personal friend and Savior. The repetition of this same Jesus underscores the certainty of His second coming, described as personal, visible, and glorious. The disciples were encouraged to actively engage in their work instead of gazing into heaven. This reproof applies to all believers, reminding us to seek Christ through faith and lift our hearts to heaven.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7340913065117858,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                31.44,
+                27.71,
+                40.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

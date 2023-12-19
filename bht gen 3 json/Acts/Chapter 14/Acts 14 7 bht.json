@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:30:58",
+    "verseRef": "Acts 14:7",
+    "bestBHT": {
+        "bht": "The apostles extended their preaching for some time, engaging in extensive evangelistic work as they actively proclaimed the gospel. Their efforts were not confined to public spaces, but also included preaching in Timothy's house, which served as a bridge between the Jewish apostles and the predominantly Gentile population in Lycaonia. Through their preaching, many were likely converted, leading to the establishment of churches in these cities. Although there is limited historical information about these churches until much later, the apostles' active dissemination of the good news played a pivotal role in the growth of faith.",
+        "wordCount": 96,
+        "quoteTokenProportion": 36.62,
+        "qualityScore": 1.8265761921351125,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+        "commentatorTierSimilarities": [
+            30.95,
+            35.53,
+            33.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "They preached the gospel [\u03b7\u03c3\u03b1\u03bd \u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . The finite verb with the participle, denoting continuance. They prolonged their preaching for some time."
+        ],
+        "Philip Schaff": [
+            "The apostles would preach generally in the market-place, or in some public thoroughfare; but the great centre, doubtless, of their work was that house, in later days known in the churches as the home of Timothy, the greatest and most famous of the disciples of Paul.",
+            "The deep piety of Lois and Eunice, the grandmother and mother of Timothy, their love for the traditions of the ancient covenant people on the one side, their Gentile connections on the other, supplied a link between the Jewish apostles and the people of Lycaonia.",
+            "The church of Lystra was the first Christian church composed almost entirely of Gentiles."
+        ],
+        "Archibald T. Robertson": [
+            "And there they preached the gospel.",
+            "Periphrastic imperfect middle.",
+            "We are to think of extensive evangelistic work."
+        ],
+        "John Gill": [
+            "They did not sit still, nor hide themselves in these places; but, as in others, they preached the Gospel, the good news and glad tidings.",
+            "It is very likely that many were converted in each of these cities, and in the adjacent country, and that churches were raised in these places.",
+            "We meet with nothing in ecclesiastical history, concerning the churches in either of these places, until the sixth century."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, it is mentioned that the apostles preached the gospel, and they did so for a prolonged period of time. Their evangelistic work was extensive, reaching not only the market-place but also the house that later became known as Timothy's home. This house served as a connection between the Jewish apostles and the people of Lycaonia, who were predominantly Gentiles. Through their preaching, it is likely that many were converted in these cities, resulting in the establishment of churches. However, there is limited information in ecclesiastical history about these churches until much later. The apostles did not stay still or hide, but actively proclaimed the good news and glad tidings, leading others to faith.",
+            "wordCount": 118,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5861021587042945,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                25.78,
+                36.04,
+                38.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostles engaged in extensive evangelistic work, preaching the gospel for an extended period of time. Their efforts were not limited to public spaces but also included the house that later became Timothy's home, serving as a link between Jewish apostles and the predominantly Gentile people of Lycaonia. Through their preaching, many were likely converted and churches were established in these cities. However, historical records about these churches are scarce until much later periods. Their active proclamation of the good news resulted in the spread of faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.5573291026438294,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.12,
+            "commentatorTierSimilarities": [
+                29.49,
+                33.7,
+                36.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles spent a significant amount of time preaching the gospel, not only in public spaces but also in Timothy's house, which served as a connection between Jewish apostles and the Gentile population in Lycaonia. Their extensive evangelistic work likely led to the conversion of many individuals and the establishment of churches. Although there is limited historical information about these churches until much later, their active proclamation of the good news had a profound impact in spreading faith.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7400220044616006,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                27.47,
+                38.56,
+                33.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostles engaged in extensive evangelistic work, proclaiming the gospel for a prolonged period of time. They preached not only in public spaces but also in Timothy's house, establishing a link between Jewish apostles and the Gentile population in Lycaonia. Through their preaching, many were likely converted, resulting in the establishment of churches in these cities. Although historical records about these churches are scarce until later periods, the apostles actively spread the good news, having a significant impact on the expansion of faith.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.7704623861198567,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                29.17,
+                36.24,
+                34.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostles extended their preaching for some time, engaging in extensive evangelistic work as they actively proclaimed the gospel. Their efforts were not confined to public spaces, but also included preaching in Timothy's house, which served as a bridge between the Jewish apostles and the predominantly Gentile population in Lycaonia. Through their preaching, many were likely converted, leading to the establishment of churches in these cities. Although there is limited historical information about these churches until much later, the apostles' active dissemination of the good news played a pivotal role in the growth of faith.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.8265761921351125,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                30.95,
+                35.53,
+                33.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

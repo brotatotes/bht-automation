@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 15:11:35",
+    "verseRef": "1 Corinthians 11:13",
+    "bestBHT": {
+        "bht": "Judge in yourselves: is it seemly that a woman pray unto God (in public) unveiled? By rejecting the emblem of subjection (the head-covering), she passes at one leap in praying publicly beyond both the man and angels. Paul appeals to the sense of propriety among the Corinthians, asking them to judge for themselves if it is decent and becoming for a woman to pray to God with her head uncovered. He leaves it with them, confident that upon reflection, they will recognize the importance of this symbol of modesty in Christian assemblies.",
+        "wordCount": 93,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 2.1956724063180926,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+        "commentatorTierSimilarities": [
+            39.7,
+            28.59,
+            31.7
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "13.] Appeal to their own sense of propriety: cf. ch. x. 15. in your own selves] Each man within himself, in his own judgment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By rejecting the emblem of subjection (the head-covering), she passes at one leap in praying publicly beyond both the man and angels.\" "
+        ],
+        "Albert Barnes": [
+            "Judge in yourselves - Or, 'Judge among yourselves.' I appeal to you. I appeal to your natural sense of what is proper and right.",
+            "Is it comely ... - Is it decent, or becoming?",
+            "Paul alludes to that established and proper habit, and asks whether it does not accord with their own views of propriety that women in Christian assemblies should also wear the same symbol of modesty."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 11:13. Judge ye in yourselves: is it seemly that a woman pray unto God (in public) unveiled?",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Is it seemly? (\u03c0\u03c1\u03b5\u03c0\u03bf\u03bd \u03b5\u03c3\u03c4\u03b9\u03bd;). Periphrastic present indicative rather than \u03c0\u03c1\u03b5\u03c0\u03b5. See on Matthew 3:15. Paul appeals to the sense of propriety among the Corinthians. "
+        ],
+        "John Gill": [
+            "Judge in yourselves... suggesting that the thing was so clear, and he so certain of what he had advanced being right, that he leaves it with them, not doubting but that they would, upon a little reflection within themselves, join with him in this point.",
+            "Is it comely that a woman pray unto God uncovered?... it is an uncomely thing in a woman to appear in public service with her head uncovered, whether it be in joining in the public prayers, or in singing of psalms, or in hearing the word expounded.",
+            "Though the apostle does not put the case of the man's praying to God, or prophesying in his name with his head covered, yet his sense is the same of that, as of the woman's."
+        ],
+        "John Wesley": [
+            "For what need of more arguments if so plain a case?",
+            "Is it decent for a woman to pray to God - The Most High, with that bold and undaunted air which she must have when, contrary to universal custom, she appears in public with her head uncovered?",
+            "Judge of yourselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judge in yourselves: is it seemly that a woman pray unto God (in public) unveiled? By rejecting the emblem of subjection (the head-covering), she passes at one leap in praying publicly beyond both the man and angels. Paul appeals to the sense of propriety among the Corinthians, asking them to judge for themselves if it is decent and becoming for a woman to pray to God with her head uncovered. He leaves it with them, confident that upon reflection, they will recognize the importance of this symbol of modesty in Christian assemblies.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.1956724063180926,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+            "commentatorTierSimilarities": [
+                39.7,
+                28.59,
+                31.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judge in yourselves: is it seemly that a woman pray unto God (in public) unveiled? Paul appeals to the sense of propriety among the Corinthians, asking them to judge for themselves if it is decent and becoming for a woman to pray to God with her head uncovered. By rejecting the emblem of subjection, she passes beyond both man and angels. He leaves it with them, confident they will recognize the importance of this symbol of modesty in Christian assemblies.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.0729670497439203,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                39.09,
+                29.89,
+                31.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judge in yourselves: is it seemly that a woman pray unto God (in public) unveiled? By rejecting the emblem of subjection (the head-covering), she passes at one leap in praying publicly beyond both the man and angels. Paul appeals to the sense of propriety among the Corinthians, asking them to judge for themselves if it is decent and becoming for a woman to pray to God with her head uncovered. He leaves it with them, confident they will recognize the importance of this symbol of modesty in Christian assemblies.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.1850537975483615,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.99,
+            "commentatorTierSimilarities": [
+                39.56,
+                29.0,
+                31.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judge in yourselves: is it seemly that a woman pray unto God (in public) unveiled? Paul appeals to the sense of propriety among the Corinthians, asking them to judge for themselves if it is decent and becoming for a woman to pray to God with her head uncovered. By rejecting the emblem of subjection, she passes at one leap in praying publicly beyond both the man and angels. He leaves it with them, confident they will recognize the importance of this symbol of modesty in Christian assemblies.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.166240193390124,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.37,
+            "commentatorTierSimilarities": [
+                39.43,
+                29.12,
+                31.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judge in yourselves: is it seemly that a woman pray unto God (in public) unveiled? By rejecting the emblem of subjection (the head-covering), she passes at one leap in praying publicly beyond both the man and angels. Paul appeals to the sense of propriety among the Corinthians, asking them to judge for themselves if it is decent for a woman to pray to God with her head uncovered. He leaves it with them, confident they will recognize the importance of this symbol of modesty in Christian assemblies.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.1808023025446612,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.85,
+            "commentatorTierSimilarities": [
+                39.63,
+                28.93,
+                31.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

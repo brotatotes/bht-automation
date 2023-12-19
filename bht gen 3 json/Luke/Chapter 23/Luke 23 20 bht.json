@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:23:20",
+    "verseRef": "Luke 23:20",
+    "bestBHT": {
+        "bht": "Pilate, convinced of Jesus' innocence, addressed the crowd, asking them whether they wanted him to save or release Jesus. The word spake means to accost, and it is consistently used in the New Testament to refer to addressing individuals or crowds. Pilate's growing conviction of Jesus' innocence led him to recognize the wickedness and envy of Jesus' accusers.",
+        "wordCount": 59,
+        "quoteTokenProportion": 30.95,
+        "qualityScore": 1.5797763350784637,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+        "commentatorTierSimilarities": [
+            54.0,
+            0.0,
+            46.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Spake [\u03c0\u03c1\u03bf\u03c3\u03b5\u03c6\u03c9\u03bd\u03b7\u03c3\u03b5\u03bd] . Addressed. Compare Acts 21:40; Acts 22:2. Always in the New Testament in the sense of to accost, whether an individual or a crowd."
+        ],
+        "John Gill": [
+            "Being more and more convinced of his innocence; and still seeing more clearly into the wickedness, malice, and envy of his accusers.",
+            "Plainly signifying his mind, that he thought him innocent, and that it would be right to let him go.",
+            "Will ye that I save for you, or release to you the Lord Jesus?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse tells us that Pilate spoke to the crowd, addressing them. The word used here, spake, means to accost and is always used in the New Testament in this sense. Some commentators believe that Pilate may have been convinced of Jesus' innocence, as he was more and more convinced and saw the wickedness and envy of Jesus' accusers. Pilate plainly signified his thoughts by asking the crowd if they wanted him to save or release Jesus.",
+            "wordCount": 77,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.5184233082921956,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.83,
+            "commentatorTierSimilarities": [
+                57.05,
+                0.0,
+                42.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate addressed the crowd, speaking to them directly. The word spake is used to mean to accost, and it always carries this meaning in the New Testament. Some suggest that Pilate was increasingly convinced of Jesus' innocence and became more aware of the wickedness and envy of Jesus' accusers. Pilate made his thoughts known by asking the crowd whether they wanted him to save or release Jesus.",
+            "wordCount": 67,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.4294930429663715,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.87,
+            "commentatorTierSimilarities": [
+                55.15,
+                0.0,
+                44.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, having been more and more convinced of Jesus' innocence, addressed the crowd, making his thoughts known by asking them whether they wanted him to save or release Jesus. The word spake in this context refers to Pilate accosting the crowd, a usage consistent with other instances in the New Testament. This suggests that Pilate became increasingly aware of the wickedness and envy of Jesus' accusers as he pondered Jesus' case.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.4554081058033344,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.74,
+            "commentatorTierSimilarities": [
+                49.94,
+                0.0,
+                50.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate, convinced of Jesus' innocence, addressed the crowd, asking them whether they wanted him to save or release Jesus. The word spake means to accost, and it is consistently used in the New Testament to refer to addressing individuals or crowds. Pilate's growing conviction of Jesus' innocence led him to recognize the wickedness and envy of Jesus' accusers.",
+            "wordCount": 59,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 1.5797763350784637,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+            "commentatorTierSimilarities": [
+                54.0,
+                0.0,
+                46.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate openly spoke to the crowd, addressing them directly. The term spake indicates that he accosted them, as seen in other instances in the New Testament. Having become increasingly convinced of Jesus' innocence, Pilate expressed his thoughts, wanting to save or release Jesus. This displays his growing awareness of the malice and envy of Jesus' accusers, emphasizing the righteousness of letting him go.",
+            "wordCount": 63,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.2148395194655348,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.74,
+            "commentatorTierSimilarities": [
+                46.92,
+                0.0,
+                53.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

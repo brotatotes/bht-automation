@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:01:27",
+    "verseRef": "Romans 3:27",
+    "bestBHT": {
+        "bht": "Boasting is altogether removed by this truth, as the law of works cannot justify or give any ground for boasting. The law of faith, however, establishes a different principle where justification comes through faith, not works. As such, boasting is completely shut out by the principle of faith in harmony with God's love and grace. This divine arrangement prevents any glorying, both for Jews and Gentiles, and instead directs all boasting to Christ, who is the source of righteousness and justification.",
+        "wordCount": 82,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.2277350028657157,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.41,
+        "commentatorTierSimilarities": [
+            29.2,
+            37.45,
+            33.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "JEWISH BOASTING ALTOGETHER REMOVED by this truth, NOT however BY MAKING VOID THE LAW, nor BY DEGRADING ABRAHAM FROM HIS PRE-EMINENCE, but BY ESTABLISHING THE LAW.",
+            "The contrast is not here between the law and the Gospel as two dispensations, but between the law of works and the law of faith.",
+            "Abraham was justified, not by works, so as to have whereof to boast, but by faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "27, 28. Where is boasting then? . .",
+            "\t. excluded. By what law?\u2014on what principle or scheme?. ",
+            "\t",
+            "of works? Nay; but by the law",
+            "\tof faith."
+        ],
+        "Albert Barnes": [
+            "Since all have sinned, and since all have failed of being able to justify themselves by obeying the Law, and since all are alike dependent on the mere mercy of God in Christ, all ground of boasting is of course taken away.",
+            "By what arrangement, or by the operation of what rule, is boasting excluded?",
+            "The rule, or arrangement which proclaims that we have no merit; that we are lost sinners; and that we are to be justified only by faith."
+        ],
+        "John Calvin": [
+            "But he says that glorying is beyond all doubt excluded, for we cannot adduce anything of our own, which is worthy of being approved or commended by God.",
+            "The righteousness of works is indeed commended by the law, but that of faith has its own law, which leaves to works, whatever they may be, no righteousness.",
+            "He means here, that were righteousness to be had by the law of works, our glorying would not be excluded; but as it is by faith alone, there is nothing that we can claim for ourselves."
+        ],
+        "Philip Schaff": [
+            "In view of this manifestation of God\u2019s righteousness apart from the law, the Jew cannot boast. Such a scheme prevents any glorying.",
+            "By what kind of a law? This refers to the exclusion, which must have taken place according to some rule or principle revealed by God; \u2018law\u2019 being here used in its widest sense, of any expression of the will of God.",
+            "If we were saved by our own works, we might put the crown upon our own heads. But the law of faith, the way of justification by faith, doth forever exclude boasting .... therefore it is most for God\u2019s glory, that thus we should be justified."
+        ],
+        "Archibald T. Robertson": [
+            "It is completely shut out.",
+            "By the principle of faith in harmony with God's love and grace."
+        ],
+        "John Gill": [
+            "There is no room nor reason for it, either in Jews or Gentiles.",
+            "It is excluded; it is shut out of doors; the key is turned upon it; it is entirely exploded.",
+            "So that there is not the least room for boasting in the creature, but all their boasting is in Christ, who is made unto them righteousness, and by whom they are justified."
+        ],
+        "John Wesley": [
+            "Where is the boasting then of the Jew against the gentile? It is excluded.\" ",
+            "By the law of faith \u2014 Since this requires all, without distinction, to apply as guilty and helpless sinners, to the free mercy of God in Christ.\" ",
+            "The law of faith is that divine constitution which makes faith, not works, the condition of acceptance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Where then is boasting? It is altogether removed by the truth that just as the law of works cannot justify, the law of faith can. The contrast here is not between the law and the Gospel but between the law of works and the law of faith. By the principle of faith in harmony with God's love and grace, boasting is completely shut out. This divine constitution establishes that all, Jews and Gentiles alike, are justified not by works but by faith, leaving no room for boasting in the creature but all boasting in Christ, who is made unto them righteousness.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.101646333937719,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.22,
+            "commentatorTierSimilarities": [
+                31.02,
+                34.95,
+                34.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Boasting is removed by the truth that the law of works does not justify, while the law of faith does. This divine constitution establishes that all are justified by faith, not works. By the principle of faith in harmony with God's love and grace, boasting is completely shut out. This prevents any glorying, both for Jews and Gentiles, leaving no room for boasting in the creature but all boasting in Christ, who is made unto them righteousness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.1744826367799552,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.64,
+            "commentatorTierSimilarities": [
+                28.42,
+                35.77,
+                35.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Boasting is altogether removed by this truth, as the law of works cannot justify or give any ground for boasting. The law of faith, however, establishes a different principle where justification comes through faith, not works. As such, boasting is completely shut out by the principle of faith in harmony with God's love and grace. This divine arrangement prevents any glorying, both for Jews and Gentiles, and instead directs all boasting to Christ, who is the source of righteousness and justification.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.2277350028657157,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.41,
+            "commentatorTierSimilarities": [
+                29.2,
+                37.45,
+                33.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Boasting is altogether removed by this truth, as the law of works cannot justify or give any ground for boasting. The law of faith, however, establishes a different principle where justification comes through faith, not works. As such, boasting is completely shut out by the principle of faith in harmony with God's love and grace. This divine arrangement prevents any glorying, both for Jews and Gentiles, and instead directs all boasting to Christ, who is the source of righteousness and justification.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.2277350028657157,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.41,
+            "commentatorTierSimilarities": [
+                29.2,
+                37.45,
+                33.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Boasting is altogether removed by this truth, as the law of works cannot justify or give any ground for boasting. The law of faith, however, establishes a different principle where justification comes through faith, not works. As such, boasting is completely shut out by the principle of faith in harmony with God's love and grace. This divine arrangement prevents any glorying, both for Jews and Gentiles, and instead directs all boasting to Christ, who is the source of righteousness and justification.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.2277350028657157,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.41,
+            "commentatorTierSimilarities": [
+                29.2,
+                37.45,
+                33.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

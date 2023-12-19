@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:38:30",
+    "verseRef": "2 Thessalonians 3:11",
+    "bestBHT": {
+        "bht": "They were idle people, not doing their own work but eagerly meddling in the affairs of others, constantly bustling about and being busybodies. Their idleness resulted in them neglecting their own responsibilities and focusing on trifles that were not their concern. This play on words highlights how their inactivity and lack of productivity made them prone to meddling in the business of their neighbors. In times of affliction and want, it is important to lend our aid, but during normal times, we should recognize that individuals can manage their own affairs and that it is not our business to interfere.",
+        "wordCount": 100,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.9428952107804203,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+        "commentatorTierSimilarities": [
+            32.31,
+            40.44,
+            27.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "being busybodies; or, being active about trifles; \u2018busy only with what is not their own business.\u2019",
+            "There is in the original a play on words, which it is of course difficult to represent in the English."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Doing none of their own business, yet overdoing in the business of others.",
+            "Nature abhors a vacuum\"; so if not doing one's own business, one is apt to meddle with his neighbor's business.",
+            "Idleness is the parent of busybodies."
+        ],
+        "Albert Barnes": [
+            "That is, they meddled with the affairs of others - a thing which they who have nothing of their own to busy themselves about will be very likely to do.",
+            "One of the indispensable things to check this is, that each one should have enough to do himself; and one of the most pestiferous of all persons is he who has nothing to do but to look after the affairs of his neighbors.",
+            "In times of affliction and want, we should be ready to lend our aid. At other times, we should feel that he can manage his own affairs as well as we can do it for him; or if he cannot, it is his business, not ours."
+        ],
+        "Marvin Vincent": [
+            "Working not at all - busybodies. One of Paul's frequent wordplays.",
+            "Not busy, but busybodies.",
+            "Periergazesqai (N.T. o.) is to bustle about a thing: here, to be officious in others' affairs."
+        ],
+        "John Calvin": [
+            "He pronounces them all to be irregular and disorderly, by whatever name of distinction they may be dignified.",
+            "That is a memorable saying of an old monk [...] he who does not labor with his hands is like a plunderer.",
+            "This disease [of curiosity] has a ruinous effect upon the public, Paul admonishes that it ought not to be encouraged by idleness."
+        ],
+        "Philip Schaff": [
+            "They were those who were excitedly busy, but doing no useful work; running hither and thither, meddling with every one\u2019s business but their own.\" ",
+            "Striving to bring others into the same state of excitement as themselves.\" ",
+            "Declining all ordinary, steady, profitable, obscure labour."
+        ],
+        "Archibald T. Robertson": [
+            "Doing no business but being busy bodies.\" ",
+            "These theological dead-beats were too pious to work, but perfectly willing to eat at the hands of their neighbors while they piddled and frittered away the time in idleness.",
+            "Three picturesque present participles, the first a general description, \u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03bf\u03c5\u03bd\u03c4\u03b1\u03c2 \u03b1\u03c4\u03b1\u03ba\u03c4\u03c9\u03c2, the other two specifying with a vivid word-play, that work not at all, but are busy-bodies."
+        ],
+        "John Gill": [
+            "When the apostle was with them, he observed that there were idle persons among them, and therefore gave orders then, that if they would not work, they should not eat.",
+            "For as the apostle had the care of all the churches upon him, so he kept a correspondence with them, and by one means or another, by sending messengers to them, or by receiving letters from those he corresponded with, he learned the state of them.",
+            "And his information was generally good, and what might be depended upon; see 1 Corinthians 1:11 as it was in this case relating to some persons: which walk among you disorderly."
+        ],
+        "John Wesley": [
+            "Doing nothing, but being busybodies \u2014 To which idleness naturally disposes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They were idle people, not doing their own work but eagerly meddling in the affairs of others, constantly bustling about and being busybodies. Their idleness resulted in them neglecting their own responsibilities and focusing on trifles that were not their concern. This play on words highlights how their inactivity and lack of productivity made them prone to meddling in the business of their neighbors. In times of affliction and want, it is important to lend our aid, but during normal times, we should recognize that individuals can manage their own affairs and that it is not our business to interfere. However, these individuals were excitedly involved in others' affairs, striving to bring others into the same state of busyness while neglecting their own useful work. Paul's admonishment serves as a reminder that idleness encourages the disease of curiosity and disorderliness.",
+            "wordCount": 141,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 1.8625994724203965,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                30.35,
+                40.24,
+                29.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They were idle people, not doing their own work but eagerly meddling in the affairs of others, constantly bustling about and being busybodies. Their idleness resulted in them neglecting their own responsibilities and focusing on trifles that were not their concern. This play on words highlights how their inactivity and lack of productivity made them prone to meddling in the business of their neighbors. In times of affliction and want, it is important to lend our aid, but during normal times, we should recognize that individuals can manage their own affairs and that it is not our business to interfere.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9428952107804203,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+            "commentatorTierSimilarities": [
+                32.31,
+                40.44,
+                27.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These idle individuals were not engaged in their own work but found themselves entangled in the affairs of others, preoccupied with trivial matters. Their idleness led them astray, neglecting their own responsibilities while overstepping boundaries by meddling in the business of others. This clever wordplay highlights their lack of productivity, making them susceptible to becoming intrusive busybodies. It is important to offer assistance in times of need, but in ordinary circumstances, we should allow individuals to manage their own affairs without our interference.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7427897894261082,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                32.04,
+                41.61,
+                26.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These idle individuals were not doing their own work, but instead, busily involving themselves in the affairs of others, meddlesome and unfocused. Their idleness fostered a tendency to interfere in matters that were not their concern and neglect their own responsibilities. This clever wordplay emphasizes how their lack of productivity in their own lives left a void that they filled by meddling with the business of their neighbors. While it is important to offer support in times of need, in ordinary circumstances, it is crucial to recognize that individuals can manage their own affairs without our intervention.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.799758911719476,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                30.56,
+                43.16,
+                26.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These idle individuals were not doing their own work, but instead busily involved themselves in the affairs of others, neglecting their own responsibilities. Their idleness led them to meddle in matters that were not their concern, becoming intrusive busybodies. This clever wordplay accentuates their lack of productivity, making them prone to interfering in the business of their neighbors. While it is important to offer assistance in times of need, in regular circumstances, individuals should be allowed to manage their own affairs without unnecessary interference from others.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8372059291158052,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                32.88,
+                41.63,
+                25.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 13:53:14",
+    "verseRef": "Philippians 2:11",
+    "bestBHT": {
+        "bht": "The grand end of Christ's mediatorial office and kingdom is for Jesus Christ to be acknowledged as Lord, to the glory of God the Father. This confession is not limited to believers but extends to all, including the spirits of the departed. Confession of Jesus Christ as Lord is more than just a verbal acknowledgement; it is a true and hearty confession from the mouth and heart. This universal acknowledgement of Christ's lordship honors God and proclaims His unity with the Father, giving glory to Him who has made Him 'King of kings and Lord of lords.'",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 2.2250146145929595,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.32,
+        "commentatorTierSimilarities": [
+            31.64,
+            35.33,
+            33.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That Jesus Christ is Lord, to the glory of God the Father.",
+            "The great end of all Christ\u2019s mediation and mediatorial kingdom.",
+            "That the majesty of God may shine in Christ, and the Father be glorified in the Son."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In every way He shall be acknowledged as Lord.",
+            "The spirits of good men who are dead must be the class directly meant.",
+            "The grand end of Christ's mediatorial office and kingdom, which shall cease when this end shall have been fully realized."
+        ],
+        "Albert Barnes": [
+            "Everyone should acknowledge him.",
+            "The meaning is, that all should acknowledge him as the universal sovereign.",
+            "Such a universal confession would honor God."
+        ],
+        "Marvin Vincent": [
+            "The sense here is that of frank, open confession.\" ",
+            "Confess [\u03b5\u03be\u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c3\u03b5\u03c4\u03b1\u03b9]... The verb may also be rendered thank.",
+            "Connect with confess."
+        ],
+        "John Calvin": [
+            "It might also be read, In the glory, because the particle \u03b5\u1f30\u03c2 (to) is often used in place of \u1f10\u03bd (in.)",
+            "I prefer, however, to retain its proper signification, as meaning, that as the majesty of God has been manifested to men through Christ, so it shines forth in Christ.",
+            "...and the Father is glorified in the Son."
+        ],
+        "Philip Schaff": [
+            "There is not only to be done to him that reverence of the body which shall acknowledge His divinity, but with \u2018the best member that they have\u2019 men shall give to Jesus the Divine Name.",
+            "To call Christ by this name is to acknowledge and proclaim His unity with the Father.",
+            "For in the worship of Jesus is God the Father glorified...they give glory to God, who has made Him \u2018King of kings and Lord of lords.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Lord (\u039a\u03c5\u03c1\u03b9\u03bf\u03c2). Peter (Acts 2:36) claimed that God made Christ 'Lord.'",
+            "The term Lord has become one of the most lifeless in the Christian vocabulary, whereas it really declares the true character and dignity of Jesus Christ.",
+            "Lord...is the basis and the object of worship."
+        ],
+        "John Gill": [
+            "Confession is either true and hearty, as when the mouth and heart agree in confessing, and which is made only by true believers; or verbal only, or in mere outward form, and by force, as in hypocrites, wicked men, and devils themselves.",
+            "The holy angels confess him to be Lord, and their Lord truly, and are unfeignedly subject to him; and true believers heartily own him as their Lord, and cheerfully submit to his commands and ordinances.",
+            "The worst of men, yea, even devils, will be obliged to own his lordship and dominion; which will be to the glory of God the Father."
+        ],
+        "John Wesley": [
+            "And every tongue \u2014 Even of his enemies.",
+            "Confess that Jesus Christ is Lord \u2014 Jehovah; not now 'in the form of a servant,' but enthroned in the glory of God the Father."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "That Jesus Christ is Lord, to the glory of God the Father. The great end of all Christ\u2019s mediation and mediatorial kingdom is that the majesty of God may shine in Christ, and the Father be glorified in the Son. In every way He shall be acknowledged as Lord, confessing or thanking Him, which is the basis and object of worship. Such a universal confession would honor God and declare the true character and dignity of Jesus Christ, proclaiming His unity with the Father. The worst of men, and even the enemies of Christ, will be obliged to own His lordship and dominion, which will be to the glory of God the Father.",
+            "wordCount": 114,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.3827535252134346,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.57,
+            "commentatorTierSimilarities": [
+                30.87,
+                35.04,
+                34.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The grand end of Christ's mediatorial office and kingdom is for Jesus Christ to be acknowledged as Lord, to the glory of God the Father. This confession is not limited to believers but extends to all, including the spirits of the departed. Confession of Jesus Christ as Lord is more than just a verbal acknowledgement; it is a true and hearty confession from the mouth and heart. This universal acknowledgement of Christ's lordship honors God and proclaims His unity with the Father, giving glory to Him who has made Him 'King of kings and Lord of lords.'",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.2250146145929595,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.32,
+            "commentatorTierSimilarities": [
+                31.64,
+                35.33,
+                33.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The grand end of Christ's mediatorial office and kingdom is for Jesus Christ to be acknowledged as Lord, to the glory of God the Father. This confession is not limited to believers but extends to all, including the spirits of the departed. Confession of Jesus Christ as Lord is more than just a verbal acknowledgement; it is a true and hearty confession from the mouth and heart. This universal acknowledgement of Christ's lordship honors God and proclaims His unity with the Father, giving glory to Him who has made Him 'King of kings and Lord of lords.'",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.2250146145929595,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.32,
+            "commentatorTierSimilarities": [
+                31.64,
+                35.33,
+                33.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In every way, Jesus Christ is to be acknowledged as Lord, to the glory of God the Father. This confession is not limited to believers but extends to all, even the departed spirits. It is a true and hearty confession, not limited to mere verbal acknowledgement. This universal acknowledgment of Christ's lordship honors God and proclaims His unity with the Father. Even His enemies will be compelled to recognize His dominion, bringing glory to God the Father as Jesus is enthroned in His glory.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.1954391696700393,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.34,
+            "commentatorTierSimilarities": [
+                29.14,
+                37.14,
+                33.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The great end of Christ's mediation and mediatorial kingdom is the acknowledgment that Jesus Christ is Lord, to the glory of God the Father. This confession is not limited to believers, but even the spirits of the departed are included. It is a heartfelt confession that goes beyond mere words. Through this universal acknowledgement of Christ's lordship, honor is given to God and His unity with the Father is proclaimed. Even Jesus' enemies will be compelled to recognize and submit to His authority, which brings glory to God the Father.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.157336925576324,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+            "commentatorTierSimilarities": [
+                29.94,
+                37.39,
+                32.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

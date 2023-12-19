@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:17:39",
+    "verseRef": "Galatians 3:20",
+    "bestBHT": {
+        "bht": "The law, administered by a mediator, created a state of two opposing parties, while the promises of God belong entirely to THE ONE, the one faithful God, who desires direct communion with humanity. The law was an exceptional state limited to the Jews, a transaction of quite another nature, preparatory to the Gospel, God's normal mode of dealing directly, face to face, by promise and grace. God, who made the free promise to Abraham, is only one of the parties, and does not need a mediator to validate His promises.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.692056061239186,
+        "qualityScoreNormalizedComparedToV2BHTs": 80.85,
+        "commentatorTierSimilarities": [
+            32.72,
+            40.26,
+            27.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Clearly, the terms a mediator and God are opposed.",
+            "Shall we then say, that all reference of the term one (as applied to God) beyond this numerical one is to be repudiated? I cannot think so.",
+            "The law, administered by the mediator, belonging to a state inconsistent with oneness, a state of two at variance, is apparently opposed to the promises, belonging entirely to THE ONE, the one (faithful) God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God would bring man into immediate communion with Him, and not have man separated from Him by a mediator that keeps back from access.",
+            "The law...was an exceptional state limited to the Jews, and parenthetically preparatory to the Gospel, God's normal mode of dealing, as He dealt with Abraham, namely, face to face directly; by promise and grace, and not conditions.",
+            "Even His mediatorial office is to cease when its purpose of reconciling all things to God shall have been accomplished...and God's ONENESS...shall be fully manifested."
+        ],
+        "Albert Barnes": [
+            "There is, unquestionably, no passage in the New Testament that has so much, and to so little purpose, exercised the learning and ingenuity of commentators as the present, which seems to defy all attempts to elicit any satisfactory sense, except by methods so violent as to be almost the same thing as writing the passage afresh.",
+            "The very idea of a mediator supposes that there are two parties or persons between whom the mediator comes either to reconcile them or to bear some message from the one to the other...",
+            "The giving of the Law could not annul or abrogate the promise made to Abraham... It was a part of the one great plan; appointed with reference to the work which the Mediator came to do; and in accordance with the promise made to Abraham; and therefore they could not be contradictory and inconsistent."
+        ],
+        "Marvin Vincent": [
+            "The very idea of mediation supposes two parties.",
+            "The law is of the nature of a contract between God and the Jewish people.",
+            "God does not need a mediator to make his promise valid."
+        ],
+        "John Calvin": [
+            "Christ is not the Mediator of one, because, in respect of outward character, there is a diversity of condition among those with whom, through his mediation, God enters into covenant.",
+            "God is one, because he always continues to be like himself, and, with unvarying regularity, holds fixed and unalterable the purpose which he has once made.",
+            "The interpretations would never have swelled to so large an amount."
+        ],
+        "Philip Schaff": [
+            "The promise could not be made void by the law... 'The God who gave both the promise and the law is one and the same, consistent in all his dealings, and cannot contradict himself, therefore the law cannot set aside the promise.'\" ",
+            "The law is a covenant between two parties... the promise is the free gift of God alone... the law may be broken by sinful men, the promise of God is unconditional and irrevocable.\" ",
+            "A mediator occupies a subordinate middle position... the promise which is given directly by God without a mediator, stands higher. The law was provisional, the promise is permanent."
+        ],
+        "Archibald T. Robertson": [
+            "The law is in the nature of a contract between God and the Jewish people with Moses as the mediator or middleman.",
+            "But God is one. There was no middleman between God and Abraham. He made the promise directly to Abraham.",
+            "Over 400 interpretations of this verse have been made!"
+        ],
+        "John Gill": [
+            "A mediator supposes two parties he stands between, and these at a distance from, or disagreeing with each other.",
+            "Christ is the Mediator between God and men, the daysman, Job 9:33, that lays his hands upon them both.",
+            "God is one of the two; he is a party offended, that stands off, and at a distance, which the law given by angels in the hand of a mediator shows."
+        ],
+        "John Wesley": [
+            "There must be two parties, or there can be no mediator between them.",
+            "God who made the free promise to Abraham is only one of the parties.",
+            "The law, wherein he was concerned, was a transaction of quite another nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reflects a clear distinction between the roles of a mediator and God, as they are inherently opposing terms. While the law, administered by a mediator, created a state of two opposing parties, the promises of God belong entirely to the one faithful God who desires direct communion with humanity. The law, an exceptional state limited to the Jews, was preparatory to the Gospel, which is characterized by God's normal mode of dealing directly and face to face, without the need for conditions or intermediaries. Therefore, God, who is fundamentally one, did not require a mediator to validate His promises. The law was a contract between God and the Jewish people, with Moses acting as the mediator, whereas the promise made directly to Abraham did not require such mediation. Ultimately, God's oneness will be fully revealed and mediation will no longer be necessary.",
+            "wordCount": 146,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 2.5319348515677707,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.53,
+            "commentatorTierSimilarities": [
+                34.91,
+                38.14,
+                26.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The law, administered by a mediator, created a state of two opposing parties, while the promises of God belong entirely to THE ONE, the one faithful God, who desires direct communion with humanity. The law was an exceptional state limited to the Jews, a transaction of quite another nature, preparatory to the Gospel, God's normal mode of dealing directly, face to face, by promise and grace. God, who made the free promise to Abraham, is only one of the parties, and does not need a mediator to validate His promises.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.692056061239186,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.85,
+            "commentatorTierSimilarities": [
+                32.72,
+                40.26,
+                27.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The law, administered by a mediator, belongs to a state inconsistent with oneness and is opposed to the promises. It was an exceptional state limited to the Jews, preparatory to the Gospel where God deals directly with humanity, without conditions. God desires immediate communion with humanity and does not need a mediator to validate His promises. The law was like a contract between God and the Jewish people, whereas the promise made directly to Abraham did not require mediation. Ultimately, God's oneness will be fully manifested, rendering mediation unnecessary.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.4584732280325055,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.08,
+            "commentatorTierSimilarities": [
+                36.22,
+                38.54,
+                25.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The law, administered by a mediator, belongs to a state inconsistent with oneness, whereas the promises belong entirely to the one faithful God. The law was an exceptional state limited to the Jews, but the promises of God were made directly to Abraham, face to face. The mediator serves as a middleman between two parties, but God desires immediate communion with humanity, removing the need for a mediator. Ultimately, God's oneness will be fully manifested, surpassing the need for mediation altogether.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.527990741534441,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.4,
+            "commentatorTierSimilarities": [
+                35.13,
+                37.55,
+                27.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The law, mediated by a middleman, represents a state opposed to the promises made by the faithful God. While the law served as a provisional covenant, limited to the Jewish people, the promises were given directly by God to Abraham. The law operates on a contractual basis between two parties, whereas the promises emanate solely from the gracious and unchanging nature of God. Ultimately, God's oneness will prevail, eliminating the need for a mediator and fully manifesting His faithful promises.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.603874718805316,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.92,
+            "commentatorTierSimilarities": [
+                33.84,
+                40.82,
+                25.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

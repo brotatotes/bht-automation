@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:07:28",
+    "verseRef": "Romans 9:6",
+    "bestBHT": {
+        "bht": "The promise of God has not failed, though not all physical descendants of Israel are part of the true Israel in a spiritual sense. The complexities surrounding this subject lie in the overwhelming evidence for these truths, which are beyond human comprehension. God's right to choose the nation and individuals for His kingdom is evident, and the promise made to Abraham was intended for his spiritual seed. Despite some rejecting the promise, it remains firm and valid, accepting only believers as the children of the promise.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.255171292970534,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.32,
+        "commentatorTierSimilarities": [
+            28.39,
+            36.55,
+            35.06
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the promise) of God hath fallen to the ground (or, to nothing, viz. by many, the majority of the nominal Israel, missing the salvation which seemed to be their inheritance by promise).",
+            "For not all who are sprung from Israel (Israel meaning Jacob, according to Tholuck: but this does not seem necessary: Israel here as well as below may mean the people, but here in the popular sense, there in the divine idea), (these) are Israel (veritably, and in the sense of the promise)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not all they which are of Israel are Israel.",
+            "The difficulties which encompass this subject lie not in the apostle's teaching, which is plain enough, but in the truths themselves, the evidence for which, taken by themselves, is overwhelming, but whose perfect harmony is beyond human comprehension in the present state.",
+            "In that case, the argument of Romans 9:6, with which the subject of Election opens, would be this: 'The choice of Abraham and his seed has not failed; because though Israel has been rejected, the Gentiles have taken their place; and God has a right to choose what nation He will to the privileges of His visible kingdom.'"
+        ],
+        "Albert Barnes": [
+            "Not as though the promise of God had entirely failed.",
+            "Not all the descendants of Jacob have the true spirit of Israelites, or are Jews in the scriptural sense of the term.",
+            "The promise of God will not entirely fail."
+        ],
+        "Marvin Vincent": [
+            "I am not speaking of a matter of such a nature as that the doctrine of faith involves the failure of God's promises to Israel.",
+            "The thought is abruptly introduced.",
+            "Hath taken none effect."
+        ],
+        "John Calvin": [
+            "That I deplore the destruction of my nation is not because I think the promise, given formerly by God to Abraham, is now void or abolished.\" ",
+            "The promise was so given to Abraham and to his seed, that the inheritance did not belong to every seed without distinction; it hence follows that the defection of some does not prove that the covenant does not remain firm and valid.\" ",
+            "The general election of the people of Israel is no hindrance, that God should not from them choose by his hidden counsel those whom he pleases."
+        ],
+        "Philip Schaff": [
+            "The promise of God, as given in the Old Testament, has not 'fallen to the ground,' notwithstanding the unbelief of the Jews.",
+            "For not all who are of Israel (that is Israelites by birth) are Israel, constitute the true Israel of God.",
+            "Physical relationship does not constitute membership in the true Israel."
+        ],
+        "Archibald T. Robertson": [
+            "But it is not such as that.\" ",
+            "For not all those out of Israel (the literal Jewish nation), these are Israel (the spiritual Israel).",
+            "He now shows how this was the original purpose of God to include only those who believed."
+        ],
+        "John Gill": [
+            "This was not made void, or had taken none effect: for this was made only to Abraham and his spiritual seed.",
+            "They are not all \u05d0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc, 'the Israel', by way of emphasis, as in Psalms 25:22, or the 'Israel of God', Galatians 6:16, the Israel whom Jehovah the Father has chosen for a peculiar people.",
+            "They have not all principles of grace, uprightness, and sincerity in them."
+        ],
+        "John Wesley": [
+            "Not as if \u2014 The Jews imagined that the word of God must fail if all their nation were not saved. This St. Paul now refutes, and proves that the word itself had foretold their falling away.",
+            "All are not Israel, who are of Israel \u2014 The Jews vehemently maintained the contrary; namely, that all who were born Israelites, and they only, were the people of God.",
+            "The sum is, God accepts all believers, and them only; and this is no way contrary to his word. Nay, he hath declared in his word, both by types and by express testimonies, that believers are accepted as the 'children of the promise,' while unbelievers are rejected, though they are 'children after the flesh.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The promise of God to the people of Israel has not failed or been abolished, even though not all who are physically descended from Israel are part of the true Israel in a spiritual sense. The apostle's teaching here is clear but the truths themselves are complex and beyond human comprehension. It is important to understand that God's choice of the nation and individuals for His kingdom is His right. The promise made to Abraham was for his spiritual seed, not every physical descendant. So, the fact that some have rejected the promise does not invalidate it. The promise remains firm and valid, and God continues to choose those whom He pleases. The important thing to remember is that God accepts believers, and them only, as the children of the promise.",
+            "wordCount": 133,
+            "quoteTokenProportion": 46.99,
+            "qualityScore": 2.1798982191915117,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.82,
+            "commentatorTierSimilarities": [
+                26.93,
+                37.17,
+                35.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The promise of God has not failed, though not all physical descendants of Israel are part of the true Israel in a spiritual sense. The complexities surrounding this subject lie in the overwhelming evidence for these truths, which are beyond human comprehension. God's right to choose the nation and individuals for His kingdom is evident, and the promise made to Abraham was intended for his spiritual seed. Despite some rejecting the promise, it remains firm and valid, accepting only believers as the children of the promise.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.255171292970534,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.32,
+            "commentatorTierSimilarities": [
+                28.39,
+                36.55,
+                35.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The promise of God to Israel has not failed, as not all physical descendants of Israel are part of the spiritual Israel. The apostle's teaching is clear, but the complexities of these truths go beyond human comprehension. God has the right to choose who He will for His kingdom. The promise made to Abraham was for his spiritual seed, not every physical descendant. Despite some rejecting the promise, it remains firm and valid. Only believers are accepted as the children of the promise.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.1385060381211582,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                27.09,
+                39.26,
+                33.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The promise of God to Israel has not failed, as not all who are of Israel are part of the true spiritual Israel. The truths surrounding this subject may be difficult to comprehend fully. God has the right to choose and select whom He pleases for His kingdom. The promise made to Abraham was not for every physical descendant, but for his spiritual seed. Despite some rejecting the promise, it remains firm and valid. Only believers are accepted as the children of the promise.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.0289335434200275,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.8,
+            "commentatorTierSimilarities": [
+                26.86,
+                39.43,
+                33.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The promise of God to Israel has not failed, as not all who are physically descended from Israel are part of the true spiritual Israel. The complexities of these truths surpass human understanding. God has the right to choose and select individuals for His kingdom. The promise made to Abraham was for his spiritual seed, not every physical descendant. Despite some rejecting the promise, it remains firm and valid. Only believers are accepted as the children of the promise.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.0297016174996014,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.83,
+            "commentatorTierSimilarities": [
+                26.68,
+                39.91,
+                33.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

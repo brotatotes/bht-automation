@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:12:50",
+    "verseRef": "Philemon 5",
+    "bestBHT": {
+        "bht": "The intertwining of faith and love is evident in this short text, as faith precedes love. Philemon's love and faith are not limited to a particular group, but encompass all people. The mention of hearing suggests that news of Philemon's love and faith spread through Onesimus or others. This message emphasizes the completeness of a Christian, where faith in Christ serves as the foundation, and love towards others is the visible expression of that faith. Philemon's love towards the Christian community reflects his faith in Christ.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 1.7690004846511154,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+        "commentatorTierSimilarities": [
+            20.83,
+            48.47,
+            30.7
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Hearing - the ground of his thanksgiving.",
+            "The theological order is first faith, then love, the fruit of faith.",
+            "Towards implies simply direction; unto, to the advantage of."
+        ],
+        "Albert Barnes": [
+            "Hearing of thy love and faith - Either by Onesimus, who, after his conversion, would be disposed to state all that he knew that was favorable of Philemon, or hearing it by some other persons who had come from Colosse to Rome.",
+            "The faith which is mentioned here refers to the Lord Jesus; the love, to the saints.",
+            "The meaning is, that he had strong faith in the Lord Jesus, and ardent love toward all who were Christians."
+        ],
+        "John Calvin": [
+            "This praise, which he bestows on Philemon, includes briefly the whole perfection of a Christian man. It consists of two parts, faith in Christ, and love towards our neighbors...for to these all the actions and all the duties of our life relate.",
+            "He does not thus limit this love to the saints, as if there ought to be none towards others...undoubtedly it includes all mankind. But since they that are of the household of faith are united with us by a closer bond of relationship, and since God peculiarly recommends them to us, for this reason they justly hold the highest rank.",
+            "Let my readers be at full liberty to judge for themselves; but, for my own part, I think that the former meaning is more appropriate."
+        ],
+        "Philip Schaff": [
+            "The love was the outward manifest token of the faith within the heart. But neither is complete without the other, as the apostle testifies in many a place.",
+            "The love was displayed towards the Christian congregation, the faith toward the Lord Jesus Christ, But they are so knit together where they truly exist, that St. Paul speaks of them as both exhibited alike toward Christ and toward His people.",
+            "And so he feels that the son whom St. Paul has begotten in his bonds, and who now has a right to the Christian title, \u2018a brother beloved,\u2019 will be made a partaker of this love, and be forgiven what he has offended."
+        ],
+        "Archibald T. Robertson": [
+            "Through Epaphras, possibly from Onesimus also.",
+            "He spoke of 'thy love and faith towards the Lord Jesus' and by a sort of momentum he carries both words over to the saints.",
+            "It can be explained as chiasm also."
+        ],
+        "John Gill": [
+            "Faith in the heart is confessed by the mouth; and love, both to Christ and to his people, shows itself, as well as faith, in works of righteousness.",
+            "That Christ is both the object of faith and love is certain; nor is there any difficulty to consider him as such.",
+            "True love believes all things, and hopes all things."
+        ],
+        "John Wesley": [
+            "Hearing \u2014 Probably from Onesimus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the commentator emphasizes the significance of Philemon's faith and love. The commentator describes faith as the theological basis for thanksgiving, emphasizing the order of faith preceding love. The love mentioned includes both love towards the Lord Jesus and towards the saints, with Philemon's love towards the Christian congregation being a manifestation of his faith in Christ. The commentator also suggests that Philemon's faith and love might have been heard of through Onesimus or other individuals from Colosse. Ultimately, this verse portrays the completeness of a Christian, with faith in Christ and love towards others being essential components.",
+            "wordCount": 103,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8363152000755307,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                24.81,
+                48.51,
+                26.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Philemon's faith and love are so closely intertwined that they can be seen as directed towards both the Lord Jesus and the saints. The mention of hearing suggests that news of Philemon's love and faith reached others, possibly through Onesimus. This verse highlights the completeness of a Christian, where faith is the foundation for thanksgiving, and love towards others is the outward expression of that faith. Philemon's love towards the Christian congregation is a testament to his faith in Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.884611911584662,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                22.44,
+                49.05,
+                28.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The intertwining of faith and love is evident in this passage, where faith is the basis for thanksgiving and love is displayed towards both the Lord Jesus and the saints. It is possible that news of Philemon's love and faith was heard through Onesimus or others. This verse emphasizes the completeness of a Christian, where faith in Christ serves as the foundation, and love towards others is the visible expression of that faith. Philemon's love towards the Christian community reflects his faith in Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.94919411876969,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.15,
+            "commentatorTierSimilarities": [
+                23.56,
+                48.73,
+                27.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The intertwining of faith and love is evident in this short text, as faith precedes love. Philemon's love and faith are not limited to a particular group, but encompass all people. The mention of hearing suggests that news of Philemon's love and faith spread through Onesimus or others. This message emphasizes the completeness of a Christian, where faith in Christ serves as the foundation, and love towards others is the visible expression of that faith. Philemon's love towards the Christian community reflects his faith in Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.7690004846511154,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                20.83,
+                48.47,
+                30.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Philemon's love and faith go hand in hand in this verse. The commentator highlights that faith is the starting point, which then bears the fruit of love. Philemon's love and faith are not limited in scope, but extend towards both the Lord Jesus and the saints. The mention of hearing implies that others were aware of Philemon's love and faith, possibly through Onesimus or other messengers. This verse underscores the importance of both faith in Christ and love towards others as essential components of a Christian's life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.7287460051108612,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                23.02,
+                49.43,
+                27.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:11:46",
+    "verseRef": "1 Corinthians 10:24",
+    "bestBHT": {
+        "bht": "Our object should be to bring one another to perfection, not simply to please ourselves. This means seeking our neighbor's good and preferring their welfare over our own. We must not only consult our own interests, but be willing to forego part of our rights if it benefits our brethren. The grand law of the Christian life is to seek our neighbor's good, for indulging in things without regard for others can endanger their happiness and purity. This is how we do what is expedient and builds up.",
+        "wordCount": 90,
+        "quoteTokenProportion": 51.56,
+        "qualityScore": 1.7120861286388234,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+        "commentatorTierSimilarities": [
+            24.13,
+            33.44,
+            42.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This ought to be our object: the bringing on one another to perfection, not the pleasing ourselves...\" (Commentary)",
+            "But his neighbour's good...\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. (1 Corinthians 10:33;",
+            "\t1 Corinthians 13:5; Romans 15:1;",
+            "\tRomans 15:2)."
+        ],
+        "Albert Barnes": [
+            "Let him, as the leading rule on the subject, ask what will be for the welfare of others.",
+            "He may dispense with these things without danger or injury; He cannot indulge in them without endangering the happiness or purity of others.",
+            "When a man is bound and directed by no positive law, his grand rule should be the comfort and salvation of others."
+        ],
+        "Marvin Vincent": [
+            "Wealth, inserted by A. V. is used in the older English sense of well-being.\" ",
+            "The A. V. also ignores the force of the article, the other.",
+            "Rev., much better, his neighbor's good."
+        ],
+        "John Calvin": [
+            "Let no one seek his own. [...] This is a precept that is very necessary, for we are so corrupted by nature, that every one consults his own interests, regardless of those of his brethren.",
+            "Now, as the law of love calls upon us to love our neighbors as ourselves, (Matthew 22:39,) so it requires us to consult their welfare.",
+            "The Apostle, however, does not expressly forbid individuals to consult their own advantage, but he requires that they should not be so devoted to their own interests, as not to be prepared to forego part of their right, as often as the welfare of their brethren requires this."
+        ],
+        "Philip Schaff": [
+            "Let no man seek his own, but each his neighbour\u2019s good\" is \"the grand law of the Christian life.",
+            "This is \"the chiefest ornament of the Christian character.",
+            "The Christian should seek \"his neighbour\u2019s things,\" meaning their benefit in the widest sense."
+        ],
+        "Archibald T. Robertson": [
+            "Let no man seek his own. This is Paul's rule for social relations and is the way to do what is expedient and what builds up.",
+            "His neighbour's good. Literally, 'the affair of the other man.' This is loving your neighbour as yourself by preferring your neighbour's welfare to your own.",
+            "This is the way to do what is expedient and what builds up."
+        ],
+        "John Gill": [
+            "Let no man seek his own... in eating things sacrificed to 'idols', to the hurt and disadvantage of his brethren.",
+            "Otherwise it is lawful for a man to seek his own good, temporal, spiritual, and eternal...",
+            "...he should not only seek his own, but every man another's wealth, or 'that which is another's'."
+        ],
+        "John Wesley": [
+            "His own only, but another's welfare also."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our object should be to bring one another to perfection, not simply to please ourselves. This means seeking our neighbor's good and preferring their welfare over our own. We must not only consult our own interests, but be willing to forego part of our rights if it benefits our brethren. The grand law of the Christian life is to seek our neighbor's good in the broadest sense, as it is an essential aspect of the Christian character. We should ask ourselves what will contribute to the well-being of others, for indulging in things without regard for others can endanger their happiness and purity. Ultimately, this is how we do what is expedient and builds up.",
+            "wordCount": 118,
+            "quoteTokenProportion": 49.35,
+            "qualityScore": 1.7288475447033322,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                22.66,
+                37.2,
+                40.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our object should be to bring one another to perfection, not simply to please ourselves. This means seeking our neighbor's good and preferring their welfare over our own. We must not only consult our own interests, but be willing to forego part of our rights if it benefits our brethren. The grand law of the Christian life is to seek our neighbor's good, for indulging in things without regard for others can endanger their happiness and purity. This is how we do what is expedient and builds up.",
+            "wordCount": 90,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.7120861286388234,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                24.13,
+                33.44,
+                42.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our goal should be to bring one another to perfection, rather than solely seeking to please ourselves. This involves prioritizing our neighbor's well-being and considering their welfare above our own. It is important not to be so self-interested that we neglect the needs of others. By loving our neighbor as ourselves and placing their welfare before our own, we can engage in actions that are both beneficial and constructive.",
+            "wordCount": 72,
+            "quoteTokenProportion": 60.0,
+            "qualityScore": 1.6712179987725442,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "commentatorTierSimilarities": [
+                22.28,
+                29.03,
+                48.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our main objective should be to strive for the perfection and well-being of others rather than seeking to please ourselves. We should always consider our neighbor's welfare and prioritize it over our own interests. This is not only the way to do what is right and beneficial, but also a demonstration of love for our neighbor and our commitment to their welfare. We are called to consult the welfare of others and be willing to sacrifice our own rights and desires for the sake of their happiness and purity. Ultimately, this is the chief law that governs the Christian life and the true ornament of our Christian character. By seeking our neighbor's benefit in every aspect, we fulfill the law of love and live out the teachings of Christ.",
+            "wordCount": 132,
+            "quoteTokenProportion": 46.75,
+            "qualityScore": 1.7313047805564046,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.91,
+            "commentatorTierSimilarities": [
+                18.26,
+                37.86,
+                43.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our main aim should be to bring one another to perfection and prioritize our neighbor's well-being over our own satisfaction. This requires us to consult the welfare of others and be prepared to forego our own interests when necessary. By seeking our neighbor's good and putting their welfare before ours, we demonstrate love and fulfill the law of love. This is the grand law of the Christian life and the true ornament of our Christian character, highlighting the importance of considering others before ourselves in all situations.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.696766057318289,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+            "commentatorTierSimilarities": [
+                16.75,
+                41.33,
+                41.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

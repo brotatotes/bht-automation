@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:30:23",
+    "verseRef": "2 Timothy 2:2",
+    "bestBHT": {
+        "bht": "In passing on the teachings of the faith, Paul advises that Timothy entrust them as a deposit, supported by the testimony of many witnesses. This emphasizes the significant role of faithful individuals in preserving and propagating the knowledge of God in Christ. By choosing trustworthy men as testifiers, Timothy ensures a reliable attestation of Paul's doctrine. These stewards, sufficed by God, are entrusted with unfolding and explaining the mysteries of God's grace to a wider audience.",
+        "wordCount": 78,
+        "quoteTokenProportion": 29.09,
+        "qualityScore": 1.6536366688616564,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+        "commentatorTierSimilarities": [
+            26.85,
+            34.9,
+            38.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Among...with the attestation of many witnesses.\" ",
+            "Commit...as a deposit.\" ",
+            "This is so far from supporting oral tradition now that it rather teaches how precarious a mode of preserving revealed truth it was."
+        ],
+        "Albert Barnes": [
+            "The same commit thou to faithful men - In the same way as those things have been committed to you.",
+            "This is a clear warrant for ministers to set apart others to the same sacred office.",
+            "There is, doubtless, to be a 'succession' of ministers in the church; but the true line of the 'succession' is to be found in good men who are qualified to teach, and who have the spirit of Christ, and not merely in those who have been ordained."
+        ],
+        "Marvin Vincent": [
+            "Among many witnesses [\u03b4\u03b9\u03b1 \u03c0\u03bf\u03bb\u03bb\u03c9\u03bd \u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03c9\u03bd]. Dia through the medium of, and therefore in the presence of.",
+            "Commit [\u03c0\u03b1\u03c1\u03b1\u03b8\u03bf\u03c5] . As a trust or deposit [\u03c0\u03b1\u03c1\u03b1\u03b8\u03b7\u03ba\u03b7].",
+            "Faithful [\u03c0\u03b9\u03c3\u03c4\u03bf\u03b9\u03c2]. Not believing, but trusty, as appears from the context."
+        ],
+        "John Calvin": [
+            "See that after my death there may remain a sure attestation of my doctrine; and this will be, if thou not only teach faithfully what thou hast learned from me, but take care that it be more widely published by others.\" ",
+            "He calls them believing men, not on account of their faith, which is common to all Christians, but on account of their pre-eminence, as possessing a large measure of faith.",
+            "He removes all doubt by this argument, that he did not speak secretly in a corner, but that there were many alive who could testify that Timothy spoke nothing which they had not formerly heard from the mouth of Paul."
+        ],
+        "Philip Schaff": [
+            "The things that thou hast heard. Probably the same as the \u2018sound words\u2019 of 2 Timothy 1:18.",
+            "Among many witnesses. Better \u2018with\u2019 or \u2018through,\u2019 the presence of the witnesses, presbyters and others, being thought of as a condition of the act referred to. This...implies, was a charge as to the substance of the Christian faith delivered when Timothy was appointed by the laying on of hands to his special work.",
+            "Commit thou. The idea of the trust or deposit is continued. There is to be a perpetuation of the trust, and each man\u2019s work for the time being is to choose faithful successors, who in their turn shall teach what they have learnt to others."
+        ],
+        "Archibald T. Robertson": [
+            "Not mere spectators, but testifiers.",
+            "Paul in 1 Corinthians 15:1-8 gives many witnesses of the resurrection of Christ.",
+            "This is the way to pass on the torch of the light of the knowledge of God in Christ."
+        ],
+        "John Gill": [
+            "The mysteries of the grace of God, which he had often heard him discourse of, unfold and explain.",
+            "They would become stewards, and of such it is required that they be faithful.",
+            "No man is sufficient for these things, of himself, but his sufficiency is of God."
+        ],
+        "John Wesley": [
+            "The things \u2014 The wholesome doctrine, 2 Timothy 1:13.",
+            "Commit \u2014 Before thou leavest Ephesus. To faithful men, who will be able, after thou art gone, to teach others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Timothy 2:2, Paul emphasizes the importance of passing on the teachings of the faith to future generations. He urges Timothy to entrust these teachings as a deposit, with the attestation of many witnesses. This highlights the need for faithful men, not only as spectators, but as testifiers, to continue the work of spreading the knowledge of God in Christ. This passing of the torch is essential for the preservation and propagation of the faith. By committing the truths of the gospel to trustworthy individuals, Timothy ensures that there will be a sure attestation of Paul's doctrine, preventing any distortion or corruption. Ultimately, it is through faithful stewards and the sufficiency of God that the mysteries of God's grace are unfolded and explained to a wider audience.",
+            "wordCount": 128,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 1.570475431970082,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.56,
+            "commentatorTierSimilarities": [
+                28.02,
+                33.22,
+                38.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In passing on the teachings of the faith, Paul advises that Timothy entrust them as a deposit, supported by the testimony of many witnesses. This emphasizes the significant role of faithful individuals in preserving and propagating the knowledge of God in Christ. By choosing trustworthy men as testifiers, Timothy ensures a reliable attestation of Paul's doctrine. These stewards, sufficed by God, are entrusted with unfolding and explaining the mysteries of God's grace to a wider audience.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.6536366688616564,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "commentatorTierSimilarities": [
+                26.85,
+                34.9,
+                38.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's exhortation to Timothy in 2 Timothy 2:2 underlines the importance of passing on the teachings of the faith as a trust, supported by the testimony of many witnesses. By committing the truths of the gospel to faithful men, Timothy ensures the preservation and propagation of Paul's doctrine. This faithful transmission of the torch of knowledge is crucial in preventing any distortion or corruption. Ultimately, it is through these trustworthy individuals, sufficed by God, that the mysteries of God's grace are unfolded and explained to a wider audience.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.5736512366691127,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                26.37,
+                34.48,
+                39.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul urges Timothy to pass on the teachings of the faith as a trust, supported by the testimony of many witnesses. By entrusting these truths to faithful men, Timothy ensures the preservation and propagation of Paul's doctrine. This faithful transmission prevents distortion and corruption. Ultimately, it is through these trustworthy individuals, sufficed by God, that the mysteries of God's grace are unfolded and explained to a wider audience.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.5710875199068113,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.58,
+            "commentatorTierSimilarities": [
+                27.24,
+                33.9,
+                38.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In urging Timothy to commit the teachings of the faith to faithful men, Paul emphasizes the importance of the attestation of many witnesses. This act of entrusting the deposit of truth ensures the preservation and propagation of Paul's doctrine. By choosing trustworthy individuals as testifiers, Timothy not only prevents distortion and corruption but also passes on the torch of knowledge to a wider audience. Ultimately, it is through these faithful stewards, sufficed by God, that the mysteries of God's grace are unfolded and explained.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5856879585217447,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+            "commentatorTierSimilarities": [
+                27.81,
+                34.73,
+                37.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:07:07",
+    "verseRef": "1 Corinthians 6:18",
+    "bestBHT": {
+        "bht": "Fornication is a sin against the body, alienating it from the Lord, and making it a harlot's body, violating Christ's rights in our bodies and ruining it permanently. The only safety in temptation is flight, to flee with abhorrence and all your might. Fornication leaves a stain on the body that is not found in other sins, defiling and dishonoring it, impairing its strength, health, and filling it with diseases. Therefore, we are commanded to flee from fornication and all its occasions.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.4258353299502255,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.0,
+        "commentatorTierSimilarities": [
+            33.46,
+            30.15,
+            36.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Flee might be followed by therefore, but is more forcible in this disconnected form.",
+            "But fornication is the alienating that body which is the Lord\u2019s, and making it a harlot\u2019s body\u2014it is sin against a man\u2019s own body, in its very nature,\u2014against the verity and nature of his body.",
+            "When man and wife are one in the Lord,\u2014united by His ordinance,\u2014no such alienation of the body takes place, and consequently no sin."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The only safety in such temptations is flight.",
+            "Every sin whatsoever that a man doeth.",
+            "He rather sins against the perishing accidents of the body and against the soul than against the body in its permanent essence, designed for the Lord."
+        ],
+        "Albert Barnes": [
+            "Flee fornication - A solemn command of God - as explicit as any that thundered from Mount Sinai.",
+            "There is force and emphasis in the word 'flee.' Man should escape from it; he should not stay to reason about it; to debate the matter; or even to contend with his propensities, and to try the strength of his virtue.",
+            "How many a young man would be saved from poverty, want, disease, curses, tears, and hell, could these two words be made to blaze before him like the writing before the astonished eyes of Belshazzar, and could they terrify him from even the momentary contemplation of the crime."
+        ],
+        "Marvin Vincent": [
+            "Flee.",
+            "Sin.",
+            "In fornication the body is the instrument of the sin."
+        ],
+        "John Calvin": [
+            "This sin alone, of all sins, puts a brand of disgrace upon the body.",
+            "Fornication leaves a stain impressed upon the body, such as is not impressed upon it from other sins.",
+            "Other sins are said to be without the body \u2014 not, however, as though they do not at all affect the body, viewing each one by itself."
+        ],
+        "Philip Schaff": [
+            "Flee fornication. Note the studiously curt and stringent language...and not for nothing is 'flight' here urged.\" ",
+            "Every sin that a man doeth is without the body...but he that committeth fornication sinneth against his own body, against its proper nature and use, prostituting it to base and blasting uses.",
+            "Viewed in this light, that sin is like nothing else...stupefies all the intellectual and moral powers."
+        ],
+        "Archibald T. Robertson": [
+            "Fornication violates Christ's rights in our bodies and also ruins the body itself.",
+            "The fornicator sins against his own body in a sense not true of other dreadful sins.",
+            "Apart from the high view given here by Paul of the relation of the body to the Lord, no possible father or mother has the right to lay the hand of such terrible diseases and disaster on their children and children's children."
+        ],
+        "John Gill": [
+            "Flee fornication...avoid it, and all the occasions of it, that may lead unto it, and be incentives of it.",
+            "Every sin that a man doth is without the body...they do not bring that hurt unto and reproach upon the body, as fornication does.",
+            "He that committeth fornication, sinneth against his own body...which is defiled and dishonoured by it; and sometimes its strength and health are impaired, and it is filled with nauseous diseases hereby."
+        ],
+        "John Wesley": [
+            "Flee fornication \u2014 All unlawful commerce with women, with speed, with abhorrence, with all your might.\" ",
+            "Every sin that a man commits against his neighbour terminates upon an object out of himself, and does not so immediately pollute his body, though it does his soul.\" ",
+            "But he that committeth fornication, sinneth against his own body \u2014 Pollutes, dishonours, and degrades it to a level with brute beasts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Fornication is a sin against the body, alienating it from the Lord and making it a harlot's body. When man and wife are united in the Lord, no such alienation takes place. The only safety in temptation is to flee. Fornication violates Christ's rights in our bodies and ruins the body itself. It is a sin that goes against the body's permanent essence, designed for the Lord. Apart from the high view given here by Paul of the relation of the body to the Lord, no parent has the right to bring such terrible diseases and disaster upon their children. Fornication leaves a stain on the body like no other sin, and it defiles and dishonors the body, impairing its strength and health and filling it with diseases. We are commanded to flee from fornication, to avoid it and all its occasions that may lead to it, with speed and abhorrence.",
+            "wordCount": 154,
+            "quoteTokenProportion": 36.47,
+            "qualityScore": 2.307832880375024,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.08,
+            "commentatorTierSimilarities": [
+                36.64,
+                27.37,
+                35.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Fornication is a sin against the body, alienating it from the Lord and making it a harlot's body. When man and wife are united in the Lord, no such alienation takes place. The only safety in temptation is to flee. Fornication violates Christ's rights in our bodies and ruins the body itself. It is a sin that goes against the body's permanent essence, designed for the Lord. Fornication leaves a stain on the body, defiling and dishonoring it, impairing its strength and health. We are commanded to flee from fornication, to avoid it and all its occasions that may lead to it.",
+            "wordCount": 105,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.3346111223906005,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.97,
+            "commentatorTierSimilarities": [
+                36.14,
+                27.59,
+                36.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fornication is a sin against the body, alienating it from the Lord, and making it a harlot's body, violating Christ's rights in our bodies and ruining it permanently. The only safety in temptation is flight, to flee with abhorrence and all your might. Fornication leaves a stain on the body that is not found in other sins, defiling and dishonoring it, impairing its strength, health, and filling it with diseases. Therefore, we are commanded to flee from fornication and all its occasions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.4258353299502255,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.0,
+            "commentatorTierSimilarities": [
+                33.46,
+                30.15,
+                36.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Fornication is a sin against the body, alienating it from the Lord, and making it a harlot's body. The only safety in temptation is to flee, avoiding all occasions that may lead to it. Fornication violates Christ's rights in our bodies, ruining it and impairing its strength and health. It leaves a stain on the body that is not found in other sins. Therefore, we are commanded to flee from fornication, avoiding it with speed and abhorrence.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.3905430797025735,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.83,
+            "commentatorTierSimilarities": [
+                34.65,
+                27.54,
+                37.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Fornication, the act of alienating the body from the Lord and turning it into a vessel of sin, is a serious offense. Unlike other sins, it defiles and dishonors our bodies, leaving a lasting stain. Fleeing from the temptation of fornication is the only safe course of action. This command to flee is explicit, urging us to escape without hesitation or debate. By avoiding all circumstances that may lead to sin, we protect our bodies from the destructive consequences of fornication.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.3200463251809795,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.48,
+            "commentatorTierSimilarities": [
+                32.75,
+                30.98,
+                36.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

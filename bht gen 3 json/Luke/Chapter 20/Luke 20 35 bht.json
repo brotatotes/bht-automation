@@ -1,0 +1,62 @@
+{
+    "timestamp": "12-19-2023 16:22:07",
+    "verseRef": "Luke 20:35",
+    "bestBHT": {
+        "bht": "In that future state, those who are deemed worthy to attain the resurrection from the dead will no longer be subject to the institution of marriage, as they will no longer experience death. The purpose of marriage, which is to perpetuate life through succession and renewal, will no longer be necessary for them. Instead, they will enter into a new state of life and resurrection, where marriage holds no significance. This state refers to the first resurrection, which only the dead in Christ will have access to.",
+        "wordCount": 87,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.632987281399385,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.89,
+        "commentatorTierSimilarities": [
+            56.08,
+            0.0,
+            43.92
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In 'that world,' which is by the context the state of the first resurrection... they who are found worthy to obtain that state of life and the resurrection from the dead, are no longer under the ordinance of marriage.",
+            "For neither can they any more die; i.e. they will have no need of a succession and renewal, which is the main purpose of marriage.",
+            "They who are found worthy to obtain that state of life and the resurrection from the dead."
+        ],
+        "John Gill": [
+            "But they which shall be accounted worthy to obtain that world... and the resurrection from the dead...\" ",
+            "that is, the first resurrection, the resurrection unto life, which only the dead in Christ will enjoy...",
+            "these neither marry, nor are given in marriage; there will be no need of any such practice, for the reasons that follow."
+        ],
+        "John Wesley": [
+            "But they who obtain that world \u2014 Which they enter into, before the resurrection of the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "In that future state, those who are deemed worthy to attain the resurrection from the dead will no longer be subject to the institution of marriage, as they will no longer experience death. The purpose of marriage, which is to perpetuate life through succession and renewal, will no longer be necessary for them. Instead, they will enter into a new state of life and resurrection, where marriage holds no significance. This state refers to the first resurrection, which only the dead in Christ will have access to.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.632987281399385,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.89,
+            "commentatorTierSimilarities": [
+                56.08,
+                0.0,
+                43.92
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

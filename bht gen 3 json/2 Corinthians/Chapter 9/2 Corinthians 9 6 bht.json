@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:17:22",
+    "verseRef": "2 Corinthians 9:6",
+    "bestBHT": {
+        "bht": "When we give generously, we sow seeds that will yield a bountiful harvest of blessings and showers of God's favor. Just as a farmer who sows sparingly reaps sparingly, our level of generosity determines the abundance we receive. Giving liberally to those in need or to promote virtue and religion leads to a multiplied return on our investment. This principle applies not only to earthly blessings but also to the spiritual reward of eternal life. Remember, when calculating the cost of giving, that God is faithful to reward according to our generosity.",
+        "wordCount": 93,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.7316295680078495,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.92,
+        "commentatorTierSimilarities": [
+            20.24,
+            36.73,
+            43.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But remember this.",
+            "The reaping shall correspond to the proportions and spirit of the sowing.",
+            "Showers of blessing."
+        ],
+        "Albert Barnes": [
+            "Money given in alms, money bestowed to aid the poor and needy, or to extend the influence of virtue and pure religion, is money bestowed in a way similar to the act of committing seed to the earth. It will be returned again in some way with an abundant increase.",
+            "And the man who wishes to make the most out of his money for future use and personal comfort will give liberally to deserving objects of charity - just as the man who wishes to make the most out of his grain will not suffer it to lie in his granary, but will commit the seed to the fertile earth.",
+            "All who have ever been in the habit of giving liberally to the objects of benevolence can testify that they have lost nothing, but have reaped in proportion to their liberality."
+        ],
+        "Marvin Vincent": [
+            "Bountifully [\u03b5\u03c0 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03b1\u03b9\u03c2] . Lit., with blessings. Compare 1 Corinthians 9:10, \"plow in hope [\u03b5\u03c0 \u03b5\u03bb\u03c0\u03b9\u03b4\u03b9] ."
+        ],
+        "John Calvin": [
+            "Let this doctrine be deeply rooted in our minds, that, whenever carnal reason keeps us back from doing good through fear of loss, we may immediately defend ourselves with this shield \u2014 'But the Lord declares that we are sowing.'\" ",
+            "The harvest, however, should be explained as referring to the spiritual recompense of eternal life, as well as to earthly blessings, which God confers upon the beneficent.",
+            "The more beneficent you are to your neighbors, you will find the blessing of God so much the more abundantly poured out upon you."
+        ],
+        "Philip Schaff": [
+            "He that soweth sparingly parsimoniously, grudgingly, shall reap also sparingly.",
+            "He that soweth bountifully shall also reap bountifully.",
+            "The figure of sowing and reaping...is a favorite one with our apostle."
+        ],
+        "Archibald T. Robertson": [
+            "Sparingly (\u03c6\u03b5\u03b9\u03b4\u03bf\u03bc\u03b5\u03bd\u03c9\u03c2). Late and rare adverb made from the present middle participle \u03c6\u03b5\u03b9\u03b4\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2 from \u03c6\u03b5\u03b9\u03b4\u03bf\u03bc\u03b1, to spare. It occurs in Plutarch (Alex. 25). "
+        ],
+        "John Gill": [
+            "as a man sows, so shall he reap; the one is in proportion to the other.",
+            "The sower casts and scatters his seed with an open hand; so the cheerful giver opens his hand wide.",
+            "if he sows, that is, gives nothing, he shall reap nothing; if he sows but little, he shall reap little; and if he sows much, he shall reap much; and that of the selfsame kind which he sows."
+        ],
+        "John Wesley": [
+            "He that soweth sparingly shall reap sparingly; he that soweth bountifully shall reap bountifully \u2014 A general rule. God will proportion the reward to the work, and the temper whence it proceeds."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When we give generously, it is like sowing seeds in a field. Our generosity will yield a bountiful harvest of blessings and showers of God's favor. Just as a farmer who sows sparingly reaps sparingly, our level of generosity determines the abundance we receive. The act of giving liberally to those in need or to promote virtue and religion results in a multiplied return on our investment. The principle of sowing and reaping applies not only to earthly blessings but also to the spiritual reward of eternal life. Remember, when calculating the cost of giving, that God is faithful to reward according to our generosity.",
+            "wordCount": 106,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.6999948702173389,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+            "commentatorTierSimilarities": [
+                20.66,
+                36.62,
+                42.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When we give generously, we sow seeds that will produce a bountiful harvest of blessings and showers of God's favor. The amount of generosity we display determines the abundance we receive. Just as a farmer who sows sparingly reaps sparingly, those who give sparingly will likewise receive sparingly. The act of giving liberally to those in need or to promote virtue and religion results in a multiplied return on our investment. This principle applies not only to earthly blessings but also to the spiritual reward of eternal life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6815885806910864,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.25,
+            "commentatorTierSimilarities": [
+                20.23,
+                37.15,
+                42.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When we give generously, we sow seeds that will yield blessings and showers of God's favor. Like a farmer who sows sparingly and reaps sparingly, our level of generosity determines the abundance we receive. Giving liberally to those in need or to promote virtue and religion leads to a multiplied return on our investment. This principle applies not only to earthly blessings but also to the spiritual reward of eternal life. Remember, when considering the cost of giving, that God rewards according to our generosity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7134611299130764,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.31,
+            "commentatorTierSimilarities": [
+                20.33,
+                36.96,
+                42.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When we give generously, we sow seeds that will yield a bountiful harvest of blessings and showers of God's favor. Just as a farmer who sows sparingly reaps sparingly, our level of generosity determines the abundance we receive. Giving liberally to those in need or to promote virtue and religion leads to a multiplied return on our investment. This principle applies not only to earthly blessings but also to the spiritual reward of eternal life. Remember, when calculating the cost of giving, that God is faithful to reward according to our generosity.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7316295680078495,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.92,
+            "commentatorTierSimilarities": [
+                20.24,
+                36.73,
+                43.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we generously sow seeds of giving, we can expect a corresponding harvest of blessings and showers of God's favor. Just as a farmer who sows sparingly will also reap sparingly, our level of generosity determines the abundance we receive. Giving liberally to those in need or to promote goodness and religion results in a multiplied return on our investment. This principle goes beyond material blessings, extending to the spiritual recompense of eternal life. We should always remember that God rewards according to our level of generosity.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.7124675476222664,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.28,
+            "commentatorTierSimilarities": [
+                19.84,
+                34.71,
+                45.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

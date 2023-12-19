@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:34:36",
+    "verseRef": "Ephesians 5:25",
+    "bestBHT": {
+        "bht": "To love your wife as Christ loved the Church means to care for her, even at the cost of your own life. This kind of love can win her over and bring her to your feet. The bond between husband and wife should not be built on fear and threats, but on love and gentle consideration. Husbands must create an environment that promotes obedience, without abusing their authority. Emulating Christ's sacrificial love is the key to nurturing a relationship grounded in mutual love and respect.",
+        "wordCount": 86,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.103352128083542,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.28,
+        "commentatorTierSimilarities": [
+            30.31,
+            36.77,
+            32.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Do you wish your wife to obey you, as the Church obeys Christ? Then take care for her, as Christ did for the Church: and even if you must give your life for her, or be cut in a thousand pieces, or whatever you must undergo and suffer, shrink not from it.\" ",
+            "If you see her despising you, scorning you, treating you with contempt, you can bring her to your feet by spending care on her, love, and kindness.\" ",
+            "No bonds are more despotic than these, and especially between man and wife. A slave a man may perhaps bind by terror; but nay, not even him, for he soon will escape and be free: but the partner of your life, the mother of your children, the subject of all your joy, you ought to bind not by terror and threats, but by love and gentle consideration."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Do you wish your wife to obey you, as the Church is to obey Christ? Then have a solicitude for her as Christ had for the Church.\" ",
+            "If it be necessary to give thy life for her, or to be cut in ten thousand pieces, or to endure any other suffering whatever, do not refuse it.",
+            "For no bond is more sovereign in binding than such bonds, especially in the case of husband and wife. You ought to bind her to you, not by fear and threats, but by love and attachment."
+        ],
+        "Albert Barnes": [
+            "The duty of the wife is to obey; the right of the husband is to command. But the apostle would guard against the abuse of that right by enjoining the manifestation of such a spirit on the husband as would secure obedience on the part of the wife.",
+            "This was the strongest love that has ever been evinced in this world. It follows, that a husband is in no danger of loving his wife too much, provided she be not loved more than God.",
+            "He is bound so to live as not to interfere with her salvation, but so as to promote it in every way possible. He is to furnish her all the 'facilities' that she may need, to enable her to attend on the worship of God; and to throw no obstacles in her way."
+        ],
+        "John Calvin": [
+            "From husbands, on the other hand, the apostle requires that they cherish toward their wives no ordinary love; for to them, also, he holds out the example of Christ.",
+            "If they are honored to bear his image, and to be, in some measure, his representatives, they ought to resemble him also in the discharge of duty.",
+            "Let husbands imitate Christ in this respect, that he scrupled not to die for his church."
+        ],
+        "Philip Schaff": [
+            "Husbands, love your wives. This is the husband\u2019s duty, corresponding to the relative position.",
+            "The husband\u2019s love for his wife is to be of such a kind as leads to self-sacrifice, thus, especially by His death, proving the character of His love.",
+            "The fulfilment of one\u2019s own duty is, however, the surest way to secure the fulfilment of the reciprocal duty."
+        ],
+        "Archibald T. Robertson": [
+            "This is the wonderful new point not in Colossians 3:19 that lifts this discussion of the husband's love for his wife to the highest plane.",
+            "the highest plane.",
+            "The wonderful new point."
+        ],
+        "John Gill": [
+            "Which consists in a strong and cordial affection for them; in a real delight and pleasure in them; in showing respect, and doing honour to them; in seeking their contentment, satisfaction, and pleasure...",
+            "This love ought to be hearty and sincere, and not feigned and selfish; it should be shown in private, as well as in public...",
+            "Many are the reasons why husbands should love their wives; they are given to be helps unto them; they are companions of them; they are wives of covenant; they are their own wives, yea, their own bodies, their own flesh..."
+        ],
+        "John Wesley": [
+            "Even as Christ loved the church \u2014 Here is the true model of conjugal affection.",
+            "With this kind of affection, with this degree of it, and to this end, should husbands love their wives."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To cultivate a relationship in which your wife willingly obeys you, you must emulate Christ's love for the Church by caring for her, even to the point of self-sacrifice. Shower her with kindness and love, and she will respond in kind. A husband's duty is not to abuse his authority, but rather to create an atmosphere that fosters obedience. This love should be genuine, heartfelt, and displayed both privately and publicly. Husbands should follow Christ's example of unconditional love, which culminated in His sacrificial death for the Church. By fulfilling their own duty to love, husbands can secure the reciprocal duty of their wives.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 2.055679146466887,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                26.6,
+                38.14,
+                35.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To love your wife as Christ loved the Church means to care for her, even at the cost of your own life. This kind of love can win her over and bring her to your feet. The bond between husband and wife should not be built on fear and threats, but on love and gentle consideration. Husbands must create an environment that promotes obedience, without abusing their authority. Emulating Christ's sacrificial love is the key to nurturing a relationship grounded in mutual love and respect.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.103352128083542,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.28,
+            "commentatorTierSimilarities": [
+                30.31,
+                36.77,
+                32.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To cultivate a relationship in which your wife willingly obeys you, you must emulate Christ's love for the Church. Take care of her, even if it means sacrificing your life or enduring suffering. Shower her with love, kindness, and consideration. The bond between husband and wife is not built on fear, but on love and attachment. Husbands should create an atmosphere that fosters obedience, and fulfill their duty to love in order to secure the reciprocal duty of their wives.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.0929355527680493,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.93,
+            "commentatorTierSimilarities": [
+                30.44,
+                38.12,
+                31.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To create a relationship where your wife willingly obeys you, you must imitate Christ's love for the Church. This entails caring for her, even if it costs you your life or subjects you to suffering. The bond between husband and wife is not secured through fear or threats, but through love and gentle consideration. Husbands should strive to create an environment that fosters obedience through love and attachment, instead of coercion. Emulating Christ's sacrificial love will cultivate a relationship grounded in mutual love and respect.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.0582348138998494,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.78,
+            "commentatorTierSimilarities": [
+                31.82,
+                36.38,
+                31.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To cultivate a relationship in which your wife willingly obeys you, you must imitate Christ's love for the Church. This means taking care of her, even at the cost of your own life or enduring suffering. By showing her love, kindness, and consideration, you can bring her to your feet. Rather than relying on fear and threats, bind your wife to you through love and gentle consideration. Husbands should create an environment that fosters obedience through love and attachment, not coercion.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.07503608760186,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.34,
+            "commentatorTierSimilarities": [
+                33.87,
+                34.44,
+                31.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

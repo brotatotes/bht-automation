@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:34:51",
+    "verseRef": "Ephesians 6:8",
+    "bestBHT": {
+        "bht": "In this section, we are reminded that all individuals, regardless of their position in society, will be rewarded by God for the good they have done. This promise should not be interpreted metaphorically or restricted to heavenly rewards, as it involves a genuine recompense from the Lord. Even if masters or authorities fail to appreciate or reciprocate their servants' kindness, God recognizes their acts and considers Himself indebted to them. This assurance reminds us that God values every act of goodness, irrespective of how society perceives it.",
+        "wordCount": 87,
+        "quoteTokenProportion": 46.38,
+        "qualityScore": 1.9428884207620913,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+        "commentatorTierSimilarities": [
+            27.22,
+            41.74,
+            31.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is surely a mistake to spiritualize the promise, and understand by the earth, the heavenly Canaan.",
+            "Knowing that each man, if he shall have done any good thing, this he shall receive from the Lord, whether he be slave or free.",
+            "For just as those who receive a benefit, if they be not grateful to their benefactors, make God a debtor to them: so in this case the masters, if you treat them well and they make you no return, have in fact made a greater return, by making God your debtor."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "any man shall have done, that is, shall be found at the Lord's coming to have done.",
+            "in full payment, in heaven's currency.",
+            "Christ does not regard such distinctions in His present dealings of grace, or in His future judgment."
+        ],
+        "Albert Barnes": [
+            "Whatever a man does that is right, for that he shall be appropriately rewarded.",
+            "If the servant is faithful to God, he will recompense him in the future world.",
+            "If they may not have freedom here, they may have contentment if they feel that wrong is done them by men, they may feel that right will be done them by God."
+        ],
+        "Marvin Vincent": [
+            "Shall he receive [\u03ba\u03bf\u03bc\u03b9\u03c3\u03b5\u03c4\u03b1\u03b9] . See on 1 Peter 1:8; compare Colossians 3:25."
+        ],
+        "John Calvin": [
+            "What a powerful consolation! However unworthy, however ungrateful or cruel, their masters may be, God will accept their services as rendered to himself.",
+            "Paul informs them that their reward is laid up with God for services which appear to be ill bestowed on unfeeling men; and that there is no reason, therefore, why they should be led aside from the path of duty.",
+            "No distinction is made between a slave and a free man. The world is wont to set little value on the labors of slaves; but God esteems them as highly as the duties of kings."
+        ],
+        "Philip Schaff": [
+            "That whatsoever good thing each one doeth...this good thing, shall he receive again from the Lord.\" ",
+            "Each one, whether bondman or free, 'good thing' means what is done 'as to the Lord, and not to men.'",
+            "To apply this merely to two classes of servants weakens the force of the verse as a whole."
+        ],
+        "Archibald T. Robertson": [
+            "Literally, 'each one if he do anything good.'",
+            "Use here of \u03b1\u03b3\u03b1\u03b8\u03bf\u03bd rather than \u03b1\u03b4\u03b9\u03ba\u03bf\u03bd.",
+            "Reward for good, not a penalty for wrong."
+        ],
+        "John Gill": [
+            "Knowing that whatsoever good thing any man doth... with a view to God's glory.\" ",
+            "He shall receive the fruit and advantage of it, in a way of grace.",
+            "Whether [he be] bond or free; a bondman or a free man, a master or a servant."
+        ],
+        "John Wesley": [
+            "He shall receive the same \u2014 That is, a full and adequate recompence for it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Ephesians 6:8, we are reminded that God does not discriminate between bondmen and free men when it comes to reward. Every individual, regardless of their status, will receive what is due to them from the Lord for the good that they have done. This promise should not be spiritualized or limited to only heavenly blessings, as it refers to a tangible reward that each person will receive for their faithfulness. Even if masters or those in authority may not appreciate or repay their servants' good deeds in this life, their ultimate repayment will come from God Himself. This reassures us that God values and acknowledges every good thing that we do, no matter how insignificant it may seem in the eyes of the world.",
+            "wordCount": 124,
+            "quoteTokenProportion": 50.59,
+            "qualityScore": 2.001980634127298,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                26.35,
+                41.26,
+                32.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, we learn that there is no distinction or favoritism in God's view. The Lord will reward each person, whether slave or free, for the good they have done. Even if earthly masters may not appreciate or acknowledge their servants' acts of kindness, God sees and values them. This promise of reward provides comfort and reassurance, reminding us that our efforts to do good are not in vain, as God will fully compensate us in His perfect timing.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.022878469096534,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                27.67,
+                39.31,
+                33.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, we are reminded that regardless of social status, God does not discriminate and will reward each individual for their acts of goodness. The promise of receiving this reward should not be spiritualized or limited to heavenly blessings, as it refers to tangible repayment from the Lord. Even if earthly masters may not appreciate or repay their servants' acts of kindness, they are making God a debtor and will ultimately receive a full and adequate recompense for their actions. This reassures us of God's fairness and the value He places on every good thing we do.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.0126723979744794,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                26.84,
+                37.28,
+                35.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this section, we are reminded that all individuals, regardless of their position in society, will be rewarded by God for the good they have done. This promise should not be interpreted metaphorically or restricted to heavenly rewards, as it involves a genuine recompense from the Lord. Even if masters or authorities fail to appreciate or reciprocate their servants' kindness, God recognizes their acts and considers Himself indebted to them. This assurance reminds us that God values every act of goodness, irrespective of how society perceives it.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.9428884207620913,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+            "commentatorTierSimilarities": [
+                27.22,
+                41.74,
+                31.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Ephesians 6:8, we are assured that God is impartial and does not distinguish between individuals based on social class. Each person, whether slave or free, will be rewarded by the Lord for the good they have done. This promise extends beyond spiritual blessings, as it relates to a concrete recompense that reflects the currency of heaven. Even if earthly masters fail to appreciate or reciprocate their servants' acts of kindness, God recognizes and values their efforts, ensuring they will receive a full and adequate repayment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9132891808793362,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                28.09,
+                39.46,
+                32.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

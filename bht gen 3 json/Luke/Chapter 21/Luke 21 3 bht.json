@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:22:19",
+    "verseRef": "Luke 21:3",
+    "bestBHT": {
+        "bht": "The verse teaches a great future lesson about the widow who gave from her limited resources, which is God's standard. She is commended for giving more than all the others, not in quantity but in proportion to her ability. This highlights the value of her sacrificial gift compared to the abundance of the wealthy.",
+        "wordCount": 55,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.5560819497233944,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+        "commentatorTierSimilarities": [
+            38.82,
+            0.0,
+            61.18
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To teach from it a great future lesson.",
+            "In proportion to her means, which is God's standard."
+        ],
+        "Marvin Vincent": [
+            "This poor widow. See on Mark 12:43."
+        ],
+        "Archibald T. Robertson": [
+            "More than they all (\u03c0\u03bb\u03b5\u03b9\u03bf\u03bd \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd). Ablative case after the comparative \u03c0\u03bb\u03b5\u03b9\u03bf\u03bd. "
+        ],
+        "John Gill": [
+            "Of a truth I say unto you, that this poor woman hath cast in more than they all.\" ",
+            "Than all the rich men; not in quantity, but in proportion to her ability.",
+            "In proportion to her ability."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse teaches a great future lesson about the widow who gave from her limited resources, which is God's standard. She is commended for giving more than all the others, not in quantity but in proportion to her ability. This highlights the value of her sacrificial gift compared to the abundance of the wealthy.",
+            "wordCount": 55,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.5560819497233944,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                38.82,
+                0.0,
+                61.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The passage reveals a significant lesson through the example of a poor widow's offering. Despite her meager means, God measures her gift on a different scale, recognizing the proportional sacrifice she made. This widow's contribution stands out among the affluent because it reflects her giving ability rather than the quantity. It serves as a reminder of the value that lies in selflessness and sacrificial giving.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.208587977816723,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.53,
+            "commentatorTierSimilarities": [
+                45.87,
+                0.0,
+                54.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To teach a future lesson, the verse presents the case of a poor widow whose offering is considered more significant than that of the wealthy based on God's standard of proportionality. While her gift may have been smaller in quantity, it held a greater value as it reflected her giving ability. This highlights the contrast between her sacrificial offering and the abundance of the rich, reminding us of the profound worth found in selfless and proportionate giving.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.302142575847149,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.64,
+            "commentatorTierSimilarities": [
+                42.24,
+                0.0,
+                57.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse shows a widow who gives a small but meaningful offering, teaching a valuable lesson for the future. Though her gift may be modest, it carries greater weight since it is proportionate to her limited means. This poor widow's sacrificial contribution surpasses the quantity of the wealthy donors, underscoring the importance of giving in accordance with one's ability. It serves as a powerful reminder of the significance of selfless and proportionate acts of generosity.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.1806870554528213,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.6,
+            "commentatorTierSimilarities": [
+                42.46,
+                0.0,
+                57.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The lesson in this passage is exemplified by a poor widow who offers a small but significant gift, demonstrating God's standard of proportionality. Despite her meager means, her contribution holds greater value because it reflects her ability to give. In comparison to the affluent, her sacrificial offering surpasses theirs not in quantity but in proportion. This narrative serves as a reminder that selfless acts of giving, proportionate to one's ability, hold immense worth in the eyes of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.2925089203823221,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.32,
+            "commentatorTierSimilarities": [
+                35.54,
+                0.0,
+                64.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

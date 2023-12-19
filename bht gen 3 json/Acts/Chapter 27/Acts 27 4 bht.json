@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:37:01",
+    "verseRef": "Acts 27:4",
+    "bestBHT": {
+        "bht": "To escape the contrary winds, the ship sailed under the lee of Cyprus for protection. By staying close to the island and hugging the shore of Cilicia and Pamphylia, the sailors sought to break off the force of the northwest wind blowing against them. This strategic decision, based on their knowledge of the region and the challenges of navigating the Levant, provided a safer route and allowed them to continue their journey despite the difficult conditions.",
+        "wordCount": 76,
+        "quoteTokenProportion": 26.42,
+        "qualityScore": 2.321931742869259,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.54,
+        "commentatorTierSimilarities": [
+            32.58,
+            40.71,
+            26.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When a ship is forced out of her course by a contrary wind, so that an island is interposed between the wind and the ship, she is said to sail under the island.\u201d",
+            "They kept under shelter of Cyprus, i.e. between Cyprus and Cilicia, so having sailed the whole length of the sea off Cilicia and Pamphylia, they came to Myra.",
+            "Unless she had put into that harbour (Cnidus), and waited for a fair wind, her only course was to run under the lee of Crete, in the direction of Salmone, which is the eastern extremity of that island."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "when we had launched...from thence, we sailed under Cyprus\" ",
+            "the winds were contrary\" ",
+            "sailed under the lee of Cyprus, keeping it on their left"
+        ],
+        "Albert Barnes": [
+            "By sailing 'under Cyprus' is meant that they sailed along its coasts; they kept near to it; they thus endeavored to break off the violent winds.\" ",
+            "Instead of steering a direct course in the open sea, which would have exposed them to violent opposing winds, they kept near this large island, so that it was between them and the westerly winds.",
+            "The force of the wind was thus broken, and the voyage was rendered less difficult and dangerous."
+        ],
+        "Marvin Vincent": [
+            "We sailed under [\u03c5\u03c0\u03b5\u03c0\u03bb\u03b5\u03c5\u03c3\u03b1\u03bc\u03b5\u03bd] . Rev., correctly, under the lee of : under the protection of the land."
+        ],
+        "Philip Schaff": [
+            "The meaning is, that they sailed \u2018under the lee of Cyprus,\u2019 or so as to place the island between themselves and the wind.",
+            "Hence the wind was blowing hard from the north-west...This was a sufficient reason for standing to the north, and then following the coast of the mainland westwards.",
+            "This coast, too, had several good harbours. All these things were known to sailors accustomed to the navigation of the Levant."
+        ],
+        "Archibald T. Robertson": [
+            "We sailed under the lee of Cyprus... under the protection of Cyprus.",
+            "The Etesian winds were blowing from the northwest... in their very teeth if they went that way.",
+            "They must run behind Cyprus and hug the shore of Cilicia and Pamphylia."
+        ],
+        "John Gill": [
+            "we sailed under Cyprus, because the winds were contrary",
+            "they sailed below the island of Cyprus",
+            "obliged to go below it, leaving it on the left hand"
+        ],
+        "John Wesley": [
+            "We sailed under Cyprus \u2014 Leaving it on the left hand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 27:4, the ship sailed under the lee of Cyprus, seeking the protection of the island against the contrary winds. By hugging the shore of Cyprus, they hoped to break off the force of the northwest wind blowing against them. This decision was influenced by the sailors' knowledge of the region, understanding the navigation challenges of the Levant. Instead of risking a direct course and facing the violent opposing winds, they wisely chose to sail near the island, finding refuge and a safer path along the coast of Cilicia and Pamphylia.",
+            "wordCount": 91,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.4304515351315357,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.15,
+            "commentatorTierSimilarities": [
+                31.68,
+                41.28,
+                27.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ship in this passage sailed under the lee of Cyprus, finding protection from the contrary winds. The sailors made a strategic decision to hug the shore of Cyprus and break off the force of the northwest wind blowing against them. This alternative route, known to experienced navigators, provided a safer path along the coast of Cilicia and Pamphylia, avoiding the violent opposing winds they would have faced in open sea. By seeking the shelter of Cyprus, they were able to navigate their course more effectively.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4495049111963567,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.79,
+            "commentatorTierSimilarities": [
+                31.5,
+                39.43,
+                29.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ship in Acts 27:4 sailed under the lee of Cyprus, seeking protection from the contrary winds. By hugging the shore of Cyprus, they hoped to break off the force of the northwest wind blowing against them. This strategic decision, known to experienced sailors, allowed them to navigate a safer route along the coasts of Cilicia and Pamphylia instead of facing violent opposing winds in the open sea. Seeking the shelter of Cyprus proved to be a wise choice as they continued their journey.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.47841174514931,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.75,
+            "commentatorTierSimilarities": [
+                32.71,
+                36.43,
+                30.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ship in this account sought refuge under the lee of Cyprus by sailing near the protection of the island. By doing so, they aimed to avoid the force of the contrary winds blowing against them. The sailors' decision to navigate along the coasts of Cilicia and Pamphylia, while leaving the northwest winds behind, ensured a safer voyage. As experienced navigators, they understood the challenges of the Levant and wisely utilized their knowledge to find a more favorable path towards their destination.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.065426583814349,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+            "commentatorTierSimilarities": [
+                31.06,
+                43.88,
+                25.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To escape the contrary winds, the ship sailed under the lee of Cyprus for protection. By staying close to the island and hugging the shore of Cilicia and Pamphylia, the sailors sought to break off the force of the northwest wind blowing against them. This strategic decision, based on their knowledge of the region and the challenges of navigating the Levant, provided a safer route and allowed them to continue their journey despite the difficult conditions.",
+            "wordCount": 76,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.321931742869259,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.54,
+            "commentatorTierSimilarities": [
+                32.58,
+                40.71,
+                26.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

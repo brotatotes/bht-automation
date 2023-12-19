@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:09:04",
+    "verseRef": "Titus 3:6",
+    "bestBHT": {
+        "bht": "The pouring out of the Holy Spirit is not a matter of debate, as it encompasses the grace received before, during, and after baptism. This pouring out occurs abundantly, as seen in the great Pentecost and in the individual experiences of believers. It is through Jesus Christ our Savior that this pouring out is made possible. The Holy Spirit, whom the Father pours out, is the author of our salvation. This pouring out is compared to the metaphor of water, and through the mediation and merits of Christ, the Holy Spirit is bestowed on those who are members of Christ.",
+        "wordCount": 100,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.146657351581133,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.72,
+        "commentatorTierSimilarities": [
+            38.86,
+            31.08,
+            30.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "which (or, rather, whom; the Holy Spirit, not the water) He poured out on us richly.",
+            "again, it is mere waste of time to debate whether this pouring out be the one general one at Pentecost, or that in the heart of each individual believer.",
+            "through (as its channel and medium, He having purchased it for us, and made the pouring out: possible, in and by His own blessed Sacrifice in our nature) Jesus Christ our Saviour."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This pouring out of the Spirit comprehends the grace received before, in, and subsequently to, baptism.",
+            "Abundantly\u2014Greek, 'richly' (Colossians 3:16).",
+            "The Father is the author of our salvation and saves us by Jesus Christ."
+        ],
+        "Albert Barnes": [
+            "Which he poured out on us.",
+            "The Holy Spirit had been imparted in copious measure in order to convert them from their former wickedness.",
+            "The Holy Spirit had been imparted richly to all who were converted, at any time or place, from the error of their ways."
+        ],
+        "Marvin Vincent": [
+            "The pouring out of the Spirit is an 0. T. metaphor.",
+            "In Paul the verb occurs but once, of shedding blood.",
+            "The pouring out of the Spirit is...cit. in Acts 2:17, Acts 2:18; Zechariah 12:10."
+        ],
+        "John Calvin": [
+            "It makes little difference as to the meaning; but the metaphor will be more elegant if the relative be applied to the 'washing'.\" (Titus 3:6)",
+            "If it be objected that not all the children of God enjoy so great abundance, but, on the contrary, the grace of God drops sparingly on many; the answer is, that no one has received so small a measure that he may not be justly accounted rich.\" (Titus 3:6)",
+            "Paul therefore teaches us by this word, that the Spirit of regeneration is bestowed on none but those who are the members of Christ.\" (Titus 3:6)"
+        ],
+        "Philip Schaff": [
+            "Shed, or poured out, including both Pentecost and all the subsequent effusion of the Spirit on the successive members of the Church.",
+            "Abundantly; literally, 'richly'.",
+            "Through the mediation and merits of Christ. Note the part assigned to the Three Persons: Father, the fountain who pours; Son, the channel through whom; Spirit, the poured out Water of Life."
+        ],
+        "Archibald T. Robertson": [
+            "Whom he poured out\" - The reference is to the great Pentecost (Acts 2:33) as foretold by Joel (Joel 2:28).",
+            "Richly\" - Then and to each one in his own experience. See Romans 10:12; 1 Timothy 6:17."
+        ],
+        "John Gill": [
+            "Which he shed on us abundantly...the water of regeneration, that is, grace, comparable to water, he plentifully shed, and caused to abound where sin had done.\" ",
+            "or rather whom, or which Holy Spirit, with his gifts and graces, such as faith, hope, and love, and every other, he poured forth in great abundance on them.\" ",
+            "the grace communicated in regeneration and renovation is out of his fulness; the Spirit himself is given forth from him; and every supply of grace, by which the work is carried on, comes out of his hands; and everything wrought in us, that is well pleasing in the sight of God, is through him; and even the gift of God, eternal life itself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The pouring out of the Holy Spirit is not a matter of debate, as it encompasses the grace received before, during, and after baptism. This pouring out occurs abundantly, as seen in the great Pentecost and in the individual experiences of believers. It is through Jesus Christ our Savior that this pouring out is made possible. The Holy Spirit, whom the Father pours out, is the author of our salvation. This pouring out of the Spirit is characterized by the rich abundance of grace and is compared to the metaphor of water. Through the mediation and merits of Christ, the Holy Spirit is bestowed on those who are members of Christ. Thus, all who receive the pouring out of the Spirit can truly be considered rich in the grace of God.",
+            "wordCount": 131,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.0679270045276845,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.1,
+            "commentatorTierSimilarities": [
+                36.12,
+                30.62,
+                33.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The pouring out of the Holy Spirit is not up for debate; it encompasses the grace received before, during, and after baptism. This pouring out occurs abundantly, seen in the great Pentecost and in the individual experiences of believers. It is through Jesus Christ our Savior that this pouring out is made possible. The Holy Spirit, whom the Father pours out, is the author of our salvation. Through the mediation and merits of Christ, the Holy Spirit is bestowed on those who are members of Christ. Therefore, all who receive the pouring out of the Spirit can truly be considered rich in the grace of God.",
+            "wordCount": 106,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.070127816950293,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.17,
+            "commentatorTierSimilarities": [
+                36.81,
+                31.51,
+                31.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The pouring out of the Holy Spirit is not a matter of debate, as it encompasses the grace received before, during, and after baptism. This pouring out occurs abundantly, as seen in the great Pentecost and in the individual experiences of believers. It is through Jesus Christ our Savior that this pouring out is made possible. The Holy Spirit, whom the Father pours out, is the author of our salvation. This pouring out is compared to the metaphor of water, and through the mediation and merits of Christ, the Holy Spirit is bestowed on those who are members of Christ.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.146657351581133,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.72,
+            "commentatorTierSimilarities": [
+                38.86,
+                31.08,
+                30.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The pouring out of the Holy Spirit is not a matter of debate, as it encompasses the grace received before, during, and after baptism. This pouring out occurs abundantly, as seen in the great Pentecost and in the individual experiences of believers. It is through Jesus Christ our Savior that this pouring out is made possible. The Holy Spirit, whom the Father pours out, is the author of our salvation. Through the mediation and merits of Christ, the Holy Spirit is bestowed on those who are members of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.104925889982583,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.33,
+            "commentatorTierSimilarities": [
+                38.42,
+                32.03,
+                29.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The pouring out of the Holy Spirit is not a matter of debate; it encompasses the grace received before, during, and after baptism. This pouring out occurs abundantly, seen in the great Pentecost and in the individual experiences of believers. It is through Jesus Christ our Savior that this pouring out is made possible. The Holy Spirit, whom the Father pours out, is the author of our salvation. Therefore, all who receive the pouring out of the Spirit can truly be considered rich in the grace of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.0729178796318,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                37.36,
+                30.68,
+                31.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

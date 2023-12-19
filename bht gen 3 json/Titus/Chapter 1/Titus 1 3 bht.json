@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:09:01",
+    "verseRef": "Titus 1:3",
+    "bestBHT": {
+        "bht": "God's word is made manifest in its own seasons through the proclamation entrusted to the speaker, in accordance with the command of our Savior God. This proclamation unveils the hidden promise, which lay in God's eternal purpose, through the preaching of the Gospel. The times and the work being carried out are under God's control, ensuring that everything is done in the proper order and at the most opportune moment.",
+        "wordCount": 73,
+        "quoteTokenProportion": 45.1,
+        "qualityScore": 2.0036478256681285,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.96,
+        "commentatorTierSimilarities": [
+            30.67,
+            35.59,
+            33.74
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "made manifest in its own seasons His word",
+            "the proclamation, with which I was entrusted",
+            "according to the command of our Saviour God"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'promise' had lain hidden in His eternal purpose heretofore.",
+            "His word\u2014equivalent to 'eternal life.'",
+            "In the (Gospel) proclamation (the thing preached, the Gospel) with which I was entrusted."
+        ],
+        "Albert Barnes": [
+            "But hath in due times - At the proper time; the time which he had intended; the best time.\" ",
+            "Manifested his word through preaching - ...he has made known his eternal purpose through the preaching of the gospel.",
+            "According to the commandment of God our Saviour - Paul always claimed to be divinely commissioned, and affirmed that he was engaged in the work of preaching by the authority of God."
+        ],
+        "Marvin Vincent": [
+            "In due times [\u03ba\u03b1\u03b9\u03c1\u03bf\u03b9\u03c2 \u03b9\u03b4\u03b9\u03bf\u03b9\u03c2] . Better, in his (or its) own seasons.",
+            "Through preaching [\u03b5\u03bd \u03ba\u03b7\u03c1\u03c5\u03b3\u03bc\u03b1\u03c4\u03b9] . Rather, in a proclamation.",
+            "Which is committed unto me [\u03bf \u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03b8\u03b7\u03bd \u03b5\u03b3\u03c9] . Betters wherewith I was intrusted."
+        ],
+        "John Calvin": [
+            "He reminds us that the time when it pleased the Lord to do this \u2014 must have been the most seasonable time for doing it.\" ",
+            "the 'times' are placed in the hand, and at the disposal, of God, in such a manner that we ought to think that he does everything in the proper order and at the most seasonable time.\" ",
+            "the honor is not due to any man, till he has proved that God has ordained him"
+        ],
+        "Philip Schaff": [
+            "The Gospel is the final revelation of life eternal.",
+            "Things promised are still in part concealed; performance alone is full manifestation.",
+            "Saviour is applied elsewhere to God only in Luke 1:47 (with Old Testament reference) and Jude 1:25."
+        ],
+        "Archibald T. Robertson": [
+            "In the message (\u03b5\u03bd \u03ba\u03b7\u03c1\u03c5\u03b3\u03bc\u03b1\u03c4). See 1 Corinthians 1:21; 1 Corinthians 2:4 for this word, the human proclamation (preaching) of God's word.",
+            "Wherewith I was intrusted (\u03bf \u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03b8\u03b7\u03bd). Accusative relative \u03bf retained with the first aorist passive indicative of \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c9 as in 1 Timothy 1:11. See 1 Timothy 2:7.",
+            "Of God our Saviour (\u03c4\u03bf\u03c5 \u03c3\u03c9\u03c4\u03b7\u03c1\u03bf\u03c2 \u03b7\u03bc\u03c9\u03bd \u03b8\u03b5\u03bf\u03c5). In verse Titus 1:4 he applies the words '\u03c4\u03bf\u03c5 \u03c3\u03c9\u03c4\u03b7\u03c1\u03bf\u03c2 \u03b7\u03bc\u03c9\u03bd' to Christ. In Titus 2:13 he applies both \u03b8\u03b5\u03bf\u03c5 and \u03c3\u03c9\u03c4\u03b7\u03c1\u03bf\u03c2 to Christ."
+        ],
+        "John Gill": [
+            "...in which Christ is revealed in the glory of his person, and the fulness of his grace, and in the efficacy of his blood, righteousness, and sacrifice...",
+            "...in which the promise of eternal life, which lay in God's heart, in the covenant of grace, and in the hands of Christ...is clearly made known...",
+            "...who is truly and properly God, the great God, and our Saviour, and who is the only Saviour of lost sinners..."
+        ],
+        "John Wesley": [
+            "And his own times are fittest for his own work. What creature dares ask, 'Why no sooner?'\" ",
+            "Manifested his word - Containing that promise, and the whole 'truth which is after godliness.'",
+            "Through the preaching wherewith I am intrusted according to the commandment of God our Saviour - And who dares exercise this office on any less authority?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of how God's word has been made manifest in its own seasons through the proclamation entrusted to the speaker. This proclamation is in accordance with the command of God our Savior. The promise of eternal life, which had been hidden in God's eternal purpose, is now clearly revealed through the preaching of the Gospel. These times and the work being done within them are in the hands of God, who does everything in the proper order and at the most seasonable time. It is important to note that this authority does not belong to any man until God has ordained him. Ultimately, this verse highlights the manifestation of God's word and the divine authority behind the preaching and proclamation.",
+            "wordCount": 125,
+            "quoteTokenProportion": 48.68,
+            "qualityScore": 1.937038308545259,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "commentatorTierSimilarities": [
+                29.17,
+                35.01,
+                35.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's word is made manifest in its own appointed times through the entrusted proclamation, according to the command of our Savior God. This proclamation reveals the hidden promise of eternal life, demonstrating God's eternal purpose. The preaching carries the human proclamation of God's word and is done with divine authority. These times and the work being done within them are in the hands of God, who orders everything in the proper order and at the most seasonable time.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.9588881006842165,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                29.77,
+                33.97,
+                36.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word of God is revealed at its designated seasons through the entrusted proclamation, obedient to the command of our Savior God. This proclamation unveils the concealed promise of eternal life, reflecting God's eternal purpose. The preaching, which carries the message of God's word, is done with divine authority. The timing of these revelations and the work being accomplished are under the control of God, who ensures that everything is done in the proper order and at the most opportune moment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.963721559208086,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+            "commentatorTierSimilarities": [
+                29.63,
+                36.06,
+                34.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The proclamation entrusted to the speaker manifests God's word in its own seasons, as commanded by our Savior God. Through this proclamation, the hidden promise in God's eternal purpose is revealed. The preaching of the Gospel serves as the human proclamation of God's word and is carried out with divine authority. These appointed times and the work being done in them are under God's control, ensuring that everything is done in the proper order and at the most opportune moment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.9822393283476982,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                31.32,
+                34.93,
+                33.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's word is made manifest in its own seasons through the proclamation entrusted to the speaker, in accordance with the command of our Savior God. This proclamation unveils the hidden promise, which lay in God's eternal purpose, through the preaching of the Gospel. The times and the work being carried out are under God's control, ensuring that everything is done in the proper order and at the most opportune moment.",
+            "wordCount": 73,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.0036478256681285,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.96,
+            "commentatorTierSimilarities": [
+                30.67,
+                35.59,
+                33.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:26:54",
+    "verseRef": "Acts 5:37",
+    "bestBHT": {
+        "bht": "The mentioned figure, Theudas, led a theocratic revolt, asserting that God was the sole ruler and master. Josephus recounts this event, describing Theudas as a Galilean and noting that he aimed to incite a revolt against the taxation. Although the outcome of Theudas' story is not explicitly mentioned, it is known that his followers were dispersed. This incident occurred in the historical context of a taxation and enrollment after Archelaus' removal, signifying the transition of Judea into a Roman province. The influence of Theudas and the resulting consequences are evident in this account.",
+        "wordCount": 93,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.607125185789768,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.78,
+        "commentatorTierSimilarities": [
+            26.09,
+            46.45,
+            27.46
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The decided words, after this man, fix beyond doubt the place here assigned to Theudas.",
+            "His revolt took a theocratic character, his followers maintaining, as Josephus tells us, that God was the only ruler and master.",
+            "His end is not related by Josephus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "37. Judas of Galilee\u2014(See on",
+            "\t :-, and :-) [JOSEPHUS,",
+            "\tAntiquities, 13.1.1]."
+        ],
+        "Albert Barnes": [
+            "Josephus has given an account of this man (Antiq., xvii. 10, section 5), and calls him a 'Galilean.' He afterward calls him a 'Gaulonite,' and says he was of the city of 'Gamala.'\" ",
+            "He says that the revolt took place under 'Cyrenius,' a Roman senator, who came into 'Syria to be judge of that nation, and to take account of their substance.'",
+            "'Yet Judas, taking with him Saddouk, a Pharisee, became zealous to draw them to a revolt, who both said that this taxation was no better than an introduction to slavery, and exhorted the nation to assert their liberty, etc.'"
+        ],
+        "Marvin Vincent": [
+            "Note the word for obeyed, implying the persuasive power of Theudas' boasting.",
+            "Taxing. See on Luke 2:1, Luke 2:2.",
+            "Were dispersed. See on Matthew 25:24."
+        ],
+        "Philip Schaff": [
+            "These words determine pretty closely the date of the failure of the pretensions of Theudas.",
+            "The great feature of his teaching was that it was unlawful to pay tribute to Caesar, as God was the only Ruler of the nation.",
+            "This taxing or enrolment was made after the dethronement of Archelaus, when Judea was converted into a Roman province, and the enrolment of persons and property was made with a view to taxation."
+        ],
+        "Archibald T. Robertson": [
+            "This is the second enrolment in the fourteen year cycle carried on for centuries as shown by numerous dated papyri.",
+            "Causative sense of the first aorist active indicative of \u03b1\u03c6\u03b9\u03c3\u03c4\u03b7\u03bc, made people (\u03bb\u03b1\u03bf\u03bd, no need of 'some of the') to revolt (apostatize) with him.",
+            "That one, also."
+        ],
+        "John Gill": [
+            "It was not fit that any should rule over men but God alone; and that no one should be called Lord, but the blessed God.\" ",
+            "He also perished; being killed in the insurrection, or taken and put to death by the Romans.",
+            "And all, even as many as obeyed him, were dispersed; were forced to fly, some one way, and some another, and could make nothing of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse is referring to Theudas, a man who had followers that believed God was the only ruler and master. His teachings included the belief that paying tribute to Caesar was unlawful, as God alone should have authority. While the end of Theudas is not mentioned, it is known that his uprising resulted in his followers being dispersed. This revolt and its implications can be seen in the historical context of a taxation and enrollment made after the dethronement of Archelaus, following which Judea became a Roman province. Theudas' persuasive words led people to revolt with him, resulting in their dispersion.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.7435419293858634,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.31,
+            "commentatorTierSimilarities": [
+                23.56,
+                42.91,
+                33.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reference to Theudas highlights his theocratic rebellion, with followers believing that only God should rule. The account does not give details about his demise, but emphasizes the persuasive power of his boasting. The revolt led to his followers being dispersed, forced to flee in different directions. The historical context reveals that this incident occurred during a taxation and enrollment after the removal of Archelaus, when Judea became a Roman province. The rebellion demonstrated Theudas' influence and the disruptive consequences that ensued.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.531383970289313,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.26,
+            "commentatorTierSimilarities": [
+                25.1,
+                42.53,
+                32.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mentioned figure, Theudas, led a theocratic revolt, asserting that God was the sole ruler and master. Josephus recounts this event, describing Theudas as a Galilean and noting that he aimed to incite a revolt against the taxation. Although the outcome of Theudas' story is not explicitly mentioned, it is known that his followers were dispersed. This incident occurred in the historical context of a taxation and enrollment after Archelaus' removal, signifying the transition of Judea into a Roman province. The influence of Theudas and the resulting consequences are evident in this account.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.607125185789768,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.78,
+            "commentatorTierSimilarities": [
+                26.09,
+                46.45,
+                27.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The reference to Theudas in Acts 5:37 illustrates his theocratic revolt, with his followers asserting that only God held power and that tribute to Caesar was unlawful. The account does not detail Theudas' fate, but emphasizes the persuasive impact of his boasting. As a result of the revolt, his followers were dispersed. This incident took place during a taxation and enrollment period after the removal of Archelaus, when Judea was transformed into a Roman province. The prominence of Theudas' teachings and their aftermath can be seen in this historical context.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.5446761122677861,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.7,
+            "commentatorTierSimilarities": [
+                25.11,
+                48.21,
+                26.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The identified figure, Theudas, orchestrated a theocratic uprising with the belief that only God, not Caesar, should rule. The text does not mention his fate, but highlights the persuasive power of his words. Consequently, his followers were scattered. The historical context reveals that this event occurred during a taxation and enrollment period following the removal of Archelaus, leading to the transformation of Judea into a Roman province. This revolt and its aftermath offer insight into Theudas' influence and the ensuing consequences.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.451300349910173,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                25.47,
+                45.33,
+                29.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:15:46",
+    "verseRef": "Jude 12",
+    "bestBHT": {
+        "bht": "Beware of ministers who try to usurp Christ's role as the only sacrificing Priest in the Lord's Supper. In the church's love-feasts, there are those who feed themselves instead of tending to God's flock, like clouds without water and hidden rocks that endanger the faith of believers. These individuals are like autumn trees, devoid of fruit and life. Let us be cautious and discerning, facing the threat of these spots within the love-feasts.",
+        "wordCount": 79,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.6987426200906652,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+        "commentatorTierSimilarities": [
+            34.44,
+            36.25,
+            29.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The love-feast accompanied the Lord\u2019s Supper. Ministers in the Lord\u2019s Supper have sought to make it a sacrifice, and themselves the sacrificing priests, usurping the function of our only Christian sacerdotal Priest, Christ Jesus. Let them beware of Korah\u2019s doom!",
+            "Feasting is not faulty in itself, but it needs to be accompanied with fear of forgetting God.",
+            "There is a climax. Not only without leaves, like trees in late autumn, but without fruit: not only so, but dead twice; and to crown all, 'plucked up by the roots.'"
+        ],
+        "Albert Barnes": [
+            "They were as dangerous in the church as hidden rocks are in the ocean.",
+            "The reference is probably to the Lord\u2019s Supper, called a feast or festival of love.",
+            "They are fit only to be extirpated and cast away."
+        ],
+        "Marvin Vincent": [
+            "Spots. Only here in New Testament. So rendered in A. V., because understood as kindred to spiloi (2 Peter 2:13); but rightly, as Rev., hidden rocks.",
+            "Feeding. Lit., shepherding themselves; and so Rev., shepherds that feed themselves; further their own schemes and lusts instead of tending the flock of God.",
+            "Clouds without water. As clouds which seem to be charged with refreshing showers, but are born past and yield no rain."
+        ],
+        "John Calvin": [
+            "It was then not right that these gorgers should be admitted, who afterwards indulged themselves to an excess elsewhere.",
+            "\u2026they acted inconsiderately who cherished such noxious serpents, and\u2026very foolish who encouraged their excessive luxury.",
+            "These unprincipled men, though promising much, were yet barren within and empty, like clouds driven by stormy winds, which give hope of rain, but soon vanish into nothing."
+        ],
+        "Philip Schaff": [
+            "These are they who are sunken rocks, seen indeed, but their true nature concealed, in your feasts of charity.",
+            "Clouds without water, empty, useless, easily carried along therefore by the wind, ostentatious and deceptive wherever they go.",
+            "Trees as they are in autumn, in \u2018the sear and yellow leaf,\u2019 with all their vigour gone, not because they have borne fruit, for they are fruitless, and have ever been so; at their best they had \u2018leaves only,\u2019 and even those are decaying."
+        ],
+        "Archibald T. Robertson": [
+            "Hidden rocks (\u03c3\u03c0\u03b9\u03bb\u03b1\u03b4\u03b5\u03c2). Old word for rocks in the sea (covered by the water), as in Homer, here only in N.T.\" ",
+            "Shepherds that feed themselves (\u03b5\u03b1\u03c5\u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03b9\u03bc\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b5\u03c2). 'Shepherding themselves.' Cf. Revelation 7:17 for this use of \u03c0\u03bf\u03b9\u03bc\u03b1\u03b9\u03bd\u03c9.\" ",
+            "Autumn trees (\u03b4\u03b5\u03bd\u03b4\u03c1\u03b1 \u03c6\u03b8\u03b9\u03bd\u03bf\u03c0\u03c9\u03c1\u03b9\u03bd\u03b1). Late adjective (Aristotle, Polybius, Strabo) from \u03c6\u03b8\u03b9\u03bd\u03c9, to waste away, and \u03bf\u03c0\u03c9\u03c1\u03b1, autumn, here only in N.T."
+        ],
+        "John Gill": [
+            "These are spots in your feasts of charity....such as here are said to be spots in them, blemishes, which brought great reproach and scandal upon them, being persons of infamous characters and conversations.",
+            "they were among them, continued members with them, and partook with them in their solemn feasts, and were admitted to communion; and carries in it a kind of reproof to the saints, that they suffered such persons among them, and allowed them such privilege, intimacy, and familiarity with them.",
+            "Carried about of winds; either of false doctrines, or of their own lusts and passions, or of Satan's temptations."
+        ],
+        "John Wesley": [
+            "Feeding themselves without fear - Without any fear of God, or jealousy over themselves.",
+            "Twice dead - In sin, first by nature, and afterwards by apostasy.",
+            "Plucked up by the roots - And so incapable of ever reviving."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of the dangers lurking within the church's love-feasts, which accompany the Lord's Supper. These feasts can easily be corrupted by ministers who seek to make themselves sacrificing priests, rather than recognizing Christ as the only true Priest. In these feasts, there are those who feed themselves, indulging their own schemes and lusts instead of tending to the flock of God. They are like clouds without water, promising refreshing rain but yielding none. These hidden rocks, though seen, endanger the faith of the church. Like autumn trees, they are devoid of fruit and life. Let us be cautious and discerning, facing the threat of these spots within the love-feasts.",
+            "wordCount": 113,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.6920783862439515,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                32.22,
+                37.66,
+                30.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware of ministers who try to usurp Christ's role as the only sacrificing Priest in the Lord's Supper. In the church's love-feasts, there are those who feed themselves instead of tending to God's flock, like clouds without water and hidden rocks that endanger the faith of believers. These individuals are like autumn trees, devoid of fruit and life. Let us be cautious and discerning, facing the threat of these spots within the love-feasts.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.6987426200906652,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "commentatorTierSimilarities": [
+                34.44,
+                36.25,
+                29.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Be cautious of ministers who try to make themselves sacrificing priests in the Lord's Supper, overshadowing Jesus as the true Christian sacerdotal Priest. Within the love-feasts, some feed themselves and pursue their own schemes and lusts, neglecting to tend to God's flock. These individuals are like clouds without water, promising refreshing rain but delivering none. They are hidden rocks that endanger the faith of believers. Let us be discerning and watchful, aware of the danger posed by these spots within the love-feasts.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.61864856817839,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                31.92,
+                35.38,
+                32.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Be cautious of ministers who try to make themselves sacrificing priests, usurping the function of the only Christian sacerdotal Priest, Christ Jesus, in the Lord's Supper. In the love-feasts, there are those who feed themselves, furthering their own schemes and lusts instead of tending the flock of God. These individuals are like clouds without water, promising refreshing rain but delivering none. They are hidden rocks that endanger the faith. Let us be discerning, aware of the danger posed by these spots within the love-feasts.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6347878274173806,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+            "commentatorTierSimilarities": [
+                33.2,
+                36.28,
+                30.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of ministers who seek to make themselves sacrificing priests in the Lord's Supper, usurping the role of Christ. In love-feasts, some feed themselves, pursuing their own schemes and lusts instead of tending to God's flock. These individuals are like clouds without water, promising rain but yielding none. They are hidden rocks, endangering the faith of believers. Let us be discerning and wary of these spots within the love-feasts.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.63168818350024,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+            "commentatorTierSimilarities": [
+                32.36,
+                34.9,
+                32.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

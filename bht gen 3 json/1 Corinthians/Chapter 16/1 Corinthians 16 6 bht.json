@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 15:14:11",
+    "verseRef": "1 Corinthians 16:6",
+    "bestBHT": {
+        "bht": "Paul's plans were uncertain, but he expresses a desire for the Corinthians to accompany him on his journey or at least provide assistance. He mentions the possibility of even staying in Corinth for the winter months. Paul values their support and hopes they will help and accompany him wherever he goes, recognizing the necessity of his presence.",
+        "wordCount": 58,
+        "quoteTokenProportion": 45.65,
+        "qualityScore": 1.5632226989841973,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.32,
+        "commentatorTierSimilarities": [
+            28.62,
+            35.7,
+            35.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "ye, Meyer justly remarks is emphatic, and conveys an affectionate preference\" ",
+            "in his present plan, for them.\" ",
+            "Whither he should go from Corinth, was as yet uncertain"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He did 'abide and even winter' for the three WINTER months in Greece (Corinth), Acts 20:3; Acts 20:6... so that thus the three months at Corinth would be December, January, and February.\" ",
+            "ye\u2014emphatical in the Greek.",
+            "He purposed to go to Judea (2 Corinthians 1:16) from Corinth, but his plans were not positively fixed as yet."
+        ],
+        "Albert Barnes": [
+            "That ye may bring me on my journey - That you may accompany me, or aid me.\" ",
+            "It was customary for the apostles to be attended by some members of the churches and friends in their travels.",
+            "But wherever he should go, it would be gratifying to him to have their aid and companionship."
+        ],
+        "Philip Schaff": [
+            "But with you it may be that I shall abide, or even winter which he actually did.\" ",
+            "Spent the intervening winter at Corinth, that ye may set me forward on my journey.",
+            "Accompany me a little way, as this favourite phraseology means."
+        ],
+        "Archibald T. Robertson": [
+            "It may be. Or even winter. Whithersoever I go."
+        ],
+        "John Gill": [
+            "And it may be that I will abide...where his presence would be necessary.",
+            "Yea, and winter with you...for the space of three months.",
+            "That ye may bring me on my journey whithersoever I go...and by providing things necessary for his journey."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul tells the Corinthians that he intends to visit them, but his plans are uncertain at the moment. He hopes that they will accompany him on his journey or at least provide assistance and companionship. Although he plans to go to Judea, he may end up staying with them in Corinth for the winter months. Paul values their support and expresses a desire for them to help and accompany him. His presence would be necessary wherever he goes, and their aid in providing for his journey would be greatly appreciated.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.5126396481000088,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.64,
+            "commentatorTierSimilarities": [
+                23.78,
+                39.72,
+                36.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's plans were uncertain, but he expresses a desire for the Corinthians to accompany him on his journey or at least provide assistance. He mentions the possibility of even staying in Corinth for the winter months. Paul values their support and hopes they will help and accompany him wherever he goes, recognizing the necessity of his presence. Their aid in providing for his journey would be greatly appreciated.",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.5378029532773085,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.47,
+            "commentatorTierSimilarities": [
+                24.27,
+                38.2,
+                37.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's plans were uncertain, but he expresses a desire for the Corinthians to accompany him on his journey or at least provide assistance. He mentions the possibility of even staying in Corinth for the winter months. Paul values their support and hopes they will help and accompany him wherever he goes, recognizing the necessity of his presence.",
+            "wordCount": 58,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.5632226989841973,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.32,
+            "commentatorTierSimilarities": [
+                28.62,
+                35.7,
+                35.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's intention to visit Corinth is uncertain at this point, but he expresses his hope that the Corinthians will assist and accompany him on his journey. He even contemplates the possibility of spending the winter months in Corinth. Paul acknowledges the value of their support, recognizing their ability to provide for his journey and extend their hospitality. Regardless of his final destination, Paul emphasizes the importance of their involvement in his plans.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.352656985926357,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.32,
+            "commentatorTierSimilarities": [
+                29.53,
+                37.41,
+                33.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul acknowledges that his plans for his visit to Corinth are uncertain at the moment, but he expresses a deep desire for the Corinthians to accompany him on his journey or at least provide him with assistance and support. He even contemplates the possibility of staying with them in Corinth for the winter months. Paul recognizes the significance of their presence and their ability to help ensure a successful journey, appreciating the provision they can offer for his travels.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.480123212446454,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.56,
+            "commentatorTierSimilarities": [
+                26.31,
+                37.42,
+                36.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

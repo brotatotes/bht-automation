@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 15:18:45",
+    "verseRef": "2 Corinthians 13:13",
+    "bestBHT": {
+        "bht": "May the grace of the Lord Jesus Christ and the love of God, and the communion of the Holy Ghost, be with you all. This benediction, the most complete of them all, presents the persons of the Trinity in full form. All the saints, redeemed by the same blood and sanctified by the same grace, have a common concern for each other's welfare and share in the fellowship of the Holy Ghost, with all his gifts and graces.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.7269183556227627,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.76,
+        "commentatorTierSimilarities": [
+            45.43,
+            22.01,
+            32.55
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "All the saints salute you\" - That is, all who were with Paul, or in the place where he was.",
+            "The Epistle was written from Macedonia, probably from Philippi.\" - See the introduction, section 3."
+        ],
+        "Archibald T. Robertson": [
+            "The grace of the Lord Jesus Christ and the love of God, and the communion of the Holy Ghost, be with you all... This benediction is the most complete of them all.\" ",
+            "It presents the persons of the Trinity in full form.",
+            "The reading of it in the church would make a stir of no small proportions. But it did the work."
+        ],
+        "John Gill": [
+            "All the saints salute you.\" ",
+            "Being all interested in the same divine favour, redeemed by the same blood, and sanctified by the same grace...",
+            "...they have a common concern for each other's welfare."
+        ],
+        "John Wesley": [
+            "The grace \u2014 Or favour.",
+            "And the love of God \u2014 Manifested to you, and abiding in you.",
+            "And the communion \u2014 Or fellowship. Of the Holy Ghost \u2014 In all his gifts and graces."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the grace of the Lord Jesus Christ and the love of God, and the communion of the Holy Ghost, be with you all. This benediction is the most complete of them all, presenting the persons of the Trinity in full form. The reading of it in the church would undoubtedly make a stir, but it served its purpose. All the saints, being interested in the same divine favor, redeemed by the same blood, and sanctified by the same grace, have a common concern for each other's welfare, and share in the fellowship of the Holy Ghost with all his gifts and graces.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.6316812587547382,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+            "commentatorTierSimilarities": [
+                49.06,
+                22.91,
+                28.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May the grace of the Lord Jesus Christ and the love of God, and the communion of the Holy Ghost, be with you all. This complete benediction reflects the persons of the Trinity and would make a stir when read in the church. All the saints, united by the same divine favor, blood, and grace, have a common concern for each other's welfare and share in the fellowship of the Holy Ghost with all his gifts and graces.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7045384739698917,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+            "commentatorTierSimilarities": [
+                46.23,
+                21.47,
+                32.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the grace of the Lord Jesus Christ and the love of God, and the communion of the Holy Ghost, be with you all. This benediction, the most complete of them all, presents the persons of the Trinity. All the saints, sharing the same divine favor, blood, and grace, have a common concern for each other's welfare and enjoy the fellowship of the Holy Ghost with all his gifts and graces.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6786296725992655,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.16,
+            "commentatorTierSimilarities": [
+                45.75,
+                20.91,
+                33.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May the grace of the Lord Jesus Christ and the love of God, and the communion of the Holy Ghost, be with you all. This benediction, the most complete of them all, presents the persons of the Trinity in full form. All the saints, redeemed by the same blood and sanctified by the same grace, have a common concern for each other's welfare and share in the fellowship of the Holy Ghost, with all his gifts and graces.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7269183556227627,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.76,
+            "commentatorTierSimilarities": [
+                45.43,
+                22.01,
+                32.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May the grace of the Lord Jesus Christ and the love of God, and the communion of the Holy Ghost, be with you all. This benediction, the most complete of them all, presents the persons of the Trinity in full form. All the saints, redeemed by the same blood and sanctified by the same grace, share a common concern for each other's welfare and partake in the fellowship of the Holy Ghost, with all his gifts and graces.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7094547798763622,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+            "commentatorTierSimilarities": [
+                45.57,
+                21.79,
+                32.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

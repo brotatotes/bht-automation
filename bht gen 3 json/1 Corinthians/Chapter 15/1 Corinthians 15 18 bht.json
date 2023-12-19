@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:13:46",
+    "verseRef": "1 Corinthians 15:18",
+    "bestBHT": {
+        "bht": "The apostle Paul uses the metaphor of believers who have died as having fallen asleep in Christ to console our grief and affirm their hope of resurrection. However, if there is no resurrection, then our faith and the hope of our departed loved ones are futile. The resurrection is crucial, for without it, there is no basis for believing in the immortality of the soul or a future state. Yet, those who sleep in Jesus will be brought with Him on the last day, never to perish again, but to be forever with Him and forever happy.",
+        "wordCount": 97,
+        "quoteTokenProportion": 49.25,
+        "qualityScore": 2.0151295002799396,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.34,
+        "commentatorTierSimilarities": [
+            29.31,
+            30.91,
+            39.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The act of falling asleep in Christ was to them perdition.\" ",
+            "When speaking of Christ, he calls it death, that he may confirm His suffering; but when speaking of us, he calls it sleep, that he may console our pangs.\" ",
+            "Where the resurrection is past, he is bold, and speaks of death: but where it is yet in hope, he speaks of sleep."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In Christ's case the term used is death, to assure us of the reality of His suffering; in our case, sleep, to give us consolation...\" (PHOTIUS)",
+            "In His case, His resurrection having actually taken place, Paul shrinks not from the term death; in ours, the resurrection being still only a matter of hope, he uses the term falling asleep.\" (PHOTIUS)",
+            "Perished - Their souls are lost; they are in misery in the unseen world."
+        ],
+        "Albert Barnes": [
+            "Can you believe it possible that the good people who have believed in the Lord Jesus are destroyed? Can you believe that your best friends, your kindred, and your fellow Christians who have died, have gone down to perdition?",
+            "There are multitudes who are made good men by the gospel. They are holy, humble, self-denying, and prayerful friends of God. 'They have become such by the belief of the death and resurrection of the Lord Jesus.' Can it be believed that they will be destroyed?",
+            "He, therefore, who becomes an infidel 'believes' that his pious friends - his sainted father, his holy mother, his lovely Christian sister or child, is deluded and deceived; that they will sink down to the grave to rise no more; that their hopes of heaven will all vanish, and that they will be destroyed with the profane, the impure, and the sensual."
+        ],
+        "John Calvin": [
+            "Of what advantage were it to the dead that they once were Christians? Hence our brethren who are now dead, did to no purpose live in the faith of Christ.",
+            "Although the souls of the dead are now living, and enjoy quiet repose, yet the whole of their felicity and consolation depends exclusively on the resurrection.",
+            "Hence as to the hope of the dead, all is over, unless that day shall sooner or later arrive."
+        ],
+        "Archibald T. Robertson": [
+            "Then also (\u03b1\u03c1\u03b1 \u03ba\u03b1). Inevitable inference.",
+            "Have perished (\u03b1\u03c0\u03c9\u03bb\u03bf\u03bd\u03c4\u03bf). Did perish.",
+            "Second aorist middle indicative of \u03b1\u03c0\u03bf\u03bb\u03bb\u03c5\u03bc, to destroy, middle, to perish (delivered up to eternal misery)."
+        ],
+        "John Gill": [
+            "death is often represented by a sleep... with a view to the resurrection, which will be an awaking out of it.",
+            "if there is no reason to believe the resurrection of the dead, there is no reason to believe the immortality of the soul, or a future state.",
+            "those that sleep in Jesus, will God bring with him at the last day, who shall be forever with him, and forever happy."
+        ],
+        "John Wesley": [
+            "They who sleep in Christ \u2014 Who have died for him, or believing in him.",
+            "Are perished \u2014 Have lost their life and being together."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul refers to believers who have died as having fallen asleep in Christ. This term is used to console our grief and acknowledge their hope of resurrection. However, some might question whether those who have died in Christ have actually perished. Paul's strong statement of then also leaves no room for doubt - if there is no resurrection, then our faith and the hope of our departed loved ones are all in vain. The resurrection is essential, for without it, not only would the dead have no hope, but there would also be no basis for believing in the immortality of the soul or a future state. But thanks be to God, those who sleep in Jesus will be brought with Him on the last day, never to perish again, but to be forever with Him and forever happy.",
+            "wordCount": 141,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.9764277961520307,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+            "commentatorTierSimilarities": [
+                30.4,
+                31.56,
+                38.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul uses the metaphor of believers who have died as having fallen asleep in Christ to console our grief and affirm their hope of resurrection. However, if there is no resurrection, then our faith and the hope of our departed loved ones are futile. The resurrection is crucial, for without it, there is no basis for believing in the immortality of the soul or a future state. Yet, those who sleep in Jesus will be brought with Him on the last day, never to perish again, but to be forever with Him and forever happy.",
+            "wordCount": 97,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 2.0151295002799396,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.34,
+            "commentatorTierSimilarities": [
+                29.31,
+                30.91,
+                39.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The concept of believers who have died being described as having fallen asleep in Christ offers consolation in the face of loss and affirms the hope of resurrection. However, the bold statement that if there is no resurrection, then our faith and the hope of our departed loved ones are all in vain emphasizes the indispensability of resurrection. Without it, there would be no reason to believe in the immortality of the soul or a future state. Fortunately, those who sleep in Jesus will be brought with Him on the last day, where they will be forever with Him and forever happy.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.9445243984321476,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                29.31,
+                31.72,
+                38.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To console our grief and acknowledge the hope of resurrection, the apostle Paul refers to believers who have died as having fallen asleep in Christ. However, if there is no resurrection, then our faith and the hope of our departed loved ones are all in vain. The resurrection is essential, for without it, there would be no reason to believe in the immortality of the soul or a future state. Yet, those who sleep in Jesus will be brought with Him on the last day, forever with Him and forever happy.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.9820389392972229,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                28.75,
+                30.72,
+                40.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul offers consolation by referring to believers who have died as having fallen asleep in Christ. However, if there is no resurrection, then our faith and the hope of our departed loved ones are in vain. Without resurrection, belief in the immortality of the soul or a future state becomes untenable. Thankfully, those who sleep in Jesus will be brought with Him on the last day, free from perishing and forever happy in His presence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.958591348466784,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                29.96,
+                30.22,
+                39.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

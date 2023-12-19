@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:27:15",
+    "verseRef": "Acts 7:17",
+    "bestBHT": {
+        "bht": "The people of Israel experienced an astonishing growth in numbers during their time in Egypt, far beyond what would be expected. Starting with only seventy-five souls, their multiplication over two centuries was nothing short of prodigious. This exponential increase was an extraordinary gift from God, demonstrating His faithfulness to fulfill His promise to Abraham. As the time of deliverance approached, the Israelites were being prepared for their liberation from Egypt. This remarkable growth served as a testament to God's unwavering commitment to His chosen people.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7265844692695587,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+        "commentatorTierSimilarities": [
+            20.88,
+            41.46,
+            37.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] according as, i.e. \u2018in proportion as;\u2019 not \u201cwhen,\u201d as A.V."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For more than two hundred years they amounted to no more than seventy-five souls; how prodigious, then, must have been their multiplication during the latter two centuries.\" ",
+            "When six hundred thousand men, fit for war, besides women and children, left Egypt!",
+            "How prodigious, then, must have been their multiplication during\u2026two centuries."
+        ],
+        "Albert Barnes": [
+            "The time of the promise - The time of the \u201cfulfillment\u201d of the promise.",
+            "The people grew ... - Exodus 1:7-9."
+        ],
+        "Marvin Vincent": [
+            "When [\u03ba\u03b1\u03b8\u03c9\u03c2] . Rev., more correctly, as; the word being not a particle of time, but meaning in proportion as."
+        ],
+        "John Calvin": [
+            "He setteth down this as a singular gift of God, that the people was increased, to the end we may know that that came not to pass according to the common or wonted custom of nature.",
+            "The sum is this; that God, being mindful of his promise, did increase the people in time, that he might perform that which he had sworn to Abraham; but the Jews (as they were unthankful and froward) did refuse the grace of God, so that they did what they could to shut up the way before themselves.",
+            "And to the end God may exercise the faith of his children so often as he appeareth with joyful tokens of grace, he setteth other things against those on the other side, which cut off suddenly the hope of salvation."
+        ],
+        "Philip Schaff": [
+            "They increased so rapidly in power as well as in numbers.",
+            "The marvellous increase of the little shepherd family, who had been settled in Egypt some two hundred years previously by the minister Joseph.",
+            "Well calculated to alarm the advisers of a Pharaoh who knew nothing of the claims of the Hebrew tribes upon the goodwill of the country."
+        ],
+        "Archibald T. Robertson": [
+            "Drew nigh (\u03b7\u03b3\u03b3\u03b9\u03b6\u03b5\u03bd). Imperfect active, was drawing nigh. "
+        ],
+        "John Gill": [
+            "But when the time of the promise drew nigh....when God promised to deliver the seed of Abraham out of their affliction and servitude.\" ",
+            "Though their number were but threescore and ten when they went down to Egypt...in little more than two hundred years, their number was increased to six hundred thousand.",
+            "And it seems, that they multiplied the more towards the time when the promise of deliverance drew nigh to be accomplished, and even when they were the most afflicted."
+        ],
+        "John Wesley": [
+            "Exodus 1:7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 7:17, it is emphasized that the growth of the Israelite people in Egypt was not a common or usual occurrence, but a remarkable gift from God, as indicated in the first-tier commentary. The multiplication of their numbers was indeed astounding, especially considering that they had started with only seventy-five souls. As the promise of deliverance drew near, their increase became even more rapid, causing concern among the Egyptians. This exponential growth was a testament to the faithfulness of God in fulfilling His promise to Abraham. This verse highlights that the time of the promise's fulfillment had arrived, and the people of Israel were being prepared for their deliverance from Egypt.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 1.7478108631662264,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                19.61,
+                39.51,
+                40.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During their time in Egypt, the people of Israel experienced extraordinary growth, far exceeding what would be considered normal. Their numbers multiplied exponentially, reaching six hundred thousand men, in addition to women and children, by the time the promise of deliverance drew near. This remarkable increase was not a result of natural means but a divine gift from God, demonstrating his faithfulness in fulfilling the covenant made with Abraham. The fulfillment of the promise was imminent, and the Israelites were being prepared for their liberation from Egypt.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.6752153394763898,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+            "commentatorTierSimilarities": [
+                17.78,
+                40.99,
+                41.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people of Israel experienced an astonishing growth in numbers during their time in Egypt, far beyond what would be expected. Starting with only seventy-five souls, their multiplication over two centuries was nothing short of prodigious. This exponential increase was an extraordinary gift from God, demonstrating His faithfulness to fulfill His promise to Abraham. As the time of deliverance approached, the Israelites were being prepared for their liberation from Egypt. This remarkable growth served as a testament to God's unwavering commitment to His chosen people.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7265844692695587,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                20.88,
+                41.46,
+                37.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During their time in Egypt, the people of Israel multiplied in an extraordinary manner. Starting with only seventy-five souls, their growth over the course of two centuries was nothing short of astounding. This miraculous increase was a gift from God, surpassing the norms of nature. As they approached the time of fulfillment of God's promise, the Israelites were being prepared for their deliverance from Egypt. This exponential growth served as a clear manifestation of God's faithfulness and His intention to fulfill His covenant with Abraham.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6419963692795867,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                19.36,
+                40.52,
+                40.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people of Israel experienced an incredible multiplication during their time in Egypt, far exceeding the norms of nature. Starting with only seventy-five, their numbers grew exponentially over two centuries. This astonishing increase was a divine gift, not a result of ordinary circumstances. As the time of deliverance drew near, the Israelites prepared for their freedom from Egypt. The abundant growth underscored God's faithfulness in fulfilling His promise to Abraham. His providence ensured that His chosen people would experience a remarkable multiplication, leading to their liberation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.6042750994588242,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.68,
+            "commentatorTierSimilarities": [
+                20.62,
+                41.82,
+                37.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

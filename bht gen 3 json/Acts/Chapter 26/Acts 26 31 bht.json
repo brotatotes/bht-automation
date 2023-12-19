@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:37:05",
+    "verseRef": "Acts 26:31",
+    "bestBHT": {
+        "bht": "In his trial, Paul is found innocent by the dignitaries, as they declare he doeth nothing worthy of death or bonds. His apologetic speech serves as evidence of his general character and life, reflecting the accusations made against him. Festus regrets not setting Paul free earlier, as the conclusion of the trial leaves him in a predicament. The favorable judgment on Paul not only brings renown to the gospel but also elicits a kinder attitude towards the Nazarene sect from King Agrippa II. This highlights how there is more required by God beyond a favorable judgment of a preacher.",
+        "wordCount": 99,
+        "quoteTokenProportion": 39.73,
+        "qualityScore": 1.9123858002063503,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+        "commentatorTierSimilarities": [
+            39.65,
+            31.02,
+            29.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "doeth nothing\" - said generally, of his life and habits.",
+            "No definite act was alleged against him: and his apologetic speech was in fact a sample of the acts of which he was accused.",
+            "his apologetic speech was in fact a sample of the acts of which he was accused."
+        ],
+        "Albert Barnes": [
+            "This man doeth nothing worthy of death.",
+            "It was a full acquittal from all the charges against him.",
+            "He went there with every favorable prospect of being acquitted there also."
+        ],
+        "Marvin Vincent": [
+            "Doeth. Referring, not to Paul 's past conduct, but to the general character of his life. "
+        ],
+        "John Calvin": [
+            "In that Paul is acquitted by the judgment of them all, it turned to the great renown of the gospel.",
+            "And when Festus agreeth to the rest he condemneth himself, seeing he had brought Paul into such straits through his unjust dealing, by bringing him in danger of his life under color of changing the place.",
+            "And though it seemeth that the appeal did hinder... he is content, and doth not seek to get out of that snare; not only because the matter was not even now safe and sound, but because he was admonished in the vision that he was also called by God to Rome."
+        ],
+        "Philip Schaff": [
+            "It tells us how groundless were the accusations made against him by those Jews whose dearest interest he, for the sake of his brother men, was compelled to attack tells us how blameless, how perfectly unselfish, was the whole tenor of that generous brave life.",
+            "Although, as the appeal to the emperor had been formally lodged, it was no longer in the power of any provincial official, however exalted, to acquit or to free, any more than to condemn and to punish the prisoner who had thus appealed to Rome.",
+            "Another result of Paul\u2019s great defence of Christianity before King Agrippa II. and the Procurator Festus, was, that from this time a kindly feeling seems to have sprung up in the king\u2019s heart towards that strange Nazarene sect which he tells us himself he once almost was persuaded to join."
+        ],
+        "Archibald T. Robertson": [
+            "They spake one to another... describing the eager conversation of the dignitaries about Paul's wonderful speech.",
+            "Nothing worthy of death or bonds... This is the unanimous conclusion of all these dignitaries.",
+            "The conclusion leaves Festus in a predicament. Why had he not set Paul free before this?"
+        ],
+        "John Gill": [
+            "This man doth nothing worthy of death, or of bonds.\" ",
+            "According to the Roman laws.",
+            "For as yet there were no laws among the Romans against the Christians as such, or against their professing and preaching Christ."
+        ],
+        "John Wesley": [
+            "This man doth nothing worthy of death, or of bonds \u2014 They speak of his whole life, not of one action only.\" ",
+            "And could ye learn nothing more than this from that discourse?",
+            "A favourable judgment of such a preacher, is not all that God requires."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the book of Acts, there is a scene where Paul is on trial before various dignitaries. Throughout the trial, these officials are in agreement that Paul doeth nothing worthy of death or of bonds. It is observed that Paul's apologetic speech serves as a testimony to the general character of his life and habits, providing a sample of the acts for which he was accused. Festus, who was presiding over the trial, finds himself in a predicament as he realizes that he should have set Paul free earlier. This favorable judgment not only vindicates Paul but also brings great renown to the gospel. Furthermore, Paul's defense of Christianity not only persuaded King Agrippa II but also seemed to foster a kinder attitude towards the Nazarene sect. Ultimately, it is emphasized that a favorable judgment of a preacher like Paul is not enough; there is more to be learned and required by God.",
+            "wordCount": 155,
+            "quoteTokenProportion": 41.0,
+            "qualityScore": 1.90695049557388,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                41.25,
+                27.85,
+                30.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Throughout the trial, the dignitaries unanimously declare that Paul doeth nothing worthy of death or bonds. His apologetic speech serves as a sample of the acts for which he was accused, vindicating his general character and life. Festus finds himself regretting not freeing Paul earlier. The favorable judgment not only brings great renown to the gospel but also strengthens King Agrippa II's inclination towards the Nazarene sect. However, it is emphasized that a preacher's favorable judgment is not enough; God requires more to be learned from Paul's defense of Christianity.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.854174449802148,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                40.12,
+                30.01,
+                29.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his trial, Paul is found innocent by the dignitaries, as they declare he doeth nothing worthy of death or bonds. His apologetic speech serves as evidence of his general character and life, reflecting the accusations made against him. Festus regrets not setting Paul free earlier, as the conclusion of the trial leaves him in a predicament. The favorable judgment on Paul not only brings renown to the gospel but also elicits a kinder attitude towards the Nazarene sect from King Agrippa II. This highlights how there is more required by God beyond a favorable judgment of a preacher.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.9123858002063503,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                39.65,
+                31.02,
+                29.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the trial, the dignitaries unanimously agree that Paul doeth nothing worthy of death or bonds. His apologetic speech provides a sample of the acts of which he was accused, vindicating his character and life. Festus is left in a predicament, realizing he should have set Paul free earlier. The favorable judgment not only brings renown to the gospel but also fosters a kinder attitude towards the Nazarene sect in King Agrippa II. However, it is emphasized that a preacher's favorable judgment is not all that God requires.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.812839678671076,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.62,
+            "commentatorTierSimilarities": [
+                40.69,
+                28.87,
+                30.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul is found innocent by the dignitaries, who state that he doeth nothing worthy of death or bonds. His apologetic speech serves as proof of his accused acts, affirming his blameless and unselfish life. Festus, realizing his mistake, regrets not setting Paul free earlier. This favorable judgment not only brings renown to the gospel but also softens King Agrippa II's perspective on the Nazarene sect. However, it is emphasized that more than a favorable judgment is required by God from preachers like Paul.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.8474054499941772,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+            "commentatorTierSimilarities": [
+                39.65,
+                29.34,
+                31.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

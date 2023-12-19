@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:40:02",
+    "verseRef": "1 Peter 4:17",
+    "bestBHT": {
+        "bht": "In the season of God's judgment, it begins with the house of God where even the godly face chastening judgments as a foretaste of what awaits the ungodly. This judgment is a severe trial that tests the value of one's professed faith. And for those who disobey the gospel of God, the end will be unimaginable. While the punishment for the wicked may be delayed, it will ultimately be certain. The judgment of God extends beyond the Church into the world, leaving us in silent wonder at its magnitude.",
+        "wordCount": 91,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 2.1346641036022254,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.32,
+        "commentatorTierSimilarities": [
+            36.11,
+            35.46,
+            28.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is the season of the judgment beginning at the house of God.\" ",
+            "But if first it begin at us, what will be the end of them that disobey the gospel of God?",
+            "The blessed tidings of the very God who is to judge them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Judgment must begin at the house of God\u2014the Church of living believers.",
+            "God limits the destroyer's power over His people.",
+            "If even the godly have chastening judgments now, how much more shall the ungodly be doomed to damnatory judgments at last."
+        ],
+        "Albert Barnes": [
+            "That judgment must begin - The word 'judgment' here (\u03ba\u03c1\u03b9\u0301\u03bc\u03b1 krima) seems to mean 'the severe trial which would determine character.' It refers to such calamities as would settle the question whether there was any religion, or would test the value of that which was professed.\" ",
+            "And if it first begin at us, what shall the end be of them that obey not the gospel of God? - If God brings such trials upon us who have obeyed his gospel, what have we not reason to suppose he will bring upon those who are yet in their sins?",
+            "The punishment of the wicked is merely delayed. It begins at the house of God. Christians are tried, and are recalled from their wanderings, and are prepared by discipline for the heavenly world. The punishment of the wicked is often delayed to a future world, and in this life they have almost uninterrupted prosperity, but in the end it will be certain."
+        ],
+        "John Calvin": [
+            "For except we desire to be blotted out from the number of the faithful, we must submit our backs to the scourges of God.",
+            "Now, it is a sweet consolation, that God does not execute his judgments on us as on others, but that he makes us the representatives of his own Son, when we do not suffer except for his cause and for his name.",
+            "God so regulates his judgments in this world, that he fattens the wicked for the day of slaughter. He therefore passes by their many sins, and, as it were, connives at them. In the meantime, he restores by corrections his own children, for whom he has a care, to the right way, whenever they depart from it."
+        ],
+        "Philip Schaff": [
+            "The judgment by which God is to search all is already on the wing.",
+            "The judgment of God works its searching course out of the Church into the world of heathenism.",
+            "There is no speaking of it: a curtain is drawn; silent wonder expresses it best, telling it cannot be expressed."
+        ],
+        "Archibald T. Robertson": [
+            "The persecution on hand was a foretaste of more to come.\" ",
+            "And if it begin first at us, End of them that obey not the gospel of God.\" ",
+            "Of those disobeying the gospel of God."
+        ],
+        "John Gill": [
+            "By judgment is meant, not punishment for sin, strictly speaking, because Christ has endured this in the room and stead of his church and people, and therefore in justice cannot be inflicted on them; but afflictions and persecutions, and which are fatherly chastisements, and different from God's judgment on the world, and condemnation with it.",
+            "The first times of Christianity, or of the preaching of the Gospel, were times of trouble and distress; for as it was necessary the Gospel should be confirmed by signs and wonders, so that it should be tried and proved by the sufferings of the saints for it.",
+            "What shall the end of such be? in this world wrath came upon them to the uttermost, ruin upon their nation, city, and temple; and in the world to come everlasting destruction from the presence of the Lord, and eternal vengeance in flames of fire."
+        ],
+        "John Wesley": [
+            "The time is come for judgment to begin at the house of God...both in justice and mercy.",
+            "How terribly will he visit them! The judgments which are milder at the beginning, grow more and more severe.",
+            "But good men, having already sustained their part, are only spectators of the miseries of the wicked."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Peter 4:17, the writer speaks of a season of judgment that begins at the house of God, the Church of living believers. It is a time when God limits the power of the destroyer over His people, and even the godly face chastening judgments as a foretaste of what is to come for the ungodly. This judgment is a severe trial that determines character, testing the value of one's professed faith. And if judgment begins with the faithful, one can only imagine what will be the end for those who disobey the gospel of God. This punishment may be delayed for the wicked, but it will be certain. The judgment of God works its searching course out of the Church into the heathen world, leaving us in silent wonder, unable to fully express its magnitude.",
+            "wordCount": 136,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 2.1166213405343743,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+            "commentatorTierSimilarities": [
+                32.97,
+                37.35,
+                29.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the season of God's judgment, it begins with the house of God where even the godly face chastening judgments as a foretaste of what awaits the ungodly. This judgment is a severe trial that tests the value of one's professed faith. And for those who disobey the gospel of God, the end will be unimaginable. While the punishment for the wicked may be delayed, it will ultimately be certain. The judgment of God extends beyond the Church into the world, leaving us in silent wonder at its magnitude.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.1346641036022254,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.32,
+            "commentatorTierSimilarities": [
+                36.11,
+                35.46,
+                28.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The season of judgment commences at the house of God, where even the godly face chastening judgments. These trials serve as a foretaste for the ungodly, showcasing the severity of their ultimate fate. The judgment is a severe trial that tests the authenticity of one's faith. The punishment for the wicked may experience delays, but its certainty remains. God's judgment extends beyond the Church, reaching into the heathen world, leaving us in a state of silent wonder, unable to fully express its magnitude.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9406843902173179,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                32.81,
+                36.44,
+                30.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a season of judgment that begins at the house of God, even the godly face trials as a preview of the fate awaiting the ungodly. This severe test examines the value of one's faith. For those who disobey the gospel, the unimaginable end looms. Although punishment for the wicked may be delayed, it is certain. God's judgment extends beyond the Church into the world, leaving us in awe and speechless, unable to fully fathom its implications.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8552803619841594,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.03,
+            "commentatorTierSimilarities": [
+                35.0,
+                34.74,
+                30.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The season of judgment starts with the house of God, where the believers face chastening judgments as a preview of what awaits the disobedient. These trials are severe tests that reveal the worth of one's faith. As for the ungodly, their end is unimaginable. While the punishment for them may be delayed, it remains certain. God's judgment extends even beyond the Church, leaving us in silent wonder unable to fully articulate the magnitude of its impact.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7610890610444243,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+            "commentatorTierSimilarities": [
+                35.33,
+                34.68,
+                29.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

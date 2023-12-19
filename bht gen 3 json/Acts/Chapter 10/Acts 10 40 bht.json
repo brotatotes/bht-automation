@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:29:26",
+    "verseRef": "Acts 10:40",
+    "bestBHT": {
+        "bht": "The certainty of Jesus' resurrection is indisputable, as affirmed by Acts 10:40. While He did not openly reveal Himself to everyone, His resurrection remains an undoubted fact. Peter proclaims Jesus as the Lord of all, granting peace and exercising judgment. Forgiveness through Jesus is the crucial theme of Peter's discourse. The rare expression gave Him to become visibly manifest underscores the undeniable truth of Jesus' resurrection, demonstrating His victory over death and the grave.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.7615473404289386,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.91,
+        "commentatorTierSimilarities": [
+            21.03,
+            36.55,
+            42.42
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not the less certain, therefore, was the fact of His resurrection, though withholding Himself from general gaze in His risen body.",
+            "He had before proclaimed Him 'Lord of all,' for the dispensing of 'peace' to all alike now he announces Him in the same supreme lordship, for the exercise of judgment upon all alike.",
+            "But, forgiveness through this exalted One is the closing note of Peter's beautifully simple discourse."
+        ],
+        "Albert Barnes": [
+            "Showed him openly - Manifestly; so that there could be no deception, no doubt of his resurrection."
+        ],
+        "Marvin Vincent": [
+            "Shewed him openly [\u03b5\u03b4\u03c9\u03ba\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd \u03b5\u03bc\u03c6\u03b1\u03bd\u03b7 \u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1\u03b9] . Lit., gave him to become manifest. Compare, for the construction, ch. 2 27."
+        ],
+        "Philip Schaff": [
+            "Him God raised up on the third day.",
+            "The Resurrection is the culminating point of the apostolic testimony concerning Jesus Christ.",
+            "Literally, \u2018gave Him to become visibly manifest.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Gave him to be made manifest (\u03b5\u03b4\u03c9\u03ba\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd \u03b5\u03bc\u03c6\u03b1\u03bd\u03b7 \u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1).\" ",
+            "Peculiar phrase, here only in the N.T.",
+            "\u0395\u03bc\u03c6\u03b1\u03bd\u03b7, predicate accusative after infinitive \u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1 agreeing with \u03b1\u03c5\u03c4\u03bf\u03bd object of \u03b5\u03b4\u03c9\u03ba\u03b5\u03bd."
+        ],
+        "John Gill": [
+            "Him God raised up the third day, according to the Scriptures.\" ",
+            "The resurrection of Christ, though it is sometimes ascribed to himself, as God, whereby he was declared to be the Son of God, yet generally to God the Father.",
+            "By which full proof was given of the truth of his resurrection, in which he appeared to be the conqueror over death and the grave."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in Acts 10:40 affirms the certainty of Jesus' resurrection. Though He did not make Himself visibly known to everyone after His resurrection, His resurrection was undeniable. Just as Peter had proclaimed Jesus as the Lord of all who brings peace to all, he now declares Jesus as the ultimate judge who exercises judgment over all. Furthermore, Peter emphasizes that forgiveness is available through Jesus, highlighting the closing message of his discourse. The phrase gave Him to become visibly manifest is a unique expression used here, signifying the unquestionable reality of Jesus' resurrection.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.7713016293103072,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                23.15,
+                35.28,
+                41.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The certainty of Jesus' resurrection is affirmed as the first-tier commentary emphasizes that His resurrection was a definite reality, even though He did not reveal Himself openly to everyone. The commentator also highlights Peter's declaration of Jesus as the Lord of all who dispenses peace and exercises judgment. Additionally, forgiveness through Jesus is emphasized as the main theme of Peter's discourse. A unique phrase is used to convey the unquestionable nature of Jesus' resurrection, signifying its undeniable truth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.667273928934172,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                21.27,
+                35.53,
+                43.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The certainty of Jesus' resurrection is unquestionable, as the first-tier commentary states that His resurrection, though not openly displayed, is a certain fact. Peter's message affirms Jesus as the supreme Lord who brings peace to all and also exercises judgment. The main thrust of Peter's discourse is forgiveness through Jesus. A unique phrase, gave Him to become visibly manifest, is used to emphasize the undeniable reality of Jesus' resurrection.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.7386000447630843,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.15,
+            "commentatorTierSimilarities": [
+                25.28,
+                35.16,
+                39.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The certainty of Jesus' resurrection is affirmed in Acts 10:40. Although He did not openly show Himself to everyone, the fact of His resurrection remains unquestionable. Peter declares Jesus as the Lord of all, bestowing peace and exercising judgment. Forgiveness through Jesus is the central theme of Peter's message. The phrase gave Him to become visibly manifest uniquely emphasizes the undeniable reality of Jesus' resurrection, proving His triumph over death and the grave.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.732405717038609,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.94,
+            "commentatorTierSimilarities": [
+                21.07,
+                36.55,
+                42.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The certainty of Jesus' resurrection is indisputable, as affirmed by Acts 10:40. While He did not openly reveal Himself to everyone, His resurrection remains an undoubted fact. Peter proclaims Jesus as the Lord of all, granting peace and exercising judgment. Forgiveness through Jesus is the crucial theme of Peter's discourse. The rare expression gave Him to become visibly manifest underscores the undeniable truth of Jesus' resurrection, demonstrating His victory over death and the grave.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7615473404289386,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.91,
+            "commentatorTierSimilarities": [
+                21.03,
+                36.55,
+                42.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:15:54",
+    "verseRef": "Luke 7:1",
+    "bestBHT": {
+        "bht": "After finishing his teachings, Jesus spoke in the hearing of the people, concluding the previous chapter. This took place in Capernaum, where he had previously healed a centurion's servant, and in the presence of the people. The public nature of Jesus's teaching is emphasized, as well as his return to a place where miracles were performed.",
+        "wordCount": 58,
+        "quoteTokenProportion": 39.02,
+        "qualityScore": 1.4475000705170522,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.47,
+        "commentatorTierSimilarities": [
+            22.22,
+            36.1,
+            41.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "In the audience of the people - In the hearing of the people."
+        ],
+        "Marvin Vincent": [
+            "Sayings [\u03c1\u03b7\u03bc\u03b1\u03c4\u03b1] . See on ch. Luke 1:37. ",
+            "In the ears [\u03b5\u03b9\u03c2 \u03c4\u03b1\u03c2 \u03b1\u03ba\u03bf\u03b1\u03c2] . Lit., into the ears. See on ears, Luke 4:37."
+        ],
+        "Archibald T. Robertson": [
+            "This verse really belongs as the conclusion of Chapter 6, not as the beginning of Chapter 7.",
+            "Both Matthew 8:5-13; Luke 7:1-10 locate the healing of the centurion's servant in Capernaum where Jesus was after the Sermon on the Mount.",
+            "The causal sense occurs only in Luke and Paul, for \u03b5\u03c0\u03b5 is the correct text in Matthew 21:46."
+        ],
+        "John Gill": [
+            "When Jesus ... had finished all the above sayings, doctrines, and instructions; not all that he had to say, for he said many things after this.",
+            "In the audience of the people ... openly, and publicly, and with a loud and clear voice, that all might hear.",
+            "Jesus entered ... into his own city, and where he had been before, and wrought miracles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Jesus finished speaking all of his teachings, he stood in the hearing of the people and gave them another saying. This verse serves as the conclusion to the previous chapter, rather than the opening of a new one. Jesus was in Capernaum, where he had healed a centurion's servant, and this event took place in the presence of the people. The passage emphasizes the public nature of Jesus's teaching and his return to a place where he had previously performed miracles.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.44236732970351,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.3,
+            "commentatorTierSimilarities": [
+                27.0,
+                29.45,
+                43.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Jesus finished speaking all of his teachings, he stood in the hearing of the people and gave them another saying. This verse serves as the conclusion to the previous chapter, rather than the beginning of a new one. Jesus was in Capernaum, where he had formerly healed a centurion's servant, and this happened in the presence of the people. The event highlights the public nature of Jesus's teaching and his return to a place where he had previously performed miracles.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.413880115505795,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.35,
+            "commentatorTierSimilarities": [
+                27.45,
+                28.69,
+                43.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After finishing his teachings, Jesus spoke in the hearing of the people, concluding the previous chapter. This took place in Capernaum, where he had previously healed a centurion's servant, and in the presence of the people. The public nature of Jesus's teaching is emphasized, as well as his return to a place where miracles were performed.",
+            "wordCount": 58,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.4475000705170522,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.47,
+            "commentatorTierSimilarities": [
+                22.22,
+                36.1,
+                41.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Jesus finished speaking all of his teachings, he stood in the hearing of the people and gave them another saying. This verse serves as the conclusion to the previous chapter, rather than the beginning of a new one. Jesus was in Capernaum, where he had formerly healed a centurion's servant, and this happened in the presence of the people. The event highlights the public nature of Jesus's teaching and his return to a place where he had previously performed miracles.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.413880115505795,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.35,
+            "commentatorTierSimilarities": [
+                27.45,
+                28.69,
+                43.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After finishing his teachings, Jesus spoke in the hearing of the people, concluding the previous chapter. This took place in Capernaum, where he had previously healed a centurion's servant, and in the presence of the people. The public nature of Jesus's teaching is emphasized, as well as his return to a place where miracles were performed.",
+            "wordCount": 58,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.4475000705170522,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.47,
+            "commentatorTierSimilarities": [
+                22.22,
+                36.1,
+                41.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

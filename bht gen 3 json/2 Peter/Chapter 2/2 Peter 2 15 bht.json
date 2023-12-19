@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:40:50",
+    "verseRef": "2 Peter 2:15",
+    "bestBHT": {
+        "bht": "These false teachers have forsaken the right way and gone astray, following in the footsteps of Balaam, who loved the wages of unrighteousness. Balaam was a prophet who, driven by the love of gain, used his position for wicked ends. They spread deadly poison in their teaching, seeking to destroy the simple. Like Balaam's counsel enticed Israel to fleshly lust and idolatry, these false teachers lead others away from the path of truth. They are like wells without water and mists driven by a whirlwind, destined for the blackness of darkness.",
+        "wordCount": 92,
+        "quoteTokenProportion": 30.3,
+        "qualityScore": 1.9516053070782315,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+        "commentatorTierSimilarities": [
+            36.35,
+            30.33,
+            33.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Which have forsaken the right way and are gone astray, following out the way of Balaam, who loved the wages of unrighteousness.",
+            "A dumb beast of burden speaking in man\u2019s voice hindered the madness of the prophet.",
+            "These are wells without water and mists driven along by a whirlwind, for whom the blackness of darkness is reserved."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "son of Bosor\u2014the same as Beor... Balaam is justly termed son of carnality, as covetous, and the enticer of Israel to lust.",
+            "loved the wages of unrighteousness\u2014and therefore wished to curse Israel... and at last gave the hellish counsel... to entice them to fleshly lust and idolatry.",
+            "the only way to bring God's curse on Israel was to entice them to fleshly lust and idolatry, which often go together."
+        ],
+        "Albert Barnes": [
+            "Religion is often represented as a straight path, and to do wrong is to go out of that path in a crooked way.",
+            "He [Balaam] was supremely influenced by the love of gain, and was capable of being employed, for a price, in a wicked design; thus prostituting his high office, as a professed prophet of the Most High, to base and ignoble ends.",
+            "Balaam was undoubtedly a wicked man, and was constrained by a power from on high to utter sentiments which God meant should be uttered, but which Balaam would never have expressed of his own accord."
+        ],
+        "Marvin Vincent": [
+            "Right [\u03b5\u03c5\u03b8\u03b5\u03b9\u03b1\u03bd] . Lit., straight, which is the radical meaning of right."
+        ],
+        "John Calvin": [
+            "They spread by their teaching the deadly poison of impiety, in order that they might destroy the simple.",
+            "Balaam was reproved by an ass, and that thus his madness was condemned.",
+            "The mouth of the ass was opened, that he who had been unwilling to submit to God\u2019s authority might have that as his teacher."
+        ],
+        "Philip Schaff": [
+            "The strong verb for a following which amounts to close pursuit or imitation is used here again, as in chap. 2Pe 1:16 , 2 Peter 2:2.",
+            "It is supposed by some that reference is made here to Balaam\u2019s counsel in the matter of tempting Israel to sensuality (Numbers 31:16).",
+            "The lust of gain which Balaam formally denied was, as the tenor of the O. T. narrative clearly shows, the thing that shaped his action."
+        ],
+        "Archibald T. Robertson": [
+            "The right way, 'the straight way' of 1 Samuel 12:23, 'the way of truth.'\" ",
+            "They went astray, like Mark 12:24.",
+            "These false teachers, as shown in verse 2 Peter 2:13, followed the way of Balaam, 'who loved the hire of wrong-doing.'"
+        ],
+        "John Gill": [
+            "The right way of the Lord, the way of truth, the Gospel of truth; or Christ, who is the way, the truth, and the life; the true way to eternal life, and which is the right way to eternal happiness",
+            "the path of covetousness, uncleanness, and idolatry",
+            "and these he loved, desired, and greedily coveted"
+        ],
+        "John Wesley": [
+            "The way of Balaam the son of Bosor \u2014 So the Chaldeans pronounced what the Jews termed Beor; namely, the way of covetousness.",
+            "Who loved \u2014 Earnestly desired, though he did not dare to take, the reward of unrighteousness - The money which Balak would have given him for cursing Israel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These false teachers have forsaken the right way and gone astray, following in the footsteps of Balaam, who loved the wages of unrighteousness. Balaam, a prophet, was tempted by the love of gain and was willing to use his position for wicked purposes. Like a dumb beast speaking in man's voice hindered the madness of the prophet, their teaching spreads deadly poison in order to destroy the simple. Just as Balaam's counsel enticed Israel to fleshly lust and idolatry, these false teachers lead others astray from the path of truth. Ultimately, they are like wells without water and mists driven along by a whirlwind, destined for the blackness of darkness.",
+            "wordCount": 112,
+            "quoteTokenProportion": 28.21,
+            "qualityScore": 2.0211749159344365,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                36.37,
+                31.95,
+                31.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These false teachers have forsaken the right way and gone astray, following in the footsteps of Balaam, who loved the wages of unrighteousness. Balaam was a prophet who, driven by the love of gain, used his position for wicked ends. They spread deadly poison in their teaching, seeking to destroy the simple. Like Balaam's counsel enticed Israel to fleshly lust and idolatry, these false teachers lead others away from the path of truth. They are like wells without water and mists driven by a whirlwind, destined for the blackness of darkness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.9516053070782315,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                36.35,
+                30.33,
+                33.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These false teachers have forsaken the right way and gone astray, following the way of Balaam, who loved the wages of unrighteousness. Balaam, known as the son of carnality, enticed Israel to lust and idolatry, forsaking God's authority. Their teaching spreads deadly poison, seeking to destroy the simple. However, they are like wells without water and mists driven by a whirlwind, destined for the blackness of darkness. Falling into the same pattern, these false teachers indulge in covetousness, uncleanness, and idolatry, driven by their greed for selfish gain.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.8661377845718934,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                36.17,
+                27.23,
+                36.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These false teachers have forsaken the right way and gone astray, following the way of Balaam, who loved the wages of unrighteousness. Balaam, as son of carnality, enticed Israel to lust and idolatry, which often go together. Their teaching spreads deadly poison, seeking to destroy the simple. However, they are like wells without water and mists driven by a whirlwind, destined for the blackness of darkness. They are driven by the lust of gain, coveting and desiring the rewards of unrighteousness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.9115092252767059,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+            "commentatorTierSimilarities": [
+                36.92,
+                27.94,
+                35.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These false teachers have forsaken the right way and gone astray, following the way of Balaam, who loved the wages of unrighteousness. They spread deadly poison through their teaching, seeking to destroy the simple. Just as Balaam's counsel enticed Israel to fleshly lust and idolatry, these false teachers lead others astray from the path of truth. They are like wells without water and mists driven along by a whirlwind, destined for the blackness of darkness. Their actions are governed by covetousness, uncleanness, and idolatry, driven by their insatiable cravings for unholy gain.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.8494283618812037,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.84,
+            "commentatorTierSimilarities": [
+                38.1,
+                27.67,
+                34.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

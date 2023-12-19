@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:30:23",
+    "verseRef": "Acts 13:4",
+    "bestBHT": {
+        "bht": "Under the guidance of the Spirit, the missionaries set sail from Seleucia ad Mare to Cyprus, as it was the native country of Barnabas and his kinsman Mark. Their nearness to the mainland and the presence of pre-existing Christians in Cyprus made it a strategic choice for their mission. By following the track of the synagogues and making connections with the proselytes and Hellenizing Jews, they sought to reach the Gentiles on the island. Through the leading of the Holy Spirit, they embarked on a journey that would contribute to the successful evangelization of Cyprus.",
+        "wordCount": 96,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.9107447113337075,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+        "commentatorTierSimilarities": [
+            32.13,
+            35.31,
+            32.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Under the guidance of the Spirit, who directed their course.",
+            "It was called Seleucia ad Mare,\u2014and Pieria, from Mount Pierius, on which it was built, to distinguish it from other Syrian towns of the same name.",
+            "It was the native country of Barnabas,\u2014and, as John Mark was his kinsman, they were likely to find more acceptance there than in other parts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Four reasons may have induced them to turn in first to this island: (1) Its nearness to the mainland; (2) It was the native place of Barnabas, and since the time when Andrew found his brother Simon, and brought him to Jesus, and 'Jesus loved Martha, and her sister, and Lazarus,' family ties had not been without effect on the progress of the Gospel. (3) It could not be unnatural to suppose that the truth would be welcomed in Cyprus when brought by Barnabas and his kinsman Mark, to their own connections or friends. The Jews were numerous in Salamis.\" ",
+            "By sailing to that city, they were following the track of the synagogues; and though their mission was chiefly to the Gentiles, their surest course for reaching them was through the proselytes and Hellenizing Jews.",
+            "Some of the Cypriotes were already Christians. Indeed, no one place out of Palestine, except Antioch, had been so honorably associated with the work of successful evangelization."
+        ],
+        "Albert Barnes": [
+            "Being sent forth by the Holy Ghost - Having been called to this world by the Holy Spirit, and being under his direction.",
+            "Seleucia united the two characters of a fortress and a seaport.",
+            "Here, in the midst of unsympathizing sailors, the two missionary apostles, with their younger companion, stepped on board the vessel which was to convey them to Salamis."
+        ],
+        "Marvin Vincent": [
+            "Sailed. On Luke's use of words for sailing, see Introduction."
+        ],
+        "John Calvin": [
+            "There is no mention made here of the election made by the Church, because it was altogether a divine calling.",
+            "The Church did only receive those who were offered them by the hand of God.",
+            "He saith, that they came first to Seleucia, which was a city of Syria."
+        ],
+        "Philip Schaff": [
+            "Cyprus was chosen, for it was the fatherland of Barnabas, who looked for at least a kindly reception and a welcome among his connections and family; at all events, they would not be quite friendless, these two solitary men, at the first stage of their dangerous mission journey.",
+            "It was from this port of the luxurious and wicked Antioch that used to sail year by year, to Rome and Italy, that swarm of miserable and degraded beings Juvenal tells us of, when he writes of the corruption of Rome, and how much of it was due to Syria and its fatal influences.",
+            "The beautiful island was only a few hours\u2019 sail from Seleucia, being distant about forty-eight miles from the Syrian coast. Cyprus is 130 miles long, and in one part of the island 50 miles in breadth. It was famous for its corn and oil and fruits."
+        ],
+        "Archibald T. Robertson": [
+            "Luke again refers to the Holy Spirit as the source of their authority for this campaign rather than the church at Antioch.",
+            "Sent forth. Old verb from \u03b5\u03ba\u03c0\u03b5\u03bc\u03c0\u03c9 and first aorist passive participle, but in the N.T. only here and Acts 17:10.",
+            "Sailed. Effective aorist active indicative of \u03b1\u03c0\u03bf\u03c0\u03bb\u03b5\u03c9, old verb to sail away, depart from. In the N.T. only here and Acts 14:26; Acts 20:15; Acts 27:1."
+        ],
+        "John Gill": [
+            "It was the Holy Ghost that moved the prophets at Antioch to separate them from them, and to send them away.",
+            "Saul and Barnabas made no stay here; and it seems that their coming hither was only in order to take shipping for the island of Cyprus.",
+            "An island in the Mediterranean sea, the native country of Barnabas."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Under the guidance of the Spirit, the missionaries set sail from Seleucia ad Mare, a city in Syria known for being the native place of Barnabas. They chose Cyprus as their first destination for several reasons: its proximity to the mainland, the likely acceptance of their message among Barnabas' connections and friends, and the presence of Cypriotes who were already Christians. Despite being primarily focused on reaching the Gentiles, they saw the synagogues in Cyprus as a way to spread the Gospel. By following the leading of the Holy Spirit, they embarked on a journey that would contribute to the successful evangelization of the island.",
+            "wordCount": 105,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.9351234826092087,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "commentatorTierSimilarities": [
+                33.41,
+                33.42,
+                33.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Under the guidance of the Spirit, the missionaries set sail from Seleucia ad Mare, likely to find acceptance in Cyprus due to Barnabas' connections and friends. By following the leading of the Holy Spirit, they embarked on a journey that contributed to the successful evangelization of the island. Despite primarily focusing on reaching the Gentiles, they saw the synagogues in Cyprus as a way to spread the Gospel. Through their obedience and the work of the Holy Spirit, they were able to make an impact in spreading the truth in Cyprus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.864812144711319,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                35.03,
+                33.92,
+                31.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Under the guidance of the Spirit, the missionaries set sail from Seleucia ad Mare to Cyprus, as it was the native country of Barnabas and his kinsman Mark. Their nearness to the mainland and the presence of pre-existing Christians in Cyprus made it a strategic choice for their mission. By following the track of the synagogues and making connections with the proselytes and Hellenizing Jews, they sought to reach the Gentiles on the island. Through the leading of the Holy Spirit, they embarked on a journey that would contribute to the successful evangelization of Cyprus.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9107447113337075,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+            "commentatorTierSimilarities": [
+                32.13,
+                35.31,
+                32.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Under the guidance of the Spirit, the missionaries set sail from Seleucia ad Mare to the island of Cyprus. This choice was strategic due to its proximity to the mainland and the presence of pre-existing Christians on the island. As Barnabas' native country, it was likely to provide a welcoming reception for their message. By following the track of the synagogues and making connections with the proselytes and Hellenizing Jews, they sought to effectively reach the Gentiles. Through obedience to the Holy Spirit's leading, they embarked on a journey that would contribute to the successful evangelization of Cyprus.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.740300867183983,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.21,
+            "commentatorTierSimilarities": [
+                32.31,
+                33.94,
+                33.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Under the guidance of the Spirit, the missionaries set sail from Seleucia ad Mare to the island of Cyprus. This choice was strategic due to its proximity to the mainland and the presence of pre-existing Christians on the island. By following the track of the synagogues and making connections with the proselytes and Hellenizing Jews, they sought to effectively reach the Gentiles. Through obedience to the Holy Spirit's leading, they embarked on a journey that would contribute to the successful evangelization of Cyprus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.773948970108764,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                32.67,
+                35.38,
+                31.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:34:06",
+    "verseRef": "Acts 20:12",
+    "bestBHT": {
+        "bht": "After falling from the third story, Eutychus was revived by Paul, emphasizing the power of this miraculous restoration. His friends were comforted by witnessing this resurrection and their faith was strengthened. The impact of this miracle confirmed the Gospel to them, reminding us to awaken from spiritual slumber and embrace the life-giving power of the Gospel. This account serves as a powerful reminder of the potential for renewal and the presence of the Lord among believers.",
+        "wordCount": 77,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 1.4977809008653136,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.14,
+        "commentatorTierSimilarities": [
+            20.73,
+            48.46,
+            30.81
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As in the raising of Jairus\u2019s daughter, our Lord commanded that something should be given her to eat, that nature might be recruited, so doubtless here rest and treatment were necessary, in order that the restored life might be confirmed, and the shock recovered.",
+            "The time indicated by break of day must have been before or about 5 A.M.: which would allow about four hours since the miracle.",
+            "Paul, we learn afterwards, ver. 13, intended to go afoot. And accordingly here we have it simply related that he started away from Troas before his companions, not remaining for the reintroduction of the now recovered Eutychus in ver. 12."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10-12. Paul . . . fell on him\u2014like",
+            "\tElisha (2 Kings 4:34). ",
+            "\t",
+            "his life is in him\u2014now",
+            "\trestored; compare Mark 5:39."
+        ],
+        "Albert Barnes": [
+            "Not a little comforted - By the fact that he was alive; perhaps also strengthened by the evidence that a miracle had been performed."
+        ],
+        "Philip Schaff": [
+            "Stress should be laid on the word \u2018alive,\u2019 as standing with the word \u2018dead\u2019 in Acts 20:9.",
+            "His friends and fellow-worshippers \u2018were not a little comforted\u2019 by the restoration to life again of one whom they were already mourning for as dead.",
+            "They felt, then, these Christians of Troas, in a way possibly they had never felt before, that, when two or three were gathered together, there the Lord was indeed in the midst."
+        ],
+        "Archibald T. Robertson": [
+            "They brought the lad alive... Evidently the special friends of the lad who now either brought him back to the room or (Rendall) took him home to his family.\" ",
+            "Not a little... Luke is fond of this use of the figure litotes (use of the negative) instead of the strong positive.",
+            "D (Codex Bezae) has here instead of \u03b7\u03b3\u03b1\u03b3\u03bf\u03bd these words: \u03b1\u03bb\u03c0\u03b1\u03b6\u03bf\u03bc\u03b5\u03bd\u03c9\u03bd \u03b4\u03b5 \u03b1\u03c5\u03c4\u03c9\u03bd \u03b7\u03b3\u03b1\u03b3\u03b5\u03bd \u03c4\u03bf\u03bd \u03bd\u03b5\u03b1\u03bd\u03b9\u03c3\u03ba\u03bf\u03bd \u03b6\u03c9\u03bd\u03c4\u03b1 (while they were saying farewell he brought the young man alive). This reading pictures the joyful scene over the lad's restoration as Paul was leaving."
+        ],
+        "John Gill": [
+            "And they brought the young man alive... and presented him alive to the disciples.\" ",
+            "The disciples... were not a little comforted.\" ",
+            "By this miracle the Gospel... was greatly confirmed to them."
+        ],
+        "John Wesley": [
+            "But alas! How many... have slept the sleep of eternal death, and fallen to rise no more!",
+            "How many of those who have allowed themselves to sleep under sermons...",
+            "...or as it were to dream awake..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After falling from the third story and being declared dead, Eutychus was miraculously revived by Paul. The use of the phrase his life is in him signifies the restoration of his once lifeless body and emphasizes the power of this miracle. This extraordinary event brought great joy and comfort to Eutychus' friends and fellow believers, who had been grieving over his loss. The impact of this miracle served as a confirmation of the Gospel and deepened their faith in the presence of the Lord among them. This account reveals the potential for physical and spiritual revitalization, reminding us to wake from spiritual slumber and embrace the life-giving power of the Gospel.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.4959218654837674,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.08,
+            "commentatorTierSimilarities": [
+                21.11,
+                48.37,
+                30.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After falling from the third story and being declared dead, Eutychus was miraculously revived by Paul. The phrase his life is in him emphasizes the power of this restoration. This extraordinary event brought great joy and comfort to Eutychus' friends and fellow believers, confirming the Gospel to them. It reminds us to wake from spiritual slumber and embrace the life-giving power of the Gospel, as there are many who have fallen into eternal death.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.4798505388414565,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.55,
+            "commentatorTierSimilarities": [
+                21.66,
+                45.01,
+                33.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After falling from the third story and being declared dead, Eutychus was miraculously revived by Paul. The use of the phrase his life is in him signifies the restoration of his once lifeless body and emphasizes the power of this miracle. This extraordinary event brought great joy and comfort to Eutychus' friends and fellow believers, who had been grieving over his loss. The impact of this miracle served as a confirmation of the Gospel and deepened their faith in the presence of the Lord among them. This account is a powerful reminder to wake from spiritual slumber and embrace the life-giving power of the Gospel.",
+            "wordCount": 106,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.5181191051352854,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.82,
+            "commentatorTierSimilarities": [
+                20.91,
+                47.91,
+                31.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After falling from the third story, Eutychus was revived by Paul, emphasizing the power of this miraculous restoration. His friends were comforted by witnessing this resurrection and their faith was strengthened. The impact of this miracle confirmed the Gospel to them, reminding us to awaken from spiritual slumber and embrace the life-giving power of the Gospel. This account serves as a powerful reminder of the potential for renewal and the presence of the Lord among believers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.4977809008653136,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.14,
+            "commentatorTierSimilarities": [
+                20.73,
+                48.46,
+                30.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After falling from the third story, Eutychus was miraculously revived by Paul. The phrase his life is in him emphasizes the power of this restoration. This extraordinary event brought great comfort to Eutychus' friends, confirming the Gospel and deepening their faith. It reminds us to wake from spiritual slumber and embrace the life-giving power of the Gospel. Many have fallen into eternal death, but this story highlights the potential for both physical and spiritual revitalization.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.4276812199587943,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.81,
+            "commentatorTierSimilarities": [
+                20.87,
+                44.1,
+                35.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

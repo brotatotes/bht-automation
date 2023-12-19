@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 13:53:10",
+    "verseRef": "Philippians 1:14",
+    "bestBHT": {
+        "bht": "Encouraged by Paul's bonds and trusting in the Lord, the brethren are venturing more abundantly to speak the word fearlessly. Paul's endurance in the midst of suffering serves as a practical testimony to the power of the Gospel, inspiring their faith and giving them the confidence to boldly proclaim the truth. They see his imprisonment as a demonstration of God's work and are emboldened to overcome their fears, speaking the word with greater zeal and courage.",
+        "wordCount": 79,
+        "quoteTokenProportion": 29.63,
+        "qualityScore": 2.2735729744579958,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.94,
+        "commentatorTierSimilarities": [
+            30.91,
+            33.63,
+            35.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Encouraged by my bonds, are venturing more abundantly to speak the word fearlessly.",
+            "For if the preaching were not of God, Paul would not have endured to be bound for it.",
+            "They are venturing more abundantly to speak the word fearlessly."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And that (Philippians 1:13) most of the brethren in the Lord...",
+            "Trusting in the Lord.",
+            "Are more abundantly bold."
+        ],
+        "Albert Barnes": [
+            "And many of the brethren - Many Christians.",
+            "Waxing confident by my bonds - Becoming increasingly bold and zealous in consequence of my being confined.",
+            "In Paul himself they had an illustration of the power of religion, and being convinced of its truth, they went and proclaimed it abroad."
+        ],
+        "Marvin Vincent": [
+            "Brethren in the Lord does not occur in the New Testament.\" ",
+            "The bonds awaken confidence as being the practical testimony to the power of the Gospel for which Paul is imprisoned, and therefore an encouragement to their faith.",
+            "The boldness required to profess Christ within the precincts of the palace is illustrated by the graffito or wall - scribble discovered in 1857 among the ruins."
+        ],
+        "John Calvin": [
+            "The tortures of the saints, endured by them in behalf of the gospel, are a ground of confidence to us.",
+            "When we see the hand of the Lord, which makes his people unconquerable under the infirmity of the Cross, we ought to venture farther than we had been accustomed.",
+            "The knowledge of this ought to overcome our fears, that we may speak boldly in the midst of dangers."
+        ],
+        "Philip Schaff": [
+            "And that most of the brethren in the Lord...includes all who in any way identified themselves with the cause of Christ, whether their adherence were very sincere or not.",
+            "When they saw Paul still earnest in the preaching of Christ in spite of the suffering which it had brought upon him, they were more induced to believe in the reality of his teaching, seeing him thus supported under afflictions.",
+            "They might have been bold under other circumstances had they heard the Gospel from St. Paul while he was at liberty, but the apostle seems to declare that in the present case they are more courageous than they would then have been."
+        ],
+        "Archibald T. Robertson": [
+            "The more part of the brethren.\" ",
+            "In the Lord.\" ",
+            "By means of Paul's bonds the brethren 'are more abundantly bold'."
+        ],
+        "John Gill": [
+            "waxing confident by my bonds, are much more bold to speak the word without fear",
+            "their confidence the Lord; whose presence, power, grace, and Spirit, emboldened them the more by the apostle's bonds to preach the Gospel with courage and intrepidity",
+            "they feared not what men could do unto them; or else being animated by the apostle's patience and firmness of mind in suffering, and by the use they saw his bonds were of for the spread of the Gospel, they took heart and courage to 'speak the word'"
+        ],
+        "John Wesley": [
+            "And many \u2014 Who were before afraid.",
+            "Trusting in the Lord through my bonds \u2014 When they observed my constancy, and safety not withstanding, are more bold."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The brethren, encouraged by Paul's bonds and trusting in the Lord, are becoming more bold and fearless in speaking the word. By witnessing Paul's endurance and the power of the Gospel in his imprisonment, they are growing in confidence and zeal. They are inspired by his example and are venturing more abundantly to proclaim the truth of Christ, even in the face of danger. This serves as a practical testimony to the transformative power of the Gospel and strengthens their faith in Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.190285077933641,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.17,
+            "commentatorTierSimilarities": [
+                31.84,
+                36.88,
+                31.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The brethren, emboldened by Paul's bonds and the practical testimony they provide, are growing in confidence and venturing more boldly to proclaim the word of God. Through Paul's endurance and unwavering faith amidst suffering, they see the power of the Gospel in action. This inspires them to overcome their fears and boldly speak the truth of Christ, even in the midst of opposition. Their trust in the Lord, coupled with the example of Paul's steadfastness, fuels their courage to spread the message of salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 2.122338194777934,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.91,
+            "commentatorTierSimilarities": [
+                29.51,
+                36.11,
+                34.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The brethren, encouraged by Paul's bonds and trusting in the Lord, are becoming more bold and fearless in speaking the word. Witnessing Paul's endurance and the power of the Gospel in his imprisonment, they grow in confidence and zeal. Inspired by his example, they venture more abundantly to proclaim the truth of Christ, even in the face of danger. This practical testimony serves as a testament to the transformative power of the Gospel and strengthens their faith in Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.17625765426187,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.7,
+            "commentatorTierSimilarities": [
+                31.39,
+                36.71,
+                31.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The brethren, encouraged by Paul's bonds and trusting in the Lord, are venturing more boldly to speak the word fearlessly. Witnessing Paul's endurance in the face of suffering and imprisonment, they are emboldened to proclaim the truth of the Gospel with confidence. Through Paul's example, they see the practical testimony of the power of the Gospel and are inspired to overcome their fears. Their increased boldness serves as a testament to the transforming work of Christ and strengthens their faith in Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.221707327416105,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.21,
+            "commentatorTierSimilarities": [
+                31.23,
+                36.12,
+                32.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Encouraged by Paul's bonds and trusting in the Lord, the brethren are venturing more abundantly to speak the word fearlessly. Paul's endurance in the midst of suffering serves as a practical testimony to the power of the Gospel, inspiring their faith and giving them the confidence to boldly proclaim the truth. They see his imprisonment as a demonstration of God's work and are emboldened to overcome their fears, speaking the word with greater zeal and courage.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.2735729744579958,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.94,
+            "commentatorTierSimilarities": [
+                30.91,
+                33.63,
+                35.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

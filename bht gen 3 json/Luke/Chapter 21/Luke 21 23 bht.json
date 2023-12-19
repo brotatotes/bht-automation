@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:22:35",
+    "verseRef": "Luke 21:23",
+    "bestBHT": {
+        "bht": "There will be a severe tribulation and distress of great violence and anguish on the earth, especially for this nation. False Christs will try to deceive even the elect, but those days will be shortened for their sake. The distress will primarily affect the land of Judea, and it will be a result of divine retribution and the wrath of man. This time of tribulation will be unparalleled, with an intensity of suffering that has never been seen before.",
+        "wordCount": 79,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 1.720037275621129,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+        "commentatorTierSimilarities": [
+            33.22,
+            35.0,
+            31.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "23.] on the earth, general\u2014for this people, particular. The distres on all the earth is not so distinctly the result of the divine anger, as that which shall befall this nation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For then shall be tribulation such as was not since the beginning of the world, nor ever shall be.",
+            "And except those days should be shortened, there should no flesh be saved, but for the elect's sake those days shall be shortened.",
+            "False Christs who should, 'if possible'\u2014a precious clause\u2014'deceive the very elect.'"
+        ],
+        "Marvin Vincent": [
+            "Distress [\u03b1\u03bd\u03b1\u03b3\u03ba\u03b7] . Originally constraint, necessity; thence force or violence, and in the classical poets, distress, anguish."
+        ],
+        "Philip Schaff": [
+            "Upon the land, or \u2018earth.\u2019 This may be general, but as the direct reference is to the war under Titus, it more probably means: the land of Judea.",
+            "If the wider sense be adopted, the particular distress (Divine retribution) is brought out in the clause: wrath unto this people."
+        ],
+        "John Gill": [
+            "There shall be great distress in the land; of Judea...the distress was very great, and such a time of tribulation, as was never known since the beginning of the world, nor never will be the like.\" ",
+            "Their miseries are not to be expressed.",
+            "The wrath of God, as well as of man, which came upon them to the uttermost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There will be a severe tribulation on the earth, particularly for the people of this nation. The distress during this time will be unparalleled, as it will be a time of great violence and anguish. It will be a time of deceit, where false Christs will attempt to deceive even the chosen ones. This tribulation will be so intense that if it were not shortened, no one would survive. The distress will primarily be focused on the land of Judea, and it will be a result of both divine retribution and the wrath of man. The miseries experienced during this time cannot be adequately expressed, as it will be the greatest distress ever known.",
+            "wordCount": 114,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.6401573282265192,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.88,
+            "commentatorTierSimilarities": [
+                32.82,
+                33.41,
+                33.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There will be a severe tribulation on the earth, particularly for this nation. The distress during this time will be unparalleled and of great violence and anguish. False Christs will try to deceive even the chosen ones. If not shortened, no one would survive. The distress will be primarily focused on the land of Judea, a result of divine retribution and the wrath of man. The miseries experienced cannot be expressed, as it will be the greatest distress ever known.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4930616836968682,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.99,
+            "commentatorTierSimilarities": [
+                32.85,
+                31.49,
+                35.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "There will be a great distress on earth, particularly for this nation, with violence and anguish like never before. False Christs will deceive even the elect, if possible. If those days are not shortened, no one would survive. The distress will specifically impact the land of Judea, a result of divine retribution and the wrath of man. The miseries experienced during this time are beyond words, as it will be the most extreme distress in history.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.5917813083246302,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.27,
+            "commentatorTierSimilarities": [
+                36.0,
+                32.86,
+                31.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There will be a severe tribulation, a distress of great violence and anguish on the earth, particularly for this nation. It will be a time of deceit, with false Christs attempting to deceive even the chosen ones. Those days will be shortened for the sake of the elect. The distress will be mainly focused on the land of Judea, as a result of divine retribution and the wrath of man. This will be a time of unprecedented tribulation, unparalleled in its intensity and suffering.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.6048128592557789,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.7,
+            "commentatorTierSimilarities": [
+                32.76,
+                33.05,
+                34.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "There will be a severe tribulation and distress of great violence and anguish on the earth, especially for this nation. False Christs will try to deceive even the elect, but those days will be shortened for their sake. The distress will primarily affect the land of Judea, and it will be a result of divine retribution and the wrath of man. This time of tribulation will be unparalleled, with an intensity of suffering that has never been seen before.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.720037275621129,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                33.22,
+                35.0,
+                31.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

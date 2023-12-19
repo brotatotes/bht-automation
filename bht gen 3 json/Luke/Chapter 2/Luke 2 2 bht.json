@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:14:00",
+    "verseRef": "Luke 2:2",
+    "bestBHT": {
+        "bht": "It is highly probable that Quirinus was twice governor of Syria, with the first tenure aligning with the birth of Jesus. Scholars argue that a registration for population assessment likely took place around the time of Jesus' birth, even though the actual taxation occurred later. The idea of periodic registrations is supported by Ramsay's findings of a fourteen-year census in Egypt. The difficulty arises from the fact that Quirinius became governor of Syria only years after Jesus' birth, but it is improbable that Luke would have made such a mistake.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.2342774770809144,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.63,
+        "commentatorTierSimilarities": [
+            27.47,
+            37.43,
+            35.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But it has been made highly probable, by A.W. Zampt of Berlin, that Quirinus was TWICE governor of Syria.",
+            "I may mention it as remarkable, that Justin Martyr (Century 2) three times distinctly asserts that our Lord was born under Quirinus, and appeals to the register then made, as if from it the fact might, if necessary, be confirmed.",
+            "We conclude then, that an assessment or enrolment of names with a view to ascertain the population of the empire, was commanded and put in force at this time."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That there was a taxing, however, of the whole Roman Empire under Augustus, is now admitted by all and candid critics, even of skeptical tendency, are ready to allow that there is not likely to be any real inaccuracy in the statement of our Evangelist.",
+            "Many superior scholars would render the words thus, 'This registration was previous to Cyrenius being governor of Syria'\u2014as the word 'first' is rendered in John 1:15; John 15:18. In this case, of course, the difficulty vanishes.",
+            "But it is perhaps better to suppose, with others, that the registration may have been ordered with a view to the taxation, about the time of our Lord's birth, though the taxing itself\u2014an obnoxious measure in Palestine\u2014was not carried out till the time of Quirinus."
+        ],
+        "Albert Barnes": [
+            "This verse has given as much perplexity, perhaps, as any one in the New Testament.",
+            "The difficulty consists in the fact that 'Cyrenius,' or 'Quirinius,' was not governor of Syria until 12 or 15 years after the birth of Jesus.",
+            "According to his view, the passage here means, 'This was the 'first' census of Cyrenius, governor of Syria.' It is called the 'first' to distinguish it from one 'afterward' taken by Cyrenius, Acts 5:37."
+        ],
+        "Marvin Vincent": [
+            "This occurred as the first enrolment.",
+            "This was the first enrolment made.",
+            "With reference to a second enrolment which took place about eleven years later."
+        ],
+        "Philip Schaff": [
+            "The man referred to undoubtedly is P. Sulpicius Quirinius (not Quirinus); the office was that of president or governor of a Roman province.",
+            "We hold that Quirinius was twice governor of Syria, the first time about the date usually assigned to the birth of Christ.",
+            "A mistake on the part of so careful an investigator is out of the question. If Quirinius had not been governor of Syria at that time, there were many persons living who could and would have pointed out the mistake."
+        ],
+        "Archibald T. Robertson": [
+            "Ramsay has shown that a periodical fourteen-year census in Egypt is given in dated papyri back to A.D. 20.\" ",
+            "But Ramsay has proven by inscriptions that Quirinius was twice in Syria and that Luke is correct here also.",
+            "This is in the time of Augustus. The first would then be B.C. 8 in Egypt. If it was delayed a couple of years in Palestine by Herod the Great for obvious reasons, that would make the birth of Christ about B.C. 6 which agrees with the other known data."
+        ],
+        "John Gill": [
+            "And this taxing was first made... in the Jewish nation.",
+            "It is reported of R. Gamaliel, that he went to take a licence, 'from a governor of Syria'; i.e. to intercalate the year.",
+            "Syria was in many things like to the land of Judea, particularly as to tithes, and the keeping of the seventh year."
+        ],
+        "John Wesley": [
+            "When Cyrenius was governor of Syria \u2014 When Publius Sulpicius Quirinus governed the province of Syria, in which Judea was then included."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It has been speculated that Quirinus was twice governor of Syria, with the first tenure coinciding with the birth of Jesus. Some even suggest that the registration mentioned in the verse may have been ordered in preparation for a future taxation. Scholars have argued that there is no real inaccuracy in the statement made by Luke regarding the taxing of the whole Roman Empire under Augustus. The reference to the first enrolment implies that there may have been a second one later on. Ramsay's findings of a periodical census in Egypt support the idea of periodic registrations. The perplexity surrounding this verse arises from the fact that Quirinius is believed to have become governor of Syria only years after Jesus' birth. However, it is unlikely that Luke, a careful investigator, would have made such a mistake.",
+            "wordCount": 137,
+            "quoteTokenProportion": 39.77,
+            "qualityScore": 1.9543376100562129,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                30.11,
+                38.28,
+                31.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is highly probable that Quirinus was twice governor of Syria, with the first tenure aligning with the birth of Jesus. Scholars argue that a registration for population assessment likely took place around the time of Jesus' birth, even though the actual taxation occurred later. The idea of periodic registrations is supported by Ramsay's findings of a fourteen-year census in Egypt. The difficulty arises from the fact that Quirinius became governor of Syria only years after Jesus' birth, but it is improbable that Luke would have made such a mistake.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.2342774770809144,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.63,
+            "commentatorTierSimilarities": [
+                27.47,
+                37.43,
+                35.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "There is speculation that Quirinus was appointed as governor of Syria on two occasions, with the first tenure coinciding with the birth of Jesus. It is believed that the registration mentioned in the verse was likely ordered in preparation for a future census. The mention of the first enrollment suggests that a second one occurred later on. Ramsay's research on periodic census in Egypt lends support to the idea of regular registrations. Though some find difficulty in reconciling the timing, it is improbable that Luke made an error.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8377836491816142,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                33.68,
+                36.37,
+                29.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is highly probable that Quirinus was twice governor of Syria, with the first tenure possibly aligning with the birth of Jesus. This suggests that the registration mentioned in the quote may have been ordered in preparation for a future census or taxation. Ramsay's findings of periodic censuses in Egypt support the idea of regular registrations. While some struggle with reconciling the timing, it is unlikely that Luke, a careful investigator, made an error in his account.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8677619773918002,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+            "commentatorTierSimilarities": [
+                31.75,
+                35.68,
+                32.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is highly likely that Quirinus served as governor of Syria twice, with the first tenure occurring around the time of Jesus' birth. This implies that the registration mentioned in the passage may have been ordered in preparation for a future census or taxation. Scholars acknowledge that a periodic census was conducted in Egypt, supporting the notion of regular registrations. While there is difficulty in reconciling the timing, it is improbable that Luke, known for his meticulous research, would have made a mistake in his account.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9231978987319156,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.29,
+            "commentatorTierSimilarities": [
+                30.71,
+                35.58,
+                33.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 16:22:08",
+    "verseRef": "Luke 20:30",
+    "bestBHT": {
+        "bht": "The second brother abided by the law and married his deceased brother's wife, as he was obliged to do. Tragically, like his elder brother before him, he also died without leaving any offspring. Their union was an act of responsibility in accordance with the law, but it did not bring forth the desired outcome of having children.",
+        "wordCount": 58,
+        "quoteTokenProportion": 47.92,
+        "qualityScore": 1.8402318085526481,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "And the second took her to wife,.... As he was obliged by the above law, or pluck off the shoe.\" ",
+            "and he died childless: as his eldest brother before him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 20:30, the second tier of marriage law is discussed. This law, which required a man to marry his deceased brother's widow if there were no children, was upheld in this case. The second brother fulfilled his duty by marrying her, but sadly, he also passed away without leaving any children. They both followed the law, yet their union was not fruitful.",
+            "wordCount": 63,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.3839894066744238,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.36,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this case, the second brother adhered to the law by marrying his deceased sibling's widow. Tragically, like his elder brother before him, he also died without producing any children. Although they fulfilled their obligations under the law, their marriage did not result in offspring.",
+            "wordCount": 46,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.6836460529395332,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The second brother followed the above law by marrying his deceased brother's wife, adhering to the custom of taking her as his own. Unfortunately, just like his older brother, he also passed away without leaving any children behind. The marriage, though legally enacted, did not lead to the desired outcome of bearing offspring.",
+            "wordCount": 54,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6981937042318027,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In obeying the law, the second brother took his deceased brother's widow as his wife and, like his elder brother, died without producing any children. Their union was based on fulfilling the requirement set forth in the law, but it did not result in the desired outcome of having offspring.",
+            "wordCount": 51,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4211322495251668,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.6,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The second brother abided by the law and married his deceased brother's wife, as he was obliged to do. Tragically, like his elder brother before him, he also died without leaving any offspring. Their union was an act of responsibility in accordance with the law, but it did not bring forth the desired outcome of having children.",
+            "wordCount": 58,
+            "quoteTokenProportion": 47.92,
+            "qualityScore": 1.8402318085526481,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

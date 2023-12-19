@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:08:52",
+    "verseRef": "Titus 1:8",
+    "bestBHT": {
+        "bht": "A minister of the gospel must be a lover of hospitality, showing kindness and generosity towards others. They should also be a lover of good men, valuing what is morally upright and virtuous. It is crucial for them to be sober, exercising self-restraint and prudence in their actions. They should exhibit self-control and moderation in all aspects of their lives, both physically and mentally. Additionally, a minister must be just and holy, treating others with fairness and integrity, and faithfully guiding and advising them.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.3969234664942962,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.79,
+        "commentatorTierSimilarities": [
+            21.3,
+            35.52,
+            43.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "lover of hospitality\u2014needed especially in those days",
+            "lover of good men\u2014Greek, 'a lover of (all that is) good,' men or things",
+            "sober\u2014towards one's self; 'discreet'; 'self-restrained'"
+        ],
+        "Albert Barnes": [
+            "A man who sustains the office of a minister of the gospel, should love every good object, and be ever ready to promote it; and he should love every good man, no matter in what denomination or country he may be found - no matter what his complexion, and no matter what his rank in life.",
+            "A minister can do little good who is not [just]; compare the notes at Philippians 4:8.",
+            "[Temperate] implies control over all our passions and appetites."
+        ],
+        "Marvin Vincent": [
+            "A lover of hospitality [\u03c6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03bf\u03bd], hospitable.",
+            "A lover of good men [\u03c6\u03b9\u03bb\u03b1\u03b3\u03b1\u03b8\u03bf\u03bd], lover of good.",
+            "Temperate [\u03b5\u03b3\u03ba\u03c1\u03b1\u03c4\u03b7], controlling, keeping in hand."
+        ],
+        "John Calvin": [
+            "A bishop will never teach well, who is not also ready to learn.",
+            "If they refuse to be admonished, if they reject good advices, they will immediately fall headlong to the grievous injury of the Church.",
+            "The remedy against these evils, therefore, is, that they be not wise to themselves."
+        ],
+        "Philip Schaff": [
+            "On the contrary, he should be hospitable, having then frequent occasion to entertain brethren on their travels.",
+            "A lover of good, i.e. disposed to generous actions.",
+            "Temperate, as to one\u2019s own appetites and passions self-restrained."
+        ],
+        "Archibald T. Robertson": [
+            "A lover of good (\u03c6\u03b9\u03bb\u03b1\u03b3\u03b1\u03b8\u03bf\u03bd). Late double compound (\u03c6\u03b9\u03bb\u03bf\u03c3, \u03b1\u03b3\u03b1\u03b8\u03bf\u03c2).",
+            "Just (\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03bd), holy (\u03bf\u03c3\u03b9\u03bf\u03bd) not in Titus 1:1.",
+            "Temperate (\u03b5\u03b3\u03ba\u03c1\u03b1\u03c4\u03b7). Old and common adjective (\u03b5\u03bd, \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2, strength), having power over, controlling, here only in N.T. Picture of self-control."
+        ],
+        "John Gill": [
+            "or 'of good men'; for such an elder or bishop has chiefly to do and converse with; and if he is not a lover of them, their company will be disagreeable to him, and he will be of no advantage to them; and if he does not love the souls of men, he will not naturally care for their state, or be concerned for their good.",
+            "Sober: in body, using moderation in diet and dress; and in mind, being prudent, modest, and humble, and thinking soberly of himself, and others, as he ought.",
+            "Just; righteous in his dealings with men, giving to everyone their due; upright and sincere in his conversation with the saints; and faithful in his counsel, admonitions, and reproofs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A minister of the gospel must love and promote every good object and be ready to support every good person, regardless of their background or status. They should exhibit self-control and moderation, restraining their passions and appetites. It is important for them to be hospitable and to entertain fellow believers on their journeys. They must be disposed to generous actions and genuinely care for the souls and well-being of others. Additionally, they should be righteous in their dealings and faithful in their counsel and reproofs.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.3959669726320907,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.76,
+            "commentatorTierSimilarities": [
+                14.68,
+                42.2,
+                43.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A minister of the gospel must be a lover of hospitality, showing kindness and generosity towards others. They should also be a lover of good men, valuing what is morally upright and virtuous. It is crucial for them to be sober, exercising self-restraint and prudence in their actions. They should exhibit self-control and moderation in all aspects of their lives, both physically and mentally. Additionally, a minister must be just and holy, treating others with fairness and integrity, and faithfully guiding and advising them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.3969234664942962,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.79,
+            "commentatorTierSimilarities": [
+                21.3,
+                35.52,
+                43.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A minister of the gospel should possess a deep love for hospitality, embracing the opportunity to show kindness and generosity to others in need. They should also cultivate a genuine love for all that is good, valuing and promoting virtuous actions. It is crucial for them to exercise self-control and restraint, both in their physical and mental life. Additionally, they should exemplify justice and holiness, treating others with fairness, sincerity, and offering faithful guidance and counsel.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.2824216407681608,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.98,
+            "commentatorTierSimilarities": [
+                17.99,
+                38.16,
+                43.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A minister of the gospel is called to be a lover of hospitality, demonstrating kindness and generosity to others. They should also have a genuine love for all that is good, valuing and encouraging virtuous actions. It is essential for them to exercise self-restraint and control, both in their physical and mental lives. Additionally, they ought to be just and holy, treating others with fairness and sincerity, and offering faithful guidance and counsel.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.299524286793603,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.55,
+            "commentatorTierSimilarities": [
+                19.2,
+                38.44,
+                42.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A minister of the gospel is expected to exemplify the qualities of a lover of hospitality, showing kindness and generosity to others in a welcoming manner. They should also have a sincere love for all that is good, valuing and promoting virtuous actions in their own lives and in the lives of others. It is important for them to exercise self-control and restraint, demonstrating moderation in their behavior and thoughts. In addition, they should strive to be just and righteous, treating others with fairness and integrity while providing faithful guidance and counsel.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.3448491557759459,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.06,
+            "commentatorTierSimilarities": [
+                19.18,
+                37.28,
+                43.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

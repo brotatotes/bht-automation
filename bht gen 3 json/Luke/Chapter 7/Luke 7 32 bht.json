@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:16:17",
+    "verseRef": "Luke 7:32",
+    "bestBHT": {
+        "bht": "These little children, either playing at weddings or mourning at funerals, symbolize those who stubbornly refuse to partake in either celebration or sorrow. Their choice to abstain demonstrates their ignorance, lack of understanding, foolishness, and weakness. Just as the children in the market place are difficult to please, these individuals resist any attempts to engage with them. It is clear that they resemble the very children they criticize, rather than those who are being criticized.",
+        "wordCount": 75,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 1.37758833399801,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+        "commentatorTierSimilarities": [
+            38.82,
+            0.0,
+            61.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Children [\u03c0\u03b1\u03b9\u03b4\u03b9\u03bf\u03b9\u03c2] . Diminutive; little children.",
+            "We piped. Playing at wedding. Mourned [\u03b5\u03b8\u03c1\u03b7\u03bd\u03b7\u03c3\u03b1\u03bc\u03b5\u03bd] . Rev., much better, wailed : playing at funeral.",
+            "Weep [\u03b5\u03ba\u03bb\u03b1\u03c5\u03c3\u03b1\u03c4\u03b5] . Of audible weeping."
+        ],
+        "Archibald T. Robertson": [
+            "And ye did not weep... They all did it at funerals.",
+            "These children would not play wedding or funeral.",
+            "They all did it at funerals. These children would not play wedding or funeral."
+        ],
+        "John Gill": [
+            "They are like to children... for their ignorance, and want of understanding, their folly and weakness.",
+            "They, together with Christ, and John the Baptist, are in general likened to children, sitting in the market place.",
+            "The children that imitated the pipers represent Christ and his disciples, who delivered the joyful sound of the Gospel."
+        ],
+        "John Wesley": [
+            "They are like children sitting in the market place \u2014 So froward and perverse, that no contrivance can be found to please them.",
+            "It is plain our Lord means, that they were like the children complained of, not like those that made the complaint."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These little children, playing at weddings and funerals, are likened to the people in this verse who refuse to join in the joy or sorrow of the situation. They are obstinate and refuse to participate in either celebration or mourning. They are called children because of their ignorance and lack of understanding, their foolishness and weakness. Just as the children in the market place are hard to please, these people are unyielding and resistant to any attempts to engage them. It is clear from this comparison that they resemble the children they complain about, rather than those who made the complaint.",
+            "wordCount": 101,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.4795541121182396,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.54,
+            "commentatorTierSimilarities": [
+                38.04,
+                0.0,
+                61.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Like children who refuse to play along, these little ones choose not to participate in the festivities or mourn with those around them. They are obstinate and unyielding, lacking in understanding and wisdom. Just as the children in the market place are difficult to please, these individuals resist any attempts to engage them. They resemble the children they criticize, rather than those they criticize.",
+            "wordCount": 64,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.2837544317323106,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.03,
+            "commentatorTierSimilarities": [
+                32.59,
+                0.0,
+                67.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These little children, playing at weddings and funerals, are likened to the people in this verse who refuse to join in the joy or sorrow of the situation. They are obstinate and refuse to participate in either celebration or mourning. They are called children because of their ignorance and lack of understanding, their foolishness and weakness. Just as the children in the market place are hard to please, these people are unyielding and resistant to any attempts to engage them. It is clear from this comparison that they resemble the children they complain about, rather than those who made the complaint.",
+            "wordCount": 101,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.4795541121182396,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.54,
+            "commentatorTierSimilarities": [
+                38.04,
+                0.0,
+                61.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These little children who either played at weddings or mourned at funerals symbolize those in this passage who stubbornly refuse to participate in either celebration or sorrow. Their choice to abstain reveals their ignorance, lack of understanding, foolishness, and weakness. Just as the children in the market place are difficult to please, these individuals resist any attempts to engage with them. It is evident that they resemble the very children they criticize, rather than those who are receiving the complaint.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.3327119505568565,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.66,
+            "commentatorTierSimilarities": [
+                35.34,
+                0.0,
+                64.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These little children, either playing at weddings or mourning at funerals, symbolize those who stubbornly refuse to partake in either celebration or sorrow. Their choice to abstain demonstrates their ignorance, lack of understanding, foolishness, and weakness. Just as the children in the market place are difficult to please, these individuals resist any attempts to engage with them. It is clear that they resemble the very children they criticize, rather than those who are being criticized.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.37758833399801,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+            "commentatorTierSimilarities": [
+                38.82,
+                0.0,
+                61.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

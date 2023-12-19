@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:08:37",
+    "verseRef": "1 Corinthians 9:13",
+    "bestBHT": {
+        "bht": "The apostle Paul asserts that ministers of religion, like the Jewish priests and Levites who performed sacred rites and partook with the altar, should be supported in their work. He draws upon the belief that just as the Levitical priests received maintenance from their ministry at the temple, it is reasonable to expect that ministers of the gospel should also be provided with a suitable livelihood. This analogy underscores the importance of supporting those who serve in the work of spreading the gospel.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 2.004627951138721,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+        "commentatorTierSimilarities": [
+            26.84,
+            34.07,
+            39.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "minister about holy things\u2014the Jewish priests and Levites.",
+            "The Greek especially applies to the former, the priests offering sacrifices.",
+            "partakers with the altar\u2014a part of the victims going to the service of the altar, and the rest being shared by the priests."
+        ],
+        "Albert Barnes": [
+            "The argument of the apostle here is this: 'As the ministers of religion under the Jewish dispensation were entitled to support by the authority and the law of God, that fact settles a general principle which is applicable also to the gospel, that he intends that the ministers of religion should derive their support in their work.'",
+            "If it was reasonable then, it is reasonable now. If God commanded it then, it is to be presumed that he intends to require it now.",
+            "The ministers of religion were entitled to a support from the fact that those who were appointed to offer sacrifice receive a maintenance in their work."
+        ],
+        "Marvin Vincent": [
+            "Minister [\u03b5\u03c1\u03b3\u03b1\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . Lit, work or perform. Never in classical Greek of being engaged in sacred rites.",
+            "Wait [\u03c0\u03b1\u03c1\u03b5\u03b4\u03c1\u03b5\u03c5\u03bf\u03bd\u03c4\u03b5\u03c2] . Etymologically akin to paredrov sitting beside. See on ch. 1 Corinthians 7:35. Ony here in the New Testament.",
+            "Altar [\u03b8\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03c9] . See on Acts 17:23."
+        ],
+        "John Calvin": [
+            "The sum is this \u2014 'The Levitical priests were ministers of the Israelitish Church; the Lord appointed them sustenance from their ministry; hence in ministers of the Christian Church the same equity must be observed at the present day.'\" ",
+            "Hence appears the absurdity of those who apply this comparison, taken from sacrifices, to anything else than the preaching of the gospel.",
+            "Nay farther, it may be readily inferred from this passage, that all Popish priests, from the head himself to the lowest member, are guilty of sacrilege, who devour the revenues appointed for true ministers, while they do not in any way discharge their duty."
+        ],
+        "Philip Schaff": [
+            "Know ye not that they which minister about sacred things eat of the things of the temple?\" ",
+            "The Gentile converts are supposed to be aware of this, mixing constantly with their Jewish fellow-converts.",
+            "The practice in their own pagan worship was analogous."
+        ],
+        "Archibald T. Robertson": [
+            "Sacred things (\u03c4\u03b1 \u03b9\u03b5\u03c1\u03b1). Of the temple (\u03c4\u03bf\u03c5 \u03b9\u03b5\u03c1\u03bf\u03c5). Play on the same word \u03b9\u03b5\u03c1\u03bf\u03c5 (sacred).\" ",
+            "They which wait upon the altar (\u03bf \u03c4\u03c9 \u03b8\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03c9 \u03c0\u03b1\u03c1\u03b5\u03b4\u03c1\u03b5\u03c5\u03bf\u03bd\u03c4\u03b5\u03c2). Old word \u03c0\u03b1\u03c1\u03b5\u03b4\u03c1\u03b5\u03c5\u03c9, to sit beside, from \u03c0\u03b1\u03c1--\u03b5\u03b4\u03c1\u03bf\u03c2, like Latin assidere, and so constant attendance.",
+            "Locative case \u03b8\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03c9, late word found so far only in LXX, Philo, Josephus, N.T., and ecclesiastical writers."
+        ],
+        "John Gill": [
+            "Not the priests in the temples of the Heathen deities, as the Ethiopic version suggests; but the priests in the temple at Jerusalem...",
+            "and these partook with the altar; some parts the altar devoured, being consumed by fire upon it; but then there were other pieces which by law were reserved for the priests, and upon which they and their families lived...",
+            "hence the distinction of \u05d0\u05db\u05d9\u05dc\u05ea \u05de\u05d6\u05d1\u05d7, the food of the altar, and \u05d0\u05db\u05d9\u05dc\u05ea \u05d0\u05d3\u05dd, 'the food of man'; and therefore as it was but just and equitable that persons so employed should be maintained out of the revenues of the temple and altar, it is but right that Gospel ministers should be provided for with a suitable maintenance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul highlights the support that ministers of religion received in the Jewish dispensation, emphasizing that they eat of the things of the temple, referring to the provisions given to the priests who served at the altar. This illustration reveals that just as the Jewish ministers were entitled to sustenance from their ministry, it is reasonable to presume that the ministers of the gospel should also be supported in their work. The Gentile converts, already familiar with the practice of temple offerings, would understand this analogy. The equity demonstrated here exposes the absurdity of those who misapply this comparison and withhold proper support from Christian ministers.",
+            "wordCount": 107,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0455350499723632,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                25.0,
+                37.26,
+                37.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In 1 Corinthians 9:13, Paul draws a parallel between the support provided to ministers of the Jewish temple and the need for ministers of the gospel to be supported in their work. Just as the priests of the Jewish temple were entitled to provisions from their ministry and partook with the altar, it is reasonable to expect that ministers of the gospel should also receive suitable maintenance. This analogy highlights the importance of providing proper sustenance for those who serve in ministry.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.981477037296041,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
+            "commentatorTierSimilarities": [
+                24.96,
+                34.41,
+                40.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul asserts that ministers of religion, like the Jewish priests and Levites who performed sacred rites and partook with the altar, should be supported in their work. He draws upon the belief that just as the Levitical priests received maintenance from their ministry at the temple, it is reasonable to expect that ministers of the gospel should also be provided with a suitable livelihood. This analogy underscores the importance of supporting those who serve in the work of spreading the gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.004627951138721,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                26.84,
+                34.07,
+                39.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's comparison of ministers of religion to the Jewish priests indicates that just as the priests received support from their ministry at the temple altar, it is only reasonable to provide support to ministers of the gospel in their work. This parallel emphasizes the necessity of sustaining those who serve in spreading the message of the gospel.",
+            "wordCount": 58,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8422164529941383,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                24.48,
+                33.8,
+                41.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul points out the support given to Jewish priests and Levites who performed sacred rituals and shared in the offerings of the altar. Drawing from this, he argues that ministers of the gospel should also receive proper sustenance. This comparison highlights the fairness and equity in providing financial support for those engaged in the work of spreading the good news. It underscores the importance of supporting ministers in their ministry as a just and appropriate practice.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.670699911790091,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.89,
+            "commentatorTierSimilarities": [
+                26.1,
+                35.01,
+                38.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

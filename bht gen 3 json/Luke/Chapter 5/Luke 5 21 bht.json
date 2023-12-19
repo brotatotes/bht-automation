@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:15:17",
+    "verseRef": "Luke 5:21",
+    "bestBHT": {
+        "bht": "The people were astonished, questioning who Jesus was to speak with such authority. Accusing Him of blasphemy, they acknowledged that only God could forgive sins. While it is true that forgiveness belongs to God alone, they failed to recognize Jesus as the Son of God, who possesses divine authority to forgive sins. Their accusation of blasphemy against Him was a significant mistake, as they wrongly ascribed His words to someone other than God Himself.",
+        "wordCount": 74,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6570692834457263,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+        "commentatorTierSimilarities": [
+            30.96,
+            19.91,
+            49.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "To reason. See on Mark 2:6. The words who is this that speaketh blasphemy, form an iambic verse in the Greek."
+        ],
+        "Philip Schaff": [
+            "Luke 5:21. Began to reason. The opposing thought arose at once, and it was soon answered."
+        ],
+        "Archibald T. Robertson": [
+            "But God alone (\u03b5 \u03bc\u03b7 \u03bc\u03bf\u03bd\u03bf\u03c2 \u03bf \u03b8\u03b5\u03bf\u03c2). Mark has \u03b5\u03b9\u03c2 (one) instead of \u03bc\u03bf\u03bd\u03bf\u03c2 (alone). "
+        ],
+        "John Gill": [
+            "Who can forgive sins but God alone? against whom they are committed, whose law is transgressed, and his will disobeyed, and his justice injured and affronted.",
+            "Certain it is, that none can forgive sins but God; not any of the angels in heaven, or men on earth; not holy good men, nor ministers of the Gospel.",
+            "The Scribes and Pharisees therefore, though they rightly ascribe forgiveness of sin to God alone, yet grievously sinned, in imputing blasphemy to Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people who heard Jesus speak were astonished and began to reason among themselves, questioning who He was to speak with such authority. They even accused Him of blasphemy, for they understood that only God had the power to forgive sins. They were correct in acknowledging that forgiveness of sins belongs to God alone. However, in their disbelief and rejection of Jesus, they failed to recognize that He is the Son of God, possessing divine authority and the ability to forgive sins. Their accusation of blasphemy against Christ was a grave mistake.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.5969800930032871,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.44,
+            "commentatorTierSimilarities": [
+                27.97,
+                20.98,
+                51.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crowd listening to Jesus was puzzled and filled with disbelief, questioning who this man was to speak so boldly. They accused Him of blasphemy, recognizing that only God had the power to forgive sins. While they were correct in acknowledging God's exclusive authority over forgiveness, they failed to see that Jesus is the Son of God, possessing divine power and the ability to forgive sins. Their accusation of blasphemy against Jesus was a serious misjudgment.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6304022430040128,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.55,
+            "commentatorTierSimilarities": [
+                28.54,
+                22.84,
+                48.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people who heard Jesus speak were astonished and began to reason among themselves, questioning who He was to speak with such authority. They even accused Him of blasphemy, for they understood that only God had the power to forgive sins. They were correct in acknowledging that forgiveness of sins belongs to God alone. However, they failed to recognize that He is the Son of God, possessing divine authority and the ability to forgive sins. Their accusation of blasphemy against Christ was a grave mistake.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.5759352618056224,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.74,
+            "commentatorTierSimilarities": [
+                28.21,
+                19.99,
+                51.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people listening to Jesus were amazed and began to reason among themselves, questioning who He was to speak with such authority. Accusing Him of blasphemy, they acknowledged that only God had the power to forgive sins. It is true that forgiveness of sins is the prerogative of God alone. However, they failed to recognize that Jesus, being the Son of God, possessed divine authority and the ability to forgive sins. Their accusation of blasphemy against Him was a serious misunderstanding.",
+            "wordCount": 81,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.5454736400680633,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.73,
+            "commentatorTierSimilarities": [
+                27.16,
+                22.32,
+                50.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people were astonished, questioning who Jesus was to speak with such authority. Accusing Him of blasphemy, they acknowledged that only God could forgive sins. While it is true that forgiveness belongs to God alone, they failed to recognize Jesus as the Son of God, who possesses divine authority to forgive sins. Their accusation of blasphemy against Him was a significant mistake, as they wrongly ascribed His words to someone other than God Himself.",
+            "wordCount": 74,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6570692834457263,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+            "commentatorTierSimilarities": [
+                30.96,
+                19.91,
+                49.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:30:46",
+    "verseRef": "2 Timothy 2:7",
+    "bestBHT": {
+        "bht": "Understand what I say; for the Lord shall give thee clear apprehension in all things. Consider the force of the illustrations I have given from the soldier, the contender in the games, and the husbandmen, as applying to thyself in thy ministry. For the Lord will give thee understanding when thou seekest it from Him 'in all things.' Enable you to see the force of these considerations, and apply them to your own case.",
+        "wordCount": 74,
+        "quoteTokenProportion": 48.0,
+        "qualityScore": 2.11355041829854,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.62,
+        "commentatorTierSimilarities": [
+            36.17,
+            41.61,
+            22.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Understand what I say; for the Lord shall give thee clear apprehension in all things.",
+            "Keep in remembrance Jesus Christ, raised from the dead, of the seed of David, according to my Gospel.",
+            "But the word of God is not bound."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Consider the force of the illustrations I have given from the soldier, the contender in the games, and the husbandmen, as applying to thyself in thy ministry.",
+            "For the Lord will give thee understanding when thou seekest it from Him 'in all things.'",
+            "Not intellectual perception, but personal appropriation of the truths metaphorically expressed, was what he needed to be given him by the Lord."
+        ],
+        "Albert Barnes": [
+            "Think of the condition of the soldier, and the principles on which he is enlisted; think of the aspirant for the crown in the Grecian games; think of the farmer, patiently toiling in the prospect of the distant harvest; and then go to your work with a similar spirit.",
+            "When the minister of the gospel thinks of his hardships, of his struggles against an evil world, and of his arduous and constant discouraging toil, let him think of the soldier, of the man who struggles for this world\u2019s honors, and of the patient farmer - AND be content.",
+            "And the Lord give thee understanding in all things - Enable you to see the force of these considerations, and to apply them to your own case."
+        ],
+        "Marvin Vincent": [
+            "Consider [\u03bd\u03bf\u03b5\u03b9]. Better, understand.",
+            "And the Lord give thee understanding [\u03b4\u03c9\u03c3\u03b5\u03b9 \u03b3\u03b1\u03c1 \u03bf \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 \u03c3\u03c5\u03bd\u03b5\u03c3\u03b9\u03bd]. More correctly, for the Lord shall give.",
+            "For sunesin understanding, see on Mark 12:33; Luke 2:47; Colossians 1:9."
+        ],
+        "John Calvin": [
+            "How much more excellent is the warfare under the direction of Christ, and how much more abundant the reward.",
+            "We infer that not less are we taught in vain if the Lord do not open our understandings than the commandments would be given in vain if he did not impart strength to perform them.",
+            "In order that [Paul] may teach with any advantage, he prays that God may train his disciple."
+        ],
+        "Philip Schaff": [
+            "Consider what I say. St. Paul contents himself with suggesting the analogies of the two previous verses, and leaves it to Timothy\u2019s reflection to see their bearing on himself.",
+            "And the Lord give thee. The better reading gives \u2018for the Lord will give thee.\u2019 This gives also a better meaning: \u2018Make the effort to reflect, for if thou do, the Lord will give thee the discernment which thou needest.'"
+        ],
+        "Archibald T. Robertson": [
+            "Consider (\u03bd\u03bf\u03b5). Present active imperative of \u03bd\u03bf\u03b5\u03c9, old verb, to put your mind (\u03bd\u03bf\u03c5\u03c2) on.\" ",
+            "Understanding (\u03c3\u03c5\u03bd\u03b5\u03c3\u03b9\u03bd). 'Comprehension' (from \u03c3\u03c5\u03bd\u03b9\u03b7\u03bc, to send together, to grasp).\" ",
+            "This is a blessed promise that calls for application."
+        ],
+        "John Gill": [
+            "Consider what I say...they were matters of moment and importance, and would be of great use to him in assisting and encouraging his faith, amidst all trials and exercises.",
+            "He suggests, that they were matters of moment and importance, and would be of great use to him in assisting and encouraging his faith, amidst all trials and exercises.",
+            "No man has of himself an understanding in spiritual things; this is the gift of God; and where it is given there is need of an increase of it, and always of such a prayer for it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Understand what I say; for the Lord shall give thee clear apprehension in all things. Consider the force of the illustrations I have given from the soldier, the contender in the games, and the husbandmen, as applying to thyself in thy ministry. For the Lord will give thee understanding when thou seekest it from Him 'in all things.' This is a blessed promise that calls for application. When the minister of the gospel thinks of his hardships, of his struggles against an evil world, and of his arduous and constant discouraging toil, let him think of the soldier, of the man who struggles for this world\u2019s honors, and of the patient farmer - AND be content. Enable you to see the force of these considerations, and to apply them to your own case.",
+            "wordCount": 133,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.9944675778524052,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.66,
+            "commentatorTierSimilarities": [
+                33.44,
+                41.91,
+                24.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Understand what I say; for the Lord shall give thee clear apprehension in all things. Consider the force of the illustrations I have given from the soldier, the contender in the games, and the husbandmen, as applying to thyself in thy ministry. For the Lord will give thee understanding when thou seekest it from Him 'in all things.' When the minister of the gospel thinks of his hardships, struggles, arduous toil, let him think of the soldier, contender for this world\u2019s honors, and patient farmer - AND be content. Enable you to see the force of these considerations, and apply them to your own case.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.0890973520360197,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.8,
+            "commentatorTierSimilarities": [
+                32.02,
+                43.65,
+                24.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Understand what I say; for the Lord shall give thee clear apprehension in all things. Consider the force of the illustrations I have given from the soldier, the contender in the games, and the husbandmen, as applying to thyself in thy ministry. For the Lord will give thee understanding when thou seekest it from Him 'in all things.' Enable you to see the force of these considerations, and apply them to your own case.",
+            "wordCount": 74,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 2.11355041829854,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.62,
+            "commentatorTierSimilarities": [
+                36.17,
+                41.61,
+                22.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Understand what I say; for the Lord shall give thee clear apprehension in all things. Consider the force of the illustrations I have given from the soldier, the contender in the games, and the husbandmen, as applying to thyself in thy ministry. For the Lord will give thee understanding when thou seekest it from Him 'in all things.' This is a blessed promise that calls for application. When the minister of the gospel thinks of his hardships, of his struggles against an evil world, and of his arduous and constant discouraging toil, let him think of the soldier, of the man who struggles for this world\u2019s honors, and of the patient farmer - AND be content.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0800054337076097,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.5,
+            "commentatorTierSimilarities": [
+                34.6,
+                39.18,
+                26.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Understand what I say; for the Lord shall give thee clear apprehension in all things. Consider the force of the illustrations I have given from the soldier, the contender in the games, and the husbandmen, as applying to thyself in thy ministry. For the Lord will give thee understanding when thou seekest it from Him 'in all things.' This is a blessed promise that calls for application. When the minister of the gospel thinks of his hardships and struggles, let him think of the soldier and the patient farmer, and be content. Enable you to see the force of these considerations and apply them to your own case.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.996672822826827,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.73,
+            "commentatorTierSimilarities": [
+                34.54,
+                40.84,
+                24.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

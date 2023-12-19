@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:17:08",
+    "verseRef": "Luke 9:30",
+    "bestBHT": {
+        "bht": "Moses and Elijah, representing the law and the prophets respectively, appeared with Jesus, testifying to the unity of the Old Testament scriptures and the Old Testament saints' witness to Christ. Their presence was not confined to the pages of a book, but manifested in the form of living men, speaking audibly. This vision was so remarkable that it was necessary to include the human names of these renowned figures, otherwise one might mistake them for angels. As the vision unfolded, Moses and Elijah were seen engaged in conversation, as if discussing the divine mission of Jesus.",
+        "wordCount": 96,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.4884022907066436,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.83,
+        "commentatorTierSimilarities": [
+            68.54,
+            0.0,
+            31.46
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Who would have believed these were not angels had not their human names been subjoined?\" [BENGEL].",
+            "Moses represented 'the law,' Elijah 'the prophets,' and both together the whole testimony of the Old Testament Scriptures, and the Old Testament saints, to Christ.",
+            "Now not borne in a book, but by living men, not to a coming, but a come Messiah, visibly, for they 'appeared,' and audibly, for they 'spake'."
+        ],
+        "Marvin Vincent": [
+            "There talked [\u03c3\u03c5\u03bd\u03b5\u03bb\u03b1\u03bb\u03bf\u03c5\u03bd] . The imperfect is graphic; as the vision revealed itself, the two were in the act of talking."
+        ],
+        "John Gill": [
+            "Of great note and fame.",
+            "The one the giver of the law from God to the people 'of Israel'.",
+            "And the other a prophet famous for his zeal for God, and his worship."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Moses and Elijah, representing the law and the prophets respectively, appeared with Jesus, testifying to the unity of the Old Testament scriptures and the Old Testament saints' witness to Christ. Their presence was not confined to the pages of a book, but manifested in the form of living men, speaking audibly. This vision was so remarkable that it was necessary to include the human names of these renowned figures, otherwise one might mistake them for angels. As the vision unfolded, Moses and Elijah were seen engaged in conversation, as if discussing the divine mission of Jesus.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.4884022907066436,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.83,
+            "commentatorTierSimilarities": [
+                68.54,
+                0.0,
+                31.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moses and Elijah, representing the law and the prophets, appeared with Jesus, testifying to the unity of the Old Testament scriptures and the Old Testament saints' witness to Christ. Their presence, being visible and audible, emphasized their living testimonies rather than being confined to a book. Their conversation, captured in the moment of the vision, highlighted their shared understanding of Jesus' divine mission. The inclusion of their human names prevented confusion with angels, reinforcing the incredible nature of this encounter.",
+            "wordCount": 80,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.3552504453745793,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.41,
+            "commentatorTierSimilarities": [
+                66.29,
+                0.0,
+                33.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses and Elijah appeared with Jesus, testifying to the unity of the Old Testament scriptures and the Old Testament saints' witness to Christ. Their presence, visible and audible, emphasized their living testimonies rather than being confined to a book. Their conversation highlighted their shared understanding of Jesus' divine mission. The inclusion of their human names prevented confusion with angels, reinforcing the remarkable nature of this encounter.",
+            "wordCount": 66,
+            "quoteTokenProportion": 23.4,
+            "qualityScore": 1.2676235631992512,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.49,
+            "commentatorTierSimilarities": [
+                64.93,
+                0.0,
+                35.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses and Elijah, representing the law and the prophets, appeared with Jesus, testifying to the unity of the Old Testament scriptures and the Old Testament saints' witness to Christ. Their presence, being visible and audible, emphasized their living testimonies rather than being confined to a book. Their conversation, captured in the moment of the vision, highlighted their shared understanding of Jesus' divine mission. The inclusion of their human names prevented confusion with angels, reinforcing the remarkable nature of this encounter.",
+            "wordCount": 80,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.3647942010871876,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
+            "commentatorTierSimilarities": [
+                65.62,
+                0.0,
+                34.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses and Elijah, representing the law and the prophets, appeared with Jesus, testifying to the unity of the Old Testament scriptures and the Old Testament saints' witness to Christ. Their presence, being visible and audible, emphasized their living testimonies rather than being confined to a book. Their conversation, captured in the moment of the vision, highlighted their shared understanding of Jesus' divine mission. The inclusion of their human names prevented confusion with angels, reinforcing the remarkable nature of this encounter.",
+            "wordCount": 80,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.3647942010871876,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
+            "commentatorTierSimilarities": [
+                65.62,
+                0.0,
+                34.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

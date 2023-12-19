@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:22:43",
+    "verseRef": "Luke 22:5",
+    "bestBHT": {
+        "bht": "The payment of thirty pieces of silver is significant, as it is the same amount required as a fine for accidentally causing the death of a servant. This sum holds considerable value, equivalent to four or five pounds in today's currency. The use of the phrase goodly price highlights the worth attributed to this transaction. Interestingly, Luke only mentions money without specifying the exact amount involved. However, it is evident that this payment was opportune and agreeable, willingly agreed upon by both parties.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 0.8861992616753578,
+        "qualityScoreNormalizedComparedToV2BHTs": 20.81,
+        "commentatorTierSimilarities": [
+            43.99,
+            0.0,
+            56.01
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "thirty pieces",
+            "\tof silver\" (Matthew 26:15);",
+            "\t",
+            "thirty shekels, the fine payable for man- or maid-servant",
+            "\taccidentally killed (Exodus 21:32),",
+            "\tand equal to between four and five pounds of our money",
+            "\t",
+            "a",
+            "\tgoodly price that I was priced at of them\" (Exodus 21:32- :)"
+        ],
+        "Archibald T. Robertson": [
+            "Ingressive aorist, a natural exultation that one of the Twelve had offered to do this thing.",
+            "An old verb to put together and in the middle with one another.",
+            "Luke only mentions 'money,' but not 'thirty pieces'."
+        ],
+        "John Gill": [
+            "For nothing could be more opportune and agreeable to them.\" ",
+            "And covenanted to give him money.",
+            "Which was the sum they agreed to give him, and he accepted of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse discusses the payment of thirty pieces of silver, which is significant because it is the same amount that is paid as a fine for accidentally killing a servant. The price of thirty pieces of silver is seen as a goodly price and carries a weight of value. The use of the verb to put together in relation to this transaction suggests an intentional joining together. Interestingly, Luke only mentions money, not the specific amount of thirty pieces. It is clear that this payment was regarded as opportune and agreeable, as the agreed sum was willingly accepted.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 0.9303905350868951,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.28,
+            "commentatorTierSimilarities": [
+                48.88,
+                0.0,
+                51.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The transaction in question involves the payment of thirty pieces of silver, a sum that carries significant value, equivalent to a fine for accidentally killing a servant. The willingness to pay this goodly price suggests an intentional joining together. Interestingly, Luke mentions money without specifying the exact amount, emphasizing the nature of the payment rather than its specific value. The agreement to give this sum indicates its opportune and agreeable nature, willingly accepted by the parties involved in the transaction.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 0.8499551301030853,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.61,
+            "commentatorTierSimilarities": [
+                33.64,
+                0.0,
+                66.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The payment of thirty pieces of silver, akin to the fine for accidentally killing a servant, signifies a significant value. The phrase goodly price conveys the weight of the transaction, along with the intentional agreement between parties. Notably, Luke omits the specific quantity, focusing on the nature of the payment instead. The willingness to give this sum indicates the opportune and agreeable nature of the transaction, with both parties accepting the agreed-upon terms.",
+            "wordCount": 74,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 0.8068031998886733,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.17,
+            "commentatorTierSimilarities": [
+                42.36,
+                0.0,
+                57.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The payment of thirty pieces of silver is significant, as it is the same amount required as a fine for accidentally causing the death of a servant. This sum holds considerable value, equivalent to four or five pounds in today's currency. The use of the phrase goodly price highlights the worth attributed to this transaction. Interestingly, Luke only mentions money without specifying the exact amount involved. However, it is evident that this payment was opportune and agreeable, willingly agreed upon by both parties.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 0.8861992616753578,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.81,
+            "commentatorTierSimilarities": [
+                43.99,
+                0.0,
+                56.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The payment of thirty pieces of silver is notable, as it is the same amount as the fine for accidentally killing a servant. This sum carries considerable value, equivalent to four or five pounds in today's currency. The phrase goodly price emphasizes the worth attached to this transaction. Interestingly, Luke's mention of money without specifying the exact amount suggests a focus on the nature of the payment rather than the specific value. It is evident that this payment was opportune and agreeable, willingly accepted by both parties.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 0.8155867554444958,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.46,
+            "commentatorTierSimilarities": [
+                38.59,
+                0.0,
+                61.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:26:52",
+    "verseRef": "Acts 5:30",
+    "bestBHT": {
+        "bht": "The God of our fathers, binding Christ to the covenant, was slain by their own hands, ignominiously and barely described, to waken compunction. They killed him, manhandling and managing his crucifixion on the tree, an expression entailing curse and disgrace. Peter charges them with guilt, accusing them of murdering their own Messiah, identifying himself with the glorious line of patriarchs, prophets, and kings. Emphasizing the beloved name of Jesus, the accused apostle highlights the central point: the cross as a tree, a death pronounced accursed in their sacred law.",
+        "wordCount": 89,
+        "quoteTokenProportion": 30.88,
+        "qualityScore": 2.0030930460634133,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+        "commentatorTierSimilarities": [
+            24.53,
+            41.8,
+            33.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The God of our fathers... binding on Christ and his work to the covenant.\" ",
+            "The manner of death is described thus barely and ignominiously, to waken compunction in the hearers.",
+            "The expression was well known as entailing curse and disgrace on the victim."
+        ],
+        "Albert Barnes": [
+            "Raised up Jesus - This refers to his resurrection.",
+            "They were bound to obey God rather than the Sanhedrin, and to make known everywhere the fact that the Lord Jesus was risen.",
+            "Peter did not shrink from charging on them their guilt; nor was he at any pains to 'soften' or 'mitigate' the severe charge that they had murdered their own Messiah."
+        ],
+        "Marvin Vincent": [
+            "Ye slew [\u03b4\u03b9\u03b5\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03b1\u03c3\u03b8\u03b5] . Only here and ch. 26 21. To slay with one's own hands. ",
+            "Tree. See on Luke 23:31."
+        ],
+        "John Calvin": [
+            "For this speech is common, that God raised up prophets or judges, or rather ministers, whom he determined to use into some great work; which importeth as much as that all excellency of nature is weak, unless God do furnish those with singular gifts whom he preferreth unto any excellent office.",
+            "Not that they allow all that worship which was used by the fathers, as profane men are content with this only argument, that the fathers taught thus, that they do all things according to the custom and decree of their ancestors...",
+            "...lest any part of Christ\u2019s glory should seem to be diminished because he suffered a slanderous death upon the cross; as if it had been said, You have slain him. Neither was your cruelty satisfied with a plain and common death; for he was hanged upon a tree. But neither could death extinguish his power; neither could that shame and reproach which he suffered amongst you take away his honor."
+        ],
+        "Philip Schaff": [
+            "Identifying himself, in the words \u2018our fathers,\u2019 with the glorious line of patriarchs, prophets, and kings whom the children of Israel in their then state of humiliation and subjection remembered with so passionate a love.",
+            "Jesus, the beloved name, shunned and dreaded, and then left unnamed by the high priest, but gloried in by the accused apostle, who makes it the central point of his defence.",
+            "And hanged on a tree. The cross is here called 'a tree,' a well-known expression to those learned Jewish priests and rabbis who sat in the great council; they would too well remember how, in their sacred law, this death was pronounced accursed."
+        ],
+        "Archibald T. Robertson": [
+            "Ye slew... to take in hand, manage, to lay hands on, manhandle, kill."
+        ],
+        "John Gill": [
+            "Not from the dead, though this was true; but called him to the work and office of a Saviour, inverted him with that office, and sent him to perform that work.",
+            "To show that they did not bring in and worship any strange God; nor introduce any novel doctrine; or speak of any other Saviour or Redeemer, than he whom the God of their fathers had appointed.",
+            "They therefore insist upon it that they had slain Jesus whom God raised up, inasmuch as they had condemned him to death in their sanhedrim, and had urged and importuned Pilate to crucify him, and had imprecated his blood upon them and on their children."
+        ],
+        "John Wesley": [
+            "Hath raised up Jesus \u2014 Of the seed of David, according to the promises made to our fathers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The God of our fathers, binding on Christ and his work to the covenant, was slain by their own hands, a death described ignominiously to awaken compunction. They killed him with their own hands, manhandling and managing his crucifixion on the tree, an expression well-known for entailing curse and disgrace. Peter charges them with guilt and does not shy away from the severe accusation that they murdered their own Messiah, identifying with the glorious line of patriarchs, prophets, and kings. By emphasizing the beloved name of Jesus, the accused apostle proclaims his defense and highlights the central point: the cross, referred to as a tree, a death pronounced accursed in their sacred law. Ultimately, the high priest's attempt to silence and dishonor Christ through his death on the cross is futile, as God raised him up and called him to the work of a Savior, fulfilling the promises made to their fathers. Through their actions, they did not bring in any strange God or novel doctrine, but rather condemned and crucified the appointed Redeemer.",
+            "wordCount": 176,
+            "quoteTokenProportion": 31.53,
+            "qualityScore": 2.0066140511633135,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.06,
+            "commentatorTierSimilarities": [
+                21.23,
+                41.43,
+                37.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The God of our fathers, binding on Christ and his work to the covenant, was slain by their own hands, a death described ignominiously to awaken compunction. They killed him with their own hands, manhandling and managing his crucifixion on the tree, an expression well-known for entailing curse and disgrace. Peter charges them with guilt and does not shy away from the severe accusation that they murdered their own Messiah, identifying with the glorious line of patriarchs, prophets, and kings. By emphasizing the beloved name of Jesus, the accused apostle proclaims his defense and highlights the central point: the cross, referred to as a tree, a death pronounced accursed in their sacred law.",
+            "wordCount": 114,
+            "quoteTokenProportion": 32.5,
+            "qualityScore": 2.0618187896913955,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.9,
+            "commentatorTierSimilarities": [
+                25.33,
+                41.49,
+                33.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The God of our fathers, binding on Christ and his work to the covenant, was slain by their own hands, a death ignominiously described to waken compunction. They killed him, manhandling and managing his crucifixion on the tree, an expression entailing curse and disgrace on the victim. Peter accuses them of their guilt, charging that they murdered their own Messiah, identifying himself with the line of patriarchs, prophets, and kings. By emphasizing the beloved name of Jesus and the cross referred to as a tree, Peter proclaims his defense and highlights the central point of his message.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.9610412191734155,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                24.01,
+                41.44,
+                34.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The God of our fathers, binding Christ to the covenant, was slain by their own hands, ignominiously and barely described, to waken compunction. They killed him, manhandling and managing his crucifixion on the tree, an expression entailing curse and disgrace. Peter charges them with guilt, accusing them of murdering their own Messiah, identifying himself with the glorious line of patriarchs, prophets, and kings. Emphasizing the beloved name of Jesus, the accused apostle highlights the central point: the cross as a tree, a death pronounced accursed in their sacred law.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 2.0030930460634133,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                24.53,
+                41.8,
+                33.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The God of our fathers, binding Christ to the covenant, was slain by their own hands, ignominiously and barely described, to waken compunction. They killed him, manhandling and managing his crucifixion on the tree, an expression entailing curse and disgrace. Peter charges them with guilt, accusing them of murdering their own Messiah, identifying himself with the glorious line of patriarchs, prophets, and kings. Emphasizing the beloved name of Jesus, the accused apostle highlights the central point: the cross as a tree, a death pronounced accursed in their sacred law.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 2.0030930460634133,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                24.53,
+                41.8,
+                33.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 15:15:56",
+    "verseRef": "2 Corinthians 4:14",
+    "bestBHT": {
+        "bht": "By faith, we know that the same God who raised Jesus from the dead will also raise us in the future. This assurance gives us hope and strength to face trials and even death. Through Jesus, who is the pattern and pledge of our own resurrection, we will be presented to God as His redeemed children. Our belief in the resurrection encourages us, just as it did for the apostles, to persevere through our own difficulties.",
+        "wordCount": 76,
+        "quoteTokenProportion": 50.94,
+        "qualityScore": 1.7187573879846798,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+        "commentatorTierSimilarities": [
+            24.29,
+            36.87,
+            38.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "knowing that He which raised up the Lord Jesus will raise up us also",
+            "from the dead hereafter",
+            "and present us with you"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Knowing\u2014by faith.\" ",
+            "shall raise up us also\u2014at the resurrection.\" ",
+            "present us\u2014vividly picturing the scene before the eyes."
+        ],
+        "Albert Barnes": [
+            "They knew that they were revealed from heaven, and that all the promises of God would be fulfilled.",
+            "In the hope of the resurrection they were ready to meet trials, and even to die.",
+            "He will present us to God as those who have been redeemed by his blood."
+        ],
+        "Philip Schaff": [
+            "Knowing that he which raised up the Lord Jesus shall raise up us also with Jesus.",
+            "And shall present us with you the parent in the faith with his spiritual children.",
+            "Not 'by Jesus,' as in the received text and Authorized Version on next to no evidence."
+        ],
+        "John Gill": [
+            "Knowing that he which raised up the Lord Jesus... shall raise us up also by Jesus.\" ",
+            "Christ's resurrection is not only the pattern, but the pledge of the resurrection of the saints.",
+            "This doctrine, as it was fully known and firmly believed by the apostles, was of great use to bear them up under their outward troubles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Knowing by faith that the same God who raised Jesus from the dead will also raise us in the future, this verse paints a vivid scene of our presentation before Him. This knowledge gives us hope and strength to face trials, even death, with confidence, as we trust in the fulfillment of God's promises. Through Jesus, who is the pattern and pledge of our own resurrection, we will be presented to God as His redeemed children, united with our spiritual parent in the faith. This firm belief in the resurrection not only bears up the apostles in their own troubles but is also a source of encouragement for us all.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 1.7409330745460412,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.23,
+            "commentatorTierSimilarities": [
+                23.15,
+                37.17,
+                39.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By faith, we know that the same God who raised Jesus from the dead will also raise us in the future. This assurance gives us hope and strength to face trials and even death. Through Jesus, who is the pattern and pledge of our own resurrection, we will be presented to God as His redeemed children. Our belief in the resurrection encourages us, just as it did for the apostles, to persevere through our own difficulties.",
+            "wordCount": 76,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 1.7187573879846798,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+            "commentatorTierSimilarities": [
+                24.29,
+                36.87,
+                38.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith, we know that just as God raised up the Lord Jesus from the dead, He will also raise us up in the resurrection. This hope in the resurrection gives us the courage to face trials and even death. As believers, we can trust that God will present us to Himself, redeemed by the blood of Jesus. This truth is not merely theoretical, but something that the apostles firmly believed, knowing that Christ's resurrection serves as a model and guarantee for our own resurrection. Such knowledge provided comfort and strength for the apostles in the face of difficulties they encountered.",
+            "wordCount": 102,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.7019515132936704,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+            "commentatorTierSimilarities": [
+                22.5,
+                36.76,
+                40.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By faith, knowing that He who raised up the Lord Jesus from the dead will raise us up also, we have hope in the resurrection. This hope enables us to endure trials and face even death, confident that God will present us to Himself, redeemed by the blood of Jesus. The apostles firmly believed in this truth, finding solace in the fact that Christ's resurrection serves as both a pattern and a guarantee for our own resurrection. This knowledge provided them with strength amidst their challenges.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.622543078248065,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+            "commentatorTierSimilarities": [
+                23.47,
+                34.78,
+                41.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By faith, knowing that He who raised up the Lord Jesus from the dead will raise us up also, we have hope in the resurrection. This hope enables us to endure trials, confidently facing death, and trusting that God will present us to Himself, redeemed by Jesus' blood. The apostles firmly believed in this truth, finding strength in the assurance that Christ's resurrection serves as a model and guarantee for our own. This knowledge bolstered them amid their struggles, providing comfort and resilience.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6276207825647357,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.46,
+            "commentatorTierSimilarities": [
+                23.79,
+                34.79,
+                41.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

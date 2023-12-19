@@ -1,0 +1,148 @@
+{
+    "timestamp": "12-19-2023 16:15:15",
+    "verseRef": "Luke 4:16",
+    "bestBHT": {
+        "bht": "As Jesus, following his customary practice, entered the Nazareth synagogue to read and teach, he stood up to show his reverence for the Scriptures and his desire to explain them. This illuminating moment in Jesus' early life emphasizes the importance of consistently attending public worship, a habit he continued as an adult. It also serves as a reminder that our childhood practices often shape our adult behaviors and that honoring and respecting the Word of God should be a fundamental aspect of our lives.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.0728801949335915,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+        "commentatorTierSimilarities": [
+            25.2,
+            38.34,
+            36.46
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "where he had been brought up is expressed by 'in thy country,' ver. 23: see John iv. 44 and note.",
+            "It was apparently the first time He had ever so taught in the synagogue at Nazareth.",
+            "The rising up was probably to shew His wish to explain the Scripture; for so the word rendered 'read' imports."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. as his custom was\u2014Compare",
+            "\tActs 17:2. ",
+            "\t",
+            "stood up for to read\u2014Others",
+            "\tbesides rabbins were allowed to address the congregation. (See Acts 17:2- :.)"
+        ],
+        "Albert Barnes": [
+            "It is of vast importance that the public worship of God should be maintained; and it is 'our' duty to assist in maintaining it, to show by our example that we love it, and to win others also to love it.\" ",
+            "At the same time, this remark should not be construed as enjoining it as our duty to attend where the 'true' God is not worshipped, or where he is worshipped by pagan rites and pagan prayers.",
+            "The same ceremonies in regard to conducting public worship which are here described are observed at Jerusalem by the Jews at the present time."
+        ],
+        "Marvin Vincent": [
+            "Nazareth. That Nazareth where he had been brought up.",
+            "Stood up. Being summoned by the superintendent of the synagogue.",
+            "To read. Usually in New Testament of public reading."
+        ],
+        "John Calvin": [
+            "By explaining a passage in Isaiah, and applying it to the instruction which was immediately required, he turned upon him the eyes of all.\" ",
+            "Now, the minds of men are naturally blind to the consideration of his works, and must therefore be guided by the rule of Scripture.",
+            "Christ rose up to read, not only that his voice might be better heard, but in token of reverence: for the majesty of Scripture deserves that its expounders should make it apparent, that they proceed to handle it with modesty and reverence."
+        ],
+        "Philip Schaff": [
+            "As his custom was. This refers only to His going into the synagogue; probably in this case the place of worship He had attended as a youth.\" (Luke 4:16. Nazareth, where he had been brought up. Comp. chap. Luke 2:40; Luke 2:51-52.)",
+            "He had never before taught in that synagogue, and hence the allusion to His early habits of piety is more suggestive.\" (Luke 4:16. Nazareth, where he had been brought up. Comp. chap. Luke 2:40; Luke 2:51-52.)",
+            "This first appearance of Jesus, as a public instructor, in the synagogue He had attended in youth, before those among whom He had been brought up, assures His sympathy to those placed in similar circumstances.\" (Luke 4:16. Nazareth, where he had been brought up. Comp. chap. Luke 2:40; Luke 2:51-52.)"
+        ],
+        "Archibald T. Robertson": [
+            "This is one of the flashlights on the early life of Jesus. He had the habit of going to public worship in the synagogue as a boy, a habit that he kept up when a grown man.\" ",
+            "If the child does not form the habit of going to church, the man is almost certain not to have it.",
+            "The ruler of the synagogue for that day may have invited Jesus to read and speak because of his now great reputation as a teacher."
+        ],
+        "John Gill": [
+            "and as his custom was, he went into the synagogue on the sabbath day.",
+            "This custom of reading the Scriptures publicly, was an appointment of Moses.",
+            "Christ conformed to these rules; he went into the synagogue to read on the sabbath day, and stood up when he read."
+        ],
+        "John Wesley": [
+            "He stood up \u2014 Showing thereby that he had a desire to read the Scripture to the congregation...\" (Luke 4:16)",
+            "It was the Jewish custom to read standing...\" (Luke 4:16)",
+            "...but to preach sitting.\" (Luke 4:16)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, it is evident that Jesus had a habit of attending public worship in the synagogue from a young age, a habit that he continued as an adult. In this specific instance, Jesus was invited by the ruler of the synagogue to read and teach, possibly due to his growing reputation as a teacher. By standing up to read, Jesus demonstrated his reverence for the Scriptures and his desire to explain them to the congregation. This event sheds light on the importance of maintaining public worship and how our habits as children can shape our practices as adults. It also serves as a reminder that the words of Scripture should guide our minds and actions.",
+            "wordCount": 117,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 2.1237845044958887,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.96,
+            "commentatorTierSimilarities": [
+                25.61,
+                36.1,
+                38.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, having developed the habit of attending public worship from a young age, stood up to read and teach in the synagogue at Nazareth. His rising up signified his eagerness to explain the Scriptures, while also demonstrating reverence for them. This notable event highlights the significance of regular attendance at public worship and the formative impact it can have on one's life. It serves as a reminder that instilling the habit of attending church in children can greatly influence their spiritual practices as adults.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.9129740600612277,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                27.41,
+                37.96,
+                34.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this event, Jesus, who had a habit of attending public worship from his childhood, stood up to read and teach in the Nazareth synagogue. His action of standing indicated both his desire to read the Scriptures to the congregation and his reverence for them. This instance emphasizes the importance of regular participation in public worship and how our early habits can shape our spiritual practices as adults. It also serves as an example of the respect and honor we should have for the Word of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.0450965092011764,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                24.05,
+                39.03,
+                36.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in accordance with his customary practice of attending the synagogue, rose up to read and teach in the Nazareth synagogue. By standing up, he demonstrated both his wish to explain the Scripture and his reverence for it. This event sheds light on the early life of Jesus and the importance of developing a habit of attending public worship. It also highlights the significance of respecting and honoring the Scriptures, as well as the potential impact of our childhood habits on our adult lives.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9873217190121353,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                25.53,
+                36.18,
+                38.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus, following his customary practice, entered the Nazareth synagogue to read and teach, he stood up to show his reverence for the Scriptures and his desire to explain them. This illuminating moment in Jesus' early life emphasizes the importance of consistently attending public worship, a habit he continued as an adult. It also serves as a reminder that our childhood practices often shape our adult behaviors and that honoring and respecting the Word of God should be a fundamental aspect of our lives.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0728801949335915,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+            "commentatorTierSimilarities": [
+                25.2,
+                38.34,
+                36.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

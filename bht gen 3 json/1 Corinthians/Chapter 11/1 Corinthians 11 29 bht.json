@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:12:04",
+    "verseRef": "1 Corinthians 11:29",
+    "bestBHT": {
+        "bht": "For he that eateth and drinketh without discerning the body, eats and drinketh judgment to himself, not appreciating the body of the Lord. The judgment is described as temporal and is intended to save the participant from condemnation. By not discerning the significance and sacredness of the Lord's body, one falls under the divine judgment, as trifling with the Death of Christ. Eating the bread and drinking the wine as symbols of the Lord's body and blood probes one's heart to the very depths.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 2.530422470824699,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.48,
+        "commentatorTierSimilarities": [
+            36.05,
+            34.93,
+            29.03
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For he that eateth and drinketh, eateth and drinketh judgment to himself, not appreciating the body of the Lord.",
+            "The judgment meant...is not 'damnation,'...which has done infinite mischief.",
+            "The mystery of these, spiritually present in the elements, he, not being spiritual, does not appreciate: and therefore...falls under the divine judgment, as trifling with the Death of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The judgment is described as temporal.\" ",
+            "He that eateth and drinketh, eateth and drinketh judgment to himself, IF he discern not the body.\" ",
+            "The Lord's body is His literal body appreciated and discerned by the soul in the faithful receiving, and not present in the elements themselves."
+        ],
+        "Albert Barnes": [
+            "Eateth and drinketh damnation - This is evidently a figurative expression, meaning that by eating and drinking improperly he incurs condemnation.",
+            "The word here used (\u03ba\u03c1\u03b9\u0342\u03bc\u03b1 krima) properly denotes judgment; the result of judging, that is, a sentence; then a sentence by which one is condemned, or condemnation; and then punishment.",
+            "Not discerning the Lord\u2019s body - Not discriminating between the bread which is used on this occasion and common and ordinary food."
+        ],
+        "Marvin Vincent": [
+            "This false and horrible rendering has destroyed the peace of more sincere and earnest souls than any other misread passage in the New Testament.",
+            "Krima is a temporary judgment, and so is distinguished from katakrima condemnation, from which this temporary judgment is intended to save the participant.",
+            "The object of the discrimination here referred to, may, I think, be regarded as complex...such discernment of the peculiar significance and sacredness of the Lord 's body as shall make him shrink from profanation and shall stimulate him to penitence and faith."
+        ],
+        "John Calvin": [
+            "He who shall eat unworthily, eateth judgment to himself... This food, otherwise health-giving, will turn out to their destruction, and will be converted into poison to those that eat unworthily.\" ",
+            "They handle the sacred body of Christ with unwashed hands, nay more, as if it were a thing of nought, they consider not how great is the value of it. They will therefore pay the penalty of so dreadful a profanation.\" ",
+            "The body is presented to them, though their unworthiness deprives them of a participation in it."
+        ],
+        "Philip Schaff": [
+            "For he that eateth or drinketh, eateth and drinketh judgment unto himself, if he discern not the body.",
+            "By 'eating and drinking Judgment' is meant incurring the effects of the Divine displeasure.",
+            "The evidence for the omission of 'unworthily' and 'Lord's' before 'body' is, we think, conclusive; but the sense is the same."
+        ],
+        "Archibald T. Robertson": [
+            "If he discern not the body...Thus he eats and drinks judgment on himself.",
+            "The verb \u03b4\u03b9\u03b1-\u03ba\u03c1\u03b9\u03bd\u03c9 is an old and common word, our dis-cri-minate, to distinguish.",
+            "Eating the bread and drinking the wine as symbols of the Lord's body and blood in death probes one's heart to the very depths."
+        ],
+        "John Gill": [
+            "nor is eternal damnation here meant; but with respect to the Lord's own people, who may through unbelief, the weakness of grace, and strength of corruption, behave unworthily at this supper, temporal chastisement, which is distinguished from condemnation with the world, and is inflicted in order to prevent it",
+            "Just as Adam and Eve might be said to eat condemnation to themselves and posterity, because their eating of the forbidden fruit was the cause of it.",
+            "they distinguish not the Lord's supper from an ordinary and common meal, but confound them together, as did many of the Corinthians, who also did not distinguish the body of Christ in it from the body of the paschal lamb; or discern not the body of Christ, and distinguish it from the bread, the sign or symbol of it"
+        ],
+        "John Wesley": [
+            "For he that eateth and drinketh so unworthily as those Corinthians did, eateth and drinketh judgment to himself.",
+            "Temporal judgments of various kinds, 1 Corinthians 11:30.",
+            "Not distinguishing the sacred tokens of the Lord's body - From his common food."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For he that eateth and drinketh without discerning the body, eats and drinks judgment to himself, not appreciating the body of the Lord. The judgment is not damnation, but a temporary judgment intended to save the participant. It is a caution against trifling with the Death of Christ and profaning the Lord's body. By not discerning the significance and sacredness of the Lord's body, one invites divine judgment and falls under the consequences of their actions. Eating the bread and drinking the wine as symbols of the Lord's body and blood probes one's heart to its very depths.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.464085552347429,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.27,
+            "commentatorTierSimilarities": [
+                34.97,
+                34.99,
+                30.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For he that eateth and drinketh without discerning the body, eats and drinks judgment to himself, not appreciating the body of the Lord. The judgment is described as temporal and is intended to save the participant from condemnation. By not discerning the significance and sacredness of the Lord's body, one invites divine judgment. Eating the bread and drinking the wine as symbols of the Lord's body and blood probes one's heart to its very depths.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 2.497077216589383,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.37,
+            "commentatorTierSimilarities": [
+                35.45,
+                35.36,
+                29.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For he that eateth and drinketh without discerning the body, eats and drinketh judgment to himself, not appreciating the body of the Lord. The judgment is described as temporal and is intended to save the participant from condemnation. By not discerning the significance and sacredness of the Lord's body, one falls under the divine judgment, as trifling with the Death of Christ. Eating the bread and drinking the wine as symbols of the Lord's body and blood probes one's heart to the very depths.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.530422470824699,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.48,
+            "commentatorTierSimilarities": [
+                36.05,
+                34.93,
+                29.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For he that eateth and drinketh without discerning the body, eats and drinks judgment to himself, not appreciating the body of the Lord. The judgment is described as temporal and is intended to save the participant from condemnation. By not discerning the significance and sacredness of the Lord's body, one falls under the divine judgment, as trifling with the Death of Christ. Eating the bread and drinking the wine as symbols of the Lord's body and blood probes one's heart to the very depths.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.527252759914802,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.37,
+            "commentatorTierSimilarities": [
+                35.9,
+                35.01,
+                29.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For he that eateth and drinketh without discerning the body, eats and drinks judgment to himself, not appreciating the body of the Lord. The judgment is described as temporal and is intended to save the participant from condemnation. By not discerning the significance and sacredness of the Lord's body, one falls under the divine judgment, as trifling with the Death of Christ. Eating the bread and drinking the wine as symbols of the Lord's body and blood probes one's heart to the very depths.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.527252759914802,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.37,
+            "commentatorTierSimilarities": [
+                35.9,
+                35.01,
+                29.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

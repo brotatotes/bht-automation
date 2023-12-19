@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:19:49",
+    "verseRef": "Luke 14:11",
+    "bestBHT": {
+        "bht": "The Lord rebukes the spirit of pride and calls for our means to be spent on the poor and needy. When we sacrifice without expecting repayment in this world, but rather lend to the Lord by giving to the poor, there will be a rich reward at the resurrection of the just. God's plan is to bring down the proud and exalt the humble. Therefore, let us humble ourselves, knowing that any excellence we have comes from God's grace alone, and in doing so, we will be exalted.",
+        "wordCount": 90,
+        "quoteTokenProportion": 51.56,
+        "qualityScore": 2.1069015728467537,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+        "commentatorTierSimilarities": [
+            29.42,
+            41.55,
+            29.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord rebukes in him this spirit.",
+            "Our means are not to be sumptuously laid out upon them, but upon something far better\u2014the providing for the poor and maimed and lame and blind.",
+            "When we will make a sacrifice, and provide at some cost, let us not throw our money away, as we should if a recompense is made to us in this world: but give it to the poor, i.e. lend it to the Lord; and then, as in ver. 14, there will be a recompense at the resurrection of the just, which shall not be a mere equivalent, but a rich reward."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "11. whosoever, &amp;c.\u2014couching",
+            "\tthem in a chaste simplicity and proverbial terseness of style which",
+            "\tmakes them \"apples of gold in a setting of silver.\" (See on",
+            "\tLuke 14:1)."
+        ],
+        "Albert Barnes": [
+            "Men will perpetually endeavor to bring down those who endeavor to exalt themselves.",
+            "It is a part of God\u2019s regular plan to abase the proud, to bring down the lofty.",
+            "God's plan is to raise up those that be bowed down, and show his favors to those who are poor and needy."
+        ],
+        "Marvin Vincent": [
+            "Humbled. See on lowly, Matthew 7:29."
+        ],
+        "John Calvin": [
+            "For every one that exalteth himself shall be humbled.\" ",
+            "God will be their Judge, who resisteth the proud, and humbleth their haughtiness.\" ",
+            "Humility... must be not only an unfeigned abasement, but a real annihilation of ourselves, proceeding from a thorough knowledge of our own weakness, the entire absence of lofty pretensions, and a conviction that whatever excellence we possess comes from the grace of God alone."
+        ],
+        "Philip Schaff": [
+            "The principle here set forth was repeated by our Lord on a number of occasions... and formed one of the main truths of His teaching.",
+            "We are to apply it in the widest sense, but especially with reference to the kingdom of God (viewed as a feast), into which state of exaltation only the humble enter.",
+            "Those who exalt themselves, not only do not enter, but are cast into a state of positive abasement."
+        ],
+        "Archibald T. Robertson": [
+            "Shall be humbled (\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03c9\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1). First future passive. One of the repeated sayings of Jesus (Luke 18:14; Matthew 23:12). "
+        ],
+        "John Gill": [
+            "Whosoever exalteth himself, shall be abased, humbled and mortified.",
+            "He that humbleth himself shall be exalted.",
+            "Behaves in an humble and modest manner."
+        ],
+        "John Wesley": [
+            "Matthew 23:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who exalt themselves will be humbled, as the Lord rebukes the spirit of pride. Rather than lavishly spending our means on ourselves, we should focus on providing for the poor and needy. When making sacrifices and offering help, we should not expect repayment in this world, but should lend to the Lord by giving to the poor, as there will be a rich reward at the resurrection of the just. It is a part of God's regular plan to bring down the proud and exalt the humble, with God resisting the proud and humbling their haughtiness. This principle of exaltation for the humble was repeated by Jesus and formed a main truth of His teaching. Therefore, let us humble ourselves, knowing that any excellence we possess comes from the grace of God alone, and in doing so, we will be exalted.",
+            "wordCount": 143,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 2.0519836783607976,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.57,
+            "commentatorTierSimilarities": [
+                29.28,
+                41.39,
+                29.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who exalt themselves will be humbled, as the Lord rebukes the spirit of pride. Rather than lavishly spending our means on ourselves, we should focus on providing for the poor and needy. When making sacrifices and offering help, we should give to the poor, as there will be a rich reward at the resurrection of the just. It is a part of God's plan to bring down the proud and exalt the humble. Therefore, let us humble ourselves, knowing that any excellence we possess comes from the grace of God alone, and in doing so, we will be exalted.",
+            "wordCount": 101,
+            "quoteTokenProportion": 52.86,
+            "qualityScore": 2.0174876370449857,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                28.03,
+                42.13,
+                29.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who exalt themselves will be humbled, as the Lord rebukes the spirit of pride. Instead of using our means to indulge ourselves, we should focus on providing for the poor and needy. When we make sacrifices, we shouldn't expect repayment in this world, but should lend to the Lord by giving to the poor. God's plan is to bring down the proud and exalt the humble. Therefore, let us humble ourselves, knowing that any excellence we possess comes from the grace of God alone, and in doing so, we will be exalted.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 2.073203966952353,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                28.72,
+                41.09,
+                30.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord rebukes the spirit of pride and desires that our means be spent on providing for the poor and needy. When we sacrifice and give to the poor without expecting earthly repayment, we are lending to the Lord, who promises a rich reward at the resurrection of the just. It is part of God's plan to humble the proud and exalt the humble. Therefore, let us humble ourselves, acknowledging that our excellence comes from God's grace alone, and in doing so, we will be exalted.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.0874915474273883,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+            "commentatorTierSimilarities": [
+                29.21,
+                40.65,
+                30.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord rebukes the spirit of pride and calls for our means to be spent on the poor and needy. When we sacrifice without expecting repayment in this world, but rather lend to the Lord by giving to the poor, there will be a rich reward at the resurrection of the just. God's plan is to bring down the proud and exalt the humble. Therefore, let us humble ourselves, knowing that any excellence we have comes from God's grace alone, and in doing so, we will be exalted.",
+            "wordCount": 90,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 2.1069015728467537,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+            "commentatorTierSimilarities": [
+                29.42,
+                41.55,
+                29.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

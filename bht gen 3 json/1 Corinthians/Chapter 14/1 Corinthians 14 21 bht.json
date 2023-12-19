@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:13:17",
+    "verseRef": "1 Corinthians 14:21",
+    "bestBHT": {
+        "bht": "The scoffers in Jerusalem scorned the simplicity of divine commands, leading God to speak through the mouths of others in foreign tongues as a chastisement. Paul warns that the intelligible revelation of God is not properly received in the Corinthian Church. Using the Old Testament reference, he emphasizes that speech in strange tongues was a punishment for the unbelief of God's ancient people and becomes a hindrance in the Corinthian Church. This highlights the significance of understanding and heeding God's message in a comprehensible language.",
+        "wordCount": 87,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 2.231178363924273,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.53,
+        "commentatorTierSimilarities": [
+            35.13,
+            38.06,
+            26.8
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The scoffers in Jerusalem are introduced as scorning the simplicity of the divine commands, which were line upon line, precept upon precept, as if to children.",
+            "The Apostle personifies it, and gives it the prominence. in (as speaking in, using as the organ of speech) lips of others.",
+            "Even this sign will be for them ineffectual."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This people hear Me not, though I speak to them in the language with which they are familiar; I will therefore speak to them in other tongues, namely, those of the foes whom I will send against them; but even then they will not hearken to Me; which Paul thus applies.",
+            "Ye see that it is a penalty to be associated with men of a strange tongue, yet ye impose this on the Church.",
+            "They who speak in foreign tongues are like 'children' just 'weaned from the milk,' 'with stammering lips' speaking unintelligibly to the hearers, appearing ridiculous, or as babbling drunkards, or madmen."
+        ],
+        "Albert Barnes": [
+            "The passage in Isaiah has no reference to the miraculous gift of tongues and cannot have been used by the apostle as containing any intimation that such miraculous gifts would be imparted.",
+            " ",
+            "It seems to have been used by Paul, because the 'words' which occurred in Isaiah would 'appropriately express' the idea which he wished to convey, that God would make use of foreign languages for some 'valuable purpose.'",
+            "The sense is, as God accomplished an important purpose by the use of a foreign language in regard to his ancient people, as recorded in Isaiah, so he will make use of foreign languages to accomplish important purposes still."
+        ],
+        "Marvin Vincent": [
+            "The point of the quotation is that speech in strange tongues was a chastisement for the unbelief of God's ancient people, by which they were made to hear His voice 'speaking in the harsh commands of the foreign invader.'",
+            "So in the Corinthian Church, the intelligible revelation of God has not been properly received.",
+            "Paul omits the Heb. : This is the rest, give ye rest to the weary, and this is the repose. Sept. : This is the rest to him who is hungry, and this is the ruin."
+        ],
+        "Philip Schaff": [
+            "By men of strange tongues, and by the lips of strangers (Gr. \u2018of others\u2019) will I speak unto this people; and yet for all that will they not hear me, saith the Lord.\" ",
+            "The Jews were there warned that since they refused the simple teaching of God\u2019s prophet, they should be taught in a tongue they understood not.",
+            "See (says the apostle) that ye avoid using a tongue which none understand."
+        ],
+        "Archibald T. Robertson": [
+            "In the law it is written (\u03b5\u03bd \u03c4\u03c9 \u03bd\u03bf\u03bc\u03c9 \u03b3\u03b5\u03b3\u03c1\u03b1\u03c0\u03c4\u03b1). Isaiah 28:11. Freely quoted. "
+        ],
+        "John Gill": [
+            "the word \u05ea\u05d5\u05e8\u05d4, 'law', comprehends the prophets, and the holy writings?",
+            "from whence is the resurrection of the dead to be proved, \u05de\u05df \u05d4\u05ea\u05d5\u05e8\u05d4, 'out of the law?'",
+            "such was their stupidity and obstinacy, that they slighted and disregarded them; wherefore he threatens them he would take another method with them"
+        ],
+        "John Wesley": [
+            "In foreign tongues will I speak to this people \u2014 And so he did.",
+            "He spake terribly to them by the Babylonians, when they had set at nought what he had spoken by the prophets, who used their own language.",
+            "These words received a farther accomplishment on the day of pentecost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 14:21, the scoffers in Jerusalem are depicted as scorning the simplicity of divine commands, leading God to speak through the mouths of others in foreign tongues as a chastisement. The Apostle Paul uses this Old Testament reference to convey that the intelligible revelation of God has not been properly received in the Corinthian Church. It is a penalty for them to associate with those who speak in strange tongues that render them like children just weaned, appearing ridiculous to their hearers. The point of the quotation is that speech in foreign tongues was a chastisement for the unbelief of God\u2019s ancient people, just as it is becoming a stumbling block for the Corinthian Church.",
+            "wordCount": 116,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 2.3419310339641237,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.21,
+            "commentatorTierSimilarities": [
+                36.38,
+                38.87,
+                24.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the scoffers in Jerusalem are portrayed as scorning the simplicity of divine commands, causing God to speak through others in foreign tongues as a chastisement. Paul warns that the intelligible revelation of God is not being properly received by the Corinthian Church. Using the Old Testament reference, he emphasizes that speech in strange tongues was a punishment for the unbelief of God's ancient people, and it now poses a stumbling block for the Corinthians. This highlights the importance of understanding and heeding God's message in a language that is comprehensible.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.267335282904675,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.73,
+            "commentatorTierSimilarities": [
+                34.93,
+                38.85,
+                26.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The scoffers in Jerusalem scorned the simplicity of divine commands, leading God to speak through the mouths of others in foreign tongues as a chastisement. Paul warns that the intelligible revelation of God is not properly received in the Corinthian Church. Using the Old Testament reference, he emphasizes that speech in strange tongues was a punishment for the unbelief of God's ancient people and becomes a hindrance in the Corinthian Church. This highlights the significance of understanding and heeding God's message in a comprehensible language.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.231178363924273,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.53,
+            "commentatorTierSimilarities": [
+                35.13,
+                38.06,
+                26.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The scoffers in Jerusalem scorned the simplicity of divine commands, thus God spoke through others in foreign tongues as a chastisement. Paul warns that the revelation of God is not received properly in the Corinthian Church. Speech in strange tongues was a punishment for the unbelief of God's ancient people, and it becomes a stumbling block in the Corinthian Church. This emphasizes the importance of comprehending and heeding God's message in a language that is understood.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1631901374197167,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.27,
+            "commentatorTierSimilarities": [
+                34.74,
+                38.15,
+                27.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The scoffers in Jerusalem scorned divine commands, resulting in God speaking through others in foreign tongues. Paul warns that the revelation of God is not properly received in the Corinthian Church. Strange tongues were a punishment for the unbelief of God's ancient people and now pose a stumbling block for the Corinthians. This highlights the necessity of understanding and heeding God's message in a language that is comprehensible to avoid confusion and provide clarity in the church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.1071804667392224,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+            "commentatorTierSimilarities": [
+                34.72,
+                39.45,
+                25.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

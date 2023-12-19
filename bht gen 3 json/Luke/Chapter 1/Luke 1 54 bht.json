@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:13:32",
+    "verseRef": "Luke 1:54",
+    "bestBHT": {
+        "bht": "God, in His unfailing mercy, reaches out to His chosen ones, His servant Israel, helping them when they are weak and in danger. This divine help is not a detached act, but a personal connection between God and His people. It is a demonstration of His grace and the fulfillment of His covenant. Through His merciful intervention, God has provided salvation and sent the Messiah as the means of redemption for His servant Israel. His love and pity move Him to perform this great work of help and deliverance.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7019594369291755,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+        "commentatorTierSimilarities": [
+            12.89,
+            37.24,
+            49.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "54. holpen\u2014Compare :-, \"I have laid help on One that is mighty."
+        ],
+        "Albert Barnes": [
+            "The word rendered 'holpen' denotes properly, 'to take hold of one, to help him up when he is in danger of falling,' and here means that God had succored his people when they were feeble, and were in danger of falling or being overthrown.",
+            "His servant Israel - His people the Israelites, or those who truly revered him and kept His commandments.",
+            "In remembrance of his mercy - Or that His mercy may be remembered."
+        ],
+        "Marvin Vincent": [
+            "To lay hold in the sense of partaking carries us back to the primitive meaning of the word according to its composition: to receive instead of, or in return, and suggests the old phrase to take up for, espouse the cause of.\" (Luke 1:54)",
+            "The theocratic notion of sonship is never expressed by paiv.\" (Luke 1:54)",
+            "Servant, in allusion to Isaiah 41:8.\" (Luke 1:54)"
+        ],
+        "John Calvin": [
+            "God has now granted the salvation which he had formerly promised to the holy fathers.",
+            "God is said to have lifted up Israel, because he stretched out his hand, and lifted him up when lying prostrate.",
+            "By these words Mary shows, that the covenant which God had made with the fathers was of free grace; for she traces the salvation promised in it to the fountain of unmixed mercy."
+        ],
+        "Philip Schaff": [
+            "Luke 1:54. He hath holpen, i.e., helped, Israel his servant. This sums up what had before been described (Luke 1:51-53). "
+        ],
+        "Archibald T. Robertson": [
+            "Hath holpen (\u03b1\u03bd\u03c4\u03b5\u03bb\u03b1\u03b2\u03b5\u03c4\u03bf)...to lay hold of with a view to help or succour.",
+            "Servant (\u03c0\u03b1\u03b9\u03b4\u03bf\u03c2)...means 'servant,' not 'son' or 'child,' its usual meaning."
+        ],
+        "John Gill": [
+            "These are the Israel, God has chosen, redeemed, and calls by his grace, and are here styled his 'servant', as Israel is frequently called.",
+            "The word signifies a 'child', as well as a 'servant': and may design, either the weak and helpless condition God's elect are in by nature, which calls for, and requires divine help and assistance.",
+            "The mercy of God is the spring and source of redemption; mercy provided a Redeemer, and a ransom; and it is owing to it, that the Redeemer came; and he, in his love and pity, performed the work."
+        ],
+        "John Wesley": [
+            "He hath helped his servant Israel \u2014 By sending the Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God has not only promised to help His people, but He is mighty to fulfill that promise. In His mercy, He reaches out to take hold of His chosen ones and lifts them up, defending them from danger and providing the assistance they need. The connection between God and His people is not that of a detached ruler and subjects, but of a compassionate helper and those in need of help. This help is not based on any merit or entitlement, but on God's unmerited favor and grace. It is through His great mercy that He has provided salvation, fulfilling the covenant He made with the fathers. In His love and pity, God has sent the Messiah to be the means of help and redemption for His servant Israel.",
+            "wordCount": 130,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 1.753198040715747,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.64,
+            "commentatorTierSimilarities": [
+                16.12,
+                36.63,
+                47.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God, in His unfailing mercy, reaches out to His chosen ones, His servant Israel, helping them when they are weak and in danger. This divine help is not a detached act, but a personal connection between God and His people. It is a demonstration of His grace and the fulfillment of His covenant. Through His merciful intervention, God has provided salvation and sent the Messiah as the means of redemption for His servant Israel. His love and pity move Him to perform this great work of help and deliverance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7019594369291755,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+            "commentatorTierSimilarities": [
+                12.89,
+                37.24,
+                49.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's mercy is demonstrated through His divine help to His chosen ones, especially to His servant Israel. He lovingly reaches out to lift them up when they are weak and in danger of falling. This assistance is not based on any entitlement, but on God's gracious favor. Through His mercy, God fulfills the covenant promises made to the fathers, providing salvation through the Messiah. His love and compassion move Him to extend this help and deliverance to His people.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.659603326805573,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.52,
+            "commentatorTierSimilarities": [
+                15.17,
+                37.37,
+                47.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In His mercy, God provides divine help to His chosen ones, His servant Israel. He reaches out to support and uplift them when they are weak and vulnerable. This assistance is not earned but given freely through God's grace and favor. By fulfilling the promises He made to the fathers, God brings about salvation, sending the Messiah as the means of deliverance. His love and compassion prompt Him to extend this help and bring about redemption for His people.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.6805928896695952,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                13.68,
+                36.5,
+                49.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God, in His unfailing mercy, reaches out to His chosen ones, His servant Israel, helping them when they are weak and in danger. This divine help is not a detached act, but a personal connection between God and His people. It is a demonstration of His grace and the fulfillment of His covenant. Through His merciful intervention, God has provided salvation and sent the Messiah as the means of redemption for His servant Israel. His love and pity move Him to perform this great work of help and deliverance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7019594369291755,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.93,
+            "commentatorTierSimilarities": [
+                12.89,
+                37.24,
+                49.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

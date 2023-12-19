@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:28:36",
+    "verseRef": "1 Timothy 4:6",
+    "bestBHT": {
+        "bht": "A minister's duty is to educate the brethren on the words of faith and good teaching, cautioning them against the teachings of demons. This service to Christ is the means by which one becomes a good minister. A minister should avoid disappointing expectations, striving to be faithful and exemplary, pleasing God rather than seeking human applause. Reminding the church of what they have received and known, establishing them in the truths of the Gospel, is crucial for a minister's service.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.7499017813894682,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+        "commentatorTierSimilarities": [
+            26.44,
+            31.79,
+            41.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "If thou suggest to (bring under the notice of) the brethren.\" ",
+            "The words of the faith\" (compare 2 Timothy 3:15). ",
+            "The good teaching\" in opposition to the \"teachings of demons."
+        ],
+        "Albert Barnes": [
+            "It is the duty of the ministry to show to the people of their charge what 'is' error and where it may be apprehended, and to caution them to avoid it.",
+            "From one who had been thus educated, it was reasonable to expect that he would be a faithful and exemplary minister of the gospel.",
+            "No young man should, by neglect, indolence, or folly, disappoint the reasonable expectations of his friends."
+        ],
+        "Marvin Vincent": [
+            "Tauta these things are those mentioned vv. 4, 5.",
+            "Rendering Christ himself a service by setting himself against ascetic errors.",
+            "The participle indicates the means by which Timothy may become a good minister."
+        ],
+        "John Calvin": [
+            "Let us, therefore, remember, that as it is the highest honor of a godly pastor to be reckoned a good servant of Christ, so he ought to aim at nothing else during his whole ministry.",
+            "Whoever has any other object in view, will have it in his power to obtain applause from men, but will not please God.",
+            "Faith is here taken for the sum of Christian doctrine; and what he immediately adds, about good doctrine, is for the sake of explanation; for he means, that all other doctrines, how plausible so ever they may be, are not at all profitable."
+        ],
+        "Philip Schaff": [
+            "The use of the word tends to limit \u2018these things\u2019 to the immediate context.\" ",
+            "Whatever difference there might be between apostles, elders, deacons, all were alike \u2018ministers\u2019 of Christ.",
+            "The word expresses rather the thought of being \u2018reared\u2019 or \u2018educated in\u2019 the words of faith, and suggests the half-medical reference to \u2018bodily exercise\u2019 that follows."
+        ],
+        "Archibald T. Robertson": [
+            "Suggesting these things to the brethren.",
+            "This beautiful phrase covers one's whole service for Christ.",
+            "The right diet for babes in Christ. The Bolshevists in Russia are feeding the children on atheism to get rid of God."
+        ],
+        "John Gill": [
+            "It is one part of the business of Gospel ministers to put the churches in mind of what they have received and known, and are established in.\" ",
+            "A minister of Jesus Christ is one of his making, qualifying, calling, and sending.\" ",
+            "By which are meant the truths of the Gospel, called the words of faith, because they are things to be believed, hold forth the object of faith, Christ, and are the means by which faith comes, and is increased."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The duty of a minister is to bring to the attention of the brethren the words of the faith and the good teaching, warning them against the teachings of demons. By suggesting these things to the brethren, a minister renders a service to Christ and becomes a good minister through this means. This phrase encompasses one's entire service for Christ. It is important for a minister to educate the people on what is error and where it may be found, to avoid disappointing the reasonable expectations of friends. The focus should be on being a faithful and exemplary minister of the gospel, pleasing God rather than seeking applause from men. A minister should remind the church of what they have received and known, establishing them in the truths of the Gospel.",
+            "wordCount": 132,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 1.7598310412758904,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                26.21,
+                34.23,
+                39.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A minister's duty is to bring the words of faith and good teaching to the attention of the brethren, cautioning them against the teachings of demons. This service to Christ is the means by which one becomes a good minister. It is crucial for a minister to educate the people on error and avoid disappointing expectations. They should be faithful and exemplary, pleasing God rather than seeking human applause. Reminding the church of what they have received and known, establishing them in the truths of the Gospel, is vital for a minister's service.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.669564977286809,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+            "commentatorTierSimilarities": [
+                25.22,
+                33.57,
+                41.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A minister's duty is to educate the brethren on the words of faith and good teaching, cautioning them against the teachings of demons. This service to Christ is the means by which one becomes a good minister. A minister should avoid disappointing expectations, striving to be faithful and exemplary, pleasing God rather than seeking human applause. Reminding the church of what they have received and known, establishing them in the truths of the Gospel, is crucial for a minister's service.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7499017813894682,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+            "commentatorTierSimilarities": [
+                26.44,
+                31.79,
+                41.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A minister's duty is to suggest the words of faith and good teaching to the brethren, cautioning them against the teachings of demons. This service to Christ is the means by which one becomes a good minister. It is important for a minister to educate the people on error and avoid disappointing expectations. They should be faithful and exemplary, pleasing God rather than seeking human applause. Reminding the church of what they have received and known, establishing them in the truths of the Gospel, is vital for a minister's service.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6799610002669874,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.2,
+            "commentatorTierSimilarities": [
+                25.26,
+                33.78,
+                40.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A minister's duty is to bring to the attention of the brethren the words of the faith and the good teaching, warning them against the teachings of demons. By suggesting these things to the brethren, a minister renders a service to Christ and becomes a good minister through this means. This phrase encompasses one's entire service for Christ. It is important for a minister to educate the people on what is error and where it may be found, to avoid disappointing the reasonable expectations of friends. The focus should be on being a faithful and exemplary minister of the gospel, pleasing God rather than seeking applause from men.",
+            "wordCount": 110,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7555521146184616,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.71,
+            "commentatorTierSimilarities": [
+                27.73,
+                35.1,
+                37.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

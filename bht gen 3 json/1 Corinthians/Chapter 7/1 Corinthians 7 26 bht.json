@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:06:58",
+    "verseRef": "1 Corinthians 7:26",
+    "bestBHT": {
+        "bht": "In light of the ongoing distress predicted by Jesus, it is advisable for individuals to give consideration to the expediency of contracting marriage. The urgency and distress faced by believers at that time made the married state less desirable. Paul expresses his judgment and advice, as opposed to a command. Therefore, in the midst of the present trials and tempests endured by believers, it is best for singles to remain unmarried and conduct themselves accordingly.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 1.6679345199826008,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+        "commentatorTierSimilarities": [
+            31.43,
+            31.51,
+            37.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The question of the marriage of virgins is one involving the expediency of contracting marriage in general: this he deals with now, on grounds connected with the then pressing necessity.\" ",
+            "The present (or instant) necessity: viz. that prophesied by the Lord, Matt. xxiv. 8, 21, &c.: which shall precede His coming.",
+            "These the Apostle regards as instant, already begun: for this is the meaning, not imminent shortly to come."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I consider...for a man so to be, that is, in the same state in which he is.\" ",
+            "By reason of...the present distress.",
+            "The distresses to which believers were then beginning to be subjected, making the married state less desirable than the single."
+        ],
+        "Albert Barnes": [
+            "For the present distress - In the present state of trial.",
+            "The word 'distress' (\u03b1\u0313\u03bd\u03b1\u0301\u03b3\u03ba\u03b7\u03bd anagke\u0304n, necessity) denotes calamity, persecution, trial, etc.",
+            "It is good for a man so to be - The emphasis here is on the word 'so' \u03bf\u03c5\u0314\u0301\u03c4\u03c9\u03c2 houto\u0304s; that is, it is best for a man to conduct 'in the following manner;'"
+        ],
+        "Marvin Vincent": [
+            "Enestwsan present may also express something which is not simply present, but the presence of which foreshadows and inaugurates something to come.\" ",
+            "Anagkh means originally force, constraint, necessity, and this is its usual meaning in classical Greek; though in the poets it sometimes has the meaning of distress, anguish, which is very common in Hellenistic Greek.",
+            "The distress is that which should precede Christ's second coming, and which was predicted by the Lord himself, Matthew 24:8 sqq. Compare Luke 21:23-28."
+        ],
+        "John Calvin": [
+            "I think it expedient on account of the necessity, with which the saints are always harassed in this life, that all should enjoy the liberty and advantage of celibacy, as this would be of advantage to them.",
+            "The saints are often, in this world, driven hither and thither, and are exposed to many and various tempests, so that their condition appears to be unsuitable for marriage.",
+            "The phrase so to be, signifies to remain unmarried, or to abstain from marriage."
+        ],
+        "Archibald T. Robertson": [
+            "Paul proceeds to express therefore the previously mentioned judgment (\u03b3\u03bd\u03c9\u03bc\u03b7\u03bd) and calls it his opinion, not because he is uncertain, but simply because it is not a command, but advice.",
+            "The participle \u03b5\u03bd\u03b5\u03c3\u03c4\u03c9\u03c3\u03b1\u03bd is second perfect active of \u03b5\u03bd\u03b9\u03c3\u03c4\u03b7\u03bc and means 'standing on' or 'present'...Whether Paul has in mind the hoped for second coming of Jesus in this verse we do not certainly know, though probably so.",
+            "Perhaps there is a mingling of both ideas here...Paul means for one (\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9, generic term for man or woman) to remain as he is whether married or unmarried."
+        ],
+        "John Gill": [
+            "It was better, more advisable and eligible, for persons that were single to continue so.",
+            "Because this was the present case of the Christians, he thought it most prudent for such as were single to remain so.",
+            "The apostle does not add, 'even as I'; as he does in 1 Corinthians 7:8 which seems to confirm the conjecture already made, that he was not a bachelor, but a widower."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In discussing the question of the marriage of virgins, the first-tier commentaries emphasize the immediate necessity and distress that believers were facing, which made the married state less desirable. The present distress is seen as a foreshadowing of the preceding Christ's second coming, as foretold by Jesus Himself. Paul is expressing his judgment and advice, rather than giving a command. The second-tier commentaries highlight that the present distress refers to the current state of trial. Therefore, it is best for individuals to conduct themselves accordingly. Lastly, the third-tier commentaries suggest that in light of the ongoing trials and tempestuous conditions faced by believers, it is advisable for those who are single to remain unmarried.",
+            "wordCount": 118,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.5775156888326105,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+            "commentatorTierSimilarities": [
+                33.15,
+                34.49,
+                32.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In considering the expediency of contracting marriage, the urgency and distress faced by believers at that time made the married state less desirable. This distress, predicted by Jesus, foreshadows His second coming. Paul expresses his judgment and advice, as opposed to a command. The ongoing trials and tempests endured by saints suggest it is advisable for singles to remain unmarried. It is best for individuals to conduct themselves in accordance with the present state of trial.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5837442127203993,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.0,
+            "commentatorTierSimilarities": [
+                31.44,
+                36.27,
+                32.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In light of the ongoing distress predicted by Jesus, it is advisable for individuals to give consideration to the expediency of contracting marriage. The urgency and distress faced by believers at that time made the married state less desirable. Paul expresses his judgment and advice, as opposed to a command. Therefore, in the midst of the present trials and tempests endured by believers, it is best for singles to remain unmarried and conduct themselves accordingly.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.6679345199826008,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                31.43,
+                31.51,
+                37.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In view of the present necessity and distress predicted by Jesus, it is advisable for individuals to carefully consider the expediency of marrying. The urgency and ongoing trials faced by believers make the married state less desirable. Paul offers his judgment and advice, rather than a command, understanding the challenges believers are confronted with. Therefore, it is best for unmarried individuals to remain in their current state, recognizing the significance of the present distress and conducting themselves accordingly.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.6318488818746508,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+            "commentatorTierSimilarities": [
+                30.2,
+                31.93,
+                37.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In light of the present necessity and the distress predicted by Jesus, it is advisable for individuals to carefully consider the expediency of marriage. The urgency and ongoing trials faced by believers make the married state less desirable. Paul shares his judgment and advice, acknowledging the challenges and significance of the present distress. Therefore, it is best for unmarried individuals to remain in their current state, recognizing the necessity of abstaining from marriage and conducting themselves accordingly.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.639115917854875,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.84,
+            "commentatorTierSimilarities": [
+                29.41,
+                31.37,
+                39.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

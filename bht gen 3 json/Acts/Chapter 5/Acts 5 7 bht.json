@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:26:29",
+    "verseRef": "Acts 5:7",
+    "bestBHT": {
+        "bht": "Sapphira, ignorant of her husband's doom, arrived at the temple after about three hours, expecting to witness his elevated status among the apostles. Little did she know that he had held back a portion of the price. Her lack of awareness exemplifies the magnitude of their dishonesty. The punishment inflicted upon Sapphira serves to underscore the gravity of their actions. This significant timeframe provided ample opportunity for her to repent, had she been aware.",
+        "wordCount": 75,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.184854115908048,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.74,
+        "commentatorTierSimilarities": [
+            13.89,
+            35.96,
+            50.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "7-11. Tell me whether ye sold the",
+            "\tland for so much\u2014naming the sum."
+        ],
+        "Albert Barnes": [
+            "As Sapphira had been no less guilty...",
+            "...the same judgment should come upon both.",
+            "...ordered in the providence of God..."
+        ],
+        "John Calvin": [
+            "That punishment wherewith the Lord punished Sapphira containeth no new thing, save only that the example was the more confirmed thereby.",
+            "Neither was Sapphira provoked by the sight of her husband to dissemble, (as it falleth out oftentimes,) that the fault could be ascribed to shamefacedness, but of her own accord.",
+            "Moreover, their wickedness in lying was like, forasmuch as she may see by Peter\u2019s interrogation that their guile was found out."
+        ],
+        "Philip Schaff": [
+            "The words \u2018about the space of three hours\u2019 form a parenthesis. Then \u2018it came to pass some three hours had now elapsed when his wife.\u2019",
+            "She was puzzled at the long absence of her husband, who had left her to present his rich gift formally to the Church.",
+            "No one, it has been suggested, who had seen her, as yet had had the courage to tell her of her husband\u2019s doom."
+        ],
+        "Archibald T. Robertson": [
+            "An interval of about three hours.",
+            "This use of \u03ba\u03b1 after \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf is characteristic of Luke's style in the Gospel.",
+            "\u039c\u03b7 usual negative of the participle in the Koine."
+        ],
+        "John Gill": [
+            "So much time was taken up in burying of him; and in less time it could not well be, since the burying places of the Jews were without the city.",
+            "Sapphira therefore, being ignorant of the whole affair, came in; to the temple or house where the apostles were, expecting to see her husband among the apostles, and chief men, in great honour and esteem for what he had done.",
+            "She knew that her husband kept back part of the price of the land, and how much it was, and what he brought to the apostles; but she did not know that the fraud was detected, nor what followed."
+        ],
+        "John Wesley": [
+            "About the space of three hours \u2014 How precious a space! The woman had a longer time for repentance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "About three hours passed since the sale of the land, and Sapphira, unaware of the unfolding events, entered the temple expecting to see her husband among the revered apostles. Little did she know that he had held back a portion of the price. Her ignorance of the fraud being exposed demonstrates the wickedness of their deception. The punishment given to Sapphira serves as a warning, confirming the severity of their actions. Sapphira's prolonged period of time allowed for potential repentance, though tragically, she remained unaware until it was too late.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.1670268774443198,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.15,
+            "commentatorTierSimilarities": [
+                11.75,
+                36.47,
+                51.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sapphira, unaware of her husband's fate, arrived at the temple about three hours later, expecting to see him honored for his generous gift. She had no knowledge that he had kept back part of the price. Her ignorance highlights the extent of their deceit, and the severe punishment serves as a confirmation of the seriousness of their actions. This interval of time provided an opportunity for her to repent, if only she had known the truth.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.1684332282759295,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.19,
+            "commentatorTierSimilarities": [
+                9.84,
+                36.11,
+                54.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sapphira entered the temple about three hours later, unaware of the deception and expecting to see her husband among the esteemed apostles. Her ignorance of the detected fraud and the severity of their guilt is evident from Peter's interrogation. This punishment serves as a confirmation of the seriousness of their actions, although it allowed Sapphira a precious amount of time for potential repentance. Tragically, she remained unaware until it was too late, highlighting the consequences of their wickedness.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.1472040981190637,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.49,
+            "commentatorTierSimilarities": [
+                5.07,
+                35.11,
+                59.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sapphira, ignorant of her husband's doom, arrived at the temple after about three hours, expecting to witness his elevated status among the apostles. Little did she know that he had held back a portion of the price. Her lack of awareness exemplifies the magnitude of their dishonesty. The punishment inflicted upon Sapphira serves to underscore the gravity of their actions. This significant timeframe provided ample opportunity for her to repent, had she been aware.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.184854115908048,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.74,
+            "commentatorTierSimilarities": [
+                13.89,
+                35.96,
+                50.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "About three hours later, Sapphira, unaware of her husband's judgment, arrived at the temple with anticipation of seeing him honored for his generous donation. Unbeknownst to her, he had deceitfully withheld a portion of the proceeds. Sapphira's ignorance reveals the extent of their wickedness, and the severe penalty conveys the seriousness of their deception. This interval of time allowed for the potential of repentance, though tragically, she remained unaware until it was too late. The procrastination in her arrival inadvertently provided an opportunity for reflection and remorse.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.1348161879920577,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.08,
+            "commentatorTierSimilarities": [
+                9.34,
+                39.24,
+                51.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

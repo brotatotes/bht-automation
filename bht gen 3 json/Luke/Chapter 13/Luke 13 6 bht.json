@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:19:27",
+    "verseRef": "Luke 13:6",
+    "bestBHT": {
+        "bht": "The fig tree in this parable represents Israel, the visible witness of God, and the vineyard symbolizes a spot specifically chosen for its fertility and cultivated solely for the purpose of bearing fruit. Just as the owner of the vineyard had already planted a fig tree, God has expectations for His people to produce the fruits of righteousness. This parable serves as a reminder of God's patience and cultivation of His people, highlighting the danger of their unfruitfulness and the need for repentance.",
+        "wordCount": 84,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 1.8296006175092212,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+        "commentatorTierSimilarities": [
+            36.57,
+            28.13,
+            35.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "fig tree\u2014Israel, as the visible witness of God in the world, but generally all within the pale of the visible Church of God.\" ",
+            "vineyard\u2014a spot selected for its fertility, separated from the surrounding fields, and cultivated with special care, with a view solely to fruit.",
+            "came and sought fruit\u2014a heart turned to God the fruits of righteousness; compare Matthew 21:33; Matthew 21:34; Isaiah 5:2, 'He looked that it should bring forth fruit'; He has a right to it, and will require it."
+        ],
+        "Albert Barnes": [
+            "This parable - See the notes at Matthew 13:3.",
+            "Vineyard - A place where vines were planted.",
+            "It was not common to plant fig-trees in them, but our Lord represents it as having been sometimes done."
+        ],
+        "John Calvin": [
+            "The wicked flattery, by which hypocrites are hardened, and become more obstinate, arises from this cause, that they do not think of their sins till they are compelled.",
+            "Thus they indulge themselves more freely, as if...they had made a covenant with death, and were in friendship with the grave.",
+            "A comparison is here drawn between the owner and the vine-dresser: not that God\u2019s ministers go beyond him in gentleness and forbearance, but because the Lord not only prolongs the life of sinners, but likewise cultivates them in a variety of ways, that they may yield better fruit."
+        ],
+        "Philip Schaff": [
+            "Luke 13:6. A fig tree planted in his vineyard. This was not unusual, nor contrary to Deuteronomy 22:9.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Planted (\u03c0\u03b5\u03c6\u03c5\u03c4\u03b5\u03c5\u03bc\u03b5\u03bd\u03b7\u03bd). Perfect passive participle of \u03c6\u03c5\u03c4\u03b5\u03c5\u03c9, to plant, an old verb, from \u03c6\u03c5\u03c4\u03bf\u03bd, a plant, and that from \u03c6\u03c5\u03c9, to grow.\" ",
+            "But this participle with \u03b5\u03b9\u03c7\u03b5\u03bd (imperfect active of \u03b5\u03c7\u03c9) does not make a periphrastic past perfect like our English 'had planted.'",
+            "It means rather, he had a fig tree, one already planted in his vineyard."
+        ],
+        "John Gill": [
+            "Setting forth the patience of God towards the Jewish nation, their unfruitfulness, and the danger of their being destroyed, in case of non-amendment.",
+            "By the 'certain man' may be meant, either God the Father, who is sometimes called an husbandman or rather the Lord Jesus Christ, who is truly man, as well as properly God.",
+            "This, if understood of God the Father, designs his coming to the Jewish people by his servants and prophets, time after time, and at last by John the Baptist, and Jesus Christ, and his apostles, seeking and requiring fruits of holiness, righteousness, and judgment, but found instead thereof the wild grapes of wickedness, oppression, and violence."
+        ],
+        "John Wesley": [
+            "Either we may understand God the Father by him that had the vineyard, and Christ by him that kept it.",
+            "Christ himself is he that hath [the fig tree], and his ministers they that keep it.",
+            "Psalm 80:8. etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fig tree represents Israel, the visible witness of God in the world, as well as all who are part of the visible Church of God. The vineyard, on the other hand, symbolizes a place chosen for its fertility, cultivated with care solely for the purpose of bearing fruit. God expects his people to produce the fruits of righteousness, just as a vineyard owner anticipates grapes from his vineyard. The owner of the vineyard already had a fig tree in his vineyard, indicating that there was an expectation for it to bear fruit. This parable serves to illustrate God's patience and cultivation of his people, highlighting the danger of their unfruitfulness and the need for repentance.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.6720339842033263,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                37.95,
+                28.11,
+                33.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fig tree in this parable symbolizes Israel, the visible witness of God, and the vineyard represents a fertile place specifically cultivated for fruit-bearing. God expects His people to produce the fruits of righteousness. This parable illustrates God's patience and cultivation of His people, highlighting the danger of their unfruitfulness and the need for repentance. It emphasizes that God, like the owner of the vineyard, desires to see His people producing fruit.",
+            "wordCount": 74,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 1.6596204576764177,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.52,
+            "commentatorTierSimilarities": [
+                33.68,
+                26.65,
+                39.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fig tree in this parable represents Israel, the visible witness of God, and the vineyard symbolizes a spot specifically chosen for its fertility and cultivated solely for the purpose of bearing fruit. Just as the owner of the vineyard had already planted a fig tree, God has expectations for His people to produce the fruits of righteousness. This parable serves as a reminder of God's patience and cultivation of His people, highlighting the danger of their unfruitfulness and the need for repentance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.8296006175092212,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+            "commentatorTierSimilarities": [
+                36.57,
+                28.13,
+                35.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fig tree in this parable represents Israel, the visible witness of God in the world. The vineyard symbolizes a spot chosen for its fertility, cultivated solely for fruit-bearing. God expects His people to produce the fruits of righteousness. This parable highlights God's patience and cultivation of His people, emphasizing the danger of their unfruitfulness and the need for repentance. It serves as a reminder that just as the owner of the vineyard already had a fig tree, God has expectations for His people to bear fruit.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.6299468962432924,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.54,
+            "commentatorTierSimilarities": [
+                36.84,
+                27.82,
+                35.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fig tree in this parable represents Israel, the visible witness of God, within the Church. The vineyard symbolizes a fertile place specifically cultivated for fruit-bearing. God seeks the fruits of righteousness from His people\u2019s hearts, as He has a right to it and will require it. This parable illustrates God's patience and cultivation of His people and emphasizes the danger of their unfruitfulness and the need for repentance. The vineyard owner already had a fig tree planted, symbolizing God's expectations for His people to produce fruit.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.632082089231584,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.61,
+            "commentatorTierSimilarities": [
+                36.34,
+                29.35,
+                34.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

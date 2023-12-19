@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:53:37",
+    "verseRef": "Philippians 1:5",
+    "bestBHT": {
+        "bht": "The Philippians had a unified and unanimous action in their fellowship with one another as it pertains to the Gospel. This fellowship included acts of communion, liberality towards brethren and ministers, and contributions for the spread of the gospel. They had been partakers of the Gospel and had shown a common interest in its furtherance. From the very beginning, they had actively participated in the fellowship of the Gospel, continuously growing in the spirit of it. Their joyful reception and steadfast perseverance in the Gospel had resulted in the furtherance of the Gospel within themselves and among the people.",
+        "wordCount": 99,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.3152511880918505,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.32,
+        "commentatorTierSimilarities": [
+            32.35,
+            34.3,
+            33.35
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Your fellowship (with one another: entire accord, unanimous action: not your fellowship with me) as regards the Gospel.\" ",
+            "Their mutual accord was for the purposes of the Gospel\u2014i.e. the perfecting, of which he proceeds to treat.",
+            "The expression 'your fellowship as regards the Gospel' may include without expressly mentioning their contribution (ch. iv. 15) to the Apostle\u2019s necessity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Believers have the fellowship of the Son of God and of the Father in the Gospel, by becoming partakers of 'the fellowship of the Holy Ghost.'\" (75 words)",
+            "They exercise that fellowship by acts of communion, not only the communion of the Lord's Supper, but holy liberality to brethren and ministers.\" (28 words)",
+            "Philippians 4:10; Philippians 4:15, 'communicated . . . concerning giving'; 2 Corinthians 9:13; Galatians 6:6; Hebrews 13:16, 'To communicate forget not.'\" (34 words)"
+        ],
+        "Albert Barnes": [
+            "They felt a common interest in every thing that pertained to [the gospel], and they showed this in every suitable way, and especially in ministering to the wants of those who were appointed to preach it.",
+            "One of the highest joys which a minister of the gospel can have, is that furnished by the holy walk of the people to whom he has ministered.",
+            "In this world there is nothing that goes so far in promoting happiness as a willingness to be pleased rather than displeased, to be satisfied rather than dissatisfied with the conduct of others."
+        ],
+        "Marvin Vincent": [
+            "For fellowship, see on 1 John 1:3.",
+            "The word sometimes has the meaning of almsgiving, contributions.",
+            "In the Gospel: Lit., unto the Gospel : Rev., in furtherance of."
+        ],
+        "John Calvin": [
+            "They had come into the fellowship of the gospel, that is, had become partakers of the gospel, which, as is well known, is accomplished by means of faith.",
+            "At the same time the term fellowship may be viewed as referring to the common society of the saints, as though he had said that they had been associated with all the children of God in the faith of the gospel.",
+            "Now we know how rare an excellence it is, to follow God immediately upon his calling us, and also to persevere steadfastly unto the end."
+        ],
+        "Philip Schaff": [
+            "He spoke of a state of progress and advance.",
+            "In their own persons they had been growing daily more and more into the spirit of the Gospel.",
+            "The Gospel had been furthered in themselves, and also in the people among whom they lived."
+        ],
+        "Archibald T. Robertson": [
+            "On the basis of your contribution\" as in 2 Corinthians 8:4; 2 Corinthians 9:13; Acts 2:42.",
+            "The particular kind of 'partnership' or 'fellowship' involved is the contribution made by the Philippians for the spread of the gospel.",
+            "From the first day until now\" as when in Thessalonica (Philippians 4:15), in Corinth (Acts 18:5; 2 Corinthians 11:7-10), and now in Rome."
+        ],
+        "John Gill": [
+            "They had been very communicative to him, and those that were with him, from the beginning of the Gospel being preached to them.",
+            "They received it with joy and gladness, and cheerfully submitted to the ordinances of it; they had much light into it, and spiritual knowledge of it.",
+            "They continued in the Gospel which they were made partakers of, and in fellowship with one another, in breaking of bread, and in prayer, and in hearing the word, which they constantly attended to, and were blessed with communion with Father, Son, and Spirit, to that time."
+        ],
+        "John Wesley": [
+            "I thank God for your fellowship with us in all the blessings of the gospel...",
+            "...from the first day of your receiving it...",
+            "...until now."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Philippians had a unified and unanimous action in their fellowship with one another as it pertains to the Gospel. This fellowship included acts of communion, liberality towards brethren and ministers, and contributions for the spread of the gospel. They had been partakers of the Gospel and had shown a common interest in its furtherance. From the very beginning, they had actively participated in the fellowship of the Gospel, continuously growing in the spirit of it. Their joyful reception and steadfast perseverance in the Gospel had resulted in the furtherance of the Gospel within themselves and among the people.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.3152511880918505,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.32,
+            "commentatorTierSimilarities": [
+                32.35,
+                34.3,
+                33.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Philippians demonstrated a unanimous action in their fellowship with one another, specifically in regard to the Gospel. This fellowship encompassed acts of communion and generous support towards brethren and ministers. They actively contributed to the spread of the Gospel and had been partakers of its blessings since the very beginning. Their commitment to the Gospel resulted in its furtherance within themselves and the people around them. They joyfully embraced the Gospel, persevering in their faith and continuously growing in its spirit.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.1854069059975947,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.01,
+            "commentatorTierSimilarities": [
+                31.05,
+                34.88,
+                34.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Philippians shared a unanimous action in their fellowship, specifically in regard to the Gospel. Their fellowship involved acts of communion and generous support towards brethren and ministers. They actively contributed to the spread of the Gospel and had partaken in its blessings since the beginning. Their commitment resulted in the furtherance of the Gospel within themselves and their community. They wholeheartedly embraced the Gospel, persevered in faith, and continuously grew in its spirit.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 2.1827992684293287,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.92,
+            "commentatorTierSimilarities": [
+                32.71,
+                33.22,
+                34.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Philippians exhibited a unanimous action in their fellowship with one another, specifically in relation to the Gospel. Their fellowship was characterized by acts of communion and liberality towards brethren and ministers. They actively contributed to the spread of the Gospel and had become partakers of its blessings. Their unwavering commitment to the Gospel resulted in its furtherance, both within themselves and among the people they lived among. From the very beginning of their reception of the Gospel, they joyfully embraced it, persevered in faith, and continually grew in its spirit.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.236007013071391,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.69,
+            "commentatorTierSimilarities": [
+                30.89,
+                34.91,
+                34.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Philippians shared a unanimous action in their fellowship with one another, specifically in relation to the Gospel. Their fellowship involved acts of communion and generosity towards brethren and ministers. They actively contributed to the spread of the Gospel, becoming partakers of its blessings. Their unwavering commitment to the Gospel resulted in its furtherance within themselves and the community. From the very beginning, they joyfully embraced the Gospel, persevered in faith, and continually grew in its spirit.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.1783189059365293,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.77,
+            "commentatorTierSimilarities": [
+                32.65,
+                33.48,
+                33.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

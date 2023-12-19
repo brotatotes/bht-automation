@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:35:02",
+    "verseRef": "Acts 21:38",
+    "bestBHT": {
+        "bht": "The chief captain initially mistook Paul for the Egyptian who deceived people by claiming to be a prophet and gathering followers. This Egyptian led thousands, including Sicarii assassins, to Mount Olivet, convincing them that the city walls would fall. The Sicarii were known for their hidden short swords which they used to openly murder people in Jerusalem. However, Paul's ability to speak Greek proved he wasn't the Egyptian, exposing the chief captain's mistaken assumption and the dangerous nature of the Sicarii.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8016126366882075,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+        "commentatorTierSimilarities": [
+            22.99,
+            37.54,
+            39.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His being able to speak Greek is a proof to Lysias that he is not that Egyptian.",
+            "At different times of his rebellion, his number of followers would be variously estimated; and the tribune would naturally take it as he himself or his informant had known it, at some one period.",
+            "Another kind of brigands abounded in Jerusalem, those named Sicarii, who slew men in open day in the midst of the city: mixing with the crowds principally in the feasts, and having short swords hidden under their garments, with which they stabbed people."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The narrative is given in JOSEPHUS.",
+            "His two allusions and ours seem to refer to different periods of the rebellion.",
+            "Though his two allusions and ours seem to refer to different periods of the rebellion."
+        ],
+        "Albert Barnes": [
+            "That Egyptian was probably a Jew who resided in Egypt.",
+            "This wilderness was the wild and uncultivated mountainous tract of country lying to the east of Jerusalem, and between it and the river Jordan.",
+            "It is more probable that the number was only 4,000 than that it was 30,000 thousand."
+        ],
+        "Marvin Vincent": [
+            "Thou art not, then, as I supposed.",
+            "The true idea is given in the A. V. of Acts 17:6, have turned the world upside down.",
+            "The Sicarii were so called from the weapon which they used - the sica, or short, curved dagger."
+        ],
+        "Philip Schaff": [
+            "The \u2018Egyptian\u2019 for whom the chief captain had mistaken Paul was a notorious character in those days.",
+            "The name \u2018Sicarii,\u2019 assassins, was derived from \u2018sica,\u2019 a dagger or short sword these robbers wore beneath their clothing.",
+            "From the words of the chief captain to Paul, it was no doubt a notorious fact that the \u2018Egyptian impostor\u2019 in question was an illiterate person, and did not speak \u2018Greek.\u2019"
+        ],
+        "John Gill": [
+            "Josephus speaks of one that came out of Egypt to Jerusalem, and gave out that he was a prophet, and deceived the people, whom he persuaded to follow him to the Mount of Olives.",
+            "He being a magician, and having got himself to be believed as a prophet, came into the country (of Judea), and gathered together about thirty thousand persons, whom he had deceived.",
+            "Among these thirty thousand, he had four thousand 'murderers, or sicarii': so called from the little swords which they carried under their clothes, and with them killed men in the daytime, in the middle of the city."
+        ],
+        "John Wesley": [
+            "Art not thou that Egyptian \u2014 Who came into Judea when Felix had been some years governor there!",
+            "Calling himself a prophet, he drew much people after him; and having brought them through the wilderness, led them to Mount Olivet, promising that the walls of the city should fall down before them.",
+            "But Felix marching out of Jerusalem against him, his followers quickly dispersed, many of whom were taken or slain; but he himself made his escape."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief captain mistook Paul as the Egyptian who had caused trouble by deceiving people and gathering followers. This Egyptian claimed to be a prophet and led about thirty thousand people, including four thousand assassins known as Sicarii, to Mount Olivet, promising that the city walls would fall before them. However, the followers dispersed when Felix marched against them. The chief captain's realization that Paul could speak Greek proved that he was not the Egyptian, providing evidence to refute the assumption. The Sicarii were known for carrying short swords hidden under their garments, using them to stab people in broad daylight.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.705606754143808,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                24.54,
+                34.6,
+                40.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief captain mistook Paul as the Egyptian who deceived people and gathered followers. This Egyptian claimed to be a prophet and led about thirty thousand people, including four thousand assassins known as Sicarii, to Mount Olivet, promising the walls would fall. But Felix dispersed his followers, with many taken or slain. However, the chief captain realized Paul could speak Greek, proving he wasn't the Egyptian. The Sicarii were known for their concealed short swords, using them to stab people openly.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6771536853247966,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                23.19,
+                34.8,
+                42.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief captain initially mistook Paul for the Egyptian who had deceived people, claiming to be a prophet and leading thousands of followers, including four thousand assassins known as Sicarii, to Mount Olivet. However, Paul's ability to speak Greek proved he was not the Egyptian. The Sicarii were notorious for carrying short swords hidden under their clothing and using them to openly kill people in broad daylight. This highlights the chief captain's misconceptions and demonstrates the dangerous nature of the Sicarii.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6313941430450376,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.59,
+            "commentatorTierSimilarities": [
+                25.6,
+                38.65,
+                35.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief captain mistakenly believed Paul to be the Egyptian who led a large following, including Sicarii assassins, to Mount Olivet. These Sicarii were known for carrying concealed short swords and openly killing people in Jerusalem. However, Paul's fluency in Greek proved he was not the Egyptian impostor. The chief captain's confusion highlights the deceptive nature of the Egyptian and the danger posed by the Sicarii. It also emphasizes the importance of linguistic abilities in distinguishing individuals in this historical context.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.5679131967799236,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.48,
+            "commentatorTierSimilarities": [
+                25.02,
+                42.18,
+                32.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief captain initially mistook Paul for the Egyptian who deceived people by claiming to be a prophet and gathering followers. This Egyptian led thousands, including Sicarii assassins, to Mount Olivet, convincing them that the city walls would fall. The Sicarii were known for their hidden short swords which they used to openly murder people in Jerusalem. However, Paul's ability to speak Greek proved he wasn't the Egyptian, exposing the chief captain's mistaken assumption and the dangerous nature of the Sicarii.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8016126366882075,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+            "commentatorTierSimilarities": [
+                22.99,
+                37.54,
+                39.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

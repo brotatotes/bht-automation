@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:06:42",
+    "verseRef": "1 Corinthians 7:18",
+    "bestBHT": {
+        "bht": "If someone is called as a Jew, they should not try to become uncircumcised like some were doing out of a desire to distance themselves from their Jewish identity. Being a Jew or a Gentile does not determine one's standing in the Christian faith; both are equal before God. The Jewish rites and customs are not binding on Gentile converts, so there is no need for them to be circumcised. The focus is on contentment in one's own calling and recognizing equality within the Christian church.",
+        "wordCount": 88,
+        "quoteTokenProportion": 56.06,
+        "qualityScore": 2.253846450157475,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.28,
+        "commentatorTierSimilarities": [
+            24.34,
+            46.13,
+            29.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Was any one called [being] circumcised, i.e. at the time of his conversion. become uncircumcised] By a surgical operation; see 1 Macc. i. 15.\" ",
+            "The practice usually was adopted by those who wished to appear like the Gentiles, and to cast off their ancient faith and habits.",
+            "Among the Christians a strong anti-Judaistic feeling might lead to it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Some Christians in excess of anti-Jewish feeling might be tempted to this.\" ",
+            "Let him not be circumcised.\" ",
+            "As the Judaizing Christians would have him."
+        ],
+        "Albert Barnes": [
+            "Being circumcised - Being a native-born Jew, or having become a Jewish proselyte, and having submitted to the initiatory rite of the Jewish religion.",
+            "Let him not become uncircumcised - This could not be literally done. But the apostle refers here to certain efforts which were made to remove the marks of circumcision which were often attempted by those who were ashamed of having been circumcised.",
+            "Is any called in uncircumcision? - A Gentile, or one who had not been circumcised. Let him not be circumcised - The Jewish rites are not binding, and are not to be enjoined on those who have been converted from the Gentiles."
+        ],
+        "Marvin Vincent": [
+            "Become uncircumcised [\u03b5\u03c0\u03b9\u03c3\u03c0\u03b1\u03c3\u03b8\u03c9] . The reference is to the process of restoring a circumcised person to his natural condition by a surgical operation.\" ",
+            "The reference is to the process of restoring a circumcised person to his natural condition by a surgical operation.",
+            "See Josephus, 'Antiquities,' 12, 5, 1; 1 Macc. 1 15; Smith's 'Dictionary of the Bible,' Article Circumcision; Celsus, 'De Re Medica,' cited in Wetstein with other passages. See, also, Edwards' note on this passage."
+        ],
+        "John Calvin": [
+            "In external things you must not rashly abandon the calling on which you have once entered by the will of God.",
+            "With God it makes no difference whether you are a Gentile or a Jew.",
+            "He exhorts every one to be contented with his condition."
+        ],
+        "Archibald T. Robertson": [
+            "Let him not become uncircumcized (\u03bc\u03b7 \u03b5\u03c0\u03b9\u03c3\u03c0\u03b1\u03c3\u03b8\u03c9).",
+            "The point is that a Jew is to remain a Jew, a Gentile to be a Gentile.",
+            "Both stand on an equality in the Christian churches."
+        ],
+        "John Gill": [
+            "such as had been circumcised, and had now embraced the faith of Christ, had no reason to be uneasy, or take any methods to remove this mark from their flesh, because it was abolished by Christ, and now of no significance; since as it did them no good, it did them no hurt.",
+            "if a Gentile who was never circumcised is called by grace, let him not submit to circumcision, which is now abrogated, and is altogether unnecessary and unprofitable in the business of salvation; yea, hurtful and pernicious if done on that account, since it makes men debtors to do the whole law, and Christ of none effect unto them.",
+            "they had their foreskins drawn on by the Gentiles against their wills [...] for, according to the Jews, circumcision must be repeated, and not only four or five times, but a hundred times, if a man becomes so often uncircumcised."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If someone is a Jew when they are called, they should not try to become uncircumcised as some were doing out of a desire to distance themselves from their Jewish identity. The apostle Paul emphasizes that being a Jew or a Gentile is not a determining factor in the Christian faith; both are equal in the sight of God. It is important to understand that the Jewish rites and customs are not binding on Gentile converts. Therefore, there is no need for a Gentile convert to be circumcised, as the significance of circumcision has been abolished by Christ. Ultimately, the exhortation is for every individual to be content with their own calling and to recognize the equality that exists within the Christian church.",
+            "wordCount": 123,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.239029103617572,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.79,
+            "commentatorTierSimilarities": [
+                24.1,
+                45.28,
+                30.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If someone is called as a Jew, they should not try to become uncircumcised like some were doing out of a desire to distance themselves from their Jewish identity. Being a Jew or a Gentile does not determine one's standing in the Christian faith; both are equal before God. The Jewish rites and customs are not binding on Gentile converts, so there is no need for them to be circumcised. The focus is on contentment in one's own calling and recognizing equality within the Christian church.",
+            "wordCount": 88,
+            "quoteTokenProportion": 56.06,
+            "qualityScore": 2.253846450157475,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.28,
+            "commentatorTierSimilarities": [
+                24.34,
+                46.13,
+                29.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If someone is called as a Jew, they should not try to become uncircumcised like some were doing to distance themselves from their Jewish identity. Being a Jew or a Gentile isn't a determining factor in the Christian faith; both are equal in God's eyes. The Jewish rites and customs aren't required for Gentile converts, so there's no need for them to get circumcised. The emphasis is on contentment with one's own calling and acknowledging equality within the Christian community.",
+            "wordCount": 85,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 2.252097258542319,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+            "commentatorTierSimilarities": [
+                24.63,
+                45.53,
+                29.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If someone is called as a Jew, they should not try to become uncircumcised like some were doing out of a desire to reject their Jewish identity. Being a Jew or a Gentile does not hold any significance in the Christian faith; both are equal before God. The Jewish customs and practices are not obligatory for Gentile believers, thus there is no need for them to undergo circumcision. The focus here is on embracing one's own calling and recognizing the equality within the Christian community.",
+            "wordCount": 86,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 2.233403953889196,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.6,
+            "commentatorTierSimilarities": [
+                24.59,
+                44.72,
+                30.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If a person is called as a Jew, they should not attempt to reverse their circumcision, as some were doing in an effort to distance themselves from their Jewish heritage. It is important to understand that being a Jew or a Gentile does not determine one's standing before God. The customs and practices of Judaism are not obligatory for Gentile converts, including circumcision. The emphasis is on embracing one's own calling and recognizing the equality that exists within the Christian community.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.2161629223132495,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.03,
+            "commentatorTierSimilarities": [
+                23.7,
+                44.97,
+                31.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

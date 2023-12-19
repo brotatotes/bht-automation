@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:36:06",
+    "verseRef": "Acts 24:15",
+    "bestBHT": {
+        "bht": "Paul, in his defense before the High Priest and the delegation, speaks of the hope of the resurrection. He addresses them, acknowledging their affiliation with the Pharisees, and appeals to their shared belief in the resurrection. This hope, held by both the just and the unjust, is not a new doctrine limited to the New Testament but is rooted in the Law and the Prophets. Through his emphasis on this hope, Paul highlights his faith in the Scriptures and demonstrates that this belief in the resurrection comes from a deeper understanding.",
+        "wordCount": 91,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.1675764692911574,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.41,
+        "commentatorTierSimilarities": [
+            30.33,
+            38.43,
+            31.24
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It would appear from this, that the High Priest and the deputation were not of the Sadducees.",
+            "Paul might regard them as representing the whole Jewish people, and speak generally, as he does of the same hope ch. xxvi. 7, where he assigns it to 'our twelve tribes.'",
+            "The words 'of the dead,' inserted here in some MSS. to fill up the meaning, are not likely to have been spoken by the Apostle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This appeal to the faith of his accusers shows that they were chiefly of the Pharisees.\" ",
+            "The favor of that party, to which he owed in some measure his safety at the recent council (Acts 23:6-9), had been quite momentary.\" ",
+            "Have hope . . . as they themselves . . . allow, that there shall be a resurrection."
+        ],
+        "Albert Barnes": [
+            "Having a hope of the resurrection of the dead, which arises from the promises of God.",
+            "He held nothing in this great cardinal point which they did not also hold.",
+            "Of the righteous and the wicked; that is, of all the race."
+        ],
+        "Marvin Vincent": [
+            "Allow [\u03c0\u03c1\u03bf\u03c3\u03b4\u03b5\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9] . Or, as Rev., look for. The word admits of either sense."
+        ],
+        "John Calvin": [
+            "After that he hath professed that he believeth the Scripture, he doth now add the hope of the resurrection to come, that it may appear that it cometh not from the understanding of the flesh.\" ",
+            "Thus doth the reverence of the Scripture go before, that it may hold us fast bound, and it is the beginning of faith.",
+            "But as Paul doth in this place say that all men shall rise again, so by the plain voice of Christ all are cited; some unto judgment, some unto life."
+        ],
+        "Philip Schaff": [
+            "His belief in the Law and the Prophets gave him a hope founded on God, because His word and the promises contained in the Law and the Prophets furnish the only grounds for such a hope.",
+            "Thus he explained to Felix his faith was the faith of the people, the faith of his fathers; and the devout hope of the resurrection which he and his brother Nazarenes put forward so prominently, and which evidently was a deep offence to some of the more prominent members of the great Jewish council the devout hope of the resurrection was, after all, entertained in the hearts of the majority of the Jewish people.",
+            "The hope of the resurrection is established on a doctrine, the glory of which did not arise for the first time in the New Testament. This golden thread of eternal life passes, on the contrary, through the whole of the Old Testament."
+        ],
+        "Archibald T. Robertson": [
+            "That there shall be a resurrection.\" ",
+            "Both of the just and the unjust.\" ",
+            "Paul was more than a Pharisee."
+        ],
+        "John Gill": [
+            "The resurrection of the dead is for the righteous, but the rain is both for the righteous and the wicked.",
+            "The Scripture affirms that many of them that sleep in the dust of the earth shall awake.",
+            "The just are they who are made so by the righteousness of Christ imputed to them, and who being created anew unto righteousness and true holiness, live soberly, righteously, and godly; the unjust are they who are destitute of righteousness and are filled with all unrighteousness."
+        ],
+        "John Wesley": [
+            "Both of the just and of the unjust \u2014 In a public court this was peculiarly proper to be observed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in his defense before the High Priest and the delegation, speaks of the hope of the resurrection. He addresses them, acknowledging their affiliation with the Pharisees, and appeals to their shared belief in the resurrection. This hope, held by both the just and the unjust, is not a new doctrine limited to the New Testament but is rooted in the Law and the Prophets. Through his emphasis on this hope, Paul highlights his faith in the Scriptures and demonstrates that this belief in the resurrection comes from a deeper understanding.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.1675764692911574,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.41,
+            "commentatorTierSimilarities": [
+                30.33,
+                38.43,
+                31.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, in his defense, acknowledges that the delegation includes representatives of the Pharisees. He appeals to their shared belief in the resurrection, emphasizing that this hope is not a new doctrine introduced in the New Testament but is rooted in the Law and the Prophets. Through this emphasis, Paul highlights his faith in the Scriptures and demonstrates that this belief in the resurrection comes from a deep understanding and reverence for God's promises. This hope extends to both the righteous and the wicked, as affirmed in both the Old and New Testaments.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0941847502838282,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.97,
+            "commentatorTierSimilarities": [
+                30.03,
+                39.21,
+                30.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, in his defense, addresses the delegation, acknowledging their affiliation with the Pharisees and appealing to their shared belief in the resurrection. He emphasizes that this hope is not a new doctrine introduced in the New Testament, but is deeply rooted in the Scriptures. By highlighting his faith in the Law and the Prophets, Paul demonstrates that this belief in the resurrection comes from a profound understanding of God's promises. This hope extends to both the righteous and the wicked, as affirmed throughout the Bible.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.1235242882097136,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                28.75,
+                38.72,
+                32.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in his defense, addresses the delegation, recognizing their connection to the Pharisees and their belief in the resurrection. He emphasizes that this hope is not a novelty of the New Testament but is firmly rooted in the Law and the Prophets. Paul's faith in the Scriptures is evident as he appeals to the shared belief in the resurrection of both the righteous and the wicked. This understanding of the resurrection is a profound and widespread conviction held by the majority of the Jewish people throughout history.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.149176909106342,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.8,
+            "commentatorTierSimilarities": [
+                29.33,
+                38.25,
+                32.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in his defense, acknowledges the delegation's connection to the Pharisees and their shared belief in the resurrection. He highlights that this hope is not a novelty introduced in the New Testament but is rooted in the Law and the Prophets. By emphasizing his faith in the Scriptures, Paul demonstrates that his belief in the resurrection is founded on the promises of God. This belief extends to both the righteous and the wicked, a conviction shared by the majority of the Jewish people throughout history.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.1083136798628805,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.44,
+            "commentatorTierSimilarities": [
+                28.12,
+                40.11,
+                31.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

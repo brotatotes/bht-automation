@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:13:04",
+    "verseRef": "1 Corinthians 14:19",
+    "bestBHT": {
+        "bht": "In the congregation, I would rather speak a few words that can be understood than speak an abundance of words in an unknown tongue. Paul emphasizes the importance of clarity and edification in church worship, urging against personal displays of ecstatic languages that may confuse or alienate others. He prioritizes instructing and benefiting the entire congregation with words that can be comprehended by all, seeking to promote understanding and unity in the body of Christ.",
+        "wordCount": 75,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.126336542578767,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+        "commentatorTierSimilarities": [
+            30.08,
+            34.63,
+            35.29
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] in (the) assembly, \u2018in the congregation.\u2019 This is the best rendering here, and wherever there is a chance of the word church being mistaken as meaning a building."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I WISH to speak five words with my understanding (rather) than ten thousand words in an unknown tongue.\" ",
+            "Paul would NOT wish at all to speak 'ten thousand words in an unknown tongue.'"
+        ],
+        "Albert Barnes": [
+            "Yet in the church - In the Christian assembly. The word 'church' does not refer to the 'edifice' where Christians worshipped, but to the organized body of Christians.",
+            "I had rather ... - It is probable that in the Christian assembly, usually, there were few who understood foreign languages. Paul, therefore, would not speak in a foreign language when its only use would be mere display.",
+            "With my understanding - So as to be intelligible to others; so that I might understand it, and so that at the same time others might be benefitted."
+        ],
+        "Marvin Vincent": [
+            "Teach [\u03ba\u03b1\u03c4\u03b7\u03c7\u03b7\u03c3\u03c9] . Orally. See on Luke 1:4."
+        ],
+        "John Calvin": [
+            "I would rather speak five words. This is spoken hyperbolically, unless you understand five words, as meaning five sentences.",
+            "Now as Paul, who might otherwise have exulted loftily in his power of speaking with tongues, voluntarily abstains from it, and, without any show, aims at edification exclusively.",
+            "He reproves, by this means, the empty ambition of those, that are eagerly desirous to show themselves off with empty tinkling."
+        ],
+        "Archibald T. Robertson": [
+            "Private ecstasy is one thing but not in church worship.\" ",
+            "That I may instruct.\" ",
+            "For the rare verb \u03ba\u03b1\u03c4\u03b7\u03c7\u03b5\u03c9 see on Luke 1:4; Acts 18:25."
+        ],
+        "John Gill": [
+            "Yet in the church I had rather speak five words,.... meaning a very few words, which he chose to speak in the church before the congregation, when and where saints were met together for public worship, for their edification and comfort, and the glory of God...",
+            "with understanding: so as to be understood by others, as well as himself... than to deliver ever so long an oration in a language not understood by them, which could be of no use unto them...",
+            "for though they might hear his voice, the sound of his words, yet thereby he could not teach and instruct them to their profit, unless they understood the language which he spoke; and therefore five words understood were more likely to be of use than ten thousand spoken in a strange language."
+        ],
+        "John Wesley": [
+            "With my understanding \u2014 In a rational manner; so as not only to understand myself, but to be understood by others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the congregation, I would rather speak a few words that can be understood than speak an abundance of words in an unknown tongue. Paul emphasizes the importance of clarity and edification in church worship, urging against personal displays of ecstatic languages that may confuse or alienate others. He prioritizes instructing and benefiting the entire congregation with words that can be comprehended by all, seeking to promote understanding and unity in the body of Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.126336542578767,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+            "commentatorTierSimilarities": [
+                30.08,
+                34.63,
+                35.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the congregation, I would rather speak a few words that can be understood than speak an abundance of words in an unknown tongue. Paul reproves the empty ambition of those who seek to show themselves off with empty tinkling and emphasizes the importance of clarity and edification in church worship. He voluntarily abstains from speaking in unknown tongues, aiming solely at the edification and comfort of the saints gathered together for public worship. By prioritizing the intelligibility of his words, Paul seeks to teach and instruct the congregation for their profit, encouraging unity and understanding in the body of Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9539409130151486,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                30.34,
+                32.06,
+                37.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the congregation, I would rather speak a few words that can be understood than speak in an unknown tongue. Paul reproves the empty ambition of those eager to show themselves off with empty tinkling, emphasizing the importance of clarity in worship. He voluntarily abstains from speaking in unknown tongues, aiming solely at edification and instruction. By prioritizing intelligibility, Paul seeks to teach and profit the congregation, promoting unity in the body of Christ.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.9032869246092106,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                30.85,
+                30.92,
+                38.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the congregation, Paul expressed his preference for speaking a few intelligible words rather than delivering a lengthy discourse in an unknown tongue. He highlighted the significance of edification and instruction during church worship, cautioning against self-centered displays. By prioritizing understanding and avoiding the use of foreign languages that may confuse or exclude others, Paul aimed to teach and benefit the entire assembly. His focus was on promoting unity and facilitating the spiritual growth of believers, fostering a harmonious environment for worship.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.7655196626593126,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                25.88,
+                39.49,
+                34.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the congregation, Paul preferred speaking a few intelligible words over delivering a lengthy discourse in an unknown tongue. By prioritizing understanding and avoiding confusing foreign languages, he aimed to teach and benefit the assembly. His focus was on promoting unity and fostering a harmonious environment for worship. Paul cautioned against self-centered displays, emphasizing the significance of edification and instruction during church worship. His intention was to facilitate the spiritual growth of believers by ensuring their comprehension and fostering a sense of togetherness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.6461173847248336,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.08,
+            "commentatorTierSimilarities": [
+                26.48,
+                37.65,
+                35.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

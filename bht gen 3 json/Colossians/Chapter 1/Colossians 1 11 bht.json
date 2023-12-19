@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:19:08",
+    "verseRef": "Colossians 1:11",
+    "bestBHT": {
+        "bht": "Believers are strengthened with God's mighty power, which is inseparable from His glory. This power empowers them to endure and remain steadfast in the face of difficulties and suffering. Joyful endurance and thankfulness to God are expressed in the midst of trials. Divine strength, according to the might of God's glory, is needed to patiently endure afflictions and tribulations. Through this empowered endurance, believers bring glory to God, finding strength and hope in His power.",
+        "wordCount": 77,
+        "quoteTokenProportion": 31.91,
+        "qualityScore": 2.345949314264936,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.34,
+        "commentatorTierSimilarities": [
+            28.95,
+            39.18,
+            31.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The attribute of His glorious majesty here brought out: is its might, the power which it has thus to strengthen.\" ",
+            "Endurance is the result of the union of outward and inward strength.",
+            "Joyfulness in suffering expresses itself in thankfulness to God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Being made mighty with (literally, 'in') all might.",
+            "His power is inseparable from His glory.",
+            "Joyful endurance."
+        ],
+        "Albert Barnes": [
+            "There is a manifestation of power in the spirit with which Christians are enabled to bear up under trials, which shows that it is not of human origin.",
+            "It is the power which God gives them in the day of trial.",
+            "It is manifestly the power of the great and glorious God, and it tends to promote his glory, and to show forth his praise."
+        ],
+        "Marvin Vincent": [
+            "The compound (ejndunamow to make strong) is frequent in Paul.",
+            "The idea of joy is contained in thanksgiving, which would make the emphatic position of with joy inexplicable.",
+            "We lose thus the idea of joyful endurance and of joyful suffering expressing itself in thanksgiving."
+        ],
+        "John Calvin": [
+            "So far from any one being able to stand, through dependence on his own strength, the power of God shews itself illustriously in helping our infirmity.",
+            "They must, therefore, arm themselves with an admirable patience, that what Isaiah says may be accomplished, In hope and in silence shall be your strength.",
+            "Patience is not sustained otherwise than by alacrity of mind, and will never be maintained with fortitude by any one that is not satisfied with his condition."
+        ],
+        "Philip Schaff": [
+            "\u2018With all strength;\u2019 by means of every form of strength imparted by God.",
+            "'according to' the might of his glory; not, \u2018glorious power\u2019 (E. V.). The word rendered \u2018might\u2019 occurs in Ephesians 1:19, referring to power which manifests itself; here it is that might, \u2018which is the peculiar characteristic of His glory\u2019.",
+            "To endure this, Divine strength is needed, especially to endure with joy, a characteristic of Christian patience."
+        ],
+        "Archibald T. Robertson": [
+            "Empowered with all power.\" ",
+            "His might is accompanied by glory.\" ",
+            "H\u03c5\u03c0\u03bf\u03bc\u03bf\u03bd\u03b7 is remaining under difficulties without succumbing, while \u03bc\u03b1\u03ba\u03c1\u03bf\u03b8\u03c5\u03bc\u03b9\u03b1 is the long endurance that does not retaliate."
+        ],
+        "John Gill": [
+            "Believers are weak in themselves, and insufficient to do or bear anything of themselves, but stand in need of strength from above, even of 'all might.'\" ",
+            "Power belongs to God, is a perfection of his nature, and has been, and is gloriously displayed in many things.\" ",
+            "To bear patiently all afflictions and tribulations; to wait patiently for the things promised by God, and for the coming and appearance of the Lord Jesus Christ, and the heavenly glory or hope laid up for them in heaven."
+        ],
+        "John Wesley": [
+            "Strengthened unto all patience and longsuffering with joyfulness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of being strengthened with God's mighty power, which is inseparable from His glory. This power enables believers to endure and remain steadfast in the face of difficulties and suffering. It is not a power of human origin, but a manifestation of God's great and glorious power. Christians are empowered with every form of strength imparted by God, according to the might of His glory. This divine strength is needed to patiently endure and bear all afflictions and tribulations, finding joy in the midst of trials. It is through this empowered endurance that believers can express thankfulness to God and ultimately bring glory to His name.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.2982044911834825,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.76,
+            "commentatorTierSimilarities": [
+                27.08,
+                43.43,
+                29.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are strengthened with God's mighty power, inseparable from His glory. This power enables enduring and remaining steadfast through difficulties and suffering. It is a manifestation of God's great and glorious power. Christians are empowered with every strength imparted by God, according to the might of His glory. Divine strength is needed to patiently endure and bear afflictions and tribulations, finding joy in trials. Through this empowered endurance, believers express thankfulness to God and bring glory to His name.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2897926870417824,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.48,
+            "commentatorTierSimilarities": [
+                28.65,
+                41.43,
+                29.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are strengthened with God's mighty power, which is inseparable from His glory. This power enables joyful endurance and the ability to endure suffering with thanksgiving. It is a manifestation of God's great and glorious power, given in the day of trial. Christians are empowered with every form of strength imparted by God. Divine strength is needed to patiently endure and bear all afflictions and tribulations. By relying on this power, believers can find joy in the midst of trials and bring glory to God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3115031436963633,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.2,
+            "commentatorTierSimilarities": [
+                27.48,
+                43.14,
+                29.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are strengthened with God's mighty power, which is inseparable from His glory. This power empowers them to endure and remain steadfast in the face of difficulties and suffering. Joyful endurance and thankfulness to God are expressed in the midst of trials. Divine strength, according to the might of God's glory, is needed to patiently endure afflictions and tribulations. Through this empowered endurance, believers bring glory to God, finding strength and hope in His power.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 2.345949314264936,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.34,
+            "commentatorTierSimilarities": [
+                28.95,
+                39.18,
+                31.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are empowered with God's mighty power, in union with His glorious majesty. This power strengthens them to endure trials and suffering, expressing joyful endurance and thanksgiving to God. It is a manifestation of God's great and glorious power, bestowed upon Christians. Divine strength is essential for patient endurance without succumbing, relying on God's strength rather than their own. Through this empowered endurance, believers can persevere under difficulties and await the promised hope with patience and joyfulness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.3165984553520422,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.37,
+            "commentatorTierSimilarities": [
+                27.49,
+                40.11,
+                32.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

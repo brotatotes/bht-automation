@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:16:41",
+    "verseRef": "2 Corinthians 7:16",
+    "bestBHT": {
+        "bht": "I am filled with joy and reassurance because of your good conduct. Your behavior has given me new courage and has dispelled the doubts I once had. Thank you for being a source of encouragement to me.",
+        "wordCount": 37,
+        "quoteTokenProportion": 54.84,
+        "qualityScore": 1.9157630936863939,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+        "commentatorTierSimilarities": [
+            50.06,
+            13.75,
+            36.19
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I rejoice that in every thing I am (re)-assured by you.",
+            "Am of good courage, in contrast to my former dejection, owing to your good conduct.",
+            "Owing to your good conduct."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The conclusion is more emphatical without it.",
+            "That in everything I am of good courage concerning you.",
+            "As contrasted with my former doubts concerning you."
+        ],
+        "Albert Barnes": [
+            "No man can be a Christian who voluntarily indulges in sin, or in what he knows to be wrong.",
+            "The way to bring people to repentance is to present to them the simple and unvarnished truth.",
+            "The great purpose of Christian discipline is to benefit the whole church."
+        ],
+        "Marvin Vincent": [
+            "I have confidence in you [\u03b8\u03b1\u03c1\u03c1\u03c9 \u03b5\u03bd \u03c5\u03bc\u03b9\u03bd] . Wrong. Rev., correctly, I am of good courage. In you expresses the ground of his encouragement as lying in them. "
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 7:16. I rejoice that in everything I am of good courage concerning you.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "I am of good courage (\u03b8\u03b1\u03c1\u03c1\u03c9). The outcome has brought joy, courage, and hope to Paul. "
+        ],
+        "John Gill": [
+            "I can speak freely and boldly to you, reprove, admonish, and advise you, since you take it all in good part, as I design it.",
+            "I can confidently speak in your favour, boast of your love and obedience, which is found upon trial and by experience to be truth.",
+            "I can promise myself every good thing from you, that is proper to ask of you, and lies in your power to perform."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am filled with joy and reassurance because of your good conduct. Your behavior has given me new courage and has dispelled the doubts I once had. Thank you for being a source of encouragement to me.",
+            "wordCount": 37,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 1.9157630936863939,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                50.06,
+                13.75,
+                36.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I am filled with joy and reassurance because of your good conduct, which has led to my newfound courage and hope. Your actions have proven that my doubts were unfounded, and now I can confidently speak in your favor and boast of your love and obedience. I am encouraged by the outcome and can freely speak to you, reproving and advising you, knowing that you take it all in good part. From you, I can expect every good thing that lies in your power to perform.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.0766270339024744,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                34.97,
+                14.88,
+                50.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I rejoice that in everything I am of good courage, reassured by your good conduct. Your actions have brought me joy, courage, and hope. I can confidently speak in your favor and boast of your love and obedience, knowing that you take my admonishments in good part. From you, I can expect every good thing that lies in your power to perform.",
+            "wordCount": 62,
+            "quoteTokenProportion": 46.34,
+            "qualityScore": 2.1809702900109933,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.86,
+            "commentatorTierSimilarities": [
+                39.68,
+                16.01,
+                44.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I am filled with joy and reassurance because of your good conduct, which has led to my newfound courage and hope. Your actions have proven that my doubts were unfounded, and now I can confidently speak in your favor and boast of your love and obedience. I am encouraged by the outcome and can freely speak to you, reproving and advising you, knowing that you take it all in good part. From you, I can expect every good thing that lies in your power to perform.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.0766270339024744,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                34.97,
+                14.88,
+                50.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I rejoice in the reassurance and courage I find in you, for your good conduct has brought me joy and hope. My former doubts have been dispelled, and I can now confidently speak in your favor, boasting of your love and obedience. Your actions demonstrate that you take my admonishments in good part, allowing me to freely offer guidance and advice. With you, I can anticipate every good thing within your power to accomplish.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.9075680702396607,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.77,
+            "commentatorTierSimilarities": [
+                35.23,
+                14.97,
+                49.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:08:15",
+    "verseRef": "1 Corinthians 8:9",
+    "bestBHT": {
+        "bht": "When it comes to the issue of eating meat offered to idols, it is important for the Corinthians to remember that their freedom should not be a stumbling block for those with weaker consciences. While they may find the matter indifferent, they must be cautious not to tempt or cause others to act against their own beliefs. Instead, believers should prioritize the well-being of their fellow brothers and sisters, abstaining from actions that could lead them into sin or weaken their faith.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 2.1009481513690496,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.2,
+        "commentatorTierSimilarities": [
+            27.75,
+            42.63,
+            29.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I acknowledge this indifference\u2014this licence to eat or not to eat; but it is on that very account, because it is a matter indifferent, that ye must take heed.",
+            "The particular stumbling block in this case would be, the tempting them to act against their conscience.",
+            "A practice above all others dangerous to a man: see below, ver. 11."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The very indifference of meats, which I concede, is the reason why ye should 'take heed' not to tempt weak brethren to act against their conscience.\" ",
+            "This liberty of yours\u2014the watchword for lax Corinthians.",
+            "Not to tempt weak brethren to act against their conscience (which constitutes sin, Romans 14:22; Romans 14:23)."
+        ],
+        "Albert Barnes": [
+            "Though you may be no better or worse for eating or not eating, yet if your conduct shall injure others, and lead them into sin, that is a sufficient guide to determine you what to do in the case. You should abstain entirely.\" ",
+            "You should be careful that by no conduct of yours your brother be led into sin. This is a general principle that is to regulate Christian conduct in all matters that are in themselves indifferent.\" ",
+            "See that it be not the occasion of leading others to sin, and to abandon their Christian profession."
+        ],
+        "Marvin Vincent": [
+            "Stumbling - block [\u03c0\u03c1\u03bf\u03c3\u03ba\u03bf\u03bc\u03bc\u03b1] . See on Romans 14:13."
+        ],
+        "John Calvin": [
+            "He leaves their liberty untouched, but moderates the use of it thus far \u2014 that it may not give occasion of stumbling to the weak.",
+            "And he expressly desires that regard be had to the weak, that is, to those who are not yet thoroughly confirmed in the doctrine of piety.",
+            "In the meantime, he hints that strong giants, who may be desirous tyrannically to subject our liberty to their humor, may safely be let alone, because we need not fear giving offense to those who are not drawn into sin through infirmity, but eagerly catch at something to find fault with."
+        ],
+        "Archibald T. Robertson": [
+            "Lest by any means...[you become] a stumbling-block to the weak.\" ",
+            "It becomes a battle cry, personal liberty does, to those who wish to indulge their own whims and appetites regardless of the effect upon others.\" ",
+            "The enlightened must consider the welfare of the unenlightened, else he does not have love."
+        ],
+        "John Gill": [
+            "This liberty of yours become a stumblingblock to them that are weak.",
+            "They ought to be cautious, lest they should be the means of offending, or causing to offend, such who were weak in the faith.",
+            "Not the use of their power and liberty is here denied, but the abuse of it is guarded against."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 8:9, the verse addresses the issue of eating meat that has been offered to idols. While Paul acknowledges the indifference of this matter, he cautions the Corinthians to be mindful of those with weaker consciences who may be tempted to act against their beliefs. He emphasizes that the very freedom and liberty they cherish should not become a stumbling block to others. The enlightened should always consider the welfare of the unenlightened and act in love, lest their conduct lead others into sin. Thus, it is essential for believers to abstain from actions that could potentially harm their fellow brothers and sisters in Christ.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.969208282999275,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                29.97,
+                40.42,
+                29.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In regard to the matter of eating meat offered to idols, it is crucial for the Corinthians to consider the implications of their actions. Although they perceive it as a matter of indifference, they must not overlook the potential harm it can cause to those with weaker consciences. The liberty they enjoy should not become a stumbling block, leading others astray. Rather, out of love and concern, believers must be cautious not to tempt or offend their fellow brethren, prioritizing their spiritual well-being above personal freedom.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.9637894143611117,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+            "commentatorTierSimilarities": [
+                31.43,
+                36.04,
+                32.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians' indifference towards eating meat offered to idols should not blind them to the potential harm it could cause to those with weaker consciences. They must not tempt or lead others into sin by acting against their beliefs. Instead of asserting personal liberty, they ought to prioritize the welfare of the unenlightened. The freedom they enjoy should not become a stumbling block for others. Thus, believers must exercise caution and refrain from actions that may offend or cause weaker brethren to abandon their faith.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.0352173636390516,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.01,
+            "commentatorTierSimilarities": [
+                29.83,
+                37.89,
+                32.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the matter of eating meat offered to idols, the Corinthians must not dismiss the potentially harmful impact their actions can have on those with weaker consciences. While they may view it as a matter of indifference, they must exercise caution not to tempt or lead others into sin. Rather than prioritizing personal liberty, they should consider the welfare of the unenlightened. Believers must be mindful that their freedom does not become a stumbling block for others, and they should refrain from actions that may cause offense or weaken the faith of their brothers and sisters.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.0874190577516183,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+            "commentatorTierSimilarities": [
+                29.34,
+                38.95,
+                31.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When it comes to the issue of eating meat offered to idols, it is important for the Corinthians to remember that their freedom should not be a stumbling block for those with weaker consciences. While they may find the matter indifferent, they must be cautious not to tempt or cause others to act against their own beliefs. Instead, believers should prioritize the well-being of their fellow brothers and sisters, abstaining from actions that could lead them into sin or weaken their faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.1009481513690496,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.2,
+            "commentatorTierSimilarities": [
+                27.75,
+                42.63,
+                29.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

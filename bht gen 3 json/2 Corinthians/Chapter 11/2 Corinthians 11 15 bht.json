@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:18:08",
+    "verseRef": "2 Corinthians 11:15",
+    "bestBHT": {
+        "bht": "Satan, the father of falsehood, opposes the righteousness of God manifested in the Gospel. These false shepherds, dressed in the appearance of heaven, serve the devil and propagate his kingdom of darkness. While they may deceive with their sanctimonious pretenses, their true nature will be revealed in the day of judgment. It is no surprise that they transform themselves into ministers of righteousness, but their end shall correspond to their works, stripping away their deceptive forms. Their destiny will be determined by their deeds, not their false claims.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.835610639239504,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+        "commentatorTierSimilarities": [
+            34.02,
+            32.97,
+            33.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He, as the father of falsehood and wrong, is directly opposed to 'the righteousness of God.'\" ",
+            "That manifestation of God by which He is known to us in the Gospel.\" ",
+            "The end shall be correspondent to their works, not to their pretensions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The test of things is the end which strips off every specious form into which Satan's agents may now 'transform' themselves.",
+            "No difficult matter.",
+            "The manifestation wherewith God reveals Himself in Christ."
+        ],
+        "Albert Barnes": [
+            "You are not to wonder if people of the basest, blackest character put on the appearance of the greatest sanctity.",
+            "Their doom in eternity shall not be according to their fair professions and plausible pretences, for they cannot deceive God.",
+            "What revelations there will be in the day of judgment, when all impostors shall be unmasked, and when all hypocrites and deceivers shall be seen in their true colors!"
+        ],
+        "John Calvin": [
+            "For it is the statement of a courageous man, who despises the foolish judgments of men...",
+            "In the mean time, he shows a singular boldness of conscience...",
+            "...which does not dread the judgment of God."
+        ],
+        "Philip Schaff": [
+            "It is no great thing therefore (nothing surprising) if his ministers also fashion themselves as ministers of righteousness.\" ",
+            "Advancing now to the things of which he was well entitled to boast, if boasting was at all permissible and wise.",
+            "Claiming the liberty permitted even to fools."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus terms these false shepherds thieves and robbers.",
+            "It is a tragedy to see men in the livery of heaven serve the devil.",
+            "It is a tragedy to see men in the livery of heaven serve the devil."
+        ],
+        "John Gill": [
+            "It is no great thing,.... It may easily be given into... since the devil himself... is transformed into an angel of light.",
+            "They put on the form and air of faithful upright ministers of the word, and would be thought to be such...",
+            "A dreadful character these men have... they are no other than ministers of Satan, doing his work, serving his interest, and propagating his kingdom, which is a kingdom of darkness."
+        ],
+        "John Wesley": [
+            "Therefore it is no great, no strange, thing; whose end, notwithstanding all their disguises, shall be according to their works."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that Satan disguises himself as an angel of light to deceive people and lead them astray. These false shepherds, who serve the devil while wearing the livery of heaven, put on the appearance of great sanctity and deceive others with their plausible pretenses. However, their true character will be unmasked and their doom in eternity will not be based on their fair professions, but on their works. It is no surprise that Satan's agents fashion themselves as ministers of righteousness, but their end will be according to their deeds. Those who serve the devil may transform themselves to deceive, but their ultimate destination will not escape the judgment of God.",
+            "wordCount": 114,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.9416190771058954,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                31.37,
+                35.23,
+                33.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Satan, the father of falsehood, opposes the righteousness of God manifested in the Gospel. These false shepherds, dressed in the appearance of heaven, serve the devil and propagate his kingdom of darkness. While they may deceive with their sanctimonious pretenses, their true nature will be revealed in the day of judgment. It is no surprise that they transform themselves into ministers of righteousness, but their end shall correspond to their works, stripping away their deceptive forms. Their destiny will be determined by their deeds, not their false claims.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.835610639239504,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                34.02,
+                32.97,
+                33.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Satan, the father of falsehood, opposes the righteousness of God in the Gospel. These false shepherds, disguised as heaven's servants, tragically serve the devil. They put on a fa\u00e7ade of sanctity but will be unmasked in the day of judgment. It is no surprise that they transform themselves into ministers of righteousness. Yet, their end will be determined by their true deeds, not their deceptive claims. The manifestation of their works will expose the reality behind their guise, revealing their ultimate destiny.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7828609756897142,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+            "commentatorTierSimilarities": [
+                34.87,
+                33.17,
+                31.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Satan, the father of falsehood, opposes the righteousness of God revealed in Christ. There are those who, in the guise of faithful ministers, actually serve the devil's interests. They may put on a show of sanctity but their true character will be exposed in the day of judgment. It is not surprising that these agents of Satan transform themselves into ministers of righteousness. However, their ultimate fate will be determined by their deeds, and their true nature will be revealed.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.7992997038756817,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.17,
+            "commentatorTierSimilarities": [
+                33.44,
+                34.06,
+                32.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Satan, the father of falsehood, opposes the righteousness of God manifested in the Gospel. These false shepherds, dressed in the livery of heaven, tragically serve the devil. They may transform themselves into ministers of righteousness, but their end will correspond to their works. It is not surprising that they put on the form and air of faithful ministers, for their true character is that of ministers of Satan. In the day of judgment, their true nature will be unmasked, and their destiny will align with their deeds.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8297071530042204,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+            "commentatorTierSimilarities": [
+                35.39,
+                32.73,
+                31.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

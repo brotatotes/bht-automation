@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:19:47",
+    "verseRef": "Luke 14:30",
+    "bestBHT": {
+        "bht": "This man, with sarcastic emphasis, was not worth enough, or was not good for the completion. He set out well, he promised great things, but then fell off from a profession of religion, causing him to be despised and mocked. Such individuals not only face disgrace within churches but are also scorned by wicked men and even mocked by devils. Falling off from a profession of religion truly exposes one to contempt and scorn.",
+        "wordCount": 74,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7206122270569895,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+        "commentatorTierSimilarities": [
+            40.42,
+            0.0,
+            59.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "This man was not worth enough, or was not good for the completion.",
+            "This man [\u03bf\u03c5\u03c4\u03bf\u03c2 \u03bf \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2] . With sarcastic emphasis.",
+            "Was not able [\u03bf\u03c5\u03ba \u03b9\u03c3\u03c7\u03c5\u03c3\u03b5\u03bd] . From ijscuv, strength."
+        ],
+        "Archibald T. Robertson": [
+            "This man (\u03bf\u03c5\u03c4\u03bf\u03c2 \u03bf \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2). This fellow, contemptuous or sarcastic use of \u03bf\u03c5\u03c4\u03bf\u03c2. "
+        ],
+        "John Gill": [
+            "He set out well, he promised great things, and made a considerable bluster and stir.\" ",
+            "Falling off from a profession of religion, exposes men to contempt and scorn.\" ",
+            "Such are not only cast out of churches with disgrace, but are despised by men, by wicked men; and are a reproach, a proverb, and a taunt in all places; and even are mocked by devils too."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This man, with sarcastic emphasis, was not worth enough or good enough for the completion. He set out well, promising great things, but ultimately fell off from his profession of religion and exposed himself to contempt and scorn. Not only would he be cast out of churches with disgrace, but he would also be despised by men and mocked by devils. Such is the fate of those who make a considerable bluster and stir but fail to follow through with their commitments.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.6543327233268985,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.35,
+            "commentatorTierSimilarities": [
+                42.93,
+                0.0,
+                57.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This man, with sarcastic contempt, was not good enough or worth enough to complete what he set out to do. Though he initially seemed promising, he ultimately fell off from his profession of religion, resulting in contempt and scorn. Those who fail to follow through on their commitments not only face disapproval from others, but they become a reproach, a proverb, and a taunt in all places. Even devils mock such individuals for their lack of integrity.",
+            "wordCount": 77,
+            "quoteTokenProportion": 53.97,
+            "qualityScore": 1.5572318803432648,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.12,
+            "commentatorTierSimilarities": [
+                44.57,
+                0.0,
+                55.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This man, with sarcastic emphasis, was not worth enough or good enough for the completion. He set out well, promised great things, and made a considerable bluster and stir. However, he was not able to follow through. Falling off from a profession of religion exposes men to contempt and scorn. Such individuals, not only cast out of churches with disgrace, are despised by both men and wicked men. They become a reproach, a proverb, and a taunt in all places, and are even mocked by devils too.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.476319451982361,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.43,
+            "commentatorTierSimilarities": [
+                38.58,
+                0.0,
+                61.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This man, with sarcastic emphasis, was not worth enough or good enough for the completion. Falling off from a profession of religion exposes men to contempt and scorn. Such individuals are not only cast out of churches with disgrace, but are despised by both men and wicked men. They become a reproach, a proverb, and a taunt in all places, and are even mocked by devils too.",
+            "wordCount": 67,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 1.6535075933899255,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                38.46,
+                0.0,
+                61.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This man, with sarcastic emphasis, was not worth enough, or was not good for the completion. He set out well, he promised great things, but then fell off from a profession of religion, causing him to be despised and mocked. Such individuals not only face disgrace within churches but are also scorned by wicked men and even mocked by devils. Falling off from a profession of religion truly exposes one to contempt and scorn.",
+            "wordCount": 74,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7206122270569895,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+            "commentatorTierSimilarities": [
+                40.42,
+                0.0,
+                59.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

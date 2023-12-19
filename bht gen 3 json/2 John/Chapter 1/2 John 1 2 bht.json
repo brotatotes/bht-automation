@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:15:38",
+    "verseRef": "2 John 2",
+    "bestBHT": {
+        "bht": "Those who love in the truth, on account of the truth, have the truth dwelling in them, and this truth will be with them forever. It is not just a wish, but a confident assurance in the future. Those who love the gospel will rejoice in the effects it produces in society and individuals. Truth has taken up a permanent abode in the hearts of those who love religion, and it will be with them in all worlds. Through faith, Christ dwells in the hearts of believers, bringing unity and producing a love that endures for the truth's sake.",
+        "wordCount": 100,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 2.094562093044372,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.99,
+        "commentatorTierSimilarities": [
+            23.63,
+            44.86,
+            31.51
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "on account of the truth (objective: God\u2019s truth revealed in His Son, see 1 John ii. 4)",
+            "which abideth in us, and shall be with us for ever",
+            "The future is not the expression of a wish, as some have supposed; but of confidence, as that also which follows"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They who love in the truth, also love on account of the truth.",
+            "For the truth's sake.",
+            "Dwelleth in us, and shall be with us forever."
+        ],
+        "Albert Barnes": [
+            "Those who love the gospel itself will rejoice in all the effects which it produces in society, on individuals, families, neighborhoods.",
+            "Truth may be said to have taken up a permanent abode in the hearts of all who love religion.",
+            "It has come to us to make our hearts its permanent home, and it is to be with us in all worlds, and while ceaseless ages shall roll away."
+        ],
+        "Marvin Vincent": [
+            "Which dwelleth. . . Shall be with us.\" ",
+            "Enlarging on the idea of the truth: that which abideth.",
+            "Note the change from abideth in to shall be with."
+        ],
+        "Archibald T. Robertson": [
+            "For the truth's sake\".",
+            "Which abideth in us... and so it includes all who are in Christ.",
+            "It shall be with us... 'With us it shall be'."
+        ],
+        "John Gill": [
+            "For Christ's sake, who is the truth, and who dwells in the hearts of believers by faith, and who is the same that dwells in one as in another; and on his account it is that saints love one another.",
+            "Unity of mind and judgment produces unity of affection.",
+            "Where Christ enters and takes up his abode, from thence he never finally and totally departs."
+        ],
+        "John Wesley": [
+            "For the truth's sake, which abideth in us \u2014 As a living principle of faith and holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who love in the truth, on account of the truth, have the truth dwelling in them, and this truth will be with them forever. It is not just a wish, but a confident assurance in the future. Those who love the gospel will rejoice in the effects it produces in society and individuals. Truth has taken up a permanent abode in the hearts of those who love religion, and it will be with them in all worlds. Through faith, Christ dwells in the hearts of believers, bringing unity and producing a love that endures for the truth's sake.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.094562093044372,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.99,
+            "commentatorTierSimilarities": [
+                23.63,
+                44.86,
+                31.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who love in the truth, on account of the truth, have the truth dwelling in them forever. It is not a wish, but a confident assurance. Those who love the gospel rejoice in its effects on society and individuals. Truth has taken up a permanent abode in the hearts of those who love religion and will be with them in all worlds. Through faith, Christ dwells in believers' hearts, bringing unity and enduring love for the truth's sake.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.018798241286097,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.47,
+            "commentatorTierSimilarities": [
+                24.18,
+                42.53,
+                33.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who love in the truth, on account of the truth, have the truth dwelling in them and shall be with them forever. This assurance is not a mere wish, but a confident trust in the future. Those who love the gospel rejoice in its effects on society and individuals. The truth has established a permanent home in the hearts of those who embrace religion, and it will accompany them throughout all realms. Through faith, Christ takes up residence in believers, fostering unity and a steadfast love for the truth's sake.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9336573436490947,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+            "commentatorTierSimilarities": [
+                23.28,
+                42.63,
+                34.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who love on account of the truth have the truth abiding in them forever. It is not a mere wish, but a confident assurance. Those who love the gospel will rejoice in its effects on society and individuals. The truth has found a permanent dwelling in the hearts of those who embrace religion, and it will be with them throughout eternity. Christ's presence in believers fosters unity and a steadfast love for the truth's sake.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.9239771384877629,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                24.57,
+                42.31,
+                33.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who love in the truth, on account of the truth, have the truth dwelling in them and shall be with them forever. This assurance is not a mere wish, but a confident trust in the future. Those who love the gospel rejoice in its effects on society and individuals. The truth has established a permanent home in the hearts of those who embrace religion, and it will accompany them throughout all realms. Through faith, Christ takes up residence in believers, fostering unity and a steadfast love for the truth's sake.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9336573436490947,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+            "commentatorTierSimilarities": [
+                23.28,
+                42.63,
+                34.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:27:09",
+    "verseRef": "Acts 5:34",
+    "bestBHT": {
+        "bht": "Gamaliel, the preceptor of St. Paul, was a man of judicial temper and a teacher of the law. Although not a follower of Jesus, he acted as a theological opportunist and urged caution against violence towards the apostles. Gamaliel's advice, respected by the Sanhedrin, aligned with the Pharisees who sympathized with the teaching of the resurrection. His actions demonstrate that what is of God will stand against all odds, emphasizing the enduring power of faith even in the face of opposition.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.964052820573852,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+        "commentatorTierSimilarities": [
+            35.75,
+            36.87,
+            27.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He was the preceptor of St. Paul.",
+            "When the anti-pharisaical element of Christianity was brought out in the acts and sayings of Stephen, his pupil Saul was found the foremost persecutor.",
+            "We should, I think, be slow to suspect him of any favouring of the Apostles as followers of Jesus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Gamaliel\u2014in all probability one of that name celebrated in the Jewish writings for his wisdom.\" ",
+            "The son of Simeon and grandson of HILLEL, another celebrated rabbi.\" ",
+            "He died eighteen years before the destruction of Jerusalem [LIGHTFOOT]."
+        ],
+        "Albert Barnes": [
+            "In the council - In the Sanhedrin.",
+            "He was evidently a man of far more liberal views than the other members of the Sanhedrin.",
+            "His advice was likely, therefore, to be respected."
+        ],
+        "Marvin Vincent": [
+            "The apostles. The best texts substitute touv ajnqrwpouv, the men. A little space [\u03b2\u03c1\u03b1\u03c7\u03c5] . Better as Rev., a little while."
+        ],
+        "John Calvin": [
+            "So God doth oftentimes set sudden terrors against his enemies, (when they look not for them,) to stay their violence.",
+            "Both things are true, that no endeavor of men can destroy that which is of God; and that that which is of men is not so strong that it can stand.",
+            "That which is of God must needs stand, though all the world say nay; therefore faith must stand without all fear, against all the assaults of Satan and men."
+        ],
+        "Philip Schaff": [
+            "This Gamaliel is generally acknowledged to be identical with the celebrated Gamaliel the elder, who lived at the time, and was the grandson of Hillel, the famous founder of one of the rabbinical schools.",
+            "The motives which influenced Gamaliel\u2019s conduct on this occasion have been much discussed: he prevailed upon the Sanhedrim not to adopt any violent measures towards these leaders of the rising sect, persuading them to let the matter alone.",
+            "After all, the main accusation on the part of the high priest and his influential followers was the earnest teaching of those men of a great truth the resurrection from the dead: in this Gamaliel and the Pharisees sympathized with the apostles against their Sadducee enemies in the council."
+        ],
+        "Archibald T. Robertson": [
+            "Procure thyself a teacher, avoid being in doubt; and do not accustom thyself to give tithes by guess.",
+            "He was a man of judicial temper and not prone to go off at a tangent.",
+            "He acts as a theological opportunist, not as a disciple of Christ."
+        ],
+        "John Gill": [
+            "He was the son of Rabban Simeon, the son of Hillell the great.",
+            "He was had in veneration to the last.",
+            "He ordered the apostles to be put out of the sanhedrim for a little while, that they might not hear what he had to say, and take encouragement from it."
+        ],
+        "John Wesley": [
+            "But a certain Pharisee...rising up in the council - So God can raise defenders of his servants",
+            "And as such believing the resurrection of the dead; a doctor, or teacher of the law - That is, a scribe, and indeed one of the highest rank",
+            "had in honour by all the people - Except the Sadducees"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 5:34, we encounter Gamaliel, a man of judicial temper and a teacher of the law. He was the preceptor of St. Paul and known for his wisdom. Gamaliel, not prone to jumping to conclusions, acts as a theological opportunist. Despite not being a disciple of Christ, he was a man of liberal views and was respected in the Sanhedrin. He urged caution against violent measures towards the leaders of the rising Christian sect, aligning himself with the apostles and the Pharisees. The main accusation against the apostles was their earnest teaching of the resurrection, which Gamaliel and the Pharisees sympathized with against their Sadducee enemies in the council. Ultimately, Gamaliel's advice carries weight, and his actions highlight the truth that what is of God will stand against all odds.",
+            "wordCount": 131,
+            "quoteTokenProportion": 30.86,
+            "qualityScore": 1.9407966568420107,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                35.18,
+                39.57,
+                25.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Gamaliel, the preceptor of St. Paul, was a man of judicial temper and a teacher of the law. Although not a follower of Jesus, he acted as a theological opportunist and urged caution against violence towards the apostles. Gamaliel's advice, respected by the Sanhedrin, aligned with the Pharisees who sympathized with the teaching of the resurrection. His actions demonstrate that what is of God will stand against all odds, emphasizing the enduring power of faith even in the face of opposition.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.964052820573852,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+            "commentatorTierSimilarities": [
+                35.75,
+                36.87,
+                27.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Gamaliel, the preceptor of St. Paul and a man of judicial temper, acted as a theological opportunist in Acts 5:34. Despite not being a disciple of Christ, his liberal views and respected status in the Sanhedrin led him to urge caution against violent measures towards the rising Christian sect. Alongside the Pharisees, Gamaliel sympathized with the apostles, particularly in their teaching of the resurrection. His actions exemplify the enduring power of what is of God, emphasizing the resilience of faith against all opposition.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.9031573154219523,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+            "commentatorTierSimilarities": [
+                37.01,
+                36.44,
+                26.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Gamaliel, the preceptor of St. Paul and a man of judicial temper, played a crucial role in Acts 5:34. Although not a follower of Jesus, he acted as a theological opportunist and urged caution against violence towards the apostles. Gamaliel's respected status in the Sanhedrin allowed his advice to be valued, especially by the Pharisees who sympathized with the apostles' teachings on the resurrection. His actions highlight the enduring power of what is of God and the unwavering strength of faith in the face of opposition.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9016997655685102,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                36.21,
+                36.71,
+                27.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Gamaliel, the preceptor of St. Paul, acted as a theological opportunist in Acts 5:34. Despite not being a disciple of Christ, he urged caution against violent measures towards the apostles and aligned himself with the Pharisees who sympathized with their teachings on the resurrection. Gamaliel's respected status in the Sanhedrin and his wise counsel emphasized the enduring power of what is of God. His actions demonstrate that faith can stand strong against all opposition, highlighting the unwavering strength needed to withstand the assaults of Satan and men.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.8984713151812058,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                35.84,
+                35.34,
+                28.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

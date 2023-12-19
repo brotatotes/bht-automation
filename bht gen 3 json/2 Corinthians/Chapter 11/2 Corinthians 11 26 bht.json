@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:18:28",
+    "verseRef": "2 Corinthians 11:26",
+    "bestBHT": {
+        "bht": "In his ministry, the apostle Paul faced numerous perils: dangers from rivers, robbers, and false brethren. The mountainous region of Pisidia was notorious for its flooding rivers and notorious robbers. Paul also encountered perils in the city and wilderness, facing ambushes, wild beasts, and hunger. His own countrymen, the Jews, added to his challenges with their deep-seated hatred. Through these trials, Paul showed his unwavering commitment to sharing the Gospel despite intense opposition.",
+        "wordCount": 74,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.8249544815934833,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+        "commentatorTierSimilarities": [
+            31.34,
+            31.97,
+            36.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By journeys frequently, by perils of rivers, by perils of robbers",
+            "By perils from my kindred, by perils from the Gentiles, by perils in the city, by perils in the wilderness",
+            "By perils in the sea, by perils among false brethren"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By waters, namely, perils by the flooding of rivers, as on the road often traversed by Paul between Jerusalem and Antioch, crossed as it is by the torrents rushing down from Lebanon.\" ",
+            "Pisidia was notorious for robbers; as indeed were all the mountains that divided the high land of Asia from the sea.",
+            "False brethren."
+        ],
+        "Albert Barnes": [
+            "In journeyings often - Of course subject to the fatigue, toil, and danger which such a mode of life involves.",
+            "In the wilderness - In the desert, where he would be exposed to ambushes, or to wild beasts, or to hunger and want. Instances of this are not recorded in the Acts, but no one can doubt that they occurred.",
+            "Among false brethren - This was the crowning danger and trial to Paul, as it is to all others. A man can better bear danger by land and water, among robbers and in deserts, than he can bear to have his confidence abused, and to be subjected to the action and the arts of spies upon his conduct."
+        ],
+        "Marvin Vincent": [
+            "The rivers of Asia Minor, like all the rivers in the Levant, are liable to violent and sudden changes, and no district in Asia Minor is more singularly characterized by its water-floods than the mountainous tract of Pisidia.",
+            "The tribes inhabiting the mountains between the table-land of Asia Minor and the coast were notorious for robbery.",
+            "Conspiracies of the Jews at Damascus, Lystra, Thessalonica, Beroea, etc."
+        ],
+        "John Calvin": [
+            "By perils from the nation he means those that befell him from his own nation, in consequence of the hatred, that was kindled against him among all the Jews.",
+            "On the other hand, he had the Gentiles as his adversaries; and in the third place snares were laid for him by false brethren.",
+            "Thus it happened, that for Christ\u2019s name\u2019s sake he was hated by all."
+        ],
+        "Philip Schaff": [
+            "in perils of rivers... at the risk of life",
+            "in perils of robbers... known to have been infested with robbers",
+            "in perils from mine own countrymen... goaded on by fanatical Jews"
+        ],
+        "Archibald T. Robertson": [
+            "The repetition here is very effective without the preposition \u03b5\u03bd (in) and without conjunctions (asyndeton). They are in contrasted pairs.",
+            "The rivers of Asia Minor are still subject to sudden swellings from floods in the mountains. Cicero and Pompey won fame fighting the Cilician pirates and robbers.",
+            "The Jewish perils (\u03b5\u03ba \u03b3\u03b5\u03bd\u03bf\u03c5\u03c2, from my race) can be illustrated in Acts 9:23; Acts 9:29; Acts 13:50; Acts 14:5; Acts 17:5; Acts 17:13; Acts 18:12; Acts 23:12; Acts 24:27, and they were all perils in the city also."
+        ],
+        "John Gill": [
+            "in perils of robbers; for though he had seldom much to lose, yet was in danger of being ill used, and of his life being taken away by such ruffians",
+            "in perils by my own countrymen; the Jews, who bore an implacable hatred to him",
+            "in perils among false brethren who pretended to be Christians, but 'judaized', teaching the necessity of observing circumcision, and other ceremonies of the law"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In his ministry, the apostle Paul endured a multitude of dangers and trials. He embarked on numerous journeys, facing perils from rivers and robbers alike. The mountainous region of Pisidia was particularly treacherous, known for its flooding rivers and notorious robbers. Paul also encountered perils in the city and the wilderness, where he was vulnerable to ambushes, wild beasts, and hunger. Adding to his challenges, he had to contend with false brethren, individuals who professed to be Christians but in reality were spies and adversaries. These trials often pitted him against his own countrymen, the Jews, who harbored deep-seated hatred towards him. By facing these perils, Paul demonstrated his unwavering commitment to spreading the Gospel, even in the face of tremendous opposition.",
+            "wordCount": 123,
+            "quoteTokenProportion": 33.72,
+            "qualityScore": 1.8170379284294849,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                28.12,
+                32.72,
+                39.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his ministry, the apostle Paul faced numerous perils: dangers from rivers, robbers, and false brethren. The mountainous region of Pisidia was notorious for its flooding rivers and notorious robbers. Paul also encountered perils in the city and wilderness, facing ambushes, wild beasts, and hunger. His own countrymen, the Jews, added to his challenges with their deep-seated hatred. Through these trials, Paul showed his unwavering commitment to sharing the Gospel despite intense opposition.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8249544815934833,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+            "commentatorTierSimilarities": [
+                31.34,
+                31.97,
+                36.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul's ministry was filled with constant danger and perils. He frequently embarked on journeys, facing risks from rivers, robbers, and false brethren. The mountainous region of Pisidia, with its unpredictable floods and notorious robbers, posed particular challenges. In the city and wilderness, Paul encountered ambushes, wild animals, and scarcity. To make matters worse, he had to deal with his own countrymen, the Jews, who harbored a deep-seated hatred for him. Despite these relentless trials, Paul remained steadfast in spreading the Gospel, demonstrating his unwavering commitment to his mission.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.4,
+            "qualityScore": 1.701486527333482,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+            "commentatorTierSimilarities": [
+                28.81,
+                34.79,
+                36.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul constantly faced dangerous situations throughout his ministry. His journeys were often accompanied by perils from rivers, robbers, and false brethren. The mountainous region of Pisidia, known for its flooding rivers and notorious robbers, posed significant challenges. Paul's life was at risk in these perilous situations. Furthermore, he encountered hostile countrymen, such as the Jews who harbored deep-seated hatred towards him. Despite these constant threats, Paul remained steadfast in his mission to spread the Gospel, demonstrating his unyielding dedication and courage.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.7214466845868086,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+            "commentatorTierSimilarities": [
+                28.89,
+                34.84,
+                36.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Throughout his ministry, the apostle Paul experienced great dangers and trials. He faced perils from rivers and robbers, particularly in the mountainous region of Pisidia. In addition to physical threats, Paul encountered false brethren who posed as allies but were actually spies and adversaries. His own countrymen, the Jews, also presented constant perils due to their vehement opposition. Despite these challenges, Paul remained steadfast in his mission to share the Gospel, demonstrating his unwavering commitment and resilience in the face of adversity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6730039944993655,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.97,
+            "commentatorTierSimilarities": [
+                26.47,
+                33.04,
+                40.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

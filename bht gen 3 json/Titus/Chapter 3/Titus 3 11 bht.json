@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:08:48",
+    "verseRef": "Titus 3:11",
+    "bestBHT": {
+        "bht": "Someone who becomes perverse and continues in sin after repeated admonition is essentially turning their life inside out. They intentionally sin against their knowledge and condemn themselves. This person is like a building that is completely demolished, with no hope of repair. Their actions show that they are self-condemned sinners, and it is right for them to be separated from the fellowship of believers.",
+        "wordCount": 65,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.5690012801728885,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+        "commentatorTierSimilarities": [
+            24.05,
+            36.62,
+            39.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "is . . . subverted\u2014\"is become perverse.",
+            "condemned of himself\u2014He cannot say, no one told him better: continuing the same after frequent admonition, he is self-condemned.",
+            "He sinneth\" wilfully against knowledge."
+        ],
+        "Albert Barnes": [
+            "He has gone from the right way, and therefore he should be rejected.",
+            "His own conscience condemns him. He will approve the sentence, for he knows that he is wrong; and his self-condemnation will be punishment sufficient.",
+            "His own course, in attempting a division or schism in the church, shows him that it is right that he should be separated from the communion of Christians."
+        ],
+        "Marvin Vincent": [
+            "Is subverted... rather, turned inside out.",
+            "Sinneth... and trespasses.",
+            "Condemned of himself... self-condemned."
+        ],
+        "John Calvin": [
+            "The metaphor is taken from a building, which is not merely decayed in some part, but completely demolished, so that it is incapable of being repaired.",
+            "They who do not yield to admonitions are condemned by themselves; for, since they obstinately reject the truth, it is certain that they sin willfully and of their own accord, and therefore it would be of no advantage to admonish them.",
+            "Let the bishop therefore beware lest, by indulging his passionate temper, he treat with excessive harshness, as a heretic, one whom he does not yet know to be such."
+        ],
+        "Philip Schaff": [
+            "Such failure in admonishing shows the man had become \u2018perverted\u2019 a self-condemned sinner.\" ",
+            "Doing in his own case what in general he condemns.",
+            "A self-condemned sinner."
+        ],
+        "Archibald T. Robertson": [
+            "Is perverted (\u03b5\u03be\u03b5\u03c3\u03c4\u03c1\u03b1\u03c0\u03c4\u03b1). Perfect passive indicative of \u03b5\u03ba\u03c3\u03c4\u03c1\u03b5\u03c6\u03c9, old word to turn inside out, to twist, to pervert. Only here in N.T.",
+            "Self-condemned (\u03b1\u03c5\u03c4\u03bf\u03ba\u03b1\u03c4\u03b1\u03ba\u03c1\u03b9\u03c4\u03bf\u03c2). Only known example of this double compound verbal adjective (\u03b1\u03c5\u03c4\u03bf\u03c3, \u03ba\u03b1\u03c4\u03b1, \u03ba\u03c1\u03b9\u03bd\u03c9)."
+        ],
+        "John Gill": [
+            "he is like an edifice, that is not only decaying, and falling, but is entirely everted, and pulled down; so that there is no hopes of a restoration or recovery",
+            "an heretic is one who...stands condemned by those Scriptures, which he himself allows to be the rule of decision and determination",
+            "he practically condemns himself, or judges himself unworthy of the communion of the church, and so justifies the church in their rejection and exclusion of him"
+        ],
+        "John Wesley": [
+            "Such an one is perverted \u2014 In his heart, at least.",
+            "And sinneth, being self-condemned \u2014 Being convinced in his own conscience that he acts wrong."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that someone who becomes perverse and continues in sin after repeated admonition is essentially turning their life inside out. They intentionally sin against their knowledge and condemn themselves. This person is like a building that is completely demolished, with no hope of repair. Their actions show that they are self-condemned sinners, and it is right for them to be separated from the fellowship of believers. Their self-condemnation serves as sufficient punishment, and it would be futile to admonish them further.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.5923463297306384,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.29,
+            "commentatorTierSimilarities": [
+                23.32,
+                37.78,
+                38.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Someone who becomes perverse and continues in sin after repeated admonition is essentially turning their life inside out. They intentionally sin against their knowledge and condemn themselves. This person is like a building that is completely demolished, with no hope of repair. Their actions show that they are self-condemned sinners, and it is right for them to be separated from the fellowship of believers.",
+            "wordCount": 65,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5690012801728885,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.51,
+            "commentatorTierSimilarities": [
+                24.05,
+                36.62,
+                39.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who persist in their perverse ways, turning the truth inside out and willfully sinning despite repeated admonition, are condemned by their own actions. Their self-condemnation is a clear sign that they have strayed from the right path and should be separated from the community of believers. Their own conscience testifies against them, and their attempts to divide and bring about schism in the church reveal their perverted nature. They are like a demolished building with no hope of restoration. Ultimately, their rejection and exclusion from the church is justified by their own self-condemnation as unworthy of fellowship.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.4720872502173044,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.29,
+            "commentatorTierSimilarities": [
+                19.86,
+                34.95,
+                45.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who persist in their perverse ways, turning the truth inside out and willfully sinning despite repeated admonition, are condemned by their own actions. Their self-condemnation is a clear sign that they have strayed from the right path and should be separated from the community of believers. Their attempts to divide and bring about schism in the church reveal their perverted nature. They are like a demolished building with no hope of restoration. Ultimately, their rejection and exclusion from the church is justified by their own self-condemnation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4745227415162272,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.37,
+            "commentatorTierSimilarities": [
+                20.73,
+                35.38,
+                43.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who persist in their perverse ways, turning the truth inside out and willfully sinning despite repeated admonition, are condemned by their own actions. Their self-condemnation is a clear sign that they have strayed from the right path and should be separated from the community of believers. Their attempts to divide and bring about schism in the church reveal their perverted nature. They are like a demolished building with no hope of restoration. Ultimately, their rejection and exclusion from the church is justified by their own self-condemnation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4745227415162272,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.37,
+            "commentatorTierSimilarities": [
+                20.73,
+                35.38,
+                43.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

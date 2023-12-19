@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:37:50",
+    "verseRef": "Acts 28:25",
+    "bestBHT": {
+        "bht": "The same prophetic quotation that marked the beginning of Jesus' teachings through parables now solemnly concludes the Scriptures. After a long day of discussion, both parties could not agree and parted ways, feeling that the arguments had been exhausted. Paul took this moment to deliver a final testimony from the Scriptures, acknowledging that the Holy Spirit was speaking through them. By mentioning the Holy Spirit, Paul emphasized that they were resisting God. He reminded them of their nation's tendency to reject God's testimony and their refusal to accept the idea of including Gentiles in salvation.",
+        "wordCount": 97,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.086235151969487,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+        "commentatorTierSimilarities": [
+            35.57,
+            35.81,
+            28.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is very remarkable, that the same prophetic quotation with which our Lord opened his teaching by parables should form the solemn close of the historic Scriptures.",
+            "The same prophetic quotation with which our Lord opened his teaching by parables.",
+            "The same prophetic quotation should form the solemn close of the historic Scriptures."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When they agreed not among themselves... the discussion having passed into one between the two parties into which the visitors were now divided, respecting the arguments and conclusions of the apostle.\" ",
+            "They departed... the material of discussion being felt by both parties to be exhausted.\" ",
+            "After Paul had spoken one word... one solemn parting testimony, from those Scriptures regarded by both alike as 'the Holy Ghost speaking' to Israel."
+        ],
+        "Albert Barnes": [
+            "Had spoken one word - One solemn declaration, reminding them that it was the characteristic of the nation to reject the testimony of God, and that it was to be expected.",
+            "Well spake - Or he spoke the truth; he justly described the character of the Jewish people.",
+            "The Holy Ghost - A full proof of the inspiration of Isaiah."
+        ],
+        "Marvin Vincent": [
+            "Agreed not. See on agreed together, ch. verse 9."
+        ],
+        "John Calvin": [
+            "The malice and frowardness of the unfaithful is the cause of this, that Christ, who is our peace, and the only bond of holy unity, is an occasion of dissension, and doth cause those to go together by the ears who were friends before.",
+            "And yet for all this we must not think that the preaching of the gospel is the cause of discord; but that privy displeasure, which lurked before in their malicious minds, doth then break out.",
+            "For the rebellious must be handled thus, whose pride cannot be tamed with plain doctrine. The same order must we keep; we must gently govern those who are apt to be taught and gentle, but we must cite the stubborn unto God\u2019s judgment-seat."
+        ],
+        "Philip Schaff": [
+            "A remnant seems to have believed, but the large majority clearly expressed themselves with extreme bitterness, and with hearts full of envy and hatred.",
+            "The thought of a suffering Messiah was hateful to these proud, ambitious men. The idea of sharing a salvation with the loathed and accursed Gentiles they refuse for an instant to entertain.",
+            "St. Paul\u2019s use of the awful words of Isaiah on this momentous occasion, and also in the argument in the Roman Epistle, shows that our Lord\u2019s discourse and His deductions from Hebrew prophecy were well known to, and had been often pondered over by, the missionary apostle and his friends."
+        ],
+        "Archibald T. Robertson": [
+            "They loosed themselves from Paul.\" ",
+            "One last word (like a preacher) after the all day exposition.\" ",
+            "By mentioning the Holy Spirit Paul shows that they are resisting God."
+        ],
+        "John Gill": [
+            "And when they agreed not among themselves...such a division is the usual effect of the Gospel ministry.",
+            "Well spake the Holy Ghost by Esaias the prophet unto our fathers.",
+            "From hence it appears, that...the Holy Ghost is a divine person, truly God, and equal with the Father and the Son."
+        ],
+        "John Wesley": [
+            "Well spake the Holy Ghost to your fathers \u2014 Which is equally applicable to you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is remarkable that the same prophetic quotation used by Jesus to open his teachings by parables is now the solemn close of the Scriptures. After a full day of discussion, the visitors departed, feeling that the material for discussion had been exhausted. Paul, addressing both parties, gave one last word, a solemn parting testimony from the Scriptures regarded as the Holy Ghost speaking to Israel. By mentioning the Holy Spirit, Paul indicated that they were resisting God. He reminded them of how it was characteristic of their nation to reject the testimony of God and that this rejection was to be expected. The majority expressed extreme bitterness, refusing to entertain the idea of sharing salvation with Gentiles. Paul's use of Isaiah's words shows that Jesus's discourse and deductions from Hebrew prophecy were well known to him and his companions.",
+            "wordCount": 143,
+            "quoteTokenProportion": 36.46,
+            "qualityScore": 2.0602423125871914,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+            "commentatorTierSimilarities": [
+                33.54,
+                39.47,
+                26.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is remarkable that the same prophetic quotation used by Jesus as he began teaching through parables now forms the solemn close of the Scriptures. When the visitors could not agree, they departed, feeling they had exhausted the discussion. Paul seized the opportunity to give one last word, a solemn testimony from the Scriptures. By mentioning the Holy Spirit, Paul revealed their resistance to God. He reminded them of their nation's tendency to reject God's testimony and the majority's refusal to entertain the idea of sharing salvation with Gentiles.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.016439360474936,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.39,
+            "commentatorTierSimilarities": [
+                36.42,
+                36.41,
+                27.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is remarkable that the same prophetic quotation used by Jesus to open his teachings by parables is now the solemn close of the Scriptures. After a full day of discussion, the visitors departed, feeling that the material for discussion had been exhausted. Paul, addressing both parties, gave one last word, a solemn parting testimony from the Scriptures regarded as the Holy Ghost speaking to Israel. By mentioning the Holy Spirit, Paul indicated that they were resisting God. He reminded them of how it was characteristic of their nation to reject the testimony of God and that this rejection was to be expected. The majority expressed extreme bitterness, refusing to entertain the idea of sharing salvation with Gentiles.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 2.039299330076897,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+            "commentatorTierSimilarities": [
+                34.5,
+                37.97,
+                27.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The same prophetic quotation that marked the beginning of Jesus' teachings through parables now solemnly concludes the Scriptures. After a long day of discussion, both parties could not agree and parted ways, feeling that the arguments had been exhausted. Paul took this moment to deliver a final testimony from the Scriptures, acknowledging that the Holy Spirit was speaking through them. By mentioning the Holy Spirit, Paul emphasized that they were resisting God. He reminded them of their nation's tendency to reject God's testimony and their refusal to accept the idea of including Gentiles in salvation.",
+            "wordCount": 97,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.086235151969487,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+            "commentatorTierSimilarities": [
+                35.57,
+                35.81,
+                28.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is remarkable that the same prophetic quotation used by Jesus as he began teaching through parables now forms the solemn close of the Scriptures. The visitors departed after failing to agree, feeling that the discussion had been exhausted. Paul took this opportunity to deliver one last word, a solemn testimony from the Scriptures regarded as the Holy Ghost speaking to Israel. By mentioning the Holy Spirit, Paul indicated their resistance to God. He reminded them of their nation's tendency to reject God's testimony, and their refusal to entertain the idea of sharing salvation with Gentiles.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0191099724568717,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.48,
+            "commentatorTierSimilarities": [
+                35.08,
+                36.07,
+                28.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

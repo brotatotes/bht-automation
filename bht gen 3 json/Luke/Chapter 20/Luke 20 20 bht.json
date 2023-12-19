@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:22:17",
+    "verseRef": "Luke 20:20",
+    "bestBHT": {
+        "bht": "The Pharisees and Herodians sent spies, men specifically instructed to catch Jesus in his words. They posed as scrupulous individuals, waiting and watching for the perfect opportunity to accuse Jesus. These spies aimed to trap Jesus with a carefully crafted question about the Roman governor's authority. Their intention was to deliver him unto the power and authority of the governor, ensuring his execution. These were not simply bystanders, but rather men who diligently sought to take hold of Jesus' speech and twist it to their advantage.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.8184629329946955,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+        "commentatorTierSimilarities": [
+            29.73,
+            36.18,
+            34.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Spies: literally, men suborned, instructed and arranged for that purpose.",
+            "It is, that they might lay hold of him by some saying; 'catch him by a word,' as St. Mark.",
+            "Unto the ruling (Roman) power (genus), unto the authority of the governor (species)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20-26. sent forth\u2014after",
+            "\tconsulting (Matthew 22:15) on the",
+            "\tbest plan. ",
+            "\t",
+            "spies\u2014\"of the",
+            "\tPharisees and Herodians\" (Matthew 22:15- :). See Mark 3:6."
+        ],
+        "Marvin Vincent": [
+            "Spies [\u03b5\u03b3\u03ba\u03b1\u03b8\u03b5\u03c4\u03bf\u03c5\u03c2] . Only here in New Testament.",
+            "The power and authority [\u03c4\u03b7 \u03b1\u03c1\u03c7\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7 \u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03b1] . The former, the Roman power in general; the latter, the specific authority of the official.",
+            "Which should feign [\u03c5\u03c0\u03bf\u03ba\u03c1\u03b9\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2] . Lit., feigning. Rev., which feigned. Only here in New Testament."
+        ],
+        "Philip Schaff": [
+            "And they watched him. Hanging about until the opportunity came.",
+            "They sent forth spies, men instructed for the purpose.",
+            "That they (the foiled Sanhedrists) might take hold of his speech."
+        ],
+        "Archibald T. Robertson": [
+            "They posed as scrupulous persons with a difficulty of conscience.",
+            "These spies are for the purpose of catching hold of the talk of Jesus if they can get a grip anywhere.",
+            "The trap is all set now and ready to be sprung by these 'spies.'"
+        ],
+        "John Gill": [
+            "And they watched him,.... What he said, and what he did, and where he went, that they might take an advantage against him.\" ",
+            "that might take hold of his words; improve them, and form a charge upon them, of sedition and treason.",
+            "that so they might deliver him unto the power and authority of the governor; the Roman governor, and by him be put to death."
+        ],
+        "John Wesley": [
+            "Just men \u2014 Men of a tender conscience.",
+            "To take hold of his discourse \u2014 If he answered as they hoped he would. Matthew 22:16; Mark 12:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees and Herodians sent spies, men specially instructed to catch Jesus in his words. They aimed to lay hold of him by some saying and trap him with a carefully crafted question about the Roman governor's authority. These spies posed as scrupulous individuals with a difficulty of conscience, waiting and watching for the perfect opportunity to accuse Jesus. Their goal was to deliver him unto the power and authority of the governor, ensuring his execution. These were not simply bystanders, but rather men who hung about until the opportunity came, diligently seeking to take hold of Jesus' speech and twist it to their advantage.",
+            "wordCount": 106,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.8043791518410255,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.34,
+            "commentatorTierSimilarities": [
+                28.64,
+                35.68,
+                35.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees and Herodians sent spies, men specifically instructed to catch Jesus in his words. They posed as scrupulous individuals, waiting and watching for the perfect opportunity to accuse Jesus. These spies aimed to trap Jesus with a carefully crafted question about the Roman governor's authority. Their intention was to deliver him unto the power and authority of the governor, ensuring his execution. These were not simply bystanders, but rather men who diligently sought to take hold of Jesus' speech and twist it to their advantage.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.8184629329946955,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                29.73,
+                36.18,
+                34.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees and Herodians sent spies, men specifically instructed to catch Jesus in his words and lay hold of him by some saying. These spies posed as scrupulous individuals, feigning a difficulty of conscience. They diligently watched and waited for the opportunity to trap Jesus with a carefully crafted question about the authority of the Roman governor. Their ultimate goal was to deliver him unto the power and authority of the governor, ensuring his execution.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.7815086010814802,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.58,
+            "commentatorTierSimilarities": [
+                29.76,
+                35.14,
+                35.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees and Herodians sent out spies, men who were instructed and arranged for the purpose of catching Jesus by something he said. These spies feigned scrupulousness and a difficulty of conscience, attempting to lay hold of his discourse. They carefully watched and waited, seeking an opportunity to catch him in his words. Their goal was to deliver him to the power and authority of the Roman governor, so that he could be put to death. These spies were not simply bystanders, but strategic instruments ready to spring the trap.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.7950172854153212,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                27.42,
+                40.17,
+                32.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees and Herodians sent spies, those who were instructed and arranged for the purpose of catching Jesus by something he said. These spies posed as scrupulous individuals with a difficulty of conscience, watching and waiting for the opportunity to lay hold of his discourse. Their ultimate goal was to deliver him to the power and authority of the Roman governor, ultimately leading to his execution. These spies were strategic instruments, ready to spring their trap on Jesus at any moment.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.7872315875087388,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.77,
+            "commentatorTierSimilarities": [
+                30.36,
+                38.82,
+                30.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

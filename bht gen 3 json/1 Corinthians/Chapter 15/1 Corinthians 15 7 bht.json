@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:13:31",
+    "verseRef": "1 Corinthians 15:7",
+    "bestBHT": {
+        "bht": "The term 'apostle' goes beyond the Twelve in this context, including the Seventy and others. It's probable that James, mentioned here among the apostles, was not one of the original Twelve. The presence of James and the brothers of Jesus in the upper room can be understood in light of this. The Ascension of Christ from Olivet also plays a significant role in interpreting this.",
+        "wordCount": 66,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 2.077108615641058,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.4,
+        "commentatorTierSimilarities": [
+            36.13,
+            34.02,
+            29.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is decisive for the much wider use of the term apostle than as applying to the Twelve only.\" ",
+            "...a strong presumption that James, just mentioned, and evidently here and Gal. i. 19 included among the apostles, was not one of the Twelve.",
+            "Chrysostom extends the term to the Seventy of Luke x., and others."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "James swore he would not eat bread from the hour that he drank the cup of the Lord, till he should see Him rising again from the dead.",
+            "The term here includes many others besides 'the Twelve' already enumerated.",
+            "Perhaps the seventy disciples."
+        ],
+        "Albert Barnes": [
+            "The evangelists have only mentioned the more prominent instances, and enough to substantiate the fact of his resurrection.",
+            "It is highly probable that Paul would state to him the vision which he had of the Lord Jesus on his way to Damascus, and that James also would state to Paul the fact that he had seen him after he rose.",
+            "During the forty days after his resurrection he was often seen by them."
+        ],
+        "Philip Schaff": [
+            "This James, we believe, was 'James the Lord's brother,' not James the apostle.",
+            "It has been thought that this special manifestation was what removed his last misgivings as to the claims of Jesus.",
+            "It has been thought, too, that this special manifestation to James no doubt communicated to the apostles along with his blood-relationship to the Lord Himself, had something to do with the leading place assigned to him at Jerusalem."
+        ],
+        "Archibald T. Robertson": [
+            "This fact explains the presence of the brothers of Jesus in the upper room.",
+            "The Ascension of Christ from Olivet."
+        ],
+        "John Gill": [
+            "Not James the son of Zebedee, and brother of John, though he was seen by him with other disciples, John 20:19 who was now dead when the apostle wrote this, having been killed by Herod many years ago, Acts 12:2 and so not quite so proper a witness to be mentioned.",
+            "This appearance was made unto him when alone; and though the Scripture elsewhere makes no mention of it, there is no room to doubt it, since the apostle here affirms it.",
+            "Then of all the apostles; at the Mount of Olives, when he led them out of Jerusalem, as far as Bethany, blessed them, and was parted from them, and ascended to heaven out of their sight, Luke 24:50 so that this was the last appearance of him on earth after his resurrection."
+        ],
+        "John Wesley": [
+            "Then by all the apostles \u2014 The twelve were mentioned1Corinthians15:5.",
+            "This title here, therefore, seems to include the seventy.",
+            "If not all those, likewise, whom God afterwards sent to plant the gospel in heathen nations."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The term apostle in 1 Corinthians 15:7 is used in a wider sense than just referring to the Twelve. Chrysostom extends the term to the Seventy in Luke 10 and others. There is a strong presumption that James, who is mentioned in this verse and included among the apostles, was not one of the Twelve. This fact explains the presence of James and the other brothers of Jesus in the upper room. The Ascension of Christ from Olivet is also important in understanding this verse.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.083826746115542,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.63,
+            "commentatorTierSimilarities": [
+                38.11,
+                31.4,
+                30.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The term 'apostle' in this passage extends beyond the Twelve, including the Seventy and others. It is likely that James, mentioned here among the apostles, was not one of the original Twelve. The fact that James and the other brothers of Jesus were present in the upper room can be explained by this understanding. The Ascension of Christ from Olivet is also relevant to comprehending this passage.",
+            "wordCount": 67,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0912182899654876,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.87,
+            "commentatorTierSimilarities": [
+                35.16,
+                33.99,
+                30.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The term 'apostle' goes beyond the Twelve in this context, including the Seventy and others. It's probable that James, mentioned here among the apostles, was not one of the original Twelve. The presence of James and the brothers of Jesus in the upper room can be understood in light of this. The Ascension of Christ from Olivet also plays a significant role in interpreting this.",
+            "wordCount": 66,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.077108615641058,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.4,
+            "commentatorTierSimilarities": [
+                36.13,
+                34.02,
+                29.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The term 'apostle' in this context is used beyond the Twelve, including the Seventy and others, as Chrysostom and other commentators suggest. There is a strong presumption that James, mentioned here among the apostles, was not one of the original Twelve. This wider usage of the term explains the presence of James and the other brothers of Jesus in the upper room, possibly after witnessing the Ascension of Christ from Olivet. This sheds light on the understanding of this verse.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.980230259394827,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                35.9,
+                33.09,
+                31.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The term 'apostle' in this context includes more than just the Twelve. Chrysostom and others extend the term to the Seventy disciples. James, mentioned here among the apostles, is believed to be distinct from the Twelve. The presence of James and the brothers of Jesus in the upper room can be explained by this broader usage of the term. Additionally, the Ascension of Christ from Olivet is a significant factor to consider when interpreting this passage.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0218166088414167,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.57,
+            "commentatorTierSimilarities": [
+                38.66,
+                31.68,
+                29.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

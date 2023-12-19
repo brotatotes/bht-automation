@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 15:17:28",
+    "verseRef": "2 Corinthians 9:14",
+    "bestBHT": {
+        "bht": "When recipients of charity are moved by Christian love on account of the abundant grace of God that is displayed through the donors, they not only glorify God by their prayers, but also long for and pray for the well-being of the donors. Their prayers are worth more than the charity itself, as it is God who excites in us a disposition to do good to others. The generosity of the donors causes thanksgiving to God, prayer for them, and a yearning of heart towards them for the grace of God that is so evident in their lives.",
+        "wordCount": 99,
+        "quoteTokenProportion": 55.74,
+        "qualityScore": 2.38645626739698,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.69,
+        "commentatorTierSimilarities": [
+            25.38,
+            43.88,
+            30.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The meaning is obvious enough, viz. that glory also accrues to God by the prayers of the recipients.",
+            "who are moved with the desire of Christian love to you, on account of the grace of God which abounds eminently towards you.",
+            "the grace of God which abounds eminently towards you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They glorify God by the experimental proof, and by their prayer for you.",
+            "Themselves also with prayer for you, longing after you on account of the exceeding grace of God (resting) upon you.",
+            "English Version is, however, good sense: They glorify God by the experimental proof, and by their prayer for you."
+        ],
+        "Albert Barnes": [
+            "The sentiment is, that charity should be shown to poor and afflicted Christians because it will lead them to pray for us and to desire our welfare.",
+            "The prayers of the poorest Christian for us are worth more than all we usually bestow on them in charity.",
+            "God is the author of all grace; he alone excites in us a disposition to do good to others."
+        ],
+        "John Calvin": [
+            "He omits no advantage which may be of any use for stirring up the Corinthians.",
+            "They will have... earnest prayers. They will regard you with the love with which they ought, and they will be careful to commend you to God in their prayers.",
+            "As though he had obtained his desire, he prepares himself to celebrate the praises of God, by which he was desirous to testify the confidence felt by him, as though the matter were already accomplished."
+        ],
+        "Philip Schaff": [
+            "Your generosity not only causes much thanksgiving to God, and prayer for you, but a yearning of heart towards you for the grace of God so eminently resting upon such donors.",
+            "A yearning of heart towards you for the grace of God.",
+            "The exceeding grace of God in you."
+        ],
+        "Archibald T. Robertson": [
+            "While they themselves long after you (\u03b1\u03c5\u03c4\u03c9\u03bd \u03b5\u03c0\u03b9\u03c0\u03bf\u03b8\u03bf\u03c5\u03bd\u03c4\u03c9\u03bd). Genitive absolute of present active participle of \u03b5\u03c0\u03b9\u03c0\u03bf\u03b8\u03b5\u03c9 (2 Corinthians 5:2).",
+            "In you (\u03b5\u03c6' \u03c5\u03bc\u03b9\u03bd). Upon you. "
+        ],
+        "John Gill": [
+            "They glorify God on your behalf, making mention of you in all their prayers at the throne of grace, giving thanks to God for your liberality to them, and imploring all the blessings both of the upper and nether springs upon you.",
+            "It put them upon daily and importunate supplications to God for their welfare both in soul and body.",
+            "Their affections are wonderfully drawn out to you; not so much, or barely for your kindness to them, as for the exceeding grace of God in you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "The meaning of this verse is that when the recipients of charity are moved by Christian love on account of the abundant grace of God that is displayed through the donors, they not only glorify God through their own prayers, but they also long for and pray for the well-being of the donors. Their prayers are worth more than the charity itself, as it is God who is the author of all grace and who stirs in us a disposition to do good to others. The generosity of the donors causes thanksgiving to God, prayer for them, and a yearning of heart towards them for the grace of God that is so evident in their lives.",
+            "wordCount": 117,
+            "quoteTokenProportion": 55.22,
+            "qualityScore": 2.4100108687690547,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.47,
+            "commentatorTierSimilarities": [
+                25.79,
+                43.96,
+                30.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When recipients of charity are moved by Christian love due to the abundant grace of God displayed by the donors, they not only glorify God through their prayers, but they fervently pray for the well-being of the donors as well. Their prayers, worth more than the charity itself, are fueled by the affection and yearning they have for the donors and the remarkable grace of God at work in their lives. The generosity of the donors leads to thanksgiving, prayer, and a deep longing in the hearts of the recipients.\n",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.0856007854130594,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                24.86,
+                44.26,
+                30.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When recipients of charity are moved by Christian love on account of the abundant grace of God that is displayed through the donors, they not only glorify God by their prayers, but also long for and pray for the well-being of the donors. Their prayers are worth more than the charity itself, as it is God who excites in us a disposition to do good to others. The generosity of the donors causes thanksgiving to God, prayer for them, and a yearning of heart towards them for the grace of God that is so evident in their lives.",
+            "wordCount": 99,
+            "quoteTokenProportion": 55.74,
+            "qualityScore": 2.38645626739698,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.69,
+            "commentatorTierSimilarities": [
+                25.38,
+                43.88,
+                30.74
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

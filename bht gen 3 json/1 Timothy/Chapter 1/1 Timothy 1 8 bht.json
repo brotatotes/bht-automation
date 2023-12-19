@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:28:14",
+    "verseRef": "1 Timothy 1:8",
+    "bestBHT": {
+        "bht": "The law is good in agreement with God's holiness and goodness. It is morally excellent and salutary, awakening the sense of sin in the ungodly and profane. Righteousness, in the Christian sense, means being included in the actual righteousness of Christ through faith and sanctification of the Spirit. The law should be used lawfully, as not binding on, nor relevant to Christian believers, but as a means of repentance for the ungodly. The law points believers to the will of God and guides them in holiness.",
+        "wordCount": 87,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.172036889042764,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.56,
+        "commentatorTierSimilarities": [
+            32.17,
+            29.2,
+            38.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We know that the law is good if a man use it lawfully, i. e. as not binding on, nor relevant to Christian believers, but only a means of awakening repentance in the ungodly and profane.",
+            "Righteous therefore can only mean, righteous in the Christian sense, viz. by justifying faith and sanctification of the Spirit\u2014 one who is included in the actual righteousness of Christ by having put Him on, and so not forensically amenable to the law.",
+            "The Apostle puts the slave-stealer and dealer as the most flagrant of all breakers of the eighth commandment. No theft of a man\u2019s goods can be compared with that most, atrocious act, which steals the man himself, and robs him of that free will which is the first gift of his Creator."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "law is good\u2014in full agreement with God's holiness and goodness.",
+            "use it lawfully\u2014in its lawful place in the Gospel economy.",
+            "as a means of awakening the sense of sin in the ungodly."
+        ],
+        "Albert Barnes": [
+            "But we know that the law is good.\" ",
+            "He admitted that the law was good.",
+            "Paul asked only that it should be used aright, and in order to this, he proceeds to state what is its true design."
+        ],
+        "Marvin Vincent": [
+            "Good [\u03ba\u03b1\u03bb\u03bf\u03c2]. Comp. Romans 7:16. Morally excellent and salutary.\" ",
+            "This is the only instance of crasqai to use with nomov law.\" ",
+            "The nature of the proper use of the law - is indicated by the next clause."
+        ],
+        "John Calvin": [
+            "The law is good [...] but contends that we are required to make a lawful use of it.\" ",
+            "Here he argues from the use of cognate terms; for the word lawful (legitimus) is derived from the word law (lex).\" ",
+            "He shows that the law agrees excellently with the doctrine which it teaches; and he even directs it against them."
+        ],
+        "Philip Schaff": [
+            "We know, we who have been taught, through personal experience, by the Spirit of God, what is the nature and office of the law, that it is good and noble.",
+            "To use it law-fully is to feel that it no longer touches us, that we are not under its condemnation, to press its observance not on those who are 'just' as having the new life in Christ, but on those who still live in sin.",
+            "That, with perhaps a slight play upon the word, is the legitimate use of law."
+        ],
+        "Archibald T. Robertson": [
+            "If a man use it lawfully (\u03b5\u03b1\u03bd \u03c4\u03b9\u03c2 \u03b1\u03c5\u03c4\u03c9 \u03c7\u03c1\u03b7\u03c4\u03b1). Condition of third class with \u03b5\u03b1\u03bd and present middle subjunctive of \u03c7\u03c1\u03b1\u03bf\u03bc\u03b1 with instrumental case. "
+        ],
+        "John Gill": [
+            "the law is good...the law is good, provided it be used in a lawful way, and to lawful purposes\" ",
+            "the moral law... is a declaration of his will, and is stamped with his authority, and therefore must be good",
+            "To sinners it is useful for the knowledge of sin, to convince of it, and bring them to a sense of it, and concern for it...and to believers it is of use, to point out to them what is the will of God, and what should be done, and not done"
+        ],
+        "John Wesley": [
+            "Even the ceremonial is good, as it points to Christ.",
+            "The moral law is holy, just, and good, on its own nature.",
+            "Of admirable use both to convince unbelievers, and to guide believers in all holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The law is good when used lawfully and in its proper place within the Gospel. It awakens the sense of sin in the ungodly and serves as a means of repentance. However, for believers, the law is not binding, but rather a reflection of the righteousness obtained through faith in Christ. In this context, the Apostle emphasizes the severity of stealing a human being, which robs them of their free will. The law is in full agreement with God's holiness and goodness, and it is essential to use it rightly to fulfill its true purpose.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.138901756551282,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.46,
+            "commentatorTierSimilarities": [
+                31.23,
+                31.7,
+                37.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The law is good and morally excellent, in line with God's holiness. It should be used lawfully, awakening repentance in the ungodly and guiding believers in holiness. For Christians, righteousness means being justified by faith and sanctification. The Apostle emphasizes the seriousness of stealing a person, robbing them of their free will. The law is a declaration of God's will and serves to convict sinners and guide believers. Properly using the law helps fulfill its intended purpose.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.1059082342005886,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.36,
+            "commentatorTierSimilarities": [
+                30.68,
+                30.1,
+                39.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The law is good in agreement with God's holiness and goodness. It is morally excellent and salutary, awakening the sense of sin in the ungodly and profane. Righteousness, in the Christian sense, means being included in the actual righteousness of Christ through faith and sanctification of the Spirit. The law should be used lawfully, as not binding on, nor relevant to Christian believers, but as a means of repentance for the ungodly. The law points believers to the will of God and guides them in holiness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.172036889042764,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.56,
+            "commentatorTierSimilarities": [
+                32.17,
+                29.2,
+                38.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The law is good, in full agreement with God's holiness and goodness. It serves as a means of awakening the sense of sin in the ungodly, while guiding believers in holiness. Righteousness, in the Christian sense, is obtained through justifying faith and sanctification of the Spirit. The law should be used lawfully, in its rightful place within the Gospel, to fulfill its intended purpose. It is a declaration of God's will, pointing out what should be done and not done, both for unbelievers and believers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.064125024426944,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                31.08,
+                29.3,
+                39.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The law is good and morally excellent, reflecting God's holiness. It is to be used lawfully, awakening repentance in the ungodly and guiding believers towards sanctification. Righteousness, in the Christian sense, comes through faith in Christ and the indwelling of the Spirit. The law reveals what is pleasing to God and convicts sinners, while also providing guidance for believers in pursuing holiness. Its proper use fulfills its intended purpose and aligns with the will of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0466725612832866,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                30.4,
+                29.1,
+                40.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

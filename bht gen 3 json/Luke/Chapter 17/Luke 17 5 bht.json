@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:20:58",
+    "verseRef": "Luke 17:5",
+    "bestBHT": {
+        "bht": "The disciples, overwhelmed by the difficulty of avoiding and forgiving offenses, humbly ask Jesus to Increase our faith. They recognize the vastness of the faith required to overcome these challenges and forgive sins. This unique request demonstrates their understanding that spiritual growth is necessary and that faith is not something they can produce on their own. They acknowledge Jesus' divine power and authority as the source of faith, seeking the strength to fulfill His commandments and live a life of forgiving love.",
+        "wordCount": 82,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.9286483321305492,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+        "commentatorTierSimilarities": [
+            22.65,
+            39.78,
+            37.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Increase our faith...Add unto us, i.e. give us more faith, is more literal and simpler.",
+            "This is the only example in the Gospels in which the Apostles are marked out as requesting or saying any thing to Lord.",
+            "They are amazed at the greatness of the faith which is to overcome offences and forgive sins...and pray that more faith may be added to them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Increase our faith\u2014moved",
+            "\tby the difficulty of avoiding and forgiving 'offenses.'\" ",
+            "This is the only instance in which a spiritual operation upon",
+            "\ttheir souls was solicited of Christ by the Twelve.",
+            "A kindred and higher prayer had been offered before, by one with far fewer opportunities."
+        ],
+        "Albert Barnes": [
+            "This duty of forgiving offences seemed so difficult to the disciples that they strongly felt the need of an increase of faith.",
+            "They felt that they were prone themselves to harbor resentments, and that it required an additional increase of true religion to enable them to comply with the requirements of Jesus.",
+            "Some have thought that this prayer that he would increase their faith refers to the power of working miracles, and especially to the case recorded in Matthew 17:16-20."
+        ],
+        "Philip Schaff": [
+            "Increase our faith, lit, \u2018add to us faith,\u2019 i.e., give us more faith.",
+            "They felt themselves unequal to the duty of forgiving love enjoined upon them (Luke 17:3-4).",
+            "Those who offer the prayer should remember the occasion of it."
+        ],
+        "Archibald T. Robertson": [
+            "Increase (\u03c0\u03c1\u03bf\u03c3\u03b8\u03b5\u03c2). Second aorist active imperative of \u03c0\u03c1\u03bf\u03c3\u03c4\u03b9\u03b8\u03b7\u03bc, to add to.\" ",
+            "Bruce thinks that this sounds much like the stereotyped petition in church prayers.",
+            "A little reflection will show that they should answer the prayer themselves."
+        ],
+        "John Gill": [
+            "increase our faith; both the faith of working miracles, and the grace of believing in him",
+            "they acknowledge his divine power, and that he is the author and finisher of faith",
+            "faith is not of a man's self, or the produce of man's freewill and power, but is the gift of God"
+        ],
+        "John Wesley": [
+            "Lord, increase our faith \u2014 That we may thus forgive, and may neither offend nor be offended. Matthew 17:20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, feeling overwhelmed by the difficulty of avoiding and forgiving offenses, humbly pray to Jesus, Increase our faith. They recognize that the faith required to overcome these challenges and forgive sins is great. This request from the Twelve is unique in the Gospels, and it demonstrates their understanding of the need for a spiritual operation upon their souls. They ask for more faith, acknowledging that this is a gift from God, not something they can produce on their own. In their prayer, they are acknowledging Jesus' divine power and authority as the source of faith. Ultimately, they long to have the faith necessary to fulfill the commandments of Jesus and truly live a life of forgiving love.",
+            "wordCount": 118,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.8604129915751064,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                23.69,
+                39.81,
+                36.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, aware of their struggle to forgive and overcome offenses, turn to Jesus with a humble request: Increase our faith. They recognize that the magnitude of this task requires a larger measure of faith. This unique plea shows their understanding that spiritual growth is needed in order to fulfill Jesus' commandments. They acknowledge the divine power of Jesus and the necessity of faith as a gift from God. Through this prayer, they express their desire for the faith necessary to live a life characterized by forgiveness and love.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.8691311676500637,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                23.68,
+                42.27,
+                34.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, overwhelmed by the difficulty of avoiding and forgiving offenses, humbly ask Jesus to Increase our faith. They recognize the vastness of the faith required to overcome these challenges and forgive sins. This unique request demonstrates their understanding that spiritual growth is necessary and that faith is not something they can produce on their own. They acknowledge Jesus' divine power and authority as the source of faith, seeking the strength to fulfill His commandments and live a life of forgiving love.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.9286483321305492,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                22.65,
+                39.78,
+                37.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Recognizing the immense faith needed to overcome offenses and forgive sins, the disciples humbly implore Jesus, Increase our faith. They understand that this spiritual growth is not something they can achieve on their own, but can only be granted by God. This plea for more faith reveals their deep reliance on Jesus' divine power and their desire to fulfill His teachings. Seeking to live a life of forgiving love, they acknowledge that it is through the gift of faith that they can truly live out His commandments.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.8445418618754688,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+            "commentatorTierSimilarities": [
+                21.93,
+                40.17,
+                37.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Recognizing the magnitude of faith required to overcome offenses and forgive sins, the disciples approach Jesus with a humble plea, Increase our faith. They understand that the ability to fulfill His commands demands a spiritual transformation beyond their own capacity. This unique petition to Jesus acknowledges His divine power and authority, as they seek to receive the gift of faith from Him. Their prayer reflects a deep desire to live a life characterized by forgiveness and love, embracing the truth that faith is a divine enablement, not a personal achievement.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.8504498325911065,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "commentatorTierSimilarities": [
+                24.15,
+                38.54,
+                37.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

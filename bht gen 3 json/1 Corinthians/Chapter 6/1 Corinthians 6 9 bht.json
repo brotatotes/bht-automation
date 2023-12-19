@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:06:40",
+    "verseRef": "1 Corinthians 6:9",
+    "bestBHT": {
+        "bht": "Be not deceived, for this looks as if you had forgotten the rigid seclusion from the kingdom of God of all wrong-doers. Let us shun the talk of profane persons who turn the judgment of God into jest. Remember, the wicked may inherit the kingdom of God if they repent and cease their wickedness. Without righteousness, there will be no entrance into the world of bliss. Guard against the least of sins, for every step toward hell counts.",
+        "wordCount": 79,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 1.8979274072454877,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+        "commentatorTierSimilarities": [
+            28.23,
+            27.24,
+            44.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye commit wrong:\u2019 this looks as if you had forgotten the rigid seclusion from the kingdom of God of all wrong-doers of every kind.\" ",
+            "Be not deceived. This caution would be most salutary and needful in a dissolute place like Corinth.",
+            "The mention of fornicators refers back to ch. v., and is taken up again, verses 12 ff. drunkards."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Doers of wrong\": referring to (compare Galatians 5:21).",
+            "Kingdom of God\u2014which is a kingdom of righteousness\" (Galatians 5:21- :).",
+            "Effeminate\u2014self-polluters, who submit to unnatural lusts."
+        ],
+        "Albert Barnes": [
+            "The unjust \u03b1\u0313\u0301\u03b4\u03b9\u03ba\u03bf\u03b9 adikoi - such as he had just mentioned - they who did injustice to others, and attempted to do it under the sanction of the courts.\" ",
+            "The man who is not fit to enter into the kingdom of God on earth, shall also enter into that in heaven.",
+            "It implies, that there was \"no necessity\" of their being deceived. They might know the truth. They might easily understand these matters. It might be plain to them that those who indulged in these things could not be saved."
+        ],
+        "Marvin Vincent": [
+            "Fornicators. The besetting sin of Corinth.",
+            "Effeminate [\u03bc\u03b1\u03bb\u03b1\u03ba\u03bf\u03b9]. Luxurious and dainty. The word was used in a darker and more horrible sense.",
+            "Abusers, etc. See on Romans 1:7."
+        ],
+        "John Calvin": [
+            "The wicked, then, do inherit the kingdom of God, but it is only in the event of their having been first converted to the Lord in true repentance, and having in this way ceased to be wicked.",
+            "He takes occasion from one vice to speak of many.",
+            "Let us, therefore, shun, not as the songs of the Sirens, but as the deadly bites of Satan, the talk of profane persons, when turning the judgment of God and reproofs of sins into matter of jest."
+        ],
+        "Philip Schaff": [
+            "The five grosser forms of vice thus mentioned are next followed by five of a more familiar but not less soul-destroying kind.",
+            "Be not deceived: neither fornicator, nor idolaters, whose religion was itself voluptuous, particularly at Corinth, nor adulterers, nor effeminate given to voluptuous ease, encouraging their sensual inclinations, nor abusers of themselves with men practising the unnatural vice of Romans 1:27, but which ought not to be named among us as becometh saints.",
+            "Nor abusers of themselves with men practising the unnatural vice of Romans 1:27, but which ought not to be named among us as becometh saints."
+        ],
+        "Archibald T. Robertson": [
+            "Do not be led astray by plausible talk to cover up sin as mere animal behaviourism.",
+            "This was plain talk to a city like Corinth. It is needed today.",
+            "It is a solemn roll call of the damned even if some of their names are on the church roll in Corinth whether officers or ordinary members."
+        ],
+        "John Gill": [
+            "Without a righteousness there will be no entrance into the world of bliss and happiness hereafter... no other than the righteousness of Christ.",
+            "Whoever... are destitute of [righteousness], will fall short of enjoying the glory of God.",
+            "It is not agreeable to the holy nature of God... to admit any into heaven without a righteousness."
+        ],
+        "John Wesley": [
+            "Idolatry is here placed between fornication and adultery, because they generally accompanied it.",
+            "We may learn hence, that we are never secure from the greatest sins, till we guard against those which are thought the least.",
+            "We think no sin is little, since every one is a step toward hell."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Be not deceived, for you commit wrong. This caution is most salutary in a dissolute place like Corinth, where fornication and idolatry are prevalent. Let us shun the talk of profane persons who turn the judgment of God into jest. Remember, the wicked may inherit the kingdom of God if they repent and cease their wickedness. Without righteousness, there will be no entrance into the world of bliss. We must guard against the least of sins, for every step toward hell counts.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.8192265055094938,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.83,
+            "commentatorTierSimilarities": [
+                29.12,
+                26.33,
+                44.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Be not deceived, for you commit wrong. Remember, the wicked may inherit the kingdom of God if they repent and cease their wickedness. Without righteousness, there will be no entrance into the world of bliss. Let us shun the talk of profane persons who turn the judgment of God into jest. Guard against the least of sins, for every step toward hell counts.",
+            "wordCount": 63,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.8029926170544255,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.29,
+            "commentatorTierSimilarities": [
+                27.95,
+                25.79,
+                46.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Be not deceived, for this looks as if you had forgotten the rigid seclusion from the kingdom of God of all wrong-doers. Let us shun the talk of profane persons who turn the judgment of God into jest. Remember, the wicked may inherit the kingdom of God if they repent and cease their wickedness. Without righteousness, there will be no entrance into the world of bliss. Guard against the least of sins, for every step toward hell counts.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.8979274072454877,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+            "commentatorTierSimilarities": [
+                28.23,
+                27.24,
+                44.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Be not deceived, for this caution would be most salutary in a dissolute place like Corinth. The mention of fornicators refers back to a previous chapter, and the besetting sin of Corinth was fornication. Let us shun the talk of profane persons who turn the judgment of God into jest. Remember, the wicked may inherit the kingdom of God if they repent and cease their wickedness. Without righteousness, there will be no entrance into the world of bliss. Guard against the least of sins, for every step toward hell counts.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.8903143914303735,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
+            "commentatorTierSimilarities": [
+                31.58,
+                26.58,
+                41.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Be not deceived, for this caution would be most salutary in a dissolute place like Corinth. The mention of fornicators refers back to a previous chapter, and the besetting sin of Corinth was fornication. Let us shun the talk of profane persons who turn the judgment of God into jest. Remember, the wicked may inherit the kingdom of God if they repent and cease their wickedness. Without righteousness, there will be no entrance into the world of bliss. Every step toward hell counts.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.778722111561788,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+            "commentatorTierSimilarities": [
+                31.73,
+                26.56,
+                41.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

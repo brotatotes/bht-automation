@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:29:48",
+    "verseRef": "2 Timothy 1:4",
+    "bestBHT": {
+        "bht": "Paul expresses his longing to see Timothy, desiring...with yearning as for one much missed. He is mindful of thy tears, shedding by Timothy at their parting and likely on other occasions under pious feelings. This displays the heartfelt and fervent personal love between them. Despite the impending dangers of Paul's circumstances, he fervently desires to see Timothy again, to be filled with joy at their reunion. The depth of their affection is evident in their longing for each other and the tears shed.",
+        "wordCount": 85,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.1385127682400693,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+        "commentatorTierSimilarities": [
+            27.71,
+            33.21,
+            39.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Longing to see thee, remembering thy tears...that I may be filled with joy.\" ",
+            "The expressions in this verse are assurances of the most fervent personal love, strengthened by the proof of such love having been reciprocal.",
+            "From these he gently and most skilfully passes to a tone of fatherly exhortation and reproof."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Desiring - Greek, 'with yearning as for one much missed.'",
+            "Mindful of thy tears - not only at our parting, but also often when under pious feelings.",
+            "That I may be filled with joy - to be joined with 'desiring to see thee.'"
+        ],
+        "Albert Barnes": [
+            "Being mindful of thy tears - Alluding probably to the tears which he shed at parting from him. The occasion to which he refers is not mentioned; but nothing is more probable than that Timothy would weep when separated from such a father and friend. It is not wrong thus to weep, for religion is not intended to make us stoics or savages.",
+            "That I may be filled with joy - By seeing you again. It is easy to imagine what joy it would give Paul, then a prisoner, and forsaken by nearly all his friends, and about to die, to see a friend whom he loved as he did this young man.",
+            "Learn hence, that there may be very pure and warm friendship between an old and young man, and that the warmth of true friendship is not diminished by the near prospect of death."
+        ],
+        "Marvin Vincent": [
+            "Longing... direction.\" ",
+            "Mindful of thy tears... the tears shed by Timothy at his parting from Paul.",
+            "That I may be filled with joy."
+        ],
+        "Philip Schaff": [
+            "Remembering thy tears.",
+            "Absence had increased the yearning desire to see him once again, and so \u2018be filled with joy.\u2019",
+            "It is characteristic of Timothy\u2019s sensitive, emotional nature that the tears were shed by him."
+        ],
+        "Archibald T. Robertson": [
+            "Night and day.\" Genitive of time, \"by night and by day.",
+            "Longing.\" Present active participle of \u03b5\u03c0\u03b9\u03c0\u03bf\u03b8\u03b5\u03c9, old word, eight times in Paul.",
+            "Remembering thy tears.\" Probably an allusion to the scene at Miletus."
+        ],
+        "John Gill": [
+            "Greatly desiring to see thee...he longed for a sight of him.",
+            "Being mindful of thy tears...wept with those that wept.",
+            "That I may be filled with joy...an instance of hearty, sincere, and strong affection."
+        ],
+        "John Wesley": [
+            "Being mindful of thy tears \u2014 Perhaps frequently shed, as well as at the apostle's last parting with him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul expresses his longing to see Timothy, emphasizing the deep personal love they share. He recalls the tears shed, likely by Timothy, during their separation, highlighting the emotional bond they have. These sentiments serve as a heartfelt, fatherly exhortation and reproof. Paul's sincere desire to see Timothy signifies the purity and warmth of their friendship, even in the face of impending death. Ultimately, Paul yearns to see Timothy again, to be filled with joy at the reunion. The depth of their affection is showcased by the tears shed and the longing for their reunion.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.029804080982878,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.83,
+            "commentatorTierSimilarities": [
+                28.1,
+                35.0,
+                36.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul expresses his longing to see Timothy, desiring...with yearning as for one much missed. He is mindful of thy tears, shedding by Timothy at their parting and likely on other occasions under pious feelings. This displays the heartfelt and fervent personal love between them. Despite the impending dangers of Paul's circumstances, he fervently desires to see Timothy again, to be filled with joy at their reunion. The depth of their affection is evident in their longing for each other and the tears shed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.1385127682400693,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                27.71,
+                33.21,
+                39.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul expresses his fervent love for Timothy, as they both long to see one another. Paul is mindful of the tears shed by Timothy, which likely happened at their parting. This displays the deep emotional bond they share. Despite their separation, Paul desires to be filled with joy by seeing Timothy again. Their mutual longing and affection are evident in their desire for reunion and the tears shed.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.015899951778991,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                29.09,
+                34.55,
+                36.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's longing to see Timothy is driven by their reciprocal and fervent personal love. He is mindful of the tears shed by Timothy during their parting, a reflection of their deep emotional connection. Despite the impending dangers and challenges, Paul desires to be filled with joy through their reunion. The intensity of their affection is apparent in their unwavering longing for one another and the emotions evoked by their separation.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.979236950922742,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                28.47,
+                34.34,
+                37.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's heartfelt longing to see Timothy is rooted in their fervent and reciprocal personal love, as well as the tears shed by Timothy during their parting. The deep emotional bond between them is demonstrated by their genuine affection. Despite the challenges they face, Paul's desire to be filled with joy through their reunion remains unwavering. It is evident that their longing for one another and the emotions experienced during their separation reflect the depth of their connection.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9191883818097133,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+            "commentatorTierSimilarities": [
+                28.1,
+                35.53,
+                36.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:17:00",
+    "verseRef": "2 Corinthians 7:14",
+    "bestBHT": {
+        "bht": "The joy that Paul experienced was a result of the verification of his previous boasting about the Corinthians to Titus. Paul emphasized that his words were always truthful, regardless of who he was speaking to. He was relieved to find out from Titus that his trust in the Corinthians was not in vain and that they lived up to the high character he had attributed to them. This shows Paul's sincerity and kindness towards the Corinthians, as his preaching and boasting were proven to be true.",
+        "wordCount": 87,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 1.9020848405549935,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+        "commentatorTierSimilarities": [
+            37.04,
+            22.74,
+            40.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This increased joy was produced by the verification which my former boasting of you to Titus now received.",
+            "But truthfulness was shown to be my constant rule of speech, to whomsoever I spoke.",
+            "...so also our boasting (concerning you) before Titus was (was proved to be: was, as shown by proof) truth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am not put to shame,\" namely, by learning from Titus that you did not realize the high character I gave him of you.",
+            "As our speaking in general to you was true, so our particular boasting to Titus concerning you is now, by his report, proved to be truth.",
+            "Some oldest manuscripts read expressly, \"concerning you\"; this in either reading is the sense."
+        ],
+        "Albert Barnes": [
+            "I am not ashamed - It has all turned out to be true. He has found it as I said it would be.",
+            "As we spake all things to you in truth - Everything which I said to you was said in truth.",
+            "Even so our boasting ... - My boasting of your character, and of your disposition to do right, which I made before Titus has turned out to be true."
+        ],
+        "John Calvin": [
+            "He shows indirectly, how friendly a disposition he had always exercised towards the Corinthians, and with what sincerity and kindness he had judged of them...",
+            "Here truly we have a signal evidence of a rightly constituted and candid mind, \u2014 reproving to their face those that you love, and yet hoping well, and giving others good hopes respecting them.",
+            "Such sincerity ought to have induced them not to take amiss any thing that proceeded from him."
+        ],
+        "Philip Schaff": [
+            "For if in any thing I have gloried to him on your behalf, I was not put to shame 'the event has justified to himself the high character I gave him of you.'"
+        ],
+        "Archibald T. Robertson": [
+            "Paul had assured Titus, who hesitated to go after the failure of Timothy, that the Corinthians were sound at bottom and would come round all right if handled properly.\" ",
+            "In truth (\u03b5\u03bd \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1). In the sharp letter as well as in I Corinthians. He had not hesitated to speak plainly of their sins.",
+            "The two things were not inconsistent and were not contradictory as the outcome proved."
+        ],
+        "John Gill": [
+            "For if I have boasted anything to him of you... I am not ashamed... but as we spake all things to you in truth... even so our boasting, which I made before Titus, is found a truth.",
+            "Our preaching among you was true... our word was not yea and nay, but uniform, and all of a piece.",
+            "...our boasting of the Corinthians unto Titus, which was found to be true by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The joy that Paul experienced was a result of the verification of his previous boasting about the Corinthians to Titus. Paul emphasized that his words were always truthful, regardless of who he was speaking to. He was relieved to find out from Titus that his trust in the Corinthians was not in vain and that they lived up to the high character he had attributed to them. This shows Paul's sincerity and kindness towards the Corinthians, despite his reproving and challenging them. His preaching among them was consistent and genuine, and his boasting about them to Titus was proven to be true. Ultimately, the Corinthians' actions aligned with Paul's words, reinforcing the authenticity of his message.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.814921000949684,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                36.67,
+                21.59,
+                41.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The increased joy Paul experienced came from the verification of his previous boasting about the Corinthians to Titus. He emphasized that his speech always held to the truth, no matter who he was speaking to. Learning from Titus that his high characterizations of the Corinthians were accurate, Paul was not put to shame. His sincerity and kindness towards the Corinthians were evident as he reproved them, yet maintained hope and gave others good hopes about them. His consistent preaching and truthful boasting were validated by the Corinthians' actions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.7970941987342952,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                38.0,
+                19.98,
+                42.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The joy Paul experienced was a result of the verification of his previous boasting to Titus. He emphasized that his speech was always truthful, regardless of who he spoke to. Learning from Titus that his high characterizations of the Corinthians were accurate, Paul was not ashamed. His sincerity and kindness were evident as he reproved them, while hoping well and giving others good hopes. The Corinthians' actions aligned with Paul's words, confirming the authenticity of his preaching and boasting.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.7268208698600584,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.76,
+            "commentatorTierSimilarities": [
+                37.75,
+                20.7,
+                41.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The joy Paul experienced stemmed from the truthfulness of his past boasts to Titus about the Corinthians. He was relieved that his honesty was proven as he learned from Titus that the Corinthians lived up to the high character he attributed to them. Paul's sincerity and kindness were evident as he reproved the Corinthians yet maintained hope and gave others good hopes about them. His consistent preaching and truthful boasting were validated by the Corinthians' actions, affirming the authenticity of his message.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.8177531325497291,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                37.48,
+                18.56,
+                43.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The joy that Paul experienced was a result of the verification of his previous boasting about the Corinthians to Titus. Paul emphasized that his words were always truthful, regardless of who he was speaking to. He was relieved to find out from Titus that his trust in the Corinthians was not in vain and that they lived up to the high character he had attributed to them. This shows Paul's sincerity and kindness towards the Corinthians, as his preaching and boasting were proven to be true.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.9020848405549935,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "commentatorTierSimilarities": [
+                37.04,
+                22.74,
+                40.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:22:46",
+    "verseRef": "Luke 21:36",
+    "bestBHT": {
+        "bht": "To prepare for the approaching calamities and total wreck of the existing order, it is crucial to watch and pray, as these are the two great duties that are constantly enjoined in anticipation of trials. Safety and blessedness lie in being able to STAND BEFORE THE SON OF MAN in the glory of His personal appearing. Keeping awake and being ready is the pith of Christ's warning, prevailing to escape the coming miseries, and standing before the Son of Man is the ultimate goal.",
+        "wordCount": 85,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.932604155334399,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+        "commentatorTierSimilarities": [
+            37.6,
+            28.45,
+            33.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "36.] to be set, i.e., by the angels\u2014see Matthew, ver. 31\u2014before the glorified Son of Man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Watch . . . pray, &c.\u2014the two great duties which in prospect of trial are constantly enjoined.",
+            "These warnings, suggested by the need of preparedness for the tremendous calamities approaching, and the total wreck of the existing state of things.",
+            "All safety and blessedness will be found to lie in being able to 'STAND BEFORE THE SON OF MAN' in the glory of His personal appearing."
+        ],
+        "Marvin Vincent": [
+            "Watch. See on Mark 13:33."
+        ],
+        "Philip Schaff": [
+            "At all times making supplication.",
+            "That ye may prevail, or 'have the strength,' be in a condition.\" ",
+            "And to stand before the Son of man."
+        ],
+        "Archibald T. Robertson": [
+            "Keep awake and be ready is the pith of Christ's warning.\" ",
+            "That ye may prevail to escape.\" ",
+            "To stand before the Son of man. That is the goal."
+        ],
+        "John Gill": [
+            "Watch against every sin, snare, and temptation; particularly, against the above things, surfeiting, drunkenness, and worldly cares; pray continually, for fresh supplies of grace.",
+            "That ye may be counted worthy; not for watchfulness and prayer, but through the grace and goodness of God.",
+            "To escape all these things that shall come to pass; the dreadful miseries and distress, that shall come upon the Jews; and to stand before the Son of man; with intrepidity, confidence, and pleasure; and meet him at his coming in this way, with joy and comfort; and likewise at death, and at judgment."
+        ],
+        "John Wesley": [
+            "Watch ye therefore \u2014 This is the general conclusion of all that precedes.",
+            "That ye may be counted worthy \u2014 This word sometimes signifies an honour conferred on a person, as when the apostles are said to be counted worthy to suffer shame for Christ, Acts 5:41.",
+            "To stand \u2014 With joy and triumph: not to fall before him as his enemies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To be set by the angels before the glorified Son of Man, watch and pray, as these are the two great duties that are constantly enjoined in preparation for the trials to come. The warnings are given in light of the approaching calamities and the complete destruction of the existing order. Safety and blessedness lie in being able to stand before the Son of Man in His glory. Therefore, keep awake and be ready, that you may prevail and escape. The goal is to stand before the Son of Man with intrepidity, confidence, and pleasure, both at His coming and at death and judgment. Watch against every sin, snare, and temptation, and pray continually for fresh supplies of grace, so that you may be counted worthy through God's grace and goodness.",
+            "wordCount": 132,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.7613670910167407,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.91,
+            "commentatorTierSimilarities": [
+                33.67,
+                27.33,
+                39.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To be set by the angels before the glorified Son of Man, watch and pray, as these are the two great duties constantly enjoined. The warnings, prompted by the need for preparedness, emphasize the impending calamities and destruction. Safety and blessedness lie in being able to stand confidently before the Son of Man in His glory. Therefore, keep awake and be ready to prevail and escape. The goal is to stand before the Son of Man with joy and confidence, both at His coming and at death and judgment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7558850411939444,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.73,
+            "commentatorTierSimilarities": [
+                34.78,
+                30.59,
+                34.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To be set by the angels before the glorified Son of Man, watch and pray, as these are the two great duties constantly enjoined. The warnings, prompted by the need for preparedness, emphasize the impending calamities and destruction. Safety and blessedness lie in being able to stand confidently before the Son of Man in His glory. Therefore, keep awake and be ready to prevail and escape. The goal is to stand before the Son of Man with joy and confidence, both at His coming and at death and judgment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7558850411939444,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.73,
+            "commentatorTierSimilarities": [
+                34.78,
+                30.59,
+                34.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In light of the approaching calamities and destruction, it is crucial to watch and pray, as these are the two great duties constantly emphasized. The aim is to be set by the angels before the glorified Son of Man, finding safety and blessedness in standing confidently before Him in His glory. It is essential to keep awake, be ready, and prevail in order to escape the impending miseries and distress. Ultimately, the goal is to stand before the Son of Man with joy and triumph, both in this existence and in the presence of death and judgment.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.7063054113940748,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.08,
+            "commentatorTierSimilarities": [
+                33.0,
+                24.82,
+                42.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To prepare for the approaching calamities and total wreck of the existing order, it is crucial to watch and pray, as these are the two great duties that are constantly enjoined in anticipation of trials. Safety and blessedness lie in being able to STAND BEFORE THE SON OF MAN in the glory of His personal appearing. Keeping awake and being ready is the pith of Christ's warning, prevailing to escape the coming miseries, and standing before the Son of Man is the ultimate goal.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.932604155334399,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+            "commentatorTierSimilarities": [
+                37.6,
+                28.45,
+                33.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

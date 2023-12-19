@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:38:16",
+    "verseRef": "2 Thessalonians 2:11",
+    "bestBHT": {
+        "bht": "God, as the judicial sender, permits and ordains what He allows. Rejecting the truth leads to embracing falsehood and believing the lie of Satan. This working of error is the result of deliberately choosing evil over the truth. It serves as a warning against the dangers of error and highlights the importance of holding steadfastly to God's truth. The wicked are given over to their own chosen destruction, blinded and deceived, as a consequence of rejecting God's truth.",
+        "wordCount": 80,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 2.0612185415142688,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+        "commentatorTierSimilarities": [
+            33.35,
+            33.96,
+            32.69
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God's sending must not for a moment be understood as permissiveness only on God's part - He is the judicial sender and doer.",
+            "It is He who hardens the heart which has chosen the evil way.",
+            "Whatever God permits, he ordains."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The best safeguard against error is 'the love of the truth.'",
+            "They first cast off the love of the truth, then God gives them up to Satan's delusions, then they settle down into 'believing the lie': an awful climax.",
+            "Believe a lie - rather, 'the lie' which Antichrist tells them, appealing to his miracles as proofs of it."
+        ],
+        "Albert Barnes": [
+            "If a man strongly prefers error to truth, and sin to holiness, it is not wrong to allow him freely to evince his own preference.",
+            "God often places people in circumstances to develop their own nature, and it cannot be shown to be wrong that He should do so.",
+            "People are left to believe impostors; to trust to false guides; to rely on unfounded information; to credit those who live to delude and betray the innocent; and to follow those who lead them to ruin."
+        ],
+        "Marvin Vincent": [
+            "A working of error. The phrase is unique in N. T. It means an active power of misleading.\" ",
+            "The lie. The article gives the generic sense, falsehood in all its forms.",
+            "All wrongdoing has an element of falsity."
+        ],
+        "John Calvin": [
+            "Errors will not merely have a place, but the wicked will be blinded, so that they will rush forward to ruin without consideration.",
+            "By a righteous judgment he delivers over to a reprobate mind those whom he has appointed to destruction, that with closed eyes and a senseless mind, they may, as if bewitched, deliver themselves over to Satan and his ministers to be deceived.",
+            "Assuredly we have a notable specimen of this in the Papacy. No words can express how monstrous a sink of errors there is there, how gross and shameful an absurdity of superstitions there is, and what delusions at variance with common sense."
+        ],
+        "Archibald T. Robertson": [
+            "Here is the definite judicial act of God who gives the wicked over to the evil which they have deliberately chosen.",
+            "A working of error. Terrible result of wilful rejection of the truth of God.",
+            "That they should believe a lie, a contemplated result."
+        ],
+        "John Gill": [
+            "The efficacy of error is not to be considered as a sin, of which God cannot be the author, but as a punishment for sin.",
+            "They call evil good, and good evil, and do not appear to have the common sense and reason of mankind.",
+            "A spirit of slumber is given them, and eyes that they should not see, and ears that they should not hear, because of their rejection of the Gospel."
+        ],
+        "John Wesley": [
+            "Therefore God shall send them \u2014 That is, judicially permit to come upon them, strong delusion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, as the judicial sender, permits and ordains what he allows. In 2 Thessalonians 2:11, we see the consequence of rejecting the truth and embracing falsehood. Those who cast off the love of the truth are given up to the delusions of Satan, leading to a belief in the lie that Antichrist tells them. This working of error is a result of their deliberate choice and a judicial act of God. It is a terrifying outcome of willfully rejecting God's truth. The wicked are blinded, rushing forward to ruin without consideration. This serves as a warning against the dangers of preferring error over truth and the importance of holding steadfastly to God's word.",
+            "wordCount": 113,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.8968765479446175,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                32.25,
+                31.21,
+                36.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God, as the judicial sender, permits and ordains what He allows. Rejecting the truth and embracing falsehood leads to the delusions of Satan and a belief in the lie told by Antichrist. This working of error is a result of deliberate choice and a judicial act of God. It serves as a warning against preferring error over truth and the necessity of holding steadfastly to God's word. The wicked are blinded, rushing forward to ruin without consideration, a sobering consequence of rejecting God's truth and embracing falsehood.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.0084542150488183,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                30.66,
+                34.02,
+                35.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God, as the judicial sender, permits and ordains what He allows. Rejecting the truth and embracing falsehood leads to the delusions of Satan and a belief in the lie. This working of error is a result of deliberate choice and a judicial act of God. It serves as a warning against preferring error over truth and the necessity of holding steadfastly to God's word. The wicked are blinded, rushing forward to ruin without consideration, a consequence of rejecting God's truth and embracing falsehood.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.0243706530165055,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
+            "commentatorTierSimilarities": [
+                30.81,
+                34.22,
+                34.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, the judicial sender, permits and ordains what He allows. Rejecting the truth leads to believing the lie of Satan and embracing falsehood. This working of error is a consequence of deliberately choosing evil over the truth. It is a sobering outcome of rejecting God's truth and settling into the delusions of Antichrist. It serves as a warning against the dangers of error and the importance of holding onto the love of the truth. The wicked are given up to their own chosen destruction, blinded and deceived.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9358834438714232,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.71,
+            "commentatorTierSimilarities": [
+                33.77,
+                32.63,
+                33.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God, as the judicial sender, permits and ordains what He allows. Rejecting the truth leads to embracing falsehood and believing the lie of Satan. This working of error is the result of deliberately choosing evil over the truth. It serves as a warning against the dangers of error and highlights the importance of holding steadfastly to God's truth. The wicked are given over to their own chosen destruction, blinded and deceived, as a consequence of rejecting God's truth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.0612185415142688,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+            "commentatorTierSimilarities": [
+                33.35,
+                33.96,
+                32.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

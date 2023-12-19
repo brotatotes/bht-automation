@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:20:13",
+    "verseRef": "Colossians 2:10",
+    "bestBHT": {
+        "bht": "In Christ, believers are already filled with all divine gifts, lacking no other sources of grace. He is their perfection, the Head of all rule and authority. They are complete in Him, filled full of all that they need. There is no need to seek supplementary sources or turn to other dignities, for Christ is to be adored alone. Trusting in Him alone, believers can partake in His fulness and ask for all that they need.",
+        "wordCount": 76,
+        "quoteTokenProportion": 52.08,
+        "qualityScore": 2.023705481931583,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+        "commentatorTierSimilarities": [
+            33.4,
+            29.71,
+            36.89
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And ye are (already) in Him filled up (with all divine gifts\u2014so that you need not any supplementary sources of grace such as your teachers are directing you to.",
+            "He, their perfection, is not to be mixed up with other dignities, as objects of adoration, for He is the Head of all such.",
+            "Christ is the Head of every government and power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye are in Him (by virtue of union with Him) filled full\" of all that you need (John 1:16).",
+            "Believers receive of the divine unction which flows down from their Divine Head and High Priest (Psalms 133:2).",
+            "Christ is 'the Head of all rule and authority' (so the Greek), Ephesians 1:10; He, therefore, alone, not these subject 'authorities' also, is to be adored (Ephesians 1:10-:)."
+        ],
+        "Albert Barnes": [
+            "All that is necessary to secure your salvation is to be found in the Lord Jesus. There is a completion, or a filling up, in him, so as to leave nothing wanting.",
+            "There is no necessity, therefore, that we should look to the aid of philosophy, as if there was a defect in the teachings of the Saviour; or to human strength, as if he were unable to save us; or to the merits of the saints, as if those of the Redeemer were not sufficient to meet all our wants.",
+            "The sentiment advanced in this verse would overthrow the whole papal doctrine of the merits of the saints, and, of course, the whole doctrine of papal 'indulgences.'"
+        ],
+        "Marvin Vincent": [
+            "Ye are complete in Him [\u03b5\u03c3\u03c4\u03b5 \u03b5\u03bd \u03b1\u03c5\u03c4\u03c9 \u03c0\u03b5\u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03b5\u03bd\u03bf\u03b9] . Rev., made full. Compare John 1:16; Ephesians 1:23; Ephesians 3:19; Ephesians 4:13. Not, ye are made full in Him, but ye are in Him, made full. In Him dwells the fullness; being in Him, ye are filled. Compare John 17:21; Acts 17:28. Acts 17:19 Acts 17:7"
+        ],
+        "John Calvin": [
+            "Those, therefore, who do not rest satisfied with Christ alone, do injury to God in two ways... they are also ungrateful, inasmuch as they seek elsewhere what they already have in Christ.",
+            "Paul...does not mean that the perfection of Christ is transfused into us, but that there are in him resources from which we may be filled, that nothing may be wanting to us.",
+            "We are hemmed in, above and below, with railings, that our faith may not deviate even to the slightest extent from Christ."
+        ],
+        "Philip Schaff": [
+            "Ye are in Him, and being in Him ye are made full and continue thus.",
+            "The divine gifts thus obtained are ample, hence they ought not to seek to supplement this sufficient supply by looking to other sources.",
+            "The repetition of these terms indicates that the false teachers presented the angels as mediators, or in manner which detracted from the sufficiency of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Christ is our fulness of which we all partake.",
+            "Our goal is to be made full of God in Christ.",
+            "There is no other place for Christ. He is first in time and in rank."
+        ],
+        "John Gill": [
+            "saints are in Christ, and all fulness being in him, they are full too, of as much as they stand in need, and are capable of containing",
+            "they are perfect in Christ their head, who has all fulness in him, in whom they are chosen and blessed",
+            "Christ is the head of these, and of every creature; therefore no creature is to be looked and applied unto, trusted and depended on"
+        ],
+        "John Wesley": [
+            "Christ is filled with God, and ye are filled with Christ.\" ",
+            "The fulness of Christ overflows his church.\" ",
+            "Not from angels therefore, but from their head, are we to ask whatever we stand in need of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Christ, believers are already filled with all divine gifts, lacking nothing. He is their perfection and the Head of all rule and authority. They are complete in Him, partaking in His fulness. There is no need to seek supplementary sources of grace or turn to other dignities, for Christ alone is to be adored. All that is necessary for salvation is found in Him. Looking elsewhere detracts from His sufficiency and shows ingratitude. Therefore, let us not deviate from our faith in Christ but trust in His fulness, asking Him alone for all that we need.",
+            "wordCount": 97,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.9505606046714643,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.2,
+            "commentatorTierSimilarities": [
+                32.56,
+                29.33,
+                38.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Christ, believers are filled with divine gifts, lacking nothing. He is their perfection, the Head of all rule and authority. They are complete in Him, partaking in His fulness. Looking elsewhere detracts from His sufficiency. All that is necessary for salvation is found in Him. Let us not deviate from our faith in Christ but trust in His fulness, asking Him alone for all that we need.",
+            "wordCount": 68,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 1.87896504154889,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.82,
+            "commentatorTierSimilarities": [
+                33.96,
+                27.53,
+                38.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers in Christ are already filled with all divine gifts, lacking no supplementary sources of grace. He is their perfection, Head of all rule and authority. In Him, they are filled full of all they need; no need to seek elsewhere. Christ is their fulness, their ultimate goal. It is in Him that the divine unction flows down, making them complete. All other authorities are subject to Him, and He alone is to be adored.",
+            "wordCount": 75,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 1.9899123594431178,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+            "commentatorTierSimilarities": [
+                35.52,
+                28.35,
+                36.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Christ, believers are already filled with all divine gifts, lacking no other sources of grace. He is their perfection, the Head of all rule and authority. They are complete in Him, filled full of all that they need. There is no need to seek supplementary sources or turn to other dignities, for Christ is to be adored alone. Trusting in Him alone, believers can partake in His fulness and ask for all that they need.",
+            "wordCount": 76,
+            "quoteTokenProportion": 52.08,
+            "qualityScore": 2.023705481931583,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+            "commentatorTierSimilarities": [
+                33.4,
+                29.71,
+                36.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Him, we are made complete, filled with all divine gifts and lacking nothing. Christ is the Head of all, the source from which our salvation and fulfillment come. There is no need to seek supplementary sources of grace or turn to other dignities for adoration. Christ is our fulness, our goal, and our sufficiency. Anything beyond Christ is unnecessary and detracts from His all-sufficiency. Our faith should not deviate even in the slightest from Him. We are already in Him, already made full, already partaking in His divine resources. Christ is our only true source, and in Him, we find everything we need.",
+            "wordCount": 105,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1230014560652553,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                34.54,
+                28.03,
+                37.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:26:56",
+    "verseRef": "Acts 5:38",
+    "bestBHT": {
+        "bht": "Refrain from interfering with these men and let them be; their work, part of a divine plan, cannot be nullified by human deception. Although neutrality may have been wise for the council, Jesus teaches that neutrality towards him is hostility. If this counsel or work is of human origin, it will fail, as Theudas and Judas's plans did. Therefore, discern whether a cause is good or evil and act accordingly. The apostles were mere instruments in God's hands, without their own plans.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.72,
+        "qualityScore": 1.4820888334629863,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.62,
+        "commentatorTierSimilarities": [
+            22.84,
+            34.32,
+            42.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The manifold devices of human imposture and wickedness, any of which it might be, and all of which would equally come to nought.",
+            "The solemnity and fixedness of the divine purpose.",
+            "The whole plan\u2014the scheme, of which this work, the fact under your present cognizance, forms a part."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This neutral policy was true wisdom, in the then temper of the council.",
+            "But individual neutrality is hostility to Christ, as He Himself teaches.",
+            "If . . . of men, it will come to naught."
+        ],
+        "Albert Barnes": [
+            "If the apostles had originated it for the purposes of imposture.",
+            "The very way to exalt error into notice, and to confirm people in it, is to oppose it in a harsh, authoritative, and unkind manner.",
+            "The preservation of the Christian religion, unchanged through so many revolutions, and in so many fiery trials, shows that it is not of men, but of God."
+        ],
+        "Marvin Vincent": [
+            "Refrain [\u03b1\u03c0\u03bf\u03c3\u03c4\u03b7\u03c4\u03b5] . Lit., stand off.",
+            "Of men [\u03b5\u03be \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd] . Out of men, proceeding out of their devices.",
+            "It will come to naught [\u03ba\u03b1\u03c4\u03b1\u03bb\u03c5\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1\u03b9] . Lit., be loosened down."
+        ],
+        "Archibald T. Robertson": [
+            "Refrain from (\u03b1\u03c0\u03bf\u03c3\u03c4\u03b7\u03c4\u03b5 \u03b1\u03c0\u03bf). Second aorist (ingressive) active imperative of \u03b1\u03c6\u03b9\u03c3\u03c4\u03b7\u03bc of verse Acts 5:37. Do ye stand off from these men. 'Hands off' was the policy of Gamaliel.",
+            "For if--be (\u03bf\u03c4 \u03b5\u03b1\u03bd--\u03b7). H\u03bf\u03c4 gives the reason for the advice. Gamaliel presents two alternatives in terms of two conditional clauses. The first one is stated as a condition of the third class, \u03b5\u03b1\u03bd with the present subjunctive \u03b7, undetermined with prospect of determination.",
+            "Assuming that it is from men, 'it will be overthrown' (\u03ba\u03b1\u03c4\u03b1\u03bb\u03c5\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1, first future passive of \u03ba\u03b1\u03c4\u03b1\u03bb\u03c5\u03c9, to loosen down like a falling house) as was true of the following of Theudas and Judas the Galilean."
+        ],
+        "John Gill": [
+            "Refrain from these men, and let them alone; keep your hands off of them, do not attempt to take away their lives, but dismiss them quietly...\" ",
+            "For if this counsel, or this work be of men; if the doctrine these men preach is an human device; or this business they are engaged in is only an human affair...\" ",
+            "It will come to nought; as did the designs of Theudas and Judas."
+        ],
+        "John Wesley": [
+            "In a cause which is manifestly good, we should immediately join.",
+            "In a cause, on the other hand, which is manifestly evil, we should immediately oppose.",
+            "For the apostles had no counsel, plan, or design of their own; but were mere instruments in the hand of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Refrain from opposing these men and let them be; their work, which is part of a divine plan, cannot be thwarted by human deception or wickedness. While neutrality may have been the wise approach for the council at that time, Jesus teaches that being neutral towards him is the same as being against him. If this counsel or work is of human origin, it will ultimately fail, just as the endeavors of Theudas and Judas did. Therefore, it is crucial to discern if a cause is good or evil and take immediate action accordingly. The apostles themselves were not driven by their own schemes, but merely instruments in the hands of God.",
+            "wordCount": 112,
+            "quoteTokenProportion": 51.19,
+            "qualityScore": 1.5283059899411442,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.16,
+            "commentatorTierSimilarities": [
+                20.44,
+                35.36,
+                44.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Refrain from opposing these men, for their work is part of a divine plan and cannot be undone by human deceit. Though neutrality may have seemed wise to the council, Jesus teaches that neutrality towards him is hostility. If this counsel or work is of human origin, it will come to nothing, as demonstrated by the failures of Theudas and Judas. Therefore, it is important to discern whether a cause is good or evil and take immediate action accordingly. The apostles were mere instruments in God's hands, without their own plans or designs.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.95,
+            "qualityScore": 1.5102981417060608,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.56,
+            "commentatorTierSimilarities": [
+                21.44,
+                34.67,
+                43.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Refrain from interfering with these men and let them be; their work, part of a divine plan, cannot be nullified by human deception. Although neutrality may have been wise for the council, Jesus teaches that neutrality towards him is hostility. If this counsel or work is of human origin, it will fail, as Theudas and Judas's plans did. Therefore, discern whether a cause is good or evil and act accordingly. The apostles were mere instruments in God's hands, without their own plans.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 1.4820888334629863,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.62,
+            "commentatorTierSimilarities": [
+                22.84,
+                34.32,
+                42.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Refrain from interfering with these men and let them continue their divine work, for human deception and wickedness cannot thwart the solemn and unchanging divine purpose. While neutrality might have been prudent for the council, Jesus teaches that neutrality towards him is actually opposition. If this counsel or work is of human origin, it will be in vain, just like the failed attempts of Theudas and Judas. It is crucial to discern the nature of a cause and act accordingly, as the apostles were mere instruments of God without their own agenda.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6284981093620585,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                21.95,
+                40.6,
+                37.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Refrain from opposing these men and their divine work, for human deception and wickedness cannot nullify the divine purpose which this work is part of. While neutrality may have been wise for the council, Jesus teaches that neutrality towards him is actually hostility. If this counsel or work comes from human origin, it will ultimately fail, as the schemes of Theudas and Judas did. Therefore, it is crucial to discern the nature of a cause and take appropriate action, knowing that the apostles were mere instruments in the hands of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.560669232234667,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.23,
+            "commentatorTierSimilarities": [
+                21.69,
+                40.41,
+                37.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

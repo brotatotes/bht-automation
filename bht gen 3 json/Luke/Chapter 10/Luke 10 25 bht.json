@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:17:53",
+    "verseRef": "Luke 10:25",
+    "bestBHT": {
+        "bht": "A lawyer stood up and tried to tempt Jesus by asking him how to inherit eternal life. Jesus redirected the lawyer back to the Law, asking him how he interpreted it. The lawyer's motive may not have been hostile, but rather a desire to hear of some grand deed or to see what insight the Galilean teacher had. It seems the lawyer was expecting Jesus to mention something new or great, but Jesus emphasized the need for the lawyer to understand the Law and put it into practice.",
+        "wordCount": 89,
+        "quoteTokenProportion": 49.15,
+        "qualityScore": 1.885145303137346,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+        "commentatorTierSimilarities": [
+            31.01,
+            42.9,
+            26.09
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He doubtless expects to hear of some great deed; but our Lord refers him back to the Law of which he is a teacher.",
+            "How readest thou? A common rabbinical formula for eliciting a text of Scripture.",
+            "How? i.e. to what purport; so that the answer should contain a summary of his reading in the Law."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "tempted him...just to see what insight this great Galilean teacher had.\" ",
+            "tested him...with no tender anxiety for light on that question of questions.",
+            "tempted him...in no hostile spirit."
+        ],
+        "Albert Barnes": [
+            "A certain lawyer - One who professed to be well skilled in the laws of Moses, and whose business it was to explain them.",
+            "Stood up - Rose - came forward to address him.",
+            "Inherit eternal life - Be saved. This was the common inquiry among the Jews."
+        ],
+        "Marvin Vincent": [
+            "Lawyer. See on ch. Luke 7:30. ",
+            "Tempted. See on temptation, Matthew 6:13. ",
+            "To inherit. See on inheritance, 1 Peter 1:4. ",
+            "Eternal [\u03b1\u03b9\u03c9\u03bd\u03b9\u03bf\u03bd] . The word will be fully discussed in the second volume."
+        ],
+        "Philip Schaff": [
+            "A certain lawyer. A kind of scribe whose business it was to teach the law.",
+            "And tempted, or, \u2018trying,\u2019 him. This implies a cold, self-righteous spirit, rather than a hostile one.",
+            "He doubtless expected in reply the mention of some new thing, or at least some great thing."
+        ],
+        "Archibald T. Robertson": [
+            "He 'stood up (\u03b1\u03bd\u03b5\u03c3\u03c4\u03b7, ingressive second aorist active) trying to tempt him.'",
+            "The spirit of this lawyer was evil. He wanted to entrap Jesus if possible.",
+            "Note the emphasis on 'doing' (\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03c2). The form of his question shows a wrong idea as to how to get it."
+        ],
+        "John Gill": [
+            "And behold a certain lawyer stood up...",
+            "...tempted him...",
+            "...Master, what shall I do to inherit eternal life?"
+        ],
+        "John Wesley": [
+            "Matthew 22:35; Mark 12:28."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A lawyer stood up and tried to tempt Jesus by asking him how to inherit eternal life. Jesus redirected the lawyer back to the Law, asking him how he interpreted it. The lawyer's motive may not have been hostile, but rather a desire to hear of some grand deed or to see what insight the Galilean teacher had. It seems the lawyer was expecting Jesus to mention something new or great, but Jesus emphasized the need for the lawyer to understand the Law and put it into practice.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.885145303137346,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+            "commentatorTierSimilarities": [
+                31.01,
+                42.9,
+                26.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A lawyer, hoping for a grand deed or some remarkable insight from Jesus, tried to tempt him by asking how to inherit eternal life. Jesus responded by turning the lawyer's attention back to the Law and asking him how he interpreted it. Though the lawyer's motive may not have been hostile, Jesus wanted to emphasize the importance of understanding and practicing the Law rather than seeking new or extraordinary answers.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8410462082909296,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                31.29,
+                42.82,
+                25.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A certain lawyer, expecting some grand or extraordinary answer, tried to tempt Jesus by asking how to inherit eternal life. Jesus redirected the lawyer's focus to the Law and questioned how he interpreted it. Instead of providing a new or sensational answer, Jesus emphasized the importance of understanding and practicing the Law. Though the lawyer's motive may not have been hostile, his desire for a remarkable response revealed a misunderstanding of the true path to eternal life.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7887359925750574,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                31.16,
+                41.96,
+                26.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A lawyer stood up and tried to tempt Jesus by asking about the way to inherit eternal life. Jesus responded by referring the lawyer back to the Law, wanting to understand how he interpreted it. The lawyer expected to hear of some great or new deed, but Jesus emphasized the need for understanding and practicing the Law instead. The lawyer's motive may not have been hostile, but his desire for an extraordinary answer demonstrated a misconception about the true path to eternal life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.8609984608867869,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                31.18,
+                43.31,
+                25.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A lawyer approached Jesus, seeking to tempt or test him with a question about inheriting eternal life. Jesus redirected the lawyer to the Law, inquiring about his interpretation. The lawyer expected a remarkable or novel response, but Jesus emphasized the importance of understanding and implementing the Law instead. Though the lawyer's motive may not have been hostile, his desire for an exceptional answer revealed a misguided understanding of the true path to eternal life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.835276097408567,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                31.59,
+                41.39,
+                27.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:29:14",
+    "verseRef": "1 Timothy 4:15",
+    "bestBHT": {
+        "bht": "Dedicate your life wholly to the ministry and make steady improvement in all aspects. Meditate carefully on the Scriptures, digesting them through prayerful contemplation. Be wholly absorbed in your ministry, throwing yourself entirely into it. The exercise of the ministry demands constant application and utmost industry. Keep on practicing these things, for through your whole-hearted dedication, the edification of the Church will be evident for all to see.",
+        "wordCount": 69,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 1.7179322253464933,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.46,
+        "commentatorTierSimilarities": [
+            35.2,
+            34.4,
+            30.39
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These things do thou care for; in these things be [employed].\" ",
+            "That thy progress may be manifest to all.",
+            "No man despise thy youth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Meditate CAREFULLY upon\" - As food would not nourish without digestion, which assimilates the food to the substance of the body, so spiritual food, in order to benefit us, needs to be appropriated by prayerful meditation. ",
+            "BE in these things\" - Let them engross thee wholly; be wholly absorbed in them. Entire self-dedication, as in other pursuits, so especially in religion, is the secret of proficiency.",
+            "The exercise of the ministry threatens the spirit of the ministry unless it be sustained within.\" - The minister must be first his own scholar before he can be another's teacher."
+        ],
+        "Albert Barnes": [
+            "Let your mind be deeply impressed with these things; make them the subject of profound and serious thought.",
+            "He was to devote his life wholly to this work. He was to have no other grand aim of living.",
+            "A minister of the gospel ought to make steady improvement in all that pertains to his office."
+        ],
+        "Marvin Vincent": [
+            "Meditation is a talking within the mind, and issues in speech; hence to speak.",
+            "The meaning is that he is to throw himself wholly into his ministry.",
+            "The figure in the word is uncertain, but is supposed to be that of pioneers cutting a way before an army, and so furthering its advance."
+        ],
+        "John Calvin": [
+            "The greater the difficulty in faithfully discharging the ministry of the Church, so much the more ought a pastor to apply himself earnestly, and with his whole might.\" ",
+            "This work leaves no room for indolence, or for slackening his labors, but demands the utmost industry and constant application.\" ",
+            "He means, that he ought to labor to this purpose, that by his agency the edification of the Church may be more and more advanced, and that corresponding results may be visible."
+        ],
+        "Philip Schaff": [
+            "Give thyself wholly to them. Literally, \u2018live, be, exist in them.\u2019",
+            "Alford quotes as a curious verbal parallel the line from Horace (Epp. i. 9. 2): \u2018Nescio quid meditans nugarum et totus in illis.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Keep on practicing these things.",
+            "Keep on in these things.",
+            "Paul's concern is that Timothy's 'progress' may be 'manifest to all'."
+        ],
+        "John Gill": [
+            "The Scriptures should be read with care, and be industriously and laboriously searched into, as men dig in mines for silver or golden ore...",
+            "...clear of all secular affairs, or worldly business and employment.",
+            "...if a minister's heart is not in his work, if he does not take delight in it, it will be a slavery and drudgery to him."
+        ],
+        "John Wesley": [
+            "True meditation is no other than faith, hope, love, joy, melted down together, as it were, by the fire of God's Holy Spirit; and offered up to God in secret.\" ",
+            "He that is wholly in these, will be little in worldly company, in other studies, in collecting books, medals, or butterflies: wherein many pastors drone away so considerable a part of their lives."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let these instructions deeply impress your mind and be the subject of profound and serious thought. Dedicate your life wholly to the work of the ministry, making steady improvement in all aspects. Meditate carefully upon the Scriptures, digesting them through prayerful meditation. Be wholly absorbed in these things, throwing yourself entirely into your ministry. This dedication is essential for your own progress and for the advancement of the Church. The minister must be his own scholar, for how can one teach when he himself does not know? Do not be discouraged by your youth, rather let your progress be manifest to all. The exercise of the ministry demands your utmost industry and constant application, leaving no room for indolence or worldly business. Keep on practicing these things, for through your whole-hearted dedication, the edification of the Church will be furthered, and your progress will be evident to all.",
+            "wordCount": 149,
+            "quoteTokenProportion": 40.86,
+            "qualityScore": 1.700346773287146,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+            "commentatorTierSimilarities": [
+                36.47,
+                31.31,
+                32.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let these instructions deeply impress your mind and be the subject of profound and serious thought. Dedicate your life wholly to the work of the ministry, making steady improvement in all aspects. Meditate carefully upon the Scriptures, digesting them through prayerful meditation. Be wholly absorbed in these things, throwing yourself entirely into your ministry. The exercise of the ministry demands your utmost industry and constant application. Keep on practicing these things, for through your whole-hearted dedication, the edification of the Church will be furthered, and your progress will be evident to all.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.7166216084361872,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.42,
+            "commentatorTierSimilarities": [
+                35.49,
+                34.75,
+                29.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In order to progress and demonstrate your growth, take these instructions to heart and be fully engaged in them. Dedicate your life wholly to the work of the ministry, leaving no room for distractions or worldly pursuits. Meditate carefully on the Scriptures and immerse yourself in prayerful contemplation. The minister must first be his own student before he can effectively teach others. Through your whole-hearted dedication, the advancement of the Church will be evident for all to see.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.6327042890389745,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+            "commentatorTierSimilarities": [
+                34.24,
+                31.0,
+                34.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let these instructions deeply impress your mind and be the subject of profound and serious thought. Dedicate your life wholly to the work of the ministry, making steady improvement in all aspects. Meditate carefully upon the Scriptures, digesting them through prayerful meditation. Be wholly absorbed in these things, throwing yourself entirely into your ministry. The exercise of the ministry demands your utmost industry and constant application. Keep on practicing these things, for through your whole-hearted dedication, the edification of the Church will be furthered, and your progress will be evident to all.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.7166216084361872,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.42,
+            "commentatorTierSimilarities": [
+                35.49,
+                34.75,
+                29.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Dedicate your life wholly to the ministry and make steady improvement in all aspects. Meditate carefully on the Scriptures, digesting them through prayerful contemplation. Be wholly absorbed in your ministry, throwing yourself entirely into it. The exercise of the ministry demands constant application and utmost industry. Keep on practicing these things, for through your whole-hearted dedication, the edification of the Church will be evident for all to see.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.7179322253464933,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.46,
+            "commentatorTierSimilarities": [
+                35.2,
+                34.4,
+                30.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

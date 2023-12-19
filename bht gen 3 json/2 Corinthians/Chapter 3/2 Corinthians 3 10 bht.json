@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:15:37",
+    "verseRef": "2 Corinthians 3:10",
+    "bestBHT": {
+        "bht": "The ministry of the law, embodied by Moses, had a temporary and fading glory compared to the surpassing glory of the Gospel. Like the diminishing light of stars and moon in the presence of the sun, the law's glory pales in comparison to the brilliance of Christ. The law revealed God's will for duty, but the Gospel unveils His will for salvation. Through the Gospel, believers are transformed as they gaze upon the glory of God in Christ, being conformed to His image. The glory of the law is eclipsed by the excelling glory of the Gospel.",
+        "wordCount": 99,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 2.197941371922915,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.42,
+        "commentatorTierSimilarities": [
+            32.46,
+            26.55,
+            40.99
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For even the ministration of condemnation, the law,...has now...lost its glory in this respect by reason of the surpassing glory (of the Gospel).\" ",
+            "The law...has been glorified at Sinai in Moses' person.",
+            "As the light of the stars and moon fades in the presence of the sun."
+        ],
+        "Albert Barnes": [
+            "It was glorious in the manner in which it was given; it was glorious in the purity of the Law itself; and it was glorious, or splendid in the magnificent and imposing ritual in which the worship of God was celebrated. But all this was surpassed in the brighter glory of the gospel.",
+            "It had comparatively no glory or splendor. Its glory was all eclipsed. It was like the splendor of the moon and stars compared with the bright light of the sun.",
+            "In the gospel; in the incarnation, life, sufferings, death, and resurrection of the Lord Jesus; in the pardon of sin; in the peace and joy of the believer; and in the glories of the heavenly world to which the gospel elevates dying men."
+        ],
+        "Marvin Vincent": [
+            "The ministry of the law, which was temporarily glorified in the face of Moses, is no longer glorified in this respect; that is, it no longer appears with glorified face, because of the glory that excelleth, the glory of Christ ministering the Gospel, before which it fades away and is as if it had not been.",
+            "The figure which pervades the whole passage is that of a glorified face. The ministration of the law, impersonated in Moses, is described as having its face glorified.",
+            "To the same purpose is ver. 18, where the Christian is represented as gazing, through the Gospel, with unveiled face, upon the glory of God in Christ, and as being changed thereby into the image of Christ."
+        ],
+        "John Calvin": [
+            "The glory of the law is extinguished when the gospel comes forth.",
+            "The gospel is foolishly handled, nay more, is shamefully profaned, where the power and majesty of the Spirit do not come forth to view.",
+            "The glory of Christ shines forth in the gospel, like the splendor of the sun when beaming forth."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 3:10. For verily that which hath been made glorious hath not been made glorious in this respect i.e. \u2018 hath had its glory eclipsed,\u2019 by reason of the glory that surpasseth.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The glory on the face of Moses was temporary, though real, and passed away, a type of the dimming of the glory of the old dispensation by the brightness of the new.\" ",
+            "The moon makes a dim light after the sun rises, 'is not glorified.'\" ",
+            "Christ as the Sun of Righteousness has thrown Moses in the shade."
+        ],
+        "John Gill": [
+            "There is such an excelling glory in the Gospel, that the other is swallowed up and lost in it; it excels it in those things in which it was so glorious.",
+            "The law was given by God as a judge, the Gospel by him as a Father, as the Father of Christ, and of his people in him.",
+            "The law declares his will with respect to duty, the Gospel with respect to salvation."
+        ],
+        "John Wesley": [
+            "It hath no glory in this respect, because of the glory that excelleth \u2014 That is, none in comparison of this more excellent glory. The greater light swallows up the less."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ministry of the law, embodied by Moses, once had a temporary glory that paled in comparison to the surpassing glory of the Gospel. It was like the fading light of the stars and moon when the sun rises. The law, with its rituals and purity, had its own splendor, but it was eclipsed by the brighter glory of the Gospel. In the Gospel, we see the glory of Christ shining forth, like the brilliance of the sun, surpassing the glory of the law. The law may have declared God's will for duty, but the Gospel reveals His will for salvation. Through the Gospel, believers are transformed and gaze upon the glory of God in Christ, being changed into His image. The glory of the law is extinguished in the presence of the excelling glory of the Gospel.",
+            "wordCount": 139,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2056841286539415,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.68,
+            "commentatorTierSimilarities": [
+                32.6,
+                27.16,
+                40.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ministry of the law, embodied by Moses, faded in the face of the surpassing glory of the Gospel. The law's glory was like that of the stars and moon, soon overshadowed by the brilliance of the sun. The Gospel, with its revelation of Christ's glory, far surpasses the splendor of the law. While the law pointed to duty, the Gospel reveals the path to salvation. Through the Gospel, believers are transformed and behold the glory of God in Christ, being conformed to His image. The glory of the law is diminished when compared to the excelling glory of the Gospel.",
+            "wordCount": 103,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.17644793745466,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.71,
+            "commentatorTierSimilarities": [
+                31.87,
+                25.77,
+                42.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ministry of the law, embodied by Moses, had a temporary and fading glory compared to the surpassing glory of the Gospel. Like the diminishing light of stars and moon in the presence of the sun, the law's glory pales in comparison to the brilliance of Christ. The law revealed God's will for duty, but the Gospel unveils His will for salvation. Through the Gospel, believers are transformed as they gaze upon the glory of God in Christ, being conformed to His image. The glory of the law is eclipsed by the excelling glory of the Gospel.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.197941371922915,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.42,
+            "commentatorTierSimilarities": [
+                32.46,
+                26.55,
+                40.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ministry of the law, represented by Moses, had a temporary glory that faded before the surpassing glory of the Gospel. It was like the light of stars and moon diminishing in the presence of the sun. The law's glory, though real, passed away as a symbol of the dimming of the old dispensation by the brightness of the new. The Gospel, in its revelation of the glory of Christ, far exceeds the glory of the law. The law may have outlined duty, but the Gospel reveals the path to salvation.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.118510860116979,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.78,
+            "commentatorTierSimilarities": [
+                36.13,
+                25.15,
+                38.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The glory of the law, embodied by Moses, fades when compared to the surpassing splendor of the Gospel. It is like the dim light of the moon being overshadowed by the radiance of the sun. The law may have had temporary glory, but it pales in comparison to the brightness of the new dispensation brought by Christ. While the law revealed God's will for duty, the Gospel proclaims His will for salvation, transforming believers and allowing them to behold the glory of God in Christ. The excelling glory of the Gospel eclipses the glory of the law.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.1942355763924164,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.3,
+            "commentatorTierSimilarities": [
+                34.29,
+                26.61,
+                39.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

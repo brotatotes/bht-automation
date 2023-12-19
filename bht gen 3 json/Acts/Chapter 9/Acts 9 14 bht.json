@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:28:33",
+    "verseRef": "Acts 9:14",
+    "bestBHT": {
+        "bht": "The Christians in Damascus were well aware of the imminent danger posed by Saul's commission and his infamous reputation as a persecutor. Ananias, having received urgent warnings from the believers in Jerusalem, initially protested any dealings with Saul. However, the faithful in Damascus, undeterred by the terror surrounding Saul, continued to call upon the name of Christ. This highlights the divinity of Christ and serves as a powerful reminder for us to trust in Him and seek His help, just like the early Christians did.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.9196900723628123,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.17,
+        "commentatorTierSimilarities": [
+            41.81,
+            27.22,
+            30.97
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14.] It could hardly fail to have been notified to the Christians at Damascus by their brethren at Jerusalem, that Saul was on his way to persecute them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The terror not only of the great persecutor's name, but of this commission to Damascus",
+            "The terror...had travelled before him",
+            "The doomed spot"
+        ],
+        "John Calvin": [
+            "The Lord suffered the faithful to be evil entreated, that the benefit of such sudden deliverance might afterwards be the more excellent.",
+            "We must mark that speech, when he saith that the godly call upon the name of Christ. For whether you understand it, that inasmuch as they professed that they were Christ\u2019s, they rejoiced therefore in him, or that they used to fly to him for succor, invocation cannot be without sure confidence.",
+            "By both which the divinity of Christ is not only proved, but also if the second be received, which seemeth to be more natural, we are taught by the example of the faithful, to call upon the name of Christ when he is preached to us."
+        ],
+        "Philip Schaff": [
+            "Here he hath authority.\" ",
+            "No doubt Ananias and the saints at Damascus had received intimation from the Jerusalem brethren of Saul\u2019s mission to their city."
+        ],
+        "Archibald T. Robertson": [
+            "The protest of Ananias to Jesus against any dealing with Saul is a fine illustration of our own narrow ignorance in our rebellious moods against the will of God.",
+            "Ananias had received letters from the Christians left in Jerusalem warning him of the coming of Saul.",
+            "The protest of Ananias against any dealing with Saul is a fine illustration of our own narrow ignorance in our rebellious moods against the will of God."
+        ],
+        "John Gill": [
+            "His fury and madness against the saints did not stop at Jerusalem, but he had received a commission from the sanhedrim to go to Damascus, where he now was.\" ",
+            "To take up all such persons and put them in bonds, and carry them bound to Jerusalem, whom he should find either praying to Christ, as God, as the first Christians used to do...\" ",
+            "Or professing the name of Christ or were called by it."
+        ],
+        "John Wesley": [
+            "All that call on thy name \u2014 That is, all Christians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Christians in Damascus were well aware of the impending danger that Saul posed. His reputation as a persecutor and the fear surrounding his commission to Damascus had preceded him. Ananias, who had received warnings from the Christians in Jerusalem, initially protested against any interaction with Saul, exemplifying our own limited perspective when we rebel against God's will. However, despite the terror associated with Saul, the faithful in Damascus continued to call upon the name of Christ, demonstrating their deep-rooted trust and confidence in him. Through this verse, we are reminded of the divinity of Christ and encouraged to seek his aid in times of need, just as the early Christians did.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 1.870081673516669,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+            "commentatorTierSimilarities": [
+                42.77,
+                26.6,
+                30.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Christians in Damascus were well aware of the impending danger that Saul posed. His reputation and commission had preceded him, causing fear among them. Ananias, having received warnings from the Christians in Jerusalem, initially protested against any interaction with Saul. Yet, the faithful in Damascus continued to call upon the name of Christ, displaying their profound trust in him. Thus, this passage highlights the divinity of Christ and encourages us to seek his aid, just as the early Christians did in the face of persecution.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7753285887940549,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                43.34,
+                24.73,
+                31.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Christians in Damascus were aware of the terror associated with Saul's commission and reputation as a persecutor. Ananias, having received warnings about Saul's coming, initially protested any interaction. However, the faithful in Damascus continued to call upon the name of Christ, displaying their unwavering trust in Him. This verse highlights the divinity of Christ and encourages us, like the early Christians, to seek His aid in times of trouble and uncertainty.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.6408205998265613,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                40.02,
+                24.8,
+                35.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Christians in Damascus were well aware of the imminent danger posed by Saul's commission and his infamous reputation as a persecutor. Ananias, having received urgent warnings from the believers in Jerusalem, initially protested any dealings with Saul. However, the faithful in Damascus, undeterred by the terror surrounding Saul, continued to call upon the name of Christ. This highlights the divinity of Christ and serves as a powerful reminder for us to trust in Him and seek His help, just like the early Christians did.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9196900723628123,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.17,
+            "commentatorTierSimilarities": [
+                41.81,
+                27.22,
+                30.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Christians in Damascus were well aware of the danger Saul posed, as news of his impending persecution had preceded him. Ananias, having been warned by the Christians in Jerusalem, initially protested against any dealings with Saul. Nevertheless, the faithful in Damascus continued to call upon the name of Christ, demonstrating their unwavering trust in Him. This verse not only highlights the divinity of Christ but also encourages us to follow the example of the early Christians by seeking His help in times of trouble.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.940821602742345,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                42.6,
+                24.99,
+                32.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

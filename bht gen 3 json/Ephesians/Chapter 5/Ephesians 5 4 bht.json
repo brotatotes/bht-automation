@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:33:58",
+    "verseRef": "Ephesians 5:4",
+    "bestBHT": {
+        "bht": "Let your speech avoid foolish talking and ribald jesting, instead, let thanksgiving be named among you, as true cheerfulness arises from a heart overflowing with a sense of God's mercies. Remember that words gain earnestness when aligned with the ethical terminology of Christ's school. Be serious, sincere, and benevolent in your conversation, while finding a balance between useful and agreeable topics. Guard against indecency, lightness, and levity in speech, and instead give thanks to God, using your tongue purposefully and graciously.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 2.090199992518871,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.84,
+        "commentatorTierSimilarities": [
+            31.25,
+            38.82,
+            29.93
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Foolish talking... is that talk of fools, which is folly and sin together.",
+            "Jesting... settled down to the sense of jesting, ordinarily in a profligate sense.",
+            "Rather let thanksgiving be named among you... your true cheerfulness and play of fancy will be found, not in buffoonery, but in the joy of a heart overflowing with a sense of God's mercies."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The talk of fools, which is folly and sin together.",
+            "Not scurrile buffoonery, but refined 'persiflage' and 'badinage,' for which Ephesus was famed.",
+            "'Giving of thanks' gives that real cheerfulness of spirit to believers which the worldly try to get from 'jesting'."
+        ],
+        "Albert Barnes": [
+            "Christians should aim to have their conversation sensible, serious, sincere - remembering the words of the Lord Jesus, 'that every idle word that men shall speak, they shall give account thereof in the day of judgment.'\" ",
+            "Levity and jesting, though often manifested by ministers and other Christians, are as inconsistent with true dignity as with the gospel. Where were they seen in the conversation of the Redeemer? Where in the writings of Paul?",
+            "Be benevolent, kind, cheerful, bland, courteous, but serious. Be solemn, thoughtful, deeply impressed with the presence of God and with eternal things, but pleasant, affable, and benignant. Think not a smile sinful; but think not levity and jesting harmless."
+        ],
+        "Marvin Vincent": [
+            "Words obtain a new earnestness when assumed into the ethical terminology of Christ's school.",
+            "The sense of the word here is polished and witty speech as the instrument of sin; refinement and versatility without the flavor of Christian grace.",
+            "Its ways are unaccountable and inexplicable, being answerable to the numberless rovings of fancy and windings of language."
+        ],
+        "John Calvin": [
+            "By filthiness I understand all that is indecent or inconsistent with the modesty of the godly.",
+            "Jesting itself carries in it a portion of conceit not at all in keeping with the character of a godly man.",
+            "All our conversations ought to be, in the true sense of the words, sweet and graceful; and this end will be gained if the useful and the agreeable are properly mingled."
+        ],
+        "Philip Schaff": [
+            "Nor foolish talking; insipid, stupid speech, perhaps including more than this: 'the talk of fools, which is folly and sin together' (Trench).",
+            "That such talk soon descends to 'scurrility' is notorious, but the word here includes more than this, probably extending to manners also.",
+            "'Thanksgiving' is not to be explained as 'gracious speech,' or 'devout-ness,' but means giving of thanks to God. This is the proper tone of Christian speech."
+        ],
+        "Archibald T. Robertson": [
+            "Filthiness (\u03b1\u03b9\u03c3\u03c7\u03c1\u03bf\u03c4\u03b7\u03c2). Old word from \u03b1\u03b9\u03c3\u03c7\u03c1\u03bf\u03c2 (base), here alone in N.T.",
+            "Foolish talking (\u03bc\u03c9\u03c1\u03bf\u03bb\u03bf\u03b3\u03b9\u03b1). Late word from \u03bc\u03c9\u03c1\u03bf\u03bb\u03bf\u03b3\u03bf\u03c2 (\u03bc\u03c9\u03c1\u03bf\u03c3, \u03bb\u03bf\u03b3\u03bf\u03c2), only here in N.T.",
+            "Jesting (\u03b5\u03c5\u03c4\u03c1\u03b1\u03c0\u03b5\u03bb\u03b9\u03b1). Old word from \u03b5\u03c5\u03c4\u03c1\u03b1\u03c0\u03b5\u03bb\u03bf\u03c2 (\u03b5\u03c5, \u03c4\u03c1\u03b5\u03c0\u03c9, to turn) nimbleness of wit, quickness in making repartee (so in Plato and Plutarch), but in low sense as here ribaldry, scurrility, only here in N.T."
+        ],
+        "John Gill": [
+            "The former of these may include all filthy gestures and behaviour, every indecent habit and attire, and all actions which have a tendency to excite lust.",
+            "Foolish talking does not so much design every imprudent thing that is said, as that which is wicked, corrupt, unsavoury, light, vain, idle, and unprofitable.",
+            "It is much more suitable and becoming to give thanks to God for temporal and spiritual mercies, and to speak those things which are grateful to good men; this is to use the tongue to much better purpose, than in an obscene, foolish, or jocose way."
+        ],
+        "John Wesley": [
+            "Nor foolish talking \u2014 Tittle tattle, talking of nothing, the weather, fashions, meat and drink.",
+            "Or jesting \u2014 The word properly means, wittiness, facetiousness, esteemed by the heathens an half-virtue.",
+            "But how frequently even this quenches the Spirit, those who are tender of conscience know."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let your speech be uplifted, avoiding foolish talking which is the talk of fools, folly and sin combined. Refrain from jesting in a profligate or ribald sense, but rather let thanksgiving be named among you. Find true cheerfulness and play of fancy in the joy of a heart overflowing with a sense of God's mercies. Remember that words gain new earnestness when they are aligned with the ethical terminology of Christ's school. Shun polished and witty speech devoid of Christian grace, and instead aim for sensible, serious, and sincere conversation. Do not engage in levity and jesting, for they are inconsistent with true dignity and the gospel. Be benevolent, kind, and cheerful, yet serious, solemn, and deeply impressed with the presence of God. Let your conversations be sweet and graceful, mingling the useful and the agreeable. Guard against all indecency, foolishness, and lightness of speech, and instead give thanks to God for His mercies, using your tongue for a better purpose.",
+            "wordCount": 163,
+            "quoteTokenProportion": 28.97,
+            "qualityScore": 2.1073018385996836,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.41,
+            "commentatorTierSimilarities": [
+                31.76,
+                37.6,
+                30.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let your speech be uplifted, avoiding foolish talking which is folly and sin combined. Refrain from ribald jesting, but rather let thanksgiving be named among you. Find true cheerfulness and play of fancy in the joy of a heart overflowing with a sense of God's mercies. Remember that words gain new earnestness when aligned with the ethical terminology of Christ's school. Shun polished and witty speech devoid of Christian grace but aim for sensible, serious, and sincere conversation. Be benevolent, kind, cheerful, yet serious and solemn, deeply impressed with the presence of God. Let your conversations be sweet and graceful, mingling the useful and agreeable. Guard against indecency, foolishness, and lightness of speech, and instead give thanks to God, using your tongue for a better purpose.",
+            "wordCount": 128,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 2.0559854000801128,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.7,
+            "commentatorTierSimilarities": [
+                32.52,
+                37.47,
+                30.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let your speech avoid foolish talking and jesting that is profligate and ribald. Instead, let thanksgiving be named among you as true cheerfulness arises from a heart overflowing with a sense of God's mercies. Words gain earnestness when aligned with the ethical terminology of Christ's school. Shun polished and witty speech lacking Christian grace, and aim for sensible, serious, and sincere conversation. Be benevolent, kind, cheerful, yet serious and solemn, deeply impressed with God's presence. Let your conversations be sweet and graceful, mingling the useful and agreeable, and give thanks to God, using your tongue purposefully.",
+            "wordCount": 99,
+            "quoteTokenProportion": 27.03,
+            "qualityScore": 2.0834992596354187,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                30.99,
+                39.23,
+                29.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let your speech avoid foolish talking and ribald jesting, instead, let thanksgiving be named among you, as true cheerfulness arises from a heart overflowing with a sense of God's mercies. Remember that words gain earnestness when aligned with the ethical terminology of Christ's school. Be serious, sincere, and benevolent in your conversation, while finding a balance between useful and agreeable topics. Guard against indecency, lightness, and levity in speech, and instead give thanks to God, using your tongue purposefully and graciously.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 2.090199992518871,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.84,
+            "commentatorTierSimilarities": [
+                31.25,
+                38.82,
+                29.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Avoid engaging in foolish talking and ribald jesting, as they reflect folly and sin. Instead, prioritize thanksgiving, which stems from a heart filled with gratitude for God's mercies. Seek to use your words in alignment with the ethical language of Christ's teachings. Let your conversation be serious, sincere, and benevolent, finding a balance between the useful and the agreeable. Guard against indecency, lightness, and levity in speech, and let your words be a source of grace and purposeful communication.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.9984257365357307,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+            "commentatorTierSimilarities": [
+                31.45,
+                37.65,
+                30.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

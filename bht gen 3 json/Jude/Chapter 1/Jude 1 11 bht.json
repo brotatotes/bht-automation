@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:15:47",
+    "verseRef": "Jude 11",
+    "bestBHT": {
+        "bht": "Woe unto them who have gone by the way of Cain, running greedily after gain, and perishing in the gainsaying of Korah. Their actions mirror the sins of envy, hatred, and murder, just as Cain envied his brother and Balaam pursued selfish avarice. They exhibit disobedience, rebellion, and a reckless abandonment of morals, pouring forth without restraint. Let this be a warning of their certain, miserable condition, whether in the present or future, for their path leads only to destruction.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 2.0677698099639574,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+        "commentatorTierSimilarities": [
+            30.12,
+            39.77,
+            30.11
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Woe unto them...for they went by the way of Cain.\" ",
+            "They rushed after the error of Balaam for reward.\" ",
+            "Perished in the gainsaying of Korah."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Woe\u2014See on :-, 'cursed children.'",
+            "Cain\u2014the murderer: the root of whose sin was hatred and envy of the godly, as it is the sin of these seducers.",
+            "ran greedily\u2014literally, 'have been poured forth' like a torrent that has burst its banks. Reckless of what it costs, the loss of God\u2019s favor and heaven, on they rush after gain like Balaam."
+        ],
+        "Albert Barnes": [
+            "They have evinced disobedience and rebellion as he did; they have shown that they are proud, corrupt, and wicked.\" ",
+            "All restraint was relaxed, and that they rushed on tumultuously to any course of life that promised gain.",
+            "The result is so certain, that the apostle speaks of it as if it were already done."
+        ],
+        "Marvin Vincent": [
+            "Woe [\u03bf\u03c5\u03b1\u03b9] . Often used by our Lord, but never elsewhere except here and in Revelation.",
+            "Ran greedily [\u03b5\u03be\u03b5\u03c7\u03c5\u03b8\u03b7\u03c3\u03b1\u03bd] . Lit., were poured out. Rev., ran riotously. A strong expression, indicating a reckless, abandoned devotion of the energies.",
+            "In the gainsaying [\u03c4\u03b7 \u03b1\u03bd\u03c4\u03b9\u03bb\u03bf\u03b3\u03b9\u03b1] . In the practice of gainsaying like Korah's. 'Antilogia is from ajnti, against, and legw, to speak. Hence, literally, contradiction."
+        ],
+        "John Calvin": [
+            "He only shewed briefly, by the example of Michael, how intolerable was their madness when they insolently reproached what God honored.",
+            "But when Michael forbore extreme severity (otherwise lawful), what madness was it to observe no moderation towards those excelling in glory?",
+            "He says in the third place, that they imitated the contradiction of Core, because they disturbed the order and quietness of the church."
+        ],
+        "Philip Schaff": [
+            "Woe is to them, a description of their miserable condition, present or future, uttered as a warning to others.",
+            "In the way of Cain have they walked, gratifying the passions and selfish instincts of their nature, in contempt of the warnings of God and His word.",
+            "In the error, i.e in the direction of Balaam, of selfish avarice, gratified even in the sin and ruin of others."
+        ],
+        "Archibald T. Robertson": [
+            "Woe to them (\u03bf\u03c5\u03b1 \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2). Interjection with the dative as is common in the Gospels (Matthew 11:21).",
+            "Ran riotously (\u03b5\u03be\u03b5\u03c7\u03c5\u03b8\u03b7\u03c3\u03b1\u03bd). First aorist passive indicative of \u03b5\u03ba\u03c7\u03b5\u03c9, to pour out, 'they were poured out,' vigorous metaphor for excessive indulgence.",
+            "In the gainsaying of Korah (\u03c4\u03b7 \u03b1\u03bd\u03c4\u03b9\u03bb\u03bf\u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5 \u039a\u03bf\u03c1\u03b5). Again either locative or instrumental. The word \u03b1\u03bd\u03c4\u03b9\u03bb\u03bf\u03b3\u03b9\u03b1 is originally answering back (Hebrews 6:16), but it may be by act also (Romans 10:21) as here. This is the sixth example in Jude, not in II Peter."
+        ],
+        "John Gill": [
+            "The way of Cain was a way of envy, for Cain envied the acceptance of his brother's gift, and that notice which the Lord took of him; so these men envied the gifts bestowed on Christ's faithful ministers, and the success that attended their labors.",
+            "The way of Cain was a way of hatred, and murder of his brother, which his envy led him to; so these men hated the brethren, persecuted them unto death, as well as were guilty of the murder of the souls of men, by their false doctrine.",
+            "Balaam's error, which he himself was guilty of, was covetousness, or an immoderate love of money...which these false teachers were greatly addicted to...it is a damnable sin, and excludes from the kingdom of heaven, as well as is dishonorable to religion."
+        ],
+        "John Wesley": [
+            "Woe unto them \u2014 Of all the apostles St. Jude alone, and that in this single place, denounces a woe.",
+            "For they have gone in the way of Cain - The murderer.",
+            "And ran greedily \u2014 Literally, have been poured out, like a torrent without banks."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Woe unto those who have followed in the footsteps of Cain, rushing headlong into sin fueled by envy and hatred. They have pursued the error of Balaam, driven by their insatiable love for money and personal gain, even at the expense of others. Like Korah, they have become rebellious and contentious, disrupting the order and peace of the church. Their indulgence knows no bounds, pouring forth recklessly like a raging torrent. Let this serve as a warning to others, for their miserable condition is certain, just as surely as if it has already happened.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9289399350888723,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.48,
+            "commentatorTierSimilarities": [
+                28.49,
+                41.0,
+                30.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Woe to those who have followed in Cain's footsteps, rushing recklessly after gain like Balaam, and perished in their rebellion like Korah. They have shown disobedience, selfishness, and wickedness, disregarding God's warnings. Their actions mirror Cain's envy and hatred, as well as Balaam's pursuit of wealth. Contemptuous of order and peace, they pour forth without restraint. This serves as a warning of their certain, miserable condition, as if it has already come to pass.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.889863474681722,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.18,
+            "commentatorTierSimilarities": [
+                27.03,
+                43.46,
+                29.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Woe unto those who have followed in the way of Cain, rushing greedily after gain like Balaam, and perishing in their gainsaying like Korah. Their actions reflect the sins of envy, hatred, and murder, just as Cain envied his brother and Balaam pursued greed. They have exhibited disobedience, rebellion, and a reckless abandonment of morals. This serves as a solemn warning of their present or future miserable condition, a consequence they have brought upon themselves.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.0309806926590683,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                29.7,
+                40.31,
+                29.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Woe unto them who have gone by the way of Cain, running greedily after gain, and perishing in the gainsaying of Korah. Their actions mirror the sins of envy, hatred, and murder, just as Cain envied his brother and Balaam pursued selfish avarice. They exhibit disobedience, rebellion, and a reckless abandonment of morals, pouring forth without restraint. Let this be a warning of their certain, miserable condition, whether in the present or future, for their path leads only to destruction.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.0677698099639574,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+            "commentatorTierSimilarities": [
+                30.12,
+                39.77,
+                30.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Woe unto them who have walked in the way of Cain, greedily chasing after gain, and perishing in the contradiction of Korah. Their actions reflect the sins of envy, hatred, and murder, reminiscent of Cain's envy towards his brother and Balaam's pursuit of selfish avarice. They display disobedience, rebellion, and a reckless abandonment of morals, pouring forth without restraint. Let this serve as a solemn warning of their certain, miserable condition, a consequence they have embraced.",
+            "wordCount": 78,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.0507412776188234,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                28.94,
+                39.98,
+                31.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

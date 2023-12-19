@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:22:02",
+    "verseRef": "Colossians 3:19",
+    "bestBHT": {
+        "bht": "Husbands, be not bitter or ill-tempered towards your wives, but instead love them deeply and consistently, showing kindness and tenderness. Do not let resentment fester, as bitterness can harm your marriage. Choose to cherish and affectionately love your spouse, following the example set by Christ's love for the Church. Remember, the love between a husband and wife is the foundation of all other social duties and should be upheld as sacred. Do not let bitterness poison your relationship, but rather cultivate a loving and Christ-centered marriage.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 2.0256505245137473,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.69,
+        "commentatorTierSimilarities": [
+            16.13,
+            49.73,
+            34.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] See the glorious expansion of this in Eph. v. 25\u201333."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. ( :-.) ",
+            "\t",
+            "be not bitter\u2014ill-tempered",
+            "\tand provoking. Many who are polite abroad, are rude and bitter at",
+            "\thome because they are not afraid to be so there."
+        ],
+        "Albert Barnes": [
+            "Husbands, love your wives ... - Notes, Ephesians 4:25-29."
+        ],
+        "Marvin Vincent": [
+            "Be not embittered.",
+            "The compounds parapikrainw to exasperate, and parapikrasmov provocation, occur only in Hebrews 3:16; Hebrews 3:8, Hebrews 3:15.",
+            "Compare Ephesians 4:31."
+        ],
+        "Philip Schaff": [
+            "The love commanded is more than the fancy or passion of youth.",
+            "This special warning concerns a foul blot in married life, when the husband... either shows bitterness in word or deed or in tone to the wife.",
+            "On the duties of husband and wife all other social duties rest. To make the marriage the less sacred, to encourage its dissolution, is like poisoning the wells of an entire community."
+        ],
+        "Archibald T. Robertson": [
+            "Love your wives (\u03b1\u03b3\u03b1\u03c0\u03b1\u03c4\u03b5 \u03c4\u03b1\u03c2 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03b1\u03c2). Present active imperative, 'keep on loving.' That is precisely the point.",
+            "Be not bitter (\u03bc\u03b7 \u03c0\u03b9\u03ba\u03c1\u03b1\u03b9\u03bd\u03b5\u03c3\u03b8\u03b5). Present middle imperative in prohibition: 'Stop being bitter' or 'do not have the habit of being bitter.' This is the sin of husbands.",
+            "The bitter word rankles in the soul."
+        ],
+        "John Gill": [
+            "Husbands, love your wives.... and be not bitter against them.",
+            "Turning love into hatred of their persons; ruling with rigour, and in a tyrannical manner.",
+            "All which is barbarous, brutish, and unchristian, and utterly unbecoming the Gospel."
+        ],
+        "John Wesley": [
+            "Be not bitter \u2014 (Which may be without any appearance of anger) either in word or spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Husbands, do not be ill-tempered or provoking towards your wives. Love them, not just with a passing passion, but with a deep and abiding love. This means showing kindness and tenderness, even in times of disagreement. It is important to remember that bitterness can fester and harm a marriage, so let go of any harbored resentment towards your spouse. Instead, choose to love and cherish them, as demonstrated by Christ's love for the Church. Let your love be the foundation on which all other aspects of your marriage rest, for when love is poisoned, it affects the entire relationship. So be not embittered, but rather be filled with love and kindness towards your spouse.",
+            "wordCount": 116,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.837038259581941,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.42,
+            "commentatorTierSimilarities": [
+                16.74,
+                47.92,
+                35.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Husbands, do not be bitter or ill-tempered towards your wives. Love them deeply and consistently, not just with fleeting emotions, but with enduring affection. Be aware that bitterness can poison a marriage, therefore let go of any resentment within your heart. Instead, choose to show kindness and tenderness to your spouse, following the example of Christ's love for the Church. Your love should serve as the bedrock of your relationship, as it impacts every aspect of your marriage. So, avoid bitterness and cultivate a love-filled and Christ-centered marriage.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8998265244918093,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.51,
+            "commentatorTierSimilarities": [
+                16.79,
+                47.44,
+                35.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Husbands, do not be bitter or ill-tempered towards your wives, but rather love them deeply and consistently. This love should extend beyond passing fancy or passion, demonstrating kindness and tenderness. Beware of harboring resentment, as bitterness can poison a marriage. Instead, choose to show affection and cherish your spouse, following the example of Christ's love for the Church. Remember, love is the foundation upon which all other aspects of a marriage rest, a sacred bond that should not be tainted or dissolved.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.94126668156157,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.89,
+            "commentatorTierSimilarities": [
+                16.78,
+                49.22,
+                34.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Husbands, be not bitter or ill-tempered towards your wives, but instead love them deeply and consistently, showing kindness and tenderness. Do not let resentment fester, as bitterness can harm your marriage. Choose to cherish and affectionately love your spouse, following the example set by Christ's love for the Church. Remember, the love between a husband and wife is the foundation of all other social duties and should be upheld as sacred. Do not let bitterness poison your relationship, but rather cultivate a loving and Christ-centered marriage.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.0256505245137473,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.69,
+            "commentatorTierSimilarities": [
+                16.13,
+                49.73,
+                34.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Husbands, do not be bitter or ill-tempered towards your wives, but instead love them deeply and consistently. Avoid exasperation and provocation in your words and actions. Show kindness and tenderness, for bitterness can be detrimental to your marriage. Choose to love and cherish your spouse, as exemplified by Christ's love for the Church. Let your love be the foundation on which your marriage stands, and do not let bitterness infiltrate and consume your relationship. Embrace a love-filled and Christ-centered marriage instead.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9259658250802572,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.38,
+            "commentatorTierSimilarities": [
+                17.02,
+                45.2,
+                37.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

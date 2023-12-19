@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:29:33",
+    "verseRef": "1 Timothy 6:1",
+    "bestBHT": {
+        "bht": "Let all slaves under the yoke honor their masters, both unbelieving and believing, with all fitting honor, recognizing them as their own masters whom they should not despise or disrespect. This exhortation is given to prevent the name of God and his doctrine from being spoken evil of, as it is expected that Christian slaves would conduct themselves in an honorable manner towards their masters. By serving faithfully and showing honor, they demonstrate their commitment to the gospel and defend the reputation of God and his teachings.",
+        "wordCount": 87,
+        "quoteTokenProportion": 49.21,
+        "qualityScore": 2.298995216281634,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.78,
+        "commentatorTierSimilarities": [
+            33.69,
+            28.54,
+            37.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let as many as are bondmen under the yoke hold their own masters worthy of all honour, that the name of God and his doctrine be not spoken evil of.",
+            "But let those who have believing masters not despise them, because they are brethren; but all the more serve them, because those who receive the benefit are faithful and beloved.",
+            "The former were not to regard their masters as their inferiors, and to be insubordinate; the latter were not to think them their equals, and to be disrespectful."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let as many as are under the yoke (as) slaves\" - The exhortation is natural as there was a danger of Christian slaves inwardly feeling above their heathen masters.",
+            "The phrase 'their own,' is an argument for submissiveness; it is not strangers, but their own masters whom they are required to respect.",
+            "All possible and fitting honor; not merely outward subjection, but that inward honor from which will flow spontaneously right outward conduct."
+        ],
+        "Albert Barnes": [
+            "The apostle did not regard slavery as a light or desirable thing. He would not have applied this term to the condition of a wife or of a child.",
+            "The injunction here would seem to have particular reference to those whose masters were not Christians.",
+            "If the effect of religion had been to teach all who were servants that they should no longer obey their masters, or that they should rise upon them and assert their freedom by violence... it could have made no progress in the world."
+        ],
+        "Marvin Vincent": [
+            "Yoke is used only here of the state of slavery.",
+            "Their own... sometimes without emphasis, substantially = possessive pronoun.",
+            "Count... implying a more conscious, a surer judgment, resting on more careful weighing of the facts."
+        ],
+        "John Calvin": [
+            "They who are slaves under the yoke...must not inquire whether they deserve that lot or a better one; for it is enough that they are bound to this condition.\" ",
+            "No man renders either to a prince or to a master what he owes to them, unless, looking at the eminence to which God has raised them, he honor them, because he is subject to them.",
+            "But Paul throws back the argument to the opposite side, that they ought to obey unbelieving masters, in order that the name of God and the gospel may not be evil spoken of."
+        ],
+        "Philip Schaff": [
+            "The subject of Church discipline in the strict sense of the word had been finished.",
+            "The influence of Christianity on the slave population of the Roman Empire was popularly regarded as a crucial test.",
+            "Was a slave more honest, sober, truthful, generally a better servant, after his conversion?"
+        ],
+        "Archibald T. Robertson": [
+            "Our 'despot' is this very Greek word, the strict correlative of slave (\u03b4\u03bf\u03c5\u03bb\u03bf\u03c2), while \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 has a wider outlook.\" ",
+            "If the heathen could say that Christian slaves were not as dependable as non-Christian slaves.\" ",
+            "Negative purpose with \u03b9\u03bd\u03b1 \u03bc\u03b7 and present passive subjunctive (\u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03b7\u03c4\u03b1)."
+        ],
+        "John Gill": [
+            "count their own masters worthy of all honour; and give it to them",
+            "all this is to be given to their own masters to whom they belong; who have a property in them",
+            "If this be the case, away with their God and their doctrine too"
+        ],
+        "John Wesley": [
+            "Let servants under the yoke - Of heathen masters. Account them worthy of all honour - All the honour due from a servant to a master.",
+            "Lest the name of God and his doctrine be blasphemed - As it surely will, if they do otherwise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let all those who are slaves humbly regard their masters with honor and respect, recognizing that they belong to them. This exhortation is especially important for Christian slaves who may be tempted to feel superior to their heathen masters. By showing honor and serving faithfully, they can prevent the name of God and his doctrine from being spoken evil of. It is crucial for these slaves to remember that their conduct should reflect their belief in God and his teachings. When slaves count their masters as worthy of all honor, both inwardly and outwardly, they demonstrate their commitment to the gospel and prevent any blasphemy against God's name.",
+            "wordCount": 109,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 2.307574613701796,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.07,
+            "commentatorTierSimilarities": [
+                33.26,
+                28.15,
+                38.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let all those who are slaves humbly regard their masters with honor and respect, recognizing that they belong to them. This exhortation is especially important for Christian slaves who may be tempted to feel superior to their heathen masters. By showing honor and serving faithfully, they can prevent the name of God and his doctrine from being spoken evil of. It is crucial for these slaves to remember that their conduct should reflect their belief in God and his teachings.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.2802271980154143,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.16,
+            "commentatorTierSimilarities": [
+                33.02,
+                28.6,
+                38.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let all slaves under the yoke honor their masters, both unbelieving and believing, with all fitting honor, recognizing them as their own masters whom they should not despise or disrespect. This exhortation is given to prevent the name of God and his doctrine from being spoken evil of, as it is expected that Christian slaves would conduct themselves in an honorable manner towards their masters. By serving faithfully and showing honor, they demonstrate their commitment to the gospel and defend the reputation of God and his teachings.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.298995216281634,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.78,
+            "commentatorTierSimilarities": [
+                33.69,
+                28.54,
+                37.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let all slaves under the yoke honor their masters, recognizing them as their own and deserving of all honor. This is crucial to prevent the name of God and his doctrine from being spoken evil of. Christian slaves, in particular, should serve their masters faithfully and not despise them, demonstrating their commitment to the gospel. By showing honor and respect, they defend the reputation of God and his teachings and ensure that others do not blaspheme his name.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.143640425866198,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.62,
+            "commentatorTierSimilarities": [
+                32.63,
+                27.78,
+                39.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let as many as are bondmen under the yoke hold their own masters worthy of all honour, that the name of God and his doctrine be not spoken evil of. The exhortation is natural as there was a danger of Christian slaves inwardly feeling above their heathen masters. This is crucial to prevent the name of God and his doctrine from being spoken evil of, as their conduct should reflect their belief in God and his teachings. By showing honor and serving faithfully, they demonstrate their commitment to the gospel and prevent any blasphemy against God's name.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.281245417198518,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.19,
+            "commentatorTierSimilarities": [
+                33.51,
+                28.08,
+                38.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

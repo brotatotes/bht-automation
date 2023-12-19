@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:17:03",
+    "verseRef": "2 Corinthians 8:2",
+    "bestBHT": {
+        "bht": "The Macedonian believers, though in deep poverty, found joy that overflowed into rich liberality. Their poverty didn't limit their generosity; instead, it showcased the triumph of spirit over flesh. Even in great trial and affliction, their joy and generosity endured. This serves as a powerful example for the Corinthians, who should be inspired by the Macedonians' ability to find joy in affliction and imitate their remarkable acts of generosity, especially considering their greater wealth. Embracing a similar spirit of generosity will bring blessings and fulfillment.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.107786359037676,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+        "commentatorTierSimilarities": [
+            29.97,
+            36.99,
+            33.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The abundance of their joy.",
+            "Their deep poverty abounded unto the riches.",
+            "The riches of their liberality."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The greater was the depth of their poverty, the greater was the abundance of their joy.\" ",
+            "A delightful contrast in terms, and triumph, in fact, of spirit over flesh.",
+            "Their poverty had the effect, not of producing stinted gifts, but of 'abounding in the riches of liberality'."
+        ],
+        "Albert Barnes": [
+            "If a people have the joys of the gospel; if they have the consolations of religion themselves, they will somehow or other find means to contribute to the welfare of others.",
+            "Even their deep poverty will abound in the fruits of benevolence.",
+            "Their liberality was much greater than could be expected from persons so poor."
+        ],
+        "John Calvin": [
+            "In much trial...the minds of the Macedonians...rose so high, as to swallow up sorrow.",
+            "Believers...seek occasions of joy in the affliction itself.",
+            "Let us now draw an argument from the less to the greater. 'Slender means, nay poverty, did not prevent the Macedonians from doing good to their brethren: What excuse, then, will the Corinthians have, if they keep back, while opulent and affluent in comparison of them?'"
+        ],
+        "Philip Schaff": [
+            "the abundance of their joy abounded; their joy in a great trial of affliction; 'their deep poverty ' overflowed into 'the riches of their liberality.'\" ",
+            "Such poverty might well have been thought to exempt them from contributing to the relief of others, probably no poorer than themselves. But, as is often seen in such cases, instead of taking advantage of this excuse, the 'joy' of a new-found salvation not only overpowered all sense of their 'poverty,' 'deep' as that was, but rose into 'rich liberality.'",
+            "The Philippian church had stood alone in supplying the apostle\u2019s own wants, on his departure from Macedonia (Philippians 4:15-16), and even after his imprisonment at Rome, they 'sent once and again unto his necessities.'"
+        ],
+        "Archibald T. Robertson": [
+            "Proof (\u03b4\u03bf\u03ba\u03b9\u03bc\u03b7). Tests as of metals.",
+            "Their deep poverty (\u03b7 \u03ba\u03b1\u03c4\u03b1 \u03b2\u03b1\u03b8\u03bf\u03c5\u03c2 \u03c0\u03c4\u03c9\u03c7\u03b5\u03b9\u03b1 \u03b1\u03c5\u03c4\u03c9\u03bd). Poverty down deep.",
+            "Liberality (\u03b1\u03c0\u03bb\u03bf\u03c4\u03b7\u03c4\u03bf\u03c2). Perhaps 'heartiness' supplies the connecting link."
+        ],
+        "John Gill": [
+            "For persons in prosperity, when all things go well with them, to be liberal is no such great matter but for persons in adversity, under trying dispensations of Providence, amidst many afflictive ones to communicate generously to the relief of others, is something very remarkable, and worthy of notice and imitation.",
+            "The abundance of their joy, and their deep poverty, abounded unto the riches of their liberality.",
+            "Though their poverty was great, their liberality was rich and large; though it might be but little they gave in quantity, it was much in quality, much in liberality."
+        ],
+        "John Wesley": [
+            "In a great trial of affliction \u2014 Being continually persecuted, harassed, and plundered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers in Macedonia, despite their deep poverty, experienced an abundance of joy that overflowed into the riches of their liberality. Their poverty did not hinder their willingness to give, but rather fueled their generosity. In fact, their poverty became a testimony to the triumph of spirit over flesh, as they proved themselves through tests of their faith. Even in the midst of great trial and affliction, their joy and generosity persevered. This serves as a powerful example for the Corinthians, who, being much wealthier, should not withhold from giving to their brethren. Just as the Macedonians found joy in their affliction, so too should the Corinthians seek occasions of joy in their prosperity and be inspired to follow the Macedonians' remarkable example.",
+            "wordCount": 123,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.043237856694393,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.28,
+            "commentatorTierSimilarities": [
+                27.96,
+                39.52,
+                32.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Macedonian believers, though in deep poverty, found an abundance of joy which translated into rich liberality. Their poverty did not limit their generosity, but rather served as a testimony to the triumph of spirit over flesh. Despite facing great trial and affliction, they remained steadfast in their joy and generosity. This should serve as a powerful example for the Corinthians, who, being wealthier, should not withhold from giving. The Macedonians' ability to find joy in their affliction should inspire the Corinthians to be generous in their prosperity and imitate their remarkable example.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.0492057548317266,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                28.16,
+                38.85,
+                33.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Macedonian believers, burdened with deep poverty, experienced an overflow of joy that led to an abundance of generosity. Instead of allowing their circumstances to restrict their giving, their poverty served as a catalyst for remarkable acts of liberality. Even in the face of great trials and affliction, their joy and willingness to help others persevered. This example should inspire the Corinthians, who enjoy greater wealth, to embrace a similar spirit of generosity and to find joy in their ability to assist those in need.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.9670588853352102,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "commentatorTierSimilarities": [
+                26.52,
+                40.98,
+                32.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Macedonian believers, though in deep poverty, found joy that overflowed into rich liberality. Their poverty didn't limit their generosity; instead, it showcased the triumph of spirit over flesh. Even in great trial and affliction, their joy and generosity endured. This serves as a powerful example for the Corinthians, who should be inspired by the Macedonians' ability to find joy in affliction and imitate their remarkable acts of generosity, especially considering their greater wealth. Embracing a similar spirit of generosity will bring blessings and fulfillment.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.107786359037676,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+            "commentatorTierSimilarities": [
+                29.97,
+                36.99,
+                33.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Macedonian believers, despite their deep poverty, experienced an abundance of joy that overflowed into the riches of their liberality. Their poverty did not hinder their willingness to give, but rather fueled their generosity. In fact, their poverty became a testimony to the triumph of spirit over flesh. Even in the midst of great trial and affliction, their joy and generosity persevered. This serves as a powerful example for the Corinthians, who, being much wealthier, should not withhold from giving to their brethren. Just as the Macedonians found joy in their affliction, so too should the Corinthians seek occasions of joy in their prosperity and be inspired to follow the Macedonians' remarkable example.",
+            "wordCount": 113,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 2.0679654690236333,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.1,
+            "commentatorTierSimilarities": [
+                28.81,
+                38.85,
+                32.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

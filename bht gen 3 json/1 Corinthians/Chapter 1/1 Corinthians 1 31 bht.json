@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:00:03",
+    "verseRef": "1 Corinthians 1:31",
+    "bestBHT": {
+        "bht": "Man, brought to nothing in his own estimation, must renounce all desire for his own glory and instead acknowledge that there is nothing good anywhere but in God alone. Therefore, he who glories should glory in the Lord, not in his own wisdom, riches, and strength, but in Christ as his wisdom, righteousness, sanctification, and redemption. This call to glory in the Lord reminds us that our only true ground of boasting lies in God and His mercies to us in Christ.",
+        "wordCount": 82,
+        "quoteTokenProportion": 52.83,
+        "qualityScore": 2.1142407183148126,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.64,
+        "commentatorTierSimilarities": [
+            24.41,
+            18.33,
+            57.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The only true ground of boasting, viz. in God and His mercies to us in Christ.",
+            "Closes the description of God's dealing in this matter.",
+            "He now reverts to the subject of his own preaching."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "glory in . . . Lord\u2014\" ",
+            "In contrast to morbid slavish self-abasement, Paul joins with humility the elevating consciousness of our true dignity in Christ.\" ",
+            "He who glories is to glory in the Lord, not in the flesh, nor in the world."
+        ],
+        "Albert Barnes": [
+            "",
+            " ",
+            "return to 'Top of Page'",
+            ""
+        ],
+        "Marvin Vincent": [
+            "He that glorieth, etc. From Jeremiah 9:23, Jeremiah 9:24, abridged after the Septuagint. "
+        ],
+        "John Calvin": [
+            "He that glorieth let him glory in the Lord... acknowledging that there is nothing good anywhere but in God alone.",
+            "Man, brought to nothing in his own estimation, must renounce all desire for his own glory, and with all his might aspire and aim at the glory of God exclusively.",
+            "If a man has his mind regulated in such a manner that, claiming no merit to himself, he desires that God alone be exalted... that man truly 'glories in the Lord.'"
+        ],
+        "Philip Schaff": [
+            "He that glorieth, let him glory in the Lord.\" (1 Corinthians 1:31)",
+            "Well may we ask with the apostle elsewhere, Where is boasting, then? It is excluded.\" ",
+            "By what law on what principle? Why, on every principle, and at every avenue, by this method of peerless wisdom."
+        ],
+        "Archibald T. Robertson": [
+            "The shortened quotation is from Jeremiah 9:24.",
+            "Deissmann notes the importance of these closing verses concerning the origin of Paul's congregations from the lower classes in the large towns as 'one of the most important historical witnesses to Primitive Christianity.'",
+            "One of the most important historical witnesses to Primitive Christianity."
+        ],
+        "John Gill": [
+            "Not in his own wisdom, riches, and strength; but in Christ, as his wisdom, righteousness, sanctification, and redemption.",
+            "Let him glory in the Lord; not in his own wisdom, riches, and strength.",
+            "In Christ, as his wisdom, righteousness, sanctification, and redemption."
+        ],
+        "John Wesley": [
+            "Let him glory in the Lord \u2014 Not in himself, not in the flesh, not in the world. Jeremiah 9:23,24"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Man, brought to nothing in his own estimation, must renounce all desire for his own glory and instead acknowledge that there is nothing good anywhere but in God alone. This acknowledgment forces us to ask, where is boasting then? It is excluded. By what law, by what principle? On every principle, and at every avenue, by this method of peerless wisdom. Therefore, he who glories should glory in the Lord, not in his own wisdom, riches, and strength, but in Christ as his wisdom, righteousness, sanctification, and redemption. This call to glory in the Lord is not merely a rejection of self-exaltation, but a recognition of our true dignity in Christ. It is an important reminder that our only true ground of boasting lies in God and His mercies to us in Christ.",
+            "wordCount": 134,
+            "quoteTokenProportion": 48.1,
+            "qualityScore": 1.6877815857501708,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                22.55,
+                28.57,
+                48.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Man, brought to nothing in his own estimation, must renounce all desire for his own glory and instead acknowledge that there is nothing good anywhere but in God alone. Therefore, he who glories should glory in the Lord, not in his own wisdom, riches, and strength, but in Christ as his wisdom, righteousness, sanctification, and redemption. This call to glory in the Lord reminds us that our only true ground of boasting lies in God and His mercies to us in Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 52.83,
+            "qualityScore": 2.1142407183148126,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.64,
+            "commentatorTierSimilarities": [
+                24.41,
+                18.33,
+                57.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Man must humbly renounce all desire for personal glory and acknowledge that true goodness is found only in God. Our boast is not in our own wisdom, riches, or strength, but in the Lord. Through Christ, we find wisdom, righteousness, sanctification, and redemption. This call to glory in the Lord is a reminder that our true worth comes from God's mercy towards us in Christ. We are called to abandon self-exaltation and embrace the dignity found in glorifying God alone.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.9034529235409248,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                27.49,
+                16.55,
+                55.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Man, humbled and stripped of self-glory, must acknowledge that true goodness resides solely in God. We are called to reject boasting in ourselves and instead place our glory in the Lord, in Christ who becomes our wisdom, righteousness, sanctification, and redemption. This divine call redirects our focus, reminding us that our only worthy source of boasting lies in God's mercies to us in Christ. In renouncing self-exaltation, we embrace the exaltation of glorifying God alone, finding our true dignity in Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.9408997861558501,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                29.13,
+                20.02,
+                50.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Man, brought to nothing in his own estimation, must renounce the desire for his own glory and instead acknowledge that all that is good can be found only in God. Therefore, those who boast should boast in the Lord, not in their own wisdom, riches, or strength, but in Christ who is their wisdom, righteousness, sanctification, and redemption. This call to glory in the Lord reminds us that our true worth is found in God's mercy towards us in Christ, and not in worldly achievements or self-promotion.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.048315315475339,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.45,
+            "commentatorTierSimilarities": [
+                23.92,
+                19.33,
+                56.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

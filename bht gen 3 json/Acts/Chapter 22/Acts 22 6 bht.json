@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:35:04",
+    "verseRef": "Acts 22:6",
+    "bestBHT": {
+        "bht": "As the Apostle Paul recounts his conversion, he mentions a specific detail that wasn't included in a previous account: it happened around noon. This note of time serves as a personal recollection, emphasizing the extraordinary nature of the event. The great light that appeared, surpassing the brightness of the sun, had a profound impact on Paul and those with him. Reflecting on this remarkable experience allows us to recount the wonders of God's power and love, offering encouragement and instruction to others.",
+        "wordCount": 84,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.3737479138846742,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.02,
+        "commentatorTierSimilarities": [
+            21.19,
+            43.43,
+            35.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On Paul\u2019s conversion, and the comparison of the accounts in chapp. ix., xxii., and xxvi., see notes on ch. ix.",
+            "I have there treated of the discrepancies, real or apparent."
+        ],
+        "Marvin Vincent": [
+            "About noon. Not mentioned in ch. 9."
+        ],
+        "John Calvin": [
+            "For nothing is more intolerable than to start aside from the course of godliness which men have once entered.",
+            "In that Christ taking upon him the person of all the godly, doth complain that whatsoever injury was done to them was done to him.",
+            "And as there can no sweeter thing be imagined to lenify the bitterness of persecution, than when we hear that the Son of God doth suffer not only with us, but also in us, so again, the bloody enemies of the gospel, who being now besotted with pride, do mock the miserable Church, shall perceive whom they have wounded."
+        ],
+        "Philip Schaff": [
+            "A light which could compel attention at such an hour in the full glare of an eastern noon, must be regarded at once as something out of the ordinary course of nature.",
+            "This mention of the exact time when the Glorious Vision appeared was evidently a personal recollection of the event.",
+            "This \u2018note of time\u2019 does not appear in the former account."
+        ],
+        "Archibald T. Robertson": [
+            "Unto Damascus (\u03c4\u03b7 \u0394\u03b1\u03bc\u03b1\u03c3\u03ba\u03c9). Dative after \u03b5\u03b3\u03b3\u03b9\u03b6\u03bf\u03bd\u03c4 (drawing nigh to).",
+            "About noon (\u03c0\u03b5\u03c1 \u03bc\u03b5\u03c3\u03b7\u03bc\u03b2\u03c1\u03b9\u03b1\u03bd). Mid (\u03bc\u03b5\u03c3\u03bf\u03c2) day (\u03b7\u03bc\u03b5\u03c1\u03b1), old word, in the N.T. only here and Acts 8:26 which see where it may mean 'toward the south.'",
+            "A great light (\u03c6\u03c9\u03c2 \u03b9\u03ba\u03b1\u03bd\u03bf\u03bd). Luke's favourite word \u03b9\u03ba\u03b1\u03bd\u03bf\u03bd (considerable). Accusative of general reference with the infinitive."
+        ],
+        "John Gill": [
+            "This circumstance is omitted in the account in Acts 9:3 and is mentioned here, not so much to inform what time of day it was, that Saul came to Damascus, as to observe how extraordinary that light must be, which then appeared.",
+            "This must be a great light indeed, to be distinguished at noon, and to be above the brightness of the sun, and to have such effect upon the apostle and his company as it had.",
+            "And not only about him, but those that were with him."
+        ],
+        "John Wesley": [
+            "By whatever method God reveals himself to us, we shall have everlasting cause to recollect it with pleasure.",
+            "Especially when he has gone in any remarkable manner out of his common way for this gracious purpose.",
+            "We should often dwell on the particular circumstances, and be ready, on every proper occasion, to recount those wonders of power and love, for the encouragement and instruction of others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the Apostle Paul recalls his conversion, he mentions that it occurred around noon, a detail not mentioned in a previous account. This specific time serves as a personal recollection of the event and highlights the extraordinary nature of what took place. The mention of this note of time emphasizes the dramatic impact of the great light that appeared, a light that surpassed the brightness of the sun. This light, which was experienced not only by Paul but also by those with him, had a profound effect on everyone present. Reflecting on this remarkable event enables us to recount the wonders of God's power and love, providing encouragement and instruction to others.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.4091640859288328,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.2,
+            "commentatorTierSimilarities": [
+                19.23,
+                43.82,
+                36.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the Apostle Paul recounts his conversion, he mentions a specific detail that wasn't included in a previous account: it happened around noon. This note of time serves as a personal recollection, emphasizing the extraordinary nature of the event. The great light that appeared, surpassing the brightness of the sun, had a profound impact on Paul and those with him. Reflecting on this remarkable experience allows us to recount the wonders of God's power and love, offering encouragement and instruction to others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.3737479138846742,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.02,
+            "commentatorTierSimilarities": [
+                21.19,
+                43.43,
+                35.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Apostle Paul's account of his conversion, he recalls that it took place around noon, a detail not mentioned before. This specific mention of the time underscores the extraordinary nature of the event. The great light that appeared, surpassing the brightness of the sun, had a profound impact on Paul and his companions. Reflecting on this remarkable experience allows us to recount the wonders of God's power and love, offering encouragement and instruction to others.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.3692128889142126,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.87,
+            "commentatorTierSimilarities": [
+                24.1,
+                39.78,
+                36.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the Apostle Paul recalls his conversion, he mentions that it occurred around noon, a detail not mentioned in a previous account. This specific time serves as a personal recollection of the event and highlights the extraordinary nature of what took place. The mention of this note of time emphasizes the dramatic impact of the great light that appeared, a light that surpassed the brightness of the sun. This light, which was experienced not only by Paul but also by those with him, had a profound effect on everyone present. Reflecting on this remarkable event enables us to recount the wonders of God's power and love, providing encouragement and instruction to others.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.4091640859288328,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.2,
+            "commentatorTierSimilarities": [
+                19.23,
+                43.82,
+                36.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle Paul recounts his conversion, mentioning that it happened around noon, a detail not mentioned before. This note of time serves as a personal recollection and underscores the extraordinary nature of the event. The great light that appeared surpassed the brightness of the sun and impacted both Paul and his companions. Reflecting on this remarkable experience allows us to recount the wonders of God's power and love, offering encouragement and instruction to others.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.3297811983252283,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.56,
+            "commentatorTierSimilarities": [
+                22.6,
+                42.18,
+                35.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

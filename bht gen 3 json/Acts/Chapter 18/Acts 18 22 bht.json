@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:33:21",
+    "verseRef": "Acts 18:22",
+    "bestBHT": {
+        "bht": "Paul concluded his second missionary journey by making his way to Antioch from Jerusalem, where he had just paid his vow. The historian quickly mentions this journey, using the expression going up to emphasize the significance of Jerusalem. Upon arriving in Antioch, Paul expressed his tender affection and regard for the church, greeting them warmly. This visit to the mother church of Christianity marked the end of Paul's three-year journey, which had started with Silas and included notable encounters along the way.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.1169484773831284,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.73,
+        "commentatorTierSimilarities": [
+            38.94,
+            33.93,
+            27.14
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It would be out of the question to suppose that Paul made the long detour by C\u00e6sarea only to go up into the town from the beach.",
+            "The expression he went down to Antioch, which suits a journey from Jerusalem (ch. xi. 27), would not apply to one from C\u00e6sarea.",
+            "The payment of his vow is not mentioned, partly because it is understood from the mere mention of the vow itself, ver. 18,\u2014partly, perhaps, because it was privately done, and with no view to attract notice as in ch. xxi."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In these few words does the historian despatch the apostle's FOURTH VISIT TO JERUSALEM.\" ",
+            "The expression 'going up' is invariably used of a journey to the metropolis.",
+            "Perhaps the vessel reached too late for the feast, as he seems to have done nothing in Jerusalem beyond 'saluting the Church'."
+        ],
+        "Albert Barnes": [
+            "And saluted the church - The church at Jerusalem. This was Paul\u2019s main design; and though it is not distinctly specified, yet the whole narrative implies that he went there before returning to Antioch.\" ",
+            "The word saluted implies that he expressed for them his tender affection and regard.",
+            "To Antioch - In Syria. See the notes on Acts 11:19."
+        ],
+        "John Calvin": [
+            "He strengthened all the disciples, undoubtedly not without great pains-taking, because he was enforced to go hither and thither, and oft to turn out of his way.\" ",
+            "For this word [ \u03ba\u03b1\u03b8\u03b5\u03be\u03b7\u03c2 ] doth signify a continual course.",
+            "They had, indeed, their pastors under whom they might profit. Yet the greater Paul\u2019s authority was, and the more excellent spirit he had given him, so they were not a little strengthened by his by them, especially seeing he was the chief work-master in the founding of all these churches."
+        ],
+        "Philip Schaff": [
+            "This Roman capital of Judaea was the usual and most convenient port for travellers journeying to Jerusalem.",
+            "'The Church' is, of course, the mother church of Christianity, the congregations of believers in Jerusalem.",
+            "Thus terminated his Second Missionary Journey; it had occupied, roughly speaking, three years."
+        ],
+        "Archibald T. Robertson": [
+            "The going up (\u03b1\u03bd\u03b1\u03b2\u03b1\u03c2, second aorist active participle of \u03b1\u03bd\u03b1\u03b2\u03b1\u03b9\u03bd\u03c9) is the common way of speaking of going to Jerusalem which was up from every direction save from Hebron.",
+            "Here Paul saluted the church in the fourth of his five visits after his conversion.",
+            "He had started on this tour with Silas and had picked up Timothy and Luke, but came back alone."
+        ],
+        "John Gill": [
+            "This was Caesarea Stratonis, formerly called Strato's tower: it would have been nearest for the apostle to have landed at Joppa, in order to go to Jerusalem, but that haven was a dangerous one; this was the safest.",
+            "Moreover, the apostle had told the Ephesians, that he must go and keep the feast in Jerusalem, as he undoubtedly did.",
+            "He went down to Antioch; in Syria, from whence he first set out."
+        ],
+        "John Wesley": [
+            "saluted the Church - Eminently so called, being the mother Church of Christian believers",
+            "and having kept the feast there",
+            "he went down from thence to Antioch"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After completing his fourth visit to Jerusalem, Paul made his way to Antioch. The historian quickly mentions this journey, which was likely not from Caesarea but from Jerusalem itself. Although the specific details of Paul's payment of his vow are not given, it is understood that this private act was carried out. Using the expression going up in reference to his journey, the historian emphasizes the significance of Jerusalem as the metropolis. Upon arriving, Paul greeted the church, expressing his deep affection and regard for them. This visit to the mother church of Christianity concluded Paul's second missionary journey, which spanned roughly three years.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9410382080172366,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                40.04,
+                33.53,
+                26.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After completing his fourth visit to Jerusalem, Paul made his way to Antioch. The historian quickly mentions this journey, which was likely not from Caesarea but from Jerusalem itself. The expression going up emphasizes Jerusalem's significance as the metropolis. Upon arriving, Paul greeted the church, expressing his deep affection and regard for them. This visit to the mother church of Christianity concluded Paul's second missionary journey, which spanned roughly three years.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9152511631582811,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                39.03,
+                34.55,
+                26.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul concluded his second missionary journey by making his way to Antioch from Jerusalem, where he had just paid his vow. The historian quickly mentions this journey, using the expression going up to emphasize the significance of Jerusalem. Upon arriving in Antioch, Paul expressed his tender affection and regard for the church, greeting them warmly. This visit to the mother church of Christianity marked the end of Paul's three-year journey, which had started with Silas and included notable encounters along the way.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.1169484773831284,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.73,
+            "commentatorTierSimilarities": [
+                38.94,
+                33.93,
+                27.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After paying his vow privately, Paul embarked on his journey from Jerusalem to Antioch, using the expression going up to emphasize the significance of Jerusalem as the metropolis. Upon reaching Antioch, he warmly greeted the church, expressing his deep affection and regard for them. This visit marked the end of Paul's second missionary journey, which had spanned roughly three years and included notable companions and encounters along the way.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9547436506395746,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+            "commentatorTierSimilarities": [
+                36.57,
+                36.47,
+                26.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After completing his fourth visit to Jerusalem, Paul made his way to Antioch. The historian quickly mentions this journey, which was likely not from Caesarea but from Jerusalem itself. The expression going up emphasizes Jerusalem's significance as the metropolis. Upon arriving, Paul greeted the church, expressing his affection and regard for them. This visit to the mother church of Christianity concluded Paul's second missionary journey, which spanned roughly three years.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9194619496004648,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+            "commentatorTierSimilarities": [
+                39.01,
+                34.57,
+                26.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

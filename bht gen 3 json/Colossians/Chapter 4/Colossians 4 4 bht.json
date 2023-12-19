@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:21:57",
+    "verseRef": "Colossians 4:4",
+    "bestBHT": {
+        "bht": "Paul asks for prayers to boldly declare the Gospel and fulfill his apostolic calling by making it manifest as he ought. Even though imprisoned, he believes that a door for the word can be opened and that he can preach with undaunted confidence, advancing the Gospel. He seeks to reveal the mystery of Christ with boldness, intrepidity, and freedom of mind, not striving to please men or fearing their reproaches. Paul desires prayers to speak the Gospel fearlessly, making it known in its fullness.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.1619159375795776,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+        "commentatorTierSimilarities": [
+            39.73,
+            30.31,
+            29.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If that might be so, the door opened, &c.,\u2014then he would make it known as he ought to do\u2014then he would be fulfilling the requirements of that apostolic calling...\" ",
+            "Certainly this is the meaning,\u2014and not, as ordinarily understood, that he might boldly declare the Gospel in his imprisonment.",
+            "This second that gives the purpose of the previous verse, not the purpose of his being in bonds."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul asks their prayers for his release as if it were the 'only' way by which he could 'make it (the Gospel) manifest' as he ought.\" ",
+            "A door for the word could be opened, and was opened, for its manifestation, even while he remained imprisoned.",
+            "Philippians 1:13, written somewhat later in his imprisonment, clearly shows that 'a door for the word' could be opened, and was opened, for its manifestation, even while he remained imprisoned."
+        ],
+        "Albert Barnes": [
+            "That I may make it manifest ... - Notes, Ephesians 6:20."
+        ],
+        "Marvin Vincent": [
+            "That I may make it manifest [\u03b9\u03bd\u03b1 \u03c6\u03b1\u03bd\u03b5\u03c1\u03c9\u03c3\u03c9] . Compare speak boldly, Ephesians 6:20. That connects with the clause that God - Christ."
+        ],
+        "John Calvin": [
+            "It is no ordinary matter.",
+            "He desired for himself an undaunted confidence, such as befits the majesty of the gospel.",
+            "A rule is in like manner prescribed to us, not to give way to the fury of our adversaries, but to strive even to death in the publication of the gospel."
+        ],
+        "Philip Schaff": [
+            "They should pray that he might preach; but he should preach in order to make manifest the mystery of Christ.",
+            "As I ought to speak.",
+            "\u2018as I ought to do it (namely, freely and unrestrainedly), so as best to advance and further the gospel\u2019 (Ellicott)."
+        ],
+        "Archibald T. Robertson": [
+            "Wonderful as Paul's preaching was to his hearers and seems to us, he was never satisfied with it.\" ",
+            "What preacher can be?"
+        ],
+        "John Gill": [
+            "It being a mystery, a secret, which was hid in God from everlasting.",
+            "The apostle was desirous of making it manifest in a ministerial way.",
+            "With all constancy and certainty, with all boldness and intrepidity of soul, and freedom of mind; not seeking to please men, aiming at vain glory, and popular applause, or being afraid of their faces, menaces, and reproaches."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul requests prayers for himself to boldly declare the Gospel and make it manifest as he ought. He desires to fulfill the requirements of his apostolic calling and advance the Gospel. Though imprisoned, Paul believes that a door for the word can be opened, and he strives to preach with undaunted confidence and constancy. The mystery of Christ is no ordinary matter, and Paul seeks to reveal it with all boldness, intrepidity, and freedom of mind. He asks for prayers not only for his release, but also for the opportunity to speak the Gospel fearlessly, making it known in its fullness to all.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.1140720295791544,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.63,
+            "commentatorTierSimilarities": [
+                40.25,
+                30.03,
+                29.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul asks for prayers to boldly declare the Gospel and fulfill his apostolic calling by making it manifest as he ought. Even though imprisoned, he believes that a door for the word can be opened and that he can preach with undaunted confidence, advancing the Gospel. He seeks to reveal the mystery of Christ with boldness, intrepidity, and freedom of mind, not striving to please men or fearing their reproaches. Paul desires prayers to speak the Gospel fearlessly, making it known in its fullness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.1619159375795776,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                39.73,
+                30.31,
+                29.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul urges for prayers to boldly proclaim the Gospel and fulfill his apostolic calling by making it manifest as he ought. Though imprisoned, he believes that a door for the word can be opened, allowing him to preach with undaunted confidence and constancy. Through his preaching, he seeks to reveal the mystery of Christ with boldness, intrepidity, and freedom, not fearing human judgement. Paul's desire is to speak the Gospel fearlessly, making it known in its entirety.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.148848184670186,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.79,
+            "commentatorTierSimilarities": [
+                40.64,
+                30.0,
+                29.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul seeks prayers to openly declare the Gospel according to his apostolic calling, fulfilling its requirements. Despite being imprisoned, he believes that a door can be opened for the word to be made known and manifested. His preaching is driven by an insatiable desire to reveal the mystery of Christ boldly and faithfully. Paul longs to proclaim the Gospel fearlessly and without compromise, finding confidence in the invincible power of the message he carries. He emphasizes the necessity of prayers for him to speak the Gospel without reservation, fulfilling his ministry with utmost dedication.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.0029369096940712,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                42.84,
+                26.68,
+                30.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul desires prayers to boldly proclaim the Gospel and fulfill his apostolic calling by making it manifest as he ought. Though imprisoned, he believes that a door for the word can be opened, allowing him to reveal the mystery of Christ with undaunted confidence and freedom of mind. He seeks to speak the Gospel fearlessly, not aiming for worldly approval or fearing reproach. Paul's plea for prayers reflects his unwavering dedication to faithfully proclaiming the Gospel and advancing its message.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.144773896409741,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.65,
+            "commentatorTierSimilarities": [
+                39.84,
+                29.97,
+                30.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

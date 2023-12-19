@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:18:38",
+    "verseRef": "2 Corinthians 12:16",
+    "bestBHT": {
+        "bht": "Granted that Paul did not burden the Corinthians himself, he cleverly caught them with guile, making a gain by sending others to secure money for himself. Crafty and skilful, Paul used guile as bait to catch the Corinthians, alluding to their charge that he used the collection for the poor for his personal gain. This serves as a warning to be cautious when choosing servants of God, as the wicked would impute their own actions onto them if given the opportunity.",
+        "wordCount": 81,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.970516876533031,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.86,
+        "commentatorTierSimilarities": [
+            32.79,
+            34.59,
+            32.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But be it so, let the fact be granted, that I myself did not burden you.",
+            "Nevertheless, being crafty, I caught you with guile.",
+            "Caught you, in order to practise upon you for my own ends."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I did not burden you\u2014The 'I' in the Greek is emphatic.",
+            "But, you may say, granted that I did not burden you myself; nevertheless, being crafty, I caught you (in my net) with guile.",
+            "Namely, made a gain of you by means of others."
+        ],
+        "Albert Barnes": [
+            "You professed when with us not to seek our property but our souls. But in various ways you contrived to get our money, and to secure your object.",
+            "Being crafty - Being cunning That is, by sending persons to obtain money on different pretences.",
+            "I took you by deceit or fraud. That is, making use of fraud in pretending that the money was for poor and afflicted saints, when in reality it was for my own use."
+        ],
+        "Marvin Vincent": [
+            "With guile. Alluding to a charge that he availed himself of the collection for the poor to secure money for himself. He uses his adversaries ' words."
+        ],
+        "John Calvin": [
+            "For it is customary for the wicked impudently to impute to the servants of God, whatever they would themselves do, if they had it in their power.",
+            "Hence, our choice of them must not be made lightly, or as a matter of mere form, but with the utmost possible care.",
+            "Let his case, however, be a warning to us, not to look upon it as a thing that is new and intolerable, if at any time we find occasion to answer similar calumnies."
+        ],
+        "Philip Schaff": [
+            "But me being crafty, I caught you with guile.",
+            "True (ye say), you took no money from us yourself, but you were crafty enough to get it through others.",
+            "The answer to this base insinuation, which the apostle deems his detractors capable of, now follows."
+        ],
+        "Archibald T. Robertson": [
+            "I did not myself burden you.",
+            "Crafty... skilful, bad sense cunning.",
+            "With guile... bait to catch fish with."
+        ],
+        "John Gill": [
+            "They insinuated to the Corinthians...that he craftily and cunningly made use of others to drain their purses, and receive it for him."
+        ],
+        "John Wesley": [
+            "Being crafty I caught you with guile - I did secretly by my messengers what I would not do openly.\" ",
+            "I did not burden you, though I did not take anything of you myself.\" ",
+            "I did secretly by my messengers what I would not do openly, or in person."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Although it's granted that Paul did not burden the Corinthians himself, he cleverly caught them with guile, making a gain by sending others to secure money for himself, as his adversaries accused him. Crafty and skilful, Paul used guile as bait to catch the Corinthians, alluding to their charge that he used the collection for the poor for his personal gain. While some may see this as deceit or fraud, it serves as a warning to be cautious when choosing servants of God, as the wicked would impute their own actions onto them if given the opportunity. So, let us not be surprised or outraged if we ever have to answer similar calumnies.",
+            "wordCount": 114,
+            "quoteTokenProportion": 47.56,
+            "qualityScore": 1.8603178139517564,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                29.6,
+                35.29,
+                35.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Although Paul did not burden the Corinthians, he cleverly caught them with guile, making a gain by sending others to secure money for himself. Crafty and skilful, Paul used guile as bait to catch the Corinthians, alluding to their charge that he used the collection for the poor for his personal gain. This serves as a warning to be cautious when choosing servants of God, as the wicked would impute their own actions onto them if given the opportunity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.9644792575736707,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                32.4,
+                34.54,
+                33.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Although it's granted that Paul did not burden the Corinthians himself, he cleverly caught them with guile, making a gain by sending others to secure money for himself, as his adversaries accused him. Crafty and skilful, Paul used guile as bait to catch the Corinthians, alluding to their charge that he used the collection for the poor for his personal gain. While some may see this as deceit or fraud, it serves as a warning to be cautious when choosing servants of God, as the wicked would impute their own actions onto them if given the opportunity. So, let us not be surprised or outraged if we ever have to answer similar calumnies.",
+            "wordCount": 114,
+            "quoteTokenProportion": 47.56,
+            "qualityScore": 1.8603178139517564,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                29.6,
+                35.29,
+                35.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Granted that Paul did not burden the Corinthians himself, he cleverly caught them with guile, making a gain by sending others to secure money for himself. Crafty and skilful, Paul used guile as bait to catch the Corinthians, alluding to their charge that he used the collection for the poor for his personal gain. This serves as a warning to be cautious when choosing servants of God, as the wicked would impute their own actions onto them if given the opportunity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.970516876533031,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.86,
+            "commentatorTierSimilarities": [
+                32.79,
+                34.59,
+                32.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Although Paul did not burden the Corinthians himself, he craftily caught them with guile, making a gain by sending others to secure money for himself. Crafty and skilful, Paul used guile as bait to catch the Corinthians, alluding to their charge that he used the collection for the poor for his personal gain. This warning shows the need for caution in choosing servants of God, as the wicked would impute their own actions onto them if given the opportunity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.910757500473279,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+            "commentatorTierSimilarities": [
+                32.59,
+                33.55,
+                33.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

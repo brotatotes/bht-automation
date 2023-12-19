@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:35:48",
+    "verseRef": "Acts 23:35",
+    "bestBHT": {
+        "bht": "Paul was not imprisoned but was instead held in one of the buildings attached to Herod's palace. The governor assured him of a full hearing once his accusers arrived, indicating a comprehensive evaluation. This preliminary questioning allowed for a thorough judicial investigation. Paul's treatment was relatively lenient, as he enjoyed certain privileges and had the liberty to receive visits from friends and acquaintances. The palace, originally built by Herod the Great, served as the official residence for the Roman governor.",
+        "wordCount": 82,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.7696880371507424,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+        "commentatorTierSimilarities": [
+            34.7,
+            34.24,
+            31.06
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "35. in Herod\u2019s palace] The procurator resided in the former palace of Herod the Great. Here Paul was committed to the custody of a soldier, not in a prison, but in the buildings attached to the palace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I will hear thee\u2014The word means, 'give thee a full hearing.'",
+            "to be kept in Herod's judgment hall\"\u2014\"pr\u00e6torium,\" the palace built at C\u00e6sarea by Herod, and now occupied by the Roman procurators.",
+            "in one of the buildings attached to which Paul was ordered to be kept."
+        ],
+        "Albert Barnes": [
+            "In Herod's judgment hall...the place where justice was administered.\" ",
+            "The word used here denoted formerly 'the tent of the Roman praetor'.\" ",
+            "Prisons, or places of security, would be attached to such places."
+        ],
+        "Marvin Vincent": [
+            "Will hear thy cause; the word meaning 'to hear fully in a judicial sense.'",
+            "The present questioning was merely preliminary.",
+            "It thus appears that Paul was leniently dealt with, and not cast into the common prison."
+        ],
+        "Philip Schaff": [
+            "The Greek word rendered \u2018I will hear,\u2019 suggests the idea of a complete and searching investigation into all the matters in question.",
+            "Better rendered \u2018in Herod\u2019s praetorium.\u2019 This was the palace built by Herod the Great for his own residence; it now was used as the official dwelling of the Roman governor.",
+            "We know later that during the imprisonment at C\u00e6sarea, Paul had many privileges rarely accorded to one in his condition."
+        ],
+        "Archibald T. Robertson": [
+            "I will hear thee fully.",
+            "Whenever thine accusers come.",
+            "The word meant the camp of the general, then the palace of the governor as here and Matthew 27:27 which see, and then the camp of praetorian soldiers or rather the praetorian guard as in Philippians 1:13."
+        ],
+        "John Gill": [
+            "A grand courtly way of speaking.",
+            "Desirous to hear both sides before he judged of the affair.",
+            "He had much liberty, and his friends and acquaintance had leave to come to him."
+        ],
+        "John Wesley": [
+            "In Herod's palace \u2014 This was a palace and a court built by Herod the Great.",
+            "Probably some tower belonging to it might be used for a kind of state prison."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul was held in custody in Herod's palace, specifically in one of the buildings attached to it in Caesarea. Although this may seem like prison, he was actually given more lenient treatment, as he was entrusted to a soldier instead of being placed in a common prison. The governor declared that he would give Paul a full hearing and listen to his cause when his accusers arrived. This preliminary questioning was part of a process that allowed for a complete and thorough investigation. The palace itself was originally built by Herod the Great and now served as the official residence for the Roman governor. During his time in custody, Paul enjoyed certain privileges not typically granted to prisoners. This suggests that he was given a fair amount of liberty and had the opportunity to receive visits from his friends and acquaintances.",
+            "wordCount": 142,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7817261497764165,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.58,
+            "commentatorTierSimilarities": [
+                35.4,
+                34.59,
+                30.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the book of Acts, Paul is held in custody in one of the buildings attached to Herod's palace, not in a common prison. The governor assures him that he will receive a full and thorough hearing once his accusers arrive. This preliminary questioning conducted in the palace signifies the start of a comprehensive investigation. Despite being in custody, Paul experiences lenient treatment and has certain privileges, suggesting that he has a fair degree of liberty and is allowed to receive visitors.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7602798541685245,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.87,
+            "commentatorTierSimilarities": [
+                37.7,
+                33.5,
+                28.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul was not placed in prison but rather held in one of the buildings attached to Herod's palace in Caesarea. The governor declared that he would give Paul a full hearing once his accusers arrived, indicating a comprehensive investigation process. This preliminary questioning allowed for a thorough examination of the matter. Despite being in custody, Paul received lenient treatment. He had certain privileges and was granted a fair amount of liberty, including the ability to receive visits from friends and acquaintances.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.623831487041683,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                36.86,
+                33.91,
+                29.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul was not imprisoned but was instead held in one of the buildings attached to Herod's palace. The governor assured him of a full hearing once his accusers arrived, indicating a comprehensive evaluation. This preliminary questioning allowed for a thorough judicial investigation. Paul's treatment was relatively lenient, as he enjoyed certain privileges and had the liberty to receive visits from friends and acquaintances. The palace, originally built by Herod the Great, served as the official residence for the Roman governor.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7696880371507424,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "commentatorTierSimilarities": [
+                34.7,
+                34.24,
+                31.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul was held in custody in one of the buildings attached to Herod's palace, enjoying more lenient treatment than being in a common prison. The governor assured him of a full hearing once his accusers arrived, indicating a thorough investigation. This preliminary questioning was part of a process that allowed for a complete and comprehensive evaluation. Paul had certain privileges not typically granted to prisoners, suggesting a fair amount of liberty and the opportunity to receive visits from friends and acquaintances in the palace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.7035028846594806,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                35.94,
+                32.93,
+                31.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

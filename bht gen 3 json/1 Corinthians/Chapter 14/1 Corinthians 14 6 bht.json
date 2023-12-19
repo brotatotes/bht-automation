@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:13:09",
+    "verseRef": "1 Corinthians 14:6",
+    "bestBHT": {
+        "bht": "Speaking in tongues without interpretation is futile, as it lacks profitability. Prophecy is based on revelation, the supernatural unveiling of divine truths, while teaching is rooted in knowledge, the ability to share understanding. Edification necessitates interpretation for it to be effective. Paul questions the value of speaking in foreign languages if it cannot be understood. To truly edify, Paul must convey his message through revelation, imparting knowledge, prophesying, or teaching in a clear and comprehensible manner.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.8927448099564883,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.28,
+        "commentatorTierSimilarities": [
+            33.32,
+            42.11,
+            24.57
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Example of the unprofitableness of speaking with tongues without interpreting",
+            "The ground of 'prophecy' is 'revelation,' and that of 'teaching' is 'knowledge'",
+            "[In revelation] denotes the internal element:\u2014as referred to prophecy and teaching, the external element, of the spiritual activity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is no edification without interpretation.",
+            "Revelation being the supernatural unveiling of divine truths to man, prophesying the enunciation to men of such revelations.",
+            "Knowledge corresponds to doctrine, which is the gift of teaching to others our knowledge."
+        ],
+        "Albert Barnes": [
+            "If he [Paul] should come among them speaking foreign languages, it could be of no use unless it were interpreted to them.",
+            "The original sense of the word 'revelation' here is, I suppose, intended... and means that the sense should be uncovered, that is, explained or what was spoken could not be of value.",
+            "Though Paul should utter among them, as he had abundant ability to do, the most weighty and important truths, yet, unless he interpreted what he said in a manner clear from obscurity, like 'revelation'; or intelligibly, and so as to constitute 'knowledge'; or in the manner that the prophets spoke, in a plain and intelligible manner; or in the manner usual in simple and plain 'instruction,' it would be useless to them."
+        ],
+        "John Calvin": [
+            "He asks them, then, of what advantage it would be to them, if he were to make use of foreign languages among them.",
+            "He shows them by this instance, how much better it were to apply their minds to prophesyings.",
+            "Revelation and prophesying I put in one class, and I am of opinion that the latter is the administration of the former."
+        ],
+        "Philip Schaff": [
+            "What shall I profit you, unless I speak to you either by way of revelation, or of knowledge, or of prophesying, or of teaching?\" ",
+            "Four things nominally, but in reality only two distinct ways of edifying by the exercise of spiritual gifts.\" ",
+            "The first pair ('revelation' and 'knowledge'), those by which the speaker received supernaturally what he had to impart to others; the second pair ('prophesying' and 'teaching'), those by which he gave it forth to his audience."
+        ],
+        "Archibald T. Robertson": [
+            "If I come.\" ",
+            "What shall I profit you.\" ",
+            "Unless I speak."
+        ],
+        "John Gill": [
+            "What shall I profit you? Of what use would my ministry be to you? What instruction, comfort, and edification could you receive by it?",
+            "Except I shall speak to you, either by revelation; by the revelation of Jesus Christ...or by a fresh immediate revelation from heaven.",
+            "The apostle intimates that by the use and exercise of these gifts, he might be profitable to them, to lead them into a clearer view of the doctrines of the Gospel."
+        ],
+        "John Wesley": [
+            "Revelation - Of some gospel mystery.",
+            "Knowledge - Explaining the ancient types and prophecies.",
+            "Doctrine - To regulate your tempers and lives."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Without interpretation, the act of speaking in tongues holds no profit. The foundation for prophecy lies in revelation, which refers to the supernatural unveiling of divine truths to humans. On the other hand, teaching is grounded in knowledge, which corresponds to the ability to pass on our understanding to others. In order for edification to occur, interpretation is necessary. Without it, the message is lost. So the question remains, what advantage is there if Paul were to speak in foreign languages that are not understood by the Corinthians? It would be of no use unless he provides clarity and understanding by revealing, imparting knowledge, prophesying, or teaching.",
+            "wordCount": 107,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.7803124767498266,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                34.97,
+                40.12,
+                24.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Without interpretation, speaking in tongues is unprofitable. Prophecy is rooted in revelation, the supernatural unveiling of divine truths. Teaching is based on knowledge, the ability to pass on understanding. Edification requires interpretation. Paul questions the advantage of speaking in foreign languages if it cannot be understood. It would be useless unless he reveals, imparts knowledge, prophesies, or teaches in a clear and understandable manner. The Corinthians must recognize the importance of interpretation for true edification to take place.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.798388945389219,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                35.95,
+                38.94,
+                25.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The unprofitableness of speaking in tongues without interpretation is highlighted in this verse. Prophecy is built upon revelation, which is the supernatural unveiling of divine truths. Teaching, on the other hand, relies on knowledge and the ability to impart that knowledge to others. Without interpretation, there is no edification. Paul questions the benefit of speaking in foreign languages if it cannot be understood. For true edification to occur, he must reveal, impart knowledge, prophesy, or teach in a clear and intelligible manner.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.883694777172675,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                37.08,
+                39.12,
+                23.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Speaking in tongues without interpretation is futile, as it lacks profitability. Prophecy is based on revelation, the supernatural unveiling of divine truths, while teaching is rooted in knowledge, the ability to share understanding. Edification necessitates interpretation for it to be effective. Paul questions the value of speaking in foreign languages if it cannot be understood. To truly edify, Paul must convey his message through revelation, imparting knowledge, prophesying, or teaching in a clear and comprehensible manner.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.8927448099564883,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.28,
+            "commentatorTierSimilarities": [
+                33.32,
+                42.11,
+                24.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse underscores the unprofitableness of speaking in tongues without interpretation. Both prophecy and teaching rely on different elements: prophecy on revelation, which is the supernatural unveiling of divine truths, and teaching on knowledge, the gift of teaching others what one knows. Without interpretation, there can be no edification. So what is the benefit if Paul were to speak in foreign languages that the Corinthians could not understand? It would be of no use unless he provides clarity and understanding by revealing, imparting knowledge, prophesying, or teaching.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.9666948871824135,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                35.36,
+                40.36,
+                24.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

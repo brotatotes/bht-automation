@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:22:17",
+    "verseRef": "Colossians 4:11",
+    "bestBHT": {
+        "bht": "These only, who are of the circumcision, proved a comfort to me, as the Judaistic teachers were generally opposed to me. Justus, a common name among the Jews, implies that Epaphras, Luke, and Demas were not of the circumcision, aligning with Luke's Gentile name and his Gospel's Gentile aspect. These Jewish Christians were my sole fellow workers towards the kingdom of God, offering solace and exhortation during my afflictions and sufferings.",
+        "wordCount": 73,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 2.1221258106825136,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.9,
+        "commentatorTierSimilarities": [
+            37.68,
+            31.46,
+            30.86
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These alone who are of the circumcision are my fellow-workers towards the kingdom of God, men that proved a comfort to me.",
+            "The Judaistic teachers were for the most part in opposition to St. Paul.",
+            "The past tense alludes to some event recently passed: to what precisely, we cannot say."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Justus\u2014that is, righteous; a common name among the Jews; Hebrew, 'tzadik' (Acts 1:23).\" ",
+            "This implies that Epaphras, Luke, and Demas (Colossians 4:12; Colossians 4:14) were not of the circumcision. This agrees with Luke's Gentile name (the same as Lucanus), and the Gentile aspect of his Gospel.\" ",
+            "These only, c.\u2014namely, of the Jews. For the Jewish teachers were generally opposed to the apostle of the Gentiles (Philippians 1:15). Epaphras, &c., were also fellow laborers, but Gentiles."
+        ],
+        "Albert Barnes": [
+            "And Jesus, who is called Justus - The name Jesus was probably that which he bore among the Jews. Justus is a Roman name, and was probably that by which he was known among the Romans.\" ",
+            "These only are my fellow-workers unto the kingdom of God - The word 'only' here, probably refers to the fact that they only of all the Jews who were at Rome assisted Paul in his work.",
+            "Which have been a comfort unto me - The more so because they were Jews. The other Jews in Rome stood aloof, and doubtless endeavored to augment the trials of the apostle."
+        ],
+        "Marvin Vincent": [
+            "Jesus Justus. Not mentioned elsewhere. The only one of these names not mentioned in the salutations of the Epistle to Philemon.",
+            "Parhgoria comfort, only here in the New Testament. Properly, an address, an exhortation: an exhortation for the purpose of encouraging: hence a comfort.",
+            "This word, and the kindred adjectives parhgorikov and parhgorhtikov soothing, are common in medical writings."
+        ],
+        "John Calvin": [
+            "He means, therefore, that there were few Jews at Rome who shewed themselves to be helpers to the gospel, nay more, that the whole nation was opposed to Christ.",
+            "At the same time, by workers he means those only who were endowed with gifts that were necessary for promoting the gospel.",
+            "He calls the gospel the kingdom of God, for it is the scepter by which God reigns over us, and by means of it we are singled out to life eternal."
+        ],
+        "Philip Schaff": [
+            "This indicates the general antagonism of the Jewish Christians.",
+            "A touching allusion to the trials he encountered from the Judaizers.",
+            "The use of the term 'fellow-worker' seems to oppose this view."
+        ],
+        "Archibald T. Robertson": [
+            "The surname Justus is the Latin Justus for the Greek \u0394\u03b9\u03ba\u03b1\u03b9\u03bf\u03c2 and the Hebrew Zadok and very common as a surname among the Jews.\" ",
+            "Jewish Christians certainly, but not necessarily Judaizers like those so termed in Acts 11:3.",
+            "\u03a0\u03b1\u03c1\u03b7\u03b3\u03bf\u03c1\u03b9\u03b1 is an old word (here only in N.T.) from \u03c0\u03b1\u03c1\u03b7\u03b3\u03bf\u03c1\u03b5\u03c9, to make an address) and means solace, relief."
+        ],
+        "John Gill": [
+            "these only are my fellow workers unto the kingdom of God; who assisted him in preaching the Gospel of the kingdom of God, and in promoting the honour and interest of Christ.",
+            "from whence it appears that Peter was not there at that time",
+            "which have been a comfort unto me; under his afflictions and sufferings, by visiting him, conferring with him, praying for him, communicating to him, and labouring in the Gospel in his room and stead."
+        ],
+        "John Wesley": [
+            "Of all the circumcision - That is, of all my Jewish fellowlabourers.",
+            "Are the only fellowworkers unto the kingdom of God \u2014 That is, in preaching the gospel.",
+            "Who have been a comfort to me \u2014 What, then, can we expect? that all our fellowworkers should be a comfort to us?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These alone who are of the circumcision proved to be a comfort to me, as the Judaistic teachers were often in opposition to me. The use of the past tense alludes to some recent event, although we cannot be certain of the specifics. Justus, deriving from the Hebrew word tzadik, which means righteous, is mentioned here, and this implies that Epaphras, Luke, and Demas were not of the circumcision. Jesus Justus, a name not mentioned elsewhere, was likely known by the Jews as Jesus and by the Romans as Justus. The term comfort used here is akin to an exhortation or soothing in medical writings. These Jewish Christians were a solace to me in the face of trials and opposition from the rest of their nation.",
+            "wordCount": 126,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.9346165973670426,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.67,
+            "commentatorTierSimilarities": [
+                39.77,
+                36.78,
+                23.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These alone who are of the circumcision proved to be a comfort to me, as the Judaistic teachers were often in opposition to me. The past tense alludes to some recent event, although the specifics are uncertain. Justus, deriving from the Hebrew word tzadik, which means righteous, is mentioned here, implying that Epaphras, Luke, and Demas were not of the circumcision. This Jewish trio, Jesus Justus especially, provided solace to me in the face of trials, offering exhortation and soothing during times of affliction.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8360095620733676,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.39,
+            "commentatorTierSimilarities": [
+                43.55,
+                33.46,
+                22.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These only, who are of the circumcision, proved a comfort to me, as most Judaistic teachers were in opposition to me. The past tense alludes to a recent event that remains unspecified. Justus, meaning righteous, was a common Jewish name. This implies that Epaphras, Luke, and Demas were not of the circumcision, which aligns with Luke's Gentile name and the Gentile aspect of his Gospel. These Jewish Christians were my sole fellow-workers towards the kingdom of God, offering solace and support in the midst of trials and opposition.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9599690429543175,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                38.84,
+                34.59,
+                26.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These alone who are of the circumcision proved to be a comfort to me, as the Judaistic teachers were often in opposition. The past tense may reference an unspecified recent event. Justus, a name common among the Jews, suggests that Epaphras, Luke, and Demas were not of the circumcision. These Jewish Christians, my sole fellow-workers towards the kingdom of God, provided solace amidst trials and opposition, offering exhortation and soothing as a source of comfort.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8888111457454255,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "commentatorTierSimilarities": [
+                41.82,
+                33.57,
+                24.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These only, who are of the circumcision, proved a comfort to me, as the Judaistic teachers were generally opposed to me. Justus, a common name among the Jews, implies that Epaphras, Luke, and Demas were not of the circumcision, aligning with Luke's Gentile name and his Gospel's Gentile aspect. These Jewish Christians were my sole fellow workers towards the kingdom of God, offering solace and exhortation during my afflictions and sufferings.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.1221258106825136,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.9,
+            "commentatorTierSimilarities": [
+                37.68,
+                31.46,
+                30.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

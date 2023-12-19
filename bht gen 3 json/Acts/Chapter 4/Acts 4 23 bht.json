@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:26:16",
+    "verseRef": "Acts 4:23",
+    "bestBHT": {
+        "bht": "Upon their release, Peter and John went to their own company of apostles and believers to share what had transpired with the Sanhedrin. They sought the support and guidance of their community, knowing that challenging times awaited them. They were fully aware that the majority of the council would not hesitate to take harsher actions against them. However, they remained steadfast, relying on God's power and standing united as a force against their common adversary.",
+        "wordCount": 76,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.5153929914808426,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+        "commentatorTierSimilarities": [
+            24.18,
+            34.84,
+            40.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "their own company, i.e. the other Apostles\" ",
+            "possibly some others assembled with them\" ",
+            "There is nothing in ver. 31 to mark that only the Apostles were present on this occasion"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23-30. being let go, they went to",
+            "\ttheir own company\u2014Observe the two opposite classes,",
+            "\trepresenting the two interests which were about to come into deadly",
+            "\tconflict."
+        ],
+        "Albert Barnes": [
+            "They joined the other apostles and Christians.",
+            "It doubtless became a subject of interesting inquiry what they should do in this case.",
+            "They very properly sought the counsel of their brethren, and looked to God for direction."
+        ],
+        "John Calvin": [
+            "One must prick forward another, and they must join hand in hand, that they may vanquish the common adversary fighting under Christ\u2019s banner.",
+            "They assure themselves that they shall be invincible through the same power of God whereby they got the victory before.",
+            "We must persuade ourselves that they were not so forgetful of their former constancy that they did submit themselves unto their ungodly decree like slaves."
+        ],
+        "Philip Schaff": [
+            "The term, however, is a far more inclusive one, and comprehends a large number of the believers then in the city.",
+            "To their own people then assembled in the house of the Nazarenes, the two relate all that the Sanhedrim judges had said to them.",
+            "Dark and stormy days evidently lay before the little community...the majority of the council would at once proceed to harsher measures."
+        ],
+        "Archibald T. Robertson": [
+            "Their own people as in John 1:11; John 13:1; Acts 24:23; 1 Timothy 5:8; Titus 3:14, not merely the apostles (all the disciples).\" ",
+            "In spite of Peter's courageous defiance he and John told the brotherhood all that had been said by the Sanhedrin.\" ",
+            "They had real apprehension of the outcome."
+        ],
+        "John Gill": [
+            "Saints love to be together, and delight in the company of each other; and especially when they have anything to communicate, that may be for their mutual good, or for the honour of God.",
+            "And reported all that the chief priests and elders had said unto them; what commands and injunctions they had lain upon them, and what threatenings they had given them, and, no doubt likewise, what answers they had returned to them.",
+            "...their own men... their own brethren... the other ten apostles... the hundred and twenty... the whole multitude of them that believed, the eight thousand that had been added to them, the whole church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After being released, Peter and John immediately returned to their fellow apostles and believers to share the details of their encounter with the Sanhedrin. This gathering was not limited to just the apostles, but likely included others as well. The disciples, in spite of their courage, recognized the gravity of the situation and sought the support and wisdom of their community. This united front was necessary as they were entering into a conflict with opposing interests. They must have been aware that dark and stormy days lay ahead as the majority of the council would not hesitate to take harsher measures against them. Nevertheless, they relied on the power of God, recalling their previous victories, and joined together as a unified force, ready to face their common adversary.",
+            "wordCount": 128,
+            "quoteTokenProportion": 37.08,
+            "qualityScore": 1.4289472325640464,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.86,
+            "commentatorTierSimilarities": [
+                24.98,
+                34.03,
+                40.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter and John, upon their release, immediately returned to their own company of fellow apostles and believers to share the details of their encounter with the Sanhedrin. This gathering was not limited to just the apostles, but likely included others as well. They recognized the gravity of the situation and sought the support and wisdom of their community, knowing that dark and stormy days lay ahead as the majority of the council would not hesitate to take harsher measures against them. Nevertheless, they relied on the power of God and joined together as a unified force, ready to face their common adversary.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.4725732556077937,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.31,
+            "commentatorTierSimilarities": [
+                25.08,
+                33.71,
+                41.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter and John, after being released, gathered with their own company of apostles and believers to share the details of their encounter with the Sanhedrin. They recognized the gravity of the situation and sought the support and wisdom of their community. United together, they prepared for the challenging times ahead, fully aware that the majority of the council would not hesitate to take harsher measures against them. Trusting in the power of God, they stood firmly as a unified force, ready to face their common adversary.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.3442536388453479,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.04,
+            "commentatorTierSimilarities": [
+                23.36,
+                34.07,
+                42.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon their release, Peter and John went to their own company of apostles and believers to share what had transpired with the Sanhedrin. They sought the support and guidance of their community, knowing that challenging times awaited them. They were fully aware that the majority of the council would not hesitate to take harsher actions against them. However, they remained steadfast, relying on God's power and standing united as a force against their common adversary.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5153929914808426,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "commentatorTierSimilarities": [
+                24.18,
+                34.84,
+                40.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter and John, having been let go, immediately went to their own company of apostles and believers to inform them about the encounter with the Sanhedrin. They recognized the seriousness of the situation and sought the support and wisdom of their community. Aware that difficult times lay ahead and that the majority of the council would not shy away from more severe actions, they remained resolute, trusting in the strength of God. They stood united, ready to face their common adversary, fully aware of the challenges they would encounter.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.3886402511130056,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.52,
+            "commentatorTierSimilarities": [
+                21.28,
+                36.97,
+                41.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

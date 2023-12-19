@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:16:26",
+    "verseRef": "2 Corinthians 6:3",
+    "bestBHT": {
+        "bht": "To prevent any reproach on the ministry, ministers must refrain from giving any offense or occasion of stumbling. By living in accordance with their calling and demonstrating patience and other necessary qualities, they set an example and reinforce their exhortation. Their conduct must be above reproach, as the misconduct of even one minister can tarnish the reputation of the entire profession and hinder the spread of the gospel. By diligently striving to maintain the credit of their ministry, they ensure that the ministry is not blamed on their account.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.9595996066357375,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.5,
+        "commentatorTierSimilarities": [
+            24.97,
+            34.56,
+            40.47
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He shows how much in earnest is the advice of one who, in order that he may gain his end, shrinks from no manner of sufferings.",
+            "The ministry, the office itself, would be reproached, if cause of offence were found in the character of its bearers.",
+            "This word, giving, and all the following participles, qualify the verb we intreat, in ver. 1, showing the pains and caution used by him to enforce this exhortation by his example as well as his precept."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Giving no offense\" (compare 2 Corinthians 6:2- :), \"approving ourselves,\" and all the other participles down to 2 Corinthians 6:10, are nominatives to \"we also entreat you\" (2 Corinthians 6:10- :), to show the pains he took to enforce his exhortation by example, as well as precept [ALFORD].",
+            "Offense\" would be given, if we were without \"patience\" and the other qualifications which he therefore subjoins (compare 2 Corinthians 6:10- :)."
+        ],
+        "Albert Barnes": [
+            "Giving no offence in anything... so that in their pure and self-denying lives, the strongest argument should be seen for embracing it.\" ",
+            "The misconduct of one minister of the gospel would bring a reproach upon the profession itself, and would prevent the usefulness and success of others.",
+            "If a man wishes to secure respect for his calling, it must be by living in the manner which that calling demands, and then respect and honor will follow as a matter of course."
+        ],
+        "Marvin Vincent": [
+            "Ministry.",
+            "Blamed.",
+            "The kindred mwmov blemish."
+        ],
+        "John Calvin": [
+            "Ministers give occasion of stumbling, when by their own misconduct they hinder the progress of the gospel on the part of their hearers.",
+            "For this is the artifice of Satan \u2014 to seek some misconduct on the part of ministers, that may tend to the dishonor of the gospel.",
+            "The man who would usefully serve Christ must strive with his whole might to maintain the credit of his ministry."
+        ],
+        "Archibald T. Robertson": [
+            "Giving no occasion of stumbling in any thing.",
+            "That the ministry be not blamed.",
+            "One can read with profit J. A. Hutton's Warrack Lectures, That the Ministry Be Not Blamed."
+        ],
+        "John Gill": [
+            "Take all possible care to lay no stumblingblock in the way of the hearers of the Gospel.\" ",
+            "Give no offence to them that are without, or to them that are within, to Jew or Gentile, or to the church of God, neither by word nor writing, by doctrine or conversation, or in any way whatever.",
+            "The apostle knew there were persons enow who were waiting all opportunities, and taking all advantages to vilify and reproach the ministry of the Gospel, and so hinder its progress and spread."
+        ],
+        "John Wesley": [
+            "Giving, as far as in us lies, no offence, that the ministry be not blamed on our account."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 6:3, the apostle Paul emphasizes the seriousness and earnestness with which he gives advice, as he does not shy away from any form of suffering in order to achieve his goals. He understands that if any cause of offense is found in the character of those who hold the ministry, it would bring reproach to the ministry itself. Therefore, Paul takes great care to lead by example, ensuring that he and his fellow ministers give no occasion for stumbling in anything. By maintaining pure and self-denying lives, they provide a strong argument for embracing the ministry. It is crucial for ministers to live in a manner befitting their calling, as the misconduct of one can tarnish the reputation of the entire profession and hinder the spread of the gospel.",
+            "wordCount": 131,
+            "quoteTokenProportion": 37.08,
+            "qualityScore": 1.950133537835669,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                22.55,
+                40.83,
+                36.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In order to avoid bringing reproach upon the ministry, it is essential for ministers to give no occasion of stumbling or offense. This entails living in a manner befitting their calling, showing through their actions the seriousness and dedication with which they impart advice. By leading by example and exhibiting patience and other qualifications, ministers ensure that their character does not hinder the progress of the gospel. In doing so, they provide a strong argument for embracing the ministry and silence those who seek to discredit it.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8208103375986042,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.88,
+            "commentatorTierSimilarities": [
+                21.93,
+                40.94,
+                37.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To prevent any reproach on the ministry, ministers must refrain from giving any offense or occasion of stumbling. By living in accordance with their calling and demonstrating patience and other necessary qualities, they set an example and reinforce their exhortation. Their conduct must be above reproach, as the misconduct of even one minister can tarnish the reputation of the entire profession and hinder the spread of the gospel. By diligently striving to maintain the credit of their ministry, they ensure that the ministry is not blamed on their account.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9595996066357375,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.5,
+            "commentatorTierSimilarities": [
+                24.97,
+                34.56,
+                40.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To ensure that the ministry is not reproached, ministers must be cautious to give no offense in any aspect of their lives. By setting a pure and self-denying example, they provide a compelling argument for embracing the ministry. It is crucial for ministers to live in a manner consistent with the demands of their calling, as even the misconduct of one can bring reproach upon the profession itself and hinder the effectiveness of others. Maintaining the integrity and honor of their ministry is paramount to the spread of the gospel.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.8712614059925716,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+            "commentatorTierSimilarities": [
+                20.14,
+                42.41,
+                37.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To prevent any reproach on the ministry, ministers must diligently strive to give no offense. This requires living in a manner that aligns with the demands of their calling, setting a pure and self-denying example. The misconduct of one minister can bring reproach upon the entire profession, hindering the effectiveness of others. By upholding the integrity of their ministry, ministers provide a strong argument for embracing it, demonstrating the seriousness and dedication that goes into imparting advice.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.862675788579626,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.28,
+            "commentatorTierSimilarities": [
+                20.72,
+                46.01,
+                33.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:18:05",
+    "verseRef": "Luke 10:40",
+    "bestBHT": {
+        "bht": "Feeling distracted and overwhelmed, Martha presented herself before Jesus in the midst of her hurry and busyness. Her attention was divided, as she anxiously tried to handle her many responsibilities. Martha longed for Jesus to understand and help her, recognizing His importance in Mary's assistance. However, she missed the chance to sit at Jesus' feet like Mary, focused solely on His teachings. In her haste, Martha failed to fully embrace the wisdom and presence of the Lord.",
+        "wordCount": 78,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 1.7761778823026324,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.4,
+        "commentatorTierSimilarities": [
+            27.39,
+            37.36,
+            35.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "cumbered\u2014'distracted.'",
+            "came to him\u2014'presented herself before Him,' as from another apartment, in which her sister had 'left her to serve (or make preparation) alone.'",
+            "bid her, &c.\u2014She presumes not to stop Christ's teaching by calling her sister away, and thus leaving Him without His one auditor, nor did she hope perhaps to succeed if she had tried."
+        ],
+        "Albert Barnes": [
+            "Martha was cumbered about much serving - Was much distracted with the cares of the family, and providing suitably to entertain the Saviour.",
+            "Her anxiety was to provide suitable entertainment for the Lord Jesus.",
+            "Or perhaps Martha supposed that Mary was sitting there to show him the proper expressions of courtesy and kindness, and that she would not think it proper to leave him without his direction and permission."
+        ],
+        "Marvin Vincent": [
+            "Martha's attention, instead of centering round Jesus, was drawn hither and thither.\" ",
+            "Came up to him, as Rev., suddenly stopping in her hurry.\" ",
+            "The verb consists of three elements: lambanw, to take hold; sun, together with; ajnti, reciprocally - doing her part as Martha does hers."
+        ],
+        "Philip Schaff": [
+            "Bustling people are bustling in religion just as they are in the kitchen or work-shop.",
+            "Busy, restless Christians are constantly thinking that the Lord approves their conduct more than that of the quieter class: they are perfectly conscientious in disturbing those who sit as pupils at the Lord\u2019s feet.",
+            "This suggests that Mary had been helping her sister, but felt that she could use the time more profitably."
+        ],
+        "Archibald T. Robertson": [
+            "One has sometimes seen women whose faces are literally drawn round with anxiety, with a permanent twist, distracted in mind and in looks.",
+            "Martha feels that Jesus is the key to Mary's help.",
+            "It is a beautiful word, to take hold oneself (middle voice) at his end of the task (\u03b1\u03bd\u03c4) together with (\u03c3\u03c5\u03bd) one."
+        ],
+        "John Gill": [
+            "She had a great deal of business upon her head and hands, which distracted her thoughts, or took them off of divine things, and put her in great hurry and concern.",
+            "She did not sit down at his feet, as Mary did, to hear his word, but stood as about to go away again, after she had said what she came about.",
+            "And she seems to speak, not only by way of complaint of Mary, who had left her to prepare and serve up this entertainment alone; but even of Christ himself, in some sort, as if he had not showed that care and concern in this matter, which she thought was necessary."
+        ],
+        "John Wesley": [
+            "Martha was encumbered \u2014 The Greek word properly signifies to be drawn different ways at the same time...\" ",
+            "...and admirably expresses the situation of a mind, surrounded (as Martha's then was) with so many objects of care...",
+            "...that it hardly knows which to attend to first."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Martha was distracted and overwhelmed with many tasks, feeling pulled in different directions. She came before Jesus, trying to express her concerns and perhaps expecting Him to intervene. Martha's attention was scattered, making her feel anxious and frantic. Her face showed the signs of worry and anxiety. Deep down, Martha realized that Jesus held the key to Mary's assistance, hoping that He would understand and help her. In her haste, Martha suddenly stopped and took hold of the situation, seeking help from Jesus. She felt that Mary's presence was necessary for the task at hand and could not simply call her away. But amidst the flurry of her responsibilities, Martha missed the opportunity to sit at Jesus' feet like Mary did, eagerly listening to His words of wisdom.",
+            "wordCount": 131,
+            "quoteTokenProportion": 29.55,
+            "qualityScore": 1.734811030489859,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.02,
+            "commentatorTierSimilarities": [
+                27.01,
+                36.24,
+                36.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Feeling distracted and overwhelmed, Martha presented herself before Jesus in the midst of her hurry and busyness. Her attention was divided, as she anxiously tried to handle her many responsibilities. Martha longed for Jesus to understand and help her, recognizing His importance in Mary's assistance. However, she missed the chance to sit at Jesus' feet like Mary, focused solely on His teachings. In her haste, Martha failed to fully embrace the wisdom and presence of the Lord.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.7761778823026324,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.4,
+            "commentatorTierSimilarities": [
+                27.39,
+                37.36,
+                35.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Martha came to Jesus feeling cumbered and distracted, as her attention was drawn in different directions. Her face displayed the anxiety and worry that consumed her. She believed that Mary's help was reliant on Jesus' intervention, hoping that He would understand and provide assistance. However, amidst her busyness, Martha missed the opportunity to sit at Jesus' feet and listen to His teachings, unlike Mary. In her hurry, she failed to fully grasp the wisdom and presence of the Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.768269146967815,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                26.64,
+                38.2,
+                35.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Martha, consumed by her many tasks, approached Jesus in a state of distraction and anxiety. Her face bore the marks of worry and her attention was torn between various responsibilities. Martha acknowledged that Jesus held the key to Mary's help, hoping for His intervention. However, in her haste, she missed the chance to sit at Jesus' feet like Mary did, eagerly listening and embracing His teachings. Martha's busyness prevented her from fully experiencing the wisdom and presence of the Lord.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.754078172591659,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.66,
+            "commentatorTierSimilarities": [
+                26.94,
+                38.65,
+                34.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Martha, burdened and distracted, approached Jesus feeling overwhelmed by her many tasks. Her worried expression revealed the anxiety that consumed her, as her attention was pulled in various directions. Martha recognized Jesus as the key to Mary's assistance, hoping He would understand and intervene. However, in her haste and busyness, Martha missed the opportunity to sit at Jesus' feet like Mary did, eagerly soaking in His teachings. Her preoccupation prevented her from fully embracing the wisdom and presence of the Lord.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.7568824892331785,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+            "commentatorTierSimilarities": [
+                26.6,
+                38.83,
+                34.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:26:39",
+    "verseRef": "Acts 5:19",
+    "bestBHT": {
+        "bht": "During this night, an angel, a pure spirit on a merciful errand from God, fearlessly appeared and proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This intervention reminds us that our lives are defended by His hand, and that heavenly spirits watch over our safety. The angel effortlessly opened the prison doors, showcasing the authority of God's messengers.",
+        "wordCount": 92,
+        "quoteTokenProportion": 29.85,
+        "qualityScore": 1.1694911425354912,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.23,
+        "commentatorTierSimilarities": [
+            11.6,
+            39.67,
+            48.73
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "19. by night\u2014the same night."
+        ],
+        "Albert Barnes": [
+            "The word 'angel' denotes properly a 'messenger,' and particularly it is applied to the pure spirits that are sent to this world on errands of mercy.\" ",
+            "The case here was evidently 'a miracle.' An angel was employed for this special purpose.",
+            "The design might have been..."
+        ],
+        "Marvin Vincent": [
+            "By night [\u03b4\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03c5\u03ba\u03c4\u03bf\u03c2] . More correctly, during this night : dia in the course of. Compare ch. 16 9."
+        ],
+        "John Calvin": [
+            "He meant to declare, by this miracle, that they were in his hand and tuition, to the end he might maintain the credit of the gospel.",
+            "We must not hope always, nay, we must not always desire that God will deliver us from death; but we must be content with this one thing, that our life is defended by his hand.",
+            "This is a profitable help for our infirmity, that we know that not only God doth care for us, but also that the heavenly spirits do watch for our safety."
+        ],
+        "Philip Schaff": [
+            "The frequency of angelic interference in the early days of the Church is remarkable.",
+            "Surely the effects of this interposition were immediately felt... fearlessly they appear in the most public spot early in the morning, again proclaiming the holy name of the Master.",
+            "The Sadducee chiefs, whose perplexity and anxiety were increased by this new proof of a strange and awful power connected with these bold men."
+        ],
+        "John Gill": [
+            "one of those ministering spirits sent by God to minister to the heirs of promise\" ",
+            "one of those angels that excel in strength\" ",
+            "the angel... easily opened the prison doors"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During this night, an angel, a pure spirit on a merciful errand from God, made a miraculous appearance and fearlessly proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This divine intervention serves as a reminder that our lives are defended by His hand, and that heavenly spirits watch over our safety. The angel, one of those ministering spirits sent by God, effortlessly opened the prison doors, showcasing the power and authority of God's messengers.",
+            "wordCount": 108,
+            "quoteTokenProportion": 29.73,
+            "qualityScore": 1.188426798289088,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.86,
+            "commentatorTierSimilarities": [
+                9.92,
+                41.6,
+                48.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During this night, an angel, a pure spirit on a merciful errand from God, fearlessly appeared and proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This intervention reminds us that our lives are defended by His hand, and heavenly spirits watch over our safety. The angel effortlessly opened the prison doors, showcasing the authority of God's messengers.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.1648954247477485,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.08,
+            "commentatorTierSimilarities": [
+                11.4,
+                39.76,
+                48.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During this night, an angel, a pure spirit on a merciful errand from God, fearlessly appeared and proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This intervention reminds us that our lives are defended by His hand, and that heavenly spirits watch over our safety. The angel effortlessly opened the prison doors, showcasing the authority of God's messengers.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.1694911425354912,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.23,
+            "commentatorTierSimilarities": [
+                11.6,
+                39.67,
+                48.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During this night, an angel, a pure spirit on a merciful errand from God, fearlessly appeared and proclaimed the holy name of the Master. The Sadducee chiefs, perplexed and anxious, encountered this strange and awe-inspiring power, affirming the boldness of these men. By this miracle, God declared His protection and care over those who proclaim the gospel. This intervention reminds us that our lives are defended by His hand, and heavenly spirits watch over our safety. The angel effortlessly opened the prison doors, showcasing the authority of God's messengers.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.1648954247477485,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.08,
+            "commentatorTierSimilarities": [
+                11.4,
+                39.76,
+                48.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During this night, an angel\u2014a pure spirit sent on a merciful errand\u2014fearlessly proclaimed the holy name of the Master, leaving the Sadducee chiefs perplexed and anxious. Through this miraculous intervention, God demonstrated His protection and care over those who proclaim the gospel. We are assured that our lives are defended by His hand and watched over by heavenly spirits, as this angel effortlessly opened the prison doors, showcasing the authority of God's messengers. Such divine intercession serves as a reminder of the power and presence that surround us.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.1021095411615214,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.99,
+            "commentatorTierSimilarities": [
+                9.38,
+                39.46,
+                51.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

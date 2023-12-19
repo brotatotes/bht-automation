@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:20:27",
+    "verseRef": "Galatians 5:10",
+    "bestBHT": {
+        "bht": "Paul warns the Galatians that anyone who introduces confusion and leads them astray will face God's judgment. While Paul does not identify a specific troublemaker, he believes that the Galatians can overcome this deception and return to the right way of thinking. He places his trust in their ability to recognize and reject false teachings, expressing his hope that they will align their minds with his. Through love and faith, Paul encourages them to renounce these distractions and embrace the truth.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.9044753841891953,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+        "commentatorTierSimilarities": [
+            21.44,
+            44.54,
+            34.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "'I, emphatic, I, for my part; \u2018as far as regards me....\u2019\" ",
+            "he that troubleth you need not be interpreted as referring necessarily to any one conspicuous among the Judaizers, but simply as individualizing the warning, and carrying home the denunciation to each one\u2019s heart among the perverters.\" ",
+            "The words whosoever he be generalize the declaration to the fullest extent: see ch. i. 8, 9."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I have confidence in the Lord with regard to you, that ye will be none otherwise minded.",
+            "He that troubleth you shall bear his due and inevitable judgment from God.",
+            "Whosoever he be, whether great or small."
+        ],
+        "Albert Barnes": [
+            "Though they had been led astray, and had embraced many false opinions, yet, on the whole, Paul had confidence in their piety, and believed they would yet return and embrace the truth.",
+            "He gently states this general principle, which is so obvious; states that he does not believe that the defection is to be traced to themselves; and designs to prepare their minds for a proposition which he intends to submit...",
+            "I state only the obvious principle that every man should bear his own burden, and be held responsible for what he has done - no matter who he is."
+        ],
+        "Marvin Vincent": [
+            "Will be-minded. The word denotes a general disposition of the mind rather than a specific act of thought directed at a given point.",
+            "Ta tinov fronein is to be of one's party.",
+            "He that troubleth. Not with reference to any particular individual, but generally, of any possible person, 'whoever he may be.'"
+        ],
+        "John Calvin": [
+            "We reckon it shameful to disappoint those whose feelings towards us are kind and friendly.",
+            "Let all who introduce confusion into churches, who break the unity of faith, who destroy their harmony, lend an ear to this; and if they have any right feeling, let them tremble at this word.",
+            "The apostle seems to glance at one, the principal of them; and by 'whosoever he be,' we may infer that he was a person of some consequence."
+        ],
+        "Philip Schaff": [
+            "Paul hopes that the Galatians will return from their error, and this hope is grounded in his communion with Christ in whom he lived and moved.",
+            "He that troubleth you, all the false teachers.",
+            "Shall bear his judgment, God\u2019s judgment of condemnation."
+        ],
+        "Archibald T. Robertson": [
+            "Whosoever he be (\u03bf\u03c3\u03c4\u03b9\u03c2 \u03b5\u03b1\u03bd \u03b7). Indefinite relative clause with \u03b5\u03b1\u03bd and subjunctive.",
+            "It seems unlikely that Paul knew precisely who the leader was.",
+            "In Galatians 1:6 he uses the plural of the same verb \u03c4\u03b1\u03c1\u03b1\u03c3\u03c3\u03c9 and see also \u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c4\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2 in verse Galatians 5:12."
+        ],
+        "John Gill": [
+            "This confidence in them is not of faith, for no trust is to be put in men; no, not in the best; but of charity, or love, which hopes all things, and believes all things.",
+            "He unsettled their minds, and caused them to halt between two, Moses and Christ, law and Gospel, and the doctrines of justification by works, and by the righteousness of Christ.",
+            "The judgment, or condemnation, of such that bring in damnable harasses, and pernicious errors, lingereth not, will not be long delayed; and their damnation slumbereth not, but in a little time will seize upon them."
+        ],
+        "John Wesley": [
+            "But he that troubleth you \u2014 It seems to have been one person chiefly who endeavoured to seduce them. Shall bear his judgment \u2014 A heavy burden, already hanging over his head.",
+            "Yet I have confidence that - After ye have read this. Ye will be no otherwise minded \u2014 Than I am, and ye were.",
+            "Shall bear his judgment \u2014 A heavy burden, already hanging over his head."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though Paul does not specify a singular troublemaker among the Galatians, he appeals to each individual's conscience, warning them that whoever it may be that causes such confusion and leads them astray from the truth will face the just judgment of God. Yet, Paul expresses his hope and confidence that they will come back to the right way of thinking. The phrase he that troubleth you encompasses all the false teachers who have caused this division, and Paul assures them that the condemnation awaiting these individuals will not be delayed for long. Nonetheless, Paul trusts in the love of the Lord and believes that the Galatians will align their minds with his, abandoning false teachings and embracing the true gospel.",
+            "wordCount": 121,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.0300622345420614,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+            "commentatorTierSimilarities": [
+                24.98,
+                42.16,
+                32.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul addresses the Galatians, emphasizing that the source of trouble among them extends to anyone who perverts the truth. He assures them that God's judgment will duly befall those responsible, regardless of their stature. However, Paul holds confidence in their ability to change their mindset and return to the right path. His hope rests in love and faith, believing that they will abandon false teachings and align their thoughts with his own, free from the distractions that have troubled them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.7917203086904663,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.92,
+            "commentatorTierSimilarities": [
+                21.72,
+                44.37,
+                33.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul warns the Galatians that anyone who introduces confusion and leads them astray will face God's judgment. While Paul does not identify a specific troublemaker, he believes that the Galatians can overcome this deception and return to the right way of thinking. He places his trust in their ability to recognize and reject false teachings, expressing his hope that they will align their minds with his. Through love and faith, Paul encourages them to renounce these distractions and embrace the truth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9044753841891953,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                21.44,
+                44.54,
+                34.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul warns the Galatians that whoever is causing confusion and leading them astray will face God's judgment. Although Paul does not specify a particular individual, he urges each person to reflect on their own responsibility in this matter. However, Paul is confident that they will change their mindset and align themselves with his teachings. He trusts in the Lord's guidance and believes that they will reject false doctrines, returning to the truth. The judgment for those who trouble the Galatians will be swift and severe.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8508404505974259,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+            "commentatorTierSimilarities": [
+                24.55,
+                42.44,
+                33.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul emphasizes that those who are causing trouble among the Galatians, regardless of their identity, will be accountable for their actions and face the judgment of God. However, Paul has confidence that the Galatians will adopt his mindset and abandon false teachings. He appeals to them to recognize the seriousness of the situation and to return to the right path. Despite the challenges they face, Paul believes in their potential to realign their beliefs and actions with the truth.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.7568539064638444,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+            "commentatorTierSimilarities": [
+                21.3,
+                45.92,
+                32.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

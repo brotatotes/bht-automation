@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:59:36",
+    "verseRef": "Romans 2:24",
+    "bestBHT": {
+        "bht": "By their hypocritical behavior, the Jews caused the surrounding pagan world to despise and blaspheme the God whose name they claimed to honor. The Gentiles judged the religion of the Jews based on their scandalous conduct, leading them to conclude that God was either ignorant, unholy, or powerless to do anything about it. This hypocrisy and contradiction between their professed faith and their immoral lives had a detrimental impact on the reputation of God and His law.",
+        "wordCount": 77,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.9433273794768091,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+        "commentatorTierSimilarities": [
+            19.36,
+            49.47,
+            31.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] \u2018For what is written in the prophets Isaiah and Ezekiel (see reff.), is no less true now of you:\u2019 \u2018the fact is so, as it is written.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. as it is written\u2014(See :-, Marginal reference)."
+        ],
+        "Albert Barnes": [
+            "By your hypocrisy and crimes the pagan world is led to despise a religion which is observed to have no effect in purifying and restraining its professors; and of course the reproach will terminate on the Author of your religion - that is, the true God.",
+            "A life of purity would tend to honor religion and its Author; a life of impurity does the reverse.",
+            "They have learned therefore, to abuse the name of Christian, and the Author of the Christian religion, as encouraging and promoting profligacy of life."
+        ],
+        "John Calvin": [
+            "We see that all the reproaches cast on the people of Israel do fall on the name of God...",
+            "...God, whose name they assume, is in a manner defamed by men, through their wicked conduct.\u201d",
+            "The Apostle, in these verses, exhibits the most lively image of hypocrisy... a contrast more monstrous than between these fair appearances and this awful reality."
+        ],
+        "Philip Schaff": [
+            "The Jews boasted of the law, and reflected disgrace on the lawgiver.",
+            "The Gentiles judged the religion of the Jews by the scandalous conduct of the Jews themselves, and thus were led to blaspheme their God, Jehovah.",
+            "The greatest obstructors of the success of the Word are those whose bad lives contradict their good doctrine."
+        ],
+        "Archibald T. Robertson": [
+            "The Jews were jealous for the Name of God and would not pronounce the Tetragrammaton..."
+        ],
+        "John Gill": [
+            "The being and perfections of God, such as his holiness, omniscience, and omnipotence, are denied, or evil spoken of; and also the law of God, and the forms of worship instituted by him.",
+            "When [the Gentiles] observe [the iniquities of the Israelites], they conclude that the God of Israel is not omniscient, or he would know, and take notice of these things; and that he is not holy, or he could not bear them; nor omnipotent, or he would revenge them.",
+            "They disgrace the law before the people of the earth... saying, thou shalt not lend upon usury, and he lends upon usury; he says, thou shalt not commit a robbery, and he commits a robbery; he says, 'thou shalt not steal,' and he steals."
+        ],
+        "John Wesley": [
+            "Isaiah 52:5"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By their hypocritical behavior, the Jews caused the surrounding pagan world to despise and blaspheme the God whose name they claimed to honor. The Gentiles judged the religion of the Jews based on their scandalous conduct, leading them to conclude that God was either ignorant, unholy, or powerless to do anything about it. This hypocrisy and contradiction between their professed faith and their immoral lives had a detrimental impact on the reputation of God and His law. In essence, the Jews not only disgraced themselves but also defamed the name of God through their wicked conduct. This serves as a powerful reminder that our actions as believers have the potential to either honor or dishonor the religion we profess and its Author.",
+            "wordCount": 122,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.9131418412836465,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                21.17,
+                47.84,
+                30.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By their hypocritical behavior, the Jews caused the surrounding pagan world to despise and blaspheme the God whose name they claimed to honor. The Gentiles judged the religion of the Jews based on their scandalous conduct, leading them to conclude that God was either ignorant, unholy, or powerless to do anything about it. This hypocrisy and contradiction between their professed faith and their immoral lives had a detrimental impact on the reputation of God and His law.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.9433273794768091,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+            "commentatorTierSimilarities": [
+                19.36,
+                49.47,
+                31.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By their hypocrisy and crimes, the pagan world is led to despise a religion that has no effect in purifying and restraining its professors. This leads to a reproach that reflects on the Author of the religion - the true God. A life of impurity does the reverse, dishonoring religion and its Author. The bad lives of those who profess good doctrine obstruct the success of the Word and disgrace the law and forms of worship instituted by God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.8801626429104616,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+            "commentatorTierSimilarities": [
+                19.33,
+                54.37,
+                26.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The hypocritical behavior of the Jews resulted in the pagan world despising the religion they claimed to honor, leading to the blasphemy of the true God. Their immoral lives contradicted their professed faith, causing the Gentiles to conclude that God was ignorant, unholy, or lacking power. The Jews not only disgraced themselves but also defamed the name of God through their wicked conduct, obstructing the success of the Word. Their actions dishonored religion and its Author and brought reproach upon the law and forms of worship.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.9368861814131808,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+            "commentatorTierSimilarities": [
+                22.19,
+                47.01,
+                30.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The hypocritical behavior of the Jews led to the pagan world despising the religion they claimed to honor, resulting in blasphemy against the true God. By contradicting their professed faith with immoral lives, they obstructed the success of the Word, dishonoring religion and its Author. Their actions not only disgraced themselves but also defamed the name of God, bringing reproach upon the law and forms of worship. In essence, their wicked conduct undermined the perception of God's omniscience, holiness, and omnipotence among the Gentiles.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.940692473119542,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                22.02,
+                45.71,
+                32.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

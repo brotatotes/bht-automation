@@ -1,0 +1,108 @@
+{
+    "timestamp": "12-19-2023 16:14:25",
+    "verseRef": "Luke 3:31",
+    "bestBHT": {
+        "bht": "This genealogy refers to the lineage from David to Adam and includes Nathan. Other biblical references, such as 2 Samuel 5:14, 1 Chronicles 3:5, and Zechariah 12:12, shed more light on the significance of Nathan in this genealogy. For a more detailed account, consult 1 Chronicles 1:2.",
+        "wordCount": 40,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.8480206522791482,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.79,
+        "commentatorTierSimilarities": [
+            0.0,
+            96.42,
+            3.58
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Luke 3:31. Nathan. Comp. 2Sa 5:14 ; 1 Chronicles 3:5; Zechariah 12:12. On the genealogy from David back to Adam, comp. 1 Chronicles 1:2",
+            ""
+        ],
+        "John Gill": [
+            ":-"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse is part of the genealogy from David back to Adam. It mentions Nathan, who is compared to the Nathan in 2 Samuel 5:14, 1 Chronicles 3:5, and Zechariah 12:12. For a more detailed genealogy, one can refer to 1 Chronicles 1:2.",
+            "wordCount": 36,
+            "quoteTokenProportion": 58.62,
+            "qualityScore": 1.8209714977564706,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                0.0,
+                100.75,
+                -0.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage traces the lineage from David to Adam, specifically mentioning Nathan. The connection to Nathan can be found in 2 Samuel 5:14, 1 Chronicles 3:5, and Zechariah 12:12. Further details about this genealogy can be found in 1 Chronicles 1:2.",
+            "wordCount": 34,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9939882688432489,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                97.73,
+                2.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This genealogy in Luke 3:31 traces the lineage from David to Adam, specifically mentioning Nathan. The connection to Nathan can be found in 2 Samuel 5:14, 1 Chronicles 3:5, and Zechariah 12:12. Further details about this lineage are available in 1 Chronicles 1:2.",
+            "wordCount": 35,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.1303904045704822,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                0.0,
+                97.34,
+                2.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This genealogy refers to the lineage from David to Adam and includes Nathan. Other biblical references, such as 2 Samuel 5:14, 1 Chronicles 3:5, and Zechariah 12:12, shed more light on the significance of Nathan in this genealogy. For a more detailed account, consult 1 Chronicles 1:2.",
+            "wordCount": 40,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8480206522791482,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                96.42,
+                3.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This genealogy traces the lineage from David to Adam and mentions Nathan. Other biblical references like 2 Samuel 5:14, 1 Chronicles 3:5, and Zechariah 12:12 provide additional context regarding Nathan's significance in this genealogy. For more extensive details on this lineage, refer to 1 Chronicles 1:2.",
+            "wordCount": 40,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.7657727477920762,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                0.0,
+                95.2,
+                4.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:15:46",
+    "verseRef": "2 Corinthians 4:11",
+    "bestBHT": {
+        "bht": "As believers in Christ, we willingly embrace the constant exposure to death and danger for the sake of Jesus. In our mortal flesh, prone to decay, God showcases His life-giving power, manifesting the life of Jesus within us. Paul sees his preservation amidst peril as a miraculous sign of God's work. We, as ministers of the Gospel, reckon ourselves as those who have been raised with Christ and are alive unto God through Him, even in the face of death.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.1630548301303034,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+        "commentatorTierSimilarities": [
+            36.39,
+            45.55,
+            18.06
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "which live, asserting that to which death is alien and strange...are always being delivered unto death\" ",
+            "on account of Jesus...that the life also of Jesus may be manifested in our mortal flesh\" ",
+            "God exhibits DEATH in the living, that He may exhibit LIFE in the dying"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul regards his preservation amidst so many exposures to 'death,' by which Stephen and James were cut off, as a standing miracle.",
+            "Providence, who shows 'the excellency of His power' in delivering unto DEATH His living saints, that He may manifest LIFE also in their dying flesh.",
+            "'Flesh,' the very element of decay, is by Him made to manifest life."
+        ],
+        "Albert Barnes": [
+            "For we which live - Those of us, the apostles and ministers of the Redeemer who still survive.",
+            "Are alway delivered unto death - Exposed constantly to death.",
+            "In our mortal flesh - In our body. In our life on earth; and in our glorified body in heaven."
+        ],
+        "Philip Schaff": [
+            "For we which live are alway delivered unto death for Jesus' sake, that the life also of Jesus may be manifested in our mortal flesh.\" ",
+            "Reckon and feel ourselves to be with Him risen again and alive unto God through Jesus Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Are alway delivered unto death (\u03b5\u03b9\u03c2 \u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03bd \u03c0\u03b1\u03c1\u03b1\u03b4\u03b9\u03b4\u03bf\u03bc\u03b5\u03b8\u03b1). This explains verse 2 Corinthians 4:10. "
+        ],
+        "John Gill": [
+            ":-."
+        ],
+        "John Wesley": [
+            "For we who yet live - Who are not yet killed for the testimony of Jesus.",
+            "Are always delivered unto death \u2014 Are perpetually in the very jaws of destruction.",
+            "We willingly submit to, that we may 'obtain a better resurrection.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As believers in Christ, we are constantly faced with the threat of death and exposure to dangerous situations. However, rather than being discouraged, we embrace these circumstances as a testament to the power of God. In our mortal bodies, which are prone to decay, God showcases His life-giving power and the manifestation of Jesus' life within us. Paul himself views his preservation amidst great peril as a miraculous sign of God's work. We, as ministers of the Gospel, reckon ourselves as those who have been raised with Christ and are alive unto God through Him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8735468765222278,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                35.5,
+                46.5,
+                18.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As believers in Christ, we willingly embrace the constant exposure to death and danger for the sake of Jesus. In our mortal flesh, prone to decay, God showcases His life-giving power, manifesting the life of Jesus within us. Paul sees his preservation amidst peril as a miraculous sign of God's work. We, as ministers of the Gospel, reckon ourselves as those who have been raised with Christ and are alive unto God through Him, even in the face of death.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.1630548301303034,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+            "commentatorTierSimilarities": [
+                36.39,
+                45.55,
+                18.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As believers in Christ, we are always being delivered unto death, constantly exposed to perilous situations. Yet, we view these circumstances as an opportunity for God to exhibit His power and showcase the life of Jesus in our mortal bodies. Paul considers his survival amidst adversity to be a remarkable miracle, a manifestation of God's presence. We, as ministers of the Gospel, count ourselves as those who have been brought to life through Christ, even in the midst of death's looming threat.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.0339920134230027,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+            "commentatorTierSimilarities": [
+                36.67,
+                44.5,
+                18.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers in Christ consistently face the reality of death, continuously exposed to danger. However, rather than being discouraged, we perceive these circumstances as opportunities for God to showcase His power and reveal the life of Jesus in our mortal bodies. Paul himself considers his preservation amidst life-threatening situations as a testament to the miraculous work of God. As ministers of the Gospel, we recognize our new life in Christ, even in the face of potential death.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.9975249135504534,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.76,
+            "commentatorTierSimilarities": [
+                36.91,
+                44.35,
+                18.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As believers in Christ, we are always being delivered unto death, constantly exposed to perilous situations. God exhibits death in us, His living saints, so that He can manifest life in our dying flesh. Paul considers his preservation amidst danger as a standing miracle, showcasing God's power. In our mortal bodies, prone to decay, God displays His life-giving power. We, as ministers of the Gospel, reckon ourselves as those who have been raised with Christ and are alive unto God through Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1370337412228384,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+            "commentatorTierSimilarities": [
+                38.94,
+                44.18,
+                16.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

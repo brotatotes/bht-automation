@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:35:21",
+    "verseRef": "Acts 22:17",
+    "bestBHT": {
+        "bht": "In this extraordinary encounter, Paul recalls a vision of Christ and the subsequent conversation they had, which is not mentioned elsewhere in the Bible. Paul emphasizes the continuation of his connection to the temple after his conversion, even falling into a trance during prayer and receiving a revelation from the Lord. While respecting the traditions of the temple, Paul's calling to share the gospel with the Gentiles compelled him to focus on his ministry beyond Jerusalem. This dialogue demonstrates Paul's divine calling and unwavering dedication to his mission.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.017235943222855,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.41,
+        "commentatorTierSimilarities": [
+            24.87,
+            46.39,
+            28.73
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] viz. as related ch. ix. 26\u201331, where nothing of this vision, or its having been the cause of his leaving Jerusalem, is hinted."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This thrilling dialogue between the glorified Redeemer and his chosen vessel is nowhere else related.",
+            "He thus calls their attention to the fact that after his conversion he kept up his connection with the temple as before.",
+            "He thus calls their attention to the fact that after his conversion he kept up his connection with the temple as before."
+        ],
+        "Albert Barnes": [
+            "Paul, like other converts to Christianity from among the Jews, would naturally continue to offer his devotions in the temple.",
+            "It is possible that he may here refer to what he elsewhere mentions 2 Corinthians 12:1-5 as 'visions and revelations of the Lord.'",
+            "Paul had now stated the evidence of his conversion, which appears to have been satisfactory to them...he now proceeds to show that in his other conduct he had been directed by the same high authority by which he had been called into the ministry."
+        ],
+        "Marvin Vincent": [
+            "I fell into a trance; the verb meaning to become, rather than the simple to be.",
+            "On trance, see note on astonishment, Mark 5:42.",
+            "Compare note on Acts 10:10."
+        ],
+        "John Calvin": [
+            "For he came purposely to Jerusalem, that he might impart with his own nation that grace which was committed to him. But when the Lord cutteth off his hope which he had to do good, he driveth him thence.",
+            "For they both thought that the covenant of God was profaned if the Gentiles should be admitted into the Church together with them, and nothing did grieve the proud nation so much as that others should be preferred before them, or so much as made equal with them.",
+            "Therefore Paul\u2019s defense consisteth in this, that he was ready, so much as in him lay, to do them the best service he could; but he was afterward enforced by the commandment of God to go to the Gentiles, because he would not have him to be idle at Jerusalem."
+        ],
+        "Philip Schaff": [
+            "He would show the people who charged him with being a traitor to the chosen race, that his becoming a Christian had neither made him forget Jerusalem nor the glorious House on Mount Zion.",
+            "This apparently was no uncommon state of mind and body for those persons who were chosen to make known in a special way the will of God.",
+            "St. Paul had many similar revelations in the course of his life."
+        ],
+        "Archibald T. Robertson": [
+            "When I had returned, while I prayed, I fell.\" ",
+            "Note dative \u03bc\u03bf with \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf as in verse Acts 22:6, genitive \u03bc\u03bf\u03c5 (genitive absolute with \u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03c5), accusative of general reference \u03bc\u03b5 with \u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1.",
+            "The participle is especially liable to such examples of anacolutha."
+        ],
+        "John Gill": [
+            "the apostle had been used to it, he continued this custom, and during the time of prayer he fell into an ecstasy.",
+            "I was in a trance: and knew not whether he was in the body, or out of the body.",
+            "whether this was the time he refers to in 2 Corinthians 12:2 is not certain, though probable."
+        ],
+        "John Wesley": [
+            "He still paid the temple its due honour, as the house of prayer.",
+            "Perhaps he might continue standing all the while, so that any who were near him would hardly discern it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Paul recounts his vision of Christ and the subsequent conversation they had. This event is not mentioned in any other part of the Bible, making it a unique and significant moment. By sharing this experience, Paul emphasizes that his conversion did not sever his connection to the temple or Jerusalem. He fell into a trance while praying and received this revelation from the Lord. This trance, or ecstatic state, was not uncommon for those chosen by God to convey His will. Although Paul continued to show respect for the temple and its rituals, his devotion to spreading the gospel among the Gentiles compelled him to focus on his ministry beyond Jerusalem.",
+            "wordCount": 114,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 1.9749908430962484,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                25.48,
+                42.96,
+                31.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul recounts a unique and significant event in which he had a vision of Christ and engaged in a conversation with Him. This conversation, which is not mentioned elsewhere in the Bible, served to captivate the attention of his listeners. It is clear that Paul maintained his connection to the temple and Jerusalem even after his conversion. While praying, he fell into an ecstatic state, receiving this revelation from the Lord. Such trances were not uncommon among those chosen to convey God's will. Despite his respect for the temple, Paul's calling to spread the gospel among the Gentiles compelled him to focus on his ministry beyond Jerusalem.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.9270202825435927,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.41,
+            "commentatorTierSimilarities": [
+                25.26,
+                43.37,
+                31.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this unique dialogue between Paul and the glorified Redeemer, Paul highlights his continued connection to the temple after his conversion. Falling into a trance during prayer, he receives a revelation from the Lord. Such trances were not uncommon for those called to communicate God's will. Paul's devotion to spreading the gospel among the Gentiles led him to prioritize his ministry beyond Jerusalem, while still showing respect for the temple. This interaction serves as evidence of Paul's divine calling and his unwavering commitment to his mission.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8821061039291385,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+            "commentatorTierSimilarities": [
+                24.03,
+                43.45,
+                32.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this extraordinary encounter, Paul recalls a vision of Christ and the subsequent conversation they had, which is not mentioned elsewhere in the Bible. Paul emphasizes the continuation of his connection to the temple after his conversion, even falling into a trance during prayer and receiving a revelation from the Lord. While respecting the traditions of the temple, Paul's calling to share the gospel with the Gentiles compelled him to focus on his ministry beyond Jerusalem. This dialogue demonstrates Paul's divine calling and unwavering dedication to his mission.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.017235943222855,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.41,
+            "commentatorTierSimilarities": [
+                24.87,
+                46.39,
+                28.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In sharing this exceptional and unparalleled dialogue between Paul and the glorified Redeemer, Paul emphasizes his ongoing connection to the temple after his conversion. Falling into a trance while praying, he receives a divine revelation. This ecstatic state was not uncommon for those entrusted with communicating God's will. Despite his respect for the temple, Paul's calling to spread the gospel among the Gentiles compelled him to prioritize his ministry beyond Jerusalem. This exchange serves as a testament to Paul's divine vocation and unwavering commitment to his mission.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.863397752720084,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+            "commentatorTierSimilarities": [
+                24.3,
+                43.15,
+                32.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

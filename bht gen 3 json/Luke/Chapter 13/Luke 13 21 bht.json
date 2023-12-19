@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 16:19:15",
+    "verseRef": "Luke 13:21",
+    "bestBHT": {
+        "bht": "The mention of leaven in the commentary on Matthew 12:33 gives us insight into the meaning behind this particular teaching. Leaven may be small, but its ability to spread and grow is significant. This can be seen as a representation of the gradual and impactful growth of the Gospel ministry as well as the state of Gospel churches. It also highlights the potential presence of false doctrine or corruption that can slowly infiltrate the church. The notion of something being covered up suggests that its influence may not be immediately recognizable or apparent.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.2026640987086803,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.33,
+        "commentatorTierSimilarities": [
+            59.34,
+            0.0,
+            40.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Leaven. See on Matthew 12:33."
+        ],
+        "John Gill": [
+            "It is like leaven,.... Which is small in quantity, but is of a swelling, spreading quality; and fitly expresses the small beginnings of the Gospel ministry, and its increase, also the state and case of Gospel churches, and the nature of the grace of God...\" (Commentary)",
+            "...unless false doctrine should rather be meant, which privately, secretly, and by little and little, got into the churches of Christ, the kingdom of God, and spread itself all over them...\" (Commentary)",
+            "...if the parable is to be understood of the false doctrine and discipline of the Antichristian and apostate church of Rome, it may denote the small beginnings of the mystery of iniquity, which began to work in the apostle's time by the errors and heresies then propagated, and the manner in which the man of sin was privately introduced...\" (Commentary)"
+        ],
+        "John Wesley": [
+            "Covered up \u2014 So that, for a time, nothing of it appeared."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks about leaven, which is referred to in the commentary on Matthew 12:33. Leaven is small in quantity but has a swelling and spreading quality, symbolizing the small beginnings and growth of the Gospel ministry as well as the state of Gospel churches. Additionally, it could represent false doctrine that enters the churches secretly and gradually. The verse suggests that the leaven is covered up, meaning that for a time, its influence may not be obvious or apparent.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5626475825540218,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.3,
+            "commentatorTierSimilarities": [
+                56.92,
+                0.0,
+                43.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mention of leaven in the commentary on Matthew 12:33 sheds light on the meaning of this passage. Leaven, though small, has the power to spread and grow. In the context of the Gospel ministry, it represents the gradual but significant impact of God's grace. Furthermore, leaven can symbolize false doctrine or the introduction of corruption into the church. This idea of something being covered up implies that its influence may not be immediately visible or apparent.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.260641184595121,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.26,
+            "commentatorTierSimilarities": [
+                59.73,
+                0.0,
+                40.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of leaven in the commentary on Matthew 12:33 gives us insight into the meaning behind this particular teaching. Leaven may be small, but its ability to spread and grow is significant. This can be seen as a representation of the gradual and impactful growth of the Gospel ministry as well as the state of Gospel churches. It also highlights the potential presence of false doctrine or corruption that can slowly infiltrate the church. The notion of something being covered up suggests that its influence may not be immediately recognizable or apparent.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.2026640987086803,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.33,
+            "commentatorTierSimilarities": [
+                59.34,
+                0.0,
+                40.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mention of leaven in the commentary on Matthew 12:33 sheds light on the meaning behind this verse. Leaven, though small, has the power to spread and grow, symbolizing the gradual but significant impact of God's grace in the Gospel ministry and churches. It also alludes to the potential presence of false doctrine or corruption that can infiltrate discreetly. The idea of something being covered up implies that its influence may not be immediately apparent.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.273279846909396,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.68,
+            "commentatorTierSimilarities": [
+                56.13,
+                0.0,
+                43.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Referring to the commentary on Matthew 12:33, the concept of leaven helps elucidate this teaching. Though small, leaven possesses the remarkable ability to spread and grow. This characteristic symbolizes the gradual yet profound impact of the Gospel ministry and the nature of Gospel churches. Furthermore, it signifies the potential infiltration of false doctrine or corruption, subtly entering and permeating the church. The notion of something being hidden suggests that its influence may not be immediately noticeable or apparent.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.1238300244294863,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.71,
+            "commentatorTierSimilarities": [
+                59.28,
+                0.0,
+                40.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

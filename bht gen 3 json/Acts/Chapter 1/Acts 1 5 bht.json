@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:24:32",
+    "verseRef": "Acts 1:5",
+    "bestBHT": {
+        "bht": "The Pentecostal effusion represented the subsequent work of regeneration on individuals and a common baptism of the whole Church. It marked the beginning of a new period of spiritual influence. The promise of being baptized with the Holy Ghost not many days hence was to exercise their faith. There is no distinction between water baptism and the baptism in the Spirit. The fulfillment of this promise on the day of Pentecost demonstrated the hidden grace that inspires God's elect.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.3401688680076633,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.15,
+        "commentatorTierSimilarities": [
+            29.42,
+            35.9,
+            34.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He speaks of the Pentecostal effusion as being the Baptism with the Holy Ghost, because it was a great representation, on the whole Church, of the subsequent continued work of regeneration on individuals.\" ",
+            "It was as it were a common baptism of the whole Church.",
+            "It was the beginning of a new period of spiritual influence, totally unlike any which had preceded."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ye shall be baptized with the Holy Ghost not many days hence\u2014ten days hence, as appears from Leviticus 23:15; Leviticus 23:16\" ",
+            "but it was expressed thus indefinitely to exercise their faith."
+        ],
+        "Albert Barnes": [
+            "For John truly baptized ... - These are the words of Jesus to his apostles, and he evidently has reference to what was said of John\u2019s baptism compared with his own in Matthew 3:11; John 1:33.\" ",
+            "In those verses John is represented as baptizing with water, but the Messiah who was to come, as baptizing with the Holy Spirit and with fire.",
+            "This promise was now about to be fulfilled in a remarkable manner. See Acts 2:0."
+        ],
+        "John Calvin": [
+            "But because the sending of the Holy Ghost after so glorious a sort was a token of the hidden grace wherewith he doth daily inspire his elect, he doth fitly apply thereunto the testimony of John.",
+            "Although, therefore, he doth daily baptize the elect of his Father, yet was this no let why he might not show forth this token to be remembered above all others, that the apostles might know that they were only entered by John.",
+            "So must we, in like manner, think that we are not in vain baptized with water by men, because Christ, who commanded the same to be done, will fulfill his office, and baptize us with the Spirit."
+        ],
+        "Philip Schaff": [
+            "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.",
+            "His words which you all remember respecting a future baptism with the Holy Ghost and fire, you will soon yourselves be able to test the truth of.",
+            "That fiery baptism of Pentecost with which they were so soon to be baptized."
+        ],
+        "Archibald T. Robertson": [
+            "Baptized with water and with the Holy Ghost.",
+            "No distinction therefore can be insisted on here between the construction of water and in the Spirit.",
+            "Not after many days these."
+        ],
+        "John Gill": [
+            "John's baptism was water baptism, an immersion of persons in water.",
+            "It is Christ's prerogative to baptize with the Spirit.",
+            "In which the apostles, on the day of 'Pentecost', were, as it were, to be immersed, and with them covered."
+        ],
+        "John Wesley": [
+            "Ye shall be baptized with the Holy Ghost \u2014 And so are all true believers to the end of the world. But the extraordinary gifts of the Holy Ghost also are here promised."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the Pentecostal effusion as a representation of the subsequent work of regeneration on individuals, a common baptism of the whole Church, and the beginning of a new period of spiritual influence. The indefinite expression of being baptized with the Holy Ghost not many days hence was meant to exercise their faith. There is no distinction between the construction of water and the Spirit, as both are present in this baptism. This baptism with the Holy Ghost was fulfilled in a remarkable manner on the day of Pentecost, as it was the fulfillment of Jesus' promise to baptize with the Holy Spirit and fire. This baptism signifies the hidden grace that God daily inspires in His elect and demonstrates that the baptism with water by men is not in vain, for Christ will ultimately baptize us with the Spirit.",
+            "wordCount": 142,
+            "quoteTokenProportion": 36.14,
+            "qualityScore": 2.6758496904873743,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.31,
+            "commentatorTierSimilarities": [
+                27.66,
+                36.38,
+                35.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pentecostal effusion was a representation of the subsequent work of regeneration on individuals and the baptism of the whole Church. It marked the beginning of a new period of spiritual influence, different from anything before. The usage of an indefinite expression regarding the baptism with the Holy Ghost aimed to test the apostles' faith. There is no distinction between water baptism and the baptism in the Spirit. This remarkable fulfillment of Jesus' promise on the day of Pentecost demonstrates the hidden grace that daily inspires God's elect.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.303241897593524,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.92,
+            "commentatorTierSimilarities": [
+                28.03,
+                36.35,
+                35.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pentecostal effusion represented the subsequent work of regeneration on individuals and a common baptism of the whole Church. It marked the beginning of a new period of spiritual influence. The promise of being baptized with the Holy Ghost not many days hence was to exercise their faith. There is no distinction between water baptism and the baptism in the Spirit. The fulfillment of this promise on the day of Pentecost demonstrated the hidden grace that inspires God's elect.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.3401688680076633,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.15,
+            "commentatorTierSimilarities": [
+                29.42,
+                35.9,
+                34.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pentecostal effusion was a significant representation of the subsequent regeneration work on individuals and the baptism of the whole Church. This marked the beginning of a unique era of spiritual influence. The promise of being baptized with the Holy Ghost not many days hence was given to strengthen their faith. In this baptism, there is no distinction between water and the Spirit. The remarkable fulfillment of this promise on the day of Pentecost revealed the hidden grace that continually inspires God's chosen ones.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.279649395404542,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.14,
+            "commentatorTierSimilarities": [
+                29.11,
+                36.15,
+                34.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pentecostal effusion represented the subsequent work of regeneration on individuals and the common baptism of the whole Church. This marked the beginning of a new spiritual influence, unlike anything before. The promise of being baptized with the Holy Ghost not many days hence was to test and strengthen their faith. There is no distinction between water baptism and the baptism in the Spirit. The remarkable fulfillment of this promise on the day of Pentecost revealed the hidden grace that inspires God's elect.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.273488536865689,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.93,
+            "commentatorTierSimilarities": [
+                28.42,
+                36.81,
+                34.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

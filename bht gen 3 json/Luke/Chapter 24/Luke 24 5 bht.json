@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:23:52",
+    "verseRef": "Luke 24:5",
+    "bestBHT": {
+        "bht": "Why seek the Living One among the dead? They were astonished, not expecting to find the Lord there. His life, His resurrection, was something they had forgotten, but He had spoken about rising on the third day. He is the Living One, the One who has conquered death. He is not to be found among the dead, but among the living, among those who belong to Him and have received the gift of life from Him.",
+        "wordCount": 76,
+        "quoteTokenProportion": 59.57,
+        "qualityScore": 1.7906346486585736,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+        "commentatorTierSimilarities": [
+            16.05,
+            47.26,
+            36.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They call the Lord simply the living,\u2014Him who liveth, as addressed to the women.",
+            "Life, in its highest sense, is His alone.",
+            "Olshausen\u2019s view of a deeper meaning in the words should be borne in mind."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why, c.\u2014Astonishing question! not 'the risen,' but 'the Living One'...and the surprise expressed in it implies an incongruity in His being there at all.\" ",
+            "...implies an incongruity in His being there at all, as if, though He might submit to it, 'it was impossible He should be holden of it'.",
+            "...as if, though He might submit to it, 'it was impossible He should be holden of it'."
+        ],
+        "Philip Schaff": [
+            "Why seek ye the living among the dead?\" ",
+            "Why seek ye one who is living and no longer dead in the place where the dead are looked for.\" ",
+            "Christ is the Living One, as Himself the Life, and this the angel knew; whether he meant to say so or not."
+        ],
+        "Archibald T. Robertson": [
+            "As they were affrighted.",
+            "They had utterly forgotten the prediction of Jesus.",
+            "He would rise on the third day."
+        ],
+        "John Gill": [
+            "why seek ye the living among the dead?",
+            "Christ... was now living, and not to be sought for in a sepulchre.",
+            "Nor is Christ to be found among dead sinners, or lifeless professors, but among living saints, and among the churches of the living God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Why seek the Living One among the dead? They were astonished, not expecting to find the Lord there. His life, His resurrection, was something they had forgotten in their fear and panic. But He had spoken about rising on the third day. He is the Living One, the One who has conquered death. He cannot be held by the grave. He is not to be found among the dead, but among the living, among those who belong to Him and have received the gift of life from Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 58.18,
+            "qualityScore": 1.620451589142668,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.22,
+            "commentatorTierSimilarities": [
+                17.76,
+                46.2,
+                36.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Why seek the Living One among the dead? They were astonished, not expecting to find the Lord there. His life, His resurrection, was something they had forgotten, but He had spoken about rising on the third day. He is the Living One, the One who has conquered death. He cannot be held by the grave. He is not to be found among the dead, but among the living, among those who belong to Him and have received the gift of life from Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 58.82,
+            "qualityScore": 1.7107080928998177,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.22,
+            "commentatorTierSimilarities": [
+                16.18,
+                47.38,
+                36.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Why seek the Living One among the dead? They were astonished, not expecting to find the Lord there. His life, His resurrection, was something they had forgotten, but He had spoken about rising on the third day. He is the Living One, the One who has conquered death. He is not to be found among the dead, but among the living, among those who belong to Him and have received the gift of life from Him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 59.57,
+            "qualityScore": 1.7906346486585736,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                16.05,
+                47.26,
+                36.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The women who went to the tomb were surprised when the angel asked them why they were seeking the living among the dead, calling the Lord the living one. This question implies that it is astonishing for the Living One to be in a place of death. The women had forgotten Jesus' prediction of his resurrection on the third day. The angel's words highlight the incongruity of looking for the Living One among the dead. Christ is the Living One, and he is not to be found among the dead sinners or lifeless professors, but among the living saints and the churches of the living God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.9205871056396668,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+            "commentatorTierSimilarities": [
+                14.5,
+                44.62,
+                40.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel's question to the women, Why seek ye the living among the dead?, reveals the astonishment at the idea of the Living One being in a place of death. The women had forgotten Jesus' prediction of his resurrection, emphasizing that life in its highest sense belongs solely to the Living One. This highlights the incongruity of searching for the Living One among the dead. Christ, as the Living One, cannot be found among dead sinners or lifeless professors, but only among the living saints and the churches of the living God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9782509438437552,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                13.16,
+                44.6,
+                42.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

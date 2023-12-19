@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:01:24",
+    "verseRef": "1 Thessalonians 5:18",
+    "bestBHT": {
+        "bht": "In Christ Jesus, we are called to give thanks in every situation, even in adversity. God's disposition towards us in Christ means that He turns everything to our advantage and welfare, and this is the will of God, always pointing at our salvation. Therefore, we must cultivate a spirit of gratitude by turning away from present troubles and focusing on the faithful character of God. Through rejoicing always, praying without ceasing, and giving thanks in every circumstance of life, we can find joy and trust in His plan.",
+        "wordCount": 89,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 2.0598256795574246,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.83,
+        "commentatorTierSimilarities": [
+            29.14,
+            24.63,
+            46.23
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18. in Christ Jesus] in, as its medium; Christ being the Mediator."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In every thing\u2014even what seems adverse: for nothing is really so.",
+            "See Christ's example.",
+            "'This' refers to all three precepts: rejoice evermore, pray without ceasing, and give thanks in every thing."
+        ],
+        "Albert Barnes": [
+            "We can always find something to be thankful for, and there may be reasons why we ought to be thankful for even those dispensations which appear dark and frowning.",
+            "A man owes a debt of obligation to him for anything which will recall him from his wanderings, and which will prepare him for heaven.",
+            "Could we see all, we should see that we are never placed in circumstances in which there is not much for which we should thank God."
+        ],
+        "Marvin Vincent": [
+            "Will [\u03b8\u03b5\u03bb\u03b7\u03bc\u03b1] . In the sense of requirement. Comp. ch. 1 Thessalonians 4:3."
+        ],
+        "John Calvin": [
+            "God has such a disposition towards us in Christ, that even in our afflictions we have large occasion of thanksgiving.",
+            "For what is fitter or more suitable for pacifying us, than when we learn that God embraces us in Christ so tenderly, that he turns to our advantage and welfare everything that befalls us?",
+            "Let us, therefore, bear in mind, that this is a special remedy for correcting our impatience \u2014 to turn away our eyes from beholding present evils that torment us, and to direct our views to a consideration of a different nature \u2014 how God stands affected towards us in Christ."
+        ],
+        "Philip Schaff": [
+            "In every thing give thanks.",
+            "If we had to name any one thing which seems unaccountably to have fallen out of most men\u2019s practical religion altogether, it would be the duty of thanksgiving.",
+            "To most of us there is hardly a quarter of an hour in our lives more tedious, idle, aimless, unsatisfactory, than what we call our thanksgiving."
+        ],
+        "Archibald T. Robertson": [
+            "There is a silver lining to every cloud.",
+            "God is with us whatever befalls us.",
+            "It is God's will that we find joy in prayer in Christ Jesus in every condition of life."
+        ],
+        "John Gill": [
+            "Thanks should be given to God in every circumstance of life; in adversity, as Job did; when not in so comfortable and agreeable a frame of soul as to be wished for, since it might be worse, and is not black despair; even under the temptations of Satan, since they might be greater and heavier, and since the grace of God is sufficient to bear up under them, and deliver out of them, and since there is such a sympathizing high priest and Saviour; and in afflictions of every kind, since they are all for good, temporal, or spiritual, or eternal.",
+            "For this is the will of God; which may refer either to all that is said from 1 Thessalonians 5:11 to this passage, or particularly to this of giving thanks; which is the revealed and declared will of God, is a part of that good, perfect, and acceptable will of his, and what is well pleasing in his sight, and grateful to him.",
+            "Thanks should be given to God in every circumstance of life; in adversity, as Job did; when not in so comfortable and agreeable a frame of soul as to be wished for, since it might be worse, and is not black despair; even under the temptations of Satan, since they might be greater and heavier, and since the grace of God is sufficient to bear up under them, and deliver out of them, and since there is such a sympathizing high priest and Saviour; and in afflictions of every kind, since they are all for good, temporal, or spiritual, or eternal."
+        ],
+        "John Wesley": [
+            "For this \u2014 That you should thus rejoice, pray, give thanks.",
+            "Is the will of God \u2014 Always good, always pointing at our salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Christ Jesus, we are called to give thanks in every situation, even in the face of adversity. This includes rejoicing always, praying without ceasing, and finding reasons to be grateful in everything that happens to us. We must remember that God has a special disposition towards us in Christ, turning all things to our advantage and welfare. Therefore, we should turn our gaze away from present troubles and focus on how God is with us, embracing us and working all things together for our good. This is the revealed will of God, always pointing at our salvation. So let us cultivate a spirit of gratitude, giving thanks to God in every circumstance of life, for nothing is outside of His control and everything serves a greater purpose.",
+            "wordCount": 128,
+            "quoteTokenProportion": 44.05,
+            "qualityScore": 2.0355690585536275,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.02,
+            "commentatorTierSimilarities": [
+                26.69,
+                27.64,
+                45.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Christ Jesus, we are called to give thanks in every situation, even in adversity. God's disposition towards us in Christ means that He turns everything to our advantage and welfare. This is the will of God, always pointing at our salvation. Thus, we must cultivate a spirit of gratitude, turning away from present troubles and focusing on God's faithfulness. In doing so, we find reasons to rejoice always, pray without ceasing, and give thanks in every circumstance of life, recognizing that everything serves a greater purpose.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.04521254602839,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                29.54,
+                24.88,
+                45.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Christ Jesus, we are called to give thanks in every situation, even in adversity. This is the will of God, always pointing at our salvation. We must cultivate a spirit of gratitude, turning away from present troubles and focusing on God's faithfulness. By doing so, we find reasons to rejoice always, pray without ceasing, and give thanks in every circumstance of life. In all things, we can trust that God embraces us in Christ, turning everything to our advantage and welfare.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.021286624531501,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                28.61,
+                25.73,
+                45.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Christ Jesus, we are called to give thanks in every situation as it is the will of God, always pointing at our salvation. We must cultivate a spirit of gratitude, turning away from present troubles and focusing on God's faithfulness. By rejoicing always, praying without ceasing, and giving thanks in every circumstance of life, we acknowledge that God turns all things to our advantage and welfare. This mindset of gratitude helps us to trust in His plan and find joy in the midst of challenges.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.9441708689418227,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+            "commentatorTierSimilarities": [
+                26.04,
+                27.5,
+                46.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Christ Jesus, we are called to give thanks in every situation, even in adversity. God's disposition towards us in Christ means that He turns everything to our advantage and welfare, and this is the will of God, always pointing at our salvation. Therefore, we must cultivate a spirit of gratitude by turning away from present troubles and focusing on the faithful character of God. Through rejoicing always, praying without ceasing, and giving thanks in every circumstance of life, we can find joy and trust in His plan.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.0598256795574246,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.83,
+            "commentatorTierSimilarities": [
+                29.14,
+                24.63,
+                46.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

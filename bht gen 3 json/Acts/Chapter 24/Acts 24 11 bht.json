@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:36:09",
+    "verseRef": "Acts 24:11",
+    "bestBHT": {
+        "bht": "Paul defends himself against the accusations brought against him by stating that it had only been twelve days since he went up to Jerusalem for the purpose of worship. He asserts that his intention was not to incite sedition, but rather to demonstrate his devotion to God and to honor the temple. Despite the short period of time he spent in Jerusalem, Paul found himself imprisoned for nine days. This defense highlights his commitment to religious observance and his willingness to engage in external worship, even though he understood that holiness was not limited to a specific place.",
+        "wordCount": 98,
+        "quoteTokenProportion": 42.65,
+        "qualityScore": 1.5158110444127653,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+        "commentatorTierSimilarities": [
+            15.54,
+            36.02,
+            48.45
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "that there are yet but twelve days since I went up to Jerusalem\" ",
+            "The remaining period referred to\" ",
+            "for to worship\u2014a very different purpose from that imputed to him"
+        ],
+        "Albert Barnes": [
+            "The first part of Paul\u2019s defense Acts 24:11-13 consists in an express denial of what they alleged against him.",
+            "The defense of Paul here is, that but twelve days elapsed from the time that he went to Jerusalem until he was put under the custody of Felix; and that during so short a time it was wholly improbable that he would have been able to excite sedition.",
+            "That this was his design in going to Jerusalem, or at least a part of his purpose, is indicated by the passage in Acts 20:16."
+        ],
+        "John Calvin": [
+            "Though he came to Jerusalem for some other cause, yet this is always true, that he came with no other mind, but to profess himself to be a worshipper of God, and to approve the holiness of the temple by his worshipping.",
+            "The faithful servants of Christ were not forbidden to worship in the temple, so they did not tie holiness to the place, but did lift up pure hands freely without making choice of places.",
+            "Therefore religion did not compel him to come to Jerusalem according to the appointment of the law, as if the sanctuary were the face of God as in times past; yet he doth not abhor the external worship which was unto men a testimony of godliness."
+        ],
+        "Philip Schaff": [
+            "The \u2018twelve days\u2019 are best reckoned thus: 1st Day. Arrival at Jerusalem; meeting with James, the Lord\u2019s brother, the head of the Christian Church at Jerusalem.",
+            "A good deal of time has been spent, we might even say wasted, in the calculation of these days, and how they were to be reckoned so as to justify the various notes as to time scattered up and down the narrative.",
+            "Nothing depends really on the exact harmony of such a recital. Like the other small chronological and geographical alleged discrepancies in these Acts, it is only the cavilling, hostile spirit seeking to find errors where none really exist, which finds difficulties in this noble and faithful record of the laying the foundation stories of Christianity."
+        ],
+        "Archibald T. Robertson": [
+            "Seeing that thou canst take knowledge (\u03b4\u03c5\u03bd\u03b1\u03bc\u03b5\u03bd\u03bf\u03c5 \u03c3\u03bf\u03c5 \u03b5\u03c0\u03b9\u03b3\u03bd\u03c9\u03bd\u03b1).",
+            "Not more than twelve days (\u03bf\u03c5 \u03c0\u03bb\u03b5\u03b9\u03bf\u03c5\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1 \u03b4\u03c9\u03b4\u03b5\u03ba\u03b1).",
+            "To worship (\u03c0\u03c1\u03bf\u03c3\u03ba\u03c5\u03bd\u03b7\u03c3\u03c9\u03bd)."
+        ],
+        "John Gill": [
+            "that there are yet but twelve days since I went up to Jerusalem for to worship",
+            "And of these twelve days he was a prisoner nine",
+            "in opposition to the charge of profaning the temple, he observes that he came up to Jerusalem to 'worship'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul defends himself against the accusations brought against him by stating that it had only been twelve days since he went up to Jerusalem for the purpose of worship. He asserts that his intention was not to incite sedition, but rather to demonstrate his devotion to God and to honor the temple. Despite the short period of time he spent in Jerusalem, Paul found himself imprisoned for nine days. This defense highlights his commitment to religious observance and his willingness to engage in external worship, even though he understood that holiness was not limited to a specific place.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.5158110444127653,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "commentatorTierSimilarities": [
+                15.54,
+                36.02,
+                48.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul refutes the accusations against him by emphasizing that he went to Jerusalem only twelve days ago with the intention of worshiping God, not to cause unrest. He clarifies that his purpose was to honor the temple and demonstrate his devotion. Despite the brevity of his visit, he was confined for nine days. This defense underscores Paul's commitment to religious observance and his understanding that holiness is not restricted to a particular location.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.3391526433440002,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.87,
+            "commentatorTierSimilarities": [
+                16.02,
+                35.86,
+                48.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul defends himself by pointing out that it had been just twelve days since he went to Jerusalem for the sole purpose of worshiping God. His intention was not to incite rebellion, but to demonstrate his reverence for the temple. Despite the short duration of his visit, Paul was imprisoned for the majority of that time. This explanation highlights his unwavering commitment to his faith and his willingness to participate in external acts of worship, even though he recognized that holiness was not confined to a specific place.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.4098784543418958,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.22,
+            "commentatorTierSimilarities": [
+                14.08,
+                37.44,
+                48.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul defends himself by asserting that it had only been twelve days since his arrival in Jerusalem for the purpose of worshiping God, rather than causing trouble. He clarifies that his intention was to honor the sanctity of the temple and show his devotion. Despite the brief duration of his visit, Paul was kept in custody for a significant part of that time. This defense highlights his unwavering commitment to his faith and his willingness to engage in external acts of worship, knowing that holiness transcends physical locations.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.3192497835053263,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.21,
+            "commentatorTierSimilarities": [
+                12.12,
+                40.14,
+                47.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul refutes the accusations against him by emphasizing that it had only been twelve days since he went to Jerusalem for the purpose of worshiping God. He asserts that his intention was not to incite sedition, but rather to demonstrate his devotion to God and to honor the temple. Despite the short duration of his visit, Paul found himself imprisoned for nine days. This defense highlights his commitment to religious observance and his willingness to engage in external worship, even though he understood that holiness was not limited to a specific place.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.444056837048981,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.36,
+            "commentatorTierSimilarities": [
+                15.66,
+                35.47,
+                48.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

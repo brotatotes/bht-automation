@@ -1,0 +1,84 @@
+# 1 Timothy 2:6 Commentary Help Text
+
+## BHT:
+The Son of God became man, sin only excepted, to serve as our elder brother and redeem us. His sacrifice as a ransom, given with great love, was not only a means of salvation but also a testimony to be proclaimed at the appointed time. This act of redemption, accomplished through the offering of Christ's own body and soul, demonstrates God's desire for the salvation of all, revealing the universal nature of His redeeming work.
+
+## Choicest Commentary Quotes:
+### Jamieson-Fausset-Brown:
+1. "Not only the Father gave Him for us, but the Son gave Himself."
+2. "The Son of God, therefore, became man in order that, being made like unto us in all things, sin only excepted, as our elder brother He should redeem us."
+3. "The oneness of the Mediator, involving the universality of redemption (which faith, however, alone appropriates), was the great subject of Christian testimony."
+
+### Albert Barnes:
+1. "The argument is, that as Christ died for all, it is proper to pray for all, and that the fact that he died for all is proof that God desired the salvation of all."
+2. "Whatever proof of his desire for their salvation can be derived from this in relation to any of the race, is proof in relation to all."
+3. "Paul affirms it as a great and important truth that Christ gave himself a ransom for all mankind - for Jews and Gentiles; for all classes and conditions of people alike."
+
+### Marvin Vincent:
+1. "But neither this nor any of its kindred words is used by Paul. He uses ajpolutrwsiv, but that means the act not the means of redemption."
+2. "Uper does not mean instead of [αντι]. See on Romans 5:6. Any idea of exchange or substitution which may be implied, resides in ajntilutron; but it is pressing that unique word too far to find in it the announcement of a substitutional atonement."
+3. "That is, the gift of Christ as a ransom was to be the substance or import of the testimony which was to be set forth in its proper seasons."
+
+### John Calvin:
+1. "The mention of redemption in this passage is not superfluous; for there is a necessary connection between the two things, the sacrifice of the death of Christ, and his continual intercession." 
+2. "The phrase, for all, which the Apostle had used, might have given rise to the question... He cuts off all ground for that question, by referring to the purpose of God the season for revealing his grace." 
+3. "Shall we accuse God of instability, because he brings forward, at the proper time, what he had always determined, and settled in his own mind?"
+
+### Philip Schaff:
+1. "A ransom for all. The words at once repeat and interpret those which St. Matthew (Matthew 20:28) records as spoken by our Lord Himself." 
+2. "There a ‘ransom’ simply, here ‘a ransom paid as in exchange;’ there ‘ instead of many,’ here ‘ on behalf of all.’" 
+3. "Not limited to the death upon the cross, though culminating in that highest act of self-surrender."
+
+### Archibald T. Robertson:
+1. "A ransom for all... combines both ideas." 
+2. "The testimony... in its due seasons." 
+3. "Αντιλυτρον υπερ combines both ideas."
+
+### John Gill:
+1. "What the Mediator gave as a ransom for men is 'himself', his body and his soul, which were both made an offering for sin; and his life, which is the result of union between soul and body; his whole human nature as in union with his divine person, and so might be truly said to be himself: this he gave into the hands of men, of justice and of death; and that voluntarily, which shows his great love to his people." 
+2. "But the meaning is, either that he gave himself a ransom for many, as in Matthew 20:28 for the Hebrew word כל, to which this answers, signifies sometimes many, a multitude, and sometimes only a part of a multitude." 
+3. "The sum and substance of what is before said is the Gospel, which is a testimony concerning the person, office, and grace of Christ, exhibited in the times of the Messiah, or the Gospel dispensation."
+
+### John Wesley:
+1. "Such a ransom, the word signifies, wherein a like or equal is given; as an eye for an eye, or life for life: and this ransom, from the dignity of the person redeeming, was more than equivalent to all mankind."
+2. "To be testified of in due season — Literally, in his own seasons; those chosen by his own wisdom."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 17:28:08
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 77
+- BHT Commentary Usage: 39.66%
+- BHT Quality Score: 2.0603918168105615
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (58):
+	['a', 'accomplished', 'act', 'all', 'also', 'and', 'appointed', 'as', 'at', 'be', 'became', 'body', 'brother', 'but', 'christ', 'demonstrates', 'desire', 'elder', 'excepted', 'for', 'given', 'god', 'great', 'his', 'love', 'man', 'means', 'nature', 'not', 'of', 'offering', 'only', 'our', 'own', 'proclaimed', 'ransom', 'redeem', 'redeeming', 'redemption', 'revealing', 's', 'sacrifice', 'salvation', 'serve', 'sin', 'son', 'soul', 'testimony', 'the', 'this', 'through', 'time', 'to', 'universal', 'us', 'was', 'with', 'work']
+- ChatGPT injected words (significant words only) (35):
+	['accomplished', 'act', 'appointed', 'body', 'brother', 'christ', 'demonstrates', 'desire', 'elder', 'excepted', 'given', 'god', 'great', 'love', 'man', 'means', 'nature', 'offering', 'proclaimed', 'ransom', 'redeem', 'redeeming', 'redemption', 'revealing', 's', 'sacrifice', 'salvation', 'serve', 'sin', 'son', 'soul', 'testimony', 'time', 'universal', 'work']
+
+### Logs
+- Attempt 1 BHT: The verse emphasizes the profound sacrifice made by Jesus Christ, who willingly gave Himself as a ransom for all of humankind. This act of redemption was not only a means of salvation, but also a testimony that was to be proclaimed at the appointed time. The concept of ransom implies both a substitutional atonement as well as an act of redemption accomplished through the offering of Christ's own body and soul. It is important to note that the mention of redemption in this passage establishes a necessary connection between the sacrifice of Christ's death and His continual intercession on behalf of humanity. This grand act of self-surrender demonstrates God's desire for the salvation of all, emphasizing the universal nature of Christ's redeeming work.
+- 🔄 1 Timothy 2:6 (attempt 1, 128 words, 39.02% quotes quality score: 2.0401129009049823, V2 normalized quality score: 59.17, commentator tiers 1-3: 27.15%, 37.07%, 35.79%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The Son of God became man, sin only excepted, to serve as our elder brother and redeem us. His sacrifice as a ransom, given with great love, was not only a means of salvation but also a testimony to be proclaimed at the appointed time. This act of redemption, accomplished through the offering of Christ's own body and soul, demonstrates God's desire for the salvation of all, revealing the universal nature of His redeeming work.
+- 🔄 1 Timothy 2:6 (attempt 2, 77 words, 39.66% quotes quality score: 2.0603918168105615, V2 normalized quality score: 59.85, commentator tiers 1-3: 31.15%, 34.82%, 34.04%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The Son of God, becoming man, made Himself a ransom for all, signifying the grand act of redemption accomplished through His own body and soul. This act, given willingly and with great love, not only serves as a means of salvation but also as a testimony to be proclaimed at the intended time. The Father's desire for the salvation of all is evident through Christ's self-surrender, emphasizing the universal nature of His redeeming work.
+- 🔄 1 Timothy 2:6 (attempt 3, 77 words, 40.35% quotes quality score: 2.0054540830438645, V2 normalized quality score: 58.02, commentator tiers 1-3: 27.57%, 37.82%, 34.61%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The Son of God, becoming man, gave Himself as a ransom, which was not an act of substitution but an act of redemption. This act, done willingly and with great love, served as a testimony to be set forth at the proper seasons. The ransom given by the Mediator was His whole human nature, his body, soul, and life, all offered as an expression of His love for His people. This act of redemption is a testament to God's desire for the salvation of all.
+- 🔄 1 Timothy 2:6 (attempt 4, 86 words, 43.64% quotes quality score: 1.9388197120180977, V2 normalized quality score: 55.81, commentator tiers 1-3: 29.74%, 33.83%, 36.43%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The Son of God gave Himself as a ransom, not as a means of substitutional atonement, but as an act of redemption. His act served as a testimony to be proclaimed at the appointed time, demonstrating God's desire for the salvation of all. The ransom given by the Mediator was His whole human nature, His body, soul, and life, emphasizing the immense love He holds for His people. This profound act of redemption reveals the universal nature of Christ's redeeming work.
+- 🔄 1 Timothy 2:6 (attempt 5, 83 words, 35.71% quotes quality score: 1.9943216354370334, V2 normalized quality score: 57.65, commentator tiers 1-3: 28.55%, 34.69%, 36.75%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Timothy 2:6 bht prompt v0.8 (77 words, 39.66% quotes)
+- quality score: 2.0603918168105615, V2 normalized quality score: 59.85, commentator tiers 1-3: 31.15%, 34.82%, 34.04%)

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:16:09",
+    "verseRef": "Galatians 3:6",
+    "bestBHT": {
+        "bht": "Abraham obtained justification by the hearing of faith. His faith in God's promise to become the father of many nations was reckoned as righteousness, revealing that salvation comes through faith, not by works. Paul and James draw different episodes from Abraham's life to support their arguments. This demonstrates the significance of Abraham as the father of the faithful. The emphasis lies on Abraham's belief and trust in God, as faith embraces the certain and undeserved goodness of God. By embracing the preaching of faith, we are justified by faith alone.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 2.4983249585698797,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.41,
+        "commentatorTierSimilarities": [
+            34.68,
+            27.7,
+            37.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reply to the foregoing question is understood: it is by the hearing of faith.",
+            "And then enters the thought of God\u2019s working as following upon Abraham\u2019s faith.",
+            "The fact of justification being now introduced, whereas before the supplying the Spirit was the matter enquired of, is no real departure from the subject, for both these belong to the 'beginning' of ver. 3,\u2014are concomitant and inseparable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God supplies unto you the Spirit as the result of faith, not works.",
+            "Abraham obtained justification by faith, not by works.",
+            "Where justification is, there the Spirit is, so that if the former comes by faith, the latter must also."
+        ],
+        "Albert Barnes": [
+            "The most eminent of the patriarchs was not saved by the deeds of the Law.\" ",
+            "He was saved by faith, and this fact showed that it was possible to be saved in that way.",
+            "This instance demonstrated that the false teachers among the Galatians were wrong even according to the Old Testament."
+        ],
+        "Marvin Vincent": [
+            "The spiritual gifts come through the message of faith, even as Abraham believed, etc.",
+            "Believed God's promise that he should become the father of many nations.",
+            "His faith was reckoned as righteousness - as something which it really was since all possibilities of righteousness are included in faith."
+        ],
+        "John Calvin": [
+            "Faith does not mean any kind of conviction which men may have of the truth of God; for... Abraham was justified by believing, because... he embraced [the promise] as certain.\" ",
+            "We are said to be 'justified by faith,' not because faith infuses into us a habit or quality, but because we are accepted by God.\" ",
+            "All merit of works is... excluded from being the cause of justification, when the whole is ascribed to faith... For faith, \u2014 so far as it embraces the undeserved goodness of God... is universally contrasted with the law, with the merit of works, and with human excellence."
+        ],
+        "Philip Schaff": [
+            "The only reply the Galatians could make to the foregoing question was: \u2018By the preaching of faith.\u2019",
+            "Taxing this for granted, Paul proceeds (as in Romans 4:1) to give the historical and scriptural proof from the example of Abraham, the father of the faithful.",
+            "The emphasis lies on believed, i.e., trusted in God."
+        ],
+        "Archibald T. Robertson": [
+            "He quotes Genesis 15:6 and uses it at length in Romans 4:3 to prove that the faith of Abraham was reckoned 'for' righteousness before he was circumcised.\" ",
+            "James (James 2:23) quotes the same passage as proof of Abraham's obedience to God in offering up Isaac (beginning to offer him).",
+            "Paul and James are discussing different episodes in the life of Abraham. Both are correct."
+        ],
+        "John Gill": [
+            "Abraham was justified by faith, and not by any works whatever, much less by circumcision.",
+            "The object of faith is God, Father, Son, and Spirit.",
+            "Faith and righteousness are two distinct things, and are often distinguished one from another in Scripture."
+        ],
+        "John Wesley": [
+            "Doubtless in confirmation of that grand doctrine, that we are justified by faith, even as Abraham was.",
+            "The Apostle, both in this and in the epistle to the Romans, makes great use of the instance of Abraham.",
+            "The rather, because from Abraham the Jews drew their great argument, as they do this day, both for their own continuance in Judaism, and for denying the gentiles to be the church of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By the hearing of faith, Abraham obtained justification and the promise that he would become the father of many nations. His faith was reckoned as righteousness, as it embraced the certain and undeserved goodness of God. This example demonstrates that salvation comes through faith, not works, and disproves the false teachers among the Galatians who claimed otherwise. Both Paul and James refer to different episodes in the life of Abraham to support their arguments, which highlights the significance of Abraham as the father of the faithful. The emphasis lies on Abraham's belief and trust in God. We are justified by faith, through the preaching of faith, as God's promise is embraced and accepted.",
+            "wordCount": 115,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.545213761714799,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.97,
+            "commentatorTierSimilarities": [
+                32.91,
+                29.78,
+                37.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham obtained justification by the hearing of faith. His faith in God's promise to become the father of many nations was reckoned as righteousness, revealing that salvation comes through faith, not by works. Paul and James draw different episodes from Abraham's life to support their arguments. This demonstrates the significance of Abraham as the father of the faithful. The emphasis lies on Abraham's belief and trust in God, as faith embraces the certain and undeserved goodness of God. By embracing the preaching of faith, we are justified by faith alone.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.4983249585698797,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.41,
+            "commentatorTierSimilarities": [
+                34.68,
+                27.7,
+                37.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham obtained justification by the hearing of faith, not by works. His faith in God's promise to become the father of many nations was reckoned as righteousness. This example of Abraham demonstrates that salvation comes through faith, proving the false teachers among the Galatians wrong. Both Paul and James refer to different episodes in Abraham's life, emphasizing his belief and trust in God. The preaching of faith allows us to be justified by faith, as we embrace the certain and undeserved goodness of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.6588890619562147,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.75,
+            "commentatorTierSimilarities": [
+                34.08,
+                28.51,
+                37.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abraham obtained justification by faith, not by works, as his belief in God's promise was reckoned as righteousness. This showcases that salvation is attained through faith, rather than through our efforts. The example of Abraham discredits the false teachers among the Galatians, confirming the possibility of being saved by faith according to the Old Testament. Both Paul and James refer to different episodes in Abraham's life, serving as evidence of his trust and belief in God. The preaching of faith allows us to be justified, as we embrace God's certain and undeserved goodness.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.6134291288964144,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.24,
+            "commentatorTierSimilarities": [
+                32.25,
+                30.42,
+                37.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham's justification was by faith, not works, as his belief was counted as righteousness. This exemplifies that salvation is attained through faith alone, invalidating the false teachers among the Galatians who advocated otherwise. Both Paul and James use different episodes from Abraham's life to support their arguments, underlining his belief and trust in God. Justification through faith rests on embracing God's certain and undeserved goodness. The preaching of faith leads us to be justified, as we accept God's promise.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.583760736341916,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.25,
+            "commentatorTierSimilarities": [
+                32.32,
+                29.62,
+                38.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

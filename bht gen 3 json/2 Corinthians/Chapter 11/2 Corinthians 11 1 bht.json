@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:17:59",
+    "verseRef": "2 Corinthians 11:1",
+    "bestBHT": {
+        "bht": "I wish you would bear with me a little in my foolishness. Although you already do bear with me, I ask for your further patience in my self-commendations. My boasting may seem like imprudent and even wicked folly, but it is a legitimate self-vindication demanded by the circumstances. I openly and freely command you to bear with me in this proclamation of my praises, as it is necessary for me to address the opposition I have faced from false apostles.",
+        "wordCount": 82,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 2.1429840770997837,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.59,
+        "commentatorTierSimilarities": [
+            30.66,
+            36.23,
+            33.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Indeed you do bear with me. The indicative is much better than the imperative rendering.",
+            "He says it, to show them that he does not express the wish as supposing them void of tolerance for his weakness.",
+            "But as having experienced some at their hands, and now requiring more."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I would that...I may ask not unreasonably to be borne with; not so the false apostles.",
+            "The Greek for 'folly' here implies imprudence; the Greek for 'foolishness' includes the idea of perversity and wickedness.",
+            "But indeed (I need not wish it, for) ye do bear with me; still I wish you to bear with me further, while I enter at large into self-commendations."
+        ],
+        "Albert Barnes": [
+            "O that, I earnestly wish.",
+            "That you would hear me patiently, and suffer me to speak of myself.",
+            "I ask your indulgence in it."
+        ],
+        "Marvin Vincent": [
+            "Folly. As my boasting may seem to you.",
+            "Ironically spoken of that legitimate self-vindication demanded by the circumstances.",
+            "Bear with me [\u03b1\u03bd\u03b5\u03c7\u03b5\u03c3\u03b8\u03b5]. Some render as indicative: ye do bear with me."
+        ],
+        "John Calvin": [
+            "He gives the name of folly to that splendid proclamation of his praises, which afterwards follows.",
+            "Not as if he were a fool in glorying; for he was constrained to it by necessity, and besides, he restrained himself in such a manner, that no one could justly regard him as going beyond bounds.",
+            "By saying, 'Would that, etc.,' he had seemed to be distrustful; now, as if correcting that hesitation, he openly and freely commands."
+        ],
+        "Philip Schaff": [
+            "Would that ye could bear with me in a little foolishness.\" ",
+            "Nay indeed bear with me.\" ",
+            "But indeed ye do bear with me."
+        ],
+        "Archibald T. Robertson": [
+            "Would that ye could bear with me...Bear with me.\" ",
+            "In a little foolishness.",
+            "Some little foolishness."
+        ],
+        "John Gill": [
+            "Would to God you could bear with me a little.\" ",
+            "Bear with me a little in my folly, and indeed bear with me.\" ",
+            "But also ye do bear with me."
+        ],
+        "John Wesley": [
+            "I wish ye would bear... So does he pave the way for what might otherwise have given offence.",
+            "With my folly... which to many may appear folly; and really would be so, were it not on this occasion absolutely necessary."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I wish you would bear with me a little in my foolishness, although you already do bear with me. I say this not because I think you lack tolerance for my weakness, but because I have experienced opposition from false apostles and now need your further patience. My boasting may seem like folly to you, but it is a legitimate self-vindication demanded by the circumstances. I ask for your indulgence and understanding as I openly and freely command you to bear with me in my self-commendations. This proclamation of my praises may be seen as imprudent and even wicked, but it is necessary and I wish you could bear with me a little longer.",
+            "wordCount": 116,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 2.0859451072741333,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+            "commentatorTierSimilarities": [
+                31.75,
+                35.33,
+                32.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I wish you would bear with me a little in my foolishness. Although you already do bear with me, I ask for your further patience in my self-commendations. My boasting may seem like imprudent and even wicked folly, but it is a legitimate self-vindication demanded by the circumstances. I openly and freely command you to bear with me in this proclamation of my praises, as it is necessary for me to address the opposition I have faced from false apostles.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.1429840770997837,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.59,
+            "commentatorTierSimilarities": [
+                30.66,
+                36.23,
+                33.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I wish you would bear with me a little in my foolishness. Although you already bear with me, I ask for further patience as I commend myself. My boasting may seem imprudent and wicked, but it is necessary in these circumstances. I openly command you to bear with me in this proclamation of my praises, addressing the false apostles' opposition I have faced.",
+            "wordCount": 63,
+            "quoteTokenProportion": 55.32,
+            "qualityScore": 2.097480423727029,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.08,
+            "commentatorTierSimilarities": [
+                28.98,
+                38.82,
+                32.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Indeed, I need your patience as I begin to express some self-commendations. The Greek word used for folly here implies both imprudence and perversity, but I speak ironically of the legitimate self-vindication I am forced to engage in. I wish that you could bear with me in this little bit of foolishness. It may seem like boasting to some, but I am constrained by necessity and have restrained myself to ensure that I do not go beyond bounds. By saying would that, I am expressing my earnest desire for you to indulge me in this. May you bear with me as I speak of myself.",
+            "wordCount": 107,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 2.0157785498125103,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                29.26,
+                39.55,
+                31.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Indeed, I wish that you could bear with me in my self-commendations. The Greek word for folly implies both imprudence and perversity, but I am speaking ironically about the legitimate self-vindication I am compelled to engage in. I ask for your patience and understanding as I embark on this seemingly foolish endeavor. Although it may appear as boasting to some, I assure you that it is necessary under the circumstances. Please bear with me as I share my thoughts about myself.",
+            "wordCount": 83,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.9150324858163321,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                29.36,
+                37.72,
+                32.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

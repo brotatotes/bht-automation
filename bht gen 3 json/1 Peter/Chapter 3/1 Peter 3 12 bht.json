@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:39:25",
+    "verseRef": "1 Peter 3:12",
+    "bestBHT": {
+        "bht": "The eyes of the Lord are upon the righteous, showing His favorable regard and constant protection. Conversely, the face of the Lord is upon those who do evil, indicating His close observation to prevent harm to His people. This truth brings solace and security, knowing that the Lord watches over His faithful ones, answering their prayers. Even amidst adversity, the knowledge of God's vigilant care offers reassurance, reminding us that help will be provided in due time.",
+        "wordCount": 78,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 2.371782788578626,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.2,
+        "commentatorTierSimilarities": [
+            34.04,
+            33.27,
+            32.69
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The eyes of the Lord are upon righteous men, and His ears unto their supplication.\" ",
+            "The face of the Lord is upon men doing evil things."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Lord's eyes are ever over them for good.",
+            "The face of the Lord upon them that do evil, implies that He narrowly observes them, so as not to let them really and lastingly hurt His people.",
+            "The eyes imply favorable regard; the face of the Lord upon them that do evil, implies that He narrowly observes them."
+        ],
+        "Albert Barnes": [
+            "For the eyes of the Lord are over the righteous...he is their Protector.\" ",
+            "But the face of the Lord is against them that do evil...denoting disapprobation, and a determination to punish them.\" ",
+            "God protects the righteous...often, we have no reason to doubt, in answer to their prayers."
+        ],
+        "John Calvin": [
+            "It ought to be a consolation to us, sufficient to mitigate all evils, that we are looked upon by the Lord, so that he will bring us help in due time.",
+            "Thus in vain we shall be taught patience, except our minds are first imbued with this truth, that God exercises such care over us, that he will in due time succor us.",
+            "But it ought to be especially observed, that the promises as to this life do not extend further than as to what is expedient for us to be fulfilled."
+        ],
+        "Philip Schaff": [
+            "This blameless, patient, beneficent, and peaceable manner of life, which has been recommended as containing the secret of all gladness in one\u2019s life, and all goodness in one\u2019s days, is further urged on the ground of God\u2019s observant interest in our life.\" ",
+            "He keeps the righteous ever within the loving vision of His eye and gracious hearing of His ear.",
+            "It is enough for the righteous to know that God\u2019s eye is upon the evil, and the knowledge of this adds to their own sense of security in the midst of enemies."
+        ],
+        "Archibald T. Robertson": [
+            "In the case of righteous for their good.",
+            "The face of the Lord is not for their good.",
+            "The face of the Lord is not for their good."
+        ],
+        "John Gill": [
+            "For the eyes of the Lord are over the righteous... his eyes of omniscience, love, care, and protection, are always upon them.\" ",
+            "His ears are open to their prayers; he is a God hearing prayer, and his righteous ones have his ear.\" ",
+            "The face of the Lord is against them that do evil... the consequence of it is everlasting destruction from the presence of the Lord, and from the glory of his power."
+        ],
+        "John Wesley": [
+            "The eyes of the Lord are over the righteous \u2014 For good. Anger appears in the whole face; love, chiefly in the eyes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes how the Lord's attention is focused on the righteous, constantly watching over them with love, care, and protection. This attentiveness brings comfort and security, knowing that God's eyes are always upon them, ready to answer their prayers. On the other hand, the face of the Lord is set against those who do evil, observing them narrowly to prevent any lasting harm to his people. This knowledge of God's vigilant regard for the righteous adds to their sense of safety in the midst of enemies. Thus, it is consoling to know that the Lord watches over us and will bring help when needed.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.344006307309545,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.28,
+            "commentatorTierSimilarities": [
+                32.61,
+                35.54,
+                31.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's attentive gaze is fixed upon the righteous, ensuring their well-being and answering their supplications. This loving regard serves as a source of consolation, providing solace amidst adversity. Conversely, the Lord's watchful eye is upon those who engage in wickedness, restraining their ability to cause lasting harm to His people. The knowledge of God's constant vigilance over the righteous instills a profound sense of security, allowing them to rest assured that help will be provided when needed.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.139586059597235,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.48,
+            "commentatorTierSimilarities": [
+                31.2,
+                35.58,
+                33.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord's eyes are ever upon the righteous, with a favorable regard for their well-being and a readiness to answer their prayers. His face, however, is turned against those who engage in evil, implying His close observation and a determination to punish them. The knowledge of God's watchful gaze over the righteous offers reassurance and security in the face of enemies. It is a comforting truth that the Lord's attentive care extends to His people, providing help in due time.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.312631068758468,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.24,
+            "commentatorTierSimilarities": [
+                33.01,
+                34.14,
+                32.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord's eyes are ever over the righteous for their good, attentively observing them with favor and ready to answer their prayers. Conversely, the face of the Lord is upon those who do evil, indicating His close scrutiny to prevent them from truly hurting His people. This understanding of God's watchful regard for the righteous instills a sense of security in the midst of adversaries. It is a comforting assurance that the Lord's attentive care ensures that help will be given when it is needed.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.308102156346475,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.08,
+            "commentatorTierSimilarities": [
+                34.57,
+                32.8,
+                32.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The eyes of the Lord are upon the righteous, showing His favorable regard and constant protection. Conversely, the face of the Lord is upon those who do evil, indicating His close observation to prevent harm to His people. This truth brings solace and security, knowing that the Lord watches over His faithful ones, answering their prayers. Even amidst adversity, the knowledge of God's vigilant care offers reassurance, reminding us that help will be provided in due time.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.371782788578626,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.2,
+            "commentatorTierSimilarities": [
+                34.04,
+                33.27,
+                32.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

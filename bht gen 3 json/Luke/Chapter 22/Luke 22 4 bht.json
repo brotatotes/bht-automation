@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:22:43",
+    "verseRef": "Luke 22:4",
+    "bestBHT": {
+        "bht": "The leaders of the temple guards, referred to as the captains, were consulted in the plot against Jesus. The money promised for this treachery was not paid at that moment, but later on. These captains were ecclesiastical figures overseeing the guards who kept watch at the temple each night. Judas, aware of their gathering, approached them secretly to discuss his plan to betray Jesus, avoiding any disruption.",
+        "wordCount": 67,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.786535800102807,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+        "commentatorTierSimilarities": [
+            44.23,
+            0.0,
+            55.77
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Levitical guard of the temple would be consulted because it had been of late especially in the temple that our Lord had become obnoxious to them.",
+            "The words covenanted and promised here seem clearly to imply that the money was not now paid, but afterwards, when the treachery was accomplished.",
+            "The concluding words of the verse may bear either the meaning in the text or that in the margin."
+        ],
+        "Marvin Vincent": [
+            "Captains [\u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03bf\u03b9\u03c2] . The leaders of the temple - guards. Compare Acts 4:1."
+        ],
+        "Archibald T. Robertson": [
+            "He went off under the impulse of Satan and after the indignation over the rebuke of Jesus at the feast in Simon's house.",
+            "Leaders of the temple guards.",
+            "The same construction as in verse Luke 22:2, the article \u03c4\u03bf with the indirect question and deliberative subjunctive second aorist active."
+        ],
+        "John Gill": [
+            "These captains were not Roman officers, or soldiers, but ecclesiastical persons, who presided in the temple, and were heads and governors...\" ",
+            "Whence it does not appear to me, that there were heads or captains over every ward, as Dr. Lightfoot suggests, but one over them all.\" ",
+            "Judas it seems was informed where, and upon what they were met together, and he went to them, and conversed with them: how he might betray him unto them; in the most secret manner, and with, the least noise and disturbance."
+        ],
+        "John Wesley": [
+            "Captains \u2014 Called captains of the temple, Luke 22:52. They were Jewish officers, who presided over the guards which kept watch every night in the temple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the leaders of the temple guards, known as the captains (\u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03bf\u03b9\u03c2), were consulted in order to plot against Jesus. It is evident from the wording used that the money promised as payment for the treachery had not yet been paid. These captains, who presided over the guards that kept watch every night in the temple, were not Roman officers but ecclesiastical figures. Judas, informed of their gathering, went to them quietly to discuss how he could betray Jesus without causing a disturbance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.7754362832140462,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                41.72,
+                0.0,
+                58.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The leaders of the temple guards, referred to as the captains, were consulted in the plot against Jesus. The money promised for this treachery was not paid at that moment, but later on. These captains were ecclesiastical figures overseeing the guards who kept watch at the temple each night. Judas, aware of their gathering, approached them secretly to discuss his plan to betray Jesus, avoiding any disruption.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.786535800102807,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                44.23,
+                0.0,
+                55.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The leaders of the temple guards, known as the captains (\u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03bf\u03b9\u03c2), were consulted in order to plot against Jesus. It is evident from the wording used that the money promised as payment for the treachery had not yet been paid. These captains, who presided over the guards that kept watch every night in the temple, were not Roman officers but ecclesiastical figures. Judas, informed of their gathering, went to them quietly to discuss how he could betray Jesus without causing a disturbance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.7709120021735094,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "commentatorTierSimilarities": [
+                41.25,
+                0.0,
+                58.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The leaders of the temple guards, called the captains (\u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03bf\u03b9\u03c2), were consulted to plan against Jesus. The promised payment had not been made yet, indicating a future transaction. These captains, overseeing the nightly temple watch, were not Roman officers, but religious authorities. Judas, aware of their meeting, quietly approached them to discuss his secretive betrayal of Jesus, aiming to keep it discreet.",
+            "wordCount": 62,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.637604536407715,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                42.67,
+                0.0,
+                57.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The captains, leaders of the temple guards, were consulted in the plot against Jesus. The money promised for the betrayal had not yet been paid. These captains were ecclesiastical figures overseeing the guards who watched over the temple at night. Judas, informed of their gathering, discreetly approached them to discuss how he could betray Jesus without causing a disturbance.",
+            "wordCount": 59,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 1.7387879413576577,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "commentatorTierSimilarities": [
+                44.13,
+                0.0,
+                55.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

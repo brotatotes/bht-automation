@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:34:15",
+    "verseRef": "Acts 20:22",
+    "bestBHT": {
+        "bht": "Paul was bound in his spirit, strongly urged by the influences of the Holy Spirit on his mind. He felt an internal pressure, unattended with detailed knowledge of what awaited him in Jerusalem. This sense of duty, guided by the Holy Spirit, shaped his apostolic course. He was so persuaded of the rightness of his mission that no danger or urgent entreaties could deter him. Paul committed his way unto God, knowing that faithful duty would lead to a favorable outcome, despite the trials that lay ahead.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9990449470698428,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+        "commentatorTierSimilarities": [
+            28.24,
+            39.84,
+            31.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How he was bound in the spirit, is manifest, by comparing other passages, where the Holy Spirit of God is related to have shaped his apostolic course.",
+            "He was bound, by the Spirit of God leading captive, constraining, his own spirit.",
+            "He had no detailed knowledge of futurity\u2014nothing but what the Holy Spirit, in general forewarnings, repeated at every point of his journey (city by city; see ch. xxi. 4, 11, for two such instances), announced, viz. imprisonment and tribulations."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I\" is emphatic here.",
+            "This internal pressure, unattended with any knowledge of \"what was to befall him there,\" was the result of that higher guidance which shaped all his movements."
+        ],
+        "Albert Barnes": [
+            "Bound in the spirit - Strongly urged or constrained by the influences of the Holy Spirit on my mind.",
+            "When we are strongly urged by the convictions of duty, by the influences of the Holy Spirit, we should not shrink from danger or from death.",
+            "We should commit our way unto God, not knowing what trials may be before us in life; but knowing that, if we are found faithful at the post of duty, we have nothing to fear in the result."
+        ],
+        "John Calvin": [
+            "For we know how readily men degenerate from pure institution.",
+            "But though he deny that he doth know what shall befall him at Jerusalem, yet because he was taught by many prophecies that bonds were prepared for him there, as if he were now ready to die, he cutteth off shortly after the hope of his return.",
+            "And he doth not only mean that he took in hand his journey for a good cause, which the Spirit of God showeth him, but that it is altogether necessary for him, because it is wickedness to resist."
+        ],
+        "Philip Schaff": [
+            "Urged by an intense sense of duty, Paul was going up to the Holy City.",
+            "He was so persuaded that this was right, that no prospect of danger deterred him, no urgent affectionate entreaties moved him from his purpose.",
+            "He only knew that some terrible trial certainly awaited him in that city. The Holy Ghost in some mysterious way had forewarned him of this."
+        ],
+        "Archibald T. Robertson": [
+            "Bound in my spirit\" he means, as in Acts 19:21, from a high sense of duty.",
+            "His own spirit was under the control of the Holy Spirit (Romans 8:16) and the sense does not differ greatly. ",
+            "One of the rare instances of the future participle in the N.T."
+        ],
+        "John Gill": [
+            "He was resolved and determined in his own mind, within himself, or he purposed in his spirit, to go to Jerusalem.",
+            "He was under such a strong impulse of the Spirit of God, by which he was moved to such a vehement desire to go thither, that the bonds and afflictions he saw waited for him there, could not deter him.",
+            "He only in general knew that bonds and afflictions would be his lot and portion, and which therefore he excepts in the next verse."
+        ],
+        "John Wesley": [
+            "Bound by the Spirit \u2014 Strongly impelled by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul was bound in his spirit, feeling a strong sense of duty and being urged by the influences of the Holy Spirit. Although he did not have specific knowledge of what would happen to him in Jerusalem, he was internally compelled by the higher guidance shaping his every move. Nothing could deter him, not even the prospect of danger or tribulations. Paul's unwavering commitment to his mission was fueled by an intense conviction that this was the right path to take, even though he knew some terrible trial awaited him. Despite the uncertainty, he entrusted his way to God, knowing that if he remained faithful at his post of duty, he had nothing to fear in the ultimate outcome.",
+            "wordCount": 120,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.8707103615441942,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.54,
+            "commentatorTierSimilarities": [
+                24.09,
+                42.11,
+                33.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul was bound in his spirit, strongly urged by the influences of the Holy Spirit on his mind. He felt an internal pressure, unattended with detailed knowledge of what awaited him in Jerusalem. This sense of duty, guided by the Holy Spirit, shaped his apostolic course. He was so persuaded of the rightness of his mission that no danger or urgent entreaties could deter him. Paul committed his way unto God, knowing that faithful duty would lead to a favorable outcome, despite the trials that lay ahead.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9990449470698428,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                28.24,
+                39.84,
+                31.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul was bound in his spirit, constrained by the Holy Spirit, and driven by an intense sense of duty. Although he did not have detailed knowledge of what awaited him in Jerusalem, he knew that imprisonment and tribulations were certain. Despite the potential dangers, Paul remained resolute and determined, unwavering in his commitment to go to Jerusalem. His unwavering conviction demonstrated his trust in God and his willingness to face whatever trials may come in order to faithfully fulfill his mission.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8409469229772037,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                25.39,
+                37.6,
+                37.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's spirit was bound and compelled by the influence of the Holy Spirit, fueling his sense of duty. Though unaware of the specific circumstances awaiting him in Jerusalem, Paul was certain that imprisonment and afflictions loomed ahead. Despite the unknown, Paul's resolute determination remained steadfast, as he was driven by an intense conviction and unwavering commitment to fulfill his mission. He entrusted his path to God, knowing that faithful obedience would lead him through any trials he may encounter.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.9002369440502396,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.52,
+            "commentatorTierSimilarities": [
+                25.74,
+                38.23,
+                36.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's spirit was bound and constrained by the Holy Spirit, urging him to embrace his duty. Although he lacked detailed knowledge of what awaited him in Jerusalem, he was certain that imprisonment and tribulations awaited him. Undeterred by the potential dangers, Paul remained resolute in his conviction, unwavering in his commitment to go to Jerusalem. Trusting in God, he embarked on this path, knowing that faithful obedience would guide him through whatever trials lay ahead.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9145915703898448,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+            "commentatorTierSimilarities": [
+                25.58,
+                37.04,
+                37.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

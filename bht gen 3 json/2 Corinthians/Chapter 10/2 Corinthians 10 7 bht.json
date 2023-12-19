@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:17:54",
+    "verseRef": "2 Corinthians 10:7",
+    "bestBHT": {
+        "bht": "If anyone claims to belong to Christ, they should consider this once again in their own mind. Just as Paul belongs to Christ, so do we. Let us not focus on mere outward appearance, but rather recognize that even in his personal presence, Paul will demonstrate the true authority of Christ. Let each individual think this for themselves, understanding that Paul humbly asserts his equal standing as a servant of Christ, not demanding superiority over those he brought to the Gospel.",
+        "wordCount": 81,
+        "quoteTokenProportion": 53.12,
+        "qualityScore": 2.0230268347093903,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+        "commentatorTierSimilarities": [
+            37.21,
+            32.44,
+            30.34
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If any one believeth himself to belong to Christ, let him reckon this again out of his own mind.",
+            "That as he is Christ\u2019s, so also are we.",
+            "Such, and no less, is mine."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Do ye regard mere outward appearance...? Even in outward bearing when I shall be present with you I will show that I am more really armed with the authority of Christ\" (2 Corinthians 10:7). ",
+            "Let him of himself think this again\u2014that even as... Paul modestly demands for himself only an equal place with those whom he had begotten in the Gospel\" (2 Corinthians 10:7)."
+        ],
+        "Albert Barnes": [
+            "There can be no doubt that they valued themselves on their external advantages, and laid claim to special honor in the work of the ministry, because they were superior in personal appearance, in rank, manners, or eloquence to Paul.",
+            "It is not an uncommon thing for people to have such confidence in their own gifts, and particularly in a power of fluent speaking, as to suppose that this is a sufficient evidence that they are sent to preach the gospel.",
+            "That I have given as much evidence that I am commissioned by Christ as they can produce. It may be of a different kind. It is not in eloquence. and rank, and the gift of a rapid and ready elocution, but it may be superior to what they are able to produce."
+        ],
+        "John Calvin": [
+            "You greatly esteem others who swell out with mighty airs of importance, while you look down upon me, because I have nothing of show and boasting.",
+            "For what reason? 'Let him, ' says he, 'think for himself, for whatever things he may have in himself, that make him worthy of such an honor, the same will he find in me.'",
+            "Whoever they might be that reviled him, ought not to be looked upon as the servants of Christ."
+        ],
+        "Philip Schaff": [
+            "Do ye look at things after the outward appearance?\" ",
+            "Let those who set themselves up among you as the special servants of Christ, and supporters of His cause, say what claims they have to this character that are wanting in me; rather, let them evidence their claims by recognising mine.",
+            "The repetition of the word 'Christ's' in the received text is clearly wrong."
+        ],
+        "Archibald T. Robertson": [
+            "Ye look (\u0392\u03bb\u03b5\u03c0\u03b5\u03c4\u03b5). Either indicative or imperative. Either makes sense but the indicative the best sense.",
+            "Before your face (\u03ba\u03b1\u03c4\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bd). They ought to look below the surface. If it is imperative, they should see the facts.",
+            "That he is Christ's (\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5 \u03b5\u03b9\u03bd\u03b1). Predicate genitive in indirect discourse)."
+        ],
+        "John Gill": [
+            "So many judged of Paul by the meanness of his person, the weakness of his body, the lowness of his voice, his outward circumstances of life, his poverty, afflictions, and persecutions; and despised him.",
+            "Let a man be ever so confident of his being a true minister of the Gospel, he will not be able to point out one criterion or proof of his being so, but what he might discern in the Apostle Paul, and the rest of his fellow ministers.",
+            "In which may be observed the great modesty of the apostle, who does not go about to disprove others being Christ's, who so confidently boasted of it; nor bid them look to it to see if they were or not, since all that say so are not; only as if granting that they were, he would have them look upon him, and his fellow apostles as such also, who had at least equal pretensions to this character."
+        ],
+        "John Wesley": [
+            "Do ye look at the outward appearance of things.\" ",
+            "Let him again think this of himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If anyone claims to belong to Christ, they should consider this again in their own understanding. Just as Paul asserts that he is Christ's, so too can we confidently say the same about ourselves. Those who are fixated on outward appearances may question Paul's authority, but when he is present among them, he will show that he is truly commissioned by Christ. Let them ponder this and recognize that Paul, with all his sincerity and diligence, deserves to be regarded as an equal in his apostolic ministry.",
+            "wordCount": 89,
+            "quoteTokenProportion": 60.87,
+            "qualityScore": 2.00784022304847,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.1,
+            "commentatorTierSimilarities": [
+                34.48,
+                33.59,
+                31.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If anyone believes themselves to be in Christ, let them reckon this within themselves. As Paul confidently declares his belonging to Christ, so can we. Those who judge by outward appearances may question Paul's authority, but when he is present among them, he will demonstrate that he is truly empowered by Christ. Let them reconsider and acknowledge that Paul, through his words and actions, deserves to be regarded as an equal in his ministry for Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.9887589966660466,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                34.83,
+                32.87,
+                32.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If anyone claims to belong to Christ, they should consider this once again in their own mind. Just as Paul belongs to Christ, so do we. Let us not focus on mere outward appearance, but rather recognize that even in his personal presence, Paul will demonstrate the true authority of Christ. Let each individual think this for themselves, understanding that Paul humbly asserts his equal standing as a servant of Christ, not demanding superiority over those he brought to the Gospel. Look beyond the surface and see the reality that we all belong to Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 53.52,
+            "qualityScore": 1.9851510571618007,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                37.9,
+                31.81,
+                30.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If anyone claims to belong to Christ, they should consider this once again in their own mind. Just as Paul belongs to Christ, so do we. Let us not focus on mere outward appearance, but rather recognize that even in his personal presence, Paul will demonstrate the true authority of Christ. Let each individual think this for themselves, understanding that Paul humbly asserts his equal standing as a servant of Christ, not demanding superiority over those he brought to the Gospel.",
+            "wordCount": 81,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.0230268347093903,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+            "commentatorTierSimilarities": [
+                37.21,
+                32.44,
+                30.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If anyone claims to belong to Christ, they should ponder this once again in their own mind. Paul asserts his belonging to Christ, and he expects the same from others. Instead of judging based on outward appearance, Paul will show in person that he carries the authority of Christ. So, each person should reflect on this, recognizing that Paul only seeks to be regarded as equal to those he has brought to the Gospel. Don't be superficial, but truly acknowledge that we all belong to Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.9293182381936071,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.49,
+            "commentatorTierSimilarities": [
+                35.8,
+                31.85,
+                32.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

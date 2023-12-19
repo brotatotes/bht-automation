@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:22:27",
+    "verseRef": "Luke 21:1",
+    "bestBHT": {
+        "bht": "In the midst of His disciples and the multitude, Jesus lifts His eyes and sees people casting money into the temple treasury. Many rich individuals contribute generous amounts towards the maintenance of the temple by depositing their offerings in the chests located in one of the temple courts. Jesus, having engaged in a debate with the Sanhedrin, takes a moment to observe the rich as they present their gifts. Seated opposite the treasury, Jesus fixates on those who are casting money, specifically the affluent.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.6654425917685975,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+        "commentatorTierSimilarities": [
+            36.01,
+            9.51,
+            54.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord as yet has been surrounded with His disciples and speaking to them and the multitude.\" ",
+            "He now lifts up His eyes, and sees at a distance.",
+            "He seems to have overlooked the break at ver. 7, corresponding to the change of scene."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "looking up He saw\u2014as in Zaccheus' case, not quite casually.",
+            "the people cast money into the treasury, and many rich east in much",
+            "chests deposited in one of the courts of the temple to receive the offerings of the people towards its maintenance"
+        ],
+        "Marvin Vincent": [
+            "Treasury. See on Mark 12:41. ",
+            "Rich. Standing last and emphatically in the sentence, \"Saw them that were casting, etc. - rich men.\" Not the rich only were casting in. Compare Mark 12:41."
+        ],
+        "Philip Schaff": [
+            "And he looked up.\" ",
+            "From where he had been sitting during the delivery of His denunciatory discourse \u2018over against the treasury\u2019.\" ",
+            "The distance could not have been very great."
+        ],
+        "Archibald T. Robertson": [
+            "He had taken his seat, after the debate was over and the Sanhedrin had slunk away in sheer defeat...",
+            "Jesus was watching the rich put in their gifts as a slight diversion from the intense strain of the hours before.",
+            "The word for 'treasury' is a compound of \u03b3\u03b1\u03b6\u03b1 (Persian word for royal treasury) and \u03c6\u03c5\u03bb\u03b1\u03ba\u03b7 guard or protection."
+        ],
+        "John Gill": [
+            "As Christ sat over against the treasury, looking upon the ground, he lift up his eyes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus, surrounded by His disciples and a multitude of people, lifts up His eyes and sees at a distance. He observes the people casting money into the treasury, particularly the rich who cast in large amounts. The treasury was a collection of chests in one of the courts of the temple, receiving offerings for its maintenance. Jesus, having taken His seat after a debate with the Sanhedrin, watches the rich as they contribute their gifts. The word for treasury suggests a compound meaning of the Persian word for royal treasury and guard or protection. As Jesus sat opposite the treasury, He looked up and saw those who were casting in money, including the rich.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.6901544207423296,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.54,
+            "commentatorTierSimilarities": [
+                34.99,
+                13.7,
+                51.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Surrounded by His disciples and the crowd, Jesus lifts His eyes and sees the people casting money into the temple treasury. Many rich individuals contribute generously to support the maintenance of the temple. Having recently engaged in a debate with the Sanhedrin, Jesus now watches the rich as they present their offerings. The treasury, a collection of chests, symbolizes both a royal treasury and a place under protection. Jesus, seated opposite the treasury, observes and takes note of those who contribute, particularly the wealthy.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.56394842563843,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.34,
+            "commentatorTierSimilarities": [
+                34.87,
+                11.36,
+                53.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of His disciples and the multitude, Jesus gazes into the distance and spots the people depositing money in the treasury. Notably, many rich individuals contribute significant sums to the temple. Jesus, having engaged in a debate with the Sanhedrin, watches these wealthy individuals as they present their offerings. The treasury, a collection of chests in the temple courts, functions as a means for the people to support the temple's financial needs. Seated opposite the treasury, Jesus attentively observes those casting their donations, especially the affluent.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.582314869124139,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.95,
+            "commentatorTierSimilarities": [
+                33.55,
+                12.9,
+                53.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of His disciples and a crowd, Jesus lifts His eyes and notices people tossing money into the temple treasury. Many wealthy individuals contribute generously to support the upkeep of the temple, depositing their offerings into chests situated in one of the temple courts. Having engaged in a debate with the Sanhedrin, Jesus takes a moment to observe the rich as they present their contributions. Seated across from the treasury, Jesus takes notice of those who are casting money, particularly the affluent.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6358592579636682,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                34.95,
+                11.48,
+                53.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of His disciples and the multitude, Jesus lifts His eyes and sees people casting money into the temple treasury. Many rich individuals contribute generous amounts towards the maintenance of the temple by depositing their offerings in the chests located in one of the temple courts. Jesus, having engaged in a debate with the Sanhedrin, takes a moment to observe the rich as they present their gifts. Seated opposite the treasury, Jesus fixates on those who are casting money, specifically the affluent.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.6654425917685975,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                36.01,
+                9.51,
+                54.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

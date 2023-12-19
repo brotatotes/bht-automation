@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:39:22",
+    "verseRef": "1 Peter 3:1",
+    "bestBHT": {
+        "bht": "Wives must honor their husbands by submitting to them and exhibiting chaste behavior and reverence. This is especially crucial for wives married to unbelievers, as they may be tempted to lean on someone else and weaken their marital bond. Even if a wife's husband does not follow the Word, her pious living can win him over. Wives should patiently persevere and let their silence, coupled with innocence, persuade their husbands. By leading holy lives, wives can soften the hearts of unbelieving husbands and prepare them to embrace the faith of Christ.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.85,
+        "qualityScore": 2.3412425756496518,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.19,
+        "commentatorTierSimilarities": [
+            37.43,
+            28.32,
+            34.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Wives are to pay this honor [to their husbands], by being in subjection to your own husbands.",
+            "They shall be won [converted to faith and obedience]: made a gain for Christian love, and for Christ Himself.",
+            "When they have beheld your chaste behavior coupled with fear [reverence to your husbands]."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Feeling the need of leaning on one stronger than herself, the wife (especially if joined to an unbeliever) might be tempted, though only spiritually, to enter into that relation with another in which she ought to stand to 'her own spouse'; an attachment to the person of the teacher might thus spring up, which, without being in the common sense spiritual adultery, would still weaken in its spiritual basis the married relation.\" ",
+            "Even if you have a husband that obeys not the word (that is, is an unbeliever).\" ",
+            "'A soul converted is gained to itself, to the pastor, wife, or husband, who sought it, and to Jesus Christ; added to His treasury who thought not His own precious blood too dear to lay out for this gain.'"
+        ],
+        "Albert Barnes": [
+            "That, if any obey not the word - The word of God; the gospel.",
+            "This would be likely to occur when the gospel was first preached, as it does now, by the fact that wives might be converted, though their husbands were not.",
+            "The word conversation, in the Scriptures, is never confined, as it is now with us, to oral discourse, but denotes conduct in general."
+        ],
+        "Marvin Vincent": [
+            "Likewise, Peter means in like manner with servants.",
+            "Be in subjection, or submitting yourselves; the same word which is used of the submission of servants.",
+            "Be won, be gained. The word used by Christ."
+        ],
+        "John Calvin": [
+            "But if wives ought to obey ungodly husbands, with much more promptness ought they to obey, who have believing husbands.",
+            "Peter shews that wives by a holy and pious life could do so much as to prepare their husbands, without speaking to them on religion, to embrace the faith of Christ.",
+            "Peter\u2019s words are not to be so understood as though a holy life alone could lead the unbelieving to Christ, but that it softens and pacifies their minds, so that they might have less dislike to religion; for as bad examples create offenses, so good ones afford no small help."
+        ],
+        "Philip Schaff": [
+            "In like manner, ye wives, submit yourselves.\" ",
+            "The possibility of such victories of patience should encourage the wife to a wifely submission which might be hard to natural inclination.",
+            "The silence often of pure innocence persuades, when speaking fails."
+        ],
+        "Archibald T. Robertson": [
+            "In like manner (\u03bf\u03bc\u03bf\u03b9\u03c9\u03c2)... for wives see also Colossians 3:18; Ephesians 5:22; Titus 2:4.\" ",
+            "Wives are not enjoined to be in subjection to the husbands of other women, as some think it fine to be.",
+            "Won by pious living, not by nagging. Many a wife has had this blessed victory of grace."
+        ],
+        "John Gill": [
+            "Likewise, ye wives, be in subjection to your own husbands,... that if any obey not the word... they also may without the word be won by the conversation of the wives.\" ",
+            "The hearts of such as were averse to Christianity, and the Gospel, as unbelieving husbands, may be so softened... and in process of time be inclined to hear and attend it; the consequence of which may prove their conversion.",
+            "The winning of unbelieving husbands was easily obtained by the conversation of their wives."
+        ],
+        "John Wesley": [
+            "If any \u2014 He speaks tenderly.",
+            "Won \u2014 Gained over to Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Wives are called to honor their husbands by submitting to them and through their chaste behavior and reverence. This is especially important for wives who are joined to unbelievers, as they may be tempted to seek support and attachment elsewhere. Even if a wife's husband does not believe, her pious living can have a powerful impact and potentially win him over to faith and obedience. Wives are encouraged to patiently and silently persevere, as the silence of pure innocence often persuades when speaking fails. Through their holy and pious lives, wives can soften the hearts of their unbelieving husbands, preparing them to embrace the faith of Christ.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.2199429186944144,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.15,
+            "commentatorTierSimilarities": [
+                36.07,
+                29.76,
+                34.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Wives must honor their husbands by submitting to them and exhibiting chaste behavior and reverence. This is especially crucial for wives married to unbelievers, as they may be tempted to lean on someone else and weaken their marital bond. Even if a wife's husband does not follow the Word, her pious living can win him over. Wives should patiently persevere and let their silence, coupled with innocence, persuade their husbands. By leading holy lives, wives can soften the hearts of unbelieving husbands and prepare them to embrace the faith of Christ.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.3412425756496518,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.19,
+            "commentatorTierSimilarities": [
+                37.43,
+                28.32,
+                34.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Wives are called to honor their husbands by submitting to them and through their chaste behavior and reverence. This is especially important for wives who are joined to unbelievers, as they may be tempted to seek support and attachment elsewhere. Even if a wife's husband does not believe, her pious living can have a powerful impact and potentially win him over to faith and obedience. Wives are encouraged to patiently and silently persevere, as the silence of pure innocence often persuades when speaking fails. Through their holy and pious lives, wives can soften the hearts of their unbelieving husbands, preparing them to embrace the faith of Christ.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.2199429186944144,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.15,
+            "commentatorTierSimilarities": [
+                36.07,
+                29.76,
+                34.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Wives are called to honor their husbands by submitting to them and through their chaste behavior and reverence. This is especially crucial for wives married to unbelievers, as they may be tempted to lean on someone else and weaken their marital bond. Even when faced with a husband who does not follow the Word, a wife's pious living can win him over. By patiently persevering, wives can silently persuade their husbands through the power of their pure innocence. Ultimately, through their virtuous lives, wives have the potential to soften the hearts of unbelieving husbands and lead them towards embracing the faith of Christ.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 2.32652886343842,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.7,
+            "commentatorTierSimilarities": [
+                37.53,
+                27.97,
+                34.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Wives are called to submit to their husbands, honoring them through their chaste behavior and reverence. This instruction applies especially to wives married to unbelievers, who may be tempted to seek support elsewhere. Even if a wife's husband does not believe, her pious living can have a profound impact and potentially lead him to faith and obedience. Wives are encouraged to patiently persevere and let their silent innocence persuade their husbands. Through their virtuous lives, wives can soften the hearts of unbelieving husbands and prepare them to embrace the faith of Christ.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.333206392505337,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.92,
+            "commentatorTierSimilarities": [
+                37.04,
+                28.78,
+                34.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

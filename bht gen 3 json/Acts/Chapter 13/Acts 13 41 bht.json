@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:31:00",
+    "verseRef": "Acts 13:41",
+    "bestBHT": {
+        "bht": "Repetitive fulfillments of prophecy, leading to the ultimate fulfillment of God's promises and threats, encompass analogous acts of His providence. Even with unexceptional testimony, some refuse to believe the imminent calamity. Originally warning against Jerusalem's destruction, Habakkuk's words fittingly describe the impending disaster for the apostle's generation. The strong command to Perish desires their disappearance as the prophetic word is solemnly declared. However, deep-seated prejudice can hinder divine revelation. Rejecting the promised Messiah resulted in the complete ruin of the Jewish nation.",
+        "wordCount": 87,
+        "quoteTokenProportion": 22.54,
+        "qualityScore": 1.8067610974617838,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.42,
+        "commentatorTierSimilarities": [
+            35.44,
+            40.51,
+            24.04
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The prophecy was spoken of the judgment to be inflicted by means of the Chald\u00e6ans: but neither this nor any other prophecy is confined in its application to the occasion of which it was once spoken, but gathers up under it all analogous procedures of God\u2019s providence.\" ",
+            "Such repeated fulfilments increasing in weight, and approaching nearer and nearer to that last and great fulfilment of all the promises of grace and all the threats of wrath.",
+            "By which every prophetic word shall be exhausted."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ye will not believe though a man declare it unto you\u2014that is, even on unexceptionable testimony.\" ",
+            "The words, from Habakkuk 1:5, were originally a merciful but fruitless warning against the approaching destruction of Jerusalem by the Chaldeans and the Babylonish captivity.\" ",
+            "As such nothing could more fitly describe the more awful calamity impending over the generation which the apostle addressed."
+        ],
+        "Albert Barnes": [
+            "And wonder - Hebrew, 'And regard, and wonder marvelously.'",
+            "And perish - The word means literally 'to be removed from the sight; to disappear; and then to corrupt, defile, destroy.'",
+            "There may be a prejudice so obstinate that even a divine revelation will not remove it."
+        ],
+        "Marvin Vincent": [
+            "Perish [\u03b1\u03c6\u03b1\u03bd\u03b9\u03c3\u03b8\u03b7\u03c4\u03b5] . Lit., vanish.",
+            "Declare [\u03b5\u03ba\u03b4\u03b9\u03b7\u03b3\u03b7\u03c4\u03b1\u03b9] . The word is a very strong expression for the fullest and clearest declaration.",
+            "Declare throughout."
+        ],
+        "John Calvin": [
+            "God doth at this day make no less account of his word, the contempt whereof he did once punish so sharply.",
+            "The Lord doth indeed punish the wicked, that being tamed with miseries, they may begin to confess his power.",
+            "For as rebellion against God is a detestable monster, so it is no marvel if of itself it beget monsters of punishments."
+        ],
+        "Philip Schaff": [
+            "Behold, you despisers, and wonder and perish.",
+            "The sin which he now warned Israel against committing was the deliberate rejection of the long-promised Messiah.",
+            "The punishment in which the despisers of Jesus would perish was carried out to its bitter end only a few years after Paul\u2019s words were spoken in the Antioch synagogue, in the destruction of the Holy City and the utter and complete ruin of the whole Jewish nation."
+        ],
+        "Archibald T. Robertson": [
+            "Ye despisers (\u03bf \u03ba\u03b1\u03c4\u03b1\u03c6\u03c1\u03bf\u03bd\u03b7\u03c4\u03b1). Not in the Hebrew, but in the LXX. It is pertinent for Paul's purpose.",
+            "Perish (\u03b1\u03c6\u03b1\u03bd\u03b9\u03c3\u03b8\u03b7\u03c4\u03b5). Or vanish away. First aorist passive imperative. Added by the LXX to the Hebrew.",
+            "If one declare it unto you (\u03b5\u03b1\u03bd \u03c4\u03b9\u03c2 \u03b5\u03ba\u03b4\u03b9\u03b7\u03b3\u03b7\u03c4\u03b1 \u03c5\u03bc\u03b9\u03bd). Condition of third class with present middle subjunctive, if one keep on outlining (double compound, \u03b5\u03ba-\u03b4\u03b9-\u03b7\u03b3\u03b5\u03bf\u03bc\u03b1) it unto you. Paul has hurled a thunderbolt at the close."
+        ],
+        "John Gill": [
+            "Behold, ye despisers...",
+            "For I work a work in your days, which you shall in no wise believe though a man declare it unto you.",
+            "...though it should be told them by men of probity and credit."
+        ],
+        "John Wesley": [
+            "I work a work which ye will in nowise believe.",
+            "This was originally spoken to those, who would not believe that God would ever deliver them from the power of the Chaldeans.",
+            "But it is applicable to any who will not believe the promises, or the works of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Such repeated fulfillments of prophecy, increasing in weight and nearing the ultimate fulfillment of all God's promises and threats, gather under them all analogous procedures of His providence. Even on unexceptional testimony, there are those who will not believe the warning of impending calamity. The words from Habakkuk originally described the coming destruction of Jerusalem, but they aptly depict the more awful calamity impending over the generation addressed by the apostle. The strong command to Perish is a plea for them to vanish away, as the prophetic word is declared throughout. This divine revelation may not be enough to remove obstinate prejudice. God's punishment for the deliberate rejection of the promised Messiah was carried out in the complete ruin of the whole Jewish nation.",
+            "wordCount": 126,
+            "quoteTokenProportion": 37.89,
+            "qualityScore": 1.9644437014194098,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                34.49,
+                40.56,
+                24.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Such repeated fulfillments of prophecy, increasing in weight and nearing the ultimate fulfillment of all God's promises and threats, gather under them all analogous procedures of His providence. Even on unexceptional testimony, there are those who will not believe the warning of impending calamity. The words from Habakkuk originally described the coming destruction of Jerusalem, but they aptly depict the more awful calamity impending over the generation addressed by the apostle. The strong command to Perish is a plea for them to vanish away, as the prophetic word is declared throughout. This divine revelation may not be enough to remove obstinate prejudice. God's punishment for the deliberate rejection of the promised Messiah was carried out in the complete ruin of the whole Jewish nation.",
+            "wordCount": 126,
+            "quoteTokenProportion": 37.89,
+            "qualityScore": 1.9644437014194098,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                34.49,
+                40.56,
+                24.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Such repeated fulfillments of prophecy, approaching the final and great fulfillment of God's promises and threats, encompass analogous procedures of His providence. Even on unexceptional testimony, there are those who refuse to believe the warning of imminent calamity. The words from Habakkuk, originally warning against the destruction of Jerusalem, fittingly describe the impending disaster facing the generation addressed. The strong command to Perish calls for their complete disappearance, as the prophetic word is vividly declared throughout. This divine revelation alone may not be enough to overcome deep-seated prejudice. The rejection of the promised Messiah ultimately resulted in the utter ruin of the Jewish nation.",
+            "wordCount": 106,
+            "quoteTokenProportion": 30.59,
+            "qualityScore": 1.825836298608512,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+            "commentatorTierSimilarities": [
+                36.47,
+                40.05,
+                23.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Such repeated fulfillments of prophecy, approaching the ultimate and great fulfillment of God's promises and threats, encompass analogous procedures of His providence. Despite unimpeachable testimony, there are those who stubbornly refuse to believe the impending calamity. Originally directed towards the destruction of Jerusalem, the words from Habakkuk aptly depict the even worse calamity facing the apostle's generation. The forceful command to Perish implores their vanishing, as the prophetic word is boldly proclaimed. However, deep-seated prejudice can prevent even divine revelation from penetrating. The deliberate rejection of the promised Messiah led to the total ruin of the Jewish nation.",
+            "wordCount": 101,
+            "quoteTokenProportion": 23.08,
+            "qualityScore": 1.8458777910750825,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                34.33,
+                40.66,
+                25.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Repetitive fulfillments of prophecy, leading to the ultimate fulfillment of God's promises and threats, encompass analogous acts of His providence. Even with unexceptional testimony, some refuse to believe the imminent calamity. Originally warning against Jerusalem's destruction, Habakkuk's words fittingly describe the impending disaster for the apostle's generation. The strong command to Perish desires their disappearance as the prophetic word is solemnly declared. However, deep-seated prejudice can hinder divine revelation. Rejecting the promised Messiah resulted in the complete ruin of the Jewish nation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 22.54,
+            "qualityScore": 1.8067610974617838,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.42,
+            "commentatorTierSimilarities": [
+                35.44,
+                40.51,
+                24.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

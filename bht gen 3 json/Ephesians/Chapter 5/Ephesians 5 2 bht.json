@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:32:51",
+    "verseRef": "Ephesians 5:2",
+    "bestBHT": {
+        "bht": "We are called in Ephesians to walk in love as Christ loved us and gave Himself for us as an offering and a sacrifice to God. Christ's sacrificial love is seen as an odor of sweet smell, an offering that is pleasing to God. By imitating God's love, we imitate Christ's sacrificial offering and become a sweet-smelling savor to God. Our love should not be mere words, but a genuine and continuous display of self-sacrifice, mirroring Christ's own view of His atoning death.",
+        "wordCount": 89,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 2.454699196199347,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.96,
+        "commentatorTierSimilarities": [
+            28.58,
+            32.67,
+            38.74
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "walk in love, as Christ also loved us\" ",
+            "gave up Himself for us an offering and a sacrifice to God\" ",
+            "an odour of sweet smell"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From the love of the Father he passes to the love of the Son, in whom God most endearingly manifests His love to us.",
+            "'Given Himself up (namely, to death, Ephesians 4:1- :) for us,' that is, in our behalf: not here vicarious substitution, though that is indirectly implied, 'in our stead.'",
+            "Christ is here, in reference to Romans 5:8-:, represented as the antitype of all the offerings of the law, whether the unbloody or bloody, eucharistical or propitiatory."
+        ],
+        "Albert Barnes": [
+            "Let your lives be characterized by love; let that be evinced in all your deportment and conversation.",
+            "We are to evince the same love for one another which he has done for us.",
+            "Christ sacrificed himself by 'love,' and that sacrifice was acceptable to God. So do you show love one to another."
+        ],
+        "Marvin Vincent": [
+            "Walk in love. As imitators of God who is love.",
+            "Gave [\u03c0\u03b1\u03c1\u03b5\u03b4\u03c9\u03ba\u03b5\u03bd]. To death.",
+            "A sweet smelling savor [\u03bf\u03c3\u03bc\u03b7\u03bd \u03b5\u03c5\u03c9\u03b4\u03b9\u03b1\u03c2]. Rev., correctly, odor of a sweet smell."
+        ],
+        "John Calvin": [
+            "We ought to embrace each other with that love with which Christ has embraced us, for what we perceive in Christ is our true guide.",
+            "Forgetful, as it were, of himself, Christ spared not his own life, that he might redeem us from death.",
+            "If the reconciliation of men, effected by Christ, was a sacrifice of a sweet smelling savor, we, too, shall be 'unto God a sweet savor' when this holy perfume is spread over us."
+        ],
+        "Philip Schaff": [
+            "\u2018Love\u2019 is God\u2019s characteristic (chap. Ephesians 1:4-5), and our aim (chap. Ephesians 3:17-19).",
+            "'And gave himself up for us.'... The pronoun \u2018us\u2019 extends the thought to all Christians; the Apostle thus including himself.",
+            "Our free-will offering of self-sacrificing love becomes acceptable to God... through His self-sacrificing work of love, which, however, was distinct from all other work in having a real expiatory character."
+        ],
+        "Archibald T. Robertson": [
+            "Christ's death was an offering to God 'in our behalf' not an offering to the devil, a ransom as Christ himself said.",
+            "Christ's own view of his atoning death.",
+            "Paul often presents Christ's death as a propitiation."
+        ],
+        "John Gill": [
+            "To 'walk' in love, is not merely to talk of it, but to exercise it; and to do all that is done for God, and Christ, and the saints, from a principle of love; and to advance, increase, and abound in it, and to go on and continue therein.",
+            "The 'as' here is a note of similitude, not of equality; for it cannot be thought that the saints should love God, or Christ, or one another, with a love equal to Christ's love to them, but only that theirs should bear some likeness to his.",
+            "Christ was both priest and sacrifice; he offered up himself a propitiatory sacrifice for the sins of his people, to expiate them, and make reconciliation and satisfaction for them; and this he offered up to God, against whom they had sinned, and whose justice must be satisfied."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Ephesians 5:2, we are called to walk in love, as Christ also loved us and gave up Himself for us an offering and a sacrifice to God which is described as an odour of sweet smell. The love of the Father is most tangibly shown to us through the love of the Son, who sacrificed Himself on our behalf. Christ's death was not merely a vicarious substitution, but a self-offering to God in our place. His death is presented as an offering to God, a propitiation, and in imitating Christ's sacrificial love, our own lives become a sweet smelling savor to God. Ultimately, to walk in love is not just to talk about it, but to exercise it in all we do for God, Christ, and fellow believers.",
+            "wordCount": 131,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.431969068583706,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.2,
+            "commentatorTierSimilarities": [
+                29.8,
+                31.98,
+                38.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are exhorted to imitate Christ's sacrificial love in Ephesians 5:2 by walking in love and offering ourselves as a sweet-smelling sacrifice to God. Christ's self-sacrifice is not a vicarious substitution, but a genuine offering made on our behalf. In this way, Christ's death serves as a propitiation, reconciling us to God. Our lives should be characterized by love, evincing the same selfless love that Christ displayed for us. Thus, walking in love involves not only speaking of love, but actively practicing it in all aspects of our lives.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.283120404075398,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.25,
+            "commentatorTierSimilarities": [
+                27.26,
+                35.05,
+                37.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Ephesians, we are urged to imitate God's love by walking in love, just as Christ loved us and offered Himself as a sacrifice to God. His self-giving act was not a substitution for our sins, but an offering on our behalf, resembling the offerings in the Old Testament. By following Christ's example of sacrificial love, our lives become a pleasing aroma to God. Thus, our duty is not simply to talk about love, but to actively demonstrate and increase in love towards God, Christ, and one another.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.396600636601639,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.03,
+            "commentatorTierSimilarities": [
+                26.61,
+                34.15,
+                39.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Ephesians, we are called to walk in love as Christ loved us, offering Himself as a sacrifice to God. His act of love was not a vicarious substitution but a genuine offering on our behalf, resembling the sacrifices prescribed in the law. Emulating Christ's sacrificial love, we should live lives characterized by love, not merely in words but in action. By doing so, our lives become a pleasing aroma to God, resembling Christ's atoning death.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.4352354637329143,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.31,
+            "commentatorTierSimilarities": [
+                28.39,
+                34.1,
+                37.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are called in Ephesians to walk in love as Christ loved us and gave Himself for us as an offering and a sacrifice to God. Christ's sacrificial love is seen as an odor of sweet smell, an offering that is pleasing to God. By imitating God's love, we imitate Christ's sacrificial offering and become a sweet-smelling savor to God. Our love should not be mere words, but a genuine and continuous display of self-sacrifice, mirroring Christ's own view of His atoning death.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.454699196199347,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.96,
+            "commentatorTierSimilarities": [
+                28.58,
+                32.67,
+                38.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

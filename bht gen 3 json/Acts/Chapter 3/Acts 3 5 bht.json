@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:25:20",
+    "verseRef": "Acts 3:5",
+    "bestBHT": {
+        "bht": "With great eagerness, the crippled man held his eyes right on Peter and John, eagerly expecting to receive something from them. Taking Peter's invitation as a promise of a generous gift, the man fixed his gaze upon them, knowing well by sight that he had often seen them go up to the Temple. His anticipation was not solely for physical healing, but also for some financial aid as an alms.",
+        "wordCount": 71,
+        "quoteTokenProportion": 47.46,
+        "qualityScore": 1.921860557698405,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+        "commentatorTierSimilarities": [
+            48.04,
+            32.15,
+            19.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The sufferer, perhaps surprised at this unusual notice from a passer-by, gazed up at Peter and John with rapt attention.",
+            "Knowing he was about to receive some kindness, he knew not what, from these holy men.",
+            "He knew well by sight, having often seen them go up to the Temple."
+        ],
+        "Archibald T. Robertson": [
+            "He held his eyes right on Peter and John with great eagerness 'expecting to receive something.'",
+            "He took Peter's invitation as a promise of a large gift.",
+            "He held his eyes right on Peter and John with great eagerness."
+        ],
+        "John Gill": [
+            "He looked at them, as they bid him: he was not only attentive to them in his mind, but he directed his eyes towards them, and looked wistly at them.",
+            "Expecting to receive something of them; not a cure for his lameness, which he little thought of, but some money, as an alms.",
+            "This clause is left out in the Ethiopic version."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the man crippled from birth looked up at Peter and John, his eyes were filled with eagerness and anticipation. Through their invitation, he saw not just a promise of assistance, but the potential for a generous gift. He gazed at them intently, recognizing these holy men whom he had often seen entering the Temple. His attention was fixed upon them, expecting to receive something from them - not just a cure for his lameness, but perhaps some financial aid as well.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.6769366214565675,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.1,
+            "commentatorTierSimilarities": [
+                41.15,
+                35.93,
+                22.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With great eagerness, the crippled man held his eyes fixed on Peter and John, anxiously expecting to receive something from them. He took their invitation as a promise of not just a cure, but also a generous gift. Recognizing these holy men, he gazed at them intently, knowing well that he had often seen them go to the Temple. His anticipation was not only for physical healing, but also for financial support, awaiting whatever alms they might provide.",
+            "wordCount": 78,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.7184019588186397,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                42.51,
+                34.6,
+                22.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With great eagerness, the crippled man held his eyes right on Peter and John, eagerly expecting to receive something from them. Taking Peter's invitation as a promise of a generous gift, the man fixed his gaze upon them, knowing well by sight that he had often seen them go up to the Temple. His anticipation was not solely for physical healing, but also for some financial aid as an alms.",
+            "wordCount": 71,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.921860557698405,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "commentatorTierSimilarities": [
+                48.04,
+                32.15,
+                19.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With great eagerness, the crippled man held his eyes right on Peter and John, eagerly expecting to receive something from them. Taking Peter's invitation as a promise of a generous gift, the man fixed his gaze upon them, knowing well by sight that he had often seen them go up to the Temple. His anticipation was not solely for physical healing, but also for some financial aid as an alms.",
+            "wordCount": 71,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.921860557698405,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "commentatorTierSimilarities": [
+                48.04,
+                32.15,
+                19.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With great eagerness, the crippled man focused his gaze on Peter and John, eagerly expecting to receive something from them. Taking Peter's invitation as a promise of a generous gift, he fixed his eyes on the two men, knowing that he had often seen them go up to the Temple. His anticipation extended beyond physical healing; he hoped for financial aid, an alms to alleviate his condition.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9036503530593194,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.64,
+            "commentatorTierSimilarities": [
+                46.61,
+                32.44,
+                20.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

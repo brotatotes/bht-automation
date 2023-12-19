@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:28:13",
+    "verseRef": "Acts 8:25",
+    "bestBHT": {
+        "bht": "The Gospel progressively reached farther regions, with Philip led to a desert road to meet the eunuch. The simplicity of the eunuch stood out against the previous magician's craftiness, highlighting the authenticity of the word of God. Peter and John returned to Jerusalem, bearing witness to Christ's resurrection in the city of His crucifixion. They continued the work in Samaritan villages, further spreading and establishing the Gospel.",
+        "wordCount": 69,
+        "quoteTokenProportion": 24.49,
+        "qualityScore": 1.790655934969808,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+        "commentatorTierSimilarities": [
+            29.71,
+            33.58,
+            36.71
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The gradual sowing of the seed further and further from Jerusalem is advancing.",
+            "Not only is this eunuch to carry it to a far distant land, but Philip is sent to a desert road, away from town or village, to seek him.",
+            "The imperfect tenses, \u2018were returning...,\u2019 are significant."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "With this narrative of the progress of the Gospel among the Samaritans is connected another which points to the diffusion of the doctrine of the Cross among the remotest nations.\" ",
+            "The simplicity of the chamberlain of Meroe forms a remarkable contrast with the craft of the magician just described.",
+            "The simplicity of the chamberlain of Meroe forms a remarkable contrast with the craft of the magician just described."
+        ],
+        "Albert Barnes": [
+            "They went at first directly to the 'city' of Samaria. On their return to Jerusalem they travelled more at leisure, and preached in the villages also - a good example for the ministers of the gospel, and for all Christians, when traveling from place to place.",
+            "The reason why they returned to Jerusalem, and made that their permanent abode, might have been, that it was important to bear witness to the resurrection of Christ in the very city where he had been crucified, and where his resurrection had occurred.",
+            "If the doctrine was established 'there,' it would be more easy to establish it elsewhere."
+        ],
+        "John Calvin": [
+            "It came to pass by their testimony, that the word of God had full and perfect authority, and that the truth was of force, as being well testified and authentic.",
+            "This was, therefore, the sum of the apostles\u2019 doctrine, faithfully to utter those things which they had learned of the Lord, and not their own inventions, or the inventions of any man else.",
+            "Therefore we see that they were so inflamed to further the glory of Christ, that whithersoever they came they had him in their mouth."
+        ],
+        "Philip Schaff": [
+            "They that is, John and Peter now left Philip to pursue his work alone, and returned to the capital city.",
+            "With these words of the Redeemer ringing in their ears, John and Peter continued in many a Samaritan village the good work of Philip.",
+            "It was a different kind of fire which he now prayed might descend from heaven upon these Samaritans\u2014the fire of the Holy Ghost."
+        ],
+        "Archibald T. Robertson": [
+            "They therefore (\u03bf \u03bc\u03b5\u03bd \u03bf\u03c5\u03bd). Demonstrative \u03bf with \u03bc\u03b5\u03bd (no following \u03b4\u03b5) and the inferential \u03bf\u03c5\u03bd (therefore) as often in Acts (Acts 1:6, etc.).",
+            "Returned (\u03c5\u03c0\u03b5\u03c3\u03c4\u03c1\u03b5\u03c6\u03bf\u03bd). Imperfect active picturing the joyful journey of preaching (\u03b5\u03c5\u03b7\u03b3\u03b3\u03b5\u03bb\u03b9\u03b6\u03bf\u03bd\u03c4\u03bf, imperfect middle) to the Samaritan villages.",
+            "Peter and John now carried on the work of Philip to the Samaritans. This issue was closed."
+        ],
+        "John Gill": [
+            "When they had bore their testimony to, and by it confirmed the Gospel as preached by Philip, and had established the young converts in it, and against the errors of Simon Magus.",
+            "When they had preached the Gospel in the city of Samaria, the same as Philip had preached before; whereby it appeared, that there was an harmony and agreement between them.",
+            "Their first commission in Matthew 10:5 being now cancelled, and a new one given them to preach the Gospel to every creature; and being appointed witnesses for Christ in Samaria, as well as in Jerusalem and Judea."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Gospel was spreading gradually from Jerusalem, reaching even the remotest nations. Philip was sent to a desert road to meet the eunuch, who would carry the message to a far distant land. The simplicity of the chamberlain of Meroe contrasted with the craft of the magician, highlighting the authenticity and power of the word of God. Peter and John returned to Jerusalem, bearing witness to the resurrection of Christ in the very city where he had been crucified and where his resurrection occurred. They continued the work in many Samaritan villages, spreading the Gospel and establishing the young converts.",
+            "wordCount": 100,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.7860588188903923,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.73,
+            "commentatorTierSimilarities": [
+                29.4,
+                33.99,
+                36.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Gospel was advancing, gradually reaching distant lands. Philip was sent to a desert road, away from civilization, to encounter the eunuch and share the message. The simplicity of the eunuch contrasted with the cunning of the previous magician, highlighting the authentic message of the word of God. Peter and John returned to Jerusalem to bear witness to the resurrection of Christ, establishing the Gospel in the city of His crucifixion. They continued the work in Samaritan villages, spreading the Gospel and nurturing new believers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 20.0,
+            "qualityScore": 1.6907289431621817,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.56,
+            "commentatorTierSimilarities": [
+                29.67,
+                32.95,
+                37.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gospel was advancing as the seed was sown further and further from Jerusalem. Philip was led to a desert road, away from civilization, to encounter the eunuch and share the message. The simplicity of the eunuch contrasted with the previous magician, underscoring the authenticity of the word of God. Peter and John returned to Jerusalem to bear witness to the resurrection of Christ, establishing the Gospel in the city of His crucifixion. They continued the work in Samaritan villages, spreading the Gospel and nurturing new believers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.7664520451282186,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.08,
+            "commentatorTierSimilarities": [
+                29.08,
+                33.41,
+                37.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gospel progressively reached farther regions, with Philip led to a desert road to meet the eunuch. The simplicity of the eunuch stood out against the previous magician's craftiness, highlighting the authenticity of the word of God. Peter and John returned to Jerusalem, bearing witness to Christ's resurrection in the city of His crucifixion. They continued the work in Samaritan villages, further spreading and establishing the Gospel.",
+            "wordCount": 69,
+            "quoteTokenProportion": 24.49,
+            "qualityScore": 1.790655934969808,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                29.71,
+                33.58,
+                36.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gospel of the Cross is being proclaimed not only in Samaritan villages but also in the remotest nations. The narrative of the Gospel's progress among the Samaritans is connected to its diffusion among far-off lands. The simplicity of the eunuch forms a remarkable contrast with the craft of the magician, showcasing the authenticity of the word of God. Peter and John continued the work of Philip in the Samaritan villages, establishing the Gospel and nurturing new converts.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.7820402500784374,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                38.13,
+                28.67,
+                33.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

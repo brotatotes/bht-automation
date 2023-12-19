@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:27:13",
+    "verseRef": "Acts 6:7",
+    "bestBHT": {
+        "bht": "The early Church in Jerusalem thrived in popularity, yet faced opposition from Jewish sects. The apostles responded by appointing new leaders from the minority who were complaining, showcasing their wisdom and reliance on the Spirit's guidance. This decision allowed the apostles to focus on preaching and teaching, leading to the continued growth of the Church. The Word of God flourished as priests, who were once enemies of the gospel, obediently embraced the faith. Through miraculous conversions, God's work overcame obstacles and propelled the Church to expansion.",
+        "wordCount": 88,
+        "quoteTokenProportion": 25.81,
+        "qualityScore": 1.9222042493122546,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+        "commentatorTierSimilarities": [
+            24.62,
+            42.7,
+            32.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And we soon hear of the part which Stephen bore in the work.",
+            "At this time was probably the culminating point of popularity of the church at Jerusalem.",
+            "This arrays against it that powerful and zealous sect, and henceforward it finds neither favour nor tolerance with either of the parties among the Jews, but increasing and bitter enmity from them both."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What a beautiful model for imitation is furnished by the class here complained of, who, though themselves the majority, chose the new office-bearers from amongst the complaining minority!",
+            "How little of formal organization did the apostles give to the Church at first, and when an emergency arose which demanded something more, how entirely was the remedy suggested by the reason of the thing!",
+            "...the success of the expedient securing its permanency, and the qualifications for 'the office of a Deacon' being laid down in one of the apostolical Epistles immediately after those of 'a Bishop'."
+        ],
+        "Albert Barnes": [
+            "And a great company of the priests - A great 'multitude.' This is recorded justly as a remarkable instance of the power of the gospel.",
+            "It is now mentioned, as worthy of special record, that the gospel was sufficiently mighty to humble even the proud, and haughty, and selfish, and envious priests to the foot of the cross.",
+            "By the accession of the 'priests' also no small part of the reproach would be taken away from the gospel, that it made converts only among the lower classes of the people."
+        ],
+        "Marvin Vincent": [
+            "In the great majority of New Testament passages faith is clearly used in the sense of faith in Jesus Christ: 'the conviction and confidence regarding Jesus Christ as the only and perfect mediator of the divine grace and of eternal life, through his work of atonement' (Meyer).",
+            "Faith, though it becomes in man the subjective moral power of the new life, regenerated through the power of the Spirit, is regarded objectively as a power - the authority which commands submission.",
+            "Faith is to be taken as the object, and not as the source, of the obedience; and hence is not to be explained as the obedience which springs from faith, but as the obedience rendered to faith as the authoritative impulse of the new life in Christ."
+        ],
+        "John Calvin": [
+            "This was an excellent work of God that the Church should suddenly, and, as it were, in a moment, be raised up; but this is worthy no less admiration, in that he furthereth that work which he had begun amidst so many lets.",
+            "The Word of God is said to grow two manner of ways; either when new disciples are brought to obey the same, or as every one of us profiteth and goeth forward therein.",
+            "And he reckoneth up the priests by name, because they were for the most part enemies; for which cause it was a wonderful work of God that some should be converted, and much more wonderful that many."
+        ],
+        "Philip Schaff": [
+            "The dissensions caused by the growing jealousy between the Foreign and the Hebrew-speaking Jews were at all events for the time composed, and the Church within and without continued to prosper, and its numbers rapidly to increase.",
+            "Authoritative teachers, trained in schools of Greek as well as of Hebrew Thought, now preached and taught side by side with the Twelve, and with their full approval, and thus prepared the way for a far broader preaching of the doctrines of Jesus than had ever yet been dreamed of.",
+            "As the first-fruits of their wider and more comprehensive teaching, the historian of the \u2018Acts\u2019 tells us how a great company of the priests were obedient to the faith."
+        ],
+        "Archibald T. Robertson": [
+            "Increased... kept on growing all the more because the apostles were now relieved from the daily ministration of the food.",
+            "The two imperfects kept pace with each other.",
+            "Here meaning the gospel, the faith system as in Romans 1:5; Galatians 1:23; Judges 1:3, etc. Here the word means more than individual trust in Christ."
+        ],
+        "John Gill": [
+            "God thus making all things to work together for good.",
+            "The instances of conversion were very numerous; how large must this church now be!",
+            "And that the priests, and a large number of them, should do this, is very marvellous; since they were the most inveterate enemies of the Gospel, and persecutors of the saints."
+        ],
+        "John Wesley": [
+            "And the word of God grew \u2014 The hinderances being removed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Church in Jerusalem was experiencing a peak in popularity, but this led to increased opposition from various Jewish sects. In response, the apostles decided to appoint new office-bearers to help with the growing needs of the Church. The apostles implemented a simple yet effective solution, which involved choosing the new leaders from among the minority who were complaining. This decision demonstrated the apostles' wisdom and reason, highlighting that they didn't immediately establish a formal organizational structure for the Church. Instead, they relied on the Spirit's guidance and responded to the needs as they arose. The appointment of new leaders allowed the apostles to focus on their primary role of preaching and teaching the gospel, resulting in the continued growth of the Church. The community of believers, including a significant number of priests who were once enemies of the gospel, obediently embraced the faith, further expanding the impact of the Word of God. This demonstrates God's marvelous work in transforming hearts and making all things work together for good.",
+            "wordCount": 173,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.8648411141729837,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                27.6,
+                40.65,
+                31.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Church in Jerusalem faced growing opposition from Jewish sects, prompting the apostles to appoint new leaders from among the complaining minority. The apostles relied on the Spirit's guidance and responded to emergent needs, rather than establishing immediate organizational structures. This decision allowed the apostles to focus on preaching and teaching, while the Church continued to flourish. The Word of God grew as priests, once enemies of the gospel, now embraced the faith. Through miraculous conversions, God's work prospered, overcoming obstacles and bringing forth exponential growth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 24.24,
+            "qualityScore": 1.8726786581196344,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                25.52,
+                41.0,
+                33.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The early Church in Jerusalem thrived in popularity, yet faced opposition from Jewish sects. The apostles responded by appointing new leaders from the minority who were complaining, showcasing their wisdom and reliance on the Spirit's guidance. This decision allowed the apostles to focus on preaching and teaching, leading to the continued growth of the Church. The Word of God flourished as priests, who were once enemies of the gospel, obediently embraced the faith. Through miraculous conversions, God's work overcame obstacles and propelled the Church to expansion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.9222042493122546,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+            "commentatorTierSimilarities": [
+                24.62,
+                42.7,
+                32.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the early Church in Jerusalem, opposition from Jewish sects arose due to its growing popularity. To address this, the apostles appointed new leaders from among the minority who were complaining. This decision demonstrated their wisdom and reliance on the Spirit's guidance, fostering the continued growth of the Church. The Word of God expanded, attracting priests who were formerly enemies of the gospel. Through remarkable conversions, God's work overcame challenges and propelled the Church forward, exemplifying His ability to bring good out of difficult situations.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.8841074796092525,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "commentatorTierSimilarities": [
+                24.92,
+                42.45,
+                32.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Church in Jerusalem faced opposition, but the apostles responded by appointing new leaders from among the complaining minority. This decision demonstrated their wisdom and reliance on the Spirit's guidance, allowing the Church to continue thriving. The Word of God grew as priests, once enemies of the gospel, embraced the faith. Through miraculous conversions, God's work overcame obstacles and fostered significant expansion. This marvelous transformation showcased His ability to bring unity and growth even amidst adversity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.7595354076859744,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.85,
+            "commentatorTierSimilarities": [
+                23.71,
+                41.37,
+                34.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

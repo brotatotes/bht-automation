@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:13:04",
+    "verseRef": "Luke 1:16",
+    "bestBHT": {
+        "bht": "John's work was one of preparing and turning hearts towards God, representing the law and the prophets. He was a religious reformer, like Elijah, aiming to bring about repentance. His success, though partial, was evidenced in the conversion of many Jews, leading them to a true acknowledgment of sin and the need for repentance towards God and faith in the Messiah. John's ministry played an instrumental role in turning people to the Lord their God.",
+        "wordCount": 77,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 1.8042773367863418,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+        "commentatorTierSimilarities": [
+            35.63,
+            26.07,
+            38.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The work of John was one of preparation and turning men\u2019s hearts towards God.",
+            "It was a concentration of the spirit of the law, whose office it was to convince of sin.",
+            "He eminently represented the law and the prophets in their work of preparing the way for Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A religious and moral reformer, Elijah-like, he should be.",
+            "The 'turning of the people's heart to the Lord' is borrowed from 1 Kings 18:37.",
+            "In both cases their success, though great, was partial\u2014the nation was not gained."
+        ],
+        "Albert Barnes": [
+            "Children of Israel - Jews. Descendants of Israel or Jacob.",
+            "Shall he turn - By repentance. He shall call them from their sins, and persuade them to forsake them, and to seek the Lord their God."
+        ],
+        "John Calvin": [
+            "But if the ancient Church was so awfully dissolute, it is a frivolous pretext by which the Papists defend their own superstitions, that it is impossible for the Church to err...",
+            "For conversion to God renews men to a spiritual fife, and therefore is not only God\u2019s own work, but surpasses even the creation of men.",
+            "The outward preaching, I acknowledge, can do nothing separately or by itself; but as it is an instrument of divine power for our salvation, and through the grace of the spirit an efficacious instrument, what God hath joined together let us not put asunder."
+        ],
+        "Philip Schaff": [
+            "Luke 1:16. To the Lord their God. Not to Christ, but to God. A prediction of John\u2019s ministry, as preparatory and reformatory, the baptism of repentance. See on Matthew 3:1.",
+            "\t"
+        ],
+        "John Gill": [
+            "Conversion, which is meant by turning to God, is not man's work, but God's; and is effected by his mighty power, which is only equal to it.",
+            "John was to be, and was, an instrument of the conversion of many among the Jews, by preaching the doctrine of repentance towards God, and faith in the Messiah.",
+            "He was the means in the hand of God, of turning many from sin, of bringing them to a true sense of it, and to a hearty and ingenuous confession and acknowledgment of it."
+        ],
+        "John Wesley": [
+            "And many of the children of Israel shall he turn \u2014 None therefore need be ashamed of \"preaching like John the Baptist\".",
+            "To the Lord their God \u2014 To Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John's work was one of preparation and conviction, turning people's hearts towards God and representing the law and the prophets. He was a religious and moral reformer, like Elijah, with the goal of leading the people to repentance and to seek the Lord their God. Although successful in his mission, it was only partial, as not all of the nation was gained. John's ministry was instrumental in the conversion of many Jews, bringing them to a true sense of their sin and the need for repentance towards God and faith in the Messiah.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7280032661414313,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+            "commentatorTierSimilarities": [
+                36.3,
+                25.73,
+                37.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John's mission was to prepare and convict, turning hearts towards God and representing the law and prophets. As a religious reformer, he aimed to lead people to repentance, similar to Elijah. His success, though partial, was evident in his ability to bring many Jews to a true understanding of their sin and the necessity for repentance and faith in the Messiah. John's role was crucial in the conversion of many, helping them acknowledge and confess their sins while turning to the Lord their God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.741928023646249,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.26,
+            "commentatorTierSimilarities": [
+                32.36,
+                29.05,
+                38.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John's work was one of preparing and turning hearts towards God, representing the law and the prophets. He was a religious reformer, like Elijah, aiming to bring about repentance. His success, though partial, was evidenced in the conversion of many Jews, leading them to a true acknowledgment of sin and the need for repentance towards God and faith in the Messiah. John's ministry played an instrumental role in turning people to the Lord their God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.8042773367863418,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+            "commentatorTierSimilarities": [
+                35.63,
+                26.07,
+                38.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John's mission was to turn people's hearts towards God, preparing them for the coming of Christ. He represented the law and the prophets, emphasizing the need for repentance. John's ministry led many Jews to acknowledge their sins and seek forgiveness, bringing them closer to the Lord their God. While his success was partial, John played a crucial role in the conversion of people, guiding them towards true transformation and a genuine relationship with God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.7271697904613244,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                33.68,
+                28.95,
+                37.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John's work of preparation and turning hearts towards God, as a representative of the law and the prophets, aimed to bring about repentance. His ministry was like that of the reformer Elijah, with the goal of turning people to the Lord their God through the baptism of repentance. The success of John's mission was evident in the conversion of many Jews, leading them to a genuine acknowledgment of sin and a commitment to seek forgiveness and faith in the Messiah. John played a crucial role in the spiritual transformation of the people he reached.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.784752065348937,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.68,
+            "commentatorTierSimilarities": [
+                33.0,
+                28.85,
+                38.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:31:37",
+    "verseRef": "Acts 15:7",
+    "bestBHT": {
+        "bht": "A fervent and extensive debate ensued among the gathered multitude, with individuals engaging in heated discussions. Peter, esteemed for his suitability to address the apostolic decisions, emphasized that this question had long since been settled through divine intervention. This moment served as a powerful testament to Peter's significance, as he officially endorsed the views that Paul devoted himself to establishing. Notably, ample time was given for deliberation, without any rush to hasten the proceedings. Peter's reminder also reproached those who objected, asserting that what Paul and Barnabas reported was not novel.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.67,
+        "qualityScore": 1.856757736125568,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.08,
+        "commentatorTierSimilarities": [
+            34.1,
+            36.5,
+            29.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A promiscuous debate, not perhaps without some angry feeling, ensued on their first coming together,\u2014and among the multitude, as is implied in ver. 12,\u2014man disputing with man.",
+            "Peter... principallly because of his peculiar fitness to open the apostolic decisions on the subject, from having been made the instrument of the first public and approved reception of the Gentiles.",
+            "The length of time elapsed is placed by Peter in the strongest light, to shew that the question had in fact been settled by divine interference long since."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is the last mention of him in the Acts, and one worthy of his standing, as formally pronouncing, from the divine decision of the matter already in his own case, in favor of the views which all of Paul's labors were devoted to establishing.\" ",
+            "A good while ago\u2014probably about fifteen years before this.",
+            "Made choice . . . that the Gentiles by my mouth."
+        ],
+        "Albert Barnes": [
+            "Much disputing - Or rather, much inquiry or deliberation.",
+            "Peter was probably the most aged, and was most accustomed to speak.",
+            "God made choice ... That the Gentiles."
+        ],
+        "Marvin Vincent": [
+            "The word of the gospel [\u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03b5\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03bf\u03c5] . This phrase occurs nowhere else; and eujaggelion, gospel, is found only once more in Acts (ch. 20 24)."
+        ],
+        "John Calvin": [
+            "He suffered (even in that company and assembly wherein he was chief) the principal point of Christian doctrine to be diversely tossed and handled, lest we should wonder, if at any time it so fall out, that men, who are otherwise learned and godly, do, through unskillfulness, fall into an error.",
+            " ",
+            "Now, it is meet that we ponder the words of Peter, whereby he proveth that this was granted to the Gentiles by God, to be free from the yoke of the law.",
+            "The eyes of God do not look upon the vain pomp of men, but upon the integrity of men\u2019s hearts."
+        ],
+        "Philip Schaff": [
+            "The noble self-denial which Peter showed, the brave and independent position which he took on this momentous occasion, and which probably cost him much of his influence among the stricter Jewish Christians, must be reckoned among the famous apostle\u2019s chiefest titles to honour.",
+            "Peter\u2019s reminder was a grave rebuke to the extreme Pharisee party, who probably had forgotten the case of Cornelius, referred to by the apostle, which had taken place some eight or ten years before.",
+            "There is no doubt that the burning ardour of Paul, and his marked success in the work, had influenced in no small degree the warm-hearted and enthusiastic Peter."
+        ],
+        "Archibald T. Robertson": [
+            "They were allowed plenty of time and there was no effort to shut off debate or to rush anything through the meeting.",
+            "The wonder was that he had waited so long. It was fitting that Peter should speak.",
+            "His point is that what Paul and Barnabas have reported is nothing new. The Judaizers made objection then as they are doing now."
+        ],
+        "John Gill": [
+            "And when there had been much disputing,... much had been said, and a great deal of time had been taken up about the thing in controversy.",
+            "Peter rose up... to signify that he had something to say; and he stood up that he might be the better heard.",
+            "some years ago it pleased God... to call him to go to Caesarea, and preach the gospel to Cornelius, and those that were in his house, that hearing they might believe in Christ."
+        ],
+        "John Wesley": [
+            "But if it had, if they themselves had debated at first, yet might their final decision be from an unerring direction.",
+            "For how really soever they were inspired, we need not suppose their inspiration was always so instantaneous and express, as to supersede any deliberation in their own minds, or any consultation with each other.",
+            "Peter rose up \u2014 This is the last time he is mentioned in the Acts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A heated and extensive debate arose among the gathered multitude, with individuals expressing their thoughts and possibly some anger. Peter, chosen for his unique role in accepting the Gentiles, reminded everyone that this question had already been settled by divine intervention many years prior. This was a significant moment for Peter, as he formally pronounced his support for the views that Paul had dedicated his efforts to establishing. It is worth noting that there had been ample opportunity for discussion and no rush to reach a decision. Peter's reminder also served as a rebuke to those who objected, asserting that what Paul and Barnabas had reported was not new.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 1.819041182494089,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.82,
+            "commentatorTierSimilarities": [
+                32.94,
+                35.71,
+                31.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A contentious discussion erupted when the group gathered, with people debating passionately. Peter, chosen because of his firsthand experience with the acceptance of Gentiles, highlighted the divine intervention that settled this issue a while ago. This marked a notable moment for Peter as he formally endorsed the beliefs Paul had tirelessly advocated for. It is worth mentioning that ample time was given for discussion, without any rush to reach a resolution. Peter's reminder also served as a rebuke to those who contested, stating that Paul and Barnabas were not bringing new information.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.8503404922747801,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "commentatorTierSimilarities": [
+                35.0,
+                35.17,
+                29.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A passionate and lengthy debate took place among the gathered multitude, with individuals engaging in disputations. Peter, uniquely suited due to his role in the acceptance of Gentiles, emphasized that the question had already been resolved by divine intervention many years ago. This moment served as a significant testament to Peter's standing, as he formally affirmed the views that Paul had dedicated his efforts to establish. Notably, there was ample time allowed for discussion, without any rush to come to a conclusion. Peter's reminder also served as a rebuke to those who objected, noting that what Paul and Barnabas had reported was not something new.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.8738372781299293,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                34.72,
+                35.9,
+                29.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A spirited and prolonged debate unfolded among the assembled crowd, with different individuals engaging in disputes. Peter, chosen for his unique suitability in opening the apostolic decisions, highlighted the divine resolution of this matter long ago. This significant moment marked Peter's final mention in Acts, as he formally declared his support for the principles Paul tirelessly worked to establish. Notably, there was ample time allowed for discussion, with no rush to rush to any decisions. Peter's reminder also functioned as a rebuke to those who objected, emphasizing the absence of novelty in Paul and Barnabas' report.",
+            "wordCount": 98,
+            "quoteTokenProportion": 27.4,
+            "qualityScore": 1.7357686095402687,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.06,
+            "commentatorTierSimilarities": [
+                34.87,
+                34.81,
+                30.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A fervent and extensive debate ensued among the gathered multitude, with individuals engaging in heated discussions. Peter, esteemed for his suitability to address the apostolic decisions, emphasized that this question had long since been settled through divine intervention. This moment served as a powerful testament to Peter's significance, as he officially endorsed the views that Paul devoted himself to establishing. Notably, ample time was given for deliberation, without any rush to hasten the proceedings. Peter's reminder also reproached those who objected, asserting that what Paul and Barnabas reported was not novel.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.856757736125568,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.08,
+            "commentatorTierSimilarities": [
+                34.1,
+                36.5,
+                29.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

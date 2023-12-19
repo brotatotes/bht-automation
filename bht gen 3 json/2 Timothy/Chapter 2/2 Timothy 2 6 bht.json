@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:30:38",
+    "verseRef": "2 Timothy 2:6",
+    "bestBHT": {
+        "bht": "Those who labor in the field are entitled to partake in the harvest's first fruits; such a right cannot be forfeited by relaxing their labor. The exhortation is clear: persevere in your toil to enjoy the reward. This principle extends beyond agriculture to the proclamation of the gospel, wherein those who share its message should live from it. Just as the husbandman tirelessly cultivates the land before gathering the fruit, ministers of the word must labor and endure hardships to reap heavenly rest and glory.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 2.004332352257289,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.99,
+        "commentatorTierSimilarities": [
+            28.63,
+            32.7,
+            38.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The husbandman who is engaged in labour ought first to partake of the fruits.\" ",
+            "The right of first participation in the harvest belongs to him who is labouring in the field.\" ",
+            "Do not, thou therefore, by relaxing this labour, forfeit that right."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The right of first partaking of the fruits belongs to him who is laboring.",
+            "Do not thou, therefore, relax thy labors, as thou wouldest be foremost in partaking of the reward.",
+            "First,\" before the idler."
+        ],
+        "Albert Barnes": [
+            "There is a fitness or propriety (\u03b4\u03b5\u03b9 dei) that the man who cultivates the earth should enjoy the fruits of his labor.",
+            "Labor must precede reward; that if a man would reap, he must sow; that he could hope for no fruits, unless he toiled for them.",
+            "An encouragement to Timothy to persevere in his toils, looking onward to the reward."
+        ],
+        "Marvin Vincent": [
+            "The husbandman that laboreth...implies hard, wearisome toil.",
+            "Must be the first to partake. His is the first right to the fruits of his labor in the gospel.",
+            "They who proclaim the gospel should live of the gospel."
+        ],
+        "John Calvin": [
+            "The meaning therefore, is, that husbandmen do not gather the fruit, till they have first toiled hard in the cultivation of the soil, by sowing and by other labors.",
+            "And if husbandmen do not spare their toils, that one day they may obtain fruit, and if they patiently wait for the season of harvest; how much more unreasonable will it be for us to refuse the labors which Christ enjoins upon us, while he holds out so great a reward?",
+            "It is necessary that the husbandmen should first labor, and then enjoy the fruits (of his labor)."
+        ],
+        "Philip Schaff": [
+            "The Greek, which expresses the qualifying clause by a present participle, implies labour during the (harvest or vintage rather than in the earlier stages of growth.",
+            "Thus taken, the precept is parallel to that of not muzzling the ox as he treads out the corn, and urges to persevering labour when the harvest is ready, i.e. when the ministerial work seems crowned with success.",
+            "The words probably refer to the actual practice of Jewish or Greek agriculture."
+        ],
+        "Archibald T. Robertson": [
+            "The toiling tiller of the soil.",
+            "First, as is natural and right.",
+            "To share in."
+        ],
+        "John Gill": [
+            "The ministers of the word ought first to be partakers of the grace of God, the fruits of the Spirit, and of the Gospel, and rightly and spiritually understand it, before they preach it to others.",
+            "Such who labour in the word and doctrine, ought in the first place to be taken care of, and have a sufficient maintenance provided for them.",
+            "A minister of the Gospel must first labour, and endure hardships in this life, before he sits down in the kingdom of heaven, and takes his rest, and enjoys the crown of glory, which fades not away."
+        ],
+        "John Wesley": [
+            "Unless he labour first, he will reap no fruit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Bible verse in question speaks of a principle drawn from the world of agriculture: the laborers who cultivate the land are the ones who have the right to partake of the fruits. It reflects the idea that there is a fittingness in receiving the reward after one has diligently toiled to bring it forth. The instruction is clear: do not relax or give up on your labor, for it is only by enduring the hard and wearisome toil that one can be deemed worthy of partaking of the reward. It reminds us that those who proclaim the gospel should live of the gospel, experiencing and understanding its truth before they share it with others. Just as the husbandmen do not gather the fruit until they have first labored, so too must we persevere in our labor, knowing that one day we will reap the fruit.",
+            "wordCount": 146,
+            "quoteTokenProportion": 47.96,
+            "qualityScore": 1.8784901754761942,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.8,
+            "commentatorTierSimilarities": [
+                26.08,
+                33.2,
+                40.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The principle highlighted here is rooted in agriculture: the laborers who cultivate the land have the rightful claim to partake in its fruits. Diligent toil precedes reward, a lesson applicable not only to the nurturing of physical crops but also to the spiritual realm. The message is clear: do not grow weary in your work, for it is through enduring labor that one merits the reward. Proclaimers of the gospel must first partake in its grace and understand it spiritually before sharing it with others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8756938537588659,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.71,
+            "commentatorTierSimilarities": [
+                28.77,
+                34.49,
+                36.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This teaching draws a valuable parallel from the world of agriculture: the laborers who cultivate the land have the primary right to partake in its fruits. Diligent toil precedes reward, emphasizing the necessity of persevering in one's work. It emphasizes the importance for those proclaiming the gospel to first partake in its grace and deeply comprehend its truths before sharing them with others. This principle is applicable beyond agriculture, reminding us that enduring labor is the pathway to reaping the fruit of our efforts.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.8097877725311746,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                28.22,
+                35.28,
+                36.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who labor in the field are entitled to partake in the harvest's first fruits; such a right cannot be forfeited by relaxing their labor. The exhortation is clear: persevere in your toil to enjoy the reward. This principle extends beyond agriculture to the proclamation of the gospel, wherein those who share its message should live from it. Just as the husbandman tirelessly cultivates the land before gathering the fruit, ministers of the word must labor and endure hardships to reap heavenly rest and glory.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.004332352257289,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.99,
+            "commentatorTierSimilarities": [
+                28.63,
+                32.7,
+                38.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The principle highlighted in this passage reminds us that the laborers who toil in the field deserve the first share of the harvest. It emphasizes the importance of not shirking our responsibilities, as we should desire to be the first to partake in the rewards of our efforts. This sentiment is applicable not only to agricultural work but also to sharing the gospel. Those who proclaim the gospel should first partake in its grace and truly understand it before sharing it with others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.7673056131051772,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+            "commentatorTierSimilarities": [
+                32.19,
+                30.87,
+                36.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

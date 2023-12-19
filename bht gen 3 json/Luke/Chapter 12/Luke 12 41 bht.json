@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:19:11",
+    "verseRef": "Luke 12:41",
+    "bestBHT": {
+        "bht": "Peter's question in Luke 12:41 is a testament to the authenticity of this discourse. The suddenness and lack of connection to previous verses show that this question arises from a genuine curiosity. Peter wants to know who will be honored at the Lord's coming. This incident also confirms the historical accuracy of Luke's account, emphasizing that he is providing actual data. Peter's question leads Jesus to respond with a parabolic reply in Luke 12:42-48. The language of this exchange aligns with Peter's character and further supports the accuracy of Luke's narrative.",
+        "wordCount": 95,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.5873285021107293,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.12,
+        "commentatorTierSimilarities": [
+            35.43,
+            36.17,
+            28.4
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This question coming in so suddenly and unconnectedly and remaining apparently unanswered, is among the many proofs of the originality and historic reality of this discourse.",
+            "Who are they that are thus to wait and watch, and to be thus honoured at the Lord's coming?",
+            "among the many proofs of the originality and historic reality of this discourse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "41-48. unto us or even to all?\u2014us",
+            "\tthe Twelve, or all this vast audience?"
+        ],
+        "Philip Schaff": [
+            "The question was probably put in a wrong spirit, with reference to the high reward promised, rather than to the duty enjoined.",
+            "The language is so characteristic of Peter as to furnish striking evidence of the accuracy of Luke.",
+            "The early date renders this the more likely."
+        ],
+        "Archibald T. Robertson": [
+            "This incident confirms also the impression that Luke is giving actual historical data in the environment of these discourses.",
+            "Was it the magnificent promise in verse Luke 12:37 that stirred Peter's impulsiveness?",
+            "Peter's question draws out a parabolic reply by Jesus (Luke 12:42-48)."
+        ],
+        "John Gill": [
+            "Then Peter said unto him, Lord...speakest thou this parable: of the master at the wedding, and his servants waiting for him, or of the housekeeper watching that his house be not broken up, or both?",
+            "Peter was in doubt whether the above discourse was peculiarly directed to them, the apostles, as containing special instructions to them in the discharge of the ministerial work...",
+            "...or whether it was designed for all his disciples and followers, both in the present age, and in time to come, to the end of the world."
+        ],
+        "John Wesley": [
+            "Speakest thou this parable to us \u2014 Apostles and disciples: Or to all - The people? Does it concern us alone? Or all men?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's question in Luke 12:41 is a testament to the authenticity of this discourse. The suddenness and lack of connection to previous verses show that this question arises from a genuine curiosity. Peter wants to know who will be honored at the Lord's coming. This incident also confirms the historical accuracy of Luke's account, emphasizing that he is providing actual data. Peter's question leads Jesus to respond with a parabolic reply in Luke 12:42-48. The language of this exchange aligns with Peter's character and further supports the accuracy of Luke's narrative.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.5873285021107293,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.12,
+            "commentatorTierSimilarities": [
+                35.43,
+                36.17,
+                28.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This question, appearing suddenly and unconnectedly, is proof of the originality and historic reality of the discourse. Peter's inquiry about those who will be honored at the Lord's coming confirms the historical accuracy of Luke's account. The language used is characteristic of Peter, supporting the accuracy of Luke's narrative. This incident also affirms that Luke provides actual historical data. Peter's question prompts Jesus to respond with a parabolic reply, further enriching the understanding of the verse.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.5732420750978908,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                37.7,
+                37.61,
+                24.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sudden and unconnected nature of this question serves as evidence for the authenticity and historicity of the discourse. Peter's inquiry about those who will be honored at the Lord's coming highlights the accuracy and reliability of Luke's account. The language used in this exchange reflects Peter's character, further establishing the credibility of Luke's narrative. This incident reinforces the notion that Luke is providing genuine historical information. Moreover, it leads Jesus to respond with a parabolic explanation, shedding more light on the intended message.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.4604636401522115,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.9,
+            "commentatorTierSimilarities": [
+                35.93,
+                39.35,
+                24.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sudden and unconnected question posed by Peter is evidence of the originality and historic authenticity of this discourse. Peter's inquiry about the ones who will be honored at the Lord's coming demonstrates the accuracy of Luke's account. The language used in this interaction reflects Peter's character, providing further validation to the reliability of Luke's narrative. This incident strengthens the belief that Luke provides genuine historical data while Jesus' response in the form of a parable deepens the understanding of the intended message.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.5634061136194572,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.33,
+            "commentatorTierSimilarities": [
+                33.86,
+                38.47,
+                27.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's sudden and unconnected question bears witness to the originality and historical reality of this discourse. His inquiry regarding who will be honored at the Lord's coming serves as evidence of the accuracy and authenticity of Luke's account. The language used in this exchange resonates with Peter's character, lending further credence to the reliability of Luke's narrative. This incident reinforces the belief that Luke provides genuine historical data, while Jesus' subsequent parabolic response enhances our understanding of the intended message.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.5643895895773676,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.36,
+            "commentatorTierSimilarities": [
+                37.42,
+                34.5,
+                28.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

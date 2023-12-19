@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:17:08",
+    "verseRef": "2 Corinthians 8:5",
+    "bestBHT": {
+        "bht": "Moved by the grace of God, the Corinthians went far beyond our expectations. They first gave themselves, surrendering fully to God and the apostles. It was through the will of God that they willingly submitted themselves, recognizing both His authority and the authority of the apostles. Their remarkable act of giving serves as a testament to their faith and devotion to God, far exceeding our expectations.",
+        "wordCount": 66,
+        "quoteTokenProportion": 46.51,
+        "qualityScore": 2.1622722964583447,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.24,
+        "commentatorTierSimilarities": [
+            32.25,
+            34.47,
+            33.28
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "far beyond our expectation",
+            "themselves they gave first",
+            "by the will of God"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "First,\" not indicating priority of time, but first of all, above all in importance. The giving of themselves takes precedence of their other gifts, as being the motive which led them to the latter.",
+            "Moved by the will of God, who made them willing.\" It is therefore called \"the grace of God.",
+            "The grace of God."
+        ],
+        "Albert Barnes": [
+            "They did not give what we expected only. We knew their poverty, and we expected only a small sum from them.",
+            "They first made an entire consecration of themselves and all that they had to the Lord. They kept nothing back. They felt that all they had was his.",
+            "Where a people honestly and truly devote themselves to God, they will find no difficulty in having the means to contribute to the cause of charity."
+        ],
+        "Marvin Vincent": [
+            "They took part in this contribution in a manner beyond our expectation.",
+            "Their liberality began in self-surrender to God and to the apostles as His agents.",
+            "To us by the will of God."
+        ],
+        "John Calvin": [
+            "They not only had their worldly substance in readiness, but were prepared to devote even themselves. They gave themselves, says he, first to God, then to us.",
+            "It is quite a common thing, that when God charges or commands through means of any one, he associates the person whom he employs as his minister, both in authority to enjoin, and in the obedience that is rendered.",
+            "They were influenced by this consideration in listening to Paul, as speaking from God\u2019s mouth."
+        ],
+        "Philip Schaff": [
+            "And this they did, not as we hoped, but far exceeding our expectations...\" ",
+            "They gave their own selves to the Lord (the Lord Jesus), and to us (as acting for Him) by the will of God.\" ",
+            "When the proposal was first submitted to them...the whole thing would seem to them a new idea; and meeting probably by themselves, and praying over it, they seem to have made a fresh gift of themselves to the Lord and to the apostle and his associates as His honoured servants in this business."
+        ],
+        "Archibald T. Robertson": [
+            "They went beyond his hopes about them.",
+            "First they gave their own selves.",
+            "That is the explanation of the generous giving."
+        ],
+        "John Gill": [
+            "when they had given their precious souls, their immortal all, and had committed the salvation of them entirely to him.",
+            "till men see themselves in such a case they will never give themselves to Christ, or betake themselves to him to be saved by him.",
+            "they heartily submit, and as their Lord and King to the sceptre of his kingdom, the laws of his house, and ordinances of his Gospel; for they are made a willing people, not only to be saved by him, but to serve him in body and soul, and with all they have."
+        ],
+        "John Wesley": [
+            "And not as we hoped \u2014 That is, beyond all we could hope.",
+            "They gave themselves to us, by the will of God \u2014 In obedience to his will, to be wholly directed by us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Moved by the grace of God, the Corinthians went above and beyond what was expected, far surpassing our hopes. They first gave themselves, surrendering fully to God and the apostles. This self-surrender was the driving force behind their generous contribution. Not only did they provide financial support as we had anticipated, but they also dedicated their entire being to the Lord. It was through the will of God that they willingly submitted themselves, recognizing both His authority and the authority of the apostles. Their remarkable act of giving serves as a testament to their faith and devotion to God, far exceeding our expectations.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 2.06712450869962,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+            "commentatorTierSimilarities": [
+                30.96,
+                37.01,
+                32.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moved by the grace of God, the Corinthians went far beyond our expectations. They first gave themselves, surrendering fully to God and the apostles. It was through the will of God that they willingly submitted themselves, recognizing both His authority and the authority of the apostles. Their remarkable act of giving serves as a testament to their faith and devotion to God, far exceeding our expectations.",
+            "wordCount": 66,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 2.1622722964583447,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.24,
+            "commentatorTierSimilarities": [
+                32.25,
+                34.47,
+                33.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians, moved by the grace of God, surprised us with their generosity. They went beyond our expectations, giving themselves wholeheartedly to God and the apostles. Their self-surrender was the driving force behind their remarkable act of giving. They recognized the authority of God and willingly submitted themselves to Him. This act of devotion far exceeded what we had hoped for. Through their actions, they demonstrated their unwavering faith and commitment to God's will.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.0630408213857176,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.94,
+            "commentatorTierSimilarities": [
+                33.59,
+                34.2,
+                32.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moved by the grace of God, the Corinthians went above and beyond our expectations. They generously gave themselves, recognizing the authority of God and the apostles. Their self-surrender served as the motive behind their remarkable act of giving. It was through the will of God that they willingly submitted themselves, both in obedience and in devotion. Their act of consecration far exceeded what we had anticipated. Their unwavering faith and commitment to God's will were evident in their selfless generosity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0613327183205246,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+            "commentatorTierSimilarities": [
+                34.45,
+                34.19,
+                31.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians, moved by the grace of God, exceeded our expectations. They first gave themselves as an act of devotion, recognizing the authority of God and the apostles. Their self-surrender served as the motive for their remarkable act of giving. It was through the will of God that they willingly submitted themselves, both in obedience and in devotion. Their act of consecration far exceeded what we had anticipated. Their unwavering faith and commitment to God's will were evident in their selfless generosity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.0405352370841756,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                34.36,
+                34.13,
+                31.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

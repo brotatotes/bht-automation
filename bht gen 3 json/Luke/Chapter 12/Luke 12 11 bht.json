@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:18:38",
+    "verseRef": "Luke 12:11",
+    "bestBHT": {
+        "bht": "Do not become anxious, Jesus advises, urging his followers not to worry about how they will answer or what they will say when confronted. Instead, they should trust in God's wisdom and speak with confidence, knowing that the Spirit will provide them with the words they need. By relinquishing their anxieties and relying on divine guidance, they can find peace and assurance in their response.",
+        "wordCount": 66,
+        "quoteTokenProportion": 45.28,
+        "qualityScore": 1.121065948050743,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.62,
+        "commentatorTierSimilarities": [
+            33.29,
+            0.0,
+            66.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "See on Matt. x. 19, 20."
+        ],
+        "Marvin Vincent": [
+            "Answer [\u03b1\u03c0\u03bf\u03bb\u03bf\u03b3\u03b7\u03c3\u03b7\u03c3\u03b8\u03b5] . See on 1 Peter 3:15."
+        ],
+        "Archibald T. Robertson": [
+            "Do not become anxious.",
+            "How or what ye shall answer.",
+            "Retaining the deliberative subjunctive."
+        ],
+        "John Gill": [
+            "Take ye no thought how, or what thing ye shall answer, or what ye shall say.",
+            "Be not anxiously concerned, neither about the manner, nor the matter of your answer, apology, and defence.",
+            "in the first part of this clause, the Syriac, Persic, and Ethiopic versions, only read, \"how\"; and the Arabic version only, \"what\"."
+        ],
+        "John Wesley": [
+            "Take no thought \u2014 Be not solicitous about the matter or manner of your defence; nor how to express yourselves. Matthew 10:19; Luke 21:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not become anxious, Jesus advises, emphasizing the importance of relying on God's guidance when faced with difficult situations. He encourages his followers not to worry about how they will answer or what they will say when confronted. Instead, Jesus urges them to trust in God's wisdom and to speak with confidence, recognizing that their words will be guided by the Holy Spirit. By letting go of their anxieties and surrendering to God's guidance, they can find peace and assurance in their response, knowing that the Spirit will provide them with the words they need.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.0652791287214842,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.76,
+            "commentatorTierSimilarities": [
+                34.47,
+                0.0,
+                65.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not become anxious, Jesus advises, urging his followers not to worry about how they will answer or what they will say when confronted. Instead, they should trust in God's wisdom and speak with confidence, knowing that the Spirit will provide them with the words they need. By relinquishing their anxieties and relying on divine guidance, they can find peace and assurance in their response.",
+            "wordCount": 66,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.121065948050743,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.62,
+            "commentatorTierSimilarities": [
+                33.29,
+                0.0,
+                66.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not become anxious, Jesus advises, emphasizing the importance of relying on God's guidance when faced with difficult situations. He encourages his followers not to worry about how they will answer or what they will say when confronted. Instead, Jesus urges them to trust in God's wisdom and to speak with confidence, recognizing that their words will be guided by the Holy Spirit. By letting go of their anxieties and surrendering to God's guidance, they can find peace and assurance in their response, knowing that the Spirit will provide them with the words they need.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.0652791287214842,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.76,
+            "commentatorTierSimilarities": [
+                34.47,
+                0.0,
+                65.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not become anxious, Jesus advises, encouraging his followers to trust in God's guidance when confronted with challenging situations. He directs them not to worry about how they will answer or what they will say, but to rely on divine wisdom and speak confidently, knowing that the Holy Spirit will guide their words. By relinquishing anxiety and surrendering to God's direction, they can find peace and assurance in their response, assured that the Spirit will provide them with the necessary words.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.0357741193116692,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.78,
+            "commentatorTierSimilarities": [
+                35.37,
+                0.0,
+                64.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not become anxious, Jesus advises, urging his followers not to worry about how they will answer when confronted. Instead, they should trust in God's guidance and speak confidently. By relinquishing their anxieties and relying on divine wisdom, they can find peace and assurance in their response, knowing that the Holy Spirit will provide them with the necessary words. Jesus emphasizes the importance of surrendering to God's direction, allowing His wisdom to guide their answers and alleviate any anxieties they may have.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.0932232895263212,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.69,
+            "commentatorTierSimilarities": [
+                35.83,
+                0.0,
+                64.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

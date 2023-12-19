@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:37:49",
+    "verseRef": "Acts 28:4",
+    "bestBHT": {
+        "bht": "The natives, who were sure to know, declared the serpent to be venomous and concluded that the man must be a murderer. They had a belief in a Supreme, Avenging Eye and Hand, though their understanding may have been vague. The Greeks worshipped abstractions, referring to the goddess \u0394\u03b9\u03ba\u03b7. These people held the mistaken belief that calamity is proof of guilt, showing poor philosophy and theology. The word 'beast' can refer to any animal, including a serpent. While we cannot always attribute specific calamities to divine judgments, their innate moral sense led them to this conclusion.",
+        "wordCount": 96,
+        "quoteTokenProportion": 37.33,
+        "qualityScore": 1.7649225396847288,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.03,
+        "commentatorTierSimilarities": [
+            35.18,
+            33.42,
+            31.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The natives, who were sure to know, here positively declared it to have been a venomous serpent.",
+            "No doubt this man is a murderer.",
+            "Vengeance] or Nemesis. What the Ph\u0153nician islanders called her, does not appear; but the idea is common to all religions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No doubt this man is a murderer\u2014His chains, which they would see, might strengthen the impression.",
+            "They believed in a Supreme, Resistless, Avenging Eye and Hand, however vague their notions of where it resided.",
+            "whom... vengeance suffereth not to live."
+        ],
+        "Albert Barnes": [
+            "The venomous beast - The English word 'beast' we usually apply to an animal of larger size than a viper. But the original \u03b8\u03b7\u03c1\u03b9\u0301\u03bf\u03bd the\u0304rion is applicable to animals of any kind, and was especially applied by Greek writers to serpents.",
+            "Why they thought he was a murderer rather than guilty of some other crime is not known. It might have been: (1) Because they inferred that he must have been guilty of some very atrocious crime, and as murder was the highest crime that man could commit, they inferred that he had been guilty of this.",
+            "The general proposition that all sin will be punished at some time is true, but we are not qualified to affirm of particular calamities always that they are direct judgments for sin. In some cases we may. In the case of the drunkard, the gambler, and the profligate, we cannot doubt that the loss of property, health, and reputation is the direct result of specific crime."
+        ],
+        "Marvin Vincent": [
+            "Justice [\u03b4\u03b9\u03ba\u03b7] . Personified. ",
+            "Suffereth not [\u03bf\u03c5\u03ba \u03b5\u03b9\u03b1\u03c3\u03b5\u03bd] . The aorist tense : did not suffer. His death is regarded as fixed by the divine decree."
+        ],
+        "John Calvin": [
+            "For God, to the end he might make the world without excuse, would have this deeply rooted in the minds of all men, that calamity and adversity, and chiefly notable destruction, were testimonies and signs of his wrath and just vengeance against sins.",
+            "Though God doth always punish men\u2019s sins with adversity, yet doth he not punish every man according to his deserts in this life; and sometimes the punishments of the godly are not so much punishments as trials of their faith and exercises of godliness.",
+            "For so soon as God beginneth to strike, we do not by and by see his drift and purpose; but the unlike end doth at length declare, that those differ far before God who seem in men\u2019s eyes both alike in the likelihood of punishment."
+        ],
+        "Philip Schaff": [
+            "The word 'treacle,' which is derived from ( \u03b8\u03ba\u03c1\u03b9\u03b1\u03ba\u03cc\u03bd [or \u03b8\u03f0\u03c1\u03b9\u03b1\u03f0\u03cc\u03bd ]), a black medicine or antidote made of snakes.",
+            "This suspicions conversation among themselves is an animated element in the description.",
+            "The instinctive moral sense of these untutored people would naturally lead them to this conclusion."
+        ],
+        "Archibald T. Robertson": [
+            "The natives speak of \u0394\u03b9\u03ba\u03b7 as a goddess, but we know nothing of such actual worship in Malta, though the Greeks worshipped abstractions as in Athens.",
+            "They look on Paul as a doomed man as good as dead. These people thought that calamity was proof of guilt, poor philosophy and worse theology.",
+            "Jeremy Taylor: 'We kill the viper and make treacle of him.'"
+        ],
+        "John Gill": [
+            "And by the viper's fastening on him, they concluded it was murder he was guilty of; for the same notion might obtain among them, as among the Jews, that a murderer that could not be legally convicted, was sometimes punished this way.",
+            "So the Jews observe, that when the execution of capital punishments was taken away from them, yet such who deserved them were punished by God in a way equivalent to them.",
+            "The barbarians supposed ... the viper's fastening on him, as to be sent by her, so to be immediate death to him."
+        ],
+        "John Wesley": [
+            "Such rarely go unpunished even in this life; whom vengeance hath not suffered to live.",
+            "It is with pleasure that we trace among these barbarians the force of conscience, and the belief of a particular providence: which some people of more learning have stupidly thought it philosophy to despise.",
+            "Let us guard against this, lest, like them, we condemn not only the innocent, but the excellent of the earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The natives, who were sure to know, here positively declared it to have been a venomous serpent. No doubt this man is a murderer. They believed in a Supreme, Resistless, Avenging Eye and Hand, however vague their notions of where it resided. The natives speak of \u0394\u03b9\u03ba\u03b7 as a goddess, but we know nothing of such actual worship in Malta, though the Greeks worshipped abstractions as in Athens. These people thought that calamity was proof of guilt, poor philosophy and worse theology. The venomous beast - The English word 'beast' we usually apply to an animal of larger size, but the original \u03b8\u03b7\u03c1\u03b9\u0301\u03bf\u03bd the\u0304rion is applicable to animals of any kind, and was especially applied by Greek writers to serpents. The general proposition that all sin will be punished at some time is true, but we are not qualified to affirm of particular calamities always that they are direct judgments for sin. The instinctive moral sense of these untutored people would naturally lead them to this conclusion.",
+            "wordCount": 168,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.861065682565552,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                34.24,
+                34.51,
+                31.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The natives, certain that it was a venomous serpent, declared him a murderer. They believed in a Supreme, Avenging Eye and Hand, though unclear of its nature. The Greeks worshipped abstractions, like the goddess \u0394\u03b9\u03ba\u03b7 mentioned by the natives. These people wrongly assumed calamity was proof of guilt, overlooking that sin is not always immediately punished. Their moral sense led them to this false conclusion. The word 'beast' could apply to any animal, including a serpent. We cannot always declare specific calamities as divine judgments, but their instinctive sense was understandable.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.7619772188556224,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                33.99,
+                33.88,
+                32.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The natives, knowing it was a venomous serpent, labeled him a murderer. They held a belief in a Supreme, Avenging Eye and Hand, even if unclear on its nature. The Greeks worshipped abstractions, such as the goddess \u0394\u03b9\u03ba\u03b7 mentioned by the locals. Poorly versed in philosophy and theology, these people wrongly assumed that calamity proved guilt. The word 'beast' could refer to any animal, including a serpent. While not all calamities are direct judgments for sin, their innate moral sense led them to this misguided conclusion.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.7385544631986454,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.15,
+            "commentatorTierSimilarities": [
+                33.33,
+                33.67,
+                33.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The natives, who were sure to know, declared the serpent to be venomous and concluded that the man must be a murderer. They had a belief in a Supreme, Avenging Eye and Hand, though their understanding may have been vague. The Greeks worshipped abstractions, referring to the goddess \u0394\u03b9\u03ba\u03b7. These people held the mistaken belief that calamity is proof of guilt, showing poor philosophy and theology. The word 'beast' can refer to any animal, including a serpent. While we cannot always attribute specific calamities to divine judgments, their innate moral sense led them to this conclusion.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.7649225396847288,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.03,
+            "commentatorTierSimilarities": [
+                35.18,
+                33.42,
+                31.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The natives, certain that it was a venomous serpent, declared him a murderer. They believed in a Supreme, Resistless, Avenging Eye and Hand, however vague their notions of where it resided. The natives speak of \u0394\u03b9\u03ba\u03b7 as a goddess, but we know nothing of such actual worship in Malta, though the Greeks worshipped abstractions as in Athens. These people thought that calamity was proof of guilt, poor philosophy and worse theology. The venomous beast - The English word 'beast' we usually apply to an animal of larger size, but the original \u03b8\u03b7\u03c1\u03b9\u0301\u03bf\u03bd the\u0304rion is applicable to animals of any kind, and was especially applied by Greek writers to serpents. The general proposition that all sin will be punished at some time is true, but we are not qualified to affirm of particular calamities always that they are direct judgments for sin. The instinctive moral sense of these untutored people would naturally lead them to this conclusion.",
+            "wordCount": 157,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8662932735955131,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.4,
+            "commentatorTierSimilarities": [
+                32.14,
+                35.33,
+                32.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

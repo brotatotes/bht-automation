@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:11:59",
+    "verseRef": "1 Corinthians 11:22",
+    "bestBHT": {
+        "bht": "The assembly of the brethren is not the place for satiating appetites; it is where contempt for the congregation of God should not be shown. The congregation mostly comprises the poor, whom God has chosen, and by treating them with disdain, they imitate heathen practices. Sharing their abundance would be appropriate instead of shaming their poorer comrades. Paul expresses his disapproval and bewilderment at their sacrilege in despising the church of God.",
+        "wordCount": 72,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.0180379898968672,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+        "commentatorTierSimilarities": [
+            37.14,
+            32.05,
+            30.81
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "At home is the place to satiate the appetite, not the assembly of the brethren.",
+            "Do you show your contempt for the congregation of God?",
+            "Shall I praise you in this matter? I praise you not."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That is the place to satiate the appetite, not the assembly of the brethren.",
+            "The congregation mostly composed of the poor, whom 'God hath chosen,' however ye show contempt for them.",
+            "I praise you not."
+        ],
+        "Albert Barnes": [
+            "Do you not know that the church of God is not designed to be a place of feasting and revelry; nor even a place where to partake of your ordinary meals?",
+            "Their treatment of the poor in this manner would be a public exposing them to shame; and the apostle regarded this as particularly dishonorable, and especially in a Christian church, where all were professedly on an equality.",
+            "How shall I sufficiently express my surprise at this, and my disapprobation at this course? It cannot be possible that this is right."
+        ],
+        "Marvin Vincent": [
+            "In thus shaming their poorer comrades they imitated the heathen.",
+            "And so those who had brought much were ashamed not to partake of that which was placed for general use.",
+            "And not, in return, to place their own stock on the table."
+        ],
+        "John Calvin": [
+            "We know for what exercises a Church should assemble \u2014 to hear doctrine, to pour forth prayers, and sing hymns to God, to observe the sacraments, to make confession of their faith, and to engage in pious observances, and other exercises of piety.",
+            "Every one has his own house appointed him for eating and drinking, and hence that is an unseemly thing in a sacred assembly.",
+            "Shall I praise you ?In this I do not praise you."
+        ],
+        "Philip Schaff": [
+            "Despise ye the church of God? emphatically so named here, as in 1 Corinthians 11:16, to express the affront put upon God Himself, regarded as present in their assemblies.",
+            "Put them to shame that have not namely, the poor, by exposing their poverty and making them feel it.",
+            "Since all these disorders sprang from their forgetting what they had been taught on this subject, the apostle now formally and at some length repeats it."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is not approving gluttony and drunkenness but only expressing horror at their sacrilege (despising, \u03ba\u03b1\u03c4\u03b1\u03c6\u03c1\u03bf\u03bd\u03b5\u03b9\u03c4\u03b5) of the church of God.",
+            "Not those without houses, but those who have nothing, 'the have-nots' (Findlay) like 2 Corinthians 8:12, in contrast with \u03bf \u03b5\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2 'the haves' (the men of property).",
+            "Deliberative subjunctive that well expresses Paul's bewilderment."
+        ],
+        "John Gill": [
+            "If they must have their ante-suppers, and were disposed to eat and drink freely, before they partook of the Lord's supper, it was more decent and orderly, and less reflected upon the honour of religion and the ordinances of Christ, to eat and drink in their own houses.",
+            "The house of God was not for any such use, nor should they meet together there on such an account; at least, such disorderly, unequal, and intemperate feasts there, were very scandalous and reproachful.",
+            "It was contrary to a Jewish canon to eat and drink in the synagogues, which runs thus, 'in the synagogues they do not use a light behaviour, nor do they eat and drink in them.'"
+        ],
+        "John Wesley": [
+            "Have ye not houses to eat and drink your common meals in? or do ye despise the church of God...\" ",
+            "Of which the poor are both the larger and the better part.",
+            "Do ye act thus in designed contempt of them?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The assembly of the brethren is not the place to indulge in feasting and satisfy one's appetite; it is a place where contempt for the congregation of God is not to be shown. This behavior is not to be praised. The poor, who God has chosen, are often found in the congregation, and by treating them with disdain, they imitate the heathen. Those who have brought much food and drink feel compelled to partake in what is offered to everyone, while neglecting to share their own. Paul expresses his shock and bewilderment at their sacrilege and emphasizes the importance of not despising the church of God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.891483093187197,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.23,
+            "commentatorTierSimilarities": [
+                33.62,
+                32.1,
+                34.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The assembly of the brethren is not the place to indulge in feasting and satisfy one's appetite, as it's meant for worship and not contempt. Paul strongly disapproves of their behavior and questions how they could show such disrespect towards the church of God. By neglecting the poor and treating them with disdain, they imitate the heathen. This sacrilege is not to be praised. Paul's bewilderment at their actions highlights the importance of not despising the church of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.938001264996211,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                35.23,
+                31.54,
+                33.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The assembly of the brethren is not the place for satiating appetites; it is where contempt for the congregation of God should not be shown. The poor, whom God has chosen, make up the majority of the congregation, and by treating them with disdain, they imitate heathen practices. Those who bring much food and drink feel compelled to partake in what is offered, while neglecting to share their own. Paul expresses his disapproval and bewilderment at their sacrilege in despising the church of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.0076550349410525,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.1,
+            "commentatorTierSimilarities": [
+                34.16,
+                32.0,
+                33.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The assembly of the brethren is not the place for satiating appetites; it is where contempt for the congregation of God should not be shown. The congregation mostly comprises the poor, whom God has chosen, and by treating them with disdain, they imitate heathen practices. Sharing their abundance would be appropriate instead of shaming their poorer comrades. Paul expresses his disapproval and bewilderment at their sacrilege in despising the church of God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.0180379898968672,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                37.14,
+                32.05,
+                30.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The assembly of the brethren is not the place for satiating appetites, but rather a space where contempt for the congregation of God should not be shown. The poor, who are especially present in the congregation, should not be treated with disdain. By neglecting them and displaying such behavior, they imitate the practices of the heathen. Paul strongly disapproves of their sacrilege and questions their actions, emphasizing the importance of not despising the church of God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.9976232920943917,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.76,
+            "commentatorTierSimilarities": [
+                34.35,
+                33.7,
+                31.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

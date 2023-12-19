@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:20:28",
+    "verseRef": "Galatians 5:6",
+    "bestBHT": {
+        "bht": "In the state of a Christian, confirmation of the words is found by faith in Christ Jesus. This faith, which works by love, is not the basis for justification, but rather the manifestation of the faith that justifies. All distinctions, whether circumcised or not, are leveled in Christ. Therefore, let us seek the love that is inseparable from true faith and allow it to exhibit its living energy through our actions.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.221220057586678,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.2,
+        "commentatorTierSimilarities": [
+            35.03,
+            37.81,
+            27.16
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Confirmation of the words by faith, in Christ, as an element in union with Christ, in the state of a Christian.",
+            "In Christ, and that Christ, Jesus of Nazareth.",
+            "As parallels to our passage, see Rom. xiv. 17; 1 Cor. vii. 19."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "faith which worketh by love\u2014Greek, 'working by love.' This corresponds to 'a new creature' as its definition.",
+            "Love is not joined with faith in justifying, but is the principle of the works which follow after justification by faith.",
+            "Let them, then, seek that 'love' which is inseparable from true faith."
+        ],
+        "Albert Barnes": [
+            "It makes no difference whether a man is circumcised or not. He is not saved because he is circumcised, nor is he condemned because he is not.",
+            "Faith that evinces its existence by love to God, and benevolence to people.",
+            "The true faith is that which is seen in benevolence, in love to God, in love to all who bear the Christian name; in a readiness to do good to all mankind."
+        ],
+        "Marvin Vincent": [
+            "In Christ Jesus. In the economy of life which he inaugurates and inspires.",
+            "The faith of the justified, which is their subjective principle of life, exhibits its living energy through love in which the whole law is fulfilled.",
+            "Not that justification is through love; but the faith of the justified, which is their subjective principle of life, exhibits its living energy through love."
+        ],
+        "John Calvin": [
+            "The contrast here introduced, between ceremonies and the exercise of love, was intended to prevent the Jews from thinking too highly of themselves, and imagining that they were entitled to some superiority.",
+            "Ceremonies are no longer enjoined by Divine authority; and, if we abound in the exercise of love, all is well.",
+            "When you are engaged in discussing the question of justification, beware of allowing any mention to be made of love or of works, but resolutely adhere to the exclusive particle."
+        ],
+        "Philip Schaff": [
+            "For in Christ Jesus neither circumcision availeth anything, nor uncircumcision; but faith working (or operative) through love.",
+            "May we not add in the very spirit of Paul? \u2018neither episcopacy nor presbytery, neither presbytery nor independency, neither immersion nor sprinkling, neither Calvinism nor Arminianism, neither Catholicism nor Protestantism, nor any other isms, however important in their place, are of any account, when compared with the fundamental difference between faith and infidelity, between Christ and anti-Christ.",
+            "The sentence, \u2018faith working through love,\u2019 reconciles the doctrine of Paul with that of James."
+        ],
+        "Archibald T. Robertson": [
+            "Neither Jew nor Greek has any recommendation in his state.",
+            "All stand on a level in Christ.",
+            "Faith working through love, the moral dynamic of Paul's conception of freedom from law."
+        ],
+        "John Gill": [
+            "Neither circumcision availeth anything; not now as a command and ordinance of God, being abolished by Christ.",
+            "Nor uncircumcision; it is no hinderance to the enjoyment of the Gospel, to entrance into a Gospel church state, or to admission to the ordinances of it.",
+            "But faith which works by love; faith has a concern in justification and salvation, not by way of causal influence, but as it is that grace which receives the righteousness of Christ, through which we are saved, and kept by the power of God unto salvation."
+        ],
+        "John Wesley": [
+            "For in Christ Jesus...according to the tenor of the Christian covenant.",
+            "Neither circumcision...nor uncircumcision...availeth anything.",
+            "But faith...alone; even that faith which worketh by love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the state of a Christian, confirmation of the words is found by faith in Christ Jesus. It is through this faith that love is seen as a working principle, fulfilling the law. This love is not the basis for justification, but rather the manifestation of the faith that justifies. All distinctions, whether circumcised or not, are leveled in Christ. The true faith is demonstrated by love to God and benevolence towards others. It is faith, working through love, that holds the moral dynamic of freedom from the law.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.285439110337938,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.33,
+            "commentatorTierSimilarities": [
+                35.56,
+                38.78,
+                25.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the state of a Christian, confirmation of the words is found by faith in Christ Jesus. It is through this faith that love is seen as a working principle, fulfilling the law. This love is not the basis for justification, but rather the manifestation of the faith that justifies. All distinctions, whether circumcised or not, are leveled in Christ. The true faith is demonstrated by love to God and benevolence towards others. It is faith, working through love, that holds the moral dynamic of freedom from the law.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.285439110337938,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.33,
+            "commentatorTierSimilarities": [
+                35.56,
+                38.78,
+                25.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the state of a Christian, confirmation of the words is found by faith in Christ Jesus. It is through this faith that love is seen as a working principle, fulfilling the law. All distinctions, whether circumcised or not, are leveled in Christ. The true faith is demonstrated by love to God and benevolence towards others. It is faith, working through love, that holds the moral dynamic of freedom from the law.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 2.267961340329501,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.75,
+            "commentatorTierSimilarities": [
+                35.66,
+                39.62,
+                24.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the state of a Christian, confirmation of the words is found by faith in Christ Jesus. This faith, which works by love, is not the basis for justification but rather the manifestation of the faith that justifies. All distinctions, whether circumcised or not, are leveled in Christ, as faith is the principle of life in the economy He inspires. Therefore, let us seek the love that is inseparable from true faith and allow it to exhibit its living energy through our actions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.3605317444903626,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.83,
+            "commentatorTierSimilarities": [
+                36.76,
+                37.47,
+                25.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the state of a Christian, confirmation of the words is found by faith in Christ Jesus. This faith, which works by love, is not the basis for justification, but rather the manifestation of the faith that justifies. All distinctions, whether circumcised or not, are leveled in Christ. Therefore, let us seek the love that is inseparable from true faith and allow it to exhibit its living energy through our actions.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.221220057586678,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.2,
+            "commentatorTierSimilarities": [
+                35.03,
+                37.81,
+                27.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

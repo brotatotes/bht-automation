@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 14:01:12",
+    "verseRef": "1 Thessalonians 5:5",
+    "bestBHT": {
+        "bht": "As Christians, we have no reason to fear or be surprised by the coming of the day of the Lord. We are sons of light and day, having our origin from the light and belonging to it in character. We are not of night nor darkness. Therefore, we should always be wakeful and active, expecting the coming of the Redeemer so that we will not be caught off guard. We are the children of light, produced by the light and living in it as our element.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1288902522411566,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+        "commentatorTierSimilarities": [
+            34.77,
+            32.92,
+            32.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "You (a) and all we Christians (b) have no reason to fear, and no excuse for being surprised by, the DAY of the Lord...\" (Commentary)",
+            "We are sons of light and the day... we belong to, having our origin from, the light and the day...\" (Commentary)",
+            "We are not of night nor darkness.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "FOR ye are all, - Ye have no reason for fear, or for being taken by surprise, by the coming of the day of the Lord.",
+            "For ye are all sons (so the Greek) of light and sons of day\" a Hebrew idiom, implying that as sons resemble their fathers, so you are in character light.",
+            "The change of person from 'ye' to 'we' implies this: Ye are sons of light because ye are Christians; and we, Christians, are not of night nor darkness."
+        ],
+        "Albert Barnes": [
+            "The phrase 'children of light' is a Hebraism, meaning that they were the enlightened children of God.",
+            "They would always be wakeful and active, and it would be impossible to come upon them by surprise.",
+            "Christians are always to be wakeful and vigilant; they are so to expect the coming of the Redeemer, that he will not find them off their guard, and will not come upon them by surprise."
+        ],
+        "Marvin Vincent": [
+            "Ye are not in darkness for ye are sons of light.",
+            "The Christian condition is habitually associated in N. T. with light.",
+            "To belong to darkness is more than to be in darkness."
+        ],
+        "Philip Schaff": [
+            "For all ye are sons of light and sons of day.",
+            "The children of the light are those who are produced by the light, who belong to it, and live in it as their element.",
+            "They who are of darkness make nothing of the light which shines in the first \u2018day of the Lord,\u2019 of the truth disclosed by His first coming."
+        ],
+        "Archibald T. Robertson": [
+            "Sons of light, sons of day.\" ",
+            "He repeats the same idea in turning from 'ye' to 'we'.\" ",
+            "Using 'night' and 'darkness', predicate genitives."
+        ],
+        "John Gill": [
+            "Ye are all children of light...to understand in some measure the Scriptures of truth, and the mysteries of the Gospel...to have some glimpse of the heavenly glory, of the unseen joys, and invisible realities of the other world.\" ",
+            "the children of the day; of the Gospel day, in distinction from the night of Jewish darkness; and of the day of grace...and of the everlasting day of glory.",
+            "we are not of the night, nor of darkness...of the night of the legal dispensation, or of Gentile ignorance or of a state of natural darkness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Christians, we have no reason to fear or be surprised by the coming of the day of the Lord. We are sons of light and day, having our origin from the light and belonging to it in character. We are not of night nor darkness. Therefore, we should always be wakeful and active, expecting the coming of the Redeemer so that we will not be caught off guard. We are the children of light, produced by the light and living in it as our element. We have been given the ability to understand the Scriptures and the mysteries of the Gospel, as well as have a glimpse of the heavenly glory and unseen realities of the other world. We are not of the night or darkness, but of the day of grace and the everlasting day of glory.",
+            "wordCount": 139,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.132390430213774,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+            "commentatorTierSimilarities": [
+                31.29,
+                28.98,
+                39.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Christians, we have no reason to fear or be surprised by the coming day of the Lord, for we are sons of light and day, not of night or darkness. We should always be wakeful and expect the coming of the Redeemer, so that we will not be caught off guard. We are the enlightened children of God, living in the light and understanding the Scriptures and the mysteries of the Gospel. We belong to the day of grace and the everlasting day of glory.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1333705249647714,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.28,
+            "commentatorTierSimilarities": [
+                28.71,
+                31.34,
+                39.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Christians, we have no reason to fear the coming of the day of the Lord, for we are sons of light and day. We are not of night or darkness. We should always be wakeful and expect the coming of the Redeemer, so we are not caught off guard. We are the enlightened children of God, living in the light and understanding the Scriptures and the mysteries of the Gospel. We belong to the day of grace and the everlasting day of glory.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1543652792990224,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                31.48,
+                29.97,
+                38.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Christians, we have no reason to fear or be surprised by the coming of the day of the Lord. We are sons of light and day, having our origin from the light and belonging to it in character. We are not of night nor darkness. Therefore, we should always be wakeful and active, expecting the coming of the Redeemer so that we will not be caught off guard. We are the children of light, produced by the light and living in it as our element.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1288902522411566,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                34.77,
+                32.92,
+                32.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Christians, we have no reason to fear or be surprised by the coming of the day of the Lord, for we are sons of light and day. We should always be wakeful and expect the coming of the Redeemer, so that we will not be caught off guard. We are the enlightened children of God, living in the light and understanding the Scriptures and the mysteries of the Gospel. We belong to the day of grace and the everlasting day of glory.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 2.0674580207172393,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.08,
+            "commentatorTierSimilarities": [
+                28.03,
+                32.67,
+                39.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

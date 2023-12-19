@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:29:28",
+    "verseRef": "Acts 11:7",
+    "bestBHT": {
+        "bht": "St. Peter, in sharing his experience, emphasizes that he heard the voice, indicating the impact it had on his consciousness. The translation demonstrates the translators' propensity for variety, as they convey the message of the voice commanding Peter to arise, Peter, slay and eat, urging him to take action and partake in the creatures on the sheet.",
+        "wordCount": 57,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.2453078733893657,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.75,
+        "commentatorTierSimilarities": [
+            20.27,
+            48.06,
+            31.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The external fact that a voice was uttered is that which he relates. St. Peter tells of his own inward experience. He 'heard' the voice.",
+            "A communication was effectually made to his own intelligence and consciousness.",
+            "This is an example of the love of our translators for variety in rendering, merely for the sake of variety."
+        ],
+        "Archibald T. Robertson": [
+            "Genitive case after \u03b7\u03ba\u03bf\u03c5\u03c3\u03b1 (cf. Acts 9:7 and accusative Acts 9:4 which see for discussion).\" ",
+            "Participle \u03bb\u03b5\u03b3\u03bf\u03c5\u03c3\u03b7\u03c2 (present active of \u03bb\u03b5\u03b3\u03c9) agreeing with \u03c6\u03c9\u03bd\u03b7\u03c2, a kind of indirect discourse use of the participle."
+        ],
+        "John Gill": [
+            "And I heard a voice saying unto me",
+            "arise, Peter, slay and eat",
+            "get up and slay some of these creatures upon the sheet, and dress them and eat them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon hearing the voice, St. Peter relates his own inward experience, stating that he heard the voice. The communication made a lasting impact on his own intelligence and consciousness. The translators make use of variety in rendering, conveying the message of the voice: arise, Peter, slay and eat. The words urge him to take action, commanding him to get up, slay the creatures on the sheet, dress them, and eat.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.1439077771288,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.38,
+            "commentatorTierSimilarities": [
+                15.16,
+                47.65,
+                37.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon hearing the voice, St. Peter relates his own inward experience, stating that he heard the voice. The communication made a lasting impact on his own intelligence and consciousness. The translators make use of variety in rendering, conveying the message of the voice: arise, Peter, slay and eat. The words urge him to take action, commanding him to get up, slay the creatures on the sheet, dress them, and eat.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.1439077771288,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.38,
+            "commentatorTierSimilarities": [
+                15.16,
+                47.65,
+                37.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "St. Peter, in sharing his experience, emphasizes that he heard the voice, indicating the impact it had on his consciousness. The translation demonstrates the translators' propensity for variety, as they convey the message of the voice commanding Peter to arise, Peter, slay and eat, urging him to take action and partake in the creatures on the sheet.",
+            "wordCount": 57,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.2453078733893657,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.75,
+            "commentatorTierSimilarities": [
+                20.27,
+                48.06,
+                31.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "St. Peter, in recounting his experience, highlights that he heard the voice, signifying the profound impact it had on his consciousness. The translation chosen by the translators reflects their penchant for incorporating variety, as they convey the message of the voice commanding Peter to arise, Peter, slay and eat. Thus, the voice urges him to take decisive action by slaying and preparing the creatures from the sheet for consumption.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.1029196949355908,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.02,
+            "commentatorTierSimilarities": [
+                15.83,
+                48.31,
+                35.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "St. Peter, when sharing his experience, underscores that he heard the voice, emphasizing the significance it held in his consciousness. The translators' choice of rendering showcases their preference for diversity, as they convey the instruction of the voice commanding Peter to arise, Peter, slay and eat. This directive prompts him to take decisive action by slaughtering and preparing the creatures from the sheet for consumption.",
+            "wordCount": 65,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.0073181647379714,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.84,
+            "commentatorTierSimilarities": [
+                13.45,
+                46.39,
+                40.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

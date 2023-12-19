@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:17:34",
+    "verseRef": "2 Corinthians 9:11",
+    "bestBHT": {
+        "bht": "Believers should exemplify single-minded liberality, being enriched in every way, to display generosity towards others. The use of property and resources should promote happiness and elicit gratitude to God. True riches reside in contentment and simplicity, rather than an insatiable desire for more. Benefitting the poor not only meets their needs but also inspires thanksgiving to God. Therefore, it is crucial to maintain a generous disposition towards the less fortunate, as it glorifies God and prompts expressions of thanksgiving.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.8517265823096833,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+        "commentatorTierSimilarities": [
+            19.61,
+            37.22,
+            43.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In every thing being enriched unto all liberality (i. e. in order that you may show all liberality).",
+            "(A sort) which brings about by our means (as the distributors of it) thanksgiving (from those who will receive it) to God.",
+            "To God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Single-minded liberality.",
+            "Worketh through us.",
+            "Thanksgiving on the part of the recipients."
+        ],
+        "Albert Barnes": [
+            "He desired it only as the means of their doing good to others.",
+            "Right feeling will desire property only as the means of promoting happiness and producing thanksgiving to God.",
+            "Property should always be so employed as to produce thanksgiving."
+        ],
+        "Marvin Vincent": [
+            "Liberality [\u03b1\u03c0\u03bb\u03bf\u03c4\u03b7\u03c4\u03b1] . Better singleness or simplicity of heart. See on Romans 12:8."
+        ],
+        "John Calvin": [
+            "He teaches us that these are the true riches of believers, when, relying upon the providence of God for the sufficiency of their support, they are not by distrust kept back from doing good.",
+            "Nor is it without good reason, that he dignifies with the title of affluence the satisfying abundance of a mind that is simple, and contented with its moderate share; for nothing is more famished and starved than the distrustful, who are tormented with an anxious desire of having.",
+            "Besides the ordinary advantage of love, they will also produce thanksgiving... for the entire measure of piety among the Corinthians."
+        ],
+        "Philip Schaff": [
+            "Ye being enriched in every thing unto all liberality.",
+            "Which worketh through us thanksgiving to God.",
+            "When we shall present it to the poor brethren at Jerusalem."
+        ],
+        "Archibald T. Robertson": [
+            "Enriched (\u03c0\u03bb\u03bf\u03c5\u03c4\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf). Present passive participle of \u03c0\u03bb\u03bf\u03c5\u03c4\u03b9\u03b6\u03c9\" ",
+            "Liberality (\u03b1\u03c0\u03bb\u03bf\u03c4\u03b7\u03c4\u03b1). See on 2 Corinthians 8:2.",
+            "Anacoluthon with nominative participle too far from \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03c5\u03b7\u03c4\u03b5 for agreement."
+        ],
+        "John Gill": [
+            "God was not only able to give them a sufficiency, and would give them a sufficiency of temporal things, as food and raiment to their satisfaction, and contentment for themselves, but a fulness, an exuberancy, an overplus also.\" ",
+            "Having such an affluence in all the good things of life, they might at all times, and upon every occasion, exercise a bountiful disposition in relieving the poor.",
+            "Beneficence tended to the glory of God, as giving of thanks makes for his glory, this then ought to be attended to, and diligently performed."
+        ],
+        "John Wesley": [
+            "Which worketh by us thanksgiving to God \u2014 Both from us who distribute, and them who receive, your bounty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 9:11, it is emphasized that believers should possess a single-minded liberality, enriched in every way, in order to show all liberality to others. This involves using property and resources in a way that promotes happiness and produces thanksgiving to God. The true riches of believers lie in their contentment with a moderate share, as those who are distrusting and anxious in their desire for more are left famished. By being generous and providing for others, believers not only alleviate needs but also bring about thanksgiving to God. Therefore, it is crucial to exercise bountiful disposition in relieving the poor, as this act of beneficence ultimately serves the glory of God and instills gratitude in both the givers and receivers.",
+            "wordCount": 121,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.8136841721752903,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+            "commentatorTierSimilarities": [
+                19.88,
+                34.12,
+                46.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers must possess a single-minded liberality, enriched in every way, to show all liberality. Using property and resources to promote happiness and produce thanksgiving to God is essential. True riches lie in contentment, as the anxious desire for more leaves one famished. Providing for others not only alleviates needs but also brings thanksgiving to God. Exercising a bountiful disposition in relieving the poor serves God's glory and instills gratitude in both givers and receivers.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8435361303364144,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.64,
+            "commentatorTierSimilarities": [
+                19.66,
+                39.18,
+                41.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers should display a single-minded liberality, being enriched in every way, in order to express generosity to others. It is important to use property and resources for the purpose of promoting happiness and giving thanks to God. True richness lies in contentment and a simple heart, rather than an anxious desire for more. Furthermore, by providing for others, believers not only meet their needs but also evoke gratitude towards God. Therefore, it is crucial to have a generous attitude towards the poor, as this glorifies God and leads to thanksgiving.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.7592082952996537,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.84,
+            "commentatorTierSimilarities": [
+                19.89,
+                36.57,
+                43.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers should exhibit a single-minded liberality, being enriched in every way, to demonstrate generosity towards others. It is crucial to utilize resources and property in a manner that promotes happiness and fosters gratitude towards God. True richness stems from contentment and simplicity, rather than an insatiable desire for more. Assisting the poor not only meets their needs but also generates thanksgiving to God. Hence, it is vital to maintain a charitable spirit towards those in need, as it honors God and elicits expressions of thanksgiving.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.831459506253192,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+            "commentatorTierSimilarities": [
+                19.61,
+                37.66,
+                42.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers should exemplify single-minded liberality, being enriched in every way, to display generosity towards others. The use of property and resources should promote happiness and elicit gratitude to God. True riches reside in contentment and simplicity, rather than an insatiable desire for more. Benefitting the poor not only meets their needs but also inspires thanksgiving to God. Therefore, it is crucial to maintain a generous disposition towards the less fortunate, as it glorifies God and prompts expressions of thanksgiving.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.8517265823096833,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                19.61,
+                37.22,
+                43.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

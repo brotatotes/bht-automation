@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:20:40",
+    "verseRef": "Luke 15:29",
+    "bestBHT": {
+        "bht": "The elder son's complaint reveals his self-righteousness and an inability to comprehend his father's love. He fails to grasp the true significance of his father's joy upon the prodigal son's return. This complaint serves as a reminder of the folly of the Pharisees, exposing their lack of love for God despite their outward obedience. The elder son's unrealistic view of his own obedience is evident, since even good men experience the need for repentance. This parable underscores the importance of repentance and the immense joy that accompanies God's forgiveness.",
+        "wordCount": 96,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 2.0303341761632248,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.85,
+        "commentatorTierSimilarities": [
+            29.13,
+            35.39,
+            35.48
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Could the Jewish nation be introduced saying, even in the falsest hypocrisy, that they had never transgressed God\u2019s commandments?",
+            "Thou never gavest me answers to the younger son\u2019s 'give me'... the very root and ground of sin.",
+            "This elder son also then has friends, who are not his father's friends."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is merely contrasting his constancy of love and service with the conduct of his brother.",
+            "It was no entertainment for the gratification of the prodigal: it was a father's expression of the joy he felt at his recovery.",
+            "How unworthy a reflection on the common father of both, for the one not only to disown the other, but fling him over upon his father, as if he should say, Take him, and have joy of him!"
+        ],
+        "Albert Barnes": [
+            "This complaint was unreasonable, for his father had divided his property, and he 'might' have had his portion, and his father had uniformly treated him with kindness.\" ",
+            "But it serves to illustrate the conduct of the scribes and Pharisees, and the folly of their complaint."
+        ],
+        "Marvin Vincent": [
+            "Kid [\u03b5\u03c1\u03b9\u03c6\u03bf\u03bd] . Some read the diminutive, ejrifion, \"a little kid.\" In any event a contrast is intended between the kid and the fatted calf."
+        ],
+        "Philip Schaff": [
+            "The legal idea comes out here, pleading what has been done.",
+            "The words of the elder son prove that his obedience in the past had not been hearty, and that he was now in opposition to his father's will.",
+            "Self-righteousness is dissatisfied with the reward it receives. The essential failure of Pharisaism is its want of love to God despite its external obedience."
+        ],
+        "Archibald T. Robertson": [
+            "Progressive present tense of this old verb from \u03b4\u03bf\u03c5\u03bb\u03bf\u03c2 (slave) which the elder son uses to picture his virtual slavery in staying at home and perhaps with longings to follow the younger son.",
+            "Not even once (aorist) in contrast with so many years of service (linear present).",
+            "Final clause, first aorist passive subjunctive of the same verb used in verses Luke 15:23; Luke 15:25."
+        ],
+        "John Gill": [
+            "I have served thee, but 'I do'; denoting the continuance and constancy of his service; and intimating that his life had been, and was one continued series of obedience.",
+            "He could not be a good man, for so to say, is contrary to the experience of all good men; to their groans, complaints, and confessions; to their prayers, for fresh application of pardoning grace; and to the observation of all wise and good men in all ages; and most fully proves him to be, a Pharisee.",
+            "He had never received any favour in proportion to the services he had done; and so charges his father with ingratitude."
+        ],
+        "John Wesley": [
+            "How admirably therefore does this parable confirm that assertion!",
+            "Perhaps God does not usually give much joy to those who never felt the sorrows of repentance.",
+            "God does not usually give much joy to those who never felt the sorrows of repentance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The elder son in this verse is expressing his resentment towards his father and his younger brother. His complaint reveals a sense of self-righteousness and a lack of understanding of his father's unconditional love. His focus is solely on his own obedience and he fails to grasp the true meaning of his father's rejoicing over the return of the prodigal son. This complaint serves as a reminder of the folly of the scribes and Pharisees, highlighting the essential failure of Pharisaism \u2013 the lack of love for God despite external obedience. It is important to note that the elder son's view of his own obedience is unrealistic, as he claims to have served his father without fail, which is contrary to the experience of all good men. Ultimately, this parable confirms the need for repentance and the profound joy that comes with experiencing God's forgiveness.",
+            "wordCount": 149,
+            "quoteTokenProportion": 27.38,
+            "qualityScore": 2.0660899381332674,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                29.81,
+                38.17,
+                32.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The elder son's complaint in the passage reveals his self-righteousness and inability to understand his father's love. His focus on his own obedience blinds him to the true meaning of his father's joy over the prodigal son's return. This complaint serves as a reminder of the folly of the Pharisees, highlighting their lack of love for God despite their external obedience. It is important to note that the elder son's view of his own obedience is unrealistic, as he fails to see that even good men feel the need for repentance. This parable confirms the need for repentance and the joy that comes with God's forgiveness.",
+            "wordCount": 113,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.0485920540119316,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.46,
+            "commentatorTierSimilarities": [
+                29.3,
+                35.98,
+                34.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The elder son's complaint reveals his self-righteousness and an inability to comprehend his father's love. He fails to grasp the true significance of his father's joy upon the prodigal son's return. This complaint serves as a reminder of the folly of the Pharisees, exposing their lack of love for God despite their outward obedience. The elder son's unrealistic view of his own obedience is evident, since even good men experience the need for repentance. This parable underscores the importance of repentance and the immense joy that accompanies God's forgiveness.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.0303341761632248,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.85,
+            "commentatorTierSimilarities": [
+                29.13,
+                35.39,
+                35.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The elder son's complaint exposes his self-righteousness and his misunderstanding of his father's love. He fails to comprehend the profound joy that his father experiences at the prodigal son's return. This complaint serves as a stark illustration of the folly of the Pharisees, who lacked genuine love for God despite their outward display of obedience. The elder son's inflated view of his own obedience is unrealistic, as true repentance is an essential aspect of a sincere relationship with God. This parable teaches the importance of repentance and the incomparable joy that accompanies God's forgiveness.",
+            "wordCount": 100,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 2.0149506609846943,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.34,
+            "commentatorTierSimilarities": [
+                28.74,
+                35.48,
+                35.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The elder son's complaint highlights his self-righteousness and his failure to grasp his father's love. He fails to understand the depth of his father's joy over the prodigal son's return. This complaint sheds light on the folly of the Pharisees, who lacked love for God despite their outward obedience. The elder son's inflated view of his own obedience is unrealistic, as genuine repentance is necessary for a true relationship with God. This parable emphasizes the significance of repentance and the overwhelming joy that accompanies God's forgiveness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.0150921263057184,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.34,
+            "commentatorTierSimilarities": [
+                28.85,
+                35.38,
+                35.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

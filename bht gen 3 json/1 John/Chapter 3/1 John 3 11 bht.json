@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:46:47",
+    "verseRef": "1 John 3:11",
+    "bestBHT": {
+        "bht": "The message we have heard from the beginning is that we should love one another as brethren in Christ, for this is the command of the Gospel. John emphasizes that those who do not live righteously are not of God, as newness of life is evidence of divine adoption. Let us continue to hold fast to this message and love one another as God has loved us since the beginning of the preaching of the Gospel.",
+        "wordCount": 76,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.099290766732673,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.14,
+        "commentatorTierSimilarities": [
+            33.03,
+            25.77,
+            41.21
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because (proof that absence of love of the brethren excludes from God's family) the message which ye heard from the beginningis this, that we love one another.",
+            "The term message is not here equivalent to command, though that which is cited is a commandment: but it is a command conveyed in words and by messengers, and thus become a message.",
+            "The announcement which from the beginning of the preaching of the Gospel was made to you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Gospel message of Him who loved us, announced by His servants, is, that we love the brethren.\" ",
+            "Not here all mankind, but those who are our brethren in Christ, children of the same family of God.",
+            "Of whom we have been born anew."
+        ],
+        "Albert Barnes": [
+            "For this is the message... that we should love one another.",
+            "The reference is to the law given by the Saviour as a permanent direction to his disciples.",
+            "See the John 13:34-35 notes; 1 John 2:7 note."
+        ],
+        "Marvin Vincent": [
+            "From the beginning. See on 1 1. ",
+            "That [\u03b9\u03bd\u03b1] . The purport and aim of the message. See on John 14:13."
+        ],
+        "John Calvin": [
+            "Then, to do righteousness is no other thing than to fear God from the heart, and to walk in his commandments as far as human weakness will permit...",
+            "But John declares that all who do not live righteously are not of God, because all those whom God calls, he regenerates by his Spirit. Hence newness of life is a perpetual evidence of divine adoption.",
+            "He declares that every one who is endued with benevolence and humanity, is thus just, and is to be so deemed, because love is rite fulfillment of the law."
+        ],
+        "Archibald T. Robertson": [
+            "From the beginning... They had the message of love for the brotherhood from the beginning of the gospel...\" ",
+            "It goes back to the time of Cain and Abel.",
+            "John repeats the message of 1 John 2:7."
+        ],
+        "John Gill": [
+            "For this is the message,.... Sent from God by Christ, or what he in his ministry declared.\" ",
+            "that ye have heard from the beginning; of the preaching of the Gospel to them, and of their conversion.\" ",
+            "that we should love one another; to which the command of Christ, the reason with which it is enforced, and the early notice of it, should engage."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The message that we have heard from the beginning is that we should love one another, not just any love, but a love for our brethren in Christ, those who are part of the same family of God. This message has been announced to us through the preaching of the Gospel, the good news of Him who loved us. It is a command, conveyed in words and by messengers, and it goes back to the time of Cain and Abel. John reminds us of this message, affirming that all who do not live righteously are not of God, for those whom God calls, He regenerates by His Spirit, and newness of life is evidence of divine adoption. So let us hold fast to this message and continue to love one another, for this is what we have heard from the beginning.",
+            "wordCount": 141,
+            "quoteTokenProportion": 51.25,
+            "qualityScore": 1.9277297104667503,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                35.89,
+                24.84,
+                39.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The message we have heard from the beginning is that we should love one another as brethren in Christ, for this is the command of the Gospel. It is not just any love, but a love that reflects the love that God has shown us. John reminds us of this message, emphasizing that those who do not live righteously are not of God, as newness of life is evidence of divine adoption. Let us, therefore, continue to hold fast to this message and love one another as God has loved us.",
+            "wordCount": 91,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.9543001509980675,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                31.36,
+                28.44,
+                40.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The message we have heard from the beginning is that we should love one another as brethren in Christ. This love is not merely a suggestion, but a command conveyed through the preaching of the Gospel. It is a love that reflects the love that God has shown us. John emphasizes that those who do not live righteously are not of God, as newness of life is evidence of divine adoption. Let us, therefore, continue to hold fast to this message and love one another as God has loved us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.9067295707159582,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                31.44,
+                28.22,
+                40.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The message heard from the beginning is that we love one another as brethren in Christ, reflecting the Gospel command. This love is not a mere suggestion, but a command conveyed through the preaching of the Gospel, emphasizing that those who don't live righteously are not of God. Newness of life is evidence of divine adoption. Let us hold fast to this message, continuing to love one another as God has loved us from the beginning.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.8974589482471804,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                33.3,
+                26.65,
+                40.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The message we have heard from the beginning is that we should love one another as brethren in Christ, for this is the command of the Gospel. John emphasizes that those who do not live righteously are not of God, as newness of life is evidence of divine adoption. Let us continue to hold fast to this message and love one another as God has loved us since the beginning of the preaching of the Gospel.",
+            "wordCount": 76,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.099290766732673,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.14,
+            "commentatorTierSimilarities": [
+                33.03,
+                25.77,
+                41.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

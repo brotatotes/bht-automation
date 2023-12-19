@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:20:02",
+    "verseRef": "Colossians 1:28",
+    "bestBHT": {
+        "bht": "The aim is to preach Christ as the ultimate hope and present every person as mature in Him. The warning relates to conduct, while the teaching focuses on doctrines, both vital aspects of evangelical teaching. The goal is to equip individuals with wisdom and guide them towards spiritual maturity in Christ. The presentation referred to is the final judgment, where believers will be presented as spiritually mature in their union with Christ. Through this ministry, the apostles proclaim the true gospel and help believers grow in faith and knowledge.",
+        "wordCount": 89,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.8546916261263036,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+        "commentatorTierSimilarities": [
+            33.14,
+            35.54,
+            31.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We preach Christ\u2014not circumcision, not angel-worship, not asceticism, as the source of this hope.\" ",
+            "We may present every man perfect in Christ\u2014element of his perfection, in union with and life in Him,\u2014comprehending both knowledge and practice.\" ",
+            "The presentation spoken of is clearly that at the great day of Christ\u2019s appearing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Warning\" is connected with repentance, refers to one's conduct, and is addressed primarily to the heart. \"Teaching\" is connected with faith, refers to doctrines, and is addressed primarily to the intellect. These are the two heads of evangelical teaching.",
+            "Every man\u2014without distinction of Jew or Gentile, great or small.",
+            "Each individual among them should be zealous for himself and his neighbor. Even one soul is of incalculable value."
+        ],
+        "Albert Barnes": [
+            "Our word warn is commonly used in the sense of cautioning against danger. The Greek word here means to put in mind; to admonish; to exhort.",
+            "Exhortation and warning are of little use where there is not sound instruction and a careful inculcation of the truth.",
+            "Paul was anxious that no one to whom this gospel was preached should be lost. He believed it to be adapted to save every man; and as he expected to meet all his hearers at the bar of God, his aim was to present them made perfect by means of that gospel which he preached."
+        ],
+        "John Calvin": [
+            "He represents himself as the teacher of all men; meaning by this, that no one is so eminent in respect of wisdom as to be entitled to exempt himself from tuition.\" (Quote 1)",
+            "This expression is equivalent to his affirming that his doctrine is such as to conduct a man to a wisdom that is perfect, and has nothing wanting.\" (Quote 2)",
+            "From this passage, also, we may gather a definition of true wisdom \u2014 that by which we are presented perfect in the sight of God, and that in Christ, and nowhere else.\" (Quote 3)"
+        ],
+        "Philip Schaff": [
+            "Whom we set forth, or, 'announce,' not the word usually 'rendered preach.' 'We,' the preachers of the true gospel, in contrast with errorists, referring (as in Colossians 1:3; Colossians 1:9) to Timothy, but to others also.",
+            "In all wisdom; 'in every form of wisdom.' Comp. Ephesians 1:8. The phrase may qualify both 'teaching' and 'admonishing,' since each requires 'wisdom' as its characteristic element.",
+            "Perfect in Christ. The reference is to sanctification, not to justification. This perfection is not in knowledge merely, but in life and character; it can exist only 'in Christ.'"
+        ],
+        "Archibald T. Robertson": [
+            "Whom (\u03bf\u03bd). That is, 'Christ in you, the hope of glory.'",
+            "We proclaim (\u03ba\u03b1\u03c4\u03b1\u03b3\u03b3\u03b5\u03bb\u03bb\u03bf\u03bc\u03b5\u03bd). Paul, Timothy and all like-minded preachers against the Gnostic depreciation of Christ.",
+            "Perfect (\u03c4\u03b5\u03bb\u03b5\u03b9\u03bf\u03bd). Spiritual adults in Christ, no longer babes in Christ, mature and ripened Christians, the full-grown man in Christ."
+        ],
+        "John Gill": [
+            "Christ and him crucified, and salvation by him, were the subjects of the ministry of the apostles; on this they dwelt, and it was this which was blessed for the conversion of sinners, the edification of saints, the planting of churches, and the setting up and establishing the kingdom and interest of Christ.",
+            "Showing sinners that they are unrighteous and unholy, that their nature is corrupt and impure, their best righteousness imperfect, and cannot justify them before God; that they stand guilty before him, and that destruction and misery are in all their ways; and therefore advise them to flee from the wrath to come, to the hope set before them in the Gospel.",
+            "That we may present every man perfect in Christ Jesus; not in themselves, in which sense no man is perfect in this life; but in the grace, holiness, and righteousness of Christ, in whom all the saints are complete."
+        ],
+        "John Wesley": [
+            "We teach the ignorant, and admonish them that are already taught."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The goal of the verse is to preach Christ as the ultimate source of hope, emphasizing the importance of both knowledge and practice. The presentation mentioned refers to the final judgment, and the warning and teaching offered are aimed at the heart and intellect respectively. All individuals, regardless of their background, are valued and should be zealous for their own spiritual growth and the growth of others. The focus is on proclaiming the true gospel, equipping believers with wisdom, and pursuing spiritual maturity in Christ. The teaching and warning provided are necessary for sound instruction and the inculcation of truth. Through this ministry, individuals are presented as perfect in Christ, not in their own strength but through the grace and righteousness of Jesus.",
+            "wordCount": 123,
+            "quoteTokenProportion": 30.67,
+            "qualityScore": 1.7689827138505776,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                31.7,
+                35.79,
+                32.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The aim is to preach Christ as the ultimate hope and present every person as mature in Him. The warning relates to conduct, while the teaching focuses on doctrines, both vital aspects of evangelical teaching. The goal is to equip individuals with wisdom and guide them towards spiritual maturity in Christ. The presentation referred to is the final judgment, where believers will be presented as spiritually mature in their union with Christ. Through this ministry, the apostles proclaim the true gospel and help believers grow in faith and knowledge.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8546916261263036,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                33.14,
+                35.54,
+                31.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The goal is to preach Christ as the ultimate hope and present each individual as mature in Him, encompassing both knowledge and practice. The warning and teaching given address the heart and intellect respectively, serving as crucial components of evangelical instruction. All people, regardless of background, are valued and encouraged to pursue their own spiritual growth. The proclamation of the true gospel aims to combat false teachings and lead believers to spiritual maturity in Christ, where they are complete and perfected.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.8511577902341971,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.89,
+            "commentatorTierSimilarities": [
+                33.57,
+                34.22,
+                32.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The purpose is to preach Christ as the source of hope, seeking to present each person as mature in Him through knowledge and practice. The warning and teaching offered address the heart and intellect, representing the two aspects of evangelical instruction. There is equal value placed on every individual, encouraging them to be zealous for personal growth and the growth of others. The proclamation of the true gospel combats false teachings and seeks to lead believers to spiritual maturity in Christ, where they are perfected and complete.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7886923179251641,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                33.5,
+                33.68,
+                32.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The aim is to preach Christ as the ultimate hope, presenting each person as mature in Him through knowledge and practice. The warning and teaching offered address the heart and intellect, combining to form evangelical instruction. Every individual, regardless of background, is greatly valued, encouraging them to be zealous for personal growth and the growth of others. The proclamation of the true gospel counters false teachings, guiding believers towards spiritual maturity in Christ, where they are perfected and complete.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8153239239017247,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+            "commentatorTierSimilarities": [
+                32.95,
+                33.67,
+                33.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:37:17",
+    "verseRef": "Acts 28:9",
+    "bestBHT": {
+        "bht": "During their stay on the island, people continuously came to the apostle and were healed, not all at once, but persistently throughout the three months; a golden opportunity for the gospel to be made known to receptive hearts. This miracle spread the fame of the healing, drawing others from various parts of the island who were afflicted with diseases, and they too were healed.",
+        "wordCount": 64,
+        "quoteTokenProportion": 54.0,
+        "qualityScore": 0.9786463529051084,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.88,
+        "commentatorTierSimilarities": [
+            1.98,
+            34.14,
+            63.88
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "9. this . . . done, others . . .",
+            "\tcame and were healed\u2014\"kept coming to [us] and getting",
+            "\thealed,\" that is, during our stay, not all at once [WEBSTER",
+            "\tand WILKINSON]."
+        ],
+        "Philip Schaff": [
+            "The population was scanty, the island was small, and the apostle remained there three months.",
+            "The imperfect tense, too, of the verbs which follow, denotes something that went on continuously.",
+            "This was a golden opportunity for making known the gospel to hearts predisposed to receive it."
+        ],
+        "John Gill": [
+            "This miracle was wrought, and the fame of it spread over the island.",
+            "Others also which had diseases in the island came: from all parts of it, to the apostle.",
+            "And were healed; of whatsoever diseases they were afflicted with."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During their stay on the island, people continuously came to the apostle and were healed, not all at once, but persistently throughout the three months; a golden opportunity for the gospel to be made known to receptive hearts. This miracle spread the fame of the healing, drawing others from various parts of the island who were afflicted with diseases, and they too were healed.",
+            "wordCount": 64,
+            "quoteTokenProportion": 54.0,
+            "qualityScore": 0.9786463529051084,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.88,
+            "commentatorTierSimilarities": [
+                1.98,
+                34.14,
+                63.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During their stay, others from all parts of the island kept coming to the apostle and getting healed. The population was small, but this continuous flow of people presented a golden opportunity to share the gospel with hearts predisposed to receive it. The fame of these miracles spread throughout the island, attracting even more people who were afflicted with diseases and seeking healing, which the apostle graciously provided.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.0370093224242605,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.82,
+            "commentatorTierSimilarities": [
+                4.99,
+                40.85,
+                54.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During their stay, others from all parts of the island kept coming to the apostle and getting healed. The continuous flow of people presented a golden opportunity to share the gospel with hearts predisposed to receive it. The fame of these miracles spread throughout the island, attracting even more people seeking healing, which the apostle graciously provided.",
+            "wordCount": 57,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 0.949701333609773,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.92,
+            "commentatorTierSimilarities": [
+                3.02,
+                42.57,
+                54.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During their stay, others came and were healed, continuously seeking healing during their three-month stay on the small island. This presented a remarkable opportunity to spread the gospel to receptive hearts. The fame of these miracles quickly spread, drawing others from all parts of the island who were afflicted with diseases, and the apostle healed them of their afflictions.",
+            "wordCount": 60,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 0.893724536144153,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.06,
+            "commentatorTierSimilarities": [
+                4.01,
+                35.35,
+                60.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During their stay, others came and were healed, continuously seeking healing during their three-month stay on the small island. This presented a remarkable opportunity to spread the gospel to receptive hearts. The fame of these miracles spread over the island, drawing others from all parts of it, seeking healing for whatever diseases they were afflicted with.",
+            "wordCount": 57,
+            "quoteTokenProportion": 48.84,
+            "qualityScore": 0.8880403859511996,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.87,
+            "commentatorTierSimilarities": [
+                3.9,
+                34.66,
+                61.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

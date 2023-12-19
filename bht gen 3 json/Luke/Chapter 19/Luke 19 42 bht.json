@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:22:07",
+    "verseRef": "Luke 19:42",
+    "bestBHT": {
+        "bht": "The Lord wept audibly, expressing a fruitless wish as those who lament often break off their sayings due to the intensity of their affection. It was His desire, marked by the construction of a trench, but the city rejected Him, missing the signs of the times. The city's disdain for heavenly grace, despite its remarkable privilege, warrants a heavier punishment. If only the city had recognized its true interest in this day of visitation, it could have embraced the things that lead to peace.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.6240860778572923,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+        "commentatorTierSimilarities": [
+            24.07,
+            41.67,
+            34.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Those who lament, are in the habit of breaking off their sayings, by reason of the vehemence of their affection.",
+            "It was the Lord's desire, because....",
+            "A trench - Literally, a mound with palisades. Josephus gives an account of its being built."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "at least in this, &c.\u2014even at this moving moment.",
+            "thy peace\u2014thinking perhaps of the name of the city. How much is included in this word!",
+            "now . . . hid\u2014It was His among His last open efforts to 'gather them,' but their eyes were judicially closed."
+        ],
+        "Marvin Vincent": [
+            "Wept [\u03b5\u03ba\u03bb\u03b1\u03c5\u03c3\u03b5\u03bd] . With audible weeping."
+        ],
+        "John Calvin": [
+            "If Even thou, who art distinguished by a remarkable privilege above the whole world, \u2014 if thou at least, (I say,) who art a heavenly sanctuary in the earth, hadst known.",
+            "Now since the compassion is mingled with reproach, let us observe, that men deserve the heavier punishment in proportion to the excellence of the gifts which they have received, because to other sins there is added an impious profanation of heavenly grace.",
+            "The gate of salvation, indeed, is always open; but as God is sometimes silent, it is no ordinary privilege when He invites us to himself with a loud voice, and in a familiar manner, and therefore the contempt will be visited by severer punishment."
+        ],
+        "Philip Schaff": [
+            "The pathetic expression of a fruitless wish.",
+            "The things which belong unto peace! 'Peace' here certainly includes the idea of deliverance, safety.",
+            "The city, as a whole, rejected Him that day, though its positive antagonism came later in the week."
+        ],
+        "Archibald T. Robertson": [
+            "If thou hadst known (\u03b5 \u03b5\u03b3\u03bd\u03c9\u03c2). Second aorist active indicative of \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9. Second-class condition, determined as unfulfilled.",
+            "Even thou (\u03ba\u03b1 \u03c3\u03c5). Emphatic position of the subject.",
+            "But now (\u03bd\u03c5\u03bd \u03b4\u03b5). Aposiopesis. The conclusion is not expressed and the sudden breaking off and change of structure is most impressive."
+        ],
+        "John Gill": [
+            "if such a city, after all this, had but known its true interest, at least in this thy day; the day of thy visitation, the last day thou art to have, though it is so late: the things [which belong] unto thy peace;",
+            "nor is this irreconcilable to his dying intentionally only for those who are actually saved",
+            "they could not discern the signs of the times and so disbelieved Jesus as the Messiah, and rejected him as such;"
+        ],
+        "John Wesley": [
+            "O that thou hadst known, at least in this thy day \u2014 After thou hast neglected so many.",
+            "Thy day \u2014 The day wherein God still offers thee his blessings."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who lament are so overwhelmed by their affection that they break off their sayings. It was the Lord's desire, and a trench had even been built. He wept audibly because, even at that moving moment, if only they had known, especially you who have received such remarkable privilege, that heavenly grace which you have profaned deserves heavier punishment. The gate of salvation is always open, but when God invites us to himself with a loud voice, the contempt will be visited by severer punishment. If only the city had known its true interest, especially in this day of visitation, the day of its last opportunity, the things that belong to its peace.",
+            "wordCount": 114,
+            "quoteTokenProportion": 48.24,
+            "qualityScore": 1.5272656083965956,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.12,
+            "commentatorTierSimilarities": [
+                25.91,
+                29.52,
+                44.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who lament are often so overwhelmed by their affection that they break off their sayings. It was the Lord's desire, and a trench had even been built. He wept audibly because, even at that moving moment, if only they had known, especially you who have received such remarkable privilege, that heavenly grace deserved heavier punishment for its profanation. If only the city had known its true interest, especially in this day of visitation, the day of its last opportunity, the things that belong to its peace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.535027338455197,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.38,
+            "commentatorTierSimilarities": [
+                28.68,
+                30.36,
+                40.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord wept audibly, expressing a fruitless wish as those who lament often break off their sayings due to the intensity of their affection. It was His desire, marked by the construction of a trench, but the city rejected Him, missing the signs of the times. The city's disdain for heavenly grace, despite its remarkable privilege, warrants a heavier punishment. If only the city had recognized its true interest in this day of visitation, it could have embraced the things that lead to peace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6240860778572923,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+            "commentatorTierSimilarities": [
+                24.07,
+                41.67,
+                34.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord wept audibly, expressing a fruitless wish as those who lament often break off their sayings due to the intensity of their affection. It was His desire, marked by the construction of a trench, but the city rejected Him, missing the signs of the times. The city's disdain for heavenly grace, despite its remarkable privilege, warrants a heavier punishment. If only the city had recognized its true interest in this day of visitation, it could have embraced the things that lead to peace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6240860778572923,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+            "commentatorTierSimilarities": [
+                24.07,
+                41.67,
+                34.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord wept audibly as those who lament often break off their sayings due to the intensity of their affection. It was His desire, marked by the construction of a trench, but the city rejected Him, missing the signs of the times. The city's disdain for heavenly grace, despite its remarkable privilege, warrants a heavier punishment. If only the city had recognized its true interest in this day of visitation, it could have embraced the things that lead to peace.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5980938914574883,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+            "commentatorTierSimilarities": [
+                24.73,
+                39.73,
+                35.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

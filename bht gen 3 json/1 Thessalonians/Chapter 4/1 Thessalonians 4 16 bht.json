@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:00:36",
+    "verseRef": "1 Thessalonians 4:16",
+    "bestBHT": {
+        "bht": "When the Lord Himself descends, the dead in Christ will rise first, followed by the living, and then we all shall be summoned before Him. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast, which usually accompanies God's glorious manifestation. This shout or command is like that of a general to his army, as the Lord brings about the reunion of the dead and living believers.",
+        "wordCount": 82,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.5238447979923793,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.26,
+        "commentatorTierSimilarities": [
+            34.68,
+            36.28,
+            29.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because the Lord Himself ... will descend, and we all shall be summoned before Him\" ",
+            "the dead in Christ shall first rise\" ",
+            "we shall be always with the Lord"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus is represented as a victorious King, giving the word of command to the hosts of heaven in His train for the last onslaught, at His final triumph over sin, death, and Satan.\" ",
+            "The trumpet blast which usually accompanies God's manifestation in glory, here to summon God's elect together, preparatory to their glorification with Christ.\" ",
+            "'The dead in Christ' shall rise, THEN the living shall be caught up. The Lord's people alone are spoken of here."
+        ],
+        "Albert Barnes": [
+            "With a shout... with the voice of the archangel... and with the trump of God.\" ",
+            "It is not quite certain what is meant here by \u2018the voice of the archangel\u2019... but it seems most probable that the meaning is, that this will be a part of the loud shout or cry which will be made by the descending hosts of heaven.",
+            "The dead in Christ... shall rise first... before the living shall be changed."
+        ],
+        "Marvin Vincent": [
+            "The following description of the Lord's descent from heaven is intended to emphasise the fact that the reunion of dead and living believers will be accomplished by the Lord in person.",
+            "With a shout. Lit. a shout of command, as of a general to his army, an admiral to his oarsmen, or a charioteer to his horses.",
+            "For the trumpet heralding great manifestations of God, see Exodus 19:13, Exodus 19:16; Psalms 47:5; Isaiah 27:13; Zechariah 9:14; Zephaniah 1:16; Joel 2:1; Matthew 24:31; 1 Corinthians 14:52; Revelation 1:10; Revelation 4:1."
+        ],
+        "John Calvin": [
+            "He appoints one in the foremost place to take the lead of the others.",
+            "He says that those that survive will be carried up together with them.",
+            "The solution, however, is easy, inasmuch as a sudden change will be like death."
+        ],
+        "Philip Schaff": [
+            "The Lord Himself shall descend from heaven...the first intimation of His coming shall be the signals given not to the living but to the dead.\" ",
+            "The word here rendered 'shout' is literally 'word of command,' being the common and technical term for the military word of command, or for the loud cry of the boatswain giving time to the rowers.",
+            "The dead in Christ...shall rise first. Before anything else transpires, and especially before the living are gathered to the Lord."
+        ],
+        "Archibald T. Robertson": [
+            "Christ will come as Conqueror.",
+            "The reference may be thus indefinite.",
+            "First here refers plainly to the fact that, so far from the dead in Christ having no share in the Parousia, they will rise before those still alive are changed."
+        ],
+        "John Gill": [
+            "Christ will now appear as the King of kings, and Lord of lords, as the Judge of the whole earth, attended with the host, or armies of heaven, and the shout of a king will be among them.",
+            "[Christ] shall descend from heaven with a voice, or shall then utter such a voice, as will show him to be the archangel; or as the Syriac version renders it, \"the head\", or \"prince of angels\".",
+            "Christ shall descend from heaven...with great glory, and marks of honour and respect; with angels shouting, trumpets blowing, and saints rejoicing."
+        ],
+        "John Wesley": [
+            "With a shout \u2014 Properly, a proclamation made to a great multitude. Above this is, the voice of the archangel; above both, the trumpet of God; the voice of God, somewhat analogous to the sound of a trumpet."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Lord Himself descends, the dead in Christ will rise first, followed by the living, and then we all shall be summoned before Him. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast, which usually accompanies God's glorious manifestation. This shout or command is like that of a general to his army, as the Lord brings about the reunion of the dead and living believers. It is important to note that the dead in Christ have a share in His coming and will rise before the living are changed.",
+            "wordCount": 106,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.5247929462445597,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.29,
+            "commentatorTierSimilarities": [
+                35.27,
+                37.87,
+                26.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Lord Himself descends, the dead in Christ will rise first, followed by the living, and then we all shall be summoned before Him. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast, which usually accompanies God's glorious manifestation. This shout or command is like that of a general to his army, as the Lord brings about the reunion of the dead and living believers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.5238447979923793,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.26,
+            "commentatorTierSimilarities": [
+                34.68,
+                36.28,
+                29.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Lord Himself descends, accompanied by a trumpet blast, the dead in Christ shall rise first, followed by the living. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, initiating the final triumph over sin, death, and Satan. This command is like that of a general to his army or a charioteer to his horses. The trumpet blast serves as a summons for God's elect to be gathered together for glorification with Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.2177649718516648,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.08,
+            "commentatorTierSimilarities": [
+                34.59,
+                32.83,
+                32.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the Lord Himself descends, the dead in Christ shall rise first, followed by the living. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast. The purpose of this trumpet blast is to summon the elect together in preparation for their glorification with Christ. The shout or command that the Lord utters is reminiscent of a general addressing his army, an admiral directing his oarsmen, or a charioteer guiding his horses.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.274675790740629,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.97,
+            "commentatorTierSimilarities": [
+                35.38,
+                33.87,
+                30.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the Lord Himself descends, the dead in Christ shall rise first, followed by the living. Jesus is represented as a victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast. This shout or command is like that of a general to his army, an admiral to his oarsmen, or a charioteer to his horses. The trumpet blast serves as a summons for God's elect to be gathered together, preparatory to their glorification with Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.2722484239396796,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.89,
+            "commentatorTierSimilarities": [
+                34.75,
+                34.12,
+                31.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

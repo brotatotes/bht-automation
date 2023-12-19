@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:12:32",
+    "verseRef": "1 Corinthians 12:1",
+    "bestBHT": {
+        "bht": "In his letter to the Corinthians, Paul seeks to dispel their ignorance concerning spiritual gifts. These gifts, though extraordinary, did not automatically indicate true saintliness. The Corinthians had experienced a consciousness of a higher power and an immediate knowledge of the divine will. However, their misuse of these gifts resulted in trouble within the church. The subsequent discussion on spiritual gifts emphasizes the significance of understanding and appropriately utilizing these endowments for the edification of the entire body of Christ.",
+        "wordCount": 80,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.819496465301072,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+        "commentatorTierSimilarities": [
+            28.3,
+            35.19,
+            36.5
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is most likely neuter, as in ch. xiv. 1; spiritual gifts: so Chrysostom and most commentators\u2014not masculine, as in ch. xiv. 37.",
+            "But surely the things are the main subject, enounced here, vv. 4\u201311, and treated of through the rest of the chapter; the inspired. persons being mentioned ouly incidentally to them.",
+            "It rather looks as if, like the last, it had been an abuse which he had heard of, and of his own instance corrects."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By the love which pervades the whole, the gifts of the several members, forming reciprocal complements to each other, tend to the one object of perfecting the body of Christ.",
+            "The extraordinary gifts, so far from making professors more peculiarly saints than in our day, did not always even prove that such persons were in a safe state at all.",
+            "If ignorant now, it will be your own fault, not mine."
+        ],
+        "Albert Barnes": [
+            "The whole discussion, however, shows that he refers to the various endowments, gifts, or graces that had been bestowed in different degrees on the members of the church.\" ",
+            "The subject is of so much importance that it demands particular attention and special care.",
+            "Nothing is of more importance in the church than the doctrine respecting the influences and endowments of the Holy Spirit."
+        ],
+        "Marvin Vincent": [
+            "Before this consciousness of a higher power than their own, the ordinary and natural faculties of the human mind seemed to retire, to make way for loftier aspirations, more immediate intimations of the divine will, more visible manifestations of the divine power.\" ",
+            "It resembled in some degree the inspiration of the Jewish judges, psalmists, and prophets; it may be illustrated by the ecstasies and visions of prophets in all religions...",
+            "In its energy and universality it was peculiar to the christian society of the apostolic age."
+        ],
+        "John Calvin": [
+            "He proves from their own experience, that those things in which they gloried, are bestowed upon men through the exercise of God\u2019s favor.",
+            "Let us learn from this passage how great is the blindness of the human mind: when it is without the illumination of the Holy Spirit, inasmuch as it stands in amazement at dumb idols.",
+            "What if they should now show themselves to be less submissive to God, after his having taken them under his care, to be governed by his word and Spirit, than they formerly discovered themselves to be forward and compliant, in following the suggestions of Satan!"
+        ],
+        "Philip Schaff": [
+            "Now concerning spiritual gifts, brethren, I would not have you ignorant.\" ",
+            "That 'gifts,' not 'persons,' is the proper supplement here, there can be no reasonable doubt.",
+            "Chap. 14 confirms it."
+        ],
+        "Archibald T. Robertson": [
+            "Clearly one of the items asked about in the letter to Paul...and introduced precisely as the problem of meats offered to idols.\" ",
+            "This question runs to the end of chapter 14.\" ",
+            "Plainly much trouble had arisen in Corinth in the exercise of these gifts."
+        ],
+        "John Gill": [
+            "The apostle having gone through various heads of discourse, which he either of himself, or at the request of others, wrote upon, proceeds to a new subject, that of spiritual gifts, which he seems to have been desired to give his thoughts upon, and advice about.",
+            "neither of the author of these gifts, who is the Spirit of God, who dispenses them according to his sovereign will and pleasure, and not according to the deserts of men, and are not acquired by the industry, or through the merit of any, but are his free grace gifts.",
+            "nor of the design and use of them, which is the edification of the whole body; and every gift, though ever so mean, is of service; and therefore as, on the one hand, none ought to be discouraged, so, on the other hand, none should be lifted up with pride, or give way to a boasting spirit."
+        ],
+        "John Wesley": [
+            "The abundance of these in the churches of Greece strongly refuted the idle learning of the Greek philosophers.",
+            "He describes, 1. The unity of the body... 2. The variety of members and offices... 3. The way of exercising gifts rightly, namely, by love... and adds, 4. A comparison of several gifts with each other.",
+            "The Corinthians did not use them wisely, which occasioned St. Paul's writing concerning them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the apostle Paul addresses the Corinthians' ignorance regarding spiritual gifts. It seems that the issue he was correcting was an abuse he had heard of. These gifts, though extraordinary, did not necessarily prove that someone was a true saint. The exercise of these gifts should not lead to a boasting spirit, but should be directed towards the edification of the church. The Corinthians had experienced a consciousness of a higher power and immediate intimations of the divine will. These gifts were a manifestation of the Holy Spirit's work in the early Christian community. However, the Corinthians' misuse of these gifts caused trouble in the church. The discussion about spiritual gifts continues in the following chapters, emphasizing the importance of understanding and properly exercising these supernatural endowments.",
+            "wordCount": 130,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8295633295839924,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.17,
+            "commentatorTierSimilarities": [
+                28.86,
+                32.23,
+                38.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In addressing the Corinthians' ignorance of spiritual gifts, Paul corrects an abuse he had heard of. These extraordinary gifts did not intrinsically indicate saintliness. Instead, they should be used with humility for the edification of the church. The Corinthians had experienced a consciousness of a higher power and immediate intimations of the divine will. These gifts were a manifestation of the Holy Spirit's work. However, their misuse led to trouble. The discussion about spiritual gifts continues, highlighting the importance of understanding and properly exercising these endowments.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.6552016095368534,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+            "commentatorTierSimilarities": [
+                27.74,
+                33.35,
+                38.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul addresses the Corinthians' ignorance regarding spiritual gifts, correcting an abuse he had heard of. These extraordinary gifts did not necessarily indicate true saintliness. The Corinthians had experienced a consciousness of a higher power and immediate intimations of the divine will. However, their misuse of these gifts led to trouble. The discussion about these gifts continues, emphasizing the importance of understanding and properly exercising them for the edification of the church.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.7535490108668563,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+            "commentatorTierSimilarities": [
+                28.36,
+                34.31,
+                37.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his letter to the Corinthians, Paul seeks to dispel their ignorance concerning spiritual gifts. These gifts, though extraordinary, did not automatically indicate true saintliness. The Corinthians had experienced a consciousness of a higher power and an immediate knowledge of the divine will. However, their misuse of these gifts resulted in trouble within the church. The subsequent discussion on spiritual gifts emphasizes the significance of understanding and appropriately utilizing these endowments for the edification of the entire body of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.819496465301072,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+            "commentatorTierSimilarities": [
+                28.3,
+                35.19,
+                36.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his letter to the Corinthians, Paul addresses their ignorance regarding spiritual gifts. It seems that he is correcting an abuse he had heard of, where the Corinthians were misusing these gifts. He emphasizes that these extraordinary gifts did not always prove someone's saintliness. Instead, they should be used with humility for the edification of the church. The Corinthians had experienced a consciousness of a higher power and immediate intimations of the divine will through these gifts. However, their misuse of these gifts had caused trouble within the church. The subsequent discussion on spiritual gifts highlights the importance of understanding and properly exercising them.",
+            "wordCount": 105,
+            "quoteTokenProportion": 48.61,
+            "qualityScore": 1.825551446505778,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.04,
+            "commentatorTierSimilarities": [
+                27.62,
+                33.57,
+                38.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

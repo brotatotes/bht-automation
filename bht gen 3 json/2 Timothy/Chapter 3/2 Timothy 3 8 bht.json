@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:31:17",
+    "verseRef": "2 Timothy 3:8",
+    "bestBHT": {
+        "bht": "Jannes and Jambres, who opposed Moses and resisted the truth, serve as prototypes for the opponents to the truth today. Being men corrupted in mind and worthless concerning the faith, they were reprobate, incapable of testing the truth and rejected when tested. Skilled in magic, they renounced their trust in Christ and stood against His truth. Yet, their example reminds us that adversaries rising against Christ and His gospel should not catch us off guard, for even Moses faced opposition.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.1060460249801682,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+        "commentatorTierSimilarities": [
+            32.81,
+            33.89,
+            33.3
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But as Jannes and Jambres withstood Moses, these also withstand the truth.\" (16 words)",
+            "Being men corrupted in mind, worthless concerning the faith.\" (11 words)",
+            "Not abiding the test, reprobate in respect of the faith.\" (11 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is no wonder there should be now such opponents to the truth, for their prototypes existed in ancient times.",
+            "Jannes and Jambres were sacred scribes skilled in magic.",
+            "Reprobate \u2013 incapable of testing the truth, rejected on being tested."
+        ],
+        "Albert Barnes": [
+            "The point of the remark of the apostle here, is, that they resisted Moses by attempting to imitate his miracles, thus neutralizing the evidence that he was sent from God.",
+            "In like manner, the persons here referred to, opposed the progress of the gospel by setting up a similar claim to that of the apostles; by pretending to have as much authority as they had; and by thus neutralizing the claims of the true religion, and leading off weak-minded persons from the truth.",
+            "The meaning is, that in respect to the Christian faith, or the doctrines of religion, their views could not be approved, and they were not to be regarded as true teachers of religion."
+        ],
+        "Marvin Vincent": [
+            "As [\u03bf\u03bd \u03c4\u03c1\u03bf\u03c0\u03bf\u03bd] . The formula occurs in the Synoptic Gospels (see Matthew 23:37; Luke 13:34), and in Acts (i. 11; Acts 7:28), but not in Paul.",
+            "Of corrupt minds [\u03ba\u03b1\u03c4\u03b5\u03c6\u03b8\u03b1\u03c1\u03bc\u03b5\u03bd\u03bf\u03b9 \u03c4\u03bf\u03bd \u03bd\u03bf\u03c5\u03bd] . Better, corrupted in mind. The verb, N. T. o. Comp. diefqarmenwn ton noun corrupted in mind, 1 Timothy 6:5.",
+            "Reprobate [\u03b1\u03b4\u03bf\u03ba\u03b9\u03bc\u03bf\u03b9] . In Pastorals only here and Titus 1:16. A Pauline word. See on Romans 1:28, and castaway, 1 Corinthians 9:27."
+        ],
+        "John Calvin": [
+            "This comparison confirms what I have already said about the 'last times', for he means that the same thing happens to us under the gospel.",
+            "Paul reminds us, that we need not wonder if adversaries rise up against Christ to oppose his gospel, since Moses likewise had those who contended with him; for these examples drawn from a remote antiquity yield us strong consolation.",
+            "The reason why there were two of them may be conjectured to have been this, that, because the Lord had raised up for his people two leaders, Moses and Aaron, Pharaoh determined to place against them the like number of magicians."
+        ],
+        "Philip Schaff": [
+            "Jannes and Jambres. The names do not appear in the Pentateuch or elsewhere in the Old Testament. They are found in the Targum or Paraphrase of Exodus 7:11; Exodus 22:11, ascribed to Jonathan, and may represent either a fragment of decorative fiction or an unwritten tradition.\" (2 Timothy 3:8)",
+            "As in the reference to Enoch in Jude 1:14, we see a free use of what we call uncanonical materials by way, not of proof, but illustration.\" (2 Timothy 3:8)",
+            "Reprobate. In its strict sense, as 'tried, found wanting, and rejected.'\" (2 Timothy 3:8)"
+        ],
+        "Archibald T. Robertson": [
+            "In which manner.",
+            "They stood against.",
+            "They had renounced their trust in Christ."
+        ],
+        "John Gill": [
+            "Now between these magicians, and the Papists before described, there is a very great agreement; as these men were Egyptians, so the Papists may be called, since Rome is spiritually called Sodom and Egypt, Revelation 11:8 as the one were, so the other are idolaters, who worshipped devils, idols of gold, silver, brass, stone, and wood...",
+            "...both sorcerers, using the magic art...and both agreed to keep the people of God in bondage, as much, and as long as they could...",
+            "...they resist the Scriptures of truth, not allowing them to be a sufficient rule without their unwritten traditions, and even Christ, who is truth itself, in all his offices, prophetic, priestly, and kingly."
+        ],
+        "John Wesley": [
+            "Men of corrupt minds - Impure notions and wicked inclinations.",
+            "Void of judgment - Quite ignorant, as well as careless, of true, spiritual religion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In ancient times, there were opponents to the truth, just as there are now. Jannes and Jambres, skilled in magic, resisted Moses and his miracles by attempting to imitate them. Similarly, the adversaries in question opposed the progress of the gospel by setting up their own claims and neutralizing the claims of the true religion. In the Christian faith, their views were corrupt and unworthy, making them reprobate and incapable of testing the truth. This comparison with Jannes and Jambres reaffirms that adversaries rising up against Christ and His gospel is not a surprise. It is a reminder to find consolation in the fact that even Moses faced opposition.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.9082186678036153,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+            "commentatorTierSimilarities": [
+                28.81,
+                37.51,
+                33.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In ancient times, Jannes and Jambres withstood Moses, attempting to imitate his miracles and resist the truth. Similarly, adversaries oppose the progress of the gospel by setting up their own claims and neutralizing the claims of the true religion. Their corrupt minds and reprobate nature mark them as unworthy and incapable of testing the truth. This comparison reveals that adversaries rising against Christ and His gospel is not surprising, offering consolation in knowing that even Moses faced opposition.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.0072957214862606,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.08,
+            "commentatorTierSimilarities": [
+                27.49,
+                38.38,
+                34.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In ancient times, Jannes and Jambres withstood Moses, these men corrupted in mind, worthless concerning the faith, who resisted the truth. Their prototypes provide a strong illustration of the opponents existing now. As sacred scribes skilled in magic, they renounced their trust in Christ and stood against His truth. They were reprobate, unable to test the truth and rejected when tested. This reminder gives us consolation, knowing that adversaries rising against Christ and His gospel is to be expected, for even Moses faced opposition.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9368277887082566,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+            "commentatorTierSimilarities": [
+                33.63,
+                33.23,
+                33.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In ancient times, Jannes and Jambres resisted Moses and withstood the truth. Their corrupt minds, reprobate nature, and renounced trust in Christ led them to stand against His truth. They were skilled in magic, but their opposition to the faith was worthless. These opponents serve as prototypes for the adversaries to the truth existing now. We find consolation in knowing that even Moses faced opposition, reminding us that adversaries rising against Christ and His gospel should not surprise us.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9001175245035808,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.52,
+            "commentatorTierSimilarities": [
+                32.8,
+                32.84,
+                34.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jannes and Jambres, who opposed Moses and resisted the truth, serve as prototypes for the opponents to the truth today. Being men corrupted in mind and worthless concerning the faith, they were reprobate, incapable of testing the truth and rejected when tested. Skilled in magic, they renounced their trust in Christ and stood against His truth. Yet, their example reminds us that adversaries rising against Christ and His gospel should not catch us off guard, for even Moses faced opposition.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.1060460249801682,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                32.81,
+                33.89,
+                33.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

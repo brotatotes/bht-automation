@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:29:04",
+    "verseRef": "Acts 9:40",
+    "bestBHT": {
+        "bht": "In this touching narrative, Peter emulates Jesus by putting everyone out of the room and kneeling down to pray with fervent faith. The remarkable resurrection of Tabitha brings astonishment and rejoicing, particularly among the women who were inspired by her to serve alongside Jesus. This miracle confirms the truth of the Gospel and highlights the important role of women in the early church. Peter's actions speak to the power of faith and the compassion of God, displaying the divine reality in a wonderfully vivid manner.",
+        "wordCount": 86,
+        "quoteTokenProportion": 27.12,
+        "qualityScore": 1.7046982519011724,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+        "commentatorTierSimilarities": [
+            26.6,
+            39.46,
+            33.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "40. put them all forth] After the example of his divine Master, see Luke viii. 54."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The kneeling became the lowly servant, but not the Lord Himself",
+            "The graphic minuteness of detail here imparts to the narrative an air of charming reality."
+        ],
+        "Albert Barnes": [
+            "But Peter put them all forth - From the room. See a similar case in Matthew 9:25. Why this was done is not said. Perhaps it was because he did not wish to appear as if seeking publicity. If done in the presence of many persons, it might seem like ostentation.\" ",
+            "Others suppose it was that he might offer more fervent prayer to God than he would be willing they should witness Compare 2 Kings 4:33.",
+            "Tabitha, arise - Compare Mark 5:41-42."
+        ],
+        "John Calvin": [
+            "When Peter wisheth to know what pleaseth the Lord, he confesseth that he alone was the author of the work.",
+            "Kneeling in time of prayer is a token of humility.",
+            "This speaking unto the dead corpse was one point of the vehemency whereunto the Spirit of God enforced Peter."
+        ],
+        "Philip Schaff": [
+            "Jesus, without any preceding prayer, restored to life the son of the widow of Nain and the little daughter of Jairus. In the case of the raising of Lazarus, His action was still more remarkable; then He thanked the Father beforehand for His power over life and death, so confident was Jesus that, though He had laid aside His robe of glory, He still possessed the keys of death and the grave.",
+            "A \u2018new life\u2019 had been pointed out to and quietly adopted by the women of the new society... the holy influence which the \u2018sisters in Christ\u2019 quietly exercised in the Jerusalem Church... another advance in the position of women as fellow-workers for Jesus, had silently been brought about.",
+            "In this little band of faithful women gathered together in Joppa by Dorcas, we see the germ of that more elaborately-constituted body of female workers at Ephesus alluded to twenty-five years later by St. Paul (1 Timothy 5:9). It is, indeed, a specially interesting episode this visit of Peter to Joppa, for it is the first and earliest mention of the noble work left by the Redeemer to be done by Christian women."
+        ],
+        "Archibald T. Robertson": [
+            "Put them all forth (\u03b5\u03ba\u03b2\u03b1\u03bb\u03c9\u03bd \u03b5\u03be\u03c9 \u03c0\u03b1\u03bd\u03c4\u03b1\u03c2). Second aorist (effective) active participle of \u03b5\u03ba\u03b2\u03b1\u03bb\u03bb\u03c9, a rather strong word, perhaps with some difficulty.",
+            "With sublime faith like \u03a4\u03b1\u03bb\u03b5\u03b9\u03b8\u03b1 \u03ba\u03bf\u03c5\u03bc of Jesus in Mark 5:41.",
+            "She sat up (\u03b1\u03bd\u03b5\u03ba\u03b1\u03b8\u03b9\u03c3\u03b5\u03bd). Effective aorist active indicative of \u03b1\u03bd\u03b1\u03ba\u03b1\u03b8\u03b9\u03b6\u03c9. Often in medical writers, only here in the N.T. and Luke 7:15 where Westcott and Hort have in the margin the uncompounded form \u03b5\u03ba\u03b1\u03b8\u03b9\u03c3\u03b5\u03bd. Vivid picture."
+        ],
+        "John Gill": [
+            "but Peter put them all forth.... and kneeled down and prayed",
+            "which words were spoken in the name and faith of Christ... for to his power, and not to the apostles, is the following miracle to be ascribed",
+            "and when she saw Peter; whom she might know: she sat up"
+        ],
+        "John Wesley": [
+            "Who can imagine the surprise of Dorcas, when called back to life?",
+            "For the sake of themselves, and of the poor, there was cause of rejoicing, and much more, for such a confirmation of the Gospel.",
+            "Yet to herself it was matter of resignation, not joy, to be called back to these scenes of vanity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The touching narrative in this verse comes alive through the vivid details provided by the commentators. Like Jesus, Peter puts everyone out of the room before approaching the lifeless body of Tabitha. His act of kneeling down and praying demonstrates both humility and fervent faith. Just as Jesus spoke to the dead, Peter speaks to the lifeless body, showing the boldness that the Spirit of God prompted in him. With astonishing faith, Tabitha is raised back to life, causing great surprise and rejoicing, especially among the women who had been influenced by her and who quietly exercised their roles as fellow-workers for Jesus. This miraculous event not only confirms the power of the Gospel, but it also highlights the important work of women in the early church.",
+            "wordCount": 128,
+            "quoteTokenProportion": 36.26,
+            "qualityScore": 1.649333380882127,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.18,
+            "commentatorTierSimilarities": [
+                25.81,
+                39.77,
+                34.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this powerful account, Peter follows the example of Jesus by respectfully removing everyone from the room. With humility and fervent faith, he kneels down and prays, displaying his unwavering trust in God's power. By speaking to the lifeless body, Peter exhibits the boldness granted by the Spirit of God. The astonishing resurrection of Tabitha brings great surprise and rejoicing, especially among the women who were influenced by her in their work for Jesus. This miraculous event serves as a powerful confirmation of the Gospel's truth and exemplifies the significant role of women in the early church.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.6218776274663411,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.27,
+            "commentatorTierSimilarities": [
+                25.42,
+                38.58,
+                36.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this touching narrative, Peter emulates Jesus by putting everyone out of the room and kneeling down to pray with fervent faith. The remarkable resurrection of Tabitha brings astonishment and rejoicing, particularly among the women who were inspired by her to serve alongside Jesus. This miracle confirms the truth of the Gospel and highlights the important role of women in the early church. Peter's actions speak to the power of faith and the compassion of God, displaying the divine reality in a wonderfully vivid manner.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.7046982519011724,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+            "commentatorTierSimilarities": [
+                26.6,
+                39.46,
+                33.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this stirring account, Peter imitates Jesus by clearing the room and kneeling down to pray. His humble posture and fervent faith exemplify the power of prayer. Through Peter's bold words, the Spirit of God works to bring Tabitha back to life, causing great surprise and rejoicing. This miraculous event not only confirms the authenticity of the Gospel but also highlights the significant role of women in the early church. The presence of women as faithful servants underscores the influence and impact of their work for Jesus.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.5933520782470727,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+            "commentatorTierSimilarities": [
+                26.54,
+                38.4,
+                35.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter follows Jesus' example, removing everyone from the room and kneeling down to pray with fervent faith. His bold words, spoken in the name and faith of Christ, are prompted by the Spirit of God. The astonishing resurrection of Tabitha brings great surprise and rejoicing, especially among the women who were inspired by her as fellow-workers for Jesus. This miraculous event confirms the power of the Gospel and highlights the important role of women in the early church, as they quietly exercise their faith and influence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.6821047213850404,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                26.47,
+                38.79,
+                34.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

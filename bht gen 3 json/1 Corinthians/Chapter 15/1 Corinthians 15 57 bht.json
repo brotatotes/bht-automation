@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 15:14:15",
+    "verseRef": "1 Corinthians 15:57",
+    "bestBHT": {
+        "bht": "We give thanks to God, who grants us the blessed consummation of victory over death through our Lord Jesus Christ. This victory is not of our own doing; we owe it all to God. He has given us the victory over sin, death, and hades. Death and Hades aimed to triumph, but they were overcome through Christ's victory over sin and death. In the face of death, we are reminded of our own humility and the insignificance of pride and insolence.",
+        "wordCount": 82,
+        "quoteTokenProportion": 51.02,
+        "qualityScore": 2.4390572512901247,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.44,
+        "commentatorTierSimilarities": [
+            28.65,
+            32.63,
+            38.71
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For this blessed consummation of victory over death...",
+            "He breaks out in thanks to God, who gives it to us...",
+            "Through our Lord Jesus Christ..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The victory was in no way due to ourselves.",
+            "The victory, which death and Hades had aimed at, but which, notwithstanding the opposition of them, as well as of the law and sin, we have gained.",
+            "The repetition of the word is appropriate to the triumph gained."
+        ],
+        "Albert Barnes": [
+            "The victory over sin, death, and the grave.",
+            "God alone is the author of this victory.",
+            "By his death, thus destroying the power of death; by his resurrection and triumph over the grave."
+        ],
+        "Marvin Vincent": [
+            "It is therefore Death alone that can make any man suddenly know himself.",
+            "He tells the proud and insolent that they are but abjects, and humbles them at the instant.",
+            "O eloquent, just and mighty Death! whom none could advise, thou hast persuaded; what none hath dared, thou hast done."
+        ],
+        "John Calvin": [
+            "Death has no sting with which to wound except sin, and the law imparts to this sting a deadly power.",
+            "We may, therefore, triumph over death as subdued, because Christ's victory is ours.",
+            "Though the remains of sin still dwell in us, yet the Spirit who raised up Christ from the dead is life, because of righteousness."
+        ],
+        "Philip Schaff": [
+            "But thanks be to God, which giveth us the victory through our Lord Jesus Christ.\" ",
+            "Whose full name in this closing word the apostle expressively gives."
+        ],
+        "Archibald T. Robertson": [
+            "But thanks be to God (\u03c4\u03c9 \u03b4\u03b5 \u03b8\u03b5\u03c9 \u03c7\u03b1\u03c1\u03b9\u03c2). Exultant triumph through Christ over sin and death as in Romans 7:25. "
+        ],
+        "John Gill": [
+            "Over sin the sting of death, over the law the strength of sin, and over death and the grave; and which will be the ground and foundation of the above triumphant song in the resurrection morn.\" ",
+            "Christ has obtained a victory over the law; he has stopped its mouth, and answered all its demands; he has been made under, and subject to it; he has obeyed its precepts, and bore its penalty, and has delivered his from the curse and condemnation of it.",
+            "He has conquered the grave by rising out of it himself, and living for evermore, having the keys of the grave in his hands; and will at the last day oblige it to give up its dead, when his victory over this, with respect to his people, will be abundantly manifest."
+        ],
+        "John Wesley": [
+            "But thanks be to God, who hath given us the victory \u2014 Over sin, death, and hades."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "For this blessed consummation of victory over death, we break out in thanks to God, who gives it to us through our Lord Jesus Christ. The victory was in no way due to ourselves, but thanks be to God, who has given us the victory over sin, death, and hades. Death, which death and Hades had aimed at, but which, notwithstanding their opposition, as well as the opposition of the law and sin, we have gained. It is therefore Death alone that can make any person suddenly know themselves. Death tells the proud and insolent that they are but abjects and humbles them instantly. The victory over sin, death, and the grave is God's work alone, achieved through Christ's death and victory over the grave.",
+            "wordCount": 127,
+            "quoteTokenProportion": 54.79,
+            "qualityScore": 2.3825025800694988,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.56,
+            "commentatorTierSimilarities": [
+                29.6,
+                30.56,
+                39.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For this blessed consummation of victory over death, we give thanks to God, who grants it to us through our Lord Jesus Christ. The victory is not by our own merit, but thanks be to God, who has given us the victory over sin, death, and hades. Death and Hades aimed to triumph, but through Christ's triumph over sin and death, we have gained the victory. Death reminds us of our humility and breaks down the pride of the proud and insolent.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 2.5635307366357,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.58,
+            "commentatorTierSimilarities": [
+                29.26,
+                31.39,
+                39.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We give thanks to God, who grants us the blessed consummation of victory over death through our Lord Jesus Christ. This victory is not of our own doing; we owe it all to God. He has given us the victory over sin, death, and hades. Death and Hades aimed to triumph, but they were overcome through Christ's victory over sin and death. In the face of death, we are reminded of our own humility and the insignificance of pride and insolence.",
+            "wordCount": 82,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 2.4390572512901247,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.44,
+            "commentatorTierSimilarities": [
+                28.65,
+                32.63,
+                38.71
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

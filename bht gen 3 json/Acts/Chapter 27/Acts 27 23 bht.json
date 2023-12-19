@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:37:08",
+    "verseRef": "Acts 27:23",
+    "bestBHT": {
+        "bht": "In the face of adversity, Paul asserts himself as a devoted servant of God, underscoring the honor and high regard given to those who serve Him. The presence of the angel of God reinforces Paul's confidence and testifies to his allegiance and service to God. By proclaiming, the God whose I am and whom I serve, Paul succinctly captures the essence of true religion, encompassing faith, hope, and love in the worship and devotion to God.",
+        "wordCount": 77,
+        "quoteTokenProportion": 34.0,
+        "qualityScore": 2.0393067101818825,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+        "commentatorTierSimilarities": [
+            32.61,
+            26.88,
+            40.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Paul characterizes himself as dedicated to and the servant of God, to give solemnity and bespeak credit for his announcement.",
+            "At such a time, the servants of God are highly esteemed.",
+            "The servants of God are highly esteemed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There stood by me this night the angel of God.\" ",
+            "Whose I am.\" ",
+            "And whom I serve."
+        ],
+        "Albert Barnes": [
+            "There appeared to me.",
+            "The messages of God were often communicated by angels.",
+            "Of the God to whom I belong. This is an expression of Paul\u2019s entire devotedness to him."
+        ],
+        "Marvin Vincent": [
+            "The angel. Rev., correctly, an angel. There is no article.",
+            "Of God [\u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5]. Rev., correctly, supplies the article: 'the God,' added because Paul was addressing heathen.",
+            "who would have understood by angel a messenger of the gods."
+        ],
+        "John Calvin": [
+            "For there stood by me. Lest he might be accused of rashness, for promising so fully that they should be all safe, he bringeth in God for his author and witness.",
+            "But Paul doth extol the name of his God in plain words among profane men, not only that they may learn that the true God is worshipped in Judea, but also that Paul himself doth worship him.",
+            "Nevertheless, we see how Paul triumpheth in his bonds, when he is the minister of safety to so many men, and the interpreter of God."
+        ],
+        "Archibald T. Robertson": [
+            "For there stood by me...the Lord stood by me.\" ",
+            "The very form used by Paul of his trial...when others deserted him.\" ",
+            "This angel of the God whom Paul serves...is the reason for Paul's present confidence."
+        ],
+        "John Gill": [
+            "For there stood by me this night the angel of God...whose I am, and whom I serve.\" ",
+            "they are not their own, nor are they the servants of men, nor do they belong to Satan, nor even to the ministering angels, but they are the Lord's.",
+            "The natural man has no desire, but an aversion to the service of God; converted men are willing to serve him, and delight to do it."
+        ],
+        "John Wesley": [
+            "The God whose I am, and whom I serve \u2014 How short a compendium of religion! Yet how full! Comprehending both faith, hope, and love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At such a trying time, Paul humbly characterizes himself as a dedicated servant of God, emphasizing the importance and esteem given to those who serve Him. The presence of the angel of God by his side gives Paul confidence, as he acknowledges his belonging to God and his sole devotion to Him. Paul's declaration of being a servant of God is not only a reflection of his complete devotion, but also an affirmation to the heathen that the true God is worshipped and honored. This simple phrase, the God whose I am and whom I serve, encapsulates the essence of true religion, encompassing faith, hope, and love in the worship and service of God.",
+            "wordCount": 115,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.9883079594726145,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                33.02,
+                25.72,
+                41.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During this challenging time, Paul humbly identifies himself as a devoted servant of God, signaling the significance and honor associated with serving the Almighty. The angel of God standing by him brings Paul reassurance, further reinforcing his acknowledgment of belonging to God and being committed solely to His service. This concise phrase, the God whose I am and whom I serve, encapsulates the core of genuine religion \u2013 encompassing faith, hope, and love in the worship and dedication to God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.8788844375794762,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+            "commentatorTierSimilarities": [
+                30.98,
+                25.64,
+                43.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of adversity, Paul humbly presents himself as a faithful servant of God, highlighting the esteem and honor bestowed upon those who serve Him. The presence of the angel of God reinforces Paul's confidence and affirms his belonging to God and his unwavering devotion. This direct declaration, the God whose I am and whom I serve, serves as a powerful summary of true faith, embodying complete dedication and encompassing the principles of belief, hope, and love in serving God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9347288486447347,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.67,
+            "commentatorTierSimilarities": [
+                32.25,
+                26.18,
+                41.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of adversity, Paul asserts himself as a devoted servant of God, underscoring the honor and high regard given to those who serve Him. The presence of the angel of God reinforces Paul's confidence and testifies to his allegiance and service to God. By proclaiming, the God whose I am and whom I serve, Paul succinctly captures the essence of true religion, encompassing faith, hope, and love in the worship and devotion to God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.0393067101818825,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+            "commentatorTierSimilarities": [
+                32.61,
+                26.88,
+                40.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst challenging circumstances, Paul humbly presents himself as a dedicated servant of God, emphasizing the esteemed status granted to those who serve Him. The presence of the angel of God strengthens Paul's faith and confirms his identity as one who belongs to God and wholeheartedly serves Him. These profound words, the God whose I am and whom I serve, encapsulate the essence of genuine religion, encompassing faith, hope, and love in the worship and commitment to God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.923856960075597,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                31.0,
+                27.1,
+                41.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:22:29",
+    "verseRef": "Luke 21:32",
+    "bestBHT": {
+        "bht": "Naturally, this generation of people will witness the predicted events, specifically the destruction of Jerusalem, which symbolizes the end of the world. The phrase shall not pass away emphasizes the strong certainty of these events happening. It is important to note that this generation refers to the people living at that time, not the nation. All that has been spoken about the destruction of Jerusalem, as discussed in the specific chapter, will come true.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.0,
+        "qualityScore": 1.2001806387793066,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.25,
+        "commentatorTierSimilarities": [
+            38.38,
+            0.0,
+            61.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "32. This generation\u2014not \"this",
+            "\tnation,\" as some interpret it, which, though admissible in",
+            "\titself, seems very unnatural here. It is rather as in :-."
+        ],
+        "Archibald T. Robertson": [
+            "This generation (\u03b7 \u03b3\u03b5\u03bd\u03b5\u03b1 \u03b1\u03c5\u03c4\u03b7). Naturally people then living.",
+            "Shall not pass away (\u03bf\u03c5 \u03bc\u03b7 \u03c0\u03b1\u03c1\u03b5\u03bb\u03b8\u03b7). Second aorist active subjunctive of \u03c0\u03b1\u03c1\u03b5\u03c1\u03c7\u03bf\u03bc\u03b1. Strongest possible negative with \u03bf\u03c5 \u03bc\u03b7.",
+            "The reference, therefore, is to the destruction of Jerusalem regarded as the type of the end of the world."
+        ],
+        "John Gill": [
+            "Verily I say unto you, this generation,....",
+            " :-.",
+            " :-. All the Oriental versions read here as there, \"all these things\"; before related."
+        ],
+        "John Wesley": [
+            "Till all things be effected \u2014 All that has been spoken of the destruction of Jerusalem, to which the question, Luke 21:7, relates: and which is treated of from Luke 21:8-24."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Naturally, people then living during the time of Jesus will witness the events he predicts. It is the destruction of Jerusalem that Jesus refers to, seen as a symbol of the end of the world. It is important to note that this generation does not mean this nation, as some have interpreted it. The phrase shall not pass away expresses the certainty that these events will occur, leaving no room for doubt. Everything related to the destruction of Jerusalem, as discussed from Luke 21:8-24, will come to pass.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.149162873710826,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.55,
+            "commentatorTierSimilarities": [
+                34.03,
+                0.0,
+                65.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Naturally, people then living will witness the predicted events, specifically the destruction of Jerusalem, which symbolizes the end of the world. The phrase this generation should not be interpreted as this nation. Shall not pass away emphasizes the certainty of the events and leaves no room for doubt. Everything related to the destruction of Jerusalem, as discussed from the specific chapter, will come to pass.",
+            "wordCount": 65,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.1462418742276852,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.46,
+            "commentatorTierSimilarities": [
+                41.48,
+                0.0,
+                58.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The generation that is currently living will not pass away until the destruction of Jerusalem, symbolizing the end of the world, takes place. It is important to understand that this generation refers to the people of that time, rather than the nation. The phrase shall not pass away signifies the absolute certainty of these events occurring. All the things related to the destruction of Jerusalem will be fulfilled, as described from the specific chapter.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.1864451846099902,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.79,
+            "commentatorTierSimilarities": [
+                38.99,
+                0.0,
+                61.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "People living during the time of Jesus will witness the events foretold, specifically the destruction of Jerusalem, which symbolizes the end of the world. This generation refers to the people of that time, not the nation. The phrase shall not pass away expresses the strong certainty of these events occurring. All that has been spoken about the destruction of Jerusalem will come to pass, as discussed from the specific chapter.",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.1891371075566288,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.88,
+            "commentatorTierSimilarities": [
+                37.47,
+                0.0,
+                62.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Naturally, this generation of people will witness the predicted events, specifically the destruction of Jerusalem, which symbolizes the end of the world. The phrase shall not pass away emphasizes the strong certainty of these events happening. It is important to note that this generation refers to the people living at that time, not the nation. All that has been spoken about the destruction of Jerusalem, as discussed in the specific chapter, will come true.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.2001806387793066,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.25,
+            "commentatorTierSimilarities": [
+                38.38,
+                0.0,
+                61.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

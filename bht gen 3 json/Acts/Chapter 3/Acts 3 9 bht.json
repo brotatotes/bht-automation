@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:25:22",
+    "verseRef": "Acts 3:9",
+    "bestBHT": {
+        "bht": "Gathered in the temple courts for public prayer, all the people witnessed the astonishing sight of the once lame man walking. This miraculous healing had the utmost publicity, leaving no doubt about its authenticity. It serves as a reminder for us to approach the works of God with reverence, allowing our wonder to serve as an entry point for deeper understanding of His teachings. The man's joyful praise of God, able to walk unaided, further magnifies the impact of this extraordinary event.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.0451145778954185,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.09,
+        "commentatorTierSimilarities": [
+            45.26,
+            0.0,
+            54.74
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "9. all the people saw him, c.\u2014as",
+            "\tthey assembled at the hour of public prayer, in the temple courts so",
+            "\tthat the miracle had the utmost publicity."
+        ],
+        "John Calvin": [
+            "Let us, therefore, learn reverently to consider the works of God, that the wondering at them may make an entrance for doctrine.",
+            "To be brief, the one ought not to be separated from the other. Which thing experience doth sufficiently teach us.",
+            "Wherefore, we must so much the more seek for medicine out of the Word, that doctrine may direct us unto the right end, being lifted up with the miracles."
+        ],
+        "John Gill": [
+            "saw him walking; who before lay on a couch, or on the ground, and was so lame, that he was obliged to be carried;",
+            "and praising God; for this miraculous cure.",
+            "The Arabic version renders it, 'saw him walking to praise God': that is, entering into the temple with the apostles, in order to offer up the sacrifice of praise to God there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the people gathered for public prayer, the lame man who was miraculously healed could not be missed by anyone. The sight of him walking was so astonishing that it garnered the utmost publicity, with everyone witnessing the transformation. This event serves as a powerful reminder for us to contemplate the miraculous works of God, allowing awe and wonder to pave the way for deeper understanding and doctrine. The man's joyous praise of God, now able to walk freely, further emphasizes the magnitude of this miraculous healing.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.009020959226432,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.89,
+            "commentatorTierSimilarities": [
+                39.81,
+                0.0,
+                60.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the people gathered at the temple for public prayer, the miraculous sight of the formerly lame man walking ignited great astonishment. This public display of God's power could not be ignored, capturing the attention of all who witnessed it. It serves as a reminder to us to reflect on the wondrous works of God, allowing them to deepen our understanding of His teachings. The man's joyful praise of God, now able to walk unaided, further highlights the magnitude of this extraordinary healing.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.0427161663008155,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.01,
+            "commentatorTierSimilarities": [
+                40.67,
+                0.0,
+                59.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the people assembled in the temple for public prayer, they couldn't help but see the remarkable sight of the formerly lame man walking. This miracle attracted widespread attention and served as a powerful testimony to God's power. It is a reminder to us to humbly and reverently consider the awe-inspiring works of God, allowing them to deepen our understanding of His truth. The man's joyful praise of God, now able to walk, further emphasizes the miraculous nature of his healing.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.0288136374701895,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.55,
+            "commentatorTierSimilarities": [
+                39.0,
+                0.0,
+                61.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Gathered in the temple courts for public prayer, all the people witnessed the astonishing sight of the once lame man walking. This miraculous healing had the utmost publicity, leaving no doubt about its authenticity. It serves as a reminder for us to approach the works of God with reverence, allowing our wonder to serve as an entry point for deeper understanding of His teachings. The man's joyful praise of God, able to walk unaided, further magnifies the impact of this extraordinary event.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.0451145778954185,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.09,
+            "commentatorTierSimilarities": [
+                45.26,
+                0.0,
+                54.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As all the people gathered in the temple courts for public prayer, they were unable to overlook the extraordinary sight of the once lame man walking. This miraculous event attracted significant attention and served as a powerful testament to God's works. Consequently, it is crucial for us to approach and contemplate God's miracles with reverence, allowing them to open our minds to deeper insights and teachings. The man's exuberant praise of God, now able to walk unassisted, further emphasizes the magnitude of this wondrous healing.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 0.9582995571410311,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.21,
+            "commentatorTierSimilarities": [
+                40.13,
+                0.0,
+                59.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

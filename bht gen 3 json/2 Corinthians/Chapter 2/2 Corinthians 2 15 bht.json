@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:15:30",
+    "verseRef": "2 Corinthians 2:15",
+    "bestBHT": {
+        "bht": "As believers, we are the sweet fragrance of Christ to both those who are being saved and those who are perishing. Christ Himself is the savor that exhales in our character and work. Through our preaching, we spread the fragrance of Christ, and in doing so, we ourselves become fragrant. Our service, whether it leads to salvation or not, is well-pleasing to God. Even as some reject the gospel and perish, the gospel continues to possess its own virtue, remaining a sweet savor amidst unbelief.",
+        "wordCount": 86,
+        "quoteTokenProportion": 53.45,
+        "qualityScore": 2.2926028053171947,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.57,
+        "commentatorTierSimilarities": [
+            40.59,
+            26.17,
+            33.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For we are unto God a sweet savour of Christ, among them that are being saved, and among them that are perishing.\" ",
+            "Whether men be saved, or whether they perish, the gospel continues to possess its own virtue, and we continue being that which we are.\" ",
+            "So the gospel is of sweet savour, even though some be perishing through disbelief of it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We not only scatter the savor; but 'we are the sweet savor' itself.",
+            "The Gospel is still of a sweet savor, though many perish through unbelief.",
+            "The Gospel was to the different classes respectively, the 'savor of death unto death' and the 'savor of life'."
+        ],
+        "Albert Barnes": [
+            "Whatever might be the result, whether successful or not, yet God would be pleased with self-denial, and toil, and prayer that was honestly and zealously put forth to save others from death.",
+            "It would be by no fault of faithful ministers that people would perish. Their efforts would be to save them, and those efforts would be pleasing to God.",
+            "The gospel is what it is in itself - a pure, holy, and benevolent system, and is answerable only for effects which a pure, holy, and benevolent system is suited to produce."
+        ],
+        "Marvin Vincent": [
+            "It is not merely a sweet odor produced by Christ, but Christ Himself is the savor which exhales in their character and work.",
+            "The apostolic teachers themselves being represented as an odor, their Christian personality redolent of Christ.",
+            "The figure shifts; the apostolic teachers themselves being represented as an odor, their Christian personality redolent of Christ."
+        ],
+        "John Calvin": [
+            "Whatever may be the issue of our preaching, it is, notwithstanding, well-pleasing to God, if the Gospel is preached, and our service will be acceptable to him.",
+            "It does not detract in any degree from the dignity of the Gospel, that it does not do good to all; for God is glorified even in this, that the Gospel becomes an occasion of ruin to the wicked.",
+            "What is to the world an offensive smell, is a sweet odor to God and angels."
+        ],
+        "Philip Schaff": [
+            "For we are unto God a sweet savour of Christ.",
+            "The figure is continued, but beautifully varied in application.",
+            "The preachers themselves go up, yet not in themselves considered, but as it were 'Christ' Himself held forth by them."
+        ],
+        "Archibald T. Robertson": [
+            "In spreading the fragrance of Christ the preacher himself becomes fragrant.",
+            "In them that are perishing, even in these if the preacher does his duty."
+        ],
+        "John Gill": [
+            "By which they are enabled to preach the savoury doctrines of the Gospel, and to adorn and recommend them by their exemplary lives and conversations.",
+            "They are said to be a sweet savour of Christ, because they have their gifts, grace, and Gospel from him, and he is the subject of their ministry.",
+            "Moreover, it is 'unto God' they are such a savour, not unto men, mere carnal men, for with them they are the filth of the world, and the offscouring of all things; but they are grateful and well pleasing to the Lord, as their ministrations make for, and show forth his honour and glory."
+        ],
+        "John Wesley": [
+            "For we \u2014 The preachers of the gospel.",
+            "God is well-pleased with this perfume diffused by us.",
+            "In them that believe and are saved... and in them that obstinately disbelieve and, consequently, perish."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As believers, we are the sweet fragrance of Christ to both those who are being saved and those who are perishing. The gospel has its own inherent power, regardless of the response it receives. Though some may reject it and perish, the gospel remains a sweet savor. Christ Himself is the fragrance that permeates our lives and ministry. We, as His ambassadors, spread His fragrance wherever we go, and as we faithfully carry out our duty, even those who are perishing cannot deny the impact of the Gospel's aroma. Our service, whether it leads to salvation or not, is well-pleasing to God, for it represents the proclamation of His truth and the demonstration of His love.",
+            "wordCount": 118,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 2.2379574838576497,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.75,
+            "commentatorTierSimilarities": [
+                38.64,
+                26.26,
+                35.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the preachers of the gospel, we are the sweet fragrance of Christ both to those who are being saved and to those who are perishing. The gospel itself possesses its own virtue, and as we scatter its fragrance, we become a living representation of Christ. Our ministry is not only pleasing to God but is also a powerful testimony, even to those who obstinately disbelieve and ultimately perish. Despite the varying responses, the gospel remains a sweet savor, emanating from our character and work, as we faithfully fulfill our duty.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.3719779174211277,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.21,
+            "commentatorTierSimilarities": [
+                38.5,
+                27.85,
+                33.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As believers, we are the sweet fragrance of Christ to both those who are being saved and those who are perishing. Christ Himself is the savor that exhales in our character and work. Through our preaching, we spread the fragrance of Christ, and in doing so, we ourselves become fragrant. Our service, whether it leads to salvation or not, is well-pleasing to God. Even as some reject the gospel and perish, the gospel continues to possess its own virtue, remaining a sweet savor amidst unbelief.",
+            "wordCount": 86,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 2.2926028053171947,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.57,
+            "commentatorTierSimilarities": [
+                40.59,
+                26.17,
+                33.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We, as believers, are the sweet fragrance of Christ to both those who are being saved and those who are perishing. The Gospel itself is a sweet savor, even though some may be perishing through disbelief. We, as the preachers of the Gospel, spread the aroma of Christ through our character and work. Our service and ministry are pleasing to God, regardless of the outcome, and even those who obstinately disbelieve and perish cannot deny the impact of the Gospel's fragrance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.446278971110469,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.68,
+            "commentatorTierSimilarities": [
+                38.28,
+                26.18,
+                35.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the preachers of the gospel, we are the sweet fragrance of Christ both to those who are being saved and to those who are perishing. The gospel itself possesses its own virtue, and as we scatter its fragrance, we become a living representation of Christ. Our ministry is not only pleasing to God but is also a powerful testimony, even to those who obstinately disbelieve and ultimately perish. Despite the varying responses, the gospel remains a sweet savor, emanating from our character and work, as we faithfully fulfill our duty.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.3719779174211277,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.21,
+            "commentatorTierSimilarities": [
+                38.5,
+                27.85,
+                33.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

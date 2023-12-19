@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:18:21",
+    "verseRef": "2 Corinthians 11:27",
+    "bestBHT": {
+        "bht": "The apostle Paul endured weariness, painfulness, frequent watchings, hunger, thirst, and frequent fastings in his ministry. These fastings were distinct from hunger and thirst, resulting from foodlessness. Insufficient clothing led to cold, while Paul's constant health issues made his self-devotion almost superhuman. Nevertheless, he persevered, not despising lesser trials, and serving Christ with a pure conscience. Ultimately, Paul's focus was on faithfully following Christ, considering all other challenges as additional.",
+        "wordCount": 73,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.7275501477968525,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.78,
+        "commentatorTierSimilarities": [
+            43.94,
+            32.08,
+            23.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "by weariness and painfulness, in watchings frequently, in hunger and thirst, in fastings frequently",
+            "fastings are distinguished in the catalogue from hunger and thirst",
+            "in cold and nakedness, insufficient clothing"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Hunger and thirst\" are not synonymous with \"foodlessness\" (as the Greek of \"fasting\" means), but are its consequences.",
+            "Cold\" resulting from \"nakedness,\" or insufficient clothing, as the Greek often means: as \"hunger and thirst\" result from \"foodlessness.",
+            "When we remember that he who endured all this was a man constantly suffering from infirm health, such heroic self-devotion seems almost superhuman."
+        ],
+        "Albert Barnes": [
+            "In weariness - Resulting from traveling, exposure, labor, and want.",
+            "And painfulness - This word implies painful effort; labor producing sorrow.",
+            "In watchings often - In loss of sleep, arising from abundant toils and from danger."
+        ],
+        "Marvin Vincent": [
+            "Watchings. See on ch. 2 Corinthians 6:5."
+        ],
+        "John Calvin": [
+            "For how may we better distinguish Christ\u2019s servants than by proofs so numerous, so various, and so important?",
+            "That man, therefore, who will be signalized by so many marks of distinction, will not despise those that are less illustrious, and less thoroughly tried, nor will he on that account be elated with pride.",
+            "For the main thing is \u2014 that we serve Christ with a pure conscience. All other things are, as it were, additional."
+        ],
+        "Philip Schaff": [
+            "In labour and travail, in watchings often, in hunger and thirst.",
+            "In fastings often not voluntary fastings, which he would not mention as a privation he had endured.",
+            "In cold and nakedness, such as he would doubtless often experience in his travels through inhospitable regions."
+        ],
+        "Archibald T. Robertson": [
+            "In labour and travail (\u03ba\u03bf\u03c0\u03c9 \u03ba\u03b1 \u03bc\u03bf\u03c7\u03b8\u03c9). Both old words for severe work, combined here as in 1 Thessalonians 2:9; 2 Thessalonians 3:8, 'by toil and moil' (Plummer).\" ",
+            "In cold (\u03b5\u03bd \u03c8\u03c5\u03c7\u03b5). Old word from \u03c8\u03c5\u03c7\u03c9, to cool by blowing. See Acts 28:2.",
+            "See the picture of the aged Paul later in the Roman dungeon (2 Timothy 4:9-18)."
+        ],
+        "John Gill": [
+            "In weariness and painfulness,.... Through long journeys and frequent preaching; or 'in labour and trouble'; or in troublesome labour, for all labour is not so; as hunting, hawking, c. though laborious, yet delightful but the labours of the apostle were painful and troublesome to the flesh, though he had much inward spiritual delight and pleasure in them...",
+            "in watchings often; being sometimes engaged at midnight, either in preaching, or praying, or staging psalms, and sometimes obliged to work early and late with his own hands to supply his necessities...",
+            "in cold and nakedness; when travelling in the winter season, and but poorly clothed to keep him from the inclemencies of the weather; and having no certain dwelling place to retire unto and abide in, during any severe season there might be, and wanting the comforts of life to support him under such inconveniences."
+        ],
+        "John Wesley": [
+            "Having no place where to lay my head; no convenient raiment to cover me; yet appearing before noble-men, governors, kings",
+            "Not being ashamed",
+            "In cold and nakedness"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul vividly describes the physical sufferings he endured in his ministry, including weariness, painfulness, watchings, hunger, thirst, and frequent fastings. These fastings are distinct from hunger and thirst, as they are not synonymous with foodlessness, but rather its consequences. He faced cold resulting from inadequate clothing, which often meant insufficient protection against the elements. It is remarkable that Paul endured all these hardships while also struggling with ongoing health issues. His heroic self-devotion can only be described as almost superhuman. Yet, in the midst of all this, Paul remained steadfast, not despising lesser trials and maintaining a pure conscience. His ultimate goal was to serve Christ faithfully, no matter the personal sacrifices.",
+            "wordCount": 115,
+            "quoteTokenProportion": 38.04,
+            "qualityScore": 1.5575190177526612,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.13,
+            "commentatorTierSimilarities": [
+                37.83,
+                32.14,
+                30.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul endured tremendous physical suffering in his ministry - weariness, painfulness, frequent watchings, hunger, thirst, and frequent fastings. These fastings are distinct from hunger and thirst, as they are the consequences of foodlessness. Insufficient clothing led to cold and nakedness. Remarkably, Paul faced all these challenges while dealing with ongoing health problems, displaying heroic self-devotion. Yet, his focus remained on serving Christ with a pure conscience, emphasizing the importance of faithfully following God's call, regardless of personal sacrifice.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.6976059633098317,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.79,
+            "commentatorTierSimilarities": [
+                41.45,
+                32.37,
+                26.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul endured weariness, painfulness, frequent watchings, hunger, thirst, and frequent fastings in his ministry. These fastings were distinct from hunger and thirst, resulting from foodlessness. Insufficient clothing led to cold, while Paul's constant health issues made his self-devotion almost superhuman. Nevertheless, he persevered, not despising lesser trials, and serving Christ with a pure conscience. Ultimately, Paul's focus was on faithfully following Christ, considering all other challenges as additional.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.7275501477968525,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.78,
+            "commentatorTierSimilarities": [
+                43.94,
+                32.08,
+                23.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul endured weariness, painfulness, frequent watchings, hunger, thirst, and frequent fastings in his ministry. These fastings, distinct from hunger and thirst, resulted from foodlessness. Insufficient clothing led to cold, while Paul's heroic self-devotion seemed superhuman, considering his constant health issues. Yet, he remained steadfast, not despising lesser trials, serving Christ with a pure conscience. His ultimate focus was faithfully following Christ, as he considered all other challenges as additional to the main goal.",
+            "wordCount": 77,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6668343395964227,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.76,
+            "commentatorTierSimilarities": [
+                43.54,
+                31.39,
+                25.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul's ministry was marked by weariness, painfulness, frequent watchings, hunger, thirst, and frequent fastings. While hunger and thirst were the consequences of foodlessness, fastings were distinct. Insufficient clothing exposed him to cold, and his constant health struggles made his self-devotion almost superhuman. Yet, Paul remained steadfast, neither despising lesser trials nor being elated with pride. His primary focus was serving Christ with a pure conscience, considering all other things as additional.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.683366088440025,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.31,
+            "commentatorTierSimilarities": [
+                39.98,
+                34.02,
+                26.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

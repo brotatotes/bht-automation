@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:32:23",
+    "verseRef": "Acts 16:39",
+    "bestBHT": {
+        "bht": "Moved by the fear of the mob's response, the magistrates of Philippi, who had previously treated the preachers harshly, beseeched them not to take legal action. In an astonishing contrast to their earlier tyranny, the magistrates displayed a supplicant attitude, urgently requesting the preachers to leave the city to avoid further trouble. Fearing for their own lives, they persistently implored the preachers, seeking to appease the populace and ensuring their own safety.",
+        "wordCount": 73,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8171136410463806,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+        "commentatorTierSimilarities": [
+            34.29,
+            27.55,
+            38.15
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Besought them not to make their treatment matter of legal complaint.",
+            "The magistrates seem to show fear of a change in the temper of the mob.",
+            "In the request to depart from the city."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What a contrast this suppliant attitude of the preachers of Philippi to the tyrannical air with which they had the day before treated the preachers!\" (Acts 16:39)",
+            "They besought them not to complain of them.\" (Acts 16:39)",
+            "Perhaps fearing again to excite the populace.\" (Acts 16:40)"
+        ],
+        "Albert Barnes": [
+            "The apostles had them completely in their power, and could easily effect their disgrace and ruin.",
+            "This advice Paul and Silas saw fit to comply with, after they had seen and comforted the brethren.",
+            "Thus, the opposition of the people and the magistrates at Philippi was the occasion of the founding of the church there, and thus their unkind and inhospitable request that they should leave them was the means of the extension of the gospel into adjacent regions."
+        ],
+        "Archibald T. Robertson": [
+            "They feared. This is the explanation. They became frightened for their own lives when they saw what they had done to Roman citizens.",
+            "They asked. Imperfect active of \u03b5\u03c1\u03c9\u03c4\u03b1\u03c9. They kept on begging them to leave for fear of further trouble.",
+            "This verb in the Koine is often used as here to make a request and not just to ask a question."
+        ],
+        "John Gill": [
+            "And they came with many friends unto the prison, and desired them to go out, saying, we are not ignorant of your case, that you are righteous men; and bringing them out they besought them, saying, go out of this city, lest they (the people) should turn again upon you, crying against you;",
+            "They excuse themselves by attributing what had passed to popular rage and fury, and pretend they consulted the safety of the apostles, by desiring them to go out of the city.",
+            "They took along with them some persons, who were friends to the apostles as well as to them, to prevail upon them to depart quietly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After experiencing a profound change in the hearts of the magistrates, the preachers of Philippi beseeched them not to take legal action against them. These magistrates, who had previously treated the preachers with tyranny, now feared the potential backlash of the mob. It is fascinating to see the contrast in their demeanor, from harshness to suppliant humility. The magistrates repeatedly pleaded with the preachers, urging them to leave the city out of concern for further trouble. This request to depart arose from their fear for their own lives and the desire to appease the populace.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.676114765719205,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.07,
+            "commentatorTierSimilarities": [
+                34.23,
+                29.89,
+                35.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having witnessed a transformation in the magistrates, the preachers of Philippi implored them not to bring about a legal complaint. These magistrates displayed fear of the mob's changing temperament and requested the preachers to depart from the city, contrasting their previous tyrannical treatment. Concerned for their own safety, they repeatedly asked the preachers to leave, fearing a resurgence of trouble. The magistrates expressed their fear by persistently appealing to them, understanding that their request was driven by self-preservation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8005108506034069,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "commentatorTierSimilarities": [
+                35.01,
+                27.91,
+                37.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Seeing the magistrates' fear of the mob's reaction and observing their change in attitude, the preachers of Philippi humbly entreated them not to pursue legal charges. The magistrates, who had previously exhibited a tyrannical demeanor, now pleaded with the preachers to depart the city out of their own concern for safety. Repeatedly petitioning them, they voiced their anxiety and asked earnestly, recognizing the need to avoid further trouble. The magistrates' fear led them to make this heartfelt request, seeking to ensure their own well-being.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6876114191698837,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                33.63,
+                28.29,
+                38.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After their encounter with the magistrates of Philippi who had previously treated them harshly, the preachers found them in a state of fear and pleaded with them not to press charges. The magistrates were apprehensive about the potential backlash from the mob and urgently requested the preachers to leave the city. Fearing further trouble, they persisted in their appeal, seeking to safeguard their own lives. The transformation in the magistrates' attitude and their sincere entreaty revealed a remarkable contrast from their earlier tyrannical behavior.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7103507266375348,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.21,
+            "commentatorTierSimilarities": [
+                31.96,
+                29.79,
+                38.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moved by the fear of the mob's response, the magistrates of Philippi, who had previously treated the preachers harshly, beseeched them not to take legal action. In an astonishing contrast to their earlier tyranny, the magistrates displayed a supplicant attitude, urgently requesting the preachers to leave the city to avoid further trouble. Fearing for their own lives, they persistently implored the preachers, seeking to appease the populace and ensuring their own safety.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8171136410463806,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                34.29,
+                27.55,
+                38.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

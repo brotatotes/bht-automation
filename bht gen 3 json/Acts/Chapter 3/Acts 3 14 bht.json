@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:25:47",
+    "verseRef": "Acts 3:14",
+    "bestBHT": {
+        "bht": "The murderers' moral impurity is starkly contrasted with Jesus as the Holy and Just One, the Prince of life, and the Author of life. The believers acknowledge their role as mere agents of Jesus, recognizing that the miracle of healing was solely His doing. The phrase desired to be granted underscores the distinction between the favor sought for Barabbas and the rejection of Jesus. By denying the Holy and Just One, even after His proven innocence, they compound their guilt and reveal the purity of Christ in comparison to their wickedness.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.8880564663210508,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.12,
+        "commentatorTierSimilarities": [
+            22.7,
+            35.46,
+            41.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The 'Holy One and the Just' contrasts with the moral impurity of 'a murderer,' - 'the Prince of life,' with the destruction of life implied in 'murderer,' - while 'ye killed' again stands in remarkable opposition to 'the Prince of life.\" ",
+            "This last title given to our Lord implics... 'the Author of life.'\" ",
+            "It is possible, that the words 'Prince of life' may contain an allusion to the great miracle which was the immediate cause of the enmity of their rulers to Jesus. But of course St. Peter had a higher view in the title than merely this."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Miracles are marvels only in relation to the limited powers of man.",
+            "Neither the might nor the merit of the cure are due to us, mere agents of Him whom we preach.",
+            "We had made this man to walk."
+        ],
+        "Albert Barnes": [
+            "The Holy One ... And the Just - The word 'just' here denotes 'innocent,' or 'one who was free from crime.'",
+            "In this sense, the Lord Jesus was not only personally innocent, but even before his judges he stood unconvicted of any crime.",
+            "It greatly aggravated their crime that they demanded his death still, even after it was ascertained that they could prove nothing against him, thus showing that it was mere hatred and malice that led them to seek his death."
+        ],
+        "Marvin Vincent": [
+            "Desired [\u03b7\u03c4\u03b7\u03c3\u03b1\u03c3\u03b8\u03b5] . Or demanded. See on Luke 11:9. ",
+            "A murderer [\u03b1\u03bd\u03b4\u03c1\u03b1 \u03c6\u03bf\u03bd\u03b5\u03b1] . Lit., a man who was a murderer. ",
+            "To be granted [\u03c7\u03b1\u03c1\u03b9\u03c3\u03b8\u03b7\u03bd\u03b1\u03b9] By way of favor [\u03c7\u03b1\u03c1\u03b9\u03c2] ."
+        ],
+        "Philip Schaff": [
+            "But ye denied the Holy One and the Just.",
+            "Old Testament titles of Messiah, where He is called the Holy One, the Righteous Branch, the Lord our Righteousness, God\u2019s Righteous Servant who should justify many.",
+            "God\u2019s Righteous Servant who should justify many."
+        ],
+        "Archibald T. Robertson": [
+            "In contrast with Pilate.",
+            "A man a murderer. In contrast with 'the Holy and Righteous One.'",
+            "As a favour."
+        ],
+        "John Gill": [
+            "Who is 'holy' both in his divine and human nature, and the fountain of holiness to his people.",
+            "These characters may have a particular regard to the purity of Christ, as man, and to the innocence of his life, and the harmlessness of his actions.",
+            "They desired an act of grace for [Barabbas], and a sentence of condemnation to a most shameful and painful death on Christ."
+        ],
+        "John Wesley": [
+            "Ye renounced the Holy One \u2014 Whom God had marked out as such; and the Just One - Even in the judgment of Pilate."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the stark contrast between the moral impurity of the murderers and the Holy and Just nature of Jesus, who is referred to as the Prince of life and the Author of life. The title Prince of life may allude to the miraculous healing this man experienced, which caused their rulers to become hostile towards Jesus. The power of miracles demonstrates the limited abilities of man and highlights Jesus as the true source of healing and life. It is emphasized that the believers were merely agents of Jesus, and the credit for the man's healing belonged solely to Him. Furthermore, the phrase desired to be granted refers to the favor and grace that the people sought for Barabbas, contrasting with the malicious rejection of Jesus. The denial of the Holy and Just One, even after confirming His innocence, compounded their guilt. This verse ultimately reveals the purity and innocence of Christ in contrast to the wickedness of those who rejected Him.",
+            "wordCount": 164,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.8407477044908682,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                24.9,
+                33.51,
+                41.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The murderers' moral impurity is strikingly juxtaposed with Jesus as the Holy and Just One, the Prince of life and the Author of life. The believers are humbled as mere agents of Jesus, acknowledging that the miracle was solely due to Him. The phrase desired to be granted highlights the contrast between the favor sought for Barabbas and the rejection of Jesus. Their denial of the Holy and Just One, despite His proven innocence, further emphasizes their guilt. This passage reveals the purity of Christ in contrast to the wickedness of His rejectors.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.859660855845027,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.18,
+            "commentatorTierSimilarities": [
+                23.94,
+                34.14,
+                41.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The murderers' moral impurity is starkly contrasted with Jesus as the Holy and Just One, the Prince of life, and the Author of life. The believers acknowledge their role as mere agents of Jesus, recognizing that the miracle of healing was solely His doing. The phrase desired to be granted underscores the distinction between the favor sought for Barabbas and the rejection of Jesus. By denying the Holy and Just One, even after His proven innocence, they compound their guilt and reveal the purity of Christ in comparison to their wickedness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8880564663210508,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.12,
+            "commentatorTierSimilarities": [
+                22.7,
+                35.46,
+                41.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The murderers' impurity contrasts sharply with Jesus, the Holy and Just One, referred to as the Prince of life and the Author of life. The believers humbly recognize themselves as mere agents, acknowledging that the power and merit of the healing belong solely to Jesus. The phrase desired to be granted highlights the contrast between seeking grace for Barabbas and the rejection of Jesus. Their denial of the Holy and Just One, despite His proven innocence, further emphasizes their guilt and reveals the purity of Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.88643716161689,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.07,
+            "commentatorTierSimilarities": [
+                21.92,
+                34.27,
+                43.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Holy and Just nature of Jesus starkly contrasts with the moral impurity of the murderers. Jesus is described as the Prince of life and the Author of life, emphasizing His role as the source of healing and salvation. The believers humbly acknowledge themselves as mere agents of Jesus, attributing the power and merit of the healing to Him alone. The phrase desired to be granted highlights the favor sought for Barabbas, contrasting with the rejection of Jesus. Ultimately, this verse highlights the purity of Christ in contrast to the wickedness of His rejectors.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.8705834720308405,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.54,
+            "commentatorTierSimilarities": [
+                25.49,
+                33.37,
+                41.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

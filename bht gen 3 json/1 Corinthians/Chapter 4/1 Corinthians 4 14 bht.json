@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:03:46",
+    "verseRef": "1 Corinthians 4:14",
+    "bestBHT": {
+        "bht": "Paul, as a father to his beloved children, doesn't aim to shame the Corinthians, but to admonish them for their own good. He wants them to reflect on their faith and the true nature of their preachers, questioning if their Christianity is sincere. His intention is to gently guide them towards a more holy life, avoiding excessive severity and mixing honey with vinegar in his reproofs. Paul's loving warning and instruction show his care for them, written with prudence and sweetness to prevent any unkind interpretation.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.6691133125124291,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+        "commentatorTierSimilarities": [
+            25.01,
+            23.73,
+            51.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14. not... to shame you] literally, not as one who shames yon, see ch. vi. 5: xv. 34,"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Admonish as a father uses 'admonition' to 'beloved sons'.\" ",
+            "Not provoking them to wrath.",
+            "The Corinthians might well be 'ashamed' at the disparity of state between the father, Paul, and his spiritual children themselves."
+        ],
+        "Albert Barnes": [
+            "My design is higher and nobler than this.",
+            "I speak as a father to his children, and I say these things for your good.",
+            "I say these things not to make you blush, but with the hope that they may be the means of your reformation, and of a more holy life."
+        ],
+        "Marvin Vincent": [
+            "The verb means to turn about, hence to turn one upon himself; put him to shame.\" ",
+            "Also, in the middle voice, in the sense of reverence; to turn one's self toward another.",
+            "Think you he will have any regard [\u03b5\u03bd\u03c4\u03c1\u03bf\u03c0\u03b7\u03bd] for the blind man."
+        ],
+        "John Calvin": [
+            "It is indeed certain that this is the nature and tendency of a father\u2019s chastisement, to make his son feel ashamed; for the first token of return to a right state of mind is the shame which the son begins to feel on being reproached for his fault.",
+            "Let teachers infer from this, that in reproofs they must always use such moderation as not to wound men\u2019s minds with excessive severity, and that they must mix honey or oil with vinegar \u2014 that they must above all things take care not to appear to triumph over those whom they reprove, or to take delight in their disgrace.",
+            "Hence if we are desirous to do any good by correcting men\u2019s faults, we must distinctly give them to know, that our reproofs proceed from a friendly disposition."
+        ],
+        "Philip Schaff": [
+            "I write not these things to shame you as if I thought your Christianity unreal.\" ",
+            "That ye may be led to inquire whether it is not sitting too lightly upon you.\" ",
+            "And as to your preachers, whether their popularity is not due to their preaching an easy religion."
+        ],
+        "Archibald T. Robertson": [
+            "The harsh tone has suddenly changed.",
+            "To shame you.",
+            "Literally, shaming you."
+        ],
+        "John Gill": [
+            "I write not these things to shame you,.... Yet it was not merely to put them to the blush, but to admonish and instruct them, that he enlarged on these things.",
+            "They being his children in a spiritual sense, for whom he had the strongest love and affection, as their spiritual Father.",
+            "He warned, admonished, and put them in mind of their obligations and duty to him."
+        ],
+        "John Wesley": [
+            "I do not write these things to shame you, but as my beloved children I warn you.\" ",
+            "It is with admirable prudence and sweetness the apostle adds this, to prevent any unkind construction of his words."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As a father who loves his beloved children, Paul seeks to admonish and instruct the Corinthians, not to shame them. He desires their reformation and a more holy life. He wants them to reflect on the state of their faith and the true nature of their preachers, questioning if their Christianity sits too lightly, leading to popularity due to preaching an easy religion. However, Paul's intention is not to triumph over them or take delight in their disgrace, but to gently and lovingly guide them towards a right state of mind. He writes these things not to shame them, but as a warning and reminder of their obligations and duty to him. His words are filled with prudence and sweetness to prevent any unkind interpretation.",
+            "wordCount": 126,
+            "quoteTokenProportion": 36.9,
+            "qualityScore": 1.6501796464229717,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+            "commentatorTierSimilarities": [
+                24.04,
+                25.17,
+                50.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, as a father to his beloved children, doesn't aim to shame the Corinthians, but to admonish them for their own good. He wants them to reflect on their faith and the true nature of their preachers, questioning if their Christianity is sincere. His intention is to gently guide them towards a more holy life, avoiding excessive severity and mixing honey with vinegar in his reproofs. Paul's loving warning and instruction show his care for them, written with prudence and sweetness to prevent any unkind interpretation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.6691133125124291,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "commentatorTierSimilarities": [
+                25.01,
+                23.73,
+                51.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As a loving father to his spiritual children, Paul doesn't seek to shame the Corinthians. Instead, he aims to admonish and instruct them, hoping for their reformation and a more sincere expression of their faith. He encourages them to reflect on the state of their Christianity and the authenticity of their preachers. Paul's gentle and caring approach emphasizes the need for moderation in reproofs, avoiding excessive severity. His words serve as a friendly reminder of their obligations and duty, written with prudence and sweetness to prevent any misunderstanding.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.5459069999271886,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.74,
+            "commentatorTierSimilarities": [
+                25.29,
+                20.12,
+                54.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, as a spiritual father to the Corinthians, doesn't write to shame them but to lovingly admonish and instruct. He wants them to reflect on their faith and the genuineness of their preachers, considering if their Christianity is sincere or sits too lightly. Paul's intention is to guide them towards a more holy life, avoiding excessive severity in his reproofs. His words are filled with care and prudence, reminding them of their obligations and duty, with a desire to prevent any unkind interpretation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.6092276413458282,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.85,
+            "commentatorTierSimilarities": [
+                22.98,
+                24.58,
+                52.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's words to the Corinthians are not meant to shame them, but to offer gentle admonishment and guidance. As a loving father to his spiritual children, he desires their growth and a more sincere expression of their faith. Paul encourages them to reflect on their Christianity and the authenticity of their preachers. He emphasizes the need for moderation in reproofs, mixing honey with vinegar. His words are written with care and sweetness, reminding them of their duties and aiming to prevent any misinterpretation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.4976816397639856,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.14,
+            "commentatorTierSimilarities": [
+                22.76,
+                21.77,
+                55.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

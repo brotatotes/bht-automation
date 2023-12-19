@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:27:08",
+    "verseRef": "Acts 7:1",
+    "bestBHT": {
+        "bht": "The interruption of the high priest breaks the silence, as Stephen's radiant countenance captivates all. Asked if he is guilty of blasphemy against Moses and the temple, Stephen responds by proclaiming the worldwide mission of the gospel of Christ. He declares that he has boldly preached the same message and now faces a similar fate as Jesus. The mildness of the high priest's question betrays a hidden emotion, while Stephen defends himself by explaining how the external rites of the law align with a heavenly pattern.",
+        "wordCount": 88,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.8600448700090473,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+        "commentatorTierSimilarities": [
+            33.2,
+            41.99,
+            24.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is parallel with Matt. xxvi. 62, but singularly distinguished from that question by its mildness.\" ",
+            "On the High Priest\u2019s question, see Chrysostom just quoted.",
+            "It is parallel with Matt. xxvi. 62, but singularly distinguished from that question by its mildness: see above."
+        ],
+        "Albert Barnes": [
+            "Then said the high priest - See the notes on Matthew 2:4. In this case the high priest seems to have presided in the council.",
+            "Are these things so? - To wit, the charge alleged against him of blasphemy against Moses and the temple, Acts 6:13-14."
+        ],
+        "Marvin Vincent": [
+            "The glorified countenance of Stephen has caused a pause of surprise and admiration.\" ",
+            "The high - priest interrupts by calling upon the accused for his defense."
+        ],
+        "John Calvin": [
+            "Stephen speaketh very appertinently, as the matter requireth.",
+            "He retaineth that God which the fathers have always worshipped, so that he turneth away the crime of wicked backsliding.",
+            "All external rites which God gave by the hand of Moses were fashioned according to the heavenly pattern."
+        ],
+        "Philip Schaff": [
+            "A hush seems to have fallen on the council as they watched that strange unearthly brightness light up the countenance of the accused, and in silence all gazed on the rapt expression of that face which seemed to his enemies the face of an angel.",
+            "The high priest breaks the silence, but his gentle question betrays his emotion.",
+            "He simply asks him, Are you really guilty of impious blasphemies against the Temple and the law?"
+        ],
+        "Archibald T. Robertson": [
+            "Stephen read the history of the Old Testament with new eyes in the light of the life and death of Jesus.",
+            "It is a great and masterful exposition of the worldwide mission of the gospel of Christ in full harmony with the Great Commission of Christ.",
+            "Stephen had proclaimed the same message of Christ and was now facing the same fate."
+        ],
+        "John Gill": [
+            "Are these things so? Is it true what they say, that thou hast spoken blasphemous words against the temple, and the law, and hast said that Jesus of Nazareth will destroy the one, and change the other?\" ",
+            "What hast thou to say for thyself, and in thine own defence?\" ",
+            "This high priest was either Annas, or rather Caiaphas."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The high priest interrupts Stephen's serene countenance by asking him if the accusations against him are true. Stephen, having read the Old Testament in light of Jesus' life and death, proclaims the worldwide mission of the gospel of Christ. He declares that he has proclaimed the same message and now faces the same fate as Jesus. The high priest's question betrays his emotion, and Stephen responds in a manner befitting the situation. He defends himself by explaining how all the external rites given by God through Moses were fashioned according to a heavenly pattern.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8121032833715143,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                34.09,
+                37.57,
+                28.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The interruption by the high priest interrupts the awe-inspiring countenance of Stephen, who is asked if the accusations against him are true. Stephen, having interpreted the Old Testament in light of Jesus' life and death, boldly proclaims the global mission of the gospel of Christ. He affirms that he has preached the same message and now faces the same destiny as Jesus. The high priest's question reveals his emotions, while Stephen defends himself by explaining how the external rituals given by God through Moses were fashioned according to a heavenly model.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7737887181420766,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.32,
+            "commentatorTierSimilarities": [
+                36.67,
+                35.91,
+                27.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The interruption of the high priest breaks the silence, as Stephen's radiant countenance captivates all. Asked if he is guilty of blasphemy against Moses and the temple, Stephen responds by proclaiming the worldwide mission of the gospel of Christ. He declares that he has boldly preached the same message and now faces a similar fate as Jesus. The mildness of the high priest's question betrays a hidden emotion, while Stephen defends himself by explaining how the external rites of the law align with a heavenly pattern.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.8600448700090473,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                33.2,
+                41.99,
+                24.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon Stephen's luminous countenance, the high priest interrupts with a gentle question, inquiring if the accusations against him are true. Stephen, having read the Old Testament in light of Jesus' life and death, boldly proclaims the universal mission of the gospel of Christ. He boldly affirms that he has proclaimed the same message and is now facing the same fate as Jesus. The high priest's inquiry reveals his underlying emotion, to which Stephen responds by explaining how the external rituals given by God through Moses were patterned after a divine model.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.761828583065721,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.92,
+            "commentatorTierSimilarities": [
+                36.11,
+                37.03,
+                26.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The interruption from the high priest momentarily halts the amazement caused by Stephen's radiant countenance. Prompted by the high priest's mild question, Stephen boldly proclaims the global mission of Christ's gospel. He confidently states that he has preached the same message as Jesus and now faces a similar fate. The high priest's inquiry unveils his emotional state, as Stephen defends himself by explaining the divine foundation of the external rituals instituted by Moses.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.7778248502268623,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.45,
+            "commentatorTierSimilarities": [
+                36.9,
+                37.26,
+                25.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

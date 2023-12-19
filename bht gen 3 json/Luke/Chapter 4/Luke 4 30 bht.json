@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:15:08",
+    "verseRef": "Luke 4:30",
+    "bestBHT": {
+        "bht": "In this account, we witness a miraculous event as Jesus escapes from the Nazarenes, passing through their midst. This escape is peaceful, devoid of violence or conflict, and it serves as a powerful demonstration of His divine power. The onlookers are left bewildered, trying to comprehend the spell that prevented them from apprehending Him. This extraordinary escape stands as a reminder that in times of persecution, God can protect and deliver His people in remarkable ways.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.7990134991236975,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+        "commentatorTierSimilarities": [
+            26.12,
+            39.48,
+            34.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord's passing through the midst of them is evidently miraculous.",
+            "The circumstances were different from those in John viii. 60, where the expression is 'He hid himself and went out of the temple.'",
+            "Here, the Nazarenes had Him actually in their custody."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "passing through the midst, &c.\u2014evidently in a miraculous way, though perhaps quite noiselessly, leading them to wonder afterwards what spell could have come over them.\" ",
+            "that they allowed Him to escape.\" ",
+            "Similar escapes, however, in times of persecution, are not unexampled."
+        ],
+        "Albert Barnes": [
+            "This escape was very remarkable.",
+            "It is remarkable that he should escape out of their hands when their very object was to destroy him...",
+            "...and that he should escape in so peaceful a manner, without violence or conflict."
+        ],
+        "John Calvin": [
+            "This example teaches us that, though our adversaries may prevail so far, that our life may seem to be placed at their disposal, yet that the power of God will always be victorious to preserve us.",
+            "So long as he shall be pleased to keep us in the world, either by tying their hands, or by blinding their eyes, or by stupifying their minds and hearts.",
+            "God rescued him, by an extraordinary miracle, from immediate death."
+        ],
+        "Philip Schaff": [
+            "By allowing 'His personal majesty' to appear, He might effect this escape, but it cannot be explained as the result of merely human decision...\" ",
+            "The view that He, visible to them all, passed through them, making them feel His superhuman power restraining them, showing them their own powerlessness against Him...",
+            "They had demanded a miracle, and now they obtained one, a miracle of judgment on them all, not only in the restraint then put upon them, but in the consequence, namely, that He went his way."
+        ],
+        "Archibald T. Robertson": [
+            "He went his way (\u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u03b5\u03c4\u03bf). Imperfect tense, he was going on his way. "
+        ],
+        "John Gill": [
+            "Either in so strong and powerful a manner, and with so much swiftness, that being once out of their hands, they could not lay hold on him again.",
+            "He made use of, and showed his divine power; and which he did, because his time to die was not yet come.",
+            "This also shows, that when he did die, he laid down his life freely and voluntarily, since he could then have exerted his power, and delivered himself out of the hands of his enemies, as now."
+        ],
+        "John Wesley": [
+            "Passing through the midst of them \u2014 Perhaps invisibly; or perhaps they were overawed; so that though they saw, they could not touch him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 4:30, our Lord's miraculous escape from the Nazarenes is evident as he passes through their midst, leaving them wondering how he managed to slip away. This escape, without violence or conflict, is a remarkable demonstration of his superhuman power. By allowing his personal majesty to appear, he brings about his own deliverance, emphasizing the powerlessness of his adversaries. This example serves to teach us that even when our adversaries have apparent control over our lives, God's power will always be victorious in preserving us.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.7168999653651107,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.43,
+            "commentatorTierSimilarities": [
+                22.21,
+                40.52,
+                37.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a remarkable display of his superhuman power, Jesus miraculously escapes from the Nazarenes, passing through their midst without violence or conflict. This escape signifies his personal majesty and the powerlessness of his adversaries. It teaches us that even when it seems like our lives are at their disposal, God's power will triumphantly preserve us.",
+            "wordCount": 56,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.7687557538012904,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.15,
+            "commentatorTierSimilarities": [
+                22.79,
+                39.12,
+                38.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Luke's account, our Lord's passage through the midst of the Nazarenes is undeniably miraculous. The circumstances differ from a previous incident in John, where He merely hid himself. Here, Jesus was truly in their custody, yet they allowed Him to slip away. This escape, while peaceful, is a remarkable demonstration of His divine power, leaving them pondering over the spell that had come over them. It serves as a reminder that in times of persecution, similar escapes have occurred, showcasing God's ability to deliver and protect His people.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.7393313286995347,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                33.28,
+                34.79,
+                31.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Luke's account, our Lord's miraculous escape from the Nazarenes is evident as He passes through their midst. This remarkable event, accomplished in a peaceful manner without violence or conflict, showcases His divine power and leaves them wondering how He could slip away. It serves as a powerful reminder that even when it seems our adversaries have control over our lives, God's power will always prevail to preserve and protect us.",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.7106466305991757,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.22,
+            "commentatorTierSimilarities": [
+                21.18,
+                38.66,
+                40.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, we witness a miraculous event as Jesus escapes from the Nazarenes, passing through their midst. This escape is peaceful, devoid of violence or conflict, and it serves as a powerful demonstration of His divine power. The onlookers are left bewildered, trying to comprehend the spell that prevented them from apprehending Him. This extraordinary escape stands as a reminder that in times of persecution, God can protect and deliver His people in remarkable ways.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.7990134991236975,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                26.12,
+                39.48,
+                34.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

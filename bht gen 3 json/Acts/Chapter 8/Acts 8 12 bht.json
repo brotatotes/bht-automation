@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:28:00",
+    "verseRef": "Acts 8:12",
+    "bestBHT": {
+        "bht": "As both men and women believed and were baptized, the effects of Philip's preaching expanded and deepened. Their repeated baptism accompanied their growing faith, symbolizing their transition from darkness to the light of heaven. Through the preaching of Philip, they not only heard and heeded the gospel but truly believed and were transformed by the power of God's grace. Their confession of faith and consecration of themselves and their families demonstrated their acceptance of the kingdom of God and the name of Jesus Christ.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 1.716119915038553,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+        "commentatorTierSimilarities": [
+            24.46,
+            35.02,
+            40.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "12. were baptized, both men and",
+            "\twomen\u2014the detection of Simon's frauds helping to extend and",
+            "\tdeepen the effects of Philip's preaching."
+        ],
+        "John Calvin": [
+            "They were made partakers of the heavenly wisdom who were blockish and dull.\" ",
+            "So that they were, after a sort, brought from hell to heaven.\" ",
+            "Men and women could not be baptized without making confession of their faith; but they were admitted unto baptism upon this condition, that their families might be consecrated to God."
+        ],
+        "Philip Schaff": [
+            "\u2018Stephen was the first to look stedfastly to the end of that which is abolished, to sound the death-knell of the Mosaic ordinances and the Temple worship, and to claim for the Gospel unfettered liberty and universal rights.\u2019\" ",
+            "Philip, by preaching to and then baptizing a number of Samaritans who believed, was the founder of the earliest Gentile congregation.",
+            "The first stones of the Church of the Gentiles were laid by those men who were dispersed when the persecution \u2018arose about Stephen.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "They were baptized (\u03b5\u03b2\u03b1\u03c0\u03c4\u03b9\u03b6\u03bf\u03bd\u03c4\u03bf). Imperfect passive (repetition, from time to time), while believed (\u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c3\u03b1\u03bd) is constative aorist antecedent to the baptism.\" ",
+            "Note dative case of Philip with \u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c3\u03b1\u03bd.",
+            "Note the gospel of Philip 'concerning the kingdom of God, and the name of Jesus Christ.'"
+        ],
+        "John Gill": [
+            "Such was the power that attended his ministry, and such the efficacy of divine grace that was exerted, that they not only gave heed unto him, but believed what he said.",
+            "Concerning the kingdom of grace, which is spiritual and internal, and which lies not in external things, as meat and drink, but in righteousness, peace, and joy.",
+            "When they heard Philip preach the Gospel, and believed in Christ, the sum and substance of it, and made a profession of faith, they were of each sex, both men and women, baptized by immersion, in the name of Jesus Christ."
+        ],
+        "John Wesley": [
+            "But when they believed \u2014 What Philip preached, then they saw and felt the real power of God, and submitted thereto."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The effects of Philip's preaching were extended and deepened as both men and women believed in the gospel of Jesus Christ and were baptized. This baptism was not a one-time event, but a repeated action that accompanied their growing faith. Philip's focus on the kingdom of God and the name of Jesus Christ stirred their hearts to make a confession of faith and consecrate themselves and their families to God. Their baptism symbolized their transition from a state of spiritual darkness to the light of heaven, as they embraced the wisdom and power of God's grace. Through Philip's preaching, they not only heard and gave heed to the gospel, but they truly believed and were transformed by the power of God.",
+            "wordCount": 126,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7362325961800429,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                25.38,
+                35.4,
+                39.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As both men and women believed and were baptized, the effects of Philip's preaching expanded and deepened. Their repeated baptism accompanied their growing faith, symbolizing their transition from darkness to the light of heaven. Through the preaching of Philip, they not only heard and heeded the gospel but truly believed and were transformed by the power of God's grace. Their confession of faith and consecration of themselves and their families demonstrated their acceptance of the kingdom of God and the name of Jesus Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.716119915038553,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+            "commentatorTierSimilarities": [
+                24.46,
+                35.02,
+                40.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As both men and women believed and were baptized, the effects of Philip's preaching expanded and deepened. Their repeated baptism accompanied their growing faith, symbolizing their transition from darkness to the light of heaven. Through Philip's preaching, they not only heard and heeded the gospel but truly believed and were transformed by the power of God's grace. Their confession of faith and consecration of themselves and their families demonstrated their acceptance of the kingdom of God and the name of Jesus Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.6975259661866964,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                24.93,
+                34.84,
+                40.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Philip's preaching had a profound impact as both men and women were baptized after believing in the gospel of Jesus Christ. Their repeated baptism reflected their growing faith, while their confession of faith consecrated themselves and their families to God. Through the power of divine grace, they transitioned from a state of spiritual darkness to the light of heaven. By embracing the wisdom and efficacy of Philip's ministry, they not only heeded and believed the gospel but experienced a true transformation in their lives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.5935655071024004,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.33,
+            "commentatorTierSimilarities": [
+                25.17,
+                33.75,
+                41.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The effects of Philip's preaching were extended and deepened as both men and women believed in the gospel of Jesus Christ and were baptized. This baptism was not a one-time event, but a repeated action that accompanied their growing faith. Philip's focus on the kingdom of God and the name of Jesus Christ stirred their hearts to make a confession of faith and consecrate themselves and their families to God. Their baptism symbolized their transition from a state of spiritual darkness to the light of heaven, as they embraced the wisdom and power of God's grace.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6922369010223177,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.61,
+            "commentatorTierSimilarities": [
+                26.34,
+                35.95,
+                37.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

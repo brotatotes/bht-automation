@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:11:58",
+    "verseRef": "1 Corinthians 11:21",
+    "bestBHT": {
+        "bht": "In Corinth, the Lord's Supper had been distorted into a selfish feast where the rich indulged themselves while the poor went hungry, neglecting the true meaning of the spiritual feast. This selfishness and excess led to a separation between the Love Feasts and the actual observance of the Lord's Supper, with the rich taking their own supper before others arrived. Such conduct went against the spirit of equality and communal fellowship that should have characterized the early Christian community, causing a division between the rich and the poor.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.397499792998339,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.06,
+        "commentatorTierSimilarities": [
+            31.4,
+            38.09,
+            30.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The poor had no supper of their own to take, and were the losers by the selfishness of the rich.",
+            "One is craving (the poor), another is drunken (the rich).",
+            "Paul draws the picture in strong colours, and who can say that the reality was less strong?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His own\" belly is his God.",
+            "The Lord's Supper, the spiritual feast, never enters his thoughts.",
+            "The one has more than is good for him, the other less."
+        ],
+        "Albert Barnes": [
+            "They had entirely mistaken the nature of the ordinance, and had converted it into an occasion of ordinary festivity, and even intemperance.",
+            "They had also entirely departed from the idea that it was a festival to be partaken of in common, and at a common table.",
+            "Their professed celebration of the Lord\u2019s Supper became a mere revel."
+        ],
+        "Marvin Vincent": [
+            "Taketh before other. Not waiting for the coming of the poor to participate."
+        ],
+        "John Calvin": [
+            "We are, however, admonished by this instance, how much antiquity, without reason on its side, can effect, or, in other words, how much influence a long continued custom has, while not sanctioned by a single declaration of the word of God.",
+            "Yet here is the great strength of Papists: 'The thing is ancient \u2014 it was done long ago \u2014 let it, therefore, have the weight of a revelation from heaven.'",
+            "This was one evil in the case, that while the rich indulged themselves sumptuously, they appeared, in a manner, to reproach the poor for their poverty."
+        ],
+        "Philip Schaff": [
+            "In apostolic times it was never observed by itself, so far as appears, but always in connection with those friendly meals called 'Agapse' or 'Love Feasts,' designed partly to exhibit and exemplify the equality of all Christians rich and poor, slaves and masters alike but also as a way of helping the poorer members without creating the feeling of pauperism.",
+            "The idea of this was taken from the way in which the Jewish Passover was celebrated a sumptuous meal at which were taken successive cups of wine with bread, after a fixed form, and with eucharistic chantings of portions of the Psalms.",
+            "Thus, in place of a simultaneous observance of the Lord\u2019s Supper, every one might be seen 'taking his own supper before other' 'one hungry,' namely, the poor, who were put off with a sorry portion, another 'drinking freely.'"
+        ],
+        "Archibald T. Robertson": [
+            "It was conduct like this that led to the complete separation between the Love-feast and the Lord's Supper.",
+            "It was not even a common meal together, not to say a Lord's supper.",
+            "Hungry poor meeting intoxicated rich, at what was supposed to be a supper of the Lord."
+        ],
+        "John Gill": [
+            "But instead of that, he sat down and ate it himself, and would not stay till the rest came, to eat together.",
+            "One would sit down and fill himself before another came; so that some went without, whilst others had too much; and thus the designed end was not answered, and the whole was a piece of confusion and disorder.",
+            "He that came late had nothing to eat, and so was hungry; when he that was first either eat and drank to excess, or at least very plentifully, so that he was very cheerful, and more disposed to carnal mirth, than in a serious and solemn manner to partake of the Lord's supper."
+        ],
+        "John Wesley": [
+            "For in eating what ye call the Lord's supper, instead of all partaking of one bread, each person brings his own supper, and eats it without staying for the rest.",
+            "And hereby the poor, who cannot provide for themselves, have nothing.",
+            "While the rich eat and drink to the full just as the heathens use to do at the feasts on their sacrifices."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some in the church of Corinth had lost sight of the true meaning of the Lord's Supper, turning it into a occasion for their own self-indulgence and excess. The rich would arrive early and eat a lavish meal, while the poor, who had no meal to bring, were left hungry and neglected. This behavior not only neglected the spiritual significance of the Lord's Supper, but also created a division between the rich and the poor in the church. The Corinthians had completely departed from the original intention of the Love Feasts associated with the Lord's Supper - a time of communal fellowship and equality among all believers. This misuse of the Lord's Supper was a stark contrast to the spirit of unity and care for one another that should have characterized the early Christian community.",
+            "wordCount": 139,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 2.252065170422707,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+            "commentatorTierSimilarities": [
+                29.38,
+                39.4,
+                31.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Corinth, some had perverted the Lord's Supper, treating it as an opportunity for personal indulgence. The rich would arrive early, feasting and becoming intoxicated, while the poor were left hungry and neglected. This distorted the purpose of the Lord's Supper, which was meant to be a time of communal fellowship and equality. It led to a separation between the Love Feasts and the actual observance of the Lord's Supper. Such behavior went against the spirit of unity and care for one another that should have characterized the early Christian community.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.1156085428625104,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.68,
+            "commentatorTierSimilarities": [
+                29.76,
+                40.61,
+                29.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Corinth, the Lord's Supper became a distorted feast of self-indulgence, with the rich arriving early to feast and become intoxicated, leaving the poor hungry and neglected. This shifted the focus away from the spiritual significance of the Supper, creating a division between the rich and the poor within the church. The original intention of the Love Feasts, which promoted equality and fellowship, had been completely disregarded. This behavior was a stark contrast to the unity and care that should have characterized the Corinthian church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0698240155456205,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+            "commentatorTierSimilarities": [
+                29.53,
+                39.61,
+                30.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Corinth, the Lord's Supper had been distorted into a selfish feast where the rich indulged themselves while the poor went hungry, neglecting the true meaning of the spiritual feast. This selfishness and excess led to a separation between the Love Feasts and the actual observance of the Lord's Supper, with the rich taking their own supper before others arrived. Such conduct went against the spirit of equality and communal fellowship that should have characterized the early Christian community, causing a division between the rich and the poor.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.397499792998339,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.06,
+            "commentatorTierSimilarities": [
+                31.4,
+                38.09,
+                30.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Corinth, the Lord's Supper was distorted into a selfish feast, where the rich indulged themselves while the poor went hungry, disregarding the true purpose of the spiritual feast. The Corinthian church had departed from the idea of a common celebration, turning it into a revelry and neglecting the concept of equality among believers. This conduct led to a separation between the Love Feasts and the Lord's Supper, creating division rather than unity within the Christian community.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.27673783149117,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.04,
+            "commentatorTierSimilarities": [
+                29.25,
+                40.85,
+                29.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

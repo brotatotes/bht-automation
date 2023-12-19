@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 14:16:50",
+    "verseRef": "Galatians 3:29",
+    "bestBHT": {
+        "bht": "Christ is Abraham's seed, and by being one with Christ and having put on Christ, believers become heirs by promise. This declaration is substantiated by a profound and comprehensive reasoning that establishes that through their union with Christ, believers become descendants of Abraham and inherit the blessings and promises. It is emphasized that this inheritance is not based on blood, race, or nation, but rather on belonging to Christ. The conclusion is that being part of Christ means being part of the seed of Abraham and being heirs according to the promise.",
+        "wordCount": 93,
+        "quoteTokenProportion": 44.23,
+        "qualityScore": 2.5774199272576555,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.04,
+        "commentatorTierSimilarities": [
+            32.68,
+            34.87,
+            32.46
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Christ is 'Abraham's seed': ye are one in and with Christ, have put on Christ; therefore ye are Abraham's seed.\" ",
+            "Consequently heirs by promise; for to Abraham and his seed were the promises made.\" ",
+            "The declaration of ver. 7 is now substantiated by 22 verses of the deepest, the most varied, and most comprehensive reasoning that exists in the whole compass of the great Apostle's writings."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ is 'Abraham's seed' (Galatians 3:16): ye are 'one in Christ' (Galatians 3:28), and one with Christ, as having 'put on Christ'; therefore YE are 'Abraham's seed,' which is tantamount to saying... ye are 'heirs according to the promise'.\" (Galatians 3:29)",
+            "One single faultless grain of human nature was found by God Himself, the source of a new and imperishable seed: 'the seed' who receive from Him a new nature and name.\" (Galatians 3:29)",
+            "His spiritual seed derive their birth from the travail of His soul, being born again of His word, which is the incorruptible seed.\" (Galatians 3:29)"
+        ],
+        "Albert Barnes": [
+            "If you belong to the Messiah, and are interested in his work.",
+            "If they believed in Christ, therefore, they showed that they were the spiritual descendants of Abraham.",
+            "You have become truly heirs of God, and this is in accordance with the promise made to Abraham."
+        ],
+        "John Calvin": [
+            "This is not intended to convey the idea, that to be a child of Abraham is better than to be a member of Christ...but to repress the pride of the Jews.",
+            "They reckoned no distinction higher than to belong to the race of Abraham; and this very distinction he makes to be common to all who believe in Christ.",
+            "The conclusion rests on this argument, that Christ is the blessed seed, in whom, as we have said, all the children of Abraham are united."
+        ],
+        "Philip Schaff": [
+            "And if ye are Christ's, then are ye Abraham's seed, heirs according to promise.\" ",
+            "The final conclusion of this profound, comprehensive, varied, and terse reasoning.",
+            "Union with Christ constitutes the true spiritual descent from Abraham, and secures the inheritance of all the Messianic blessings by promise, as against inheritance by law."
+        ],
+        "Archibald T. Robertson": [
+            "If ye are Christ's... This is the test, not the accident of blood, pride of race or nation.\" ",
+            "This is the test... whether man or woman.\" ",
+            "Thus one comes to belong to the seed of Abraham and to be an heir according to promise."
+        ],
+        "John Gill": [
+            "Not only his by profession, saying they are the Lord's, calling themselves by his name; but by possession, Christ dwelling in their hearts by faith, and they having his Spirit as a spirit of regeneration and adoption.",
+            "Being the children of God, they are heirs of God; and being the spiritual children of Abraham, the children of the promise, which are counted for the seed, they are, according to the promise made to Abraham and his spiritual seed, heirs of the blessings of the grace of life, and of the eternal inheritance.",
+            "Of all the spiritual blessings of the covenant of grace, and of the incorruptible and undefiled inheritance of the saints in light; to which they are begotten through the abundant mercy of God, for which they are made meet by the grace of Christ; and to which they have a right by his justifying righteousness."
+        ],
+        "John Wesley": [
+            "If ye are Christ's \u2014 That is, believers in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ is Abraham's seed, and by being one with Christ and having put on Christ, believers become heirs by promise. This declaration is substantiated by a profound and comprehensive reasoning that establishes that through their union with Christ, believers become descendants of Abraham and inherit the blessings and promises. It is emphasized that this inheritance is not based on blood, race, or nation, but rather on belonging to Christ. The conclusion is that being part of Christ means being part of the seed of Abraham and being heirs according to the promise.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.5774199272576555,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.04,
+            "commentatorTierSimilarities": [
+                32.68,
+                34.87,
+                32.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through their union with Christ, believers become heirs by promise and partake in the inheritance of Abraham's seed. This inheritance is not based on external factors like race or nationality but on belonging to Christ. The profound reasoning behind this declaration establishes that by being one with Christ and having put on Christ, believers become one with the spiritual seed of Abraham and receive the blessings and promises of the covenant of grace. In Christ, believers find their true identity and become heirs according to the promise.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.331482481423775,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.86,
+            "commentatorTierSimilarities": [
+                31.05,
+                35.02,
+                33.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers, as part of the spiritual seed of Abraham, inherit the promises through their union with Christ. The deep reasoning presented in the commentary confirms that being one with Christ and having put on Christ establishes believers as heirs by promise. This inheritance is not determined by race or nationality, but by belonging to Christ. By being united with Him, believers find their true identity and become recipients of the blessings and promises of the covenant of grace.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.189810266788263,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.15,
+            "commentatorTierSimilarities": [
+                30.6,
+                32.96,
+                36.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through our union with Christ, we become part of the spiritual seed of Abraham and inherit the promises. The profound reasoning in these quotes reaffirms that our identity as heirs by promise is not based on external factors like race or nationality, but on our belonging to Christ. By being united with Him, we are united with the promises of the covenant of grace. In Christ, we discover our true heritage and receive the blessings and promises that He has secured for us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.1307280681583602,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.19,
+            "commentatorTierSimilarities": [
+                31.6,
+                34.66,
+                33.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through union with Christ, believers become part of Abraham's seed and inherit the promises. This inheritance is not based on external factors, but on belonging to Christ. The profound reasoning presented establishes that being one with Christ enables believers to receive the blessings and promises of the covenant of grace. In Christ, believers find their true identity and become heirs according to the promise.",
+            "wordCount": 65,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.250146010298991,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                30.68,
+                34.8,
+                34.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

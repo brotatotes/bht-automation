@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 17:08:45",
+    "verseRef": "Titus 1:14",
+    "bestBHT": {
+        "bht": "Beware of Jewish fables and commandments of men that deviate from the truth. These fables may have sparked gnostic mythologies, but they served no purpose and did not lead to godliness. The commandments, which advocated for abstinence from certain foods and practices, were an early form of Gnosticism. They were likely promoted by Jewish individuals, emphasizing circumcision and oral traditions. Instead, we should reprove them sharply and stay steadfast in the faith, not giving heed to these futile traditions and man-made teachings.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.0938122672980337,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+        "commentatorTierSimilarities": [
+            29.95,
+            35.68,
+            34.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "not giving attention to Jewish fables...and commandments...of men turning away from the truth.",
+            "They were probably the seeds of the gnostic mythologies, already scattered about and taking root.",
+            "these commandments were on the subject of abstinence from meats and other things appointed by God for man's use."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These formed the transition stage to subsequent Gnosticism; as yet the error was but profitless, and not tending to godliness, rather than openly opposed to the faith.",
+            "commandments of men\u2014as to ascetic abstinence",
+            "that turn from the truth\u2014whose characteristic is that they turn away from the truth"
+        ],
+        "Albert Barnes": [
+            "Not giving heed to Jewish fables ... - See the notes at 1 Timothy 1:4.",
+            "And commandments of men that turn from the truth - Notes, Matthew 15:3-5."
+        ],
+        "Marvin Vincent": [
+            "Reprove sharply, that they may be sound in the faith, and may show their soundness by not giving heed, etc.\" ",
+            "Prescriptions concerning abstinence from meats, marriage, etc. The men are probably those of the circumcision.",
+            "What they teach theoretically, by means of the myths, they bring to bear practically, by means of their precepts."
+        ],
+        "John Calvin": [
+            "God wishes us to be so attentive to his word, that there shall be no entrance for trifles.",
+            "If, therefore, we wish to preserve the faith uncontaminated, let us learn carefully to restrain our senses, so that they may not give themselves up to strange contrivances.",
+            "He attributes this vice chiefly to the Jews, because, under the presence of the divine law, they introduced superstitious ceremonies."
+        ],
+        "Archibald T. Robertson": [
+            "Perhaps a reference to the oral traditions condemned by Christ in Mark 7:2-8.",
+            "Men turning themselves away from the truth.",
+            "\"The truth\" is the gospel."
+        ],
+        "John Gill": [
+            "Not giving heed to Jewish fables [...] and commandments of men [...] that turn from the truth.\" ",
+            "These were the laws and traditions of the fathers, which the Apostle Paul was brought up in, and was zealous of, before his conversion.\" ",
+            "Their commandments, of all men, should not be given heed to, by those that bear the Christian name."
+        ],
+        "John Wesley": [
+            "Commandments of men \u2014 The Jewish or other teachers, whoever they were that turned from the truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware of getting caught up in Jewish fables and commandments of men that deviate from the truth. These fables were likely the seeds of gnostic mythologies, slowly taking root. Some of these commandments focused on abstaining from certain foods and practices, which were transitionary steps towards subsequent Gnosticism. These teachings were profitless and did not promote godliness. The culprits behind these false teachings may have been individuals who emphasized ascetic practices and neglected the truth of the gospel. Instead of giving attention to these teachings, we should reprove them sharply so that they may be sound in the faith. These commandments, often associated with circumcision, were in contrast to the genuine truth of the gospel. Let us be cautious not to be swayed by the futile traditions and man-made commandments that lead us away from the truth.",
+            "wordCount": 138,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 2.070347125715558,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                30.24,
+                36.02,
+                33.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware of Jewish fables and man-made commandments that divert from the truth. These teachings may have laid the groundwork for gnostic mythologies, but they were not godly or beneficial. These commandments focused on abstaining from certain foods and practices. They were a transition to subsequent Gnosticism and were often associated with circumcision. We must reprove them sharply so that they may be sound in the faith. Instead, let us not be swayed by these futile traditions and man-made commandments, but hold fast to the truth of the gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9847948185594158,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.34,
+            "commentatorTierSimilarities": [
+                30.96,
+                34.7,
+                34.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware of Jewish fables and commandments of men that deviate from the truth. These fables may have sparked gnostic mythologies, but they served no purpose and did not lead to godliness. The commandments, which advocated for abstinence from certain foods and practices, were an early form of Gnosticism. They were likely promoted by Jewish individuals, emphasizing circumcision and oral traditions. Instead, we should reprove them sharply and stay steadfast in the faith, not giving heed to these futile traditions and man-made teachings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0938122672980337,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+            "commentatorTierSimilarities": [
+                29.95,
+                35.68,
+                34.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of Jewish fables and man-made commandments that deviate from the truth. These teachings were likely seeds of gnostic mythologies and were associated with ascetic abstinence. They formed a transition stage towards subsequent Gnosticism, though they were profitless and not conducive to godliness. It is crucial to reprove them sharply so that they may be sound in the faith. Instead, we should not give heed to these false teachings and traditions, but remain firmly grounded in the truth of the gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.9472628677212005,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.09,
+            "commentatorTierSimilarities": [
+                33.97,
+                33.32,
+                32.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware of Jewish fables and man-made commandments that turn people away from the truth. These teachings, rooted in ascetic abstinence, were a transition towards subsequent Gnosticism. They lacked value and did not lead to godliness. Reprove them sharply to ensure soundness in the faith. Instead, refrain from giving attention to these futile traditions and man-made commandments. Stay firmly rooted in the truth of the gospel, avoiding any teachings that steer you away from it.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9431397928362402,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.95,
+            "commentatorTierSimilarities": [
+                32.87,
+                34.6,
+                32.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

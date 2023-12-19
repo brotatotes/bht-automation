@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:35:12",
+    "verseRef": "Acts 22:14",
+    "bestBHT": {
+        "bht": "In his speech, Paul acknowledges the God of their fathers and the Just One, connecting their Jewish heritage with the Christian message. By mentioning the God of their fathers, Paul affirms the compatibility of the Christian doctrine with their faith in the one God of Israel. Ananias confirms that God has appointed Paul to know His will, see the Righteous One, and hear His voice. This divine appointment establishes Paul's authority and preparedness for service through his encounter with the risen Lord.",
+        "wordCount": 83,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 2.006118722146459,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+        "commentatorTierSimilarities": [
+            29.4,
+            26.96,
+            43.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The God of our fathers.\" (Acts 22:14) ",
+            "That Just One.\" (Acts 22:14) ",
+            "How forcibly must the whole scene have recalled him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Just One\u2014compare Acts 3:14; Acts 7:52.",
+            "hear the voice of his mouth\u2014in order to place him on a level with the other apostles,",
+            "who had 'seen the [risen] Lord.'"
+        ],
+        "Albert Barnes": [
+            "Shouldest know his will - His will in the plan of salvation, and in regard to your future life.",
+            "And see that Just One - The Messiah.",
+            "Shouldest hear the voice of his mouth - Shouldst hear and obey his commands."
+        ],
+        "Marvin Vincent": [
+            "The God of our fathers - Just One.",
+            "A conciliatory touch in Paul's speech, mentioning both God and Christ by their Jewish names.",
+            "Hath chosen [\u03c0\u03c1\u03bf\u03b5\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03b1\u03c4\u03bf] . See on ch. Acts 3:20. Better, as Rev., appointed."
+        ],
+        "John Calvin": [
+            "God's predestination doth abolish all preparations which sophisters imagine, as if man did prevent God\u2019s grace by his own free will.",
+            "In calling him the God of the fathers, he reneweth the remembrance of the promises, that the Jews may know that the new calling of Paul is joined with them, and that those fall not away from the law who pass over unto Christ.",
+            "Therefore, he which rejecteth the Son hath not the Father, who cannot be separated from him."
+        ],
+        "Philip Schaff": [
+            "The God of our fathers hath chosen thee.",
+            "And see that Just One.",
+            "He who had been condemned as a malefactor was emphatically, above all the sons of men, the 'Righteous,' the 'Just One.'"
+        ],
+        "Archibald T. Robertson": [
+            "Hath appointed thee... to know his will.\" ",
+            "Hath appointed thee... to see the Righteous One.\" ",
+            "Hath appointed thee... to hear a voice from his mouth."
+        ],
+        "John Gill": [
+            "And he said, the God of our fathers hath chosen thee... in order to form, and fit, and qualify him for his service.",
+            "The apostle represents Ananias as speaking of God, as the God of the Jewish fathers, of Abraham, Isaac, and Jacob, to show that the Christian doctrine was not contrary to the faith of the one God of Israel.",
+            "The knowledge of this he came at by the spirit of wisdom and revelation, in consequence of his being chosen and called."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In addressing the crowd, Paul refers to the God of their fathers and the Just One, highlighting the connection between their Jewish heritage and his Christian message. By mentioning the God of their fathers, Paul acknowledges the faith of Abraham, Isaac, and Jacob, emphasizing that the Christian doctrine is not contrary to their belief in the one God of Israel. Ananias, in his message to Paul, reveals that God has chosen him to know His will, see the Righteous One, and hear a voice from His mouth. This appointment signifies God's predestination and preparation of Paul for his service, enabling him to understand and proclaim the plan of salvation. Paul's encounter with the risen Lord, his hearing of His voice, and his recognition of Jesus as the Just One further validate his apostleship.",
+            "wordCount": 135,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.953654434009421,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.3,
+            "commentatorTierSimilarities": [
+                26.13,
+                27.2,
+                46.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his address, Paul acknowledges the God of their fathers and the Just One, bridging the gap between their Jewish heritage and his Christian message. By referring to the God of their fathers, Paul affirms the compatibility of the Christian doctrine with the faith of Abraham, Isaac, and Jacob. Ananias confirms God's chosen purpose for Paul, to know His will, see the Righteous One, and hear His voice. Paul's encounter with the risen Lord solidifies his apostleship and preparation for service.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.897133033468252,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.42,
+            "commentatorTierSimilarities": [
+                26.85,
+                26.59,
+                46.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's address to the crowd emphasizes the connection between their Jewish heritage and the Christian message. He speaks of the God of their fathers and the Just One, highlighting the compatibility of their faith with the Christian doctrine. Ananias's message further affirms God's appointment of Paul, enabling him to understand and proclaim God's will, see the Righteous One, and hear His voice. Through his encounter with the risen Lord, Paul's apostleship is validated, demonstrating his preparation for service.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.7370243891172663,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                26.48,
+                26.28,
+                47.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's address acknowledges the God of their fathers and the Just One, reconciling their Jewish heritage with the Christian message. By mentioning the God of their fathers, Paul affirms the compatibility of Christian doctrine with their faith in the one God of Israel. Ananias confirms God's divine appointment of Paul to know His will, see the Righteous One, and hear His voice. This appointment validates Paul's apostleship and highlights his preparedness for service through his encounter with the risen Lord.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.9341537333869268,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
+            "commentatorTierSimilarities": [
+                28.72,
+                26.85,
+                44.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his speech, Paul acknowledges the God of their fathers and the Just One, connecting their Jewish heritage with the Christian message. By mentioning the God of their fathers, Paul affirms the compatibility of the Christian doctrine with their faith in the one God of Israel. Ananias confirms that God has appointed Paul to know His will, see the Righteous One, and hear His voice. This divine appointment establishes Paul's authority and preparedness for service through his encounter with the risen Lord.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.006118722146459,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+            "commentatorTierSimilarities": [
+                29.4,
+                26.96,
+                43.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

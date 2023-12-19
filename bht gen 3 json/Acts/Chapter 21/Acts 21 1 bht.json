@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:34:37",
+    "verseRef": "Acts 21:1",
+    "bestBHT": {
+        "bht": "After a painful and difficult parting, they set sail on a straight course. Their first destination was the island of Cos, known for its esteemed medical school and thriving Jewish community. From there, they traveled to the beautiful island of Rhodes, famous for its abundance of roses and renowned university. Finally, they arrived at Patara, an ancient seaport with a rich history associated with the oracle of Apollo. Despite the challenges of their long and tiring journeys, Paul willingly endured them for the sake of serving Christ, supported by the unwavering love of his brethren and guided by favorable winds.",
+        "wordCount": 100,
+        "quoteTokenProportion": 28.38,
+        "qualityScore": 1.5195122926315388,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+        "commentatorTierSimilarities": [
+            37.5,
+            42.17,
+            20.33
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression shews the violence of the parting.",
+            "It was the birth-place of Hippocrates, the great physician.",
+            "Here they leave their ship hired at Troas, or perhaps at Neapolis, and avail themselves of a merchant ship bound for Tyre."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "we were gotten\u2014\"torn.\"",
+            "the difficulty and pain of the parting.",
+            "with a straight course\u2014running before the wind"
+        ],
+        "Albert Barnes": [
+            "After we were gotten from them.",
+            "It stood across the mouth of the harbor, and was so high that vessels could pass between its legs.",
+            "Its name, Rhodes, was given from the great quantity of roses which it produced."
+        ],
+        "Marvin Vincent": [
+            "Some see in the word an expression of the grief and reluctance with which they parted, and render having torn ourselves away.\" ",
+            "With a straight course."
+        ],
+        "John Calvin": [
+            "He would rather be tossed and troubled with such long, unlevel, and troublesome journeys, that he might serve Christ, than provide for his own quietness.",
+            "Because the brethren stood on the shore, so long as they could see the ship wherein Paul and his companions were carried.",
+            "Let us search the describers of countries touching the situation of the cities whereof he maketh mention; it is sufficient for me to show Luke\u2019s purpose."
+        ],
+        "Philip Schaff": [
+            "The parting between St. Paul and his Ephesian friends and fellow-workers must have been exceedingly painful.",
+            "Rhodes lay fifty miles to the south of Coos. It was famed for being the most beautiful spot in this, perhaps the fairest portion of the world.",
+            "Here was a famous oracle of Apollo. This port is now an inland marsh."
+        ],
+        "Archibald T. Robertson": [
+            "Unto Cos (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u039a\u03bf). Standing today, about forty nautical miles south from Miletus, island famous as the birthplace of Hippocrates and Apelles with a great medical school. Great trading place with many Jews.",
+            "Unto Rhodes (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03a1\u03bf\u03b4\u03bf\u03bd). Called the island of roses. The sun shone most days and made roses luxuriant. The great colossus which represented the sun, one of the seven wonders of the world, was prostrate at this time. The island was at the entrance to the Aegean Sea and had a great university, especially for rhetoric and oratory. There was great commerce also.",
+            "Unto Patara (\u03b5\u03b9\u03c2 \u03a0\u03b1\u03c4\u03b1\u03c1\u03b1). A seaport on the Lycian coast on the left bank of the Xanthus. It once had an oracle of Apollo which rivalled that at Delphi. This was the course taken by hundreds of ships every season."
+        ],
+        "John Gill": [
+            "such is the cement of true Christian love",
+            "a prosperous gale, and nothing to hinder them",
+            "a church state formed, cannot be said"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They tore themselves away with great difficulty and pain, but set sail with a straight course. Their first stop was the island of Cos, known for its famous medical school and thriving Jewish community. From there, they journeyed to Rhodes, a beautiful place abundant with roses and renowned for its university and commerce. Finally, they arrived in Patara, a seaport with a rich history and once home to an oracle of Apollo. Despite the long and troublesome journeys, Paul willingly endured them for the sake of serving Christ. This passage highlights the strength of true Christian love as the brethren stood on the shore, watching the ship until it disappeared from sight. The description of their travels reveals the prosperous winds that propelled them forward, allowing for an unhindered journey.",
+            "wordCount": 130,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 1.4726400751718844,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.31,
+            "commentatorTierSimilarities": [
+                33.26,
+                35.38,
+                31.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With great difficulty and pain, they tore themselves away and set sail with a straight course. Their first stop was the island of Cos, famous for its medical school and vibrant Jewish community. From there, they ventured to the beautiful island of Rhodes, known for its roses and prestigious university. Finally, they arrived in Patara, a historic seaport with ties to the oracle of Apollo. Despite the challenging and lengthy journeys, Paul willingly endured them to serve Christ. The dedication and bond of true Christian love is evident as the brethren watched the ship until it vanished from sight, while the favorable winds ensured a smooth voyage.",
+            "wordCount": 107,
+            "quoteTokenProportion": 27.5,
+            "qualityScore": 1.4756322532709263,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.41,
+            "commentatorTierSimilarities": [
+                36.23,
+                36.45,
+                27.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "They experienced a painful parting as they tore themselves away, but set sail with a straight course. Their first stop was the island of Cos, known for its renowned medical school and thriving Jewish community. They then ventured to the beautiful island of Rhodes, famous for its roses and esteemed university. Finally, they arrived at Patara, a historic seaport with ties to the oracle of Apollo. Despite the challenges and long journeys, Paul willingly endured them to serve Christ, guided by the unwavering love and support of his brethren. The favorable winds allowed for a smooth and unhindered voyage.",
+            "wordCount": 99,
+            "quoteTokenProportion": 27.03,
+            "qualityScore": 1.4626047909689468,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.97,
+            "commentatorTierSimilarities": [
+                35.76,
+                38.35,
+                25.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They tore themselves away with great difficulty and pain, setting sail on a straight course. Their first stop was the island of Cos, renowned for its medical school and bustling Jewish community. Next, they journeyed to Rhodes, a picturesque island known for its abundance of roses and prestigious university. Finally, they arrived at Patara, a historic seaport with its own oracle of Apollo. Despite the challenges of their long and arduous journeys, Paul willingly endured them for the sake of serving Christ, fueled by the unwavering love of his brethren and blessed with favorable winds.",
+            "wordCount": 95,
+            "quoteTokenProportion": 28.17,
+            "qualityScore": 1.4927269724614316,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.98,
+            "commentatorTierSimilarities": [
+                36.71,
+                40.41,
+                22.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After a painful and difficult parting, they set sail on a straight course. Their first destination was the island of Cos, known for its esteemed medical school and thriving Jewish community. From there, they traveled to the beautiful island of Rhodes, famous for its abundance of roses and renowned university. Finally, they arrived at Patara, an ancient seaport with a rich history associated with the oracle of Apollo. Despite the challenges of their long and tiring journeys, Paul willingly endured them for the sake of serving Christ, supported by the unwavering love of his brethren and guided by favorable winds.",
+            "wordCount": 100,
+            "quoteTokenProportion": 28.38,
+            "qualityScore": 1.5195122926315388,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                37.5,
+                42.17,
+                20.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

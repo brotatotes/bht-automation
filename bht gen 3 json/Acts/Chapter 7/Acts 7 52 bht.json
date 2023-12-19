@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:27:43",
+    "verseRef": "Acts 7:52",
+    "bestBHT": {
+        "bht": "The Jewish leaders' deadly hostility towards God's messengers is starkly depicted in the betrayal and murder of the Messiah, referred to as the Righteous One. This reflects the nation's sinful and dark character, as they not only killed the prophets who foretold the Messiah's coming, but also continued their legacy of persecution. The deep wickedness of their actions is further highlighted by the connection made to St. James' words in his epistle. Their guilt as betrayers and murderers is undeniable, a testament to their disregard for justice and innocence.",
+        "wordCount": 92,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.6416320652002996,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.93,
+        "commentatorTierSimilarities": [
+            31.99,
+            34.12,
+            33.89
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Deadly",
+            "hostility to the messengers of God, whose high office it was to tell of 'the Righteous One,' that well-known prophetic title of Messiah.",
+            "This consummated by the betrayal and murder of Messiah Himself, on the part of those now sitting in judgment on the speaker.",
+            "Still darker features of the national character depicted in these withering words."
+        ],
+        "Albert Barnes": [
+            "It was 'the characteristic of the nation' to persecute the messengers of God.",
+            "It was a great aggravation of their offence that they put to death the messengers which foretold the greatest blessing that the nation could receive.",
+            "You have even gone beyond them in guilt, because you have put the Messiah himself to death."
+        ],
+        "John Calvin": [
+            "There is no cause why they should vaunt of their stock, forasmuch as they come of those who were wicked murderers of the prophets.",
+            "It was requisite for Stephen by this means to pluck from their faces the visor of the Church, wherewith they burdened him.",
+            "Christ is called in this place the Just, not only to note his innocency, but of the effect, because it is proper to him to appoint justice in the world."
+        ],
+        "Philip Schaff": [
+            "'The Just One.' This title was used by the Jews as a designation of the Messiah.",
+            "'This sentence (of Stephen\u2019s) seems to have been in the mind of the second apostolic martyr at Jerusalem, St. James, when he wrote his epistle a little before his own martyrdom,' James 5:6 (Wordsworth).",
+            "James 5:6 (Wordsworth)."
+        ],
+        "Archibald T. Robertson": [
+            "The very prophets who foretold the coming of the Messiah their fathers killed.",
+            "Betrayers...cut like a knife.",
+            "The climax with this sharp word used of Barabbas."
+        ],
+        "John Gill": [
+            "Which of the prophets have not your fathers persecuted?",
+            "of whom ye have been now the betrayers and murderers",
+            "and whom Stephen styles so partly on account of the holiness of his nature, and the innocence and harmlessness of his life"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the deadly hostility the Jewish leaders had towards the messengers of God and specifically towards the Messiah, whom they betrayed and murdered. This reveals the dark and sinful nature of the nation, as they even killed the very prophets who foretold the coming of the Messiah. It is significant that Stephen refers to the Messiah as the Righteous One, a well-known prophetic title. Just as the Jewish leaders betrayed and murdered the Messiah, they were also guilty of persecuting the messengers of God. This verse exposes the deep wickedness of their actions and bears a resemblance to the words of St. James in his epistle.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.829803155597855,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+            "commentatorTierSimilarities": [
+                33.78,
+                37.1,
+                29.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The deadly hostility exhibited by the Jewish leaders towards the messengers of God is highlighted in this passage. Their betrayal and murder of the Messiah, referred to as the Righteous One, reveals the nation's dark and sinful nature. Not only did they kill the prophets who foretold the coming of the Messiah, but they also persecuted those who brought God's message. This verse exposes the deep wickedness of their actions, paralleling the words of St. James in their epistle.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7465921147523975,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.42,
+            "commentatorTierSimilarities": [
+                33.86,
+                35.61,
+                30.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jewish leaders' deadly hostility towards God's messengers is starkly depicted in the betrayal and murder of the Messiah, referred to as the Righteous One. This reflects the nation's sinful and dark character, as they not only killed the prophets who foretold the Messiah's coming, but also continued their legacy of persecution. The deep wickedness of their actions is further highlighted by the connection made to St. James' words in his epistle. Their guilt as betrayers and murderers is undeniable, a testament to their disregard for justice and innocence.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.6416320652002996,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.93,
+            "commentatorTierSimilarities": [
+                31.99,
+                34.12,
+                33.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jewish leaders' deadly hostility towards the messengers of God and the Messiah, known as the Righteous One, highlights their dark and sinful nature. Their betrayal and murder of the Messiah is a clear manifestation of their wickedness, surpassing even the offenses of their forefathers who persecuted the prophets. This verse exposes the guilt they carry as the betrayers and murderers of both the prophets and the Messiah Himself. It is a poignant reminder of their profound rejection of justice and innocence in their pursuit of evil.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.728610075747676,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                32.05,
+                33.38,
+                34.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jewish leaders' deadly hostility towards the messengers of God and the Messiah, known as the Righteous One, exposes the nation's dark character and wicked tendencies. Their betrayal and murder of the Messiah highlights their guilt as the betrayers and murderers, surpassing the offenses committed by their forefathers against the prophets. These withering words depict the deep-seated corruption within the hearts of those who should have upheld justice and righteousness. This verse serves as a stark reminder of the dire consequences of rejecting God's messengers and His call to righteousness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.616235375325292,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.08,
+            "commentatorTierSimilarities": [
+                32.66,
+                32.83,
+                34.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

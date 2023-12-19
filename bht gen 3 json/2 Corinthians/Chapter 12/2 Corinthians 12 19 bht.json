@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:18:44",
+    "verseRef": "2 Corinthians 12:19",
+    "bestBHT": {
+        "bht": "For a long time, you have been under the mistaken impression that we are defending ourselves to you, but I assure you, it is before God that we speak in Christ. We are not seeking your favor or esteem, but rather, we declare the simple truth in the presence of the great Searcher of hearts. Our goal has always been your welfare and edification, not our own reputation. We speak in the sight of God to build you up and establish you in the faith, so that you may not be led astray.",
+        "wordCount": 93,
+        "quoteTokenProportion": 52.46,
+        "qualityScore": 1.8177465367002092,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+        "commentatorTierSimilarities": [
+            28.57,
+            43.03,
+            28.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye have been some time imagining [...] that it is to you that I am defending myself.\" ",
+            "Before God is emphatic, and opposed to 'unto you.'",
+            "We speak in Christ, as in eh. it. 17, which see."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This long time ye think that we are excusing ourselves unto you? (Nay). It is before God (as opposed to 'unto you') that we speak in Christ.\" ",
+            "English Version Greek text was a correction from 2 Corinthians 3:1; 2 Corinthians 5:12."
+        ],
+        "Albert Barnes": [
+            "Do not suppose that this is said from mere anxiety to obtain your favor, or to ingratiate ourselves into your esteem.",
+            "We declare the simple and undisguised truth as in the presence of God.",
+            "All that I have done has been for your welfare."
+        ],
+        "John Calvin": [
+            "It is a fault in the servants of Christ, to be too much concerned as to their own reputation.",
+            "He declares in the first place, that he speaks in the presence of God, whom evil consciences always dread.",
+            "He maintains, that he has not so much a view to himself, as to them."
+        ],
+        "Philip Schaff": [
+            "Ye think all this time that we are excusing ourselves unto you. In this ye much mistake me.",
+            "In the sight of God speak we in Christ: \u2018We look higher; having respect before the great Searcher of hearts, in every word we write, only to the Master whom we represent.\u2019",
+            "But all things, beloved, are for your edifying. \u2018Your good throughout has been our object;\u2019 and there was need."
+        ],
+        "Archibald T. Robertson": [
+            "For a long time ye have been thinking.",
+            "He is not just apologizing, but is in deadly earnest.",
+            "They will find out when he comes."
+        ],
+        "John Gill": [
+            "The apostle spoke all he did, as in the presence of the omniscient God; and as one in Christ, and a preacher of his Gospel, that would not deliver an untruth knowingly, for the whole world.",
+            "It was not for himself so much, for his own credit, reputation, and glory, he did what he did; had this been the case, he would not have said the half part of what he had; but it was for their sake, out of love to them...",
+            "That they might be built up and established in the faith of the Gospel, and not be carried away with the error of the wicked."
+        ],
+        "John Wesley": [
+            "Think ye that we again excuse ourselves \u2014 That I speak this for my own sake? No. I speak all this for your sakes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For a long time, you have wrongly assumed that I am making excuses to you, but let me make it clear - I speak in the presence of God. My aim is not to win your approval or defend myself, but to present the truth before the Almighty. I have no interest in my own reputation, but rather in your edification and growth in faith. Everything I have done and said is for your sake, so that you may be firmly established in the Gospel and guarded against the deception of the wicked.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.5998896543015992,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.54,
+            "commentatorTierSimilarities": [
+                24.63,
+                40.37,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For a long time, you have wrongly assumed that I am making excuses to you, but let me make it clear - I speak in the presence of God. My aim is not to win your approval or defend myself, but to present the truth before the Almighty. I have no interest in my own reputation, but rather in your edification and growth in faith. Everything I have done and said is for your sake, so that you may be firmly established in the Gospel and guarded against the deception of the wicked.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.5998896543015992,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.54,
+            "commentatorTierSimilarities": [
+                24.63,
+                40.37,
+                35.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For a long time, you have mistakenly believed that I am trying to excuse myself to you. But let me clarify: I speak in the presence of God, not to seek your approval, but to be accountable before Him. My focus is not on my own reputation, but on your spiritual growth and well-being. I have spoken honestly and sincerely, not for my own sake, but for your sake, so that you may be strengthened in your faith and protected from false teachings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.5898408645801,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.2,
+            "commentatorTierSimilarities": [
+                27.51,
+                39.77,
+                32.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For a long time, you have wrongly believed that I am making excuses to you. Let me make it clear - I speak in the presence of God. My aim is not to gain your favor, but to speak the truth honestly and without disguise. I have your welfare at heart and all my actions have been for your benefit. I do not seek my own glory, but rather the edification and strengthening of your faith.",
+            "wordCount": 75,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 1.4651597253671542,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.06,
+            "commentatorTierSimilarities": [
+                23.95,
+                44.03,
+                32.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For a long time, you have been under the mistaken impression that we are defending ourselves to you, but I assure you, it is before God that we speak in Christ. We are not seeking your favor or esteem, but rather, we declare the simple truth in the presence of the great Searcher of hearts. Our goal has always been your welfare and edification, not our own reputation. We speak in the sight of God to build you up and establish you in the faith, so that you may not be led astray.",
+            "wordCount": 93,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.8177465367002092,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                28.57,
+                43.03,
+                28.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

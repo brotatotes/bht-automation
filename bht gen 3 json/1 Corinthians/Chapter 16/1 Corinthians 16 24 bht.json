@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 15:14:37",
+    "verseRef": "1 Corinthians 16:24",
+    "bestBHT": {
+        "bht": "Paul's unwavering love for the Corinthians, even amidst his rebukes, is seen in his declaration of love. His rebukes, motivated by love, were in harmony with this profession of love. He extended his love to all who loved Christ, leaving no one out. Paul desired that his love would always be accepted by the Corinthians, as he loved them for Christ's sake and because they were recipients of God's grace and the indwelling of the Holy Spirit.",
+        "wordCount": 80,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 1.996323437077679,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+        "commentatorTierSimilarities": [
+            33.12,
+            32.99,
+            33.9
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "After so much fault-finding he does not turn away from them, but loves and embraces them, far off as they were."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His very rebukes were prompted by love, and therefore are altogether in harmony with the profession of love here made.",
+            "It was love in Christ Jesus, and therefore embraced 'all' who loved Him.",
+            "The subscription represents the Epistle as written from Philippi. - shows it was written at Ephesus."
+        ],
+        "Albert Barnes": [
+            "Paul loved them; loved them intensely, and was ever ready to express his affectionate regard for them all, and his earnest desire for their salvation.",
+            "It is in accordance with the usual manner in which he closes his epistles; and it is especially tender, affectionate, and beautiful here.",
+            "The subscription to the Epistle, 'The first epistle to the Corinthians,' etc., was evidently written by some other hand than that of Paul, and has no claim to be regarded as inspired."
+        ],
+        "John Gill": [
+            "My love be with you all,.... Meaning either that he desired that he might be loved by them, as they were by him, and might always have a place in their hearts and affections, as they had in his.",
+            "his love, which extended to all of them without exception, to rich and poor, greater or lesser believers, might be always acceptable to them.",
+            "he loved them for Christ\u2019s sake, because they were his, had his grace bestowed on them, his image stamped upon them, and his Spirit put within them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even though Paul had previously rebuked the Corinthians, he continued to show his love for them, not turning away from them but embracing them. His rebukes were motivated by love, which is evident in his profession of love in this verse. His love extended to all who loved Christ, without exception. Paul desired that his love would always be accepted by the Corinthians and that he would hold a special place in their hearts and affections. He loved them because they were his, recipients of God's grace and Spirit.",
+            "wordCount": 90,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 2.01181164073428,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                32.77,
+                30.49,
+                36.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite Paul's previous rebukes, he does not give up on the Corinthians but embraces them with love. His rebukes were fueled by love, aligning with his declaration of love in this passage. His love encompassed all who loved Christ, leaving no one out. Paul wished that his love would always be cherished by the Corinthians, desiring a deep emotional connection. He loved them for Christ's sake, recognizing them as recipients of God's grace and the Holy Spirit dwelling within them.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9322921181189272,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                32.78,
+                32.71,
+                34.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's love for the Corinthians never wavered, even amidst his rebukes. It was out of love that he corrected them, and his declaration here reflects that deep affection. This love extended to all who loved Christ, without exception. Paul hoped that his love would always be received warmly by the Corinthians, as he cherished them for Christ's sake. He recognized them as recipients of God's grace and carriers of his image and spirit.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.869957821552422,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+            "commentatorTierSimilarities": [
+                32.28,
+                32.98,
+                34.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's unwavering love for the Corinthians, even amidst his rebukes, is seen in his declaration of love. His rebukes, motivated by love, were in harmony with this profession of love. He extended his love to all who loved Christ, leaving no one out. Paul desired that his love would always be accepted by the Corinthians, as he loved them for Christ's sake and because they were recipients of God's grace and the indwelling of the Holy Spirit.",
+            "wordCount": 80,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 1.996323437077679,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                33.12,
+                32.99,
+                33.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even after addressing their faults, Paul never turns away from the Corinthians, but continues to love and embrace them. His rebukes were driven by love, as evidenced by his profession of love in this verse. This love extends to all who love Christ, regardless of their background or status. The closing line of the Epistle is a testament to Paul's intense love for the Corinthians and his earnest desire for their salvation. This subscription, identifying the Epistle as from Philippi, suggests it was written in Ephesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.782593077367832,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                34.76,
+                37.0,
+                28.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

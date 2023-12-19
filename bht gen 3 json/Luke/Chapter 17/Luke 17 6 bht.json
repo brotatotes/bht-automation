@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:21:06",
+    "verseRef": "Luke 17:6",
+    "bestBHT": {
+        "bht": "If you had faith as small as a mustard seed, you could command even a seemingly immovable tree like the sycamine to be uprooted and planted in the sea, and it would obey you. The sycamine tree, though not commonly found in Palestine, is distinguishable from the fig-mulberry tree. This promise goes beyond the miracles of power; it speaks to the limitless potential of faith. Even the smallest measure of true faith can enable you to do what seems impossible in the natural and spiritual realms.",
+        "wordCount": 87,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.7786885988772707,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+        "commentatorTierSimilarities": [
+            10.79,
+            43.5,
+            45.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The mulberry tree is not very common in Palestine, but still found there.",
+            "It must not be confounded with the sycomore, ch. xix. 4, which is the Egyptian fig.",
+            "On this occasion some particular tree of the sort was close at hand, and furnished the instance, just as the Mount of Transfiguration in the former of those passages, and the Mount of Olives in the latter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. sycamine\u2014mulberry. (See on",
+            "\t :-.)"
+        ],
+        "Albert Barnes": [
+            "The figs are small, and of a greenish-yellow color. At Gaza and Askelon I saw them of a purple tinge, and much larger than they are in this part of the country.",
+            "It is easily propagated, merely by planting a stout branch in the ground, and watering it until it has struck its roots into the soil.",
+            "Now, look at this tree - its ample girth, its wide-spread arms branching off from the parent trunk only a few feet from the ground; then examine its enormous roots, as thick, as numerous, and as wide-spread into the deep soil below as the branches extend into the air above - the very best type of invincible steadfastness."
+        ],
+        "Marvin Vincent": [
+            "Luke distinguishes between this and sukomorea, the fig - mulberry (ch. 19 4).",
+            "The names were sometimes confused, but a physician would readily make the distinction.",
+            "Both [sycamine and sukomorea] were used medicinally."
+        ],
+        "Philip Schaff": [
+            "The promise here given is even stronger than that in Matthew, for the tree is represented as being planted in the sea, where growth is ordinarily impossible.",
+            "This promise is misunderstood, only when miracles of power are put above miracles of grace.",
+            "You think the duties I enjoin too hard for your faith, but this shows that you have as yet no faith of the high order you ought to have, for the smallest measure of such a faith would enable you to do what seems altogether impossible in the natural world; and so much the more in spiritual things, since real faith is preeminently spiritual power."
+        ],
+        "Archibald T. Robertson": [
+            "If ye have (\u03b5 \u03b5\u03c7\u03b5\u03c4\u03b5). Condition of the first class, assumed to be true.",
+            "Sycamine tree (\u03c3\u03c5\u03ba\u03b1\u03bc\u03b9\u03bd\u03c9). At the present time both the black mulberry (sycamine) and the white mulberry (sycamore) exist in Palestine.",
+            "Would have obeyed (\u03c5\u03c0\u03b7\u03ba\u03bf\u03c5\u03c3\u03b5\u03bd \u03b1\u03bd). First aorist active indicative with \u03b1\u03bd, apodosis of a second-class condition."
+        ],
+        "John Gill": [
+            "if ye had faith as a grain of mustard seed; ye might say unto this sycamine tree... Be thou plucked up by the root, and be thou planted in the sea, and it should obey you.\" ",
+            "for such a tree to be plucked up by the root at a word speaking, is very wonderful and miraculous, and beyond the power of nature.",
+            "The design is to show, what great things are done by faith, and what an increase of it they should have."
+        ],
+        "John Wesley": [
+            "If ye had faith as a grain of mustard seed \u2014 If ye had the least measure of true faith, no instance of duty would be too hard for you.",
+            "Ye would say to this sycamine tree \u2014 This seems to have been a kind of proverbial expression."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you had faith as small as a mustard seed, you could command even a seemingly immovable tree like the sycamine to be uprooted and planted in the sea, and it would obey you. The sycamine tree, though not commonly found in Palestine, is distinguishable from the fig-mulberry tree. Both trees were used medicinally and had different characteristics. This promise goes beyond the miracles of power; it speaks to the limitless potential of faith. Even the smallest measure of true faith can enable you to do what seems impossible in the natural and spiritual realms. The purpose is to demonstrate the great things that can be accomplished through faith and the need for an increase in it.",
+            "wordCount": 118,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.6428901841429095,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.97,
+            "commentatorTierSimilarities": [
+                12.24,
+                40.6,
+                47.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you had faith as small as a mustard seed, you could command even a seemingly immovable tree like the sycamine to be uprooted and planted in the sea, and it would obey you. The sycamine tree, though not commonly found in Palestine, is distinguishable from the fig-mulberry tree. This promise goes beyond the miracles of power; it speaks to the limitless potential of faith. Even the smallest measure of true faith can enable you to do what seems impossible in the natural and spiritual realms.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7786885988772707,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+            "commentatorTierSimilarities": [
+                10.79,
+                43.5,
+                45.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If you have faith as small as a mustard seed, you can command a seemingly immovable tree like the sycamine to uproot and be planted in the sea, and it will obey you. The sycamine tree is distinct from the fig-mulberry tree and both were used medicinally. This promise goes beyond miracles of power, emphasizing the limitless potential of faith. Even a tiny measure of genuine faith allows you to accomplish the seemingly impossible in the natural and spiritual realms.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.7431375529512576,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                11.66,
+                41.99,
+                46.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With faith as small as a mustard seed, one can command a seemingly immovable sycamine tree to uproot itself and be planted in the sea \u2014 and it would obey. Although the sycamine tree is not abundant in Palestine, it can be distinguished from the fig-mulberry tree. This promise extends beyond miracles of power, emphasizing the boundless potential of faith. Even the tiniest measure of genuine faith enables one to accomplish what seems impossible in both the natural and spiritual realms.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7662572644336916,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                10.92,
+                43.87,
+                45.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you have faith as small as a mustard seed, you can command a seemingly immovable sycamine tree to uproot and be planted in the sea, and it will obey you. The sycamine tree, although not common in Palestine, is distinguishable from the fig-mulberry tree. This promise goes beyond miracles of power and highlights the immense possibilities of faith. Even the smallest measure of genuine faith empowers you to achieve what appears impossible in both the natural and spiritual realms.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7607484715707917,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.89,
+            "commentatorTierSimilarities": [
+                10.6,
+                43.45,
+                45.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 15:01:57",
+    "verseRef": "1 Corinthians 3:19",
+    "bestBHT": {
+        "bht": "God considers the craftiness and wisdom of the world as folly, using it to trap those who are wise in their own eyes. The world's standards and God's standards are not the same, so it is important for the church to discern whose idea dominates. The wisdom of this world is foolishness in God's sight, and He takes the wise in their own craftiness. Therefore, we must be willing to be fools in the world's eyes to truly possess wisdom in the eyes of God.",
+        "wordCount": 89,
+        "quoteTokenProportion": 52.08,
+        "qualityScore": 2.4882524468914955,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.07,
+        "commentatorTierSimilarities": [
+            24.04,
+            39.15,
+            36.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If God uses the craft of the wise as a net to catch them in, such wisdom is in His sight folly.\" ",
+            "The sense is, 'If God uses the craft of the wise as a net to catch them in, such wisdom is in His sight folly, since He turns it to their confusion.",
+            "Such wisdom is in His sight folly, since He turns it to their confusion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "With God\u2014in the judgment of God.\" ",
+            "It is written\u2014in :-. The formula of quoting SCRIPTURE used here, establishes the canonicity of Job.\" ",
+            "He taketh . . . wise in . . . own craftiness\u2014proving the 'foolishness' of the world's wisdom, since it is made by God the very snare to catch those who think themselves so wise."
+        ],
+        "Albert Barnes": [
+            "God is the friend of truth on all subjects.",
+            "However crafty, or cunning, or skillful they may be; however self-confident, yet that they cannot deceive or impose upon God.",
+            "Honesty in religion, as in everything else, is the best policy; and a man who pursues a course of conscientious integrity may expect the protection of God."
+        ],
+        "Marvin Vincent": [
+            "He taketh [\u03bf \u03b4\u03c1\u03b1\u03c3\u03c3\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2].",
+            "Rev., more accurately, gives the force of the participle with the article, he that taketh.",
+            "This is the only allusion to the book of Job in the New Testament, except James 5:11."
+        ],
+        "John Calvin": [
+            "We cannot be wise in the sight of God, unless we are fools in the view of the world.",
+            "The wisdom of the world, in Paul\u2019s acceptation, is that which assumes to itself authority, and does not allow itself to be regulated by the word of God.",
+            "Everything that the mind of man conceives and contrives is mere vanity."
+        ],
+        "Philip Schaff": [
+            "For the wisdom of this world is foolishness with God."
+        ],
+        "Archibald T. Robertson": [
+            "Whose standard does a church (temple) of God wish, that of this world or of God? The two standards are not the same.\" ",
+            "It is a pertinent inquiry with us all whose idea rules in our church.\" ",
+            "The \u03c0\u03b1\u03bd\u03bf\u03c5\u03c1\u03b3\u03bf\u03c2 man is ready for any or all work (if bad enough). So it means versatile cleverness."
+        ],
+        "John Gill": [
+            "The wisdom of this world is foolishness with God... he makes it foolish, destroys it, and brings it to nothing...\" ",
+            "He passes by the wise and prudent, and hides the things of the Gospel from them... they can neither apprehend nor comprehend the mysteries of grace...\" ",
+            "He chooses the foolish things of this world to spread the knowledge of himself... whom he makes successful, to the confusion of the wise and learned."
+        ],
+        "John Wesley": [
+            "For all the boasted wisdom of the world is mere foolishness in the sight of God.",
+            "He taketh the wise in their own craftiness.",
+            "Not only while they think they are acting wisely, but by their very wisdom, which itself is their snare, and the occasion of their destruction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "God sees the craftiness and wisdom of the world as folly, using it as a net to trap those who are wise in their own eyes. The standards of the world and God are not the same, so it is important for the church to discern whose idea rules within its walls. In God's sight, the wisdom of this world is foolishness, and He turns it to their confusion. While the world may view the wise as clever and versatile, their wisdom is ultimately in vain. Therefore, we must be willing to be fools in the eyes of the world in order to be truly wise in the sight of God.",
+            "wordCount": 112,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.440634162828232,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.49,
+            "commentatorTierSimilarities": [
+                24.29,
+                37.67,
+                38.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God sees the craftiness and wisdom of the world as folly, using it as a net to trap those who are wise in their own eyes, turning it to their confusion. The standards of the world and God are not the same, so it is a pertinent inquiry for the church to discern whose idea rules within its walls. In God's sight, the wisdom of this world is foolishness, and He takes the wise in their own craftiness. Therefore, we must be willing to be fools in the eyes of the world to be truly wise in the sight of God.",
+            "wordCount": 102,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.4682026270768915,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.41,
+            "commentatorTierSimilarities": [
+                25.16,
+                36.67,
+                38.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God considers the craftiness and wisdom of the world as folly, using it to trap those who are wise in their own eyes. The world's standards and God's standards are not the same, so it is important for the church to discern whose idea dominates. The wisdom of this world is foolishness in God's sight, and He takes the wise in their own craftiness. Therefore, we must be willing to be fools in the world's eyes to truly possess wisdom in the eyes of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 52.08,
+            "qualityScore": 2.4882524468914955,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.07,
+            "commentatorTierSimilarities": [
+                24.04,
+                39.15,
+                36.82
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:29:36",
+    "verseRef": "1 Timothy 6:11",
+    "bestBHT": {
+        "bht": "But thou, O man of God, flee these things\u2014namely, 'the love of money' with its evil results. Follow after righteousness, godliness, faith, love, patience, and meek-spiritedness. Pursue moral rectitude according to God's law and meekness of feeling. Let the pursuit of righteousness and sincerity be your priority, for it is far more valuable than the pursuit of earthly riches. Flee from these allurements and let love permeate all aspects of life, for it is the glorious spring of holiness.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.8533638485282102,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+        "commentatorTierSimilarities": [
+            28.44,
+            36.75,
+            34.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But thou, O man of God, flee these things...",
+            "...follow after righteousness, godliness, faith, love, patience...",
+            "...meek-spiritedness"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But thou\u2014in contrast to the 'some' (1 Timothy 6:10).",
+            "Man of God\u2014who hast God as thy true riches.",
+            "Flee these things\u2014namely, 'the love of money' with its evil results."
+        ],
+        "Albert Barnes": [
+            "But thou, O man of God, flee these things - These allurements of wealth, and these sad consequences which the love of gold produces.",
+            "And follow after righteousness, ... - Make these the grand object of your pursuit.",
+            "On the virtues here enumerated, see the notes on Galatians 5:22-23."
+        ],
+        "Marvin Vincent": [
+            "Righteousness...moral rectitude according to God's law.",
+            "Meekness...meekness of feeling.",
+            "With the whole verse...comp. Titus 3:12."
+        ],
+        "John Calvin": [
+            "By calling him man of God he adds weight to the exhortation.",
+            "He who is earnestly employed about necessary employments will easily abstain from those which are superfluous.",
+            "By all these words, he means nothing more than to confirm the exhortation which he had given, to follow righteousness and sincerity."
+        ],
+        "Philip Schaff": [
+            "The teacher reminds his disciple that he for his part is called to own God and God only as his Master, and therefore to renounce the love of earthly riches which lured so many to their destruction.",
+            "Patience. Better here, as elsewhere, endurance.",
+            "Meekness. The Greek word is not the simple form commonly used in the New Testament, but a compound answering to our \u2018meek-spiritedness.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "O man of God...personal appeal to Timothy.\" ",
+            "The preacher can not afford to parley with such temptations.",
+            "Meekness...here only in N.T."
+        ],
+        "John Gill": [
+            "The phrase is taken out of the Old Testament, where the prophets, Elijah and Elisha, are so called.",
+            "To pursue this is much better than greedily to run after the riches of this world.",
+            "Love to God...is inconsistent with serving mammon, or with an immoderate love of money."
+        ],
+        "John Wesley": [
+            "A man of God is either a prophet, a messenger of God, or a man devoted to God; a man of another world.",
+            "Flee \u2014 As from a serpent, instead of coveting these things.",
+            "Love \u2014 This St. Paul intermixes with everything that is good: he, as it were, penetrates whatever he treats of with love, the glorious spring of all inward and outward holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But thou, O man of God, flee these things and follow after righteousness, godliness, faith, love, patience, and meek-spiritedness. In contrast to those swayed by the love of money, Timothy, as a man of God, should pursue moral rectitude according to God's law and meekness of feeling. This personal appeal emphasizes the preacher's assurance that Timothy, with God as his true riches, cannot afford to entertain such temptations. The love of God is inconsistent with an immoderate love of money, and the pursuit of righteousness and sincerity is far more valuable than the pursuit of earthly riches. So, flee from these allurements and let love permeate all aspects of life, for it is the glorious spring of all holiness.",
+            "wordCount": 122,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 1.922628098123945,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.27,
+            "commentatorTierSimilarities": [
+                27.62,
+                34.91,
+                37.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But thou, O man of God, flee these things and follow after righteousness, godliness, faith, love, patience, and meek-spiritedness. In contrast to those swayed by the love of money, pursue moral rectitude according to God's law and meekness of feeling. This personal appeal emphasizes the assurance that you, with God as your true riches, cannot afford to entertain such temptations. The pursuit of righteousness and sincerity is far more valuable than the pursuit of earthly riches. So, flee from these allurements and let love permeate all aspects of life, for it is the glorious spring of holiness.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.8495234136726753,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.84,
+            "commentatorTierSimilarities": [
+                26.17,
+                37.9,
+                35.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "But thou, O man of God, flee these things and follow after righteousness, godliness, faith, love, patience, and meek-spiritedness. Pursue moral rectitude according to God's law and meekness of feeling. This personal appeal emphasizes the assurance that you, with God as your true riches, cannot afford to entertain such temptations. Let the pursuit of righteousness and sincerity be your priority, for it is far more valuable than the pursuit of earthly riches. So, flee from these allurements and let love permeate all aspects of life, for it is the glorious spring of holiness.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.8277238541186192,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                26.9,
+                37.85,
+                35.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "But thou, O man of God, flee these things and follow after righteousness, godliness, faith, love, patience, and meek-spiritedness. Pursue moral rectitude according to God's law and meekness of feeling. Let the pursuit of righteousness and sincerity be your priority, for it is far more valuable than the pursuit of earthly riches. Flee from these allurements and let love permeate all aspects of life, for it is the glorious spring of holiness.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.8416609924980278,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                26.31,
+                38.2,
+                35.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "But thou, O man of God, flee these things\u2014namely, 'the love of money' with its evil results. Follow after righteousness, godliness, faith, love, patience, and meek-spiritedness. Pursue moral rectitude according to God's law and meekness of feeling. Let the pursuit of righteousness and sincerity be your priority, for it is far more valuable than the pursuit of earthly riches. Flee from these allurements and let love permeate all aspects of life, for it is the glorious spring of holiness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.8533638485282102,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+            "commentatorTierSimilarities": [
+                28.44,
+                36.75,
+                34.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 13:58:37",
+    "verseRef": "1 Thessalonians 2:12",
+    "bestBHT": {
+        "bht": "As Christians, we are called to walk worthily of God's kingdom, reflecting the present grace and future glory. By living in a way that honors God, we demonstrate the grace bestowed upon us and prevent the blasphemy of His name. Our association with God should motivate us to strive for higher efforts, just as children seek to be worthy of their parents. Living a life of purity and virtue, we adorn our calling and steadfastly await the coming of God's kingdom and the glory that awaits us.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.9321101616086087,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+        "commentatorTierSimilarities": [
+            30.27,
+            38.25,
+            31.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Inconsistency would cause God's name to be 'blasphemed among the Gentiles.'",
+            "Worthy of THE God who is calling you.",
+            "His kingdom\u2014to be set up at the Lord's coming."
+        ],
+        "Albert Barnes": [
+            "That you would live in such a manner as would honor God, who has chosen you to be his friends",
+            "A true Christian honors God. He lives so as not to bring a reproach upon him or his cause, and so as to teach the world to honor him who has bestowed such grace upon him.",
+            "He leads a life of purity and virtue; When he carries out the principles of the family into his own life; When he honors a father by evincing a profound respect for his opinions; and, When he endeavors to provide for his comfort and to promote his welfare."
+        ],
+        "Marvin Vincent": [
+            "Walk worthily of God.\" ",
+            "God's kingdom is here conceived as present - the economy of divine grace to which the readers are called as Christians.",
+            "Glory is the future consummation of that kingdom."
+        ],
+        "John Calvin": [
+            "It is a lively preaching of the gospel, when persons are not merely told what is right, but are pricked by exhortations, and are called to the judgment-seat of God, that they may not fall asleep in their vices.\" ",
+            "But if pious men, whose promptitude Paul so highly commends, stood in absolute need of being stimulated by stirring exhortations, nay, adjurations, what must be done with us, in whom sluggishness of the flesh does more reign?\" ",
+            "He presents in a few words the sum and substance of his exhortations, that, in magnifying the mercy of God, he admonished them not to fail as to their calling."
+        ],
+        "Philip Schaff": [
+            "That ye would walk worthy of God.\" ",
+            "Men could profess to accept God's calling and yet live very much as they had done before.",
+            "God has associated them with Himself; as men are helped by their position to live up to it, and as children naturally strive to be worthy of their parents, so those who know God and are connected with Him are stimulated to higher efforts."
+        ],
+        "Archibald T. Robertson": [
+            "Walk worthily of God.\" ",
+            "Present infinitive (linear action), and genitive case with adverb \u03b1\u03be\u03b9\u03c9\u03c2 as in Colossians 1:10.",
+            "Kingdom (\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03b9\u03b1\u03bd) here is the future consummation because of glory (\u03b4\u03bf\u03be\u03b1\u03bd)"
+        ],
+        "John Gill": [
+            "And that may be adorned, and not blasphemed...",
+            "...called with a holy calling, and to holiness...",
+            "...the saints should live and walk as pilgrims and strangers here, and be steadfast and immovable, always abounding in the work of the Lord..."
+        ],
+        "John Wesley": [
+            "To his kingdom here, and glory hereafter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are called to walk worthily of God's kingdom and to live in a manner that honors Him. By doing so, we show the world the grace that has been bestowed upon us and we avoid bringing reproach upon God's name. The present action of walking worthily is a response to God's calling and a reflection of the future glory of His kingdom. As Christians, we are associated with God, and just as children strive to be worthy of their parents, we are called to higher efforts in our walk with Him. This involves living a life of purity, virtue, and obedience to His commands. Through our actions, we not only adorn our calling but also prevent the blasphemy of God's name among others. As we await the future consummation of His kingdom and the glory that is to come, let us faithfully continue to walk worthily of God.",
+            "wordCount": 153,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 1.930853425580272,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                30.16,
+                37.92,
+                31.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are called to walk worthily of God's kingdom, reflecting both the present economy of divine grace and the future consummation of glory. By living in a manner that honors Him, we show the world the grace bestowed upon us and prevent the blasphemy of His name. As Christians, we are to strive for a life of purity and virtue, adorning our calling and remaining steadfast in our walk with Him. Let us continue to live as pilgrims and strangers, always abounding in the work of the Lord, as we await His kingdom and the glory that is to come.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.903994758118367,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "commentatorTierSimilarities": [
+                29.15,
+                34.54,
+                36.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are called to walk worthily of God's kingdom, adorning our calling and living in a manner that honors Him. By doing so, we reflect both the present economy of divine grace and the future consummation of glory. As Christians, we are associated with God, and just as children strive to be worthy of their parents, we are called to higher efforts in our walk with Him. Let us live as pilgrims and strangers, steadfast in our obedience to His commands, always abounding in the work of the Lord as we await the coming of His kingdom and the glory that is to be revealed.",
+            "wordCount": 106,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9773687527031456,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.09,
+            "commentatorTierSimilarities": [
+                29.44,
+                37.72,
+                32.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are called to walk worthily of God's kingdom and to live in a manner that honors Him. By doing so, we show the world the grace that has been bestowed upon us and we avoid bringing reproach upon God's name. The present action of walking worthily is a response to God's calling and a reflection of the future glory of His kingdom. As Christians, we are associated with God, and just as children strive to be worthy of their parents, we are called to higher efforts in our walk with Him. This involves living a life of purity, virtue, and obedience to His commands. Through our actions, we not only adorn our calling but also prevent the blasphemy of God's name among others. As we await the future consummation of His kingdom and the glory that is to come, let us faithfully continue to walk worthily of God.",
+            "wordCount": 153,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 1.930853425580272,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                30.16,
+                37.92,
+                31.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Christians, we are called to walk worthily of God's kingdom, reflecting the present grace and future glory. By living in a way that honors God, we demonstrate the grace bestowed upon us and prevent the blasphemy of His name. Our association with God should motivate us to strive for higher efforts, just as children seek to be worthy of their parents. Living a life of purity and virtue, we adorn our calling and steadfastly await the coming of God's kingdom and the glory that awaits us.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9321101616086087,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                30.27,
+                38.25,
+                31.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:37:41",
+    "verseRef": "Acts 28:6",
+    "bestBHT": {
+        "bht": "The people of Malta witnessed the astonishing scene of Paul surviving a snake bite unharmed. Initially fearing the worst, they were amazed and concluded that he must be a god. This powerful transformation in their perception illustrates the profound impact of the Gospel, which brings about incredible change in both educated and uneducated individuals. Luke's use of medical language emphasizes their expectation of a fatal outcome. However, Paul's preservation challenged their superstitious beliefs, highlighting the tendency of humanity to attribute divine status to others instead of recognizing God's glory.",
+        "wordCount": 92,
+        "quoteTokenProportion": 27.14,
+        "qualityScore": 1.5201606371863823,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.89,
+        "commentatorTierSimilarities": [
+            31.24,
+            37.64,
+            31.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] Both these, the inflammation of the body, and the falling down dead suddenly, are recorded as results of the bite of the African serpents."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "they looked, continued looking.\" ",
+            "and saw no harm come to him, they changed their minds, and said . . . he was a god.\" ",
+            "What has not the Gospel done for the uncultivated portion of the human family, while its effects on the educated and refined, though very different, are not less marvellous!"
+        ],
+        "Albert Barnes": [
+            "They saw that he was uninjured, and miraculously preserved; and they supposed that none but a god could be thus kept from death.",
+            "That the Maltese were idolaters there can be no doubt; but what gods they worshipped is unknown, and conjecture would be useless.",
+            "It was natural that they should attribute such a preservation to the presence of a divinity."
+        ],
+        "Marvin Vincent": [
+            "Swollen. Only here in New Testament. The usual medical word for inflammation.",
+            "Looked. Occurring eleven times in Luke, and only five times in the rest of the New Testament. Frequent in medical writers, to denote expectation of the fatal result of illness.",
+            "No harm. Lit., nothing out of place. The word atopov occurs three times in Luke, and only once elsewhere in the New Testament (2 Thessalonians 3:2). Used by physicians to denote something unusual in the symptoms of disease and also something fatal or deadly as here."
+        ],
+        "John Calvin": [
+            "But if he could not choose but be the one, it had been better for him to be counted a murderer than a god.",
+            "Notwithstanding, it may be, that, being taught afterward, they did confess that God was the author of the miracle.",
+            "Furthermore, let us learn by this how ready the world is to fall to superstition...this is the fountain of superstitions, because men are unthankful to God, and do give his glory to some other."
+        ],
+        "Philip Schaff": [
+            "Either of these results might have followed from the bite of a poisonous serpent.",
+            "It should be noted, however, that the former word denotes inflammation rather than swelling.",
+            "Such a sudden revulsion of feeling is characteristic of rude and unlettered people."
+        ],
+        "Archibald T. Robertson": [
+            "Expecting him to be about (or that he was about) to swell up.",
+            "The two common results of a bite by a viper or other poisonous snake, both medical terms used by Luke.",
+            "But while they were expecting for much time."
+        ],
+        "John Gill": [
+            "The symptoms following the bite of a viper are said to be an acute pain in the place wounded; swelling, first red, afterwards livid, spreading by degrees; great faintness; a quick, low, and sometimes interrupted pulse; sickness at the stomach; bilious convulsions: vomiting; cold sweats; sometimes pains about the navel; and death itself, if the strength of the patient, or the slightness of the bite, do not overcome it."
+        ],
+        "John Wesley": [
+            "Such is the stability of human reason!",
+            "He is neither a murderer nor a god, but a man of God.",
+            "But natural men never run into greater mistakes, than in judging of the children of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scene in Acts 28:6 depicts the people of Malta observing Paul after he had been bitten by a poisonous snake. As they watched him without any harm befalling him, their opinion of him changed drastically. Initially, their fear turned to awe, believing that Paul was a god. This startling transformation in their perception highlights the power and impact of the Gospel, particularly on the unrefined and uneducated. The medical language used by Luke, such as swollen and looked, emphasizes the seriousness and expectation of a fatal outcome by the onlookers. However, despite their prolonged wait for Paul's condition to worsen, he remained unharmed, leading them to reconsider their assumption that he was a deity. This incident reminds us of the tendency for people to fall into superstitions and idolatry when they are ungrateful towards God and fail to acknowledge His works.",
+            "wordCount": 142,
+            "quoteTokenProportion": 32.99,
+            "qualityScore": 1.543561244082604,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.67,
+            "commentatorTierSimilarities": [
+                34.47,
+                36.12,
+                29.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the people of Malta observed Paul's miraculous survival after being bitten by a poisonous snake, their initial fear turned into awe, leading them to conclude that Paul must be a god. This astonishing change in their perception reflects the incredible impact of the Gospel, both on the uneducated and the refined. Luke's use of medical terminology, such as swollen and looked, highlights their expectation of a fatal outcome. However, Paul's unharmed state challenged their superstitious beliefs and prompted them to reconsider their assumptions. This incident serves as a reminder of humanity's tendency to attribute divine status to mere mortals when they fail to acknowledge and give thanks to God for His works.",
+            "wordCount": 117,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 1.5312445026971422,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.26,
+            "commentatorTierSimilarities": [
+                34.06,
+                37.05,
+                28.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The onlookers in Malta witnessed Paul's miraculous survival following a snake bite. Initially fearing the worst, they marveled at his unharmed state and concluded that he must be a god. This dramatic reversal of their perception demonstrates the remarkable power of the Gospel, which has the capacity to impact both the educated and refined, as well as the uneducated. Luke's medical terminology underscores their expectation of a fatal outcome. However, Paul's preservation challenged their superstitious beliefs, reminding us of humanity's inclination to attribute divine status to individuals instead of acknowledging God's glory.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.14,
+            "qualityScore": 1.4950910440260268,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.05,
+            "commentatorTierSimilarities": [
+                29.81,
+                37.24,
+                32.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people of Malta witnessed the astonishing scene of Paul surviving a snake bite unharmed. Initially fearing the worst, they were amazed and concluded that he must be a god. This powerful transformation in their perception illustrates the profound impact of the Gospel, which brings about incredible change in both educated and uneducated individuals. Luke's use of medical language emphasizes their expectation of a fatal outcome. However, Paul's preservation challenged their superstitious beliefs, highlighting the tendency of humanity to attribute divine status to others instead of recognizing God's glory.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.14,
+            "qualityScore": 1.5201606371863823,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.89,
+            "commentatorTierSimilarities": [
+                31.24,
+                37.64,
+                31.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After witnessing Paul survive a snake bite without harm, the people of Malta were initially filled with fear and later concluded that he must be a god. This rapid shift in their perception showcases the extraordinary impact of the Gospel, both on the educated and the uncultivated. Luke's use of medical terms demonstrates the onlookers' anticipation of a deadly outcome. However, Paul's preservation challenged their superstitious beliefs, revealing the propensity of humanity to ascribe divinity to individuals and overlook the glory of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.4878996361810994,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.82,
+            "commentatorTierSimilarities": [
+                34.13,
+                31.99,
+                33.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

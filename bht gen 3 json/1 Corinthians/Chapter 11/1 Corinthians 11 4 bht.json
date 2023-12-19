@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:11:50",
+    "verseRef": "1 Corinthians 11:4",
+    "bestBHT": {
+        "bht": "The customs of head coverings during worship are discussed, with Greeks remaining bareheaded and Jews wearing veils. Paul commends the Greek practice for men, as it reflects their superior position. A man covering his head dishonors Christ, as it signifies subjection rather than recognizing his authority. Uncovering the head demonstrates reverence and respect for God's presence, signifying their role as Christ's representatives.",
+        "wordCount": 64,
+        "quoteTokenProportion": 27.45,
+        "qualityScore": 2.284368919944627,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.3,
+        "commentatorTierSimilarities": [
+            35.72,
+            32.33,
+            31.95
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The case of the man here treated, was regarded by the ancient Commentators as an actually occurring one among the Corinthians...",
+            "This passage of St. Paul has ever ruled the custom in the Christian church.",
+            "Him he dishonours, by appearing veiled before men, thus recognizing subjection to them in an assembly which ought to be conformed to Christian order."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It was the Greek custom (and so that at Corinth) for men in worship to be uncovered; whereas the Jews wore the Talith, or veil, to show reverence before God, and their unworthiness to look on Him."
+        ],
+        "Albert Barnes": [
+            "Whether these persons who are here said to prophesy were all inspired, or claimed to be inspired, may admit of a question.",
+            "To remove the hat, the turban, or the covering of the head, is a mark of respect for a superior when in his presence.",
+            "In the presence of a prince or a nobleman, it would be considered as a mark of disrespect should the head be covered."
+        ],
+        "Marvin Vincent": [
+            "Having his head covered [\u03ba\u03b1\u03c4\u03b1 \u03ba\u03b5\u03c6\u03b1\u03bb\u03b7\u03c2 \u03b5\u03c7\u03c9\u03bd]. Lit., having something hanging down from his head.\" ",
+            "The Grecian usage, which had become prevalent in the Grecian churches, seems to have commended itself to Paul as more becoming the superior position of the man.",
+            "The Greeks remained bareheaded during prayer or sacrifice, as indeed they did in their ordinary outdoor life."
+        ],
+        "John Calvin": [
+            "Because he is subject to Christ, with this understanding, that he is to hold the first place in the government of the house \u2014 for the father of the family is like a king in his own house.",
+            "If the man does not keep his own station \u2014 if he is not subject to Christ in such a way as to preside over his own family with authority, he obscures, to that extent, the glory of Christ, which shines forth in the well regulated order of marriage.",
+            "Paul means nothing more than this \u2014 that it should appear that the man has authority, and that the woman is under subjection, and this is secured when the man uncovers his head in the view of the Church."
+        ],
+        "Philip Schaff": [
+            "Every man (\u2018male\u2019 person) praying or prophesying that is, \u2018speaking by Divine Inspiration,\u2019 either to God in public prayer, or from God in preaching, having his head covered, dishonoureth his head covering what God made to be exposed.",
+            "Every man (\u2018male\u2019 person) praying or prophesying that is, \u2018speaking by Divine Inspiration,\u2019 either to God in public prayer, or from God in preaching, having his head covered, dishonoureth his head covering.",
+            "Having his head covered, dishonoureth his head covering what God made to be exposed."
+        ],
+        "Archibald T. Robertson": [
+            "Having his head covered... Literally, having a veil... down from the head.\" ",
+            "It is not certain whether the Jews at this time used the tallith, 'a four-corned shawl having fringes consisting of eight threads, each knotted five times' (Vincent) as they did later.",
+            "The Greeks (both men and women) remained bareheaded in public prayer and this usage Paul commends for the men."
+        ],
+        "John Gill": [
+            "This is to be understood of praying and prophesying in public, and not in private...",
+            "...not to be restrained to the person that is the mouth of the congregation to God in prayer, or who preaches to the people in the name of God; but to be applied to every individual person that attends public worship...",
+            "...for not foretelling future events is here meant, but explaining the word of God, the prophecies of the Old Testament, or any part of Scripture..."
+        ],
+        "John Wesley": [
+            "Every man praying or prophesying... with his head covered... dishonoureth his head.\" ",
+            "As in these eastern nations veiling the head is a badge of subjection, so a man who prays or prophesies with a veil on his head, reflects a dishonour on Christ.",
+            "A man who prays or prophesies with a veil on his head... reflects a dishonour on Christ, whose representative he is."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the commentators discuss the custom of men covering or uncovering their heads during worship. The first-tier commentary highlights the distinction between Greek and Jewish customs, with the Greeks remaining bareheaded and the Jews wearing a veil or talith. The commentators suggest that Paul commends the Greek practice for men as it reflects their superior position. They emphasize that a man covering his head during prayer or prophecy dishonors Christ, as it is a sign of subjection to others rather than recognizing their authority as Christ's representatives. By uncovering their heads, men demonstrate reverence and respect for God's presence.",
+            "wordCount": 104,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3402941610400747,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.15,
+            "commentatorTierSimilarities": [
+                35.96,
+                32.93,
+                31.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The distinction between Greek and Jewish customs regarding head coverings during worship is discussed by ancient scholars. While the Greeks remained bareheaded, the Jews wore veils to show reverence before God. The first-tier commentators suggest that Paul commends the Greek practice for men, as it reflects their superior position. They emphasize that a man covering his head during prayer or prophecy dishonors Christ and his representative role. By uncovering their heads, men demonstrate reverence and respect for God's presence, acknowledging their authority as Christ's representatives.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 2.3404167818159944,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.16,
+            "commentatorTierSimilarities": [
+                37.19,
+                32.19,
+                30.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The customs of head coverings during worship are discussed, with Greeks remaining bareheaded and Jews wearing veils. Paul commends the Greek practice for men, as it reflects their superior position. A man covering his head dishonors Christ, as it signifies subjection rather than recognizing his authority. Uncovering the head demonstrates reverence and respect for God's presence, signifying their role as Christ's representatives.",
+            "wordCount": 64,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 2.284368919944627,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.3,
+            "commentatorTierSimilarities": [
+                35.72,
+                32.33,
+                31.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ancient scholars discuss the custom of head coverings during worship, contrasting Greek and Jewish practices. While the Greeks remained bareheaded, the Jews wore veils as a sign of reverence before God. The first-tier commentators suggest that Paul commends the Greek practice for men, as it reflects their superior position. They stress that a man covering his head during prayer or prophecy dishonors Christ and obscures the glory that shines forth through the well-regulated order of submission. By uncovering their heads, men acknowledge their authority as Christ's representatives and show reverence for God's presence.",
+            "wordCount": 98,
+            "quoteTokenProportion": 28.17,
+            "qualityScore": 2.3644606450547965,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.96,
+            "commentatorTierSimilarities": [
+                38.15,
+                32.21,
+                29.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ancient scholars discuss the different customs of men covering or uncovering their heads during worship. Greeks remained bareheaded, while Jews wore veils to show reverence to God. Paul commends the Greek practice of men remaining uncovered, as it reflects their superior position. By covering their heads, men dishonor Christ and fail to recognize their authority as His representatives. Uncovering their heads demonstrates respect and reverence for God's presence, displaying their role as Christ's representatives.",
+            "wordCount": 77,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.268159649680932,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.76,
+            "commentatorTierSimilarities": [
+                37.98,
+                32.37,
+                29.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

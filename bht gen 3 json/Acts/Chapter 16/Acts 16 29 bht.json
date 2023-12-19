@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:32:18",
+    "verseRef": "Acts 16:29",
+    "bestBHT": {
+        "bht": "The jailer, amazed at the earthquake and the calmness of Paul and Silas, recognized them as religious teachers and fell at their feet in worship. He called for lights to search everywhere and diligently examined everything. This experience humbled him, teaching him the importance of submission to God after being thrown down from his pride. Through this transformation, he learned to fear and worship the Lord, showing reverence to the messengers of an unearthly King. The power of God's grace is evident in this profound shift in the jailer's attitude and behavior.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 1.5279920705481325,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+        "commentatorTierSimilarities": [
+            14.12,
+            41.04,
+            44.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "29.] Not as A.V., \u2018a light,\u2019 but lights: the translators have mistaken a plural word for a singular."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How graphic this rapid succession of minute details, evidently from the parties themselves, the prisoners and the jailer, who would talk over every feature of the scene once and again.\" ",
+            "In which the hand of the Lord had been so marvelously seen.",
+            "The prisoners and the jailer, who would talk over every feature of the scene once and again."
+        ],
+        "Albert Barnes": [
+            "Probably several torches were brought by his attendants.",
+            "Alarmed at the earthquake; amazed that the prisoners were still there; confounded at the calmness of Paul and Silas and overwhelmed at the proof of the presence of God.",
+            "It is evident that he regarded them as the favorites of God, and was constrained to recognize them as religious teachers."
+        ],
+        "Marvin Vincent": [
+            "A light [\u03c6\u03c9\u03c4\u03b1] . Rev., more correctly, lights. Several lamps, in order to search everywhere. ",
+            "Sprang in. See on ran in, ch. 14 14."
+        ],
+        "John Calvin": [
+            "Hereby it appeareth what a good thing it is for men to be thrown down from their pride, that they may learn to submit themselves to God.",
+            "Fear maketh him apt to be taught and gentle. Therefore, so often as the Lord shall strike us or cast us down, let us know that this is done that we may be brought in [to] order from our too much haughtiness.",
+            "By his silence, we gather that in this kind of worship there was nothing contrary to godliness or the glory of God."
+        ],
+        "Philip Schaff": [
+            "The prison governor wished to examine everything minutely.",
+            "He at once fell at the feet of Paul and Silas, recognizing they were under no mortal protection.",
+            "He would now show all reverence to these messengers of an unearthly King."
+        ],
+        "Archibald T. Robertson": [
+            "Becoming terrified.",
+            "An act of worship.",
+            "when \u03c0\u03c1\u03bf\u03c3\u03b5\u03ba\u03c5\u03bd\u03b7\u03c3\u03b5\u03bd is used."
+        ],
+        "John Gill": [
+            "Whilst he was under the influence of Satan, and going about a work of darkness, namely, to destroy himself, he was in no concern for a light; but when he was delivered from the temptation and snare, he calls for light.",
+            "Chiefly through the horror of his conscience, and the dreadful sense he had of himself as a sinner, and of his lost state and condition by nature; the law had entered into his conscience, and had worked wrath there; the Spirit of God had convinced him of his sin and misery, and there was a fearful looking for of fiery indignation in him.",
+            "A strange change and sudden alteration this! what is it that almighty power and efficacious grace cannot do?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the jailer became terrified by the earthquake and witnessed the presence of God in the miraculous deliverance of Paul and Silas, he recognized them as religious teachers and fell at their feet in an act of worship. Realizing that they were under no mortal protection, he showed reverence to these messengers of an unearthly King. In his awe, the jailer called for lights to search everywhere, being diligent to examine everything minutely. Through this experience, he learned the importance of humility and submission to God, as he was thrown down from his pride and taught to fear and worship the Lord. This sudden and drastic change in his attitude and behavior highlights the transformative power of God's grace and the impact it can have on a person's life.",
+            "wordCount": 131,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 1.5963882737849031,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.42,
+            "commentatorTierSimilarities": [
+                13.72,
+                41.46,
+                44.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The jailer, overwhelmed by the earthquake and witnessing the hand of the Lord, recognized Paul and Silas as religious teachers and fell at their feet in worship. Seeking to examine everything minutely, he called for lights to search everywhere. This experience humbled him, teaching him the importance of submission to God after being thrown down from his pride. Through this transformation, he learned to fear and worship the Lord, showing reverence to the messengers of an unearthly King. This demonstrates the profound impact of God's grace and the power it possesses to change lives.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.5060259126555184,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.42,
+            "commentatorTierSimilarities": [
+                13.98,
+                39.28,
+                46.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The jailer, amazed at the earthquake and the calmness of Paul and Silas, recognized them as religious teachers and fell at their feet in worship. He called for lights to search everywhere and diligently examined everything. This experience humbled him, teaching him the importance of submission to God after being thrown down from his pride. Through this transformation, he learned to fear and worship the Lord, showing reverence to the messengers of an unearthly King. The power of God's grace is evident in this profound shift in the jailer's attitude and behavior.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.5279920705481325,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+            "commentatorTierSimilarities": [
+                14.12,
+                41.04,
+                44.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the earthquake and the miraculous deliverance by the hand of the Lord, the jailer recognized Paul and Silas as religious teachers and humbly fell at their feet in worship. Seeking to evaluate every detail, he called for lights to search everywhere meticulously. In this moment, the jailer learned the significance of humility and submission to God, as he was brought down from his pride. The transformation that occurred demonstrates the profound impact of God's grace and the power it holds to change hearts and lives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.4945416294048952,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.04,
+            "commentatorTierSimilarities": [
+                15.57,
+                38.89,
+                45.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amazed by the earthquake and the calmness exhibited by Paul and Silas, the jailer recognized them as religious teachers and humbly worshiped at their feet. He diligently searched for lights to examine everything in detail. This experience humbled him and taught him the importance of submitting to God after being thrown down from his pride. This remarkable transformation reflects the transformative power of God's grace in a person's life, demonstrating the immense impact it can have on one's beliefs and attitudes.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.410326222496716,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.24,
+            "commentatorTierSimilarities": [
+                10.0,
+                42.79,
+                47.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:14:55",
+    "verseRef": "Luke 4:6",
+    "bestBHT": {
+        "bht": "Satan, described as the prince and god of this world, claims possession of world power in this account. He tempts Jesus, offering power and glory in exchange for worship. By comparing this narrative to Matthew's, we can see that Satan's power is acquired through usurpation, not divine appointment. It is important to remember that ultimate authority lies with God, who has the ability to elevate and depose individuals and bring about significant changes in the world.",
+        "wordCount": 78,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.9393512716220989,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.82,
+        "commentatorTierSimilarities": [
+            36.81,
+            35.46,
+            27.73
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Satan is set forth to us in Scripture as the prince, or god of this world.\" ",
+            "Satan...the prince, or god of this world.\" ",
+            "On the signification of this temptation, see notes on Matthew."
+        ],
+        "Marvin Vincent": [
+            "To thee will I give - for to me it hath been delivered.\" ",
+            "Thou, therefore, if thou wilt worship, etc.",
+            "Luke, in his narrative, enlarges upon Matthew. Compare Matthew 4:9."
+        ],
+        "Philip Schaff": [
+            "Satan is represented in the Scriptures as the god of this world, so that an element of truth is here contained.",
+            "Satan is represented in the Scriptures as the god of this world.",
+            "An element of truth is here contained."
+        ],
+        "Archibald T. Robertson": [
+            "Satan here claims possession of world power and Jesus does not deny it."
+        ],
+        "John Gill": [
+            "all this power will I give thee",
+            "and the glory of them",
+            "what power he had, as the God of the world, was by usurpation"
+        ],
+        "John Wesley": [
+            "It is God, not thou, that putteth down one, and setteth up another.",
+            "God, not thou, that putteth down one, and setteth up another.",
+            "Satan, by God's permission, may occasion great revolutions in the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 4:6, Satan is depicted as the prince or god of this world, claiming possession of world power. This temptation reveals Satan's desire for Jesus to worship him in exchange for the power and glory of the world. The significance of this temptation can be further understood by comparing it to Matthew's account. This passage highlights the truth that Satan has some form of authority in this world, although it is by usurpation rather than divine appointment. It is important to remember that ultimately, it is God who has the power to elevate and depose individuals and bring about significant changes in the world.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.9014716625479826,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                36.52,
+                39.35,
+                24.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Satan, depicted as the prince and god of this world, claims possession of world power in Luke 4:6. This temptation reveals Satan's desire for Jesus to worship him in exchange for power and glory. The significance of this temptation can be understood by comparing it to Matthew's account and remembering that Satan's power is by usurpation, not divine appointment. Ultimately, it is God, not Satan, who has the authority to elevate and depose individuals and bring about significant changes in the world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.175918660294123,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.69,
+            "commentatorTierSimilarities": [
+                37.23,
+                37.73,
+                25.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Satan, described as the prince and god of this world, claims possession of world power in this account. He tempts Jesus, offering power and glory in exchange for worship. By comparing this narrative to Matthew's, we can see that Satan's power is acquired through usurpation, not divine appointment. It is important to remember that ultimate authority lies with God, who has the ability to elevate and depose individuals and bring about significant changes in the world.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9393512716220989,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.82,
+            "commentatorTierSimilarities": [
+                36.81,
+                35.46,
+                27.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, Satan is portrayed as the prince and god of this world, asserting his claim over world power while tempting Jesus. He offers Jesus power and glory if He bows down in worship. By comparing this account with Matthew's, we can grasp the significance of Satan's usurped authority. Nevertheless, it is crucial to recognize that true power and control rest solely in the hands of God, who has the ability to exalt or remove individuals and cause remarkable transformations throughout the world.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8023295213203738,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                38.87,
+                33.87,
+                27.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, Satan is depicted as the prince and god of this world, asserting his claim over world power. His temptation of Jesus involves offering power and glory in exchange for worship. By comparing this narrative to Matthew's, we can grasp the significance of Satan's usurped authority. It is crucial to remember that true power rests solely with God, who can exalt or depose individuals and bring about remarkable transformations in the world.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.876339751279548,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.73,
+            "commentatorTierSimilarities": [
+                36.85,
+                37.53,
+                25.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

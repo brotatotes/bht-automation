@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 16:35:30",
+    "verseRef": "Acts 23:33",
+    "bestBHT": {
+        "bht": "With the fulfillment of Agabus's prophecy, Paul finds himself being handed over by the cavalry and horsemen, as indicated by the second aorist active participle of \u03b1\u03bd\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc. This momentous event takes place in Caesarea, a city located twenty-six miles from Antipatris. Paul's friends in Caesarea, including Philip and his daughters, are left to contemplate the swift unfolding of the prophecy and its impact on Paul's journey.",
+        "wordCount": 70,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.0609131307295634,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.62,
+        "commentatorTierSimilarities": [
+            72.94,
+            0.0,
+            27.06
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Caesarea. Twenty - six miles from Antipatris."
+        ],
+        "Archibald T. Robertson": [
+            "Which very ones, the cavalry, the horsemen...",
+            "Second aorist active participle of \u03b1\u03bd\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc, old verb to give up, to hand over, here only in the N.T.",
+            "What would Paul's friends in Caesarea (Philip and his daughters) think of the prophecy of Agabus now so quickly come true."
+        ],
+        "John Gill": [
+            "Who, when they came to Caesarea..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With Paul's arrival in Caesarea, the prophecy of Agabus quickly becomes a reality, leaving his friends in Caesarea, such as Philip and his daughters, to ponder over its fulfillment. The cavalry and horsemen hand Paul over, as indicated by the second aorist active participle of \u03b1\u03bd\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc, marking the beginning of his journey towards the next stage of his mission. Caesarea, located twenty-six miles from Antipatris, serves as the backdrop for this significant event.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 0.9669616903677809,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.5,
+            "commentatorTierSimilarities": [
+                68.46,
+                0.0,
+                31.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With the fulfillment of Agabus's prophecy, Paul finds himself being handed over by the cavalry and horsemen, as indicated by the second aorist active participle of \u03b1\u03bd\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc. This momentous event takes place in Caesarea, a city located twenty-six miles from Antipatris. Paul's friends in Caesarea, including Philip and his daughters, are left to contemplate the swift unfolding of the prophecy and its impact on Paul's journey.",
+            "wordCount": 70,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.0609131307295634,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.62,
+            "commentatorTierSimilarities": [
+                72.94,
+                0.0,
+                27.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Caesarea, Paul experiences the realization of Agabus's prophecy as he is handed over by the cavalry and horsemen. This transfer of custody, indicated by the second aorist active participle of \u03b1\u03bd\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc, marks the beginning of Paul's journey towards the next stage of his mission. The proximity of Caesarea to Antipatris, only twenty-six miles apart, further emphasizes the significance of this event. It is in Caesarea that Paul's friends, such as Philip and his daughters, witness the rapid fulfillment of the prophecy and its implications for Paul's future.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 0.8485510431271401,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.56,
+            "commentatorTierSimilarities": [
+                79.6,
+                0.0,
+                20.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the city of Caesarea, Paul witnesses the fulfillment of Agabus's prophecy as the cavalry and horsemen hand him over. This transfer, indicated by the second aorist active participle of \u03b1\u03bd\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc, signifies the beginning of Paul's journey to the next phase of his mission. The proximity between Caesarea and Antipatris, just 26 miles apart, adds weight to this significant event. Paul's friends, including Philip and his daughters, are left to contemplate the swift unfolding of the prophecy and its impact on Paul's future.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 0.8608700707728927,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.97,
+            "commentatorTierSimilarities": [
+                82.61,
+                0.0,
+                17.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Caesarea, the cavalry and horsemen fulfill Agabus's prophecy by handing Paul over, symbolizing the commencement of his next mission phase. The second aorist active participle of \u03b1\u03bd\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc confirms this transfer. Located only 26 miles away from Antipatris, Caesarea serves as the backdrop for this momentous event. Paul's companions, such as Philip and his daughters, must now grapple with the rapid realization of the prophecy and its profound implications for Paul's future endeavors.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 0.8493986632587915,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.59,
+            "commentatorTierSimilarities": [
+                84.23,
+                0.0,
+                15.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

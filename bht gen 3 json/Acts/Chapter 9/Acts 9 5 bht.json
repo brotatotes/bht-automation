@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:28:52",
+    "verseRef": "Acts 9:5",
+    "bestBHT": {
+        "bht": "Saul's encounter with the real bodily appearance of the risen Jesus was a ground for testimony of the Resurrection. In this moment, Saul surrendered his life to Jesus, leading to his conversion. Although Saul referred to Jesus as Lord, he was initially unaware that it was Jesus himself. The call to Saul was not an irresistible summons, leaving room for resistance. However, resisting the call of Christ only brought misery and destruction. Saul's instant surrender to Jesus marked the beginning of his transformation.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.9568412055553694,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+        "commentatorTierSimilarities": [
+            27.6,
+            45.56,
+            26.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Such appearances could hardly form the subject of the testimony of an eyewitness which should rank with that of the other apostles: this, on the contrary, was no trance, but the real bodily appearance of the risen Jesus; so that it might be adduced as the ground of testimony to His Resurrection.",
+            "It is natural that the account of the historian should be less precise than that of the person concerned, relating his own history.",
+            "In ch. xxvi. 15\u201318, very much more is related to have been said by the Lord: but perhaps he there, as he omits the subsequent particulars, includes the revelations made to him during the three days, and in the message of Ananias."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus knew Saul ere Saul knew Jesus.",
+            "The term 'Lord' here is an indefinite term of respect for some unknown but august speaker.",
+            "The metaphor of an ox, only driving the goad deeper by kicking against it, is a classic one, and here forcibly expresses... the deeper wound which every such effort inflicted upon himself."
+        ],
+        "Albert Barnes": [
+            "The word 'Lord' here, as is frequently the case in the New Testament, means no more than 'sir.' It is evident that Saul did not as yet know that this was the Lord Jesus.",
+            "Though it was a personal appearance, however, of the Lord Jesus, designed to take the work of converting such a persecutor into his own hands, yet he designed to convert him in a natural way.",
+            "By all this they only injure themselves. No man can resist God or his own conscience and be happy."
+        ],
+        "Marvin Vincent": [
+            "It is hard for thee, etc. Transferred from ch. 26 14, and omitted by the best texts."
+        ],
+        "John Calvin": [
+            "This place containeth a most profitable doctrine, and the profit thereof is made manifold, for Christ showeth what great account he maketh of his gospel, when he pronounceth that it is his cause, from which he will not be separated.",
+            "Furthermore, this consolation tendeth not only to that end to comfort us, that it may not be troublesome to us to suffer with our Head, but that we may hope that he will revenge our miseries, who crieth out of heaven that all that which we suffer is common to him as well as to us.",
+            "Those which submit themselves willingly to Christ are so far from feeling any pricking at his hands, that they have in him a ready remedy for all wounds; but all the wicked, who endeavor to cast out their poisoned stings against him, shall at length perceive that they are asses and oxen, subject to the prick."
+        ],
+        "Philip Schaff": [
+            "I am Jesus of Nazareth whom thou persecutest.",
+            "To resist the call of Christ is ever a hard and profitless task; one, too, which is far beyond man\u2019s power... to bring misery and destruction upon oneself.",
+            "The call to Saul of Tarsus, then, was no irresistible summons... the teaching of the passage shows it is possible for any of us to resist the Redeemer\u2019s voice."
+        ],
+        "Archibald T. Robertson": [
+            "Saul surrendered instantly as Thomas did (John 20:28) and as little Samuel (1 Samuel 3:9). This surrender of the will to Christ was the conversion of Saul.",
+            "He saw a real Person, the Risen Christ, to whom he surrendered his life.",
+            "On this point he never wavered for a moment to the end."
+        ],
+        "John Gill": [
+            "And the Lord said, I am Jesus, whom thou persecutest.",
+            "It is hard for thee to kick against the pricks.",
+            "Should Saul go on to persecute him and his people, to oppose his Gospel, and the strong evidence of it, in doctrine and miracles, and notwithstanding the present remonstrances made in such an extraordinary manner; he would find himself in the issue greatly hurt by it, and could not rationally expect to succeed against so powerful a person."
+        ],
+        "John Wesley": [
+            "To kick against the goads \u2014 is a Syriac proverb, expressing an attempt that brings nothing but pain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Saul encountered a real bodily appearance of the risen Jesus, which could serve as grounds for testimony of the Resurrection. Saul's surrender to Jesus in this moment was the conversion of his will. While Saul referred to Jesus as Lord, he did not yet know that it was the Lord Jesus. The call to Saul was not an irresistible summons, allowing room for resistance. However, resisting the call of Christ only brought misery and destruction upon oneself. Therefore, Saul's instant surrender to Jesus marked the beginning of his transformation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.9384279266013307,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                26.96,
+                46.43,
+                26.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Saul's encounter with the risen Jesus was a real bodily appearance, providing grounds for testimonial evidence of the Resurrection. His surrender to Jesus in that moment marked his conversion. Although Saul addressed Jesus as Lord, he did not yet realize it was the Lord Jesus. The call to Saul was not an irresistible summons, allowing for resistance. However, resisting the call of Christ only led to misery and destruction. Saul's immediate surrender to Jesus was the beginning of his transformation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.911627141000392,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+            "commentatorTierSimilarities": [
+                26.54,
+                46.98,
+                26.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Saul encountered the bodily appearance of the risen Jesus, which could serve as grounds for testimony of the Resurrection. This encounter led to Saul's surrender and conversion. Although Saul referred to Jesus as Lord, he did not yet know it was the Lord Jesus. The call to Saul allowed for resistance, but resisting the call of Christ only brought about misery and destruction. This marked the beginning of Saul's transformation.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7341087919626026,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                30.36,
+                44.6,
+                25.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Saul's encounter with the bodily appearance of the risen Jesus grounds the testimony of the Resurrection. This encounter led to Saul's immediate surrender and conversion. Although Saul referred to Jesus as Lord, he initially did not recognize it was the Lord Jesus. The call to Saul allowed for resistance, but such resistance only resulted in misery and destruction. Saul's surrender marked the beginning of his transformation.",
+            "wordCount": 69,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.733619683438413,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                29.64,
+                43.06,
+                27.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Saul's encounter with the real bodily appearance of the risen Jesus was a ground for testimony of the Resurrection. In this moment, Saul surrendered his life to Jesus, leading to his conversion. Although Saul referred to Jesus as Lord, he was initially unaware that it was Jesus himself. The call to Saul was not an irresistible summons, leaving room for resistance. However, resisting the call of Christ only brought misery and destruction. Saul's instant surrender to Jesus marked the beginning of his transformation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9568412055553694,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+            "commentatorTierSimilarities": [
+                27.6,
+                45.56,
+                26.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

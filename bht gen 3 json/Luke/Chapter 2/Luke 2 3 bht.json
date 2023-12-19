@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:13:45",
+    "verseRef": "Luke 2:3",
+    "bestBHT": {
+        "bht": "In this event, a blend of Roman and Jewish customs is evident, solidifying the accuracy of the account. The use of the imperfect tense highlights the ongoing preparation and travel involved in the enrolment, as individuals journeyed to their respective cities according to their family registers. This enrolment encompassed numerous people, spanning across Judea, Galilee, and Syria, as they returned to their places of birth to fulfill their tax obligations. The inclusion of both Roman and Jewish practices in this event serves as compelling evidence for the credibility of the narrative.",
+        "wordCount": 91,
+        "quoteTokenProportion": 23.73,
+        "qualityScore": 1.53058720790161,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+        "commentatorTierSimilarities": [
+            31.6,
+            36.8,
+            31.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is a mixture here of Roman and Jewish customs, which is not at all improbable, considering the circumstances.",
+            "The latter practice springs from the Jewish genealogical habits, and its adoption in this case speaks strongly for the accuracy of the chronology.",
+            "If this enrolment was by order of Augustus, and for the whole empire, it of course would be made so as to include all, after the Roman manner: but inasmuch as it was made under the Jewish king Herod, it was done after the Jewish manner, in taking this account of each at his own place of extraction."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. went . . . to his own city\u2014the",
+            "\tcity of his extraction, according to the Jewish custom, not of",
+            "\this abode, which was the usual Roman method."
+        ],
+        "Marvin Vincent": [
+            "The A. V. and Rev., alike miss the graphic force of the imperfect tense, were going.",
+            "The preparation and bustle and travel were in progress.",
+            "To his own city. The town to which the village or place of their birth belonged."
+        ],
+        "Philip Schaff": [
+            "Every one into his own city, i.e., to the city of his extraction.\" ",
+            "This mixture of Roman and Jewish usage, so likely to occur in an enrolment, made under a Jewish king yet by order of the Roman Emperor, is a strong proof of the accuracy of Luke\u2019s account."
+        ],
+        "Archibald T. Robertson": [
+            "Each to his own city.\" ",
+            "A number of papyri in Egypt have the heading enrolment by household.",
+            "Each man went to the town where his family register was kept."
+        ],
+        "John Gill": [
+            "And all went to be taxed,.... Throughout Judea, Galilee, and Syria; men, women, and children.\" ",
+            "Every one into his own city; where he was born, and had any estate, and to which he belonged."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse depicts a mixture of Roman and Jewish customs, demonstrating the accuracy of Luke's account. The imperfect tense emphasizes that the preparation and bustle of the enrolment were in progress, as each man went to his own city, the town to which his family register was kept. This enrolment was a significant event, with men, women, and children throughout Judea, Galilee, and Syria traveling to their place of birth to be taxed. The inclusion of both Roman and Jewish practices in the enrolment further supports the authenticity of Luke's narrative.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7100728150234392,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                29.14,
+                35.59,
+                35.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this event, a blend of Roman and Jewish customs is evident, solidifying the accuracy of the account. The use of the imperfect tense highlights the ongoing preparation and travel involved in the enrolment, as individuals journeyed to their respective cities according to their family registers. This enrolment encompassed numerous people, spanning across Judea, Galilee, and Syria, as they returned to their places of birth to fulfill their tax obligations. The inclusion of both Roman and Jewish practices in this event serves as compelling evidence for the credibility of the narrative.",
+            "wordCount": 91,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.53058720790161,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                31.6,
+                36.8,
+                31.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This event combines Roman and Jewish customs, indicating the accuracy of the account. The ongoing preparation and travel are emphasized with the use of the imperfect tense, as individuals traveled to their own cities based on their family registers. This significant event encompassed a large number of people from different regions, who returned to their places of birth for the purpose of taxation. The inclusion of both Roman and Jewish practices in this event provides strong evidence for the reliability of the narrative.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.4598496803962688,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.88,
+            "commentatorTierSimilarities": [
+                34.26,
+                38.5,
+                27.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This event blends Roman and Jewish customs, affirming the accuracy of the account. The ongoing preparation and travel are emphasized, as individuals journeyed to their respective cities based on their family registers. This significant enrollment included a multitude of people from various regions, who returned to their places of birth for taxation purposes. The combination of Roman and Jewish practices in this event offers compelling evidence for the reliability and authenticity of the narrative.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.465520080722186,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.07,
+            "commentatorTierSimilarities": [
+                33.06,
+                36.46,
+                30.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The inclusion of Roman and Jewish customs in this event portrays the accuracy of the account. The ongoing preparation and travel were evident as individuals went to their own cities based on family registers, reflecting the blend of practices. With numerous people from different regions returning to their places of birth for taxation, this enrollment carries significance. The combination of Roman and Jewish traditions provides strong evidence for the credibility and authenticity of this narrative.",
+            "wordCount": 75,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.4447727464157074,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+            "commentatorTierSimilarities": [
+                35.79,
+                39.01,
+                25.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

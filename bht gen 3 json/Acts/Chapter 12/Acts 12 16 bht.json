@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:29:57",
+    "verseRef": "Acts 12:16",
+    "bestBHT": {
+        "bht": "Peter's relentless perseverance is evident as he continues knocking on the door, fully aware of the dangers that could arise from any delay. The astonishment of the group is apparent when they finally hear the knocking and rush to the courtyard to confirm the source. Witnessing Peter's miraculous rescue leaves them in awe, struggling to comprehend how he was delivered from prison. Their amazement stems from not only the occurrence but also the manner in which it took place.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.0916580917593224,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.64,
+        "commentatorTierSimilarities": [
+            23.8,
+            35.73,
+            40.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "16. Peter continued knocking\u2014delay",
+            "\tbeing dangerous."
+        ],
+        "Albert Barnes": [
+            "They were amazed that he had been rescued.",
+            "They were now convinced that it was Peter.",
+            "They were of course ignorant of the manner in which it was done."
+        ],
+        "Archibald T. Robertson": [
+            "Continued knocking... Now all heard the knocking.",
+            "When they had opened... The whole group rushed out to the courtyard this time to make sure.",
+            "They were amazed... The frequent second aorist active (intransitive) indicative of \u03b5\u03be\u03b9\u03c3\u03c4\u03b7\u03bc."
+        ],
+        "John Gill": [
+            "But Peter continued knocking....",
+            "and when they had opened the door, and saw him, they were astonished...",
+            "it was amazing to them, how it should be, that he should be delivered out of prison..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 12:16, Peter remained persistent in knocking on the door, being aware of the danger of delay. The whole group was astonished when they finally heard the knocking and rushed out to the courtyard to verify it. They were amazed at Peter's miraculous rescue, unable to comprehend how he had been delivered from prison.",
+            "wordCount": 55,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.3423701696547987,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.98,
+            "commentatorTierSimilarities": [
+                24.0,
+                36.32,
+                39.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's persistence in Acts 12:16 is evident as he continued knocking despite the danger of delay. The astonishment among the group was palpable when they finally heard the knocking and hastily went to the courtyard to confirm what was happening. Their amazement stemmed from witnessing Peter's miraculous rescue, leaving them bewildered as to how he had been delivered from prison.",
+            "wordCount": 61,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.3009594891435434,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.6,
+            "commentatorTierSimilarities": [
+                27.91,
+                33.41,
+                38.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, Peter's unwavering determination is highlighted as he persistently continues knocking on the door despite the potential risks. The astonishment of the group quickly spreads as they hear the knocking and rush to see what is happening. Witnessing Peter's miraculous rescue, they are left amazed, struggling to comprehend how he could have been delivered from imprisonment.",
+            "wordCount": 60,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.1113048777185144,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.29,
+            "commentatorTierSimilarities": [
+                32.08,
+                25.05,
+                42.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's relentless perseverance is emphasized as he remains resolute in knocking on the door, fully aware of the potential perils that could arise from any delay in his actions. The astonishment of the entire group is evident as they finally hear the distinctive knocking sound, prompting them to hastily gather in the courtyard to verify the astonishing turn of events. The miraculous nature of Peter's liberation leaves them in awe and amazement, unable to grasp the extraordinary way in which he was delivered from his captivity.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 0.9453846920905875,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.78,
+            "commentatorTierSimilarities": [
+                32.65,
+                25.1,
+                42.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's relentless perseverance is evident as he continues knocking on the door, fully aware of the dangers that could arise from any delay. The astonishment of the group is apparent when they finally hear the knocking and rush to the courtyard to confirm the source. Witnessing Peter's miraculous rescue leaves them in awe, struggling to comprehend how he was delivered from prison. Their amazement stems from not only the occurrence but also the manner in which it took place.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.0916580917593224,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.64,
+            "commentatorTierSimilarities": [
+                23.8,
+                35.73,
+                40.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

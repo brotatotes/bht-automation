@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:25:04",
+    "verseRef": "Acts 2:11",
+    "bestBHT": {
+        "bht": "On Pentecost, the disciples spoke in various languages, including those spoken by Cretans and Arabians. This miracle amazed the listeners, as the apostles discussed divine matters and heavenly wisdom, displaying the power of God. Through this event, the way was prepared for the spread of the gospel to different regions, leading to the establishment of Christian churches. The speaking of diverse languages was a remarkable manifestation of the Spirit's work, and may have laid the groundwork for theological arguments found in the epistles.",
+        "wordCount": 84,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.5405644813444193,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.57,
+        "commentatorTierSimilarities": [
+            18.76,
+            48.51,
+            32.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "11. Cretans and Arabians] These words would seem as if they should precede the last."
+        ],
+        "Albert Barnes": [
+            "The languages spoken by the apostles could not have been less than seven or eight, besides different dialects of the same languages. It is not certain that the Jews present from foreign nations spoke those languages perfectly, but they had doubtless so used them as to make them the common tongue in which they conversed.",
+            "No miracle could be more decided than this. There was no way in which the apostles could impose on them, and make them suppose they spoke foreign languages, if they really did not; for these foreigners were abundantly able to determine that.",
+            "The gospel would be carried by those who were converted to all these places, and the way would be prepared for the labors of the apostles there. Accordingly, most of these places became afterward celebrated by the establishment of Christian churches and the conversion of great multitudes to the Christian faith."
+        ],
+        "Marvin Vincent": [
+            "Whose country bordered on Judaea, and must have contained many Jews.",
+            "Rev., rightly, gives the force of the participle, speaking.",
+            "Rev., mighty works. Used by Luke only."
+        ],
+        "John Calvin": [
+            "The apostles being before ignorant and private persons did... intreat profoundly of divine matters, and of heavenly wisdom.",
+            "They have new tongues given them suddenly.",
+            "Although they give due honor to God, in that they are astonished and amazed, yet the principal [purpose] of the miracle is expressed in this, that they inquire, and thereby declare that they are prepared to learn."
+        ],
+        "Philip Schaff": [
+            "Some reason, doubtless, of which we are ignorant, moved St. Luke to place them in their present position in the catalogue.",
+            "We can imagine the glorious exposition of the Spirit to these children of Israel, to these converts to Judaism from many lands and strange peoples, which, in words sweeter and wiser than man had ever listened to before, described the grand mission of Israel, which was, to keep the torch of the knowledge of God ever burning through long centuries in a great heathen world.",
+            "Surely we may assume that in some of these Pentecostal utterances, at least, the outlines of the arguments of the great epistles (to the Romans and Hebrews, for instance) were first sketched out."
+        ],
+        "Archibald T. Robertson": [
+            "The point is not that each one of these groups of Jews spoke a different language, but that wherever there was a local tongue they heard men speaking in it.",
+            "Genitive case \u03b1\u03c5\u03c4\u03c9\u03bd with \u03b1\u03ba\u03bf\u03c5\u03c9 the participle \u03bb\u03b1\u03bb\u03bf\u03c5\u03bd\u03c4\u03c9\u03bd agreeing with \u03b1\u03c5\u03c4\u03c9\u03bd, a sort of participial idiom of indirect discourse.",
+            " ",
+            "The mighty works (\u03c4\u03b1 \u03bc\u03b5\u03b3\u03b1\u03bb\u03b5\u03b9\u03b1). Old adjective for magnificent. In LXX, but only here (not genuine in Luke 1:49) in the N.T."
+        ],
+        "John Gill": [
+            "These spoke the Greek language; yet not the Attic, for the Cretian and Attic speech are distinguished.\" ",
+            "These were the same with the Cherethim or Cherethites...since these are mentioned with the Philistines, to whose land Arabia joined.",
+            "They heard with their own ears, and were fully satisfied that they did speak divers languages."
+        ],
+        "John Wesley": [
+            "Cretans \u2014 One island seems to be mentioned for all.",
+            "The wonderful works of God \u2014 Probably those which related to the miracles, death, resurrection, and ascension of Christ, together with the effusion of his Spirit, as a fulfilment of his promises, and the glorious dispensations of Gospel grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the day of Pentecost, when the disciples were filled with the Holy Spirit, they started speaking in different languages, including those spoken by Cretans and Arabians. The purpose of this miracle was not that each group heard in their own language, but rather that wherever there was a local tongue, the people heard it being spoken. The apostles spoke with authority and depth, discussing divine matters and heavenly wisdom, astounding the listeners who marveled at this demonstration of God's power. Through this miraculous event, the way was prepared for the spread of the gospel to various regions, leading to the establishment of Christian churches and the conversion of many. The speaking of different languages on Pentecost was a remarkable manifestation of the Spirit's work, and perhaps even laid the groundwork for some of the theological arguments found in the epistles.",
+            "wordCount": 143,
+            "quoteTokenProportion": 37.23,
+            "qualityScore": 1.6462101796797262,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.08,
+            "commentatorTierSimilarities": [
+                19.41,
+                47.81,
+                32.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On Pentecost, the disciples spoke in various languages, including those spoken by Cretans and Arabians. This miracle amazed the listeners, as the apostles discussed divine matters and heavenly wisdom, displaying the power of God. Through this event, the way was prepared for the spread of the gospel to different regions, leading to the establishment of Christian churches. The speaking of diverse languages was a remarkable manifestation of the Spirit's work, and may have laid the groundwork for theological arguments found in the epistles.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.5405644813444193,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.57,
+            "commentatorTierSimilarities": [
+                18.76,
+                48.51,
+                32.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On Pentecost, the disciples spoke in various languages, including those spoken by Cretans and Arabians. This extraordinary miracle demonstrated the power and authority of God, leaving the listeners astonished. Through this event, the way was paved for the spread of the gospel to different regions, resulting in the establishment of Christian churches. The speaking of different languages was a remarkable manifestation of the Spirit's work, and may have even laid the foundation for the theological arguments found in the epistles.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.513338233710389,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.66,
+            "commentatorTierSimilarities": [
+                20.07,
+                47.32,
+                32.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the day of Pentecost, the disciples were filled with the Holy Spirit and began speaking in different languages, including those spoken by Cretans and Arabians. This miraculous event astounded the listeners and demonstrated the power of God. Through the speaking of diverse languages, the way was prepared for the spread of the gospel to various regions, leading to the establishment of Christian churches. The speaking in different languages was a remarkable manifestation of the Spirit's work and potentially even influenced the theological arguments in the epistles.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.5339080034444024,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+            "commentatorTierSimilarities": [
+                18.78,
+                48.82,
+                32.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On Pentecost, the disciples spoke in different languages, including those spoken by Cretans and Arabians. This miraculous event demonstrated the power and authority of God. The speaking of diverse languages prepared the way for the spread of the gospel to various regions, resulting in the establishment of Christian churches. This remarkable manifestation of the Spirit's work could have even laid the groundwork for theological arguments in the epistles. The listeners were amazed, affirming the authenticity of the apostles' speech in foreign tongues.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.5050653605001942,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.39,
+            "commentatorTierSimilarities": [
+                21.65,
+                46.3,
+                32.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:23:29",
+    "verseRef": "Luke 23:2",
+    "bestBHT": {
+        "bht": "The religious leaders falsely accused Jesus of spreading false notions and principles of religion, falsely claiming that he forbade paying tribute to Caesar. They aimed to manipulate Pilate and obtain a sentence of death against Jesus. However, their deceitful actions did not grant them the power of life and death over him. While Jesus did claim to be the Christ and the king of the kingdom of God, the Sanhedrin wanted to portray him as a political rival to Caesar, using this as a basis for their false accusations.",
+        "wordCount": 89,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.6276532254758633,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.46,
+        "commentatorTierSimilarities": [
+            31.58,
+            25.65,
+            42.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words themselves which they use are not so false, as the spirit, and impression which they convey.",
+            "The forbidden to give tribute to c\u00e6sar was, however, false entirely (see ch. xx. 22 ff.); and is just one of those instances where those who are determined to effect their purpose by falsehood, do so, in spite of the fact having been precisely the contrary to that which they assert.",
+            "They falsely allege it before Pilate, knowing that it was the point on which his judgment was likely to be most severe."
+        ],
+        "Albert Barnes": [
+            "The word 'fellow' is not in the original. It conveys a notion of 'contempt'... which is not proper should be expressed in the translation.\" ",
+            "This was a mere wanton accusation, but it was plausible before a Roman magistrate.",
+            "They did not say that he 'taught' that people should not give tribute - that would have been too gross a charge... They 'inferred,' therefore, if 'he' was 'a king,' that he must hold that it was not right to acknowledge allegiance to any foreign prince."
+        ],
+        "Marvin Vincent": [
+            "We found. In a judicial sense : as the result of their examination before the council."
+        ],
+        "Philip Schaff": [
+            "We found. This implies investigation they had never made.",
+            "Perverting, giving a false direction to, our nation. They thus represent themselves as genuine friends of the people.",
+            "And saying, etc. This involved what was true. But from this single element of truth they deduced certain political results, which had never occurred, and by putting these false inferences in the foreground sought to obtain sentence of death against our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "They had indulged their hatred in doing it, but they no longer have the power of life and death.",
+            "Probably they mean that they had caught Jesus in the act of doing these things rather than discovery by formal trial.",
+            "Jesus did claim to be the Christ and the king of the kingdom of God. But the Sanhedrin wanted Pilate to think that he set himself up as a rival to Caesar."
+        ],
+        "John Gill": [
+            "By spreading among them new notions, and false principles of religion; whereby he was a troubler of God's Israel.",
+            "Charge of heresy, or innovation in religion against Christ.",
+            "He taught the true doctrine, and right way of worship, and refuted the false glosses of the Pharisees, and opposed the vain traditions of the elders, by which both were corrupted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders falsely accused Jesus of stirring up trouble among the people by spreading false notions and principles of religion. They twisted the truth to make it seem as though Jesus was a threat to Roman rule by claiming he forbade paying tribute to Caesar, even though they knew this was not true. By making this accusation, they hoped to manipulate Pilate into sentencing Jesus to death. However, their slanderous words and deceitful actions did not give them the power of life and death over Jesus. Jesus had indeed claimed to be the Christ and the king of the kingdom of God, but the Sanhedrin wanted Pilate to believe that Jesus posed a political threat and was setting himself up as a rival to Caesar.",
+            "wordCount": 126,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.657316328708795,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.45,
+            "commentatorTierSimilarities": [
+                32.07,
+                28.09,
+                39.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders falsely accused Jesus of spreading false notions of religion and perverting their nation. They twisted the truth by claiming that Jesus forbade paying tribute to Caesar, which was not true. They hoped to manipulate Pilate into sentencing Jesus to death by presenting him as a political threat. However, their deceitful actions did not give them the power to decide Jesus' fate. While Jesus did claim to be the Christ and the king of the kingdom of God, the Sanhedrin wanted to make it seem as though he was a rival to Caesar.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.6112936833544205,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.92,
+            "commentatorTierSimilarities": [
+                33.03,
+                26.14,
+                40.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders falsely accused Jesus of spreading false notions and principles of religion, falsely claiming that he forbade paying tribute to Caesar. They aimed to manipulate Pilate and obtain a sentence of death against Jesus. However, their deceitful actions did not grant them the power of life and death over him. While Jesus did claim to be the Christ and the king of the kingdom of God, the Sanhedrin wanted to portray him as a political rival to Caesar, using this as a basis for their false accusations.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6276532254758633,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.46,
+            "commentatorTierSimilarities": [
+                31.58,
+                25.65,
+                42.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders falsely accused Jesus of spreading false notions of religion and perverting their nation, using deceitful tactics to manipulate Pilate. They claimed that Jesus forbade paying tribute, painting him as a potential rival to Caesar. However, their slanderous words and twisted accusations did not grant them the power of life and death over Jesus. While Jesus did claim to be the Christ and the king of the kingdom of God, the Sanhedrin aimed to present him as a political threat to further their own agenda.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.575017562772789,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
+            "commentatorTierSimilarities": [
+                31.51,
+                25.75,
+                42.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders falsely accused Jesus of spreading false principles of religion and perverting their nation, using deceitful tactics to manipulate Pilate. They twisted the truth by falsely claiming that Jesus forbade paying tribute to Caesar, hoping to portray him as a political rival. However, their slanderous words did not grant them the power to determine Jesus' fate. While Jesus did claim to be the Christ and the king of the kingdom of God, the Sanhedrin aimed to present him as a threat to Caesar's authority.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.6193090985903105,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+            "commentatorTierSimilarities": [
+                32.15,
+                26.73,
+                41.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

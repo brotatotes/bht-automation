@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:00:30",
+    "verseRef": "1 Corinthians 2:12",
+    "bestBHT": {
+        "bht": "Through the Spirit of God, we have received knowledge that is not of the world, but comes from Him. This knowledge allows us to understand the things freely given to us by God and to have a deep appreciation for His wisdom and truths. It is through the Holy Spirit's revelation and illumination that we are assured of our adoption and salvation, and that we can fully embrace and experience the profound mysteries of God. This Spirit is a gift from God, and it is through His Spirit that we are able to know and accept His truth.",
+        "wordCount": 99,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.7823899777828656,
+        "qualityScoreNormalizedComparedToV2BHTs": 83.85,
+        "commentatorTierSimilarities": [
+            30.25,
+            37.67,
+            32.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not merely, the mind and sentiments of unregenerate mankind.",
+            "We have received, not only 'the Spirit of God,' but the Spirit which is FROM God.",
+            "That we may know the things freely given to us by God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We have received it only by the gift of God, whose Spirit it is, whereas our own spirit is the spirit that is in us men.\" (1 Corinthians 2:12)",
+            "That we might know... things... freely given... of God\u2014present experimental knowledge, to our unspeakable comfort, of His deep mysteries of wisdom.\" (1 Corinthians 2:12)",
+            "Our future possession of the good 'things which God hath prepared for them that love Him.'\" (1 Corinthians 2:12)"
+        ],
+        "Albert Barnes": [
+            "The views of truth which we have, are not such as this world gives, but are such as are communicated by the Spirit of God.",
+            "We are under the teaching\u2019s and influence of the Holy Spirit.",
+            "It is possible for all Christians to know and be fully assured of the truth of those things, and of their interest in them."
+        ],
+        "Marvin Vincent": [
+            "The spirit of the world...means the principle of evil which animates the unregenerate world; not the personal spirit of evil or Satan.\" ",
+            "God in us reveals God in our nature."
+        ],
+        "John Calvin": [
+            "The Spirit of revelation, which we have received, is not of the world... On the contrary, it is from God, and hence it is above all heavens, of solid and unvarying truth, and placed above all risk of doubt.",
+            "Here, however, the Apostle declares in general terms, that the elect have the Spirit given them, by whose testimony they are assured that they have been adopted to the hope of eternal salvation.",
+            "Let us observe, however, that it is not acquired in a natural way, and is not attained by the mental capacity, but depends entirely on the revelation of the Spirit."
+        ],
+        "Philip Schaff": [
+            "Now we received, not the spirit of the world, but the Spirit which is of God.\" ",
+            "That we might know the things that are freely given to us of God.\" ",
+            "Not only are the things themselves \u2018freely given us,\u2019 but we only \u2018know\u2019 them, so as to make them our own, through the Spirit which is given to us of God for that very end."
+        ],
+        "Archibald T. Robertson": [
+            "But the spirit which is of God (\u03b1\u03bb\u03bb\u03b1 \u03c4\u03bf \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1 \u03c4\u03bf \u03b5\u03ba \u03b8\u03b5\u03bf\u03c5). Rather, 'from God' (\u03b5\u03ba), which proceeds from God.",
+            "Here is a distinct claim of the Holy Spirit for understanding (Illumination) the Revelation received.",
+            "God gave the revelation through the Holy Spirit and he gives us the illumination of the Holy Spirit to understand the mind of the Spirit."
+        ],
+        "John Gill": [
+            "Now we have received not the spirit of the world,... but the Spirit which is of God...\" ",
+            "...whom they receive through the doctrine of faith into their hearts, as a spirit of illumination, faith, comfort, adoption, truth, and as a seal and earnest of future glory...",
+            "...this knowledge is not a mere notional one, but spiritual, experimental, and approbational, joined with affection and admiration; and is a knowledge of interest in these things, and which makes both humble and obedient."
+        ],
+        "John Wesley": [
+            "Now we have received, not the spirit of the world \u2014 This spirit is not properly received; for the men of the world always had it. But Christians receive the Spirit of God, which before they had not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the Spirit that comes from God, we are able to know the things that have been freely given to us by Him. This is not knowledge that we acquire on our own, but rather it is a revelation from the Holy Spirit that allows us to understand and appreciate the deep wisdom and mysteries of God. It is through this Spirit that we are assured of our adoption and salvation, and it is through the Spirit that we are able to know and fully embrace the truth of God's teachings. This Spirit is not of the world, but of God, and it is by His illumination that we are able to comprehend and internalize His truth.",
+            "wordCount": 118,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.9248986826714285,
+            "qualityScoreNormalizedComparedToV2BHTs": 88.59,
+            "commentatorTierSimilarities": [
+                30.36,
+                38.7,
+                30.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the Spirit of God, we have received knowledge that is not of the world, but comes from Him. This knowledge allows us to understand the things freely given to us by God and to have a deep appreciation for His wisdom and truths. It is through the Holy Spirit's revelation and illumination that we are assured of our adoption and salvation, and that we can fully embrace and experience the profound mysteries of God. This Spirit is a gift from God, and it is through His Spirit that we are able to know and accept His truth.",
+            "wordCount": 99,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.7823899777828656,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.85,
+            "commentatorTierSimilarities": [
+                30.25,
+                37.67,
+                32.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit we have received is not from the unregenerate world, but from God Himself. This Spirit enables us to have a deep and experiential understanding of the things freely given to us by God. It is through the Holy Spirit's illumination that we are able to grasp the profound mysteries of God's wisdom. Through His Spirit, we are assured of our adoption and salvation, and are able to know and embrace the truths of God. This knowledge is not acquired naturally, but solely through the revelation of the Spirit.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.7379522508369316,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.38,
+            "commentatorTierSimilarities": [
+                30.94,
+                36.38,
+                32.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Spirit we have received is not of this world, but from God Himself. Through this Spirit, we are granted knowledge of the things freely given to us by God. It is through the Holy Spirit's illumination that we are able to understand and appreciate the deep mysteries of His wisdom. This illumination comes as a gift from God, allowing us to know and fully embrace His truth. It is by His Spirit that we are assured of our adoption and salvation, experiencing a profound connection with Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.6794520597557696,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.43,
+            "commentatorTierSimilarities": [
+                31.53,
+                37.5,
+                30.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Spirit we have received is not from the world but from God Himself. Through this divine Spirit, we gain knowledge and understanding of the gifts freely given to us by God. His Spirit illuminates our minds, allowing us to comprehend the deep mysteries of His wisdom and truth. It is through this Spirit that we confidently embrace our adoption and salvation, and experience a profound connection with God. This knowledge is not acquired through human means, but solely through the revelation and illumination of the Holy Spirit.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.64490374483123,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.28,
+            "commentatorTierSimilarities": [
+                31.06,
+                35.71,
+                33.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

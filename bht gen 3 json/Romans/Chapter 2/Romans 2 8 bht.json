@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:59:11",
+    "verseRef": "Romans 2:8",
+    "bestBHT": {
+        "bht": "Those who live a life of moral goodness and seek recognition and honor will receive glory and immortality. On the contrary, those who are factious and do not obey the truth but choose to live in unrighteousness will face the wrath and indignation of God. They engage in stubborn resistance to the Gospel and their deeds emanate from a self-seeking spirit. They even contend with God and oppose His claims. Therefore, God will render tribulation and anguish upon them, as they have chosen to serve sin rather than submit to the truth.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.067093387468258,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+        "commentatorTierSimilarities": [
+            27.68,
+            36.67,
+            35.65
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The term rendered well-doing is singular, good work: indicating moral habitude in the whole, the general course of life and action.",
+            "Glory, absolute imparted glory like His own...honour, recognition, relative precedence...immortality, literally, incorruptibility.",
+            "(literally) to those who are of self-seeking; those who live in, act from, are situated in, and do their deeds from a spirit of ambitious secking of their own interests."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But unto them that are contentious, and do not obey the truth, c.",
+            "referring to such keen and determined resistance to the Gospel",
+            "indignation and wrath\u2014in the bosom of a sin-avenging God."
+        ],
+        "Albert Barnes": [
+            "One striking characteristic of the sinner is, that he contends with God, that is, that he opposes and resists his claims.",
+            "The truth here means all the correct representations which had been made of God, and his perfections, and law, and claims, whether by the light of nature or by revelation.",
+            "Iniquity thus may be said to reign over people, as they follow the dictates of evil, make no resistance to it, and implicitly obey all its hard requirements."
+        ],
+        "Marvin Vincent": [
+            "Contentious [\u03b5\u03be \u03b5\u03c1\u03b9\u03b8\u03b5\u03b9\u03b1\u03c2] . Rev., better, factious. Lit., of faction. See on James 3:14. Intriguers; partisan agitators. ",
+            "Indignation and wrath [\u03bf\u03c1\u03b3\u03b7 \u03ba\u03b1\u03b9 \u03b8\u03c5\u03bc\u03bf\u03c2] . See on be patient, James 5:7."
+        ],
+        "John Calvin": [
+            "Contention is mentioned here for rebellion and stubbornness; for Paul was contending with hypocrites who, by their gross and supine self-indulgence, trifled with God.",
+            "For it is what belongs to all the ungodly, that they ever prefer to be in bondage to iniquity, rather than to receive the yoke of God.",
+            "We never fear God\u2019s judgment as we ought, except it be set as it were by a lively description before our eyes; nor do we really burn with desire for future life, except when roused by strong incentives."
+        ],
+        "Philip Schaff": [
+            "\u2018Contentious\u2019 is not exact, since the word is derived from serve, meaning to work for hire. In the New Testament the derivative always means factiousness, venal partisanship; here it refers to those who are intriguing, selfishly serving a party, and not the truth.",
+            "Notice how \u2018the truth\u2019 and \u2018unrighteousness\u2019 are directly opposed to each other by the Apostle.",
+            "\u2018Wrath\u2019 points to the permanent attitude of a holy God toward sin; \u2018indignation,\u2019 to its particular manifestation, at the judgment."
+        ],
+        "Archibald T. Robertson": [
+            "But unto them that are factious and obey not the truth but obey unrighteousness.",
+            "The construction changes and the substantives that follow are not the object of \u03b1\u03c0\u03bf\u03b4\u03c9\u03c3\u03b5 like \u03b6\u03c9\u03b7\u03bd \u03b1\u03b9\u03bd\u03c9\u03bd\u03b9\u03bf\u03bd above, but are in the nominative as if with \u03b5\u03c3\u03bf\u03bd\u03c4\u03b1 (shall be) understood.",
+            "Anger and wrath, both \u03bf\u03c1\u03b3\u03b7 and \u03b8\u03c5\u03bc\u03bf\u03c2, tribulation and anguish, again a pair \u03b8\u03bb\u03b9\u03c8\u03b9\u03c2 \u03ba\u03b1 \u03c3\u03c4\u03b5\u03bd\u03bf\u03c7\u03c9\u03c1\u03b9\u03b1 on which see 2 Corinthians 5:4; 2 Corinthians 12:10."
+        ],
+        "John Gill": [
+            "who contend for victory, and not truth; strive about words to no profit; are quarrelsome, and sow discord among men, and in churches;",
+            "and do not obey the truth; neither attend to the light of nature, and to that which may be known of God by it; nor regard and submit to the Gospel revelation",
+            "but obey unrighteousness; are servants of sin: to these God renders indignation and wrath; wrathful or fiery indignation, the hottest of his fury."
+        ],
+        "John Wesley": [
+            "The character of a false Jew is disobedience, stubbornness, impatience.",
+            "Indignation and wrath, tribulation and anguish.",
+            "The Jews would in the day of vengeance be more severely punished than even the Egyptians were when God made their plagues so wonderful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who live a life of moral goodness and seek recognition and honor will receive glory and immortality. On the contrary, those who are factious and do not obey the truth but choose to live in unrighteousness will face the wrath and indignation of God. They engage in stubborn resistance to the Gospel and their deeds emanate from a self-seeking spirit. They even contend with God and oppose His claims. Therefore, God will render tribulation and anguish upon them, as they have chosen to serve sin rather than submit to the truth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.067093387468258,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+            "commentatorTierSimilarities": [
+                27.68,
+                36.67,
+                35.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who live a life of moral goodness and seek recognition and honor will receive glory and immortality. On the contrary, those who are factious and do not obey the truth but choose to live in unrighteousness will face the wrath and indignation of God. They engage in stubborn resistance to the Gospel and their deeds emanate from a self-seeking spirit. Therefore, God will render tribulation and anguish upon them.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9728903812946168,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                28.51,
+                33.87,
+                37.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who live a life of moral goodness, seeking recognition and honor, will be rewarded with glory and immortality. However, those who choose to be factious and disobey the truth by living in unrighteousness will face God's wrath and indignation. They engage in stubborn resistance to the Gospel, contending with God and opposing His claims. As a consequence, God will inflict tribulation and anguish upon them.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.0445750211034275,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.32,
+            "commentatorTierSimilarities": [
+                26.43,
+                35.81,
+                37.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who live a life of moral goodness, seeking recognition and honor, will receive glory and immortality. However, those who are factious and do not obey the truth but choose to live in unrighteousness will face the wrath and indignation of God. Their deeds come from a spirit of self-seeking and they engage in stubborn resistance to the Gospel. God will render tribulation and anguish upon them as a result.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.0088048307882636,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+            "commentatorTierSimilarities": [
+                28.95,
+                33.66,
+                37.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who live a life of moral goodness, seeking recognition and honor, will be rewarded with glory and immortality. However, those who are factious and do not obey the truth but choose to live in unrighteousness will face the wrath and indignation of God. They engage in stubborn resistance to the Gospel, contending with God and opposing His claims. As a consequence, God will render tribulation and anguish upon them.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.0379914208357235,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+            "commentatorTierSimilarities": [
+                27.27,
+                34.91,
+                37.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

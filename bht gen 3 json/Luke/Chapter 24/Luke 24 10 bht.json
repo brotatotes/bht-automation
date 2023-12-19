@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:23:56",
+    "verseRef": "Luke 24:10",
+    "bestBHT": {
+        "bht": "The narrative in this account is rooted in the testimony of one of the disciples who had journeyed to Emmaus, as evidenced by the perfect agreement between the report and the subsequent events. The women, including prominent figures like Joanna, all played a role in relaying the message, forming two groups with possibly varying accounts due to their intense emotions. Although not explicitly mentioned, it can be inferred that Mary Magdalene likely encountered a similar response. Other witnesses included Joanna, who had supported Jesus, and Mary, the mother of James and other relatives of Jesus.",
+        "wordCount": 95,
+        "quoteTokenProportion": 36.11,
+        "qualityScore": 1.1869204308679244,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.81,
+        "commentatorTierSimilarities": [
+            15.17,
+            36.44,
+            48.39
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It seems as if the testimony of one of the disciples who went to Emmaus had been the ground of the whole former part\u2014perhaps of the whole\u2014of this chapter.",
+            "We find consequently this account exactly agreeing with his report afterwards.",
+            "Joanna was the wife of Chuza, Herod\u2019s steward."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. Joanna\u2014(See on :-)."
+        ],
+        "Philip Schaff": [
+            "The more important persons are mentioned first, but all bore the message.",
+            "The form suggests a variety of accounts in the tumult of feeling natural at such a time, and divides the women into two parties.",
+            "The individual experience of the Magdalene is passed over, but her story doubtless met with the same reception."
+        ],
+        "John Gill": [
+            "It was Mary Magdalene,.... Out of whom Christ had cast seven devils, who was a sincere penitent, a true believer in Christ, and an affectionate lover of him, and to whom he first appeared.",
+            "and Joanna; the wife of Chuza, Herod's steward, one that had been a follower of Christ, and had ministered to him of her substance.",
+            "and Mary the mother of James; called the less; and also of Joses, and Simon, and Judas, the brethren, or kinsmen of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse is supported by the testimony of one of the disciples who went to Emmaus, which seems to have been the basis for the entire chapter. The account given exactly aligns with this report. The more prominent individuals are listed first, but all of them conveyed the message. It is possible that there were different accounts due to the overwhelming emotions that the women were experiencing at that time, leading to two groups. Although the individual experience of Mary Magdalene is not mentioned here, it is likely that her story met with the same response. Joanna, a follower of Christ who had ministered to Him, and Mary, the mother of James and other kinsmen of Jesus, were also present and witnessed these events.",
+            "wordCount": 124,
+            "quoteTokenProportion": 44.32,
+            "qualityScore": 1.1806591105029394,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.6,
+            "commentatorTierSimilarities": [
+                15.2,
+                43.74,
+                41.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the testimony of one of the disciples who went to Emmaus seems to be the foundation for the events described. The account given aligns perfectly with this report. The more notable individuals are mentioned first, but it's clear that all of them were involved in conveying the message. It is likely that there were different accounts due to the tumultuous emotions experienced by the women present. Although not explicitly stated, Mary Magdalene's story likely received a similar response. Joanna, who had supported Jesus, and Mary, the mother of James and other relatives of Jesus, were also witnesses to these events.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.1214203772217755,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.63,
+            "commentatorTierSimilarities": [
+                16.48,
+                43.91,
+                39.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The narrative in this account is rooted in the testimony of one of the disciples who had journeyed to Emmaus, as evidenced by the perfect agreement between the report and the subsequent events. The women, including prominent figures like Joanna, all played a role in relaying the message, forming two groups with possibly varying accounts due to their intense emotions. Although not explicitly mentioned, it can be inferred that Mary Magdalene likely encountered a similar response. Other witnesses included Joanna, who had supported Jesus, and Mary, the mother of James and other relatives of Jesus.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.1869204308679244,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.81,
+            "commentatorTierSimilarities": [
+                15.17,
+                36.44,
+                48.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The events in this verse find their basis in the testimony of one of the disciples who had traveled to Emmaus. The subsequent account aligns perfectly with this report, indicating its veracity. The women involved, including notable figures such as Joanna, all participated in conveying the message, forming two distinct groups. While the individual experience of Mary Magdalene is not mentioned, it can be inferred that her story was received similarly. Additionally, Joanna, who had supported Christ, and Mary, the mother of James and other relatives of Jesus, were present as witnesses.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.221720525375286,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.97,
+            "commentatorTierSimilarities": [
+                16.54,
+                38.62,
+                44.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This passage draws on the testimony of one of the disciples who traveled to Emmaus, indicating that it serves as the foundation for the subsequent events. The account presented here aligns precisely with this report. Noteworthy individuals like Joanna actively participated in relaying the message, forming two distinct groups. It is reasonable to assume that Mary Magdalene's encounter yielded a similar response, though it is not explicitly mentioned. Witnesses to these events included Joanna, a devoted follower of Christ who had provided support, as well as Mary, the mother of James and other relatives of Jesus.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 1.1467072806768048,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.47,
+            "commentatorTierSimilarities": [
+                21.84,
+                34.81,
+                43.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:57:42",
+    "verseRef": "Romans 2:2",
+    "bestBHT": {
+        "bht": "The judgment rendered by God is an act of justice, proceeding according to truth and our true character. God will judge people based on the real nature of their conduct, not as their conduct may appear to others. Those who practice wickedness, whether in secret or in public, will not escape judgment. It is a definitive and all-encompassing judgment, carried out by an omniscient and omnipotent God. This judgment is not limited to outward appearances but considers the sincerity of the heart.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.1177335007485265,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.76,
+        "commentatorTierSimilarities": [
+            28.45,
+            33.37,
+            38.17
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2. according to truth] i.e. proceeds according to justice (John viii. 16)."
+        ],
+        "Albert Barnes": [
+            "God will judge people according to the real nature of their conduct, and not as their conduct may appear to people.",
+            "The secret, as well as the open sinner therefore; the hypocrite, as well as the abandoned profligate, must expect to be judged according to their true character.",
+            "When people desire to do evil, and are prevented by the providence of God, it is right to punish them for their evil intentions."
+        ],
+        "Marvin Vincent": [
+            "The judgment [\u03c4\u03bf \u03ba\u03c1\u03b9\u03bc\u03b1] . Not the act, but the contents of the judgment."
+        ],
+        "John Calvin": [
+            "He summons them to the tribunal of God, to whom darkness itself is not hid, and by whose judgment the case of sinners, be they willing or unwilling, must be determined.",
+            "Moreover, the truth of judgment will in two ways appear, because God will punish sin without any respect of persons, in whomsoever it will be found; and he will not heed outward appearances, nor be satisfied with any outward work, except what has proceeded from real sincerity of heart.",
+            "It hence follows, that the mask of feigned sanctity will not prevent him from visiting secret wickedness with judgment."
+        ],
+        "Philip Schaff": [
+            "Paul thus introduces what he regards, and what his readers regard, as an undoubted truth.",
+            "The judgment of God is according to truth.",
+            "Hence it is against them that practise such things."
+        ],
+        "Archibald T. Robertson": [
+            "Judgment (\u03ba\u03c1\u03b9\u03bc\u03b1). Decision rendered whether good or bad.",
+            "According to (\u03ba\u03b1\u03c4\u03b1 with accusative). As the rule of measure. Cf. John 7:24. "
+        ],
+        "John Gill": [
+            "By 'the judgment of God', is not meant what is exercised on and towards men in this life, but what will follow after death...",
+            "It will be carried on by God only, who is omniscient and omnipotent, and will be definitive.",
+            "We may be sure of this judgment; and of its being according to truth, from reason, from Scripture, and from the being and perfections of God."
+        ],
+        "John Wesley": [
+            "For we know \u2014 Without thy teaching That the judgment of God - Not thine, who exceptest thyself from its sentence.",
+            "Is according to truth \u2014 Is just, making no exception, Romans 2:5,6,11; and reaches the heart as well as the life, Romans 2:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The judgment rendered by God is an act of justice, proceeding according to truth and according to our true character. God will judge people based on the real nature of their conduct, not as their conduct may appear to others. Whether in secret or in public, those who practice wickedness will not escape judgment. This judgment is not limited to outward appearances but considers the sincerity of the heart. It is a definitive and all-encompassing judgment, carried out by an omniscient and omnipotent God. We can be certain that this judgment is according to truth, as evidenced by reason, Scripture, and the being and perfections of God.",
+            "wordCount": 108,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.150852004040592,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.86,
+            "commentatorTierSimilarities": [
+                27.93,
+                32.9,
+                39.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The judgment rendered by God is an act of justice, proceeding according to truth and according to our true character. God will judge people based on the real nature of their conduct, not as their conduct may appear to others. Whether in secret or in public, those who practice wickedness will not escape judgment. This judgment is not limited to outward appearances but considers the sincerity of the heart. It is a definitive and all-encompassing judgment, carried out by an omniscient and omnipotent God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.116573192471361,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+            "commentatorTierSimilarities": [
+                28.49,
+                33.31,
+                38.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The judgment rendered by God is an act of justice, proceeding according to truth and our true character. God will judge people based on the real nature of their conduct, not as their conduct may appear to others. Those who practice wickedness, whether in secret or in public, will not escape judgment. It is a definitive and all-encompassing judgment, carried out by an omniscient and omnipotent God. This judgment is not limited to outward appearances but considers the sincerity of the heart.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.1177335007485265,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.76,
+            "commentatorTierSimilarities": [
+                28.45,
+                33.37,
+                38.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The judgment rendered by God is an act of justice, proceeding according to truth and our true character. Whether in secret or in public, those who practice wickedness will not escape judgment. God will judge people based on the real nature of their conduct, not as their conduct may appear to others. It is a definitive and all-encompassing judgment, carried out by an omniscient and omnipotent God. This judgment is not limited to outward appearances but considers the sincerity of the heart.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.114719686811375,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.66,
+            "commentatorTierSimilarities": [
+                28.54,
+                33.27,
+                38.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's judgment is an act of justice, proceeding according to truth and our true character. People will be judged by the real nature of their conduct, not as it appears to others. Those who practice wickedness, whether secretly or openly, will face judgment. It is a definitive judgment carried out by an all-knowing and all-powerful God. This judgment examines the sincerity of the heart and is not limited to outward appearances. It is a justified judgment, making no exceptions, and reaches the heart as well as the life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.063681931060047,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                30.17,
+                32.17,
+                37.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

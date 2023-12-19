@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:29:31",
+    "verseRef": "1 Timothy 6:4",
+    "bestBHT": {
+        "bht": "This individual is filled with pride, wrapped in the fumes of self-conceit. Rather than pursuing truth, they engage in word-strifes with no substance, harboring evil surmisings against those of different beliefs. Ignorance often accompanies their conceit, leaving them knowing nothing. Their obsession with disputes of words is a sign of an unhealthy mind. They mistakenly believe that gain equates to godliness, revealing their misguided priorities. Ultimately, their pride is empty and lacking in solidity.",
+        "wordCount": 76,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.5891399108839024,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+        "commentatorTierSimilarities": [
+            36.79,
+            27.69,
+            35.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He is proud\u2014literally, 'wrapt in smoke'; filled with the fumes of self-conceit.\" ",
+            "Truth is not the center about which his investigations move, but mere word-strifes.",
+            "Evil surmisings\u2014as to those who are of a different party from themselves."
+        ],
+        "Albert Barnes": [
+            "He is proud - That is, he is lifted up with his fancied superior acquaintance with the nature of religion.",
+            "They desired not sound doctrine, but controversies about unimportant and unsubstantial matters - things that bore the same relation to important doctrines which the things that a sick man pines after do to substantial food.",
+            "Envy is uneasiness, pain, mortification, or discontent, excited by another\u2019s prosperity, or by his superior knowledge or possessions."
+        ],
+        "Marvin Vincent": [
+            "He is proud.",
+            "Although he knows nothing.",
+            "The verb logomacein 2 Timothy 2:14."
+        ],
+        "John Calvin": [
+            "Such persons Paul first charges with pride, foolish and empty pride... they have nothing that is solid, but mere wind.\" ",
+            "But languishing after questions and debates of words... they are very far from profiting aright, as the disciples of Christ ought to do.",
+            "He gives the name 'logomachies' (disputes about words) to contentious disputes about words rather than things... Paul intended to condemn all questions which sharpen us for disputes that are of no value."
+        ],
+        "Philip Schaff": [
+            "He is proud...under the stupefying influence of a fever.\" ",
+            "Doting...raving mad after, morbidly dwelling on.",
+            "Thinking that gain is godliness...a means of mining money."
+        ],
+        "Archibald T. Robertson": [
+            "Ignorance is a frequent companion of conceit.",
+            "All these words are akin (envy, strife, railings or slanders), all products of an ignorant and conceited mind.",
+            "Doting (sick) over disputes of words is a sign of an unhealthy mind."
+        ],
+        "John Gill": [
+            "The doctrines of grace are of an humbling nature, especially when they are spiritually and experimentally understood and received; but notional knowledge, knowledge of natural things, and the doctrines of men, such as are of their own invention, fill the mind with pride and vanity.",
+            "He may have knowledge of natural and civil things, but not of spiritual ones; he may have collected a medley of knowledge together, but what will be of no real use either to himself or others.",
+            "Foolish and unlearned questions gender strifes, which are very unbecoming the servants of the Lord, and very uncomfortable to the churches of Christ."
+        ],
+        "John Wesley": [
+            "Knowing nothing \u2014 As he ought to know.",
+            "Sick of questions \u2014 Doatingly fond of dispute; an evil, but common, disease; especially where practice is forgotten.",
+            "Evil surmisings \u2014 It not being their way to think well of those that differ from themselves in opinion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The individual described in this verse is consumed by pride and self-conceit, boasting in their own knowledge and engaging in word battles rather than pursuing the truth. They harbor envy and entertain evil surmisings about those who hold different beliefs. Ignorance is a frequent companion of their conceit, as they know nothing but continue to engage in disputes of words. Their obsession with such meaningless arguments reveals an unhealthy mind, doting on pointless debates rather than focusing on sound doctrine. Their pursuit of gain, mistaking it for godliness, demonstrates their misguided priorities. Ultimately, their pride is empty and foolish, lacking any solid foundation.",
+            "wordCount": 104,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 1.552992807088299,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.98,
+            "commentatorTierSimilarities": [
+                30.88,
+                27.21,
+                41.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The proud individual in question is shrouded in self-conceit, utterly consumed by meaningless word-strife and lacking a pursuit of truth. Their envy and evil surmisings are directed towards those who hold differing beliefs. Ignorance often accompanies their arrogance, as they engage in disputes about words they truly know nothing about. This fixation on inconsequential arguments betrays an unwell mind, unable to let go of these futile debates. Their misguided belief that wealth equates to godliness indicates a misplaced focus. Ultimately, their pride is empty and devoid of substance.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.543513230146377,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.66,
+            "commentatorTierSimilarities": [
+                32.13,
+                27.3,
+                40.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This individual is filled with self-conceit, wrapped in the fumes of their own pride. Instead of pursuing truth, they engage in meaningless word-strifes, harboring evil surmisings against those who hold different beliefs. Ignorance often accompanies their conceit, leaving them knowing nothing but still clinging to disputes of words. Their obsession with pointless arguments is a clear sign of an unhealthy mind, doting on these debates rather than focusing on sound doctrine. They mistakenly believe gain equates to godliness, revealing their misguided priorities. Ultimately, their pride is empty and lacks any solid foundation.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.5592280354132022,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.19,
+            "commentatorTierSimilarities": [
+                33.58,
+                27.08,
+                39.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The proud individual at hand is immersed in self-conceit, engulfed in the smoke of their own arrogance. Rather than seeking truth, they indulge in meaningless word-strifes, entertaining evil surmisings against those who differ from them. Ignorance often accompanies this conceit, as they possess limited understanding. Their preoccupation with fruitless disputes reveals an unhealthy mind, fixated on trivial matters. They mistakenly believe that worldly gain equates to godliness. Ultimately, their pride is empty and lacks a solid foundation, offering no true substance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.5402666262086995,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+            "commentatorTierSimilarities": [
+                32.63,
+                29.13,
+                38.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This individual is filled with pride, wrapped in the fumes of self-conceit. Rather than pursuing truth, they engage in word-strifes with no substance, harboring evil surmisings against those of different beliefs. Ignorance often accompanies their conceit, leaving them knowing nothing. Their obsession with disputes of words is a sign of an unhealthy mind. They mistakenly believe that gain equates to godliness, revealing their misguided priorities. Ultimately, their pride is empty and lacking in solidity.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.5891399108839024,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+            "commentatorTierSimilarities": [
+                36.79,
+                27.69,
+                35.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

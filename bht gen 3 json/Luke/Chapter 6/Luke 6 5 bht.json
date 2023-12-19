@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:15:36",
+    "verseRef": "Luke 6:5",
+    "bestBHT": {
+        "bht": "Jesus defends his disciples against the criticism of the Pharisees, stating that he has said enough to vindicate them. He reminds the Pharisees that he is the Lord of the law and that their objections are baseless. By referencing the healing of the withered hand and identifying himself as the Lord of the Sabbath, Jesus asserts his authority and power to determine what is permissible on that day. Ultimately, Jesus' response serves as a clear rebuke to the Pharisees, highlighting his divine authority over the Sabbath.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.6890717112126725,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+        "commentatorTierSimilarities": [
+            24.93,
+            25.51,
+            49.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I have said enough to vindicate the men ye carp at on My account.",
+            "In this place is the Lord of the law, and they have His sanction.",
+            "Withered Hand Healed."
+        ],
+        "Marvin Vincent": [
+            "Lord of the Sabbath. See on Matthew 12:6. ",
+            "- 11. Compare Matthew 12:9-14; Mark 3:1-6."
+        ],
+        "Philip Schaff": [
+            "Observing on the same day one laboring on the Sabbath, He said to him: if thou knowest what thou doest, thou art blessed; if thou knowest not, thou art cursed and a transgressor of the law.\" ",
+            "It is improbable that any one would have been thus laboring, or that our Lord would thus create needless opposition and misunderstanding."
+        ],
+        "John Gill": [
+            "He adds this at the close of the instances he gave, at the end of his vindication of his disciples, and discourse with the Pharisees, as a full answer to their cavils.\" ",
+            "That the son of man is Lord also of the sabbath; and may do what he will, and suffer his disciples to do whatever he pleases on that day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, Jesus defends his disciples against the criticism of the Pharisees for their actions on the Sabbath. He reminds them that he is the Lord of the law and that his disciples have his sanction. Furthermore, he highlights the healing of the withered hand as an example of his authority. This response serves as a comprehensive answer to the Pharisees' objections, emphasizing that the Son of Man is the Lord of the Sabbath and has the power to do as he pleases.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.5935282000665159,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.33,
+            "commentatorTierSimilarities": [
+                26.71,
+                19.52,
+                53.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus defends his disciples against the Pharisees' criticism, reminding them that he is the Lord of the law and that his disciples have his sanction. He cites the healing of the withered hand as evidence of his authority. This response serves as a comprehensive answer to the Pharisees' objections, emphasizing that the Son of Man is the Lord of the Sabbath and has the power to do as he pleases.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6346589428852847,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.69,
+            "commentatorTierSimilarities": [
+                25.99,
+                21.23,
+                52.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus defends his disciples against the criticism of the Pharisees, stating that he has said enough to vindicate them. He reminds the Pharisees that he is the Lord of the law and that their objections are baseless. By referencing the healing of the withered hand and identifying himself as the Lord of the Sabbath, Jesus asserts his authority and power to determine what is permissible on that day. Ultimately, Jesus' response serves as a clear rebuke to the Pharisees, highlighting his divine authority over the Sabbath.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.6890717112126725,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+            "commentatorTierSimilarities": [
+                24.93,
+                25.51,
+                49.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus defends his disciples by affirming his authority as the Lord of the law and the Sabbath. He states that he has already given enough justification for their actions. By referring to the healing of the withered hand, Jesus demonstrates the power and legitimacy of his actions. This response serves as a complete answer to the objections of the Pharisees, affirming that the Son of Man has the authority to determine what is acceptable and permissible on the Sabbath.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.5201547327338896,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.89,
+            "commentatorTierSimilarities": [
+                25.16,
+                23.33,
+                51.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus defends his disciples against the criticism of the Pharisees by asserting his authority as the Lord of the law and the Sabbath. He emphasizes that he has already provided sufficient justification for their actions. By mentioning the healing of the withered hand, Jesus exemplifies his power and authenticity. This response serves as a conclusive and comprehensive rebuttal to the objections raised by the Pharisees, making it clear that the Son of Man possesses the right to determine what is permissible on the Sabbath.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.4659731028537792,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.09,
+            "commentatorTierSimilarities": [
+                25.12,
+                24.11,
+                50.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

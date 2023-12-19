@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:08:58",
+    "verseRef": "Titus 2:7",
+    "bestBHT": {
+        "bht": "The Christian minister's teaching is useless if their example does not confirm their words. Titus, as a minister, should display uncorrupted integrity and a serious demeanor when presenting the truth. He is called to show himself as an example, living a life of uncorruptness and sincerity. His teaching should be filled with uncorrupted doctrine, while his conduct should reflect this doctrine. Through being a pattern of good works, showing gravity and uncorruptness, Titus will not only teach, but also inspire others to lead pure and upright lives.",
+        "wordCount": 88,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.7561280666716987,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.73,
+        "commentatorTierSimilarities": [
+            30.43,
+            38.77,
+            30.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "All teaching is useless unless the teacher's example confirm his word.",
+            "As 'gravity' refers to Titus himself, so 'uncorruptness' though, doubtless, uncorruptness of the doctrine will be sure to follow as a consequence of the Christian minister being of simple, uncorrupt integrity himself.",
+            "Gravity - dignified seriousness in setting forth the truth."
+        ],
+        "Albert Barnes": [
+            "Not merely teaching others, but showing them by example how they ought to live.",
+            "Everything in his teaching was to be such as to make men purer and better.",
+            "The manner in which a preacher delivers his message should be such as to command respect."
+        ],
+        "Marvin Vincent": [
+            "Shewing thyself [\u03c3\u03b5\u03b1\u03c5\u03c4\u03bf\u03bd \u03c0\u03b1\u03c1\u03b5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . See on 1 Timothy 1:4. The phrase N. T. o. but occurs in Class., as, to show one's self holy or righteous; wise or skillful; parecein to make himself scarce.",
+            "Incorruptness [\u03b1\u03c6\u03b8\u03bf\u03c1\u03b9\u03b1\u03bd] . Const. with shewing. N. T. o. o Class. LXX once, Haggai 2:18.",
+            "Omit sincerity."
+        ],
+        "John Calvin": [
+            "For doctrine will otherwise carry little authority, if its power and majesty do not shine in the life of the bishop, as in a mirror.",
+            "He wishes, therefore, that the teacher may be a pattern, which his scholars may copy.",
+            "In order that he may exhibit a representation of his doctrine in morals, he bids him be 'upright and grave.'"
+        ],
+        "Philip Schaff": [
+            "The teacher of others should be like a basin which ere it can overflow must first be itself filled from the fountain.",
+            "Specially in his public teaching, which is to exhibit a character sincere (\u2018uncorrupt\u2019) and \u2018grave.\u2019",
+            "To this class Titus belonged; therefore he was to be its model as well as preceptor."
+        ],
+        "Archibald T. Robertson": [
+            "Shewing thyself (\u03c3\u03b5\u03b1\u03c5\u03c4\u03bf\u03bd \u03c0\u03b1\u03c1\u03b5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2). Present middle (redundant middle) participle of \u03c0\u03b1\u03c1\u03b5\u03c7\u03c9 with the reflexive pronoun \u03c3\u03b5\u03b1\u03c5\u03c4\u03bf\u03bd as if the active voice \u03c0\u03b1\u03c1\u03b5\u03c7\u03c9\u03bd.\" ",
+            "An ensample (\u03c4\u03c5\u03c0\u03bf\u03bd). For this word see 2 Thessalonians 3:9; Philippians 3:17.\" ",
+            "Uncorruptness (\u03b1\u03c6\u03b8\u03bf\u03c1\u03b9\u03b1\u03bd). Only example, from late adjective \u03b1\u03c6\u03b8\u03bf\u03c1\u03bf\u03c2 (\u03b1 privative and \u03c6\u03b8\u03b5\u03b9\u03c1\u03c9)."
+        ],
+        "John Gill": [
+            "He should through the whole of his conversation be a pattern of every good work unto them.",
+            "In doctrine, showing uncorruptness, gravity, sincerity.",
+            "In, or with doctrine, along with the doctrine preached, let the conversation be pure and incorrupt, free from the pollutions of the world."
+        ],
+        "John Wesley": [
+            "Showing thyself a pattern.\" ",
+            "In the doctrine which thou teachest...uncorruptness.",
+            "As to the manner of delivering it, seriousness - Weightiness, solemnity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The teaching of a Christian minister is meaningless unless it is confirmed by their example. For Titus, his uncorrupt integrity should be evident in his serious and dignified presentation of the truth. He is urged to show himself as an example to others, leading a life of uncorruptness and sincerity. His teaching should be filled with uncorrupted doctrine, and his conduct should be a reflection of this doctrine. By being a pattern of good works and displaying gravity and uncorruptness, Titus will not only teach, but also inspire others to live a pure and upright life.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.7395622851178696,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.18,
+            "commentatorTierSimilarities": [
+                28.33,
+                40.92,
+                30.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Christian minister's teaching is useless if their example does not confirm their words. Titus, as a minister, should display uncorrupted integrity and a serious demeanor when presenting the truth. He is called to show himself as an example, living a life of uncorruptness and sincerity. His teaching should be filled with uncorrupted doctrine, while his conduct should reflect this doctrine. Through being a pattern of good works, showing gravity and uncorruptness, Titus will not only teach, but also inspire others to lead pure and upright lives.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.7561280666716987,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.73,
+            "commentatorTierSimilarities": [
+                30.43,
+                38.77,
+                30.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The teaching of a Christian minister is meaningless unless confirmed by their example. Titus should display uncorrupted integrity, seriousness, and uncorruptness in his presentation of the truth. He is urged to show himself as an example, leading a life of uncorruptness and sincerity. His teaching should be filled with uncorrupted doctrine, reflecting his conduct. By being a pattern of good works, showing gravity and uncorruptness, Titus will inspire others to live a pure and upright life.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.7529014667923852,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.63,
+            "commentatorTierSimilarities": [
+                29.16,
+                38.91,
+                31.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The instruction given to a Christian minister emphasizes the importance of their example aligning with their teaching. Titus, as a minister, is called to demonstrate uncorrupted integrity and dignity when presenting the truth. It is crucial that he showcases himself as an example, highlighting uncorruptness and sincerity in his lifestyle. His teaching should be rooted in uncorrupted doctrine, while his conduct should mirror this doctrine. Leading by example, with gravity and uncorruptness, Titus will inspire others to live a life marked by purity and uprightness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.65668114425634,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.43,
+            "commentatorTierSimilarities": [
+                29.66,
+                39.66,
+                30.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To be an effective Christian minister, it is essential for Titus to exemplify his teaching through his personal conduct. His integrity should be uncorrupted, reflecting in a serious and dignified presentation of the truth. Titus is urged to be a model for others, demonstrating uncorruptness and sincerity in his own life. He should strive to teach uncorrupted doctrine while exemplifying it in his behavior. By being a pattern of good works, displaying gravity and uncorruptness, Titus will inspire others to live a life of purity and uprightness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.7271024824426218,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                27.11,
+                41.14,
+                31.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

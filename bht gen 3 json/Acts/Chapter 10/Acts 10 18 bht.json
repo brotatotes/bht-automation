@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:29:04",
+    "verseRef": "Acts 10:18",
+    "bestBHT": {
+        "bht": "Having called out to someone in the house, they were inquiring. They asked in a loud voice, continually inquiring, to attract the attention of someone in Simon's house, distinguishing him from their host. Their intention was to find out whether Simon Peter was lodging there or not.",
+        "wordCount": 48,
+        "quoteTokenProportion": 48.57,
+        "qualityScore": 1.8658734522200178,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+        "commentatorTierSimilarities": [
+            27.18,
+            31.18,
+            41.65
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18.] The strict sense is, that having called out (some one), they were enquiring."
+        ],
+        "Marvin Vincent": [
+            "Called. A general summons to anyone within, in order to make inquiries."
+        ],
+        "Philip Schaff": [
+            "'Having called out' so as to attract the attention of someone in the house.\" ",
+            "Simon, which was surnamed Peter.",
+            "See note above on Acts 10:5."
+        ],
+        "Archibald T. Robertson": [
+            "Called (\u03c6\u03c9\u03bd\u03b7\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2). In a loud voice that those inside the house might hear.",
+            "Asked (\u03b5\u03c0\u03c5\u03bd\u03b8\u03b1\u03bd\u03bf\u03bd\u03c4\u03bf). Imperfect middle of \u03c0\u03c5\u03bd\u03b8\u03b1\u03bd\u03bf\u03bc\u03b1, old verb to make inquiry especially with an indirect question as here. Kept on inquiring.",
+            "Were lodging (\u03be\u03b5\u03bd\u03b9\u03b6\u03b5\u03c4\u03b1). Present middle indicative retained in indirect question."
+        ],
+        "John Gill": [
+            "They called to the people of the house, Simon\u2019s family, and in a civil and courteous manner asked them.\" ",
+            "They said to distinguish him from Simon the master of the house.\" ",
+            "Concerning him they inquired, whether he were lodged there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Having called out to someone in the house, they were inquiring. They asked in a loud voice, continually inquiring, to attract the attention of someone in Simon's house, distinguishing him from their host. Their intention was to find out whether Simon Peter was lodging there or not.",
+            "wordCount": 48,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.8658734522200178,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                27.18,
+                31.18,
+                41.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having called out to someone inside the house, they were enquiring and asked in a loud voice, continually inquiring, to attract attention. In a civil and courteous manner, they asked the people of Simon's family whether Simon Peter was lodging there or not, distinguishing him from their host.",
+            "wordCount": 49,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.7078642041339966,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.13,
+            "commentatorTierSimilarities": [
+                26.93,
+                27.48,
+                45.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Having called out to someone in the house, they were enquiring and asked in a loud voice, continually inquiring, to attract the attention of someone in Simon's house, distinguishing him from Simon the master of the house. Their intention was to find out whether Simon Peter was lodging there or not.",
+            "wordCount": 52,
+            "quoteTokenProportion": 48.65,
+            "qualityScore": 1.8055615924144843,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                21.33,
+                36.09,
+                42.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Having called out to someone inside the house, they were enquiring and asked in a loud voice, continually inquiring, to attract attention. Their intention was to find out whether Simon Peter was lodging there or not, distinguishing him from Simon the master of the house.",
+            "wordCount": 45,
+            "quoteTokenProportion": 48.65,
+            "qualityScore": 1.7907435251858075,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                26.03,
+                32.91,
+                41.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 10:18, the disciples are seen calling out to someone inside the house, enquiring about the whereabouts of Simon Peter. Their persistent inquiries were made in a loud voice in order to attract attention and clarify whether Peter was lodging there. It is important to note that they were careful to distinguish Simon Peter from Simon, the master of the house.",
+            "wordCount": 61,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.5606628777553886,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.23,
+            "commentatorTierSimilarities": [
+                18.54,
+                38.55,
+                42.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

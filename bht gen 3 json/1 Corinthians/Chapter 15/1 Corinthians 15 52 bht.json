@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:14:31",
+    "verseRef": "1 Corinthians 15:52",
+    "bestBHT": {
+        "bht": "In a moment, in the twinkling of an eye, the last trumpet will sound, and there will be a sudden and instantaneous change. This change will be so quick, it will be done in a trice, before a man can shut his eyes and open them again. It will be an amazing work of omnipotence, as the same power that raised Christ from the dead will raise us and change us into saints. The trumpet shall sound audibly, and the dead will be called forth from their graves to be raised incorruptible.",
+        "wordCount": 92,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 1.9564909387380562,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.39,
+        "commentatorTierSimilarities": [
+            18.08,
+            38.97,
+            42.95
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in a moment...in a point of time absolutely indivisible.\" ",
+            "the last trump, in a wide and popular sense.\" ",
+            "We that are alive, and remain to the coming of the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the law was given with the sound of a trumpet, so the final judgment according to it.",
+            "As the Lord ascended 'with the sound of a trumpet,' so He shall descend.",
+            "The trumpet was sounded to convoke the people on solemn feasts, especially on the first day of the seventh month, the type of the completion of time."
+        ],
+        "Albert Barnes": [
+            "In a moment - (\u03b5\u0313\u03bd \u03b1\u0313\u03c4\u03bf\u0301\u03bc\u03c9\u0345 en atomo\u0304). In an \u201catom,\u201d scil. of time; a point of time which cannot be cut or divided (\u03b1 a, the alpha privative (\u201cnot\u201d) and \u03c4\u03bf\u03bc\u03b7 tome\u0304, from \u03c4\u03b5\u0301\u03bc\u03bd\u03c9 temno\u0304, \u201cto cut\u201d). A single instant; immediately. It will be done instantaneously.",
+            "In the twinkling of an eye - This is an expression also denoting the least conceivable duration of time. The suddenness of the coming of the Lord Jesus is elsewhere compared to the coming of a thief in the night; 2 Peter 3:10. The word rendered \u201ctwinkling\u201d (\u03c1\u0314\u03b9\u03c0\u03b7\u0342 ripe\u0304, from \u03c1\u0314\u03b9\u0301\u03c0\u03c4\u03c9 rhipto\u0304, \u201cto throw, cast\u201d) means \u201ca throw, cast, jerk,\u201d as of a stone; and then \u201ca jerk of the eye,\u201d that is, \u201ca wink\u201d - Robinson.",
+            "At the last trump - When the trumpet shall sound to raise the dead. The word \u201clast\u201d here does not imply that any trumpet shall have been before sounded at the resurrection, but is a word denoting that this is the consummation or close of things; it will end the economy of this world; it will be connected with the last state of things."
+        ],
+        "Marvin Vincent": [
+            "Moment [\u03b1\u03c4\u03bf\u03bc\u03c9] . Only here in the New Testament. An undivided point of time.",
+            "An undivided point of time.",
+            "Twinkling [\u03c1\u03b9\u03c0\u03b7] . Only here in the New Testament. Generally of any rapid movement, as of the feet in running, or the quick darting of a fish."
+        ],
+        "John Calvin": [
+            "In all the change will be sudden and instantaneous, because Christ\u2019s advent will be sudden.",
+            "Nor will the living only be convoked, but even the dead will be called forth from their graves.",
+            "Those who have already died will rise again incorruptible...those who will be still alive will themselves also be changed."
+        ],
+        "Philip Schaff": [
+            "in a moment, in the twinkling of an eye a sublime expression of all but instantaneousness.",
+            "There will, indeed, be an interval between the 'resurrection' of the dead and the 'changing' of the living saints for 'the dead in Christ shall rise first', but so brief as to be but as the 'twinkling of an eye'.",
+            "The trumpet shall sound audibly, it would seem, as the signal for the winding up of all present things, and we (the living) shall be changed."
+        ],
+        "Archibald T. Robertson": [
+            "In a moment (\u03b5\u03bd \u03b1\u03c4\u03bf\u03bc\u03c9)... Only here in N.T.",
+            "In the twinkling of an eye (\u03b5\u03bd \u03c1\u03b9\u03c0\u03b7 \u03bf\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u03c5)... Only here in N.T.",
+            "At the last trump (\u03b5\u03bd \u03c4\u03b7 \u03b5\u03c3\u03c7\u03b1\u03c4\u03b7 \u03c3\u03b1\u03bb\u03c0\u03b9\u03b3\u03b3)... Symbolical, of course."
+        ],
+        "John Gill": [
+            "The apostle's meaning is, that the change upon the bodies of living saints will be so quick, that it will be done in a trice, before a man can shut his eyes and open them again.\" ",
+            "The saints that will be found alive; the apostle speaks in the first person, because of the uncertainty of Christ's coming, and of the blowing of the last trumpet, he not knowing but it might be in his time.\" ",
+            "What if by all this should be meant some violent claps of thunder, as at Mount Sinai, which will shake the whole earth; and when almighty power will be put forth to raise the dead."
+        ],
+        "John Wesley": [
+            "In a moment \u2014 Amazing work of omnipotence!",
+            "And cannot the same power now change us into saints in a moment?",
+            "The trumpet shall sound - To awaken all that sleep in the dust of the earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In a moment, in the twinkling of an eye, when the last trumpet sounds, there will be a sudden and instantaneous change. This change will be so quick, it will be done before a man can shut his eyes and open them again. It will be an amazing work of omnipotence, as the same power that raised Christ from the dead will raise us and change us into saints. The trumpet shall sound audibly, as the signal for the winding up of all present things, and the dead will be called forth from their graves to be raised incorruptible.",
+            "wordCount": 99,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.951685339174848,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                17.53,
+                40.49,
+                41.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a moment, in the twinkling of an eye, when the last trumpet sounds, there will be a sudden and instantaneous change. This change will be so quick, it will be done in a trice. It will be an amazing work of omnipotence, as the same power that raised Christ from the dead will raise us and change us into saints. The trumpet shall sound audibly, as the signal for the winding up of all present things, and the dead will be called forth from their graves to be raised incorruptible.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.925642921329144,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.37,
+            "commentatorTierSimilarities": [
+                19.15,
+                39.24,
+                41.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a moment, in the twinkling of an eye, when the last trumpet sounds, there will be a sudden and instantaneous change. This change will be so quick, it will be done before a man can shut his eyes and open them again. It will be an amazing work of omnipotence as the same power that raised Christ from the dead will raise us and change us into saints. The trumpet shall sound audibly, and the dead will be called forth from their graves to be raised incorruptible.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.9462955175597383,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+            "commentatorTierSimilarities": [
+                18.08,
+                38.74,
+                43.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a moment, in the twinkling of an eye, the last trumpet will sound, and there will be a sudden and instantaneous change. This change will be so quick, it will be done in a trice, before a man can shut his eyes and open them again. It will be an amazing work of omnipotence, as the same power that raised Christ from the dead will raise us and change us into saints. The trumpet shall sound audibly, and the dead will be called forth from their graves to be raised incorruptible.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.9564909387380562,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.39,
+            "commentatorTierSimilarities": [
+                18.08,
+                38.97,
+                42.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a moment, in the twinkling of an eye, when the last trumpet sounds, there will be a sudden and instantaneous change. This change will be so quick, it will be done before a man can shut his eyes and open them again. It will be an amazing work of omnipotence as the same power that raised Christ from the dead will raise us and change us into saints. The trumpet shall sound audibly, and the dead will be called forth from their graves to be raised incorruptible.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.9462955175597383,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+            "commentatorTierSimilarities": [
+                18.08,
+                38.74,
+                43.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

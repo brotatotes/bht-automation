@@ -1,0 +1,150 @@
+{
+    "timestamp": "12-19-2023 17:15:37",
+    "verseRef": "3 John 11",
+    "bestBHT": {
+        "bht": "Beloved, do not imitate evil but imitate good. The one who does good is born of God, while the one who does evil has not truly experienced God. The word imitate in Greek carries the meaning of both an actor and a prose drama that portrays life and character. So, do not follow that which is evil, as seen in the actions of Diotrephes, but rather strive to imitate that which is good, which is exemplified in Demetrius.",
+        "wordCount": 78,
+        "quoteTokenProportion": 46.81,
+        "qualityScore": 2.3570004092223322,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.71,
+        "commentatorTierSimilarities": [
+            31.92,
+            35.56,
+            32.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Beloved, imitate not evil, but good.\" ",
+            "He that doeth good is from God, he that doeth evil hath not seen God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "follow",
+            "\tnot that which is evil",
+            "\t\u2014 as manifested in Diotrephes ( :-,",
+            "\t :-).",
+            "but",
+            "\t... good",
+            "\t\u2014 as manifested in Demetrius ( :-).",
+            "is",
+            "\tof God",
+            "\t\u2014 is born of God, who is good.",
+            "hath",
+            "\tnot seen God",
+            "\t\u2014 spiritually, not literally."
+        ],
+        "Albert Barnes": [
+            "Beloved, follow not that which is evil, but that which is good.",
+            "He that doeth good is of God.",
+            "He that doeth evil hath not seen God."
+        ],
+        "Marvin Vincent": [
+            "Follow [\u03bc\u03b9\u03bc\u03bf\u03c5]... imitate.\" ",
+            "Mimov means both an actor and a kind of prose drama, intended as a familiar representation of life and character, and without any distinct plot.",
+            "That which is evil - that which is good [\u03c4\u03bf \u03ba\u03b1\u03ba\u03bf\u03bd - \u03c4\u03bf \u03b1\u03b3\u03b1\u03b8\u03bf\u03bd]."
+        ],
+        "Philip Schaff": [
+            "Beloved, imitate not that which is evil, but that which is good: this is characteristic of St. John, to trace all conduct to its highest source.\" ",
+            "The good to be imitated has its example in Demetrius, whose report had reached St. John... for the truth of the Gospel reflected in his character is before yourself.",
+            "These men stand here as individuals, to whom the apostle gave his testimony, not only from the evidence of their works, but also from his sure discernment of their character."
+        ],
+        "Archibald T. Robertson": [
+            "Imitate not (\u03bc\u03b7 \u03bc\u03b9\u03bc\u03bf\u03c5).",
+            "That which is evil (\u03c4\u03bf \u03ba\u03b1\u03ba\u03bf\u03bd).",
+            "He that doeth good (\u03bf \u03b1\u03b3\u03b1\u03b8\u03bf\u03c0\u03bf\u03b9\u03c9\u03bd)."
+        ],
+        "John Gill": [
+            "Follow not evil in general...as well as pernicious in its consequences; and particularly follow not...the particular evil or evils in Diotrephes...",
+            "Follow and imitate that [which is good], be a follower of God, imitate Him in acts of kindness and beneficence...",
+            "He is a child of God...he has the grace of God, and strength from Christ, and the assistance of the Spirit, without either of which he could not do that which is good..."
+        ],
+        "John Wesley": [
+            "Follow not that which is evil \u2014 In Diotrephes.",
+            "But that which is good \u2014 In Demetrius.",
+            "He hath not seen God \u2014 Is a stranger to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beloved, do not imitate evil but imitate good. The one who does good is born of God, while the one who does evil has not truly experienced God. The word imitate in Greek carries the meaning of both an actor and a prose drama that portrays life and character. So, do not follow that which is evil, as seen in the actions of Diotrephes, but rather strive to imitate that which is good, which is exemplified in Demetrius. Following good and avoiding evil is characteristic of St. John's teachings, as he traces all conduct back to its highest source. Demetrius serves as an example of the truth of the Gospel reflected in his character. Let it be known that St. John gives his testimony not only based on the evidence of their works but also through his discernment of their character.",
+            "wordCount": 142,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 2.137604104026266,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.42,
+            "commentatorTierSimilarities": [
+                27.39,
+                41.31,
+                31.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beloved, imitate not evil, but good. He that doeth good is from God, he that doeth evil hath not seen God. Follow not that which is evil, as manifested in Diotrephes, but instead follow that which is good, as exhibited in Demetrius. The word imitate means not only to mimic, but also portrays life and character. St. John, as characteristic of his teachings, directs us to trace all conduct to its highest source. Demetrius serves as a reflection of the truth of the Gospel in his character, as witnessed by St. John.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.2211043228904077,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.19,
+            "commentatorTierSimilarities": [
+                28.08,
+                40.88,
+                31.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beloved, do not imitate evil but imitate good. The one who does good is born of God, while the one who does evil has not truly experienced God. The word imitate in Greek carries the meaning of both an actor and a prose drama that portrays life and character. So, do not follow that which is evil, as seen in the actions of Diotrephes, but rather strive to imitate that which is good, which is exemplified in Demetrius.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 2.3570004092223322,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.71,
+            "commentatorTierSimilarities": [
+                31.92,
+                35.56,
+                32.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beloved, imitate not evil, but good. He that doeth good is from God, he that doeth evil hath not seen God. Follow not that which is evil, as manifested in Diotrephes, but instead follow that which is good, as exhibited in Demetrius. The word imitate means not only to mimic, but also portrays life and character. St. John, as characteristic of his teachings, directs us to trace all conduct to its highest source. Demetrius serves as a reflection of the truth of the Gospel in his character, as witnessed by St. John.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.2211043228904077,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.19,
+            "commentatorTierSimilarities": [
+                28.08,
+                40.88,
+                31.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beloved, imitate not evil, but good. He that doeth good is from God, he that doeth evil hath not seen God. Do not follow that which is evil, as manifested in Diotrephes, but instead follow that which is good, as exhibited in Demetrius. St. John teaches us to trace all conduct to its highest source. Demetrius serves as a reflection of the truth of the Gospel in his character, witnessed by St. John. Let us strive to imitate the good and shun the evil in our lives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.3220021541365132,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.55,
+            "commentatorTierSimilarities": [
+                28.97,
+                39.58,
+                31.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

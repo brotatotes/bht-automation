@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:16:33",
+    "verseRef": "Luke 8:13",
+    "bestBHT": {
+        "bht": "These new believers initially show sincerity in their faith and make a genuine start in their spiritual journey. However, their faith tends to be superficial and emotional, lacking a deep-rooted commitment. It is surprising how often these individuals stumble and fall away, as the season of trial becomes a season of temptation for them. Their faith remains on the surface, only residing in their heads, without true conviction in their hearts. Without a solid foundation, they struggle to withstand affliction and persecution, ultimately drifting away from the fold.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.4690823566501183,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.19,
+        "commentatorTierSimilarities": [
+            38.11,
+            0.0,
+            61.89
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "For awhile believe.",
+            "In time of temptation.",
+            "Fall away."
+        ],
+        "Archibald T. Robertson": [
+            "Ostensibly they are sincere and have made a real start in the life of faith.",
+            "It is positively amazing the number of new church members who 'stumble' as Mark 4:17 has it.",
+            "The 'season of trial' becomes a 'season of temptation' for these superficial, emotional people who have to be periodically rounded up if kept within the fold."
+        ],
+        "John Gill": [
+            "This sort of hearers receive not the word into their hearts, or with their hearts believe it, and from their hearts obey it, only into their heads; and have only, an historical faith of it; nor with hearty, spiritual, solid joy, or joy in the Holy Ghost: for their hearts remain like a rock, unbroken by the word",
+            "their faith is a temporary one... when they are gone, either forget it, or, falling into bad company, are prevailed upon to doubt of it, and disbelieve it.",
+            "By 'the time of temptation', is not meant any particular and sore temptation of Satan, but a time of affliction and persecution... when those who have not the root of the matter in them, fall away."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many new church members start off with seemingly sincere faith, showing great promise in their spiritual journey. However, as time goes on and they face trials and temptations, their faith becomes shallow and easily swayed. They fail to truly receive the word into their hearts and instead have a mere intellectual understanding of it. Their faith is temporary and fleeting, easily forgotten or discarded when faced with doubts or negative influences. It is crucial to recognize that the time of temptation mentioned is not a specific intense test but rather a general period of affliction and persecution. Without a deep-rooted faith, these individuals fall away and need constant guidance and reminders to stay within the fold of believers.",
+            "wordCount": 119,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.4828844411560438,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.65,
+            "commentatorTierSimilarities": [
+                34.35,
+                0.0,
+                65.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "While many new church members appear sincere and committed initially, their faith often proves to be shallow and easily compromised. They receive the word with their heads rather than their hearts, lacking a true and lasting belief. As they encounter trials and temptations, doubts begin to overshadow their fragile faith, leading them astray. This season of trial becomes a season of temptation for these individuals who lack a solid foundation. Such temporary faith easily crumbles, emphasizing the need for continued guidance and support to prevent them from falling away.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3934094983140932,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.67,
+            "commentatorTierSimilarities": [
+                37.92,
+                0.0,
+                62.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many new church members appear sincere and wholeheartedly embrace their faith. However, when faced with trials and temptations, their superficial, emotional trust in God falters. It is astonishing how easily they stumble and drift away from the fold of believers. Their faith is shallow, merely residing in their minds rather than their hearts. They only have a temporary, historical belief, lacking spiritual depth and solid joy. Consequently, unless guided and reminded, they fall away during times of affliction and persecution.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.3824945578200818,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.31,
+            "commentatorTierSimilarities": [
+                36.24,
+                0.0,
+                63.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These new believers initially show sincerity in their faith and make a genuine start in their spiritual journey. However, their faith tends to be superficial and emotional, lacking a deep-rooted commitment. It is surprising how often these individuals stumble and fall away, as the season of trial becomes a season of temptation for them. Their faith remains on the surface, only residing in their heads, without true conviction in their hearts. Without a solid foundation, they struggle to withstand affliction and persecution, ultimately drifting away from the fold.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4690823566501183,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.19,
+            "commentatorTierSimilarities": [
+                38.11,
+                0.0,
+                61.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Initially appearing sincere, many new church members make a genuine start in their faith journey. However, their faith often remains superficial and emotional, lacking a deep-rooted commitment. It is astounding to witness how frequently these individuals stumble and fall away. The season of trial becomes a season of temptation for these believers, as their faith resides primarily in their minds rather than their hearts. Without a solid foundation, they struggle to withstand affliction and persecution, requiring constant guidance to remain within the fold.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.44042800335578,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                41.77,
+                0.0,
+                58.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

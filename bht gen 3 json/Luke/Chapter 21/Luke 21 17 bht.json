@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:22:29",
+    "verseRef": "Luke 21:17",
+    "bestBHT": {
+        "bht": "In Luke 21:17, Jesus reassures his disciples that despite the persecution they will face, not a hair on their heads will be harmed. This promise of physical preservation is unique to Luke, emphasizing the spiritual safety that Paul later claims in Philippians 1:21. It is a promise of God's protection and an assurance of the disciples' ultimate victory, even in the face of hatred from all men.",
+        "wordCount": 66,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 1.2608781190140335,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.27,
+        "commentatorTierSimilarities": [
+            59.09,
+            0.0,
+            40.91
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Not a hair of your head shall perish (\u03b8\u03c1\u03b9\u03be \u03b5\u03ba \u03c4\u03b7\u03c2 \u03ba\u03b5\u03c6\u03b1\u03bb\u03b7\u03c2 \u03c5\u03bc\u03c9\u03bd \u03bf\u03c5 \u03bc\u03b7 \u03b1\u03c0\u03bf\u03bb\u03b7\u03c4\u03b1).\" ",
+            "Only in Luke. Second aorist middle subjunctive of \u03b1\u03c0\u03bf\u03bb\u03bb\u03c5\u03bc with \u03bf\u03c5 \u03bc\u03b7 (double negative).\" ",
+            "Hence it is spiritual safety here promised such as Paul claimed about death in Philippians 1:21."
+        ],
+        "John Gill": [
+            "And ye shall be hated of all men,....",
+            " :-.",
+            " :-."
+        ],
+        "John Wesley": [
+            "Matthew 24:13; Mark 13:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 21:17, Jesus reassures his disciples that despite the persecution they will face, not a hair on their heads will be harmed. This promise of physical preservation is unique to Luke, emphasizing the spiritual safety that Paul later claims in Philippians 1:21. It is a promise of God's protection and an assurance of the disciples' ultimate victory, even in the face of hatred from all men.",
+            "wordCount": 66,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.2608781190140335,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.27,
+            "commentatorTierSimilarities": [
+                59.09,
+                0.0,
+                40.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus comforts his disciples in the midst of persecution, assuring them that not a single strand of hair on their heads will come to harm. This unique promise in Luke is a declaration of the disciples' spiritual safety and echoes Paul's claim in Philippians 1:21 about the assurance of victory even in the face of death. It serves as a reminder of God's faithful protection and the disciples' ultimate triumph, despite the hatred they will encounter from all men.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.2168557026351736,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.8,
+            "commentatorTierSimilarities": [
+                56.19,
+                0.0,
+                43.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The promise made by Jesus in Luke is a comforting reassurance to his disciples that despite the persecution they will face, not a hair on their heads will be harmed. This unique promise illustrates the spiritual safety that Paul later affirms in Philippians 1:21, emphasizing the disciples' protection and victory even in the midst of hostility from all men. It serves to remind believers of God's unwavering shield and the ultimate triumph that awaits them.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.1575688421508372,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.83,
+            "commentatorTierSimilarities": [
+                60.31,
+                0.0,
+                39.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus offers solace to his followers, ensuring them that they will remain unharmed even in the face of persecution and opposition. The distinctive promise found in Luke reveals a spiritual safeguard, akin to Paul's confidence in Philippians 1:21 concerning the preservation of life. This assurance is a reminder of God's unwavering commitment to protect His people, granting them ultimate victory over adversity, despite the hostility that may arise from others.",
+            "wordCount": 71,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 0.955566550109566,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.12,
+            "commentatorTierSimilarities": [
+                56.79,
+                0.0,
+                43.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite the hardships and animosity they will encounter, Jesus assures his disciples that they will be unscathed. This pledge of physical preservation, unique to Luke, emphasizes the spiritual security that Paul later speaks of in Philippians 1:21. It stands as a promise of divine protection and serves as a reminder that, even in the face of hatred from all sides, the disciples will prevail.",
+            "wordCount": 63,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.0376295800064825,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.85,
+            "commentatorTierSimilarities": [
+                58.79,
+                0.0,
+                41.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

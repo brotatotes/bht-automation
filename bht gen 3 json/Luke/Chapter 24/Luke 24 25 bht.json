@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:24:16",
+    "verseRef": "Luke 24:25",
+    "bestBHT": {
+        "bht": "Christ reproached His disciples for their lack of understanding and slow hearts in believing the prophecies about His suffering and resurrection. They were thoughtless and did not properly attend to the evidence that He must die and rise again. Despite His clear predictions and teachings, they remained dull of perception, influenced by their own prejudices and ignorance of the Scriptures. Christ aimed to awaken and teach them, as those who are slow to believe the Old Testament prophecies have difficulty discovering their Messianic meaning.",
+        "wordCount": 84,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 2.2171754160239177,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.06,
+        "commentatorTierSimilarities": [
+            21.15,
+            40.46,
+            38.39
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word rendered fools is more properly without understanding.",
+            "Slow of heart, i.e. sluggish\u2014in disposition\u2014to believe.",
+            "These were both shown in their not having apprehended, from the fulfilment of the sufferings and death of Christ, the sequel of that death, the resurrection."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "25-27. fools\u2014senseless,",
+            "\twithout understanding."
+        ],
+        "Albert Barnes": [
+            "He reproached them for not seeing what he had himself so clearly predicted, and what had been foretold by the prophets.",
+            "The word used in the original does not imply as much 'reproach' as the word 'fool' does among us. It was not an expression of 'contempt;' it was an expression denoting merely that they were 'thoughtless,' and that they did not properly 'attend to' the evidence that he must die and rise again.",
+            "Slow of heart to believe - Not quick to perceive. Dull of learning. They had suffered their previous opinions and prejudices to prevent their seeing the evidence that he must die and rise from the dead."
+        ],
+        "Marvin Vincent": [
+            "The word fools here is compounded of \u03b1\u03bd\u03bf\u03b7\u03c4\u03bf\u03b9, not, and \u03bd\u03bf\u03b5\u03c9, which implies, besides seeing, perception of the mind as consequent upon sight. It is therefore equivalent to dull of perception.\" ",
+            "While this rebuke relates to the understanding, the following one, slow of heart, goes deeper, and contemplates the region of feeling and moral susceptibility.",
+            "Your heart is dull and slow to respond to these testimonies of your own prophets."
+        ],
+        "John Calvin": [
+            "So frequently had Christ forewarned them of his death \u2014 so frequently had he even discoursed about a new and spiritual life, and confirmed his doctrine by the inspired statements of the prophets \u2014 that he would seem to have spoken to the deaf, or rather to blocks and stones.",
+            "Nor does he only reprove them because, while they had the best Teacher, they were dull and slow to learn, but because they had not attended to the instructions of the Prophets.",
+            "But let us observe that Christ, perceiving that his disciples are excessively sluggish; commences with reproof, in order to arouse them; for this is the way in which we must subdue those whom we have found to be hardened or indolent."
+        ],
+        "Philip Schaff": [
+            "He answers, not in a tone of pity, but of rebuke, as one competent to teach them.",
+            "O foolish men, without understanding, unreceptive intellectually, and slow of heart, sluggish in the entire disposition.",
+            "Those slow to believe the Old Testament prophecies as a whole have been least apt to discover their Messianic meaning."
+        ],
+        "Archibald T. Robertson": [
+            "Foolish men. Literally without sense, not understanding.",
+            "Slow of heart. Slow in heart.",
+            "All that. They could only understand part of the prophecies, not all."
+        ],
+        "John Gill": [
+            "O fools; not in a natural sense, as if they were destitute of the common understanding of men; nor in a moral sense, as wicked men, and as they themselves had been in their unregenerate estate; nor in a way of anger and contempt, and with a design to provoke...",
+            "...they were so void of understanding in the Scriptures, and were so very ignorant of them, and were so blind as to the knowledge of them; particularly those which concerned the sufferings and resurrection of the Messiah, being influenced by the popular prejudices of education...",
+            "...they were very slow of heart to believe, not only what the women reported from the angels, but even those of their brethren, who had seen him after he was risen..."
+        ],
+        "John Wesley": [
+            "O foolish \u2014 Not understanding the designs and works of God: And slow of heart - Unready to believe what the prophets have so largely spoken."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You were foolish and without understanding, slow of heart to believe the prophecies that Christ Himself had spoken and that were confirmed by the inspired statements of the prophets. Even though Christ had forewarned you of His death and taught you about a new and spiritual life, you seemed to have been deaf to His words. He reproached you, not with contempt, but with the intention to awaken and teach you. You were so void of understanding in the Scriptures that you were blind to the prophecies concerning the sufferings and resurrection of the Messiah. Your hearts were slow to believe, influenced by your own prejudices and ignorance.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.021091650650386,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.54,
+            "commentatorTierSimilarities": [
+                23.45,
+                36.45,
+                40.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You were foolish and without understanding, slow of heart to believe the prophecies that Christ Himself had spoken and that were confirmed by the inspired statements of the prophets. Even though Christ had forewarned you of His death and taught you about a new and spiritual life, you seemed to have been deaf to His words. He reproached you for being void of understanding in the Scriptures, blind to the prophecies concerning the sufferings and resurrection of the Messiah.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.1460449020590793,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.7,
+            "commentatorTierSimilarities": [
+                21.06,
+                36.07,
+                42.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ reproached His disciples for their lack of understanding and slow hearts in believing the prophecies about His suffering and resurrection. They were thoughtless and did not properly attend to the evidence that He must die and rise again. Despite His clear predictions and teachings, they remained dull of perception, influenced by their own prejudices and ignorant of the Scriptures. Christ aimed to awaken and teach them, as those who are slow to believe the Old Testament prophecies have difficulty discovering their Messianic meaning.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.213970756436764,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.96,
+            "commentatorTierSimilarities": [
+                21.05,
+                40.48,
+                38.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ reproached His disciples for their lack of understanding and slow hearts in believing the prophecies about His suffering and resurrection. They were thoughtless and did not properly attend to the evidence that He must die and rise again. Despite His clear predictions and teachings, they remained dull of perception, influenced by their own prejudices and ignorance of the Scriptures. Christ aimed to awaken and teach them, as those who are slow to believe the Old Testament prophecies have difficulty discovering their Messianic meaning.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.2171754160239177,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.06,
+            "commentatorTierSimilarities": [
+                21.15,
+                40.46,
+                38.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ reproached His disciples for their lack of understanding and slow hearts in believing the prophecies about His suffering and resurrection. They were thoughtless and did not properly attend to the evidence that He must die and rise again. Despite His clear predictions and teachings, they remained dull of perception, influenced by their own prejudices and ignorance of the Scriptures. Christ aimed to awaken and teach them, as those who are slow to believe the Old Testament prophecies have difficulty discovering their Messianic meaning.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.2171754160239177,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.06,
+            "commentatorTierSimilarities": [
+                21.15,
+                40.46,
+                38.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

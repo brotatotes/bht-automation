@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:16:52",
+    "verseRef": "Luke 8:54",
+    "bestBHT": {
+        "bht": "When Jesus arrived at the house, he made it plain to all by uttering the Aramaic words Talitha cumi that the girl would rise in response to his elevated tone of voice. Regardless of whether she was truly dead or in a trance, the touch of Christ's hand and the power of his voice restored her to life. In the Syriac language, Jesus called out, saying Maid, arise, as mentioned in Mark.",
+        "wordCount": 73,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.598411106503131,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.49,
+        "commentatorTierSimilarities": [
+            50.16,
+            17.05,
+            32.79
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "54.] Mark gives the actual Aramaic words uttered by the Lord, \u201cTalitha cumi.\u201d"
+        ],
+        "Marvin Vincent": [
+            "Maid [\u03b7 \u03c0\u03b1\u03b9\u03c2] . Instead of the unclassical korasion, damsel, of Matthew and Mark. ===Luke 9:0 ",
+            "CHAPTER IX ",
+            "- 6. Compare Matthew 10:1, Matthew 10:7, Matthew 10:9-11, Matthew 10:14; Mark 6:7-13."
+        ],
+        "Philip Schaff": [
+            "'He put them all out' is to be omitted.",
+            "Luke has already told of the separation within the house.",
+            "While Mark, who had told how the crowd outside was prevented from entering, properly adds this."
+        ],
+        "Archibald T. Robertson": [
+            "Called (\u03b5\u03c6\u03c9\u03bd\u03b7\u03c3\u03b5\u03bd). Certainly not to wake up the dead, but to make it plain to all that she rose in response to his elevated tone of voice.",
+            "Some think that the remark of Jesus in verse Luke 8:52 (Mark 5:39; Matthew 9:24) proves that she was not really dead, but only in a trance. It matters little.",
+            "The touch of Christ's hand and the power of his voice restored her to life."
+        ],
+        "John Gill": [
+            "And he put them all out... all excepting the parents of the child.\" ",
+            "and took hereby the hand, and called, saying; in the Syriac language, 'Talitha cumi', as in Mark 5:41",
+            "Maid, arise"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus arrived at the house, he made it clear that the young girl would rise in response to his voice. Some suggest that the remark in verse Luke 8:52 is proof that she was not really dead, but it matters little. The touch of Christ's hand and the power of his voice restored her to life. He called out, saying Talitha cumi, which means Maid, arise in the Syriac language, as mentioned in Mark 5:41.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.586886780784041,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                47.46,
+                23.59,
+                28.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus arrived, he uttered the Aramaic words Talitha cumi, clearly demonstrating that the girl would rise in response to his voice. Some believe that her revival might indicate she was never truly dead, but the important fact is that the touch of Christ's hand and the power of his voice brought her back to life. The phrase Talitha cumi meant Maid, arise in the Syriac language, as mentioned in another Gospel.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5196853952231524,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                55.55,
+                15.29,
+                29.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus arrived at the house, he made it plain to all by uttering the Aramaic words Talitha cumi that the girl would rise in response to his elevated tone of voice. Regardless of whether she was truly dead or in a trance, the touch of Christ's hand and the power of his voice restored her to life. In the Syriac language, Jesus called out, saying Maid, arise, as mentioned in Mark.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.598411106503131,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.49,
+            "commentatorTierSimilarities": [
+                50.16,
+                17.05,
+                32.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon arriving at the house, Jesus spoke the Aramaic phrase Talitha cumi, making it evident to everyone present that the girl would rise in response to his voice. There is some debate regarding whether the girl was truly dead or merely in a trance, but ultimately, it is inconsequential. What truly matters is that through the touch of Christ's hand and the power of his voice, she was restored to life. In Mark's Gospel, it is mentioned that Jesus called out, saying Maid, arise.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.463554165891747,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.01,
+            "commentatorTierSimilarities": [
+                50.79,
+                21.93,
+                27.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus arrived at the house and spoke the Aramaic words Talitha cumi, emphasizing that the girl would rise in response to his voice. Although there is some debate about whether she was truly dead or in a trance, it is insignificant. What matters is that through Christ's touch and commanding voice, she was restored to life. This is confirmed by the mention in another Gospel that Jesus called out, saying Maid, arise.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.4135446726180625,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.34,
+            "commentatorTierSimilarities": [
+                52.56,
+                19.73,
+                27.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

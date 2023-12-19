@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:29:34",
+    "verseRef": "1 Timothy 6:6",
+    "bestBHT": {
+        "bht": "Godliness with contentment is great gain, as piety joined with contentment is the means of gain. It is not merely contentment that is great gain, but the present and eternal gain that piety, with its accompaniment of contentment, secures to the soul. True happiness lies in piety, which feels no need of what it lacks and exalts it above worldly possessions. This attitude of mind, accompanied by contentment, is Paul's conception of 'great gain' and it brings unspeakable profit in both time and eternity.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 2.8426373222107504,
+        "qualityScoreNormalizedComparedToV2BHTs": 85.86,
+        "commentatorTierSimilarities": [
+            36.33,
+            30.14,
+            33.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is a sense in which such an idea is true, for godliness accompanied with contentment is great gain.",
+            "The [means of] gain is in the very fact of possessing piety joined with contentment.",
+            "Being able to dispense with those things which we cannot carry away with us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Piety is not merely gain, but great means of gain: not the gaining which they pursue, and which makes men to be discontented with their present possessions, and to use religion as 'a cloak of covetousness' and means of earthly gain, but the present and eternal gain which piety, whose accompaniment is contentment, secures to the soul.",
+            "Not merely contentment is great gain, but 'piety with contentment'; for piety not only feels no need of what it has not, but also has that which exalts it above what it has not.",
+            "The Lord always supplies His people with what is necessary for them. True happiness lies in piety, but this sufficiency [supplied by God, with which moreover His people are content] is thrown into the scale as a kind of overweight."
+        ],
+        "Albert Barnes": [
+            "Real religion should be regarded as the greatest and most valuable acquisition.",
+            "Piety, connected with a contented mind... is to be regarded as the real gain.",
+            "The true gain, the real riches which we ought to seek, is religion, with a contented mind."
+        ],
+        "Marvin Vincent": [
+            "Aujtarkeia is an inward self-sufficiency, as opposed to the lack or the desire of outward things.",
+            "It was a favorite Stoic word, expressing the doctrine of that sect that a man should be sufficient unto himself for all things, and able, by the power of his own will, to resist the force of circumstances.",
+            "In Ps. of Song of Solomon 5:18, we read : 'Blessed is the man whom God remembereth with a sufficiency convenient for him'; that is, with a sufficiency proportioned to his needs."
+        ],
+        "John Calvin": [
+            "They do wrong and wickedly, who make merchandise of the doctrine of Christ...\" ",
+            "Godliness is a very great gain to us, because, by means of it, we obtain the benefit, not only of being heirs of the world, but likewise of enjoying Christ and all his riches.",
+            "True happiness consists in piety; and this sufficiency may be regarded as an increase of gain."
+        ],
+        "Philip Schaff": [
+            "Godliness with contentment...is the best business, the best investment.",
+            "In the highest sense, 'religion' with contentment is the best business, the best investment.",
+            "'Contentment' is the state of one who, being truly wise, was sufficient to himself, whatever might be the outward circumstances."
+        ],
+        "Archibald T. Robertson": [
+            "With contentment, this attitude of mind is Paul's conception of 'great gain.'",
+            "With contentment, this attitude of mind is Paul's conception of 'great gain.'",
+            "With contentment, this attitude of mind is Paul's conception of 'great gain.'"
+        ],
+        "John Gill": [
+            "A man possessed of true godliness is a gaining, thriving, man: such as are godly, or truly gracious, they are come into good and happy circumstances, and are possessor of the true, solid, satisfying, durable, and unsearchable riches of grace.",
+            "And what adds to this gain, and now goes along with it, is 'contentment'; for this is not to be considered as the condition of godliness being great gain...but as the effect of godliness, what that produces, and as a part of its gain.",
+            "Such a man is content with what he has, and thankful for it, submits quietly to the will of God, and patiently bears every adverse providence: and this is now the fruit and effect of godliness, or true grace, and is a considerable part of that gain which godliness brings with it."
+        ],
+        "John Wesley": [
+            "But godliness with content \u2014 The inseparable companion of true, vital religion.",
+            "Is great gain \u2014 Brings unspeakable profit in time, as well as eternity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There is a sense in which godliness with contentment is great gain, for it is not merely contentment that is great gain, but 'piety with contentment', as piety not only feels no need of what it doesn't have, but also has that which exalts it above what it doesn't have. True happiness lies in piety, and this attitude of mind, accompanied by contentment, is Paul's conception of 'great gain'. It is the best and most valuable acquisition, the real riches we ought to seek, and it brings unspeakable profit in both time and eternity.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.76137773915553,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.15,
+            "commentatorTierSimilarities": [
+                34.11,
+                33.06,
+                32.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There is a sense in which godliness with contentment is great gain, for godliness accompanied with contentment is great gain. Piety, joined with contentment, is the means of gain and a kind of overweight that exalts it above what it doesn't have. True happiness lies in piety, and this attitude of mind, accompanied by contentment, is Paul's conception of 'great gain'. It is the best and most valuable acquisition, the real riches we ought to seek, and it brings unspeakable profit in both time and eternity.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.8402952131902595,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.78,
+            "commentatorTierSimilarities": [
+                34.68,
+                33.09,
+                32.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Godliness with contentment is great gain, as piety joined with contentment is the means of gain. It is not merely contentment that is great gain, but the present and eternal gain that piety, with its accompaniment of contentment, secures to the soul. True happiness lies in piety, which feels no need of what it lacks and exalts it above worldly possessions. This attitude of mind, accompanied by contentment, is Paul's conception of 'great gain' and it brings unspeakable profit in both time and eternity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.8426373222107504,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.86,
+            "commentatorTierSimilarities": [
+                36.33,
+                30.14,
+                33.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There is a sense in which godliness with contentment is great gain, for piety accompanied by contentment is a means of gaining true happiness. The Lord always supplies His people with what is necessary for them, and this sufficiency, with which His people are content, adds to the weight of the gain. It is not simply contentment that is great gain, but the combination of piety and contentment. This attitude of mind, accompanied by contentment, is Paul's conception of 'great gain', which brings unspeakable profit in both time and eternity.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.7352608315963387,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.29,
+            "commentatorTierSimilarities": [
+                36.18,
+                30.1,
+                33.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Godliness with contentment is great gain, as piety with contentment is the true means of gain. True happiness lies in piety, accompanied by contentment, which exalts one above the desire for worldly possessions. The Lord supplies the necessary sufficiency to His people, and being content with what one has is a significant part of the gain that godliness brings. This attitude of mind, paired with contentment, is Paul's concept of 'great gain', which brings immeasurable profit in both the present and the eternal.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.8222349136249383,
+            "qualityScoreNormalizedComparedToV2BHTs": 85.18,
+            "commentatorTierSimilarities": [
+                35.71,
+                30.81,
+                33.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

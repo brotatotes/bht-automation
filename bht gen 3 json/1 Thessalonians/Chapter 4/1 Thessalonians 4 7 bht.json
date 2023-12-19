@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 13:59:37",
+    "verseRef": "1 Thessalonians 4:7",
+    "bestBHT": {
+        "bht": "God's call for us as Christians is to embrace a life of holiness and separate ourselves from the impurity of the world. Sanctification is the very essence of our Christian existence. This call is not about living lives of impurity, but rather lives marked by holiness. It is imperative for us to understand and embody this calling, especially in a world that promotes immorality. We must strive to live decent and chaste lives that align with God's purposes, as this is how we walk worthy of our divine calling.",
+        "wordCount": 91,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 2.1259059399585136,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.03,
+        "commentatorTierSimilarities": [
+            35.89,
+            34.73,
+            29.38
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is no mention here of avarice: nor is it possible to understand the word uncleanness, when ver. 3 has gone before, of anything but carnal impurity.",
+            "Sanctification is the whole sphere of our Christian life.",
+            "Sanctification is the whole sphere of our Christian life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "in a sphere of holiness",
+            "Saint is another name for Christian",
+            "holiness is the element in which our calling has place"
+        ],
+        "Albert Barnes": [
+            "For God hath not called us unto uncleanness... it was not that we should lead lives of impurity, but of holiness.\" ",
+            "We should, therefore, fulfil the purposes for which we were called into his kingdom.\" ",
+            "The word 'uncleanness' (\u03b1\u0313\u03ba\u03b1\u03b8\u03b1\u03c1\u03c3\u03b9\u0301\u03b1 akatharsia), means, properly, 'impurity, filth;' and then, in a moral sense, 'pollution, lewdness,' as opposed to chastity."
+        ],
+        "Marvin Vincent": [
+            "The intention is viewed as the basis of the act.",
+            "Sanctification is the characteristic life-element of the Christian.",
+            "In sanctification, the Christian is to live."
+        ],
+        "John Calvin": [
+            "For after having discoursed as to the correcting of the vices of the flesh, he proves, from the end of our calling, that God desires this.",
+            "He proves by contraries, because he rescues us, and calls us back, from unchastity.",
+            "Such persons must not be taught, but must be beaten with severe reproofs as with the stroke of a hammer."
+        ],
+        "Philip Schaff": [
+            "For God called us not onto uncleanness.\" ",
+            "If we profess to be responding to God\u2019s call, let us clearly understand what it is; what we must abandon, and what we must seek.",
+            "It is a call from one moral condition to another."
+        ],
+        "Archibald T. Robertson": [
+            "God has 'called' us all for a decent sex life consonant with his aims and purposes.",
+            "It was necessary for Paul to place this lofty ideal before the Thessalonian Christians living in a pagan world.",
+            "It is equally important now."
+        ],
+        "John Gill": [
+            "This is another reason to enforce the above exhortations, and to caution them against the above unclean practices, taken from the end of the effectual calling by the efficacious grace of God, which is not unto uncleanness of any sort.",
+            "But this call is unto holiness of life and conversation in general, and to chastity in thought, look, word, and actions in particular.",
+            "The end of their calling is to live soberly, righteously, and godly; and then, and then only, do they walk worthy of that calling wherewith they are called, and of God who has, by his grace, called them to his kingdom and glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's intention for us as Christians is to live in a sphere of holiness, completely separate from the impurity and immorality of the world. Sanctification, which is the characteristic life-element of the Christian, encompasses our whole Christian life. It is essential for us to grasp the significance of this calling, as it was necessary for Paul to emphasize to the Thessalonians living in a pagan society. God desires for us to have a decent and chaste lifestyle that aligns with His purposes. This call is not about leading lives of impurity, but rather lives dedicated to holiness. Through His grace, God has called us to His kingdom and glory, and it is of utmost importance that we walk worthy of this calling.",
+            "wordCount": 124,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 2.0752259217748295,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.34,
+            "commentatorTierSimilarities": [
+                36.25,
+                33.68,
+                30.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's intention for us as Christians is to live in a sphere of holiness, completely separate from the impurity of the world. Sanctification is the characteristic life-element of the Christian, encompassing our whole Christian life. It was necessary for Paul to emphasize this lofty ideal to the Thessalonians living in a pagan world. God desires a decent and chaste lifestyle from us as Christians, consonant with His aims and purposes. Through His calling, He has invited us to live in a way that reflects His holiness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.0594230554087667,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                41.83,
+                31.25,
+                26.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God has called us as Christians to live in a sphere of holiness, separate from the impurity of the world. Sanctification is the defining element of our Christian life. Paul emphasizes this ideal to the Thessalonian Christians, who were living in a pagan society. God's call is for us to have a decent and chaste lifestyle, in alignment with His purposes. It is crucial for us to understand this calling and walk worthy of it, as it is equally important now as it was then.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9981016891184185,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+            "commentatorTierSimilarities": [
+                41.85,
+                32.78,
+                25.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's call to us as Christians is to live in a sphere of holiness, separate from the impurity of the world. Sanctification is the defining characteristic of our Christian life. It is crucial for us to understand and fulfill this calling, especially in a pagan society. God desires a decent and chaste lifestyle from us, consistent with His aims and purposes. Let us respond to His call by living in a manner that reflects His holiness and walking worthy of His kingdom and glory.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.0189037649755766,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.47,
+            "commentatorTierSimilarities": [
+                37.96,
+                33.35,
+                28.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's call for us as Christians is to embrace a life of holiness and separate ourselves from the impurity of the world. Sanctification is the very essence of our Christian existence. This call is not about living lives of impurity, but rather lives marked by holiness. It is imperative for us to understand and embody this calling, especially in a world that promotes immorality. We must strive to live decent and chaste lives that align with God's purposes, as this is how we walk worthy of our divine calling.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.1259059399585136,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.03,
+            "commentatorTierSimilarities": [
+                35.89,
+                34.73,
+                29.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

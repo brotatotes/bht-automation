@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:18:47",
+    "verseRef": "2 Corinthians 12:9",
+    "bestBHT": {
+        "bht": "In response to Paul's plea for deliverance, God assures him that His grace is sufficient. The trial may endure, but so will the grace, never failing Paul. God's power is perfected in our weakness, making it more essential than our strength. Our weaknesses become an opportunity for Christ's power and grace to shine through us. Therefore, Paul gladly embraces his weaknesses, allowing the strength of Christ to rest upon him, so that the power of Christ may have its residence in him.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.3296579659692584,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.8,
+        "commentatorTierSimilarities": [
+            31.59,
+            33.41,
+            35.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He said, and that answer is enough: 'He hath said,'\u2014but this last would not contain reference enough to the fact itself.",
+            "My grace...is sufficient for thee...the trial must endure, untaken away: but the grace shall also endure, and never fail thee.",
+            "Most gladly therefore will I rather...boast in my infirmities, that...the power of Christ may have its residence in me."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The trial must endure, but the grace shall also endure and never fail thee.",
+            "Do not ask for sensible strength, FOR My power is perfected in man's 'strengthlessness.'",
+            "The Lord has more need of our weakness than of our strength: our strength is often His rival; our weakness, His servant, drawing on His resources, and showing forth His glory."
+        ],
+        "Albert Barnes": [
+            "It is one of the instances in which the fervent prayer of a good man, offered undoubtedly in faith, was not answered in the form in which he desired, though substantially answered in the assurance of grace sufficient to support him.",
+            "The grace that will be imparted if the calamity is not removed will be of greater value to the individual than would be the direct answer to his prayer.",
+            "The strength which I impart to my people is more commonly and more completely manifested when my people feel that they are weak."
+        ],
+        "Marvin Vincent": [
+            "The force of the perfect tense is to be insisted on. It shows that the affliction was still clinging to Paul, and that there was lying in his mind when he wrote, not only the memory of the incident, but the sense of the still abiding power and value of Christ's grace.\" ",
+            "A more beautiful use of the perfect it would be difficult to find in the New Testament.",
+            "The figure is that of Christ abiding upon him as a tent spread over him, during his temporary stay on earth."
+        ],
+        "John Calvin": [
+            "For my strength Our weakness may seem, as if it were an obstacle in the way of God\u2019s perfecting his strength in us. Paul does not merely deny this, but maintains, on the other hand, that it is only when our weakness becomes apparent, that God\u2019s strength is duly perfected.",
+            "The man that is ashamed of this glorying, shuts the door upon Christ\u2019s grace, and, in a manner, puts it away from him.",
+            "He adds most gladly, to show that he is influenced by such an eager desire for the grace of Christ, that he refuses nothing for the sake of obtaining it."
+        ],
+        "Philip Schaff": [
+            "My grace is sufficient for thee; for my strength is made perfect in weakness.\" ",
+            "Strength is made perfect in weakness.\" ",
+            "If this weakness of mine is only to add to my strength, bringing the strength of Christ as a glory down upon me, then, instead of wishing it away, I will glory in it."
+        ],
+        "Archibald T. Robertson": [
+            "Christ's grace suffices and abides.",
+            "The human weakness opens the way for more of Christ's power and grace.",
+            "Most gladly will I glory in my weaknesses."
+        ],
+        "John Gill": [
+            "my grace is sufficient for thee; the Lord always hears and answers his people sooner or later, in one form or another, though not always in the way and manner they desire; but yet in such a way as is most for his glory and their good",
+            "nothing short of the grace of Christ is sufficient grace; and this is sufficient for all the elect of God, Jews and Gentiles, Old and New Testament saints, the family in heaven and in earth, the people of God that are already called, and are to be called, and for the worst and vilest of sinners",
+            "the strength of Christ is made to appear, is illustrated and shines forth in its perfection and glory, in supplying, supporting, and strengthening his people under all their weakness; and if they were not left to some weaknesses in themselves, his strength would not be so manifest"
+        ],
+        "John Wesley": [
+            "My grace is sufficient for thee \u2014 How tender a repulse! We see there may be grace where there is the quickest sense of pain.",
+            "My strength is more illustriously displayed by the weakness of the instrument.",
+            "Therefore I will glory in my weaknesses rather than my revelations, that the strength of Christ may rest upon me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "God's response to Paul's plea for deliverance is simple yet profound: My grace...is sufficient for thee. The trial that Paul was enduring would not be taken away, but God's grace would endure and never fail him. It is in our weakness that Christ's power is perfected, for when we are weak, we become vessels for His strength and glory. Paul willingly boasted in his infirmities, knowing that his weaknesses opened the way for more of Christ's power and grace to be manifest in his life. Instead of seeking sensible strength, Paul embraced his weakness, recognizing that the strength of Christ is made perfect in weakness. Thus, he declared with gladness that he would glory in his weaknesses, for it is through them that the strength of Christ would rest upon him.",
+            "wordCount": 137,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 2.4387948824533625,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.43,
+            "commentatorTierSimilarities": [
+                30.49,
+                34.44,
+                35.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's response to Paul's plea for deliverance is simple yet profound: My grace...is sufficient for thee. The trial must endure, but the grace shall also endure and never fail thee. The Lord has more need of our weakness than of our strength, for our weakness becomes His servant, drawing on His resources and showing forth His glory. Paul willingly boasted in his infirmities, knowing that his weaknesses opened the way for more of Christ's power and grace to be manifest in his life.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.3445914006444246,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.3,
+            "commentatorTierSimilarities": [
+                33.65,
+                32.22,
+                34.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's response to Paul's plea for deliverance is simple yet profound: My grace...is sufficient for thee. The trial must endure, but the grace shall also endure and never fail thee. The Lord has more need of our weakness than of our strength, for our weakness becomes His servant, drawing on His resources and showing forth His glory. Paul willingly boasted in his infirmities, knowing that his weaknesses opened the way for more of Christ's power and grace to be manifest in his life.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.3445914006444246,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.3,
+            "commentatorTierSimilarities": [
+                33.65,
+                32.22,
+                34.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In response to Paul's plea for deliverance, God assures him that His grace is sufficient. The trial may endure, but so will the grace, never failing Paul. God's power is perfected in our weakness, making it more essential than our strength. Our weaknesses become an opportunity for Christ's power and grace to shine through us. Therefore, Paul gladly embraces his weaknesses, allowing the strength of Christ to rest upon him, so that the power of Christ may have its residence in him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.3296579659692584,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.8,
+            "commentatorTierSimilarities": [
+                31.59,
+                33.41,
+                35.0
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

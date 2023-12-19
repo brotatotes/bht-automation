@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:16:55",
+    "verseRef": "Luke 8:55",
+    "bestBHT": {
+        "bht": "The command to give her to eat after being restored to life indicates that her resurrection was not a mere paroxysm but a true raising from the dead. Her spirit immediately returned, and she was given food to eat to support her animate and mortal life. This account serves as a powerful proof of the immortality of the soul, demonstrating that it exists separately from the body after death and will be reunited with it in the resurrection. The fact that she arose and walked further confirms her restored and healthy state of being.",
+        "wordCount": 94,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.6485818500848335,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+        "commentatorTierSimilarities": [
+            28.19,
+            21.93,
+            49.88
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The command to give her to eat, shews that she was restored to actual life with its wants and weaknesses.",
+            "The testimony of Mark here precludes all idea of a recovery from a mere paroxysm\u2014 'and she walked.'",
+            "Every part of the narrative combines to declare that the death was real, and the miracle a raising from the dead, in the strictest sense."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "55. give her meat\u2014(See on :-)."
+        ],
+        "Philip Schaff": [
+            "Her spirit returned. She was restored to life.",
+            "The various accounts leave no reasonable doubt that this is the meaning.",
+            "On the further details, see especially Mark 5:42-43."
+        ],
+        "Archibald T. Robertson": [
+            "Her spirit returned (\u03b5\u03c0\u03b5\u03c3\u03c4\u03c1\u03b5\u03c8\u03b5\u03bd \u03c4\u03bf \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1 \u03b1\u03c5\u03c4\u03b7\u03c2). The life came back to her at once.",
+            "Be given her to eat (\u03b1\u03c5\u03c4\u03b7 \u03b4\u03bf\u03b8\u03b7\u03bd\u03b1 \u03c6\u03b1\u03b3\u03b5\u03b9\u03bd). The first infinitive \u03b4\u03bf\u03b8\u03b7\u03bd\u03b1 is an indirect command.",
+            "The second \u03c6\u03b1\u03b3\u03b5\u03b9\u03bd (second aorist active of \u03b5\u03c3\u03b8\u03b9\u03c9) is epexegetic purpose."
+        ],
+        "John Gill": [
+            "This shows that the soul is immortal, and dies not with the body; that it exists in a separate state from it after death, and will hereafter re-enter the body, and be again united to it in the resurrection.",
+            "Actions of arising and walking clearly proved that she was alive, and in health.",
+            "She was raised not to an immortal life, but to an animate life, which was to be supported by eating and drinking, and so a mortal one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The command to give her to eat after being restored to life indicates that her resurrection was not a mere paroxysm but a true raising from the dead. Her spirit immediately returned, and she was given food to eat to support her animate and mortal life. This account serves as a powerful proof of the immortality of the soul, demonstrating that it exists separately from the body after death and will be reunited with it in the resurrection. The fact that she arose and walked further confirms her restored and healthy state of being.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.6485818500848335,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                28.19,
+                21.93,
+                49.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The command to give her food after being restored to life signifies a genuine resurrection rather than a mere paroxysm. Her spirit immediately returned, and she was given food to eat, supporting the notion of an animated and mortal life. This account serves as a compelling proof of the soul's immortality, demonstrating its separate existence from the body after death and eventual reunion in the resurrection. Furthermore, her ability to arise and walk further affirms the reality of her restored and healthy state.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5956639989187016,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.4,
+            "commentatorTierSimilarities": [
+                28.08,
+                23.62,
+                48.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The command to give her food after being restored to life reveals that her resurrection was not a mere paroxysm, but a true raising from the dead. Her spirit immediately returned, and she was given food to eat, supporting the idea of an animated and mortal life. This account serves as powerful evidence for the immortality of the soul, demonstrating its separate existence from the body after death and eventual reunion in the resurrection. Furthermore, her ability to arise and walk further confirms her restored and healthy state.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6004623317733846,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+            "commentatorTierSimilarities": [
+                28.22,
+                22.87,
+                48.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The command to give her food after being restored to life indicates that her resurrection was not a mere paroxysm but a true raising from the dead. Her spirit immediately returned, and she was given food to eat, supporting the idea of an animated and mortal life. This account serves as powerful evidence for the immortality of the soul, demonstrating its separate existence from the body after death and eventual reunion in the resurrection. Her ability to arise and walk further confirms her restored and healthy state.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6196720406113594,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.2,
+            "commentatorTierSimilarities": [
+                27.73,
+                22.85,
+                49.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The command to give her food after being restored to life underscores the reality of her resurrection, not merely a temporary episode. With her spirit immediately returned, she was given food to sustain her restored animate life. This account strongly upholds the immortality of the soul, signifying its separate existence from the body after death, ultimately to be reunited in the resurrection. Her ability to arise and walk further validates her revival and restored well-being.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.6315226132854468,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.59,
+            "commentatorTierSimilarities": [
+                28.52,
+                26.17,
+                45.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:33:05",
+    "verseRef": "Acts 18:20",
+    "bestBHT": {
+        "bht": "The Jews seldom rose against the Gospel till the successful preaching of it stirred them up, however, there was no time for that here. When they asked him, he consented not, expressing disapproval by not giving his consent. Ephesus appears to have been favorably disposed to receive the gospel, and it was one of the churches founded by Paul, who trained it himself for nearly three years. When they desired him to stay longer, he did not consent, whether it was Aquila, Priscilla, or the Jews with whom he reasoned remains unclear.",
+        "wordCount": 92,
+        "quoteTokenProportion": 49.25,
+        "qualityScore": 1.532802823060779,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.31,
+        "commentatorTierSimilarities": [
+            34.87,
+            30.66,
+            34.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The Jews seldom rose against the Gospel till the successful preaching of it stirred them up.\" ",
+            "There was no time for that here."
+        ],
+        "Philip Schaff": [
+            "Ephesus appears to have been, from these days onward, favourably disposed to receive the gospel.",
+            "It was not only one of the churches founded by Paul, but it was trained up under his own personal superintendence nearly for three years.",
+            "The apostle made haste to fulfil this promise (see Acts 19:1)."
+        ],
+        "Archibald T. Robertson": [
+            "When they asked him (\u03b5\u03c1\u03c9\u03c4\u03c9\u03bd\u03c4\u03c9\u03bd \u03b1\u03c5\u03c4\u03c9\u03bd). Genitive absolute of present participle of \u03b5\u03c1\u03c9\u03c4\u03b1\u03c9, old verb to ask a question, common in Koine to make a request as here.",
+            "He consented not (\u03bf\u03c5\u03ba \u03b5\u03c0\u03b5\u03bd\u03b5\u03c5\u03c3\u03b5\u03bd). First aorist active indicative of \u03b5\u03c0\u03b9\u03bd\u03b5\u03c5\u03c9, old verb to express approval by a nod, only here in the N.T."
+        ],
+        "John Gill": [
+            "When they desired him to tarry longer time with them...he consented not.\" ",
+            "Either Aquila and Priscilla, whom he left here...or rather the Jews with whom he reasoned, who might be desirous of further conference with him.",
+            "...in order to gain more knowledge, or in hopes of baffling and confounding him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews seldom rose against the Gospel till the successful preaching of it stirred them up, however, there was no time for that here. When they asked him, he consented not, expressing disapproval by not giving his consent. Ephesus appears to have been favorably disposed to receive the gospel and was one of the churches founded by Paul, who trained it himself for nearly three years. The apostle made haste to fulfill his promise. When they desired him to stay longer, he did not consent, whether it was Aquila, Priscilla, or the Jews with whom he reasoned who desired further conference remains unclear.",
+            "wordCount": 103,
+            "quoteTokenProportion": 47.3,
+            "qualityScore": 1.5397587643743709,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.54,
+            "commentatorTierSimilarities": [
+                30.78,
+                37.58,
+                31.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews seldom rose against the Gospel till the successful preaching of it stirred them up, however, there was no time for that here. When they asked him, he consented not, expressing disapproval by not giving his consent. Ephesus appears to have been favorably disposed to receive the gospel and was one of the churches founded by Paul, who trained it himself for nearly three years. When they desired him to stay longer, he did not consent, whether it was Aquila, Priscilla, or the Jews with whom he reasoned remains unclear.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.530494928421108,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                34.9,
+                30.57,
+                34.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews seldom rose against the Gospel till the successful preaching of it stirred them up. When they asked him, he consented not, expressing disapproval by not giving his consent. Ephesus appears to have been favorably disposed to receive the gospel and was one of the churches founded by Paul, who trained it himself. When they desired him to stay longer, he did not consent, whether it was Aquila, Priscilla, or the Jews with whom he reasoned remains unclear.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.5027273466143283,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.31,
+            "commentatorTierSimilarities": [
+                33.74,
+                30.22,
+                36.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews seldom rose against the Gospel till the successful preaching of it stirred them up, however, there was no time for that here. When they asked him, he consented not, expressing disapproval by not giving his consent. Ephesus appears to have been favorably disposed to receive the gospel and was one of the churches founded by Paul, who trained it himself for nearly three years. When they desired him to stay longer, he did not consent, whether it was Aquila, Priscilla, or the Jews with whom he reasoned remains unclear.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.530494928421108,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                34.9,
+                30.57,
+                34.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews seldom rose against the Gospel till the successful preaching of it stirred them up, however, there was no time for that here. When they asked him, he consented not, expressing disapproval by not giving his consent. Ephesus appears to have been favorably disposed to receive the gospel, and it was one of the churches founded by Paul, who trained it himself for nearly three years. When they desired him to stay longer, he did not consent, whether it was Aquila, Priscilla, or the Jews with whom he reasoned remains unclear.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.532802823060779,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.31,
+            "commentatorTierSimilarities": [
+                34.87,
+                30.66,
+                34.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

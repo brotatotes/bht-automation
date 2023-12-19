@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:35:40",
+    "verseRef": "Acts 23:2",
+    "bestBHT": {
+        "bht": "The high priest, Ananias, who had a reputation for being revengeful and rapacious, was provoked by Paul's assertion of his integrity during his trial before him. This act of smiting Paul on the mouth was not only illegal but extremely offensive to a Jew, and it was meant to silence him. However, this kind of insult was not uncommon among the Jews and was similar to the treatment Jesus received before the same council. The Lord allows the wicked to be carried away by Satan, exposing their lack of equity and temperance, as was the case with Ananias.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 2.0675088750559905,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+        "commentatorTierSimilarities": [
+            28.05,
+            39.08,
+            32.87
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He was nominated to the office by Herod, king of Chaleis, in A.D. 48; and sent to Rome by Quadratus, the prefect of Syria, to give an account to the emperor Claudius."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A method of silencing a speaker common in the East to this day.",
+            "But for a judge thus to treat a prisoner on his 'trial,' for merely prefacing his defense by a protestation of his integrity, was infamous.",
+            "Infamous."
+        ],
+        "Albert Barnes": [
+            "When Luke here calls Ananias 'the high priest,' he evidently intends not to affirm that he was actually such, but to use the word, as the Jews did, as applicable to one who had been in that office, and who, on that occasion, when the office was vacant, performed its duties.",
+            "To smite him on the mouth - To stop him from speaking; to express their indignation at what he had said.",
+            "Their feelings had been excited to the utmost; they regarded him as certainly guilty; they regarded him as an apostate; and they could not bear it that he, with such coolness and firmness, declared that all his conduct had been under the direction of a good conscience."
+        ],
+        "Marvin Vincent": [
+            "He is described as a revengeful and rapacious tyrant.",
+            "He reduced the inferior priests almost to starvation by defrauding them of their tithes.",
+            "Sent his creatures to the threshing-floors with bludgeons to seize the tithes by force."
+        ],
+        "John Calvin": [
+            "The Lord doth suffer the wicked to be so carried away by Satan, that they fall from all show of equity and temperance.",
+            "But the Lord did pluck this visure [mask] from his face, so that there was not found in him so much as the modesty of a mean man, but he poured out his furious force like a beast.",
+            "Therefore they had at that day no regard of discipline, but there remained among them confused barbarism."
+        ],
+        "Philip Schaff": [
+            "His former close connection with that august senate only rendered his present strange claim more insupportable; and when the poor prisoner went on to assert that, after all the years of apostasy, Nazarene leader though he had been, he was still a loyal Jew, faithful to the God of his fathers, the anger of the high priest flamed forth.",
+            "Ananias, who presided over this meeting of the Sanhedrim, the son of Nebed\u00e6us, was appointed to this high office by Herod, king of Chalcis, in A.D. 48, some ten years before St. Paul was arraigned before the supreme Jewish council.",
+            "A similar insult was offered to the Lord Jesus when He stood accused before the same council, John 18:22."
+        ],
+        "Archibald T. Robertson": [
+            "Ananias was provoked by Paul's self-assertion while on trial before his judges.",
+            "The act was illegal and peculiarly offensive to a Jew at the hands of a Jew.",
+            "Smiting the mouth or cheek is a peculiarly irritating offence and one not uncommon among the Jews and this fact gives point to the command of Jesus to turn the other check."
+        ],
+        "John Gill": [
+            "There is one R. Ananias, the sagan of the priests, often spoken of in the Jewish writings, who lived about these times.",
+            "These he ordered to smite him on the mouth: or give him a slap on the face, by way of contempt, and as if he had spoken what ought not to be said, and in order to silence him.",
+            "The reason of which might be, either because Paul did not directly address him, and give him such flattering titles as he expected, or because he set out with such declarations of his innocence, and spotless behavior, and with so much courage and boldness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The high priest, Ananias, who had a reputation for being revengeful and rapacious, was provoked by Paul's assertion of his integrity during his trial before him. This act of smiting Paul on the mouth was not only illegal but extremely offensive to a Jew, and it was meant to silence him. However, this kind of insult was not uncommon among the Jews and was similar to the treatment Jesus received before the same council. The Lord allows the wicked to be carried away by Satan, exposing their lack of equity and temperance, as was the case with Ananias.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.0675088750559905,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+            "commentatorTierSimilarities": [
+                28.05,
+                39.08,
+                32.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The high priest, Ananias, known for his revengeful and rapacious ways, was provoked by Paul's bold protestation of his integrity during his trial before him. Ananias's act of smiting Paul on the mouth was not only illegal but highly offensive to a Jew, as it was intended to silence him. This kind of insult was not uncommon among the Jews and bears resemblance to the treatment Jesus received before the same council. The Lord exposes the lack of equity and temperance in the wicked, like Ananias.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0252640367283976,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.68,
+            "commentatorTierSimilarities": [
+                29.29,
+                38.27,
+                32.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The high priest, Ananias, a revengeful and rapacious tyrant, was provoked by Paul's self-assertion during his trial. Smiting Paul on the mouth was an infamous act, reflecting the barbarism and lack of discipline among the council. This insulting gesture aimed to silence Paul for his bold protestation of innocence. Such treatment was not uncommon, as Jesus also faced a similar offense before the same council. The Lord allows the wicked, like Ananias, to be carried away by their own lack of equity and temperance.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8849797189674833,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+            "commentatorTierSimilarities": [
+                28.9,
+                34.93,
+                36.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Ananias, a revengeful and rapacious high priest, was provoked by Paul's self-defense during his trial. His act of smiting Paul on the mouth was illegal and particularly offensive to a Jew. This gesture aimed to silence Paul and was a common form of insulting offense. Ananias' ruthless behavior reflected a lack of equity and temperance, exposing his true character. The Lord allows the wicked to be carried away by their own fury, unveiling their lack of modesty and integrity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.8836617339482133,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                30.17,
+                33.91,
+                35.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The high priest, Ananias, known for his revengeful and rapacious nature, was provoked by Paul's assertion of his integrity during his trial. Ananias reacted by smiting Paul on the mouth, a common method used in the East to silence speakers. This act, both infamous and illegal, was meant to offend Paul, as it was considered a peculiarly irritating offense among the Jews. The Lord allows the wicked, like Ananias, to be carried away by their lack of equity and temperance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9381884303025532,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                29.45,
+                35.24,
+                35.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

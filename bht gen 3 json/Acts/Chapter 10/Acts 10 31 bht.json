@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:29:15",
+    "verseRef": "Acts 10:31",
+    "bestBHT": {
+        "bht": "The phrase Thy prayer is heard used in this account brings a sense of vividness and immediacy to the narrative. It indicates that Cornelius' prayer was not only heard, but also remembered by God. This singular prayer, which may have been the culmination of many previous prayers, had finally received an answer. God not only acknowledged Cornelius' prayer, but also took note of his acts of charity. It is evident that Cornelius had been seeking guidance on how to worship God acceptably, and now his prayer had been recognized and addressed by God Himself.",
+        "wordCount": 94,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 1.9144741920137607,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+        "commentatorTierSimilarities": [
+            15.66,
+            43.81,
+            40.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Said [\u03c6\u03b7\u03c3\u03b9] . Rev., saith. The historical present, giving vividness to the narrative."
+        ],
+        "Philip Schaff": [
+            "Thy prayer is heard.",
+            "It is to be observed further that 'prayer' here is in the singular.",
+            "This 'prayer' was perhaps the crisis and consummation of many previous 'prayers.'"
+        ],
+        "Archibald T. Robertson": [
+            "Is heard (\u03b5\u03b9\u03c3\u03b7\u03ba\u03bf\u03c5\u03c3\u03b8\u03b7). Sort of timeless first aorist passive indicative as is \"are had in remembrance\" (\u03b5\u03bc\u03bd\u03b7\u03c3\u03b8\u03b7\u03c3\u03b1\u03bd. See verse Acts 10:4 \"are gone up for a memorial\"). "
+        ],
+        "John Gill": [
+            "Cornelius, thy prayer is heard.",
+            "Thine alms are had in remembrance in the sight of God.",
+            "What he was now particularly making to God, as well as others he had before put up to him."
+        ],
+        "John Wesley": [
+            "Thy prayer is heard \u2014 Doubtless he had been praying for instruction, how to worship God in the most acceptable manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The narrative in Acts 10:31 is vividly described, as it is said that Thy prayer is heard. This singular prayer, which may have been the culmination of many previous prayers, was finally answered. God not only heard Cornelius' prayer, but also remembered his acts of charity. It is likely that Cornelius had been praying for guidance on how to worship God in the most pleasing way, and now his prayer had been acknowledged by God himself. This verse highlights the power of prayer and the importance of acts of kindness in God's sight.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.9719582751037992,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+            "commentatorTierSimilarities": [
+                15.76,
+                43.72,
+                40.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the use of the phrase Thy prayer is heard adds a sense of immediacy and liveliness to the narrative. It signifies that Cornelius' prayer was not only heard by God but also remembered, emphasizing the significance of his fervent and persistent prayers. Moreover, God also took note of Cornelius' acts of charity. It is evident that Cornelius had been praying for guidance on the right way to worship God, and now his prayer had been acknowledged and answered by God Himself.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7693259125736152,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                17.16,
+                40.17,
+                42.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The use of the phrase Thy prayer is heard in Acts 10:31 adds vividness to the narrative, highlighting that Cornelius' prayer was not only heard, but also remembered by God. This singular prayer, possibly the culmination of previous prayers, had finally received an answer. It is likely that Cornelius had been seeking guidance on how to worship God in the most acceptable manner, and now his prayer had been acknowledged by God Himself. The verse emphasizes the power of prayer and the importance of acts of charity in the sight of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9253520056523739,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                15.08,
+                42.45,
+                42.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The phrase Thy prayer is heard vividly captures the immediacy and significance of the events in question. This singular prayer, perhaps the culmination of many previous ones, had finally received an answer from God. Not only did God hear Cornelius' prayer, but He also remembered his acts of charity. It is likely that Cornelius had been seeking guidance on how to worship God acceptably, and now his prayer had been recognized and addressed by God Himself. This passage underscores the power and effectiveness of prayer, as well as the importance of demonstrating kindness in God's eyes.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.7752995420710054,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                14.01,
+                43.73,
+                42.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The phrase Thy prayer is heard used in this account brings a sense of vividness and immediacy to the narrative. It indicates that Cornelius' prayer was not only heard, but also remembered by God. This singular prayer, which may have been the culmination of many previous prayers, had finally received an answer. God not only acknowledged Cornelius' prayer, but also took note of his acts of charity. It is evident that Cornelius had been seeking guidance on how to worship God acceptably, and now his prayer had been recognized and addressed by God Himself.",
+            "wordCount": 94,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.9144741920137607,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+            "commentatorTierSimilarities": [
+                15.66,
+                43.81,
+                40.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

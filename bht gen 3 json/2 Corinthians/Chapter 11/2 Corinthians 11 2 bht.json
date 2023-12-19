@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:18:01",
+    "verseRef": "2 Corinthians 11:2",
+    "bestBHT": {
+        "bht": "Paul's deep concern for the Corinthians is evident as he jealously compares their relationship to that of a betrothed couple. He hopes to present them as a pure and faithful bride to Christ. This zeal is a godly jealousy rooted in a love for God's honor. Paul sees himself as intimately connected to Christ, understanding that his ministry is ultimately the work of Christ himself. Like a bridegroom, he shares in Christ's love and concern for the Corinthians, desiring their faithfulness and purity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 2.175717238744454,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+        "commentatorTierSimilarities": [
+            32.65,
+            34.25,
+            33.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I have undertaken to present you to Christ as a chaste bride to her husband.\" ",
+            "I am jealous for fear of your falling away from Him.\" ",
+            "I betrothed you to one husband, to present a chaste virgin to Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A jealousy which has God's honor at heart.",
+            "Paul uses a Greek term applied properly to the bridegroom, just as he ascribes to himself 'jealousy,' a feeling properly belonging to the husband; so entirely does he identify himself with Christ.",
+            "Whatever ministers do effectively, is really done by Christ."
+        ],
+        "Albert Barnes": [
+            "For I am jealous over you... It was because he loved them, and because he feared that they were in danger of being seduced from the simplicity of the gospel.",
+            "The sense is clear. Paul claims that it was by his instrumentality that they had been united to the Redeemer.",
+            "So anxious was he for the entire purity of that church which was to constitute 'the bride, the Lamb\u2019s wife; so anxious that all who were connected with that church should be presented pure in heaven."
+        ],
+        "Marvin Vincent": [
+            "I am jealous... Paul represents himself as the marriage-friend who has betrothed the bride to the bridegroom, and consequently shares the bridegroom's jealousy of his bride.",
+            "I have espoused... Used in the classics of carpenter's or joiner's work; of arranging music, tuning instruments, and fitting clothes or armor. As here, of betrothing or taking to wife.",
+            "Present. Compare Ephesians 5:27."
+        ],
+        "John Calvin": [
+            "That on the other hand, is the only pious and right zeal, that has an eye to God, that he may not be defrauded of the honors that of right belong to him.",
+            "All ministers are the friends of the Bridegroom, as the Baptist declares respecting himself.",
+            "We are married to Christ, on no other condition than that we bring virginity as our dowry, and preserve it entire, so as to be free from all corruption."
+        ],
+        "Philip Schaff": [
+            "For I am jealous over you with a godly jealousy.",
+            "I betrothed you to one husband, that I might present you as a pure virgin to Christ.",
+            "Hoped to be able to 'present them' to Him, uncorrupted by the alienation of their affections, and to witness the consummation of the nuptials at His Second Appearing."
+        ],
+        "Archibald T. Robertson": [
+            "With a godly jealousy... With a jealousy of God.",
+            "I espoused... to join, to fit together.",
+            "Paul treats the Corinthians as his bride."
+        ],
+        "John Gill": [
+            "a godly jealousy, or a zeal of God; which he was inspired with by God, and which was for the honour and glory of God",
+            "Christ stands in the relation of an husband to the church catholic and universal; to the whole general assembly and church of the firstborn",
+            "By sympathizing with them under all their afflictions, temptations, desertions, and exercises of every kind; by nourishing and cherishing them, which phrases are expressive of the spiritual food and clothing he provides for them"
+        ],
+        "John Wesley": [
+            "For \u2014 The cause of his seeming folly is expressed in this and the following verse; the cause why they should bear with him, 2 Corinthians 11:4."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul expresses his deep concern for the Corinthians, comparing his relationship with them to that of a betrothed husband and wife. He is jealous for their spiritual well-being, fearing that they may fall away from Christ. Paul sees himself as the one who has united them to Christ, desiring to present them as a pure and chaste bride to Him. This zeal is not a human jealousy, but a godly jealousy, driven by a profound love for God and His honor. Paul fully identifies himself with Christ, understanding that whatever he accomplishes as a minister is done ultimately by Christ himself. Just as a bridegroom is jealous for his bride, Paul shares in the bridegroom's love and concern for the Corinthians, desiring their faithfulness and purity.",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 2.233864586694163,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+            "commentatorTierSimilarities": [
+                32.69,
+                34.35,
+                32.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul expresses his deep concern for the Corinthians, comparing his relationship with them to that of a betrothed husband and wife. He is jealous for their spiritual well-being, fearing that they may fall away from Christ. Paul sees himself as the one who has united them to Christ, desiring to present them as a pure and chaste bride to Him. This zeal is a godly jealousy, driven by a love for God and His honor. Paul fully identifies himself with Christ, understanding that whatever he accomplishes as a minister is done by Christ himself.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.1755261889111512,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+            "commentatorTierSimilarities": [
+                32.8,
+                33.84,
+                33.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's deep concern for the Corinthians is expressed in his comparison of their relationship to that of a betrothed couple. He fears that they may stray from their faith in Christ, and his desire is to present them to Him as a pure and faithful bride. Paul's zeal is rooted in a godly jealousy, driven by his love for God's honor. He sees himself as intimately connected to Christ, acknowledging that his ministry is ultimately the work of Christ himself.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.147861483764763,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.76,
+            "commentatorTierSimilarities": [
+                31.52,
+                33.96,
+                34.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's deep concern for the Corinthians is evident as he likens their relationship to that of a betrothed couple. He passionately desires to present them as a pure and faithful bride to Christ. His zeal is not a mere human jealousy, but a godly one driven by his love for God's honor. Paul fully identifies himself with Christ, recognizing that all his effective work as a minister is ultimately accomplished by Christ himself. He shares in Christ's love and concern for the Corinthians, desiring their faithfulness and purity.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.1063598068789897,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+            "commentatorTierSimilarities": [
+                31.44,
+                33.85,
+                34.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's deep concern for the Corinthians is evident as he jealously compares their relationship to that of a betrothed couple. He hopes to present them as a pure and faithful bride to Christ. This zeal is a godly jealousy rooted in a love for God's honor. Paul sees himself as intimately connected to Christ, understanding that his ministry is ultimately the work of Christ himself. Like a bridegroom, he shares in Christ's love and concern for the Corinthians, desiring their faithfulness and purity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.175717238744454,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.68,
+            "commentatorTierSimilarities": [
+                32.65,
+                34.25,
+                33.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

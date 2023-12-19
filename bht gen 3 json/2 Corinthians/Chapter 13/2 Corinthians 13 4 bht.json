@@ -1,0 +1,100 @@
+{
+    "timestamp": "12-19-2023 15:18:36",
+    "verseRef": "2 Corinthians 13:4",
+    "bestBHT": {
+        "bht": "Through His crucifixion, Christ willingly embraced weakness and set an example for His followers. It was His voluntary abnegation of power that allowed for His crucifixion to take place. In our union with Him, we may also experience weakness, yet we find solace in knowing that we will live with Him through the power of God. This power is available to us, empowering us in our weakness and sustaining us on our journey with Christ.",
+        "wordCount": 75,
+        "quoteTokenProportion": 51.02,
+        "qualityScore": 2.577998555440132,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.06,
+        "commentatorTierSimilarities": [
+            34.95,
+            35.52,
+            29.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For indeed he was crucified from weakness, yet He liveth by the Power of God.\" ",
+            "For we also are weak in Him, but shall live with Him from the power of God.\" ",
+            "we, as He did, lay aside our power and spare you: we partake of His voluntary abnegation of power which we might have used."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For He was even crucified.",
+            "His assumption of our weakness was the source, or necessary condition, from which the possibility of His crucifixion flowed.",
+            "In virtue of our union with Him, and after His pattern, weakness predominates in us for a time."
+        ],
+        "Albert Barnes": [
+            "He did not choose to exert his power. He appeared to his enemies to be weak and feeble.",
+            "Though he was crucified, yet he now lives again, and is now capable of exerting his great power.",
+            "We his apostles, also, are weak in virtue of our connection with him... By the aid of the power of God we shall show that we are not as weak as our foes pretend."
+        ],
+        "John Calvin": [
+            "Shall Christ be esteemed by you the less, because he showed signs of weakness in his death, as if his heavenly life, that he leads subsequently to his resurrection, were not a clear token of his Divine power?\" ",
+            "To be weak in Christ means here to be a partaker of Christ\u2019s weakness. Thus he makes his own weakness glorious, because in it he is conformed to Christ, and he no longer shrinks back from the disgrace, that he has in common with the Son of God.",
+            "The Corinthians, when they began to judge aright, would have respectful and honorable views of the power of God, which was in Paul, and would no longer despise outward infirmity."
+        ],
+        "Philip Schaff": [
+            "He was crucified through weakness, yet he liveth through the power of God.\" ",
+            "All that preceded and led to His death was a manifestation of voluntary weakness, culminating in His final 'exinanition.'\" ",
+            "That 'emptied' condition was a necessary step to His state of fulness, the 'weakness' to the 'power' by and in which He rose."
+        ],
+        "Archibald T. Robertson": [
+            "But we shall live with him through the power of God."
+        ],
+        "John Gill": [
+            "For though he was crucified through weakness...his crucifixion was not owing to want of power as God, but he became capable of it through his weakness as man.",
+            "He now lives in power, to assist and strengthen his ministers, in every branch of their work.",
+            "But we shall live with him by the power of God towards you...the powerful exertion and use of the apostolic rod....to be exercised towards them, to be seen among them, and felt by them."
+        ],
+        "John Wesley": [
+            "He was crucified through weakness \u2014 Through the impotence of human nature.",
+            "We also are weak with him \u2014 We appear weak and despicable by partaking of the same sufferings for his sake.",
+            "But we shall live with him \u2014 Being raised from the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 13:4, we learn that Christ willingly embraced weakness through His crucifixion, demonstrating His voluntary abnegation of power. This act of assuming our weakness was a necessary condition that made His crucifixion possible. Similarly, as followers of Christ, we too may experience weakness for a time. However, just as Christ now lives through the power of God, we also have the assurance of living with Him through the power of God. Through our union with Him, we find strength in our weakness, relying on the power of God to sustain and empower us.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.4637964363660476,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.26,
+            "commentatorTierSimilarities": [
+                35.57,
+                34.16,
+                30.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through His crucifixion, Christ willingly embraced weakness and set an example for His followers. It was His voluntary abnegation of power that allowed for His crucifixion to take place. In our union with Him, we may also experience weakness, yet we find solace in knowing that we will live with Him through the power of God. This power is available to us, empowering us in our weakness and sustaining us on our journey with Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 2.577998555440132,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.06,
+            "commentatorTierSimilarities": [
+                34.95,
+                35.52,
+                29.53
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

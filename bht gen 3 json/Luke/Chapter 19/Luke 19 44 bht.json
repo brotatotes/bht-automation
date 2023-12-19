@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:22:16",
+    "verseRef": "Luke 19:44",
+    "bestBHT": {
+        "bht": "The impending destruction of Jerusalem is described in Luke 19:44, as Jesus foretells the city's buildings being leveled, with not one stone left upon another. This devastating prophecy is a consequence of Jerusalem's failure to recognize the time of Jesus' visitation, which could have sparked mercy instead of judgment. The rejection of Jesus as the Messiah is identified as the true cause of Jerusalem's ruin, despite the Jews' attempts to shift blame elsewhere. The wrathful consequences will extend to all, including the inhabitants and children within Jerusalem.",
+        "wordCount": 89,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.5902982104231485,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+        "commentatorTierSimilarities": [
+            19.65,
+            40.15,
+            40.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Shall lay thee even with the ground...shall level thy buildings to the foundation, and dash thy children against the ground.\" ",
+            "Shall not leave in thee one stone upon another.\" ",
+            "Hadst thou known, recognized, the time of thy visit by Me."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mine eye affecteth mine heart\"; the heart again affecting the eye.",
+            "Under this sympathetic law of the relation of mind and body, Jesus, in His beautiful, tender humanity, was constituted even as we.",
+            "He yielded Himself alike freely to both."
+        ],
+        "Marvin Vincent": [
+            "Lay thee even with the ground (ejdafiousin). Only here in New Testament. Primarily, to beat level, like a threshing - floor or pavement.\" ",
+            "The Septuagint uses it in the sense of dashing down to the ground (Psalms 137:9, and elsewhere). So Rev., from the succeeding reference to the children, and in allusion to the Psalm.",
+            "Visitation. See on 1 Peter 2:12."
+        ],
+        "Philip Schaff": [
+            "The \u2018children\u2019 are the inhabitants, not merely infants; the city, which has been personified throughout, is conceived of as a mother.",
+            "This was afterwards predicted of the temple, here of the whole city. The temple was totally destroyed at the close of the siege (A. D. 70); the city partially then, but fully in the time of the Emperor Adrian (A. D. 135).",
+            "In mercy our Lord now came; they knew Him not, rejected Him at this \u2018time\u2019 ( = opportunity, season), and thus turned the season of mercy into a long, long period of judgment."
+        ],
+        "Archibald T. Robertson": [
+            "Shall dash to the ground (\u03b5\u03b4\u03b1\u03c6\u03b9\u03bf\u03c5\u03c3\u03b9\u03bd). Attic future of \u03b5\u03b4\u03b1\u03c6\u03b9\u03b6\u03c9, to beat level, to raze to the ground, a rare verb from \u03b5\u03b4\u03b1\u03c6\u03bf\u03c2, bottom, base, ground (Acts 22:7), here alone in the N.T.",
+            "Because (\u03b1\u03bd\u03b8' \u03c9\u03bd). 'In return for which things.'",
+            "This vivid prophecy of the destruction of Jerusalem is used by those who deny predictive prophecy even for Jesus as proof that Luke wrote the Gospel after the destruction of Jerusalem. But it is no proof at all to those who concede to Jesus adequate knowledge of his mission and claims."
+        ],
+        "John Gill": [
+            "The time of the ministry of John the Baptist, of Christ, and his apostles in Judea, was the time of Jerusalem's visitation in a way of mercy; which not being taken notice of, and observed, brought another kind of visitation upon them, even in a way of wrath and vengeance.",
+            "The Jews pretend to assign other causes of Jerusalem's destruction; but the true cause was their rejection of Jesus, as the Messiah.",
+            "Thus they shifted off the true cause of their ruin, and ascribed it to other things."
+        ],
+        "John Wesley": [
+            "And thy children within thee \u2014 All the Jews were at that time gathered together, it being the time of the passover.",
+            "They shall not leave in thee one stone upon another \u2014 Only three towers were left standing for a time, to show the former strength and magnificence of the place.",
+            "But these likewise were afterward leveled with the ground."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 19:44, Jesus warns Jerusalem that the destruction it will face will be devastating. The city and its buildings will be leveled to the foundation, with not one stone left upon another. This prophecy is a result of Jerusalem's failure to recognize the time of Jesus' visitation, a missed opportunity for mercy that turns into a period of judgment. The destruction is attributed to their rejection of Jesus as the Messiah, with the Jews attempting to shift the blame onto other causes. Ultimately, the entire city, its inhabitants, and even the children within will experience the wrath and vengeance that comes from their failure to accept Jesus.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.5394081688653967,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.53,
+            "commentatorTierSimilarities": [
+                20.5,
+                40.42,
+                39.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The impending destruction of Jerusalem is described in Luke 19:44, as Jesus foretells the city's buildings being leveled, with not one stone left upon another. This devastating prophecy is a consequence of Jerusalem's failure to recognize the time of Jesus' visitation, which could have sparked mercy instead of judgment. The rejection of Jesus as the Messiah is identified as the true cause of Jerusalem's ruin, despite the Jews' attempts to shift blame elsewhere. The wrathful consequences will extend to all, including the inhabitants and children within Jerusalem.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.5902982104231485,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                19.65,
+                40.15,
+                40.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jerusalem is warned of its impending destruction in Luke 19:44. Jesus prophesies that the city will be leveled to the foundation, with no structure left intact. This devastating fate is a consequence of Jerusalem's failure to recognize Jesus' visitation in a time of mercy. Their rejection of Him as the Messiah is the true cause of their ruin, despite attempts to shift blame onto other factors. The judgment will not spare the inhabitants, even the children, and will be a result of their missed opportunity for mercy.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.4932705905511634,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.99,
+            "commentatorTierSimilarities": [
+                18.57,
+                44.72,
+                36.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jerusalem is warned of its impending doom in Luke 19:44 as Jesus prophesies the city's destruction, leaving no stone upon another. This devastating fate is attributed to Jerusalem's failure to recognize Jesus' visitation in a time of mercy. The rejection of Jesus as the Messiah is the true cause of their ruin, despite their attempts to shift blame elsewhere. The inhabitants, including the children, will suffer the wrath and vengeance resulting from their missed opportunity for mercy.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.5687273066914376,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+            "commentatorTierSimilarities": [
+                19.91,
+                41.47,
+                38.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jerusalem is warned that its buildings will be laid even with the ground, with none left standing upon another, as Jesus prophesies in Luke 19:44. This destruction is the consequence of Jerusalem's failure to recognize the time of Jesus' visitation and their rejection of him as the Messiah. Their ruin and devastation cannot be attributed to any other cause. This missed opportunity for mercy will result in the wrath and vengeance that will affect all, including the children within Jerusalem.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.5404088463577699,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+            "commentatorTierSimilarities": [
+                21.24,
+                36.12,
+                42.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

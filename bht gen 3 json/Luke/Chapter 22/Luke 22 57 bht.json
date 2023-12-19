@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:23:01",
+    "verseRef": "Luke 22:57",
+    "bestBHT": {
+        "bht": "In this event, the words of Jesus come to fruition as Peter denies any knowledge of him, exactly as Jesus had predicted. Peter's denial is immediate and resolute, contrary to his earlier commitment to stand by Jesus at any cost. Gripped by fear, Peter brashly rebuts the maid's claim, seemingly caught off guard by her unwavering assertion.",
+        "wordCount": 59,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.4991571943343394,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+        "commentatorTierSimilarities": [
+            51.7,
+            0.0,
+            48.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "I know him not (\u03bf\u03c5\u03ba \u03bf\u03b9\u03b4\u03b1 \u03b1\u03c5\u03c4\u03bf\u03bd). Just as Jesus had predicted that he would do (Luke 22:34). "
+        ],
+        "John Gill": [
+            "Startled at the maid's positive assertion, and knowing not how to clear himself any other way, roundly, and at once, denied that Jesus was his master.",
+            "He that had said he would die with him, rather than deny him, is frightened at a servant maid.",
+            "Denies him upon the first attack upon him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 22:57, we see Peter fulfilling Jesus' prediction by denying that he knows Jesus. In a moment of fear and uncertainty, Peter resolutely denies any association with Jesus, despite previously vowing to die for him. This sudden change in Peter's attitude is evident as he quickly and boldly refutes the maid's claim, showing his initial shock at her accusation.",
+            "wordCount": 61,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.647713892470896,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                56.74,
+                0.0,
+                43.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we witness the fulfillment of Jesus' prophecy as Peter denies knowing him, just as Jesus had foretold. Peter's denial is quick and forceful, contrary to his earlier claim that he would rather die than disown Jesus. Overwhelmed by fear, Peter vehemently denies his association with Jesus at the first sign of confrontation, as if startled by the maid's unwavering assertion.",
+            "wordCount": 65,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.7652200790032355,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.04,
+            "commentatorTierSimilarities": [
+                50.42,
+                0.0,
+                49.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this event, the words of Jesus come to fruition as Peter denies any knowledge of him, exactly as Jesus had predicted. Peter's denial is immediate and resolute, contrary to his earlier commitment to stand by Jesus at any cost. Gripped by fear, Peter brashly rebuts the maid's claim, seemingly caught off guard by her unwavering assertion.",
+            "wordCount": 59,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.4991571943343394,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "commentatorTierSimilarities": [
+                51.7,
+                0.0,
+                48.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this particular instance, Peter's actions fulfill the prophecy of Jesus, who had foretold that Peter would disown him. We witness Peter's immediate and forceful denial, which contrasts with his earlier declaration of loyalty to Jesus. Overwhelmed by fear, Peter swiftly refutes the maid's assertion, seemingly taken aback by her unwavering accusation.",
+            "wordCount": 55,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 1.3076142790816252,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.82,
+            "commentatorTierSimilarities": [
+                47.64,
+                0.0,
+                52.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In fulfillment of Jesus' prediction, Peter vehemently denies any knowledge of him, just as Jesus had foretold. Peter's denial is prompt and resolute, despite his previous commitment to remain faithful to Jesus, even unto death. Gripped by fear, Peter swiftly refutes the maid's claim, displaying a startled reaction to her unwavering assertion.",
+            "wordCount": 54,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.4504120761745234,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.57,
+            "commentatorTierSimilarities": [
+                52.63,
+                0.0,
+                47.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

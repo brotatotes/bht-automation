@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:17:42",
+    "verseRef": "Luke 10:7",
+    "bestBHT": {
+        "bht": "When entering a house, it is important to be cautious about interpreting it as the same house. The disciples should recognize the worth of their work and the reward they receive. They are instructed to remain in the house itself, not going from house to house, to avoid wasting time and seeking better accommodations. Instead, they are to accept what is given to them, sharing the things provided by those they encounter. This is not about accepting different types of food, but rather about embracing the generosity of others without burdening them with constant movement.",
+        "wordCount": 95,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.6067076357771177,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.77,
+        "commentatorTierSimilarities": [
+            29.79,
+            38.33,
+            31.89
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Beware of rendering it in the same house, as A.V., which the original will not admit.\" "
+        ],
+        "Albert Barnes": [
+            "When a stranger arrives in a village or an encampment, the neighbors, one after another, must invite him to eat with them. There is a strict etiquette about it, involving much ostentation and hypocrisy...\" (Luke 10:7)",
+            "A failure in the due observance of this system of hospitality is violently resented, and often leads to alienations and feuds among neighbors...\" (Luke 10:7)",
+            "It also consumes much time, causes unusual distraction of mind, leads to levity, and every way counteracts the success of a spiritual mission.\" (Luke 10:7)"
+        ],
+        "Marvin Vincent": [
+            "The workman is worthy, etc. See on Matthew 10:10."
+        ],
+        "John Calvin": [
+            "you will be at liberty to live at the expense of others, so long as you shall be on this journey; for it is proper that those for whose benefit you labor should supply you with food.",
+            "But nothing of this kind was intended, and it was not even his object to enjoin frugality, but merely to permit them to accept of a reward, by living, during this commission, at the expense of those by whom they were entertained.",
+            "in order that the disciples may not make conscience of any kind of food."
+        ],
+        "Philip Schaff": [
+            "Such things as they give. Lit. \u2018the things from them,\u2019 sharing what they have. There is not the slightest reference to eating heathen dishes (as in 1 Corinthians 10:27), for they were not sent among the heathen.",
+            "Go not from house to house, i.e., in search of ease and better entertainment, or for gossip\u2019s sake."
+        ],
+        "Archibald T. Robertson": [
+            "In that same house (\u03b5\u03bd \u03b1\u03c5\u03c4\u03b7 \u03c4\u03b7 \u03bf\u03b9\u03ba\u03b9\u03b1). Literally, in the house itself, not 'in the same house' (\u03b5\u03bd \u03c4\u03b7 \u03b1\u03c5\u03c4\u03b7 \u03bf\u03b9\u03ba\u03b9\u03b1), a different construction.\" ",
+            "Such things as they give (\u03c4\u03b1 \u03c0\u03b1\u03c1' \u03b1\u03c5\u03c4\u03c9\u03bd). 'The things from them.'",
+            "Go not from house to house (\u03bc\u03b7 \u03bc\u03b5\u03c4\u03b1\u03b2\u03b1\u03b9\u03bd\u03b5\u03c4\u03b5 \u03b5\u03be \u03bf\u03b9\u03ba\u03b9\u03b1\u03c2 \u03b5\u03b9\u03c2 \u03bf\u03b9\u03ba\u03b9\u03b1\u03bd). As a habit, \u03bc\u03b7 and the present imperative, and so avoid waste of time with such rounds of invitations as would come."
+        ],
+        "John Gill": [
+            "What you eat and drink is your due; what you ought to have; your diet is a debt, and not a gratuity.\" ",
+            "Go not from house to house; as if fickle and inconstant, as if not satisfied with your lodging and entertainment, and as seeking out for other and better, or as if burdensome where they were.",
+            "He that goes, 'from house to house', (loses his) shirt, (i.e. comes to distress and poverty,) from place to place (his) life; or he is in great danger of losing his life."
+        ],
+        "John Wesley": [
+            "Matthew 10:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When entering a house, avoid interpreting it as the same house, as the original text does not support this idea. Instead, consider the value of the work being done and the significance of receiving this reward. The command to stay in the house itself, not in another house, emphasizes the importance of contentment with what is given. It is not about seeking better entertainment or gossiping from house to house, but rather avoiding wasting time on unnecessary rounds of invitations. The disciples are to accept what is given to them, sharing the things from those they encounter, without concern for accepting different types of food. It is a matter of accepting the generosity of others and not burdening them with constant movement.",
+            "wordCount": 122,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 1.608734058223677,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+            "commentatorTierSimilarities": [
+                31.54,
+                37.92,
+                30.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When entering a house, beware of rendering it as the same house. The disciples should accept the value of the work being done and the reward they receive. They are to stay in the house itself, not going from house to house, to avoid wasting time and seeking better entertainment. It is about accepting the things given to them by sharing what they have, not about concerns regarding different types of food. The disciples should accept the generosity of others and avoid burdening them with constant movement.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.5957217374251127,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.4,
+            "commentatorTierSimilarities": [
+                32.75,
+                35.54,
+                31.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When entering a house, it is important to be cautious about interpreting it as the same house. The disciples should recognize the worth of their work and the reward they receive. They are instructed to remain in the house itself, not going from house to house, to avoid wasting time and seeking better accommodations. Instead, they are to accept what is given to them, sharing the things provided by those they encounter. This is not about accepting different types of food, but rather about embracing the generosity of others without burdening them with constant movement.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.6067076357771177,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.77,
+            "commentatorTierSimilarities": [
+                29.79,
+                38.33,
+                31.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When entering a house, one should not interpret it as the same house, as the original text does not support this notion. The disciples are to consider the value of their work and the reward they receive. They are instructed to stay in the house itself, rather than going from house to house, to avoid wasting time. They are to accept what is given to them, sharing the things provided by those they encounter. This is not about accepting different types of food, but about embracing the generosity of others without burdening them with constant movement.",
+            "wordCount": 96,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.5698892409203418,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                31.29,
+                36.49,
+                32.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When entering a house, it is important to avoid interpreting it as the same house, as the original text does not allow for that. The disciples should recognize the value of their work and the reward they receive. They are advised to remain in the house itself, rather than going from house to house, to avoid wasting time. They should accept what is given to them, sharing the generosity of those they encounter. This is not about accepting different types of food, but about embracing the kindness of others without burdening them with constant movement.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.5982873927615011,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.49,
+            "commentatorTierSimilarities": [
+                32.29,
+                35.65,
+                32.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

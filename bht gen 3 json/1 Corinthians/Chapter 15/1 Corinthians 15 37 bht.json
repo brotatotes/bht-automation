@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:14:11",
+    "verseRef": "1 Corinthians 15:37",
+    "bestBHT": {
+        "bht": "In discussing the resurrection, Paul uses the analogy of a seed and a plant. He highlights the non-identity between the seed and the future plant, where outward changes do not result in a loss of identity. Just as the full heads of wheat are different from the wheat grain, the new body that will arise after death will have different and excelling qualities. This transformation reflects the law of progress in both the spiritual and natural worlds, illustrating the regeneration and renewal that awaits believers.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.9727055210636082,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+        "commentatorTierSimilarities": [
+            38.24,
+            34.73,
+            27.03
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Before, the death of the seed was insisted on: now, the non-identity of the seed with the future plant.",
+            "He names the plant the body which shall be, having already in his eye the application to the Resurrection."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No longer without stalk or ear, but clothed with blade and ears, and yielding many grains instead of only one.",
+            "There is not an identity of all the particles of the old and the new body. But there is a hidden germ which constitutes the identity of body amidst all outward changes.",
+            "Progress is the law of the spiritual, as of the natural world. Death is the avenue not to mere revivification or reanimation, but to resurrection and regeneration."
+        ],
+        "Albert Barnes": [
+            "They shall not be the same that is sown. They will be new kernels raised from that; of the same kind, indeed, and showing their intimate and necessary connection with that which is sown.",
+            "It is implied here that the body which will be raised will not be the same in the sense that the same particles of matter shall compose it, but the same only in the sense that it will have sprung up from that.",
+            "As the same particles of matter which are sown do not enter into that which shall be in the harvest, so it is taught that the same particles of matter which constitute the body when it dies, do not constitute the new body at the resurrection."
+        ],
+        "Marvin Vincent": [
+            "What you sow is one body, and a different body arises; yet the identity is preserved. Dissolution is not loss of identity.",
+            "The full heads of wheat are different from the wheat-grain, yet both are wheat.",
+            "The mere seed, without the later investiture of stalk and head."
+        ],
+        "John Calvin": [
+            "It is not to be wondered that bodies rise from rottenness, inasmuch as the same thing takes place as to seed.\" ",
+            "It is not at variance with reason, that our bodies should be restored in another condition.",
+            "God forms the body as it pleases him, meaning that in that also there is a difference in respect of quality."
+        ],
+        "Archibald T. Robertson": [
+            "The new body (\u03c3\u03c9\u03bc\u03b1) is not yet in existence, but only the seed (\u03ba\u03bf\u03ba\u03ba\u03bf\u03c2, grain, old word, as in Matthew 13:31).",
+            "We sow seeds, not plants (bodies).",
+            "The butterfly comes out of the dying worm."
+        ],
+        "John Gill": [
+            "The possibility of it may be seen, in the quickening and raising up of a grain of wheat, that first rots and dies.",
+            "...though it will be the same body, yet with different and excelling qualities.",
+            "For as wheat is buried 'naked', it comes forth (or springs up) with many clothings; and how much more the righteous, who are buried in their clothes?"
+        ],
+        "John Wesley": [
+            "Thou sowest not the body that shall be.\" ",
+            "Produced from the seed committed to the ground, but a bare, naked grain.",
+            "Widely different from that which will afterward rise out of the earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 15:37, the apostle Paul discusses the transformation of a seed into a plant as an analogy for the resurrection of the body. He highlights the non-identity between the seed and the future plant, emphasizing that although there is no identity of all particles, there is a hidden germ that preserves the identity amidst outward changes. This process reflects the law of progress in both the spiritual and natural worlds, where death is not a loss of identity but rather the avenue to resurrection and regeneration. Just as the full heads of wheat are different from the wheat grain, yet both are wheat, the new body that will arise is not yet in existence but only the seed. The same particles of matter that constitute the body at death will not constitute the new body at the resurrection. Thus, the analogy of the seed and the plant illustrates the transformative nature of the resurrection, where the body will be raised anew with different and excelling qualities.",
+            "wordCount": 167,
+            "quoteTokenProportion": 42.35,
+            "qualityScore": 2.2741072068967476,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.95,
+            "commentatorTierSimilarities": [
+                34.17,
+                40.8,
+                25.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In discussing the resurrection of the body, Paul uses the analogy of a seed and a plant in 1 Corinthians 15:37. He emphasizes the non-identity between the seed and the future plant, highlighting the preservation of identity through a hidden germ amidst outward changes. This process reflects the law of progress in the spiritual and natural worlds, where death is not a loss of identity but a pathway to resurrection and regeneration. The new body that will arise is not yet in existence, only the seed. Thus, the resurrection brings forth a body with different and excelling qualities.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.044995462005256,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                38.07,
+                33.99,
+                27.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul uses the analogy of a seed and a plant to illustrate the transformation of the body in the resurrection. He emphasizes the non-identity between the seed and the future plant, highlighting the preservation of identity through a hidden germ amidst outward changes. This parallels the law of progress in the spiritual and natural worlds, where death is not a loss of identity but a passage to resurrection and regeneration. The new body will have different and excelling qualities, much like the full heads of wheat that differ from the wheat grain.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.0326115069038693,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.93,
+            "commentatorTierSimilarities": [
+                39.71,
+                32.91,
+                27.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In discussing the resurrection, Paul uses the analogy of a seed and a plant. He highlights the non-identity between the seed and the future plant, where outward changes do not result in a loss of identity. Just as the full heads of wheat are different from the wheat grain, the new body that will arise after death will have different and excelling qualities. This transformation reflects the law of progress in both the spiritual and natural worlds, illustrating the regeneration and renewal that awaits believers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9727055210636082,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                38.24,
+                34.73,
+                27.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In 1 Corinthians 15:37, Paul compares the transformation of a seed into a plant to the resurrection of the body. He emphasizes that the seed and the future plant are not the same, but the hidden germ within the seed preserves its identity amidst outward changes. This parallels the law of progress in the natural and spiritual realms, where death is a pathway to resurrection and regeneration. The new body that will arise differs from the original, but both share a connection and continuity, just as a grain of wheat produces a new stalk and many grains.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.130904444060963,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.19,
+            "commentatorTierSimilarities": [
+                39.18,
+                34.81,
+                26.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

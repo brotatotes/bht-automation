@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:17:10",
+    "verseRef": "Luke 9:38",
+    "bestBHT": {
+        "bht": "The father pleads with Jesus, addressing him as Master, to have pity and compassion and look upon his only child, who is suffering. This request reflects the deep concern and love the father has for his son, desperately desiring his restoration to health. The father's plea is heartfelt and sincere, as he humbly implores Jesus for help, expressing the significance and preciousness of his only child.",
+        "wordCount": 67,
+        "quoteTokenProportion": 36.17,
+        "qualityScore": 1.4515092799055132,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+        "commentatorTierSimilarities": [
+            32.48,
+            0.0,
+            67.52
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "38.] he is mine only child is peculiar to Luke."
+        ],
+        "Marvin Vincent": [
+            "Master [\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03b5] . Teacher. ",
+            "Look upon [\u03b5\u03c0\u03b9\u03b2\u03bb\u03b5\u03c8\u03b1\u03b9] . Only here and James 2:3. To look with pitying regard; and by medical writers of examining the condition of a patient."
+        ],
+        "Archibald T. Robertson": [
+            "Master (\u0394\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03b5). Teacher as in Mark 9:17.",
+            "To look upon (\u03b5\u03c0\u03b9\u03b2\u03bb\u03b5\u03c8\u03b1). Aorist active infinitive of \u03b5\u03c0\u03b9\u03b2\u03bb\u03b5\u03c0\u03c9 (\u03b5\u03c0, upon, \u03b2\u03bb\u03b5\u03c0\u03c9, look), common verb, but in the N.T. only here and James 2:3 except Luke 1:48 in quotation from LXX.",
+            "Mine only child (\u03bc\u03bf\u03bd\u03bf\u03b3\u03b5\u03bd\u03b7\u03c2 \u03bc\u03bf). Only in Luke as already about an only child in Luke 7:12; Luke 8:42."
+        ],
+        "John Gill": [
+            "I beseech thee: most humbly, for he was now on his knees.",
+            "Look upon my son: with pity and compassion, and help him.",
+            "For he is mine only child; wherefore he was dear unto him, and he was greatly concerned for him, and earnestly desirous of his being restored to health; and this he mentions, to move the compassion of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The father pleads with Jesus, addressing him as Master, to have pity and compassion and look upon his only child, who is suffering. This request reflects the deep concern and love the father has for his son, desperately desiring his restoration to health. The father's plea is heartfelt and sincere, as he humbly implores Jesus for help, expressing the significance and preciousness of his only child.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.4515092799055132,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+            "commentatorTierSimilarities": [
+                32.48,
+                0.0,
+                67.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The father, in his desperate plea, addresses Jesus as Master, recognizing Him as a Teacher with the authority and power to heal. His humble request is for Jesus to look with pitying regard upon his suffering son. As the father passionately appeals to Jesus, he emphasizes the significance of his only child, revealing the depth of his love and concern for him. The father's earnest desire is for his son to be restored to health, hoping to evoke Jesus' compassion.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.4186873229988748,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.51,
+            "commentatorTierSimilarities": [
+                35.12,
+                0.0,
+                64.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The father, in his plea, addresses Jesus as Master, imploring Him to look upon his only child with pitying regard. The father's deep love and concern for his son is evident as he emphasizes the significance of his only child and expresses his earnest desire for the child's restoration to health. The father's plea reflects his recognition of Jesus' authority as a Teacher and his hope in eliciting Jesus' compassionate response.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.4337240670545435,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.01,
+            "commentatorTierSimilarities": [
+                40.81,
+                0.0,
+                59.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The father, recognizing Jesus as Master, beseeches Him to have compassion and look upon his only child with a pitying regard. The father's deep love and concern for his son is evident, as he earnestly desires the child's restoration to health and emphasizes the child's significance. The father's plea highlights his humble approach and hope for Jesus' intervention and mercy in the situation.",
+            "wordCount": 67,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3632739490696386,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.67,
+            "commentatorTierSimilarities": [
+                35.13,
+                0.0,
+                64.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The father pleads with Jesus, addressing him as Master, to have pity and compassion and look upon his only child, who is suffering. This request reflects the deep concern and love the father has for his son, desperately desiring his restoration to health. The father's plea is heartfelt and sincere, as he humbly implores Jesus for help, expressing the significance and preciousness of his only child.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.4515092799055132,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+            "commentatorTierSimilarities": [
+                32.48,
+                0.0,
+                67.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

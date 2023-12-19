@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:38:41",
+    "verseRef": "1 Peter 1:15",
+    "bestBHT": {
+        "bht": "We are called to become holy, resembling the One who has called us. Our holiness should not be limited to inward devotion but should be displayed in our outward conduct. By rendering our lives after God's pattern, we reflect His character and align our behavior with His standards. Just as a parent begets an offspring that resembles themselves, we are to imitate and mirror the holiness of our heavenly Father. This likeness can be seen in every aspect of our lives, both in our relationship with God and others.",
+        "wordCount": 90,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.795974277438435,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.06,
+        "commentatorTierSimilarities": [
+            28.68,
+            35.4,
+            35.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But (rather) after the pattern of Him who hath called you (whose characteristic is that He is) holy, be (Greek, 'become') ye yourselves also holy.\" ",
+            "Every one that begets, begets an offspring resembling himself.\" ",
+            "Christians are already holy unto God by consecration; they must be so also in their outward walk and behavior in all respects."
+        ],
+        "Albert Barnes": [
+            "The model or example in accordance with which they were to frame their lives, should be the character of that God who had called them into his kingdom.",
+            "They were to be like him.",
+            "Since God is holy, and we profess to be his followers, we also ought to be holy."
+        ],
+        "Marvin Vincent": [
+            "Render, therefore, after the pattern of the Holy One who called you.",
+            "The process of development in the meaning of the word is interesting.",
+            "Our later limitation of the meaning to the interchange of talk makes it expedient to change the rendering, as Rev., to manner of living."
+        ],
+        "John Calvin": [
+            "God sets us apart as a peculiar people for himself; then we ought to be free from all pollutions.\" ",
+            "We are too ready to look to men, so as to follow their common way of living. Thus it happens, that some lead others in troops to all kinds of evil, until the Lord by his calling separates them.\" ",
+            "There is then no part of our life which is not to be redolent with this good odor of holiness."
+        ],
+        "Philip Schaff": [
+            "Instead of letting their life revert to the type of those renounced impurities, they must show it conformed to no lower standard than that of God.",
+            "What it rendered \u2018as\u2019 means \u2018after the pattern,\u2019 or \u2018after the measure of\u2019 ... and what it gives as a mere adjective \u2018holy\u2019 is a personal name God obtains here a twofold designation appropriate to the precept, and furnishing motives for its observance.",
+            "A holiness after God\u2019s pattern, and befitting children of obedience, must needs be a separateness from the world complete enough to show itself in all and every part of their behavior."
+        ],
+        "Archibald T. Robertson": [
+            "God is our standard or pattern, not our lusts.",
+            "Do ye also become holy.",
+            "The original meaning (turning up and down, back and forth) suited the Latin word conversatio (converto), but not our modern 'conversation' (talk, not walk)."
+        ],
+        "John Gill": [
+            "And who himself is holy, naturally, perfectly, and originally, and in such sense as no creature is, angels or men; and is glorious in holiness, and is the source and fountain of holiness in others.",
+            "External holiness, holiness of life and conversation, in all the parts and branches of it, both with respect to God and men, in matters both of religion and civil life.",
+            "To be holy in this sense is an imitating of God, a copying after him, though he is far from being equalled by a sinful creature, or even by an angel in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are called to be holy, like our Creator, not just in our inward consecration but also in our outward conduct. Just as a child bears resemblance to their parent, we are to reflect the characteristics of our heavenly Father. Our behavior should conform to the pattern set by God, rather than the ways of the world. This holiness extends to every aspect of our lives, reflecting a complete separation from impurities. It is through our imitation of God that we display true holiness, both in our religious and secular spheres.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.7574086926884576,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                28.52,
+                34.92,
+                36.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are called to become holy, following the example of our Creator. Just as children resemble their parents, we are to mirror God's holiness in both our inward and outward lives. Our behavior should align with God's standard, not conforming to worldly ways. This holiness is evident in every part of our lives, demonstrating a separation from impurities. By imitating God, we display true holiness in all aspects of our existence.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8304633561668087,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.2,
+            "commentatorTierSimilarities": [
+                29.13,
+                35.36,
+                35.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are to pattern our lives after the holy nature of God, who has called us to Himself. Just as children resemble their parents, we are to reflect the characteristics of our heavenly Father. Our conduct should conform to God's standards, demonstrating our consecration to Him. This holiness encompasses all aspects of our lives, both in our relationship with God and in our interactions with others. In imitating God, we exhibit true holiness, surpassing the standards of the world.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.8408167882837045,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                28.63,
+                37.04,
+                34.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are called to become holy, following the example of the One who has called us. Just as a parent begets an offspring resembling themselves, we are to bear the likeness of our heavenly Father. Our holiness is not just a matter of inner consecration but must be reflected in our outward behavior. We are to render our lives after the pattern of the Holy One who has called us, living in a manner that aligns with His character. In imitating God, we exhibit true holiness in every aspect of our lives.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.886131250105662,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+            "commentatorTierSimilarities": [
+                31.79,
+                33.98,
+                34.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are called to become holy, resembling the One who has called us. Our holiness should not be limited to inward devotion but should be displayed in our outward conduct. By rendering our lives after God's pattern, we reflect His character and align our behavior with His standards. Just as a parent begets an offspring that resembles themselves, we are to imitate and mirror the holiness of our heavenly Father. This likeness can be seen in every aspect of our lives, both in our relationship with God and others.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.795974277438435,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.06,
+            "commentatorTierSimilarities": [
+                28.68,
+                35.4,
+                35.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

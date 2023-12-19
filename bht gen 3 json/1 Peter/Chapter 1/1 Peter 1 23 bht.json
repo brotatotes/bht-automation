@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:09",
+    "verseRef": "1 Peter 1:23",
+    "bestBHT": {
+        "bht": "We are born again by an imperishable word, the means by which God's mysterious germinating power works. This word is not a transient voice, but an eternal divine power that sinks into the heart and is living; it is God Himself. By this living and abiding word, we are begotten again, not of corruptible seed, but of a seed that liveth and abideth forever. As recipients of this incorruptible seed, let us love one another with a love that reflects our new and abiding nature.",
+        "wordCount": 86,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 2.2504546219610977,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.17,
+        "commentatorTierSimilarities": [
+            37.34,
+            29.65,
+            33.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The begetting cause of this new birth being God\u2019s living and imperishable word, from that fact come in new considerations, enforcing that pure love which belongs not to a transitory and shifting, but to an eternal and abiding state.\" ",
+            "The word of God is not the begetting principle itself, but only that by which the principle works: as it were the grain which is the vehicle of the mysterious germinating power.\" ",
+            "The power of origination rests in God Himself, the Father, who begat us of his own will: the means of instrumentality move on and abide forever."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As natural relationship gives rise to natural affection, so spiritual relationship gives rise to spiritual, and therefore abiding love.",
+            "We are born again of the Spirit, yet not without the use of means, but by the word of God. The word is not the begging principle itself, but only that by which it works: the vehicle of the mysterious germinating power.",
+            "The word is an eternal divine power. For though the voice or speech vanishes, there still remains the kernel, the truth comprehended in the voice. This sinks into the heart and is living; yea, it is God Himself."
+        ],
+        "Albert Barnes": [
+            "The result of such a birth, or of being begotten in this way - for so the word rendered 'born again' more properly signifies - is only corruption and decay.\"  ",
+            "By truth, communicating a living principle to the soul which can never decay.\"  ",
+            "As God is ever-living, that which is produced directly by him in the human soul, by the instrumentality of truth, may be expected also to endure forever."
+        ],
+        "Marvin Vincent": [
+            "Being born again [\u03b1\u03bd\u03b1\u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03b5\u03bd\u03bf\u03b9] . Rev., having been begotten again.\" ",
+            "Of [\u03b5\u03ba] seed - by [\u03b4\u03b9\u03b1] the word.\" ",
+            "In the New Testament we trace a gradual ascent from (a) the concrete message as conveyed to man by personal agency through (b) the Word, the revelation of God to man which the message embodies, forming, as it were, its life and soul, to (c) THE WORD, who, being God, not only reveals but imparts himself to us, and is formed in us thereby."
+        ],
+        "John Calvin": [
+            "The object, then, of Peter was to teach us that we cannot be Christians without regeneration; for the Gospel is not preached, that it may be only heard by us, but that it may, as a seed of immortal life, altogether reform our hearts.",
+            "Moreover, the corruptible seed is set in opposition to God\u2019s word, in order that the faithful might know that they ought to renounce their former nature, and that it might be more evident how much is the difference between the children of Adam who are born only into the world, and the children of God who are renewed into a heavenly life.",
+            "But as the construction of the Greek text is doubtful, we may read, 'the living word of God,' as well as, 'the word of the living God.' As, however, the latter reading is less forced, I prefer it; though it must be observed, that the term is applied to God owing to the character of the passage."
+        ],
+        "Philip Schaff": [
+            "The special qualities of the instrument of their regeneration, namely those of \u2018living\u2019 and \u2018abiding,\u2019 are then named as arguments for rising to that high strain of persevering, undecaying love which befits a life which itself is lifted above the inconsistency, fitfulness, and perishableness of the natural life.",
+            " ",
+            "The Logos or \u2018Word\u2019 by which God begets us is neither the Personal Word, Christ, by whom God has spoken finally, nor the written Word, the \u2018Scripture,\u2019 with which Paul opens his quotations, but, as in Hebrews 4:12, Revelation, or the declared will of God, and here that will as declared specially in the Gospel.",
+            " ",
+            "The context shows Peter to be viewing it as a voice which penetrates man\u2019s nature like a quickening principle, \u2018a Divine, eternal, creative power, working in and on the soul of man\u2019 (Plumptre), and nearly identified with God Himself."
+        ],
+        "Archibald T. Robertson": [
+            "Not of corruptible seed... Through the word of God.\" ",
+            "It is the gospel message.\" ",
+            "Which liveth and abideth."
+        ],
+        "John Gill": [
+            "And therefore seeing they were brethren in a spiritual relation, they ought to love as brethren; being children of the same Father, belonging to the same family and household, having the same spirit, and the same nature and disposition, and being members one of another, and heirs of the same grace and glory.\" ",
+            "being children of the same Father, belonging to the same family and household, having the same spirit, and the same nature and disposition, and being members one of another, and heirs of the same grace and glory",
+            "for the incorruptible seed, and the ever living and abiding word, are two distinct things; though interpreters generally confound them"
+        ],
+        "John Wesley": [
+            "Which liveth \u2014 Is full of divine virtue. And abideth the same for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are born again by an imperishable word, the means by which God's mysterious germinating power works. The power of our origination rests in God Himself, the Father, but the word of God is the vehicle through which our new birth takes place. This word is not a transient voice, but an eternal divine power that sinks into the heart and is living; it is God Himself. By this living and abiding word, we are begotten again, not of corruptible seed, but of a seed that liveth and abideth forever. This Gospel message, communicating a living principle to our souls, is the instrument of our regeneration, imparting the divine and eternal life that only God can give. It is through this word that we are brought into a spiritual relationship with God and with one another as His children, belonging to the same family and household, having the same spirit, nature, and disposition. As recipients of this incorruptible seed, let us love one another with a love that reflects our new and abiding nature.",
+            "wordCount": 175,
+            "quoteTokenProportion": 35.96,
+            "qualityScore": 2.2310181106828795,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.52,
+            "commentatorTierSimilarities": [
+                36.69,
+                30.94,
+                32.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are born again by an imperishable word, the means by which God's mysterious germinating power works. This word is not a transient voice, but an eternal divine power that sinks into the heart and is living; it is God Himself. By this living and abiding word, we are begotten again, not of corruptible seed, but of a seed that liveth and abideth forever. As recipients of this incorruptible seed, let us love one another with a love that reflects our new and abiding nature.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.2504546219610977,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.17,
+            "commentatorTierSimilarities": [
+                37.34,
+                29.65,
+                33.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through God's living and imperishable word, we are begotten again, not of corruptible seed, but of a seed that liveth and abideth forever. This word is not a transient voice; it is an eternal divine power that sinks into the heart and is living, for it is God Himself. As recipients of this incorruptible seed, let us love one another with a love that reflects our new and abiding nature, as children of the same Father, belonging to the same family and household.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.248987912486561,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.12,
+            "commentatorTierSimilarities": [
+                34.38,
+                28.08,
+                37.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By God's living and imperishable word, we are born again, not of corruptible seed, but of a seed that lives and abides forever. This word, which is an eternal divine power, is the means through which our new birth takes place, sinking into our hearts and imparting life. As recipients of this incorruptible seed, let us love one another, reflecting our new and abiding nature as children of the same Father, united in the same family and household, sharing the same spirit and inheritance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.170867543593447,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.52,
+            "commentatorTierSimilarities": [
+                34.25,
+                28.31,
+                37.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through God's living and imperishable word, we are begotten again of a seed that liveth and abideth forever. This word, an eternal divine power, sinks into the heart and imparts life. As recipients of this incorruptible seed, let us love one another with a love that reflects our new and abiding nature, as children of the same Father, members of the same family and household, sharing the same spirit and inheritance.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.1080254588027465,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.43,
+            "commentatorTierSimilarities": [
+                32.53,
+                27.52,
+                39.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

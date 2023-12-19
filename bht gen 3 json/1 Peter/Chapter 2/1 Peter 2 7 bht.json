@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:06",
+    "verseRef": "1 Peter 2:7",
+    "bestBHT": {
+        "bht": "To you believers belongs the honor...but to the disobedient...the stone which the builders rejected, this has become for a head corner stone. Unbelief leads to disobedience, as faith is contrasted with disobedience throughout Scripture. Believers find value in Christ as the precious cornerstone, while unbelievers reject Him, unaware that their rejection only contributes to His exaltation. Christ is esteemed by Christians as of immeasurable worth, and they build their lives upon Him as the foundation. Those who disbelieve will eventually realize the sorrowful consequence of their rejection.",
+        "wordCount": 89,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.8137907544232088,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+        "commentatorTierSimilarities": [
+            25.56,
+            39.16,
+            35.28
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Unto you then is the honour...who believe: but to the disobedient...the stone which the builders rejected, this has become for a head corner stone.\" (57 words)",
+            "Unbelief is the root of disobedience...but it is the manner of Scripture, to follow it out into disobedience, its invariable effect, when spoken of in contrast to faith.\" (37 words)",
+            "This is true with regard to believers also: but to them it is grace and glory, to these it is terror and destruction.\" (21 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "On the opposite effects of the same Gospel on different classes.",
+            "To you believers belongs the preciousness of Christ just mentioned.",
+            "Those who rejected the STONE were all the while in spite of themselves unconsciously contributing to its becoming Head of the corner."
+        ],
+        "Albert Barnes": [
+            "While the Lord Jesus is rejected by the great mass of people, he is regarded by all Christians as of inestimable value.",
+            "To see the value of the Saviour, we must see that we are poor, helpless, dying sinners; that the soul is of inestimable worth; that we have no merit of our own; and that unless someone interpose, we must perish.",
+            "In his character, abstractedly considered, there was more to attract, to interest, to love, than in that of any other one who ever lived in our world."
+        ],
+        "Marvin Vincent": [
+            "For you therefore which believe is the preciousness (honor, in margin).\" ",
+            "Was made.\" ",
+            "Lit., it would be, was made or became unto the head, etc."
+        ],
+        "John Calvin": [
+            "Christ is a precious stone in the sight of God; then he is such to the faithful.\" ",
+            "Christ, though opposed by his enemies, yet continues in that dignity to which he has been appointed by the Father.",
+            "For there is no medium between these two things, \u2014 we must either build on him, or be dashed against him."
+        ],
+        "Philip Schaff": [
+            "For you, therefore, who believe is the honour.",
+            "The sense being that the value which the Stone has in God's sight is a value which it has for them who believe.",
+            "The stone which the builders rejected, this was made the head of the corner."
+        ],
+        "Archibald T. Robertson": [
+            "The preciousness (\u03b7 \u03c4\u03b9\u03bc\u03b7). Or 'the honour.'\" ",
+            "But for such as disbelieve (\u03b1\u03c0\u03b9\u03c3\u03c4\u03bf\u03c5\u03c3\u03b9\u03bd \u03b4\u03b5).\" ",
+            "Was made the head of the corner (\u03b5\u03b3\u03b5\u03bd\u03b7\u03b8\u03b7 \u03b5\u03b9\u03c2 \u03ba\u03b5\u03c6\u03b1\u03bb\u03b7\u03bd \u03b3\u03c9\u03bd\u03b9\u03b1\u03c2)."
+        ],
+        "John Gill": [
+            "Now to these, in proof of what is asserted in the above passage out of Isaiah, Christ is precious.",
+            "His sacrifice is precious, of a sweet smelling savour to them, as well as to God; by which their sins are fully expiated, put, and taken away; full satisfaction being made for them, and they themselves thereby perfected for ever.",
+            "Believers love his commandments above gold, yea; above fine gold, and esteem his precepts concerning all things to be right, and delight in his ways and ordinances."
+        ],
+        "John Wesley": [
+            "To them who believe, he is become the head of the corner.",
+            "The chief corner stone, on which the whole building rests.",
+            "Unbelievers too will at length find him such to their sorrow."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To you believers belongs the honor...but to the disobedient...the stone which the builders rejected, this has become for a head corner stone. Unbelief leads to disobedience, as faith is contrasted with disobedience throughout Scripture. Believers find value in Christ as the precious cornerstone, while unbelievers reject Him, unaware that their rejection only contributes to His exaltation. Christ is esteemed by Christians as of immeasurable worth, and they build their lives upon Him as the foundation. Those who disbelieve will eventually realize the sorrowful consequence of their rejection.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.8137907544232088,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+            "commentatorTierSimilarities": [
+                25.56,
+                39.16,
+                35.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The stone which the builders rejected, this has become for a head corner stone. Unbelief leads to disobedience, as faith is contrasted with disobedience throughout Scripture. Believers find value in Christ as the precious cornerstone, while unbelievers reject Him, unaware that their rejection only contributes to His exaltation. Christ is esteemed by Christians as of immeasurable worth, and they build their lives upon Him as the foundation. Those who disbelieve will eventually realize the sorrowful consequence of their rejection.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.8000257104771893,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                24.89,
+                39.85,
+                35.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To you believers belongs the honor...but to the disobedient...the stone which the builders rejected, this has become for a head corner stone. Unbelief leads to disobedience, and Scripture consistently reveals this contrast between faith and disobedience. Believers understand the preciousness of Jesus Christ, valuing Him as the cornerstone. Even though Christ was initially rejected by people, He ultimately became the cornerstone, fulfilling God's plan. Christians recognize the immeasurable significance of Christ, building their lives on Him as their foundation. Conversely, those who disbelieve will eventually experience the regretful consequences of their rejection.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.777705528224264,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.45,
+            "commentatorTierSimilarities": [
+                26.36,
+                38.72,
+                34.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To you believers belongs the honor...but to the disobedient...the stone which the builders rejected, this has become for a head corner stone. Unbelief leads to disobedience, and Scripture reveals this contrast between faith and disobedience. Believers value Jesus Christ as the precious cornerstone, while unbelievers reject Him, unaware that their rejection contributes to His exaltation. Christ is esteemed as immeasurably valuable by Christians, and they build their lives on Him. Those who disbelieve will eventually realize the sorrowful consequences of their rejection.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.807303278362764,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.43,
+            "commentatorTierSimilarities": [
+                25.07,
+                39.14,
+                35.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To you believers belongs the honor...but to the disobedient...the stone which the builders rejected, this has become for a head corner stone. Unbelief leads to disobedience, as faith is contrasted with disobedience throughout Scripture. Believers find value in Christ as the precious cornerstone, while unbelievers reject Him, unaware that their rejection only contributes to His exaltation. Christians esteem Christ as of immeasurable worth, building their lives upon Him. Those who disbelieve will eventually realize the sorrowful consequences of their rejection.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.7819585529349036,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                25.24,
+                40.41,
+                34.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

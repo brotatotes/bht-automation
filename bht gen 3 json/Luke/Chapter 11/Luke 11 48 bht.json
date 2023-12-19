@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:18:36",
+    "verseRef": "Luke 11:48",
+    "bestBHT": {
+        "bht": "Jesus exposes the lawyers' hypocrisy, as they outwardly disapprove of what their fathers did in killing the prophets, yet inwardly neglect and oppose the teachings of the prophets, just as their fathers did. By building sepulchers for the prophets, they perpetuate the memory of their fathers' crimes and bear witness against themselves. Their actions serve as a testament to their deep hypocrisy, revealing that they possess the same spirit as their ancestors.",
+        "wordCount": 72,
+        "quoteTokenProportion": 40.43,
+        "qualityScore": 1.7499203153473304,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+        "commentatorTierSimilarities": [
+            36.49,
+            0.0,
+            63.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The whole saying is a reference to 2 Chron. xxiv. 18\u201322, and so marked a one, that I am surprised that no Commentators but Olahausen and Stier should have observed it, and they not thoroughly.",
+            "The words in our text are not indeed a citation, but an amplification of ver. 19 there\u2014a paraphrase of them, giving the true sense of what the wisdom of God intended by them.",
+            "Enlarging the mere historical notice which laid hold of God\u2019s purpose only by one thread let down to the earth, into the divine revelation of the whole purpose of God as the counsel of His will in heaven."
+        ],
+        "Marvin Vincent": [
+            "Ye bear witness that ye allow... ye are witnesses and consent. The compound verb means 'give your full approval.'\" ",
+            "Ye think favorably... along with them."
+        ],
+        "Archibald T. Robertson": [
+            "Consent (\u03c3\u03c5\u03bd\u03b5\u03c5\u03b4\u03bf\u03ba\u03b5\u03b9\u03c4\u03b5). Double compound (\u03c3\u03c5\u03bd, \u03b5\u03c5, \u03b4\u03bf\u03ba\u03b5\u03c9), to think well along with others, to give full approval.\" ",
+            "It is a somewhat subtle, but just, argument made here. Outwardly the lawyers build tombs for the prophets whom their fathers (forefathers) killed as if they disapproved what their fathers did.",
+            "But in reality they neglect and oppose what the prophets teach just as their fathers did. So they are 'witnesses' (\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b5\u03c2) against themselves."
+        ],
+        "John Gill": [
+            "Truly ye bear witness, that ye allow the deeds of your fathers.",
+            "They both witnessed that their fathers killed the prophets, and they consented to what they did, and approved of their actions.",
+            "And ye build their sepulchres; which was a bearing and keeping up a testimony against them, and a continuing a remembrance of their crimes."
+        ],
+        "John Wesley": [
+            "Whom they killed, ye build their sepulchres.",
+            "Just like them pretending great reverence for the ancient prophets, while ye destroy those whom God sends to yourselves.",
+            "Ye therefore bear witness by this deep hypocrisy that ye are of the very same spirit with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The lawyers in Luke 11:48 are called out for their hypocrisy by Jesus. While outwardly they seem to disapprove of what their forefathers did in killing the prophets, in reality they neglect and oppose what the prophets teach just as their fathers did. This is a subtle, but just, argument made by Jesus to highlight their double-mindedness. He points out that by building tombs for the prophets, they bear witness against themselves, showing their approval of their fathers' actions. Thus, their actions signify their deep hypocrisy and reveal that they are of the very same spirit as their ancestors.",
+            "wordCount": 99,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.5920725472985144,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.28,
+            "commentatorTierSimilarities": [
+                41.32,
+                0.0,
+                58.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus confronts the hypocrisy of the lawyers who claim to disapprove of their forefathers' actions but actually neglect and oppose the teachings of the prophets, just like their ancestors did. By building tombs for the prophets, they ironically bear witness against themselves, revealing their double-mindedness and their true alignment with the same spirit as their fathers. This highlights the gap between their outward display of reverence and their inward rejection of God's messengers.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6399241957408783,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.87,
+            "commentatorTierSimilarities": [
+                40.49,
+                0.0,
+                59.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus exposes the lawyers' hypocrisy, as they outwardly disapprove of their forefathers' actions in killing the prophets, while inwardly neglecting and opposing their teachings. The act of building tombs for the prophets serves as a contradictory witness against themselves, revealing their true alignment with the very same Spirit as their fathers. Their actions demonstrate a stark contrast between their external show of reverence and their internal rejection of God's messengers.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.6137866308222684,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.0,
+            "commentatorTierSimilarities": [
+                41.07,
+                0.0,
+                58.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus exposes the lawyers' hypocrisy, as they outwardly disapprove of what their fathers did in killing the prophets, yet inwardly neglect and oppose the teachings of the prophets, just as their fathers did. By building sepulchers for the prophets, they perpetuate the memory of their fathers' crimes and bear witness against themselves. Their actions serve as a testament to their deep hypocrisy, revealing that they possess the same spirit as their ancestors.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.7499203153473304,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+            "commentatorTierSimilarities": [
+                36.49,
+                0.0,
+                63.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus calls out the lawyers for their hypocrisy. While they appear to disapprove of their forefathers' actions, they actually neglect and oppose the teachings of the prophets, just as their fathers did. By building tombs for the prophets, they unwittingly testify against themselves, revealing their true alignment with their forefathers. Their actions display a stark contrast between their outward appearance of reverence and their underlying rejection of God's messengers.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.5734899783138225,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                41.83,
+                0.0,
+                58.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

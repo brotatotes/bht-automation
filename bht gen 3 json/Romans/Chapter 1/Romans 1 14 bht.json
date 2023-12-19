@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:59:01",
+    "verseRef": "Romans 1:14",
+    "bestBHT": {
+        "bht": "Paul sees himself as a debtor to all, including the Greeks and the Barbarians, obligated to preach the gospel based on the grace bestowed upon him and the divine calling he has received. His mission encompasses both the wise and the unwise, accommodating himself to the capacities of the ignorant and unlearned. Paul humbly recognizes that his obligation extends to all nations, breaking down cultural and intellectual barriers through the simplicity of the gospel message.",
+        "wordCount": 75,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 2.0510577270648227,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+        "commentatorTierSimilarities": [
+            23.34,
+            40.33,
+            36.33
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He wishes to have some fruit, some produce of expended labour, among the Romans as among the rest of the Gentiles.",
+            "the obligation laid on him to preach the gospel to them",
+            "These words must not be pressed as applying to any particular churches, or as if any one of them designated the Romans themselves,\u2014or even as if wise belonged to Greeks and unwise to Barbarians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14, 15. I am debtor both to the",
+            "\tGreeks\u2014cultivated ",
+            "\t",
+            "and to the Barbarians\u2014rude."
+        ],
+        "Marvin Vincent": [
+            "All men, without distinction of nation or culture, are Paul's creditors, 'He owes them his life, his person, in virtue of the grace bestowed upon him, and of the office which he has received.'\" (Godet)",
+            "Greeks - Barbarians. Gentiles without distinction. Paul takes the conventional Greek division of all mankind into Greeks and non-Greeks.",
+            "The question whether he includes the Romans among the Greeks or the Barbarians is irrelevant."
+        ],
+        "John Calvin": [
+            "He then takes an argument from his own office, and intimates that it ought not to be ascribed to his arrogance, that he thought himself in a manner capable of teaching the Romans, however much they excelled in learning and wisdom and in the knowledge of things, inasmuch as it had pleased the Lord to make him a debtor even to the wise.",
+            "Two things are to be here considered \u2014 that the gospel is by a heavenly mandate destined and offered to the wise, in order that the Lord may subject to himself all the wisdom of this world, and make all variety of talents, and every kind of science, and the loftiness of all arts, to give way to the simplicity of his doctrine.",
+            "All teachers have also a rule here which they are to follow, and that is, modestly and kindly to accommodate themselves to the capacities of the ignorant and unlearned. Hence it will be, that they will be able, with more evenness of mind, to bear with many absurdities and almost innumerable things that may disgust them, by which they might otherwise be overcome."
+        ],
+        "Philip Schaff": [
+            "I am debtor. 'Paul regards the divine obligation of office, received through Christ (Romans 1:5), as the undertaking of a debt, which he has to discharge by preaching the Gospel among all Gentile nations.'\" (Meyer)",
+            "To Greeks and to Barbarians. The Greeks called all other peoples 'Barbarians;' the word having reference to the strange, unintelligible language... The Romans, according to the usage of those days, were not counted among the 'Barbarians,' but the Apostle probably docs not class them here at all, for at Rome were representatives of all nations and all shades of culture and ignorance. He is a debtor to all, whatever may be the distinctions of language or race.\" ",
+            "Both to wise and to unwise. This expresses the difference of natural intelligence and cultivation in every nation... The two pairs together 'are used, apparently, merely as comprehending all Gentiles, whether considered in regard of race or of intellect; and are placed here certainly not without a prospective reference to the universality of guilt, and need of the gospel, which he is presently about to prove existed in the Gentile world.'\" (Alford)"
+        ],
+        "Archibald T. Robertson": [
+            "Both to Greeks and to Barbarians. The whole human race from the Greek point of view, Jews coming under barbarians.",
+            "On this word see Acts 18:2; Acts 18:4; 1 Corinthians 4:11; Colossians 3:11 (only N.T. instances).",
+            "Did Paul consider the Romans as Greeks? They had absorbed the Greek language and culture."
+        ],
+        "John Gill": [
+            "I am a debtor both to the Greeks, and to the Barbarians....\" ",
+            "The Gospel was to be preached 'to the wise'; such who thought themselves to be so, and were so with respect to human wisdom and knowledge....",
+            "It must be preached 'to the unwise'; for such God has chosen to confound the wise; these he calls by his grace, and reveals his Gospel to, whilst he hides it from the wise and prudent...."
+        ],
+        "John Wesley": [
+            "He includes the Romans under the Greeks; so that this division comprises all nations.",
+            "For there were unwise even among the Greeks, and wise even among the barbarians.",
+            "I am bound by my divine mission to preach the gospel to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in Romans 1:14, expresses his obligation to preach the gospel to all people, irrespective of their cultural or intellectual background. He considers himself a debtor to both the Greeks and the Barbarians, meaning that he owes them his life and person because of the grace bestowed upon him and the office he has received. His debt extends to all Gentiles, encompassing the whole human race. This debt is not a result of his own arrogance, but a divine mandate to bring the gospel to the wise and the unwise. Paul's mission is to make the wisdom of the world give way to the simplicity of the gospel, while accommodating himself to the capacities of the ignorant and unlearned. Ultimately, Paul is bound by his divine mission to preach the gospel to all nations, fulfilling his responsibility as a servant of Christ.",
+            "wordCount": 142,
+            "quoteTokenProportion": 36.14,
+            "qualityScore": 2.0593997883637765,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                25.37,
+                41.79,
+                32.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, as a servant of Christ, recognizes his indebtedness to all people, regardless of their cultural or intellectual backgrounds. He considers himself obligated to preach the gospel, as he has been entrusted with the grace of God and the divine mandate to spread the good news. Paul's debt extends to the wise and the unwise, encompassing all Gentiles. His mission is to make the wisdom of the world yield to the simplicity of the gospel, while humbly adjusting his approach to reach people of different capacities.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8649491865553665,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                24.27,
+                40.82,
+                34.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul acknowledges his debt to the wise and the unwise, the Greeks and the Barbarians, as he is bound by his divine mission to preach the gospel to all. His obligation is not born out of arrogance but is rooted in the grace bestowed upon him and the office he has received. Paul recognizes the need to accommodate himself to the capacities of the ignorant and unlearned, humbly sharing the simplicity of the gospel with people from diverse backgrounds and levels of understanding.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9747273336442581,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.0,
+            "commentatorTierSimilarities": [
+                23.87,
+                39.48,
+                36.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul asserts his indebtedness to all people, including the Greeks and the Barbarians, as part of his divine calling to preach the gospel. He views this obligation not as an expression of arrogance but as a result of the grace and office bestowed upon him. Paul's mission encompasses the wise and the unwise, accommodating himself to the capacities of the ignorant to bring the simplicity of the gospel to all. His responsibility is to fulfill his divine mandate by proclaiming the gospel to people from various cultural and intellectual backgrounds.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9505497168554178,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.2,
+            "commentatorTierSimilarities": [
+                24.28,
+                38.64,
+                37.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul sees himself as a debtor to all, including the Greeks and the Barbarians, obligated to preach the gospel based on the grace bestowed upon him and the divine calling he has received. His mission encompasses both the wise and the unwise, accommodating himself to the capacities of the ignorant and unlearned. Paul humbly recognizes that his obligation extends to all nations, breaking down cultural and intellectual barriers through the simplicity of the gospel message.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.0510577270648227,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                23.34,
+                40.33,
+                36.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

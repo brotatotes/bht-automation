@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:07:46",
+    "verseRef": "1 Corinthians 7:34",
+    "bestBHT": {
+        "bht": "The division between married women and virgins extends beyond their external circumstances; it also encompasses their interests and concerns. The unmarried woman and the virgin have the opportunity to devote themselves entirely to the things of the Lord, while the married woman is occupied with worldly matters and seeking to please her husband. Choosing a life of singleness provides advantages for attending to matters of religion and preserving both physical and spiritual purity. It highlights the value of being fully devoted to the Lord and avoiding distractions in our pursuit of holiness.",
+        "wordCount": 92,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 2.169881075972413,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.49,
+        "commentatorTierSimilarities": [
+            28.94,
+            40.57,
+            30.49
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Divided also is the (married) woman and the virgin, divided in interest [i. e. in cares and pursuits] from one another: not merely, different from one another as would seem at first sight from the words of the text.\" ",
+            "He wishes his Corinthians, during that short time, to be as far as possible totally undistracted.\" ",
+            "Meanwhile they stand here on the sacred page as a lesson to us how to regard, though in circumstances somewhat changed, our worldly relations."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not merely the unmarried and the married man differ in their respective duties, but also the wife and the virgin.",
+            "Indeed, a woman undergoes a greater change of condition than a man in contracting marriage.",
+            "A woman undergoes a greater change of condition than a man in contracting marriage."
+        ],
+        "Albert Barnes": [
+            "The unmarried women ... - Has more advantages for attending to the things of religion; has fewer temptations to neglect her proper duty to God.",
+            "The apostle here intends, undoubtedly, to intimate that there were dangers to personal piety in the married life, which would not occur in a state of celibacy.",
+            "O! how many a Christian female has thus been injured by an unhappy marriage with a frivolous and worldly man! How often has the church occasion to mourn over piety that is dimmed, benevolence that is quenched, zeal that is extinguished by devotion to a frivolous and worldly husband!"
+        ],
+        "Marvin Vincent": [
+            "The wife and the virgin are divided.",
+            "The unmarried woman and the virgin care for the things of the Lord.",
+            "But he who is married careth for the things of the world how he may please his wife, and he is distracted."
+        ],
+        "John Calvin": [
+            "Virgins and widows are not prevented by earthly things from devoting their whole cares and their whole affections to God.",
+            "He shows what kind of chastity is true and acceptable to God - when the mind is kept unpolluted in the sight of God.",
+            "No chastity is well pleasing to God that does not extend to the soul as well as to the body."
+        ],
+        "Archibald T. Robertson": [
+            "But, alas, how many unmarried women (virgins and widows) are after the things of the world today and lead a fast and giddy life.",
+            "Paul's point is that the married woman is more disposed to care for the things of the world.",
+            "Possibly so, but the MSS. vary greatly at every point."
+        ],
+        "John Gill": [
+            "There is just the same difference between a married and an unmarried woman, as there is between a married and an unmarried man.",
+            "The unmarried woman careth for the things of the Lord; not everyone that is unmarried, but one that has the grace of God, being in a single state.",
+            "But as a close adherence to the Lord, and to his worship and service, may be a means of preserving from external pollutions of the body, so likewise of carrying on the internal work of grace upon the soul."
+        ],
+        "John Wesley": [
+            "The unmarried woman \u2014 If she know and use her privilege.",
+            "Careth only for the things of the Lord \u2014 All her time, care, and thoughts centre in this, how she may be holy both in body and spirit.",
+            "This is the standing advantage of a single life, in all ages and nations. But who makes a suitable use of it?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the division between married women and virgins, not just in their external circumstances, but also in their interests and concerns. The apostle Paul advises the Corinthians to be undistracted and fully devoted to the Lord, emphasizing that the unmarried woman and the virgin can give their undivided attention to the things of God, while the married woman is preoccupied with worldly matters and pleasing her husband. Unfortunately, in Paul's time and even today, there are unmarried women who are entangled in worldly pursuits. It is important to recognize that choosing a life of singleness can provide greater advantages for attending to matters of religion. This distinction is made to highlight the significance of a woman's change of condition when she enters into marriage. The married woman is more disposed to care for worldly concerns, whereas the unmarried woman has the opportunity to direct her cares and affections solely towards God. It is a reminder that true chastity extends beyond physical purity to encompass purity of mind and devotion to the Lord. Overall, the passage encourages us to carefully consider our worldly relations and strive to be undistracted in our pursuit of holiness.",
+            "wordCount": 198,
+            "quoteTokenProportion": 32.48,
+            "qualityScore": 2.205891807064119,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.69,
+            "commentatorTierSimilarities": [
+                29.78,
+                40.73,
+                29.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The call to be undistracted and fully devoted to the Lord is emphasized in this passage. It highlights the division between married women and virgins, not just in their external circumstances, but also in their interests and concerns. The unmarried woman and the virgin have the privilege of caring solely for the things of the Lord, while the married woman is preoccupied with worldly matters and pleasing her husband. It is a reminder of the importance of choosing a life of singleness, which provides greater advantages for attending to matters of religion and preserving purity of both body and spirit.",
+            "wordCount": 100,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.144241790098378,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.64,
+            "commentatorTierSimilarities": [
+                30.12,
+                38.01,
+                31.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The division between married women and virgins goes beyond external circumstances; it extends to their interests and concerns. The unmarried woman and the virgin have the privilege of caring solely for the things of the Lord, while the married woman is preoccupied with worldly matters and pleasing her husband. Choosing a life of singleness provides greater advantages for attending to matters of religion and preserving purity of both body and spirit. It emphasizes the importance of being undistracted and fully devoted to the Lord in our pursuits.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.162310973527716,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.24,
+            "commentatorTierSimilarities": [
+                29.79,
+                39.07,
+                31.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The division between married women and virgins extends beyond external circumstances; it encompasses their interests and cares. The unmarried woman and the virgin have the opportunity to focus solely on the things of the Lord, whereas the married woman is distracted by worldly concerns and the desire to please her spouse. Choosing a life of singleness allows for greater devotion to matters of faith and the preservation of purity in both body and spirit. It underscores the importance of prioritizing undistracted commitment to the Lord in all our pursuits.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.0934350702690057,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                30.51,
+                39.04,
+                30.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The division between married women and virgins extends beyond their external circumstances; it also encompasses their interests and concerns. The unmarried woman and the virgin have the opportunity to devote themselves entirely to the things of the Lord, while the married woman is occupied with worldly matters and seeking to please her husband. Choosing a life of singleness provides advantages for attending to matters of religion and preserving both physical and spiritual purity. It highlights the value of being fully devoted to the Lord and avoiding distractions in our pursuit of holiness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.169881075972413,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.49,
+            "commentatorTierSimilarities": [
+                28.94,
+                40.57,
+                30.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

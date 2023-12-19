@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:40:12",
+    "verseRef": "1 Peter 5:9",
+    "bestBHT": {
+        "bht": "In the battle against Satan, stand firm in your faith and resist his attacks with courage, knowing that your fellow Christians share in the same sufferings and join you in prayer and warfare against him. Faith gives strength to prayers which are essential in the fight against the enemy. Withstand Satan's onslaught united as a compact body, remaining steadfast and firm in your faith. Remember that you are not alone in your struggles, but part of the larger Christian brotherhood facing similar afflictions. Let your faith be your source of strength to triumph over the devil.",
+        "wordCount": 97,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 2.341881530402298,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.21,
+        "commentatorTierSimilarities": [
+            42.78,
+            35.41,
+            21.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whom resist firm in the faith, knowing that others are not only sharers of their sufferings, but comrades in prayer and warfare against Satan."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Satan's power exists only in respect to the unbelieving; the faithful he cannot hurt.\" ",
+            "Faith gives strength to prayer, the great instrument against the foe.",
+            "Your fellow Christians have the same battle of faith and prayer against Satan."
+        ],
+        "Albert Barnes": [
+            "You are in no instance to yield to him, but are in all forms to stand up and oppose him. Feeble in yourselves, you are to confide in the arm of God.",
+            "You are to rely on him alone, and the means of successful resistance are to be found in the resources of faith.",
+            "This consideration might furnish consolation to them in their trials...that they were suffering only the common lot of Christians...that they were not alone in suffering."
+        ],
+        "Marvin Vincent": [
+            "Withstand is, moreover, the more accurate rendering; as the verb means rather to be firm against onset than to strive against it.\" ",
+            "Steadfast is Anglo - Saxon, stede, a place, and faest, fast; and hence means firm in its place; but stereoi conveys also the sense of compactness, compact solidity, and is appropriate, since a number of individuals are addressed and exhorted to withstand the onset of Satan as one compacted body.",
+            "The same afflictions [\u03c4\u03b1 \u03b1\u03c5\u03c4\u03b1 \u03c4\u03c9\u03bd \u03c0\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03c9\u03bd] . Rev., better, sufferings. A very peculiar construction, occurring nowhere else in the New Testament. Lit., the same things of sufferings, emphasizing the idea of identity."
+        ],
+        "John Calvin": [
+            "Whosoever comes to this contest, endued with faith, he declares that he will certainly be a conqueror.",
+            "There is sufficient strength in faith.",
+            "We have always to do with our spiritual enemy, however adversities may come."
+        ],
+        "Philip Schaff": [
+            "Only he who is strong in the faith which makes him a Christian, is strong enough to vanquish this foe in the assaults which he makes with the engine of persecution.\" ",
+            "Their courage in withstanding, with a firm faith, the devil\u2019s attempts to seduce them through their sufferings, should be helped by the consideration that they occupied no singular position. They suffered only as the whole Christian brotherhood suffered.",
+            "The same dispensation of tribulation was fulfilling itself in them and in the brotherhood, the same tribute of suffering was being paid by them and by the brotherhood, and for the same reason."
+        ],
+        "Archibald T. Robertson": [
+            "Cowardice never wins against the devil (2 Timothy 1:7), but only courage.",
+            "Steadfast in your faith (\u03c3\u03c4\u03b5\u03c1\u03b5\u03bf \u03c4\u03b7 \u03c0\u03b9\u03c3\u03c4\u03b5).",
+            "The same sufferings (\u03c4\u03b1 \u03b1\u03c5\u03c4\u03b1 \u03c4\u03c9\u03bd \u03c0\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03c9\u03bd). An unusual construction with the genitive rather than the usual \u03c4\u03b1 \u03b1\u03c5\u03c4\u03b1 \u03c0\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b1, perhaps as Hofmann suggests, \"the same tax of sufferings\" (\"the same things in sufferings\")."
+        ],
+        "John Gill": [
+            "Oppose him, and stand against his wiles, his cunning and his power.",
+            "Endure them without murmuring, and with patience and cheerfulness.",
+            "There will be none in the world to come; they will be 'accomplished' and finished here."
+        ],
+        "John Wesley": [
+            "Be the more steadfast, as ye know the same kind of afflictions are accomplished in - That is, suffered by, your brethren...\" ",
+            "Be the more steadfast, as ye know the same kind of afflictions...",
+            "...till the measure allotted them is filled up."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the face of his attacks, resist Satan with unwavering faith, knowing that your fellow Christians are both partners in your suffering and allies in prayer and spiritual warfare. Stand firm against Satan's power, which can only harm the unbelieving. Remember that faith strengthens your prayers, making them effective weapons against the enemy. Withstand his onslaught as a united front, rooted in compact solidity and steadfastness. Take comfort in the fact that you share in the same sufferings as your brethren, enduring them with courage, patience, and cheerfulness, for they are part of the common tribulations of the Christian brotherhood. Trust in the strength of your faith, drawing on the resources it provides to successfully resist the devil.",
+            "wordCount": 119,
+            "quoteTokenProportion": 32.93,
+            "qualityScore": 2.230562967830153,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+            "commentatorTierSimilarities": [
+                41.17,
+                38.14,
+                20.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the battle against Satan, stand firm in your faith and resist his attacks with courage, knowing that your fellow Christians share in the same sufferings and join you in prayer and warfare against him. Faith gives strength to prayers which are essential in the fight against the enemy. Withstand Satan's onslaught united as a compact body, remaining steadfast and firm in your faith. Remember that you are not alone in your struggles, but part of the larger Christian brotherhood facing similar afflictions. Let your faith be your source of strength to triumph over the devil.",
+            "wordCount": 97,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.341881530402298,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.21,
+            "commentatorTierSimilarities": [
+                42.78,
+                35.41,
+                21.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the battle against Satan, stand firm in faith, resisting his attacks with unwavering courage. Remember that fellow Christians share in your sufferings and join you in prayer and spiritual warfare. Faith empowers your prayers, which are essential weapons against the enemy. Withstand Satan's onslaught united as a compact body, remaining steadfast and unyielding. Take solace in the fact that you are not alone in your struggles, for the same afflictions are endured by the wider community of believers. Trust in the strength of your faith to overcome the devil.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 2.227691353918218,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.41,
+            "commentatorTierSimilarities": [
+                42.77,
+                34.83,
+                22.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the battle against Satan, resist firmly with unyielding faith, knowing that your fellow Christians share in your sufferings and stand united with you in prayer and warfare. Faith empowers your prayers, which are powerful weapons against the enemy. Withstand the attacks of Satan as a unified force, remaining steadfast and unwavering. Take comfort in the fact that you are not alone in your struggles, as the same kind of afflictions are experienced by your brothers and sisters in Christ. Trust in the strength of your faith to conquer the devil.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.328755737281374,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.77,
+            "commentatorTierSimilarities": [
+                42.63,
+                34.55,
+                22.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Resist Satan with firm faith, for your fellow Christians share in your sufferings and join you in prayer and warfare. Faith strengthens your prayers, which are vital in battling the enemy. Withstand Satan's attacks as a united front, remaining steadfast and unwavering. Remember, you are not alone in your struggles, as your brethren are enduring the same kind of afflictions. Trust in the power of your faith to overcome the devil and emerge victorious in this spiritual battle.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.2964275562582364,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.7,
+            "commentatorTierSimilarities": [
+                42.17,
+                33.75,
+                24.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

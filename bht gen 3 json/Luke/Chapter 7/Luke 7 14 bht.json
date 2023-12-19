@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:16:20",
+    "verseRef": "Luke 7:14",
+    "bestBHT": {
+        "bht": "In this scene, the manner of our Lord caused the bearers to stand still. With words of power, Jesus brought back life to the dead body, showcasing His mingled majesty and grace. By touching the bier, Jesus halted the procession and demonstrated His authority over death, fearlessly defying any ceremonial defilement. This miraculous event is not only a foreshadowing of the future resurrection but also a reminder of how Christ quickens us spiritually through faith. It serves as a clear testament to His true deity, possessing the keys to death and the grave.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.21,
+        "qualityScore": 1.7295776053837133,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+        "commentatorTierSimilarities": [
+            34.45,
+            26.1,
+            39.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There was something in the manner of our Lord which caused the bearers to stand still.",
+            "All three raisings from the dead are wrought with words of power.",
+            "J\u00e9sus-Christ ressuscite les morts comme il fait les actions les plus communes: il parle en ma\u00eetre ceux-qui dorment d\u2019un sommeil \u00e9ternel: et l\u2019on sent bien qu\u2019il est le Dieu des morts comme des vivans."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What mingled majesty and grace shines in this scene!",
+            "The Resurrection and the Life in human flesh, with a word of command, bringing back life to the dead body.",
+            "Incarnate Compassion summoning its absolute power to dry a widow's tears!"
+        ],
+        "Marvin Vincent": [
+            "Touched. Not fearing the ceremonial defilement of contact with the dead.",
+            "The bier [\u03c3\u03bf\u03c1\u03bf\u03c2] . In classical Greek, originally, of a vessel for holding anything : sometimes of a cinerary urn.",
+            "Here the open bier. Edersheim says 'of wicker - work.'"
+        ],
+        "John Calvin": [
+            "He addresses the dead man, and makes himself be heard, so that death is suddenly changed into life.",
+            "We have here, in the first place, a striking emblem of the future resurrection.",
+            "Secondly, we are taught in what manner Christ quickens us spiritually by faith."
+        ],
+        "Philip Schaff": [
+            "The bier. An open coffin was used among the Jews.",
+            "The bearers stood still. Stopped, not by miraculous influence, yet probably because of our Lord\u2019s manner.",
+            "Young man, I say onto thee, Arise. A command, as in all the similar cases. A simple word, uttered in the exalted composure of sufficient, all-sufficient might."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus touched the bier to make the bearers stop, which they did.",
+            "Jesus touched the bier.",
+            "Jesus touched the bier to make the bearers stop."
+        ],
+        "John Gill": [
+            "From whence it should seem, that a circumcised person, as Christ was, might touch a bier without offence, or hurt, and without contracting any ceremonial pollution.",
+            "Christ spoke as one that had the keys of death and the grave and divine power went along with his words, which raised the dead man to life.",
+            "Full proof this is of the true and proper deity of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this powerful scene, our Lord's unique authority and compassion are evident. As the bearers stood still, Jesus exhibited His mingled majesty and grace, demonstrating His power over death with a word. By touching the bier, Jesus not only halted the procession but also fearlessly defied any ceremonial defilement. Through this act, He transformed a moment of mourning into an astonishing resurrection, showcasing His divine power over life and death. This miraculous event serves as both a foreshadowing of the future resurrection and a reminder of how Christ quickens us spiritually through faith. It is a clear testament to the true deity of Christ, who possesses the keys to death and the grave.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.14,
+            "qualityScore": 1.6571977111829312,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+            "commentatorTierSimilarities": [
+                30.96,
+                26.88,
+                42.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this scene, the manner of our Lord caused the bearers to stand still. With words of power, Jesus brought back life to the dead body, showcasing His mingled majesty and grace. By touching the bier, Jesus halted the procession and demonstrated His authority over death, fearlessly defying any ceremonial defilement. This miraculous event is not only a foreshadowing of the future resurrection but also a reminder of how Christ quickens us spiritually through faith. It serves as a clear testament to His true deity, possessing the keys to death and the grave.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.7295776053837133,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                34.45,
+                26.1,
+                39.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this powerful and moving scene, the manner of our Lord caused the bearers to stand still, captivated by His presence. With words of power, Jesus displayed His authority by raising the dead. By touching the bier, He halted the procession, fearlessly defying any ceremonial defilement. This remarkable event foreshadows the future resurrection and serves as a reminder of how Christ spiritually quickens us through faith. It is a vivid demonstration of His divine power and the true deity of Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6693436611707253,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "commentatorTierSimilarities": [
+                32.31,
+                27.54,
+                40.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this remarkable scene, our Lord's manner commands attention, causing the bearers to stand still in awe. With words of power, Jesus raises the dead, displaying a mingling of majesty and grace. By touching the bier, He fearlessly defies any ceremonial defilement, showcasing His authority over life and death. This extraordinary event serves as a symbolic representation of the future resurrection and teaches us about Christ's spiritual work of bringing us to life through faith. It is a powerful testament to His divine deity and control over death and the grave.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.69578435244653,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.73,
+            "commentatorTierSimilarities": [
+                34.4,
+                26.66,
+                38.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this scene, the manner of our Lord creates a pause as the bearers stand still in awe. With words of power, Jesus raises the dead, demonstrating both majesty and grace. By touching the bier, He fearlessly defies any ceremonial defilement, revealing His authority over life and death. This extraordinary event serves as a foreshadowing of the future resurrection and highlights Christ's spiritual work of quickening us through faith. It is a profound testimony to His true deity and control over death and the grave.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.687617591106053,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                33.28,
+                25.74,
+                40.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

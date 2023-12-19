@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:19:17",
+    "verseRef": "Luke 13:3",
+    "bestBHT": {
+        "bht": "If you do not change, you too will perish in like manner as the Jewish people did by the sword of the Romans. Repentance involves continually changing our minds and actions, not a one-time event. The consequences of not repenting are undetermined, but there is a prospect of a detrimental outcome. It is important to refrain from hastily judging others based on calamities or misfortunes, as they may not be specific punishments for sins. The destruction of Jerusalem serves as a reminder that those who do not repent will face a similar fate.",
+        "wordCount": 94,
+        "quoteTokenProportion": 45.21,
+        "qualityScore": 1.6326239152643844,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+        "commentatorTierSimilarities": [
+            29.3,
+            39.29,
+            31.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3. in like manner] The force of this is lost in the A.V., \u2018likewise.\u2019 It is strictly in like manner, as indeed the Jewish people did perish by the sword of the Romans."
+        ],
+        "Philip Schaff": [
+            "He warns His hearers of their danger. He corrects their mistake in Luke 13:2, but here bases His warning upon the truth which lay back of it, namely, that sin is often punished in this world.\" ",
+            "Hence each should repent of his own sins, rather than be over-anxious to interpret calamities, as judgments upon others for their sins.",
+            "Ye shall all in like manner perish, i.e., by the Roman sword. At the destruction of Jerusalem, it was the temple especially that ran with blood."
+        ],
+        "Archibald T. Robertson": [
+            "Except ye repent [...] to change mind and conduct, linear action, keep on changing.",
+            "Condition of third class, undetermined, but with prospect of determination.",
+            "Ye shall perish [...] intransitive. Common verb."
+        ],
+        "John Gill": [
+            "They were not greater sinners than others of their neighbours, nor is it to be concluded from the bloody slaughter that was made of them others might be much more deserving of such an end than they, who yet escaped it.",
+            "except ye repent; of sin, and particularly of the disbelief of the Messiah.",
+            "ye shall likewise perish; or perish, in like manner, as these Galileans did: and so it came to pass in the destruction of Jerusalem, that great numbers of the unbelieving Jews, even three hundred thousand men were destroyed at the feast of passover."
+        ],
+        "John Wesley": [
+            "Ye shall all likewise perish \u2014 All ye of Galilee and of Jerusalem shall perish in the very same manner.\" ",
+            "There was a remarkable resemblance between the fate of these Galileans and of the main body of the Jewish nation; the flower of which was slain at Jerusalem by the Roman sword, while they were assembled at one of their great festivals.",
+            "And many thousands of them perished in the temple itself, and were literally buried under its ruins."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you do not change, you too will perish. This warning carries significant weight, as the Jewish people were destroyed by the Romans just as Jesus prophesied. Repentance is not a one-time event, but an ongoing process of continually changing our minds and actions. The consequences of not repenting are uncertain, but the prospect is bleak. It is important to remember that calamities and misfortunes are not necessarily punishments for specific sins, so instead of being quick to judge others, we should focus on repenting of our own sins. Ultimately, the destruction of Jerusalem served as a stark reminder that those who do not repent will meet a similar fate.",
+            "wordCount": 111,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.445790207428773,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.42,
+            "commentatorTierSimilarities": [
+                26.84,
+                39.78,
+                33.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you do not change, you too will perish in like manner as the Jewish people did by the sword of the Romans. Repentance involves continually changing our minds and actions, not a one-time event. The consequences of not repenting are undetermined, but there is a prospect of a detrimental outcome. It is important to refrain from hastily judging others based on calamities or misfortunes, as they may not be specific punishments for sins. The destruction of Jerusalem serves as a reminder that those who do not repent will face a similar fate.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.6326239152643844,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+            "commentatorTierSimilarities": [
+                29.3,
+                39.29,
+                31.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In order to avoid perishing like the Jewish people who were destroyed by the Romans, it is crucial to engage in ongoing repentance. Changing our minds and conduct is essential, rather than remaining unchanged in our ways. While the consequences of not repenting are uncertain, there is a possibility of facing a detrimental outcome. Instead of hastily interpreting calamities as judgments upon others, we should focus on repenting of our own sins. The destruction of Jerusalem serves as a reminder that those who do not repent may meet a similar fate.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.4834874096800894,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.67,
+            "commentatorTierSimilarities": [
+                25.57,
+                43.04,
+                31.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you do not change, you too will perish in like manner as the Jewish people did by the sword of the Romans. Repentance involves continually changing our minds and actions, not a one-time event. The consequences of not repenting are undetermined, but there is a prospect of a detrimental outcome. It is important to refrain from hastily judging others based on calamities or misfortunes, as they may not be specific punishments for sins. The destruction of Jerusalem serves as a reminder that those who do not repent may face a similar fate.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.6223344934212265,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                29.53,
+                39.05,
+                31.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you do not change, you too will perish in like manner as the Jewish people did by the sword of the Romans. Repentance involves continually changing our minds and actions, not a one-time event. The consequences of not repenting are undetermined, but there is a prospect of a detrimental outcome. It is important to refrain from hastily judging others based on calamities or misfortunes, as they may not be specific punishments for sins. The destruction of Jerusalem serves as a reminder that those who do not repent may face a similar fate.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.6223344934212265,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                29.53,
+                39.05,
+                31.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

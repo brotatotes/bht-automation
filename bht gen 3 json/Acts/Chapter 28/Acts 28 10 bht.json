@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:37:36",
+    "verseRef": "Acts 28:10",
+    "bestBHT": {
+        "bht": "During their stay, the people of Malta honored the Apostle Paul and his companions with many distinctions and attentions. They provided what was necessary and loaded them with honors upon their departure. This was not taking hire for miracles, but rather grateful expressions of feeling that showed the value they placed on Paul's presence and labors. While it is uncertain if any lasting effects remained in Malta, the beginnings of the Christian Church there likely emerged from this memorable visit.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 1.5720643239394314,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+        "commentatorTierSimilarities": [
+            30.79,
+            27.05,
+            42.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The other meaning, that these were really honours, is rendered probable by the form of the sentence, which opposes to these 'honours,' bestowed on them during their whole stay, such things as were necessary, with which they were loaded at their departure.",
+            "Render it therefore honored us with many honours (or 'distinctions,' or 'attentions').",
+            "The ordinary interpretation of this as rewards, gifts, may be right, but is not necessary."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But though little dependence is to be placed upon the tradition that Publius became bishop of Malta and afterwards of Athens, we may well believe the accredited tradition that the beginnings of the Christian Church at Malta sprang out of this memorable visit.",
+            "This was not taking hire for the miracles wrought among them, but such grateful expressions of feeling, particularly in providing what would minister to their comfort during the voyage, as showed the value they set upon the presence and labors of the apostle among them.",
+            "Whether any permanent effects of this three months' stay of the greatest of the apostles were left at Malta, we cannot certainly say."
+        ],
+        "Albert Barnes": [
+            "Who also honoured us - As people who were favored by heaven, and who had been the means of conferring important benefits on them in healing the sick, etc.",
+            "Probably the word 'honors' here means 'gifts, or marks of favor.'",
+            "They laded us - They gave us, or conferred on us. They furnished us with such things as were necessary for us on our journey."
+        ],
+        "Marvin Vincent": [
+            "The word was applied to payments for professional services.",
+            "It is evidently not used in that sense here."
+        ],
+        "Philip Schaff": [
+            "In 1 Timothy 5:3; 1 Timothy 5:17, the word (\u03c4\u03b9\u03bc\u03ae) used here is employed to denote the material support of religious ministers.",
+            "St. Paul did not refuse elsewhere to accept the gifts which were freely offered to him.",
+            "When they were preparing to set sail, gifts for the wants of the voyage were lavishly pressed upon them."
+        ],
+        "John Gill": [
+            "Not with divine honours, with religious adorations, as if they had been so many deities; but civil honours, expressions of respect and gratitude.",
+            "They provided a proper supply of food for them, which they put into the strip, for their use in their voyage; by which they expressed their gratitude for the favours they received from Paul.",
+            "For whose sake not only his company, but the whole ship's company fared the better: and very likely many of them were converted under the apostle's ministry."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During their stay, the people of Malta honored the Apostle Paul and his companions in many ways, expressing their gratitude and respect for the miracles performed among them. This could have included both material gifts and acts of kindness that facilitated their journey. It is unclear whether any lasting impact was left on Malta beyond the beginnings of the Christian Church, but it is evident that the people recognized the value of Paul's presence and labors among them. This gesture of honor was not a form of payment for services, but rather a genuine expression of gratitude. It is possible that some converts were made through the apostle's ministry, and even the entire ship's company may have benefited through the presence of Paul.",
+            "wordCount": 126,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 1.6099172234262982,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                26.72,
+                28.33,
+                44.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During their stay, the people of Malta honored the Apostle Paul and his companions with many distinctions and attentions. They provided what was necessary and loaded them with honors upon their departure. This was not taking hire for miracles, but rather grateful expressions of feeling that showed the value they placed on Paul's presence and labors. While it is uncertain if any lasting effects remained in Malta, the beginnings of the Christian Church there likely emerged from this memorable visit.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.5720643239394314,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.61,
+            "commentatorTierSimilarities": [
+                30.79,
+                27.05,
+                42.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During their stay in Malta, Paul and his companions were honored with many distinctions and attentions. The people of Malta provided them with what was necessary and loaded them with honors upon their departure. This was not a payment for the miracles worked among them, but rather a grateful expression of the value they placed on the apostle's presence and labor. Though the lasting effects of their visit in Malta cannot be determined, the beginnings of the Christian Church there are attributed to this significant encounter.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.5559365525304698,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                32.65,
+                26.65,
+                40.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During their stay in Malta, Paul and his companions were honored with many distinctions and attentions. The people of Malta provided them with what was necessary and loaded them with honors upon their departure. This was not a payment for the miracles worked among them, but rather a grateful expression of the value they placed on the apostle's presence and labor. Though the lasting effects of their visit in Malta cannot be determined, the beginnings of the Christian Church there are attributed to this significant encounter.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.5559365525304698,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                32.65,
+                26.65,
+                40.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During their stay in Malta, the people honored Paul and his companions with numerous attentions and distinctions, expressing their gratitude for the miracles performed among them. This could have included material gifts and acts of kindness that facilitated their journey. It is uncertain if any lasting impact was left on Malta beyond the beginnings of the Christian Church, but the people clearly recognized the value of Paul's presence and labors. These gestures of honor were not payment for services, but genuine expressions of gratitude.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.569560177147272,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.53,
+            "commentatorTierSimilarities": [
+                27.82,
+                29.66,
+                42.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

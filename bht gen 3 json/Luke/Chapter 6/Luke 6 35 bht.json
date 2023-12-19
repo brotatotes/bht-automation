@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:15:58",
+    "verseRef": "Luke 6:35",
+    "bestBHT": {
+        "bht": "As sons and daughters of the Most High, we are called to emulate God's kindness and compassion. When we engage in acts of goodness and lend a helping hand, we should do so without expecting anything in return. Our hope should not hinge on receiving repayment but rather on being a source of hope and assistance to those in need. Just as God shows kindness to the ungrateful and the wicked, we are called to love even our enemies. Our reward comes from God, who sees and blesses our selfless acts of love and generosity.",
+        "wordCount": 96,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.4334555277287357,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.01,
+        "commentatorTierSimilarities": [
+            35.02,
+            0.0,
+            64.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "hoping for nothing...not expecting any payment from them\" ",
+            "causing no one to despair...refusing no one",
+            "not despairing...without anxiety about the result"
+        ],
+        "Marvin Vincent": [
+            "Hoping for nothing again [\u03bc\u03b7\u03b4\u03b5\u03bd \u03b1\u03c0\u03b5\u03bb\u03c0\u03b9\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2]. A later Greek word, only here in New Testament, and meaning originally to give up in despair, a sense which is adopted by some high authorities, and by Rev., never despairing.",
+            "According to this, the sense here is, 'do good as those who consider nothing as lost.' The verb and its kindred adjective are used by medical writers to describe desperate cases of disease.",
+            "Children of the Highest [\u03c5\u03b9\u03bf\u03b9 \u03c5\u03c8\u03b9\u03c3\u03c4\u03bf\u03c5]. Rev., rightly, sons."
+        ],
+        "John Calvin": [
+            "Christ proceeds to show how much more he demands from his people, \u2014 to love their enemies, to show disinterested kindness, to lend without expecting a return.",
+            "Christ\u2019s meaning... is simply this: When believers lend, they ought to go beyond heathens; or, in other words, they ought to exercise pure liberality.",
+            "He alone is truly beneficent to his neighbors, who is led to assist them without any regard to his own advantage, but looks only to the necessities of each."
+        ],
+        "Archibald T. Robertson": [
+            "By 'never despairing' or 'giving up nothing in despair' Jesus means that we are not to despair about getting the money back. We are to help the apparently hopeless cases.\" ",
+            "Sons of the Most High\" - In Luke 1:32 Jesus is called \"Son of the Highest\" and here all real children or sons of God (Luke 20:36) are so termed. ",
+            "God the Father is kind towards the unkind and wicked."
+        ],
+        "John Gill": [
+            "But love ye your enemies,.... As before urged in Luke 6:27 and do good and lend; not to your friends only, but to your enemies; hoping for nothing again; either principal or interest, despairing of seeing either.\" ",
+            "and your reward shall be great: God will bless you in your worldly substance here, and will not forget your beneficence hereafter.",
+            "for he is kind to the unthankful and to the evil; by causing his sun to rise, and his rain to fall on them, as on the righteous and the good."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As children of God, we are called to imitate our Heavenly Father's kindness and generosity. When we do good, lend, and help others, we are to do so selflessly and without any expectation of repayment. Our hope is not in receiving something in return, but in being a source of hope and assistance for those in need. Just as God is kind to the unthankful and the evil, we are to demonstrate love even towards our enemies. Our reward, both in this life and the next, comes from the Lord who sees and blesses our genuine acts of kindness and compassion.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.3464388095065953,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.11,
+            "commentatorTierSimilarities": [
+                32.56,
+                0.0,
+                67.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As children of the Most High, our actions are to reflect His character of kindness and generosity. When we do good and lend, we are not to expect anything in return, but rather to help even those who seem hopeless. Our hope lies not in receiving repayment, but in being a source of hope and assistance. Just as God is kind to the ungrateful and the wicked, we are called to love even our enemies. Our reward comes from God, who sees and blesses our selfless acts.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.3744170579180506,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.04,
+            "commentatorTierSimilarities": [
+                35.3,
+                0.0,
+                64.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As children of the Most High, we are called to imitate our Heavenly Father's kindness and generosity. When we do good, lend, and help others, we are to do so selflessly and without any expectation of repayment. Our hope is not in receiving something in return, but in being a source of hope and assistance for those in need. Just as God is kind to the unthankful and the evil, we are to demonstrate love even towards our enemies. Our reward comes from God, who sees and blesses our genuine acts of kindness and compassion.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.3698184803214517,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.89,
+            "commentatorTierSimilarities": [
+                33.32,
+                0.0,
+                66.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As sons and daughters of the Most High, we are called to emulate God's kindness and compassion. When we engage in acts of goodness and lend a helping hand, we should do so without expecting anything in return. Our hope should not hinge on receiving repayment but rather on being a source of hope and assistance to those in need. Just as God shows kindness to the ungrateful and the wicked, we are called to love even our enemies. Our reward comes from God, who sees and blesses our selfless acts of love and generosity.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4334555277287357,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.01,
+            "commentatorTierSimilarities": [
+                35.02,
+                0.0,
+                64.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As children of the Most High, we are called to mirror God's kindness and generosity. When we do good and lend, we must do so expectantly, not for personal gain but to provide hope to the seemingly hopeless. Our hope lies not in receiving repayment, but in being a beacon of hope and aid. In the same way that God shows kindness to the ungrateful and wicked, we are to extend love even to our enemies. Our reward is abundant, both in this life and in the one to come, as God blesses our genuine acts of kindness and compassion.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.455049321299867,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.72,
+            "commentatorTierSimilarities": [
+                34.7,
+                0.0,
+                65.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

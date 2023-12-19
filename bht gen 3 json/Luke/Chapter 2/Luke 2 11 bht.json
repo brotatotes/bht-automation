@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:13:59",
+    "verseRef": "Luke 2:11",
+    "bestBHT": {
+        "bht": "Unto you, shepherds, Israel, mankind, is born this day the Savior, Christ the Lord. These words come together as a magnificent appellation corresponding to the Hebrew JEHOVAH. This first Gospel statement of the Person of Christ confirms the view that the shepherds were men who expected the Messiah. The child born in Bethlehem as a Savior is the promised Messiah, Jehovah. His birth brings good news and glad tidings, for Christ is a complete and everlasting Savior who bestows a complete salvation.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.253238965191716,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+        "commentatorTierSimilarities": [
+            27.89,
+            41.66,
+            30.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Christ the Lord. This is the only place where these words come together.",
+            "I see no way of understanding this Lord, but as corresponding to the Hebrew JEHOVAH.",
+            "In Col. iii. 24 we have, in a somewhat different meaning [said to servants], 'ye serve the Lord Christ.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Unto you is born\u2014you shepherds, Israel, mankind... It is a birth\u2014'The Word is made flesh.'",
+            "How dear to us should be these historic moorings of our faith! With the loss of them, all substantial Christianity is lost.",
+            "Christ the Lord\u2014'magnificent appellation!'... I see no way of understanding this 'Lord' but as corresponding to the Hebrew JEHOVAH."
+        ],
+        "Marvin Vincent": [
+            "Is born [\u03b5\u03c4\u03b5\u03c7\u03b8\u03b7] . It adds to the vividness of the narrative to keep to the strict rendering of the aorist, was born. ",
+            "A Savior. See on Matthew 1:21. Christ. See on Matthew 1:1. Lord. See on Matthew 21:3."
+        ],
+        "John Calvin": [
+            "This day is born the Redeemer long ago promised, who was to restore the Church of God to its proper condition.",
+            "The angel does not speak of it as a thing altogether unknown. He opens his embassy by referring to the Law and the Prophets.",
+            "Christ is called Savior, because he bestows a complete salvation."
+        ],
+        "Philip Schaff": [
+            "Unto you... confirming the view, that they were men who expected the Messiah.",
+            "The reference to the prophecy in Micah 5:2 was probably plain to the pious shepherds.",
+            "We therefore understand the angelic message, this first Gospel statement of the Person of Christ, to mean that the child born in Bethlehem as a Saviour, was the promised Messiah, Jehovah."
+        ],
+        "Archibald T. Robertson": [
+            "Saviour (\u03c3\u03c9\u03c4\u03b7\u03c1). This great word is common in Luke and Paul and seldom elsewhere in the N.T.",
+            "The people under Rome's rule came to call the emperor 'Saviour' and Christians took the word and used it of Christ.",
+            "Luke is very fond of \u039a\u03c5\u03c1\u03b9\u03bf\u03c2 (Lord ) where the other Gospels have Jesus."
+        ],
+        "John Gill": [
+            "The particular day, and it may be, month and year, in which Christ was born, cannot be certainly known; but this we may be sure of, it was in the fulness of time, and at the exact, season fixed upon between God and Christ in the council and covenant of peace.",
+            "He is a complete Saviour, and an only, and an everlasting one: hence his name is called Jesus, because he saves from sin, from Satan, from the law, from the world, from death, and hell, and wrath to come, and from every enemy.",
+            "And the birth of such a person must needs be joyful, and is to be accounted good news, and glad tidings."
+        ],
+        "John Wesley": [
+            "To you \u2014 Shepherds; Israel; mankind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Unto you, shepherds, Israel, mankind, is born this day the Savior, Christ the Lord. These words, Christ the Lord, are a magnificent appellation that corresponds to the Hebrew JEHOVAH. The angelic message confirms the view that the shepherds were men who expected the Messiah. This first Gospel statement of the Person of Christ signifies that the child born in Bethlehem as a Savior is the promised Messiah, Jehovah. The particular day and season of his birth may not be known, but what we can be sure of is that Christ is a complete and everlasting Savior who bestows a complete salvation. His birth is a joyous event, bringing good news and glad tidings to all.",
+            "wordCount": 115,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.215925014785444,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.02,
+            "commentatorTierSimilarities": [
+                27.93,
+                41.11,
+                30.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Unto you, shepherds, Israel, mankind, is born this day the Savior, Christ the Lord. These words come together as a magnificent appellation corresponding to the Hebrew JEHOVAH. This first Gospel statement of the Person of Christ confirms the view that the shepherds were men who expected the Messiah. The child born in Bethlehem as a Savior is the promised Messiah, Jehovah. His birth brings good news and glad tidings, for Christ is a complete and everlasting Savior who bestows a complete salvation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.253238965191716,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+            "commentatorTierSimilarities": [
+                27.89,
+                41.66,
+                30.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Unto you, shepherds, Israel, mankind, is born this day the Savior, Christ the Lord. These words come together as a magnificent appellation corresponding to the Hebrew JEHOVAH. The angelic message confirms the view that the shepherds were men who expected the Messiah. The child born in Bethlehem is the promised Messiah, Jehovah, bringing good news and glad tidings. His birth is a joyous event for he is a complete and everlasting Savior, bestowing a complete salvation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.1486854661441104,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.78,
+            "commentatorTierSimilarities": [
+                26.18,
+                43.02,
+                30.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Unto you, shepherds, Israel, mankind, is born this day the Savior, Christ the Lord. This is the only place where these words come together, and they correspond to the Hebrew JEHOVAH. The angelic message confirms the view that the shepherds were men who expected the Messiah. The child born in Bethlehem is the promised Messiah, Jehovah, bringing good news and glad tidings. His birth is a joyous event, for he is a complete and everlasting Savior, bestowing a complete salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.1570919095275167,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.06,
+            "commentatorTierSimilarities": [
+                26.7,
+                42.46,
+                30.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Unto you, shepherds, Israel, mankind, is born this day the Savior, Christ the Lord. This is the only place where these words come together and they correspond to the Hebrew JEHOVAH. The angelic message confirms the view that the shepherds were men who expected the Messiah. The child born in Bethlehem as a Savior is the promised Messiah, Jehovah. His birth brings good news and glad tidings, for Christ is a complete and everlasting Savior who bestows a complete salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.2302741964510857,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.5,
+            "commentatorTierSimilarities": [
+                27.51,
+                42.31,
+                30.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

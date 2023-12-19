@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:15:42",
+    "verseRef": "Jude 21",
+    "bestBHT": {
+        "bht": "Keep yourselves in the love of God, the guarantee for your safety, as you await the mercy of our Lord Jesus Christ. The love of God, not objective, but His love towards you, is the source of eternal life. Though man needs to watch and keep himself, it is ultimately only through God's love and keeping that he can truly be kept safe. The mercy of our Lord Jesus Christ, which will be fully revealed at His coming, is a testament to the unity of the Father and the Son. Just as the Philippians were called to work out their salvation with fear and trembling, so too must believers actively keep themselves in the love of God.",
+        "wordCount": 118,
+        "quoteTokenProportion": 51.32,
+        "qualityScore": 2.0664101534163835,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.05,
+        "commentatorTierSimilarities": [
+            29.79,
+            37.21,
+            33.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God's love, not objective, the love towards God.",
+            "That mercy, whose issue shall be eternal life.",
+            "The direct and studied reference to the Blessed Trinity will not escape the reader."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Keep yourselves...in the love of God, that is, God's love to you and all His believing children, the only guarantee for their being kept safe.",
+            "Man's need of watching is implied; at the same time he cannot keep himself, unless God in His love keep him.",
+            "The mercy of our Lord Jesus Christ - to be fully manifested at His coming. Mercy is usually attributed to the Father: here to the Son; so entirely one are they."
+        ],
+        "Albert Barnes": [
+            "Keep yourselves in the love of God\" - Still adverting to their own agency.",
+            "The phrase 'the love of God' may mean either God\u2019s love to us, or our love to him. The latter appears, however, to be the sense here.",
+            "Looking for the mercy of our Lord Jesus Christ - Particularly when he shall come to receive his people to himself."
+        ],
+        "John Calvin": [
+            "He has made love as it were the guardian and the ruler of our life; not that he might set it in opposition to the grace of God, but that it is the right course of our calling, when we make progress in love.",
+            "But as many things entice us to apostasy, so that it is difficult to keep us faithful to God to the end, he calls the attention of the faithful to the last day.",
+            "But it ought to be noticed that he would not have us to hope for eternal life, except through the mercy of Christ: for he will in such a manner be our judge, as to have no other rule in judging us than that gratuitous benefit of redemption obtained by himself."
+        ],
+        "Archibald T. Robertson": [
+            "Keep yourselves... In Philippians 2:12 both sides (human responsibility and divine sovereignty are presented side by side).\" ",
+            "Looking for (\u03c0\u03c1\u03bf\u03c3\u03b4\u03b5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf). Present middle participle of \u03c0\u03c1\u03bf\u03c3\u03b4\u03b5\u03c7\u03bf\u03bc\u03b1, the very form in Titus 2:13.\" ",
+            "The same idea in \u03c0\u03c1\u03bf\u03c3\u03b4\u03bf\u03ba\u03c9\u03bd\u03c4\u03b5\u03c2 in 2 Peter 3:14."
+        ],
+        "John Gill": [
+            "Saints should betake themselves to the love of God, as to a strong hold and preservative against sin.",
+            "The grace of love...becomes them to make use of all proper means to maintain and increase it in themselves and others.",
+            "Eternal life...is to be looked for by faith, in the love of it, with delight and pleasure, and cheerfulness, with eagerness, and yet with patience."
+        ],
+        "John Wesley": [
+            "Keep yourselves in the love of God...",
+            "...the confident expectation of that eternal life...",
+            "...purchased for you, and conferred upon you, through the mere mercy of our Lord Jesus Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Keep yourselves in the love of God, the guarantee for your safety, as you await the mercy of our Lord Jesus Christ. The love of God, not objective, but His love towards you, is the source of eternal life. Though man needs to watch and keep himself, it is ultimately only through God's love and keeping that he can truly be kept safe. The mercy of our Lord Jesus Christ, which will be fully revealed at His coming, is a testament to the unity of the Father and the Son. Just as the Philippians were called to work out their salvation with fear and trembling, so too must believers actively keep themselves in the love of God. This looking for mercy and the confident expectation of eternal life is a common theme in other biblical passages (2 Peter 3:14, Titus 2:13). Through the love of God and the mercy of Christ, freely given and acquired through faith, you can navigate the challenges of life and confidently anticipate the eternal life promised to you.",
+            "wordCount": 171,
+            "quoteTokenProportion": 42.71,
+            "qualityScore": 1.9888379411265635,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                30.97,
+                34.56,
+                34.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Keep yourselves in the love of God, the guarantee for your safety, as you await the mercy of our Lord Jesus Christ. The love of God, not objective, but His love towards you, is the source of eternal life. Though man needs to watch and keep himself, it is ultimately only through God's love and keeping that he can truly be kept safe. The mercy of our Lord Jesus Christ, which will be fully revealed at His coming, is a testament to the unity of the Father and the Son. Just as the Philippians were called to work out their salvation with fear and trembling, so too must believers actively keep themselves in the love of God.",
+            "wordCount": 118,
+            "quoteTokenProportion": 51.32,
+            "qualityScore": 2.0664101534163835,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.05,
+            "commentatorTierSimilarities": [
+                29.79,
+                37.21,
+                33.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Keep yourselves in the love of God, as it is His love that guarantees your safety and leads to eternal life. While man needs to watch and keep himself, it is ultimately God's love that keeps him secure. The mercy of our Lord Jesus Christ, to be fully revealed at His coming, reflects the unity of the Father and the Son. Just as the Philippians were called to work out their salvation, believers must actively stay in the love of God, eagerly anticipating the eternal life that comes through Christ's mercy.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.0848699973909777,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                29.95,
+                36.03,
+                34.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Keep yourselves in the love of God, the guarantee of safety and eternal life. Man's need of watching is implied, but he cannot keep himself without God's love. The mercy of our Lord Jesus Christ, fully manifested at His coming, reveals the unity of the Father and the Son. Believers must actively stay in the love of God, eagerly anticipating the eternal life that comes through Christ's mercy. Work out your salvation with fear and trembling, keeping faith in the love of God and the grace of our Lord Jesus Christ.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0164698122505627,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.39,
+            "commentatorTierSimilarities": [
+                30.47,
+                35.08,
+                34.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Keep yourselves in the love of God, that is, God's love to you and all His believing children, the only guarantee for their being kept safe. Looking for the mercy of our Lord Jesus Christ, believers actively stay in the love of God, eagerly anticipating the eternal life that comes through Christ's mercy. The love of God, not objective, but His love towards you, is the source of eternal life. Man needs to watch and keep himself, yet it is ultimately only through God's love and keeping that he can truly be safe.",
+            "wordCount": 96,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.268820173504368,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.78,
+            "commentatorTierSimilarities": [
+                30.34,
+                38.1,
+                31.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:12:27",
+    "verseRef": "1 Corinthians 12:3",
+    "bestBHT": {
+        "bht": "The confession or rejection of Jesus as Lord serves as the criteria to determine whether one is inspired by the Spirit of God or not. It is through the Holy Spirit that believers can acknowledge Jesus as the cursed one or as their Lord and Redeemer. Calling Jesus accursed excommunicates Him from one's faith, while true recognition of Jesus as Lord can only come by the working of the Spirit in one's life. The Spirit extends His influence beyond supernatural gifts to encompass the faith and confession of every Christian.",
+        "wordCount": 92,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 2.4135914347657734,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.59,
+        "commentatorTierSimilarities": [
+            29.15,
+            36.57,
+            34.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The negative and positive criteria of inspiration by the Spirit of God: viz. the rejection, or confession, of Jesus as the Lord.",
+            "Jesus is accursed... the curse, and the confession, are in this way far deeper.",
+            "By these last words the influence of the Holy Spirit is widened by the Apostle from the supernatural gifts to which perhaps it had been improperly confined, to the faith and confession of every Christian."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul gives a test of truth against the Gentiles; John, against the false prophets.",
+            "The same Spirit is called at one time 'the Spirit of GOD'; at another, 'the HOLY Ghost,' or 'Holy Spirit.' Infinite Holiness is almost synonymous with Godhead.",
+            "The spiritual man feels Him to be the Source of all blessings and to be severed from Him is to be accursed."
+        ],
+        "Albert Barnes": [
+            "The design of the passage is, to give them some simple general guide by which they could at once recognize the operations of the Spirit of God, and determine whether they who claimed to be under that operation were really so.",
+            "It is a proof that any man is under the influence of the Holy Spirit who is heartily disposed to honor the name and work of Jesus Christ.",
+            "All true religion is the production of the Holy Spirit. For religion consists essentially in a willingness to honor, and love, and serve the Lord Jesus Christ; and where that exists, it is produced by the Holy Spirit."
+        ],
+        "Marvin Vincent": [
+            "Calleth Jesus accursed [\u03bb\u03b5\u03b3\u03b5\u03b9 \u03b1\u03bd\u03b1\u03b8\u03b5\u03bc\u03b1 \u03b9\u03b7\u03c3\u03bf\u03c5\u03c2] . Lit., saith Anathema Jesus.\" ",
+            "Paul uses only the form ajnaqema, and always in the sense of accursed."
+        ],
+        "John Calvin": [
+            "From this, too, it follows, that all things that pertain to the true knowledge of God, are the gifts of the Holy Spirit.",
+            "No one, speaking by the Spirit of God, can revile Christ; so, on the other hand, no one can speak well of Christ, but by the Spirit of Christ.",
+            "We cannot so much as move our tongue for the celebration of God's praise, unless it be governed by his Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "Speaking in the Spirit of God (\u03b5\u03bd \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4 \u03b8\u03b5\u03bf\u03c5 \u03bb\u03b1\u03bb\u03c9\u03bd). Either sphere or instrumentality. No great distinction here between \u03bb\u03b1\u03bb\u03b5\u03c9 (utter sounds) and \u03bb\u03b5\u03b3\u03c9 (to say).",
+            "Jesus is anathema (\u03b1\u03bd\u03b1\u03b8\u03b5\u03bc\u03b1 \u0399\u03b7\u03c3\u03bf\u03c5\u03c2). On distinction between \u03b1\u03bd\u03b1\u03b8\u03b5\u03bc\u03b1 (curse) and \u03b1\u03bd\u03b1\u03b8\u03b7\u03bc\u03b1 (offering Luke 21:5) see discussion there.",
+            "Jesus is Lord (\u039a\u03c5\u03c1\u03b9\u03bf\u03c2 \u0399\u03b7\u03c3\u03bf\u03c5\u03c2). The term \u039a\u03c5\u03c1\u03b9\u03bf\u03c2, as we have seen, is common in the LXX for God. The Romans used it freely for the emperor in the emperor worship."
+        ],
+        "John Gill": [
+            "No man speaking by the Spirit of God calleth Jesus accursed.",
+            "Such call Jesus accursed, or 'anathema,' who, if I may be allowed the expression, excommunicate him out of their sermons and faith.",
+            "No man can call him his Lord, can appropriate him to himself truly and really, as his Lord, Saviour, and Redeemer, as David, Thomas, the Apostle Paul, and others have done; but by the Spirit."
+        ],
+        "John Wesley": [
+            "Since the heathen idols cannot speak themselves, much less give spiritual gifts to others, these must necessarily be among Christians only.",
+            "As none who does this, (which all the Jews and heathens did,) speaketh by the Spirit of God - Is actuated by that Spirit, so as to speak with tongues, heal diseases, or cast out devils.",
+            "None can receive him as such; for, in the scripture language, to say, or to believe, implies an experimental assurance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the criteria of inspiration by the Spirit of God - the rejection or confession of Jesus as the Lord. The profound significance of Jesus being cursed and the confession being far deeper is highlighted. The influence of the Holy Spirit extends beyond supernatural gifts to encompass the faith and confession of every Christian. It is through the Holy Spirit that true blessings flow, and to be separated from Him is to be accursed. Those who call Jesus accursed excommunicate Him from their sermons and faith, while those who truly recognize Him as their Lord and Redeemer can only do so by the Spirit. The Spirit of God enables believers to honor, love, and serve Jesus Christ.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.3073622412610795,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.06,
+            "commentatorTierSimilarities": [
+                30.1,
+                37.18,
+                32.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verse reveals that the test of inspiration by the Spirit of God lies in the rejection or confession of Jesus as the Lord. The confession of Jesus goes far deeper than mere words, and the influence of the Holy Spirit extends beyond supernatural gifts to encompass the faith and confession of every Christian. To be separated from the Holy Spirit is to be accursed, and those who call Jesus accursed excommunicate Him from their sermons and faith. Believers who truly recognize Jesus as their Lord and Redeemer can only do so by the Spirit's working in their lives.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.3858068901724736,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.67,
+            "commentatorTierSimilarities": [
+                29.86,
+                36.15,
+                33.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit of God is recognized by the negative and positive criteria: the rejection or confession of Jesus as the Lord. The depth of acknowledging Jesus as cursed is emphasized, while the Holy Spirit's influence extends beyond supernatural gifts to include the faith and confession of all believers. The Spirit is the Source of blessings, and to be severed from Him is to be accursed. Those who excommunicate Jesus from their faith and sermons call Him accursed, while true recognition of Jesus as Lord and Redeemer can only be done through the working of the Spirit.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3375862660139495,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.06,
+            "commentatorTierSimilarities": [
+                31.42,
+                34.65,
+                33.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The distinction between being under the influence of the Spirit of God and being rejected by Him lies in the confession or rejection of Jesus as Lord. This criteria expands the scope of the Spirit's influence beyond supernatural gifts to encompass the faith and confession of every Christian. Causing Jesus to be cursed or excommunicated from sermons and faith is the result of rejecting Him. Only through the Spirit can a genuine recognition and acceptance of Jesus as Lord and Redeemer be accomplished.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.173154715094882,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.6,
+            "commentatorTierSimilarities": [
+                31.62,
+                33.37,
+                35.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The confession or rejection of Jesus as Lord serves as the criteria to determine whether one is inspired by the Spirit of God or not. It is through the Holy Spirit that believers can acknowledge Jesus as the cursed one or as their Lord and Redeemer. Calling Jesus accursed excommunicates Him from one's faith, while true recognition of Jesus as Lord can only come by the working of the Spirit in one's life. The Spirit extends His influence beyond supernatural gifts to encompass the faith and confession of every Christian.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.4135914347657734,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.59,
+            "commentatorTierSimilarities": [
+                29.15,
+                36.57,
+                34.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

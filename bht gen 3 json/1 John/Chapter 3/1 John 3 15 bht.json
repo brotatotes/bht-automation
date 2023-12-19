@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:48:38",
+    "verseRef": "1 John 3:15",
+    "bestBHT": {
+        "bht": "In John's teaching, love and hate cannot coexist, as they naturally replace and exclude one another. Whoever harbors hatred for their brother is akin to a murderer, as the desire to harm is already condemned before God. The absence of love and the presence of hate signify the lack of eternal life within a person. We should not downplay the gravity of this evil but rather submit our judgments to God's tribunal and seek His transformative grace for a loving heart, which is the beginning of eternal life.",
+        "wordCount": 90,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 2.2667581484767756,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.71,
+        "commentatorTierSimilarities": [
+            31.1,
+            34.89,
+            34.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the ethical depth of the Apostle\u2019s view, love and hate, like light and darkness, life and death, necessarily succeed, as well as necessarily exclude, one another.\" ",
+            "He who has not the one of necessity has the other in each case.",
+            "If a hater be not a murderer, the reason does not lie in his hate, but in his lack of hate."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Love and hatred, like light and darkness, life and death, necessarily replace, as well as necessarily exclude, one another.",
+            "God regards the inward disposition as tantamount to the outward act which would flow from it. Whomsoever one hates, one wishes to be dead.",
+            "He who hates (that is, loveth not) his brother cannot in this his present state have eternal life abiding in him."
+        ],
+        "Albert Barnes": [
+            "The private malice, the secret grudge, the envy which is cherished in the heart, is murderous in its tendency, and were it not for the outward restraints of human laws, and the dread of punishment, it would often lead to the act of murder.",
+            "Nothing is missing but the removal of outward restraints to lead to the commission of the open deed, and God judges people as he sees them to be 'in their hearts.'",
+            "And who is them that should not feel humbled and penitent in view of his own heart, and grateful for that sovereign mercy which has restrained him from open acts of guilt - for who is there who has not at some period of his life, and perhaps often, indulged in feelings of hatred, and envy, and malice toward others, which, if acted out, would have led to the commission of the awful crime of taking human life?"
+        ],
+        "Marvin Vincent": [
+            "Murderer [\u03b1\u03b8\u03c1\u03c9\u03c0\u03bf\u03ba\u03c4\u03bf\u03bd\u03bf\u03c2] . Manslayer. Only here and John 8:44, of the devil.",
+            "The contrast is suggestive between the sentiment embodied in this statement and that of Pagan antiquity respecting murder.",
+            "Among the Greeks, to have killed a man was considered in the light of misfortune, or, at most, a prudential error, when the perpetrator of the act had come among strangers as a fugitive for protection and hospitality."
+        ],
+        "John Calvin": [
+            "But the Apostle declares that all who hate their brethren are murderers.",
+            "It does not matter if a man keeps his hands from mischief; for the very desire to do harm, as well as the attempt, is condemned before God.",
+            "Let no one therefore extenuate any more so grievous an evil. Let us learn to refer our judgments to the tribunal of God."
+        ],
+        "Archibald T. Robertson": [
+            "A murderer (\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03ba\u03c4\u03bf\u03bd\u03bf\u03c2)... a man-killer, in N.T. only here and John 8:44 (of Satan)."
+        ],
+        "John Gill": [
+            "He is a murderer of him in his heart, even as he that lusts after a woman hath committed adultery with her in his heart.\" ",
+            "He has not the grace of life, or the beginning of eternal life in him; he has no meetness for it, being unregenerate; and no right unto it, being unrighteous.",
+            "Without these he is so far from having eternal life, that he is not only punishable with a corporeal death, according to the laws of God and man; but he is exposed unto, and will die the second, or an eternal death."
+        ],
+        "John Wesley": [
+            "For whosoever hateth his brother, and there is no medium between loving and hating him, is, in God's account, a murderer.",
+            "And no murderer hath eternal life abiding in him \u2014 But every loving believer hath.",
+            "For love is the beginning of eternal life. It is the same, in substance, with glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the book of 1 John, the Apostle teaches us that love and hate are inextricably linked, just as light and darkness, life and death. He emphasizes that whoever harbors hate in their heart toward their brother is akin to a murderer, for hatred wishes for the demise of the one hated. Thus, the Apostle asserts that whoever lacks love and harbors hate cannot have eternal life abiding within them. The contrast is striking between the sentiment expressed by the Apostle and the views held by the pagans of antiquity, who often regarded murder as either an unfortunate event or a mere prudential error. However, God sees beyond the external act and looks into the inward disposition, judging a person based on the condition of their heart. So let us not minimize the gravity of this evil, but rather submit our judgments to the divine tribunal and seek the transformation of our hearts through God's grace.",
+            "wordCount": 156,
+            "quoteTokenProportion": 38.68,
+            "qualityScore": 2.1368681613216896,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.39,
+            "commentatorTierSimilarities": [
+                31.72,
+                36.77,
+                31.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the depths of the Apostle's ethical understanding, love and hate are intrinsically connected, much like light and darkness or life and death. Anyone who lacks love towards their brother and instead harbors hatred is essentially a murderer in God's eyes. This stands in stark contrast to the pagan views of antiquity, where killing was often considered a misfortune or a prudential mistake. However, God looks beyond outward actions and examines the inward disposition. Thus, we should not underestimate the seriousness of this evil, but rather present our judgments to God's divine tribunal and seek His transformative grace to change our hearts.",
+            "wordCount": 105,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.038662974064011,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.13,
+            "commentatorTierSimilarities": [
+                33.37,
+                35.73,
+                30.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In John's teaching, love and hate cannot coexist, as they naturally replace and exclude one another. Whoever harbors hatred for their brother is akin to a murderer, as the desire to harm is already condemned before God. The absence of love and the presence of hate signify the lack of eternal life within a person. We should not downplay the gravity of this evil but rather submit our judgments to God's tribunal and seek His transformative grace for a loving heart, which is the beginning of eternal life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.2667581484767756,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.71,
+            "commentatorTierSimilarities": [
+                31.1,
+                34.89,
+                34.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the depths of the Apostle's ethical understanding, love and hate necessarily succeed and exclude one another. Those who lack love and harbor hate in their hearts are essentially akin to murderers. It is not enough to abstain from external acts of harm; even the desire and attempt are condemned by God. Such individuals do not possess the grace of life or the beginning of eternal life within them. Therefore, let us not underestimate the seriousness of this evil and seek God's transformative grace to cultivate a loving heart, which is the same as glory.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.095026435304556,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                29.53,
+                37.45,
+                33.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the ethical depth of the Apostle's view, love and hate, like light and darkness, life and death, necessarily succeed, as well as necessarily exclude, one another. He who has not love has hate, and hate leads to murderous intentions. God regards the inward disposition as tantamount to the outward act. Love is the beginning of eternal life, while the absence of love reveals the absence of grace and eternal life. Therefore, let us examine our hearts and seek God's transformative grace to cultivate a love that reflects His glory.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.0178799111894974,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                32.04,
+                35.38,
+                32.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:18:20",
+    "verseRef": "2 Corinthians 11:23",
+    "bestBHT": {
+        "bht": "I speak as one beside myself, for I am more than just a minister of Christ. Paul's assertion of being more should not be misunderstood as arrogance, but rather as a recognition of his faithfulness, self-denial, and the abundant tokens of God's recognition of his ministry. He has endured imprisonments and countless beatings, even facing death on multiple occasions. Paul's boasting may seem out of character, but his labors, sufferings, and apostolic mission to the Gentiles set him apart as a servant of Christ beyond compare.",
+        "wordCount": 90,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 1.7225153798574637,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+        "commentatorTierSimilarities": [
+            34.27,
+            32.33,
+            33.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I speak as beside myself] I say it as a madman. This is far stronger than 'I speak in foolishness: it is said from a deep sense of his own unworthiness.",
+            "The assertion, I am more, must not be misunderstood. He concedes to them their being ministers of Christ, and assumes (as it were in madness) for himself, something more.",
+            "Paul is a minister in a much higher degree, more faithful, more self-denying, richer in gifts and divine tokens, than they."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I speak as if beside myself.\" ",
+            "I am more...more faithful and self-denying; and richer in tokens of God's recognition of my ministry.",
+            "In prisons above measures, in stripes more abundantly."
+        ],
+        "Albert Barnes": [
+            "Bear in mind, in what I am now about to say, that he who speaks is accused of being a fool in boasting.",
+            "His frequent reminding them of this charge was eminently suited to humble them that they had ever made it, especially when they were reminded by an enumeration of his trials, of the character of the man against whom the charge was brought.",
+            "The ministry is one of the very few places, perhaps it stands alone in this, where it is proof of special qualification for office that a man has been treated with all manner of contumely, and has even been often publicly whipped."
+        ],
+        "Marvin Vincent": [
+            "As a fool [\u03c0\u03b1\u03c1\u03b1\u03c6\u03c1\u03bf\u03bd\u03c9\u03bd] . Only here in the New Testament. See the kindred parafronia madness, 2 Peter 2:16. Lit., being beside myself Rev., as one beside myself.",
+            "Strikes above measure [\u03c5\u03c0\u03b5\u03c1\u03b2\u03b1\u03bb\u03bb\u03bf\u03bd\u03c4\u03c9\u03c2] . This peculiar form of suffering is emphasized by details.",
+            "Deaths. Perils of death, as at Damascus, Antioch in Pisidia, Iconium, Lystra, Thessalonica, Beroea."
+        ],
+        "John Calvin": [
+            "For to be a servant of Christ is a thing that is much more honorable and illustrious, than to be the first-born among all the first-born of Abraham\u2019s posterity.",
+            "In the same way we may also understand the term deaths to mean any kind of perils that in a manner threatened present death, instances of which he afterwards specifies.",
+            "He had made use of the term deaths in the same sense in the first chapter."
+        ],
+        "Philip Schaff": [
+            "Are they ministers of Christ? (I speak as one beside himself) I more.",
+            "in labours more abundantly, in prisons more abundantly.",
+            "in deaths oft hairbreadth escapes from it."
+        ],
+        "Archibald T. Robertson": [
+            "Such open boasting is out of accord with Paul's spirit and habit.",
+            "I more than they.",
+            "He had nearly lost his life, as we know, many times."
+        ],
+        "John Gill": [
+            "I am more; that is, more a minister of Christ than they, more manifestly so than they were; yea, he was more than an ordinary minister of Christ, he was an apostle, the apostle of the Gentiles, and laboured and suffered more than even the rest of the true apostles of Christ, and therefore must be greatly superior to the false ones.",
+            "in labours more abundant; in taking fatiguing journeys, preaching the Gospel constantly, administering ordinances, working with his own hands, c.",
+            "in stripes above measure which were cruelly and unmercifully inflicted on him by his enemies, and which he afterwards mentions"
+        ],
+        "John Wesley": [
+            "I am more so than they.",
+            "In deaths often \u2014 Surrounding me in the most dreadful forms."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I speak as one beside myself, for I am more than just a minister of Christ. Paul's assertion of being more should not be misunderstood as arrogance, but rather as a deep recognition of his faithfulness, self-denial, and the abundant tokens of God's recognition of his ministry. He has endured imprisonments and countless beatings, even facing death on multiple occasions. Paul's boasting may seem out of character, but it serves to humble those who accuse him of foolish boasting. He has faced perils and threats that surrounded him in the most dreadful forms. In comparison to others, Paul has labored more abundantly, suffered more greatly, and been an apostle of the Gentiles. Truly, his service as a servant of Christ far surpasses any other honor or position.",
+            "wordCount": 131,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.6679025017006857,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                31.33,
+                33.17,
+                35.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I speak as one beside myself, for I am more than just a minister of Christ. Paul's assertion of being more should not be misunderstood as arrogance, but rather as a deep recognition of his faithfulness, self-denial, and the abundant tokens of God's recognition of his ministry. He has endured imprisonments and countless beatings, even facing death on multiple occasions. Paul's boasting may seem out of character, but he has labored more abundantly, suffered more greatly, and been an apostle of the Gentiles. Truly, his service as a servant of Christ far surpasses any other honor or position.",
+            "wordCount": 102,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.7252598136215167,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                33.42,
+                31.73,
+                34.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I speak as one beside myself, for I am more than just a minister of Christ. Paul's assertion of being more should not be misunderstood as arrogance, but rather as a recognition of his faithfulness, self-denial, and God's recognition of his ministry. He has endured imprisonments, beatings, and faced death numerous times. Paul's boasting humbles those who accuse him, as he has labored more abundantly, suffered greatly, and served as an apostle to the Gentiles. His dedication to Christ surpasses any earthly honor.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.6819792879049604,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                33.21,
+                33.39,
+                33.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I speak as one beside myself, for I am more than just a minister of Christ. Paul's assertion of being more should not be misunderstood as arrogance, but rather as a recognition of his faithfulness, self-denial, and God's recognition of his ministry. He has endured imprisonments, beatings, and faced death numerous times. Paul's boasting humbles those who accuse him, as he has labored more abundantly, suffered greatly, and served as an apostle to the Gentiles. His dedication to Christ surpasses any earthly honor.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.6819792879049604,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                33.21,
+                33.39,
+                33.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I speak as one beside myself, for I am more than just a minister of Christ. Paul's assertion of being more should not be misunderstood as arrogance, but rather as a recognition of his faithfulness, self-denial, and the abundant tokens of God's recognition of his ministry. He has endured imprisonments and countless beatings, even facing death on multiple occasions. Paul's boasting may seem out of character, but his labors, sufferings, and apostolic mission to the Gentiles set him apart as a servant of Christ beyond compare.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.7225153798574637,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                34.27,
+                32.33,
+                33.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:14:27",
+    "verseRef": "Luke 3:13",
+    "bestBHT": {
+        "bht": "John's command to the tax collectors to exact no more is a rebuke against the extortion that had become associated with their profession. Excessive exaction was not only dishonest but also dishonorable. This call to fair treatment serves as a reminder for us as well, to avoid taking advantage of others and instead to act in a manner that reflects our fear of God and sincerity of repentance.",
+        "wordCount": 69,
+        "quoteTokenProportion": 49.12,
+        "qualityScore": 1.213253327810369,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.68,
+        "commentatorTierSimilarities": [
+            31.32,
+            25.75,
+            42.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "13. Exact no more, c.\u2014directed",
+            "\tagainst that extortion which made the publicans a byword. (See",
+            "\ton Luke 3:1 Luke 3:1- :). (Also see on Luke 3:1- :.)"
+        ],
+        "Albert Barnes": [
+            "Demand, or take, no more. Than that which is appointed.",
+            "The office itself was not dishonorable.",
+            "The people should pay cheerfully the just apportionment of their rulers."
+        ],
+        "Marvin Vincent": [
+            "The word is used of the exaction of legal tribute, and excessive exaction is expressed by the following words.",
+            "John would hardly have commanded them to extort in any case.",
+            "The change of the Rev., to exhort is unfortunate."
+        ],
+        "Philip Schaff": [
+            "Exact no more.\" ",
+            "Great opportunity for exaction was afforded by the system of letting out the collectorships to the highest bidder.",
+            "The exactions would all be clear profit."
+        ],
+        "John Gill": [
+            "Exact no more than that which is appointed you; by the government.",
+            "From all which we may learn what publicans these were that came to John's baptism...and also we see the reason of his expressing himself in this manner, since publicans were very apt to go beyond their orders, and require more than was fixed for them to collect.",
+            "To abstain from such practices was an argument of the fear of God, of the truth of grace, and of the sincerity of repentance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us of the importance of honest and just behavior, particularly in our dealings with others. John's command to the tax collectors to exact no more is a rebuke against the extortion that had become associated with their profession. John emphasizes that they should not go beyond what is legally required, as excessive exaction was not only dishonest but also dishonorable. This call to fair treatment serves as a reminder for us as well, to avoid taking advantage of others and instead to act in a manner that reflects our fear of God and sincerity of repentance.",
+            "wordCount": 100,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.0841820155388537,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.39,
+            "commentatorTierSimilarities": [
+                29.74,
+                19.27,
+                50.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John's command to the tax collectors to exact no more is a rebuke against the extortion that had become associated with their profession. Excessive exaction was not only dishonest but also dishonorable. This call to fair treatment serves as a reminder for us as well, to avoid taking advantage of others and instead to act in a manner that reflects our fear of God and sincerity of repentance.",
+            "wordCount": 69,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.213253327810369,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.68,
+            "commentatorTierSimilarities": [
+                31.32,
+                25.75,
+                42.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John's command to the tax collectors is a rebuke against the extortion that had made them infamous. His call to exact no more emphasizes the importance of fair treatment and honest behavior. Excessive exaction was not only dishonest but dishonorable. This command serves as a reminder for us to ensure that we act with integrity and avoid taking advantage of others. It is a reflection of our fear of God, the truth of grace, and the sincerity of repentance.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.0824207496391551,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.33,
+            "commentatorTierSimilarities": [
+                30.25,
+                23.79,
+                45.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John's command to the tax collectors is a rebuke against the extortion that had made them infamous. His call to exact no more emphasizes the importance of fair treatment and honest behavior. Excessive exaction was not onlydishonest but dishonorable. Thiscommand serves as a reminder for us to ensure that we act with integrity and avoid taking advantage of others. It is a reflection of our fear of God, the truth of grace, and the sincerity of repentance.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.099999410294508,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.92,
+            "commentatorTierSimilarities": [
+                31.37,
+                24.33,
+                44.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John's command to the tax collectors is a rebuke against the extortion that had made them infamous. His call to exact no more emphasizes the importance of fair treatment and honest behavior. This reminder urges us to act with integrity, avoiding the temptation to take advantage of others. It is a reflection of our fear of God and the sincerity of our repentance, demonstrating our desire to live in accordance with His will.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 0.998275870744564,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.54,
+            "commentatorTierSimilarities": [
+                27.94,
+                19.49,
+                52.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 14:12:57",
+    "verseRef": "Galatians 1:20",
+    "bestBHT": {
+        "bht": "In Galatians 1:20, Paul makes a solemn asseveration regarding his visit to Jerusalem. Given that there may have been rumors circulating about Paul receiving extensive instruction from the Apostles during his time in Jerusalem, he feels compelled to emphasize the truth of his statement. By swearing an oath, Paul seeks to dispel any doubts and reinforce the fact that his visit was brief and that he only met with Peter and James. This oath serves as a powerful reminder of Paul's earnestness and the importance of his testimony.",
+        "wordCount": 88,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 2.105583665939702,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.35,
+        "commentatorTierSimilarities": [
+            33.12,
+            38.01,
+            28.87
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This asseveration applies most naturally to the important fact just asserted\u2014his short visit to Jerusalem, and his having seen only Peter and James.\" ",
+            "If a report had been spread in Galatia that after his conversion he spent years at Jerusalem and received regular institution in Christianity at the hands of the Apostles, this last fact would naturally cause amazement, and need a strong confirmatory asseveration.",
+            "This last fact would naturally cause amazement, and need a strong confirmatory asseveration."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Solemn asseveration that his statement is true...\" ",
+            "...his visit was but for fifteen days and that he saw no apostle save Peter and James.\" ",
+            "...his earnestness in asserting the contrary facts."
+        ],
+        "Albert Barnes": [
+            "The design of this oath here is to prevent all suspicion of falsehood.",
+            "It was an extraordinary and miraculous revelation of the truth by Jesus Christ himself.",
+            "That fact was so extraordinary, and it was so remarkable that the system thus communicated to him should harmonize so entirely with that taught by the other apostles with whom he had had no contact."
+        ],
+        "Marvin Vincent": [
+            "I lie not. Comp. Romans 9:1; 2 Corinthians 11:31; 1 Timothy 2:7."
+        ],
+        "John Calvin": [
+            "The vast earnestness of Paul on this subject is evinced by his resorting to an oath, which cannot lawfully be employed but on great and weighty occasions.",
+            "Now the modes of swearing used by good men deserve our attention; for we learn from them that an oath must be viewed simply as an appeal to the judgment-seat of God for the integrity and truth of our words and actions.",
+            "Such a transaction ought to be guided by religion and the fear of God."
+        ],
+        "Philip Schaff": [
+            "This solemn asseveration refers to the statement Galatians 1:18-19.",
+            "Judaizing opponents had probably spread the report in Galatia that Paul spent a much longer time in Jerusalem.",
+            "Paul was instructed by the Jewish Apostles, especially by Peter, consequently dependent on them."
+        ],
+        "Archibald T. Robertson": [
+            "I lie not (\u03bf\u03c5 \u03c8\u03b5\u03c5\u03b4\u03bf\u03bc\u03b1). So important does he deem the point that he takes solemn oath about it. "
+        ],
+        "John Gill": [
+            "Now the things which I write unto you... he therefore not only wrote these things, but for the confirmation of them solemnly appeals to God the searcher of hearts for the truth of them.",
+            "behold, before God I lie not; which is not only a strong asseveration, but a formal oath.",
+            "whence it is manifest that an oath upon proper occasions, where there is a necessity for it, and a good end to be answered by it, may be lawfully made."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Galatians 1:20, Paul makes a solemn asseveration regarding his visit to Jerusalem. Given that there may have been rumors circulating about Paul receiving extensive instruction from the Apostles during his time in Jerusalem, he feels compelled to emphasize the truth of his statement. By swearing an oath, Paul seeks to dispel any doubts and reinforce the fact that his visit was brief and that he only met with Peter and James. This oath serves as a powerful reminder of Paul's earnestness and the importance of his testimony.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.105583665939702,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.35,
+            "commentatorTierSimilarities": [
+                33.12,
+                38.01,
+                28.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul solemnly asserts the truth of his visit to Jerusalem in Galatians 1:20. Aware that rumors might suggest otherwise, he vehemently denies receiving extensive instruction from the Apostles or spending significant time in Jerusalem. To dispel any doubts, he takes the extraordinary step of making a solemn oath. This emphasizes his earnestness and serves as compelling evidence that his visit was brief, with only Peter and James being the apostles he encountered. Paul's oath underscores the importance of his testimony and the accuracy of his account.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.071652385091032,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.22,
+            "commentatorTierSimilarities": [
+                35.27,
+                36.13,
+                28.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul strongly affirms the truth of his short visit to Jerusalem in Galatians 1:20, where he only saw Peter and James. To counter any potential rumors or doubts, Paul goes to great lengths to emphasize the veracity of his statement. He takes a solemn oath, highlighting his sincerity and the significance of his testimony. This level of earnestness underscores the importance of accurately relaying the details of his encounter and challenges any misconceptions about his time in Jerusalem.",
+            "wordCount": 77,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 1.9381095571151754,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                36.39,
+                35.69,
+                27.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Galatians 1:20, Paul makes a strong affirmation regarding his visit to Jerusalem. Aware that speculations may arise about the duration and extent of his time with the Apostles, he passionately denies any prolonged stay or extensive instruction. To dispel such doubts, Paul resorts to a solemn oath, underscoring the authenticity and significance of his account. This solemn asseveration reflects his earnestness and aims to establish the truthfulness of his statement, reinforcing the importance of his testimony.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.9341747401118106,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
+            "commentatorTierSimilarities": [
+                35.08,
+                35.22,
+                29.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul emphatically asserts the truth of his visit to Jerusalem in Galatians 1:20. He denies spending prolonged periods of time there or receiving extensive instruction, addressing any potential rumors or doubts. In order to establish the veracity of his statement, Paul takes a solemn oath. This demonstrates his seriousness and underscores the importance of his testimony. The intensity of his affirmation serves as a powerful reminder of the accuracy and significance of his account, affirming the brevity of his visit and the limited interactions with Peter and James.",
+            "wordCount": 87,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.878733373967247,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+            "commentatorTierSimilarities": [
+                36.95,
+                35.14,
+                27.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

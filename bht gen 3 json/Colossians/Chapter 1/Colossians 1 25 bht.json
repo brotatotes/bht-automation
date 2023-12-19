@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:19:48",
+    "verseRef": "Colossians 1:25",
+    "bestBHT": {
+        "bht": "In the Church, Paul sees himself as a steward, dispensing the gifts of God to individual Christians and fulfilling his duty towards them. He recognizes that it is God who is the source and chief of these gifts, and that he has been made a minister by God's stewardship. Paul's goal is to fully preach the Word of God, bringing it to all and giving it full scope. Through his ministry, Paul aims to fill all places with the word of God and the Gospel of Christ, fulfilling the universal destination of the gospel.",
+        "wordCount": 96,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.3139599021860295,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.28,
+        "commentatorTierSimilarities": [
+            32.48,
+            32.8,
+            34.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the house of God, which is the Church, I am steward, as it were dispensing to the whole family, i.e. to individual Christians, the goods and the gifts of God my Lord.",
+            "Of which God is the source and chief.",
+            "To fulfil the duty of the stewardship towards you, in doing all that this preaching of the word requires."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I was made a minister\": resuming :-, \"whereof I Paul was made a minister.",
+            "The stewardship committed to me to dispense in the house of God, the Church, to the whole family of believers, the goods of my Master.",
+            "To bring it fully to all: the end of his stewardship: 'fully preached'."
+        ],
+        "Albert Barnes": [
+            "According to the dispensation of God - The arrangement which God has made.",
+            "He designed that the gospel should be preached to the Gentiles.",
+            "Fully to teach and promulgate the gospel."
+        ],
+        "John Calvin": [
+            "He calls himself, however, in this instance, a minister of the Church on a different ground from that on which he called himself elsewhere, a minister of God, and a little ago, a minister of the gospel.",
+            "For the Apostles serve God and Christ for the advancement of the glory of both: they serve the Church, and administer the gospel itself, with a view to promote salvation.",
+            "He states the end of his ministry \u2014 that the word of God may be effectual, as it is, when it is obediently received. For this is the excellence of the gospel, that it is the power of God unto salvation to every one that believeth."
+        ],
+        "Philip Schaff": [
+            "In the Church there is no true ministry apart from the ministry of the gospel.",
+            "His Apostolic office is thus described as of God, belonging to God. In the Church, the house of God, he exercises the function of a steward.",
+            "The reference seems to be to carrying the word of God to the Gentiles as a whole, thus filling out the full measure of its universal destination."
+        ],
+        "Archibald T. Robertson": [
+            "According to the economy of God.",
+            "It was by God's stewardship that Paul was made a minister of Christ.",
+            "To fill full or to give full scope to the Word of God."
+        ],
+        "John Gill": [
+            "he was not a saviour of the body, nor a redeemer of the church, nor Lord of it; but a minister, a servant of it, that ministered to it in holy things\" (32 words).",
+            "The church is God's family, it is called the house and household of God, and the household of faith, part of which is in heaven and part on earth\" (27 words).",
+            "to fill all places with the word of God and Gospel of Christ, as the apostle did from Jerusalem, and round about to Illyricum, diffusing the savour of the knowledge of Christ in every place\" (35 words)."
+        ],
+        "John Wesley": [
+            "According to the dispensation of God which is given me \u2014 Or, the stewardship with which I am intrusted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the Church, Paul sees himself as a steward, dispensing the gifts of God to individual Christians and fulfilling his duty towards them. He recognizes that it is God who is the source and chief of these gifts, and that he has been made a minister by God's stewardship. Paul's goal is to fully preach the Word of God, bringing it to all and giving it full scope. He understands that his Apostolic office is of God, belonging to God, and his ministry is intended to advance the glory of both God and Christ. Through his ministry, Paul aims to fill all places with the word of God and the Gospel of Christ, fulfilling the universal destination of the gospel.",
+            "wordCount": 122,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.291235556444649,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.52,
+            "commentatorTierSimilarities": [
+                31.51,
+                33.12,
+                35.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the Church, Paul sees himself as a steward, dispensing the gifts of God to individual Christians and fulfilling his duty towards them. He recognizes that it is God who is the source and chief of these gifts, and that he has been made a minister by God's stewardship. Paul's goal is to fully preach the Word of God, bringing it to all and giving it full scope. Through his ministry, Paul aims to fill all places with the word of God and the Gospel of Christ, fulfilling the universal destination of the gospel.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.3139599021860295,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.28,
+            "commentatorTierSimilarities": [
+                32.48,
+                32.8,
+                34.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Church, Paul stewards the gifts and goods of God, fulfilling his duty towards individual Christians. As a minister, he recognizes that his role is of God's design in the economy of spreading the Word. His aim is to fully preach the Word of God, bringing it to all, and giving it full scope. Through his ministry, Paul seeks to fill all places with the Gospel, spreading the knowledge of Christ far and wide.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.1935859754753775,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.28,
+            "commentatorTierSimilarities": [
+                32.91,
+                33.91,
+                33.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the Church, Paul sees himself as a steward, dispensing the gifts of God to individual Christians and fulfilling his duty towards them. He recognizes that it is God who is the source and chief of these gifts, and that he has been made a minister by God's stewardship. Paul's goal is to fully preach the Word of God, bringing it to all and giving it full scope. Through his ministry, he aims to fill all places with the word of God and the Gospel of Christ, fulfilling the universal destination of the gospel.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.307833448569654,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.08,
+            "commentatorTierSimilarities": [
+                32.15,
+                33.08,
+                34.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As a steward in the Church, Paul fulfills his duty by dispensing God's gifts to individual Christians. Recognizing God as the source and chief of these gifts, Paul sees himself as a minister entrusted by God's stewardship. His mission is to fully preach the Word of God, bringing it to all and giving it full scope. Through his ministry, Paul aims to spread the word of God and the Gospel of Christ, ensuring that it reaches every place and fulfills its universal purpose.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.2742286789297657,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.96,
+            "commentatorTierSimilarities": [
+                33.85,
+                32.22,
+                33.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:37:44",
+    "verseRef": "Acts 28:8",
+    "bestBHT": {
+        "bht": "Luke's medical accuracy is evident in his description of fevers, as the use of the plural is unique to him in the New Testament. Paul's ability to heal the sick through laying on of hands is a manifestation of his faith rather than personal charm. This healing serves as a reciprocal gesture of gratitude for Publius's hospitality and allows Paul to bring healing to the people of Malta. It exemplifies the apostles' power to perform miracles through prayer and faith, reminding us to give glory to God and appreciate the ministers of His grace.",
+        "wordCount": 97,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.6888307118883028,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+        "commentatorTierSimilarities": [
+            26.56,
+            40.76,
+            32.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Such a place, dry and rocky, and remarkably healthy, was not likely to produce a disease which is almost peculiar to moist situations.",
+            "The changed circumstances of the island might produce this change also.",
+            "It is remarkable, that so soon after the \u2018taking up of serpents,\u2019 we should read of Paul having \u2018laid his hands on the sick and they recovered.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The medical accuracy of our historian's style has been observed here.",
+            "Thereby precluding the supposition that any charm resided in himself.",
+            "Thus, as our Lord rewarded Peter for the use of his boat, so Paul richly repays Publius for his hospitality."
+        ],
+        "Albert Barnes": [
+            "A bloody flux - Greek: dysentery.",
+            "And laid his hands on him ... - In accordance with the promise of the Saviour, Mark 16:18.",
+            "This miracle was a suitable return for the hospitality of Publius, and would serve to conciliate further the kindness of the people, and prepare the way for Paul\u2019s usefulness."
+        ],
+        "Marvin Vincent": [
+            "Sick [\u03c3\u03c5\u03bd\u03b5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd] . Lit., taken or holden.",
+            "Fever [\u03c0\u03c5\u03c1\u03b5\u03c4\u03bf\u03b9\u03c2] . Lit., fevers. This peculiarly medical use of the plural is confined to Luke in the New Testament.",
+            "Bloody flux [\u03b4\u03c5\u03c3\u03b5\u03bd\u03c4\u03b5\u03c1\u03b9\u03b1] . Only here in New Testament. Our word dysentery is nearly a transcript of it."
+        ],
+        "John Calvin": [
+            "He confirmeth this self-same thing by the external sign.",
+            "By which example, not only those who have excellent gifts of the Spirit given them are admonished to beware, lest by extolling themselves they darken the glory of God, but also we are all taught in general that we must so thank the ministers of the grace of God that the glory remain to him alone.",
+            "Yet was the will of God to him instead of voluntary fetters, because he was often cited by the heavenly oracle to appear before the judgment-seat of Nero to bear witness of Christ."
+        ],
+        "Philip Schaff": [
+            "The use of the plural \u03c0\u03c5\u03c1\u03b5\u03c4\u03bf\u03b9 \u0342 \u03c2 is an instance of the accuracy of St. Luke\u2019s professional language.",
+            "He followed the same course as St. Peter in the case of Tabitha (Acts 9:40). The miraculous power was granted to the apostles on occasion; and here we see it exercised in conjunction with prayer, in virtue of that faith which \u2018removes mountains.\u2019",
+            "This is a second specimen of the fulfilment of part of the promise given in Mark 16:18."
+        ],
+        "Archibald T. Robertson": [
+            "Lay... Sick... Of fever... Dysentery.\" (4 words)",
+            "Laying his hands on him healed him.\" (7 words)",
+            "Came and were healed... With many honors.\" (6 words)"
+        ],
+        "John Gill": [
+            "This disease, according to modern writers, is attended with a fever.",
+            "There are three kinds of 'dysenteries'; the 'first' when a laudable blood is evacuated from a mere plethora, or plenitude, without any disorder of the intestines...",
+            "and he laid his hands on him, as a sign or symbol, or rite that was used in extraordinary cases, and agreeably to the direction and promise of Christ..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 28:8, it is noted that Luke's medical accuracy is observed in the description of the ailments, specifically the plural use of fevers. The healing of the sick, particularly Publius who suffered from fever and dysentery, is highlighted as an action of Paul's faith, not a charm of his own. This miracle served as a fitting response to Publius's hospitality and an opportunity for Paul to show gratitude by bringing healing to the people of Malta. As Luke mentions, the laying of hands on the sick and their recovery is a remarkable occurrence shortly after Paul's encounter with the venomous snake. This demonstrates how the apostles, like Peter in Acts 9:40, exercised their miraculous power in conjunction with prayer and faith. Ultimately, this event serves as a reminder for all to give thanks to the ministers of God's grace while keeping the glory for God alone.",
+            "wordCount": 150,
+            "quoteTokenProportion": 31.18,
+            "qualityScore": 1.6287518125526679,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                28.86,
+                41.41,
+                29.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the accuracy of Luke as a medical writer is observed, particularly in the plural use of fevers. Paul's ability to heal the sick through the laying of hands is viewed as a result of his faith, rather than any personal charm. Notably, this healing serves as a gesture of gratitude for Publius's hospitality and an opportunity for Paul to bring healing to the people of Malta. This event also demonstrates the apostles' power, following the example of Peter, in performing miracles through prayer and faith. It serves as a reminder for all to acknowledge the ministers of God's grace and give glory to Him alone.",
+            "wordCount": 111,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.6364027954381273,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.75,
+            "commentatorTierSimilarities": [
+                25.97,
+                41.05,
+                32.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The use of plural 'fevers' in this account showcases Luke's medical accuracy. Paul's ability to heal the sick by laying hands is seen as an act of faith, rather than a personal charm. It is regarded as a thankful response to Publius's hospitality and an opportunity to bring healing to the people of Malta. This event further demonstrates the apostles' power, similar to Peter, to perform miracles through prayer and faith. Ultimately, it serves as a reminder to give glory to God and appreciate those who minister God's grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.5317045010854744,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.27,
+            "commentatorTierSimilarities": [
+                26.61,
+                44.58,
+                28.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Luke's medical accuracy is evident in the use of the plural 'fevers' to describe the ailments. Paul's ability to heal the sick through the laying of hands is attributed to his faith, not personal charm. This miracle serves as gratitude for Publius's hospitality and an opportunity for Paul to bring healing to Malta. The apostles, like Peter, were able to perform miracles through prayer and faith. This event serves as a reminder to give thanks to those who minister God's grace and to ascribe all glory to Him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.6100815161669433,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.88,
+            "commentatorTierSimilarities": [
+                29.52,
+                41.27,
+                29.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Luke's medical accuracy is evident in his description of fevers, as the use of the plural is unique to him in the New Testament. Paul's ability to heal the sick through laying on of hands is a manifestation of his faith rather than personal charm. This healing serves as a reciprocal gesture of gratitude for Publius's hospitality and allows Paul to bring healing to the people of Malta. It exemplifies the apostles' power to perform miracles through prayer and faith, reminding us to give glory to God and appreciate the ministers of His grace.",
+            "wordCount": 97,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.6888307118883028,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+            "commentatorTierSimilarities": [
+                26.56,
+                40.76,
+                32.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

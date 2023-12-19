@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:22:16",
+    "verseRef": "Luke 20:16",
+    "bestBHT": {
+        "bht": "The Pharisees, in responding to the parable, unknowingly pronounced their own righteous doom. Jesus explained further that the kingdom of God would be taken from them and given to the faithful, predominately the Gentiles. The Pharisees protested, saying, God forbid, realizing the turn of the parable against themselves. This exclamation was a plea to not let this destruction and casting out happen. Ultimately, their words would be confirmed by Christ, as the destruction of Jerusalem did come to pass.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.6996896378743789,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.86,
+        "commentatorTierSimilarities": [
+            34.02,
+            30.61,
+            35.38
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He shall come, &amp;c.\u2014This answer was given by the Pharisees themselves, thus pronouncing their own righteous doom.\" ",
+            "Matthew alone gives the naked application, that 'the kingdom of God should be taken from them, and given to a nation bringing forth the fruits thereof'\u2014the great evangelical community of the faithful, chiefly Gentiles.",
+            "God forbid\u2014His whole meaning now bursting upon them."
+        ],
+        "Marvin Vincent": [
+            "Destroy. See on Matthew 21:41. ",
+            "God forbid [\u03bc\u03b7 \u03b3\u03b5\u03bd\u03bf\u03b9\u03c4\u03bf] . Lit., may it not be."
+        ],
+        "Philip Schaff": [
+            "God forbid, or, \u2018far be it,\u2019 i.e., this casting out and killing and consequent destruction.",
+            "Who spoke? Some of the crowd, we think, since as yet Luke has not introduced the chief priests in this connection.",
+            "Comp. on the former part of the verse, Matthew 21:41."
+        ],
+        "Archibald T. Robertson": [
+            "God forbid. May it not happen.\" ",
+            "This was the pious protest of the defeated members of the Sanhedrin.\" ",
+            "They began to see the turn of the parable against themselves."
+        ],
+        "John Gill": [
+            "He shall come and destroy these husbandmen... which had its accomplishment at the destruction of Jerusalem.",
+            "And shall give the vineyard to others; the land of Judea to the Romans in particular, and the church state, with the Gospel and ordinances of it, to the Gentiles in general.",
+            "And when they heard it, they said, God forbid; though they were their own words, yet repeated and confirmed by Christ, and perceiving that they were the persons intended, deprecate the fulfillment of them."
+        ],
+        "John Wesley": [
+            "He will destroy these husbandmen \u2014 Probably he pointed to the scribes, chief priests, and elders: who allowed, he will miserably destroy those wicked men.\" ",
+            "God forbid that we should be guilty of such a crime as your parable seems to charge us with, namely, rejecting and killing the heir.\" ",
+            "But yet will ye do it, as is prophesied of you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, in responding to the parable, unknowingly pronounced their own righteous doom. Jesus explained further that the kingdom of God would be taken from them and given to the faithful, predominately the Gentiles. The Pharisees protested, saying, God forbid, realizing the turn of the parable against themselves. This exclamation was a plea to not let this destruction and casting out happen. Ultimately, their words would be confirmed by Christ, as the destruction of Jerusalem did come to pass.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6996896378743789,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.86,
+            "commentatorTierSimilarities": [
+                34.02,
+                30.61,
+                35.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees unintentionally pronounced their own righteous doom while responding to the parable. Jesus revealed that the kingdom of God would be taken from them and given to the faithful, particularly the Gentiles. Startled, the Pharisees exclaimed, God forbid, understanding that the parable turned against them. Their plea was to prevent the destruction and expulsion spoken of in the parable. Over time, their words would be confirmed by Christ, as Jerusalem was indeed destroyed.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.633918261955709,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                35.45,
+                28.55,
+                36.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees unknowingly pronounced their own righteous doom in responding to the parable. Jesus explained that the kingdom of God would be taken from them and given to the faithful, chiefly the Gentiles. Their exclamation of God forbid reflected their sudden understanding of the parable's indictment against them. This plea was a desperate attempt to prevent the destruction and expulsion described in the parable. Ultimately, their words aligned with Christ's prophecy, as Jerusalem would be destroyed as foretold.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6014969817958598,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
+            "commentatorTierSimilarities": [
+                33.7,
+                29.01,
+                37.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees themselves unwittingly predicted their own righteous judgment when they responded to the parable. Jesus made it clear that the kingdom of God would be taken away from them and entrusted to a faithful community, which primarily consisted of Gentiles. In shock, the Pharisees exclaimed, God forbid, as they realized how the parable turned against them. This plea was their attempt to implore that the destruction and expulsion mentioned in the parable would not come to pass. Ultimately, their words aligned with Christ's prophecy, as Jerusalem was indeed destroyed.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.6601565074564046,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.54,
+            "commentatorTierSimilarities": [
+                33.39,
+                28.87,
+                37.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees inadvertently pronounced their own judgment when they responded to the parable, as Jesus affirmed that the kingdom of God would be taken from them and given to the faithful, particularly the Gentiles. Startled by this revelation, the Pharisees exclaimed God forbid, understanding the parable's indicting implications. Their plea was a desperate attempt to prevent the destruction and expulsion foretold in the parable. Eventually, their words aligned with Christ's prophecy, as Jerusalem was indeed destroyed, fulfilling the parable's warning.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.624544651979418,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                33.34,
+                27.87,
+                38.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

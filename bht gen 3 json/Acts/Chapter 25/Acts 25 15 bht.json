@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:36:04",
+    "verseRef": "Acts 25:15",
+    "bestBHT": {
+        "bht": "The chief priests and elders of the Jews brought an accusation against him, presenting charges and setting forth various crimes he had been guilty of. They were not only seeking for his cause to be tried, but also for a sentence of condemnation to be passed upon him. This desire for judgment against him was rooted in their intention to have punishment inflicted, even possibly death itself.",
+        "wordCount": 67,
+        "quoteTokenProportion": 52.73,
+        "qualityScore": 1.612254580648297,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+        "commentatorTierSimilarities": [
+            22.03,
+            28.75,
+            49.22
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "About whom ... - See Acts 25:1-5.",
+            "To have judgment against him - To have him condemned."
+        ],
+        "Philip Schaff": [
+            "The Greek word translated \u2018judgment\u2019 ( \u03b4\u03b9 \u0301 \u03ba\u03b7\u03bd ), in the most trustworthy MSS. is the stronger though unused \u03ba\u03b1\u03c4\u03b1\u03b4\u03af\u03ba\u03b7\u03bd , which must possess the sense of \u2018condemnation\u2019 or \u2018punishment.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Informed (\u03b5\u03bd\u03b5\u03c6\u03b1\u03bd\u03b9\u03c3\u03b1\u03bd). Same word as in Acts 23:15; Acts 23:22; Acts 25:2 which see.",
+            "Asking for sentence against him (\u03b1\u03b9\u03c4\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf \u03ba\u03b1\u03c4' \u03b1\u03c5\u03c4\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b4\u03b9\u03ba\u03b7\u03bd).",
+            "Only N.T. example of this old word (penalty, fine, condemnation) from \u03ba\u03b1\u03c4\u03b1 and \u03b4\u03b9\u03ba\u03b7 (justice against)."
+        ],
+        "John Gill": [
+            "The chief priests and elders of the Jews informed me; brought an accusation to him, exhibited to him charges against him, presented to him a bill of information, setting forth various crimes he had been guilty of.\" ",
+            "Desiring to have judgment against him; not barely to have his cause tried, but to have a sentence of condemnation passed upon him.",
+            "That punishment is designed, and even death itself, is manifest from the following words."
+        ],
+        "John Wesley": [
+            "Desiring judgment against him \u2014 As upon a previous conviction, which they falsely pretended."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief priests and elders of the Jews brought an accusation against him, presenting charges and setting forth various crimes he had been guilty of. They were not only seeking for his cause to be tried, but also for a sentence of condemnation to be passed upon him. This desire for judgment against him was rooted in their intention to have punishment inflicted, even possibly death itself.",
+            "wordCount": 67,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.612254580648297,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                22.03,
+                28.75,
+                49.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief priests and elders, informed and armed with accusations, sought not just a trial for the accused, but rather a verdict of guilt and condemnation against him. The Greek word used here, \u03ba\u03b1\u03c4\u03b1\u03b4\u03b9\u03ba\u03b7\u03bd, illustrates the desire for punishment and retribution. The charges brought forth were meant to result in a sentence of death. The accusers had falsely claimed a prior conviction, further highlighting their determination for judgment against the accused.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.506277147835156,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                25.75,
+                29.53,
+                44.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief priests and elders, informed and armed with accusations, sought not just a trial for the accused, but rather a verdict of guilt and condemnation against him. The Greek word used here, \u03ba\u03b1\u03c4\u03b1\u03b4\u03b9\u03ba\u03b7\u03bd, illustrates the desire for punishment and retribution. The charges brought forth were meant to result in a sentence of death. The accusers had falsely claimed a prior conviction, further highlighting their determination for judgment against the accused.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.506277147835156,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                25.75,
+                29.53,
+                44.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests and elders, having informed against him, desired not simply a trial, but rather a sentence of condemnation and punishment. The Greek word used, \u03ba\u03b1\u03c4\u03b1\u03b4\u03b9\u03ba\u03b7\u03bd, implies this desire for judgment and penalty. The charges brought forth were intended to lead to the accused's death. The accusers falsely claimed a prior conviction, emphasizing their determination for judgment against him.",
+            "wordCount": 61,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5995834865679837,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+            "commentatorTierSimilarities": [
+                25.46,
+                30.57,
+                43.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief priests and elders, informed and armed with accusations, desired not a mere trial but a sentence of condemnation and punishment. The Greek word used, \u03ba\u03b1\u03c4\u03b1\u03b4\u03b9\u03ba\u03b7\u03bd, implies their longing for judgment and penalty. The charges were intended to result in the accused's death. The accusers falsely claimed a prior conviction, exhibiting their relentless pursuit of judgment against him.",
+            "wordCount": 60,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.588751380955053,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.17,
+            "commentatorTierSimilarities": [
+                25.78,
+                30.5,
+                43.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

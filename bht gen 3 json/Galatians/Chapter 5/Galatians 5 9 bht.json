@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 14:19:56",
+    "verseRef": "Galatians 5:9",
+    "bestBHT": {
+        "bht": "Just as a little false doctrine corrupts the whole mass, the addition of legalism to justification by faith undermines the entirety of the Gospel. Leaven is often used as a symbol of evil and corruption, representing the pervasive influence of one bad person or false teacher. Therefore, we must be cautious not to allow any counterfeit or corrupt doctrine to be substituted for the pure message of the gospel, as even a small error in doctrine can lead to ungodliness and trouble for the entire body of believers.",
+        "wordCount": 88,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.5034827378456876,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.58,
+        "commentatorTierSimilarities": [
+            40.66,
+            30.7,
+            28.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the parallel place in 1 Cor. v. 6, it is moral influence; so also where our Lord uses the same figure, leaven means doctrine.",
+            "Nor can there be any objection to taking it as abstract, and 'lump' concrete: a little false doctrine corrupts the whole mass (of Christians).",
+            "A little false doctrine corrupts the whole mass."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A small portion of legalism, if it be mixed with the Gospel, corrupts its purity.",
+            "To add legal ordinances and works in the least degree to justification by faith, is to undermine 'the whole.'",
+            "Leaven is used of false doctrine...it means the corrupting influence of one bad person."
+        ],
+        "Albert Barnes": [
+            "The embracing of the errors which they had adopted was to be traced to some influence existing among themselves, and acting like leaven.",
+            "The false teachers there might be compared to leaven, whose doctrines, though they were few in number, had pervaded the mass of Christians.",
+            "The influence which had brought this change about was at first small and unimportant; but the doctrines thus infused into the churches had spread like leaven, until the whole mass had become affected."
+        ],
+        "Marvin Vincent": [
+            "With the single exception of the parable, leaven, in Scripture, is always a symbol of evil.",
+            "Because leaven in Scripture is habitually the type of corruption, we are 'none the less free to use it in a good sense as Christ did.",
+            "It is an apt figure of secret, pervading energy, whether bad or good."
+        ],
+        "John Calvin": [
+            "This refers, I think, to doctrine, not to men. It guards them against the mischievous consequences which arise from corruption of doctrine, and warns them not to consider it, as is commonly done, to be a matter attended by little or no danger.",
+            "Satan\u2019s stratagem is, that he does not attempt an avowed destruction of the whole gospel, but he taints its purity by introducing false and corrupt opinions.",
+            "We must exercise the utmost caution lest we allow any counterfeit to be substituted for the pure doctrine of the gospel."
+        ],
+        "Philip Schaff": [
+            "A little leaven loaveneth the whole lump.",
+            "The Judaizing doctrine of the necessity of circumcision poisons the whole system of Christian doctrine and practice.",
+            "In a good sense the figure of the leaven is used of the kingdom of heaven which penetrates all the faculties and powers of man and of society."
+        ],
+        "Archibald T. Robertson": [
+            "This proverb Paul has in 1 Corinthians 5:6. It is merely the pervasive power of leaven that is involved in the proverb as in Matthew 13:33, not the use of leaven as a symbol of evil. "
+        ],
+        "John Gill": [
+            "A little leaven leaveneth the whole lump.",
+            "as a little sour leaven influences and ferments a large mass, or lump of dough, and makes it of the same nature with it",
+            "a small error in doctrine, as it may be thought to be, increases to more ungodliness"
+        ],
+        "John Wesley": [
+            "A little leaven leaveneth the whole lump \u2014 One troubler, verse10, troubles all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Just as a small portion of leaven corrupts the whole mass, a little false doctrine can taint the purity of the Gospel. Adding legalism to justification by faith undermines the entirety of the message. In Scripture, leaven is typically used as a symbol of evil and corruption, but it can also represent a pervading energy, whether good or bad. The influence of false teachers can spread like leaven, affecting the entire body of believers. Therefore, we must be vigilant in guarding against the introduction of false and corrupt opinions that can undermine the true doctrine of the gospel.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.3309799208926325,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.85,
+            "commentatorTierSimilarities": [
+                39.93,
+                31.28,
+                28.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just as a little false doctrine corrupts the whole mass, the addition of legalism to justification by faith undermines the entirety of the Gospel. Leaven is often used as a symbol of evil and corruption, representing the pervasive influence of one bad person or false teacher. Therefore, we must be cautious not to allow any counterfeit or corrupt doctrine to be substituted for the pure message of the gospel, as even a small error in doctrine can lead to ungodliness and trouble for the entire body of believers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.5034827378456876,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.58,
+            "commentatorTierSimilarities": [
+                40.66,
+                30.7,
+                28.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just like a little leaven corrupts the whole lump, a small portion of false doctrine can taint the entire body of believers. Adding legalistic practices to justification by faith undermines the purity of the Gospel. Leaven is typically used in Scripture as a symbol of evil and corruption, representing the pervasive influence of one bad person or false teaching. Therefore, we must be vigilant in guarding against the introduction of false and corrupt opinions that can undermine the true doctrine of the gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.395455210770943,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.99,
+            "commentatorTierSimilarities": [
+                40.33,
+                30.38,
+                29.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as a little false doctrine corrupts the whole mass, the addition of legalistic practices to justification by faith undermines the purity of the Gospel. Leaven is often used as a symbol of evil and corruption, representing the pervasive influence of one false teacher. Therefore, we must be vigilant in guarding against the introduction of false and corrupt opinions that can undermine the true message of the gospel, as even a small error in doctrine can lead to ungodliness and trouble for the entire body of believers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.469063560551512,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.44,
+            "commentatorTierSimilarities": [
+                39.96,
+                31.55,
+                28.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Just as a little leaven corrupts the whole mass, a small portion of false doctrine can taint the entire body of believers. Adding legalistic practices to justification by faith undermines the purity of the Gospel. Leaven is often used in Scripture as a symbol of evil and corruption, representing the pervasive influence of one false teaching. Therefore, we must be vigilant in guarding against the introduction of false and corrupt opinions that can undermine the true doctrine of the gospel, as even a small error in doctrine can lead to ungodliness and trouble for all believers.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.442037754188327,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.54,
+            "commentatorTierSimilarities": [
+                39.66,
+                31.5,
+                28.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

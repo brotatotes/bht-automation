@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:14:45",
+    "verseRef": "1 Corinthians 16:13",
+    "bestBHT": {
+        "bht": "To show them that their hopes of salvation depended on themselves and not their teachers, the Corinthians were urged to watch, stand, and be strong. They were slumbering, wavering, and showing themselves as cowards. Engaged in strife, they needed to be vigilant against surrounding evils and hold fast to their faith. They were to be brave, not timid or alarmed at enemies, and act like men of wisdom and understanding. They were called to fight the good fight of faith and stay awake to fulfill God's will.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.714893085919306,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+        "commentatorTierSimilarities": [
+            26.25,
+            35.65,
+            38.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To shew them that not on their teachers but on themselves depended their hopes of salvation.\" ",
+            "Watch, for that they were sleeping. Stand, for that they were wavering. Quit you like men, be strong, for they were shewing themselves cowards.\" ",
+            "Let all you do be done in love, for that they were in strife."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Watch ye\": for ye are slumbering. \"Stand\": for ye are like men tottering. \"Quit you like men; be strong\": for ye are effeminate. ",
+            "Let all your things be done with charity\": not with strifes as at present. ",
+            "In the faith\" which was assailed by some."
+        ],
+        "Albert Barnes": [
+            "They were to watch, or be vigilant, against all the evils of which he had admonished them... They were to watch with the same vigilance that is required of a sentinel who guards a camp, lest an enemy should come suddenly upon them, and surprise the camp when the army was locked in sleep.",
+            "Be firm in holding and defending the truths of the gospel... Be firm in maintaining what you believe to be true, and in holding on to your personal confidence in God, notwithstanding all the arts, insinuations, and teachings of seducers and the friends of false doctrine.",
+            "It means, to render one manly or brave; to show oneself a man; that is, not to be a coward, or timid, or alarmed at enemies, but to be bold and brave."
+        ],
+        "John Calvin": [
+            "He exhorts them to watch, in order that Satan may not oppress them, finding them off their guard. For as the warfare is incessant, the watching requires to be incessant too.",
+            "The second thing is that they persevere in the faith, or that they hold fast the faith, so as to stand firm; because that is the foundation on which we rest.",
+            "In the third exhortation, which is much of the same nature, he stirs them up to manly fortitude."
+        ],
+        "Philip Schaff": [
+            "Watch ye, stand fast in the faith, quit you like men 'play the man,' 'be manly,' be strong.\" ",
+            "In the Greek of the Old Testament we find these words more than once together (Psalms 27:14; Psalms 31:24)."
+        ],
+        "Archibald T. Robertson": [
+            "Watch ye. Stay awake.",
+            "Quit you like men. Play the man.",
+            "Show yourselves men."
+        ],
+        "John Gill": [
+            "It became them likewise to watch daily at wisdom's gates, to wait constantly upon God in the word and ordinances, and especially to watch unto prayer, and in it, and after it; to all which it is necessary that they should be awake, and not asleep, to which the wise as well as foolish virgins are subject.\" ",
+            "It answers to the Hebrew word \u05d4\u05ea\u05d0\u05e9\u05e9\u05d5, in Isaiah 46:8. Quit you like men; like men of wisdom and understanding; be not like children for non-proficiency, instability, and weakness; act the part of men; believe not every spirit; be not carried and tossed about with every wind of doctrine; search the Scriptures, and try every doctrine by them; and having found what is truth abide by it, and be proficients in it, instructing and establishing yourselves and others.",
+            "Act like men of valour and courage, stand fast, keep your ground, and contend earnestly for the faith; be valiant for the truth on earth; fight the good fight of faith: it is a good cause believers are engaged in; they have a good Captain and Commander at the head of them; they are provided with good weapons, may be sure of victory, and of having the crown of righteousness, life, and glory."
+        ],
+        "John Wesley": [
+            "Watch ye \u2014 Against all your seen and unseen enemies.",
+            "Stand fast in the faith \u2014 Seeing and trusting him that is invisible.",
+            "Be strong \u2014 To do and suffer all his will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Watch, stand, be strong. These exhortations remind the Corinthians that their hopes of salvation depend on themselves, not their teachers. They were slumbering and wavering, showing themselves as cowards, engaging in strife. They needed to be vigilant against the evils that surrounded them and firm in their beliefs. They were called to be brave, not timid or alarmed at enemies. They were to watch against Satan's oppression, hold fast to their faith, and exhibit manly fortitude. It was necessary for them to stay awake, persevere in the faith, and act like men of wisdom and understanding. They were to be valiant for the truth, fighting the good fight of faith. Watch against enemies, stand firm in the unseen, and be strong to do all God's will.",
+            "wordCount": 128,
+            "quoteTokenProportion": 32.47,
+            "qualityScore": 1.7203170183729912,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.54,
+            "commentatorTierSimilarities": [
+                26.42,
+                35.24,
+                38.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To shew them that not on their teachers but on themselves depended their hopes of salvation, the Corinthians were reminded to watch, stand, and be strong. They were slumbering and wavering, showing themselves as cowards, engaging in strife. They needed to be vigilant against the evils that surrounded them and firm in their beliefs. They were called to be brave, not timid or alarmed at enemies. They were to watch against Satan's oppression, hold fast to their faith, and act like men of wisdom and understanding. They were to be valiant for the truth, fighting the good fight of faith. Watch against enemies, stand firm in the unseen, and be strong to do all God's will.",
+            "wordCount": 118,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.7570841396936663,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+            "commentatorTierSimilarities": [
+                25.4,
+                35.92,
+                38.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To show them that their hopes of salvation depended on themselves and not their teachers, the Corinthians were urged to watch, stand, and be strong. They were slumbering, wavering, and showing themselves as cowards. Engaged in strife, they needed to be vigilant against surrounding evils and hold fast to their faith. They were to be brave, not timid or alarmed at enemies, and act like men of wisdom and understanding. They were called to fight the good fight of faith and stay awake to fulfill God's will.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.714893085919306,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+            "commentatorTierSimilarities": [
+                26.25,
+                35.65,
+                38.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians were reminded that their hopes of salvation depended on their own actions, not just their teachers. They were urged to watch and stand firm, as they were slumbering and wavering in their faith, showing themselves as cowards. They were to be strong and exhibit manly fortitude, addressing their current strife. The exhortation emphasized the need to be vigilant against spiritual oppression and hold onto their faith. They were called to act like men of wisdom, fighting for the truth, and fulfilling God's will.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6566982297928798,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.43,
+            "commentatorTierSimilarities": [
+                25.86,
+                35.68,
+                38.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians were reminded that their hopes of salvation depended not on their teachers, but on themselves. They were urged to be vigilant and firm, for they were slumbering, wavering, and involved in strife. The exhortation to watch and stand firm highlighted the need to be strong and display bravery in the face of opposition. They were called to resist Satan's oppression, hold fast to their faith, and act with wisdom and understanding. The charge to fight the good fight of faith and obey God's will concluded the exhortation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.507889441410963,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                22.7,
+                35.32,
+                41.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

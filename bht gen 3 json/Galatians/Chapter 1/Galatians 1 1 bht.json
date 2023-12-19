@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:13:36",
+    "verseRef": "Galatians 1:1",
+    "bestBHT": {
+        "bht": "In Galatians 1:1, the distinction between man and Jesus Christ highlights the divinity of Christ, who, as one with the Father, bestowed gifts on Paul through His Resurrection. Paul fervently confirms that his apostleship came directly from Jesus Christ, thereby separating himself from false apostles who did not derive their commissions from God. Paul's qualification as an apostle is rooted in his firsthand encounter with the Risen Christ. This emphasizes the significance of heeding God and Jesus Christ exclusively within the church.",
+        "wordCount": 82,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 2.748080456799846,
+        "qualityScoreNormalizedComparedToV2BHTs": 82.71,
+        "commentatorTierSimilarities": [
+            34.64,
+            33.11,
+            32.25
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The strongest possible contrast is here drawn between man, in the ordinary sense, on the one side, and Jesus Christ, and God the Father, on the other.",
+            "Had not the Apostle regarded Jesus Christ as one with the Father in the Godhead, he never could have written thus.",
+            "The Resurrection, including and implying the Ascension, was the Father\u2019s bestowal on Christ of gifts for men, by virtue of which St. Paul\u2019s Apostleship had been received."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His apostolic commission needs now to be vindicated against deniers of it.",
+            "The opposition between 'Christ' and 'man,' and His name being put in closest connection with God the Father, imply His Godhead.",
+            "He had seen and been constituted an apostle by Him in His resurrection power."
+        ],
+        "Albert Barnes": [
+            "He was not 'sent' to execute any purpose of human beings, or commissioned by them. His was a higher calling; a calling of God, and he had been sent directly by him.\" ",
+            "He had the highest possible authority for the office of an apostle; he had been called to it by God himself, who had raised up the Redeemer.",
+            "We may ask here, of one who should deny the divinity of Christ, how Paul could mention him as being equal with God in the work of commissioning him?"
+        ],
+        "Marvin Vincent": [
+            "From men - through man or a man. In contradiction of the assertion that he was not directly commissioned by Jesus Christ, like the twelve, but only by human authority.\" ",
+            "He thus distinguishes himself from false apostles who did not derive their commissions from God, and ranks himself with the twelve.",
+            "It was the risen Christ who made Paul an apostle."
+        ],
+        "John Calvin": [
+            "Let us always bear this in mind, that in the church we ought to listen to God alone, and to Jesus Christ, whom he has appointed to be our teacher.",
+            "We are certain that the lot was not employed in electing pastors. Why was it resorted to in the election of Matthias? To mark the express agency of God for it was proper that the apostles should be distinguished from other ministers.",
+            "He argues, on the other hand, that, as Christ was glorified by his resurrection, so he has actually exercised his authority in the government of his church."
+        ],
+        "Philip Schaff": [
+            "An Apostle, lit., messenger; here in the highest sense: one of the special messengers of Christ and witnesses of his resurrection who were (1) directly called by him, (2) inspired by the Holy Spirit, and hence infallible in their religious teaching, and (3) commissioned to all nations.",
+            "The Judaizers confined the apostolic dignity to the Twelve, to whom Paul did not belong. He represented the independent apostolate of the Gentiles.",
+            "The immediate and frequent coordination of Christ with God the Father, especially here in contrast with the preceding men and man, proves that the Apostle regarded the Saviour as a Divine being."
+        ],
+        "Archibald T. Robertson": [
+            "Paul denies that his apostleship had a human source and that it had come to him through a human channel.",
+            "The call to be an apostle came to Paul through Jesus Christ as he claimed in 1 Corinthians 9:1 and as told in Acts 9:4-6; Acts 22:7; Acts 26:16.",
+            "And therefore Paul was qualified to be an apostle since he had seen the Risen Christ."
+        ],
+        "John Gill": [
+            "He asserts himself to be 'an apostle', which was the highest office in the church, to which he was immediately called by Christ, and confirmed in it by signs and wonders.",
+            "He was not chosen into the office of apostleship by the suffrages of men, as Matthias was; or he was not ordained an apostle in the manner the ordinary ministers of the Gospel and pastors are.",
+            "This serves the more to confirm the divine authority under which Paul acted as an apostle, being not only made so by Christ, but also by God the Father."
+        ],
+        "John Wesley": [
+            "Here it was necessary for St. Paul to assert his authority; otherwise he is very modest in the use of this title.",
+            "Not of men \u2014 Not commissioned from them, but from God the Father.",
+            "Who raised him from the dead \u2014 Of which it was the peculiar business of an apostle to bear witness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Galatians 1:1, the contrast between man and Jesus Christ, and the close connection of Christ with God the Father, emphasize His divine nature. The Resurrection and Ascension of Christ granted Him the authority to bestow gifts and commission Paul as an apostle. Paul firmly asserts that his apostleship came directly from Jesus Christ, distinguishing himself from false apostles, and confirming his qualification by having seen the Risen Christ. This divine source of authority is what sets Paul apart as one of the special messengers of Christ, entrusted with infallible religious teaching. Therefore, in the church, we are to listen to God and Jesus Christ alone, recognizing the divine agency involved in the appointment of apostles.",
+            "wordCount": 115,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 2.6710941078085035,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.15,
+            "commentatorTierSimilarities": [
+                33.13,
+                34.59,
+                32.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The contrast drawn between Jesus Christ and man in Galatians 1:1 emphasizes the divinity of Christ, who, being one with the Father in the Godhead, bestowed gifts on Paul through His Resurrection and Ascension, qualifying him as an apostle. Paul asserts the divine source of his apostleship, differentiating himself from false apostles and emphasizing that he was directly commissioned by Jesus Christ, having seen the Risen Christ. This highlights the importance of listening to God and Jesus Christ alone in the church.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.7406874266336496,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.47,
+            "commentatorTierSimilarities": [
+                34.45,
+                33.54,
+                32.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The contrast between man and Jesus Christ in Galatians 1:1 underscores the divinity of Christ, who, being one with the Father in the Godhead, uniquely authorized Paul's apostleship through His Resurrection and Ascension. Paul boldly affirms that his apostleship originated directly from Jesus Christ, distinguishing himself from false apostles. Seeing the Risen Christ further substantiates Paul's claim. Given this divine source of authority, it is crucial for believers to heed God and Jesus Christ alone in the church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.5734644979369907,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.91,
+            "commentatorTierSimilarities": [
+                35.88,
+                32.87,
+                31.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Galatians 1:1, the distinction between man and Jesus Christ highlights the divinity of Christ, who, as one with the Father, bestowed gifts on Paul through His Resurrection. Paul fervently confirms that his apostleship came directly from Jesus Christ, thereby separating himself from false apostles who did not derive their commissions from God. Paul's qualification as an apostle is rooted in his firsthand encounter with the Risen Christ. This emphasizes the significance of heeding God and Jesus Christ exclusively within the church.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.748080456799846,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.71,
+            "commentatorTierSimilarities": [
+                34.64,
+                33.11,
+                32.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The distinction between man and Jesus Christ in Galatians 1:1 highlights the divinity of Christ, who, as one with the Father, bestowed gifts on Paul through His Resurrection. Paul staunchly asserts that his apostleship came directly from Jesus Christ, setting him apart from false apostles. His encounter with the Risen Christ solidifies his qualification as an apostle. Thus, it is crucial to recognize God and Jesus Christ as the sole authorities to heed within the church.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.629714619719122,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.78,
+            "commentatorTierSimilarities": [
+                34.23,
+                32.95,
+                32.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

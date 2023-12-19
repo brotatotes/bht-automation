@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:15:45",
+    "verseRef": "Luke 6:34",
+    "bestBHT": {
+        "bht": "If you lend to those from whom you expect repayment, what credit is that to you? Sinners lend with the expectation of receiving something back. The act of lending that Jesus is referring to here goes beyond mere generosity or affectionate attachment, but rather it is a deliberate choice based on judgment and calculation, lending at interest as part of a business transaction. Jesus challenges His followers to go beyond the norm and practice love that is not solely motivated by self-interest, but by genuine care for others.",
+        "wordCount": 89,
+        "quoteTokenProportion": 48.48,
+        "qualityScore": 1.383375572221219,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.34,
+        "commentatorTierSimilarities": [
+            43.34,
+            0.0,
+            56.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Lend [\u03b4\u03b1\u03bd\u03b5\u03b9\u03b6\u03b5\u03c4\u03b5]. Properly, at interest.",
+            "Sinners [\u03bf\u03b9 \u03b1\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u03bf\u03b9]. The article marks them as a class.",
+            "Love. Not filousi, which implies an instinctive, affectionate attachment, but ajgapwsin, of a sentiment based on judgment and calculation, which selects its object for a reason."
+        ],
+        "Archibald T. Robertson": [
+            "If ye lend... to lend for interest in a business transaction...",
+            "\u03ba\u03b9\u03c7\u03c1\u03b7\u03bc... means to loan as a friendly act.",
+            "Literally here, 'that they may get back the equal' (principal and interest, apparently)."
+        ],
+        "John Gill": [
+            "And if ye lend to them of whom ye hope to receive... what thank have ye?\" ",
+            "They looked upon this, in the first instance of it, as a very great kindness, and act of goodness.",
+            "Sinners also lend to sinners, to receive as much again; or 'what is equal', and answerable to what they have lent them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you lend to those from whom you expect repayment, what credit is that to you? Sinners lend with the expectation of receiving something back. The act of lending that Jesus is referring to here goes beyond mere generosity or affectionate attachment, but rather it is a deliberate choice based on judgment and calculation, lending at interest as part of a business transaction. In this context, Jesus is challenging His followers to go beyond the norm and practice love that is not based on self-gain.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.339453087335584,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.88,
+            "commentatorTierSimilarities": [
+                43.19,
+                0.0,
+                56.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you lend to those from whom you expect repayment, what credit is that to you? Sinners lend with the expectation of receiving something back. The act of lending that Jesus is referring to here goes beyond mere generosity or affectionate attachment, but rather it is a deliberate choice based on judgment and calculation, lending at interest as part of a business transaction. Jesus challenges His followers to go beyond the norm and practice love that is not solely motivated by self-interest, but by genuine care for others.",
+            "wordCount": 89,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.383375572221219,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.34,
+            "commentatorTierSimilarities": [
+                43.34,
+                0.0,
+                56.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus speaks about lending, He is not referring to a casual act of generosity, but rather a deliberate choice based on judgment and calculation. Lending at interest is common among sinners, who expect to receive something in return. The credit for lending to those from whom repayment is expected is minimal. Jesus calls His followers to practice a different kind of love \u2013 one that is not motivated by self-interest, but by genuine care for others.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.278950200803122,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.87,
+            "commentatorTierSimilarities": [
+                45.14,
+                0.0,
+                54.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When you lend, it is important to understand that sinners also engage in this practice, expecting to receive the same amount back. Jesus is not referring to a simple act of generosity, but to a calculated decision based on judgment and interest. However, this kind of lending lacks credit because it is merely a transaction. Jesus encourages His followers to go beyond this transactional mindset, urging them to love and help others without the expectation of receiving something in return.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.1641860624500606,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.05,
+            "commentatorTierSimilarities": [
+                42.79,
+                0.0,
+                57.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus challenges His followers to not simply lend to those they expect to receive from, as sinners do the same. The act of lending here goes beyond affectionate attachment, instead, it is a calculated decision based on judgment and interest. This lending is not meant to be an act of kindness, but a business transaction. Jesus calls His followers to love others without the expectation of getting something in return, encouraging them to go beyond societal norms and display genuine care for others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.1527439660249494,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.67,
+            "commentatorTierSimilarities": [
+                42.2,
+                0.0,
+                57.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

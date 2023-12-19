@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:24:43",
+    "verseRef": "Acts 1:6",
+    "bestBHT": {
+        "bht": "Gathered together, the disciples continue their conversation about the restoration of the kingdom, expressing a lingering curiosity about God's plans. While their understanding of the kingdom has likely evolved since Jesus' crucifixion and resurrection, they still hold onto the hope of a political kingdom, desiring freedom from Roman rule. Their question exposes a deep-seated prejudice and a mistaken notion that Jesus would establish an earthly reign for Israel. Their ignorance, even after years of instruction, highlights the power of erroneous beliefs to persist.",
+        "wordCount": 85,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.9293162917165603,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.49,
+        "commentatorTierSimilarities": [
+            28.45,
+            35.21,
+            36.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This coming together does not belong to another assembling, different from the former; but takes up again the 'assembling' of ver. 4.\" ",
+            "Their fault was, a too curious enquiry on a point reserved among the secrets of God.\" ",
+            "The present tense, dost thou restore (see above), is often used in speaking with reference to matters of prophecy, importing fixed determination."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Doubtless their carnal views of Messiah's kingdom had by this time been modified, though how far it is impossible to say.",
+            "But, as they plainly looked for some restoration of the kingdom to Israel, so they are neither rebuked nor contradicted on this point.",
+            "They are neither rebuked nor contradicted on this point."
+        ],
+        "Albert Barnes": [
+            "Yet, though his death checked their expectations, and appeared to thwart their plans, his return to life excited them again.",
+            "From these expectations of the apostles we may learn: (2) That such prejudice will survive the plainest proofs to the contrary.",
+            "Erroneous opinions thus maintain a secret ascendency in a man\u2019s mind, and are revived by the slightest circumstances, even long after it was supposed that they were overcome, and in the face of the plainest proofs of reason or of Scripture."
+        ],
+        "Marvin Vincent": [
+            "Asked [\u03b5\u03c0\u03b7\u03c1\u03c9\u03c4\u03c9\u03bd] . The imperfect, denoting the repetition and urging of the question."
+        ],
+        "John Calvin": [
+            "But marvelous is their rudeness, that when as they had been diligently instructed by the space of three whole years, they betray no less ignorance than if they had heard never a word.",
+            "They are also greatly deceived herein, in that they restrain Christ\u2019s kingdom unto the carnal Israel, which was to be spread abroad, even unto the uttermost parts of the world.",
+            "Therefore doth Christ briefly comprehend in this short answer all the errors whereinto they fell in this their question, as I shall straightway declare."
+        ],
+        "Philip Schaff": [
+            "This is the last interview with the Risen One on the Mount of Olives, which was closed by the ascension.",
+            "What they understood by restoration of the kingdom is not quite clear; perhaps they hardly knew themselves.",
+            "Their old views respecting a return of the golden age of David and Solomon had received a terrible shock by the crucifixion of their Master; but the resurrection and His promise of the Spirit had inspired them with new and even grander hopes."
+        ],
+        "Archibald T. Robertson": [
+            "The use of \u03b5 in an indirect question is common. We have already seen its use in direct questions.",
+            "As a matter of fact the Messianic kingdom for which they are asking is a political kingdom that would throw off the hated Roman yoke.",
+            "Surely here is proof that the eleven apostles needed the promise of the Father before they began to spread the message of the Risen Christ. They still yearn for a political kingdom for Israel even after faith and hope have come back."
+        ],
+        "John Gill": [
+            "The kingdom had been for some time taken away from the Jews, Judea was reduced to a Roman province, and was now actually under the power of a Roman governor.",
+            "The disciples of Christ had imbibed the same notions, and were in the same expectation of a temporal kingdom to be set up by their master.",
+            "And this general expectation of the Jews is expressed by them in the same language as here; 'the days of the Messiah will be the time when the kingdom shall return, or be restored to Israel.'"
+        ],
+        "John Wesley": [
+            "They still seemed to dream of an outward, temporal kingdom, in which the Jews should have dominion over all nations.",
+            "It seems they came in a body, having before concerted the design, to ask when this kingdom would come.",
+            "They still seemed to dream of an outward, temporal kingdom, in which the Jews should have dominion over all nations."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples gather together, continuing their conversation about the restoration of the kingdom. Their question reflects a lingering curiosity and eagerness for answers about God's plans. Although they had previously held carnal views of a political kingdom, they are not rebuked for their inquiry. Their understanding of the kingdom had likely evolved since the crucifixion and resurrection of Jesus, yet they still yearn for a kingdom that would free Israel from Roman domination. Their question reveals a deep-rooted prejudice and mistaken notion that Jesus would establish an earthly reign for Israel. While their ignorance may be surprising given their years of instruction, it highlights the hold of erroneous beliefs on one's mind even in the face of evidence and reason.",
+            "wordCount": 123,
+            "quoteTokenProportion": 33.73,
+            "qualityScore": 1.9080318993026908,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                29.57,
+                34.25,
+                36.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Gathered together, the disciples resume their discussion on the restoration of the kingdom. Though their inquiry reveals a lingering curiosity, it is not met with rebuke. The disciples' understanding of the nature of the kingdom seems to have undergone some modification, yet they still hold onto the hope of a political kingdom that would liberate Israel from Roman rule. Despite the length of their instruction, their ignorance surprises, highlighting the power of erroneous beliefs. Their question exposes a deep-seated prejudice and a mistaken notion that Jesus would establish an earthly reign for Israel, reflecting a lack of clarity in their understanding.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.8329787611261756,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                30.8,
+                34.31,
+                34.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Gathered together, the disciples continue their conversation about the restoration of the kingdom, expressing a lingering curiosity about God's plans. While their understanding of the kingdom has likely evolved since Jesus' crucifixion and resurrection, they still hold onto the hope of a political kingdom, desiring freedom from Roman rule. Their question exposes a deep-seated prejudice and a mistaken notion that Jesus would establish an earthly reign for Israel. Their ignorance, even after years of instruction, highlights the power of erroneous beliefs to persist.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.9293162917165603,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.49,
+            "commentatorTierSimilarities": [
+                28.45,
+                35.21,
+                36.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Gathered together, the disciples engage in a discussion about the restoration of the kingdom, indicating their continued curiosity about God's plans. Although they previously held misconceptions about a worldly kingdom, they are not rebuked for their inquiry. Their question reveals a lingering anticipation for a political kingdom that would liberate Israel from Roman rule. Despite their years of instruction, their ignorance surprises, illustrating the resilience of erroneous beliefs. It is evident that their understanding has been influenced by the resurrection and the promise of the Holy Spirit, leading to the development of new and even grander hopes.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.911013947177604,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                28.93,
+                37.7,
+                33.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Gathered together, the disciples discuss the restoration of the kingdom with a continued curiosity about God's plans. Although they once held onto a narrow understanding of a political kingdom, their question is met without rebuke. Their inquiry displays a deep-rooted hope for a kingdom that would liberate Israel from Roman rule. Despite the length of their instruction, their ignorance surprises, demonstrating the lingering power of erroneous beliefs. The resurrection and the promise of the Holy Spirit have inspired the disciples with renewed and even greater hopes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8437626555064166,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.65,
+            "commentatorTierSimilarities": [
+                28.48,
+                37.59,
+                33.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

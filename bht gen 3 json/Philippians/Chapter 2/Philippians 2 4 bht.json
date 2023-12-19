@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 13:52:41",
+    "verseRef": "Philippians 2:4",
+    "bestBHT": {
+        "bht": "Believers are encouraged to consider the needs of others instead of solely focusing on their own interests. Paul acknowledges that it is natural for individuals to prioritize their own concerns. However, he reminds them to direct their attention and care towards the well-being of others. This command challenges believers to shift their mindset and prioritize selflessness. By looking out for the good of others before themselves, they foster unity and love within the community.",
+        "wordCount": 75,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 1.6692083454668243,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+        "commentatorTierSimilarities": [
+            25.95,
+            43.79,
+            30.25
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Each regarding not their own matters but each also the matters of others.",
+            "This second clause is a feebler contrast than might have been expected after the absolute negation in the first.",
+            "By our very nature, each man must look on his own things in some measure."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not looking each of you... on his own things.\" ",
+            "Not having regard solely to them.\" ",
+            "But each of you on the things of others."
+        ],
+        "Albert Barnes": [
+            "Be not selfish. Do not let your care and attention be wholly absorbed by your own concerns, or by the concerns of your own family.",
+            "The object of this rule is to break up the narrow spirit of selfishness, and to produce a benevolent regard for the happiness of others.",
+            "No one is at liberty to live for himself or to disregard the wants of others."
+        ],
+        "Marvin Vincent": [
+            "Look [\u03c3\u03ba\u03bf\u03c0\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2] . Attentively : fixing the attention upon, with desire for or interest in.",
+            "The participles esteeming and looking are used with the force of imperatives.",
+            "See on Colossians 3:16."
+        ],
+        "Philip Schaff": [
+            "The apostle does not exhort men to cease to look to their own things, for he knows this would be impossible, but he would have them, as they look to their own, in the same degree to look to the things of others.",
+            "St. Paul uses the indefinite phrases, 'his own things,' 'the things of others,' because he would make his exhortation apply to all men at all times.",
+            "And by the word 'look' he would make each of us a watchman, ever on the look-out lest in thought for himself, he is missing any occasion where he should equally think for his brethren."
+        ],
+        "Archibald T. Robertson": [
+            "Not keeping an eye on the main chance for number one, but for the good of others.",
+            "Looking...for the good of others.",
+            "Not keeping an eye on the main chance for number one."
+        ],
+        "John Gill": [
+            "A Christian should not seek his own honour and applause, and to have his own will, and a point in a church carried his own way, but should consult the honour of Christ, the good of others, and the peace of the church.",
+            "He should not look upon his own gifts, he may look upon them, and ascribe them to the grace of God, and make use of them to his glory, but not to admire them, or himself for them, and pride himself in them, and lift up himself above others, neglecting and taking no notice of the superior abilities of others.",
+            "He should take notice of the superior gifts of others, and own and acknowledge them; which is the way to submit to one another in the fear of God, and to promote truth, friendship, and love."
+        ],
+        "John Wesley": [
+            "Aim not every one at his own things \u2014 Only. If so, ye have not bowels of mercies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Philippians 2:4, the apostle Paul exhorts believers not to be self-centered, but to have a genuine concern for others. While it is natural for each person to attend to their own affairs to some extent, Paul urges a shift in perspective. He calls believers to attentively fix their gaze on the needs and interests of others, rather than solely pursuing their own self-interest. This command challenges us to resist the tendency to prioritize our own desires and instead to prioritize the well-being and good of others before our own. Ultimately, this mindset fosters selflessness, unity, and love within the community of believers.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.7550838601916494,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                23.84,
+                45.47,
+                30.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, believers are encouraged to look beyond their own interests and consider the needs of others. While it is natural to focus on personal matters, the apostle Paul calls for a mindset shift. By attentively fixating on the well-being of others and not just our own desires, we cultivate selflessness and promote unity within the community. This command challenges us to prioritize the good of others before our own, fostering love and compassion.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.711074238980487,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                23.35,
+                43.91,
+                32.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, believers are urged not to be solely concerned with their own matters, but to also consider the needs and interests of others. The apostle Paul reminds us that it is in our nature to look after our own interests, but he calls us to go beyond that. We are called to attentively fix our gaze on the well-being of others, demonstrating a selfless and caring attitude. By prioritizing the good of others over our own desires, we contribute to unity and love within the community.",
+            "wordCount": 89,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.8140470247311429,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.66,
+            "commentatorTierSimilarities": [
+                25.13,
+                45.3,
+                29.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are encouraged to consider the needs of others instead of solely focusing on their own interests. Paul acknowledges that it is natural for individuals to prioritize their own concerns. However, he reminds them to direct their attention and care towards the well-being of others. This command challenges believers to shift their mindset and prioritize selflessness. By looking out for the good of others before themselves, they foster unity and love within the community.",
+            "wordCount": 75,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.6692083454668243,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "commentatorTierSimilarities": [
+                25.95,
+                43.79,
+                30.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's exhortation in Philippians urges believers to look beyond their own concerns and consider the needs of others. Though it is natural for individuals to focus on their own matters, Paul calls for a shift in perspective. He implores believers to attentively fix their gaze on the interests of others, instead of solely pursuing their own self-interest. This command challenges us to resist the inclination to prioritize ourselves and instead prioritize the well-being and good of others. Ultimately, this mindset fosters selflessness, unity, and love within the Christian community.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7148240571089737,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+            "commentatorTierSimilarities": [
+                23.03,
+                45.69,
+                31.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

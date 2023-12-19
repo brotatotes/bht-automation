@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:15:57",
+    "verseRef": "2 Corinthians 4:8",
+    "bestBHT": {
+        "bht": "In our journey of faith, we may find ourselves pressed and perplexed, facing trials and tribulations. Yet, we are not crushed or despairing, for God provides outlets in our straits and help in times of need. He protects us from our enemies and grants us freedom at the throne of grace. Though troubled on every side, we are not swallowed up in anxiety, as we trust in God's power and love to carry us through our difficulties.",
+        "wordCount": 78,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.69270193596661,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+        "commentatorTierSimilarities": [
+            25.42,
+            29.37,
+            45.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "pressed, but not (inextricably) crushed...",
+            "in perplexity, but not in despair...",
+            "persecuted, but not deserted..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "BEING hard pressed, yet not inextricably straitened; reduced to inextricable straits.",
+            "Without were fightings; within were fears.",
+            "As perplexity refers to the future, so 'troubled' or 'hard pressed' refers to the present."
+        ],
+        "Albert Barnes": [
+            "He was not so closely pressed as a man would be who was so straitened that he could not move his body, or stir hand or foot. He had still resources; he was permitted to move; the energy of his piety, and the vigor of his soul could not be entirely cramped and impeded by the trials which encompassed him.",
+            "The idea is, he was not wholly discouraged, and disheartened, and overcome. He had resources in his piety which enabled him to bear up under these trials, and still to engage in the work of preaching the gospel.",
+            "The idea of Paul here is, that they were not left 'entirely' without resource. Their needs were provided for; their embarrassments were removed; their grounds of perplexity were taken away; and unexpected strength and resources were imparted to them."
+        ],
+        "Marvin Vincent": [
+            "We are pressed closely, yet not cramped.",
+            "We are perplexed, but not utterly perplexed.",
+            "We are perplexed, yet not unto despair."
+        ],
+        "John Calvin": [
+            "We are reduced...to straits, but the Lord at length opens up for us an outlet; we are oppressed with poverty, but the Lord affords us help.",
+            "Many enemies are in arms against us, but under God's protection we are safe.",
+            "Though we are brought low, so that it might seem as if all were over with us, still we do not perish."
+        ],
+        "Archibald T. Robertson": [
+            "Pressed (\u03b8\u03bb\u03b9\u03b2\u03bf\u03bc\u03b5\u03bd\u03bf). From \u03b8\u03bb\u03b9\u03b2\u03c9, to press as grapes, to contract, to squeeze. Series of present passive participles here through verse 2 Corinthians 4:9 that vividly picture Paul's ministerial career.",
+            "Yet not straitened (\u03b1\u03bb\u03bb' \u03bf\u03c5 \u03c3\u03c4\u03b5\u03bd\u03bf\u03c7\u03c9\u03c1\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf). Each time the exception is stated by \u03b1\u03bb\u03bb' \u03bf\u03c5. From \u03c3\u03c4\u03b5\u03bd\u03bf\u03c7\u03c9\u03c1\u03b5\u03c9 (\u03c3\u03c4\u03b5\u03bd\u03bf\u03c7\u03c9\u03c1\u03bf\u03c2, from \u03c3\u03c4\u03b5\u03bd\u03bf\u03c2, narrow, \u03c7\u03c9\u03c1\u03bf\u03c2, space), to be in a narrow place, to keep in a tight place. Late verb, in LXX and papyri. In N.T. only here and 2 Corinthians 6:12.",
+            "Yet not unto despair (\u03b1\u03bb\u03bb' \u03bf\u03c5\u03ba \u03b5\u03be\u03b1\u03c0\u03bf\u03c1\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf). Late perfective compound with \u03b5\u03be- of \u03b5\u03be\u03b1\u03c0\u03bf\u03c1\u03b5\u03c9. A very effective play on words here, lost, but not lost out."
+        ],
+        "John Gill": [
+            "We are troubled on every side,.... Or afflicted;...for wherever we be, we are in the world, in which we must expect tribulation.\" ",
+            "We are never free from one trial or another.",
+            "Notwithstanding all our troubles, we have freedom at the throne of grace, and in our ministry; we can go with liberty to God, and preach the Gospel boldly."
+        ],
+        "John Wesley": [
+            "Not crushed - Not swallowed up in care and anxiety.",
+            "Perplexed \u2014 What course to take, but never despairing of his power and love to carry us through."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In our journey of faith, we may find ourselves in difficult situations, pressed and perplexed. Yet, we are not crushed or driven to despair. Like grapes being pressed, we are closely pressed but not cramped. We may be perplexed, but we are not utterly perplexed. In the midst of trials and tribulations, we are not left without resources. The Lord opens up an outlet for us in our straits, provides help in times of poverty, and protects us from our enemies. We may be troubled on every side, but we can find freedom and boldness at the throne of grace. Though we face trials, we are not swallowed up in care and anxiety, for we trust in God's power and love to carry us through.",
+            "wordCount": 126,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.7095942919828453,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "commentatorTierSimilarities": [
+                35.71,
+                23.34,
+                40.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In our journey of faith, we may find ourselves pressed and perplexed, facing trials and tribulations. Yet, we are not crushed or despairing, for God provides outlets in our straits and help in times of need. He protects us from our enemies and grants us freedom at the throne of grace. Though troubled on every side, we are not swallowed up in anxiety, as we trust in God's power and love to carry us through our difficulties.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.69270193596661,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                25.42,
+                29.37,
+                45.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In our journey of faith, we may be hard-pressed and perplexed, facing tribulations on every side. Yet, we are not inextricably straitened or utterly perplexed. We are not crushed or driven to despair, for the Lord provides outlets and help in times of need. He protects us from enemies and grants us freedom at the throne of grace. Though troubled, we trust in God's power and love, finding courage to boldly preach the Gospel.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6301287709084942,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.54,
+            "commentatorTierSimilarities": [
+                31.47,
+                26.68,
+                41.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In our journey of faith, we may find ourselves pressed, perplexed, and persecuted, facing trials and tribulations. However, we are not inextricably crushed, in despair, or utterly perplexed. The Lord sustains us in our narrow places, providing outlets in our straits and help in times of need. He protects us from our enemies and grants us freedom and boldness at the throne of grace. Though troubled on every side, we are not swallowed up in anxiety, for we trust in God's power and love to carry us through the challenges we face.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6668172394136835,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.76,
+            "commentatorTierSimilarities": [
+                30.49,
+                26.48,
+                43.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In our journey of faith, we may be hard-pressed and perplexed, facing tribulations on every side. Yet, we are not inextricably straitened or utterly perplexed. The Lord provides outlets and help in times of need, protecting us from enemies. Though troubled, we trust in God's power and love, finding boldness to preach the Gospel. We are not crushed or despairing, for we are sustained in our narrow places. Our trust in God carries us through challenges, bringing freedom from anxiety.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.614389185011977,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.02,
+            "commentatorTierSimilarities": [
+                32.85,
+                22.21,
+                44.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

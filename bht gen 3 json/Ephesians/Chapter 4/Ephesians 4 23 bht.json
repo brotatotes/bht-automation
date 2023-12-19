@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 15:31:27",
+    "verseRef": "Ephesians 4:23",
+    "bestBHT": {
+        "bht": "As disciples of Christ, we are called to be renewed in the spirit of our minds. This renewal is not a mere psychological change, but a transformation of our entire being through the agency of the Holy Spirit. By being renewed in the spirit of our minds, we align ourselves with the Lord and operate in harmony with His will. In this renewal, our noble and excellent part, the spirit, is brought back to life and made new again.",
+        "wordCount": 79,
+        "quoteTokenProportion": 53.06,
+        "qualityScore": 2.3156833215809085,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.34,
+        "commentatorTierSimilarities": [
+            38.99,
+            30.89,
+            30.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fact is, that in the New Test. the 'spirit' of man is only then used in its proper sense, as worthy of its place and governing functions, when it is one Spirit with the Lord.",
+            "Thus then the disciples of Christ are being renewed, undergoing a process of renewal in the life of God, by the agency of the spirit of their minds, the restored and divinely-informed leading principle of their mind.",
+            "just as the children of the world are walking in the vanity of their minds"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the continued renewal in the youth of the new man",
+            "By the Spirit of your mind, that is, by your new spiritual nature; the restored and divinely informed leading principle of the mind.",
+            "The natural, or animal man, is described as 'not having the Spirit'"
+        ],
+        "Albert Barnes": [
+            "It is necessary that a man who has been following these should become a new man.",
+            "That it is proper to exhort Christians to be renewed. They need renovated strength every day.",
+            "That they have sufficient natural ability to change from the condition of the old to that of the 'new' man, or they could not be exhorted to it."
+        ],
+        "Marvin Vincent": [
+            "The renewal takes place, not in the mind, but in the spirit of it.",
+            "The change is not in the mind psychologically, either in its essence or in its operation.",
+            "It is in the spirit of the mind; in the power which, when changed itself, radically alters the entire sphere and business of the inner mechanism."
+        ],
+        "John Calvin": [
+            "Be renewed, not only with respect to the inferior appetites or desires, which are manifestly sinful, but with respect also to that part of the soul which is reckoned most noble and excellent.\" ",
+            "There is an implied contrast between the spirit of our mind and the Divine and heavenly Spirit, who produces in us another and a new mind.\" ",
+            "How much there is in us that is sound or uncorrupted may be easily gathered from this passage, which enjoins us to correct chiefly the reason or mind, in which we are apt to imagine that there is nothing but what is virtuous and deserves commendation."
+        ],
+        "Philip Schaff": [
+            "In the spirit, or, 'by the Spirit,' of your mind. It is difficult to decide between the two views. The one refers 'spirit' to the human spirit, which belongs to the 'mind,' the whole phrase indicating that with reference to which the renewal takes place.",
+            "The other refers 'Spirit' to the Holy Spirit indwelling in the human spirit\" ",
+            "The main difficulty is that the subject and the agency of the renewing are confused. But a process is referred to, in which this 'indwelling Spirit' of the mind is the continuous Agent."
+        ],
+        "Archibald T. Robertson": [
+            "That ye be renewed [...] to make new (young) again.\" ",
+            "It is an old verb, \u03b1\u03bd\u03b1\u03bd\u03b5\u03bf\u03c9, to make new (young) again; though only here in N.T.",
+            "The spirit (\u03c4\u03c9 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4). Not the Holy Spirit, but the human spirit."
+        ],
+        "John Gill": [
+            "And be renewed in the spirit of your mind.",
+            "The more noble part of man stands in need of renovation, being corrupted by sin.",
+            "It becomes saints to be concerned for such revivings and renewings, and to pray for them."
+        ],
+        "John Wesley": [
+            "The spirit of your mind \u2014 The very ground of your heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "As disciples of Christ, we are called to be renewed in the spirit of our minds. This renewal is not a mere psychological change, but a transformation of our entire being. It is through the agency of the Holy Spirit dwelling within us that we experience this renewal, as our restored and divinely-informed leading principle of the mind. This process of renewal is necessary because, without it, we would continue to walk in the vanity of our minds like the children of the world. By being renewed in the spirit of our minds, we are able to align ourselves with the Lord and operate in harmony with His will. It is in this renewal that our noble and excellent part, the spirit, is brought back to life and made new again.",
+            "wordCount": 132,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 2.2497671126225085,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.15,
+            "commentatorTierSimilarities": [
+                39.37,
+                31.64,
+                29.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As disciples of Christ, we are called to be renewed in the spirit of our minds. This renewal is not a mere psychological change, but a transformation of our entire being through the agency of the Holy Spirit. By being renewed in the spirit of our minds, we align ourselves with the Lord and operate in harmony with His will. In this renewal, our noble and excellent part, the spirit, is brought back to life and made new again.",
+            "wordCount": 79,
+            "quoteTokenProportion": 53.06,
+            "qualityScore": 2.3156833215809085,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.34,
+            "commentatorTierSimilarities": [
+                38.99,
+                30.89,
+                30.12
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:04:05",
+    "verseRef": "1 Corinthians 4:11",
+    "bestBHT": {
+        "bht": "Even unto this present hour, the Apostles, including Paul, were exposed to a life of hardship. They suffered from insufficient clothing, endured insults, and had no stable dwelling place. Their willingness to endure hunger, thirst, and the stigma of being poorly clad demonstrated their dedication in serving others. Despite their challenging circumstances, the Apostles commanded attention, making deep impressions, triumphing in spreading the truth. This vividly depicts Paul's condition when writing, emphasizing his fidelity and zeal for the gospel, as well as rebuking those who sought esteem without proving their commitment.",
+        "wordCount": 92,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.648331968512836,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.15,
+        "commentatorTierSimilarities": [
+            29.7,
+            38.87,
+            31.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Even unto this present hour is evidently not to be taken strictly as indicative of the situation of Paul at the time of writing the Epistle, but as generally describing the kind of life to which, then and always, he and the other Apostles were exposed.",
+            "are naked] i.e. in want of sufficient clothing: cf. \u2018in cold and nakedness,\u2019 2 Cor. xi. 27.",
+            "are buffeted], i.e. suffer insult: there is no need to press the strict meaning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "naked\u2014that is, insufficiently clad\" ",
+            "buffeted\u2014as a slave\" ",
+            "So Paul's master before him was 'buffeted' as a",
+            "\tslave, when about to die a slave's death"
+        ],
+        "Albert Barnes": [
+            "To enjoy the luxury of doing good to others, we ought to be willing to be hungry and thirsty, and to be deprived of our ordinary enjoyments.",
+            "There is no honor in gorgeous apparel; but there is real honor in voluntary poverty and want, when produced in the cause of benevolence.",
+            "If an apostle was willing to be meanly clad in delivering the message of God, then assuredly we should be willing to preach, or to worship him in such clothing as he provides."
+        ],
+        "Marvin Vincent": [
+            "We have no certain dwelling - place [\u03b1\u03c3\u03c4\u03b1\u03c4\u03bf\u03c5\u03bc\u03b5\u03bd] . From astatov unstable, strolling about. Only here in the New Testament. Compare Matthew 8:20; Matthew 10:23; Hebrews 11:37. Wyc., we ben unstable."
+        ],
+        "John Calvin": [
+            "He discovers the utmost dexterity in this respect, that in making mention of those things which had rendered him contemptible, he affords clear proof of his singular fidelity and indefatigable zeal for the advancement of the gospel.\" ",
+            "He tacitly reproves his rivals, who, while they had furnished no such proof, were desirous, nevertheless, to be held in the highest esteem.\" ",
+            "As \u03bb\u03bf\u03b9\u03b4\u03bf\u03c1\u03b9\u03b1 means \u2014 that harsher sort of raillery, which does not merely give a person a slight touch, but a sharp bite, and blackens his character by open contumely, there can be no doubt that \u03bb\u03bf\u03b9\u03b4\u03bf\u03c1\u03b5\u03b9\u03bd means \u2014 wounding a person with reproach as with a sting."
+        ],
+        "Philip Schaff": [
+            "Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwelling-place.\" ",
+            "Having often scarce the necessaries of life."
+        ],
+        "Archibald T. Robertson": [
+            "We hunger, we thirst, are naked, are buffeted, have no certain dwelling place.\" ",
+            "Field in Notes, p. 170 renders 1 Corinthians 4:11 'and are vagabonds' or spiritual hobos.\" ",
+            "A graphic picture of Paul's condition in Ephesus when he is writing this epistle."
+        ],
+        "John Gill": [
+            "we both hunger, and thirst, and are naked; wanted the common necessaries of life, food to eat, and raiment to put on\" ",
+            "And are buffeted; not only by Satan, as the apostle was, but by men; scourged, whipped, and beaten by them",
+            "And have no certain dwelling place; were in an unsettled state, always moving from one place to another, and had no place they could call their own"
+        ],
+        "John Wesley": [
+            "Who can imagine a more glorious triumph of the truth?",
+            "St. Paul...appeared in a mean, perhaps tattered, dress before persons of the highest distinction.",
+            "He commanded such attention and made such deep impressions upon them!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even unto this present hour, the Apostles, including Paul, were exposed to a life of hardship, facing insufficient clothing, insults, and a lack of a stable dwelling place. Their willingness to endure hunger, thirst, and the stigma of being poorly clad was a testament to their dedication to helping others. This passage is a graphic depiction of Paul's condition when writing this letter, highlighting his fidelity and zeal for the gospel. It is a rebuke to those who sought esteem without proving their commitment. Despite their circumstances, the Apostles commanded attention and made lasting impressions, a glorious triumph of the truth.",
+            "wordCount": 102,
+            "quoteTokenProportion": 28.77,
+            "qualityScore": 1.6517318334612954,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.26,
+            "commentatorTierSimilarities": [
+                27.89,
+                38.3,
+                33.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even unto this present hour, the Apostles, like Paul, were exposed to hardship, lacking sufficient clothing and enduring insults. They had no stable dwelling place, constantly moving from one location to another. Their willingness to endure hunger, thirst, and the stigma of being poorly clothed was a testament to their dedication in serving others. It demonstrated their fidelity and zeal for the gospel. Despite their challenging circumstances, the Apostles commanded attention and made a lasting impression, triumphing in spreading the truth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5647824823750347,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.37,
+            "commentatorTierSimilarities": [
+                26.15,
+                40.61,
+                33.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even unto this present hour, the Apostles, like Paul, were exposed to a life of hardship, suffering from insufficient clothing and enduring insults. They had no stable dwelling place, constantly moving about. Their willingness to endure hunger, thirst, and the stigma of being poorly clothed was a testament to their dedication in serving others. Despite their challenging circumstances, the Apostles commanded attention, making deep impressions, triumphing in spreading the truth. This passage vividly depicts Paul's condition when writing the letter, emphasizing his fidelity and zeal for the gospel.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.627511447662091,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.46,
+            "commentatorTierSimilarities": [
+                31.7,
+                37.54,
+                30.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even unto this present hour, the Apostles, including Paul, were exposed to a life of hardship. They suffered from insufficient clothing, endured insults, and had no stable dwelling place. Their willingness to endure hunger, thirst, and the stigma of being poorly clad demonstrated their dedication in serving others. Despite their challenging circumstances, the Apostles commanded attention, making deep impressions, triumphing in spreading the truth. This vividly depicts Paul's condition when writing, emphasizing his fidelity and zeal for the gospel, as well as rebuking those who sought esteem without proving their commitment.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.648331968512836,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.15,
+            "commentatorTierSimilarities": [
+                29.7,
+                38.87,
+                31.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even unto this present hour, the Apostles, like Paul, were exposed to hardship, lacking sufficient clothing and enduring insults. They had no stable dwelling place, constantly moving about. Despite these challenging circumstances, their dedication in serving others was unwavering. This passage vividly depicts the condition Paul faced when writing, emphasizing his fidelity and zeal for the gospel. It serves as a rebuke to those who sought esteem without proving their commitment. The Apostles' perseverance in spreading the truth commanded attention, making a lasting impact on those they encountered.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.78,
+            "qualityScore": 1.4888841010549718,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.85,
+            "commentatorTierSimilarities": [
+                30.86,
+                31.99,
+                37.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

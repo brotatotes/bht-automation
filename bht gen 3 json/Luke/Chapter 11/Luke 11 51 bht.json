@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:18:25",
+    "verseRef": "Luke 11:51",
+    "bestBHT": {
+        "bht": "From the blood of Abel, the first shed in the Old Testament, to the blood of Zacharias, the last in the Old Testament canon, this warning emphasizes the need for accountability. As Zacharias said, The Lord require it, this generation will be required to answer for their actions. The reference to the altar and temple signifies a significant place of judgment. Ultimately, this prophecy was fulfilled with the destruction of the temple and city, serving as a powerful reminder of the consequences of their deeds.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 1.8405734613235942,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+        "commentatorTierSimilarities": [
+            52.33,
+            0.0,
+            47.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The allusion is not to any recent murder, but to... as the last recorded and most suitable case for illustration.",
+            "And as Zacharias' last words were, 'The Lord require it,' so they are warned that 'of that generation it should be required.'"
+        ],
+        "Marvin Vincent": [
+            "The altar and the temple. Oikou, temple, lit., house, is equivalent to naou, sanctuary (Rev.), in Matthew 23:35. The altar is the altar of burnt - offering. See on Matthew 4:5; and compare 2 Chronicles 24:18-21."
+        ],
+        "Archibald T. Robertson": [
+            "The blood of Abel is the first shed in the Old Testament, that of Zacharias the last in the O.T. canon.\" ",
+            "Chronologically the murder of Uriah by Jehoiakim was later, but this climax is from Genesis to II Chronicles.",
+            "Between the altar and the sanctuary, literally, between the altar and the house."
+        ],
+        "John Gill": [
+            "From the blood of Abel... unto the blood of Zacharias.\" ",
+            "Which perished between the altar and the temple.\" ",
+            "Verily I say unto you, it shall be required of this generation."
+        ],
+        "John Wesley": [
+            "And so it was within forty years, in a most astonishing manner, by the dreadful destruction of the temple, the city, and the whole nation.",
+            "Between the temple and the altar \u2014 In the court of the temple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From the blood of Abel, the first recorded murder in the Old Testament, to the blood of Zacharias, the last recorded murder in the Old Testament canon, this warning in Luke 11:51 serves as a solemn reminder. Just as Zacharias declared that The Lord require it, this generation will be required to answer for their actions. The reference to the altar and the temple signifies a significant place of judgment and accountability. Ultimately, the prophecy was fulfilled by the destruction of the temple and the city within forty years, serving as a stark reminder of the consequences of their actions.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.877963641409449,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.78,
+            "commentatorTierSimilarities": [
+                53.3,
+                0.0,
+                46.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The warning in this passage draws a parallel between the bloodshed of Abel in the beginning of the Old Testament and the murder of Zacharias as the last recorded case. This emphasizes the gravity of the situation, with generations being held accountable for their deeds. The mention of the altar and temple further highlights the significance of this judgment. Ultimately, this warning would come to pass with the destructive fate of the temple and city.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.527504543429843,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.13,
+            "commentatorTierSimilarities": [
+                52.28,
+                0.0,
+                47.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From the blood of Abel, the first shed in the Old Testament, to the blood of Zacharias, the last in the Old Testament canon, this warning emphasizes the need for accountability. As Zacharias said, The Lord require it, this generation will be required to answer for their actions. The reference to the altar and temple signifies a significant place of judgment. Ultimately, this prophecy was fulfilled with the destruction of the temple and city, serving as a powerful reminder of the consequences of their deeds.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.8405734613235942,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                52.33,
+                0.0,
+                47.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "From the blood of Abel to the blood of Zacharias, this warning underscores the need for accountability. As Zacharias declared, The Lord require it, this generation will be held responsible for their actions. The reference to the altar and temple signifies a place of judgment. Ultimately, this prophecy was fulfilled through the devastating destruction of the temple and city, serving as a stark reminder of the consequences of their deeds.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.6743474947186998,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.01,
+            "commentatorTierSimilarities": [
+                50.22,
+                0.0,
+                49.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "From the blood of Abel to the blood of Zacharias, this warning highlights the significance of accountability. As Zacharias stated, The Lord require it, this generation will be held accountable for their actions. The mention of the altar and temple signifies a place of judgment. Ultimately, this prophecy came to pass with the destruction of the temple and city, serving as a poignant reminder of the consequences they faced.",
+            "wordCount": 69,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.6981868169551195,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                49.22,
+                0.0,
+                50.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

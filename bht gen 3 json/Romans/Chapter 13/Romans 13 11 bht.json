@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:09:43",
+    "verseRef": "Romans 13:11",
+    "bestBHT": {
+        "bht": "Awake from worldly carelessness and indifference to sin, for the Lord's coming is rapidly approaching. The time has come to cast off the deeds of darkness and embrace the day of salvation. Salvation is nearer to us now than when we first believed, and it is high time to rise from the sleep of fatal indifference. Cast aside the works of darkness and walk in the light, for it is in this light that we must engage in the spiritual battle. Salvation is advancing, steadily nearing its consummation in heaven.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.0764471201193873,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+        "commentatorTierSimilarities": [
+            25.46,
+            34.9,
+            39.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Sleep here imports the state of worldly carelessness and indifference to sin, which allows and practises the works of darkness.",
+            "Without denying the legitimacy of an individual application of this truth, and the importance of its consideration for all Christians of all ages, a fair exposition of this passage can hardly fail to recognize the fact, that the Apostle here as well as elsewhere speaks of the coming of the Lord as rapidly approaching.",
+            "While the prophetic declarations of the events of that time remain to instruct us, the eager expectation of the time, which they expressed in their day, has also remained, a token of the true frame of mind in which each succeeding age should contemplate the ever-approaching coming of the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And that [do] knowing the time, that now it is high time - literally, 'the hour has already come.'",
+            "To awake out of sleep - of stupid, fatal indifference to eternal things.",
+            "For now is our salvation - rather, 'the salvation,' or simply 'salvation.'"
+        ],
+        "Albert Barnes": [
+            "A deep conviction of the nearness of eternity will prompt to an upright life in the contact of man with man.",
+            "It is 'time,' therefore, for people to cast off the deeds of darkness, and rise to life, and purity, and action.",
+            "In prospect of that state, we ought to lay aside every sin, and live more and more in preparation for a world of light and glory."
+        ],
+        "Marvin Vincent": [
+            "And that knowing the time - now.",
+            "Salvation is nearer to us.",
+            "The reference is apparently to the Lord's second coming, rather than to future glory."
+        ],
+        "John Calvin": [
+            "Since we know that the seasonable time has already come, in which we should awake from sleep, let us cast aside whatever belongs to the night, let us shake off all the works of darkness, since the darkness itself has been dissipated, and let us attend to the works of light, and walk as it becomes those who are enjoying the day.",
+            "[The] armor of light represents good, and temperate, and holy actions, such as are suitable to the day; and armor is mentioned rather than works, because we are to carry on a warfare for the Lord.",
+            "Nearer is salvation now to us than at that time when we began to believe: so that a reference is made to the time which had preceded as to their faith."
+        ],
+        "Philip Schaff": [
+            "It is already time that you should awake out of sleep.\" ",
+            "For now is salvation nearer to us than whom we first believed.",
+            "The Apostle taught the truth, as well as rebuked error."
+        ],
+        "Archibald T. Robertson": [
+            "And this (\u03ba\u03b1 \u03c4\u03bf\u03c5\u03c4\u03bf)... and that too.",
+            "Knowing (\u03b5\u03b9\u03b4\u03bf\u03c4\u03b5\u03c2)... either we must supply a verb like \u03c0\u03bf\u03b9\u03b7\u03c3\u03c9\u03bc\u03b5\u03bd (let us do it) or \u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03c4\u03b5 (do ye do it) or treat it as an independent participle...",
+            "The season (\u03c4\u03bf\u03bd \u03ba\u03b1\u03b9\u03c1\u03bf\u03bd)... the critical period, not \u03c7\u03c1\u03bf\u03bd\u03bf\u03c2 (time in general)."
+        ],
+        "John Gill": [
+            "That now it is high time for us to awake out of sleep; since sleep is for the night, and not the day...such a frame of spirit...is of bad consequence to the churches of Christ.",
+            "The methods God takes to awaken his people out of such a sleep are various...sometimes by severe reproofs in the ministry of the word; and sometimes by sharp persecutions in providence.",
+            "For now is our salvation nearer than when we believed; by which is meant...the consummate enjoyment of it in heaven, the salvation of their souls at death, and both of soul and body at the resurrection."
+        ],
+        "John Wesley": [
+            "Knowing the season \u2014 Full of grace, but hasting away.",
+            "This life, a night; the resurrection, the day; the gospel shining on the heart, the dawn of this day.",
+            "Final salvation, glory, is nearer to us now, than when we first believed - It is continually advancing, flying forward upon the swiftest wings of time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Awake from worldly carelessness and indifference to sin, for the Lord's coming is rapidly approaching. The time has come to cast off the deeds of darkness, to live in preparation for a world of light and glory. Salvation is nearer to us now than when we first believed. It is high time to rise from the sleep of fatal indifference and embrace the day of salvation, for the current season demands our awakening. Cast aside the works of darkness and walk in the light, for it is in this light that we must engage in the spiritual battle. Salvation is advancing, steadily nearing its consummation in heaven, and the methods God uses to awaken His people may be through His word or even through trials and persecutions. Let us be aware of the critical period we are in, eagerly awaiting the ever-approaching coming of the Lord.",
+            "wordCount": 148,
+            "quoteTokenProportion": 34.83,
+            "qualityScore": 1.9855621572612465,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                25.78,
+                35.26,
+                38.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Awake from worldly carelessness and indifference to sin, for the Lord's coming is rapidly approaching. The time has come to cast off the deeds of darkness and embrace the day of salvation. Salvation is nearer to us now than when we first believed, and it is high time to rise from the sleep of fatal indifference. Cast aside the works of darkness and walk in the light, for it is in this light that we must engage in the spiritual battle. Salvation is advancing, steadily nearing its consummation in heaven.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.0764471201193873,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+            "commentatorTierSimilarities": [
+                25.46,
+                34.9,
+                39.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The coming of the Lord is rapidly approaching, and it is time to awake from sleep, from worldly carelessness and indifference to sin. Cast off the deeds of darkness and embrace the day of salvation, for it is nearer to us now than when we first believed. We must rise from the sleep of fatal indifference and walk in the light, engaging in the spiritual battle. Salvation is advancing, steadily nearing its consummation in heaven. Let us eagerly await the ever-approaching coming of the Lord.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.9593629269155923,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                26.27,
+                34.45,
+                39.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The time has come for us to awake from worldly carelessness and indifference to sin, for the coming of the Lord is rapidly approaching. We must cast off the deeds of darkness and embrace the day of salvation, which is in proximity to us now. Let us rise from the sleep of fatal indifference and walk in the light, fully aware that salvation is advancing, steadily drawing nearer to its consummation in heaven. May we eagerly anticipate the ever-approaching coming of the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.9991633575250054,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                27.64,
+                32.98,
+                39.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Awake from sleep, from worldly indifference to sin, for the Lord's coming is rapidly approaching. Cast off the deeds of darkness and embrace the day of salvation, nearer to us now than when we first believed. Rise from the sleep of fatal indifference, walking in the light and engaging in the spiritual battle. Salvation is advancing, steadily nearing its consummation in heaven. Eagerly await the ever-approaching coming of the Lord, knowing the critical period we are in.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.9589279146948226,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                26.47,
+                33.63,
+                39.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:12:27",
+    "verseRef": "1 Corinthians 12:11",
+    "bestBHT": {
+        "bht": "The Spirit, who is the universal worker in people with various spiritual gifts, distributes these gifts according to His own pleasure. This unity of the source of all gifts, in the midst of their variety, goes against those who value some gifts more than others or depreciate them all. No one should be discouraged or belittle their own gifts, as the Spirit distributes them as He deems best for the welfare of the church. The Spirit's will in giving these gifts showcases His wisdom and intelligence, and it is not based on arbitrary pleasure but on wise counsel.",
+        "wordCount": 99,
+        "quoteTokenProportion": 53.03,
+        "qualityScore": 1.926911825258203,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.41,
+        "commentatorTierSimilarities": [
+            26.69,
+            32.83,
+            40.48
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Spirit is the universal worker in men of all these powers, and that according to His own pleasure.",
+            "This unity of the source of all spiritual gifts, in the midst of their variety, he presses as against those who valued some and undervalued others.",
+            "or who depreciated them all."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "11. as he will\u2014 (1 Corinthians 12:18;",
+            "\tHebrews 2:4)."
+        ],
+        "Albert Barnes": [
+            "They were all, though so different in themselves, to be traced to the Holy Spirit, just as all the natural endowments of people - their strength, memory, judgment, etc. - though so various in themselves are to be traced to the same God.\" ",
+            "He distributes these favors as to him seems best adapted to promote the welfare of the whole church and to advance his cause.\" ",
+            "No man should be depressed, or should despise his own gifts, however humble they may be. In their own place, they may be as important as the higher endowments of others."
+        ],
+        "John Calvin": [
+            "He again calls the Corinthians to unity, by reminding them that all have derived from one fountain whatever they possess, while he instructs them, at the same time, that no one has so much as to have enough within himself, so as not to require help from others.",
+            "To no one does he give all, lest any one, satisfied with his particular portion, should separate himself from others, and live solely for himself.",
+            "Now, when will is ascribed to the Spirit, and that, too, in connection with power, we may conclude from this, that the Spirit is truly and properly God."
+        ],
+        "Philip Schaff": [
+            "but all these worketh the one and the same Spirit, dividing to each one severally even as he will.\" ",
+            "if so, to set one gift above another, in a spirit of rivalry among their possessors, how offensive must that be!\" ",
+            "Now follows a graphic illustration of this."
+        ],
+        "Archibald T. Robertson": [
+            "Worketh (\u03b5\u03bd\u03b5\u03c1\u03b3\u03b5). The same word that was used in verse 1 Corinthians 12:6 of God.",
+            "Severally (\u03b9\u03b4\u03b9\u03b1). Separately.",
+            "Even as he will (\u03ba\u03b1\u03b8\u03c9\u03c2 \u03b2\u03bf\u03c5\u03bb\u03b5\u03c4\u03b1). Hence there is no occasion for conceit, pride, or faction (1 Corinthians 4:7)."
+        ],
+        "John Gill": [
+            "Though these gifts, ministrations, and operations, are so different in themselves, and are bestowed upon different persons, yet they are all wrought by one and the same Spirit of God.",
+            "For as his special grace in regeneration is dispensed when and where, and to whom he pleases, signified by the blowing of the wind where it listeth, so his gifts, ordinary and extraordinary, are severally distributed, according to his sovereign will and pleasure.",
+            "This is a clear and full proof of the personality of the Spirit, who is not only distinguished from his gifts, and the distribution of them, which is a personal act described to him; but this is said to be done according to his will, which supposes him an intelligent agent, capable of choosing and willing; and whose will agrees with the Father's, and with the Son's."
+        ],
+        "John Wesley": [
+            "As he willeth \u2014 The Greek word does not so much imply arbitrary pleasure, as a determination founded on wise counsel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Spirit, who is the universal worker in people with various spiritual gifts, distributes these gifts according to His own pleasure. This unity of the source of all gifts, in the midst of their variety, goes against those who value some gifts more than others or depreciate them all. No one should be discouraged or belittle their own gifts, as the Spirit distributes them as He deems best for the welfare of the church. The Spirit's will in giving these gifts showcases His wisdom and intelligence, and it is not based on arbitrary pleasure but on wise counsel.",
+            "wordCount": 99,
+            "quoteTokenProportion": 53.03,
+            "qualityScore": 1.926911825258203,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.41,
+            "commentatorTierSimilarities": [
+                26.69,
+                32.83,
+                40.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Spirit, as the universal worker, distributes spiritual gifts according to His pleasure. This unity of source amidst variety challenges those who value some gifts more or devalue them all. No one should be discouraged, for even humble gifts have importance. The Spirit's will in giving gifts displays His wisdom and intelligence, guided by wise counsel rather than arbitrary pleasure. His distribution promotes the welfare of the church.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.6114293384400544,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.92,
+            "commentatorTierSimilarities": [
+                26.83,
+                34.14,
+                39.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit, being the universal worker, distributes spiritual gifts to individuals according to His own pleasure. This unity of source, despite the variety of gifts, confronts those who undervalue or overvalue certain gifts. No one should feel discouraged or diminish their own gifts, even if they seem humble, for they have their own significance. It is important to recognize that the Spirit's dispensation of gifts reflects His wisdom and intelligence, as He purposefully distributes them for the well-being of the church.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.767027697102292,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+            "commentatorTierSimilarities": [
+                25.56,
+                34.5,
+                39.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Spirit distributes spiritual gifts according to His pleasure, uniting various powers under one source. This challenges those who undervalue or prioritize certain gifts over others. No one should be discouraged or belittle their own gifts, as even humble ones have importance. The Spirit's will in giving gifts showcases His wisdom and intelligence, not based on arbitrary pleasure, but through careful counsel. This distribution is intended to promote the overall welfare of the church.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.5598555726011227,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.21,
+            "commentatorTierSimilarities": [
+                25.34,
+                35.38,
+                39.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Spirit, the universal worker, distributes spiritual gifts according to His pleasure. This unity of source amidst variety goes against those who undervalue or overlook certain gifts. No one should feel discouraged or diminish their own gifts, as even humble ones hold significance. The Spirit's will in giving gifts demonstrates His wisdom and intelligence, not based on arbitrary pleasure, but on thoughtful counsel. This distribution is intended to advance the welfare of the church as a whole.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6308329661568326,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+            "commentatorTierSimilarities": [
+                26.19,
+                34.0,
+                39.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

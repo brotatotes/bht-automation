@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:11:41",
+    "verseRef": "1 Corinthians 10:25",
+    "bestBHT": {
+        "bht": "In the matter of buying meat, the Corinthians are advised to eat without asking questions about its origin, keeping their conscience free from offense. The shambles, or flesh-market, posed a potential dilemma as meat offered to idols could unknowingly be purchased there. Paul defends their freedom, urging them to avoid unnecessary scruples and to enjoy their liberty in consuming meat without being overly cautious.",
+        "wordCount": 65,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 2.2002171520785705,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.5,
+        "commentatorTierSimilarities": [
+            38.35,
+            29.18,
+            32.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Every thing which is being sold (offered for sale) in the flesh-market, eat, making no enquiry (whether it is meat offered to idols or not), on account of your conscience...\"  ",
+            "Eat without enquiry, that your conscience may not be offended.\"  ",
+            "If you made enquiry, and heard in reply, that the meat had been offered to idols, your conscience would be offended, and you would eat with offence, risk of stumbling, to yourselves."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Shambles\u2014butchers' stalls; the flesh market.",
+            "Asking no question\u2014whether it has been offered to an idol or not.",
+            "For conscience' sake\u2014If on asking you should hear it had been offered to idols, a scruple would arise in your conscience which was needless, and never would have arisen had you asked no questions."
+        ],
+        "Albert Barnes": [
+            "The apostle says that it might be purchased, since the mere fact that it had been offered in sacrifice could not change its quality, or render it unfit for use.\" ",
+            "Not hesitating or doubting, as if it might possibly have been offered in sacrifice. Not being scrupulous, as if it were possible that the conscience should be defiled.",
+            "This is a good rule still, and may be applied to a great many things."
+        ],
+        "Marvin Vincent": [
+            "The shambles [\u03bc\u03b1\u03ba\u03b5\u03bb\u03bb\u03c9]. It is a Latin word, which is not strange in a Roman colony like Corinth.",
+            "In sacrifices usually only a part of the victim was consumed. The rest was given to the priests or to the poor, or sold again in the market.",
+            "Any buyer might therefore unknowingly purchase meat offered to idols."
+        ],
+        "John Calvin": [
+            "It is lawful to eat, with a safe conscience, any kind of food, because the Lord permits it.",
+            "In so far as you have to do with God, there is no occasion for your disputing with yourself, whether it be lawful or not.",
+            "For I allow you to eat freely of all kinds of meat, because the Lord allows you everything without exception."
+        ],
+        "Philip Schaff": [
+            "If ye go to market, and there see flesh exposed for sale, inquire not whence it came; for should it turn out to have been sacrificed to an idol, your conscience would be defiled by purchasing it; but buy it simply as food, which you can do with a good conscience.\" ",
+            "The meaning is, 'for your own conscience sake.'",
+            "Buy it simply as food, which you can do with a good conscience."
+        ],
+        "Archibald T. Robertson": [
+            "In the shambles (\u03b5\u03bd \u03bc\u03b1\u03ba\u03b5\u03bb\u03bb\u03c9). Only here in N.T.... the Corinthian Macellum (1 Corinthians 10:25), with the same life-like reality with which the Diocletian maximum tariff called up the picture of the Galilean woman purchasing her five sparrows.",
+            "Asking no questions for conscience sake (\u03bc\u03b7\u03b4\u03b5\u03bd \u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b5\u03c2 \u03b4\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c3\u03c5\u03bd\u03b5\u03b9\u03b4\u03b7\u03c3\u03b9\u03bd). As to whether a particular piece of meat had been offered to idols before put in the market.",
+            "Do not be over-scrupulous. Paul here champions liberty in the matter as he had done in 1 Corinthians 8:4."
+        ],
+        "John Gill": [
+            "The apostle allows, that such meat that was sold in the shambles might be bought and eat of, but not in an idol's temple; there was a difference between an idol's temple, and eating things sacrificed to idols there, and buying them in shambles or meat market, and eating them at home.",
+            "For conscience sake; either a man's own, which may be hurt, wounded, and defiled, by eating contrary to it, should he know that what he eats had been offered to an idol; whereas if he asks no questions, and knows nothing of the matter, his conscience will not be afflicted.",
+            "Or else another man's that may stand by whilst the meat is bought, and sold; and who hearing questions asked and answered, and yet observes the meat, though sacrificed to idols, dressed and ate by the buyer, his conscience being weak, may be offended and grieved."
+        ],
+        "John Wesley": [
+            "The apostle now applies this principle to the point in question.",
+            "Asking no questions \u2014 Whether it has been sacrificed or not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When it comes to buying meat in the marketplace, the Corinthians are advised to eat without inquiring about its origins, in order to avoid offense to their conscience. The shambles, or butchers' stalls, often sold meat that had been offered to idols, making it possible for a buyer to unknowingly purchase such meat. By refraining from asking questions, the Corinthians can protect their conscience from needless scruples. Paul champions liberty in this matter, allowing the Corinthians to buy and eat meat without being overly scrupulous.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.181149147843488,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.86,
+            "commentatorTierSimilarities": [
+                38.17,
+                29.91,
+                31.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In regards to purchasing meat in the marketplace, the Corinthians are encouraged to eat without inquiring about whether it has been offered to idols. By refraining from asking questions, they can avoid offending their conscience unnecessarily. The shambles, or butchers' stalls, often sold meat that may have been sacrificed to idols, making it possible for buyers to unknowingly consume such meat. Paul emphasizes the liberty and freedom the Corinthians have, urging them to eat without being overly scrupulous.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.097396617390471,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.08,
+            "commentatorTierSimilarities": [
+                39.36,
+                27.85,
+                32.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When buying meat in the market, the Corinthians are advised to eat without inquiring about its origin for the sake of their conscience. By not asking questions, they can avoid offense and stumbling. The shambles, or butchers' stalls, offered meat that could have been sacrificed to idols, posing a potential dilemma. However, Paul upholds liberty, permitting the Corinthians to eat without being overly scrupulous. In this matter, he champions their freedom to buy and consume meat without unnecessary concern.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9852159687821378,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                37.8,
+                28.02,
+                34.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians are encouraged to eat meat bought in the marketplace without asking questions about whether it has been offered to idols. By refraining from inquiring, they can avoid stumbling and offending their conscience needlessly. The shambles, or butchers' stalls, could unknowingly sell meat that had been offered to idols. Paul champions their liberty and freedom in this matter, allowing them to consume meat without being overly scrupulous.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.1291211185117245,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                40.5,
+                27.01,
+                32.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the matter of buying meat, the Corinthians are advised to eat without asking questions about its origin, keeping their conscience free from offense. The shambles, or flesh-market, posed a potential dilemma as meat offered to idols could unknowingly be purchased there. Paul defends their freedom, urging them to avoid unnecessary scruples and to enjoy their liberty in consuming meat without being overly cautious.",
+            "wordCount": 65,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.2002171520785705,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.5,
+            "commentatorTierSimilarities": [
+                38.35,
+                29.18,
+                32.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

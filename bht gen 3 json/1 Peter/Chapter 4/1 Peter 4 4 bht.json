@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:39:45",
+    "verseRef": "1 Peter 4:4",
+    "bestBHT": {
+        "bht": "The ungodly are astonished that you do not run with them into the same slough of profligacy and they speak evil of you for abandoning your former walk. They accuse the Christians of all manner of crimes and view them as enemies of joy and the human race. The faithful are seen as fools, enthusiasts, and fanatics, for turning away from worldly pleasures and directing their minds towards another world. Peter encourages them not to be disturbed by these perverse judgments and fortifies them against being corrupted.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 1.9344247419016036,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+        "commentatorTierSimilarities": [
+            28.07,
+            43.24,
+            28.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "[They] are astonished...that you run not with them...to the same slough of profligacy.\" ",
+            "The aim of this verse is, that they might not be moved by the perverse judgments concerning them of these men.",
+            "The Christians were accused of all manner of crimes, and of haughtiness and hatred of their species."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Abandonment of your former walk.",
+            "Run not with them.",
+            "Impious reviling against God, Christ, or the Holy Spirit."
+        ],
+        "Albert Barnes": [
+            "Even the kindred of the Saviour regarded him as 'beside himself,' and Festus supposed that Paul was mad. The epithets of fool, enthusiast, fanatic, are terms which frequently occur to the heart to denote this, if they are not always allowed to escape from the lips.",
+            "They do not appreciate the motives which influence those who leave them. They live for themselves. They seek happiness as the end and aim of life. They have never been accustomed to direct the mind onward to another world, and to the account which they must soon render at the bar of God.",
+            "They do not yet see the guilt and folly of sinful pleasures. They think it strange that others should abandon a course of life which seems to them so innocent. They do not see why those who have been so long accustomed to these indulgences should have changed their opinions, and why they now regard those tilings as sinful which they once considered to be harmless."
+        ],
+        "Marvin Vincent": [
+            "Run not with them.\" ",
+            "The word is used in classical Greek of the tides which fill the hollows.\" ",
+            "Wastefulness; and thence of squandering on one's own debased appetites, whence it takes the sense of dissoluteness or profligacy."
+        ],
+        "John Calvin": [
+            "But in this place, Peter fortifies the faithful, lest they should suffer themselves to be disturbed or corrupted by the perverse judgments or words of the ungodly.",
+            "Thus they accuse the children of God, as though they attempted a separation from the whole world.",
+            "And he expressly mentions the living and the dead, lest we should think that we shall suffer any loss, if they remain alive when we are dead; for they shall not, for this reason, escape the hand of God."
+        ],
+        "Philip Schaff": [
+            "They think it strange that ye run not with them into the same effusion (or, slough) of profligacy, speaking evil of you.",
+            "The several terms are remarkable for their force and vividness.",
+            "With what power do these few bold strokes depict the rush of the mass of the heathen over all barriers that stand in the way of vicious indulgence, and their haste to drag others with them on to the same goal of a life of appetite!"
+        ],
+        "Archibald T. Robertson": [
+            "They are surprised or astonished.",
+            "Running with certain folks.",
+            "The Christians were compelled to stand aloof from all the social pleasures of the world, and the Gentiles bitterly resented their puritanism, regarding them as the enemies of all joy, and therefore of the human race."
+        ],
+        "John Gill": [
+            "that you run not with them into the same excess of riot",
+            "being amazed that they should not have the same taste for these things as before, and as themselves now had",
+            "charging them with incivility, unsociableness, preciseness, and hypocrisy"
+        ],
+        "John Wesley": [
+            "The same \u2014 As ye did once.",
+            "Speaking evil of you \u2014 As proud, singular, silly, wicked and the like."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They are astonished that you do not run with them into the same slough of profligacy, and they speak evil of you for abandoning your former walk. The Christians were accused of all manner of crimes and were considered enemies of joy and the human race. They were seen as fools, enthusiasts, and fanatics, as they turned away from worldly pleasures and directed their minds toward another world. The ungodly think it strange that you have changed your opinions and now see as sinful what they consider harmless. They rush toward a life of appetite, dragging others with them, and speak evil of those who resist. Peter encourages the faithful not to be disturbed by their perverse judgments and fortifies them against being corrupted.",
+            "wordCount": 124,
+            "quoteTokenProportion": 43.02,
+            "qualityScore": 1.8695791189573447,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+            "commentatorTierSimilarities": [
+                26.29,
+                45.84,
+                27.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They are astonished that you do not run with them into the same slough of profligacy, and they speak evil of you for abandoning your former walk. The Christians were accused of all manner of crimes and were considered enemies of joy and the human race. They were seen as fools, enthusiasts, and fanatics, as they turned away from worldly pleasures and directed their minds toward another world. The ungodly think it strange that you have changed your opinions and now see as sinful what they consider harmless. Peter encourages the faithful not to be disturbed by their perverse judgments and fortifies them against being corrupted.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8818280377025483,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                26.96,
+                44.84,
+                28.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ungodly are astonished that you do not run with them into the same slough of profligacy and they speak evil of you for abandoning your former walk. They accuse the Christians of all manner of crimes and view them as enemies of joy and the human race. The faithful are seen as fools, enthusiasts, and fanatics, for turning away from worldly pleasures and directing their minds towards another world. Peter encourages them not to be disturbed by these perverse judgments and fortifies them against being corrupted.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.9344247419016036,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+            "commentatorTierSimilarities": [
+                28.07,
+                43.24,
+                28.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ungodly are astonished that you do not run with them into the same slough of profligacy and they speak evil of you for abandoning your former walk. The Christians were accused of all manner of crimes and considered enemies of joy and the human race. They were viewed as fools, enthusiasts, and fanatics for turning away from worldly pleasures and directing their minds toward another world. Peter encourages the faithful not to be disturbed by these perverse judgments and fortifies them against being corrupted.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.8996294321248999,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.5,
+            "commentatorTierSimilarities": [
+                28.73,
+                42.94,
+                28.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ungodly are astonished that you do not run with them into the same slough of profligacy, and they speak evil of you for abandoning your former walk. The Christians were accused of all manner of crimes and were considered enemies of joy and the human race. They were viewed as fools, enthusiasts, and fanatics for turning away from worldly pleasures and directing their minds toward another world. Peter encourages the faithful not to be disturbed by these perverse judgments and fortifies them against being corrupted.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.8963374692496395,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                28.67,
+                42.96,
+                28.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

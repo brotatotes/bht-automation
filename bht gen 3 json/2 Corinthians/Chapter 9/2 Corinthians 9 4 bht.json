@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:17:20",
+    "verseRef": "2 Corinthians 9:4",
+    "bestBHT": {
+        "bht": "To avoid being put to shame in this confident boasting, it is crucial that we, along with the Corinthians, fulfill our promised contribution. If those from Macedonia were to come and find the Corinthians unprepared with their collection, it would not only embarrass Paul, but also diminish the solid foundation of confident boasting. The Corinthians must be prepared to meet the confident expectations placed upon them, or else their character and reputation would suffer, causing them to feel ashamed for their lack of readiness.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.79,
+        "qualityScore": 2.0175453188580255,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+        "commentatorTierSimilarities": [
+            29.9,
+            39.15,
+            30.95
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Lest perhaps if Macedonians should come with me and should find you unprepared, we should be put to shame in this confidence.\" ",
+            "We, who have boasted, not to say you, who were boasted of, should be put to shame in the matter of this confidence.\" ",
+            "Should find you unprepared, we should be put to shame in this confidence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "if they of Macedonia\u2014rather as Greek, 'if Macedonians.'",
+            "unprepared\u2014with your collection; see 2 Corinthians 9:2, 'ready,' Greek, 'prepared.'",
+            "confident boasting\u2014The oldest manuscripts read simply 'confidence,' namely, in your liberality."
+        ],
+        "Albert Barnes": [
+            "In this...one cannot but recognize a most refined and delicate turn, inferior to none of the best Classical writers.",
+            "If now it should turn out after all that the Corinthians had given nothing, or had given stintedly, the character of Paul would suffer.",
+            "If now by any means this should fail, their character would suffer, and they would have occasion to be ashamed that they had excited so confident expectations of what they would do."
+        ],
+        "Marvin Vincent": [
+            "Confident boasting [\u03c5\u03c0\u03bf\u03c3\u03c4\u03b1\u03c3\u03b5\u03b9] . Primarily something put under, foundation, ground; so substance (sub, stans, standing under), substantial quality.",
+            "Thence steadiness, confidence.",
+            "In the Septuagint the word represents fifteen different Hebrew words."
+        ],
+        "John Calvin": [
+            "It was not so much his bodily strength, as his boldness and intrepidity, that proved confounding to the enemy.",
+            "Hence it appears, that other interpreters have, through inadvertency, fallen into a mistake.",
+            "Now every one must see, how well this meaning accords with Paul\u2019s thread of discourse."
+        ],
+        "Archibald T. Robertson": [
+            "If there come with me any of Macedonia and find you unprepared... a bold and daring challenge.\" ",
+            "Lest by any means we should be put to shame... in the literary plural.",
+            "Confidence... It always has the notion of substratum or foundation."
+        ],
+        "John Gill": [
+            "We (that we say not, ye) should be ashamed in this same confident boasting.",
+            "A boasting, which, he thought, they had the most solid and substantial ground and foundation to proceed upon.",
+            "And in the Corinthians, who must be put to the blush, when it should be told them how much they had been boasted of with respect to their readiness, and yet were unprepared."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Lest by any means we should be put to shame in this confident boasting, if they of Macedonia should come with me and find you unprepared with your collection, for confident boasting always has the notion of substratum or foundation. If it were to turn out that the Corinthians had not given or had given sparingly, the character of Paul would suffer and they would have reason to be ashamed for not meeting the confident expectations placed upon them. It is crucial that they fulfill their promised contribution, for their lack of readiness would not only embarrass Paul but also the Corinthians themselves.",
+            "wordCount": 103,
+            "quoteTokenProportion": 54.29,
+            "qualityScore": 2.06326884995241,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.94,
+            "commentatorTierSimilarities": [
+                28.03,
+                44.16,
+                27.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Lest we should be put to shame in this confident boasting, if those from Macedonia came with me and found you unprepared with your collection, it is important to understand that confident boasting always has the notion of substratum or foundation. The Corinthians must fulfill their promised contribution, for their lack of readiness would not only embarrass Paul but also themselves. If they were to fail in their giving, their character would suffer and they would have reason to be ashamed for not meeting the confident expectations placed upon them.",
+            "wordCount": 90,
+            "quoteTokenProportion": 54.41,
+            "qualityScore": 2.015565697587566,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.36,
+            "commentatorTierSimilarities": [
+                29.25,
+                43.39,
+                27.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To avoid being put to shame in this confident boasting, it is crucial that we, along with the Corinthians, fulfill our promised contribution. If those from Macedonia were to come and find the Corinthians unprepared with their collection, it would not only embarrass Paul, but also diminish the solid foundation of confident boasting. The Corinthians must be prepared to meet the confident expectations placed upon them, or else their character and reputation would suffer, causing them to feel ashamed for their lack of readiness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 2.0175453188580255,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                29.9,
+                39.15,
+                30.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To avoid being put to shame in our confident boasting, we must ensure that the Corinthians are prepared and fulfill their promised contribution. If those from Macedonia were to come and find them unprepared with their collection, it would not only embarrass Paul, but also undermine the solid foundation of our confident boasting. The Corinthians must meet the confident expectations placed upon them, or else their character and reputation would suffer, leaving them ashamed for their lack of readiness.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.0046755641932266,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                30.57,
+                38.61,
+                30.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Lest by any means we should be put to shame in this confident boasting, if they of Macedonia should come with me and find you unprepared with your collection, for confident boasting always has the notion of substratum or foundation. It is important to understand that the Corinthians must fulfill their promised contribution, for their lack of readiness would not only embarrass Paul but also themselves. If they were to fail in their giving, their character would suffer and they would have reason to be ashamed for not meeting the confident expectations placed upon them.",
+            "wordCount": 95,
+            "quoteTokenProportion": 53.62,
+            "qualityScore": 2.006524978388186,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.06,
+            "commentatorTierSimilarities": [
+                29.51,
+                42.66,
+                27.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

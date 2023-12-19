@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:09:02",
+    "verseRef": "Romans 12:17",
+    "bestBHT": {
+        "bht": "As Christians, we are urged to provide things honourable before the Lord and men. This means we should take thoughtful consideration in advance, ensuring that our actions align with what is honorable. The instruction to refrain from repaying evil for evil and not seeking retaliation can be difficult to follow, but it is a crucial aspect of living out our faith. By prioritizing what is honorable and avoiding the temptation to seek revenge, we can be a shining example to others and bring glory to God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 1.8427583575636928,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+        "commentatorTierSimilarities": [
+            23.88,
+            39.92,
+            36.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Provide things honourable before the Lord and men.",
+            "The A.V. there gives a totally different rendering."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Recompensing, &c.",
+            "Providing things honorable.",
+            "The care which Christians should take so to demean themselves as to command the respect of all men."
+        ],
+        "Albert Barnes": [
+            "This is probably one of the most difficult precepts of Christianity; but the law of Christ on the subject is unyielding. It is a solemn demand made on all his followers, and it 'must' be obeyed.",
+            "Make it a matter of 'previous thought,' of 'settled plan,' of 'design.' This direction would make it a matter of 'principle' and fixed purpose to do what is right; and not to leave it to the fluctuations of feeling, or to the influence of excitement.",
+            "The Christian spirit is one that the world 'must' approve, however little it is disposed to act on it."
+        ],
+        "Marvin Vincent": [
+            "Provide [\u03c0\u03c1\u03bf\u03bd\u03bf\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03b9]. The A. V. uses provide in its earlier and more literal meaning of taking thought in advance.\" ",
+            "The citation is from Proverbs 3:4, and varies from both Hebrew and Septuagint.",
+            "Men's estimate of what is honorable is not the standard."
+        ],
+        "John Calvin": [
+            "We render evil for evil sometimes, even when we exact not the requiting of an injury.",
+            "We ought diligently to labor, that all may be edified by our honest dealings.",
+            "Their minds being elevated to God, they may give praise to him, that by our example they may be stirred up to the practice of righteousness."
+        ],
+        "Philip Schaff": [
+            "Recompense to no man evil for evil.\" ",
+            "The principle is plain, but the temptation to disobey is often very strong.\" ",
+            "The care for things honorable might serve to dispossess the desire for retaliation."
+        ],
+        "Archibald T. Robertson": [
+            "Giving back to no man.",
+            "Directly opposite to the law of retaliation.",
+            "Taking thought beforehand."
+        ],
+        "John Gill": [
+            "Recompence to no man evil for evil.\" ",
+            "Private revenge is what is here forbidden.",
+            "Be careful to do well, or exercise beneficence before all men."
+        ],
+        "John Wesley": [
+            "Provide \u2014 Think beforehand; contrive to give as little offence as may be to any."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 12:17, the passage states, Provide things honourable before the Lord and men. This verse emphasizes the importance of Christians conducting themselves in a manner that commands the respect of all people. It urges believers to take thoughtful consideration in advance, so as to refrain from seeking retribution or repaying evil with evil. This instruction aligns with the unyielding law of Christ, even though it may be challenging. By prioritizing what is honorable and refusing to engage in retaliation, Christians can be an example to the world and edify others through their honest and righteous actions.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.6969876207857908,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.77,
+            "commentatorTierSimilarities": [
+                25.04,
+                43.02,
+                31.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christians are called to provide things honourable before the Lord and men. This means they should carefully consider their actions in advance, avoiding retaliation and refraining from repaying evil with evil. By taking these steps to maintain a higher standard of conduct, believers can set an example that commands respect from all. It is by prioritizing what is honorable and refusing to engage in revenge that Christians are able to edify others and bring praise to God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7947682851322648,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                26.07,
+                39.1,
+                34.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Christians, we are urged to provide things honourable before the Lord and men. This means we should take thoughtful consideration in advance, ensuring that our actions align with what is honorable. The instruction to refrain from repaying evil for evil and not seeking retaliation can be difficult to follow, but it is a crucial aspect of living out our faith. By prioritizing what is honorable and avoiding the temptation to seek revenge, we can be a shining example to others and bring glory to God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.8427583575636928,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                23.88,
+                39.92,
+                36.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christians are called to provide things honourable before the Lord and men. This means they should carefully consider their actions in advance, avoiding retaliation and refraining from repaying evil with evil. By taking these steps to maintain a higher standard of conduct, believers can set an example that commands respect from all. It is by prioritizing what is honorable and refusing to engage in revenge that Christians are able to edify others and bring praise to God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7947682851322648,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                26.07,
+                39.1,
+                34.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the context of Romans 12:17, Christians are urged to provide things honourable before the Lord and men. This advises believers to carefully consider their actions in advance, avoiding retaliation and refraining from repaying evil with evil. By prioritizing what is honorable and refusing to engage in revenge, Christians can set an example that commands respect from all. This instruction aligns with the unyielding law of Christ, as it urges believers to think beforehand and exhibit a fixed purpose to do what is right.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.809872594340037,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                23.71,
+                43.82,
+                32.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

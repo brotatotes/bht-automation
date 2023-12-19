@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:15:50",
+    "verseRef": "Luke 6:27",
+    "bestBHT": {
+        "bht": "Jesus challenges His listeners to love their enemies and do good to those who hate them, contrasting with the teachings of the rabbis. He uses the ennobled word love for enemies, highlighting a higher standard. While Jesus could pronounce judgment on His enemies, He calls His followers to respond with love instead of hatred. This Gospel principle emphasizes hating sin but not the sinner. Regardless of who despises us, as listeners of Jesus' teachings, we are called to extend love and goodness towards all.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.921734479741307,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+        "commentatorTierSimilarities": [
+            21.07,
+            55.36,
+            23.58
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "27-36. (See on :-; :-; and :-.)"
+        ],
+        "Marvin Vincent": [
+            "Which hear. With the sense of hearing in order to heed : giving heed. Compare Matthew 11:15."
+        ],
+        "Philip Schaff": [
+            "Our Lord could utter woes against these enemies of His people, His people were not to hate them but to love them...",
+            "...the connection brings out the Gospel principle of hating sin but not the sinner.",
+            "...the Gospel principle of hating sin but not the sinner."
+        ],
+        "Archibald T. Robertson": [
+            "There is a contrast in this use of \u03b1\u03bb\u03bb\u03b1 like that in Matthew 5:44.",
+            "This is the only one of the many examples given by Luke 6:5 of the sharp antithesis between what the rabbis taught and what Jesus said.",
+            "Love of enemies is in the O.T., but Jesus ennobles the word, \u03b1\u03b3\u03b1\u03c0\u03b1\u03c9, and uses it of love for one's enemies."
+        ],
+        "John Gill": [
+            "But I say unto you which hear... love your enemies; do good to them that hate you.\" ",
+            "Whereas you have heard them say, hate your enemies, keep enmity in your hearts to them, and revenge yourselves on them.",
+            "You have heard it said, that you should only do good to your friends, and should keep anger in your bosoms to such who hate you, and do you an injury."
+        ],
+        "John Wesley": [
+            "But I say to you that hear \u2014 Hitherto our Lord had spoken only to particular sorts of persons...",
+            "now he begins speaking to all in general."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Love your enemies and do good to them that hate you. This verse contrasts with what the rabbis taught and emphasizes the ennobled word of love that Jesus uses for enemies. While Jesus could utter woes against His enemies, His followers are called to love them. This verse highlights the Gospel principle of hating sin but not the sinner, showing that we should have enmity towards sin but not towards those who commit it. As listeners of Jesus' teachings, we are called to extend love and goodness even to those who despise us.",
+            "wordCount": 93,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.9953049593425587,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                22.78,
+                52.9,
+                24.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Love your enemies and do good to them that hate you. This contrasts with what the rabbis taught and emphasizes the ennobled word of love that Jesus uses for enemies. While Jesus could utter woes against His enemies, His followers are called to love them. This verse highlights the Gospel principle of hating sin but not the sinner, showing that we should have enmity towards sin but not towards those who commit it. As listeners of Jesus' teachings, we are called to extend love and goodness even to those who despise us.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.9827563812411464,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.27,
+            "commentatorTierSimilarities": [
+                22.77,
+                52.86,
+                24.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus teaches us the importance of loving our enemies and doing good to those who hate us. This goes against the teachings of the rabbis and shows Jesus' ennobled use of the word love when referring to enemies. While Jesus could pronounce judgment on His enemies, He calls His followers to show love and not hatred. This principle extends to hating sin but not the sinner, emphasizing that we should harbor no enmity towards those who wrong us. Jesus' message is one of love and goodness towards all, even those who may despise us.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.906284895682599,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+            "commentatorTierSimilarities": [
+                21.45,
+                53.49,
+                25.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus challenges His listeners to love their enemies and do good to those who hate them, contrasting with the teachings of the rabbis. He uses the ennobled word love for enemies, highlighting a higher standard. While Jesus could pronounce judgment on His enemies, He calls His followers to respond with love instead of hatred. This Gospel principle emphasizes hating sin but not the sinner. Regardless of who despises us, as listeners of Jesus' teachings, we are called to extend love and goodness towards all.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.921734479741307,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "commentatorTierSimilarities": [
+                21.07,
+                55.36,
+                23.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus challenges His listeners to love their enemies and do good to those who hate them. This surpasses the teachings of the rabbis and reflects an elevated understanding of love. While Jesus could condemn His enemies, He urges His followers to respond with love instead of hatred. This principle emphasizes hating sin but not the sinner. As disciples of Jesus, we are called to extend love and kindness to all, regardless of who may despise or mistreat us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.8448751320903933,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.68,
+            "commentatorTierSimilarities": [
+                21.05,
+                57.15,
+                21.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

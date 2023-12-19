@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:13:18",
+    "verseRef": "Luke 1:23",
+    "bestBHT": {
+        "bht": "Although being deaf and dumb didn't prevent one from performing select priestly duties, it may have led to Elizabeth's seclusion for more uninterrupted devotion. The term ministration was adopted by the Christian Church to describe the priest's role as a mediator between God and people. Despite deafness and dumbness excusing individuals from certain obligations, priests with these impairments could still fulfill their work. It's important to recognize the significance of priests, who stood as representatives expiating the sins of the people in God's presence.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.699924904595543,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.86,
+        "commentatorTierSimilarities": [
+            25.62,
+            24.33,
+            50.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A deaf and dumb person, we thus see, was not precluded from some of the priest ministrations.",
+            "The reason may have been, that she might devote herself more uninterruptedly to exercises of devotion and thankfulness.",
+            "This is expressed by the words following."
+        ],
+        "Albert Barnes": [
+            "His piety prompted him to remain there in the service of God.",
+            "It is the duty of ministers of religion to remain at their work until they are unfitted for it, and unable to serve God in their profession.",
+            "Then they must retire. But until that time, he that for trifling causes forsakes his post is guilty of unfaithfulness to his Master."
+        ],
+        "Marvin Vincent": [
+            "Ministration [\u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b9\u03b1\u03c2]...Hence service of the state in a public office.",
+            "When the Christian Church was forming its terminology...it more readily adopted those before employed in civil and political life.",
+            "Hence it adopted this word, already in use in the Septuagint, as the constant word for performing priestly and ministerial functions."
+        ],
+        "John Calvin": [
+            "The law did not, indeed, forbid a priest to enter his house, but, as it did not permit those who ate the show-bread to come near their wives, and as many persons were disposed to treat sacred things in an irreverent manner, this was probably discovered to be a remedy, that, being removed from all temptations, they might preserve themselves pure and clear from every defilement.",
+            "The priests were formerly enjoined to withdraw from their wives, while they were engaged in religious services. Most properly is perpetual continence now demanded from the priests, who not in their turn, but every day, offer sacrifices; more especially since the importance of religious services is far higher than it was under the law.",
+            "A priest stood in the presence of God, to expiate the sins of the people, to be, as it were, a mediator between God and men. He who sustained that character ought to have had something peculiar about him, that he might be distinguished from the common rank of men, and recognised as a figure of the true Mediator."
+        ],
+        "Philip Schaff": [
+            "He continued to serve until the week of service expired.",
+            "He did not feel himself absolved from his duty by his affliction."
+        ],
+        "Archibald T. Robertson": [
+            "Ministration (\u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b9\u03b1\u03c2). Our word liturgy. A common word in ancient Greek for public service, work for the people (\u03bb\u03b5\u03c9\u03c2 \u03b5\u03c1\u03b3\u03bf\u03bd).\" ",
+            "It is common in the papyri for the service of the Egyptian priesthood as we see it in the LXX of Hebrew priests.",
+            "See also Hebrews 8:6; Hebrews 9:21; 2 Corinthians 9:12; Philippians 2:17; Philippians 2:30."
+        ],
+        "John Gill": [
+            "Deafness and dumbness excused persons from various duties but did not disqualify priests.",
+            "A Levite, if he had lost his voice, was disqualified, but not a priest.",
+            "Such was the work of the priests, that though deaf and dumb, they could discharge it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Although being deaf and dumb may have posed challenges for one's ability to serve as a priest, it was not a complete barrier. The reason for Elizabeth's seclusion may have been to allow her to fully dedicate herself to devotion and gratitude. The term ministration used here refers to the priest's work in public office, and it was later adopted by the Christian Church to describe the performance of priestly and ministerial functions. This term also signifies the importance of serving as a mediator between God and humanity. While deafness and dumbness may have excused individuals from certain duties, priests were still able to carry out their work, even if they faced these impairments.",
+            "wordCount": 117,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6805730306304834,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                29.58,
+                23.56,
+                46.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Being deaf and dumb did not completely hinder one's ability to serve as a priest, as exemplified by Elizabeth. This allowed her to devote herself fully to acts of devotion and thankfulness. The term ministration refers to the priestly and ministerial functions performed, signifying the role of serving as a mediator between God and humanity. Though deafness and dumbness might excuse individuals from certain duties, priests were still able to fulfill their responsibilities, even with these impairments.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6815150538599326,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.25,
+            "commentatorTierSimilarities": [
+                28.7,
+                26.46,
+                44.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite being deaf and dumb, a person was not disqualified from participating in certain priestly ministrations. Elizabeth's seclusion may have allowed her to focus exclusively on her acts of devotion and thankfulness. The term ministration refers to the priest's public service and ministerial functions, emphasizing the role of serving as a mediator between God and people. While deafness and dumbness exempted individuals from specific obligations, priests were still capable of carrying out their responsibilities, regardless of these impairments.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6193210187090181,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+            "commentatorTierSimilarities": [
+                27.7,
+                25.54,
+                46.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Although being deaf and dumb didn't prevent one from performing select priestly duties, it may have led to Elizabeth's seclusion for more uninterrupted devotion. The term ministration was adopted by the Christian Church to describe the priest's role as a mediator between God and people. Despite deafness and dumbness excusing individuals from certain obligations, priests with these impairments could still fulfill their work. It's important to recognize the significance of priests, who stood as representatives expiating the sins of the people in God's presence.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.699924904595543,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.86,
+            "commentatorTierSimilarities": [
+                25.62,
+                24.33,
+                50.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Although being deaf and dumb may have posed challenges for one's ability to serve as a priest, it was not a complete barrier. The reason for Elizabeth's seclusion may have been to allow her to fully dedicate herself to devotion and gratitude. The term ministration used here refers to the priest's work in public office, and it was later adopted by the Christian Church to describe the performance of priestly and ministerial functions. This term also signifies the importance of serving as a mediator between God and humanity. While deafness and dumbness may have excused individuals from certain duties, priests were still able to carry out their work, even with these impairments.",
+            "wordCount": 115,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 1.6892315403678302,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+            "commentatorTierSimilarities": [
+                29.5,
+                23.82,
+                46.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

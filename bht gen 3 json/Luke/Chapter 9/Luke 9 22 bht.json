@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:17:08",
+    "verseRef": "Luke 9:22",
+    "bestBHT": {
+        "bht": "The announcement made by the disciples carries a weight that is difficult to forget, as it reflects the impending rejection Jesus would face. The deliberate and scrutinizing rejection by the elders is evident in their actions. Jesus's mention of the third day adds to the disciples' troubled state, as seen in Peter's reaction. These somber words, however, serve to bring comfort to the disciples, preparing them for the contrasting events that lie ahead.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 1.2861930688156373,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.11,
+        "commentatorTierSimilarities": [
+            62.09,
+            0.0,
+            37.91
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The almost verbal agreement of the three in so solemn and sad an announcement, is what we might expect.",
+            "Such words would not be easily forgotten.",
+            "The almost verbal agreement of the three in so solemn and sad an announcement, is what we might expect."
+        ],
+        "Marvin Vincent": [
+            "Be rejected [\u03b1\u03c0\u03bf\u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03b8\u03b7\u03bd\u03b1\u03b9] . The verb means to reject on scrutiny or trial, and therefore implies deliberate rejection. ",
+            "Of the elders [\u03b1\u03c0\u03bf] . Lit., from the side of; on the part of."
+        ],
+        "Archibald T. Robertson": [
+            "Rejected (\u03b1\u03c0\u03bf\u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03b8\u03b7\u03bd\u03b1). First aorist passive infinitive of \u03b1\u03c0\u03bf\u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03b6\u03c9, to reject after trial.",
+            "The third day (\u03c4\u03b7 \u03c4\u03c1\u03b9\u03c4\u03b7 \u03b7\u03bc\u03b5\u03c1\u03b1). Locative case of time as in Matthew 16:21. Here in the parallel passage Mark 8:31 has 'after three days' (\u03bc\u03b5\u03c4\u03b1 \u03c4\u03c1\u03b5\u03b9\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1\u03c2) in precisely the same sense.",
+            "It was a melancholy outlook that depressed the disciples as Mark and Matthew show in the protest of Peter and his rebuke."
+        ],
+        "John Gill": [
+            "The son of man must suffer many things,.... In his person and character, in his soul and body, at the hands of God, and of men, and devils.",
+            "By these he was to be, and was rejected as the Messiah; and when put up with another which should be released, that other should be preferred, and he rejected.",
+            "This he added for the comfort of his disciples."
+        ],
+        "John Wesley": [
+            "Saying \u2014 Ye must prepare for a scene far different from this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the gravity of the announcement made by the disciples, underscoring its solemn and unforgettable nature. It highlights the intentional and deliberate rejection that Jesus would face, particularly by the elders. The phrase the third day signifies a specific timeframe that contributes to the disciples' troubled state. Indeed, the disciples were deeply troubled by this melancholic outlook, as depicted in Peter's reaction and subsequent rebuke. The commentary suggests that Jesus spoke of his suffering for the purpose of providing comfort to his disciples, while also preparing them for the contrasting events to come.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.1740177065902822,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.38,
+            "commentatorTierSimilarities": [
+                57.78,
+                0.0,
+                42.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The announcement made by the disciples carries a weight that is difficult to forget, as it reflects the impending rejection Jesus would face. The deliberate and scrutinizing rejection by the elders is evident in their actions. Jesus's mention of the third day adds to the disciples' troubled state, as seen in Peter's reaction. These somber words, however, serve to bring comfort to the disciples, preparing them for the contrasting events that lie ahead.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.2861930688156373,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.11,
+            "commentatorTierSimilarities": [
+                62.09,
+                0.0,
+                37.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verbal agreement among the disciples in their solemn announcement underscores its profound significance and lasting impact. Jesus foresaw the deliberate rejection he would face, particularly at the hands of the elders. The mention of the third day signifies a specific timeframe, further heightening the disciples' distress. Their troubled state is apparent in Peter's reaction and subsequent rebuke. Nevertheless, Jesus's words were meant to provide comfort to his disciples, preparing them for the contrasting events that would unfold.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.2020253109942516,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.31,
+            "commentatorTierSimilarities": [
+                61.63,
+                0.0,
+                38.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' united and weighty declaration highlights its indelible nature. Jesus foresaw the intentional rejection he would encounter, specifically from the elders, denoted by the verb rejected. The mention of the third day establishes a distinct timeframe that fueled the disciples' disquietude. Their troubled state is evidenced by Peter's response and subsequent admonishment. Yet, Jesus spoke these words to offer solace, preparing his disciples for the contrasting circumstances that lay ahead.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.1811287494797011,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.62,
+            "commentatorTierSimilarities": [
+                59.62,
+                0.0,
+                40.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' solemn announcement, characterized by a nearly identical agreement, emphasizes its enduring impact. Jesus foresaw the deliberate rejection he would face, particularly from the elders. The phrase the third day designates a specific timeframe that heightened the disciples' distress. This disheartening outlook deeply affected the disciples, as evidenced by Peter's reaction and subsequent rebuke. Nevertheless, Jesus spoke these words to provide comfort to his followers, preparing them for the imminent, contrasting events that awaited them.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.2206657985429945,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.93,
+            "commentatorTierSimilarities": [
+                61.25,
+                0.0,
+                38.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

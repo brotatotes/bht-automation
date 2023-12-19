@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:22:10",
+    "verseRef": "Luke 20:31",
+    "bestBHT": {
+        "bht": "In this account, a woman is taken as a wife by several men, one after another, yet no children are born and no legacy is left behind. The repetition of these marriages resulting in barrenness underscores the fleeting nature of life and the reminder that our time on earth is limited. It prompts contemplation on the significance of creating a lasting impact and leaving behind a meaningful legacy for future generations, recognizing the brevity and fragility of our mortal existence.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 0.6675717217861017,
+        "qualityScoreNormalizedComparedToV2BHTs": 13.54,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "And the third took her.... and in like manner the seven also.\" ",
+            "The other four, one after another, when all seven married her.",
+            "And they left no children, and died; or they died, leaving no children behind them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see a series of events where multiple individuals take a woman as their wife, but each one ultimately leaves no descendants. The commentators highlight the repetitive pattern of these marriages, emphasizing how one after another, these marriages resulted in no children. The verse suggests a sense of futility and emptiness as each marriage ends in death without leaving behind any offspring. This repetition and lack of fruitfulness serve as a reminder of the transient nature of life and the importance of legacy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 0.7633265612657831,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.73,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, several men consecutively marry a woman, but none of these marriages bear children nor leave a lasting legacy. The recurring sequence of these unions, devoid of any descendants, highlights the futility and transience of life. These marriages serve as a reminder of the ephemeral nature of human existence and emphasize the importance of leaving behind a lasting impact on future generations.",
+            "wordCount": 64,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 0.649395716072027,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.94,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through a series of repetitive marriages, one following the other, the married woman in this account experiences an unfruitful cycle. None of these unions result in the birth of children or leave any lasting descendants. The succession of these marriages with no offspring serves as a poignant reminder of the transient nature of life and the sobering reality of leaving behind no legacy. This narrative prompts reflection on the brevity of our human existence and the significance of creating a meaningful and lasting impact during our time on earth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 0.5910780890821161,
+            "qualityScoreNormalizedComparedToV2BHTs": 11.0,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, a woman is taken as a wife by several men, one after another, yet no children are born and no legacy is left behind. The repetition of these marriages resulting in barrenness underscores the fleeting nature of life and the reminder that our time on earth is limited. It prompts contemplation on the significance of creating a lasting impact and leaving behind a meaningful legacy for future generations, recognizing the brevity and fragility of our mortal existence.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 0.6675717217861017,
+            "qualityScoreNormalizedComparedToV2BHTs": 13.54,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "One after another, several men took the woman as their wife, and in a pattern of unfruitfulness, no descendants were left behind. These marriages ended in death without leaving any children, highlighting the transient nature of life and the importance of legacy. This repetitive cycle emphasizes the futility of worldly pursuits and calls us to consider the significance of leaving a lasting impact beyond our own mortality. Our time on earth may be brief, but our influence can endure through the generations.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 0.6228139486378124,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.05,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

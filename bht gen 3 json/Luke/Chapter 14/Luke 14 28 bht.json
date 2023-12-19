@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:20:05",
+    "verseRef": "Luke 14:28",
+    "bestBHT": {
+        "bht": "Before becoming a disciple of Christ, it is essential to count the cost and be fully prepared for self-renunciation. Like a builder who carefully calculates the expense and resources required to finish a tower, a disciple must acknowledge their own inadequacy and draw strength and means from Christ. Without surrendering completely, the contest for salvation becomes hopeless. The life of Christian discipleship is depicted as a firm and steady tower, a fortress against apostasy, requiring deliberation, self-denial, and the willingness to bear the cross.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.75793325590264,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+        "commentatorTierSimilarities": [
+            35.53,
+            22.09,
+            42.38
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The ground of the parable is, that entire self: renunciation is requisite, to become a disciple of Christ.",
+            "He is advised to count the cost, to see whether he have enough thoroughly to finish it. If he begin, lay the foundation,\u2014however seemingly well it may be done, it is not well done, because he has not enough to complete it; and the attempt can only lead to shame.",
+            "So it is with one who would be Christ\u2019s disciple: but with this weighty difference, lying in the background of the parable\u2014that in his case the counting the cost must always issue in a discovery of the utter inadequacy of his own resources, and the going out of himself for strength and means to build."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Better not begin than begin and not finish.",
+            "Though the contest for salvation be on our part an awfully unequal one, the human will, in the exercise of that 'faith which overcometh the world,' and nerved by power from above, becomes heroical and will come off 'more than conqueror.'",
+            "But without absolute surrender of self the contest is hopeless."
+        ],
+        "Albert Barnes": [
+            "A tower was a place of defense or observation, erected on high places or in vineyards, to guard against enemies.\" ",
+            "It was made 'high,' so as to enable one to see an enemy when he approached; and 'strong,' so that it could not be easily taken.",
+            "Counteth the cost - Makes a calculation how much it will cost to build it."
+        ],
+        "Marvin Vincent": [
+            "The subject of the parable is the life of Christian discipleship, which is figured by a tower, a lofty structure, as something distinguished from the world and attracting attention.",
+            "Calculate, from Latin calculus, a pebble. Used also of voting.",
+            "Cost, allied to daptw, to devour. Hence expense, as something which eats up resources."
+        ],
+        "John Calvin": [
+            "We must consider beforehand what the profession of the gospel demands. The reason why many persons yield to very slight temptations is, that they have pictured to themselves unmixed enjoyment, as if they were to be always in the shade and at their ease.",
+            "But a far more valuable reward awaits those who are the builders of the temple of God, and who fight under the banner of Christ: for Christians do not labor for a temporary building, or fight for a passing triumph.",
+            "The design of Christ, therefore, is to warn his followers to bear the cross, that they may prepare themselves with courage."
+        ],
+        "Philip Schaff": [
+            "The prudent way is described: first the plan; second, the careful consideration of what is required to carry it out; third, the examination whether the resources will suffice."
+        ],
+        "Archibald T. Robertson": [
+            "This parable of the rash builder has the lesson of counting the cost.",
+            "Attitude of deliberation.",
+            "Expense is something which eats up one's resources."
+        ],
+        "John Gill": [
+            "But where it is right, and well founded, [the profession of faith] is like a tower, firm and steady, and is a fortress and bulwark against apostasy.",
+            "Now what person acting deliberately in such a case as this, and proceeding with intention and design, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?",
+            "For he will be called to self-denial; and must expect to suffer the loss of the favour of carnal relations and friends; and to be exposed to the scorn and rage of the world; a cross must be took up and bore; and great grace and strength are requisite to all this."
+        ],
+        "John Wesley": [
+            "And which of you intending to build a tower \u2014 That is, and whoever of you intends to follow me, let him first seriously weigh these things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in Luke 14:28 teaches us about the importance of self-renunciation and counting the cost before becoming a disciple of Christ. Just as a builder must consider whether they have enough resources to complete a tower, so must a disciple consider the utter inadequacy of their own strength and resources and rely on Christ for the means to build a life of discipleship. Without surrendering ourselves completely to Christ, the contest for salvation is hopeless. Building a life of Christian discipleship requires deliberation, self-denial, and the willingness to bear the cross, as it is like a firm and steady tower, a fortress against apostasy.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.7629830594051552,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+            "commentatorTierSimilarities": [
+                37.76,
+                17.56,
+                44.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable in this passage emphasizes the need for self-renunciation and careful consideration before becoming a disciple of Christ. Just as a builder must calculate the cost and resources required to finish a tower, so must a disciple recognize their inadequacy and rely on Christ's strength. Without complete surrender of self, the contest for salvation is hopeless. Building a life of Christian discipleship involves deliberation, self-denial, and the willingness to bear the cross\u2014a firm and steady tower against apostasy.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.762301618960581,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.94,
+            "commentatorTierSimilarities": [
+                36.02,
+                22.27,
+                41.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A tower is used as a symbol of the Christian life, distinct from the world and attracting attention. Before embarking on this life, one must carefully calculate the cost and be willing to renounce oneself. The contest for salvation is unequal, but with faith and power from above, the human will becomes heroic and more than conqueror. The profession of faith may bring self-denial, loss of favor from others, and exposure to the world's scorn, but it is a fortress against apostasy.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.615473575977243,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.06,
+            "commentatorTierSimilarities": [
+                38.71,
+                16.22,
+                45.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Before becoming a disciple of Christ, it is essential to count the cost and be fully prepared for self-renunciation. Like a builder who carefully calculates the expense and resources required to finish a tower, a disciple must acknowledge their own inadequacy and draw strength and means from Christ. Without surrendering completely, the contest for salvation becomes hopeless. The life of Christian discipleship is depicted as a firm and steady tower, a fortress against apostasy, requiring deliberation, self-denial, and the willingness to bear the cross.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.75793325590264,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+            "commentatorTierSimilarities": [
+                35.53,
+                22.09,
+                42.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable in Luke 14:28 teaches us the importance of fully surrendering ourselves and considering the cost of discipleship. Just as a builder must count the cost before starting a project, a disciple must recognize their own inadequacy and rely on Christ's strength to build a life of discipleship. Without self-renunciation and complete surrender, the contest for salvation is futile. The life of Christian discipleship is likened to a tower, a steady fortress against apostasy, that requires deliberation, self-denial, and bearing the cross.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7090043101644956,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.17,
+            "commentatorTierSimilarities": [
+                39.37,
+                16.38,
+                44.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

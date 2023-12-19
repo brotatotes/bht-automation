@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:18:35",
+    "verseRef": "Luke 11:54",
+    "bestBHT": {
+        "bht": "The rabbis' anger towards Jesus is vividly depicted as they lie in wait, treating him like a beast of prey. Their intense rage is evident in their pursuit of him, seeking to catch something from his mouth. Jesus had likely faced conflicts with these religious leaders before, and they were determined to accuse him of heresy or sedition. Their malicious intent and vehement opposition towards Jesus is apparent in this account.",
+        "wordCount": 71,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.6095210078197735,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+        "commentatorTierSimilarities": [
+            35.65,
+            28.14,
+            36.21
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Faithful reproofs must be expected to excite opposition and hatred.",
+            "Instead of repenting, they seek vengeance, and resolve to put the reprover to shame or to death.",
+            "We see the exceeding malignity which people have against the Lord Jesus."
+        ],
+        "Marvin Vincent": [
+            "Lying in wait - to catch [\u03b5\u03bd\u03b5\u03b4\u03c1\u03b5\u03c5\u03bf\u03bd\u03c4\u03b5\u03c2\u03b8\u03b7\u03c1\u03b5\u03c5\u03c3\u03b1\u03b9] . Metaphors from hunting. "
+        ],
+        "Philip Schaff": [
+            "Laying wait for him to catch something out of his mouth.\" ",
+            "The figure is borrowed from hunting.\" ",
+            "They hunted for it, since the expressions represent both the beating up of game and the lying in wait to capture it."
+        ],
+        "Archibald T. Robertson": [
+            "Vivid picture of the anger of these rabbis who were treating Jesus as if he were a beast of prey.",
+            "These graphic words from the chase show the rage of the rabbis toward Jesus.",
+            "Luke gives more details here than in Luke 20:45-47; Matthew 23:1-7, but there is no reason at all why Jesus should not have had this conflict at the Pharisee's breakfast before that in the temple in the great Tuesday debate."
+        ],
+        "John Gill": [
+            "Laying wait for him, to ensnare and entangle him...",
+            "Seeking to catch something out of his mouth, like beasts of prey...",
+            "That they might accuse him, either of heresy or sedition..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The rabbis in this verse are depicted as lying in wait to catch Jesus, driven by their anger and treating him as a prey. This shows the intense rage they harbored towards him. Jesus had likely had conflicts with these religious leaders before, but Luke provides more details here than in previous accounts. The opposition Jesus faced was a result of their refusal to repent and instead seek revenge, seeking to shame or even kill him. The imagery of hunting is used, representing how they eagerly sought to find something incriminating from Jesus' words. Their ultimate goal was to have something to accuse him of, whether it be heresy or sedition. The malicious intent and animosity towards Jesus in this passage is staggering.",
+            "wordCount": 123,
+            "quoteTokenProportion": 39.08,
+            "qualityScore": 1.5051639881260304,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.39,
+            "commentatorTierSimilarities": [
+                37.19,
+                30.32,
+                32.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rabbis were furious with Jesus, treating him like prey and lying in wait to catch him, displaying their intense anger. This conflict likely occurred before the heated debate at the temple. Their refusal to repent resulted in their desire for revenge, seeking to shame or kill Jesus. They eagerly hunted for something incriminating from his words, hoping to accuse him of heresy or sedition. The depth of their animosity towards Jesus is revealed in their malicious intent.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5381405078130368,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                35.21,
+                29.78,
+                35.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rabbis' anger towards Jesus is vividly depicted as they lie in wait, treating him like a beast of prey. Their intense rage is evident in their pursuit of him, seeking to catch something from his mouth. Jesus had likely faced conflicts with these religious leaders before, and they were determined to accuse him of heresy or sedition. Their malicious intent and vehement opposition towards Jesus is striking in this passage.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6266660301557532,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.43,
+            "commentatorTierSimilarities": [
+                35.71,
+                27.91,
+                36.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rabbis' anger towards Jesus is vividly depicted as they lie in wait, treating him like a beast of prey. Their intense rage is evident in their pursuit of him, seeking to catch something from his mouth. Jesus had likely faced conflicts with these religious leaders before, and they were determined to accuse him of heresy or sedition. Their malicious intent and vehement opposition towards Jesus is apparent in this account.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6095210078197735,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+            "commentatorTierSimilarities": [
+                35.65,
+                28.14,
+                36.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rabbis were filled with rage towards Jesus, treating him as a prey, lying in wait to catch him. Their anger stemmed from their refusal to repent, seeking vengeance instead. Their malicious intent was evident as they eagerly hunted for something incriminating, seeking to accuse Jesus of heresy or sedition. This passage reveals the profound animosity that people had towards the Lord Jesus, highlighting the opposition and hatred that faithful reproofs can often incite.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.622322923287746,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                35.59,
+                31.23,
+                33.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

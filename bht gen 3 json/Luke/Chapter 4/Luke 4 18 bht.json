@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:15:22",
+    "verseRef": "Luke 4:18",
+    "bestBHT": {
+        "bht": "The Spirit of the Lord is upon me as was shown at the baptism, where he was anointed for his mission. Gospel is for the poor. Jesus mends and sets them free. This prophetic citation, in Isaiah's prophecies about the Messiah, announces the fulfillment of all that went before, in Him who then addressed them.",
+        "wordCount": 56,
+        "quoteTokenProportion": 51.11,
+        "qualityScore": 1.7472150303441167,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+        "commentatorTierSimilarities": [
+            33.61,
+            35.66,
+            30.73
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To have fixed on any passage announcing His sufferings would have been unsuitable at that early stage of His ministry.",
+            "[The passage from Isaiah] announces the sublime object of His whole mission, its divine character, and His special endowments for it.",
+            "[The passage] seems as if made expressly for this occasion... Jehovah's Servant to raise up the tribes of Jacob and be His Salvation to the ends of the earth."
+        ],
+        "Albert Barnes": [
+            "There can be no doubt that the passage in Isaiah had a principal reference to the Messiah. Our Saviour directly applies it to himself, and it is not easily applicable to any other prophet.",
+            "The Son of God is called the 'Messiah,' a Hebrew word signifying the 'Anointed,' or the 'Christ,' a Greek word signifying the same thing.",
+            "By the 'poor' are meant all those who are destitute of the comforts of this life, and who therefore may be more readily disposed to seek treasures in heaven; all those who are sensible of their sins, or are poor in spirit."
+        ],
+        "Marvin Vincent": [
+            "To heal the broken hearted.\" The best texts omit. So Rev.",
+            "To the captives [\u03b1\u03b9\u03c7\u03bc\u03b1\u03bb\u03c9\u03c4\u03bf\u03b9\u03c2] . From aijcmh, a spear point, and aJliskomai, to be taken or conquered. Hence, properly, of prisoners of war.",
+            "To set at liberty [\u03b1\u03c0\u03bf\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03b9] . Lit., to send away in discharge. Inserted from the Sept. of Isaiah 58:6. See on chapter Luke 3:3, and James 5:15."
+        ],
+        "John Calvin": [
+            "Christ does not act by human authority or in a private capacity, but has been sent by God to restore salvation to his Church.",
+            "Those, who are sent by God to preach the Gospel, are previously furnished with necessary gifts, to qualify them for so important an office.",
+            "We were altogether overwhelmed by every kind of evils: but there God cheers us by his life-giving light, to rescue us from the deep abyss of death, and to restore us to complete happiness."
+        ],
+        "Philip Schaff": [
+            "The words 'to heal the broken hearted' were inserted by the early transcribers, to conform to the original passage.",
+            "The meaning of this prophetic citation may be better seen, when we remember that it stands in the middle of the third great division of the book of Isaiah (chaps. 49 - 66), that namely, which comprises the prophecies of the person, office, sufferings, triumph, and church of the Messiah; and thus by implication announces the fulfilment of all that went before, in Him who then addressed them.",
+            "Our Lord read what was in the roll, but Luke gives the general drift of the passage."
+        ],
+        "Archibald T. Robertson": [
+            "The Spirit of the Lord is upon me\" as was shown at the baptism... where he was also \"anointed\" for his mission by the Father's voice. (Quote 1)",
+            "Our word Gospel is a translation of the Greek \u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03bf\u03bd, and it is for the poor. (Quote 2)",
+            "Jesus mends them and sets them free from their limitations. (Quote 3)"
+        ],
+        "John Gill": [
+            "To preach the Gospel to the poor",
+            "He hath sent me to heal the broken hearted",
+            "To preach deliverance to the captives"
+        ],
+        "John Wesley": [
+            "He hath anointed me \u2014 With the Spirit. He hath by the power of his Spirit which dwelleth in me, set me apart for these offices.",
+            "How is the doctrine of the ever-blessed trinity interwoven, even in those scriptures where one would least expect it? How clear a declaration of the great Three-One is there in those very words, The Spirit - of the Lord is upon me!",
+            "Here is a beautiful gradation, in comparing the spiritual state of men to the miserable state of those captives, who are not only cast into prison, but, like Zedekiah, had their eyes put out, and were laden and bruised with chains of iron."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Spirit of the Lord is upon me as was shown at the baptism... where he was also anointed for his mission by the Father's voice. Our word Gospel is a translation of the Greek \u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03bf\u03bd, and it is for the poor. Jesus mends them and sets them free from their limitations. The meaning of this prophetic citation may be better seen when we remember that it stands in the middle of the third great division of the book of Isaiah (chaps. 49 - 66), that namely, which comprises the prophecies of the person, office, sufferings, triumph, and church of the Messiah; and thus by implication announces the fulfillment of all that went before, in Him who then addressed them.",
+            "wordCount": 118,
+            "quoteTokenProportion": 44.58,
+            "qualityScore": 1.775187328437724,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                34.76,
+                41.49,
+                23.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Spirit of the Lord is upon me as was shown at the baptism... where he was also anointed for his mission by the Father's voice. Our word Gospel is a translation of the Greek \u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03bf\u03bd, and it is for the poor. Jesus mends them and sets them free from their limitations. The meaning of this prophetic citation may be better seen when we remember that it stands in the middle of the third great division of the book of Isaiah (chaps. 49 - 66), that namely, which comprises the prophecies of the person, office, sufferings, triumph, and church of the Messiah; and thus by implication announces the fulfillment of all that went before, in Him who then addressed them.",
+            "wordCount": 118,
+            "quoteTokenProportion": 44.58,
+            "qualityScore": 1.775187328437724,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                34.76,
+                41.49,
+                23.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit of the Lord is upon me as was shown at the baptism by the Father's voice. The Gospel is for the poor, as Jesus mends and sets them free. This prophetic citation, in the middle of Isaiah's prophecies about the Messiah, announces the fulfillment of all that went before, in Him who then addressed them.",
+            "wordCount": 59,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.8925012734382547,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                33.65,
+                38.64,
+                27.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Spirit of the Lord is upon me as was shown at the baptism, where he was anointed for his mission. Gospel is for the poor. Jesus mends and sets them free. This prophetic citation, in Isaiah's prophecies about the Messiah, announces the fulfillment of all that went before, in Him who then addressed them.",
+            "wordCount": 56,
+            "quoteTokenProportion": 51.11,
+            "qualityScore": 1.7472150303441167,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                33.61,
+                35.66,
+                30.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Spirit of the Lord is upon me as was shown at the baptism, where he was also anointed for his mission by the Father's voice. Our word Gospel is a translation of the Greek \u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03bf\u03bd, and it is for the poor. Jesus mends them and sets them free from their limitations. The Son of God is called the 'Messiah,' a Hebrew word signifying the 'Anointed,' or the 'Christ,' a Greek word signifying the same thing. By the 'poor' are meant all those who are destitute of the comforts of this life, and who therefore may be more readily disposed to seek treasures in heaven; all those who are sensible of their sins, or are poor in spirit. The meaning of this prophetic citation may be better seen when we remember that it stands in the middle of the third great division of the book of Isaiah which comprises the prophecies of the person, office, sufferings, triumph, and church of the Messiah, and thus by implication announces the fulfillment of all that went before, in Him who then addressed them.",
+            "wordCount": 181,
+            "quoteTokenProportion": 40.57,
+            "qualityScore": 1.9650592087216305,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.68,
+            "commentatorTierSimilarities": [
+                31.53,
+                44.45,
+                24.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

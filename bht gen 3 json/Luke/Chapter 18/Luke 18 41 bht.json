@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:21:31",
+    "verseRef": "Luke 18:41",
+    "bestBHT": {
+        "bht": "As Jesus passed by, a blind man cried out, Lord, what wilt thou do unto me? Jesus, desiring to deepen the man's consciousness of need and test his faith, asked, What wilt thou that I should do unto thee? The blind man, confidently exclaiming Lord 'Rabboni', requested, that I may receive my sight. He believed in the power and ability of Jesus, the son of David, to restore his vision, demonstrating his unwavering trust in Him.",
+        "wordCount": 77,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.3684927878494118,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.85,
+        "commentatorTierSimilarities": [
+            37.31,
+            0.0,
+            62.69
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "What wilt thou, c.\u2014to try them to deepen their present consciousness of need; and to draw out their faith in Him.",
+            "Lord 'Rabboni' ( :-); an emphatic and confiding exclamation.",
+            "(See on :-.)"
+        ],
+        "Archibald T. Robertson": [
+            "What wilt thou that I should do unto thee?",
+            "Same idiom in Mark 10:51; Matthew 20:32 which see, the use of \u03b8\u03b5\u03bb\u03c9 without \u03b9\u03bd\u03b1 with aorist subjunctive (or future indicative).",
+            "Three uses of \u03b1\u03bd\u03b1\u03b2\u03bb\u03b5\u03c0\u03c9 here (verses Luke 18:41; Luke 18:42; Luke 18:43)."
+        ],
+        "John Gill": [
+            "Saying, what wilt thou that I shall do unto thee?.... Is it alms thou askest? or is it thy sight thou wouldst have restored?",
+            "Lord, that I may receive my sight; this he chose, this was his request...",
+            "...and which he believed Christ, the son of David, was able to do for him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus passed by, a blind man cried out, Lord, what wilt thou do unto me? The man's desperation and faith are evident in his heartfelt exclamation. Jesus, recognizing his need, posed the question, urging the man to articulate his desires and to strengthen his trust in Him. The blind man, knowing that Jesus was the Son of David and believing in His power, replied, Lord, that I may receive my sight. He specifically sought healing, firmly believing that Jesus had the ability to grant him this miracle.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.1649484827304009,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.08,
+            "commentatorTierSimilarities": [
+                36.0,
+                0.0,
+                64.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus passed by, a blind man cried out, Lord, what wilt thou do unto me? Jesus wanted to deepen the man's awareness of his need and to draw out his faith, so He asked, What wilt thou that I should do unto thee? The blind man, recognizing Jesus' authority as the Son of David and trusting in His power, fervently requested, Lord, that I may receive my sight. His plea was born out of a firm conviction that Jesus had the ability to restore his vision.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.3606364366330963,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.58,
+            "commentatorTierSimilarities": [
+                35.71,
+                0.0,
+                64.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus passed by, a blind man cried out, What wilt thou, Lord? The man's plea reflected both his desperate need and his unwavering trust in Jesus. Jesus, in His compassion, sought to deepen the man's awareness of his need and to elicit his faith. He asked, What wilt thou that I should do unto thee? In response, the blind man fervently requested, Lord, that I may receive my sight. He believed with unwavering conviction that Jesus, the Son of David, had the power to grant him his sight.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.2439597889082075,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.71,
+            "commentatorTierSimilarities": [
+                35.71,
+                0.0,
+                64.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus passed by, a blind man cried out, Lord, what wilt thou do unto me? Jesus wanted to deepen the man's awareness of his need and to draw out his faith, so He asked, What wilt thou that I should do unto thee? The blind man, recognizing Jesus' authority as the Son of David and trusting in His power, fervently requested, Lord, that I may receive my sight. His plea was born out of a firm conviction that Jesus had the ability to restore his vision.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.3606364366330963,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.58,
+            "commentatorTierSimilarities": [
+                35.71,
+                0.0,
+                64.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus passed by, a blind man cried out, Lord, what wilt thou do unto me? Jesus, desiring to deepen the man's consciousness of need and test his faith, asked, What wilt thou that I should do unto thee? The blind man, confidently exclaiming Lord 'Rabboni', requested, that I may receive my sight. He believed in the power and ability of Jesus, the son of David, to restore his vision, demonstrating his unwavering trust in Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.3684927878494118,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.85,
+            "commentatorTierSimilarities": [
+                37.31,
+                0.0,
+                62.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

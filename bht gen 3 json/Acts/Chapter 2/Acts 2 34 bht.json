@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:25:17",
+    "verseRef": "Acts 2:34",
+    "bestBHT": {
+        "bht": "The exaltation of Christ is evident from the prophecy which states that David himself is not ascended into the heavens. Instead, it is Christ who sits at God's right hand, the highest honor. St. Peter appeals to the Scriptures, emphasizing that this Messianic reference is constantly quoted. The fulfillment of these words can only be found in Christ, reinforcing his divine identity and positioning him as the victorious ruler over His enemies.",
+        "wordCount": 73,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.6863854112439813,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.41,
+        "commentatorTierSimilarities": [
+            53.13,
+            0.0,
+            46.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This exaltation of Christ is also proved from prophecy.",
+            "For David himself is not ascended into the heavens.",
+            "BUT he himself says, removing all doubt on the subject, &c."
+        ],
+        "Marvin Vincent": [
+            "Is not ascended [\u03bf\u03c5 \u03b1\u03bd\u03b5\u03b2\u03b7] . Aorist, did not ascend."
+        ],
+        "John Calvin": [
+            "David pronounceth that it was decreed by God that a king should sit at his right hand. But this doth not appertain unto David, who was never extolled unto so great dignity. Therefore lie speaketh this of Christ.\" ",
+            "He took not the honor to himself rashly, but did only obey God when he commanded him.",
+            "Surely, although I grant that the name of such an honorable sitting may be applied unto earthly lordship: yet do I deny that David did reign until such time as all his enemies were subdued."
+        ],
+        "Archibald T. Robertson": [
+            "For not David ascended into the heavens.\" ",
+            "No passage in the O.T. is so constantly quoted as Messianic as this.\" ",
+            "St. Peter does not demand belief upon his own assertion, but he again appeals to the Scriptures, and to words which could not have received a fulfillment in the case of David."
+        ],
+        "John Gill": [
+            "David is not ascended into the heavens... though in his soul he was ascended to heaven.\" ",
+            "His Spirit had returned to God that gave it, and was among the spirits of just men made perfect.\" ",
+            "The Lord said unto my Lord, sit thou on my right hand."
+        ],
+        "John Wesley": [
+            "Sit thou on my right hand.\" ",
+            "The highest honour.",
+            "Tread on the necks of their vanquished enemies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 2:34, the exaltation of Christ is proven through prophecy. It is clear that David did not ascend into the heavens, but instead, it is Christ that fulfills the words of Scripture. St. Peter appeals to the Scriptures, emphasizing that this passage is constantly quoted as Messianic. The sitting at the right hand of God signifies a position of highest honor and authority, where Christ reigns and triumphantly treads upon the necks of His vanquished enemies, as decreed by God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.7100290105346252,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                55.7,
+                0.0,
+                44.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The exaltation of Christ as the fulfillment of prophecy is evident in Acts 2:34. David did not ascend into the heavens, but it is Christ who sits at the right hand of God. This position of authority and honor symbolizes His triumph over His enemies, as foretold in the Scriptures. St. Peter emphasizes the Messianic nature of this passage, appealing to the words that find their fulfillment in Christ alone.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.573486068793137,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                54.36,
+                0.0,
+                45.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The exaltation of Christ is clearly proven from prophecy as it is stated in Acts 2:34 that David did not ascend into the heavens. Instead, it is Christ who sits at God's right hand, a position of highest honor and authority. St. Peter, in validating this truth, appeals to the Scriptures and highlights the Messianic significance of these words. It is evident that the fulfillment of these prophecies could only apply to Christ, further reinforcing his divine identity and the supremacy of his reign.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.5691444357311308,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "commentatorTierSimilarities": [
+                55.46,
+                0.0,
+                44.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The exaltation of Christ is proven from prophecy in Acts 2:34. David did not ascend into the heavens, but it is Christ who sits at God's right hand, as stated, The Lord said unto my Lord, sit thou on my right hand. This position signifies the highest honor and authority. St. Peter appeals to the Scriptures, emphasizing that this passage is constantly quoted as Messianic. It is clear that these words find their fulfillment in Christ alone.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.4335144015657986,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.01,
+            "commentatorTierSimilarities": [
+                52.47,
+                0.0,
+                47.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The exaltation of Christ is evident from the prophecy which states that David himself is not ascended into the heavens. Instead, it is Christ who sits at God's right hand, the highest honor. St. Peter appeals to the Scriptures, emphasizing that this Messianic reference is constantly quoted. The fulfillment of these words can only be found in Christ, reinforcing his divine identity and positioning him as the victorious ruler over His enemies.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6863854112439813,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.41,
+            "commentatorTierSimilarities": [
+                53.13,
+                0.0,
+                46.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

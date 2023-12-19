@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:35",
+    "verseRef": "1 Peter 3:7",
+    "bestBHT": {
+        "bht": "In marriage, honor is due to both husband and wife as vessels in God's hand. Wise consideration and tenderness are required, with husbands appreciating the due relation of the sexes. Wives, as the weaker vessel, deserve special kindness and honor as fellow heirs of the grace of life. By recognizing each other's weaknesses and dwelling together in knowledge, husbands and wives can foster a harmonious and prayerful home. Avoiding contempt and cultivating love and respect are essential in maintaining a strong and fulfilling marital relationship.",
+        "wordCount": 87,
+        "quoteTokenProportion": 27.42,
+        "qualityScore": 2.4078080177832284,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.4,
+        "commentatorTierSimilarities": [
+            39.31,
+            33.14,
+            27.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is a certain honour due to the wife, as to the husband and the master before.",
+            "Consideration for the wife, as of the weaker sex: 2) honour for the wife, as a fellow-heir of the grace of life.",
+            "The hindrance meant seems to be, that which would be occasioned by the man not giving his wife proper honour as a fellow-heir of the grace of life; in which case the peculiar promise of advantage in social united prayer would be lost."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Appreciating the due relation of the sexes in the design of God, and acting with tenderness and forbearance accordingly: wisely: with wise consideration.",
+            "Both husband and wife are vessels in God's hand, and of God's making, to fulfill his gracious purposes. Both weak, the woman the weaker. The sense of his own weakness, and that she, like himself, is God's vessel and fabric, ought to lead him to act with tender and wise consideration towards her who is the weaker fabric.",
+            "The reason why the man should give honor to the woman is because God gives honor to both as fellow heirs; compare the same argument."
+        ],
+        "Albert Barnes": [
+            "She is to be treated with special kindness as being more feeble than man, and as having a claim therefore to delicate attention; and she is to be honored as the equal heir of the grace of life.",
+            "By this it is not necessarily meant that she is of feebler capacity, or inferior mental endowments, but that she is more tender and delicate; more subject to infirmities and weaknesses; less capable of enduring fatigue and toil; less adapted to the rough and stormy scenes of life.",
+            "This single truth would raise the female sex everywhere from degradation, and check at once half the social evils of the race. Make her the equal of man in the hope of heaven, and at once she rises to her appropriate place."
+        ],
+        "Marvin Vincent": [
+            "With an intelligent recognition of the nature of the marriage relation.",
+            "The female vessel as weaker.",
+            "The husband as controlling what is to be meted out to the wife."
+        ],
+        "John Calvin": [
+            "And doubtless many foolish things must be endured by them, many unpleasant things must be borne with; and they must at the same time beware lest their indulgence should foster folly.\" ",
+            "For nothing destroys the friendship of life more than contempt; nor can we really love any but those whom we esteem; for love must be connected with respect.",
+            "Then as this reason ought to restrain all domestic quarrels and strifes, in order that each one of the family may pray to God; so in common life it ought to be as it were a bridle to check all contentions."
+        ],
+        "Philip Schaff": [
+            "There is a submission which husbands, notwithstanding that the man is the head of the woman, have to yield, not less than wives, to the idea and object of the married state as one form of the \u2018every ordinance of man.\u2019\" ",
+            "If the home life is to be regulated so as to be \u2018according to knowledge,\u2019 there must be a considerate recognition of the natural weakness of the woman, and a readiness to give her the honourable regard which is due to her as the husband\u2019s associate in life and in grace.",
+            "The recognition of another as having the same place as ourselves in God\u2019s offer of grace, above all if that other has the sacred name of wife, should teach us to yield the honour which has been enjoined."
+        ],
+        "Archibald T. Robertson": [
+            "With an intelligent recognition of the nature of the marriage relation.",
+            "Giving honour unto the woman as unto the weaker vessel.",
+            "In the eyes of God the wife may be superior to the husband, not merely equal."
+        ],
+        "John Gill": [
+            "But as being heirs together of the grace of life; not of a natural life, and the good things of it; though husbands and wives partake of the same kind of life, and have a right unto, and share in the same necessaries of life; so Adam and Eve were partakers of the same life, and sharers of the same benefits; and which is a reason indeed why they ought to live lovingly together.",
+            "Now all the saints, of whatever state, condition, or sex, are equally heirs of this inheritance; for there is but one inheritance, one kingdom, one crown of glory, which all shall enjoy; and whatever disparity there may be, particularly between husband and wife, in their natural relation, there is none in the things of grace, and with regard to the kingdom of glory.",
+            "From hence we may observe, that family prayer is a duty incumbent on professors of religion, and great care should be taken that it be not neglected and hindered."
+        ],
+        "John Wesley": [
+            "Dwell with the woman according to knowledge \u2014 Knowing they are weak, and therefore to be used with all tenderness.",
+            "Yet do not despise them for this, but give them honour - Both in heart, in word, and in action.",
+            "Anything at which we are angry is never more apt to come into our mind than when we are at prayer; and those who do not forgive will find no forgiveness from God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us of the honor that is due to both husbands and wives, as vessels in God's hand, to fulfill His gracious purposes. While the husband is called to appreciate the due relation of the sexes and act with tenderness and forbearance, the wife should be treated with special kindness and honored as an equal heir of the grace of life. This recognition of each other as co-heirs should lead to wise consideration and the fulfillment of marital duties, avoiding contempt and fostering love and respect. By dwelling with one another according to knowledge, with an understanding of each other's weaknesses, and by practicing forgiveness, husbands and wives can create a harmonious and prayerful home life.",
+            "wordCount": 121,
+            "quoteTokenProportion": 31.65,
+            "qualityScore": 2.533161367243923,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.57,
+            "commentatorTierSimilarities": [
+                36.04,
+                36.31,
+                27.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Husbands and wives are vessels in God's hand, fulfilling His purposes. The husband should appreciate the due relation of the sexes and act with tenderness. The wife, as the weaker vessel, deserves special kindness and honor as an equal heir of the grace of life. Treating each other with wise consideration, avoiding contempt, and fostering love and respect is key. Recognizing each other's weaknesses, dwelling together in knowledge, and practicing forgiveness create a harmonious and prayerful home.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.248041901438092,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.09,
+            "commentatorTierSimilarities": [
+                39.03,
+                33.37,
+                27.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In marriage, honor is due to both husband and wife as vessels in God's hand. Wise consideration and tenderness are required, with husbands appreciating the due relation of the sexes. Wives, as the weaker vessel, deserve special kindness and honor as fellow heirs of the grace of life. By recognizing each other's weaknesses and dwelling together in knowledge, husbands and wives can foster a harmonious and prayerful home. Avoiding contempt and cultivating love and respect are essential in maintaining a strong and fulfilling marital relationship.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 2.4078080177832284,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.4,
+            "commentatorTierSimilarities": [
+                39.31,
+                33.14,
+                27.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In marriage, honor is due to both husbands and wives as vessels in God's hand. Husbands are called to appreciate the due relation of the sexes and act with tenderness, while wives should be treated with special kindness and honor as equal heirs of the grace of life. Wise consideration, recognizing each other's weaknesses, and dwelling together in knowledge are key to fostering a harmonious home. Avoiding contempt and cultivating love and respect are essential for a strong and fulfilling marital relationship.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.3407416566027646,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.17,
+            "commentatorTierSimilarities": [
+                37.24,
+                33.74,
+                29.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In marriage, honor is owed to both husband and wife as vessels in God's hand. Husbands should appreciate the due relation of the sexes, acting with tenderness, while wives, as the weaker vessel, deserve special kindness and honor as equal heirs of the grace of life. Wise consideration, recognizing weaknesses, and dwelling together in knowledge foster a harmonious home. Avoiding contempt, cultivating love and respect, ensures a strong, fulfilling marriage.",
+            "wordCount": 71,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.377394822027086,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.39,
+            "commentatorTierSimilarities": [
+                38.71,
+                33.65,
+                27.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

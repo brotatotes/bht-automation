@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:32:16",
+    "verseRef": "Acts 16:12",
+    "bestBHT": {
+        "bht": "In this historical setting, Philippi emerges as a significant Roman colony, commemorating Augustus' victory over Brutus and Cassius. Functioning as a miniature Rome, it had its own government and enjoyed the privileges of Roman citizenship. Situated along the Egnatian Way, a major Roman road, Philippi held a prominent position in Macedonia. Its historical fame stemmed from the decisive battle between Augustus and Antony against Brutus and Cassius. Such insights deepen our understanding of the backdrop surrounding Paul's visit to Philippi.",
+        "wordCount": 81,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.8550930853144416,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+        "commentatorTierSimilarities": [
+            30.28,
+            41.61,
+            28.11
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Philippi was made a colonia by Augustus, as a memorial of his victory over Brutus and Cassius, and as a frontier garrison against Thrace.\" (86 words)",
+            "A Roman colony was in fact a portion of Rome itself transplanted to the provinces... They were governed by their own senate and magistrates.\" (45 words)",
+            "The population of such places came in process of time to be of a mixed character: but only the descendants of the original colonists by Roman wives, or women of a people possessing the citizenship, were Roman citizens.\" (45 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their whole stay must have extended to some weeks.",
+            "As their rule was to begin with the Jews and proselytes, they did nothing till the time when they knew that they would convene for worship.",
+            "waiting till the sabbath came round"
+        ],
+        "Albert Barnes": [
+            "To the church in this place Paul afterward wrote the Epistle which bears its name.",
+            "It has been proposed, therefore, to alter the Greek text in accordance with this, since it is known that Amphipolis was made the chief city by Paulus Aemilius. But it may be remarked that, although Amphipolis was the chief city in the time of Paulus Aemilius, it may have happened that in the lapse of 220 years from that time Philippi might have become the most extensive and splendid city.",
+            "The word denotes 'a city or province' which was planted or occupied by Roman citizens."
+        ],
+        "Marvin Vincent": [
+            "The historical difference between a colony and a free town is, that the free towns were taken into the state from without, while the colonies were offshoots from within.",
+            "The idea of a colony was, that it was another Rome transferred to the soil of another country.",
+            "The affairs of the colony were regulated by their own magistrates named Dumviri, who took pride in calling themselves by the Roman title of praetors."
+        ],
+        "Philip Schaff": [
+            "Philippi became known in history as the scene of the decisive battle in which Brutus and Cassius were defeated by Augustus and Antony.",
+            "A Roman colony was a miniature resemblance of the Imperial City, a portion of Rome itself transplanted to the provinces.",
+            "Such a city being a colony had received the additional privilege of the \u2018Jus Italicum,\u2019 which assimilated the land to Italy."
+        ],
+        "Archibald T. Robertson": [
+            "He was a new Alexander, come from Asia to conquer Europe for Christ, a new Caesar to build the Kingdom of Christ on the work of Alexander and Caesar.",
+            "Philippi was on the Egnatian Way, one of the great Roman roads, that ran from here to Dyrrachium on the shores of the Adriatic, a road that linked the east with the west.",
+            "It was certainly a leading city of this district of Macedonia."
+        ],
+        "John Gill": [
+            "This place is by Appianus called Datos, which was its original name; and by Diodorus Siculus, Crenidae, from the fountains of water, which were many and wholesome, that were about it.",
+            "It is now vulgarly called Chrixopolis, that is, Chrysopolis, from the veins and mines of gold found about it.",
+            "It was famous for a battle here fought between Augustus Caesar and Anthony on the one side, and Brutus and Cassius on the other, in which the latter were vanquished."
+        ],
+        "John Wesley": [
+            "Neapolis was the first city they came to in that part of Macedonia which was nearest to Asia.",
+            "In that part which was farthest from it, Philippi.",
+            "Philippi was a Roman colony."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this particular verse, we learn about the historical and cultural context of Philippi. Philippi was a Roman colony, established by Augustus to commemorate his victory over Brutus and Cassius. As a colony, it functioned as a portion of Rome itself in the provinces, with its own senate and magistrates. Only the descendants of the original colonists by Roman wives or women with Roman citizenship held Roman citizenship. Philippi was strategically located on the Egnatian Way, a major Roman road linking the east and west. It was a leading city in the region of Macedonia and known for its historical significance, including the battle between Augustus and Antony against Brutus and Cassius. By understanding these details, we gain a deeper appreciation of how the Apostle Paul's visit to Philippi was situated within the larger historical and political landscape of the time.",
+            "wordCount": 142,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.95824751209551,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+            "commentatorTierSimilarities": [
+                31.54,
+                40.07,
+                28.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this particular passage, we gain insight into the significance of Philippi as a Roman colony. Philippi served as a memorial to Augustus' victory over Brutus and Cassius and as a frontier garrison against Thrace. It was a miniature resemblance of Rome itself, with its own senate and magistrates. Located on the influential Egnatian Way, Philippi was a leading city in Macedonia and held historical importance from the battle between Augustus and Antony against Brutus and Cassius. Understanding the Roman colony's context enriches our understanding of Paul's visit to Philippi.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0270244191698827,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                30.53,
+                41.09,
+                28.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this particular historical context, we discover the significance of Philippi as a Roman colony. Established by Augustus to commemorate his victory, it functioned as a miniature version of Rome, complete with its own government. Philippi's strategic location on the Egnatian Way, a major Roman road, contributed to its prominence as a leading city in Macedonia. Additionally, it gained historical fame from the battle between Augustus and Antony against Brutus and Cassius. This understanding enhances our appreciation of the events surrounding Paul's visit to Philippi.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8531606162235037,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                29.08,
+                42.7,
+                28.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this historical setting, Philippi emerges as a significant Roman colony, commemorating Augustus' victory over Brutus and Cassius. Functioning as a miniature Rome, it had its own government and enjoyed the privileges of Roman citizenship. Situated along the Egnatian Way, a major Roman road, Philippi held a prominent position in Macedonia. Its historical fame stemmed from the decisive battle between Augustus and Antony against Brutus and Cassius. Such insights deepen our understanding of the backdrop surrounding Paul's visit to Philippi.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8550930853144416,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.02,
+            "commentatorTierSimilarities": [
+                30.28,
+                41.61,
+                28.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this particular historical context, we discover the significance of Philippi as a Roman colony. Established by Augustus to commemorate his victory, it functioned as a miniature version of Rome, complete with its own government. Philippi's strategic location on the Egnatian Way, a major Roman road, contributed to its prominence as a leading city in Macedonia. Additionally, it gained historical fame from the battle between Augustus and Antony against Brutus and Cassius. This understanding enhances our appreciation of the events surrounding Paul's visit to Philippi.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8531606162235037,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                29.08,
+                42.7,
+                28.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

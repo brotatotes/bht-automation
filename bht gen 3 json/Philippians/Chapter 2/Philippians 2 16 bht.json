@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 13:53:04",
+    "verseRef": "Philippians 2:16",
+    "bestBHT": {
+        "bht": "Believers are called to be like heavenly luminaries, holding forth the light of Christ's word. Christians are the light of the world, reflecting the light from Christ and shining in the darkness where it is needed. By holding fast to the word of life and making it known to others, believers bring glory and joy to those who labor for their spiritual growth. Their exemplary piety and holy lives will be a source of rejoicing for ministers in the day of judgment, as they see the victories won for Christ through their labors.",
+        "wordCount": 94,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.8364419288693794,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+        "commentatorTierSimilarities": [
+            29.44,
+            37.53,
+            33.03
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "As the heavenly luminaries' light is closely connected with the life of animals, so ye hold forth the light of Christ's 'word' (received from me) which is the 'life' of the Gentiles.",
+            "Christ is 'the Light of the world'; believers are only 'light-bearers' reflecting His light.",
+            "That I have not run in vain\u2014that it was not in vain that I labored for your spiritual good."
+        ],
+        "Albert Barnes": [
+            "The duty here enjoined is that of making the gospel known to others, and of thus keeping up the knowledge of it in the world.",
+            "The exhortation here is not made to the pastor, or to any officer of the church particularly; but to the mass of communicants. They are to shine as lights in the world; they are to hold forth the word of life.",
+            "The exemplary piety and holy lives of the members of a church will be one of the sources of highest joy to a minister in the day of judgment."
+        ],
+        "Marvin Vincent": [
+            "The verb means literally to hold upon or apply. Hence to fix attention upon.",
+            "In classical Greek, to hold out, present, as to offer wine to a guest or the breast to an infant.",
+            "Lit., for a cause of glorying unto me."
+        ],
+        "John Calvin": [
+            "We are said, however, to carry the word of life in such a way as to be, in the mean time, carried by it, inasmuch as we are founded upon it.",
+            "All that are enlightened with heavenly doctrine carry about with them a light, which detects and discovers their crimes, if they do not walk in holiness and chastity.",
+            "The greater the exploits, the triumph will be the more splendid."
+        ],
+        "Philip Schaff": [
+            "Holding forth the word of life...showing itself in its effects, or preached by His messengers.",
+            "It is used in no sense of boasting over his own work, but in a sense of exultation over the victories won for Christ.",
+            "The word implies labour of great difficulty, and weariness, and is constantly applied by St. Paul to the toils...in their missionary journeys."
+        ],
+        "Archibald T. Robertson": [
+            "Christians are the light of the world as they reflect the light from Christ, but here the word is not light, but luminaries, stars. The place for light is the darkness where it is needed.",
+            "The old meaning of the verb \u03b5\u03c0\u03b5\u03c7\u03c9 is to hold forth or to hold out (the word of life as here). The context seems to call for 'holding fast.'",
+            "Ethical dative, 'to me as a ground of boasting.'"
+        ],
+        "John Gill": [
+            "By the Gospel, life and immortality are brought to light; that gives an account of everlasting life; points out Christ as the way to it, shows that meetness for it lies in regenerating grace, and a right unto it is in the righteousness of Christ.",
+            "He expresses his ministerial function, and the discharge of it, by running in a race... and it was enough for our apostle, and a crown of rejoicing to him, that his spiritual children walked in the truth, and as became it, to the end.",
+            "He could look back upon it with pleasure, when his followers stood fast in the faith, and adorned the doctrine of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers are called to be like heavenly luminaries, holding forth the light of Christ's word. Just as the light of the sun and the moon is connected to the life of animals, so believers hold forth the light of Christ which brings life to the Gentiles. Christians are the light of the world, reflecting the light from Christ and shining in the darkness where it is needed. By holding fast to the word of life and making it known to others, believers bring glory and joy to those who labor for their spiritual growth. Their exemplary piety and holy lives will be a source of rejoicing for ministers in the day of judgment, as they see the victories won for Christ through their labors.",
+            "wordCount": 125,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.8449627657719099,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.69,
+            "commentatorTierSimilarities": [
+                31.36,
+                35.9,
+                32.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are called to hold forth the light of Christ's word, reflecting His light as luminaries in the world. By making the gospel known and shining as lights, they bring life and hope to those in darkness. This duty is not limited to church leaders, but extends to all members. By holding fast to the word of life and living holy lives, they bring glory and joy to those who labor for their spiritual growth. Ministers rejoice when their followers walk in the truth and adorn the doctrine of Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.7180192018335383,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                25.79,
+                38.76,
+                35.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are called to be like heavenly luminaries, holding forth the light of Christ's word. Christians are the light of the world, reflecting the light from Christ and shining in the darkness where it is needed. By holding fast to the word of life and making it known to others, believers bring glory and joy to those who labor for their spiritual growth. Their exemplary piety and holy lives will be a source of rejoicing for ministers in the day of judgment, as they see the victories won for Christ through their labors.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8364419288693794,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                29.44,
+                37.53,
+                33.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are called to hold forth the light of Christ's word, reflecting His light as luminaries in the world. By making the gospel known and shining as lights, they bring life and hope to those in darkness. This duty is not limited to church leaders, but extends to all members. By holding fast to the word of life and living holy lives, they bring glory and joy to those who labor for their spiritual growth. Ministers rejoice when their followers walk in the truth and adorn the doctrine of Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.7180192018335383,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                25.79,
+                38.76,
+                35.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are called to hold forth the word of life, reflecting Christ's light as luminaries in the world. Christians are the light-bearers, shining in the darkness and ministering to the Gentiles. By holding fast to the word of life and making it known to others, believers bring glory to those who labor for their spiritual good. Their exemplary lives and the victories won for Christ through their labors will be a source of joy and rejoicing for ministers.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8019467560359304,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "commentatorTierSimilarities": [
+                28.65,
+                39.4,
+                31.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

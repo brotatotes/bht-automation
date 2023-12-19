@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:30:46",
+    "verseRef": "Acts 13:17",
+    "bestBHT": {
+        "bht": "It is evident that all believers in Christ were the true children of Abraham, fully matured already. By the words this people he alludes to the time when God was the God of the Jews only, uniting all present in the now extended inheritance of the promises made to the fathers. The chosen people of Israel were exalted and the Eternal chose them to keep burning the light of the knowledge of the one true, pure God. With a high arm, He brought them out of the land of Egypt, displaying His mighty power and great strength.",
+        "wordCount": 97,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.9408980403110838,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+        "commentatorTierSimilarities": [
+            33.14,
+            28.94,
+            37.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is evident that the doctrine so much insisted on afterwards by St. Paul, that all believers in Christ were the true children of Abraham, was fully matured already.",
+            "By the words this people he alludes to the time when God was the God of the Jews only: by this us he unites all present in the now extended inheritance of the promises made to the fathers.",
+            "Evidently an allusion to Isa. i. 2, where the word is also used in the sense of \u2018bringing up,\u2019 nourishing to manhood."
+        ],
+        "Albert Barnes": [
+            "The God of this people - Who has manifested himself as the special friend and protector of this nation.",
+            "They were always strangers there in a strange land. It was not their home. They never mingled with the people; never became constituent parts of the government; never used their language; never united with their usages and laws.",
+            "The arm denotes 'strength,' as that by which we perform anything. A high arm, an arm lifted up, or stretched out, denotes that 'strength exerted to the utmost.'"
+        ],
+        "Marvin Vincent": [
+            "People [\u03bb\u03b1\u03bf\u03c5] . Restricted in the Acts to the people of Israel."
+        ],
+        "John Calvin": [
+            "There is but one God, who is God of all nations; but he calleth him God of that people, to whom he had bound himself, and who was worshipped amongst the posterity of Abraham, amongst whom alone true and pure religion was to be found.",
+            "For how came it to pass that only the children of Abraham were the Church and inheritance of God, save only because it pleased God to dissever them from other nations? For there was no worthiness to distinguish them; but the difference began at the love of God, wherewith he did freely love Abraham.",
+            "This is the fountain and root of all good things whereunto Paul calleth us, that God chose the fathers. This was the reason and cause which moved God to so great patience, that he would not cast off that rebellious people, who should otherwise have destroyed themselves a thousand times with their own wickedness."
+        ],
+        "Philip Schaff": [
+            "The Eternal chose Israel out of the various peoples of the world for \u2018His own,\u2019 to keep burning, in the midst of the varied populations given up to idolatry, and exposed to the terrible consequences which followed impure idol- worship, the light of the knowledge of the one true, pure God.\" ",
+            "The special work of Israel was not what is usually termed human learning, nor were the schools of Jerusalem and the Holy Land at any period resorted to by foreigners, and yet the Hebrew nation ranks with the Greeks as educators of the human race.",
+            "The expression \u2018high arm\u2019 is the same used in Exodus 6:6 (LXX.), rendered in the English Version \u2018with stretched-out arm.\u2019 The figure was probably originally suggested to Moses and the children of Israel by the familiar hieroglyphic which represents \u2018Might\u2019 by two outstretched arms."
+        ],
+        "Archibald T. Robertson": [
+            "Israel was the chosen people.",
+            "Exalted... often used of Christ.",
+            "Vivid picture from the LXX."
+        ],
+        "John Gill": [
+            "The God of this people of Israel chose our fathers....to be a peculiar people to himself.\" ",
+            "And with an high arm he brought them out of it out of the land of Egypt.",
+            "which was owing to, and was a wonderful display of his mighty power and great strength."
+        ],
+        "John Wesley": [
+            "By such a commemoration of God's favours to their fathers, at once their minds were conciliated to the speaker, they were convinced of their duty to God, and invited to believe his promise.",
+            "And this exalted the people; not any merit or goodness of their own.",
+            "Abraham and his posterity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is evident that the doctrine so much insisted on afterwards by St. Paul, that all believers in Christ were the true children of Abraham, was fully matured already. By the words this people he alludes to the time when God was the God of the Jews only: by this us he unites all present in the now extended inheritance of the promises made to the fathers. Israel was the chosen people and the vivid picture from the LXX portrays them as exalted. The Eternal chose Israel out of the various peoples of the world for His own, to keep burning the light of the knowledge of the one true, pure God. The God of this people of Israel chose our fathers...to be a peculiar people to himself, and with a high arm he brought them out of the land of Egypt, which was owing to his mighty power and great strength.",
+            "wordCount": 153,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.154055303114534,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.96,
+            "commentatorTierSimilarities": [
+                35.7,
+                29.59,
+                34.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is evident that all believers in Christ were the true children of Abraham, fully matured already. By the words this people he alludes to the time when God was the God of the Jews only, uniting all present in the now extended inheritance of the promises made to the fathers. The chosen people of Israel were exalted and the Eternal chose them to keep burning the light of the knowledge of the one true, pure God. With a high arm, He brought them out of the land of Egypt, displaying His mighty power and great strength.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9408980403110838,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                33.14,
+                28.94,
+                37.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is evident that all believers in Christ were fully matured as the true children of Abraham. By the words this people and this us, he unites all present in the extended inheritance of the promises made to the fathers. The chosen people of Israel were exalted and the Eternal chose them to keep burning the knowledge of the one true, pure God. With a high arm, He brought them out of Egypt, displaying His mighty power and great strength.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8324075330182055,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                32.5,
+                28.06,
+                39.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is evident that the doctrine so much insisted on afterwards by St. Paul, that all believers in Christ were the true children of Abraham, was fully matured already. By the words this people he alludes to the time when God was the God of the Jews only: by this us he unites all present in the now extended inheritance of the promises made to the fathers. Israel was the chosen people and the vivid picture from the LXX portrays them as exalted. The Eternal chose Israel out of the various peoples of the world for His own, to keep burning the light of the knowledge of the one true, pure God. The God of this people of Israel chose our fathers...to be a peculiar people to himself, and with a high arm he brought them out of the land of Egypt, which was owing to his mighty power and great strength.",
+            "wordCount": 153,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.154055303114534,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.96,
+            "commentatorTierSimilarities": [
+                35.7,
+                29.59,
+                34.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is evident that the doctrine that all believers in Christ were the true children of Abraham was fully matured already. By the words this people he alludes to the time when God was the God of the Jews only, uniting all present in the extended inheritance of the promises made to the fathers. Israel was the chosen people and the vivid picture from the LXX portrays them as exalted. The Eternal chose Israel to keep burning the knowledge of the one true, pure God. With a high arm, He brought them out of Egypt, displaying His mighty power and great strength.",
+            "wordCount": 102,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9655936961744556,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                36.25,
+                28.4,
+                35.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

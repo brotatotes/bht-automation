@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:30:46",
+    "verseRef": "2 Timothy 2:22",
+    "bestBHT": {
+        "bht": "Flee the youthful desires that can lead astray, for it is wiser to avoid occasions of sin. Instead, pursue righteousness, faith, and love, and strive to be at peace with those who sincerely call on the Lord from a pure heart. By following after these virtues, you can experience the peace that stems from the pursuit of moral and spiritual ends. Remember to be cautious of the lusts peculiar to youth and stay steadfast in your pursuit of these noble virtues.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.2233932435000456,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.27,
+        "commentatorTierSimilarities": [
+            31.57,
+            32.35,
+            36.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Exhortations, taken up again from ver. 16, on the matter of which the intervening verses have been a digression.",
+            "But (so literally: contrast to the hypothesis of the opposite course to that recommended above) follow after righteousness.",
+            "We are to cultivate being at peace with men that call on the Lord out of a pure heart."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There are many lusts from which our greatest safety is in flight.\" ",
+            "Avoid occasions of sin.\" ",
+            "We are to love all men, but it is not possible to be at peace with all men, for this needs community of purpose and opinion; they alone who call on the Lord sincerely have this community."
+        ],
+        "Albert Barnes": [
+            "Flee also youthful lusts - Such passions as youth are subject to.",
+            "But follow righteousness, ... He was to practice all that is good and virtuous.",
+            "With them that call on the Lord out of a pure heart - That is, with all Christians."
+        ],
+        "Marvin Vincent": [
+            "Follow [\u03b4\u03b9\u03c9\u03ba\u03b5] . Pursue. Stronger than follow. A favorite word with Paul to denote the pursuit of moral and spiritual ends.\" ",
+            "Peace [\u03b5\u03b9\u03c1\u03b7\u03bd\u03b7\u03bd] . Not a distinct virtue in the list, but a consequence of the pursuit of the virtues enumerated.",
+            "Out of a pure heart [\u03b5\u03ba \u03ba\u03b1\u03b8\u03b1\u03c1\u03b1\u03c2 \u03ba\u03b1\u03c1\u03b4\u03b9\u03b1\u03c2] . Const. with call on the Lord. The phrase, 1 Timothy 1:5; 1 Peter 1:22. Comp. Matthew 5:8."
+        ],
+        "John Calvin": [
+            "Flee youthful desires.",
+            "With good reason, therefore, does Paul advise Timothy, being a young man, to be strictly on his guard against the vices of youth.",
+            "But follow righteousness...faith and love...peace with all that call on the Lord."
+        ],
+        "Philip Schaff": [
+            "Flee also youthful lusts... include a young man\u2019s vanity or ambition or impressiveness as well.",
+            "Peace, with them... connecting the last words of the verse with the word to which they of right belong."
+        ],
+        "Archibald T. Robertson": [
+            "There are lusts peculiar to flaming youth.",
+            "Flee.",
+            "Steady pursuit of these virtues like those in Galatians 5:22."
+        ],
+        "John Gill": [
+            "Flee also youthful lusts...but such lusts as are apt to prevail with young ministers of the Gospel, such as vain glory, popular applause, seeking to have the pre-eminence, contentions with, and contempt of others, and the like.",
+            "But follow righteousness; the righteousness of Christ; or doing that which is just between man and man, and as one man would choose another should do to him; or rather integrity and faithfulness, in the ministry of the word, without seeking honour from men.",
+            "Peace with them that call on the Lord out of a pure heart; peace is to be pursued and followed after with all men, as much as possible, but especially with the saints, the true worshippers of God; who draw nigh to him with true hearts, and call upon him in the sincerity of their souls."
+        ],
+        "John Wesley": [
+            "Flee youthful desires \u2014 Those peculiarly incident to youth.",
+            "Follow peace with them \u2014 Unity with all true believers.",
+            "Out of a pure heart-Youthful desires, destroy this purity: righteousness, faith, love, peace, accompany it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Flee the lusts of youth, for there are many temptations from which our greatest safety is in flight. Instead, pursue righteousness, faith, and love. Seek peace with those who sincerely call on the Lord from a pure heart. It is not possible to be at peace with everyone, but those who genuinely worship the Lord share a common purpose and opinion. So, follow after these virtues with a steadfast pursuit, for by doing so, you will experience the peace that comes from pursuing moral and spiritual ends.",
+            "wordCount": 87,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 2.093587708824443,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                31.99,
+                32.57,
+                35.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Flee the youthful desires that can lead astray, for it is wiser to avoid occasions of sin. Instead, pursue righteousness, faith, and love, and strive to be at peace with those who sincerely call on the Lord from a pure heart. By following after these virtues, you can experience the peace that stems from the pursuit of moral and spiritual ends. Remember to be cautious of the lusts peculiar to youth and stay steadfast in your pursuit of these noble virtues.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2233932435000456,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.27,
+            "commentatorTierSimilarities": [
+                31.57,
+                32.35,
+                36.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Flee from the temptations and lusts of youth, recognizing that our greatest safety lies in avoiding occasions of sin. Instead, diligently pursue righteousness, faith, and love. Strive to be at peace with those who genuinely call on the Lord from a pure heart, for true peace comes from pursuing these virtues. Remember the unique struggles that come with youth and remain steadfast in your pursuit of moral and spiritual goals, just as Paul often emphasized in his teachings.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1388389670123913,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.46,
+            "commentatorTierSimilarities": [
+                31.29,
+                32.37,
+                36.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Flee the lusts of youth and avoid occasions of sin, for they are many. Instead, pursue righteousness with a steadfastness that goes beyond mere following. Seek after faith, love, and peace with those who sincerely call on the Lord from a pure heart. The pursuit of these virtues not only leads to righteousness but also brings about a sense of peace and harmony. Remember to be cautious of the particular temptations that youth may face and remain focused on the pursuit of moral and spiritual goals.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.1187581840468797,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.79,
+            "commentatorTierSimilarities": [
+                30.7,
+                33.3,
+                36.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Flee the snares of youthful lusts and avoid the occasions of sin, for they abound. Instead, pursue righteousness diligently, going beyond mere following. Seek after faith, love, and peace with those who call on the Lord from a pure heart. By pursuing these virtues, you not only cultivate righteousness but also experience the peace that comes from the pursuit of moral and spiritual ends. Remember the unique challenges that youth brings and remain focused on the steady pursuit of these noble virtues.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0836363496672883,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                31.11,
+                33.19,
+                35.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

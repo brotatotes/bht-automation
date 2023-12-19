@@ -1,0 +1,96 @@
+{
+    "timestamp": "12-19-2023 16:01:56",
+    "verseRef": "Romans 5:9",
+    "bestBHT": {
+        "bht": "Much more then, having been now justified by his blood, we shall be saved from the wrath of God through him. The great thing is the justification in Christ's blood, which frees believers from a sense and apprehension of God's wrath in their own consciences. The atoning death of Christ, the meritorious cause of our justification, guarantees our full salvation and assures us that we will be saved from all the effects of God's wrath.",
+        "wordCount": 78,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 2.4835666076047143,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.92,
+        "commentatorTierSimilarities": [
+            26.04,
+            36.31,
+            37.65
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "9, 10. Much more then, being\u2014\"having",
+            "\tbeen\" ",
+            "\t",
+            "now justified by his blood,",
+            "\twe shall be saved from wrath through him."
+        ],
+        "Albert Barnes": [
+            "If, when we were enemies, he overcame all that was in the way of our salvation; much more have we reason to expect that he will afford us protection now that we are his friends.",
+            "Being now justified - Pardoned; accepted as his friends.",
+            "The fact that we are purchased by his blood, and sanctified by it, renders us sacred in the eye of God; bestows a value on us proportionate to the worth of the price of our redemption; and is a pledge that he will keep what has been so dearly bought."
+        ],
+        "Marvin Vincent": [
+            "Wrath [\u03c4\u03b7\u03c2 \u03bf\u03c1\u03b3\u03b7\u03c2] . Rev., better, \"the wrath of God.\" the article specifying. See on ch. Romans 12:19."
+        ],
+        "Philip Schaff": [
+            "The inference from God\u2019s love as displayed in the death of Christ is the assurance of full salvation.",
+            "The atoning death of Christ, which is the meritorious cause of our justification.",
+            "The certainty of salvation with the fact of God\u2019s wrath against sin and the certainty of its execution upon unbelieving sinners."
+        ],
+        "Archibald T. Robertson": [
+            "The great thing is the justification in Christ's blood.",
+            "The final salvation is less of a mystery."
+        ],
+        "John Gill": [
+            "Justification in God's mind from eternity proceeded upon the suretyship engagements of Christ to be performed in time.",
+            "The blood of Christ intends his death, as appears from the context, and shows it to be a violent death; death by the effusion of blood.",
+            "Justification by the blood of Christ frees them [believers] from a sense and apprehension of [God's] wrath in their own consciences."
+        ],
+        "John Wesley": [
+            "We shall be saved from wrath through him \u2014 That is, from all the effects of the wrath of God.\" ",
+            "But wrath in God is not a human passion; nor is love, as it is in God.",
+            "Therefore the inspired writers ascribe both the one and the other to God only in an analogical sense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Much more then, having been now justified by his blood, we shall be saved from the wrath of God through him. The great thing is the justification in Christ's blood, which frees believers from a sense and apprehension of God's wrath in their own consciences. The atoning death of Christ, the meritorious cause of our justification, guarantees our full salvation and assures us that we will be saved from all the effects of God's wrath. This final salvation is less of a mystery, as the certainty of salvation aligns with the fact of God's wrath against sin and the certainty of its execution upon unbelieving sinners.",
+            "wordCount": 110,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.4298799504924076,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.13,
+            "commentatorTierSimilarities": [
+                26.26,
+                37.72,
+                36.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Much more then, having been now justified by his blood, we shall be saved from the wrath of God through him. The great thing is the justification in Christ's blood, which frees believers from a sense and apprehension of God's wrath in their own consciences. The atoning death of Christ, the meritorious cause of our justification, guarantees our full salvation and assures us that we will be saved from all the effects of God's wrath.",
+            "wordCount": 78,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 2.4835666076047143,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.92,
+            "commentatorTierSimilarities": [
+                26.04,
+                36.31,
+                37.65
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

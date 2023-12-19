@@ -1,0 +1,103 @@
+{
+    "timestamp": "12-19-2023 15:32:43",
+    "verseRef": "Ephesians 5:15",
+    "bestBHT": {
+        "bht": "Take heed of the sort of strict walking you engage in, not only that you have a rule and keep to it, but that the rule itself is the best one. See how carefully and accurately you walk, with a view to being circumspect in your conduct. Walk in wisdom towards those outside, not as unwise, but as wise. Let your walk be characterized by heavenly wisdom, which guides you in rectitude and consistency.",
+        "wordCount": 74,
+        "quoteTokenProportion": 55.77,
+        "qualityScore": 2.3775325976237642,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.39,
+        "commentatorTierSimilarities": [
+            34.27,
+            39.09,
+            26.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Take heed of what sort your strict walking is.",
+            "Not only that you have a rule, and keep to it, but that that rule be the best one.",
+            "Qualification of the walking strictly, and expansion of the manner of such walking."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "See how ye walk, [...] See that ye walk circumspectly.\" ",
+            "See how ye are walking, with a view to your being circumspect (literally, accurate, exact) in your walk.",
+            "Walk in wisdom [...] toward them that are without."
+        ],
+        "Albert Barnes": [
+            "See then that ye walk circumspectly - carefully, anxiously, solicitous lest you fall into sin.",
+            "The word rendered 'circumspectly' - \u03b1\u0313\u03ba\u03c1\u03b9\u03b2\u03c9\u0342\u03c2 akribo\u0304s - means 'diligently,' and the idea here is, that they were to take special pains to guard against the temptations around them, and to live as they ought to.",
+            "Not as fools, but as wise - Not as the people of this world live, indulging in foolish pleasures and desires, but as those who have been taught to understand heavenly wisdom, and who have been made truly wise."
+        ],
+        "Marvin Vincent": [
+            "Look carefully how exactly ye walk.",
+            "Circumspectly is better rendered carefully. It means exactly, accurately.",
+            "Not as unwise, but as wise. Explanatory of carefully."
+        ],
+        "John Calvin": [
+            "If believers must not neglect to drive away the darkness of others by their own brightness, how much less ought they to be blind as to their own conduct in life?",
+            "Placed, as it were, in a crowded theater, they ought to live under the eye of God and of angels.",
+            "Let them stand in awe of these witnesses, though they may be concealed from the view of all mortals."
+        ],
+        "Philip Schaff": [
+            "Take heed not only that your walk be exact, strict, but also of what sort that strictness is not only that you have a rule and keep to it, but that that rule be the best one.\" ",
+            "Wisdom and not mere intelligence was to characterize them; that wisdom which preserves in rectitude, guides amid temptations, and affords a lesson of consistency to surrounding spectators."
+        ],
+        "Archibald T. Robertson": [
+            "Carefully (\u03b1\u03ba\u03c1\u03b9\u03b2\u03c9\u03c2). Aleph B 17 put \u03b1\u03ba\u03c1\u03b9\u03b2\u03c9\u03c2 before \u03c0\u03c9\u03c2 (how) instead of \u03c0\u03c9\u03c2 \u03b1\u03ba\u03c1\u03b9\u03b2\u03c9\u03c2 (how exactly ye walk) as the Textus Receptus has it."
+        ],
+        "John Gill": [
+            "See then that ye walk circumspectly...this walk should be seen to, and watched over...with diligence, caution, accuracy, and exactness...\" ",
+            "not as fools, but as wise; such walk like fools, whose eyes are not upon their ways...and such walk as wise men, who walk according to the rule of God's word, make Christ their pattern...",
+            "and walk as becomes the Gospel of Christ; inoffensively to all men, in wisdom towards them that are without, and in love to them that are within..."
+        ],
+        "John Wesley": [
+            "Circumspectly \u2014 Exactly, with the utmost accuracy, getting to the highest pitch of every point of holiness.",
+            "Not as fools \u2014 Who think not where they are going, or do not make the best of their way."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Take heed of the sort of strict walking you engage in, not only that you have a rule and keep to it, but that the rule itself is the best one. See how carefully and accurately you walk, with a view to being circumspect in your conduct. Walk in wisdom towards those outside, not as unwise, but as wise. This means living diligently, solicitous to avoid falling into sin, and not indulging in foolish pleasures and desires like the people of this world. Let your walk be characterized by heavenly wisdom, which guides you in rectitude and consistency, and serves as a lesson of consistency to others.",
+            "wordCount": 107,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 2.2269248716653474,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.39,
+            "commentatorTierSimilarities": [
+                29.88,
+                42.67,
+                27.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Take heed of the sort of strict walking you engage in, not only that you have a rule and keep to it, but that the rule itself is the best one. See how carefully and accurately you walk, with a view to being circumspect in your conduct. Walk in wisdom towards those outside, not as unwise, but as wise. Let your walk be characterized by heavenly wisdom, which guides you in rectitude and consistency.",
+            "wordCount": 74,
+            "quoteTokenProportion": 55.77,
+            "qualityScore": 2.3775325976237642,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.39,
+            "commentatorTierSimilarities": [
+                34.27,
+                39.09,
+                26.64
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

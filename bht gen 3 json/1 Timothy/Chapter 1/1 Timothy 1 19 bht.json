@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:28:09",
+    "verseRef": "1 Timothy 1:19",
+    "bestBHT": {
+        "bht": "Faith is like a precious liquor, and a good conscience serves as the clean, pure glass that contains it. The loss of a good conscience results in the shipwreck of faith, as it is disregarded and cast aside like a troublesome monitor. Holding fast to faith and a good conscience is not only expected of followers but also essential for leaders to exemplify. Without a good conscience, genuine trust and belief become impossible, leading to a state of spiritual ruin and making shipwreck of one's faith.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.290937273653107,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.51,
+        "commentatorTierSimilarities": [
+            39.2,
+            29.13,
+            31.67
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Faith is like a very precious liquor; a good conscience is the clean, pure glass that contains it.",
+            "The loss of good conscience entails the shipwreck of faith.",
+            "They thrust it from them as a troublesome monitor. It reluctantly withdraws, extruded by force, when its owner is tired of its importunity, and is resolved to retain his sin at the cost of losing it."
+        ],
+        "Albert Barnes": [
+            "He should adhere to the cause of his master with unwavering steadfastness.",
+            "A good conscience is that which is well informed in regard to what is right, and where its dictates are honestly followed.",
+            "People become infidels because they wish to indulge in sin. No man can be a sensualist, and yet love that gospel which enjoins purity of life."
+        ],
+        "Marvin Vincent": [
+            "Holding [\u03b5\u03c7\u03c9\u03bd] . Not merely having, but holding fast, as in 2 Timothy 1:13.\" ",
+            "The combination faith and good conscience is peculiar to the Pastorals.\" ",
+            "Nautical metaphors are rare in Paul's writings."
+        ],
+        "John Calvin": [
+            "The chief things demanded from a teacher are these two: \u2014 that he shall hold by the pure truth of the gospel; and next, that he shall administer it with a good conscience and holiest zeal.",
+            "This passage removes the offense by which so many persons are greatly distressed, when they perceive that some, who formerly professed their attachment to Christ and to the gospel, not only fall back into their former superstitions but (which is far worse) are bewildered and captivated by monstrous errors.",
+            "A bad conscience is, therefore, the mother of all heresies; and we see that a vast number of persons, who had not sincerely and honestly embraced the faith, are hurried along, like brute beasts, into the reveries of the Epicureans, so that their hypocrisy is exposed."
+        ],
+        "Philip Schaff": [
+            "Faith. The personal subjective trust in God, as coupled with the \u2018good conscience.\u2019",
+            "Having put away. The Greek implies violence, 'thrusting from them.'",
+            "Casting from them the protection of a good conscience, without which real trust or belief was impossible, they drifted on the sea of error, and made shipwreck concerning the faith."
+        ],
+        "Archibald T. Robertson": [
+            "Holding faith and a good conscience... a leader expects them of his followers and must show them himself.",
+            "Having thrust from them faith as trust and a good conscience.",
+            "Made shipwreck... to break a ship to pieces... concerning their faith."
+        ],
+        "John Gill": [
+            "Holding it forth in the ministry of the word, in opposition to a concealing or dropping it, or any part of it...",
+            "A good conscience...is only good, which is sprinkled by the blood of Christ, and thereby purged from dead works...",
+            "Men may profess [faith], and fall off from, and entirely drop and lose...there is a feigned and counterfeit faith, which may be in persons who have no true grace, and may be shipwrecked, so as to be lost."
+        ],
+        "John Wesley": [
+            "Holding fast faith \u2014 Which is as a most precious liquor.",
+            "And a good conscience \u2014 Which is as a clean glass.",
+            "These, therefore, were once true believers: yet they fell not only foully, but finally; for ships once wrecked cannot be afterwards saved."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith is like a very precious liquor; a good conscience is the clean, pure glass that contains it. The loss of a good conscience leads to the shipwreck of faith. It is thrust aside as a troublesome monitor, withdrawn through force when sin becomes more desirable than its presence. Holding faith and a good conscience is crucial, not just as followers but as leaders, for it shows steadfastness and purity. Without a good conscience, trust and belief are impossible, and one is left adrift, making shipwreck of their faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.218927518632878,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.12,
+            "commentatorTierSimilarities": [
+                40.25,
+                29.93,
+                29.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faith is like a precious liquor, and a good conscience serves as the clean, pure glass that contains it. The loss of a good conscience results in the shipwreck of faith, as it is disregarded and cast aside like a troublesome monitor. Holding fast to faith and a good conscience is not only expected of followers but also essential for leaders to exemplify. Without a good conscience, genuine trust and belief become impossible, leading to a state of spiritual ruin and making shipwreck of one's faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.290937273653107,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.51,
+            "commentatorTierSimilarities": [
+                39.2,
+                29.13,
+                31.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faith is like a precious liquor, and a good conscience is the clean glass that contains it. Without a good conscience, faith is thrust aside and the shipwreck of one's faith occurs. Holding fast to faith and a good conscience is expected of both leaders and followers. It is important to understand that a good conscience is well-informed about what is right and honestly follows its dictates. The combination of faith and a good conscience is unique to the Pastorals, and nautical metaphors are rare in Paul's writings.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.214968816824779,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                41.38,
+                28.79,
+                29.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith is comparable to a precious liquor, while a good conscience acts as the pure container. The loss of a good conscience leads to the shipwreck of faith, as it is thrust aside like a troublesome monitor. The combination of faith and a good conscience is exclusive to the Pastorals, while nautical metaphors are uncommon in Paul's writings. Holding onto faith and a good conscience is expected of leaders and followers alike. Their absence causes one to make shipwreck of their faith, breaking it apart concerning their belief.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.215070040466431,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                43.03,
+                27.86,
+                29.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faith is a precious liquor contained in a pure glass, known as a good conscience. However, when a good conscience is discarded, faith is lost and shipwrecked. It is crucial for leaders to hold fast to faith and a good conscience, setting an example for their followers. The combination of faith and a good conscience is unique to the Pastorals, showcasing the importance of both. Without a good conscience, trust and belief become impossible, leading to the destruction of one's faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2304821697701405,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.5,
+            "commentatorTierSimilarities": [
+                40.33,
+                29.84,
+                29.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

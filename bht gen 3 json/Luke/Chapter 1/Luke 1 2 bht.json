@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:13:08",
+    "verseRef": "Luke 1:2",
+    "bestBHT": {
+        "bht": "Based on the eyewitness accounts and oral tradition passed down by the Apostles, the Gospel of Luke was composed. Luke emphasizes the reliability of his narrative by highlighting the firsthand knowledge and practical experience of those who witnessed and ministered alongside Jesus. Luke's access to both written and oral sources bolsters the dependability of his account, proving that it is based on a solid foundation of truth. By drawing from these sources, Luke presents a comprehensive and trustworthy portrayal of Jesus' life and ministry.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 1.8440681866482913,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.66,
+        "commentatorTierSimilarities": [
+            32.9,
+            39.0,
+            28.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostles, delivered these matters orally to the Churches in their teaching and others drew up accounts from that catechetical instruction.",
+            "He cannot therefore have seen (or, having seen, not recognized as such, which is highly improbable) the Gospel of St. Matthew.",
+            "From the beginning... from the official beginning: see Acts i. 21 f. It differs from from the very first below."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. from the beginning\u2014that is,",
+            "\tof His public ministry, as is plain from what follows."
+        ],
+        "Albert Barnes": [
+            "As they delivered them - As they narrated them. As they gave an account of them.",
+            "From the beginning - From the commencement of these things - that is, from the birth of John, or perhaps from the beginning of the ministry of Jesus.",
+            "Eye-witnesses - Who had seen those things themselves, and who were therefore proper witnesses."
+        ],
+        "Marvin Vincent": [
+            "Even as.\" Referring to the composition of the narrative.",
+            "Eye witnesses and ministers.\" Personal knowledge and practical experience were necessary elements of an apostle.",
+            "Ministers [\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b1\u03b9]. See on Matthew 5:25. In medical language denoting the attendants or assistants of the principal physician."
+        ],
+        "Philip Schaff": [
+            "They delivered them, or, 'handed them down.' The oral instruction of the Apostles is here referred to... Oral tradition came first, but this preface plainly implies its insufficiency.",
+            "From the beginning, i.e., from the baptism of John... Eye-witnesses. The Apostles, perhaps the Seventy also. This implies that Luke was not a disciple during the lifetime of our Lord.",
+            "The word, i.e., the word of the gospel, the preached word. Certainly not 'the Word,' the Logos, for John only uses this term. Hence 'of the word' is scarcely to be joined with 'eye-witnesses.'"
+        ],
+        "Archibald T. Robertson": [
+            "Luke asserts that the previous narratives had their sound basis.",
+            "Luke means to say that the handing down was dependable, not mere wives' fables.",
+            "Here we have both written and oral sources. Luke had access to both kinds."
+        ],
+        "John Gill": [
+            "Even as they delivered them unto us... which from the beginning were eyewitnesses and ministers of the word...\" ",
+            "...the above Christians proposed to write...",
+            "...the truth of his incarnation, and of his ministry and miracles; saw, and conversed with him after his resurrection from the dead and beheld his ascension to heaven..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Gospel of Luke was not only based on written sources, but also on the oral teachings of the Apostles themselves. Luke emphasizes the reliability of his accounts by stating that they were passed down by those who were eyewitnesses and ministers of the word. Luke had access to both written and oral sources, ensuring the dependability of the narratives. This preface implies that oral tradition came first, but Luke recognized its insufficiency, hence the need for a written account. The eyewitnesses and ministers referred to in the verse are those who had seen and experienced the events firsthand, lending credibility to Luke's Gospel.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.057860198470548,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.76,
+            "commentatorTierSimilarities": [
+                31.19,
+                40.31,
+                28.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Based on the eyewitness accounts and oral tradition passed down by the Apostles, the Gospel of Luke was composed. Luke emphasizes the reliability of his narrative by highlighting the firsthand knowledge and practical experience of those who witnessed and ministered alongside Jesus. Luke's access to both written and oral sources bolsters the dependability of his account, proving that it is based on a solid foundation of truth. By drawing from these sources, Luke presents a comprehensive and trustworthy portrayal of Jesus' life and ministry.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8440681866482913,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.66,
+            "commentatorTierSimilarities": [
+                32.9,
+                39.0,
+                28.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Luke's Gospel is not only based on written accounts but also on the oral teachings that were delivered by the Apostles. The reliability of Luke's narrative is emphasized by the fact that it was derived from eyewitnesses who had personal knowledge and practical experience of the events. By accessing both written and oral sources, Luke ensures that his account is dependable and rooted in truth. His careful compilation of various sources allows for a comprehensive and accurate portrayal of Jesus' ministry and its impact.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.7557681148747855,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                32.98,
+                39.37,
+                27.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Luke's Gospel draws from both written and oral sources, ensuring a reliable account of the events surrounding Jesus. Luke affirms that the narratives were delivered by eyewitnesses who had personal knowledge and practical experience. By relying on the teachings of the Apostles, Luke establishes the credibility of his account. The careful compilation of these sources allows for a trustworthy portrayal of Jesus' ministry and the events surrounding it. This emphasizes the importance of both written and oral traditions in preserving and transmitting the truth of the Gospel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.8193782336439686,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+            "commentatorTierSimilarities": [
+                31.19,
+                37.52,
+                31.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the Gospel of Luke, the narratives are not only based on written records but also on the oral teachings of the Apostles. Luke emphasizes the reliability of his account by referencing the eyewitnesses who personally witnessed and ministered alongside Jesus. Both written and oral sources were consulted, ensuring the trustworthy transmission of the teachings. By incorporating these various sources, Luke presents a comprehensive and accurate portrayal of the life and ministry of Jesus, providing a solid foundation for understanding the gospel message.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.83242364793484,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                31.92,
+                38.65,
+                29.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

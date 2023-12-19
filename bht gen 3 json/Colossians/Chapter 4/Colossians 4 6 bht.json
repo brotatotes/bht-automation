@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:22:17",
+    "verseRef": "Colossians 4:6",
+    "bestBHT": {
+        "bht": "Let your speech always be full of grace, seasoned with salt. Grace, reflecting the grace from above, and salt, symbolizing the vital briskness of the Holy Spirit, should permeate our words and actions. Our conversation should be cheerful without levity and serious without gloom, manifesting fresh and lively spiritual wisdom. Just as salt renders palatable, grace and salt combined create an agreeable and pleasant taste. With grace as the subject matter, our speech should be both useful and beneficial, showcasing piety, understanding, and edification.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 2.334768757548524,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.97,
+        "commentatorTierSimilarities": [
+            30.64,
+            30.85,
+            38.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let your speech be always in grace, gracious, and winning favour.",
+            "Seasoned with salt, not insipid and void of point, which can do no man any good.",
+            "Grace, the grace which is conferred on us from above, and which our words and actions should reflect, and salt, as symbolizing the unction, freshness, and vital briskness which characterizes the Spirit's presence and work in a man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Even the smallest leaf of the believer should be full of the sap of the Holy Spirit.",
+            "His conversation should be cheerful without levity, serious without gloom.",
+            "The savor of fresh and lively spiritual wisdom and earnestness, excluding all 'corrupt communication,' and also tasteless insipidity."
+        ],
+        "Albert Barnes": [
+            "It rather means that our conversation should be such as to show that we are governed by the principles of religion, and that there is unfeigned piety in the heart.",
+            "If it be not imbued with the spirit of piety, it is flat, insipid, unprofitable, injurious. The spirit of piety will make it what it should be - useful, agreeable, beneficial to mankind.",
+            "Be imbued with the spirit of piety, that you may not utter any thing that would be rash and foolish, but be prepared to answer anyone who may question you about your religion in a way that will show that you understand its nature, and that will tend to edification."
+        ],
+        "Marvin Vincent": [
+            "The metaphor is from the office of salt in rendering palatable.",
+            "In Greek and Latin authors, salt was used to express the pungency and wittiness of speech.",
+            "Grace and salt are combined... because, mingled with most things, it makes them agreeable and pleasant to the taste."
+        ],
+        "John Calvin": [
+            "He requires suavity of speech, such as may allure the hearers by its profitableness.",
+            "He indirectly prohibits believers from the practice and familiar use of witticisms.",
+            "The man who has accustomed himself to caution in his communications will not fall into many absurdities."
+        ],
+        "Philip Schaff": [
+            "Christian speech should not be flat, but fresh and wholesome.",
+            "Stupid speech is wicked for Christians, since Christ\u2019s grace should suffice to season well their utterances.",
+            "Sweetness and point, adaptation to the hearer; these characteristics of Christian speech, when supported by a wise walk and watchfulness for proper opportunities, will give power to the words of the humblest believer."
+        ],
+        "Archibald T. Robertson": [
+            "Not too much salt, not too little.",
+            "Grace and salt make an ideal combination.",
+            "Every teacher will sympathize with Paul's desire 'that ye know how ye must answer each one'."
+        ],
+        "John Gill": [
+            "Let your speech be always with grace,.... 'In grace, or concerning grace': let grace be the subject matter of your speech and conversation.",
+            "The speech of the saints ought to be in a graceful way, with a cheerful and pleasant countenance, in an affable and courteous manner, and not after a morose, churlish, and ill-natured fashion.",
+            "Grace being that to speech, as salt is to meat; as salt makes meat savory and agreeable to the palate, so grace, prudence, and holiness... make discourse savory, pleasant, and acceptable to a spiritual man."
+        ],
+        "John Wesley": [
+            "Let your speech be always with grace \u2014 Seasoned with the grace of God, as flesh is with salt."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let your speech be full of grace and seasoned with salt, reflecting the grace that comes from above and symbolizing the unction and vitality of the Holy Spirit. Your conversation should be cheerful yet serious, avoiding corrupt communication and tasteless insipidity. Just as salt brings palatability, grace and salt combined make for an ideal combination, making your words agreeable and pleasant. Ensuring that your speech embodies piety and shows understanding of your faith will make it both useful and beneficial to others. So, let grace be the subject matter of your discourse, bringing a fresh and wholesome quality to your words, and allowing the power of your message to shine through with sweetness, point, and adaptation to the hearer.",
+            "wordCount": 119,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 2.2691159089686814,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.79,
+            "commentatorTierSimilarities": [
+                29.0,
+                34.13,
+                36.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let your speech always be full of grace and seasoned with salt as a reflection of the grace bestowed upon us and the vital presence of the Holy Spirit. Avoid both corrupt communication and tasteless insipidity, aiming for a conversation that is cheerful yet serious. Like salt enhancing the flavor of food, the combination of grace and salt creates an ideal blend, making your words agreeable and pleasant. By embodying piety and showing a deep understanding of your faith, you can ensure that your discourse is both useful and beneficial to others.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.23818440343313,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.76,
+            "commentatorTierSimilarities": [
+                29.91,
+                32.41,
+                37.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let your speech always be full of grace, seasoned with salt. Grace, reflecting the grace from above, and salt, symbolizing the vital briskness of the Holy Spirit, should permeate our words and actions. Our conversation should be cheerful without levity and serious without gloom, manifesting fresh and lively spiritual wisdom. Just as salt renders palatable, grace and salt combined create an agreeable and pleasant taste. With grace as the subject matter, our speech should be both useful and beneficial, showcasing piety, understanding, and edification.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.334768757548524,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.97,
+            "commentatorTierSimilarities": [
+                30.64,
+                30.85,
+                38.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let your speech be always full of grace and seasoned with salt. Grace, reflected in our words and actions, should be the driving force behind our conversation. Just as salt enhances flavor, the combination of grace and salt creates a pleasing and refreshing effect. Our speech should strike a balance\u2014cheerful without levity and serious without gloom. It is through this blend that our discourse becomes meaningful and impactful, embodying piety and understanding. May our words be imbued with grace, making them both useful and beneficial to others.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.1367763078963087,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.39,
+            "commentatorTierSimilarities": [
+                29.36,
+                31.2,
+                39.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let your speech be always full of grace and seasoned with salt. Our words should reflect the grace received from above and the vitality of the Holy Spirit. By embodying grace and salt in our conversation, we can strike a balance between cheerfulness and seriousness. Just as salt brings palatability, grace and salt together create an ideal combination that makes our words agreeable and pleasant. Let grace be the subject matter, making our discourse meaningful, useful, and beneficial to others.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.2340153765523105,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+            "commentatorTierSimilarities": [
+                31.68,
+                28.47,
+                39.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

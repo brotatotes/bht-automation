@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:36:23",
+    "verseRef": "Acts 26:15",
+    "bestBHT": {
+        "bht": "Jesus directly addresses Paul, stating, I am Jesus whom thou persecutest. By using the name Jesus of Nazareth, He establishes a personal connection to the community. His declaration as The Lord highlights His divine authority. Jesus confronts Paul's persecution of Christians, revealing Himself as the persecuted Savior and demonstrating compassion and grace towards those who oppose Him.",
+        "wordCount": 58,
+        "quoteTokenProportion": 40.43,
+        "qualityScore": 1.4108174503567776,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.25,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "I am Jesus whom thou persecutest.",
+            "Jesus of Nazareth.",
+            "The Lord said."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 26:15, Jesus identifies Himself to Paul, saying, I am Jesus whom thou persecutest. By using the name Jesus of Nazareth, Jesus establishes His personal connection to the earthly city and the people who dwell there. This proclamation of His identity as The Lord emphasizes His divinity and authority. Through these words, Jesus not only confronts Paul about his persecution of Christians, but also reveals Himself as the persecuted Savior, embodying compassion and grace even towards those who oppose Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.452865838099907,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this particular verse, Jesus directly addresses Paul by saying, I am Jesus whom thou persecutest. By using the specific name Jesus of Nazareth, He establishes a personal connection to the community and its people. The fact that Jesus refers to Himself as The Lord underscores His divine nature and the authority He holds. These words not only serve as a rebuke to Paul for his persecution of Christians, but also reveal Jesus as the persecuted Savior, demonstrating His immense compassion and grace even to those who oppose Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.4862103324187426,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus makes a powerful statement to Paul, proclaiming, I am Jesus whom thou persecutest. By referring to Himself as Jesus of Nazareth, He establishes a personal connection to the people and their community. This declaration of being The Lord highlights His divine nature and sovereign authority. Jesus confronts Paul about his persecution of Christians while revealing Himself as the persecuted Savior, displaying immense compassion and grace towards even those who oppose Him.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.3401008405639943,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.9,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 26:15, Jesus directly addresses Paul, saying, I am Jesus whom thou persecutest. This statement reveals Jesus' personal involvement and connection with Paul's persecution of Christians. By identifying Himself as Jesus of Nazareth, He emphasizes His humanity and the impact His earthly life has had on Paul and others. Furthermore, Jesus referring to Himself as The Lord highlights His divine authority and power. Through these words, Jesus confronts Paul's actions, while also displaying His compassion and grace towards those who oppose Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.3280971767682008,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.5,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus directly addresses Paul, stating, I am Jesus whom thou persecutest. By using the name Jesus of Nazareth, He establishes a personal connection to the community. His declaration as The Lord highlights His divine authority. Jesus confronts Paul's persecution of Christians, revealing Himself as the persecuted Savior and demonstrating compassion and grace towards those who oppose Him.",
+            "wordCount": 58,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.4108174503567776,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

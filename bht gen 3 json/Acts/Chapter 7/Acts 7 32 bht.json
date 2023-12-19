@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:27:21",
+    "verseRef": "Acts 7:32",
+    "bestBHT": {
+        "bht": "When God appeared to Moses through the burning bush, He declared Himself to be the God of Abraham, Isaac, and Jacob. Before these words were spoken, Moses became trembling with fear and reverence. This shows that the command to put off the shoe, which was given to Moses as a sign of respect, was obeyed by him. It is fitting that God would make Moses afraid in order to make him obedient. This fear and trembling before the presence of the Lord is a reminder that God is not the God of the dead, but of the living.",
+        "wordCount": 98,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.479593145159894,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.54,
+        "commentatorTierSimilarities": [
+            22.35,
+            43.33,
+            34.32
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The order of Exod. iii. 6, is here somewhat varied.",
+            "The command to put off the shoe was given on the approach of Moses.",
+            "Before these words were spoken."
+        ],
+        "Albert Barnes": [
+            "Saying, I am the God ... - See this explained in the notes on Matthew 22:32.",
+            "Then Moses trembled - Exodus 3:6."
+        ],
+        "Marvin Vincent": [
+            "Trembled [\u03b5\u03bd\u03c4\u03c1\u03bf\u03bc\u03bf\u03c2 \u03b3\u03b5\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . Lit., having become trembling; having fallen into a tremor."
+        ],
+        "John Calvin": [
+            "Therefore, this title is as much as if God had said, I, which have promised in times past to your fathers, that I have a care of your safety, which have taken the kindred of Abraham to my tuition by a free covenant, yea, which have appointed this time for an end of your bondage, I appear now unto thee, that I may perform that which I promised.",
+            "For this is requisite in relation, that the members be answerable between themselves.",
+            "And God maketh Moses afraid for none other cause, save only that he may make him obedient unto him."
+        ],
+        "John Gill": [
+            "God is not the God of the dead, but of the living.\" ",
+            "Then Moses trembled.",
+            "Durst not behold."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When God appeared to Moses through the burning bush, He declared Himself to be the God of Abraham, Isaac, and Jacob. Before these words were spoken, Moses became trembling with fear and reverence. This shows that the command to put off the shoe, which was given to Moses as a sign of respect, was obeyed by him. It is fitting that God would make Moses afraid in order to make him obedient. This fear and trembling before the presence of the Lord is a reminder that God is not the God of the dead, but of the living.",
+            "wordCount": 98,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.479593145159894,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.54,
+            "commentatorTierSimilarities": [
+                22.35,
+                43.33,
+                34.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When God appeared to Moses through the burning bush, He declared Himself to be the God of Abraham, Isaac, and Jacob. Before these words were spoken, Moses trembled in fear and reverence, showing his obedience to the command to put off his shoe. This fear and trembling signify the importance of recognizing God's presence and authority. It serves as a reminder that God is not the God of the dead, but of the living, highlighting the powerful and living nature of His divine presence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.2574198694746452,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.15,
+            "commentatorTierSimilarities": [
+                19.21,
+                44.99,
+                35.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When God appeared to Moses through the burning bush, Moses trembled with fear and reverence. This trembling was a response to God's declaration of being the God of Abraham, Isaac, and Jacob. By obeying the command to put off his shoe, Moses demonstrated his respect for the divine presence. This fear and trembling serve as a reminder of the living nature of God, who is not the God of the dead but of the living. It shows the importance of recognizing and honoring God's authority.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.2171728537467843,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.81,
+            "commentatorTierSimilarities": [
+                14.93,
+                47.61,
+                37.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When God appeared to Moses through the burning bush, Moses trembled in fear and reverence, obediently removing his shoe as a sign of respect. This trembling demonstrates the recognition of God's presence and authority. By declaring Himself as the God of Abraham, Isaac, and Jacob, God emphasizes His faithfulness to His chosen people and His promise of deliverance. This awe-inspiring encounter serves as a reminder that God is not the God of the dead but of the living, showcasing His eternal and living nature.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.1654626921337414,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.1,
+            "commentatorTierSimilarities": [
+                14.2,
+                46.65,
+                39.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When God appeared to Moses through the burning bush, Moses trembled in fear and reverence, obediently putting off his shoe as a sign of respect in the presence of the Almighty. This shows that God's command to remove the shoe was followed by Moses. It is a testament to the importance of acknowledging and honoring God's authority. This trembling signifies the living nature of God, for He is not the God of the dead, but of the living.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.2654571834015518,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.42,
+            "commentatorTierSimilarities": [
+                15.01,
+                47.77,
+                37.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

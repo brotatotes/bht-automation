@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:21:43",
+    "verseRef": "Colossians 3:13",
+    "bestBHT": {
+        "bht": "Christians are called to forgive and forbear with one another. They are to bear present offenses and forgive past ones, just as Christ forgave them. This forgiveness, rooted in the membership of believers in Christ's body, reflects the forgiveness they have received. By forgiving one another, Christians not only demonstrate the freeness, entirety, and permanence of Christ's forgiveness but also extend forgiveness to themselves. This forgiveness is motivated by Christ's own forgiveness, which serves as the reason and basis for forgiving others.",
+        "wordCount": 85,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 2.2222771227453704,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.23,
+        "commentatorTierSimilarities": [
+            25.39,
+            42.38,
+            32.23
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Forbearing\u2014as to present offenses.\" ",
+            "Forgiving\u2014as to past offenses.\" ",
+            "Christ\u2014who had so infinitely greater cause of complaint against us."
+        ],
+        "Albert Barnes": [
+            "If another one has given us just occasion of complaint, we are to forgive him; that is, we are: (1) To harbor no malice against him; (2) We are to be ready to do him good as if he had not given us occasion of complaint; (3) We are to be willing to declare that we forgive him when he asks it; and, (4) We are always afterward to treat him as kindly as if he had not injured us.",
+            "Christ forgave us: (1) Freely - he did not hesitate or delay when we asked him; (2) Entirely - he pardoned all our offenses; (3) Forever - he did it so as to remember our sins no more, and to treat us ever onward as if we had not sinned.",
+            "So we should forgive an offending brother."
+        ],
+        "Marvin Vincent": [
+            "The latter pronoun emphasizes the fact that they are all members of Christ's body - everyone members one of another - so that, in forgiving each other they forgive themselves.",
+            "Quarrel [\u03bc\u03bf\u03bc\u03c6\u03b7\u03bd] . Only here in the New Testament. Cause of blame. Rev., complaint. The A.V. uses quarrel in its earlier sense of cause of complaint.",
+            "It was used of a plaintiff's action at law, like the Latin querela."
+        ],
+        "Philip Schaff": [
+            "Forbearing one another, and forgiving each other...the latter marking more strongly the relation of Christians as members of Christ.\" ",
+            "If (as is probable) any man have a complaint against any: even as the Lord forgave you.\" ",
+            "The mode of forgiveness is here spoken of (\u2018even as,\u2019 \u2018so\u2019); the ground of Christ\u2019s forgiveness is left out of view."
+        ],
+        "Archibald T. Robertson": [
+            "Forbearing one another (\u03b1\u03bd\u03b5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf \u03b1\u03bb\u03bb\u03b7\u03bb\u03c9\u03bd).",
+            "Forgiving each other (\u03c7\u03b1\u03c1\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf \u03b5\u03b1\u03c5\u03c4\u03bf\u03b9\u03c2).",
+            "But Christ's forgiveness of us is here made the reason for our forgiveness of others."
+        ],
+        "John Gill": [
+            "Forbearing one another, not only bearing one another's burdens, but forbearing to render evil for evil, or railing for railing, or to seek revenge for affronts given.",
+            "Let him put up with it, and forgive it, even as Christ forgave you, so also do ye.",
+            "And so should the saints forgive one another, as they expect to have an application and manifestation of forgiveness to themselves."
+        ],
+        "John Wesley": [
+            "Forbearing one another \u2014 If anything is now wrong.",
+            "And forgiving one another \u2014 What is past."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Colossians 3:13, believers are urged to forbear and forgive one another. They are to bear with present offenses and forgive past ones. This forgiveness is grounded in the forgiveness they have received from Christ, who had even greater cause to complain against them. Recognizing their membership in Christ's body, believers are called to forgive each other, emphasizing that in doing so, they are also forgiving themselves. As members of Christ's body, they are to harbor no malice, treat one another with kindness, and be ready to declare and demonstrate forgiveness. This forgiveness is characterized by its freeness, entirety, and permanence, just as Christ forgave believers. By forbearing and forgiving, Christians reflect the forgiveness they have received and manifest forgiveness to one another.",
+            "wordCount": 124,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.128890547285618,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                26.23,
+                41.85,
+                31.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are called to forbear and forgive one another, bearing with present offenses and forgiving past ones. This forgiveness is rooted in the forgiveness they have received from Christ, who had greater cause to complain against them. As members of Christ's body, they are to harbor no malice, treat one another kindly, and be ready to declare and demonstrate forgiveness. This forgiveness mirrors Christ's own, which is freely given, complete, and everlasting. Through forbearance and forgiveness, Christians reflect the forgiveness they have experienced and exhibit forgiveness to one another.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.126598968286436,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+            "commentatorTierSimilarities": [
+                25.31,
+                42.41,
+                32.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are urged to forbear and forgive one another. They are to bear present offenses and forgive past ones, as Christ forgave them. In this forgiveness, their membership in Christ's body is emphasized, and through forgiving one another, they are also forgiving themselves. This forgiveness is characterized by its freeness, entirety, and permanence\u2014just as Christ forgave them. By forbearing and forgiving, believers reflect the forgiveness they have received and demonstrate forgiveness to fellow believers.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.1950203751389035,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.33,
+            "commentatorTierSimilarities": [
+                25.66,
+                40.6,
+                33.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christians are called to bear with one another and forgive each other. This involves forbearing present offenses and forgiving past ones, just as Christ forgave them. By forgiving others, believers reflect their membership in Christ's body and also extend forgiveness to themselves. Christ's forgiveness serves as the reason and basis for their own forgiveness of others. Through the act of forbearance and forgiveness, Christians demonstrate the freeness, entirety, and permanence of Christ's forgiveness and manifest forgiveness towards their fellow believers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.191153414963959,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.2,
+            "commentatorTierSimilarities": [
+                26.59,
+                41.27,
+                32.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christians are called to forgive and forbear with one another. They are to bear present offenses and forgive past ones, just as Christ forgave them. This forgiveness, rooted in the membership of believers in Christ's body, reflects the forgiveness they have received. By forgiving one another, Christians not only demonstrate the freeness, entirety, and permanence of Christ's forgiveness but also extend forgiveness to themselves. This forgiveness is motivated by Christ's own forgiveness, which serves as the reason and basis for forgiving others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.2222771227453704,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.23,
+            "commentatorTierSimilarities": [
+                25.39,
+                42.38,
+                32.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

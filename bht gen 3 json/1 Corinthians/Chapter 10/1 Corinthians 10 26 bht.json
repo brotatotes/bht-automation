@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:11:49",
+    "verseRef": "1 Corinthians 10:26",
+    "bestBHT": {
+        "bht": "All is God's and meant for our use; we can freely partake when conscience permits. The earth and its contents are the Lord's, given to us as a gift. Believers, sanctified through Christ, can enjoy everything without fear of defilement, as long as they honor God and respect weaker believers. God, the Creator and Owner of all, has given us everything to use without hesitation as long as we do not act against His will or our conscience.",
+        "wordCount": 80,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8819572796905724,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+        "commentatorTierSimilarities": [
+            25.15,
+            38.79,
+            36.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The principle on which such an eating ought to rest: that all is GOD'S, and for our use.",
+            "And where no subjective scruple is cast in, all to be freely partaken of.",
+            "See 1 Tim. iv. 4."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The ground on which such eating without questioning is justified is, the earth and all its contents.",
+            "All meats belong to the Lord, and are appointed for our use.",
+            "Where conscience suggests no scruple, all are to be eaten."
+        ],
+        "Albert Barnes": [
+            "For the earth is the Lord\u2019s... It all belongs to the Lord... It may, therefore, be partaken of as his gift, and should be received with gratitude.",
+            "All that the earth produces belongs to Him... It is still the gift of God; still the production of His hand; still the fruit of His goodness and love.",
+            "The same sentiment is also found in Psalms 50:11, and in Deuteronomy 10:14."
+        ],
+        "Marvin Vincent": [
+            "The earth is the Lord 's, etc. The common form of Jewish thanksgiving before the meal. For fullness, see on Romans 11:12."
+        ],
+        "John Calvin": [
+            "If the fullness of the earth is the Lord\u2019s, there is nothing in the world that is not sacred and pure.",
+            "The sons of God, therefore, have the pure use of everything, because they receive them no otherwise than from the hand of God.",
+            "Paul is speaking of believers, to whom all things are sanctified through Christ."
+        ],
+        "Philip Schaff": [
+            "for the earth is the Lord's, and the fulness thereof",
+            "its contents, therefore, created for use",
+            "are free to all who gratefully own Him in it"
+        ],
+        "Archibald T. Robertson": [
+            "This verse gives the reason for Paul's advice.",
+            "It is a quotation from Psalms 24:1 and was a common form of grace before meals.",
+            "Fulness (\u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03b1). Old word from \u03c0\u03bb\u03b7\u03c1\u03bf\u03c9, to fill, here that with which a thing is filled, whatever fills the earth."
+        ],
+        "John Gill": [
+            "For the earth is the Lord's, and the fulness thereof....",
+            "and having broken down the middle wall of partition, gives his people the free use of all creatures,",
+            "they need not fear being defiled by any of them; provided they do not act contrary to the honour of God, and in favour of an idol, or against their own conscience, and the peace of weak believers."
+        ],
+        "John Wesley": [
+            "For God, who is the Creator, Proprietor, and Disposer of the earth and all that is therein...",
+            "...hath given the produce of it to the children of men...",
+            "...to be used without scruple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All foods are ultimately God's and intended for our use. When there are no personal convictions against it, we are free to partake in eating without questioning. The earth and its contents, including meat, are the Lord's. This sentiment is echoed in other verses and is a common Jewish expression of thanksgiving before meals. All that the earth produces belongs to God, and it should be received with gratitude. Believers, who have been sanctified through Christ, can freely use everything from God's creation without fear of defilement, as long as it is not used in a way that dishonors God or causes stumbling for weaker believers. Ultimately, God, as the Creator and Owner of the earth and all its contents, has given them to us to be used without hesitation.",
+            "wordCount": 133,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.9864626485858494,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                33.05,
+                34.77,
+                32.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All things belong to God and are for our use. When there are no personal scruples, we are free to partake without question. The earth and every good gift come from the Lord. Believers, having been sanctified through Christ, can freely enjoy the bounty of God's creation without fear of defilement, as long as they do not act against God or the conscience of others. God, as the Creator and Owner of all things, has given them for our use without hesitation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.8833387041616247,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                25.23,
+                36.83,
+                37.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "All is God's and meant for our use; we can freely partake when conscience permits. The earth and its contents are the Lord's, given to us as a gift. Believers, sanctified through Christ, can enjoy everything without fear of defilement, as long as they honor God and respect weaker believers. God, the Creator and Owner of all, has given us everything to use without hesitation as long as we do not act against His will or our conscience.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8819572796905724,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+            "commentatorTierSimilarities": [
+                25.15,
+                38.79,
+                36.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All food is God's, created for our use, and we should partake of it without questioning, as long as our conscience does not raise any scruples. This sentiment can be found in various places in Scripture, such as Psalm 24:1 and 1 Timothy 4:4. As believers, we should receive and enjoy the fullness of the earth with gratitude, recognizing that it all belongs to the Lord. Through Christ, God has given us the free use of all creatures, sanctifying them for our benefit. Therefore, we can freely partake of everything, as long as it does not dishonor God or go against our own conscience. We need not fear being defiled, as everything in the world is sacred and pure, provided we use it responsibly and in accordance with God's will.",
+            "wordCount": 129,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.860895665053509,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                29.18,
+                36.55,
+                34.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All food is God's and is meant for our use without questioning, as long as our conscience does not have any scruples about it. This principle is based on the fact that the earth and all its contents belong to the Lord and have been appointed for our benefit. As believers, we can freely partake of the fullness of the earth, gratefully receiving all that it offers. Through Christ, God has given us the freedom to enjoy His creation, with the assurance that nothing in the world is defiling if used in a manner that honors Him and aligns with our conscience.",
+            "wordCount": 103,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.9785701249564909,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.13,
+            "commentatorTierSimilarities": [
+                31.92,
+                36.33,
+                31.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

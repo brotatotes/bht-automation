@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:15:59",
+    "verseRef": "2 Corinthians 4:7",
+    "bestBHT": {
+        "bht": "It is a remarkable display of God's power that an earthen vessel, a frail and humble body, can carry such brilliance and safeguard a precious treasure. This treasure signifies the gospel, an abundance of rich truths that are stored in ministers of the Word, who are themselves ordinary and fragile. The purpose of this arrangement is to highlight the divine power at work and ensure that it is God, not humans, who is honored. We are mere vessels, used by God to fulfill His purposes and demonstrate His boundless power.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.9841605837993246,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+        "commentatorTierSimilarities": [
+            35.15,
+            26.19,
+            38.66
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This very thing is the chief marvel, and the grandest proof of God\u2019s power, that an earthen vessel can carry so much brightness, and be the deposit of such a treasure.\" ",
+            "The vessel is the body, not the whole personality; the 'outer man' of ver. 16; see ver. 10.\" ",
+            "The exceeding greatness of the power, viz. of the power consisting in the effects of the apostolic ministry, as well as in the upholding under trials and difficulties."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This very fact is one of the most marvellous proofs of God's power, that an earthen vessel could bear such splendor and keep such a treasure\" (CHRYSOSTOM, Homilies, 8.496, A)."
+        ],
+        "Albert Barnes": [
+            "The expression here is similar to that which the Saviour uses when he calls the gospel 'the pearl of great price.'",
+            "They had showed their sense of its worth by being willing to endure all kinds of trial in order to make it everywhere known.",
+            "It is not splendid talents, or profound learning, or distinguished eloquence, that is always or even commonly most successful. Often the ministry of such is entirely barren; while some humble and obscure man shall have constant success, and revivals shall attend him wherever he goes."
+        ],
+        "Marvin Vincent": [
+            "In the very breaking of the vessel the light is revealed.",
+            "The humblest vessels contained the highest wisdom.",
+            "The fullness of power apparent in the apostolic ministry."
+        ],
+        "John Calvin": [
+            "A treasure is not the less valuable, that the vessel, in which it is deposited, is not a precious one.",
+            "It is ordered by the special Providence of God, that there should be in ministers no appearance of excellence, lest any thing of distinction should throw the power of God into the shade.",
+            "If he be a minister of the gospel, he will be a mean and merely earthen depository of an inestimable treasure."
+        ],
+        "Archibald T. Robertson": [
+            "The power is limitless, but it is stored in very unlikely receptacles.\" ",
+            "We are but earthen jars used of God for his purposes and so fragile.",
+            "This is God's purpose. God, not man, is the dynamo."
+        ],
+        "John Gill": [
+            "The Gospel is called a 'treasure,' for not grace, nor Christ, but the Gospel is here meant; which is so styled, because it contains rich truths, and an abundance of them.",
+            "The repository, or cabinet, in which this treasure is, are 'earthen vessels'; by which are meant, ministers of the word, who are so in themselves, in their own esteem, and in the esteem of others.",
+            "The reason why it pleased God to put such a rich and valuable treasure into the hands of persons so mean and contemptible was, that the excellency of the power may be of God, and not of us."
+        ],
+        "John Wesley": [
+            "Have this treasure \u2014 Of divine light, love, glory.",
+            "In earthen vessels \u2014 In frail, feeble, perishing bodies.",
+            "That the excellence of the power, which works these in us, may undeniably appear to be of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is truly astounding that God would choose to place such a precious treasure in something as fragile as an earthen vessel. This treasure, referred to as the gospel, is a valuable and abundant source of rich truths. The vessel mentioned here is the human body, the outer shell that houses the soul. Despite its seeming insignificance, this vessel becomes the means through which God's power is magnified. Through the ministry of apostles and other humble servants, the brilliance of the treasure is revealed. It is in the very breaking of these vessels that the light of the gospel shines forth. This is a testament to the limitless power of God, who purposefully employs imperfect and ordinary individuals to carry His message. Such vessels may lack the appearance of excellence, but it is precisely because of their weakness that God's power becomes all the more evident. So, let us recognize that it is not our own abilities, but the divine treasure within us that brings forth the true power and glory of God.",
+            "wordCount": 175,
+            "quoteTokenProportion": 37.62,
+            "qualityScore": 1.964162455492906,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+            "commentatorTierSimilarities": [
+                36.12,
+                26.62,
+                37.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's power is most clearly displayed when an earthen vessel, a fragile and ordinary body, contains such a valuable treasure. This treasure refers to the gospel, filled with rich truths, entrusted to ministers who, in themselves, may seem insignificant. Yet, it is precisely through these humble vessels that the brilliance of the gospel is revealed. Their weakness and fragility only serve to highlight the limitless power of God. The treasure within is what truly matters, not the vessel itself. Therefore, let us recognize that the power that works through us is undeniably of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.919507629722765,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.17,
+            "commentatorTierSimilarities": [
+                34.9,
+                26.48,
+                38.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief marvel and proof of God's power lies in the fact that a fragile earthen vessel can bear such brightness and contain such a treasure. This treasure represents the gospel, a valuable and abundant source of rich truths. It is no coincidence that this treasure is stored in unlikely receptacles - ministers of the Word who are humble, fragile, and ordinary. Through their weaknesses, God's power is magnified, and the excellence of His power becomes evident. Thus, we are reminded that the true power lies in God, not in us.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.9030539416242376,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+            "commentatorTierSimilarities": [
+                38.53,
+                22.6,
+                38.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is a remarkable display of God's power that an earthen vessel, a frail and humble body, can carry such brilliance and safeguard a precious treasure. This treasure signifies the gospel, an abundance of rich truths that are stored in ministers of the Word, who are themselves ordinary and fragile. The purpose of this arrangement is to highlight the divine power at work and ensure that it is God, not humans, who is honored. We are mere vessels, used by God to fulfill His purposes and demonstrate His boundless power.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9841605837993246,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+            "commentatorTierSimilarities": [
+                35.15,
+                26.19,
+                38.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In contemplating the verse, we are struck by the incredible display of God's power evidenced by the fact that a common earthen vessel can house and radiate such brilliance as the treasure within. This treasure represents the gospel, filled with profound truths, dwelling within ministers who may appear unremarkable in their frail, ordinary bodies. Yet, it is precisely through these vessels that the power of God is magnified. Thus, the true marvel lies not in the vessel itself, but in the boundless power of God and His purpose in using such unlikely receptacles.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.9817800509831716,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                38.39,
+                24.0,
+                37.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

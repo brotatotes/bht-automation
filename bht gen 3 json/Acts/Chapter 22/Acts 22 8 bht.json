@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:34:54",
+    "verseRef": "Acts 22:8",
+    "bestBHT": {
+        "bht": "Paul encountered the Lord on the road to Damascus, where Jesus identified Himself as Jesus of Nazareth, the Nazarene. This unique title, only found in this account of Paul's conversion, serves to distinguish Jesus and His followers. The interruption of the persecutor's actions by The Nazarene prompted further inquiry into Jesus' identity. This encounter marked the beginning of Paul's quest to understand the true nature and significance of Jesus, the Nazarene.",
+        "wordCount": 74,
+        "quoteTokenProportion": 31.91,
+        "qualityScore": 1.7679425411616796,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+        "commentatorTierSimilarities": [
+            38.94,
+            47.4,
+            13.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "8. Jesus of Nazareth\u2014the",
+            "\tNazarene. See on Acts 9:5."
+        ],
+        "Marvin Vincent": [
+            "Of Nazareth [\u03bf \u03bd\u03b1\u03b6\u03c9\u03c1\u03b1\u03b9\u03bf\u03c2] . Lit., the Nazarene. Not mentioned in ch. 9."
+        ],
+        "Philip Schaff": [
+            "I am Jesus of Nazareth, whom thou persecutes.",
+            "This title of the Lord is peculiar to this account of the conversion.",
+            "The inquisitor was arrested in his work by One from heaven calling Himself 'The Nazarene.'"
+        ],
+        "Archibald T. Robertson": [
+            "The form \u039d\u03b1\u03b6\u03c9\u03c1\u03b1\u03b9\u03bf\u03c2 as in Matthew 2:23 (which see) is used also in Acts 24:5 for the followers of Jesus instead of \u039d\u03b1\u03b6\u03b1\u03c1\u03b7\u03bd\u03bf\u03c2 as in Mark 1:24, etc. (which see).",
+            "The Nazarene, not in Acts 9:5; Acts 26:15 and here because Jesus is mentioned now for the first time in the address.",
+            "The form \u039d\u03b1\u03b6\u03c9\u03c1\u03b1\u03b9\u03bf\u03c2 as in Matthew 2:23 (which see) is used also in Acts 24:5 for the followers of Jesus instead of \u039d\u03b1\u03b6\u03b1\u03c1\u03b7\u03bd\u03bf\u03c2 as in Mark 1:24, etc. (which see)."
+        ],
+        "John Gill": [
+            "And I answered, who art thou, Lord?....",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "8. Jesus of Nazareth, also known as the Nazarene, appeared before Paul and the inquisitor in a moment of divine intervention. This title of Jesus, the Nazarene, is unique to this account of Paul's conversion and is used to distinguish His followers. It was through the call of The Nazarene that the persecutor's work was halted, causing him to question and seek further understanding of Jesus' identity.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6490664385027516,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                36.21,
+                40.75,
+                23.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord revealed Himself to Paul as Jesus of Nazareth, the Nazarene. This unique title, used specifically in this account of Paul's conversion, identifies Jesus and sets apart His followers. The mention of The Nazarene interrupted the inquisitor's persecution, prompting him to inquire about the identity of the Lord. It was through this encounter that Paul's spiritual journey and understanding of Jesus began to unfold.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.7405423299645126,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.21,
+            "commentatorTierSimilarities": [
+                34.96,
+                49.17,
+                15.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When faced with a divine encounter on the road to Damascus, Paul heard the voice of Jesus identifying Himself as Jesus of Nazareth, the Nazarene. This title, unique to this particular moment in Paul's conversion, distinguished the followers of Jesus. It was through this encounter, with Jesus proclaiming Himself as The Nazarene, that Paul's journey of questioning and seeking to understand the Lord's identity began.",
+            "wordCount": 68,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.728590887458079,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                36.35,
+                48.09,
+                15.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord made Himself known to Paul as Jesus of Nazareth, the Nazarene. This specific title, used exclusively in this narrative of Paul's conversion, sets apart Jesus and His followers. The interruption of the inquisitor's persecution by the mention of The Nazarene led to curiosity about the Lord's identity. Through this encounter, Paul's spiritual journey and understanding of Jesus' true nature were sparked.",
+            "wordCount": 67,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.665487522649476,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                36.9,
+                48.55,
+                14.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul encountered the Lord on the road to Damascus, where Jesus identified Himself as Jesus of Nazareth, the Nazarene. This unique title, only found in this account of Paul's conversion, serves to distinguish Jesus and His followers. The interruption of the persecutor's actions by The Nazarene prompted further inquiry into Jesus' identity. This encounter marked the beginning of Paul's quest to understand the true nature and significance of Jesus, the Nazarene.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 1.7679425411616796,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                38.94,
+                47.4,
+                13.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

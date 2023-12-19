@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:20:19",
+    "verseRef": "Colossians 1:17",
+    "bestBHT": {
+        "bht": "Christ, the preexistent Son of God, is not only the Creator but also the Conserver and Sustainer of all things. He maintains the universe in continuous stability and productiveness, holding it together by his infinite power. Without him, nature would break apart. He governs and manages all creatures and all aspects of Providence, demonstrating his preeminence as the controlling force in nature. His role as the Conserver highlights his divine nature and shows that he is the one who upholds and preserves the universe.",
+        "wordCount": 84,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 2.0939099608582623,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+        "commentatorTierSimilarities": [
+            36.91,
+            28.34,
+            34.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and He Himself (emphatic, His own person) is... before (in time; bringing out one side of the primo-genitive above: not in rank, as the Socinians), all things\" (Colossians 1:17) ",
+            "...in Him (as its conditional element of existence, see above on 'in him,' ver. 16) the universe subsists ( 'keeps together,' 'is held together in its present state:')\" (Colossians 1:17)",
+            "Not only did He call it out of nothing into being, but He also holds it together now.\" (Colossians 1:17)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And He Himself (the great HE) is (implying divine essential being) before all things.",
+            "Since He is before all things, He is before even time, that is, from eternity.",
+            "The Son of God is the Conserver, as well as the Creator of all things."
+        ],
+        "Albert Barnes": [
+            "The fair and proper meaning of the word 'before' is, that he was before all things in the order of existence.",
+            "It is equivalent to saying that he was eternal - for he that had an existence before anything was created, must be eternal.",
+            "If this be the proper interpretation, then it is the ascription to Christ of infinite power - for nothing less could be sufficient to uphold the universe; and of infinite wisdom - for this is needed to preserve the harmonious action of the suns and systems of which it is composed."
+        ],
+        "Marvin Vincent": [
+            "He emphasizes the personality, is the preexistence.",
+            "Christ not only creates, but maintains in continuous stability and productiveness.",
+            "He, the Wisdom of God, holds the universe in tune together."
+        ],
+        "John Calvin": [
+            "He places angels in subjection to Christ, that they may not obscure his glory.\" ",
+            "He sustains them by his power, and upholds them in their condition.\" ",
+            "He places the Son of God in the Highest seat of honor, that he may have the pre-eminence over angels as well as men, and may bring under control all creatures in heaven and in earth."
+        ],
+        "Philip Schaff": [
+            "He (emphatic) is before all things. \u2018Before\u2019 in time, preexistent to \u2018all things,\u2019 not simply \u2018all beings.\u2019 He did not become thus preexistent, but \u2018is\u2019 prior in time.",
+            "And in him all things subsist, more literally, \u2018stand together.\u2019 This is not a repetition of the first clause of Colossians 1:16: there the fact of creation is mentioned; here a more permanent relation is set forth. He keeps in organic permanence what was created in Him, through Him and unto Him; comp. Hebrews 1:3.",
+            "\u2018Christ is the Living Centre, to which all things in creation converge, the Divine Keystone in the arch of the universe, on which the whole fabric leans\u2019 (Chrysostom)."
+        ],
+        "Archibald T. Robertson": [
+            "The precedence of Christ in time and the preeminence as Creator are both stated sharply.",
+            "Christ is the controlling and unifying force in nature.",
+            "The Son of God's love is the Creator and the Sustainer of the universe which is not evil."
+        ],
+        "John Gill": [
+            "He is before all things...he must needs be, since they are all made by him; ...and therefore must be God, who is from everlasting to everlasting.",
+            "He upholds all things by the word of his power...the whole frame of nature would burst asunder and break in pieces, was it not held together by him.",
+            "All the affairs of Providence relating to all creatures are governed, directed, and managed by him, in conjunction with the Father and the blessed Spirit."
+        ],
+        "John Wesley": [
+            "And he is before all things \u2014 It is not said, he was: he is from everlasting to everlasting.",
+            "And by him all things consist \u2014 The original expression not only implies, that he sustains all things in being, but more directly, All things were and are compacted in him into one system.",
+            "He is the cement, as well as support, of the universe. And is he less than the supreme God?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes that Christ is not only the Creator of all things but also the one who upholds and maintains them. He is before all things, existing in eternity, and his power is infinite in order to sustain the universe. In him, all things stand together in organic permanence. Christ is the divine center, the keystone of the universe, holding everything in harmony. Without him, nature would break apart. He governs and manages all creatures and all aspects of Providence. His role as the Sustainer highlights his preeminence over all beings and underscores his divinity.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.055301391776779,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+            "commentatorTierSimilarities": [
+                35.48,
+                31.1,
+                33.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, the Creator, is the one who upholds and maintains all things. He existed before all things, from eternity. His infinite power is necessary to sustain the universe and preserve its harmony. In him, everything stands together in organic permanence. He is the divine center, the keystone that holds the universe in harmony. Without him, nature would break apart. He governs and manages all creatures and aspects of Providence. His role as the Sustainer highlights his preeminence and divine nature.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.007059792204118,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.08,
+            "commentatorTierSimilarities": [
+                35.72,
+                30.45,
+                33.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, the Creator, is the one who upholds and maintains all things. He existed before all things, from eternity. His infinite power is necessary to preserve the harmonious action of the universe. In him, everything stands together in organic permanence. Without Christ, nature would break apart. He governs and manages all creatures and aspects of Providence. His role as the Sustainer highlights his preeminence and divine nature.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.01405231429011,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                35.79,
+                31.61,
+                32.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ, the preexistent Son of God, is not only the Creator of all things but also the Conserver and Sustainer of the universe. He holds the universe together and keeps it in continuous stability and productiveness. His power and wisdom are infinite, necessary to uphold and preserve the harmonious action of the suns and systems that compose the universe. Without him, nature would break apart. He governs and manages all creatures and all aspects of Providence, displaying his preeminence and divine nature as the controlling force in nature.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.0863088703538226,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+            "commentatorTierSimilarities": [
+                35.68,
+                30.61,
+                33.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, the preexistent Son of God, is not only the Creator but also the Conserver and Sustainer of all things. He maintains the universe in continuous stability and productiveness, holding it together by his infinite power. Without him, nature would break apart. He governs and manages all creatures and all aspects of Providence, demonstrating his preeminence as the controlling force in nature. His role as the Conserver highlights his divine nature and shows that he is the one who upholds and preserves the universe.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.0939099608582623,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+            "commentatorTierSimilarities": [
+                36.91,
+                28.34,
+                34.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

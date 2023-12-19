@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:22:31",
+    "verseRef": "Luke 21:12",
+    "bestBHT": {
+        "bht": "Before the end, there will be certain signs and events that will occur. These signs, known as the beginning of the actual pangs, will serve as a warning of what is to come. One of these signs is being brought before authorities, both religious and secular, and facing persecution for the sake of Christ's name. This can involve being brought before synagogues, being delivered up to prisons, and even being brought before kings and rulers. These events were not only prophesied by Jesus Himself, but they are also confirmed in the book of Acts. So, when we see these things happening, we can be assured that we are approaching the end times.",
+        "wordCount": 113,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.1485325950193763,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.53,
+        "commentatorTierSimilarities": [
+            36.86,
+            30.1,
+            33.03
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The prophecies of vv. 7, 8 in Matthew,\u2014ver. 8 Mark,\u2014and vv. 10, 11 here, are a parenthetical warning of what shall happen before the end.",
+            "The whole difficulty has arisen from not rightly apprehending the force of the word pangs as the death-throes of the end.",
+            "And then having stated, that these things shall be the very beginning of the actual pangs themselves (see note on Matthew), the prophetic chronology is resumed from 'the end is not yet,' in all three accounts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. brought before, &amp;c.\u2014The",
+            "\tbook of Acts verifies all this."
+        ],
+        "Philip Schaff": [
+            "The discrepancy is only apparent.",
+            "Certain things which are 'the beginning of sorrows'",
+            "Introducing these as a proof that 'the end is not yet'"
+        ],
+        "Archibald T. Robertson": [
+            "Before all these things.\" ",
+            "Bringing you.",
+            "A technical term in Athenian legal language."
+        ],
+        "John Gill": [
+            "Before all these, they shall lay their hands on you... and persecute you.\" ",
+            "Delivering you up to the synagogues... and into prisons.\" ",
+            "Being brought before kings and rulers, for my name's sake."
+        ],
+        "John Wesley": [
+            "Mark 13:9."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Before the end, there will be certain signs and events that will occur. These signs, known as the beginning of the actual pangs, will serve as a warning of what is to come. One of these signs is being brought before authorities, both religious and secular, and facing persecution for the sake of Christ's name. This can involve being brought before synagogues, being delivered up to prisons, and even being brought before kings and rulers. These events were not only prophesied by Jesus Himself, but they are also confirmed in the book of Acts. So, when we see these things happening, we can be assured that we are approaching the end times.",
+            "wordCount": 113,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.1485325950193763,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.53,
+            "commentatorTierSimilarities": [
+                36.86,
+                30.1,
+                33.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Before the end, there will be signs that serve as a warning. The beginning of the actual pangs includes being brought before authorities and facing persecution for Christ's sake. This can involve synagogues, prisons, and even kings and rulers. Jesus prophesied these events, and the book of Acts confirms them. When we see these signs, we know we are approaching the end times.",
+            "wordCount": 64,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.1624731118132474,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.0,
+            "commentatorTierSimilarities": [
+                30.86,
+                33.04,
+                36.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Before the end, there will be signs that serve as a warning of what is to come. The beginning of these pangs involves being brought before authorities and facing persecution for Christ's sake. This can involve synagogues, prisons, and even kings and rulers. Jesus Himself prophesied these events, which are also confirmed in the book of Acts. So, when we see these signs happening, we can be assured that we are approaching the end times.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.1480171629709308,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.52,
+            "commentatorTierSimilarities": [
+                33.85,
+                30.73,
+                35.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophecies of what shall happen before the end are a warning of the pangs that will occur. These pangs include being brought before authorities and facing persecution for Christ's sake. It involves synagogues, prisons, and even kings and rulers. Jesus prophesied these events, which are confirmed in the book of Acts. So when these signs appear, we know that we are approaching the end times.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.1817252459488787,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.64,
+            "commentatorTierSimilarities": [
+                32.79,
+                32.01,
+                35.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Before the end, there will be signs that serve as a warning. These signs, known as the beginning of the actual pangs, involve being brought before authorities, facing persecution, and even appearing before kings and rulers. Jesus Himself prophesied these events, which are confirmed in the book of Acts. Therefore, when we see these signs unfolding, it is a clear indication that we are approaching the end times.",
+            "wordCount": 68,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.2709694495645913,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.6,
+            "commentatorTierSimilarities": [
+                37.44,
+                34.56,
+                28.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

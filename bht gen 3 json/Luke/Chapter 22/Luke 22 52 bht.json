@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:23:03",
+    "verseRef": "Luke 22:52",
+    "bestBHT": {
+        "bht": "Treating Jesus as if he were a bandit, they came against him with swords and staves, as if he were a thief. They were there to see their demands carried out and to provide support and encouragement. Jesus, however, questioned why they approached him as if he were a robber.",
+        "wordCount": 50,
+        "quoteTokenProportion": 53.12,
+        "qualityScore": 1.6691934300647677,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+        "commentatorTierSimilarities": [
+            41.63,
+            27.57,
+            30.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Thief [\u03bb\u03b7\u03c3\u03c4\u03b7\u03bd] . See on Matthew 26:55; Luke 10:30; Mark 11:17. ",
+            "- 62. Compare Matthew 26:57, Matthew 26:58, Matthew 26:69-75; Mark 14:53, Mark 14:54, Mark 14:66-72."
+        ],
+        "Philip Schaff": [
+            "Luke alone speaks of these, and it was very natural that some of them should accompany the band.",
+            "Some infer from the fact of their being first mentioned at this point, that they entered the garden after the band of Judas."
+        ],
+        "Archibald T. Robertson": [
+            "As against a robber? (\u03c9\u03c2 \u03b5\u03c0 \u03bb\u03b7\u03b9\u03c3\u03c4\u03b7\u03bd;). They were treating Jesus as if he were a bandit like Barabbas. "
+        ],
+        "John Gill": [
+            "After he had wrought this miracle, and had quieted the mob, and restrained them from falling upon the apostles, and cutting them to pieces...",
+            "Which came along with Judas and the multitude, in order to see things done to their mind, and to animate both Judas and the soldiers and their officers, by their presence...",
+            "Be ye come out as against a thief, with swords and staves?"
+        ],
+        "John Wesley": [
+            "Jesus said to the chief priests, and captains, and the elders who were come \u2014 And all these came of their own accord: the soldiers and servants were sent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Treating Jesus as if he were a bandit, the chief priests, captains, and elders came against him with swords and staves, as if he were a thief. Some of them even accompanied the band, entering the garden after Judas. They were there to see their demands carried out and to provide support and encouragement. Jesus, however, questioned why they approached him as if he were a robber, when he had come peacefully and without resistance.",
+            "wordCount": 75,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.6563677758801099,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+            "commentatorTierSimilarities": [
+                30.55,
+                36.03,
+                33.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Treating Jesus as if he were a bandit, they came against him with swords and staves, as if he were a thief. They were there to see their demands carried out and to provide support and encouragement. Jesus, however, questioned why they approached him as if he were a robber.",
+            "wordCount": 50,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 1.6691934300647677,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "commentatorTierSimilarities": [
+                41.63,
+                27.57,
+                30.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Treating Jesus as if he were a bandit, the chief priests and captains approached him with swords and staves, as if he posed a threat like a robber. This parallels the treatment of Barabbas and highlights the misunderstanding and false accusation against Jesus. Additionally, it is mentioned that some of these people accompanied the band, potentially entering the garden after Judas. Ultimately, Jesus questioned their actions, asking if they truly came out against him as against a thief.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.8768412642824104,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                36.66,
+                33.06,
+                30.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Treating Jesus as a thief, the chief priests and captains approached Him with swords and staves, erroneously equating Him with a bandit like Barabbas. Luke contrasts their perception of Jesus with the reality of His innocence. Notably, some commentators suggest that these individuals joined the band after Judas. In response to their aggressive actions, Jesus questioned their motives, asking if they truly regarded Him as a thief.",
+            "wordCount": 67,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8688224896530863,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                35.9,
+                36.02,
+                28.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Treating Jesus as if He were a bandit, the chief priests and captains came armed with swords and staves, similar to how one would confront a thief. This unjust comparison reflects the false accusation against Jesus. Some suggest that these individuals may have joined the band after Judas. Jesus questioned their purpose, asking if they truly considered Him a thief.",
+            "wordCount": 60,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.7729699248592312,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "commentatorTierSimilarities": [
+                36.35,
+                32.27,
+                31.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:08:23",
+    "verseRef": "Romans 11:24",
+    "bestBHT": {
+        "bht": "If you, a Gentile, were grafted into the good olive tree, contrary to nature, then it is even more expected and probable that the natural branches, the Jews, can be grafted back into their own olive tree. This ability of God to do what is contrary to natural processes is the essence of the argument. The olive tree is not just theirs, but ultimately it belongs to God, who remembers His covenant and has the power to bring about this restoration.",
+        "wordCount": 81,
+        "quoteTokenProportion": 54.55,
+        "qualityScore": 2.280212640305578,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.16,
+        "commentatorTierSimilarities": [
+            34.15,
+            28.19,
+            37.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If thou wert cut off from the olive tree which is by nature wild, and wast grafted contrary to nature into a good olive tree: how much more shall these, which be the natural branches, be grafted into their own olive tree?",
+            "It is a question, as Tholuck remarks, whether by nature and contrary to nature denote merely growth in the natural manner and growth (by engratting) in an unnatural (i. e. artificial) manner.",
+            "We must at least assume a mixture of the two meanings, the antithesis of by nature and contrary to nature, being rather verbal than logical,\u2014as is so common in the writings of the Apostle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For if thou wert cut off from the olive tree, which is wild by nature, and wast grafted contrary to nature into a good olive tree; how much more shall these, c.\" ",
+            "As the excision of the merely engrafted Gentiles through unbelief is a thing much more to be expected than was the excision of the natural Israel, before it happened.",
+            "The restoration of Israel, when they shall be brought to believe in Jesus, is a thing far more in the line of what we should expect, than the admission of the Gentiles to a standing which they never before enjoyed."
+        ],
+        "Albert Barnes": [
+            "If you were introduced into a state of favor with God from a condition which was one of enmity and hostility to him.",
+            "Contrary to your natural habits, thoughts, and practices. There was among the Gentiles no inclination or tendency toward God.",
+            "If God had mercy on the Gentiles, who were outcasts from his favor, shall he not much rather on those who were so long his people, to whom had been given the promises, and the covenants, and the Law."
+        ],
+        "Marvin Vincent": [
+            "Contrary to nature. See remarks on ver. 17."
+        ],
+        "Philip Schaff": [
+            "For introduces the entire verse as a proof of the probability that the Jews will ultimately be grafted in again.\" ",
+            "All notions of additional life imparted by the grafts are here shown to be foreign to the Apostle's thought.",
+            "The tree is not merely 'their own' but it is God's; He remembers His covenant."
+        ],
+        "Archibald T. Robertson": [
+            "Contrary to nature (\u03c0\u03b1\u03c1\u03b1 \u03c6\u03c5\u03c3\u03b9\u03bd). This is the gist of the argument, the power of God to do what is contrary to natural processes.",
+            "He put the wild olive (Gentile) into the good olive tree (the spiritual Israel) and made the wild olive (contrary to nature) become the good olive (\u03ba\u03b1\u03bb\u03bb\u03b9\u03b5\u03bb\u03b1\u03b9\u03bf\u03c2, the garden olive, \u03ba\u03b1\u03bb\u03bb\u03bf\u03c2 and \u03b5\u03bb\u03b1\u03b9\u03b1 in Aristotle and a papyrus).",
+            "God can graft the natural Israel back upon the spiritual Israel, if they become willing."
+        ],
+        "John Gill": [
+            "For if thou wert cut out of the olive tree... and wert grafted, contrary to nature, into a good olive tree...\" ",
+            "...this ingrafting was not of nature, it was contrary to it; but of pure grace, and sovereign good will and pleasure...\" ",
+            "...the Jews, the natural branches or descendants of Abraham, should be brought into a Gospel church state... The Gospel church is called 'their own olive tree', in allusion to Israel, or the Jewish church..."
+        ],
+        "John Wesley": [
+            "Contrary to nature \u2014 For according to nature, we graft the fruitful branch into the wild stock; but here the wild branch is grafted into the fruitful stock."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you, as a Gentile, were grafted into the good olive tree, the spiritual Israel, contrary to the natural order, then how much more can the natural branches, the Jews, be grafted back into their own olive tree? It is even more expected and probable that the restoration of the Israelites, when they come to believe in Jesus, would happen, compared to the admission of the Gentiles to a position they never before had. This ability of God to do what is contrary to natural processes is the essence of the argument. And indeed, the olive tree is not just theirs, but ultimately it belongs to God, who remembers His covenant.",
+            "wordCount": 111,
+            "quoteTokenProportion": 53.42,
+            "qualityScore": 2.1373563430134066,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.41,
+            "commentatorTierSimilarities": [
+                34.0,
+                33.26,
+                32.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you, a Gentile, were grafted into the good olive tree, contrary to nature, then it is even more expected and probable that the natural branches, the Jews, can be grafted back into their own olive tree. This ability of God to do what is contrary to natural processes is the essence of the argument. The olive tree is not just theirs, but ultimately it belongs to God, who remembers His covenant and has the power to bring about this restoration.",
+            "wordCount": 81,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 2.280212640305578,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.16,
+            "commentatorTierSimilarities": [
+                34.15,
+                28.19,
+                37.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If you, a Gentile, were grafted into the good olive tree, contrary to nature, then it should be even more certain that the natural branches, the Jews, can be grafted back into their own olive tree. The restoration of Israel, when they come to believe in Jesus, is far more in line with what we should expect than the admission of Gentiles to a standing they never had before. It is a demonstration of God's power to do what is contrary to natural processes.",
+            "wordCount": 85,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 2.2500631551569197,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                38.15,
+                28.94,
+                32.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you, as a Gentile, were grafted into the good olive tree, contrary to nature, then it is even more probable and expected that the natural branches, the Jews, will be grafted back into their own olive tree. The restoration of the Israelites, when they come to believe in Jesus, is far more in line with what we should anticipate than the inclusion of Gentiles in a position they had never previously known. It demonstrates God's power to work contrary to natural processes.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1961397378891996,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.36,
+            "commentatorTierSimilarities": [
+                35.71,
+                30.12,
+                34.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you, as a Gentile, were grafted into the good olive tree, contrary to nature, it is even more likely and anticipated that the natural branches, the Jews, will be grafted back into their own olive tree. The restoration of Israel, when they believe in Jesus, aligns more with our expectations than the admission of Gentiles to a position they have never known. This demonstrates God's power to work against natural processes, and ultimately, the olive tree belongs to Him, as He remembers His covenant.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 2.252032260181235,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+            "commentatorTierSimilarities": [
+                33.53,
+                31.33,
+                35.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

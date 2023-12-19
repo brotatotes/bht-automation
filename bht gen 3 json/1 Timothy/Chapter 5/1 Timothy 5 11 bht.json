@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:29:32",
+    "verseRef": "1 Timothy 5:11",
+    "bestBHT": {
+        "bht": "Younger widows are advised to refuse the opportunity to be enrolled as presbyteress widows, as their inclination to marry again demonstrates a lack of commitment to their initial faith in Christ. By giving in to their desires for marriage, they rebel against Christ and forsake their promise to devote themselves to widowhood. Engaging in unruly desires would hinder their service to Christ in His church. Therefore, it is imperative for them to decline the offer of becoming presbyteress widows to remain steadfast in their dedication to Christ and avoid being led astray.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.2069133745616574,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.72,
+        "commentatorTierSimilarities": [
+            35.91,
+            30.02,
+            34.07
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But younger widows decline (to place on the roll)... for when they shall wax wanton against Christ, they desire to marry (again)... because they set at nought their first faith.\" ",
+            "Having devoted themselves to widowhood as their state of life, and to the duties of the order of presbytresses as their occupation, they will thus be guilty of a dereliction of their deliberate promise.",
+            "Of the later vows of celibacy, and ascetic views with regard to second marriages, there is no trace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "refuse\u2014to take on the roll of presbyteress widows.",
+            "wax wanton\u2014literally, 'over-strong'",
+            "against Christ\u2014rebelling against Christ, their proper Bridegroom"
+        ],
+        "Albert Barnes": [
+            "The word 'wanton' then meant 'wandering' or 'roving in gaiety or sport; moving or flying loosely; playing in the wind; then, wandering from moral rectitude, licentious, dissolute, libidinous'.",
+            "The sense here is, that they would not be subordinate to the restraints implied in that situation, they would become impatient, and would marry again.",
+            "It is clear, from this, that the apostle did not contemplate any vows which would prevent their marrying again; nor does he say that it would be absolutely wrong for them to marry, even if they were admitted in to that rank."
+        ],
+        "Marvin Vincent": [
+            "The compound verb, signifying to feel the sexual impulse, only here, and not in LXX or Class.",
+            "Their unruly desire withdraws them from serving Christ in his church, and is, therefore, against him.",
+            "Better, they are bent on marrying, or determined to marry."
+        ],
+        "John Calvin": [
+            "Paul, I say, does not allow of abstaining from marriage till they are in extreme old age, and altogether beyond the danger of incontinence.",
+            "Accordingly, it is rash, and even cruel, to lay a snare for those who still are young girls, and who would have been fitter for the married state.",
+            "How many monsters of crimes are produced every day in Popery by that compulsory celibacy of nuns! What barriers does it not deliberately break through!"
+        ],
+        "Philip Schaff": [
+            "Refuse, i.e. decline to place them on the register of those entitled to special privileges.",
+            "Wax wanton. Another of the vigorous colloquial phrases of the Epistle, implying partly wilful resistance, partly lascivious desire.",
+            "They will marry. The Greek is more emphatic: \u2018They will or desire to marry.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "But younger widows refuse (\u03bd\u03b5\u03c9\u03c4\u03b5\u03c1\u03b1\u03c2 \u03b4\u03b5 \u03c7\u03b7\u03c1\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03bf\u03c5). Present middle imperative as in 1 Timothy 4:7. 'Beg off from.' They lack experience as above and they have other ambitions.\" ",
+            "When they have waxed wanton (\u03bf\u03c4\u03b1\u03bd \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03b7\u03bd\u03b9\u03b1\u03c3\u03c9\u03c3\u03b9\u03bd). First aorist (ingressive) active subjunctive of \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03b7\u03bd\u03b9\u03b1\u03c9, late compound (only here and Ignatius), to feel the impulse of sexual desire, but simplex \u03c3\u03c4\u03c1\u03b7\u03bd\u03b9\u03b1\u03c9 (Revelation 18:7; Revelation 18:9).\" ",
+            "Souter renders it here 'exercise youthful vigour against Christ' (\u03c4\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5, genitive case after \u03ba\u03b1\u03c4\u03b1 in composition)."
+        ],
+        "John Gill": [
+            "Being at ease, and without labour, live a wanton, loose, and licentious life, and in carnal lusts and pleasures, contrary to the commands of Christ, and to the reproach and dishonour of his name.",
+            "Marriage being the effect of wantonness, would not be so honourable in them, and especially after they had made application to the church for relief, and had declared themselves widows indeed, and desolate, and such as trusted in God, and gave themselves up to supplication and prayer.",
+            "It would be much better for them, and more to the credit of religion, to marry first, than afterwards and it would be best not to apply at all to the church; and if they should, it would be most advisable to reject them for the said reasons."
+        ],
+        "John Wesley": [
+            "Refuse \u2014 Do not choose.",
+            "For when they are waxed wanton against Christ \u2014 To whose more immediate service they had addicted themselves.",
+            "They want to marry \u2014 And not with a single eye to the glory of God; and so withdraw themselves from that entire service of the church to which they were before engaged."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Younger widows should decline the opportunity to become presbyteress widows because if they give in to their desires and marry again, they would be disregarding their commitment to Christ. By rejecting celibacy and seeking marriage, they are rebelling against Christ and prioritizing their own desires over their devotion to Him. The choice to marry would cause them to deviate from their initial promise and abandon their deliberate decision to dedicate themselves to widowhood and the responsibilities that come with it. Refusing to be enrolled as presbyteress widows is therefore necessary to prevent them from being drawn away from serving Christ and indulging in unruly desire.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.295165298589416,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.65,
+            "commentatorTierSimilarities": [
+                33.42,
+                31.84,
+                34.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Younger widows ought to refuse to become presbyteress widows, as their inclination to marry again goes against their initial commitment to Christ. By rejecting the call to celibacy and succumbing to their desires, they would be disregarding their first faith. This rebellion against Christ leads them astray from serving Him in His church and indulging in unruly desires. Therefore, it is vital for them to decline the opportunity to be enrolled as presbyteress widows to maintain their dedication to Christ and His work.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1424009365944325,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.58,
+            "commentatorTierSimilarities": [
+                36.13,
+                29.14,
+                34.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Younger widows should decline the opportunity to become presbyteress widows because if they give in to their desires and marry again, they would be disregarding their commitment to Christ. By rejecting celibacy and seeking marriage, they are rebelling against Christ and prioritizing their own desires over their devotion to Him. The choice to marry would cause them to deviate from their initial promise and abandon their deliberate decision to dedicate themselves to widowhood and the responsibilities that come with it. Refusing to be enrolled as presbyteress widows is therefore necessary to prevent them from being drawn away from serving Christ and indulging in unruly desire.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.295165298589416,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.65,
+            "commentatorTierSimilarities": [
+                33.42,
+                31.84,
+                34.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Younger widows should decline to become presbyteress widows because their inclination to marry again goes against their initial commitment to Christ. By rejecting celibacy and giving in to their desires, they are disregarding their faith and rebelling against Christ. This leads them away from serving Him in His church and indulging in unruly desires. Refusing to be enrolled as presbyteress widows is crucial to maintaining their dedication to Christ and avoiding being drawn away from Him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.1304190620147168,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                36.31,
+                28.5,
+                35.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Younger widows are advised to refuse the opportunity to be enrolled as presbyteress widows, as their inclination to marry again demonstrates a lack of commitment to their initial faith in Christ. By giving in to their desires for marriage, they rebel against Christ and forsake their promise to devote themselves to widowhood. Engaging in unruly desires would hinder their service to Christ in His church. Therefore, it is imperative for them to decline the offer of becoming presbyteress widows to remain steadfast in their dedication to Christ and avoid being led astray.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.2069133745616574,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.72,
+            "commentatorTierSimilarities": [
+                35.91,
+                30.02,
+                34.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

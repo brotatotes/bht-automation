@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:27:51",
+    "verseRef": "Acts 7:54",
+    "bestBHT": {
+        "bht": "When they heard these things, they were cut to the heart, their temper of mind different if they could have answered him. Stephen knew this meant death for him, as he had sent a saw through the Pharisees' hearts that rasped them to the bone. Just like a pack of hungry, snarling wolves, they began to gnash their teeth at him in an irrepressible fury, the bitterness and malignity of their feeling evident. The open adoration of the Crucified had moved them to a state of madness, filled with wrath and indignation.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 2.139015554636476,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.46,
+        "commentatorTierSimilarities": [
+            33.47,
+            42.23,
+            24.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "54.] were cut to heart, see ch. v. 33, note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When they heard these things they were cut to the heart.\" ",
+            "If they could have answered him, how different would have been their temper of mind!"
+        ],
+        "Albert Barnes": [
+            "They were cut to the heart - They were exceedingly enraged and indignant.",
+            "The whole course of the speech had been such as to excite their anger, and now they could restrain themselves no longer.",
+            "They gnashed on him ... - Expressive of the bitterness and malignity of their feeling."
+        ],
+        "Marvin Vincent": [
+            "They were cut.",
+            "In both instances, of anger.",
+            "Originally to eat greedily, with a noise, as wild beasts: hence to gnash or grind the teeth."
+        ],
+        "John Calvin": [
+            "The reprobate, who are at Satan\u2019s commandment, must needs be thus moved with the hearing of the word of God; and this is the state of the gospel, it driveth hypocrites into madness.",
+            "Therefore, this is an accidentary [accidental] evil; yet we are taught by these examples, that we must not look that the word of God should draw all men unto a sound mind.",
+            "But as for us, howsoever we have no such success as we could wish, let us know that courage in defending the doctrine of godliness is a sweet-smelling sacrifice to God."
+        ],
+        "Philip Schaff": [
+            "Bitterly as the Sanhedrim felt the sting of Stephen\u2019s reproachful words, as yet they had not proceeded to open violence.\" ",
+            "The expression \u2018to gnash with the teeth \u2018is frequently used in the Old Testament to signify furious rage.",
+            "The open adoration of the Crucified, occasioned by the vision of glory, moved them to an irrepressible fury."
+        ],
+        "Archibald T. Robertson": [
+            "Stephen had sent a saw through the hearts of the Pharisees that rasped them to the bone.",
+            "They began to gnash their teeth at him (just like a pack of hungry, snarling wolves).",
+            "Stephen knew that it meant death for him."
+        ],
+        "John Gill": [
+            "They were filled with anguish, with great pain and uneasiness; they were full of wrath and madness, and could neither bear themselves nor him.",
+            "Being enraged at him, and full of fury and indignation against him.",
+            "They gnashed on him with their teeth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When they heard these things, they were cut to the heart, their temper of mind different if they could have answered him. Stephen knew this meant death for him, for he had sent a saw through the Pharisees' hearts that rasped them to the bone. Just like a pack of hungry, snarling wolves, they began to gnash their teeth at him in an irrepressible fury, the bitterness and malignity of their feeling evident. The open adoration of the Crucified had moved them to a state of madness and anguished pain, filled with wrath and indignation. Such is the state of the gospel, driving hypocrites into madness, but let us remember that courage in defending the doctrine of godliness is a sweet-smelling sacrifice to God.",
+            "wordCount": 125,
+            "quoteTokenProportion": 35.63,
+            "qualityScore": 2.0098580386604836,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.17,
+            "commentatorTierSimilarities": [
+                29.69,
+                39.98,
+                30.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When they heard these things, they were cut to the heart, their temper of mind different if they could have answered him. Stephen knew this meant death for him, for he had sent a saw through the Pharisees' hearts that rasped them to the bone. Just like a pack of hungry, snarling wolves, they began to gnash their teeth at him in an irrepressible fury, the bitterness and malignity of their feeling evident. Such is the state of the gospel, driving hypocrites into madness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.9929466764137014,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                35.59,
+                39.18,
+                25.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When they heard these things, they were cut to the heart, their temper of mind different if they could have answered him. Stephen knew this meant death for him, for he had sent a saw through the Pharisees' hearts that rasped them to the bone. Just like a pack of hungry, snarling wolves, they began to gnash their teeth at him in an irrepressible fury, the bitterness and malignity of their feeling evident. The open adoration of the Crucified had moved them to a state of madness and anguished pain, filled with wrath and indignation.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 2.127337941298143,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.07,
+            "commentatorTierSimilarities": [
+                33.3,
+                41.92,
+                24.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When they heard these things, they were cut to the heart, their temper of mind different if they could have answered him. Stephen knew this meant death for him, for he had sent a saw through the Pharisees' hearts that rasped them to the bone. Just like a pack of hungry, snarling wolves, they began to gnash their teeth at him in an irrepressible fury, the bitterness and malignity of their feeling evident. The open adoration of the Crucified had moved them to a state of madness and anguished pain, filled with wrath and indignation.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 2.127337941298143,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.07,
+            "commentatorTierSimilarities": [
+                33.3,
+                41.92,
+                24.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When they heard these things, they were cut to the heart, their temper of mind different if they could have answered him. Stephen knew this meant death for him, as he had sent a saw through the Pharisees' hearts that rasped them to the bone. Just like a pack of hungry, snarling wolves, they began to gnash their teeth at him in an irrepressible fury, the bitterness and malignity of their feeling evident. The open adoration of the Crucified had moved them to a state of madness, filled with wrath and indignation.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.139015554636476,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.46,
+            "commentatorTierSimilarities": [
+                33.47,
+                42.23,
+                24.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

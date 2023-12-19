@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:56:28",
+    "verseRef": "Philippians 3:17",
+    "bestBHT": {
+        "bht": "Be imitators together of those who serve as examples in their walk worthy of Christ. Join in the imitation of the apostle Paul and others who faithfully imitate Christ. It is not a competition, but rather a collaborative effort to pursue holiness. Let us encourage and support one another in our quest for godliness, striving to model our lives after those who faithfully follow Christ. Keep your focus on those who set an example worth imitating on the journey of righteousness.",
+        "wordCount": 81,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.8400842099239654,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+        "commentatorTierSimilarities": [
+            25.49,
+            42.73,
+            31.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Be imitators together of me.",
+            "Observe those who walk in such manner as you have an example in us.",
+            "Declaration of the high privileges and hopes of Christians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "followers\u2014Greek, 'imitators together.'",
+            "Imitate me no farther than as I imitate Christ.",
+            "Mark for imitation, which walk so as you have us for an ensample."
+        ],
+        "Albert Barnes": [
+            "A minister of the gospel, a parent, or a Christian of any age or condition, ought so to live that he can refer to his own example, and exhort others to imitate the course of life which he had led.",
+            "There were usually two kinds of professing Christians in every church - those who imitate the Saviour, and those who are worldly and vain.",
+            "Our religion takes its form and complexion much from those with whom we associate; and he will usually be the most holy man who associates with the most holy companions."
+        ],
+        "Marvin Vincent": [
+            "Not imitators of Christ in common with me, but be together, jointly, imitators of me.",
+            "Mark [\u03c3\u03ba\u03bf\u03c0\u03b5\u03b9\u03c4\u03b5].",
+            "Briefly, imitate me and those who follow my example."
+        ],
+        "John Calvin": [
+            "Mark them By this expression he means, that it is all one to him what persons they single out for themselves for imitation, provided they conform themselves to that purity of which he was a pattern.",
+            "By this means all suspicion of ambition is taken away, for the man that is devoted to his own interests wishes to have no rival.",
+            "At the same time he warns them that all are not to be imitated indiscriminately, as he afterwards explains more fully."
+        ],
+        "Philip Schaff": [
+            "Fellow-imitators... intimates that the apostle desires every one of the Philippians to join in this imitation.",
+            "Vie with one another in their zeal... each to seek to help his neighbour forward, as well as to make progress himself.",
+            "The apostle and those like him are to be looked at for imitation."
+        ],
+        "Archibald T. Robertson": [
+            "Vie with each other in imitating me.",
+            "Keep your eyes on me as goal.",
+            "Originally the impression left by a stroke, then a pattern (mould) as here."
+        ],
+        "John Gill": [
+            "Not that the apostle set up himself as the head of a party.",
+            "He desires to be followed in: and here he has a particular regard to what went before, concerning reckoning what was gain loss; accounting all things but dung, in comparison of the knowledge of Christ.",
+            "Believers should be ensamples one to another, especially ministers of the word; pastors of churches are not to be lords over God's heritage, but to be ensamples to the flock."
+        ],
+        "John Wesley": [
+            "Mark them \u2014 For your imitation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us imitate those who walk in a manner worthy of Christ, for they serve as examples for us to follow. The apostle Paul urges the Philippians to imitate him and those who imitate Christ. It is not a competition, but rather a joint effort to imitate Christ and strive for holiness. We should vie with one another in our zeal for godliness, helping and encouraging one another along the way. Let us keep our eyes on those who faithfully imitate Christ and strive to mold our lives according to their pattern.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.9797104155604135,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "commentatorTierSimilarities": [
+                25.59,
+                46.34,
+                28.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us imitate those who walk in a manner worthy of Christ, for they serve as examples for us to follow. The apostle Paul urges the Philippians to imitate him and those who imitate Christ. It is not a competition, but rather a joint effort to imitate Christ and strive for holiness. We should vie with one another in our zeal for godliness, helping and encouraging one another along the way. Let us keep our eyes on those who faithfully imitate Christ and strive to mold our lives according to their pattern.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.9797104155604135,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "commentatorTierSimilarities": [
+                25.59,
+                46.34,
+                28.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Follow the example of those who walk in a manner worthy of Christ, imitating the apostle Paul and others who imitate Christ. It is not a competition, but a collective effort to pursue holiness. Let us encourage and support one another in our pursuit of godliness, striving to mold our lives according to the pattern set before us. Keep your gaze fixed on those who faithfully follow Christ, for they provide a model for imitation on the path of righteousness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8010906749346347,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.23,
+            "commentatorTierSimilarities": [
+                24.0,
+                43.69,
+                32.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Be imitators together of those who serve as examples in their walk worthy of Christ. Join in the imitation of the apostle Paul and others who faithfully imitate Christ. It is not a competition, but rather a collaborative effort to pursue holiness. Let us encourage and support one another in our quest for godliness, striving to model our lives after those who faithfully follow Christ. Keep your focus on those who set an example worth imitating on the journey of righteousness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.8400842099239654,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                25.49,
+                42.73,
+                31.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Join together in imitating those who follow Christ and walk in a manner worthy of Him, like the apostle Paul and other believers. It is not about competition, but about collectively striving for holiness. Encourage one another in the pursuit of godliness, supporting and helping each other along the way. Keep your focus on those who faithfully imitate Christ and let their example shape your own life as you grow in righteousness.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.8398042727120103,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                25.2,
+                44.72,
+                30.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

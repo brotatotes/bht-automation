@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 15:13:39",
+    "verseRef": "1 Corinthians 15:12",
+    "bestBHT": {
+        "bht": "If Christ is preached as having risen from the dead, how can some of you deny the existence of a general resurrection? These skeptics, likely Gentile believers influenced by Greek philosophy, struggled to believe what they couldn't fully comprehend or see. But the truth is that Christ's resurrection is the foundation for our own resurrection. Through his resurrection, Christ has demonstrated that the dead can be raised, and if we deny this, then the entire teaching of Christianity crumbles.",
+        "wordCount": 81,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.6176242372227403,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.38,
+        "commentatorTierSimilarities": [
+            34.11,
+            31.45,
+            34.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But if CHRIST is (not subjunctive, be preached: he is arguing from a matter of fact, not from a mere hypothesis) preached that He is risen from the dead (if an instance of such resurrection is a fact announced in our preaching), how say some among you (how comes it to pass that some say) that a resurrection of the dead does not exist (stress on is, in reading the English text)?",
+            "It is an interesting question, WHO these some were: and one which can only be answered by the indications which the argument in this chapter furnishes.",
+            "They must then have been Gentile believers, inheriting the unwillingness of the Greek mind to receive that of which a full account could not be given, see vv. 35, 36: and probably of a philosophical and cavilling turn."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Seeing that it is an admitted fact that Christ is announced by us eye-witnesses as having risen from the dead...",
+            "...how is it that some of you deny that which is a necessary consequence of Christ's resurrection, namely, the general resurrection?",
+            "Gentile reasoners who would not believe it because they did not see 'how' it could be..."
+        ],
+        "Albert Barnes": [
+            "The whole argument is based on the fact that the Lord Jesus had risen. If that was admitted, he shows that it must follow that his people would also rise.",
+            "Facts are unanswerable demonstrations; and when a fact is established, all the obstacles and difficulties in the way must be admitted to be overcome.",
+            "The doctrine of the resurrection, therefore, does not rest on a metaphysical subtilty; it does not depend on human reasoning; it does not depend on analogy; it rests just as the sciences of astronomy, chemistry, anatomy, botany, and natural philosophy do, 'on well ascertained facts.'"
+        ],
+        "Marvin Vincent": [
+            "There is no resurrection.\" ",
+            "But who can recall by charms a man's dark blood shed in death, when once it has fallen to the ground at his feet?",
+            "Had this been lawful, Zeus would not have stopped him who knew the right way to restore men from the dead."
+        ],
+        "John Calvin": [
+            "Christ did not die, or rise again for himself, but for us: hence his resurrection is the foundation of ours.",
+            "The resurrection is not from nature, and comes from no other quarter than from Christ alone.",
+            "If we rise not, then Christ's resurrection becomes null."
+        ],
+        "Philip Schaff": [
+            "Now if Christ is preached...from the dead...",
+            "How say some among you...no resurrection of the dead?",
+            "If Christ is not risen...Christian teaching collapses."
+        ],
+        "Archibald T. Robertson": [
+            "Christ is preached.",
+            "There were skeptics in Corinth, possibly in the church, who denied the resurrection of dead people.",
+            "Paul's answer is the resurrection of Christ as a fact. It all turns on this fact."
+        ],
+        "John Gill": [
+            "Their notion, as it is here expressed, was not only that there would be no resurrection of the dead, but that there was none, nor had been any.",
+            "The resurrection of Christ involves that of his people; for not only the saints rose in, and with Christ, as their head representatively, but because he is their head, and they are members of him, therefore as sure as he the head is risen, so sure shall the members rise likewise.",
+            "The same power that raised Christ from the dead can raise others, even all the saints; so that if it is allowed that Christ is raised, it need not be thought incredible that all the dead shall be raised."
+        ],
+        "John Wesley": [
+            "How say some \u2014 Who probably had been heathen philosophers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "If it is a fact that Christ is preached as having risen from the dead, then why do some among you deny the existence of a general resurrection? These skeptics, likely Gentile believers influenced by Greek philosophy, struggled to believe what they couldn't fully comprehend or see. But the truth is that Christ's resurrection is the foundation for our own resurrection. Through his resurrection, Christ has demonstrated that the dead can be raised, and if we deny this, then the entire teaching of Christianity crumbles. The power that raised Christ from the dead is the same power that can raise all the saints, so it is not incredible to believe in the resurrection of the dead.",
+            "wordCount": 118,
+            "quoteTokenProportion": 52.0,
+            "qualityScore": 2.6281983595727505,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.73,
+            "commentatorTierSimilarities": [
+                33.75,
+                31.1,
+                35.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If Christ is preached as having risen from the dead, how can some of you deny the existence of a general resurrection? These skeptics, likely Gentile believers influenced by Greek philosophy, struggled to believe what they couldn't fully comprehend or see. But the truth is that Christ's resurrection is the foundation for our own resurrection. Through his resurrection, Christ has demonstrated that the dead can be raised, and if we deny this, then the entire teaching of Christianity crumbles.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.6176242372227403,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.38,
+            "commentatorTierSimilarities": [
+                34.11,
+                31.45,
+                34.44
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

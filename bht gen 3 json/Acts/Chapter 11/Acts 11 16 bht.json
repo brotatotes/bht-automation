@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:29:47",
+    "verseRef": "Acts 11:16",
+    "bestBHT": {
+        "bht": "God included the Gentiles by pouring out the Holy Spirit on them, putting them on the same level as the believers. Refusing water baptism as a symbol for the Gentiles would hinder God. Peter understands that water baptism is a symbol of spiritual baptism in the heart. He recalls the words of Jesus, realizing their new meaning and sees the Gentiles' experience of the greater spiritual baptism. The Gentiles cannot be denied the lesser water baptism, as they have already received the greater baptism of the Spirit.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 2.1360738181137684,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.37,
+        "commentatorTierSimilarities": [
+            38.43,
+            21.18,
+            40.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God had Himself, by pouring out on the Gentiles the Holy Spirit, included them in the number of these persons addressed as 'ye' in the prophecy.\" ",
+            "This was the like gift bestowed on them.",
+            "To refuse the symbolic and subordinate ordinance, or to regard them any longer as strangers from the covenant of promise would have been... to withstand (hinder) God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Since God Himself has put them on a level with ourselves, by bestowing on them what the Lord Jesus pronounced the higher baptism of the Holy Ghost, would it not have been to withstand God if I had withheld from them the lower baptism of water, and kept aloof from them as still 'unclean?'\" ",
+            "God Himself has put them on a level with ourselves.",
+            "Would it not have been to withstand God if I had withheld from them the lower baptism of water, and kept aloof from them as still 'unclean?'"
+        ],
+        "Albert Barnes": [
+            "The word of the Lord - See the notes on Acts 1:5."
+        ],
+        "John Calvin": [
+            "For it skilleth much whither men\u2019s minds be directed in seeking the graces of God, because they shall not receive one drop without Christ.",
+            "But if any man trusting to this testimony do make baptism a cold spectacle, and void of all grace of the Spirit, he shall be also greatly deceived.",
+            "He misseth the mark of faith, whosoever turneth aside even but a little from the Spirit unto the signs; and he is a sacrilegious person who taketh even but an inch of Christ\u2019s praise, that be may deck man therewith."
+        ],
+        "Philip Schaff": [
+            "The interest, too, must have been extreme to some of those who were listening to him.",
+            "This is to be connected, too, with the sayings of St. John the Baptist.",
+            "The words of Christ, however, now came, as Hackett says, into Peter\u2019s mind \u2018with a new sense of their meaning and application.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Peter recalls the very words of Jesus as reported in Acts 1:5.\" ",
+            "Peter now understands this saying of Jesus as he had not done before.",
+            "Peter clearly sees that the water baptism is merely the symbol or picture of the spiritual baptism in the heart."
+        ],
+        "John Gill": [
+            "Then remembered I the word of the Lord, how that he said...",
+            "John indeed baptized with water, but ye shall be baptized with the Holy Ghost...",
+            "Since they had the greater baptism, the baptism of the Spirit, the lesser baptism of water could not be denied them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God has included the Gentiles in the number of those addressed in the prophecy by pouring out his Holy Spirit on them. To refuse the symbolic ordinance of water baptism would have been to hinder God and to regard the Gentiles as still unclean. Peter recognizes that God has put the Gentiles on the same level as themselves by bestowing on them the higher baptism of the Holy Spirit. He understands that water baptism is merely a symbol of the spiritual baptism in the heart. This understanding comes to Peter as he recalls the words of Jesus and sees them in a new light. Since the Gentiles have already received the greater baptism of the Spirit, they cannot be denied the lesser baptism of water.",
+            "wordCount": 125,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.121233534180521,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+            "commentatorTierSimilarities": [
+                39.17,
+                21.96,
+                38.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God included the Gentiles by pouring out the Holy Spirit on them, putting them on the same level as the believers. Refusing water baptism as a symbol for the Gentiles would hinder God. Peter understands that water baptism is a symbol of spiritual baptism in the heart. He recalls the words of Jesus, realizing their new meaning and sees the Gentiles' experience of the greater spiritual baptism. The Gentiles cannot be denied the lesser water baptism, as they have already received the greater baptism of the Spirit.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.1360738181137684,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.37,
+            "commentatorTierSimilarities": [
+                38.43,
+                21.18,
+                40.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God included the Gentiles among the believers by pouring out the Holy Spirit on them, making them partakers of the same gift. To refuse water baptism to them would be to hinder God and treat them as unclean. Peter understands that water baptism is a symbol or picture of the spiritual baptism in the heart. He recalls the words of Jesus and sees their new meaning and application. Since the Gentiles have received the greater baptism of the Spirit, they cannot be denied the lesser baptism of water.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0539608767449575,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+            "commentatorTierSimilarities": [
+                38.55,
+                22.65,
+                38.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God included the Gentiles as part of the believers by pouring out the Holy Spirit on them, placing them on the same level. To withhold water baptism from them would be to resist God and consider them unclean. Peter recognizes that water baptism serves as a symbol or representation of the spiritual baptism in the heart. He remembers the words of Jesus, understanding their new meaning and application. Since the Gentiles have already experienced the greater baptism of the Spirit, they should not be denied water baptism.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.0284638318895407,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                38.77,
+                22.34,
+                38.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God included the Gentiles among the believers by pouring out the Holy Spirit on them, placing them on the same level as the Jews. Refusing water baptism to them would hinder God and view them as unclean. Peter realizes that water baptism is a symbol of the spiritual baptism in the heart. He remembers Jesus' words and understands their deeper meaning. Since the Gentiles have already received the greater baptism of the Spirit, it would be wrong to deny them water baptism.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.0166744418159706,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                39.38,
+                21.73,
+                38.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

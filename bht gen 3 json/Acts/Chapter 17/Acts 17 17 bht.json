@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:32:42",
+    "verseRef": "Acts 17:17",
+    "bestBHT": {
+        "bht": "In the marketplace, Paul fervently reasoned and conversed with Jews, devout individuals, and chance-comers. He deviated slightly from his usual practice of solely addressing Jews and proselytes, captivated by the sight of idolatry he couldn't ignore. Paul's engagements included discussions about religion, idolatry, vanity, and superstition, as he contended and proved that Jesus of Nazareth was the long-awaited Messiah. Through his passionate efforts, Paul exemplified his dedication to spreading the Gospel, seeking opportunities to share the truth with both Jews and Gentiles.",
+        "wordCount": 86,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.9035353748318329,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+        "commentatorTierSimilarities": [
+            24.55,
+            38.5,
+            36.95
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17. in the market] It was the space before the famous Stoa or porch, where the Stoics held their disputations."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Therefore set he himself to lift up his voice to the idol city, but, as his manner was, he began with the Jews.",
+            "After that, in the market\u2014the Agora, or place of public concourse.",
+            "Daily with them that met with him\u2014or 'came in his way.'"
+        ],
+        "Albert Barnes": [
+            "Therefore disputed he - Or reasoned. He engaged in an argument with them.",
+            "With the devout persons - Those worshipping God after the manner of the Jews.",
+            "And in the market - In the forum. It was not only the place where provisions were sold, but was also a place of great public concourse."
+        ],
+        "John Calvin": [
+            "After that he went to the Gentiles, who, having tasted of the doctrine of the law, though they were not as yet thoroughly nousled up in [imbued with] true godliness, did, notwithstanding, worship the God of Israel.",
+            "Because such aptness to be taught was an entrance unto faith, yea, was a certain beginning of faith, the Spirit vouchsafeth them an honorable title, who being only lightly sprinkled with the first rudiments, drew nearer unto the true God; for they be called religious.",
+            "Of whatsoever pomp the idolaters make boast, if their inward affection be examined, there shall be nothing found there but horrible contempt of God, and it shall appear that it is a mere feigned color wherewith they go about to excuse their idols."
+        ],
+        "Philip Schaff": [
+            "Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.\" ",
+            "Here Paul, no doubt, on account of the intense feeling stirred up by the sight of all this idolatry, slightly deviated from his usual practice of first exclusively addressing himself to Jews and proselytes.\" ",
+            "At Athens he seems on the Sabbath days to have laboured in the synagogue among his own people; his week days he spent in the famous \u2018Agora,\u2019 and in the painted porch or cloister of Zeno the Stoic."
+        ],
+        "Archibald T. Robertson": [
+            "First he reasoned in the synagogue at the services to the Jews and the God-fearers, then daily in the agora or marketplace...to the chance-comers.\" ",
+            "Simultaneously with the synagogue preaching at other hours Paul took his stand like Socrates before him and engaged in conversation with those who happened by.",
+            "It was a slim chance either in synagogue or in agora, but Paul could not remain still with all the reeking idolatry around him."
+        ],
+        "John Gill": [
+            "Therefore disputed he in the synagogue with the Jews...preaching the Gospel to the Jews first, and then unto the Gentiles...\".",
+            "With them he disputed...contending and proving that Jesus of Nazareth was he...",
+            "And in the market daily with them that met him...he would stop and talk with them, about religious things, and about their idolatry, vanity, and superstition."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 17:17, the apostle Paul goes to the marketplace, engaging in conversation and reasoning with both Jews and Gentiles. He recognizes the idolatry and is motivated to confront it, not wanting to be silent amid such blatant disbelief. Paul's approach in the marketplace is a departure from his usual practice of addressing Jews first, but the intensity of the idolatry drives him to seek opportunities to share the Gospel with all who would listen. He contends, proving that Jesus of Nazareth is the Messiah, and discusses matters of religion, idolatry, vanity, and superstition with those he encounters in the marketplace. Through his engagements, Paul demonstrates his passion and zeal for the truth of the Gospel and his commitment to spreading it to both Jews and Gentiles.",
+            "wordCount": 127,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 1.8593987320004073,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+            "commentatorTierSimilarities": [
+                26.17,
+                35.1,
+                38.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the marketplace, Paul fervently reasoned and conversed with Jews, devout individuals, and chance-comers. He deviated slightly from his usual practice of solely addressing Jews and proselytes, captivated by the sight of idolatry he couldn't ignore. Paul's engagements included discussions about religion, idolatry, vanity, and superstition, as he contended and proved that Jesus of Nazareth was the long-awaited Messiah. Through his passionate efforts, Paul exemplified his dedication to spreading the Gospel, seeking opportunities to share the truth with both Jews and Gentiles.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.9035353748318329,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                24.55,
+                38.5,
+                36.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul took his stand in the marketplace, engaging in daily conversations and reasoning with various individuals. Despite the prevalent idolatry around him, he couldn't remain silent. His approach differed from his usual practice, allowing him to address not only Jews but also devout people and chance-comers. Paul's discussions in the marketplace involved matters of religion, idolatry, vanity, and superstition, as he contended and proved that Jesus of Nazareth was the awaited Messiah. With great fervor, Paul delivered the Gospel message, determined to reach both Jews and Gentiles with the truth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.794246969540216,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.0,
+            "commentatorTierSimilarities": [
+                28.67,
+                37.17,
+                34.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the marketplace, Paul engaged in daily conversations and reasoning, addressing both Jews and devout individuals. Even amidst the idolatry surrounding him, he couldn't remain still. Paul's approach differed slightly from his norm, allowing him to discuss matters of religion, idolatry, vanity, and superstition. He passionately contended and proved that Jesus of Nazareth was the long-awaited Messiah, sharing the Gospel message with great fervor. Paul's dedication extended to both Jews and Gentiles, ensuring that the truth reached all who would listen.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.7416075203738497,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.25,
+            "commentatorTierSimilarities": [
+                26.82,
+                36.07,
+                37.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the marketplace, Paul engaged in daily conversations and reasoning with Jews, devout individuals, and chance-comers. His approach deviated slightly as he confronted the prevalent idolatry before him. Paul's discussions touched on topics of religion, idolatry, vanity, and superstition, passionately contending and proving that Jesus of Nazareth was the awaited Messiah. With great dedication, he tirelessly shared the Gospel message, reaching out to both Jews and Gentiles, leaving no opportunity untapped to spread the truth.",
+            "wordCount": 77,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.7691616366850704,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                26.2,
+                35.82,
+                37.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:21:54",
+    "verseRef": "Luke 19:33",
+    "bestBHT": {
+        "bht": "The owners of the colt would have understood the word \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 used by Jesus, as it was commonly used for the Roman emperor and to translate Elohim (God). Jesus expected his disciples to recognize him by this title. It is also mentioned that there were more than one owner of the colt, and that Christ, being God, had the power to influence these individuals to willingly release the colt to his disciples.",
+        "wordCount": 72,
+        "quoteTokenProportion": 52.0,
+        "qualityScore": 1.6950330176777295,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.7,
+        "commentatorTierSimilarities": [
+            41.34,
+            16.28,
+            42.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Luke 19:33. The owners. Peculiar to Luke, but fairly implied in Mark 11:5.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The owners thereof (\u03bf \u03ba\u03c5\u03c1\u03b9\u03bf \u03b1\u03c5\u03c4\u03bf\u03c5)...which these 'owners' would understand.",
+            "The word in common use for the Roman emperor and in the LXX to translate the Hebrew Elohim (God).",
+            "\u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 used by Jesus about himself with the expectation that these disciples would recognize him by that title as they did."
+        ],
+        "John Gill": [
+            "And as they were loosing the colt,.... In order to bring it away, as Christ bid them.",
+            "This evangelist informs us who they were: and it seems by this, that there were more owners of the colt than one.",
+            "Christ, who is God, and has the hearts of all men in his hands, could, as he did, dispose the minds of these men to let the colt go freely, and quietly, with his disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The owners of the colt, as expressed in Luke 19:33, were individuals who would have recognized and understood the title of \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 used by Jesus. This term, which was commonly used for the Roman emperor and to translate the Hebrew Elohim (God), was employed by Jesus to refer to himself, indicating his expectation that his disciples would acknowledge him as such. The fact that there were more than one owner of the colt is noted by the evangelist, who also highlights how Christ, being God, had the ability to influence these individuals to willingly release the colt to his disciples.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.7379025691714376,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.13,
+            "commentatorTierSimilarities": [
+                36.7,
+                22.24,
+                41.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The owners of the colt, referred to as \u03bf \u03ba\u03c5\u03c1\u03b9\u03bf \u03b1\u03c5\u03c4\u03bf\u03c5 in Luke 19:33, were expected to recognize Jesus and his authority through his use of the term \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2. Just as this word was used for the Roman emperor and to represent God, Jesus used it to identify himself. It is worth noting that there were multiple owners of the colt. Being God, Jesus had the power to influence these individuals to willingly release the colt to his disciples.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.5369986671129543,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                34.98,
+                20.22,
+                44.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The owners of the colt would have understood the word \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 used by Jesus, as it was commonly used for the Roman emperor and to translate Elohim (God). Jesus expected his disciples to recognize him by this title. It is also mentioned that there were more than one owner of the colt, and that Christ, being God, had the power to influence these individuals to willingly release the colt to his disciples.",
+            "wordCount": 72,
+            "quoteTokenProportion": 52.0,
+            "qualityScore": 1.6950330176777295,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.7,
+            "commentatorTierSimilarities": [
+                41.34,
+                16.28,
+                42.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the disciples were loosing the colt, which they had been instructed to do, the owners of the colt, who were familiar with the word \u03bf \u03ba\u03c5\u03c1\u03b9\u03bf \u03b1\u03c5\u03c4\u03bf\u03c5 meaning the owner thereof, would have understood its significance. This term, commonly used for the Roman emperor and used in the translation of Elohim, signifies authority and ownership. Jesus intentionally referred to himself as \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 to indicate that he is the Lord. Like the owners of the colt, Jesus expected his disciples to recognize him by this title.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.5698824887934433,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                41.26,
+                18.12,
+                40.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the disciples were loosing the colt, the owners, who may have been more than one, understood the significance of the term \u03bf \u03ba\u03c5\u03c1\u03b9\u03bf \u03b1\u03c5\u03c4\u03bf\u03c5 which means the owner thereof, as it was commonly used to address the Roman emperor and translate Elohim. By referring to himself as \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2, Jesus expected his disciples to recognize him as the Lord. His intention was to assert his authority and ownership, just as the owners of the colt understood their role.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.4971501731488028,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.12,
+            "commentatorTierSimilarities": [
+                41.86,
+                17.09,
+                41.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

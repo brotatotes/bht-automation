@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:38:54",
+    "verseRef": "1 Peter 2:3",
+    "bestBHT": {
+        "bht": "The necessary condition of this exhortation is assumed in the readers, as the first tastes of God's goodness are followed by fuller experiences. Whosoever has not tasted the word, to him it is not sweet, but to those who have experienced it, who with the heart believe that Christ has been sent for me and is become my own, it tastes sweet. The taste of God's goodness excites the appetite and should allure us to find rest in Him.",
+        "wordCount": 81,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 2.1448656984994647,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.66,
+        "commentatorTierSimilarities": [
+            33.72,
+            34.83,
+            31.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "(if so be expresses the same, viz. that the necessary condition of the above exhortation is assumed as having place in the readers)",
+            "(the formula is from the well-known and beautiful Ps. xxxiv.)",
+            "(perhaps the simplest meaning, as applied to meats and drinks, is here intended. The Vulgate renders it sweet)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The first 'tastes' of God's goodness are afterwards followed by fuller and happier experiences.\" ",
+            "A taste whets the appetite.",
+            "Whosoever has not tasted the word to him it is not sweet it has not reached the heart; but to them who have experienced it, who with the heart believe, 'Christ has been sent for me and is become my own: my miseries are His, and His life mine,' it tastes sweet."
+        ],
+        "Albert Barnes": [
+            "Since you have tasted that the Lord is gracious.",
+            "The apostle did not mean to express any doubt on the subject, but to state that, since they had had an experimental acquaintance with the grace of God, they should desire to increase more and more in the knowledge and love of him.",
+            "On the use of the word 'taste,' see the notes at Hebrews 6:4."
+        ],
+        "Marvin Vincent": [
+            "A taste excites the appetite.",
+            "Gracious, actively benignant.",
+            "Goodness on the side of its sterling worth and its gentleness."
+        ],
+        "John Calvin": [
+            "But he says that this taste is to be had in Christ, as, doubtless, our souls can find no rest anywhere but in him.",
+            "Our souls can find no rest anywhere but in him.",
+            "His kindness, which we perceive in Christ, ought to allure us."
+        ],
+        "Philip Schaff": [
+            "The tense...describes the experience as one belonging definitely to the past, and points, therefore, to what they found the Lord to be when they first came to know Him.",
+            "The idea, therefore, is that if, [they] had found Christ Himself to be good in their own first inward perception of what He was, they could not but hunger for that living Word of the Gospel by which they had received Him and life with Him.",
+            "The conception of a life growing passes over into that of a building increasing...the Lord Himself...is the foundation of the structure with its increase, and the idea of union with Christ Himself as the first and the last thing in the regenerate life."
+        ],
+        "Archibald T. Robertson": [
+            "A taste excites the appetite\" (Bengel).",
+            "Gracious\" (\u03c7\u03c1\u03b7\u03c3\u03c4\u03bf\u03c2). Quotation from Psalms 34:8.",
+            "Peter carries out the metaphor in \u03b3\u03b1\u03bb\u03b1 (milk) as in Luke 5:39."
+        ],
+        "John Gill": [
+            "He, and his fruit, his promises, and blessings of grace, his word and ordinances, are sweet unto his taste.",
+            "Such have a saving and experimental knowledge of Christ, an application of him, and his saving benefits to them, a revelation of him in them, so that they find and feel that he dwells in them, and they in him.",
+            "Such receive out of Christ's fulness, and grace for grace, and live by faith upon him, and receive nourishment from him."
+        ],
+        "John Wesley": [
+            "Since ye have tasted \u2014 Sweetly and experimentally known."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The necessary condition of the exhortation in this verse is assumed as having place in the readers, as the first tastes of God's goodness are followed by fuller experiences. Whosoever has not tasted the word, to him it is not sweet; it has not reached the heart. However, to those who have experienced it, who with the heart believe that Christ has been sent for me and is become my own, it tastes sweet. The taste of God's goodness excites the appetite and should allure us to find rest in Him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.0880414296026677,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.77,
+            "commentatorTierSimilarities": [
+                31.83,
+                35.44,
+                32.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The necessary condition of this exhortation is assumed to have a place in the readers who have tasted God's goodness. Whosoever has not tasted the word, to him it is not sweet, but to those who have experienced it, it tastes sweet. This taste of God's goodness should excite our appetite and allure us to find rest in Him.",
+            "wordCount": 61,
+            "quoteTokenProportion": 47.5,
+            "qualityScore": 2.070228762554949,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                33.32,
+                33.28,
+                33.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The necessary condition of this exhortation is assumed to have a place in the readers, as the first tastes of God's goodness are followed by fuller experiences. Whosoever has not tasted the word, to him it is not sweet; it has not reached the heart. However, to those who have experienced it, who with the heart believe that Christ has been sent for me and is become my own, it tastes sweet. The taste of God's goodness excites the appetite and should allure us to find rest in Him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.0679164703946054,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.1,
+            "commentatorTierSimilarities": [
+                32.24,
+                35.11,
+                32.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The necessary condition of this exhortation is assumed in the readers who have tasted God's goodness. Whosoever has not tasted the word finds it not sweet, but to those who have experienced it, it tastes sweet. This taste of God's goodness excites the appetite and should allure us to find rest in Him.",
+            "wordCount": 55,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 2.0722830792677263,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.24,
+            "commentatorTierSimilarities": [
+                34.66,
+                32.69,
+                32.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The necessary condition of this exhortation is assumed in the readers, as the first tastes of God's goodness are followed by fuller experiences. Whosoever has not tasted the word, to him it is not sweet, but to those who have experienced it, who with the heart believe that Christ has been sent for me and is become my own, it tastes sweet. The taste of God's goodness excites the appetite and should allure us to find rest in Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 2.1448656984994647,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.66,
+            "commentatorTierSimilarities": [
+                33.72,
+                34.83,
+                31.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

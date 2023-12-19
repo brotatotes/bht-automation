@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:13:16",
+    "verseRef": "Galatians 2:5",
+    "bestBHT": {
+        "bht": "The apostle, along with others, staunchly defended the truth of the gospel and the liberties of the Galatians against those who sought to impose the laws of Moses on Gentile converts. They did not yield, even for a moment, in subjection, recognizing that compromising in the case of Titus would have been a betrayal of the sacred rights and liberty of the Gentile Christians. The apostle's unwavering opposition emphasized the importance of preserving the pure gospel and ensuring that Christianity was not reduced to a modified version of legalistic Judaism.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 2.1322458668014797,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+        "commentatorTierSimilarities": [
+            24.02,
+            43.68,
+            32.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "We would willingly have yielded for love, but not in the way of subjection, where 'the truth of the Gospel' was at stake.\" ",
+            "Truth is precise, unaccommodating, abandons nothing that belongs to itself, admits nothing that is inconsistent with it.",
+            "We defended for your sakes your true faith and liberties, which you are now renouncing."
+        ],
+        "Albert Barnes": [
+            "We did not yield even for the shortest time. We did not waver in our opposition to their demands, or in the slightest degree become subject to their wishes.",
+            "He steadily opposed their claims, in order that the great principle might be forever settled, that the laws of Moses were not to be imposed as obligatory on the Gentile converts.",
+            "That the great principle of the Christian religion which had been taught you might continue, and that you might enjoy the full benefit of the pure gospel, without its being intermingled with any false views."
+        ],
+        "Marvin Vincent": [
+            "We gave place by subjection.\" ",
+            "The noun only in Paul and the Pastorals, and always in the sense of self-subjection.\" ",
+            "Comp. 2 Corinthians 9:13; 1 Timothy 2:11; 1 Timothy 3:4."
+        ],
+        "John Calvin": [
+            "In every other respect, he was prepared, to the very close of his life, to exercise mildness and forbearance toward all men.",
+            "The amount, is this: 'We are the servants of the brethren, but still keeping in view that we all serve the Lord, and that the liberty of our conscience shall remain unimpaired.'",
+            "Let us remember that it is not enough to retain the name of the gospel, and some kind of summary of its doctrines, if its solid purity do not remain untouched."
+        ],
+        "Philip Schaff": [
+            "He could here not become a Jew to the Jews in order to gain them... Submission in the case of Titus would have been treason to the truth.\" ",
+            "Submission in the case of Titus would have been... a sacrifice of the sacred rights and liberty of the Gentile Christians.",
+            "It would have been a sacrifice of the sacred rights and liberty of the Gentile Christians."
+        ],
+        "Archibald T. Robertson": [
+            "No, not for an hour. Pointed denial that he and Barnabas yielded at all 'in the way of subjection'.\" ",
+            "The truth of the gospel. It was a grave crisis to call for such language.\" ",
+            "The whole problem of Gentile Christianity was involved in the case of Titus, whether Christianity was to be merely a modified brand of legalistic Judaism or a spiritual religion, the true Judaism."
+        ],
+        "John Gill": [
+            "no, not for an hour; for the least space of time, knowing what advantages and improvements would be made of it.",
+            "The reason why the apostle, and others with him, were so resolute and pertinacious in this matter was, that the truth of the Gospel might continue with you with the Galatians in particular, and with all the Gentiles in general.",
+            "the apostle's desire was, that, the Gospel might be continued with them genuine, sincere, and unmixed, in opposition to the shadows of the law, and the false doctrines of men."
+        ],
+        "John Wesley": [
+            "To whom we did not yield by submission \u2014 Although in love he would have yielded to any. With such wonderful prudence did the apostle use his Christian liberty!",
+            "That the truth of the gospel \u2014 That is, the true genuine gospel.",
+            "Might continue with you \u2014 With you gentiles. So we defend, for your sakes, the privilege which you would give up."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle, along with others, staunchly defended the truth of the gospel and the liberties of the Galatians against those who sought to impose the laws of Moses on Gentile converts. They did not yield, even for a moment, in subjection, recognizing that compromising in the case of Titus would have been a betrayal of the sacred rights and liberty of the Gentile Christians. The apostle's unwavering opposition emphasized the importance of preserving the pure gospel and ensuring that Christianity was not reduced to a modified version of legalistic Judaism. They were willing to yield in love, but not at the expense of compromising the truth.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.0047890709801317,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                25.19,
+                42.8,
+                32.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle, along with others, defended the truth of the gospel and the liberties of the Galatians. They did not yield in subjection, recognizing that compromising would be a betrayal of the sacred rights and liberty of the Gentile Christians. The apostle's unwavering opposition emphasized the importance of preserving the pure gospel and ensuring that Christianity was not reduced to a modified version of legalistic Judaism. They were willing to yield in love, but not at the expense of compromising the truth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9769048237688107,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.07,
+            "commentatorTierSimilarities": [
+                26.41,
+                40.09,
+                33.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle, along with others, staunchly defended the truth of the gospel and the liberties of the Galatians against those who sought to impose the laws of Moses on Gentile converts. They did not yield, even for a moment, in subjection, recognizing that compromising in the case of Titus would have been a betrayal of the sacred rights and liberty of the Gentile Christians. The apostle's unwavering opposition emphasized the importance of preserving the pure gospel and ensuring that Christianity was not reduced to a modified version of legalistic Judaism.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.1322458668014797,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+            "commentatorTierSimilarities": [
+                24.02,
+                43.68,
+                32.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle and his companions vehemently defended the truth of the gospel and the freedoms of the Galatians. They were resolute in their refusal to submit, as compromising would have relinquished the sacred rights and liberty of Gentile Christians. Their unwavering stand emphasized the necessity of preserving the gospel in its pure form and ensuring that Christianity didn't become a diluted form of legalistic Judaism. Love may have led them to yield willingly, but not at the expense of compromising the truth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8769391378862792,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                24.6,
+                42.08,
+                33.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle, in solidarity with others, fiercely defended the truth of the gospel and the freedoms of the Galatians. Yielding in subjection would have compromised the sacred rights and liberty of the Gentile Christians. They refused to waver, emphasizing the importance of preserving the pure gospel and not reducing Christianity to a modified legalistic Judaism. Their love led them to stand firm, refusing to undermine the truth even for a moment.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.8970272841729507,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.42,
+            "commentatorTierSimilarities": [
+                25.18,
+                42.56,
+                32.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

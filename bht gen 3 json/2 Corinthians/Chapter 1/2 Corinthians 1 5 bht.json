@@ -1,0 +1,94 @@
+{
+    "timestamp": "12-19-2023 15:14:43",
+    "verseRef": "2 Corinthians 1:5",
+    "bestBHT": {
+        "bht": "The sufferings of Christ overflow upon His followers, for as He is, so are we in this world. These sufferings are not just things suffered for Christ's sake, but rather Christ's own sufferings as they are shared by His disciples. Through our partnership with Christ in suffering, we also partake in His glory. The sufferings may be many, but the consolation received through Christ's presence and assurance outweighs them all. As we suffer in the cause of Christ, He ensures that our hearts are filled with His comfort, just as He promised.",
+        "wordCount": 95,
+        "quoteTokenProportion": 54.24,
+        "qualityScore": 2.976778564844855,
+        "qualityScoreNormalizedComparedToV2BHTs": 90.32,
+        "commentatorTierSimilarities": [
+            37.21,
+            30.46,
+            32.33
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As He is, so are we in this world.",
+            "The sufferings of Christ abound towards us, even so through Christ our consolation also aboundeth.",
+            "We suffer, because we are His members: we are consoled, because He is our Head."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The sufferings endured, whether by Himself, or by His Church, with which He considers Himself identified.",
+            "Christ calls His people's sufferings His own suffering.",
+            "The sufferings (plural) are many; but the consolation (though singular) swallows up them all."
+        ],
+        "Albert Barnes": [
+            "As we are called to experience the same sufferings which Christ endured; as we are called to suffer in his cause, and in the promotion of the same object.",
+            "Paul regarded the Lord Jesus as the source of consolation, and felt that the comfort which he imparted, or which was imparted through him, was more than sufficient to overbalance all the trials which he endured in this cause.",
+            "And it may he observed as an universal truth, that if we suffer in the cause of Christ, if we are persecuted, oppressed, and calumniated on his account, he will take care that our hearts shall be filled with consolation."
+        ],
+        "Marvin Vincent": [
+            "Sufferings of Christ. Not things suffered for Christ's sake, but Christ's own sufferings as they are shared by His disciples.\" ",
+            "Note the peculiar phrase abound [\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03c5\u03b5\u03b9] in us, by which Christ's sufferings are represented as overflowing upon His followers.\" ",
+            "Christ's sufferings are represented as overflowing upon His followers."
+        ],
+        "John Calvin": [
+            "The more I am tried with various afflictions, so much the more resources have I for comforting others.",
+            "The afflictions of the pious he calls the sufferings of Christ, as he says elsewhere, that he fills up in his body what is wanting in the sufferings of Christ.",
+            "Paul\u2019s meaning then is, that God is always present with him in his tribulations, and that his infirmity is sustained by the consolations of Christ, so as to prevent him from being overwhelmed with calamities."
+        ],
+        "Philip Schaff": [
+            "Whatsoever is done to my cause, and to my people for my sake, is done to Me.",
+            "In this sense Christians 'fill up that which is lacking in the sufferings of Christ' and have 'the fellowship of His sufferings, becoming conformable unto His death.'",
+            "Even to our comfort also aboundeth through Christ according to His own promise, 'In the world ye shall have tribulation; but be of good cheer; I have overcome the world'."
+        ],
+        "Archibald T. Robertson": [
+            "Subjective genitive, Christ's own sufferings.",
+            "Suffer like sufferings and become fellow sufferers with Christ.",
+            "Partnership with Christ in suffering brings partnership in glory also."
+        ],
+        "John Gill": [
+            "By 'the sufferings of Christ' are not meant those which he suffered in his own person for the sake, and in the room and stead of his people, the fruits and effects of which abound to them, and in them; but those which he suffers in his members, or which they suffer for his sake.",
+            "Yet notwithstanding the abundance of them, such is the goodness and grace of God, that he proportions comforts to them; as their afflictions increase, so do their comforts.",
+            "Either that consolation which they felt and enjoyed in their own souls, under all their tribulations, which abundantly answered to them, and which they ascribe to Christ, from and by whom it comes to them; or else that consolation, which, by preaching Christ, abounded to the relief of others who were in distress and trouble."
+        ],
+        "John Wesley": [
+            "The sufferings of Christ abound in us.",
+            "The sufferings were many, the comfort one; and yet not only equal to, but overbalancing, them all.",
+            "Our comfort also aboundeth through Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "The sufferings of Christ overflow upon His followers, for as He is, so are we in this world. These sufferings are not just things suffered for Christ's sake, but rather Christ's own sufferings as they are shared by His disciples. Through our partnership with Christ in suffering, we also partake in His glory. The sufferings may be many, but the consolation received through Christ's presence and assurance outweighs them all. As we suffer in the cause of Christ, He ensures that our hearts are filled with His comfort, just as He promised.",
+            "wordCount": 95,
+            "quoteTokenProportion": 54.24,
+            "qualityScore": 2.976778564844855,
+            "qualityScoreNormalizedComparedToV2BHTs": 90.32,
+            "commentatorTierSimilarities": [
+                37.21,
+                30.46,
+                32.33
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

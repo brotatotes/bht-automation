@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:20:57",
+    "verseRef": "Luke 16:23",
+    "bestBHT": {
+        "bht": "In this depiction, we learn that both Lazarus and the rich man resided in Hades, though they were separated in different regions: Lazarus in the blissful side and the rich man in torment. Hades represents the unseen world, not the final place of the lost. The rich man's torment is described as a place of punishment, where relief is desired but hope is unattainable. The stark contrast between the bliss of Lazarus and the suffering of the rich man illustrates the consequences of one's actions in the afterlife.",
+        "wordCount": 90,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 2.425849675303362,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.0,
+        "commentatorTierSimilarities": [
+            35.46,
+            38.42,
+            26.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Had\u00ebs, in Hebrew She\u00f6l, is the abode of all disembodied spirits till the resurrection.",
+            "Lazarus was also in Had\u00ebs, but separate from Dives; one on the blissful, the other on the baleful side.",
+            "It is the gates of Had\u00ebs, the imprisonment of death, which shall not prevail against the Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In hell\u2014not the final place of the lost (for which another word is used), but as we say 'the unseen world.'",
+            "But as the object here is certainly to depict the whole torment of the one and the perfect bliss of the other, it comes in this case to much the same.",
+            "Seeth Abraham\u2014not God, to whom therefore he cannot cry."
+        ],
+        "Albert Barnes": [
+            "The word here translated hell (\u201cHades\u201d) means literally a dark, obscure place; the place where departed spirits go, but especially the place where 'wicked' spirits go.",
+            "The word 'hell' here means, therefore, that dark, obscure, and miserable place, far from heaven, where the wicked shall be punished forever.",
+            "One of the first things that occurred in hell was to look up, and see the poor man that lay at his gate completely happy. What a contrast!"
+        ],
+        "Marvin Vincent": [
+            "Hell. Rev., Hades. Where Lazarus also was, but in a different region. See on Matthew 16:18."
+        ],
+        "John Calvin": [
+            "Souls have neither fingers nor eyes, and are not liable to thirst, nor do they hold such conversations among themselves as are here described to have taken place between Abraham and the rich man...\" ",
+            "The general truth conveyed is, that believing souls, when they have left their bodies, lead a joyful and blessed life out of this world, and that for the reprobate there are prepared dreadful torments, which can no more be conceived by our minds than the boundless glory of the heavens.\" ",
+            "The wicked are described as fearfully tormented by the misery which they feel; as desiring some relief, but cut off from hope, and thus experiencing a double torment; and as having their anguish increased by being compelled to remember their crimes, and to compare the present blessedness of believers with their own miserable and lost condition."
+        ],
+        "Philip Schaff": [
+            "And in hell, Greek, \u2018Hades,\u2019 i.e., in the state or place of departed spirits; which must not be confounded with Gehenna, the final state of eternal punishment, since in this case it includes \u2018Abraham\u2019s bosom.\u2019",
+            "He lifted up his eyes. Either he looked up to a higher place, or he now became fully conscious.",
+            "Being in torments. The rich man was in a place of punishment; for the whole parable turns on this point."
+        ],
+        "Archibald T. Robertson": [
+            "Lazarus was in Hades also for both Paradise (Abraham's bosom) and Gehenna are in the unseen world beyond the grave.",
+            "In torments (\u03b5\u03bd \u03b2\u03b1\u03c3\u03b1\u03bd\u03bf\u03b9\u03c2). The touchstone by which gold and other metals were tested, then the rack for torturing people.",
+            "Sees (\u03bf\u03c1\u03b1). Dramatic present indicative. The Jews believed that Gehenna and Paradise were close together."
+        ],
+        "John Gill": [
+            "But in hell their eyes are opened, and they see their mistakes about the Messiah, and find themselves in torments, under dreadful gnawings, and remorse of conscience; and having a terrible sensation of divine wrath, their worm dies not, and their fire is not quenched...",
+            "The Jews are convinced that the Messiah is born, though not revealed; and they sometimes confess, that he was born the same day Jerusalem was destroyed; and sometimes they say, he sits at the gates of Rome among the lepers, and at other times, that he is in the walks of paradise.",
+            "This is said in agreement with the notions of the Jews, that wicked men will see the righteous in happiness, and themselves in torment; by which the latter will be aggravated..."
+        ],
+        "John Wesley": [
+            "He seeth Abraham afar off \u2014 And yet knew him at that distance.\" ",
+            "And shall not Abraham's children, when they are together in paradise, know each other!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 16:23, we see that both Lazarus and the rich man were in Hades, but in separate regions. The rich man was in torment, while Lazarus was in the blissful paradise of Abraham's bosom. It is important to note that Hades is not the final place of the lost, but rather the unseen world beyond the grave. The rich man, in his torment, looked up and saw Lazarus in the company of Abraham, highlighting the stark contrast between their situations. The rich man's torment is depicted as a place of punishment, where there is no relief or hope. The anguish is intensified by the remembrance of his past actions and the awareness of the blessedness of believers.",
+            "wordCount": 119,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.3502848566426513,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.49,
+            "commentatorTierSimilarities": [
+                34.3,
+                36.87,
+                28.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we observe that both Lazarus and the rich man were in Hades, but in separate regions - one in bliss and the other in torment. Hades is not the final destination for the lost, but rather the unseen world beyond the grave. The rich man, experiencing torment, longingly looked up and saw the happiness of Lazarus in the presence of Abraham. It's important to note the incredible contrast between their situations, emphasizing the punishment and despair of the rich man's condition in relation to Lazarus.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.3975826098384863,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.06,
+            "commentatorTierSimilarities": [
+                34.31,
+                37.12,
+                28.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, it becomes evident that both Lazarus and the rich man found themselves in Hades, though they experienced vastly different circumstances. Hades, known as the unseen world, is not the final destination for the lost. The rich man's torment is described as a place of punishment, where he longs for relief but is cut off from hope. The contrast between Lazarus' bliss and the rich man's suffering serves as a stark reminder of the consequences of one's actions in the afterlife.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.375694055785025,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.33,
+            "commentatorTierSimilarities": [
+                34.83,
+                38.35,
+                26.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this depiction, we learn that both Lazarus and the rich man resided in Hades, though they were separated in different regions: Lazarus in the blissful side and the rich man in torment. Hades represents the unseen world, not the final place of the lost. The rich man's torment is described as a place of punishment, where relief is desired but hope is unattainable. The stark contrast between the bliss of Lazarus and the suffering of the rich man illustrates the consequences of one's actions in the afterlife.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.425849675303362,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.0,
+            "commentatorTierSimilarities": [
+                35.46,
+                38.42,
+                26.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Luke 16:23, we witness both Lazarus and the rich man residing in Hades but in separate regions. Hades is not the ultimate dwelling place for the lost, as it is the unseen world beyond death. The rich man experiences torment, while Lazarus enjoys the bliss of Abraham's bosom. The contrasting fates of the two characters vividly demonstrate the punishment for the wicked and the blessedness of believers in the afterlife.",
+            "wordCount": 71,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.3830768073403448,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.58,
+            "commentatorTierSimilarities": [
+                36.0,
+                36.35,
+                27.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

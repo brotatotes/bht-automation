@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:17:58",
+    "verseRef": "Luke 10:21",
+    "bestBHT": {
+        "bht": "Jesus expressed profound joy and exulted in the Spirit, visibly displaying his unusual emotions. The cause of this rejoicing was the work of the Holy Spirit and the victories achieved by his followers. This rare glimpse into the inner depths of Jesus' heart highlights the divine nature of our Savior. It reminds us that intellectual gifts are not necessary, as true joy stems from God's sovereign and distinguishing grace. Let us marvel at this deep and reverential wonder, embracing the inexplicable depths of our Redeemer's innermost being.",
+        "wordCount": 89,
+        "quoteTokenProportion": 29.23,
+        "qualityScore": 1.669593540319838,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+        "commentatorTierSimilarities": [
+            36.97,
+            31.62,
+            31.41
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The same has been said of their occurrence in Matt. xi. 25; and, from no love of harmonizing or escaping difficulties, but from a deep feeling of the inner spirit of both discourses, I am convinced that our Lord did utter, on the two separate occasions, these weighty words.",
+            "It was not a rejoicing before (in Matthew), but only a confession: compare the whole discourse and notes.",
+            "That the introductory words in that hour, or 'at that time,' may have been introduced from one passage into the other, and perhaps by some one who imagined them the same, I would willingly grant, if needful; not that, in the presence of such truths, such a trifle is worth mention, but that the shallow school of modern critics do mention, and rest upon such."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Rejoice\" is too weak a word. It is \"exulted in spirit\"\u2014evidently giving visible expression to His unusual emotions; while, at the same time, the words \"in spirit\" are meant to convey to the reader the depth of them.",
+            "This is one of those rare cases in which the veil is lifted from off the Redeemer's inner man, that, angel-like, we may \"look into it\" for a moment. Let us gaze on it with reverential wonder.",
+            "as we perceive what it was that produced that mysterious ecstasy, we shall find rising in our hearts a still rapture\u2014\"Oh, the depths!"
+        ],
+        "Marvin Vincent": [
+            "Rejoiced. See on 1 Peter 1:6.\" ",
+            "In spirit. The best texts add tw aJgiw, the holy, and render in the Holy Spirit.\" ",
+            "I thank. See on Matthew 11:25."
+        ],
+        "Philip Schaff": [
+            "The one hour of joy was in sympathy with His faithful preachers.",
+            "We have here a remarkable grouping of the Three Persons of the Trinity.",
+            "The important truth respecting our Lord\u2019s relation to the Father, here set forth, underlies all the Gospels."
+        ],
+        "Archibald T. Robertson": [
+            "This holy joy of Jesus was directly due to the Holy Spirit. It is joy in the work of his followers, their victories over Satan...",
+            "Intellectual gifts, so far from being necessary, are often a hindrance."
+        ],
+        "John Gill": [
+            "His heart was filled with joy, not so much at the success of the seventy disciples, and the subjection of the devils to them, as in the view he had of the spread of the Gospel.",
+            "Particularly at the sovereign and distinguishing grace of God towards the elect, whose names are written in heaven.",
+            "His soul was so affected, that he broke out in, an exulting strain, into thanksgivings to God."
+        ],
+        "John Wesley": [
+            "Lord of heaven and earth \u2014 In both of which thy kingdom stands, and that of Satan is destroyed.",
+            "He rejoiced not in the destruction of the wise and prudent, but in the display of the riches of God's grace to others, in such a manner as reserves to Him the entire glory of our salvation, and hides pride from man.",
+            "Matthew 11:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 10:21, Jesus resoundingly expressed his joy and exulted in the Spirit. It was not a mere confession, but an exclamation overflowing from the depths of his being. This rare glimpse into the Savior's innermost feelings reveals the profound impact of the Holy Spirit's work. Jesus rejoiced not only in the successes of his disciples, but in the spread of the Gospel and the victories over Satan. This intimate connection between Jesus and the Father highlights the profound truth of his divine nature. The intellectual prowess of his followers was not a requirement for this joy; rather, it stemmed from the sovereign and distinguishing grace of God towards the elect. Through this passage, we are invited to marvel at the depths of our Redeemer's heart and join in the reverential wonder. Oh, the depths!",
+            "wordCount": 137,
+            "quoteTokenProportion": 32.53,
+            "qualityScore": 1.5941395995044156,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                32.1,
+                32.31,
+                35.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this instance, Jesus openly and joyfully expressed his ecstacy. This rare glimpse into the Savior's innermost feelings reveals the profound impact of the Holy Spirit's work. Jesus rejoiced not only in the successes of his disciples, but in the spread of the Gospel and victories over Satan. This intimate connection between Jesus and the Father emphasizes the profound truth of his divine nature. This joy did not depend on intellectual gifts, but rather sprung from God's sovereign and distinguishing grace toward his chosen ones. Marvel at the depths of our Redeemer's heart and join in the reverential wonder.",
+            "wordCount": 103,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 1.5916246223038075,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.26,
+            "commentatorTierSimilarities": [
+                31.21,
+                34.21,
+                34.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this unique and significant moment, Jesus overflowed with joy, exulting in the Spirit. He expressed this deep emotion not merely as a confession, but with visible fervency. The cause of his ecstatic joy was the work of the Holy Spirit, specifically in the victories of his followers over Satan. This reveals the profound connection between Jesus and the Father, highlighting the divine nature of our Redeemer. It is a reminder that intellectual gifts are not paramount, as God's sovereign grace is the source of true joy. Marvel at the depths of our Savior's heart and join in reverential wonder.",
+            "wordCount": 102,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.6486485079833098,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                33.24,
+                34.85,
+                31.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus expressed profound joy and exulted in the Spirit, visibly displaying his unusual emotions. The cause of this rejoicing was the work of the Holy Spirit and the victories achieved by his followers. This rare glimpse into the inner depths of Jesus' heart highlights the divine nature of our Savior. It reminds us that intellectual gifts are not necessary, as true joy stems from God's sovereign and distinguishing grace. Let us marvel at this deep and reverential wonder, embracing the inexplicable depths of our Redeemer's innermost being.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.669593540319838,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+            "commentatorTierSimilarities": [
+                36.97,
+                31.62,
+                31.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in Luke 10:21, exulted in the Spirit, visibly expressing his deep emotions. The cause of this ecstatic joy was the work of the Holy Spirit, particularly the victories of his disciples over Satan. It is a rare glimpse into the inner workings of Jesus' heart, revealing the profound truth of his divine nature. This joy transcends the need for intellectual gifts, as it originates from God's sovereign grace. Let us stand in awe and embrace the reverential wonder of the depths of our Redeemer's heart.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.727779387274448,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.79,
+            "commentatorTierSimilarities": [
+                33.79,
+                33.92,
+                32.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

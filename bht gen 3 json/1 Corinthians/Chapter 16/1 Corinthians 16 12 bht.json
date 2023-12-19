@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:14:37",
+    "verseRef": "1 Corinthians 16:12",
+    "bestBHT": {
+        "bht": "Apollos, though Paul urged him, was not willing to go to the Corinthians at that time because of the divisions and strife among them. This decision was made in order to protect Apollos from being associated with the factions in Corinth that had misused his name. However, Apollos did eventually return to Corinth when the divisions had subsided. It is clear that Apollos had grown tired of the partisan strife over preachers and only desired to come when the opportune time presented itself.",
+        "wordCount": 83,
+        "quoteTokenProportion": 53.45,
+        "qualityScore": 2.1820258022911103,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.89,
+        "commentatorTierSimilarities": [
+            43.66,
+            30.03,
+            26.3
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Of Apollos: that he was not willing at present to go to them.",
+            "He excuses Apollos from coming that the Corinthians might not imagine that the hindrance had arisen from him, the Apostle.",
+            "The present time not seeming to him a suitable one: apparently on account of the divisions hinted at in the beginning of the Epistle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul's noble freedom from all selfish jealousy led him to urge Apollos to go; and, on the other hand, Apollos, having heard of the abuse of his name at Corinth to party purposes, perseveringly refused to go.",
+            "He calls Apollos 'brother' to mark the unity that was between the two.",
+            "Apollos did return to Corinth when their divisions were moderated."
+        ],
+        "Albert Barnes": [
+            "His will was not at all to come at this time.",
+            "The Latin fathers say that Apollos did after this return to Corinth, when the religious differences had been settled.",
+            "He will come when he shall have convenient thee."
+        ],
+        "John Calvin": [
+            "He had succeeded Paul in the work of building up the Corinthians; and hence he has in previous passages ascribed to him the office of watering.",
+            "He answers, that it was not owing to him, inasmuch as he entreated him; but he promises that he will come as soon as he has opportunity.",
+            "That St. Paul feeling offended with the Corinthians, had intentionally brought it about, that Apollos should not go to them."
+        ],
+        "Philip Schaff": [
+            "I besought him much to come unto you with the brethren probably a deputation of brethren (Titus and two others) sent to Corinth to complete its \u201ccollection\u201d before the apostle\u2019s arrival.",
+            "The apostle\u2019s wish that he should go, and the declinature of Apollos, were alike honourable to the high principle and brotherly affection of both.",
+            "Apollos consented, as we shall presently see, to go at a future time; but this time seemed inopportune."
+        ],
+        "Archibald T. Robertson": [
+            "And it was not at all his will to come now.\" ",
+            "Apollos had left Corinth in disgust over the strife there.",
+            "He had had enough of partisan strife over preachers."
+        ],
+        "John Gill": [
+            "He greatly importuned him to go along with them, knowing how acceptable he would be among them, and hoping he might be of great use to them in composing their differences, and rectifying their disorders.",
+            "But his will was not at all to come at this time; or 'it was not the will'; that is, of God, as some supply it, for him to come now.",
+            "but he will come when he shall have convenient time; he is not averse to coming, but some things at present hinder him; when he has a suitable opportunity he will make use of it."
+        ],
+        "John Wesley": [
+            "I besought him much \u2014 To come to you.",
+            "With the brethren \u2014 Who were then going to Corinth.",
+            "Yet he was by no means willing to come now \u2014 Perhaps lest his coming should increase the divisions among them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Apollos, referred to as brother, was excused from coming to the Corinthians at that time. This hesitation seemed to be due to the divisions and strife that were present amongst the Corinthians. Paul's noble freedom from jealousy prompted him to urge Apollos to go, but Apollos, having heard of the misuse of his name for partisan purposes, steadfastly refused. However, Apollos did eventually return to Corinth when their divisions were moderated. It was not his will to come at that present time, as he had grown tired of the partisan strife that surrounded the preachers.",
+            "wordCount": 96,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.1425399404788084,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.58,
+            "commentatorTierSimilarities": [
+                44.24,
+                28.67,
+                27.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Apollos, referred to as brother, was not willing to come to the Corinthians at that time due to the divisions and strife among them. Paul's noble freedom from jealousy led him to urge Apollos to go, but Apollos, having heard of the misuse of his name for partisan purposes, refused. However, Apollos did eventually return when their divisions were moderated. It was not his will to come then, as he had grown tired of the partisan strife surrounding preachers.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1786396517609194,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.78,
+            "commentatorTierSimilarities": [
+                45.41,
+                27.1,
+                27.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Apollos, the esteemed preacher, was not willing to go to the Corinthians at that time. This decision was made to prevent any misunderstandings - Paul did not want the Corinthians to think that Apollos's absence was due to him. The divisions and strife mentioned earlier in the letter made it an unsuitable time. However, Paul's generosity and lack of jealousy prompted him to urge Apollos to go, but Apollos, having heard of his name being misused to fuel party factions, continued to refuse. Despite this, Apollos eventually returned to Corinth when the divisions had calmed down. It is clear that Apollos had had enough of the partisan strife over preachers and only wished to come when the time was right.",
+            "wordCount": 121,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.1061791823555716,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                43.76,
+                29.4,
+                26.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Apollos, described as brother by Paul to emphasize their unity, was not willing to go to the Corinthians during that time due to the divisions and conflicts present. However, Paul's selflessness led him to encourage Apollos to go, even though Apollos had been disheartened by the misuse of his name for partisan purposes. Eventually, when the divisions in Corinth were moderated, Apollos did return. It is evident that Apollos had grown weary of the factionalism surrounding different preachers and aimed to come when the circumstances were more favorable.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.093102479062141,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                44.08,
+                29.22,
+                26.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Apollos, though Paul urged him, was not willing to go to the Corinthians at that time because of the divisions and strife among them. This decision was made in order to protect Apollos from being associated with the factions in Corinth that had misused his name. However, Apollos did eventually return to Corinth when the divisions had subsided. It is clear that Apollos had grown tired of the partisan strife over preachers and only desired to come when the opportune time presented itself.",
+            "wordCount": 83,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 2.1820258022911103,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.89,
+            "commentatorTierSimilarities": [
+                43.66,
+                30.03,
+                26.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

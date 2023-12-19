@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:25:52",
+    "verseRef": "Acts 4:15",
+    "bestBHT": {
+        "bht": "Conferencing among themselves, the council members began to compare notes and take stock of their predicament after witnessing the miraculous healing. It is intriguing to ponder how these apparently private deliberations were known to St. Luke. St. Paul, who possibly had involvement in documenting these early Church memoirs, may have had insight as a member of the Sanhedrin. In the absence of the apostles, the council took the time to assess their situation and contemplate the appropriate course of action.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.2954576091304337,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.42,
+        "commentatorTierSimilarities": [
+            34.77,
+            38.67,
+            26.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Conferred [\u03c3\u03c5\u03bd\u03b5\u03b2\u03b1\u03bb\u03bf\u03bd] . See on pondered, Luke 2:19."
+        ],
+        "Philip Schaff": [
+            "It has been asked, How were these apparently private deliberations known to St. Luke?\" (Author)",
+            "Several probable answers have been given.\" (Author)",
+            "St. Paul himself, who had much to do with the composition of these memoirs of the Church of the first days, not improbably was a Sanhedrist.\" (Author)"
+        ],
+        "Archibald T. Robertson": [
+            "They conferred among themselves...they began to compare notes and take stock of their predicament.",
+            "With Peter and John and the lame man outside, they began to compare notes...",
+            "They conferred among themselves...and take stock of their predicament."
+        ],
+        "John Gill": [
+            "The sanhedrim removed from the chamber Gazith, to the shops, and from the shops to Jerusalem, and from Jerusalem to Jabneh.",
+            "Not in the shops where things were sold for the use of the temple, but in a court adjoining to them, which took its name from them.",
+            "They conferred among themselves; what was proper to be done, the apostles being withdrawn."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After witnessing the miraculous healing of the lame man, the council members began to confer among themselves, pondering the situation and comparing notes. It is interesting to note how these apparently private deliberations were revealed to St. Luke. Perhaps St. Paul, who was closely involved in the composition of these accounts, had insight into the inner workings of the Sanhedrin. Whatever the case may be, it is clear that the council took the time to assess their predicament, contemplating what actions would be appropriate in the absence of the apostles.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.2657234697444417,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.43,
+            "commentatorTierSimilarities": [
+                33.09,
+                40.31,
+                26.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Conferencing among themselves, the council members began to compare notes and take stock of their predicament after witnessing the miraculous healing. It is intriguing to ponder how these apparently private deliberations were known to St. Luke. St. Paul, who possibly had involvement in documenting these early Church memoirs, may have had insight as a member of the Sanhedrin. In the absence of the apostles, the council took the time to assess their situation and contemplate the appropriate course of action.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.2954576091304337,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.42,
+            "commentatorTierSimilarities": [
+                34.77,
+                38.67,
+                26.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After witnessing the miraculous healing, the council members conferred among themselves, comparing notes and taking stock of their predicament. It raises the question of how these apparently private deliberations were known to St. Luke. Perhaps St. Paul, who may have had a hand in recording the early Church memoirs, had insight as a member of the Sanhedrin. Despite the absence of the apostles, the council took the time to assess the situation and consider what actions would be appropriate.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.2840863666205473,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.04,
+            "commentatorTierSimilarities": [
+                35.67,
+                35.42,
+                28.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Conferencing among themselves, the council members began to compare notes and take stock of their predicament after witnessing the miraculous healing. It is intriguing to ponder how these apparently private deliberations were known to St. Luke. Perhaps St. Paul, who possibly had involvement in documenting these early Church memoirs, may have had insight as a member of the Sanhedrin. In the absence of the apostles, the council took the time to assess their situation and contemplate the appropriate course of action.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.29450253224223,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.39,
+            "commentatorTierSimilarities": [
+                35.69,
+                38.14,
+                26.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After witnessing the miraculous healing, the council members conferred among themselves, comparing notes and taking stock of their predicament. It is intriguing how these apparently private deliberations were known to St. Luke. St. Paul, possibly involved in documenting the early Church memoirs, may have had insight as a Sanhedrist. In the absence of the apostles, the council assessed the situation and contemplated the appropriate course of action.",
+            "wordCount": 67,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.2738663738164926,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.7,
+            "commentatorTierSimilarities": [
+                33.65,
+                40.08,
+                26.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

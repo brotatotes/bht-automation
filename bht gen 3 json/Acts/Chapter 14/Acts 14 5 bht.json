@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:31:09",
+    "verseRef": "Acts 14:5",
+    "bestBHT": {
+        "bht": "A movement arose, intending to stone the apostles, but they wisely fled from the impending assault. This incident mirrors Paul's stoning in Lystra when he was shamefully mistreated. The Jews, led by their rulers, were driven by a strong inclination to inflict harm on the apostles. Stoning was a common punishment for blasphemy among the Jews. Nevertheless, the apostles stood firm in their duty to proclaim the gospel, fearlessly enduring even the threat of death.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.912905559808464,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+        "commentatorTierSimilarities": [
+            28.6,
+            37.06,
+            34.34
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There was no 'assault' made on them... but a stir, or movement, was going on which would have led to an assault.\u201d"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "an impetuous movement\" with a view to stoning them.",
+            "Once I was stoned.",
+            "fled."
+        ],
+        "Albert Barnes": [
+            "An assault made - Greek: a 'rush' - \u03bf\u0314\u03c1\u03bc\u03b7\u0301 horme\u0304. It denotes 'an impetuous excitement and aggression; a rush to put them to death.' It rather describes a popular tumult than a calm and deliberate purpose.",
+            "To use them despitefully - See the notes on Matthew 5:44. To reproach them; to bring contempt upon them; to injure them.",
+            "And to stone them - To put them to death by stoning; probably as blasphemers, Acts 7:57-59."
+        ],
+        "Marvin Vincent": [
+            "It is rather the purpose and intention of assault beginning to assume the character of a movement.\" ",
+            "To stone. Paul says he was stoned once (2 Corinthians 11:25). This took place at Lystra.",
+            "This took place at Lystra (see ver. 19)."
+        ],
+        "John Calvin": [
+            "Mark how far forth the holy champions of Christ did suffer.",
+            "...their constancy in preaching the gospel doth sufficiently declare that they feared not danger.",
+            "...they can afford, if need be, to go even through death itself to do their duty."
+        ],
+        "Philip Schaff": [
+            "The Greek word hardly signifies an 'assault,' rather a 'sudden movement,' a 'hostile movement' or 'impulse' on the part of the Jews and Gentiles.",
+            "The apostles avoided violence and stoning by a timely flight.",
+            "Truth is necessarily consistent, but it is scarcely possible that independent accounts not having truth to guide them should thus advance to the very brink of contradiction without falling into it."
+        ],
+        "Archibald T. Robertson": [
+            "An onset (\u03bf\u03c1\u03bc\u03b7). A rush or impulse as in James 3:4.",
+            "To entreat them shamefully (\u03c5\u03b2\u03c1\u03b9\u03c3\u03b1). First aorist active infinitive of \u03c5\u03b2\u03c1\u03b9\u03b6\u03c9, old verb to insult insolently.",
+            "The plan to stone them shows that the Jews were in the lead and followed by the Gentile rabble."
+        ],
+        "John Gill": [
+            "Or a strong bias and inclination were in the minds, both of the Gentiles, and also of the Jews, with their rulers; who encouraged them in it.",
+            "To use them despitefully, and to stone them; not only to give them reproachful language, but to smite, buffet, and scourge them, and to stone them for blasphemy.",
+            "Which was a punishment among the Jews for such causes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A movement began with the intention of stoning the apostles, but they fled to avoid the assault. This incident reminds us of when Paul was stoned at Lystra. By avoiding violence and stoning, the apostles demonstrated their endurance and fearlessness in preaching the gospel, even if it meant facing danger. The Jews, led by their rulers, were determined to mistreat the apostles and stone them, showing a strong inclination and encouragement for such treatment. Stoning was a punishment among the Jews for blasphemy, and this hostile movement was a clear attempt to bring contempt and injury upon the apostles. Ultimately, their steadfastness in the face of danger proves their commitment to their duty, even to the point of enduring death.",
+            "wordCount": 120,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.9183001763851346,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.12,
+            "commentatorTierSimilarities": [
+                28.53,
+                38.76,
+                32.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A movement arose in an impetuous rush to stone the apostles, but they wisely fled to avoid the assault. This incident echoes Paul's stoning in Lystra, emphasizing the apostles' courage in facing danger for the sake of preaching the gospel. The Jews, influenced by their rulers, aimed to use them despitefully and stone them, reflecting a deep-seated bias against them. Stoning, a punishment for blasphemy, was meant to bring contempt and harm upon the apostles. Nevertheless, their unwavering dedication proves their readiness to fulfill their duty, even unto death.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.9034636296505538,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                26.24,
+                39.94,
+                33.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A movement was stirring, tending towards an assault with the intention of stoning the apostles. However, they wisely fled to avoid the imminent danger. This incident recalls the moment when Paul himself was stoned at Lystra. The Jews, alongside the Gentile rabble, were leading the charge, driven by their strong inclination to mistreat and stone the apostles. Despite facing such hostility, the apostles remained resolute in their duty, unafraid of the dangers they might encounter in fulfilling their mission.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.827319789993011,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+            "commentatorTierSimilarities": [
+                32.49,
+                36.88,
+                30.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A movement began, with a view to stoning the apostles, but they fled to evade the assault. This incident brings to mind Paul's previous experience of being stoned at Lystra. The Jews, along with the Gentile rabble, were determined to shamefully mistreat and stone the apostles. Their violent intentions reveal a strong bias against the apostles, which was encouraged by their leaders. Despite the imminent danger, the apostles remained steadfast in their mission, unafraid to face even death itself in their unwavering dedication.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8611577746330623,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                31.82,
+                37.44,
+                30.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A movement arose, intending to stone the apostles, but they wisely fled from the impending assault. This incident mirrors Paul's stoning in Lystra when he was shamefully mistreated. The Jews, led by their rulers, were driven by a strong inclination to inflict harm on the apostles. Stoning was a common punishment for blasphemy among the Jews. Nevertheless, the apostles stood firm in their duty to proclaim the gospel, fearlessly enduring even the threat of death.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.912905559808464,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                28.6,
+                37.06,
+                34.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

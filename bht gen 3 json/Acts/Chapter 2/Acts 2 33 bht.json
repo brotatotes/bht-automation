@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:25:27",
+    "verseRef": "Acts 2:33",
+    "bestBHT": {
+        "bht": "Peter proclaims the exaltation of Jesus to be the Lord and Christ, emphasizing that it was a marvelous work of God. The seen and heard signs, such as the rushing wind and tongues of fire, were undeniable proof of the promised outpouring of the Holy Spirit. Jesus, exalted to the right hand of God, poured out the Spirit from his mediatorial throne. Through this, Christ demonstrated his power even beyond his physical presence, ensuring that his death and resurrection had not diminished his authority but rather brought forth the abundant gifts of his Spirit.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 1.8925413945508969,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+        "commentatorTierSimilarities": [
+            29.04,
+            34.23,
+            36.72
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peter now comes to the Ascension\u2014the exaltation of Jesus to be, in the fullest sense, Lord and Christ.",
+            "The great end of this speech is to shew forth the GOD OF ISRAEL as the Doer of all these things.",
+            "This, which they saw and heard, must be none other than the promised effusion of the Spirit."
+        ],
+        "Albert Barnes": [
+            "He was raised from the dead by his power, and borne to heaven, triumphant over all his enemies.",
+            "The Holy Spirit was promised to the disciples before his death.",
+            "The fulfillment of this promise was a rational way of accounting for the scene before them."
+        ],
+        "John Calvin": [
+            "For this is his drift, to declare that it was a wonderful work of God, in that he had exalted his Christ (whom men thought to be quite destroyed by death) unto so great glory.",
+            "And Peter speaketh wisely according to the capacity of the ignorant, lest any man should move a question out of season concerning the power of Christ.",
+            "For by this means the force and fruit of Christ his death and resurrection is sealed; and we do also thereby know, that we have lost nothing by Christ his departing out of the world; because, though he be absent in body, yet is he present with us after a better sort, to wit, by the grace of his Holy Spirit."
+        ],
+        "Philip Schaff": [
+            "Therefore being exalted to the right hand of God.",
+            "From His mediatorial throne at the right hand of God, Christ poured out the Spirit.",
+            "The undoubted connection with the concluding words of the great prophecy of Psalms 16:0, leads us without hesitation to adopt this rendering in preference to the usual translation 'by the right hand.'"
+        ],
+        "Archibald T. Robertson": [
+            "And it will make sense in the true dative case, 'to the right hand of God.'\" This translation makes it the instrumental case.",
+            "Exalted (\u03c5\u03c8\u03c9\u03b8\u03b5\u03b9\u03c2). First aorist passive participle of \u03c5\u03c8\u03bf\u03c9, to lift up. Here both the literal and tropical sense occurs.",
+            "This includes the sound like the rushing wind, the tongues like fire on each of them, the different languages spoken by the 120.\" The proof was before their eyes in this new energy from heaven."
+        ],
+        "John Gill": [
+            "He was exalted and raised to the high honour and dignity of a Prince and Saviour, of Lord, Head, and King, so as to have a name, dominion, and authority over all, by the mighty power of God.",
+            "He hath shed forth this Holy Spirit, or promised Spirit, these gifts of his; and so the Syriac version renders it, 'he hath shed forth this gift'; which expresses both the plenty and abundance of the gifts bestowed, and the liberality of Christ in the donation of them.",
+            "Which ye now see and hear; meaning the cloven tongues, as of fire, which they saw sitting on the disciples, and the various languages which they heard them speak."
+        ],
+        "John Wesley": [
+            "Being exalted by the right hand of God \u2014 By the right hand; that is, the mighty power of God. Our Lord was exalted at his ascension to God's right hand in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter proclaims the exaltation of Jesus to be the Lord and Christ, emphasizing that it was a marvelous work of God. The seen and heard signs, such as the rushing wind and tongues of fire, were undeniable proof of the promised outpouring of the Holy Spirit. Jesus, exalted to the right hand of God, poured out the Spirit from his mediatorial throne. Through this, Christ demonstrated his power even beyond his physical presence, ensuring that his death and resurrection had not diminished his authority but rather brought forth the abundant gifts of his Spirit.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8925413945508969,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                29.04,
+                34.23,
+                36.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter declares that Jesus has been exalted as the Lord and Christ, a remarkable work of God. The visible and audible signs witnessed by the people were a testament to the undeniable outpouring of the Holy Spirit. Jesus, now exalted at the right hand of God, poured out his Spirit from his heavenly throne. Through this, he demonstrated his authority and bestowed abundant gifts upon his followers. This glorious manifestation proved that his departure from the world was not a loss, but rather a means to be present with his people through the Holy Spirit.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.7762928616875926,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.4,
+            "commentatorTierSimilarities": [
+                28.79,
+                35.4,
+                35.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter proclaims the exaltation of Jesus to be the Lord and Christ, emphasizing it as a marvelous work of God. The seen and heard signs, such as the rushing wind and tongues of fire, were undeniable proof of the promised outpouring of the Holy Spirit. Jesus, exalted to the right hand of God, poured out the Spirit from his heavenly throne. Through this, he demonstrated his authority beyond his physical presence, ensuring that his death and resurrection had not diminished his authority but rather brought forth the abundant gifts of his Spirit.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.839067275376712,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                29.27,
+                34.16,
+                36.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter proclaims the exaltation of Jesus as the Lord and Christ, emphasizing it as a marvelous work of God. The seen and heard signs, like the rushing wind and tongues of fire, were undeniable proof of the promised outpouring of the Holy Spirit. Jesus, exalted at the right hand of God, poured out the Spirit from his heavenly throne. Through this, he demonstrated his authority beyond his physical presence, ensuring that his death and resurrection had not diminished his authority but rather brought forth the abundant gifts of his Spirit.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8329489401674772,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                29.35,
+                33.95,
+                36.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter boldly declares the exaltation of Jesus as the Lord and Christ, attributing it to the glorious work of God. The undeniable signs witnessed by the people, including the rushing wind and tongues of fire, were proof of the promised outpouring of the Holy Spirit. Ascending to the right hand of God, Jesus poured out the Spirit from his heavenly throne, manifesting his authority beyond his physical presence and generously bestowing an abundance of gifts upon his followers. This powerful display affirms that his departure was not a loss, but a means of being present with his people through the Holy Spirit.",
+            "wordCount": 102,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.8516848666078438,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                29.87,
+                33.17,
+                36.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:31:25",
+    "verseRef": "2 Timothy 3:11",
+    "bestBHT": {
+        "bht": "Paul describes the persecutions and afflictions he endured, emphasizing their severity and impact. However, he also testifies to the Lord's deliverance from these trials. Paul's experiences of being delivered by the Lord serve as a testament to God's presence and faithfulness in his life. Timothy, having witnessed these persecutions first-hand, is urged to follow Paul's example and trust in the unwavering power and grace of God. Paul's confidence in God's ongoing deliverance instills hope in Timothy and strengthens his faith.",
+        "wordCount": 87,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.6130202730281256,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.98,
+        "commentatorTierSimilarities": [
+            23.35,
+            37.84,
+            38.81
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "which\u2014Greek, 'such as.'",
+            "what\u2014How grievous.",
+            "out of . . . all . . . Lord delivered me."
+        ],
+        "Albert Barnes": [
+            "Persecutions - On the meaning of this word, see the notes at Matthew 5:10.",
+            "Afflictions - Trials of other kinds than those which arose from persecutions. The apostle met them everywhere; compare the notes at Acts 20:23.",
+            "But out of them all the Lord delivered me - See the history in the places referred to in the Acts."
+        ],
+        "Marvin Vincent": [
+            "Persecutions, afflictions... usually in the sense of sufferings, but twice of sinful passions.",
+            "These cities may have been selected as illustrations because Timothy was at home in that region.",
+            "Delivered... to draw out from peril."
+        ],
+        "John Calvin": [
+            "It is a consolation which mitigates the bitterness of afflictions, that they always have a happy and joyful end.",
+            "When God sometimes delivers us, he testifies, in this manner, that he is present with us, and will always be present; for from the feeling, or actual knowledge, of present aid, our confidence ought to be extended to the future.",
+            "Thou hast known by experience that God hath never forsaken me, so that thou hast no right to hesitate to follow my example."
+        ],
+        "Philip Schaff": [
+            "There is something at once natural and touching in the way in which the aged apostle goes back to the memories of the first missionary journey in which Timothy had known him.",
+            "Persecution and then deliverance, that had been the course of his life then.",
+            "He is confident that it will be so to the end."
+        ],
+        "Archibald T. Robertson": [
+            "What things befell me... more fully described in 2 Corinthians 11:30-33.",
+            "What persecutions I endured... as in 1 Corinthians 10:13.",
+            "Delivered me... Used again of the Lord Jesus in 2 Timothy 4:18."
+        ],
+        "John Gill": [
+            "Persecutions, afflictions, which came unto me at Antioch.... and also at Iconium; where both Jews and Gentiles made an assault upon them, to use them ill, and stone them, Acts 14:5 and likewise at Lystra...",
+            "And these instances are the rather mentioned because they were done in those parts, where Timothy had lived, Acts 16:1 and so knew the truth of these things, not only from the apostle's mouth, but from the testimonies of others...",
+            "but out of them all the Lord delivered me; see 2 Corinthians 1:10 2 Timothy 4:17, this he says to the glory of the grace and power of God, to whom he ascribes all his deliverances..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through his declaration, what persecutions I endured, the apostle Paul showcases the magnitude and intensity of the sufferings he faced throughout his ministry. These afflictions, encompassing both physical and emotional torment, served as a mark of identification for Paul as a follower of Christ. However, amidst the numerous trials, Paul was delivered by the Lord Himself, testifying to the faithfulness and power of God. This deliverance was not an isolated incident but consistent throughout Paul's life, demonstrating the ongoing presence and support of God. Reflecting on these experiences, Paul encourages Timothy, who witnessed firsthand the apostle's trials, to trust in God's unfailing presence and follow his example with unwavering faith.",
+            "wordCount": 113,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.5575316986327894,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.13,
+            "commentatorTierSimilarities": [
+                22.43,
+                34.63,
+                42.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In recounting the afflictions and persecutions he endured, Paul highlights the gravity and distress he faced for the sake of the Gospel. Yet, amidst these trials, Paul affirms that the Lord faithfully delivered him, showcasing God's power and grace. These accounts serve as a reminder that even in the face of adversity, God remains present and is capable of delivering His people. As Timothy witnessed these experiences firsthand, Paul encourages him to trust in God's unwavering presence and follow his example with unwavering faith.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.4991726308871254,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "commentatorTierSimilarities": [
+                21.02,
+                34.68,
+                44.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In recalling the persecutions and sufferings he endured, Paul affirms the significant impact these trials had on his life. However, he also testifies to the Lord's deliverance and protection through it all. Whether facing physical persecution or sinful passions, Paul experienced God's supernatural intervention. This pattern of persecution and deliverance characterized Paul's life from the beginning of his ministry and he confidently believes it will continue until the end. Through his personal experiences, Paul encourages Timothy to find strength and assurance in the Lord's faithful presence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5531827781725895,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.99,
+            "commentatorTierSimilarities": [
+                22.84,
+                39.73,
+                37.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul describes the persecutions and afflictions he endured, emphasizing their severity and impact. However, he also testifies to the Lord's deliverance from these trials. Paul's experiences of being delivered by the Lord serve as a testament to God's presence and faithfulness in his life. Timothy, having witnessed these persecutions first-hand, is urged to follow Paul's example and trust in the unwavering power and grace of God. Paul's confidence in God's ongoing deliverance instills hope in Timothy and strengthens his faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6130202730281256,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.98,
+            "commentatorTierSimilarities": [
+                23.35,
+                37.84,
+                38.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In reflecting on his life and ministry, Paul acknowledges the various persecutions and afflictions he faced. However, he emphasizes that through it all, the Lord delivered him. These deliverances serve as a testament to God's presence and active involvement in Paul's life. Paul's experiences of persecution and subsequent deliverance are meant to encourage and inspire Timothy, who had witnessed these trials firsthand. By sharing his own journey, Paul assures Timothy of God's faithfulness and calls him to follow the example of unwavering trust in the Lord.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.5494262229506819,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.86,
+            "commentatorTierSimilarities": [
+                22.65,
+                39.99,
+                37.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

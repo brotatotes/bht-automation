@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:16:46",
+    "verseRef": "2 Corinthians 7:6",
+    "bestBHT": {
+        "bht": "The apostle Paul had been anxiously searching for Titus in Troas, but it was his arrival that brought him much-needed consolation. God, who is known for comforting the downcast, was the ultimate source of this comfort. The mention of the lowly suggests that humility is a vital Christian virtue. Paul's joy not only came from seeing Titus again, but also from the encouraging news he brought about the Corinthians' response to Paul's previous letter. This reminds us that even in our afflictions, God prepares abundant consolation for us.",
+        "wordCount": 91,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 1.804608790618376,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.34,
+        "commentatorTierSimilarities": [
+            22.15,
+            38.18,
+            39.67
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was the not finding Titus which had given him such uneasiness in Troas.\" (Commentary)",
+            "The coming of Titus, as the conditional element or vehicle of the consolation.\" (Commentary)",
+            "So also twice in the next verse.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But he that comforteth those that are cast down, even God.\" ",
+            "Those that are of an high spirit are not susceptible of such comfort."
+        ],
+        "Albert Barnes": [
+            "God that comforteth those that are cast down - Whose characteristic is, that be gives consolation to those who are anxious and depressed.\" ",
+            "All his consolation was in God; and by whatever instrumentality comfort was administered, he regarded and acknowledged God as the author.",
+            "He rejoiced not only in again seeing him, but especially in the intelligence which he brought respecting the success of his Epistle, and the conduct of the church at Corinth."
+        ],
+        "Marvin Vincent": [
+            "He that comforteth, etc. - 'even God.'",
+            "The neater rendering would be the downcast.",
+            "The lowly."
+        ],
+        "John Calvin": [
+            "Consolation had been offered to him, because he was borne down with evils, and almost overwhelmed, inasmuch as God is wont to comfort the lowly, that is, those that are cast down.",
+            "Hence a most profitable doctrine may be inferred \u2014 that the more we have been afflicted, so much the greater consolation has been prepared for us by God.",
+            "Hence, in the epithet here applied to God, there is a choice promise contained, as though he had said, that it is peculiarly the part of God to comfort those that are miserable and are abased to the dust."
+        ],
+        "Archibald T. Robertson": [
+            "Humility as a sovereign grace is the creation of Christianity\" (Gladstone, Life, iii, p. 466).",
+            "Low in condition as here\" (James 1:9).",
+            "Humility as a sovereign grace is the creation of Christianity\" (Gladstone, Life, iii, p. 466)."
+        ],
+        "John Gill": [
+            "Nevertheless, God that comforteth those that are cast down... fills them with comforts; he has been used to do so with such persons...\" ",
+            "he has raised comfort to them; they may expect it, and the apostle experienced it...",
+            "comforted us by the coming of Titus... the very sight of him gave him pleasure; and the more, inasmuch as he had for some time longed to see him..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul had been anxiously searching for Titus in Troas, but it was his arrival that brought him much-needed consolation. God, who is known for comforting the downcast, was the ultimate source of this comfort. The mention of the lowly suggests that humility is a vital Christian virtue. Paul's joy not only came from seeing Titus again, but also from the encouraging news he brought about the Corinthians' response to Paul's previous letter. This reminds us that even in our afflictions, God prepares abundant consolation for us.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.804608790618376,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.34,
+            "commentatorTierSimilarities": [
+                22.15,
+                38.18,
+                39.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul, feeling anxious in Troas due to his inability to find Titus, was greatly relieved when Titus finally arrived. It was God who comforted those who were downcast, and Paul acknowledged God as the ultimate source of consolation. This verse highlights the importance of humility, a hallmark of the Christian faith. Paul's joy upon seeing Titus was not only due to their reunion, but also because of the positive report Titus brought regarding the response of the Corinthians to Paul's previous letter. It serves as a reminder that in times of affliction, God prepares abundant comfort for us.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8004146474126768,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "commentatorTierSimilarities": [
+                21.27,
+                40.46,
+                38.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul's anxieties in Troas were dispelled upon the arrival of Titus. God, the ultimate source of comfort for the downcast, reassured Paul. The mention of the lowly emphasizes the importance of humility in Christianity. Paul's joy stemmed not only from reuniting with Titus but also from the encouraging news he brought about the Corinthians' response to Paul's previous communication. This verse conveys the assurance that in times of affliction, God provides abundant consolation for his people.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7389931311471112,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "commentatorTierSimilarities": [
+                24.94,
+                37.73,
+                37.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Paul was unable to find Titus in Troas, he experienced great uneasiness. However, upon Titus' arrival, Paul was comforted. This verse reminds us that it is God who comforts those who are downcast. The mention of the lowly emphasizes the importance of humility in the Christian faith. Paul's joy upon seeing Titus was not only due to their reunion, but also because Titus brought encouraging news about the Corinthians' response to Paul's previous letter. God's consolation is promised to those who face afflictions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.7707171405175357,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "commentatorTierSimilarities": [
+                26.88,
+                35.77,
+                37.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Troas, Paul's anxiety grew when he couldn't find Titus. However, with Titus' arrival came much-needed consolation. This verse highlights that it is God who comforts the downcast, emphasizing the significance of humility in Christianity. Paul was overjoyed not only to see Titus again, but also because of the positive report he brought about the Corinthians' response. It serves as a reminder that even in our afflictions, God provides abundant comfort for us.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.7207031961287202,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                24.68,
+                36.87,
+                38.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

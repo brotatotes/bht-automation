@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:20:56",
+    "verseRef": "Galatians 5:16",
+    "bestBHT": {
+        "bht": "To live a life in accordance with God's will, we must walk by the Spirit and allow the Holy Spirit to guide our actions. The Spirit and the flesh are incompatible, representing the Holy Spirit of God and our natural human desires, respectively. By submitting to the leading of the Spirit, we can overcome the cravings of the flesh and live a life that reflects our Christian faith. Our conduct should be influenced by the Spirit, relying on His strength and grace to resist and defeat the desires that stem from our human nature without the divine Spirit.",
+        "wordCount": 99,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.3663783466753117,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.02,
+        "commentatorTierSimilarities": [
+            26.75,
+            48.96,
+            24.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Spirit is not man's 'spiritual part,' nor do the words mean 'after a spiritual manner;' it is the Holy Spirit of God.",
+            "The Spirit and the flesh exclude one another.",
+            "The flesh refers to the natural man, that whole state of being in the flesh, out of which spring the practices and thoughts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The best way to keep tares out of a bushel is to fill it with wheat.",
+            "The spirit and the flesh mutually exclude one another.",
+            "The gentle dove trembles at the sight even of a hawk's feather."
+        ],
+        "Albert Barnes": [
+            "The Christian life is often represented as a journey...the word walk...is often equivalent to live.",
+            "The only way to overcome the corrupt desires and propensities of our nature, is by submitting to the influences of the Holy Spirit.",
+            "If we live under the influences of that Spirit, we need not fear the power of the sensual and corrupt propensities of our nature."
+        ],
+        "Marvin Vincent": [
+            "Walk [\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b5\u03b9\u03c4\u03b5] . Frequent in a metaphorical sense for habitual conduct.",
+            "In the Spirit [\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9] . Rather, by the Spirit, as the rule of action.",
+            "The lust [\u03b5\u03c0\u03b9\u03b8\u03c5\u03bc\u03b9\u03b1\u03bd] . It means, not the mere sensual desire of the physical nature, but the desire which is peculiar to human nature without the divine Spirit."
+        ],
+        "John Calvin": [
+            "The ruin of the church is no light evil, and whatever threatens it must be opposed with the most determined resistance.",
+            "The Galatians are indirectly told, that they are carnal, destitute of the Spirit of God, and that the life which they lead is unworthy of Christians.",
+            "The spiritual man may be frequently assaulted by the lusts of the flesh, but fulfill them, \u2014 he does not permit them to reign over him."
+        ],
+        "Philip Schaff": [
+            "Walk by the Spirit, according to the rule and direction of the Holy Spirit who is the higher conscience and controlling principle of the Christian.\" ",
+            "The Holy Spirit and the sinful flesh are so antagonistic and irreconcilable that to follow the one is to resist and defeat the other.",
+            "The antagonism between the carnal nature of man and the Holy Spirit of God is one of the fundamental ideas in Paul\u2019s psychology."
+        ],
+        "Archibald T. Robertson": [
+            "Ye will not fulfill.\" ",
+            "The lust of the flesh...just craving or longing.",
+            "The word is just craving or longing."
+        ],
+        "John Gill": [
+            "Walk in the Spirit...making the word inspired by him the rule of behaviour.",
+            "Taking him himself for a guide...depending upon his grace and strength for assistance.",
+            "They should not fulfil or perfect the lust of the flesh...they do not make a trade of it, it is not their constant employ or course of conversation."
+        ],
+        "John Wesley": [
+            "Walk by the Spirit - Follow his guidance in all things.",
+            "And fulfil not - In anything.",
+            "The desire of the flesh - Of corrupt nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Spirit and the flesh are in direct opposition to one another, with the Spirit being the Holy Spirit of God and the flesh representing the natural man. To overcome the desires of the flesh, we must walk by the Spirit, allowing the Holy Spirit to be our guiding principle in all aspects of our lives. By doing so, we can resist and defeat the cravings and longings that stem from our human nature without the divine Spirit. It is important to remember that the Christian life is like a journey, and our habitual conduct should reflect the influence of the Holy Spirit. So let us walk in the Spirit and not fulfill the desires of the flesh, relying on God's grace and strength to guide and assist us.",
+            "wordCount": 130,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 2.2618720209875858,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.55,
+            "commentatorTierSimilarities": [
+                27.13,
+                48.06,
+                24.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Spirit and the flesh are mutually exclusive, representing the Holy Spirit of God and the natural desires of the human nature. By walking in the Spirit and following the guidance of the Holy Spirit, we can overcome the cravings of the flesh that arise from our human desires. As Christians on a journey, our habitual conduct should be shaped by the influence of the Holy Spirit. We must rely on God's grace and strength to resist and defeat the desires of the flesh, allowing us to live a life worthy of Christians.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.314468528278991,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.3,
+            "commentatorTierSimilarities": [
+                27.05,
+                48.93,
+                24.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To avoid fulfilling the desires of the flesh, we must walk in the Spirit and allow the Holy Spirit to guide our behavior. The Spirit and the flesh are entirely opposing forces, with the Spirit being the Holy Spirit of God and the flesh representing our natural human desires. By submitting to the influence of the Spirit, we can overcome the corrupt desires that come from our human nature and live a life that is in line with God's will. Through the continual guidance of the Spirit, we can resist the pull of our sinful inclinations and experience the transformation that comes from a life lived in the Spirit.",
+            "wordCount": 110,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.3776670858527558,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.4,
+            "commentatorTierSimilarities": [
+                26.03,
+                49.53,
+                24.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To live a life that is aligned with God's will, we must walk in the Spirit and allow the Holy Spirit to act as our guiding principle. The Spirit and the flesh are in direct opposition, with the Spirit representing the Holy Spirit of God and the flesh symbolizing our natural human desires. By following the lead of the Spirit and resisting the temptations of the flesh, we can overcome our sinful inclinations and experience true transformation. Through the continual reliance on the Spirit's guidance, we can fulfill the righteous desires of God rather than the cravings of the flesh.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.3027667192558203,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.91,
+            "commentatorTierSimilarities": [
+                27.52,
+                47.22,
+                25.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To live a life in accordance with God's will, we must walk by the Spirit and allow the Holy Spirit to guide our actions. The Spirit and the flesh are incompatible, representing the Holy Spirit of God and our natural human desires, respectively. By submitting to the leading of the Spirit, we can overcome the cravings of the flesh and live a life that reflects our Christian faith. Our conduct should be influenced by the Spirit, relying on His strength and grace to resist and defeat the desires that stem from our human nature without the divine Spirit.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.3663783466753117,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.02,
+            "commentatorTierSimilarities": [
+                26.75,
+                48.96,
+                24.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

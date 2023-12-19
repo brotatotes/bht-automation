@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:12:56",
+    "verseRef": "Luke 1:12",
+    "bestBHT": {
+        "bht": "The sudden appearance of the angel brought fear and trouble upon Zacharias. Such angelic revelations were uncommon and had a profound impact on the minds of even good men. This experience serves as a reminder of the awe-inspiring presence of God that can humble and shake us. Despite Zacharias' familiarity with God, he was greatly alarmed by the angel's visit, emphasizing the inability of human nature to withstand such encounters. The hidden nature of heavenly services reflects God's wisdom and goodness towards us.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.6775388969335892,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+        "commentatorTierSimilarities": [
+            0.0,
+            49.82,
+            50.18
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "He was troubled - He was alone, in the presence of God. The appearance of the angel was sudden, unexpected, and therefore fearful."
+        ],
+        "John Calvin": [
+            "Though God does not appear to his servants for the purpose of terrifying them, yet it is advantageous and even necessary for them to be struck with awe.",
+            "The presence of God fills men with alarm, which not only leads them to reverence, but humbles the pride of the flesh.",
+            "We are taught by the example of the holy fathers that those only are impressed with a lively sense of the Divine presence who shake and tremble at beholding him, and that those are stupid and insensible who hear his voice without alarm."
+        ],
+        "Philip Schaff": [
+            "Luke 1:12. Fear fell upon him. This fear was natural, for angelic revelations had not occurred for centuries.",
+            "\t"
+        ],
+        "John Gill": [
+            "Such appearances of angels were not now so common as formerly.",
+            "Generally had such effects on the minds, even of good men.",
+            "When they were more usual, generally had such effects on the minds, even of good men."
+        ],
+        "John Wesley": [
+            "Although [Zacharias] was accustomed to converse with God, yet we see he was thrown into a great consternation, at the appearance of his angelical messenger, nature not being able to sustain the sight.",
+            "Is it not then an instance of the goodness is well as of the wisdom of God, that the services, which these heavenly spirits render us, are generally invisible?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 1:12, the sudden and unexpected appearance of the angel filled Zacharias with fear and trouble. This fear was natural, for angelic revelations had not occurred for centuries. The presence of God can often strike awe and trembling in the hearts of His servants, humbling the pride of the flesh. The holy fathers exemplify the proper response of being impressed and trembling at the sight of God. Though such appearances of angels were not as common as before, they would generally have such effects on the minds of even good men. Zacharias, who was accustomed to conversing with God, still experienced great consternation at the sight of the angel. It is through the goodness and wisdom of God that the services rendered by heavenly spirits are generally invisible to us.",
+            "wordCount": 130,
+            "quoteTokenProportion": 40.7,
+            "qualityScore": 1.7716181317770616,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                50.62,
+                49.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sudden appearance of the angel filled Zacharias with fear and trouble. Angelic revelations had not occurred for centuries, making this experience even more awe-inspiring. The presence of God can humble the pride of the flesh, prompting reverence and alarm. The holy fathers exemplify being impressed and trembling at the sight of God. Such angelic appearances were rare but had profound effects on even good men. Despite Zacharias' close relationship with God, he was greatly troubled by the angel's presence. Heavenly services are often invisible, showcasing God's goodness and wisdom.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.6364955286494798,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                51.4,
+                48.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sudden appearance of the angel brought fear and trouble upon Zacharias. Such angelic revelations were uncommon and had a profound impact on the minds of even good men. This experience serves as a reminder of the awe-inspiring presence of God that can humble and shake us. Despite Zacharias' familiarity with God, he was greatly alarmed by the angel's visit, emphasizing the inability of human nature to withstand such encounters. The hidden nature of heavenly services reflects God's wisdom and goodness towards us.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6775388969335892,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                0.0,
+                49.82,
+                50.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Zacharias was filled with fear and trouble when the angel appeared suddenly in Luke 1:12. Such angelic revelations were rare and had a profound impact on even good men. The presence of God demands reverence and humbles the pride of the flesh, as exemplified by the holy fathers who trembled at the sight of Him. Despite his familiarity with God, Zacharias was greatly alarmed, emphasizing the inadequacy of human nature in the face of divine encounters. The hidden nature of heavenly services reveals God's wisdom and goodness towards us.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.652104415557643,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                50.97,
+                49.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Zacharias, upon the sudden appearance of the angel, experienced fear and trouble. Such angelic revelations, once common, were not seen for a long time. The presence of God inspires awe and reverence, humbling human pride. The holy fathers teach us the importance of trembling before God. Even Zacharias, who had a close relationship with God, was greatly alarmed by the angel's presence. This reminds us that heavenly services are often invisible to us, reflecting God's wisdom and goodness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.6353186176889323,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.72,
+            "commentatorTierSimilarities": [
+                0.0,
+                51.97,
+                48.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

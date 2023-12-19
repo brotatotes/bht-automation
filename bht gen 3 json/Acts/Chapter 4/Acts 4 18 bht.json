@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:25:51",
+    "verseRef": "Acts 4:18",
+    "bestBHT": {
+        "bht": "The religious authorities ordered them not to make the name of Jesus the subject of their discourses, not to speak at all or teach in his name. The disciples were faced with a choice: to obey the authorities or to listen to God. But the message of Jesus was not something they could keep silent about. They understood that they were not only being told not to speak publicly, but also to withhold the doctrine of Jesus. However, they could not stay silent about the person, incarnation, offices, sufferings, death, and resurrection of Jesus.",
+        "wordCount": 94,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 1.6073795045553698,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.79,
+        "commentatorTierSimilarities": [
+            32.21,
+            0.0,
+            67.79
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18.] in (literally, upon) the name of Jesus; i.e. so as to make that Name the subject (basis) of their discoursing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "18-22. Whether it be right . . . to",
+            "\thearken to you more than . . . God, judge ye."
+        ],
+        "Marvin Vincent": [
+            "To speak [\u03c6\u03b8\u03b5\u03b3\u03b3\u03b5\u03c3\u03b8\u03b1\u03b9] . See on 2 Peter 2:16."
+        ],
+        "Archibald T. Robertson": [
+            "Not to speak at all (\u03ba\u03b1\u03b8\u03bf\u03bb\u03bf\u03c5 \u03bc\u03b7 \u03c6\u03b8\u03b5\u03b3\u03b3\u03b5\u03c3\u03b8\u03b1). Same construction as above, infinitive in indirect command with negative \u03bc\u03b7 (and \u03bc\u03b7\u03b4\u03b5). "
+        ],
+        "John Gill": [
+            "And they commanded them not to speak at all.",
+            "Nor teach in the name of Jesus.",
+            "The doctrine of Jesus, that which respects his person, his incarnation, his offices, his sufferings, death, and resurrection from the dead."
+        ],
+        "John Wesley": [
+            "They charged them not to speak \u2014 Privately; nor teach - Publicly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious authorities ordered them not to make the name of Jesus the subject of their discourses, not to speak at all or teach in his name. The disciples were faced with a choice: to obey the authorities or to listen to God. But the message of Jesus was not something they could keep silent about. They understood that they were not only being told not to speak publicly, but also to withhold the doctrine of Jesus. However, they could not stay silent about the person, incarnation, offices, sufferings, death, and resurrection of Jesus.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.6073795045553698,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.79,
+            "commentatorTierSimilarities": [
+                32.21,
+                0.0,
+                67.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious authorities commanded the disciples not to speak or teach in the name of Jesus. They wanted to silence the message and teachings of Jesus, but the disciples understood that they couldn't keep silent. They had to continue proclaiming the person, incarnation, offices, sufferings, death, and resurrection of Jesus. The disciples were faced with a choice: to obey the authorities or to listen to God. But the message of Jesus was not something they could withhold.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.4644032062554357,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.03,
+            "commentatorTierSimilarities": [
+                32.29,
+                0.0,
+                67.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The authorities commanded the disciples not to speak or teach in the name of Jesus. They wanted to silence the message, but the disciples couldn't keep silent. They had to continue proclaiming the person, incarnation, offices, sufferings, death, and resurrection of Jesus. The disciples were faced with a choice: to obey the authorities or to listen to God. But the message of Jesus was not something they could withhold.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.4600975002408347,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.89,
+            "commentatorTierSimilarities": [
+                33.09,
+                0.0,
+                66.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious authorities ordered the disciples not to speak or teach in the name of Jesus, wanting to silence the message and teachings associated with him. However, the disciples realized that they couldn't keep silent about the person, incarnation, offices, sufferings, death, and resurrection of Jesus. They were confronted with a decision \u2013 obey the authorities or adhere to God's command. The message of Jesus was too powerful and transformational to be hidden away.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.3550667411940012,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.4,
+            "commentatorTierSimilarities": [
+                32.31,
+                0.0,
+                67.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The authorities commanded the disciples not to speak or teach in the name of Jesus. They sought to silence the message and teachings of Jesus, but the disciples knew they couldn't remain silent about the person, incarnation, offices, sufferings, death, and resurrection of Jesus. They faced a difficult decision: to obey the authorities or to listen to their calling from God. The message of Jesus was too important to be kept hidden and they understood that they had to continue proclaiming it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.4314819827446854,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.94,
+            "commentatorTierSimilarities": [
+                31.06,
+                0.0,
+                68.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

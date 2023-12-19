@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 14:01:12",
+    "verseRef": "1 Thessalonians 5:25",
+    "bestBHT": {
+        "bht": "Pray for us, for the clergy need the prayers of their flocks. This request is not unique to the Thessalonians, as Paul asks for prayers in multiple epistles. It is a plea for the prayers of his converts, a humble request for support and intercession. Without the prayers of the people, the minister is in danger and may accomplish little in their work. Therefore, the people are urged to pray fervently for their leaders, asking for freedom of thought, liberty of expression, and divine blessings upon their ministry.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.9832246822802342,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+        "commentatorTierSimilarities": [
+            32.52,
+            31.91,
+            35.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Pray ye also for (literally, 'concerning') us.\" ",
+            "The clergy need much the prayers of their flocks.\" ",
+            "Paul makes the same request in the Epistles to Romans, Ephesians, Philippians, Colossians, Philemon, and in Second Corinthians; not so in the Epistles to Timothy and Titus, whose intercessions, as his spiritual sons, he was already sure of; nor in the Epistles, I Corinthians, and Galatians, as these Epistles abound in rebuke."
+        ],
+        "Albert Barnes": [
+            "A minister, surrounded as he is by temptations, is in great danger if he has not the prayers of his people.",
+            "Without those prayers, he will be likely to accomplish little in the cause of his Master.",
+            "There is no way in which a people can better advance the cause of piety in their own hearts, than by praying much for their minister."
+        ],
+        "Philip Schaff": [
+            "1 Thessalonians 5:25. Pray for us. The frequency with which Paul asks the prayers of the churches is worthy of remark (Ephesians 6:19; Colossians 4:3; and note on a Thess. 1 Thessalonians 3:1).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Pray for us. He has made his prayer for them.",
+            "He adds this 'human touch' and pleads for the prayers of his converts.",
+            "Probably \u03ba\u03b1 also is genuine."
+        ],
+        "John Gill": [
+            "Brethren, pray for us.\" ",
+            "And of whom he requests, that they would pray for him, and the rest of his fellow ministers and labourers in the word.\" ",
+            "Give them freedom of thought, liberty of expression, and a door of utterance, and follow their ministrations with a divine blessing and success, and deliver them out of the hands of unreasonable men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pray for us, for the clergy in particular need the prayers of their flocks. This request is not unique to the Thessalonians, as Paul asks for prayers in multiple epistles. It is a plea for the prayers of his converts, a humble request for support and intercession. It is important for the people to pray for their minister, as they can greatly influence the advancement of piety and the cause of their Master. Without the prayers of the people, the minister is in danger and may accomplish little in their work. Therefore, the people are urged to pray fervently for their leaders, asking for freedom of thought, liberty of expression, and divine blessings upon their ministry.",
+            "wordCount": 116,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9685203440273793,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
+            "commentatorTierSimilarities": [
+                31.78,
+                33.02,
+                35.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pray for us, for the clergy need the prayers of their flocks. This request is not unique to the Thessalonians, as Paul asks for prayers in multiple epistles. It is a plea for the prayers of his converts, a humble request for support and intercession. Without the prayers of the people, the minister is in danger and may accomplish little in their work. Therefore, the people are urged to pray fervently for their leaders, asking for freedom of thought, liberty of expression, and divine blessings upon their ministry.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9832246822802342,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+            "commentatorTierSimilarities": [
+                32.52,
+                31.91,
+                35.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pray for us, as the clergy greatly need the prayers of their flocks. Paul makes this request in several of his epistles, emphasizing the importance of intercession. Without the prayers of the people, a minister may struggle to make significant progress in their role. It is therefore crucial for the congregation to actively support and pray for their leaders. By doing so, they can contribute to the advancement of piety and the success of their minister's work, seeking divine blessings and protection against opposition.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.748393756483282,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.48,
+            "commentatorTierSimilarities": [
+                32.24,
+                33.53,
+                34.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pray for us, for the clergy need the prayers of their flocks. This request is not unique to the Thessalonians; Paul asks for prayers in multiple epistles. It is a humble plea for support and intercession, a reminder of the importance of the congregation's prayers. By praying for their minister, the people can contribute to the advancement of piety and the success of their leader's work. It is through the prayers of the faithful that the ministry can be protected from harm and receive divine blessings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.931478896867551,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                34.29,
+                32.18,
+                33.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pray for us, for the clergy need the prayers of their flocks. Paul makes this request in multiple epistles, emphasizing the significance of intercession. Without the prayers of the people, a minister may struggle and accomplish little in their work for the Master. Thus, the congregation plays a vital role in advancing piety by praying fervently for their minister. Through their prayers, they can provide support, freedom of thought, and divine blessings, guarding them against opposition and assisting their ministry to thrive.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.8710343988659937,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                32.7,
+                33.12,
+                34.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

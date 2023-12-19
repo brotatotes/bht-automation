@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:17:54",
+    "verseRef": "Luke 10:18",
+    "bestBHT": {
+        "bht": "In awe-inspiring fashion, Jesus declared that He witnessed Satan falling from heaven like a flash of lightning. This scene captures the original downfall of Satan from his angelic position, representing his loss of status. The imagery used is not merely figurative, but a literal depiction of the triumph that Jesus would achieve over the Adversary. As the Seventy disciples experienced victories in casting out demons, Jesus perceived this as a grander spectacle, foreseeing Satan's ultimate defeat. This remarkable moment revealed the swift downfall of Satan and the power of the Gospel in combating evil.",
+        "wordCount": 96,
+        "quoteTokenProportion": 26.47,
+        "qualityScore": 2.283001213060884,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.25,
+        "commentatorTierSimilarities": [
+            31.07,
+            29.5,
+            39.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words, I beheld Satan as lightning fall from heaven, refer to the original fall of Satan, when he lost his place as an angel of light, not keeping his first estate.",
+            "And this I beheld belongs to the period before the foundation of the world when He abode in the bosom of the Father. He is to be the great Victor over the Adversary, and this victory when Satan fell from heaven.",
+            "The description is not figurative, but literal; i.e, as far as divine words can be said to be literal, being accommodated to our sensuous conceptions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I followed you on your mission, and watched its triumphs; while you were wondering at the subjection to you of devils in My name, a grander spectacle was opening to My view; sudden as the darting of lightning from heaven to earth, lo! Satan was beheld falling from heaven!",
+            "How remarkable is this, that by that law of association which connects a part with the whole, those feeble triumphs of the Seventy seem to have not only brought vividly before the Redeemer the whole ultimate result of His mission, but compressed it into a moment and quickened it into the rapidity of lightning!",
+            "Jesus meant to raise their minds not only from the particular to the general, but from a very temporary form of satanic operation to the entire kingdom of evil."
+        ],
+        "Albert Barnes": [
+            "I saw Satan fall 'quickly' or rapidly - as quick as lightning.",
+            "I saw at your command devils immediately depart, as quick as the flash of lightning.",
+            "I give also now, in addition to this, the power to tread on serpents."
+        ],
+        "Marvin Vincent": [
+            "The verb denotes calm, intent, continuous contemplation of an object which remains before the spectator.",
+            "The imperfect, was beholding, refers either to the time when the seventy were sent forth, or to the time of the triumphs which they are here relating.",
+            "Describing vividly a dazzling brilliance suddenly quenched."
+        ],
+        "John Calvin": [
+            "We infer that our deliverance from the bondage of Satan is effected in no other way than through the Gospel.",
+            "Those only make actual proficiency in the Gospel, in whom Satan loses his power, so that sin is destroyed, and they begin to live to the righteousness of God.",
+            "The thunder of the Gospel makes Satan fall like lightning; for it expresses the divine and astonishing power of the doctrine, which throws down, in a manner so sudden and violent, the prince of the world armed with such abundant forces."
+        ],
+        "Philip Schaff": [
+            "Satan, the personal prince of darkness.",
+            "Fall as lightning, i.e., suddenly.",
+            "The thought is, I saw your triumph over Satan\u2019s servants, and in this a token of his fall, of complete victory to be finally achieved through such works of faith and courage in my name."
+        ],
+        "Archibald T. Robertson": [
+            "I beheld Satan fallen.",
+            "As a flash of lightning out of heaven.",
+            "The victory of the Seventy over the demons, the agents of Satan, forecast his downfall."
+        ],
+        "John Gill": [
+            "this was no news to him, nor any surprising event, that devils should be cast out of men, and be in a state of subjection...",
+            "he, by his divine omniscience, saw the powers of darkness falling before their ministry and miracles...",
+            "he also foresaw how Satan hereafter, in a more conspicuous manner, would fall before the preaching of his Gospel by his apostles..."
+        ],
+        "John Wesley": [
+            "I beheld Satan \u2014 That is, when ye went forth, I saw the kingdom of Satan, which was highly exalted, swiftly and suddenly cast down."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 10:18, Jesus declares, I beheld Satan as lightning fall from heaven, drawing upon the original fall of Satan and his subsequent loss of status as an angel of light. The imagery used here is not figurative but literal, symbolizing the great victory that Jesus, the ultimate victor over the Adversary, will achieve. Through the triumphs of the Seventy and their power to cast out demons, Jesus, in a moment of divine revelation, sees the entire ultimate result of His mission and the impending downfall of Satan. This sudden and rapid fall is akin to the flash of lightning from heaven to earth, signifying the defeat of the entire kingdom of evil.",
+            "wordCount": 112,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4178408804163007,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.73,
+            "commentatorTierSimilarities": [
+                32.47,
+                30.27,
+                37.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus witnessed Satan, the fallen angel who once held the position of an angel of light, swiftly and suddenly cast down like lightning from heaven. This description is not figurative but carries a literal meaning, as far as divine words can be said to be literal. Jesus's statement reflects the triumphs of the Seventy over demons and the power they held in His name. Through their victories, Jesus perceives the broader scope of His mission and the ultimate defeat of the entire kingdom of evil.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.100098461479935,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.17,
+            "commentatorTierSimilarities": [
+                33.89,
+                27.63,
+                38.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In awe-inspiring fashion, Jesus declared that He witnessed Satan falling from heaven like a flash of lightning. This scene captures the original downfall of Satan from his angelic position, representing his loss of status. The imagery used is not merely figurative, but a literal depiction of the triumph that Jesus would achieve over the Adversary. As the Seventy disciples experienced victories in casting out demons, Jesus perceived this as a grander spectacle, foreseeing Satan's ultimate defeat. This remarkable moment revealed the swift downfall of Satan and the power of the Gospel in combating evil.",
+            "wordCount": 96,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 2.283001213060884,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.25,
+            "commentatorTierSimilarities": [
+                31.07,
+                29.5,
+                39.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in Luke 10:18, declares, I beheld Satan as lightning fall from heaven, signifying the original fall of Satan from his place as an angel of light. The imagery used is not metaphorical, but a literal depiction of Satan's rapid and sudden downfall. Through the triumphs of the Seventy disciples in casting out demons, Jesus gains a broader perspective on His mission, witnessing the ultimate defeat of Satan and the entire kingdom of evil. This scene highlights the power of the Gospel in overcoming the forces of darkness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 2.2919413231531927,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.55,
+            "commentatorTierSimilarities": [
+                30.37,
+                29.7,
+                39.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus describes witnessing the fall of Satan from heaven as lightning in Luke 10:18. This represents Satan's original fall, relinquishing his status as an angel of light. The vivid imagery used is not figurative but literal, highlighting the triumph that Jesus, the ultimate victor over the Adversary, will accomplish. Through the successes of the Seventy disciples, Jesus grasps the entire outcome of His mission, foreseeing the swift and complete defeat of Satan. This scene magnifies the power of the Gospel in combating the entire kingdom of evil.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.2011407022269225,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.53,
+            "commentatorTierSimilarities": [
+                31.71,
+                29.24,
+                39.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

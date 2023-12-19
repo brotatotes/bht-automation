@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:22:13",
+    "verseRef": "Luke 20:21",
+    "bestBHT": {
+        "bht": "The religious leaders sought to deceive Jesus with flattery, but He saw through their scheme. They acknowledged His truthful teaching and His impartiality, not showing favoritism. Jesus perceived the sincerity and uprightness of people's hearts, valuing them. He taught the genuine way of worshiping and experiencing God, both in this world and beyond. Jesus privately communicated and publicly instructed, rightly interpreting God's word and imparting sound doctrine.",
+        "wordCount": 69,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 0.9306934662599846,
+        "qualityScoreNormalizedComparedToV2BHTs": 22.29,
+        "commentatorTierSimilarities": [
+            20.9,
+            0.0,
+            79.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "21. we know, &amp;c.\u2014hoping by",
+            "\tflattery to throw Him off His guard."
+        ],
+        "Marvin Vincent": [
+            "Acceptest not the person. See on James 2:1."
+        ],
+        "Archibald T. Robertson": [
+            "Rightly (\u03bf\u03c1\u03b8\u03c9\u03c2). Matthew (Matthew 22:16) notes that these 'spies' were 'disciples' (students) of the Pharisees and Mark (Mark 12:13) adds that the Herodians are also involved in the plot. These bright theologues are full of palaver and flattery and openly endorse the teaching of Jesus as part of their scheme.",
+            "Acceptest not the person of any (\u03bf\u03c5 \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03b5\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bd). Dost not take the face (or personal appearance) as the test. It is a Hebraism from which the word \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bb\u03b5\u03bc\u03c8\u03b9\u03b1 (James 2:1) comes.",
+            "Originally it meant to lift the face, to lift the countenance, to regard the face, to accept the face value."
+        ],
+        "John Gill": [
+            "we know that thou sayest and teachest rightly; rightly dividest the word of God, and deliverest out sound doctrine according to it",
+            "neither acceptest thou the person of any... [Christ] looked upon the heart, and knew what was in it, and respected sincerity and uprightness wherever he found it",
+            "but teachest the way of God truly the way of worshipping God, and of enjoying him, both in this world, and in that to come"
+        ],
+        "John Wesley": [
+            "Thou speakest \u2014 In private, and teachest - In public."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders approached Jesus, hoping to catch Him off guard with flattery. They acknowledged that He spoke and taught truthfully and that He did not show favoritism. He did not rely on outward appearances but saw through to the heart, valuing sincerity and uprightness. Jesus taught the way of God authentically, guiding people in how to worship and enjoy Him in this world and the next. He spoke in private and taught in public, dividing the word of God rightly and delivering sound doctrine.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 0.9210088639480796,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.97,
+            "commentatorTierSimilarities": [
+                18.79,
+                0.0,
+                81.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders attempted to deceive Jesus with flattery, but He saw through their tactics. They acknowledged His truthful teaching and impartiality, not being swayed by appearances. Jesus discerned the hearts of people, valuing sincerity and uprightness. He taught the way of God genuinely, guiding people in worshiping and experiencing Him in this world and beyond. Jesus spoke in private and taught in public, rightly dividing the word of God and delivering sound doctrine.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 0.925799667025129,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.13,
+            "commentatorTierSimilarities": [
+                18.33,
+                0.0,
+                81.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders' motive was to throw Jesus off guard with flattery, but He saw through their intentions. They acknowledged His accurate teaching and His impartiality, not judging by appearances. Jesus understood people's hearts and valued sincerity and uprightness. He taught the true way of worshiping God, both in this world and in the world to come. He spoke privately and taught publicly, rightly dividing the word of God and imparting sound doctrine.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 0.8915845639200943,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.99,
+            "commentatorTierSimilarities": [
+                15.22,
+                0.0,
+                84.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders approached Jesus, hoping to catch Him off guard with flattery. They acknowledged that He spoke and taught truthfully and that He did not show favoritism. He did not rely on outward appearances but saw through to the heart, valuing sincerity and uprightness. Jesus taught the way of God authentically, guiding people in how to worship and enjoy Him in this world and the next. He spoke in private and taught in public, dividing the word of God rightly and delivering sound doctrine.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 0.9210088639480796,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.97,
+            "commentatorTierSimilarities": [
+                18.79,
+                0.0,
+                81.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders sought to deceive Jesus with flattery, but He saw through their scheme. They acknowledged His truthful teaching and His impartiality, not showing favoritism. Jesus perceived the sincerity and uprightness of people's hearts, valuing them. He taught the genuine way of worshiping and experiencing God, both in this world and beyond. Jesus privately communicated and publicly instructed, rightly interpreting God's word and imparting sound doctrine.",
+            "wordCount": 69,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 0.9306934662599846,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.29,
+            "commentatorTierSimilarities": [
+                20.9,
+                0.0,
+                79.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

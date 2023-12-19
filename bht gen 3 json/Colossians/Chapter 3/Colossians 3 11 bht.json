@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:21:58",
+    "verseRef": "Colossians 3:11",
+    "bestBHT": {
+        "bht": "In Christ, all distinctions among people, such as race and social status, cease to exist. Every category of humanity becomes inconsequential as all are absorbed into and centered in Christ. The unity found in the divine life shared by believers counterbalances even great differences, like the contrast between the refined Greek and the rugged Scythian. In Christ, race and class distinctions vanish as He occupies all aspects of human life. In Him, believers find everything needed for justification, sanctification, and glorification.",
+        "wordCount": 81,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 2.2679520710080574,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.75,
+        "commentatorTierSimilarities": [
+            39.68,
+            33.33,
+            26.99
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "wherein... there is not Greek and Jew... circumcision and uncircumcision... Barbarian... Scythian... bond, free: but CHRIST is all...",
+            "every distinctive category of humanity is done away as to worth or privilege, and all have been absorbed into and centre in this one, to be Christ\u2019s, yea to be Christ.",
+            "CHRIST is all... and in all"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is no such thing as Greek and Jew, circumcision and uncircumcision\u2014bondman, freeman.",
+            "Christ absorbs in Himself all distinctions, being to all alike, everything that they need for justification, sanctification, and glorification.",
+            "The unity of the divine life shared in by all believers, counterbalances all differences, even as great as that between the polished 'Greek' and the rude 'Scythian'."
+        ],
+        "Albert Barnes": [
+            "Where there is neither Greek nor Jew - See this fully explained in the notes at Galatians 3:28. The meaning here is, that all are on a level; that there is no distinction of nation in the church; that all are to be regarded and treated as brethren.",
+            "No one is admitted into that blessed society because he is circumcised; no one is excluded because he is uncircumcised. That distinction is unknown, and all are on a level.",
+            "The great thing that constitutes the uniqueness of the church is, that Christ is its Saviour, and that all are his friends and followers. Its members lay aside all other distinctions, and are known only as his friends."
+        ],
+        "John Calvin": [
+            "Christian perfection does not stand in need of those outward observances, nay, that they are things that are altogether at variance with it.",
+            "Christ alone holds, as they say, the prow and the stern - the beginning and the end.",
+            "Injustice would otherwise be done to Christ, as though it were necessary to call in those helps for making up his deficiencies."
+        ],
+        "Philip Schaff": [
+            "Where, in the region of the new creation, in contrast with that in which the old man dwelt, there is not Greek and Jew, no division as respects nationality, circumcision and uncircumcision, as respects religion, Barbarian, Scythian, as respects civilization, bondman, freeman.",
+            "'But Christ is all and in all.' But, strongly adversative, presents the contrast with the world of carnal men, where all these distinctions not only exist, but are emphasized and control the conduct.",
+            "Christ is the aggregation of all things, distinctions, prerogatives, blessings, and moreover is in all, dwelling in all, and so uniting all in the common element of Himself."
+        ],
+        "Archibald T. Robertson": [
+            "Race distinctions disappear in Christ and in the new man in Christ.",
+            "Class distinctions vanish in Christ.",
+            "Christ occupies the whole sphere of human life and permeates all its developments."
+        ],
+        "John Gill": [
+            "It matters not of what nation a man is, so be it he is but a good man; especially in Christianity, all distinctions of this kind cease.",
+            "Onesimus, a fugitive servant, was converted by the Apostle Paul in prison; and whoever is called by grace, if he is a free man in a civil sense, he is Christ's servant in a religious one; and if he is a servant of men, he is, in a spiritual sense, the Lord's free man.",
+            "Christ is all, and in all; he is 'all' efficiently; he is the first cause of all things, the beginning of the creation of God, the author of the old, and of the new creation, of the regeneration of his people, and of their whole salvation."
+        ],
+        "John Wesley": [
+            "It matters not what a man is externally, whether Jew or gentile, circumcised, or uncircumcised, barbarian, void of all the advantages of education, yea, Scythian, of all barbarians most barbarous.",
+            "Christ is in all that are thus renewed.",
+            "Christ is all things in them and to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, all distinctions between people have been done away with, such as nationality, religious status, and social class. It is in Christ that all believers find their worth and identity. No longer are there Greeks or Jews, circumcision or uncircumcision, barbarians or Scythians, bond or free. These categories are irrelevant in the kingdom of God, where Christ is everything and in everything. All believers, regardless of their background or status, share a unity in the divine life found in Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.107405707074207,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.41,
+            "commentatorTierSimilarities": [
+                36.68,
+                34.55,
+                28.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the new creation, all divisions and distinctions among people cease to exist. Whether Greek or Jew, circumcised or uncircumcised, barbarian or Scythian, bond or free, these categories become inconsequential. Christ absorbs all differences and becomes the center, providing everything needed for justification, sanctification, and glorification. In the kingdom of God, Christ is all in all, permeating every aspect of human life. The unity found in Christ counterbalances all worldly differences, uniting believers in the divine life they share.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.1270961937452704,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.07,
+            "commentatorTierSimilarities": [
+                37.81,
+                34.28,
+                27.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the new creation, every distinctive category of humanity is done away with as to worth or privilege. Regardless of race or social status, all have been absorbed into and centered in Christ. The unity of the divine life shared by believers counterbalances all differences, even as great as that between the polished Greek and the rude Scythian. In Christ, race distinctions disappear, and class distinctions vanish. Christ occupies the whole sphere of human life and permeates all its developments, being everything that believers need for justification, sanctification, and glorification.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.193246243550199,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.27,
+            "commentatorTierSimilarities": [
+                41.98,
+                33.18,
+                24.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Christ, all distinctions among people, such as race and social status, cease to exist. Every category of humanity becomes inconsequential as all are absorbed into and centered in Christ. The unity found in the divine life shared by believers counterbalances even great differences, like the contrast between the refined Greek and the rugged Scythian. In Christ, race and class distinctions vanish as He occupies all aspects of human life. In Him, believers find everything needed for justification, sanctification, and glorification.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.2679520710080574,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.75,
+            "commentatorTierSimilarities": [
+                39.68,
+                33.33,
+                26.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the new creation, there are no distinctions based on race, religion, or social class. All are on an equal level in Christ, where nationality and religious status do not matter. Christ is everything to believers, providing them with all they need for justification, sanctification, and glorification. The unity shared among believers in the divine life of Christ transcends all differences, bringing together people of diverse backgrounds, like the Greek and the Scythian, and erasing divisions based on social class. Christ permeates and encompasses all aspects of human life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1401535357557293,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.5,
+            "commentatorTierSimilarities": [
+                38.42,
+                33.55,
+                28.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

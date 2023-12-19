@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:16:23",
+    "verseRef": "2 Corinthians 5:20",
+    "bestBHT": {
+        "bht": "Let God reconcile you to Himself by accepting His plea for reconciliation as messengers of Christ. We are His appointed legates empowered to convey this message of reconciliation to the world. It is essential to acknowledge the authority of ordained messengers and heed God's entreaty through them. This ambassadorial duty continues to resound in the Church, offering the promise of reconciliation until the end. God's love is beyond measure as He tenderly beseeches and implores us to embrace His forgiveness, surpassing any earthly act of mercy.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 2.022862355333997,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+        "commentatorTierSimilarities": [
+            32.29,
+            38.03,
+            29.68
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Be reconciled to God, that is, let God reconcile you to Himself.",
+            "Such 'beseeching' is uncommon in the case of 'ambassadors,' who generally stand on their dignity.",
+            "God was the RECONCILER in Christ . . . let this reconciliation then have its designed effect."
+        ],
+        "Albert Barnes": [
+            "Ministers are ambassadors for Christ, as they are sent to do what he would do were he personally present.",
+            "They are simply to urge, explain, state, and enforce the terms on which God is willing to be reconciled.",
+            "The gospel message is God speaking to people through the ministry, and entreating them to be reconciled."
+        ],
+        "Marvin Vincent": [
+            "We are ambassadors [\u03c0\u03c1\u03b5\u03c3\u03b2\u03b5\u03c5\u03bf\u03bc\u03b5\u03bd] . Only here and Ephesians 6:10."
+        ],
+        "John Calvin": [
+            "It is a matter of too much importance, to allow of our resting contented with the promise of men, without feeling assured that they are ordained by God, and that God speaks to us by them.",
+            "If, however, this duty is enjoined upon all the ministers of the Church, in such a way, that he who does not discharge this embassy is not to be regarded either as an Apostle, or as a Pastor, we may very readily judge from this, as to the nature of the Pope\u2019s entire hierarchy.",
+            "For this is a continued embassy, which must be assiduously sounded forth in the Church, till the end of the world; and the gospel cannot be preached, unless remission of sins is promised."
+        ],
+        "Philip Schaff": [
+            "We are ambassadors therefore on behalf of Christ, as though God were intreating by us (as His mouth).\" ",
+            "We beseech you on behalf of Christ, be ye reconciled to God.\" ",
+            "The call is evidently to all unreconciled ones whom his words might reach, no longer to withhold their seal to that great act of God in the death of His Son in which lay their only hope of reconciliation to Him."
+        ],
+        "Archibald T. Robertson": [
+            "We are ambassadors therefore on behalf of Christ...Paul was Christ's Legate to act in his behalf and in his stead.",
+            "As though God were intreating by us...Here God speaks through Christ's Legate.",
+            "Be ye reconciled to God...This is the ambassador's message as he bears it to men from God."
+        ],
+        "John Gill": [
+            "We are ambassadors for Christ...to publish and proclaim [the message of peace] as made by him.",
+            "We represent him...behave in peaceable manner to all men, and one another.",
+            "Be ye reconciled to God...let your wills bow, and be resigned to his...conform in all things to his will and pleasure."
+        ],
+        "John Wesley": [
+            "What unparalleled condescension and divinely tender mercies are displayed in this verse!",
+            "Did the judge ever beseech a condemned criminal to accept of pardon?",
+            "Yet our almighty Lord, and our eternal Judge, not only vouchsafes to offer these blessings, but invites us, entreats us, and, with the most tender importunity, solicits us, not to reject them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let God reconcile you to Himself. Though uncommon for ambassadors, we are urged to be reconciled to God as messengers of Christ, as God speaks through us. We are His legates, carrying His message of reconciliation to all. Ministers are entrusted with the task of proclaiming the terms on which God is willing to be reconciled, entreating people to accept His offer. It is a matter of great importance that we recognize the ordained messengers of God and listen to His voice through them. This is a continuous embassy that will resonate in the Church until the end of the world. The depth of God's love is displayed in His willingness to beseech and invite us to accept His pardon, an unparalleled act of condescension and mercy.",
+            "wordCount": 128,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 2.082135546942219,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+            "commentatorTierSimilarities": [
+                33.36,
+                39.3,
+                27.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let God reconcile you to Himself as messengers of Christ, for we are His legates, carrying His message of reconciliation. Ministers are entrusted with the task of proclaiming the terms on which God is willing to be reconciled, entreating people to accept His offer. It is important to recognize ordained messengers and listen to His voice through them. This continuous embassy will resonate in the Church until the end of the world. The depth of God's love is displayed in His unparalleled act of condescension, beseeching and inviting us to accept His pardon.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.0089919998753025,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+            "commentatorTierSimilarities": [
+                30.96,
+                39.78,
+                29.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let God reconcile you to Himself and heed the message of reconciliation as messengers of Christ. We are His legates, delivering His plea for reconciliation. It is vital to recognize ordained messengers and listen to God's voice through them. This continuous embassy resonates throughout the Church, carrying the offer of reconciliation until the end of time. God's incomparable love is demonstrated in His tender importunity, beseeching and inviting us to embrace His forgiveness. His willingness to reconcile surpasses any human act of mercy.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9084915583109991,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+            "commentatorTierSimilarities": [
+                33.4,
+                37.97,
+                28.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let God reconcile you to Himself as messengers of Christ, carrying His plea for reconciliation. It's crucial to recognize ordained messengers and listen to God's voice. This continuous embassy echoes through the Church, extending the offer of reconciliation until the end. God's unparalleled love is displayed in His tender importunity, beseeching and inviting us to accept His forgiveness. His act of condescension exceeds any human act of mercy, as He relentlessly pursues our reconciliation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.9643654211991965,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                33.02,
+                36.77,
+                30.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let God reconcile you to Himself by accepting His plea for reconciliation as messengers of Christ. We are His appointed legates empowered to convey this message of reconciliation to the world. It is essential to acknowledge the authority of ordained messengers and heed God's entreaty through them. This ambassadorial duty continues to resound in the Church, offering the promise of reconciliation until the end. God's love is beyond measure as He tenderly beseeches and implores us to embrace His forgiveness, surpassing any earthly act of mercy.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.022862355333997,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                32.29,
+                38.03,
+                29.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:23:02",
+    "verseRef": "Luke 22:59",
+    "bestBHT": {
+        "bht": "After about an hour, someone confidently declared, in no uncertain terms, that they had seen him with Jesus. It was clear that he was a Galilean because his speech gave him away.",
+        "wordCount": 32,
+        "quoteTokenProportion": 58.62,
+        "qualityScore": 1.4349516000860092,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.05,
+        "commentatorTierSimilarities": [
+            54.77,
+            0.0,
+            45.23
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "After the space of about one hour...It means standing in two or apart, about an hour intervening.",
+            "Confidently affirmed...to make emphatic declaration.",
+            "For he is a Galilean...it was his speech that gave him away."
+        ],
+        "John Gill": [
+            "another confidently affirmed...as an unquestionable truth, and beyond all doubt.",
+            "I saw him there, and it may be depended on as a truth",
+            "you may know him by his language, and which confirms my assertion."
+        ],
+        "John Wesley": [
+            "And about one hour after \u2014 So he did not recollect himself in all that time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After about an hour, someone confidently declared, in no uncertain terms, that they had seen him with Jesus. It was clear that he was a Galilean because his speech gave him away.",
+            "wordCount": 32,
+            "quoteTokenProportion": 58.62,
+            "qualityScore": 1.4349516000860092,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.05,
+            "commentatorTierSimilarities": [
+                54.77,
+                0.0,
+                45.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After about an hour, confidently affirming, it became evident that the man was a Galilean as his speech gave him away. The space of time emphasized the certainty of the situation, with one commentator even stating that it could be depended on as truth. This hour permitted no recollection, leaving the truth to prevail and expose the man's association with Jesus.",
+            "wordCount": 62,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.122914361120517,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.68,
+            "commentatorTierSimilarities": [
+                40.33,
+                0.0,
+                59.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the passing of approximately one hour, a significant declaration was made, firmly affirming the unquestionable truth: the man's Galilean identity was unmistakably revealed by his distinctive speech. This hour, devoid of any recollection, allowed no room for doubt, as one could confidently rely on the veracity of the witnessed scene. The elapsed time only solidified the undeniable association between the man and Jesus.",
+            "wordCount": 65,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 0.8858111521782259,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.8,
+            "commentatorTierSimilarities": [
+                39.19,
+                0.0,
+                60.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "About an hour later, with complete certainty, it became clear that the man was indeed a Galilean, as his speech unmistakably gave him away. This confident affirmation of his identity underscores the undeniable truth of the situation, as one commentator affirms that it can be relied upon as an unquestionable fact. The passage of time only further solidified the truth, as the hour elapsed without any recollection.",
+            "wordCount": 67,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.1661453796740828,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.12,
+            "commentatorTierSimilarities": [
+                40.4,
+                0.0,
+                59.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the space of roughly an hour, it became evident that the man was a Galilean, as his manner of speaking unmistakably revealed his origin. His bold declaration firmly established the truth of the matter, with one individual even stating that it could be depended on as an undeniable fact. The passing hour allowed no time for reflection, leaving the truth exposed for all to see, confirming the connection between the man and Jesus.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.0535147704900336,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.37,
+            "commentatorTierSimilarities": [
+                40.59,
+                0.0,
+                59.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

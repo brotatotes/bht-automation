@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:16:52",
+    "verseRef": "Luke 9:15",
+    "bestBHT": {
+        "bht": "The disciples, no longer disputing Christ's commands, obediently arranged the multitude into groups of one hundred and fifty and directed them to sit down in their designated companies on the green grass.",
+        "wordCount": 33,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 2.205473049302448,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.67,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "The disciples did not dispute the case any longer with Christ, but obeyed his orders.",
+            "Ranged the multitude in companies, a hundred in one, and fifty in another.",
+            "Ordered them to sit down in their distinct companies and ranks upon the green grass."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, having been enlightened by Jesus' wisdom, didn't argue or question his instructions any longer; they simply obeyed. Jesus then directed the multitude to divide into smaller groups of one hundred and fifty, and commanded them to sit down in their designated areas on the lush green grass.",
+            "wordCount": 50,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.3761713272026506,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.1,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, no longer disputing Christ's commands, obediently arranged the multitude into groups of one hundred and fifty and directed them to sit down in their designated companies on the green grass.",
+            "wordCount": 33,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.205473049302448,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, having ceased their dispute, complied with Jesus' instructions. They organized the crowd into groups of a hundred and fifty, and gathered them to sit down on the green grass in their assigned companies.",
+            "wordCount": 35,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.586088288183275,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, acquiescing to Jesus' guidance, ceased their argument and obeyed his directives. They proceeded to arrange the multitude into distinct groups of one hundred and fifty, instructing them to find their assigned places on the verdant grass.",
+            "wordCount": 38,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.5077693178639775,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, no longer disputing the matter, obediently followed Christ's orders. They organized the crowd into separate groups, consisting of one hundred in one group and fifty in another. Jesus instructed them to settle down and sit on the green grass, each in their assigned companies.",
+            "wordCount": 47,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.4540679886090624,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.69,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

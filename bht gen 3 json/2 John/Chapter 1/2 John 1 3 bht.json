@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:15:47",
+    "verseRef": "2 John 3",
+    "bestBHT": {
+        "bht": "Grace and mercy, given by God, address the guilt and misery of humanity. Peace, the blessed outcome, is obtained by casting all cares on the Lord. Truth and love are the essential conditions to receive and enjoy grace, mercy, and peace. The salutation reflects the wellspring of God's heart and His desire to relieve the afflicted. John emphasizes recognizing Jesus as the Son of God. This salutation encompasses the complete Divine blessing, rooted in truth and love.",
+        "wordCount": 78,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 2.260930539580747,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.52,
+        "commentatorTierSimilarities": [
+            33.67,
+            32.06,
+            34.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Grace has reference to the sins of men, mercy to their misery. God's grace, His free grace and gift, is extended to men as they are guilty: His mercy is extended to them as they are miserable.",
+            "Peace is the whole sum and substance of the possession and enjoyment of God's grace and mercy.",
+            "Truth and love are the conditional element in which the grace, mercy, and peace are to be received and enjoyed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Grace covers the sins of men; 'mercy,' their miseries. Grace must first do away with man\u2019s guilt before his misery can be relieved by mercy. Therefore grace stands before mercy.\" ",
+            "'Peace' is the result of both, and therefore stands third in order. Casting all our care on the Lord, with thanksgiving, maintains this peace.",
+            "The element or sphere in which alone grace, mercy, and peace have place is truth and love."
+        ],
+        "Albert Barnes": [
+            "This salutation does not differ from those commonly employed by the sacred writers, except in the emphasis which is placed on the fact that the Lord Jesus Christ is 'the Son of the Father.'",
+            "John dwells much on the fact that the Lord Jesus is the Son of God, and on the importance of recognizing that fact in order to the possession of true religion.",
+            "This phrase [in truth and love] is not to be connected with the expression 'the Son of the Father,' as if it meant that he was his Son 'in truth and love,' but is rather to be connected with the 'grace, mercy, and peace' referred to, as a prayer that they might be manifested to this family in promoting truth and love."
+        ],
+        "Marvin Vincent": [
+            "Grace is of rare occurrence in John's writings...and the kindred carizomai to favor, be kind, forgive, and carisma gift, are not found at all.\" ",
+            "The sentiment in God assumes the character of pitying love. Mercy is kindness and goodwill toward the miserable and afflicted, joined with a desire to relieve them.",
+            "In the Divine mind, and in the order of our salvation as conceived therein, the mercy precedes the grace...Yet the righteousness of God, which it is quite as necessary should be maintained as His love, demands that the guilt should be done away before the misery can be assuaged; only the forgiven may be blessed."
+        ],
+        "Philip Schaff": [
+            "Grace, mercy, peace, shall be with us from God the Father, and from Jesus Christ, the Son of the Father, in truth and love.\" ",
+            "It had become the sacred benediction, as including the whole compass of the Divine blessing in the Gospel.",
+            "There is here an observable deviation from St. Paul\u2019s formula; as also in the addition of \u2018truth and love\u2019 the two spheres or characteristics of the Christian life in which, though not on account of which, these blessings are imparted."
+        ],
+        "Archibald T. Robertson": [
+            "The salutation is like that in the Pastoral Epistles: '\u03a7\u03b1\u03c1\u03b9\u03c2, the wellspring in the heart of God; \u03b5\u03bb\u03b5\u03bf\u03c2, its outpourings; \u03b5\u03b9\u03c1\u03b7\u03bd\u03b7, its blessed effect' (David Smith).",
+            "The repetition of \u03c0\u03b1\u03c1\u03b1 (with the ablative) is unique. 'It serves to bring out distinctly the twofold personal relation of man to the Father and to the Son' (Westcott).",
+            "'The Fatherhood of God, as revealed by one who being His Son can reveal the Father, and who as man (\u0399\u03b7\u03c3\u03bf\u03c5) can make him known to men' (Brooke)."
+        ],
+        "John Gill": [
+            "Grace be with you, mercy [and] peace.\" ",
+            "He is God's own Son, in a true, proper, and natural sense.\" ",
+            "He is his well beloved Son, his dear Son, the Son of his love."
+        ],
+        "John Wesley": [
+            "Grace takes away guilt; mercy, misery: peace implies the abiding in grace and mercy.",
+            "It includes the testimony of God's Spirit, both that we are his children, and that all our ways are acceptable to him.",
+            "In truth and love \u2014 Or, faith and love, as St. Paul speaks. Faith and truth are here synonymous terms."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Grace and mercy are essential components of God's free gift to humanity. Grace covers the sins of individuals, while mercy relieves their miseries. Peace, the result of grace and mercy, is the ultimate goal, achieved through casting all cares on the Lord. The foundational elements for receiving and enjoying grace, mercy, and peace are truth and love. The salutation, reminiscent of the Pastoral Epistles, reveals the wellspring of God's heart, His outpouring of kindness towards the afflicted, and the blessed effect of peace. This salutation emphasizes the personal relationship between individuals and both the Father and the Son. John underscores the significance of recognizing Jesus Christ as the Son of God. Overall, the salutation encompasses the entirety of Divine blessing in the Gospel, imbued with truth and love.",
+            "wordCount": 130,
+            "quoteTokenProportion": 25.64,
+            "qualityScore": 2.331210186890179,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.85,
+            "commentatorTierSimilarities": [
+                34.54,
+                33.48,
+                31.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Grace and mercy, which address the sins and miseries of humanity, precede peace, which is the outcome of receiving them. These blessings can only be obtained through truth and love. The salutation echoes the formula used in the Pastoral Epistles, emphasizing the wellspring of God's heart and His desire to relieve the afflicted. John highlights the importance of recognizing Jesus as the Son of God. The salutation encompasses the entirety of Divine blessing and is rooted in truth and love.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.199852410774379,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.49,
+            "commentatorTierSimilarities": [
+                32.43,
+                35.89,
+                31.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Grace is God's free gift that covers the sins of humanity, while mercy grants relief from misery. Peace is the result of both, obtained through casting all cares on the Lord. To receive and enjoy grace, mercy, and peace, one must exhibit truth and love. The salutation reveals the wellspring of God's heart and His desire to alleviate suffering. John emphasizes the significance of recognizing Jesus as the Son of God. This salutation encompasses the full extent of Divine blessing in the Gospel, grounded in truth and love.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.2566494102294987,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.37,
+            "commentatorTierSimilarities": [
+                34.38,
+                32.84,
+                32.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Grace and mercy, given by God, address the guilt and misery of humanity. Peace, the blessed outcome, is obtained by casting all cares on the Lord. Truth and love are the essential conditions to receive and enjoy grace, mercy, and peace. The salutation reflects the wellspring of God's heart and His desire to relieve the afflicted. John emphasizes recognizing Jesus as the Son of God. This salutation encompasses the complete Divine blessing, rooted in truth and love.",
+            "wordCount": 78,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.260930539580747,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.52,
+            "commentatorTierSimilarities": [
+                33.67,
+                32.06,
+                34.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Grace covers the sins of men, while mercy relieves their miseries. Peace is the result of both, obtained through casting all cares on the Lord. The salutation reveals the wellspring of God's heart and His desire to alleviate suffering. Grace, mercy, and peace are to be received and enjoyed in the sphere of truth and love. The recognition of Jesus as the Son of God is crucial. This salutation encompasses the entirety of Divine blessing in the Gospel, grounded in truth and love.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.230626783982564,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+            "commentatorTierSimilarities": [
+                34.58,
+                31.9,
+                33.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

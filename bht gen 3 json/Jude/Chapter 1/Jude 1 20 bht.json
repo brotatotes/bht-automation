@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:15:43",
+    "verseRef": "Jude 20",
+    "bestBHT": {
+        "bht": "Build up yourself on your most holy faith, the faith in Christ, who is the object of our faith. Pray in the Holy Spirit, as He is the means by which we are guided in prayer. Seek to establish yourself firmly in the belief and practice of the system of religion founded on faith. Increase in faith and be built up by praying in the Holy Spirit. Let the doctrine of faith be your foundation, and let prayer in the Holy Spirit be your means of growth and establishment.",
+        "wordCount": 89,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 2.2033012852072296,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+        "commentatorTierSimilarities": [
+            38.44,
+            24.09,
+            37.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Building up yourselves upon your most holy faith, the faith which is believed, the object of faith.",
+            "CHRIST is this foundation, for He is the Author and Finisher of our faith.",
+            "Praying in the Holy Spirit, as the means of thus building yourselves up."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Building up yourselves \u2014 the opposite to the 'separate themselves'... on THE FAITH is equivalent to building on Christ, the object of faith.",
+            "The Holy Spirit teaches what we are to pray for, and how. None can pray aright save by being in the Spirit, that is, in the element of His influence.",
+            "Among the charisms bestowed at the beginning of the New Testament dispensation, was the gift of prayer, bestowed on someone who prayed in the name of the rest, and taught others to pray."
+        ],
+        "Albert Barnes": [
+            "They were to 'build up themselves;' that is, they were to act as moral and responsible agents in this, or were to put forth their own proper exertions to do it.",
+            "Dependent, as we are, and as all persons with correct views will feel themselves to be, yet it is proper to endeavor to do the work of religion as if we had ample power of ourselves.",
+            "The phrase 'most holy faith' here refers to the system of religion which was founded on faith; and the meaning is, that they should seek to establish themselves most firmly in the belief of the doctrines, and in the practice of the duties of that system of religion."
+        ],
+        "John Calvin": [
+            "He bids them first to build themselves on faith; by which he means, that the foundation of faith ought to be retained, but that the first instruction is not sufficient, except they who have been already grounded on true faith, went on continually towards perfection.",
+            "Thus the Apostle teaches us, that in order to increase in faith, we must be instant in prayer and maintain our calling by love.",
+            "It is not, then, without reason that Jude teaches us, that no one can pray as he ought without having the Spirit as his guide."
+        ],
+        "Archibald T. Robertson": [
+            "Building up (\u03b5\u03c0\u03bf\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2). Present active participle of \u03b5\u03c0\u03bf\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03b5\u03c9, old compound with metaphor of a house (\u03bf\u03b9\u03ba\u03bf\u03c2), common in Paul.",
+            "On your most holy faith (\u03c4\u03b7 \u03b1\u03b3\u03b9\u03c9\u03c4\u03b1\u03c4\u03b7 \u03c5\u03bc\u03c9\u03bd \u03c0\u03b9\u03c3\u03c4\u03b5).",
+            "Praying in the Holy Spirit (\u03b5\u03bd \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4 \u03b1\u03b3\u03b9\u03c9 \u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf)."
+        ],
+        "John Gill": [
+            "The doctrine of faith in all its branches, which is holy, a most holy doctrine; which displays the holiness of God, and is a means of beginning and increasing internal holiness in the saints, and of encouraging and exciting them to external holiness of life and conversation.",
+            "The doctrine of faith, is a foundation to build upon, particularly what regards the person, offices, and grace of Christ, and is itself of an edifying nature.",
+            "Praying in the Holy Ghost; which is a special means of increase and establishment in the doctrine of faith; the Holy Ghost is the author and enditer of prayer, and an assister in it."
+        ],
+        "John Wesley": [
+            "Building yourselves up in your most holy faith - Than which none can be more holy in itself, or more conducive to the most refined and exalted holiness.",
+            "Praying through the Holy Spirit \u2014 Who alone is able to build you up, as he alone laid the foundation.",
+            "In this and the following verse St. Jude mentions the Father, Son, and Spirit, together with faith, love, and hope."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Build yourself up on your most holy faith, which is the foundation of Christ. Pray in the Holy Spirit, for only in Him can we pray correctly. Seek to establish yourself firmly in the belief and practice of the system of religion founded on faith. Maintain your calling and increase in faith through prayer. It is through the Holy Spirit that we are truly guided in prayer and able to be built up in our faith. Let the doctrine of faith, a most holy doctrine, be the foundation on which you build, and let prayer in the Holy Spirit be the means by which you are established.",
+            "wordCount": 107,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.157540252279835,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.08,
+            "commentatorTierSimilarities": [
+                37.19,
+                24.52,
+                38.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Build yourself up on your most holy faith, for Christ is the foundation of that faith. Pray in the Holy Spirit, who teaches us how to pray and guides us in our prayer. Seek to establish yourself firmly in the belief and practice of the system of religion founded on faith. Through prayer and the Holy Spirit, you can increase in faith and be built up in your most holy faith. Let the doctrine of faith be your foundation, and prayer in the Holy Spirit be your means of growth and establishment.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 2.163841093540604,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.29,
+            "commentatorTierSimilarities": [
+                36.85,
+                23.92,
+                39.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Build yourself up on your most holy faith, the faith in Christ, who is the foundation. Pray in the Holy Spirit, for He instructs and assists in prayer. Seek to firmly establish yourself in the belief and practice of the system of religion founded on faith. Through prayer and the influence of the Holy Spirit, increase in faith and be built up. Let the doctrine of faith be your foundation, and let prayer in the Holy Spirit be your means of growth and establishment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.13951282106107,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.48,
+            "commentatorTierSimilarities": [
+                37.33,
+                24.42,
+                38.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Build yourself up on your most holy faith, the foundation of Christ. Pray in the Holy Spirit, who guides us in prayer. Seek to firmly establish yourself in the belief and practice of the system of religion founded on faith. Through prayer in the Holy Spirit, you can increase in faith and be built up. Let the doctrine of faith be your foundation, and prayer in the Holy Spirit be your means of growth and establishment.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.131291626550332,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.21,
+            "commentatorTierSimilarities": [
+                38.07,
+                23.44,
+                38.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Build up yourself on your most holy faith, the faith in Christ, who is the object of our faith. Pray in the Holy Spirit, as He is the means by which we are guided in prayer. Seek to establish yourself firmly in the belief and practice of the system of religion founded on faith. Increase in faith and be built up by praying in the Holy Spirit. Let the doctrine of faith be your foundation, and let prayer in the Holy Spirit be your means of growth and establishment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.2033012852072296,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+            "commentatorTierSimilarities": [
+                38.44,
+                24.09,
+                37.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

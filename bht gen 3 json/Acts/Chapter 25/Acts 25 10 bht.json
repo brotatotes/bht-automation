@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:36:20",
+    "verseRef": "Acts 25:10",
+    "bestBHT": {
+        "bht": "Paul firmly asserts his place at Caesar's judgment seat, emphasizing that he has done no wrong to the Jews, a truth Festus is well aware of. In refusing to be handed over to the Jews in Jerusalem, Paul exposes Festus' unjust intentions, aiming to please the Jewish leaders rather than uphold Roman justice. Recognizing the bias and injustice of the Sanhedrin, Paul appeals to Caesar, acknowledging that any offense, if committed, is against the Majesty of Caesar and should be judged accordingly.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.126193229614289,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+        "commentatorTierSimilarities": [
+            34.17,
+            37.59,
+            28.24
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "C\u00e6sar\u2019s tribunal is my proper place of judgment.",
+            "To the Jews I have done no harm, and they have therefore no claim to judge me.",
+            "as thou very well knowest \u2014 literally, knowest better than thou choosest to confess."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Then said Paul, I stand at C\u00e6sar's judgment seat\u2014that is, I am already before the proper tribunal.",
+            "But from going to Jerusalem at all he was too well justified in shrinking, for there assassination had been quite recently planned against him.",
+            "To the Jews have I done no wrong, as thou knowest very well\u2014literally, 'better,' that is, (perhaps), better than to press such a proposal."
+        ],
+        "Albert Barnes": [
+            "He had experienced so much violent persecution from his countrymen, and their minds were so full of prejudice, misconception, and enmity, that he had neither justice nor favor to hope at them hands.",
+            "I stand at Caesar\u2019s judgment seat - The Roman emperors after Julius Caesar were all called 'Caesar'... The emperor at this time (60 a.d.) was Nero, one of the most cruel and impious men that ever sat on a throne.",
+            "It was, therefore, a severe rebuke of Festus for proposing to depart from the known justice of the Roman laws, and, for the sake of popularity, proposing to him to put himself in the hands of his enemies."
+        ],
+        "Marvin Vincent": [
+            "Very well [\u03ba\u03b1\u03bb\u03bb\u03b9\u03bf\u03bd] . The force of the comparative should be preserved : \"thou knowest better than thy question implies."
+        ],
+        "John Calvin": [
+            "He had submitted himself modestly, if he had commanded him to do \u2212 that which was just and equal.",
+            "And now when he citeth the governor himself to be a witness of his integrity, and doth refuse no punishment if he should be found guilty, he cutteth off all occasion of slanderous reports.",
+            "But now when he citeth the governor himself to be a witness of his integrity, and doth refuse no punishment if he should be found guilty, he cutteth off all occasion of slanderous reports."
+        ],
+        "Philip Schaff": [
+            "Paul felt that there was no hope of justice for him if he pleaded before the Sanhedrim.",
+            "My offence, if I have committed an offence, is against the Majesty of the C\u00e6sar. Let him judge me, and punish me if I am really guilty.",
+            "Why should I waive then my rights as a Roman, and submit myself to their tribunal, which only takes cognisance of crimes which I never dreamt of committing?"
+        ],
+        "Archibald T. Robertson": [
+            "Paul exposes the conduct of Festus with merciless precision.",
+            "That this is Paul's meaning by the use of the comparative \u03ba\u03b1\u03bb\u03bb\u03b9\u03bf\u03bd (positive \u03ba\u03b1\u03bb\u03c9\u03c2) is made plain by the confession of Festus to Agrippa in verse Acts 25:18.",
+            "Paul says that Festus knows that he has done no wrong to the Jews at all (\u03bf\u03c5\u03b4\u03b5\u03bd \u03b7\u03b4\u03b9\u03ba\u03b7\u03ba\u03b1) and yet he is trying to turn him over to the wrath of the Jews in Jerusalem."
+        ],
+        "John Gill": [
+            "I stand at Caesar's judgment seat... where I ought to be judged.\" ",
+            "To the Jews have I done no wrong.\" ",
+            "Have I done no wrong, as thou very well knowest."
+        ],
+        "John Wesley": [
+            "I am standing at Cesar's judgment seat.\" ",
+            "No man can give me up.\" ",
+            "I appeal to Cesar."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul firmly asserts his rightful place before Caesar's tribunal, maintaining that he has not wronged the Jews in any way, a fact that Festus is well aware of. Paul's refusal to be handed over to the Jews in Jerusalem exposes the unjust agenda of Festus, who seeks to appease the Jewish leaders rather than uphold Roman justice. Recognizing that he would face prejudice and injustice if he were to plead before the Sanhedrin, Paul appeals to the authority of Caesar, declaring that his offense, if any, is against the Majesty of Caesar, and it is Caesar who should judge and punish him accordingly.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.0567122135229496,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+            "commentatorTierSimilarities": [
+                31.4,
+                41.86,
+                26.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul firmly asserts his rightful place at Caesar's judgment seat, where he should be judged. He boldly declares that he has done no wrong to the Jews, a fact that Festus is well aware of. Paul's refusal to be handed over to the Jews in Jerusalem exposes the unjust agenda of Festus, who seeks to appease the Jewish leaders rather than uphold Roman justice. Recognizing the prejudice he would face before the Sanhedrin, Paul appeals to Caesar, emphasizing that his offense, if any, is against the Majesty of Caesar, and it is Caesar who should judge and punish him accordingly.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 2.037083356797316,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.07,
+            "commentatorTierSimilarities": [
+                32.85,
+                37.28,
+                29.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul firmly asserts his rightful place before Caesar's judgment seat, emphasizing that he has not wronged the Jews as Festus is well aware. By refusing to be handed over to the Jews in Jerusalem, Paul exposes Festus' unjust agenda for personal gain. Recognizing the prejudice and lack of justice within the Sanhedrin, Paul wisely appeals to the authority of Caesar, pointing out that any offense he may have committed is against the Majesty of Caesar, thus urging to be judged and punished accordingly by Caesar himself.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.0538514054034076,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                32.91,
+                38.55,
+                28.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul confidently asserts his place before the judgment seat of Caesar, firmly stating that he has done no wrong to the Jews, a fact that Festus cannot deny. By refusing to be handed over to the Jews in Jerusalem, Paul exposes the ulterior motives of Festus, who seeks to appeal to the Jewish leaders instead of upholding justice. Aware of the prejudice he would face in the hands of the Sanhedrin, Paul appeals to Caesar, acknowledging that any offense, if committed, is against the Majesty of Caesar and should be judged accordingly.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.1080478746974167,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.43,
+            "commentatorTierSimilarities": [
+                33.72,
+                37.76,
+                28.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul firmly asserts his place at Caesar's judgment seat, emphasizing that he has done no wrong to the Jews, a truth Festus is well aware of. In refusing to be handed over to the Jews in Jerusalem, Paul exposes Festus' unjust intentions, aiming to please the Jewish leaders rather than uphold Roman justice. Recognizing the bias and injustice of the Sanhedrin, Paul appeals to Caesar, acknowledging that any offense, if committed, is against the Majesty of Caesar and should be judged accordingly.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.126193229614289,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.04,
+            "commentatorTierSimilarities": [
+                34.17,
+                37.59,
+                28.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

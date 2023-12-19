@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:29:24",
+    "verseRef": "1 Timothy 5:4",
+    "bestBHT": {
+        "bht": "Let the children and grandchildren learn first to show piety towards their own family and to behave piously towards their progenitors. Piety towards one's family is considered primary, even before acts of piety towards God, unless it interferes with one's duty to Christ. By learning and practicing filial piety, we not only honor our parents but also exemplify godly conduct at home which is pleasing and acceptable to God. Caring for our parents in old age is a duty that should not be neglected, as it is a requital for their past care and support.",
+        "wordCount": 97,
+        "quoteTokenProportion": 47.06,
+        "qualityScore": 2.481382000934981,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.85,
+        "commentatorTierSimilarities": [
+            32.72,
+            33.69,
+            33.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "let these learn...first, before applying to the church for sustenance.\" ",
+            "to shew piety to their own family...to behave piously towards...their own family.",
+            "Let them, the children or grandchildren, learn first to be piously grateful to (these members of) their own families, and to give back returns (a return in each case) to their progenitors."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Nephews\" in old English meant \"grandchildren.",
+            "Let them learn,\" implies that abuses of this kind had crept into the Church, widows claiming Church support though they had children or grandchildren able to support them.",
+            "Piety is applied to the reverential discharge of filial duties; as the parental relation is the earthly representation of God our heavenly Father's relation to us."
+        ],
+        "Albert Barnes": [
+            "Let them learn first to show piety at home - That is, let the children and grandchildren learn to do this.",
+            "Do not receive such a widow among the poor and dependent females of the church, to be maintained at public expense, but let her children support her.",
+            "And to requite their parents - To repay them, as far as possible, for all their kindness."
+        ],
+        "Marvin Vincent": [
+            "Nephews are very often liken to their grandfathers than to their fathers.",
+            "To show piety toward their own family.",
+            "An entirely unique expression."
+        ],
+        "John Calvin": [
+            "Let them learn to conduct themselves in a godly manner at home.",
+            "By cultivating human piety, they should train themselves in the worship of God; lest a foolish and silly devotion should divest them of human feelings.",
+            "There is no reason why any one should think that it has its origin in the opinion of men; but God hath so ordained."
+        ],
+        "Philip Schaff": [
+            "The first group thus excluded from those that answer to the name of \u2018widow,\u2019 are such as have \u2018children or nephews\u2019 (i.e. grandchildren) who are able to support them.",
+            "\u2018Let them show their piety\u2019 not \u2018at home,\u2019 but \u2018to their own house or family.\u2019",
+            "As with the Romans and the Jews, so in some measure even with the Greeks, duty to parents came under the head of piety rather than of legal obligation."
+        ],
+        "Archibald T. Robertson": [
+            "No acts of 'piety' toward God will make up for impiety towards parents.",
+            "Filial piety is primary unless parents interfere with duty to Christ.",
+            "Let them keep on learning filial piety and so requite their parents and grandparents."
+        ],
+        "John Gill": [
+            "Let them learn first to show piety at home;... more pleasing and acceptable unto God.",
+            "It is the duty of children to take care of their parents in old age... not suffer them to come to a church for relief... take care of them themselves.",
+            "To neglect them in old age, when incapable of providing for themselves... base ingratitude;... take care of them is but a requital of them... for former benefits had of them."
+        ],
+        "John Wesley": [
+            "Let these learn to requite their parents \u2014 For all their former care, trouble, and expense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let the children and grandchildren learn first to show piety towards their own family, repaying their parents and grandparents for their past care and support. This is a unique expression that emphasizes the importance of familial relationships and the reverence and gratitude owed to those who have raised and nurtured us. Piety towards one's family is considered primary, even before acts of piety towards God, unless it interferes with one's duty to Christ. It is the duty of children to care for their parents in old age, as neglecting them is seen as base ingratitude. By learning and practicing filial piety, we not only honor our parents but also exemplify godly conduct at home, which is pleasing and acceptable to God.",
+            "wordCount": 123,
+            "quoteTokenProportion": 43.37,
+            "qualityScore": 2.351594486531794,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.53,
+            "commentatorTierSimilarities": [
+                33.65,
+                33.68,
+                32.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let the children and grandchildren learn first to show piety towards their own family, repaying their parents and grandparents for their past care and support. Piety towards one's family is considered primary, even before acts of piety towards God, unless it interferes with one's duty to Christ. By learning and practicing filial piety, we not only honor our parents but also exemplify godly conduct at home, which is pleasing and acceptable to God. Caring for our parents in old age is a duty that should not be neglected, as it is a requital for their past care and support.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.4532453834598495,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.91,
+            "commentatorTierSimilarities": [
+                32.08,
+                33.99,
+                33.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let the children and grandchildren learn first to show piety towards their own family, repaying their parents and grandparents for their past care and support. Piety towards one's family is considered primary, even before acts of piety towards God, unless it interferes with one's duty to Christ. By learning and practicing filial piety, we not only honor our parents but also exemplify godly conduct at home. Caring for our parents in old age is a duty that should not be neglected, as it is a requital for their past care and support.",
+            "wordCount": 94,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.45092562111489,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.83,
+            "commentatorTierSimilarities": [
+                32.32,
+                34.21,
+                33.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let the children and grandchildren learn first to show piety towards their own family, repaying their parents and grandparents. Piety towards one's family is considered primary unless it interferes with one's duty to Christ. By learning and practicing filial piety, we honor our parents and exemplify godly conduct at home. Caring for parents in old age is a duty that should not be neglected. It is a requital for their past care and support.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.254411853732303,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.3,
+            "commentatorTierSimilarities": [
+                32.31,
+                34.3,
+                33.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let the children and grandchildren learn first to show piety towards their own family and to behave piously towards their progenitors. Piety towards one's family is considered primary, even before acts of piety towards God, unless it interferes with one's duty to Christ. By learning and practicing filial piety, we not only honor our parents but also exemplify godly conduct at home which is pleasing and acceptable to God. Caring for our parents in old age is a duty that should not be neglected, as it is a requital for their past care and support.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.481382000934981,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.85,
+            "commentatorTierSimilarities": [
+                32.72,
+                33.69,
+                33.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

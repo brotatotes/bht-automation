@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:38:48",
+    "verseRef": "1 Peter 1:7",
+    "bestBHT": {
+        "bht": "Our faith, like gold, is tested and refined through fiery trials. While gold perishes, our faith, being proven for eternity, requires a fiery trial to remove defects and test its genuineness. The aim is for our faith to be found deserving of praise, glory, and honor at the revelation of Jesus Christ. This comparison highlights the enduring nature of faith, which endures the refining process, and serves as evidence of God's work in our lives. Ultimately, the trial is a means by which our faith is approved by God, the Refiner of hearts.",
+        "wordCount": 94,
+        "quoteTokenProportion": 30.65,
+        "qualityScore": 2.451505497057372,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.85,
+        "commentatorTierSimilarities": [
+            37.66,
+            26.9,
+            35.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The proof of your faith, more precious than gold which perisheth, yet is proved by fire.\" ",
+            "Gold though perishable yet needs fire to try it\u2014how much more does your faith, which is being proved for eternity, not for mere temporary use, need a fiery trial?",
+            "May be found unto praise and glory and honour in the revelation of Jesus Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That your faith so proved 'may be found (aorist; once for all, as the result of its being proved on the judgment-day) unto (eventuating in) praise,' c., namely, the praise to be bestowed by the Judge.",
+            "If gold, though perishing, is yet tried with fire in order to remove dross and test its genuineness, how much more does your faith, which shall never perish, need to pass through a fiery trial to remove whatever is defective, and to test its genuineness and full value?",
+            "At Christ's revelation shall take place also the revelation of the sons of God."
+        ],
+        "Albert Barnes": [
+            "The testing of [faith], the process of showing whether it was or was not genuine, was a much more important and valuable process than that of testing gold in the fire.\" ",
+            "It is more desirable to test religion than it is gold, because it is more valuable. It pertains to that which is eternal and indestructible, and it is therefore of more importance to show its true quality, and to free it from every improper mixture.",
+            "There is much which appears to be gold, which is of no value, as there is much which appears to be religion, which is of no value. The one is worth no more than the other, unless it is genuine."
+        ],
+        "Marvin Vincent": [
+            "The sense here is the result of the contact of faith with trial, and hence the verification of faith. The expression is equivalent to your approved faith.\" ",
+            "The comparison is between the approved faith and the gold; not between the faith and the proof of the gold.\" ",
+            "The verb is used in classical Greek of assaying or testing metals, and means, generally, to approve or sanction upon test."
+        ],
+        "John Calvin": [
+            "Gold is, indeed, tried twice by fire; first, when it is separated from its dross; and then, when a judgment is to be formed of its purity. Both modes of trial may very suitably be applied to faith.\" ",
+            "For our life is now hidden in Christ, and will remain hidden, and as it were buried, until Christ shall appear from heaven; and the whole course of our life leads to the destruction of the external man, and all the things we suffer are, as it were, the preludes of death.\" ",
+            "For trials as to us are full of reproach and shame, and they become glorious in Christ; but that glory in Christ is not yet plainly seen, for the day of consolation is not yet come."
+        ],
+        "Philip Schaff": [
+            "The term rendered \u2018trial\u2019 in the A. V. is found nowhere else in the N. T. except in James 1:3... so that it means both actively the process of putting to the proof... and passively the proof, the evidence itself... or the attestation, the approvedness resulting from the process.\" ",
+            "The comparison between the probation of character and the testing of metals... has a limited application here... the idea is that, if the former is proved by fire, although itself and the benefits of the process pass speedily away according to their kind, the latter, which, as tested, is seen to be a possession superior to the risks of decay and loss, and more precious than the most valued treasure, may well be subjected to similar action.",
+            "The descriptions [praise, honour, glory] are cumulative rather than ascensive, word being added to word in order to convey some faint conception of the gracious reward which is to be found... at last to have been the end in view."
+        ],
+        "Archibald T. Robertson": [
+            "The proof of your faith...the test or touchstone of faith.\" ",
+            "Faith stands the test of fire better than gold, but even gold is refined by fire.\" ",
+            "This is the result of the probation by God as the Refiner of hearts."
+        ],
+        "John Gill": [
+            "The grace of faith is much more precious than gold; since that perisheth by using, but faith does not; and since it is so valuable as not to be obtained by it.\" ",
+            "The trying of faith works patience, and that, experience, and that, hope.\" ",
+            "His faith will be praised for its steadiness and constancy, notwithstanding all persecutions and tribulations; and his good works, the fruits of faith, will be taken notice of by him with commendation."
+        ],
+        "John Wesley": [
+            "That the trial of your faith \u2014 That is, your faith which is tried.",
+            "Which is much more precious than gold \u2014 For gold, though it bear the fire, yet will perish with the world.",
+            "May be found \u2014 Though it doth not yet appear. Unto praise \u2014 From God himself. And honour \u2014 From men and angels. And glory \u2014 Assigned by the great Judge."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage teaches that faith, like gold, is proven and purified through the fire of trials. While gold is perishable and needs fire to remove impurities, our faith, which is being tested for eternity, requires a fiery trial to remove defects and demonstrate its genuineness. The goal is for our faith to be found worthy of praise, glory, and honor when Jesus Christ is revealed. The comparison between the tested faith and gold emphasizes the superior value of faith, which endures through the refining process and stands as a testimony to the work of God in our lives. Ultimately, the trial serves as the means by which our faith is verified and approved by God as the Refiner of hearts.",
+            "wordCount": 120,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 2.524366018714322,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.27,
+            "commentatorTierSimilarities": [
+                36.75,
+                28.7,
+                34.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our faith, likened to gold, is proven and refined through the fires of trials. Just as gold is tested to remove impurities, our faith undergoes a fiery trial to eliminate defects and demonstrate its genuineness. The ultimate goal is for our faith to be found deserving of praise, glory, and honor when Jesus Christ is revealed. This comparison emphasizes the enduring nature of faith, which endures the refining process and serves as a testament to God's work in our lives. Through the trial, our faith is verified and approved by God as the Refiner of hearts.",
+            "wordCount": 97,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 2.392013866879635,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.87,
+            "commentatorTierSimilarities": [
+                37.46,
+                26.73,
+                35.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The testing and refining of our faith, compared to gold, occurs through the fiery trials we face. While gold is perishable and requires fire to remove impurities, our faith, enduring for eternity, needs the refining process to eliminate defects and prove its authenticity. By undergoing such trials, our faith is ultimately found worthy of praise, glory, and honor at the revelation of Jesus Christ. This process not only demonstrates the superior value and endurance of faith but also serves as a verification of its genuineness by God, the Refiner of hearts.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4179476979493106,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.74,
+            "commentatorTierSimilarities": [
+                35.51,
+                30.45,
+                34.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our faith, like gold, is tested and refined through fiery trials. While gold perishes, our faith, being proven for eternity, requires a fiery trial to remove defects and test its genuineness. The aim is for our faith to be found deserving of praise, glory, and honor at the revelation of Jesus Christ. This comparison highlights the enduring nature of faith, which endures the refining process, and serves as evidence of God's work in our lives. Ultimately, the trial is a means by which our faith is approved by God, the Refiner of hearts.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.451505497057372,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.85,
+            "commentatorTierSimilarities": [
+                37.66,
+                26.9,
+                35.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our faith, more precious than perishable gold, is tested through the refining fire of trials. Just as gold is purified to remove impurities, our faith undergoes trials to reveal its authenticity and worth. The goal is for our faith to be found worthy of praise, honor, and glory when Jesus Christ is revealed. This comparison emphasizes the enduring nature of faith, which withstands the refining process and demonstrates the work of God in our lives. The trials serve as a verification and approval of our faith by God, who refines the hearts of believers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.3978017365440962,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.07,
+            "commentatorTierSimilarities": [
+                35.67,
+                29.15,
+                35.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

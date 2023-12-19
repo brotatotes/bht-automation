@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:22:32",
+    "verseRef": "Luke 21:21",
+    "bestBHT": {
+        "bht": "The command Jesus used to ask his disciples to look at the fields is echoed in this instance. The word used here refers to the fields, not the countries or provinces, specifically within Jerusalem. The instructions specify that those in Judea should flee to the mountains and those in the city should depart before their retreat is compromised. It is crucial for those in the nearby regions to refrain from entering Jerusalem.",
+        "wordCount": 72,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.2297594055027832,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.23,
+        "commentatorTierSimilarities": [
+            39.65,
+            28.44,
+            31.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is in the original the same word as our Lord uses in John iv. 35, where He commands His disciples to lift up their eyes on the fields.",
+            "the fields\u2014not 'the countries,' or 'the provinces.'",
+            "of it belongs to the 'of it' (thereof) of ver. 20, and signifies not 'of Jud\u00e6a,' but 'of Jerusalem.'"
+        ],
+        "Philip Schaff": [
+            "In the midst of her, i.e., Jerusalem, not Judea, as appears from the last clause of the verse.",
+            "This Gospel does not contain so full directions in regard to the flight, as that written more especially for Jewish Christians (Matthew).",
+            "See the emended text."
+        ],
+        "John Gill": [
+            "Then let them which are in Judaea flee to the mountains.\" ",
+            "And let them which are in the midst of it... let them go out of it.",
+            "Let not them that are in the countries enter thereinto."
+        ],
+        "John Wesley": [
+            "Let them that are in the midst of it...depart out of it, before their retreat is cut off by the uniting of the forces near the city.\" ",
+            "Let not them that are in the adjacent countries by any means enter into it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 21:21, the original word used here is the same as the one Jesus used in John 4:35 to command His disciples to look at the fields. It refers to the fields, not the countries or provinces. The of it in this verse refers specifically to Jerusalem, not Judea. This passage is directing those in Judea to flee to the mountains, while those in Jerusalem should leave before their escape route is cut off. It is important for those in the adjacent countries to not enter Jerusalem.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.4429349463378947,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.32,
+            "commentatorTierSimilarities": [
+                40.68,
+                29.43,
+                29.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The original word used here is the same as Jesus' command in another context to his disciples to look at the fields. It refers to the fields, not countries or provinces. It specifically pertains to Jerusalem. The verse directs those in Judea to flee to the mountains, while those in Jerusalem should leave before their retreat is cut off. It is essential for those in the adjacent countries to not enter Jerusalem.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.3460560492269518,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.1,
+            "commentatorTierSimilarities": [
+                41.38,
+                29.65,
+                28.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The same word used by Jesus to command his disciples to lift up their eyes on the fields is applied here. It pertains to the fields, not the countries or provinces, and specifically refers to Jerusalem. Those in Judea are directed to flee to the mountains, while those in the city should depart before their retreat is cut off. It is crucial for those in the adjacent countries to refrain from entering.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.2244491668671336,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.06,
+            "commentatorTierSimilarities": [
+                38.74,
+                20.52,
+                40.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The word used by Jesus to command his disciples to lift up their eyes on the fields is the same word used here. It specifically refers to the fields, not the countries or provinces, and pertains to Jerusalem. The verse directs those in Judea to flee to the mountains, and those in the city to depart before their retreat is cut off. It is important for those in the adjacent countries to not enter.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.2864205825032784,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.12,
+            "commentatorTierSimilarities": [
+                39.08,
+                20.83,
+                40.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The command Jesus used to ask his disciples to look at the fields is echoed in this instance. The word used here refers to the fields, not the countries or provinces, specifically within Jerusalem. The instructions specify that those in Judea should flee to the mountains and those in the city should depart before their retreat is compromised. It is crucial for those in the nearby regions to refrain from entering Jerusalem.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.2297594055027832,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.23,
+            "commentatorTierSimilarities": [
+                39.65,
+                28.44,
+                31.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:19:36",
+    "verseRef": "Luke 14:9",
+    "bestBHT": {
+        "bht": "When attending a feast, it is better to choose the lowest place, even though it may be seen as ignominious and far from the honorable positions. The use of the word begin conveys reluctance and shame in moving towards the lower place. However, willingly taking the lowest place is an act of humility, avoiding the embarrassment of being publicly exposed for pride and vanity.",
+        "wordCount": 64,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 1.9874139874901324,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+        "commentatorTierSimilarities": [
+            23.67,
+            36.14,
+            40.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9. then shalt thou begin...] The form of expression sets fo the reluctance and lingering with which it is done."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. the lowest\u2014not a lower",
+            "\tmerely [BENGEL]. ",
+            "\t",
+            "with shame\u2014\"To be",
+            "\tlowest is only ignominious to him who affects the highest",
+            "\t[BENGEL]."
+        ],
+        "Marvin Vincent": [
+            "Begin. Emphasizing the shame of the reluctant movement toward the lower place. ",
+            "The lowest. Since the other, intervening places are all assigned."
+        ],
+        "Philip Schaff": [
+            "He that bade thee. The proper person to decide both in the primary and deeper applications of the parable.",
+            "And then thou shalt begin with shame. \u2018Begin\u2019 hints at the lingering in the coveted place, and the shame rises as the crestfallen one goes lower and lower.",
+            "The lowest place. Farthest away from the honorable places, since the intermediate ones would be already occupied."
+        ],
+        "Archibald T. Robertson": [
+            "Shalt begin with shame (\u03b1\u03c1\u03be\u03b7 \u03bc\u03b5\u03c4\u03b1 \u03b1\u03b9\u03c3\u03c7\u03c5\u03bd\u03b7\u03c2). The moment of embarrassment.",
+            "To take the lowest place (\u03c4\u03bf\u03bd \u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03bd \u03c4\u03bf\u03c0\u03bf\u03bd \u03ba\u03b1\u03c4\u03b5\u03c7\u03b5\u03b9\u03bd). To hold down the lowest place, all the intermediate ones being taken."
+        ],
+        "John Gill": [
+            "and thou begin with shame to take the lowest room; or place, which must unavoidably fill a man with shame and confusion",
+            "because hereby his pride and vanity, in affecting the uppermost room, will be publicly exposed",
+            "and he who before sat in the chief place, will have the mortification, before all the guests, to be seated in the lowest."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When attending a feast, it is better to take the lowest place rather than assume a higher position. This is emphasized by the use of the word begin which denotes reluctance and shame in moving towards the lower place. The lowest place is considered ignominious because it is farthest away from the honorable positions, making the person who sought the higher place feel embarrassed. It is an act of humility to willingly take the lowest place, and by doing so, one avoids the humiliation of being publicly exposed for their pride and vanity.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.986358683736908,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                23.18,
+                37.83,
+                38.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When attending a feast, it is better to take the lowest place rather than assume a higher position. This is emphasized by the use of the word begin which denotes reluctance and shame in moving towards the lower place. The lowest place is considered ignominious because it is farthest away from the honorable positions. It is an act of humility to willingly take the lowest place, and by doing so, one avoids the humiliation of being publicly exposed for their pride and vanity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.9636789847228928,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.63,
+            "commentatorTierSimilarities": [
+                23.73,
+                38.27,
+                38.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When attending a feast, it is better to take the lowest place rather than assuming a higher position, as emphasized by the use of the word begin which reveals hesitation and shame. This reluctance stems from the fact that the lowest place is considered ignominious, putting one far away from the honorable positions. By willingly choosing the lowest place, however, it becomes an act of humility and prevents the public exposure of one's pride and vanity.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9416274566821794,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                23.0,
+                36.59,
+                40.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Choosing the lowest place at a feast signifies humility, as one hesitates with shame to begin their movement towards it. While the lowest place is perceived as ignominious and far from honorable positions, willingly taking it becomes an act of humility. This intentional choice prevents the public exposure of one's pride and vanity when they are seated in a lower place than they originally sought.",
+            "wordCount": 66,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.9514444982334198,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                22.98,
+                35.19,
+                41.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When attending a feast, it is better to choose the lowest place, even though it may be seen as ignominious and far from the honorable positions. The use of the word begin conveys reluctance and shame in moving towards the lower place. However, willingly taking the lowest place is an act of humility, avoiding the embarrassment of being publicly exposed for pride and vanity.",
+            "wordCount": 64,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.9874139874901324,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                23.67,
+                36.14,
+                40.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

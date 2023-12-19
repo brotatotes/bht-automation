@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:25:23",
+    "verseRef": "Acts 2:25",
+    "bestBHT": {
+        "bht": "When the Spirit spoke through David concerning Christ, it revealed that individuals, when speaking of themselves in a particular position, often speak in a way that applies to others in similar circumstances. The Psalmist's personal account serves as a representation of the Messiah, authenticated and proved to be from God. The Lord stands as an advocate at David's right hand, offering protection and support. Christ, in turn, always had Jehovah in view, making Him the true focus of the Psalm.",
+        "wordCount": 82,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.8659767479893485,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+        "commentatorTierSimilarities": [
+            35.18,
+            28.54,
+            36.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To say, with De Wette, that Peter\u2019s proof lies not in any historical but only in an ideal meaning of the Psalm, is entirely beside the subject.",
+            "Every one, placed in any given position, when speaking of himself as in that position, speaks what will refer to others similarly situated, and most pointedly to any one who shall in any especial and pre-eminent way stand in that position.",
+            "David often spoke concerning himself: but THE SPIRIT WHO SPOKE IN DAVID, concerning Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "a man approved of God\u2014rather, 'authenticated,' 'proved,' or 'demonstrated to be from God.'"
+        ],
+        "Albert Barnes": [
+            "To foresee the Lord always before us conveys no idea, though it may be a literal translation of the passage. The word means 'to foresee,' and then 'to see before us,' that is, 'as present with us, to regard as being near.'",
+            "As being always present to help me, and to deliver me out of all my troubles.",
+            "In our dependence on God we should exalt him. We should not merely regard him as our help, but should at the same time give him the highest place in our affections."
+        ],
+        "Marvin Vincent": [
+            "Not to see beforehand, but to see before one's self.",
+            "Or be shaken. Generally so rendered in the New Testament.",
+            "See Matthew 11:7; Matthew 24:29; Hebrews 12:26, etc."
+        ],
+        "John Calvin": [
+            "For freedom from corruption is promised by name. Neither do I pass for this, that \u05e9\u05d7\u05ea (shachat) doth signify the grave, as \u05e1\u05dc, (seol,) which is put in the former member. For although I do not stand nor contend about the words, yet must we respect the etymology. Therefore, forasmuch as the grave is called \u05e9\u05d7\u05ea, (shachat) because it doth corrupt man\u2019s body with rottenness, it is not to be doubted but that David meant to note that quality. Therefore, the place is not so much expressed by this word, as the condition of rotting.",
+            "Seeing that David doth not only affirm that God also shall be his deliverer, but doth express a singular way and means; namely, that he shall not be subject to the corruption of the grave, Peter doth for good causes gather, that that doth not properly appertain unto him, for that his body was corrupt in the grave.",
+            "Faith, in hoping for the help of God, ought to prevent and overgo all experience, and whatsoever is perceived by the sense; but so soon as it shall give this glory to God, that it doth behold him in his Word, although he be absent, and so, consequently, invisible, it shall be overcome with the effect of the thing."
+        ],
+        "Philip Schaff": [
+            "To show it was no new idea of his, that death could not hold the \u2018Holy One of God,\u2019 St. Peter quotes the words of Psalms 16:0.",
+            "This sure hope of immortality is the spirit of the Psalm.",
+            "This is what happened to Peter\u2019s crucified Master: therefore it was of Him that the Holy Ghost by the mouth of David wrote."
+        ],
+        "Archibald T. Robertson": [
+            "David is giving his own experience which is typical of the Messiah.",
+            "The Lord Jehovah like a defender or advocate stands at David's right hand.",
+            "Moved (\u03c3\u03b1\u03bb\u03b5\u03c5\u03b8\u03c9). First aorist passive subjunctive of \u03c3\u03b1\u03bb\u03b5\u03c5\u03c9, to shake like an earthquake."
+        ],
+        "John Gill": [
+            "Christ always had Jehovah in view throughout the whole of his life.",
+            "Christ...had respect unto the glory of his perfections, as the ultimate end of his obedience and sufferings.",
+            "He [God] is on my right hand; which expresses his nearness to him, his presence with him, his readiness to assist him, and his protection of him."
+        ],
+        "John Wesley": [
+            "Psalm 16:8."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Spirit who spoke in David concerning Christ, proclaimed that every one, placed in any given position, when speaking of himself as in that position, speaks what will refer to others similarly situated. In this verse, the Psalmist, speaking of himself, points to the Messiah, who is authenticated and proved to be from God. The Lord stands at the right hand of David, like a defender or advocate, and Christ always had Jehovah in view throughout His life. This sure hope of immortality, seen in the Psalm, is what Peter quotes to show that death could not hold the Holy One of God. Therefore, it is of Him that the Holy Ghost spoke through David.",
+            "wordCount": 115,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 2.0643052932673926,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.98,
+            "commentatorTierSimilarities": [
+                32.34,
+                34.88,
+                32.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Spirit speaking in David concerning Christ affirmed that when someone speaks about themselves, it can also apply to others in similar situations. In this passage, the Psalmist's personal experiences are seen as a reflection of the Messiah, who is proven to be from God. The Lord stands as a defender at David's right hand, and Christ always had Jehovah in view throughout His life. Peter cites this Psalm to show that death cannot hold the Holy One of God, emphasizing the sure hope of immortality found in the spirit of the Psalm.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.049053100841383,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.47,
+            "commentatorTierSimilarities": [
+                31.18,
+                34.91,
+                33.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit, speaking through David, brings to light the fact that when individuals speak of themselves in a certain position, it often applies to others in similar circumstances. In this context, the Psalmist's personal experiences serve as a representation of the Messiah, who is seen as approved and demonstrated by God. The Lord stands as an advocate, positioned at David's right hand, offering support and protection. This connection underscores the unwavering devotion of Christ, who always had Jehovah in view, making Him the true subject of the Psalm.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.8296551456962078,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+            "commentatorTierSimilarities": [
+                33.48,
+                29.4,
+                37.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the Spirit spoke through David concerning Christ, it revealed that individuals, when speaking of themselves in a particular position, often speak in a way that applies to others in similar circumstances. The Psalmist's personal account serves as a representation of the Messiah, authenticated and proved to be from God. The Lord stands as an advocate at David's right hand, offering protection and support. Christ, in turn, always had Jehovah in view, making Him the true focus of the Psalm.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8659767479893485,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                35.18,
+                28.54,
+                36.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Spirit, speaking through David, highlighted that individuals often speak of themselves in a way that also applies to others in similar positions. In this passage, the Psalmist's personal experiences serve as a representation of the Messiah, who is authenticated and proved by God. The Lord stands as a defender at David's right hand, offering protection and assistance. Christ consistently had Jehovah in focus throughout His life, making Him the ultimate subject of the Psalm.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8836601823521528,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                35.87,
+                29.56,
+                34.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

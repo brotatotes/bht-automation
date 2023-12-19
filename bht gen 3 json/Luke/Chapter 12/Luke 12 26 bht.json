@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:18:51",
+    "verseRef": "Luke 12:26",
+    "bestBHT": {
+        "bht": "If we cannot do the very least of things, such as adding a cubit to our stature or prolonging our lives, then why do we worry about greater matters? Our inability to accomplish even the smallest tasks should remind us that our lives are ultimately in God's hands. Instead of being consumed by anxiety and striving to control our destinies, let us trust in God's providence and accept that the length of our days is determined by His divine plan.",
+        "wordCount": 82,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.2128136406549108,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.67,
+        "commentatorTierSimilarities": [
+            33.4,
+            0.0,
+            66.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "that thing which is least: this shews the truth of the interpretation age (not 'stature') given in the note on Matthew.",
+            "A cubit would be infinitesimally small when compared to his length of life, that life being contemplated as a course, or race, which he may attempt, but ineffectually, to prolong.",
+            "a cubit would not be the least of things to add to the stature, but a very large in-crease."
+        ],
+        "Archibald T. Robertson": [
+            "Not able to do even that which is least.\" ",
+            "Elative superlative, very small.",
+            "The verbs for toil and spin are plural in Matthew and singular here."
+        ],
+        "John Gill": [
+            "If ye then be not able to do that which is least,.... As to make the smallest addition to a man's stature, or rather to add one moment to his days.\" ",
+            "why take ye thought for the rest? which are much greater, as to preserve the body in its whole bulk, and all its parts, or for the feeding and clothing of it, or rather for the continuation and preservation of life to any length of time",
+            "for if it cannot be by all a man's care and solicitude lengthened out one moment longer than is the pleasure of God, how should it be by such anxiety continued for months and years?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we are not even able to do the smallest things, such as adding a cubit to our stature or prolonging our lives, why do we worry about greater things like preserving our bodies or striving for a long life? Our inability to accomplish the least of tasks should remind us that our lives are in the hands of God and that it is His pleasure to determine the length of our days. Instead of being consumed by anxiety over the things we cannot control, let us trust in God's providence and live each day with faith and gratitude.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.210883905422281,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.61,
+            "commentatorTierSimilarities": [
+                28.62,
+                0.0,
+                71.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we cannot even do the very small things, like adding a cubit to our stature or extending our lives, why do we worry about greater matters such as preserving our bodies or striving for a longer lifespan? We must remember that our inability to achieve the least of tasks reminds us that our lives are ultimately in God's hands, and it is His pleasure to determine the length of our days. Instead of being consumed by our anxieties, we should trust in God's providence and live each day with faith and gratitude.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.1610157895100344,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.95,
+            "commentatorTierSimilarities": [
+                28.74,
+                0.0,
+                71.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If we cannot do the very least of things, such as adding a cubit to our stature or prolonging our lives, then why do we worry about greater matters? Our inability to accomplish even the smallest tasks should remind us that our lives are ultimately in God's hands. Instead of being consumed by anxiety and striving to control our destinies, let us trust in God's providence and accept that the length of our days is determined by His divine plan.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.2128136406549108,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.67,
+            "commentatorTierSimilarities": [
+                33.4,
+                0.0,
+                66.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our inability to do the smallest of tasks, like adding a cubit to our stature or extending our lives, should remind us of the futility of worry. Instead of fixating on preserving our bodies or seeking to prolong our lives, let us surrender to the fact that our existence is ultimately governed by God's divine will. Rather than being consumed by anxiety, we should place our trust in His providence and live each day with faith, knowing that our days are numbered according to His plan.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.1171597764338723,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.49,
+            "commentatorTierSimilarities": [
+                29.33,
+                0.0,
+                70.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our inability to even accomplish the smallest tasks, like adding a cubit to our stature or prolonging our lives, should serve as a reminder that our lives are ultimately in the hands of God. Rather than worrying about greater matters such as preserving our bodies or striving for long life, we should trust in God's providence. Our days are determined by His divine will, so let us surrender our anxieties and live each day with faith, knowing that our lives are guided by His plan.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.0355474934617668,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.78,
+            "commentatorTierSimilarities": [
+                28.97,
+                0.0,
+                71.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

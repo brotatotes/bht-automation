@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:29:13",
+    "verseRef": "Ephesians 2:20",
+    "bestBHT": {
+        "bht": "The Christian temple's glory is eternal and real, unlike mere idolatrous gaud. Just as the temple in Jerusalem was the stronghold for Judaism and Diana's temple symbolized paganism, the image of a building is fitting for the foundation laid by the apostles and prophets in the Jew-Christian context. Christ Jesus is both the chief corner stone and the foundation stone, upon which the whole building rests. This spiritual building is built upon the foundation of the apostles and prophets, with Christ as the primary foundation stone, holding together the entire edifice.",
+        "wordCount": 94,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.384561425165624,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.63,
+        "commentatorTierSimilarities": [
+            37.41,
+            25.06,
+            37.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The glory of the Christian temple is eternal and real, not mere idolatrous gaud.",
+            "The image of a building is appropriate also to the Jew-Christians; as the temple at Jerusalem was the stronghold of Judaism; as Diana's temple, of paganism.",
+            "The same stone is at once the corner-stone and the foundation-stone on which the whole building rests."
+        ],
+        "Albert Barnes": [
+            "That no reliance is to be placed on philosophy as a basis of religious doctrine.",
+            "That the traditions of people have no authority in the church, and constitute no part of the foundation.",
+            "What is based on the authority of apostles and prophets is true, and always true, and only true; what may be found elsewhere, may be valuable and true, or not, but, at any rate, is not to be used to control the faith of people."
+        ],
+        "Marvin Vincent": [
+            "Of the apostles and prophets. The foundation laid by them. ",
+            "Prophets are New - Testament prophets. See ch. Ephesians 3:5; Ephesians 4:11. See on 1 Corinthians 12:10. ",
+            "Chief corner - stone [\u03b1\u03ba\u03c1\u03bf\u03b3\u03c9\u03bd\u03b9\u03b1\u03bf\u03c5] . Only here and 1 Peter 2:6."
+        ],
+        "John Calvin": [
+            "They are built on the foundation, \u2014 they are founded on the doctrine, of the apostles and prophets.",
+            "But the manner in which it is founded deserves inquiry; for, in the strict sense of the term, Christ is the only foundation.",
+            "Jesus Christ, himself is the chief corner-stone...He means that Jews and Gentiles were two separate walls, but are formed into one spiritual building."
+        ],
+        "Philip Schaff": [
+            "The first view avoids confusing the foundation and corner-stone, and presents no doctrinal difficulty; since in this living temple these persons might be properly regarded as the foundation.",
+            "Christ is thus termed, because 'the historical living Christ, to whom all Christian faith and life refers, through Himself necessarily conditions the existence and permanence of every Christian community, just as the existence and firmness of a building is not possible without the corner-stone which holds together the entire edifice.'",
+            "The growth is both outward and inward, extensive and intensive, in numbers and in grace."
+        ],
+        "Archibald T. Robertson": [
+            "Being built upon... the foundation... of the apostles and prophets.\" ",
+            "Christ Jesus himself being the chief corner stone.\" ",
+            "The \u03b1\u03ba\u03c1\u03bf\u03b3\u03c9\u03bd\u03b9\u03b1\u03b9\u03bf\u03c2 here is the primary foundation-stone at the angle of the structure."
+        ],
+        "John Gill": [
+            "Christ who is contained in them, and who is the foundation on which the church, and all true believers are built.",
+            "Christ is the chief, the headstone of the corner, and who is superior to angels and men.",
+            "This spiritual building, is one and the same stone, Christ."
+        ],
+        "John Wesley": [
+            "As the foundation sustains the building, so the word of God, declared by the apostles and prophets, sustains the faith of all believers.",
+            "God laid the foundation by them; but Christ himself is the chief corner-stone of the foundation.",
+            "Elsewhere he is termed the foundation itself, 1 Corinthians 3:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The glory of the Christian temple, which is eternal and true, is not to be compared with the false idols of other religions. Just as the temple in Jerusalem represented the stronghold of Judaism and Diana's temple symbolized paganism, the image of a building is appropriate for understanding the significance of the apostles and prophets as the foundation stones in the Christian faith. Christ Jesus himself is both the cornerstone and foundation stone upon which the entire building of believers rests. This spiritual building is made up of Jews and Gentiles, united together by the building's one and same cornerstone, Christ. The growth of this building, both in numbers and grace, comes from the firm foundation of the apostles and prophets, with Christ as the headstone of the corner.",
+            "wordCount": 131,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 2.2728673334545837,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.91,
+            "commentatorTierSimilarities": [
+                33.68,
+                27.98,
+                38.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Christian temple's glory is eternal and real, unlike mere idolatrous gaud. Just as the temple in Jerusalem was the stronghold for Judaism and Diana's temple symbolized paganism, the image of a building is fitting for the foundation laid by the apostles and prophets in the Jew-Christian context. Christ Jesus is both the chief corner stone and the foundation stone, upon which the whole building rests. This spiritual building is built upon the foundation of the apostles and prophets, with Christ as the primary foundation stone, holding together the entire edifice.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.384561425165624,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.63,
+            "commentatorTierSimilarities": [
+                37.41,
+                25.06,
+                37.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The temple's glory is true, not idolatrous gaud. Like the Jerusalem temple for Judaism and Diana's temple for paganism, the image of a building fits the foundation laid by apostles and New Testament prophets. Christ Jesus is the cornerstone and foundation stone on which the building rests, holding it together. The growth of this spiritual building, in numbers and grace, depends on the firm foundation of the apostles and prophets, centered on Christ as the headstone of the corner.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.2584979653396386,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.44,
+            "commentatorTierSimilarities": [
+                37.03,
+                26.77,
+                36.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The glory of the Christian temple is eternal and real, not mere idolatrous gaud. As the temple in Jerusalem represented Judaism and Diana's temple represented paganism, the image of a building is fitting for the foundation laid by the apostles and prophets. Christ Jesus serves as both the chief cornerstone and the foundation stone, upon which the entire building rests. This spiritual building consists of Jews and Gentiles, formed into one by the cornerstone, Christ. The growth of this building occurs in numbers and grace, grounded on the firm foundation of the apostles and prophets, with Christ as the headstone of the corner.",
+            "wordCount": 104,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.268244557165536,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.76,
+            "commentatorTierSimilarities": [
+                36.12,
+                26.35,
+                37.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Christian temple's glory is eternal and real, not mere idolatrous gaud. Just as the temple in Jerusalem symbolized Judaism and Diana's temple represented paganism, the image of a building is appropriate for understanding the foundation laid by the apostles and prophets. Christ Jesus is the chief corner stone and foundation stone, upon which the entire building rests. This spiritual building is made up of Jews and Gentiles, united together by the central cornerstone of Christ. The growth of this building comes from the firm foundation of the apostles and prophets, with Christ as the headstone of the corner.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.269571466066032,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.8,
+            "commentatorTierSimilarities": [
+                36.79,
+                25.45,
+                37.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

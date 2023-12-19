@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:29:42",
+    "verseRef": "Acts 10:48",
+    "bestBHT": {
+        "bht": "After Peter witnessed the Holy Spirit falling upon Cornelius and his household, he chose not to personally baptize them, as he did not want them to overemphasize the act of baptism itself. Instead, Peter recognized the primacy of the ministry of the Word and entrusted the baptism to others. The Gentiles eagerly embraced their newfound faith and requested Peter to stay with them, using these days to engage in fellowship and receive further teachings. The baptism was carried out in the name of the Lord Jesus Christ, affirming their belief in the sacred Trinity.",
+        "wordCount": 94,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 2.0029252798893653,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+        "commentatorTierSimilarities": [
+            27.1,
+            35.47,
+            37.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As the Lord Himself when on earth did not baptize, so did not ordinarily the Apostles.",
+            "Perhaps the same reason may have operated in both cases,\u2014lest those baptized by our Lord, or by the chief Apostles, should arrogate to themselves pre-eminence on that account.",
+            "The ministry of the Word was esteemed by them their higher and paramount duty and office, whereas the subordinate ministration of the ordinances was committed to those who served tables."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "he commanded them to be baptized\u2014not doing it with his own hands, as neither did Paul, save on rare occasions",
+            "prayed . . . him to tarry certain days\u2014\"golden days\" [BENGEL], spent, doubtless, in refreshing Christian fellowship",
+            "in imparting and receiving fuller teaching on the several topics of the apostle's discourse"
+        ],
+        "Albert Barnes": [
+            "Why Peter did not himself baptize them is unknown.",
+            "If they did it themselves, they could not so easily be led by the Jews to find fault with it.",
+            "It seems not to have been the practice of the apostles themselves to baptize very extensively."
+        ],
+        "John Calvin": [
+            "It was not of necessity that baptism should be ministered by Peter's hand.",
+            "When as Luke saith, last of all, that Peter was requested by Cornelius and his kinsmen that he would tarry a few days, he commendeth in them their desire to profit.",
+            "According to their example, so often as opportunity to profit offereth itself, we must use it diligently; and let us not swell with pride, which stoppeth the way before doctrine."
+        ],
+        "Philip Schaff": [
+            "St. Peter did not administer the baptism himself...lest baptism or any outward ordinance should be unduly elevated in comparison with the preaching of the Word.\" ",
+            "This residence of some days in the house of Cornelius is to be marked as a time of the utmost importance for St. Peter\u2019s future life.",
+            "During this short residence at C\u00e6sarea, he must have learnt much that he never knew before concerning the Gentile mind, especially in its aspirations after religious light and peace."
+        ],
+        "Archibald T. Robertson": [
+            "Evidently it was done by the six Jewish brethren.",
+            "The essential name in Christian baptism as in Acts 2:38; Acts 19:5.",
+            "\"Golden days\" (\u03b1\u03c5\u03c1\u03b5 \u03b4\u03b9\u03b5\u03c2, Bengel) were these for the whole group."
+        ],
+        "John Gill": [
+            "And this he ordered to be done in the name of the Lord; that is, of the Lord Jesus Christ, though not to the exclusion of the Father, and of the Spirit."
+        ],
+        "John Wesley": [
+            "In the name of the Lord \u2014 Which implies the Father who anointed him, and the Spirit with which he was anointed to his office.",
+            "But as the Gentiles had before believed in God the Father, and could not but now believe in the Holy Ghost, under whose powerful influence they were at this very time, there was the less need of taking notice, that they were baptized into the belief and profession of the sacred Three.",
+            "Though doubtless the apostle administered the ordinances in that very form which Christ himself had prescribed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Peter shared the message of Jesus with Cornelius and his household, he witnessed the Holy Spirit falling upon them. Although Peter had the authority to baptize, he commanded them to be baptized by others, not wanting them to place undue emphasis on the act of baptism itself. Instead, Peter recognized the importance of the ministry of the Word and entrusted the administration of baptism to others. As the Gentiles requested Peter to stay with them for a few days, they eagerly engaged in fellowship and sought further teachings, making these days a valuable time of spiritual growth. The baptism was carried out in the name of the Lord Jesus Christ, acknowledging the Father and the Spirit, but emphasizing their belief and profession in the sacred Three. This event marked a significant turning point in Peter's ministry, as he came to understand the aspirations and needs of the Gentile believers.",
+            "wordCount": 151,
+            "quoteTokenProportion": 34.74,
+            "qualityScore": 1.9662270031189786,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                25.79,
+                35.61,
+                38.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After witnessing the outpouring of the Holy Spirit upon Cornelius and his household, Peter chose not to personally baptize them, recognizing the importance of the ministry of the Word. Instead, he entrusted others to carry out the baptism, ensuring that the focus remained on the message of Jesus and not on the act itself. The Gentiles eagerly embraced their new faith and requested Peter to stay with them for a few days, taking advantage of this time for spiritual growth and further teachings. The baptism took place in the name of the Lord Jesus Christ, signifying their belief in the sacred Trinity.",
+            "wordCount": 102,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.9515992218677758,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                26.03,
+                34.25,
+                39.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After Peter witnessed the Holy Spirit falling upon Cornelius and his household, he chose not to personally baptize them, as he did not want them to overemphasize the act of baptism itself. Instead, Peter recognized the primacy of the ministry of the Word and entrusted the baptism to others. The Gentiles eagerly embraced their newfound faith and requested Peter to stay with them, using these days to engage in fellowship and receive further teachings. The baptism was carried out in the name of the Lord Jesus Christ, affirming their belief in the sacred Trinity.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.0029252798893653,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.94,
+            "commentatorTierSimilarities": [
+                27.1,
+                35.47,
+                37.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, after witnessing the Holy Spirit descending upon Cornelius and his household, deliberately chose not to baptize them himself. He wished to avoid the possibility of creating a sense of superiority in those baptized by him or other renowned apostles. Instead, Peter recognized the paramount importance of the ministry of the Word and entrusted others to administer the ritual. Following the baptism, the Gentiles fervently prayed that Peter would remain with them, leading to a period of deepened fellowship and fruitful teaching.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9800585701652438,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                27.26,
+                36.01,
+                36.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After witnessing the Holy Spirit falling upon Cornelius and his household, Peter intentionally refrained from personally baptizing them, not wanting to elevate baptism above the preaching of the Word. Recognizing the significance of the ministry of the Word, Peter entrusted others to administer the sacrament. The Gentiles eagerly requested Peter to stay with them for a few days, relishing in the opportunity for Christian fellowship and further instruction. This baptism was performed in the name of the Lord Jesus Christ, emphasizing their belief in the Triune God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9507150334866348,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.2,
+            "commentatorTierSimilarities": [
+                27.03,
+                35.29,
+                37.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

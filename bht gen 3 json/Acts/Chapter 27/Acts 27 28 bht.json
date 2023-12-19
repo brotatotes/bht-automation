@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:37:11",
+    "verseRef": "Acts 27:28",
+    "bestBHT": {
+        "bht": "The sailors aboard the ship were keenly aware of their proximity to land as they meticulously measured the water's depth using a sounding line. They found that twenty fathoms, equivalent to the distance between outstretched middle finger tips, indicated a specific distance from shore. As the depth decreased to fifteen fathoms, the crew recognized the imminent danger of the rough shoreline with its perilous cliffs and violent waves. Faced with the risk of collision, their only recourse was to anchor the ship for safety.",
+        "wordCount": 85,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.5928332920382806,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+        "commentatorTierSimilarities": [
+            28.22,
+            45.48,
+            26.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "fathoms] The measure here rendered fathom is described as being the length of the outstretched arms, from finger to finger. It is therefore very nearly our fathom, which is six feet.\" ",
+            "Every particular here corresponds with the actual state of things.\" ",
+            "And just so are the soundings (see Capt. Smyth\u2019s chart, Smith, p. 88), and the shore is here full of rough places, mural precipices, upon which the sea must have been breaking with great violence."
+        ],
+        "Albert Barnes": [
+            "To sound is to make use of a line and lead to ascertain the depth of water.",
+            "A fathom is six feet, or the distance from the extremity of the middle finger on one hand to the extremity of the other, when the arms are extended. The depth, therefore, was about 120 feet.",
+            "They knew, therefore, that they were drawing near to shore."
+        ],
+        "Philip Schaff": [
+            "On hearing the breakers, their instinct would be to heave the lead and ascertain the depth of the water.\" ",
+            "There is nothing extraordinary in finding a depth of fifteen fathoms soon after a depth of twenty fathoms had been found.",
+            "They were now shoaling the water, and in imminent danger of striking, and the only possible expedient for safety was to anchor."
+        ],
+        "Archibald T. Robertson": [
+            "They sounded...to take soundings.\" ",
+            "Twenty fathoms...means the distance from one outstretched middle finger tip to the other likewise out-stretched.",
+            "After a little space...the ship going a short distance further on."
+        ],
+        "John Gill": [
+            "The sounding line, with the ancients, was called by different names; sometimes bolis, and this is the name it has here.\" ",
+            "The deep sea line is used in deep water, and both lead and line are larger than the other at the end of it is a piece of lead, called deep sea lead, has a hole at the bottom, in which is put a piece of 'tallow', to bring up the colour of the sand at the bottom, to learn the differences of the ground, and know what coasts they are on.",
+            "For as many fathoms of water as are found, it is reckoned so many leagues from land."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sailors on the ship were using a sounding line to measure the depth of the water, referred to as soundings, as they approached the shore. They knew that twenty fathoms equated to about 120 feet, or the distance from one outstretched middle finger tip to the other outstretched. As they continued on, they found fifteen fathoms, indicating that they were getting closer to land. The rough nature of the shore with its mountainous cliffs causing violent waves was accurately described. The sailors were in imminent danger of striking, so anchoring was their only option for safety.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.5631123192231238,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.32,
+            "commentatorTierSimilarities": [
+                25.81,
+                42.27,
+                31.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sailors on the ship used a sounding line to measure the depth of the water, called soundings. They found that twenty fathoms equated to approximately 120 feet, or the length of outstretched arms. As they continued, they discovered fifteen fathoms, indicating their proximity to land. The commentators note the accuracy of the described rough and violent shoreline. With imminent danger of striking, the sailors resorted to anchoring as the only possible means of safety.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.4708477717401847,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "commentatorTierSimilarities": [
+                24.56,
+                43.89,
+                31.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sailors aboard the ship were keenly aware of their proximity to land as they meticulously measured the water's depth using a sounding line. They found that twenty fathoms, equivalent to the distance between outstretched middle finger tips, indicated a specific distance from shore. As the depth decreased to fifteen fathoms, the crew recognized the imminent danger of the rough shoreline with its perilous cliffs and violent waves. Faced with the risk of collision, their only recourse was to anchor the ship for safety.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.5928332920382806,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+            "commentatorTierSimilarities": [
+                28.22,
+                45.48,
+                26.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the ship sailed closer to land, the sailors diligently used a sounding line to measure the depth of the water, referred to as soundings. They found that twenty fathoms, which is about 120 feet or the length of outstretched arms, signified a specific distance from the shore. Upon measuring fifteen fathoms, they realized the peril they faced with the rugged coastline and its violent waves. Consequently, they had no choice but to anchor the ship in order to ensure their safety.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5794064901608684,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+            "commentatorTierSimilarities": [
+                25.1,
+                45.8,
+                29.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the ship neared the shore, the sailors carefully measured the depth of the water using a sounding line, known as soundings. They discovered that twenty fathoms, equivalent to about 120 feet, indicated a distance from land. When they found fifteen fathoms, it became evident that they were approaching the rough and treacherous coastline with its violent waves. In order to avoid imminent danger, they promptly anchored the ship, ensuring their safety amidst the hazardous conditions.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.4924136270508521,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.97,
+            "commentatorTierSimilarities": [
+                23.41,
+                45.89,
+                30.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

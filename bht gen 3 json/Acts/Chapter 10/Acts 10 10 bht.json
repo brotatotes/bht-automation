@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:29:17",
+    "verseRef": "Acts 10:10",
+    "bestBHT": {
+        "bht": "In this event, the distinction lies in the fact that it was a revelation shown to the beholder's eye while in a supernatural state, rather than a mere vision. The individual, in an ecstasy or trance, witnessed the scene as an ordinary spectator, despite its lack of objective reality. The symbols presented in this vision were suited to the individual's natural faculties, enhancing the narrative's vividness and authenticity. This experience highlights the fine line between the natural and supernatural realms, with no clear boundaries dividing them.",
+        "wordCount": 89,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.940224165463595,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.85,
+        "commentatorTierSimilarities": [
+            31.09,
+            39.98,
+            28.94
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The distinction of this appearance from the 'vision' above is that in this case that which was seen was a revelation shewn to the eye of the beholder when rapt into a supernatural state.\" ",
+            "Having, as is the case in a dream, no objective reality.\" ",
+            "The thing seen actually happened, and was beheld by the person as an ordinary spectator, in the possession of his natural senses."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. a trance\u2014differing from",
+            "\tthe \"vision\" of Cornelius, in so far as the things seen had",
+            "\tnot the same objective reality, though both were supernatural."
+        ],
+        "Albert Barnes": [
+            "The word 'trance, or ecstasy,' denotes 'a state of mind when the attention is absorbed in a particular train of thought, so that the external senses are partially or entirely suspended.'",
+            "The soul seems to have passed out of the body, and to be conversant only with spiritual essences.",
+            "It is often a high state of reverie, or absence of mind, which Dr. Rush describes as 'induced by the stimulus of ideas of absent subjects, being so powerful as to destroy the perception of present objects.'"
+        ],
+        "Marvin Vincent": [
+            "Very hungry [\u03c0\u03c1\u03bf\u03c3\u03c0\u03b5\u03b9\u03bd\u03bf\u03c2]. Only here in New Testament.",
+            "Rev., correctly, desired to eat.",
+            "He fell into a trance [\u03b5\u03c0\u03b5\u03c0\u03b5\u03c3\u03b5\u03bd \u03b5\u03c0 \u03b1\u03c5\u03c4\u03bf\u03bd \u03b5\u03ba\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2]. Lit., an ecstasy fell upon him. The best texts, however, read ejgeneto, came upon him, or happened to him."
+        ],
+        "John Calvin": [
+            "Because our minds are wholly, as it were, set upon the earth...\" ",
+            "...it was meet that his mind should be, as it were, moved from his place and carried up...",
+            "...when as he is carried up above the world after an unwonted manner."
+        ],
+        "Philip Schaff": [
+            "The vision presented to him in the trance was adapted to the physical condition in which he was at the moment.",
+            "These circumstantial details, however, are of high importance in the direct narrative. They add to its life and reality, and they constitute part of the process through which Peter was brought to his new state of mind.",
+            "This preternatural state of mind in which Peter saw the allegorical vision is to be contrasted with the full retention of his natural faculties with which Cornelius saw the angel."
+        ],
+        "Archibald T. Robertson": [
+            "The natural and the supernatural border closely on one another, with no definable limits\" (Furneaux).",
+            "An ecstasy came upon him,\" in which trance he passed out of himself.",
+            "It is thus different from a vision as in verse Acts 10:3."
+        ],
+        "John Gill": [
+            "...for those were reckoned the most religious persons, who eat nothing before the Minchah.",
+            "...but while Simon's family were getting dinner ready, preparing the food for it...",
+            "...he was as it were out of the body, and entirely in the spirit; all the bodily organs and senses were shut up, and all sensible objects removed from him; and he was wholly intent on what was proposed to him in the vision, which filled him with wonder and astonishment."
+        ],
+        "John Wesley": [
+            "The symbols in visions and trances, it is easy to observe, are generally suited to the state of the natural faculties.",
+            "The symbols in visions and trances are generally suited to the state of the natural faculties.",
+            "Symbols in visions and trances are suited to the state of the natural faculties."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the event described is not simply a vision, but a revelation shown to the eye of the beholder in a supernatural state. This distinction is important because the things seen in this supernatural state lacked the same objective reality as the vision of Cornelius. The individual, in a state of ecstasy or trance, witnessed the event as an ordinary spectator, even though it had no objective reality like a dream. The symbols presented in this vision were suited to the individual's natural faculties and added to the life and reality of the narrative. This supernatural experience caused the individual to be wholly intent on what was proposed to them in the vision, filling them with wonder and astonishment. It is clear that the natural and supernatural realms closely border one another, with no definitive limits.",
+            "wordCount": 139,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0209078499261093,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.54,
+            "commentatorTierSimilarities": [
+                33.12,
+                38.02,
+                28.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this event, the distinction lies in the fact that it was a revelation shown to the beholder's eye while in a supernatural state, rather than a mere vision. The individual, in an ecstasy or trance, witnessed the scene as if they were an ordinary spectator, despite its lack of objective reality. The symbols presented in this vision were suited to the individual's natural faculties, enhancing the narrative's vividness and authenticity. This experience serves as a reminder of the close proximity between the natural and supernatural realms, with no clear boundaries separating them.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9021663833657265,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "commentatorTierSimilarities": [
+                29.73,
+                40.35,
+                29.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this event, the distinction lies in the fact that it was a revelation shown to the beholder's eye while in a supernatural state, rather than a mere vision. The individual, in an ecstasy or trance, witnessed the scene as if they were an ordinary spectator, despite its lack of objective reality. The symbols presented in this vision were suited to the individual's natural faculties, enhancing the narrative's vividness and authenticity. This experience serves as a reminder of the close proximity between the natural and supernatural realms, with no clear boundaries separating them.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9021663833657265,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "commentatorTierSimilarities": [
+                29.73,
+                40.35,
+                29.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this event, the distinction lies in the fact that it was a revelation shown to the beholder's eye while in a supernatural state, rather than a mere vision. The individual, in an ecstasy or trance, witnessed the scene as an ordinary spectator, despite its lack of objective reality. The symbols presented in this vision were suited to the individual's natural faculties, enhancing the narrative's vividness and authenticity. This experience highlights the fine line between the natural and supernatural realms, with no clear boundaries dividing them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.940224165463595,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.85,
+            "commentatorTierSimilarities": [
+                31.09,
+                39.98,
+                28.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this event, the distinction lies in the fact that it was a revelation shown to the beholder's eye while in a supernatural state, rather than a mere vision. The individual, in an ecstasy or trance, witnessed the scene as an ordinary spectator, despite its lack of objective reality. The symbols presented in this vision were suited to the individual's natural faculties, enhancing the narrative's vividness and authenticity. This experience underscores the close proximity between the natural and supernatural realms, blurring any clear boundaries that may exist.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.900666526047691,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+            "commentatorTierSimilarities": [
+                31.23,
+                39.62,
+                29.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

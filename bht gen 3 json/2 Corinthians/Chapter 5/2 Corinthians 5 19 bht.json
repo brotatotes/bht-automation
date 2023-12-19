@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 15:16:16",
+    "verseRef": "2 Corinthians 5:19",
+    "bestBHT": {
+        "bht": "God accomplished the reconciliation of the world to Himself in Christ, removing the bar to peace and acceptance with a holy God. Through Christ's intervention, God reconciled us to Himself and called us to share in the ministry of reconciliation. This atonement, or reconciliation, was made possible by God being in Christ and not imputing our trespasses to us. It is through Christ's death for us that we can receive the righteousness of God and be adopted into His family.",
+        "wordCount": 82,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 2.7546601957639094,
+        "qualityScoreNormalizedComparedToV2BHTs": 82.93,
+        "commentatorTierSimilarities": [
+            36.62,
+            30.45,
+            32.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God was reconciling the world to Himself in Christ... He has accomplished the reconciliation.\" ",
+            "He does not, after this reconciliation, impute to any man his trespasses.",
+            "Having put into our hands... the word of the reconciliation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God was in Christ, reconciling\u2014that is, God was BY Christ (in virtue of Christ's intervention) reconciling.",
+            "The atonement (at-one-ment), or reconciliation, is the removal of the bar to peace and acceptance with a holy God, which His righteousness interposed against our sin.",
+            "So, though God loved men whom He created, yet He was offended with them when they sinned, and gave His Son to suffer for them, that through that Son's obedience He might be reconciled to them."
+        ],
+        "Albert Barnes": [
+            "That God was in Christ - That God was by Christ (\u03b5\u0313\u03bd \u03a7\u03c1\u03b9\u03c3\u03c4\u03c9\u0342\u0345 en Christo\u0304), by means of Christ; by the agency, or mediatorship of Christ.",
+            "Reconciling the world unto himself - The world here evidently means the human race generally, without distinction of nation, age, or rank.",
+            "Not imputing their trespasses - Not reckoning their transgressions to them; that is, forgiving them, pardoning them."
+        ],
+        "Marvin Vincent": [
+            "God was all through and behind the process of reconciliation.",
+            "The primary reference of the statement is, no doubt, to God's reconciling manifestation in the incarnation and death of Christ.",
+            "God was engaged in reconciling the world from the very beginning, and that in Christ."
+        ],
+        "John Calvin": [
+            "God reconciled the world to himself in Christ; but the meaning is fuller and more comprehensive \u2014 first, that God was in Christ; and, secondly, that he reconciled the world to himself by his intercession.",
+            "Whereas God had withdrawn to a distance from us, he has drawn near to us in Christ, and thus Christ has become to us the true Emmanuel, and his coming is God\u2019s drawing near to men.",
+            "As our consciences cannot apprehend this benefit otherwise than through the intervention of Christ\u2019s sacrifice, it is not without good reason, that Paul makes that the commencement and cause of reconciliation, with regard to us."
+        ],
+        "Philip Schaff": [
+            "God was in Christ, reconciling the world unto himself, not reckoning unto them their trespasses.",
+            "This shews conclusively... the reconciliation of the preceding verse means the removal on God\u2019s part of His just ground of offence against us.",
+            "God is in Christ reconciling the world unto Himself... expressing the continued reconciliation of individual souls to Himself, as each successively welcomes this reconciliation, made once for all on the cross, as the appointed way of his personal reconciliation to God."
+        ],
+        "Archibald T. Robertson": [
+            "It probably means 'how that.'\" ",
+            "What Jesus did (his death for us) stands to our credit if we make our peace with God.",
+            "This is our task, 'the word of reconciliation,' that we may receive 'the righteousness of God' and be adopted into the family of God."
+        ],
+        "John Gill": [
+            "God was in Christ reconciling the world unto himself... he called a council of peace, and entered into a covenant of peace with Christ, who was appointed and agreed to, to be the peacemaker.",
+            "...by Christ; and so it denotes, as before, actual reconciliation by Christ. God, in pursuance of his purposes, council, and covenant, sent his Son to make peace; and laid our sins, and the chastisement of our peace upon him; this is the punishment of sin, whereby satisfaction was made for it, and so peace with God.",
+            "...the elect of God, who are chosen in Christ, whose peace Christ is, whose sins are not imputed to them, and against whom no charge of any avail can be laid."
+        ],
+        "John Wesley": [
+            "God - The whole Godhead, but more eminently God the Father.",
+            "Which was before at enmity with God.",
+            "Taking away that enmity, which could no otherwise be removed than by the blood of the Son of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Through Christ, God accomplished the reconciliation of the world to Himself, not imputing their trespasses. The atonement is the removal of the barrier that God's righteousness imposed against our sin. It was God who was engaged in the process, reconciling the world from the very beginning, through Christ. The primary reference is to God's reconciling manifestation in the incarnation and death of Christ. Our task, then, is to proclaim this word of reconciliation, receive the righteousness of God, and be adopted into His family. This reconciliation was made possible by God being in Christ, reconciling the world unto Himself and not counting their trespasses against them.",
+            "wordCount": 108,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.7567450594539533,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.0,
+            "commentatorTierSimilarities": [
+                36.04,
+                32.86,
+                31.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God accomplished the reconciliation of the world to Himself in Christ, removing the bar to peace and acceptance with a holy God. Through Christ's intervention, God reconciled us to Himself and called us to share in the ministry of reconciliation. This atonement, or reconciliation, was made possible by God being in Christ and not imputing our trespasses to us. It is through Christ's death for us that we can receive the righteousness of God and be adopted into His family.",
+            "wordCount": 82,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 2.7546601957639094,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.93,
+            "commentatorTierSimilarities": [
+                36.62,
+                30.45,
+                32.93
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

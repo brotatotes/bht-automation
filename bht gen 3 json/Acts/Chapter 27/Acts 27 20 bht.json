@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:37:11",
+    "verseRef": "Acts 27:20",
+    "bestBHT": {
+        "bht": "The sailors encountered great peril as they navigated the tumultuous sea. Deprived of the sun and stars as their guides, their despair deepened due to the leaky state of the ship and the inability to determine their location. The unrelenting tempest and the fear of being without any hope cast a gloomy fog over their journey. Yet, it was in this moment that St. Paul stepped in, kindling a ray of Divine encouragement that pierced through the darkness and breathed life into their faltering spirits.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.7215133557482334,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+        "commentatorTierSimilarities": [
+            36.73,
+            28.26,
+            35.01
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sun and stars were the only guides of the ancients when out of sight of land.",
+            "The expression, all hope was taken away, seems... to betoken that a greater evil... was afflicting them, viz. the leaky state of the ship.",
+            "The leaky state of the ship... increased upon them, as is shewn by their successive lightenings of her."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This continued thickness of the atmosphere prevented their making the necessary observations of the heavenly bodies by day or by night; so that they could not tell where they were.\" ",
+            "Their exertions to subdue the leak had been unavailing; they could not tell which way to make for the nearest land... Their apprehensions, therefore, were not so much caused by the fury of the tempest, as by the state of the ship.",
+            "From the inferiority of ancient to modern naval architecture, leaks were sprung much more easily, and the means of repairing them were fewer than now. Hence the far greater number of shipwrecks from this cause."
+        ],
+        "Albert Barnes": [
+            "As they could see neither sun nor stars, they could make no observations.",
+            "They had no compass, they would be totally ignorant of their situation.",
+            "They gave up all as lost."
+        ],
+        "Philip Schaff": [
+            "When neither sun nor stars in many days appeared. This was a most serious aggravation of the danger.",
+            "All hope was now taken away...we come to the third stage, which is absolute despair.",
+            "It was precisely at this time...that St. Paul interposed with Divine encouragement."
+        ],
+        "Archibald T. Robertson": [
+            "For many days...No small tempest.\" ",
+            "All hope that we should be saved was now taken away.\" ",
+            "Despair was beginning to settle like a fog on all their hopes."
+        ],
+        "John Gill": [
+            "And when neither sun nor stars in many days appeared,.... The Syriac version adds, 'nor moon'; which is an usual description of dark, cloudy, and tempestuous seasons...",
+            "...the sun, moon, and stars, are useful to sailors, to steer their course by; especially they were to the ancients, before the invention and use of the loadstone...",
+            "The apostle himself knew indeed, that though the ship would be lost, every man's life would be saved; and yet he could have no hope of this, as to the outward appearance of things, but on account of the revelation which the Lord had made to him, and he believed..."
+        ],
+        "John Wesley": [
+            "Neither sun nor stars appeared for many days \u2014 Which they could the less spare, before the compass was found out."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 27:20, the desperate situation of the sailors is vividly portrayed as they were caught in a dangerous storm at sea. The thickness of the atmosphere prevented them from using the sun and stars as their guides, and the leaky state of the ship worsened their predicament. Unable to make necessary observations or determine their location, despair settled upon them, as all hope of being saved seemed lost. The dangerous tempest continued for many days, intensifying their despair. However, it was precisely during this time that St. Paul interposed with Divine encouragement, offering hope amidst the fog of despair.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7612752617831888,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+            "commentatorTierSimilarities": [
+                36.32,
+                30.38,
+                33.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sailors in this passage faced a dire situation as their ship was caught in a violent storm at sea. The thick atmosphere prevented them from using the sun and stars as their guides, making it impossible to determine their location. The leaky state of the ship compounded their troubles, leaving them in despair as all hope of being saved seemed lost. Despite the darkness and uncertainty, St. Paul interposed with Divine encouragement, offering a glimmer of hope amidst the overwhelming despair.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.7644863503422745,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                34.38,
+                30.03,
+                35.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, the sailors find themselves in a desperate situation at sea. Without the sun and stars to guide them, and with a leaky ship worsening their predicament, they faced a deep sense of despair. The continued tempest and lack of hope clouded their journey. However, amidst the darkness, St. Paul provided them with Divine encouragement, offering a glimmer of hope to alleviate their overwhelming despair.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.7178311406774607,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.46,
+            "commentatorTierSimilarities": [
+                36.2,
+                31.02,
+                32.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sailors encountered great peril as they navigated the tumultuous sea. Deprived of the sun and stars as their guides, their despair deepened due to the leaky state of the ship and the inability to determine their location. The unrelenting tempest and the fear of being without any hope cast a gloomy fog over their journey. Yet, it was in this moment that St. Paul stepped in, kindling a ray of Divine encouragement that pierced through the darkness and breathed life into their faltering spirits.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7215133557482334,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+            "commentatorTierSimilarities": [
+                36.73,
+                28.26,
+                35.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sailors faced a perilous situation on the sea, with no sun or stars to guide them and a leaky ship that worsened their plight. Their constant efforts to subdue the leak were in vain, leaving them unable to determine their location and increasing their apprehension. Amidst the despair caused by the tempest and the state of the ship, St. Paul intervened with Divine encouragement. His words pierced through the fog of despair, offering a glimmer of hope and strength.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.6221809849584239,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                40.71,
+                29.85,
+                29.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

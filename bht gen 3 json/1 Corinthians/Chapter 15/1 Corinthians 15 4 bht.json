@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:13:32",
+    "verseRef": "1 Corinthians 15:4",
+    "bestBHT": {
+        "bht": "The perfect tense in the verse signifies the continuance of Christ's resurrection and its consequences, emphasizing the abiding state that began with His resurrection. His burial holds a strong connection to His resurrection, as the grave was not a place for corruption but for entering into life. The change to the perfect tense highlights the permanence of His resurrection. This, along with the prophecies and typifications from scripture, reinforces the certainty and truth of Christ's death and resurrection. The accounts of witnesses and the fulfillment of scripture solidify the reality of Christ's resurrection.",
+        "wordCount": 96,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 2.1871671131812542,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.06,
+        "commentatorTierSimilarities": [
+            33.67,
+            27.74,
+            38.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "4. he hath risen] The perfect tense marks the continuation of the state thus begun, or of its consequences."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His burial is more closely connected with His resurrection than His death.",
+            "The grave was to Him not the destined receptacle of corruption, but an apartment fitted for entering into life.",
+            "The state thus begun, and its consequences, still continue."
+        ],
+        "Albert Barnes": [
+            "And that he was buried - That is, evidently according to the Scriptures; see Isaiah 53:9.",
+            "And that he rose again the third day ... It is not of necessity implied that it was predicted that he should rise 'on the third day,' but that he should rise from the dead.",
+            "See the argument for this stated in the discourse of Peter, in Acts 2:24-32."
+        ],
+        "Marvin Vincent": [
+            "Rose [\u03b5\u03b3\u03b7\u03b3\u03b5\u03c1\u03c4\u03b1\u03b9]. Rev., correctly, hath been raised.",
+            "Died and was buried are in the aorist tense.",
+            "The change to the perfect marks the abiding state which began with the resurrection. He hath been raised and still lives."
+        ],
+        "Philip Schaff": [
+            "So vividly did the apostles realize the importance of this fact being quite certain, that they glory in using the naked word 'death' in His case, while the death of believers they hesitate not to call a 'sleep.'\" ",
+            "To Luke 24:34 we are indebted for the thrilling information that the risen Lord specially manifested Himself to that one of all the eleven who when He was on trial for His life before the Sanhedrin had thrice disowned Him.\" ",
+            "No sensible writer could have ventured on such a statement virtually calling in some hundreds of living witnesses to attest the fact if he had not been sure of his ground."
+        ],
+        "Archibald T. Robertson": [
+            "This item is an important detail as the Gospels show.",
+            "Paul wishes to emphasize the permanence of the resurrection of Jesus. He is still risen.",
+            "Whether Paul had seen either of the Gospels we do not know, but this item is closely identified with the fact of Christ's resurrection."
+        ],
+        "John Gill": [
+            "Now since this was prophesied of, and typified, and had its actual accomplishment, it was very proper for the apostle to take notice of it, both to confirm the certainty of Christ's death, and the truth of his resurrection.\" ",
+            "And that he should rise again the third day, is not only suggested in Hosea 6:2 but was prefigured by the deliverance of Isaac on the third day after Abraham had given him up for dead, from whence he received him, in a figure of Christ's resurrection; and by Jonah's deliverance out of the whale's belly, after he had been in it three days.",
+            "From which observations they establish this as a maxim, that 'God does not leave the righteous in distress more than three days.'"
+        ],
+        "John Wesley": [
+            "According to the scriptures \u2014 He proves it first from scripture, then from the testimony of a cloud of witnesses. Psalm 16:10."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the permanence of Christ's resurrection, with the perfect tense indicating the continuation of the state and its consequences. Christ's burial is closely connected to His resurrection, as the grave was not a place of corruption but a fitting chamber for entering into life. The change to the perfect tense signifies the abiding state that began with the resurrection, showing that He has been raised and still lives. The fact of Christ's resurrection is closely identified with His burial, highlighting the importance of this detail. This confirmation of Christ's death and resurrection serves to strengthen the certainty and truth of these events. Prophecies and typifications from scripture, such as Hosea 6:2, Psalm 16:10, the deliverance of Isaac, and Jonah's three-day ordeal, further exemplify the resurrection on the third day. The accounts of witnesses and the fulfillment of scripture solidify the reality of Christ's resurrection.",
+            "wordCount": 151,
+            "quoteTokenProportion": 32.94,
+            "qualityScore": 2.1908912067122563,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.19,
+            "commentatorTierSimilarities": [
+                33.27,
+                27.62,
+                39.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The perfect tense in the verse signifies the continuance of Christ's resurrection and its consequences, emphasizing the abiding state that began with His resurrection. His burial holds a strong connection to His resurrection, as the grave was not a place for corruption but for entering into life. The change to the perfect tense highlights the permanence of His resurrection. This, along with the prophecies and typifications from scripture, reinforces the certainty and truth of Christ's death and resurrection. The accounts of witnesses and the fulfillment of scripture solidify the reality of Christ's resurrection.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.1871671131812542,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.06,
+            "commentatorTierSimilarities": [
+                33.67,
+                27.74,
+                38.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The perfect tense in the given passage signifies the continuation of the state begun with Christ's resurrection, highlighting its abiding consequences. His burial is closely related to His resurrection, not as a place of corruption, but as a fitting entry into life. The change to the perfect tense emphasizes the permanence of His resurrection, showcasing its abiding nature. The significance of this detail is closely identified with the fact of Christ's resurrection, which is confirmed through prophecies, typifications, and the witness accounts, reinforcing the certainty and truth of His resurrection.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.1848506818919278,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.99,
+            "commentatorTierSimilarities": [
+                38.95,
+                27.53,
+                33.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The perfect tense used in the passage denotes the continuation of Christ's resurrection and its lasting effects. His burial is intimately connected to His resurrection, as the grave was not a place of decay but rather a suitable abode for entering into life. The shift to the perfect tense signifies the enduring state initiated by the resurrection, emphasizing that He has been raised and still lives. The inclusion of this detail underscores the permanent nature of Christ's resurrection, supported by prophetic Scriptures and the testimony of witnesses, further solidifying its truth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.1792486786798126,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.8,
+            "commentatorTierSimilarities": [
+                36.73,
+                27.6,
+                35.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The perfect tense used in the verse signifies the continuation of Christ's resurrection and its abiding state. His burial is closely tied to His resurrection, where the grave served as a place fitted for entering into life, rather than corruption. The shift to the perfect tense emphasizes the enduring nature of His resurrection, showcasing that He has been raised and still lives. This detail underlines the permanence of Christ's resurrection, further supported by prophetic Scriptures and witness testimonies, reinforcing its certainty and truth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.17740467745113,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.74,
+            "commentatorTierSimilarities": [
+                36.93,
+                27.25,
+                35.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

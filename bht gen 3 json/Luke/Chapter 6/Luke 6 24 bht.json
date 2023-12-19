@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:15:55",
+    "verseRef": "Luke 6:24",
+    "bestBHT": {
+        "bht": "Woe to those who are rich, who have received their consolation in perishable objects and are consumed by their worldly possessions. This contrast serves both as a warning to the ungodly and a wake-up call to believers, reminding them not to be deceived by the allurements of the world. While riches themselves do not exclude one from the kingdom of heaven, those who place their hope in material wealth will find no true comfort except in Christ and his righteousness.",
+        "wordCount": 81,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 1.9928123917846166,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+        "commentatorTierSimilarities": [
+            18.82,
+            39.35,
+            41.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Of course I cannot assent to any such view as that taken by Meyer and others, that these \u2018woes\u2019 are inserted from later tradition; in other words, were never spoken by our Lord at all.\".",
+            "Either we must suppose that they ought to follow Matt. v. 12, which is from the context most improbable.",
+            "Or that they and perhaps the four preceding beatitudes with them, were on some occasion spoken by our Lord in this exact form, and so have been here placed in that form."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Laugh\u2014who have all their good things and joyous feelings here and now, in perishable objects.",
+            "Received your consolation\u2014(see on Luke 6:1).",
+            "Shall hunger\u2014their inward craving strong as ever, but the materials of satisfaction forever gone."
+        ],
+        "Marvin Vincent": [
+            "The verb, compounded of ajpo, off or from, and ecw, to have, literally means to have nothing left to desire.",
+            "It embodies the call for help, and the response to the call. Its use corresponds with that of the kindred verb parakalew, to exhort or console.",
+            "The comfort which Christ gives is not always soothing. The Holy Spirit, the Comforter, is to convince of sin and of judgment."
+        ],
+        "John Calvin": [
+            "This contrast not only tends to strike terror into the ungodly, but to arouse believers, that they may not be lulled to sleep by the vain and deceitful allurements of the world.",
+            "He pronounces a curse on the rich, \u2014 not on all the rich, but on those who receive their consolation in the world; that is, who are so completely occupied with their worldly possessions, that they forget the life to come.",
+            "In any other point of view, the rich are not excluded from the kingdom of heaven, provided they do not become snares for themselves, or fix their hope on the earth, so as to shut against them the kingdom of heaven."
+        ],
+        "Philip Schaff": [
+            "Luke 6:24. Rich , i.e., fancying themselves possessed of what they crave and need. This class is made up largely of those actually wealthy."
+        ],
+        "Archibald T. Robertson": [
+            "But woe unto you that are rich (\u03a0\u03bb\u03b7\u03bd \u03bf\u03c5\u03b1 \u03c5\u03bc\u03b9\u03bd \u03c4\u03bf\u03b9\u03c2 \u03c0\u03bb\u03bf\u03c5\u03c3\u03b9\u03bf\u03b9\u03c2). Sharp contrast (\u03c0\u03bb\u03b7\u03bd).",
+            "Ye have received (\u03b1\u03c0\u03b5\u03c7\u03b5\u03c4\u03b5). Receipt in full \u03b1\u03c0\u03b5\u03c7\u03c9 means as the papyri show.",
+            "Consolation (\u03c0\u03b1\u03c1\u03b1\u03ba\u03bb\u03b7\u03c3\u03b9\u03bd). From \u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03b5\u03c9, to call to one's side, to encourage, to help, to cheer."
+        ],
+        "John Gill": [
+            "But woe unto you that are rich...for ye have received your consolation.",
+            "It chiefly regards such...as are rich in their own opinion, and stand in need of nothing.",
+            "There is no true solid comfort but in Christ, and in his righteousness."
+        ],
+        "John Wesley": [
+            "Miserable are ye rich - If ye have received or sought your consolation or happiness therein."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Woe to those who are rich, who have all their good things and joyous feelings here and now, in perishable objects. They have received their consolation, their inward craving still strong but the materials of satisfaction forever gone. The contrast between the rich and the poor not only strikes terror into the ungodly, but also serves as a wake-up call for believers, so that they may not be deceived by the allurements of the world. This curse is pronounced on those who are so completely occupied with their worldly possessions that they forget about the life to come, but it does not exclude all the rich from the kingdom of heaven as long as they do not make riches their idol. The only true and solid comfort can be found in Christ and in his righteousness.",
+            "wordCount": 137,
+            "quoteTokenProportion": 46.74,
+            "qualityScore": 1.9043294312371666,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "commentatorTierSimilarities": [
+                18.48,
+                40.06,
+                41.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Woe to those who are rich, who have received their consolation in perishable objects and are consumed by their worldly possessions. This contrast serves both as a warning to the ungodly and a wake-up call to believers, reminding them not to be deceived by the allurements of the world. While riches themselves do not exclude one from the kingdom of heaven, those who place their hope in material wealth will find no true comfort except in Christ and his righteousness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.9928123917846166,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+            "commentatorTierSimilarities": [
+                18.82,
+                39.35,
+                41.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Woe to those who are rich, for they have received their consolation in perishable objects. This contrast serves as a warning to the ungodly and a reminder for believers not to be deceived by worldly possessions. Although riches themselves do not exclude one from the kingdom of heaven, those who place their hope in material wealth will find no true comfort except in Christ and his righteousness. True and lasting contentment can only be found in him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.8745808263361419,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.67,
+            "commentatorTierSimilarities": [
+                19.06,
+                38.79,
+                42.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Woe to those who are rich, for they have received their consolation in perishable objects. This contrast serves as a warning to the ungodly and a reminder for believers not to be deceived by worldly possessions. Although riches themselves do not exclude one from the kingdom of heaven, those who place their hope in material wealth will find no true comfort except in Christ and his righteousness. True and lasting contentment can only be found in him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.8745808263361419,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.67,
+            "commentatorTierSimilarities": [
+                19.06,
+                38.79,
+                42.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Woe to those who are rich, for they have received their consolation in perishable objects. This contrast serves as a warning to the ungodly and a reminder for believers not to be deceived by worldly possessions. Although riches themselves do not exclude one from the kingdom of heaven, those who place their hope in material wealth will find no true comfort except in Christ and his righteousness. True and lasting contentment can only be found in him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.8745808263361419,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.67,
+            "commentatorTierSimilarities": [
+                19.06,
+                38.79,
+                42.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

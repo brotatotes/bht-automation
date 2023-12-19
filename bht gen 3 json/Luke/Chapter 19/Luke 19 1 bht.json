@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:21:38",
+    "verseRef": "Luke 19:1",
+    "bestBHT": {
+        "bht": "As Jesus was passing through Jericho, a city rich in resources, Zacchaeus, a tax collector of superior rank, climbed a tree out of his intense desire to see Jesus. This encounter was significant not only because of Zacchaeus's remarkable conversion but also because it showed how Jesus responds to the hidden longings of individuals, revealing himself at the right moment. While Jesus did not stay in Jericho for long, his presence left a lasting impact on Zacchaeus's life.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.836220459961245,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+        "commentatorTierSimilarities": [
+            34.05,
+            38.74,
+            27.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "And Jesus entered ... - See the notes at Matthew 20:29. This means, perhaps, \u201che was passing\u201d through Jericho when Zacchaeus saw him. His house was \u201cin\u201d Jericho."
+        ],
+        "Marvin Vincent": [
+            "Jericho. The city was close to the fords of the Jordan, on the frontier of Peraea, and on the richest plain of Palestine, abounding most in the choicest productions, especially balsam...\" (Luke 19:1)",
+            "an appropriate seat for an officer of superior rank to preside over the collection of revenues\" (Luke 19:1)",
+            "See on Matthew 9:9; Luke 3:12.\" (Luke 19:1)"
+        ],
+        "John Calvin": [
+            "It is possible, indeed, that others entertained the same wish, but this man was most properly singled out by Luke, both on account of his rank, and on account of his wonderful conversion, which took place suddenly.",
+            "For it was an evidence of intense desire that he climbed up a tree; since rich men are, for the most part, haughty, and plume themselves on affected gravity.",
+            "In this manner, before revealing himself to men, the Lord frequently communicates to them a secret desire, by which they are led to Him, while he is still concealed and unknown; and, though they have no fixed object in view, He does not disappoint them, but manifests himself in due time."
+        ],
+        "Philip Schaff": [
+            "He had not yet passed entirely through, when He met Zaccheus.",
+            "Hence it is not necessary to suppose that the house of Zaccheus was outside the city, on the way to Jerusalem.",
+            "On Jericho, see Matthew 20:29."
+        ],
+        "Archibald T. Robertson": [
+            "Was passing through (\u03b4\u03b9\u03b7\u03c1\u03c7\u03b5\u03c4\u03bf). Imperfect middle. Now Jesus was inside the Roman Jericho with the procession. "
+        ],
+        "John Gill": [
+            "Though the word 'Jesus' is not in the original text it is rightly supplied in our version.\" ",
+            "He entered into it, but made no stay in it, passed through it at once without stopping.",
+            "Here he had no work, either to perform miracles, or to convert sinners."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jericho, a city known for its wealth and abundance, served as a fitting location for a tax collector like Zacchaeus. As Jesus was passing through the city, Zacchaeus's desire to see him was evident as he climbed a tree. This encounter with Jesus was significant, as it led to Zacchaeus's remarkable conversion. It is worth noting that Jesus often responds to the secret desires of individuals, revealing himself to them at the right time. Despite not staying in Jericho for long, Jesus's presence left a lasting impact on Zacchaeus's life.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.6252536706435818,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.38,
+            "commentatorTierSimilarities": [
+                33.8,
+                39.32,
+                26.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus was passing through Jericho, a city known for its wealth and bountiful resources. Zacchaeus, a tax collector of superior rank, climbed a tree out of his intense desire to see Jesus. This unique encounter led to Zacchaeus's sudden conversion and demonstrated how Jesus responds to the secret desires of individuals, revealing himself in due time. Although Jesus did not stay long in Jericho, his presence left a profound impact on Zacchaeus's life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6565351335249292,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+            "commentatorTierSimilarities": [
+                34.7,
+                37.48,
+                27.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus was passing through Jericho, a city rich in resources, Zacchaeus, a tax collector of superior rank, climbed a tree out of his intense desire to see Jesus. This encounter was significant not only because of Zacchaeus's remarkable conversion but also because it showed how Jesus responds to the hidden longings of individuals, revealing himself at the right moment. While Jesus did not stay in Jericho for long, his presence left a lasting impact on Zacchaeus's life.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.836220459961245,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                34.05,
+                38.74,
+                27.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, passing through the wealthy city of Jericho, encountered Zacchaeus, a tax collector of superior rank. Zacchaeus's desire to see Jesus was so great that he climbed a tree. This profound encounter led to a sudden and remarkable conversion in Zacchaeus's life. It is worth noting that Jesus often responds to the secret desires of individuals, revealing himself in due time. Although Jesus did not remain in Jericho for long, his presence left an indelible impact on Zacchaeus's life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.528656742453024,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.17,
+            "commentatorTierSimilarities": [
+                33.61,
+                36.95,
+                29.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus was passing through the wealthy city of Jericho when he encountered Zacchaeus, a tax collector of superior rank. Zacchaeus's great desire to see Jesus prompted him to climb a tree, evidencing his intense longing. This encounter resulted in a sudden and remarkable conversion for Zacchaeus. It is noteworthy that Jesus often responds to the secret desires of individuals, revealing himself in due time. Though Jesus did not stay long in Jericho, his presence had a lasting impact on Zacchaeus's life.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.5069696852105514,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.45,
+            "commentatorTierSimilarities": [
+                32.15,
+                36.57,
+                31.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

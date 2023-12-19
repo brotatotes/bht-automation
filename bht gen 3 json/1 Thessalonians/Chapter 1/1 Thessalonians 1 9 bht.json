@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 13:57:56",
+    "verseRef": "1 Thessalonians 1:9",
+    "bestBHT": {
+        "bht": "The Thessalonians' turning from idols to serve the living and true God served as a testament to the authenticity and sincerity of Paul and his fellow-laborers' preaching. Their conversion from idolatry, under Paul's ministry, demonstrated the transformative power of embracing God and submitting to His authority wholeheartedly. The Thessalonians' example not only inspired others to persevere in a holy life but also showcased God's kindness in delivering them from falsehood and superstition.",
+        "wordCount": 75,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 2.0382118945445855,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+        "commentatorTierSimilarities": [
+            24.52,
+            49.73,
+            25.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The things reported here correspond to the two members of the above proof, verses 5 and 6.\" ",
+            "Living, as distinguished from lifeless idols.",
+            "True, as from those who were falsely called gods."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For they themselves show of us what manner of entering in we had unto you.",
+            "And how ye turned from idols to serve the living... God.",
+            "the living and true God\u2014as opposed to the dead and false gods from which they had 'turned.'"
+        ],
+        "Albert Barnes": [
+            "The testimony which they bear of you is, in fact, testimony of the manner in which we preached the gospel, and demeaned ourselves when we were with you.",
+            "Their sound conversion to God; their change from idolatry to the true religion, and the zeal which had been the result of their conversion, was an argument to which Paul and his fellow-laborers might appeal in proof of their sincerity and their being sent from God.",
+            "That is, under our preaching. This proves that the church was to a considerable extent composed of those who were converted from idolatry under the preaching of Paul."
+        ],
+        "Marvin Vincent": [
+            "They themselves volunteer testimony to your faith.\" ",
+            "The preposition combines with the sense of direction that of relation and intercourse.",
+            "The only instance in N. T. of this collocation."
+        ],
+        "John Calvin": [
+            "It is owing to the kindness of God, that we are exempted from the impostures of the devil, and every kind of superstition.",
+            "No one is properly converted to God, but the man who has learned to place himself wholly under subjection to him.",
+            "Let every one, therefore, that would persevere in a course of holy life, apply his whole mind to the expectation of Christ\u2019s coming."
+        ],
+        "Philip Schaff": [
+            "They themselves related to him his ministry and mode of life in Thessalonica, and its success.",
+            "To 'turn to God' from whatever has kept us from Him, to turn because we believe in Him and love Him, and mean to listen to, study, and obey Him, this is conversion.",
+            "'To serve God' is a comprehensive expression including the various acts, thoughts, and feelings, whereby a godly person seeks to please God."
+        ],
+        "Archibald T. Robertson": [
+            "",
+            "What manner of entering in. What sort of entrance, qualitative relative in an indirect question.",
+            "",
+            "From idols. Old word from \u03b5\u03b9\u03b4\u03bf\u03c2 (figure) for image or likeness and then for the image of a heathen god (our idol).",
+            "",
+            "To serve a living and true God. No article, it is true, but should be translated 'the living and true God' (cf. Acts 14:15)."
+        ],
+        "John Gill": [
+            "With what boldness, sincerity, uprightness and affection, and without flattery, covetousness, and vain glory.",
+            "Immediately and at once, upon the preaching of the Gospel to them, being first turned by the powerful and efficacious grace of God.",
+            "But now they turned from them and forsook them, to serve the living and true God."
+        ],
+        "John Wesley": [
+            "For they themselves \u2014 The people wherever we come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Thessalonians' turning from idols to serve the living and true God was a powerful testimony to Paul and his fellow-laborers, proving the sincerity of their preaching and the authenticity of their ministry. Their conversion from idolatry under Paul's preaching was the basis for the church's composition. Through their faith and zealous service, the Thessalonians demonstrated the transformative power of turning to God. This involved not only a change in belief but also a complete submission to God's authority. The Thessalonians' testimony served as an encouragement for others to persevere in their holy lives and eagerly anticipate the coming of Christ.",
+            "wordCount": 105,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.9148151236526503,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                22.46,
+                54.01,
+                23.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians' turning from idols to serve the living and true God was a powerful testimony to Paul and his fellow-laborers, proving the sincerity of their preaching and the authenticity of their ministry. Their conversion under Paul's preaching demonstrated the transformative power of turning to God, involving a complete submission to His authority. The Thessalonians' testimony encouraged others to persevere in holy living and eagerly await the coming of Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.9362122164787086,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.72,
+            "commentatorTierSimilarities": [
+                22.48,
+                55.3,
+                22.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians' turning from idols to serve the living and true God was a testimony that validated Paul and his fellow-laborers' sincere preaching and divine calling. This conversion from idolatry under Paul's ministry showcased the transformative power of embracing God, entailing complete surrender to His authority. The Thessalonians' example served as an inspiration for others to continue their pursuit of a holy life, eagerly anticipating Christ's return. Their genuine devotion without flattery or vain glory was evident, further confirming the faithfulness and kindness of God in delivering them from deception and superstition.",
+            "wordCount": 95,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.8818383792589364,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                23.43,
+                50.93,
+                25.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Thessalonians' turning from idols to serve the living and true God served as a testament to the authenticity and sincerity of Paul and his fellow-laborers' preaching. Their conversion from idolatry, under Paul's ministry, demonstrated the transformative power of embracing God and submitting to His authority wholeheartedly. The Thessalonians' example not only inspired others to persevere in a holy life but also showcased God's kindness in delivering them from falsehood and superstition.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.0382118945445855,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+            "commentatorTierSimilarities": [
+                24.52,
+                49.73,
+                25.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians' turning from idols to serve the living and true God provided a powerful confirmation of Paul and his fellow-laborers' genuine preaching and ministry. By converting from idolatry, they exemplified the transformative impact of embracing God and submitting to His authority. The Thessalonians' testimony served as an inspiration, prompting others to steadfastly pursue a life of holiness while eagerly anticipating Christ's return. Their sincerity, devoid of flattery or vain glory, highlighted God's benevolence in rescuing them from deception and superstition.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.9004888202214936,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.53,
+            "commentatorTierSimilarities": [
+                23.77,
+                49.17,
+                27.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:34:56",
+    "verseRef": "Ephesians 5:29",
+    "bestBHT": {
+        "bht": "Husbands are reminded to follow Christ's example of nourishing and cherishing the church. No one hates their own flesh; instead, they provide for and protect it. Nourisheth highlights the importance of nourishing the body to maturity, while cherisheth points to external fostering with tender care. By modeling Christ's love, husbands are called to provide for the physical and emotional needs of their wives. Just as Christ never hates the church, husbands should actively support and cherish their spouses, demonstrating Christ-like love in marriage.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.8574283333707577,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.1,
+        "commentatorTierSimilarities": [
+            32.65,
+            31.26,
+            36.09
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No man ever hated his own flesh... but nourisheth it up and cherisheth it.\" ",
+            "Christ (nourish and cherish) the church.",
+            "As also (doth) Christ (nourish and cherish) the church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For no man, c. his own flesh, nourisheth it up, namely, to maturity.\" ",
+            "Nourisheth refers to food and internal sustenance; cherisheth, to clothing and external fostering.",
+            "The two former (food and raiment) are here alluded to in a spiritual sense, by 'nourisheth and cherisheth'; the third 'duty of marriage' is not added in consonance with the holy propriety of Scripture language."
+        ],
+        "Albert Barnes": [
+            "As no man disregards the happiness of his own body, or himself, so he should show equal care to promote the happiness of his wife.",
+            "The word 'nourisheth' here means properly to bring up... The sense here is, that he provides for it, and guards it from exposure and want.",
+            "The word 'cherisheth' - \u03b8\u03b1\u0301\u03bb\u03c0\u03b5\u03b9 thalpei - means properly to 'warm;' and may mean here that he defends it from cold by clothing - and the two expressions denote that he provides food and raiment for the body."
+        ],
+        "Marvin Vincent": [
+            "Flesh. Instead of body, with reference to Genesis 2:23. ",
+            "Cherisheth [\u03b8\u03b1\u03bb\u03c0\u03b5\u03b9] . Only here and 1 Thessalonians 2:7. Originally, to warm."
+        ],
+        "John Calvin": [
+            "He proceeds to enforce the obligations of marriage by representing to us Christ and his Church; for a more powerful example could not have been adduced.",
+            "The strong affection which a husband ought to cherish towards his wife is exemplified by Christ.",
+            "This is a remarkable passage on the mysterious intercourse which we have with Christ."
+        ],
+        "Philip Schaff": [
+            "No one, no human being, ever hated his own flesh.",
+            "But nourisheth and cherisheth it.",
+            "Christ's love toward His Church is manifested in His nourishing and cherishing it."
+        ],
+        "Archibald T. Robertson": [
+            "Nourisheth (\u03b5\u03ba\u03c4\u03c1\u03b5\u03c6\u03b5). Old compound with perfective sense of \u03b5\u03ba (to nourish up to maturity and on). In N.T. only here and Ephesians 6:4.",
+            "Cherisheth (\u03b8\u03b1\u03bb\u03c0\u03b5). Late and rare word, once in a marriage contract in a papyrus. In N.T. only here and 1 Thessalonians 2:7. Primarily it means to warm (Latin foveo), then to foster with tender care as here.",
+            "Even as Christ also (\u03ba\u03b1\u03b8\u03c9\u03c2 \u03ba\u03b1 \u03bf \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2). Relative (correlative) adverb pointing back to \u03bf\u03c5\u03c4\u03c9\u03c2 at the beginning of the sentence (verse Ephesians 5:28) and repeating the statement in verse Ephesians 5:25."
+        ],
+        "John Gill": [
+            "Christ never hated his church and people; for his love is not only a love of benevolence, but of complacency and delight.",
+            "There is a difference between persons and actions, Christ may hate their actions, but not their persons.",
+            "These phrases are expressive of the whole care Christ takes of his church, in furnishing her with everything pertaining to life and godliness; for her comfort and happiness in this world, and that to come."
+        ],
+        "John Wesley": [
+            "His own flesh \u2014 That is, himself.",
+            "Nourisheth and cherisheth \u2014 That is, feeds and clothes it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Just as no one hates their own body but provides for it and protects it, Christ is the perfect example of nourishing and cherishing the church. The word nourisheth implies providing sustenance and fostering growth, while cherisheth suggests warmth and tender care. Christ's love for his church is demonstrated through his continuous support and provision. This passage serves as a powerful reminder of the love and care that husbands should show towards their wives. Just as Christ never hated his church, but rather takes care of her in every possible way, husbands are called to love, nourish, and cherish their wives.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.9759098225458103,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.04,
+            "commentatorTierSimilarities": [
+                29.6,
+                33.67,
+                36.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To illustrate the responsibilities of marriage, the writer draws a parallel between Christ and his church. Just as no one hates their own flesh but takes care of it, so does Christ nourish and cherish the church. Nourisheth emphasizes providing for growth, while cherisheth implies warmth and care. Christ's love for the church is revealed through his continuous support. Husbands are urged to follow Christ's example and love, nourish, and cherish their wives. This passage highlights the importance of showing care and provision in a marital relationship.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8834584741535365,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                32.12,
+                30.05,
+                37.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Christ never hates his church, husbands are called to love, nourish, and cherish their wives. This includes providing for their spiritual and physical needs. The term nourisheth refers to the act of feeding and fostering growth, while cherisheth implies warm and tender care. Christ's love for his church is revealed through his constant support and provision. Just as we take care of our own bodies, we are called to extend that same level of care to our spouses, demonstrating Christ-like love in marriage.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8566005695017975,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.07,
+            "commentatorTierSimilarities": [
+                32.04,
+                30.39,
+                37.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ's example of nourishing and cherishing the church serves as a powerful illustration for husbands in their role towards their wives. Just as no one hates their own flesh, husbands are called to provide for and protect their wives. Nourisheth signifies providing internal sustenance, while cherisheth denotes external fostering. Christ's love is not only a love of benevolence, but of delight and complacency. This verse emphasizes the importance of husbands lovingly caring for their wives, just as Christ loves and cares for the church.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9075891822132283,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.77,
+            "commentatorTierSimilarities": [
+                31.18,
+                30.88,
+                37.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Husbands are reminded to follow Christ's example of nourishing and cherishing the church. No one hates their own flesh; instead, they provide for and protect it. Nourisheth highlights the importance of nourishing the body to maturity, while cherisheth points to external fostering with tender care. By modeling Christ's love, husbands are called to provide for the physical and emotional needs of their wives. Just as Christ never hates the church, husbands should actively support and cherish their spouses, demonstrating Christ-like love in marriage.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8574283333707577,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.1,
+            "commentatorTierSimilarities": [
+                32.65,
+                31.26,
+                36.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:17:08",
+    "verseRef": "2 Corinthians 8:17",
+    "bestBHT": {
+        "bht": "Proof of Titus' readiness is evident as he is true he has been exhorted by me to go, but he shows that he has anticipated my desires, and already, 'of his own accord,' has desired to go, showing his genuine eagerness. He went forth unto you of his own accord, without needing pressing or much exhortation. Titus's willingness to go beyond what was asked of him displays his deep care and love for the Corinthians, making it clear that he was more forward and earnest than to require such prompting.",
+        "wordCount": 91,
+        "quoteTokenProportion": 47.69,
+        "qualityScore": 2.078728817963082,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+        "commentatorTierSimilarities": [
+            33.85,
+            34.72,
+            31.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Proof of this: that Titus received indeed Paul\u2019s exhortation to go to them (said, to show his subordination,\u2014or perhaps to authenticate his authorization by the Apostle), but in reality was too ready to go, to need any exhortation...\" (Quote 1)",
+            "...and therefore set forth (the past tense, indicating things which will have passed before the letter is received) of his own accord to them.\" (Quote 2)",
+            "Commendation of a brother sent with Titus.\" (Quote 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Being more forward\u2014more earnest than to need such exhortation.",
+            "He is true he has been exhorted by me to go, but he shows that he has anticipated my desires, and already, 'of his own accord,' has desired to go."
+        ],
+        "Albert Barnes": [
+            "He cheerfully complied with the exhortation which I gave him, to wit, to visit you, and excite you to this good work.",
+            "He was very ready to engage in this; he was more ready to engage in it than Paul was to exhort him to it; he anticipated his request; he had already resolved to engage in it.",
+            "He went voluntarily and without urging."
+        ],
+        "John Calvin": [
+            "His receiving the exhortation means that he had undertaken this business, from being exhorted to it by Paul.",
+            "Titus had not been so much influenced by the advice of others, as he had felt stirred up of his own accord.",
+            "in accordance with his active disposition."
+        ],
+        "Philip Schaff": [
+            "For indeed he accepted our exhortation (2 Corinthians 8:6) to go to Corinth on this errand",
+            "being himself very earnest, he went forth unto you of his own accord",
+            "needing no pressing from me."
+        ],
+        "Archibald T. Robertson": [
+            "Very earnest (\u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03b9\u03bf\u03c4\u03b5\u03c1\u03bf\u03c2). \"More earnest than ordinarily,\" comparative adjective. "
+        ],
+        "John Gill": [
+            "For indeed, he accepted the exhortation... he did not refuse, but readily accepted the exhortation: yea, not only so, but being more forward.\" ",
+            "which shows that this was put into his heart by God, before it was moved unto him; so that if he had never been asked, or exhorted hereunto, he would have gone of himself.",
+            "so great is his care of you; so great his love unto you so willing was he to come again and pay another visit."
+        ],
+        "John Wesley": [
+            "Being more forward \u2014 Than to need it, though he received it well."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Proof of Titus' readiness is seen in the fact that he not only received Paul's exhortation to go to the Corinthians, but he went of his own accord. He didn't need much prodding or urging; rather, he eagerly set forth to them. It is clear that Titus had a genuine desire to fulfill his mission, going above and beyond the call of duty, demonstrating his deep care and love for the Corinthians.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.840576420435327,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                30.43,
+                34.14,
+                35.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Proof of Titus' readiness is evident as he is true he has been exhorted by me to go, but he shows that he has anticipated my desires, and already, 'of his own accord,' has desired to go, showing his genuine eagerness. He went forth unto you of his own accord, without needing pressing or much exhortation. Titus's willingness to go beyond what was asked of him displays his deep care and love for the Corinthians, making it clear that he was more forward and earnest than to require such prompting.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.078728817963082,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+            "commentatorTierSimilarities": [
+                33.85,
+                34.72,
+                31.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Proof of Titus' genuine readiness is evident as he not only received Paul's exhortation, but he also went of his own accord to the Corinthians. Titus didn't require much urging or persuasion, as he was more earnest than ordinarily. His willingness to take the initiative in fulfilling his mission displays his deep care and love for the Corinthians. It is clear that Titus's eagerness went beyond expectations, making him an exemplary example of dedication and devotion.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.852066364384602,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.92,
+            "commentatorTierSimilarities": [
+                35.68,
+                31.62,
+                32.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Titus's genuine readiness is proven by the fact that he not only received Paul's exhortation but also went of his own accord to the Corinthians. Titus's eagerness was so great that he didn't even require much urging or persuasion, as he was more earnest than ordinarily. His proactive approach demonstrates his deep care and love for the Corinthians. Titus's willingness to go above and beyond what was asked of him sets him apart as a remarkable example of dedication and devotion.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8075618999056298,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.44,
+            "commentatorTierSimilarities": [
+                34.74,
+                30.99,
+                34.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Titus's genuine eagerness to serve is evident as he not only received Paul's exhortation, but also went of his own accord to the Corinthians. Without needing much urging, Titus's proactive approach showed his deep care and love for the Corinthians. He was more earnest than ordinarily, going above and beyond what was asked of him. Titus's willingness to take the initiative in fulfilling his mission serves as an inspiring example of dedication and devotion.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7963208025145998,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.07,
+            "commentatorTierSimilarities": [
+                32.51,
+                33.27,
+                34.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

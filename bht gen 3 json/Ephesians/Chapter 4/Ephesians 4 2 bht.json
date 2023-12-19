@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:31:32",
+    "verseRef": "Ephesians 4:2",
+    "bestBHT": {
+        "bht": "In this exhortation, we are urged to cultivate a humble and meek spirit, accepting God's dealings with humility and patiently giving others an opportunity to repent. By adorning the gospel with gentle virtues like meekness and forbearance, we demonstrate its power in our lives. Love is the essential ingredient that enables us to manifest true forbearance, allowing us to overlook and forgive the faults of others with patience and kindness.",
+        "wordCount": 71,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.1216427190867906,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.89,
+        "commentatorTierSimilarities": [
+            25.17,
+            40.21,
+            34.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Lowliness and meekness, accepting His dealings in humility.",
+            "Longsuffering consists in not taking swift vengeance, but leaving to an offender a place for repentance.",
+            "Forbearing one another in love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Gospel has elevated the word [lowliness] to express a Christian grace, namely, the esteeming of ourselves small, inasmuch as we are so; the thinking truly, and because truly, therefore lowlily, of ourselves.",
+            "Meekness is that spirit in which we accept God's dealings with us without disputing and resisting; and also the accepting patiently of the injuries done us by men, out of the thought that they are permitted by God for the chastening and purifying of His people.",
+            "It is only the lowly, humble heart that is also meek."
+        ],
+        "Albert Barnes": [
+            "Humility of mind becomes those who are 'called' and we walk worthy of that calling when we evince it.",
+            "We adorn the gospel when we show its power in enabling us to bear injuries without anger or a desire of revenge, or with a mild and forgiving spirit.",
+            "It is in such gentle and quiet virtues as meekness and forbearance, that the happiness and usefulness of life consist, far more than in brilliant eloquence, in splendid talent, or illustrious deeds, that shall send the name to future times."
+        ],
+        "Marvin Vincent": [
+            "Lowiness - meekness. See on Matthew 11:29; Matthew 5:5. ",
+            "Long - suffering. See on James 5:7. ",
+            "Forbearing [\u03b1\u03bd\u03b5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . See on Luke 9:41."
+        ],
+        "John Calvin": [
+            "Let us remember, therefore, that, in cultivating brotherly kindness, we must begin with humility.",
+            "By laying aside haughtiness and a desire of pleasing ourselves, we shall become meek and gentle, and acquire that moderation of temper which will overlook and forgive many things in the conduct of our brethren.",
+            "Where love is strong and prevalent, we shall perform many acts of mutual forbearance."
+        ],
+        "Philip Schaff": [
+            "'Lowliness,' humble submission to God, and a consequent mildness toward men as His instruments, as if to say: 'Have I been helped, then I do not know who should not be helped'.\" ",
+            "'Longsuffering' means, not taking swift vengeance, not inflicting speedy punishment, though it sometimes has the more general sense of 'forbearance.' It is meekness toward the sins of others, and the more difficult to exercise be-cause justice seems at times to be against it is promoted by recalling that we were called when sinners, that all our privileges are proofs of God\u2019s longsuffering.",
+            "'In love.' This is the element in which all true forbearance is manifested; without the Christian grace of love, it degenerates into indifference, but love 'is longsuffering'."
+        ],
+        "John Gill": [
+            "In the exercise of humility...in not envying the gifts and graces of others, but rejoicing at them, and at every increase of them.",
+            "With longsuffering; bearing much and long with the infirmities of each other; without being easily provoked to anger by any ill usage...",
+            "Forbearing one another in love; overlooking the infirmities of one another, forgiving injuries done, sympathizing with, and assisting each other in distressed circumstances..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Ephesians 4:2, we are called to cultivate lowliness and meekness, accepting God's dealings with humility, and demonstrating patience by giving others a chance to repent. This involves thinking of ourselves as small and submitting to God's will without disputing or resisting, even when faced with injuries from others. It is through a lowly and humble heart that we can truly exhibit meekness. By adorning the gospel with these gentle virtues such as meekness and forbearance, we show the power of the gospel in our lives. Love is the key element in which all true forbearance is manifested, allowing us to overlook and forgive the faults of others with patience and kindness.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 2.0056443834305857,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+            "commentatorTierSimilarities": [
+                26.06,
+                40.47,
+                33.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, we are called to cultivate lowliness and meekness, accepting God's dealings with humility. It involves patiently giving others a chance to repent and bearing injuries with a mild and forgiving spirit. By adorning the gospel with gentleness and forbearance, we show its power in our lives. Love is the key element in which true forbearance is manifested, allowing us to overlook and forgive the faults of others with patience and kindness.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.008534332577846,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                25.11,
+                39.48,
+                35.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this part of Scripture, we are encouraged to develop a humble and meek attitude, accepting God's dealings with humility. It entails having patience and giving others space to repent, rather than seeking swift vengeance. By adorning the gospel with gentle virtues such as meekness and forbearance, we demonstrate its transformative power in our lives. Love is the essential component that allows us to manifest true forbearance, enabling us to overlook and forgive the shortcomings of others with patience and kindness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.047423089298223,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+            "commentatorTierSimilarities": [
+                25.71,
+                40.73,
+                33.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, we are called to cultivate a humble and meek spirit, accepting God's dealings with humility and patiently giving others an opportunity to repent. By adorning the gospel with gentle virtues like meekness and forbearance, we demonstrate its power in our lives. Love is the key ingredient that enables us to manifest true forbearance, allowing us to overlook and forgive the faults of others with patience and kindness.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.130445608673262,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                25.0,
+                40.81,
+                34.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this exhortation, we are urged to cultivate a humble and meek spirit, accepting God's dealings with humility and patiently giving others an opportunity to repent. By adorning the gospel with gentle virtues like meekness and forbearance, we demonstrate its power in our lives. Love is the essential ingredient that enables us to manifest true forbearance, allowing us to overlook and forgive the faults of others with patience and kindness.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.1216427190867906,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.89,
+            "commentatorTierSimilarities": [
+                25.17,
+                40.21,
+                34.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

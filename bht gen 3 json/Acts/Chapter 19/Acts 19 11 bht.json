@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:33:34",
+    "verseRef": "Acts 19:11",
+    "bestBHT": {
+        "bht": "God worked through Paul to perform miracles that were no ordinary kind. These were special miracles, not the ones that happen by chance or the ordinary ones. The power of God was so great that even garments taken from Paul were endowed with miraculous power. The miracles performed by Paul were remarkable and uncommon, completely different from the deeds of the Jewish exorcists. Paul faced unseen forces of evil and his tremendous success led some to superstitious practices, believing in the power that resided in him.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.3920639915404136,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.88,
+        "commentatorTierSimilarities": [
+            29.27,
+            34.14,
+            36.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "miracles of no ordinary kind.",
+            "even garments taken from him were endued with miraculous power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "11, 12. God wrought special\u2014no",
+            "\tordinary ",
+            "\t",
+            "miracles by the hands of",
+            "\tPaul\u2014implying that he had not been accustomed to work such."
+        ],
+        "Albert Barnes": [
+            "Special miracles - Miracles that were remarkable; that were not common, or that were very unusual.\" ",
+            "This expression is Classical Greek.\" ",
+            "Longinus says of Moses that he was no common man - \u03bf\u03c5\u0313\u03c7 \u0313 \u03bf\u0314 \u03c4\u03c5\u0301\u03c7\u03c9\u03bd \u03b1\u0313\u03bd\u03b7\u0301\u03c1 ouch ho tucho\u0304n ane\u0304r."
+        ],
+        "Marvin Vincent": [
+            "Special [\u03bf\u03c5 \u03c4\u03b1\u03c2 \u03c4\u03c5\u03c7\u03bf\u03c5\u03c3\u03b1\u03c2] . A peculiar expression. Lit., not usual or common, such as one might fall in with frequently."
+        ],
+        "John Calvin": [
+            "For it is a common speech, That wonders and signs are showed by the hand of men. So that the praise thereof is ascribed to God alone as to the author; and man is only the minister.",
+            "And whereas God did heal the sick with Paul\u2019s handkerchiefs, it tended to that end, that even those who had never seen the man might, notwithstanding, reverently embrace his doctrine, though he himself were absent.",
+            "For which cause the Papists are more blockish, who wrest this place unto their relics; as if Paul sent his handkerchiefs that men might worship them and kiss them \u2212 (368) in honor of them; as in Papistry, they worship Francis\u2019 shoes and mantle, Rose\u2019s girdle, Saint Margaret\u2019s comb, and such like trifles."
+        ],
+        "Philip Schaff": [
+            "God wrought special miracles by the hands of Paul.\" ",
+            "Special, uncommon, extraordinary, because they were performed without the personal agency and not in the presence of the apostle.\" ",
+            "We have had no record of any miracle worked by Paul since he healed the possessed slave first at Philippi some five years before."
+        ],
+        "Archibald T. Robertson": [
+            "Powers not the ones that happen by chance,\" \"not the ordinary ones,\" litotes for 'the extraordinary.'",
+            "God regularly wrought wonders beyond those familiar to the disciples and completely different from the deeds of the Jewish exorcists.",
+            "Paul faces unseen forces of evil. His tremendous success led some people to superstitious practices thinking that there was power in Paul's person."
+        ],
+        "John Gill": [
+            "God wrought special miracles by the hands of Paul.",
+            "These were not any sort of miracles, common and vulgar ones.",
+            "They were rare and uncommon ones, and in which there was a visible display of the power of God."
+        ],
+        "John Wesley": [
+            "Special miracles \u2014 Wrought in a very uncommon manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God worked through Paul to perform miracles that were no ordinary kind. The power of God was so immense that even garments taken from Paul possessed miraculous power. These were not the ordinary miracles that one might come across frequently, but rather special and extraordinary ones that were beyond the familiar deeds of the disciples and the exorcists. The tremendous success of Paul in facing the unseen forces of evil led some to superstitious practices, thinking that there was power in Paul's person. These special miracles were not just remarkable, but truly uncommon and in which the power of God was visibly displayed.",
+            "wordCount": 104,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.425584224847505,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.99,
+            "commentatorTierSimilarities": [
+                28.99,
+                33.92,
+                37.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God worked through Paul to perform miracles that were no ordinary kind. The power of God was so immense that even garments taken from Paul possessed miraculous power. These were not the ordinary miracles that one might come across frequently, but rather special and extraordinary ones that were beyond the familiar deeds of the disciples and the exorcists. The tremendous success of Paul in facing the unseen forces of evil led some to superstitious practices, thinking that there was power in Paul's person.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.382952673667016,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.57,
+            "commentatorTierSimilarities": [
+                30.35,
+                33.98,
+                35.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God worked through Paul to perform miracles that were no ordinary kind. These were special miracles, not the ones that happen by chance or the ordinary ones. The power of God was so great that even garments taken from Paul were endowed with miraculous power. The miracles performed by Paul were remarkable and uncommon, completely different from the deeds of the Jewish exorcists. Paul faced unseen forces of evil and his tremendous success led some to superstitious practices, believing in the power that resided in him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.3920639915404136,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.88,
+            "commentatorTierSimilarities": [
+                29.27,
+                34.14,
+                36.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God worked through Paul to perform special miracles that were beyond the ordinary. Even garments taken from him possessed miraculous power. These extraordinary miracles demonstrated the power of God and were different from the deeds of the Jewish exorcists. Paul's success in facing unseen forces of evil led some to engage in superstitious practices, thinking there was power in his person. These miracles were not common or frequent, but rather rare and uncommon, displaying a visible manifestation of God's extraordinary power.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.3329361408566056,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.91,
+            "commentatorTierSimilarities": [
+                30.41,
+                32.59,
+                37.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God worked through Paul to perform special miracles that were not ordinary or common. These miracles were beyond the familiar deeds of the disciples and the Jewish exorcists. The power of God was so immense that even garments taken from Paul possessed miraculous power. However, it is important to note that these extraordinary miracles were not due to any power within Paul himself, but were a result of God's work. The unique nature of these miracles led some to engage in superstitious practices, mistakenly believing in the power residing in Paul.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.378279435734811,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.42,
+            "commentatorTierSimilarities": [
+                27.91,
+                34.98,
+                37.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

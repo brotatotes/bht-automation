@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:23:14",
+    "verseRef": "Luke 23:6",
+    "bestBHT": {
+        "bht": "The mention of being a Galilean in the quote suggests a potential escape route for Herod. If the individual truly belongs to Galilee, it falls under Herod's jurisdiction, enabling him to evade a difficult decision. The significance of Galilee is further accentuated by the individual's upbringing and the place where their public ministry primarily took place.",
+        "wordCount": 58,
+        "quoteTokenProportion": 38.64,
+        "qualityScore": 1.5864967393734695,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.09,
+        "commentatorTierSimilarities": [
+            31.72,
+            34.2,
+            34.07
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Whether he were a Galilean - He asked this because, if he was, he properly belonged to Herod\u2019s jurisdiction, who reigned over Galilee."
+        ],
+        "Marvin Vincent": [
+            "Of Galilee. The best texts omit."
+        ],
+        "Philip Schaff": [
+            "Luke 23:6. Heard it; probably the name Galilee.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "A Galilean (\u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u03b9\u03bf\u03c2). If so, here was a way out for Herod without going back on his own decision. "
+        ],
+        "John Gill": [
+            "The name of Galilee",
+            "He was brought up at Nazareth in Galilee",
+            "His public ministry was chiefly exercised in those parts"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in question mentions that the person being discussed is a Galilean, suggesting that Herod might have seen this as a way to avoid making a difficult decision. The second-tier commentary adds that if the person is indeed from Galilee, then it falls under Herod's jurisdiction. The third-tier commentary further emphasizes the significance of Galilee in relation to the person being discussed, noting their upbringing and the location of their public ministry.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.5286272834313737,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.17,
+            "commentatorTierSimilarities": [
+                30.24,
+                36.49,
+                33.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mention of being a Galilean in the passage raises the possibility for Herod to avoid making a decision. If the individual is indeed from Galilee, it falls under Herod's jurisdiction. This connection to Galilee is further highlighted by the person's upbringing and where their public ministry took place.",
+            "wordCount": 51,
+            "quoteTokenProportion": 46.34,
+            "qualityScore": 1.6935042509984504,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.65,
+            "commentatorTierSimilarities": [
+                32.55,
+                33.47,
+                33.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of being a Galilean in the verse allows Herod to potentially evade a difficult decision. If the individual truly hails from Galilee, it would fall within Herod's jurisdiction. The significance of Galilee is underscored by the person's upbringing and the location of their public ministry.",
+            "wordCount": 49,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.7251139567293066,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                33.24,
+                34.29,
+                32.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mention of being a Galilean in the passage offers Herod a possible way out. If the individual is indeed from Galilee, it falls under Herod's jurisdiction, allowing him to avoid making a tough decision. The importance of Galilee is further emphasized by the individual's upbringing and the location of their public ministry.",
+            "wordCount": 55,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.643558915698786,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+            "commentatorTierSimilarities": [
+                34.24,
+                30.73,
+                35.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of being a Galilean in the quote suggests a potential escape route for Herod. If the individual truly belongs to Galilee, it falls under Herod's jurisdiction, enabling him to evade a difficult decision. The significance of Galilee is further accentuated by the individual's upbringing and the place where their public ministry primarily took place.",
+            "wordCount": 58,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.5864967393734695,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.09,
+            "commentatorTierSimilarities": [
+                31.72,
+                34.2,
+                34.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

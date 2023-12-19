@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:14:11",
+    "verseRef": "Luke 2:14",
+    "bestBHT": {
+        "bht": "The birth of the Savior brings forth both glory to God and peace on earth. This hymn of glory signifies the magnificent work of the Savior. The peace mentioned here is not merely an outward harmony among people, but rather the inner tranquility that comes from being reconciled with God. It is a gift from God, an expression of love and goodwill towards humanity. Through the Savior, peace and salvation are bestowed upon those who are the subjects of God's good-pleasure.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.3237622917625256,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.61,
+        "commentatorTierSimilarities": [
+            29.53,
+            38.31,
+            32.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There can be no doubt that the sense of both these is included.",
+            "The only admissible rendering is, \u2018Among men of God\u2019s good pleasure,\u2019",
+            "Among the elect people of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'glory to God,' which the new-born 'Saviour' was to bring, is the first note of this sublime hymn.",
+            "Peace\" with God is the grand necessity of a fallen world.",
+            "To bring in this, and all other peace in its train, was the prime errand of the Saviour to this earth."
+        ],
+        "Albert Barnes": [
+            "The plan of redemption will bring glory to God, and is designed to express his glory. This it does by evincing his love to people, his mercy, his condescension, and his regard to the honor of his law and the stability of his own government.",
+            "The Saviour was predicted as the Prince of peace... By reconciling the world to God by His atonement... By bringing the sinner to a state of peace with his Maker... By diffusing in the heart universal good-will to people... And by diffusing the principles of universal peace among nations.",
+            "The gift of the Saviour is an expression of good-will or love to people, and therefore God is to be praised... No words can express the greatness of that love. It can only be measured by the 'misery, helplessness,' and 'danger' of man..."
+        ],
+        "Marvin Vincent": [
+            "Peace, good will toward men.\" - Both Tischendorf and Westcott and Hort read eujdokiav, which the Rev. follows. ",
+            "According to this the rendering is, unto men of good pleasure, or as Rev., among men in whom he is well pleased.\" ",
+            "Wyc., to men of good will."
+        ],
+        "John Calvin": [
+            "Whenever our salvation is mentioned, we should understand that a signal has been given, to excite us to thanksgiving and to the praises of God.",
+            "They [the angels] certainly do not speak of an outward peace cultivated by men with each other; but they say, that the earth is at peace, when men have been reconciled to God, and enjoy an inward tranquillity in their own minds.",
+            "Let us then remember, that faith is seated amidst the storms of temptations, amidst various dangers, amidst violent attacks, amidst contests and fears, that our faith may not fail or be shaken by any kind of opposition."
+        ],
+        "Philip Schaff": [
+            "Let there be, or there is (both ideas being included), glory to God among the angels in heaven for sending the Messiah, and peace (in the widest sense, salvation) on earth among men in whom He is well pleased, i.e., His chosen people.",
+            "God's mercy and God's sovereignty, thus meeting in the Babe of Bethlehem, are celebrated by the heavenly host.",
+            "The personal dignity of the Redeemer is supported by this Gloria in Excelsis, while Christ's work in bringing 'peace on earth among men of God's good-pleasure' upholds the truthfulness of this story of the angels' song at His birth."
+        ],
+        "Archibald T. Robertson": [
+            "Glory and Peace correspond, in the highest and on earth, to God and among men of goodwill.",
+            "Real peace on earth exists only among those who are the subjects of God's goodwill, who are characterized by goodwill toward God and man.",
+            "The word \u03b5\u03c5\u03b4\u03bf\u03ba\u03b9\u03b1 we have already had in Matthew 11:26. It does not occur in the ancient Greek. The word is confined to Jewish and Christian writings, though the papyri furnish instances of \u03b5\u03c5\u03b4\u03bf\u03ba\u03b7\u03c3\u03b9\u03c2."
+        ],
+        "John Gill": [
+            "Glory to God in the highest...the glory of which is his main view, and is hereby answered...Great glory from hence arises to God.\" ",
+            "Christ himself is here intended, who is called 'the man, the peace' and 'our peace'...to make peace with God, and reconciliation for the sins of the people.\" ",
+            "Moreover, Christ may be said to be 'peace', because he is the donor of all true solid peace and real prosperity...eternal, which they shall have forever with him in the world to come."
+        ],
+        "John Wesley": [
+            "Glory be to God in the highest heavens: let all the angelic legions resound his praises.",
+            "With the Redeemer's birth, peace, and all kind of happiness, come down to dwell on earth.",
+            "The overflowings of Divine good will and favour are now exercised toward men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of bringing peace on earth and glory to God, expressions of God's good-will and pleasure towards humanity. The glory to God reflects the majestic hymn that accompanies the birth of the Savior, while peace emphasizes the need for reconciliation with God. This peace, which the Savior came to bring, extends to those who are characterized by goodwill towards God and others. It is the gift of God's love and mercy, expressed through the plan of redemption, and it evokes gratitude and praise. Ultimately, the verse highlights the personal dignity of the Redeemer and the truthfulness of the angels' song, confirming that through Christ, peace and salvation are bestowed upon those who are the objects of God's good-pleasure.",
+            "wordCount": 125,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 2.4664822032347082,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.35,
+            "commentatorTierSimilarities": [
+                27.93,
+                41.37,
+                30.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The birth of the Savior brings forth both glory to God and peace on earth. This hymn of glory signifies the magnificent work of the Savior. The peace mentioned here is not merely an outward harmony among people, but rather the inner tranquility that comes from being reconciled with God. It is a gift from God, an expression of love and goodwill towards humanity. Through the Savior, peace and salvation are bestowed upon those who are the subjects of God's good-pleasure.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.3237622917625256,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.61,
+            "commentatorTierSimilarities": [
+                29.53,
+                38.31,
+                32.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The birth of the Savior brings glory to God and peace on earth. This hymn of glory reveals the grandeur of the Savior's mission. The peace spoken of here extends beyond mere worldly tranquility, but encompasses the inward serenity that comes from reconciliation with God. It is a divine gift, an expression of God's love and goodwill towards humanity. Through the Savior, peace and salvation are bestowed upon those who are the objects of God's pleasure and chosen by Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.275632607941694,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.01,
+            "commentatorTierSimilarities": [
+                28.39,
+                39.59,
+                32.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The birth of the Savior heralds glory to God and peace on earth. The hymn of glory signifies the magnitude of the Savior's purpose. The peace mentioned here is not merely external harmony among people, but the inner tranquility that stems from reconciliation with God. It is a divine gift, an expression of God's love and goodwill towards humanity. Through the Savior, peace and salvation are bestowed upon those who are the chosen ones, favored by God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.2674721833606952,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.73,
+            "commentatorTierSimilarities": [
+                29.18,
+                38.67,
+                32.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The birth of the Savior brings glory to God and peace on earth. This hymn of glory signifies the majestic nature of the Savior's mission. The peace mentioned is not superficial, but rather the inner tranquility that results from reconciliation with God. It is a gift from God, expressing his love and goodwill towards humanity. Through the Savior, peace and salvation are granted to those who are characterized by goodwill towards God and others, chosen by Him. The angels resound with praises for God's overflowing good-will and favor extended to mankind.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.2994085819593764,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.8,
+            "commentatorTierSimilarities": [
+                29.7,
+                38.64,
+                31.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

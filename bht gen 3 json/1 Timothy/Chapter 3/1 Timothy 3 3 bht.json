@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:28:11",
+    "verseRef": "1 Timothy 3:3",
+    "bestBHT": {
+        "bht": "A leader in the church should not be prone to excessive wine consumption or the quarrels and violence that often accompany it. Similarly, they should not have a love for money, but rather demonstrate a gentle and forgiving character. It is important for a bishop or elder to possess a reasonable temper, not insisting on personal rights or satisfaction for perceived injuries. This caution about the use of wine highlights its tendency to cause contention and strife.",
+        "wordCount": 77,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.7752881415548356,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+        "commentatorTierSimilarities": [
+            25.12,
+            36.07,
+            38.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A man rendered petulant by much wine.",
+            "The character, rather than the mere fact, of the circumstance.",
+            "The negative one of abstinence from love of money."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not given to wine\u2014The Greek includes besides this, not indulging in the brawling, violent conduct towards others, which proceeds from being given to wine."
+        ],
+        "Albert Barnes": [
+            "It means that one who is in the habit of drinking wine, or who is accustomed to sit with those who indulge in it, should not be admitted to the ministry.",
+            "This is connected with the caution about the use of wine, probably, because that is commonly found to produce a spirit of contention and strife.",
+            "There is an instinctive feeling in the human bosom that such a man ought to be actuated by a nobler and a purer principle."
+        ],
+        "Marvin Vincent": [
+            "Given to wine. Better, quarrelsome over wine.",
+            "Striker. Some soften down the meaning into a pugnacious or combative person.",
+            "Not unduly rigorous; not making a determined stand for one's just due."
+        ],
+        "John Calvin": [
+            "By the word \u03c0\u1f71\u03c1\u03bf\u03b9\u03bd\u03bf\u03bd, (56) which is here used, the Greeks denote not merely drunkenness, but any intemperance in guzzling wine.",
+            "The true interpretation is that which is given by Chrysostom, that men of a drunken and fierce disposition ought to be excluded from the office of a bishop.",
+            "Mild \u2014 which, we have said, is contrasted with being 'addicted to wine' \u2014 is the term applied to him who knows how to bear injuries with a gentle and moderate disposition, who forgives much, who passes by insults."
+        ],
+        "Philip Schaff": [
+            "The words imply that in the haste of the early organization of the Church, mistakes had been made which invested even such characters as those described with the office of a bishop or elder.\" (1 Timothy 3:3)",
+            "The passing allusion in 2 Corinthians 11:20 ('If a man smite you on the face') indicates that some of St. Paul\u2019s personal antagonists had had recourse to this form of argument, as well as to slander and self-assertion.\" (1 Timothy 3:3)",
+            "The reasonable temper which does not insist even on actual rights, and still less on satisfaction for real or supposed injuries.\" (1 Timothy 3:3)"
+        ],
+        "Archibald T. Robertson": [
+            "No brawler (\u03bc\u03b7 \u03c0\u03b1\u03c1\u03bf\u03b9\u03bd\u03bf\u03bd). Later word for the earlier \u03c0\u03b1\u03c1\u03bf\u03b9\u03bd\u03b9\u03bf\u03c2, one who sits long at (beside, \u03c0\u03b1\u03c1\u03b1) his wine.\" ",
+            "No striker (\u03bc\u03b7 \u03c0\u03bb\u03b7\u03ba\u03c4\u03b7\u03bd). Late word from \u03c0\u03bb\u03b7\u03c3\u03c3\u03c9, to strike.\" ",
+            "No lover of money (\u03b1\u03c6\u03b9\u03bb\u03b1\u03c1\u03b3\u03c5\u03c1\u03bf\u03bd). Late word (\u03b1 privative and compound \u03c6\u03b9\u03bb-\u03b1\u03c1\u03b3\u03c5\u03c1\u03bf\u03c2) in inscriptions and papyri."
+        ],
+        "John Gill": [
+            "One that does not sit at it, or is continually drinking it, and is intemperate in the use of it...one that is not given to much wine...not addicted to it, or a follower of it.",
+            "Not one who is nimble and ready at it, who no sooner is abused or injured, but he lifts up his hands and strikes; is but a word and a blow...not wounding with his tongue; being too sharp and severe in the admonitions and reproofs of weak brethren, or fallen believers.",
+            "Not covetous of getting money, of amassing wealth and riches together; or desirous of popular applause and glory from men...one who patiently bears all reproaches and injuries, puts up with affronts, and gives up what is his right and due, rather than contend, quarrel, and strike."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A leader in the church should not be someone who is excessively consumed by wine or prone to quarrels and violence that arises from drinking. They should also not be a lover of money, but rather exhibit a gentle and forgiving character. The mention of wine is connected to its tendency to cause contention and strife. This verse implies that in the early organization of the Church, some individuals lacking the qualities described were mistakenly appointed to positions of authority. It is important for a bishop or elder to possess a reasonable temper, one that does not insist on personal rights or satisfaction for perceived injuries.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.7286800212820455,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                25.42,
+                37.57,
+                37.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A leader in the church should not be prone to excessive wine consumption or the quarrels and violence that often accompany it. Similarly, they should not have a love for money, but rather demonstrate a gentle and forgiving character. It is important for a bishop or elder to possess a reasonable temper, not insisting on personal rights or satisfaction for perceived injuries. This caution about the use of wine highlights its tendency to cause contention and strife.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7752881415548356,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                25.12,
+                36.07,
+                38.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A leader in the church should not be given to wine or engage in brawling behavior that often stems from drinking. They should also not be a lover of money, demonstrating an absence of greed. Rather, they should exhibit a gentle and forgiving disposition, not insisting on personal rights and willing to bear with insults and injuries. This verse implies that mistakes were made in the early organization of the Church, potentially appointing individuals with unworthy characteristics to positions of authority. The caution regarding wine signifies its association with contention and strife.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.713524578212779,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+            "commentatorTierSimilarities": [
+                28.7,
+                35.12,
+                36.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A leader in the church should not be given to wine or engage in brawling behavior that often stems from drinking. They should also not be a lover of money, demonstrating an absence of greed. Rather, they should exhibit a gentle and forgiving disposition, not insisting on personal rights and willing to bear with insults and injuries. This verse implies that mistakes were made in the early organization of the Church, potentially appointing individuals with unworthy characteristics to positions of authority. The caution regarding wine signifies its association with contention and strife.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.713524578212779,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+            "commentatorTierSimilarities": [
+                28.7,
+                35.12,
+                36.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A leader in the church should not be given to wine or engage in brawling behavior that often stems from drinking. They should also not be a lover of money, demonstrating an absence of greed. Rather, they should exhibit a gentle and forgiving disposition, not insisting on personal rights and willing to bear with insults and injuries. This verse implies that mistakes were made in the early organization of the Church, potentially appointing individuals with unworthy characteristics to positions of authority. The caution regarding wine signifies its association with contention and strife.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.713524578212779,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+            "commentatorTierSimilarities": [
+                28.7,
+                35.12,
+                36.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

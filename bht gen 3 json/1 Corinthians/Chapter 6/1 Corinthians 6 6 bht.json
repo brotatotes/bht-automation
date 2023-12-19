@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 15:04:01",
+    "verseRef": "1 Corinthians 6:6",
+    "bestBHT": {
+        "bht": "It is clear that Christians going to court against one another was viewed as highly problematic. The fact that there were disputes among them over worldly matters was already bad, but to escalate those disputes by taking them before unbelievers was considered even worse. It was seen as shameful and demonstrated a lack of faith in Christ and the Gospel. The Corinthians were encouraged to settle their disputes among themselves rather than relying on secular courts. By doing so, they would exhibit a different way of resolving conflicts that was rooted in their faith and unity as believers.",
+        "wordCount": 98,
+        "quoteTokenProportion": 47.22,
+        "qualityScore": 1.5906406755285996,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+        "commentatorTierSimilarities": [
+            20.76,
+            33.46,
+            45.78
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] (It seems not to be so): nay, &c,, as implied in ver. 1."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. But\u2014emphatically answering",
+            "\tthe question in the end of 1 Corinthians 6:5",
+            "\tin the negative. Translate, \"Nay,\" &amp;c."
+        ],
+        "Albert Barnes": [
+            "One Christian goes to law with another. This is designed as a reproof. This was wrong.",
+            "The Christians might have availed themselves of this permission to have settled their disputes in the same manner.",
+            "Credibility, vol. 1:p. 165."
+        ],
+        "Marvin Vincent": [
+            "Goeth to law [\u03ba\u03c1\u03b9\u03bd\u03b5\u03c4\u03b1\u03b9] . As in ver. 1, and Matthew 5:40. Instead of accepting arbitration."
+        ],
+        "Archibald T. Robertson": [
+            "That there should be disputes about \u03b2\u03b9\u03c9\u03c4\u03b9\u03ba\u03b1 is bad.",
+            "That Christian should go to law with Christian is worse.",
+            "That Christians should do this before unbelievers is worst of all."
+        ],
+        "John Gill": [
+            "A very wicked and shameful thing it was, that persons in such a relation, being of such a family, should go to law with one another at all.",
+            "The apostle before calls them 'unjust', now 'infidels', such as had no faith in Christ, disbelieved the Messiah, and denied the whole Gospel.",
+            "Generally speaking, such as have no faith, are not only wicked, but unreasonable men, men of no reason, conscience, justice, and equity; and therefore very improper persons for believers to bring their causes before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is clear that Christians going to court against one another was viewed as highly problematic. The fact that there were disputes among them over worldly matters was already bad, but to escalate those disputes by taking them before unbelievers was considered even worse. It was seen as shameful and demonstrated a lack of faith in Christ and the Gospel. The Corinthians were encouraged to settle their disputes among themselves rather than relying on secular courts. By doing so, they would exhibit a different way of resolving conflicts that was rooted in their faith and unity as believers.",
+            "wordCount": 98,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.5906406755285996,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+            "commentatorTierSimilarities": [
+                20.76,
+                33.46,
+                45.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians' practice of Christians going to court against one another was seen as highly problematic. Disputes over worldly matters were already bad, but escalating them by taking them before unbelievers was considered even worse. This lack of faith in Christ and the Gospel was seen as shameful. Instead, they were encouraged to settle their disputes among themselves, demonstrating a different way of conflict resolution rooted in their faith and unity as believers.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5747397964835166,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+            "commentatorTierSimilarities": [
+                20.83,
+                31.39,
+                47.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians' practice of Christians going to court against one another was deemed problematic. Disputes over worldly matters were already bad, but escalating them by taking them before unbelievers was considered even worse. This lack of faith in Christ and the Gospel was seen as shameful. They were advised to settle their disputes among themselves, showing a different approach to conflict resolution rooted in their faith and unity as believers.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5758669439614648,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.74,
+            "commentatorTierSimilarities": [
+                21.25,
+                32.72,
+                46.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians' practice of Christians going to court against one another was viewed as highly problematic. It was considered bad that there were disputes among them over worldly matters, but to escalate those disputes by taking them before unbelievers was seen as even worse. Such actions were deemed shameful and indicated a lack of faith in Christ and the Gospel. Instead, they were urged to settle their disputes internally, exhibiting a different approach to conflict resolution that reflected their faith and unity as believers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.5408931106946269,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.58,
+            "commentatorTierSimilarities": [
+                20.73,
+                30.09,
+                49.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians' practice of Christians going to court against one another was viewed as problematic. Escalating disputes by involving unbelievers was considered even worse. Such actions were deemed shameful, indicating a lack of faith in Christ and the Gospel. They were urged to settle disputes internally, reflecting a different approach to conflict resolution that aligned with their faith and unity.",
+            "wordCount": 60,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.5522465034540485,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.95,
+            "commentatorTierSimilarities": [
+                23.68,
+                34.47,
+                41.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

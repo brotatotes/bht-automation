@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:06:31",
+    "verseRef": "Romans 8:4",
+    "bestBHT": {
+        "bht": "Through the sanctification of our redemption, the aim of God in giving the Law is fulfilled in us, accomplished by His grace. It is not our own work, but that of God's by His Grace, that allows us to walk in the Spirit and not according to the flesh, thus fulfilling the righteousness of the law. The Spirit, renewing our mind and actuated by the Holy Ghost, guides us to confess, know God's love, and experience peace and joy in faith and hope.",
+        "wordCount": 85,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 2.378322745940606,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.42,
+        "commentatorTierSimilarities": [
+            36.25,
+            26.72,
+            37.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the aim of God in giving the Law might be accomplished in us, in our sanctification, which is the ultimate end of our redemption",
+            "The passive is used, to shew that the work is not ours, but that of God by His Grace",
+            "who, notwithstanding that we are bound up with a flesh of sin, do not walk in our daily life according to, or led by, the law of sin which is in our members, but according to and led by the law of the Spirit of life in Christ Jesus"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That the righteousness of the law... might be fulfilled in us.\" ",
+            "who walk... not after... the flesh, but after the spirit.\" ",
+            "what is more immediately intended by 'the spirit' here is our own mind as renewed and actuated by the Holy Ghost."
+        ],
+        "Albert Barnes": [
+            "That we might be conformed to the Law, or be obedient to its requirements, and no longer under the influence of the flesh and its corrupt desires.",
+            "That we might be obedient, or comply with its demands.",
+            "Who walk."
+        ],
+        "Marvin Vincent": [
+            "The Spirit [\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1]...In the Old Testament it is ordinarily the translation of ruach. It is also used to translate chai life...In the New Testament it occurs in the sense of wind or breath...But while yuch soul, is represented as the subject of life, pneuma spirit, represents the principle of life...\" (100 words)",
+            "The divine power or influence belonging to God, and communicated in Christ to men, in virtue of which they become \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03bf\u03b9\u0301 spiritual - recipients and organs of the Spirit. This is Paul's most common use of the word.\" (69 words)",
+            "It reveals itself in confession; in the consciousness of sonship; in the knowledge of the love of God; in the peace and joy of faith; in hope. It leads believers; they serve in newness of the Spirit; They walk after the Spirit. Through the Spirit they are sanctified.\" (61 words)"
+        ],
+        "John Calvin": [
+            "When the obedience of Christ is accepted for us, the law is satisfied, so that we are counted just.",
+            "But as Christ communicates his righteousness to none but to those whom he joins to himself by the bond of his Spirit, the work of renewal is again mentioned.",
+            "There is nothing decisive in the wording of this verse, though the cast of the expressions seem more favorable to the idea entertained by [Doddridge ] and [Scott ], and especially what follows in the context, where the work of the Spirit is exclusively spoken of."
+        ],
+        "Philip Schaff": [
+            "That the righteousness of the law... means the actual holiness of the believer.",
+            "The fulfilment is wrought by God.",
+            "He walks according to the Spirit, who follows the guidance, the impelling and regulating power of the Holy Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "The requirement of the law.",
+            "Christ met it all in our stead.",
+            "The two laws of life."
+        ],
+        "John Gill": [
+            "By Christ's obedience to it we are made righteous, and this gives the title to eternal life.\" ",
+            "This is not fulfilled by us in our own persons, nor can it be; could it, where would be the weakness of the law?\" ",
+            "This is to be understood of the righteousness of the law fulfilled by Christ, and imputed to us."
+        ],
+        "John Wesley": [
+            "That the righteousness of the law... Might be fulfilled in us, who walk not after the flesh, but after the Spirit.\" ",
+            "Who are guided in all our thoughts, words, and actions, not by corrupt nature, but by the Spirit of God.\" ",
+            "From this place St. Paul describes primarily the state of believers, and that of unbelievers only to illustrate this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the sanctification that comes with God's grace, we are able to fulfill the righteousness of the law. Though we are bound by our sinful flesh, we are not led by the law of sin, but rather by the law of the Spirit. The term spirit here refers to our renewed mind, guided by the Holy Spirit. The Spirit reveals itself in confession, in the consciousness of our adoption as sons and daughters, in the knowledge of God's love, in the peace and joy of faith, and in hope. By walking after the Spirit, we are sanctified and serve in newness of life. It is through Christ's obedience that the requirement of the law is satisfied and we are made righteous. This fulfillment is not achieved by our own efforts, but by God's work through Christ.",
+            "wordCount": 140,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 2.2120559214989752,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.89,
+            "commentatorTierSimilarities": [
+                34.58,
+                27.43,
+                37.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the sanctification of our redemption, we fulfill the righteousness of the law by not walking according to the flesh, but by the Spirit. Our renewed mind, actuated by the Holy Spirit, leads us to confess, know God's love, and experience peace and joy in faith and hope. Christ's obedience satisfies the requirement of the law, making us righteous. This fulfillment is not our work, but God's work through Christ, enabling us to serve in newness of life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.2640201956666397,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.62,
+            "commentatorTierSimilarities": [
+                34.2,
+                28.28,
+                37.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the sanctification of our redemption, we fulfill the righteousness of the law by not walking according to the flesh, but by the Spirit. Our renewed mind, actuated by the Holy Spirit, leads us to confess, know God's love, and experience peace and joy in faith and hope. Christ's obedience satisfies the requirement of the law, making us righteous. This fulfillment is not our work, but God's work through Christ, enabling us to serve in newness of life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.2640201956666397,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.62,
+            "commentatorTierSimilarities": [
+                34.2,
+                28.28,
+                37.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the sanctification of our redemption, God's aim in giving the Law is accomplished in us. It is His grace that works in us, allowing us to fulfill the righteousness of the law by walking not after the flesh, but after the Spirit. The Spirit, acting through our renewed mind, prompts us to confess, experience the love of God, and find peace and joy in faith. Christ's obedience fulfills the requirement of the law on our behalf, making us righteous and enabling us to serve in newness of life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.298351272256906,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.76,
+            "commentatorTierSimilarities": [
+                35.11,
+                27.64,
+                37.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the sanctification of our redemption, the aim of God in giving the Law is fulfilled in us, accomplished by His grace. It is not our own work, but that of God's by His Grace, that allows us to walk in the Spirit and not according to the flesh, thus fulfilling the righteousness of the law. The Spirit, renewing our mind and actuated by the Holy Ghost, guides us to confess, know God's love, and experience peace and joy in faith and hope.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.378322745940606,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.42,
+            "commentatorTierSimilarities": [
+                36.25,
+                26.72,
+                37.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

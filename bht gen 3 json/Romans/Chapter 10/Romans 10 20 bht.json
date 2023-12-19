@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:08:02",
+    "verseRef": "Romans 10:20",
+    "bestBHT": {
+        "bht": "Isaiah boldly declared that he was found by those who did not seek him and made manifest to those who did not ask after him. This prophetic declaration highlights the calling of the Gentiles, as God revealed himself to a nation that was not called by his name. Paul, inspired by Isaiah's audacity, courageously referenced this testimony to affirm the inclusion of the Gentiles in God's divine plan. Isaiah's fearless proclamation reveals the expansive nature of God's mercy and the transformative impact of his grace.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.047999896045045,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+        "commentatorTierSimilarities": [
+            25.36,
+            36.93,
+            37.71
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But (even more than this: there is stronger testimony yet) Isaiah is very bold and saith, I was found by those who sought me not; I became manifest to those who asked not after me.\" (quote 20.)",
+            "De Wette und other modern Commentators have maintained that Isa, lxv. 1 is spoken of the Jews, and not of the Gentiles; their main argument for this view being the connexion of ch. lxiv. and lxv.\" (quote 20.)",
+            "'The nation which was not called by my Name,' in lxv. 1, can only primarily mean the Gentiles.\" (quote 20.)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I was found of them that sought me not\u2014until I sought them.\" ",
+            "I was made manifest unto them that asked not after me\u2014until the invitation from Me came to them.\" ",
+            "That the calling of the Gentiles was meant by these words of the prophet (Isaiah 65:1) is manifest from what immediately follows, 'I said, Behold Me, behold Me, unto a nation that was not called by My name.'"
+        ],
+        "Albert Barnes": [
+            "Expresses the doctrine openly, boldly, without any reserve.",
+            "God was found, or the true knowledge of him was obtained, by those who had not sought after him; that is, by the Gentiles, who had worshipped idols, and who had not sought for the true God.",
+            "The time would come when the Gentiles would be brought to the knowledge of the true God."
+        ],
+        "Marvin Vincent": [
+            "bold of himself",
+            "I have endeavored to be sought and found.",
+            "I have said 'Here am I' to a people who did not call upon my name."
+        ],
+        "John Calvin": [
+            "The Prophet did not speak in a figurative language, or with hesitation, but had in plain and clear words declared the calling of the Gentiles.",
+            "I know that this whole passage is changed by some Rabbins, as though God promised that he would cause that the Jews should repent of their defection: but nothing is more clear than that he speaks of aliens.",
+            "It is then the calling of the Gentiles; and in which appears a general representation of the calling of all the faithful; for there is no one who anticipates the Lord; but we are all, without exception, delivered by his free mercy from the deepest abyss of death, when there is no knowledge of him, no desire of serving him, in a word, no conviction of his truth."
+        ],
+        "Philip Schaff": [
+            "But Isaiah even ventures to say.",
+            "That Paul understood the original prophecy as referring to the Gentiles must be maintained by all who admit his logical acuteness.",
+            "The privilege of being called by the name of Jehovah was ever cherished by the ancient Jews."
+        ],
+        "Archibald T. Robertson": [
+            "Is very bold (\u03b1\u03c0\u03bf\u03c4\u03bf\u03bb\u03bc\u03b1).\" ",
+            "Paul cites Isaiah 65:1 in support of his own courage against the prejudice of the Jews.",
+            "I was found (\u03b5\u03c5\u03c1\u03b5\u03b8\u03b7\u03bd)."
+        ],
+        "John Gill": [
+            "The apostle here produces another testimony in proof of this, that the Israelites must needs have some knowledge of this truth, the calling of the Gentiles; since a famous prophet of theirs, Isaiah, also spake out with great freedom.\" ",
+            "He did not mince the matter, or cover it with dark sayings, but with all plainness and perspicuity, and with great courage and intrepidity declared it; though he knew he run the risk, not only of his fame and credit among the Jews, but of his life also, for so doing.\" ",
+            "He is also said to be 'made manifest' unto them, not in the flesh, but in the ministry of the word; in which his person, blood, righteousness, and sacrifice, are evidently set forth, and clearly manifested."
+        ],
+        "John Wesley": [
+            "But Isaiah is very bold \u2014 And speaks plainly what Moses but intimated. Isaiah 65:1,2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Isaiah boldly proclaimed that he was found by those who did not seek him, and he became manifest to those who did not ask for him. This prophetic statement emphasizes the calling of the Gentiles, as God revealed Himself to a nation that was not called by His name. The boldness of Isaiah's words resonated with Paul, who courageously cited this prophecy to assert the inclusion of the Gentiles in God's plan. The prophetic testimony of Isaiah clearly declares the calling of the Gentiles, highlighting the universal nature of God's mercy and the transformation brought about by His grace.",
+            "wordCount": 102,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.254759969687708,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+            "commentatorTierSimilarities": [
+                25.34,
+                36.82,
+                37.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Isaiah boldly proclaimed that he was found by those who did not seek him, and he became manifest to those who did not ask for him. This prophetic statement emphasizes the calling of the Gentiles, as God revealed Himself to a nation that was not called by His name. The boldness of Isaiah's words resonated with Paul, who courageously cited this prophecy to assert the inclusion of the Gentiles in God's plan. The prophetic testimony of Isaiah clearly declares the calling of the Gentiles, highlighting the universal nature of God's mercy and the transformation brought about by His grace.",
+            "wordCount": 102,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.254759969687708,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+            "commentatorTierSimilarities": [
+                25.34,
+                36.82,
+                37.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Isaiah boldly proclaimed that he was found by those who did not seek him, and he was made manifest to those who did not ask for him. This prophecy highlights the calling of the Gentiles, as God revealed Himself to a nation that was not called by His name. Paul, recognizing the significance of Isaiah's words, fearlessly cited this passage to emphasize the inclusion of the Gentiles in God's plan. Through Isaiah's bold testimony, we see the universal scope of God's mercy and the transformative power of His grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.124133619170295,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.97,
+            "commentatorTierSimilarities": [
+                25.14,
+                36.58,
+                38.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Isaiah boldly declared that he was found by those who did not seek him and made manifest to those who did not ask after him. This prophetic declaration highlights the calling of the Gentiles, as God revealed himself to a nation that was not called by his name. Paul, inspired by Isaiah's audacity, courageously referenced this testimony to affirm the inclusion of the Gentiles in God's divine plan. Isaiah's fearless proclamation reveals the expansive nature of God's mercy and the transformative impact of his grace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.047999896045045,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                25.36,
+                36.93,
+                37.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Isaiah boldly proclaimed that he was found by those who did not seek him, and he became manifest to those who did not ask for him. This prophetic statement emphasizes the calling of the Gentiles, as God revealed Himself to a nation that was not called by His name. The boldness of Isaiah's words resonated with Paul, who courageously cited this prophecy to assert the inclusion of the Gentiles in God's plan. The prophetic testimony of Isaiah clearly declares the calling of the Gentiles, highlighting the universal nature of God's mercy and the transformation brought about by His grace.",
+            "wordCount": 102,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.254759969687708,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+            "commentatorTierSimilarities": [
+                25.34,
+                36.82,
+                37.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

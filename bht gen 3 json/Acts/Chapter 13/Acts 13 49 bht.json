@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:30:53",
+    "verseRef": "Acts 13:49",
+    "bestBHT": {
+        "bht": "The word of the Lord was published throughout all the region, implying a stay with active work among the Gentiles that bore rich fruit. Antioch in Pisidia, an important element in Roman imperial administration, became a center from which Christianity was diffused in the neighboring country. The seed of true doctrine was sown throughout the whole city, spreading farther like leaven. Several churches were planted, including one in Antioch, where these new converts were the beginning.",
+        "wordCount": 76,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.5815098091912434,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.93,
+        "commentatorTierSimilarities": [
+            24.51,
+            33.74,
+            41.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "49-52. And the word of the Lord was",
+            "\tpublished throughout all the region\u2014implying some stay in",
+            "\tAntioch and missionary activity in its vicinity."
+        ],
+        "John Calvin": [
+            "The word of the Lord was spread abroad... the seed of true doctrine was sown throughout the whole city.\" ",
+            "Luke doth in this place declare the proceeding of the gospel... it was spread farther, to wit, throughout the whole country.\" ",
+            "...the parable of Christ... it is like to leaven."
+        ],
+        "Philip Schaff": [
+            "And the word of the Lord was published throughout all that region.\" ",
+            "Antioch in Pisidia now evidently became a centre whence Christianity was diffused.",
+            "Through all the neighbouring country."
+        ],
+        "Archibald T. Robertson": [
+            "This would seem to indicate a stay of some months with active work among the Gentiles that bore rich fruit.",
+            "Antioch in Pisidia as a Roman colony would be the natural centre of a Roman Regio, an important element in Roman imperial administration.",
+            "There were probably other Regiones in South Galatia."
+        ],
+        "John Gill": [
+            "There were no doubt several churches planted in this country, and particularly there was one at Antioch, of which these new converts were the beginning, and which continued.",
+            "In the 'fourth' century, this church was a patriarchate, for it is said, under Valentinian and Theodosius, Optimus obtained the patriarchate of Antioch in Pisidia.",
+            "In the eighth 'century', Gregory, bishop of this place, condemned in a synod the worship of images, but afterwards recanted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word of the Lord was published throughout all the region, indicating a stay of some months with active work among the Gentiles that bore rich fruit. Antioch in Pisidia, as a Roman colony and an important element in Roman imperial administration, became a centre from which Christianity was diffused throughout the neighbouring country. The seed of true doctrine was sown throughout the whole city, spreading farther like leaven. This led to the establishment of several churches, including the church in Antioch at which these new converts were the beginning. In later centuries, Antioch in Pisidia even became a patriarchate and had notable individuals, such as Gregory, who condemned the worship of images before recanting.",
+            "wordCount": 115,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 1.4810526243149662,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.59,
+            "commentatorTierSimilarities": [
+                23.02,
+                32.44,
+                44.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word of the Lord was published throughout all the region, indicating a stay with active work among the Gentiles. Antioch in Pisidia, an important element in Roman imperial administration, became a centre from which Christianity spread in the neighboring country. The seed of true doctrine was sown throughout the whole city, spreading farther like leaven. Several churches were established, including the church in Antioch where these new converts were the beginning. Antioch in Pisidia even became a patriarchate in later centuries, with notable individuals like Gregory who condemned the worship of images before recanting.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.4933862740429082,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.0,
+            "commentatorTierSimilarities": [
+                22.51,
+                32.85,
+                44.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word of the Lord spread throughout the region, with active work among the Gentiles. Antioch in Pisidia, an important Roman colony, became a center for the diffusion of Christianity in the neighboring country. The seed of true doctrine was sown in the whole city, spreading like leaven. Multiple churches were established, including in Antioch where these new converts marked the beginning. Centuries later, Antioch in Pisidia became a patriarchate, and its bishop, Gregory, initially denounced the worship of images but later recanted.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.4195326285478043,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.54,
+            "commentatorTierSimilarities": [
+                21.13,
+                32.78,
+                46.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The word of the Lord was published throughout all the region, implying a stay with active work among the Gentiles that bore rich fruit. Antioch in Pisidia, an important element in Roman imperial administration, became a center from which Christianity was diffused in the neighboring country. The seed of true doctrine was sown throughout the whole city, spreading farther like leaven. Several churches were planted, including one in Antioch, where these new converts were the beginning.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5815098091912434,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.93,
+            "commentatorTierSimilarities": [
+                24.51,
+                33.74,
+                41.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The word of the Lord was published throughout all the region, indicating a stay of some months with active work among the Gentiles that bore rich fruit. Antioch in Pisidia, as a Roman colony, was the natural center of a Roman Regio, playing a significant role in Roman imperial administration. This establishment became a catalyst for the spread of Christianity in the neighboring country. The true doctrine took root in the whole city, gradually permeating like leaven. And from these beginnings, the foundation of several churches, including Antioch, was laid that continued to flourish.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.4500191737038266,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.56,
+            "commentatorTierSimilarities": [
+                26.58,
+                32.69,
+                40.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

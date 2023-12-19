@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:12:48",
+    "verseRef": "1 Corinthians 13:2",
+    "bestBHT": {
+        "bht": "Without love, all the spiritual gifts - the ability to understand mysteries, to prophesy, and even to have faith that can move mountains - are meaningless. Even if one possesses the knowledge of all mysteries, it is ultimately empty without love. Love is what transforms these gifts from a superficial exhibition of power to a genuine expression of God's grace and compassion. Without love, all these gifts amount to nothing; one is reduced to being a mere zero in the eyes of God.",
+        "wordCount": 82,
+        "quoteTokenProportion": 48.08,
+        "qualityScore": 2.1035845227188172,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.29,
+        "commentatorTierSimilarities": [
+            29.71,
+            37.18,
+            33.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All mysteries are all the secrets of the divine counsel.",
+            "The knowledge of these would be the perfection of the gift of prophecy.",
+            "All faith (literally, all the faith) hardly, as Stanley, implies, 'all the faith in the world,' but rather, 'all the faith required to,'&c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mysteries refer to the deep counsels of God hitherto secret, but now revealed to His saints. Knowledge, to truths long known.\" ",
+            "The practical power of the will elevated by faith... confidence in God that the miraculous result will surely follow the exercise of the will at the secret impulse of His Spirit.\" ",
+            "Without 'love' prophecy, knowledge, and faith, are not what they seem... and so fail of the heavenly reward."
+        ],
+        "Albert Barnes": [
+            "All these might be plain enough if they were revealed; but there were many things connected with religion which God had not chosen to reveal to people.",
+            "I am nothing - All would be of no value. it would not save me. I should still be an unredeemed, unpardoned sinner.",
+            "Unless I should have love, I should still be lost."
+        ],
+        "Marvin Vincent": [
+            "The mysteries, all of them.",
+            "The article indicates the well-known spiritual problems which exercise men's minds.",
+            "All the special faith which works miracles."
+        ],
+        "John Calvin": [
+            "He brings down to nothing the dignity of even this endowment, which, nevertheless, he had preferred to all others.",
+            "As, therefore, the term faith is used in a variety of senses, it is the part of the prudent reader to observe in what signification it is taken.",
+            "Paul, however, as I have already stated, is his own interpreter, by restricting faith, here, to miracles."
+        ],
+        "Philip Schaff": [
+            "And though I have the gift of prophecy...but often for the opening of the Scriptures...without love I am nothing.",
+            "Though I could lay bare the whole scheme of God towards the Church...without love I am nothing.",
+            "And though I have all faith, so as to remove mountains...which enabled its possessor, on giving the word of command, to work stupendous miracles."
+        ],
+        "Archibald T. Robertson": [
+            "Equally so are the teaching gifts (prophecy, knowledge of mysteries, all knowledge).",
+            "Paul is not condemning these great gifts. He simply places love above them and essential to them.",
+            "I am nothing (\u03bf\u03c5\u03b8\u03b5\u03bd \u03b5\u03b9\u03bc). Not \u03bf\u03c5\u03b8\u03b5\u03b9\u03c2, nobody, but an absolute zero."
+        ],
+        "John Gill": [
+            "A man in whom the grace of love is wanting, is nothing himself with all these; he is nothing in the account of God, of no esteem with him; he is nothing as a believer in Christ, nor nothing as a Christian.",
+            "Let a man be able to do ever such great things, yet if he has not 'charity', love to God, to Christ and to his people, he is nothing at all.",
+            "The apostle says of himself, supposing it was his own case, 'I am nothing; not nothing as a man, nor nothing as a gifted man, still he would be a man, and a man of gifts; nor does the apostle say, that his gifts were nothing, that the gift of prophecy was nothing, or the gift of understanding mysteries nothing, or the gift of knowledge nothing, or the gift of doing miracles nothing, for these are all something, and very great things too.'"
+        ],
+        "John Wesley": [
+            "And though I have the gift of prophecy... I am nothing.",
+            "And understand all the mysteries... I am nothing.",
+            "And all knowledge... I am nothing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Without love, all the spiritual gifts - the ability to understand mysteries, to prophesy, and even to have faith that can move mountains - are meaningless. These gifts, although impressive in themselves, are futile without the foundation of love. Love is the essential component that gives purpose and value to these gifts. Even if one possesses the knowledge of all mysteries, it is ultimately empty without love. Love is what transforms these gifts from a superficial exhibition of power to a genuine expression of God's grace and compassion. Without love, all these gifts amount to nothing; one is reduced to being a mere zero in the eyes of God.",
+            "wordCount": 108,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.025185156684197,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.68,
+            "commentatorTierSimilarities": [
+                29.85,
+                37.39,
+                32.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Without love, all the spiritual gifts - the ability to understand mysteries, to prophesy, and even to have faith that can move mountains - are meaningless. Even if one possesses the knowledge of all mysteries, it is ultimately empty without love. Love is what transforms these gifts from a superficial exhibition of power to a genuine expression of God's grace and compassion. Without love, all these gifts amount to nothing; one is reduced to being a mere zero in the eyes of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.1035845227188172,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.29,
+            "commentatorTierSimilarities": [
+                29.71,
+                37.18,
+                33.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If one lacks love, even with the ability to understand all mysteries, the gift of prophesy, and the faith to move mountains, those gifts are rendered meaningless. Love is the essential component that gives purpose and value to these abilities. The possession of knowledge alone, without love, is ultimately empty. These spiritual gifts, while impressive in themselves, are of no value without love. Love is what transforms these gifts from empty displays of power to genuine acts of grace and compassion. Without love, these gifts are reduced to nothingness in the eyes of God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.935472426507991,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                29.98,
+                37.87,
+                32.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The knowledge of divine mysteries and the ability to prophesy or exercise faith would be perfect, but without love, they lose their significance. Love is what places these gifts in their proper perspective, elevating them from superficial expressions of power to genuine acts of grace. Without love, these gifts are empty, amounting to nothing in the eyes of God. Love is the essential foundation that gives purpose and value to these spiritual abilities. Without it, they become meaningless and devoid of true worth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8970800972469908,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.42,
+            "commentatorTierSimilarities": [
+                32.64,
+                36.4,
+                30.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Without love, all the spiritual gifts - the ability to understand mysteries, prophesize, and exercise faith - are futile. These gifts only hold value when grounded in love, as love is what gives them purpose and worth. Without love, even possessing knowledge of all mysteries becomes meaningless. Love is the cornerstone that transforms these gifts from displays of power to genuine expressions of God's grace and compassion. Without love, these gifts are rendered insignificant, reducing one to a state of emptiness in the eyes of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9883223272079578,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                31.43,
+                36.49,
+                32.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

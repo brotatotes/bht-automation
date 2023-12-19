@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:13:42",
+    "verseRef": "Luke 2:4",
+    "bestBHT": {
+        "bht": "Mary, believed to be from the lineage of David, went to Bethlehem with Joseph, who was also of the royal line. Although she was pregnant, Mary accompanied her husband for the personal enrollment, likely because she herself was an heiress. This journey to Bethlehem was significant not only because it was called the city of David, but also because it was within Jesus' family and lineage. Bethlehem was a fitting place for the birth of Christ, as it is where the bread of life appeared, the one who came down from heaven to give life to the world.",
+        "wordCount": 98,
+        "quoteTokenProportion": 48.39,
+        "qualityScore": 1.7658483843653925,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.06,
+        "commentatorTierSimilarities": [
+            29.82,
+            31.99,
+            38.19
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Mary being apparently herself sprung from the lineage of David, might on this account go to Bethlehem.",
+            "Being, as some suppose, an inheritress.",
+            "After the Roman manner, she accompanied her husband."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not only does Joseph, who was of the royal line, go to Bethlehem, but Mary too.",
+            "Mary...probably [went] for personal enrollment, as herself an heiress.",
+            "Mary...not from choice surely in her condition."
+        ],
+        "Albert Barnes": [
+            "Called the city of David because it was the place of his birth.",
+            "Of the family.",
+            "The 'lineage' denotes that he was descended from David as his father or ancestor."
+        ],
+        "Marvin Vincent": [
+            "House and lineage. According to the Jewish mode of registration the people would be enrolled by tribes, families or clans, and households. Compare Joshua 7:16-18. Rev., house and family."
+        ],
+        "Philip Schaff": [
+            "Luke 2:4. Went up. The usual expression for a journey towards Jerusalem.",
+            "\t",
+            " Bethlehem. See on Matthew 2:1."
+        ],
+        "John Gill": [
+            "A very fit place for Christ, the bread which came down from heaven, and gives life to the world, to appear first in.",
+            "This place was... a 'parsa' and half, or six miles from Jerusalem.",
+            "He was of his family, and lineally descended from him, though he was so poor and mean; and this is the reason of his coming to Bethlehem, David's city."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary, believed to be from the lineage of David, went to Bethlehem with Joseph, who was also of the royal line. Although she was pregnant, Mary accompanied her husband for the personal enrollment, likely because she herself was an heiress. This journey to Bethlehem was significant not only because it was called the city of David, but also because it was within Jesus' family and lineage. Bethlehem was a fitting place for the birth of Christ, as it is where the bread of life appeared, the one who came down from heaven to give life to the world.",
+            "wordCount": 98,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.7658483843653925,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.06,
+            "commentatorTierSimilarities": [
+                29.82,
+                31.99,
+                38.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary, likely an inheritress of David's lineage, made the journey to Bethlehem with Joseph, who was also of the royal line. Despite her condition, Mary accompanied her husband for the enrollment, possibly because she herself was an heiress. Bethlehem held significance as the city of David and a fitting location for the birth of Christ, the bread of life who came to give life to the world. This journey emphasized Jesus' connection to his family and lineage, even in his humble circumstances.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6864190082491017,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                34.73,
+                30.83,
+                34.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary, being of David's lineage, accompanied Joseph to Bethlehem for the enrollment. Even though she was pregnant, she made this journey, possibly due to her own status as an inheritress. Bethlehem, known as the city of David, was a fitting place for the birth of Christ, the bread of life who came to bring life to the world. This journey emphasized Jesus' connection to his family and lineage and highlighted the significance of his humble beginnings in David's city.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.6869907699393876,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.43,
+            "commentatorTierSimilarities": [
+                30.8,
+                31.92,
+                37.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary, being of David's lineage, accompanied Joseph to Bethlehem for enrollment. Her journey to Bethlehem, despite her condition, emphasized her connection to her royal ancestry. Bethlehem, called the city of David, held deep significance as the birthplace of Christ, the bread of life. This humble setting showcased Jesus' lineage and highlighted the fulfillment of prophecies regarding the Messiah's origins. Mary's willingness to travel to Bethlehem exemplified her role as shepherding the arrival of the Savior and contributed to the profound purpose of Jesus' birth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 18.52,
+            "qualityScore": 1.6222465175449616,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                31.8,
+                33.09,
+                35.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary, possibly an inheritress of David's lineage, accompanied Joseph to Bethlehem for the enrollment. Despite her condition, Mary made the journey, likely for personal enrollment as an heiress. Bethlehem, known as the city of David, was a significant place for the birth of Christ, the bread of life. This emphasized Jesus' connection to his family and lineage, even in his humble circumstances. The journey to Bethlehem highlighted the fulfillment of prophecies and the purpose of Jesus' arrival as the Savior of the world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.6250285483377538,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.37,
+            "commentatorTierSimilarities": [
+                34.36,
+                31.05,
+                34.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

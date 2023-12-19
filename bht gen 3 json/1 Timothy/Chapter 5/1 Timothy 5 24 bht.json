@@ -1,0 +1,153 @@
+{
+    "timestamp": "12-19-2023 17:29:43",
+    "verseRef": "1 Timothy 5:24",
+    "bestBHT": {
+        "bht": "Some men's sins are evident, going before them to judgment. These sins fall into two categories: those that are clearly manifest and those that are concealed until the final judgment. The former types of sins are openly proclaimed, acting as heralds that proclaim their sentence in advance. On the other hand, the latter types of sins may not be apparent at first, but they will eventually be made plainly manifest. Therefore, one should not always presume fitness for a sacred office simply because there are no previous adverse rumors. It is vital to be watchful, as these sins will follow the offender to the judgment seat and be openly exposed there.",
+        "wordCount": 112,
+        "quoteTokenProportion": 51.9,
+        "qualityScore": 2.247189638483855,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.06,
+        "commentatorTierSimilarities": [
+            39.78,
+            31.62,
+            28.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sins of some men are evident, going before them to judgment.",
+            "Some men, their sins follow, after-proof brings out the correctness or otherwise of the judgment.",
+            "Therefore be watchful, and do not let the mere non-existence of previous adverse rumour lead thee always to presume fitness for the sacred office."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Two kinds of sins are",
+            "specified: those palpably manifest... and those which follow after... hidden till they come to the judgment.\" ",
+            "The former class in the case of bad",
+            "and good are manifest already; the latter class in the case of",
+            "both are not manifest now, but shall be so at the final judgment.",
+            "He says, therefore, there are two classes of",
+            "sins, as there are two classes of good works: those",
+            "palpably manifest, and those not so; the former are those on",
+            "which thou shouldest act decidedly at once when called on... however hidden",
+            "now they 'cannot be hid' then."
+        ],
+        "Albert Barnes": [
+            "Their conduct was apparent to all. About such people he ought not to hesitate a moment, and...he ought to have no participation in introducing them to the ministry.",
+            "Their character is well understood. There is no need of waiting for the day of judgment to know what they are.",
+            "Though they have endeavored to hide their evil deeds, yet they will follow after them to the judgment-bar, and will meet them there."
+        ],
+        "Marvin Vincent": [
+            "The meaning is openly manifested to all eyes.",
+            "The meaning here is that these open sins go before their perpetrator to the judgment-seat like heralds, proclaiming their sentence in advance.",
+            "The sins follow up the offender to the bar of judgment, and are first made openly manifest there."
+        ],
+        "John Calvin": [
+            "When it shall please God, they will one day be brought to public view.\" ",
+            "There are some good works which are reserved for being brought to light at a future period.",
+            "We must bear what cannot be immediately corrected; we must wait for the full time of revelation, and endure the stupidity of the world, and wait quietly in darkness till the day dawn."
+        ],
+        "Philip Schaff": [
+            "The \u2018other men\u2019s sins\u2019 in which Timothy is not to be a partaker, are of two classes (1) flagrant, notorious, so conspicuous even before the trial, that they scarcely need witnesses, are, indeed, as the accusers who bring the criminal before the judge; (2) those which do not come out at first, but, as it were, creep on, and dog the man\u2019s steps, and at last overtake him.\" ",
+            "Receiving the words as applicable chiefly to the precept against hasty laying on of hands, they contain a warning against assuming fitness from the absence of open scandal.",
+            "Even in such cases a careful inquiry was not to be neglected. It is obvious that the judgment spoken of is man\u2019s and not God\u2019s, temporal and not eternal in its results."
+        ],
+        "Archibald T. Robertson": [
+            "The sins are so plain that they receive instant condemnation.",
+            "Associative instrumental case \u03c4\u03b9\u03c3\u03b9\u03bd with \u03b5\u03c0\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03bf\u03c5\u03c3\u03b9\u03bd [...] not clearly manifest at first, but come out plainly at last.",
+            "How true that is of secret sins."
+        ],
+        "John Gill": [
+            "Some men's sins are open before hand,.... Some men are such open and notorious sinners, that there is no need of any inquiry about them, or any examination of them; or any witnesses to be called to their character, in order to pass judgment concerning them...",
+            "There would be no danger of his laying hands suddenly on such; for the following phrase, going before to judgment, is not to be understood of God's judgment, or of the last and future judgment of the great day, but of human judgment...",
+            "the sense of the whole is this, that the characters of some men are so well known, and it is so plain a case, that they are destitute of the grace of God; have not ministerial gifts; or are unsound in the faith; or are men of immoral lives and conversations; so that there can be no dispute about them..."
+        ],
+        "John Wesley": [
+            "Some men's sins are manifest beforehand.",
+            "Going before to judgment.",
+            "And some they follow after."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sins of some men are evident, going before them to judgment. These sins are categorically divided into two types: those that are palpably manifest and those that are hidden until the final judgment. The former category is openly proclaimed and condemned, like heralds announcing their sentence in advance. However, the latter category may not be apparent at first, but they will ultimately be made plainly manifest. Even though these sins may be hidden now, they cannot be concealed in the end. We must not presume the fitness of someone for sacred office simply because there is no previous adverse rumor about them. It is crucial to be watchful and cautious, for these sins will follow up the offender to the bar of judgment and be first made openly manifest there. The sins are so plain that they receive instant condemnation in human judgment.",
+            "wordCount": 144,
+            "quoteTokenProportion": 49.44,
+            "qualityScore": 2.156926982107612,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.06,
+            "commentatorTierSimilarities": [
+                40.0,
+                31.8,
+                28.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sins of some men are evident, going before them to judgment like heralds proclaiming their sentence in advance. These sins are categorized as those that are palpably manifest and those that are hidden until the final judgment. While the former type is openly condemned, the latter type may not be apparent at first but it cannot be concealed in the end. We must be watchful and not presume fitness for sacred office based solely on the absence of previous adverse rumors, for these sins will follow the offender to the bar of judgment and be made openly manifest there.",
+            "wordCount": 100,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 2.339004551871991,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.11,
+            "commentatorTierSimilarities": [
+                37.98,
+                33.06,
+                28.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some men's sins are evident, going before them to judgment. These sins fall into two categories: those that are clearly manifest and those that are concealed until the final judgment. The former types of sins are openly proclaimed, acting as heralds that proclaim their sentence in advance. On the other hand, the latter types of sins may not be apparent at first, but they will eventually be made plainly manifest. Therefore, one should not always presume fitness for a sacred office simply because there are no previous adverse rumors. It is vital to be watchful, as these sins will follow the offender to the judgment seat and be openly exposed there.",
+            "wordCount": 112,
+            "quoteTokenProportion": 51.9,
+            "qualityScore": 2.247189638483855,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.06,
+            "commentatorTierSimilarities": [
+                39.78,
+                31.62,
+                28.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sins of some men are evident, going before them to judgment. These sins fall into two categories: those that are palpably manifest and those that are hidden until the final judgment. The former class of sins, whether good or bad, is already openly evident. The latter class, however, remains concealed for now but will eventually be made manifest at the final judgment. Hence, one should not rely solely on the absence of previous adverse rumors to presume fitness for a sacred office. It is crucial to be watchful, as these sins will follow the offender to the bar of judgment and be openly exposed there.",
+            "wordCount": 106,
+            "quoteTokenProportion": 52.11,
+            "qualityScore": 2.1830010576365546,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.93,
+            "commentatorTierSimilarities": [
+                40.8,
+                30.4,
+                28.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Some men's sins are evident, going before them to judgment. These sins fall into two categories: the manifest ones that are already evident, and the hidden ones that will be revealed at the final judgment. Therefore, one should not presume fitness for a sacred office solely based on the absence of previous adverse rumors. It is crucial to be watchful, as these sins will follow the offender to the judgment seat and be openly exposed there.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.2056748011967215,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.68,
+            "commentatorTierSimilarities": [
+                39.26,
+                31.35,
+                29.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

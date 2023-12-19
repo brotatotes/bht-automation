@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:20:58",
+    "verseRef": "Luke 17:15",
+    "bestBHT": {
+        "bht": "The words set before us in this depiction of immediate healing on the way to the priests highlight the intimate connection between glorifying God and love for Jesus Christ. The contrast between the gratitude of the one stranger and the lack of thankfulness among the Jews serves as a reproach to the entire nation. This serves as a reminder that gratitude is a rare quality, often overshadowed by unthankfulness, making it vital for those healed of the leprosy of sin to glorify God not only with words but also through actions.",
+        "wordCount": 91,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.0986501777545572,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.87,
+        "commentatorTierSimilarities": [
+            22.75,
+            27.12,
+            50.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15.] The words here set before us something immediate, and, I should be inclined to think, witnessed by the narrator."
+        ],
+        "John Calvin": [
+            "It is uncertain if he returned when they were halfway, and Luke\u2019s words appear to imply this; but I think it more probable, that it was not till he had heard the decision of the priests that he returned to give thanks.\" ",
+            "Some will perhaps be better pleased with a different conjecture, that as soon as he saw that he was cleansed, and before he applied to the priests for a testimony, he was seized with a devout and holy zeal, and returned to the Author of the cure, so as to commence his sacrifice with thanksgiving.",
+            "The words of Christ contain an expostulation with the whole nation; for it is by way of reproach that he draws a comparison between one stranger and many Jews, because it was customary with them to swallow up God\u2019s favors without any feeling of piety."
+        ],
+        "Philip Schaff": [
+            "The description is graphic, the healing took place immediately.",
+            "They were still on their way to the priests.",
+            "Glorifying God and love to Jesus Christ are closely joined."
+        ],
+        "John Gill": [
+            "gratitude is a rare thing, it is found but in few; unthankfulness cleaves to most persons; it is the general character of men to be unthankful and unholy",
+            "no man will seek after a cure, till he sees, or is sensible of his sickness and his wound; and when he does, he will inquire after, and make use of the proper means of healing",
+            "it becomes such who are cured of the leprosy of sin, to glorify God; not only with their mouths, by bringing their offering and sacrifice of praise to him... but by deeds also, with their bodies, and with their spirits"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words in this verse paint a vivid picture of an immediate healing. The healing described here took place on their journey to the priests, and the gratitude and praise for God's work were closely intertwined. Some speculate that the man may have returned to give thanks after hearing the decision of the priests, while others suggest that his gratitude may have driven him to immediately go back and thank the one who had healed him. Jesus takes this opportunity to hold up the gratitude of the one stranger against the ingratitude of the many Jews, emphasizing the rarity of true gratitude. This passage reminds us that true healing begins with recognizing our own brokenness and seeking the proper means of healing. Furthermore, it highlights the importance of expressing gratitude not only in words but also through deeds, both in our bodies and in our spirits.",
+            "wordCount": 147,
+            "quoteTokenProportion": 43.3,
+            "qualityScore": 1.0446563903151171,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.08,
+            "commentatorTierSimilarities": [
+                22.98,
+                26.5,
+                50.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The words set before us in this depiction of immediate healing on the way to the priests highlight the intimate connection between glorifying God and love for Jesus Christ. The contrast between the gratitude of the one stranger and the lack of thankfulness among the Jews serves as a reproach to the entire nation. This serves as a reminder that gratitude is a rare quality, often overshadowed by unthankfulness, making it vital for those healed of the leprosy of sin to glorify God not only with words but also through actions.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.0986501777545572,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.87,
+            "commentatorTierSimilarities": [
+                22.75,
+                27.12,
+                50.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this immediate healing account, the gratitude and praise for God's work were closely intertwined. The rarity of true gratitude is emphasized as the one stranger is compared to the many ungrateful Jews. Recognizing our brokenness and seeking proper means of healing are essential, just as it is important to express gratitude not only through words but also through deeds in our bodies and spirits. Gratitude is a rare quality, often overshadowed by unthankfulness, making it vital for those cured of sin's leprosy to glorify God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 0.9217577270757662,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.99,
+            "commentatorTierSimilarities": [
+                15.89,
+                26.55,
+                57.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This depiction of immediate healing on the way to the priests underscores the close connection between glorifying God and love for Jesus Christ. The rarity of gratitude is highlighted as the one stranger is contrasted with the ungrateful Jews. Recognizing our brokenness and actively seeking healing are crucial, and it is important to express our gratitude not just through words but also through our actions in both body and spirit. Gratitude is infrequent, overshadowed by unthankfulness, making it essential for those healed of sin's leprosy to give glory to God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 0.9847600110647992,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.09,
+            "commentatorTierSimilarities": [
+                15.84,
+                31.25,
+                52.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The immediate healing in this account highlights the intimate connection between glorifying God and love for Jesus Christ. The rarity of genuine gratitude is emphasized in the comparison between the one stranger and the ungrateful Jews. It is crucial to recognize our brokenness and actively seek healing, not only through words but also through tangible actions in our bodies and spirits. Gratitude is scarce, often overshadowed by ingratitude, making it vital for those cured of sin's leprosy to display gratitude by glorifying God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 0.9420823759935344,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.67,
+            "commentatorTierSimilarities": [
+                17.61,
+                29.98,
+                52.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

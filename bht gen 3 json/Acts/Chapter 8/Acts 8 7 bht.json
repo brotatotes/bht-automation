@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:27:51",
+    "verseRef": "Acts 8:7",
+    "bestBHT": {
+        "bht": "In this account, many who had been tormented by unclean spirits were released as these spirits cried out and departed. The loud outcry resonated with the exorcisms performed by Jesus, underscoring the authority that Philip, as a servant of Christ, possessed. Furthermore, the miraculous healing of those who were paralyzed or afflicted demonstrated the remarkable power of Christ at work through Philip. In this way, Philip's actions mirrored those of his Master, as he reaped the results of Jesus' previous labor.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.688429380622267,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+        "commentatorTierSimilarities": [
+            26.44,
+            33.78,
+            39.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For in the case of many who had unclean spirits, they crying out with a loud voice, came out.",
+            "The A.V., though founded on a different reading, comes to the same."
+        ],
+        "Albert Barnes": [
+            "For unclean spirits - See the notes on Matthew 4:24.",
+            "Crying with loud voice - See the notes on Mark 1:26.",
+            "Palsies - See the notes on Matthew 4:24."
+        ],
+        "Marvin Vincent": [
+            "Taken with palsies [\u03c0\u03b1\u03c1\u03b1\u03bb\u03b5\u03bb\u03c5\u03bc\u03b5\u03bd\u03bf\u03b9] . Rev., more neatly, palsied. See on Luke 5:18. ",
+            "Were healed. See on Luke 5:15."
+        ],
+        "John Calvin": [
+            "That crying wherewith the unclean spirits cried was a token of resistance.",
+            "This served not a little to set forth the power of Christ, that he did bind the devils with his commandment.",
+            "He toucheth certain kinds briefly, that we may know with what miracles they were brought to attribute any authority to Philip."
+        ],
+        "Philip Schaff": [
+            "Crying with loud voice... testifying to the Messiahship of Jesus, whose almighty Name they were compelled to obey.\" ",
+            "The expressions used in this account of the healing of demoniacs evidently supposes the reader to be acquainted with such cases in the history of Christ.\" ",
+            "The power of possession was feebler after the death of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "The unclean spirits...came out.\" ",
+            "The loud outcry is like the demons cast out by Jesus.",
+            "The servant was reaping where the Master had sown."
+        ],
+        "John Gill": [
+            "For unclean spirits,.... Devils, so called because they were unclean themselves, defiled others, add delighted in impure persons and places...",
+            "crying with loud voice; showing their unwillingness to remove, and the irresistibleness of divine power they could not withstand...",
+            "and many taken with palsies, and that were lame, were healed; by Philip, in the name of Christ, through a word speaking, or by touching them, without making use of any means or medicines."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 8:7, many who were oppressed by unclean spirits were miraculously delivered, as these spirits were forced to come out with a loud cry. The use of this cry is reminiscent of the demons cast out by Jesus Himself, highlighting the authority that Philip, as a servant of Jesus, possessed. Furthermore, the healing of those who were paralyzed or afflicted with other ailments demonstrated the power of Christ working through Philip. Through these incredible acts, Philip's work echoed that of his Master, reaping where Jesus had sown.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.739720216885755,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "commentatorTierSimilarities": [
+                27.66,
+                31.2,
+                41.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, numerous individuals tormented by unclean spirits were set free as these spirits cried out and were expelled. This cry echoes the exorcisms performed by Jesus Himself, indicating the authority that Philip, as a follower of Christ, wielded. Moreover, those who were paralyzed or afflicted with other diseases experienced healing through Philip, exemplifying the profound power of Christ at work. Philip's miraculous deeds mirrored the labor of his Master, as he reaped the fruits of Jesus' prior ministry.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.6753593539712068,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                27.16,
+                32.35,
+                40.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 8:7, individuals oppressed by unclean spirits were delivered as these spirits cried out and left them. This loud outcry resembled the demons cast out by Jesus, showcasing the authority Philip possessed as a servant of Jesus. Additionally, the healing of those who were paralyzed or plagued with ailments displayed the power of Christ working through Philip. Through these acts, Philip's work echoed that of his Master, reaping where Jesus had sown.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.7491823008487435,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                28.61,
+                32.1,
+                39.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, many who had been tormented by unclean spirits were released as these spirits cried out and departed. The loud outcry resonated with the exorcisms performed by Jesus, underscoring the authority that Philip, as a servant of Christ, possessed. Furthermore, the miraculous healing of those who were paralyzed or afflicted demonstrated the remarkable power of Christ at work through Philip. In this way, Philip's actions mirrored those of his Master, as he reaped the results of Jesus' previous labor.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.688429380622267,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+            "commentatorTierSimilarities": [
+                26.44,
+                33.78,
+                39.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 8:7, unclean spirits were expelled by crying out loudly, resembling the exorcisms of Jesus. As Philip, a servant of Christ, worked miracles, those afflicted with various ailments, including paralysis, received healing. Through these powerful acts, Philip's ministry reflected the influence of Jesus, reaping the fruits of his Master's work. The deliverance from unclean spirits and physical infirmities showcased the authority of Christ and displayed the transformative power of the Gospel in action.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.695147409818249,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.71,
+            "commentatorTierSimilarities": [
+                27.86,
+                32.86,
+                39.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

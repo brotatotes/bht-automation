@@ -1,0 +1,151 @@
+{
+    "timestamp": "12-19-2023 14:01:25",
+    "verseRef": "1 Thessalonians 5:15",
+    "bestBHT": {
+        "bht": "Christians are warned not to retaliate with evil for evil, but rather to pursue what is good and beneficial to others, regardless of whether they are fellow believers or non-believers. This teaching goes against the common practice of retaliation, emphasizing the unique standard of conduct set by Christianity. By patiently enduring and refraining from inflicting harm, believers can demonstrate their faith, love, and commitment to the glory of God by bestowing favors even upon their enemies.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7625736384617041,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+        "commentatorTierSimilarities": [
+            22.83,
+            38.45,
+            38.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This gives a slight warning that the practice might creep on them unawares.",
+            "It is not addressed to any particular section of the church, but to all.",
+            "To each for himself, and the church for each."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15. (Romans 12:17;",
+            "\t1 Peter 3:9.) ",
+            "\t",
+            "unto any man",
+            "\u2014whether unto a Christian, or a heathen, however great the",
+            "\tprovocation. ",
+            "\t",
+            "follow\u2014as a matter of",
+            "\tearnest pursuit."
+        ],
+        "Albert Barnes": [
+            "The moment we feel ourselves acting from a desire to 'return evil for evil,' that moment we are acting wrong.\" ",
+            "It may be right to defend our lives and the lives of our friends... but in no case should the motive be to do them wrong for the evil which they have done us.",
+            "To every man we are to do good as we are able - no matter what they do to us."
+        ],
+        "Marvin Vincent": [
+            "That which is good [\u03c4\u03bf \u03b1\u03b3\u03b1\u03b8\u03bf\u03bd] . Not to be limited to profitable, beneficent... although ajgaqov commonly includes a corresponding beneficent relation of its subject to another subject...\" ",
+            "It may also include what is absolutely, morally good...",
+            "So Hebrews 13:21; 1 Peter 3:11; Romans 7:18."
+        ],
+        "John Calvin": [
+            "This doctrine is peculiar to Christians \u2014 not to retaliate injuries, but to endure them patiently.",
+            "For particular excuses are wont to be brought forward in some cases. 'What! why should it be unlawful for me to avenge myself on one that is so worthless, so wicked, and so cruel?' But as vengeance is forbidden us in every case, without exception, however wicked the man that has injured us may be, we must refrain from inflicting injury.",
+            "The first step, therefore, in the exercise of patience, is, not to revenge injuries; the second is, to bestow favors even upon enemies."
+        ],
+        "Philip Schaff": [
+            "We must not then do wrong or do evil to any man, whatever we suffer from men. . . . to do wrong and to return wrong to any one is never allowable.\" ",
+            "Christianity may claim this peculiar merit, that it has set up that type of conduct as a general law for every man, which among the ancients was admired as the exceptive virtue of the few.",
+            "'In the sense of kind and beneficent.'"
+        ],
+        "Archibald T. Robertson": [
+            "See to it that no one render unto any one evil for evil.\" ",
+            "Retaliation, condemned by Jesus and by Paul, usually takes the form of 'evil for evil,' rather than 'good for good.'",
+            "Follow after, keep up the chase after the good."
+        ],
+        "John Gill": [
+            "See that none render evil for evil unto any man....not to a brother, a believer in Christ...should watch over one another, and see to it, that no such practice is found in each other.",
+            "But ever follow that which is good...done in faith, from love, and to the glory of God...acts of beneficence and liberality to the poor...to be followed and pursued after, and that always.",
+            "Both among yourselves, and to all men...to our enemies, and them that persecute us...do good to their bodies, and to their souls, as much as in you lies."
+        ],
+        "John Wesley": [
+            "See that none|-Watch over both yourselves and each other.",
+            "Follow that which is good \u2014 Do it resolutely and perseveringly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, there is a warning against retaliating with evil for evil, both towards fellow Christians and non-believers. Christians are called to pursue what is morally good and beneficial to others, rather than seeking revenge. This teaching stands in contrast to the common practice of retaliation and reflects the unique standard of conduct set by Christianity. Christians are encouraged to endure patiently, refrain from inflicting harm, and even bestow favors upon their enemies. By following this command, believers can demonstrate their faith, love, and commitment to the glory of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.7485856431888198,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.48,
+            "commentatorTierSimilarities": [
+                24.34,
+                34.89,
+                40.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christians are warned not to retaliate with evil for evil, but rather to pursue what is good and beneficial to others, regardless of whether they are fellow believers or non-believers. This teaching goes against the common practice of retaliation, emphasizing the unique standard of conduct set by Christianity. By patiently enduring and refraining from inflicting harm, believers can demonstrate their faith, love, and commitment to the glory of God by bestowing favors even upon their enemies.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7625736384617041,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+            "commentatorTierSimilarities": [
+                22.83,
+                38.45,
+                38.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christians are called to heed the warning against retaliating with evil for evil, extending it to both believers and non-believers. Instead, they are to diligently pursue what is morally good and beneficial, refraining from revenge. This teaching defies the common practice of retaliation and showcases Christianity's distinctive standard of conduct. Through patient endurance and the bestowal of favors upon enemies, believers exemplify their faith, love, and commitment to glorifying God. This distinctive doctrine sets Christians apart, prohibiting the infliction of harm and requiring the persistent pursuit of goodness.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.87,
+            "qualityScore": 1.7124024613630109,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.28,
+            "commentatorTierSimilarities": [
+                23.59,
+                35.39,
+                41.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christians are warned against retaliating with evil when wronged, directed towards both believers and non-believers. Instead, they are urged to actively pursue what is morally good and beneficial, rejecting revenge. This teaching challenges the cultural norm of retaliation and highlights the unique standard of conduct within Christianity. By patiently enduring and even bestowing kindness upon enemies, believers exhibit their faith, love, and commitment to honoring God. This principle is distinctive to Christianity, forbidding harm towards others and promoting the continuous pursuit of goodness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.6649784390355347,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.7,
+            "commentatorTierSimilarities": [
+                22.66,
+                38.73,
+                38.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christians are cautioned against retaliating with evil, be it towards fellow believers or non-believers. Instead, they are urged to earnestly pursue what is morally good and beneficial, resisting the temptation to seek revenge. This teaching challenges the prevalent practice of exchanging evil for evil and highlights the distinctive standard of conduct set by Christianity. By patiently enduring and graciously bestowing kindness upon enemies, believers demonstrate their faith, love, and commitment to glorifying God. This principle of refraining from harm and actively pursuing goodness is a defining characteristic of the Christian faith.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 1.7361962352614335,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                23.2,
+                38.63,
+                38.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

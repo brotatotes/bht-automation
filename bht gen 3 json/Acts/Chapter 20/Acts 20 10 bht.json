@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:34:08",
+    "verseRef": "Acts 20:10",
+    "bestBHT": {
+        "bht": "Reminiscent of the actions of Elisha, Paul fell upon the young man, fully embracing him while praying for his life to be restored. In the midst of the tumultuous scene, Paul calmly urged the people to cease their outcries, assuring them that the young man's life still resided within him. Paul's composed demeanor amidst the chaos, unwavering faith in the power of prayer, and the ensuing restoration of the young man's life all serve as a testament to the truth of the Gospel he preached.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.8536274255583287,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+        "commentatorTierSimilarities": [
+            23.07,
+            39.66,
+            37.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "10-12. Paul . . . fell on him\u2014like",
+            "\tElisha (2 Kings 4:34). ",
+            "\t",
+            "his life is in him\u2014now",
+            "\trestored; compare Mark 5:39."
+        ],
+        "Albert Barnes": [
+            "And fell on him ... - Probably stretching himself on him as Elisha did on the Shunammite\u2019s son, 2 Kings 4:33-35."
+        ],
+        "Marvin Vincent": [
+            "Trouble not yourselves. They were beginning to utter passionate outcries.\" ",
+            "Make ye no ado.\" ",
+            "His life is in him."
+        ],
+        "John Calvin": [
+            "He lay down upon him... that he might more easily stir up himself unto prayer.",
+            "That stretching of himself upon him doth more provoke him to crave his life with all his heart at the hands of the Lord.",
+            "When he saith that his soul is in him... the meaning of these words is, that his life was restored through the grace of God."
+        ],
+        "Philip Schaff": [
+            "The accurate and vivid picture given us here by the compiler of the \u2018Acts,\u2019 tells us how lasting an impression the whole scene made upon the companion of Paul.",
+            "Professor Plumptre strikingly calls attention to the unruffled composure of the apostle, sure of his prayer for power to restore life in this instance being granted, contrasted with the hurry and terrified confusion of the dismayed bystanders.",
+            "We have to think of the cries of alarm, the rush of men down the staircase from the third floor with lamps and torches in their hands, the wail of sorrow ... the undisturbed calmness of the apostle, sure that his prayer was answered."
+        ],
+        "Archibald T. Robertson": [
+            "Fell on him (\u03b5\u03c0\u03b5\u03c0\u03b5\u03c3\u03b5\u03bd \u03b1\u03c5\u03c4\u03c9). Second aorist active indicative of \u03b5\u03c0\u03b9\u03c0\u03b9\u03c0\u03c4\u03c9 with dative case as Elijah did (1 Kings 17:21) and Elisha (2 Kings 4:34).\" ",
+            "Embracing (\u03c3\u03c5\u03bd\u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03b2\u03c9\u03bd). Second aorist active participle of \u03c3\u03c5\u03bd\u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9, old verb to embrace completely (take hold together round), but only here in the N.T. In Ezra 5:3.",
+            "Make ye no ado (\u03bc\u03b7 \u03b8\u03bf\u03c1\u03c5\u03b2\u03b5\u03b9\u03c3\u03b8\u03b5). Stop (\u03bc\u03b7 and present middle imperative of \u03b8\u03bf\u03c1\u03c5\u03b2\u03b5\u03c9) making a noise (\u03b8\u03bf\u03c1\u03c5\u03b2\u03bf\u03c2) as the people did on the death of Jairus's daughter (Matthew 9:23 \u03b8\u03bf\u03c1\u03c5\u03b2\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c5 and Mark 5:38 \u03b8\u03bf\u03c1\u03c5\u03b2\u03bf\u03c5) when Jesus asked \u03a4 \u03b8\u03bf\u03c1\u03c5\u03b2\u03b5\u03b9\u03c3\u03b8\u03b5? For his life is in him (\u03b7 \u03b3\u03b1\u03c1 \u03c8\u03c5\u03c7\u03b7 \u03b1\u03c5\u03c4\u03bf\u03c5 \u03b5\u03bd \u03b1\u03c5\u03c4\u03c9 \u03b5\u03c3\u03c4\u03b9\u03bd)."
+        ],
+        "John Gill": [
+            "For his life, or 'soul' is in him; it being returned upon the apostle's falling on him, and praying over him.",
+            "The apostle might see him fall, or he might be told of it, or he might have an intimation of it from the Spirit of God, by whom he might be impressed to go down, in order to work a miracle, for the confirmation of the Gospel he was preaching.",
+            "which speech perhaps was addressed to the friends and relations of the young man; or to the disciples present, who were concerned at this accident, both for the young man's sake, and lest it should be improved to the disadvantage of the Gospel by the enemies of it."
+        ],
+        "John Wesley": [
+            "Our Lord never used this gesture. But Elijah and Elisha did as well as Paul.",
+            "His life is in him \u2014 He is alive again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, like Elisha, fell on the young man in Acts 20:10, embracing him completely and praying for his life to be restored. While the people around him were beginning to utter passionate outcries, Paul calmly instructed them to stop making a noise, assuring them that the young man's life was in him. This image of Paul's composure amidst the chaos is striking, contrasting his unwavering faith in the power of prayer with the hurried confusion of the bystanders. Through the grace of God, the young man's life was indeed restored, confirming the Gospel that Paul was preaching.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.778544498579929,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+            "commentatorTierSimilarities": [
+                23.43,
+                40.1,
+                36.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, like Elisha, fell on the young man, embracing him completely and praying for his life to be restored. While the people around him were beginning to utter passionate outcries, Paul calmly instructed them to stop making a noise, assuring them that the young man's life was in him. This image of Paul's composure amidst the chaos is striking, contrasting his unwavering faith in the power of prayer with the hurried confusion of the bystanders. Through the grace of God, the young man's life was indeed restored, confirming the Gospel that Paul was preaching.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7850066479527182,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                23.09,
+                40.33,
+                36.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, in an act reminiscent of Elisha, fell on the young man, embracing him fully and praying for his restoration. Despite the passionate outcries and alarmed commotion of those present, Paul calmly urged them to cease their noise and assured them that the young man's life resided within him. This scene depicts Paul's serene demeanor amidst the chaos, highlighting his unwavering trust in the power of prayer. By God's grace, the young man's life was indeed restored, bearing witness to the truth of the Gospel Paul preached.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.7080333907401122,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.13,
+            "commentatorTierSimilarities": [
+                21.66,
+                41.13,
+                37.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Reminiscent of the actions of Elisha, Paul fell upon the young man, fully embracing him while praying for his life to be restored. In the midst of the tumultuous scene, Paul calmly urged the people to cease their outcries, assuring them that the young man's life still resided within him. Paul's composed demeanor amidst the chaos, unwavering faith in the power of prayer, and the ensuing restoration of the young man's life all serve as a testament to the truth of the Gospel he preached.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8536274255583287,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+            "commentatorTierSimilarities": [
+                23.07,
+                39.66,
+                37.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, like Elisha, fell upon the young man, embracing him completely and praying for his restoration. Amidst the passionate outcries and commotion, Paul calmly instructed them to stop making noise, assuring them that the young man's life was in him. This image of Paul's composure contrasts with the alarmed confusion of the bystanders, highlighting his unwavering faith in the power of prayer. Through God's grace, the young man's life was restored, validating the message of the Gospel Paul was proclaiming.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.7378258295723872,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+            "commentatorTierSimilarities": [
+                22.34,
+                39.69,
+                37.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

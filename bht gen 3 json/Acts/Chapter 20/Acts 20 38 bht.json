@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:34:27",
+    "verseRef": "Acts 20:38",
+    "bestBHT": {
+        "bht": "As the disciples gazed upon Paul's countenance for the last time, their steadfast contemplation reflected their deep affection and interest. The parting between ministers and people should be approached with tenderness and solemnity, as true religion softens hearts, fostering affectionate and sacred friendships. It is crucial for ministers to emulate Paul's fidelity, leaving their congregations with kindness and love. The disciples' sorrow at never seeing Paul again serves as a poignant reminder of the profound anguish that will accompany God's final pronouncement on those who will never see His face again.",
+        "wordCount": 94,
+        "quoteTokenProportion": 36.62,
+        "qualityScore": 1.738331634290624,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+        "commentatorTierSimilarities": [
+            35.99,
+            44.29,
+            19.73
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "That the parting of ministers and people is a most solemn event, and should be one of much tenderness and affection.",
+            "The effect of true religion is to make the heart more tender; to make friendship more affectionate and sacred; and to unite more closely the bonds of love.",
+            "Ministers of the gospel should be prepared to leave their people with the same consciousness of fidelity and the same kindness and love which Paul evinced."
+        ],
+        "Marvin Vincent": [
+            "See [\u03b8\u03b5\u03c9\u03c1\u03b5\u03b9\u03bd] . See on Luke 10:18. The word for steadfast, earnest contemplation suggests the interest and affection with which they looked upon his countenance for the last time. "
+        ],
+        "Philip Schaff": [
+            "In this both Paul and his companions in work the elders of Ephesus were no doubt wrong.",
+            "St. Paul most probably did revisit these shores, and no doubt Ephesus and its church, after his liberation from the Roman imprisonment.",
+            "See the note on Acts 20:25, where this is discussed at some length."
+        ],
+        "Archibald T. Robertson": [
+            "Present middle participle of \u03bf\u03b4\u03c5\u03bd\u03b1\u03c9, old verb to cause intense pain, to torment... middle to distress oneself.\" ",
+            "Relative attracted to the case of the antecedent \u03bb\u03bf\u03b3\u03c9 (word). Past perfect indicative of \u03b5\u03b9\u03c0\u03bf\u03bd.\" ",
+            "Imperfect active of \u03c0\u03c1\u03bf\u03c0\u03b5\u03bc\u03c0\u03c9, old verb to send forward, to accompany... Graphic picture of Paul's departure from this group of ministers."
+        ],
+        "John Gill": [
+            "It filled them with sorrow to part with him; but this was increased, and made almost intolerable by what he said, that they should see his face no more."
+        ],
+        "John Wesley": [
+            "Sorrowing most for that word which he spake, that they should see his face no more.\" ",
+            "What sorrow will be in the great day, when God shall speak that word to all who are found on the left hand.",
+            "That they shall see his face no more!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples had a steadfast and earnest contemplation as they looked upon Paul's countenance for the last time. They were filled with sorrow at the thought of not being able to see him again. The parting of ministers and people is a solemn event that should be marked with tenderness and affection. True religion brings about a tender heart and strengthens the bonds of love. Ministers should depart with a sense of fidelity and kindness, just as Paul did. The disciples in Ephesus may have been wrong in their response, as Paul may have revisited them after his liberation. The sorrow felt by the disciples at the prospect of never seeing Paul again serves as a reminder of the deep sorrow that will come on the day when God declares that some will never see His face again.",
+            "wordCount": 139,
+            "quoteTokenProportion": 44.94,
+            "qualityScore": 1.6295702904919016,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+            "commentatorTierSimilarities": [
+                34.89,
+                39.02,
+                26.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples had a steadfast and earnest contemplation as they looked upon Paul's countenance for the last time. They were filled with sorrow and affected by his words that they would not see his face again. This parting between ministers and people should be a solemn event filled with tenderness and affection. True religion should make the heart tender and strengthen the bonds of love. Ministers should depart with fidelity and kindness, just as Paul demonstrated.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6762745276837376,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+            "commentatorTierSimilarities": [
+                34.65,
+                39.63,
+                25.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples gazed upon Paul's countenance with steadfast and earnest contemplation, deeply affected by his words that they would not see his face again. The parting of ministers and people should be marked by solemnity, tenderness, and affection. True religion softens the heart, fostering affectionate and sacred friendships, and strengthening the bonds of love. Ministers should emulate Paul's fidelity and display kindness and love when bidding farewell to their congregations. The sorrow felt by the disciples reminds us of the profound anguish that will accompany God's declaration on the day when some will never see His face again.",
+            "wordCount": 101,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7008614741441859,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.9,
+            "commentatorTierSimilarities": [
+                34.5,
+                40.92,
+                24.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the disciples gazed upon Paul's countenance for the last time, their steadfast contemplation reflected their deep affection and interest. The parting between ministers and people should be approached with tenderness and solemnity, as true religion softens hearts, fostering affectionate and sacred friendships. It is crucial for ministers to emulate Paul's fidelity, leaving their congregations with kindness and love. The disciples' sorrow at never seeing Paul again serves as a poignant reminder of the profound anguish that will accompany God's final pronouncement on those who will never see His face again.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.738331634290624,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+            "commentatorTierSimilarities": [
+                35.99,
+                44.29,
+                19.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples earnestly beheld Paul's countenance, deeply affected by the realization that they would never see his face again. When ministers and people part ways, it should be a solemn moment filled with tenderness and affection. True religion softens the heart, fostering deep friendships and strengthening bonds of love. Ministers should depart with fidelity and show kindness and love, just as Paul did. The disciples' sorrow at the thought of never seeing Paul again serves as a reminder of the deep sorrow that will accompany God's declaration of separation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5832509469619551,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "commentatorTierSimilarities": [
+                30.87,
+                45.43,
+                23.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:27:15",
+    "verseRef": "Acts 6:9",
+    "bestBHT": {
+        "bht": "There were Jewish freedmen who had been expelled from Rome by Tiberius and sought refuge in Jerusalem, possibly in three synagogues. These Libertines, descendants of freed slaves, were among the chief opponents of Stephen's preaching because they feared the endangerment of their faith. When Stephen proclaimed Jesus as the Messiah in these synagogues, disputations arose. However, Stephen's wisdom and power, empowered by the Spirit of God, confounded his adversaries and left them thoroughly amazed.",
+        "wordCount": 76,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 2.001942723232836,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+        "commentatorTierSimilarities": [
+            38.49,
+            25.64,
+            35.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Here then we have abundant reason for numbers of these Jews of libertine race having come to Jerusalem, being among the rest, who were ordered to quit Italy: and what place so likely a refuge for Jews as Jerusalem?",
+            "But none of their suppositions will bear examination, and the best interpretation is the usual one\u2014that they were the descendants of Jewish freedmen at Rome, who had been expelled by Tiberius.",
+            "I understand three distinct synagogues to be meant, notwithstanding the somewhat equivocal construction,\u2014and the words 'which is called' only to apply to the unusual term 'Libertines.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "synagogue of the Libertines\u2014Jewish freedmen; manumitted Roman captives, or the children of such, expelled from Rome (as appears from JOSEPHUS and TACITUS), and now residing at Jerusalem.\" ",
+            "Cyrenians\u2014Jews of Cyrene, in Libya, on the coast of Africa.",
+            "them of Cilicia\u2014amongst whom may have been Saul of Tarsus (Acts 7:58; Acts 21:39)."
+        ],
+        "Albert Barnes": [
+            "Of the synagogue - See the notes on Matthew 4:23. The Jews were scattered in all parts of the world. In every place they would have synagogues.",
+            "Of the Libertines - There has been very great difference of opinion about the meaning of this word... Many have supposed that these persons were manumitted slaves of Roman origin... This opinion is not very probable.",
+            "Disputing with Stephen - Doubtless on the question whether Jesus was the Messiah. This word does not denote 'angry disputing,' but is commonly used to denote 'fair and impartial inquiry'..."
+        ],
+        "Marvin Vincent": [
+            "Synagogue. See on Church, Matthew 16:18.",
+            "Libertines is a Latin word (libertini, freedmen), and means here Jews or their descendants who had been taken as slaves to Rome, and had there received their liberty.",
+            "They were likely to be the chief opponents of Stephen, because they supposed that by his preaching, their religion, for which they had suffered at Rome, was endangered in Jerusalem."
+        ],
+        "John Calvin": [
+            "He answereth the disputers now in such sort that he getteth the upper hand much... They could not resist the wisdom which the Spirit of God gave him.",
+            "For Luke meant to express that they fought not on both sides as men; but that the enemies of the gospel were therefore discouraged and overcome, because they did strive against the Spirit of God, which spake by the mouth of Stephen.",
+            "So the Spirit was as effectual in our time in the mouth of the martyrs which were burnt, and it uttereth the like force now daily, that though they were ignorant men, yet did they make the chief divines which maintained Popery no less astonished with their voice only, than if it had thundered and lightned."
+        ],
+        "Philip Schaff": [
+            "The teaching and work of Stephen struck a new chord in the heart of the people.",
+            "The success stirred up a new hindrance.",
+            "Stephen came in contact with the teachers of these different schools of Jewish thought."
+        ],
+        "Archibald T. Robertson": [
+            "But, leaving the number of the synagogues unsettled whether five or two, it is certain that in each one where Stephen appeared as a Hellenist preaching Jesus as the Messiah he met opposition.",
+            "Certain of them 'arose' (\u03b1\u03bd\u03b5\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd) 'stood up' after they had stood all that they could from Stephen, 'disputing with Stephen' (\u03c3\u03c5\u03bd\u03b6\u03b7\u03c4\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2 \u03c4\u03c9 \u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03c9).",
+            "One of their synagogues had men from Cilicia in it, making it practically certain that young Saul of Tarsus, the brilliant student of Gamaliel, was present and tried his wits with Stephen."
+        ],
+        "John Gill": [
+            "Being filled with indignation at the doctrine of Stephen, and with envy at his miracles, they rose up in great wrath, and warmly opposed him.",
+            "It is a Roman name, and signifies the sons of free men; and these were either the sons of such Jews, who of servants, or slaves, had been made 'free men'; or rather such Jews whose parents were born free, or had obtained their freedom at Rome, or in some free city under the Roman government.",
+            "Hence many of them doubtless settled here, and had a synagogue of their own."
+        ],
+        "John Wesley": [
+            "It was one and the same synagogue which consisted of these several nations.",
+            "Libertines \u2014 So they were styled, whose fathers were once slaves, and afterward made free.",
+            "This was the ease of many Jews who had been taken captive by the Romans."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 6:9, there were Jewish freedmen at Rome who had been expelled by Tiberius and sought refuge in Jerusalem, possibly in three synagogues. These freedmen, known as Libertines, were descendants of Jewish parents who had obtained freedom or were born free. Among them were also Jews from Cyrene and Cilicia, potentially including Saul of Tarsus. It is likely that these individuals, having suffered for their religion in Rome, became the chief opponents of Stephen because they feared the endangerment of their faith. Therefore, when Stephen preached Jesus as the Messiah, disputations arose with these individuals in the synagogues. This opposition to Stephen and his message was met with great wisdom and power, empowered by the Spirit of God, leading to the adversaries being thoroughly confounded.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0053843417728108,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.02,
+            "commentatorTierSimilarities": [
+                39.19,
+                25.39,
+                35.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There were Jewish freedmen who had been expelled from Rome by Tiberius and sought refuge in Jerusalem, possibly in three synagogues. These Libertines, descendants of freed slaves, were among the chief opponents of Stephen's preaching because they feared the endangerment of their faith. When Stephen proclaimed Jesus as the Messiah in these synagogues, disputations arose. However, Stephen's wisdom and power, empowered by the Spirit of God, confounded his adversaries and left them thoroughly amazed.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.001942723232836,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                38.49,
+                25.64,
+                35.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 6:9, there were Jewish freedmen at Rome who had been expelled by Tiberius and sought refuge in Jerusalem, possibly in three synagogues. These freedmen, known as Libertines, were descendants of Jewish parents who had obtained freedom or were born free. Among them were also Jews from Cyrene and Cilicia, potentially including Saul of Tarsus. It is likely that these individuals, having suffered for their religion in Rome, became the chief opponents of Stephen because they feared the endangerment of their faith. Therefore, when Stephen preached Jesus as the Messiah, disputations arose with these individuals in the synagogues. This opposition to Stephen and his message was met with great wisdom and power, empowered by the Spirit of God, leading to the adversaries being thoroughly confounded.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0053843417728108,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.02,
+            "commentatorTierSimilarities": [
+                39.19,
+                25.39,
+                35.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 6:9, there were Jewish freedmen, known as Libertines, who had been expelled from Rome by Tiberius and sought refuge in Jerusalem. It is likely that these descendants of freed slaves became the chief opponents of Stephen's preaching because they feared the endangerment of their faith. When Stephen proclaimed Jesus as the Messiah in the synagogues where they gathered, disputations arose. However, Stephen, filled with the wisdom and power given by the Spirit of God, confounded these adversaries and left them thoroughly amazed.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.0256620833754955,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.69,
+            "commentatorTierSimilarities": [
+                38.72,
+                25.38,
+                35.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 6:9, Jewish freedmen at Rome, known as Libertines, sought refuge in Jerusalem. They became the chief opponents of Stephen due to their fear that their religion was endangered. As Stephen preached Jesus as the Messiah in their synagogues, disputations arose. However, Stephen's wisdom and power, empowered by the Spirit of God, left his adversaries thoroughly confounded.",
+            "wordCount": 58,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.8787809936186668,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+            "commentatorTierSimilarities": [
+                39.06,
+                27.68,
+                33.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

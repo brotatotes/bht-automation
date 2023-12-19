@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:12:21",
+    "verseRef": "1 Corinthians 12:6",
+    "bestBHT": {
+        "bht": "All the various gifts and manifestations of the Spirit in believers are the outward results of the workings of the same God who is the Energy and Energizer of the Universe. While believers may have different powers, they all come from the same power of God. Therefore, we should be thankful for our own endowments and not despise or undervalue others, recognizing that all of these operations are to be traced back to God's agency. Ultimately, it is God who worketh all these effects in all the persons concerned.",
+        "wordCount": 90,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.6396651359260164,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+        "commentatorTierSimilarities": [
+            19.03,
+            35.52,
+            45.45
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "6. operations\u2014(Compare :-). ",
+            "\t",
+            "same God . . . worketh\u2014by",
+            "\tHis Spirit working (1 Corinthians 12:11).",
+            "\t",
+            "all in all\u2014all of them",
+            "\t(the \"gifts\") in all the persons (who possess them)."
+        ],
+        "Albert Barnes": [
+            "His works are various. They are not all alike, though they come from the same hand.",
+            "All these operations are to be traced to him. His agency is everywhere.",
+            "If people regard their endowments as the gift of God, they will be thankful for them, and they will not be disposed to despise or undervalue others."
+        ],
+        "Marvin Vincent": [
+            "Operations [\u03b5\u03bd\u03b5\u03c1\u03b3\u03b7\u03bc\u03b1\u03c4\u03b1] . Rev., workings. Outward manifestations and results of spiritual gifts.",
+            "Worketh [\u03b5\u03bd\u03b5\u03c1\u03b3\u03c9\u03bd] . Etymologically akin to operations.",
+            "All [\u03c4\u03b1 \u03c0\u03b1\u03bd\u03c4\u03b1] . Or them all. The article shows that they are regarded collectively."
+        ],
+        "John Calvin": [
+            "Although believers may be endowed with different powers, they all take their rise from one and the same power on the part of God.\" ",
+            "The sum is this \u2014 that there is nothing in mankind that is good or praiseworthy but what comes from God alone.\" ",
+            "Hence it is out of place here to agitate the question \u2014 in what manner God acts in Satan and in reprobates."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is not afraid to say that God is the Energy and the Energizer of the Universe.",
+            "This is his philosophic and scientific theory of the Cosmos.",
+            "No one has shown Paul's philosophy and science to be wrong."
+        ],
+        "John Gill": [
+            "There are some that are ordinary, as the good work of grace, and the several parts of it, the work of faith, the labour of love, and patience of hope.",
+            "I rather think that the Holy Ghost is designed in each verse, by Spirit, Lord, and God.",
+            "We have a most illustrious testimony of his proper deity and personality; who is the only true 'Jehovah' with the Father and Son, to which the word 'Lord' in the New Testament generally answers."
+        ],
+        "John Wesley": [
+            "Operations \u2014 Effects produced. This word is of a larger extent than either of the former.",
+            "But it is the same God who worketh all these effects in all the persons concerned.",
+            "It is the same God who worketh all these effects in all the persons concerned."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All the various gifts and manifestations of the Spirit in believers are the outward results of the workings of the same God who, as the Energy and Energizer of the Universe, is the source of all good and praiseworthy things. While believers may have different powers, it is important to remember that they all come from the same power of God. Therefore, we should be thankful for our own endowments and not despise or undervalue others, recognizing that all of these operations are to be traced back to God's agency. Ultimately, it is God who worketh all these effects in all the persons concerned.",
+            "wordCount": 105,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.6150530182588445,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.04,
+            "commentatorTierSimilarities": [
+                18.47,
+                36.48,
+                45.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All the various gifts and manifestations of the Spirit in believers are the outward results of the workings of the same God who, as the Energy and Energizer of the Universe, is the source of all good and praiseworthy things. While believers may have different powers, it is important to remember that they all come from the same power of God. Therefore, we should be thankful for our own endowments and not despise or undervalue others, recognizing that all of these operations are to be traced back to God's agency.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.5942491198757658,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                19.84,
+                39.2,
+                40.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The diverse operations and manifestations of the Spirit in believers are all the result of the same God working through them. These various gifts and abilities, collectively possessed by individuals, are to be traced back to God as the ultimate source. It is crucial for believers to recognize that their own endowments come from God and not to despise or undervalue the gifts of others. In essence, it is God who is the Energy and Energizer behind all these effects in the lives of believers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.5940283773493105,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.34,
+            "commentatorTierSimilarities": [
+                21.77,
+                34.02,
+                44.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All the various gifts and manifestations of the Spirit in believers are the outward results of the workings of the same God who is the Energy and Energizer of the Universe. While believers may have different powers, they all come from the same power of God. Therefore, we should be thankful for our own endowments and not despise or undervalue others, recognizing that all of these operations are to be traced back to God's agency. Ultimately, it is God who worketh all these effects in all the persons concerned.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.6396651359260164,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+            "commentatorTierSimilarities": [
+                19.03,
+                35.52,
+                45.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The diverse gifts and manifestations of the Spirit in believers are all the result of the workings of the same God, who is the Energy and Energizer of the Universe. Despite believers having different powers, they all originate from the same power of God. Consequently, we should express gratitude for our own endowments and avoid looking down upon or undervaluing others, acknowledging that all of these operations stem from God's agency. Ultimately, it is God who works these effects in all individuals involved.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.5554853039112728,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.06,
+            "commentatorTierSimilarities": [
+                20.95,
+                32.72,
+                46.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

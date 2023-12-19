@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:16",
+    "verseRef": "1 Peter 2:12",
+    "bestBHT": {
+        "bht": "In a world where we may face persecution, our good works can have a profound impact. Our conduct should reflect the righteousness of Christ, even if it means diverging from societal norms. By living honestly and honorably, we can silence our critics and draw others to glorify God. Through our actions, we testify to the transformative power of God's grace, inviting others to experience the same. May our lives inspire others to walk in obedience and bring glory to God.",
+        "wordCount": 81,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.7716458835491027,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.25,
+        "commentatorTierSimilarities": [
+            28.19,
+            28.91,
+            42.9
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That conduct, which was to them an occasion of speaking against you as evil-doers, may by your good works become to them an occasion of glorifying God.\" ",
+            "Often the Christians would be compelled to diverge from heathen customs and even to break human laws, and thus would incur the imputation of malefactors.",
+            "Glorify God in [the] day of visitation (i.e. the day when God visits)\u2014mankind with His offers of mercy and grace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our conversation should correspond to our Saviour's condition; this is in heaven, so ought that to be.\" ",
+            "A good walk does not make us pious, but we must first be pious and believe before we attempt to lead a good course.",
+            "The very works 'which on more careful consideration, must move the heathen to praise God, are at first the object of hatred and raillery."
+        ],
+        "Albert Barnes": [
+            "Lead upright and consistent lives.\" ",
+            "At the very time when they speak against you in this manner they may be silenced by seeing your upright lives.",
+            "Our conduct as Christians should be such as to bear the strictest scrutiny; such that the closest examination will lead our enemies to the conviction that we are upright and honest."
+        ],
+        "Marvin Vincent": [
+            "Wherein; in the matter in which.\" ",
+            "Behold with their own eyes.\" ",
+            "The 'day of visitation' is the day of looking upon."
+        ],
+        "John Calvin": [
+            "The evil speakings and the wicked insinuations of the ungodly ought to stimulate us to lead an upright life; for it is no time for living listlessly and securely, when they sharply watch us in order to find out whatever we do amiss.",
+            "We ought thus to strive, not for our own sake, that men may think and speak well of us; but that we may glorify God. And Peter shows how this would be effected, even that the unbelieving, led by our good works, would become obedient to God, and thus by their own conversion give glory to him.",
+            "God employs the holy and honest life of his people as a preparation to bring back the wandering to the right way. For it is the beginning of our conversion when God is pleased to look on us with a paternal eye; but when his face is turned away from us, we perish."
+        ],
+        "Philip Schaff": [
+            "The life of self restraint in the heart of corrupting heathen associations is to be a life so honest, or rather (with Wycliffe and the Rhemish) so good, so fair and honourable, that even the Gentiles may confess its attractiveness.",
+            "The term translated \u2018witnessing\u2019...expresses here keen personal observation.",
+            "Peter\u2019s exhortation is not to isolate themselves, but to be careful of their behaviour in the sight of the heathen till they found a \u2018silent witness and ally\u2019 in the hearts of their calumniators themselves."
+        ],
+        "Archibald T. Robertson": [
+            "The Gentiles are on the watch for slips in moral conduct by the Christians.",
+            "Heathen talk against us (\u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03bb\u03bf\u03c5\u03c3\u03b9\u03bd) gleefully.",
+            "In the day of visitation\" - echoes Matthew 5:16."
+        ],
+        "John Gill": [
+            "To have the conversation honest, is to provide things honest in the sight of men; to live and walk honestly before all; to do those things which are right and honest in the sight of God, and among men.",
+            "Let the saints attend to all the duties of civil life, that when Heathen magistrates come to visit their several districts, and inquire and examine into the conduct of men, and seeing and finding that the Christians behave well and orderly, instead of persecuting them, they will bless God that they are such good subjects.",
+            "When wicked men take notice of and observe the good works of the saints, their civil, honest, and orderly conversation, they shall glorify God on that account, who has enabled them to perform them; and acknowledge the goodness of them, and the wrong judgment they have passed upon them."
+        ],
+        "John Wesley": [
+            "Honest - Not barely unblamable, but virtuous in every respect.",
+            "That they by your good works which they shall behold - See with their own eyes.",
+            "May glorify God - By owning his grace in you, and following your example."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through our good works, we have the opportunity to change the narrative that others may have about us. In a world where we are often misunderstood or even persecuted, our conduct should reflect the purity and righteousness of Christ. Our actions should be so honest and honorable that even our enemies cannot help but take notice. Despite their initial disdain, they may eventually be silenced and captivated by the beauty of our lives. In doing so, they may come to glorify God and be moved to obedience. Our good works can be a powerful testimony that leads others to experience the transformative power of God's grace.",
+            "wordCount": 107,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.7153550089341691,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.38,
+            "commentatorTierSimilarities": [
+                25.79,
+                32.14,
+                42.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through our good works, we have the opportunity to change the narrative that others may have about us. Our conduct should reflect the purity and righteousness of Christ, even in the face of persecution and misunderstanding. By living honestly and honorably, even our enemies may be silenced and captivated by the beauty of our lives. In witnessing our good works, they may come to glorify God and be moved to obedience. Our actions can be a powerful testimony that leads others to experience the transformative power of God's grace.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7593797278219703,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.84,
+            "commentatorTierSimilarities": [
+                26.37,
+                31.85,
+                41.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through our good works, we have the opportunity to change the narrative about us. Our conduct should reflect the righteousness of Christ, even in the face of persecution. By living honestly and honorably, even our enemies may be silenced and captivated. In witnessing our good works, they may come to glorify God and be moved to obedience. Our actions can lead others to experience the transformative power of God's grace.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.7480935642151576,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                28.01,
+                30.65,
+                41.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a world where we may face persecution for our faith, our good works can have a profound impact. Our conduct should reflect the purity and righteousness of Christ, even if it means diverging from societal norms. By living honestly and honorably, we have the potential to silence our critics and draw others to glorify God. Our actions serve as a testimony, inviting others to experience the transformative power of God's grace. May our lives inspire others to walk in obedience and bring glory to God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7554908185051024,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.71,
+            "commentatorTierSimilarities": [
+                28.42,
+                29.27,
+                42.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a world where we may face persecution, our good works can have a profound impact. Our conduct should reflect the righteousness of Christ, even if it means diverging from societal norms. By living honestly and honorably, we can silence our critics and draw others to glorify God. Through our actions, we testify to the transformative power of God's grace, inviting others to experience the same. May our lives inspire others to walk in obedience and bring glory to God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7716458835491027,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.25,
+            "commentatorTierSimilarities": [
+                28.19,
+                28.91,
+                42.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

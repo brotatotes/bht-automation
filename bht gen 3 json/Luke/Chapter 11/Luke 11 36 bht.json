@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:18:26",
+    "verseRef": "Luke 11:36",
+    "bestBHT": {
+        "bht": "When the soul is single, straight, and single-seeing, without prejudice or selfish lusts, it becomes wholly illuminated by the teachings of God. This illuminating truth is emphasized, comparing it to the bright shining of a candle or a flash of lightning. Only when the whole body is filled with this light can one be in a normal condition of light, with no darkened corners, sin, or folly. In this state, the Gospel brings light and joy to every aspect of one's being, shedding its light into all our powers and faculties.",
+        "wordCount": 93,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.9685648330474477,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+        "commentatorTierSimilarities": [
+            29.24,
+            30.69,
+            40.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When thine eye is single (ver. 34),\u2014i. e. simple,\u2014straight and single-seeing,\u2014thy whole body will be light.",
+            "If the soul be so,\u2014having no part darkened by prejudice or selfish lusts, and approach thus to His teaching, it shall be wholly illuminated by it.",
+            "A weighty declaration of truth, answering to ch. viii. 16:\u2014see also John viii. 12."
+        ],
+        "Marvin Vincent": [
+            "The lamp with its bright shining.",
+            "It is used here to emphasize the idea of moral illumination.",
+            "The bright shining of a candle."
+        ],
+        "Philip Schaff": [
+            "Only when thy body is wholly illumined, without having even an obscure corner left therein, will it become so bright and clear as if the full brilliancy of a bright lamp illumined thee...\" (Van Oosterzee)",
+            "thou wilt be placed in a normal condition of light.\" (Van Oosterzee)",
+            "The necessity of a state of soul corresponding to and affected by the light which God so fully gives is here emphasized.\" (Van Oosterzee)"
+        ],
+        "Archibald T. Robertson": [
+            "With its bright shining (\u03c4\u03b7 \u03b1\u03c3\u03c4\u03c1\u03b1\u03c0\u03b7). Instrumental case, as if by a flash of lightning the light is revealed in him. See on Luke 10:18. "
+        ],
+        "John Gill": [
+            "If thy whole body therefore be full of light,....",
+            "the whole shall be full of light, as when the bright shining of a candle doth give thee light;",
+            "the whole soul shall be as full of light and joy, which the Gospel always brings with it"
+        ],
+        "John Wesley": [
+            "If thy whole body be full of light \u2014 If thou art filled with holy wisdom, having no part dark, giving way to no sin or folly...",
+            "...then that heavenly principle will, like the clear flame of a lamp in a room that was dark before, shed its light into all thy powers and faculties.",
+            "...shed its light into all thy powers and faculties."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the soul is simple, straight, and single-seeing, without prejudice or selfish lusts, it becomes wholly illuminated by the teachings of God. This illuminating truth is emphasized in Luke 11:36, comparing it to the bright shining of a candle or a flash of lightning. Only when the whole body is filled with this light can one be in a normal condition of light. This means having no darkened corners, no sin or folly, and being filled with holy wisdom. In this state, the Gospel brings light and joy to every aspect of one's being, shedding its light into all our powers and faculties.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.873445549458499,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+            "commentatorTierSimilarities": [
+                27.71,
+                30.73,
+                41.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the soul is single, straight, and single-seeing, without prejudice or selfish lusts, it becomes wholly illuminated by the teachings of God. This illuminating truth is emphasized, comparing it to the bright shining of a candle or a flash of lightning. Only when the whole body is filled with this light can one be in a normal condition of light, with no darkened corners, sin, or folly. In this state, the Gospel brings light and joy to every aspect of one's being, shedding its light into all our powers and faculties.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9685648330474477,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                29.24,
+                30.69,
+                40.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the soul is single, without prejudice or selfish lusts, it becomes wholly illuminated by the teachings of God. This illuminating truth is emphasized, comparing it to the bright shining of a candle or a flash of lightning. Only when the whole body is filled with this light can one be in a normal condition of light, with no darkened corners. In this state, the Gospel brings light and joy to every aspect, shedding its light into all our powers and faculties.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.9663473188088365,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                28.99,
+                31.57,
+                39.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the soul is simple and single-seeing, without prejudice or selfish lusts, it becomes wholly illuminated by God's teachings. This truth is emphasized, comparing it to the bright shining of a candle or a flash of lightning. Only when the body is filled with this light can one be in a normal condition of light, with no dark corners, sin, or folly. In this state, the Gospel brings light and joy to every aspect, shining into all our powers and faculties.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.959137868810358,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                30.36,
+                29.27,
+                40.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the soul is single, without prejudice or selfish lusts, it becomes wholly illuminated by God's teachings. This illuminating truth is emphasized, comparing it to the bright shining of a candle or a flash of lightning. Only when the whole body is filled with this light, with no darkened corners, can one be in a normal condition of light. In this state, the Gospel brings light and joy to every aspect, shedding its light into all our powers and faculties.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9677809551811247,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+            "commentatorTierSimilarities": [
+                28.95,
+                31.49,
+                39.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:27:59",
+    "verseRef": "Acts 8:11",
+    "bestBHT": {
+        "bht": "For a long time, this man had amazed and bewitched the people with his sorceries. He had used his magical arts to astound and astonish them, leaving them captivated by his tricks. It is interesting to consider if there is a physical explanation for his powers, and if his school of followers possessed advanced knowledge of nature. Yet, we should remember that our own wisdom and reason cannot protect us against Satan's craftiness. Instead, we must rely on the power of God in Christ to expose the enemy's deceptive schemes.",
+        "wordCount": 92,
+        "quoteTokenProportion": 42.25,
+        "qualityScore": 1.556787762353288,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+        "commentatorTierSimilarities": [
+            19.37,
+            41.63,
+            39.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The rendering 'he had bewitched them' is grammatically wrong.",
+            "The word rendered 'bewitched' (which is perhaps the best translation here) is 'amazed' in Matt. xii. 23,\u2014 'astonished' in Mark v. 42, Luke xxiv. 22&c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9-13. used sorcery\u2014magical",
+            "\tarts. ",
+            "\t",
+            "some great one . . . the",
+            "\tgreat power of God\u2014a sort of incarnation of divinity."
+        ],
+        "Marvin Vincent": [
+            "Bewitched. Amazed, as ver. 9"
+        ],
+        "John Calvin": [
+            "And thus must we do, we must valiantly attempt whatsoever the Lord commandeth, even when our endeavors seem to be vain.",
+            "When Luke saith that they were all seduced one with another, we are taught that neither wit, neither all that reason and wisdom which we have, are sufficient to avoid the craftiness of Satan withal.",
+            "Therefore it goeth well with us when God setteth forth to us his power in Christ, and declareth therewith that we must not seek the same anywhere else, and doth discover the sleights and juggling casts of Satan, which we must avoid, to the end he may keep us still in himself."
+        ],
+        "Philip Schaff": [
+            "He had bewitched them with sorceries.",
+            "It would be interesting to inquire how far the magical arts universally attributed to Simon and his followers admit of a physical explanation.",
+            "In his school, if anywhere, we should look for an advanced knowledge of nature."
+        ],
+        "Archibald T. Robertson": [
+            "Because that of long time he had amazed them with his sorceries.\" ",
+            "Causal use of \u03b4\u03b9\u03b1 with the accusative articular infinitive.\" ",
+            "\u03a7\u03c1\u03bf\u03bd\u03c9 is associative instrumental and \u03bc\u03b1\u03b3\u03b9\u03b1\u03b9\u03c2 instrumental case."
+        ],
+        "John Gill": [
+            "To him they had regard... because that of a long time he had bewitched them with sorceries.\" ",
+            "He had, it may be for many years, astonished them with his magic arts.",
+            "The pranks he played in the use of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For a long time, this man had amazed and bewitched the people with his sorceries. He was able to astound and astonish them, using his magical arts to gain their attention and admiration. It is interesting to consider how much of his powers were rooted in a physical explanation, and whether his school of followers possessed an advanced knowledge of nature. Nevertheless, it is a reminder that we must be cautious of the craftiness of Satan, as all the wisdom and reason we possess cannot protect us from his deceptive schemes. Instead, we must rely on the power of God in Christ to expose the sleights and juggling tricks of the enemy. Though our endeavors may seem in vain, we must valiantly obey the commands of the Lord.",
+            "wordCount": 128,
+            "quoteTokenProportion": 41.76,
+            "qualityScore": 1.5521822369076603,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.95,
+            "commentatorTierSimilarities": [
+                19.11,
+                40.7,
+                40.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For a long time, this man had amazed and bewitched the people with his sorceries. He had used his magical arts to astound and astonish them, leaving them captivated by his tricks. It is interesting to consider if there is a physical explanation for his powers, and if his school of followers possessed advanced knowledge of nature. Yet, we should remember that our own wisdom and reason cannot protect us against Satan's craftiness. Instead, we must rely on the power of God in Christ to expose the enemy's deceptive schemes.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.556787762353288,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+            "commentatorTierSimilarities": [
+                19.37,
+                41.63,
+                39.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This man had long amazed and bewitched the people with his sorceries, using his magical arts to astonish and captivate them. It is worth considering if there is a physical explanation behind his powers and if his followers possessed advanced knowledge of nature. Nevertheless, we must be cautious of Satan's craftiness, as our own wisdom and reason are insufficient to protect us. Instead, we should rely on the power of God in Christ to expose the enemy's deceptive schemes.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.4878615646469244,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.81,
+            "commentatorTierSimilarities": [
+                16.38,
+                42.74,
+                40.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For a long time, this man had amazed and bewitched the people with his sorceries. He had used his magical arts to astound and astonish them, leaving them captivated by his tricks. It is interesting to consider if there is a physical explanation for his powers, and if his school of followers possessed advanced knowledge of nature. Yet, we should remember that our own wisdom and reason cannot protect us against Satan's craftiness. Instead, we must rely on the power of God in Christ to expose the enemy's deceptive schemes.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.556787762353288,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+            "commentatorTierSimilarities": [
+                19.37,
+                41.63,
+                39.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This man had amazed and bewitched the people with his sorceries for a long time. Through his magical arts, he was able to astonish and captivate them. It is worth considering if there is a physical explanation for his powers and if his followers possessed advanced knowledge of nature. However, it is a reminder that we should be cautious of Satan's craftiness, as our own wisdom and reason are inadequate protection. Instead, we must rely on the power of God in Christ to expose the enemy's deceptive schemes.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5225996484717688,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.97,
+            "commentatorTierSimilarities": [
+                17.98,
+                44.03,
+                37.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

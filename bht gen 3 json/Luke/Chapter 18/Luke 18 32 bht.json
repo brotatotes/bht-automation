@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:21:25",
+    "verseRef": "Luke 18:32",
+    "bestBHT": {
+        "bht": "In Luke 18:32, there is a significant omission when compared to Matthew's account. Not only is the betrayal left out, but this is also the first announcement of the crucifixion. This omission can be seen as intentional, as a similar omission is found in another chapter. However, in other passages, we learn that Jesus will be delivered to the Gentiles, mocked, spitefully treated, and even spat upon. These injuries and abuses, both verbal and physical, were inflicted upon him by both the officers in the high priest's palace and the Roman soldiers in Pilate's hall.",
+        "wordCount": 97,
+        "quoteTokenProportion": 45.71,
+        "qualityScore": 1.3619955132176718,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.63,
+        "commentatorTierSimilarities": [
+            59.74,
+            0.0,
+            40.26
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The betrayal is omitted here, which is unaccountable if St. Luke saw St. Matthew\u2019s account.",
+            "Also the omission of the crucifying, this being the first announcement of it.",
+            "See a similar omission in ch. ix. 45."
+        ],
+        "John Gill": [
+            "For he shall be delivered unto the Gentiles... and shall be mocked... and spitefully entreated... and spitted on.\" ",
+            "It may regard the injuries done him, the abuses and affronts he received, both by words and blows.\" ",
+            "He was both spat on by officers in the high priest's palace, and by the Roman soldiers in Pilate's hall."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 18:32, there is a significant omission when compared to Matthew's account. Not only is the betrayal left out, but this is also the first announcement of the crucifixion. This omission can be seen as intentional, as a similar omission is found in another chapter. However, in other passages, we learn that Jesus will be delivered to the Gentiles, mocked, spitefully treated, and even spat upon. These injuries and abuses, both verbal and physical, were inflicted upon him by both the officers in the high priest's palace and the Roman soldiers in Pilate's hall.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.3619955132176718,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.63,
+            "commentatorTierSimilarities": [
+                59.74,
+                0.0,
+                40.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, there is a notable omission from Luke's account, which is surprising considering that he could have seen Matthew's version. The absence of the crucifixion announcement is especially significant here. It is worth noting that a similar omission occurs in another chapter. Nevertheless, various other passages highlight the mistreatment and insults that Jesus would endure, including being delivered to the Gentiles, mocked, and spat upon. These abuses involved both verbal and physical harm, with officers at the high priest's palace and Roman soldiers at Pilate's hall being responsible.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.2063712591829354,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.46,
+            "commentatorTierSimilarities": [
+                57.91,
+                0.0,
+                42.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, an intriguing omission takes place, which is difficult to explain given Luke's potential knowledge of Matthew's version. Strikingly, the crucifixion announcement is absent, making it a significant moment. Notably, this type of omission also occurs elsewhere in Luke's writing. Nevertheless, there are multiple passages that attest to the mistreatment and insults Jesus would endure, including being handed over to the Gentiles, enduring mockery, and even being spat upon. These acts of abuse consisted of both verbal and physical harm, inflicted by officers and Roman soldiers.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.1090786716637675,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.22,
+            "commentatorTierSimilarities": [
+                57.71,
+                0.0,
+                42.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, an intriguing omission occurs, raising questions about Luke's awareness of Matthew's version. Notably, the announcement of the crucifixion is missing, making it a significant departure. This pattern of omission is also observed elsewhere in Luke's Gospel. Nevertheless, other passages vividly portray the mistreatment and insults that Jesus would suffer. These include being delivered to the Gentiles, enduring mockery and spiteful mistreatment, and even being spat upon. The abuse inflicted upon Jesus involved verbal and physical assaults, administered both by officers and Roman soldiers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.1199544463018813,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.58,
+            "commentatorTierSimilarities": [
+                55.05,
+                0.0,
+                44.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, there is a puzzling exclusion that warrants consideration regarding Luke's familiarity with Matthew's version. Notably, the absence of the crucifixion announcement is a major divergence. A parallel omission can also be found elsewhere in Luke's writings. However, other passages provide vivid descriptions of the mistreatment and insults Jesus would endure. This includes being handed over to the Gentiles, enduring mockery, spiteful mistreatment, and even being spat upon. These acts of abuse involved both verbal and physical harm from both officers and Roman soldiers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.047038614954555,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.16,
+            "commentatorTierSimilarities": [
+                54.89,
+                0.0,
+                45.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

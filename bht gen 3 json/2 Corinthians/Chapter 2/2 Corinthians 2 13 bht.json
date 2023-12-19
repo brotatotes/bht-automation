@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:15:24",
+    "verseRef": "2 Corinthians 2:13",
+    "bestBHT": {
+        "bht": "In the midst of a promising opportunity for spiritual duty at Troas, the author's spirit finds no rest or relief. The absence of Titus, their close companion and colleague, adds to their restlessness and anxiety to learn about the state of affairs in Corinth. In their deep concern and longing for tidings, they bid farewell and journey to Macedonia, demonstrating the importance of addressing the needs of their faith community and being willing to leave behind fruitful fields for the sake of spiritual care.",
+        "wordCount": 85,
+        "quoteTokenProportion": 25.42,
+        "qualityScore": 1.7028090659202695,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+        "commentatorTierSimilarities": [
+            27.27,
+            38.1,
+            34.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I had no rest for my spirit.\" ",
+            "He could not with any tranquillity prosecute the spiritual duties opened to him at Troas.",
+            "Titus my brother implies a relation closer than merely that of Christian brotherhood\u2014my colleague in the Apostleship."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "no rest for my spirit\" (:-).",
+            "His 'spirit' under the Holy Spirit\".",
+            "the door\" of usefulness at Troas."
+        ],
+        "Albert Barnes": [
+            "I had no rest in my spirit - I was disappointed, sad, deeply anxious.",
+            "Though the work in which I was engaged was that which usually gives me my highest joy, yet such was my anxiety to learn the state of things in Corinth.",
+            "It shows that there may be cases where it is proper for ministers to leave a field of great and inviting usefulness, to go to another field and to engage in another part of the great vineyard."
+        ],
+        "Marvin Vincent": [
+            "Rest [\u03b1\u03bd\u03b5\u03c3\u03b9\u03bd] . Rev., relief.",
+            "Taking my leave [\u03b1\u03c0\u03bf\u03c4\u03b1\u03be\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2] . The verb means, primarily, to set apart or separate; hence to separate one's self, withdraw, and so to take leave of.",
+            "Ignatins, ajpotaxamenov tw biw having bid farewell to the life, that is, this lower life (Epistle to Philadelphia, 11.)."
+        ],
+        "Philip Schaff": [
+            "I had no relief for my spirit, because I found not Titus my brother as if this seemed to bode ill news.\" ",
+            "Before parting they had probably arranged their respective routes, so as to give reasonable hope of their meeting at Troas, and failing this in Macedonia.\" ",
+            "He got from him such tidings as caused him to break forth into the transport expressed in the next verse."
+        ],
+        "Archibald T. Robertson": [
+            "I had no relief... He still feels the shadow of that restlessness.\" ",
+            "For my spirit... Dative of interest.\" ",
+            "Taking my leave of them... to bid adieu to."
+        ],
+        "John Gill": [
+            "Though there was such a door opened to preach the Gospel.... he was greatly distressed in his mind; very restless and uneasy in his spirit.",
+            "He was exceedingly desirous of knowing from him [Titus] the state of affairs in the church at Corinth.",
+            "By whose [Titus] coming to him he was greatly refreshed and comforted."
+        ],
+        "John Wesley": [
+            "I had no rest in my spirit.\" ",
+            "Because I did not find Titus.\" ",
+            "So I went forth into Macedonia."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 2:13, the author expresses their restlessness in spirit, unable to find tranquillity and relief even though a door of usefulness had opened for them at Troas. The absence of Titus, their close companion in the Apostleship, heightened their anxiety to learn about the state of affairs in Corinth. In their deep concern, they eventually bid farewell and journeyed to Macedonia. This verse serves as a reminder that even in the midst of great opportunities, spiritual laborers may face restless spirits and the need to leave one field of work for another, emphasizing the importance of understanding and addressing the needs of their faith communities.",
+            "wordCount": 105,
+            "quoteTokenProportion": 28.38,
+            "qualityScore": 1.6151128938053647,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.04,
+            "commentatorTierSimilarities": [
+                24.24,
+                37.63,
+                38.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In their earnest desire to know the state of affairs, the author grapples with a restless spirit, finding no relief and tranquillity even amidst the open door of usefulness in Troas. Their close connection with Titus, a fellow laborer, intensifies their longing for news. This longing leads them to eventually bid farewell and embark on a journey to Macedonia, underscoring the importance of understanding and addressing the needs of their faith community, even if it means leaving behind a field of great opportunities.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.570122798840916,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.55,
+            "commentatorTierSimilarities": [
+                24.65,
+                39.22,
+                36.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of a promising opportunity for spiritual duty at Troas, the author's spirit finds no rest or relief. The absence of Titus, their close companion and colleague, adds to their restlessness and anxiety to learn about the state of affairs in Corinth. In their deep concern and longing for tidings, they bid farewell and journey to Macedonia, demonstrating the importance of addressing the needs of their faith community and being willing to leave behind fruitful fields for the sake of spiritual care.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.7028090659202695,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "commentatorTierSimilarities": [
+                27.27,
+                38.1,
+                34.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the opportunity for spiritual duties in Troas, the author's spirit finds no rest or relief. The absence of Titus, their close colleague and brother, intensifies their restlessness and desire to know the state of affairs in Corinth. Filled with deep concern, they bid farewell and depart for Macedonia. This verse highlights the importance of understanding and addressing the needs of the faith community, even if it means leaving behind fields of great promise.",
+            "wordCount": 75,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.578508602082033,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                27.17,
+                36.41,
+                36.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Longing to learn the state of affairs in Corinth, the author's spirit finds no tranquility, hindered from fulfilling spiritual duties at Troas. The absence of Titus, their dear companion, heightens their restlessness. With deep concern, they bid farewell and set off for Macedonia, leaving behind a door of usefulness. This passage emphasizes the significance of understanding and addressing the needs of their faith community, even if it necessitates departing from promising opportunities.",
+            "wordCount": 73,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.5601681310329918,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.22,
+            "commentatorTierSimilarities": [
+                27.21,
+                34.39,
+                38.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

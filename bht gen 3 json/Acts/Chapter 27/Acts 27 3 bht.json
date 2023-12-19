@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:36:59",
+    "verseRef": "Acts 27:3",
+    "bestBHT": {
+        "bht": "As the ship sailed toward ancient Sidon, about 70 miles north of Caesarea, they had a fair wind that allowed them to reach the port in one day. Julius, the centurion, treated Paul courteously by allowing him to go ashore and receive care. This attention to small personal details adds depth to the narrative. It is suggested that Paul may have needed medical attention due to his long confinement. These interactions highlight the human side of the journey and illustrate the centurion's kindness toward Paul.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.51945136563881,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+        "commentatorTierSimilarities": [
+            34.12,
+            28.02,
+            37.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To reach this ancient and celebrated Mediterranean port, about seventy miles north from C\u00e6sarea, in one day, they must have had a fair wind.",
+            "Julius courteously\u2014(See on Acts 27:2).",
+            "Such small personal details are in this case extremely interesting."
+        ],
+        "Albert Barnes": [
+            "Treated him kindly or humanely.",
+            "The same thing had been done by Felix.",
+            "To enjoy the benefit of their care; to make his present situation and his voyage as comfortable as possible."
+        ],
+        "Marvin Vincent": [
+            "Touched is an inferential rendering. Landed would be quite as good.",
+            "Courteous, from court, expresses rather polish of manners than real kindness.",
+            "To refresh himself, to receive care or attention."
+        ],
+        "John Calvin": [
+            "He suffered him to go to... he could not withdraw himself from the calling of God.\" ",
+            "He ought not nor could he provide for his own life, with the other man's danger, without filthy treachery.\" ",
+            "All that which is said tendeth to this end, that we may know that their sailing was dangerous and tempestuous, after that they were once gone out of the haven of Sidon, until they came near to Melita."
+        ],
+        "Philip Schaff": [
+            "The wind was blowing hard from the northwest from the first, and nothing was more natural than that the vessel should go into harbour at Sidon.",
+            "Julius courteously entreated (i.e. treated) Paul. Already we have a strong indication of the centurion\u2019s friendly disposition, and of the influence gained by the apostle over him.",
+            "To refresh himself. More literally, to obtain friendly care. Two particulars here naturally suggest themselves."
+        ],
+        "Archibald T. Robertson": [
+            "Treated Paul kindly (\u03c6\u03b9\u03bb\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03c2 \u03c4\u03c9 \u03a0\u03b1\u03c5\u03bb\u03c9 \u03c7\u03c1\u03b7\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2). 'Using (\u03c7\u03c1\u03b7\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2) Paul kindly' (\u03c6\u03b9\u03bb\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03c2).\" ",
+            "The ship stopped here for trade.\" ",
+            "It may have been medical attention required because of Paul's long confinement."
+        ],
+        "John Gill": [
+            "The centurion into whose hands the apostle was delivered, used him with great humanity and civility; he found grace in his sight.",
+            "The apostle was allowed to go ashore, and visit his friends, and be refreshed by them, both in body and spirit.",
+            "It is highly probable that there was here a Gospel church, but by whom planted cannot be said."
+        ],
+        "John Wesley": [
+            "Julius treating Paul courteously \u2014 Perhaps he had heard him make his defence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the ship sailed towards the ancient port of Sidon, roughly 70 miles north of Caesarea, the crew benefitted from a fair wind, allowing them to reach their destination in one day. When they arrived, Julius, the centurion, extended his courtesy to Paul by allowing him to go ashore and receive care and attention from his friends. This small detail highlights the human side of the narrative and shows how the centurion treated Paul kindly. It is suggested that Paul may have needed medical attention due to his long confinement. Overall, this passage demonstrates the importance of these personal interactions in the midst of a dangerous and tempestuous journey.",
+            "wordCount": 108,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 1.4720861346006742,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.29,
+            "commentatorTierSimilarities": [
+                31.3,
+                28.91,
+                39.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the ship sailed toward ancient Sidon, about 70 miles north of Caesarea, they had a fair wind that allowed them to reach the port in one day. Julius, the centurion, treated Paul courteously by allowing him to go ashore and receive care. This attention to small personal details adds depth to the narrative. It is suggested that Paul may have needed medical attention due to his long confinement. These interactions highlight the human side of the journey and illustrate the centurion's kindness toward Paul.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.51945136563881,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+            "commentatorTierSimilarities": [
+                34.12,
+                28.02,
+                37.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As they sailed towards ancient Sidon, the ship benefitted from a fair wind, swiftly reaching the port in one day. The centurion Julius showed kindness to Paul by allowing him to go ashore and receive care. This attention to personal details provides insight into the characters and circumstances of the story. There is speculation that Paul may have required medical attention due to his prolonged confinement. This passage emphasizes the significance of these interactions amidst the challenging and turbulent voyage.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.4271326417576258,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.79,
+            "commentatorTierSimilarities": [
+                33.83,
+                29.37,
+                36.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the ship sailed towards Sidon, a fair wind propelled them to the port in record time. Julius, the centurion, demonstrated his courtesy by allowing Paul to go ashore for refreshment and care. This small detail adds depth to the narrative, showcasing the kindness and humanity displayed in this perilous journey. It is speculated that Paul may have required medical attention after his prolonged confinement. These personal interactions serve as a reminder of the significance of compassion amidst turbulent circumstances.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.3956709722430265,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.75,
+            "commentatorTierSimilarities": [
+                33.96,
+                29.52,
+                36.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They sailed swiftly towards ancient Sidon with the help of a fair wind, reaching the port in just one day. Julius, the centurion, treated Paul kindly by permitting him to go ashore and receive care from his friends. This attention to personal details adds fascinating depth to the narrative, conveying the humanity of the characters involved. It is even suggested that Paul may have needed medical attention due to his prior confinement. These interactions amidst the dangerous and tempestuous journey underscore the significance of kindness and compassion in difficult times.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.4322793926728021,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.97,
+            "commentatorTierSimilarities": [
+                32.09,
+                30.14,
+                37.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 14:18:55",
+    "verseRef": "Galatians 4:27",
+    "bestBHT": {
+        "bht": "St. Paul interprets the barren woman as representing the promise, while the fruitful woman represents the Law. The spiritual Jerusalem is considered 'barren' during the time of the Law, but with Christianity, she becomes fruitful, giving birth to many children. The inclusion of the Gentiles surpasses the number of the Jewish people, fulfilling a prophecy. The Christian church, especially the Gentile Christian church, is portrayed as the barren who becomes fruitful, reflecting the progress and glory of Christianity compared to the old Jerusalem of bondage.",
+        "wordCount": 85,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 2.0805831377289525,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+        "commentatorTierSimilarities": [
+            28.69,
+            38.35,
+            32.96
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The citation is from the Septuagint version, verbatim.",
+            "St. Paul here interprets the barren of Sarah, who bore not according to the flesh (representing the promise), and the fruitful, of Hagar (representing the Law).",
+            "many are the children of the desolate, more than (rather than; both being numerous, hers are the more numerous) of her, &c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The spiritual Jerusalem is regarded as 'barren' while the law trammeled Israel, for she then had no spiritual children of the Gentiles.",
+            "Many are the children of the desolate, more than of her which hath an (Greek, 'THE') husband.",
+            "Numerous as were the children of the legal covenant, those of the Gospel covenant are more so."
+        ],
+        "Albert Barnes": [
+            "The sense is, that the accession from the Gentile world would be far more numerous than the Jewish people had ever been; a prophecy that has been already fulfilled.",
+            "Rejoice thou barren that bearest not - As a woman who has had no children would rejoice. This represents probably the pagan world as having been apparently forsaken and abandoned, and with whom there had been none of the true children of God.",
+            "For the desolate - She who was desolate and apparently forsaken. It literally refers to a woman who had seemed to be desolate and forsaken, who was unmarried. In Isaiah it may refer to Jerusalem, long forsaken and desolate, or as some suppose to the Gentile world."
+        ],
+        "John Calvin": [
+            "The design of the apostle, let it be carefully remarked, is to deprive the Jews of all claim to that spiritual Jerusalem to which the prophecy relates.",
+            "He next concludes that we become the sons of God by promise, after the example (\u03ba\u03b1\u03c4\u1f70 \u1fbf\u0399\u03c3\u03b1\u1f70\u03ba) of Isaac, and that in no other way do we obtain this honor.",
+            "To readers little skilled or practiced in the examination of Scripture, this reasoning may appear inconclusive; because they do not hold the most undoubted of all principles, that all the promises, being founded on the Messiah, are of free grace."
+        ],
+        "Philip Schaff": [
+            "Rejoice, thou barren that bearest not,\" an illustration of the allegory by a passage from Isaiah 54:1, prophesying the deliverance of God's afflicted nation from foreign bondage and her restoration to freedom and prosperity.",
+            "From a mourning widow, like Sarah, she shall become a rejoicing mother of many children.",
+            "The barren who becomes fruitful is the type of the Christian church, more especially the Gentile Christian church, as opposed to the Jewish synagogue."
+        ],
+        "Archibald T. Robertson": [
+            "The Jerusalem above is the picture of the Kingdom of God.",
+            "Rejoice...Break forth...The desolate.",
+            "The progress and glory of Christianity...in contrast with the old Jerusalem of bondage."
+        ],
+        "John Gill": [
+            "Rejoice thou barren that bearest not, break forth and cry thou that travailest not, for the desolate hath many more children than she which hath an husband.",
+            "Praise, O Jerusalem, which was as a barren woman that bringeth not forth; rejoice in praise, and be glad, who was as a woman which conceives not, for more are the children of Jerusalem forsaken than the children of the habitable city, saith the Lord."
+        ],
+        "John Wesley": [
+            "For it is written \u2014 Those words in the primary sense promise a flourishing state to Judea, after its desolation by the Chaldeans.",
+            "Rejoice, thou barren, that bearest not \u2014 Ye heathen nations, who, like a barren woman, were destitute, for many ages, of a seed to serve the Lord.",
+            "Break forth and cry aloud for joy, thou that, in former time, travailedst not: for the desolate hath many more children than she that hath an husband - For ye that were so long utterly desolate shall at length bear more children than the Jewish church, which was of old espoused to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle here interprets Sarah, who bore not according to the flesh, as representing the promise, while Hagar represents the Law. The spiritual Jerusalem is seen as 'barren' during the time of the law, but with the advent of Christianity, she becomes fruitful and gives birth to many children. The citation from the Septuagint version emphasizes the progression and glory of Christianity, contrasting it with the old Jerusalem of bondage. The sense is that the inclusion of the Gentiles far surpasses the number of the Jewish people, fulfilling a prophecy. As the barren woman rejoices in bearing children, so too does the pagan world rejoice in being embraced by God. The Christian church, especially the Gentile Christian church, is portrayed as the barren who becomes fruitful.",
+            "wordCount": 126,
+            "quoteTokenProportion": 32.5,
+            "qualityScore": 2.0594725331534685,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                27.88,
+                38.23,
+                33.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle interprets Sarah, who bore not according to the flesh, as representing the promise, while Hagar represents the Law. The spiritual Jerusalem is seen as 'barren' during the time of the law, but with Christianity, she becomes fruitful and gives birth to many children. The inclusion of the Gentiles far surpasses the number of the Jewish people, fulfilling a prophecy. As the barren woman rejoices in bearing children, so too does the pagan world rejoice in being embraced by God. The Christian church is portrayed as the barren who becomes fruitful.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.022874719313072,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                27.28,
+                38.36,
+                34.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "St. Paul interprets the barren woman as representing the promise, while the fruitful woman represents the Law. The spiritual Jerusalem is considered 'barren' during the time of the law, but Christianity brings forth many more children. The inclusion of the Gentiles surpasses the number of the Jewish people, fulfilling a prophecy. The Christian church, particularly the Gentile Christian church, is portrayed as the barren woman who becomes fruitful. This verse highlights the progress and glory of Christianity in contrast to the old Jerusalem of bondage.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.061096958973857,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.87,
+            "commentatorTierSimilarities": [
+                29.54,
+                37.44,
+                33.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "St. Paul interprets the barren woman representing the promise and the fruitful woman representing the Law. The spiritual Jerusalem is seen as 'barren' during the time of the Law, but with Christianity, she becomes fruitful and gives birth to many children. The inclusion of the Gentiles surpasses the number of the Jewish people, fulfilling a prophecy. Rejoicing in bearing children, the pagan world is embraced by God. The Christian church, especially the Gentile Christian church, is portrayed as the barren who becomes fruitful, symbolizing the progress and glory of Christianity.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.9419340391678748,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+            "commentatorTierSimilarities": [
+                27.45,
+                39.15,
+                33.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "St. Paul interprets the barren woman as representing the promise, while the fruitful woman represents the Law. The spiritual Jerusalem is considered 'barren' during the time of the Law, but with Christianity, she becomes fruitful, giving birth to many children. The inclusion of the Gentiles surpasses the number of the Jewish people, fulfilling a prophecy. The Christian church, especially the Gentile Christian church, is portrayed as the barren who becomes fruitful, reflecting the progress and glory of Christianity compared to the old Jerusalem of bondage.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.0805831377289525,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+            "commentatorTierSimilarities": [
+                28.69,
+                38.35,
+                32.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

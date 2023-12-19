@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:17:55",
+    "verseRef": "2 Corinthians 9:8",
+    "bestBHT": {
+        "bht": "God's grace is constantly available to us, giving us sufficiency in all things. This sufficiency, not limited to worldly possessions, allows us to be self-sufficient in Christ and independent of external circumstances. The gifts bestowed upon us are meant to be used to abound in good works towards others. As we trust in God's provision, we can expect blessings and an increase in our ability to generously consider the needs of others. Our acts of benevolence are not in vain, as God will multiply and restore to us what we have given.",
+        "wordCount": 95,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 2.122973426683167,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+        "commentatorTierSimilarities": [
+            27.11,
+            38.01,
+            34.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "every grace...at all times in every thing\" ",
+            "having at all times and in all things a sufficiency",
+            "having more...not inconsistent with sufficiency"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God's gifts are bestowed on us, not that we may have them to ourselves, but that we may the more 'abound in good works' to others.",
+            "Sufficiency\u2014so as not to need the help of others, having yourselves from God 'bread for your food.'",
+            "In all things\u2014'in everything,' every good work\u2014of charity to others, which will be 'your seed sown'."
+        ],
+        "Albert Barnes": [
+            "You should rather confide in God, who is able to furnish you abundantly with what is needful for the supply of your necessities.",
+            "The divine blessing rests upon the liberal man, and that God keeps him from want.",
+            "The man who gives, therefore, should have faith in God. He should expect that God will bless him in it; and the experience of the Christian world may be appealed to in proof that people are not made poor by liberality."
+        ],
+        "Marvin Vincent": [
+            "Always - all - in everything. Nearly reproducing the play on the word all in the Greek.",
+            "The word properly means self-sufficiency, and is one of those which show Paul's acquaintance with Stoicism, and the influence of its vocabulary upon his own.",
+            "Here, not in the sense of sufficiency of worldly goods, but of that moral quality, bound up with self-consecration and faith, which renders the new self in Christ independent of external circumstances."
+        ],
+        "John Calvin": [
+            "Those that do good to the poor do no less provide for their own interests than if they were watering their lands.\" ",
+            "Such liberality will deprive you of nothing, but God will make it return to you in much greater abundance.\" ",
+            "The reason why God does us good is \u2014 not that every one may keep to himself what he has received, but that there may be a mutual participation among us, according as necessity may require."
+        ],
+        "Philip Schaff": [
+            "And God is able to make all grace abound unto you.",
+            "that ye, having always all sufficiency in every thing, may abound unto every good work",
+            "God is able, not only to make up to you what ye part with to those who need it, but to give you the means of so continuing in this generous consideration of the wants of others, as to abound in every work of Christian beneficence"
+        ],
+        "Archibald T. Robertson": [
+            "All sufficiency (\u03c0\u03b1\u03c3\u03b1\u03bd \u03b1\u03c5\u03c4\u03b1\u03c1\u03ba\u03b5\u03b9\u03b1\u03bd). Old word from \u03b1\u03c5\u03c4\u03b1\u03c1\u03ba\u03b7\u03c2 (Philippians 4:11), common word, in N.T. only here and 1 Timothy 6:6). The use of this word shows Paul's acquaintance with Stoicism.",
+            "Paul takes this word of Greek philosophy and applies it to the Christian view of life as independent of circumstances.",
+            "Note threefold use of 'all' here (\u03b5\u03bd \u03c0\u03b1\u03bd\u03c4\u03b9, \u03c0\u03b1\u03bd\u03c4\u03bf\u03c4\u03b5, \u03c0\u03b1\u03c3\u03b1\u03bd, in everything, always, all sufficiency)."
+        ],
+        "John Gill": [
+            "By it is meant all that goodness, beneficence, and liberality exercised towards the poor members of Christ; God is able, and he will, and it ought to be believed that he will, cause to return with an increase, all that which is expended in relieving the necessities of the saints; that is not thrown away and lost, which is communicated to them, but shall be repaid with use and interest, be restored with abundance.",
+            "God is able to increase, and will so increase your worldly substance, that you shall have a sufficiency, a perfect and entire sufficiency; enough for yourselves and families, for the entertainment of your friends, and the relief of the poor; which shall give you satisfaction and contentment, and that at all times, and with respect to everything necessary for you, as to food and raiment.",
+            "That ye may abound to every good work; as to all good works, so to this of beneficence in particular, and to every branch of it, as feeding the hungry, clothing the naked, and the like."
+        ],
+        "John Wesley": [
+            "How remarkable are these words! Each is loaded with matter and increases all the way it goes.",
+            "God gives us everything, that we may do good therewith, and so receive more blessings.",
+            "All things in this life, even rewards, are, to the faithful, seeds in order to a future harvest."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's abundant grace is always available to us in everything we do. It is not meant for us to keep to ourselves, but rather to overflow into good works towards others. As we trust in God's sufficiency, we become self-sufficient in Christ and independent of external circumstances. God's ability to bless us abundantly is not limited to material possessions, but extends to every aspect of our lives. We are encouraged to have faith in God and expect His provision as we continue to generously consider the needs of others. This liberality does not deprive us, but rather results in an increase of blessings and a mutual participation among believers. God's blessings are like seeds that we sow, knowing that they will bring a bountiful harvest in due time.",
+            "wordCount": 133,
+            "quoteTokenProportion": 42.53,
+            "qualityScore": 2.030306666141912,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.85,
+            "commentatorTierSimilarities": [
+                25.93,
+                37.72,
+                36.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's abundant grace is bestowed upon us in every aspect of our lives, allowing us to always have sufficiency. However, this sufficiency is not meant for us to keep to ourselves, but rather to overflow into good works towards others. As we trust in God's provision, we become self-sufficient in Christ, independent of external circumstances. Our faith in God's ability to bless us abundantly extends beyond material possessions, encompassing every area of our lives. Through our generous consideration of the needs of others, we can expect an increase in blessings and a mutual participation among believers.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 2.0507174658851817,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                28.49,
+                37.47,
+                34.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's grace is always available to us in every situation, providing us with sufficiency and enabling us to abound in good works towards others. This sufficiency refers not only to worldly possessions, but also to the moral quality of self-consecration and faith that makes us independent of external circumstances. As we trust in God's provision, we can have confidence that He will bless us abundantly and enable us to continue in our generosity towards those in need. Our acts of kindness and benevolence are not in vain, as God will cause our investments to yield a fruitful harvest.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.1158646268268617,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.69,
+            "commentatorTierSimilarities": [
+                27.51,
+                37.32,
+                35.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's grace is constantly available to us, giving us sufficiency in all things. This sufficiency, not limited to worldly possessions, allows us to be self-sufficient in Christ and independent of external circumstances. The gifts bestowed upon us are meant to be used to abound in good works towards others. As we trust in God's provision, we can expect blessings and an increase in our ability to generously consider the needs of others. Our acts of benevolence are not in vain, as God will multiply and restore to us what we have given.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.122973426683167,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                27.11,
+                38.01,
+                34.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's grace extends to every aspect of our lives, providing us with sufficiency in all things. This sufficiency is not self-contained, but rather meant to overflow into acts of kindness and generosity towards others. As we trust in God's provision, we become self-sufficient in Christ, independent of external circumstances. Through our good works, we participate in the mutual sharing of blessings among believers. God's blessings are not limited to material possessions but encompass every area of our lives. We can trust that our acts of generosity will bring about a bountiful harvest of blessings.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.9941755788171123,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.65,
+            "commentatorTierSimilarities": [
+                28.78,
+                35.75,
+                35.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

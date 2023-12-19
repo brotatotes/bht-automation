@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:14:26",
+    "verseRef": "Luke 2:35",
+    "bestBHT": {
+        "bht": "This prophecy delves into the deep sorrow that Mary would experience, extending beyond witnessing her son's sufferings. It highlights the anguish she would endure as a result of Christ's ministry and the rejection he would face. This piercing of sorrow would lay bare the thoughts and attitudes of those encountering Jesus. The imagery of a Thracian sword emphasizes the profound division and anguish that Mary would undergo, particularly when standing at the foot of the cross. Through Christ's rejection, hidden thoughts and purposes would be revealed, forcing individuals to take a definitive position in regard to Him.",
+        "wordCount": 100,
+        "quoteTokenProportion": 33.82,
+        "qualityScore": 2.068401604323604,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+        "commentatorTierSimilarities": [
+            31.77,
+            31.87,
+            36.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This prophecy I do not believe to have its chief reference to the deep sorrows of the mother of our Lord on beholding His sufferings...\" (25 words)",
+            "The sharp pangs of sorrow for sin must pierce her heart also... that reasonings out of many hearts may be revealed.\" (23 words)",
+            "We may find moreover, in the traces of her connexion with our Lord in the Evangelic history, the piercing and dividing of her soul...\" (25 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Blessed as thou art among women, thou shalt have thine own deep share of the struggles and sufferings which this Babe is to occasion.",
+            "Men's views and decisions regarding Christ are a mirror in which the very 'thoughts of their hearts' are seen.",
+            "Pointing not only to the continued obloquy and rejection of this Child of hers, those agonies of His which she was to witness at the cross, and her desolate condition thereafter, but to dreadful alternations of faith and unbelief, of hope and fear regarding Him, which she would have to pass through."
+        ],
+        "Albert Barnes": [
+            "The sufferings and death of thy Son shall deeply afflict thy soul.",
+            "He shall be a sign, a conspicuous object to be spoken against, that the thoughts of many hearts may be made manifest.",
+            "Many treat him with silent contempt; many are ready to gnash their teeth; many curse him; all show how much by nature the heart is opposed to religion."
+        ],
+        "Marvin Vincent": [
+            "A sword [\u03c1\u03bf\u03bc\u03c6\u03b1\u03b9\u03b1] . Strictly, a large Thracian broadsword.\" ",
+            "Used in Setpuagint of the sword of Goliath (1 Samuel 17:51).\" ",
+            "A figure of Mary's pang when her son should be nailed to the cross."
+        ],
+        "John Calvin": [
+            "But also a sword shall pierce thy own soul This warning must have contributed greatly to fortify the mind of the holy virgin...her sorest battle was with the cross.\" ",
+            "The patience of the saints differs widely from stupidity...it would have required a heart of stone not to be deeply wounded.\" ",
+            "When the light of the Gospel arises, and persecutions immediately spring up, there is, at the same time, a disclosure of affections of the heart, which had been hitherto concealed...Christ, by his light, discloses every artifice, and unmasks hypocrisy."
+        ],
+        "Philip Schaff": [
+            "The rejection and suffering of Christ has just been indicated; with this the grief of Mary will correspond. The culmination of her grief is at the culmination of His sorrows: the sword pierces deepest at the cross.",
+            "This is the key-note of the Stabat Mater Dolorosa.",
+            "Whether men fall or rise, the appearance of this child will reveal their secret heart, and this will be done through the cross, to which there is a latent reference throughout."
+        ],
+        "Archibald T. Robertson": [
+            "How little Mary understood the meaning of Simeon's words that seemed so out of place in the midst of the glorious things already spoken, a sharp thorn in their roses, a veritable bitter-sweet.\" (Commentary)",
+            "But one day Mary will stand by the Cross of Christ with this Thracian javelin clean through her soul, \u03c3\u03c4\u03b1\u03b2\u03b1\u03c4 \u039c\u03b1\u03c4\u03b5\u03c1 \u0394\u03bf\u03bb\u03bf\u03c1\u03bf\u03c3\u03b1 (John 19:25).\" (Commentary)",
+            "He is to test men's thoughts (\u03b4\u03b9\u03b1\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03bf) and purposes. They will be compelled to take a stand for Christ or against him. That is true today.\" (Commentary)"
+        ],
+        "John Gill": [
+            "Yea, a sword shall pierce through thy own soul also... as he was a man of sorrows, so was she a woman of sorrows, from his cradle to his cross; and his sorrows, like so many darts, or javelins, rebounded from him to her, and pierced her soul through.",
+            "Some think this refers to martyrdom, which she was to suffer by the sword...",
+            "...all these afflictions, reproaches, and persecutions, he and his were to endure for this end; that the secret thoughts of men might be discovered, and they be known to be what they were, whether hypocrites, or good men, foes or friends of Christ."
+        ],
+        "John Wesley": [
+            "A sword shall pierce through thy own soul \u2014 So it did, when he suffered: particularly at his crucifixion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This prophecy does not primarily refer to the sorrow Mary experienced at witnessing her son's sufferings; rather, it signifies the deep sorrow she would endure as a result of Christ's ministry and the rejection he would face. The sharp pangs of sorrow for sin would pierce her heart, revealing the thoughts and attitudes of many people regarding Christ. Jesus would be a sign to be spoken against, and this would expose the true condition of people's hearts. Mary's soul would be divided and pierced like a Thracian sword, especially when she stood at the foot of the cross, fulfilling Simeon's words. Through the rejection and suffering of Christ, individuals' hidden thoughts and purposes would be unveiled, showing their stance for or against Him. This still holds true today.",
+            "wordCount": 133,
+            "quoteTokenProportion": 32.53,
+            "qualityScore": 1.9377308404548281,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                32.22,
+                31.54,
+                36.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This prophecy has a deeper meaning than Mary's sorrow at witnessing her son's suffering. It signifies the profound grief she would experience due to Christ's ministry and the rejection he would face. The piercing sorrow would reveal the thoughts and attitudes of people towards Jesus. He would be a sign to be spoken against, exposing the true condition of hearts. Like a Thracian sword, Mary's soul would be divided and pierced, especially at the cross. Through Christ's rejection, hidden thoughts and purposes would be revealed, requiring individuals to take a stand for or against Him.",
+            "wordCount": 100,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9908008964861184,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.54,
+            "commentatorTierSimilarities": [
+                31.33,
+                33.39,
+                35.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This prophecy holds a deeper significance that goes beyond Mary's sorrow at witnessing her son's sufferings. It represents the profound grief she would endure as a result of Christ's ministry and the rejection he would face. This sorrow would expose the thoughts and attitudes of those who encounter Jesus. He would become a sign to be spoken against, revealing the true condition of their hearts. Like a Thracian sword, Mary's soul would be pierced, especially at the cross, as the rejection of Christ would bring to light people's hidden thoughts and purposes, forcing them to choose their stance toward Him.",
+            "wordCount": 105,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 2.0661556339136737,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                30.62,
+                35.1,
+                34.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This prophecy delves into the deep sorrow that Mary would experience, extending beyond witnessing her son's sufferings. It highlights the anguish she would endure as a result of Christ's ministry and the rejection he would face. This piercing of sorrow would lay bare the thoughts and attitudes of those encountering Jesus. The imagery of a Thracian sword emphasizes the profound division and anguish that Mary would undergo, particularly when standing at the foot of the cross. Through Christ's rejection, hidden thoughts and purposes would be revealed, forcing individuals to take a definitive position in regard to Him.",
+            "wordCount": 100,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.068401604323604,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+            "commentatorTierSimilarities": [
+                31.77,
+                31.87,
+                36.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This prophecy goes beyond Mary's sorrow at witnessing her son's sufferings. It reveals the deep grief she would experience due to Christ's ministry and the rejection he would face. Through this sorrow, the thoughts and attitudes of those encountering Jesus would be exposed. As a sign to be spoken against, Christ would unveil the true condition of people's hearts. Like a Thracian sword, Mary's soul would be divided and pierced, especially at the cross. Through Christ's rejection, hidden thoughts and purposes would be laid bare, compelling individuals to take a stand for or against Him.",
+            "wordCount": 101,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9846389889866618,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+            "commentatorTierSimilarities": [
+                32.27,
+                32.47,
+                35.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

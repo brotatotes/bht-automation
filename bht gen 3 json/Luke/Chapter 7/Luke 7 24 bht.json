@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:16:08",
+    "verseRef": "Luke 7:24",
+    "bestBHT": {
+        "bht": "Jesus asked the people what they went to the wilderness to see, not to question their motives but to highlight the purpose and significance of John's ministry. He waited until the messengers departed before commending John, to avoid any suspicion that John was wavering in his judgment or seeking personal recognition. Jesus wanted to ensure that both John's disciples and the people understood the integrity and steadfastness of John's ministry, leaving no room for doubt or misunderstanding.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.6853725592762832,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+        "commentatorTierSimilarities": [
+            53.18,
+            0.0,
+            46.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "To see [\u03b8\u03b5\u03b1\u03c3\u03b1\u03c3\u03b8\u03b1\u03b9] . Rev. is correct but awkward, to behold. The verb implies steadfast, intent gazing. See on Matthew 11:7."
+        ],
+        "Archibald T. Robertson": [
+            "The vivid questions about the people's interest in John are precisely alike in both Matthew and Luke.",
+            "The messengers (angels, Luke calls them) were on their way.",
+            "Jesus began his eulogy of John as soon as the messengers were departing."
+        ],
+        "John Gill": [
+            "What went ye into the wilderness for to see? a reed shaken with the wind?\" ",
+            "An inconsistent, wavering, and unstable man?\" ",
+            "Or the motions and gesture of the man?"
+        ],
+        "John Wesley": [
+            "He did not speak the following things in the hearing of John's disciples, lest he should seem to flatter John, or to compliment him into an adherence to his former testimony.",
+            "To avoid all suspicion of this kind, he deferred his commendation of him, till the messengers were gone.",
+            "Then delivered it to the people, to prevent all imaginations, as if John were wavering in his judgment, and had sent the two disciples for his own, rather than their satisfaction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus asked the people what they went to the wilderness to see, He was neither questioning their motives nor the messengers' characters. Instead, He wanted to highlight the purpose of John's ministry and the significance of his message. Jesus did not want any misunderstandings about John's conviction, so He waited until the messengers left before commending him. This prevented any suspicions that John might have been wavering in his judgment or seeking personal recognition. Jesus wanted to ensure that John's disciples and the people understood the integrity of John's ministry.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.5339019898460808,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+            "commentatorTierSimilarities": [
+                52.43,
+                0.0,
+                47.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' question about what the people sought in the wilderness was not a critique of their intentions or the messengers' character. Instead, it was meant to emphasize John's ministry and his unwavering message. Jesus deliberately delayed praising John until after the messengers departed, so as to avoid any doubt that John was wavering in his convictions or seeking personal acclaim. He wanted to ensure that both John's disciples and the people understood the steadfastness and integrity of John's ministry.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6229664082704918,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.31,
+            "commentatorTierSimilarities": [
+                54.78,
+                0.0,
+                45.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus asked the people what they went to the wilderness to see, not to question their motives but to highlight the purpose and significance of John's ministry. He waited until the messengers departed before commending John, to avoid any suspicion that John was wavering in his judgment or seeking personal recognition. Jesus wanted to ensure that both John's disciples and the people understood the integrity and steadfastness of John's ministry, leaving no room for doubt or misunderstanding.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6853725592762832,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+            "commentatorTierSimilarities": [
+                53.18,
+                0.0,
+                46.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus\u2019 inquiry about what the people sought in the wilderness was not meant to criticize their intentions or the messengers' character. Rather, it aimed to emphasize the nature and importance of John's ministry. By delaying his praise until after the messengers left, Jesus ensured there was no doubt about John's unwavering conviction and faithfulness. This served to clarify to both John's followers and the public the steadfastness and integrity of John's ministry, dismissing any potential misunderstandings or suspicions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.3986202508931367,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.85,
+            "commentatorTierSimilarities": [
+                52.04,
+                0.0,
+                47.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus did not question the people's motives or the messengers' character when asking what they went to see in the wilderness. Instead, He sought to emphasize the purpose and significance of John's ministry. Jesus intentionally delayed praising John until after the messengers departed to prevent any suspicion of wavering or seeking personal recognition. This ensured that both John's disciples and the people understood the unwavering dedication and integrity of John's ministry, leaving no room for doubts or misunderstandings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5560856481106704,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                52.8,
+                0.0,
+                47.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

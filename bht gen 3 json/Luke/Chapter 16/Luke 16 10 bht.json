@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:20:35",
+    "verseRef": "Luke 16:10",
+    "bestBHT": {
+        "bht": "Fidelity in stewardship depends not on the amount entrusted but on a sense of responsibility. Being faithful in small matters prepares us for larger responsibilities, while those who act improperly in earthly possessions may be unworthy of heavenly treasures. It is important to be trustworthy in both small and large matters, as our use of earthly stewardship can impact the reception of spiritual gifts. Thus, we must cultivate integrity in all aspects of life, recognizing that faithfulness in the least of things extends to matters of greater importance.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.9200892672009897,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.18,
+        "commentatorTierSimilarities": [
+            21.51,
+            40.12,
+            38.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Fidelity depends not on the amount entrusted, but on the sense of responsibility.\" ",
+            "He that feels this in little will feel it in much, and conversely.",
+            "A maxim of great pregnancy and value rising from the prudence which the steward had to the fidelity which he had not, the 'harmlessness of the dove, to which the serpent' with all his 'wisdom' is a total stranger."
+        ],
+        "Albert Barnes": [
+            "A man that shows fidelity in small matters will also in large.",
+            "He that will cheat and defraud in little things will also in those involving more trust and responsibility.",
+            "Fidelity is required in small matters as well as in those of more importance."
+        ],
+        "Marvin Vincent": [
+            "That which is least. A general proposition, yet with a reference to mammon as the least of things. See next verse."
+        ],
+        "John Calvin": [
+            "Christ, therefore, exhorts his disciples to act faithfully in small matters, in order to prepare themselves for the exercise of fidelity in matters of the highest importance.\" ",
+            "Those persons, he tells us, who act improperly and unfaithfully in things of small value, such as the transitory riches of the world, do not deserve that God should entrust to them the inestimable treasure of the Gospel, and of similar gifts.\" ",
+            "There is, therefore, in these words an implied threatening, that there is reason to fear lest, on account of our abuse of an earthly stewardship, we fail to obtain heavenly gifts."
+        ],
+        "Archibald T. Robertson": [
+            "Faithful in a very little (\u03c0\u03b9\u03c3\u03c4\u03bf\u03c2 \u03b5\u03bd \u03b5\u03bb\u03b1\u03c7\u03b9\u03c3\u03c4\u03c9). Elative superlative. One of the profoundest sayings of Christ.",
+            "The man who can be trusted in a very small thing will be promoted to large responsibilities. That is the way men climb to the top.",
+            "Men who embezzle in large sums began with small sums."
+        ],
+        "John Gill": [
+            "A man that acts a faithful part in a small trust committed to him, does so likewise in a much larger.",
+            "Being tried, and found faithful in things of less moment, he is intrusted with things of greater importance.",
+            "That man that acts the unfaithful part in a small matter, and of little worth, generally does the same, if a greater trust is committed to him."
+        ],
+        "John Wesley": [
+            "He that is faithful in what is meanest of all, worldly substance, is also faithful in things of a higher nature.",
+            "He that uses these lowest gifts unfaithfully, is likewise unfaithful in spiritual things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Fidelity in stewardship does not depend on the amount entrusted, but rather on a sense of responsibility. This maxim has great value, as it highlights the importance of being faithful in both small and large matters. It is crucial to cultivate integrity in the least of things, as those who are trustworthy in small matters will be entrusted with larger responsibilities. Furthermore, those who act improperly in worldly possessions cannot be entrusted with the immeasurable treasures of the Gospel. Therefore, we must strive to be faithful in all things, recognizing that our use of earthly stewardship has implications for our reception of heavenly gifts.",
+            "wordCount": 104,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.808120038928109,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                21.9,
+                38.47,
+                39.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Fidelity in stewardship depends not on the amount entrusted but on a sense of responsibility. Being faithful in small matters prepares us for larger responsibilities, while those who act improperly in earthly possessions may be unworthy of heavenly treasures. It is important to be trustworthy in both small and large matters, as our use of earthly stewardship can impact the reception of spiritual gifts. Thus, we must cultivate integrity in all aspects of life, recognizing that faithfulness in the least of things extends to matters of greater importance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.9200892672009897,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.18,
+            "commentatorTierSimilarities": [
+                21.51,
+                40.12,
+                38.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fidelity in stewardship depends not on the amount entrusted, but on a sense of responsibility. Being faithful in small matters prepares us for larger responsibilities. It is important to be trustworthy in both small and large matters, as our use of earthly stewardship can impact the reception of spiritual gifts. Thus, we must cultivate integrity in all aspects of life, recognizing that faithfulness in the least of things extends to matters of greater importance.",
+            "wordCount": 74,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.9184913879282544,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+            "commentatorTierSimilarities": [
+                20.34,
+                44.12,
+                35.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Fidelity in stewardship relies on a sense of responsibility. Being faithful in small matters prepares us for larger ones. Those who act improperly in worldly possessions may be unworthy of heavenly treasures. Trustworthiness in both small and large matters is crucial. We must cultivate integrity in all aspects of life, as faithfulness in the least of things extends to greater importance. Our use of earthly stewardship affects the reception of spiritual gifts, so we should be mindful of our actions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6541771876465283,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.34,
+            "commentatorTierSimilarities": [
+                18.22,
+                43.01,
+                38.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Fidelity in stewardship is not about the amount entrusted but the sense of responsibility. The maxim of being faithful in little leading to faithfulness in much holds great value. Acting unfaithfully in small matters will likely lead to unfaithfulness in larger ones. It is essential to be trustworthy in both small and large matters, as embezzlement often starts with small sums. Thus, cultivating integrity in even the least of things is crucial to prepare for greater responsibilities and secure heavenly treasures.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.880803947850774,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.88,
+            "commentatorTierSimilarities": [
+                21.07,
+                43.94,
+                34.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

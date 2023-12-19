@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:30:53",
+    "verseRef": "2 Timothy 2:21",
+    "bestBHT": {
+        "bht": "If a man purifies himself from among these vessels unto dishonor, he shall be a vessel for honor, sanctified and prepared for every good work. By separating himself from communion with these vessels, he sets himself apart to noble and holy uses. He becomes a vessel that is easy to make use of, useful, and meet for the master's use. Through internal holiness and a dedicated life, believers exhibit external holiness as evidence of their regeneration and sanctification by the Spirit of God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 2.064004393940353,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+        "commentatorTierSimilarities": [
+            28.5,
+            32.93,
+            38.56
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If any man shall purify himself from among these, he shall be a vessel for honour.\" ",
+            "He shall be a vessel for honour, sanctified, useful for the master.\" ",
+            "Prepared for every good work."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If one (for example, thou, Timothy) purify himself (so as to separate) from among these\" (vessels unto dishonor).\" ",
+            "Paul himself was such a vessel: once one among those of earth, but afterwards he became by grace one of gold.",
+            "prepared unto every good work\" (2 Timothy 3:17; Titus 3:1). Contrast Titus 1:16."
+        ],
+        "Albert Barnes": [
+            "If a man therefore purge himself from these, he shall be a vessel unto honour.",
+            "The idea is, that if one would preserve himself from the corrupting influence of such men, he would be fitted to be a vessel of honor, or to be employed in the most useful and honorable service in the cause of his Master.",
+            "And meet for the master\u2019s use - Suitable to be employed by the Lord Jesus in promoting his work on earth."
+        ],
+        "Marvin Vincent": [
+            "Separate himself from communion with.",
+            "Set apart to noble and holy uses.",
+            "Easy to make use of, useful."
+        ],
+        "John Calvin": [
+            "Such examples, therefore, afford to us good ground for exhortation to devote ourselves to a holy and blameless life.",
+            "We do not deny that it is demanded from believers that they purify themselves; but elsewhere the Lord declares that this is their duty, while he promises by Ezekiel that he will send 'clean waters, that we may be cleansed.'",
+            "Away with the wild language of fanatics, 'I will contribute to the glory of God, as Pharaoh did; for is it not all one, provided that God be glorified?' For here God explicitly states in what manner he wishes us to serve him, that is, by a religious and holy life."
+        ],
+        "Philip Schaff": [
+            "If a man purge himself from these.",
+            "Sanctified. In the liturgical rather than the ethical sense, \u2018consecrated\u2019 or \u2018hallowed\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "If a man purge himself... from these.\" ",
+            "Sanctified... Meet for the master's use.",
+            "Prepared... in a state of readiness."
+        ],
+        "John Gill": [
+            "If a man clears himself, and keeps himself clear from such men as Hymenaeus and Philetus...if he keeps clear of their heresies, and is not drawn aside by them into immoral practices, but stands fast in the faith, and departs from iniquity...\" ",
+            "He will be made manifest, and appear to be a vessel chosen to honour; and will be an honourable member of the church here, and will be honoured by Christ hereafter.",
+            "For external holiness springs from internal holiness, and is an evidence of it...a true believer, one that is regenerated, and sanctified by the Spirit of God, he is created in Christ Jesus unto good works; and has in the performing of them right principles, aims, and ends, as well as a supply of grace, by which he is enabled to do them."
+        ],
+        "John Wesley": [
+            "If a man purge himself from these \u2014 Vessels of dishonour, so as to have no fellowship with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If any man purifies himself from those vessels of dishonor, separating himself and setting himself apart to noble and holy uses, he shall become a vessel for honor. This means that he will become sanctified and made suitable for the master's use, prepared and in a state of readiness for every good work. It is important, therefore, to stay away from corrupting influences and to stand firm in the faith, departing from iniquity. By doing so, one will be made manifest as a chosen vessel, an honorable member of the church, and will be honored by Christ in the future. It is through internal holiness and a dedicated life that true believers are able to exhibit external holiness, evidence of their regeneration and sanctification by the Spirit of God.",
+            "wordCount": 130,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8541392171983633,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                23.33,
+                34.81,
+                41.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If any man purifies himself from among these vessels unto dishonor, he shall be a vessel for honor, sanctified and prepared for every good work. By separating himself from communion with these vessels and setting himself apart to noble and holy uses, he becomes a vessel that is easy to make use of, useful, and meet for the master's use. This requires purging oneself from corrupting influences, standing firm in the faith, and departing from iniquity. Through internal holiness and a dedicated life, believers exhibit external holiness as evidence of their regeneration and sanctification by the Spirit of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.9924584718663443,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                24.8,
+                34.08,
+                41.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If any man purifies himself from among these vessels unto dishonor, he shall be a vessel for honor, sanctified and prepared for every good work. By separating himself from communion with these vessels and setting himself apart to noble and holy uses, he becomes a vessel that is easy to make use of, useful, and meet for the master's use. This requires purging oneself from corrupting influences, standing firm in the faith, and departing from iniquity. Through internal holiness and a dedicated life, believers exhibit external holiness as evidence of their regeneration and sanctification by the Spirit of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.9924584718663443,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                24.8,
+                34.08,
+                41.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If a man purifies himself from among these vessels unto dishonor, he will become a vessel for honor, sanctified and prepared for every good work. By separating himself and setting himself apart to noble and holy uses, he becomes a vessel that is easy to make use of, useful, and meet for the master's use. This requires purging oneself from corrupting influences, standing firm in the faith, and departing from iniquity. Through internal holiness and a dedicated life, believers exhibit external holiness as evidence of their regeneration and sanctification by the Spirit of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9690060077342677,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.81,
+            "commentatorTierSimilarities": [
+                24.88,
+                34.65,
+                40.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If a man purifies himself from among these vessels unto dishonor, he shall be a vessel for honor, sanctified and prepared for every good work. By separating himself from communion with these vessels, he sets himself apart to noble and holy uses. He becomes a vessel that is easy to make use of, useful, and meet for the master's use. Through internal holiness and a dedicated life, believers exhibit external holiness as evidence of their regeneration and sanctification by the Spirit of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.064004393940353,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                28.5,
+                32.93,
+                38.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

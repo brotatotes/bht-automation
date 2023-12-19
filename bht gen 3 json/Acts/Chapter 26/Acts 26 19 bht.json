@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:36:44",
+    "verseRef": "Acts 26:19",
+    "bestBHT": {
+        "bht": "The apostle Paul confidently concludes his narrative by declaring his unwavering obedience to the heavenly vision he received. He emphasizes the remarkable realm of thought and feeling he experienced while recounting his encounters with Christ. Paul's prompt and unquestioning response to the divine commands demonstrates his deep trust in the clarity and authority of the vision. It serves as a reminder that divine grace is not irresistible, urging us to heed the promptings of the Spirit and to not suppress the last promptings from the Lord.",
+        "wordCount": 87,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.8824561469844545,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+        "commentatorTierSimilarities": [
+            32.44,
+            31.7,
+            35.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I was not disobedient...It serves to close the narrative, by shewing how it was that he was there that day.\" ",
+            "The therefore refers to the whole course of deliverances which he had had from God, not merely to the last.\" ",
+            "After such repeated persecutions, crowned by this last attempt to destroy him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This musical and elevated strain, which carries the reader along with it, and doubtless did the hearers, bespeaks the lofty region of thought and feeling to which the apostle had risen while rehearsing his Master's communications to him from heaven.",
+            "[...] the lofty region of thought and feeling to which the apostle had risen while rehearsing his Master's communications to him from heaven.",
+            "The apostle had risen while rehearsing his Master's communications to him from heaven."
+        ],
+        "Albert Barnes": [
+            "Since the proof of his being the Messiah, of his resurrection, and of his calling me to this work, was so clear and plain, I deemed it my duty to engage without delay in the work.",
+            "I was not incredulous or unbelieving; I yielded myself to the command, and at once obeyed.",
+            "I did not doubt that this splendid appearance was from heaven, and I did not refuse to obey the command of him who thus appeared to me."
+        ],
+        "John Calvin": [
+            "He knew that Festus and the Romans knew not what an heavenly vision meant.",
+            "Now, it appeareth that there is nothing in the very sum of his doctrine which dissenteth from the law and the prophets.",
+            "This place teacheth that these men do unskillfully pervert the gospel which separate the grace of Christ from repentance."
+        ],
+        "Philip Schaff": [
+            "Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision.",
+            "Commentators well call attention here to Paul\u2019s emphatic testimony respecting the freedom of the human will.",
+            "Divine grace, we must remember, is never irresistible; it is an awful thought that a time may come in the life of every man and woman, when the last promptings of the Spirit of the Lord may be quenched."
+        ],
+        "Archibald T. Robertson": [
+            "This relatival adverb... gathers up all that Paul has said.",
+            "Litotes again, 'I did not become disobedient.'",
+            "A later form of \u03bf\u03c8\u03b9\u03c2... Only time that Paul uses it about seeing Christ on the Damascus road."
+        ],
+        "John Gill": [
+            "Having been favoured with this illustrious appearance of the Lord and with this declaration and commission from him.",
+            "He did not disbelieve what Christ said, nor was he disobedient to the orders he gave.",
+            "He immediately set about the work he called him to, without consulting flesh and blood."
+        ],
+        "John Wesley": [
+            "From that time \u2014 Having received power to obey, I was not disobedient - I did obey, I used that power, Galatians 1:16. So that even this grace whereby St Paul was influenced was not irresistible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul confidently declares, I was not disobedient, as he recounts his obedience and adherence to the heavenly vision he received. This proclamation serves to conclude his narration of the numerous persecutions and deliverances he has experienced. Through his testimony, Paul not only affirms his unwavering trust in the commands and communications he received from Christ but also highlights the elevated realm of thoughts and emotions he entered while recounting these divine encounters. It is noteworthy that Paul's obedience was not hesitant or unbelieving; rather, he willingly and promptly surrendered to the heavenly vision, recognizing the clarity and authority of this supernatural encounter. As we reflect on Paul's resolute obedience, we are reminded of the importance of recognizing and embracing the promptings of the Spirit, for divine grace is never irresistible, and it is possible for us to quench the last promptings of the Lord.",
+            "wordCount": 148,
+            "quoteTokenProportion": 35.16,
+            "qualityScore": 1.967194011527795,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "commentatorTierSimilarities": [
+                30.43,
+                32.63,
+                36.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul confidently concludes his narrative by declaring his unwavering obedience to the heavenly vision he received. He emphasizes the remarkable realm of thought and feeling he experienced while recounting his encounters with Christ. Paul's prompt and unquestioning response to the divine commands demonstrates his deep trust in the clarity and authority of the vision. It serves as a reminder that divine grace is not irresistible, urging us to heed the promptings of the Spirit and to not suppress the last promptings from the Lord.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8824561469844545,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                32.44,
+                31.7,
+                35.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul's closing statement in his narrative emphasizes his unwavering obedience to the heavenly vision he received. He highlights the elevated realm of thought and feeling he entered while recounting his encounters with Christ. Paul's immediate and unquestioning response reflects his deep trust in the clarity and authority of the vision. This serves as a reminder that divine grace is never irresistible and prompts us to respond to the promptings of the Holy Spirit, lest we quench the last promptings of the Lord.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8222449135216419,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.93,
+            "commentatorTierSimilarities": [
+                34.18,
+                29.68,
+                36.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul's concluding remarks underscore his steadfast obedience to the heavenly vision he received. He accentuates the elevated thoughts and emotions he experienced while recounting his encounters with Christ. Paul's immediate and unwavering response reflects his profound trust in the clarity and authority of the vision. We are reminded that divine grace is not irresistible and that it is crucial to heed the promptings of the Holy Spirit, lest we extinguish the final promptings from the Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7678251262608944,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                32.19,
+                30.97,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul firmly declares his obedience to the heavenly vision he received, concluding his narrative. He highlights the elevated realm of thought and feeling experienced while recounting his encounters with Christ. Paul's responsive and unwavering obedience reveals his trust in the clarity and authority of the vision. This serves as a reminder that divine grace is not irresistible, urging us to heed the promptings of the Holy Spirit and avoid stifling the final promptings from the Lord.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.8018023844133486,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+            "commentatorTierSimilarities": [
+                32.71,
+                29.95,
+                37.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

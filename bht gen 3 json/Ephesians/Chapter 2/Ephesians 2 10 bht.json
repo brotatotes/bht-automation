@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 15:27:32",
+    "verseRef": "Ephesians 2:10",
+    "bestBHT": {
+        "bht": "We are God's work, created in Christ Jesus for good works that he has prearranged and assigned to each of us. Our salvation is not of ourselves but of God's grace, for our good works are the necessary outcome of faith and are made ready by God. We are his making, formed by his hand to be good, and everything good in us is his creation. As God's workmanship, we are created unto good works, not to be justified by them, but to walk in them.",
+        "wordCount": 89,
+        "quoteTokenProportion": 51.02,
+        "qualityScore": 2.6660779758124935,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.99,
+        "commentatorTierSimilarities": [
+            31.78,
+            34.47,
+            33.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For his handiwork are we, created in Christ Jesus for good works.",
+            "Just as a tree may be said to be created for its fruit.",
+            "Our good works are marked out for and assigned to each one of us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Good works\" cannot be performed until we are new \"created unto\" them.",
+            "We are not saved by, but created unto, good works.",
+            "Works do not justify, but the justified man works."
+        ],
+        "Albert Barnes": [
+            "We are his 'making' - \u03c0\u03bf\u03b9\u0301\u03b7\u03bc\u03b1 poie\u0304ma. That is, we are 'created or formed' by him, not only in the general sense in which all things are made by him, but in that special sense which is denoted by the new creation.",
+            "Whatever of peace, or hope, or purity we have, has been produced by his agency on the soul. There cannot be conceived to be a stronger expression to denote the agency of God in the conversion of people, or the fact that salvation is wholly of grace.",
+            "The proper meaning of this passage is, 'to which \u03bf\u03b9\u0314\u0342\u03c2 hois good works God has predestinated us, or appointed us beforehand, that we should walk in them.' The previous preparation here referred to was, the divine intention; and the meaning is, that God had predetermined that we should lead holy lives."
+        ],
+        "Marvin Vincent": [
+            "If we are God's workmanship, our salvation cannot be of ourselves.",
+            "God prearranged a sphere of moral action for us to walk in.",
+            "Not only are works the necessary outcome of faith, but the character and direction of the works are made ready by God."
+        ],
+        "John Calvin": [
+            "We are his work...for all the good works which we possess are the fruit of regeneration. Hence it follows, that works themselves are a part of grace.",
+            "We are God\u2019s work, and that everything good in us is his creation; by which he means that the whole man is formed by his hand to be good.",
+            "Salvation does not proceed from ourselves...in our own strength we are not able to lead a holy life, but only so far as we are formed and adapted by the hand of God."
+        ],
+        "Philip Schaff": [
+            "Created in Christ Jesus for good works... Their goodness springs from the new motive of love, not from any forced conformity to law.",
+            "Moreover, even good works have in them no saving merit, for God new created us so that these might be the result.",
+            "God so prepares, by His providence and grace alike, that we may so act as to perform the works He deems good."
+        ],
+        "Archibald T. Robertson": [
+            "Created (\u03ba\u03c4\u03b9\u03c3\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2). First aorist passive participle of \u03ba\u03c4\u03b9\u03b6\u03c9, not the original creation as in Colossians 1:16; Ephesians 3:9, but the moral and spiritual renewal in Christ, the new birth...",
+            "Afore prepared (\u03c0\u03c1\u03bf\u03b7\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03b5\u03bd). First aorist active indicative of \u03c0\u03c1\u03bf\u03b7\u03c4\u03bf\u03b9\u03bc\u03b1\u03b6\u03c9, old verb to make ready beforehand. In N.T. only here and Romans 9:23. Good works by us were included in the eternal foreordination by God.",
+            "That we should walk in them (\u03b9\u03bd\u03b1 \u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 \u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b7\u03c3\u03c9\u03bc\u03b5\u03bd). Expexegetic final clause explanatory of the election to good works."
+        ],
+        "John Gill": [
+            "the work of grace upon the soul seems chiefly designed, which like a poem, as the word may be rendered, is a very curious work",
+            "the subjects of this divine operation... express the distinguishing grace of God",
+            "the preparation of good works to be performed by saints, and the preparation of them for the performance of them; are both from the Lord"
+        ],
+        "John Wesley": [
+            "For we are his workmanship \u2014 Which proves both that salvation is by faith, and that faith is the gift of God.",
+            "Created unto good works \u2014 That afterwards we might give ourselves to them.",
+            "That we might walk in them \u2014 Though not be justified by them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "We are God's work, created in Christ Jesus for good works that he has prearranged and assigned to each of us. Our salvation is not of ourselves but of God's grace, for our good works are the necessary outcome of faith and are made ready by God. We are his making, formed by his hand to be good, and everything good in us is his creation. Salvation is by faith, and faith itself is the gift of God. Therefore, as God's workmanship, we are created unto good works, not to be justified by them, but to walk in them.",
+            "wordCount": 102,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 2.5745663728547488,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.94,
+            "commentatorTierSimilarities": [
+                31.54,
+                33.9,
+                34.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are God's work, created in Christ Jesus for good works that he has prearranged and assigned to each of us. Our salvation is not of ourselves but of God's grace, for our good works are the necessary outcome of faith and are made ready by God. We are his making, formed by his hand to be good, and everything good in us is his creation. As God's workmanship, we are created unto good works, not to be justified by them, but to walk in them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 2.6660779758124935,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.99,
+            "commentatorTierSimilarities": [
+                31.78,
+                34.47,
+                33.75
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

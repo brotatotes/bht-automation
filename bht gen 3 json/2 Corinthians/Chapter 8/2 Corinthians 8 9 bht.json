@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:17:16",
+    "verseRef": "2 Corinthians 8:9",
+    "bestBHT": {
+        "bht": "For your sakes, our Lord Jesus Christ willingly became poor, emptying Himself of His heavenly glory, so that through His poverty, we might become rich in the favor and image of God. By imitating His self-devotion, we have the opportunity to enrich the lives of others and reflect the abundant grace and love of God. Just as the Lord's poverty brought us riches, may we too demonstrate acts of love and generosity towards our brethren, sparing no sacrifice on our part.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 2.278476593264582,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.1,
+        "commentatorTierSimilarities": [
+            32.9,
+            31.65,
+            35.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The (act of) grace:\u2014the beneficence. that] consisting in this, that (literally). he being rich became poor",
+            "The stress is on for your sakes, to raise the motive of gratitude the more effectually in them.",
+            "That by His poverty (as the efficient cause) ye might become rich...If thou dost not believe that poverty creates wealth, consider thy Master, and thou wilt doubt no longer."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ye know the grace\u2014the act of gratuitous love whereby the Lord emptied Himself of His previous heavenly glory for your sakes.",
+            "If the Lord did so much more, and at so much heavier a cost, for your sakes; much more may you do an act of love to your brethren at so little a sacrifice of self.",
+            "might be rich\u2014in the heavenly glory which constitutes His riches, and all other things, so far as is really good for us."
+        ],
+        "Albert Barnes": [
+            "He who was Lord and proprietor of the universe, and who possessed all things, was willing to leave his exalted station in the bosom of the Father and to become poor, in order that we might become rich in the blessings of the gospel, in the means of grace, and as heirs of all things.",
+            "The most absolute right which can exist is that acquired by the act of creation; and this right the Son of God possessed over all gold, and silver, and diamonds, and pearls.",
+            "The example of the Redeemer thus stands before the whole church and the world as a living and constant memorial of the truth that people need other things than wealth; and that there are objects that demand their time and influence other than the accumulation of property."
+        ],
+        "Marvin Vincent": [
+            "He became poor...primarily of abject poverty, beggary...combining divine power and excellence with human weakness and suffering.\" ",
+            "The other explanation falls in better with the key-note - an act of self-devotion - in ver. 5.",
+            "The aorist tense denotes the entrance into the condition of poverty, and the whole accords with the magnificent passage, Philippians 2:6-8."
+        ],
+        "John Calvin": [
+            "Though he was rich, he resigned the possession of all blessings, that he might enrich us by his poverty.",
+            "He does not afterwards state for what purpose he makes mention of this, but leaves it to be considered by them; for no one can but perceive, that we are by this example stirred up to beneficence, that we may not spare ourselves, when help is to be afforded to our brethren.",
+            "He nevertheless became poor, because he refrained from possessing, and thus he gave up his right for a time."
+        ],
+        "Philip Schaff": [
+            "Grace,\" when used by itself in the New Testament, denotes the whole compassion and love of God to sinners of mankind in Christ Jesus, embracing His eternal purposes of salvation, and every step in the process of it from first to last.",
+            "When our apostle would lay peculiar stress upon anything connected with Christ, he loves to give Him His full name \u201cOur Lord (or \u201cThe Lord\u201d) Jesus Christ.\u201d",
+            "This grace is held forth as, on the part of Christ Himself, purely spontaneous."
+        ],
+        "Archibald T. Robertson": [
+            "Though he was rich, he became poor.\" ",
+            "Through his poverty.",
+            "Might become rich."
+        ],
+        "John Gill": [
+            "For ye know the grace of our Lord Jesus...that though he was rich;...yet for your sakes he became poor;...that they through his poverty might be rich.\" ",
+            "The persons for whom he became so, were not the angels, but elect men; who were sinners and ungodly persons, and were thereby become bankrupts and beggars.\" ",
+            "They are enriched by him with the graces of his Spirit; with the truths of the Gospel, comparable to gold, silver, and precious stones; with himself and all that he has; with the riches of grace here, and of glory hereafter."
+        ],
+        "John Wesley": [
+            "For ye know \u2014 And this knowledge is the true source of love.",
+            "The grace \u2014 The most sincere, most free, and most abundant love.",
+            "Rich \u2014 In the favour and image of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For your sakes, our Lord Jesus Christ, who was eternally rich in heavenly glory and possessed all things, willingly became poor and destitute, emptying Himself of His rights and privileges, in order to enrich us with the blessings of His grace. He left His exalted position in the bosom of the Father and embraced a life of poverty and suffering, combining divine power and excellence with human weakness. Through His poverty, He offered us the opportunity to become rich in the favor and image of God, heirs of His kingdom, and recipients of His abundant love and abundant grace. This act of self-devotion by our Lord should inspire us to show love and compassion towards our brethren, not sparing ourselves when help is needed. Just as the Lord's poverty created riches for us, may we also demonstrate an act of love and generosity, even at a small sacrifice to ourselves.",
+            "wordCount": 152,
+            "quoteTokenProportion": 37.76,
+            "qualityScore": 2.216976602474803,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.06,
+            "commentatorTierSimilarities": [
+                31.84,
+                33.6,
+                34.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For your sakes, our Lord Jesus Christ willingly became poor, emptying Himself of His heavenly glory and becoming destitute, in order to enrich us with His grace. He left His exalted position and embraced a life of poverty and suffering, combining divine power and human weakness. Through His poverty, He offered us the opportunity to become rich in the favor and image of God. His act of self-devotion should inspire us to show love and compassion towards others, being willing to sacrifice ourselves for their benefit.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.1575123733372203,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.08,
+            "commentatorTierSimilarities": [
+                34.21,
+                29.5,
+                36.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For your sakes, our Lord Jesus Christ willingly became poor, emptying Himself of His heavenly glory, so that through His poverty, we might become rich in the favor and image of God. He left His exalted position and embraced a life of poverty and suffering, combining divine power with human weakness. His act of self-devotion should inspire us to show love and compassion towards others, being willing to sacrifice ourselves for their benefit and reflecting the abundant grace and love of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.2156172649197305,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                32.81,
+                32.1,
+                35.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For your sakes, our Lord Jesus Christ willingly became poor, emptying Himself of His heavenly glory, so that through His poverty, we might become rich in the favor and image of God. His act of self-devotion should inspire us to show love and compassion towards others, being willing to sacrifice ourselves for their benefit and reflecting the abundant grace and love of God. By imitating our Lord's example and sharing in His sacrificial love, we have the opportunity to enrich the lives of our brethren through acts of selfless generosity.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.186068057557252,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+            "commentatorTierSimilarities": [
+                30.64,
+                33.47,
+                35.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For your sakes, our Lord Jesus Christ willingly became poor, emptying Himself of His heavenly glory, so that through His poverty, we might become rich in the favor and image of God. By imitating His self-devotion, we have the opportunity to enrich the lives of others and reflect the abundant grace and love of God. Just as the Lord's poverty brought us riches, may we too demonstrate acts of love and generosity towards our brethren, sparing no sacrifice on our part.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.278476593264582,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.1,
+            "commentatorTierSimilarities": [
+                32.9,
+                31.65,
+                35.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

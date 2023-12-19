@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:08:42",
+    "verseRef": "1 Corinthians 9:1",
+    "bestBHT": {
+        "bht": "He asserts his independence as an apostle, highlighting his dignity through having seen Jesus, and the effectiveness of his ministry in converting the Corinthians. He questions whether he is not free or an apostle, appealing to the Corinthians as witnesses of his apostleship. The Corinthians themselves are living proof, having been transformed by his work as God's instrument. Through his affirmation of freedom and apostleship, he establishes the authenticity of his ministry and the divine power behind their conversion.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 2.0821454784859856,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+        "commentatorTierSimilarities": [
+            39.37,
+            29.91,
+            30.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He sets forth, (1) his independence of men (contrast ver. 19); (2) his apostolic office; (3) his dignity as an Apostle, in having been vouchsafed a sight of Christ Jesus our Lord; (4) his efficiency in the office, as having converted them to God.",
+            "free] So that the resolution of ch. viii. 13 is not necessitated by any dependence on my part on the opinion of others.",
+            "in the Lord is not a mere humble qualification of my work (i.e. God\u2019s work, not mine),\u2014but designates, as elsewhere, the element, in which the work is done: they were his work as an Apostle, i.e. as the servant of the Lord enabled by the Lord, and SO IN THE LORD."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Am I not free? am I not an apostle?",
+            "Am I not free? am I not an apostle? If you claim it, I appeal to yourselves as the witnesses, have not I also it?",
+            "Your conversion is His workmanship through my instrumentality: the 'seal of mine apostleship'"
+        ],
+        "Albert Barnes": [
+            "Am I not an apostle?...since it was requisite, in order to that, to have seen the Lord Jesus.",
+            "That this was the case is abundantly manifest...it was necessary to have seen the Lord Jesus.",
+            "A minister may appeal to the blessing of God on his labors in proof that he is sent of Him."
+        ],
+        "Marvin Vincent": [
+            "Seen Jesus. See ch. 1 Corinthians 14:8; Acts 9:17; Acts 18:9; Acts 22:17, Acts 22:18; 2 Corinthians 12:1 sqq. Compare Acts 22:14."
+        ],
+        "John Calvin": [
+            "And, assuredly, natural equity requires that whatever law is imposed by any one upon others, should be submitted to by himself.",
+            "A Christian teacher should impose upon himself this necessity, that he may have it always in his power to confirm his doctrine by an exemplary life.",
+            "The question \u2014 Am I not free? is of a general nature. When he adds \u2014 Am I not an Apostle? he specifies a particular kind of liberty. 'If I am an Apostle of Christ, why should my condition be worse than that of others?'"
+        ],
+        "Philip Schaff": [
+            "Am I not free? am I not an apostle?"
+        ],
+        "Archibald T. Robertson": [
+            "Free as a Christian from Mosaic ceremonialism (cf. 1 Corinthians 9:19) as much as any Christian and yet he adapts his moral independence to the principle of considerate love in 1 Corinthians 8:13.",
+            "He has the exceptional privileges as an apostle to support from the churches and yet he foregoes these.",
+            "They were themselves proof of his apostleship."
+        ],
+        "John Gill": [
+            "he may have respect to his freedom from the ceremonial law in general for though, for the sake of gaining souls to Christ, he became all things to all men; to the Jews he became a Jew, that he might gain them; yet in such a manner as to preserve his liberty in Christ, without entangling himself with the yoke of bondage.",
+            "he goes upon the proof of it; and the first thing he mentions is his freedom, that is, from men; no man had any authority over him; he was not taught, nor sent forth, nor ordained by men as a minister, but immediately by Jesus Christ, as apostles were; they were set in the first place in the church, and had power to instruct, send forth, and ordain others; but none had power over them; and this being the apostle's case, proved him to be one; he was an apostle, because he was free",
+            "as they were regenerated, converted persons, and were become new creatures; not efficiently, but instrumentally; they were God's workmanship, as he was the efficient cause of their conversion and faith; his only, as an instrument by whom they believed; and therefore he adds, 'in the Lord'; ascribing the whole to his power and grace"
+        ],
+        "John Wesley": [
+            "Am I not free? am I not an apostle?\" ",
+            "Have I not seen Jesus Christ?",
+            "Are not ye my work in the Lord?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He confidently asserts his freedom, his apostolic office, and the honor of having seen the Lord Jesus. His independence from human authority as an apostle is evident, as he was not sent or ordained by men but directly by Jesus Christ. The Corinthians themselves serve as tangible evidence of his apostleship, as they were converted through his ministry. His appeal to his freedom and apostleship is not meant to boast, but rather to affirm the legitimacy of his work and the significance of their conversion being the result of God's powerful grace working through him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.052601612878451,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                36.35,
+                30.26,
+                33.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He confidently declares his freedom and apostolic office, emphasizing the importance of having seen Jesus as evidence of his legitimacy. His work in converting the Corinthians serves as a testament to his apostleship, with their transformation being a result of God's grace channeled through him as an instrument. He appeals to his independence as an apostle to establish the validity of his ministry, affirming that his authority comes directly from Jesus.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.984949328516834,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.34,
+            "commentatorTierSimilarities": [
+                38.59,
+                29.04,
+                32.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He asserts his independence as an apostle, highlighting his dignity through having seen Jesus, and the effectiveness of his ministry in converting the Corinthians. He questions whether he is not free or an apostle, appealing to the Corinthians as witnesses of his apostleship. The Corinthians themselves are living proof, having been transformed by his work as God's instrument. Through his affirmation of freedom and apostleship, he establishes the authenticity of his ministry and the divine power behind their conversion.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.0821454784859856,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+            "commentatorTierSimilarities": [
+                39.37,
+                29.91,
+                30.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He confidently echoes his independence and apostolic calling, emphasizing his privileged encounter with Jesus as proof of his authority. The Corinthians themselves bear witness to his apostleship, as the fruit of his labor and God's workmanship in their lives. His affirmation of freedom and apostleship isn't meant as self-aggrandizement, but rather as a validation of his ministry and the profound impact it had in bringing them to faith. Ultimately, their conversion stands as a confirmation of the divine grace at work through him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.7483555825731933,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.47,
+            "commentatorTierSimilarities": [
+                38.9,
+                27.2,
+                33.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He confidently asserts his independence as an apostle, supported by his encounter with Jesus and the Corinthians themselves who bear witness to his apostleship. Through the divine grace working in his ministry, the Corinthians were converted and became a testament to the authenticity of his calling. By affirming his freedom and apostleship, he establishes the significance and effectiveness of his work in bringing others to faith.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8642632830085502,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                42.44,
+                25.86,
+                31.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

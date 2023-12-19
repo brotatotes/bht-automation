@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:59:39",
+    "verseRef": "1 Thessalonians 4:1",
+    "bestBHT": {
+        "bht": "Furthermore, we beseech and exhort you as you have been taught, to walk and please God, abounding more and more. The phrase Furthermore marks the close of the Epistle, while the formula Finally indicates an expression pointing towards the end. Paul makes an urgent request, asking them to follow the directions they received and to aim for progress in their faith and holiness. The ultimate goal is to please God, doing what He approves of and being ever more abundant in their devotion.",
+        "wordCount": 83,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.7581517032933562,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+        "commentatorTierSimilarities": [
+            27.46,
+            31.14,
+            41.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Furthermore has no reference to time, ... and implying the close of the Epistle.",
+            "we exhort you in ... the Lord Jesus, that as ye received ... how ye ought to walk and to please God ... even as also ye are walking.",
+            "that ye abound yet more (viz. in thus walking)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Furthermore\u2014Greek, 'As to what remains.' Generally used towards the close of his Epistles (Ephesians 6:10; Philippians 4:8).",
+            "beseech\u2014'ask' as if it were a personal favor.",
+            "walk and . . . please God\u2014that is, 'and so please God,' namely, by your walk; in contrast to the Jews who 'please not God' (1 Thessalonians 2:15)."
+        ],
+        "Albert Barnes": [
+            "The phrase is a formula appropriate to the end of an argument or discourse.",
+            "Kind exhortation usually accomplishes more than a command.",
+            "[They should] follow the directions which they had received more and more fully."
+        ],
+        "Marvin Vincent": [
+            "Furthermore [\u03bb\u03bf\u03b9\u03c0\u03bf\u03bd].",
+            "Rev. not so well, finally.",
+            "The formula is often used by Paul where he attaches, in a somewhat loose way."
+        ],
+        "John Calvin": [
+            "As, says he, ye have been taught. Lest, however, he should seem to take away from them what he had previously assigned them, he does not simply exhort them to walk in such a manner, but to abound more and more.",
+            "The sum is this, that they should be more especially careful to make progress in the doctrine which they had received, and this Paul places in contrast with frivolous and vain pursuits.",
+            "Now, there is a law that is here enjoined upon us \u2014 that, forgetting the things that are behind, we always aim at farther progress, and pastors ought also to make this their endeavor."
+        ],
+        "Philip Schaff": [
+            "Only as the organ of the Lord does Paul presume to exhort them.",
+            "Many persons, like the son in the parable, seem to think that their knowledge of duty, and recognition of it in conscience, is some sort of compensation for their non-performance of it.",
+            "He knew the tendency there is to be content with a half-completed course, to allow some sin to remain because much has been cast out, to weary before the whole work is accomplished."
+        ],
+        "Archibald T. Robertson": [
+            "Finally (\u03bb\u03bf\u03b9\u03c0\u03bf\u03bd)... It does not mean actual conclusion, but merely a colloquial expression pointing towards the end.",
+            "We beseech (\u03b5\u03c1\u03c9\u03c4\u03c9\u03bc\u03b5\u03bd). Not 'question' as in ancient Greek, but as often in N.T. ... to make urgent request of one.",
+            "That ye abound (\u03b9\u03bd\u03b1 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03c5\u03b7\u03c4\u03b5). Loose construction of the \u03b9\u03bd\u03b1 clause with present subjunctive after two subordinate clauses with \u03ba\u03b1\u03b8\u03c9\u03c2 (as, even as) to be connected with 'beseech and exhort.'"
+        ],
+        "John Gill": [
+            "The apostle does not lay his commands upon them as he might have done, and sometimes does, but endeavors to work upon them by way of entreaty, and which he doubtless thought the most effectual method to win upon them, and gain them.",
+            "The walk of believers is twofold, either internal or external. Their internal walk is by faith, which is the going out of the soul by faith to Christ for every supply of grace. Their external walk is not as it was before conversion, according to the course of this world, or as other Gentiles walk, but in a holy religious life and conversation.",
+            "Now when the apostle, and those that were with him, were at Thessalonica, they gave these saints directions and instructions about their walk and conversation, to order it in such a manner as might 'please God'; which is not to be understood of rendering their persons acceptable to God hereby, for the saints' acceptance with God is only in Christ the beloved; but of doing those things, and in such a way God approves of."
+        ],
+        "John Wesley": [
+            "More and more \u2014 It is not enough to have faith, even so as to please God, unless we abound more and more therein."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We beseech and exhort you, as you have been taught, to abound more and more in your walk and please God. The phrase Furthermore indicates the close of the Epistle, and the formula Finally is a colloquial expression pointing towards the end. The apostle Paul does not command, but rather makes an urgent request and encourages them to follow the directions they received. They should not be content with a half-completed course but aim for progress, both internally by faith and externally in a holy life and conversation. The goal is to please God, not to render themselves acceptable to Him, but to do those things in a way that He approves of. Faith alone is not enough; they must abound more and more in it.",
+            "wordCount": 127,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.7636142726273452,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+            "commentatorTierSimilarities": [
+                24.58,
+                27.14,
+                48.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We beseech and exhort you, as you have been taught, to abound more and more in your walk and please God. The formula Finally indicates the close of the Epistle, and the apostle Paul makes an urgent request to follow the directions received. They should not be content with a half-completed course but aim for progress, both internally by faith and externally in a holy life and conversation. The goal is to please God, not to render themselves acceptable to Him, but to do those things in a way that He approves of.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.758080389112314,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                24.31,
+                28.02,
+                47.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We beseech and exhort you to abound more and more in your walk and please God. The phrase Furthermore indicates the close of the Epistle, and the formula Finally points towards the end. The apostle Paul makes an urgent request and encourages them to follow the directions they received. They should not be content with a half-completed course but aim for progress, both internally by faith and externally in a holy life. The goal is to please God, not to render themselves acceptable to Him, but to do those things in a way that He approves of.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7052209086044292,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.04,
+            "commentatorTierSimilarities": [
+                25.68,
+                29.91,
+                44.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We beseech and exhort you to abound more and more in your walk and please God. The formula Finally indicates the close of the Epistle, and the apostle Paul makes an urgent request to follow the directions received. They should not be content with a half-completed course but aim for progress, both internally by faith and externally in a holy life. The goal is to please God, not to render themselves acceptable to Him, but to do those things in a way that He approves of.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7400299411985456,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                24.82,
+                27.09,
+                48.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Furthermore, we beseech and exhort you as you have been taught, to walk and please God, abounding more and more. The phrase Furthermore marks the close of the Epistle, while the formula Finally indicates an expression pointing towards the end. Paul makes an urgent request, asking them to follow the directions they received and to aim for progress in their faith and holiness. The ultimate goal is to please God, doing what He approves of and being ever more abundant in their devotion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.7581517032933562,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                27.46,
+                31.14,
+                41.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

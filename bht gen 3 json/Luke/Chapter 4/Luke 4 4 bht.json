@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:14:52",
+    "verseRef": "Luke 4:4",
+    "bestBHT": {
+        "bht": "In Luke 4:4, the quote from Deuteronomy 8:3 is given more fully in Matthew's account. The phrase by bread implies dependence on God, acknowledging that our sustenance comes from Him. The verse speaks to the importance of relying on God's word and provision rather than earthly nourishment alone. It highlights the power of God's word to sustain us, not just physically but spiritually, emotionally, and mentally. By embracing every word of God, we are reminded that our ultimate nourishment and fulfillment come from aligning ourselves with His will and receiving His blessings.",
+        "wordCount": 93,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 1.6931625608405998,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.64,
+        "commentatorTierSimilarities": [
+            23.65,
+            40.76,
+            35.58
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "4.] The citation is given in full by St. Matthew."
+        ],
+        "Marvin Vincent": [
+            "It is written. See on Matthew 4:4. ",
+            "By bread [\u03b5\u03c0 \u03b1\u03c1\u03c4\u03c9] . Lit., \"on bread,\" implying dependence. Compare, by every word (ejpi panti rJhmati, Matthew 4:4)."
+        ],
+        "Philip Schaff": [
+            "Luke 4:4. The quotation from Deuteronomy 7:3, is given more fully by Matthew. The clause we omit is not found in the oldest manuscripts."
+        ],
+        "John Gill": [
+            "By 'every word of God', is not meant all Scripture, and every part of it, which is given by inspiration of God, and may be said to proceed out of his mouth ... for of spiritual living, and the means of that, the text is not to be understood.",
+            "By 'every word of God', is meant either the word of God's power, by which he upholds and sustains all things in being ... or the blessing of God, which he commands on bread, and other food, and the virtue and strength which he puts into them ... or rather every thing which God declares and orders to be eaten, even every creature of his which is good.",
+            "By 'every word of God', is meant ... that man shall not live by bread alone, but by every word of God ... suggesting hereby, that when it is the will of God, human nature may be maintained by the influence of divine power, without the use of ordinary means."
+        ],
+        "John Wesley": [
+            "Deuteronomy 8:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 4:4, the quote from Deuteronomy 8:3 is given more fully in Matthew's account. The phrase by bread implies dependence on God, acknowledging that our sustenance comes from Him. The verse speaks to the importance of relying on God's word and provision rather than earthly nourishment alone. It highlights the power of God's word to sustain us, not just physically but spiritually, emotionally, and mentally. By embracing every word of God, we are reminded that our ultimate nourishment and fulfillment come from aligning ourselves with His will and receiving His blessings.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.6931625608405998,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.64,
+            "commentatorTierSimilarities": [
+                23.65,
+                40.76,
+                35.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The citation given in Luke 4:4 is also found in Matthew's account. The phrase by bread emphasizes our dependence on God for sustenance. It reminds us not to rely solely on physical nourishment, but to seek fulfillment through every word of God. This verse highlights the power of God's word to sustain us spiritually, emotionally, and mentally. By recognizing that our ultimate nourishment comes from aligning ourselves with His will, we can experience His blessings and find true fulfillment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.558573466555579,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.17,
+            "commentatorTierSimilarities": [
+                30.11,
+                38.58,
+                31.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Matthew provides a more complete version of the quote found in Luke 4:4. The phrase by bread implies our dependence on God for sustenance. This verse emphasizes the significance of relying on God's word and provision rather than earthly nourishment alone. It stresses the power of God's word to sustain us spiritually, mentally, and emotionally. By embracing every word of God, we recognize that our ultimate nourishment and fulfillment come from aligning ourselves with His will and receiving His blessings.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6011646309014367,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.58,
+            "commentatorTierSimilarities": [
+                27.16,
+                40.83,
+                32.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The citation given in Matthew complements the quote in Luke about dependence on God for sustenance. By emphasizing the phrase by bread, it reminds us not to rely solely on physical nourishment. Rather, we are called to find fulfillment through every word of God. This verse highlights the sustaining power of God's word, not only for our physical needs but also for our spiritual, emotional, and mental well-being. It encourages us to seek nourishment and blessings by aligning ourselves with God's will.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.4840421008061626,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.69,
+            "commentatorTierSimilarities": [
+                27.51,
+                37.79,
+                34.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The citation from Matthew complements the quote in Luke about dependence on God for sustenance. The phrase by bread emphasizes the importance of not relying solely on physical nourishment. This verse highlights the sustaining power of God's word, not only for our physical needs but also for our spiritual, emotional, and mental well-being. It encourages us to seek nourishment and blessings by aligning ourselves with God's will, finding fulfillment in every word that proceeds from Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.5712867945753408,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.59,
+            "commentatorTierSimilarities": [
+                27.27,
+                39.75,
+                32.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

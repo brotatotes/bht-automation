@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:11:49",
+    "verseRef": "1 Corinthians 11:15",
+    "bestBHT": {
+        "bht": "A woman's long hair serves as a natural covering like a shawl or hood used on public occasions such as funerals and marriages. It reflects her true nature and is a glory to her, while long hair is seen as a disgrace for a man. Eastern females greatly value their long hair, as exemplified by Queen Berenice who vowed to consecrate hers. Thus, a woman's long hair not only acts as a natural veil but also symbolizes her propriety and decency.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.098066781719866,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+        "commentatorTierSimilarities": [
+            30.76,
+            41.25,
+            28.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A covering, properly a wrapper, or enveloping garment.",
+            "The Apostle would refer to the 'peplum,' which the Grecian women used ordinarily as a shawl, but on public occasions as a hood also.",
+            "Especially at funerals and marriages."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Her long hair shows she ought to cover her head.",
+            "The will ought to accord with nature.",
+            "She does not need additional covering."
+        ],
+        "Albert Barnes": [
+            "The same instinctive promptings of nature which make it proper for a man to wear short hair, make it proper that the woman should suffer hers to grow long.",
+            "It is given to her as a sort of natural veil, and to indicate the propriety of her wearing a veil.",
+            "The value which eastern females put on their long hair may be learned from the fact that when Ptolemy Euergetes, king of Egypt, was about to march against Seleucus Callinicus, his queen Berenice vowed, as the most precious sacrifice which she could make, to cut off and consecrate her hair if he returned in safety."
+        ],
+        "Philip Schaff": [
+            "But if a woman have long hair, it is a glory to her.\" ",
+            "He now appeals to their own sense of decency and propriety.",
+            "Compare 1 Corinthians 10:15."
+        ],
+        "Archibald T. Robertson": [
+            "Long hair is a glory to a woman and a disgrace to a man.",
+            "The long-haired man!",
+            "It is not in the place of a veil, but answering to, as a permanent endowment."
+        ],
+        "John Gill": [
+            "It is a glory to her; it is comely and beautiful; it is agreeable to her sex, she looks like herself; it becomes and adorns her.",
+            "The Jewish women used to esteem it an immodest thing for their hair to be seen, and therefore they took care, as much as possible, to hide it under another covering.",
+            "They were never seen by any person, even within her house."
+        ],
+        "John Wesley": [
+            "Given her \u2014 Originally, before the arts of dress were in being."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A woman's long hair serves as a natural covering, akin to a shawl or hood worn on public occasions. It is a testament to her glory and femininity, and a way to honor the will and nature of God. This is not to say that a woman does not need additional covering, but rather that her long hair is a permanent endowment that reflects her true self. In fact, it is considered a disgrace for a man to have long hair, highlighting the distinction between genders. Eastern females, for instance, greatly value their long hair, as seen in the story of Queen Berenice who vowed to cut off and consecrate her precious locks for the safe return of her husband. Therefore, a woman's long hair is not only a natural veil but also a symbol of her propriety and decency.",
+            "wordCount": 142,
+            "quoteTokenProportion": 34.52,
+            "qualityScore": 1.9171151651123395,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.09,
+            "commentatorTierSimilarities": [
+                31.43,
+                40.29,
+                28.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A woman's long hair serves as a natural covering like a shawl or hood used on public occasions such as funerals and marriages. It reflects her true nature and is a glory to her, while long hair is seen as a disgrace for a man. Eastern females greatly value their long hair, as exemplified by Queen Berenice who vowed to consecrate hers. Thus, a woman's long hair not only acts as a natural veil but also symbolizes her propriety and decency.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.098066781719866,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                30.76,
+                41.25,
+                28.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A woman's long hair functions as a natural covering, resembling a shawl or hood worn by Grecian women on public occasions like funerals and marriages. It is a glory to her and reflects her true self, adhering to the will and nature of God. The value placed on long hair by Eastern females is evident in the story of Queen Berenice, who vowed to consecrate her hair. Thus, a woman's long hair acts as both a natural veil and a representation of her propriety and decency.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.9580261368302612,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+            "commentatorTierSimilarities": [
+                29.31,
+                41.13,
+                29.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A woman's long hair is a natural covering, comparable to a shawl or even a hood worn on certain occasions like funerals and marriages. This is in accordance with the will and nature of God, and her long hair is both a glory and an adornment. In contrast, long hair is seen as a disgrace for a man. The value attributed to long hair is exemplified by the story of Queen Berenice, who considered it an honor to consecrate her hair. Thus, a woman's long hair serves as a symbolic veil and reflects her propriety and beauty.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.995835166474231,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.7,
+            "commentatorTierSimilarities": [
+                32.2,
+                39.73,
+                28.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A woman's long hair serves as a natural covering, resembling a shawl or hood worn on public occasions. It is a glory to her and reflects her true self, in accordance with the will and nature of God. The Eastern practice of valuing long hair is evidenced by the story of Queen Berenice, who vowed to consecrate her hair. Thus, a woman's long hair not only acts as a natural veil but also symbolizes her propriety and beauty.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.9220050707028147,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+            "commentatorTierSimilarities": [
+                29.25,
+                40.86,
+                29.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

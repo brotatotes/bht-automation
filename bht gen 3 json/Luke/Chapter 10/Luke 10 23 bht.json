@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:17:40",
+    "verseRef": "Luke 10:23",
+    "bestBHT": {
+        "bht": "Continuing the theme of Christian love, this quote underscores the superiority of grace over legal obedience. Jesus privately addressed his disciples, emphasizing their privileged position in comprehending divine truths. The disciples' ability to perceive and understand these things brought them immense blessings. This sentiment is echoed in Matthew 13:16, demonstrating Jesus' repetition of his teachings to guide his disciples in their spiritual growth.",
+        "wordCount": 62,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.5997169727926133,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+        "commentatorTierSimilarities": [
+            27.97,
+            35.87,
+            36.16
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This verse should not be marked off from ver. 22 by a new paragraph, as is done in the A.V.: much less, as in the Gospel for the 13th Sunday after Trinity, joined with what follows.",
+            "The lesson taught us by its occurring there is an appropriate one, as shewing us how the grace of Christian love, which is the subject of the following parable, fulfils and abounds over, legal obedience.",
+            "A similar saying of our Lord occurs Matt. xiii. 16, 17, but uttered altogether on a different occasion and in a different connexion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23, 24. (See on :-). ",
+            "\t",
+            " :-. QUESTION OF A",
+            "\tLAWYER AND PARABLE",
+            "\tOF THE GOOD",
+            "\tSAMARITAN."
+        ],
+        "Philip Schaff": [
+            "Privately. Observe \u2018here the gradual narrowing of the circle to which our Lord addresses Himself\u2019 (Alford).\" ",
+            "The blessing was not in what the disciples obtained, but in what they saw.\" ",
+            "The true knowledge of God the Father, and of Jesus Christ His Son, was the pledge of all other blessings."
+        ],
+        "Archibald T. Robertson": [
+            "Turning to the disciples...the prayer was a soliloquy though uttered in the presence of the Seventy...Jesus turned and spoke 'privately' or to the disciples.\" ",
+            "A beatitude, the same adjective as in Matthew 5:3-11. A beatitude of privilege very much like that in Matthew 5:13-16.\" ",
+            "Jesus often repeated his sayings."
+        ],
+        "John Gill": [
+            "And he turned him unto his disciples... and said privately... blessed are the eyes that see the things that ye see.\" Luke 10:23. ",
+            "Blessed are the eyes that see the things that ye see.\" Luke 10:23. ",
+            "Blessed are the eyes that see the things that ye see."
+        ],
+        "John Wesley": [
+            "Matthew 13:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse is connected to the previous one, emphasizing the grace of Christian love and how it surpasses legal obedience. Jesus privately spoke to his disciples, highlighting their privileged position in seeing and understanding the things of God. The disciples were blessed to witness and comprehend the teachings and miracles of Jesus. This sentiment is echoed in Matthew 13:16. Jesus often reiterated his teachings, guiding his disciples towards a deeper understanding of their faith.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.6181029690114044,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+            "commentatorTierSimilarities": [
+                26.82,
+                32.41,
+                40.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage continues the theme of Christian love and its superiority over legal obedience. Jesus privately addressed his disciples, highlighting their privileged position in perceiving the things of God. Their ability to see and comprehend these things brought them great blessings. This sentiment is reiterated in Matthew 13:16. Jesus frequently reiterated his teachings, guiding his disciples towards a deeper understanding of their faith.",
+            "wordCount": 62,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4717537333727724,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.28,
+            "commentatorTierSimilarities": [
+                26.44,
+                32.91,
+                40.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This verse emphasizes the grace of Christian love, surpassing legal obedience. Jesus privately spoke to his disciples, highlighting their privileged position in perceiving and comprehending divine truths. The disciples' ability to see and understand these things brought them great blessings. This sentiment is echoed in Matthew 13:16. Jesus often reiterated his teachings, guiding his disciples towards a deeper understanding of their faith.",
+            "wordCount": 61,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.6050724496347788,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+            "commentatorTierSimilarities": [
+                26.53,
+                33.51,
+                39.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Continuing the theme of Christian love, this quote underscores the superiority of grace over legal obedience. Jesus privately addressed his disciples, emphasizing their privileged position in comprehending divine truths. The disciples' ability to perceive and understand these things brought them immense blessings. This sentiment is echoed in Matthew 13:16, demonstrating Jesus' repetition of his teachings to guide his disciples in their spiritual growth.",
+            "wordCount": 62,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.5997169727926133,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+            "commentatorTierSimilarities": [
+                27.97,
+                35.87,
+                36.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse highlights the surpassing nature of Christian love over legal obedience. Jesus privately addressed his disciples, emphasizing their privileged position in perceiving and understanding divine truths. The disciples' ability to see and comprehend these things brought them abundant blessings. This sentiment resonates with Matthew 13:16. Jesus frequently restated his teachings, guiding his disciples to deepen their understanding of their faith.",
+            "wordCount": 60,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 1.5523362169308839,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.96,
+            "commentatorTierSimilarities": [
+                25.56,
+                33.4,
+                41.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

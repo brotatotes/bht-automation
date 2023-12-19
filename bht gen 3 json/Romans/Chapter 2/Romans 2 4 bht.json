@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:58:57",
+    "verseRef": "Romans 2:4",
+    "bestBHT": {
+        "bht": "The goodness of God, shown through His forbearance and long-suffering, is intended to lead sinners to repentance. This abundant goodness softens hearts and inspires gratitude, but contempt and ignorance frustrate its purpose. Sinners who become secure in their wrongdoing hinder God's desired course. Recognizing and responding to the true intention behind God's goodness is crucial, requiring a change of heart and attitude. Repentance, prompted by the kindness of God, is the necessary response to His abundant mercy and love.",
+        "wordCount": 82,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 2.2674876261093853,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.73,
+        "commentatorTierSimilarities": [
+            28.55,
+            33.48,
+            37.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "inasmuch as God spares thee day by day... His intent in it is to lead thee to repentance",
+            "the riches... the fulness, 'abundance.' goodness, as shewn by His forbearance and long-suffering",
+            "This is its intent and legitimate course, which thy blindness will frustrate"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4. the goodness of God leadeth thee",
+            "\tto repentance\u2014that is, is designed and adapted to do so."
+        ],
+        "Albert Barnes": [
+            "The tendency, the design of the goodness of God is to induce people to repent of their sins, and not to lead them to deeper and more aggravated iniquity.\" ",
+            "The manifestations of [God's] goodness come in every form; in the sun, and light, and air; in the rain, the stream, the dew-drop; in food, and raiment, and home; in friends, and liberty, and protection; in health, and peace; and in the gospel of Christ, and the offers of life; and in all these ways God is appealing to his creatures each moment.",
+            "Every man is under obligation to forsake his sins, and turn to God. There is no man who has not seen repeated proofs of his mercy and love."
+        ],
+        "Marvin Vincent": [
+            "Riches: A favorite word with Paul to describe the quality of the divine attributes and gifts.",
+            "Forbearance and long-suffering: It is that forbearance or suspense of wrath, that truce with the sinner, which by no means implies that the wrath will not be executed at the last; nay, involves that it certainly will, unless he be found under new conditions of repentance and obedience.",
+            "Not knowing: This very ignorance is contempt."
+        ],
+        "John Calvin": [
+            "Where then the fear of God does not rule, confidence, on account of prosperity, is a contempt and a mockery of his great goodness.",
+            "For the Lord by his kindness shows to us, that it is he to whom we ought turn, if we desire to secure our wellbeing, and at the same time he strengthens our confidence in expecting mercy.",
+            "When he treats the transgressors of his law with the same indulgence, his object is to soften by his kindness their perverseness; he yet does not testify that he is already propitious to them, but, on the contrary, invites them to repentance."
+        ],
+        "Philip Schaff": [
+            "The despising of the divine goodness is the contemptuous unconcern as to its holy purpose, which produces as a natural consequence security in sinning.",
+            "'To the present hour in each life, the series of the Divine Goodness may be counted by the succession of a man\u2019s sins' (John Foster).",
+            "This is its purpose, and its tendency, but it is thwarted by man\u2019s wilful ignorance."
+        ],
+        "Archibald T. Robertson": [
+            "This upstart Jew actually thinks down on God.",
+            "The very kindness of God is trying to lead thee to a right-about face, a change of mind and attitude."
+        ],
+        "John Gill": [
+            "The riches of divine goodness, and longsuffering and forbearance, which were the causes of their prosperity.",
+            "The goodness of God leadeth thee to repentance.",
+            "The providential goodness of God has a tendency to lead persons to repentance."
+        ],
+        "John Wesley": [
+            "Or despisest thou \u2014 Dost thou go farther still, - from hoping to escape his wrath, to the abuse of his love?\" ",
+            "The riches \u2014 The abundance. Of his goodness, forbearance, and longsuffering \u2014 Seeing thou both hast sinned, dost sin, and wilt sin.",
+            "Leadeth thee - That is, is designed of God to lead or encourage thee to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The goodness of God is abundantly displayed in His daily forbearance and long-suffering towards sinners, with the purpose of leading them to repentance. This divine goodness, manifested in every aspect of life and through countless acts of mercy and love, is meant to soften hearts and inspire gratitude and trust in God. However, when there is a contemptuous unconcern towards God's kindness and an ignorance of its holy purpose, it results in security in sinning and a thwarting of God's intended course. It is essential to recognize the intention behind God's goodness and to respond with a change of mind and attitude.",
+            "wordCount": 106,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.2675177673075178,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.74,
+            "commentatorTierSimilarities": [
+                26.76,
+                37.59,
+                35.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The goodness of God, demonstrated through His daily forbearance and long-suffering, is intended to lead sinners to repentance. His abundant kindness, seen in numerous acts of mercy and love, is designed to soften hearts and inspire gratitude and trust in Him. However, when there is a contemptuous unconcern towards God's purpose and ignorance of His kindness, it leads to security in sinning and hinders His intended plan. It is crucial to recognize the true intention behind God's goodness and respond with a change of heart and attitude.",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.2373844727089693,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.73,
+            "commentatorTierSimilarities": [
+                26.91,
+                35.06,
+                38.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The purpose of God's goodness is to lead sinners to repentance. Through His daily forbearance and long-suffering, He displays His abundant kindness and mercy. This kindness is meant to soften hearts and inspire gratitude and trust in Him. However, when there is a contemptuous unconcern towards God's purpose and ignorance of His kindness, it results in a sense of security in sinning, frustrating His intended course. It is important to recognize and respond to the true intention behind God's goodness by having a change of heart and attitude.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.1228912030234706,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                27.87,
+                33.6,
+                38.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The goodness of God is meant to lead sinners to repentance. His daily forbearance and long-suffering demonstrate His abundant kindness and mercy. This kindness is designed to soften hearts and inspire gratitude and trust in the Lord. However, when there is contemptuous unconcern and ignorance of God's purpose, sinners become secure in their wrongdoing, frustrating His intended path. It is essential to recognize and respond to the genuine intention behind God's goodness by having a change of heart and attitude.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.1474936022465076,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+            "commentatorTierSimilarities": [
+                28.19,
+                33.28,
+                38.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The goodness of God, shown through His forbearance and long-suffering, is intended to lead sinners to repentance. This abundant goodness softens hearts and inspires gratitude, but contempt and ignorance frustrate its purpose. Sinners who become secure in their wrongdoing hinder God's desired course. Recognizing and responding to the true intention behind God's goodness is crucial, requiring a change of heart and attitude. Repentance, prompted by the kindness of God, is the necessary response to His abundant mercy and love.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.2674876261093853,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.73,
+            "commentatorTierSimilarities": [
+                28.55,
+                33.48,
+                37.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

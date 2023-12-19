@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:22:33",
+    "verseRef": "Luke 20:41",
+    "bestBHT": {
+        "bht": "Inquiring about the Pharisees and Scribes' belief regarding the Messiah, Jesus sheds light on their view of His lineage. By asking them whose son the Messiah would be and drawing attention to David's acknowledgment of the Messiah as his Lord, Jesus underscores the authenticity and inspiration of the Old Testament scriptures. This encounter presents a remarkable insight into the accuracy of the Evangelists, reinforcing the significance of accurately reporting Jesus' words and illuminating the independence of the Gospel accounts.",
+        "wordCount": 80,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.8728311166129918,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+        "commentatorTierSimilarities": [
+            62.05,
+            0.0,
+            37.95
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I mention these things as marks of the independence of the accounts.",
+            "The underlying fact is, the Lord addressed the Pharisees and Scribes on a view which they (the Scribes, the Pharisees agreeing) entertained about the Messiah.",
+            "If His words were so loosely reported as this, where is any dependence on the accuracy of the Evangelists?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What think ye of Christ [the promised and expected Messiah]? Whose son is He [to be]?\" ",
+            "How then doth David in spirit [by the Holy Ghost] call Him Lord?\" ",
+            "Mark the testimony here given to the inspiration of the Old Testament."
+        ],
+        "Archibald T. Robertson": [
+            "By 'they say' (\u03bb\u03b5\u03b3\u03bf\u03c5\u03c3\u03b9\u03bd) Jesus refers to the Pharisees...turning the tables on them while the Pharisees are still gathered together.\" ",
+            "The construction with \u03bb\u03b5\u03b3\u03bf\u03c5\u03c3\u03b9\u03bd is the usual infinitive and the accusative in indirect discourse.",
+            "By 'the Christ' (\u03c4\u03bf\u03bd \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03bd) 'the Messiah' is meant."
+        ],
+        "John Gill": [
+            "And he said unto them...",
+            "how say they?",
+            "that Christ is David's son?"
+        ],
+        "John Wesley": [
+            "Matthew 22:41; Mark 12:35."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By asking the Pharisees and Scribes about their belief regarding the identity of the Messiah and whose son He would be, Jesus not only reveals their view but also highlights the accuracy and inspiration of the Old Testament scriptures. He brings attention to the testimony of David, who, under the influence of the Holy Spirit, called the Messiah his Lord. Jesus astutely turns the tables on the Pharisees by questioning them, showing His mastery and insight into the Scriptures. This incident showcases the independence of the Gospel accounts and emphasizes the importance of accurately reporting the words of Jesus.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8036385763556226,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.31,
+            "commentatorTierSimilarities": [
+                60.7,
+                0.0,
+                39.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus addresses the Pharisees and Scribes on their view of the Messiah, questioning them about His lineage and identity. This incident demonstrates the accuracy and inspiration of the Old Testament scriptures, with Jesus highlighting David's testimony under the influence of the Holy Spirit. By doing so, He challenges the Pharisees and turns the tables on them, displaying His profound understanding of the Scriptures. This episode serves as evidence of the Gospel accounts' independence and emphasizes the vital importance of accurately reporting the words of Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.7868504226399975,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "commentatorTierSimilarities": [
+                59.17,
+                0.0,
+                40.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Inquiring about the Pharisees and Scribes' belief regarding the Messiah, Jesus sheds light on their view of His lineage. By asking them whose son the Messiah would be and drawing attention to David's acknowledgment of the Messiah as his Lord, Jesus underscores the authenticity and inspiration of the Old Testament scriptures. This encounter presents a remarkable insight into the accuracy of the Evangelists, reinforcing the significance of accurately reporting Jesus' words and illuminating the independence of the Gospel accounts.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8728311166129918,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                62.05,
+                0.0,
+                37.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus addresses the Pharisees and Scribes, engaging them in a discussion about the Messiah and His lineage. By questioning whose son the Messiah would be, Jesus exposes their belief system and challenges their understanding. He emphasizes the importance of accurate reporting and the inspiration of the Old Testament scriptures. With this encounter, Jesus not only reveals the independence of the Gospel accounts but also showcases His profound insight and knowledge of the Scriptures.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.758908714573933,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.83,
+            "commentatorTierSimilarities": [
+                62.1,
+                0.0,
+                37.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Questioning the Pharisees and Scribes on their belief about the Messiah's lineage, Jesus reveals their view and highlights the accuracy and inspiration of the Old Testament scriptures. By emphasizing David's testimony, given under the influence of the Holy Spirit, Jesus exposes the Pharisees' limited understanding. This incident demonstrates the independence of the Gospel accounts and underscores the importance of faithfully reporting Jesus' words. Through His insightful questioning, Jesus showcases His mastery of the Scriptures and challenges the Pharisees' flawed perception.",
+            "wordCount": 82,
+            "quoteTokenProportion": 20.75,
+            "qualityScore": 1.7704502960494048,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                59.68,
+                0.0,
+                40.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

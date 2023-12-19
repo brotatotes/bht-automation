@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:22:09",
+    "verseRef": "Luke 20:23",
+    "bestBHT": {
+        "bht": "Jesus, being aware of the craftiness and deceitfulness of the Pharisees and Herodians, perceived their ulterior motives in trying to trick him. He saw through their schemes and understood that their intention was either to find an accusation against him before the Roman governor or to expose him to the people of the Jews. Jesus, being a discerner of thoughts and intentions, realized their malicious intent behind the seemingly innocent question. Thus, he responded to their tempting question with caution and wisdom.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.2032247494023802,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.35,
+        "commentatorTierSimilarities": [
+            27.57,
+            0.0,
+            72.43
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "20-26. sent forth\u2014after",
+            "\tconsulting (Matthew 22:15) on the",
+            "\tbest plan. ",
+            "\t",
+            "spies\u2014\"of the",
+            "\tPharisees and Herodians\" (Matthew 22:15- :). See Mark 3:6."
+        ],
+        "Marvin Vincent": [
+            "Perceived. See on considerest, Matthew 7:3. ",
+            "Craftiness [\u03c0\u03b1\u03bd\u03bf\u03c5\u03c1\u03b3\u03b9\u03b1\u03bd] . From pan, every, and ergon, deed. Readiness for every and any deed. Hence unscrupulousness, and so, generally, knavery."
+        ],
+        "Archibald T. Robertson": [
+            "Perceived (\u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03b7\u03c3\u03b1\u03c2). From \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03b5\u03c9, to put the mind down on.",
+            "Craftiness (\u03c0\u03b1\u03bd\u03bf\u03c5\u03c1\u03b3\u03b9\u03b1\u03bd). Old word for doing any deed.",
+            "Unscrupulous they certainly were. They would stoop to any trick and go the limit."
+        ],
+        "John Gill": [
+            "But he perceived their craftiness... he clearly saw that their view was either, that they might have a charge against him to the Roman governor, should he declare against payment of tribute; or that they might expose him to the people of the Jews, should he assert the lawfulness of it.",
+            "Knowing what was in them, and being a discerner of the thoughts and intents of their hearts, he clearly saw...",
+            "Why tempt ye me? with this ensnaring question."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, being aware of the craftiness and deceitfulness of the Pharisees and Herodians, perceived their ulterior motives in trying to trick him. He saw through their schemes and understood that their intention was either to find an accusation against him before the Roman governor or to expose him to the people of the Jews. Jesus, being a discerner of thoughts and intentions, realized their malicious intent behind the seemingly innocent question. Thus, he responded to their tempting question with caution and wisdom.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.2032247494023802,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.35,
+            "commentatorTierSimilarities": [
+                27.57,
+                0.0,
+                72.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, perceiving the craftiness and deceitfulness of the Pharisees and Herodians, saw through their ulterior motives. He understood that their intention was to find a charge against him before the Roman governor or to expose him to the people of the Jews. As a discerner of thoughts and intentions, Jesus wisely recognized their malicious intent behind the seemingly innocent question. Thus, he responded to their tempting question with caution and wisdom.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.1815401796063498,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.63,
+            "commentatorTierSimilarities": [
+                27.13,
+                0.0,
+                72.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, being aware of the craftiness and deceitfulness of the Pharisees and Herodians, perceived their ulterior motives in trying to trick him. He saw through their schemes and understood that their intention was either to find an accusation against him before the Roman governor or to expose him to the people of the Jews. Jesus, being a discerner of thoughts and intentions, realized their malicious intent behind the seemingly innocent question. Thus, he responded to their tempting question with caution and wisdom.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.2032247494023802,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.35,
+            "commentatorTierSimilarities": [
+                27.57,
+                0.0,
+                72.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, with keen discernment, perceived the craftiness and deceitfulness of the Pharisees and Herodians. He knew their ulterior motives behind their attempts to trick him. Jesus recognized that they sought to either find a charge against him or expose him to the people. His deep understanding of their intentions allowed him to respond wisely and cautiously to their ensnaring question.",
+            "wordCount": 60,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.1495177677213078,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.57,
+            "commentatorTierSimilarities": [
+                31.19,
+                0.0,
+                68.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, perceiving the craftiness and deceitfulness of the Pharisees and Herodians, understood their ulterior motives. He realized that they sought to find an accusation against him before the Roman governor or expose him to the people of the Jews. With his ability to discern thoughts and intentions, Jesus saw through their malicious intent hidden behind their seemingly innocent question. Therefore, he responded to their tempting inquiry with prudence and sagacity.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.1180718079371048,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.52,
+            "commentatorTierSimilarities": [
+                27.83,
+                0.0,
+                72.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

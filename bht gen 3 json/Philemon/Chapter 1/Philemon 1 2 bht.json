@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:13:04",
+    "verseRef": "Philemon 2",
+    "bestBHT": {
+        "bht": "Philemon is praised for the assembly of Christians who meet in his house, which is like a church in itself. His wife, Apphia, is commended for her qualities as a Christian, while Archippus may have held an important office in the church. Philemon's house served as a gathering place for the early Christian congregation, as regular church buildings were not yet established. Paul acknowledges the potential resentment some members of the household may have against Onesimus, seeking their support in his reception back into the family. The term fellow-soldier describes ministers of the Gospel engaged in spiritual warfare.",
+        "wordCount": 100,
+        "quoteTokenProportion": 34.29,
+        "qualityScore": 2.092874981347041,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.93,
+        "commentatorTierSimilarities": [
+            30.82,
+            34.4,
+            34.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Archippus...fellow-soldier...He was perhaps Philemon\u2019s son: or a family friend: or the minister of the family...\" (100 words)",
+            "To what grade in the ministry he belonged, it is idle to enquire: nor does Col. iv. 17 furnish us with any data.\" (32 words)",
+            "This appears to have consisted not merely of the family itself, but of a certain assembly of Christians who met in the house of Philemon...\" (26 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Apphia\u2014the Latin, 'Appia'; either the wife or some close relative of Philemon.",
+            "Archippus\u2014a minister of the Colossian Church ( :-).",
+            "In the absence of a regular church building, the houses of particular saints were used for that purpose."
+        ],
+        "Albert Barnes": [
+            "And to our beloved Apphia - This was a female (Greek \u03b1\u0313\u03b3\u03b1\u03c0\u03b7\u03c4\u03b7\u0342\u0345 agape\u0304te\u0304), and was probably the wife of Philemon.",
+            "On the term 'fellow-soldier,' see the notes at Philippians 2:25. It is applied here to one who was a minister of the gospel, and who is spoken of in connection with Paul as enlisted under the banners of the Captain of salvation, and waging a warfare with the wickedness of the world.",
+            "And to the church in thy house - Either the church that commonly met in his house, or more probably that was composed of his own family."
+        ],
+        "Marvin Vincent": [
+            "Our beloved Apphia... Commonly supposed to have been Philemon's wife.\" ",
+            "Archippus... held some important office in the church, either at Colossae or at Laodicaea.",
+            "Fellow - soldier... In christian warfare. Perhaps at Ephesus."
+        ],
+        "John Calvin": [
+            "Although the condition of a soldier belongs to all Christians universally, yet because teachers may be regarded as standard bearers in the warfare, they ought to be ready more than all others to fight.\" ",
+            "It is no small praise of a householder, that he regulates his family in such a manner as to be an image of the Church, and to discharge also the duty of a pastor within the walls of his dwelling.",
+            "This good man had a wife of the same character; for she, too, not without reason, is commended by Paul."
+        ],
+        "Philip Schaff": [
+            "The word used there to describe his duty is the same that is employed concerning Timothy (2 Timothy 4:5).",
+            "St. Paul is extremely fond of the figure of a battle in describing the labours of himself and his fellow-preachers of the Gospel.",
+            "The first congregations were formed so speedily after the preaching of the apostles at Pentecost, that there was no possibility of making provision for their accommodation in special buildings."
+        ],
+        "Archibald T. Robertson": [
+            "To Apphia our sister. 'Sister' is in the Christian sense.",
+            "To Archippus. Apparently he is prominent in the church in Colossae, possibly even pastor.",
+            "To the church in thy house. The church that met in the house of Philemon."
+        ],
+        "John Gill": [
+            "and to the church in thy house: not in the house of Archippus, but in the house of Philemon; and designs not the church at Colosse, as though it met at his house; but his own family, which for the great piety and religion which were among them, and for the good order and decorum in which they were kept, were like a church of themselves.",
+            "the apostle acts the wise part, in order to gain his point, by taking notice of them, who might some of them have been injured or affronted by Onesimus, when with them; and so entertained some resentment against him, and might put a bar in the way of his reception into the family again.",
+            "the apostle styles him a fellow soldier; for though this character belongs to private Christians, who are enlisted as volunteers under Christ, the Captain of salvation, and fight under his banners, against sin, Satan, and the world, being accoutred with the whole armour of God, and are more than conquerors through Christ that has loved them; yet it very eminently belongs to the ministers of the Gospel."
+        ],
+        "John Wesley": [
+            "To Apphia \u2014 His wife, to whom also the business in part belonged.",
+            "And the church in thy house \u2014 The Christians who meet there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Philemon is commended for the assembly of Christians who meet in his house, which is like a church in itself. His wife, Apphia, is also praised for her qualities as a Christian. Archippus, whom Paul refers to as a fellow-soldier, may have held an important office in the church, possibly even as a pastor. Philemon's house served as a gathering place for the early Christian congregation, as regular church buildings were not yet established. In addressing Philemon, Paul acknowledges the potential resentment some members of the household may have against Onesimus, and seeks to gain their support in his reception back into the family. The term fellow-soldier is used to describe the ministers of the Gospel who engage in a spiritual warfare. The phrase and to the church in thy house refers to both the church that meets in Philemon's house and the Christians who gather there.",
+            "wordCount": 151,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 2.140064907661041,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.5,
+            "commentatorTierSimilarities": [
+                29.57,
+                35.46,
+                34.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Philemon is praised for the assembly of Christians who meet in his house, which is like a church in itself. His wife, Apphia, is commended for her qualities as a Christian, while Archippus may have held an important office in the church. Philemon's house served as a gathering place for the early Christian congregation, as regular church buildings were not yet established. Paul acknowledges the potential resentment some members of the household may have against Onesimus, seeking their support in his reception back into the family. The term fellow-soldier describes ministers of the Gospel engaged in spiritual warfare.",
+            "wordCount": 100,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 2.092874981347041,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.93,
+            "commentatorTierSimilarities": [
+                30.82,
+                34.4,
+                34.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Philemon is commended for the assembly of Christians who meet in his house, like a church in itself. His wife, Apphia, is praised as well. Archippus may have held an important office in the church. Philemon's house served as a gathering place for early Christians. Paul addresses the potential resentment against Onesimus, seeking support for his reconciliation. The term fellow-soldier describes ministers engaged in spiritual warfare. The phrase and to the church in thy house refers to the Christian congregation gathered there.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.9436740721618548,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.97,
+            "commentatorTierSimilarities": [
+                32.39,
+                33.47,
+                34.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Philemon is commended for the community of believers who gather in his house, like a church in itself. The presence of Apphia, who is assumed to be Philemon's wife, is also acknowledged. Archippus possibly held an important role in the church. Philemon's house served as a meeting place for early Christians before the establishment of dedicated church buildings. Paul acknowledges the potential grievances some household members may have towards Onesimus, seeking their support for his reintegration into the family. The term fellow-soldier is used to describe ministers of the Gospel engaged in spiritual warfare.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.9432499454852015,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.95,
+            "commentatorTierSimilarities": [
+                32.54,
+                34.18,
+                33.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Philemon is commended for his household, which serves as a gathering place for Christians, functioning like a church in itself. His wife, Apphia, is also acknowledged for her commitment to the faith. Archippus likely held an important position in the church, possibly even as a pastor. Before the establishment of dedicated church buildings, Philemon's house served as a meeting place for believers. Paul addresses the potential challenges surrounding the reception of Onesimus back into the family, seeking the support of the household members. The term fellow-soldier refers to ministers engaged in spiritual warfare.",
+            "wordCount": 95,
+            "quoteTokenProportion": 26.87,
+            "qualityScore": 1.914302397745812,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                32.54,
+                33.48,
+                33.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

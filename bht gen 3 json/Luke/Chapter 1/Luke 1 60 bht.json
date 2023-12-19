@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:13:27",
+    "verseRef": "Luke 1:60",
+    "bestBHT": {
+        "bht": "Elisabeth must have learned the name John through communication with her husband, writing. Some have suggested that the name was supernaturally revealed to Elisabeth, but it is more likely that Zacharias informed her in writing. The agreement between the parents on this name caused wonder among their relatives, who were affected by the strangeness of the occurrence. The name John was not only known to Elisabeth, but it appears that she also spoke it by divine revelation or a particular impulse from God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 53.33,
+        "qualityScore": 2.182696460125607,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.92,
+        "commentatorTierSimilarities": [
+            37.05,
+            36.26,
+            26.7
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is no reason for supposing, with some Commentators, that Elisabeth had had the name supernaturally intimated to her.",
+            "She must necessarily have learnt it\u2014in the course of communication by writing, from her husband.",
+            "Elisabeth had the name supernaturally intimated to her."
+        ],
+        "Albert Barnes": [
+            "Shall be called John - This was the name which the angel had said should be given to him, of which Zechariah had probably informed Elizabeth by writing."
+        ],
+        "John Calvin": [
+            "When Zacharias saw the punishment inflicted on him for being too slow in believing, he probably informed his wife by writing what the angel had enjoined...\" ",
+            "The relatives, though unacquainted with the reason, are affected by the strangeness of the occurrence, particularly as they conjecture it did not take place without design."
+        ],
+        "Philip Schaff": [
+            "Elisabeth may have been informed by Zacharias of the appointed name of the child.",
+            "But possibly the name had been revealed to her also.",
+            "The wonder mentioned in Luke 1:63 seems to have arisen from the agreement of the parents on this point."
+        ],
+        "John Gill": [
+            "Not so, but he shall be called John; knowing that this was the name wherewith the angel said he should be called.\" ",
+            "Either by divine revelation, she being filled with the Holy Ghost, Luke 1:41 or by information of her husband, who, doubtless, in writing, gave her an account of all that the angel had said unto him."
+        ],
+        "John Wesley": [
+            "His mother said \u2014 Doubtless by revelation, or a particular impulse from God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Elisabeth must have learned the name John through communication with her husband, writing. Some have suggested that the name was supernaturally revealed to Elisabeth, but it is more likely that Zacharias informed her in writing. The agreement between the parents on this name caused wonder among their relatives, who were affected by the strangeness of the occurrence. The name John was not only known to Elisabeth, but it appears that she also spoke it by divine revelation or a particular impulse from God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 2.182696460125607,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.92,
+            "commentatorTierSimilarities": [
+                37.05,
+                36.26,
+                26.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Elisabeth learned the name John through communication with her husband, writing. It is more likely that Zacharias informed her in writing rather than the name being supernaturally revealed to her. The agreement of the parents on this name caused wonder among their relatives. Elisabeth not only knew the name John, but she also spoke it by divine revelation or a particular impulse from God.",
+            "wordCount": 64,
+            "quoteTokenProportion": 54.9,
+            "qualityScore": 2.0696151117651884,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+            "commentatorTierSimilarities": [
+                36.31,
+                36.07,
+                27.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Elisabeth must have learned the name of her son, John, through communication with her husband, who had been instructed by an angel to give the child this name. Their agreement on the chosen name was the cause of wonder among their relatives. It is likely that Zacharias informed Elisabeth of the name through writing, as he had been rendered mute. Elisabeth's affirmation of the name indicates that she was aware of the divine revelation, either through being filled with the Holy Ghost or through her husband's account of the angel's words.",
+            "wordCount": 94,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.083711629610644,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                32.61,
+                38.09,
+                29.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Elisabeth learned the name of her son, John, through communication with her husband. The agreement between them on this chosen name caused wonder among their relatives. Zacharias likely informed Elisabeth of the name through writing, as he was unable to speak. Elisabeth's affirmation of the name indicates her awareness of the divine revelation, either through being filled with the Holy Ghost or through her husband's account of the angel's words.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.9865292439914328,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                35.82,
+                36.87,
+                27.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Elisabeth must have learned the name of her son, John, through communication with her husband, who had been instructed by an angel to give the child this name. Their agreement on the chosen name was the cause of wonder among their relatives. It is likely that Zacharias informed Elisabeth of the name through writing, as he had been rendered mute. Elisabeth's affirmation of the name indicates that she was aware of the divine revelation, either through being filled with the Holy Ghost or through her husband's account of the angel's words.",
+            "wordCount": 94,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.083711629610644,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                32.61,
+                38.09,
+                29.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

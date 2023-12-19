@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:21:15",
+    "verseRef": "Luke 18:2",
+    "bestBHT": {
+        "bht": "In this narrative, we encounter a judge who fearlessly defied God and callously disregarded the opinions and rights of others. This judge's lack of reverence and shame is exemplified in his treatment of a vulnerable widow. Our Lord indirectly guides us to understand the qualities essential for a judge, emphasizing the significance of both fearing God and respecting the rights of individuals. The judge's unprincipled behavior demonstrates the absence of religious and social restraints, rendering him unsuitable for the position of a ruler or magistrate.",
+        "wordCount": 87,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.7566533759856715,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.75,
+        "commentatorTierSimilarities": [
+            16.31,
+            39.58,
+            44.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] See Deut. xvi. 18 and Matt. v. 21, 22."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. feared not . . . neither",
+            "\tregarded\u2014defying the vengeance of God and despising the opinion",
+            "\tof men. ",
+            "\t",
+            "widow\u2014weak, desolate,",
+            "\tdefenseless (1 Timothy 5:5, which is",
+            "\ttaken from this)."
+        ],
+        "Albert Barnes": [
+            "He that has no regard for God can be expected to have none for man.",
+            "Our Lord has here indirectly taught us what ought to be the character of a judge that he 'should' fear God and regard the rights of man.",
+            "Regarded man - cared not for man. Had no respect for the opinions or the rights of man."
+        ],
+        "Marvin Vincent": [
+            "Regarded [\u03b5\u03bd\u03c4\u03c1\u03b5\u03c0\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . See on Matthew 21:37."
+        ],
+        "Philip Schaff": [
+            "Who feared not God, and regarded not man.\" ",
+            "The expression is not an uncommon designation of an unprincipled and reckless person.",
+            "Religious motives and even social influences set no check to his selfish recklessness."
+        ],
+        "Archibald T. Robertson": [
+            "This was a 'hard-boiled' judge who knew no one as his superior.",
+            "Present middle participle of \u03b5\u03bd\u03c4\u03c1\u03b5\u03c0\u03c9, old verb, to turn one on himself, to shame one, to reverence one.",
+            "Regarded not (\u03bc\u03b7 \u03b5\u03bd\u03c4\u03c1\u03b5\u03c0\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2)."
+        ],
+        "John Gill": [
+            "There was in a city a judge...which feared not God, neither regarded man.",
+            "The judge in the text...was destitute of the fear of God...and such an one is very unfit to be a judge.",
+            "Civil magistrates, and rulers of every sort, ought to be just, ruling in the fear of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see a judge who feared not God and neither regarded man, defying God's vengeance and disregarding the opinions of others. The judge's behavior towards a weak and defenseless widow reflects his lack of reverence and shame. Our Lord indirectly teaches us through this judge the character a judge should have - one that fears God and respects the rights of others. This judge, however, had no regard for God or man and his selfish recklessness prevailed, setting no check to his unprincipled behavior. It is clear that a judge who lacks the fear of God is unfit for the role, as civil magistrates and rulers should rule in the fear of God, being just and fair to all.",
+            "wordCount": 123,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 1.9684297794211085,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
+            "commentatorTierSimilarities": [
+                12.51,
+                40.81,
+                46.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we encounter a judge who neither feared God nor regarded man, displaying a complete disregard for divine consequences and opinions of others. The judge's lack of reverence and shame is evident in his treatment of a helpless widow. Our Lord's teachings indirectly highlight the essential qualities of a judge, emphasizing the importance of both fearing God and respecting the rights of others. This unprincipled judge's behavior serves as a stark reminder that rulers, including civil magistrates, should govern justly and with the fear of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8419047574342848,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                15.02,
+                37.9,
+                47.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, we witness a judge who showed no fear towards God and disregarded the rights and opinions of others. His conduct lacked reverence and shame, as seen in his treatment of a defenseless widow. This serves as a reminder of the qualities a judge ought to possess - a reverence for God and a respect for the rights of others. The judge's reckless behavior reveals his lack of principles and disregard for religious and social influences. Such disregard renders him unfit for his role as a ruler.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.7058550389257694,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.06,
+            "commentatorTierSimilarities": [
+                17.68,
+                42.54,
+                39.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this narrative, we encounter a judge who fearlessly defied God and callously disregarded the opinions and rights of others. This judge's lack of reverence and shame is exemplified in his treatment of a vulnerable widow. Our Lord indirectly guides us to understand the qualities essential for a judge, emphasizing the significance of both fearing God and respecting the rights of individuals. The judge's unprincipled behavior demonstrates the absence of religious and social restraints, rendering him unsuitable for the position of a ruler or magistrate.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7566533759856715,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.75,
+            "commentatorTierSimilarities": [
+                16.31,
+                39.58,
+                44.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The judge in this account displayed a complete lack of fear towards God and utter disregard for the rights and opinions of others. His actions highlighted his absence of reverence and shame, particularly in his treatment of a vulnerable widow. Through this story, our Lord indirectly illustrates the qualities that a judge should possess - a genuine fear of God and a respectful regard for the rights of individuals. This judge's reckless behavior exemplifies a disregard for both religious motivations and social influences, underscoring his unsuitability for holding a position of authority.",
+            "wordCount": 92,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.6861819583466429,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.41,
+            "commentatorTierSimilarities": [
+                13.39,
+                45.96,
+                40.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

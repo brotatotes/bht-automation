@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:19:25",
+    "verseRef": "Luke 13:22",
+    "bestBHT": {
+        "bht": "As Jesus journeyed on to Jerusalem, he responded to an individual's inquiry, revealing that his journey was not defined by a specific place or time but rather by a continuous effort to teach and heal. It is uncertain whether the question came from a disciple or a Jewish individual, but regardless, Jesus diligently continued with his work, not allowing his travels to be an excuse for inaction. The journey itself was not straightforward, as Jesus went through various cities and villages, spreading his teachings and displaying his character wherever he went.",
+        "wordCount": 92,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.6883119400727127,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+        "commentatorTierSimilarities": [
+            34.55,
+            30.42,
+            35.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This notice includes what follows in the cycle of this last journey, but disclaims any definiteness of place or time for it.\" ",
+            "The enquirer can hardly have been a disciple of Jesus (see ver. 28), but most likely a Jew from the multitude, who had heard his discourses...\" ",
+            "...either from Jewish pride, or perhaps out of real desire to learn from Him, put this question."
+        ],
+        "Albert Barnes": [
+            "This evinces the diligence of our Lord. Though on a journey, yet he remembered his work.\" ",
+            "He did not excuse himself on the plea that he was in haste.",
+            "Christians and Christian ministers should remember that when their Master traveled he did not 'conceal' his character, or think that he was then freed from obligation to do good."
+        ],
+        "John Calvin": [
+            "Journeying towards Jerusalem. It is uncertain whether Luke speaks only of one journey, or means that, while Christ walked throughout Judea, and visited each part of it for the purpose of teaching, he was wont to go up to Jerusalem at the festivals.",
+            "The former clause, certainly, appears to describe that course of life which Christ invariably pursued, from the time that he began to discharge the office which had been committed to him by the Father.",
+            "To make the latter clause agree with this, the meaning will be, that, when the festivals were at hand, he attended, along with others, the holy assemblies."
+        ],
+        "Philip Schaff": [
+            "Luke 13:22. Through cities and villages. The journey was not direct.",
+            "\t",
+            " Teaching and journeying into Jerusalem. In this and the succeeding chapters (14-18). Specimens of His teaching are given.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Journeying on unto Jerusalem. Making his way to Jerusalem.",
+            "Note tenses here of continued action, and distributive use of \u03ba\u03b1\u03c4\u03b1 with cities and villages.",
+            "This is the second of the journeys to Jerusalem in this later ministry corresponding to that in Luke 13:11."
+        ],
+        "John Gill": [
+            "He went through the cities and villages... teaching and journeying toward Jerusalem.\" ",
+            "His delight was to do good both to the bodies and souls of men.\" ",
+            "He was constant and assiduous in it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus journeyed on to Jerusalem, he responded to an individual's inquiry, revealing that his journey was not defined by a specific place or time but rather by a continuous effort to teach and heal. It is uncertain whether the question came from a disciple or a Jewish individual, but regardless, Jesus diligently continued with his work, not allowing his travels to be an excuse for inaction. The journey itself was not straightforward, as Jesus went through various cities and villages, spreading his teachings and displaying his character wherever he went. Jesus' commitment to his mission was unwavering, as he delighted in doing good to both the physical and spiritual well-being of others, constantly and assiduously fulfilling his purpose.",
+            "wordCount": 121,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 1.5888965045209658,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.17,
+            "commentatorTierSimilarities": [
+                32.06,
+                30.67,
+                37.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus journeyed on to Jerusalem, he responded to an individual's inquiry, revealing that his journey was not defined by a specific place or time but rather by a continuous effort to teach and heal. It is uncertain whether the question came from a disciple or a Jewish individual, but regardless, Jesus diligently continued with his work, not allowing his travels to be an excuse for inaction. The journey itself was not straightforward, as Jesus went through various cities and villages, spreading his teachings and displaying his character wherever he went.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.6883119400727127,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+            "commentatorTierSimilarities": [
+                34.55,
+                30.42,
+                35.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus journeyed towards Jerusalem, he diligently taught and healed people in various cities and villages along the way. His commitment to his mission was unwavering, as he refused to use his travels as an excuse to avoid doing good. Despite the uncertainty of whether the inquiry came from a disciple or a Jewish individual, Jesus continued on his path, constantly and assiduously fulfilling his purpose. Whether out of Jewish pride or a genuine desire to learn, the question posed reflected the curiosity of those who encountered Jesus during his journey.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.555963250244479,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                36.42,
+                28.61,
+                34.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus journeyed towards Jerusalem, he responded to an inquiry, which likely came from someone outside of his group of disciples. The specific time and place of the question are not specified, emphasizing the overall purpose of Jesus' journey rather than the details. Throughout his travels, Jesus remained committed to teaching and healing, diligently spreading his teachings and displaying his character in cities and villages. His unwavering dedication to his mission exemplified his desire to do good and fulfill the purpose entrusted to him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4212889138351876,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.6,
+            "commentatorTierSimilarities": [
+                32.0,
+                27.62,
+                40.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On his journey towards Jerusalem, Jesus encountered an individual who inquired about his teachings. Although it is unclear whether the question came from a disciple or a Jewish person, Jesus diligently continued his work, refusing to use his travels as an excuse for inaction. As he travelled through different cities and villages, Jesus spread his teachings and displayed his character, demonstrating his unwavering commitment to do good and fulfill his purpose. His dedication to teaching and healing both the physical and spiritual needs of others was constant, assiduous, and inspiring.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.5093437321054903,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.53,
+            "commentatorTierSimilarities": [
+                31.9,
+                30.77,
+                37.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

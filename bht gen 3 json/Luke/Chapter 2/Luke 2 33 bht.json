@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:14:14",
+    "verseRef": "Luke 2:33",
+    "bestBHT": {
+        "bht": "Joseph and Mary, astounded by the words of Simeon in the temple, were not questioning Jesus' miraculous birth. Simeon's use of his father should not be misconstrued as a denial of the Virgin Birth, but rather as common language at the time. Their wonder reflects their reverence and admiration for all that had been revealed about Jesus. It is important for us to continually seek out and embrace any evidence that strengthens our faith, just as Joseph and Mary were amazed by the words spoken about their son in the temple.",
+        "wordCount": 92,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 1.4401183232504413,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.23,
+        "commentatorTierSimilarities": [
+            22.43,
+            29.63,
+            47.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord Himself would not speak of him thus\" - ",
+            "the simplicity of the narrative\" -",
+            "without any danger of forgetting the momentous history\" -"
+        ],
+        "Marvin Vincent": [
+            "His father was and his mother wondering; the finite verb in the singular agreeing with the father, while the plural participle agrees with both.",
+            "As usual, this combination of finite verb and participle denotes continuance or progression.",
+            "They were marvelling while Simeon was speaking."
+        ],
+        "John Calvin": [
+            "Luke does not say, that they were astonished at it as a new thing, but that they contemplated with reverence, and embraced with becoming admiration, this prediction of the Spirit uttered by the lips of Simeon.\" ",
+            "We learn from this example that, when we have once come to possess a right faith, we ought to collect, on every hand, whatever may aid in giving to it additional strength.\" ",
+            "That man has made great proficiency in the word of God, who does not fail to admire whatever he reads or hears every day, that contributes to his unceasing progress in faith."
+        ],
+        "Philip Schaff": [
+            "The use of it by Luke, in the legal and popular sense, involves no contradiction of his previous statements.\" ",
+            "To have avoided the term would look like the over-carefulness of an inventor.",
+            "Their wonder is made more prominent than their faith."
+        ],
+        "Archibald T. Robertson": [
+            "He by no means intends to deny the Virgin Birth of Jesus so plainly stated in Luke 1:34-38. He merely employs here the language of ordinary custom.",
+            "The masculine gender includes the feminine when both are referred to.",
+            "It is a mark of unusual insight for others to see so much that is obvious to the parent."
+        ],
+        "John Gill": [
+            "They wondered, that a stranger to them and the child, coming into the temple at this instant, should have such a revelation made to him, and be able to say the things he did.",
+            "It may reach to, and include every thing; that as yet had been spoken concerning Jesus; either before, or since his birth.",
+            "They were astonished, at the exact agreement there was between them."
+        ],
+        "John Wesley": [
+            "Joseph and his mother marvelled at those things which were spoken \u2014 For they did not thoroughly understand them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Joseph and Mary, the parents of Jesus, were filled with wonder and amazement at the words spoken by Simeon in the temple. Luke makes it clear that they were not doubting the truth of Simeon's prophecy or questioning the miraculous nature of Jesus' birth, but rather marveling at the significance of these events. The use of the term his father does not imply any denial of the Virgin Birth, but rather reflects the common language used at the time. In fact, it is commendable for others to recognize the fullness of what is obvious to the parents. Their astonishment demonstrates their deep reverence and heartfelt admiration for all that had been revealed about Jesus. In this, we are reminded of the importance of continually seeking out and embracing any evidence that strengthens our faith, just as Joseph and Mary marveled at the words spoken about their son in the temple.",
+            "wordCount": 151,
+            "quoteTokenProportion": 39.36,
+            "qualityScore": 1.4488611109982652,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+            "commentatorTierSimilarities": [
+                24.17,
+                28.99,
+                46.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Joseph and Mary were in awe of the words spoken by Simeon in the temple. While Simeon referred to Joseph as the father of Jesus, he did not deny Jesus' miraculous birth through the Virgin Mary. Joseph and Mary's amazement shows their reverence and deep admiration for the prophecies concerning Jesus. It is important for us to seek out and embrace any evidence that strengthens our faith, just as Joseph and Mary marveled at the words spoken about their son in the temple.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.3539926377765632,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.36,
+            "commentatorTierSimilarities": [
+                21.53,
+                26.64,
+                51.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Joseph and Mary, astounded by the words of Simeon in the temple, were not questioning Jesus' miraculous birth. Simeon's use of his father should not be misconstrued as a denial of the Virgin Birth, but rather as common language at the time. Their wonder reflects their reverence and admiration for all that had been revealed about Jesus. It is important for us to continually seek out and embrace any evidence that strengthens our faith, just as Joseph and Mary were amazed by the words spoken about their son in the temple.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.4401183232504413,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.23,
+            "commentatorTierSimilarities": [
+                22.43,
+                29.63,
+                47.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Joseph and Mary were filled with wonder at the words spoken by Simeon in the temple. Simeon's use of his father does not contradict the truth of the Virgin Birth. Rather, it reflects the customary language of the time. Joseph and Mary's astonishment demonstrates their reverence and admiration for what had been revealed about Jesus. Their response serves as a reminder for us to seek out and appreciate anything that strengthens our faith. Like Joseph and Mary, may we continuously marvel at the profoundness of God's Word.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.2800408424151102,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.9,
+            "commentatorTierSimilarities": [
+                23.76,
+                31.41,
+                44.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Joseph and Mary were awestruck by Simeon's words in the temple. While Simeon referred to Joseph as Jesus' father, he did not deny the Virgin Birth. This choice of language reflects common usage, not a contradiction of prior statements. Joseph and Mary's amazement reveals their reverence and deep admiration for Jesus' prophesied role. Their response encourages us to seek out additional evidence to strengthen our faith. We should learn from their example and continually marvel at the revelations we encounter, allowing our faith to grow even stronger.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.2598006384437908,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.23,
+            "commentatorTierSimilarities": [
+                21.74,
+                35.43,
+                42.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

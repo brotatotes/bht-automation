@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:16:48",
+    "verseRef": "Luke 8:50",
+    "bestBHT": {
+        "bht": "Fear not, for although it may seem impossible, do not be discouraged or lose hope. Have faith in me, and I will bring healing and restoration to your situation. Trust that I am able to work miracles and bring life where there seems to be death. Have confidence, like Jairus, and believe that through your faith, your circumstances will be completely transformed, and you will experience wholeness and strength once again.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 0.9180022295222497,
+        "qualityScoreNormalizedComparedToV2BHTs": 21.87,
+        "commentatorTierSimilarities": [
+            6.01,
+            23.45,
+            70.53
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "50.] and she shall be made whole is only here."
+        ],
+        "Philip Schaff": [
+            "Made whole (lit. \u2018saved\u2019). Peculiar to Luke.",
+            "The promise asked large faith from the father, but the miracle just wrought doubtless quickened Jairus\u2019 confidence.",
+            "He was already in the house. He had already stopped the crowd outside, but meeting another within, those who could enter the chamber of death are singled out."
+        ],
+        "Archibald T. Robertson": [
+            "And she shall be made whole (\u03ba\u03b1 \u03c3\u03c9\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1). This promise in addition to the words in Mark 5:36. See there for discussion of details. "
+        ],
+        "John Gill": [
+            "Fear not: do not be dismayed at this message, nor despair of help, notwithstanding such is the case.",
+            "Believe only, and she shall be made whole; exercise faith in me, that I am able to raise her from the dead, and I will do it.",
+            "She shall be restored to life, and to perfect health and strength again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Fear not, for although it may seem impossible, do not be discouraged or lose hope. Have faith in me, and I will bring healing and restoration to your situation. Trust that I am able to work miracles and bring life where there seems to be death. Have confidence, like Jairus, and believe that through your faith, your circumstances will be completely transformed, and you will experience wholeness and strength once again.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 0.9180022295222497,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.87,
+            "commentatorTierSimilarities": [
+                6.01,
+                23.45,
+                70.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The promise that she shall be made whole is unique to this verse in Luke. This promise requires great faith from Jairus, as mentioned in Mark 5:36, but seeing the miracle that had just happened surely increased his confidence. Although Jairus had already stopped the crowd and was in the house, encountering another obstacle within the house singled out those who could enter the chamber of death. In the face of fear and despair, the message is to not be dismayed and to exercise faith in Jesus, believing that he is able to raise her from the dead. Through this faith, she will not only be restored to life but also to perfect health and strength.",
+            "wordCount": 115,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.4011931732350218,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.93,
+            "commentatorTierSimilarities": [
+                21.84,
+                37.97,
+                40.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The promise that she shall be made whole is unique to this passage. This promise requires great faith, as mentioned, but seeing the miracle increases confidence. Although he had already stopped the crowd and was in the house, encountering another obstacle within the house singled out those who could enter the chamber. In the face of despair, the message is to exercise faith in Jesus, believing he is able to raise her from the dead. Through this faith, she will be restored to life and perfect health.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.3635021839437398,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.68,
+            "commentatorTierSimilarities": [
+                23.26,
+                34.99,
+                41.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The promise of being made whole is unique to this verse, requiring great faith. Encountering an obstacle within the house singles out those who can enter the chamber. In the face of despair, the message is to exercise faith in Jesus, believing he is able to raise her. Through this faith, she will be restored to life and perfect health.",
+            "wordCount": 60,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.217992794449105,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.84,
+            "commentatorTierSimilarities": [
+                21.84,
+                32.28,
+                45.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This promise, peculiar to this verse, necessitates great faith. Facing an obstacle within the house, only those who can enter the chamber are singled out. In times of despair, the message is to exercise faith in Jesus, believing in his ability to raise her. Through this faith, she will experience restoration, not only in life but also in perfect health.",
+            "wordCount": 60,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 1.1098134513901934,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.25,
+            "commentatorTierSimilarities": [
+                18.86,
+                35.58,
+                45.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

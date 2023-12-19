@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:01:34",
+    "verseRef": "Romans 3:13",
+    "bestBHT": {
+        "bht": "The throat of slanderers is likened to an open sepulchre, a symbol of perdition. Their words, originating from a corrupt heart, emit a pestilential odor comparable to the sulphur of a grave. Instead of using their lips to speak words that nourish and give thanks, they spew deadly poison. Their deceptive tongues are a stark contrast to the sweetness of honey, infecting others with their poisonous intentions. They seek to devour the peace and happiness of their victims, inflicting irreparable harm with their cunning and venomous words.",
+        "wordCount": 87,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 2.2808652743432543,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.18,
+        "commentatorTierSimilarities": [
+            27.69,
+            36.42,
+            35.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "13.] The open sepulchre is an emblem of perdition, to which their throat, as the instrument of their speech, is compared."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What proceeds out of their heart, and finds vent in speech and action through the throat, is like the pestilential breath of an open grave.",
+            "That tongue which is man's glory is prostituted to the purposes of deception.",
+            "Those lips which should 'drop as an honeycomb,' and 'feed many,' and 'give thanks unto His name,' are employed to secrete and to dart deadly poison."
+        ],
+        "Albert Barnes": [
+            "As the grave is ever open to receive all into it, that is, into destruction, so the mouth or the throat of the slanderer is ever open to swallow up the peace and happiness of all.",
+            "From the mouths of slanderous persons there proceed noisome and ruinous words.",
+            "The words of the slanderer are deadly, pestiferous, quickly destroying the reputation and happiness of man. They are as subtle, as insinuating, and as deadly to the reputation, as the poison of the adder is to the body."
+        ],
+        "Marvin Vincent": [
+            "Open sepulchre [\u03c4\u03b1\u03c6\u03bf\u03c2 \u03b1\u03bd\u03b5\u03c9\u03b3\u03bc\u03b5\u03bd\u03bf\u03c2] . Lit., a sepulchre opened or standing open. Some explain the figure by the noisome exhalations from a tomb.",
+            "Godet compares the phrase used of a brutal man: 'it seems as if he would like to eat you.'",
+            "Guile is contrasted with violence in the previous clause."
+        ],
+        "John Calvin": [
+            "It is an intimation of extreme barbarity, when the throat is said to be so great a gulf, that it is sufficient to swallow down and devour men whole and entire.\" ",
+            "Their tongues are deceitful, and the poison of asps is under their lips, import the same thing.\" ",
+            "As from the sepulchre, issues forth an offensive and pestilential vapor; so from the mouths of slanderous persons issue noisome and pestilential words."
+        ],
+        "Philip Schaff": [
+            "Their throat is an open sepulchre... the reference is to the corrupting character of the speech.",
+            "They have used deceit... the reference is to the cunning of their tongues.",
+            "The poison of asps... the reference is to the malice which is behind the cunning of their tongues."
+        ],
+        "Archibald T. Robertson": [
+            "Their mouth (words) like the odor of a newly opened grave.",
+            "Some portions of Greek and Roman literature stink like a newly opened grave.",
+            "The poison of the asp lies in a bag under the lips."
+        ],
+        "John Gill": [
+            "The throat is an open sepulchre... for its voracity and insatiableness... the sinner's eager desire after sin, the delight and pleasure he takes in it, the abundance of it he takes in, and his insatiable greediness for it...",
+            "With their tongues they have used deceit... there are flatterers in things sacred and civil, there are self-flatterers, court flatterers, and flattering preachers, and all abominable and mischievous...",
+            "The poison of asps is under their lips... a world of mischief in it, signified by poison; which, as that, is latent and secret, is under it... an evil tongue stupefies and kills insensibly, in a deadly and incurable manner..."
+        ],
+        "John Wesley": [
+            "Their throat \u2014 Is noisome and dangerous as an open sepulchre.",
+            "The poison of asps \u2014 Infectious, deadly backbiting, tale-bearing, evil-speaking, is under (for honey is on) their lips.",
+            "An asp is a venomous kind of serpent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse portrays the destructive power of slanderers' words, comparing their throat to an open sepulchre or grave. Their speech, flowing from a heart corrupted by deceit, resembles the putrid breath emanating from a tomb. The slanderers pervert their ability to speak, turning their lips into vessels of deadly poison rather than honey that should feed and give thanks. Their words are like the stench of a freshly opened grave, bringing death and ruin. The imagery emphasizes the malicious intent behind their cunning and insidious tongues, which are as deceptive and deadly as the venom of asps. Their toxic words seek to devour the reputations and happiness of others, leaving destruction in their wake.",
+            "wordCount": 114,
+            "quoteTokenProportion": 27.85,
+            "qualityScore": 2.3393765679615885,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.12,
+            "commentatorTierSimilarities": [
+                28.21,
+                36.96,
+                34.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The throat of slanderers is likened to an open sepulchre, a symbol of perdition. Their words, originating from a corrupt heart, emit a pestilential odor comparable to the sulphur of a grave. Instead of using their lips to speak words that nourish and give thanks, they spew deadly poison. Their deceptive tongues are a stark contrast to the sweetness of honey, infecting others with their poisonous intentions. They seek to devour the peace and happiness of their victims, inflicting irreparable harm with their cunning and venomous words.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.2808652743432543,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.18,
+            "commentatorTierSimilarities": [
+                27.69,
+                36.42,
+                35.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The throat of slanderers is compared to an open sepulchre, representing their pernicious nature. Their words, flowing from a corrupt heart, resemble the foul odor emitted by a tomb. Instead of using their lips to speak words of kindness, they secrete deadly poison. Their deceitful tongues are in stark contrast to the sweet and nurturing qualities associated with honey. Their malicious intent seeks to devour the reputation and happiness of others, leaving destruction in their wake.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.198540146595861,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.44,
+            "commentatorTierSimilarities": [
+                28.58,
+                37.69,
+                33.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The throat of slanderers is like an open sepulchre, emitting a noisome odor comparable to a freshly opened grave. Their words, stemming from a corrupted heart, spew forth deadly poison rather than honey. Their deceitful tongues are cunning and insidious, causing damage and ruin. Their malicious intent seeks to devour the peace and happiness of others, leaving destruction in their wake. The imagery portrays the sinister nature of slanderous speech, emphasizing the harm it inflicts on both the speaker and their victims.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 2.1684603198298125,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.44,
+            "commentatorTierSimilarities": [
+                27.14,
+                37.97,
+                34.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The throat of slanderers is comparable to an open sepulchre, releasing a putrid stench akin to the breath of a tomb. Rather than using their lips to convey words that nurture and give gratitude, they harbor and spew forth deadly poison. Their deceitful tongues are in stark contrast to the sweetness of honey, causing harm and destruction. Slanderers seek to devour the peace and happiness of others, relentlessly pursuing their malicious intent with their cunning and venomous words.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.254162836934727,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.29,
+            "commentatorTierSimilarities": [
+                26.1,
+                36.71,
+                37.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

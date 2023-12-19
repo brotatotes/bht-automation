@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:36:16",
+    "verseRef": "Acts 25:6",
+    "bestBHT": {
+        "bht": "Festus lost no time after his arrival, immediately sitting on the judgment seat as a legal formality to give weight to his decision. He promptly commanded Paul to be brought for trial, without delay. Though the specific number of days he spent in Jerusalem is uncertain, the swift movement of the case from Jerusalem to Caesarea suggests the urgency and significance of resolving Paul's situation. Influential leaders who came with Festus likely played a role in expediting the proceedings.",
+        "wordCount": 80,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5289840565077344,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+        "commentatorTierSimilarities": [
+            19.38,
+            39.34,
+            41.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The number of days is variously read.",
+            "A perverted notion of the necessity of an absolute precision in details in the inspired text.",
+            "May have occasioned the erasure of one of the numbers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4-6. answered that Paul should be",
+            "\tkept\u2014rather, \"is in custody.\" ",
+            "\t",
+            "at C\u00e6sarea, and . . .",
+            "\thimself would depart shortly thither."
+        ],
+        "Albert Barnes": [
+            "The Syriac reads it, 'eight or ten.' The Vulgate, 'not more than eight or ten.' The Coptic, 'eight or ten.'\" ",
+            "Sitting in the judgment seat - On the tribunal; or holding a court for the trial of Paul.",
+            "Commanded Paul to be brought - To be brought up for trial. He had been secured, but was placed in the care of a soldier, who was commanded to let him have all the freedom that was consistent with his security."
+        ],
+        "Marvin Vincent": [
+            "Judgment - seat. See on ch. Acts 7:5."
+        ],
+        "Archibald T. Robertson": [
+            "Festus lost no time for the chief men had come down with him.",
+            "Sat on the judgment seat (\u03ba\u03b1\u03b8\u03b9\u03c3\u03b1\u03c2 \u03b5\u03c0 \u03c4\u03bf\u03c5 \u03b2\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2). A legal formality to give weight to the decision.",
+            "To be brought (\u03b1\u03c7\u03b8\u03b7\u03bd\u03b1). First aorist passive infinitive of \u03b1\u03b3\u03c9 after \u03b5\u03ba\u03b5\u03bb\u03b5\u03c5\u03c3\u03b5\u03bd (commanded)."
+        ],
+        "John Gill": [
+            "And when he had tarried among them more than ten days... the historian, not being certain to a day, expresses himself in this manner.\" ",
+            "He went down to Caesarea; from whence he came, and where Paul was.",
+            "The day after he was come to Caesarea, he sat upon the bench in the court of judicature, to try causes, and particularly the apostle's."
+        ],
+        "John Wesley": [
+            "Not more than ten days \u2014 A short space for a new governor to stay at such a city as Jerusalem.",
+            "A short space for a new governor to stay at such a city as Jerusalem.",
+            "He could not with any convenience have heard and decided the cause of Paul within that time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Festus arrived in Caesarea, he wasted no time in handling the case involving Paul. He sat on the judgment seat as a legal formality to give weight to the decision. The precise number of days that he spent in Jerusalem before going to Caesarea is debated, with some suggesting that a number may have been erased in the text. Regardless, it is clear that Festus did not delay in getting to the matter at hand. In a relatively short span of time, he commanded Paul to be brought for trial. This prompt action by Festus may have been due to influential leaders who came down with him. Ultimately, the swift movement of the case from Jerusalem to Caesarea shows the urgency and importance of resolving Paul's situation.",
+            "wordCount": 129,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 1.4571943592801184,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.79,
+            "commentatorTierSimilarities": [
+                21.32,
+                34.73,
+                43.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Festus arrived, he wasted no time. He sat on the judgment seat, a legal formality, and commanded Paul to be brought for trial. The exact number of days he spent in Jerusalem is debated, but regardless, he acted promptly. Influential leaders who accompanied him may have prompted this swift action. Moving the case from Jerusalem to Caesarea urgently highlights the importance of resolving Paul's situation.",
+            "wordCount": 67,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.4350187079110777,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.06,
+            "commentatorTierSimilarities": [
+                20.02,
+                33.5,
+                46.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Festus lost no time after his arrival, immediately sitting on the judgment seat as a legal formality to give weight to his decision. He promptly commanded Paul to be brought for trial, without delay. Though the specific number of days he spent in Jerusalem is uncertain, the swift movement of the case from Jerusalem to Caesarea suggests the urgency and significance of resolving Paul's situation. Influential leaders who came with Festus likely played a role in expediting the proceedings.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5289840565077344,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                19.38,
+                39.34,
+                41.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Festus arrived, he wasted no time in handling the case involving Paul. He sat on the judgment seat as a legal formality to give weight to the decision. The precise number of days that he spent in Jerusalem before going to Caesarea is debated, with some suggesting that a number may have been erased in the text. Regardless, it is clear that Festus did not delay in getting to the matter at hand. In a relatively short span of time, he commanded Paul to be brought for trial. This prompt action by Festus may have been due to influential leaders who came down with him. Ultimately, the swift movement of the case from Jerusalem to Caesarea shows the urgency and importance of resolving Paul's situation.",
+            "wordCount": 127,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 1.4562293897805598,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.76,
+            "commentatorTierSimilarities": [
+                21.71,
+                34.75,
+                43.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Festus wasted no time after arriving, promptly sitting on the judgment seat to give weight to his decision. The exact number of days in Jerusalem is debated, but he acted swiftly. Influential leaders may have urged this prompt action. Moving the case urgently to Caesarea highlights the significance of resolving Paul's situation.",
+            "wordCount": 53,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 1.3837048220752437,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.35,
+            "commentatorTierSimilarities": [
+                27.77,
+                27.55,
+                44.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

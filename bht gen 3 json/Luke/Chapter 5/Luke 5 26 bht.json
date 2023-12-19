@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:15:27",
+    "verseRef": "Luke 5:26",
+    "bestBHT": {
+        "bht": "Amazement and wonder swept over the people as they witnessed the unexpected and incredible. They marveled at paradoxes that went against the grain of received opinion. The people, filled with a mixture of fear, gratitude, and awe, acknowledged that they had seen things beyond their wildest imagination. Sins were forgiven, miracles were performed, and a man carried his bed on his back simply by a word spoken. Truly, on that day, they witnessed strange things that surpassed anything they had ever seen or known before.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.45844124484969,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.84,
+        "commentatorTierSimilarities": [
+            27.67,
+            27.71,
+            44.62
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "26.] strange things\u2014literally, things beyond our expectation. Compare the close of the accounts in Matthew and Mark."
+        ],
+        "Marvin Vincent": [
+            "Amazement took hold on all.",
+            "Something contrary to received opinion, and hence strange.",
+            "Compare the English paradox."
+        ],
+        "Philip Schaff": [
+            "Luke alone mentions all three emotions of wonder, gratitude, and fear.",
+            "Matthew indicates that these feelings were those of the people, not of the scribes and Pharisees.",
+            "Strange things. Our word paradox is taken from the word here used."
+        ],
+        "Archibald T. Robertson": [
+            "Amazement (\u03b5\u03ba\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2). Something out of its place, as the mind.",
+            "So they kept glorifying God and at the same time 'were filled with fear,'",
+            "Strange things (\u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03be\u03b1). Our very word paradox, contrary to received opinion."
+        ],
+        "John Gill": [
+            "We have seen strange things today; paradoxes, things wonderful, unthought of, unexpected, and incredible by carnal reason.",
+            "Things never seen, nor known before.",
+            "A man...by a word speaking, rose up, and carried his bed, on his back, home."
+        ],
+        "John Wesley": [
+            "We have seen strange things to. day \u2014 Sins forgiven, miracles wrought."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Amazement and wonder swept over the people as they witnessed the unexpected and incredible. They marveled at paradoxes that went against the grain of received opinion. The people, filled with a mixture of fear, gratitude, and awe, acknowledged that they had seen things beyond their wildest imagination. Sins were forgiven, miracles were performed, and a man carried his bed on his back simply by a word spoken. Truly, on that day, they witnessed strange things that surpassed anything they had ever seen or known before.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.45844124484969,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.84,
+            "commentatorTierSimilarities": [
+                27.67,
+                27.71,
+                44.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amazement and wonder arose as the people witnessed the unexpected and incredible. They were filled with awe at the paradoxes that contradicted common belief. Overwhelmed by a mixture of fear, gratitude, and astonishment, they recognized that what they had seen surpassed their wildest imaginations. Sins were forgiven, miracles were performed, and a man carried his bed on his back by a mere word. On that day, they witnessed unimaginable things that were contrary to anything they had ever known before.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.4410625958517675,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.26,
+            "commentatorTierSimilarities": [
+                26.53,
+                27.2,
+                46.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amazement and wonder enveloped the crowd as they witnessed extraordinary events that went beyond their expectations. This display of wonders left them in awe, as they marveled at the paradoxical nature of what they were witnessing - something that went against the prevailing beliefs. The people were filled with both fear and reverence as they recognized the power of God at work in the midst of these astonishing occurrences. Sins were forgiven, miracles were performed, and a man carried his bed on his back merely by a spoken word. Truly, they had experienced the most extraordinary, unimaginable things that surpassed anything they had known before.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.3650500897915998,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.73,
+            "commentatorTierSimilarities": [
+                27.18,
+                27.79,
+                45.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amazement seized the onlookers as they witnessed the unexpected and incredible. The strange and paradoxical events that unfolded went against their conventional beliefs, leaving them in awe. Filled with both fear and gratitude, they recognized the divine power behind these extraordinary occurrences. Sins were forgiven, miracles were performed, and a man carried his bed on his back by a mere spoken word. On that day, they saw unimaginable things that surpassed anything they had experienced before.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.3919149826045043,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.62,
+            "commentatorTierSimilarities": [
+                27.69,
+                25.21,
+                47.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amazement overwhelmed the crowd as they witnessed things beyond their expectations - strange and paradoxical occurrences that went against the norm. Their minds were in a state of awe and ecstasy, captivated by the incredible deeds that unfolded before their eyes. In the midst of their amazement, they couldn't help but praise and honor God, while a deep sense of fear lingered within them. Truly, that day they had seen exceptional and unimaginable things; miraculous acts and forgiveness of sins that defied rational understanding.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.4029855735101076,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+            "commentatorTierSimilarities": [
+                31.42,
+                29.03,
+                39.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:18:46",
+    "verseRef": "Luke 12:30",
+    "bestBHT": {
+        "bht": "Why worry about what you will eat or wear? Such concerns are heathenish and unbecoming of disciples of Christ. Those who do not know God or acknowledge his providence may be anxious, but as followers of Christ, we can trust in his covenant and promises. There is no need to be overly concerned about these things.",
+        "wordCount": 56,
+        "quoteTokenProportion": 56.25,
+        "qualityScore": 0.794781028765803,
+        "qualityScoreNormalizedComparedToV2BHTs": 17.77,
+        "commentatorTierSimilarities": [
+            22.46,
+            0.0,
+            77.54
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "22-31. (See on :-)."
+        ],
+        "John Gill": [
+            "This is an argument used to dissuade from an immediate and anxious concern for food and raiment, because it is Heathenish, and therefore very unbecoming the disciples and followers of Christ.",
+            "It need not be wondered at in those that know not God, and do not acknowledge his providence, and are strangers to his covenant and promises.",
+            "And therefore it is needless to be so anxious about them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Why worry about what you will eat or wear? Such concerns are heathenish and unbecoming of disciples of Christ. Those who do not know God or acknowledge his providence may be anxious, but as followers of Christ, we can trust in his covenant and promises. There is no need to be overly concerned about these things.",
+            "wordCount": 56,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 0.794781028765803,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.77,
+            "commentatorTierSimilarities": [
+                22.46,
+                0.0,
+                77.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not be consumed with worry over your material needs, for your Heavenly Father is aware of what you require. It is unbecoming of disciples of Christ to fret like pagans who do not know and trust in God's providence and promises. Instead, trust in the Lord's care and provision, understanding that He knows your needs and will provide for you.",
+            "wordCount": 63,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 0.48998773696871467,
+            "qualityScoreNormalizedComparedToV2BHTs": 7.64,
+            "commentatorTierSimilarities": [
+                -1.19,
+                0.0,
+                101.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not be anxious or concerned about your basic necessities like food and clothing, because this kind of preoccupation is typical of those who do not follow Christ and do not believe in God's providence and promises. As disciples of Jesus, we are called to a higher level of trust and faith in the Father who knows all our needs and will provide for them. Focus on seeking His kingdom and living in accordance with His will, and you can trust that He will take care of everything else.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 0.6996988901582943,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.61,
+            "commentatorTierSimilarities": [
+                16.42,
+                0.0,
+                83.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not be consumed with worry over your material needs, for your Heavenly Father is aware of what you require. It is unbecoming of disciples of Christ to fret like pagans who do not know and trust in God's providence and promises. Instead, trust in the Lord's care and provision, understanding that He knows your needs and will provide for you. Focus on seeking His kingdom and living in accordance with His will, and you can trust that He will take care of everything else.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 0.5212496945030016,
+            "qualityScoreNormalizedComparedToV2BHTs": 8.68,
+            "commentatorTierSimilarities": [
+                5.08,
+                0.0,
+                94.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As disciples of Christ, there is no need to be overly anxious about our daily necessities. Such concerns are characteristic of those who don't know God or trust in His providence and covenant promises. Instead, we should prioritize seeking His kingdom and righteousness, knowing that our Heavenly Father is fully aware of our needs and will take care of us. So let us cast aside worldly worries and rest in the assurance that God's loving provision will be sufficient for us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 0.5525156242488676,
+            "qualityScoreNormalizedComparedToV2BHTs": 9.72,
+            "commentatorTierSimilarities": [
+                6.15,
+                0.0,
+                93.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

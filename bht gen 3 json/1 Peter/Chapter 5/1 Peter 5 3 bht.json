@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:40:04",
+    "verseRef": "1 Peter 5:3",
+    "bestBHT": {
+        "bht": "The responsibility of ministers of the gospel is not to exercise dominion over the faith of their congregations. Instead, their role is to act as humble shepherds, guiding with love and truth. Rather than ruling with a haughty spirit, pastors are to lead by example in speech, conduct, and character. Pastors should treat their assigned congregations as partners in the flock, not subjects to be dominated. By embodying humility and faithfully fulfilling their responsibilities, pastors inspire willing obedience and faithful devotion from their congregations.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.667050551664412,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+        "commentatorTierSimilarities": [
+            17.45,
+            38.9,
+            43.65
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not that we have dominion over your faith.\" ",
+            "Regarded in relation to its component sheep, divided among several pastors, it is in the plural 'heritages'.",
+            "A monstrosity it is to see the highest rank joined with the meanest mind, the first seat with the lowest life, a grandiloquent tongue with a lazy life, much talking with no fruit."
+        ],
+        "Albert Barnes": [
+            "Their dominion is not to be that of temporal lordship; it is to be that of love and truth.",
+            "This command would prohibit all assumption of temporal power by the ministers of religion.",
+            "Peter has drawn here with great beauty, the appropriate character of the ministers of the gospel, and described the spirit with which they should be actuated in the discharge of the duties of their office."
+        ],
+        "Marvin Vincent": [
+            "This carries the idea of high-handed rule.",
+            "The word here, though its interpretation is somewhat disputed, seems to refer to the several congregations - the lots or charges assigned to the elders.",
+            "The word primarily means the impression left by a stroke... Used of the stamp on coin; the impression of any engraving or hewn work of art; a monument or statue... Generally, an image or form, always with a statement of the object; and hence the kindred meaning of a pattern or model."
+        ],
+        "John Calvin": [
+            "Peter here condemns unreasonable exercise of power, as the case is with those who consider not themselves to be the ministers of Christ and his Church, but seek something higher.",
+            "And he calls particular churches 'lots,' (cleros ;) for as the whole body of the Church is the Lord\u2019s heritage, so the churches, scattered through towns and villages, were as so many farms, the culture of which he assigns to each presbyter.",
+            "Peter, indeed, expressly gives the churches this title, in order that we may know that whatever men ascribe to themselves is taken away from the Lord, as in many places he calls the Church his peculiar treasure, and the rod of his heritage, when he intends to claim his entire dominion over it; for he never delivers to pastors the government, but only the care, so that his own right remains still complete."
+        ],
+        "Philip Schaff": [
+            "Do not rule haughtily as men do who exercise rule over estates belonging to themselves.",
+            "The elders, therefore, were themselves to be what those under their charge should be.",
+            "The secret of their rule was to lie not in a lordly spirit, but in the persuasion of a consistent life."
+        ],
+        "Archibald T. Robertson": [
+            "The charges,\" \"the lots\" or \"the allotments.\" - The old word meant a die, a portion, here the charges assigned.",
+            "Neither as having lordship in the clergie.\" - Wycliff translated it here.",
+            "Continually becoming.\" - Present active participle of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1 and predicate nominative \u03c4\u03c5\u03c0\u03bf (types, models) for which phrase see 1 Thessalonians 1:7."
+        ],
+        "John Gill": [
+            "Not as those who domineer over such that are appointed in the dignities of the priesthood.",
+            "They should go before the flock, and set an example to believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
+            "They should be ensamples to the saints, in liberality and beneficence, in lenity and gentleness, in meekness and humility, in opposition to the vices before warned against."
+        ],
+        "John Wesley": [
+            "Behaving in a haughty, domineering manner, as though you had dominion over their conscience.",
+            "There is one flock under the one chief Shepherd; but many portions of this, under many pastors.",
+            "But being examples to the flock \u2014 This procures the most ready and free obedience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Ministers of the gospel are not to exercise dictatorial control over the faith of their congregations; rather, they are to be humble leaders who shepherd and guide with love and truth. Each pastor is responsible for their assigned congregation, treating them not as subjects to be ruled, but as fellow members of the flock. It is inappropriate for leaders to hold positions of authority without the corresponding qualities of character and integrity. The message conveyed here is that pastors are to be examples in speech, conduct, love, faith, and purity, rather than displaying a self-righteous attitude of superiority. As pastors faithfully discharge their duties, leading by example and demonstrating humility, they inspire willing and heartfelt obedience from their congregations.",
+            "wordCount": 120,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 1.594850263033242,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                17.33,
+                37.07,
+                45.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Ministers of the gospel should not have domineering control over the faith of their congregations; instead, they should act as humble shepherds, guiding with love and truth. Each pastor is responsible for their assigned congregation, treating them as partners in the flock. It is wrong for leaders to wield power without displaying the qualities of character and integrity. Pastors should lead by example in speech, conduct, love, faith, and purity, inspiring obedient followers through their humble and faithful service.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5501987889296216,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.89,
+            "commentatorTierSimilarities": [
+                15.22,
+                38.78,
+                46.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Ministers of the gospel should not exercise dominion over the faith of their congregations. Instead, they are to act as humble shepherds, guiding with love and truth. Each pastor has their assigned congregation, treating them not as subjects to be ruled, but as members of the flock. It is inappropriate for leaders to wield power without displaying qualities of character and integrity. Pastors are to be examples in speech, conduct, love, faith, and purity, inspiring obedience from their congregations through their humble and faithful service.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5917066115963463,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.27,
+            "commentatorTierSimilarities": [
+                16.68,
+                40.24,
+                43.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Ministers of the gospel should not exercise dominion over the faith of their congregations. Instead, they are to act as humble shepherds, guiding with love and truth. Each pastor has their assigned congregation, treating them not as subjects to be ruled, but as members of the flock. It is inappropriate for leaders to wield power without displaying qualities of character and integrity. Pastors are to be examples in speech, conduct, love, faith, and purity, inspiring obedience through humble and faithful service.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.5866690893489968,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+            "commentatorTierSimilarities": [
+                16.91,
+                40.08,
+                43.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The responsibility of ministers of the gospel is not to exercise dominion over the faith of their congregations. Instead, their role is to act as humble shepherds, guiding with love and truth. Rather than ruling with a haughty spirit, pastors are to lead by example in speech, conduct, and character. Pastors should treat their assigned congregations as partners in the flock, not subjects to be dominated. By embodying humility and faithfully fulfilling their responsibilities, pastors inspire willing obedience and faithful devotion from their congregations.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.667050551664412,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+            "commentatorTierSimilarities": [
+                17.45,
+                38.9,
+                43.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

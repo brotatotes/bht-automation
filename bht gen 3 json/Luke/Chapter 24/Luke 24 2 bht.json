@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:23:44",
+    "verseRef": "Luke 24:2",
+    "bestBHT": {
+        "bht": "The stone at the sepulchre was definitely rolled away, as mentioned in the more detailed accounts in Mark and Matthew, though not exactly as described for the two women named Mary. The stone was not just moved, but rather rolled away according to the perfect passive participle of the verb \u03b1\u03c0\u03bf\u03ba\u03c5\u03bb\u03b9\u03c9. This was a significant fact discovered by the women when they reached the sepulchre, as it had great implications and revealed divine intervention, possibly involving an angel.",
+        "wordCount": 78,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.4675436422193175,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+        "commentatorTierSimilarities": [
+            45.45,
+            0.0,
+            54.55
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] This agrees with the more detailed account in Mark:\u2014and, as regards the majority of the women, may also with that in Matthew:\u2014but not as regards the two Maries."
+        ],
+        "Archibald T. Robertson": [
+            "Rolled away (\u03b1\u03c0\u03bf\u03ba\u03b5\u03ba\u03c5\u03bb\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd). Perfect passive participle of \u03b1\u03c0\u03bf\u03ba\u03c5\u03bb\u03b9\u03c9, late verb and in the N.T. only in this context...",
+            "\u03b1\u03c0\u03bf\u03ba\u03b5\u03ba\u03c5\u03bb\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd...while John 20:1 has \u03b7\u03c1\u03bc\u03b5\u03bd\u03bf\u03bd (taken away).",
+            "Perfect passive participle of \u03b1\u03c0\u03bf\u03ba\u03c5\u03bb\u03b9\u03c9..."
+        ],
+        "John Gill": [
+            "And they found the stone rolled away the sepulchre.",
+            "Which Joseph had laid there, security of the body, and in the sight of these women.",
+            "But when they came to the sepulchre, to their great surprise, they found it rolled away, which was done by an angel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The stone at the sepulchre was definitely rolled away, as mentioned in the more detailed accounts in Mark and Matthew, though not exactly as described for the two women named Mary. The stone was not just moved, but rather rolled away according to the perfect passive participle of the verb \u03b1\u03c0\u03bf\u03ba\u03c5\u03bb\u03b9\u03c9. This was a significant fact discovered by the women when they reached the sepulchre, as it had great implications and revealed divine intervention, possibly involving an angel.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.4675436422193175,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+            "commentatorTierSimilarities": [
+                45.45,
+                0.0,
+                54.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The stone at the sepulchre was indeed rolled away (\u03b1\u03c0\u03bf\u03ba\u03b5\u03ba\u03c5\u03bb\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd), as mentioned in the more detailed accounts in Mark and Matthew, though not exact for the two women named Mary. This noteworthy detail points to divine intervention and reveals the surprise and wonder of the women as they arrived at the sepulchre.",
+            "wordCount": 52,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.313110390492346,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.0,
+            "commentatorTierSimilarities": [
+                39.83,
+                0.0,
+                60.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The stone at the sepulchre was indeed rolled away (\u03b1\u03c0\u03bf\u03ba\u03b5\u03ba\u03c5\u03bb\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd), and this detail aligns with the more detailed accounts in Mark and Matthew. However, it is worth noting that this is not consistent for the two women named Mary. The act of rolling away the stone has significant implications and suggests divine intervention, possibly involving an angel. The women's surprise upon finding the stone rolled away adds to the sense of awe and wonder surrounding the event.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.2221756763962144,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.98,
+            "commentatorTierSimilarities": [
+                41.15,
+                0.0,
+                58.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The stone at the sepulchre was rolled away (\u03b1\u03c0\u03bf\u03ba\u03b5\u03ba\u03c5\u03bb\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd), corroborating the more detailed accounts in Mark and Matthew. Although this is not completely consistent for the two women named Mary, it underscores the significance of the event. The act of rolling the stone away indicates divine intervention, possibly involving an angel, causing great surprise and awe among the women who arrived at the sepulchre.",
+            "wordCount": 64,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.272731361071297,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.66,
+            "commentatorTierSimilarities": [
+                40.47,
+                0.0,
+                59.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The stone at the sepulchre was indeed rolled away (\u03b1\u03c0\u03bf\u03ba\u03b5\u03ba\u03c5\u03bb\u03b9\u03c3\u03bc\u03b5\u03bd\u03bf\u03bd), which aligns with the more detailed accounts of Mark and Matthew. This signifies a significant event, possibly involving divine intervention, and was a surprising discovery for the women who arrived at the sepulchre. The act of rolling away the stone added a sense of awe and wonder, leaving them in amazement at what they had found.",
+            "wordCount": 66,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.052568686778345,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.34,
+            "commentatorTierSimilarities": [
+                27.32,
+                0.0,
+                72.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

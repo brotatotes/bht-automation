@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:32:35",
+    "verseRef": "Acts 16:33",
+    "bestBHT": {
+        "bht": "The Philippian jailer, moved by his newfound faith, washed Paul and Silas' wounds, cleansing them from the blood of their stripes. This act of compassion exemplifies the transformative power of religion, cultivating humanity and tenderness towards the suffering. In response to this demonstration of care, the jailer and his household were immediately baptized, symbolizing their immediate embrace of the gospel. This exchange emphasizes the reciprocal nature of faith, as the jailer washed away their physical pain and, in turn, was cleansed from his sins. Trusting in God enables boldness in fulfilling our duties without fear or doubt.",
+        "wordCount": 97,
+        "quoteTokenProportion": 26.47,
+        "qualityScore": 1.8823035779184045,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+        "commentatorTierSimilarities": [
+            33.29,
+            35.07,
+            31.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "33. washed them from their stripes] i.e. washed them, so that they were purified from the blood occasioned by their stripes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These bleeding wounds had never been thought of by the indifferent jailer. But now, when his whole heart was opened to his spiritual benefactors, he cannot rest until he has done all in his power for their bodily relief.",
+            "Was baptized, he and all his, straightway\u2014probably at the same fountain, since it took place 'straightway'; the one washing on his part being immediately succeeded by the other on theirs."
+        ],
+        "Albert Barnes": [
+            "Though the apostles had the gift of miracles, they did not exercise it in regard to their own sufferings or to heal their own wounds.",
+            "We have here a remarkable instance of the effect of religion in producing humanity and tenderness.",
+            "Often one of the most striking changes that occurs in conversion is seen in the disposition to be kind and humane to the suffering."
+        ],
+        "Marvin Vincent": [
+            "He took them along with him.",
+            "Washed them from their stripes.",
+            "The jailer bathed them; cleansing them from the blood with which they were besprinkled from the stripes."
+        ],
+        "John Calvin": [
+            "And we must also note the notable exchange: he was of late about to murder himself, because he thought that Paul and the rest were escaped; but now laying aside all fear, he bringeth them home.\" ",
+            "So that we see how faith doth animate and encourage those to behave themselves stoutly who before had no heart.\" ",
+            "And surely, when we droop through fear and doubtfulness, there is no better matter of boldness than to be able to cast all our cares into God\u2019s bosom; that no danger may terrify us from doing our duty."
+        ],
+        "Philip Schaff": [
+            "The jailor washed them, and he was washed himself. He washed them from their stripes, and he in his turn was washed from his sins.",
+            "This same Greek father conjectures that 'Stephanas' (1 Corinthians 1:16; 1 Corinthians 16:15-17) was identical with this Philippian jailor.",
+            "It is possible that such a bath existed in the prison of Philippi, which was a noted military centre. It is more likely, however, to have been an impluvium."
+        ],
+        "Archibald T. Robertson": [
+            "Washed their stripes\" - This first aorist active indicative of \u03bb\u03bf\u03c5\u03c9, to bathe, succinctly shows what the jailor did to remove the stains left by the rods of the lictors (verse Acts 16:22).",
+            "Baptized, he and all his, immediately\" - The verb is in the singular agreeing with \u03b1\u03c5\u03c4\u03bf\u03c2, but it is to be supplied with \u03bf \u03b1\u03c5\u03c4\u03bf\u03c5, and it was done at once.",
+            "\u03ba\u03b1 \u03b5\u03b2\u03b1\u03c0\u03c4\u03b9\u03c3\u03b8\u03b7 \u03b1\u03c5\u03c4\u03bf\u03c2 \u03ba\u03b1 \u03bf \u03b1\u03c5\u03c4\u03bf\u03c5 \u03b1\u03c0\u03b1\u03bd\u03c4\u03b5\u03c2 \u03c0\u03b1\u03c1\u03b1\u03c7\u03c1\u03b7\u03bc\u03b1\" - And was baptized, he and all his, immediately."
+        ],
+        "John Gill": [
+            "His faith worked by love, and showed itself in fruits of charity and righteousness, and in obedience to Christ, and submission to his ordinance.",
+            "By immersion, that being the only way in which baptism was administered, or can be, so as to be called a baptism.",
+            "They had the word of the Lord spoken to them as well as he, and believed as well as he, and rejoiced as he did; all which cannot be said of infants."
+        ],
+        "John Wesley": [
+            "It should not be forgot, that the apostles had not the power of working miraculous cures when they pleased, either on themselves, or their dearest friends.",
+            "Nor was it expedient they should, since it would have frustrated many wise designs of God.",
+            "which were answered by their sufferings."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Philippian jailer, who had once been indifferent to the bleeding wounds of Paul and Silas, now showed a deep concern for their well-being. He washed away the blood from their stripes, cleansing them from the physical pain they had endured. This act of kindness and humanity reflected the transformative power of his conversion. After this, without hesitation, he and his household were immediately baptized. The jailer's actions demonstrated both his faith and his understanding of the reciprocal nature of faith, as he washed away their wounds and, in turn, was washed from his sins. Through this exchange, we witness the boldness that comes from casting our cares into God's bosom, enabling us to fulfill our duties without fear or doubt.",
+            "wordCount": 124,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9112383944405424,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.89,
+            "commentatorTierSimilarities": [
+                38.59,
+                31.61,
+                29.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Philippian jailer, previously indifferent to Paul and Silas' bleeding wounds, now sought to relieve their suffering by washing away the blood from their stripes. This act reflected his transformed heart after experiencing their spiritual impact. He and his household were promptly baptized, signifying their immediate response to the gospel. This exchange exemplifies the power of faith in producing kindness and tenderness, as well as the reciprocal nature of faith itself, cleansing both wounds and sins. Such boldness in fulfilling our duties stems from entrusting our cares to God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.7694016621255844,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                35.25,
+                32.63,
+                32.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Philippian jailer, moved by his newfound faith, washed Paul and Silas' wounds, cleansing them from the blood of their stripes. This act of compassion exemplifies the transformative power of religion, cultivating humanity and tenderness towards the suffering. In response to this demonstration of care, the jailer and his household were immediately baptized, symbolizing their immediate embrace of the gospel. This exchange emphasizes the reciprocal nature of faith, as the jailer washed away their physical pain and, in turn, was cleansed from his sins. Trusting in God enables boldness in fulfilling our duties without fear or doubt.",
+            "wordCount": 97,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 1.8823035779184045,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                33.29,
+                35.07,
+                31.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Once indifferent to the injuries suffered by Paul and Silas, the Philippian jailer's heart was opened when he embraced his spiritual benefactors. He fervently desired to alleviate their physical pain, washing away the blood from their stripes. In reciprocation, the jailer and his entire household were immediately baptized, a testament to the immediate response ignited by their conversion. This act of cleansing not only removed the jailer's physical stains but symbolized the purification of his sins. Entrusting our cares to God empowers us to boldly fulfill our duties without fear or doubt.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.8727547987045536,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                39.2,
+                29.25,
+                31.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moved by faith, the Philippian jailer, who once overlooked their bleeding wounds, now diligently washed the blood from Paul and Silas' stripes, purifying them. This act of compassion displayed the transformative impact of his spiritual awakening. Following this, the jailer and his household were immediately baptized, symbolizing their swift response to the gospel message. This exchange highlights the reciprocal nature of faith, as the jailer cleansed their physical pain and, in turn, was cleansed from his sins. Entrusting our cares to God enables boldness in fulfilling our duties without fear or doubt.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.8374533321094844,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                35.08,
+                31.12,
+                33.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

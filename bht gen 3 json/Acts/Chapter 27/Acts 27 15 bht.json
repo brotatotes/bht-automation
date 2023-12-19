@@ -1,0 +1,88 @@
+{
+    "timestamp": "12-19-2023 16:36:48",
+    "verseRef": "Acts 27:15",
+    "bestBHT": {
+        "bht": "The ship was caught by the wind and could not bear up against it, so they let her drift before the gale. The wind seized the ship and drove it with such violence that it became unmanageable. The sailors did not attempt to control the ship as they were carried along by the wind. It was as if the ship was being seized by a great monster, and they had no choice but to let her be driven.",
+        "wordCount": 78,
+        "quoteTokenProportion": 60.42,
+        "qualityScore": 2.48562335892115,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.99,
+        "commentatorTierSimilarities": [
+            23.58,
+            46.01,
+            30.4
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15. caught] hurried away, \u2018borne along,\u2019 by it. bear up against] literally, look in the face of. we let her drive] literally, we gave up, and were driven."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15. could not bear up into\u2014\"face",
+            "\t",
+            "the wind, we let her",
+            "\tdrift\u2014before the gale."
+        ],
+        "Albert Barnes": [
+            "The ship was caught - By the wind. It came suddenly upon them as a tempest.",
+            "Could not bear up ... - Could not resist its violence, or the helmsman could not direct the ship. It was seized by the wind, and driven with such violence, that it became unmanageable.",
+            "We let her drive - We suffered the ship to be borne along by the wind without attempting to control it."
+        ],
+        "Marvin Vincent": [
+            "To sail 'into the eye of the wind' is a modern nautical phrase.\" ",
+            "Bear up [\u03b1\u03bd\u03c4\u03bf\u03c6\u03b8\u03b1\u03bb\u03bc\u03b5\u03b9\u03bd]. Only here in New Testament. From \u03b1\u03bd\u03c4\u03b9 opposite, and \u03bf\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u03c2, the eye. Lit, to look the wind : in the eye.\" ",
+            "We let her drive [\u03b5\u03c0\u03b9\u03b4\u03bf\u03bd\u03c4\u03b5\u03c2 \u03b5\u03c6\u03b5\u03c1\u03bf\u03bc\u03b5\u03b8\u03b1]. Lit., having given up to it, we were born along."
+        ],
+        "John Calvin": [
+            "Seeing they were first gone some space, and the mariners thought that all things fell out as they would have it, undoubtedly they did deride Paul\u2019s admonition; as rash men use commonly to wax proud if fortune favor them.\" ",
+            "The storm was so vehement and fierce, and that it continued still at one stay, that they were still in danger of death.",
+            "And whereas he saith that all hope of safety was taken away, it must not be referred unto his sense, but only unto the means which men could use; as if he should say, that things were so far out of order, that there was no safety to be looked for at men\u2019s hands."
+        ],
+        "Philip Schaff": [
+            "Here, again, a very strong expression is used in the original, implying that the wind seized hold of the ship, as it were, and whirled her out of her course.",
+            "The literal meaning is, \u2018could not look at, or against, the wind;\u2019 and the phrase is made all the more expressive by the fact that in ancient ships, eyes were painted on each side of the prow.",
+            "Rather it should be translated thus: \u2018Yielding to the wind, we were driven.\u2019 St. Paul would hardly speak as though at this moment he had any responsibility in the management of the ship."
+        ],
+        "Archibald T. Robertson": [
+            "Graphic picture as if the ship was seized by a great monster.",
+            "The ship could not face the wind enough to get to Phoenix.",
+            "We 'scudded before the gale' (Page)."
+        ],
+        "John Gill": [
+            "When the ship was caught...and could not bear up into the wind...we let her drive.\" ",
+            "By the wind, snatched up...could not ply to windward, the wind being so high...we let her drive.\" ",
+            "It being in vain to attempt to get her forward against the wind...we let her drive."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "The ship was caught by the wind and could not bear up against it, so they let her drift before the gale. The wind seized the ship and drove it with such violence that it became unmanageable. The sailors did not attempt to control the ship as they were carried along by the wind. It was as if the ship was being seized by a great monster, and they had no choice but to let her be driven.",
+            "wordCount": 78,
+            "quoteTokenProportion": 60.42,
+            "qualityScore": 2.48562335892115,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.99,
+            "commentatorTierSimilarities": [
+                23.58,
+                46.01,
+                30.4
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

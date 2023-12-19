@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:32:47",
+    "verseRef": "Acts 17:11",
+    "bestBHT": {
+        "bht": "The Bereans' noble disposition and eager interest were evident as they received the preached word with all readiness of mind and searched the Scriptures daily to confirm its truth. They exemplified the duty of private interpretation and the importance of examining everything by the Bible. Their genuine, honest spirit of inquiry and accuracy in searching for truth serve as a model for all believers, demonstrating the value of being teachable and growing in knowledge and grace.",
+        "wordCount": 76,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 2.1012256553549893,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+        "commentatorTierSimilarities": [
+            24.24,
+            41.14,
+            34.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "more noble]\u2014of nobler disposition;\u2014stirred up, not to envy, but to enquiry.",
+            "these things] viz. the doctrine of ver. 3, which Pan] and Silas preached here also."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "in that they received the word with all readiness of mind\u2014heard it not only without prejudice, but with eager interest, \"in an honest and good heart\" (Luke 8:17), with sincere desire to be taught aright (see Luke 8:17- :). Mark the 'nobility' ascribed to this state of mind.",
+            "searched the scriptures daily whether those things were so\u2014whether the Christian interpretation which the apostle put upon the Old Testament Scriptures was the true one."
+        ],
+        "Albert Barnes": [
+            "It is always proof of a noble, liberal, and ingenuous disposition to be willing to examine into the truth of any doctrine presented.",
+            "That man has very little reason to expect that he will grow in knowledge and grace who does not peruse, with candor and with prayer, a portion of the Bible every day.",
+            "The church, in proportion to its increase in purity and knowledge, will feel this more and more; and it is an indication of advance in piety when people are increasingly disposed to examine everything by the Bible."
+        ],
+        "Marvin Vincent": [
+            "Searched. Or examined. See on Luke 23:14."
+        ],
+        "John Calvin": [
+            "Therefore let this remain as a most sure maxim, that no doctrine is worthy to be believed but that which we find to be grounded in the Scriptures.",
+            "For so soon as any man doth hearken, and being desirous to learn, doth show himself attentive, he is now bent and apt to be taught, though he do not fully give his consent.",
+            "But the certainty of faith doth not hinder the confirmation thereof. I call that confirmation when the truth of God is more and more sealed up in our hearts, whereof, notwithstanding, we did not doubt before."
+        ],
+        "Philip Schaff": [
+            "The great teacher neither expected nor desired that men should be converted to his Master\u2019s creed without first carefully examining it, and the proofs upon which it was based.",
+            "The genuine, honest spirit of inquiry is ever allied to true gospel teaching.",
+            "The 'nobility of soul' which Paul\u2019s chronicler so highly praised in the men of Berea consisted not merely in their readiness of mind to receive the word, but also in that patient loving spirit of inquiry which led them daily to read the Scriptures to see whether those things Paul told them of were so."
+        ],
+        "Archibald T. Robertson": [
+            "Here the Jews joyfully welcomed the two Jewish visitors.",
+            "The Beroeans, instead of resenting his new interpretation, examined the Scriptures for themselves.",
+            "The duty of private interpretation is thus made plain."
+        ],
+        "John Gill": [
+            "And the one being 'more noble' than the other, does not refer to their birth, lineage, and descent, as in 1 Corinthians 1:26 few such were called; and besides, both sorts were Jews, and of the same descent; but to their minds, dispositions, and manners; the one were more candid, and ingenuous, and open to conviction and susceptive of the word, than the other.",
+            "This is to be understood not of the essential word Christ; though as it is true of him, that he is the word, and he is said to be received, and that readily and willingly, so these Bereans did receive him by faith, they believed in him, and made a profession of him; nor of the written word, for that is designed by the Scriptures, which they searched daily, and by which they examined, tried, and judged of the word they received; but of the word spoken by the apostle, the word of truth, the Gospel of salvation.",
+            "They did not dispute with, and cavil at the apostle, as the Thessalonian Jews first did, Acts 17:2 nor did they receive the word, right or wrong, or with an implicit faith; but they immediately betook themselves to reading and searching the writings of the Old Testament, to see whether the things which the apostle preached, concerning the Messiah, his incarnation, obedience, sufferings, death, and resurrection from the dead, were agreeable to them, or no; determining, if they were not, to reject them, but if they were, to embrace them, as they did."
+        ],
+        "John Wesley": [
+            "To be teachable in the things of God is true generosity of soul.",
+            "The receiving the word with all readiness of mind, and the most accurate search into the truth, are well consistent.",
+            "The most accurate search into the truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Bereans were commended for their noble disposition and eager interest in receiving and examining the preached word. They eagerly searched the Scriptures daily to ensure that the Christian interpretation aligns with the truth. This duty of private interpretation reveals their genuine, honest spirit of inquiry and their desire to be taught rightly. Their conduct exemplifies the importance of examining everything by the Bible and confirms the maxim that no doctrine is worthy of belief unless grounded in Scripture. Their spirit of inquiry, teachability, and accuracy in searching for truth serve as a model for all believers to grow in knowledge and grace.",
+            "wordCount": 103,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.0304086884058465,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.85,
+            "commentatorTierSimilarities": [
+                25.52,
+                40.33,
+                34.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Bereans' noble disposition and readiness of mind led them to eagerly receive the preached word, searching the Scriptures daily to confirm its truth. This genuine, honest spirit of inquiry and their desire to be taught rightly exemplify the importance of examining everything by the Bible. Their conduct confirms the maxim that no doctrine is worthy of belief unless grounded in Scripture. The Bereans' teachability and accuracy in searching for truth serve as a model for believers to grow in knowledge and grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.0891832006712754,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.81,
+            "commentatorTierSimilarities": [
+                22.03,
+                41.02,
+                36.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Bereans' noble disposition and eager interest were evident as they received the preached word with all readiness of mind and searched the Scriptures daily to confirm its truth. They exemplified the duty of private interpretation and the importance of examining everything by the Bible. Their genuine, honest spirit of inquiry and accuracy in searching for truth serve as a model for all believers, demonstrating the value of being teachable and growing in knowledge and grace.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.1012256553549893,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                24.24,
+                41.14,
+                34.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Bereans' noble disposition was revealed in their readiness of mind to receive the preached word with all eagerness. They diligently examined the Scriptures daily to validate the Christian interpretation, displaying a genuine, honest spirit of inquiry. Their actions affirm the necessity of private interpretation and the maxim that no doctrine should be believed without grounding it in the Scriptures. The Bereans' teachability and accuracy in searching for truth serve as an example for believers to grow in knowledge and grace.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0394751797126984,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+            "commentatorTierSimilarities": [
+                24.22,
+                39.85,
+                35.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Bereans' noble disposition and readiness of mind were evident as they eagerly received the preached word and searched the Scriptures daily. Their genuine, honest spirit of inquiry and desire to be taught rightly exemplify the importance of examining everything by the Bible. Their conduct confirms the maxim that no doctrine is worthy of belief unless grounded in Scripture. The Bereans' teachability and accuracy in searching for truth serve as a model for believers to grow in knowledge and grace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.075787491374391,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.36,
+            "commentatorTierSimilarities": [
+                22.87,
+                40.71,
+                36.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

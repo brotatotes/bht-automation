@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:17:24",
+    "verseRef": "Galatians 3:13",
+    "bestBHT": {
+        "bht": "The curse of sin has been removed by the redemption of Christ, who took upon Himself the curse and punishment on behalf of all people. He bore the curse on the cross, satisfying the demands of the law and freeing us. In Christ, both Jews and Gentiles find deliverance from the curse of the law. His voluntary assumption of the curse demonstrates God's love and fulfills the Father's plan of redemption. Through Christ's act of becoming a curse for us, we are set free from condemnation and no longer bound to the law's requirements.",
+        "wordCount": 98,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.5382642552020362,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.74,
+        "commentatorTierSimilarities": [
+            28.6,
+            34.47,
+            36.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But this curse has been removed by the redemption of Christ.",
+            "The US is emphatic, and applies solely to the Jews.",
+            "The words are spoken of hanging after death by stoning; and are given, in the place cited, as a reason why the body should not: remain on the tree all night, because one hanging on a tree is accursed of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'us' refers primarily to the Jews, to whom the law principally appertained, in contrast to 'the Gentiles'... But it is not restricted solely to the Jews... for these are the representative people of the world at large, and their 'law' is the embodiment of what God requires of the whole world.\" ",
+            "The ransom price He paid was His own precious blood.",
+            "Not merely accursed (in the concrete), but a curse in the abstract, bearing the universal curse of the whole human race."
+        ],
+        "Albert Barnes": [
+            "He was treated in his death As If he had been a criminal... He was put to death in the same manner as he would have been if he had himself been guilty of the violation of the Law.\" ",
+            "It was by such substituted sorrows that we are saved; and he consented to die the most shameful and painful death, as if he were the vilest criminal, in order that the most guilty and vile of the human race might be saved.\" ",
+            "He was, throughout, an object of the divine love and approbation... God never loved Jesus more, or approved what he did more, than when he gave himself to death on the cross."
+        ],
+        "Marvin Vincent": [
+            "The law satisfied its demand upon him, and thus thrust him out of the pale of the legal economy. We, by our fellowship with him, are likewise cast out, and therefore are no longer under curse.",
+            "The cross is regarded as a tree, and Christians as its fruit.",
+            "The law satisfied its demand upon him, and thus thrust him out of the pale of the legal economy."
+        ],
+        "John Calvin": [
+            "If we are saved, because we have been freed from the curse of the law, then righteousness is not by the law."
+        ],
+        "Philip Schaff": [
+            "Christ, out of infinite love and in full agreement with the Father\u2019s eternal plan of redemption, voluntarily assumed, bore and abolished, by His death on the cross, the whole curse of the outraged law in the stead and in behalf of sinners.",
+            "The curse is transferred from the guilty sinner to the innocent victim (as in the case of the typical scape-goat Leviticus 16:5. ff.).",
+            "Christ was not Himself accursed of God, but only in a vicarious sense, that is, by the voluntary self-assumption of the curse of others, and in full harmony with the Father\u2019s wish and will."
+        ],
+        "Archibald T. Robertson": [
+            "Christ purchased us from the curse of the law.",
+            "We were under a curse, Christ became a curse over us.",
+            "Since Christ was not cursed by God."
+        ],
+        "John Gill": [
+            "The Redeemer is Christ, the Son of God; who was appointed and called to this work by his Father, and which he himself agreed to.",
+            "The curse of God, in vindicating his righteous law, was visibly on such a person; as it was on Christ, when he hung on the cross, in the room and stead of his people.",
+            "The Gentiles are under the moral law, and being guilty of the violation of it, are liable to its curse; and cannot be delivered from it, but through the redemption that is in Christ Jesus."
+        ],
+        "John Wesley": [
+            "Christ \u2014 Christ alone. The abruptness of the sentence shows an holy indignation at those who reject so great a blessing.",
+            "Hath redeemed us \u2014 Whether Jews or gentiles, at an high price.",
+            "Being made a curse for us \u2014 Taking the curse upon himself, that we might be delivered from it, willingly submitting to that death which the law pronounces peculiarly accursed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The curse of sin that hung over humanity has been removed through the sacrificial redemption of Christ, who took upon Himself the curse and punishment on behalf of all people. The curse and shame He bore on the cross, likened to a tree, satisfied the demands of the law and freed us from its grip. In Christ, both Jews and Gentiles find deliverance from the curse of the law, being purchased by His own precious blood. His voluntary assumption of the curse demonstrates God's infinite love and His perfect fulfillment of the Father's plan of redemption. Through Christ's act of becoming a curse for us, we are set free from condemnation and no longer bound to the legal requirements of the law.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.53772073105631,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.72,
+            "commentatorTierSimilarities": [
+                28.24,
+                35.52,
+                36.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The curse of sin has been removed by the redemption of Christ, who took upon Himself the curse and punishment on behalf of all people. He bore the curse on the cross, satisfying the demands of the law and freeing us. In Christ, both Jews and Gentiles find deliverance from the curse of the law. His voluntary assumption of the curse demonstrates God's love and fulfills the Father's plan of redemption. Through Christ's act of becoming a curse for us, we are set free from condemnation and no longer bound to the law's requirements.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.5382642552020362,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.74,
+            "commentatorTierSimilarities": [
+                28.6,
+                34.47,
+                36.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The curse of sin has been removed by the redemption of Christ, who took upon Himself the curse and punishment on our behalf. He bore the curse on the cross, satisfying the demands of the law. In Him, both Jews and Gentiles find deliverance from the curse of the law. Through His act of becoming a curse for us, we are set free from condemnation and no longer bound to the law's requirements. Christ's voluntary assumption of the curse demonstrates God's love and fulfills the Father's plan of redemption.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.4888635819254006,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.09,
+            "commentatorTierSimilarities": [
+                29.08,
+                34.08,
+                36.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The curse of sin has been removed by Christ's redemption, as He willingly took upon Himself the curse and punishment for our sake. By hanging on the cross, He satisfied the demands of the law and freed us from its grip. Through His act of becoming a curse, Jews and Gentiles alike find deliverance from the curse of the law. By paying the high price of His own precious blood, Christ set us free from condemnation and the legal requirements of the law.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.395488183072035,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.99,
+            "commentatorTierSimilarities": [
+                29.42,
+                34.06,
+                36.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, in His act of redemption, removed the curse of sin that hung over us. By willingly becoming a curse, He satisfied the demands of the law, freeing both Jews and Gentiles from its condemnation. His precious blood purchased our release, setting us free from the curse and its legal requirements. Through His voluntary assumption of the curse, God's love is displayed, fulfilling the Father's plan of redemption for humanity. In Christ, we find deliverance and escape from condemnation, no longer bound to the law.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.325798442786854,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.67,
+            "commentatorTierSimilarities": [
+                29.28,
+                34.31,
+                36.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

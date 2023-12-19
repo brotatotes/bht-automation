@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:34:03",
+    "verseRef": "Acts 20:11",
+    "bestBHT": {
+        "bht": "The breaking of bread, which had been postponed due to an accident, was a joyous and solemn occasion of dear Christian fellowship. Paul, having gone up to the upper room, engaged in an intimate and confidential conversation with the believers, communing until the break of day. This informal discourse was a time of discussing the ordinances, doctrines, and spiritual experiences of the Gospel. After all the preceding events had taken place, Paul departed without rest, leaving his belongings behind.",
+        "wordCount": 79,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.5988627226101442,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+        "commentatorTierSimilarities": [
+            33.92,
+            33.66,
+            32.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The intended breaking of bread had been put off by the accident.",
+            "The agap\u00e9 was a veritable meal.",
+            "Not \u2018having tasted it,\u2019 viz. the bread which he had broken;\u2014though that is implied, usage decides for the other meaning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "broken bread and eaten\u2014with what a mixture of awe and joy after such an occurrence!\" ",
+            "How lifelike this record of dear Christian fellowship, as free and gladsome as it was solemn!",
+            "HIS FAREWELL ADDRESS TO THEM."
+        ],
+        "Albert Barnes": [
+            "Come up again - To the upper room.",
+            "Had broken bread, and eaten - Had taken refreshment.",
+            "It is evidently distinguished from the celebration of the Lord\u2019s Supper."
+        ],
+        "Marvin Vincent": [
+            "Having gone up. From the court to the chamber above.",
+            "Talked [\u03bf\u03bc\u03b9\u03bb\u03b7\u03c3\u03b1\u03c2] . Rather, communed. It denotes a more familiar and confidential intercourse than discoursed, in verse 7."
+        ],
+        "Philip Schaff": [
+            "The \u2018breaking of bread,\u2019 the solemn conclusion to the long service of prayer and exhortation, doubtless had been interrupted by the accident to Eutychus.",
+            "The bread was, in these early \u2018communions,\u2019 literally broken.",
+            "\u2018The loaf, probably a long roll, was placed before the celebrant, and each piece was broken off as it was given to the communicant\u2019 (Plumptre)."
+        ],
+        "Archibald T. Robertson": [
+            "Luke, as we have seen, is fond of \u03b9\u03ba\u03b1\u03bd\u03bf\u03c2 for periods of time, for a considerable space of time, 'even till break of day' (\u03b1\u03c7\u03c1 \u03b1\u03c5\u03b3\u03b7\u03c2).",
+            "This second discourse lasted from midnight till dawn and was probably more informal (as in Acts 10:27) and conversational (\u03bf\u03bc\u03b9\u03bb\u03b7\u03c3\u03b1\u03c2, though our word homiletics comes from \u03bf\u03bc\u03b9\u03bb\u03b5\u03c9) than the discourse before midnight (\u03b4\u03b9\u03b1\u03bb\u03b5\u03b3\u03bf\u03bc\u03b1, verses Acts 20:7; Acts 20:9).",
+            "Thus Luke sums up the result. Paul left (went forth) only after all the events narrated by the numerous preceding participles had taken place."
+        ],
+        "John Gill": [
+            "and talked a long while: about the ordinance and the doctrines of the Gospel, and spiritual experience, and such like divine things.",
+            "even till break of day; not knowing when to leave off.",
+            "so he departed; without taking any rest; though before he departed, what follows was done; it was at this time he left his cloak, books, and parchments here, 2 Timothy 4:13."
+        ],
+        "John Wesley": [
+            "So departed \u2014 Without taking any rest at all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The breaking of bread, which was intended for a heartfelt fellowship meal, had been delayed due to an accident. However, once they were able to proceed, the breaking of bread and the communal meal brought a mixture of awe and joy after such a miraculous event. It is clear that this was a precious time of dear Christian fellowship, both solemn and free. The apostle Paul, having gone up to the upper room, engaged in an intimate and confidential conversation with the believers, communing with them until the break of day. This second discourse was likely more informal and conversational than the previous one. After all the events narrated by the preceding participles had taken place, Paul departed without any rest, leaving behind his cloak, books, and parchments.",
+            "wordCount": 128,
+            "quoteTokenProportion": 39.78,
+            "qualityScore": 1.6098961517489396,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                38.84,
+                41.0,
+                20.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The breaking of bread, which had been postponed due to an accident, was a joyous and solemn occasion of dear Christian fellowship. Paul, having gone up to the upper room, engaged in an intimate and confidential conversation with the believers, communing until the break of day. This informal discourse was a time of discussing the ordinances, doctrines, and spiritual experiences of the Gospel. After all the preceding events had taken place, Paul departed without rest, leaving his belongings behind.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.5988627226101442,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+            "commentatorTierSimilarities": [
+                33.92,
+                33.66,
+                32.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The breaking of bread, originally intended but postponed due to an accident, became a momentous occasion of dear Christian fellowship. As they gathered, a mixture of awe and joy filled the atmosphere. Paul went up to the upper room to commune personally with the believers and engage in an intimate and confidential conversation until daybreak. They discussed the ordinances, doctrines, and spiritual experiences of the Gospel. Finally, after all the preceding events unfolded, Paul departed without rest, leaving behind his belongings.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.4192452738424388,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.53,
+            "commentatorTierSimilarities": [
+                33.98,
+                33.06,
+                32.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The breaking of bread, postponed due to an accident, took place as a veritable meal of dear Christian fellowship. After the miraculous incident, the breaking of bread and the communal meal were filled with a mixture of awe and joy. Paul communed personally with the believers in the upper room until daybreak, engaging in an informal and conversational discussion about the ordinances, doctrines, and spiritual experiences of the Gospel. Finally, Paul departed without rest, leaving behind his belongings.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.5764056618034936,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.76,
+            "commentatorTierSimilarities": [
+                29.8,
+                38.72,
+                31.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The intended breaking of bread had been put off by the accident, but when it finally occurred, the assembly partook in a meal of dear Christian fellowship, filled with a mixture of awe and joy after the miraculous incident. Paul communed with the believers until daybreak, engaging in an intimate and confidential conversation about the ordinances, doctrines, and spiritual experiences of the Gospel. After all the preceding events took place, Paul departed without rest, leaving his belongings behind.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.538794890080126,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.51,
+            "commentatorTierSimilarities": [
+                33.3,
+                30.81,
+                35.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

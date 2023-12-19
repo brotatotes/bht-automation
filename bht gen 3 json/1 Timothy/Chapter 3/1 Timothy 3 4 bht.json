@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:28:09",
+    "verseRef": "1 Timothy 3:4",
+    "bestBHT": {
+        "bht": "Want of success in ruling at home would disqualify a leader's ability to rule the church. A minister should be capable of managing his own family well, as this is seen as practical preparation for the pastoral office. The leader's children should be in subjection, showing reverence and obedience, which reflects his ability to rule with gravity and dignity. The parallel between family and church governance emphasizes the importance of these qualities in a leader's role.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.8632756778147912,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+        "commentatorTierSimilarities": [
+            23.68,
+            34.78,
+            41.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Want of success in ruling at home, not want of will to rule, would disqualify him for ruling the church.\" ",
+            "So that the distinction is an important one.\" ",
+            "He who knows not how to administer small things, how can he be entrusted with the charge of better and divine things?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "his own house\u2014children and servants, as contrasted with 'the church' of God...which he may be called on to preside over.\" ",
+            "having his children\u2014rather as Greek, 'having children (who are) in subjection'\" ",
+            "gravity\u2014propriety: reverent modesty on the part of the children...The fact that he has children who are in subjection to him in all gravity, is the recommendation in his favor as one likely to rule well the Church."
+        ],
+        "Albert Barnes": [
+            "A minister of the gospel would be, and ought to be, a married man.",
+            "It is still true that, if he has a family, it is a necessary qualification, and that a man in the ministry 'should be' one who governs his own house well.",
+            "He should be a serious and sober-minded man. He should maintain proper 'dignity' (\u03c3\u03b5\u03bc\u03bd\u03bf\u0301\u03c4\u03b7\u03c2 semnote\u0304s); he should maintain self-respect, and his deportment should be such as to inspire others with respect for him."
+        ],
+        "Marvin Vincent": [
+            "The participle means placed in front.",
+            "It is characteristic of the loose and unsettled ecclesiastical nomenclature of the apostolic age.",
+            "The phrase is unique in N.T."
+        ],
+        "John Calvin": [
+            "We ought to observe the reason which is added, that he who does not know how to rule his family, will not be qualified for governing the Church.",
+            "The apostle does not recommend a clever man, and deeply skilled in domestic matters, but one who has learned to govern a family by wholesome discipline.",
+            "He means, in a word, that their morals shall be regulated by all chastity, modesty, and gravity."
+        ],
+        "Philip Schaff": [
+            "One that ruleth well his own house.",
+            "The qualification seems to presuppose the experience of home life as practically the best, if not the necessary, preparation for the pastoral office."
+        ],
+        "Archibald T. Robertson": [
+            "Ruling (\u03c0\u03c1\u03bf\u03b9\u03c3\u03c4\u03b1\u03bc\u03b5\u03bd\u03bf\u03bd). Present middle participle of \u03c0\u03c1\u03bf\u03b9\u03c3\u03c4\u03b7\u03bc, old word to place before and (intransitive as here) to stand before.\" ",
+            "In subjection (\u03b5\u03bd \u03c5\u03c0\u03bf\u03c4\u03b1\u03b3\u03b7). See verse 1 Timothy 3:11."
+        ],
+        "John Gill": [
+            "One that ruleth well his own house... having his children in subjection with all gravity.\" ",
+            "And so should those act who are in such an office as is here treated of; and should not only rule well in their families, preside over them, go before them, and set an example to them, and keep their children in obedience and subjection.",
+            "This may be observed against the Papists, who forbid marriage to the ministers of the Gospel."
+        ],
+        "John Wesley": [
+            "Having his children in subjection with all seriousness \u2014 For levity undermines all domestic authority; and this direction, by a parity of reason, belongs to all parents."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The importance of a church leader's ability to rule his own household well is highlighted in this verse. It is not merely a matter of wanting to rule, but of actually being successful in doing so. The apostle emphasizes that if someone cannot effectively govern his own family, he cannot be trusted with the responsibility of overseeing the church. This qualification speaks to the need for a minister to be married and have experience and skill in managing a household. Furthermore, it is crucial for the leader's children to be in subjection, displaying reverence and obedience. This displays his ability to lead with gravity and dignity. The parallel between family and church governance is clear, as the qualities required for leading a family are considered necessary for the pastoral office as well.",
+            "wordCount": 134,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.763314725043486,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.97,
+            "commentatorTierSimilarities": [
+                23.13,
+                36.04,
+                40.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ability of a church leader to effectively rule his own household is an important qualification emphasized in the passage. It is not just a desire to rule, but the actual success in doing so that counts. A minister should be capable of managing his own family well, as this is seen as practical preparation for the pastoral office. The leader's children should be in subjection, displaying reverence and obedience, which reflects his ability to rule with gravity and dignity. The parallel between family and church governance highlights the significance of these qualities in a leader's role.",
+            "wordCount": 99,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.804614875029941,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "commentatorTierSimilarities": [
+                23.21,
+                37.36,
+                39.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ability of a church leader to rule his household well is an important qualification. It is not just a desire to rule, but the success in doing so that matters. A minister should be capable of managing his own family, as this is seen as preparation for the pastoral office. The leader's children should be in subjection, showing reverence and obedience, which reflects his ability to rule with gravity and dignity. The parallel between family and church governance highlights the significance of these qualities in a leader's role.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.8353327871152003,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                23.32,
+                37.19,
+                39.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Want of success in ruling at home would disqualify a leader's ability to rule the church. A minister should be capable of managing his own family well, as this is seen as practical preparation for the pastoral office. The leader's children should be in subjection, showing reverence and obedience, which reflects his ability to rule with gravity and dignity. The parallel between family and church governance emphasizes the importance of these qualities in a leader's role.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8632756778147912,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+            "commentatorTierSimilarities": [
+                23.68,
+                34.78,
+                41.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ability to effectively rule one's household is crucial for a church leader. If someone cannot govern his own family well, they cannot be trusted with the responsibility of overseeing the church. A minister should be married and have experience in managing a household. This qualification presupposes that home life is the best preparation for the pastoral office. The leader's children should be in subjection, displaying reverence and obedience, which demonstrates their ability to rule with gravity and dignity. The parallel between family and church governance highlights the necessity of these qualities in a leader's role.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8210829809282774,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                19.27,
+                41.71,
+                39.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

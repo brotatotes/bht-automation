@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:14:10",
+    "verseRef": "Luke 2:25",
+    "bestBHT": {
+        "bht": "Simeon's moral character and religious frame of spirit, characterized by cautious observance of divine law, exemplified his devoutness. He eagerly awaited the consolation of Israel, the Messianic hope that would bring blessing to the nation. Guided by the Holy Ghost, his patient anticipation was a testament to his faith. In a time of spiritual dearth and deadness, Simeon and Anna exemplified true piety, offering hope to all believers.",
+        "wordCount": 69,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 2.0756095837963078,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+        "commentatorTierSimilarities": [
+            32.17,
+            33.05,
+            34.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the consolation of Israel] See Acts xxviii. 20. Vol. I.",
+            "It was a common form of adjuration among the Jews, 'So may I see consolation, if&c.'",
+            "On the general expectation of deliverance at this time see on Matt. ii. 1 ff."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "just\u2014upright in his moral character.\" ",
+            "devout\u2014of a religious frame of spirit.\" ",
+            "the Holy Ghost was\u2014supernaturally."
+        ],
+        "Albert Barnes": [
+            "No spectacle is more sublime than an old man of piety and high character looking for the appearing of the Lord, and patiently waiting for the time to come when he may be blessed with the sight of his Redeemer.",
+            "Just - Righteous before God and man; approved by God as a righteous man, and discharging faithfully his duty to man.",
+            "The Holy Ghost ... - He was a holy man, and was 'divinely inspired' respecting the Messiah about to appear."
+        ],
+        "Marvin Vincent": [
+            "Devout [\u03b5\u03c5\u03bb\u03b1\u03b2\u03b7\u03c2]...emphasizes the element of circumspection, a cautious, careful observance of divine law.",
+            "Consolation of Israel...The Messianic blessing of the nation.",
+            "Rest. See Isaiah 11:10. A common form of adjuration among the Jews was, So may I see the consolation."
+        ],
+        "John Calvin": [
+            "Though nearly the whole nation was profane and irreligious, and despised God, yet that a few worshippers of God remained.",
+            "It was a proof of his being a devout man, that he waited for the consolation of Israel: for no true worship of God can exist without the hope of salvation.",
+            "Nor can it be doubted, that this divine intimation, which he received in his individual and private capacity, was intended generally for the confirmation of all the godly."
+        ],
+        "Philip Schaff": [
+            "Simeon...religious conscientious",
+            "Waiting for the consolation of Israel",
+            "And the Holy Spirit was upon him"
+        ],
+        "Archibald T. Robertson": [
+            "Devout (\u03b5\u03c5\u03bb\u03b1\u03b2\u03b7\u03c2)... means taking hold well or carefully (\u03b5\u03c5 and \u03bb\u03b1\u03b2\u03b5\u03b9\u03bd) and so reverently, circumspectly.",
+            "Looking for the consolation of Israel (\u03c0\u03c1\u03bf\u03c3\u03b4\u03b5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2 \u03c0\u03b1\u03c1\u03b1\u03ba\u03bb\u03b7\u03c3\u03b9\u03bd \u03c4\u03bf\u03c5 \u0399\u03c3\u03c1\u03b1\u03b5\u03bb)... means the Messianic hope, calling to one's side for cheer.",
+            "Simeon and Anna are representatives of real piety in this time of spiritual dearth and deadness."
+        ],
+        "John Gill": [
+            "whose name was Simeon; not Simeon, \u05d4\u05e6\u05d3\u05d9\u05e7 \"the just\", the last of the men of the great synagogue...",
+            "and the same man was just and devout; he was a holy good man in his life and conversation...",
+            "for the Messiah under this character, Simeon was waiting, hoping in a little time to see him; since he knew, both by the prophecies of the Old Testament, particularly by Daniel's weeks, and, by divine revelation, that the time was just at hand for his coming..."
+        ],
+        "John Wesley": [
+            "The consolation of Israel \u2014 A common phrase for the Messiah, who was to be the everlasting consolation of the Israel of God.",
+            "The Holy Ghost was upon him \u2014 That is, he was a prophet."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Simeon, a just and devout man, was eagerly waiting for the consolation of Israel, which referred to the Messianic hope and the blessing of the nation. He was upright in his moral character, displaying a cautious and careful observance of divine law. Simeon's longing for the appearance of the Lord was a powerful display of his piety and high character. The fact that he was guided by the Holy Ghost demonstrated his holiness and divine inspiration. In a time of spiritual dearth and deadness, Simeon and Anna exemplified true piety. Through Simeon, God provided a divine intimation for the confirmation of all the godly, reinforcing the hope of salvation.",
+            "wordCount": 110,
+            "quoteTokenProportion": 24.24,
+            "qualityScore": 1.9935919318730568,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.63,
+            "commentatorTierSimilarities": [
+                27.94,
+                33.49,
+                38.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Simeon, a just and devout man, was eagerly waiting for the consolation of Israel, the Messianic hope and blessing of the nation. His moral uprightness and careful observance of divine law exemplified his piety. Simeon's longing for the Lord's appearance showcased his high character and faith. Guided by the Holy Ghost, he served as a prophet. In a time of spiritual dearth, Simeon and Anna represented true piety, reaffirming the hope of salvation for all the godly.",
+            "wordCount": 79,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 2.0320999804777733,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+            "commentatorTierSimilarities": [
+                29.59,
+                33.58,
+                36.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Simeon, a just and devout man, displayed a cautious and careful observance of divine law, emphasizing the element of circumspection. His moral character and religious frame of spirit demonstrated his piety in the midst of a time of spiritual dearth. Simeon eagerly awaited the consolation of Israel, the Messianic hope that would bring blessing to the nation. Being guided by the Holy Ghost, Simeon's wait for the Lord's appearance was a testament to his reverence and faith. In Simeon and Anna, true piety persevered amidst spiritual dearth, offering hope to all the godly.",
+            "wordCount": 95,
+            "quoteTokenProportion": 23.81,
+            "qualityScore": 2.0414432569479084,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                31.34,
+                33.79,
+                34.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Simeon's moral character and religious frame of spirit, characterized by cautious observance of divine law, exemplified his devoutness. He eagerly awaited the consolation of Israel, the Messianic hope that would bring blessing to the nation. Guided by the Holy Ghost, his patient anticipation was a testament to his faith. In a time of spiritual dearth and deadness, Simeon and Anna exemplified true piety, offering hope to all believers.",
+            "wordCount": 69,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.0756095837963078,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+            "commentatorTierSimilarities": [
+                32.17,
+                33.05,
+                34.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simeon, a just and devout man, emphasized the element of circumspection through his careful observance of divine law. His moral character, coupled with his religious frame of spirit, showcased his reverent and cautious approach to his faith. Simeon eagerly awaited the consolation of Israel, the Messianic hope that would serve as the nation's blessing. Guided by the Holy Ghost, Simeon's anticipation of the Lord's coming exemplified his faith and piety. In a time of spiritual dearth, Simeon and Anna acted as representatives of true piety, offering hope to all believers.",
+            "wordCount": 93,
+            "quoteTokenProportion": 23.81,
+            "qualityScore": 2.0422950723969295,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+            "commentatorTierSimilarities": [
+                32.84,
+                33.37,
+                33.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

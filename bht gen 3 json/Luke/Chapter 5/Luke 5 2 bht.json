@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:15:13",
+    "verseRef": "Luke 5:2",
+    "bestBHT": {
+        "bht": "The fishermen, referred to as sea-folk, finished their work by washing their nets, symbolizing the end of their labor. Luke emphasizes the importance of washing and cleansing by using different medical terms. The ships on the small lake were fishing boats without decks, posing the risk of sinking from a large catch. The use of different verbs for washing, including cleaning, wiping, and washing away sins, highlights the significance of these actions. In this context, the subsequent miracle becomes even more remarkable.",
+        "wordCount": 83,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.432224143668386,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+        "commentatorTierSimilarities": [
+            36.06,
+            29.82,
+            34.12
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] were washing their nets\u2014indicating that their labour for that time was finished: see ver. 5."
+        ],
+        "Albert Barnes": [
+            "The ships used on so small a lake were probably no more than fishing-boats without decks...\" ",
+            "Josephus says there were 230 of them on the lake, attended by four or five men each.",
+            "A single large draught of fishes endangered them and came near sinking them."
+        ],
+        "Marvin Vincent": [
+            "Ships [\u03c0\u03bb\u03bf\u03b9\u03b1] . Used of vessels in general. Some texts read ploiapia, a diminutive form, meaning little boats.\" ",
+            "Luke uses four different words for washing or cleansing.\" ",
+            "All the words were common in medical language."
+        ],
+        "Philip Schaff": [
+            "Luke 5:2. By the lake. Either by the shore of the lake, or possibly drawn up on the shore.",
+            "\t",
+            " Washing their nets. After the night of toil (Luke 5:5)."
+        ],
+        "Archibald T. Robertson": [
+            "The fishermen (\u03bf \u03b1\u03bb\u03b5\u03b5\u03b9\u03c2). It is an old Homeric word that has come back to common use in the Koine. It means 'sea-folk' from \u03b1\u03bb\u03c2, sea.",
+            "Vincent comments on Luke's use of five verbs for washing: this one for cleaning, \u03b1\u03c0\u03bf\u03bc\u03b1\u03c3\u03c3\u03c9 for wiping the dust from one's feet (Luke 10:11), \u03b5\u03ba\u03bc\u03b1\u03c3\u03c3\u03c9 of the sinful woman wiping Christ's feet with her hair (Luke 7:38; Luke 7:44), \u03b1\u03c0\u03bf\u03bb\u03bf\u03c5\u03c9 of washing away sins (symbolically, of course) as in Acts 22:16, and \u03bb\u03bf\u03c5\u03c9 of washing the body of Dorcas (Acts 9:37) and the stripes of the prisoners (Acts 16:33).",
+            "On 'nets' see on Matthew 4:20; Mark 1:18."
+        ],
+        "John Gill": [
+            "Or two fishing boats; which were, as the Arabic version renders it, 'detained by anchors at the shore of the lake'...\" ",
+            "...they having gathered a great deal of soil and filthiness, but had caught no fish...",
+            "...and which considered, makes the following miracle the more illustrious."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fishermen were washing their nets, a sign that their labor for the time was finished. Luke uses four different words for washing or cleansing, all of which were commonly used in medical language. The fishermen, referred to as sea-folk, were preparing their boats by cleaning their nets. Luke's use of various verbs for washing, including cleaning, wiping, and washing away sins, emphasizes the importance of this act. The ships used on the small lake were likely fishing boats without decks, and the fishermen faced the constant danger of sinking from a large haul of fish. This context makes the subsequent miracle all the more extraordinary.",
+            "wordCount": 108,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 1.5586985819455306,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.17,
+            "commentatorTierSimilarities": [
+                39.0,
+                30.2,
+                30.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fishermen, known as sea-folk, were finishing their work by washing their nets. Luke uses different words for cleaning, emphasizing its significance. The ships on the small lake were likely fishing boats without decks, and the fishermen faced the danger of sinking from a large catch. The use of various words for washing underscores the importance of this act. This context makes the subsequent miracle all the more remarkable.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.4272679396775196,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.8,
+            "commentatorTierSimilarities": [
+                34.63,
+                31.17,
+                34.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fishermen, referred to as sea-folk, were preparing their boats by cleaning their nets, signifying the completion of their labor. Luke's use of different words for washing or cleansing, common in medical language, highlights its significance. The ships used on the small lake were likely fishing boats without decks, and the fishermen faced the constant danger of sinking from a large haul of fish. The use of various verbs for washing, including cleaning, wiping, and washing away sins, underscores the importance of these actions. The subsequent miracle becomes even more remarkable considering this context.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.408154642124742,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.16,
+            "commentatorTierSimilarities": [
+                37.06,
+                28.14,
+                34.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fishermen, known as sea-folk, were finishing their work by washing their nets, signifying the completion of their labor. Luke's use of different words for washing or cleansing, common in medical language, emphasizes its significance. The ships used on the small lake were likely fishing boats without decks, and the fishermen faced the constant danger of sinking from a large haul of fish. The use of various verbs for washing, including cleaning, wiping, and washing away sins, underscores the importance of these actions. The subsequent miracle becomes even more remarkable in light of this context.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 1.4247768367033617,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
+            "commentatorTierSimilarities": [
+                38.56,
+                28.31,
+                33.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fishermen, referred to as sea-folk, finished their work by washing their nets, symbolizing the end of their labor. Luke emphasizes the importance of washing and cleansing by using different medical terms. The ships on the small lake were fishing boats without decks, posing the risk of sinking from a large catch. The use of different verbs for washing, including cleaning, wiping, and washing away sins, highlights the significance of these actions. In this context, the subsequent miracle becomes even more remarkable.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.432224143668386,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+            "commentatorTierSimilarities": [
+                36.06,
+                29.82,
+                34.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

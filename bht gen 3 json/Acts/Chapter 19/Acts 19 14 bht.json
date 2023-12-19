@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:33:31",
+    "verseRef": "Acts 19:14",
+    "bestBHT": {
+        "bht": "The word chief should be understood broadly in relation to Sceva, who may have been a high priest highly connected in Jerusalem. Sceva's involvement in the occult arts reveals the decline of Judaism in a city known for superstition. It is clear that Sceva held some kind of rank, possibly a local one in the synagogue of Ephesus.",
+        "wordCount": 59,
+        "quoteTokenProportion": 36.96,
+        "qualityScore": 1.8827803754975925,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+        "commentatorTierSimilarities": [
+            23.2,
+            44.87,
+            31.94
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word must be used in a wide sense.\" ",
+            "He may have been chief of the priests resident at Ephesus.",
+            "Or perhaps chief of one of the twenty-four courses."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14-17. seven sons of . . . Sceva . .",
+            "\t. chief of the priests\u2014head, possibly, of one of the",
+            "\ttwenty-four courts."
+        ],
+        "Albert Barnes": [
+            "Sceva is a Greek name, but nothing more is known of him.",
+            "It denotes that he was of the sacerdotal order.",
+            "The word 'chief priest,' in the New Testament, usually refers to men of the sacerdotal order who were also rulers in the Sanhedrin."
+        ],
+        "Marvin Vincent": [
+            "Did [\u03c0\u03bf\u03b9\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2] . The participle denotes a practice."
+        ],
+        "Philip Schaff": [
+            "It is more probable that the rank he held was purely a local one in the synagogue of Ephesus, a city where we should not be surprised to find, even among her most distinguished citizens, dabblers in these occult arts.",
+            "Many suppositions have been hazarded respecting this title of Sceva the Jew, 'chief of the priests.' Some imagine he must have been head of one of the twenty-four courses into which the priests of the Temple were divided.",
+            "Others have suggested that he was once the high priest at Jerusalem, and had been deposed, as we know was not unfrequently the case, by the Roman imperial government."
+        ],
+        "Archibald T. Robertson": [
+            "If a high priest, he was highly connected in Jerusalem.",
+            "His name may be Latin in origin.",
+            "But that he had seven sons in this degraded business shows how Judaism had fared poorly in this superstitious city."
+        ],
+        "John Gill": [
+            "And there were seven sons of one Sceva a Jew.... Who strolled about the country, and used exorcisms.\" ",
+            "No such name appears in the catalogue of the Jewish high priests, nor is it reasonable to think, that seven sons of an high priest should follow such a vagabond course of life.",
+            "Which did so; adjured the devils in the name of Jesus, to come out; at least they did so in one case, as follows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word chief in Acts 19:14 must be used in a wide sense. The chief of the priests could have been the head of one of the twenty-four courses, although some suggest he may have been a high priest highly connected in Jerusalem. It is clear that Sceva held some kind of rank, possibly a local one in the synagogue of Ephesus. However, it is also worth noting that his involvement in the occult arts indicates how poorly Judaism had fared in this superstitious city.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.8657929729661091,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                26.46,
+                45.23,
+                28.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word chief in this passage must be used in a wide sense. Sceva, possibly the head of one of the twenty-four courses, may have been a high priest highly connected in Jerusalem. However, his involvement in the occult arts indicates how poorly Judaism had fared in this superstitious city. It is clear that Sceva held some kind of rank, possibly a local one in the synagogue of Ephesus.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8361625322288064,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.39,
+            "commentatorTierSimilarities": [
+                28.4,
+                42.23,
+                29.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word chief should be understood broadly in relation to Sceva, who may have been a high priest highly connected in Jerusalem and head of one of the twenty-four courses. Sceva's involvement in occult arts reveals the decline of Judaism in a city known for superstition. His apparent rank in the synagogue of Ephesus suggests a local leadership role.",
+            "wordCount": 61,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.8331644313299111,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                24.67,
+                46.17,
+                29.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The word chief should be understood broadly in relation to Sceva, who may have been a high priest highly connected in Jerusalem. Sceva's involvement in the occult arts reveals the decline of Judaism in a city known for superstition. It is clear that Sceva held some kind of rank, possibly a local one in the synagogue of Ephesus.",
+            "wordCount": 59,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 1.8827803754975925,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+            "commentatorTierSimilarities": [
+                23.2,
+                44.87,
+                31.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The word chief in Acts 19:14 must be used in a wide sense. The chief of the priests could have been the head of one of the twenty-four courses, although some suggest he may have been a high priest highly connected in Jerusalem. However, his involvement in the occult arts indicates how poorly Judaism had fared in this superstitious city. It is clear that Sceva held some kind of rank, possibly a local one in the synagogue of Ephesus.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.8757513545442799,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.71,
+            "commentatorTierSimilarities": [
+                26.92,
+                44.22,
+                28.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

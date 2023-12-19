@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:15:15",
+    "verseRef": "Luke 4:17",
+    "bestBHT": {
+        "bht": "When Jesus was handed the scroll of Isaiah, it was as if by chance that He unrolled it and found the words, in which Isaiah predicts the redemption that would be proclaimed in the name and authority of Christ alone. As Jesus read from the scroll, it became clear that He cared deeply for the prophets, relying on their words to guide His mission, and demonstrating His divine purpose to gather and restore the people through spiritual power.",
+        "wordCount": 78,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 2.0290357620074166,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+        "commentatorTierSimilarities": [
+            30.54,
+            31.35,
+            38.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The roll containing that book (probably, that alone) was given to the Lord.",
+            "But it does not appear that He read any part of the lesson for the day; but when He had unrolled the scroll, found (the fortuitous, i.e. providential, finding is the most likely interpretation, not the searching, for and finding) the passage which follows.",
+            "The Hebrew words thus rend\u00e9red by the LXX, signify, \u2018to those who are bound, the opening of prison:\u2019 so that we have here the LXX and literal rendering both included, and the latter expressed in the LXX words of Isa. lviii. 6."
+        ],
+        "Albert Barnes": [
+            "They were kept in an 'ark' or chest, not far from the pulpit, and the minister gave them to whomsoever he chose, to read them publicly.",
+            "The volume contained the prophecy of Isaiah. It would seem, from this, that the books were kept separate, and not united into one as with us.",
+            "When he had opened the book - Literally, when he had 'unrolled' the book."
+        ],
+        "Marvin Vincent": [
+            "The book [\u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03bd] . A diminutive of biblov, the inner bark of the papyrus, used for writing. Hence, a roll.",
+            "As if by chance: reading at the place where the roll opened of itself, and trusting to divine guidance.",
+            "Was written [\u03b7\u03bd \u03b3\u03b5\u03b3\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03bf\u03bd] . Lit., was having been written; i e., stood written."
+        ],
+        "John Calvin": [
+            "Isaiah there predicts that, after the Babylonish captivity, there will still be witnesses of the grace of God, who shall gather the people from destruction, and from the darkness of death, and restore, by a spiritual power, the Church, which has been overwhelmed by so many calamities.",
+            "But as that redemption was to be proclaimed in the name and authority of Christ alone, he uses the singular number, and speaks in the name of Christ, that he may more powerfully awaken the minds of the godly to strong confidence.",
+            "It is certain, that what is here related belongs properly to Christ alone, for two reasons: first, because he alone was endued with the fullness of the Spirit, (John 3:34,) to be the witness and ambassador of our reconciliation to God... secondly, because he alone, by the power of his Spirit, performs and grants all the benefits that are here promised."
+        ],
+        "Philip Schaff": [
+            "A roll of the prophet Isaiah",
+            "The reading of the Law had already taken place, and that from the Prophets was to begin",
+            "His eye fell, accidentally some would say, providentially we say, upon this passage"
+        ],
+        "Archibald T. Robertson": [
+            "Jesus cared more for the prophets than for the ceremonial law.",
+            "Jesus used Deuteronomy in his temptations and now Isaiah for this sermon.",
+            "At any rate it was a marvellously appropriate passage."
+        ],
+        "John Gill": [
+            "The same method was observed, when a king read in the book of the law; but when a common priest, or an inferior person read, so much ceremony was not used, as to hand the book from one to another.",
+            "It may therefore be asked, whether Christ did not break this rule, since he unrolled the book that was given him, publicly in the synagogue? To which it may be replied, that it was lawful to unroll the book of the prophets, which was what Christ did, but not the law.",
+            "Before the reading of the prophets, a blessing used to be said, which was in this form: 'Blessed art thou, O Lord our God, the king of the world, Who hath chosen the good prophets, and art well pleased with their words, which are said in truth; blessed art thou, O Lord, who hast chosen the law, Moses his servant, and Israel his people, and the prophets of truth and righteousness.'"
+        ],
+        "John Wesley": [
+            "He found \u2014 It seems, opening upon it, by the particular providence of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus entered the synagogue, the scroll of Isaiah was given to Him, and as He unrolled it, His eyes fell upon a prophetic passage that spoke of freedom for the oppressed and the opening of prison doors. With divine guidance, Jesus chose this passage to proclaim His mission, revealing His deep reverence for the words of the prophets and His conviction to fulfill them. In that moment, the fortuitous yet providential finding of this passage emphasized the marvellous appropriateness and significance of His proclamation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.9054809948167324,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                32.98,
+                34.03,
+                32.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus was handed the scroll of Isaiah, it was as if by chance that He unrolled it and found the words, in which Isaiah predicts the redemption that would be proclaimed in the name and authority of Christ alone. As Jesus read from the scroll, it became clear that He cared deeply for the prophets, relying on their words to guide His mission, and demonstrating His divine purpose to gather and restore the people through spiritual power.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.0290357620074166,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+            "commentatorTierSimilarities": [
+                30.54,
+                31.35,
+                38.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus stood in the synagogue, He was given the roll containing the book of Isaiah. It seemed as if by chance, yet guided by divine providence, Jesus unrolled the scroll and found the words that proclaimed freedom for those bound and imprisoned. This marvellously appropriate passage showcased Jesus' reverence for the words of the prophets and His commitment to fulfill their prophecies. It revealed His purpose to gather and restore His people, demonstrating His authority and the power of His Spirit in granting the promised benefits.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8385657563239275,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.47,
+            "commentatorTierSimilarities": [
+                32.88,
+                30.85,
+                36.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus held the roll containing the book, He unrolled it and found the providentially positioned words of Isaiah, proclaiming freedom for the bound and imprisoned. This marvellously appropriate selection demonstrated Jesus' deep reverence for the prophets and His commitment to fulfill their prophecies. With divine guidance, Jesus chose this particular passage to declare His mission, revealing His unique authority and the power of the Spirit to bring about the promised restoration and redemption.",
+            "wordCount": 74,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.8349125334137906,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+            "commentatorTierSimilarities": [
+                31.95,
+                31.97,
+                36.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus was given the roll containing the book, He unrolled it and found, by divine guidance, the words of Isaiah that spoke of freedom for the bound and imprisoned. This marvellously appropriate finding highlighted Jesus' deep respect for the prophets and His determination to fulfill their prophecies. In selecting this particular content, Jesus revealed His unique authority and the power of the Spirit to bring about the promised restoration and redemption.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.8538582914115505,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.98,
+            "commentatorTierSimilarities": [
+                32.53,
+                30.7,
+                36.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

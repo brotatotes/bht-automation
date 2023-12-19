@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:12:38",
+    "verseRef": "Galatians 1:23",
+    "bestBHT": {
+        "bht": "The members of the churches heard of the remarkable conversion of our former persecutor, who was once destroying the faith we hold dear. They received constant reports that he was now preaching the very faith he used to persecute. This news could not be concealed, and although they had not seen him in person, they were hearing about his transformation. The faith being spoken of here is the gospel, the Christian religion. Now, this faith, which he once destroyed, is being openly and publicly preached, causing the members of the churches to glorify God for His mighty work.",
+        "wordCount": 98,
+        "quoteTokenProportion": 48.48,
+        "qualityScore": 1.77219174074597,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+        "commentatorTierSimilarities": [
+            29.09,
+            32.64,
+            38.28
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They (the members of the churches) heard reports... That our former persecutor is now preaching the faith which he once was destroying.\" ",
+            "And they glorified God in me.\" ",
+            "My example was the cause of their glorifying God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They were hearing\": tidings were brought them from time to time.",
+            "our former persecutor\" [ALFORD].",
+            "was destroying."
+        ],
+        "Albert Barnes": [
+            "They had not seen me; but the remarkable fact of my conversion had been reported to them.",
+            "It was a fact that could hardly be concealed.",
+            "The remarkable fact of my conversion had been reported to them."
+        ],
+        "Marvin Vincent": [
+            "They were hearing all the time that I was thus unknown to them in person.",
+            "The subjective conception of faith as trustful and assured acceptance of Jesus Christ as Savior, tends to become objective.",
+            "This is very striking in the Pastoral Epistles."
+        ],
+        "John Calvin": [
+            "This does not mean that faith may actually be destroyed, but that he lessened its influence on the minds of weak men.",
+            "Besides, it is the will, rather than the deed, that is here expressed.",
+            "The word \u03c0\u1f77\u03c3\u03c4\u03b9\u03c2 denotes not only the act of believing, but that which is believed."
+        ],
+        "Philip Schaff": [
+            "They were hearing (kept hearing) expresses the idea of duration better than \u2018heard.\u2019",
+            "The faith is used here in the passive or objective sense=the gospel, the Christian religion.",
+            "In most cases, especially in the Gospels, the Greek word has the active or subjective meaning, 'trust,' 'confidence' in God or Christ, and is one of the cardinal Christian virtues."
+        ],
+        "Archibald T. Robertson": [
+            "They were only hearing from time to time.",
+            "The one who used to persecute us once upon a time.",
+            "Here used in the sense of 'the gospel' as in Acts 6:7."
+        ],
+        "John Gill": [
+            "But now preacheth the faith which once he destroyed.",
+            "The Gospel is called the word of faith, the mystery of faith, the faith of the Gospel.",
+            "Now this faith, in the several momentous branches of it, the apostle preached, published, declared, spoke out openly and publicly; fully and completely."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Reports were brought to the churches about the remarkable transformation of our former persecutor, who was once destroying the faith that we hold dear. These tidings kept coming, and the news of his conversion could hardly be concealed. They had not seen him, but they heard that he was now preaching the very faith he used to persecute. The faith being spoken of here is the gospel, the Christian religion. This faith, which once he destroyed, is now being preached openly and publicly, causing the members of the churches to glorify God for the amazing work He had done in the life of this man.",
+            "wordCount": 105,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.7684025914895343,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                28.05,
+                33.65,
+                38.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The members of the churches heard of the remarkable conversion of our former persecutor, who was once destroying the faith we hold dear. They received constant reports that he was now preaching the very faith he used to persecute. This news could not be concealed, and although they had not seen him in person, they were hearing about his transformation. The faith being spoken of here is the gospel, the Christian religion. Now, this faith, which he once destroyed, is being openly and publicly preached, causing the members of the churches to glorify God for His mighty work.",
+            "wordCount": 98,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.77219174074597,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                29.09,
+                32.64,
+                38.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The churches heard reports about the incredible conversion of our former persecutor, who was once actively destroying the faith we held dear. This news could not be concealed, and although they had not personally seen him, they continually heard about his transformation. The faith mentioned here refers to the gospel, the Christian religion. Now, the very same faith that was once destroyed is being openly and publicly preached, causing the members of the churches to glorify God for this awe-inspiring work.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.7215594350808692,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+            "commentatorTierSimilarities": [
+                27.88,
+                32.89,
+                39.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The members of the churches were constantly hearing reports about the astounding change in our former persecutor, who once actively sought to destroy the faith that we held dear. Although they had not seen him in person, they were informed about his conversion. The term faith in this context refers to the gospel, the Christian religion. Now, this very faith that he once sought to destroy is being openly and publicly preached, prompting the members of the churches to give glory to God for this remarkable transformation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.6925677162329062,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                27.62,
+                34.46,
+                37.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The churches kept hearing reports of the remarkable conversion of our former persecutor, who was once set on destroying the faith we hold dear. Although they hadn't seen him, the news of his transformation couldn't be concealed. The faith mentioned here refers to the gospel, the Christian religion he now preaches openly and publicly. This has led the members of the churches to glorify God in recognition of the incredible work He has done in his life.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.654585629173326,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.36,
+            "commentatorTierSimilarities": [
+                27.93,
+                34.85,
+                37.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

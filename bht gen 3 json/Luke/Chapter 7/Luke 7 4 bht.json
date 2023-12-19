@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:16:07",
+    "verseRef": "Luke 7:4",
+    "bestBHT": {
+        "bht": "The people urgently pleaded with him, emphasizing that the centurion was worthy of his help. They recognized the centurion's generosity towards the Jews and believed he deserved this favor. Their request was not idle, but rather filled with eagerness and zeal. They beseeched him persistently, knowing that time was short. Their pleas were truly on the centurion's behalf, as they fervently implored him to assist. Their words reflected their belief in the centurion's worthiness, even though the centurion himself had a humble view of his own merit.",
+        "wordCount": 90,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.5679381461449213,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.48,
+        "commentatorTierSimilarities": [
+            17.81,
+            40.49,
+            41.7
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "4. he was worthy\u2014a testimony",
+            "\tmost precious, coming from those who probably were strangers to the",
+            "\tprinciple from which he acted ( :-)."
+        ],
+        "Albert Barnes": [
+            "They besought him instantly - Urgently or earnestly.",
+            "He was worthy - The centurion. He had showed favor to the Jews, and it was not improper to show him a kindness."
+        ],
+        "Marvin Vincent": [
+            "Instantly, which commonly means at once, is used in its older meaning, pressingly, from the Latin instare, to urge or press upon.",
+            "That he was worthy. The Rev., more correctly, takes it as a mark of quotation, besides properly rendering ejstin is, instead of was.",
+            "Render as Rev., He is worthy that thou shouldst do this; for the best texts read parexh, the second person, thou shouldst do, instead of the third person, parexei, he shall do."
+        ],
+        "Philip Schaff": [
+            "He is worthy.\" ",
+            "The intercession of the elders is true to nature.",
+            "A rich man, a man of authority and position, a man of their party, though not \u2018to the manner born,\u2019 would enlist their good offices."
+        ],
+        "Archibald T. Robertson": [
+            "Began and kept on beseeching.",
+            "Eagerly, earnestly, zealously, for time was short.",
+            "Furnish on thy part."
+        ],
+        "John Gill": [
+            "Very studiously and carefully they urged the case, and pressed him much to it.",
+            "This speech of theirs savours of their 'pharisaic' tenet and notion of merit.",
+            "This... is very different from the sense the poor centurion had of himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people urgently pleaded with him, emphasizing that the centurion was worthy of his help. They recognized the centurion's generosity towards the Jews and believed he deserved this favor. Their request was not idle, but rather filled with eagerness and zeal. They beseeched him persistently, knowing that time was short. Their pleas were truly on the centurion's behalf, as they fervently implored him to assist. Their words reflected their belief in the centurion's worthiness, even though the centurion himself had a humble view of his own merit.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.5679381461449213,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.48,
+            "commentatorTierSimilarities": [
+                17.81,
+                40.49,
+                41.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people urgently pleaded for the centurion, emphasizing his worthiness, as he had shown favor to the Jews. They beseeched him persistently, with eagerness and zeal, aware that time was short. Their pleas truly reflected their belief in the centurion's merit, even though the centurion himself had a humble view of his own worth. The elders' intercession on his behalf was a testimony of the centurion's character, coming from those who may not have been familiar with his principles.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.53288317349998,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.31,
+            "commentatorTierSimilarities": [
+                17.67,
+                40.73,
+                41.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people urgently besought help for the centurion, emphasizing his worthiness, as he had shown favor to the Jews. Their pleas were persistent, reflecting their belief in his merit. They fervently implored him, aware that time was short. The elders' intercession on his behalf testified to the centurion's character as perceived by those who may not have been familiar with his principles. Though the centurion had a humble view of his own worth, the people recognized his generosity and deserving nature.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.4889138465674736,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.85,
+            "commentatorTierSimilarities": [
+                17.57,
+                41.52,
+                40.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people urgently pleaded on behalf of the centurion, stressing his worthiness due to his kindness towards the Jews. They earnestly sought help, well aware of the limited time they had. Their persistent beseeching reflected their belief in the centurion's merit, even though he himself had a humble view of his worth. Their intercession on his behalf served as a testimony of his character, coming from those who may not have been familiar with his principles.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.410091628013252,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.23,
+            "commentatorTierSimilarities": [
+                15.71,
+                42.09,
+                42.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people urgently pleaded for the centurion, emphasizing his worthiness and the precious testimony of his actions towards the Jews. They beseeched him earnestly, eagerly, and zealously, recognizing the limited time they had. Their pleas were a true reflection of their belief in the centurion's merit, despite his humble view of himself. The intercession of the elders served as a testimony to the centurion's character, even to those who may not have been familiar with his principles.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5270725618307626,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.12,
+            "commentatorTierSimilarities": [
+                17.56,
+                40.32,
+                42.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

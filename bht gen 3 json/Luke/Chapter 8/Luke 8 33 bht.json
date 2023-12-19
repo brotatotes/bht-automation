@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:16:41",
+    "verseRef": "Luke 8:33",
+    "bestBHT": {
+        "bht": "The man, no longer possessed, rushed down a steep slope, accompanied by the reluctant departure of the demons. They proceeded to inhabit a sizable herd of swine, numbering around two thousand, which subsequently ran violently down into the lake, where they met their demise by being choked. This dramatic account showcases the overwhelming authority of Christ, compelling the demons to abandon the man against their will and further demonstrating his dominion over the spiritual realm.",
+        "wordCount": 75,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.3943583318703208,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.71,
+        "commentatorTierSimilarities": [
+            40.59,
+            0.0,
+            59.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Ran violently [\u03c9\u03c1\u03bc\u03b7\u03c3\u03b5\u03bd] . Rev., more neatly, rushed. Only Mark gives the number of the swine, two thousand. ",
+            "A steep place. See on Matthew 9:32."
+        ],
+        "Archibald T. Robertson": [
+            "Rushed down the steep (\u03c9\u03c1\u03bc\u03b7\u03c3\u03b5\u03bd \u03ba\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03ba\u03c1\u03b7\u03bc\u03bd\u03bf\u03c5). Ablative with \u03ba\u03b1\u03c4\u03b1 as in Mark 5:13; Matthew 8:32 and the same vivid verb in each account, to hurl impetuously, to rush.",
+            "Were choked (\u03b1\u03c0\u03b5\u03c0\u03bd\u03b9\u03b3\u03b7). Second aorist (constative) passive indicative third singular (collective singular) where Mark 5:13 has the picturesque imperfect \u03b5\u03c0\u03bd\u03b9\u03b3\u03bf\u03bd\u03c4\u03bf."
+        ],
+        "John Gill": [
+            "Being obliged by the power of Christ, sore against their wills, having had possession of him a long time.",
+            "Entered into the swine; possessed them.",
+            "The herd ran violently down a steep place into the lake; that is of Gennesaret; or the sea...and were choked."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man who had been possessed by demons rushed violently down a steep slope, and these demons entered into a herd of swine, causing them to run violently down and into the lake, where they were choked. Though the number of swine was not mentioned in other accounts, Mark specifies that there were two thousand of them. This vivid scene demonstrates the power of Christ forcing the demons to leave the possessed man and enter into the swine, despite their reluctance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.3659796171812295,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.76,
+            "commentatorTierSimilarities": [
+                39.28,
+                0.0,
+                60.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The possessed man ran violently down a steep slope, as the demons were forced to leave him and enter a herd of two thousand swine. They rushed into the lake, where the swine were choked. This powerful and vivid scene showcases the sheer strength of Christ, compelling the demons to reluctantly abandon their hold on the man and unwillingly possess the swine. It highlights the magnitude of the deliverance and the control Jesus had over the spiritual realm.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.2893286498962604,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.21,
+            "commentatorTierSimilarities": [
+                36.06,
+                0.0,
+                63.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The possessed man rushed violently down a steep slope, his actions driven by the demons who were compelled to leave him. Two thousand swine became the vessels for these reluctant demons as they entered and caused the swine to run down into the lake, where they were choked. This event serves as a demonstration of the power and authority of Christ, who forcefully expelled the demons against their will and showcased His dominion over the spiritual realm.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.2786713948822415,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.86,
+            "commentatorTierSimilarities": [
+                32.58,
+                0.0,
+                67.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man who had been possessed ran violently down a steep slope, as the demons were forced to leave him and enter a herd of two thousand swine. They rushed into the lake and were choked. This powerful scene highlights the strength of Christ, who compelled the demons to relinquish their hold on the man and take possession of the swine. It illustrates Jesus' authority over the spiritual realm and his ability to deliver individuals from the grip of evil forces.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.1767017113307705,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.47,
+            "commentatorTierSimilarities": [
+                33.94,
+                0.0,
+                66.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man, no longer possessed, rushed down a steep slope, accompanied by the reluctant departure of the demons. They proceeded to inhabit a sizable herd of swine, numbering around two thousand, which subsequently ran violently down into the lake, where they met their demise by being choked. This dramatic account showcases the overwhelming authority of Christ, compelling the demons to abandon the man against their will and further demonstrating his dominion over the spiritual realm.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.3943583318703208,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.71,
+            "commentatorTierSimilarities": [
+                40.59,
+                0.0,
+                59.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

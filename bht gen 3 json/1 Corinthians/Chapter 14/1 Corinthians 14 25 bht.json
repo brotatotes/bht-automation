@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:13:13",
+    "verseRef": "1 Corinthians 14:25",
+    "bestBHT": {
+        "bht": "The truth of religion is most evident when it reveals one's true character, causing listeners to feel personally addressed by the preacher. This self-revelation leads to genuine worship, as individuals recognize the presence of God within them. They openly confess that God is truly among His people, astonished by the insight of the preached word. The transformative power of Divine truth brings hidden aspects of one's character to light, leaving hearers in awe of God's presence and majesty.",
+        "wordCount": 82,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.8556752551188391,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.04,
+        "commentatorTierSimilarities": [
+            34.42,
+            32.38,
+            33.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "No argument is stronger for the truth of religion than its manifestation of men to themselves in their true character.",
+            "Hence hearers even now often think the preacher must have aimed his sermon particularly at them.",
+            "He will worship God, announcing... that God is in you of a truth."
+        ],
+        "Albert Barnes": [
+            "He shall be led to see the 'real' designs and motives of his heart.",
+            "The convicted sinner often supposes that the preacher particularly intends 'him,' and wonders that he has such an acquaintance with his feelings and his life.",
+            "An enemy will be turned to a friend. Doubtless this was often done. It is now often done."
+        ],
+        "John Calvin": [
+            "Falling down on his face, he will worship... To that, prophecy brings us.\" ",
+            "It is its proper effect and nature to bring down men from their loftiness, that they may, with prostrate homage, render worship to God.\" ",
+            "It is therefore a singular commendation, that it extorts from unbelievers this confession \u2014 that God is present with his people, and that his majesty shines forth in the midst of their assembly."
+        ],
+        "Philip Schaff": [
+            "the secrets of his heart are made manifest; and so he will fall down on his face and worship God, declaring that God is among you indeed probably by an open confession, giving vent to the irresistible conviction that had seized him.",
+            "Such self-revealing effects of Divine truth upon an audience are still to be seen, and hearers of the word are ready to charge the preacher with laying bare certain bad features of their own private character which could only be known to them by some tell-tale.",
+            "hearers of the word are ready to charge the preacher with laying bare certain bad features of their own private character"
+        ],
+        "Archibald T. Robertson": [
+            "That God is among you indeed.\" ",
+            "Really God is in you.\" ",
+            "God is in you."
+        ],
+        "John Gill": [
+            "The word preached being in the hands, and under the influence, direction, and application of the Spirit of God, a discerner of the thoughts and intents of the heart.",
+            "Being truly humbled before God under a sense of his iniquities, he will worship God; pray unto him, and earnestly entreat he would be merciful to him a sinner.",
+            "That the Spirit of God, who is truly God, and searches the deep things of God, and reveals them, and the deep things of men, and makes them manifest, is in the prophets and preachers."
+        ],
+        "John Wesley": [
+            "The secrets of his heart are made manifest \u2014 Laid open, clearly described; in a manner which to him is most astonishing and utterly unaccountable.",
+            "How many instances of it are seen at this day!",
+            "So does God still point his word."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the truth of religion manifests itself, it has the power to reveal the depths of a person's character. This is why, even today, many listeners feel as though the preacher's message was specifically targeted at them. As the convicted sinner recognizes the penetrating insight of the word, they may come to a profound realization of their own motives and desires. Overwhelmed by this self-revelation, they fall down and worship God, openly confessing that He is truly among His people. The impact of Divine truth on an audience can be transformative, exposing hidden aspects of their private character that they never expected anyone to know. This confession of God's presence and majesty extorted from unbelievers testifies to the power of the preached word.",
+            "wordCount": 127,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6365750231320673,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.76,
+            "commentatorTierSimilarities": [
+                28.28,
+                38.62,
+                33.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The truth of religion is often most compelling when it reveals one's true character, leading individuals to feel personally addressed by the preacher. They recognize the presence of God within them and are humbled, prostrating themselves in worship. This self-revelation is striking and inexplicable, causing them to openly acknowledge their hidden flaws. Such transformative encounters with Divine truth still occur, prompting hearers to accuse the preacher of exposing private aspects of their character. This confession bears witness to God's presence and greatness among His people.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6373274927774315,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.78,
+            "commentatorTierSimilarities": [
+                30.48,
+                35.98,
+                33.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The power of religion lies in its ability to bring forth true character, causing hearers to wonder if the preacher's message was meant specifically for them. Recognizing the presence of God within, they fall down and worship, declaring His truth among them. This genuine encounter with Divine truth often unveils the hidden depths of one's heart, leading the individual to openly confess their shortcomings. The transformative impact of the preached word continues to provoke self-reflection, leaving hearers in awe of God's presence and majesty.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.7723466390367193,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                30.11,
+                36.16,
+                33.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the truth of religion is revealed, it exposes the true character of individuals, leading them to believe the sermon was specifically meant for them. As they recognize the presence of God within themselves, they fall down in worship and confess that He is truly among His people. This profound self-revelation caused by Divine truth often surprises listeners, exposing their hidden flaws and prompting them to accuse the preacher of exposing their private character. It is a powerful testament to the impact of the word of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.7756491838584187,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                33.03,
+                33.98,
+                32.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The truth of religion is most evident when it reveals one's true character, causing listeners to feel personally addressed by the preacher. This self-revelation leads to genuine worship, as individuals recognize the presence of God within them. They openly confess that God is truly among His people, astonished by the insight of the preached word. The transformative power of Divine truth brings hidden aspects of one's character to light, leaving hearers in awe of God's presence and majesty.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8556752551188391,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.04,
+            "commentatorTierSimilarities": [
+                34.42,
+                32.38,
+                33.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

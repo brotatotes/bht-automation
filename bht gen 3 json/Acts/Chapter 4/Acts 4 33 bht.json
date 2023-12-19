@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:26:31",
+    "verseRef": "Acts 4:33",
+    "bestBHT": {
+        "bht": "The Apostles gave their testimony of the resurrection of Jesus with great power and the grace of God abundantly rested upon the whole community. The resurrection of Jesus was the foundation of their teaching, demonstrating his divine authority. Their preaching and work were under God's favor and protection, as their strong faith and victory over death were evident to all. They zealously spread the gospel, ministering to the temporal needs of others, finding favor among strangers, and empowered by the grace of the Holy Spirit.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.1720029798458,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.56,
+        "commentatorTierSimilarities": [
+            23.03,
+            43.29,
+            33.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostles were the specially appointed witnesses of the Resurrection, and this their testimony they gave with power.",
+            "That the Spirit did not inspire them with unbroken uniformity in matters of fact, our present Gospels, the remnants to us of this very testimony, sufficiently witness.",
+            "And it was in the manner of delivering this report that the great power of the Spirit was shown."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "33. with great power\u2014effect on",
+            "\tmen's minds. ",
+            "\t",
+            "great grace was upon them",
+            "\tall\u2014The grace of God copiously rested on the whole community."
+        ],
+        "Albert Barnes": [
+            "The apostles bore testimony to the resurrection of the Lord Jesus - This was the main point to be established. If it proved that the Lord Jesus came to life again after having been put to death, it established all that he taught, and was a demonstration that he was sent from God.",
+            "Thus, the same word grace (Greek) is used in Acts 2:47. If this is its meaning, then here is an instance of the power of the testimony of the resurrection of the Lord Jesus to impress the minds of people.",
+            "If we wish to incline others to our opinions, nothing is better adapted to it than to show them kindness, and even to minister to their temporal needs."
+        ],
+        "Marvin Vincent": [
+            "Gave [\u03b1\u03c0\u03b5\u03b4\u03b9\u03b4\u03bf\u03c5\u03bd] . Lit., gave back [\u03b1\u03c0\u03bf] ; as something which they were in duty bound to give."
+        ],
+        "John Calvin": [
+            "Luke doth signify that the zeal which the apostles had to preach the gospel was so far from being diminished, that they were rather endowed with new power.",
+            "He signifieth that this served not a little to the spreading abroad of doctrine, in that, by helping the poor so bountifully, they found favor at the hands of strangers.",
+            "He declareth afterward, after what sort they had their goods common, which he had touched before, to wit, that the rich men sold their lands and houses, that they might relieve the poverty of the poor."
+        ],
+        "Philip Schaff": [
+            "The resurrection of the Lord Jesus is again and again mentioned as the groundwork of the apostolic teaching; it was the column upon which their strong patient faith rested; they knew they had seen their Master after He had risen; they told it out to others that men might grasp the mighty issues which this victory of Jesus over death involved for every man and woman.",
+            "And great grace was upon them all... it is obvious that the 'grace of God' was upon the apostles and brethren: they were filled, we read, with the Holy Ghost.",
+            "There was scarcely any need for the writer of the 'Acts' specially to mention, further, how God\u2019s favour was resting upon them; but the fact of their standing high in popular estimation was an important one: it showed under whose protection and by whose favour their public preaching and work went on after the threats of the supreme council."
+        ],
+        "Archibald T. Robertson": [
+            "Gave their witness... They kept on giving their witness with power.",
+            "Of the resurrection... It was on this issue that the Sadducees had arrested them."
+        ],
+        "John Gill": [
+            "And with great power... gave the apostles witness of the resurrection of the Lord Jesus...\" ",
+            "And great grace was upon them all...",
+            "...the gracious protection of God over them, preserving them from the rage and malice of men..."
+        ],
+        "John Wesley": [
+            "And great grace \u2014 A large measure of the inward power of the Holy Ghost, was upon them all - Directing all their thoughts, words, and actions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostles gave their testimony of the resurrection of Jesus with power, as they were specially appointed witnesses. The grace of God abundantly rested upon the whole community, as they continued to give their witness with great power. The resurrection of Jesus was the foundation of their teaching and the demonstration of His divine authority. The apostolic preaching and work were under the favor and protection of God, as their strong patient faith and mighty victory over death were evident to all. The apostles' zeal to spread the gospel was not diminished, but rather endowed with new power, as they also ministered to the temporal needs of others, finding favor among strangers. The great grace and power of the Holy Spirit directed all their thoughts, words, and actions.",
+            "wordCount": 128,
+            "quoteTokenProportion": 31.08,
+            "qualityScore": 2.1730822177324214,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.6,
+            "commentatorTierSimilarities": [
+                24.96,
+                40.02,
+                35.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostles gave their testimony of the resurrection of Jesus with great power, as they were specially appointed witnesses. The grace of God abundantly rested upon the whole community, as they continued to give their witness. The resurrection of Jesus was the foundation of their teaching and the demonstration of His divine authority. The apostolic preaching and work were under the favor and protection of God, as their strong faith and victory over death were evident to all. The apostles' zeal to spread the gospel was not diminished but rather endowed with new power, as they ministered to the temporal needs of others.",
+            "wordCount": 103,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.178478698785373,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.78,
+            "commentatorTierSimilarities": [
+                26.13,
+                41.32,
+                32.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostles gave their witness of the resurrection of Jesus with great power, as specially appointed witnesses. The grace of God abundantly rested upon the whole community, as they continued to give their testimony. The resurrection of Jesus was the foundation of their teaching and demonstrated His divine authority. Their preaching and work were under the favor and protection of God, as their strong faith and victory over death were evident to all. They zealously spread the gospel, ministering to the temporal needs of others and finding favor among strangers.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.096226888856104,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.04,
+            "commentatorTierSimilarities": [
+                26.11,
+                40.83,
+                33.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostles, as specially appointed witnesses, gave their testimony of the resurrection of Jesus with great power. The grace of God rested upon the whole community, as they continued to give their witness. The resurrection of Jesus was the foundation of their teaching and demonstrated His divine authority. Their preaching and work were under the favor and protection of God, as their strong faith and victory over death were evident. They zealously spread the gospel, ministering to the temporal needs of others and finding favor among strangers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.098839932326463,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.13,
+            "commentatorTierSimilarities": [
+                26.84,
+                40.65,
+                32.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostles gave their testimony of the resurrection of Jesus with great power and the grace of God abundantly rested upon the whole community. The resurrection of Jesus was the foundation of their teaching, demonstrating his divine authority. Their preaching and work were under God's favor and protection, as their strong faith and victory over death were evident to all. They zealously spread the gospel, ministering to the temporal needs of others, finding favor among strangers, and empowered by the grace of the Holy Spirit.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1720029798458,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.56,
+            "commentatorTierSimilarities": [
+                23.03,
+                43.29,
+                33.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

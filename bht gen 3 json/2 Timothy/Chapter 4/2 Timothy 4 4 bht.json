@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 17:31:11",
+    "verseRef": "2 Timothy 4:4",
+    "bestBHT": {
+        "bht": "When people reject the truth, they often seek solace in fables and myths that align with their desires. This rejection is a form of righteous punishment, as their ears refuse to hear what contradicts their lusts. It is unfortunate that some willingly choose illusions over the truth, turning against those who speak the truth, just as the crowd did with Stephen in Acts 7:57. Their minds become empty, devoid of sense and judgment, surrendering to idle and fictional tales, much like old wives' fables.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.9585503150358972,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+        "commentatorTierSimilarities": [
+            35.59,
+            26.83,
+            37.57
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The ear brooks not what is opposed to the man's lusts.",
+            "It is a righteous retribution, that when men turn away from the truth, they should be turned to fables.",
+            "Fables."
+        ],
+        "Albert Barnes": [
+            "The people themselves will turn away from the truth.",
+            "It does not mean that the teachers would turn them away by the influence of their instructions.",
+            "And shall be turned unto fables."
+        ],
+        "Marvin Vincent": [
+            "Shall be turned unto fables [\u03b5\u03c0\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03bc\u03c5\u03b8\u03bf\u03c5\u03c2 \u03b5\u03ba\u03c4\u03c1\u03b1\u03c0\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9] . More correctly, will turn aside. The passive has a middle sense. For fables see on 1 Timothy 1:4."
+        ],
+        "Philip Schaff": [
+            "Unto fables.\" ",
+            "The Greek has the article, which, though it cannot well be given in English, implies that the 'fables' will be such as have been named before."
+        ],
+        "Archibald T. Robertson": [
+            "They prefer 'myths' to 'the truth' as some today turn away to 'humanism,' 'bolshevism,' 'new thought' or any other fad that will give a new momentary thrill to their itching ears and morbid minds.",
+            "The people stopped their ears and rushed at Stephen in Acts 7:57.",
+            "They prefer 'myths' to 'the truth'."
+        ],
+        "John Gill": [
+            "The solid truths of the Gospel, not being able to bear the hearing of them.",
+            "Things idle, trifling, useless, and unprofitable; and which are no better than old wives' fables.",
+            "A mind void of sense and judgment, to attend to things idle and fabulous."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When people turn away from the truth, they tend to seek out fables and myths that align with their own desires, rather than facing the reality of the Gospel. This turning away from truth is a form of retribution. It's like when a person's ears reject what goes against their own lusts. This can be seen throughout history, as people have preferred fables over truth, rushing against those who speak the truth like the crowd did with Stephen. Some even go so far as to stop their ears, unwilling to even hear the truth. As people turn away from the truth, their minds become empty and void, allowing themselves to be seduced by idle and unprofitable things, like old wives' fables.",
+            "wordCount": 123,
+            "quoteTokenProportion": 46.25,
+            "qualityScore": 1.9551846705255453,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.35,
+            "commentatorTierSimilarities": [
+                36.76,
+                29.35,
+                33.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When people turn away from the truth, they are willingly led astray by their own desires, preferring fables and myths instead. This rejection of truth is a form of just retribution, as their ears refuse to hear anything that contradicts their lusts. It is a sad reality that some willingly opt for delusions over the truth, like those who turned against Stephen in Acts 7:57. Their minds become void and senseless, captivated by empty and unprofitable things, akin to old wives' tales.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8701136806935477,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+            "commentatorTierSimilarities": [
+                35.31,
+                27.08,
+                37.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When individuals turn away from the truth, they often gravitate towards fables and myths that satisfy their own desires. This turning away is a form of just retribution, as they no longer have the capability to listen to anything that challenges their lusts. It is disheartening to witness people willingly choose delusions over the truth, just as the crowd did when rushing at Stephen in Acts 7:57. Their minds become empty and foolish, engrossed in trivial and unprofitable matters like old wives' fables.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8158193929763229,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                35.5,
+                28.44,
+                36.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When people reject the truth, they often seek solace in fables and myths that align with their desires. This rejection is a form of righteous punishment, as their ears refuse to hear what contradicts their lusts. It is unfortunate that some willingly choose illusions over the truth, turning against those who speak the truth, just as the crowd did with Stephen in Acts 7:57. Their minds become empty, devoid of sense and judgment, surrendering to idle and fictional tales, much like old wives' fables.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9585503150358972,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                35.59,
+                26.83,
+                37.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When people turn away from the truth, they are often enticed by fables and myths that cater to their own desires. This rejection can be seen as a retribution, as their ears refuse to hear anything that contradicts their lusts. It is disheartening to witness individuals willingly embrace delusions over the truth, akin to the crowd rushing against Stephen in Acts 7:57. Their minds become empty and void, captivated by idle and unprofitable things, resembling old wives' fables.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9239317997730123,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                34.75,
+                27.08,
+                38.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

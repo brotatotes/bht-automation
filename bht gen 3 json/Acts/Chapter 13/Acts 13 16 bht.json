@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:30:47",
+    "verseRef": "Acts 13:16",
+    "bestBHT": {
+        "bht": "In his speech, Paul eloquently summarizes God's deliverances and mercies towards His people, culminating in the sending of the promised Son of David. He then delves into the history of Jesus' rejection by the Jews and how God fulfilled His promise by raising Him from the dead. Paul ultimately applies this personally to all present, declaring justification by faith in Jesus and warning against rejecting Him. By referencing their shared history and reliance on the Scriptures, Paul effectively communicates his message to both Jews and Gentiles.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9580570040125476,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+        "commentatorTierSimilarities": [
+            43.33,
+            28.29,
+            28.38
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The contents of this speech (vv. 16\u201341) may be thus arranged: I. Recapitulation of God\u2019s ancient deliverances of His people and mercies towards them, ending with His crowning mercy, the sending of the Deliverer and promised Son of David (vv. 16\u201325).\" ",
+            "II. The history of the rejection of Jesus by the Jews, and of God\u2019s fulfilment of His promise by raising Him from the dead (vv. 26\u201337).\" ",
+            "III. The personal application of this to all present,\u2014the announcement to them of justification by faith in Jesus, and solemn warning against the rejection of Him."
+        ],
+        "Albert Barnes": [
+            "To have commenced at once on this would have probably excited their prejudice and rage.",
+            "By going over, in a summary way, their history, and recounting the former dealings of God with them, he showed them that he believed the Scriptures; that a promise had been given of a Messiah; and that he had actually come according to the promise.",
+            "Ye that fear God - Probably proselytes of the gate, who had not yet been circumcised, but who had renounced idolatry, and were accustomed to worship with them in their synagogues."
+        ],
+        "Marvin Vincent": [
+            "Beckoning. See on ch. Acts 12:17. ",
+            "Men of Israel. See on ch. Acts 3:12."
+        ],
+        "John Calvin": [
+            "This is the drift of the first part of the sermon: that this is the principal point of the law and the foundation of God\u2019s covenant, that they have Christ for their Captain and Governor, that he may restore all things among them; that without him religion cannot stand, and that they shall be most miserable without him.\" ",
+            "Because Paul knew that there were many bastardly sons of Abraham, or such as were grown out of kind, he calleth the Jews to whom he speaketh by a double name...show yourselves to be no bastardly seed.",
+            "Let us learn by this that it is not a fault common to one age only, that good and sincere worshippers being mixed with hypocrites, have the name of the Church common among them."
+        ],
+        "Philip Schaff": [
+            "\u2018Men of Israel,\u2019 that is, the Jews and proselytes worshipping in the congregation.",
+            "\u2018Those that fear God\u2019 included those Gentile natives of Pisidia and strangers who had given up idol-worship, and who worshipped the God of Israel, without, however, being circumcised.",
+            "They are usually termed \u2018proselytes of the gate.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Paul is the leader now and the more gifted speaker (Acts 14:12), so that he responds to the courteous invitation of the rulers.",
+            "Evidently large numbers of these Gentiles like Cornelius in Caesarea were present. They offered Paul a great opportunity for reaching the purely pagan Gentiles.",
+            "It is possible that Paul here based his sermon on the passages of the law and the prophets that had just been read. He uses two words from the LXX, one in verse Acts 13:19 from Deuteronomy 1:31 \u03b5\u03c4\u03c1\u03bf\u03c6\u03bf\u03c6\u03bf\u03c1\u03b7\u03c3\u03b5\u03bd (as a nursing-father bare he them), the reading of many old MSS. and the one preferred by the American Committee, the other in verse Acts 13:17 from Isaiah 1:2 \u03c5\u03c8\u03c9\u03c3\u03b5\u03bd (exalted)."
+        ],
+        "John Gill": [
+            "Men of Israel; by whom are meant the proper Jews, the natural descendants of Jacob, whose name was Israel; this was accounted a very honourable character...\" (Acts 13:16).",
+            "...by these are meant, not Jews by birth, but proselytes, devout and religious men from among the Gentiles; who were proselyted to the Jewish religion, and attended with them in their synagogues on religious worship...\" (Acts 13:16).",
+            "Blessed is everyone that feareth the Lord, that walketh in his ways...of what proselyte is it 'said blessed?' of the proselyte who is a proselyte of righteousness, and not of the Cuthites...\" (Acts 13:16)."
+        ],
+        "John Wesley": [
+            "Ye that fear God \u2014 Whether proselytes or heathens."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In a speech delivered by Paul, he recounts God's ancient deliverances and mercies towards His people, culminating in the sending of the promised Son of David. Paul then proceeds to explain the history of Jesus' rejection by the Jews and God's fulfillment of the promise by raising Him from the dead. Ultimately, Paul's sermon serves as a personal application to all present, proclaiming justification by faith in Jesus and warning against rejecting Him. By appealing to their shared history and belief in the Scriptures, Paul seeks to convey the message to both Jews and Gentiles in the audience.",
+            "wordCount": 101,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9802285773303383,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                44.75,
+                27.8,
+                27.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his speech, Paul recaps God's past deliverances and mercies, leading up to the sending of the promised Son of David. He then discusses the rejection of Jesus by the Jews and God's fulfillment of His promise through the resurrection. The sermon concludes with a personal application to all present, emphasizing justification by faith in Jesus and warning against rejection. Paul strategically incorporates shared history and belief in the Scriptures to effectively communicate his message to both Jews and Gentiles.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.8657123029903526,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                45.76,
+                28.2,
+                26.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his speech, Paul skillfully reflects on God's deliverance of His people throughout history and the fulfillment of His promise through the sending of the Son of David. He then highlights the rejection of Jesus by the Jews and God's faithfulness in raising Him from the dead. The sermon concludes with a personal application, proclaiming justification by faith in Jesus and admonishing against rejecting Him. Paul's use of shared history and belief in the Scriptures effectively communicates his message to both Jews and Gentiles in the audience.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8988785822119962,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                43.43,
+                28.29,
+                28.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his speech, Paul eloquently summarizes God's deliverances and mercies towards His people, culminating in the sending of the promised Son of David. He then delves into the history of Jesus' rejection by the Jews and how God fulfilled His promise by raising Him from the dead. Paul ultimately applies this personally to all present, declaring justification by faith in Jesus and warning against rejecting Him. By referencing their shared history and reliance on the Scriptures, Paul effectively communicates his message to both Jews and Gentiles.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9580570040125476,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+            "commentatorTierSimilarities": [
+                43.33,
+                28.29,
+                28.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his speech, Paul reflects on God's deliverances and mercies towards His people, ending with the sending of the promised Son of David. He then recounts the rejection of Jesus by the Jews and God's fulfillment of His promise through His resurrection. The sermon concludes with a personal application, proclaiming justification by faith in Jesus and warning against rejecting Him. Paul strategically uses shared history and belief in the Scriptures to effectively communicate his message to both Jews and Gentiles in the audience.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.853379570062623,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+            "commentatorTierSimilarities": [
+                45.09,
+                28.41,
+                26.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

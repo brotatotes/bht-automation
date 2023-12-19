@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:17:31",
+    "verseRef": "2 Corinthians 9:5",
+    "bestBHT": {
+        "bht": "The giver should approach their act of giving with a spirit of beneficence, not driven by covetousness. It is important to give cheerfully and generously, ensuring that the bounty promised beforehand is prepared and ready. The Corinthians were encouraged to fulfill their pledge, with messengers sent ahead to ready everything before Paul's visit. By giving freely and generously, the Corinthians can bring blessings not only to themselves, but also to those who will benefit from their act of generosity.",
+        "wordCount": 80,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 1.7560200019675292,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.73,
+        "commentatorTierSimilarities": [
+            29.68,
+            37.33,
+            32.99
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This same may be ready in such sort as beneficence, and not as covetousness.",
+            "The spirit of the giver, who must be \u2018a cheerful giver,\u2019 not giving murmuringly, but with blessings, with a beneficent charitable spirit.",
+            "Such an one shall reap also with blessings, abundant and unspeakable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "that they should,\" c.",
+            "promised before\" \"long announced by me to the Macedonians",
+            "not as matter of covetousness"
+        ],
+        "Albert Barnes": [
+            "And make up beforehand your bounty - Prepare it before I come.\" ",
+            "That it may be truly a blessing - a thank-offering to God and adapted to do good to people.\" ",
+            "The idea here is, that Paul would have them give this as an act of bounty, or liberality on their part, and not as an act of covetousness on his part, not as extorted by him from them."
+        ],
+        "Marvin Vincent": [
+            "Notice the thrice repeated before, emphasizing the injunction to have everything ready before Paul's arrival.",
+            "Make up beforehand. Adjust.",
+            "The bounty promised by you, or by me on your behalf."
+        ],
+        "John Calvin": [
+            "To blessing Paul opposes \u03c0\u03bb\u03b5\u03bf\u03bd\u03b5\u03be\u1f77\u03b1\u03bd, which term the Greeks employ to denote excessive greediness, as well as fraud and niggardliness.",
+            "I have rather preferred the term niggardliness in this contrast; for Paul would have them give, not grudgingly, but with a liberal spirit.",
+            "God\u2019s blessing of us, and our blessing of God, differ exceedingly. For God blesseth us efficiently, by exhibiting his mercies to us."
+        ],
+        "Philip Schaff": [
+            "There is a beautiful sensitiveness here for the character of the Corinthian church, as taking the lead among the Gentile churches, in praising of this collection.",
+            "Perhaps he had some reason to think that their first zeal in the matter had slackened.",
+            "To prevent this, he thought it advisable to send messengers to make all ready against his coming visit."
+        ],
+        "Archibald T. Robertson": [
+            "Make up beforehand (\u03c0\u03c1\u03bf\u03ba\u03b1\u03c4\u03b1\u03c1\u03c4\u03b9\u03c3\u03c9\u03c3). Late and rare double compound verb \u03c0\u03c1\u03bf\u03ba\u03b1\u03c4\u03b1\u03c1\u03c4\u03b9\u03b6\u03c9 (in Hippocrates). Only here in N.T.",
+            "He literally rubs it in that the pledge was overdue.",
+            "'And not as covetousness.' Some offerings exhibit covetousness on the part of the giver by their very niggardliness."
+        ],
+        "John Gill": [
+            "Moreover, because for this the poor bless their benefactors; and it is a blessing itself to do good to others.",
+            "The apostle judged it expedient to send the brethren before hand to complete and finish this good work begun.",
+            "That is, that the collection being ready made, largely and liberally, it might appear to be a free generous action, and show what a noble bountiful disposition they were of."
+        ],
+        "John Wesley": [
+            "Spoken of before \u2014 By me, to the Macedonians.",
+            "Not as a matter of covetousness \u2014 As wrung by importunity from covetous persons."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The spirit of the giver in 2 Corinthians 9:5 must be one of beneficence, not covetousness. The giver should be cheerful and generous, not murmuring or niggardly. The bounty promised beforehand should be prepared and ready. The offering should be a true blessing to God and a means of doing good to others. It is important for the Corinthians to maintain their initial zeal in this collection, so messengers were sent to ensure that everything was ready before Paul's visit. This offering should be made freely and generously, in contrast to covetousness and niggardliness, so that it may bring blessings not only to the giver but also to those who will receive its benefits.",
+            "wordCount": 113,
+            "quoteTokenProportion": 47.95,
+            "qualityScore": 1.6913271907347576,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.58,
+            "commentatorTierSimilarities": [
+                30.44,
+                35.15,
+                34.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The spirit of the giver in this verse should not be covetous, but rather characterized by beneficence and cheerfulness. The bounty promised beforehand should be prepared and ready, generously given as a true blessing and means of doing good to others. It is important for the Corinthians to maintain their initial zeal, so messengers were sent to ensure readiness before Paul's visit. This offering should be made freely and generously, in contrast to covetousness and niggardliness, so that it may bring blessings to both the giver and the recipients.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.7384696269749775,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.15,
+            "commentatorTierSimilarities": [
+                26.81,
+                37.28,
+                35.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The giver must display a spirit of beneficence, not covetousness. It is crucial to give cheerfully, with blessings, and in a charitable manner. The bounty promised beforehand should be prepared, ready, and abundant. The Corinthians should be diligent in fulfilling their pledge, as it was announced in advance. The offering should not exhibit covetousness or niggardliness; rather, it should be a generous act. Messengers were sent ahead to ensure that everything was in order. This generous giving will result in blessings for both the giver and the recipients.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.6621991267018292,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.61,
+            "commentatorTierSimilarities": [
+                34.07,
+                33.46,
+                32.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The giver should approach their act of giving with a spirit of beneficence, not driven by covetousness. It is important to give cheerfully and generously, ensuring that the bounty promised beforehand is prepared and ready. The Corinthians were encouraged to fulfill their pledge, with messengers sent ahead to ready everything before Paul's visit. By giving freely and generously, the Corinthians can bring blessings not only to themselves, but also to those who will benefit from their act of generosity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.7560200019675292,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.73,
+            "commentatorTierSimilarities": [
+                29.68,
+                37.33,
+                32.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The spirit of the giver in this passage should not be driven by covetousness, but rather by beneficence and cheerfulness. The bounty promised beforehand should be prepared and ready, generously given to bring blessings both to the giver and the recipients. It is important for the Corinthians to maintain their initial zeal in this collection, so messengers were sent to ensure readiness before Paul's visit. This offering should be made freely and generously, in contrast to covetousness and niggardliness, so that it may bring blessings to all involved.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.7806705868580757,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+            "commentatorTierSimilarities": [
+                27.17,
+                37.38,
+                35.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

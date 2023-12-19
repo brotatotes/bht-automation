@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:33:09",
+    "verseRef": "Ephesians 4:32",
+    "bestBHT": {
+        "bht": "Be not faithless, but believing. Kind, tenderhearted, forgiving, are opposed to bitterness, wrath, and anger. It is just that you in turn shall be so to your fellow men, who have not erred against you in the degree that you have erred against God. It is in Christ that God vouchsafes forgiveness to us. Let a man recollect his own sins and follies; let him see how often he has offended God; and then, fresh with this feeling, let him go and say, 'My brother, I forgive you.'",
+        "wordCount": 88,
+        "quoteTokenProportion": 54.69,
+        "qualityScore": 2.1690025384110267,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.46,
+        "commentatorTierSimilarities": [
+            33.18,
+            36.02,
+            30.8
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Be not (become not) faithless, but believing.",
+            "Kind, tenderhearted, forgiving, are opposed respectively to bitterness, wrath, and anger.",
+            "God IN Christ, manifested in Him, in all He has done, and suffered: Christ is the sphere, the conditional element in which this act took place."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is but just that you in turn shall be so to your fellow men, who have not erred against you in the degree that you have erred against God.",
+            "It is in Christ that God vouchsafes forgiveness to us. It cost God the death of His Son, as man, to forgive us. It costs us nothing to forgive our fellow man.",
+            "God has, once for all, forgiven sin in Christ, as a past historical fact."
+        ],
+        "Albert Barnes": [
+            "Christianity produces true courteousness, or politeness. It does not make one rough, crabby, or sour; nor does it dispose its followers to violate the proper rules of social contact.",
+            "There is no religion in a sour, misanthropic temper; none in rudeness, stiffness, and repulsiveness; none in violating the rules of good breeding.",
+            "Let a man recollect his own sins and follies; let him look over his life, and see how often he has offended God; let him remember that all has been forgiven; and then, fresh with this feeling, let him go and meet an offending brother, and say, 'My brother, I forgive you.'"
+        ],
+        "Marvin Vincent": [
+            "Be ye... become, as following the putting away of anger, etc.",
+            "Kind... Each other.",
+            "Doing as a body for yourselves that which God did once for you all."
+        ],
+        "John Calvin": [
+            "With bitterness he contrasts kindness, or gentleness of countenance, language, and manners.",
+            "He recommends to us to be tender-hearted...to cultivate that true humanity which is affected by everything that happens to them, in the same manner as if we were in their situation.",
+            "To give his exhortation the greater weight, he holds out the example of God, who has forgiven to us, through Christ, far more than any mortal man can forgive to his brethren."
+        ],
+        "Philip Schaff": [
+            "Kindness is well, compassion is better, but forgiveness is God-like.",
+            "Forgiveness, however, is the result of an inward experience of God\u2019s forgiving love in Christ.",
+            "Not to believe in Christ is to exclude the strongest motive for pardoning those who injure us."
+        ],
+        "Archibald T. Robertson": [
+            "Be ye kind to one another... keep on becoming kind toward one another.\" ",
+            "Tenderhearted."
+        ],
+        "John Gill": [
+            "Good, affable, courteous; which appears in looks, words, and actions.",
+            "Saints should give freely to one another, for outward support, where it is needful.",
+            "They should forgive them before they repent, and without asking for it, and that for Christ's sake, and because they are members of his."
+        ],
+        "John Wesley": [
+            "As God, showing himself kind and tenderhearted in the highest degree, hath forgiven you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Be not faithless, but believing. Kind, tenderhearted, forgiving, are opposed respectively to bitterness, wrath, and anger. It is but just that you in turn shall be so to your fellow men, who have not erred against you in the degree that you have erred against God. It is in Christ that God vouchsafes forgiveness to us. Be ye kind to one another, keep on becoming kind toward one another. Forgiveness is God-like, the result of an inward experience of God\u2019s forgiving love in Christ. Let a man recollect his own sins and follies; let him look over his life, and see how often he has offended God; let him remember that all has been forgiven; and then, fresh with this feeling, let him go and meet an offending brother, and say, 'My brother, I forgive you.'",
+            "wordCount": 138,
+            "quoteTokenProportion": 51.69,
+            "qualityScore": 2.18478188428689,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.98,
+            "commentatorTierSimilarities": [
+                31.96,
+                37.48,
+                30.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Be not faithless, but believing. Kind, tenderhearted, forgiving, are opposed respectively to bitterness, wrath, and anger. It is just that you in turn shall be so to your fellow men, who have not erred against you in the degree that you have erred against God. It is in Christ that God vouchsafes forgiveness to us. Forgiveness is God-like, the result of an inward experience of God\u2019s forgiving love in Christ. Let a man recollect his own sins and follies, and then, fresh with this feeling, let him go and say, 'My brother, I forgive you.'",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.191850757701146,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.22,
+            "commentatorTierSimilarities": [
+                31.05,
+                37.63,
+                31.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Be not faithless, but believing. Kind, tenderhearted, forgiving, are opposed to bitterness, wrath, and anger. It is just that you in turn shall be so to your fellow men, who have not erred against you in the degree that you have erred against God. It is in Christ that God vouchsafes forgiveness to us. Let a man recollect his own sins and follies; let him look over his life, and see how often he has offended God; and then, fresh with this feeling, let him go and say, 'My brother, I forgive you.'",
+            "wordCount": 93,
+            "quoteTokenProportion": 53.73,
+            "qualityScore": 2.159153136677541,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.13,
+            "commentatorTierSimilarities": [
+                33.1,
+                36.23,
+                30.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Be not faithless, but believing. Kind, tenderhearted, forgiving, are opposed to bitterness, wrath, and anger. It is just that you in turn shall be so to your fellow men, who have not erred against you in the degree that you have erred against God. It is in Christ that God vouchsafes forgiveness to us. Let a man recollect his own sins and follies; let him see how often he has offended God; and then, fresh with this feeling, let him go and say, 'My brother, I forgive you.'",
+            "wordCount": 88,
+            "quoteTokenProportion": 54.69,
+            "qualityScore": 2.1690025384110267,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.46,
+            "commentatorTierSimilarities": [
+                33.18,
+                36.02,
+                30.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Be not faithless, but believing. Kind, tenderhearted, forgiving, are opposed to bitterness, wrath, and anger. It is just that you in turn shall be so to your fellow men, who have not erred against you in the degree that you have erred against God. Forgiveness is God-like, the result of an inward experience of God\u2019s forgiving love in Christ. Let a man recollect his own sins and follies, and then, fresh with this feeling, let him go and say, 'My brother, I forgive you.'",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.1766464795308798,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.71,
+            "commentatorTierSimilarities": [
+                31.66,
+                38.4,
+                29.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

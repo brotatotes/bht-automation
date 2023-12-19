@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:28:04",
+    "verseRef": "Acts 8:5",
+    "bestBHT": {
+        "bht": "Philip, a deacon, follows in Stephen's footsteps by proclaiming the good news of Christ in Samaria, a city of rising importance that serves as a bridge between Jerusalem and the world. Like Jesus, Philip serves as a teacher, preaching regularly and performing signs and wonders. This moment signifies the expansion of the gospel beyond Jerusalem, emphasizing that Christ is at the center of the message, the one who repairs the world through his grace and reconciles us to the Father.",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 2.025017387456426,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+        "commentatorTierSimilarities": [
+            28.98,
+            35.44,
+            35.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And it is probable, that the persecution should have been directed especially against the colleagues of Stephen.\" ",
+            "As the words stand here, seeing that Samaria signifies the district, I should be inclined to believe that Sychem is here also intended.\" ",
+            "It was a place of rising importance, and in after-times eclipsed the fame of its neighbour Samaria."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The city of Samaria... 'It furnished the bridge between Jerusalem and the world'\" [BAUMGARTEN].",
+            "It was the deacon of that name, who comes next after Stephen in the catalogue of the seven, probably as being the next most prominent\" [MEYER].",
+            "Besides that the apostles remained at Jerusalem, they would in that case have had no occasion to send a deputation of their own number to lay their hands on the baptized disciples\" [GROTIUS]."
+        ],
+        "Albert Barnes": [
+            "His coming was attended with a remarkable 'revival of religion.'",
+            "The word translated 'preach' here is not what is used in the previous verse. This denotes to 'proclaim as a crier,' and is commonly employed to denote the preaching of the gospel.",
+            "It has been argued that because 'Philip' is said thus to have preached to the Samaritans, that 'therefore' all 'deacons' have a right to preach, or that they are, under the New Testament economy, an 'order' of ministers. But this is by no means clear."
+        ],
+        "Marvin Vincent": [
+            "Philip. The deacon (Acts 6:5). Not the apostle.",
+            "Christ [\u03c4\u03bf\u03bd \u03c7\u03c1\u03b9\u03c3\u03c4\u03bf\u03bd] . Note the article, \"the Christ,\" and see on Matthew 1:1.",
+            "He did [\u03b5\u03c0\u03bf\u03b9\u03b5\u03b9] . Imperfect. Kept doing from time to time, as is described in the next verse."
+        ],
+        "John Calvin": [
+            "He put the city of Samaria for the city Samaria which was laid waste by Hyrcanus, and built again by Herod, and called Sebaste.\" ",
+            "When he saith that Philip preached Christ, he signifieth that the whole sum of the gospel is contained in Christ.\" ",
+            "The sum is this, that Christ doth repair with his grace the world, being destroyed; which cometh to pass when he reconcileth us to the Father."
+        ],
+        "Philip Schaff": [
+            "Philip is called the evangelist [...] partly to the fact that he was the first who, outside the holy city, proclaimed the Evangel, good news of Christ.",
+            "Philip appears at once to have gone down to this old city [Samaria], once the capital of the kingdom.",
+            "It never regained anything of its old importance until the days of Herod the Great, who restored it to its ancient splendour."
+        ],
+        "Archibald T. Robertson": [
+            "Samaria is the name of the city here. This is the first instance cited of the expansion noted in verse Acts 8:4.",
+            "Jesus had an early and fruitful ministry in Samaria.",
+            "He is also a teacher (\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2) like Jesus."
+        ],
+        "John Gill": [
+            "The city which was formerly called Samaria, but now Sebaste...",
+            "Philip is said to go down to it; and who was not Philip the apostle, but Philip the deacon...",
+            "the alone Saviour of men; who by his obedience, sufferings, and death, had wrought righteousness, procured peace and pardon, and obtained eternal redemption for his people..."
+        ],
+        "John Wesley": [
+            "Stephen \u2014 Being taken away, Philip, his next colleague, (not the apostle,) rises in his place."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the persecution against Stephen's colleagues, Philip arrives in Samaria, a city of rising importance that serves as a bridge between Jerusalem and the world. As a deacon, Philip continues the work that Stephen started, proclaiming the good news of Christ. Like Jesus, Philip serves as a teacher, regularly preaching and performing signs and wonders. This is a significant moment, as it marks the expansion of the gospel beyond Jerusalem. It is important to note that in this context, when it says Philip preached Christ, it means that the entirety of the gospel is centered around Christ, who repairs the world through his grace, reconciling us to the Father.",
+            "wordCount": 110,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.9989650196195399,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                28.09,
+                36.2,
+                35.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the persecution against Stephen's colleagues, Philip arrives in Samaria, a city of rising importance. As a deacon, Philip continues the work that Stephen started, proclaiming the good news of Christ. Like Jesus, Philip serves as a teacher, regularly preaching and performing signs and wonders. This marks the expansion of the gospel beyond Jerusalem. When it says Philip preached Christ, it means the gospel is centered around Christ, who repairs the world through his grace, reconciling us to the Father.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.973880456101992,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                26.52,
+                35.17,
+                38.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Philip, a deacon, follows in Stephen's footsteps by proclaiming the good news of Christ in Samaria, a city of rising importance that serves as a bridge between Jerusalem and the world. Like Jesus, Philip serves as a teacher, preaching regularly and performing signs and wonders. This moment signifies the expansion of the gospel beyond Jerusalem, emphasizing that Christ is at the center of the message, the one who repairs the world through his grace and reconciles us to the Father.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.025017387456426,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.67,
+            "commentatorTierSimilarities": [
+                28.98,
+                35.44,
+                35.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Philip, a deacon who succeeded Stephen, arrives in Samaria, a growing city that became prominent over Samaria. By teaching and performing miraculous signs, Philip continues the work of spreading the gospel beyond Jerusalem. His preaching centers on the message of Christ, who brings grace to repair the broken world and reconcile us to the Father. This significant event emphasizes the importance of Christ, highlighting his role as the Savior who obtained eternal redemption for his people.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8880052350331211,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.12,
+            "commentatorTierSimilarities": [
+                23.86,
+                37.95,
+                38.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Philip, the deacon who succeeded Stephen, arrives in Samaria, a city of rising importance that bridged the gap between Jerusalem and the world. Continuing the work of his predecessor, Philip proclaims the good news of Christ, serving as a teacher and performing signs and wonders. This marks the expansion of the gospel beyond Jerusalem and highlights the central role of Christ in the message. Through his grace, Christ repairs the broken world and reconciles us to the Father, becoming the sole Savior who obtained eternal redemption for his people.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.8901270029714832,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
+            "commentatorTierSimilarities": [
+                25.16,
+                35.55,
+                39.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

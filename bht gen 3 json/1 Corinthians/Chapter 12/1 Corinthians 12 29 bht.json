@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 15:12:26",
+    "verseRef": "1 Corinthians 12:29",
+    "bestBHT": {
+        "bht": "The Apostle has placed apostles, prophets, and teachers in apposition with miraculous powers and gifts of healings. No one has such a fullness in everything as to not require the aid of others. Each member contributes their portion to the common advantage. Some are apostles, some are prophets, some are teachers, and not all perform miracles.",
+        "wordCount": 56,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.444483879215831,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+        "commentatorTierSimilarities": [
+            34.98,
+            0.0,
+            65.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostle has above placed the concrete, apostles, prophets, teachers, in apposition with miraculous powers, and gifts of healings...\" ",
+            "The change of construction, have all gifts of healings."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "29. Are all?\u2014Surely not."
+        ],
+        "John Calvin": [
+            "No one has such a fullness in everything as to have a sufficiency within himself, and not require the aid of others.\" ",
+            "Offices as well as gifts are distributed in such a manner that no one member constitutes the whole body, but each contributing his portion to the common advantage.\" ",
+            "Paul means here to take away every occasion of proud boasting, base envyings, haughtiness, and contempt of the brethren, malignity, ambition, and everything of that nature."
+        ],
+        "Archibald T. Robertson": [
+            "Are all (\u03bc\u03b7 \u03c0\u03b1\u03bd\u03c4\u03b5\u03c2). The \u03bc\u03b7 expects a negative answer with each group. "
+        ],
+        "John Gill": [
+            "Are all apostles?.... No some are prophets, as distinct from apostles; and some are teachers, as distinct from them both, and some are neither.",
+            "Are all prophets? no; some are apostles, above them, and some are teachers, inferior to them; and but very few there were who had that peculiar character and gift.",
+            "Are all workers of miracles? no; in those early times, when the gift of doing miracles was bestowed, it was not given to all, only to some; and now there are none that are possessed of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle has placed apostles, prophets, and teachers in apposition with miraculous powers and gifts of healings. The change of construction expects a negative answer with each group. No one has such a fullness in everything as to not require the aid of others. Each member contributes their portion to the common advantage. Paul wants to take away any occasion for proud boasting, envy, haughtiness, contempt, malignity, ambition, or anything of that nature. Some are apostles, some are prophets, some are teachers, and not all perform miracles.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.3918792916476292,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.62,
+            "commentatorTierSimilarities": [
+                39.63,
+                0.0,
+                60.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle has placed apostles, prophets, and teachers in apposition with miraculous powers and gifts of healings. The change of construction expects a negative answer with each group. No one has such a fullness in everything as to not require the aid of others. Each member contributes their portion to the common advantage. Some are apostles, some are prophets, some are teachers, and not all perform miracles.",
+            "wordCount": 67,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.4731981903597733,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.33,
+            "commentatorTierSimilarities": [
+                43.47,
+                0.0,
+                56.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle has placed apostles, prophets, and teachers in apposition with miraculous powers and gifts of healings. No one has such a fullness in everything as to not require the aid of others. Each member contributes their portion to the common advantage. Some are apostles, some are prophets, some are teachers, and not all perform miracles.",
+            "wordCount": 56,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.444483879215831,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+            "commentatorTierSimilarities": [
+                34.98,
+                0.0,
+                65.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Not everyone possesses all the gifts and offices within the body of Christ. Each member has a specific role, contributing to the common advantage. This helps to prevent boasting, envy, and other contentious attitudes among believers. While some may be apostles, others may be prophets or teachers. The distribution of gifts and offices is intentional, ensuring that no member becomes the whole body. The gift of working miracles, for example, was not given to all but only to a select few in the early times.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.1972509448256923,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.15,
+            "commentatorTierSimilarities": [
+                29.88,
+                0.0,
+                70.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Not all members of the body of Christ possess the same gifts and offices. The distribution of these roles prevents pride, envy, and contempt among believers. There were apostles, prophets, and teachers, each with distinct gifts and levels of authority. The gift of working miracles was bestowed on only a few individuals during that time. It is important to recognize that no one person constitutes the entirety of the body, but rather each member contributes to the collective benefit.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.2372326573181716,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.48,
+            "commentatorTierSimilarities": [
+                28.54,
+                0.0,
+                71.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

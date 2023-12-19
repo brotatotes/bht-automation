@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:21:20",
+    "verseRef": "Luke 18:28",
+    "bestBHT": {
+        "bht": "Peter, in the simplicity of his heart, conscious that the required surrender had been made, and generously taking in his brethren with him, speaks of leaving their own possessions to follow Jesus. This acknowledgment is not made boastfully but rather from their astonishment and consternation at what has happened and at the words of Jesus. This serves as a reminder that we often fail to surrender our own things, such as our home and business, and instead prioritize worldly matters over our commitment to follow Jesus.",
+        "wordCount": 86,
+        "quoteTokenProportion": 49.18,
+        "qualityScore": 1.4941067306318816,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.02,
+        "commentatorTierSimilarities": [
+            66.89,
+            0.0,
+            33.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Lo, c.\u2014in the simplicity of his heart (as is evident from the reply), conscious that the required surrender had been made, and generously taking in his brethren with him."
+        ],
+        "Marvin Vincent": [
+            "All [\u03c0\u03b1\u03bd\u03c4\u03b1] . The best texts read ta idia, our own. So Rev. ",
+            "- 34. Compare Matthew 20:17-19. Mark 10:32-34."
+        ],
+        "Archibald T. Robertson": [
+            "Peter speaks here not in a spirit of boastfulness, but rather with his reactions from their consternation at what has happened and at the words of Jesus.",
+            "Right here is where so many fail.",
+            "Our own things (home, business, etc.)."
+        ],
+        "John Gill": [
+            "lo, we have left all: the Arabic version reads, 'all ours'; all we had, our friends, trades, and worldly substance.",
+            "and followed thee.",
+            "referring to the promise of Christ, to the young man, that should he sell all he had, and give it to the poor, he should have treasure in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, in the simplicity of his heart, acknowledges that he and his fellow disciples have made the required surrender and have left their own things to follow Jesus. It is important to note that Peter's words are not spoken boastfully, but rather reflect the disciples' astonishment at what has transpired. This passage serves as a reminder to us that often we fail to fully surrender our own possessions and prioritize worldly matters over following Jesus.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.4001268703098644,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.9,
+            "commentatorTierSimilarities": [
+                58.87,
+                0.0,
+                41.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, in the sincerity of his heart, acknowledges that they have left behind their own possessions to follow Jesus. It is crucial to recognize that Peter's statement is not made with a proud spirit, but instead reflects the disciples' astonishment at what has taken place. This serves as a reminder to us that we often fall short in surrendering our own material things and tend to prioritize worldly matters over our commitment to following Jesus.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.232400832342026,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.32,
+            "commentatorTierSimilarities": [
+                57.05,
+                0.0,
+                42.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, in the simplicity of his heart, conscious of the surrender they made, generously includes his fellow disciples in the acknowledgment of leaving their own possessions to follow Jesus. His words are not boastful, but rather a reaction to their astonishment at the situation. This serves as a reminder for us to avoid failing by prioritizing worldly matters over our commitment to follow Christ, which includes leaving behind our personal interests and attachments.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.2194100711956746,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.89,
+            "commentatorTierSimilarities": [
+                64.43,
+                0.0,
+                35.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, in the sincerity of his heart, acknowledges that they have left behind their own possessions to follow Jesus. It is important to note that Peter's words are not spoken boastfully, but rather reflect the disciples' astonishment and reaction to the situation. This passage serves as a reminder to us that we often fail to fully surrender our own possessions and tend to prioritize worldly matters over our commitment to following Jesus.",
+            "wordCount": 73,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.3192417516781134,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.21,
+            "commentatorTierSimilarities": [
+                60.68,
+                0.0,
+                39.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, in the simplicity of his heart, conscious that the required surrender had been made, and generously taking in his brethren with him, speaks of leaving their own possessions to follow Jesus. This acknowledgment is not made boastfully but rather from their astonishment and consternation at what has happened and at the words of Jesus. This serves as a reminder that we often fail to surrender our own things, such as our home and business, and instead prioritize worldly matters over our commitment to follow Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.4941067306318816,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.02,
+            "commentatorTierSimilarities": [
+                66.89,
+                0.0,
+                33.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

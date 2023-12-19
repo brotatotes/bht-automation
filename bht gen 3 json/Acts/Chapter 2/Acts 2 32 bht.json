@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:25:26",
+    "verseRef": "Acts 2:32",
+    "bestBHT": {
+        "bht": "We are His witnesses, testifying to the Resurrection, the act of God announced by prophecy. The historical fact of the Resurrection is affirmed, and the vouchers, the 120 witnesses, are produced. The direct evidence for the resurrection of Jesus piles up in cumulative force. These witnesses, who saw the Lord after His resurrection, proclaim that Jesus fulfilled the prophecy. The testimony of these witnesses, who saw Him with their own eyes, is necessary to establish the incredible miracle of Christ being raised from the dead. They bear witness to Christ and His resurrection, testifying to its divine origin.",
+        "wordCount": 97,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 2.260647899220806,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.51,
+        "commentatorTierSimilarities": [
+            43.59,
+            22.05,
+            34.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We are His witnesses,\" implies, \"We testify to this His work,\" which work implied the Resurrection. (32.)",
+            "The word rendered \"whereof\" may also mean of whom: and this latter is the more probable. (32.)",
+            "From ver. 25, the Apostle has been employed in substantiating the Resurrection as the act of God announced by prophecy in old time: now the historical fact of its accomplishment is affirmed, and the vouchers for it produced. (32.)"
+        ],
+        "Albert Barnes": [
+            "The number was such they could not be imposed on. If 120 persons could not prove a plain matter of fact, nothing could be established by testimony; there could be no way of arriving at any facts.",
+            "The thing to be established was a plain matter. It was not that they 'saw him rise.' That they never pretended: Impostors would have done this.",
+            "They had no interest in deceiving the world in this thing. There was no prospect of pleasure, wealth, or honor in doing it."
+        ],
+        "John Calvin": [
+            "After that he had proved by the testimony of David, that it was most requisite that Christ should rise again, he saith, that he and the rest of his fellows were such witnesses as saw him with their eyes after his resurrection.\" ",
+            "For it was requisite for him to declare that first, that Christ is alive. Otherwise it had been an absurd and incredible thing that he should be the author of so great a miracle.\" ",
+            "Notwithstanding he doth therewithal teach us, that he did not rise for his own sake alone, but that he might make the whole Church partaker of his life, having poured out the Spirit."
+        ],
+        "Philip Schaff": [
+            "This Jesus whom you all knew about so well as David\u2019s descendant has fulfilled all the varied details of this marvellous prophecy; for as you know He was dead, He is risen again.",
+            "No doubt here pointing to the \u2018hundred and twenty\u2019 on whom the gift of the Spirit had fallen, who, to the astonishment of the crowds, had been speaking in the many tongues, and who all had seen the Lord after the resurrection."
+        ],
+        "Archibald T. Robertson": [
+            "This Jesus whom ye crucified.",
+            "Peter claims the whole 120 as personal witnesses to the fact of the Resurrection of Jesus from the dead.",
+            "The direct evidence for the resurrection of Jesus piles up in cumulative force."
+        ],
+        "John Gill": [
+            "This Jesus hath God raised up....That is, from the dead.\" ",
+            "We are all witnesses; namely, of his resurrection, they having seen him, and heard him, and ate, and drank, and conversed with him since his resurrection.",
+            "They bore testimony to the whole of this, to Christ, and to his resurrection, and to its being done by God the Father."
+        ],
+        "John Wesley": [
+            "He foreseeing this, spake of the resurrection Of Christ.",
+            "It is plain, David did not speak this of himself. Therefore he spake of Christ's rising.",
+            "Because he did not receive it before he died, and because his kingdom was to endure for ever, 2 Samuel 7:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are His witnesses, testifying to the Resurrection, the act of God announced by prophecy. The historical fact of the Resurrection is affirmed, and the vouchers, the 120 witnesses, are produced. The direct evidence for the resurrection of Jesus is overwhelming and piles up in cumulative force. These witnesses, who spoke in tongues and saw the Lord after His resurrection, proclaim that Jesus, known to all as David's descendant, fulfilled the prophecy. The testimony of these witnesses, who saw Him with their own eyes, is necessary to establish the incredible miracle of Christ being raised from the dead. They bear witness to Christ and His resurrection, testifying to its divine origin.",
+            "wordCount": 111,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.2448185565114924,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.98,
+            "commentatorTierSimilarities": [
+                41.4,
+                23.79,
+                34.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We are His witnesses, testifying to the Resurrection, the act of God announced by prophecy. The historical fact of the Resurrection is affirmed, and the vouchers, the 120 witnesses, are produced. The direct evidence for the resurrection of Jesus piles up in cumulative force. These witnesses, who saw the Lord after His resurrection, proclaim that Jesus fulfilled the prophecy. The testimony of these witnesses, who saw Him with their own eyes, is necessary to establish the incredible miracle of Christ being raised from the dead. They bear witness to Christ and His resurrection, testifying to its divine origin.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.260647899220806,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.51,
+            "commentatorTierSimilarities": [
+                43.59,
+                22.05,
+                34.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are His witnesses, testifying to the Resurrection, the act of God announced by prophecy. The historical fact is affirmed, and the vouchers, the 120 witnesses, are produced. The direct evidence for the resurrection of Jesus piles up in cumulative force. These witnesses saw the Lord after His resurrection, proclaiming that Jesus fulfilled the prophecy. The testimony of these witnesses, who saw Him with their own eyes, is necessary to establish the incredible miracle of Christ being raised from the dead. They bear witness to Christ and His resurrection, testifying to its divine origin.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1618563006671865,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                43.95,
+                21.86,
+                34.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are His witnesses, testifying to the Resurrection, the act of God announced by prophecy. The historical fact is affirmed, and the vouchers, the 120 witnesses, are produced. The direct evidence for the resurrection of Jesus piles up in cumulative force. These witnesses saw the Lord after His resurrection, proclaiming that Jesus fulfilled the prophecy. The testimony of these witnesses, who saw Him with their own eyes, is necessary to establish the incredible miracle of Christ being raised from the dead. They bear witness to Christ and His resurrection, testifying to its divine origin.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1618563006671865,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                43.95,
+                21.86,
+                34.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are His witnesses, testifying to the Resurrection, the act of God announced by prophecy. The historical fact of the Resurrection is affirmed, and the vouchers, the 120 witnesses, are produced. The direct evidence for the resurrection of Jesus piles up in cumulative force. These witnesses saw the Lord after His resurrection, proclaiming that Jesus fulfilled the prophecy. The testimony of these witnesses, who saw Him with their own eyes, is necessary to establish the incredible miracle of Christ being raised from the dead. They bear witness to Christ and His resurrection, testifying to its divine origin.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.254082681510235,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.29,
+            "commentatorTierSimilarities": [
+                43.81,
+                21.69,
+                34.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

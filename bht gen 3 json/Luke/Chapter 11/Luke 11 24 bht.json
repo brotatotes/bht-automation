@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:18:15",
+    "verseRef": "Luke 11:24",
+    "bestBHT": {
+        "bht": "When an unclean spirit is expelled from a person, it seeks a new dwelling place but finds no rest, much like the goat-shaped goblins worshipped by the Egyptians or Lilith, Adam's first wife turned demon. Unable to find solace, the spirit decides to return to its former home. This teaches us the importance of remaining vigilant against darkness and evil, for once expelled, these forces will try to re-enter our lives.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.14896724249739,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.55,
+        "commentatorTierSimilarities": [
+            30.86,
+            0.0,
+            69.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24\u201426.] See on Matt. xii. 43."
+        ],
+        "Marvin Vincent": [
+            "By satyrs in these two passages are meant goblins shaped like goats, which were sacrificed to by some of the Israelites.",
+            "A remnant of the Egyptian worship of Mendes or Pan, who, under the figure of a goat, was worshipped by the Egyptians as the fertilizing principle in nature.",
+            "The reference is to a popular superstition that Lilith, Adam 's first wife, forsook him and became a demon which murdered young children and haunted desert places."
+        ],
+        "Archibald T. Robertson": [
+            "And finding none (\u03ba\u03b1 \u03bc\u03b7 \u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03bf\u03bd). Here Matthew 12:43 has \u03ba\u03b1 \u03bf\u03c5\u03c7 \u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03b5 (present active indicative instead of present active participle).",
+            "Instead of just 'taketh' (\u03c0\u03b1\u03c1\u03b1\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03b5) in verse Luke 11:26, Matthew has 'taketh with himself' (\u03c0\u03b1\u03c1\u03b1\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03b5 \u03bc\u03b5\u03b8' \u03b5\u03b1\u03c5\u03c4\u03bf\u03c5).",
+            "The seven demons brought back remind one of the seven that afflicted Mary Magdalene (Luke 8:2)."
+        ],
+        "John Gill": [
+            "When the unclean spirit is gone out of a man,.... That is, the devil, who is in, and works in the children of disobedience, whether under a profession of religion or not.",
+            "He walketh through dry places;...whither Satan might go, being disturbed in Judea, through the many dispossessions by Christ.",
+            "He saith, I will return unto my house, whence I came out; to the Jews again, who were blinded and filled with rage and enmity to the Gospel by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When an unclean spirit is expelled from a person, it wanders aimlessly, searching for a new place to reside. This spirit seeks to bring chaos and destruction, much like the goat-shaped goblins that were worshipped in Egyptian culture. In its wanderings, the unclean spirit finds no rest and decides to return to its previous home. This spirit can be likened to Lilith, the demonic figure who left Adam and became a child-murdering demon haunting deserted areas. Just as a person who has expelled the unclean spirit must be vigilant in preventing its return, so too must one guard against the return of darkness and evil in their life, for once expelled, these forces will seek to re-enter.",
+            "wordCount": 120,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.2233693953360283,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.02,
+            "commentatorTierSimilarities": [
+                28.78,
+                0.0,
+                71.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When an unclean spirit is expelled, it aimlessly wanders, seeking a new dwelling place. This spirit is comparable to the goat-shaped goblins worshipped by the Egyptians and even to Lilith, Adam's first wife who became a child-murdering demon haunting deserted areas. It finds no rest and decides to return to its previous home. Just as one must remain vigilant after the expulsion of an unclean spirit, so one must guard against the re-entry of darkness and evil in their life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.1169438491696102,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.48,
+            "commentatorTierSimilarities": [
+                28.8,
+                0.0,
+                71.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When an unclean spirit is expelled from a person, it wanders aimlessly, seeking a new dwelling place. This spirit is akin to the goat-shaped goblins worshipped by the Egyptians and even Lilith, Adam's first wife who turned into a child-murdering demon. Unable to find rest, the spirit decides to return to its previous home. Just as one must be vigilant after expelling such a spirit, it is essential to guard against the re-entry of darkness and evil into one's life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.1313686828847582,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.96,
+            "commentatorTierSimilarities": [
+                28.88,
+                0.0,
+                71.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When an unclean spirit is expelled from a person, it seeks a new dwelling place but finds no rest, much like the goat-shaped goblins worshipped by the Egyptians or Lilith, Adam's first wife turned demon. Unable to find solace, the spirit decides to return to its former home. This teaches us the importance of remaining vigilant against darkness and evil, for once expelled, these forces will try to re-enter our lives.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.14896724249739,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.55,
+            "commentatorTierSimilarities": [
+                30.86,
+                0.0,
+                69.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When an unclean spirit is expelled, it aimlessly wanders, seeking a new dwelling place. This spirit is comparable to the goat-shaped goblins worshipped by the Egyptians and even to Lilith, Adam's first wife who became a child-murdering demon haunting deserted areas. It finds no rest and decides to return to its previous home. Just as one must remain vigilant after the expulsion of an unclean spirit, so one must guard against the re-entry of darkness and evil in their life.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.1169438491696102,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.48,
+            "commentatorTierSimilarities": [
+                28.8,
+                0.0,
+                71.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

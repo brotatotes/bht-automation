@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:27:27",
+    "verseRef": "Acts 7:22",
+    "bestBHT": {
+        "bht": "Moses, instructed in the wisdom of the Egyptians, was mighty in both words and deeds. Despite his lack of eloquence, his words carried weight and power. His education prepared him to reason with the wise and effectively communicate with Pharaoh. Though initially deficient in speech, God transformed his limitations into fervent eloquence. Moses, like Paul, was a man of both learning and action, equipped to fulfill his role as a leader and teacher.",
+        "wordCount": 73,
+        "quoteTokenProportion": 27.45,
+        "qualityScore": 1.8755477268384597,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+        "commentatorTierSimilarities": [
+            34.25,
+            34.81,
+            30.95
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word 'learned,' in our A.V. here, is used in its older meaning of 'taught,' as in the Prayer-book version of the Ps. cxix. 66, 'Learn me true understanding and knowledge.'\" ",
+            "That Moses was instructed in the wisdom of the Egyptians, is not found in the Old Testament, but derived from tradition, and following as a matter of course from his adopted station as the son of Pharaoh\u2019s daughter.",
+            "This wisdom of the Egyptians, celebrated by so many ancient writers, consisted mainly in natural philosophy, medicine, and mathematics,\u2014and its teachers were the priests."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "mighty in words\u2014Though defective in utterance (Exodus 4:10); his recorded speeches fully bear out what is here said.",
+            "and deeds\u2014referring probably to unrecorded circumstances in his early life.",
+            "If we are to believe JOSEPHUS, his ability was acknowledged ere he left Egypt."
+        ],
+        "Albert Barnes": [
+            "The passage does not express the fact that Moses was distinguished for 'learning,' but that he was carefully 'educated,' or that pains were taken to make him learned.",
+            "Their learning is not infrequently spoken of in the Scriptures.",
+            "When it is said that he was mighty in words, it means that he was mighty in his communications to Pharaoh, though they were spoken by his brother Aaron."
+        ],
+        "John Calvin": [
+            "But the end itself is so wonderful, that we are enforced to confess that all these things were governed by singular counsel and order to set forth the glory of God.",
+            "Surely this was excellent modesty, in that he which could reason with learned and witty men of the secrets of nature, doth not only omit higher subtleties, but doth also descend unto the common capacity of every most simple man, and doth, in a common style, set forth unto men unlearned those things which they perceive by experience.",
+            "Stephen\u2019s meaning is, therefore, that Moses was furnished with rare gifts, so that they did all confess that he was a singular man."
+        ],
+        "Philip Schaff": [
+            "Do not we see how Cyprian came laden out of Egypt with much gold and silver and raiment Cyprian, that most persuasive of teachers, that most blessed martyr; how, too, similarly laden, came out Lactantius, Victorinus, Optatus, Hilarius, not to speak of living men?\" ",
+            "Augustine, by his mention thus of these famous Christian teachers, all deeply learned, shows how highly he estimates what is termed profane learning in the training of the teachers of the Gospel.",
+            "He was evidently distrustful of his own powers, but God turned this slowness of speech into the most fervid eloquence, of which we possess many instances in his great and stirring life."
+        ],
+        "Archibald T. Robertson": [
+            "The priestly caste in Egypt was noted for their knowledge of science, astronomy, medicine, and mathematics.",
+            "Moses, like Paul, was a man of the schools.",
+            "Moses did not have the rhetorical skill or eloquence of Aaron (Exodus 4:10), but his words like his deeds carried weight and power."
+        ],
+        "John Gill": [
+            "And Moses was learned in all the wisdom of the Egyptians... which was reckoned very considerable.",
+            "He was a man of great abilities, and fit for business both in the cabinet and in the field.",
+            "In which his prudence and fortitude were highly commended."
+        ],
+        "John Wesley": [
+            "In all the wisdom of the Egyptians \u2014 Which was then celebrated in all the world, and for many ages after.",
+            "And mighty in words \u2014 Deep, solid, weighty, though not of a ready utterance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Moses, acclaimed for his wisdom and learning, was taught in the ways of the Egyptians, known for their expertise in natural philosophy and mathematics, and it is said that his ability was recognized even before he left Egypt. Although Moses lacked eloquence and speech, his words and deeds carried great strength and power. Despite his early deficiencies, God transformed his slowness of speech into fervent eloquence. Moses, like Paul, was a man of both learning and action, capable of reasoning with the wise and communicating effectively with Pharaoh. His education in the wisdom of the Egyptians equipped him to fulfill his role as a leader and teacher of the Israelites.",
+            "wordCount": 110,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 2.021756204665996,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.56,
+            "commentatorTierSimilarities": [
+                36.18,
+                35.13,
+                28.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moses, taught in the wisdom of the Egyptians, possessed great knowledge and understanding. Though he lacked eloquence, his words carried weight and power. His education equipped him as a man of both learning and action, able to reason with the wise and effectively communicate with Pharaoh. Despite his initial deficiencies, God transformed his slowness of speech into fervent eloquence. Moses, like Paul, was a leader and teacher, capable of fulfilling his role with wisdom and authority.",
+            "wordCount": 76,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.8567147701819342,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.08,
+            "commentatorTierSimilarities": [
+                34.03,
+                35.57,
+                30.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses, instructed in the wisdom of the Egyptians, was mighty in both words and deeds. Despite his lack of eloquence, his words carried weight and power. His education prepared him to reason with the wise and effectively communicate with Pharaoh. Though initially deficient in speech, God transformed his limitations into fervent eloquence. Moses, like Paul, was a man of both learning and action, equipped to fulfill his role as a leader and teacher.",
+            "wordCount": 73,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.8755477268384597,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                34.25,
+                34.81,
+                30.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses, educated in the wisdom of the Egyptians, possessed great knowledge, being mighty in both words and deeds. While he lacked eloquence, his words still carried substantial weight and power. Despite his initial deficiencies, God transformed his slowness of speech into fervent eloquence, enabling him to effectively communicate and lead. Moses, like Paul, was a man of both learning and action, capable of reasoning with the wise. His education equipped him for his role as a leader and teacher, showcasing impressive wisdom and authority.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.8169175841132787,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.75,
+            "commentatorTierSimilarities": [
+                32.28,
+                35.53,
+                32.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses, instructed in the wisdom of the Egyptians, possessed great knowledge and understanding. Although lacking eloquence, his words carried weight and power. God transformed his slowness of speech into fervent eloquence. Moses, like Paul, was a man of both learning and action, capable of reasoning with the wise and communicating effectively with Pharaoh. His education equipped him as a leader and teacher, showcasing impressive wisdom and authority in fulfilling his role.",
+            "wordCount": 71,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.7857607209578905,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                34.09,
+                35.2,
+                30.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

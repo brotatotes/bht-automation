@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:06:33",
+    "verseRef": "1 Corinthians 7:11",
+    "bestBHT": {
+        "bht": "If a woman separates from her husband, she must not enter into a new marriage, but instead seek reconciliation with her husband. The sanctity of the marriage tie must be upheld and the sin of divorce should not be compounded by entering into another union. The only exception to this is if the separation was due to sexual immorality. The command to reconcile and live in peace applies to both parties, as the goal is to restore harmony and maintain the sacredness of the marital bond.",
+        "wordCount": 86,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 2.304531648534188,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.97,
+        "commentatorTierSimilarities": [
+            28.92,
+            40.32,
+            30.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If such have really taken place, the additional sin of a new marriage must not be committed, but the breach healed as soon as possible.\"  ",
+            "The rule, not the exception, here was in his mind.\"  ",
+            "After what had been before said on the subject of fornication, the latter would be understood as a matter of course."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If the sin of separation has been committed, that of a new marriage is not to be added.",
+            "Be reconciled by appeasing her husband's displeasure, and recovering his good will.",
+            "In Matthew 5:32 the only exception allowed is, 'saving for the cause of fornication.'"
+        ],
+        "Albert Barnes": [
+            "The marriage tie was so sacred that it could not be dissolved by the will of either party.",
+            "It is evident that this rule is still binding, and that no one who has separated from her husband, whatever be the cause, unless there be a regular divorce, according to the law of Christ, can be at liberty to marry again.",
+            "The marriage tie was to be regarded as sacred; and the tyranny of man over woman was to cease."
+        ],
+        "John Calvin": [
+            "Marriage is not dissolved by divorces or dissensions of that nature. For it is an agreement that is consecrated by the name of God, which does not stand or fall according to the inclination of men, so as to be made void whenever we may choose.",
+            "Those who are connected by marriage are no longer free, so as to be at liberty, if they change their mind, to break in pieces the pledge and go each of them elsewhere in quest of a new connection.",
+            "God having prescribed lawful marriage as a remedy for our incontinency, let us make use of it, that we may not, by tempting him, pay the penalty of our rashness."
+        ],
+        "Philip Schaff": [
+            "The case here supposed is that of such disagreement between Christian husband and wife as induces the wife, in spite of the prohibition, to leave her husband.\" ",
+            "In this case she must either get reconciled to her husband which is best or remain single.",
+            "If she departs, let her remain unmarried, or else be reconciled to her husband."
+        ],
+        "Archibald T. Robertson": [
+            "Let her remain unmarried. Paul here makes no allowance for remarriage of the innocent party as Jesus does by implication.",
+            "Or else be reconciled to her husband. One of Paul's great words for reconciliation with God.",
+            "This is also part of the Lord's command. \u0391\u03c0\u03bf\u03bb\u03c5\u03c9 occurs in Mark of the husband's act and \u03b1\u03c6\u03b9\u03b5\u03bd\u03b1 here, both meaning to send away."
+        ],
+        "John Gill": [
+            "She ought not to marry another man; her departure does not make the marriage void; nor is it to be made void by any difference between them, either on religious or civil accounts, only in case of adultery.\" ",
+            "If she has given the offence, and is the cause of the separation, she ought to acknowledge it, and ask forgiveness of her husband, and return to him and live in peace with him.\" ",
+            "If the fault is on his side, she ought to make use of all proper methods to convince him of it, bring him into good temper, forgive any injury done her, and live peaceably and comfortably together."
+        ],
+        "John Wesley": [
+            "But if she depart \u2014 Contrary to this express prohibition.",
+            "And let not the husband put away his wife \u2014 Except for the cause of adultery."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If a woman separates from her husband, she must not enter into a new marriage, but instead seek reconciliation with her husband. The sanctity of the marriage tie must be upheld and the sin of divorce should not be compounded by entering into another union. The only exception to this is if the separation was due to sexual immorality. The command to reconcile and live in peace applies to both parties, as the goal is to restore harmony and maintain the sacredness of the marital bond. It is crucial to understand that marriage is not to be dissolved at will, but rather treated as a covenant consecrated by God.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 2.294093300792496,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.62,
+            "commentatorTierSimilarities": [
+                28.71,
+                40.37,
+                30.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a woman separates from her husband, she must not enter into a new marriage, but instead seek reconciliation with her husband. The sanctity of the marriage tie must be upheld and the sin of divorce should not be compounded by entering into another union. The only exception to this is if the separation was due to sexual immorality. The command to reconcile and live in peace applies to both parties, as the goal is to restore harmony and maintain the sacredness of the marital bond.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.304531648534188,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.97,
+            "commentatorTierSimilarities": [
+                28.92,
+                40.32,
+                30.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If a woman separates from her husband, it is crucial for her not to enter into a new marriage but instead focus on seeking reconciliation with her husband. The sanctity of the marriage bond should be honored, and the sin of divorce should not be further compounded by entering into another union. The only exception to this is if the separation was due to sexual immorality. Both parties have a responsibility to reconcile and live in peace, as the ultimate aim is to restore harmony and uphold the sacredness of the marital relationship.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.258000703885724,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.42,
+            "commentatorTierSimilarities": [
+                29.33,
+                39.34,
+                31.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If a woman separates from her husband, it is important for her not to rush into a new marriage but instead focus on reconciling with her husband. The sanctity of the marriage bond should be respected, and the sin of divorce should not be compounded by entering into another union. The exception to this is if the separation was due to sexual immorality. Both parties are responsible for seeking reconciliation and restoring harmony in order to preserve the sacred nature of marriage.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.2615772431546075,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.54,
+            "commentatorTierSimilarities": [
+                28.74,
+                39.96,
+                31.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If a woman separates from her husband, it is crucial for her not to enter into a new marriage, but rather seek reconciliation with her husband. The sanctity of the marriage bond should be upheld, and the sin of divorce should not be compounded by entering into another union. The goal is to restore harmony and maintain the sacredness of the marital bond. Reconciliation and forgiveness are key, both for the party who committed the offense and for the one who was wronged.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.109024593269381,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.47,
+            "commentatorTierSimilarities": [
+                27.74,
+                40.25,
+                32.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

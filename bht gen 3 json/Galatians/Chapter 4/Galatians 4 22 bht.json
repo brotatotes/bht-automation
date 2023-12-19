@@ -1,0 +1,148 @@
+{
+    "timestamp": "12-19-2023 14:18:53",
+    "verseRef": "Galatians 4:22",
+    "bestBHT": {
+        "bht": "Your determination to be under the law is opposed by Scripture, if you will understand it: the bondmaid, representing Hagar, and the free woman, representing Sarah. Abraham had two sons - Ishmael, the son of Hagar, and Isaac, the son of Sarah. The bondmaid, Hagar, symbolizes a well-known character, while the free woman, Sarah, signifies freedom and liberty. Let us know, then, that the true meaning of Scripture is the natural and obvious meaning, and let us embrace and abide by it resolutely, for it is written in Genesis 16:15 and Genesis 21:2.",
+        "wordCount": 91,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.9674986190883468,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+        "commentatorTierSimilarities": [
+            18.48,
+            39.89,
+            41.63
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "22.] For answers to a tacit assumption of a negative answer to the foregoing question\u2014 \u2018nay, ye do not: for,\u2019&c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "22. (Genesis 16:3-16;",
+            "\tGenesis 21:2). ",
+            "\t",
+            "Abraham\u2014whose sons ye",
+            "\twish to be (compare Genesis 21:2- :). ",
+            "\t",
+            "a bond maid . . . a free",
+            "\twoman\u2014rather, as Greek, \"the bond maid . . . the",
+            "\tfree woman."
+        ],
+        "Albert Barnes": [
+            "Abraham had two sons - Ishmael and Isaac.",
+            "The one by a bond-maid - Ishmael, the son of Hagar.",
+            "The other by a free woman - Isaac, the son of Sarah."
+        ],
+        "Marvin Vincent": [
+            "Your determination to be under the law is opposed by Scripture, if you will understand it.\" ",
+            "The bondmaid, indicating a well known character, Hagar.",
+            "The word in Class. means also a free maiden; but in N. T. always a slave."
+        ],
+        "John Calvin": [
+            "No man who has a choice given him will be so mad as to despise freedom, and prefer slavery.",
+            "Let us know, then, that the true meaning of Scripture is the natural and obvious meaning; and let us embrace and abide by it resolutely.",
+            "Paul adduces the history, as containing a figurative representation of the two covenants in the two wives of Abraham, and of the two nations in his two sons."
+        ],
+        "Philip Schaff": [
+            "The \u2018bondmaid\u2019 is Hagar, the \u2018freewoman\u2019 is Sarah.",
+            "The Mohammedans are in their religion genuine Ishmaelites, bastard Jews, and wild sons of the desert, whose hands are against every man.",
+            "It is remarkable how the relation of Ishmael to Abraham has been perpetuated in history."
+        ],
+        "Archibald T. Robertson": [
+            "From Genesis 16:1.",
+            "Feminine diminutive of \u03c0\u03b1\u03b9\u03c2.",
+            "Common word for damsel which came to be used for female slave or maidservant."
+        ],
+        "John Gill": [
+            "For it is written,.... In Genesis 16:15",
+            "These two sons were Ishmael and Isaac: the one by a bondmaid.",
+            "The other by a free woman. Isaac was by Sarah, Abraham's proper and lawful wife... as under the liberty thereof."
+        ],
+        "John Wesley": [
+            "Genesis 21:2,9."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Your determination to be under the law is opposed by Scripture, if you will understand it: the bondmaid, representing Hagar, and the free woman, representing Sarah. Abraham had two sons - Ishmael, the son of Hagar, and Isaac, the son of Sarah. The bondmaid, Hagar, symbolizes a well-known character, while the free woman, Sarah, signifies freedom and liberty. Let us know, then, that the true meaning of Scripture is the natural and obvious meaning, and let us embrace and abide by it resolutely, for it is written in Genesis 16:15 and Genesis 21:2.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9674986190883468,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                18.48,
+                39.89,
+                41.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Your determination to be under the law is opposed by Scripture, if you will understand it: the bondmaid, representing Hagar, and the free woman, representing Sarah. Abraham had two sons - Ishmael, the son of Hagar, and Isaac, the son of Sarah. The bondmaid, Hagar, symbolizes a well-known character, while the free woman, Sarah, signifies freedom and liberty. Let us know, then, that the true meaning of Scripture is the natural and obvious meaning, and let us embrace and abide by it resolutely, for it is written in Genesis 16:15 and Genesis 21:2.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9674986190883468,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                18.48,
+                39.89,
+                41.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Galatians 4:22, the Apostle Paul uses the example of Abraham's two sons to refute the Galatians' desire to be under the law. The bondmaid, Hagar, represents a familiar figure associated with slavery, while the free woman, Sarah, represents freedom and liberty. Scripture opposes the Galatians' inclination towards legalism. It is essential to understand the natural and obvious meaning of Scripture and adhere to it, as shown in Genesis 16:15 and Genesis 21:2.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7898169730451023,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+            "commentatorTierSimilarities": [
+                23.48,
+                31.89,
+                44.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Your desire to be under the law is contradicted by Scripture, if you comprehend its meaning. The bondmaid represents a well-known character, Hagar, while the free woman symbolizes Sarah. Abraham had two sons - Ishmael, born to Hagar, and Isaac, born to Sarah. Hagar represents slavery, while Sarah represents freedom. We must embrace and abide by the natural and obvious meaning of Scripture, as written in Genesis 16:15 and Genesis 21:2.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9112490353637441,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.89,
+            "commentatorTierSimilarities": [
+                18.28,
+                43.28,
+                38.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Your desire to be under the law is opposed by Scripture if you understand it. The bondmaid, symbolizing Hagar, and the free woman, symbolizing Sarah, demonstrate the two sons of Abraham - Ishmael and Isaac. Hagar represents a well-known character associated with slavery, while Sarah represents freedom and liberty. To understand Scripture, we must rely on its natural and obvious meaning and adhere to it resolutely. This understanding is supported by Genesis 16:15 and Genesis 21:2.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.8346543808218323,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                21.01,
+                33.93,
+                45.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

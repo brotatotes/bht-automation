@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:39:47",
+    "verseRef": "1 Peter 4:2",
+    "bestBHT": {
+        "bht": "Believers are called to no longer live their lives driven by the sinful desires of men, but rather to be guided by the will of God, which holds even greater majesty by not being emphasized alongside human desires. The reference to the rest of your time in the flesh indicates that this instruction applies to believers, whose remaining time is limited for glorifying God. Through their union with Christ, believers have been set free from the influence of worldly desires and are now called to conform wholly to the will of God. This involves renouncing the covetings of men and dedicating their lives to living according to God's will. The standard for their conduct is to be God's will alone, which remains constant amidst the ever-changing and varied lusts of men. With the limited time they have left, believers are to strive to live soberly, righteously, and godly, with a conscience that is clear of offense towards both God and men. It is through this way of life that believers truly live, as they have been made alive in Christ.",
+        "wordCount": 183,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.1410098311355528,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+        "commentatorTierSimilarities": [
+            30.02,
+            37.69,
+            32.29
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "with a view... no longer by the lusts of men... but by the will of God\" ",
+            "men put forward for contemptuous emphasis, as opposed to God, which gains more majesty by not being thus put forward.",
+            "to live the rest of your time in the flesh"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That he (the believer, who has once for all obtained cessation from sin by suffering, in the person of Christ, namely, in virtue of his union with the crucified Christ) should no longer live the rest of his time in the flesh to the lusts of men, but to the will of God\" as his rule.\" ",
+            "Rest of his time in the flesh\" proves that the reference is here not to Christ, but to the believer, whose remaining time for glorifying God is short.",
+            "Live\" in the truest sense, for heretofore he was dead."
+        ],
+        "Albert Barnes": [
+            "He has become, through the death of Christ, dead to the world and to the former things which influenced him.\" ",
+            "The object of redemption is to rescue us from being swayed by wicked lusts.",
+            "To bring us to be conformed wholly to the will of God."
+        ],
+        "Marvin Vincent": [
+            "Live [\u03b2\u03b9\u03c9\u03c3\u03b1\u03b9] . Only here in New Testament. ",
+            "The rest of the time [\u03b5\u03c0\u03b9\u03bb\u03bf\u03b9\u03c0\u03bf\u03bd] . Only here in New Testament."
+        ],
+        "John Calvin": [
+            "He sets forth the way of ceasing from sin, that renouncing the covetings of men we should study to form our life according to the will of God.",
+            "The course of good living is thus to begin with the former, but we are to advance to the latter.",
+            "Nothing is right and well ordered in man\u2019s life as soon as he wanders from this rule."
+        ],
+        "Philip Schaff": [
+            "The \u2018lusts of men\u2019 and the \u2018will of God\u2019 are contrasted as two opposite services to which one\u2019s life may be dedicated",
+            "The \u2018lusts\u2019 which are various, and the \u2018will of God\u2019 which is one",
+            "Their standard is to be God\u2019s will"
+        ],
+        "Archibald T. Robertson": [
+            "That ye no longer should live (\u03b5\u03b9\u03c2 \u03c4\u03bf \u03bc\u03b7\u03ba\u03b5\u03c4 \u03b2\u03b9\u03c9\u03c3\u03b1).\" ",
+            "The rest of your time in the flesh (\u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03bb\u03bf\u03b9\u03c0\u03bf\u03bd \u03b5\u03bd \u03c3\u03b1\u03c1\u03ba \u03c7\u03c1\u03bf\u03bd\u03bf\u03bd).\" ",
+            "\u0395\u03c0\u03b9\u03bb\u03bf\u03b9\u03c0\u03bf\u03bd is old adjective (\u03b5\u03c0\u03b9, \u03bb\u03bf\u03b9\u03c0\u03bf\u03c2, remaining in addition), here only in N.T."
+        ],
+        "John Gill": [
+            "That a suffering saint after death is clear of sin",
+            "The remaining part of [life], be it longer or shorter, ought to be spent otherwise",
+            "To live soberly, righteously, and godly, to study to exercise a conscience void of offence towards God and men, and to suffer patiently for his name's sake, is to live to the will of God"
+        ],
+        "John Wesley": [
+            "That ye may no longer live in the flesh \u2014 Even in this mortal body.",
+            "To the desires of men \u2014 Either your own or those of others.",
+            "These are various; but the will of God is one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers are called to no longer live their lives driven by the sinful desires of men, but rather to be guided by the will of God, which holds even greater majesty by not being emphasized alongside human desires. The reference to the rest of your time in the flesh indicates that this instruction applies to believers, whose remaining time is limited for glorifying God. Through their union with Christ, believers have been set free from the influence of worldly desires and are now called to conform wholly to the will of God. This involves renouncing the covetings of men and dedicating their lives to living according to God's will. The standard for their conduct is to be God's will alone, which remains constant amidst the ever-changing and varied lusts of men. With the limited time they have left, believers are to strive to live soberly, righteously, and godly, with a conscience that is clear of offense towards both God and men. It is through this way of life that believers truly live, as they have been made alive in Christ.",
+            "wordCount": 183,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.1410098311355528,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                30.02,
+                37.69,
+                32.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are instructed to no longer be driven by the lusts of men, but to instead live according to the will of God, which gains even greater majesty without being contrasted with human desires. This applies to believers, whose remaining time for glorifying God is short. Through their union with Christ, believers are freed from worldly influences and called to conform to God's will. They are to renounce human covetings and dedicate their lives to living in obedience to God's unchanging will, despite the various and ever-changing lusts of men. They are to live soberly, righteously, and godly, with a clear conscience towards God and others. This way of life is what it truly means to live, as believers have been made alive in Christ.",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 2.0820155830768696,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+            "commentatorTierSimilarities": [
+                29.13,
+                39.08,
+                31.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are called to no longer live by the lusts of men, but by the will of God. This instruction is specifically addressed to believers and emphasizes the limited time they have left to glorify God. Through their union with Christ, believers are freed from the influence of worldly desires and are called to conform wholly to God's will. They are to renounce the covetousness of men and dedicate their lives to living in accordance with God's unchanging will, even amidst the various and ever-changing lusts of men. Living soberly, righteously, and godly, with a clear conscience towards God and others, is the true way of life for believers who have been made alive in Christ.",
+            "wordCount": 119,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1062288269044798,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                27.87,
+                40.72,
+                31.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are urged to no longer be driven by human desires, but to live in accordance with God's will. This admonition is specifically directed to believers who have a limited remaining time in the flesh to glorify God. Through their union with Christ, believers are liberated from worldly influences and are called to wholly conform to the unchanging will of God. They must renounce the covetousness of men and dedicate their lives to living in alignment with God's will, choosing to live soberly, righteously, and godly with a blameless conscience. This is the true way of life, reflecting their new life in Christ.",
+            "wordCount": 105,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 2.085483065554432,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                29.45,
+                38.93,
+                31.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are exhorted to no longer be controlled by the sinful cravings of humanity, but rather to align their lives with the will of God. This reminder is specifically addressed to believers, acknowledging their limited time left in this earthly existence to honor God. Through their union with Christ, believers are released from the grip of worldly desires and are called to fully submit to the unchanging will of God. They are to reject the covetous longings of humanity and instead dedicate their lives to living in obedience to God's will, steadfastly pursuing lives characterized by sobriety, righteousness, and godliness, while maintaining a conscience free from offense towards both God and fellow humans, as this is the essence of living to the will of God, the sole constant in contrast to the ever-varying and manifold lusts of humanity. This radical change in focus and lifestyle is the authentic way for believers to experience genuine life, having been spiritually revived in Christ.",
+            "wordCount": 163,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.9773763958690287,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.09,
+            "commentatorTierSimilarities": [
+                27.96,
+                40.53,
+                31.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

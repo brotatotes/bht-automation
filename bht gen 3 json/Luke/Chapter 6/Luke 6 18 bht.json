@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:15:43",
+    "verseRef": "Luke 6:18",
+    "bestBHT": {
+        "bht": "The people who were vexed (troubled, afflicted) by unclean spirits were not only tormented by physical and mental ailments, but also experienced spiritual turmoil. These unclean spirits, being impure and unholy, delighted in tormenting and inflicting painful and loathsome diseases on those who were affected. However, Jesus not only healed their physical ailments, but also freed them from the bondage of these demonic possessions. His miraculous healings were repeated as often as the people came to Him, demonstrating His power over both physical and spiritual afflictions.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.8300429605053006,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+        "commentatorTierSimilarities": [
+            17.87,
+            36.87,
+            45.27
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Vexed - The word 'vex' with us means to provoke, or irritate by petty provocations. Here it means, however, to 'afflict,' to 'torment' - denoting deep and heavy trials.",
+            "Unclean spirits - Demons that were impure and unholy, having a delight in tormenting, and in inflicting painful and loathsome diseases."
+        ],
+        "Marvin Vincent": [
+            "Vexed [\u03bf\u03c7\u03bb\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03b9] . The best texts read ejnocloumenoi, occurring only here and Hebrews 12:15. From oclov, a crowd or mob, with the idea of want of arrangement and discipline, and therefore of confusion and tumult.\" ",
+            "Hence it is applied to the noise and tumult of a crowd, and so passes into the sense of the trouble and annoyance caused by these, and of trouble generally, like the Latin turbae.\" ",
+            "Frequent in medical language. Thus Hippocrates, 'troubled [\u03b5\u03bd\u03bf\u03c7\u03bb\u03bf\u03c5\u03bc\u03b5\u03bd\u03c9] with a spasm or tetanus.'"
+        ],
+        "Archibald T. Robertson": [
+            "The healings were repeated as often as they came.",
+            "Note here both verbs, \u03b9\u03b1\u03bf\u03bc\u03b1 and \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c9, used of the miraculous cures of Jesus.",
+            "\u0398\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c9 is the verb more commonly employed of regular professional cures, but no such distinction is made here."
+        ],
+        "John Gill": [
+            "And they that were vexed with unclean spirits,.... Were possessed with devils, and sadly tormented and afflicted by them:",
+            "and they were healed: both such that had bodily diseases, and were under diabolical possessions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people who were vexed (troubled, afflicted) by unclean spirits were not only tormented by physical and mental ailments, but also experienced spiritual turmoil. These unclean spirits, being impure and unholy, delighted in tormenting and inflicting painful and loathsome diseases on those who were affected. However, Jesus not only healed their physical ailments, but also freed them from the bondage of these demonic possessions. His miraculous healings were repeated as often as the people came to Him, demonstrating His power over both physical and spiritual afflictions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.8300429605053006,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                17.87,
+                36.87,
+                45.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people who were vexed by unclean spirits experienced both physical and spiritual turmoil, as these demonic possessions caused deep affliction and torment. Jesus, through His miraculous healings, not only cured their physical diseases but also freed them from the bondage of these impure spirits. His power was evident as He repeatedly performed healings whenever they sought Him. This demonstrates that Jesus possesses authority over both the physical and spiritual realms, bringing relief and restoration to those who are troubled and afflicted.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.4799833635654576,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.55,
+            "commentatorTierSimilarities": [
+                18.63,
+                32.93,
+                48.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people who were vexed by unclean spirits were troubled, afflicted, and tormented by these impure and unholy beings. Their afflictions were not only physical but also spiritual in nature. Nevertheless, Jesus demonstrated His authority and power over both realms by repeatedly healing and delivering those who came to Him. Through His miraculous healings, Jesus provided relief and restoration, freeing the afflicted from the bondage of demonic possessions and bringing them physical and spiritual healing.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.4608050671435098,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+            "commentatorTierSimilarities": [
+                17.77,
+                32.82,
+                49.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who were vexed by unclean spirits experienced not only physical ailments but also deep and heavy trials, as these impure and unholy beings delighted in tormenting and inflicting painful diseases. However, Jesus, through His miraculous healings, not only cured their physical afflictions but also delivered them from the bondage of demonic possessions. His authority and power extended over both realms, providing relief and restoration to those who sought Him, and demonstrating His ability to bring healing to both the physical and spiritual aspects of their lives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.613850111926657,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.0,
+            "commentatorTierSimilarities": [
+                17.19,
+                37.21,
+                45.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who were vexed by unclean spirits experienced not only physical afflictions but also deep trials and torments. These impure and unholy beings delighted in tormenting and inflicting painful diseases. However, Jesus, through His miraculous healings, not only cured their physical afflictions but also freed them from the bondage of demonic possessions. His authority and power extended to both realms, demonstrating His ability to bring relief and restoration to those who sought Him, addressing both the physical and spiritual aspects of their suffering.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.7054807124601443,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                16.75,
+                39.23,
+                44.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

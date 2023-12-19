@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:15:49",
+    "verseRef": "Luke 6:29",
+    "bestBHT": {
+        "bht": "Endure violence with patience, refraining from retaliating in contempt. Offer the other cheek when struck, and allow your valuable garment to be taken without hindrance. Emulate Jesus' example by patiently enduring injuries and affronts, avoiding the desire for revenge. It is better to suffer more rather than succumbing to an un-Christian temper of retaliation.",
+        "wordCount": 55,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 1.3170539903764005,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.14,
+        "commentatorTierSimilarities": [
+            42.46,
+            0.0,
+            57.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The blow intended is not, therefore, a mere slap, but a heavy blow; an act of violence rather than of contempt.",
+            "Lit., taketh up, lifteth.",
+            "See on Matthew 5:40."
+        ],
+        "Archibald T. Robertson": [
+            "On the cheek (\u03b5\u03c0 \u03c4\u03b7\u03bd \u03c3\u03b9\u03b1\u03b3\u03bf\u03bd\u03b1). Matthew 5:39 has 'right.' Old word meaning jaw or jawbone, but in the N.T. only here and Matthew 5:39, which see for discussion. It seems an act of violence rather than contempt.\" ",
+            "Thy cloke (\u03c4\u03bf \u03b9\u03bc\u03b1\u03c4\u03b9\u03bf\u03bd), thy coat (\u03c4\u03bf\u03bd \u03c7\u03b9\u03c4\u03c9\u03bd\u03b1). Here the upper and more valuable garment (\u03b9\u03bc\u03b1\u03c4\u03b9\u03bf\u03bd) is first taken, the under and less valuable \u03c7\u03b9\u03c4\u03c9\u03bd last. In Matthew 5:40 the process (apparently a legal one) is reversed.\" ",
+            "Withhold not (\u03bc\u03b7 \u03ba\u03c9\u03bb\u03c5\u03c3\u03b7\u03b9\u03c2). Aorist subjunctive in prohibition against committing an act. Do not hinder him in his robbing. It is usually useless anyhow with modern armed bandits."
+        ],
+        "John Gill": [
+            "Christ teaches patience in bearing injuries and affronts, and not to seek private revenge...\" ",
+            "...rather, suffer more, than indulge such a temper...",
+            "...for the same purpose is what follows urged."
+        ],
+        "John Wesley": [
+            "To him that smiteth thee on the cheek \u2014 Taketh away thy cloak - These seem to be proverbial expressions, to signify an invasion of the tenderest points of honour and property.",
+            "Offer the other \u2014 Forbid not thy coat - That is, rather yield to his repeating the affront or injury, than gratify resentment in righting yourself; in any method not becoming Christian love.",
+            "Matthew 5:39."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When someone strikes you with a heavy blow, do not retaliate out of contempt. Instead, turn the other cheek and endure the violence with patience. The act of taking away your upper and more valuable garment and then your lower and less valuable one is not something to hinder or prevent. Rather, bear witness to Jesus' teaching of patience in the face of injuries and affronts, and do not seek revenge. Offer yourself willingly to further mistreatment, for it is better to suffer more than to indulge in an un-Christian temper of retaliation. (Luke 6:29)",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.2819037342879014,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.97,
+            "commentatorTierSimilarities": [
+                45.77,
+                0.0,
+                54.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When faced with violence, do not retaliate out of contempt, but endure it with patience. Take the blow intended and offer the other cheek. Allow your valuable garment to be taken, and do not hinder or prevent it. Instead, bear witness to Jesus' teaching of patience in the face of injuries and affronts, and do not seek revenge. It is better to suffer more than to indulge in an un-Christian temper of retaliation.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.2538072380659306,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.03,
+            "commentatorTierSimilarities": [
+                42.3,
+                0.0,
+                57.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When faced with violence, do not retaliate out of contempt, but endure it with patience. Take the heavy blow intended and offer the other cheek, allowing your valuable garment to be taken. Do not hinder or prevent it. Instead, bear witness to Jesus' teaching of patience in the face of injuries and affronts, and do not seek revenge. It is better to suffer more than to indulge in an un-Christian temper of retaliation.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.2300235377363538,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.24,
+            "commentatorTierSimilarities": [
+                42.31,
+                0.0,
+                57.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When confronted with violence, refrain from retaliating in contempt. Instead, exercise patience and offer the other cheek, even allowing your valuable garment to be taken. Do not hinder or prevent it; rather, embrace the example set by Jesus in patiently enduring injuries and affronts. Avoid seeking revenge and instead choose to suffer more if necessary, rather than giving in to a desire for retaliation that goes against the principles of Christian love.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.282545455001188,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.99,
+            "commentatorTierSimilarities": [
+                43.3,
+                0.0,
+                56.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Endure violence with patience, refraining from retaliating in contempt. Offer the other cheek when struck, and allow your valuable garment to be taken without hindrance. Emulate Jesus' example by patiently enduring injuries and affronts, avoiding the desire for revenge. It is better to suffer more rather than succumbing to an un-Christian temper of retaliation.",
+            "wordCount": 55,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.3170539903764005,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.14,
+            "commentatorTierSimilarities": [
+                42.46,
+                0.0,
+                57.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

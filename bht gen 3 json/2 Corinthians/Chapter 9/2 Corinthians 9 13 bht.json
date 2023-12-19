@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:17:37",
+    "verseRef": "2 Corinthians 9:13",
+    "bestBHT": {
+        "bht": "The recipients of the ministration glorify God through experiencing the substantial help yielded by it. The liberality of the contributors and their sincere obedience to the Gospel serve as a confession and declaration of agreement with Christ. By witnessing this collection, the brethren in Jerusalem acknowledge that Gentiles can be devoted Christians as well. The contributors' actions show their love for fellow believers, affirm their subjection to the Gospel, and bring glory to God while providing assistance to those in need.",
+        "wordCount": 81,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.9143145811151596,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+        "commentatorTierSimilarities": [
+            33.55,
+            34.41,
+            32.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "they (the recipients) glorifying God by means of the proof (i. e. the experience, tried reality\u2014the substantial help yielded by) of this (your) ministration\" ",
+            "your confession, you who confess Christ, is really and truly subject in holy obedience, as regards the gospel of Christ\" ",
+            "liberality of your contribution, unto them, and unto all men"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The experience\" [ELLICOTT and others]. Or, \"the experimental proof\" of your Christian character, afforded by \"this ministration.",
+            "Your subjection in accordance with your profession, in relation to the Gospel.",
+            "The liberality of your contribution in relation to them."
+        ],
+        "Albert Barnes": [
+            "They shall in this ministration have experience or proof of your Christian principle.",
+            "They will praise God as the source of your liberality, as having given you the means of being liberal, and having inclined your hearts to it.",
+            "One evidence of true subjection to the gospel; one proof that our profession is sincere and genuine, is a willingness to contribute to relieve the needs of the poor and afflicted friends of the Redeemer."
+        ],
+        "Marvin Vincent": [
+            "The fundamental idea is that of saying the same thing as another; while profess (pro forth, fateor to say) is to declare openly. Hence, to profess Christ is to declare Him publicly as our Lord : to confess Christ is to declare agreement with all that He says.",
+            "When Christ confesses His followers before the world, He makes a declaration in agreement with what is in His heart concerning them.",
+            "The two ideas run into each other, and the Rev. is right in the few cases in which it retains profess, since confess would be ambiguous."
+        ],
+        "John Calvin": [
+            "The term experiment here, as in a variety of other places, means proof or trial.",
+            "For it was a sufficient token for bringing the love of the Corinthians to the test, \u2014 that they were so liberal to brethren that were at a great distance from them.",
+            "For by such proofs we truly manifest that we are obedient to the doctrine of the gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Actions speak louder than words. The brethren in Jerusalem will know by this collection that Gentiles make as good Christians as Jews.",
+            "The nominative participle used independently like \u03c0\u03bb\u03bf\u03c5\u03c4\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf in verse 2 Corinthians 9:11.",
+            "Paul drives it home."
+        ],
+        "John Gill": [
+            "They glorify God; by giving thanks unto him, acknowledging him to be the author of all the grace and goodness which they, and others, were partakers of.",
+            "Subjection to [the Gospel of Christ] lies in a hearty receiving of the doctrines of it, and a cheerful submission to his ordinances.",
+            "True faith in the doctrine of grace, and a sincere obedience to it, are best declared and known by love to the saints; for faith works by love, both to Christ, and to his people."
+        ],
+        "John Wesley": [
+            "Your avowed subjection \u2014 Openly testified by your actions.",
+            "To all men \u2014 Who stand in need of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the recipients of a ministration glorifying God through the tangible proof of the help they received. This proof comes from the liberality of the contributors and their sincere obedience to the Gospel. Through their actions, the contributors demonstrate their agreement with Christ and proclaim Him openly as their Lord. The brethren in Jerusalem will witness this collection and see that Gentiles can be just as devoted Christians as Jews. By their generous contribution, the contributors manifest their love for fellow believers and affirm their subjection to the Gospel. Ultimately, their actions bring glory to God and provide help to those in need.",
+            "wordCount": 106,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.9526549687976837,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.27,
+            "commentatorTierSimilarities": [
+                31.01,
+                37.78,
+                31.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The recipients of the ministration glorify God through experiencing the substantial help yielded by it. The liberality of the contributors and their sincere obedience to the Gospel serve as a confession and declaration of agreement with Christ. By witnessing this collection, the brethren in Jerusalem acknowledge that Gentiles can be devoted Christians as well. The contributors' actions show their love for fellow believers, affirm their subjection to the Gospel, and bring glory to God while providing assistance to those in need.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9143145811151596,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                33.55,
+                34.41,
+                32.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The recipients of the ministration glorify God through experiencing the substantial help yielded by it. The liberality of the contributors and their sincere obedience to the Gospel serve as a confession and declaration of agreement with Christ. By witnessing this collection, the brethren in Jerusalem acknowledge that Gentiles can be devoted Christians as well. The contributors' actions show their love for fellow believers, affirm their subjection to the Gospel, and bring glory to God while providing assistance to those in need.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9143145811151596,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                33.55,
+                34.41,
+                32.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The recipients of the ministration glorify God through experiencing the substantial help yielded by it. The liberality of the contributors and their sincere obedience to the Gospel serve as a confession and declaration of agreement with Christ. By witnessing this collection, the brethren in Jerusalem acknowledge that Gentiles can be devoted Christians as well. The contributors' actions show their love for fellow believers, affirm their subjection to the Gospel, and bring glory to God while providing assistance to those in need.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9143145811151596,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                33.55,
+                34.41,
+                32.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The recipients of the ministration glorify God by experiencing the tried reality and substantial help it provides. The liberality of the contributors and their confession of Christ through obedience to the Gospel is evident in their generous contribution. By openly declaring their agreement with Christ and demonstrating their faith through actions of love and support for others, they showcase true subjection to the Gospel. Their collective effort brings praise to God and extends help to those in need.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.8885969965919018,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "commentatorTierSimilarities": [
+                31.11,
+                37.71,
+                31.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

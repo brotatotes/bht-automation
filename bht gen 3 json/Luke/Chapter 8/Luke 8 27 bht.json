@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:16:43",
+    "verseRef": "Luke 8:27",
+    "bestBHT": {
+        "bht": "The man in question did not come from the city, but from the tombs. His nakedness is a known symptom of his madness, and he had been possessed by demons for a considerable time. The fact that he lived in the tombs highlights his distressing state. Jesus displays his power in delivering him from the demonic forces that plagued him.",
+        "wordCount": 60,
+        "quoteTokenProportion": 41.86,
+        "qualityScore": 1.3683628555131184,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.84,
+        "commentatorTierSimilarities": [
+            26.84,
+            32.7,
+            40.46
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The man did not come from the city, but from the tombs.",
+            "Then indeed would the Evangelists be but poor witnesses to the truth, if they could consciously allow such a discrepancy to go forth.",
+            "The propensity to go entirely naked is a well-known symptom in certain kinds of raving madness."
+        ],
+        "Marvin Vincent": [
+            "Which had devils long time.",
+            "Long [\u03b9\u03ba\u03b1\u03bd\u03c9].",
+            "Tombs."
+        ],
+        "Philip Schaff": [
+            "A certain man out of the city, i.e., belonging to the city.",
+            "He did not come to meet them out of the city, but 'out of the tombs' (Matthew, Mark), his usual abode.",
+            "Had worn no clothes. Peculiar to Luke, but implied in Mark\u2019s account (Luke 5:15)."
+        ],
+        "Archibald T. Robertson": [
+            "The use of the associative instrumental case in expressions of time is a very old Greek idiom that still appears in the papyri.",
+            "Not pluperfect as English has it and not for the pluperfect, simply 'and for a long time he did not put on himself (indirect middle) any clothing.'",
+            "Imperfect active. Peculiar to Luke, though implied by the mention of tombs in all three (Mark 5:3; Matthew 8:28; Luke 8:27)."
+        ],
+        "John Gill": [
+            "which had been born and brought up, and had lived there; for certain it is, that he did not now come out of the city, but out of the tombs",
+            "which aggravates the miserable condition of this man, and illustrates the power of Christ in freeing him from them",
+            "and when any were put upon him, would tear them in pieces"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man in this verse came not from the city, but from the tombs. Some may question this discrepancy, but the Evangelists are faithful witnesses to the truth, and this detail highlights the man's deranged state. His tendency to be naked is a symptom of his madness, and he had been possessed by devils for a long time. He did not wear any clothing for an extended period, and his dwelling in the tombs shows the extent of his misery. Jesus' power is revealed as he sets the man free from these demonic forces.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4152692675286522,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.4,
+            "commentatorTierSimilarities": [
+                29.64,
+                32.79,
+                37.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man in this account did not come from the city, but from the tombs, which illustrates the power of Christ in freeing him from the devils that had possessed him for a long time. His propensity to go naked is a symptom of his raving madness, and his dwelling in the tombs suggests his miserable condition. The ability of Jesus to deliver him from these demonic forces is evident through this passage.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.3644598702849018,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.71,
+            "commentatorTierSimilarities": [
+                28.26,
+                27.49,
+                44.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man in this account did not come from the city, but from the tombs, illustrating the power of Christ in freeing him from the devils that had possessed him for a long time. His propensity to go naked is a symptom of his raving madness, and his dwelling in the tombs suggests his miserable condition. The ability of Jesus to deliver him from these demonic forces is evident.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.3374708142122547,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.81,
+            "commentatorTierSimilarities": [
+                29.04,
+                26.94,
+                44.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man in question did not come from the city, but from the tombs. His nakedness is a known symptom of his madness, and he had been possessed by demons for a considerable time. The fact that he lived in the tombs highlights his distressing state. Jesus displays his power in delivering him from the demonic forces that plagued him.",
+            "wordCount": 60,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.3683628555131184,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.84,
+            "commentatorTierSimilarities": [
+                26.84,
+                32.7,
+                40.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man in this account did not come from the city, but from the tombs, highlighting the power of Christ in freeing him from the devils that had possessed him for a long time. His propensity to go naked is a well-known symptom of his raving madness, and his dwelling in the tombs emphasizes his miserable condition. The ability of Jesus to deliver him from these demonic forces is evident, as witnessed by the Evangelists.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.3588180464144077,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.52,
+            "commentatorTierSimilarities": [
+                29.34,
+                28.2,
+                42.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

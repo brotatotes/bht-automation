@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:25:06",
+    "verseRef": "Acts 2:14",
+    "bestBHT": {
+        "bht": "Peter and the eleven separate themselves from the rest of the believers and deliver a solemn, yet earnest speech. Peter boldly addresses the crowd, appealing to their attention and assuring them that what they are witnessing is not drunkenness, but the long-awaited outpouring of the Holy Spirit. With courage and the power of the Spirit, Peter fearlessly proclaims the truth, aiming to convince the listeners, both Jews and those from Judea, of the truth and significance of the moment.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.095612597414231,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.02,
+        "commentatorTierSimilarities": [
+            29.32,
+            42.5,
+            28.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peter and the eleven come forward from the great body of believers.",
+            "And he distinguishes (by the word 'these' in ver. 15) not himself from the eleven, but himself and the eleven from the rest.",
+            "all ye that dwell at Jerusalem] the sojourners (ver. 5) from other parts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14-21. Peter, standing up with the",
+            "\televen\u2014in advance, perhaps, of the rest."
+        ],
+        "Albert Barnes": [
+            "No ridicule should deter Christians from an honest avowal of their opinions, and a defense of the operations of the Holy Spirit.",
+            "When the enemies of religion deride us or the gospel, we should answer them kindly and respectfully, yet firmly. We should reason with them coolly, and convince them of their error.",
+            "The design of Peter was to vindicate the conduct of the apostles from the reproach of intoxication; to show that this could be no other than the work of God; and to make an application of the truth to his hearers."
+        ],
+        "Marvin Vincent": [
+            "Standing up. Said. Hearken. Words.\" ",
+            "This most solemn, earnest, yet sober speech.\" ",
+            "Give ear."
+        ],
+        "John Calvin": [
+            "For they flee the light for shame. And surely so great is the filthiness of this vice, that for good causes it hateth the light.",
+            "Those which have but even small skill in antiquity do know that the civil day, from the rising of the sun until the going down thereof, was divided into twelve hours.",
+            "And whereas he upbraideth the fault of a few unto all, he doth it not to this end, that he may make them all guilty of the same fault; but because a fit occasion was offered by their mocking to teach them altogether, he doth not foreslow the same."
+        ],
+        "Philip Schaff": [
+            "What they heard was no effect of drunkenness, but the long prophesied outpouring of the Spirit.",
+            "The same Peter, for whom we had wept when denying Christ, is seen and admired preaching Him.",
+            "That tongue, which at the sound of one was driven to denial, now inspires many thousand enemies to confess Christ. This was the work of the Holy Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "This most solemn, earnest, yet sober speech\" (Bengel).",
+            "Peter did it to win and hold attention.",
+            "People's ears differ greatly, but in public speech they have to be reached through the ear."
+        ],
+        "John Gill": [
+            "Peter, as their mouth, stood 'in the midst' of them, with great courage, boldness, and intrepidity of mind.",
+            "Being endued with the Spirit from on high, he was fearless of men, who but a little while ago was frightened by a servant maid.",
+            "Be this known unto you, and hearken to my words."
+        ],
+        "John Wesley": [
+            "Then Peter standing up... lifted up his voice - With cheerfulness and boldness;\" ",
+            "This discourse has three parts; each of which... begins with the same appellation, men: only to the last part he prefixes with more familiarity the additional word brethren.\" ",
+            "Men of Judea \u2014 That is, ye that are born in Judea. St. Peter spoke in Hebrew, which they all understood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, along with the other apostles, steps forward to address the crowd of believers and distinguishes themselves from the rest. In this solemn and earnest speech, Peter appeals to the listeners in Jerusalem to give ear and listen. Despite previously denying Christ, Peter fearlessly proclaims the truth with the power of the Holy Spirit. He refutes the accusations of drunkenness, emphasizing that what they are witnessing is the fulfillment of prophecies and the work of the Holy Spirit. With great courage and boldness, Peter stands in the midst of the people, proclaiming his message to both Jews and those born in Judea. His intent is not to condemn all for the mocking of a few, but rather to use this opportunity to teach and convince them of the truth.",
+            "wordCount": 129,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 1.9171724194678834,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.09,
+            "commentatorTierSimilarities": [
+                26.23,
+                44.0,
+                29.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter and the eleven separate themselves from the rest of the believers and deliver a solemn, yet earnest speech. Peter boldly addresses the crowd, appealing to their attention and assuring them that what they are witnessing is not drunkenness, but the long-awaited outpouring of the Holy Spirit. With courage and the power of the Spirit, Peter fearlessly proclaims the truth, aiming to convince the listeners, both Jews and those from Judea, of the truth and significance of the moment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.095612597414231,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.02,
+            "commentatorTierSimilarities": [
+                29.32,
+                42.5,
+                28.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter and the eleven come forward to address the believers in Jerusalem, distinguishing themselves from the rest. In this most solemn and earnest speech, Peter calls on the people to hearken and give ear. With the power of the Holy Spirit, Peter fearlessly refutes the accusations of drunkenness and proclaims that what they are witnessing is the prophesied outpouring of the Spirit. Amidst the crowd, Peter stands boldly, delivering his message to both the Jews and those born in Judea, aiming to teach and convince them of the truth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.004961963417318,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.01,
+            "commentatorTierSimilarities": [
+                32.8,
+                37.76,
+                29.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, along with the other apostles, steps forward to address the crowd of believers and distinguishes themselves from the rest. In this solemn and earnest speech, Peter appeals to the listeners in Jerusalem to give ear and listen. Peter fearlessly proclaims the truth with the power of the Holy Spirit. He refutes the accusations of drunkenness, emphasizing that what they are witnessing is the fulfillment of prophecies and the work of the Holy Spirit. His intent is not to condemn all for the mocking of a few but rather to teach and convince them of the truth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9511730851979072,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
+            "commentatorTierSimilarities": [
+                28.03,
+                44.9,
+                27.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter and the other apostles distinguish themselves from the rest of the believers and deliver a solemn, earnest speech to the crowd in Jerusalem. With the power of the Holy Spirit, Peter fearlessly refutes the accusations of drunkenness and declares that what they are witnessing is the long-awaited outpouring of the Spirit. Standing boldly amidst the people, Peter aims to convince both the Jews and those born in Judea of the truth and significance of this momentous occasion.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.001780988560461,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.9,
+            "commentatorTierSimilarities": [
+                29.08,
+                42.39,
+                28.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

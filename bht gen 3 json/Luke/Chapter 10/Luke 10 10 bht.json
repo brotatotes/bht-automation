@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:17:23",
+    "verseRef": "Luke 10:10",
+    "bestBHT": {
+        "bht": "As you go about spreading the message of peace, look for those who are open and receptive to it. Leave behind the inhospitable houses and take your message to the broad open streets where it can reach a wider audience. Proclaim it loudly and boldly, making sure everyone hears.",
+        "wordCount": 49,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.2732397571342864,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.68,
+        "commentatorTierSimilarities": [
+            48.64,
+            0.0,
+            51.36
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "10. son of peace\u2014inwardly",
+            "\tprepared to embrace your message of peace. See note on \"worthy,",
+            "\t(see on :-)."
+        ],
+        "Archibald T. Robertson": [
+            "Into the streets thereof (\u03b5\u03b9\u03c2 \u03c4\u03b1\u03c2 \u03c0\u03bb\u03b1\u03c4\u03b5\u03b9\u03b1\u03c2 \u03b1\u03c5\u03c4\u03b7\u03c2). Out of the inhospitable houses into the broad open streets. "
+        ],
+        "John Gill": [
+            "Go your ways out into the streets of the same.\" ",
+            "Cast the dust off your feet into the streets of it.",
+            "Say aloud, in the most public manner, in the ears of all the people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As you go about spreading the message of peace, look for those who are open and receptive to it. Leave behind the inhospitable houses and take your message to the broad open streets where it can reach a wider audience. Proclaim it loudly and boldly, making sure everyone hears.",
+            "wordCount": 49,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2732397571342864,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.68,
+            "commentatorTierSimilarities": [
+                48.64,
+                0.0,
+                51.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the disciples were sent out to spread the message of peace, they were to seek out those who were receptive, the sons of peace. These individuals were inwardly prepared to embrace the message with open hearts. As they went about their mission, they were to enter the streets, leaving behind the inhospitable houses, and proclaim the message in the public spaces. It was important to make their message known to all, casting off any dust from their feet as a sign of their public proclamation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 0.9909754321347122,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.29,
+            "commentatorTierSimilarities": [
+                51.68,
+                0.0,
+                48.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the disciples were sent out, they were instructed to look for those who were open to receiving their message of peace, the sons of peace. These individuals were ready to embrace the disciples' teachings. The disciples were to leave behind unwelcome houses and take their message to the streets, making it known to all. It was crucial to proclaim their message publicly and clearly, ensuring that everyone heard it. They were to cast the dust off their feet as a symbolic gesture of their public proclamation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 0.8618526792960328,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.0,
+            "commentatorTierSimilarities": [
+                45.17,
+                0.0,
+                54.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the disciples were sent out, they were instructed to seek those who were open to receiving the message of peace, the sons of peace, prepared to embrace it with open hearts. To fulfill this mission, they were to enter the streets, leaving behind inhospitable houses, and publicly proclaim the message to all. Casting off the dust from their feet symbolized the public nature of their proclamation, ensuring that everyone had the opportunity to hear and respond to the message.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.0674313222315124,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.84,
+            "commentatorTierSimilarities": [
+                51.62,
+                0.0,
+                48.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were to seek out the sons of peace, those who were inwardly prepared to receive and embrace the message of peace. They were to enter the streets, leaving behind inhospitable houses, and proclaim the message publicly to all. By casting the dust off their feet, they would demonstrate their public proclamation of the message, making it known to everyone. It was important for the disciples to ensure that their message reached the ears of all the people in the most public manner possible.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.103857924894583,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.05,
+            "commentatorTierSimilarities": [
+                45.34,
+                0.0,
+                54.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

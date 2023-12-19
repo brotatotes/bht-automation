@@ -1,0 +1,87 @@
+{
+    "timestamp": "12-19-2023 16:01:08",
+    "verseRef": "Romans 4:15",
+    "bestBHT": {
+        "bht": "The law brings about God's wrath because it reveals transgressions and does not offer grace or promise of inheritance. In the absence of the law, there would be no transgression or responsibility for violating a non-existent law. The law stirs up man's wrath against God, but it cannot be the basis for God's promise. It condemns sinners, filling them with the fear of God's wrath. Therefore, the promise is not by the law, but by faith, as the law only works wrath and cannot bring grace.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.702341601891751,
+        "qualityScoreNormalizedComparedToV2BHTs": 81.19,
+        "commentatorTierSimilarities": [
+            30.51,
+            34.26,
+            35.23
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For the law worketh wrath, which from its nature excludes promise, which is an of grace\u2014and faith, which is an attribute of confidence.",
+            "No promise of inheritance can be by the law, because the property of the law the more it is promulgated, to reveal transgression more\u2014not to unfold grace.",
+            "If we conceive a state in which the law should he altogether absent, whether written or unwritten, there would be no transgression whatever."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Because the law worketh wrath\u2014has nothing to give to those who break is but condemnation and vengeance.",
+            "For where there is no law, there is no transgression\u2014It is just the law that makes transgression, in the case of those who break it; nor can the one exist without the other."
+        ],
+        "Albert Barnes": [
+            "The Law of God, demanding perfect purity, and denouncing every sin condemns the sinner, and consigns him to punishment.",
+            "Law is a rule of conduct. If no such rule is given and known, there can be no crime.",
+            "Since human nature was depraved, and people were prone to sin, the more just and reasonable the laws, the less hope was there of being justified by the Law, and the more certainty was there that the Law would produce wrath and condemnation."
+        ],
+        "John Calvin": [
+            "For the law causeth wrath, etc. [...] as the law generates nothing but vengeance, it cannot bring grace.",
+            "By wrath, understand God\u2019s judgment, which meaning it has everywhere.",
+            "The reasoning seems to be this, \u2014 'The promise is by faith, and not by the law; for the law brings wrath or condemnation: but where there is no law, there is no transgression to occasion wrath.'"
+        ],
+        "Philip Schaff": [
+            "The law does, indeed, stir up the wrath of man against God... but the train of thought in that chapter is distinct from that found here.\" ",
+            "Because the law brings about wrath, it cannot be the ground of promise.",
+            "Where there is a law, there is transgression of it, thus producing a more pronounced form of sin, upon which God\u2019s wrath is visited; thus the law 'works wrath.'"
+        ],
+        "Archibald T. Robertson": [
+            "Worketh wrath (\u03bf\u03c1\u03b3\u03b7\u03bd \u03ba\u03b1\u03c4\u03b5\u03c1\u03b3\u03b1\u03b6\u03b5\u03c4\u03b1). Because of disobedience to it.",
+            "Neither is there transgression (\u03bf\u03c5\u03b4\u03b5 \u03c0\u03b1\u03c1\u03b1\u03b2\u03b1\u03c3\u03b9\u03c2). There is no responsibility for the violation of a non-existent law. "
+        ],
+        "John Gill": [
+            "Not the wrath of man, though that is sometimes stirred up through the prohibitions of the law, to which the carnal mind of man is enmity, but the wrath of God.",
+            "The law is so far from justifying sinners, that it curses and condemns them; and when it comes into the heart and is let into the conscience of a sinner, it fills with terrible apprehensions of the wrath of God.",
+            "Where there is no law, there is no knowledge of any transgression; and so the Ethiopic version reads the words, 'if the law had not come, there would have been none who would have known sin'; but the law is come, and there is a law by which is the knowledge of sin, and therefore no man can be justified by it; since that convinces him of sin, and fills him with a sense of divine wrath on account of it."
+        ],
+        "John Wesley": [
+            "Because the law...only worketh wrath; it becomes to us an occasion of wrath, and exposes us to punishment as transgressors.",
+            "Where there is no law in force, there can be no transgression of it.",
+            "Considered apart from that grace, which though it was in fact mingled with it, yet is no part of the legal dispensation, is so difficult, and we so weak and sinful, that...it only worketh wrath."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "The law brings about God's wrath because it reveals transgressions and does not offer grace or promise of inheritance. In the absence of the law, there would be no transgression or responsibility for violating a non-existent law. The law stirs up man's wrath against God, but it cannot be the basis for God's promise. It condemns sinners, filling them with the fear of God's wrath. Therefore, the promise is not by the law, but by faith, as the law only works wrath and cannot bring grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.702341601891751,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.19,
+            "commentatorTierSimilarities": [
+                30.51,
+                34.26,
+                35.23
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

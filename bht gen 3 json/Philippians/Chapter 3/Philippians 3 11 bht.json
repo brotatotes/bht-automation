@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 13:56:10",
+    "verseRef": "Philippians 3:11",
+    "bestBHT": {
+        "bht": "Paul, in his letter to the Philippians, humbly acknowledges the need for continued effort in his faith journey, even after his accomplishments. The phrase resurrection from the dead assures believers of their future resurrection in Christ, emphasizing their confidence and assurance. Paul desires to fully partake in the honor and glory of this resurrection, aspiring to be among those who belong to Christ upon His return. His words exemplify the perseverance and earnestness required for a genuine and transformative faith.",
+        "wordCount": 80,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.0464247721910334,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+        "commentatorTierSimilarities": [
+            27.87,
+            33.64,
+            38.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "After all this,\" says Chrysostom, \"he is not yet confident.",
+            "I fear lest having preached to others, I myself may become a castaway.",
+            "It does not signify 'live until,' as some maintain."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not implying uncertainty of the issue, but the earnestness of the struggle of faith.",
+            "The power of Christ's resurrection ensures the believer's attainment of the 'resurrection from the (rest of the) dead'.",
+            "The resurrection of the just."
+        ],
+        "Albert Barnes": [
+            "Implying, that he meant to make use of the most strenuous exertions to obtain the object.",
+            "The doctrine of the resurrection was, in his view, that which distinguished the true religion, and which made it of such inestimable value.",
+            "He sought to participate in the full honor and glory of such a resurrection."
+        ],
+        "Marvin Vincent": [
+            "Not an expression of doubt, but of humility.",
+            "The phrase resurrection of or from the dead does not often occur in the Gospels, and resurrection ejk from the dead only twice in the New Testament, Acts 4:2; 1 Peter 1:3.",
+            "Resurrection from the dead, in the only two passages where it occurs, signifies resurrection unto life."
+        ],
+        "Philip Schaff": [
+            "This is not the language of despondency, but of humility.",
+            "By the 'resurrection from the dead,' he means that resurrection in which the righteous will have share.",
+            "He desires to feel a confidence beyond this, and to attain to be among those who shall be Christ's at His coming."
+        ],
+        "Archibald T. Robertson": [
+            "Not an expression of doubt, but of humility.",
+            "Apparently Paul is thinking here only of the resurrection of believers out from the dead.",
+            "Paul is not denying a general resurrection by this language, but emphasizing that of believers."
+        ],
+        "John Gill": [
+            "Not in a figurative sense, the resurrection from the death of sin to a life of grace.",
+            "But in a literal sense and designs not the general resurrection of the just and unjust.",
+            "It denotes the difficulty of attaining it, since through various afflictions and great tribulations a believer must pass, before he comes to it."
+        ],
+        "John Wesley": [
+            "The resurrection of the dead \u2014 That is, the resurrection to glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in his letter to the Philippians, expresses his unwavering dedication to the pursuit of Christ. Despite all that he has achieved and accomplished, he remains humble and acknowledges the need for continued effort in his faith journey. The phrase resurrection from the dead is not meant as a statement of doubt, but rather emphasizes the believers' assurance and confidence in the future resurrection in Christ. Paul is not excluding the general resurrection, but highlighting the specific resurrection of believers. He longs to fully partake in the honor and glory of this resurrection, desiring to be among those who belong to Christ when He returns. Ultimately, his words reflect the earnestness and perseverance in pursuing a genuine and transformative faith.",
+            "wordCount": 120,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 2.074374133106705,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.31,
+            "commentatorTierSimilarities": [
+                29.58,
+                32.12,
+                38.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, in his letter to the Philippians, remains humble and dedicated in his pursuit of Christ. Despite his achievements, he acknowledges the need for continued effort in his faith journey. The phrase resurrection from the dead is not a sign of doubt, but rather highlights the believers' assurance and confidence in the future resurrection. He longs to partake in the honor and glory of this resurrection, desiring to be counted among those who belong to Christ when He returns. His words reflect the perseverance and earnestness in pursuing a genuine and transformative faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.979283361746567,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                28.63,
+                33.83,
+                37.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, in his letter to the Philippians, humbly acknowledges the need for continued effort in his faith journey, even after his accomplishments. The phrase resurrection from the dead assures believers of their future resurrection in Christ, emphasizing their confidence and assurance. Paul desires to fully partake in the honor and glory of this resurrection, aspiring to be among those who belong to Christ upon His return. His words exemplify the perseverance and earnestness required for a genuine and transformative faith.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0464247721910334,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+            "commentatorTierSimilarities": [
+                27.87,
+                33.64,
+                38.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in his letter to the Philippians, remains humble and dedicated in his pursuit of Christ. Despite his achievements, he acknowledges the need for continued effort in his faith journey. The phrase resurrection from the dead assures believers of their future resurrection in Christ, emphasizing their confidence and assurance. Paul desires to fully partake in the honor and glory of this resurrection, aspiring to be among those who belong to Christ upon His return. His words reflect the perseverance and earnestness in pursuing a genuine and transformative faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.9475347700664796,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                28.1,
+                34.43,
+                37.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in his letter to the Philippians, humbly acknowledges the need for continued effort in his faith journey. The phrase resurrection from the dead assures believers of their future resurrection in Christ, highlighting their confidence and assurance. Paul desires to partake fully in the honor and glory of this resurrection, aspiring to be among those who belong to Christ upon His return. His words reflect the perseverance and earnestness required for a genuine and transformative faith.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.042567314892173,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.26,
+            "commentatorTierSimilarities": [
+                27.71,
+                33.24,
+                39.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

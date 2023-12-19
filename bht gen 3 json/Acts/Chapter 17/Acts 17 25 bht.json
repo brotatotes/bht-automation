@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:33:08",
+    "verseRef": "Acts 17:25",
+    "bestBHT": {
+        "bht": "The Deity, the Creator and Preserver of all, does not truly need anything from us. He is not dependent on us for His happiness or gain. The God Paul was preaching is the source of life, breath, and everything. Our worship and offerings cannot add anything to His essential glory and happiness. This concept of God's self-sufficiency would have shed light on the minds of candid heathens. The Epicureans missed this truth by placing God outside the universe, while Paul surpasses all Greek philosophers in proclaiming the truth about the Supreme Personal God.",
+        "wordCount": 95,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 2.0125342883173003,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+        "commentatorTierSimilarities": [
+            29.78,
+            36.93,
+            33.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "is served: i.e. is really and truly served.",
+            "the Deity does not stand in need of us, nor can gain aught from us.",
+            "He is the Preserver, as well as the Creator, of all; and all things come to us from Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No less familiar as this thought also is to us, even from the earliest times of the Old Testament, it would pour a flood of light upon any candid heathen mind that heard it.\" ",
+            "The Giver of all cannot surely be dependent for aught upon the receivers of all.\" ",
+            "This is the culminating point of a pure Theism."
+        ],
+        "Albert Barnes": [
+            "Paul affirms that the great Creator of all things cannot be thus dependent on his creatures for happiness, and consequently, that that mode of worship must be highly absurd.",
+            "He is the source of life, and therefore he cannot be dependent on that life which he has himself imparted.",
+            "There can be no more absolute dependence than that for every breath. How easy it would be for God to suspend our breathing!"
+        ],
+        "Marvin Vincent": [
+            "Is worshipped [\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03b5\u03c4\u03b1\u03b9] . Incorrect. Rendel; as Rev., served. Luke often uses the word in the sense of to heal or cure; but this is its primary sense.",
+            "It refers to the clothing of the images of the gods in splendid garments, and bringing them costly gifts and offerings of food and drink.",
+            "As though he needed [\u03c0\u03c1\u03bf\u03c3\u03b4\u03b5\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2] . Properly, 'needed anything in addition [\u03c0\u03c1\u03bf\u03c2] to what he already has.'"
+        ],
+        "John Calvin": [
+            "But we may readily answer, that the faithful did never properly place the worship of God in ceremonies; but they did only count them helps wherewith they might exercise themselves according to their infirmity.",
+            "And God himself saith plainly in many places, that he doth not pass for any external or visible thing, that ceremonies are of themselves of no importance, and that he is worshipped no otherwise but by faith, a pure conscience, by prayer and thankfulness.",
+            "Therefore, because all mortal men, from the highest to the lowest, do think that God is pacified with external things, and they will, with their own works, fulfill their duty towards him, that doth Paul refute."
+        ],
+        "Philip Schaff": [
+            "The men of the heathen world loved to spend their wealth on the adornment of the temples of the gods, to whom also they brought costly offerings of food and drink, as though these imaginary eternal beings needed such things.",
+            "Paul\u2019s words were the outcome of a mind steeped in the often-repeated reminders and reproaches of the prophets, that the God of Israel was not to be worshipped with sacrifice and incense, but with a pure, noble life.",
+            "The God Paul was preaching to them not merely was the All-Creator but also the All-Preserver. Their very breath, by means of which from minute to minute each mortal lived, was His gift."
+        ],
+        "Archibald T. Robertson": [
+            "This self-sufficiency of God was taught by Philo and Lucretius, but Paul shows that the Epicurean missed it by putting God, if existing at all, outside the universe.",
+            "Seeing he himself giveth to all. This Supreme Personal God is the source of life, breath, and everything.",
+            "Paul here rises above all Greek philosophers."
+        ],
+        "John Gill": [
+            "Men by worshipping God do not give anything to him, that can be of any use or service to him; he, being God all sufficient, stands in need of nothing.",
+            "Whether it be with external worship or with the worship of the heart, nothing is given to God, as adding anything to his essential glory and happiness.",
+            "He that gives them all things, cannot want anything himself, nor receive anything at their hands."
+        ],
+        "John Wesley": [
+            "Neither is he served as though he needed any thing \u2014 or person - The Greek word equally takes in both.",
+            "To all \u2014 That live and breathe;-in him we live; and breathe - In him we move.",
+            "I breathe this moment: the next is not in my power: and all things - For in him we are."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that the Deity, the Creator and Preserver of all, does not truly need anything from us. We cannot add to His glory or happiness through our worship or offerings. This concept of God's self-sufficiency, although familiar to those who follow the Old Testament, would have been enlightening for a candid heathen to hear. The Greek philosophers, including the Epicureans, failed to grasp this truth by placing God outside the universe. Paul rises above all these philosophers to proclaim that the Supreme Personal God is the source of life, breath, and everything.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.0575512313047204,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.75,
+            "commentatorTierSimilarities": [
+                30.78,
+                36.05,
+                33.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Deity, being the Creator and Preserver of all, does not truly need anything from us. Our worship and offerings cannot add to His glory or happiness. This concept, though known from the Old Testament, would have been enlightening to heathens. The self-sufficiency of God was missed by the Greek philosophers, including the Epicureans, who placed God outside the universe. Paul rises above them to proclaim that the Supreme Personal God is the source of life, breath, and everything.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0038597891809147,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.97,
+            "commentatorTierSimilarities": [
+                32.0,
+                35.25,
+                32.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Deity, the Creator and Preserver of all, does not truly need anything from us. He is not dependent on us for His happiness or gain. The God Paul was preaching is the source of life, breath, and everything. Our worship and offerings cannot add anything to His essential glory and happiness. This concept of God's self-sufficiency would have shed light on the minds of candid heathens. The Epicureans missed this truth by placing God outside the universe, while Paul surpasses all Greek philosophers in proclaiming the truth about the Supreme Personal God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.0125342883173003,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                29.78,
+                36.93,
+                33.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Deity, the Creator and Preserver of all, does not need anything from us. He is not dependent on us for gain or happiness. Our worship and offerings cannot add to His glory or happiness. The self-sufficiency of God would have enlightened the minds of the candid heathens who heard Paul's message. The Epicureans failed to grasp this truth by separating God from the universe. Paul surpasses all Greek philosophers in proclaiming that the Supreme Personal God is the source of life, breath, and everything.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9696755981125125,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                30.1,
+                35.98,
+                33.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Deity, the true and only God, does not rely on us for anything, as He is the Creator and Preserver of all things. He needs nothing from us as He is completely self-sufficient. Our worship and offerings do not add anything to His essential glory and happiness. The candid heathen mind, unfamiliar with this thought, would be illuminated upon hearing it. The Epicureans erred in placing God outside the universe, while Paul rises above all Greek philosophers by proclaiming that the Supreme Personal God is the source of life, breath, and everything.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.9771294671971056,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+            "commentatorTierSimilarities": [
+                30.22,
+                33.75,
+                36.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

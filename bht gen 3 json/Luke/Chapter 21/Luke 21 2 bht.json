@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:22:22",
+    "verseRef": "Luke 21:2",
+    "bestBHT": {
+        "bht": "A widow in the story gives two mites, the smallest Jewish coin, as an offering. While others may have disregarded it due to its insignificance, Jesus recognizes and values the faith and love behind her act of giving. Her poverty does not diminish the worth of her service; in fact, it emphasizes the sacrificial nature of her offering. The widow's two mites, though seemingly small, hold great significance in the eyes of God.",
+        "wordCount": 74,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.1529693335407345,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.68,
+        "commentatorTierSimilarities": [
+            33.58,
+            0.0,
+            66.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "2. two mites\u2014\"which make",
+            "\ta farthing\" (Mark 12:42),",
+            "\tthe smallest Jewish coin. \"She might have kept one",
+            "\t[BENGEL]."
+        ],
+        "Marvin Vincent": [
+            "Poor. See on Matthew 5:3. ",
+            "Mites. See on Mark 12:42."
+        ],
+        "Archibald T. Robertson": [
+            "A rare word from \u03c0\u03b5\u03bd\u03b7\u03c2 (\u03c0\u03b5\u03bd\u03bf\u03bc\u03b1, to work for one's living).",
+            "And Luke uses this adjective also of her in verse Luke 21:3.",
+            "Latin penuria and Greek \u03c0\u03b5\u03b9\u03bd\u03b1\u03c9, to be hungry are kin to it."
+        ],
+        "John Gill": [
+            "The poor, and the widow, are regarded by him, and are his care; nor are their mean services, done in faith, and from a principle of love, despised by him, but preferred to the greater services of others, where faith and love are wanting.",
+            "Casting in thither two mites; the value of a farthing.",
+            "The Persic version renders it, 'two bottoms of yarn'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A widow in Luke 21:2 offers two mites, the smallest Jewish coin, into the temple treasury. This act of giving was significant because she could have kept one. The rich might not have noticed such a small offering, but Jesus pays attention to the faith and love behind it. The widow's poverty does not diminish the worth of her service, rather, it highlights her sacrificial giving. Her two mites hold immense value in the eyes of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.053519491290169,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.37,
+            "commentatorTierSimilarities": [
+                34.66,
+                0.0,
+                65.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A widow in the story gives two mites, the smallest Jewish coin, as an offering. While others may have disregarded it due to its insignificance, Jesus recognizes and values the faith and love behind her act of giving. Her poverty does not diminish the worth of her service; in fact, it emphasizes the sacrificial nature of her offering. The widow's two mites, though seemingly small, hold great significance in the eyes of God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.1529693335407345,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.68,
+            "commentatorTierSimilarities": [
+                33.58,
+                0.0,
+                66.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Luke 21, a poor widow donates two mites, the smallest Jewish coin, into the temple treasury. Although her offering may have seemed insignificant to others, Jesus pays attention to the faith and love behind it. He values her sacrificial act, privileging the sincerity of her service over the greater offerings of others lacking faith and love. The widow's two mites hold immense worth in the eyes of God, highlighting the recognition and care that He has for the poor and vulnerable.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.117640058946096,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.51,
+            "commentatorTierSimilarities": [
+                33.64,
+                0.0,
+                66.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the story, a poor widow offers two mites, the smallest Jewish coin, as a donation. Although seemingly insignificant, Jesus appreciates the faith and love behind her act. He values her sacrifice, choosing it over greater offerings from those lacking faith and love. The widow's two mites hold immense worth in God's eyes, emphasizing His concern for the poor. Her sincere service is not overlooked, but rather, esteemed by Jesus.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.0707871959146762,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.95,
+            "commentatorTierSimilarities": [
+                32.76,
+                0.0,
+                67.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Luke 21, a widow gives two mites, the smallest Jewish coin, as an offering. Jesus takes notice of her sacrifice, valuing the faith and love displayed through her act. While others might disregard such a small donation, Jesus esteems it, considering it more significant than the larger offerings made without faith and love. This highlights God's care for the poor and vulnerable, recognizing the worth of their humble and sincere service. The widow's two mites hold great value in God's sight.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.114003719539089,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.38,
+            "commentatorTierSimilarities": [
+                32.66,
+                0.0,
+                67.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

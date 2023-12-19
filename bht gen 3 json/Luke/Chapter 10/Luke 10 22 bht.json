@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:17:37",
+    "verseRef": "Luke 10:22",
+    "bestBHT": {
+        "bht": "Jesus asserts His authority as the Son, acknowledging that all things are entrusted to Him by the Father. This declaration reveals a deep connection and mutual knowledge between Jesus and God, highlighting the Messianic consciousness and unwavering confidence Jesus possesses in fulfilling His divine purpose. The depiction in the Fourth Gospel mirrors this ancient understanding of Christ, epitomizing the inseparability between the Father and Son. Their profound unity and Jesus' divine revelation are foundational to the promised conquest of the world and the manifestation of God's wisdom and goodness.",
+        "wordCount": 90,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.5157398875119008,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+        "commentatorTierSimilarities": [
+            22.36,
+            46.53,
+            31.11
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Are delivered [\u03c0\u03b1\u03c1\u03b5\u03b4\u03bf\u03b6\u03b7] . See on Matthew 11:27."
+        ],
+        "Philip Schaff": [
+            "The future conquest of the world by Jesus and His disciples rests on the relation which He sustains to God, and with which He identifies His people.\" ",
+            "The perfect knowledge of God is, in the end, the sceptre of the universe."
+        ],
+        "Archibald T. Robertson": [
+            "No sane criticism can get rid of this Johannine bit in these Gospels written long before the Fourth Gospel was composed.",
+            "We are dealing here with the oldest known document about Christ (the Logia) and the picture is that drawn in the Fourth Gospel.",
+            "Here is the Messianic consciousness in complete control and with perfect confidence in the outcome."
+        ],
+        "John Gill": [
+            "All things are delivered to me of my Father...",
+            "...no man knoweth who the Son is...",
+            "...and he to whom the Son will reveal him..."
+        ],
+        "John Wesley": [
+            "Who the Son is \u2014 Essentially one with the Father: who the Father is - How great, how wise, how good!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 10:22, Jesus proclaims, All things have been delivered to me by my Father, and no one knows who the Son is except the Father, or who the Father is except the Son and anyone to whom the Son chooses to reveal him. This verse showcases a profound and mystical understanding of Jesus' relationship with God. It reveals the Messianic consciousness and the perfect confidence Jesus possesses in His divine mission. In this oldest known document about Christ, we witness the same picture drawn in the Fourth Gospel, emphasizing the inseparable unity between the Father and the Son. Jesus holds the future conquest of the world in His hands and the knowledge of God becomes the ultimate sceptre of the entire universe.",
+            "wordCount": 122,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.5949292223518725,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                23.27,
+                45.82,
+                30.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus confidently proclaims that all things have been entrusted to Him by the Father, highlighting a profound understanding of His relationship with God. This intimate connection between the Father and the Son is depicted in the oldest known document about Christ, and resonates with the depiction in the Fourth Gospel. Such a Messianic consciousness reveals Jesus' assurance in the fulfillment of His divine purpose. The future conquest of the world hinges upon this unique bond, emphasizing the supreme knowledge of God as the ultimate authority over the universe.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4727784803794057,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.31,
+            "commentatorTierSimilarities": [
+                20.87,
+                50.74,
+                28.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' declaration in this passage encapsulates the deep bond between Him and the Father. All things are entrusted to Him by His Father, and only the Father truly knows the Son, and vice versa. This intimate relationship and knowledge reflect Jesus' Messianic awareness and unwavering confidence in His divine mission. This profound understanding is consistent with the portrayal of Jesus in the Fourth Gospel, highlighting the inseparable unity between the Father and the Son. It is through this connection that the future triumph of Jesus and His disciples is assured.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.475859929920578,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.42,
+            "commentatorTierSimilarities": [
+                23.21,
+                40.28,
+                36.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus asserts His authority as the Son, acknowledging that all things are entrusted to Him by the Father. This declaration reveals a deep connection and mutual knowledge between Jesus and God, highlighting the Messianic consciousness and unwavering confidence Jesus possesses in fulfilling His divine purpose. The depiction in the Fourth Gospel mirrors this ancient understanding of Christ, epitomizing the inseparability between the Father and Son. Their profound unity and Jesus' divine revelation are foundational to the promised conquest of the world and the manifestation of God's wisdom and goodness.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.5157398875119008,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "commentatorTierSimilarities": [
+                22.36,
+                46.53,
+                31.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this profound statement, Jesus claims that everything has been entrusted to Him by the Father. The unique relationship between the Father and the Son is highlighted, where only the Father truly knows the Son and vice versa. Jesus' perfect understanding of God and His role as the Son is essential for the fulfillment of His Messianic mission. This portrayal aligns with the depiction in the Fourth Gospel, emphasizing the inseparable unity between the Father and the Son. The future conquest of the world depends on this transcendent connection and Jesus' revelation of the Father.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.4794324149276303,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.53,
+            "commentatorTierSimilarities": [
+                18.71,
+                39.27,
+                42.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

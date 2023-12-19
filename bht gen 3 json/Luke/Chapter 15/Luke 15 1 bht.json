@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:20:00",
+    "verseRef": "Luke 15:1",
+    "bestBHT": {
+        "bht": "Coming from the husks of a life of sin, the publicans and sinners, drawn by the extraordinary adaptation of Jesus' teaching to their case, found hope and redemption in Him. They were the outcasts, believing that no one cared for their souls until Jesus appeared. The publicans, seen as infamous, were put on the same level as the sinners. In that particular place, many of them were struck with penitence and came to listen to Jesus preach, seeking solace and forgiveness.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.6310011013981542,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+        "commentatorTierSimilarities": [
+            29.48,
+            29.99,
+            40.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Having come from the husks of a life of sin, to the bread of life.",
+            "Struck perhaps with penitence, found by His seeking them.",
+            "All the publicans, a general term, admitting of course of exceptions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "drawn around Him by the extraordinary adaptation of His teaching to their case\" ",
+            "who, till He appeared\u2014at least His forerunner\u2014might well say, 'No man careth for my soul.'",
+            "the extraordinary adaptation of His teaching to their case"
+        ],
+        "Albert Barnes": [
+            "Publicans and sinners - See the notes at Matthew 9:10."
+        ],
+        "Philip Schaff": [
+            "That the Pharisees also heard what He said appears from Luke 15:14.",
+            "This represents God, the Possessor of all things. To none other do men really stand in the relation of stewards.",
+            "He represents Christ\u2019s disciples, but especially then the publicans, who, being in many cases rich, needed such instruction."
+        ],
+        "Archibald T. Robertson": [
+            "The publicans are put on the same level with the outcasts or sinners.",
+            "The use of 'all' here may be hyperbole for very many or the reference may be to these two classes in the particular place where Jesus was from time to time.",
+            "Periphrastic imperfect of \u03b5\u03b3\u03b3\u03b9\u03b6\u03c9, from \u03b5\u03b3\u03b3\u03c5\u03c2 (near), late verb."
+        ],
+        "John Gill": [
+            "To 'Jesus', as the Persic and Ethiopic versions express it.",
+            "The Pharisee would not admit into his house, it being contrary to their traditions to eat, and drink, and converse with persons of such an infamous character.",
+            "These having heard much of him; and it may be, might be under some remorse of conscience on account of their vicious lives, came to hear him preach."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Coming from lives of sin, the publicans and sinners were drawn to Jesus, captivated by the extraordinary way He related to their struggles and needs. They were the outcasts, the ones who believed that no one cared for their souls, until Jesus appeared. His teaching was specifically tailored to their case, bringing them hope and redemption. The term all may be exaggerated, referring to a large number of publicans and outcasts in that particular place. These individuals, seen by society as unworthy and sinful, found solace in Jesus' presence and message of love and forgiveness.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.4956253238826045,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+            "commentatorTierSimilarities": [
+                28.75,
+                30.54,
+                40.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Coming from the husks of a life of sin, the publicans and sinners, drawn by the extraordinary adaptation of Jesus' teaching to their case, found hope and redemption in Him. They were the outcasts, believing that no one cared for their souls until Jesus appeared. The publicans, seen as infamous, were put on the same level as the sinners. In that particular place, many of them were struck with penitence and came to listen to Jesus preach, seeking solace and forgiveness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6310011013981542,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+            "commentatorTierSimilarities": [
+                29.48,
+                29.99,
+                40.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The publicans and sinners, previously leading lives of sin, were captivated by the extraordinary way Jesus related to their struggles. They found solace in His teaching, tailored specifically to their case, which brought them hope and redemption. Despite society's perception of them, Jesus put the publicans on the same level as the outcasts and sinners, recognizing their need for salvation. In that particular place, many of them were struck by penitence and came to hear Jesus preach, seeking forgiveness and a new beginning.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6115616512386772,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.93,
+            "commentatorTierSimilarities": [
+                27.75,
+                30.5,
+                41.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The publicans and sinners, having come from lives of sin, were drawn to Jesus by the extraordinary adaptation of His teaching to their case. Despite society's perception of them, Jesus treated the publicans and outcasts with the same level of care and importance. In that particular place, a large number of these individuals, struck by penitence and perhaps remorse of conscience, came to hear Jesus preach, seeking redemption. Jesus' message of love and forgiveness offered these souls the hope and solace they longed for.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.5942199164853825,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                26.07,
+                31.59,
+                42.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The publicans, perceived as infamous, and the sinners, considered outcasts, were captivated by the extraordinary way Jesus related to their struggles. They found solace in His teaching, specifically tailored to their case. In that particular place, a large number of them, struck by penitence and remorse of conscience, sought Jesus, recognizing the spiritual void in their lives. Jesus, demonstrating love and acceptance, provided them with hope and redemption, breaking societal norms and bridging the gap between the righteous and the fallen.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.4279285372428432,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.82,
+            "commentatorTierSimilarities": [
+                29.36,
+                25.7,
+                44.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

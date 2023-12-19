@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:24:07",
+    "verseRef": "Luke 24:17",
+    "bestBHT": {
+        "bht": "As Jesus approached the two disciples on the road, he noticed their earnest and sad conversation. They had been deeply affected by the death of Jesus and were discussing the overwhelming events that had transpired. Though they may have taken different views in their dispute, there was no blame implied. Jesus interrupted their discussion, curious about the subject that had so much affected their minds. Their conversation held a reverence for Jesus, as they navigated their grief and sought understanding on their journey.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.7113491081431842,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+        "commentatorTierSimilarities": [
+            31.21,
+            44.83,
+            23.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The term used by our Lord implies that they had been disputing with some earnestness: but there is no blame implied in the word.",
+            "Possibly, though both were sad, they may have taken different views.",
+            "In the answer of Cleopus we have that of the one who was most disposed to abandon all hope."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17-24. communications, &amp;c.\u2014The",
+            "\twords imply the earnest discussion that had appeared in their manner."
+        ],
+        "Albert Barnes": [
+            "What manner of communications ... - What is the subject of your conversation? What is it that has so much affected your minds?",
+            "They were deeply affected in the recollection of the death of Jesus; and, as became all Christians, they were conversing about him.",
+            "They were sad at the overwhelming events that had come upon them."
+        ],
+        "Marvin Vincent": [
+            "Discussed a doubt and tossed it to and fro\" (Tennyson).",
+            "And are sad\" - Only here and Matthew 6:16, on which see note.",
+            "And they stood still, looking sad."
+        ],
+        "John Calvin": [
+            "They had in their hearts a reverence for his doctrine, so that they were far from having any inclination to revolt.",
+            "The name of Christ was, at that time, so generally held in hatred and detestation, that it was not safe to speak of him respectfully.",
+            "Certain it is, that a little afterwards, he does not simply place Christ in the ordinary rank of prophets, but says that he and others believed him to be the redeemer."
+        ],
+        "Philip Schaff": [
+            "Some earnest disputing is meant, though no blame is implied.\" ",
+            "It suggests that the interruption was unwelcome.",
+            "A briefer reading gives: 'as ye walk (being) sad?'"
+        ],
+        "Archibald T. Robertson": [
+            "That you have with another (\u03bf\u03c5\u03c2 \u03b1\u03bd\u03c4\u03b9\u03b2\u03b1\u03bb\u03bb\u03b5\u03c4\u03b5 \u03c0\u03c1\u03bf\u03c2 \u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03c2). \u0391\u03bd\u03c4\u03b9-\u03b2\u03b1\u03bb\u03bb\u03c9 is an old verb and means to throw in turn, back and forth like a ball, from one to another, a beautiful picture of conversation as a game of words.",
+            "They stood still (\u03b5\u03c3\u03c4\u03b1\u03b8\u03b7\u03c3\u03b1\u03bd). First aorist passive of \u03b9\u03c3\u03c4\u03b7\u03bc, intransitive. They stopped.",
+            "Looking sad (\u03c3\u03ba\u03c5\u03b8\u03c1\u03c9\u03c0\u03bf). This is the correct text. It is an old adjective from \u03c3\u03ba\u03c5\u03b8\u03c1\u03bf\u03c2, gloomy and \u03bf\u03c0\u03c2, countenance. Only here in the N.T."
+        ],
+        "John Gill": [
+            "What manner of communications are these, that ye have one to another, as ye walk?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus approached the two disciples on the road to Emmaus, he noticed their earnest and sad conversation, in which they were discussing the events surrounding his death. The term used by Jesus implies that they had been engaging in a deep and intense discussion, possibly taking different viewpoints. Cleopas, in his response to Jesus, expressed the one who was most inclined to abandon hope. Their conversation signified the weight of their grief and sorrow, evident in their solemn countenances and their standing still. It is clear that Jesus interrupted their conversation with a sense of urgency, seeking to understand the subject that had deeply affected their minds.",
+            "wordCount": 108,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.6996319445179529,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.85,
+            "commentatorTierSimilarities": [
+                34.65,
+                39.65,
+                25.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus approached the two disciples on the way to Emmaus, he sensed the intensity and sadness in their conversation. Their earnest disputing and somber countenances revealed the weight of their grief over the events surrounding Jesus' death. Cleopas, particularly despondent, expressed his inclination to abandon hope. Jesus interrupted their discussion, eager to understand the subject that had deeply affected them. Their conversation held significant reverence for Jesus, hinting at their belief in him as the redeemer despite the prevailing hatred towards his name.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6399117121027766,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.87,
+            "commentatorTierSimilarities": [
+                33.19,
+                40.51,
+                26.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus approached the two disciples on the road, he noticed their earnest and sad conversation. They had been deeply affected by the death of Jesus and were discussing the overwhelming events that had transpired. Though they may have taken different views in their dispute, there was no blame implied. Jesus interrupted their discussion, curious about the subject that had so much affected their minds. Their conversation held a reverence for Jesus, as they navigated their grief and sought understanding on their journey.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7113491081431842,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                31.21,
+                44.83,
+                23.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Approaching the two disciples, Jesus observed their earnest and sad conversation, sensing their intense and heartfelt discourse. Although they may have held differing viewpoints, their discussion carried no blame. The disciples, deeply affected by the death of Jesus, contemplated the overwhelming events that had transpired. With curiosity, Jesus interrupted their conversation, desiring to understand the subject that had deeply affected their minds. Their respectful and reverent conversation reflected their belief in Jesus as the redeemer, despite the prevalent hatred surrounding his name.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.6101289561329577,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.88,
+            "commentatorTierSimilarities": [
+                31.31,
+                44.46,
+                24.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Drawing from the commentary, we see that Jesus approached two disciples who were engaged in an earnest and sad discussion. Their conversation carried no blame, implying the depth of their emotions rather than any fault. In the interruption, Jesus sought to understand the subject that had deeply affected them, displaying curiosity about their communique. The disciples' conversations held reverence for Jesus' teachings, as they grappled with grief and a longing for understanding. Their somber countenances painted a picture of their sorrow and despair.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6164856784357309,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.09,
+            "commentatorTierSimilarities": [
+                33.88,
+                41.83,
+                24.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

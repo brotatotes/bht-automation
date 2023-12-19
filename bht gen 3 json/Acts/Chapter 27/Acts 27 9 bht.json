@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:37:05",
+    "verseRef": "Acts 27:9",
+    "bestBHT": {
+        "bht": "The sailors had spent considerable time at the anchorage, knowing that the sailing season did not close until nearly mid-November. Although sailing was still safe, undertaking such a long voyage was risky. Paul, having previously urged them to winter where they were, was now sailing in the most dangerous and tempestuous time of the year. Despite his experience and warning, they proceeded on their perilous journey, losing everything except their lives.",
+        "wordCount": 72,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 2.1097249895614665,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+        "commentatorTierSimilarities": [
+            33.84,
+            37.68,
+            28.48
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The time was spent at the anchorage.\" ",
+            "Sailing was not unsafe so early as this, but to undertake so long a voyage, was.",
+            "The sailing season did not close so early; not indeed till nearly the middle of November."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Since leaving C\u00e6sarea. But for unforeseen delays they might have reached the Italian coast before the stormy season.\" ",
+            "That of the day of atonement, answering to the end of September and beginning of October, about which time the navigation is pronounced unsafe by writers of authority.\" ",
+            "Paul assisted at the consultation and strongly urged them to winter where they were."
+        ],
+        "Albert Barnes": [
+            "But they had been detained and embarrassed contrary to their expectation, so that they were now sailing in the most dangerous and tempestuous time of the year.",
+            "By the 'fast' here is evidently intended the fast which occurred among the Jews on the great day of atonement. That was on the tenth of the month Tisri, which answers to a part of September and part of October.",
+            "Paul exhorted, entreated, or persuaded them. He was somewhat accustomed to the navigation of that sea, and endeavored to persuade them not to risk the danger of sailing at that season of the year."
+        ],
+        "Marvin Vincent": [
+            "The Fast. The great day of atonement, called 'the Fast' by way of eminence.",
+            "It occurred about the end of September.",
+            "Navigation was considered unsafe from the beginning of November until the middle of March."
+        ],
+        "John Calvin": [
+            "He doth not only mean that the winds were contrary then, but also that the time of the year was not then commodious.",
+            "I think that this word was added by way of exposition, to note the end of harvest.",
+            "Though I am not of their mind who think that it was one of the four fasts which the Jews did appoint after the carrying away into Babylon."
+        ],
+        "Philip Schaff": [
+            "The further prosecution of the voyage being now dangerous.",
+            "What the old sailors especially dreaded, having no compass, was the absence of any power of making observations of the sun and stars.",
+            "Here we see the apostle, who at first was merely a despised and obscure prisoner, assuming a great position among the people on board the ship, and speaking with confidence on subjects concerning which he might naturally have been supposed to be ignorant."
+        ],
+        "Archibald T. Robertson": [
+            "Considerable time intervening.",
+            "And the voyage being already dangerous.",
+            "Fortunately no lives were lost, though all else was."
+        ],
+        "John Gill": [
+            "When sailing was now dangerous, because the fast was already past.",
+            "On that day they neither eat nor drink, nor do any work, neither do they wash, nor are they anointed, nor do they bind on their shoes, or make use of the marriage bed; nor do they read anything but sorrowful things.",
+            "About this time of the year the Pleiades set, which brings on tempestuous weather, and unfit for sailing."
+        ],
+        "John Wesley": [
+            "The fast, or day of atonement, was kept on the tenth of Tisri, that is, the 25th of September. This was to them an ill time of sailing.\" ",
+            "Even in external things, faith exerts itself with the greatest presence of mind, and readiness of advice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sailors had spent a considerable amount of time at the anchorage, and although it was still relatively early in the sailing season, it was not advisable to undertake such a long voyage. If they hadn't encountered unforeseen delays, they might have reached the Italian coast before the stormy season. Paul, who had experience in navigating those waters, strongly urged them to winter where they were, but they disregarded his advice. Unfortunately, the further they progressed in their dangerous voyage, the more apparent it became that they were risking their lives. Thankfully, they did not lose any lives, although they lost everything else.",
+            "wordCount": 104,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.8796407497109278,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                35.35,
+                39.35,
+                25.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sailors were anchored for a considerable amount of time, aware that sailing during this time was unsafe for such a long voyage. If not for the unforeseen delays, they might have reached their destination before the stormy season. Paul, although a despised prisoner, advocated for them to winter where they were, being familiar with the dangers of the sea. However, they disregarded his plea, resulting in a perilous journey where they lost everything except their lives.",
+            "wordCount": 77,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.9331968988337835,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.62,
+            "commentatorTierSimilarities": [
+                32.69,
+                40.63,
+                26.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sailors had spent considerable time at the anchorage, knowing that the sailing season did not close until nearly mid-November. Although sailing was still safe, undertaking such a long voyage was risky. Paul, having previously urged them to winter where they were, was now sailing in the most dangerous and tempestuous time of the year. Despite his experience and warning, they proceeded on their perilous journey, losing everything except their lives.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.1097249895614665,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+            "commentatorTierSimilarities": [
+                33.84,
+                37.68,
+                28.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sailors had spent considerable time at the anchorage, waiting for the right moment to depart. However, they were now sailing in the most dangerous time of the year, risking their lives on a perilous voyage. Paul, who had experience in navigating those waters, strongly urged them to winter where they were. Unfortunately, they disregarded his advice and continued on, resulting in the loss of everything but their lives.",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.8867667226153575,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                33.29,
+                40.04,
+                26.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sailors had spent considerable time at the anchorage, well aware that sailing at this time of year was risky. Paul, who had firsthand knowledge of navigating those waters, strongly urged them to stay where they were for the winter. However, they ignored his advice and embarked on the dangerous voyage. Ultimately, they lost everything except their lives.",
+            "wordCount": 58,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.7990665481155146,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                35.42,
+                39.08,
+                25.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

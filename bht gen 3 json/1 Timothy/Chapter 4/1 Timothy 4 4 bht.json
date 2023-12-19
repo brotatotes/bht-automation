@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:28:32",
+    "verseRef": "1 Timothy 4:4",
+    "bestBHT": {
+        "bht": "All things created by God are good and should be received with gratitude. The apostle refutes the Gnostic opposition to creation, where the impurity of meats is determined by an unthankful mind. The purpose of the apostle's teaching is to show that the goodness of creatures lies in their intended use and the spiritual state of the receiver, not in their physical characteristics. Therefore, believers should not reject or consider these creations of God as unclean, but instead freely enjoy them with a grateful heart.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.7381813627430436,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+        "commentatorTierSimilarities": [
+            22.39,
+            40.78,
+            36.83
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "A refutation by anticipation of the Gnostic opposition to creation: the seeds of which were now lurking latently in the Church.\" ",
+            "The old Gnostic heresy is now almost extinct; but its remains in the celibacy of Rome's priesthood, and in its fasts from animal meats, enjoined under the penalty of mortal sin, remain.\" ",
+            "Meats, though pure in themselves, become impure by being received with an unthankful mind."
+        ],
+        "Albert Barnes": [
+            "It does not mean that every moral agent remains good as long as he is 'a creature of God,' but moral agents, human beings and angels, were good as they were made at first.",
+            "But it should not be inferred that a thing which is poisonous in its nature is good for food, 'because' it is a creation of God. It is good only in its place, and for the ends for which he intended it.",
+            "The sense is, that as God made it, and for the purposes for which he designed it, it is not to be held to be evil; or, which is the same thing, it is not to be prohibited as if there were merit in abstaining from it."
+        ],
+        "Marvin Vincent": [
+            "Creature [\u03ba\u03c4\u03b9\u03c3\u03bc\u03b1] . Not in Paul.",
+            "A created thing.",
+            "Refused [\u03b1\u03c0\u03bf\u03b2\u03bb\u03b7\u03c4\u03bf\u03bd] . Lit. thrown away."
+        ],
+        "John Calvin": [
+            "For every creature of God is good... those things which come from the hand of God, and are intended for our use, are not unclean or polluted before God, but that we may freely eat them with regard to conscience.",
+            "The goodness of the creatures, which he mentions, has relation to men, and that not with regard to the body or to health, but to the consciences.",
+            "Creatures are not called pure, merely because they are the works of God, but because, through his kindness, they have been given to us; for we must always look at the appointment of God, both what he commands and what he forbids."
+        ],
+        "Philip Schaff": [
+            "The higher word (\u03ba\u03b1\u03bb\u03bf\u0301\u03bd, excellent, not \u1f00 \u03b3\u03b1\u03b8\u03cc\u03bd) is used in the Greek, as in the LXX. of Genesis 1:0, and with a manifest reference to that history.",
+            "The repetition of the clause ('with thanksgiving ') is striking, as showing how the apostle\u2019s mind recognised that it was the spiritual state of the receiver, not the physical characteristics of the thing received, that determined the lawfulness of the reception."
+        ],
+        "Archibald T. Robertson": [
+            "Creature. Late word from \u03ba\u03c4\u03b9\u03b6\u03c9, result of creating.\" ",
+            "To be rejected. Old verbal adjective in passive sense from \u03b1\u03c0\u03bf\u03b2\u03b1\u03bb\u03bb\u03c9, to throw away, here only in N.T.\" ",
+            "If it be received. 'Being received.' Present passive participle of \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9, in conditional sense, 'with thanksgiving.'"
+        ],
+        "John Gill": [
+            "For every creature of God is good,.... For food; and should be taken and used for that purpose, at all times, without distinction...\" ",
+            "...nothing to be refused; or rejected as common and unclean, or to be abstained from at certain times...\" ",
+            "...if it be received with thanksgiving..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All things created by God are inherently good and should be received with gratitude. The apostle refutes the Gnostic opposition to creation, emphasizing that while certain practices like the celibacy of Rome's priesthood and fasting from animal meats may remain, the pureness of these meats does not depend on abstinence but on the grateful mind with which they are received. The key factor lies not in the physical characteristics of the food but in the spiritual state of the receiver. It is important to understand that these creations of God are good in their intended purpose and should not be rejected or considered unclean. Instead, they should be freely enjoyed with a thankful heart.",
+            "wordCount": 115,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.558389760860196,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+            "commentatorTierSimilarities": [
+                20.93,
+                39.93,
+                39.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All things created by God are inherently good and should be received with gratitude. The apostle refutes the Gnostic opposition to creation, emphasizing that while certain practices like the celibacy of Rome's priesthood and fasting from animal meats may remain, the pureness of these meats does not depend on abstinence but on the grateful mind with which they are received. The key factor lies not in the physical characteristics of the food but in the spiritual state of the receiver. It is important to understand that these creations of God are good in their intended purpose and should not be rejected or considered unclean.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.6542002913951706,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.34,
+            "commentatorTierSimilarities": [
+                20.44,
+                40.66,
+                38.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "All things created by God are inherently good and should be received with gratitude. The apostle refutes the Gnostic opposition to creation, stating that the seeds of this heresy may be found in certain practices like the celibacy of Rome's priesthood and fasting from animal meats. However, the impurity of meats lies not in their nature but in the unthankful mind with which they are received. The apostle reminds believers that it is not the physical characteristics of food, but rather the spiritual state of the receiver, that determines the lawfulness of its consumption.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.7302981457901803,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                24.62,
+                40.55,
+                34.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All things created by God are good and should be received with gratitude. The apostle refutes the Gnostic opposition to creation, where the impurity of meats is determined by an unthankful mind. The purpose of the apostle's teaching is to show that the goodness of creatures lies in their intended use and the spiritual state of the receiver, not in their physical characteristics. Therefore, believers should not reject or consider these creations of God as unclean, but instead freely enjoy them with a grateful heart.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.7381813627430436,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+            "commentatorTierSimilarities": [
+                22.39,
+                40.78,
+                36.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All things created by God are good and should be received with gratitude, as the apostle refutes the Gnostic opposition to creation. While certain practices like celibacy and fasting from animal meats may remain, the purity of these meats does not depend on abstinence but on the grateful mind with which they are received. The spiritual state of the receiver, rather than the physical characteristics of the food, determines its lawfulness. Thus, believers should freely enjoy these creations of God with a thankful heart, recognizing their intended purpose.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.6099806063282665,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                21.82,
+                40.85,
+                37.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

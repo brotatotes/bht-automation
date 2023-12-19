@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:34:58",
+    "verseRef": "Acts 21:27",
+    "bestBHT": {
+        "bht": "Paul, while intent on appeasing the believing Jews, incurs the furious hostility of his unbelieving enemies. In the very act of honoring the temple, the Jews from Ephesus raise a hue and cry that he is dishonoring it. These Jews had been watching Paul, with strange excited interest, as he passed in and out of the temple courts with the marks of his Nazarite\u2019s vow upon him, and at length, they saw him in the temple with a Gentile well known to them.",
+        "wordCount": 84,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 2.2360760221520115,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.69,
+        "commentatorTierSimilarities": [
+            30.9,
+            40.92,
+            28.18
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Paul, while intent on appeasing the believing Jews, incurs the furious hostility of his unbelieving enemies.",
+            "In how many ways had those who were at Jerusalem this Pentecost, already persecuted Paul in Asia?",
+            "Notice the similarity of the charge against him to that against Stephen, ch. vi. 13."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "27-30. the Jews . . . of Asia\u2014in",
+            "\tall likelihood those of Ephesus (since they recognized",
+            "\tTrophimus apparently as a townsman, :-), embittered by their discomfiture ( :-, &amp;c.)."
+        ],
+        "Albert Barnes": [
+            "The translation, 'were almost ended,' is not quite correct. The Greek implies no more than that the period of the seven days was about to be accomplished, without implying that it was near the close of them when he was seized.\" ",
+            "The Jews which were of Asia - Who resided in Asia Minor, but who had come up to Jerusalem for purposes of worship."
+        ],
+        "Marvin Vincent": [
+            "Asia. See on ch. Acts 2:9. ",
+            "Stirred up [\u03c3\u03c5\u03bd\u03b5\u03c7\u03b5\u03bf\u03bd] . Only here in New Testament. Lit., poured together, threw into confusion. See on confounded, ch. 2 6; and confusion, ch. 19 29."
+        ],
+        "John Calvin": [
+            "This place teacheth, that we must not take it impatiently if at any time our hope be frustrate, and our counsels, which we have taken with a right and holy affection, fall not out well, that our actions may have an happy end.",
+            "We must attempt nothing but with a good conscience, and according to the Spirit of God.",
+            "Let that inward feeling uphold us, that we know that God alloweth [approveth] our desire, though it be laid open to the reproaches and mocks of men."
+        ],
+        "Philip Schaff": [
+            "When the seven days, \u2018the days of purification,\u2019 announced to the priests as the time to which the vow of the four Nazarites would extend, and also the period of the apostle\u2019s sharing in that consecration, were coming to an end.",
+            "Paul, we know, had spent some three years in Ephesus and Asia, and was well known to the Jews there, by many of whom he had been bitterly opposed and persecuted.",
+            "These Jews had been watching Paul, with strange excited interest, as he passed in and out of the temple courts with the marks of his Nazarite\u2019s vow upon him, and at length they saw him in company with a Gentile (Trophimus) well known to them."
+        ],
+        "Archibald T. Robertson": [
+            "Paul spent seven days in Troas (Acts 20:6), Tyre (Acts 21:4), and had planned for seven here if not more. It was on the last of the seven days when Paul was completing his offerings about the vows on all five that the incident occurred that was to make him a prisoner for five years.",
+            "In the very act of honouring the temple these Jews from Asia raise a hue and cry that he is dishonouring it.",
+            "The Jews from Ephesus had learned it from Demetrius the silversmith."
+        ],
+        "John Gill": [
+            "When they saw him in the temple; where he was come to bring his offering, on account of his vow.",
+            "Stirred up all the people; against the apostle; incensed them with stories about him, how that he was an opposer of Moses and his laws, and was now defiling the temple, by bringing in Heathens into it.",
+            "And laid hands on him; in a violent manner, and dragged him out of the temple."
+        ],
+        "John Wesley": [
+            "And when the seven days were about to be accomplished... It was toward the beginning of them that Paul was seized.",
+            "When after giving notice to the priests, they were entering upon the accomplishment of those days.",
+            "The Jews that were from Asia \u2014 Some of those Jews who came from Asia to the feast."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, while trying to appease the believing Jews, faced the furious hostility of his unbelieving enemies who had already persecuted him in Asia. The Jews from Ephesus, embittered by their discomfiture, stirred up confusion against Paul, falsely accusing him of dishonoring the temple. These Jews had learned their accusations from Demetrius the silversmith. Paul had spent seven days in Troas, Tyre, and now Jerusalem, completing his offerings about the vows, when he was seized by these Jews. Despite the opposition, we must remember that our actions may not always have a happy end, but we must attempt everything with a good conscience and according to the Spirit of God. Let us be upheld by the inward feeling that God approves our desires, even in the face of reproaches and mocks from others.",
+            "wordCount": 132,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.9708771535749108,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                31.23,
+                37.17,
+                31.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, while trying to appease the believing Jews, faced furious hostility from his unbelieving enemies who had already persecuted him in Asia. The Jews from Ephesus, embittered by their discomfiture, stirred up confusion against Paul, falsely accusing him of dishonoring the temple. Despite opposition, we must attempt everything with a good conscience and according to the Spirit of God. Let the inward feeling that God approves our desires uphold us, even in the face of reproaches and mocks from others.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.910786623577272,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                30.03,
+                33.59,
+                36.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, while intent on appeasing the believing Jews, incurs the furious hostility of his unbelieving enemies. In the very act of honoring the temple, the Jews from Ephesus raise a hue and cry that he is dishonoring it. These Jews had been watching Paul, with strange excited interest, as he passed in and out of the temple courts with the marks of his Nazarite\u2019s vow upon him, and at length, they saw him in the temple with a Gentile well known to them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.2360760221520115,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.69,
+            "commentatorTierSimilarities": [
+                30.9,
+                40.92,
+                28.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, while trying to appease the believing Jews, faced furious hostility from his unbelieving enemies. The Jews from Ephesus accused him of dishonoring the temple, a charge similar to that against Stephen. These Jews had learned their accusations from Demetrius the silversmith. Paul had spent seven days completing his offerings about the vows when he was seized. We must attempt everything with a good conscience and according to the Spirit of God, even if our actions face reproaches and mocks from others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.9317619455152268,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.57,
+            "commentatorTierSimilarities": [
+                32.88,
+                35.26,
+                31.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, while trying to appease the believing Jews, faced furious hostility from his unbelieving enemies who had already persecuted him in Asia. The Jews from Ephesus falsely accused him of dishonoring the temple, stirring up confusion against him. They had learned their accusations from Demetrius the silversmith. Despite opposition, we must attempt everything with a good conscience and according to the Spirit of God. Even when our actions face reproaches and mocks from others, let us be upheld by the inward feeling that God approves our desires.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.7398227650232294,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "commentatorTierSimilarities": [
+                32.92,
+                31.09,
+                35.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

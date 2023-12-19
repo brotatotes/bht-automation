@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:34:37",
+    "verseRef": "Acts 21:13",
+    "bestBHT": {
+        "bht": "In the face of imminent danger, Paul's resolute devotion to the Lord Jesus shines through. He expresses his unwavering readiness to be bound and even die for the name of Christ. Despite the heartfelt pleas and tears of his friends, Paul remains steadfast in his conviction, fully aware of the sacrifices he may have to endure. His courageous example of sacrifice for the sake of the gospel continues to inspire believers throughout history, illustrating the depths of faith and commitment one can possess for their divine calling.",
+        "wordCount": 88,
+        "quoteTokenProportion": 29.03,
+        "qualityScore": 1.4461540942031186,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.43,
+        "commentatorTierSimilarities": [
+            15.25,
+            51.55,
+            33.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Beautiful union of manly resoluteness and womanly tenderness, alike removed from mawkishness and stoicism!",
+            "If that is all, let it come.",
+            "It was well he could add this, for he had that also to do."
+        ],
+        "Albert Barnes": [
+            "Expressions of love ought not to be allowed to interfere with the convictions of duty in their minds. If they have made up their minds that a certain course is proper, and have resolved to pursue it, we ought neither to attempt to divert them from it, nor to distract their minds by our remonstrances or our tears.\" ",
+            "It is trying to part with a son, a daughter, or a beloved friend, in order that they may go to proclaim the gospel to the benighted and dying pagan. The act of parting - for life, and the apprehension of the perils which they may encounter on the ocean, and in pagan lands, may be painful; but if they, like Paul, have looked at it calmly, candidly, and with much prayer; if they have come to the deliberate conclusion that it is the will of God that they should devote their lives to this service, we ought not to weep and to break their hearts.",
+            "That mother will meet, with joy, in heaven, the son from whom, with many tears, she was sundered when he entered on a missionary life; and, surrounded with many ransomed pagan, heaven will be made more blessed and eternity more happy."
+        ],
+        "Marvin Vincent": [
+            "I am ready [\u03b5\u03c4\u03bf\u03b9\u03bc\u03c9\u03c2 \u03b5\u03c7\u03c9] . Lit., 1 hold myself in readiness."
+        ],
+        "Philip Schaff": [
+            "But Paul, in spite of these reiterated prophecies, notwithstanding the loving and affectionate entreaties of his friends, saw clearly the Divine will and his own plain duty through all this cloud of hindrances, and held on to his first purpose without flinching.",
+            "He was an old man, wearied with ceaseless toils and worn with sickness and anxiety. The chance of meeting so great a concourse of Jews in the Holy City might never occur again; so for his work\u2019s sake, for the sake of the many flourishing churches he had founded, he would do his best to disprove the false rumours so widely disseminated concerning his teaching.",
+            "Far down the stream of Christian centuries, another famous Christian leader, an ardent and devoted follower of Paul, when similarly warned of coming danger, resolutely replied to his friends in the spirit of Paul."
+        ],
+        "Archibald T. Robertson": [
+            "What are you doing weeping?... Breaking my heart.",
+            "I am ready... Not only to be bound.",
+            "The stature of Paul rises here to heroic proportions 'for the name of the Lord Jesus'."
+        ],
+        "John Gill": [
+            "For I am ready not to be bound only, but to die at Jerusalem for the name of the Lord Jesus."
+        ],
+        "John Wesley": [
+            "For the apostles themselves were not void of human affections.",
+            "And to him that is ready for it, the burden is light."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 21:13, we witness a beautiful union of manly resoluteness and womanly tenderness as Paul declares his readiness to face whatever awaits him in Jerusalem. He holds himself in readiness not only to be bound but even to die for the name of the Lord Jesus. Despite the tears and pleas of his friends, Paul remains steadfast in his conviction, fully aware of the perils ahead. His determination to carry out God's will and spread the gospel outweighs any personal sacrifices he may face. Paul's resolute devotion to his mission serves as an inspiration for believers throughout history, demonstrating the heroic proportions of his faith in the face of adversity.",
+            "wordCount": 112,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.511378128563102,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.6,
+            "commentatorTierSimilarities": [
+                20.47,
+                44.46,
+                35.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of impending danger, Paul's resolute determination shines through as he declares his readiness to be bound and even die for the sake of the Lord Jesus. His unyielding commitment to carry out God's will serves as a profound example of faith in action. Despite the tears and heartfelt pleas of his loved ones, Paul remains firm, fully aware of the sacrifices that lie ahead. His unwavering devotion and willingness to face persecution for the sake of the gospel continue to inspire believers to this day.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.3903722251019262,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.57,
+            "commentatorTierSimilarities": [
+                15.67,
+                55.05,
+                29.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of imminent danger, Paul's resolute devotion to the Lord Jesus shines through. He expresses his unwavering readiness to be bound and even die for the name of Christ. Despite the heartfelt pleas and tears of his friends, Paul remains steadfast in his conviction, fully aware of the sacrifices he may have to endure. His courageous example of sacrifice for the sake of the gospel continues to inspire believers throughout history, illustrating the depths of faith and commitment one can possess for their divine calling.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.4461540942031186,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.43,
+            "commentatorTierSimilarities": [
+                15.25,
+                51.55,
+                33.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 21:13, Paul's resolute devotion to the Lord Jesus shines brightly. He declares his readiness not only to be bound but even to die in Jerusalem for the sake of Christ's name. Despite the tears and loving pleas of his companions, Paul remains steadfast, fully aware of the sacrifices he may face. His unwavering commitment to fulfill God's will exemplifies heroic faith, inspiring believers throughout history to persevere in the face of adversity for the sake of the gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.5171879828856647,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.79,
+            "commentatorTierSimilarities": [
+                17.08,
+                43.29,
+                39.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's resolute devotion to the Lord Jesus shines through, as he declares his readiness to be bound and even die for His name. Despite tears and pleas from his friends, he remains steadfast, aware of the sacrifices he may face. Paul's unwavering commitment to God's will serves as an inspiration, illustrating the heroic proportions of his faith in the face of adversity. This powerful example encourages believers throughout history to persevere, putting their devotion and mission above personal comfort and safety.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.374507628731683,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.05,
+            "commentatorTierSimilarities": [
+                18.3,
+                53.56,
+                28.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

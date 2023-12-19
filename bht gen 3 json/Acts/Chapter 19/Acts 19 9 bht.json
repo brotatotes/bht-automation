@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:33:38",
+    "verseRef": "Acts 19:9",
+    "bestBHT": {
+        "bht": "In the face of growing opposition, Paul found solace and freedom in the school of Tyrannus, likely a private synagogue, where he could assemble believing Jews and invite Gentiles to hear the word. Undeterred by the hardened hearts and disobedience of some, Paul separated the disciples and continued to reason and preach daily. Through this separation, Paul not only provided for the weak but also stopped false teachings from subverting their godliness. The power of the heavenly doctrine either made the reprobate mad or more obstinate, as it brought life to some but death to others.",
+        "wordCount": 96,
+        "quoteTokenProportion": 36.99,
+        "qualityScore": 1.7769214612342874,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.42,
+        "commentatorTierSimilarities": [
+            25.6,
+            36.21,
+            38.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Probably the school of Tyrannus was a private synagogue (called Beth Midrasch by the Jews), where he might assemble the believing Jews quietly, and also invite the attendance of Gentiles to hear the word.",
+            "But it is also possible that, as commonly supposed, Tyrannus may have been a Gentile sophist.",
+            "The name occurs as a proper name, 2 Macc. iv. 40."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "implying that others, probably a large number, believed.",
+            "withdrawing to a separate place of meeting, for the sake both of the converts already made, and the unsophisticated multitude.",
+            "probably a converted teacher of rhetoric or philosophy."
+        ],
+        "Albert Barnes": [
+            "When their hearts were hardened, and they became violently opposed to the gospel.",
+            "The word used here does not of necessity denote 'disputation or contention,' but is often used in a good sense of 'reasoning' or of 'public preaching.'",
+            "Christians at that time had no churches, and they were obliged to assemble in any place where it might be convenient to conduct public worship."
+        ],
+        "John Calvin": [
+            "Surely such is the power of the heavenly doctrine that it doth either make the reprobate mad or else more obstinate.",
+            "The contemners of the gospel do resist that deadlily among others which they will not embrace.",
+            "We must provide for the weak, lest through wicked backbitings and slandering of sound doctrine, their godliness be subverted."
+        ],
+        "Philip Schaff": [
+            "His own countrymen, either spurred on by advices from Jerusalem and the Holy Land, or themselves jealous and disturbed at the thought of the hated Gentile sharing in their loved hopes, set themselves to mar and spoil his labours.\" ",
+            "He departed from them, and separated the disciples, disputing daily in the school of one Tyrannus.\" ",
+            "Some have suggested that this was a school and lecture hall of a Greek teacher of rhetoric or philosophy hired by Paul."
+        ],
+        "Archibald T. Robertson": [
+            "But when some were hardened... The inevitable reaction against Paul went on even in Ephesus though slowly.\" ",
+            "Disobedient... showing the growing disbelief and disobedience.\" ",
+            "In the school of Tyrannus... Here Paul had great freedom and a great hearing."
+        ],
+        "John Gill": [
+            "For the Gospel, while it is the savour of life unto life to some, it is the savour of death unto death, to others; as the sun melts the wax, and hardens the clay.",
+            "...the unbelieving Jews not only contradicted the Gospel preached by the apostle, but blasphemed it, and said all the evil things of it they could, and loaded it with reproaches...",
+            "...a separation from such who contradict and blaspheme the truths and ordinances of the Gospel, is justifiable."
+        ],
+        "John Wesley": [
+            "The way - The Christian way of worshiping God.",
+            "He departed - Leaving them their synagogue to themselves.",
+            "Discoursing daily - Not on the Sabbath only, in the school of one Tyrannus - Which we do not find was any otherwise consecrated, than by preaching the Gospel there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 19:9, Paul found solace and freedom in the school of Tyrannus, likely a private synagogue, where he could assemble believing Jews and invite Gentiles to hear the word. However, as the unbelieving Jews became more hardened and disobedient, Paul faced growing opposition in Ephesus. Undeterred, he separated the disciples and continued to reason and preach daily in this school. It is through this separation and steadfast devotion to sharing the gospel that Paul not only provided for the weak but also prevented false teachings from subverting their godliness. The power of the heavenly doctrine either made the reprobate mad or more obstinate, as it is the savour of life unto life for some, but the savour of death unto death for others.",
+            "wordCount": 123,
+            "quoteTokenProportion": 36.14,
+            "qualityScore": 1.7086186683136226,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                24.86,
+                37.26,
+                37.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of growing opposition, Paul found solace and freedom in the school of Tyrannus, likely a private synagogue, where he could assemble believing Jews and invite Gentiles to hear the word. Undeterred by the hardened hearts and disobedience of some, Paul separated the disciples and continued to reason and preach daily. Through this separation, Paul not only provided for the weak but also stopped false teachings from subverting their godliness. The power of the heavenly doctrine either made the reprobate mad or more obstinate, as it brought life to some but death to others.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.7769214612342874,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.42,
+            "commentatorTierSimilarities": [
+                25.6,
+                36.21,
+                38.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, faced with growing opposition in Ephesus, found solace in the school of Tyrannus, possibly a private synagogue or a Gentile sophist's lecture hall. Despite the hardening hearts and disobedience of others, Paul continued to reason and preach daily, separating himself and the disciples. In doing so, he provided for the weak and protected them from the subversion of false teachings. The power of the heavenly doctrine either caused the reprobate to become mad or stubborn, as it brought life to some and death to others.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.7021689487835796,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.94,
+            "commentatorTierSimilarities": [
+                25.49,
+                38.96,
+                35.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 19:9, Paul sought refuge in the school of Tyrannus, which could have been a private synagogue or a place rented from a Greek teacher of rhetoric or philosophy. Despite facing opposition and growing disbelief, Paul separated himself and the disciples to continue reasoning and preaching daily. In doing so, he provided for the weak and protected them from the harm of false teachings. The power of the heavenly doctrine either caused the reprobate to become mad or more obstinate and brought life or death to the believers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.740090327691639,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                25.45,
+                40.27,
+                34.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul found solace in the school of Tyrannus, possibly a private synagogue or a place hired from a Greek teacher of rhetoric or philosophy. Despite facing growing opposition and disbelief, Paul continued reasoning and preaching daily in this separate place. His steadfastness provided for the weak and protected them from the distortion of sound doctrine. The power of the heavenly doctrine either made the reprobate mad or more obstinate, as it brought life or death to the believers.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.6639739128890172,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+            "commentatorTierSimilarities": [
+                27.38,
+                37.4,
+                35.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

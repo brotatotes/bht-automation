@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:13:57",
+    "verseRef": "Luke 2:12",
+    "bestBHT": {
+        "bht": "The angel instructed the shepherds to look for a child wrapped in swaddling clothes and lying in a manger, providing a sign that would distinguish the newborn Savior. This contrast between the heavenly nature of Christ and the lowly condition in which they would find him was meant to capture their attention. By condescending to use such outward symbols, God offers a strong confirmation to our faith. This sign led the shepherds to the humble location where they could embrace and believe in the Savior, and it continues to guide us in our worship and adoration of Him today.",
+        "wordCount": 99,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.8197386623124965,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+        "commentatorTierSimilarities": [
+            26.83,
+            33.7,
+            39.47
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The angel, in giving the sign, generalizes the term: they were to know the truth of his words, by finding a child wrapped in swaddling clothes, lying in a manger.",
+            "The spot was somehow known to them by the angel\u2019s description.",
+            "They were to know the truth of his words, by finding a child wrapped in swaddling clothes, lying in a manger."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The sign was to consist, it seems, solely in the overpowering contrast between the things just said of Him and the lowly condition in which they would find Him.\" ",
+            "Him whose goings forth have been from of old, from everlasting, 'ye shall find a Babe'; whom the heaven of heavens cannot contain, 'wrapt in swaddling bands'.",
+            "The 'Saviour, Christ the Lord,' lying in a manger! Thus early were these amazing contrasts, which are His chosen style, held forth."
+        ],
+        "Albert Barnes": [
+            "This shall be a sign ... - The evidence by which you shall know the child is that you will find him wrapped in swaddling clothes and lying in a manger."
+        ],
+        "Marvin Vincent": [
+            "Sign [\u03c3\u03b7\u03bc\u03b5\u03b9\u03bf\u03bd] . See on Matthew 11:20. ",
+            "The babe [\u03b2\u03c1\u03b5\u03c6\u03bf\u03c2] . See on 1 Peter 2:2. Rev., properly, \"a babe.\" No article."
+        ],
+        "John Calvin": [
+            "Sending down to us from heaven the word of the Gospel, he enjoins us to embrace Christ crucified, and holds out to us signs in earthly and fading elements, which raise us to the glory of a blessed immortality.",
+            "But if the stable gave no offense whatever to the shepherds, so as to prevent them from going to Christ to obtain salvation, or from yielding to his authority, while he was yet a child; no sign, however mean in itself, ought to hide his glory from our view, or prevent us from offering to him lowly adoration, now that he has ascended to heaven, and sits at the right hand of the Father.",
+            "By condescending to employ outward symbols, together with his holy word, for expressing the blessings of salvation he holds out to his people an additional testimony, and in this manner grants a strong confirmation to their faith."
+        ],
+        "Philip Schaff": [
+            "The dispensation of faith is beginning.",
+            "Not 'the babe.' They were to look for a child born that day.",
+            "A manger, not 'the manger.' This implies that the place was not one well known to the shepherds."
+        ],
+        "John Gill": [
+            "This sign would distinguish the newborn Saviour from all others.\" ",
+            "Had not the angel given them this direction, they would never have thought to have looked for, and found: him in such a place.\" ",
+            "By this means, this objection was prevented, and this stumbling block was removed out of the way, and they were prepared to see him, embrace, and believe in him, in this mean condition."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The angel's description served as a sign, allowing the shepherds to find the truth of his words by locating a child wrapped in swaddling clothes, lying in a manger. This unlikely scene demonstrated a powerful contrast between the glorious Savior, Christ the Lord, and His humble surroundings. The shepherds were guided to this specific spot, a place not well known to them, to witness the beginning of the dispensation of faith. By using earthly elements as signs, God provides a confirmation of His salvation and calls us to offer Him our lowly adoration. This sign distinguished the newborn Savior from all others, ensuring that the shepherds found Him and believed in Him in His humble state.",
+            "wordCount": 117,
+            "quoteTokenProportion": 29.87,
+            "qualityScore": 1.9092965873625853,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.83,
+            "commentatorTierSimilarities": [
+                29.68,
+                34.56,
+                35.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The angel's words pointed the shepherds towards a remarkable sign: a child wrapped in swaddling clothes, lying in a manger. This contrast between the exalted Savior and His humble surroundings emphasized His chosen style of amazing contrasts. By following this sign, the shepherds were able to witness the beginning of the dispensation of faith. Through the use of earthly signs, God confirms His salvation and invites us to offer Him our lowly adoration, even in the meanest of conditions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.7963713907137737,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.07,
+            "commentatorTierSimilarities": [
+                30.17,
+                33.28,
+                36.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angel instructed the shepherds to look for a child wrapped in swaddling clothes and lying in a manger, providing a sign that would distinguish the newborn Savior. This contrast between the heavenly nature of Christ and the lowly condition in which they would find him was meant to capture their attention. By condescending to use such outward symbols, God offers a strong confirmation to our faith. This sign led the shepherds to the humble location where they could embrace and believe in the Savior, and it continues to guide us in our worship and adoration of Him today.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.8197386623124965,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                26.83,
+                33.7,
+                39.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angel's sign directed the shepherds to find a child, wrapped in swaddling clothes, lying in a manger. This stark contrast between the glorious Savior and His humble surroundings emphasized His amazing style. By using earthly symbols, God confirms our faith and invites us to offer lowly adoration. This sign distinguished the newborn Savior and removed any stumbling blocks to seeing, embracing, and believing in Him. It continues to guide us in acknowledging His glory, both in His humble birth and His exalted position.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.6603060436233381,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.55,
+            "commentatorTierSimilarities": [
+                28.29,
+                31.36,
+                40.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel's sign led the shepherds to discover a child wrapped in swaddling clothes, lying in a manger. This remarkable contrast between the heavenly Savior and His lowly setting served as a powerful confirmation of faith. Through the use of outward symbols, God invites us to offer humble adoration and grants a testimony to strengthen our faith. This specific sign distinguished the newborn Savior and prepared the shepherds to see, embrace, and believe in Him, despite His humble condition.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.7881711039377035,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                27.7,
+                34.8,
+                37.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

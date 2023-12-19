@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:29:58",
+    "verseRef": "Acts 11:28",
+    "bestBHT": {
+        "bht": "Agabus, under the influence of the Holy Spirit, proclaims a prophecy regarding a great dearth throughout the world, indicating a widespread famine in the Roman empire during Claudius' reign. This revelation holds significance in tracing the chronology of the Acts and emphasizes the importance of warning people in advance of God's judgments and impending punishments. The fulfillment of this prophecy serves as a reminder that it was not based on astrological signs or natural causes but was conveyed directly by the Spirit of God.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 2.039625804021163,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.16,
+        "commentatorTierSimilarities": [
+            29.98,
+            35.72,
+            34.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "From the form of his announcement there, we may infer the manner in which he signified by the Spirit here. It was, 'Thus saith the Holy Ghost.'\" ",
+            "The expression is probably a hyperbolical one in ordinary use, and not to be pressed as strictly implying that to which its literal meaning would extend.",
+            "The queen Helena of Adiabene and her son Izates helped the Jews with subsidies on the occasion (in relating which, Josephus calls it 'the great famine'), both of corn and money."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That there should be great dearth throughout all the world\u2014the whole Roman empire.\" ",
+            "Four famines occurred during his reign.",
+            "An important date for tracing out the chronology of the Acts."
+        ],
+        "Albert Barnes": [
+            "It is not expressly said that he was a Christian, but the connection seems to imply that he was.",
+            "The meaning of this prophecy evidently is, that the famine would be extensive; that it would not be confined to a single province or region, but that it would extend so far as that it might be called 'general.'",
+            "This is one of the few instances in which the sacred writers in the New Testament affirm the fulfillment of a prophecy."
+        ],
+        "Marvin Vincent": [
+            "The world. See on Luke 2:1."
+        ],
+        "John Calvin": [
+            "Luke doth plainly express that the Spirit of God was the author of this prophecy, lest we know that it was not a conjecture taken by the stars or some other natural causes.",
+            "Barrenness may indeed be sometimes foretold by the disposition of the stars, but there is no certainty in such foretellings...that he may lead men away from the perverse beholding of stars.",
+            "I answer, that there be many causes for which it is expedient that men should be warned before in time when the judgments of God hang over their heads, and punishments [are] due to their sins."
+        ],
+        "Philip Schaff": [
+            "In that case Agabus employed gesture and symbol, like those of which we read on similar occasions in the Old Testament.\" ",
+            "There are two very marked occasions when the Holy Spirit is said to have given indications of coming difficulty and disaster.\" ",
+            "We learn from the best historical sources that this was a period of much distress in many parts of the Empire through famine, and that in this time of general scarcity there was special distress of this kind in Judea."
+        ],
+        "Archibald T. Robertson": [
+            "Agabus does predict a famine through the Holy Spirit.",
+            "Here Agabus (also in Acts 21:10) does predict a famine through the Holy Spirit.",
+            "The Roman writers all tell of dearths (assiduae sterilitates) during the brief reign of Claudius."
+        ],
+        "John Gill": [
+            "And signified by the Spirit; not by the position of the stars, or by any natural causes, or by mere conjecture, but by the Spirit of God.",
+            "The famine afflicted the whole world.",
+            "Her coming was very seasonable to the inhabitants of Jerusalem, for a famine at that time much afflicted their city, and many perished through want of food."
+        ],
+        "John Wesley": [
+            "Agabus rising up \u2014 In the congregation.",
+            "All the world \u2014 The word frequently signifies all the Roman empire. And so it is doubtless to be taken here."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thus saith the Holy Ghost, Agabus declares, indicating that his announcement is a divine prophecy. His statement about a great dearth throughout the world is to be understood figuratively, referring to a widespread famine throughout the Roman empire. This prediction was fulfilled during the reign of Claudius, in a time of general scarcity and distress. However, it is important to note that Agabus' prophecy was not based on the position of stars or natural causes, but rather was a revelation from the Spirit of God. This event holds significance in the chronology of the Acts and serves as a reminder of the need for advance warning of God's judgments and impending punishments.",
+            "wordCount": 113,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.91055464763949,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+            "commentatorTierSimilarities": [
+                29.1,
+                38.93,
+                31.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thus saith the Holy Ghost, Agabus declares, signifying that his announcement is a divine prophecy. His statement about a great dearth throughout the world is to be understood figuratively, referring to a widespread famine throughout the Roman empire during the reign of Claudius. This prediction, given through the Spirit of God, holds importance in the chronology of the Acts and serves as a reminder of the need for advance warning of God's judgments and impending punishments.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.9807566133875705,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                32.82,
+                36.37,
+                30.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Agabus, under the influence of the Holy Spirit, proclaims a prophecy regarding a great dearth throughout the world, indicating a widespread famine in the Roman empire during Claudius' reign. This revelation holds significance in tracing the chronology of the Acts and emphasizes the importance of warning people in advance of God's judgments and impending punishments. The fulfillment of this prophecy serves as a reminder that it was not based on astrological signs or natural causes but was conveyed directly by the Spirit of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.039625804021163,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.16,
+            "commentatorTierSimilarities": [
+                29.98,
+                35.72,
+                34.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Agabus, moved by the Holy Spirit, predicts a widespread famine, not confined to a single province but extending throughout the Roman empire. This prophecy, fulfilled during Claudius' reign, holds historical and chronological significance in the Acts. It highlights the necessity of advance warning from God regarding impending judgments and punishments. Agabus' prophecy is not based on astrological signs but is a revelation from the Spirit of God, bringing awareness of the scarcity and distress experienced during this time.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8839910554698855,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                27.3,
+                40.27,
+                32.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Agabus, speaking on behalf of the Holy Ghost, predicts a great famine that will affect the whole Roman empire. This prophecy holds importance in understanding the chronology of the Acts and serves as a reminder of the need for advance warning of God's judgments and impending punishments. The fulfillment of this prophecy during the reign of Claudius confirms that it was not based on astrological signs or natural causes, but rather a revelation from the Spirit of God. The famine described by Agabus had a widespread impact and brought immense distress to the people of their time.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.9648002252286791,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                31.12,
+                35.22,
+                33.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

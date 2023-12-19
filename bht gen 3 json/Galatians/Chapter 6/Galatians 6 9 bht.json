@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:21:20",
+    "verseRef": "Galatians 6:9",
+    "bestBHT": {
+        "bht": "Let us not be faint-hearted in doing good, for in due season we shall reap if we faint not. It is important to persevere and not give in to weariness or lose heart. We must continue to sow acts of kindness and not let the task of doing good become tiresome or uninspiring. True commitment means never withdrawing or becoming disheartened. In God's own time, we will reap a bountiful harvest if we persist in doing good.",
+        "wordCount": 79,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.2288004911045363,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.45,
+        "commentatorTierSimilarities": [
+            32.29,
+            32.58,
+            35.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But (in our case, let there be no chance of the alternative) in well doing (stress on well) let us not be faint-hearted.",
+            "For in due season (an expression otherwise confined to the pastoral Epistles, see Introduction to those Epistles, \u00a71. 32, and note) we shall reap, if we faint not.",
+            "Let us not be faint-hearted, for in due season we shall reap, if we faint not."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And when we do good, let us also persevere in it without fainting.",
+            "In due season\u2014in its own proper season, God's own time.",
+            "Faint not\u2014literally, 'be relaxed.' Stronger than 'be not weary.'"
+        ],
+        "Albert Barnes": [
+            "Christians sometimes become weary. There is so much opposition to the best plans for doing good; there is so much to be done; there are so many calls on their time and their charities; and there is often so much ingratitude among those whom they endeavor to benefit, that they become disheartened.",
+            "He who becomes disheartened, and who gives over his efforts; he that is appalled by obstacles, and that faints on account of the embarrassments thrown in his way; he that pines for ease, and withdraws from the field of benevolence, shows that he has no true attachment to the cause, and that his heart has never been truly in the work of religion.",
+            "He who becomes a true Christian, becomes such for eternity. He has enlisted, never to withdraw. He becomes pledged to do good and to serve God always."
+        ],
+        "Marvin Vincent": [
+            "Be weary. Lit. faint or lose heart.",
+            "In due season. In the season which is peculiarly the harvest-time of each form of well-doing.",
+            "Faint. Only here in Paul. Lit. to be loosened or relaxed, like the limbs of the weary."
+        ],
+        "John Calvin": [
+            "Well-doing (\u03ba\u03b1\u03bb\u1f78\u03bd) does not simply mean doing our duty, but the performance of acts of kindness.",
+            "We are instructed not to be weary in assisting our neighbours... our warmth is abated by the coolness of other men.",
+            "Let no man, from a wish to gather the fruit in this life, or before its proper time, deprive himself of the spiritual harvest."
+        ],
+        "Philip Schaff": [
+            "But let us not be weary (lose heart) in well doing. Not only in regard to the duty of liberality, but in every good work.",
+            "In due season we shall reap, in the time of harvest.",
+            "If we faint not, 'as husbandmen overcome with heat and fatigue.'"
+        ],
+        "Archibald T. Robertson": [
+            "Let us not keep on giving in to evil while doing the good.\" ",
+            "It is curious how prone we are to give in and to give out in doing the good which somehow becomes prosy or insipid to us.",
+            "Literally, 'not loosened out,' relaxed, exhausted as a result of giving in to evil."
+        ],
+        "John Gill": [
+            "And let us not be weary in well doing... in doing which men should not be weary; nor are they, when their spiritual strength is renewed, and grace is in exercise...",
+            "For in due time we shall reap... either in this world, sooner or later; in proper time, in God's own time, by enjoying an increase of the fruits of righteousness...",
+            "If we faint not; but continue to the end, persevere constantly in doing acts of beneficence, and patiently wait... for there must be a distance of time between sowing and reaping; men must not expect to reap as soon as they sow..."
+        ],
+        "John Wesley": [
+            "Let us not be weary in well doing.\" ",
+            "Let us persevere in sowing to the Spirit.\" ",
+            "When the harvest is come, we shall reap, if we faint not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In our pursuit of doing good, let us not grow disheartened or weary, for there is a rightful time for harvest, a due season when we shall reap the fruits of our well-doing if we do not lose heart. It is important to persevere and not give in to the allure of evil or let the task of doing good become tedious or uninspiring. Christians may face opposition, ingratitude, and obstacles, but true commitment to the cause means never withdrawing or becoming faint-hearted. We must continue to sow in righteousness, serving God and assisting our neighbors, knowing that in God's own time, we will reap a bountiful harvest if we persist in doing good.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.79,
+            "qualityScore": 2.092054986454343,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.9,
+            "commentatorTierSimilarities": [
+                26.1,
+                35.74,
+                38.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In our pursuit of doing good, let us not grow disheartened or weary, for in due season we shall reap the fruits of our well-doing if we do not lose heart. Christians may face opposition, ingratitude, and obstacles, but true commitment to the cause means never withdrawing or becoming faint-hearted. We must persevere in sowing in righteousness, serving God and assisting our neighbors, knowing that in God's own time, we will reap a bountiful harvest if we persist in doing good.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.0803747832337303,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.51,
+            "commentatorTierSimilarities": [
+                25.62,
+                35.72,
+                38.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us not be weary in doing good, for in due season we shall reap if we do not faint. Though there may be opposition, ingratitude, and obstacles, we must not lose heart or grow disheartened. Our commitment to the cause should be steadfast and unwavering, always persevering in acts of kindness and serving others. Know that there is a time for harvest, a season when we shall reap the fruits of our labor if we continue to do good without giving in to weariness and fatigue.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.1990809545194785,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.46,
+            "commentatorTierSimilarities": [
+                30.2,
+                33.55,
+                36.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us not grow weary in doing good, but instead persevere without losing heart, for in the proper time we will reap the harvest of our efforts. It is all too easy to become disheartened by opposition, ingratitude, and obstacles, but true commitment means never withdrawing or becoming faint-hearted. We must continue to sow acts of kindness, serving others, and wait patiently for the season of harvest. If we persist in doing good, we shall reap the abundant fruits of righteousness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.116013906653042,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.7,
+            "commentatorTierSimilarities": [
+                26.91,
+                34.43,
+                38.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us not be faint-hearted in doing good, for in due season we shall reap if we faint not. It is important to persevere and not give in to weariness or lose heart. We must continue to sow acts of kindness and not let the task of doing good become tiresome or uninspiring. True commitment means never withdrawing or becoming disheartened. In God's own time, we will reap a bountiful harvest if we persist in doing good.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.2288004911045363,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.45,
+            "commentatorTierSimilarities": [
+                32.29,
+                32.58,
+                35.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

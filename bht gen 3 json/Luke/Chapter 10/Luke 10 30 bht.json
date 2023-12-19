@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 16:18:17",
+    "verseRef": "Luke 10:30",
+    "bestBHT": {
+        "bht": "A man traveling from Jerusalem to Jericho fell among robbers on a treacherous road known for its crimes. The robbers stripped him, leaving him half-dead. Though a priest and a Levite passed by without showing concern, a despised Samaritan came to his aid, exhibiting compassion and proving to be a true neighbor. This parable emphasizes the importance of showing love and assistance to all people, regardless of race or condition, for we are bound together as humans with a mutual obligation to help one another.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.7913056408781922,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+        "commentatorTierSimilarities": [
+            28.84,
+            42.02,
+            29.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Arabs, which race, given to habits of plunder, to this day infests the borders of Palestine, and lies in wait for travellers from Jerusalem to Jericho, as our Lord relates in the Gospel.\" ",
+            "The same Father, who lived for many years in the neighbourhood, mentions that a part of the road was so infamous for murders, as to be called the red or bloody way.",
+            "stripped him, not merely of his clothing, but of all he had;\u2014 'despoiled him,' as the Vulgate renders it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The road, being rocky and desolate, was a notorious haunt of robbers, then and for ages after, and even to this day.",
+            "A certain man\u2014a Jew.",
+            "From Jerusalem to Jericho\u2014a distance of nineteen miles northeast, a deep and very fertile hollow\u2014'the Temple of Judea' [TRENCH]."
+        ],
+        "Albert Barnes": [
+            "He compelled him to acknowledge that a Samaritan - of a race most hated of all people by the Jews - had shown the kindness of a neighbor, while a 'priest' and a 'Levite' had denied it to their own countrymen.",
+            "If we might conceive of the ocean as being suddenly congealed and petrified when its waves are tossed mountain high, and dashing in wild confusion against each other, we should then have some idea of the aspect of the desert in which the Saviour has placed so truthfully the parable of the good Samaritan.",
+            "Every circumstance in this parable, therefore, was full of significance to those who heard it. The Saviour delivered it near Bethany, on the border of the frightful desert, Luke 10:25, Luke 10:38. Jericho was a sacerdotal city. The passing of priests and Levites between that place and Jerusalem was an everyday occurrence."
+        ],
+        "Marvin Vincent": [
+            "It means, strictly, to take up; and hence, of conversation, to take up another's discourse and reply.",
+            "The road from Jerusalem to Jericho passed through a wilderness (Joshua 16:1), which was so notorious for robberies and murders that a portion of it was called 'the red or bloody way,' and was protected by a fort and a Roman garrison.",
+            "His condition being a matter of unconcern to these robbers."
+        ],
+        "John Calvin": [
+            "But as men are blinded by their pride, so that every man is satisfied with himself, scarcely deigns to admit others to an equal rank, and withholds from them the duties he owes them, the Lord purposely declares that all are neighbors that the very relationship may produce mutual love.",
+            "The general truth conveyed is, that the greatest stranger is our neighbor, because God has bound all men together, for the purpose of assisting each other.",
+            "Hence it is inferred that there is a mutual obligation between all men."
+        ],
+        "Philip Schaff": [
+            "The main lesson of the parable is not love to enemies, but love to man as such, humanity, philanthropy.",
+            "The incidents of the story are all probable, as is usual in our Lord's parables.",
+            "Without concern as to his condition, which is placed last to show his need of speedy help."
+        ],
+        "Archibald T. Robertson": [
+            "Fell among robbers (\u03bb\u03b7\u03b9\u03c3\u03c4\u03b1\u03b9\u03c2 \u03c0\u03b5\u03c1\u03b9\u03b5\u03c0\u03b5\u03c3\u03b5\u03bd). Second aorist ingressive active indicative of \u03c0\u03b5\u03c1\u03b9\u03c0\u03b9\u03c0\u03c4\u03c9, old verb with associative instrumental case, to fall among and to be encompassed by (\u03c0\u03b5\u03c1, around), to be surrounded by robbers. A common experience to this day on the road to Jericho.",
+            "  ",
+            "Stripped (\u03b5\u03ba\u03b4\u03c5\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2). Of his clothing as well as of his money, the meanest sort of robbers.",
+            "Half-dead (\u03b7\u03bc\u03b9\u03b8\u03b1\u03bd\u03b7). Late word from \u03b7\u03bc, half, and \u03b8\u03bd\u03b7\u03c3\u03ba\u03c9, to die. Only here in the N.T. Vivid picture of the robbery."
+        ],
+        "John Gill": [
+            "and has a much better title to such a character, than one of the same nation and religion, who takes no notice of a distressed object.",
+            "he shows himself to be their best neighbour, and truest friend",
+            "by sinning against God, departed from his happy and peaceful state, from a state of peace and tranquillity with God, with the holy angels, and even with the beasts of the field"
+        ],
+        "John Wesley": [
+            "The road from Jerusalem to Jericho (about eighteen miles from it) lay through desert and rocky places: so many robberies and murders were committed therein, that it was called the bloody way.",
+            "Jericho was situated in the valley: hence the phrase of going down to it.",
+            "About twelve thousand priests and Levites dwelt there, who all attended the service of the temple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A man who fell victim to robbers, as he traveled from Jerusalem to Jericho\u2014a dangerous and lawless road known for its infamy\u2014was stripped of all he had and left half-dead. It was not until a despised Samaritan, breaking boundaries and defying prejudice, arrived on the scene that kindness and compassion were shown. The priest and Levite, who represented the religious establishment, had failed to extend help to their fellow countryman, while the Samaritan, with no regard for the man's race or condition, proved to be the true neighbor, stepping forward with care and genuine concern. This parable conveys a profound message about the obligation we have as humans to love and assist one another, regardless of social or cultural differences. Our call is to embrace a deep sense of humanity and philanthropy, acknowledging that even the stranger is our neighbor, and that we are all interconnected by a mutual bond of support and compassion.",
+            "wordCount": 158,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.7505342800899473,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.55,
+            "commentatorTierSimilarities": [
+                23.57,
+                46.86,
+                29.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A man traveling from Jerusalem to Jericho fell among robbers on a treacherous road known for its crimes. The robbers stripped him, leaving him half-dead. Though a priest and a Levite passed by without showing concern, a despised Samaritan came to his aid, exhibiting compassion and proving to be a true neighbor. This parable emphasizes the importance of showing love and assistance to all people, regardless of race or condition, for we are bound together as humans with a mutual obligation to help one another.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.7913056408781922,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                28.84,
+                42.02,
+                29.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A man, journeying from Jerusalem to Jericho, fell among robbers on the notorious, lawless road. They stripped him and left him half-dead. Meanwhile, a priest and a Levite, refusing to assist their fellow countryman, passed by. It was a despised Samaritan who displayed kindness and compassion, showing himself to be the true neighbor. This parable emphasizes the obligation we have to love and help one another, regardless of social or cultural differences. We are called to embrace our shared humanity and extend support to all.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.5546068411470086,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.03,
+            "commentatorTierSimilarities": [
+                25.57,
+                41.4,
+                33.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A man traveling from Jerusalem to Jericho fell among robbers on the infamous and dangerous road. They stripped him of everything and left him half-dead. While the priest and Levite ignored him, a despised Samaritan showed true neighborly love and compassion. This parable teaches us the importance of extending kindness and assistance to all people, regardless of their background or condition. It emphasizes our mutual duty to care for and support one another as fellow human beings.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.6175621139758172,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+            "commentatorTierSimilarities": [
+                25.75,
+                42.46,
+                31.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A man, journeying from Jerusalem to Jericho, fell among robbers on the notorious, lawless road. They stripped him and left him half-dead. Meanwhile, a priest and a Levite, refusing to assist their fellow countryman, passed by. It was a despised Samaritan who displayed kindness and compassion, showing himself to be the true neighbor. This parable emphasizes the obligation we have to love and help one another, regardless of social or cultural differences. We are called to embrace our shared humanity and extend support to all.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.5546068411470086,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.03,
+            "commentatorTierSimilarities": [
+                25.57,
+                41.4,
+                33.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

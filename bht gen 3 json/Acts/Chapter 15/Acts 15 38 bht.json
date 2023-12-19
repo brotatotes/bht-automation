@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:31:56",
+    "verseRef": "Acts 15:38",
+    "bestBHT": {
+        "bht": "Recognizing John Mark's withdrawal from them in the past, Paul deemed it unwise to include him in their current mission. Paul saw John Mark's actions as a betrayal and did not consider him deserving of being a companion in their journey. While Barnabas may have been more forgiving, Paul believed it was crucial to exercise caution and not trust someone who had previously deserted them. This disagreement led to their separation, highlighting the difficulties they faced in reconciling their differences.",
+        "wordCount": 82,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.949967483735774,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+        "commentatorTierSimilarities": [
+            32.02,
+            36.31,
+            31.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But Paul thought proper, (as to) one who had fallen off from them from Pamphylia, and had not gone with them to the work, not to take with them that man.",
+            "We may well believe that St. Paul\u2019s own mouth gave originally the character to the sentence.",
+            "It hence is evident that his departure was not by the authority of the Apostles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But Paul thought not good to take him with them who departed from them.\" ",
+            "The word is stronger than this\u2014'who stood aloof' or 'turned away' from them.",
+            "The allusion is to what is recorded in Acts 13:13."
+        ],
+        "Albert Barnes": [
+            "But Paul thought not good - Did not think it proper.",
+            "Because he could not confide in his perseverance with them in the toils and perils of their journey.",
+            "To the work - Of preaching the gospel."
+        ],
+        "Marvin Vincent": [
+            "Him [\u03c4\u03bf\u03c5\u03c4\u03bf\u03bd] . Lit., that one. It marks him very strongly, and is an emphatic position at the end of the sentence.",
+            "Departed [\u03b1\u03c0\u03bf\u03c3\u03c4\u03b1\u03bd\u03c4\u03b1] . Rev., withdrew. It furnishes the derivation of our word apostatize."
+        ],
+        "Philip Schaff": [
+            "We may well believe that Paul\u2019s own mouth gave originally the character to this sentence\" - Alford",
+            "The strict and truthful accuracy of the writer of these \u2018Acts\u2019 is shown by his faithful record of the parting between the two friends Barnabas and Paul.",
+            "Both those noble men seemed to have erred the one perhaps too harsh, the other too forgiving; neither chose to yield his opinion, and so they parted."
+        ],
+        "Archibald T. Robertson": [
+            "But Paul kept on deeming it wise not to be taking along with them this one.",
+            "Paul felt a lively realization of the problem of having a quitter on his hands.",
+            "Paul had a definite reason for his view describing John Mark as 'him who withdrew from them from Pamphylia.'"
+        ],
+        "John Gill": [
+            "Paul thought not good to take him with them...he refused to take him.",
+            "In the apostle's opinion of the matter, he was very blameworthy, and on account of it very undeserving...of being a companion of theirs in their travels.",
+            "John deserted them; and which the apostle resented, he having, as yet, not given any evidence of his sense of his evil, and of his repentance for it, to his satisfaction."
+        ],
+        "John Wesley": [
+            "To trust him again, who had deserted them before",
+            "Who had shrunk from the labour and danger",
+            "Converting those they were now going to confirm"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, recognizing that John Mark had turned away from them during their previous journey, decided it would not be wise to bring him along on their current mission. This decision was not made lightly, as Paul was well aware of the impact it would have on their work. He felt it was important to be cautious and not to trust someone who had previously deserted them. While Barnabas may have taken a more forgiving stance, Paul saw John Mark's actions as a betrayal and his departure from them was not authorized by the Apostles. This disagreement between Paul and Barnabas, two close friends and devoted servants of God, highlights the difficulties they faced in navigating their differences and ultimately resulted in their parting ways.",
+            "wordCount": 125,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.9470761481445862,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.08,
+            "commentatorTierSimilarities": [
+                32.62,
+                36.74,
+                30.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, recognizing John Mark's earlier departure from them, did not deem it wise to include him in their current mission. This decision was not taken lightly and Paul was cognizant of the potential consequences. He considered John Mark's actions as a betrayal and saw him as undeserving of being a companion in their journey. Though Barnabas may have been more forgiving, Paul felt it was important to exercise caution and not trust someone who had previously deserted them. This disagreement ultimately led to their parting ways, highlighting the challenges they faced in reconciling their differences.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.875957132501084,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+            "commentatorTierSimilarities": [
+                33.54,
+                36.43,
+                30.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Recognizing John Mark's previous departure from them, Paul made the decision not to take him along on their current mission. Paul felt that John Mark's actions were a betrayal and did not consider him deserving of being a companion in their journey. While Barnabas may have been more forgiving, Paul believed it was important to exercise caution and not trust someone who had previously deserted them. This disagreement ultimately led to their parting ways, highlighting the challenges they faced in reconciling their differences.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.9376822170507986,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                32.65,
+                35.62,
+                31.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Recognizing John Mark's withdrawal from them in the past, Paul deemed it unwise to include him in their current mission. Paul saw John Mark's actions as a betrayal and did not consider him deserving of being a companion in their journey. While Barnabas may have been more forgiving, Paul believed it was crucial to exercise caution and not trust someone who had previously deserted them. This disagreement led to their separation, highlighting the difficulties they faced in reconciling their differences.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.949967483735774,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                32.02,
+                36.31,
+                31.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, understanding that John Mark had previously turned away from their mission, made the deliberate choice not to invite him along on their current journey. Recognizing John Mark's abandonment as a betrayal, Paul did not consider him fit to be a companion in their task. Although Barnabas leaned toward forgiveness, Paul believed it was essential to exercise caution and refrain from trusting someone who had previously deserted them. This disagreement ultimately resulted in their parting ways, underscoring the challenges they encountered in reconciling their differing perspectives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.9143385919097333,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                32.81,
+                36.67,
+                30.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

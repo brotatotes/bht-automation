@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:31:52",
+    "verseRef": "Acts 16:5",
+    "bestBHT": {
+        "bht": "The churches in the region were strengthened and increased due to the blessing of God on the work of Paul, Silas, and Timothy. By being established in the faith, believers confirmed their belief in the gospel. The decrees of the Apostolic Council removed a barrier, enabling the Gentiles to accept the gospel and its teachings without adhering to Jewish practices. As a result, the faith of those who were first called spread, leading to the growth and establishment of the churches.",
+        "wordCount": 81,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.9696614795997216,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+        "commentatorTierSimilarities": [
+            20.64,
+            45.36,
+            34.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "5.] This general notice, like those at ch. ix. 31, xii. 24, marks the opening of a new section."
+        ],
+        "Albert Barnes": [
+            "Established in the faith - Confirmed in the belief of the gospel The effect of the wise and conciliatory measure was to increase and strengthen the churches."
+        ],
+        "Marvin Vincent": [
+            "Were established [\u03b5\u03c3\u03c4\u03b5\u03c1\u03b5\u03bf\u03c5\u03bd\u03c4\u03bf] . Rather, were strengthened. Another word is used for established. See ch. Acts 14:22; Acts 14:32, Acts 14:41; Acts 18:23. There is a difference, moreover, between being strengthened and established. See 1 Peter verse 10."
+        ],
+        "John Calvin": [
+            "Paul did so order external things, that he was principally careful for the kingdom of God, which consisteth in the doctrine of the gospel.\" ",
+            "Religion and godliness hath the former place, whose sole foundation is faith; which again doth stay itself upon the pure Word of God, and doth not depend upon men's laws.",
+            "The more those profit in faith who are first called, the more do they bring unto Christ; as if faith did creep abroad unto others by branches."
+        ],
+        "Philip Schaff": [
+            "So ( \u03bf\u1f56\u03bd ), as a consequence of the mediating tendency of the decrees of the Apostolic Council, a great bar to the acceptance of the gospel by the mass of Gentiles had been permanently removed.",
+            "The religion of Jesus might be accepted by a Roman or Asiatic without the necessary adoption of the Jewish rigorous and exclusive practices.",
+            "Established in the faith, and increased in number daily... 'Rarum incrementum, numero simul et gradu.'"
+        ],
+        "Archibald T. Robertson": [
+            "Were strengthened... these three the only examples in the N.T.\" ",
+            "Increased... the blessing of God was on the work of Paul, Silas, and Timothy."
+        ],
+        "John Gill": [
+            "And so were the churches established in the faith,.... Of Christ, both in the grace and doctrine of faith...\" ",
+            "and that both by the preaching of the Gospel by the apostle and his companions, and by the decrees of the elders delivered by him.",
+            "and increased in number daily; as well as in gifts and grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The churches in the region were strengthened, a result of the blessing of God on the work of Paul, Silas, and Timothy. The believers were established in the faith, confirming their belief in the gospel. As a consequence of the decrees of the Apostolic Council, a significant barrier to the acceptance of the gospel by Gentiles was permanently removed. The wise and conciliatory measures allowed the religion of Jesus to be embraced without the necessity of adopting Jewish practices. Consequently, the faith of those who were first called spread, resulting in the churches being established and increasing in number daily.",
+            "wordCount": 100,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.926042239033944,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.38,
+            "commentatorTierSimilarities": [
+                20.15,
+                47.16,
+                32.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The churches in the region were strengthened and increased due to the blessing of God on the work of Paul, Silas, and Timothy. By being established in the faith, believers confirmed their belief in the gospel. The decrees of the Apostolic Council removed a barrier, enabling the Gentiles to accept the gospel and its teachings without adhering to Jewish practices. As a result, the faith of those who were first called spread, leading to the growth and establishment of the churches.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9696614795997216,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                20.64,
+                45.36,
+                34.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The churches in the region were strengthened and increased by the blessing of God on the work of Paul, Silas, and Timothy. Being established in the faith, believers confirmed their belief in the gospel. The removal of barriers allowed the Gentiles to accept the gospel without adhering to Jewish practices. Consequently, the faith of those who were first called spread, leading to the growth and establishment of the churches.",
+            "wordCount": 69,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.886814749785476,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                20.48,
+                45.27,
+                34.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The churches were strengthened and increased, with the blessing of God on the work of Paul, Silas, and Timothy. Believers were established in the faith, confirming their belief in the gospel. The removal of barriers allowed Gentiles to accept the gospel without adhering to Jewish practices. As a result, the faith of those who were first called spread, leading to the growth and establishment of the churches.",
+            "wordCount": 67,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.893305834354968,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                21.32,
+                44.23,
+                34.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The churches in the region were strengthened and increased in number daily, as the blessing of God was upon the work of Paul, Silas, and Timothy. Believers were established in the faith, confirming their belief in the gospel. The decrees of the Apostolic Council played a role in removing significant barriers to the acceptance of the gospel by the Gentiles. This allowed the religion of Jesus to be embraced by people without the need for strict Jewish practices. As a result, the churches were established in the faith and grew in number continually.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.890014937072766,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.18,
+            "commentatorTierSimilarities": [
+                21.78,
+                45.54,
+                32.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

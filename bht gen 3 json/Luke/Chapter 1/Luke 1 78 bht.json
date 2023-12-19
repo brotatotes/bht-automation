@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:14:00",
+    "verseRef": "Luke 1:78",
+    "bestBHT": {
+        "bht": "The dayspring, or the Messiah, arises from beneath the horizon and brings light through the tender mercy of our God. This mercy, the sole spring of salvation, is described as the 'bowels of mercy.' The dayspring from on high, referring to Christ, visits us with the light of the gospel. This visitation fulfills prophecies and reflects God's mercy in dispelling the darkness of death and restoring the light of life. The source of pardon and salvation is the free grace and abundant mercy of our God, manifesting in Jesus Christ, the dayspring from on high. (73 words, 51.0% from quotes)",
+        "wordCount": 99,
+        "quoteTokenProportion": 27.78,
+        "qualityScore": 2.0379887139827577,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+        "commentatorTierSimilarities": [
+            26.06,
+            37.28,
+            36.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The dayspring does not come from on high, but from beneath the horizon; but the Messiah does.",
+            "[The word dayspring] had come apparently to be a name for the Messiah.",
+            "The springing up, or, the East, is in Jer. xxiii. 5, Zech. iii. 9, vi. 12, the LXX rendering for the Hebrew word for a branch or sprout."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Through the tender mercy of our God\u2014the sole spring, necessarily, of all salvation for sinners.",
+            "dayspring from on high\u2014either Christ Himself, as the 'Sun of righteousness,' arising on a dark world, or the light which He sheds.",
+            "The sense, of course, is one."
+        ],
+        "Albert Barnes": [
+            "The dayspring 'from on high'... the light of the gospel shines forth from heaven.\" ",
+            "God is its Author, and through His mercy it shines upon people.\" ",
+            "There is here, doubtless, a reference to Isaiah 60:1-2; indeed, almost the very words of that place are quoted."
+        ],
+        "Marvin Vincent": [
+            "mercy [\u03c3\u03c0\u03bb\u03b1\u03b3\u03c7\u03bd\u03b1 \u03b5\u03bb\u03b5\u03bf\u03c5\u03c2] . Lit., bowels of mercy.",
+            "The day - spring from on high [\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b7 \u03b5\u03be \u03c5\u03c8\u03bf\u03c5\u03c2] . Lit., the rising.",
+            "Hath visited [\u03b5\u03c0\u03b5\u03c3\u03ba\u03b5\u03c8\u03b1\u03c4\u03bf] . See on Matthew 25:36; 1 Peter 2:12."
+        ],
+        "John Calvin": [
+            "He employs more emphatic language, and says that it proceeded from the very bowels of the mercy of God.",
+            "Zacharias extols the mercy of God, as manifested in dispelling the darkness of death, and restoring to the people of God the light of life.",
+            "In this way, whenever our salvation is the subject, we ought to raise our minds to the contemplation of the divine mercy."
+        ],
+        "Philip Schaff": [
+            "Because of the tender mercy of our God. This is to be joined closely with Luke 1:77, giving the cause of the \u2018remission.\u2019",
+            "The dayspring from on high. An allusion to the Messiah and His salvation, as prophesied in Malachi 4:2, the last prophecy of the Old Testament.",
+            "Shall visit us. The future (sustained by the best authorities) is more distinctly prophetic of the speedy coming of the Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "Tender mercy (\u03c3\u03c0\u03bb\u03b1\u03b3\u03c7\u03bd\u03b1 \u03b5\u03bb\u03b5\u03bf\u03c5\u03c2). Bowels of mercy literally.",
+            "The dayspring from on high (\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b7 \u03b5\u03be \u03c5\u03c8\u03bf\u03c5\u03c2). Literally, rising from on high.",
+            "Shall visit (\u03b5\u03c0\u03b5\u03c3\u03ba\u03b5\u03c8\u03b5\u03c4\u03b1), correct text, cf. Luke 1:68."
+        ],
+        "John Gill": [
+            "The source and spring of pardon, is the free grace and abundant mercy of God; it takes its rise from thence, though it is channelled in the blood and sacrifice of Christ; and which no way derogates from, but rather heightens the riches of God's grace and mercy.",
+            "whatever the pardon of our sins cost God and Christ, it is all free grace and mercy to us: it is owing not to the absolute mercy of God, or to the mercy of God as an absolute God, but to the mercy of 'our' God; our God in Christ, our covenant God and Father, whose bowels yearned towards us, and whose pity is that of a tender parent.",
+            "the day spring from on high hath visited us: the word \u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b7, here used, and is translated 'the day spring', is the same which the Septuagint use, in Jeremiah 23:5 where the Messiah is spoken of, under the name of the 'branch'... the Messiah Jesus, is intended here, who is the man, that branch, that has grown up out of his place; not from below, but from above; and who is the phosphorus, or bringer of light, that bright and morning star, that sun of righteousness, who has light in himself, and communicates light to others."
+        ],
+        "John Wesley": [
+            "The day spring \u2014 Or the rising sun; that is, Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The dayspring, or the Messiah, arises from beneath the horizon and brings light to a dark world through the tender mercy of our God. This mercy, which is the sole spring of salvation for sinners, is described as the 'bowels of mercy,' emphasizing its depth and compassion. The dayspring from on high, referring to Christ as the 'Sun of righteousness,' visits us with the light of the gospel. This visitation is a fulfillment of the prophecies and demonstrates God's mercy in dispelling the darkness of death and restoring the light of life. The source and spring of pardon and salvation is the free grace and abundant mercy of our God, manifesting in Jesus Christ, the day spring from on high.",
+            "wordCount": 121,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 2.1837100638905538,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.95,
+            "commentatorTierSimilarities": [
+                25.1,
+                33.96,
+                40.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The dayspring, or the Messiah, arises from beneath the horizon and brings light through the tender mercy of our God. This mercy, the sole spring of salvation, is described as the 'bowels of mercy.' The dayspring from on high, referring to Christ, visits us with the light of the gospel. This visitation fulfills prophecies and reflects God's mercy in dispelling the darkness of death and restoring the light of life. The source of pardon and salvation is the free grace and abundant mercy of our God, manifesting in Jesus Christ, the dayspring from on high. (73 words, 51.0% from quotes)",
+            "wordCount": 99,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 2.0379887139827577,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+            "commentatorTierSimilarities": [
+                26.06,
+                37.28,
+                36.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The dayspring, or the Messiah, arises from beneath the horizon and brings light to a dark world through the tender mercy of our God. This mercy, the sole spring of salvation for sinners, is described as the 'bowels of mercy.' The dayspring from on high, referring to Christ as the 'Sun of righteousness,' visits us with the light of the gospel. This visitation is a fulfillment of the prophecies and demonstrates God's mercy in dispelling the darkness of death and restoring the light of life. (67 words, 55.2% from quotes)",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.0096061803605423,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "commentatorTierSimilarities": [
+                26.54,
+                36.46,
+                37.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The dayspring, or the Messiah, arises from beneath the horizon and brings light to a dark world through the tender mercy of our God. This mercy is the sole spring of salvation for sinners and is described as the 'bowels of mercy,' emphasizing its depth and compassion. The dayspring from on high refers to Christ, who visits us with the light of the gospel. This visitation fulfills prophecies and demonstrates God's mercy in dispelling the darkness of death and restoring the light of life. (75 words, 62.7% from quotes)",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9654459177939132,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.69,
+            "commentatorTierSimilarities": [
+                26.23,
+                36.68,
+                37.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The dayspring, or the Messiah, arises from beneath the horizon and brings light to a dark world through the tender mercy of our God. This mercy is the sole spring of salvation for sinners and is described as the 'bowels of mercy,' emphasizing its depth and compassion. The dayspring from on high, referring to Christ as the 'Sun of righteousness,' visits us with the light of the gospel. This visitation fulfills prophecies and demonstrates God's mercy in dispelling the darkness of death and restoring the light of life. (75 words, 62.7% from quotes)",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.982407047476948,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.26,
+            "commentatorTierSimilarities": [
+                26.18,
+                36.09,
+                37.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

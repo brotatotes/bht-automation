@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:34:06",
+    "verseRef": "Acts 20:14",
+    "bestBHT": {
+        "bht": "Paul and his companions arrived in Mitylene, the capital of the beautiful island of Lesbos. Mitylene, distinguished by the splendor of its edifices, lies opposite the eastern shore of the Aegean Sea. Luke emphasizes the moment when Paul came near or began to meet, indicating they immediately picked him up. This city, about thirty miles from Assos, allowed for an easy day's sailing. Paul did not preach here, but Mitylene holds significance as the birthplace of renowned poets Sappho and Alc\u00e6us.",
+        "wordCount": 82,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.766436873260822,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.08,
+        "commentatorTierSimilarities": [
+            38.31,
+            33.16,
+            28.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Mitylene, the capital of Lesbos, on the E. coast of the island, famed for its beautiful situation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mitylene\u2014the capital of the beautiful and classical island of Lesbos.",
+            "Lies opposite the eastern shore of the \u00c6gean Sea, about thirty miles south of Assos.",
+            "In whose harbor they seem to have lain for the night."
+        ],
+        "Albert Barnes": [
+            "Came to Mitylene - This was the capital of the island of Lesbos.\" (Commentary)",
+            "It was distinguished by the beauty of its situation, and the splendor and magnificence of its edifices.\" (Commentary)",
+            "The island on which it stood, Lesbos, was one of the largest in the Aegean Sea, and the seventh in the Mediterranean.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "Mitylene is about thirty miles from Assos... It is famed for its beautiful situation and the magnificence of its buildings.\" ",
+            "Horace styles it 'fair Mitylene'... It was the birthplace of Sappho and the poet Alc\u00e6us.\" ",
+            "The modern city on the same site is called Castro."
+        ],
+        "Archibald T. Robertson": [
+            "It may mean that as soon as (\u03c9\u03c2) Paul 'came near or began to meet us' (inchoative imperfect), we picked him up.",
+            "Luke alone in the N.T. uses \u03c3\u03c5\u03bd\u03b2\u03b1\u03bb\u03bb\u03c9 to bring or come together either in a friendly sense as here or as enemies (Luke 14:31).",
+            "The capital of Lesbos about thirty miles from Assos, an easy day's sailing."
+        ],
+        "John Gill": [
+            "...when the south wind blew, men were sick in it, and when the northwest wind blew they had coughs, and when the north wind blew, they were restored to health.",
+            "It does not appear that the apostle stayed and preached the Gospel here, or that any Gospel church was here by him raised...",
+            "In the 'fifth' century we read of a bishop of this island in the Chalcedon council."
+        ],
+        "John Wesley": [
+            "For Paul had determined to sail by Ephesus \u2014 Which lay on the other side of the bay.",
+            "He hasted to be at Jerusalem on the day of pentecost \u2014 Because then was the greatest concourse of people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul and his companions arrived in Mitylene, the capital of the beautiful island of Lesbos, which was known for its picturesque location and magnificent buildings. Here, they docked for the night in the harbor. Luke, the writer of Acts, emphasizes the moment when Paul came near or began to meet them, indicating that they immediately picked him up. Mitylene, located about thirty miles from Assos, was an easy day's sail away. Interestingly, Luke uses the word \u03c3\u03c5\u03bd\u03b2\u03b1\u03bb\u03bb\u03c9 (come together) in a friendly sense, highlighting the harmonious encounter. While Paul did not preach the Gospel here, Mitylene holds significance as the birthplace of renowned poets Sappho and Alc\u00e6us.",
+            "wordCount": 108,
+            "quoteTokenProportion": 32.53,
+            "qualityScore": 1.5747521356577705,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+            "commentatorTierSimilarities": [
+                35.07,
+                32.94,
+                31.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul and his companions arrived in Mitylene, the capital of the beautiful island of Lesbos. Mitylene, distinguished by the splendor of its edifices, lies opposite the eastern shore of the Aegean Sea. Luke emphasizes the moment when Paul came near or began to meet, indicating they immediately picked him up. This city, about thirty miles from Assos, allowed for an easy day's sailing. Paul did not preach here, but Mitylene holds significance as the birthplace of renowned poets Sappho and Alc\u00e6us.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.766436873260822,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.08,
+            "commentatorTierSimilarities": [
+                38.31,
+                33.16,
+                28.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul and his companions arrived in Mitylene, the capital of the beautiful island of Lesbos. This city, known for its picturesque location and magnificent buildings, lies opposite the eastern shore of the Aegean Sea. As soon as Paul came near or began to meet them, they immediately picked him up. Mitylene, about thirty miles from Assos, allowed for an easy day's sailing. While Paul did not preach the Gospel here, Mitylene holds significance as the birthplace of renowned poets Sappho and Alc\u00e6us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7107018039639352,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.22,
+            "commentatorTierSimilarities": [
+                38.61,
+                31.99,
+                29.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul and his companions docked in Mitylene, the capital of the beautiful island of Lesbos. Mitylene, celebrated for its stunning location and splendid structures, lies opposite the eastern shore of the Aegean Sea. As soon as Paul came near or began to meet them, they immediately picked him up. Mitylene, situated about thirty miles from Assos, allowed for a day's sail. Although Paul did not preach in Mitylene, it holds significance as the birthplace of renowned poets Sappho and Alc\u00e6us.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7163482124093035,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+            "commentatorTierSimilarities": [
+                39.65,
+                33.37,
+                26.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul and his companions arrived in Mitylene, the capital of the beautiful island of Lesbos. Mitylene, known for its picturesque location and magnificent buildings, lies opposite the eastern shore of the Aegean Sea. They seem to have stayed for the night in the harbor. Luke emphasizes the moment when Paul came near or began to meet them and they immediately picked him up. Mitylene, about thirty miles from Assos, made for an easy day's sailing. According to tradition, Mitylene was the birthplace of poets Sappho and Alc\u00e6us.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.699960931678532,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+            "commentatorTierSimilarities": [
+                39.84,
+                34.7,
+                25.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

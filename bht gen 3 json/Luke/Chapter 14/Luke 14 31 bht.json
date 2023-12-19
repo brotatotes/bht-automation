@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:20:12",
+    "verseRef": "Luke 14:31",
+    "bestBHT": {
+        "bht": "In this spiritual battle, there are two kings: the man striving for salvation and God, his adversary. The man questions whether his limited strength is enough to face the powerful forces aligned against him. Choosing to follow Christ without considering the demands of discipleship is both foolish and dangerous. The Christian life is marked by warfare against various enemies within and without. Seeking counsel from fellow believers and relying on God's guidance are essential in this ongoing battle for the soul.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.6374823135841534,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+        "commentatorTierSimilarities": [
+            25.17,
+            37.22,
+            37.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The two kings here are,\u2014the man desirous to become a disciple, to work out his salvation,\u2014and GOD, with whose just and holy law he is naturally at variance;\u2014it is his adversary.\u201d",
+            "It is his adversary.",
+            "These two are to engage in war."
+        ],
+        "Albert Barnes": [
+            "The enemies which we have to encounter in following him are many and strong, and that our strength is comparatively feeble.",
+            "Whether he will be able, with the forces which he has, to meet his enemy.",
+            "To contend with him. To gain a victory over him."
+        ],
+        "Marvin Vincent": [
+            "Out he flashed, And into such a song, such fire for fame, Such trumpet-blowings in it, coming down To such a stern and iron-clashing close, That when he stopped we longed to hurl together.\" TENNYSON, Idyls of the King. ",
+            "With ten thousand (ejn deka ciliasin). Lit., in ten thousands: i.e., in the midst of; surrounded by.",
+            "To make war against another king [\u03b5\u03c4\u03b5\u03c1\u03c9 \u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03b9 \u03c3\u03c5\u03bc\u03b2\u03b1\u03bb\u03b5\u03b9\u03bd \u03b5\u03b9\u03c2 \u03c0\u03bf\u03bb\u03b5\u03bc\u03bf\u03bd]. Lit., to come together with another king for war. So Rev., to encounter another king in war."
+        ],
+        "Philip Schaff": [
+            "The former illustration gives prominence to the folly, this to the danger, of following Christ, without due consideration of the requirements of discipleship (self-renunciation).\" ",
+            "The king with ten thousand represents the man who would become a disciple, and the original indicates that this is all the force he can muster.",
+            "The other king, with twenty thousand, represents God. For the natural man is at variance with God, and when one would become a Christian the first feeling is that God with His holy law is coming against him."
+        ],
+        "Archibald T. Robertson": [
+            "To encounter (\u03c3\u03c5\u03bd\u03b2\u03b1\u03bb\u03b5\u03b9\u03bd). Second aorist active infinitive of \u03c3\u03c5\u03bd\u03b2\u03b1\u03bb\u03bb\u03c9, old and common verb, to throw or bring together, to dispute, to clash in war as here.",
+            "To grapple with another king in war or for war (\u03b5\u03b9\u03c2 \u03c0\u03bf\u03bb\u03b5\u03bc\u03bf\u03bd). Associative instrumental case.",
+            "To take counsel with oneself, to deliberate, to ponder."
+        ],
+        "John Gill": [
+            "The Christian professor's life is a warfare; he is engaged with many enemies; the corruptions of his own heart within, and the world without; and especially Satan, who is to be resisted, and by no means to be yielded to, though there is a great inequality between them.",
+            "Their numbers are unequal; the people of Christ are few, and their force and strength in themselves small; and they have a large number of devils, and of the men of the world, and of the lusts of their own hearts, to grapple with.",
+            "Wherefore, it is necessary to sit down and consult, not with flesh and blood, but with other Christians; and chiefly, and above all, with God Himself; what will be the charges of this warfare; the hardships to be endured; in whose name and strength they are to engage; what weapons to take, and how to use them; and how to get knowledge of the designs, methods, and strength of the enemy, and take every advantage of him."
+        ],
+        "John Wesley": [
+            "Another king \u2014 Does this mean, the prince of this world? Certainly he has greater numbers on his side. How numerous are his children and servants!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There are two kings at war in this verse\u2014man in his pursuit of salvation and God, who holds the law that man is at odds with. The man, represented by the king with ten thousand, must consider whether he has the strength to contend against his powerful adversary. The folly and danger of following Christ without fully embracing the requirements of discipleship are highlighted, as the man realizes that God with His holy law is coming against him. The Christian life is a warfare where believers face numerous enemies, both internal and external, but they must consult with fellow believers and, above all, seek guidance from God to understand the challenges and engage in spiritual warfare.",
+            "wordCount": 117,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 1.8909546875122993,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                24.32,
+                37.54,
+                38.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this spiritual battle, there are two kings: the man striving for salvation and God, his adversary. The man questions whether his limited strength is enough to face the powerful forces aligned against him. Choosing to follow Christ without considering the demands of discipleship is both foolish and dangerous. The Christian life is marked by warfare against various enemies within and without. Seeking counsel from fellow believers and relying on God's guidance are essential in this ongoing battle for the soul.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.6374823135841534,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                25.17,
+                37.22,
+                37.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The war depicted in this passage is between the man seeking discipleship and God, who embodies the law that opposes him. The man doubts his ability to confront his formidable foe. Following Christ without understanding the requirements of discipleship is deemed foolish and perilous. Christians face a constant battle against internal and external adversaries. Seeking counsel from fellow believers and relying on God's guidance are crucial in navigating this struggle and effectively engaging in spiritual warfare.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.506984638028515,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.45,
+            "commentatorTierSimilarities": [
+                26.21,
+                39.33,
+                34.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man yearning to be a disciple finds himself in a war against his adversary - God and His just law. Questioning his own abilities, he wonders if he can stand against his powerful foe. The dangers of embracing Christ without sincere self-renunciation are brought to the forefront. The Christian life entails a constant battle against numerous enemies: the corruption within, the world outside, and Satan. Seeking guidance from fellow believers and, above all, from God is essential in this spiritual warfare.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5643488591288204,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.36,
+            "commentatorTierSimilarities": [
+                25.05,
+                37.96,
+                36.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the struggle of discipleship, a man confronts God, his adversary of divine law. Doubting his own capabilities, he questions if he can muster enough strength to face his formidable opponent. It is unwise and perilous to follow Christ without truly surrendering self. The Christian life is a constant battle against internal and external enemies. Seeking counsel from fellow believers and relying on God's guidance are vital in navigating this spiritual warfare.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5194982520573537,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                26.93,
+                36.77,
+                36.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

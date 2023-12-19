@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:18:09",
+    "verseRef": "Galatians 4:10",
+    "bestBHT": {
+        "bht": "Paul admonishes against the obligatory observance of days, as it contradicts the perfection of the Christian dispensation and Christ's finished work. He grieves to see Gentile believers entangled in the Judaizing Christians' insistence on meticulous adherence to Jewish Sabbaths, new moons, and festivals. While the civil observance of days is necessary, the true rest and freedom for believers is found in Christ, not in the observance of these specific dates.",
+        "wordCount": 71,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 2.3625283255940683,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.89,
+        "commentatorTierSimilarities": [
+            33.05,
+            33.79,
+            33.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Notice how utterly such a verse is at variance with any and every theory of a Christian sabbath, cutting at the root, as it does, of ALL obligatory observance of times as such.\" ",
+            "To observe periods then, now in the fulness of time, is to deny the perfection of the Christian dispensation, the complete and finished nature of Christ\u2019s work.",
+            "To throw aside sonship in all its fulness, and the spirit of adoption: and to return to childhood and the rule of tutors and governors."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To regard the observance of certain days as in itself meritorious as a work, is alien to the free spirit of Christianity.",
+            "The whole life alike belongs to the Lord in the Gospel view, just as the whole world, and not the Jews only, belong to Him.",
+            "But as in Paradise, so now one portion of time is needed wherein to draw off the soul more entirely from secular business to God."
+        ],
+        "Albert Barnes": [
+            "It is not a fair interpretation of this to suppose that the apostle refers to the Sabbath, properly so called, for this was a part of the Decalogue; and was observed by the Saviour himself, and by the apostles also.",
+            "There is as real servitude in the observance of the numerous festivals, and fasts in the papal communion and in some Protestant churches, as there was in the observance of the days in the Jewish ecclesiastical calendar.",
+            "We should observe as seasons of holy time what it can be proved God has commanded us, and no more."
+        ],
+        "Marvin Vincent": [
+            "The word denotes careful, scrupulous observance, an intent watching lest any of the prescribed seasons should be overlooked.\" ",
+            "In the preexilic time the months were mostly not named but numbered first, second, third, etc., and this usage appears also in the post - exilic writings of the O. T.",
+            "The holy, festal seasons, as Passover Pentecost, Feast of Tabernacles."
+        ],
+        "John Calvin": [
+            "No condemnation is here given to the observance of dates in the arrangements of civil society. The order of nature out of which this arises, is fixed and constant.",
+            "The civil observation of days contributes not only to agriculture and to matters of politics, and ordinary life, but is even extended to the government of the church.",
+            "The observance of days among us is a free service, and void of all superstition."
+        ],
+        "Philip Schaff": [
+            "Is it possible that you should observe!",
+            "Paul denounces the Pharisaic Sabbatarianism... It was a pedantic, mechanical, slavish observance which worshipped the letter and killed the spirit.",
+            "The law of the Sabbath... is as old as the creation, it is founded in the moral and physical constitution of man... and is an absolute necessity for public worship and the welfare of man."
+        ],
+        "Archibald T. Robertson": [
+            "The meticulous observance of the Pharisees Paul knew to a nicety.",
+            "It hurt him to the quick after his own merciful deliverance to see these Gentile Christians drawn into this spider-web of Judaizing Christians, once set free, now enslaved again.",
+            "Paul does not object to these observances for he kept them himself as a Jew. He objected to Gentiles taking to them as a means of salvation."
+        ],
+        "John Gill": [
+            "By 'days' are meant their seventh day sabbaths...These were peculiar to the Israelites, and not binding on others; and being typical of Christ, the true rest of his people, and he being come, are now ceased.",
+            "By 'months' are designed their new moons...and were typical of that light, knowledge, and grace, the church receives from Christ, the sun of righteousness; and he, the substance, being come, these shadows disappeared.",
+            "And by 'years' are to be understood their sabbatical years...which having their accomplishment in him, were no longer to be observed; wherefore these Galatians are blamed for so doing."
+        ],
+        "John Wesley": [
+            "Ye observe days \u2014 Jewish sabbaths.",
+            "And months \u2014 New moons.",
+            "And times \u2014 As that of the passover, pentecost, and the feast of tabernacles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To observe certain days as meritorious works is contrary to the spirit of Christianity and denies the complete and finished nature of Christ's work. The apostle Paul, having experienced deliverance from the bondage of the law, was pained to see the Gentile Christians being ensnared by the Judaizing Christians who advocated for the observance of specific dates. While the civil observation of days serves practical purposes, the meticulous and slavish observance of Jewish Sabbaths, new moons, and the holy feasts was not binding on the Gentiles and was abolished with the coming of Christ. The true rest of believers is found in Christ, not in the observance of these days.",
+            "wordCount": 111,
+            "quoteTokenProportion": 26.76,
+            "qualityScore": 2.346188040242378,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.35,
+            "commentatorTierSimilarities": [
+                33.09,
+                35.3,
+                31.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To insist on the obligatory observance of certain days is to reject the perfect and complete nature of Christ's work. Paul, having experienced the mercy of deliverance, was troubled to see Gentile Christians drawn into the bondage of Judaizing Christians who advocated for the meticulous observance of Jewish Sabbaths, new moons, and holy feasts. While the civil observation of days serves practical purposes, the true rest for believers is found in Christ, not in the observance of these specific dates.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.2559980389828826,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.35,
+            "commentatorTierSimilarities": [
+                33.66,
+                33.03,
+                33.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul admonishes against the obligatory observance of days, as it contradicts the perfection of the Christian dispensation and Christ's finished work. He grieves to see Gentile believers entangled in the Judaizing Christians' insistence on meticulous adherence to Jewish Sabbaths, new moons, and festivals. While the civil observance of days is necessary, the true rest and freedom for believers is found in Christ, not in the observance of these specific dates.",
+            "wordCount": 71,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.3625283255940683,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.89,
+            "commentatorTierSimilarities": [
+                33.05,
+                33.79,
+                33.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To observe certain days as meritorious works denies the complete and finished nature of Christ's work and contradicts the spirit of Christianity. Paul, having experienced deliverance, was pained to see Gentile Christians drawn into the bondage of Judaizing Christians who advocated for the observance of specific dates. The true rest of believers is found in Christ, not in the meticulous and slavish observance of Jewish Sabbaths, new moons, and holy feasts. The civil observation of days serves practical purposes, but the Christian faith transcends the need for the observance of these specific dates.",
+            "wordCount": 94,
+            "quoteTokenProportion": 23.08,
+            "qualityScore": 2.329924981597233,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.81,
+            "commentatorTierSimilarities": [
+                33.16,
+                35.03,
+                31.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To observe certain days as meritorious works denies the finished nature of Christ's work, contradicting the essence of Christianity. Paul was troubled to see Gentile believers ensnared by Judaizing Christians' insistence on meticulous observance of Jewish Sabbaths, new moons, and holy feasts. While civil observance of days serves practical purposes, believers find true rest in Christ, rather than in the observance of specific dates. The Christian faith transcends the need for such observance, embracing the freedom that comes through Christ's redemptive work.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 2.2953884796604758,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.66,
+            "commentatorTierSimilarities": [
+                34.33,
+                34.36,
+                31.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

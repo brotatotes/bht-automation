@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:31:50",
+    "verseRef": "Acts 15:35",
+    "bestBHT": {
+        "bht": "During this time, teaching and preaching continued in Antioch, reaching both disciples and those outside the faith. The Gospel spread as a result of a general revival and victory in Jerusalem. Despite the dissension between Paul and Peter and wavering beliefs, the focus remained on Christ and eternal life. The faithful proclamation of the word of the Lord to Jews and Gentiles was central, resulting in a season of rich ministry in Antioch.",
+        "wordCount": 73,
+        "quoteTokenProportion": 26.92,
+        "qualityScore": 1.7719196240111739,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+        "commentatorTierSimilarities": [
+            29.9,
+            31.58,
+            38.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "35.] teaching, to those who had received it,\u2014preaching to those who had not."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They continued in Antioch, teaching\u2014to the disciples, and preaching\u2014to those without.\" ",
+            "How rich must Antioch at this time have been in the ministrations of the Gospel!",
+            "DISSENSION BETWEEN PAUL AND BARNABAS\u2014THEY PART COMPANY TO PROSECUTE SEPARATE MISSIONARY TOURS."
+        ],
+        "Albert Barnes": [
+            "Paul also, and Barnabas, continued in Antioch.\" ",
+            "How long a time is unknown.",
+            "It is probable that at this time the unhappy incident occurred between Paul and Peter which is recorded in Galatians 2:11-14."
+        ],
+        "Philip Schaff": [
+            "They brought with them their old Hebrew repugnance against social intercourse with the uncircumcised; and Peter in their society began to vacillate.",
+            "Just as in an earlier part of his life he had first asserted his readiness to follow his Master to death, and then denied Him through fear of a maid-servant; so now, after publicly protesting against the notion of making any difference between the Jew and the Gentile, and against laying on the neck of the latter a yoke which the former had never been able to bear, we find him contradicting his own principles.",
+            "We see how entirely past differences are forgotten, how all earthly misunderstandings are absorbed and lost in the contemplation of Christ and the eternal life."
+        ],
+        "Archibald T. Robertson": [
+            "A time of general revival and naturally so after the victory at Jerusalem.",
+            "At first Peter mingled freely with the Greek Christians without the compunctions shown at Caesarea and for which he had to answer in Jerusalem.",
+            "It was a crisis."
+        ],
+        "John Gill": [
+            "Teaching and preaching the word of the Lord; the Gospel of Christ; not the word of men, but the word of the Lord, of which he is both the author and subject.",
+            "This they preached in season, and out of season, with power, purity, plainness, and faithfulness.",
+            "And many others also; who either came along with them from Jerusalem, when they brought the letter from thence, or were here before."
+        ],
+        "John Wesley": [
+            "St. Paul withstood him to the face, for separating himself from the Gentiles.\" ",
+            "Paul and Barnabas abode in Antioch."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During this time in Antioch, there was a great richness in the ministrations of the Gospel, with teaching and preaching being carried out to both the disciples and those outside the faith. It was a time of general revival and growth, following the victory in Jerusalem. However, it was also a time of crisis, marked by dissension between Paul and Peter. Peter, who had previously mingled freely with the Greek Christians, began to vacillate in his beliefs and contradict his own principles. Despite past differences and misunderstandings, the focus remained on Christ and the eternal life. Lord's word was taught and preached with power, purity, plainness, and faithfulness to both Jews and Gentiles.",
+            "wordCount": 114,
+            "quoteTokenProportion": 32.05,
+            "qualityScore": 1.713617005394362,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+            "commentatorTierSimilarities": [
+                27.52,
+                35.08,
+                37.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During this time in Antioch, the Gospel was flourishing, with teaching and preaching being carried out to both disciples and those outside the faith. It was a season of revival and growth, following the victory in Jerusalem. However, dissension arose between Paul and Peter, with Peter vacillating in his beliefs and contradicting his own principles. Despite the discord, the focus remained on Christ and the eternal life, with the word of the Lord proclaimed faithfully and powerfully to both Jews and Gentiles.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6670716065041402,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+            "commentatorTierSimilarities": [
+                27.19,
+                34.26,
+                38.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During this time in Antioch, the Gospel flourished as teaching and preaching reached both disciples and those outside the faith. It was a season of revival and growth after the Jerusalem victory. A crisis emerged, as dissension arose between Paul and Peter\u2014Peter vacillating in his beliefs and contradicting his own principles. Nonetheless, the focus remained on Christ and eternal life as the word of the Lord was proclaimed faithfully and powerfully to both Jews and Gentiles.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6622488168494776,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.61,
+            "commentatorTierSimilarities": [
+                27.35,
+                34.35,
+                38.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Antioch, the Gospel thrived through teaching and preaching for both disciples and those outside the faith. It was a season of revival and growth following the Jerusalem victory. However, dissension between Paul and Peter arose, with Peter wavering in his beliefs and contradicting his own principles. Yet the focus remained steadfast on Christ and eternal life. The word of the Lord was boldly and faithfully proclaimed to both Jews and Gentiles, shaping a time of rich ministry in Antioch.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.6287807238822705,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                26.41,
+                33.83,
+                39.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During this time, teaching and preaching continued in Antioch, reaching both disciples and those outside the faith. The Gospel spread as a result of a general revival and victory in Jerusalem. Despite the dissension between Paul and Peter and wavering beliefs, the focus remained on Christ and eternal life. The faithful proclamation of the word of the Lord to Jews and Gentiles was central, resulting in a season of rich ministry in Antioch.",
+            "wordCount": 73,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.7719196240111739,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                29.9,
+                31.58,
+                38.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

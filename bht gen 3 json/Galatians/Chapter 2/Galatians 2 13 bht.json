@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 14:13:32",
+    "verseRef": "Galatians 2:13",
+    "bestBHT": {
+        "bht": "The clash between Paul and Peter sheds light on the history of the early church. Their disagreement in Antioch revealed the indecisiveness of the apostolic church concerning the observance of the Jewish law. Peter's hypocrisy, joined by other Jews including Barnabas, demonstrated a concealment of their own liberal convictions and a professing adherence to the narrow Pharisaic view. This compromise threatened the essence of the Gospel, with Paul standing alone in the cause of spiritual freedom in Christ.",
+        "wordCount": 79,
+        "quoteTokenProportion": 26.79,
+        "qualityScore": 1.944699700509227,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+        "commentatorTierSimilarities": [
+            43.86,
+            31.31,
+            24.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The very foundation itself. It was not now a question of using a liberty, but of asserting a truth, that of justification by the faith of Christ, and not by the works of the law.",
+            "Besides the antagonism in which this passage represents the two great Apostles, it throws an important light on the history of the apostolic church.",
+            "Also as pourtraying the state of indecision in which all, except St. Paul, even including Barnabas, were in reference to the observance of the Jewish law."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "joined in hypocrisy,\" namely, in living as though the law were necessary to justification, through fear of man, though they knew from God their Christian liberty of eating with Gentiles, and had availed themselves of it already.",
+            "It was not a question of liberty, and of bearing with others' infirmities, but one affecting the essence of the Gospel, whether the Gentiles are to be virtually 'compelled to live as do the Jews,' in order to be justified.",
+            "Showing the power of bad example and numbers. In Antioch, the capital of Gentile Christianity and the central point of Christian missions, the controversy first arose, and in the same spot it now broke out afresh; and here Paul had first to encounter the party that afterwards persecuted him in every scene of his labors."
+        ],
+        "Albert Barnes": [
+            "That is, those who had been converted to Christianity.",
+            "They attempted to conceal from those who had come down from James the fact that they had been in the habit of associating with the Gentiles.",
+            "The fact, therefore, that the conduct of Peter was exciting so unhappy an influence as even to lead so worthy and good a man as he was into hypocrisy and error, made it the more proper that Paul should publicly notice and reprove the conduct of Peter."
+        ],
+        "Marvin Vincent": [
+            "Their act was hypocrisy, because it was a concealment of their own more liberal conviction, and an open profession of still adhering to the narrow Pharisaic view.\" ",
+            "It was 'a practical denial of their better spiritual insight' (Wieseler).",
+            "In Paul only here and Romans 12:16, on which see note."
+        ],
+        "Philip Schaff": [
+            "For we have here no mere accommodation to weak brethren for the sake of charity and peace...but a duplicity and self-contradiction at the expense of truth.\" ",
+            "The logical tendency of this conduct was evidently to break up the communion of the two branches of the church, although he himself would no doubt have deplored such a result.",
+            "The word 'even' implies sadness arising from respect and affection. Comp. C\u00e6sar\u2019s Et tu, Brute!"
+        ],
+        "Archibald T. Robertson": [
+            "One example in Polybius means to pretend to act a part with. That idea here would help the case of the rest of the Jews, but does not accord with Paul's presentation.",
+            "Actual result expressed by \u03c9\u03c3\u03c4\u03b5 and the indicative and \u03ba\u03b1 clearly means 'even.'",
+            "It was a solemn moment when Paul saw the Jerusalem victory vanish and even Barnabas desert him as they followed the timid cowardice of Peter. It was Paulus contra mundum in the cause of spiritual freedom in Christ."
+        ],
+        "John Gill": [
+            "And the other Jews dissembled likewise with him...concealed their true sentiments, and acted the very reverse of them, and of their former conduct.",
+            "Barnabas also was carried away with their dissimulation...so forcible was the example of Peter, and the other Jews, that, as with a mighty torrent, he was carried away with it, and not able to withstand it.",
+            "Such is the force of example in men who are had in great veneration and esteem...it becomes all persons...to be careful what examples they set, since men both of grace and sense are much influenced by them."
+        ],
+        "John Wesley": [
+            "And the other believing Jews... dissembled with him.\" ",
+            "So that even Barnabas was carried away with their dissimulation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, the dispute between the Apostles Paul and Peter sheds light on the early history of the church and the struggle to uphold the truth of justification by faith in Christ alone. The actions of Peter and the other Jews, including Barnabas, in conforming to Judaic practices were not simply a matter of tolerance or accommodation for weaker brethren, but rather a denial of their own conviction and a betrayal of the freedom found in Christ. This act of hypocrisy had far-reaching consequences, threatening the unity of the church and perpetuating a dangerous compromise with legalistic views. Despite the disheartening turn of events, Paul stood firm in his commitment to the spiritual freedom found in Christ, even when faced with opposition from his fellow apostles.",
+            "wordCount": 128,
+            "quoteTokenProportion": 31.33,
+            "qualityScore": 2.0213550609726245,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                42.47,
+                35.95,
+                21.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The clash between Paul and Peter provides crucial insights into the early Church and its struggle to defend the core truth of salvation by faith in Jesus Christ alone. Peter's hypocrisy, in conformity with Judaic practices, was not merely a matter of tolerance but a denial of their own convictions and a betrayal of the freedom found in Christ. This compromise threatened the unity of the church and perpetuated legalistic views. Despite opposition, Paul remained resolute in his commitment to the spiritual freedom found in Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8933762142570654,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "commentatorTierSimilarities": [
+                44.12,
+                35.45,
+                20.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The clash between Paul and Peter shed light on the history of the early church. Peter's hypocrisy, along with the other Jews, had a significant influence, leading even Barnabas astray. This display of duplicity jeopardized the unity of the church and compromised the truth of justification by faith in Christ. However, Paul remained steadfast in upholding the doctrine of spiritual freedom in Christ, even when facing opposition from his fellow apostles. The incident at Antioch demonstrated the power of bad example and the importance of setting a righteous example for others.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.9254284757346074,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                40.02,
+                33.52,
+                26.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The clash between Paul and Peter sheds light on the history of the early church. Peter's hypocrisy, along with the other Jews, had a significant influence, leading even Barnabas astray. This display of duplicity jeopardized the unity of the church and compromised the truth of justification by faith in Christ. However, Paul remained steadfast in upholding the doctrine of spiritual freedom in Christ, even when facing opposition from his fellow apostles. The incident at Antioch demonstrated the power of bad example and the importance of setting a righteous example for others.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.924740427406645,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.34,
+            "commentatorTierSimilarities": [
+                39.98,
+                33.62,
+                26.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The clash between Paul and Peter sheds light on the history of the early church. Their disagreement in Antioch revealed the indecisiveness of the apostolic church concerning the observance of the Jewish law. Peter's hypocrisy, joined by other Jews including Barnabas, demonstrated a concealment of their own liberal convictions and a professing adherence to the narrow Pharisaic view. This compromise threatened the essence of the Gospel, with Paul standing alone in the cause of spiritual freedom in Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.944699700509227,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                43.86,
+                31.31,
+                24.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

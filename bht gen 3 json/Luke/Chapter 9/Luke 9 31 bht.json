@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:17:20",
+    "verseRef": "Luke 9:31",
+    "bestBHT": {
+        "bht": "In this account, Moses and Elijah engage in a conversation with Jesus about His impending death, which is referred to as His decease or exit. This interaction serves to strengthen Jesus' resolve as He prepares for the fulfillment of prophecies and the accomplishment of His mission. Moses and Elijah's acknowledgement of the significance of Jesus' sufferings and death underscores the divine plan for redemption and emphasizes the central role that His decease plays in bringing about this salvation.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8920707154383969,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+        "commentatorTierSimilarities": [
+            44.52,
+            0.0,
+            55.48
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This decease is expressed in the original by the word exodus, going forth, which could be no other than His death.\" ",
+            "which he should accomplish, literally, fulfil,\u2014by divine appointment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A dying Messiah is the great article of the true Jewish theology.",
+            "Their felt dependence upon it for the glory in which they appeared; their profound interest in the progress of it, their humble solaces and encouragements to go through with it; and their sense of its peerless and overwhelming glory.",
+            "The Cross to Him is the Crown to us, that that 'decease' is all our salvation and all our desire."
+        ],
+        "Marvin Vincent": [
+            "Decease [\u03b5\u03be\u03bf\u03b4\u03bf\u03bd] . The Rev. retains the word of the A. V., though it has, to modern ears, a somewhat formal sound. No word, however, could more accurately represent the original, which is compounded of ejx, out of, and oJdov, a journeying; and thus corresponds to the Latin decessus, a going away, whence the word decease.\" ",
+            "The Greek word is familiar to us as exodus, applied principally to the migration of the Hebrews from Egypt, and thus used at Hebrews 11:22, departing.",
+            "In the mouth of Christ it covers the ideas both of death and ascension."
+        ],
+        "Archibald T. Robertson": [
+            "They spoke of his decease, very much like our English word 'decease'.\" ",
+            "The purpose of the Transfiguration was to strengthen the heart of Jesus as he was praying long about his approaching death.",
+            "No one on earth understood the heart of Jesus and so Moses and Elijah came."
+        ],
+        "John Gill": [
+            "Death is a departure out of this world, and goes by this name, 2 Peter 1:15 and so here it signifies Christ's death, or exit, which he was to make at Jerusalem; and Moses and Elias talk with him about this; the nature, manner, use, and near approach of it; and to which they might encourage him, as man.",
+            "The sufferings and death of Christ were what Moses and the prophets had foretold; and these two speak of the same things now; and which must serve to confirm what Christ a few days ago had showed his disciples, that he must go to Jerusalem, and there suffer and die.",
+            "Some render this word, 'Expedition', and think it refers to the whole affair of the redemption of Christ's people by him, from the bondage of sin, Satan, and the law, by his sufferings and death; of which the deliverance of the people of Israel out of Egypt was a lively representation."
+        ],
+        "John Wesley": [
+            "In glory \u2014 Like Christ with whom they talked."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 9:31, the commentators explain that the word decease refers to Jesus' death, or exit, that he was to make at Jerusalem. Moses and Elijah spoke with Jesus about his approaching death, strengthening his heart as he prayed. This transfiguration served to confirm what Jesus had previously revealed to his disciples about his suffering and death. The commentators highlight how Moses and Elijah understood the heart of Jesus, as they spoke of the same things that were prophesied about him. The sufferings and death of Christ were foretold by Moses and the prophets, and this conversation between Jesus, Moses, and Elijah confirms the purpose and fulfillment of Christ's mission.",
+            "wordCount": 110,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.9998993343428544,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                43.22,
+                0.0,
+                56.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Jesus' impending death, referred to as His decease or exit, is discussed by Moses and Elijah. Their conversation about Jesus' incarnate mission and the fulfillment of prophecies serves to strengthen His heart. By speaking of the same things foretold by Moses and the prophets, Moses and Elijah confirm Jesus' purpose and the significance of His sufferings and death. This transfiguration encounter deepens Jesus' understanding of His upcoming sacrifice and reinforces the divine plan for redemption.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.9197636413291717,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.17,
+            "commentatorTierSimilarities": [
+                44.31,
+                0.0,
+                55.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, Jesus' death, also known as His decease or exit, is the topic of conversation between Moses and Elijah. Their discussion about the fulfillment of prophecies and Jesus' incarnate mission strengthens His resolve and prepares Him for what lies ahead. By speaking of the same things foretold by Moses and the prophets, Moses and Elijah affirm the purpose and importance of Jesus' sufferings and death. This transfiguration encounter serves as a powerful reminder of the divine plan for redemption and highlights the significant role that Jesus' death plays in fulfilling that plan.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.8755943699885185,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.71,
+            "commentatorTierSimilarities": [
+                44.94,
+                0.0,
+                55.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, Moses and Elijah engage in a conversation with Jesus about His impending death, which is referred to as His decease or exit. This interaction serves to strengthen Jesus' resolve as He prepares for the fulfillment of prophecies and the accomplishment of His mission. Moses and Elijah's acknowledgement of the significance of Jesus' sufferings and death underscores the divine plan for redemption and emphasizes the central role that His decease plays in bringing about this salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8920707154383969,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+            "commentatorTierSimilarities": [
+                44.52,
+                0.0,
+                55.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this context, the discussion between Jesus, Moses, and Elijah revolves around Jesus' forthcoming decease or exit, which primarily refers to His death. This conversation not only strengthens Jesus' resolve but also highlights the fulfillment of prophecies concerning His suffering and death. Moses and Elijah's understanding of the significance of Jesus' decease emphasizes the integral role it plays in the divine plan for redemption. Through this encounter, Jesus gains profound insight into the purpose and magnitude of His impending sacrifice.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8138978181977552,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+            "commentatorTierSimilarities": [
+                46.5,
+                0.0,
+                53.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

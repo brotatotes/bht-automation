@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:19:21",
+    "verseRef": "Luke 13:18",
+    "bestBHT": {
+        "bht": "The parable of the leaven illustrates the internal growth of the kingdom of God, while the parable of the mustard seed exemplifies its external impact. Through the Gospel's all-penetrating and assimilating quality, it will shape and transform institutions and tribes, ultimately establishing one unified kingdom under the Lord and His Christ. The meaning of the word 'therefore' is uncertain, whether it refers to the woman's healing or the crowd's enthusiasm. This parable prompts us to ponder the profound connection between the kingdom of God and the kingdom of heaven.",
+        "wordCount": 93,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.3943081602870298,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.7,
+        "commentatorTierSimilarities": [
+            64.36,
+            0.0,
+            35.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The parable of 'the Leaven' sets forth, perhaps, rather the inward growth of the kingdom, while 'the Mustard Seed' seems to point chiefly to the outward.",
+            "It yields more real satisfaction to see in this brief parable just the all-penetrating and assimilating quality of the Gospel, by virtue of which it will yet mould all institutions and tribes of men.",
+            "...exhibit over the whole earth one 'Kingdom of our Lord and of His Christ.'"
+        ],
+        "Archibald T. Robertson": [
+            "It is not clear to what to refer 'therefore,'",
+            "whether to the case of the woman in verse Luke 13:11,",
+            "the enthusiasm of the crowd in verse Luke 13:17,"
+        ],
+        "John Gill": [
+            "Then said he, unto what is the kingdom of God like?.... The same with the kingdom of heaven...\" ",
+            "...and whereunto shall I resemble it?\" ",
+            "...of this way of speaking..."
+        ],
+        "John Wesley": [
+            "Matthew 13:31; Mark 4:30."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the leaven in Luke 13 describes the inward growth of the kingdom of God, while the parable of the mustard seed speaks to its outward manifestation. Through the all-penetrating and assimilating qualities of the Gospel, the kingdom will ultimately shape and transform all institutions and peoples, resulting in one unified kingdom under the Lord and His Christ. It is unclear what exactly the therefore in this verse refers to, whether it is the woman's healing or the fervor of the crowd, but this parable invites us to consider the wonder and potential of the kingdom of God and how it can be compared to the kingdom of heaven. (Matthew 13:31; Mark 4:30)",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.696419890302375,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.75,
+            "commentatorTierSimilarities": [
+                47.76,
+                0.0,
+                52.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of the leaven signifies the internal growth of the kingdom of God, while the parable of the mustard seed represents its external influence. Through the transformative power of the Gospel, the kingdom has the potential to mold and encompass all aspects of society. The goal is to establish a unified kingdom under the authority of our Lord and His Christ, fulfilling the prophecy of a single worldwide kingdom. The exact significance behind the word 'therefore' remains unclear, and its reference may be to either the woman's healing or the crowd's enthusiasm. The parable urges us to contemplate the profound nature and parallels between the kingdom of God and the kingdom of heaven.",
+            "wordCount": 116,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.338823598231611,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.86,
+            "commentatorTierSimilarities": [
+                64.04,
+                0.0,
+                35.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the leaven emphasizes the internal growth of the kingdom of God, while the parable of the mustard seed highlights its external impact. The Gospel possesses the all-penetrating and assimilating quality that will shape and influence all institutions and peoples. Ultimately, the kingdom of God will unite under the Lord and His Christ, creating one kingdom that spans the entire earth. It is unclear what the word 'therefore' in this context refers to, whether the healing of the woman or the fervor of the crowd. The parable invites us to consider the remarkable nature of the kingdom of God and its parallel with the kingdom of heaven.",
+            "wordCount": 110,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.3738972592397463,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.03,
+            "commentatorTierSimilarities": [
+                63.68,
+                0.0,
+                36.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable of the leaven highlights the internal growth of the kingdom of God, while the parable of the mustard seed emphasizes its outward influence. Through the transformative power of the Gospel, the kingdom will shape and mold all institutions and tribes of people, establishing a unified kingdom under the Lord and His Christ. The exact meaning of the word 'therefore' remains unclear, whether it refers to the woman's case or the crowd's enthusiasm. This parable invites us to reflect on the profound similarities between the kingdom of God and the kingdom of heaven.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3891698048412937,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.53,
+            "commentatorTierSimilarities": [
+                64.05,
+                0.0,
+                35.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the leaven illustrates the internal growth of the kingdom of God, while the parable of the mustard seed exemplifies its external impact. Through the Gospel's all-penetrating and assimilating quality, it will shape and transform institutions and tribes, ultimately establishing one unified kingdom under the Lord and His Christ. The meaning of the word 'therefore' is uncertain, whether it refers to the woman's healing or the crowd's enthusiasm. This parable prompts us to ponder the profound connection between the kingdom of God and the kingdom of heaven.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.3943081602870298,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.7,
+            "commentatorTierSimilarities": [
+                64.36,
+                0.0,
+                35.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

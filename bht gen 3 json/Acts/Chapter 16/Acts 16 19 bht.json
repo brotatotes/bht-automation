@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:32:22",
+    "verseRef": "Acts 16:19",
+    "bestBHT": {
+        "bht": "When the masters of the girl possessed by an evil spirit saw that their hope of gain had disappeared, they seized Paul and Silas and dragged them into the market square. This incident reveals the power of Christianity in challenging societal norms, such as the elevation of women and the abolition of slavery. The materialistic mindset of the masters, driven by their love of wealth, blinded them to the supernatural healing that had taken place. Their reaction exemplifies how the gospel disrupts dishonorable occupations and calls for honesty and conscientiousness.",
+        "wordCount": 90,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.754658391417097,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.68,
+        "commentatorTierSimilarities": [
+            30.43,
+            44.45,
+            25.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Her masters perceived that the hope of their gain had gone out (with the d\u00e6mon).\" ",
+            "Paul and Silas only are apprehended as having been the principal persons in the company.\" ",
+            "They dragged them to the forum to the authorities,\u2014afterwards specified as magistrates (or generals, see below)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "when her masters saw that the hope of their gains was gone, they caught Paul and Silas",
+            "and drew them into the market-place",
+            "We have here a full and independent confirmation of the reality of this supernatural cure"
+        ],
+        "Albert Barnes": [
+            "Their indignation furnishes a remarkable illustration of the fixedness with which people will regard wealth; of the fact that the love of it will blind them to all the truths of religion, and all the proofs of the power and presence of God.",
+            "Any interposition of divine power that destroys their hopes of gain, fills them with wrath, and hatred, and complaining.",
+            "No small part of the opposition to the gospel arises from the fact that, if embraced, it would strike at so much of the dishonorable employments of people, and make them honest and conscientious."
+        ],
+        "Marvin Vincent": [
+            "Was gone [\u03b5\u03be\u03b7\u03bb\u03b8\u03b5\u03bd] . Went out with the evil spirit."
+        ],
+        "John Calvin": [
+            "We must not rashly condemn things which are well done, and that which is taken in hand at the commandment of God, though an unhappy success follow; because God doth then examine [test] the constancy of those which be his, until a more joyful and prosperous end drive away all sorrow.",
+            "Though their wicked desire appear plainly, yet, with an impudent withal. So at this day those Papists which are more zealous over their law, have nothing else in their minds besides their gain and government.",
+            "For they be either hungry dogs pricked forward with greediness, or furious lions breathing out nothing but cruelty."
+        ],
+        "Philip Schaff": [
+            "It was simply revenge that prompted these covetous men to procure the apostles arrest.",
+            "When the evil spirit had once been exorcised, the power of ventriloquism and of uttering prophecies of future events was gone, and with it their hope of making money out of her.",
+            "That is, into the Forum, where the city authorities, who in a \u2018colony\u2019 like Philippi were styled praetors, held their court of justice."
+        ],
+        "Archibald T. Robertson": [
+            "The two most important social revolutions worked by Christianity have been the elevation of woman and the abolition of slavery\" (Furneaux).",
+            "The most sensitive part of 'civilized' man is the pocket\" (Ramsay).",
+            "It is also used of spiritual drawing as by Jesus\" in John 12:32."
+        ],
+        "John Gill": [
+            "she not being wild and frantic, and not having such motions and agitations she had whilst under the possession of the evil spirit",
+            "the evil spirit which was the ground and foundation of all their hope of gains, they expected to acquire for themselves",
+            "they laid hold on them, took them by the collar, or held them by their clothes, and drew them into the market place"
+        ],
+        "John Wesley": [
+            "The supreme magistrates of the city.",
+            "In the next verse they are called by a title which often signifies pretors.",
+            "These officers exercised both the military and civil authority."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the masters of the girl possessed by an evil spirit saw that their hope of gain had disappeared, they reacted out of self-interest and seized Paul and Silas. Dragging them into the market square, they brought them before the city authorities, who were the supreme magistrates exercising both military and civil authority. This event serves as a powerful demonstration of the impact of Christianity in society, particularly in regards to the elevation of women and the abolition of slavery. The materialistic mindset of these masters, driven solely by their desire for wealth, blinded them to the reality of supernatural healing and led them to react with revenge and hatred. However, this incident also highlights how the gospel disrupts dishonorable occupations and calls people to embrace honesty and conscientiousness. Ultimately, the opposition faced by the apostles stemmed from a love of money and a refusal to acknowledge God's power.",
+            "wordCount": 151,
+            "quoteTokenProportion": 27.36,
+            "qualityScore": 1.7220309202302966,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.6,
+            "commentatorTierSimilarities": [
+                22.74,
+                47.99,
+                29.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the masters of the girl possessed by an evil spirit saw that their hope of gain had disappeared, they reacted out of self-interest and seized Paul and Silas. Dragging them into the market square, they brought them before the city authorities, who were the supreme magistrates exercising both military and civil authority. This event serves as a powerful demonstration of the impact of Christianity in society, particularly in regards to the elevation of women and the abolition of slavery. The materialistic mindset of these masters, driven solely by their desire for wealth, blinded them to the reality of supernatural healing and led them to react with revenge and hatred.",
+            "wordCount": 111,
+            "quoteTokenProportion": 31.65,
+            "qualityScore": 1.7647040410935686,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+            "commentatorTierSimilarities": [
+                25.25,
+                44.33,
+                30.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the masters of the girl possessed by an evil spirit saw that their hope of gain had disappeared, they seized Paul and Silas and dragged them into the market square. This incident demonstrates how the love of wealth can blind people to the truths of religion and the power of God. The opposition faced by the apostles originated from a materialistic mindset that prioritized personal gain over spiritual transformation. The event also underscores the significant societal impact of Christianity in areas such as the empowerment of women and the abolition of slavery.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6912090016892565,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+            "commentatorTierSimilarities": [
+                29.16,
+                46.27,
+                24.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the masters of the girl possessed by an evil spirit saw that their hope of gain had disappeared, they seized Paul and Silas and dragged them into the market square. This incident reveals the power of Christianity in challenging societal norms, such as the elevation of women and the abolition of slavery. The materialistic mindset of the masters, driven by their love of wealth, blinded them to the supernatural healing that had taken place. Their reaction exemplifies how the gospel disrupts dishonorable occupations and calls for honesty and conscientiousness.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.754658391417097,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.68,
+            "commentatorTierSimilarities": [
+                30.43,
+                44.45,
+                25.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the masters of the girl possessed by an evil spirit saw that their hope of gain had disappeared, they seized Paul and Silas and dragged them into the market square. This incident demonstrates the impact of Christianity on societal transformation, particularly in regards to the liberation of women and the eradication of slavery. The materialistic mindset of the masters, fueled by their desire for wealth, blinded them to the miraculous nature of the healing that took place. Their violent reaction reveals the gospel's ability to challenge dishonorable occupations and call for honesty and conscientiousness.",
+            "wordCount": 96,
+            "quoteTokenProportion": 26.87,
+            "qualityScore": 1.7528279344119682,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                27.56,
+                45.99,
+                26.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

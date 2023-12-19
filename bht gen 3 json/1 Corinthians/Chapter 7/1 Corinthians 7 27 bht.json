@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:06:41",
+    "verseRef": "1 Corinthians 7:27",
+    "bestBHT": {
+        "bht": "The general recommendation here advises against seeking a change in marital status without a pressing need. It is important to understand that this does not conflict with previous teachings on divorce, but rather serves as a caution against seeking release from the marriage bond or pursuing a new marriage. This advice applies to those who are not bound by the marriage tie, whether they have been married before or not. Paul's intention is not to impose his opinion universally, but to offer guidance based on individual circumstances and the gift of continence.",
+        "wordCount": 93,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.6758895707372587,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.07,
+        "commentatorTierSimilarities": [
+            34.65,
+            30.12,
+            35.23
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The general recommendation here is referable alike to all cases of marriage, and does not touch on the prohibition of ver. 10,\u2014only dissuading from a spirit of change in consideration of the instant necessity.",
+            "It seems better to take the verse thus, than to regard it as inserted to guard against misunderstanding of the preceding judgment of the Apostle.",
+            "Art thou loosed? does not imply previous marriage, but describes all those who are not bound by the marriage tie, whether previously married or not."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "27. Illustrating the meaning of",
+            "\t\"so to be,\" 1 Corinthians 7:26.",
+            "\tNeither the married (those \"bound to a wife\") nor the",
+            "\tunmarried (those \"loosed from a wife\") are to \"seek",
+            "\ta change of state (compare 1 Corinthians 7:20;",
+            "\t1 Corinthians 7:24)."
+        ],
+        "Albert Barnes": [
+            "Art thou bound unto a wife? - Art thou already married?",
+            "Seek not to be loosed - Seek not a 'dissolution' of the connection, either by divorce or by a separation from each other.",
+            "Art thou loosed from a wife? - Art thou unmarried? It should have been rendered 'free from' a wife; or art thou single?"
+        ],
+        "John Calvin": [
+            "It is therefore a restriction upon the preceding statement, lest any one, influenced by his commendation of celibacy, should turn his thoughts to it, and despise marriage, forgetful of his necessity or of his calling.",
+            "He does not, then, allow to all the choice of perpetual celibacy, but only to those to whom it is given. Let no one, therefore, who is not constrained by any necessity, rashly ensnare himself, for liberty ought not to be lightly thrown away.",
+            "For he ought not to abandon his liberty lightly, without thinking much as to it."
+        ],
+        "Archibald T. Robertson": [
+            "Do not be seeking release from the marriage bond.",
+            "Do not be seeking a wife.",
+            "Paul does not present it as his opinion for all men at all times."
+        ],
+        "John Gill": [
+            "Marriage is such a bond as cannot be dissolved, but by the death of one of the parties.",
+            "Do not depart from her, nor seek to be divorced, nor even desire to be loosed by death.",
+            "It is best to continue loosed, for the reason above given, that is, provided the person has the gift of continence, otherwise not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse suggests a general recommendation against seeking a change in marital status due to temporary circumstances, rather than contradicting previous advice on divorce. The phrase art thou loosed? refers to those not bound by the marriage tie, whether previously married or not, indicating that both the married and the unmarried should not seek a change in their state. Paul is not presenting this as an opinion for all men at all times, but rather as a restriction on the previous statement, preventing anyone from despising marriage or rashly abandoning their liberty without considering their necessity or calling.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.8795971632243607,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                30.67,
+                40.05,
+                29.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The recommendation given is applicable to all cases of marriage, cautioning against a hasty change in marital status. The phrase art thou loosed? encompasses those not bound by marriage, whether they were married before or not. It is better to interpret the verse as a restriction on the previous judgment, to prevent despising marriage or throwing away one's liberty thoughtlessly. Rather, one should carefully consider their necessity and calling before seeking a change in their state.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6815572513546715,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.25,
+            "commentatorTierSimilarities": [
+                30.29,
+                39.23,
+                30.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This passage offers a general recommendation regarding marriage, cautioning against seeking a change in marital status due to temporary circumstances. It emphasizes that the married and the unmarried should not pursue a change in their state. Moreover, Paul's statement is not an opinion for all people at all times but serves as a restriction on the preceding judgment. Therefore, one should be careful not to despise marriage or hastily abandon their freedom without considering their necessity or calling.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6017612796649459,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.6,
+            "commentatorTierSimilarities": [
+                31.04,
+                28.31,
+                40.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The advice given in this verse pertains to all cases of marriage and discourages a desire for change without immediate necessity. It is important to note that this counsel does not contradict the earlier teaching on divorce, but rather serves as a caution against seeking release from the marriage bond or pursuing a new marriage. Paul does not present this recommendation as a universal opinion, but rather as guidance for those who are not bound by the marriage tie, whether they have been married before or not.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.9541513399238353,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                33.43,
+                31.92,
+                34.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The general recommendation here advises against seeking a change in marital status without a pressing need. It is important to understand that this does not conflict with previous teachings on divorce, but rather serves as a caution against seeking release from the marriage bond or pursuing a new marriage. This advice applies to those who are not bound by the marriage tie, whether they have been married before or not. Paul's intention is not to impose his opinion universally, but to offer guidance based on individual circumstances and the gift of continence.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6758895707372587,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.07,
+            "commentatorTierSimilarities": [
+                34.65,
+                30.12,
+                35.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:39:51",
+    "verseRef": "1 Peter 4:7",
+    "bestBHT": {
+        "bht": "The end of all things is at hand, indicating that we are in the final dispensation before the Lord returns. In view of this, we should be of sound mind and temperate, encouraging watchfulness and promoting prayer. The nearness of the end should prompt us to be ready and prayerful, seeking strength from the Lord. Let us be sober and watchful, engaging in various forms of prayer, both private and public, as we await the culmination of all things.",
+        "wordCount": 79,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 2.072623209560638,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+        "commentatorTierSimilarities": [
+            39.48,
+            28.13,
+            32.39
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The end of all things is at hand...be therefore of temperate mind and be sober unto prayers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The nearness meant is not that of mere 'time,' but that before the Lord.",
+            "We live in the last dispensation, not like the Jews under the Old Testament.",
+            "Temperance promotes wakefulness or watchfulness, and both promote prayer."
+        ],
+        "Albert Barnes": [
+            "The end of all things drew near. Death is to each one the end of all things here below; the end of his plans and of his interest in all that pertains to sublunary affairs.",
+            "The important truth, then, taught by this passage is, 'that the near approach of the end of all things should make us serious and prayerful.'",
+            "We are so made as to be serious in view of such events. God has so constituted the mind, that when we lose property, health, or friends; when we look into a grave, or are beset with dangers; when we are in the room of the dying or the dead, we are serious and thoughtful."
+        ],
+        "Marvin Vincent": [
+            "Is at hand [\u03b7\u03b3\u03b3\u03b9\u03ba\u03b5\u03bd]. Lit., has come near. The word constantly used of the coming of Christ and his kingdom.",
+            "Be ye sober [\u03c3\u03c9\u03c6\u03c1\u03bf\u03bd\u03b7\u03c3\u03b1\u03c4\u03b5]. The word is from swv, sound, and frhn, the mind. Therefore, as Rev., be ye of sound mind.",
+            "Unto prayer [\u03b5\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03b1\u03c2]. Lit., prayers. The plural is used designedly: prayers of all kinds, private or public."
+        ],
+        "John Calvin": [
+            "Hence the Apostle, that he might rouse them from the drowsiness of the flesh, reminds them that the end of all things was nigh; by which he intimates that we ought not to sit still in the world, from which we must soon remove.",
+            "But were the trumpet of Christ to sound in our ears, it would powerfully rouse us and not suffer us to lie torpid.",
+            "By adding prayer, he points out an exercise especially necessary, in which the faithful ought to be particularly occupied, since their whole strength depends on the Lord; as though he had said, 'Since ye are in yourselves extremely weak, seek of the Lord to strengthen you.'"
+        ],
+        "Philip Schaff": [
+            "The event with which the New Testament is accustomed to fill the Christian\u2019s vision of the future, and which it proposes as a supreme motive to a circumspect walk, is an event of universal, not of merely personal, importance that Second Coming of Christ which is to put an end to the present world itself.",
+            "This vivid realization of the nearness of the end, which appears in all the apostolic writings, is specially characteristic of Peter.",
+            "The prayerfulness which sustains the believer under heathen revilings, and brings health to the life of the Church itself, must be fed by a mind lifted above the agitations of passion and fear."
+        ],
+        "Archibald T. Robertson": [
+            "But the end of all things is at hand... How near Peter does not say, but he urges readiness... as Jesus did.",
+            "Be ye therefore of sound mind... in view of the coming of Christ.",
+            "Be sober unto prayer... (prayers)."
+        ],
+        "John Gill": [
+            "But the end of all things is at hand,.... With respect to particular persons, the end of life, and which is the end of all things in this world to a man, is near at hand.",
+            "be ye therefore sober, or 'temperate', as the Arabic version renders it; and so is opposed to intemperance in eating and drinking, which is an abuse of the creatures of Gods, and unfits a man for the duties of religion",
+            "and watch unto prayer; watch all opportunities of praying, or of attendance on that ordinance, both in private and in public"
+        ],
+        "John Wesley": [
+            "But the end of all things [...] Is at hand: be ye therefore sober, and watch unto prayer.\" ",
+            "Temperance helps watchfulness, and both of them help prayer.",
+            "Watch, that ye may pray; and pray, that ye may watch."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The end of all things is at hand, not in mere 'time' but in the presence of the Lord. We live in the last dispensation, and therefore we should be of sound mind and temperate, promoting wakefulness and watchfulness. This nearness of the end should urge us to be ready and prayerful, seeking strength from the Lord, as the end of all things is not only personal, but of universal importance. Let us be sober and watchful, constantly praying in all circumstances.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.018011226801261,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                39.41,
+                27.82,
+                32.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The end of all things is at hand, not in mere 'time,' but in the presence of the Lord. We live in the last dispensation, and therefore we should be of sound mind and temperate, promoting wakefulness and watchfulness. This nearness of the end should urge us to be ready and prayerful, seeking strength from the Lord. Let us be sober and watchful, constantly praying in all circumstances.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9853648176267007,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                41.36,
+                24.68,
+                33.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The end of all things is at hand, not merely in terms of time, but in anticipation of the Lord's coming. We are in the last era, unlike the Jews of old, and should therefore have a temperate and sound mind, fostering wakefulness and watchfulness. This proximity to the end should motivate us to be prepared and prayerful, seeking the Lord's strength. Let us be sober and vigilant, persistently engaged in prayer in various situations.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9477839970368485,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.11,
+            "commentatorTierSimilarities": [
+                37.69,
+                30.06,
+                32.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The end of all things is at hand, indicating that we are in the final dispensation before the Lord returns. In view of this, we should be of sound mind and temperate, encouraging watchfulness and promoting prayer. The nearness of the end should prompt us to be ready and prayerful, seeking strength from the Lord. Let us be sober and watchful, engaging in various forms of prayer, both private and public, as we await the culmination of all things.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.072623209560638,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+            "commentatorTierSimilarities": [
+                39.48,
+                28.13,
+                32.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The end of all things is at hand, not just in terms of time, but in reference to the presence of the Lord. As we live in the last dispensation, we should cultivate a sound mind and temperance, which promote wakefulness and prayerfulness. This imminent conclusion of all things should motivate us to be prepared, seeking strength from the Lord. Therefore, let us be sober and vigilant, consistently engaging in various forms of prayer in anticipation of the fulfillment of God's plan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9932391340131637,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "commentatorTierSimilarities": [
+                37.98,
+                30.08,
+                31.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:14:02",
+    "verseRef": "Luke 2:30",
+    "bestBHT": {
+        "bht": "The sight of the child Jesus was a testament to pure faith, as many did not recognize him as God's salvation. Simeon, however, beheld his glory and saw the world's salvation in the form of a helpless child. This sight brought peace and composure to Simeon, revealing the abundant materials of lasting peace that Christ offers. He is called God's salvation because he is the chosen and promised Savior, offering all peoples the opportunity for salvation and a happy life.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.0162426928893344,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.38,
+        "commentatorTierSimilarities": [
+            28.88,
+            36.0,
+            35.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Many saw this child, nay, the full-grown 'man, Christ Jesus,' who never saw in Him 'God's Salvation.' This estimate of an object of sight, an unconscious, helpless babe, was pure faith.",
+            "He 'beheld His glory.'",
+            "In another view, it was prior faith rewarded by present sight."
+        ],
+        "Albert Barnes": [
+            "Thy salvation - Him who is to procure salvation for his people; or, the Saviour."
+        ],
+        "John Calvin": [
+            "By saving I understand the matter of salvation: for in Christ are hid all the parts of salvation and of a happy life.",
+            "Now if the sight of Christ, while he was yet a child, had so powerful an effect on Simeon, that he approached death with cheerfulness and composure; how much more abundant materials of lasting peace are now furnished to us.",
+            "If such a sight does not bring peace to our minds, and make us go cheerfully to death, we are highly ungrateful to God, and hold the honor, which he has bestowed upon us, in little estimation."
+        ],
+        "Philip Schaff": [
+            "He sees the world\u2019s salvation, while beholding the form of a helpless child.",
+            "The prominence given by Simeon to 'salvation' rather than to the person of the child confirms the early date of the song.",
+            "All peoples, both Jews and Gentiles, as the next verse shows."
+        ],
+        "John Gill": [
+            "He goes by the name of 'salvation', because the salvation of God's elect is put into his hands, and he has undertook it.",
+            "He is called 'God's salvation' because he is a Saviour of his choosing, calling, and constituting; whom he promised under the Old Testament dispensation and in the fulness of time sent.",
+            "They see him in the glory of his person, the fulness of his grace, the suitableness and excellency of his righteousness, the efficacy of his blood, and the perfection of his sacrifice; and as an able, willing, complete, and only Saviour."
+        ],
+        "John Wesley": [
+            "Thy salvation \u2014 Thy Christ, thy Saviour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sight of the child Jesus, whom many did not recognize as God's Salvation, was a powerful display of faith rewarded with the revelation of His glory. Simeon, in particular, beheld the world's salvation in the form of a helpless child. The focus on salvation rather than the person of the child emphasizes the universal significance of Christ's mission, for all peoples, both Jews and Gentiles. This sight of Christ, even in his infancy, brought such peace and composure to Simeon, providing a glimpse of the abundant materials of lasting peace that Christ offers us. Indeed, he is called God's salvation because he is the chosen and promised Savior, in whom all parts of salvation and a happy life are found.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.9948545581908395,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                26.79,
+                38.22,
+                34.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sight of the child Jesus was a display of faith rewarded with the revelation of His glory. Simeon saw the world's salvation in the form of a helpless child, emphasizing the universal significance of Christ's mission. This sight brought peace and composure to Simeon, providing a glimpse of the abundant materials of lasting peace that Christ offers us. Indeed, he is called God's salvation because he is the chosen and promised Savior, in whom all parts of salvation and a happy life are found, and all peoples benefit from his saving power.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8834066035980643,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                30.24,
+                34.16,
+                35.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sight of the child Jesus was a testament to pure faith, as many did not recognize him as God's salvation. Simeon, however, beheld his glory and saw the world's salvation in the form of a helpless child. This sight brought peace and composure to Simeon, revealing the abundant materials of lasting peace that Christ offers. He is called God's salvation because he is the chosen and promised Savior, offering all peoples the opportunity for salvation and a happy life.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0162426928893344,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.38,
+            "commentatorTierSimilarities": [
+                28.88,
+                36.0,
+                35.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sight of the child Jesus was pure faith rewarded by the revelation of his glory. Simeon beheld the world's salvation in the form of a helpless child, emphasizing the universal significance of Christ's mission for all peoples. This sight brought peace and composure to Simeon, showcasing the abundant materials of lasting peace available through Christ. He is called God's salvation because he is the chosen and promised Savior, encompassing all aspects of salvation and a happy life for those who believe in him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.854385730621161,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                29.48,
+                34.47,
+                36.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sight of the child Jesus was an expression of faith and a reward for prior faith. Simeon beheld the glory of God's salvation in the form of a helpless infant. This glimpse of Christ as a child brought peace and composure to Simeon, exemplifying the lasting peace that Jesus offers. He is called God's salvation as he is the chosen Savior who holds the complete and perfect remedy for our salvation and a joyful life.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.939425990253019,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                31.26,
+                35.08,
+                33.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

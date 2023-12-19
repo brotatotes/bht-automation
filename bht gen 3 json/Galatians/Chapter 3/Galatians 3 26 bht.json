@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 14:15:50",
+    "verseRef": "Galatians 3:26",
+    "bestBHT": {
+        "bht": "By faith in Christ Jesus, both Jews and Gentiles are no longer children requiring a tutor, but rather liberated and walking at liberty as sons of God. This is not about physical lineage, but about becoming spiritual sons of Abraham by faith. While God is the Father of all through creation, only those who receive adoption through faith in Christ Jesus become His spiritual children. It is the Spirit of God who leads and teaches these sons, confirming their status as children of God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 2.4313630305870806,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.18,
+        "commentatorTierSimilarities": [
+            36.95,
+            23.24,
+            39.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For ye all (Jews and Gentiles alike) are SONS (no longer children, requiring a tutor) of God through the (or, but not so well, your) faith in Christ Jesus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "26. children\u2014Greek,",
+            "\t\"sons.\" ",
+            "\t",
+            "by\u2014Greek,",
+            "\t\"through faith.\" \"Ye all\" (Jews and",
+            "\tGentiles alike) are no longer \"children\" requiring a tutor,",
+            "\tbut SONS emancipated and",
+            "\twalking at liberty."
+        ],
+        "Albert Barnes": [
+            "The idea here is, that they are no longer under tutors and governors; they are no longer subject to the direction and will of the 'paedagogus'; they are arrived at age, and are admitted to the privileges of sons.",
+            "The language here is derived from the fact, that until the son arrived at age, he was in many respects not different from a servant.",
+            "When of age, he entered on the privileges of heirship, and was free to act for himself. Thus, under the Law, people were under restraints, and subject to heavy exactions. Under the gospel, they are free, and admitted to the privileges of the sons of God."
+        ],
+        "John Calvin": [
+            "For ye are all the children of God... The fact of their being the children of God proves their freedom."
+        ],
+        "Philip Schaff": [
+            "\u2018All,\u2019 Jews and Gentiles alike.",
+            "'Sons\u2019 (not \u2018children,\u2019 E. V.), implies here the idea of age and freedom, as distinct from the state of childhood and pupilage under the training of the p\u00e6dagogue.",
+            "By the faith, which is the act of a freeman, in Christ Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "There is no other way to become 'sons of God' in the full ethical and spiritual sense that Paul means, not mere physical descendants of Abraham, but 'sons of Abraham,' 'those by faith'.\" ",
+            "God is the Father of all men as Creator, but the spiritual Father only of those who by faith in Christ Jesus receive 'adoption' into his family.\" ",
+            "Those led by the Spirit are sons of God."
+        ],
+        "John Gill": [
+            "Not by nature, as Christ is the Son of God, for he is the only begotten of the Father, and in such sense as neither angels nor men are the sons of God; nor by creation, as Adam and all mankind, and the angels are; but by divine adoption by an act of God's rich and sovereign grace.",
+            "Not that faith makes any the children of God, or puts them into such a relation; no, that is God's own act and deed; of his free rich grace and goodness...",
+            "They are sons grown up into the faith of Christ, and are led and taught by the Spirit of God, as they are that are the children of God by faith; and as is promised to the saints under the Gospel, that they shall be 'all taught of God'."
+        ],
+        "John Wesley": [
+            "For ye \u2014 Christians. Are all adult sons of God - And so need a schoolmaster no longer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "Through faith in Christ Jesus, both Jews and Gentiles become sons of God, no longer in need of a tutor, but free and emancipated. This is not a physical lineage, but a spiritual adoption into God's family. God is the Father of all as Creator, but only the spiritual Father to those who have received adoption through faith. The verse emphasizes that those led by the Spirit are indeed the children of God. Under the Law, people were restrained and subject to exactions, whereas under the gospel, they are liberated and granted the privileges of being sons of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.159854754894919,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.16,
+            "commentatorTierSimilarities": [
+                33.96,
+                25.92,
+                40.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through faith in Christ Jesus, both Jews and Gentiles become sons of God, no longer in need of a tutor, but free and emancipated. This is not a physical lineage, but a spiritual adoption into God's family. Those led by the Spirit are indeed the children of God and are taught by Him. Under the Law, people were restrained and subject to exactions, whereas under the gospel, they are liberated and granted the privileges of being sons of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.215630611202376,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                32.66,
+                27.82,
+                39.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faith in Christ Jesus, both Jews and Gentiles are no longer children requiring a tutor, but rather liberated and walking at liberty as sons of God. This is not about physical lineage, but about becoming spiritual sons of Abraham by faith. While God is the Father of all through creation, only those who receive adoption through faith in Christ Jesus become His spiritual children. It is the Spirit of God who leads and teaches these sons, confirming their status as children of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 2.4313630305870806,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.18,
+            "commentatorTierSimilarities": [
+                36.95,
+                23.24,
+                39.81
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

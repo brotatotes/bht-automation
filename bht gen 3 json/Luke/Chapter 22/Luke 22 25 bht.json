@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:23:02",
+    "verseRef": "Luke 22:25",
+    "bestBHT": {
+        "bht": "Jesus sets himself apart from worldly leaders by explaining that benefactors exercise authority among them, but he, as their benefactor, does not. He points out the vanity of rulers who eagerly seek the title of benefactors, which was often given as flattery to kings, even if they were not truly deserving of it. Emphasizing that his kingdom is not of this world, Jesus encourages his disciples to adopt a different approach to authority, one that prioritizes humble service rather than exerting power and control.",
+        "wordCount": 84,
+        "quoteTokenProportion": 48.53,
+        "qualityScore": 1.7430986594709617,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+        "commentatorTierSimilarities": [
+            15.27,
+            39.84,
+            44.89
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Among them, the benefactors are those who exercise authority\u2014but among you, I, your benefactor (see vv. 19, 20), do not so, but am in the midst of you as your servant.",
+            "Ptolemy Euergetes (the benefactor) at once occurs to us.",
+            "Numerous other examples are given by Wetstein."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "25. benefactors\u2014a title which",
+            "\tthe vanity of princes eagerly coveted."
+        ],
+        "Albert Barnes": [
+            "Our Lord does not mean to say that it was wrong that there should be such authority, but that 'his' kingdom was to be of a different character, and they were not to expect it there.",
+            "The word 'benefactor' is applied to one who bestows 'favor' on another. It was applied to kings by way of 'compliment or flattery'. Some of them might have been truly benefactors of their people, but this was by no means true of 'all'.",
+            "Yet it was applied to all, and especially to the Roman emperors. It is found applied to them often in the writings of Josephus and Philo."
+        ],
+        "Philip Schaff": [
+            "\u2018The Gentiles\u2019 are mentioned to indicate that the temper which called forth their strife was a heathen one.",
+            "Have authority. This refers to rulers below kings.",
+            "Benefactors. The Greek word here used was the actual title of many emperors and princes."
+        ],
+        "Archibald T. Robertson": [
+            "Have lordship over (\u03ba\u03c5\u03c1\u03b9\u03b5\u03c5\u03bf\u03c5\u03c3\u03b9\u03bd). From \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2. Common verb, to lord it over.",
+            "Benefactors (\u03b5\u03c5\u03b5\u03c1\u03b3\u03b5\u03c4\u03b1). From \u03b5\u03c5 and \u03b5\u03c1\u03b3\u03bf\u03bd. Doer of good. Old word. Here only in the N.T.",
+            "Latin Benefactor is exact equivalent."
+        ],
+        "John Gill": [
+            "Christ's kingdom was a spiritual kingdom, and not of this world, and therefore, not to be managed in such a way.",
+            "Therefore, not to be managed in such a way.",
+            "The same name was given to Mithridates king of Pontus, to Titus Aelius Hadrianus, to Menander, to Marcus Aurelius Severus, and to Cato Uticensis, and others."
+        ],
+        "John Wesley": [
+            "They that exercise the most arbitrary authority over them, have from their flatterers the vain title of benefactors."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus addresses the disciples and distinguishes himself from worldly leaders by saying, Among them, the benefactors are those who exercise authority\u2014but among you, I, your benefactor, do not so, but am in the midst of you as your servant. This highlights the humility of Jesus as he contrasts himself with rulers who eagerly seek titles like benefactors. The term benefactors was often a flattery bestowed upon kings, but not all were truly deserving of this title. Jesus emphasizes that his kingdom is different, it is not of this world, and therefore, should not be managed in the same manner. He urges his followers to embrace a different kind of authority, where serving others is of utmost importance.",
+            "wordCount": 121,
+            "quoteTokenProportion": 49.4,
+            "qualityScore": 1.6121271971515276,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                17.56,
+                40.11,
+                42.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus distinguishes himself from worldly leaders by highlighting that while benefactors exercise authority among them, he, as their benefactor, does not. He emphasizes the vanity of rulers who eagerly seek this title, a flattery often bestowed upon kings, even if undeserved. Jesus clarifies that his kingdom is not of this world and should not be managed in the same manner. Instead, he urges his followers to embrace a different kind of authority, one centered on humble service to others.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.5942903087745801,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                16.58,
+                37.61,
+                45.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus sets himself apart from worldly leaders by explaining that benefactors exercise authority among them, but he, as their benefactor, does not. He points out the vanity of rulers who eagerly seek the title of benefactors, which was often given as flattery to kings, even if they were not truly deserving of it. Emphasizing that his kingdom is not of this world, Jesus encourages his disciples to adopt a different approach to authority, one that prioritizes humble service rather than exerting power and control.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.7430986594709617,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                15.27,
+                39.84,
+                44.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus distinguishes himself from worldly leaders by emphasizing that while benefactors exercise authority, he, as their benefactor, does not. He highlights the vanity of rulers who eagerly seek the title of benefactors, a term often given to kings as flattery, even if undeserved. Jesus clarifies that his kingdom is not of this world and urges his disciples to adopt a different approach to authority, centered on humble service rather than exerting power and control.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.6871413259310608,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+            "commentatorTierSimilarities": [
+                16.76,
+                38.46,
+                44.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus distinguishes himself from worldly leaders by stating that while benefactors exercise authority among them, he, as their benefactor, does not. He highlights the vanity of rulers who eagerly seek the title of benefactors, a term often given to kings as flattery, regardless of their true merit. Jesus emphasizes that his kingdom is not of this world, signifying that it should not be managed in the same manner. Instead, he calls his followers to adopt a different form of authority centered on humble service to others.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.6474228075720407,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.12,
+            "commentatorTierSimilarities": [
+                16.4,
+                38.68,
+                44.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

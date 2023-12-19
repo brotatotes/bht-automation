@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:29:01",
+    "verseRef": "Acts 10:8",
+    "bestBHT": {
+        "bht": "A devout soldier, described as devout like Cornelius, rehearsed the vision with his trustworthy household servants. They were chosen to be messengers because of the strong bond and confidence between them and Cornelius. The soldier's intention was to engage them cheerfully and provide a comprehensive account to Peter. They likely departed the next morning, as indicated in the subsequent details. This soldier's exceptional devotion sets him apart from modern military expectations.",
+        "wordCount": 73,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.5042867063138632,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+        "commentatorTierSimilarities": [
+            39.52,
+            25.11,
+            35.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "And when ... - \u201cIt has been remarked that from Joppa, Jonah was sent to preach to the Gentiles at Nineveh, and that from the same place Peter was sent to preach to the Gentiles at Caesarea\u201d (Clarke)."
+        ],
+        "Marvin Vincent": [
+            "Declared [\u03b5\u03be\u03b7\u03b3\u03b7\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2] . Better, as Rev., rehearsed. See on Luke 24:35."
+        ],
+        "John Calvin": [
+            "He may the more encourage them to give ear to the commandment, which they see is rather a commandment of God than of man.",
+            "He is not afraid to make known unto them so great a matter whom he had instructed well before."
+        ],
+        "Philip Schaff": [
+            "This would include \u2018the vision, the Divine command, and the expected revelation.\u2019",
+            "His best course was to tell the whole story to messengers thoroughly trustworthy and like-minded with himself, and to leave them to discharge their errand according to their judgment.",
+            "The manner of communication of Cornelius with the messengers exemplifies the confidence which subsisted between him and those who surrounded him in daily life, and thus affords a further illustration of his character."
+        ],
+        "Archibald T. Robertson": [
+            "Rehearsed (\u03b5\u03be\u03b7\u03b3\u03b7\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2). See on Luke 24:35. All the details about the vision. The soldier was \"devout\" like Cornelius and would protect the two household servants (\u03bf\u03b9\u03ba\u03b5\u03c4\u03c9\u03bd). "
+        ],
+        "John Gill": [
+            "Partly to engage them the more cheerfully to go on the errand, and partly that they might be able to give a distinct relation of it to Peter, that so he might be moved the more to comply with the request, and come along with them.",
+            "Perhaps not that evening, since it was at the ninth hour, or three o'clock in the afternoon, when Cornelius had the vision; and some time must be taken up in discourse with the angel, and afterwards in sending for his servants, and relating the affair to them, and giving them their proper instructions.",
+            "So that it may be they did not set out till early the next morning, as seems from the following verse."
+        ],
+        "John Wesley": [
+            "A devout soldier \u2014 How many such attendants have our modern officers? A devout soldier would now be looked upon as little better than a deserter from his colours."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A soldier, described as devout like Cornelius, rehearsed all the details about the vision to his trustworthy household servants. They were chosen to be messengers because of the confidence and trust between them and Cornelius. The soldier's recounting of the vision was meant to engage them cheerfully in their errand and to give a distinct relation of it to Peter. It is possible that they set out the next morning, as suggested by the following verse. This soldier's devotion was uncommon and in stark contrast to what is expected of soldiers today.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.6192584937600683,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+            "commentatorTierSimilarities": [
+                37.25,
+                27.62,
+                35.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A devout soldier, sharing the same devotion as Cornelius, carefully rehearsed every detail of the vision to his trustworthy household servants, who were chosen to be messengers because of the strong bond of confidence between them and Cornelius. The soldier's intent was to engage them cheerfully and provide a thorough account to Peter. They likely departed the following morning, as indicated in the subsequent verse. This soldier's exceptional devotion sets him apart from modern military expectations.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.581492093762655,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.93,
+            "commentatorTierSimilarities": [
+                38.22,
+                26.19,
+                35.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A devout soldier, described as devout like Cornelius, rehearsed the vision with his trustworthy household servants. They were chosen to be messengers because of the strong bond and confidence between them and Cornelius. The soldier's intention was to engage them cheerfully and provide a comprehensive account to Peter. They likely departed the next morning, as indicated in the subsequent details. This soldier's exceptional devotion sets him apart from modern military expectations.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.5042867063138632,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                39.52,
+                25.11,
+                35.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Rehearsing all the details of the vision, a devout soldier, similar to Cornelius, chose trusted household servants as messengers due to their close bond. The soldier's purpose was to engage them cheerfully and relay a thorough account to Peter. It is likely that they embarked on their journey the following morning, as suggested in the subsequent verse. This soldier's extraordinary devotion sets him apart from the expected standards of contemporary military personnel.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5830700440871035,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.98,
+            "commentatorTierSimilarities": [
+                38.04,
+                25.92,
+                36.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Repeating all the specifics of the vision, a devout soldier, comparable to Cornelius, carefully selected loyal household servants as messengers, given the trust and confidence between them and Cornelius. The soldier's aim was to ensure their cheerful cooperation and to provide a detailed report to Peter. It is likely that they commenced their journey the next morning, as indicated in the subsequent passage. This soldier's exceptional devotion separates him from the typical expectations of modern military personnel.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4519388318439574,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.62,
+            "commentatorTierSimilarities": [
+                35.29,
+                29.83,
+                34.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

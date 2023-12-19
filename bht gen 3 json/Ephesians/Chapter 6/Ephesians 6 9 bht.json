@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:35:11",
+    "verseRef": "Ephesians 6:9",
+    "bestBHT": {
+        "bht": "Christianity teaches that all men are brothers, and love should regulate the duties of both servants and masters. Holding a Christian brother in bondage violates the principles of Christianity. Masters should remember that their Master is in heaven, overseeing their actions, and they will be treated as they treat their servants. By forbearing threatening and acting with gentleness and humanity, masters reflect the same principle demonstrated by God, who does not show partiality based on wealth or social status.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.9107582936113716,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+        "commentatorTierSimilarities": [
+            30.54,
+            33.53,
+            35.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Forbearing your (usual: such as most masters do use) threatening: knowing (as ye do, see ver. 8) that both of them and of yourselves the Master is in the heavens...",
+            "...the Master is in the heavens...",
+            "...respect of persons (warping of justice from regard to any man\u2019s individual pre-eminence) exists not with Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Love regulates the duties both of servants and masters, as one and the same light attempers various colors.",
+            "Christianity makes all men brothers.",
+            "As you treat your servants, so will He treat you."
+        ],
+        "Albert Barnes": [
+            "The most obvious interpretation is, that they were the owners of slaves. Some such persons would be converted, as such are now. Paul did not say that they could not be Christians. He did not say that they should he excluded at once from the communion. He did not hold them up to reproach, or use harsh and severe language in regard to them. He taught them their duty toward those who were under them, and laid down principles which, if followed, would lead ultimately to universal freedom.",
+            "They were to be kind, affectionate, just. It does not mean that they were to remit punishment where it was deserved; but the object is to guard against that to which they were so much exposed in their condition - a fretful, dissatisfied temper; a disposition to govern by terror rather than by love.",
+            "There is something shocking to the feelings of all, and monstrous to a Christian, in the idea of holding 'a Christian brother' in bondage. The moment it is felt that he is a 'Christian brother' - a redeemed fellow-traveler to eternity, a joint heir of life - that moment a Christian should feel that there is something that violates all the principles of his religion in holding him as A slave; in making a 'chattel' of that for which Christ died."
+        ],
+        "Marvin Vincent": [
+            "Forbearing [\u03b1\u03bd\u03b9\u03b5\u03bd\u03c4\u03b5\u03c2] . See on the kindred noun anesiv, A. V., liberty, Acts 24:23.\" ",
+            "Threatening [\u03c4\u03b7\u03bd \u03b1\u03c0\u03b5\u03b9\u03bb\u03b7\u03bd] . Note the article, the threatening customary from the master to the slave.\" ",
+            "Your master also [\u03c5\u03bc\u03c9\u03bd \u03b1\u03c5\u03c4\u03c9\u03bd \u03bf \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2] . The correct reading is kai aujtwn kai uJmwn oJ kuriov both their master and yours. So Rev."
+        ],
+        "John Calvin": [
+            "But though no royal edicts had ever been issued for the protection of slaves, God allows to masters no power over them beyond what is consistent with the law of love.",
+            "What he calls in another Epistle, that which is just and equal, is precisely what, in this passage, he calls the same things...This analogy is greatly misunderstood; because men do not try it by the law of love, which is the only true standard.",
+            "A regard to persons blinds our eyes, so as to leave no room for law or justice; but Paul affirms that it is of no value in the sight of God."
+        ],
+        "Philip Schaff": [
+            "The language is general, and expresses what Calvin well calls jus analogum.",
+            "St. Paul singles out the prevailing vice and most customary exhibition of bad feeling on the part of the master, and in forbidding this naturally includes every similar form of harshness.",
+            "With Him there is no partiality; He will not regard a rich man favorably because he is rich; nor yet a poor man favorably because he is poor."
+        ],
+        "Archibald T. Robertson": [
+            "Letting up on threatening.",
+            "Paul is not afraid of capital nor of labour.",
+            "By the side of him (God)."
+        ],
+        "John Gill": [
+            "whose duty, if religious masters, is, with respect to their souls, to instruct them in, and use them to religious exercises, to pray with them, and for them, to set them good examples...",
+            "And this is a rule given by the Jews c, that a master should not multiply clamour and anger, but should speak him (his servant) quietly, and in a still manner, and he will hear his objections, or arguments and reasons...",
+            "and the more to move and excite masters to their duty, since he being in heaven overlooks and takes notice of all their actions, as the omniscient God; and being omnipotent, has it in his power to plead and avenge the cause of the injured..."
+        ],
+        "John Wesley": [
+            "Do the same things to them \u2014 That is, act toward them from the same principle.",
+            "Forbearing threatening \u2014 Behaving with gentleness and humanity, not in a harsh or domineering way."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Respect of persons does not exist with God, as the Master is in the heavens. Christianity teaches that all men are brothers, and love should regulate the duties of both servants and masters. Forbearing threatening and treating servants with kindness, affection, and justice is crucial. While some may interpret this verse to address the owners of slaves, the principles laid down by Paul ultimately lead to universal freedom. Holding a Christian brother in bondage goes against the very principles of Christianity. God does not show partiality, favoring the rich or poor. Masters should remember that their Master is in heaven, overseeing their actions, and they will be treated as they treat their servants. By forbearing threatening and acting with gentleness and humanity, masters reflect the same principle demonstrated by God.",
+            "wordCount": 130,
+            "quoteTokenProportion": 36.05,
+            "qualityScore": 1.8300160869477025,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                31.06,
+                32.94,
+                36.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christianity teaches that all men are brothers, and love should regulate the duties of both servants and masters. Forbearing threatening and treating servants with kindness, affection, and justice is crucial. Holding a Christian brother in bondage goes against the principles of Christianity. God does not show partiality, favoring the rich or poor. Masters should remember that their Master is in heaven, overseeing their actions, and they will be treated as they treat their servants. By forbearing threatening and acting with gentleness and humanity, masters reflect the same principle demonstrated by God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8109495969708607,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+            "commentatorTierSimilarities": [
+                31.22,
+                32.29,
+                36.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christianity teaches that all men are brothers, and love should regulate the duties of both servants and masters. Holding a Christian brother in bondage violates the principles of Christianity. Masters should remember that their Master is in heaven, overseeing their actions, and they will be treated as they treat their servants. By forbearing threatening and acting with gentleness and humanity, masters reflect the same principle demonstrated by God, who does not show partiality based on wealth or social status.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9107582936113716,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.87,
+            "commentatorTierSimilarities": [
+                30.54,
+                33.53,
+                35.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christianity asserts that all men are brothers, and love should guide the obligations of both servants and masters. Holding a Christian brother in bondage challenges the fundamental tenets of the faith. The Master in heaven observes the actions of masters, and as they treat their servants, so will He treat them. By refraining from threatening and displaying gentleness and compassion, masters embody the principle exemplified by God, who exhibits no favoritism towards the rich or poor.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.89828512601711,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.46,
+            "commentatorTierSimilarities": [
+                31.37,
+                33.56,
+                35.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christianity teaches that love should regulate the duties of both servants and masters, as love attempers various colors. Holding a Christian brother in bondage violates all the principles of the faith. The Master in heaven oversees the actions of masters, treating them as they treat their servants. By forbearing threatening and acting with gentleness and humanity, masters reflect the same principle demonstrated by God, who does not show partiality based on wealth or social status.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.886155126716205,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+            "commentatorTierSimilarities": [
+                31.33,
+                32.39,
+                36.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

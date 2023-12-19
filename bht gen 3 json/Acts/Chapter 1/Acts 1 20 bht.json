@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:24:51",
+    "verseRef": "Acts 1:20",
+    "bestBHT": {
+        "bht": "This bishopric, or charge, pertains to a different person, one greater than David. The quoted psalm is Messianic, pointing to the Messiah and His kingdom. It is fascinating to note that David saw his enemy as unworthy of his office, desiring it to be given to another. The psalm vividly depicts the poverty, distress, grief, and sorrows that the Messiah would endure, including his examination and the reproach upon Him at the cross. Some even referred to it as the Iscariotic Psalm, relating to Judas Iscariot.",
+        "wordCount": 86,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.9092796578214832,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.82,
+        "commentatorTierSimilarities": [
+            19.89,
+            38.01,
+            42.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ps. lxix. is eminently a Messianic psalm,\u2014spoken in the first place of David and his kingdom and its enemies, and so, according to the universal canon of Old Testament interpretation, of Him in whom that kingdom found its true fulfilment, and of His enemies.\" ",
+            "The same is true of Ps. cix., and there one adversary is even more pointedly marked out.",
+            "Bishoprick not necessarily such, in technical accuracy: the word may signify any overseership, office, or charge."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. his bishopric\u2014or \"charge.",
+            "\tThe words are a combination of Psalms 69:25;",
+            "\tPsalms 109:8; in which the apostle",
+            "\tdiscerns a greater than David, and a worse than Ahithophel and his",
+            "\tfellow conspirators against David."
+        ],
+        "Albert Barnes": [
+            "The Hebrew in the Psalm is, 'Let their habitation (Hebrew: fold, enclosure for cattle; tower, or palace) be desolate, and let none dwell in their tents.'",
+            "It is not a little remarkable that this Psalm is repeatedly quoted as referring to the Messiah.",
+            "On this principle, it was that David deemed his enemy, whoever he was, unworthy of his office, and desired that it should be given to another."
+        ],
+        "Marvin Vincent": [
+            "Habitation [\u03b5\u03c0\u03b1\u03c5\u03bb\u03b9\u03c2] . Only here in New Testament. The word is used in classical Greek of a place for cattle.",
+            "Bishopric [\u03b5\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b7\u03bd] . See on 1 Peter 2:12. Rev., better, office, with overseership in margin.",
+            "Another [\u03b5\u03c4\u03b5\u03c1\u03bf\u03c2] . And different person."
+        ],
+        "Archibald T. Robertson": [
+            "Perfect passive indicative, the usual idiom in quoting scripture, stands written.\" ",
+            "His habitation (\u03b7 \u03b5\u03c0\u03b1\u03c5\u03bb\u03b9\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5). Only here in the N.T., a country house, cottage, cabin.",
+            "His office (\u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b7\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5). Our word bishopric (Authorized Version) is from this word, office of bishop (\u03b5\u03c0\u03b9\u03c3\u03c7\u03bf\u03c0\u03bf\u03c2). Only that is not the idea here, but over-seership (\u03b5\u03c0\u03b9, \u03c3\u03ba\u03bf\u03c0\u03b5\u03c9) or office as in 1 Peter 2:12."
+        ],
+        "John Gill": [
+            "The psalm, out of which these words are cited, is a psalm concerning the Messiah, and there are many passages cited out of it in the New Testament, and applied to him, or referred unto.",
+            "The poverty and distress he submitted to; the griefs and sorrows which he bore; the fatigues he underwent at his examination; and the weakness of body he was then reduced to, as well as the reproach cast upon him on the cross, when his enemies shook their heads at him, are in a very lively manner described.",
+            "That this psalm refers to Judas Iscariot, and to his affair, was so clear a point with the ancients, that they used to call it the Iscariotic Psalm."
+        ],
+        "John Wesley": [
+            "His bishopric \u2014 That is, his apostleship. Psalm 69:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the bishopric, or charge, of a different person, one greater than David. The psalm from which the verse is quoted is a Messianic psalm, referring to the Messiah and his kingdom. This psalm is repeatedly cited in the New Testament as referring to the Messiah. It is interesting to note that David viewed his enemy as unworthy of his office and desired that it be given to another. The psalm vividly describes the poverty, distress, grief, and sorrows that the Messiah would endure, including his examination and the reproach cast upon him on the cross. Some ancients even referred to this psalm as the Iscariotic Psalm, indicating its association with Judas Iscariot.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.054526801659235,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+            "commentatorTierSimilarities": [
+                18.88,
+                38.88,
+                42.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This bishopric, or charge, pertains to a different person, one greater than David. The quoted psalm is Messianic, pointing to the Messiah and His kingdom. It is fascinating to note that David saw his enemy as unworthy of his office, desiring it to be given to another. The psalm vividly depicts the poverty, distress, grief, and sorrows that the Messiah would endure, including his examination and the reproach upon Him at the cross. Some even referred to it as the Iscariotic Psalm, relating to Judas Iscariot.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9092796578214832,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.82,
+            "commentatorTierSimilarities": [
+                19.89,
+                38.01,
+                42.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This passage discusses a special role or charge given to a different person, someone greater than David. The psalm that is quoted is Messianic in nature, pointing to the Messiah and His kingdom. It is interesting to note that David saw his enemy as unworthy of this office and desired that it be given to someone else. The psalm vividly portrays the difficulties and sorrows that the Messiah would endure, including poverty, distress, and reproach. Some even called this psalm the Iscariotic Psalm because it relates to Judas Iscariot.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.9069460781991205,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                19.61,
+                40.12,
+                40.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This discussion centers around a distinct charge or bishopric pertaining to someone different, surpassing David. The quoted psalm is Messianic, correlating with the Messiah and His kingdom. Remarkably, David deemed his adversary unworthy of this office, desiring it be bestowed upon another. The psalm vividly depicts the Messiah's trials, poverty, distress, grief, sorrows, and reproach endured during His examination and on the cross. Some even identified it as the Iscariotic Psalm, alluding to Judas Iscariot's connection.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8261507305254403,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.06,
+            "commentatorTierSimilarities": [
+                20.46,
+                38.07,
+                41.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This discourse focuses on a distinct charge or bishopric that belongs to another person, surpassing David. The quoted psalm is explicitly Messianic, pertaining to the Messiah and His kingdom. Fascinatingly, David considers his enemy unworthy of this position, desiring that it be assigned to someone else. The psalm vividly portrays the Messiah's sufferings, encompassing poverty, distress, grief, sorrows, and reproach witnessed during His examination and crucifixion. It was even referred to as the Iscariotic Psalm, associating it with Judas Iscariot.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.889424398841485,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.16,
+            "commentatorTierSimilarities": [
+                19.46,
+                38.8,
+                41.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

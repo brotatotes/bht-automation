@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:34:58",
+    "verseRef": "Ephesians 6:23",
+    "bestBHT": {
+        "bht": "Peace from God is the kind of peace that is being described, a peace that comes directly from Him. Along with this peace, the apostle also prays for love accompanied by faith, emphasizing the importance of both love and faith in the Christian life. The Father and the Lord Jesus Christ are regarded as co-authors of this peace and love. This wish for peace and love with faith expresses the apostle's deep love and affection for the brethren, and he asks for these blessings knowing that they are gifts from God, bestowed upon us through Christ.",
+        "wordCount": 98,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 2.328800756620849,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.77,
+        "commentatorTierSimilarities": [
+            29.99,
+            31.77,
+            38.24
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peace...is sufficiently described by being peace from God.\" ",
+            "Love with faith...he prays that love may always accompany it.\" ",
+            "From God the Father and the Lord Jesus Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23. love with faith\u2014Faith is",
+            "\tpresupposed as theirs; he prays that love may accompany it ( :-)."
+        ],
+        "Albert Barnes": [
+            "The expression 'peace to you,' was the common form of salutation in the East.",
+            "Love united with faith; not only desiring that they might have faith, but the faith which worked by love.",
+            "The Father and the Son are regarded as equally the author of peace and love."
+        ],
+        "John Calvin": [
+            "I consider the word peace, as in the salutations of the Epistles, to mean prosperity.",
+            "He wishes the Ephesians to be peaceable and quiet among themselves; and this, he presently adds, may be obtained by brotherly love and by agreement in faith.",
+            "From this prayer we learn that faith and love, as well as peace itself, are gifts of God bestowed upon us through Christ."
+        ],
+        "Philip Schaff": [
+            "\u2018Peace \u2018is to be taken as usual; comp. chap. Ephesians 1:2. \u2018Brethren\u2019 refers to the readers (= \u2018you\u2019); the next verse seems to extend the benediction.",
+            "And love with faith; the latter is pre-supposed in the use of the term \u2018brethren;\u2019 in inseparable connection with this he wishes for love, Christian love of the brethren. Without faith love cannot exist; \u2018faith is the characteristic of proper love (as Galatians 5:6), love is the characteristic of proper faith\u2019 (Harless).",
+            "From God the Father, etc. The form is the usual one; comp. chap. Ephesians 1:2."
+        ],
+        "Archibald T. Robertson": [
+            "Love and faith (\u03b1\u03b3\u03b1\u03c0\u03b7 \u03bc\u03b5\u03c4\u03b1 \u03c0\u03b9\u03c3\u03c4\u03b5\u03c9\u03c2). Love of the brotherhood accompanied by faith in Christ and as an expression of it. "
+        ],
+        "John Gill": [
+            "meaning all prosperity outward and inward, temporal, spiritual, and eternal; especially peace of conscience under the sprinklings of the blood of Christ, and a view of peace made with God by that blood",
+            "faith works by love, and love discovers faith, and both are imperfect; faith has something lacking in it, and love is apt to grow cold, and need reviving and increasing",
+            "such a wish expresses the apostle's great love and affection for the brethren, and points out the things they stand in need of; and which, being asked for such, might be expected to be enjoyed"
+        ],
+        "John Wesley": [
+            "Peace \u2014 This verse recapitulates the whole epistle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peace from God is the kind of peace that is being described in Ephesians 6:23, a peace that comes directly from Him. Along with this peace, the apostle also prays for love accompanied by faith, emphasizing the importance of both love and faith in the Christian life. The Father and the Lord Jesus Christ are regarded as co-authors of this peace and love. This wish for peace and love with faith expresses the apostle's deep love and affection for the brethren, and he asks for these blessings knowing that they are gifts from God, bestowed upon us through Christ.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.345224142597318,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.32,
+            "commentatorTierSimilarities": [
+                29.7,
+                32.15,
+                38.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peace from God is described as a peace that comes directly from Him. Love accompanied by faith is desired, emphasizing the importance of both love and faith in the Christian life. This wish for peace and love with faith expresses the apostle's deep love and affection for the brethren and the things they stand in need of. These blessings are viewed as gifts bestowed upon us through Christ. The Father and the Lord Jesus Christ are regarded as co-authors of this peace and love.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.140556318652239,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.51,
+            "commentatorTierSimilarities": [
+                30.87,
+                31.74,
+                37.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The peace described in Ephesians 6:23 is a peace that comes directly from God, emphasizing its divine origin. The apostle prays for love accompanied by faith, underlining the importance of both qualities in the Christian life. The desire for peace and love with faith reflects the apostle's deep affection for the brethren and acknowledges these blessings as gifts from God through Christ. The Father and the Lord Jesus Christ are regarded as co-authors of this peace and love.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.219451647982991,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.14,
+            "commentatorTierSimilarities": [
+                30.05,
+                33.78,
+                36.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peace from God is the kind of peace that is being described, a peace that comes directly from Him. Along with this peace, the apostle also prays for love accompanied by faith, emphasizing the importance of both love and faith in the Christian life. The Father and the Lord Jesus Christ are regarded as co-authors of this peace and love. This wish for peace and love with faith expresses the apostle's deep love and affection for the brethren, and he asks for these blessings knowing that they are gifts from God, bestowed upon us through Christ.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.328800756620849,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.77,
+            "commentatorTierSimilarities": [
+                29.99,
+                31.77,
+                38.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peace from God is described as a peace that comes directly from Him. Love accompanied by faith is desired, emphasizing the importance of both love and faith in the Christian life. This wish for peace and love with faith expresses the apostle's love and affection for the brethren and the things they need. These blessings are viewed as gifts from God, bestowed upon us through Christ.",
+            "wordCount": 67,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 2.1685812750707125,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.45,
+            "commentatorTierSimilarities": [
+                30.9,
+                31.25,
+                37.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

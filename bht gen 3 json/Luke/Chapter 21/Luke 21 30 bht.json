@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:22:30",
+    "verseRef": "Luke 21:30",
+    "bestBHT": {
+        "bht": "By carefully observing the progress of the season, we can perceive the signs of summer. When the plants shoot forth their buds, branches, and leaves, we know that summer is near. These signs are so plain and obvious that we can recognize them without any guidance from others. So, when we see these signs, we can confidently say that summer is now nigh at hand.",
+        "wordCount": 65,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.1998447072119338,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.24,
+        "commentatorTierSimilarities": [
+            52.32,
+            0.0,
+            47.68
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Ye see [\u03b2\u03bb\u03b5\u03c0\u03bf\u03bd\u03c4\u03b5\u03c2] . Lit., \"looking, ye know,\" etc. Implying careful observation, with a view to determine the progress of the season. ",
+            "Know [\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03b5\u03c4\u03b5] . Perceive would be better."
+        ],
+        "Archibald T. Robertson": [
+            "Shoot forth (\u03c0\u03c1\u03bf\u03b2\u03b1\u03bb\u03c9\u03c3\u03b9\u03bd). Second aorist active subjunctive of \u03c0\u03c1\u03bf\u03b2\u03b1\u03bb\u03bb\u03c9, common verb, but in the N.T. only here and Acts 19:33.",
+            "Summer (\u03b8\u03b5\u03c1\u03bf\u03c2). Not harvest, but summer. Old word, but in the N.T. only here (Mark 13:28; Matthew 24:32)."
+        ],
+        "John Gill": [
+            "When they now shoot forth, their buds, branches, and leaves.",
+            "Ye see and know of your own selves; without any hint, or direction from others, the case is so plain and obvious.",
+            "The summer is now nigh at hand."
+        ],
+        "John Wesley": [
+            "Ye know of yourselves \u2014 Though none teach you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By carefully observing the progress of the season, we can perceive the signs of summer. When the plants shoot forth their buds, branches, and leaves, we know that summer is near. These signs are so plain and obvious that we can recognize them without any guidance from others. So, when we see these signs, we can confidently say that summer is now nigh at hand.",
+            "wordCount": 65,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.1998447072119338,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.24,
+            "commentatorTierSimilarities": [
+                52.32,
+                0.0,
+                47.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By carefully observing the progress of the season, you can perceive that when plants shoot forth their buds, branches, and leaves, it is a sign that summer is near. This understanding comes from your own observation and does not require any guidance from others. Through your own perception, you can recognize when the season is changing and anticipate the arrival of summer.",
+            "wordCount": 62,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.189670768845444,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.9,
+            "commentatorTierSimilarities": [
+                54.12,
+                0.0,
+                45.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By carefully observing and looking at the progress of the season, you can perceive that when plants shoot forth their buds, branches, and leaves, it is a sign that summer is near. This understanding comes from your own observation and does not require any guidance from others. Through your own perception, you can recognize when the season is changing and anticipate the arrival of summer.",
+            "wordCount": 65,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 1.2046583341120334,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.4,
+            "commentatorTierSimilarities": [
+                54.47,
+                0.0,
+                45.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through careful observation (looking, ye know) of the progress of the season, one can perceive that when plants shoot forth their buds, branches, and leaves, it signifies that summer is near. This understanding comes from personal perception (ye see and know of your own selves) rather than external guidance. The arrival of summer can be anticipated by recognizing these observable signs in nature.",
+            "wordCount": 63,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.2488071430315562,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.87,
+            "commentatorTierSimilarities": [
+                55.2,
+                0.0,
+                44.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By carefully observing and looking at the progress of the season, one can perceive (perceive would be better) that when plants shoot forth their buds, branches, and leaves, it is a sign that summer is near (the summer is now nigh at hand). This understanding comes from personal observation (Ye see and know of your own selves) and does not require any guidance from others (without any hint, or direction from others). Through one's own perception, it becomes evident that the season is changing, and the arrival of summer is imminent.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.310595920780726,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.92,
+            "commentatorTierSimilarities": [
+                52.05,
+                0.0,
+                47.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

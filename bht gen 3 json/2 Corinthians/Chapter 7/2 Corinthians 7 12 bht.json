@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:17:02",
+    "verseRef": "2 Corinthians 7:12",
+    "bestBHT": {
+        "bht": "Paul's purpose in writing to the Corinthians was driven by his earnest care for the Church rather than personal considerations. He sought to bring out their zeal and obedience to God, making it evident to themselves and in God's sight. He emphasized that his writing was not solely for the sake of the individual offender, but to manifest the Church's fidelity and zeal towards him as God's minister. His main objective was to protect the welfare of the entire Church and prevent it from being harmed by tolerating wrongdoing.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.066889401465204,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+        "commentatorTierSimilarities": [
+            34.35,
+            30.99,
+            34.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He shews them that to bring out this zeal in them was the real motive of his writing to them, and no private considerations.",
+            "It was not to exhibit to them his zeal for them that he wrote, but to make manifest to them, to bring out among them, their zeal to regard and obey him.",
+            "we rejoiced very much more at the joy of Titus, because his spirit has been refreshed by you all."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That YOUR care for us might be made manifest unto you, &c.",
+            "He wrote in order to bring out their zeal on his behalf (that is, to obey his command), and make it manifest to themselves in God's sight, that is, to bring out among them their zeal to regard and obey him.",
+            "His writing, he says, was not so much for the sake of the individual offender, or the individual offended, but from his 'earnest care' or concern for the welfare of the Church."
+        ],
+        "Albert Barnes": [
+            "It was not principally on account of the man who had done the wrong, or of him who had been injured; but it was from tender anxiety for the whole church, and in order to show the deep interest which he had in their welfare.",
+            "It was not primarily with reference to him as an individual that I wrote, but from a regard to the whole church.",
+            "I wrote mainly that I might show the deep interest which I had in the church at large, and my anxiety that it might not suffer by the misconduct of any of its members."
+        ],
+        "Marvin Vincent": [
+            "This difficult passage means that while Paul did desire the punishment and reformation of the offender, and the vindication of the wronged party, his main object was that the fidelity and zeal of the Church toward God should be manifested.\" ",
+            "This would appear in the manifestation of their zealous interest for him as God's minister.",
+            "He states this as if it were his only object."
+        ],
+        "John Calvin": [
+            "He wishes all past things to be buried, he does not any more reproach them, he does not reprove them for any thing, he does not expostulate as to any thing; in fine, he forgets every thing, inasmuch as he was satisfied with their simply repenting.\" ",
+            "For if we still call their sins to remembrance, it is certain that we are actuated by malevolence, rather than by pious affection, or a desire for their welfare.",
+            "You were not yourselves aware of the attachment that you felt towards me, until you had trial of it in this matter."
+        ],
+        "Philip Schaff": [
+            "But the true reading, when narrowly looked at, will be found to suit the context best that he wrote in order that by executing the order which he gave them, trying and peremptory as it was, \u2018their regard for his apostolic authority and himself too might be manifest to themselves before God.\u2019",
+            "What follows seems to confirm this.",
+            "[1] So beyond doubt reads the true text."
+        ],
+        "Archibald T. Robertson": [
+            "But that your earnest care for us might be made manifest.\" ",
+            "So the correct text, not 'our care for you.'\" ",
+            "Usual construction with preposition \u03b5\u03bd\u03b5\u03ba\u03b5\u03bd and genitive of articular infinitive with accusative of general reference."
+        ],
+        "John Gill": [
+            "I did it not for his cause that had done the wrong; not for the sake of the incestuous person only and chiefly, not merely for his correction and restoration; though these things were intended, and earnestly desired by the apostle.",
+            "It was not only or merely out of favour and respect to him [the father of the incestuous person], and that some compensation should be made to him in a church way, by detesting the crime, casting out the offender, and declaring themselves on the side of the injured person, and against him that had done the injury.",
+            "The apostle...wrote in the manner he did, chiefly that it might be manifest what a concern he had for the good and welfare of the whole church; lest that should be corrupted, and receive any damage from such a notorious delinquent being tolerated or connived at among them."
+        ],
+        "John Wesley": [
+            "It was not only, or chiefly, for the sake of the incestuous person, or of his father; but to show my care over you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 7:12, the apostle Paul clarifies that his writing to the Corinthians was not driven by personal motives or concerns, but rather by his earnest care and zeal for the well-being of the Church. He desired to bring out the zeal and obedience of the Corinthians in obeying God's commands, making it manifest to themselves and in God's sight. While the correction and restoration of the offender were important, Paul's main objective was to ensure the fidelity and zeal of the Church in their regard for him as God's minister. This passage emphasizes Paul's deep concern for the welfare of the entire Church and his desire to protect it from the detrimental effects of tolerating and condoning wrongdoing within its midst.",
+            "wordCount": 127,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 2.001739787513328,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.9,
+            "commentatorTierSimilarities": [
+                35.2,
+                30.39,
+                34.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his writing to the Corinthians, Paul emphasizes that his main motive was not personal gain, but rather his genuine care and concern for the well-being of the Church. He aimed to bring forth the Corinthians' zeal in obeying God's commands and to make it evident to themselves and in God's sight. Although addressing the offender and the offended parties was important, Paul's primary goal was to safeguard the Church's fidelity and zeal towards him as God's minister. His earnest desire was to protect the Church from the negative consequences of tolerating wrongdoing among its members.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0101528430897995,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+            "commentatorTierSimilarities": [
+                34.81,
+                30.55,
+                34.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's purpose in writing to the Corinthians was driven by his earnest care for the Church rather than personal considerations. He sought to bring out their zeal and obedience to God, making it evident to themselves and in God's sight. He emphasized that his writing was not solely for the sake of the individual offender, but to manifest the Church's fidelity and zeal towards him as God's minister. His main objective was to protect the welfare of the entire Church and prevent it from being harmed by tolerating wrongdoing.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.066889401465204,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+            "commentatorTierSimilarities": [
+                34.35,
+                30.99,
+                34.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's purpose in writing to the Corinthians was not driven by personal motives, but rather by his earnest care for the welfare of the Church. He wanted to bring forth the Corinthians' zeal to obey his command and make it evident to themselves and in God's sight. His main objective was to protect the Church from the detrimental effects of tolerating wrongdoing among its members, emphasizing the importance of their fidelity and zeal towards him as God's minister.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.046725880875989,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                35.84,
+                30.83,
+                33.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's writing to the Corinthians was not motivated by personal gain, but by his deep concern for the Church's well-being. He aimed to elicit the Corinthians' fervor in obeying God's commands, making it clear to themselves and in God's presence. Although he desired the restoration of the offender and justice for the offended, his primary objective was to safeguard the Church's faithfulness and devotion to him as God's minister. His sincere care for the Church inspired his letter, seeking to shield it from the repercussions of tolerating wrongdoing.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.9676558626363412,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+            "commentatorTierSimilarities": [
+                32.79,
+                31.56,
+                35.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

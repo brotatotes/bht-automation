@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:35:43",
+    "verseRef": "Acts 22:25",
+    "bestBHT": {
+        "bht": "As Paul was bound with thongs, in a position bent forward and tied with gear made of leather to an inclined post, he questioned the centurion, asking if it was lawful to scourge a man who was a Roman and uncondemned. By invoking his Roman citizenship, Paul reminded them of the laws that protected citizens from being condemned without proper hearing or pleading their case, thus using the privilege of his citizenship to shield himself from the intended injury.",
+        "wordCount": 79,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.1324076756351826,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+        "commentatorTierSimilarities": [
+            23.66,
+            35.9,
+            40.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Literally, while they were binding him down with the thongs.",
+            "The position of the prisoner was, bent forward, and tied with a sort of gear made of leather to an inclined post.",
+            "This was the ordinary officer\u2014standing by to superintend the punishment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I apologize for the previous errors. Here are three quotes directly from the original commentary:",
+            "Paul said to the centurion that stood by\u2014to superintend the torture and receive the confession expected to be wrung from him.",
+            "Is it lawful for you to scourge a man that is a Roman, &c.",
+            "See on :-."
+        ],
+        "Albert Barnes": [
+            "Bound him with thongs - With cords, preparatory to scourging.",
+            "Is it lawful ... - It was directly contrary to the Roman law to bind and scourge a Roman citizen.",
+            "See the notes on Acts 16:36-37."
+        ],
+        "Marvin Vincent": [
+            "Against the rendering of the A. V. is the word proeteinan, they stretched forward, in allusion to the position of the victim for scourging.",
+            "If the words referred simply to binding him, with thongs would be superfluous.",
+            "It is better, therefore, to take thongs as referring to the scourge, consisting of one or more lashes or cords, a sense in which it occurs in classical Greek, and to render stretched him out for (or before) the thongs."
+        ],
+        "John Calvin": [
+            "For nothing was then more heinous than to do any thing which was contrary to the liberty of the people of Rome.",
+            "Therefore, Paul escaped rather by the privilege than by common equity, yet did he not doubt in a good cause to bear off the injury which was prepared for him, with this buckler of the city.",
+            "But because he hath now to deal with the soldiers of Rome, who did behave themselves more moderately and gravely, he useth the opportunity."
+        ],
+        "Philip Schaff": [
+            "And as they stretched him out for the scourge; that is, the apostle was bound to a post or pillar in order to be exposed to the blows of the scourge, and in a suitable position to receive the torture.",
+            "Is it lawful for you to scourge a man that is a Roman, and uncondemned?",
+            "The claim of Roman citizenship was instantly allowed. There was no fear of imposture in such a case: the assertion, it false, was punishable with death."
+        ],
+        "Archibald T. Robertson": [
+            "Literally, 'When they stretched him forward.'",
+            "In either case, it is a dreadful scene of terrorizing by the chiliarch.",
+            "Interrogatio subironica est confidentiae plena."
+        ],
+        "John Gill": [
+            "Now as they were thus fastening him with thongs to the pillar, and putting him in this position, Paul said unto the centurion that stood by; to see the soldiers execute the orders received from the chief captain: is it lawful for you to scourge a man that is a Roman, and uncondemned?\" ",
+            "Though the apostle puts this by way of question, yet he knew full well what the Roman laws were in such cases; he did not put this through ignorance, or for information, but to let them know who he was, and to put them in mind of these laws, and of their duty.",
+            "According to the Valerian law, it was not lawful for magistrates to condemn a Roman without hearing the cause, and pleading in it; and such condemned persons might appeal to the populace."
+        ],
+        "John Wesley": [
+            "A freeman of Rome might be bound with a chain and beaten with a staff: but he might not be bound with thongs, neither scourged, or beaten with rods.",
+            "Paul said to the centurion - The captain, who stood by to see the orders of the tribune executed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the centurion stood by to superintend the punishment, Paul was bound with thongs, in a position bent forward and tied with gear made of leather to an inclined post. While they were stretching him forward for the thongs, Paul questioned the centurion, asking if it was lawful to scourge a man who was a Roman and uncondemned. By invoking his Roman citizenship, Paul not only asserted his legal rights, but he also reminded them of the Roman laws that protected citizens from being condemned without proper hearing or pleading their case. Despite the terrorizing scene, Paul's confident and ironic interrogation preserved him from the injury that was intended for him, utilizing the privilege of Roman citizenship as a shield.",
+            "wordCount": 121,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 2.1527123269354074,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.92,
+            "commentatorTierSimilarities": [
+                24.22,
+                35.24,
+                40.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Paul was bound with thongs, in a position bent forward and tied with gear made of leather to an inclined post, he questioned the centurion, asking if it was lawful to scourge a man who was a Roman and uncondemned. By invoking his Roman citizenship, Paul reminded them of the laws that protected citizens from being condemned without proper hearing or pleading their case, thus using the privilege of his citizenship to shield himself from the intended injury.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.1324076756351826,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+            "commentatorTierSimilarities": [
+                23.66,
+                35.9,
+                40.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The centurion bound Paul with thongs, placing him in a position bent forward and tied to an inclined post. As they stretched him forward for the thongs, Paul, in a confident and ironic interrogation, questioned the centurion about the legality of scourging an uncondemned Roman citizen. By invoking his Roman citizenship, Paul not only asserted his legal rights but also reminded them of the Roman laws that protected citizens from unjust punishment. Paul's knowledge of the laws and his bold assertion of his rights spared him from the intended harm.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9565953333832744,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.4,
+            "commentatorTierSimilarities": [
+                24.47,
+                34.39,
+                41.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Bound with thongs and positioned bent forward to an inclined post, Paul asked the centurion if it was lawful to scourge a Roman citizen who was uncondemned. By invoking his Roman citizenship, Paul not only asserted his rights but also reminded them of the laws protecting citizens from unjust punishment. His confident and ironic interrogation showcased his knowledge of the laws and saved him from the intended harm.",
+            "wordCount": 68,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.932180297920874,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                22.89,
+                36.41,
+                40.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the centurion stood by, they bound Paul with thongs, placing him in a position bent forward and tied to an inclined post. Paul then questioned the centurion, asking about the legality of scourging an uncondemned Roman citizen. By invoking his Roman citizenship, Paul asserted his rights and reminded them of the laws that protected citizens from unjust punishment. This confident and ironic interrogation helped spare Paul from the intended harm, as his knowledge of the laws and his bold assertion of his rights proved effective.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8682344118561898,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.46,
+            "commentatorTierSimilarities": [
+                21.96,
+                34.34,
+                43.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

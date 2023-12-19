@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:15:18",
+    "verseRef": "Luke 4:22",
+    "bestBHT": {
+        "bht": "The people were in awe of the gracious and powerful words that came from Jesus' mouth. They acknowledged the truth and sweetness of his discourse, although some were jealous and disbelieving because they knew he had not received formal education. However, they couldn't deny the reports about Jesus and began to bear witness to the fact that his teaching was extraordinary. They marveled at the gracefulness and charm with which he spoke, even though they were astonished by his humble background.",
+        "wordCount": 82,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.080604870835095,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+        "commentatorTierSimilarities": [
+            31.79,
+            35.16,
+            33.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Bare him witness: i.e. bare witness to him (that It was so), The words of grace must be the discourse of which ver. 21 is a compendium.",
+            "While acknowledging the truth of what He said, and the power with which He said it, they wondered, and were jealous of Him.",
+            "Between this verse and the next, the taking offence at Him is implied, for that is in a tone of reproof."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "gracious words\u2014the words of grace, referring both to the richness of His matter and the sweetness of His manner.",
+            "Is not this, &c.\u2014They knew He had received no rabbinical education, and anything supernatural they seemed incapable of conceiving.",
+            "the sweetness of His manner."
+        ],
+        "Albert Barnes": [
+            "Their reason and conscience approved of it, and they were constrained to admit the force and propriety of it, and on this account they wondered.",
+            "They were struck with the truth and force of his words; and especially when they remembered that he was a native of their own place, and that they had been long acquainted with him.",
+            "The words of grace or favor; the kind, affectionate, and tender exposition of the words, and explanation of the design of his coming, and the nature of the plan of redemption."
+        ],
+        "Marvin Vincent": [
+            "They confirmed the reports which had been circulated about him. Note the imperfect tense. There was a continuous stream of admiring comment.",
+            "At the gracious words, literally and correctly, as Rev., words of grace.",
+            "Is not [\u03bf\u03c5\u03c7\u03b9] . Expecting an affirmative answer."
+        ],
+        "John Calvin": [
+            "Using a Hebrew idiom, he calls them discourses of grace, \u2014 that is, discourses which manifested the power and grace of the Holy Spirit.",
+            "Is not this the son of Joseph? Instead of regarding this circumstance as an additional reason for glorifying God, they bring it forward as an objection, and wickedly make it a ground of offense.",
+            "Thus we daily see many who, while they are convinced that what they hear is the word of God, seize on frivolous apologies for refusing to obey it."
+        ],
+        "Philip Schaff": [
+            "Words of grace. He had evidently spoken at some length. \u2018Grace\u2019 here refers to the beauty of His discourse, and not to its moral quality.\" ",
+            "Marvel at words of gracefulness is a small result for the preacher.",
+            "The wonder was that such graceful words could be spoken by \u2018Joseph\u2019s son,\u2019 implying a contempt of His supposed origin, and envy of Him as such a preacher."
+        ],
+        "Archibald T. Robertson": [
+            "They all began to bear witness that the rumours were not exaggerations, but had foundation in fact if this discourse or its start was a fair sample of his teaching.",
+            "They began to marvel as he proceeded with his address.",
+            "The words that came out of the mouth of Jesus were marked by fascination and charm. They were 'winning words' as the context makes plain, though they were also 'gracious' in the Pauline sense of 'grace.'"
+        ],
+        "John Gill": [
+            "And wondered at the gracious words which proceeded out of his mouth; not so much at the matter, the sum, and substance of them, as expressive of the love, grace, and favour of God shown in the mission and unction of the Messiah, and in that liberty, deliverance, and salvation he was sent to effect and proclaim...",
+            "As at the graceful manner in which he delivered himself, and the aptness of his words, the propriety of his diction, and the majesty, power, and authority, with which his expressions were clothed...",
+            "And they were more amazed at all this, since they knew his parentage and education, and in what manner he had been brought up among them; and therefore it was astonishing to them, where he had his learning, knowledge, and wisdom..."
+        ],
+        "John Wesley": [
+            "A person of spiritual discernment may find in all the discourses of our Lord a peculiar sweetness, gravity, and becomingness.",
+            "Such as is not to be found in the same degree, not even in those of the apostles.",
+            "The gracious words which proceeded out of his mouth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in Luke 4:22 acknowledged and witnessed the truth and power of Jesus' words, which were filled with grace and delivered with a sweet and charming manner. They were amazed and marveled at the beauty and aptness of his discourse, but also expressed jealousy and disbelief because they knew that Jesus had not received rabbinical education. Despite their doubts, they began to bear witness to the fact that the rumors about Jesus were true and that his teaching was exceptional. The people were struck by the graciousness and authority of Jesus' words, as well as by the fact that they came from the son of Joseph, which they saw as a contemptible origin.",
+            "wordCount": 113,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0874361613274433,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+            "commentatorTierSimilarities": [
+                29.03,
+                36.46,
+                34.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people were in awe of the gracious and powerful words that came from Jesus' mouth. They acknowledged the truth and sweetness of his discourse, although some were jealous and disbelieving because they knew he had not received formal education. However, they couldn't deny the reports about Jesus and began to bear witness to the fact that his teaching was extraordinary. They marveled at the gracefulness and charm with which he spoke, even though they were astonished by his humble background.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.080604870835095,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+            "commentatorTierSimilarities": [
+                31.79,
+                35.16,
+                33.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people in awe of the beauty and power of Jesus' words. They acknowledged and witnessed the truth and grace in his discourse. Although some were jealous and disbelieving due to Jesus' lack of formal education, they couldn't deny the reports about him. They began to bear witness to the fact that his teaching was exceptional. They marveled at the sweet, charming manner in which he spoke, even though they were astonished by his humble background, contemplating where he gained his wisdom and knowledge.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9657246937774993,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                32.67,
+                35.38,
+                31.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people marveled at the gracious and powerful words that came from Jesus' mouth. They acknowledged the truth and sweetness of his discourse, though some were jealous and disbelieving due to his lack of education. Yet, they couldn't deny the reports about Jesus and bore witness to the fact that his teaching was extraordinary. The people were in awe of the gracefulness and charm with which he spoke, despite their astonishment regarding his humble background. They pondered where he gained his wisdom and knowledge.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.0075941815090985,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                31.4,
+                34.51,
+                34.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people were amazed at the beauty and power of Jesus' words. They acknowledged and witnessed the truth and grace in his discourse, marveling at the sweet, charming manner in which he spoke. Some were jealous and disbelieving due to Jesus' lack of education, but they couldn't deny the reports about him. They began to bear witness to the fact that his teaching was exceptional, contemplating where he gained his wisdom and knowledge.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.9889670832042254,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                30.94,
+                35.49,
+                33.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

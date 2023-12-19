@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:18:48",
+    "verseRef": "2 Corinthians 12:20",
+    "bestBHT": {
+        "bht": "Paul expresses his fear of not finding the Corinthians as he desires upon his arrival, and of being seen unfavorably by them. He vividly describes the issues that have been occurring in his absence - secret slander, open detraction, quarrels, envy, arrogance, anger, and whispers. This depiction points to a church plagued by strife, jealousy, factions, and backbiting. Paul's concern reveals the severity of the situation, as he strives to address these issues before resorting to more extreme measures.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.5482874652987428,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.82,
+        "commentatorTierSimilarities": [
+            21.36,
+            37.78,
+            40.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "lest, when I arrive, I should find you not such as I wish",
+            "and I should be found by you such as ye wish not",
+            "whisperings, i.e. secret malignings,\u2014slanderings, i.e. open detraction"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "strifes, contentions",
+            "envying",
+            "arrogant elation; puffing up of yourselves"
+        ],
+        "Albert Barnes": [
+            "I shall not find you such as I would - That is, walking in the truth and order of the gospel.",
+            "Lest there be debates... envyings... wraths... strifes... backbitings... whisperings... swellings... tumults.",
+            "Paul, deeply sensible of the evil of all this, had endeavored in this correspondence to suppress it, that all things might be pleasant when he should come among them."
+        ],
+        "Marvin Vincent": [
+            "Excitements or outbursts of wrath.",
+            "Secret slanders.",
+            "Conceited inflation."
+        ],
+        "John Calvin": [
+            "Now respect for him would have been a means of leading them to repentance, for they would have listened to his admonitions.",
+            "It is a token not merely of love, but even of indulgence, to shun severity, and have recourse to milder measures.",
+            "He teaches, accordingly, by his example, that mild remedies must always be resorted to by Pastors, for the correction of faults, before they have recourse to extreme severity."
+        ],
+        "Philip Schaff": [
+            "For I fear, lest by any means, when I come, I should find you not such as I would, and should myself be found of you such as ye would not lest my visit should be pleasant to neither party, lest there should be strife, jealousy, wraths, factions, backbitings, whisperings, tumults.",
+            "That such a state of things should be apprehended reveals a condition in the Church of Corinth which might well justify the severest language which he employs in dealing with it.",
+            "The list of things here specified seems to shew that the old cancer which festered in the Greek republics had found its way into the Christian community of this Greek city."
+        ],
+        "Archibald T. Robertson": [
+            "An idiomatic construction after the verb of fearing... with \u03bf\u03c5\u03c7 as the negative of the verb... \u03bc\u03b7 the conjunction, \u03bf\u03c5\u03c7 the negative.",
+            "With graphic pen pictures Paul describes what had been going on against him during his long absence.",
+            "Late word from \u03c8\u03b9\u03b8\u03c5\u03c1\u03b9\u03b6\u03c9, to whisper into one's ear... Only here in N.T."
+        ],
+        "John Gill": [
+            "Lest there be debates; or 'strifes', or contentions among them, about words to no profit, or about their ministers, as before.",
+            "Wraths; breaking out into words and actions, which discover hatred of mind, a malignant spirit, quite contrary to that of the Gospel.",
+            "Tumults; at church meetings, interrupting one another, going into parties, and making rents and schisms."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul expresses his fear that upon his arrival, he would not find the Corinthians as he desires, and that they would also see him in a negative light. He vividly describes the issues that have been plaguing the Corinthian community in his absence - secret slander, open detraction, quarrels, envy, arrogance, anger, and whispers. This paints a picture of a church plagued by strife, jealousy, factions, and backbiting. Paul's concern and apprehension regarding this state of affairs indicate the severity of the situation, as he strives to address these issues before resorting to more extreme measures.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.5480991407158373,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.82,
+            "commentatorTierSimilarities": [
+                20.95,
+                39.5,
+                39.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul expresses his fear that he would not find the Corinthians as desired and vice versa. He vividly describes the issues plaguing the community in his absence\u2014secret slander, open detraction, quarrels, envy, arrogance, anger, and whispers. This indicates a church plagued by strife, jealousy, factions, and backbiting. Paul's concern reveals the severity of the situation, as he strives to address these issues before resorting to extreme measures.",
+            "wordCount": 69,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.5307267313910247,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.24,
+            "commentatorTierSimilarities": [
+                20.14,
+                40.4,
+                39.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul fears that he will not find the Corinthians as he desires and that they will see him unfavorably. He paints a picture of a community plagued by secret slander, open detraction, quarrels, envy, arrogance, anger, and whispers. This reveals a church riddled with strife, jealousy, factions, and backbiting. Paul's concern emphasizes the seriousness of the situation, as he works to address these issues before resorting to extreme measures.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.506529489271458,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                21.8,
+                41.96,
+                36.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul expresses his fear of not finding the Corinthians as he desires upon his arrival, and of being seen unfavorably by them. He vividly describes the issues that have been occurring in his absence - secret slander, open detraction, quarrels, envy, arrogance, anger, and whispers. This depiction points to a church plagued by strife, jealousy, factions, and backbiting. Paul's concern reveals the severity of the situation, as he strives to address these issues before resorting to more extreme measures.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5482874652987428,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.82,
+            "commentatorTierSimilarities": [
+                21.36,
+                37.78,
+                40.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's expressed concern revolves around his fear of not finding the Corinthians as he desires upon his arrival, and of being received in an unfavorable manner by them. He vividly portrays the issues that have been festering in their absence, including secret slander, open detraction, quarrels, envy, arrogance, anger, and whispers. This depiction signifies a community embroiled in strife, jealousy, factions, and backbiting. Paul's apprehensions highlight the gravity of the situation, as he endeavors to address these matters before resorting to more severe measures.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.5176211138129654,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                21.43,
+                36.87,
+                41.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

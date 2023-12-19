@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:19:06",
+    "verseRef": "Colossians 1:5",
+    "bestBHT": {
+        "bht": "The thanksgiving stems from the spiritual state of the recipients, who share a common love, grounded in their common hope. This hope is based on the preaching of the truth found in the Gospel, which is the substance of the word they heard before the influence of the Gnostics. The hope of eternal life is an active principle that produces love and is not founded on works but on a deep sense of God's grace. This hope, like a treasure laid up in heaven, fuels the flame of faith and love, and it is richly reserved for the believers.",
+        "wordCount": 100,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.2941776375002894,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.62,
+        "commentatorTierSimilarities": [
+            34.84,
+            33.85,
+            31.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The ground of such thanksgiving is ever in the spiritual state of the person addressed.",
+            "Common hope was the bond of common love.",
+            "The word or preaching whose substance was that truth of which the Gospel is the depository and vehicle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The hope of eternal life will never be in us an inactive principle but will always produce 'love.'",
+            "It does not follow that our hope is founded on our works because we are strongly stimulated to live well since nothing is more effectual for this purpose than the sense of God's free grace [CALVIN].",
+            "Faith, love, and hope, comprise the sum of Christianity."
+        ],
+        "Albert Barnes": [
+            "I give thanks that there is such a hope laid up for you.",
+            "He fully believed that where there was such faith and love, there was a well-founded hope of heaven.",
+            "The word 'hope' here is used, as it often is, for the thing hoped for."
+        ],
+        "Marvin Vincent": [
+            "The hope laid up in heaven is not the deepest reason or motive for faith and love, but both are made more vivid when it is strong. It is not the light at which their lamps are lit, but it is the odorous oil which feeds their flame.",
+            "Deposited, reserved, put by in store out of the reach of all enemies and sorrows\" (Bishop Wilson).",
+            "The truth is the contents of the word, and the Gospel defines the character of the truth."
+        ],
+        "John Calvin": [
+            "For the hope of eternal life will never be inactive in us, so as not to produce love in us.",
+            "Meditation, however, upon the heavenly life stirs up our affections both to the worship of God, and to exercises of love.",
+            "For it does not follow, that because hope stimulates us to aim at upright living, it is therefore founded upon works, inasmuch as nothing is more efficacious for this purpose than God\u2019s unmerited goodness, which utterly overthrows all confidence in works."
+        ],
+        "Philip Schaff": [
+            "The hope, i.e., the thing hoped for, the hope as respects its contents, since only in this sense could it be defined by the clause: which is laid up for you in heaven.",
+            "'Laid up' suggests the thought of a treasure set aside for future use and securely placed. 'In heaven' is not strictly local here, but may point to the future kingdom of heaven.",
+            "The hope of which they heard before was 'in' (as an essential part of) this 'word'."
+        ],
+        "Archibald T. Robertson": [
+            "Here hope is objective, the goal ahead.",
+            "The same idea occurs in Matthew 6:20 (treasure in heaven) and 1 Peter 1:4 and it is involved in Philemon 3:20.",
+            "They heard the pure gospel from Epaphras before the Gnostics came."
+        ],
+        "John Gill": [
+            "because of the rich treasure of glory and happiness in reserve for them in heaven, which they were hoping and waiting for...",
+            "but the thing hoped for, everlasting happiness, is intended; see Titus 2:13 Galatians 5:5; which is so called, because it is the object of hope; is not yet possessed; is future; is not seen; is difficult, and yet possible to be enjoyed...",
+            "this is what only the Gospel brings an account of; life and immortality are only brought to light by the Gospel; which not only speaks of it, but lays that before men, which give them ground and encouragement to hope for it."
+        ],
+        "John Wesley": [
+            "Ye heard before \u2014 I wrote to you.",
+            "In the word of truth, of the gospel \u2014 The true gospel preached to you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ground of thanksgiving is found in the spiritual state of the people addressed in this verse. Their common hope, the bond of their love, is based on the preaching of the truth contained in the Gospel. The hope of eternal life is not a passive principle but it produces love. This hope is not founded on works but is instead fueled by the sense of God's free grace. Faith, love, and hope are the essence of Christianity. This hope is the goal ahead, the treasure laid up in heaven, reserved and secure. It is the odorous oil that feeds the flame of faith and love. The Colossians heard this pure gospel from Epaphras before the Gnostics came.",
+            "wordCount": 119,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 2.1195025177325952,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+            "commentatorTierSimilarities": [
+                37.23,
+                31.81,
+                30.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The thanksgiving stems from the spiritual state of the recipients, who share a common love, grounded in their common hope. This hope is based on the preaching of the truth found in the Gospel, which is the substance of the word they heard before the influence of the Gnostics. The hope of eternal life is an active principle that produces love and is not founded on works but on a deep sense of God's grace. This hope, like a treasure laid up in heaven, fuels the flame of faith and love, and it is richly reserved for the believers.",
+            "wordCount": 100,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2941776375002894,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.62,
+            "commentatorTierSimilarities": [
+                34.84,
+                33.85,
+                31.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The thanksgiving expressed in this passage is rooted in the recipients' spiritual state and their common hope, which is the foundation of their love. This hope is based on the preaching of the Gospel, which contains the truth. It is an active, transformative hope that inspires believers to live well, not out of works, but out of a profound understanding of God's free grace. This hope, like a treasure in heaven, serves as a constant reminder of the eternal life that awaits believers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.1947144841898307,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.31,
+            "commentatorTierSimilarities": [
+                32.66,
+                33.44,
+                33.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The thanksgiving expressed is rooted in the spiritual state and common hope of the recipients, which is the bond of their love. The preaching of the truth contained in the Gospel is the substance of their hope, not founded on their works but on the sense of God's grace. This hope is an active principle that produces love, like an odorous oil that fuels their faith and love. Reserved and secure, their hope is like a treasure laid up in heaven, waiting to be revealed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.1938934289148806,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.29,
+            "commentatorTierSimilarities": [
+                34.58,
+                35.19,
+                30.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The thanksgiving expressed in this verse is based on the spiritual state of the recipients and their common hope, which is the foundation of their love. This hope is not based on works, but on a deep sense of God's grace and the truth contained in the Gospel. It is an active hope that produces love and is like a treasure laid up in heaven, securely reserved for believers. This hope fuels the flame of faith and love, enabling them to live well.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.2476993512508443,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+            "commentatorTierSimilarities": [
+                33.96,
+                34.73,
+                31.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

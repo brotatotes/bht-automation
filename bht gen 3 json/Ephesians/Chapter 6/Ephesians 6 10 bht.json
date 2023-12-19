@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 15:34:11",
+    "verseRef": "Ephesians 6:10",
+    "bestBHT": {
+        "bht": "Finally, be strengthened in the Lord, in the power of His might, for the good fight in the Christian armor. To be strong in the Lord is not just about our own ability, but about relying on Him as our strength. It is about feeling His power and understanding that it is through Him that we can be courageous. So, let us not shrink from the combat, but instead ask God for the supply of our deficiencies, knowing that His power will be there to sustain us.  ",
+        "wordCount": 87,
+        "quoteTokenProportion": 53.7,
+        "qualityScore": 2.3772962193856726,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.39,
+        "commentatorTierSimilarities": [
+            26.31,
+            43.61,
+            30.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Henceforth be strengthened in the Lord.\" ",
+            "Be strengthened...in the power of his might."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the good fight in the Christian armor",
+            "be strengthened.",
+            "the power of his might"
+        ],
+        "Albert Barnes": [
+            "To be 'strong in the Lord,' is to be strong or courageous in his cause.\" ",
+            "To be 'strong in the Lord,' is to feel that he is our strength.",
+            "To be 'strong in the Lord,' is to rely on him and his promises."
+        ],
+        "Marvin Vincent": [
+            "Finally [\u03c4\u03bf \u03bb\u03bf\u03b9\u03c0\u03bf\u03bd] . See on 2 Corinthians 13:11. Omit my brethren. Be strong [\u03b5\u03bd\u03b4\u03c5\u03bd\u03b1\u03bc\u03bf\u03c5\u03bf\u03c5\u03c3\u03b8\u03b5] . Lit., be strengthened. Compare Romans 4:20, and Philippians 4:13. ",
+            "Power of His might. See on ch. Ephesians 1:19."
+        ],
+        "John Calvin": [
+            "You have no right to reply, that you have not the ability; for all that I require of you is, be strong in the Lord.\" ",
+            "If the Lord aids us by his mighty power, we have no reason to shrink from the combat.",
+            "He exhorts them to be courageous, but at the same time reminds them to ask from God a supply of their own deficiencies, and promises that, in answer to their prayers, the power of God will be displayed."
+        ],
+        "Philip Schaff": [
+            "Be strengthened; the verb is passive. It is God who strengthens...we are strengthened, and thus become strong, but we are not exhorted to 'be strong.'\" ",
+            "The internal fitness for the fight is from God, as the armor is from Him.",
+            "Here our sense of weakness is essential to our strength."
+        ],
+        "Archibald T. Robertson": [
+            "Finally (\u03c4\u03bf\u03c5 \u03bb\u03bf\u03b9\u03c0\u03bf\u03c5). Genitive case, 'in respect of the rest,' like Galatians 6:17.",
+            "Be strong in the Lord (\u03b5\u03bd\u03b4\u03c5\u03bd\u03b1\u03bc\u03bf\u03c5\u03c3\u03b8\u03b5 \u03b5\u03bd \u03ba\u03c5\u03c1\u03b9\u03c9).\" ",
+            "Not a hendiadys."
+        ],
+        "John Gill": [
+            "This is the conclusion of the apostle's exhortations, in which he addresses the saints as his brethren; which appellation he uses, not merely as a familiar way of speaking among the Jews, but in regard to them as regenerate persons, and of the same family and household of God with himself.",
+            "And he calls them so, to show his humility, and as a proof of his affection to them, and with a design to encourage them to their duty.",
+            "Since there is strength in him, which is communicable to them, they may expect it from him, and depend upon it."
+        ],
+        "John Wesley": [
+            "Be strong \u2014 Nothing less will suffice for such a fight: to be weak, and remain so, is the way to perish.",
+            "In the power of his might \u2014 A very uncommon expression, plainly denoting what great assistance we need as if his might would not do, it must be the powerful exertion of his might.",
+            "Soldiers frequently use it to each other in the field."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Finally, be strengthened in the Lord, in the power of His might, for the good fight in the Christian armor. To be strong in the Lord is not just about our own ability, but about relying on Him as our strength. It is about feeling His power and understanding that it is through Him that we can be courageous. We may feel weak, but that is where our true strength lies, for it is in our weakness that His power is displayed. So, let us not shrink from the combat, but instead ask God for the supply of our deficiencies, knowing that His power will be there to sustain us. In this exhortation, the apostle addresses us as his brethren, reminding us that we are part of the same family and household of God. So, be strong and depend on Him, for there is strength in the Lord, strength that is communicable to us, and strength that we can confidently rely on.",
+            "wordCount": 162,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.319793140378671,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.47,
+            "commentatorTierSimilarities": [
+                25.21,
+                44.72,
+                30.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Finally, be strengthened in the Lord, in the power of His might, for the good fight in the Christian armor. To be strong in the Lord is not just about our own ability, but about relying on Him as our strength. It is about feeling His power and understanding that it is through Him that we can be courageous. So, let us not shrink from the combat, but instead ask God for the supply of our deficiencies, knowing that His power will be there to sustain us.  ",
+            "wordCount": 87,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 2.3772962193856726,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.39,
+            "commentatorTierSimilarities": [
+                26.31,
+                43.61,
+                30.08
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

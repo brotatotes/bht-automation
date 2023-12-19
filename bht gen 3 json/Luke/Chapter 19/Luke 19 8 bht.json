@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:21:59",
+    "verseRef": "Luke 19:8",
+    "bestBHT": {
+        "bht": "Zacchaeus, standing before Jesus, proclaimed his vow to make right the wrongs he had committed. He declared that he would give half of his possessions to the poor and restore fourfold to those he had wronged. This act of restitution was evidence of his sincere repentance and transformed heart. It was a tangible demonstration of his commitment to rectify the injustice he had caused and live according to God's principles. Zacchaeus' words and actions revealed his earnest desire to embrace righteousness fully.",
+        "wordCount": 83,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 1.8771242574212446,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.76,
+        "commentatorTierSimilarities": [
+            22.44,
+            35.64,
+            41.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This day is salvation come to this house, looks as if He were just entering the house, not just leaving it; and the day meant must be the same with that in ver. 5.\" ",
+            "the half of my goods I give to the poor",
+            "whatever I have unfairly exacted from any man"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mark how frequently Luke uses this title, and always where lordly authority, dignity, or power is intended.",
+            "The Roman law required this; the Jewish law, but the principal and a fifth more.",
+            "He gratefully addressed this to the 'Lord,' to whom he owed the wonderful change."
+        ],
+        "Albert Barnes": [
+            "This was not a proclamation of his 'own' righteousness, nor the 'ground' of his righteousness, but it was the 'evidence' of the sincerity of his repentance.\" ",
+            "A man who has hoarded ill-gotten gold, if he becomes a Christian, will be disposed to do good with it. A man who has injured others...must, if he be a Christian, be willing, as far as possible, to make restoration.",
+            "One of the best evidences of true conversion is when it produces this result; and one of the surest evidences that a 'professed' penitent is not a 'true' one, is when he is 'not' disposed to...make proper restitution."
+        ],
+        "Marvin Vincent": [
+            "He was like the Pharisee in attitude, but not in spirit.",
+            "Zacchaeus' statement is not a vindication, but a vow. 'I now give by way of restoration.'",
+            "It is an odd coincidence, nothing more, that the fig-mulberry (sycamore) should occur in connection with the fig-shewer (sycophant)."
+        ],
+        "John Calvin": [
+            "As it was probable that he had enriched himself to the injury of others, if he had wronged any man, he was ready to restore fourfold.",
+            "Though no mention is here made of inward repentance, yet Luke means that the godly zeal, which he commends in Zaccheus, proceeded from that living root.",
+            "But Zaccheus devotes the half of his goods to God in such a manner, as to give, at the same time, compensation for whatever wrongs he has done; and hence we infer that the riches which he possessed were not the fruit of dishonest gain."
+        ],
+        "Philip Schaff": [
+            "And Zaccheus stood... with joyful decision.",
+            "The half of my goods I give to the poor. It is... the announcement of his purpose.",
+            "I restore fourfold. Restitution from double to fivefold... a confession of theft."
+        ],
+        "Archibald T. Robertson": [
+            "If I have wrongfully exacted aught of any man... His own conscience was at work.",
+            "Restitution is good proof of a change of heart.",
+            "Without this the offer of Zacchaeus to give half his goods to the poor would be less effective."
+        ],
+        "John Gill": [
+            "And Zacchaeus stood.... Before Christ, in respect to him, and reverence of him; and in the presence of others, to make a public confession before them, and that they might all hear it.\" ",
+            "I give unto the poor; not to make satisfaction for the sins he had committed, but to testify his sense of them, and his repentance for them, and as willing to do good with what he had gotten.",
+            "The same that was done in case of sheep stealing, Exodus 22:1 but in such a case as this, the law only required the principal, with the fifth part added to it; see Leviticus 6:5 but Zacchaeus proposes as much as in the case of theft, and which was rarely used."
+        ],
+        "John Wesley": [
+            "And Zaccheus stood \u2014 Showing by his posture, his deliberate, purpose and ready mind, and said, Behold, Lord, I give - I determine to do it immediately."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Zacchaeus, after experiencing a life-changing encounter with Jesus, stood before Him and proclaimed his newfound commitment to righteousness. In his declaration, he acknowledged his past wrongs and vowed to make amends by giving half of his possessions to the poor and restoring fourfold to anyone he had wronged. This act of restitution was not merely a show of generosity, but rather a tangible proof of his repentance and transformation. Zacchaeus' words and actions demonstrated his sincere desire to rectify the injustices he had committed and to live a life aligned with God's principles. Through his declaration, Zacchaeus showed the depth of his repentance and his wholehearted dedication to the path of righteousness.",
+            "wordCount": 114,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 1.823388148308315,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                18.89,
+                36.06,
+                45.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Zacchaeus, standing before Jesus, proclaimed his vow to make right the wrongs he had committed. He declared that he would give half of his possessions to the poor and restore fourfold to those he had wronged. This act of restitution was evidence of his sincere repentance and transformed heart. It was a tangible demonstration of his commitment to rectify the injustice he had caused and live according to God's principles. Zacchaeus' words and actions revealed his earnest desire to embrace righteousness fully.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.8771242574212446,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.76,
+            "commentatorTierSimilarities": [
+                22.44,
+                35.64,
+                41.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After encountering Jesus, Zacchaeus stood before Him and declared his intention to give half of his possessions to the poor and restore fourfold to those he had harmed. This act of restitution demonstrated his sincere repentance and showed that true conversion produces a desire to make amends. Zacchaeus' words and actions exhibited a genuine change of heart and a commitment to live in accordance with God's principles. Through his declaration, Zacchaeus exemplified the transformative power of encountering Jesus.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.7657487798588711,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                21.3,
+                34.39,
+                44.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Zacchaeus, having encountered Jesus, stood with joyful decision and announced his intention to give half of his possessions to the poor and restore fourfold to those whom he had wronged. This act of restitution was not only evidence of his sincere repentance but also a proof of his commitment to rectify the injustices he had committed. Zacchaeus' declaration and actions serve as a powerful testimony of the transformative effect that encountering Jesus can have on a person's life.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.842461021888162,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                19.94,
+                35.81,
+                44.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Zacchaeus, standing before Jesus, announced his intention to give half of his possessions to the poor and restore fourfold to those he had wronged. This act of restitution not only demonstrated his sincerity of repentance but also served as proof of his genuine transformation. Zacchaeus' words and actions confirmed his commitment to rectify the injustices he had caused and live a life in alignment with God's principles. Through his declaration, Zacchaeus revealed the profound impact of encountering Jesus and the power of true repentance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8272683987889162,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+            "commentatorTierSimilarities": [
+                20.44,
+                34.62,
+                44.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

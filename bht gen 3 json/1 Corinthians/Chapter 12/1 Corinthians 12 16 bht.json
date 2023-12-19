@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 15:12:10",
+    "verseRef": "1 Corinthians 12:16",
+    "bestBHT": {
+        "bht": "Just as the previous verse explains that every part of the body is important, this verse reiterates the point. Just like the ear is a less noble part compared to the eye, there are members of the church who may be considered less significant but are still valued by Christ. These members are those who internalize and apply the word of God, the ministers who bring light to the world, and the true and respected members of the church.",
+        "wordCount": 79,
+        "quoteTokenProportion": 45.1,
+        "qualityScore": 1.395609153369739,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.75,
+        "commentatorTierSimilarities": [
+            52.9,
+            0.0,
+            47.1
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Points explained precisely as in verse 1 Corinthians 12:15. "
+        ],
+        "John Gill": [
+            "Such as are hearers of the word of God, not merely externally, but internally; who hear so as to love, savour, and relish it; so as to understand and believe it, and to act in compliance with it.",
+            "The ministers of the Gospel, who are that to the church, as eyes are to the body; they are the light of the world, have a clear insight into the doctrines of the Gospel, and communicate their light to others.",
+            "True and useful members of the church, highly respected by Christ the head, and to be had in esteem by their fellow members, who may be superior to them."
+        ],
+        "John Wesley": [
+            "The ear \u2014 A less noble part.",
+            "The eye \u2014 The most noble."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Just as the previous verse explains that every part of the body is important, this verse reiterates the point. Just like the ear is a less noble part compared to the eye, there are members of the church who may be considered less significant but are still valued by Christ. These members are those who internalize and apply the word of God, the ministers who bring light to the world, and the true and respected members of the church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.395609153369739,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.75,
+            "commentatorTierSimilarities": [
+                52.9,
+                0.0,
+                47.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just as the previous passage emphasizes the importance of every part of the body, this reminds us that the same principle applies. Those who truly internalize and live out the word of God, the ministers who bring spiritual enlightenment, and the esteemed members of the church, though they may be considered less significant, are highly valued by Christ the head. It is important to realize that each member has a unique role to play in the body of Christ, just as the ear serves a different function than the eye.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.0975139362827764,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.84,
+            "commentatorTierSimilarities": [
+                52.84,
+                0.0,
+                47.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just as the first-tier commentary explains, this verse is a continuation of the previous discussion on the importance of every part of the body. The second-tier commentary elaborates on this, highlighting the significance of internalizing the word of God, the role of ministers as enlighteners, and the respect given to esteemed members of the church. As the third-tier commentary points out, even though some members may be considered less significant, they are still valuable in the sight of Christ. Each member has a unique function, just like the ear and the eye.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.292328299041999,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.31,
+            "commentatorTierSimilarities": [
+                63.1,
+                0.0,
+                36.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as the previous discussion emphasizes the importance of every part of the body, this reiterates the point. The first-tier commentary precisely explains this, while the second-tier commentary adds that internalizing the word of God, the ministry of enlightened individuals, and the respect given to esteemed members of the church are all significant. Even though some members may be considered less important, they are highly valued by Christ. It is important to recognize that each member has a unique role, just like the ear and the eye.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.0368687694614716,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.82,
+            "commentatorTierSimilarities": [
+                53.99,
+                0.0,
+                46.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Just as the previous discussion emphasizes every part's importance, this verse reiterates the point. The first-tier commentary explains this precisely. The second-tier commentary adds the significance of internalizing the word of God, the ministry of enlightened individuals, and the respect given to esteemed church members. Even though some may be considered less significant, they're highly valued by Christ. Each member has a unique role, just as the ear and the eye.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.2633797145972399,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.35,
+            "commentatorTierSimilarities": [
+                64.24,
+                0.0,
+                35.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:37:41",
+    "verseRef": "Acts 28:17",
+    "bestBHT": {
+        "bht": "The banishment of Jews from Rome had either tacitly or openly been abrogated, so St. Paul was naturally anxious to set himself right with the Jews at Rome. The fact of his sending for them, and their coming to him, seems to show that he was not imprisoned in the Pr\u00e6torian camp, but was already in a private lodging. He was sure that false reports had come to Rome. The Jews were responsible for his being in the hands of the Romans, though they had hoped to kill him first.",
+        "wordCount": 90,
+        "quoteTokenProportion": 53.23,
+        "qualityScore": 2.354663695078697,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.63,
+        "commentatorTierSimilarities": [
+            45.34,
+            28.86,
+            25.8
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The banishment of Jews from Rome had either tacitly or openly been abrogated some time before this.\" ",
+            "St. Paul was naturally anxious to set himself right with the Jews at Rome.\" ",
+            "The fact of his sending for them, and their coming to him, seems to shew that he was not imprisoned in the Pr\u00e6torian camp, but was already in a private lodging."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though banished from the capital by Claudius, the Jews enjoyed the full benefit of the toleration which distinguished the first period of Nero's reign.\"  ",
+            "We have seen that long before this a flourishing Christian Church existed at Rome, to which Paul wrote his Epistle.\"  ",
+            "Yet was I delivered prisoner from Jerusalem into the hands of the Romans."
+        ],
+        "Albert Barnes": [
+            "In accordance with his custom everywhere, he seized the earliest opportunity of making the gospel known to his own countrymen.",
+            "He naturally supposed that charges highly unfavorable to his character had been sent forward against him to the Jews at Rome by those in Judea.",
+            "Was I delivered prisoner ... - By the Jews."
+        ],
+        "John Calvin": [
+            "He might well have excused himself before men, if he passed over these Jews and turned himself to the Gentiles.",
+            "He looketh unto the calling of God, and is never weary.",
+            "And surely in that he did cleave so holily to Christ, who is the soul and perfection of the law, he is so far from impairing the ordinances of the fathers, that none did better observe the same."
+        ],
+        "Philip Schaff": [
+            "The Book of the \u2018Acts\u2019 tells us of the loving, restless activity of Paul to the last.",
+            "Paul\u2019s loving life-work had been in truth the glorification of Judaism of true Judaism.",
+            "Much of the bitter enmity he had evoked sprang from the utter inability of his selfish, narrow-minded countrymen to disprove his references to the words of the great Hebrew prophets, foretelling the development of the old Hebrew faith into a worldwide religion."
+        ],
+        "Archibald T. Robertson": [
+            "Those that were the chief of the Jews... Literally, 'Those that were first among the Jews.'\" ",
+            "He is anxious that they may understand that this appeal was forced upon him... He was sure that false reports had come to Rome.",
+            "This condensed statement does not explain how he 'was delivered,' for in fact the Jews were trying to kill him when Lysias rescued him from the mob... The Jews were responsible for his being in the hands of the Romans, though they had hoped to kill him first."
+        ],
+        "John Gill": [
+            "Though I have committed nothing against the people and customs of our fathers; meaning he had said nothing disrespectfully of the people of the Jews...",
+            "nor had done anything to the prejudice of their temporal, spiritual, and eternal good, but just the reverse...",
+            "yet was I delivered prisoner from Jerusalem into the hands of the Romans..."
+        ],
+        "John Wesley": [
+            "Given to rest and prayer, Paul called the chief of the Jews together - He always sought the Jews first; but being now bound, he could not so conveniently go round to them.\" ",
+            "Though I have done nothing \u2014 Seeing him chained, they might have suspected he had.",
+            "Therefore he first obviates this suspicion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "The banishment of Jews from Rome had either tacitly or openly been abrogated, so St. Paul was naturally anxious to set himself right with the Jews at Rome. The fact that he sent for them and they came to him shows that he was already in a private lodging, not imprisoned in the Pr\u00e6torian camp. It is clear that Paul wanted the Jewish leaders to understand that the appeal he made was forced upon him, as false reports had likely reached Rome. The Jews were responsible for his being in the hands of the Romans, even though their intention was to kill him. Nonetheless, Paul was determined to make the gospel known to his own countrymen, as he had done throughout his loving, restless life-work.",
+            "wordCount": 126,
+            "quoteTokenProportion": 45.88,
+            "qualityScore": 2.368722783337155,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.1,
+            "commentatorTierSimilarities": [
+                42.41,
+                32.51,
+                25.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The banishment of Jews from Rome had either tacitly or openly been abrogated, so St. Paul was anxious to set himself right with the Jews. He sent for them, showing he was already in a private lodging. The fact that he appealed to them was forced, as he believed false reports had reached Rome. The Jews were trying to kill him but instead delivered him into the hands of the Romans. Nonetheless, Paul was determined to make the gospel known to his own countrymen throughout his restless life-work.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.1836489511794843,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.95,
+            "commentatorTierSimilarities": [
+                41.6,
+                32.1,
+                26.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The banishment of Jews from Rome had either tacitly or openly been abrogated, so St. Paul was anxious to set himself right with the Jews. He sent for them, showing he was already in a private lodging. The fact that he appealed to them was forced, as false reports had reached Rome. Nonetheless, Paul was determined to make the gospel known to his own countrymen throughout his restless life-work.",
+            "wordCount": 70,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.1011317226351673,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.2,
+            "commentatorTierSimilarities": [
+                41.6,
+                32.79,
+                25.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The banishment of Jews from Rome had either tacitly or openly been abrogated, so St. Paul was naturally anxious to set himself right with the Jews at Rome. The fact of his sending for them, and their coming to him, seems to show that he was not imprisoned in the Pr\u00e6torian camp, but was already in a private lodging. He was sure that false reports had come to Rome. The Jews were responsible for his being in the hands of the Romans, though they had hoped to kill him first.",
+            "wordCount": 90,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 2.354663695078697,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.63,
+            "commentatorTierSimilarities": [
+                45.34,
+                28.86,
+                25.8
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

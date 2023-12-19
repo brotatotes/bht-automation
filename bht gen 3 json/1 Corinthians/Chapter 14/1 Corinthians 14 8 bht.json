@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:13:07",
+    "verseRef": "1 Corinthians 14:8",
+    "bestBHT": {
+        "bht": "Like a war-trumpet's uncertain sound, foreign languages spoken in the assembly of believers would be useless for fulfilling their duty and edification. Just as soldiers require distinct trumpet calls for battle directions, believers need a clear and certain sound of the Gospel to prepare themselves for the spiritual battle. Without this clarity, they would be left in confusion, unable to discern their faith and unsure of victory.",
+        "wordCount": 69,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 1.892721036790023,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+        "commentatorTierSimilarities": [
+            22.66,
+            35.77,
+            41.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] uncertain, in its meaning: for a particular succession of notes of the trumpet then, as now, gave the signals for attack, and retreat, and the various evolutions of an army."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For if also...\" - an additional step in the argument.",
+            "uncertain sound\u2014having",
+            "   no definite meaning...\" - whereas it ought to be so marked that one",
+            "   succession of notes on the trumpet should summon the soldiers to",
+            "   attack; another, to retreat; another, to some other evolution."
+        ],
+        "Albert Barnes": [
+            "An uncertain sound was one in which none of these things were indicated, or in which it could not be determined what was required.",
+            "Foreign tongues spoken in their assembly would be just as useless in regard to their duty, their comfort, and edification, as would be the sound of a trumpet when it gave one of the usual and intelligible sounds by which it was known what the soldiers were required to do.",
+            "Just as we would say, that the mere beating on a drum would be useless, unless some tune was played by which it was known that the soldiers were summoned to the parade, to advance, or to retreat."
+        ],
+        "Marvin Vincent": [
+            "The trumpet [\u03c3\u03b1\u03bb\u03c0\u03b9\u03b3\u03be] . Properly, a war - trumpet.\" ",
+            "Sound [\u03c6\u03c9\u03bd\u03b7\u03bd] . Rev., much better, voice, preserving the distinction between the mere sound of the trumpet and the modulated notes.\" ",
+            "The case might be illustrated by the bugle calls or points by which military commands are issued, as distinguished from the mere blare of the trumpet."
+        ],
+        "Philip Schaff": [
+            "Since in all ages the advance and retreat of armies have been directed by sound of trumpet, it is indispensable that the notes expressing each should be sufficiently distinct, the one from the other, and easily understood.",
+            "The word signifies \u2018war\u2019 in general, but is also used for \u2018battle\u2019 in particular, as seems plainly the sense here.",
+            "So in the best classical writers, and Hebrews 11:34; 1Ma 2:41; and surely also in Revelation 9:7; Revelation 16:14."
+        ],
+        "Archibald T. Robertson": [
+            "An uncertain voice (\u03b1\u03b4\u03b7\u03bb\u03bf\u03bd \u03c6\u03c9\u03bd\u03b7\u03bd). Old adjective (\u03b1 privative, \u03b4\u03b7\u03bb\u03bf\u03c2, manifest). In N.T. only here and Luke 11:44.\" ",
+            "Military trumpet (\u03c3\u03b1\u03bb\u03c0\u03b9\u03b3\u03be) is louder than pipe or harp.\" ",
+            "Shall prepare himself (\u03c0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03b1\u03c3\u03b5\u03c4\u03b1). Direct middle future indicative of \u03c0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03b1\u03b6\u03c9, old verb, in N.T. only here, 2 Corinthians 9:2; Acts 10:10. From \u03c0\u03b1\u03c1\u03b1, \u03c3\u03ba\u03b5\u03c5\u03b7 (preparation)."
+        ],
+        "John Gill": [
+            "When it is blown aright, [the sound of the trumpet] blows a blast on all the goodliness of man, it magnifies the grace of God, exalts the person of Christ, debases the creature, shows its impurity, imperfection, and inability; and expresses the nature, use, and necessity of efficacious grace.\" ",
+            "But if this trumpet gives an uncertain sound, as it does when grace and works are blended together in the business of salvation... persons must be thrown into, and left in the utmost uncertainty and confusion.",
+            "When this is the case, they know not what side to take on, but halt between two opinions; they know not what that faith is they are to fight and earnestly contend for; they are not able to discern an enemy from a friend; they have no heart to fight and endure hardness, as good soldiers of Christ; nor can they promise themselves, or be assured of victory, which the certain sound of the Gospel gives them."
+        ],
+        "John Wesley": [
+            "Who will prepare himself for the battle \u2014 Unless he understand what the trumpet sounds? suppose a retreat or a march."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The meaning of this verse can be grasped through the analogy of a trumpet. Just as a clear succession of notes on a trumpet is crucial in summoning soldiers to attack or retreat, an uncertain sound would be useless and confusing. In the same way, foreign tongues spoken during the assembly of believers would be just as useless in accomplishing their duty, comfort, and edification. It is important for the sound of the trumpet to be distinct and easily understood, as it directs the advance and retreat of armies. Similarly, in the spiritual context, a clear and certain sound of the Gospel is necessary for believers to comprehend and prepare themselves for the ongoing battle of faith.",
+            "wordCount": 117,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.046558588765217,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                28.54,
+                32.54,
+                38.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "An uncertain sound on a war-trumpet is ineffective and confusing. Similarly, foreign tongues spoken in the assembly of believers serve no purpose in their duty and edification. Just as soldiers rely on distinct and easily understood trumpet calls for direction in battle, believers require a clear and certain sound of the Gospel for spiritual preparedness. This ensures they are not caught in uncertainty and confusion, but are able to discern their faith, fight for it, and experience the assurance of victory.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.7349076210004877,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.03,
+            "commentatorTierSimilarities": [
+                25.25,
+                33.09,
+                41.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Like a war-trumpet's uncertain sound, foreign languages spoken in the assembly of believers would be useless for fulfilling their duty and edification. Just as soldiers require distinct trumpet calls for battle directions, believers need a clear and certain sound of the Gospel to prepare themselves for the spiritual battle. Without this clarity, they would be left in confusion, unable to discern their faith and unsure of victory.",
+            "wordCount": 69,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.892721036790023,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                22.66,
+                35.77,
+                41.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as soldiers rely on the distinct and easily understood notes of a war-trumpet for direction in battle, believers need a clear and certain sound of the Gospel to prepare themselves for the ongoing spiritual battle. Without this clarity, they would be left in confusion, uncertain of what faith they are fighting for and unable to discern the enemy from a friend. The uncertain sound of blending grace and works together in salvation would only throw them into utmost uncertainty and leave them without assurance of victory.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8477915068673125,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                22.6,
+                29.69,
+                47.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Just as soldiers rely on a clear and certain sound of the war-trumpet for direction in battle, believers need the Gospel to prepare themselves for the ongoing spiritual battle. The uncertain sound of blending grace and works together in salvation would only lead to confusion and uncertainty. It is crucial for believers to discern their faith, understand the enemy, and be assured of victory through the clear and certain sound of the Gospel.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.7496696406825298,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+            "commentatorTierSimilarities": [
+                21.03,
+                29.2,
+                49.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

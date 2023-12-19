@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 14:59:56",
+    "verseRef": "1 Corinthians 1:14",
+    "bestBHT": {
+        "bht": "It may seem surprising that St. Paul does not refer to the import of baptism itself as a reason to substantiate his argument, but rather thanks God for not baptizing many Corinthians except for Crispus and Gaius. Baptism was primarily the office of deacons, and Paul rejoices in the providential arrangement that he did not baptize many, as it could have led to abuse and division. This highlights the need to avoid using baptism as a reason for glorying or boasting, emphasizing unity instead.",
+        "wordCount": 84,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 2.028644153960954,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+        "commentatorTierSimilarities": [
+            39.22,
+            24.81,
+            35.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It may seem surprising that St. Paul should not have referred to the import of baptism itself as a reason to substantiate his argument.\" (Commentary)",
+            "He does not this, but tacitly assumes, ... the probability that his having baptized any considerable number among the Corinthians would naturally have led to the abuse against which he is arguing.\" (Commentary)",
+            "'I am (now) thankful to God, who so ordered it that I did not,'&c.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I thank God's providence now, who so ordered it that I baptized none of you but Crispus and Gaius.\" ",
+            "Baptizing was the office of the deacons rather than of the apostles, whose office was that of establishing and superintending generally the churches.\" ",
+            "Crispus and Gaius were probably among the first converts, and hence were baptized by Paul himself, who founded the church."
+        ],
+        "Albert Barnes": [
+            "To him it was now a subject of grateful reflection that he had not done it. He had not given any occasion for the suspicion that he had intended to set himself up as a leader of a sect or party.",
+            "Crispus had been the chief ruler of the synagogue at Corinth.",
+            "And Gaius resided at Corinth, and at his house Paul resided when he wrote the Epistle to the Romans."
+        ],
+        "John Calvin": [
+            "Paul, indeed, would have acted with propriety, and in accordance with the nature of his office, though he had baptized ever so many.",
+            "He rejoices, however, that it had happened otherwise, and acknowledges it as having been so ordered, in the providence of God, that they might not take occasion from that to glory in him.",
+            "There would have been no harm in it, but (as I have said) there is couched under this a heavy reproach against the Corinthians and their false apostles, inasmuch as a servant of the Lord found occasion to rejoice that he had refrained from a work, otherwise good and commendable, lest it should become an occasion of harm to them."
+        ],
+        "Archibald T. Robertson": [
+            "I thank God\" (\u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03c9 \u03c4\u03c9 \u03b8\u03b5\u03c9). ",
+            "Crispus was the ruler of the synagogue in Corinth before his conversion.\" ",
+            "Gaius a Roman praenomen, probably the host of Paul and of the whole church in Corinth."
+        ],
+        "John Gill": [
+            "I thank God that I baptized none of you... but Crispus and Gaius.\" ",
+            "The apostle disliked the ordinance of baptism, or the administration of it\u2026 but on the contrary rejoiced where proper subjects of it were brought to a submission to it.",
+            "[Paul] was greatly thankful that it was so ordered in providence, that the far greater part of them were baptized by other ministers."
+        ],
+        "John Wesley": [
+            "I thank God...that, in the course of his providence, I baptized none of you.\" ",
+            "I thank God...that...Crispus, once the ruler of the synagogue.\" ",
+            "I thank God...that...Caius."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 1:14, St. Paul does not explicitly mention the importance of baptism to substantiate his argument. This is because he assumes that if he had baptized many Corinthians, it would have led to abuse. Instead, he expresses gratitude to God that he only baptized Crispus and Gaius. It is worth noting that baptizing was primarily the responsibility of deacons rather than apostles, who focused on establishing and overseeing churches. Crispus and Gaius, being among the first converts, were personally baptized by Paul himself. Overall, Paul rejoices in the providential arrangement that he did not baptize many Corinthians, aligning with the truth that baptism should not become a reason for division or boasting.",
+            "wordCount": 112,
+            "quoteTokenProportion": 47.5,
+            "qualityScore": 2.104399546959321,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                38.06,
+                28.36,
+                33.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It may be surprising that St. Paul does not mention the significance of baptism to support his argument. He assumes that baptizing many Corinthians would lead to abuse. Thus, he thanks God for not baptizing many, except for Crispus and Gaius, possibly the first converts. Baptism was mainly the duty of deacons, not apostles. Paul's gratitude reflects the providential arrangement and highlights the importance of avoiding division or boasting based on baptism.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.9205072766078368,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+            "commentatorTierSimilarities": [
+                40.36,
+                24.88,
+                34.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It may seem surprising that St. Paul does not refer to the import of baptism itself as a reason to substantiate his argument, but rather thanks God for not baptizing many Corinthians except for Crispus and Gaius. Baptism was primarily the office of deacons, and Paul rejoices in the providential arrangement that he did not baptize many, as it could have led to abuse and division. This highlights the need to avoid using baptism as a reason for glorying or boasting, emphasizing unity instead.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.028644153960954,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                39.22,
+                24.81,
+                35.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It may be surprising that St. Paul does not mention the significance of baptism to support his argument. He assumes that baptizing many Corinthians would lead to abuse. Thus, he thanks God for not baptizing many, except for Crispus and Gaius, who were likely among the first converts. Paul's gratitude reflects the providential arrangement and emphasizes the importance of avoiding division or boasting based on baptism.",
+            "wordCount": 67,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.9301977455639525,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                39.87,
+                26.09,
+                34.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In 1 Corinthians 1:14, St. Paul does not explicitly mention the importance of baptism to substantiate his argument. He expressed gratitude to God that he only baptized Crispus and Gaius. Baptizing was mainly the responsibility of deacons, not apostles, who were focused on establishing and overseeing churches. Crispus and Gaius, being among the first converts, were personally baptized by Paul himself. Overall, Paul rejoices in the providential arrangement that he did not baptize many Corinthians, aligning with the truth that baptism should not become a reason for division or boasting.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.1385107473257503,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                37.82,
+                29.64,
+                32.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

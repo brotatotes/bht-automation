@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:38:21",
+    "verseRef": "2 Thessalonians 3:18",
+    "bestBHT": {
+        "bht": "May the grace of our Lord Jesus Christ be with you all. This closing prayer is a recurring element in Paul's writings, where he prays for grace upon the recipients. The word Amen was likely added by the congregation in response to the public reading of the Epistle. The subscription, indicating that the Epistle was written from Athens, is likely erroneous, as evidence suggests it was written from Corinth. The use of all in the salutation emphasizes the inclusivity of this grace towards every member of the Thessalonian church, even those who might have faced censure.",
+        "wordCount": 97,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 1.8041638960286515,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+        "commentatorTierSimilarities": [
+            37.01,
+            33.41,
+            29.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He closes every Epistle by praying for GRACE to those whom he addresses.",
+            "Amen\u2014omitted in the oldest manuscripts It was doubtless the response of the congregation after hearing the Epistle read publicly; hence it crept into copies.",
+            "The Subscription is spurious, as the Epistle was written not 'from Athens,' but from Corinth."
+        ],
+        "Albert Barnes": [
+            "The grace of our Lord Jesus Christ be with you all\" - See the notes, Romans 16:20.",
+            "From the subscription to this Epistle, it purports to have been 'written from Athens.' This is probably incorrect, as there is reason to think that it was written from Corinth.",
+            "At all events, this subscription is of no authority. See the notes at the end of the Epistles to the Romans and 1 Corinthians."
+        ],
+        "Philip Schaff": [
+            "Possibly this word is added to the benediction with which the First Epistle was closed...\" (2 Thessalonians 3:18)",
+            "...that even those who had been censured might feel that they were sharers in it.\" (2 Thessalonians 3:18)",
+            "All.\" (2 Thessalonians 3:18)"
+        ],
+        "Archibald T. Robertson": [
+            "Salutation just like that in 1 Thessalonians 5:28 with the addition of \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd (all). "
+        ],
+        "John Gill": [
+            "The grace of our Lord Jesus Christ be with you all. Amen.\" ",
+            "This was the sign or token.\" ",
+            "The Second Epistle to the Thessalonians was written from Athens."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the grace of our Lord Jesus Christ be with you all. This closing prayer is a common theme in Paul's letters, as he consistently prays for grace upon those he addresses. The word Amen was likely added by the congregation as a response after hearing the letter read publicly. It is worth noting that the subscription, stating that the Epistle was written from Athens, is likely incorrect, as evidence suggests it was written from Corinth. Furthermore, the addition of all in the salutation emphasizes that this grace is extended to every member of the Thessalonian church, even those who had been censured.",
+            "wordCount": 104,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.7822156081742753,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                39.69,
+                32.6,
+                27.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May the grace of our Lord Jesus Christ be with you all. This closing prayer, a recurring theme in Paul's letters, asks for the extension of grace upon the recipients. The word Amen is likely a response from the congregation after hearing the Epistle read publicly. The subscription claiming that the Epistle was written from Athens is likely incorrect, as evidence suggests it was written from Corinth. The inclusion of all in the salutation emphasizes that this grace is extended to every member of the Thessalonian church.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7815345585177247,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.58,
+            "commentatorTierSimilarities": [
+                38.4,
+                32.2,
+                29.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the grace of our Lord Jesus Christ be with you all. This closing prayer is a common theme in Paul's letters, as he consistently prays for grace upon those he addresses. The word Amen was likely added by the congregation as a response after hearing the letter read publicly. It is worth noting that the subscription, stating that the Epistle was written from Athens, is likely incorrect, as evidence suggests it was written from Corinth. The inclusion of all in the salutation emphasizes that this grace is extended to every member of the Thessalonian church.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.7681385327747465,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                39.38,
+                31.77,
+                28.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May the grace of our Lord Jesus Christ be with you all. This closing prayer is a common theme in Paul's letters, as he consistently prays for grace upon those he addresses. The word Amen was likely added by the congregation as a response after hearing the letter read publicly. The subscription claiming that the Epistle was written from Athens is likely incorrect, as evidence suggests it was written from Corinth. The inclusion of all in the salutation emphasizes the extension of this grace to every member of the Thessalonian church, even those who may have been censured.",
+            "wordCount": 99,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.7820948403428596,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                38.66,
+                32.95,
+                28.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May the grace of our Lord Jesus Christ be with you all. This closing prayer is a recurring element in Paul's writings, where he prays for grace upon the recipients. The word Amen was likely added by the congregation in response to the public reading of the Epistle. The subscription, indicating that the Epistle was written from Athens, is likely erroneous, as evidence suggests it was written from Corinth. The use of all in the salutation emphasizes the inclusivity of this grace towards every member of the Thessalonian church, even those who might have faced censure.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.8041638960286515,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+            "commentatorTierSimilarities": [
+                37.01,
+                33.41,
+                29.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}
